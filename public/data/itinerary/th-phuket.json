@@ -160,6 +160,196 @@
         "hu": "Reggel a Surin Circle-nél kezdünk, majd a Thavorn és Trickeye múzeumokban folytatjuk.\n\nDélben megcsodáljuk a Chinpracha Ház kínai-portugál építészetét.\n\nDélután vadon élő majmokat figyelünk meg a Monkey Feeding Point-nál.\n\nEste a Toh Sae Hill kilátóból gyönyörködünk a fantasztikus naplementében.",
         "ro": "Dimineața începem la Surin Circle și descoperim istoria la muzeele Thavorn și Trickeye.\n\nLa prânz admirăm arhitectura chino-portugheză a Chinpracha House.\n\nDupă-amiaza observăm maimuțele sălbatice la Monkey Feeding Point.\n\nSeara ne bucurăm de apusul magnific de la Toh Sae Hill Viewpoint.",
         "en": "We start the morning at Surin Circle, exploring the Thavorn and Trickeye museums.\n\nAt midday, we admire the Sino-Portuguese architecture of Chinpracha House.\n\nThe afternoon is spent observing wild monkeys at the Monkey Feeding Point.\n\nWe conclude the evening with a beautiful sunset at Toh Sae Hill Viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Surin Circle bieten die historischen Arkaden Schutz vor ersten Schauern. Mittags verbringen wir die Zeit in den klimatisierten und trockenen Museen der Altstadt. Nachmittags erkunden wir das Chinpracha House, das auch bei Regen seinen kolonialen Charme bewahrt. Abends steigen wir vorsichtig zum Toh Sae Hill auf, wobei festes Schuhwerk auf dem nassen, rutschigen Asphalt unerlässlich ist.",
+            "hu": "Reggel a Surin Circle környékén az óvárosi árkádok nyújtanak menedéket az első záporok elől. Délben a belvárosi múzeumok száraz és hűvös termei között bújunk el a trópusi eső elől. Délután a Chinpracha-ház fedett belső udvarán pihenünk. Este óvatosan kaptatunk fel a Toh Sae dombra, mivel az aszfalt ilyenkor rendkívül csúszós lehet a párás időben.",
+            "ro": "Dimineața, arcadele istorice de lângă Surin Circle oferă adăpost împotriva ploilor matinale. La prânz, vizităm muzeele răcoroase din centrul vechi pentru a rămâne uscați în timpul averselor tropicale. După-amiaza explorăm Casa Chinpracha, admirând arhitectura protejați de streșini. Seara, urcăm cu grijă pe dealul Toh Sae, fiind atenți la asfaltul ud și alunecos de pe traseu.",
+            "en": "In the morning, the historic arcades near Surin Circle provide shelter from early showers. At noon, the indoor museums in the old town offer a dry and air-conditioned refuge from the tropical rain. Afternoon is spent exploring Chinpracha House, which remains charming even under grey skies. In the evening, walk carefully up Toh Sae Hill as the wet asphalt can be very slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Surin Circle",
+                "hu": "Surin Circle",
+                "ro": "Surin Circle",
+                "en": "Surin Circle"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben am Uhrturm aus dem Schutz der umliegenden Bogengänge und halten Sie Ihren Regenschirm für plötzliche Wolkenbrüche bereit.",
+                "hu": "Figyelje az óratorony körüli forgalmat a környező árkádok védelméből, és tartsa készenlétben esernyőjét a hirtelen lezúduló trópusi felhőszakadásra.",
+                "ro": "Admirați turnul cu ceas de la adăpostul arcadelor înconjurătoare și pregătiți umbrela pentru exploziile bruște de ploaie specifice climatului tropical.",
+                "en": "Observe the clock tower from the safety of the surrounding arcades and keep your umbrella ready for the sudden bursts of heavy tropical rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Thavorn Phuket Museum",
+                "hu": "Thavorn Phuket Museum",
+                "ro": "Thavorn Phuket Museum",
+                "en": "Thavorn Phuket Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum in einem alten Hotel ist der ideale Ort, um eine Regenpause einzulegen und dabei tief in die lokale Bergbaugeschichte einzutauchen.",
+                "hu": "Ez a régi szállodában berendezett múzeum ideális hely egy esőszünetre, miközben elmerülhetünk a helyi bányászat lenyűgöző történelmi emlékei között.",
+                "ro": "Acest muzeu situat într-un hotel vechi este locul ideal pentru o pauză de ploaie, oferind o incursiune fascinantă în istoria locală a mineritului.",
+                "en": "This museum inside an old hotel is the perfect place for a rain break while diving deep into the fascinating local history of tin mining."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Trickeye Museum",
+                "hu": "Phuket Trickeye Museum",
+                "ro": "Phuket Trickeye Museum",
+                "en": "Phuket Trickeye Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie stundenlangen, trockenen Spaß mit interaktiven 3D-Gemälden, die bei bewölktem Licht auf Fotos oft sogar noch realistischer wirken.",
+                "hu": "Élvezze a többórás, garantáltan száraz szórakozást az interaktív 3D festmények között, amelyek borús fényben sokszor még élethűbbek a fotókon.",
+                "ro": "Bucurați-vă de ore de distracție la adăpost cu picturile 3D interactive care, în lumină difuză, par adesea și mai realiste în fotografiile făcute.",
+                "en": "Enjoy hours of dry fun with interactive 3D paintings that often look even more realistic in photos when the outside light is filtered by clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chinpracha House",
+                "hu": "Chinpracha House",
+                "ro": "Chinpracha House",
+                "en": "Chinpracha House"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Möbel und Fliesen im Inneren dieses Herrenhauses, während draußen der Regen auf den traditionellen Innenhof prasselt.",
+                "hu": "Csodálja meg a kúria antik bútorait és padlólapjait bentről, miközben az udvaron doboló eső hangja különleges atmoszférát teremt a látogatáshoz.",
+                "ro": "Admirați mobilierul antic și plăcile ceramice din interiorul conacului, în timp ce sunetul ploii din curtea interioară creează o atmosferă aparte.",
+                "en": "Admire the antique furniture and floor tiles inside this mansion while the sound of rain in the inner courtyard adds a special atmosphere to your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey Feeding Point",
+                "hu": "Monkey Feeding Point",
+                "ro": "Monkey Feeding Point",
+                "en": "Monkey Feeding Point"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Pavillons und beobachten Sie die Affen, die bei Regen oft unter den Bäumen Deckung suchen und weniger aktiv sind.",
+                "hu": "Keressen menedéket a pavilonok alatt, és figyelje meg a majmokat, akik esőben gyakran a sűrű lombok közé húzódnak, így nehezebben észrevehetőek.",
+                "ro": "Căutați adăpost sub pavilioane și observați maimuțele care, pe timp de ploaie, tind să se retragă sub copaci și sunt mult mai puțin active.",
+                "en": "Seek shelter under the pavilions and observe the monkeys, who often hide among the trees during rain and may be less active than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Toh Sae Hill Viewpoint",
+                "hu": "Toh Sae Hill Viewpoint",
+                "ro": "Toh Sae Hill Viewpoint",
+                "en": "Toh Sae Hill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den mystischen Anblick des wolkenverhangenen Phuket, aber achten Sie auf den extrem glitschigen Boden bei den Aussichtsplattformen.",
+                "hu": "Élvezze a felhőkbe burkolózó Phuket misztikus látványát, de vigyázzon a kilátóplatformok körüli kövekre, amelyek vizesen nagyon csúszóssá válnak.",
+                "ro": "Bucurați-vă de vederea mistică asupra orașului Phuket acoperit de nori, dar aveți mare grijă la platformele de observare care devin foarte alunecoase.",
+                "en": "Enjoy the mystical view of Phuket shrouded in clouds, but be extremely careful on the observation platforms as they become very slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die kühle Winterbrise für einen entspannten Spaziergang durch die Altstadt. Mittags ist die Sonne zwar intensiv, aber die Luftfeuchtigkeit ist angenehm niedrig. Nachmittags färbt das warme Licht die Sino-Portugiesischen Fassaden golden. Abends müssen wir zügig zum Toh Sae Hill aufsteigen, da die Sonne bereits gegen 17:00 Uhr untergeht und es schnell dunkel wird.",
+            "hu": "Reggel kihasználjuk a friss téli szellőt egy kellemes sétára az óváros színes házai között. Délben a nap ereje ellenére is elviselhetőbb a hőség az alacsony páratartalom miatt. Délután a lemenő nap aranyra festi a homlokzatokat. Este legkésőbb ötre érjünk fel a kilátóba, mert a nap korán nyugszik és hirtelen lesz sötét.",
+            "ro": "Dimineața profităm de briza răcoroasă de iarnă pentru o plimbare relaxantă printre casele colorate. La prânz, umiditatea scăzută face ca soarele puternic să fie mult mai suportabil. După-amiaza, lumina caldă colorează fațadele în tonuri aurii. Seara, ajungeți la punctul de belvedere înainte de ora 17:00, deoarece soarele apune devreme.",
+            "en": "In the morning, we take advantage of the cool winter breeze for a relaxed stroll through the old town. At noon, the low humidity makes the intense sun much more bearable. In the afternoon, the warm light paints the facades in golden hues. In the evening, aim to reach the viewpoint by 5 PM, as the sun sets early during winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Surin Circle",
+                "hu": "Surin Circle",
+                "ro": "Surin Circle",
+                "en": "Surin Circle"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Wintermorgen bieten das beste Licht für Fotos des Uhrturms, bevor die Mittagshitze und der starke Verkehr am Kreisel zunehmen.",
+                "hu": "A tiszta téli reggeleken a legszebbek a fények az óratorony fotózásához, még mielőtt a déli hőség és a forgalom megerősödne a körforgalom körül.",
+                "ro": "Diminețile senine de iarnă oferă cea mai bună lumină pentru fotografierea turnului cu ceas, înainte ca traficul și căldura de la prânz să crească.",
+                "en": "Clear winter mornings offer the best light for photographing the clock tower before the midday heat and traffic around the circle intensify."
+              }
+            },
+            {
+              "name": {
+                "de": "Thavorn Phuket Museum",
+                "hu": "Thavorn Phuket Museum",
+                "ro": "Thavorn Phuket Museum",
+                "en": "Thavorn Phuket Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühleren Vormittag, um die weitläufigen Sammlungen zu erkunden, da die Belüftung in den alten Gemäuern im Winter am angenehmsten ist.",
+                "hu": "Használja ki a hűvösebb délelőttöt a gyűjtemény felfedezésére, mivel a régi falak közötti szellőzés a téli hónapokban a legkellemesebb.",
+                "ro": "Profită de dimineața mai răcoroasă pentru a explora colecțiile, deoarece ventilația în clădirea veche este cea mai plăcută în timpul iernii.",
+                "en": "Take advantage of the cooler morning to explore the extensive collections, as ventilation in the old building is most pleasant during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Trickeye Museum",
+                "hu": "Phuket Trickeye Museum",
+                "ro": "Phuket Trickeye Museum",
+                "en": "Phuket Trickeye Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage bietet zur Mittagszeit eine willkommene Erfrischung, während Sie kreative Fotos ohne die großen Touristenmassen der Hochsaison machen.",
+                "hu": "A légkondicionálás délidőben frissítő élményt nyújt, miközben kreatív fotókat készíthet a főszezonra jellemző nagy tömeg elkerülésével.",
+                "ro": "Aerul condiționat oferă o răcorire binevenită la prânz, în timp ce faceți fotografii creative fără mulțimile mari de turiști din vârful de sezon.",
+                "en": "The air conditioning provides a welcome refreshment at noon while you take creative photos without the heavy crowds of the peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chinpracha House",
+                "hu": "Chinpracha House",
+                "ro": "Chinpracha House",
+                "en": "Chinpracha House"
+              },
+              "tip_5lang": {
+                "de": "Der Garten des Hauses blüht im Winter herrlich auf und das sanftere Sonnenlicht bringt die Details der Architektur besonders gut zur Geltung.",
+                "hu": "A ház kertje télen pompázik a legszebben, a lágyabb napsütés pedig kiemeli az építészeti részleteket, amelyek ilyenkor nem vesznek el az erős fényben.",
+                "ro": "Grădina casei înflorește superb iarna, iar lumina mai blândă a soarelui evidențiază detaliile arhitecturale fine ale conacului istoric.",
+                "en": "The house garden blooms beautifully in winter, and the softer sunlight highlights architectural details that might be lost in harsher summer light."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey Feeding Point",
+                "hu": "Monkey Feeding Point",
+                "ro": "Monkey Feeding Point",
+                "en": "Monkey Feeding Point"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am Nachmittag, wenn die Affen im milden Winterlicht besonders fotogen sind, aber seien Sie vor Sonnenuntergang wieder zurück.",
+                "hu": "Látogasson el ide délután, amikor a majmok a lágy téli fényben különösen fotogének, de induljon vissza még a korai sötétedés beállta előtt.",
+                "ro": "Vizitați acest loc după-amiaza, când maimuțele sunt foarte fotogenice în lumina blândă de iarnă, dar plecați înainte de apusul devreme.",
+                "en": "Visit in the afternoon when the monkeys are particularly photogenic in the mild winter light, but make sure to leave before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Toh Sae Hill Viewpoint",
+                "hu": "Toh Sae Hill Viewpoint",
+                "ro": "Toh Sae Hill Viewpoint",
+                "en": "Toh Sae Hill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt vor 17:00 Uhr an, um den frühen Sonnenuntergang über Phuket zu erleben, wenn die Luft am klarsten und die Aussicht am weitesten ist.",
+                "hu": "Mindenképpen érkezzen meg délután öt előtt, hogy elcsípje a korai naplementét, amikor a levegő a legtisztább és a legtávolabb lehet ellátni.",
+                "ro": "Ajungeți neapărat înainte de ora 17:00 pentru a surprinde apusul devreme peste Phuket, când aerul este cel mai curat și vizibilitatea maximă.",
+                "en": "Be sure to arrive before 5 PM to catch the early sunset over Phuket, when the air is clearest and the visibility is at its absolute best."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel a Surin Circle-től a történelmi Chinpracha Házhoz tekerünk.\n\nDélben elérjük az Aphrodite Cabaret Show lenyűgöző színházát.\n\nDélután a Monkey Feeding Point-hoz hajtunk, majd felmászunk a Toh Sae Hill kilátóhoz.\n\nEste a békés Wat Koh Sirey templomnál pihenjük ki a napot.",
         "ro": "Dimineața pedalăm de la Surin Circle până la istorica Chinpracha House.\n\nLa prânz ajungem la teatrul impresionant al Aphrodite Cabaret Show.\n\nDupă-amiaza mergem la Monkey Feeding Point și urcăm la Toh Sae Hill Viewpoint.\n\nSeara ne relaxăm la templul liniștit Wat Koh Sirey.",
         "en": "We cycle from Surin Circle to the historic Chinpracha House in the morning.\n\nBy midday, we reach the impressive Aphrodite Cabaret Show theater.\n\nIn the afternoon, we head to the Monkey Feeding Point and climb to Toh Sae Hill Viewpoint.\n\nThe evening concludes relaxing at peaceful Wat Koh Sirey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch den Surin Circle und nutzen Regenponchos gegen kurze Schauer. Mittags bietet die Cabaret Show eine lange, trockene Pause. Nachmittags suchen wir bei den Affenpavillons Schutz, falls es zu stark regnet. Abends beenden wir die Tour am Wat Koh Sirey, wobei wir auf den Küstenstraßen besonders auf Pfützen und rutschige Kurven achten müssen.",
+            "hu": "Reggel óvatosan vágunk át a Surin Circle forgalmán, esőponcsóval készülve a rövid záporokra. Délben a kabaré előadása hosszú és száraz pihenőt biztosít. Délután a majometető pavilonjai alatt húzódunk meg, ha felerősödik az eső. Este a Wat Koh Sirey templomnál zárunk, kiemelten figyelve a parti utak pocsolyáira és a csúszós kanyarokra.",
+            "ro": "Dimineața pedalăm cu atenție prin Surin Circle, folosind pelerine de ploaie pentru a ne proteja. La prânz, spectacolul de cabaret oferă o pauză lungă și uscată. După-amiaza ne adăpostim sub pavilioanele de pe deal dacă ploaia se întețește. Seara încheiem la Wat Koh Sirey, fiind foarte atenți la bălțile și curbele alunecoase de pe drum.",
+            "en": "In the morning, we cycle carefully through Surin Circle using rain ponchos to stay dry. At noon, the cabaret show provides a long, dry break from the elements. Afternoon is spent seeking cover under pavilions if the rain intensifies. In the evening, we finish at Wat Koh Sirey, paying extra attention to puddles and slippery curves on coastal roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Surin Circle",
+                "hu": "Surin Circle",
+                "ro": "Surin Circle",
+                "en": "Surin Circle"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie auf dem nassen Pflaster am Kreisverkehr frühzeitig ab und nutzen Sie die umliegenden Cafés für einen kurzen Stopp bei starken Güssen.",
+                "hu": "Fékezzen időben a körforgalom nedves aszfaltján, és használja a környező kávézókat egy rövid pihenőre, ha eleredne a heves trópusi eső.",
+                "ro": "Frânați din timp pe asfaltul ud din sensul giratoriu și folosiți cafenelele din jur pentru un scurt popas dacă începe o ploaie torențială.",
+                "en": "Brake early on the wet pavement around the circle and use the nearby cafes for a short stop if a heavy tropical downpour starts suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chinpracha House",
+                "hu": "Chinpracha House",
+                "ro": "Chinpracha House",
+                "en": "Chinpracha House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Vordächern und genießen Sie die trockene, historische Atmosphäre im Inneren dieses prachtvollen Anwesens.",
+                "hu": "Parkolja le kerékpárját az eresz alatt, és élvezze a száraz, történelmi atmoszférát ezen a pompás birtokon, amíg kint esik az eső.",
+                "ro": "Parcați bicicleta sub streșini și bucurați-vă de atmosfera istorică uscată din interiorul acestei proprietăți superbe cât timp plouă afară.",
+                "en": "Park your bike under the eaves and enjoy the dry, historical atmosphere inside this magnificent estate while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aphrodite Cabaret Show",
+                "hu": "Aphrodite Cabaret Show",
+                "ro": "Aphrodite Cabaret Show",
+                "en": "Aphrodite Cabaret Show"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für eine ausgiebige Pause im Trockenen, während Sie eine farbenfrohe Show in einer klimatisierten Umgebung erleben.",
+                "hu": "Ez a tökéletes helyszín egy kiadós pihenőre a szárazban, miközben egy látványos előadást élvezhet a kellemesen hűvös, fedett nézőtéren.",
+                "ro": "Acesta este locul perfect pentru o pauză prelungită la uscat, unde puteți urmări un spectacol spectaculos într-un mediu climatizat și confortabil.",
+                "en": "This is the perfect spot for an extended break in the dry while enjoying a spectacular show in a comfortable, air-conditioned environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey Feeding Point",
+                "hu": "Monkey Feeding Point",
+                "ro": "Monkey Feeding Point",
+                "en": "Monkey Feeding Point"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie steile, nasse Pfade mit dem Fahrrad; bleiben Sie auf der befestigten Straße und nutzen Sie die kleinen Unterstände zur Beobachtung.",
+                "hu": "Kerülje a meredek, nedves ösvényeket kerékpárral; maradjon a szilárd burkolatú úton, és használja a kis pavilonokat a majmok megfigyeléséhez.",
+                "ro": "Evitați potecile abrupte și ude cu bicicleta; rămâneți pe drumul asfaltat și folosiți micile adăposturi pentru a observa maimuțele în siguranță.",
+                "en": "Avoid steep, wet paths with your bike; stay on the paved road and use the small shelters for observing the monkeys safely during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Toh Sae Hill Viewpoint",
+                "hu": "Toh Sae Hill Viewpoint",
+                "ro": "Toh Sae Hill Viewpoint",
+                "en": "Toh Sae Hill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bergab extrem langsam, da die Bremswirkung auf nassem Untergrund stark nachlässt und die Kurven am Hügel tückisch sein können.",
+                "hu": "Ereszkedjen lefelé rendkívül lassan, mivel a fékhatás vizes úton jelentősen csökken, és a domb kanyarjai ilyenkor veszélyesek lehetnek.",
+                "ro": "Coborâți panta extrem de lent, deoarece eficiența frânelor scade considerabil pe asfalt ud, iar curbele pot deveni foarte periculoase.",
+                "en": "Descend the hill extremely slowly as braking efficiency decreases significantly on wet roads and the curves can be quite treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Koh Sirey",
+                "hu": "Wat Koh Sirey",
+                "ro": "Wat Koh Sirey",
+                "en": "Wat Koh Sirey"
+              },
+              "tip_5lang": {
+                "de": "Die Tempelgebäude bieten Schutz; genießen Sie die Ruhe und den Blick auf das Meer, das bei Regen eine ganz eigene, graue Dramatik entwickelt.",
+                "hu": "A templom épületei védelmet nyújtanak; élvezze a csendet és a kilátást a tengerre, amely esőben különleges, drámai arcát mutatja felénk.",
+                "ro": "Clădirile templului oferă protecție; bucurați-vă de liniște și de vederea spre mare, care capătă o tentă dramatică și gri în timpul ploii.",
+                "en": "The temple buildings provide cover; enjoy the silence and the sea view, which takes on a uniquely dramatic and grey tone during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir den kühlen Fahrtwind auf dem Weg zum Chinpracha House. Mittags radeln wir durch die weniger feuchte Luft zum Cabaret, was deutlich angenehmer ist als im Sommer. Nachmittags ist die Sicht vom Toh Sae Hill im Winter am klarsten. Abends erreichen wir Wat Koh Sirey pünktlich zum frühen Sonnenuntergang um 17:00 Uhr, um das goldene Licht über dem Meer zu erleben.",
+            "hu": "Reggel élvezzük a hűvös menetszelet a Chinpracha-ház felé vezető úton. Délben a kevésbé párás levegőben tekerünk a kabaré felé, ami sokkal kellemesebb, mint nyáron. Délután a Toh Sae dombról nyíló kilátás télen a legtisztább. Este pontban ötre érjünk a Wat Koh Sirey templomhoz, hogy elkapjuk a tenger feletti arany órát.",
+            "ro": "Dimineața ne bucurăm de briza răcoroasă în timp ce pedalăm spre Casa Chinpracha. La prânz, aerul mai puțin umed face drumul spre cabaret mult mai plăcut. După-amiaza, vizibilitatea de pe dealul Toh Sae este maximă. Seara, ajungem la Wat Koh Sirey fix la ora 17:00 pentru a surprinde apusul auriu peste mare.",
+            "en": "In the morning, enjoy the cool breeze while cycling towards Chinpracha House. At noon, the lower humidity makes the ride to the cabaret much more pleasant than in summer. Afternoon offers the clearest views from Toh Sae Hill. In the evening, reach Wat Koh Sirey by 5 PM to experience the stunning golden hour over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Surin Circle",
+                "hu": "Surin Circle",
+                "ro": "Surin Circle",
+                "en": "Surin Circle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Licht des frühen Vormittags für ein Foto mit dem Fahrrad vor dem Uhrturm, bevor der Verkehr am Kreisel zu stark wird.",
+                "hu": "Használja ki a kora délelőtti lágy fényeket egy fotóhoz a kerékpárral az óratorony előtt, még mielőtt a forgalom túl sűrűvé válna.",
+                "ro": "Profită de lumina blândă a dimineții pentru o fotografie cu bicicleta în fața turnului cu ceas, înainte ca traficul să devină prea intens.",
+                "en": "Take advantage of the soft early morning light for a photo with your bike in front of the clock tower before the traffic becomes too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Chinpracha House",
+                "hu": "Chinpracha House",
+                "ro": "Chinpracha House",
+                "en": "Chinpracha House"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Plätze im Garten sind im Winter besonders einladend für eine kurze Trinkpause, bevor es weiter Richtung Norden geht.",
+                "hu": "A kert árnyékos részei télen különösen hívogatóak egy rövid frissítő szünetre, mielőtt továbbtekernénk északi irányba a szigeten.",
+                "ro": "Zonele umbrite din grădină sunt extrem de primitoare iarna pentru o scurtă pauză de hidratare înainte de a continua drumul spre nord.",
+                "en": "The shaded spots in the garden are especially inviting in winter for a quick hydration break before continuing your ride further north."
+              }
+            },
+            {
+              "name": {
+                "de": "Aphrodite Cabaret Show",
+                "hu": "Aphrodite Cabaret Show",
+                "ro": "Aphrodite Cabaret Show",
+                "en": "Aphrodite Cabaret Show"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher auf dem Gelände und genießen Sie die Show; die trockene Winterluft macht den Aufenthalt in der Anlage sehr angenehm.",
+                "hu": "Parkolja le biztonságosan kerékpárját a területen, és élvezze az előadást; a száraz téli levegő miatt a komplexumban tartózkodni nagyon kellemes.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de spectacol; aerul uscat de iarnă face ca timpul petrecut în complex să fie foarte relaxant.",
+                "en": "Park your bike safely on the premises and enjoy the show; the dry winter air makes spending time at the complex very comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey Feeding Point",
+                "hu": "Monkey Feeding Point",
+                "ro": "Monkey Feeding Point",
+                "en": "Monkey Feeding Point"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Affen oft aktiver; beobachten Sie sie aus sicherer Entfernung von Ihrem Rad aus und achten Sie auf Ihre Habseligkeiten.",
+                "hu": "Télen a majmok gyakran aktívabbak; figyelje meg őket biztonságos távolságból a kerékpárjáról, és vigyázzon az értéktárgyaira a kosárban.",
+                "ro": "Iarna maimuțele sunt adesea mai active; observați-le de la o distanță sigură de pe bicicletă și aveți grijă la obiectele personale din coș.",
+                "en": "Monkeys are often more active in winter; observe them from a safe distance on your bike and keep a close eye on your belongings in the basket."
+              }
+            },
+            {
+              "name": {
+                "de": "Toh Sae Hill Viewpoint",
+                "hu": "Toh Sae Hill Viewpoint",
+                "ro": "Toh Sae Hill Viewpoint",
+                "en": "Toh Sae Hill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg per Rad ist bei der geringeren Luftfeuchtigkeit im Winter weniger anstrengend, und die Belohnung ist eine kristallklare Fernsicht.",
+                "hu": "A kerékpáros felkapaszkodás a kisebb páratartalom miatt télen kevésbé megterhelő, a jutalom pedig egy kristálytiszta panoráma a szigetre.",
+                "ro": "Urcarea cu bicicleta este mai puțin obositoare iarna datorită umidității scăzute, iar recompensa este o panoramă de o claritate excepțională.",
+                "en": "The climb by bike is less strenuous in winter due to lower humidity, and the reward is a crystal-clear panoramic view of the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Koh Sirey",
+                "hu": "Wat Koh Sirey",
+                "ro": "Wat Koh Sirey",
+                "en": "Wat Koh Sirey"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft so, dass Sie den Sonnenuntergang um 17:00 Uhr nicht verpassen, da die Dämmerung im Winter sehr kurz ist.",
+                "hu": "Tervezze úgy az érkezést, hogy ne késse le a délután ötkor kezdődő naplementét, mivel a szürkület télen rendkívül rövid ideig tart.",
+                "ro": "Planificați sosirea astfel încât să nu ratați apusul de la ora 17:00, deoarece amurgul este foarte scurt în timpul lunilor de iarnă.",
+                "en": "Plan your arrival so you don't miss the 5 PM sunset, as the twilight period is very short during the winter months in the tropics."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A túra a Tin Mining Monumentnél indul, majd a Chalerm Phra Kiat Parkban pihenünk.\n\nDélben a Chinpracha Házat és a Phuket Mining Múzeumot látogatjuk meg.\n\nDélután a Siam Niramit Show-n a thai kultúrában merülünk el.\n\nEste a színes Sapam Templomnál zárjuk a tartalmas napot.",
         "ro": "Conducem de la Monumentul Mineritului și facem o pauză în Parcul Chalerm Phra Kiat.\n\nLa prânz vizităm Chinpracha House și Muzeul Mineritului din Phuket.\n\nDupă-amiaza ne cufundăm în cultura thailandeză la Siam Niramit Show.\n\nSeara încheiem ziua la coloratul Templu Sapam.",
         "en": "The drive starts at the Tin Mining Monument, followed by a break at Chalerm Phra Kiat Park.\n\nAt midday, we visit Chinpracha House and the Phuket Mining Museum.\n\nIn the afternoon, we immerse ourselves in Thai culture at the Siam Niramit Show.\n\nThe evening ends at the colorful Sapam Temple."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir das Bergbaumonument bequem im trockenen Auto. Mittags bietet der Park zwar wenig Schutz, aber die Museen am Nachmittag sind perfekte Zufluchtsorte bei starkem Regen. Die Fahrt zum Siam Niramit erfolgt stressfrei trotz nasser Straßen. Abends besichtigen wir den Sapam-Tempel, wobei wir die beleuchteten Schreine direkt vom Parkplatz aus gut erreichen können.",
+            "hu": "Reggel kényelmesen, száraz autóban ülve látogatjuk meg a bányászati emlékművet. Délben a park kevés védelmet nyújt, de a délutáni múzeumok tökéletes menedékek a heves esőben. Az út a Siam Niramit show-hoz zökkenőmentes a vizes utakon is. Este a Sapam-templomot nézzük meg, amelynek kivilágított részei közvetlenül a parkolóból is jól láthatóak.",
+            "ro": "Dimineața vizităm monumentul mineritului confortabil, din mașina uscată. La prânz, parcul oferă puțin adăpost, dar muzeele de după-amiază sunt refugii perfecte în caz de ploaie. Drumul spre Siam Niramit este relaxant în ciuda asfaltului ud. Seara vizităm Templul Sapam, unde sanctuarele luminate sunt ușor accesibile direct din parcare.",
+            "en": "In the morning, visit the mining monument comfortably from the dry car. At noon, the park offers little shelter, but the afternoon museums are perfect refuges from heavy rain. The drive to Siam Niramit is stress-free despite wet roads. In the evening, visit Sapam Temple, where the illuminated shrines are easily accessible directly from the parking lot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tin Mining Monument",
+                "hu": "Tin Mining Monument",
+                "ro": "Tin Mining Monument",
+                "en": "Tin Mining Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal aus dem Auto heraus oder nutzen Sie eine kurze Regenpause für ein schnelles Foto, bevor Sie zum nächsten Ziel weiterfahren.",
+                "hu": "Tekintse meg az emlékművet az autóból, vagy használjon ki egy rövid esőszünetet egy gyors fotóhoz, mielőtt továbbhajtana a következő célpont felé.",
+                "ro": "Admirați monumentul din mașină sau profitați de o scurtă pauză de ploaie pentru o fotografie rapidă înainte de a pleca spre următoarea destinație.",
+                "en": "Observe the monument from the car or take advantage of a short break in the rain for a quick photo before driving to your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalerm Phra Kiat Park",
+                "hu": "Chalerm Phra Kiat Park",
+                "ro": "Chalerm Phra Kiat Park",
+                "en": "Chalerm Phra Kiat Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Fahrzeug und genießen Sie die grüne Aussicht oder nutzen Sie die überdachten Bereiche in der Nähe des Eingangs.",
+                "hu": "Heves esőzés esetén maradjon a járműben és élvezze a zöld panorámát, vagy használja a bejárat közelében található fedett részeket pihenésre.",
+                "ro": "În caz de ploaie torențială, rămâneți în vehicul și admirați peisajul verde sau folosiți zonele acoperite din apropierea intrării principale.",
+                "en": "In case of heavy rain, stay in the vehicle and enjoy the green view or use the covered areas near the entrance for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Chinpracha House",
+                "hu": "Chinpracha House",
+                "ro": "Chinpracha House",
+                "en": "Chinpracha House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorteil des Autos, um direkt vor dem Anwesen zu parken und so fast trocken in das faszinierende historische Gebäude zu gelangen.",
+                "hu": "Használja ki az autó előnyét, és parkoljon közvetlenül a birtok előtt, így szinte szárazon juthat be a lenyűgöző történelmi épület belsejébe.",
+                "ro": "Profită de avantajul mașinii și parchează chiar în fața proprietății pentru a intra aproape uscat în interiorul fascinantei clădiri istorice.",
+                "en": "Take advantage of the car and park directly in front of the estate to enter the fascinating historical building while staying almost completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Mining Museum",
+                "hu": "Phuket Mining Museum",
+                "ro": "Phuket Mining Museum",
+                "en": "Phuket Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses weitläufige Museum ist der ideale Ort, um einen regnerischen Nachmittag zu verbringen und viel über die industrielle Vergangenheit zu lernen.",
+                "hu": "Ez a kiterjedt múzeum ideális helyszín egy esős délután eltöltésére, ahol sokat tanulhatunk a sziget ipari múltjáról és a bányászok életéről.",
+                "ro": "Acest muzeu vast este locul ideal pentru a petrece o după-amiază ploioasă, învățând multe despre trecutul industrial și viața minerilor de pe insulă.",
+                "en": "This extensive museum is the ideal spot to spend a rainy afternoon, where you can learn a lot about the island's industrial past and history."
+              }
+            },
+            {
+              "name": {
+                "de": "Siam Niramit Show",
+                "hu": "Siam Niramit Show",
+                "ro": "Siam Niramit Show",
+                "en": "Siam Niramit Show"
+              },
+              "tip_5lang": {
+                "de": "Die gesamte Show findet im Innenbereich statt; nutzen Sie den Parkservice, um bequem und trocken direkt zum Eingang des Theaters zu gelangen.",
+                "hu": "A teljes előadás fedett térben zajlik; használja a parkolószolgáltatást, hogy kényelmesen és szárazon jusson közvetlenül a színház bejáratához.",
+                "ro": "Întregul spectacol are loc la interior; folosiți serviciul de parcare pentru a ajunge confortabil și uscat direct la intrarea teatrului.",
+                "en": "The entire show takes place indoors; use the parking service to arrive comfortably and dry right at the entrance of the theater complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapam Temple",
+                "hu": "Sapam Temple",
+                "ro": "Sapam Temple",
+                "en": "Sapam Temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stimmung am Tempel; die Regenreflexionen auf den verzierten Dächern bieten wunderschöne Fotomotive vom Auto aus.",
+                "hu": "Élvezze a templom békés hangulatát; a díszes tetőkön megcsillanó esőcseppek gyönyörű fotótémát kínálnak akár az autó ablakából is.",
+                "ro": "Bucurați-vă de atmosfera liniștită; reflexiile ploii pe acoperișurile ornamentate oferă subiecte superbe pentru fotografii chiar și din mașină.",
+                "en": "Enjoy the peaceful atmosphere; the rain reflections on the ornate roofs provide beautiful photo opportunities even from the car window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bei angenehmen Temperaturen zum Bergbaumonument. Mittags schützt uns die Klimaanlage des Wagens vor der starken Wintersonne während der Fahrten zwischen den Parks. Nachmittags erreichen wir das Mining Museum im besten Licht. Abends müssen wir zügig zum Sapam-Tempel weiterfahren, da die Sonne gegen 17:00 Uhr untergeht und die Tempelanlage im Dunkeln liegt.",
+            "hu": "Reggel kellemes hőmérsékletben autózunk a bányászati emlékműhöz. Délben az autó légkondicionálója véd meg minket az erős téli napsütéstől a parkok közötti úton. Délután a Mining Museumot a legszebb fényekben érjük el. Este gyorsan tovább kell hajtanunk a Sapam-templomhoz, mivel délután ötkor már nyugszik a nap és hamar sötét lesz.",
+            "ro": "Dimineața conducem spre monumentul mineritului pe o temperatură plăcută. La prânz, aerul condiționat ne protejează de soarele puternic în timpul deplasării între parcuri. După-amiaza ajungem la muzeu în cea mai bună lumină. Seara trebuie să plecăm rapid spre Templul Sapam, deoarece soarele apune deja la ora 17:00.",
+            "en": "In the morning, drive to the mining monument in pleasant temperatures. At noon, the car's air conditioning protects us from the strong winter sun between parks. In the afternoon, we reach the Mining Museum in the best light. In the evening, drive quickly to Sapam Temple as the sun sets by 5 PM and it gets dark fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tin Mining Monument",
+                "hu": "Tin Mining Monument",
+                "ro": "Tin Mining Monument",
+                "en": "Tin Mining Monument"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Wintermorgen sorgen für scharfe Kontraste bei Fotos des Monuments; nutzen Sie den frühen Start, bevor die Hitze im Auto spürbar wird.",
+                "hu": "A tiszta téli reggeleken éles kontrasztokat kaphatunk az emlékmű fotózásakor; használja ki a korai kezdést, mielőtt a nap felmelegítené az autót.",
+                "ro": "Diminețile senine de iarnă oferă contraste puternice pentru fotografiile monumentului; profitați de startul devreme înainte ca soarele să încingă mașina.",
+                "en": "Clear winter mornings provide sharp contrasts for photos of the monument; take advantage of an early start before the sun heats up the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalerm Phra Kiat Park",
+                "hu": "Chalerm Phra Kiat Park",
+                "ro": "Chalerm Phra Kiat Park",
+                "en": "Chalerm Phra Kiat Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang im Park ist zur Mittagszeit im Winter dank der niedrigen Luftfeuchtigkeit angenehm; parken Sie Ihren Wagen im Schatten der Bäume.",
+                "hu": "Egy séta a parkban délidőben is kellemes télen az alacsony páratartalom miatt; mindenképpen keressen árnyékos parkolóhelyet az autó számára.",
+                "ro": "O plimbare în parc la prânz este plăcută iarna datorită umidității scăzute; asigurați-vă că parcați mașina la umbra copacilor pentru a rămâne răcoroasă.",
+                "en": "A walk in the park at noon is pleasant in winter thanks to low humidity; be sure to park your car in the shade of the trees to keep it cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Chinpracha House",
+                "hu": "Chinpracha House",
+                "ro": "Chinpracha House",
+                "en": "Chinpracha House"
+              },
+              "tip_5lang": {
+                "de": "Die Lichtverhältnisse im Winter bringen die Farben der alten Bodenfliesen und Holzschnitzereien in den Innenräumen besonders brillant zur Geltung.",
+                "hu": "A téli fényviszonyok különösen szépen emelik ki a régi padlólapok és fafaragások színeit a belső terekben, ami ideális a részletgazdag fotókhoz.",
+                "ro": "Condițiile de lumină de iarnă scot în evidență culorile plăcilor vechi de pardoseală și ale sculpturilor în lemn din interiorul casei istorice.",
+                "en": "Winter light conditions highlight the colors of the old floor tiles and wood carvings inside the rooms beautifully, perfect for detailed photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Mining Museum",
+                "hu": "Phuket Mining Museum",
+                "ro": "Phuket Mining Museum",
+                "en": "Phuket Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Komfort Ihres Wagens für die Anfahrt zu diesem etwas abgelegenen, aber architektonisch beeindruckenden Museum.",
+                "hu": "Használja ki az autója nyújtotta hűvös kényelmet ehhez a kissé kieső, de építészetileg lenyűgöző múzeumhoz vezető úton a téli napsütésben.",
+                "ro": "Folosiți confortul climatizat al mașinii pentru drumul spre acest muzeu mai izolat, dar impresionant din punct de vedere arhitectural.",
+                "en": "Use the air-conditioned comfort of your car for the drive to this slightly remote but architecturally stunning museum in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Siam Niramit Show",
+                "hu": "Siam Niramit Show",
+                "ro": "Siam Niramit Show",
+                "en": "Siam Niramit Show"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie frühzeitig an, um das Außengelände im weichen Licht vor der Show zu erkunden, da es im Winter schon vor Ende der Vorstellung dunkel wird.",
+                "hu": "Érkezzen korán, hogy felfedezhesse a kültéri részeket a lágy fényekben, mivel télen már az előadás vége előtt teljesen besötétedik odakint.",
+                "ro": "Sosiți devreme pentru a explora zonele exterioare în lumina blândă de dinaintea spectacolului, deoarece iarna se întunecă înainte de finalul piesei.",
+                "en": "Arrive early to explore the outdoor areas in the soft light before the show, as in winter it gets completely dark before the performance ends."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapam Temple",
+                "hu": "Sapam Temple",
+                "ro": "Sapam Temple",
+                "en": "Sapam Temple"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Tempel spätestens um 16:45 Uhr, um die goldene Stunde zu nutzen, bevor die Sonne schnell hinter den Bergen der Insel verschwindet.",
+                "hu": "Érkezzen meg a templomhoz legkésőbb 16:45-kor, hogy kihasználja az arany órát, mielőtt a nap gyorsan eltűnik a sziget hegyei mögött.",
+                "ro": "Ajungeți la templu cel târziu la ora 16:45 pentru a profita de ora aurie, înainte ca soarele să dispară rapid după munții insulei.",
+                "en": "Reach the temple by 4:45 PM at the latest to take advantage of the golden hour before the sun disappears quickly behind the island's mountains."
+              }
+            }
+          ]
+        }
       }
     }
   }

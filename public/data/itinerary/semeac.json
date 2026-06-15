@@ -137,6 +137,168 @@
         "hu": "A reggel feltárja Séméac békés szellemét, miközben felfedezi a történelmi plébániát és a nyugodt Alaric-csatornát.\nA dél egy kényelmes sétára csábít a Sainte-Bernadette felé, átölelve a város csendesebb ritmusát.\nA délután kellemes pihenést hoz a Parc Bel-Air fenséges fáinak árnyékában, ideális feltöltődést kínálva.\nAz este a helyi kápolna közelében csendesedik el, tökéletes lezárást nyújtva egy szelíd és tartalmas napnak.",
         "ro": "Dimineața dezvăluie spiritul pașnic al Séméacului în timp ce explorați parohia istorică și seninul Canal Alaric.\nAmiaza vă invită la o plimbare spre Sainte-Bernadette, îmbrățișând ritmurile mai liniștite și relaxate ale orașului.\nDupă-amiaza aduce o binemeritată relaxare sub umbra copacilor magnifici și răcoroși din frumosul Parc Bel-Air.\nSeara se încheie în apropierea capelei locale, oferind un final perfect și reflexiv pentru o zi de neuitat.",
         "en": "Morning reveals Séméac's peaceful spirit as you explore its historic parish and the serene, flowing waters of the Alaric Canal.\nMidday invites a leisurely stroll toward Sainte-Bernadette, fully embracing the town's quieter, comforting rhythms.\nAfternoon brings deep relaxation under the soothing shade of Parc Bel-Air's magnificent, century-old trees.\nEvening gently winds down near the local chapels, offering a perfect, reflective end to a beautiful walking day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der historischen Kirche, während draußen der Regen auf Séméac fällt. Am Mittag bietet der Alaric-Kanal trotz grauer Wolken eine mystische Atmosphäre für einen kurzen, erfrischenden Spaziergang. Am Nachmittag suchen wir Zuflucht in weiteren religiösen Bauten. Den Abend lassen wir ruhig ausklingen, während die Straßen im Laternenlicht glänzen.",
+            "hu": "Kezdje a napot a templom falai között, védve az esőtől. Délben az Alaric-csatorna menti séta a borongós időben is különleges hangulatot áraszt, de érdemes ernyőt vinni. Délután a város kisebb kápolnái kínálnak lelki menedéket a záporok elől. Az estét zárja egy fedett helyen, élvezve a vizes aszfalton megcsillanó városi fények látványát.",
+            "ro": "Începeți ziua la adăpost în biserica istorică, ascultând ploaia de afară. La prânz, canalul Alaric oferă un decor melancolic și frumos pentru o scurtă plimbare cu umbrela. După-amiaza, vizităm lăcașurile de cult pentru a rămâne uscați. Seara se încheie liniștit, admirând reflexiile luminilor orașului în bălțile formate pe străzile pavate.",
+            "en": "Start your morning sheltered inside the historic church while the rain falls over Séméac. At noon, the Alaric Canal offers a mystical atmosphere for a short walk under your umbrella. In the afternoon, seek refuge in the local chapels to stay dry and warm. The evening ends quietly, watching the city lights reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen; die Ruhe im Inneren ist der perfekte Zufluchtsort vor dem prasselnden Regen. Nutzen Sie den Vorraum zum Abtropfen der Kleidung.",
+                "hu": "Csodálja meg a belső építészetet szárazon; a templomi csend tökéletes menedék a kopogó eső elől. Használja az előteret az esernyő lerázására és a kabát igazítására.",
+                "ro": "Admirați arhitectura interioară la uscat; liniștea dinăuntru este refugiul perfect împotriva ploii torențiale. Folosiți pridvorul pentru a vă scutura umbrela și hainele.",
+                "en": "Admire the interior architecture while staying dry; the silence inside is a perfect refuge from the rain. Use the porch area to shake off your umbrella and adjust your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaric-Kanal",
+                "hu": "Alaric-csatorna",
+                "ro": "Canalul Alaric",
+                "en": "Alaric Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserstand des Kanals wirkt bei Regen besonders beeindruckend; achten Sie auf die rutschigen Uferwege und tragen Sie unbedingt festes, wasserdichtes Schuhwerk.",
+                "hu": "A csatorna vízszintje esőben látványosabb; ügyeljen a csúszós parti utakra, és mindenképpen viseljen vízálló bakancsot a sár elkerülése érdekében.",
+                "ro": "Nivelul apei din canal este impresionant pe ploaie; atenție la potecile alunecoase de pe mal și purtați neapărat încălțăminte impermeabilă pentru siguranță.",
+                "en": "The canal's water level is quite impressive in the rain; watch out for slippery bank paths and be sure to wear sturdy, waterproof boots for better grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Bernadette",
+                "hu": "Église Sainte-Bernadette",
+                "ro": "Église Sainte-Bernadette",
+                "en": "Église Sainte-Bernadette"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine intime Atmosphäre, um den stärksten Schauern zu entgehen; prüfen Sie die Öffnungszeiten, da sie oft als kurzfristiger Regenschutz dient.",
+                "hu": "Ez a templom meghitt hangulatot áraszt a záporok elől menekülve; ellenőrizze a nyitvatartást, mert kiváló hely egy rövid pihenőre, amíg eláll az eső.",
+                "ro": "Această biserică oferă o atmosferă intimă pentru a scăpa de ploaie; verificați programul, deoarece este un loc excelent pentru o pauză scurtă până stă ploaia.",
+                "en": "This church provides an intimate setting to escape the showers; check the opening hours as it serves as a great spot to wait out the heaviest rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Bel-Air",
+                "hu": "Parc Bel-Air",
+                "ro": "Parc Bel-Air",
+                "en": "Parc Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten zwar etwas Schutz, aber die Wege können schlammig sein; bleiben Sie auf den befestigten Pfaden und genießen Sie das intensive Grün der nassen Blätter.",
+                "hu": "A fák adnak némi védelmet, de az utak sárosak lehetnek; maradjon a kövezett ösvényeken, és élvezze a vizes levelek intenzív zöld illatát a parkban.",
+                "ro": "Copacii oferă puțină protecție, dar aleile pot fi noroioase; rămâneți pe potecile pavate și bucurați-vă de mirosul proaspăt al vegetației umede.",
+                "en": "Trees offer some cover, but paths can be muddy; stick to the paved walkways and enjoy the intense green scent of the wet foliage in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de l'aumônerie des lycées",
+                "hu": "Chapelle de l'aumônerie des lycées",
+                "ro": "Chapelle de l'aumônerie des lycées",
+                "en": "Chapelle de l'aumônerie des lycées"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss des Tages im Warmen; nutzen Sie die Zeit zur inneren Einkehr, während Sie Ihre nasse Ausrüstung vor dem Heimweg nochmals ordnen.",
+                "hu": "Csendes napzárás a melegben; használja az időt elmélyülésre, miközben még egyszer rendbe szedi nedves felszerelését a hazaindulás előtt.",
+                "ro": "Un final de zi liniștit la căldură; folosiți timpul pentru reflecție în timp ce vă organizați echipamentul umed înainte de a pleca spre casă.",
+                "en": "A quiet end to the day in the warmth; use this time for reflection while you reorganize your wet gear before heading back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Séméac beginnt frisch; die dicken Mauern der Kirchen halten die Kälte ab. Mittags sorgt ein Spaziergang am Kanal für Bewegung, bevor die frühe Dämmerung einsetzt. Am Nachmittag besuchen wir warme Innenräume, da die Temperatur spürbar sinkt. Gegen 17:00 Uhr ist es bereits dunkel, was der Stadt einen gemütlichen, winterlichen Charme verleiht.",
+            "hu": "A séméaci téli reggel frissítő; a templomok vastag falai védenek a hideg széltől. Délben a csatorna menti séta élénkítő, de réteges öltözet kötelező. Délután látogassunk el a belső terekbe, mert a hőmérséklet gyorsan csökken. 17:00 után már sötét van, így a városi fények korán átveszik az uralmat a parkok felett.",
+            "ro": "Dimineața de iarnă în Séméac este revigorantă; zidurile groase ale bisericilor oferă protecție contra vântului rece. La prânz, o plimbare pe lângă canal vă va încălzi prin mișcare. După-amiaza, căutați spații interioare deoarece temperatura scade brusc. După ora 17:00 se întunecă, iar orașul capătă un farmec hibernal sub lumina felinarelor.",
+            "en": "Winter mornings in Séméac are crisp; the thick church walls provide a shield from the cold wind. At noon, a brisk walk along the canal keeps you moving before the early dusk sets in. In the afternoon, visit indoor spaces as temperatures drop quickly. By 5 PM, it is already dark, giving the town a cozy winter charm under the streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Morgen, um der frostigen Luft zu entkommen; die dicken Steinmauern bieten einen guten Schutz gegen den schneidenden Winterwind.",
+                "hu": "Látogassa meg a templomot reggel, hogy elmeneküljön a fagyos levegő elől; a vastag kőfalak kiváló védelmet nyújtanak a metsző téli szél ellen.",
+                "ro": "Vizitați biserica dimineața pentru a scăpa de aerul înghețat; zidurile groase de piatră oferă o protecție excelentă împotriva vântului tăios de iarnă.",
+                "en": "Visit the church in the morning to escape the frosty air; the thick stone walls provide excellent protection against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaric-Kanal",
+                "hu": "Alaric-csatorna",
+                "ro": "Canalul Alaric",
+                "en": "Alaric Canal"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume am Kanal bieten weite Sicht; tragen Sie Thermounterwäsche und Handschuhe, da es am Wasser im Winter deutlich kälter ziehen kann.",
+                "hu": "A kopár fák a csatornánál tiszta kilátást nyújtanak; viseljen termikus aláöltözetet és kesztyűt, mert a víz mellett télen sokkal hidegebb a huzat.",
+                "ro": "Copacii golași de lângă canal oferă o vizibilitate sporită; purtați lenjerie termică și mănuși, deoarece lângă apă curentul este mult mai rece iarna.",
+                "en": "The bare trees by the canal offer clear views; wear thermal layers and gloves, as the draft near the water can be significantly colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Bernadette",
+                "hu": "Église Sainte-Bernadette",
+                "ro": "Église Sainte-Bernadette",
+                "en": "Église Sainte-Bernadette"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Aufwärmpause am Mittag; die schlichte Schönheit des Raumes lässt sich am besten genießen, wenn man der Kälte kurz entflieht.",
+                "hu": "Ideális hely egy rövid melegedőre délidőben; a belső tér egyszerű szépsége akkor élvezhető igazán, ha kicsit kiszabadulunk a kinti fagyos levegőből.",
+                "ro": "Un loc ideal pentru o scurtă pauză de încălzire la prânz; frumusețea simplă a interiorului poate fi savurată cel mai bine fugind puțin de gerul de afară.",
+                "en": "An ideal spot for a quick warming break at noon; the interior's simple beauty is best enjoyed while taking a short escape from the freezing outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Bel-Air",
+                "hu": "Parc Bel-Air",
+                "ro": "Parc Bel-Air",
+                "en": "Parc Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, aber achten Sie auf gefrorene Stellen auf den Wegen; besuchen Sie den Park vor 16:30 Uhr, um das letzte Tageslicht zu nutzen.",
+                "hu": "Élvezze a tiszta téli levegőt, de ügyeljen a jeges foltokra az utakon; látogasson el a parkba 16:30 előtt, hogy kihasználja az utolsó nappali fényeket.",
+                "ro": "Bucurați-vă de aerul curat de iarnă, dar atenție la porțiunile înghețate de pe alei; vizitați parcul înainte de 16:30 pentru a profita de ultima lumină a zilei.",
+                "en": "Enjoy the crisp winter air but watch out for icy patches on the paths; visit the park before 4:30 PM to make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de l'aumônerie des lycées",
+                "hu": "Chapelle de l'aumônerie des lycées",
+                "ro": "Chapelle de l'aumônerie des lycées",
+                "en": "Chapelle de l'aumônerie des lycées"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist am späten Nachmittag ein warmer Rückzugsort; wenn Sie die Kapelle verlassen, ist es bereits dunkel, also achten Sie auf gute Sichtbarkeit.",
+                "hu": "Ez a hely késő délután meleg menedékként szolgál; mire elhagyja a kápolnát, már sötét lesz, ezért ügyeljen a láthatóságra a hazafelé úton.",
+                "ro": "Acest loc servește ca un refugiu călduros spre seară; când veți pleca, va fi deja întuneric, așa că aveți grijă la vizibilitate pe drumul de întoarcere.",
+                "en": "This location serves as a warm retreat in the late afternoon; by the time you leave, it will be dark, so stay visible while walking back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel felfedezheti a csodálatos templomokat, miközben az utcák még üresek és tökéletesek a kerékpározáshoz.\nDélben kövesse a történelmi Alaric-csatornát, amelynek parti útjai kényelmes és pihentető tekerést tesznek lehetővé.\nA délután felfrissülést hoz az uszodában és egy jól megérdemelt pihenőt a zöldellő Parc Bel-Air fái alatt.\nAz estét egy festői tekerés koronázza meg az Échez partján, békésen lezárva ezt az aktív napot.",
         "ro": "Dimineața explorați bisericile magnifice, în timp ce străzile sunt încă goale și perfecte pentru mersul cu bicicleta.\nLa prânz urmați istoricul Canal Alaric, ale cărui poteci pe mal permit o plimbare relaxată și foarte plăcută.\nDupă-amiaza aduce o înviorare la piscină și o pauză binemeritată în verdele și umbrosul Parc Bel-Air.\nSeara este încununată de o plimbare pitorească de-a lungul râului Échez, încheind excursia într-un mod pașnic.",
         "en": "Morning sees you exploring magnificent local churches while the streets are still uncrowded and perfect for cycling.\nMidday leads you along the historic Alaric Canal, where the flat bankside paths ensure a truly relaxed ride.\nAfternoon brings active fun at the local swimming pool and a well-deserved rest under the greenery of Parc Bel-Air.\nEvening is crowned by a highly scenic ride along the banks of the Échez, concluding the day peacefully in nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch das nasse Séméac; die Straßen können rutschig sein. Am Vormittag besuchen wir geschützte Kirchen, um dem stärksten Regen zu entgehen. Mittags führt die Tour am Kanal entlang, wo die Bäume nur begrenzten Schutz bieten. Am Nachmittag bietet das Schwimmbad eine perfekte Indoor-Alternative, bevor wir am Abend die kühle Brise am Échez genießen.",
+            "hu": "Kerekezzen óvatosan a vizes Séméacban; az utak csúszósak lehetnek. Délelőtt védett templomokat látogatunk, hogy elkerüljük a nagyobb záporokat. Délben a csatorna mentén tekerünk, ahol a fák csak korlátozott védelmet nyújtanak. Délután a uszoda tökéletes fedett alternatíva, mielőtt este az Échez partján élveznénk a frissítő, eső utáni levegőt.",
+            "ro": "Pedalați cu prudență prin Séméac-ul umed; străzile pot fi alunecoase. Dimineața vizităm biserici protejate pentru a evita aversele puternice. La prânz, turul continuă pe malul canalului, unde copacii oferă protecție limitată. După-amiaza, piscina este o alternativă excelentă la interior, înainte de a simți briza răcoroasă de seară de pe malul râului Échez.",
+            "en": "Cycle carefully through wet Séméac; the roads can be slippery when wet. In the morning, we visit sheltered churches to avoid the heaviest rain. At noon, the tour leads along the canal where trees offer limited cover. In the afternoon, the swimming pool is a perfect indoor alternative before enjoying the cool evening breeze by the Échez river."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und nutzen Sie die Kirche als trockenen Pausenstopp; prüfen Sie Ihre Bremsen vor der Weiterfahrt im Regen.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja a templomot száraz pihenőpontként; indulás előtt ellenőrizze a fékeket a vizes úton való haladáshoz.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți biserica ca punct de odihnă uscat; verificați frânele înainte de a pleca din nou prin ploaie.",
+                "en": "Park your bike in a sheltered spot and use the church as a dry rest stop; check your brakes before heading out again into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption",
+                "hu": "Église de l'Assomption",
+                "ro": "Église de l'Assomption",
+                "en": "Église de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer kurzer Stopp im Trockenen; achten Sie beim Aufsteigen auf nasse Pedale, die sehr rutschig sein können, und tragen Sie eine helle Regenjacke.",
+                "hu": "Újabb rövid megálló szárazon; felszálláskor ügyeljen a vizes pedálokra, amelyek nagyon csúszhatnak, és viseljen feltűnő, világos esőkabátot.",
+                "ro": "O altă oprire scurtă la uscat; atenție la pedalele umede care pot fi foarte alunecoase la plecare și purtați o pelerină de ploaie reflectorizantă.",
+                "en": "Another quick stop in the dry; watch out for wet pedals which can be very slippery when mounting, and wear a bright, visible raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaric-Kanal",
+                "hu": "Alaric-csatorna",
+                "ro": "Canalul Alaric",
+                "en": "Alaric Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Kanal kann Pfützen bilden; fahren Sie langsam, um Spritzwasser zu vermeiden, und genießen Sie die kühle, saubere Luft während der Fahrt.",
+                "hu": "A csatorna menti kerékpárúton tócsák alakulhatnak ki; hajtson lassan a fröccsenő víz elkerülése érdekében, és élvezze a friss, tiszta levegőt tekerés közben.",
+                "ro": "Pista de biciclete de lângă canal poate avea bălți; conduceți încet pentru a evita stropirea și bucurați-vă de aerul proaspăt și curat în timpul deplasării.",
+                "en": "The cycling path along the canal may have puddles; ride slowly to avoid splashing and enjoy the crisp, clean air while pedaling through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Bel-Air",
+                "hu": "Parc Bel-Air",
+                "ro": "Parc Bel-Air",
+                "en": "Parc Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Park sind bei Regen oft rutschig; steigen Sie im Zweifel ab und schieben Sie das Rad unter den Bäumen, um trockenere Abschnitte zu finden.",
+                "hu": "A park útjai esőben gyakran csúszósak; kétség esetén szálljon le és tolja a biciklit a fák alatt, hogy szárazabb szakaszokat találjon a haladáshoz.",
+                "ro": "Aleile din parc sunt adesea alunecoase pe ploaie; în caz de dubiu, coborâți și împingeți bicicleta sub copaci pentru a găsi porțiuni mai uscate.",
+                "en": "Park paths are often slippery in the rain; if in doubt, dismount and push your bike under the trees to find drier sections for safer movement."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine Paul-Boyrie",
+                "hu": "Piscine Paul-Boyrie",
+                "ro": "Piscine Paul-Boyrie",
+                "en": "Piscine Paul-Boyrie"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Regen komplett zu vergessen; parken Sie das Rad sicher und wärmen Sie sich im Wasser auf, bevor Sie die letzte Etappe antreten.",
+                "hu": "Tökéletes hely, hogy teljesen elfelejtse a kinti esőt; parkoljon le biztonságosan, és melegedjen fel a vízben, mielőtt nekivág az utolsó szakasznak.",
+                "ro": "Locul perfect pentru a uita complet de ploaia de afară; parcați bicicleta în siguranță și încălziți-vă în apă înainte de ultima etapă a traseului.",
+                "en": "The perfect place to completely forget about the rain outside; park your bike securely and warm up in the water before starting the final leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Échez",
+                "hu": "Az Échez partja",
+                "ro": "Malurile râului Échez",
+                "en": "Banks of the Échez"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlamm am Uferweg; nach dem Regen wirkt der Fluss sehr lebendig, aber reduzieren Sie Ihr Tempo auf den unbefestigten Abschnitten deutlich.",
+                "hu": "Ügyeljen a sárra a parti úton; eső után a folyó nagyon látványos, de jelentősen csökkentse a sebességét a nem aszfaltozott szakaszokon.",
+                "ro": "Atenție la noroiul de pe drumul de mal; după ploaie, râul pare foarte viu, dar reduceți semnificativ viteza pe porțiunile neasfaltate.",
+                "en": "Watch out for mud on the riverbank path; after the rain, the river looks very dynamic, but reduce your speed significantly on unpaved sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad erfordert gute Planung; starten Sie mit warmen Schichten an den Kirchen von Séméac. Mittags wärmt die Bewegung am Kanal auf, doch der Fahrtwind ist eisig. Am Nachmittag bietet das Schwimmbad eine willkommene Aufwärmpause. Beenden Sie Ihre Tour am Échez-Ufer vor 17:00 Uhr, da die Sicht bei Dunkelheit und Kälte rapide abnimmt.",
+            "hu": "Egy téli nap a biciklin alapos tervezést igényel; kezdjen meleg rétegekben Séméac templomainál. Délben a csatorna menti tekerés felmelegíti, de a menetszél fagyos. Délután az uszoda hívogató melegedő pihenőhely. Fejezze be a túrát az Échez partján 17:00 előtt, mert a sötétben a látási viszonyok és a hőmérséklet is romlik.",
+            "ro": "O zi de iarnă pe bicicletă necesită planificare; începeți cu haine groase la bisericile din Séméac. La prânz, mișcarea de lângă canal vă va încălzi, dar vântul este tăios. După-amiaza, piscina oferă o pauză de încălzire binevenită. Încheiați turul pe malul râului Échez înainte de ora 17:00, deoarece vizibilitatea scade rapid la lăsarea serii.",
+            "en": "A winter day on the bike requires careful planning; start with warm layers at the Séméac churches. At noon, cycling by the canal warms you up, but the wind chill is freezing. In the afternoon, the swimming pool offers a welcome warming break. Finish your tour at the Échez banks before 5 PM as visibility and temperatures drop quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum, um Ihre Finger aufzuwärmen; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den kurzen Wintertag voll funktionsfähig ist.",
+                "hu": "Használja a belső teret az ujjai felmelegítésére; győződjön meg róla, hogy a kerékpárvilágítás tökéletesen működik a rövid téli nappal miatt.",
+                "ro": "Folosiți interiorul pentru a vă încălzi degetele; asigurați-vă că luminile bicicletei sunt complet funcționale pentru ziua scurtă de iarnă.",
+                "en": "Use the interior to warm up your fingers; ensure your bike lights are fully functional for the short winter day before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption",
+                "hu": "Église de l'Assomption",
+                "ro": "Église de l'Assomption",
+                "en": "Église de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp; achten Sie beim Losfahren auf Reifglätte auf dem Asphalt, besonders in den schattigen Bereichen hinter dem Gebäude.",
+                "hu": "Rövid kulturális megálló; elinduláskor ügyeljen a zúzmarás aszfaltra, különösen az épület mögötti árnyékos részeken, ahol könnyen megcsúszhat.",
+                "ro": "O scurtă oprire culturală; la plecare, atenție la poleiul de pe asfalt, mai ales în zonele umbrite din spatele clădirii unde este alunecos.",
+                "en": "A short cultural stop; when starting off, watch out for frost on the asphalt, especially in shaded areas behind the building where it's slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaric-Kanal",
+                "hu": "Alaric-csatorna",
+                "ro": "Canalul Alaric",
+                "en": "Alaric Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht am Kanal im Winter oft stärker; tragen Sie einen Gesichtsschutz oder Schal, um sich vor dem beißenden Fahrtwind während des Radelns zu schützen.",
+                "hu": "A csatornánál télen gyakran erősebb a szél; viseljen arcmaszkot vagy sálat, hogy védje magát a metsző menetszéltől a tekerés közben.",
+                "ro": "Vântul este adesea mai puternic lângă canal iarna; purtați o mască sau un fular pentru a vă proteja de vântul tăios în timpul pedalatului.",
+                "en": "The wind is often stronger by the canal in winter; wear a face mask or scarf to protect yourself from the biting wind chill while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Bel-Air",
+                "hu": "Parc Bel-Air",
+                "ro": "Parc Bel-Air",
+                "en": "Parc Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über Laub oder gefrorenen Boden; die tiefstehende Wintersonne kann blenden, tragen Sie also trotz Kälte eventuell eine Sonnenbrille.",
+                "hu": "Hajtson óvatosan a leveleken vagy a fagyott talajon; az alacsonyan járó téli nap elvakíthatja, ezért a hideg ellenére is érdemes napszemüveget viselni.",
+                "ro": "Conduceți cu atenție pe frunze sau pe solul înghețat; soarele jos de iarnă vă poate orbi, deci purtați ochelari de soare în ciuda frigului.",
+                "en": "Ride carefully over leaves or frozen ground; the low winter sun can be blinding, so consider wearing sunglasses despite the cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine Paul-Boyrie",
+                "hu": "Piscine Paul-Boyrie",
+                "ro": "Piscine Paul-Boyrie",
+                "en": "Piscine Paul-Boyrie"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Aufwärmstopp; trocknen Sie Ihre Haare nach dem Schwimmen gründlich, bevor Sie wieder in die winterliche Kälte auf das Rad steigen.",
+                "hu": "A végső melegedőhely; úszás után alaposan szárítsa meg a haját, mielőtt újra kimerészkedne a téli hidegbe a kerékpárral.",
+                "ro": "Punctul final de încălzire; uscați-vă bine părul după înot înainte de a ieși din nou în frigul iernii pe bicicletă.",
+                "en": "The ultimate warming spot; dry your hair thoroughly after swimming before heading back out into the winter cold on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Échez",
+                "hu": "Az Échez partja",
+                "ro": "Malurile râului Échez",
+                "en": "Banks of the Échez"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt rechtzeitig vor Einbruch der Dunkelheit; die Wege am Fluss sind nicht beleuchtet und können bei Frost sehr gefährlich werden.",
+                "hu": "Fejezze be a túrát időben, még sötétedés előtt; a folyóparti utak nincsenek kivilágítva, és fagy esetén nagyon veszélyesek lehetnek.",
+                "ro": "Încheiați turul la timp, înainte de lăsarea întunericului; potecile de pe malul râului nu sunt iluminate și pot fi periculoase în caz de îngheț.",
+                "en": "Finish your ride well before dark; the riverbank paths are not illuminated and can become very hazardous if ice forms on the ground."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Motoros kirándulása a keleti és központi pompás templomok látogatásával kezdődik, mielőtt felfedezné a Saint-Pierre-t.\nDélben élvezze a lélegzetelállító panorámát a tájékozódási táblánál, majd pihenjen a történelmi Alaric-csatornánál.\nA délutánt a gyönyörű Parc Bel-Air-ben tölti, ahol maximálisan kiélvezheti a városi természet nyugalmát.\nA nap egy rövid autóúttal zárul az Échez partjaira, amely tökéletes, csendes légkört biztosít a befejezéshez.",
         "ro": "Excursia dumneavoastră motorizată începe cu vizitarea magnificelor biserici din est și din centru, înainte de a explora Saint-Pierre.\nLa prânz vă bucurați de o vedere panoramică uluitoare și vă relaxați profund pe malul istoricului Canal Alaric.\nDupă-amiaza este petrecută în frumosul Parc Bel-Air, unde puteți savura din plin liniștea naturii urbane a orașului.\nZiua se încheie cu o scurtă plimbare cu mașina până pe malurile râului Échez, oferind o atmosferă perfectă, liniștită.",
         "en": "Your driving tour begins by conveniently visiting the magnificent churches in the east and center before exploring Saint-Pierre.\nMidday treats you to breathtaking panoramic views at the orientation table before a relaxing break at the Alaric Canal.\nAfternoon is leisurely spent in the beautifully shaded Parc Bel-Air, where you can fully savor the local urban nature.\nThe day concludes with a short, pleasant drive out to the tranquil banks of the Échez, offering a perfectly quiet atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Séméac komfortabel vom Auto aus, während der Regen gegen die Scheiben trommelt. Wir besuchen historische Kirchen, die bequeme Parkmöglichkeiten in der Nähe bieten. Mittags bewundern wir den Alaric-Kanal bei einem kurzen Stopp. Am Nachmittag schützt uns das Fahrzeug vor den Schauern auf dem Weg zum Park und zum Flussufer, wo wir die Natur sicher erleben.",
+            "hu": "Élvezze Séméacot kényelmesen az autóból, miközben az eső kopog a szélvédőn. Történelmi templomokat látogatunk, amelyek közelében könnyű parkolni. Délben az Alaric-csatornát csodáljuk meg egy rövid megálló során. Délután az autó megvéd a záporoktól a park és a folyópart felé vezető úton, ahol a természetet biztonságban élvezhetjük.",
+            "ro": "Bucurați-vă de Séméac confortabil din mașină, în timp ce ploaia bate în parbriz. Vizităm biserici istorice cu parcări accesibile în apropiere. La prânz, admirăm canalul Alaric în timpul unei scurte opriri. După-amiaza, vehiculul ne protejează de averse în drum spre parc și malul râului, unde putem observa natura în siguranță.",
+            "en": "Enjoy Séméac comfortably from your car while the rain drums on the windshield. We visit historic churches with easy parking nearby. At noon, admire the Alaric Canal during a short stop. In the afternoon, the vehicle protects you from showers on the way to the park and riverbank, where you can experience nature safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Assomption",
+                "hu": "Église de l'Assomption",
+                "ro": "Église de l'Assomption",
+                "en": "Église de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Eingang, um trocken in die Kirche zu gelangen; achten Sie auf tiefere Pfützen auf dem Parkplatz bei starkem Regen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy szárazon jusson be a templomba; erős esőben ügyeljen a mélyebb tócsákra a parkoló területén.",
+                "ro": "Parcați direct în fața intrării pentru a ajunge uscat în biserică; atenție la bălțile adânci din parcare în timpul ploilor torențiale.",
+                "en": "Park right by the entrance to get into the church dry; watch out for deep puddles in the parking area during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Portal genügt; nutzen Sie die Zeit im Inneren, um die Scheibenheizung für eine klare Sicht bei der Weiterfahrt zu aktivieren.",
+                "hu": "Elég egy rövid sprint az autótól a kapuig; a benti időt használja arra, hogy bekapcsolja a szélvédőfűtést a pára ellen a továbbinduláshoz.",
+                "ro": "Un sprint scurt de la mașină la poartă este suficient; folosiți timpul înăuntru pentru a lăsa degivrarea pornită pentru vizibilitate clară la plecare.",
+                "en": "A short sprint from the car to the door is enough; use your time inside to let the windshield defogger run for clear visibility when you resume driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Gischt anderer Fahrzeuge auf der Fahrt hierher; der Parkplatz kann bei Regen etwas matschig sein, parken Sie auf festem Untergrund.",
+                "hu": "Ügyeljen a többi autó által felvert vízre idefelé; a parkoló esőben kicsit sáros lehet, próbáljon szilárdabb talajon megállni az épület közelében.",
+                "ro": "Atenție la apa aruncată de alte mașini pe drum; parcarea poate fi noroioasă, așa că încercați să opriți pe o suprafață mai solidă lângă clădire.",
+                "en": "Watch out for spray from other vehicles on your way here; the parking lot can be muddy, so try to park on a firmer surface near the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Orientierungstafel",
+                "hu": "Tájékozódási tábla",
+                "ro": "Masa de orientare",
+                "en": "Tâble d'orientation"
+              },
+              "tip_5lang": {
+                "de": "Manchmal lässt sich das Panorama sogar bei Regen aus dem Fenster genießen; halten Sie kurz an, aber bleiben Sie bei starkem Wind lieber im schützenden Auto.",
+                "hu": "Néha a panoráma esőben is élvezhető az ablakból; álljon meg egy pillanatra, de erős szélben maradjon inkább a védelmet nyújtó autóban.",
+                "ro": "Uneori panorama poate fi savurată chiar și pe ploaie din fereastră; opriți scurt, dar în caz de vânt puternic rămâneți mai degrabă în mașină.",
+                "en": "Sometimes the panorama can be enjoyed from the window even in the rain; stop briefly, but in case of high winds, stay inside the protective car."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaric-Kanal",
+                "hu": "Alaric-csatorna",
+                "ro": "Canalul Alaric",
+                "en": "Alaric Canal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Kanal entlang, da die Sicht durch den Regen eingeschränkt sein kann; nutzen Sie den Scheibenwischer auf höchster Stufe für maximale Sicherheit.",
+                "hu": "Hajtson lassan a csatorna mentén, mivel az eső korlátozhatja a látást; használja az ablaktörlőt a legmagasabb fokozaton a maximális biztonság érdekében.",
+                "ro": "Conduceți încet de-a lungul canalului deoarece ploaia poate limita vizibilitatea; folosiți ștergătoarele la viteză maximă pentru siguranță sporită.",
+                "en": "Drive slowly along the canal as the rain may limit your visibility; use your wipers at the highest setting for maximum safety while moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Bel-Air",
+                "hu": "Parc Bel-Air",
+                "ro": "Parc Bel-Air",
+                "en": "Parc Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter einem Vordach oder in der Nähe des Eingangs; ein kurzer Blick auf das nasse Grün lohnt sich, bevor Sie im trockenen Auto weiterfahren.",
+                "hu": "Parkoljon egy tető alatt vagy a bejárat közelében; egy rövid pillantás a vizes zöldre megéri, mielőtt a száraz autóban folytatná az utat.",
+                "ro": "Parcați sub un acoperiș sau aproape de intrare; o privire scurtă la verdeața udă merită înainte de a continua drumul în mașina uscată.",
+                "en": "Park under a shelter or close to the entrance; a quick glance at the wet greenery is worth it before continuing your journey in the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Échez",
+                "hu": "Az Échez partja",
+                "ro": "Malurile râului Échez",
+                "en": "Banks of the Échez"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei Regen rutschig sein; genießen Sie das Rauschen des Flusses bei leicht geöffnetem Fenster, während Sie geschützt im Wagen sitzen.",
+                "hu": "A bekötőutak esőben csúszósak lehetnek; élvezze a folyó zúgását egy kicsit lehúzott ablak mellett, miközben védve ül a gépkocsiban.",
+                "ro": "Drumurile de acces pot fi alunecoase pe ploaie; bucurați-vă de vuietul râului cu geamul puțin coborât în timp ce stați protejat în mașină.",
+                "en": "Access roads can be slippery in the rain; enjoy the sound of the rushing river with the window slightly down while sitting protected in your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Séméac im Winter bequem mit der Sitzheizung. Am Vormittag besuchen wir die frostigen Kirchen, wobei das Auto als warmer Rückzugsort zwischen den Stopps dient. Mittags führt die Fahrt zum Kanal, wo die klare Luft weite Sicht ermöglicht. Der Nachmittag endet früh am Échez-Ufer, da es gegen 17:00 Uhr bereits dunkel wird und die Temperaturen stark fallen.",
+            "hu": "Fedezze fel Séméacot télen kényelmesen, az ülésfűtést élvezve. Délelőtt a fagyos templomokat látogatjuk, az autó pedig meleg menedékként szolgál a megállók között. Délben a csatornához autózunk, ahol a tiszta levegő messzi kilátást enged. A délután korán véget ér az Échez partján, mivel 17:00 körül már sötétedik és a hideg fokozódik.",
+            "ro": "Explorați Séméac iarna confortabil, profitând de încălzirea din scaune. Dimineața vizităm bisericile înghețate, mașina fiind un refugiu cald între opriri. La prânz, conducem spre canal unde aerul curat oferă vizibilitate mare. După-amiaza se încheie devreme pe malul râului Échez, deoarece pe la ora 17:00 se întunecă și gerul se intensifică.",
+            "en": "Explore Séméac in winter comfortably with your seat heating on. In the morning, visit the frosty churches, with the car serving as a warm retreat between stops. At noon, drive to the canal where the clear air allows for distant views. The afternoon ends early at the Échez banks as it gets dark around 5 PM and temperatures drop sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Assomption",
+                "hu": "Église de l'Assomption",
+                "ro": "Église de l'Assomption",
+                "en": "Église de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz am frühen Morgen; lassen Sie den Motor kurz warmlaufen, während Sie die frostige Fassade der Kirche bewundern.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban kora reggel; hagyja a motort kicsit bemelegedni, miközben megcsodálja a templom fagyos homlokzatát.",
+                "ro": "Atenție la polei în parcare dimineața devreme; lăsați motorul să se încălzească puțin în timp ce admirați fațada înghețată a bisericii.",
+                "en": "Watch out for black ice in the parking lot early in the morning; let the engine warm up briefly while you admire the church's frosty facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom warmen Auto ins Kirchenschiff; stellen Sie sicher, dass Ihr Wischwasser mit Frostschutzmittel gefüllt ist, bevor Sie weiterfahren.",
+                "hu": "Rövid séta a meleg autóból a templomhajóba; mielőtt tovább indulna, győződjön meg róla, hogy a szélvédőmosó folyadék fagyállóval van feltöltve.",
+                "ro": "O scurtă plimbare de la mașina caldă în naosul bisericii; asigurați-vă că lichidul de parbriz are antigel înainte de a continua drumul prin frig.",
+                "en": "A short walk from the warm car into the church nave; make sure your windshield washer fluid is filled with antifreeze before driving further."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sollte nun voll wirken; prüfen Sie bei der Ankunft den Reifendruck, da dieser bei sinkenden Wintertemperaturen oft nachlässt.",
+                "hu": "A fűtésnek mostanra már jól kell működnie; érkezéskor ellenőrizze a gumiabroncsok nyomását, mert a hidegben az gyakran lecsökkenhet.",
+                "ro": "Căldura din mașină ar trebui să funcționeze bine acum; la sosire, verificați presiunea în anvelope, deoarece scade adesea odată cu temperatura iernii.",
+                "en": "The car's heater should be working perfectly by now; check your tire pressure upon arrival, as it often drops with decreasing winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Orientierungstafel",
+                "hu": "Tájékozódási tábla",
+                "ro": "Masa de orientare",
+                "en": "Tâble d'orientation"
+              },
+              "tip_5lang": {
+                "de": "Klare Sicht auf die Pyrenäen ist im Winter am wahrscheinlichsten; steigen Sie nur kurz aus, da der Wind hier oben besonders eisig wehen kann.",
+                "hu": "A tiszta kilátás a Pireneusokra télen a legvalószínűbb; csak rövid időre szálljon ki, mert itt fent a szél különösen fagyos lehet.",
+                "ro": "Vizibilitatea clară asupra Pirineilor este cea mai probabilă iarna; coborâți doar scurt timp, deoarece vântul poate fi extrem de rece aici sus.",
+                "en": "Clear views of the Pyrenees are most likely in winter; only step out briefly, as the wind up here can be especially freezing and sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaric-Kanal",
+                "hu": "Alaric-csatorna",
+                "ro": "Canalul Alaric",
+                "en": "Alaric Canal"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen am Kanal können verschneit oder glatt sein; fahren Sie besonders vorsichtig und halten Sie einen größeren Sicherheitsabstand zu anderen Fahrzeugen.",
+                "hu": "A csatorna menti utak havasak vagy jegesek lehetnek; hajtson különösen óvatosan, és tartson nagyobb követési távolságot a többi autótól.",
+                "ro": "Drumurile de lângă canal pot fi înzăpezite sau cu gheață; conduceți cu mare atenție și păstrați o distanță de siguranță mai mare față de alte mașini.",
+                "en": "Roads near the canal may be snowy or icy; drive with extra caution and maintain a larger safety distance from other vehicles at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Bel-Air",
+                "hu": "Parc Bel-Air",
+                "ro": "Parc Bel-Air",
+                "en": "Parc Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang zwischen den kahlen Bäumen erfrischt; kehren Sie zum Aufwärmen schnell ins Auto zurück, bevor die Sonne tiefer sinkt.",
+                "hu": "Egy rövid téli séta a kopár fák között frissítő; térjen vissza gyorsan az autóba melegedni, mielőtt a nap még lejjebb ereszkedne a látóhatáron.",
+                "ro": "O scurtă plimbare de iarnă printre copacii golași este revigorantă; întoarceți-vă rapid la mașină pentru a vă încălzi înainte ca soarele să apună.",
+                "en": "A short winter walk among the bare trees is refreshing; return quickly to the car to warm up before the sun sinks any lower in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer des Échez",
+                "hu": "Az Échez partja",
+                "ro": "Malurile râului Échez",
+                "en": "Banks of the Échez"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterliche Flusslandschaft bei eingeschaltetem Standlicht; die Temperatur fällt nach Sonnenuntergang sehr schnell, bleiben Sie im warmen Wagen.",
+                "hu": "Figyelje meg a téli folyóparti tájat bekapcsolt helyzetjelzők mellett; naplemente után a hőmérséklet nagyon gyorsan esik, maradjon a meleg autóban.",
+                "ro": "Observați peisajul hibernal al râului cu luminile de poziție aprinse; temperatura scade foarte repede după apus, așa că rămâneți în mașina caldă.",
+                "en": "Observe the winter river landscape with your parking lights on; temperatures drop very quickly after sunset, so stay inside the warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

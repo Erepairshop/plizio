@@ -137,6 +137,168 @@
         "de": "Morgen: Beginnen Sie Ihren Tag im Zentrum von Punta Secca, besuchen Sie das berühmte Haus von Commissario Montalbano und den historischen Leuchtturm.\nMittag: Wenn die Sonne höher steigt, wechseln Sie an den wunderschönen goldenen Sandstrand von Punta Secca, um zu entspannen, zu schwimmen und die Meeresbrise zu genießen.\nNachmittag: Machen Sie einen gemütlichen Spaziergang in Richtung Westen zum Strandgebiet Palmento und genießen Sie die ruhigere Küstenatmosphäre.\nAbend: Beenden Sie Ihren Rundgang an der Spiaggia di Anticaglie und beobachten Sie, wie der Sonnenuntergang leuchtende Farben auf die Felsformationen wirft.",
         "hu": "Reggel: Kezdje a napot Punta Secca központjának felfedezésével, látogasson el Montalbano felügyelő híres házához és az ikonikus történelmi világítótoronyhoz.\nDél: Ahogy a nap magasabbra emelkedik, térjen át a fő Punta Secca strand gyönyörű aranyhomokjára, hogy pihenjen, ússzon és élvezze a tengeri szellőt.\nDélután: Tegyen egy kényelmes sétát nyugatra a Palmento strand felé, élvezve a csendesebb part menti hangulatot és a régi kőszerkezetek maradványait.\nEste: Fejezze be sétáját a Spiaggia di Anticaglie-n, figyelve, ahogy a naplemente élénk színekkel világítja meg a part menti érdekes sziklaalakzatokat.",
         "ro": "Dimineața: Începeți-vă ziua explorând centrul orașului Punta Secca, vizitând faimoasa casă a comisarului Montalbano și iconicul far istoric.\nPrânz: Pe măsură ce soarele urcă, treceți pe nisipurile aurii ale plajei principale din Punta Secca pentru a vă relaxa, a înota și a vă bucura de briza mării.\nDupă-amiaza: Faceți o plimbare relaxantă spre vest, spre zona plajei Palmento, admirând atmosfera de coastă mai liniștită și rămășițele vechilor structuri de piatră.\nSeara: Încheiați turul la Spiaggia di Anticaglie, privind cum apusul aruncă culori vibrante peste formațiunile stâncoase intrigante de-a lungul țărmului."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning starts at Montalbano's house where the gray sky adds a noir atmosphere; bring a sturdy umbrella against the sea breeze. By noon, the lighthouse stands tall in the mist; coastal paths can be slippery, so watch your step. In the afternoon, the beaches are deserted and poetic under the rain. Evening brings the calming sound of rain on the Mediterranean; finish your walk early.",
+            "de": "Der Morgen beginnt an Montalbanos Haus, wo der graue Himmel eine Noir-Atmosphäre schafft; ein stabiler Schirm schützt vor der Seebrise. Mittags ragt der Leuchtturm im Nebel empor; Küstenwege können rutschig sein, Vorsicht ist geboten. Nachmittags wirken die Strände im Regen einsam und poetisch. Der Abend bringt das beruhigende Geräusch des Regens auf dem Meer; beenden Sie den Spaziergang früh.",
+            "hu": "Reggel Montalbano házánál a szürke égbolt igazi krimi-hangulatot áraszt; a tengeri szél ellen hozzon egy erős esernyőt. Délben a világítótorony ködbe vész; a parti utak csúszósak lehetnek, figyeljen a lépteire. Délután a strandok elhagyatottak és költőiek az esőben. Este a tengeren kopogó eső hangja megnyugtató; fejezze be korán a sétát a magas páratartalom miatt.",
+            "ro": "Dimineața începe la casa lui Montalbano, unde cerul gri adaugă o atmosferă noir; aduceți o umbrelă rezistentă împotriva brizei. La prânz, farul se înalță prin ceață; potecile de coastă pot fi alunecoase, deci atenție la pași. După-amiaza, plajele sunt pustii și poetice sub ploaie. Seara aduce sunetul calmant al ploii pe Mediterană; încheiați plimbarea devreme din cauza umidității."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "House of Inspector Montalbano",
+                "de": "Haus von Commissario Montalbano",
+                "hu": "Montalbano felügyelő háza",
+                "ro": "Casa comisarului Montalbano"
+              },
+              "tip_5lang": {
+                "en": "View the iconic balcony from the square; the rain makes the stone walls look darker and more dramatic for noir-style photos. Wear waterproof shoes for the wet pavement.",
+                "de": "Betrachten Sie den ikonischen Balkon vom Platz aus; der Regen lässt die Steinmauern dunkler und dramatischer wirken. Tragen Sie wasserfeste Schuhe für das nasse Pflaster.",
+                "hu": "Nézze meg az ikonikus erkélyt a térről; az eső sötétebbé és drámaibbá teszi a kőfalakat a noir stílusú fotókhoz. Viseljen vízálló cipőt a vizes aszfalt miatt.",
+                "ro": "Admirați balconul iconic din piață; ploaia face pereții de piatră să pară mai întunecați și dramatici pentru fotografii noir. Purtați încălțăminte impermeabilă."
+              }
+            },
+            {
+              "name": {
+                "en": "Capo Scaramia Lighthouse",
+                "de": "Leuchtturm Capo Scaramia",
+                "hu": "Capo Scaramia világítótorony",
+                "ro": "Farul Capo Scaramia"
+              },
+              "tip_5lang": {
+                "en": "The white tower looks striking against a stormy sky; stay on the paved path to avoid mud and keep your camera protected from salt spray and raindrops.",
+                "de": "Der weiße Turm wirkt vor einem stürmischen Himmel besonders markant; bleiben Sie auf dem befestigten Weg, um Schlamm zu vermeiden und die Kamera zu schützen.",
+                "hu": "A fehér torony feltűnő a viharos égbolt előtt; maradjon a kövezett úton, hogy elkerülje a sarat, és óvja fényképezőgépét a sós permettől és az esőtől.",
+                "ro": "Turnul alb arată spectaculos pe un cer furtunos; rămâneți pe poteca pavată pentru a evita noroiul și protejați aparatul foto de stropii de apă sărată."
+              }
+            },
+            {
+              "name": {
+                "en": "Punta Secca Beach",
+                "de": "Strand von Punta Secca",
+                "hu": "Punta Secca strand",
+                "ro": "Plaja Punta Secca"
+              },
+              "tip_5lang": {
+                "en": "Watch the powerful waves from the road above; the wet sand can be unexpectedly soft and muddy, so it is better to enjoy the sea view from a covered spot.",
+                "de": "Beobachten Sie die mächtigen Wellen von der Straße oben; der nasse Sand kann unerwartet weich sein, genießen Sie die Aussicht lieber von einem überdachten Ort.",
+                "hu": "Figyelje a hatalmas hullámokat a fenti útról; a vizes homok váratlanul puha és saras lehet, ezért jobb a tengeri kilátást egy fedett helyről élvezni.",
+                "ro": "Urmăriți valurile puternice de pe drumul de deasupra; nisipul ud poate fi neașteptat de moale și noroios, deci savurați vederea mării dintr-un loc acoperit."
+              }
+            },
+            {
+              "name": {
+                "en": "Punta Secca Beach - Palmento",
+                "de": "Strand von Punta Secca - Palmento",
+                "hu": "Punta Secca strand - Palmento",
+                "ro": "Plaja Punta Secca - Palmento"
+              },
+              "tip_5lang": {
+                "en": "The rain emphasizes the ruggedness of this wild shore; keep a firm grip on your umbrella in the coastal wind and watch for slippery rocks near the water.",
+                "de": "Der Regen betont die Rauheit dieser wilden Küste; halten Sie Ihren Schirm bei Küstenwind gut fest und achten Sie auf rutschige Felsen in Wassernähe.",
+                "hu": "Az eső kiemeli e vad partvidék érdességét; tartsa erősen az esernyőjét a parti szélben, és ügyeljen a csúszós sziklákra a víz közelében.",
+                "ro": "Ploaia accentuează asprimea acestei țărmuri sălbatice; țineți bine umbrela în vântul de coastă și atenție la stâncile alunecoase de lângă apă."
+              }
+            },
+            {
+              "name": {
+                "en": "Anticaglie Beach",
+                "de": "Strand Anticaglie",
+                "hu": "Anticaglie strand",
+                "ro": "Plaja Anticaglie"
+              },
+              "tip_5lang": {
+                "en": "The wet surfaces reveal colors in the ancient stones that are usually hidden by dust; carry a small towel to dry your bench if you find a sheltered seat.",
+                "de": "Nasse Oberflächen offenbaren Farben in den antiken Steinen, die sonst unter Staub verborgen sind; ein Handtuch hilft, eine geschützte Sitzbank zu trocknen.",
+                "hu": "A vizes felületek olyan színeket fednek fel az ősi kövekben, amelyeket általában elfed a por; vigyen kis törölközőt a padok megszárításához a fedett részeken.",
+                "ro": "Suprafețele umede dezvăluie culori în pietrele antice ascunse de obicei de praf; purtați un prosop mic pentru a usca o bancă dacă găsiți un loc adăpostit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning brings crisp sea air at the Inspector's house; wear layers as the wind can be sharp despite the sun. Noon is the best time for photography without the summer crowds and haze. Afternoon shadows grow long early on the beach; enjoy a reflective stroll. Since sunset is at 17:00, retreat to the center for a warm drink as temperatures drop quickly after dark.",
+            "de": "Der Morgen bringt frische Seeluft an Montalbanos Haus; tragen Sie Schichten, da der Wind trotz Sonne scharf sein kann. Mittags ist die beste Zeit für Fotos ohne Dunst. Nachmittags werden die Schatten am Strand früh lang; genießen Sie einen stillen Spaziergang. Da die Sonne um 17:00 untergeht, suchen Sie danach ein warmes Café im Zentrum auf.",
+            "hu": "Reggel friss tengeri levegő fogadja a felügyelő házánál; öltözzön rétegesen, mert a szél metsző lehet a napsütés ellenére is. A dél környéki időszak a legjobb fotózáshoz a tömeg és a pára hiánya miatt. Délután a strandokon korán megnyúlnak az árnyékok. Mivel a nap 17:00-kor nyugszik, sötétedés után keressen egy meleg helyet a központban.",
+            "ro": "Dimineața aduce aer marin proaspăt la casa inspectorului; purtați straturi deoarece vântul poate fi tăios. Prânzul este momentul perfect pentru poze fără aglomerație și negură. După-amiaza umbrele se lungesc devreme pe plajă; bucurați-vă de o plimbare liniștită. Apusul fiind la 17:00, retrageți-vă în centru pentru o băutură caldă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "House of Inspector Montalbano",
+                "de": "Haus von Commissario Montalbano",
+                "hu": "Montalbano felügyelő háza",
+                "ro": "Casa comisarului Montalbano"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the house without tourist crowds; the low winter light is perfect for capturing the details of the facade without harsh, vertical midday shadows.",
+                "de": "Genießen Sie das Haus ohne Touristenmassen; das tiefe Winterlicht ist perfekt, um Details der Fassade ohne harte, vertikale Mittagsschatten einzufangen.",
+                "hu": "Élvezze a házat a turisták nélkül; az alacsony téli napfény tökéletes a homlokzat részleteinek megörökítéséhez, éles déli árnyékok nélkül.",
+                "ro": "Bucurați-vă de casă fără mulțimile de turiști; lumina joasă de iarnă este perfectă pentru a capta detaliile fațadei fără umbre dure de amiază."
+              }
+            },
+            {
+              "name": {
+                "en": "Capo Scaramia Lighthouse",
+                "de": "Leuchtturm Capo Scaramia",
+                "hu": "Capo Scaramia világítótorony",
+                "ro": "Farul Capo Scaramia"
+              },
+              "tip_5lang": {
+                "en": "Experience the maritime atmosphere in the cool air; visibility is often better in winter, allowing you to see much further along the Sicilian coastline.",
+                "de": "Erleben Sie die maritime Atmosphäre in der kühlen Luft; die Sicht ist im Winter oft besser, was weite Ausblicke entlang der sizilianischen Küste ermöglicht.",
+                "hu": "Élje át a tengeri hangulatot a hűvös levegőben; a látótávolság télen gyakran jobb, így sokkal messzebbre elláthat a szicíliai partok mentén.",
+                "ro": "Experimentați atmosfera maritimă în aerul răcoros; vizibilitatea este adesea mai bună iarna, permițându-vă să vedeți mult mai departe de-a lungul coastei."
+              }
+            },
+            {
+              "name": {
+                "en": "Punta Secca Beach",
+                "de": "Strand von Punta Secca",
+                "hu": "Punta Secca strand",
+                "ro": "Plaja Punta Secca"
+              },
+              "tip_5lang": {
+                "en": "A peaceful time for a barefoot walk on the cold sand if you are brave; the air is refreshing, but keep a windbreaker ready for the sharp sea breeze.",
+                "de": "Eine friedliche Zeit für einen Barfußgang im kalten Sand; die Luft ist erfrischend, halten Sie aber eine Windjacke für die scharfe Seebrise bereit.",
+                "hu": "Békés időszak egy mezítlábas sétához a hideg homokban; a levegő frissítő, de legyen kéznél széldzseki a metsző tengeri szél ellen.",
+                "ro": "O perioadă liniștită pentru o plimbare desculț pe nisipul rece; aerul este revigorant, dar aveți pregătită o jachetă pentru briza tăioasă a mării."
+              }
+            },
+            {
+              "name": {
+                "en": "Punta Secca Beach - Palmento",
+                "de": "Strand von Punta Secca - Palmento",
+                "hu": "Punta Secca strand - Palmento",
+                "ro": "Plaja Punta Secca - Palmento"
+              },
+              "tip_5lang": {
+                "en": "Admire the coastal vegetation that stays green in the Sicilian winter; it is a quiet spot to observe the Mediterranean flora in its dormant phase.",
+                "de": "Bewundern Sie die Küstenvegetation, die im sizilianischen Winter grün bleibt; ein ruhiger Ort, um die Mittelmeerflora in ihrer Ruhephase zu beobachten.",
+                "hu": "Csodálja meg a parti vegetációt, amely a szicíliai télben is zöld marad; ez egy csendes hely a mediterrán flóra megfigyelésére a pihenő szakaszában.",
+                "ro": "Admirați vegetația de coastă care rămâne verde în iarna siciliană; este un loc liniștit pentru a observa flora mediteraneană în faza sa latentă."
+              }
+            },
+            {
+              "name": {
+                "en": "Anticaglie Beach",
+                "de": "Strand Anticaglie",
+                "hu": "Anticaglie strand",
+                "ro": "Plaja Anticaglie"
+              },
+              "tip_5lang": {
+                "en": "Explore the ruins in comfortable temperatures; since it is cooler than summer, you can spend more time examining the archaeology without seeking shade.",
+                "de": "Erkunden Sie die Ruinen bei angenehmen Temperaturen; da es kühler als im Sommer ist, können Sie mehr Zeit mit der Archäologie verbringen.",
+                "hu": "Fedezze fel a romokat kellemes hőmérsékletben; mivel hűvösebb van, mint nyáron, több időt tölthet a régészeti részletekkel árnyék keresése nélkül.",
+                "ro": "Explorați ruinele la temperaturi confortabile; fiind mai răcoare decât vara, puteți petrece mai mult timp examinând situl fără a căuta umbră."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "de": "Morgen: Beginnen Sie Ihr Radabenteuer im antiken Parco Archeologico Kaukana und entdecken Sie die faszinierenden Ruinen der spätantiken Küstensiedlung.\nMittag: Radeln Sie zurück ins Herz von Punta Secca, um den hoch aufragenden Leuchtturm Capo Scaramia und das charmante Haus von Montalbano zu sehen.\nNachmittag: Fahren Sie entlang der malerischen Küste nach Westen und machen Sie einen kurzen Stopp, um die Felsformation Il Coccodrillo zu fotografieren.\nAbend: Beenden Sie Ihre Fahrt an der historischen Torre di Mezzo und genießen Sie die ruhige Atmosphäre und den herrlichen Meerblick von den Ruinen aus.",
         "hu": "Reggel: Kezdje kerékpáros kalandját az ősi Parco Archeologico Kaukana-ban, felfedezve a késő ókori tengerparti település lenyűgöző romjait.\nDél: Kerékpározzon vissza Punta Secca szívébe, hogy megnézze a magasodó Capo Scaramia világítótornyot és Montalbano híres házának hangulatos külsejét.\nDélután: Tekerjen nyugat felé a festői partvonal mentén, megállva egy gyors fotóra az Il Coccodrillo néven ismert egyedi sziklaalakzatnál.\nEste: Fejezze be utazását a történelmi Torre di Mezzo-nál, élvezve a nyugodt légkört és a gyönyörű tengeri kilátást a romoktól a nap végén.",
         "ro": "Dimineața: Începeți-vă aventura cu bicicleta la antic Parco Archeologico Kaukana, descoperind ruinele fascinante ale așezării de coastă din Antichitatea Târzie.\nPrânz: Pedalați înapoi în inima orașului Punta Secca pentru a vedea falnicul far Capo Scaramia și exteriorul fermecător al faimoasei case a lui Montalbano.\nDupă-amiaza: Pedalați spre vest de-a lungul coastei pitorești, făcând o oprire rapidă pentru a fotografia formațiunea stâncoasă unică cunoscută sub numele de Il Coccodrillo.\nSeara: Terminați-vă plimbarea la istoricul Torre di Mezzo, bucurându-vă de atmosfera senină și de vederile frumoase la mare de la ruine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning ride through the park requires caution as gravel paths get soft; wear full waterproof gear. By noon, navigate the historic zone carefully to avoid slippery ancient stones. Afternoon stops at the lighthouse and house provide brief shelter under overhangs. Finish before evening as the roads become dark and spray from passing cars increases; keep your lights on.",
+            "de": "Die morgendliche Fahrt durch den Park erfordert Vorsicht auf weichen Schotterwegen; tragen Sie Regenkleidung. Mittags steuern Sie vorsichtig über rutschige antike Steine. Nachmittagsstopps bieten Schutz unter Dachvorsprüngen. Beenden Sie die Tour vor dem Abend, da die Straßen dunkel werden und Spritzwasser von Autos zunimmt; Licht anlassen.",
+            "hu": "A reggeli tekerés a parkon át óvatosságot igényel, a murvás utak felázhatnak; viseljen teljes esőfelszerelést. Délben navigáljon figyelmesen a történelmi zónában a csúszós kövek miatt. Délután a világítótoronynál és a háznál találhat rövid menedéket az ereszek alatt. Fejezze be este előtt, mert az utak sötétek és az autók felverik a vizet.",
+            "ro": "Plimbarea de dimineață prin parc necesită prudență pe potecile de pietriș; purtați echipament impermeabil. La prânz, navigați cu grijă printre pietrele antice alunecoase. Opririle de după-amiază oferă adăpost sub streșini. Încheiați înainte de seară, deoarece drumurile devin întunecate și apa împroșcată de mașini crește."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Kaukana Archaeological Park",
+                "de": "Archäologischer Park Kaukana",
+                "hu": "Kaukana Régészeti Park",
+                "ro": "Parcul Arheologic Kaukana"
+              },
+              "tip_5lang": {
+                "en": "See the ruins framed by dramatic rain clouds; the paths are gravel-based and can be muddy, so pedal slowly and check your tire pressure for better grip.",
+                "de": "Sehen Sie die Ruinen vor dramatischen Regenwolken; die Wege aus Schotter können schlammig sein, fahren Sie langsam und prüfen Sie den Reifendruck für Grip.",
+                "hu": "Nézze meg a romokat drámai esőfelhőkkel a háttérben; az utak murvásak és sarasak lehetnek, ezért pedálozzon lassan és ellenőrizze a guminyomást.",
+                "ro": "Vedeți ruinele încadrate de nori de ploaie dramatici; potecile sunt din pietriș și pot fi noroioase, deci pedalați încet pentru o aderență mai bună."
+              }
+            },
+            {
+              "name": {
+                "en": "Kaukana Historic Zone",
+                "de": "Historische Zone Kaukana",
+                "hu": "Kaukana Történelmi Zóna",
+                "ro": "Zona Istorică Kaukana"
+              },
+              "tip_5lang": {
+                "en": "Observe ancient foundations glistening in the rain; check your brakes frequently as wet limestone surfaces require much longer stopping distances.",
+                "de": "Beobachten Sie die glänzenden antiken Fundamente; prüfen Sie oft die Bremsen, da nasse Kalksteinflächen deutlich längere Bremswege erfordern.",
+                "hu": "Figyelje meg az esőben csillogó ősi alapfalakat; gyakran ellenőrizze a fékeit, mivel a vizes mészkőfelületeken sokkal hosszabb a fékút.",
+                "ro": "Observați fundațiile antice strălucind în ploaie; verificați frânele frecvent, deoarece suprafețele de calcar ud necesită distanțe de oprire mai mari."
+              }
+            },
+            {
+              "name": {
+                "en": "Capo Scaramia Lighthouse",
+                "de": "Leuchtturm Capo Scaramia",
+                "hu": "Capo Scaramia világítótorony",
+                "ro": "Farul Capo Scaramia"
+              },
+              "tip_5lang": {
+                "en": "The beacon provides a fixed point in the misty landscape; stop for a moment under the lighthouse's lee to dry your hands and clear your goggles.",
+                "de": "Das Leuchtfeuer bietet Orientierung in der nebligen Landschaft; halten Sie kurz im Windschatten des Turms, um Hände und Brille zu trocknen.",
+                "hu": "A fényjelző fix pontot ad a ködös tájban; álljon meg egy pillanatra a torony szélárnyékában, hogy megszárítsa a kezét és letörölje a szemüvegét.",
+                "ro": "Farul oferă un punct fix în peisajul cetos; opriți-vă un moment la adăpostul turnului pentru a vă usca mâinile și a vă curăța ochelarii."
+              }
+            },
+            {
+              "name": {
+                "en": "House of Inspector Montalbano",
+                "de": "Haus von Commissario Montalbano",
+                "hu": "Montalbano felügyelő háza",
+                "ro": "Casa comisarului Montalbano"
+              },
+              "tip_5lang": {
+                "en": "The house looks melancholic and beautiful in the rain; park your bike securely and use a waterproof cover for the seat while you take photos.",
+                "de": "Das Haus wirkt im Regen melancholisch und schön; parken Sie das Rad sicher und nutzen Sie eine wasserfeste Sattelhülle während der Fotopause.",
+                "hu": "A ház melankolikus és gyönyörű az esőben; parkolja le biztonságosan a biciklit, és használjon vízálló nyereghuzatot, amíg fotózik.",
+                "ro": "Casa arată melancolică și frumoasă în ploaie; parcați bicicleta în siguranță și folosiți o husă impermeabilă pentru șa în timp ce faceți poze."
+              }
+            },
+            {
+              "name": {
+                "en": "The Crocodile Rock",
+                "de": "Krokodil-Felsen",
+                "hu": "Krokodil-szikla",
+                "ro": "Stânca Crocodilului"
+              },
+              "tip_5lang": {
+                "en": "The sea foam creates a great spectacle against the rocks; stay well back from the edge as the rocky surfaces become extremely slippery when wet.",
+                "de": "Die Gischt bietet ein tolles Schauspiel an den Felsen; bleiben Sie weit vom Rand entfernt, da die Felsflächen bei Nässe extrem rutschig sind.",
+                "hu": "A tengerhab nagyszerű látványt nyújt a sziklákon; maradjon távol a szélétől, mivel a sziklás felületek rendkívül csúszóssá válnak vizesen.",
+                "ro": "Spuma mării creează un spectacol grozav pe stânci; stați departe de margine, deoarece suprafețele stâncoase devin extrem de alunecoase când sunt ude."
+              }
+            },
+            {
+              "name": {
+                "en": "Torre di Mezzo Watchtower",
+                "de": "Wachturm Torre di Mezzo",
+                "hu": "Torre di Mezzo Őrtorony",
+                "ro": "Turnul de veghe Torre di Mezzo"
+              },
+              "tip_5lang": {
+                "en": "This historic tower guards a lonely shore in the rain; watch out for deep puddles on the gravel approach path that might hide large stones.",
+                "de": "Dieser Turm bewacht ein einsames Ufer im Regen; achten Sie auf tiefe Pfützen auf dem Schotterweg, die große Steine verbergen könnten.",
+                "hu": "Ez a történelmi torony magányos partot őriz az esőben; vigyázzon a mély tócsákkal a murvás úton, mert nagy köveket rejthetnek.",
+                "ro": "Acest turn istoric păzește un țărm singuratic în ploaie; atenție la bălțile adânci de pe drumul de pietriș care pot ascunde pietre mari."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning ride starts in cool, crisp air; wear cycling gloves to protect your hands from the sea wind. By noon, the archaeological park is pleasant without the summer heat. Afternoon light at the lighthouse is crystal clear. Plan to head back by 16:30 as the temperature drops sharply before the 17:00 sunset; keep a high-visibility jacket ready for the ride home.",
+            "de": "Die morgendliche Fahrt beginnt in kühler Luft; tragen Sie Fahrradhandschuhe gegen den Seewind. Mittags ist der Archäologiepark ohne Sommerhitze sehr angenehm. Das Nachmittagslicht am Leuchtturm ist glasklar. Planen Sie die Rückkehr für 16:30 ein, da es vor dem Sonnenuntergang um 17:00 kalt wird.",
+            "hu": "A reggeli tekerés hűvös, friss levegőben indul; viseljen kesztyűt, hogy védje kezét a tengeri széltől. Délben a régészeti park kellemes a nyári hőség nélkül. Délután a fények kristálytiszták a világítótoronynál. Tervezze a visszautat 16:30-ra, mert 17:00-kor naplemente után hirtelen lehűl az idő.",
+            "ro": "Plimbarea de dimineață începe în aer răcoros; purtați mănuși pentru a vă proteja mâinile de vântul marin. La prânz, parcul arheologic este plăcut fără căldura verii. Lumina de după-amiază este de cristal. Planificați întoarcerea la 16:30, deoarece temperatura scade brusc înainte de apus."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Kaukana Archaeological Park",
+                "de": "Archäologischer Park Kaukana",
+                "hu": "Kaukana Régészeti Park",
+                "ro": "Parcul Arheologic Kaukana"
+              },
+              "tip_5lang": {
+                "en": "Ride through history in the pleasant winter sun; it is the ideal temperature for cycling, but ensure your core is kept warm with a windproof vest.",
+                "de": "Fahren Sie bei angenehmer Wintersonne durch die Geschichte; ideales Wetter zum Radeln, aber halten Sie den Oberkörper mit einer Windweste warm.",
+                "hu": "Tekerjen át a történelmen a kellemes téli napsütésben; ez az ideális hőmérséklet a biciklizéshez, de egy szélálló mellénnyel óvja a törzsét.",
+                "ro": "Pedalați prin istorie sub soarele blând de iarnă; este temperatura ideală pentru ciclism, dar asigurați-vă că purtați o vestă rezistentă la vânt."
+              }
+            },
+            {
+              "name": {
+                "en": "Kaukana Historic Zone",
+                "de": "Historische Zone Kaukana",
+                "hu": "Kaukana Történelmi Zóna",
+                "ro": "Zona Istorică Kaukana"
+              },
+              "tip_5lang": {
+                "en": "Explore the historic site without the scorching heat; the low winter sun provides excellent lighting for capturing the textures of the ancient walls.",
+                "de": "Erkunden Sie die historische Stätte ohne Hitze; die tiefe Wintersonne bietet exzellentes Licht für Fotos der Texturen der antiken Mauern.",
+                "hu": "Fedezze fel a történelmi helyszínt a tikkasztó hőség nélkül; az alacsony téli nap tökéletes fényt biztosít az ősi falak textúrájának fotózásához.",
+                "ro": "Explorați situl istoric fără căldura arzătoare; soarele jos de iarnă oferă o iluminare excelentă pentru a surprinde textura zidurilor antice."
+              }
+            },
+            {
+              "name": {
+                "en": "Capo Scaramia Lighthouse",
+                "de": "Leuchtturm Capo Scaramia",
+                "hu": "Capo Scaramia világítótorony",
+                "ro": "Farul Capo Scaramia"
+              },
+              "tip_5lang": {
+                "en": "Stop here to feel the invigorating sea air; the contrast between the white stone and deep blue winter sea is exceptionally sharp and clear today.",
+                "de": "Halten Sie hier für die belebende Seeluft; der Kontrast zwischen weißem Stein und tiefblauem Wintermeer ist heute außergewöhnlich scharf.",
+                "hu": "Álljon meg itt a frissítő tengeri levegőért; a fehér kő és a mélykék téli tenger közötti kontraszt ma kivételesen éles és tiszta.",
+                "ro": "Opriți-vă aici pentru aerul marin revigorant; contrastul dintre piatra albă și marea albastră de iarnă este excepțional de clar astăzi."
+              }
+            },
+            {
+              "name": {
+                "en": "House of Inspector Montalbano",
+                "de": "Haus von Commissario Montalbano",
+                "hu": "Montalbano felügyelő háza",
+                "ro": "Casa comisarului Montalbano"
+              },
+              "tip_5lang": {
+                "en": "A quick stop at the square is much easier in the off-season; the light at this time of year brings out the warm tones of the coastal architecture.",
+                "de": "Ein kurzer Stopp am Platz ist in der Nebensaison viel einfacher; das Licht bringt die warmen Töne der Küstenarchitektur besonders gut hervor.",
+                "hu": "Egy gyors megálló a téren sokkal egyszerűbb a főszezonon kívül; az év ezen szakaszában a fények kiemelik a parti építészet meleg tónusait.",
+                "ro": "O oprire scurtă în piață este mult mai ușoară în afara sezonului; lumina scoate în evidență tonurile calde ale arhitecturii de coastă."
+              }
+            },
+            {
+              "name": {
+                "en": "The Crocodile Rock",
+                "de": "Krokodil-Felsen",
+                "hu": "Krokodil-szikla",
+                "ro": "Stânca Crocodilului"
+              },
+              "tip_5lang": {
+                "en": "The rock formation is clearly visible in the crisp air; it's a perfect spot for a break, but remember it gets chilly as soon as you stop moving.",
+                "de": "Die Felsformation ist in der klaren Luft deutlich sichtbar; ein guter Ort für eine Pause, aber bedenken Sie, dass es beim Anhalten schnell kühl wird.",
+                "hu": "A sziklaalakzat tisztán látszik a friss levegőben; tökéletes hely egy pihenőre, de ne feledje, hogy amint megáll, hamar fázni kezdhet.",
+                "ro": "Formațiunea stâncoasă este clar vizibilă în aerul proaspăt; este un loc perfect pentru o pauză, dar rețineți că se face frig imediat ce vă opriți."
+              }
+            },
+            {
+              "name": {
+                "en": "Torre di Mezzo Watchtower",
+                "de": "Wachturm Torre di Mezzo",
+                "hu": "Torre di Mezzo Őrtorony",
+                "ro": "Turnul de veghe Torre di Mezzo"
+              },
+              "tip_5lang": {
+                "en": "Cycle to this remote tower while the air is cool; the early sunset means you should plan your arrival to capture the golden hour by 16:15.",
+                "de": "Radeln Sie zu diesem abgelegenen Turm, solange die Luft kühl ist; planen Sie die Ankunft für die goldene Stunde gegen 16:15 ein.",
+                "hu": "Tekerjen el ehhez a távoli toronyhoz a hűvös levegőben; a korai naplemente miatt érkezzen meg 16:15-re, hogy elcsípje az aranyórát.",
+                "ro": "Pedalați până la acest turn izolat cât timp aerul este răcoros; apusul devreme înseamnă că ar trebui să ajungeți pe la 16:15 pentru ora de aur."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "de": "Morgen: Beginnen Sie Ihre Autoroute am westlichen Rand der Region und erkunden Sie die historischen Überreste von Torre di Mezzo und den malerischen Strand.\nMittag: Fahren Sie ins Zentrum von Punta Secca, um den beeindruckenden Leuchtturm Capo Scaramia und die berühmte Casa del Commissario Montalbano zu bewundern.\nNachmittag: Fahren Sie in Richtung Osten zur Area Archeologica di Caucana und reisen Sie in die Vergangenheit, während Sie durch die byzantinischen Ruinen wandern.\nAbend: Beenden Sie Ihre Küstentour am Centro Balneare der Staatspolizei Caucana und entspannen Sie sich am Wasser, während das Abendlicht den Himmel färbt.",
         "hu": "Reggel: Kezdje autós útvonalát a terület nyugati szélén, felfedezve a Torre di Mezzo történelmi maradványait és a szomszédos festői strandot.\nDél: Hajtson be Punta Secca központi magjába, hogy megcsodálja a lenyűgöző Capo Scaramia világítótornyot és a híres Casa del Commissario Montalbano-t.\nDélután: Induljon kelet felé a Caucana Régészeti Területre, és lépjen vissza az időben, miközben a jól megőrzött késő ókori bizánci romok között sétál.\nEste: Zárja tengerparti túráját az Állami Rendőrség Caucana strandközpontjában, pihenve a vízparton, ahogy az esti fény megfesti az eget.",
         "ro": "Dimineața: Începeți traseul cu mașina la marginea de vest a zonei, explorând vestigiile istorice ale Torre di Mezzo și plaja sa pitorească vecină.\nPrânz: Conduceți în centrul orașului Punta Secca pentru a admira impresionantul far Capo Scaramia și celebra Casa del Commissario Montalbano.\nDupă-amiaza: Mergeți spre est, la Area Archeologica di Caucana, întorcându-vă în timp în timp ce vă plimbați printre ruinele bizantine bine conservate.\nSeara: Încheiați-vă turul pe coastă la Centro Balneare della Polizia di Stato Caucana, relaxându-vă la malul apei în timp ce lumina serii pictează cerul."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning drive to the watchtower offers dramatic views of the stormy sea from the comfort of your car. By noon, the lighthouse and beach are best enjoyed through the windshield during heavy squalls. Afternoon visits to the archaeological area require an umbrella for the short walks to the ruins. Evening ends with a moody coastal drive as the rain reflects the village lights.",
+            "de": "Die morgendliche Fahrt zum Wachturm bietet dramatische Blicke auf das stürmische Meer aus dem Auto. Mittags lassen sich Leuchtturm und Strand bei Schauern am besten durch die Scheibe genießen. Nachmittagsbesuche der Ausgrabungen erfordern einen Schirm für kurze Wege. Der Abend endet mit einer stimmungsvollen Fahrt, wenn der Regen die Lichter reflektiert.",
+            "hu": "A reggeli autózás az őrtoronyhoz drámai kilátást nyújt a viharos tengerre az autó kényelméből. Délben a világítótorony és a strand a szélvédőn keresztül élvezhető a legjobban a záporok alatt. Délután a régészeti területhez vigyen esernyőt a romokig tartó rövid sétához. Az este hangulatos autózással zárul, ahogy az eső visszatükrözi a falu fényeit.",
+            "ro": "Drumul de dimineață spre turn oferă vederi dramatice ale mării furtunoase din confortul mașinii. La prânz, farul și plaja sunt cel mai bine admirate prin parbriz în timpul averselor. După-amiaza aveți nevoie de umbrelă pentru vizita la situl arheologic. Seara se încheie cu o plimbare pe coastă, ploaia reflectând luminile satului."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Torre di Mezzo Watchtower",
+                "de": "Wachturm Torre di Mezzo",
+                "hu": "Torre di Mezzo Őrtorony",
+                "ro": "Turnul de veghe Torre di Mezzo"
+              },
+              "tip_5lang": {
+                "en": "Watch the rain lash against the stone tower from your car; it is a powerful scene that highlights the rugged coastal defense history of Sicily.",
+                "de": "Beobachten Sie vom Auto aus, wie der Regen gegen den Steinturm peitscht; eine kraftvolle Szene, die die Geschichte der Küstenverteidigung betont.",
+                "hu": "Nézze az autóból, ahogy az eső veri a kőtornyot; ez egy erőteljes látvány, amely kiemeli Szicília zord parti védelmi történelmét.",
+                "ro": "Priviți ploaia biciuind turnul de piatră din mașină; este o scenă puternică ce evidențiază istoria dură a apărării de coastă a Siciliei."
+              }
+            },
+            {
+              "name": {
+                "en": "Torre di Mezzo Beach",
+                "de": "Strand von Torre di Mezzo",
+                "hu": "Torre di Mezzo strand",
+                "ro": "Plaja Torre di Mezzo"
+              },
+              "tip_5lang": {
+                "en": "The gray sea looks immense today; stay in the vehicle to enjoy panoramic views without getting soaked by the sudden, heavy Mediterranean squalls.",
+                "de": "Das graue Meer wirkt heute unermesslich; bleiben Sie im Fahrzeug, um den Panoramablick zu genießen, ohne von den Mittelmeer-Böen durchnässt zu werden.",
+                "hu": "A szürke tenger ma hatalmasnak tűnik; maradjon a járműben, hogy élvezze a panorámát anélkül, hogy a hirtelen mediterrán záporok eláztatnák.",
+                "ro": "Marea gri pare imensă astăzi; rămâneți în vehicul pentru a vă bucura de vederile panoramice fără a fi udat de vijeliile mediteraneene bruște."
+              }
+            },
+            {
+              "name": {
+                "en": "Capo Scaramia Lighthouse",
+                "de": "Leuchtturm Capo Scaramia",
+                "hu": "Capo Scaramia világítótorony",
+                "ro": "Farul Capo Scaramia"
+              },
+              "tip_5lang": {
+                "en": "A quick photo stop is easy even in bad weather; the lighthouse acts as a sturdy landmark through the mist, making for a very moody and dramatic shot.",
+                "de": "Ein kurzer Fotostopp ist auch bei schlechtem Wetter einfach; der Turm dient als markanter Orientierungspunkt im Nebel für dramatische Aufnahmen.",
+                "hu": "Egy gyors fotómegálló rossz időben is egyszerű; a világítótorony stabil viszonyítási pont a ködben, ami nagyon hangulatos és drámai képet eredményez.",
+                "ro": "O scurtă oprire pentru poze este ușoară chiar și pe vreme rea; farul servește ca reper solid prin ceață, oferind un cadru foarte dramatic."
+              }
+            },
+            {
+              "name": {
+                "en": "House of Inspector Montalbano",
+                "de": "Haus von Commissario Montalbano",
+                "hu": "Montalbano felügyelő háza",
+                "ro": "Casa comisarului Montalbano"
+              },
+              "tip_5lang": {
+                "en": "Park close to the square to minimize walking in the rain; the famous house and its balcony look like a scene from a noir TV episode today.",
+                "de": "Parken Sie nah am Platz, um Fußwege im Regen zu minimieren; das berühmte Haus wirkt heute wie aus einer Szene einer Noir-Krimiserie.",
+                "hu": "Parkoljon közel a térhez, hogy minimalizálja az esőben való gyaloglást; a híres ház és erkélye ma úgy fest, mint egy noir krimi jelenete.",
+                "ro": "Parcați aproape de piață pentru a minimiza mersul prin ploaie; celebra casă și balconul său arată astăzi ca o scenă dintr-un serial noir."
+              }
+            },
+            {
+              "name": {
+                "en": "Caucana Archaeological Area",
+                "de": "Archäologisches Gebiet Caucana",
+                "hu": "Caucana Régészeti Terület",
+                "ro": "Zona Arheologică Caucana"
+              },
+              "tip_5lang": {
+                "en": "View the ancient ruins from the perimeter roads; the rain brings out the rich colors of the old stones, but the paths inside can be quite muddy.",
+                "de": "Betrachten Sie die Ruinen von den Randstraßen aus; der Regen bringt die satten Farben der alten Steine hervor, aber die Wege innen sind schlammig.",
+                "hu": "Tekintse meg az ősi romokat a körutakról; az eső kiemeli a régi kövek gazdag színeit, de a belső ösvények meglehetősen sarasak lehetnek.",
+                "ro": "Vedeți ruinele antice de pe drumurile perimetrale; ploaia scoate la iveală culorile bogate ale pietrelor vechi, dar potecile pot fi noroioase."
+              }
+            },
+            {
+              "name": {
+                "en": "Caucana State Police Beach Center",
+                "de": "Strandzentrum der Staatspolizei Caucana",
+                "hu": "Caucana Állami Rendőrség Strandközpont",
+                "ro": "Centrul Balnear al Poliției de Stat Caucana"
+              },
+              "tip_5lang": {
+                "en": "A final look at the stormy coast from the parking area; the facilities are quiet, giving you a private and atmospheric view of the Mediterranean.",
+                "de": "Ein letzter Blick auf die stürmische Küste vom Parkplatz aus; die Anlagen sind ruhig und bieten einen privaten, stimmungsvollen Blick aufs Meer.",
+                "hu": "Egy utolsó pillantás a viharos partra a parkolóból; a létesítmények csendesek, így privát és hangulatos kilátást kap a Földközi-tengerre.",
+                "ro": "O ultimă privire asupra coastei furtunoase din parcare; facilitățile sunt liniștite, oferindu-vă o vedere privată și atmosferică a Mediteranei."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning starts with clear views of the coast as winter air is exceptionally transparent. By noon, enjoy the warmth of your car between short walks at the historic sites. Afternoon light makes the white lighthouse glow against the deep blue sea. Since the sun sets at 17:00, finish your coastal drive by late afternoon and head into the town center as the air cools down.",
+            "de": "Der Morgen beginnt mit klarem Küstenblick, da die Winterluft besonders transparent ist. Mittags genießen Sie die Autowärme zwischen kurzen Stopps. Das Nachmittagslicht lässt den weißen Leuchtturm vor dem blauen Meer strahlen. Da die Sonne um 17:00 untergeht, beenden Sie die Tour am späten Nachmittag.",
+            "hu": "A reggel tiszta kilátással indul a partra, mivel a téli levegő kivételesen áttetsző. Délben élvezze az autó melegét a történelmi helyszínek közötti rövid séták alatt. A délutáni fényekben a fehér világítótorony ragyog a mélykék tenger előtt. Mivel a nap 17:00-kor nyugszik, fejezze be a parti autózást késő délután.",
+            "ro": "Dimineața începe cu vederi clare, aerul de iarnă fiind excepțional de transparent. La prânz, bucurați-vă de căldura mașinii între scurte plimbări la siturile istorice. Lumina de după-amiază face farul alb să strălucească. Deoarece soarele apune la 17:00, încheiați plimbarea pe coastă după-amiaza târziu."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Torre di Mezzo Watchtower",
+                "de": "Wachturm Torre di Mezzo",
+                "hu": "Torre di Mezzo Őrtorony",
+                "ro": "Turnul de veghe Torre di Mezzo"
+              },
+              "tip_5lang": {
+                "en": "The historic site is peaceful in winter; the cool weather makes the short walk from the parking to the tower very refreshing and pleasant.",
+                "de": "Die historische Stätte ist im Winter friedlich; das kühle Wetter macht den kurzen Weg vom Parkplatz zum Turm sehr erfrischend und angenehm.",
+                "hu": "A történelmi helyszín télen békés; a hűvös időjárás frissítővé és kellemessé teszi a parkolótól a toronyig tartó rövid sétát.",
+                "ro": "Situl istoric este liniștit iarna; vremea răcoroasă face ca scurta plimbare de la parcare până la turn să fie foarte revigorantă."
+              }
+            },
+            {
+              "name": {
+                "en": "Torre di Mezzo Beach",
+                "de": "Strand von Torre di Mezzo",
+                "hu": "Torre di Mezzo strand",
+                "ro": "Plaja Torre di Mezzo"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the vast, empty beach from your car windows; the winter light makes the water look intensely blue, providing a great backdrop for photos.",
+                "de": "Genießen Sie den weiten, leeren Strand aus dem Autofenster; das Winterlicht lässt das Wasser tiefblau wirken, perfekt als Fotokulisse.",
+                "hu": "Élvezze a hatalmas, üres strandot az autó ablakából; a téli fények intenzív kékre festik a vizet, ami nagyszerű hátteret ad a fotókhoz.",
+                "ro": "Bucurați-vă de plaja vastă și goală din mașină; lumina de iarnă face apa să pară de un albastru intens, oferind un fundal excelent pentru poze."
+              }
+            },
+            {
+              "name": {
+                "en": "Capo Scaramia Lighthouse",
+                "de": "Leuchtturm Capo Scaramia",
+                "hu": "Capo Scaramia világítótorony",
+                "ro": "Farul Capo Scaramia"
+              },
+              "tip_5lang": {
+                "en": "The air is clear and visibility is high; it is the perfect time to admire the lighthouse against a bright winter sky without any summer heat haze.",
+                "de": "Die Luft ist klar und die Sicht weit; die perfekte Zeit, den Turm vor strahlendem Winterhimmel ohne sommerliches Hitzeflimmern zu bewundern.",
+                "hu": "A levegő tiszta és a látótávolság nagy; tökéletes időpont a világítótorony megcsodálására a fényes téli égbolt előtt, nyári hőségpára nélkül.",
+                "ro": "Aerul este clar și vizibilitatea ridicată; este momentul perfect pentru a admira farul pe un cer senin de iarnă, fără negura de căldură a verii."
+              }
+            },
+            {
+              "name": {
+                "en": "House of Inspector Montalbano",
+                "de": "Haus von Commissario Montalbano",
+                "hu": "Montalbano felügyelő háza",
+                "ro": "Casa comisarului Montalbano"
+              },
+              "tip_5lang": {
+                "en": "Finding parking is much easier now than in August; enjoy a relaxed stroll around the house and the square in the mild Sicilian winter climate.",
+                "de": "Parkplätze sind jetzt viel leichter zu finden als im August; genießen Sie einen entspannten Rundgang um das Haus im milden Winterklima.",
+                "hu": "A parkolás most sokkal egyszerűbb, mint augusztusban; élvezze a nyugodt sétát a ház és a tér körül az enyhe szicíliai téli éghajlaton.",
+                "ro": "Găsirea parcării este mult mai ușoară acum decât în august; bucurați-vă de o plimbare relaxată în jurul casei în climatul blând sicilian."
+              }
+            },
+            {
+              "name": {
+                "en": "Caucana Archaeological Area",
+                "de": "Archäologisches Gebiet Caucana",
+                "hu": "Caucana Régészeti Terület",
+                "ro": "Zona Arheologică Caucana"
+              },
+              "tip_5lang": {
+                "en": "The archaeological site is comfortable to visit without the scorching sun; take your time to walk among the ruins while the air is still cool.",
+                "de": "Die Ausgrabungsstätte lässt sich ohne brennende Sonne bequem besuchen; nehmen Sie sich Zeit für die Ruinen, solange die Luft noch kühl ist.",
+                "hu": "A régészeti lelőhely kényelmesen látogatható a perzselő nap nélkül; szánjon időt a romok közötti sétára, amíg a levegő hűvös marad.",
+                "ro": "Situl arheologic este confortabil de vizitat fără soarele arzător; faceți-vă timp să vă plimbați printre ruine cât timp aerul este încă răcoros."
+              }
+            },
+            {
+              "name": {
+                "en": "Caucana State Police Beach Center",
+                "de": "Strandzentrum der Staatspolizei Caucana",
+                "hu": "Caucana Állami Rendőrség Strandközpont",
+                "ro": "Centrul Balnear al Poliției de Stat Caucana"
+              },
+              "tip_5lang": {
+                "en": "End your trip with a view of the sunset around 17:00; the beach is quiet and the winter light creates a very serene and colorful atmosphere.",
+                "de": "Beenden Sie die Tour mit dem Sonnenuntergang gegen 17:00; der Strand ist ruhig und das Winterlicht schafft eine sehr friedliche, farbenfrohe Stimmung.",
+                "hu": "Zárja az utat a 17:00 körüli naplementével; a strand csendes, a téli fények pedig rendkívül békés és színes hangulatot árasztanak.",
+                "ro": "Încheiați călătoria cu vederea apusului în jur de 17:00; plaja este liniștită, iar lumina de iarnă creează o atmosferă foarte senină și colorată."
+              }
+            }
+          ]
+        }
       }
     }
   }

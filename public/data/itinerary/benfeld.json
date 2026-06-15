@@ -137,6 +137,168 @@
         "hu": "Reggel: Kezdje a napot a régi városfalak és a békés Saint-Laurent templom felfedezésével a központban.\n\nDél: Csodálja meg a bájos városháza lenyűgöző reneszánsz építészetét Benfeld szívében sétálva.\n\nDélután: Töltsön el egy pihentető időt a La Récrée des Loulous-ban, amely tökéletes program az egész családnak.\n\nEste: Zárja a napot a Place de l'Europe téren, figyelve a helyiek esti pezsgését és a városi életet.",
         "ro": "Dimineața: Începeți ziua explorând vechile ziduri ale orașului și pașnica Biserică Saint-Laurent din centru.\n\nPrânz: Admirați arhitectura renascentistă a fermecătoarei primării situată chiar în inima orașului Benfeld.\n\nDupă-amiază: Bucurați-vă de un timp de relaxare la La Récrée des Loulous, un loc perfect pentru întreaga familie.\n\nSeara: Încheiați ziua în Place de l'Europe, observând forfota de seară și viața urbană liniștită a localnicilor.",
         "en": "Morning: Start your day by exploring the town's ancient defensive walls and the peaceful Saint-Laurent Church.\n\nMidday: Admire the beautiful Renaissance architecture of the charming town hall right in the heart of Benfeld.\n\nAfternoon: Enjoy some relaxing downtime at La Récrée des Loulous, offering an engaging space for the whole family.\n\nEvening: Wind down at Place de l'Europe, finding a comfortable bench to observe the gentle evening bustle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang im Park mit einer guten Regenjacke. Gehen Sie zur Kirche und zum Rathaus, wo Sie bei Bedarf Schutz finden. Verbringen Sie den Nachmittag auf dem Indoor-Spielplatz, um dem Platzregen zu entgehen. Beenden Sie den Tag auf dem zentralen Platz und genießen Sie die Spiegelungen auf dem nassen Kopfsteinpflaster, bevor Sie ins Trockene gehen.",
+            "hu": "Kezdje az esős sétát a parkban, vízálló kabátban. Haladjon a templom és a városháza felé, ahol menedéket találhat. A délutánt töltse a fedett játszóházban, ami tökéletes az eső elől való menekülésre. Fejezze be a napot a központi téren, csodálva a nedves macskaköveken megcsillanó fényeket, mielőtt meleg helyre térne be.",
+            "ro": "Începeți plimbarea ploioasă în parc cu o pelerină bună. Îndreptați-vă spre biserică și primărie, unde puteți găsi adăpost la nevoie. Petreceți după-amiaza la locul de joacă interior, perfect pentru a scăpa de ploaie. Încheiați ziua în piața centrală, bucurându-vă de reflexiile de pe pietrele umede înainte de a intra la căldură.",
+            "en": "Start your rainy walk at the park, wearing a good raincoat. Head towards the church and town hall where you can find shelter if needed. Spend the afternoon at the indoor playground, perfect for escaping the downpour. End the day at the central square, enjoying the reflections on the wet cobblestones before heading indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square du Rempart",
+                "hu": "Square du Rempart",
+                "ro": "Square du Rempart",
+                "en": "Square du Rempart"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Regenschirm ist hier unerlässlich; bewundern Sie die historischen Überreste, die im Regen glänzen, bevor Sie sich an einen trockeneren Ort begeben.",
+                "hu": "Egy jó esernyő elengedhetetlen ezen a helyszínen; csodálja meg az esőben csillogó történelmi romokat, mielőtt egy szárazabb menedék felé indulna.",
+                "ro": "O umbrelă bună este esențială aici; admirați vestigiile istorice care strălucesc frumos în ploaie înainte de a vă îndrepta spre o locație mai uscată.",
+                "en": "A good umbrella is essential for this outdoor spot; admire the beautiful historical remnants glistening in the rain before moving to a drier location."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Regen zu entgehen, und bewundern Sie das friedliche, trockene Innere mit seinen wunderschönen Buntglasfenstern abseits der Nässe.",
+                "hu": "Lépjen be, hogy elmeneküljön az eső elől, és csodálja meg a békés, száraz belső teret a gyönyörű ólomüveg ablakokkal, távol a kinti nedvességtől.",
+                "ro": "Pășiți înăuntru pentru a scăpa de ploaie și admirați interiorul pașnic și uscat, cu vitraliile sale superbe, departe de vremea umedă de afară.",
+                "en": "Step inside to escape the persistent rain and admire the peaceful, completely dry interior with its beautiful stained glass windows away from the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Benfeld",
+                "hu": "Benfeld Városháza",
+                "ro": "Primăria Benfeld",
+                "en": "Benfeld Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die markante Architektur unter einem Regenschirm oder suchen Sie kurzen Schutz unter den Eingangsbögen, wenn der Regen plötzlich stärker wird.",
+                "hu": "Tekintse meg a lenyűgöző építészetet esernyő alól, vagy keressen egy rövid menedéket a bejárati boltívek alatt, ha az esőzés hirtelen intenzívebbé válik.",
+                "ro": "Priviți arhitectura izbitoare de sub o umbrelă sau găsiți un scurt adăpost sub arcadele de la intrare dacă ploaia devine brusc mult mai puternică.",
+                "en": "View the striking architecture from beneath an umbrella or find a brief, helpful shelter near the entrance archways if the rain suddenly becomes heavier."
+              }
+            },
+            {
+              "name": {
+                "de": "La Récrée des Loulous",
+                "hu": "La Récrée des Loulous",
+                "ro": "La Récrée des Loulous",
+                "en": "La Récrée des Loulous"
+              },
+              "tip_5lang": {
+                "de": "Dieser Indoor-Spielplatz ist an einem Regentag ein Lebensretter und hält die ganze Familie perfekt unterhalten und vor allem warm und trocken.",
+                "hu": "Ez a fedett játszóház abszolút életmentő egy esős napon, az egész családot tökéletesen szórakoztatja, miközben mindenki kellemesen meleg és száraz marad.",
+                "ro": "Acest loc de joacă interior este salvator într-o zi ploioasă, menținând întreaga familie perfect distrată și, mai presus de toate, caldă și uscată.",
+                "en": "This indoor play area is an absolute lifesaver on a rainy day, keeping the entire family fully entertained and, most importantly, completely warm and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de l'Europe",
+                "hu": "Place de l'Europe",
+                "ro": "Place de l'Europe",
+                "en": "Place de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht diesem Platz einen stimmungsvollen Charme, aber achten Sie beim Gehen unbedingt auf rutschige Pflastersteine und tiefe Pfützen.",
+                "hu": "Az eső hangulatos bájt kölcsönöz ennek a központi térnek, de séta közben mindenképpen ügyeljen a csúszós macskakövekre és a mélyebb víztócsákra.",
+                "ro": "Ploaia adaugă un farmec plin de dispoziție acestei piețe, dar aveți mare grijă la pietrele de pavaj alunecoase și la bălțile adânci în timp ce mergeți.",
+                "en": "The continuous rain adds a moody charm to this central square, but make sure to watch out for very slippery paving stones and deep puddles as you walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für einen frischen Wintermorgen am Platz warm ein. Wärmen Sie sich in der Kirche auf, bevor Sie das historische Rathaus besuchen. Nachmittags können sich die Kinder im Indoor-Spielzentrum austoben, um der Kälte zu entfliehen. Beenden Sie Ihren Spaziergang am Europaplatz, wenn der frühe Sonnenuntergang gegen 17:00 Uhr das Zentrum erleuchtet.",
+            "hu": "Öltözzön melegen a csípős téli reggelen a téren. Melegedjen fel a templomban, mielőtt megnézi a városházát. Délután a gyerekek a fűtött beltéri játszóházban vezethetik le energiájukat. Fejezze be a sétát az Európa téren, amikor a korai, 17:00 órai naplemente gyönyörűen megvilágítja a várost.",
+            "ro": "Îmbrăcați-vă gros pentru o dimineață de iarnă la piațetă. Încălziți-vă în biserică înainte de a vizita primăria. După-amiaza, lăsați copiii să-și consume energia la locul de joacă interior pentru a scăpa de frig. Terminați plimbarea în piața europeană, când apusul de la ora 17:00 iluminează frumos centrul.",
+            "en": "Bundle up for a crisp winter morning at the square. Warm up inside the church before visiting the historic town hall. In the afternoon, let the kids burn off energy at the indoor play center to escape the cold. Finish your walk at the European square as the early 17:00 sunset beautifully illuminates the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square du Rempart",
+                "hu": "Square du Rempart",
+                "ro": "Square du Rempart",
+                "en": "Square du Rempart"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm in Schichten ein; die frostige Morgenluft lässt diese historischen Parkanlagen unter den kahlen Bäumen absolut magisch aussehen.",
+                "hu": "Öltözzön melegen, rétegesen; a fagyos reggeli levegő és a zúzmarás fák teljesen varázslatossá teszik ezt a történelmi parkot a téli hónapokban.",
+                "ro": "Îmbrăcați-vă călduros în straturi; aerul înghețat al dimineții face ca aceste terenuri istorice de parc să arate absolut magic sub copacii goi.",
+                "en": "Wrap up warm in layers; the frosty morning air makes these historic park grounds look completely magical under the bare winter trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten einen einladenden, zugluftfreien Hafen, um sich die Hände zu wärmen und die ruhige Winteratmosphäre zu bewundern.",
+                "hu": "A vastag kőfalak barátságos, huzatmentes menedéket nyújtanak, ahol felmelegítheti a kezét, és megcsodálhatja a csendes, békés téli hangulatot.",
+                "ro": "Zidurile groase de piatră oferă un refugiu primitor, fără curenți de aer, pentru a vă încălzi mâinile și a admira atmosfera liniștită de iarnă.",
+                "en": "The thick stone walls offer a welcoming, draft-free haven to warm your freezing hands and admire the incredibly quiet, peaceful winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Benfeld",
+                "hu": "Benfeld Városháza",
+                "ro": "Primăria Benfeld",
+                "en": "Benfeld Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Fassade wunderbar hervor, aber die umliegenden Straßen können eisig sein, also gehen Sie mit festem Schuhwerk vorsichtig.",
+                "hu": "A téli fény gyönyörűen kiemeli a homlokzatot, de a környező utcák jegesek lehetnek, ezért mindenképpen óvatosan lépkedjen a fagyott köveken.",
+                "ro": "Lumina de iarnă evidențiază frumos fațada, dar străzile din jur pot fi înghețate, așa că pășiți cu mare grijă pe pietrele alunecoase.",
+                "en": "The bright winter light beautifully highlights the facade, but the surrounding streets can be quite icy, so tread carefully on the slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "La Récrée des Loulous",
+                "hu": "La Récrée des Loulous",
+                "ro": "La Récrée des Loulous",
+                "en": "La Récrée des Loulous"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, beheizter Rückzugsort im Innenbereich, an dem die Familie bequem spielen und den eisigen Temperaturen im Freien entfliehen kann.",
+                "hu": "Tökéletes, fűtött beltéri menedék, ahol a család kényelmesen játszhat, miközben sikeresen elkerüli a kinti dermesztő, fagyos hőmérsékletet.",
+                "ro": "Un refugiu interior încălzit perfect, unde familia se poate juca confortabil evitând în același timp temperaturile înghețate de afară.",
+                "en": "A perfect, heated indoor retreat where the family can comfortably play and relax while completely avoiding the freezing winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de l'Europe",
+                "hu": "Place de l'Europe",
+                "ro": "Place de l'Europe",
+                "en": "Place de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie genau dann an, wenn die frühe Dämmerung um 17:00 Uhr einsetzt, um den Platz wunderschön beleuchtet gegen den kalten Abendhimmel zu sehen.",
+                "hu": "Érkezzen pontosan akkor, amikor a korai, 17:00 órai alkonyat beáll, hogy lássa a teret gyönyörűen kivilágítva a hideg, sötétedő esti égbolt alatt.",
+                "ro": "Ajungeți exact când se lasă amurgul timpuriu la ora 17:00 pentru a vedea piața frumos luminată împotriva cerului rece de seară.",
+                "en": "Arrive just as the early dusk sets in around 17:00 to see the square beautifully lit up against the dramatically cold, dark winter evening sky."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel: Kezdje kerékpártúráját a modern téren, majd tekerjen el az ikonikus reneszánsz városházához.\n\nDél: Látogasson el a templomhoz, és guruljon át a történelmi városfalakhoz egy rövid múltidéző pihenőre.\n\nDélután: Tekerjen ki a központból, hogy élvezze a festői Benfeld-tó körüli tágas, zöld területeket.\n\nEste: Zárja aktív napját a Zembs folyó mentén, gyönyörködve a vízen tükröződő békés naplementében.",
         "ro": "Dimineața: Începeți turul cu bicicleta în piața modernă înainte de a vă îndrepta spre emblematica primărie.\n\nPrânz: Vizitați biserica centrală și pedalați scurt până la meterezele istorice pentru o pauză relaxantă.\n\nDupă-amiază: Ieșiți din centrul istoric pentru a vă bucura de spațiile deschise din jurul pitorescului lac Benfeld.\n\nSeara: Încheiați ziua activă mergând de-a lungul râului Zembs, bucurându-vă de un apus de soare liniștit.",
         "en": "Morning: Kick off your cycling tour in the modern square before heading to the iconic Renaissance town hall.\n\nMidday: Visit the central church and take a short ride to the historic ramparts for a quick historical break.\n\nAfternoon: Pedal out of the historic center to enjoy the wide-open spaces around the scenic Benfeld lake.\n\nEvening: Finish your active day by riding along the Zembs River, enjoying the tranquil sunset over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour am zentralen Platz und sorgen Sie für zuverlässige Regenkleidung. Fahren Sie vorsichtig auf nassem Kopfsteinpflaster an Rathaus und Kirche vorbei. Radeln Sie später zu See und Fluss; der Regen schafft eine dramatische Atmosphäre, aber hüten Sie sich vor schlammigen Wegen. Beenden Sie die Fahrt drinnen.",
+            "hu": "Kezdje a nedves kerékpártúrát a központi téren, megbízható esőruházatban. Tekerjen el a városháza és a templom mellett, óvatosan a csúszós köveken. Később látogasson el a tóhoz és a folyóhoz; az eső drámai hangulatot teremt, de vigyázzon a sárra. Fejezze be a nyirkos utat egy meleg, fedett helyen.",
+            "ro": "Începeți traseul umed de ciclism în piața centrală cu haine de ploaie fiabile. Treceți pe lângă primărie și biserică, fiind precauți pe pietrele umede. Mai târziu, pedalați spre lac și râu; ploaia creează o atmosferă dramatică, dar atenție la noroi. Terminați plimbarea umedă uscându-vă înăuntru.",
+            "en": "Start your wet cycling route at the central square with reliable rain gear. Ride past the town hall and church, being cautious on wet cobblestones. Later, cycle to the lake and river; the rain creates a dramatic atmosphere, but beware of muddy paths. Finish your damp ride by drying off indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Europe",
+                "hu": "Place de l'Europe",
+                "ro": "Place de l'Europe",
+                "en": "Place de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Fahrt bei Regenkleidung; die nassen Pflastersteine erfordern hier in den Kurven ein sanftes Bremsen, um ein Ausrutschen zu vermeiden.",
+                "hu": "Kezdje az utat vízálló felszerelésben; a nedves macskaköveken óvatos fékezésre van szükség a kanyarokban, hogy elkerülje a veszélyes csúszásokat.",
+                "ro": "Începeți plimbarea cu echipament impermeabil; pietrele umede necesită o frânare blândă în curbe pentru a evita alunecarea periculoasă a bicicletei.",
+                "en": "Start your ride with fully waterproof gear; the wet paving stones here require gentle, careful braking on the turns to completely avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Benfeld",
+                "hu": "Benfeld Városháza",
+                "ro": "Primăria Benfeld",
+                "en": "Benfeld Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die nasse Fassade zu bewundern; stellen Sie sicher, dass Ihre Fahrradlichter aufgrund des düsteren Regenwetters eingeschaltet sind.",
+                "hu": "Álljon meg egy pillanatra, hogy megcsodálja a nedves homlokzatot; a borongós esős idő miatt feltétlenül kapcsolja be a kerékpár lámpáit.",
+                "ro": "Opriți-vă scurt pentru a admira fațada umedă; asigurați-vă că luminile bicicletei sunt aprinse din cauza vremii ploioase și foarte întunecate.",
+                "en": "Pause quickly to admire the wet facade; make absolutely sure your bike lights are turned on clearly due to the gloomy and dark rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Wenn der Regen zu stark wird, parken Sie Ihr Fahrrad und treten Sie in dieses ruhige Heiligtum ein, um sich für einen Moment gut abzutrocknen.",
+                "hu": "Ha az eső túl erőssé válik, parkolja le a kerékpárt, és lépjen be ebbe a csendes szentélybe, hogy egy pillanatra megszáradjon a vihar elől.",
+                "ro": "Dacă ploaia devine prea puternică, parcați bicicleta și pășiți în acest sanctuar liniștit pentru a vă usca bine pentru un scurt moment.",
+                "en": "If the rain gets too heavy, safely park your bike and step safely inside this quiet sanctuary to dry off for a comfortable moment out of the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Square du Rempart",
+                "hu": "Square du Rempart",
+                "ro": "Square du Rempart",
+                "en": "Square du Rempart"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren am Park im Regen ist erfrischend, aber bleiben Sie auf den befestigten Wegen, um nicht im tiefen, nassen Schlamm stecken zu bleiben.",
+                "hu": "A park melletti kerékpározás az esőben frissítő, de maradjon a kövezett utakon, nehogy elakadjon a mély, nedves sárban a fű közelében.",
+                "ro": "Ciclismul pe lângă parc în ploaie este revigorant, dar rămâneți pe cărările pavate pentru a evita să vă blocați în noroiul adânc și umed.",
+                "en": "Cycling past the park in the persistent rain is refreshing, but firmly stick to the paved paths to avoid getting bogged down in the deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Benfelder See",
+                "hu": "Benfeld-tó",
+                "ro": "Lacul Benfeld",
+                "en": "Benfeld Lake"
+              },
+              "tip_5lang": {
+                "de": "Die Regentropfen auf dem See sind ein schöner Anblick, aber vermeiden Sie schlammige Uferwege, die für Fahrradreifen sehr rutschig sein können.",
+                "hu": "A tó felszínén fodrozódó esőcseppek gyönyörű látványt nyújtanak, de kerülje a sáros parti ösvényeket, amelyek nagyon csúszósak a gumiknak.",
+                "ro": "Picăturile de ploaie care creează valuri pe lac sunt o priveliște frumoasă, deși trebuie să evitați traseele noroioase și alunecoase de pe țărm.",
+                "en": "The falling raindrops creating ripples on the lake surface is a beautiful sight, though you must avoid the muddy shoreline trails which are slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Fluss Zembs",
+                "hu": "Zembs folyó",
+                "ro": "Râul Zembs",
+                "en": "La Zembs River"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserstand könnte heute höher sein; genießen Sie die dramatische Nebelaussicht über den Fluss in einem soliden, warmen Regenmantel.",
+                "hu": "A vízszint ma magasabb lehet; élvezze a drámai ködös kilátást a folyóra, miközben egy szilárd, vízálló esőkabátot visel a nyeregben.",
+                "ro": "Nivelul apei ar putea fi mai ridicat azi; bucurați-vă de priveliștile dramatice cu ceață peste râu purtând o haină de ploaie foarte solidă.",
+                "en": "The water levels might be much higher today; enjoy the dramatic misty views over the river while safely wearing a solid, bright raincoat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frisches Winterradeln erfordert Thermoschichten und dicke Handschuhe. Beginnen Sie im Zentrum und fahren Sie in der kühlen Luft an historischen Gebäuden vorbei. Radeln Sie nachmittags zu See und Fluss für frostige Aussichten. Planen Sie, vor dem Sonnenuntergang um 17:00 Uhr fertig zu sein, da die Temperaturen stark fallen.",
+            "hu": "A friss téli kerékpározáshoz termó rétegek és vastag kesztyűk kellenek. Kezdje a központban, a fagyos levegőben haladva. Délután induljon a tóhoz és a folyóhoz a dérlepte tájért. Érjen vissza a 17:00 órai naplemente előtt, mielőtt a hőmérséklet drasztikusan, fagyáspont alá csökken.",
+            "ro": "Ciclismul de iarnă necesită straturi termice și mănuși groase. Începeți în centru, trecând pe lângă clădiri istorice în aerul rece. Mergeți la lac și râu după-amiaza pentru vederi înghețate. Planificați să terminați înainte de apusul de la ora 17:00, când temperaturile scad extrem de mult.",
+            "en": "Crisp winter cycling requires thermal layers and thick gloves. Start in the town center, moving past historic buildings in the chilly air. Head out to the lake and river in the afternoon for frosty views. Plan to finish before the 17:00 sunset brings freezing, dangerous temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Europe",
+                "hu": "Place de l'Europe",
+                "ro": "Place de l'Europe",
+                "en": "Place de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Handschuhe und eine winddichte Jacke, um die beißende Morgenkälte bei Beginn Ihrer winterlichen Radtour effektiv abzuwehren.",
+                "hu": "Mindenképpen viseljen vastag kesztyűt és szélálló kabátot, hogy hatékonyan védekezzen a metsző reggeli hideg ellen a túra megkezdésekor.",
+                "ro": "Asigurați-vă că purtați mănuși groase și o jachetă rezistentă la vânt pentru a combate frigul dimineții la începutul plimbării de iarnă.",
+                "en": "Make absolutely sure to wear thick gloves and a windproof jacket to effectively combat the biting morning chill as you start your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Benfeld",
+                "hu": "Benfeld Városháza",
+                "ro": "Primăria Benfeld",
+                "en": "Benfeld Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft bietet klare Ausblicke auf dieses historische Gebäude; achten Sie auf gefährliches Glatteis auf den schattigen Straßen.",
+                "hu": "A friss téli levegő tiszta kilátást nyújt erre a történelmi épületre; nagyon vigyázzon a veszélyes, láthatatlan jégfoltokra az árnyékban.",
+                "ro": "Aerul de iarnă oferă vederi clare asupra acestei clădiri istorice; aveți mare grijă la porțiunile de gheață neagră de pe străzile umbrite.",
+                "en": "The crisp winter air provides incredibly clear views of this historic building; deeply watch out for dangerous patches of black ice on the roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause vom kalten Wind, indem Sie in die Kirche eintreten, um Ihre Hände aufzuwärmen, bevor Sie in die Kälte zurückkehren.",
+                "hu": "Tartson egy rövid szünetet a hideg szélben, és lépjen be a templomba, hogy felmelegítse fagyott kezét, mielőtt folytatná a kerékpározást.",
+                "ro": "Luați o scurtă pauză de la vântul rece pășind în biserică pentru a vă încălzi mâinile înghețate înainte de a continua plimbarea.",
+                "en": "Take a short, needed break from the cold wind by stepping safely inside the church to warm your frozen hands before continuing your pedal."
+              }
+            },
+            {
+              "name": {
+                "de": "Square du Rempart",
+                "hu": "Square du Rempart",
+                "ro": "Square du Rempart",
+                "en": "Square du Rempart"
+              },
+              "tip_5lang": {
+                "de": "Das frostbedeckte Gras und die kahlen Bäume bieten eine kahle, aber wunderschöne Winterlandschaft, während Sie auf befestigten Wegen vorbeiradeln.",
+                "hu": "A fagyott fű és a kopasz fák zord, de gyönyörű téli tájat nyújtanak, miközben elteker a biztonságos, burkolt ösvényeken a park mellett.",
+                "ro": "Iarba acoperită de îngheț și copacii goi oferă un peisaj de iarnă frumos, în timp ce pedalați cu grijă pe cărările pavate.",
+                "en": "The frost-covered grass and beautifully bare trees offer a stark, stunning winter landscape as you carefully pedal past on the paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Benfelder See",
+                "hu": "Benfeld-tó",
+                "ro": "Lacul Benfeld",
+                "en": "Benfeld Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See könnte eisige Ränder haben; es ist ein atemberaubender Winterstopp, aber der Wind, der vom Wasser kommt, wird eiskalt sein.",
+                "hu": "A tó széle jeges lehet; lenyűgöző téli megálló, de a víz felől fújó nyílt szél rendkívül hideg lesz, ezért húzza össze a kabátját.",
+                "ro": "Lacul ar putea avea margini înghețate; este o oprire superbă, dar vântul care vine de pe apa deschisă va fi absolut înghețat.",
+                "en": "The lake might have fully icy edges; it’s a stunning winter stop, but the open wind coming off the water will be absolutely freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Fluss Zembs",
+                "hu": "Zembs folyó",
+                "ro": "Râul Zembs",
+                "en": "La Zembs River"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen entlang des Uferweges; die tiefe Wintersonne erzeugt hier vor Einbruch der Dunkelheit lange, schöne Schatten.",
+                "hu": "Ügyeljen a jeges foltokra a folyóparti ösvényen; az alacsony téli nap hosszú, gyönyörű árnyékokat vet ide a korai sötétedés előtt.",
+                "ro": "Fiți atenți la peticele de gheață de-a lungul râului; soarele de iarnă creează umbre lungi și frumoase aici înainte de apusul devreme.",
+                "en": "Keep a close eye out for icy patches along the riverbank path; the low winter sun creates long, beautiful shadows here before the early dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggel: Hajtson be a történelmi központba, hogy felfedezze a bájos városfalakat és a fő városházát.\n\nDél: A templom megtekintése után induljon el a békés Huttenheim-tóhoz, hogy élvezze a természetet.\n\nDélután: Térjen vissza a benfeldi fő tóhoz, parkoljon le a közelben, és nyújtóztassa ki a lábát egy sétával.\n\nEste: Fejezze be autós kirándulását a Zembs folyó közelében, kiélvezve a nyugodt természeti környezetet.",
         "ro": "Dimineața: Conduceți direct în centrul istoric pentru a explora meterezele fermecătoare și primăria principală.\n\nPrânz: După o vizită la biserica locală, conduceți în afara orașului spre liniștitul lac Huttenheim.\n\nDupă-amiază: Îndreptați-vă spre lacul principal din Benfeld, parcând în apropiere pentru o plimbare pe mal.\n\nSeara: Încheiați-vă excursia cu mașina lângă râul Zembs, savurând mediul natural calm înainte de plecare.",
         "en": "Morning: Drive straight into the historic center to explore the charming ramparts and the main town hall.\n\nMidday: After a visit to the local church, drive out of town to the serene Huttenheim lake for nature views.\n\nAfternoon: Head back towards Benfeld's main lake, parking nearby to stretch your legs with a lakeside walk.\n\nEvening: Conclude your road trip near the Zembs River, savoring the calm natural environment before departing."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch die verregnete Stadt und steigen Sie nur mit einem Regenschirm aus, um die Sehenswürdigkeiten zu sehen. Nachmittags machen Sie eine malerische Fahrt zu den Seen. Genießen Sie die feuchten Landschaften aus der Wärme Ihres Autos und steigen Sie nur kurz aus, um nicht völlig durchnässt zu werden.",
+            "hu": "Vezessen kényelmesen az esős városban, csak egy esernyővel kiszállva a látványosságoknál. Délután tegyen egy festői autózást a tavakhoz és a folyóhoz. Értékelje a borongós, nedves tájat a meleg autóból, és csak rövid időre szálljon ki, hogy elkerülje a teljes elázást a heves esőkben.",
+            "ro": "Conduceți confortabil prin orașul ploios, ieșind cu o umbrelă pentru a vedea atracțiile. După-amiaza, faceți o plimbare pitorească spre lacuri. Apreciați peisajele umede din căldura mașinii dvs., ieșind doar scurt timp pentru a evita să vă udați complet în ploile puternice.",
+            "en": "Drive comfortably through the rainy town, hopping out with an umbrella to see the park, town hall, and church. In the afternoon, take a scenic drive to the local lakes and river. Appreciate the moody, wet landscapes from the warmth of your car, stepping out only briefly to avoid getting totally soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square du Rempart",
+                "hu": "Square du Rempart",
+                "ro": "Square du Rempart",
+                "en": "Square du Rempart"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm im Kofferraum bereit; Sie können einen kurzen, geschützten Spaziergang machen, um die historischen Mauern zu sehen.",
+                "hu": "Tartson kéznél egy esernyőt a csomagtartóban; így tehet egy gyors, védett sétát a parkban, hogy megnézze a történelmi falakat az esőben.",
+                "ro": "Păstrați o umbrelă la îndemână în portbagaj; puteți face o scurtă plimbare adăpostită pentru a vedea zidurile istorice prin ploaie.",
+                "en": "Keep a large umbrella handy in the trunk; you can safely take a quick, well-sheltered stroll to see the historic walls in the light rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Benfeld",
+                "hu": "Benfeld Városháza",
+                "ro": "Primăria Benfeld",
+                "en": "Benfeld Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und bewundern Sie die Spiegelung des Gebäudes in den Pfützen, bevor Sie schnell in Ihr trockenes Auto zurückkehren.",
+                "hu": "Parkoljon a közelben, és csodálja meg az épület tükröződését a tócsákban, mielőtt sietve visszatérne a kényelmes, száraz autójába.",
+                "ro": "Parcați în apropiere și admirați reflexia clădirii în bălțile mari, înainte de a vă grăbi înapoi în mașina dumneavoastră uscată.",
+                "en": "Park safely nearby and admire the beautiful building's reflection in the large puddles before warmly hurrying back into your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Hasten Sie von Ihrem Auto in das trockene, einladende Innere der Kirche, um den anhaltenden Regenschauern in der Stadt zu entgehen.",
+                "hu": "Szaladjon be az autóból a templom száraz, barátságos belső terébe, hogy teljesen elkerülje a városban uralkodó tartós esőzéseket.",
+                "ro": "Alergați de la mașina dvs. în interiorul uscat și primitor al bisericii pentru a scăpa de aversele persistente de ploaie din oraș.",
+                "en": "Safely dash from your car directly into the completely dry, welcoming interior of the church to escape the persistent heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Huttenheimer See",
+                "hu": "Huttenheim-tó",
+                "ro": "Lacul Huttenheim",
+                "en": "Huttenheim Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle, neblige Aussicht über das Wasser direkt von Ihrem Autofenster aus und bleiben Sie dabei völlig trocken.",
+                "hu": "Élvezze a hangulatos, ködös kilátást a vízre közvetlenül a fűtött autó ablakából, miközben teljesen meleg és száraz marad az ülésen.",
+                "ro": "Bucurați-vă de priveliștile atmosferice și cețoase peste apă direct de la fereastra mașinii, rămânând cald și complet uscat.",
+                "en": "Enjoy the wonderfully atmospheric, misty views over the open water directly from your car window, staying warm and completely dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Benfelder See",
+                "hu": "Benfeld-tó",
+                "ro": "Lacul Benfeld",
+                "en": "Benfeld Lake"
+              },
+              "tip_5lang": {
+                "de": "Der Regen lässt den See herrlich wild aussehen; halten Sie für ein kurzes Foto an, aber achten Sie auf rutschige, schlammige Ränder.",
+                "hu": "Az esőtől a tó vadnak és gyönyörűnek tűnik; húzódjon le egy gyors fotó erejéig, de nagyon vigyázzon a csúszós, sáros útpadkákra.",
+                "ro": "Ploaia face lacul să pară frumos și sălbatic; trageți pe dreapta pentru o fotografie rapidă, dar atenție la marginile alunecoase.",
+                "en": "The driving rain makes the lake look beautifully wild; pull over safely for a quick photo but watch for very slippery, muddy verges."
+              }
+            },
+            {
+              "name": {
+                "de": "Fluss Zembs",
+                "hu": "Zembs folyó",
+                "ro": "Râul Zembs",
+                "en": "La Zembs River"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss fließt bei Regen stark; Sie können die dynamische Landschaft bequem und sicher aus Ihrem beheizten Fahrzeug schätzen.",
+                "hu": "A folyó az esőben sebesen folyik; a dinamikus tájat kényelmesen és biztonságosan értékelheti fűtött, száraz járművéből nézve.",
+                "ro": "Râul curge puternic în ploaie; puteți aprecia ușor peisajul dinamic din confortul și siguranța vehiculului dumneavoastră încălzit.",
+                "en": "The wild river flows strongly in the heavy rain; you can easily appreciate the dynamic landscape from the comfort of your heated vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine warme Fahrt durch Benfeld an einem kalten Wintertag. Besuchen Sie schnell das Zentrum, bevor die Kälte einsetzt. Fahren Sie nachmittags zu den frostigen Seen für atemberaubende Ausblicke. Planen Sie, Ihre Route vor 17:00 Uhr zu beenden, wenn frühe Dunkelheit und gefrierender Nebel aufziehen.",
+            "hu": "Élvezze a meleg autózást Benfeldben egy hideg téli napon. Gyorsan látogassa meg a központot, mielőtt a hideg beállna. Délután vezessen a fagyos tavakhoz a lenyűgöző téli kilátásért. Tervezze úgy, hogy 17:00 előtt befejezi az utat, amikor a korai sötétedés és a veszélyes, fagyos köd megérkezik.",
+            "ro": "Bucurați-vă de o plimbare caldă prin Benfeld într-o zi rece de iarnă. Vizitați centrul rapid înainte să se lase frigul. Conduceți spre lacurile înghețate după-amiaza pentru vederi uimitoare. Încercați să terminați traseul înainte de ora 17:00, când sosesc întunericul și ceața înghețată.",
+            "en": "Enjoy a warm drive through Benfeld on a cold winter day. Visit the town center landmarks quickly before the cold really sets in. Drive out to the frosty lakes in the afternoon for stunning winter views. Aim to complete your route before 17:00, when the early dark and freezing evening fog arrive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square du Rempart",
+                "hu": "Square du Rempart",
+                "ro": "Square du Rempart",
+                "en": "Square du Rempart"
+              },
+              "tip_5lang": {
+                "de": "Der Park sieht mit Morgenfrost magisch aus; steigen Sie kurz aus, aber lassen Sie die Autoheizung für Ihre schnelle Rückkehr laufen.",
+                "hu": "A park varázslatosan fest a reggeli dérben; szálljon ki egy rövid sétára, de hagyja bekapcsolva az autó fűtését a gyors visszatéréshez.",
+                "ro": "Parcul arată magic acoperit de înghețul dimineții; ieșiți scurt, dar mențineți încălzirea mașinii pornită pentru întoarcerea rapidă.",
+                "en": "The historic park looks magical covered in morning frost; step out briefly but keep the car heater running for your quick, warm return."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Benfeld",
+                "hu": "Benfeld Városháza",
+                "ro": "Primăria Benfeld",
+                "en": "Benfeld Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne hebt die Details des Gebäudes wunderbar hervor; die Straßen im Zentrum könnten jedoch sehr glatt durch Eis sein.",
+                "hu": "A téli napsütés gyönyörűen kiemeli az épület részleteit; azonban a központ körüli utak az árnyékban csúszósak, jegesek lehetnek.",
+                "ro": "Soarele de iarnă evidențiază frumos detaliile clădirii; drumurile din jurul centrului ar putea fi însă alunecoase de la gheață.",
+                "en": "The bright winter sunshine highlights the building’s details beautifully; roads around the center might be slick with dangerous black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort zum Aufwärmen; treten Sie aus der klirrenden Kälte ein, um die friedliche und extrem ruhige Atmosphäre zu schätzen.",
+                "hu": "Kiváló hely a felmelegedésre; lépjen be a csikorgó hideg elől, hogy értékelje a békés, nyugodt és meleg templomi atmoszférát.",
+                "ro": "Un loc grozav pentru a vă încălzi; pășiți înăuntru din frigul mușcător pentru a aprecia atmosfera extrem de pașnică și liniștită.",
+                "en": "A truly great place to warm up; step inside safely out of the biting cold to appreciate the peaceful, quiet, and frost-free atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Huttenheimer See",
+                "hu": "Huttenheim-tó",
+                "ro": "Lacul Huttenheim",
+                "en": "Huttenheim Lake"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterlandschaft ist hier atemberaubend; vielleicht sehen Sie sogar etwas Eis an den ruhigen Rändern des offenen Wassers.",
+                "hu": "A friss téli táj itt lélegzetelállító; talán még vékony jégréteget is láthat a nyílt víz csendes, nyugodt, szélvédett széleinél.",
+                "ro": "Peisajul clar de iarnă este uluitor aici; s-ar putea chiar să vedeți gheață formându-se pe marginile liniștite ale apei deschise.",
+                "en": "The crisp winter landscape is deeply breathtaking here; you might even safely see some ice forming on the quiet edges of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Benfelder See",
+                "hu": "Benfeld-tó",
+                "ro": "Lacul Benfeld",
+                "en": "Benfeld Lake"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume um den See schaffen eine dramatische Szene; genießen Sie die makellose Aussicht aus Ihrem absolut warmen Auto.",
+                "hu": "A tavat körülvevő kopasz téli fák drámai jelenetet teremtenek; élvezze az érintetlen, fagyos kilátást a meleg autó biztonságából.",
+                "ro": "Copacii goi de iarnă care înconjoară lacul creează o scenă dramatică; bucurați-vă de vederile impecabile din mașina dvs. caldă.",
+                "en": "The completely bare winter trees surrounding the lake create a dramatic scene; enjoy the pristine views directly from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fluss Zembs",
+                "hu": "Zembs folyó",
+                "ro": "Râul Zembs",
+                "en": "La Zembs River"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17:00 Uhr an, wenn das goldene Licht wunderschön über die tiefgefrorenen Flussufer fällt.",
+                "hu": "Érkezzen a 17:00 órai naplemente előtt, amikor a varázslatos aranyóra meleg, ragyogó fényt vet a mélyen befagyott folyópartokra.",
+                "ro": "Ajungeți chiar înainte de apusul de la ora 17:00, când ora de aur aruncă o lumină caldă superbă peste malurile înghețate ale râului.",
+                "en": "Arrive completely safely just as the golden hour hits before the 17:00 sunset, casting a beautiful warm light over the frosty riverbanks."
+              }
+            }
+          ]
+        }
       }
     }
   }

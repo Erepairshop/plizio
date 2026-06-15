@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a nyugodt Haad Rin Nai partján, élvezve a csendes vizet a tömeg érkezése előtt. Délben sétáljon el a The Coast Resort mellett, és fedezze fel a Pooltrap Village hangulatos utcáit. Délután másszon fel a Haad Rin Viewpoint kilátóhoz a lenyűgöző panorámáért. Zárja a napot a nyüzsgő Ao Hat Rin strandon, elmerülve a pezsgő hangulatban és a gyönyörű naplementében.",
         "ro": "Începeți dimineața pe plaja liniștită Haad Rin Nai, bucurându-vă de apele calme înainte de sosirea aglomerației. La prânz, plimbați-vă pe lângă The Coast Resort și explorați străzile pitorești din Pooltrap Village. După-amiaza, urcați la Haad Rin Viewpoint pentru o panoramă uimitoare a peninsulei. Încheiați ziua pe plaja vibrantă Ao Hat Rin, admirând apusul spectaculos.",
         "en": "Start your morning at the tranquil Haad Rin Nai, enjoying the calm waters before the crowds arrive. By midday, stroll past The Coast Resort and explore the quaint streets around Pooltrap Village. In the afternoon, ascend to the Haad Rin Viewpoint for stunning panoramic vistas of the peninsula. Conclude your day at the lively Ao Hat Rin, soaking in the vibrant beach atmosphere and vibrant sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt feucht am Haad Rin Nai; ein Regenponcho ist bei den warmen Güssen Pflicht. Mittags bieten die Resorts am Pooltrap Village festen Unterschlupf und Schutz vor dem Wind. Am Nachmittag ist der Weg zum Viewpoint rutschig, treten Sie vorsichtig auf. Den Abend verbringen Sie am Ao Hat Rin unter einer überdachten Strandbar, während der Regen auf das Wellblech trommelt.",
+            "hu": "A reggel párásan indul a Haad Rin Nai parton; a meleg záporok ellen egy könnyű esőponcho kötelező viselet. Délben a közeli üdülők és a Pooltrap Village épületei nyújtanak biztos menedéket. Délután a kilátóhoz vezető ösvény csúszós lehet, figyeljen a lépteire a sárban. Az estét az Ao Hat Rin egyik fedett bárjában töltheti, hallgatva a trópusi eső kopogását a tetőn.",
+            "ro": "Dimineața începe umedă la Haad Rin Nai; o pelerină de ploaie este obligatorie pentru a face față averselor tropicale calde. La prânz, complexele din Pooltrap Village oferă adăpost sigur și protecție. După-amiaza, poteca spre punctul de belvedere este alunecoasă, deci pășiți cu mare atenție. Seara se încheie la Ao Hat Rin, sub acoperișul unei terase, în timp ce ploaia bate ritmic în decor.",
+            "en": "The morning starts damp at Haad Rin Nai; a light poncho is essential for the warm tropical downpours. At noon, the resorts near Pooltrap Village provide solid shelter and wind protection. In the afternoon, the path to the viewpoint can be slippery, so watch your footing in the mud. Spend the evening at Ao Hat Rin under a covered beach bar, listening to the rhythmic sound of rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haad Rin Nai",
+                "hu": "Haad Rin Nai",
+                "ro": "Haad Rin Nai",
+                "en": "Haad Rin Nai"
+              },
+              "tip_5lang": {
+                "de": "Der Sand am Haad Rin Nai wird bei Regen fest und begehbar, aber suchen Sie bei starken Güssen Schutz unter den Palmen oder Vordächern; nutzen Sie unbedingt eine wasserdichte Handytasche.",
+                "hu": "A Haad Rin Nai homokja esőben jól járhatóvá válik, de a hirtelen lezúduló víz elől keressen menedéket a pálmák alatti épületeknél; használjon vízálló tokot az értékeihez és telefonjához.",
+                "ro": "Nisipul de la Haad Rin Nai devine ferm și ușor de parcurs pe ploaie, dar căutați adăpost sub streșini în timpul averselor; folosiți neapărat o husă impermeabilă pentru telefon și documente.",
+                "en": "The sand at Haad Rin Nai becomes firm and walkable in the rain, but seek shelter under eaves during heavy bursts; be sure to use a waterproof dry bag for your phone and valuables."
+              }
+            },
+            {
+              "name": {
+                "de": "The Coast Resort",
+                "hu": "The Coast Resort",
+                "ro": "The Coast Resort",
+                "en": "The Coast Resort"
+              },
+              "tip_5lang": {
+                "de": "Dieses Resort bietet hervorragende überdachte Terrassen, von denen aus man den grauen Ozean beobachten kann; bestellen Sie einen warmen Tee, um die hohe Luftfeuchtigkeit auszugleichen.",
+                "hu": "Ez az üdülő kiváló fedett teraszokkal rendelkezik, ahonnan biztonságban figyelheti a szürke óceánt; egy meleg tea segít elviselni a trópusi esővel járó rendkívül magas páratartalmat.",
+                "ro": "Acest complex are terase acoperite excelente de unde puteți observa oceanul gri în siguranță; comandați un ceai cald pentru a echilibra senzația de umiditate tropicală ridicată.",
+                "en": "This resort features excellent covered terraces where you can safely watch the grey ocean; ordering a warm tea helps balance the intense tropical humidity brought by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pooltrap Village",
+                "hu": "Pooltrap Village",
+                "ro": "Pooltrap Village",
+                "en": "Pooltrap Village"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die festen Wege innerhalb des Dorfes, um tiefe Schlammpfützen zu vermeiden; ein stabiler Regenschirm schützt Sie hier besser vor seitlichen Böen als ein einfacher Poncho.",
+                "hu": "Használja a falun belüli szilárd burkolatú utakat, hogy elkerülje a mély sárfoltokat; egy masszív esernyő itt jobban véd az oldalirányú széltől, mint egy egyszerű, vékony esőköpeny.",
+                "ro": "Folosiți aleile pavate din interiorul satului pentru a evita zonele cu noroi adânc; o umbrelă robustă vă va proteja mai bine de rafalele laterale decât o pelerină subțire de plastic.",
+                "en": "Use the paved paths within the village to avoid deep mud puddles; a sturdy umbrella will protect you better from sideways wind gusts here than a simple, thin plastic poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Rin Viewpoint",
+                "hu": "Haad Rin Viewpoint",
+                "ro": "Haad Rin Viewpoint",
+                "en": "Haad Rin Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen extrem rutschig, halten Sie sich an Felsen fest und tragen Sie Schuhe mit Profil; die neblige Aussicht auf die Bucht hat eine mystische, ganz eigene Atmosphäre.",
+                "hu": "Az emelkedő esőben rendkívül csúszós, kapaszkodjon a sziklákba és viseljen bordázott talpú cipőt; a ködbe burkolózó öböl látványa ilyenkor misztikus és egészen egyedi hangulatot áraszt.",
+                "ro": "Urcarea este extrem de alunecoasă pe ploaie, așa că țineți-vă de stânci și purtați încălțăminte cu profil; vederea mistică asupra golfului învăluit în ceață are o atmosferă unică.",
+                "en": "The climb is extremely slippery in the rain, so hold onto rocks and wear treaded shoes; the misty view of the bay offers a mystical and entirely unique atmosphere during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "House of Sanskara",
+                "hu": "House of Sanskara",
+                "ro": "House of Sanskara",
+                "en": "House of Sanskara"
+              },
+              "tip_5lang": {
+                "de": "Dieses gemütliche Haus ist der perfekte Ort, um einen Regenschauer bei ruhiger Musik abzuwarten; prüfen Sie Ihre Ausrüstung auf Feuchtigkeit, bevor Sie den nächsten Strandabschnitt betreten.",
+                "hu": "Ez a hangulatos hely tökéletes pont egy kiadós zápor kivárásához nyugodt zene mellett; ellenőrizze felszerelését, hogy nem ázott-e be, mielőtt továbbindulna a következő tengerparti szakaszra.",
+                "ro": "Această locație primitoare este locul perfect pentru a aștepta trecerea unei averse pe o muzică relaxantă; verificați dacă echipamentul este uscat înainte de a pleca spre următoarea plajă.",
+                "en": "This cozy spot is the perfect place to wait out a heavy shower while enjoying calm music; check your gear for moisture and ensure everything is dry before heading to the next beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Rin",
+                "hu": "Ao Hat Rin",
+                "ro": "Ao Hat Rin",
+                "en": "Ao Hat Rin"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung kann bei Sturm stark sein, bleiben Sie am oberen Strandrand unter den Vordächern; die beleuchteten Strandbars bieten auch bei Regen eine warme und einladende Zuflucht.",
+                "hu": "A hullámverés viharos esőben felerősödhet, maradjon a part felső részén a tetők alatt; a kivilágított tengerparti bárok esőben is meleg és hívogató menedéket nyújtanak az utazóknak.",
+                "ro": "Valurile pot fi puternice în timpul furtunii, așa că stați în partea de sus a plajei sub acoperișuri; barurile luminate de pe mal oferă un refugiu cald și primitor chiar și pe ploaie.",
+                "en": "The surf can be very strong during rainstorms, so stay at the upper part of the beach under cover; the illuminated beach bars provide a warm and welcoming refuge even in wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühleren Wintermorgen ist die Luft am Haad Rin Nai herrlich erfrischend für lange Spaziergänge. Mittags ist die Sonne weniger intensiv, was den Besuch im Pooltrap Village sehr angenehm macht. Der Aufstieg zum Viewpoint am Nachmittag belohnt Sie mit einer klaren Fernsicht ohne Dunst. Da die Sonne bereits gegen 17:00 Uhr sinkt, sollten Sie den Abend frühzeitig am Ao Hat Rin ausklingen lassen.",
+            "hu": "A hűvösebb téli reggelen a Haad Rin Nai friss levegője tökéletes a hosszú sétákhoz. Délben a nap kevésbé tűz, így a Pooltrap Village felfedezése sokkal élvezetesebb, mint a nyári hőségben. Délután a kilátóból tiszta, páramentes panoráma nyílik az öbölre. Mivel a nap már 17:00 körül nyugodni kezd, korán keressen egy kényelmes helyet az Ao Hat Rin parton az esti kikapcsolódáshoz.",
+            "ro": "În dimineața răcoroasă de iarnă, aerul de la Haad Rin Nai este revigorant pentru plimbări lungi. La prânz, soarele este mai blând, făcând explorarea Pooltrap Village mult mai plăcută. După-amiaza, urcarea la punctul de belvedere oferă o panoramă clară, fără umezeală. Deoarece soarele apune deja în jurul orei 17:00, ar trebui să vă așezați devreme la Ao Hat Rin pentru seară.",
+            "en": "On a cooler winter morning, the fresh air at Haad Rin Nai is perfect for long, refreshing walks. At noon, the sun is less intense, making a visit to Pooltrap Village very pleasant. The afternoon climb to the viewpoint rewards you with a clear, haze-free panorama of the entire bay. Since the sun sets early around 5:00 PM, aim to settle in at Ao Hat Rin early for a cozy evening stay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haad Rin Nai",
+                "hu": "Haad Rin Nai",
+                "ro": "Haad Rin Nai",
+                "en": "Haad Rin Nai"
+              },
+              "tip_5lang": {
+                "de": "Die Morgentemperaturen sind ideal für Strandgymnastik, aber bringen Sie ein leichtes Langarmshirt gegen die Brise mit; das klare Winterlicht ist perfekt für scharfe Landschaftsfotos.",
+                "hu": "A reggeli hőmérséklet ideális a tengerparti mozgáshoz, de vigyen egy vékony hosszú ujjú felsőt a szél ellen; a tiszta téli fények tökéletesek az éles tájképek készítéséhez.",
+                "ro": "Temperaturile de dimineață sunt ideale pentru mișcare pe plajă, dar aduceți o bluză subțire pentru briză; lumina clară de iarnă este perfectă pentru fotografii de peisaj reușite.",
+                "en": "Morning temperatures are ideal for beach exercise, but bring a light long-sleeved shirt for the breeze; the clear winter light is perfect for capturing sharp landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "The Coast Resort",
+                "hu": "The Coast Resort",
+                "ro": "The Coast Resort",
+                "en": "The Coast Resort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Poolbereich ohne die extreme Hitze, aber achten Sie auf den UV-Schutz, der auch im Winter stark bleibt; die Gartenanlagen blühen in dieser Jahreszeit besonders schön.",
+                "hu": "Élvezze a medence környékét a fojtogató hőség nélkül, de ne feledkezzen meg az UV-védelemről, ami télen is erős; a kert ilyenkor különösen szép és gondozott látványt nyújt.",
+                "ro": "Bucurați-vă de zona piscinei fără căldura extremă, dar nu uitați protecția UV, care rămâne puternică și iarna; grădinile sunt deosebit de frumoase și înflorite în acest sezon.",
+                "en": "Enjoy the pool area without the extreme heat, but don't forget UV protection, which remains strong even in winter; the resort gardens bloom beautifully during this cooler season."
+              }
+            },
+            {
+              "name": {
+                "de": "Pooltrap Village",
+                "hu": "Pooltrap Village",
+                "ro": "Pooltrap Village",
+                "en": "Pooltrap Village"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Gassen, die im Winter weniger staubig sind; nutzen Sie die milden Temperaturen, um die lokale Architektur ohne ständiges Schwitzen im Detail zu bewundern.",
+                "hu": "Sétáljon végig a falusi utcákon, amelyek télen kevésbé porosak; használja ki a mild klímát a helyi építészet megfigyelésére, anélkül, hogy a folyamatos izzadás miatt kellene aggódnia.",
+                "ro": "Plimbați-vă pe străduțele satului, care sunt mai puțin prăfuite iarna; profitați de temperaturile blânde pentru a admira arhitectura locală fără a suferi din cauza căldurii excesive.",
+                "en": "Stroll through the village streets, which are less dusty in winter; take advantage of the mild temperatures to admire the local architecture in detail without constantly sweating."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Rin Viewpoint",
+                "hu": "Haad Rin Viewpoint",
+                "ro": "Haad Rin Viewpoint",
+                "en": "Haad Rin Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei trockenem Winterwetter viel leichter, da die Luftfeuchtigkeit sinkt; bringen Sie ein Fernglas mit, um die Nachbarinseln am klaren Horizont besser zu erkennen.",
+                "hu": "A feljutás a száraz téli időben sokkal könnyebb, mivel a páratartalom jelentősen csökken; vigyen távcsövet, mert ilyenkor a szomszédos szigetek is tisztán látszanak a távoli horizonton.",
+                "ro": "Urcarea este mult mai ușoară în vremea uscată de iarnă, deoarece umiditatea scade; aduceți un binoclu pentru a vedea mai clar insulele vecine la orizontul extrem de senin.",
+                "en": "The climb is much easier in dry winter weather as the humidity drops significantly; bring binoculars to spot the neighboring islands clearly visible on the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "House of Sanskara",
+                "hu": "House of Sanskara",
+                "ro": "House of Sanskara",
+                "en": "House of Sanskara"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen späten Nachmittagstee, bevor es kühl wird; setzen Sie sich in eine windgeschützte Ecke, um die milde Wintersonne bis zum Schluss genießen zu können.",
+                "hu": "Ideális hely egy késő délutáni teázáshoz, mielőtt lehűlne a levegő; üljön egy szélvédett sarokba, hogy az utolsó percekig élvezhesse a lágy téli napsütés melengető sugarait.",
+                "ro": "Un loc ideal pentru un ceai de după-amiază înainte de lăsarea serii; așezați-vă într-un colț ferit de vânt pentru a vă bucura de soarele blând de iarnă până la apus.",
+                "en": "An ideal spot for late afternoon tea before the air cools down; sit in a wind-sheltered corner to enjoy the mild winter sun's warmth until the very last moment of daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Rin",
+                "hu": "Ao Hat Rin",
+                "ro": "Ao Hat Rin",
+                "en": "Ao Hat Rin"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, beginnt das abendliche Treiben hier zeitiger; eine leichte Jacke ist für den Abend am Strand ratsam, da die Meeresbrise im Winter spürbar kühler weht.",
+                "hu": "Mivel korán sötétedik, az esti élet is hamarabb kezdődik itt; egy könnyű dzseki ajánlott a tengerparti tartózkodáshoz, mivel a téli esti szél érezhetően hűvösebbé válhat.",
+                "ro": "Deoarece se întunecă devreme, viața de noapte începe mai repede aici; o jachetă ușoară este recomandată pentru seară, deoarece briza mării este considerabil mai rece iarna.",
+                "en": "Since it gets dark early, the evening buzz starts sooner here; a light jacket is advisable for the beach as the winter sea breeze feels noticeably cooler after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen ki a központból a vidám Water World felé a reggeli órákban, hogy jókedvűen induljon a nap. Délben kulturális élmény várja a Khmer Style Building lenyűgöző részleteivel, majd pihenjen meg a Haad Rin Nai partján. A délutáni kerékpározás a szellős Sunset Bay Resortba és a káprázatos Haad Rin Viewpoint kilátóhoz vezet. Az estéje az ikonikus Ao Hat Rin homokos partjain ér véget.",
         "ro": "Pedalați dimineața spre captivantul Water World pentru a începe ziua cu energie pozitivă și distracție. La prânz, admirați detaliile arhitecturale ale clădirii în stil khmer, apoi relaxați-vă pe nisipul fin de la Haad Rin Nai. Ciclismul de după-amiază vă duce la Sunset Bay Resort și la impresionantul punct de belvedere Haad Rin Viewpoint. Seara se încheie pe faimoasa plajă Ao Hat Rin.",
         "en": "Pedal away from the center to visit the playful Water World in the morning, setting a fun tone for the day. Midday brings a cultural shift as you admire the intricate details of the Khmer Style Building before heading to Haad Rin Nai to relax. Afternoon cycling takes you to the breezy Sunset Bay Resort and up to the stunning Haad Rin Viewpoint. Your evening winds down on the iconic sands of Ao Hat Rin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen bei Water World erfordert volle Konzentration auf die glatte Fahrbahn. Mittags sollten Sie am Khmer Style Building eine lange Pause einlegen, bis der stärkste Guss vorbei ist. Die Wege zum Viewpoint sind für Fahrräder bei Nässe tückisch, fahren Sie extrem langsam. Den Abend beenden Sie am Ao Hat Rin, wo Sie Ihr Rad sicher im Trockenen unterstellen können.",
+            "hu": "A bringázás esőben a Water World környékén nagy odafigyelést igényel a csúszós aszfalt miatt. Délben tartson hosszabb pihenőt a Khmer Style Buildingnél, amíg a leghevesebb zápor elvonul. A kilátóhoz vezető utak vizesen veszélyesek lehetnek a kétkerekűeknek, haladjon lassan. Az estét az Ao Hat Rin-nél zárja, ahol biztonságos, fedett helyen tárolhatja a kerékpárját a vihar elől.",
+            "ro": "Ciclismul pe ploaie în zona Water World necesită concentrare maximă din cauza asfaltului alunecos. La prânz, faceți o pauză lungă la Khmer Style Building până trece ploaia torențială. Drumurile spre punctul de belvedere sunt trădătoare pentru biciclete când sunt ude, deci mergeți încet. Încheiați seara la Ao Hat Rin, unde puteți parca bicicleta într-un loc uscat și sigur.",
+            "en": "Cycling in the rain near Water World requires full concentration due to the slippery asphalt. At noon, take a long break at the Khmer Style Building until the heaviest downpour passes. The roads to the viewpoint are treacherous for bikes when wet, so ride extremely slowly. End your evening at Ao Hat Rin, where you can park your bike safely under cover away from the storm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Water World",
+                "hu": "Water World",
+                "ro": "Water World",
+                "en": "Water World"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen gründlich, bevor Sie auf die nassen Straßen starten; der Wasserpark bietet bei Regen ohnehin feuchten Spaß, aber achten Sie auf rutschige Ränder.",
+                "hu": "Alaposan ellenőrizze a fékeket, mielőtt elindul a vizes utakon; a vízi park esőben is szórakoztató, de legyen nagyon óvatos a csúszós peremek és lépcsők mentén.",
+                "ro": "Verificați frânele cu atenție înainte de a porni pe drumurile ude; parcul acvatic oferă distracție umedă oricum, dar fiți atenți la marginile alunecoase ale bazinelor.",
+                "en": "Thoroughly check your brakes before starting on the wet roads; the water park offers wet fun anyway, but be extra careful around slippery edges and stairs in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Khmer Style Building",
+                "hu": "Khmer Style Building",
+                "ro": "Khmer Style Building",
+                "en": "Khmer Style Building"
+              },
+              "tip_5lang": {
+                "de": "Dieses architektonische Highlight bietet Schutz für Sie und Ihr Fahrrad unter den weiten Dachüberständen; nutzen Sie die Zeit, um die feinen Details der Fassade zu studieren.",
+                "hu": "Ez az építészeti különlegesség kiváló védelmet nyújt Önnek és a bringájának a széles tetőereszek alatt; használja ki az időt a homlokzat finom részleteinek alapos megfigyelésére.",
+                "ro": "Această clădire oferă protecție excelentă pentru tine și bicicletă sub streșinile largi; profită de timp pentru a studia detaliile fine ale fațadei în timp ce plouă afară.",
+                "en": "This architectural highlight offers great protection for both you and your bike under its wide eaves; use the time to study the fine facade details while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Rin Nai",
+                "hu": "Haad Rin Nai",
+                "ro": "Haad Rin Nai",
+                "en": "Haad Rin Nai"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund, da der Boden neben der Straße im Regen schnell aufweicht; ein trockener Sattelüberzug aus Plastik ist bei dieser Tour Gold wert.",
+                "hu": "Parkolja le a biciklit szilárd talajon, mert az út menti föld esőben gyorsan felázik és besüppedhet; egy műanyag nyeregvédő ilyenkor aranyat ér a kényelmes továbbinduláshoz.",
+                "ro": "Parcați bicicleta pe un teren solid, deoarece solul de lângă drum se înmoaie rapid pe ploaie; o protecție din plastic pentru șa merită toți banii în această călătorie umedă.",
+                "en": "Park your bike on solid ground as the soil near the road softens quickly in the rain; a plastic saddle cover is worth its weight in gold for a comfortable ride afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Bay Resort",
+                "hu": "Sunset Bay Resort",
+                "ro": "Sunset Bay Resort",
+                "en": "Sunset Bay Resort"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie das überdachte Restaurant auf, um neue Energie zu tanken und die Sicht auf die stürmische Bucht zu genießen; wischen Sie die Felgen Ihres Rades kurz trocken.",
+                "hu": "Keresse fel a fedett éttermet, hogy feltöltődjön és élvezze a viharos öböl látványát; érdemes gyorsan áttörölni a keréktárcsákat a jobb fékhatás érdekében a következő szakaszon.",
+                "ro": "Mergeți la restaurantul acoperit pentru a vă realimenta și a vă bucura de vederea golfului furtunos; ștergeți rapid jantele bicicletei pentru o frânare mai eficientă ulterior.",
+                "en": "Visit the covered restaurant to recharge and enjoy the view of the stormy bay; wipe your bike rims dry quickly to ensure better braking performance on the next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Rin Viewpoint",
+                "hu": "Haad Rin Viewpoint",
+                "ro": "Haad Rin Viewpoint",
+                "en": "Haad Rin Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Fahrrad am Fuß des Hügels stehen, wenn der Pfad zu schlammig wird, und gehen Sie den Rest; die Sicht durch die Regenwolken ist oft dramatisch und fotogen.",
+                "hu": "Hagyja a kerékpárt a domb alján, ha az ösvény túl sárossá válik, és tegye meg a maradék utat gyalog; a fellegek közül kibukkanó kilátás ilyenkor drámai és nagyon fotogén.",
+                "ro": "Lăsați bicicleta la baza dealului dacă poteca devine prea noroioasă și mergeți pe jos; vederea printre norii de ploaie este adesea dramatică și extrem de fotogenică.",
+                "en": "Leave your bike at the bottom of the hill if the path becomes too muddy and walk the rest; the view through the rain clouds is often dramatic and highly photogenic for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Rin",
+                "hu": "Ao Hat Rin",
+                "ro": "Ao Hat Rin",
+                "en": "Ao Hat Rin"
+              },
+              "tip_5lang": {
+                "de": "Reinigen Sie die Kette Ihres Rades nach der Tour vom Sand und Salz, das der Regen aufgewirbelt hat; entspannen Sie in einer der überdachten Lounges direkt am Wasser.",
+                "hu": "A túra után tisztítsa meg a láncot a homoktól és a sós víztől, amit az eső felcsapott az útról; lazítson az egyik közvetlen vízparti, fedett lounge kényelmes kanapéján.",
+                "ro": "După tură, curățați lanțul bicicletei de nisipul și sarea ridicate de ploaie de pe drum; relaxați-vă într-unul dintre lounge-urile acoperite chiar de lângă malul apei.",
+                "en": "After the ride, clean the chain of sand and salt kicked up from the road by the rain; relax in one of the covered waterfront lounges on a comfortable sofa to end the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein perfekter Wintermorgen für eine Radtour ohne die drückende Mittagshitze bei Water World. Besuchen Sie das Khmer Style Building im milden Licht der Vormittagssonne. Die Luft am Viewpoint ist nachmittags klar und bietet beste Sichtverhältnisse. Kehren Sie vor Sonnenuntergang um 17:00 Uhr zum Ao Hat Rin zurück, da die Temperaturen nach dem Dunkelwerden spürbar sinken können.",
+            "hu": "Tökéletes téli reggel egy biciklitúrához a Water World környékén, a fojtogató hőség nélkül. Látogassa meg a Khmer Style Buildinget a délelőtti nap lágy fényében. A levegő a kilátónál délután tiszta, kiváló látási viszonyokat biztosítva. Térjen vissza az Ao Hat Rin-hez a 17:00-s naplemente előtt, mert sötétedés után a hőmérséklet érezhetően csökkenni kezd.",
+            "ro": "O dimineață perfectă de iarnă pentru o tură cu bicicleta fără căldura sufocantă la Water World. Vizitați Khmer Style Building în lumina blândă a soarelui de dimineață. Aerul la punctul de belvedere este clar după-amiaza, oferind vizibilitate maximă. Reveniți la Ao Hat Rin înainte de apusul de la ora 17:00, deoarece temperatura scade simțitor după lăsarea serii.",
+            "en": "A perfect winter morning for a bike tour without the stifling heat at Water World. Visit the Khmer Style Building in the soft morning sunlight for the best experience. The air at the viewpoint is clear in the afternoon, offering excellent visibility. Return to Ao Hat Rin before the 5:00 PM sunset, as temperatures can drop noticeably once the sun goes down."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Water World",
+                "hu": "Water World",
+                "ro": "Water World",
+                "en": "Water World"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser fühlt sich im Winter erfrischend an, aber nutzen Sie die sonnigen Stunden für die Rutschen; die trockene Luft sorgt für eine angenehme Fahrt zum nächsten Ziel.",
+                "hu": "A víz télen frissítőnek hat, használja ki a napsütéses órákat a csúszdázáshoz; a száraz levegőnek köszönhetően a következő megállóig tartó bringázás kifejezetten kellemes lesz.",
+                "ro": "Apa pare revigorantă iarna, așa că profitați de orele însorite pentru tobogane; aerul uscat face ca drumul cu bicicleta spre următoarea destinație să fie foarte plăcut.",
+                "en": "The water feels refreshing in winter, so take advantage of the sunny hours for the slides; the dry air makes the bike ride to the next stop especially pleasant and easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Khmer Style Building",
+                "hu": "Khmer Style Building",
+                "ro": "Khmer Style Building",
+                "en": "Khmer Style Building"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Lichteinfall ideal, um die kunstvollen Schnitzereien ohne harten Schattenwurf zu fotografieren; parken Sie Ihr Rad bequem im Schatten der nahen Bäume.",
+                "hu": "Télen a fényviszonyok ideálisak az épület díszes faragásainak fotózásához, kemény árnyékok nélkül; parkolja le kényelmesen a biciklit a közeli fák hűvös árnyékában.",
+                "ro": "Iarna, condițiile de lumină sunt ideale pentru a fotografia sculpturile clădirii fără umbre dure; parcați bicicleta confortabil la umbra copacilor din apropiere.",
+                "en": "In winter, the light is ideal for photographing the building's ornate carvings without harsh shadows; park your bike comfortably in the cool shade of the nearby trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Rin Nai",
+                "hu": "Haad Rin Nai",
+                "ro": "Haad Rin Nai",
+                "en": "Haad Rin Nai"
+              },
+              "tip_5lang": {
+                "de": "Die stetige Winterbrise macht das Radeln am Strand entlang zum Vergnügen; achten Sie darauf, genug Wasser zu trinken, da man die Dehydrierung bei kühlerem Wind unterschätzt.",
+                "hu": "A folyamatos téli szellő élménnyé teszi a tengerparti tekerést; ügyeljen a megfelelő folyadékpótlásra, mert a hűvösebb szélben hajlamosak vagyunk alábecsülni a kiszáradást.",
+                "ro": "Briza constantă de iarnă transformă pedalatul pe malul mării într-o plăcere; hidratați-vă corespunzător, deoarece vântul răcoros vă poate face să subestimați deshidratarea.",
+                "en": "The steady winter breeze makes cycling along the shore a real pleasure; remember to stay hydrated, as the cooler wind can make you underestimate your body's fluid needs."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Bay Resort",
+                "hu": "Sunset Bay Resort",
+                "ro": "Sunset Bay Resort",
+                "en": "Sunset Bay Resort"
+              },
+              "tip_5lang": {
+                "de": "Die Terrasse ist im Winter der beste Ort für eine Pause, da die Sonne nicht blendet; genießen Sie den weiten Blick auf den Ozean, bevor Sie die letzte Etappe antreten.",
+                "hu": "A terasz télen a legjobb hely egy pihenőre, mivel a nap nem vakít olyan erősen; élvezze a tágas kilátást az óceánra, mielőtt nekivágna a túra utolsó szakaszának.",
+                "ro": "Terasa este cel mai bun loc pentru o pauză iarna, deoarece soarele nu este atât de orbitor; bucurați-vă de vederea largă spre ocean înainte de a porni în ultima etapă.",
+                "en": "The terrace is the best place for a winter break since the sun isn't as blinding; enjoy the wide ocean view before heading out on the final leg of your cycling journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Rin Viewpoint",
+                "hu": "Haad Rin Viewpoint",
+                "ro": "Haad Rin Viewpoint",
+                "en": "Haad Rin Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Wetter für Panoramabilder, die bis nach Koh Samui reichen können; die Auffahrt ist bei der trockenen Winterluft deutlich weniger anstrengend.",
+                "hu": "Használja ki a tiszta időt olyan panorámaképekhez, amelyeken akár Koh Samui is látszik; a felfelé tekerés a száraz téli levegőben sokkal kevésbé megterhelő a szervezetnek.",
+                "ro": "Profitați de vremea senină pentru fotografii panoramice în care se poate vedea chiar și Koh Samui; urcarea este mult mai puțin obositoare în aerul uscat de iarnă.",
+                "en": "Take advantage of the clear weather for panoramic shots where you might even see Koh Samui; cycling uphill is much less taxing in the dry and crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Rin",
+                "hu": "Ao Hat Rin",
+                "ro": "Ao Hat Rin",
+                "en": "Ao Hat Rin"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es am Strand schnell kühler, suchen Sie sich einen Platz in der Nähe einer Feuerstelle; die klare Winternacht bietet einen grandiosen Sternenhimmel.",
+                "hu": "Naplemente után a parton gyorsan lehűlhet a levegő, keressen helyet egy tűzrakás közelében; a tiszta téli éjszaka lenyűgöző csillagos eget kínál a tenger felett.",
+                "ro": "După apus, se răcește rapid pe plajă, așa că căutați un loc lângă o vatră cu foc; noaptea senină de iarnă oferă un cer înstelat grandios deasupra mării.",
+                "en": "After sunset, the beach cools down quickly, so find a spot near a fire pit; the clear winter night offers a magnificent starry sky above the darkened ocean waves."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autózzon az eldugott északi strandokhoz, kezdve a Haad Wai Nam csendes öblével, amely tökéletes egy kora reggeli úszáshoz. Délben látogasson el az érintetlen Haad Thian és a tágasabb Haad Yuan homokos partjaira. Délután élvezze a lélegzetelállító kilátást a Haad Yuan viewpoint magaslatáról, majd csodálja meg a Khmer Style Building épületét. A nagy finálé a legendás Ao Hat Rin strand lesz.",
         "ro": "Conduceți spre plajele izolate din nord, începând cu Haad Wai Nam, un golf liniștit ideal pentru înotul matinal. La prânz, explorați nisipurile imaculate de la Haad Thian și întinderea mai largă de la Haad Yuan. După-amiaza, admirați peisajul spectaculos de la punctul de belvedere Haad Yuan, apoi vizitați clădirea în stil khmer. Finalul grandios are loc pe legendara plajă Ao Hat Rin.",
         "en": "Drive to the secluded northern beaches starting with Haad Wai Nam, a peaceful cove perfect for early morning swimming. Midday revolves around beach hopping to the pristine sands of Haad Thian and the wider stretch of Haad Yuan. In the afternoon, catch the breathtaking scenery from the Haad Yuan viewpoint before marveling at the Khmer Style Building. Your grand finale is the legendary Ao Hat Rin beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt zu den abgelegenen Buchten ist bei Regen die sicherste Wahl, auch wenn die Pisten rutschig sind. Mittags erreichen Sie das Ao Hat Yuan, wo Sie gemütlich im Auto oder in einer Strandhütte den Schauer abwarten können. Die Sicht vom Viewpoint kann vernebelt sein, was dem Ort eine geheimnisvolle Note verleiht. Den Abend verbringen Sie trocken und entspannt am belebten Ao Hat Rin.",
+            "hu": "Az autóút a távoli öblökhöz esőben a legbiztonságosabb választás, még ha az utak csúszósak is. Délben érkezzen meg az Ao Hat Yuanhoz, ahol kényelmesen az autóban vagy egy parti kunyhóban várhatja meg a záport. A kilátónál a látvány ködös lehet, ami titokzatos hangulatot ad a helynek. Az estét szárazon és nyugodtan töltheti a nyüzsgő Ao Hat Rin parton, távol az eső zajától.",
+            "ro": "O călătorie cu mașina spre golful îndepărtat este cea mai sigură alegere pe ploaie, chiar dacă drumurile sunt alunecoase. La prânz ajungeți la Ao Hat Yuan, unde puteți aștepta trecerea ploii în mașină sau într-o cabană. Vederea de la punctul de belvedere poate fi cețoasă, oferind locului o notă misterioasă. Seara o veți petrece la adăpost și relaxați în zona Ao Hat Rin.",
+            "en": "A car trip to the remote bays is the safest choice in the rain, even if the dirt tracks are slippery. At noon, reach Ao Hat Yuan, where you can comfortably wait out the shower in your car or a beach hut. The view from the viewpoint might be misty, adding a mysterious touch to the landscape. Spend your evening dry and relaxed at the lively Ao Hat Rin beach area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haad Wai Nam",
+                "hu": "Haad Wai Nam",
+                "ro": "Haad Wai Nam",
+                "en": "Haad Wai Nam"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt kann bei Regen schwierig sein, nutzen Sie ein Fahrzeug mit Allradantrieb; genießen Sie das Rauschen des Regens auf dem Autodach, während Sie auf die Bucht blicken.",
+                "hu": "Az idevezető út esőben nehézkes lehet, mindenképpen összkerékhajtású járművet használjon; élvezze az eső kopogását az autó tetőjén, miközben az öböl látványában gyönyörködik.",
+                "ro": "Drumul de acces poate fi dificil pe ploaie, așa că folosiți un vehicul cu tracțiune integrală; bucurați-vă de sunetul ploii pe plafonul mașinii în timp ce priviți golful.",
+                "en": "The access road can be difficult in the rain, so be sure to use a 4WD vehicle; enjoy the sound of rain on the car roof while taking in the beautiful view of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Thian",
+                "hu": "Haad Thian",
+                "ro": "Haad Thian",
+                "en": "Haad Thian"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Fahrzeug, bis der Guss nachlässt; die sandigen Wege zwischen den Parkplätzen und dem Strand können sehr tief und matschig werden.",
+                "hu": "Heves esőzéskor maradjon a járműben, amíg a zápor alábbhagy; a parkolók és a strand közötti homokos ösvények ilyenkor nagyon mélyek és sárosak lehetnek.",
+                "ro": "Rămâneți în vehicul în timpul ploii torențiale până când aceasta se domolește; potecile nisipoase dintre parcare și plajă pot deveni foarte adânci și noroioase.",
+                "en": "Stay in your vehicle during heavy downpours until the rain eases off; the sandy paths between the parking area and the beach can become very deep and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Yuan",
+                "hu": "Haad Yuan",
+                "ro": "Haad Yuan",
+                "en": "Haad Yuan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Klimaanlage des Autos, um die Scheiben vor dem Beschlagen zu bewahren; die Bucht wirkt im Regen wie aus einer anderen Welt, sehr ruhig und friedlich.",
+                "hu": "Használja az autó légkondicionálóját, hogy megakadályozza az ablakok bepárásodását; az öböl az esőben olyannak tűnik, mint egy másik világ, rendkívül csendes és békés.",
+                "ro": "Folosiți aerul condiționat al mașinii pentru a preveni aburirea geamurilor; golful pare desprins din altă lume pe timp de ploaie, fiind extrem de liniștit și pașnic.",
+                "en": "Use the car's air conditioning to keep the windows from fogging up; the bay looks like it's from another world in the rain, appearing incredibly quiet and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Yuan",
+                "hu": "Ao Hat Yuan",
+                "ro": "Ao Hat Yuan",
+                "en": "Ao Hat Yuan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nicht unter großen Bäumen, da bei Sturm Äste herabfallen könnten; das nahegelegene Café bietet einen trockenen Platz mit herrlicher Aussicht auf das Meer.",
+                "hu": "Ne parkoljon nagy fák alá, mert a viharos szélben ágak törhetnek le; a közeli kávézó száraz menedéket és lenyűgöző kilátást nyújt a háborgó tengerre.",
+                "ro": "Nu parcați sub copaci mari, deoarece ramurile pot cădea în timpul furtunii; cafeneaua din apropiere oferă un loc uscat cu o vedere superbă spre mare în timpul ploii.",
+                "en": "Avoid parking under large trees as branches may fall during a storm; the nearby cafe provides a dry spot with a magnificent view of the churning sea while you wait."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Yuan viewpoint",
+                "hu": "Haad Yuan viewpoint",
+                "ro": "Haad Yuan viewpoint",
+                "en": "Haad Yuan viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für die Aussicht im Auto, wenn der Regen zu stark ist; die Wolkenformationen über dem Ozean bieten ein dramatisches Schauspiel für Ihre Urlaubsfotos.",
+                "hu": "Maradjon az autóban a kilátás élvezetéhez, ha az eső túl intenzív; az óceán feletti felhőformációk drámai látványt nyújtanak a nyaralási fotókhoz.",
+                "ro": "Rămâneți în mașină pentru a admira vederea dacă ploaia este prea intensă; formațiunile de nori de deasupra oceanului oferă un spectacol dramatic pentru fotografii.",
+                "en": "Stay inside the car to enjoy the view if the rain is too intense; the cloud formations over the ocean provide a dramatic spectacle for your holiday photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Khmer Style Building",
+                "hu": "Khmer Style Building",
+                "ro": "Khmer Style Building",
+                "en": "Khmer Style Building"
+              },
+              "tip_5lang": {
+                "de": "Sie können direkt davor parken und das Gebäude fast ohne nass zu werden erreichen; die dunklen Steine wirken bei Nässe farblich viel intensiver und schöner.",
+                "hu": "Közvetlenül az épület előtt is parkolhat, így szinte száraz lábbal érheti el a bejáratot; a sötét kövek vizesen sokkal intenzívebb színűek és látványosabbak.",
+                "ro": "Puteți parca chiar în față și puteți ajunge la clădire fără să vă udați prea tare; pietrele închise la culoare au o culoare mult mai intensă și frumoasă când sunt ude.",
+                "en": "You can park right in front and reach the building almost without getting wet; the dark stones appear much more intensely colored and beautiful when they are damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Rin",
+                "hu": "Ao Hat Rin",
+                "ro": "Ao Hat Rin",
+                "en": "Ao Hat Rin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die bewachten Parkplätze, um Ihr Fahrzeug sicher abzustellen; genießen Sie den Abend in einer der vielen überdachten Bars, die auch bei Regen gute Stimmung bieten.",
+                "hu": "Használja az őrzött parkolókat a jármű biztonságos elhelyezéséhez; élvezze az estét a számos fedett bár egyikében, ahol esőben is garantált a jó hangulat.",
+                "ro": "Folosiți parcările păzite pentru a lăsa vehiculul în siguranță; bucurați-vă de seară într-unul dintre numeroasele baruri acoperite care mențin o atmosferă plăcută.",
+                "en": "Use the guarded parking areas to keep your vehicle safe; enjoy the evening in one of the many covered bars that maintain a great atmosphere even during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einer entspannten Autofahrt zu den Stränden von Wai Nam und Thian ein. Mittags genießen Sie die milde Sonne am Ao Hat Yuan, ohne dass die Klimaanlage im Dauerbetrieb laufen muss. Der Viewpoint bietet nachmittags eine Fernsicht, die im Sommer selten ist. Planen Sie Ihre Rückkehr zum Ao Hat Rin vor 17:00 Uhr, um den malerischen Sonnenuntergang nicht zu verpassen.",
+            "hu": "A tiszta téli reggel hívogató egy laza autózáshoz Wai Nam és Thian strandjai felé. Délben élvezze a lágy napsütést az Ao Hat Yuannál, anélkül, hogy a légkondicionálót maximumon kellene járatnia. A kilátó délután olyan távoli panorámát kínál, ami nyáron ritka. Tervezze úgy, hogy 17:00 előtt visszaérjen az Ao Hat Rin-hez, nehogy lemaradjon a festői naplementéről.",
+            "ro": "O dimineață senină de iarnă vă invită la o plimbare relaxantă cu mașina spre plajele Wai Nam și Thian. La prânz, bucurați-vă de soarele blând la Ao Hat Yuan fără a folosi aerul condiționat excesiv. Punctul de belvedere oferă după-amiaza o vizibilitate la distanță rară în timpul verii. Planificați revenirea la Ao Hat Rin înainte de ora 17:00 pentru apus.",
+            "en": "A clear winter morning invites you for a relaxed car drive to the beaches of Wai Nam and Thian. At noon, enjoy the mild sun at Ao Hat Yuan without needing the air conditioning on full blast. The viewpoint offers a long-distance visibility in the afternoon that is rare in summer. Plan to return to Ao Hat Rin before 5:00 PM so you don't miss the picturesque sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haad Wai Nam",
+                "hu": "Haad Wai Nam",
+                "ro": "Haad Wai Nam",
+                "en": "Haad Wai Nam"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenbrise im Auto ist herrlich, lassen Sie die Fenster für frische Meeresluft offen; der Strand ist im Winter morgens wunderbar ruhig und leer.",
+                "hu": "A hűvös reggeli szellő az autóban fenséges, hagyja nyitva az ablakokat a friss tengeri levegőért; a strand télen reggelente csodálatosan csendes és kihalt.",
+                "ro": "Briza răcoroasă de dimineață în mașină este minunată, lăsați geamurile deschise pentru aer curat; plaja este minunat de liniștită și goală în diminețile de iarnă.",
+                "en": "The cool morning breeze in the car is wonderful, so keep the windows open for fresh sea air; the beach is beautifully quiet and empty on winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Thian",
+                "hu": "Haad Thian",
+                "ro": "Haad Thian",
+                "en": "Haad Thian"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um das Auto für die Weiterfahrt leicht aufzuwärmen; die Wintersonne ist perfekt für einen langen Strandspaziergang ohne Hitzeerschöpfung.",
+                "hu": "Parkoljon a napon, hogy az autó kellemesen átmelegedjen a továbbinduláshoz; a téli napsütés tökéletes egy hosszú parti sétához a hőség okozta kimerültség nélkül.",
+                "ro": "Parcați la soare pentru a încălzi ușor mașina pentru drumul următor; soarele de iarnă este perfect pentru o plimbare lungă pe plajă fără epuizare termică.",
+                "en": "Park in the sun to let the car warm up slightly for the next leg of the trip; the winter sun is perfect for a long beach walk without any heat exhaustion."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Yuan",
+                "hu": "Haad Yuan",
+                "ro": "Haad Yuan",
+                "en": "Haad Yuan"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Winterluft macht die Farben der Bucht noch brillanter für Ihre Fotos; nutzen Sie die milden Temperaturen für Erkundungen abseits des direkten Ufers.",
+                "hu": "A száraz téli levegő még ragyogóbbá teszi az öböl színeit a fotóihoz; használja ki a mild hőmérsékletet a közvetlen partvonaltól távolabbi területek felfedezésére.",
+                "ro": "Aerul uscat de iarnă face culorile golfului și mai strălucitoare pentru fotografii; profitați de temperaturile blânde pentru a explora zonele din afara malului.",
+                "en": "The dry winter air makes the colors of the bay even more brilliant for your photos; take advantage of the mild temperatures to explore areas further from the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Yuan",
+                "hu": "Ao Hat Yuan",
+                "ro": "Ao Hat Yuan",
+                "en": "Ao Hat Yuan"
+              },
+              "tip_5lang": {
+                "de": "Ein Pullover für den Aufenthalt im Schatten ist ratsam, da der Wind hier im Winter frisch sein kann; genießen Sie den ungestörten Blick auf das weite, blaue Meer.",
+                "hu": "Egy vékony pulóver ajánlott az árnyékban való tartózkodáshoz, mert a szél itt télen friss lehet; élvezze a zavartalan kilátást a tágas, mélykék tengerre.",
+                "ro": "Un hanorac este recomandat pentru statul la umbră, deoarece vântul poate fi rece aici iarna; bucurați-vă de vederea neîntreruptă spre marea albastră și vastă.",
+                "en": "A light sweater is advisable for staying in the shade as the wind can be fresh here in winter; enjoy the undisturbed view of the vast, deep blue ocean waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Yuan viewpoint",
+                "hu": "Haad Yuan viewpoint",
+                "ro": "Haad Yuan viewpoint",
+                "en": "Haad Yuan viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter entspannter, da weniger Tagestouristen unterwegs sind; das klare Licht bietet die beste Tiefe für Landschaftsaufnahmen mit dem Auto.",
+                "hu": "A parkolás télen sokkal egyszerűbb, mivel kevesebb az egynapos turista a környéken; a tiszta fények a legjobb mélységélességet biztosítják a tájképek készítéséhez.",
+                "ro": "Găsirea unui loc de parcare este mai relaxată iarna, fiind mai puțini turiști; lumina clară oferă cea mai bună profunzime pentru fotografiile de peisaj.",
+                "en": "Finding a parking spot is much more relaxed in winter with fewer day tourists around; the clear light provides the best depth for landscape shots from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Khmer Style Building",
+                "hu": "Khmer Style Building",
+                "ro": "Khmer Style Building",
+                "en": "Khmer Style Building"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht besonders plastisch und detailreich; nehmen Sie sich Zeit für eine Besichtigung, ohne durch die Mittagshitze eilen zu müssen.",
+                "hu": "Az építészet a tiszta téli fényben különösen plasztikusnak és részletgazdagnak tűnik; szánjon időt a nézelődésre, nem kell a déli hőség miatt sietnie.",
+                "ro": "Arhitectura pare deosebit de plastică și detaliată în lumina clară de iarnă; acordați-vă timp pentru vizitare fără a fi nevoit să vă grăbiți din cauza căldurii.",
+                "en": "The architecture looks especially sculptural and detailed in the clear winter light; take your time exploring without having to rush because of the midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Rin",
+                "hu": "Ao Hat Rin",
+                "ro": "Ao Hat Rin",
+                "en": "Ao Hat Rin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Geschehen, um nach dem frühen Sonnenuntergang schnell wieder im Warmen zu sein; die Winterabende hier sind berühmt für ihre gemütliche Atmosphäre.",
+                "hu": "Parkoljon közel a központhoz, hogy a korai naplemente után gyorsan meleg helyre érjen; a téli esték itt híresek a barátságos és meghitt hangulatukról.",
+                "ro": "Parcați aproape de centru pentru a ajunge rapid la căldură după apusul devreme; serile de iarnă de aici sunt faimoase pentru atmosfera lor primitoare și intimă.",
+                "en": "Park close to the action to reach a warm spot quickly after the early sunset; winter evenings here are famous for their incredibly cozy and friendly atmosphere."
+              }
+            }
+          ]
+        }
       }
     }
   }

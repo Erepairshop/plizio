@@ -183,6 +183,224 @@
         "hu": "Kezdje az északi történelmi negyedben az Anyák emlékművével és a városi levéltárral. Sétáljon délre a kikötői Concha Marinához. Csodálja meg a Riviera Kulturális Központ építészetét és a helytörténeti múzeumot. Zárja a napot a Caracol Tudományos Múzeum interaktív kiállításaival.",
         "ro": "Începeți în cartierul istoric nordic cu Monumentul Mamei și arhivele orașului. Plimbați-vă spre sud până la portul Concha Marina. Admirați arhitectura Centrului Cultural Riviera și muzeul de istorie locală. Încheiați la Muzeul de Știință Caracol cu expozițiile sale interactive.",
         "en": "Start at the northern historical cluster with the Mother's Monument and city archives. Stroll south to the harbor's Concha Marina. Admire the Riviera Cultural Center's architecture and local history museum. End at the Caracol Science Museum for interactive exhibits and sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Monumento, Schirme sind Pflicht. Mittags bieten die Archive trockenen Unterschlupf. Nachmittags vertiefen wir uns in die Museumsgeschichte fernab der Pfützen. Abends erkunden wir das Caracol Science Museum, wo das Wetter keine Rolle spielt, während die Stadt draußen im Regen glänzt.",
+            "hu": "Esős reggel a Monumentónál, az esernyő kötelező kellék. Délben a levéltár kínál száraz menedéket. Délután a múzeumok falai között bújunk el a pocsolyák elől, elmélyedve a történelemben. Este a Caracol Tudományos Múzeum interaktív tereiben fejezzük be a napot, ahol a kinti zivatar már nem zavarja az élményt.",
+            "ro": "Dimineață ploioasă la Monumento, umbrela este indispensabilă. La prânz, arhivele oferă un adăpost uscat. După-amiaza ne refugiem în muzeele locale, explorând istoria departe de bălți. Seara se încheie la Muzeul de Știință Caracol, unde expozițiile interioare ne fac să uităm de vremea de afară.",
+            "en": "A rainy morning at the Monumento requires an umbrella. By noon, the archives provide a dry refuge for historical discovery. The afternoon is spent hopping between museums to stay dry. We end the day at the Caracol Science Museum, where the indoor exhibits offer a perfect escape from the coastal drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la Madre",
+                "hu": "Monumento a la Madre",
+                "ro": "Monumento a la Madre",
+                "en": "Monumento a la Madre"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos unter dem Regenschirm; die Statue wirkt im Regen besonders melancholisch und ausdrucksstark.",
+                "hu": "Gyors fotómegálló az esernyő alatt; a szobor a borús időben különösen méltóságteljes és érzelmes látványt nyújt.",
+                "ro": "O oprire scurtă pentru fotografii sub umbrelă; statuia pare deosebit de melancolică și expresivă în lumina difuză a ploii.",
+                "en": "A quick photo stop under your umbrella; the statue takes on a particularly moving and stoic quality in the rainy grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Archives of the City",
+                "hu": "Historical Archives of the City",
+                "ro": "Historical Archives of the City",
+                "en": "Historical Archives of the City"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen trockenen Ort, um in alten Dokumenten zu stöbern; perfekt, um den stärksten Regenschauer abzuwarten.",
+                "hu": "Használja ki ezt a száraz helyszínt a régi dokumentumok böngészésére; tökéletes menedék a legerősebb záporok idején.",
+                "ro": "Profită de acest spațiu uscat pentru a răsfoi documente vechi; este refugiul perfect pentru a aștepta trecerea ploii torențiale.",
+                "en": "Take advantage of this dry indoor space to browse old documents; it is the perfect shelter to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Regional History of Ensenada",
+                "hu": "Museum of Regional History of Ensenada",
+                "ro": "Museum of Regional History of Ensenada",
+                "en": "Museum of Regional History of Ensenada"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern des ehemaligen Gefängnisses halten Sie warm und trocken, während Sie die indigene Geschichte erkunden.",
+                "hu": "Az egykori börtön vastag falai melegen és szárazon tartják Önt, miközben az őslakosok történelmét tanulmányozza.",
+                "ro": "Zidurile groase ale fostei închisori vă vor ține la adăpost și uscați în timp ce explorați istoria indigenă fascinantă.",
+                "en": "The thick walls of the former jail will keep you warm and dry while you explore the fascinating local indigenous history."
+              }
+            },
+            {
+              "name": {
+                "de": "Concha Marina",
+                "hu": "Concha Marina",
+                "ro": "Concha Marina",
+                "en": "Concha Marina"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Muschelsammlungen im Inneren; ein wunderbarer, überdachter Stopp voller maritimer Schätze.",
+                "hu": "Csodálja meg a benti kagylógyűjteményeket; ez egy csodálatos, fedett megálló, amely tele van tengeri kincsekkel.",
+                "ro": "Admirați colecțiile de scoici din interior; este o oprire acoperită minunată, plină de comori maritime spectaculoase.",
+                "en": "Admire the seashell collections inside; it's a wonderful, covered stop filled with spectacular maritime treasures from the gulf."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Social Civico y Cultural Riviera",
+                "hu": "Centro Social Civico y Cultural Riviera",
+                "ro": "Centro Social Civico y Cultural Riviera",
+                "en": "Centro Social Civico y Cultural Riviera"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Säle bieten Schutz; achten Sie auf die rutschigen Fliesen in den Innenhöfen bei Nässe.",
+                "hu": "A pompás termek védelmet nyújtanak az eső elől; vigyázzon a belső udvarok csúszós járólapjaira a nedves időben.",
+                "ro": "Sălile splendide oferă protecție împotriva ploii; atenție la plăcile alunecoase din curțile interioare când este umed.",
+                "en": "The grand halls offer protection from the rain; be careful of the slippery tiles in the courtyards during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Historia de Ensenada",
+                "hu": "Museo de Historia de Ensenada",
+                "ro": "Museo de Historia de Ensenada",
+                "en": "Museo de Historia de Ensenada"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer großartiger Innenraum, um mehr über die Missionen zu erfahren und dabei völlig trocken zu bleiben.",
+                "hu": "Újabb remek beltéri helyszín a missziók történetének megismeréséhez, miközben teljesen száraz marad a ruhája.",
+                "ro": "O altă locație interioară excelentă pentru a învăța despre misiuni, păstrându-vă hainele complet uscate și confortabile.",
+                "en": "Another great indoor location to learn about the missions while keeping your clothes completely dry and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracol Science Museum",
+                "hu": "Caracol Science Museum",
+                "ro": "Caracol Science Museum",
+                "en": "Caracol Science Museum"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Gebäude ist ideal für regnerische Abende; genießen Sie die interaktiven Exponate ohne nass zu werden.",
+                "hu": "A modern épület ideális esős estékre; élvezze az interaktív kiállításokat anélkül, hogy megázna a kinti viharban.",
+                "ro": "Clădirea modernă este ideală pentru serile ploioase; bucurați-vă de expozițiile interactive fără a vă uda deloc.",
+                "en": "The modern building is ideal for rainy evenings; enjoy the interactive exhibits without getting wet in the storm outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen am Monumento, warme Kleidung ist ratsam. Mittags wärmen wir uns in den städtischen Archiven auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht in den Museen optimal aus. Der Abend klingt im Caracol Museum bei angenehmen Innentemperaturen aus.",
+            "hu": "Friss téli reggel a Monumentónál, érdemes rétegesen öltözködni. Délben a városi levéltárban melegedünk fel. Mivel a nap már 17:00 körül lemegy, a múzeumi látogatásokat a világos órákra időzítjük. Az este a Caracol Múzeumban ér véget, kellemes benti hőmérséklet mellett.",
+            "ro": "Dimineață răcoroasă de iarnă la Monumento, se recomandă haine groase. La prânz ne încălzim în arhivele orașului. Deoarece soarele apune în jur de ora 17:00, profităm la maximum de lumină în muzee. Seara se încheie la Muzeul Caracol, în interiorul primitor și călduros.",
+            "en": "A crisp winter morning at the Monumento calls for warm layers. By noon, we warm up inside the city archives. Since the sun sets early around 17:00, we maximize daylight in the museums. The evening winds down at the Caracol Museum with pleasant indoor temperatures away from the chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a la Madre",
+                "hu": "Monumento a la Madre",
+                "ro": "Monumento a la Madre",
+                "en": "Monumento a la Madre"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für scharfe Fotos, aber der Küstenwind kann hier am Morgen recht beißend sein.",
+                "hu": "A tiszta téli levegő éles fotókat tesz lehetővé, de a parti szél reggelente elég metsző lehet ezen a ponton.",
+                "ro": "Aerul curat de iarnă permite fotografii clare, dar vântul de coastă poate fi destul de tăios aici dimineața.",
+                "en": "The clear winter air allows for sharp photos, but the coastal wind can be quite biting here in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Archives of the City",
+                "hu": "Historical Archives of the City",
+                "ro": "Historical Archives of the City",
+                "en": "Historical Archives of the City"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort vor der Winterkälte; die konzentrierte Stille lädt zum längeren Verweilen im Warmen ein.",
+                "hu": "Hangulatos menedék a téli hideg elől; a koncentrált csend hosszabb, melegben történő időzésre csábít az iratok között.",
+                "ro": "Un refugiu primitor împotriva frigului de iarnă; liniștea concentrată vă invită să zăboviți mai mult la căldură.",
+                "en": "A cozy retreat from the winter chill; the concentrated silence invites you to linger longer in the warmth of the archives."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Regional History of Ensenada",
+                "hu": "Museum of Regional History of Ensenada",
+                "ro": "Museum of Regional History of Ensenada",
+                "en": "Museum of Regional History of Ensenada"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum zur Mittagszeit, wenn die Wintersonne die historischen Innenhöfe am schönsten beleuchtet.",
+                "hu": "Látogassa meg a múzeumot délidőben, amikor a téli nap a legszebben világítja meg a történelmi belső udvarokat.",
+                "ro": "Vizitați muzeul la prânz, când soarele de iarnă luminează cel mai frumos curțile interioare istorice ale clădirii.",
+                "en": "Visit the museum at midday, when the winter sun most beautifully illuminates the building's historic inner courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Concha Marina",
+                "hu": "Concha Marina",
+                "ro": "Concha Marina",
+                "en": "Concha Marina"
+              },
+              "tip_5lang": {
+                "de": "Ein farbenfroher Stopp, der das winterliche Grau vergessen lässt; ideal, um ein maritimes Souvenir im Warmen zu suchen.",
+                "hu": "Színpompás megálló, amely feledteti a téli szürkeséget; ideális hely egy tengeri szuvenír beszerzésére a melegben.",
+                "ro": "O oprire colorată care vă face să uitați de griul iernii; ideal pentru a căuta un suvenir maritim la căldură.",
+                "en": "A colorful stop that makes you forget the winter grey; ideal for finding a maritime souvenir while staying warm inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Social Civico y Cultural Riviera",
+                "hu": "Centro Social Civico y Cultural Riviera",
+                "ro": "Centro Social Civico y Cultural Riviera",
+                "en": "Centro Social Civico y Cultural Riviera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur vor dem frühen Sonnenuntergang; die goldenen Stunden machen diesen Ort im Winter magisch.",
+                "hu": "Élvezze az építészetet a korai naplemente előtt; az aranyórák télen különösen mágikussá teszik ezt a helyszínt.",
+                "ro": "Bucurați-vă de arhitectură înainte de apusul devreme; orele de aur fac acest loc magic în timpul iernii.",
+                "en": "Enjoy the architecture before the early sunset; the golden hours make this location truly magical during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Historia de Ensenada",
+                "hu": "Museo de Historia de Ensenada",
+                "ro": "Museo de Historia de Ensenada",
+                "en": "Museo de Historia de Ensenada"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das schwindende Tageslicht für die Außenansicht und verbringen Sie die kühleren späten Stunden im Inneren.",
+                "hu": "Használja ki a fogyatkozó nappali fényt a külső nézethez, majd töltse a hűvösebb késő délutánt az épület belsejében.",
+                "ro": "Profită de lumina zilei pentru exterior, apoi petrece orele mai răcoroase de după-amiază în interiorul muzeului.",
+                "en": "Take advantage of the fading daylight for the exterior, then spend the cooler late afternoon hours inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracol Science Museum",
+                "hu": "Caracol Science Museum",
+                "ro": "Caracol Science Museum",
+                "en": "Caracol Science Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss für einen kurzen Wintertag; nach Einbruch der Dunkelheit ist das Museum hell und warm.",
+                "hu": "Tökéletes zárása egy rövid téli napnak; sötétedés után a múzeum fényes és meleg menedéket nyújt a látogatóknak.",
+                "ro": "O încheiere perfectă pentru o zi scurtă de iarnă; după lăsarea întunericului, muzeul este luminos și primitor.",
+                "en": "A perfect ending to a short winter day; after dark, the museum provides a bright and warm haven for visitors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Induljon a Regionális Történeti Múzeumból, majd tekerjen a Hidalgo emlékhelyhez. Látogasson el a Centro Social Civico-hoz és a Teatro Rivierához. Guruljon el a CEARTE mellett, majd irány az Epocas. Fejezze be a napot egy festői keleti utazással a Porterias felé az alkonyatban.",
         "ro": "Porniți de la Muzeul de Istorie Regională, apoi mergeți la situl Hidalgo. Vizitați Centro Social Civico și istoricul Teatro Riviera. Treceți pe lângă CEARTE, apoi mergeți la reperul Epocas. Încheiați cu o plimbare pitorească spre est, la Porterias, la sfârșitul zilei.",
         "en": "Pedal off from the Regional History Museum, then ride to the Hidalgo site. Cycle to the iconic Centro Social Civico and historic Teatro Riviera. Glide past CEARTE for art, then head to the Epocas landmark. Finish with a scenic ride eastward to the Porterias as the day gracefully ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtige Fahrt auf nassen Straßen am Morgen. Wir suchen Schutz in den Museen, um trocken zu bleiben. Mittags ist das Riviera-Zentrum ein stabiler Stopp zwischen den Schauern. Nachmittags radeln wir vorsichtig zu den CEARTE-Galerien und beenden den Tag bei den Porterias, während wir auf Wetterbesserung hoffen.",
+            "hu": "Óvatos reggeli tekerés a vizes utakon. A múzeumokban keresünk menedéket, hogy szárazon maradjunk. Délben a Riviera központ biztos pont a záporok között. Délután óvatosan gurulunk a CEARTE galériáihoz, majd a Porteriasnál zárjuk a napot, reménykedve a felhők elvonulásában.",
+            "ro": "O cursă matinală precaută pe străzile umede. Căutăm adăpost în muzee pentru a rămâne uscați. La prânz, centrul Riviera este un punct stabil între averse. După-amiaza pedalăm cu grijă spre galeriile CEARTE și încheiem ziua la Porterias, sperând într-o ameliorare a vremii.",
+            "en": "A cautious morning ride on wet roads requires focus. We seek shelter in museums to stay dry between cycles. By noon, the Riviera center is a solid stop between showers. In the afternoon, we pedal carefully to the CEARTE galleries and finish at Porterias, keeping an eye on the grey sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum of Regional History of Ensenada",
+                "hu": "Museum of Regional History of Ensenada",
+                "ro": "Museum of Regional History of Ensenada",
+                "en": "Museum of Regional History of Ensenada"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den langen Museumsbesuch, um den ersten Regenschauer trocken auszusitzen.",
+                "hu": "Parkolja le biztonságosan a biciklijét, és használja ki a hosszú múzeumlátogatást az első zápor száraz átvészelésére.",
+                "ro": "Parcați bicicleta în siguranță și profitați de vizita lungă la muzeu pentru a aștepta trecerea primei averse la uscat.",
+                "en": "Park your bike securely and use the long museum visit to wait out the first rain shower in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidalgo",
+                "hu": "Hidalgo",
+                "ro": "Hidalgo",
+                "en": "Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp am Platz; achten Sie beim Auf- und Absteigen auf die rutschigen Gehwege bei Regen.",
+                "hu": "Gyors megálló a téren; az esőben figyeljen oda a csúszós járdákra a fel- és leszálláskor a kerékpárról.",
+                "ro": "O oprire rapidă în piață; atenție la trotuarele alunecoase din cauza ploii atunci când urcați sau coborâți de pe bicicletă.",
+                "en": "A quick stop at the plaza; pay close attention to the slippery pavement when mounting or dismounting your bike in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Social Civico y Cultural Riviera",
+                "hu": "Centro Social Civico y Cultural Riviera",
+                "ro": "Centro Social Civico y Cultural Riviera",
+                "en": "Centro Social Civico y Cultural Riviera"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden; die historischen Gänge sind ein idealer Ort, um die Regenjacke kurz zu lüften.",
+                "hu": "Keressen menedéket az árkádok alatt; a történelmi folyosók ideálisak az esőkabát rövid szellőztetésére és pihenésre.",
+                "ro": "Căutați adăpost sub arcade; coridoarele istorice sunt locul ideal pentru a vă scutura pelerina de ploaie și a vă odihni.",
+                "en": "Seek shelter under the arcades; the historic corridors are the ideal place to vent your raincoat and rest for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Riviera",
+                "hu": "Teatro Riviera",
+                "ro": "Teatro Riviera",
+                "en": "Teatro Riviera"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob eine Innenbesichtigung möglich ist; das Foyer bietet einen prächtigen und trockenen Anblick.",
+                "hu": "Ellenőrizze, hogy lehetséges-e a belső megtekintés; az előcsarnok pompás és száraz látványt nyújt az esős napokon.",
+                "ro": "Verificați dacă este posibilă vizitarea interiorului; foierul oferă o priveliște splendidă și uscată în zilele ploioase.",
+                "en": "Check if an indoor tour is possible; the foyer provides a grand and dry sight during these rainy coastal days."
+              }
+            },
+            {
+              "name": {
+                "de": "CEARTE",
+                "hu": "CEARTE",
+                "ro": "CEARTE",
+                "en": "CEARTE"
+              },
+              "tip_5lang": {
+                "de": "Dieser Kunstraum ist perfekt für Regentage; lassen Sie die nasse Straße draußen und genießen Sie moderne Kunst.",
+                "hu": "Ez a művészeti tér tökéletes esős napokra; felejtse el a kinti vizes utakat, és merüljön el a modern művészetben.",
+                "ro": "Acest spațiu de artă este perfect pentru zilele ploioase; uitați de străzile umede și bucurați-vă de arta modernă.",
+                "en": "This art space is perfect for rainy days; leave the wet roads behind and immerse yourself in contemporary local art."
+              }
+            },
+            {
+              "name": {
+                "de": "Epocas",
+                "hu": "Epocas",
+                "ro": "Epocas",
+                "en": "Epocas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp; halten Sie Ihre Kamera unter der Jacke bereit, um sie vor der Feuchtigkeit zu schützen.",
+                "hu": "Gyors fotómegálló; tartsa a fényképezőgépét a kabátja alatt, hogy megvédje a nedvességtől a kép elkészítéséig.",
+                "ro": "O oprire rapidă pentru poze; țineți camera sub jachetă pentru a o proteja de umezeală până în momentul fotografierii.",
+                "en": "A quick photo stop; keep your camera under your jacket to protect it from the moisture until the moment you shoot."
+              }
+            },
+            {
+              "name": {
+                "de": "Porterias",
+                "hu": "Porterias",
+                "ro": "Porterias",
+                "en": "Porterias"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig; die Sicht kann bei Regen eingeschränkt sein, tragen Sie reflektierende Kleidung.",
+                "hu": "Óvatosan fejezze be a túrát; esőben a látási viszonyok korlátozottak lehetnek, viseljen fényvisszaverő ruházatot.",
+                "ro": "Încheiați turul cu prudență; vizibilitatea poate fi redusă pe ploaie, purtați îmbrăcăminte reflectorizantă.",
+                "en": "Finish your tour with caution; visibility can be limited in the rain, so ensure you wear reflective gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Brise beim Radeln am Morgen, Handschuhe sind empfohlen. Mittags bieten die Museen eine willkommene Aufwärmpause. Da es früh dunkel wird, planen wir die Küstenabschnitte vor 16:30 Uhr. Die Tour endet bei den Porterias kurz nach Sonnenuntergang bei kühler Winterluft.",
+            "hu": "Friss szellő tekerés közben reggel, a kesztyű használata javasolt. Délben a múzeumok kínálnak szívesen látott melegedőt. Mivel korán sötétedik, a parti szakaszokat 16:30 előttre tervezzük. A túra a Porteriasnál ér véget, röviddel naplemente után, hűvös téli levegőben.",
+            "ro": "Briză proaspătă în timpul mersului pe bicicletă dimineața, se recomandă mănuși. La prânz, muzeele oferă o pauză de încălzire binevenită. Deoarece se întunecă devreme, planificăm secțiunile de coastă înainte de 16:30. Turul se încheie la Porterias, imediat după apus.",
+            "en": "A fresh breeze while cycling in the morning means gloves are recommended. By noon, the museums offer a welcome warming break. Since it gets dark early, we plan the coastal sections before 16:30. The tour finishes at Porterias just after sunset in the cool winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum of Regional History of Ensenada",
+                "hu": "Museum of Regional History of Ensenada",
+                "ro": "Museum of Regional History of Ensenada",
+                "en": "Museum of Regional History of Ensenada"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag hier, um sich nach der ersten kühlen Fahrt des Tages im Inneren richtig aufzuwärmen.",
+                "hu": "Használja ki itt a délelőttöt, hogy a nap első hűvös tekerése után alaposan felmelegedjen az épületen belül.",
+                "ro": "Profită de dimineață aici pentru a te încălzi bine în interior după prima cursă răcoroasă cu bicicleta a zilei.",
+                "en": "Take advantage of the morning here to warm up thoroughly inside after the day's first chilly bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidalgo",
+                "hu": "Hidalgo",
+                "ro": "Hidalgo",
+                "en": "Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Der Platz liegt im Winter oft im Schatten; bleiben Sie in Bewegung, um nicht auszukühlen während der Besichtigung.",
+                "hu": "A tér télen gyakran árnyékban van; maradjon mozgásban, hogy ne hűljön ki a nézelődés közben.",
+                "ro": "Piața este adesea în umbră iarna; rămâneți în mișcare pentru a nu vă răci în timp ce admirați împrejurimile.",
+                "en": "The plaza is often in the shade during winter; stay moving to avoid getting chilled while you take in the sights."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Social Civico y Cultural Riviera",
+                "hu": "Centro Social Civico y Cultural Riviera",
+                "ro": "Centro Social Civico y Cultural Riviera",
+                "en": "Centro Social Civico y Cultural Riviera"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort für die Wintersonne am Mittag; die geschützten Winkel laden zu einer kurzen, warmen Pause ein.",
+                "hu": "Pompás hely a déli téli napsütés élvezetére; a védett zugok hívogatnak egy rövid, melegítő pihenőre.",
+                "ro": "Un loc splendid pentru a savura soarele de iarnă la prânz; colțurile ferite vă invită la o scurtă pauză de încălzire.",
+                "en": "A splendid spot to enjoy the midday winter sun; the sheltered corners invite you to take a short, warming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Riviera",
+                "hu": "Teatro Riviera",
+                "ro": "Teatro Riviera",
+                "en": "Teatro Riviera"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im klaren Winterlicht; das Licht am frühen Nachmittag betont die architektonischen Details.",
+                "hu": "Csodálja meg a homlokzatot a tiszta téli fényben; a kora délutáni világítás kiemeli az építészeti részleteket.",
+                "ro": "Admirați fațada în lumina clară de iarnă; lumina de după-amiază devreme evidențiază frumos detaliile arhitecturale.",
+                "en": "Admire the facade in the clear winter light; the early afternoon lighting beautifully highlights the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "CEARTE",
+                "hu": "CEARTE",
+                "ro": "CEARTE",
+                "en": "CEARTE"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut temperiert; ein idealer Stopp, um die steifen Finger vom Radfahren zu lockern.",
+                "hu": "A kiállítótermek kellemesen temperáltak; ideális megálló a biciklizéstől elgémberedett ujjak átmozgatására.",
+                "ro": "Sălile de expoziție sunt bine încălzite; o oprire ideală pentru a vă dezmorți degetele după mersul pe bicicletă.",
+                "en": "The exhibition halls are comfortably heated; an ideal stop to warm up fingers stiffened from cycling in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Epocas",
+                "hu": "Epocas",
+                "ro": "Epocas",
+                "en": "Epocas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Licht des frühen Sonnenuntergangs; die winterliche Dämmerung verleiht diesem Wahrzeichen Charme.",
+                "hu": "Figyeljen a korai naplemente fényeire; a téli szürkület különleges bájt kölcsönöz ennek a jellegzetes pontnak.",
+                "ro": "Fiți atenți la luminile apusului devreme; amurgul de iarnă conferă un farmec aparte acestui punct de reper.",
+                "en": "Watch for the colors of the early sunset; the winter twilight adds a special charm to this iconic landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Porterias",
+                "hu": "Porterias",
+                "ro": "Porterias",
+                "en": "Porterias"
+              },
+              "tip_5lang": {
+                "de": "Vergewissern Sie sich, dass Ihr Fahrradlicht funktioniert, da es bei Ihrer Ankunft bereits dunkel sein wird.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpái működnek, mivel az érkezéskor már sötét lesz a téli napforduló közelében.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece la sosire va fi deja întuneric în perioada iernii.",
+                "en": "Ensure your bike lights are working properly, as it will already be dark by the time you arrive in the winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +927,168 @@
         "hu": "Vezessen a keleti peremre a Porterias-hoz, majd térjen vissza a Történelmi Levéltárhoz. Parkoljon a Riviera központnál a Centro Social Civico felfedezéséhez. Látogasson el a Caracol Tudományos Múzeumba. Este tegyen egy festői autózást délre a Monalisa felé a pihenéshez.",
         "ro": "Conduceți spre marginea estică pentru a vedea Porterias, apoi întoarceți-vă la Arhivele Istorice. Parcați lângă hub-ul Riviera pentru a explora Centro Social Civico. Vizitați Muzeul de Știință Caracol. Faceți o plimbare pitorească spre sud până la Monalisa pentru o seară relaxantă.",
         "en": "Drive to the eastern edge to see the Porterias first, then cruise back to the Historical Archives. Park near the Riviera hub to explore the Centro Social Civico's courtyards. Visit the modern Caracol Science Museum. Take a scenic drive south to Monalisa for a relaxing evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt trotz Regen am Morgen. Wir parken nah an den Eingängen, um trocken zu bleiben. Mittags genießen wir die Atmosphäre im Riviera-Zentrum. Nachmittags erkunden wir das Caracol Museum und beenden den Tag bei Monalisa, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Kényelmes utazás az eső ellenére is reggel. A bejáratokhoz közel parkolunk, hogy szárazon maradjunk. Délben a Riviera központ hangulatát élvezzük. Délután a Caracol Múzeumot fedezzük fel, majd a Monalisánál zárjuk a napot, miközben az eső a szélvédőn kopog.",
+            "ro": "Călătorie confortabilă în ciuda ploii de dimineață. Parcăm aproape de intrări pentru a rămâne uscați. La prânz ne bucurăm de atmosfera de la centrul Riviera. După-amiaza explorăm Muzeul Caracol și încheiem la Monalisa, în sunetul ploii pe parbriz.",
+            "en": "A comfortable drive despite the morning rain. We park close to the entrances to stay dry. At noon, we enjoy the atmosphere of the Riviera center. In the afternoon, we explore the Caracol Museum and end at Monalisa while the rain taps on the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porterias",
+                "hu": "Porterias",
+                "ro": "Porterias",
+                "en": "Porterias"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Wahrzeichen vom Auto aus, wenn der Regen zu stark ist; ein toller Anblick auch durch die Scheibe.",
+                "hu": "Tekintse meg a látnivalót az autóból, ha túl erősen esik; az üvegen keresztül is nagyszerű látványt nyújt.",
+                "ro": "Admirați obiectivul din mașină dacă plouă prea tare; oferă o priveliște grozavă chiar și prin parbriz.",
+                "en": "View the landmark from the comfort of your car if the rain is too heavy; it offers a great sight even through the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Archives of the City",
+                "hu": "Historical Archives of the City",
+                "ro": "Historical Archives of the City",
+                "en": "Historical Archives of the City"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe vorhanden; ein idealer Stopp, um dem Regen für eine Weile ganz zu entkommen.",
+                "hu": "A parkolóhelyek a közelben találhatók; ideális megálló, hogy egy időre teljesen elmeneküljön az eső elől.",
+                "ro": "Locurile de parcare sunt disponibile în apropiere; o oprire ideală pentru a scăpa complet de ploaie pentru o vreme.",
+                "en": "Parking spaces are available nearby; an ideal stop to completely escape the rain for a significant amount of time."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Social Civico y Cultural Riviera",
+                "hu": "Centro Social Civico y Cultural Riviera",
+                "ro": "Centro Social Civico y Cultural Riviera",
+                "en": "Centro Social Civico y Cultural Riviera"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Haupteingang für kurze Wege im Regen; die prachtvollen Innenräume sind absolut sehenswert.",
+                "hu": "Használja a főbejáratot a rövid gyalogút érdekében az esőben; a pompás belső terek abszolút megérik a látogatást.",
+                "ro": "Folosiți intrarea principală pentru a merge cât mai puțin prin ploaie; interioarele splendide merită vizitate cu siguranță.",
+                "en": "Use the main entrance for the shortest walk in the rain; the grand interiors are absolutely worth the visit today."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracol Science Museum",
+                "hu": "Caracol Science Museum",
+                "ro": "Caracol Science Museum",
+                "en": "Caracol Science Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Stopp mit gutem Zugang; perfekt, um den Nachmittag trocken und lehrreich zu verbringen.",
+                "hu": "Modern megálló jó hozzáféréssel; tökéletes helyszín a délután száraz és tanulságos eltöltéséhez a falak között.",
+                "ro": "O oprire modernă cu acces facil; locul perfect pentru a petrece după-amiaza la uscat și într-un mod educativ.",
+                "en": "A modern stop with easy access; the perfect location to spend the afternoon dry and in an educational way."
+              }
+            },
+            {
+              "name": {
+                "de": "Monalisa",
+                "hu": "Monalisa",
+                "ro": "Monalisa",
+                "en": "Monalisa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer vom warmen Auto aus oder finden Sie einen gemütlichen Platz im Inneren.",
+                "hu": "Élvezze az esős tenger látványát a meleg autóból, vagy keressen egy hangulatos, fedett helyet a benti részen.",
+                "ro": "Bucurați-vă de vederea mării ploioase din mașina caldă sau căutați un loc primitor și acoperit în interior.",
+                "en": "Enjoy the view of the rainy sea from your warm car or find a cozy, sheltered spot in the indoor area nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Angenehme Fahrt in der Wintersonne am Morgen. Mittags erkunden wir die historischen Archive im Warmen. Da es gegen 17:00 Uhr dunkel wird, genießen wir den Blick auf die Küste am frühen Nachmittag. Der Tag endet gemütlich im Caracol Museum, geschützt vor der abendlichen Kälte.",
+            "hu": "Kellemes autózás a téli napsütésben reggel. Délben a történelmi levéltárat fedezzük fel a melegben. Mivel 17:00 körül sötétedik, a parti látványt kora délutánra időzítjük. A nap a Caracol Múzeumban zárul, védve az esti lehűléstől.",
+            "ro": "Călătorie plăcută în soarele de iarnă de dimineață. La prânz explorăm arhivele istorice la căldură. Deoarece se întunecă în jur de ora 17:00, admirăm coasta devreme. Ziua se încheie la Muzeul Caracol, la adăpost de frigul serii.",
+            "en": "A pleasant drive in the winter sun this morning. By noon, we explore the historic archives in the warmth. Since it gets dark around 17:00, we schedule coastal views for the early afternoon. The day ends comfortably at the Caracol Museum, sheltered from the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porterias",
+                "hu": "Porterias",
+                "ro": "Porterias",
+                "en": "Porterias"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Sichten; nutzen Sie das Morgenlicht für ein beeindruckendes Foto vom Auto aus.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít; használja ki a reggeli fényeket egy lenyűgöző fotóhoz az autóból.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă; profită de lumina dimineții pentru o poză reușită din mașină.",
+                "en": "The clear winter air provides far-reaching views; take advantage of the morning light for a stunning photo from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Archives of the City",
+                "hu": "Historical Archives of the City",
+                "ro": "Historical Archives of the City",
+                "en": "Historical Archives of the City"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Stopp zur Mittagszeit; genießen Sie die Ruhe im Inneren, während die Wintersonne draußen steht.",
+                "hu": "Meleg megálló délidőben; élvezze a benti nyugalmat, miközben odakint magasan jár a bágyadt téli nap.",
+                "ro": "O oprire călduroasă la prânz; bucurați-vă de liniștea din interior în timp ce soarele de iarnă strălucește afară.",
+                "en": "A warm stop at midday; enjoy the peace inside while the pale winter sun stands high in the sky outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Social Civico y Cultural Riviera",
+                "hu": "Centro Social Civico y Cultural Riviera",
+                "ro": "Centro Social Civico y Cultural Riviera",
+                "en": "Centro Social Civico y Cultural Riviera"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Wintersonne betont die Details der Fassade; ideal für einen Besuch am frühen Nachmittag.",
+                "hu": "Az alacsonyan járó téli nap fénye kiemeli a homlokzat részleteit; ideális a kora délutáni látogatáshoz.",
+                "ro": "Lumina soarelui de iarnă evidențiază detaliile fațadei; locația este ideală pentru o vizită după-amiaza devreme.",
+                "en": "The low winter sun highlights the intricate details of the facade; it's ideal for a visit in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Caracol Science Museum",
+                "hu": "Caracol Science Museum",
+                "ro": "Caracol Science Museum",
+                "en": "Caracol Science Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für die kühleren Stunden vor Sonnenuntergang; das Innere ist hell und bietet viel zu entdecken.",
+                "hu": "Tökéletes a naplemente előtti hűvösebb órákra; a belső tér világos, meleg és rengeteg felfedeznivalót kínál.",
+                "ro": "Perfect pentru orele mai răcoroase dinainte de apus; interiorul este luminos și oferă multe de descoperit la căldură.",
+                "en": "Perfect for the cooler hours before sunset; the interior is bright, warm, and offers plenty of things to discover."
+              }
+            },
+            {
+              "name": {
+                "de": "Monalisa",
+                "hu": "Monalisa",
+                "ro": "Monalisa",
+                "en": "Monalisa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Winter-Sonnenuntergang über dem Pazifik bequem von Ihrem Fahrzeug aus.",
+                "hu": "Csodálja meg a korai téli naplementét a Csendes-óceán felett kényelmesen, a saját járművéből nézve.",
+                "ro": "Admirați apusul devreme de iarnă peste Oceanul Pacific din confortul propriului dumneavoastră vehicul.",
+                "en": "Admire the early winter sunset over the Pacific Ocean comfortably from within your own private vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

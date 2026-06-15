@@ -137,6 +137,168 @@
         "hu": "A nap a csodálatos Playa de Rosarito tengerpartján indul, ahol a friss óceáni szellő és a hullámok hangja azonnal ellazít. Dél körül a Quintas zöldövezetében sétál, majd a közeli Banosnál tart egy frissítő pihenőt. Késő délután a Teatro del pueblo szabadtéri színpadánál a helyi kultúra lüktetését tapasztalhatja meg. Az estét a modern tudományos múzeum interaktív és gondolatébresztő kiállításai zárják.",
         "ro": "Ziua începe pe superba Playa de Rosarito, unde briza proaspătă a oceanului și sunetul valurilor creează un start perfect. La prânz, vă plimbați prin zonele verzi relaxante de la Quintas și faceți o scurtă pauză de revigorare la Banos. După-amiaza vă scufundă în inima culturii locale vizitând Teatro del pueblo. Seara încheie turul la muzeul de știință și tehnologie, unde exponatele interactive vă vor fascina.",
         "en": "Your day begins at the beautiful Playa de Rosarito, where the fresh ocean breeze and soothing sound of waves set a perfect tone. By midday, you'll wander through the relaxing green spaces of Quintas and take a refreshing break near Banos. The afternoon immerses you deeply in the local culture with a visit to the vibrant Teatro del pueblo. The evening perfectly wraps up your tour at the state science museum, exploring interactive exhibits."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Strand mit einem Regenschirm, da Küstenschauer frisch sein können. Mittags geht es zu Erholungsorten, achten Sie auf rutschige Wege. Am Nachmittag finden Sie im kulturellen Zentrum der Stadt Schutz vor dem Regen. Beenden Sie den Tag im Museum, wo Sie die Ausstellungen im Trockenen genießen können.",
+            "hu": "Kezdje a reggelt a parton egy erős esernyővel, mivel a záporok hűvösek lehetnek. Délben a rekreációs helyszínek következnek, ügyeljen a csúszós utakra. Délután irány a város kulturális központja, ahol menedéket talál az eső elől. Zárja a napot a múzeum fedett, meleg termeiben, teljesen szárazon fedezve fel a kiállításokat.",
+            "ro": "Începeți dimineața la plajă cu o umbrelă, deoarece ploile pot fi reci. La prânz explorați zonele de recreere, dar atenție la potecile alunecoase. După-amiaza vă adăpostiți de ploaie în centrul cultural al orașului. Încheiați ziua în siguranță și la uscat în interiorul muzeului, descoperind expozițiile fascinante.",
+            "en": "Start your morning at the beach equipped with a sturdy umbrella, as coastal showers can be brisk. Midday brings you to recreational spots where you should watch your step on wet surfaces. In the afternoon, head towards the cultural heart of the city for indoor relief. Conclude your rainy day inside the museum, staying completely dry while exploring exhibits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Rosarito",
+                "hu": "Playa de Rosarito",
+                "ro": "Playa de Rosarito",
+                "en": "Playa de Rosarito"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stürmischen Meereswellen aus sicherer Entfernung; tragen Sie wasserdichte Stiefel, da die Sandwege im Regen matschig werden.",
+                "hu": "Csodálja meg a drámai tengeri hullámokat biztonságos távolságból; viseljen vízálló csizmát, mert a homokos utak sárosak és csúszósak esőben.",
+                "ro": "Admirați valurile dramatice ale oceanului de la o distanță sigură; purtați cizme impermeabile, deoarece potecile de nisip devin alunecoase.",
+                "en": "Admire the dramatic, stormy ocean waves from a safe distance; wear waterproof boots as the sandy paths become muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Quintas",
+                "hu": "Quintas",
+                "ro": "Quintas",
+                "en": "Quintas"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses Erholungsgebiet vorsichtig und nutzen Sie überdachte Wege; ein stabiler Regenschirm ist wichtig, um hier trocken zu bleiben.",
+                "hu": "Fedezze fel ezt a pihenőövezetet óvatosan, a fedett utakra összpontosítva; egy erős esernyő elengedhetetlen, hogy száraz maradjon a sétán.",
+                "ro": "Explorați această zonă de recreere cu prudență, alegând potecile acoperite; o umbrelă robustă este esențială pentru a rămâne uscat afară.",
+                "en": "Explore this recreational area cautiously, focusing on covered pathways; a sturdy umbrella is essential to stay dry while moving around outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Banos",
+                "hu": "Banos",
+                "ro": "Banos",
+                "en": "Banos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Einrichtungen für einen trockenen Rückzugsort vor den Schauern; achten Sie auf nasse Fliesen und halten Sie ein Handtuch bereit.",
+                "hu": "Látogassa meg ezeket a létesítményeket, hogy száraz menedéket találjon a záporok elől; ügyeljen a vizes csempékre, és tartson kéznél törölközőt.",
+                "ro": "Vizitați aceste facilități pentru a găsi un refugiu uscat din calea ploii; pășiți cu grijă pe gresia udă și păstrați un prosop mic în geantă.",
+                "en": "Visit these facilities to find a dry retreat from the coastal showers; watch your step on wet tiles and keep a small towel handy in your bag."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del pueblo",
+                "hu": "Teatro del pueblo",
+                "ro": "Teatro del pueblo",
+                "en": "Teatro del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die markante Architektur unter dem überdachten Eingang; es ist ein toller kultureller Rückzugsort, wenn der Regen draußen zu stark wird.",
+                "hu": "Élvezze a lenyűgöző építészetet a fedett bejárat alól; kiváló beltéri kulturális menedékként szolgál, ha kint túlságosan rázendít az eső.",
+                "ro": "Admirați arhitectura impresionantă de sub intrarea acoperită; servește ca o excelentă evadare culturală interioară când ploaia este prea deasă.",
+                "en": "Enjoy the striking architecture from under the covered entrance; it serves as a great indoor cultural escape when the rain gets too heavy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciencia y tecnologia del estado",
+                "hu": "Ciencia y tecnologia del estado",
+                "ro": "Ciencia y tecnologia del estado",
+                "en": "Ciencia y tecnologia del estado"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in faszinierende Indoor-Ausstellungen über regionale Technik ein; dies ist der perfekte Ort, um nach dem Regen komplett zu trocknen.",
+                "hu": "Merüljön el a regionális technológiát bemutató beltéri kiállításokban; ez a tökéletes délutáni menedék, ahol teljesen megszáradhat az eső után.",
+                "ro": "Explorați expozițiile interioare fascinante despre tehnologia regională; acesta este refugiul perfect de după-amiază pentru a vă usca complet.",
+                "en": "Dive into fascinating indoor exhibits about regional tech; this is the perfect afternoon sanctuary to completely dry off from the coastal rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen mit einem Strandspaziergang in warmen Schichten gegen die Meeresbrise. Der Mittag bietet klaren Himmel zur Erkundung im Freien. Am Nachmittag geht es zum Theater, bevor die Sonne um 17 Uhr früh untergeht. Verbringen Sie den Abend gemütlich drinnen im Museum, geschützt vor den sinkenden Temperaturen.",
+            "hu": "Kezdje a friss téli reggelt a parton sétálva, meleg rétegekkel védekezve a tengeri szél ellen. A délidő tiszta, hűvös eget kínál a szabadtéri helyszínekhez. Délután irány a színház, még a korai, 17 óra körüli naplemente előtt. Töltse az estét kényelmesen, beltérben a múzeumban, védve a gyorsan zuhanó parti hőmérséklettől.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare pe plajă, purtând haine groase împotriva brizei. Prânzul oferă un cer senin pentru explorarea zonelor în aer liber. După-amiaza mergeți la teatru înainte de apusul soarelui la ora 17. Petreceți seara confortabil în interiorul muzeului, protejați de temperaturile scăzute de pe coastă.",
+            "en": "Begin your crisp winter morning with a walk along the beach, wearing warm layers against the ocean breeze. Midday offers clear, cool skies for exploring the outdoor recreational areas. As the afternoon progresses, head to the theater before the early sunset around 5 PM. Spend your evening comfortably indoors at the museum, shielded from dropping temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Rosarito",
+                "hu": "Playa de Rosarito",
+                "ro": "Playa de Rosarito",
+                "en": "Playa de Rosarito"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen einsamen Spaziergang am Ufer; tragen Sie dicke Schichten und eine Windjacke, um sich vor der eisigen Meeresbrise zu schützen.",
+                "hu": "Élvezze a frissítő, magányos sétát a parton; öltözzön meleg rétegekbe és széldzsekibe a csípős téli tengeri szél elleni védelem érdekében.",
+                "ro": "Bucurați-vă de o plimbare solitară pe țărm; purtați straturi groase și o jachetă de vânt pentru a vă proteja de briza rece a oceanului.",
+                "en": "Enjoy a crisp, solitary walk along the shoreline; dress in heavy layers and a windbreaker to protect against the biting winter ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Quintas",
+                "hu": "Quintas",
+                "ro": "Quintas",
+                "en": "Quintas"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zügig durch das Gelände, um sich warm zu halten; die Wintersonne bietet schönes Licht, aber ein Schal schützt vor der kalten Luft.",
+                "hu": "Sétáljon tempósan a területen, hogy melegen tartsa magát; a téli nap szép fényeket ad, de sálra lesz szüksége a gyorsan hűlő levegő miatt.",
+                "ro": "Mergeți alert prin parc pentru a vă încălzi; soarele de iarnă oferă o lumină frumoasă, dar veți avea nevoie de fular când temperatura scade.",
+                "en": "Walk briskly through the grounds to stay warm; the winter sun provides nice lighting, but you'll need a scarf as temperatures drop quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Banos",
+                "hu": "Banos",
+                "ro": "Banos",
+                "en": "Banos"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Hände aufzuwärmen und eine Pause zu machen; die Innenbereiche bieten einen gemütlichen Rückzugsort vor der Winterluft.",
+                "hu": "Tökéletes hely a kezek felmelegítésére és egy kis pihenésre; a belső terek hangulatos menedéket nyújtanak a kinti fagyos téli esti levegő elől.",
+                "ro": "Un loc perfect pentru a vă încălzi mâinile și a lua o pauză; secțiunile interioare oferă un refugiu confortabil de aerul rece de iarnă seara.",
+                "en": "A perfect spot to warm up your hands and take a break; the indoor sections offer a cozy refuge from the chilling winter evening air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del pueblo",
+                "hu": "Teatro del pueblo",
+                "ro": "Teatro del pueblo",
+                "en": "Teatro del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich eine Show an oder erkunden Sie die beleuchtete Fassade; da die Sonne schon um 17 Uhr untergeht, kommen Sie am besten vor der Dämmerung.",
+                "hu": "Nézzen meg egy esti műsort, vagy fedezze fel a kivilágított homlokzatot; mivel délután 5-kor sötétedik, érkezzen alkonyat előtt a legjobb látványért.",
+                "ro": "Urmăriți un spectacol de seară sau explorați fațada luminată; deoarece soarele apune devreme pe la ora 17, veniți înainte de lăsarea întunericului.",
+                "en": "Catch an evening show or explore the brightly lit facade; since the sun sets early by 5 PM, arriving before dusk gives you the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciencia y tecnologia del estado",
+                "hu": "Ciencia y tecnologia del estado",
+                "ro": "Ciencia y tecnologia del estado",
+                "en": "Ciencia y tecnologia del estado"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Stunden in den beheizten interaktiven Wissenschaftsausstellungen; eine ideale späte Aktivität, wenn die eisige Winternacht früh hereinbricht.",
+                "hu": "Töltsön órákat az interaktív tudományos kiállítások felfedezésével egy fűtött környezetben; ideális késői program a korán leszálló téli éjszakán.",
+                "ro": "Petreceți ore întregi explorând expozițiile științifice interactive într-un mediu încălzit; o activitate ideală când noaptea de iarnă cade devreme.",
+                "en": "Spend hours exploring interactive science displays in a heated environment; an ideal late-day activity when the freezing winter night falls early."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpártúrája a kulturális központban, a Museo de Letras-nál kezdődik, majd a tudományos múzeum innovatív tárlatait fedezi fel. Ezután dél felé teker a Quintas nyugodt zöldövezetébe, mielőtt a Playa de Rosarito nyüzsgő partját élvezné. Késő délután a Teatro del pueblo és a Banos kínál bájos bepillantást a helyi életbe. A nap végül északon, a Chikis818 lenyűgöző látványosságánál ér véget a lemenő nap fényében.",
         "ro": "Turul pe bicicletă începe în inima culturală la Museo de Letras, urmat de minunile moderne de la Ciencia y tecnologia del estado. Apoi pedalați spre sud către atmosfera relaxată de la Quintas, înainte de a ajunge pe plaja plină de viață Rosarito. După-amiaza târziu, Teatro del pueblo și Banos vă oferă o perspectivă fermecătoare asupra vieții locale. Ziua se încheie în nord, explorând reperul Chikis818 în lumina apusului.",
         "en": "Your cycling tour starts in the cultural heart at the Museo de Letras before discovering modern wonders at the science museum. You'll then pedal south to enjoy the laid-back atmosphere of Quintas and the vibrant energy of Playa de Rosarito. By late afternoon, Teatro del pueblo and Banos provide charming glimpses into local daily life. The day concludes up north, exploring the distinctive architecture of Chikis818 as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt im Museum und bleiben Sie trocken. Mittags geht es an die Küste; tragen Sie ein Regenponcho und achten Sie auf rutschige Straßen. Nachmittags zum Strand ist Vorsicht geboten. Beenden Sie die Abendfahrt zum letzten Wahrzeichen vorsichtig und verlassen Sie sich auf helle Lichter in der regnerischen Dämmerung.",
+            "hu": "Kezdje nedves útját a múzeumban, szárazon maradva a reggeli záporok alatt. Délben érje el a parti helyeket; viseljen esőköpenyt és vigyázzon a csúszós utakon. A délutáni strandolás és színház óvatosságot és jó sárvédőt igényel. Fejezze be az esti túrát az utolsó nevezetességnél, erős kerékpárlámpákra támaszkodva az esős szürkületben.",
+            "ro": "Începeți plimbarea udă la muzeu, la adăpost de ploile matinale. La prânz ajungeți pe coastă; purtați un poncho de ploaie și atenție la drumurile alunecoase. Ciclismul de după-amiază necesită prudență. Terminați plimbarea de seară la ultimul reper, bazându-vă pe luminile puternice ale bicicletei în amurgul ploios.",
+            "en": "Start your wet ride at the museum, keeping dry while morning showers pass. Midday brings you to the coastal spots; wear a high-quality rain poncho and watch for slippery roads. Afternoon biking to the beach requires caution and good mudguards. Finish your evening ride carefully to the final landmark, relying on bright bike lights in the rainy dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Letras",
+                "hu": "Museo de Letras",
+                "ro": "Museo de Letras",
+                "en": "Museo de Letras"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt mit Literaturgeschichte im Innenbereich; suchen Sie einen sicheren Platz, um Ihre nasse Fahrradausrüstung zu trocknen.",
+                "hu": "Kezdje esős útját a bent található irodalmi történelem felszívásával; gondoskodjon róla, hogy biztonságosan leparkolja és megszárítsa nedves felszerelését.",
+                "ro": "Începeți plimbarea ploioasă absorbind istoria literară în interior; asigurați-vă că parcați și uscați echipamentul ud înainte de a intra.",
+                "en": "Start your rainy ride absorbing literary history indoors; ensure you have a safe place to park and dry your wet bike gear before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciencia y tecnologia del estado",
+                "hu": "Ciencia y tecnologia del estado",
+                "ro": "Ciencia y tecnologia del estado",
+                "en": "Ciencia y tecnologia del estado"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in faszinierende Indoor-Ausstellungen über regionale Technik ein; dies ist der perfekte Ort, um nach dem Regen komplett zu trocknen.",
+                "hu": "Merüljön el a regionális technológiát bemutató beltéri kiállításokban; ez a tökéletes délutáni menedék, ahol teljesen megszáradhat az eső után.",
+                "ro": "Explorați expozițiile interioare fascinante despre tehnologia regională; acesta este refugiul perfect de după-amiază pentru a vă usca complet.",
+                "en": "Dive into fascinating indoor exhibits about regional tech; this is the perfect afternoon sanctuary to completely dry off from the coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Quintas",
+                "hu": "Quintas",
+                "ro": "Quintas",
+                "en": "Quintas"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses Erholungsgebiet vorsichtig und nutzen Sie überdachte Wege; ein stabiler Regenschirm ist wichtig, um hier trocken zu bleiben.",
+                "hu": "Fedezze fel ezt a pihenőövezetet óvatosan, a fedett utakra összpontosítva; egy erős esernyő elengedhetetlen, hogy száraz maradjon a sétán.",
+                "ro": "Explorați această zonă de recreere cu prudență, alegând potecile acoperite; o umbrelă robustă este esențială pentru a rămâne uscat afară.",
+                "en": "Explore this recreational area cautiously, focusing on covered pathways; a sturdy umbrella is essential to stay dry while moving around outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Rosarito",
+                "hu": "Playa de Rosarito",
+                "ro": "Playa de Rosarito",
+                "en": "Playa de Rosarito"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stürmischen Meereswellen aus sicherer Entfernung; tragen Sie wasserdichte Stiefel, da die Sandwege im Regen matschig werden.",
+                "hu": "Csodálja meg a drámai tengeri hullámokat biztonságos távolságból; viseljen vízálló csizmát, mert a homokos utak sárosak és csúszósak esőben.",
+                "ro": "Admirați valurile dramatice ale oceanului de la o distanță sigură; purtați cizme impermeabile, deoarece potecile de nisip devin alunecoase.",
+                "en": "Admire the dramatic, stormy ocean waves from a safe distance; wear waterproof boots as the sandy paths become muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del pueblo",
+                "hu": "Teatro del pueblo",
+                "ro": "Teatro del pueblo",
+                "en": "Teatro del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die markante Architektur unter dem überdachten Eingang; es ist ein toller kultureller Rückzugsort, wenn der Regen draußen zu stark wird.",
+                "hu": "Élvezze a lenyűgöző építészetet a fedett bejárat alól; kiváló beltéri kulturális menedékként szolgál, ha kint túlságosan rázendít az eső.",
+                "ro": "Admirați arhitectura impresionantă de sub intrarea acoperită; servește ca o excelentă evadare culturală interioară când ploaia este prea deasă.",
+                "en": "Enjoy the striking architecture from under the covered entrance; it serves as a great indoor cultural escape when the rain gets too heavy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Banos",
+                "hu": "Banos",
+                "ro": "Banos",
+                "en": "Banos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Einrichtungen für einen trockenen Rückzugsort vor den Schauern; achten Sie auf nasse Fliesen und halten Sie ein Handtuch bereit.",
+                "hu": "Látogassa meg ezeket a létesítményeket, hogy száraz menedéket találjon a záporok elől; ügyeljen a vizes csempékre, és tartson kéznél törölközőt.",
+                "ro": "Vizitați aceste facilități pentru a găsi un refugiu uscat din calea ploii; pășiți cu grijă pe gresia udă și păstrați un prosop mic în geantă.",
+                "en": "Visit these facilities to find a dry retreat from the coastal showers; watch your step on wet tiles and keep a small towel handy in your bag."
+              }
+            },
+            {
+              "name": {
+                "de": "Chikis818",
+                "hu": "Chikis818",
+                "ro": "Chikis818",
+                "en": "Chikis818"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie dieses Wahrzeichen und navigieren Sie vorsichtig auf nassen Straßen; die hellen Lichter sind ein einladender Anblick am regnerischen Abend.",
+                "hu": "Érkezzen meg ehhez a helyi nevezetességhez óvatosan a vizes utakon; a fényes fények hívogató látványt nyújtanak az esős, nedves esti kerékpározáskor.",
+                "ro": "Ajungeți la acest punct de reper local navigând cu atenție pe străzile ude; luminile strălucitoare oferă o priveliște primitoare într-o seară umedă.",
+                "en": "Arrive at this local landmark carefully navigating wet roads; the bright lights offer a welcoming sight for a damp, rainy evening ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens im Museum, um sich aufzuwärmen. Die Fahrt entlang der Küste am Mittag ist erfrischend; tragen Sie winddichte Handschuhe. Am Nachmittag erreichen Sie den Strand, wenn die Sonne zu sinken beginnt. Die letzten abendlichen Stopps erfordern gute Beleuchtung, da die Winterdunkelheit um 17 Uhr schnell hereinbricht.",
+            "hu": "Indítsa a reggelt a múzeumban, hogy felmelegedjen a téli levegő előtt. A déli tekerés a parton frissítő; viseljen szélálló kesztyűt és réteges ruházatot. Késő délutánra elér a strandra, ahogy a nap korán süllyedni kezd. Az utolsó esti megállókhoz megfelelő világítás kell, mivel a téli sötétség délután 5-re gyorsan beáll.",
+            "ro": "Începeți dimineața la muzeu pentru a vă încălzi. Ciclismul de prânz de-a lungul coastei este revigorant; purtați mănuși rezistente la vânt. Până la mijlocul după-amiezii ajungeți la plajă, chiar când soarele începe să coboare. Opririle de seară necesită o iluminare adecvată, deoarece întunericul de iarnă se lasă rapid la ora 17.",
+            "en": "Kick off your morning at the museum to warm up before hitting the brisk winter air. Midday riding along the coast is refreshing; wear windproof gloves and layered clothing. By mid-afternoon, you'll reach the beach just as the sun begins its early descent. The final evening stops require proper bike illumination, as winter darkness sets in quickly by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Letras",
+                "hu": "Museo de Letras",
+                "ro": "Museo de Letras",
+                "en": "Museo de Letras"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in einem warmen Gebäude in faszinierende Literatur ein; ein idealer morgendlicher Stopp, um sich vor der Weiterfahrt aufzuwärmen.",
+                "hu": "Merüljön el a lenyűgöző irodalomban egy meleg épületben; kiváló reggeli megálló, hogy felmelegedjen, mielőtt tovább biciklizne a hidegben.",
+                "ro": "Explorați literatura fascinantă într-o clădire caldă; o oprire matinală excelentă pentru a vă încălzi înainte de a pedala mai departe în frig.",
+                "en": "Delve into fascinating literature in a warm building; an excellent morning stop to let the crisp winter air warm up before biking further."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciencia y tecnologia del estado",
+                "hu": "Ciencia y tecnologia del estado",
+                "ro": "Ciencia y tecnologia del estado",
+                "en": "Ciencia y tecnologia del estado"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Stunden in den beheizten interaktiven Wissenschaftsausstellungen; eine ideale späte Aktivität, wenn die eisige Winternacht früh hereinbricht.",
+                "hu": "Töltsön órákat az interaktív tudományos kiállítások felfedezésével egy fűtött környezetben; ideális késői program a korán leszálló téli éjszakán.",
+                "ro": "Petreceți ore întregi explorând expozițiile științifice interactive într-un mediu încălzit; o activitate ideală când noaptea de iarnă cade devreme.",
+                "en": "Spend hours exploring interactive science displays in a heated environment; an ideal late-day activity when the freezing winter night falls early."
+              }
+            },
+            {
+              "name": {
+                "de": "Quintas",
+                "hu": "Quintas",
+                "ro": "Quintas",
+                "en": "Quintas"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zügig durch das Gelände, um sich warm zu halten; die Wintersonne bietet schönes Licht, aber ein Schal schützt vor der kalten Luft.",
+                "hu": "Sétáljon tempósan a területen, hogy melegen tartsa magát; a téli nap szép fényeket ad, de sálra lesz szüksége a gyorsan hűlő levegő miatt.",
+                "ro": "Mergeți alert prin parc pentru a vă încălzi; soarele de iarnă oferă o lumină frumoasă, dar veți avea nevoie de fular când temperatura scade.",
+                "en": "Walk briskly through the grounds to stay warm; the winter sun provides nice lighting, but you'll need a scarf as temperatures drop quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Rosarito",
+                "hu": "Playa de Rosarito",
+                "ro": "Playa de Rosarito",
+                "en": "Playa de Rosarito"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen einsamen Spaziergang am Ufer; tragen Sie dicke Schichten und eine Windjacke, um sich vor der eisigen Meeresbrise zu schützen.",
+                "hu": "Élvezze a frissítő, magányos sétát a parton; öltözzön meleg rétegekbe és széldzsekibe a csípős téli tengeri szél elleni védelem érdekében.",
+                "ro": "Bucurați-vă de o plimbare solitară pe țărm; purtați straturi groase și o jachetă de vânt pentru a vă proteja de briza rece a oceanului.",
+                "en": "Enjoy a crisp, solitary walk along the shoreline; dress in heavy layers and a windbreaker to protect against the biting winter ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del pueblo",
+                "hu": "Teatro del pueblo",
+                "ro": "Teatro del pueblo",
+                "en": "Teatro del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich eine Show an oder erkunden Sie die beleuchtete Fassade; da die Sonne schon um 17 Uhr untergeht, kommen Sie am besten vor der Dämmerung.",
+                "hu": "Nézzen meg egy esti műsort, vagy fedezze fel a kivilágított homlokzatot; mivel délután 5-kor sötétedik, érkezzen alkonyat előtt a legjobb látványért.",
+                "ro": "Urmăriți un spectacol de seară sau explorați fațada luminată; deoarece soarele apune devreme pe la ora 17, veniți înainte de lăsarea întunericului.",
+                "en": "Catch an evening show or explore the brightly lit facade; since the sun sets early by 5 PM, arriving before dusk gives you the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Banos",
+                "hu": "Banos",
+                "ro": "Banos",
+                "en": "Banos"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Hände aufzuwärmen und eine Pause zu machen; die Innenbereiche bieten einen gemütlichen Rückzugsort vor der Winterluft.",
+                "hu": "Tökéletes hely a kezek felmelegítésére és egy kis pihenésre; a belső terek hangulatos menedéket nyújtanak a kinti fagyos téli esti levegő elől.",
+                "ro": "Un loc perfect pentru a vă încălzi mâinile și a lua o pauză; secțiunile interioare oferă un refugiu confortabil de aerul rece de iarnă seara.",
+                "en": "A perfect spot to warm up your hands and take a break; the indoor sections offer a cozy refuge from the chilling winter evening air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chikis818",
+                "hu": "Chikis818",
+                "ro": "Chikis818",
+                "en": "Chikis818"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen bekannten Ort als Ihr Endziel; stellen Sie sicher, dass Ihre Fahrradlichter voll sind, da es um 17 Uhr dunkel wird.",
+                "hu": "Tekintse meg ezt a felismerhető helyet végső célpontként; gondoskodjon a biciklilámpák feltöltéséről, mivel délután 5 órára teljesen besötétedik.",
+                "ro": "Vizualizați acest loc recognoscibil ca destinație finală; asigurați-vă că luminile bicicletei sunt încărcate, deoarece se întunecă până la ora 17.",
+                "en": "View this recognizable spot as your final destination; ensure your bike lights are fully charged since it gets completely dark by 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autóval Rosarito minden arcát megismerheti, kezdve a FRUTSY békés természetével és a Chikis818 jellegzetes épületével. Délben a Museo de Letras irodalmi kincseit és a tudományos múzeum csodáit térképezi fel. Délután a déli részre utazik a Quintas zöldjébe, majd a nyüzsgő Playa de Rosarito partján kapcsolódik ki. Az estét a Teatro del pueblo kulturális hangulatában tölti, amelyet egy pihentető látogatás zár a Banosnál.",
         "ro": "Cu mașina descoperiți diversitatea din Rosarito, începând în natura liniștită de la FRUTSY și reperul Chikis818. La prânz, explorați istoria literară la Museo de Letras și inovațiile de la muzeul de știință. După-amiaza vă îndreptați spre sud pentru a vă relaxa la Quintas și pe celebra plajă Rosarito. Seara este dedicată atmosferei culturale de la Teatro del pueblo, încheindu-se cu o oprire reconfortantă la Banos.",
         "en": "Traveling by car lets you experience Rosarito's full diversity, starting in the peaceful nature of FRUTSY and the iconic Chikis818. Midday is perfect for exploring literary history at Museo de Letras and innovations at the science museum. In the afternoon, you'll drive south to relax at Quintas and the lively Playa de Rosarito. The evening features the cultural vibes of Teatro del pueblo, finishing with a relaxing stop at Banos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher zum morgendlichen Naturwahrzeichen und bleiben Sie im Auto warm. Die Museumsbesuche am Mittag bieten perfekte Indoor-Ausflüge vor dem Regen. Parken Sie nachmittags nahe am Strand und halten Sie einen Regenschirm griffbereit. Schließen Sie im Theater und in den Bädern ab und genießen Sie den Komfort drinnen.",
+            "hu": "Vezessen biztonságosan a reggeli természeti látványossághoz, melegen és szárazon maradva az autóban. A déli múzeumlátogatások tökéletes beltéri menedéket nyújtanak a parti eső elől. Délután parkoljon a strand közelében, tartson kéznél egy esernyőt. Zárja a napot a színházban és a fürdőben, élvezve a beltéri kényelmet.",
+            "ro": "Conduceți în siguranță la reperul natural de dimineață, stând cald și uscat în mașină. Vizitele la muzee la prânz oferă evadări perfecte din ploaia de coastă. După-amiaza parcați aproape de plajă, păstrând o umbrelă la îndemână pentru scurte plimbări. Încheiați la teatru și băi, bucurându-vă de confortul interior în timp ce plouă.",
+            "en": "Drive safely to your morning natural landmark, using the car to stay warm and dry. Midday visits to the museums provide perfect indoor escapes from the continuous coastal rain. In the afternoon, park close to the beach and recreational areas, keeping an umbrella handy for quick walks. Conclude at the theater and baths, enjoying indoor comfort while it rains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "FRUTSY",
+                "hu": "FRUTSY",
+                "ro": "FRUTSY",
+                "en": "FRUTSY"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die natürliche Umgebung aus Ihrem Fahrzeug; lassen Sie die Scheibenwischer an und meiden Sie schlammige Wege, während Sie im Warmen bleiben.",
+                "hu": "Figyelje meg a természeti környezetet a járművéből; tartsa bekapcsolva az ablaktörlőket, és kerülje a sáros ösvényeket, miközben kényelmesen ül bent.",
+                "ro": "Observați împrejurimile naturale din vehicul; țineți ștergătoarele pornite și evitați traseele noroioase în timp ce stați confortabil în mașină.",
+                "en": "Observe the natural surroundings from your vehicle; keep your windshield wipers on and avoid muddy trails while staying cozy in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chikis818",
+                "hu": "Chikis818",
+                "ro": "Chikis818",
+                "en": "Chikis818"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu diesem beliebten Ort und genießen Sie die Aussicht trocken aus Ihrem Auto; Parken in der Nähe erspart Ihnen das Nasswerden.",
+                "hu": "Hajtson fel ehhez a népszerű helyi ponthoz, és élvezze a kilátást a száraz autóból; a közeli parkolás megkíméli az elázástól a záporok idején.",
+                "ro": "Conduceți până la acest loc popular și bucurați-vă de priveliște din confortul uscat al mașinii; parcarea în apropiere vă scapă de udare.",
+                "en": "Drive up to this popular local spot and enjoy the view from the dry comfort of your car; parking nearby saves you from getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Letras",
+                "hu": "Museo de Letras",
+                "ro": "Museo de Letras",
+                "en": "Museo de Letras"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs und genießen Sie die Literaturgeschichte drinnen; ein großartiger trockener Ort, um die Schauer abzuwarten.",
+                "hu": "Parkoljon a bejárat közelében, és élvezze az irodalomtörténetet odabent; remek száraz hely, ahol kivárhatja a reggeli tengerparti záporokat.",
+                "ro": "Parcați lângă intrare și bucurați-vă de istoria literară în interior; un loc uscat excelent pentru a aștepta trecerea ploilor de dimineață.",
+                "en": "Park near the entrance and enjoy absorbing literary history indoors; it's a great dry spot to wait out the heavy morning coastal rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciencia y tecnologia del estado",
+                "hu": "Ciencia y tecnologia del estado",
+                "ro": "Ciencia y tecnologia del estado",
+                "en": "Ciencia y tecnologia del estado"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in faszinierende Indoor-Ausstellungen über regionale Technik ein; dies ist der perfekte Ort, um nach dem Regen komplett zu trocknen.",
+                "hu": "Merüljön el a regionális technológiát bemutató beltéri kiállításokban; ez a tökéletes délutáni menedék, ahol teljesen megszáradhat az eső után.",
+                "ro": "Explorați expozițiile interioare fascinante despre tehnologia regională; acesta este refugiul perfect de după-amiază pentru a vă usca complet.",
+                "en": "Dive into fascinating indoor exhibits about regional tech; this is the perfect afternoon sanctuary to completely dry off from the coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Quintas",
+                "hu": "Quintas",
+                "ro": "Quintas",
+                "en": "Quintas"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses Erholungsgebiet vorsichtig und nutzen Sie überdachte Wege; ein stabiler Regenschirm ist wichtig, um hier trocken zu bleiben.",
+                "hu": "Fedezze fel ezt a pihenőövezetet óvatosan, a fedett utakra összpontosítva; egy erős esernyő elengedhetetlen, hogy száraz maradjon a sétán.",
+                "ro": "Explorați această zonă de recreere cu prudență, alegând potecile acoperite; o umbrelă robustă este esențială pentru a rămâne uscat afară.",
+                "en": "Explore this recreational area cautiously, focusing on covered pathways; a sturdy umbrella is essential to stay dry while moving around outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Rosarito",
+                "hu": "Playa de Rosarito",
+                "ro": "Playa de Rosarito",
+                "en": "Playa de Rosarito"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stürmischen Meereswellen aus sicherer Entfernung; tragen Sie wasserdichte Stiefel, da die Sandwege im Regen matschig werden.",
+                "hu": "Csodálja meg a drámai tengeri hullámokat biztonságos távolságból; viseljen vízálló csizmát, mert a homokos utak sárosak és csúszósak esőben.",
+                "ro": "Admirați valurile dramatice ale oceanului de la o distanță sigură; purtați cizme impermeabile, deoarece potecile de nisip devin alunecoase.",
+                "en": "Admire the dramatic, stormy ocean waves from a safe distance; wear waterproof boots as the sandy paths become muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del pueblo",
+                "hu": "Teatro del pueblo",
+                "ro": "Teatro del pueblo",
+                "en": "Teatro del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die markante Architektur unter dem überdachten Eingang; es ist ein toller kultureller Rückzugsort, wenn der Regen draußen zu stark wird.",
+                "hu": "Élvezze a lenyűgöző építészetet a fedett bejárat alól; kiváló beltéri kulturális menedékként szolgál, ha kint túlságosan rázendít az eső.",
+                "ro": "Admirați arhitectura impresionantă de sub intrarea acoperită; servește ca o excelentă evadare culturală interioară când ploaia este prea deasă.",
+                "en": "Enjoy the striking architecture from under the covered entrance; it serves as a great indoor cultural escape when the rain gets too heavy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Banos",
+                "hu": "Banos",
+                "ro": "Banos",
+                "en": "Banos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Einrichtungen für einen trockenen Rückzugsort vor den Schauern; achten Sie auf nasse Fliesen und halten Sie ein Handtuch bereit.",
+                "hu": "Látogassa meg ezeket a létesítményeket, hogy száraz menedéket találjon a záporok elől; ügyeljen a vizes csempékre, és tartson kéznél törölközőt.",
+                "ro": "Vizitați aceste facilități pentru a găsi un refugiu uscat din calea ploii; pășiți cu grijă pe gresia udă și păstrați un prosop mic în geantă.",
+                "en": "Visit these facilities to find a dry retreat from the coastal showers; watch your step on wet tiles and keep a small towel handy in your bag."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine beheizte Morgenfahrt zu den ersten Wahrzeichen bei klarem Winterlicht. Der Mittag bietet kühles, aber angenehmes Wetter zur Erkundung der Museen. Besuchen Sie nachmittags den Strand, bevor der frühe Sonnenuntergang einen Temperaturabfall bringt. Beenden Sie den Abend im Theater und in den Bädern mit einem Wintermantel.",
+            "hu": "Élvezze a fűtött reggeli utat az első nevezetességekhez, kihasználva a tiszta téli fényeket. A dél hűvös, de kellemes időt kínál a múzeumok kényelmes felfedezéséhez. Délután látogassa meg a strandot, mielőtt a korai naplemente miatt gyorsan csökken a hőmérséklet. Zárja az estét a színházban és a fürdőben, vastag kabátban.",
+            "ro": "Bucurați-vă de o plimbare încălzită dimineața către primele repere, profitând de lumina clară de iarnă. Prânzul oferă o vreme răcoroasă pentru explorarea muzeelor. După-amiaza vizitați plaja înainte ca apusul devreme să aducă o scădere rapidă a temperaturii. Încheiați seara la teatru și băi, aducând o haină de iarnă.",
+            "en": "Enjoy a heated morning drive to your first landmarks, taking advantage of the crisp, clear winter light. Midday offers cool but pleasant weather for exploring the local museums in comfort. As afternoon approaches, visit the beach before the early sunset brings a rapid drop in temperature. Conclude your evening at the theater and baths, bringing a winter coat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "FRUTSY",
+                "hu": "FRUTSY",
+                "ro": "FRUTSY",
+                "en": "FRUTSY"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frostigen Morgenblick auf dieses Naturgebiet; die Autoheizung ist Ihr bester Freund, bevor Sie kurz in die Kälte treten.",
+                "hu": "Élvezze ennek a természeti területnek a fagyos reggeli látványát; az autó fűtése lesz a legjobb barátja, mielőtt röviden kilépne a csípős hidegbe.",
+                "ro": "Bucurați-vă de priveliștea dimineții geroase a acestei zone naturale; încălzirea mașinii este prietenul tău înainte de a ieși scurt în aerul rece.",
+                "en": "Enjoy the frosty morning view of this natural area; the car's heater is your best friend before stepping out briefly into the biting cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chikis818",
+                "hu": "Chikis818",
+                "ro": "Chikis818",
+                "en": "Chikis818"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier auf Ihrer Route Halt; der klare Winterhimmel bietet eine tolle Kulisse, aber lassen Sie die Autoheizung für Komfort laufen.",
+                "hu": "Álljon meg ennél a nevezetességnél az útvonala során; a tiszta téli éjszakai égbolt remek hátteret ad, de tartsa bekapcsolva az autó fűtését.",
+                "ro": "Opriți la acest punct de reper pe traseu; cerul clar de iarnă oferă un fundal excelent, dar mențineți încălzirea mașinii pornită pentru confort.",
+                "en": "Stop by this landmark during your route; the crisp winter night sky provides a great backdrop, but keep the car heater running for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Letras",
+                "hu": "Museo de Letras",
+                "ro": "Museo de Letras",
+                "en": "Museo de Letras"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem beheizten Auto direkt in dieses faszinierende Literaturmuseum; ein wunderbarer Stopp, während noch Winterfrost herrscht.",
+                "hu": "Szálljon ki a fűtött autóból egyenesen ebbe a lenyűgöző irodalmi múzeumba; csodálatos reggeli program, miközben a téli fagy még takarja a tájat.",
+                "ro": "Ieșiți din mașina încălzită direct în acest fascinant muzeu literar; o oprire minunată de dimineață în timp ce gerul încă acoperă zona.",
+                "en": "Step out of your heated car straight into this fascinating literature museum; a wonderful morning stop while the winter frost still covers the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciencia y tecnologia del estado",
+                "hu": "Ciencia y tecnologia del estado",
+                "ro": "Ciencia y tecnologia del estado",
+                "en": "Ciencia y tecnologia del estado"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Stunden in den beheizten interaktiven Wissenschaftsausstellungen; eine ideale späte Aktivität, wenn die eisige Winternacht früh hereinbricht.",
+                "hu": "Töltsön órákat az interaktív tudományos kiállítások felfedezésével egy fűtött környezetben; ideális késői program a korán leszálló téli éjszakán.",
+                "ro": "Petreceți ore întregi explorând expozițiile științifice interactive într-un mediu încălzit; o activitate ideală când noaptea de iarnă cade devreme.",
+                "en": "Spend hours exploring interactive science displays in a heated environment; an ideal late-day activity when the freezing winter night falls early."
+              }
+            },
+            {
+              "name": {
+                "de": "Quintas",
+                "hu": "Quintas",
+                "ro": "Quintas",
+                "en": "Quintas"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zügig durch das Gelände, um sich warm zu halten; die Wintersonne bietet schönes Licht, aber ein Schal schützt vor der kalten Luft.",
+                "hu": "Sétáljon tempósan a területen, hogy melegen tartsa magát; a téli nap szép fényeket ad, de sálra lesz szüksége a gyorsan hűlő levegő miatt.",
+                "ro": "Mergeți alert prin parc pentru a vă încălzi; soarele de iarnă oferă o lumină frumoasă, dar veți avea nevoie de fular când temperatura scade.",
+                "en": "Walk briskly through the grounds to stay warm; the winter sun provides nice lighting, but you'll need a scarf as temperatures drop quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Rosarito",
+                "hu": "Playa de Rosarito",
+                "ro": "Playa de Rosarito",
+                "en": "Playa de Rosarito"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen einsamen Spaziergang am Ufer; tragen Sie dicke Schichten und eine Windjacke, um sich vor der eisigen Meeresbrise zu schützen.",
+                "hu": "Élvezze a frissítő, magányos sétát a parton; öltözzön meleg rétegekbe és széldzsekibe a csípős téli tengeri szél elleni védelem érdekében.",
+                "ro": "Bucurați-vă de o plimbare solitară pe țărm; purtați straturi groase și o jachetă de vânt pentru a vă proteja de briza rece a oceanului.",
+                "en": "Enjoy a crisp, solitary walk along the shoreline; dress in heavy layers and a windbreaker to protect against the biting winter ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del pueblo",
+                "hu": "Teatro del pueblo",
+                "ro": "Teatro del pueblo",
+                "en": "Teatro del pueblo"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich eine Show an oder erkunden Sie die beleuchtete Fassade; da die Sonne schon um 17 Uhr untergeht, kommen Sie am besten vor der Dämmerung.",
+                "hu": "Nézzen meg egy esti műsort, vagy fedezze fel a kivilágított homlokzatot; mivel délután 5-kor sötétedik, érkezzen alkonyat előtt a legjobb látványért.",
+                "ro": "Urmăriți un spectacol de seară sau explorați fațada luminată; deoarece soarele apune devreme pe la ora 17, veniți înainte de lăsarea întunericului.",
+                "en": "Catch an evening show or explore the brightly lit facade; since the sun sets early by 5 PM, arriving before dusk gives you the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Banos",
+                "hu": "Banos",
+                "ro": "Banos",
+                "en": "Banos"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Hände aufzuwärmen und eine Pause zu machen; die Innenbereiche bieten einen gemütlichen Rückzugsort vor der Winterluft.",
+                "hu": "Tökéletes hely a kezek felmelegítésére és egy kis pihenésre; a belső terek hangulatos menedéket nyújtanak a kinti fagyos téli esti levegő elől.",
+                "ro": "Un loc perfect pentru a vă încălzi mâinile și a lua o pauză; secțiunile interioare oferă un refugiu confortabil de aerul rece de iarnă seara.",
+                "en": "A perfect spot to warm up your hands and take a break; the indoor sections offer a cozy refuge from the chilling winter evening air outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

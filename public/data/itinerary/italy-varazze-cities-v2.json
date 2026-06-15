@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a központi templomok felfedezésével a parti napsütésben. Délben merüljön el a szűk sikátorokban rejlő csendes oratóriumokban. A délutánt reneszánsz művészet és élénk freskók megcsodálásával töltse. Ahogy közeledik az este, sétáljon a keleti szentély felé a lélegzetelállító tengeri kilátásért és a nap békés lezárásáért.",
         "ro": "Începeți dimineața explorând bisericile centrale, bucurându-vă de soarele de coastă. La prânz, pătrundeți în oratoriile liniștite din aleile înguste. Petreceți după-amiaza admirând arta renascentistă și frescele vibrante. Spre seară, plimbați-vă către sanctuarul estic pentru vederi uimitoare la mare și un final liniștit de zi pe Riviera.",
         "en": "Start your morning exploring the central churches, soaking in the coastal sunshine. By midday, delve into the quiet oratories hidden in narrow alleys. Spend your afternoon admiring Renaissance art and vibrant frescoes. As evening approaches, stroll towards the eastern sanctuary for breathtaking sea views and a peaceful end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen prasselt auf die engen Gassen von Varazze, doch die dichten Hauswände bieten Schutz. Mittags laden die prachtvollen Kirchen zum Verweilen im Trockenen ein. Nachmittags weht eine feuchte Brise vom Meer herauf, die die Luft erfrischt. Am Abend spiegeln sich die warmen Lichter der Stadt im nassen Kopfsteinpflaster und erzeugen eine fast magische, glänzende Atmosphäre.",
+            "hu": "Az eső kopogása kíséri utunkat a szűk sikátorokban, ahol a magas házfalak némi védelmet nyújtanak. Délben a templomok díszes belső terei kínálnak tökéletes és száraz menedéket. Délután a tenger felől érkező pára misztikus ködbe burkolja a partot. Este a vizes aszfalton megcsillanó lámpafények különleges, romantikus hangulatot árasztanak, miközben a város elcsendesedik.",
+            "ro": "Ploaia cade peste străduțele înguste, dar zidurile înalte ale caselor oferă un adăpost natural. La prânz, interiorul decorat al bisericilor devine refugiul perfect împotriva vremii umede. După-amiaza, briza mării aduce un aer proaspăt și răcoros. Seara, luminile orașului se reflectă spectaculos în bălțile de pe pavaj, creând un peisaj urban strălucitor și liniștit.",
+            "en": "Rain taps on the narrow carruggi of Varazze, where high walls provide some natural shelter. By noon, the ornate church interiors offer a perfect, dry sanctuary from the damp weather. Afternoon brings a refreshing sea mist that covers the coast. In the evening, the city lights reflect beautifully on the wet cobblestones, creating a magical and romantic atmosphere as the town settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santi Nazario e Celso",
+                "hu": "Santi Nazario e Celso",
+                "ro": "Santi Nazario e Celso",
+                "en": "Santi Nazario e Celso"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Interieur und das wertvolle Polyptychon, während Sie draußen dem Regen lauschen; ein stabiler Schirm schützt Sie auf dem kurzen Weg zum Eingang.",
+                "hu": "Csodálja meg a gótikus belsőt és az értékes szárnyasoltárt, miközben bentről hallgatja az esőt; egy erős esernyővel a bejáratig tartó rövid út is könnyen megtehető.",
+                "ro": "Admirați interiorul gotic și polipticul valoros în timp ce ascultați ploaia de afară; o umbrelă rezistentă vă va proteja pe drumul scurt până la intrarea principală.",
+                "en": "Admire the Gothic interior and the precious polyptych while listening to the rain outside; a sturdy umbrella will protect you during the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio San Giuseppe",
+                "hu": "Oratorio San Giuseppe",
+                "ro": "Oratorio San Giuseppe",
+                "en": "Oratorio San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Dieser intime Ort bietet Schutz vor Güssen; betrachten Sie die feinen Details der Fresken in Ruhe und achten Sie auf die eventuell rutschige Stufe vor der Tür.",
+                "hu": "Ez a meghitt hely tökéletes menedék a zápor elől; nézze meg alaposan a freskók részleteit, és ügyeljen a bejáratnál az esőtől esetleg csúszóssá vált lépcsőre.",
+                "ro": "Acest loc intim oferă protecție împotriva averselor; observați detaliile fine ale frescelor în liniște și atenție la treapta de la intrare care poate fi alunecoasă.",
+                "en": "This intimate space offers great shelter from showers; observe the fine details of the frescoes in peace and watch out for the potentially slippery step at the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di Nostra Signora Assunta",
+                "hu": "Oratorio di Nostra Signora Assunta",
+                "ro": "Oratorio di Nostra Signora Assunta",
+                "en": "Oratorio di Nostra Signora Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle barocke Ausstattung lässt das graue Wetter draußen vergessen; nutzen Sie die Zeit für Fotos der Statuen und tragen Sie wasserfeste Schuhe für den Weg.",
+                "hu": "A pompás barokk berendezés elfeledteti a kinti szürkeséget; használja ki az időt a szobrok fotózására, és viseljen vízálló cipőt a templomok közötti átjáráshoz.",
+                "ro": "Interiorul baroc superb vă va face să uitați de vremea gri de afară; profitați de timp pentru a fotografia statuile și purtați încălțăminte impermeabilă pe drum.",
+                "en": "The stunning Baroque interior makes you forget the grey weather outside; use the time to photograph the statues and wear waterproof shoes for the walk between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Bartolomeo",
+                "hu": "Oratorio di San Bartolomeo",
+                "ro": "Oratorio di San Bartolomeo",
+                "en": "Oratorio di San Bartolomeo"
+              },
+              "tip_5lang": {
+                "de": "Hier finden Sie Ruhe und Schutz vor dem Wind; bewundern Sie die hölzernen Prozessionsfiguren und klopfen Sie Ihren nassen Regenmantel am Eingang gut ab.",
+                "hu": "Itt nyugalomra és szélvédett helyre lelhet; csodálja meg a fából készült körmeneti szobrokat, és a bejáratnál alaposan rázza le a vizet a nedves esőkabátról.",
+                "ro": "Aici veți găsi liniște și protecție împotriva vântului; admirați statuile procesionale din lemn și scuturați bine pelerina de ploaie umedă la intrare.",
+                "en": "Find peace and shelter from the wind here; admire the wooden processional statues and make sure to shake the water off your wet raincoat at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Das weite Kirchenschiff bietet viel Platz zum Trocknen; erkunden Sie den Kreuzgang, der auch bei Regen einen charmanten, überdachten Rundgang ermöglicht.",
+                "hu": "A tágas hajó bőséges helyet kínál a megszárítkozáshoz; fedezze fel a kerengőt, amely esőben is bájos és fedett sétalehetőséget biztosít az épületen belül.",
+                "ro": "Naosul spațios oferă mult loc pentru a vă usca; explorați claustrul, care permite o plimbare acoperită plină de farmec chiar și atunci când plouă afară.",
+                "en": "The spacious nave offers plenty of room to dry off; explore the cloister, which allows for a charming covered walk even when it is raining outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Santa Caterina",
+                "hu": "Santuario di Santa Caterina",
+                "ro": "Santuario di Santa Caterina",
+                "en": "Santuario di Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss unter schützendem Dach; genießen Sie die spirituelle Stille und nutzen Sie die Nähe zu Cafés für ein warmes Getränk nach der Tour.",
+                "hu": "A túra méltó lezárása védett fedél alatt; élvezze a spirituális csendet, majd keressen egy közeli kávézót egy forró italra a vizes séta után.",
+                "ro": "Finalul perfect al turului sub un acoperiș protector; bucurați-vă de liniștea spirituală și vizitați o cafenea din apropiere pentru o băutură caldă după plimbare.",
+                "en": "A grand finale under a protective roof; enjoy the spiritual silence and head to a nearby café for a warm drink after your rainy walk through town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgensonne glitzert kühl auf dem Meer, während Sie die klare Luft in den historischen Gassen genießen. Mittags locken die Kirchen mit ihrer stillen Wärme und goldenen Details. Der Nachmittag bringt ein weiches Licht, ideal für Fotos der pastellfarbenen Fassaden. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung Varazze in ein gemütliches, winterliches Licht.",
+            "hu": "A téli reggeli napsütés hűvösen csillog a tengeren, miközben a friss, tiszta levegőt élvezzük a történelmi utcákon. Délben a templomok békés melegsége és arany részletei vonzzák a látogatót. Délután a lágy fények kiemelik a pasztell színű homlokzatokat. Mivel a nap már 17:00 körül lemegy, a korai szürkület meghitt, ünnepi fénybe öltözteti a várost.",
+            "ro": "Soarele de iarnă strălucește rece peste mare, în timp ce vă bucurați de aerul curat pe străzile istorice. La prânz, bisericile vă atrag cu căldura lor liniștită și detaliile aurii. După-amiaza aduce o lumină blândă, ideală pentru fotografii. Deoarece soarele apune în jurul orei 17:00, amurgul timpuriu îmbracă orașul Varazze într-o lumină de iarnă primitoare.",
+            "en": "The winter morning sun glitters coolly on the sea while you enjoy the crisp, fresh air in the historic alleys. At noon, the churches beckon with their peaceful warmth and golden details. The afternoon brings a soft light, perfect for photos of the pastel facades. Since the sun sets around 17:00, the early twilight wraps Varazze in a cozy, wintry glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santi Nazario e Celso",
+                "hu": "Santi Nazario e Celso",
+                "ro": "Santi Nazario e Celso",
+                "en": "Santi Nazario e Celso"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme und bieten Schutz vor dem Seewind; bewundern Sie das romanische Portal bei klarem Winterlicht für beste Kontraste.",
+                "hu": "A vastag falak jól tartják a hőt és védenek a tengeri széltől; a tiszta téli fényben érdemes megcsodálni a román kori kapuzat különleges részleteit.",
+                "ro": "Zidurile groase rețin căldura și oferă protecție împotriva vântului marin; admirați portalul romanic în lumina clară de iarnă pentru cele mai bune contraste.",
+                "en": "The thick walls retain some warmth and offer protection from the sea wind; admire the Romanesque portal in the clear winter light for the best contrasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio San Giuseppe",
+                "hu": "Oratorio San Giuseppe",
+                "ro": "Oratorio San Giuseppe",
+                "en": "Oratorio San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, warmer Rückzugsort inmitten der Altstadt; genießen Sie die Ruhe fernab der Sommerströme und kleiden Sie sich für die zugigen Gassen in Schichten.",
+                "hu": "Egy apró, barátságos menedék az óváros szívében; élvezze a nyári tömeg nélküli nyugalmat, és öltözzön rétegesen a huzatos sikátorok miatt.",
+                "ro": "Un refugiu mic și primitor în inima centrului vechi; bucurați-vă de liniștea fără mulțimile de vară și îmbrăcați-vă în straturi pentru străzile cu curent.",
+                "en": "A tiny, cozy retreat in the heart of the old town; enjoy the peace without the summer crowds and dress in layers for the breezy narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di Nostra Signora Assunta",
+                "hu": "Oratorio di Nostra Signora Assunta",
+                "ro": "Oratorio di Nostra Signora Assunta",
+                "en": "Oratorio di Nostra Signora Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die reiche Dekoration wirkt im sanften Winterlicht besonders edel; ein kurzer Stopp hier wärmt auf, bevor es weiter zur nächsten historischen Sehenswürdigkeit geht.",
+                "hu": "A gazdag díszítés a lágy téli fényben különösen előkelőnek hat; egy rövid pihenő itt jól átmelegít, mielőtt továbbindulna a következő látnivaló felé.",
+                "ro": "Decorul bogat arată deosebit de elegant în lumina blândă de iarnă; o scurtă oprire aici vă va încălzi înainte de a merge la următorul obiectiv istoric.",
+                "en": "The rich decoration looks particularly elegant in the soft winter light; a short stop here will warm you up before heading to the next historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Bartolomeo",
+                "hu": "Oratorio di San Bartolomeo",
+                "ro": "Oratorio di San Bartolomeo",
+                "en": "Oratorio di San Bartolomeo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die kunstvollen Details ohne Eile im beheizten Innenraum; die tiefstehende Sonne sorgt für ein wunderschönes Lichtspiel an der Außenfassade.",
+                "hu": "Nézze meg alaposan a művészi részleteket a temperált belső térben; az alacsonyan járó nap gyönyörű fényjátékot produkál a külső homlokzaton.",
+                "ro": "Observați detaliile artistice fără grabă în interiorul încălzit; soarele aflat jos pe cer creează un joc de lumini superb pe fațada exterioară.",
+                "en": "Observe the artistic details without haste in the heated interior; the low-hanging sun creates a beautiful play of light on the exterior facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Komplex bietet Schutz vor der kühlen Meeresbrise; erkunden Sie die Kunstschätze im Inneren und tragen Sie warme Socken für die kalten Steinböden.",
+                "hu": "A kiterjedt épületegyüttes védelmet nyújt a hűvös tengeri szél ellen; fedezze fel a benti kincseket, és viseljen meleg zoknit a hideg kőpadló miatt.",
+                "ro": "Complexul vast oferă protecție împotriva brizei reci a mării; explorați comorile de artă din interior și purtați șosete groase pentru podelele reci de piatră.",
+                "en": "The extensive complex provides protection from the cool sea breeze; explore the art treasures inside and wear warm socks for the cold stone floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Santa Caterina",
+                "hu": "Santuario di Santa Caterina",
+                "ro": "Santuario di Santa Caterina",
+                "en": "Santuario di Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang am Meer direkt nach Ihrem Besuch; die frühe Dunkelheit macht die anschließende Rückkehr durch die beleuchtete Stadt besonders stimmungsvoll.",
+                "hu": "Élvezze a tengeri naplementét közvetlenül a látogatás után; a korai sötétedés miatt a kivilágított városon át való visszatérés különösen hangulatos lesz.",
+                "ro": "Bucurați-vă de apusul de soare la malul mării imediat după vizită; întunericul timpuriu face ca întoarcerea prin orașul iluminat să fie foarte atmosferică.",
+                "en": "Enjoy the sea sunset right after your visit; the early darkness makes the subsequent walk back through the lit city particularly atmospheric."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggeli tekerés a középkori kastélynál kezdődik, a friss tengeri levegőt beszívva. A dél a történelmi központba visz, hogy megcsodálja a díszes templomokat. A délutáni kerékpározás kissé felfelé vezet, rejtett román kori gyöngyszemeket tárva fel. Az este egy pihentető utazással zárul a védőszent szentélyéhez a nyugodt, békés tengerparton.",
         "ro": "Plimbările de dimineață încep la castelul medieval impozant, respirând aerul proaspăt. Amiaza vă coboară în centrul istoric pentru a admira bisericile colegiale ornate. După-amiaza pedalați ușor la deal, descoperind bijuterii romanice ascunse. Seara coboară cu o plimbare relaxantă spre sanctuarul patroanei orașului de pe țărmul liniștit.",
         "en": "Morning rides begin at the imposing medieval castle, breathing in the fresh sea air. Midday brings you down into the historic center to marvel at ornate collegiate churches. Afternoon pedals take you slightly uphill, uncovering hidden Romanesque gems. Evening descends with a relaxing ride to the patron saint's sanctuary by the tranquil shore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Wegen, bietet aber eine erfrischende Perspektive auf die Küste. Morgens führt die Fahrt durch den Nebel zum Schloss. Mittags dienen die Kirchenportale als willkommene Unterstände. Nachmittags ist die Luft rein und würzig. Abends glänzt der Asphalt unter den Reifen, während Sie die beleuchtete Promenade sicher zurückfahren.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a csúszós utakon, de frissítő perspektívát ad a tengerpartnak. Reggel a ködön át tekerünk a kastélyhoz. Délben a templomok bejáratai szolgálnak fedett pihenőhelyként. Délután a tiszta és sós tengeri levegő frissít fel. Este az aszfalt csillog a kerekek alatt, miközben biztonságosan visszatekerünk a kivilágított sétányon.",
+            "ro": "O tură cu bicicleta în ploaie necesită atenție pe drumurile alunecoase, dar oferă o perspectivă proaspătă asupra coastei. Dimineața, pedalăm prin ceață spre castel. La prânz, portalurile bisericilor servesc ca adăposturi binevenite. După-amiaza, aerul este curat și sărat. Seara, asfaltul strălucește sub roți în timp ce vă întoarceți în siguranță pe faleză.",
+            "en": "Cycling in the rain requires caution on slippery paths but offers a refreshing perspective on the coast. In the morning, ride through the mist to the castle. At noon, church portals serve as welcome shelters. The afternoon air is clean and briny. In the evening, the asphalt glistens under your tires as you safely ride back along the illuminated promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Capelli",
+                "hu": "Castello Capelli",
+                "ro": "Castello Capelli",
+                "en": "Castello Capelli"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Schloss; die Aussicht auf das graue Meer ist dramatisch, aber der Weg kann bei Nässe tückisch und rutschig sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a kastélynál; a szürke tenger látványa drámai, de az út nedvesen csalóka és csúszós lehet, tekerjen óvatosan.",
+                "ro": "Verificați frânele înainte de a pleca de la castel; vederea spre marea gri este dramatică, dar drumul poate fi înșelător și alunecos când este ud.",
+                "en": "Check your brakes before leaving the castle; the view of the grey sea is dramatic, but the path can be treacherous and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Santi Nazario e Celso",
+                "hu": "Santi Nazario e Celso",
+                "ro": "Santi Nazario e Celso",
+                "en": "Santi Nazario e Celso"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Besuch, um die Regenkleidung zu richten; das Kircheninnere bietet eine warme, trockene Pause.",
+                "hu": "Parkolja le a biciklit védett helyen, és használja ki a látogatást az esőruházat megigazítására; a templombelső meleg és száraz pihenőt kínál.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de vizită pentru a vă aranja pelerina; interiorul bisericii oferă o pauză caldă și uscată.",
+                "en": "Park your bike in a sheltered spot and use the visit to adjust your rain gear; the church interior offers a warm, dry break from the cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Donato",
+                "hu": "Chiesa di San Donato",
+                "ro": "Chiesa di San Donato",
+                "en": "Chiesa di San Donato"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg lässt Sie warm werden, doch oben angekommen sollten Sie schnell ins Trockene; genießen Sie die Ruhe der alten Mauern während eines kräftigen Schauers.",
+                "hu": "Az emelkedőn kimelegszik, de felérve érdemes gyorsan fedett helyre menni; élvezze a régi falak nyugalmát egy kiadós zápor ideje alatt.",
+                "ro": "Urcarea vă va încălzi, dar odată ajunși sus, intrați rapid la adăpost; bucurați-vă de liniștea zidurilor vechi în timpul unei averse puternice.",
+                "en": "The climb will warm you up, but once you arrive, head inside quickly; enjoy the peace of the old walls during a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di Nostra Signora Assunta",
+                "hu": "Oratorio di Nostra Signora Assunta",
+                "ro": "Oratorio di Nostra Signora Assunta",
+                "en": "Oratorio di Nostra Signora Assunta"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Brille zu putzen und sich zu orientieren; bewundern Sie den Barockstil und achten Sie auf die nassen Markierungen am Boden.",
+                "hu": "Ideális megálló a szemüveg megtisztítására és a tájékozódásra; csodálja meg a barokk stílust, és ügyeljen a felfestésekre a nedves úttesten.",
+                "ro": "O oprire ideală pentru a vă curăța ochelarii și a vă orienta; admirați stilul baroc și fiți atenți la marcajele umede de pe carosabil.",
+                "en": "An ideal stop to clean your glasses and get your bearings; admire the Baroque style and watch out for wet road markings while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zur Promenade macht den Zugang einfach; nutzen Sie die weiten Hallen für eine längere Pause, bis der schlimmste Regen eventuell nachlässt.",
+                "hu": "A sétány közelsége megkönnyíti a megközelítést; használja ki a tágas csarnokokat egy hosszabb pihenőre, amíg a leghevesebb eső esetleg eláll.",
+                "ro": "Apropierea de faleză face accesul ușor; folosiți sălile vaste pentru o pauză mai lungă până când ploaia cea mai torențială se mai potolește.",
+                "en": "The proximity to the promenade makes access easy; use the wide halls for a longer break until the worst of the rain potentially lets up."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Santa Caterina",
+                "hu": "Santuario di Santa Caterina",
+                "ro": "Santuario di Santa Caterina",
+                "en": "Santuario di Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Tour mit Blick auf das stürmische Meer; wischen Sie den Sattel vor der Rückfahrt trocken und genießen Sie die kühle, saubere Abendluft.",
+                "hu": "A túra lezárása kilátással a viharos tengerre; törölje szárazra a nyerget indulás előtt, és élvezze a friss, tiszta esti levegőt a visszaúton.",
+                "ro": "Finalul turului cu vedere la marea învolburată; ștergeți șaua înainte de plecare și bucurați-vă de aerul serii răcoros și curat la întoarcere.",
+                "en": "End of the tour with a view of the stormy sea; wipe your saddle dry before the return trip and enjoy the cool, clean evening air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Varazze bietet leere Wege und eine klare Sicht bis zum Horizont. Morgens ist die Luft am Schloss besonders frisch, Handschuhe sind ratsam. Mittags wärmt die Sonne die Küstenstraße angenehm auf. Am Nachmittag taucht das Licht die Kirchen in Goldtöne. Da es früh dunkel wird, sollten Sie die Rückfahrt so planen, dass Sie den Sonnenuntergang am Hafen erleben.",
+            "hu": "A téli biciklizés Varazzéban üres utakat és tiszta kilátást kínál egészen a horizontig. Reggel a kastélynál különösen friss a levegő, a kesztyű ajánlott. Délben a nap kellemesen felmelegíti a tengerparti utat. Délután a fények arany tónusba vonják a templomokat. Mivel korán sötétedik, tervezze úgy a visszautat, hogy a kikötőben érje a naplemente.",
+            "ro": "Ciclismul de iarnă în Varazze oferă drumuri libere și o vedere clară până la orizont. Dimineața, aerul de la castel este foarte proaspăt, mănușile sunt recomandate. La prânz, soarele încălzește plăcut drumul de coastă. După-amiaza, lumina scaldă bisericile în nuanțe aurii. Deoarece se întunecă devreme, planificați întoarcerea pentru a prinde apusul în port.",
+            "en": "Winter cycling in Varazze offers empty paths and a clear view to the horizon. In the morning, the air at the castle is especially fresh, gloves are recommended. At noon, the sun warms up the coastal road pleasantly. In the afternoon, the light bathes the churches in golden tones. Since it gets dark early, plan your return to catch the sunset at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Capelli",
+                "hu": "Castello Capelli",
+                "ro": "Castello Capelli",
+                "en": "Castello Capelli"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit warmer Kleidung in den Tag; der Wind am Schloss kann im Winter schneidend sein, aber die klare Sicht auf die Küste belohnt jede Anstrengung.",
+                "hu": "Kezdje a napot meleg öltözetben; a szél a kastélynál télen metsző lehet, de a tiszta kilátás a tengerpartra minden fáradságot megér.",
+                "ro": "Începeți ziua cu haine groase; vântul de la castel poate fi tăios iarna, dar vederea clară asupra coastei răsplătește orice efort depus.",
+                "en": "Start the day with warm clothing; the wind at the castle can be biting in winter, but the clear view of the coast rewards every effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Santi Nazario e Celso",
+                "hu": "Santi Nazario e Celso",
+                "ro": "Santi Nazario e Celso",
+                "en": "Santi Nazario e Celso"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Platz zum Abstellen der Räder; das Innere der Kirche ist ein friedlicher Ort zum Aufwärmen der Hände an den Kirchenbänken.",
+                "hu": "Használja a szélvédett helyet a biciklik leállításához; a templom belseje békés hely, ahol a padokban megpihenve kicsit felmelegedhet a keze.",
+                "ro": "Folosiți locul protejat de vânt pentru a lăsa bicicletele; interiorul bisericii este un loc pașnic unde vă puteți încălzi mâinile în bănci.",
+                "en": "Use the wind-sheltered area to park your bikes; the interior of the church is a peaceful place to warm your hands while sitting in the pews."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Donato",
+                "hu": "Chiesa di San Donato",
+                "ro": "Chiesa di San Donato",
+                "en": "Chiesa di San Donato"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Ihren Kreislauf in Schwung; oben angekommen, genießen Sie die Stille des Winters und das besondere Licht auf dem antiken Mauerwerk.",
+                "hu": "A felfelé vezető út mozgásban tartja a vérkeringését; felérve élvezze a téli csendet és az antik falakra vetülő különleges, éles fényeket.",
+                "ro": "Urcarea vă va menține circulația activă; odată ajunși sus, bucurați-vă de liniștea iernii și de lumina specială pe zidăria antică.",
+                "en": "The ride up keeps your circulation going; once at the top, enjoy the winter silence and the special light hitting the ancient stonework."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di Nostra Signora Assunta",
+                "hu": "Oratorio di Nostra Signora Assunta",
+                "ro": "Oratorio di Nostra Signora Assunta",
+                "en": "Oratorio di Nostra Signora Assunta"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause und genießen Sie die barocke Pracht; die Wintersonne scheint oft direkt auf die Fassade und bietet tolle Fotomotive für Radler.",
+                "hu": "Tartson egy rövid szünetet és élvezze a barokk pompát; a téli nap gyakran közvetlenül megvilágítja a homlokzatot, remek fotótémát adva.",
+                "ro": "Faceți o scurtă pauză și bucurați-vă de splendoarea barocă; soarele de iarnă luminează adesea direct fațada, oferind motive foto excelente.",
+                "en": "Take a short break and enjoy the Baroque splendor; the winter sun often shines directly on the facade, offering great photo opportunities for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Inneren schützt vor der Kälte; bewundern Sie die Fresken und nutzen Sie die ebene Strecke danach für ein zügiges, wärmendes Tempo.",
+                "hu": "A benti tartózkodás megvédi a hidegtől; csodálja meg a freskókat, majd használja ki az utána következő sík szakaszt a tempós, melegítő tekerésre.",
+                "ro": "Șederea în interior vă protejează de frig; admirați frescele și folosiți porțiunea plană de drum de după pentru a pedala într-un ritm alert.",
+                "en": "Staying inside protects you from the cold; admire the frescoes and use the flat section of the route afterwards for a brisk, warming pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Santa Caterina",
+                "hu": "Santuario di Santa Caterina",
+                "ro": "Santuario di Santa Caterina",
+                "en": "Santuario di Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für das letzte Tageslicht; packen Sie sich für die schnelle Rückfahrt gut ein, da die Temperaturen nach Sonnenuntergang rasch sinken.",
+                "hu": "A tökéletes hely az utolsó nappali fényekhez; öltözzön fel jól a gyors visszaútra, mert a naplemente után a hőmérséklet gyorsan csökken.",
+                "ro": "Locul perfect pentru ultima lumină a zilei; îmbrăcați-vă bine pentru întoarcerea rapidă, deoarece temperaturile scad brusc după apus.",
+                "en": "The perfect spot for the last daylight; wrap up warm for the quick return journey, as temperatures drop rapidly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen korán a nyugati parti templomokhoz, hogy elkerülje a déli forgalmat. A dél tökéletes a kanyargós hegyi utak bejárására a panorámás szentélyek felé. A délutánt a buja mediterrán növényzetben megbújó, eldugott rusztikus kápolnák felfedezésével töltse. Zárja az estét a fenséges Guardia bazilikánál egy emlékezetes naplemente körúttal.",
         "ro": "Conduceți devreme către bisericile de coastă vestice pentru a evita traficul. Amiaza este perfectă pentru a naviga pe drumurile șerpuite spre sanctuare panoramice. Petreceți după-amiaza explorând capele rustice retrase, cuibărite printre flora mediteraneană. Încheiați seara la maiestuoasa bazilică Guardia cu o plimbare la apusul soarelui.",
         "en": "Drive out early to the western coastal churches to beat the midday traffic. Midday is perfect for navigating the winding hillside roads to reach panoramic sanctuaries. Spend the afternoon exploring secluded rustic chapels nestled among lush Mediterranean flora. Conclude your evening at the majestic Guardia basilica with a memorable sunset drive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das verregnete Hinterland von Varazze ist sicher und komfortabel. Morgens geht es durch den Nebel zu den Bergkirchen. Mittags bieten die Heiligtümer trockene Rückzugsorte mit Panoramablick auf das graue Meer. Nachmittags sind die kurvigen Straßen oft leer und stimmungsvoll. Abends kehren Sie im Warmen an die Küste zurück, während die Lichter im Regen verschwimmen.",
+            "hu": "Az autóút Varazze esős dombvidékén biztonságos és kényelmes választás. Reggel a ködös szerpentineken át jutunk el a hegyi templomokhoz. Délben a szentélyek száraz menedéket és kilátást nyújtanak a szürke tengerre. Délután a kanyargós utak csendesek és hangulatosak. Este kényelmesen térhetünk vissza a partra, miközben az eső elhomályosítja a város fényeit.",
+            "ro": "O călătorie cu mașina prin hinterlandul ploios din Varazze este sigură și confortabilă. Dimineața mergem prin ceață spre bisericile de pe munte. La prânz, sanctuarele oferă refugii uscate cu vedere spre marea gri. După-amiaza, drumurile șerpuite sunt adesea libere și pline de atmosferă. Seara vă întoarceți la căldură pe coastă, în timp ce luminile se reflectă în ploaie.",
+            "en": "A car trip through the rainy hinterland of Varazze is safe and comfortable. In the morning, drive through the mist to the mountain churches. At noon, the sanctuaries offer dry retreats with panoramic views of the grey sea. In the afternoon, the winding roads are often quiet and atmospheric. In the evening, return to the coast in warmth while the lights blur in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista e Santa Lucia",
+                "hu": "Chiesa di San Giovanni Battista e Santa Lucia",
+                "ro": "Chiesa di San Giovanni Battista e Santa Lucia",
+                "en": "Chiesa di San Giovanni Battista e Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang, um trocken zu bleiben; die Stille im Inneren bietet eine wunderbare Atmosphäre während draußen der Regen fällt.",
+                "hu": "Használja a bejárathoz közeli parkolót, hogy száraz maradjon; a benti csend csodálatos hangulatot áraszt, miközben kint szakad az eső.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a rămâne uscați; liniștea din interior oferă o atmosferă minunată în timp ce afară plouă torențial.",
+                "en": "Use the parking spot close to the entrance to stay dry; the silence inside offers a wonderful atmosphere while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Nostra Signora della Croce di Castagnabuona",
+                "hu": "Santuario di Nostra Signora della Croce di Castagnabuona",
+                "ro": "Santuario di Nostra Signora della Croce di Castagnabuona",
+                "en": "Santuario di Nostra Signora della Croce di Castagnabuona"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Straße; der Ausblick auf das stürmische Meer vom Vorplatz aus ist auch durch die Windschutzscheibe beeindruckend.",
+                "hu": "Vezessen óvatosan a keskeny úton; a viharos tenger látványa az előtérről még a szélvédőn keresztül is lenyűgöző és drámai élmény.",
+                "ro": "Conduceți cu atenție pe drumul îngust; vederea spre marea învolburată de pe esplanadă este impresionantă chiar și prin parbrizul mașinii.",
+                "en": "Drive carefully on the narrow road; the view of the stormy sea from the forecourt is impressive even through the car's windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Natività di Maria Santissima",
+                "hu": "Chiesa della Natività di Maria Santissima",
+                "ro": "Chiesa della Natività di Maria Santissima",
+                "en": "Chiesa della Natività di Maria Santissima"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen; bewundern Sie die Innenausstattung und achten Sie beim Aussteigen auf tiefe Pfützen am Wegrand.",
+                "hu": "Ideális hely egy hosszabb, száraz pihenőhöz; csodálja meg a belső díszítést, és kiszálláskor ügyeljen az út menti mély tócsákra.",
+                "ro": "Un loc ideal pentru o pauză lungă la adăpost; admirați decorul interior și fiți atenți la bălțile adânci de la marginea drumului la coborâre.",
+                "en": "An ideal spot for a long, dry break; admire the interior decoration and watch out for deep puddles at the roadside when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella del Beato Jacopo da Varagine",
+                "hu": "Cappella del Beato Jacopo da Varagine",
+                "ro": "Cappella del Beato Jacopo da Varagine",
+                "en": "Cappella del Beato Jacopo da Varagine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher auf befestigtem Grund; die kleine Kapelle bietet einen intimen Schutz vor dem Wind und ein spirituelles Erlebnis bei Regenwetter.",
+                "hu": "Parkoljon biztonságosan szilárd talajon; a kis kápolna meghitt védelmet nyújt a szél elől, és spirituális élményt kínál esős időben is.",
+                "ro": "Parcați în siguranță pe teren consolidat; mica capelă oferă un adăpost intim împotriva vântului și o experiență spirituală pe timp de ploaie.",
+                "en": "Park safely on firm ground; the small chapel offers intimate protection from the wind and a spiritual experience during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Nostra Signora della Guardia",
+                "hu": "Santuario di Nostra Signora della Guardia",
+                "ro": "Santuario di Nostra Signora della Guardia",
+                "en": "Santuario di Nostra Signora della Guardia"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen kann es hier oben neblig sein, was den Ort mystisch macht; prüfen Sie die Lichtanlage Ihres Autos für die kurvige Abfahrt im Dunkeln.",
+                "hu": "Esőben itt fent gyakori a köd, ami misztikussá teszi a helyet; ellenőrizze a fényszórókat a sötétben való kanyargós leereszkedés előtt.",
+                "ro": "Când plouă, aici sus poate fi ceață, ceea ce face locul mistic; verificați luminile mașinii înainte de coborârea șerpuită pe întuneric.",
+                "en": "In the rain, it can be misty up here, making the place feel mystical; check your car's lights for the winding descent in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Santa Caterina",
+                "hu": "Santuario di Santa Caterina",
+                "ro": "Santuario di Santa Caterina",
+                "en": "Santuario di Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bequem und genießen Sie das Rauschen des Meeres; die Parkplatzsuche in Küstennähe ist bei Regen oft einfacher als im Sommer.",
+                "hu": "Zárja kényelmesen a napot és hallgassa a tenger zúgását; a parkolóhely keresése a part közelében esőben gyakran könnyebb, mint nyáron.",
+                "ro": "Încheiați ziua confortabil și ascultați vuietul mării; găsirea unui loc de parcare lângă coastă este adesea mai ușoară pe ploaie decât vara.",
+                "en": "End the day comfortably and listen to the roar of the sea; finding a parking spot near the coast is often easier in the rain than in summer."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt zu den Aussichtspunkten von Varazze bietet glasklare Fernsicht und gemütliche Wärme im Auto. Morgens glitzert der Frost auf den Feldern bei der Bergfahrt. Mittags wärmt die Sonne durch die Fenster, während Sie die Küstenlandschaft überblicken. Am Nachmittag sorgt das tiefe Licht für dramatische Schatten in den Tälern. Da es früh dunkelt, erleben Sie die beleuchteten Heiligtümer in voller Pracht.",
+            "hu": "A téli autózás Varazze kilátópontjaihoz kristálytiszta távlatokat és az utastér kényelmes melegét kínálja. Reggel a zúzmara csillog a mezőkön a hegyi úton. Délben a nap besüt az ablakon, miközben a tengerparti tájat nézzük. Délután az alacsony nap drámai árnyékokat vet a völgyekre. Mivel korán sötétedik, a kivilágított szentélyeket teljes pompájukban láthatjuk.",
+            "ro": "Călătoria de iarnă spre punctele de belvedere din Varazze oferă vederi clare și căldura confortabilă a mașinii. Dimineața, promoroaca strălucește pe câmpuri în timpul urcării. La prânz, soarele încălzește prin geamuri în timp ce admirați coasta. După-amiaza, lumina joasă creează umbre dramatice în văi. Deoarece se întunecă devreme, veți vedea sanctuarele iluminate.",
+            "en": "A winter drive to the viewpoints of Varazze offers crystal clear views and the cozy warmth of your car. In the morning, frost glitters on the fields during the climb. At noon, the sun warms you through the windows while you overlook the coast. In the afternoon, the low light creates dramatic shadows in the valleys. Since it gets dark early, you will see the lit sanctuaries in full glory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista e Santa Lucia",
+                "hu": "Chiesa di San Giovanni Battista e Santa Lucia",
+                "ro": "Chiesa di San Giovanni Battista e Santa Lucia",
+                "en": "Chiesa di San Giovanni Battista e Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne den Sommertrubel; das Innere bietet eine friedliche Wärme, perfekt um sich vor der Weiterfahrt in die Berge kurz aufzuwärmen.",
+                "hu": "Élvezze a nyugalmat a nyári zsúfoltság nélkül; a belső tér békés melegséget áraszt, tökéletes egy rövid pihenőre a hegyi út megkezdése előtt.",
+                "ro": "Bucurați-vă de liniște fără agitația de vară; interiorul oferă o căldură pașnică, perfectă pentru a vă încălzi înainte de a porni spre munți.",
+                "en": "Enjoy the peace without the summer hustle; the interior offers a peaceful warmth, perfect for a short warm-up before continuing the drive into the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Nostra Signora della Croce di Castagnabuona",
+                "hu": "Santuario di Nostra Signora della Croce di Castagnabuona",
+                "ro": "Santuario di Nostra Signora della Croce di Castagnabuona",
+                "en": "Santuario di Nostra Signora della Croce di Castagnabuona"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sicht bis nach Korsika; nutzen Sie die Standheizung bei Pausen und genießen Sie das Panorama vom windgeschützten Auto aus.",
+                "hu": "A tiszta téli levegőben néha Korzikáig is ellátni; használja az autó fűtését a szünetekben, és élvezze a panorámát a szélvédett járműből.",
+                "ro": "Aerul clar de iarnă permite vederea până în Corsica; folosiți încălzirea mașinii în timpul pauzelor și admirați panorama din interiorul protejat.",
+                "en": "The clear winter air sometimes allows views as far as Corsica; use the car's heater during breaks and enjoy the panorama from the wind-sheltered vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Natività di Maria Santissima",
+                "hu": "Chiesa della Natività di Maria Santissima",
+                "ro": "Chiesa della Natività di Maria Santissima",
+                "en": "Chiesa della Natività di Maria Santissima"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche im sanften Nachmittagslicht; die tiefstehende Sonne beleuchtet die Fresken auf eine Weise, die man nur im Winter erleben kann.",
+                "hu": "Látogassa meg a templomot a lágy délutáni fényekben; az alacsonyan járó nap olyan módon világítja meg a freskókat, ami csak télen tapasztalható.",
+                "ro": "Vizitați biserica în lumina blândă a după-amiezii; soarele aflat jos pe cer luminează frescele într-un mod care poate fi văzut doar iarna.",
+                "en": "Visit the church in the soft afternoon light; the low sun illuminates the frescoes in a way that can only be experienced during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella del Beato Jacopo da Varagine",
+                "hu": "Cappella del Beato Jacopo da Varagine",
+                "ro": "Cappella del Beato Jacopo da Varagine",
+                "en": "Cappella del Beato Jacopo da Varagine"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp in der Kälte; die kleine Kapelle wirkt im Winter besonders einsam und malerisch, ideal für ruhige Besinnung.",
+                "hu": "Rövid, elmélyült megálló a hidegben; a kis kápolna télen különösen magányosnak és festőinek tűnik, ideális a csendes elcsendesedéshez.",
+                "ro": "O scurtă oprire meditativă în frig; mica capelă pare deosebit de singuratică și pitorească iarna, fiind ideală pentru o reflecție liniștită.",
+                "en": "A short, reflective stop in the cold; the small chapel looks particularly solitary and picturesque in winter, ideal for quiet contemplation."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Nostra Signora della Guardia",
+                "hu": "Santuario di Nostra Signora della Guardia",
+                "ro": "Santuario di Nostra Signora della Guardia",
+                "en": "Santuario di Nostra Signora della Guardia"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Glätte in schattigen Kurven; die frühe Dämmerung bietet hier oben einen spektakulären Blick auf das Lichtermeer der Küste.",
+                "hu": "Ügyeljen az esetleges jegesedésre az árnyékos kanyarokban; a korai szürkületben innen fentről látványos kilátás nyílik a part menti fényekre.",
+                "ro": "Atenție la posibila gheață în curbele umbrite; amurgul timpuriu oferă de aici de sus o vedere spectaculoasă asupra mării de lumini de pe coastă.",
+                "en": "Watch out for potential ice in shaded curves; the early twilight offers a spectacular view of the sea of lights along the coast from up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Santa Caterina",
+                "hu": "Santuario di Santa Caterina",
+                "ro": "Santuario di Santa Caterina",
+                "en": "Santuario di Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im warmen Licht der Abenddämmerung; genießen Sie die winterliche Meeresstille, bevor Sie den Wagen für die Rückfahrt starten.",
+                "hu": "Tökéletes lezárás az alkonyat meleg fényeiben; élvezze a téli tengeri csendet, mielőtt elindítaná az autót a kényelmes hazatéréshez.",
+                "ro": "Finalul perfect în lumina caldă a amurgului; bucurați-vă de liniștea iernatică a mării înainte de a porni mașina pentru întoarcerea spre casă.",
+                "en": "The perfect end in the warm light of dusk; enjoy the wintry silence of the sea before starting the car for a comfortable drive back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

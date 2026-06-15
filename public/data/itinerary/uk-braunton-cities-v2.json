@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Braunton történelmi központjában, a St Brannock-templom középkori faragványainak megtekintésével. Ahogy közeledik a dél, kövesse a Caen-folyó csendes folyását, és élvezze a falu természeti szépségeit. Délután merüljön el a helyi kultúrában a Brit Szörfmúzeumban és a Vidéki Központban. Zárja a napot egy kellemes sétával a hatalmas és ősi Great Field történelmi dűlői mentén az este közeledtével.",
         "ro": "Începeți dimineața explorând inima istorică a Brauntonului, admirând sculpturile medievale de la Biserica St Brannock. Pe măsură ce se apropie prânzul, urmați cursul domol al râului Caen pentru a vă conecta cu peisajul natural al satului. După-amiaza, descoperiți patrimoniul local la Muzeul Surfului Britanic și la Centrul Rural. Încheiați-vă ziua plimbându-vă pe lângă imensele fâșii antice de pe Great Field.",
         "en": "Start your morning exploring the historic heart of Braunton, beginning with the medieval carvings at St Brannock's Church. As midday approaches, follow the gentle flow of the Caen River to connect with the village's natural landscape. In the afternoon, dive into local heritage at the Museum of British Surfing and the Countryside Centre. Conclude your day walking past the vast, ancient strips of the Great Field as evening sets in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der St. Brannock's Church, die idealen Schutz vor Schauern bietet. Mittags führt der Weg am Fluss Caen entlang, der bei Regen matschig sein kann; das Surfmuseum ist dann ein perfekter trockener Zufluchtsort. Nachmittags bietet das Countryside Centre Schutz vor dem Wind. Beenden Sie den Tag auf dem Great Field, aber halten Sie den Schirm bereit, da es dort kaum Deckung gibt.",
+            "hu": "Reggel a templom hűvös csendjében bújhat el a zápor elől. Délben a folyóparti ösvény sáros lehet, így a Szörfmúzeum száraz kiállításai kínálnak tökéletes pihenőt. Délután a Vidéki Központban ismerkedhet a helyi élővilággal, távol a széltől. Estére a Great Field tágas mezőin zárja a sétát, de legyen kéznél az esernyő, mert a nyílt terepen nincs természetes fedezék a tengerparti szél ellen.",
+            "ro": "Începeți ziua în interiorul bisericii St Brannock, un adăpost ideal împotriva ploii. La prânz, poteca de pe malul râului poate fi noroioasă, așa că Muzeul Surfului oferă o pauză uscată binemeritată. După-amiaza, Centrul Rural vă protejează de vânt. Încheiați plimbarea la Great Field, dar păstrați umbrela la îndemână, deoarece peisajul deschis nu oferă protecție naturală în caz de furtună.",
+            "en": "Start your morning inside St Brannock's Church, which offers a grand refuge from the drizzle. By noon, the river path may be muddy, making the Museum of British Surfing an excellent dry haven. In the afternoon, the Countryside Centre provides a break from the coastal wind. End your walk at the Great Field, but keep your umbrella ready as the open landscape offers little natural shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Brannock's Church",
+                "hu": "St Brannock's Church",
+                "ro": "St Brannock's Church",
+                "en": "St Brannock's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen idealen Rückzugsort vor dem Regen; nutzen Sie die Zeit, um die kunstvoll geschnitzten Dachbalken aus dem Mittelalter in aller Ruhe trocken zu bewundern.",
+                "hu": "A templom belső tere tökéletes menedék az eső elől; használja ki az időt a középkori tetőgerendák híres fafaragásainak alapos felfedezésére, miközben kint kopog a zápor.",
+                "ro": "Interiorul bisericii oferă un refugiu ideal împotriva ploii; profitați de timp pentru a admira în liniște faimoasele sculpturi medievale ale tavanului, în timp ce afară plouă.",
+                "en": "The church interior provides an ideal retreat from the rain; take your time to admire the famous medieval roof carvings in the dry while listening to the downpour outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Caen River",
+                "hu": "Caen-folyó",
+                "ro": "Râul Caen",
+                "en": "Caen River"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei Regen sehr rutschig sein; tragen Sie unbedingt festes, wasserdichtes Schuhwerk, um die dramatisch steigenden Wasserstände des Flusses sicher zu beobachten.",
+                "hu": "A folyóparti ösvény esőben nagyon csúszós lehet; viseljen vízálló bakancsot, hogy biztonságban figyelhesse meg a megáradt folyó látványát a sűrűbb növényzet mentén sétálva.",
+                "ro": "Poteca de pe malul râului poate fi foarte alunecoasă pe ploaie; purtați încălțăminte impermeabilă pentru a observa în siguranță nivelul crescut al apei de-a lungul traseului.",
+                "en": "The riverside path can become very slippery when wet; wear sturdy waterproof boots to safely enjoy the sight of the rising water levels as you walk along the lush banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of British Surfing",
+                "hu": "Brit Szörfmúzeum",
+                "ro": "Muzeul Surfului Britanic",
+                "en": "Museum of British Surfing"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in dieser trockenen Oase; die umfangreiche Sammlung historischer Surfbretter lässt Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Hosszabbítsa meg tartózkodását ebben a száraz oázisban; a történelmi szörfdeszkák lenyűgöző gyűjteménye közben teljesen elfelejti majd a kinti barátságtalan, esős időjárást.",
+                "ro": "Prelungiți-vă vizita în această oază uscată; colecția fascinantă de plăci de surf istorice vă va face să uitați complet de vremea nefavorabilă și de ploaia de afară.",
+                "en": "Extend your stay in this dry oasis; the fascinating collection of historic surfboards will make you completely forget about the unfriendly, wet weather outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Countryside Centre",
+                "hu": "Braunton Vidéki Központ",
+                "ro": "Centrul Rural Braunton",
+                "en": "Braunton Countryside Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die interaktiven Ausstellungen als Schutz vor vorbeiziehenden Schauern; lernen Sie drinnen alles über die lokale Flora, während der Regen gegen die Fenster peitscht.",
+                "hu": "Használja az interaktív kiállításokat menedékként az elhaladó záporok elől; ismerje meg a helyi élővilágot bent a szárazon, miközben az eső kopog az ablaküvegeken.",
+                "ro": "Folosiți expozițiile interactive ca adăpost împotriva averselor trecătoare; învățați despre flora și fauna locală la căldură, în timp ce ploaia bate în ferestrele centrului.",
+                "en": "Use the interactive exhibits as a shelter from passing showers; learn all about the local wildlife indoors while the rain lashes against the windows of the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Field",
+                "hu": "Great Field",
+                "ro": "Great Field",
+                "en": "Great Field"
+              },
+              "tip_5lang": {
+                "de": "Da es hier kaum Unterstände gibt, sollten Sie Ihre Regenjacke fest verschließen; genießen Sie die weite, wolkenverhangene Landschaft nur bei kurzen Regenpausen im Freien.",
+                "hu": "Mivel itt alig van fedett rész, húzza szorosra az esőkabátját; a tágas, felhőkkel borított táj látványát leginkább csak a rövid esőszünetekben érdemes kint élvezni.",
+                "ro": "Deoarece aici există puține adăposturi, închideți bine pelerina de ploaie; bucurați-vă de peisajul vast și înnorat doar în timpul scurtelor pauze dintre aversele de ploaie.",
+                "en": "As there is very little shelter here, keep your raincoat tightly zipped; enjoy the vast, cloud-covered landscape only during short breaks in the rain for the best experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie einen klaren Wintermorgen in der geschichtsträchtigen Kirche. Mittags sorgt die kühle Luft am Fluss für Erfrischung, doch das warme Surfmuseum lockt bald nach drinnen. Nachmittags können Sie im Countryside Centre Wintervögel beobachten. Beenden Sie Ihren Spaziergang auf dem Great Field vor 17:00 Uhr, um das goldene Licht der tiefstehenden Wintersonne zu genießen.",
+            "hu": "A fagyos reggelt kezdje a templom történelmi falai között. Délben a folyó menti séta frissítő, de a múzeum meleg belső tere hívogatóbb a szörfdeszkák között. Délután a téli madárvilágot figyelheti meg a Vidéki Központban. Az este korán, már 17:00 körül leszáll a Great Field felett, így a lemenő nap fényeiben még időben élvezze ki a puszta téli látványát.",
+            "ro": "Începeți dimineața geroasă între zidurile istorice ale bisericii. La prânz, plimbarea pe râu este revigorantă, dar interiorul cald al muzeului este mult mai primitor. După-amiaza, puteți observa păsările de iarnă la Centrul Rural. Încheiați plimbarea la Great Field înainte de ora 17:00, pentru a surprinde lumina aurie a soarelui înainte de lăsarea serii.",
+            "en": "Begin your frosty morning within the historic walls of the church. At noon, the riverside walk is refreshing, but the warm museum interior is more inviting among the surfboards. In the afternoon, watch the winter birdlife at the Countryside Centre. Finish your walk at the Great Field before 5 PM to enjoy the golden winter sun before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Brannock's Church",
+                "hu": "St Brannock's Church",
+                "ro": "St Brannock's Church",
+                "en": "St Brannock's Church"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steinmauern sind im Winter recht kühl; lassen Sie Ihren Mantel an, während Sie die historischen Details und die Architektur in der stillen Kirche erkunden.",
+                "hu": "A téli reggeleken a kőfalak hidegek; tartsa magán a kabátot, amíg a belső tér történelmi részleteit és a különleges fafaragásokat böngészi a templom csendjében.",
+                "ro": "Zidurile vechi de piatră sunt foarte reci iarna; păstrați haina pe dvs. în timp ce explorați detaliile istorice și arhitectura deosebită în liniștea bisericii.",
+                "en": "The ancient stone walls are quite chilly in winter; keep your coat on while exploring the historic details and architecture in the quiet sanctuary of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Caen River",
+                "hu": "Caen-folyó",
+                "ro": "Râul Caen",
+                "en": "Caen River"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Winterluft am Wasser ist beißend kalt; ziehen Sie sich in mehreren Schichten an, um die frostigen Uferwege und die winterliche Ruhe des Flusses zu genießen.",
+                "hu": "A folyóparti nedves téli levegő metsző lehet; öltözzön rétegesen, hogy élvezhesse a zúzmarás ösvények és a vízparti csend nyugalmát a hideg téli délelőttön.",
+                "ro": "Aerul umed de iarnă de lângă apă este tăios; îmbrăcați-vă în straturi pentru a vă bucura de potecile înghețate și de liniștea râului în această dimineață de iarnă.",
+                "en": "The damp winter air by the water is biting; dress in warm layers to enjoy the frosty paths and the winter stillness of the river during your morning walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of British Surfing",
+                "hu": "Brit Szörfmúzeum",
+                "ro": "Muzeul Surfului Britanic",
+                "en": "Museum of British Surfing"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlich geheizter Ort, um sich aufzuwärmen; erfahren Sie alles über die abgehärteten Surfer, die sich auch im tiefsten Winter in die eisigen Wellen Nord-Devons wagen.",
+                "hu": "Kellemesen fűtött hely a felmelegedéshez; ismerje meg azokat az edzett szörfösöket, akik a legkeményebb téli fagyban is bemerészkednek Észak-Devon jeges hullámai közé.",
+                "ro": "Un loc încălzit minunat pentru a vă dezmorți; aflați totul despre surferii căliți care se aventurează în valurile înghețate din North Devon chiar și în mijlocul iernii.",
+                "en": "A wonderfully heated place to warm up; learn all about the hardy surfers who venture into North Devon's freezing waves even in the depths of the coldest winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Countryside Centre",
+                "hu": "Braunton Vidéki Központ",
+                "ro": "Centrul Rural Braunton",
+                "en": "Braunton Countryside Centre"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie die lokale Tierwelt den Winter überlebt; das Zentrum bietet einen willkommenen Schutz vor dem eisigen Wind, der oft vom Atlantik herüberweht.",
+                "hu": "Tudja meg, hogyan éli túl a helyi élővilág a telet; a központ szívesen látott menedéket nyújt a metsző szél elől, amely ilyenkor gyakran fúj az Atlanti-óceán felől.",
+                "ro": "Aflați cum supraviețuiește fauna locală iernii; centrul oferă un adăpost binevenit împotriva vântului tăios care bate adesea dinspre Oceanul Atlantic în acest sezon.",
+                "en": "Learn how the local wildlife survives the winter; the center offers a welcome refuge from the biting wind that often blows in from the Atlantic during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Field",
+                "hu": "Great Field",
+                "ro": "Great Field",
+                "en": "Great Field"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten auf die historischen Ackerstreifen; beenden Sie Ihren Besuch vor dem frühen Sonnenuntergang um 17:00 Uhr wegen der Kälte.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a történelmi mezőkre; fejezze be a látogatást a korai, 17:00 órai naplemente előtt a hirtelen leszálló hideg miatt.",
+                "ro": "Soarele jos aruncă umbre lungi peste fâșiile agricole istorice; încheiați vizita înainte de apusul devreme de la ora 17:00 din cauza frigului care se lasă brusc.",
+                "en": "The low sun casts long shadows across the historic field strips; finish your visit before the early 5 PM sunset due to the sharp drop in temperature afterwards."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a Brit Szörfmúzeumban, amely kiváló bevezetés a partvidék kultúrájába. Délben tekerjen tovább a Braunton Great Field sík útjain a Mentőhelikopter-kilátó irányába. A délutánt a természetnek szentelheti, miközben felfedezi Crow Point és a Braunton Burrows homokdűnéit. Aktív napját fejezze be a lenyűgöző Saunton Sands tengerpartján, miközben a lemenő nap fényeiben gyönyörködik.",
         "ro": "Începeți turul cu bicicleta la Muzeul Surfului Britanic, o introducere excelentă în cultura de coastă a zonei. Pedalați la prânz pe cărările plate ale Braunton Great Field către zona de observare a elicopterelor de salvare. După-amiaza este dedicată naturii, explorând dunele de la Crow Point și Braunton Burrows. Încheiați-vă ziua activă admirând valurile la apus pe spectaculoasa plajă Saunton Sands.",
         "en": "Kick off your cycling tour at the Museum of British Surfing, an essential introduction to the area's coastal culture. Pedal onwards through the flat tracks of the Braunton Great Field towards the Rescue Helicopter Viewing Area by midday. The afternoon is dedicated to nature as you explore the dunes of Crow Point and Braunton Burrows. Finish your active day watching the sunset waves at the spectacular Saunton Sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie regengeschützt im Surfmuseum. Mittags sind die Wege auf dem Great Field rutschig, fahren Sie also vorsichtig. Nachmittags ist es am Crow Point windig und nass, suchen Sie Schutz hinter den Dünen. Beenden Sie den Tag bei Saunton Sands, wo die stürmische See eine dramatische Kulisse bietet, aber stellen Sie sich auf eine sehr nasse Rückfahrt ein.",
+            "hu": "A napot kezdje fedett helyen, a szörfmúzeumban az eső elől. Délben a Great Field felé vezető utak csúszósak lehetnek, így csak óvatosan tekerjen. Délután Crow Pointnál a szél vízszintesen hordja az esőt, keressen menedéket a dűnék mögött. Estére érjen Saunton Sands-hez, ahol a viharos óceán látványa drámai, bár az út biztosan vizes lesz.",
+            "ro": "Începeți ziua la adăpost în muzeul surfului pentru a evita ploaia. La prânz, pistele spre Great Field sunt alunecoase, deci pedalați cu prudență. După-amiaza la Crow Point, vântul va sufla ploaia orizontal; căutați adăpost după dune. Seara se încheie la Saunton Sands, unde oceanul furtunos oferă un spectacol dramatic, deși atmosfera va fi udă.",
+            "en": "Start your day indoors at the surf museum to avoid the drizzle. By noon, the cycle paths across the Great Field are slick, so ride with caution. Afternoon is best spent near the coast at Crow Point, though the wind will be driving the rain horizontally. Evening concludes at Saunton Sands, where the stormy Atlantic creates a dramatic, albeit very wet, atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum of British Surfing",
+                "hu": "Brit Szörfmúzeum",
+                "ro": "Muzeul Surfului Britanic",
+                "en": "Museum of British Surfing"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag drinnen mit lokaler Geschichte; dies ist der beste Ort, um Ihre Ausrüstung vorzubereiten, bevor Sie sich in den Regen hinauswagen.",
+                "hu": "Kezdje a napot bent, a helyi történelemmel; ez a legjobb hely a felszerelés utolsó ellenőrzésére, mielőtt nekivágna a szakadó esőnek a két keréken.",
+                "ro": "Începeți ziua în interior cu istoria locală; este cel mai bun loc pentru a vă pregăti echipamentul înainte de a ieși în ploaie pe bicicletă.",
+                "en": "Start your day indoors with local history; it's the best place to prepare your gear and check your waterproofs before heading out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Great Field",
+                "hu": "Braunton Great Field",
+                "ro": "Braunton Great Field",
+                "en": "Braunton Great Field"
+              },
+              "tip_5lang": {
+                "de": "Die landwirtschaftlichen Wege können bei Nässe sehr glatt sein; fahren Sie mit mäßigem Tempo, um auf den historischen Pfaden nicht auszurutschen.",
+                "hu": "A mezőgazdasági utak vizesen nagyon csúszósak lehetnek; tekerjen mérsékelt tempóban, hogy elkerülje a megcsúszást a történelmi ösvényeken a sárban.",
+                "ro": "Drumurile agricole pot fi foarte alunecoase când sunt ude; pedalați cu viteză moderată pentru a evita derapajele pe potecile istorice noroioase.",
+                "en": "The agricultural tracks can be very slick when wet; cycle at a moderate pace to avoid skidding on the historic paths while navigating the muddy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt für Rettungshubschrauber",
+                "hu": "Mentőhelikopter-kilátó",
+                "ro": "Zona de Observare a Elicopterelor",
+                "en": "Rescue Helicopter Viewing Area"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann eingeschränkt sein; halten Sie Ihre Regenkapuze fest geschlossen und suchen Sie im Dunst nach den Lichtern des Flugplatzes.",
+                "hu": "A látási viszonyok korlátozottak lehetnek az esőben; húzza szorosra a kapucnit, és keresse a repülőtér fényeit a párás, szürke ködön keresztül.",
+                "ro": "Vizibilitatea poate fi limitată pe ploaie; strângeți bine gluga pelerinei și căutați luminile aerodromului prin ceața densă și cenușie de afară.",
+                "en": "Visibility might be low in the rain; keep your waterproof hood tight and look for the lights of the airfield through the misty, gray coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Crow Point",
+                "hu": "Crow Point",
+                "ro": "Crow Point",
+                "en": "Crow Point"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenwind peitscht den Regen hier horizontal; suchen Sie ein wenig Schutz hinter den Dünen, falls das Wetter zu ungemütlich wird.",
+                "hu": "A tengerparti szél itt vízszintesen hordja az esőt; keressen némi menedéket a dűnék mögött, ha az időjárás túl barátságtalanná válna a biciklizéshez.",
+                "ro": "Vântul de coastă suflă ploaia orizontal aici; căutați puțin adăpost în spatele dunelor dacă vremea devine prea aspră pentru a continua pedalarea.",
+                "en": "The coastal wind drives the rain horizontally here; find a bit of shelter behind the dunes if the weather turns too harsh for cycling comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Burrows",
+                "hu": "Braunton Burrows",
+                "ro": "Braunton Burrows",
+                "en": "Braunton Burrows"
+              },
+              "tip_5lang": {
+                "de": "Die sandigen Wege werden schwer und schwer befahrbar; bleiben Sie auf den festeren Rändern der Pfade, um nicht im Schlamm steckenzubleiben.",
+                "hu": "A homokos ösvények elnehezülnek és nehezen járhatóvá válnak; maradjon az utak keményebb szélein, hogy elkerülje az elakadást a felázott talajon.",
+                "ro": "Potecile nisipoase devin grele și dificil de parcurs; rămâneți pe marginile mai ferme ale drumurilor pentru a evita blocarea în noroiul moale.",
+                "en": "The sandy tracks become heavy and difficult to navigate; stick to the firmer edges of the paths to avoid getting stuck in the waterlogged ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Saunton Sands",
+                "hu": "Saunton Sands",
+                "ro": "Saunton Sands",
+                "en": "Saunton Sands"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen von der Slipanlage aus; der riesige Strand ist wunderschön, aber extrem nass, lassen Sie also Ihre Regensachen an.",
+                "hu": "Figyelje meg a drámai hullámokat a feljáróról; a hatalmas strand gyönyörű, de rendkívül vizes, így tartsa magán a teljes esőfelszerelést a parton is.",
+                "ro": "Observați valurile dramatice de pe rampa de acces; plaja vastă este superbă, dar extrem de udă, așa că păstrați tot echipamentul de ploaie pe dvs.",
+                "en": "Watch the dramatic stormy waves from the slipway; the vast beach is beautiful but extremely wet, so keep your full rain gear on while exploring the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt beginnt im Museum. Mittags bietet das Great Field klare, frostige Ausblicke, aber der beißende Wind erfordert Thermokleidung. Nachmittags erkunden Sie die Dünen der Burrows, während die tiefstehende Sonne lange Schatten wirft. Ziel ist es, Saunton Sands bis 17:00 Uhr zu erreichen, um den Sonnenuntergang vor dem Temperatursturz zu erleben.",
+            "hu": "A frissítő téli tekerés a múzeumnál kezdődik. Délben a Great Field tiszta, zúzmarás látványt nyújt, de a metsző szél miatt szükség lesz a hőszigetelő ruházatra. Délután a Burrows dűnéit fedezze fel az alacsony napfényben. Törekedjen rá, hogy 17:00-ig érjen Saunton Sands-be, és még a hirtelen lehűlés előtt lássa a naplementét.",
+            "ro": "O plimbare revigorantă de iarnă începe la muzeu. La prânz, Great Field oferă vederi clare și înghețate, dar vântul tăios necesită haine termice. După-amiaza, explorați dunele din Burrows în lumina soarelui jos. Încercați să ajungeți la Saunton Sands până la ora 17:00, pentru a vedea apusul înainte ca temperatura să scadă brusc.",
+            "en": "A refreshing winter ride begins at the museum. Noon at the Great Field offers clear, frosty views, but the biting wind requires thermal layers. In the afternoon, explore the dunes of the Burrows as the low sun creates long shadows. Aim to finish at Saunton Sands by 5 PM to catch the sunset before the temperature drops sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum of British Surfing",
+                "hu": "Brit Szörfmúzeum",
+                "ro": "Muzeul Surfului Britanic",
+                "en": "Museum of British Surfing"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start für Ihre Radtour; erfahren Sie mehr über die mutigen Seelen, die sich auch im eiskalten Winter in die Wellen Nord-Devons wagen.",
+                "hu": "Meleg kezdés a kerékpáros túrához; ismerje meg azokat a bátor szörfösöket, akik a fagyos téli hónapokban is dacolnak Észak-Devon jeges hullámaival.",
+                "ro": "Un început călduros pentru tura de bicicletă; aflați despre sufletele curajoase care înfruntă valurile înghețate din North Devon chiar și iarna.",
+                "en": "A warm start to your cycling trip; learn about the brave souls who surf North Devon's freezing winter swells while you prepare for the cold ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Great Field",
+                "hu": "Braunton Great Field",
+                "ro": "Braunton Great Field",
+                "en": "Braunton Great Field"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den alten Ackerstreifen ist ein herrlicher Anblick; tragen Sie Thermohandschuhe, da der Wind hier auf dem offenen Feld sehr scharf ist.",
+                "hu": "A zúzmara a történelmi mezőkön lenyűgöző látvány; viseljen hőszigetelt kesztyűt, mivel a nyílt terepen fújó szél itt rendkívül csípős tud lenni.",
+                "ro": "Chiciura de pe fâșiile agricole istorice este o vedere superbă; purtați mănuși termice, deoarece vântul de pe câmpul deschis este foarte tăios iarna.",
+                "en": "The frost on the ancient field strips is a sight to behold; wear thermal gloves as the open wind across the fields is quite sharp during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt für Rettungshubschrauber",
+                "hu": "Mentőhelikopter-kilátó",
+                "ro": "Zona de Observare a Elicopterelor",
+                "en": "Rescue Helicopter Viewing Area"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft ist oft sehr klar; genießen Sie die scharfe Aussicht auf den Stützpunkt Chivenor, bevor der frühe Winterabend hereinbricht.",
+                "hu": "A hideg levegő ilyenkor gyakran kristálytiszta; élvezze az éles kilátást a Chivenor bázisra, mielőtt a korai téli este sötétje leszállna a tájra.",
+                "ro": "Aerul rece este adesea foarte clar; bucurați-vă de vederea clară asupra bazei Chivenor înainte ca seara timpurie de iarnă să se lase peste zonă.",
+                "en": "The cold air is often very clear in winter; enjoy the sharp views of the Chivenor base before the early winter evening sets in over the estuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Crow Point",
+                "hu": "Crow Point",
+                "ro": "Crow Point",
+                "en": "Crow Point"
+              },
+              "tip_5lang": {
+                "de": "Die Luft an der Mündung ist im Winter eiskalt; halten Sie Ausschau nach Wintervögeln am Ufer, aber bleiben Sie nicht zu lange stehen.",
+                "hu": "A torkolati levegő télen rendkívül hideg; keressen telelő madarakat a parton, de ne álljon meg túl hosszú időre, hogy ne hűljön ki a teste.",
+                "ro": "Aerul de la estuar este înghețat iarna; căutați păsările care iernează pe mal, dar nu staționați prea mult timp pentru a nu vă răci corpul.",
+                "en": "The estuary air is freezing in winter; look for wintering birds on the shore but don't stay stationary for too long to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Burrows",
+                "hu": "Braunton Burrows",
+                "ro": "Braunton Burrows",
+                "en": "Braunton Burrows"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen bieten etwas Schutz vor dem Wind; genießen Sie die stille, einsame Schönheit der Dünen im blassen Winterlicht bei Ihrer Fahrt.",
+                "hu": "A dűnék némi védelmet nyújtanak a szél elől; élvezze a homokbuckák csendes, elhagyatott szépségét a halvány téli fényben a kerékpárútja során.",
+                "ro": "Dunele oferă o oarecare protecție împotriva vântului; bucurați-vă de frumusețea tăcută și izolată a dunelor în lumina palidă a iernii pe bicicletă.",
+                "en": "The dunes offer some protection from the wind; enjoy the quiet, desolate beauty of the dunes in the pale winter light during your cycle through the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Saunton Sands",
+                "hu": "Saunton Sands",
+                "ro": "Saunton Sands",
+                "en": "Saunton Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem Atlantik ist im Winter spektakulär; kehren Sie in die Stadt zurück, bevor die Temperatur nach 17:00 Uhr sinkt.",
+                "hu": "A naplemente az Atlanti-óceán felett látványos télen; érjen vissza a városba, mielőtt a hőmérséklet 17:00 után hirtelen nagyot zuhanna.",
+                "ro": "Apusul peste Atlantic este spectaculos iarna; asigurați-vă că porniți înapoi spre oraș înainte ca temperatura să scadă brusc după ora 17:00.",
+                "en": "The sunset over the Atlantic is spectacular in winter; ensure you are heading back to town before the temperature drops sharply after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós útját a történelmi Knowle Hill-kastély romjainak és a St Brannock-templom elegáns építészetének felfedezésével. Délben a letérhet a kitaposott útról a Braunton Marsh békés vizes élőhelyeihez és az ikonikus Hawker Hunter repülőgéphez. Délutánját a békés Szent Anna-kápolna meglátogatásával töltheti, mielőtt a part felé venné az irányt. A nap a lenyűgöző Saunton Sands esti óceáni panorámájával csúcsosodik ki.",
         "ro": "Începeți plimbarea cu mașina explorând ruinele istorice de la Knowle Hill Castle și arhitectura elegantă a Bisericii St Brannock. La prânz ieșiți de pe traseele turistice pentru a vedea zonele umede liniștite din Braunton Marsh și faimosul avion Hawker Hunter. Petreceți după-amiaza vizitând liniștita Capelă St Anne înainte de a vă îndrepta spre coastă. Itinerariul culminează cu priveliști oceanice la Saunton Sands.",
         "en": "Embark on your drive by exploring the historic Knowle Hill Castle ruins and the elegant architecture of St Brannock's Church. Midday takes you off the beaten path to the serene wetlands of Braunton Marsh and past the iconic Hawker Hunter jet display. Spend your afternoon visiting the peaceful St Anne's Chapel before heading to the coast. The itinerary culminates with breathtaking evening ocean views at Saunton Sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Regenfahrt bei den Burgruinen, die Sie bequem vom Fenster aus betrachten können. Mittags bietet die Kirche ein trockenes Heiligtum. Nachmittags führt die Fahrt durch das atmosphärische Braunton Marsh, wo der Nebel über den Feldern hängt. Beenden Sie den Tag bei Saunton Sands; der Parkplatz bietet einen tollen Ausblick auf den Sturm über dem Meer vom warmen Auto aus.",
+            "hu": "Kezdje az esős autózást a várromoknál, amit akár az ablakból is megcsodálhat. Délre a templom száraz menedéket nyújt a felfedezéshez. Délután a Braunton Marsh ködös, hangulatos tájai várják, ahol a pára rátapad a mezőkre. A napot Saunton Sands-nél zárja; a parkolóból a meleg autóból is tökéletesen követheti az óceán feletti viharos hullámokat.",
+            "ro": "Începeți traseul cu mașina la ruinele castelului, pe care le puteți vedea confortabil de la geam. La prânz, biserica oferă un sanctuar uscat pentru explorare. După-amiaza vă poartă prin zona Braunton Marsh, unde ceața stăruie peste câmpuri. Încheiați ziua la Saunton Sands; parcarea oferă o vedere excelentă spre furtuna de pe ocean din mașina caldă.",
+            "en": "Start your rainy drive at the castle ruins, though you might prefer viewing them from your window. By midday, the church provides a dry sanctuary for exploration. Afternoon takes you through the atmospheric Braunton Marsh, where the mist clings to the fields. Finish the day at Saunton Sands; the beach car park offers a great vantage point to watch the storm from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Knowle Hill Castle",
+                "hu": "Knowle Hill-kastély",
+                "ro": "Castelul Knowle Hill",
+                "en": "Knowle Hill Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen und die umliegende Landschaft vom Auto aus, wenn der Regen zu stark ist, um die exponierten Überreste zu Fuß zu erkunden.",
+                "hu": "Ha túl hevesen esik az eső, nézze meg a romokat és a környező tájat az autóból; a kitett területen ilyenkor kényelmetlen lenne a gyalogos felfedezés.",
+                "ro": "Priviți ruinele și peisajul înconjurător din mașină dacă ploaia este prea puternică pentru a explora pe jos vestigiile expuse intemperiilor de pe deal.",
+                "en": "View the ruins and the surrounding landscape from your car if the rain is too heavy to explore the exposed remains on foot at the top of the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brannock's Church",
+                "hu": "St Brannock's Church",
+                "ro": "St Brannock's Church",
+                "en": "St Brannock's Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie ins Innere; das trockene Kirchenschiff ist voller faszinierender Schnitzereien und bietet eine historische Atmosphäre.",
+                "hu": "Parkoljon le a közelben, és siessen be a templomba; a száraz belső tér tele van lenyűgöző faragványokkal és magával ragadó történelmi hangulattal.",
+                "ro": "Parcați în apropiere și grăbiți-vă în interiorul bisericii; naosul uscat este plin de sculpturi fascinante și oferă o atmosferă istorică deosebită.",
+                "en": "Park nearby and dash inside the church; the dry interior is filled with fascinating carvings and offers a wonderful historic atmosphere away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Marsh",
+                "hu": "Braunton Marsh",
+                "ro": "Braunton Marsh",
+                "en": "Braunton Marsh"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft wirkt im Regen mystisch; fahren Sie langsam durch die engen Gassen, um das Entwässerungssystem bei starkem Niederschlag zu beobachten.",
+                "hu": "A táj misztikus hangulatot áraszt az esőben; hajtson lassan a keskeny utakon, hogy megfigyelhesse a csatornarendszer működését a heves zivatar idején.",
+                "ro": "Peisajul are o atmosferă mistică pe ploaie; conduceți încet pe drumurile înguste pentru a observa sistemul de drenaj în timpul precipitațiilor abundente.",
+                "en": "The landscape feels mystical and moody in the rain; drive slowly along the narrow lanes to appreciate the drainage system during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Hawker Hunter Jet",
+                "hu": "Hawker Hunter repülőgép",
+                "ro": "Avionul Hawker Hunter",
+                "en": "Hawker Hunter jet"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp aus dem Autofenster reicht völlig aus; der silberne Rumpf glänzt wunderschön gegen den grauen, regnerischen Himmel.",
+                "hu": "Egy gyors fotó az autó ablakából is elég; a repülőgép ezüstös törzse gyönyörűen csillog a szürke, esős égbolt alatt a szakadó esőben is.",
+                "ro": "O scurtă oprire pentru poze de la fereastra mașinii este suficientă; fuzelajul argintiu strălucește frumos pe fundalul cerului cenușiu de ploaie.",
+                "en": "A quick photo stop from the car window is enough; the silver fuselage gleams beautifully against the gray, rainy sky even during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "St Anne's Chapel",
+                "hu": "Szent Anna-kápolna",
+                "ro": "Capela St Anne",
+                "en": "St Anne's Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind klein, aber stimmungsvoll; warten Sie auf eine Regenpause, bevor Sie den kurzen Weg vom Auto zur Kapelle zurücklegen.",
+                "hu": "A romok kicsik, de rendkívül hangulatosak; várjon meg egy rövid esőszünetet, mielőtt megtenné azt a pár lépést az autótól a kápolna maradványaiig.",
+                "ro": "Ruinele sunt mici, dar pline de atmosferă; așteptați o pauză în ploaie înainte de a face scurta plimbare de la mașină până la capelă.",
+                "en": "The ruins are small but evocative; wait for a break in the clouds before taking the very short walk from your car to the chapel remains."
+              }
+            },
+            {
+              "name": {
+                "de": "Saunton Sands",
+                "hu": "Saunton Sands",
+                "ro": "Saunton Sands",
+                "en": "Saunton Sands"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hotel oder Strandparkplatz; beobachten Sie den Regen über dem Atlantik bequem von Ihrem trockenen Fahrzeug aus.",
+                "hu": "Parkoljon le a szállodánál vagy a strandnál; figyelje az Atlanti-óceán feletti esőt és a hullámokat kényelmesen, a száraz és fűtött autóból.",
+                "ro": "Parcați la hotel sau în parcarea plajei; observați ploaia peste Atlantic și valurile înspumate confortabil, din interiorul uscat al mașinii dvs.",
+                "en": "Park at the hotel or beach car park; watch the rain hitting the Atlantic waves and the surf from the comfort and warmth of your dry vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt bei Knowle Hill mit scharfen Ausblicken über das Tal. Mittags bietet die Kirche einen friedlichen, windstillen Halt. Die Nachmittagsfahrt durch das Marschland zeigt Wintervögel und ein einzigartiges Licht auf dem Wasser. Die Reise endet bei Saunton Sands kurz vor 17:00 Uhr mit einem atemberaubenden Blick auf den Wintersonnenuntergang über dem Atlantik.",
+            "hu": "A téli reggel Knowle Hillnél indul, tiszta kilátással a völgyre. Délben a templom békés, szélmentes megállót kínál. A délutáni autózás a mocsárvidéken át telelő madarakat és egyedi, alacsony téli fényeket tár fel a vízen. Az út Saunton Sands-nél ér véget 17:00 előtt, lenyűgöző naplementét kínálva a fűtött autó kényelméből.",
+            "ro": "Dimineața de iarnă începe la Knowle Hill cu vederi clare asupra văii. La prânz, biserica oferă o oprire liniștită și ferită de vânt. Traseul de după-amiază prin mlaștină dezvăluie păsări de iarnă și o lumină unică pe apă. Călătoria se încheie la Saunton Sands înainte de ora 17:00, cu un apus superb peste Atlantic.",
+            "en": "The winter morning starts at Knowle Hill with sharp, clear vistas over the valley. At noon, the church offers a peaceful, wind-free stop. The afternoon drive through the marsh reveals wintering birds and a unique low light on the water. Your trip ends at Saunton Sands just before 5 PM, providing a stunning view of the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Knowle Hill Castle",
+                "hu": "Knowle Hill-kastély",
+                "ro": "Castelul Knowle Hill",
+                "en": "Knowle Hill Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht über das Tal ist in der klaren Winterluft besonders scharf; lassen Sie die Heizung an, bis Sie den besten Aussichtspunkt erreicht haben.",
+                "hu": "A völgyre nyíló kilátás a tiszta téli levegőben különösen éles; hagyja bekapcsolva a fűtést, amíg el nem éri a legszebb panorámát nyújtó pontot.",
+                "ro": "Vederea asupra văii este deosebit de clară în aerul rece de iarnă; lăsați căldura pornită în mașină până când ajungeți la cel mai bun punct de observație.",
+                "en": "The views over the valley are crisp and clear in the winter air; keep your heater on until you reach the best vantage point for taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brannock's Church",
+                "hu": "St Brannock's Church",
+                "ro": "St Brannock's Church",
+                "en": "St Brannock's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein stiller Zufluchtsort vor der Kälte; genießen Sie die friedliche Atmosphäre und die kunstvollen Holzarbeiten der Kirchenbänke im Warmen.",
+                "hu": "A templom csendes menedék a kinti hideg elől; élvezze a békés hangulatot és a padok aprólékos fafaragásait a vastag kőfalak nyújtotta szélárnyékban.",
+                "ro": "Biserica este un refugiu liniștit departe de frig; bucurați-vă de atmosfera pașnică și de sculpturile detaliate în lemn ale băncilor la adăpost.",
+                "en": "The church is a quiet haven from the cold; enjoy the peaceful atmosphere and the intricate woodwork of the pews in the wind-free sanctuary of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Braunton Marsh",
+                "hu": "Braunton Marsh",
+                "ro": "Braunton Marsh",
+                "en": "Braunton Marsh"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne spiegelt sich im Wasser der Gräben; halten Sie Ausschau nach Kiebitzschwärmen, die sich hier in den Wintermonaten sammeln.",
+                "hu": "Az alacsonyan járó nap megcsillan a csatornák vizén; keressen bíbiccsapatokat, amelyek gyakran gyülekeznek itt a téli hónapok során a vizes területeken.",
+                "ro": "Soarele jos se reflectă frumos în apa canalelor; căutați stolurile de nagâți care se adună aici frecvent în timpul lunilor reci de iarnă pe mlaștină.",
+                "en": "The low sun reflects off the water in the ditches; look for flocks of lapwings that gather here frequently during the winter months on the marshland."
+              }
+            },
+            {
+              "name": {
+                "de": "Hawker Hunter Jet",
+                "hu": "Hawker Hunter repülőgép",
+                "ro": "Avionul Hawker Hunter",
+                "en": "Hawker Hunter jet"
+              },
+              "tip_5lang": {
+                "de": "Der Jet sieht im klaren Winterlicht beeindruckend aus; es ist ein kurzer Stopp, bei dem man nicht viel Zeit in der Kälte verbringen muss.",
+                "hu": "A repülőgép lenyűgözően fest a tiszta téli fényben; ez egy gyors megálló, így nem kell sok időt töltenie a fagyos levegőn a fotózáshoz.",
+                "ro": "Avionul arată impresionant în lumina clară a iernii; este o oprire rapidă care nu necesită petrecerea multui timp în frigul de afară pentru poze.",
+                "en": "The jet looks striking in the clear winter light; it’s a fast stop that doesn’t require spending much time in the cold air to appreciate the sight."
+              }
+            },
+            {
+              "name": {
+                "de": "St Anne's Chapel",
+                "hu": "Szent Anna-kápolna",
+                "ro": "Capela St Anne",
+                "en": "St Anne's Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Ruinen ist kurz, kann aber vereist sein; tragen Sie Schuhe mit gutem Grip, um diese historische Stätte sicher zu besichtigen.",
+                "hu": "A romokhoz vezető út rövid, de jeges lehet; viseljen jó tapadású bakancsot, hogy biztonságban megnézhesse ezt a történelmi helyszínt a téli fagyban.",
+                "ro": "Drumul spre ruine este scurt, dar poate fi înghețat; purtați ghete cu aderență bună pentru a vizita în siguranță acest sit istoric în timpul iernii.",
+                "en": "The walk to the ruins is short but can be icy in places; wear boots with good grip to safely see this historic site during the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Saunton Sands",
+                "hu": "Saunton Sands",
+                "ro": "Saunton Sands",
+                "en": "Saunton Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Wintersonnenuntergang über dem Atlantik ist spektakulär; kommen Sie vor 17:00 Uhr hier an, um das goldene Licht über den eiskalten Wellen zu erleben.",
+                "hu": "A téli naplemente az Atlanti-óceán felett egészen lenyűgöző; érjen ide 17:00 előtt, hogy a fűtött autóból csodálhassa meg az aranyló fényeket a hullámokon.",
+                "ro": "Apusul de iarnă peste Atlantic este spectaculos; asigurați-vă că ajungeți aici înainte de ora 17:00 pentru a surprinde lumina aurie peste valurile înghețate.",
+                "en": "The winter sunset over the Atlantic is spectacular; make sure to arrive before 5 PM to catch the golden light over the icy waves from your warm vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

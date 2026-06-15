@@ -183,6 +183,224 @@
         "hu": "A nap Paimpol történelmi szívében kezdődik. A Place du Martray és az öreg toronyrom körül sétálva azonnal magával ragadja a fagerendás házak bája és Bretagne középkori történelme.\n\nDélben a Tengerészeti Múzeumban elmerülhet az izlandi halászok lenyűgöző múltjában. Ezután sétáljon végig a nyüzsgő kikötő mentén, és szívja magába a varázslatos tengeri atmoszférát.\n\nA délután a part menti pihenés jegyében telik. A Four à Chaux és a Tossen apró strandjai tengervizes medencéikkel és finom homokjukkal csendes elidőzésre, fürdőzésre csábítanak.\n\nZárásként sétáljon el a Plage de Keirdreiz felé, ahol a festői partvidék lágy esti fényekben ragyog. Ez egy békés pillanat, amikor teljes mértékben élvezheti a lenyűgöző breton természetet.",
         "ro": "Ziua începe în inima istorică a orașului Paimpol. În jurul Place du Martray și al ruinelor vechiului turn, veți simți imediat farmecul caselor cu cherestea și istoria medievală.\n\nLa prânz, scufundați-vă în trecutul pescarilor în Muzeul Mării. Apoi, faceți o plimbare relaxantă de-a lungul portului plin de viață și bucurați-vă de atmosfera maritimă autentică.\n\nDupă-amiaza este dedicată relaxării pe coastă. Micile plaje Four à Chaux și Tossen vă invită să zăboviți pe nisip sau să faceți o baie în piscinele lor cu apă de mare protejată.\n\nÎn încheiere, plimbați-vă spre Plage de Keirdreiz, unde peisajul de coastă strălucește în lumina blândă a serii. Un moment de liniște perfect pentru a savura frumusețea naturală.",
         "en": "The day begins in the historical heart of Paimpol. Wandering around Place du Martray and the old tower ruins, you immediately feel the charm of half-timbered houses and medieval history.\n\nAt midday, dive into the fascinating past of the Iceland fishermen at the Sea Museum. Afterwards, stroll along the bustling harbor quays to fully soak up the authentic maritime atmosphere.\n\nThe afternoon is dedicated to coastal relaxation. The small beaches of Four à Chaux and Tossen invite you to linger peacefully on the sand or swim in the protected seawater pools.\n\nTo conclude, stroll towards Plage de Keirdreiz, where the picturesque coastal landscape sparkles in the soft evening light. A perfectly tranquil moment to savor Breton nature at its best."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Paimpol bei Regen entfaltet einen besonderen, mystischen Charme. Beginnen Sie morgens im Schutz der historischen Fassaden am Place du Martray. Mittags bietet das Meeresmuseum die perfekte trockene Zuflucht vor den Schauern. Nachmittags spazieren Sie mit festem Schirm am Hafen entlang, wo der Nebel über den Masten hängt. Abends erleben Sie die raue Schönheit der Strände unter grauem Himmel.",
+            "hu": "Paimpol esőben is varázslatos, a ködös kikötő látványa egyedi élményt nyújt. Kezdje a reggelt a Martray tér fedett beugrói között, majd délben meneküljön az eső elől a Tengerészeti Múzeum gazdag kiállításai közé. Délután a kikötőben a vizes macskaköveken csillognak a fények, míg az estét a part menti sziklák alatt töltheti, ahol a szitáló eső találkozik a tenger sós permetével.",
+            "ro": "Paimpol în ploaie are un farmec mistic, cu portul învăluit în ceață. Dimineața, explorați centrul vechi adăpostindu-vă sub arcadele din Place du Martray. La prânz, Muzeul Mării este refugiul ideal împotriva stropilor, oferind o incursiune în istoria locală. După-amiaza, plimbarea prin port necesită o pelerină bună, iar seara, plajele oferă un spectacol dramatic sub cerul plumburiu.",
+            "en": "Paimpol in the rain offers a unique, atmospheric experience with its mist-covered harbor. Start your morning under the shelter of historical buildings at Place du Martray. At noon, the Sea Museum provides the perfect dry refuge from the downpour. Spend your afternoon walking along the docks with a sturdy umbrella, and conclude your evening at the beaches, where the rain meets the surf."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Martray",
+                "hu": "Place du Martray",
+                "ro": "Place du Martray",
+                "en": "Place du Martray"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Hauseingänge der historischen Fachwerkhäuser als natürlichen Regenschutz und bewundern Sie die glänzenden Fassaden.",
+                "hu": "Használja a történelmi favázas házak mély bejáratait természetes esővédőként, és csodálja meg a vizesen csillogó homlokzatokat.",
+                "ro": "Folosiți intrările adânci ale caselor istorice cu structură din lemn ca adăpost natural și admirați fațadele strălucind în ploaie.",
+                "en": "Use the deep doorways of the historical half-timbered houses as natural rain shelter while admiring the glistening wet facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieille Tour",
+                "hu": "Vieille Tour",
+                "ro": "Vieille Tour",
+                "en": "Vieille Tour"
+              },
+              "tip_5lang": {
+                "de": "Der alte Turm wirkt bei Regen besonders dramatisch; tragen Sie rutschfeste Schuhe, da das umliegende Kopfsteinpflaster bei Nässe sehr glatt ist.",
+                "hu": "Az öreg torony esőben különösen drámai látványt nyújt; viseljen csúszásmentes cipőt, mert a vizes macskakő ilyenkor nagyon csúszós.",
+                "ro": "Vechiul turn pare deosebit de dramatic în ploaie; purtați încălțăminte aderentă, deoarece pavajul din jur devine foarte alunecos la umezeală.",
+                "en": "The old tower looks particularly dramatic in the rain; wear non-slip shoes as the surrounding cobblestones become very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Sea Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um dem Regen zu entkommen; nehmen Sie sich Zeit für die Exponate über die Islandfischerei im trockenen Innenraum.",
+                "hu": "Ez a legjobb hely az eső elől való menekülésre; szánjon időt az izlandi halászatról szóló kiállításokra a száraz, fedett belső térben.",
+                "ro": "Acesta este cel mai bun loc pentru a scăpa de ploaie; acordați timp exponatelor despre pescuitul în Islanda în interiorul primitor.",
+                "en": "This is the best place to escape the rain; take your time exploring the exhibits about Iceland fishing in the dry indoor galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paimpol",
+                "hu": "Paimpol kikötője",
+                "ro": "Portul Paimpol",
+                "en": "Port of Paimpol"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Einlaufen der Fischerboote vom Schutz der umliegenden Café-Vordächer aus, während der Regen auf das Hafenbecken prasselt.",
+                "hu": "Figyelje a halászhajók érkezését a környékbeli kávézók előtetői alól, miközben az eső kopog a kikötő vizén.",
+                "ro": "Urmăriți bărcile de pescuit intrând în port de sub copertinele cafenelelor din jur, în timp ce ploaia cade peste bazinul portuar.",
+                "en": "Watch the fishing boats arrive from the shelter of nearby café awnings while the rain drums on the harbor's surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Four à Chaux",
+                "hu": "Plage du Four à Chaux",
+                "ro": "Plage du Four à Chaux",
+                "en": "Plage du Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, stürmischer Strandbesuch lohnt sich für die frische Meeresluft; eine wind- und wasserfeste Jacke ist hier absolut unerlässlich.",
+                "hu": "Egy rövid, szeles tengerparti séta megéri a friss levegőért; egy szél- és vízálló dzseki itt elengedhetetlen a túrázáshoz.",
+                "ro": "O vizită scurtă pe plajă merită pentru aerul curat de mare; o jachetă rezistentă la vânt și apă este absolut esențială aici.",
+                "en": "A short, bracing beach visit is worth it for the fresh sea air; a windproof and waterproof jacket is absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Tossen",
+                "hu": "Plage de la Tossen",
+                "ro": "Plage de la Tossen",
+                "en": "Plage de la Tossen"
+              },
+              "tip_5lang": {
+                "de": "Die Meereslagune bietet auch bei Regen einen ruhigen Anblick; halten Sie sich am Rand auf, da der Sand bei Nässe schwer begehbar ist.",
+                "hu": "A tengeri lagúna esőben is nyugodt látványt nyújt; maradjon a szélén, mert a nedves homokban ilyenkor nehézkes a közlekedés.",
+                "ro": "Laguna marină oferă o priveliște liniștită chiar și în ploaie; rămâneți la marginea ei, deoarece nisipul ud este greu de parcurs.",
+                "en": "The sea lagoon offers a peaceful view even in the rain; stay on the edge as the wet sand can be difficult to walk on."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Keirdreiz",
+                "hu": "Plage de Keirdreiz",
+                "ro": "Plage de Keirdreiz",
+                "en": "Plage de Keirdreiz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Brandung aus sicherer Entfernung; bei Regen sind die Felsübergänge extrem rutschig, bleiben Sie auf dem Hauptweg.",
+                "hu": "Élvezze a haragos hullámokat biztonságos távolságból; esőben a sziklás átjárók rendkívül csúszósak, maradjon a főútvonalon.",
+                "ro": "Bucurați-vă de valurile puternice de la o distanță sigură; în ploaie, pasajele stâncoase sunt extrem de alunecoase, rămâneți pe drum.",
+                "en": "Enjoy the rough surf from a safe distance; in the rain, the rocky passages are extremely slippery, so stay on the main path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Paimpol ist klar, windig und wunderbar ruhig. Starten Sie morgens dick eingepackt im historischen Zentrum. Mittags wärmen Sie sich im Meeresmuseum auf, bevor die tiefstehende Sonne den Hafen in goldenes Licht taucht. Beachten Sie, dass es gegen 17:00 Uhr dunkel wird. Nutzen Sie die Dämmerung für einen kurzen, erfrischenden Strandspaziergang, bevor Sie in ein warmes Lokal einkehren.",
+            "hu": "Paimpol télen csendes és frissítő, a tengeri szél ilyenkor mutatja meg igazi erejét. Kezdje a reggelt rétegesen öltözve az óvárosban. Délben melegedjen fel a Tengerészeti Múzeumban, majd élvezze a kikötő aranyló fényeit a korai naplementében. Mivel 17:00 körül sötétedik, a tengerparti sétákat érdemes kora délutánra időzíteni a biztonság és a látvány miatt.",
+            "ro": "Iarna în Paimpol este clară, vântoasă și minunat de liniștită. Începeți dimineața bine înfofoliți în centrul istoric. La prânz, încălziți-vă în Muzeul Mării înainte ca soarele să scalde portul în lumină aurie. Rețineți că se întunecă în jurul orei 17:00, așa că profitați de amurg pentru o plimbare scurtă pe plajă înainte de seară.",
+            "en": "Winter in Paimpol is crisp, windy, and wonderfully peaceful. Start your morning warmly dressed in the historical center. At noon, warm up in the Sea Museum before the low sun bathes the harbor in golden light. Keep in mind that sunset is around 17:00, so use the twilight for a refreshing beach walk before finding a cozy spot indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Martray",
+                "hu": "Place du Martray",
+                "ro": "Place du Martray",
+                "en": "Place du Martray"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft lässt die historischen Details schärfer hervortreten; tragen Sie unbedingt Handschuhe für längeres Fotografieren.",
+                "hu": "A hideg téli levegőben élesebben kirajzolódnak a történelmi részletek; fotózáshoz feltétlenül vigyen magával kesztyűt.",
+                "ro": "Aerul rece de iarnă scoate în evidență detaliile istorice; purtați neapărat mănuși dacă intenționați să faceți multe fotografii.",
+                "en": "The cold winter air makes the historical details stand out sharply; be sure to wear gloves if you plan on taking many photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieille Tour",
+                "hu": "Vieille Tour",
+                "ro": "Vieille Tour",
+                "en": "Vieille Tour"
+              },
+              "tip_5lang": {
+                "de": "Die alte Ruine wirkt im fahlen Winterlicht besonders erhaben; achten Sie auf den kalten Luftzug, der oft durch die Gassen weht.",
+                "hu": "Az öreg rom a sápadt téli fényben különösen fenséges; ügyeljen a hideg huzatra, amely gyakran végigsöpör a szűk utcákon.",
+                "ro": "Vechea ruină pare maiestuoasă în lumina palidă a iernii; aveți grijă la curentul rece care suflă adesea prin străduțe.",
+                "en": "The old ruin looks particularly majestic in the pale winter light; watch out for the cold draft that often sweeps through the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Sea Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen und die beheizten Ausstellungsräume ausgiebig zu erkunden.",
+                "hu": "Ideális hely a séták közötti felmelegedésre; fedezze fel alaposan a fűtött kiállítótermeket a téli hideg elől menekülve.",
+                "ro": "Un loc ideal pentru a vă încălzi între plimbări și pentru a explora pe îndelete sălile de expoziție bine încălzite.",
+                "en": "An ideal place to warm up between walks; take your time exploring the heated exhibition rooms away from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paimpol",
+                "hu": "Paimpol kikötője",
+                "ro": "Portul Paimpol",
+                "en": "Port of Paimpol"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne spiegelt sich wunderschön im Hafenbecken; genießen Sie den Anblick, bevor es um 17:00 Uhr dunkel wird.",
+                "hu": "Az alacsonyan járó téli nap gyönyörűen tükröződik a kikötő vizén; élvezze a látványt, mielőtt 17:00-kor leszáll az est.",
+                "ro": "Soarele jos de iarnă se reflectă superb în bazinul portuar; bucurați-vă de priveliște înainte de lăsarea întunericului la ora 17:00.",
+                "en": "The low winter sun reflects beautifully in the harbor basin; enjoy the view before darkness falls around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Four à Chaux",
+                "hu": "Plage du Four à Chaux",
+                "ro": "Plage du Four à Chaux",
+                "en": "Plage du Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersee ist oft aufgewühlt und bietet ein tolles Naturschauspiel; ein Wollschal schützt Sie vor dem beißenden Seewind.",
+                "hu": "A téli tenger gyakran viharos, ami lenyűgöző látványt nyújt; egy gyapjúsál megvédi Önt a metsző tengeri széltől.",
+                "ro": "Marea de iarnă este adesea agitată, oferind un spectacol natural; un fular de lână vă va proteja de vântul tăios al mării.",
+                "en": "The winter sea is often choppy, providing a great natural spectacle; a wool scarf will protect you from the biting sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Tossen",
+                "hu": "Plage de la Tossen",
+                "ro": "Plage de la Tossen",
+                "en": "Plage de la Tossen"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune ist im Winter fast menschenleer und sehr friedlich; ideal für meditative Momente, solange es noch hell ist.",
+                "hu": "A lagúna télen szinte teljesen néptelen és nagyon békés; ideális a meditatív percekhez, amíg még világos van.",
+                "ro": "Laguna este aproape pustie iarna și foarte liniștită; ideală pentru momente de meditație cât timp mai este lumină afară.",
+                "en": "The lagoon is almost deserted in winter and very peaceful; ideal for meditative moments as long as it is still daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Keirdreiz",
+                "hu": "Plage de Keirdreiz",
+                "ro": "Plage de Keirdreiz",
+                "en": "Plage de Keirdreiz"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie hier den Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine Taschenlampe für den Rückweg in der frühen Dunkelheit mit.",
+                "hu": "Élje át itt a naplementét 17:00 körül; vigyen magával zseblámpát a visszaúthoz a korán leszálló sötétségben.",
+                "ro": "Experimentați apusul aici în jurul orei 17:00; aduceți o lanternă pentru drumul de întoarcere în întunericul timpuriu.",
+                "en": "Experience the sunset here around 17:00; bring a flashlight for the walk back in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "A kerékpártúra a Place du Martray központjából indul, mielőtt kényelmesen legurulna a történelmi kikötőbe. Innen egyenesen a tengerpartra tekerünk a békés Plage de la Tossen felé.\n\nDélben tekerjen el a Pointe de Guilben hegyfokhoz, ahol pazar tengeri kilátás várja. Ezután a Keirdreiz és Cruckin strandok tökéletes megállót kínálnak egy kényelmes piknikhez.\n\nDélután érkezik meg a fenséges Beauport apátsághoz. Ez a közvetlenül a vízparton álló történelmi kolostoregyüttes egy lenyűgöző időutazásra hív a középkori Bretagne misztikus világába.\n\nAz estét a központban található, izgalmas Tengerészeti Múzeumban töltheti. Zárja a napot egy ízletes breton vacsorával a kivilágított kikötő körüli varázslatos, macskaköves utcákon.",
         "ro": "Turul pe bicicletă începe din centrul Place du Martray, înainte de a pedala ușor spre portul istoric. De acolo, vă îndreptați direct spre coasta relaxantă la Plage de la Tossen.\n\nLa prânz, pedalați spre promontoriul Pointe de Guilben pentru priveliști panoramice uimitoare. Apoi, plajele Keirdreiz și Cruckin oferă opriri perfecte pentru un picnic relaxant.\n\nDupă-amiaza veți ajunge la maiestuoasa Abație Beauport. Acest complex istoric situat chiar pe malul apei vă invită într-o călătorie fascinantă în timpul Bretaniei medievale.\n\nPetreceți seara la fascinantul Muzeu al Mării din centru. Încheiați turul cu o cină bretonă delicioasă pe străduțele pietruite din jurul portului frumos iluminat și liniștit.",
         "en": "The bike tour starts in the center at Place du Martray, before smoothly rolling down to the historic harbor. From there, you head directly to the relaxed coast at Plage de la Tossen.\n\nAt midday, cycle to the Pointe de Guilben headland for sweeping panoramic sea views. Afterwards, the Keirdreiz and Cruckin beaches offer perfect stopping points for a scenic picnic.\n\nIn the afternoon, arrive at the majestic Beauport Abbey. This historical monastic complex situated right on the water perfectly invites you on a journey into medieval Brittany.\n\nSpend the evening at the fascinating Sea Museum in the center. Conclude your tour with a delicious Breton dinner in the cobblestone alleys surrounding the beautifully illuminated harbor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Paimpol bei Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive. Starten Sie morgens vorsichtig auf dem nassen Kopfsteinpflaster am Markt. Mittags erreichen Sie den Hafen, wo Sie unter den Überdachungen pausieren können. Die Fahrt zur Pointe de Guilben ist windig und feucht, bietet aber dramatische Ausblicke. Wärmen Sie sich nachmittags in der Abtei Beauport auf.",
+            "hu": "A kerékpározás esőben Paimpol környékén óvatosságot igényel, de frissítő élményt ad. Kezdje a reggelt lassan a nedves macskaköveken. Délben a kikötőben tartson szünetet a fedett teraszok alatt. A Guilben-fokhoz vezető út szeles és vizes lesz, de a látvány kárpótolja. Délután keressen menedéket a Beauport apátság falai között, majd zárja a napot a múzeumban.",
+            "ro": "Ciclismul în Paimpol pe ploaie necesită prudență, dar oferă o perspectivă revigorantă. Începeți dimineața cu atenție pe pavajul umed. La prânz ajungeți în port, unde puteți face o pauză sub copertine. Drumul spre Pointe de Guilben va fi vântos, dar oferă priveliști dramatice. După-amiaza, încălziți-vă la Abația Beauport înainte de a vizita muzeul.",
+            "en": "Cycling in Paimpol during rain requires caution but offers a refreshing perspective. Start your morning carefully on the wet cobblestones at the market. At noon, reach the harbor and take cover under the awnings. The ride to Pointe de Guilben will be windy and damp but offers dramatic coastal views. Warm up in the afternoon at Beauport Abbey before finishing at the museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Martray",
+                "hu": "Place du Martray",
+                "ro": "Place du Martray",
+                "en": "Place du Martray"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; das nasse Kopfsteinpflaster im Stadtzentrum kann für Fahrräder sehr tückisch sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a városközpont nedves macskaköves utcái nagyon csalókák lehetnek kerékpárral.",
+                "ro": "Verificați frânele înainte de pornire; pavajul umed din centrul orașului poate fi foarte înșelător pentru biciclete.",
+                "en": "Check your brakes before starting; the wet cobblestones in the town center can be very treacherous for bicycles."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paimpol",
+                "hu": "Paimpol kikötője",
+                "ro": "Portul Paimpol",
+                "en": "Port of Paimpol"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem trockenen Ort und genießen Sie einen heißen Tee in einem der Cafés mit Blick auf die Schiffe.",
+                "hu": "Parkolja le kerékpárját egy száraz helyen, és élvezzen egy forró teát az egyik kávézóban, ahonnan rálátni a hajókra.",
+                "ro": "Parcați bicicleta într-un loc uscat și savurați un ceai fierbinte la una dintre cafenelele cu vedere spre bărci.",
+                "en": "Park your bike in a dry spot and enjoy a hot tea at one of the cafes overlooking the boats while the rain falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Tossen",
+                "hu": "Plage de la Tossen",
+                "ro": "Plage de la Tossen",
+                "en": "Plage de la Tossen"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Küstenweg; der Untergrund kann durch aufgeweichten Schlamm rutschig werden, tragen Sie Regenschutz.",
+                "hu": "Haladjon lassan a parti úton; a talaj a felázott sár miatt csúszós lehet, feltétlenül viseljen vízálló öltözetet.",
+                "ro": "Mergeți încet pe drumul de coastă; solul poate deveni alunecos din cauza noroiului, purtați protecție împotriva ploii.",
+                "en": "Ride slowly on the coastal path; the ground can become slippery due to mud, so be sure to wear waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Guilben",
+                "hu": "Pointe de Guilben",
+                "ro": "Pointe de Guilben",
+                "en": "Pointe de Guilben"
+              },
+              "tip_5lang": {
+                "de": "An der Landspitze ist der Wind oft stark; halten Sie Ihr Rad gut fest und genießen Sie die Gischt der brechenden Wellen.",
+                "hu": "A foknál gyakran erős a szél; fogja erősen a kormányt, és élvezze a partot ostromló hullámok permetét.",
+                "ro": "La promontoriu vântul este adesea puternic; țineți bine de ghidon și bucurați-vă de spuma valurilor care se sparg.",
+                "en": "The wind is often strong at the point; hold your handlebars firmly and enjoy the spray from the breaking waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Keirdreiz",
+                "hu": "Plage de Keirdreiz",
+                "ro": "Plage de Keirdreiz",
+                "en": "Plage de Keirdreiz"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die direkten Uferpfade; der Hauptweg ist sicherer und bietet trotzdem eine gute Sicht auf das Meer.",
+                "hu": "Heves esőben kerülje a közvetlen parti ösvényeket; a főút biztonságosabb és továbbra is jó kilátást nyújt a tengerre.",
+                "ro": "Evitați potecile directe de pe țărm în timpul ploii abundente; drumul principal este mai sigur și oferă o vedere bună la mare.",
+                "en": "Avoid the direct shore paths during heavy rain; the main road is safer and still provides a good view of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Cruckin",
+                "hu": "Plage du Cruckin",
+                "ro": "Plage du Cruckin",
+                "en": "Plage du Cruckin"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Seeluft ist hier besonders intensiv; achten Sie auf Pfützen auf dem Radweg, die tiefer sein können als sie scheinen.",
+                "hu": "A nedves tengeri levegő itt különösen intenzív; ügyeljen a kerékpárúton lévő tócsákra, amelyek mélyebbek lehetnek a látszatnál.",
+                "ro": "Aerul umed al mării este deosebit de intens aici; atenție la bălțile de pe pista de biciclete, pot fi mai adânci decât par.",
+                "en": "The moist sea air is particularly intense here; watch out for puddles on the bike path that might be deeper than they look."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Beauport",
+                "hu": "Beauport apátság",
+                "ro": "Abația Beauport",
+                "en": "Beauport Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gemäuer bieten guten Schutz; nutzen Sie den Besuch, um die Kleidung zu trocknen und die Atmosphäre zu genießen.",
+                "hu": "A történelmi falak jó védelmet nyújtanak; használja ki a látogatást a ruhák megszárítására és a hangulat élvezetére.",
+                "ro": "Zidurile istorice oferă o protecție bună; profitați de vizită pentru a vă usca hainele și pentru a savura atmosfera.",
+                "en": "The historical walls provide good shelter; use the visit to dry your clothes and enjoy the ancient atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Sea Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfektes Ziel, um den Tag im Trockenen ausklingen zu lassen; parken Sie das Rad sicher und wärmen Sie sich auf.",
+                "hu": "Tökéletes célpont a nap szárazon való befejezéséhez; parkolja le biztonságosan a biciklit, és melegedjen fel bent.",
+                "ro": "O destinație perfectă pentru a încheia ziua la adăpost; parcați bicicleta în siguranță și încălziți-vă în interior.",
+                "en": "A perfect destination to end the day in the dry; park your bike securely and warm up inside the museum."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Paimpol bietet klare Luft und leere Wege. Beginnen Sie morgens gut isoliert am Place du Martray. Mittags erreichen Sie den Hafen, bevor Sie zur windigen Pointe de Guilben aufbrechen. Beachten Sie den Sonnenuntergang um 17:00 Uhr; planen Sie den Besuch der Abtei Beauport und des Meeresmuseums für den späten Nachmittag ein, um die Kälte und Dunkelheit zu meiden.",
+            "hu": "A téli kerékpározás Paimpolban tiszta levegőt és néptelen utakat kínál. Kezdje a reggelt alaposan felöltözve a Martray téren. Délben tekerjen a kikötőbe, majd irány a Guilben-fok, ahol felerősödhet a szél. Mivel 17:00-kor sötétedik, az apátság és a múzeum látogatását hagyja a késő délutánra, hogy elkerülje a kinti fagyos sötétséget.",
+            "ro": "Ciclismul de iarnă în Paimpol oferă aer curat și drumuri libere. Începeți dimineața bine izolați termic în Place du Martray. La prânz ajungeți în port înainte de a porni spre Pointe de Guilben. Rețineți că soarele apune la ora 17:00; planificați vizita la Abația Beauport și Muzeul Mării pentru după-amiaza târzie.",
+            "en": "Winter cycling in Paimpol offers crisp air and deserted paths. Start your morning well-insulated at Place du Martray. Reach the harbor at noon before heading to the windy Pointe de Guilben. Be mindful of the 17:00 sunset; schedule your visits to Beauport Abbey and the Sea Museum for the late afternoon to avoid the biting cold and darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Martray",
+                "hu": "Place du Martray",
+                "ro": "Place du Martray",
+                "en": "Place du Martray"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten und winddichte Handschuhe, da der Fahrtwind bei winterlichen Temperaturen sehr auskühlt.",
+                "hu": "Viseljen több réteget és szélálló kesztyűt, mert a menetszél téli hőmérsékleten nagyon lehűtheti a testet.",
+                "ro": "Purtați mai multe straturi și mănuși rezistente la vânt, deoarece curentul de aer la temperaturi de iarnă vă poate răci rapid.",
+                "en": "Wear multiple layers and windproof gloves, as the wind chill while cycling in winter temperatures can be very cooling."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paimpol",
+                "hu": "Paimpol kikötője",
+                "ro": "Portul Paimpol",
+                "en": "Port of Paimpol"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter sehr ruhig; nutzen Sie die klare Sicht für Fotos der Boote im hellen Vormittagslicht.",
+                "hu": "A kikötő télen nagyon csendes; használja ki a tiszta látási viszonyokat a hajók fotózásához a délelőtti fényben.",
+                "ro": "Portul este foarte liniștit iarna; profitați de vizibilitatea clară pentru fotografii cu bărcile în lumina dimineții.",
+                "en": "The harbor is very quiet in winter; take advantage of the clear visibility for photos of the boats in the bright morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Tossen",
+                "hu": "Plage de la Tossen",
+                "ro": "Plage de la Tossen",
+                "en": "Plage de la Tossen"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt im Winter fast surreal; achten Sie auf gefrorene Stellen auf dem Radweg in schattigen Bereichen.",
+                "hu": "A lagúna télen szinte szürreális látvány; ügyeljen a kerékpárút fagyott foltjaira az árnyékos részeken.",
+                "ro": "Laguna pare aproape ireală iarna; atenție la porțiunile înghețate de pe pista de biciclete în zonele umbrite.",
+                "en": "The lagoon looks almost surreal in winter; watch out for frozen patches on the bike path in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Guilben",
+                "hu": "Pointe de Guilben",
+                "ro": "Pointe de Guilben",
+                "en": "Pointe de Guilben"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Seewind kann hier extrem beißen; eine Gesichtsmaske oder ein hoher Kragen sind für Radfahrer sehr hilfreich.",
+                "hu": "A téli tengeri szél itt rendkívül metsző lehet; egy arcmaszk vagy magas gallér sokat segíthet a kerékpárosoknak.",
+                "ro": "Vântul marin de iarnă poate fi extrem de tăios aici; o mască facială sau un guler înalt sunt foarte utile pentru bicicliști.",
+                "en": "The winter sea wind can be extremely biting here; a face mask or a high collar is very helpful for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Keirdreiz",
+                "hu": "Plage de Keirdreiz",
+                "ro": "Plage de Keirdreiz",
+                "en": "Plage de Keirdreiz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand, aber behalten Sie die Zeit im Auge; das Tageslicht schwindet im Winter sehr schnell.",
+                "hu": "Élvezze a magányt a tengerparton, de ügyeljen az időre; a nappali fény télen nagyon gyorsan elenyészik.",
+                "ro": "Bucurați-vă de singurătatea de pe plajă, dar supravegheați timpul; lumina zilei dispare foarte repede iarna.",
+                "en": "Enjoy the solitude on the beach, but keep an eye on the time; daylight fades very quickly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Cruckin",
+                "hu": "Plage du Cruckin",
+                "ro": "Plage du Cruckin",
+                "en": "Plage du Cruckin"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Radfahren blenden; bringen Sie eine Sonnenbrille mit, auch wenn es kalt ist.",
+                "hu": "Az alacsonyan járó nap elvakíthat kerékpározás közben; vigyen napszemüveget, még ha hideg is van.",
+                "ro": "Soarele jos vă poate orbi în timp ce pedalați; aduceți ochelari de soare, chiar dacă este frig afară.",
+                "en": "The low sun can be blinding while cycling; bring sunglasses even if it is cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Beauport",
+                "hu": "Beauport apátság",
+                "ro": "Abația Beauport",
+                "en": "Beauport Abbey"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am späten Nachmittag ist stimmungsvoll; die Mauern speichern etwas Tageswärme und bieten Schutz vor dem Wind.",
+                "hu": "A késő délutáni látogatás hangulatos; a falak megőriznek valamennyit a nappali melegből és védelmet nyújtanak a szél ellen.",
+                "ro": "O vizită după-amiaza târziu este plină de atmosferă; zidurile păstrează puțin din căldura zilei și oferă adăpost contra vântului.",
+                "en": "A late afternoon visit is atmospheric; the walls retain some daytime warmth and provide protection from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Sea Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier, wenn es um 17:00 Uhr dunkel wird; im Museum ist es warm und hell, perfekt für den Abschluss.",
+                "hu": "Fejezze be itt a túrát, amikor 17:00-kor sötétedik; a múzeumban meleg és világos van, tökéletes a nap zárásához.",
+                "ro": "Încheiați turul aici când se întunecă la ora 17:00; în muzeu este cald și lumină, perfect pentru finalul zilei.",
+                "en": "End your tour here when it gets dark at 17:00; the museum is warm and bright, perfect for concluding the day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -606,6 +1070,280 @@
         "hu": "Autós utazása látványosan kezdődik a tengerparti Beauport apátságnál, a gótika mesterművénél. Ezután hajtson a közeli Plage du Cruckin homokos partjára egy frissítő reggeli sétára.\n\nDél körül a drámai Pointe de Guilben felé veszi az irányt, mielőtt megpihenne a Plage de Keirdreiz partján. Ezután térjen vissza a nyüzsgő központba, a híres Place du Martray-re.\n\nA délután az óváros régi toronyromjához és a Tengerészeti Múzeum gazdag történelmébe vezeti Önt. Paimpol tengerészhagyatékának varázsa itt elevenedik meg a leginkább a látogatóknak.\n\nHagyja hátra az autót, és fedezze fel a kikötőt szürkületkor. A nagy fináléhoz hajtson fel a Grèves de Kerroc'h vad szikláihoz, amelyek a létező legtökéletesebb naplementét kínálják.",
         "ro": "Călătoria cu mașina începe spectaculos la Abația Beauport, o capodoperă gotică la mare. Apoi, conduceți la plaja din apropiere, Cruckin, pentru o plimbare revigorantă de dimineață.\n\nÎn jurul prânzului, mergeți spre dramatica Pointe de Guilben, înainte de a vă relaxa la Plage de Keirdreiz. Apoi, întoarceți-vă în centrul orașului spre animata Place du Martray.\n\nDupă-amiaza vă poartă în orașul vechi la ruinele turnului și adânc în istoria maritimă la Muzeul Mării. Patrimoniul marin al Paimpolului prinde viață aici într-un mod impresionant.\n\nLăsați mașina și explorați portul în amurg. Pentru marele final, conduceți la Grèves de Kerroc'h, unde stâncile sălbatice accidentate oferă cel mai spectaculos apus de soare posibil.",
         "en": "Your car trip starts spectacularly at Beauport Abbey, a gothic masterpiece by the sea. Next, drive over to the nearby Plage du Cruckin for a refreshingly brisk morning walk.\n\nAround midday, head to the dramatic Pointe de Guilben before relaxing beautifully at Plage de Keirdreiz. Afterwards, return into the bustling town center towards Place du Martray.\n\nThe afternoon takes you to the old town's tower ruins and deep into maritime history at the Sea Museum. Paimpol's seafaring heritage truly comes alive here in a spectacular fashion.\n\nLeave the car and explore the harbor at twilight. For the grand finale, drive up to the untamed Grèves de Kerroc'h, where wild cliffs offer the most spectacular sunset imaginable."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Paimpol auch bei starkem Regen komfortabel zu erkunden. Beginnen Sie morgens trocken bei der Abtei Beauport. Mittags nutzen Sie den Wagen, um schnell zwischen den Aussichtspunkten wie Pointe de Guilben zu wechseln. Den Nachmittag verbringen Sie im Meeresmuseum oder im historischen Zentrum. Der Regen verleiht dem Hafen abends eine romantische, fast melancholische Note.",
+            "hu": "Autóval Paimpol még heves esőzés idején is kényelmesen felfedezhető. Kezdje a reggelt szárazon a Beauport apátságnál. Délben használja a kocsit, hogy gyorsan váltson a kilátópontok, például a Guilben-fok között. A délutánt töltse a Tengerészeti Múzeumban vagy az óvárosban. Az eső este romantikus, szinte melankolikus hangulatot kölcsönöz a kikötőnek.",
+            "ro": "Cu mașina, Paimpol poate fi explorat confortabil chiar și în timpul ploilor abundente. Începeți dimineața la adăpost la Abația Beauport. La prânz, folosiți vehiculul pentru a ajunge rapid la puncte de belvedere precum Pointe de Guilben. Petreceți după-amiaza la Muzeul Mării sau în centrul istoric. Ploaia oferă portului o notă romantică și melancolică seara.",
+            "en": "By car, Paimpol remains comfortable to explore even during heavy rainfall. Start your morning dry at Beauport Abbey. At noon, use the car to move quickly between viewpoints like Pointe de Guilben. Spend the afternoon at the Sea Museum or in the historical center. The rain gives the harbor a romantic, almost melancholic atmosphere in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Beauport",
+                "hu": "Beauport apátság",
+                "ro": "Abația Beauport",
+                "en": "Beauport Abbey"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und flüchten Sie schnell in die überdachten Bereiche der Abtei, wenn ein Schauer niedergeht.",
+                "hu": "Használja a közeli parkolót, és meneküljön gyorsan az apátság fedett területeire, ha elered az eső.",
+                "ro": "Folosiți parcarea din apropiere și refugiați-vă rapid în zonele acoperite ale abației dacă începe o aversă.",
+                "en": "Use the nearby parking lot and quickly head to the covered areas of the abbey if a rain shower begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Cruckin",
+                "hu": "Plage du Cruckin",
+                "ro": "Plage du Cruckin",
+                "en": "Plage du Cruckin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt aus dem warmen Auto, wenn der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a viharos tenger látványát közvetlenül a meleg autóból, ha az eső túl heves egy sétához.",
+                "ro": "Bucurați-vă de vederea mării agitate direct din mașina caldă, dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "Enjoy the view of the stormy sea directly from your warm car if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Guilben",
+                "hu": "Pointe de Guilben",
+                "ro": "Pointe de Guilben",
+                "en": "Pointe de Guilben"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht; steigen Sie nur kurz aus, da der Wind den Regen hier waagerecht peitschen kann.",
+                "hu": "A parkolóból nagyszerű a kilátás; csak rövid időre szálljon ki, mert a szél itt vízszintesen hordhatja az esőt.",
+                "ro": "Parcarea oferă o vedere excelentă; coborâți doar scurt timp, deoarece vântul poate purta ploaia orizontal aici.",
+                "en": "The parking lot offers a great view; step out only briefly as the wind can whip the rain horizontally here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Keirdreiz",
+                "hu": "Plage de Keirdreiz",
+                "ro": "Plage de Keirdreiz",
+                "en": "Plage de Keirdreiz"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Fahren auf Aquaplaning; die Küstenstraßen können bei Starkregen schnell unter Wasser stehen.",
+                "hu": "Vezetés közben ügyeljen az aquaplaningre; a parti utak heves esőzéskor gyorsan víz alá kerülhetnek.",
+                "ro": "Atenție la acvaplanare în timp ce conduceți; drumurile de coastă se pot inunda rapid în timpul ploilor torențiale.",
+                "en": "Watch out for aquaplaning while driving; coastal roads can quickly flood during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Martray",
+                "hu": "Place du Martray",
+                "ro": "Place du Martray",
+                "en": "Place du Martray"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Parkhaus oder einen nahen Parkplatz, um die kurzen Wege zwischen den historischen Gebäuden trocken zu halten.",
+                "hu": "Keressen egy közeli parkolót, hogy a történelmi épületek közötti rövid sétákat szárazon tehesse meg.",
+                "ro": "Căutați o parcare apropiată pentru a parcurge drumurile scurte dintre clădirile istorice fără a vă uda prea tare.",
+                "en": "Look for a nearby parking spot to keep the short walks between historical buildings as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieille Tour",
+                "hu": "Vieille Tour",
+                "ro": "Vieille Tour",
+                "en": "Vieille Tour"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für den kurzen Weg vom Auto zum Turm unerlässlich; das alte Gestein wirkt bei Nässe sehr atmosphärisch.",
+                "hu": "Egy esernyő elengedhetetlen az autótól a toronyig tartó rövid úthoz; a vizes kövek ilyenkor nagyon hangulatosak.",
+                "ro": "O umbrelă este esențială pentru drumul scurt de la mașină la turn; pietrele vechi par foarte atmosferice când sunt ude.",
+                "en": "An umbrella is essential for the short walk from the car to the tower; the wet stones look very atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Sea Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp bei Dauerregen; lassen Sie Ihre nassen Jacken im Auto und genießen Sie das Museum in voller Länge.",
+                "hu": "Tökéletes megálló tartós esőben; hagyja a vizes kabátokat a kocsiban, és élvezze kényelmesen a múzeumot.",
+                "ro": "Oprirea perfectă în caz de ploaie continuă; lăsați jachetele ude în mașină și bucurați-vă de muzeu pe îndelete.",
+                "en": "The perfect stop during continuous rain; leave your wet jackets in the car and enjoy the museum in full comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paimpol",
+                "hu": "Paimpol kikötője",
+                "ro": "Portul Paimpol",
+                "en": "Port of Paimpol"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Hafen entlang; die Reflexionen der Lichter auf dem nassen Asphalt sind ein tolles Fotomotiv.",
+                "hu": "Hajtson lassan a kikötő mentén; a vizes aszfalton tükröződő fények kiváló fotótémát szolgáltatnak este.",
+                "ro": "Conduceți încet de-a lungul portului; reflexiile luminilor pe asfaltul ud sunt un motiv fotografic excelent.",
+                "en": "Drive slowly along the harbor; the reflections of the lights on the wet asphalt make for a great photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Grèves de Kerroc'h",
+                "hu": "Grèves de Kerroc'h",
+                "ro": "Grèves de Kerroc'h",
+                "en": "Grèves de Kerroc'h"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet spektakuläre Ausblicke; bleiben Sie bei starkem Wind lieber im Auto und beobachten Sie die Natur.",
+                "hu": "A parti út látványos kilátást kínál; erős szélben inkább maradjon az autóban, és onnan figyelje a természet erejét.",
+                "ro": "Drumul de coastă oferă priveliști spectaculoase; în caz de vânt puternic, rămâneți în mașină și observați natura.",
+                "en": "The coastal road offers spectacular views; in case of strong winds, stay in the car and watch nature's power from safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Paimpol ist gemütlich und aussichtsreich. Starten Sie morgens beheizt bei der Abtei Beauport. Mittags erkunden Sie die Küste, wobei die klare Winterluft für Fernsicht sorgt. Da es um 17:00 Uhr dunkel wird, planen Sie die Stadtbesichtigung und das Museum für den Nachmittag ein. Abends bietet der beleuchtete Hafen vom Wagen aus einen zauberhaften Anblick.",
+            "hu": "A téli autós túra Paimpolban kényelmes és látványos. Kezdje a reggelt a fűtött autóval a Beauport apátságnál. Délben fedezze fel a partvidéket, ahol a tiszta téli levegő nagy látótávolságot biztosít. Mivel 17:00-kor sötétedik, a városnézést és a múzeumot időzítse délutánra. Este a kivilágított kikötő az autóból nézve is varázslatos látvány.",
+            "ro": "Un tur cu mașina iarna prin Paimpol este confortabil și pitoresc. Începeți dimineața în mașina încălzită la Abația Beauport. La prânz explorați coasta, unde aerul clar de iarnă oferă o vizibilitate excelentă. Deoarece se întunecă la ora 17:00, planificați vizitarea orașului și a muzeului pentru după-amiază.",
+            "en": "A winter car tour of Paimpol is cozy and scenic. Start your morning with the heater on at Beauport Abbey. Explore the coast at noon, where the crisp winter air provides excellent visibility. Since it gets dark around 17:00, schedule your town visit and the museum for the afternoon. In the evening, the lit-up harbor looks magical from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Beauport",
+                "hu": "Beauport apátság",
+                "ro": "Abația Beauport",
+                "en": "Beauport Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter oft menschenleer; tragen Sie warme Stiefel, da der Boden in den alten Hallen sehr kalt ist.",
+                "hu": "A romok télen gyakran néptelenek; viseljen meleg bakancsot, mert a régi csarnokok padlója ilyenkor jéghideg.",
+                "ro": "Ruinele sunt adesea pustii iarna; purtați ghete călduroase, deoarece podeaua din vechile săli este foarte rece.",
+                "en": "The ruins are often deserted in winter; wear warm boots as the ground in the ancient halls is very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Cruckin",
+                "hu": "Plage du Cruckin",
+                "ro": "Plage du Cruckin",
+                "en": "Plage du Cruckin"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sicht bis zu den Bréhat-Inseln; nutzen Sie ein Fernglas direkt vom Parkplatz aus.",
+                "hu": "A tiszta téli levegőben akár a Bréhat-szigetekig is ellátni; használjon távcsövet közvetlenül a parkolóból.",
+                "ro": "Aerul clar de iarnă permite vizibilitatea până la insulele Bréhat; folosiți un binoclu direct din parcare.",
+                "en": "The clear winter air allows for views as far as the Bréhat Islands; use binoculars directly from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Guilben",
+                "hu": "Pointe de Guilben",
+                "ro": "Pointe de Guilben",
+                "en": "Pointe de Guilben"
+              },
+              "tip_5lang": {
+                "de": "Passen Sie auf glatte Stellen auf den Zufahrtsstraßen auf; der Seewind kann hier über Nacht für Reifglätte sorgen.",
+                "hu": "Ügyeljen a csúszós szakaszokra a bekötőutakon; a tengeri szél miatt éjszaka könnyen kialakulhat zúzmara a burkolaton.",
+                "ro": "Atenție la porțiunile alunecoase de pe drumurile de acces; vântul marin poate favoriza formarea poleiului peste noapte.",
+                "en": "Watch out for slippery patches on the access roads; the sea wind can cause frost to form on the pavement overnight."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Keirdreiz",
+                "hu": "Plage de Keirdreiz",
+                "ro": "Plage de Keirdreiz",
+                "en": "Plage de Keirdreiz"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Licht hier besonders weich; ideal für Landschaftsfotografie, bevor die Sonne um 17:00 Uhr untergeht.",
+                "hu": "Télen itt különösen lágyak a fények; ideális tájképfotózáshoz, mielőtt a nap 17:00-kor lenyugszik.",
+                "ro": "Iarna, lumina de aici este deosebit de blândă; ideală pentru fotografia de peisaj înainte ca soarele să apună la ora 17:00.",
+                "en": "The light here is particularly soft in winter; ideal for landscape photography before the sun sets around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Martray",
+                "hu": "Place du Martray",
+                "ro": "Place du Martray",
+                "en": "Place du Martray"
+              },
+              "tip_5lang": {
+                "de": "Der historische Markt wirkt im Winter sehr gemütlich; achten Sie beim Parken auf gefrorene Pfützen in den Gassen.",
+                "hu": "A történelmi piac télen nagyon hangulatos; parkoláskor ügyeljen a sikátorokban lévő befagyott tócsákra.",
+                "ro": "Piața istorică pare foarte primitoare iarna; la parcare, atenție la bălțile înghețate din străduțe.",
+                "en": "The historical market feels very cozy in winter; when parking, watch out for frozen puddles in the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieille Tour",
+                "hu": "Vieille Tour",
+                "ro": "Vieille Tour",
+                "en": "Vieille Tour"
+              },
+              "tip_5lang": {
+                "de": "Das Gestein speichert die Kälte; halten Sie den Besuch kurz und kehren Sie schnell in den warmen Wagen zurück.",
+                "hu": "A kövek elraktározzák a hideget; tartsa rövidre a látogatást, és térjen vissza hamar a fűtött autóba.",
+                "ro": "Pietrele rețin frigul; limitați durata vizitei și întoarceți-vă rapid în mașina încălzită.",
+                "en": "The stones retain the cold; keep your visit brief and return quickly to your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Meeresmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Mării",
+                "en": "Sea Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag; nutzen Sie die Wärme des Museums, bis es draußen um 17:00 Uhr dunkel ist.",
+                "hu": "Ideális helyszín késő délutánra; élvezze a múzeum melegét, amíg kint 17:00-kor teljesen besötétedik.",
+                "ro": "Un loc ideal pentru după-amiaza târzie; profitați de căldura muzeului până când se întunecă afară la ora 17:00.",
+                "en": "An ideal location for the late afternoon; enjoy the warmth of the museum until it gets completely dark outside at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Paimpol",
+                "hu": "Paimpol kikötője",
+                "ro": "Portul Paimpol",
+                "en": "Port of Paimpol"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Hafenbeleuchtung nach 17:00 Uhr direkt vom Auto aus, um der Kälte zu entgehen.",
+                "hu": "Élvezze a téli kikötői kivilágítást 17:00 után közvetlenül az autóból, hogy elkerülje a kinti metsző hideget.",
+                "ro": "Bucurați-vă de iluminarea de iarnă a portului după ora 17:00 direct din mașină, pentru a evita frigul.",
+                "en": "Enjoy the winter harbor lighting after 17:00 directly from your car to avoid the biting outside cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Grèves de Kerroc'h",
+                "hu": "Grèves de Kerroc'h",
+                "ro": "Grèves de Kerroc'h",
+                "en": "Grèves de Kerroc'h"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Leuchtturm in der Dämmerung ist magisch; bringen Sie eine Thermoskanne mit warmem Tee für die Fahrt mit.",
+                "hu": "A világítótorony látványa a szürkületben varázslatos; vigyen magával egy termoszt forró teával az útra.",
+                "ro": "Vederea farului în amurg este magică; aduceți un termos cu ceai cald pentru drumul de întoarcere.",
+                "en": "The view of the lighthouse at twilight is magical; bring a thermos with hot tea for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a sétát a Museu do Vinho-ban, és ismerje meg Pico egyedülálló borászati örökségét, majd sétáljon el a Moinho do Saca szélmalomhoz.\n\nÉrkezzen a lenyűgöző Igreja de Santa Maria Madalena templomhoz, majd merüljön el a tengerbiológiában a Museu de Cachalotes e Lulas múzeumban.\n\nA nap aktív részének lezárásaként induljon a part felé, és élvezze a fürdőzést a lenyűgöző, vulkáni kőzetek ölelte Piscinas da Madalena medencékben.\n\nZárja a sétát egy naplementés pillanattal a medencéknél. A fekete bazaltnak csapódó óceáni hullámok tökéletes, békés befejezést nyújtanak.",
         "ro": "Începeți plimbarea la Museu do Vinho pentru a descoperi moștenirea viticolă a insulei Pico, apoi mergeți spre iconica moară Moinho do Saca.\n\nAjungeți la impresionanta biserică Santa Maria Madalena înainte de a explora fascinantul muzeu de biologie marină Museu de Cachalotes e Lulas.\n\nÎncheiați partea activă a zilei îndreptându-vă spre coastă și bucurându-vă de o înot relaxant la uimitoarele piscine vulcanice Piscinas da Madalena.\n\nÎncheiați plimbarea cu un apus lângă piscine. Valurile oceanului care se sparg de bazaltul negru oferă un final perfect și pașnic explorării.",
         "en": "Start your walking tour at the Museu do Vinho to delve into Pico's unique volcanic wine heritage. Then, stroll over to the iconic Moinho do Saca windmill to enjoy its vibrant red contrast against the island landscape.\n\nArrive at the impressive Igreja de Santa Maria Madalena before making your way to the fascinating Museu de Cachalotes e Lulas for an immersion into local marine biology.\n\nWind down the active part of your day by heading towards the coast. Enjoy a leisurely, long afternoon swim at the stunning Piscinas da Madalena, embraced by volcanic rocks.\n\nConclude your walk with a sunset moment near the pools. The rhythmic ocean waves against the black basalt offer a perfect, peaceful end to your Madalena exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Weinmuseum, wo die Ausstellungen perfekt für regnerische Stunden sind. Mittags werfen wir einen schnellen Blick auf die Mühle, wobei wir auf den rutschigen Wegen vorsichtig sind. Der Nachmittag gehört der Kirche und dem Walmuseum, die beide trockene Zufluchtsorte bieten. Den Abend lassen wir an den Pools ausklingen, wo die stürmische See unter dem Regenschirm besonders dramatisch wirkt.",
+            "hu": "A reggel a bormúzeum fedett tereiben indul, ahol a vulkáni borok története tökéletes menedék az eső elől. Délben a szélmalomnál vigyázzunk a csúszós kövekre és a felerősödő szélre. Délután a templom és a bálnamúzeum nyújt biztonságos, száraz programot a záporok idején. Az estét a parti sétányon zárjuk, ahol az esernyő alól figyelhetjük a hullámok látványos játékát a természetes medencéknél.",
+            "ro": "Dimineața începe la adăpost în muzeul vinului, unde expozițiile sunt ideale pentru a evita ploaia de afară. La prânz, vizităm rapid moara, fiind atenți la potecile alunecoase din cauza umidității. După-amiaza este dedicată bisericii și muzeului balenelor, ambele oferind refugiu uscat în timpul averselor. Seara se încheie lângă piscine, unde oceanul agitat oferă un spectacol dramatic privit de sub umbrelă.",
+            "en": "The morning starts indoors at the wine museum, where the exhibits provide a perfect sanctuary from the rain. At noon, we take a quick look at the windmill, being extra careful on the slippery paths. The afternoon is spent exploring the church and the whale museum, both offering dry havens during showers. We end the evening by the pools, where the stormy Atlantic looks particularly dramatic from under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu do Vinho do Pico",
+                "hu": "Museu do Vinho do Pico",
+                "ro": "Museu do Vinho do Pico",
+                "en": "Museu do Vinho do Pico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume des Museums, um die Weingeschichte zu erkunden, während es draußen regnet, und bewundern Sie die Drachenbäume vom Fenster aus.",
+                "hu": "Használja ki a múzeum belső tereit a bortörténet felfedezésére, miközben kint esik, és csodálja meg az óriási sárkányfákat az épület védelméből.",
+                "ro": "Explorați interiorul muzeului pentru a descoperi istoria vinului în timp ce plouă afară și admirați arborii dragoni uriași din protecția clădirii.",
+                "en": "Take advantage of the museum's interior to explore wine history while it rains outside, and admire the giant dragon trees from the safety of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho do Saca",
+                "hu": "Moinho do Saca",
+                "ro": "Moinho do Saca",
+                "en": "Moinho do Saca"
+              },
+              "tip_5lang": {
+                "de": "Die leuchtend rote Mühle ist ein tolles Fotomotiv bei grauem Regenwetter, aber achten Sie auf den rutschigen Untergrund beim Aufstieg zum Eingang.",
+                "hu": "A vörös malom remek fotótéma a szürke esőben is, de ügyeljen a csúszós talajra a bejárat felé vezető úton a felerősödő szélben.",
+                "ro": "Moara roșie este un subiect foto excelent chiar și pe ploaie gri, dar atenție la solul alunecos spre intrare din cauza vântului puternic.",
+                "en": "The red windmill is a great photo subject even in grey rain, but watch out for the slippery ground towards the entrance during strong winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Maria Madalena",
+                "hu": "Igreja de Santa Maria Madalena",
+                "ro": "Igreja de Santa Maria Madalena",
+                "en": "Igreja de Santa Maria Madalena"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche und trockene Atmosphäre; bewundern Sie die Azulejos im Inneren, während Sie auf das Abklingen des Regens warten.",
+                "hu": "A templom békés és száraz menedéket nyújt; csodálja meg a belső azulejo csempéket, miközben várja, hogy alábbhagyjon a kinti zápor.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat; admirați plăcile azulejos din interior în timp ce așteptați să se domolească ploaia de afară.",
+                "en": "The church offers a peaceful and dry sanctuary; admire the interior azulejo tiles while waiting for the rain outside to subside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Cachalotes e Lulas",
+                "hu": "Museu de Cachalotes e Lulas",
+                "ro": "Museu de Cachalotes e Lulas",
+                "en": "Museu de Cachalotes e Lulas"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Museum ist der ideale Ort bei Starkregen, um tief in die Meeresbiologie einzutauchen, ohne nass zu werden; planen Sie mehr Zeit ein.",
+                "hu": "Ez a modern múzeum ideális hely heves esőzéskor a tengerbiológia felfedezésére anélkül, hogy elázna; tervezzen ide hosszabb tartózkodást.",
+                "ro": "Acest muzeu modern este locul ideal pe ploaie torențială pentru a explora biologia marină fără a vă uda; planificați o vizită mai lungă aici.",
+                "en": "This modern museum is the ideal spot during heavy rain to dive into marine biology without getting wet; plan for a longer stay here indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas da Madalena",
+                "hu": "Piscinas da Madalena",
+                "ro": "Piscinas da Madalena",
+                "en": "Piscinas da Madalena"
+              },
+              "tip_5lang": {
+                "de": "Das Schwimmen ist bei Regen und Wellengang gefährlich, aber die Aussicht auf die tobende See von der nahen Überdachung aus ist spektakulär.",
+                "hu": "Az úszás esőben és nagy hullámzásban veszélyes, de a tomboló tenger látványa a közeli fedett részekről nézve egészen lenyűgöző és drámai.",
+                "ro": "Înotul este periculos pe ploaie și valuri mari, dar vederea mării înfuriate de la adăpostul din apropiere este absolut spectaculoasă și dramatică.",
+                "en": "Swimming is dangerous during rain and high waves, but the view of the raging sea from the nearby covered areas is quite spectacular and dramatic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Luft am Weinmuseum besonders frisch. Mittags genießen wir die milde Sonne an der Mühle, bevor wir uns in der Kirche aufwärmen. Am Nachmittag erkunden wir das Walmuseum ausführlich, da es draußen kühler wird. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir die Pools pünktlich zum Dämmerlicht, um die frische Meeresbrise in warmer Kleidung zu genießen.",
+            "hu": "A tiszta téli reggelen a levegő friss a bormúzeumnál, ahol a kert ilyenkor is hangulatos. Délben a szélmalom mellett élvezzük a bágyadt napsütést, majd a templom csendjében melegszünk fel. Délután a bálnamúzeum tartogat izgalmas látnivalót a hűvösödő időben. Mivel 17:00 körül már sötétedik, a medencékhez még szürkületben érünk, hogy réteges öltözetben élvezzük a sós szellőt.",
+            "ro": "Într-o dimineață senină de iarnă, aerul este proaspăt la muzeul vinului. La prânz ne bucurăm de soarele blând la moară, înainte de a ne încălzi în liniștea bisericii. După-amiaza explorăm muzeul balenelor, fiind cald și plăcut în interior. Deoarece soarele apune în jurul orei 17:00, ajungem la piscine în amurg pentru a simți briza sărată, îmbrăcați în straturi groase.",
+            "en": "On a clear winter morning, the air is crisp at the wine museum. At noon, we enjoy the mild sun by the windmill before warming up in the silence of the church. In the afternoon, we explore the whale museum as it gets cooler outside. Since the sun sets around 17:00, we reach the pools in the twilight to enjoy the salty breeze while wearing warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu do Vinho do Pico",
+                "hu": "Museu do Vinho do Pico",
+                "ro": "Museu do Vinho do Pico",
+                "en": "Museu do Vinho do Pico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in den historischen Kellern und tragen Sie eine Jacke für den Spaziergang durch den Garten mit den Drachenbäumen.",
+                "hu": "Élvezze a holtszezon nyugalmát a történelmi pincékben, és viseljen kabátot a sárkányfákkal teli kertben tett séta során a hűvös óceáni szél miatt.",
+                "ro": "Bucurați-vă de liniștea extrasezonului în pivnițele istorice și purtați o jachetă pentru plimbarea prin grădina cu arbori dragoni în briza rece.",
+                "en": "Enjoy the tranquility of the off-season in the historic cellars, and wear a jacket for the walk through the garden of dragon trees in the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho do Saca",
+                "hu": "Moinho do Saca",
+                "ro": "Moinho do Saca",
+                "en": "Moinho do Saca"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet fantastische Kontraste für Fotos der roten Mühle gegen den blauen Himmel; halten Sie den Aufenthalt wegen des Windes kurz.",
+                "hu": "A téli fények fantasztikus kontrasztot adnak a vörös malom fotózásához a kék ég előtt; a metsző szél miatt tartsa rövidre a kinti bámészkodást.",
+                "ro": "Lumina de iarnă oferă un contrast fantastic pentru fotografierea morii roșii pe fundalul cerului albastru; scurtați vizita din cauza vântului rece.",
+                "en": "Winter light provides fantastic contrast for photographing the red mill against the blue sky; keep the stay brief due to the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Maria Madalena",
+                "hu": "Igreja de Santa Maria Madalena",
+                "ro": "Igreja de Santa Maria Madalena",
+                "en": "Igreja de Santa Maria Madalena"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten die Kälte ab; nutzen Sie die Stille für eine besinnliche Pause, bevor Sie den Weg an der Küste fortsetzen.",
+                "hu": "A templom vastag falai távol tartják a kinti hideget; használja ki a csendet egy békés pihenőre, mielőtt folytatná útját a szeles parti sétányon.",
+                "ro": "Zidurile groase ale bisericii țin frigul la distanță; folosiți liniștea pentru o pauză relaxantă înainte de a continua drumul pe faleza vântoasă.",
+                "en": "The church's thick walls keep the cold at bay; use the silence for a peaceful break before continuing your walk along the windy coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Cachalotes e Lulas",
+                "hu": "Museu de Cachalotes e Lulas",
+                "ro": "Museu de Cachalotes e Lulas",
+                "en": "Museu de Cachalotes e Lulas"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das klimatisierte Museum ein angenehmer Rückzugsort; vertiefen Sie Ihr Wissen über die Wale von Pico in gemütlicher Atmosphäre.",
+                "hu": "Télen a klimatizált múzeum kellemes menedék; merüljön el a Pico-szigeti bálnavadászat múltjában a hűvös délutáni órákban a meleg belső terekben.",
+                "ro": "Iarna, muzeul climatizat este un refugiu plăcut; aprofundați istoria vânătorii de balene din Pico în atmosfera caldă din interiorul clădirii.",
+                "en": "In winter, the climate-controlled museum is a pleasant retreat; deepen your knowledge of Pico's whaling history in the warm indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas da Madalena",
+                "hu": "Piscinas da Madalena",
+                "ro": "Piscinas da Madalena",
+                "en": "Piscinas da Madalena"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht gegen 17:00 Uhr unter; genießen Sie das letzte Licht des Tages über dem Meer, aber tragen Sie unbedingt eine winddichte Jacke.",
+                "hu": "A nap 17:00 körül nyugszik; élvezze a nap utolsó fényeit az óceán felett, de feltétlenül viseljen szélálló kabátot a hideg parti fuvallatok ellen.",
+                "ro": "Soarele apune în jurul orei 17:00; bucurați-vă de ultimele lumini ale zilei peste ocean, dar purtați neapărat o jachetă rezistentă la vânt.",
+                "en": "The sun sets around 17:00; enjoy the last lights of the day over the ocean, but be sure to wear a windproof jacket against the cold sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros útját a békés Porto da Formosinha kikötőben, majd tekerjen a hatalmas Museu do Vinho do Pico múzeumba.\n\nTekerjen a központba, hogy megcsodálja az Igreja de Santa Maria Madalena templomot, majd folytassa útját délre a Solar dos Salemas felé.\n\nTekerjen vissza a part mentén a természetes Piscinas da Madalena vulkáni medencékhez egy frissítő csobbanásra és az óceáni panorámára.\n\nFejezze be kerékpáros kalandját az Ilhéu em Pé szikláinál. A meleg naplementi fényben fürdőző álló sziklák felejthetetlen emléket nyújtanak.",
         "ro": "Începeți traseul de ciclism la Porto da Formosinha respirând aerul sărat, apoi pedalați spre muzeul istoric Museu do Vinho do Pico.\n\nPedalați spre centrul orașului pentru a admira biserica istorică, iar apoi continuați spre sud pentru a vedea arhitectura nobilă Solar dos Salemas.\n\nMergeți cu bicicleta de-a lungul coastei spre Piscinas da Madalena pentru o baie revigorantă în piscinele vulcanice naturale.\n\nFinalizați aventura la Ilhéu em Pé. Stâncile dramatice scăldate în lumina caldă a apusului creează o amintire azoreană de neuitat.",
         "en": "Kick off your cycling journey at the peaceful Porto da Formosinha, breathing in the fresh sea air before riding to the expansive Museu do Vinho do Pico to explore island history.\n\nCycle to the town center to admire the historic Igreja de Santa Maria Madalena. Afterward, continue south to view the noble architecture of Solar dos Salemas.\n\nRide back along the coast to the naturally formed Piscinas da Madalena for a refreshing dip in the volcanic rock pools, taking in the grand ocean vistas.\n\nFinish your cycling adventure at Ilhéu em Pé. The dramatic standing rocks bathed in the warm sunset light create an unforgettable Azorean memory."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour vorsichtig am Hafen, wo die Wege bei Nässe rutschig sein können. Das Weinmuseum bietet eine willkommene Pause im Trockenen. Nach der Kirche radeln wir zum historischen Solar, wobei wir Schlaglöcher und Pfützen meiden. Der Nachmittag endet an den Pools und am Ilhéu, wo wir die raue Natur der Azoren in wasserfester Kleidung und mit sicherem Griff am Lenker erleben.",
+            "hu": "Az eső ellenére óvatosan indulunk a kikötőtől, figyelve a vizes aszfalton való tapadásra. A bormúzeum kiváló helyszín egy hosszabb pihenőre, amíg eláll a zápor. A templom után a történelmi Solar felé vesszük az irányt, kerülgetve a tócsákat. A napot a medencéknél és a sziklánál zárjuk, ahol vízálló ruházatban élvezzük a vad óceáni tájat a csúszós parti utakon.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta cu atenție de la port, unde drumurile pot fi alunecoase. Muzeul vinului oferă o pauză binemeritată la uscat. După biserică, pedalăm spre conacul istoric, evitând gropile și bălțile. Ziua se încheie la piscine și la stâncă, unde experimentăm natura sălbatică a Azorelor în haine impermeabile și cu prudență maximă.",
+            "en": "Despite the rain, we start the bike tour carefully from the harbor, watching out for slippery roads. The wine museum provides a welcome dry break. After the church, we cycle towards the historic manor, avoiding puddles and potholes. The day ends at the pools and the islet, where we experience the raw Azorean nature in waterproof gear with a steady grip on the bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto da Formosinha",
+                "hu": "Porto da Formosinha",
+                "ro": "Porto da Formosinha",
+                "en": "Porto da Formosinha"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Losfahren auf die nassen Rampen am Hafen; wasserdichte Packtaschen sind unerlässlich, um Ihre Ausrüstung vor den Güssen zu schützen.",
+                "hu": "Induláskor ügyeljen a kikötő nedves rámpáira; a vízálló kerékpáros táska elengedhetetlen, hogy felszerelése száraz maradjon a hirtelen záporokban.",
+                "ro": "La plecare, atenție la rampele umede din port; gențile de bicicletă impermeabile sunt esențiale pentru a vă proteja echipamentul de aversele bruște.",
+                "en": "When starting, watch out for wet ramps at the harbor; waterproof panniers are essential to keep your gear dry during the sudden Atlantic showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu do Vinho do Pico",
+                "hu": "Museu do Vinho do Pico",
+                "ro": "Museu do Vinho do Pico",
+                "en": "Museu do Vinho do Pico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer und wärmen Sie sich im Museum auf, während Sie die einzigartige Weinbaukultur der Insel im Trockenen studieren.",
+                "hu": "Használja a fedett kerékpártárolót, és melegedjen fel a múzeumban, miközben szárazon tanulmányozza a sziget egyedülálló szőlőtermesztési kultúráját.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete și încălziți-vă în muzeu în timp ce studiați cultura unică a vinului din insulă la adăpost de ploaie.",
+                "en": "Use the covered bike racks and warm up in the museum while studying the island's unique wine-growing culture in a dry and comfortable environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Maria Madalena",
+                "hu": "Igreja de Santa Maria Madalena",
+                "ro": "Igreja de Santa Maria Madalena",
+                "en": "Igreja de Santa Maria Madalena"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Kirchenbesichtigung als Regenpause; die Stille im Inneren lässt Sie das Prasseln draußen kurz vergessen.",
+                "hu": "Támassza le kerékpárját egy védett helyen, és használja a templomlátogatást esőpihenőnek; a benti csend feledteti a kinti barátságtalan időt.",
+                "ro": "Parcați bicicleta la adăpost și folosiți vizita la biserică ca pauză de ploaie; liniștea din interior vă va face să uitați de vremea de afară.",
+                "en": "Park your bike in a sheltered spot and use the church visit as a rain break; the interior silence helps you forget the unfriendly weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Salemas",
+                "hu": "Solar dos Salemas",
+                "ro": "Solar dos Salemas",
+                "en": "Solar dos Salemas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den gepflasterten Wegen zum Anwesen; das historische Gebäude bietet Schutz, falls die Schauer am Nachmittag stärker werden.",
+                "hu": "Óvatosan tekerjen a kúriához vezető köves úton; a történelmi épület jó menedéket nyújt, ha a délutáni záporok intenzívebbé válnának az úton.",
+                "ro": "Pedalați cu prudență pe drumul pietruit spre conac; clădirea istorică oferă un adăpost bun dacă aversele de după-amiază devin mai intense pe drum.",
+                "en": "Cycle carefully on the paved path to the manor; the historic building provides good shelter should the afternoon showers become more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas da Madalena",
+                "hu": "Piscinas da Madalena",
+                "ro": "Piscinas da Madalena",
+                "en": "Piscinas da Madalena"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt um die Pools ist bei Nässe extrem rutschig; genießen Sie die Aussicht vom Rad aus und vermeiden Sie riskante Manöver am Beckenrand.",
+                "hu": "A medencék körüli aszfalt vizesen rendkívül csúúszós; élvezze a kilátást a nyeregből, és kerülje a kockázatos manővereket a medencék szélén.",
+                "ro": "Asfaltul din jurul piscinelor este extrem de alunecos când este ud; bucurați-vă de priveliște din șa și evitați manevrele riscante pe margini.",
+                "en": "The asphalt around the pools is extremely slippery when wet; enjoy the view from your bike and avoid any risky maneuvers near the pool edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilhéu em Pé",
+                "hu": "Ilhéu em Pé",
+                "ro": "Ilhéu em Pé",
+                "en": "Ilhéu em Pé"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die Felsformation wirkt im Regen mystisch, aber halten Sie ausreichend Sicherheitsabstand zur Abbruchkante.",
+                "hu": "Ellenőrizze a fékeket az indulás előtt; a sziklaformáció misztikus az esőben, de tartson biztonságos távolságot a sziklaperemtől a csúszós úton.",
+                "ro": "Verificați frânele înainte de plecare; formațiunea stâncoasă pare mistică pe ploaie, dar păstrați o distanță sigură de marginea stâncii pe drum.",
+                "en": "Check your brakes before setting off; the rock formation looks mystical in the rain, but maintain a safe distance from the cliff edge on wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hafen erfordert Handschuhe und Windschutz beim Radeln. Nach dem wärmenden Besuch im Weinmuseum führt uns die Tour zur Kirche und zum historischen Solar. Die kühle, klare Luft bietet weite Sicht auf den Ozean. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir den Besuch der Pools und des Ilhéu für den frühen Nachmittag, um das goldene Licht vor dem raschen Temperaturabfall zu nutzen.",
+            "hu": "A friss téli reggelen a kikötőnél kesztyűre és szélálló öltözetre lesz szükség a biciklin. A bormúzeumi melegedő után a templom és a Solar felé tekerünk a tiszta, hideg levegőben, ami remek látótávolságot biztosít. Mivel 17:00 körül naplemente van, a medencéket és a sziklát még kora délután keressük fel, hogy elcsípjük az utolsó fényeket a gyors lehűlés előtt.",
+            "ro": "O dimineață răcoroasă de iarnă în port necesită mănuși și protecție împotriva vântului pe bicicletă. După vizita la muzeul vinului, turul continuă spre biserică și conac în aerul rece și curat. Deoarece soarele apune la 17:00, planificăm piscinele și stânca pentru începutul după-amiezii, profitând de lumină înainte de scăderea temperaturii.",
+            "en": "A crisp winter morning at the harbor requires gloves and wind protection while cycling. After a warming visit to the wine museum, the tour leads to the church and the historic manor in the clear air. Since the sun sets at 17:00, we plan the pools and islet for early afternoon to catch the light before the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto da Formosinha",
+                "hu": "Porto da Formosinha",
+                "ro": "Porto da Formosinha",
+                "en": "Porto da Formosinha"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit warmen Schichten, da der Fahrtwind am Meer im Winter schneidend sein kann; genießen Sie die klare Sicht auf die Nachbarinsel Faial.",
+                "hu": "Induljon réteges öltözetben, mert a menetszél a tengerparton télen metsző lehet; élvezze a tiszta kilátást a szomszédos Faial-szigetre a kikötőből.",
+                "ro": "Porniți în straturi groase, deoarece vântul de pe coastă poate fi tăios iarna; bucurați-vă de vizibilitatea clară spre insula vecină Faial din port.",
+                "en": "Start with warm layers as the wind on the coast can be biting in winter; enjoy the exceptionally clear views across to the neighboring Faial island."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu do Vinho do Pico",
+                "hu": "Museu do Vinho do Pico",
+                "ro": "Museu do Vinho do Pico",
+                "en": "Museu do Vinho do Pico"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm ruhig; nutzen Sie die Pause, um die Finger aufzuwärmen und die Architektur der alten Weinkeller zu bewundern.",
+                "hu": "A múzeum télen kellemesen csendes; használja ki a szünetet az ujjai felmelegítésére és a régi borospincék lenyűgöző építészetének megcsodálására.",
+                "ro": "Muzeul este plăcut de liniștit iarna; folosiți pauza pentru a vă încălzi degetele și pentru a admira arhitectura vechilor crame de vin din zonă.",
+                "en": "The museum is pleasantly quiet in winter; use the break to warm up your fingers and admire the impressive architecture of the old wine cellars."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Maria Madalena",
+                "hu": "Igreja de Santa Maria Madalena",
+                "ro": "Igreja de Santa Maria Madalena",
+                "en": "Igreja de Santa Maria Madalena"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort für eine kurze Rast; achten Sie darauf, dass Ihr Körper beim Stehenbleiben nicht zu sehr auskühlt.",
+                "hu": "A templom szélvédett helyet kínál egy rövid pihenőhöz; ügyeljen rá, hogy ne hűljön ki túlságosan a teste, amíg a kerékpározás után megáll pihenni.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru o scurtă odihnă; aveți grijă să nu vă răcească prea tare corpul în timp ce staționați după pedalat.",
+                "en": "The church offers a wind-sheltered spot for a short rest; make sure your body doesn't cool down too much while you stop after cycling here."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Salemas",
+                "hu": "Solar dos Salemas",
+                "ro": "Solar dos Salemas",
+                "en": "Solar dos Salemas"
+              },
+              "tip_5lang": {
+                "de": "Das historische Anwesen wirkt in der tiefstehenden Wintersonne besonders edel; radeln Sie zügig weiter, um vor Einbruch der Dunkelheit am Ziel zu sein.",
+                "hu": "A történelmi birtok az alacsonyan járó téli napfényben különösen nemes látványt nyújt; tekerjen tovább tempósan, hogy sötétedés előtt célba érjen.",
+                "ro": "Conacul istoric arată deosebit de nobil în lumina joasă a soarelui de iarnă; pedalați vioi pentru a ajunge la destinație înainte de lăsarea serii.",
+                "en": "The historic estate looks particularly noble in the low winter sunlight; keep a steady pace to reach your next destination before darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas da Madalena",
+                "hu": "Piscinas da Madalena",
+                "ro": "Piscinas da Madalena",
+                "en": "Piscinas da Madalena"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter zu kalt zum Baden, aber die Gischt ist fotogen; tragen Sie eine Mütze unter dem Helm gegen den kalten Küstenwind.",
+                "hu": "A víz télen túl hideg a fürdéshez, de a felcsapó tajték rendkívül fotogén; viseljen vékony sapkát a sisak alatt a hideg parti szél ellen.",
+                "ro": "Apa este prea rece pentru scăldat iarna, dar spuma valurilor este foarte fotogenică; purtați o căciulă sub cască împotriva vântului rece de coastă.",
+                "en": "The water is too cold for swimming in winter, but the spray is very photogenic; wear a thin cap under your helmet against the cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilhéu em Pé",
+                "hu": "Ilhéu em Pé",
+                "ro": "Ilhéu em Pé",
+                "en": "Ilhéu em Pé"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne gegen 17:00 Uhr verschwindet, sollten Sie dieses Naturwunder im letzten Tageslicht besuchen und Reflektoren am Rad kontrollieren.",
+                "hu": "Mivel a nap 17:00 körül eltűnik, az utolsó fényeknél látogassa meg a sziklát, és ellenőrizze a kerékpárja macskaszemeit a hazafelé úthoz.",
+                "ro": "Deoarece soarele apune pe la 17:00, vizitați stânca în ultima lumină a zilei și verificați catadioptrii bicicletei pentru drumul de întoarcere.",
+                "en": "Since the sun disappears around 17:00, visit the rock in the last daylight and check your bike's reflectors for the ride back in the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje az autózást a távoli Porto da Formosinha-nál, majd haladjon a Museu do Vinho do Pico felé a sziget borászati titkaiért.\n\nHajtson a városba a színes Império és a híres templom felé, nem sokkal később pedig fedezze fel a mélytengeri titkokat a Cachalotes múzeumban.\n\nTegyen egy rövid, festői utat délnyugatra a szépen megőrzött Solar dos Limas felé, amely békés, történelmi menedéket nyújt.\n\nVezessen fel a parton az Ilhéu em Pé-hez egy páratlan naplementéért. A tengeri szikla mögött lebukó nap tökéletes fináléja az útnak.",
         "ro": "Începeți la Porto da Formosinha, apoi conduceți spre Museu do Vinho do Pico pentru a descoperi secretele moștenirii viticole a insulei.\n\nConduceți în oraș pentru a vizita coloratul Império și faimoasa biserică, apoi explorați misterele marine la Museu de Cachalotes.\n\nFaceți o scurtă plimbare pitorească spre sud-vest până la frumos conservatul Solar dos Limas, un refugiu istoric și liniștit.\n\nConduceți pe coastă la Ilhéu em Pé pentru un apus de soare de neegalat. Sfârșitul zilei aici este finalul perfect pentru călătoria cu mașina.",
         "en": "Begin driving at the remote Porto da Formosinha, then cruise over to the Museu do Vinho do Pico to uncover the secrets of the island's celebrated vineyard heritage.\n\nDrive into town to visit the colorful Império and the iconic Igreja de Santa Maria Madalena. Soon after, explore deep sea mysteries at the Museu de Cachalotes e Lulas.\n\nTake a short, scenic drive southwest to the beautifully preserved Solar dos Limas. Here, the magnificent manor house grounds offer a calm, historical retreat.\n\nDrive up the coast to Ilhéu em Pé for an unparalleled sunset. Watching the day end behind this spectacular sea stack is the ultimate finale for your road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für die Tour mit dem Auto, da wir bequem und trocken zwischen den Sehenswürdigkeiten reisen. Wir starten am Hafen und besuchen das Weinmuseum sowie religiöse Stätten wie das Império und die Hauptkirche. Am Nachmittag erkunden wir das Walmuseum und den Solar dos Limas. Den Tag beenden wir sicher im Auto am Ilhéu, während die Scheibenwischer den Blick auf den stürmischen Ozean freihalten.",
+            "hu": "Az esős idő tökéletes az autós városnézéshez, hiszen kényelmesen és szárazon utazhatunk a látnivalók között. A kikötőtől indulva érintjük a bormúzeumot, az Impériót és a főtemplomot. Délután a bálnamúzeum és a Solar dos Limas vár minket. A napot az autónk biztonságából zárjuk a sziklánál, miközben az ablaktörlők mögül figyeljük a viharos óceán és a szürke ég látványát.",
+            "ro": "O zi ploioasă este perfectă pentru turul cu mașina, călătorind confortabil și uscat între obiective. Începem de la port și vizităm muzeul vinului, Império și biserica principală. După-amiaza explorăm muzeul balenelor și conacul Limas. Încheiem ziua în siguranța mașinii la stâncă, în timp ce ștergătoarele ne permit să vedem oceanul agitat și cerul gri de afară.",
+            "en": "A rainy day is perfect for a car tour, as we travel comfortably and dry between the sights. Starting from the harbor, we visit the wine museum, the Império, and the main church. In the afternoon, the whale museum and Solar dos Limas await. We end the day in the safety of our car at the islet, watching the stormy ocean and grey sky through the windshield wipers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto da Formosinha",
+                "hu": "Porto da Formosinha",
+                "ro": "Porto da Formosinha",
+                "en": "Porto da Formosinha"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um die Wellen aus dem Auto zu beobachten; achten Sie beim Aussteigen auf große Pfützen auf dem unebenen Hafengelände.",
+                "hu": "Parkoljon közel a vízhez, hogy az autóból figyelhesse a hullámokat; kiszálláskor ügyeljen a mély tócsákra a kikötő egyenetlen talaján az esőben.",
+                "ro": "Parcați aproape de apă pentru a observa valurile din mașină; la coborâre, atenție la bălțile mari de pe terenul denivelat al portului pe ploaie.",
+                "en": "Park close to the water to observe the waves from your car; when getting out, watch out for large puddles on the harbor's uneven ground in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu do Vinho do Pico",
+                "hu": "Museu do Vinho do Pico",
+                "ro": "Museu do Vinho do Pico",
+                "en": "Museu do Vinho do Pico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang, um schnell ins Trockene zu kommen und die faszinierende Weingeschichte ohne nasse Füße zu erleben.",
+                "hu": "Használja a bejárat melletti parkolót, hogy gyorsan fedett helyre érjen, és fedezze fel a lenyűgöző bortörténetet anélkül, hogy elázna a lába.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a ajunge rapid la adăpost și descoperiți istoria fascinantă a vinului fără a vă uda picioarele pe drum.",
+                "en": "Use the parking lot right next to the entrance to get inside quickly and discover the fascinating wine history without getting your feet wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Império do Divino Espírito Santo das Sete Cidades",
+                "hu": "Império do Divino Espírito Santo das Sete Cidades",
+                "ro": "Império do Divino Espírito Santo das Sete Cidades",
+                "en": "Império do Divino Espírito Santo das Sete Cidades"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohe Fassade leuchtet auch im Regen; machen Sie ein schnelles Foto aus dem Autofenster, bevor Sie die religiöse Bedeutung studieren.",
+                "hu": "A színes homlokzat esőben is ragyog; készítsen egy gyors fotót az autó ablakából, mielőtt röviden megismerné az épület vallási jelentőségét.",
+                "ro": "Fațada colorată strălucește chiar și pe ploaie; faceți o fotografie rapidă de la geamul mașinii înainte de a afla semnificația religioasă a locului.",
+                "en": "The colorful facade glows even in the rain; take a quick photo from the car window before briefly learning about the building's religious significance."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Maria Madalena",
+                "hu": "Igreja de Santa Maria Madalena",
+                "ro": "Igreja de Santa Maria Madalena",
+                "en": "Igreja de Santa Maria Madalena"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie in den umliegenden Straßen; die Kirche ist ein idealer, ruhiger Rückzugsort, während draußen ein heftiger Schauer niedergeht.",
+                "hu": "A környező utcákban könnyen talál parkolót; a templom ideális, csendes menedék, amíg kint éppen egy hevesebb zápor vonul át a város felett.",
+                "ro": "Găsiți locuri de parcare pe străzile din jur; biserica este un refugiu ideal și liniștit în timp ce afară trece o aversă mai puternică de ploaie.",
+                "en": "Find parking in the surrounding streets; the church is an ideal, quiet sanctuary while a heavier rain shower passes over the town outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Cachalotes e Lulas",
+                "hu": "Museu de Cachalotes e Lulas",
+                "ro": "Museu de Cachalotes e Lulas",
+                "en": "Museu de Cachalotes e Lulas"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet exzellente Ausstellungen im Trockenen; nutzen Sie die Zeit für eine ausführliche Besichtigung, solange das Wetter draußen ungemütlich ist.",
+                "hu": "A múzeum kiváló kiállításokat kínál fedett helyen; szánjon időt a részletes megtekintésre, amíg kint barátságtalan, esős marad az időjárás.",
+                "ro": "Muzeul oferă expoziții excelente la interior; acordați timp unei vizite detaliate cât timp afară vremea rămâne neprietenoasă și ploioasă.",
+                "en": "The museum offers excellent indoor exhibits; take your time for a detailed visit as long as the weather outside remains unfriendly and rainy."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Limas",
+                "hu": "Solar dos Limas",
+                "ro": "Solar dos Limas",
+                "en": "Solar dos Limas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur des Solars im Schutz Ihres Autos; die Umgebung wirkt bei Regen besonders melancholisch und geschichtsträchtig.",
+                "hu": "Csodálja meg a Solar történelmi építészetét az autója védelméből; a környék esőben különösen melankolikus és történelmi hangulatot áraszt.",
+                "ro": "Admirați arhitectura istorică a conacului din protecția mașinii; zona pare deosebit de melancolică și plină de istorie pe timp de ploaie.",
+                "en": "Admire the historic architecture of the Solar from the safety of your car; the area feels particularly melancholic and steeped in history in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilhéu em Pé",
+                "hu": "Ilhéu em Pé",
+                "ro": "Ilhéu em Pé",
+                "en": "Ilhéu em Pé"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Felsen sicher vom Fahrersitz aus; die stürmische See bietet ein Naturschauspiel, das Sie trocken erleben können.",
+                "hu": "Élvezze a sziklákra nyíló panorámát biztonságban a vezetőülésből; a viharos tenger olyan természeti látványt nyújt, amit szárazon élhet át.",
+                "ro": "Bucurați-vă de panorama stâncilor în siguranță de la volan; marea înfuriată oferă un spectacol al naturii pe care îl puteți trăi fără a vă uda.",
+                "en": "Enjoy the panorama of the rocks safely from the driver's seat; the stormy sea offers a spectacle of nature that you can experience while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zur gemütlichen Autofahrt ein, bei der wir die milde Heizung genießen. Wir besuchen den Hafen und das Weinmuseum am Vormittag. Mittags halten wir am farbenfrohen Império und der Kirche. Der Nachmittag führt uns zum Walmuseum und zum Solar dos Limas. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir den Ilhéu rechtzeitig, um den spektakulären Wintersonnenuntergang bequem vom Auto aus zu bewundern.",
+            "hu": "A tiszta téli nap kényelmes autózásra csábít, élvezve a fűtés melegét a látnivalók között. Délelőtt a kikötőt és a bormúzeumot látogatjuk meg. Délben megállunk a színes Impériónál és a templomnál. A délután a bálnamúzeumba és a Solar dos Limas-ba kalauzol minket. Mivel 17:00 körül naplemente van, a sziklához időben érünk, hogy az autóból csodáljuk meg a téli naplemente színeit.",
+            "ro": "O zi senină de iarnă îndeamnă la o plimbare plăcută cu mașina, bucurându-ne de căldură între obiective. Dimineața vizităm portul și muzeul vinului. La prânz oprim la coloratul Império și la biserică. După-amiaza ne duce la muzeul balenelor și la conacul Limas. Deoarece soarele apune pe la 17:00, ajungem la stâncă la timp pentru a admira culorile apusului de iarnă din mașină.",
+            "en": "A clear winter day invites you for a comfortable car ride, enjoying the warmth between the sights. In the morning, we visit the harbor and the wine museum. At noon, we stop at the colorful Império and the church. The afternoon takes us to the whale museum and Solar dos Limas. Since the sun sets around 17:00, we reach the rock in time to admire the winter sunset colors from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto da Formosinha",
+                "hu": "Porto da Formosinha",
+                "ro": "Porto da Formosinha",
+                "en": "Porto da Formosinha"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Fernsicht am Hafen oft exzellent; nutzen Sie das Auto als Windschutz und machen Sie Fotos von der klaren Horizontlinie über Faial.",
+                "hu": "Télen a kikötőben gyakran kiváló a látótávolság; használja az autót szélfogóként, és készítsen fotókat a tiszta horizontról Faial-szigete felé.",
+                "ro": "Iarna, vizibilitatea în port este adesea excelentă; folosiți mașina ca paravan împotriva vântului și faceți poze orizontului clar spre insula Faial.",
+                "en": "In winter, visibility at the harbor is often excellent; use your car as a windbreak and take photos of the clear horizon line towards Faial island."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu do Vinho do Pico",
+                "hu": "Museu do Vinho do Pico",
+                "ro": "Museu do Vinho do Pico",
+                "en": "Museu do Vinho do Pico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Museumsgelände; die historischen Keller bieten eine konstante, angenehme Temperatur für einen entspannten Winterbesuch.",
+                "hu": "Parkoljon közvetlenül a múzeum területén; a történelmi pincék állandó, kellemes hőmérsékletet biztosítanak egy pihentető téli látogatáshoz a szigeten.",
+                "ro": "Parcați direct în incinta muzeului; pivnițele istorice oferă o temperatură constantă și plăcută pentru o vizită relaxantă de iarnă pe insulă.",
+                "en": "Park directly on the museum grounds; the historic cellars provide a constant, pleasant temperature for a relaxing winter visit to this unique site."
+              }
+            },
+            {
+              "name": {
+                "de": "Império do Divino Espírito Santo das Sete Cidades",
+                "hu": "Império do Divino Espírito Santo das Sete Cidades",
+                "ro": "Império do Divino Espírito Santo das Sete Cidades",
+                "en": "Império do Divino Espírito Santo das Sete Cidades"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht betont die kräftigen Farben des Impérios; ein kurzer Stopp reicht aus, um die Architektur ohne Auskühlung zu bewundern.",
+                "hu": "A téli fények kiemelik az Império élénk színeit; egy rövid megálló is elég, hogy megcsodálja az építészetet anélkül, hogy túlságosan áthűlne kint.",
+                "ro": "Lumina de iarnă evidențiază culorile vii ale clădirii Império; o scurtă oprire este suficientă pentru a admira arhitectura fără a vă răci prea tare.",
+                "en": "The winter light emphasizes the vibrant colors of the Império; a short stop is enough to admire the architecture without getting too cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Maria Madalena",
+                "hu": "Igreja de Santa Maria Madalena",
+                "ro": "Igreja de Santa Maria Madalena",
+                "en": "Igreja de Santa Maria Madalena"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten im Zentrum für einen kurzen, wärmenden Besuch in der Kirche, während die Wintersonne tief am Himmel steht.",
+                "hu": "Használja ki a központi parkolási lehetőségeket egy rövid, melengető látogatásra a templomban, miközben a téli nap alacsonyan jár az égen.",
+                "ro": "Folosiți locurile de parcare centrale pentru o scurtă vizită de încălzire în biserică, în timp ce soarele de iarnă stă jos pe cerul senin.",
+                "en": "Take advantage of central parking for a short, warming visit to the church while the winter sun stays low in the clear afternoon sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Cachalotes e Lulas",
+                "hu": "Museu de Cachalotes e Lulas",
+                "ro": "Museu de Cachalotes e Lulas",
+                "en": "Museu de Cachalotes e Lulas"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das klimatisierte Museum ein idealer Ort für den Nachmittag; vertiefen Sie Ihr Wissen über das Meer in behaglicher Atmosphäre.",
+                "hu": "Télen a klimatizált múzeum ideális helyszín a délután eltöltésére; mélyítse el tengerbiológiai ismereteit barátságos, meleg belső környezetben.",
+                "ro": "Iarna, muzeul climatizat este locul ideal pentru a petrece după-amiaza; aprofundați cunoștințele de biologie marină într-un mediu cald și plăcut.",
+                "en": "In winter, the climate-controlled museum is an ideal place to spend the afternoon; deepen your marine biology knowledge in a warm indoor setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Limas",
+                "hu": "Solar dos Limas",
+                "ro": "Solar dos Limas",
+                "en": "Solar dos Limas"
+              },
+              "tip_5lang": {
+                "de": "Das historische Herrenhaus wirkt in der kühlen Winterluft besonders würdevoll; machen Sie Fotos aus dem Auto, bevor das Licht gegen 16:30 Uhr abnimmt.",
+                "hu": "A történelmi udvarház a hűvös téli levegőben különösen méltóságteljes; fotózzon az autóból, mielőtt a fények 16:30 után fogyni kezdenének.",
+                "ro": "Conacul istoric pare deosebit de demn în aerul răcoros de iarnă; fotografiați din mașină înainte ca lumina să scadă după ora 16:30.",
+                "en": "The historic manor looks particularly dignified in the cool winter air; take photos from your car before the light starts to fade after 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilhéu em Pé",
+                "hu": "Ilhéu em Pé",
+                "ro": "Ilhéu em Pé",
+                "en": "Ilhéu em Pé"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um ca. 17:00 Uhr direkt vom Parkplatz aus; das Auto bietet den perfekten, warmen Platz für dieses tägliche Wunder.",
+                "hu": "Élje át a 17:00 körüli naplementét közvetlenül a parkolóból; az autó tökéletes, meleg helyszínt kínál ehhez a mindennapi csodás látványhoz.",
+                "ro": "Trăiți apusul de la ora 17:00 direct din parcare; mașina oferă locul perfect și călduros pentru a admira acest spectacol zilnic al naturii.",
+                "en": "Experience the sunset around 17:00 directly from the parking lot; the car provides the perfect, warm spot for admiring this daily natural wonder."
+              }
+            }
+          ]
+        }
       }
     }
   }

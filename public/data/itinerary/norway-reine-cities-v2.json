@@ -183,6 +183,224 @@
         "de": "Beginnen Sie den Morgen in Reinehalsen mit unvergleichlichen Ausblicken auf schroffe Gipfel, bevor Sie zur Gravdalsbukta hinabschlendern. Mittags tauchen Sie im Lofotodden-Museum in die Naturgeschichte ein und bewundern das historische Boot Hanna Mathilde. Verbringen Sie den Nachmittag bei Aqua Lofoten und erkunden Sie den ruhigen Reinevågen. Gegen Abend entspannen Sie sich auf Fiskarskjæret und genießen die magische goldene Stunde.",
         "hu": "Kezdje a reggelt a Reinehalsennél a csipkézett csúcsok páratlan látványával, majd sétáljon le a Gravdalsbukta öbölbe. Délben merüljön el a természettudományokban a Lofotodden Múzeumban, és csodálja meg a történelmi Hanna Mathilde hajót. A délutánt az Aqua Lofoten partjainál és a békés Reinevågen felfedezésével töltse. Az este közeledtével pihenjen meg a Fiskarskjæret szigeténél, élvezve a Norvég-tenger aranyóráját.",
         "ro": "Începeți dimineața la Reinehalsen cu vederi de neegalat ale vârfurilor stâncoase, apoi plimbați-vă spre Gravdalsbukta. La amiază, explorați istoria naturală la Muzeul Lofotodden și admirați barca istorică Hanna Mathilde. Petreceți-vă după-amiaza simțind pulsul oceanului la Aqua Lofoten și explorând seninul Reinevågen. Pe măsură ce se apropie seara, relaxați-vă la Fiskarskjæret, bucurându-vă de ora de aur asupra mării."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning starts with dramatic clouds over the fjord; a waterproof shell is essential for the viewpoint. Midday offers a perfect refuge inside the museum to learn about local heritage while staying dry. Afternoon involves a moody stroll past historic boats as the mist clings to the peaks. Evening brings a cozy atmosphere to the harbor, with the rain tapping on the wooden rorbuer.",
+            "de": "Der Morgen beginnt mit dramatischen Wolken über dem Fjord; eine Regenjacke ist für den Aussichtspunkt unerlässlich. Mittags bietet das Museum den perfekten Schutz, um trocken etwas über das lokale Erbe zu erfahren. Der Nachmittag führt an historischen Booten vorbei, während Nebel an den Gipfeln haftet. Abends herrscht am Hafen eine gemütliche Atmosphäre, wenn der Regen auf die Rorbuer prasselt.",
+            "hu": "A reggel drámai felhőkkel indul a fjord felett; a kilátóponthoz elengedhetetlen a vízálló öltözet. Délben a múzeum nyújt tökéletes menedéket, ahol szárazon ismerkedhetünk a helyi örökséggel. A délutáni séta a történelmi hajók mellett hangulatos, ahogy a köd a hegycsúcsokra tapad. Este a kikötőben meghitt a hangulat, miközben az eső kopog a faházak tetején.",
+            "ro": "Dimineața începe cu nori dramatici deasupra fiordului; o pelerină impermeabilă este esențială pentru punctul de belvedere. Prânzul oferă un refugiu perfect în muzeu pentru a învăța despre moștenirea locală. După-amiaza implică o plimbare atmosferică pe lângă bărci istorice, în timp ce ceața persistă pe vârfuri. Seara aduce o atmosferă primitoare în port, cu ploaia bătând în acoperișurile caselor."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Reinehalsen",
+                "de": "Reinehalsen",
+                "hu": "Reinehalsen kilátó",
+                "ro": "Punctul de belvedere Reinehalsen"
+              },
+              "tip_5lang": {
+                "en": "The mist adds a mystical layer to this iconic view; keep your lens dry and watch your step on the wooden walkway which becomes very slippery when wet.",
+                "de": "Der Nebel verleiht dieser Aussicht eine mystische Note; halten Sie Ihr Objektiv trocken und achten Sie auf den Holzsteg, der bei Nässe sehr rutschig wird.",
+                "hu": "A köd misztikus réteget ad az ikonikus látványhoz; tartsd szárazon a lencsét, és figyelj a fa járdára, amely vizesen rendkívül csúszóssá válik.",
+                "ro": "Ceața adaugă un strat mistic acestei vederi iconice; păstrați lentila uscată și atenție la pasarela de lemn care devine foarte alunecoasă când este udă."
+              }
+            },
+            {
+              "name": {
+                "en": "Gravdalsbukta",
+                "de": "Gravdalsbukta",
+                "hu": "Gravdalsbukta",
+                "ro": "Gravdalsbukta"
+              },
+              "tip_5lang": {
+                "en": "The bay looks incredibly moody under grey skies; it is a great spot to see the rain hitting the water, but ensure your boots are fully waterproof for the shore.",
+                "de": "Die Bucht wirkt unter grauem Himmel unglaublich stimmungsvoll; ein toller Ort, um den Regen auf dem Wasser zu sehen, aber wasserfeste Stiefel sind hier Pflicht.",
+                "hu": "Az öböl hihetetlenül hangulatos a szürke égbolt alatt; remek hely megfigyelni a vízen koppanó esőcseppeket, de a parthoz teljesen vízálló bakancs szükséges.",
+                "ro": "Golful arată incredibil de atmosferic sub cerul gri; este un loc minunat pentru a vedea ploaia lovind apa, dar asigurați-vă că bocancii sunt complet impermeabili."
+              }
+            },
+            {
+              "name": {
+                "en": "Lofotodden National Park museum",
+                "de": "Nationalparkmuseum Lofotodden",
+                "hu": "Lofotodden Nemzeti Park múzeum",
+                "ro": "Muzeul Parcului Național Lofotodden"
+              },
+              "tip_5lang": {
+                "en": "This is the best rainy day retreat in Reine; take your time exploring the indoor exhibits about the harsh arctic nature while the storm passes outside.",
+                "de": "Dies ist der beste Rückzugsort bei Regen in Reine; nehmen Sie sich Zeit für die Ausstellungen über die arktische Natur, während draußen der Sturm tobt.",
+                "hu": "Ez a legjobb esőnapi menedék Reine-ben; szánj időt a zord sarkvidéki természetet bemutató benti kiállításokra, amíg odakint elvonul a vihar.",
+                "ro": "Acesta este cel mai bun refugiu pentru o zi ploioasă în Reine; explorați pe îndelete expozițiile despre natura arctică în timp ce furtuna trece pe afară."
+              }
+            },
+            {
+              "name": {
+                "en": "Ancient Fisherboat Hanna Mathilde",
+                "de": "Historisches Fischerboot Hanna Mathilde",
+                "hu": "Hanna Mathilde történelmi halászhajó",
+                "ro": "Vechea barcă de pescuit Hanna Mathilde"
+              },
+              "tip_5lang": {
+                "en": "The weathered wood of the boat takes on deep colors in the rain; use the nearby eaves for cover while you photograph this piece of maritime history.",
+                "de": "Das verwitterte Holz des Bootes nimmt im Regen tiefe Farben an; nutzen Sie die nahen Dachvorsprünge als Schutz, während Sie dieses Stück Geschichte fotografieren.",
+                "hu": "A hajó viharvert fája mélyebb színeket kap az esőben; használd a közeli ereszalját menedékként, miközben ezt a tengerészeti emléket fotózod.",
+                "ro": "Lemnul bărcii capătă nuanțe profunde în ploaie; folosiți streșinile din apropiere pentru adăpost în timp ce fotografiați această piesă de istorie maritimă."
+              }
+            },
+            {
+              "name": {
+                "en": "Aqua Lofoten Coast Adventure",
+                "de": "Aqua Lofoten Küstenabenteuer",
+                "hu": "Aqua Lofoten tengeri kalandok",
+                "ro": "Aventura de Coastă Aqua Lofoten"
+              },
+              "tip_5lang": {
+                "en": "Check for indoor activity updates or harbor tours that provide heavy-duty flotation suits which will keep you completely dry even in a downpour.",
+                "de": "Fragen Sie nach Hafenrundfahrten mit Thermo-Flotationsanzügen; diese halten Sie selbst bei starkem Regenguss absolut trocken und warm.",
+                "hu": "Érdeklődj a kikötői túrákról, ahol professzionális úszóruhát biztosítanak; ez még a legnagyobb felhőszakadásban is teljesen szárazon tart majd.",
+                "ro": "Verificați tururile de port care oferă costume de flotație profesionale; acestea vă vor menține complet uscat chiar și în timpul unei averse puternice."
+              }
+            },
+            {
+              "name": {
+                "en": "Reinevågen",
+                "de": "Reinevågen",
+                "hu": "Reinevågen",
+                "ro": "Reinevågen"
+              },
+              "tip_5lang": {
+                "en": "The reflection of the red cabins in the rippled rainy water is beautiful; look for a sheltered porch to enjoy the view without getting drenched.",
+                "de": "Die Spiegelung der roten Hütten im regnerischen Wasser ist wunderschön; suchen Sie eine überdachte Veranda, um die Aussicht trocken zu genießen.",
+                "hu": "A vörös rorbu házak tükröződése a fodrozódó esős vízben csodás; keress egy fedett teraszt, hogy anélkül élvezhesd a látványt, hogy bőrig áznál.",
+                "ro": "Reflexia cabinelor roșii în apa încrețită de ploaie este superbă; căutați o prispă adăpostită pentru a savura vederea fără a vă uda complet."
+              }
+            },
+            {
+              "name": {
+                "en": "Fiskarskjæret",
+                "de": "Fiskarskjæret",
+                "hu": "Fiskarskjæret",
+                "ro": "Fiskarskjæret"
+              },
+              "tip_5lang": {
+                "en": "This exposed point offers a raw look at the Norwegian Sea; expect strong spray and wind, so secure your hood tightly and hold onto the railings.",
+                "de": "Dieser exponierte Punkt bietet einen rauen Blick auf das Europäische Nordmeer; stellen Sie sich auf Gischt ein und ziehen Sie Ihre Kapuze fest zu.",
+                "hu": "Ez a kitett pont nyers betekintést nyújt a Norvég-tengerbe; erős permetre és szélre számíts, így szorosan húzd össze a kapucnidat és kapaszkodj.",
+                "ro": "Acest punct expus oferă o vedere crudă asupra Mării Norvegiei; așteptați-vă la stropi puternici și vânt, deci strângeți bine gluga și țineți-vă de balustrade."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning reveals a snow-dusted Reine, with the blue hour providing a magical glow. Midday offers soft, golden light that barely rises above the peaks, making the museum a warm haven for lunch. Afternoon walks are short as darkness falls by 17:00, transforming the village into a sea of twinkling lights. Evening is best spent indoors, watching for the Aurora Borealis over the frozen fjord.",
+            "de": "Der Morgen offenbart ein schneebedecktes Reine, während die blaue Stunde einen magischen Glanz verleiht. Das weiche Mittagslicht reicht kaum über die Gipfel, was das Museum zu einem warmen Zufluchtsort macht. Nachmittagsspaziergänge sind kurz, da es um 17:00 Uhr dunkel wird. Den Abend verbringt man am besten drinnen, während man Ausschau nach Polarlichtern hält.",
+            "hu": "A reggel hófödte Reine-t mutat, ahol a kék óra varázslatos fényt áraszt. A déli napfény alig emelkedik a csúcsok fölé, így a múzeum meleg menedék az ebédhez. A délutáni séták rövidek, mert 17:00-kor már sötét van, és a falu fényei kigyúlnak. Az estét érdemes bent tölteni, figyelve a befagyott fjord felett esetleg megjelenő sarki fényt.",
+            "ro": "Dimineața dezvăluie un Reine pudrat cu zăpadă, cu ora albastră oferind o strălucire magică. Lumina de la prânz este moale și aurie, făcând muzeul un refugiu cald. Plimbările sunt scurte, deoarece întunericul cade la ora 17:00. Seara este cel mai bine petrecută în interior, pândind Aurora Boreală deasupra fiordului înghețat."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Reinehalsen",
+                "de": "Reinehalsen",
+                "hu": "Reinehalsen kilátó",
+                "ro": "Punctul de belvedere Reinehalsen"
+              },
+              "tip_5lang": {
+                "en": "The classic winter photo spot can be extremely icy; wear crampons or ice spikes on your boots to safely navigate the steep viewpoint area.",
+                "de": "Der klassische Winter-Fotospot kann extrem vereist sein; tragen Sie Steigeisen oder Spikes an Ihren Stiefeln, um den steilen Bereich sicher zu begehen.",
+                "hu": "A klasszikus téli fotóhelyszín rendkívül jeges lehet; viselj csúszásgátlót a bakancsodon, hogy biztonságosan mozoghass a meredek kilátónál.",
+                "ro": "Locul clasic pentru fotografii de iarnă poate fi extrem de înghețat; purtați crampoane pe ghete pentru a naviga în siguranță pe panta punctului de belvedere."
+              }
+            },
+            {
+              "name": {
+                "en": "Gravdalsbukta",
+                "de": "Gravdalsbukta",
+                "hu": "Gravdalsbukta",
+                "ro": "Gravdalsbukta"
+              },
+              "tip_5lang": {
+                "en": "Small ice sheets often form in the bay during cold snaps; the contrast of white snow and red houses is peak Lofoten, but stay off any frozen water.",
+                "de": "In der Bucht bilden sich bei Kälte oft kleine Eisschollen; der Kontrast von weißem Schnee und roten Häusern ist herrlich, aber betreten Sie kein Eis.",
+                "hu": "Hideg időben gyakran jégtáblák formálódnak az öbölben; a fehér hó és a vörös házak kontrasztja lenyűgöző, de soha ne lépj a befagyott vízre.",
+                "ro": "Mici plăci de gheață se formează adesea în golf în timpul valurilor de frig; contrastul dintre zăpadă și casele roșii este superb, dar nu urcați pe gheață."
+              }
+            },
+            {
+              "name": {
+                "en": "Lofotodden National Park museum",
+                "de": "Nationalparkmuseum Lofotodden",
+                "hu": "Lofotodden Nemzeti Park múzeum",
+                "ro": "Muzeul Parcului Național Lofotodden"
+              },
+              "tip_5lang": {
+                "en": "A vital warm-up stop during your winter walk; enjoy the heated interiors and grab a hot drink while learning about the park's winter wildlife.",
+                "de": "Ein wichtiger Aufwärmstopp bei Ihrem Winterspaziergang; genießen Sie die beheizten Räume und ein heißes Getränk, während Sie über die Tierwelt lernen.",
+                "hu": "Létfontosságú melegedőhely a téli séta során; élvezd a fűtött belső tereket és egy forró italt, miközben a park téli élővilágáról tanulsz.",
+                "ro": "Un punct vital de încălzire în timpul plimbării de iarnă; bucurați-vă de interiorul încălzit și de o băutură caldă în timp ce învățați despre parcul național."
+              }
+            },
+            {
+              "name": {
+                "en": "Ancient Fisherboat Hanna Mathilde",
+                "de": "Historisches Fischerboot Hanna Mathilde",
+                "hu": "Hanna Mathilde történelmi halászhajó",
+                "ro": "Vechea barcă de pescuit Hanna Mathilde"
+              },
+              "tip_5lang": {
+                "en": "The boat often gets covered in a thick layer of frost or snow, making it look ghost-like; avoid touching the metal parts which can be painfully cold.",
+                "de": "Das Boot ist oft mit einer dicken Frostschicht bedeckt; vermeiden Sie es, die Metallteile zu berühren, da diese beißend kalt sein können.",
+                "hu": "A hajót gyakran vastag zúzmara vagy hó borítja, amitől kísértetiesen fest; kerüld a fémrészek érintését, mert fájdalmasan hidegek lehetnek.",
+                "ro": "Barca este adesea acoperită de un strat gros de chiciură sau zăpadă; evitați atingerea părților metalice care pot fi extrem de reci la atingere."
+              }
+            },
+            {
+              "name": {
+                "en": "Aqua Lofoten Coast Adventure",
+                "de": "Aqua Lofoten Küstenabenteuer",
+                "hu": "Aqua Lofoten tengeri kalandok",
+                "ro": "Aventura de Coastă Aqua Lofoten"
+              },
+              "tip_5lang": {
+                "en": "In winter, harbor activities focus on the majestic orcas and eagles; dress in multiple wool layers even if the tour provides an outer thermal suit.",
+                "de": "Im Winter konzentrieren sich die Aktivitäten auf Orcas und Adler; tragen Sie mehrere Wollschichten unter dem Thermoanzug der Tour-Anbieter.",
+                "hu": "Télen a kikötői programok a kardszárnyú delfinekre és sasokra fókuszálnak; öltözz rétegesen gyapjúba a biztosított hőszigetelő ruha alá is.",
+                "ro": "Iarna, activitățile din port se concentrează pe orci și vulturi; purtați mai multe straturi de lână sub costumul termic oferit de organizatori."
+              }
+            },
+            {
+              "name": {
+                "en": "Reinevågen",
+                "de": "Reinevågen",
+                "hu": "Reinevågen",
+                "ro": "Reinevågen"
+              },
+              "tip_5lang": {
+                "en": "The blue hour light here is spectacular in February; bring a tripod for stable shots as the low light requires longer exposure times in winter.",
+                "de": "Das Licht der blauen Stunde ist hier im Februar spektakulär; bringen Sie ein Stativ mit, da das schwache Licht im Winter lange Belichtungszeiten erfordert.",
+                "hu": "A kék óra fényei februárban lenyűgözőek itt; hozz állványt a stabil fotókhoz, mert a kevés téli fény hosszabb expozíciós időt igényel.",
+                "ro": "Lumina orei albastre este spectaculoasă aici în februarie; aduceți un trepied pentru fotografii stabile, deoarece lumina slabă necesită expunere lungă."
+              }
+            },
+            {
+              "name": {
+                "en": "Fiskarskjæret",
+                "de": "Fiskarskjæret",
+                "hu": "Fiskarskjæret",
+                "ro": "Fiskarskjæret"
+              },
+              "tip_5lang": {
+                "en": "Wind chill is extreme at this open point; cover your face with a neck gaiter and keep your phone in an inner pocket to preserve the battery life.",
+                "de": "Der Windchill-Effekt ist an diesem Punkt extrem; schützen Sie Ihr Gesicht mit einem Tuch und bewahren Sie Ihr Handy nah am Körper auf.",
+                "hu": "A szél hűtőhatása extrém ezen a nyitott ponton; takard el az arcod sállal, a telefont pedig tartsd belső zsebben az akkumulátor védelme érdekében.",
+                "ro": "Senzația de frig este extremă în acest punct deschis; acoperiți-vă fața cu un fular și țineți telefonul într-un buzunar interior pentru baterie."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "de": "Ihr Radtag beginnt mit Fotos am Reinehalsen und Einblicken im Lofotodden-Museum. Mittags spüren Sie den Nervenkitzel bei Aqua Lofoten, bevor Sie zum Preikstolen wandern. Der Nachmittag bringt eine malerische Fahrt entlang des tiefen Reinefjorden in Richtung des majestätischen Navaren. Gegen Abend radeln Sie zum Gylttinden und beobachten, wie die Berge in leuchtenden Orangetönen erstrahlen.",
         "hu": "A kerékpáros nap a Reinehalsen ikonikus látványával és a Lofotodden Múzeum felfedezésével indul. Délben élje át az Aqua Lofoten nyüzsgését, majd túrázzon fel a Preikstolen kilátóhoz. A délután festői utazást kínál a mély Reinefjorden mentén a tornyosuló Navaren irányába. Ahogy leszáll az est, tekerjen el a Gylttindenhez, megcsodálva a narancssárgába boruló fenséges hegycsúcsokat.",
         "ro": "Ziua de ciclism începe cu fotografii la Reinehalsen și o vizită la Muzeul Lofotodden. La amiază, simțiți energia la Aqua Lofoten înainte de a face o drumeție la Preikstolen. După-amiaza aduce o plimbare pitorească pe lângă apele adânci ale Reinefjorden spre impunătorul Navaren. Odată cu lăsarea serii, pedalați spre Gylttinden, observând munții transformându-se în nuanțe strălucitoare de portocaliu."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling in the rain requires good mudguards and high-visibility gear as the E10 can get spray from passing vehicles. Morning starts at the viewpoint before heading to the museum for a midday drying break. Afternoon involves coastal paths where the wind might challenge your balance. Evening concludes as the light fades, with the rain-slicked asphalt reflecting the village lights.",
+            "de": "Radfahren im Regen erfordert gute Schutzbleche und Warnkleidung, da die E10 viel Spritzwasser führt. Der Morgen beginnt am Aussichtspunkt, bevor es mittags zum Trocknen ins Museum geht. Nachmittags fordern Küstenwege Ihr Gleichgewicht bei Wind heraus. Der Abend endet bei schwindendem Licht, wenn der nasse Asphalt die Lichter des Dorfes widerspiegelt.",
+            "hu": "Az esőben való biciklizéshez jó sárvédő és láthatósági mellény kell, mert az E10-en nagy a fröccsenő víz. A reggel a kilátónál indul, majd délben a múzeumban tarthatsz száradó szünetet. Délután a parti utakon a szél próbára teheti az egyensúlyodat. Az este a fények fogytával zárul, miközben az esőtől csillogó aszfalt visszaveri a falu fényeit.",
+            "ro": "Ciclismul pe ploaie necesită apărători bune și echipament reflectorizant, deoarece E10 poate fi plină de apă. Dimineața începe la belvedere, apoi urmează o pauză de uscare la muzeu. După-amiaza, potecile de coastă vă vor pune la încercare echilibrul din cauza vântului. Seara se încheie când lumina scade, iar asfaltul ud reflectă luminile satului."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Reinehalsen",
+                "de": "Reinehalsen",
+                "hu": "Reinehalsen",
+                "ro": "Reinehalsen"
+              },
+              "tip_5lang": {
+                "en": "The paved area can be slick; park your bike securely and ensure your brakes are dry before descending back toward the village center in the rain.",
+                "de": "Die gepflasterte Fläche kann glatt sein; parken Sie Ihr Rad sicher und stellen Sie sicher, dass Ihre Bremsen trocken sind, bevor Sie losfahren.",
+                "hu": "Az aszfaltozott rész csúszós lehet; parkolj le biztonságosan, és győződj meg róla, hogy a fékek szárazak, mielőtt visszagurulnál a faluközpontba.",
+                "ro": "Zona pavată poate fi alunecoasă; parcați bicicleta în siguranță și asigurați-vă că frânele sunt uscate înainte de a coborî spre centrul satului."
+              }
+            },
+            {
+              "name": {
+                "en": "Lofotodden National Park museum",
+                "de": "Nationalparkmuseum Lofotodden",
+                "hu": "Lofotodden Nemzeti Park múzeum",
+                "ro": "Muzeul Parcului Național Lofotodden"
+              },
+              "tip_5lang": {
+                "en": "A perfect spot to park the bike and escape the downpour; use the bike racks near the entrance and enjoy the warm, educational indoor environment.",
+                "de": "Ein idealer Ort, um das Rad abzustellen und dem Regenguss zu entkommen; nutzen Sie die Ständer am Eingang und genießen Sie die Wärme drinnen.",
+                "hu": "Tökéletes hely leparkolni és elmenekülni a felhőszakadás elől; használd a bejárat melletti tárolókat és élvezd a meleg, tanulságos benti környezetet.",
+                "ro": "Un loc perfect pentru a parca bicicleta și a scăpa de ploaie; folosiți suporturile de la intrare și bucurați-vă de mediul interior cald și educativ."
+              }
+            },
+            {
+              "name": {
+                "en": "Aqua Lofoten Coast Adventure",
+                "de": "Aqua Lofoten Küstenabenteuer",
+                "hu": "Aqua Lofoten tengeri kalandok",
+                "ro": "Aventura de Coastă Aqua Lofoten"
+              },
+              "tip_5lang": {
+                "en": "The harbor can be windy during rain; secure your bike against a solid structure so it doesn't tip over, and check for indoor activity options.",
+                "de": "Im Hafen kann es bei Regen windig sein; sichern Sie Ihr Rad an einer festen Struktur, damit es nicht umkippt, und fragen Sie nach Aktivitäten drinnen.",
+                "hu": "A kikötőben szeles lehet az idő esőben; rögzítsd a biciklit valami szilárdhoz, hogy ne boruljon fel, és nézz utána a benti programlehetőségeknek.",
+                "ro": "În port poate fi vânt în timpul ploii; asigurați bicicleta de o structură solidă pentru a nu se răsturna și verificați opțiunile de activități în interior."
+              }
+            },
+            {
+              "name": {
+                "en": "Preikstolen",
+                "de": "Preikstolen",
+                "hu": "Preikstolen",
+                "ro": "Preikstolen"
+              },
+              "tip_5lang": {
+                "en": "The path to this natural spot can become very muddy and difficult to navigate on two wheels; leave your bike at the road and walk the last bit.",
+                "de": "Der Weg zu diesem Naturspot kann sehr schlammig werden; lassen Sie Ihr Rad an der Straße stehen und gehen Sie das letzte Stück zu Fuß.",
+                "hu": "Az ide vezető út nagyon sáros lehet, és nehéz két keréken közlekedni; hagyd a biciklit az út szélén, és az utolsó szakaszt tedd meg gyalog.",
+                "ro": "Calea spre acest punct natural poate deveni foarte noroioasă; lăsați bicicleta la drum și parcurgeți ultima porțiune pe jos pentru siguranță."
+              }
+            },
+            {
+              "name": {
+                "en": "Reinefjorden",
+                "de": "Reinefjorden",
+                "hu": "Reinefjorden",
+                "ro": "Reinefjorden"
+              },
+              "tip_5lang": {
+                "en": "The fjord is dramatic when rain clouds hang low; cycling along the shore is beautiful, but watch out for deep puddles that may hide potholes.",
+                "de": "Der Fjord ist bei tief hängenden Regenwolken dramatisch; achten Sie beim Radeln auf tiefe Pfützen, die Schlaglöcher verbergen könnten.",
+                "hu": "A fjord drámai, amikor a fellegek alacsonyan szállnak; a parti tekerés gyönyörű, de vigyázz a mély tócsákkal, amik kátyúkat rejthetnek.",
+                "ro": "Fiordul este dramatic când norii de ploaie sunt joși; pedalatul pe mal este frumos, dar atenție la bălțile adânci care pot ascunde gropi."
+              }
+            },
+            {
+              "name": {
+                "en": "Navaren",
+                "de": "Navaren",
+                "hu": "Navaren",
+                "ro": "Navaren"
+              },
+              "tip_5lang": {
+                "en": "Wet rocks here are treacherous; if you stop for the view, stay on the grass or gravel and avoid the shoreline boulders which get extremely slick.",
+                "de": "Nasse Felsen sind hier tückisch; wenn Sie für die Aussicht anhalten, bleiben Sie auf Gras oder Kies und meiden Sie die glatten Uferfelsen.",
+                "hu": "A vizes sziklák itt csalókák; ha megállsz a kilátásért, maradj a füvön vagy kavicson, és kerüld a parti sziklákat, amik rendkívül csúszósak.",
+                "ro": "Stâncile ude sunt trădătoare aici; dacă vă opriți pentru vedere, stați pe iarbă sau pietriș și evitați bolovanii de pe mal care devin alunecoși."
+              }
+            },
+            {
+              "name": {
+                "en": "Gylttinden",
+                "de": "Gylttinden",
+                "hu": "Gylttinden",
+                "ro": "Gylttinden"
+              },
+              "tip_5lang": {
+                "en": "Rain makes the mountain base paths very soft; lower your tire pressure slightly for better grip, but don't attempt steep sections in heavy rain.",
+                "de": "Regen macht die Pfade am Bergfuß sehr weich; senken Sie den Reifendruck leicht für mehr Grip, aber meiden Sie steile Abschnitte bei Starkregen.",
+                "hu": "Az eső feláztatja a hegyi ösvényeket; csökkentsd kicsit a guminyomást a jobb tapadásért, de heves esőben ne próbálkozz a meredek részekkel.",
+                "ro": "Ploaia face potecile de la baza muntelui foarte moi; reduceți ușor presiunea în pneuri pentru aderență, dar nu urcați pe secțiunile abrupte."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter cycling in Reine requires studded tires and serious thermal gear to fight the wind chill. Morning light is ethereal at Reinehalsen. Midday stays chilly, so the museum is a mandatory stop for warmth. Afternoon rides should be completed before the 17:00 sunset when temperatures drop further. Evening is for indoor recovery, hoping the night sky clears for the Northern Lights.",
+            "de": "Winterradeln in Reine erfordert Spikereifen und Thermoausrüstung gegen den Windchill. Das Morgenlicht am Reinehalsen ist ätherisch. Mittags bleibt es frostig, daher ist das Museum ein Pflichtstopp zum Aufwärmen. Touren sollten vor Sonnenuntergang um 17:00 Uhr beendet sein. Den Abend verbringt man am besten bei der Regeneration im Warmen.",
+            "hu": "A téli biciklizéshez szöges gumi és komoly hőszigetelő ruházat kell a szélvihar ellen. A reggeli fények földöntúliak a Reinehalsennél. A délidő is fagyos marad, így a múzeum kötelező megálló a melegedéshez. A délutáni tekerést be kell fejezni az 17:00-s naplemente előtt. Az este a regenerálódásé, reménykedve a tiszta éjszakában.",
+            "ro": "Ciclismul de iarnă în Reine necesită anvelope cu ținte și echipament termic serios. Lumina dimineții este eterică la Reinehalsen. Prânzul rămâne geros, deci muzeul este o oprire obligatorie. Turele trebuie finalizate înainte de apusul de la 17:00. Seara este pentru recuperare la căldură, cu speranța de a vedea Aurora."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Reinehalsen",
+                "de": "Reinehalsen",
+                "hu": "Reinehalsen",
+                "ro": "Reinehalsen"
+              },
+              "tip_5lang": {
+                "en": "The road here can have black ice; use extra caution when braking and wear bright, windproof layers to protect yourself from the freezing fjord winds.",
+                "de": "Die Straße kann hier Glatteis haben; seien Sie beim Bremsen vorsichtig und tragen Sie winddichte Schichten gegen den eisigen Wind vom Fjord.",
+                "hu": "Az út itt jeges lehet; légy óvatos fékezéskor, és viselj szélálló rétegeket, hogy megvédd magad a fjord felől fújó fagyos széltől.",
+                "ro": "Drumul poate avea gheață neagră aici; fiți prudenți la frânare și purtați straturi rezistente la vânt pentru a vă proteja de rafalele înghețate."
+              }
+            },
+            {
+              "name": {
+                "en": "Lofotodden National Park museum",
+                "de": "Nationalparkmuseum Lofotodden",
+                "hu": "Lofotodden Nemzeti Park múzeum",
+                "ro": "Muzeul Parcului Național Lofotodden"
+              },
+              "tip_5lang": {
+                "en": "The perfect place to defrost your fingers; the museum offers a warm interior where you can rest your legs and learn about the park's winter ecology.",
+                "de": "Der perfekte Ort, um Ihre Finger aufzutauen; das Museum bietet ein warmes Inneres, in dem Sie sich ausruhen und über die Winterökologie lernen können.",
+                "hu": "Tökéletes hely felengedni az ujjaidat; a múzeum fűtött belső terében megpihentetheted a lábaidat és tanulhatsz a park téli élővilágáról.",
+                "ro": "Locul perfect pentru a vă dezgheța degetele; muzeul oferă un interior cald unde vă puteți odihni picioarele și învăța despre ecologia de iarnă."
+              }
+            },
+            {
+              "name": {
+                "en": "Aqua Lofoten Coast Adventure",
+                "de": "Aqua Lofoten Küstenabenteuer",
+                "hu": "Aqua Lofoten tengeri kalandok",
+                "ro": "Aventura de Coastă Aqua Lofoten"
+              },
+              "tip_5lang": {
+                "en": "The sea air is biting in winter; check if they have specific winter boat schedules and make sure your bike lock doesn't freeze shut while you explore.",
+                "de": "Die Seeluft ist im Winter beißend; stellen Sie sicher, dass Ihr Fahrradschloss nicht einfriert, während Sie den Hafenbereich erkunden.",
+                "hu": "A tengeri levegő télen maróan hideg; győződj meg róla, hogy a biciklizárad nem fagy be, miközben a környéket fedezed fel.",
+                "ro": "Aerul mării este tăios iarna; asigurați-vă că antifurtul bicicletei nu îngheață în timp ce explorați zona portului."
+              }
+            },
+            {
+              "name": {
+                "en": "Preikstolen",
+                "de": "Preikstolen",
+                "hu": "Preikstolen",
+                "ro": "Preikstolen"
+              },
+              "tip_5lang": {
+                "en": "Snow can hide holes or rocks on the path; it's safer to leave the bike at the main E10 road and walk carefully to the viewpoint in winter boots.",
+                "de": "Schnee kann Löcher oder Steine verbergen; lassen Sie das Rad an der E10 stehen und gehen Sie vorsichtig mit Winterstiefeln zum Aussichtspunkt.",
+                "hu": "A hó elrejtheti a kátyúkat vagy köveket; biztonságosabb a biciklit az E10-nél hagyni, és téli bakancsban óvatosan elsétálni a kilátóig.",
+                "ro": "Zăpada poate ascunde gropi sau pietre; este mai sigur să lăsați bicicleta la drumul principal E10 și să mergeți pe jos în ghete de iarnă."
+              }
+            },
+            {
+              "name": {
+                "en": "Reinefjorden",
+                "de": "Reinefjorden",
+                "hu": "Reinefjorden",
+                "ro": "Reinefjorden"
+              },
+              "tip_5lang": {
+                "en": "The fjord scenery is stunning with snow-capped peaks; watch out for snow drifts on the road edge that can easily throw you off your bike.",
+                "de": "Die Fjordlandschaft ist mit schneebedeckten Gipfeln atemberaubend; achten Sie auf Schneeverwehungen am Straßenrand, die Sie zu Fall bringen können.",
+                "hu": "A fjord látványa lenyűgöző a hófödte csúcsokkal; vigyázz az út szélén felhalmozódott hóra, ami könnyen kibillenthet az egyensúlyodból.",
+                "ro": "Peisajul fiordului este uimitor cu vârfurile înzăpezite; atenție la troienele de la marginea drumului care vă pot dezechilibra ușor."
+              }
+            },
+            {
+              "name": {
+                "en": "Navaren",
+                "de": "Navaren",
+                "hu": "Navaren",
+                "ro": "Navaren"
+              },
+              "tip_5lang": {
+                "en": "The ground here is likely frozen solid and very uneven; keep your speed low and stay on the main track to avoid hidden ice patches under the snow.",
+                "de": "Der Boden hier ist wahrscheinlich gefroren und uneben; fahren Sie langsam und bleiben Sie auf dem Hauptweg, um Glatteis unter dem Schnee zu meiden.",
+                "hu": "A talaj itt valószínűleg csonttá fagyott és egyenetlen; tarts alacsony sebességet és maradj a főúton, hogy elkerüld a hó alatti jégfoltokat.",
+                "ro": "Solul aici este probabil înghețat și neregulat; mențineți o viteză mică și stați pe poteca principală pentru a evita gheața de sub zăpadă."
+              }
+            },
+            {
+              "name": {
+                "en": "Gylttinden",
+                "de": "Gylttinden",
+                "hu": "Gylttinden",
+                "ro": "Gylttinden"
+              },
+              "tip_5lang": {
+                "en": "High altitude means even more snow and wind; only attempt the base on a bike if you have wide winter tires and turn back if the visibility drops.",
+                "de": "Höhenlage bedeutet mehr Schnee und Wind; befahren Sie den Fuß des Berges nur mit breiten Winterreifen und kehren Sie bei schlechter Sicht um.",
+                "hu": "A magasság több havat és szelet jelent; csak széles téli gumival közelítsd meg a hegy lábát, és fordulj vissza, ha romlanak a látási viszonyok.",
+                "ro": "Altitudinea înseamnă și mai multă zăpadă și vânt; abordați baza muntelui doar cu anvelope late de iarnă și întoarceți-vă dacă vizibilitatea scade."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "de": "Beginnen Sie Ihren Roadtrip am Reinehalsen und erweitern Sie Ihr Wissen im Lofotodden-Nationalparkmuseum. Mittags fahren Sie entlang des prächtigen Reinefjorden und halten für spektakuläre Fotos vom Olstinden. Ihr Nachmittag verläuft auf den ruhigen Straßen am Vorfjorden, umgeben von aufragenden Felswänden. Wenn die Sonne untergeht, fahren Sie durch den Schatten des Gylttinden und beenden die Reise am friedlichen Sørvågvatnet.",
         "hu": "Kezdje autós utazását a Reinehalsen megcsodálásával és a Lofotodden Nemzeti Park múzeumának meglátogatásával. Délben kocsikázzon végig a lenyűgöző Reinefjorden mentén, és álljon meg lefotózni az Olstinden ikonikus csúcsát. A délutánt a Vorfjorden melletti csendes utakon töltse, hatalmas sziklafalakkal körülvéve. Naplemente közeledtével haladjon át a Gylttinden árnyékán, utazását pedig a Sørvågvatnet békés vizénél zárja.",
         "ro": "Începeți excursia cu mașina admirând Reinehalsen și îmbogățindu-vă cunoștințele la Muzeul Parcului Național Lofotodden. În jurul prânzului, conduceți de-a lungul magnificului Reinefjorden și opriți pentru fotografii la Olstinden. După-amiaza continuă pe drumurile liniștite de lângă Vorfjorden, înconjurat de pereți stâncoși impunători. La apus, conduceți prin umbra lui Gylttinden, terminând călătoria la Sørvågvatnet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Driving is the most comfortable option in heavy rain, providing a dry cabin between stops. Morning starts with a dramatic, misty view at the bridge. Midday involves a long, dry break at the museum. Afternoon is spent navigating the E10 with headlights on for safety, visiting distant fjords. Evening is peaceful as the rain washes the car, and you enjoy the views from inside.",
+            "de": "Autofahren ist bei starkem Regen die komfortabelste Option und bietet Schutz zwischen den Stopps. Der Morgen beginnt mit einer nebligen Aussicht an der Brücke. Mittags bietet das Museum eine lange, trockene Pause. Nachmittags ist auf der E10 für die Sicherheit das Abblendlicht Pflicht. Den Abend genießt man friedlich bei Aussichten aus dem trockenen Innenraum.",
+            "hu": "Az autó a legkényelmesebb választás szakadó esőben, száraz menedéket nyújtva a megállók között. A reggel drámai, ködös kilátással indul a hídnál. Délben tarts hosszú, száraz szünetet a múzeumban. Délután a biztonság kedvéért felkapcsolt fényszórókkal közlekedj az E10-en a távolabbi fjordok felé. Az este békésen telik, miközben az autó ablakán át csodálod a tájat.",
+            "ro": "Condusul este cea mai confortabilă opțiune pe ploaie abundentă, oferind o cabină uscată între opriri. Dimineața începe cu o vedere dramatică și ceață la pod. Prânzul implică o pauză lungă și uscată la muzeu. După-amiaza se circulă pe E10 cu farurile aprinse pentru siguranță. Seara este liniștită, savurând priveliștile din interiorul mașinii."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Reinehalsen",
+                "de": "Reinehalsen",
+                "hu": "Reinehalsen",
+                "ro": "Reinehalsen"
+              },
+              "tip_5lang": {
+                "en": "Parking is right next to the viewpoint; you can enjoy the iconic scene from inside the car if the downpour is too intense for a walk.",
+                "de": "Der Parkplatz liegt direkt am Aussichtspunkt; Sie können die ikonische Szene vom Auto aus genießen, falls der Regen für einen Spaziergang zu stark ist.",
+                "hu": "A parkoló közvetlenül a kilátó mellett van; az autóban ülve is élvezheted az ikonikus látványt, ha túl intenzív lenne az eső a kiszálláshoz.",
+                "ro": "Parcarea este chiar lângă punctul de belvedere; puteți savura scena iconică din mașină dacă ploaia este prea intensă pentru o plimbare."
+              }
+            },
+            {
+              "name": {
+                "en": "Lofotodden National Park museum",
+                "de": "Nationalparkmuseum Lofotodden",
+                "hu": "Lofotodden Nemzeti Park múzeum",
+                "ro": "Muzeul Parcului Național Lofotodden"
+              },
+              "tip_5lang": {
+                "en": "Plenty of parking available; it's the perfect place to spend a couple of hours indoors until the heaviest rain clouds pass over the mountains.",
+                "de": "Genügend Parkplätze vorhanden; der ideale Ort, um ein paar Stunden im Trockenen zu verbringen, bis die schwersten Regenwolken weitergezogen sind.",
+                "hu": "Bőséges parkoló áll rendelkezésre; tökéletes hely eltölteni pár órát bent, amíg a legsúlyosabb esőfelhők átvonulnak a hegyek felett.",
+                "ro": "Există locuri de parcare suficiente; este locul perfect pentru a petrece câteva ore în interior până când norii grei de ploaie trec de munți."
+              }
+            },
+            {
+              "name": {
+                "en": "Reinefjorden",
+                "de": "Reinefjorden",
+                "hu": "Reinefjorden",
+                "ro": "Reinefjorden"
+              },
+              "tip_5lang": {
+                "en": "There are several small pull-offs along the road; use them to safely photograph the misty fjord without getting out of your vehicle.",
+                "de": "Es gibt mehrere kleine Haltebuchen; nutzen Sie diese, um den nebligen Fjord sicher zu fotografieren, ohne das Fahrzeug verlassen zu müssen.",
+                "hu": "Az út mentén több kisebb pihenőhely található; használd ezeket a ködös fjord biztonságos fotózásához anélkül, hogy ki kellene szállnod.",
+                "ro": "Există mai multe refugii mici de-a lungul drumului; folosiți-le pentru a fotografia fiordul cețos în siguranță, fără a ieși din vehicul."
+              }
+            },
+            {
+              "name": {
+                "en": "Olstinden",
+                "de": "Olstinden",
+                "hu": "Olstinden",
+                "ro": "Olstinden"
+              },
+              "tip_5lang": {
+                "en": "The peak is often shrouded in clouds during rain; park at the designated spots and wait for a break in the mist for a glimpse of the jagged summit.",
+                "de": "Der Gipfel ist bei Regen oft in Wolken gehüllt; parken Sie an den markierten Stellen und warten Sie auf eine Lücke im Nebel für den Blick auf den Gipfel.",
+                "hu": "A csúcsot esőben gyakran felhők borítják; parkolj a kijelölt helyeken, és várj egy rést a ködben, hogy megpillanthasd a csipkés hegytetőt.",
+                "ro": "Vârful este adesea învăluit în nori în timpul ploii; parcați în locurile desemnate și așteptați o pauză în ceață pentru a vedea culmea zimțată."
+              }
+            },
+            {
+              "name": {
+                "en": "Vorfjorden",
+                "de": "Vorfjorden",
+                "hu": "Vorfjorden",
+                "ro": "Vorfjorden"
+              },
+              "tip_5lang": {
+                "en": "The road here can have standing water; drive slowly to avoid hydroplaning and enjoy the moody coastal views from your heated cabin.",
+                "de": "Auf der Straße kann Wasser stehen; fahren Sie langsam, um Aquaplaning zu vermeiden, und genießen Sie die Aussicht aus der beheizten Kabine.",
+                "hu": "Az úton megállhat a víz; vezess lassan az aquaplaning elkerülése érdekében, és élvezd a borongós tengerparti látványt a fűtött utastérből.",
+                "ro": "Pe drum pot exista bălți mari; conduceți încet pentru a evita acvaplanarea și savurați vederile de coastă din cabina încălzită."
+              }
+            },
+            {
+              "name": {
+                "en": "Gylttinden",
+                "de": "Gylttinden",
+                "hu": "Gylttinden",
+                "ro": "Gylttinden"
+              },
+              "tip_5lang": {
+                "en": "Visibility can be poor near the mountain base; ensure your fog lights are working and keep a safe distance from other vehicles on the narrow road.",
+                "de": "Die Sicht am Bergfuß kann schlecht sein; prüfen Sie Ihre Nebelscheinwerfer und halten Sie auf der engen Straße Abstand zu anderen Fahrzeugen.",
+                "hu": "A látási viszonyok korlátozottak lehetnek a hegy lábánál; ellenőrizd a ködlámpákat, és tarts biztonságos követési távolságot a szűk utakon.",
+                "ro": "Vizibilitatea poate fi redusă lângă baza muntelui; asigurați-vă că proiectoarele de ceață funcționează și păstrați distanța pe drumul îngust."
+              }
+            },
+            {
+              "name": {
+                "en": "Sørvågvatnet",
+                "de": "Sørvågvatnet",
+                "hu": "Sørvågvatnet",
+                "ro": "Sørvågvatnet"
+              },
+              "tip_5lang": {
+                "en": "Rain creates small temporary waterfalls on the surrounding cliffs; use your wipers on high speed and park as close to the lake edge as permitted.",
+                "de": "Der Regen erzeugt kleine Wasserfälle an den Klippen; nutzen Sie die Scheibenwischer auf hoher Stufe und parken Sie so nah wie möglich am See.",
+                "hu": "Az eső ideiglenes vízeséseket hoz létre a környező sziklákon; használd az ablaktörlőt magas fokozaton, és parkolj olyan közel a tóhoz, amennyire csak lehet.",
+                "ro": "Ploaia creează mici cascade temporare pe stâncile din jur; folosiți ștergătoarele la viteză mare și parcați cât mai aproape de marginea lacului."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A rental car with studded tires is the safest way to navigate the icy E10 in winter. Morning starts with a frosty drive to the viewpoint. Midday is best spent at the museum to avoid the coldest hours. Afternoon travel is limited as the sun sets by 17:00, making road visibility a priority. Evening involves careful driving back to your accommodation, under the potential green glow of the Aurora.",
+            "de": "Ein Mietwagen mit Spikereifen ist der sicherste Weg über die vereiste E10. Der Morgen beginnt mit einer frostigen Fahrt zum Aussichtspunkt. Mittags bietet das Museum Schutz vor der Kälte. Nachmittags ist die Fahrt kurz, da die Sonne um 17:00 Uhr untergeht. Der Abend ist für die Aurora-Jagd reserviert, sofern die Straßenverhältnisse es zulassen.",
+            "hu": "A szöges gumival felszerelt bérautó a legbiztonságosabb módja a jeges E10 felfedezésének. A reggel fagyos autózással indul a kilátóhoz. A délidőt töltsd a múzeumban, elkerülve a leghidegebb órákat. A délutáni program rövid, mert a nap 17:00-kor lebukik. Az este a szállásra való lassú visszatérésé, remélve a zöld sarki fényt az égen.",
+            "ro": "O mașină închiriată cu pneuri cu ținte este cea mai sigură metodă pe E10 iarna. Dimineața începe cu un drum geros spre belvedere. Prânzul este cel mai bine petrecut la muzeu. După-amiaza este limitată, deoarece soarele apune la 17:00. Seara implică un condus prudent spre cazare, sub eventuala strălucire a Aurorei."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Reinehalsen",
+                "de": "Reinehalsen",
+                "hu": "Reinehalsen",
+                "ro": "Reinehalsen"
+              },
+              "tip_5lang": {
+                "en": "The parking area can be covered in deep snow; ensure you park in cleared spots to avoid getting stuck, and keep the engine running for heat if needed.",
+                "de": "Der Parkplatz kann tief verschneit sein; parken Sie nur auf geräumten Flächen, um nicht steckenzubleiben, und nutzen Sie die Standheizung.",
+                "hu": "A parkolót mély hó boríthatja; csak letakarított helyen állj meg, hogy ne akadj el, és tartsd bekapcsolva a fűtést a várakozás alatt.",
+                "ro": "Parcarea poate fi acoperită de zăpadă adâncă; parcați doar în locurile deszăpezite pentru a nu rămâne blocat și păstrați căldura pornită."
+              }
+            },
+            {
+              "name": {
+                "en": "Lofotodden National Park museum",
+                "de": "Nationalparkmuseum Lofotodden",
+                "hu": "Lofotodden Nemzeti Park múzeum",
+                "ro": "Muzeul Parcului Național Lofotodden"
+              },
+              "tip_5lang": {
+                "en": "A warm sanctuary for winter travelers; park in the designated lot and take advantage of the indoor warmth to plan the rest of your icy driving route.",
+                "de": "Ein warmer Zufluchtsort; parken Sie auf dem Parkplatz und nutzen Sie die Wärme drinnen, um den Rest Ihrer winterlichen Fahrtroute zu planen.",
+                "hu": "Meleg szentély a téli utazóknak; parkolj a kijelölt helyen, és használd ki a benti meleget a további jeges útvonal megtervezéséhez.",
+                "ro": "Un sanctuar cald pentru călători; parcați în lotul desemnat și profitați de căldura din interior pentru a planifica restul rutei înghețate."
+              }
+            },
+            {
+              "name": {
+                "en": "Reinefjorden",
+                "de": "Reinefjorden",
+                "hu": "Reinefjorden",
+                "ro": "Reinefjorden"
+              },
+              "tip_5lang": {
+                "en": "Snow removal trucks are frequent on this road; give them space and be prepared for sudden patches of black ice near the water's edge.",
+                "de": "Schneepflüge sind hier oft unterwegs; halten Sie Abstand und stellen Sie sich auf plötzliches Glatteis in der Nähe des Wassers ein.",
+                "hu": "Gyakoriak itt a hókotrók; hagyj nekik helyet, és készülj fel a hirtelen jégfoltokra az út mentén, különösen a víz közelében.",
+                "ro": "Plugurile de zăpadă sunt frecvente pe acest drum; lăsați-le spațiu și fiți pregătiți pentru porțiuni de gheață neagră lângă marginea apei."
+              }
+            },
+            {
+              "name": {
+                "en": "Olstinden",
+                "de": "Olstinden",
+                "hu": "Olstinden",
+                "ro": "Olstinden"
+              },
+              "tip_5lang": {
+                "en": "The view of the snowy peak is best at dawn; ensure your car's windows are fully defrosted before starting your journey to this viewpoint.",
+                "de": "Der Blick auf den verschneiten Gipfel ist im Morgengrauen am schönsten; stellen Sie sicher, dass Ihre Scheiben komplett enteist sind.",
+                "hu": "A hófödte csúcs látványa hajnalban a legszebb; győződj meg róla, hogy az autó ablakai teljesen jégtelenítve vannak, mielőtt elindulsz ide.",
+                "ro": "Vederea vârfului înzăpezit este cea mai frumoasă în zori; asigurați-vă că geamurile mașinii sunt complet dezghețate înainte de a porni spre el."
+              }
+            },
+            {
+              "name": {
+                "en": "Vorfjorden",
+                "de": "Vorfjorden",
+                "hu": "Vorfjorden",
+                "ro": "Vorfjorden"
+              },
+              "tip_5lang": {
+                "en": "Low sun can cause blinding glare on the snow-covered roads; keep a pair of sunglasses in the car and drive with extra caution near the shore.",
+                "de": "Die tiefstehende Sonne kann auf verschneiten Straßen blenden; halten Sie eine Sonnenbrille bereit und fahren Sie am Ufer besonders vorsichtig.",
+                "hu": "Az alacsonyan lévő nap elvakíthat a havas utakon; tarts napszemüveget az autóban, és vezess fokozott óvatossággal a part mentén.",
+                "ro": "Soarele jos poate cauza strălucire orbitoare pe drumurile înzăpezite; păstrați o pereche de ochelari de soare în mașină și conduceți prudent."
+              }
+            },
+            {
+              "name": {
+                "en": "Gylttinden",
+                "de": "Gylttinden",
+                "hu": "Gylttinden",
+                "ro": "Gylttinden"
+              },
+              "tip_5lang": {
+                "en": "The road climbs slightly here, which means more ice; check your car's traction control and avoid sudden steering movements on the slippery curves.",
+                "de": "Die Straße steigt hier leicht an, was mehr Eis bedeutet; prüfen Sie Ihre Traktionskontrolle und vermeiden Sie ruckartige Lenkbewegungen.",
+                "hu": "Az út itt enyhén emelkedik, ami több jeget jelent; ellenőrizd a kipörgésgátlót, és kerüld a hirtelen kormánymozdulatokat a csúszós kanyarokban.",
+                "ro": "Drumul urcă ușor aici, ceea ce înseamnă mai multă gheață; verificați controlul tracțiunii și evitați mișcările bruște de volan în curbe."
+              }
+            },
+            {
+              "name": {
+                "en": "Sørvågvatnet",
+                "de": "Sørvågvatnet",
+                "hu": "Sørvågvatnet",
+                "ro": "Sørvågvatnet"
+              },
+              "tip_5lang": {
+                "en": "The lake is often completely frozen and white; park only in cleared areas and ensure your headlights are on, as the blue hour starts early here.",
+                "de": "Der See ist oft komplett zugefroren; parken Sie nur auf geräumten Flächen und lassen Sie das Licht an, da die blaue Stunde hier früh beginnt.",
+                "hu": "A tó gyakran teljesen befagy és fehérlik; csak letakarított helyen parkolj, és kapcsold be a fényszórókat, mert itt korán kezdődik a kék óra.",
+                "ro": "Lacul este adesea complet înghețat; parcați doar în zonele curățate și asigurați-vă că farurile sunt aprinse, căci ora albastră începe devreme."
+              }
+            }
+          ]
+        }
       }
     }
   }

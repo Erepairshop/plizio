@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Castries történelmi szívében, a Saint-Étienne templomtól a pompás kastélyig. Délben a Colombier egykori kőfejtőjéhez látogat, ahol a helyi kő eredetét láthatja. Délután kövesse a lenyűgöző vízvezeték íveit a tájon keresztül. Sétáját a buja, zöldellő Théâtre de Verdure szabadtéri színházában pihenve zárhatja.",
         "ro": "Începeți dimineața în inima istorică din Castries, de la Biserica Saint-Étienne la magnificul Castel. La prânz, vizitați fosta carieră Colombier pentru a vedea originea pietrei locale. După-amiaza, urmați arcadele monumentale ale Apeductului prin peisaj. Încheiați plimbarea relaxându-vă la fermecătorul teatru în aer liber Théâtre de Verdure.",
         "en": "Start your morning exploring the historic heart of Castries, from the grand Saint-Étienne Church to the magnificent Castries Castle. Midday takes you out to the Ancienne carrière du Colombier to see the origins of local stone. In the afternoon, follow the monumental arches of the Aqueduct stretching across the landscape. Conclude your walk relaxing at the lush, open-air Théâtre de Verdure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den regnerischen Morgen in der Kirche und suchen mittags Schutz im Schloss. Am nassen Nachmittag navigieren wir mit Regenschirmen vorsichtig über die rutschigen Wege des Steinbruchs und des Aquädukts. Den Abend verbringen wir am grünen Theater und meiden den Schlamm auf den Wegen.",
+            "hu": "Az esős reggelt a templomban kezdjük, majd délben a vár fedett termeiben keresünk menedéket. A nedves délutánon esernyővel a kézben, óvatosan járjuk be a csúszós kőfejtőt és a nyitott vízvezetéket. Az estét a szabadtéri színháznál zárjuk, ügyelve a sáros ösvényekre.",
+            "ro": "Începem dimineața ploioasă la biserică, apoi ne adăpostim la castel la prânz. Într-o după-amiază umedă, parcurgem cu atenție potecile alunecoase ale carierei și apeductul expus, sub umbrele. Încheiem plimbarea la teatrul de verdeață, evitând noroiul de pe iarbă pe timp de seară.",
+            "en": "We start the rainy morning at the church, then find indoor shelter at the grand castle by noon. In the wet afternoon, we carefully navigate the slippery paths of the historic quarry and the exposed aqueduct with umbrellas. We finish our walk at the green theatre, avoiding muddy paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Étienne Church",
+                "hu": "Saint-Étienne Church",
+                "ro": "Saint-Étienne Church",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Inneren. Es ist ein perfekter, trockener Zufluchtsort, also halten Sie Ihren Regenschirm am Eingang bereit.",
+                "hu": "Csodáld meg a templom benti ólomüveg ablakait. Ez a száraz beltér tökéletes menedéket nyújt, de a bejáratnál tartsd kéznél az esernyődet a zápor idején.",
+                "ro": "Admirați vitraliile frumoase din interiorul bisericii. Este un refugiu uscat perfect, așa că păstrați umbrela la îndemână la intrare în timpul ploii.",
+                "en": "Admire the beautiful stained glass inside the church. It is a perfect, dry indoor refuge, so keep your umbrella handy at the entrance during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Castle",
+                "hu": "Castries Castle",
+                "ro": "Castries Castle",
+                "en": "Castries Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das prächtige Interieur und die antiken Möbel. Die Innenräume bieten einen perfekten, trockenen Rückzugsort vor dem starken Regen draußen.",
+                "hu": "Fedezd fel a pompás belső tereket és az antik bútorokat. A fedett termek tökéletes és száraz menedéket nyújtanak a kinti heves esőzés elől.",
+                "ro": "Explorați interioarele grandioase și mobilierul de epocă. Camerele interioare oferă o scăpare perfectă și uscată din calea ploii abundente de afară.",
+                "en": "Explore the grand interiors and antique furniture. The indoor rooms provide a perfect, dry escape from the heavy rain and gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne carrière du Colombier",
+                "hu": "Ancienne carrière du Colombier",
+                "ro": "Ancienne carrière du Colombier",
+                "en": "Ancienne carrière du Colombier"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die historischen Steingruben aus der Nähe an. Passen Sie auf, da der unebene felsige Boden bei Nässe extrem rutschig und gefährlich wird.",
+                "hu": "Nézd meg testközelből a történelmi kőfejtőt. Nagyon óvatosan lépkedj, mert az egyenetlen sziklás talaj rendkívül csúszóssá és veszélyessé válik nedvesen.",
+                "ro": "Vedeți de aproape siturile istorice de extracție a pietrei. Pășiți cu mare atenție, deoarece terenul stâncos inegal devine extrem de alunecos când este ud.",
+                "en": "See the historic stone extraction sites up close. Watch your step carefully as the uneven rocky ground gets extremely slippery when it is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Aqueduct",
+                "hu": "Castries Aqueduct",
+                "ro": "Castries Aqueduct",
+                "en": "Castries Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die beeindruckenden hohen Bögen. Bringen Sie einen stabilen Regenmantel mit, da diese offene Struktur absolut keinen Schutz bietet.",
+                "hu": "Csodáld meg a lenyűgöző, magasba törő boltíveket. Hozz magaddal egy erős esőkabátot, mivel ez a teljesen nyitott építmény egyáltalán nem nyújt menedéket.",
+                "ro": "Minunați-vă de arcele impresionante și înalte. Aduceți o pelerină de ploaie rezistentă, deoarece această structură expusă nu oferă deloc adăpost.",
+                "en": "Marvel at the impressive, towering arches. Bring a sturdy raincoat as this completely exposed structure offers absolutely no shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Verdure",
+                "hu": "Théâtre de Verdure",
+                "ro": "Théâtre de Verdure",
+                "en": "Théâtre de Verdure"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die atmosphärische Freiluftbühne. Bleiben Sie ausschließlich auf den gepflasterten Wegen, da die Grasflächen im Regen sehr schlammig werden.",
+                "hu": "Élvezd a hangulatos szabadtéri színpad környékét. Kizárólag a burkolt ösvényeken maradj, mert a füves részek nagyon sárosak és vizenyősek lesznek esőben.",
+                "ro": "Bucurați-vă de zona scenei în aer liber. Rămâneți exclusiv pe aleile pavate, deoarece secțiunile cu iarbă devin destul de noroioase și inundate pe ploaie.",
+                "en": "Enjoy the atmospheric outdoor stage area. Stick exclusively to the paved paths since the grassy sections become quite muddy and flooded in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Kirche, gefolgt von Mittagssonne am gut erhaltenen Schloss. Wir verbringen einen frischen Nachmittag in warmer Kleidung am historischen Steinbruch und am Aquädukt. Unser Spaziergang endet am grünen Theater vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "A csípős téli reggelt a templomban indítjuk, délben pedig a várnál élvezzük a napsütést. A hűvös délutánt a kőfejtő és a vízvezeték felfedezésével töltjük, melegen felöltözve. Sétánkat a szabadtéri színháznál fejezzük be, még a korai, 17 óra körüli sötétedés előtt.",
+            "ro": "O dimineață de iarnă geroasă începe la biserică, urmată de soarele prânzului la castel. Ne petrecem o după-amiază răcoroasă admirând cariera și maiestuosul apeduct, bine îmbrăcați. Plimbarea se încheie la teatrul de verdeață, înainte de apusul devreme din jurul orei 17:00.",
+            "en": "A crisp winter morning starts at the local church, followed by midday sunshine at the beautifully preserved castle. We spend a brisk afternoon admiring the historic quarry and the majestic aqueduct, wrapped in warm layers. Our walk concludes at the green theatre before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Étienne Church",
+                "hu": "Saint-Étienne Church",
+                "ro": "Saint-Étienne Church",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die ruhige Winteratmosphäre. Die dicken Steinmauern machen es hier ziemlich kühl, also behalten Sie Ihre warme Winterjacke unbedingt an.",
+                "hu": "Csodáld meg a csendes téli hangulatot a főhajóban. A vastag kőfalak miatt meglehetősen hűvös van, ezért tartsd magadon a meleg téli kabátodat.",
+                "ro": "Admirați atmosfera liniștită de iarnă din naos. Pereții groși de piatră fac să fie destul de răcoare, așa că păstrați geaca groasă de iarnă pe dumneavoastră.",
+                "en": "Admire the quiet winter atmosphere inside the nave. The thick stone walls make it quite chilly, so keep your warm winter jacket on while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Castle",
+                "hu": "Castries Castle",
+                "ro": "Castries Castle",
+                "en": "Castries Castle"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die historischen Hallen. Das niedrige Sonnenlicht im Winter, das durch die Fenster fällt, bringt die atemberaubende Architektur perfekt zur Geltung.",
+                "hu": "Fedezd fel a gyönyörűen megőrzött történelmi termeket. Az ablakokon beszűrődő alacsony téli napfény tökéletesen kiemeli a lenyűgöző építészetet.",
+                "ro": "Descoperiți sălile istorice frumos conservate. Lumina scăzută a soarelui de iarnă care se filtrează prin ferestre evidențiază perfect arhitectura.",
+                "en": "Discover the beautifully preserved historical halls. The low winter sunlight filtering through the windows highlights the stunning architecture perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne carrière du Colombier",
+                "hu": "Ancienne carrière du Colombier",
+                "ro": "Ancienne carrière du Colombier",
+                "en": "Ancienne carrière du Colombier"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die alten Steinbrüche. Tragen Sie warme, isolierte Schuhe, da sich in den schattigen Steinbereichen die eisige Winterkälte staut.",
+                "hu": "Sétálj át az impozáns, régi kőfejtőkön. Viselj meleg, szigetelt bakancsot, mivel a mélyen árnyékos kőzetek megtartják a fagyos téli hideget.",
+                "ro": "Plimbați-vă prin vechile cariere impunătoare. Purtați bocanci călduroși, deoarece secțiunile de piatră puternic umbrite rețin frigul aspru de iarnă.",
+                "en": "Walk through the imposing old quarries. Wear warm, insulated walking boots as the deeply shaded stone sections trap the freezing winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Aqueduct",
+                "hu": "Castries Aqueduct",
+                "ro": "Castries Aqueduct",
+                "en": "Castries Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Aussicht auf die Landschaft. Der Winterwind kann hier sehr beißend sein, ein dicker Schal und Handschuhe sind absolut unerlässlich.",
+                "hu": "Élvezd a tiszta, széles kilátást a tájra. A téli szél itt a nyílt terepen nagyon metsző lehet, ezért egy vastag sál és kesztyű feltétlenül szükséges.",
+                "ro": "Bucurați-vă de priveliștile clare ale peisajului. Vânturile de iarnă pot fi aspre aici în aer liber, așa că un fular gros și mănușile sunt esențiale.",
+                "en": "Enjoy clear, sweeping views of the landscape. The winter winds can be biting here in the open, so a thick scarf and gloves are absolutely essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Verdure",
+                "hu": "Théâtre de Verdure",
+                "ro": "Théâtre de Verdure",
+                "en": "Théâtre de Verdure"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostbedeckte Landschaft. Besuchen Sie diesen Ort frühzeitig, da die Sonne schnell gegen 17:00 Uhr untergeht und es schlagartig kalt wird.",
+                "hu": "Tapasztald meg a fagyos, csendes tájat. Látogass ide korán, mivel a téli nap gyorsan, 17:00 körül lemegy, és a hőmérséklet hirtelen lezuhan.",
+                "ro": "Experimentați peisajul senin, acoperit de brumă. Vizitați acest loc devreme, deoarece soarele apune rapid în jurul orei 17:00, aducând un frig brusc.",
+                "en": "Experience the serene, frost-covered landscaping. Visit this spot early as the winter sun sets quickly around 17:00, bringing a sudden drop in temperature."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a külvárosban a templomos parancsnokságnál, majd tekerjen a vízvezetékhez. Délben guruljon be a központba, hogy megcsodálja a történelmi templomot és a kastélyt. A délutáni tekerés a régi kőfejtők mellett a rusztikus malomhoz vezet. Zárja aktív napját a csendes Saint-Léonard remeteségnél az esti napfényben.",
         "ro": "Începeți turul cu bicicleta la comanderia templieră, înainte de a merge la marele Apeduct. La prânz, ajungeți în centru pentru a admira biserica și magnificul castel. Plimbarea de după-amiază vă duce pe lângă vechile cariere până la moara rustică. Încheiați ziua activă la seninul schit Saint-Léonard pe măsură ce soarele coboară.",
         "en": "Kick off your cycling tour in the outskirts at the Templar commandery before heading to the sweeping Aqueduct. By midday, roll into the village center to admire the historic church and the magnificent \"Little Versailles\" castle. Afternoon riding takes you past the old quarries to the rustic Moulin. Finish your active day at the serene Ermitage de Saint-Léonard as the sun lowers."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir fahren durch den Morgenregen zur Templer-Stätte und achten auf rutschige Wege. Mittags trotzen wir den Schauern am Aquädukt und suchen Schutz in Kirche und Schloss. Der nasse Nachmittag führt uns vorsichtig am Steinbruch und der Mühle vorbei zur rutschigen Einsiedelei.",
+            "hu": "A reggeli esőben eltekerünk a templomosokhoz, vigyázva a csúszós utakon. Délben dacolunk a záporral a vízvezetéknél, majd a templomban és a várban melegszünk fel. A nedves délután a kőfejtőn és a malmon át vezet, majd óvatosan érünk a remetelak síkos lépcsőihez.",
+            "ro": "Pedalăm prin ploaia matinală spre situl templier, atenți pe drumurile alunecoase. La prânz, înfruntăm ploile la apeduct înainte de a ne adăposti în biserică și castel. După-amiaza umedă ne duce cu grijă pe lângă carieră și moară, oprindu-ne pe treptele alunecoase de la schit.",
+            "en": "We ride through the morning rain to the Templar site, taking care on slick trails. By noon, we brave the showers at the aqueduct before finding dry shelter inside the church and castle. The wet afternoon brings us cautiously past the old quarry to the mill, ending at the slippery hermitage."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Michel des Bannières (Commanderie Templière)",
+                "hu": "Saint-Michel des Bannières (Commanderie Templière)",
+                "ro": "Saint-Michel des Bannières (Commanderie Templière)",
+                "en": "Saint-Michel des Bannières (Commanderie Templière)"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die alten Templer-Überreste. Bremsen Sie sanft ab, da die nassen ländlichen Wege im Regen für Fahrradreifen sehr schlammig und rutschig sind.",
+                "hu": "Nézd meg az ősi templomos romokat. Fékezz óvatosan a megközelítéskor, mert a nedves vidéki utak nagyon sárosak és csúszósak a kerékpárgumik számára.",
+                "ro": "Vedeți vechile rămășițe templiere. Frânați ușor la apropiere, deoarece potecile rurale umede pot fi destul de noroioase și alunecoase pe timp de ploaie.",
+                "en": "See the ancient Templar remains. Brake gently on your approach as the wet rural paths can be quite muddy and slick for bicycle tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Aqueduct",
+                "hu": "Castries Aqueduct",
+                "ro": "Castries Aqueduct",
+                "en": "Castries Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an den Steinbögen entlang. Packen Sie einen wasserdichten Poncho ein, da es auf diesem offenen Feld keine trockenen Unterstände gibt.",
+                "hu": "Tekerj el a csodálatos kőívek mellett. Csomagolj be egy vízálló poncsót, mivel ezen a nyílt terepen nincsenek száraz helyek a záporok átvészelésére.",
+                "ro": "Ciclism de-a lungul arcadelor magnifice. Împachetați un poncho impermeabil, deoarece nu există locuri uscate pentru a aștepta trecerea ploilor bruște.",
+                "en": "Cycle alongside the magnificent stone arches. Pack a waterproof poncho as there are no dry spots to wait out sudden showers in this open field."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Church",
+                "hu": "Saint-Étienne Church",
+                "ro": "Saint-Étienne Church",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den schönen Altar. Parken Sie Ihr Fahrrad draußen und genießen Sie einen völlig trockenen, friedlichen Moment im großen Kirchenschiff.",
+                "hu": "Tarts szünetet a gyönyörű oltárnál. Parkold le a bringát kint, és élvezd a teljesen száraz, békés pillanatot a hatalmas templomhajóban.",
+                "ro": "Luați o pauză pentru a vedea altarul frumos. Parcați bicicleta afară și bucurați-vă de un moment complet uscat și pașnic în interiorul navei.",
+                "en": "Take a break to view the beautiful altar. Park your bike outside and enjoy a completely dry, peaceful moment inside the grand church nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Castle",
+                "hu": "Castries Castle",
+                "ro": "Castries Castle",
+                "en": "Castries Castle"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Festungsinnere. Lassen Sie Ihre nasse Fahrradausrüstung in der Garderobe, um die historischen Räume bequem erkunden zu können.",
+                "hu": "Járd be az erőd lenyűgöző belső tereit. Hagyd a vizes kerékpáros felszerelésed a ruhatárban, hogy kényelmesen felfedezhesd a történelmi szobákat.",
+                "ro": "Vizitați interioarele fortăreței. Lăsați echipamentul ud de ciclism la garderobă pentru a explora confortabil camerele istorice, fără a picura apă.",
+                "en": "Tour the impressive fortress interiors. Leave your wet cycling gear in the cloakroom to comfortably explore the historic rooms without dripping water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne carrière du Colombier",
+                "hu": "Ancienne carrière du Colombier",
+                "ro": "Ancienne carrière du Colombier",
+                "en": "Ancienne carrière du Colombier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die historischen Steinschnitte. Steigen Sie ab und schieben Sie Ihr Fahrrad, da die nasse Kalksteinoberfläche extrem tückisch ist.",
+                "hu": "Figyeld meg a történelmi kővágásokat. Szállj le és told a kerékpárt, mert a nedves mészkőfelület rendkívül alattomos és veszélyesen csúszós.",
+                "ro": "Observați tăieturile istorice în piatră. Descălecați și împingeți bicicleta aici, deoarece suprafața umedă de calcar este extrem de alunecoasă.",
+                "en": "Observe the deep historical stone cuts. Dismount and push your bike here because the wet limestone surface is extremely treacherous and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin",
+                "hu": "Moulin",
+                "ro": "Moulin",
+                "en": "Moulin"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich die klassische Windmühle an. Das umliegende Gras wird sehr schlammig, also bleiben Sie mit dem Rad streng auf dem Hauptkiesweg.",
+                "hu": "Nézd meg a klasszikus szélmalom szerkezetét. A környező fű nagyon sáros lesz, ezért feltétlenül tartsd a kerékpárt a kavicsos főútvonalon.",
+                "ro": "Verificați structura clasică a morii de vânt. Iarba din jur devine foarte noroioasă, așa că asigurați-vă că țineți bicicleta doar pe traseul de pietriș.",
+                "en": "Check out the classic windmill structure. The surrounding grass gets very muddy, so make sure to keep your bike strictly on the main gravel trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage de Saint-Léonard",
+                "hu": "Ermitage de Saint-Léonard",
+                "ro": "Ermitage de Saint-Léonard",
+                "en": "Ermitage de Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den religiösen Rückzugsort. Seien Sie beim letzten Abstieg besonders vorsichtig, da nasses Laub den Weg bedeckt und extrem rutschig ist.",
+                "hu": "Élvezd az elszigetelt vallási menedéket. Légy különösen óvatos a végső ereszkedésnél, mivel a nedves levelek jelentősen rontják a gumik tapadását.",
+                "ro": "Bucurați-vă de refugiul religios retras. Folosiți o atenție sporită la coborârea finală, deoarece frunzele ude acoperă poteca și reduc tracțiunea.",
+                "en": "Enjoy the secluded religious retreat. Use extra caution on the final descent, as wet leaves cover the forest path and reduce tire traction significantly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt führt uns zur alten Templer-Komturei. Mittags radeln wir flott zum Aquädukt und wärmen uns in Kirche und Schloss auf. Am eiskalten Nachmittag treten wir kräftig in die Pedale, um vor dem Sonnenuntergang um 17 Uhr die Einsiedelei zu erreichen.",
+            "hu": "A fagyos reggeli tekerés az ősi templomos parancsnoksághoz vezet. Délben élénk tempóban haladunk a vízvezetékhez, majd a templom és a vár falai között melegedünk. A dermesztő délutánon a kőfejtő és a malom mellett tekerünk, versenyt futva a korai sötétedéssel.",
+            "ro": "O plimbare matinală geroasă ne duce la vechea comandărie templieră. Prânzul aduce o pedalare rapidă spre apeduct și încălzirea mâinilor în biserică și castel. În după-amiaza rece, pedalăm energic pe lângă carieră, grăbindu-ne spre schit înainte de întuneric.",
+            "en": "A frosty morning ride takes us to the ancient Templar commandery. Midday involves a brisk cycle to the aqueduct and warming our hands inside the church and castle walls. In the freezing afternoon, we pedal vigorously, racing against the early 5 PM sunset to reach the hermitage."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Michel des Bannières (Commanderie Templière)",
+                "hu": "Saint-Michel des Bannières (Commanderie Templière)",
+                "ro": "Saint-Michel des Bannières (Commanderie Templière)",
+                "en": "Saint-Michel des Bannières (Commanderie Templière)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen an der frischen Luft. Tragen Sie thermische Fahrradhandschuhe, um Ihre Finger auf der morgendlichen Fahrt warm zu halten.",
+                "hu": "Fedezd fel a történelmi romokat a csípős levegőben. Viselj thermo kerékpáros kesztyűt, hogy melegen tartsd az ujjaidat a reggeli tekerés során.",
+                "ro": "Explorați ruinele istorice în aerul proaspăt. Purtați mănuși termice de ciclism pentru a vă menține degetele calde pe drumul răcoros de dimineață.",
+                "en": "Explore the historic ruins in the crisp air. Wear thermal cycling gloves to keep your fingers warm on the breezy morning ride to this location."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Aqueduct",
+                "hu": "Castries Aqueduct",
+                "ro": "Castries Aqueduct",
+                "en": "Castries Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinbögen vor dem Winterhimmel. Das offene Gelände bietet keinen Windschutz, eine dicke winddichte Radjacke ist ein Muss.",
+                "hu": "Csodáld meg a kőíveket a téli égbolt előtt. A nyílt terep nem nyújt szélvédelmet, ezért egy vastag, szélálló kerékpáros kabát kötelező darab.",
+                "ro": "Admirați arcadele de piatră sub cerul de iarnă. Terenul deschis nu oferă nicio barieră împotriva vântului, o jachetă groasă de ciclism e obligatorie.",
+                "en": "Admire the sprawling stone arches against the winter sky. The open terrain offers zero windbreak, so a heavy windproof cycling jacket is a must."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Church",
+                "hu": "Saint-Étienne Church",
+                "ro": "Saint-Étienne Church",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die Architektur zu schätzen. Es ist ein toller Ort, um Ihre kalten Hände kurz aufzuwärmen, bevor Sie Ihre Radtour fortsetzen.",
+                "hu": "Lépj be, hogy értékeld a történelmi építészetet. Ez egy nagyszerű hely arra, hogy röviden felmelegítsd fagyos kezeidet, mielőtt tovább tekersz.",
+                "ro": "Intrați pentru a aprecia arhitectura istorică. Este un loc minunat pentru a vă încălzi scurt mâinile înghețate înainte de a continua turul cu bicicleta.",
+                "en": "Step inside to appreciate the historic architecture. It’s a great spot to briefly warm up your freezing hands before continuing your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Castle",
+                "hu": "Castries Castle",
+                "ro": "Castries Castle",
+                "en": "Castries Castle"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch die historischen Räume. Das frische Winterwetter macht die Erkundung der Innenräume zu einem gemütlichen Erlebnis.",
+                "hu": "Barangolj az elegáns, történelmi termekben. A csípős téli időjárás miatt a benti felfedezés egyszerre kényelmes és kulturálisan lenyűgöző élmény.",
+                "ro": "Plimbați-vă prin camerele istorice elegante. Vremea rece de iarnă face ca explorarea interioară să fie o experiență confortabilă și fascinantă.",
+                "en": "Wander through the elegant, historic rooms. The brisk winter weather makes the indoor exploration both a cozy and culturally fascinating experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne carrière du Colombier",
+                "hu": "Ancienne carrière du Colombier",
+                "ro": "Ancienne carrière du Colombier",
+                "en": "Ancienne carrière du Colombier"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie an den hohen Felswänden vorbei. Hüten Sie sich vor gefährlichen Eisflächen, die sich in den Schatten des alten Steinbruchs bilden können.",
+                "hu": "Tekerj el a magasba törő sziklafalak mellett. Óvakodj a veszélyes jégfoltoktól, amelyek a régi kőfejtő mély, állandó árnyékában képződhetnek.",
+                "ro": "Mergeți pe lângă pereții de piatră excavați. Feriți-vă de peticele periculoase de gheață care se pot forma în umbrele profunde ale vechii cariere.",
+                "en": "Ride past the towering excavated rock walls. Beware of dangerous icy patches that can form in the deep, permanent shadows of the old quarry floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin",
+                "hu": "Moulin",
+                "ro": "Moulin",
+                "en": "Moulin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die malerische Windmühle. Radeln Sie zügig, um in der beißenden Nachmittagskälte um diesen offenen Bereich Körperwärme zu erzeugen.",
+                "hu": "Élvezd a festői szélmalom látványát. Tekerj élénk tempóban, hogy testhőt termelj a metsző délutáni hidegben ezen a nyílt területen.",
+                "ro": "Bucurați-vă de moara de vânt pitorească. Rulați rapid pentru a genera căldură corporală în frigul mușcător de după-amiază din această zonă.",
+                "en": "Enjoy the quaint windmill against the stark landscape. Cycle briskly to generate body heat in the biting afternoon chill around this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage de Saint-Léonard",
+                "hu": "Ermitage de Saint-Léonard",
+                "ro": "Ermitage de Saint-Léonard",
+                "en": "Ermitage de Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses friedliche Heiligtum. Stellen Sie sicher, dass Ihre Fahrradlichter geladen sind, da die Sonne schnell gegen 17 Uhr untergeht.",
+                "hu": "Látogass el ebbe a békés, elszigetelt szentélybe. Győződj meg róla, hogy a lámpáid fel vannak töltve, mert a nap délután 5 órára gyorsan lemegy.",
+                "ro": "Vizitați acest sanctuar pașnic. Asigurați-vă că luminile bicicletei sunt complet încărcate, deoarece soarele apune rapid până la ora 17:00.",
+                "en": "Visit this peaceful, isolated sanctuary. Ensure your bike lights are fully charged since the winter sun sets rapidly by 5 PM, making the forest dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autózzon el kényelmesen a templomos helyszínhez és a vízvezetékhez a délelőtt folyamán. Délben a kulturális Théâtre de Verdure és a malom várja. Töltse a délutánt az eldugott remeteség és a helyi kőfejtők felfedezésével. Kora este térjen vissza a falu központjába a látványos templomhoz, majd zárja a napot a fenséges Castries kastélynál.",
         "ro": "Conduceți dimineața către situl medieval templier și monumentalul Apeduct. La prânz vizitați culturalul Théâtre de Verdure și fermecătoarea moară. Petreceți după-amiaza descoperind schitul ascuns și carierele locale accidentate. Spre seară, întoarceți-vă în centrul satului pentru biserica impresionantă și un final grandios la Castel.",
         "en": "Drive smoothly to the distant medieval Templar site and the monumental Aqueduct in the morning. Midday brings you to the cultural Théâtre de Verdure and the charming Moulin. Spend the afternoon uncovering the hidden Ermitage and the rugged local quarries. As evening approaches, return to the village core for the striking church and a grand finale at the Castries Castle at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir fahren sicher durch den verregneten Morgen zur Templer-Stätte und machen ein schnelles Foto vom Aquädukt. Mittags navigieren wir um das Theater und die Mühle. Am nassen Nachmittag besuchen wir vorsichtig die Einsiedelei und den Steinbruch und genießen abends das trockene Schloss.",
+            "hu": "Biztonságosan autózunk az esős reggelen a templomosokhoz, gyors fotót készítve a vízvezetékről. A delet a színház és a malom körüli sáros utakon töltjük. A nedves délutánon óvatosan megnézzük a remetelakot és a kőfejtőt, végül a templom és a vár száraz kényelmét élvezzük.",
+            "ro": "Conducem în siguranță în dimineața ploioasă spre situl templier, făcând o poză rapidă la apeduct. Prânzul este petrecut pe potecile noroioase de la teatru și moară. În după-amiaza umedă, vizităm cu atenție schitul și cariera, bucurându-ne la final de confortul uscat al castelului.",
+            "en": "We drive safely through the rainy morning to the Templar site, grabbing a quick photo of the aqueduct. Midday is spent navigating muddy paths around the theatre and mill. In the wet afternoon, we carefully visit the hermitage and quarry, finally enjoying the dry comfort of the castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Michel des Bannières (Commanderie Templière)",
+                "hu": "Saint-Michel des Bannières (Commanderie Templière)",
+                "ro": "Saint-Michel des Bannières (Commanderie Templière)",
+                "en": "Saint-Michel des Bannières (Commanderie Templière)"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die alte Komturei. Parken Sie vorsichtig auf festem Kies, da der unbefestigte Randstreifen bei Regen schnell zu tiefem Schlamm wird.",
+                "hu": "Fedezd fel a régi parancsnokságot. Parkolj óvatosan a szilárd kavicson, mivel az út menti föld esőben gyorsan áthatolhatatlan sártengerré változik.",
+                "ro": "Descoperiți vechea comandărie. Parcați cu grijă pe pietrișul ferm, deoarece marginea de pământ a drumului se transformă rapid în noroi adânc pe ploaie.",
+                "en": "Discover the old Templar commandery. Park carefully on the firm gravel since the roadside dirt quickly turns into deep, impassable mud in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Aqueduct",
+                "hu": "Castries Aqueduct",
+                "ro": "Castries Aqueduct",
+                "en": "Castries Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Wasserkanal von Ihrem Auto aus. Steigen Sie nur kurz mit einem großen Regenschirm aus, da das freie Feld keine Deckung bietet.",
+                "hu": "Nézd meg a lenyűgöző vízvezetéket az autóból. Csak egy nagy esernyővel szállj ki röviden, mivel a nyílt terepen egyáltalán nincs természetes fedezék.",
+                "ro": "Priviți canalul de apă impresionant din mașină. Ieșiți doar scurt cu o umbrelă mare, deoarece câmpul deschis nu oferă absolut nicio acoperire.",
+                "en": "View the impressive water channel from your car. Step out only briefly with a large umbrella, as the open field offers absolutely no natural cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Verdure",
+                "hu": "Théâtre de Verdure",
+                "ro": "Théâtre de Verdure",
+                "en": "Théâtre de Verdure"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich das Freilichttheater an. Bleiben Sie streng auf den asphaltierten Wegen, um Ihre Schuhe nicht im durchnässten Gras zu ruinieren.",
+                "hu": "Vesd bele magad a szabadtéri színház látványába. Szigorúan maradj a burkolt járdákon, nehogy tönkretedd a cipődet az elázott, vizenyős fűben.",
+                "ro": "Priviți configurarea teatrului în aer liber. Rămâneți strict pe aleile pavate pentru a evita ruinarea pantofilor în iarba îmbibată de apă.",
+                "en": "Look at the open-air theater setup. Stick strictly to the paved walkways to avoid ruining your shoes in the soggy, waterlogged grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin",
+                "hu": "Moulin",
+                "ro": "Moulin",
+                "en": "Moulin"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die traditionelle Windmühle an. Halten Sie Ihren Besuch kurz und in der Nähe des geparkten Autos, um nicht durchnässt zu werden.",
+                "hu": "Nézd meg a hagyományos szélmalom építészetét. Tartsd rövidre a kinti látogatást, és maradj a parkoló autó közelében, hogy elkerüld az elázást.",
+                "ro": "Vedeți arhitectura tradițională a morii de vânt. Păstrați vizita scurtă și rămâneți lângă mașină pentru a evita să fiți uzi de ploaia torențială.",
+                "en": "See the traditional windmill architecture. Keep your outdoor visit short and stay near the parked car to avoid getting soaked by the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage de Saint-Léonard",
+                "hu": "Ermitage de Saint-Léonard",
+                "ro": "Ermitage de Saint-Léonard",
+                "en": "Ermitage de Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige Atmosphäre der Einsiedelei. Seien Sie extrem vorsichtig, da die alten Steinstufen bei Nässe unglaublich rutschig sind.",
+                "hu": "Tapasztald meg a remetelak csendes hangulatát. Légy rendkívül óvatos, mivel az ide vezető ősi kőlépcsők hihetetlenül csúszósak tudnak lenni esőben.",
+                "ro": "Experimentați atmosfera liniștită a schitului. Fiți extrem de atenți, deoarece treptele vechi de piatră pot fi incredibil de alunecoase când sunt ude.",
+                "en": "Experience the quiet atmosphere of the hermitage. Be extremely careful, as the ancient stone steps leading up can be incredibly slippery when drenched."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne carrière du Colombier",
+                "hu": "Ancienne carrière du Colombier",
+                "ro": "Ancienne carrière du Colombier",
+                "en": "Ancienne carrière du Colombier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die massiven Steinbrüche. Bringen Sie wasserdichte Stiefel mit, da sich auf dem unebenen Boden schnell große Pfützen bilden.",
+                "hu": "Figyeld meg a hatalmas kőfejtőket. Hozz magaddal masszív, vízálló csizmát, mivel a mélyedésekben gyorsan hatalmas tócsák alakulnak ki a sárban.",
+                "ro": "Observați carierele masive de piatră. Aduceți cizme impermeabile rezistente, deoarece se formează rapid bălți mari pe terenul accidentat.",
+                "en": "Observe the massive stone quarries. Bring sturdy waterproof boots, as large puddles form quickly on the uneven ground, making walking quite messy."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Church",
+                "hu": "Saint-Étienne Church",
+                "ro": "Saint-Étienne Church",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die komplizierten Steinarbeiten. Das trockene Innere dient als perfekter, friedlicher Zufluchtsort vor dem düsteren, nassen Wetter.",
+                "hu": "Csodáld meg a bonyolult belső kőfaragásokat. A száraz beltér tökéletes, békés menedékként szolgál a komor és rendkívül nedves kinti időjárás elől.",
+                "ro": "Admirați lucrările complicate în piatră din interior. Interiorul uscat servește ca un refugiu perfect și pașnic din calea vremii mohorâte și umede.",
+                "en": "Admire the intricate stonework inside. The dry interior serves as a perfect, peaceful refuge from the gloomy, wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Castle",
+                "hu": "Castries Castle",
+                "ro": "Castries Castle",
+                "en": "Castries Castle"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in den großen Schlossräumen. Die Innenausstellungen sind ideal, um völlig trocken und gut unterhalten zu bleiben.",
+                "hu": "Zárd a napot a grandiózus kastélytermek felfedezésével. A benti kiállítások ideálisak arra, hogy teljesen száraz maradj, miközben kint szakad az eső.",
+                "ro": "Încheiați-vă ziua explorând camerele grandioase ale castelului. Expozițiile interioare sunt ideale pentru a rămâne complet uscat și distrat pe ploaie.",
+                "en": "End your day exploring the grand castle rooms. The indoor exhibits are ideal for staying completely dry and entertained while the rain pours outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den kalten Wintermorgen mit einer Fahrt zur Templer-Stätte bei eingeschalteter Heizung. Mittags bieten sich klare Ausblicke auf das Aquädukt. Am eisigen Nachmittag erkunden wir Mühle, Einsiedelei und Steinbruch und besichtigen Kirche und Schloss vor Einbruch der frühen Dunkelheit.",
+            "hu": "A hideg téli reggelt a templomosokhoz vezető úttal kezdjük, jól befűtve az autót. A dél tiszta kilátást nyújt a vízvezetékre és a színházra. A fagyos délutánon felfedezzük a malmot, a remetelakot és a kőfejtőt, ügyelve arra, hogy a templomot és a várat a korai sötétedés előtt bejárjuk.",
+            "ro": "Începem dimineața rece de iarnă cu un drum spre situl templier, cu căldura pornită în mașină. Prânzul oferă priveliști clare la apeduct și teatru. În după-amiaza geroasă, explorăm moara, schitul și cariera, asigurându-ne că vizităm biserica și castelul înainte de lăsarea serii devreme.",
+            "en": "We start the cold winter morning with a drive to the Templar site, keeping the car heater on. Midday offers crisp views of the aqueduct and theatre. During the freezing afternoon, we explore the historic mill, hermitage, and quarry, making sure to tour the church and grand castle before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Michel des Bannières (Commanderie Templière)",
+                "hu": "Saint-Michel des Bannières (Commanderie Templière)",
+                "ro": "Saint-Michel des Bannières (Commanderie Templière)",
+                "en": "Saint-Michel des Bannières (Commanderie Templière)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das historische Templer-Anwesen. Lassen Sie die Autoheizung laufen, um sich nach dem kurzen, frostigen Spaziergang schnell aufzuwärmen.",
+                "hu": "Látogasd meg a történelmi templomos birtokot. Járasd az autó fűtését, hogy a rövid, fagyos kinti séta után gyorsan fel tudj melegedni a kocsiban.",
+                "ro": "Vizitați proprietatea istorică templieră. Lăsați căldura mașinii pornită pentru a vă încălzi rapid după scurta plimbare răcoroasă în aer liber.",
+                "en": "Visit the historic Templar estate. Keep the car heater running to warm up quickly after your short, chilly outdoor walk around the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Aqueduct",
+                "hu": "Castries Aqueduct",
+                "ro": "Castries Aqueduct",
+                "en": "Castries Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den winterlichen Blick auf die Bögen. Ziehen Sie sich sehr warm an, denn der Windchill in diesem offenen Bereich ist extrem streng.",
+                "hu": "Élvezd az akadálytalan téli kilátást a hatalmas ívekre. Öltözz vastag rétegekbe, mert a szélhűtés ezen a teljesen nyílt, kitett területen rendkívül erős.",
+                "ro": "Bucurați-vă de priveliștile de iarnă ale arcadelor. Îmbrăcați-vă în straturi groase, deoarece frigul cauzat de vânt în această zonă expusă este sever.",
+                "en": "Enjoy unobstructed winter views of the grand arches. Dress in heavy layers because the wind chill in this totally open, exposed area is severe."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Verdure",
+                "hu": "Théâtre de Verdure",
+                "ro": "Théâtre de Verdure",
+                "en": "Théâtre de Verdure"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die frostigen Gärten. Die Winterluft macht die Landschaft friedlich, aber tragen Sie unbedingt eine dicke Wintermütze.",
+                "hu": "Sétálj végig az alvó, deres kerteken. A csípős téli levegő békéssé teszi a tájat, de feltétlenül viselj vastag téli sapkát a kinti nézelődéshez.",
+                "ro": "Plimbați-vă prin grădinile adormite și înghețate. Aerul de iarnă face peisajul să pară liniștit, dar asigurați-vă că purtați o căciulă groasă afară.",
+                "en": "Walk through the dormant, frosty gardens. The crisp winter air makes the landscape feel peaceful, but be sure to wear a thick winter hat outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin",
+                "hu": "Moulin",
+                "ro": "Moulin",
+                "en": "Moulin"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die charmante Windmühle. Parken Sie so nah wie möglich, um die Zeit im eiskalten Winterwind auf ein Minimum zu reduzieren.",
+                "hu": "Fotózd le a bájos szélmalmot a rideg égbolt előtt. Parkolj a lehető legközelebb, hogy minimalizáld a fagyos téli szélnek való kitettséged idejét.",
+                "ro": "Fotografiați moara de vânt fermecătoare. Parcați cât mai aproape posibil pentru a minimiza timpul de expunere la briza înghețată de iarnă.",
+                "en": "Photograph the charming windmill against the stark sky. Park as close as possible to minimize your time exposed to the freezing winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage de Saint-Léonard",
+                "hu": "Ermitage de Saint-Léonard",
+                "ro": "Ermitage de Saint-Léonard",
+                "en": "Ermitage de Saint-Léonard"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die abgeschiedene Einsiedelei. Die schattigen Waldwege speichern die Kälte intensiv, weshalb ein warmer Schal sehr zu empfehlen ist.",
+                "hu": "Fedezd fel az elszigetelt remetelakot. Az árnyékos erdei ösvények intenzíven megtartják a hideget, ezért egy meleg sál és vastag kabát erősen ajánlott.",
+                "ro": "Descoperiți schitul retras. Potecile umbrite din pădure mențin frigul intens, așa că un fular cald și o haină groasă izolată sunt foarte recomandate.",
+                "en": "Discover the secluded hermitage. The shaded forest paths hold the cold intensely, so a warm scarf and a thick, insulated coat are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne carrière du Colombier",
+                "hu": "Ancienne carrière du Colombier",
+                "ro": "Ancienne carrière du Colombier",
+                "en": "Ancienne carrière du Colombier"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zwischen den Steinbruchwänden spazieren. Achten Sie auf Blitzeis, das sich häufig in den sonnenlosen, eiskalten Tiefen der Grube bildet.",
+                "hu": "Sétálj a lenyűgöző kőfejtő falai között. Gondosan ügyelj a tükörjégre, amely gyakran kialakul a gödör napfénytől elzárt, fagyos mélységeiben.",
+                "ro": "Plimbați-vă printre pereții impunători ai carierei. Atenție la gheața neagră care se formează frecvent în adâncurile înghețate și lipsite de soare.",
+                "en": "Walk among the imposing quarried walls. Watch out carefully for black ice that frequently forms in the sunless, freezing depths of the pit."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Church",
+                "hu": "Saint-Étienne Church",
+                "ro": "Saint-Étienne Church",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein in die Kirche. Die dicken Steinmauern schließen die kalte Luft im Inneren ein, ziehen Sie Ihren Wintermantel also nicht aus.",
+                "hu": "Lépj be a történelmi templomba. Bár gyönyörű, a vastag kőfalak csapdába ejtik a hideg levegőt, ezért a nézelődés során ne vedd le a téli kabátodat.",
+                "ro": "Intrați în biserica istorică. Deși frumoși, pereții groși captează aerul rece în interior, așa că nu vă scoateți haina de iarnă în timpul explorării.",
+                "en": "Step inside the historic church. Though beautiful, the thick stone walls trap the cold air inside, so do not take off your winter coat while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Castries Castle",
+                "hu": "Castries Castle",
+                "ro": "Castries Castle",
+                "en": "Castries Castle"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das prächtige Schlossinnere. Planen Sie eine frühe Ankunft, um das schwindende Winterlicht zu genießen, bevor es gegen 17 Uhr dunkel wird.",
+                "hu": "Járd be a fenséges kastély belső tereit. Tervezz korai érkezést, hogy még élvezhesd a halványuló téli napfényt, mielőtt 17 óra körül teljesen besötétedik.",
+                "ro": "Vizitați interioarele magnifice ale castelului. Planificați să ajungeți devreme pentru a vă bucura de lumina de iarnă înainte de a se întuneca la 17:00.",
+                "en": "Tour the magnificent castle interiors. Plan to arrive early to enjoy the fading winter sunlight before it gets completely dark around 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

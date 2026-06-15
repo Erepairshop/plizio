@@ -183,6 +183,224 @@
         "hu": "Morning: Kezdje a napot a friss tengeri levegő beszívásával a part menti szakaszokon. A lágy reggeli fény megvilágítja a homokos strandokat, békés sétára vagy egy korai csobbanásra hívogatva a kristálytiszta vizekben, még a tömeg érkezése előtt.\nMidday: Ahogy a nap eléri a zenitjét, váltson a pihentető partokról a rejtett öblök és ősi ösvények felfedezésére. A drámai partvonal páratlan kilátást kínál, tökéletes alkalmat teremtve a kék tenger és a zord sziklák lenyűgöző kontrasztjának megörökítésére.\nAfternoon: A késő délutánt szentelje az időutazásnak. Merészkedjen fel a sziklás ösvényeken a mitológiai helyszínek és történelmi romok felé. A hűsítő szellő enyhülést nyújt, miközben feltárja a tájba ivódott ősi legendák titkait.\nEvening: Fejezze be utazását a legmagasabb kilátópontokon, ahogy az égbolt színekbe borul. A középkori erőd romjairól a Jón-tenger felett nyíló panorámás naplemente látványos és felejthetetlen finálét kínál tengerparti kalandjának.",
         "ro": "Morning: Începeți ziua respirând aerul marin proaspăt de-a lungul coastelor. Lumina blândă a dimineții iluminează plajele de nisip, invitându-vă la o plimbare liniștită sau la o baie matinală în apele cristaline, chiar înainte de sosirea mulțimilor.\nMidday: Pe măsură ce soarele ajunge la zenit, treceți de la țărmurile relaxante la explorarea golfurilor ascunse și a potecilor antice. Coasta dramatică oferă priveliști de neegalat, capturând contrastul izbitor dintre marea albastră și stâncile aspre.\nAfternoon: Dedicați după-amiaza târzie unei călătorii înapoi în timp. Aventurați-vă pe cărările stâncoase spre situri mitologice și ruine istorice. Briza răcoroasă vă oferă alinare în timp ce descoperiți secretele legendelor antice gravate în peisaj.\nEvening: Încheiați-vă călătoria pe cele mai înalte puncte de observație, când cerul explodează în culori. Apusul panoramic peste Marea Ionică de pe ruinele fortăreței medievale oferă un final spectaculos și de neuitat aventurii voastre de coastă.",
         "en": "Morning: Start your day breathing in the fresh maritime air along the coastal stretches. The soft morning light illuminates the sandy beaches, inviting you for a peaceful walk or an early dip in the crystalline waters before the crowds arrive.\nMidday: As the sun reaches its peak, transition from relaxing shores to exploring hidden coves and ancient trails. The dramatic coastline offers unparalleled vistas, making it the perfect time to capture the striking contrast between blue sea and rugged cliffs.\nAfternoon: Dedicate the late afternoon to stepping back in time. Venture up the rocky paths towards mythological sites and historical ruins. The cooling breeze provides relief as you uncover the secrets of ancient legends etched into the landscape.\nEvening: Conclude your journey atop the highest vantage points as the sky bursts into colors. The panoramic sunset over the Ionian Sea from the medieval fortress ruins offers a spectacular and unforgettable finale to your coastal adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen peitscht der Regen über die Küste von Petrochori. Mittags suchen wir Schutz in den felsigen Buchten, während die Wellen tosen. Am Nachmittag erkunden wir die rutschigen Pfade zur Nestorhöhle und zum Palaiokastro. Der Abend endet in der Geborgenheit des Dorfes, während draußen der mediterrane Sturm über das Ionische Meer heult.",
+            "hu": "A reggel esővel és széllel érkezik a partra. Délben a sziklás öblökben keresünk menedéket a zord tenger elől. Délután a Nesztór-barlanghoz és Palaiokastróhoz vezető csúszós ösvényeket járjuk be óvatosan. Az este a falu melegében ér minket, miközben kint még tombol az esős mediterrán vihar a tenger felett.",
+            "ro": "Dimineața aduce ploaie și vânt pe coastă. La prânz căutăm adăpost în golful stâncos, în timp ce valurile se sparg cu putere. După-amiaza explorăm potecile alunecoase spre Peștera lui Nestor și Palaiokastro. Seara se încheie în siguranța satului, în timp ce afară furtuna mediteraneană continuă să bată peste mare.",
+            "en": "The morning brings rain and wind to the coast. At noon, we find shelter in rocky coves as the waves crash loudly. In the afternoon, we carefully navigate the slippery paths to Nestor's Cave and Palaiokastro. The evening ends in the warmth of the village while the Mediterranean storm rages outside over the Ionian Sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Petrochori Strand",
+                "hu": "Petrochori strand",
+                "ro": "Plaja Petrochori",
+                "en": "Petrochori Beach"
+              },
+              "tip_5lang": {
+                "de": "Die stürmische See ist von den Dünen aus ein beeindruckender Anblick; tragen Sie wasserfeste Schuhe und achten Sie auf tiefe Pfützen auf den Sandwegen.",
+                "hu": "A viharos tenger látványa lenyűgöző a dűnékről, de figyeljen a mély tócsákra a homokos utakon; viseljen vízálló cipőt és vigyen magával esernyőt.",
+                "ro": "Marea înfuriată este o priveliște impresionantă de pe dune; purtați încălțăminte impermeabilă și aveți grijă la bălțile adânci de pe drumurile de nisip.",
+                "en": "The stormy sea is a sight to behold from the dunes; wear waterproof shoes and watch out for deep puddles on the sandy paths during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen geschützten Vorraum, um den Regen über dem Meer zu beobachten; halten Sie Ihre Kamera in einer wasserdichten Tasche bereit.",
+                "hu": "A kis kápolna fedett előtere menedéket nyújt, ahonnan megfigyelheti a tenger feletti esőt; tartsa a fényképezőgépét vízhatlan táskában a sós permet ellen.",
+                "ro": "Pridvorul micuței capele oferă un adăpost bun pentru a observa ploaia deasupra mării; păstrați aparatul foto într-o geantă impermeabilă protejată.",
+                "en": "The small chapel's porch provides a sheltered spot to watch the rain over the sea; keep your camera in a dry bag to protect it from the salt spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Glossa Strand (FKK)",
+                "hu": "Glossa strand (nudista)",
+                "ro": "Plaja Glossa (nudiști)",
+                "en": "Glossa Beach (nudist)"
+              },
+              "tip_5lang": {
+                "de": "Der schmale Pfad hinunter wird bei Regen sehr schlammig und rutschig; steigen Sie nur mit griffigem Schuhwerk und Regenjacke vorsichtig hinab.",
+                "hu": "A lefelé vezető keskeny ösvény esőben nagyon sáros és csúszós lesz; csak tapadós talpú cipőben és esőkabátban vágjon neki az ereszkedésnek.",
+                "ro": "Poteca îngustă spre plajă devine foarte noroioasă și alunecoasă pe ploaie; coborâți cu mare prudență doar dacă aveți încălțăminte cu aderență bună.",
+                "en": "The narrow path down becomes very muddy and slippery in the rain; only attempt the descent with high-traction footwear and a reliable raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Grab des Thrasymedes",
+                "hu": "Thraszimédész sírja",
+                "ro": "Mormântul lui Thrasymedes",
+                "en": "Grave of Thrasimides"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Stätte ist dem Wetter schutzlos ausgeliefert; fassen Sie sich kurz und achten Sie beim Fotografieren auf den rutschigen Untergrund.",
+                "hu": "Ez a történelmi helyszín teljesen ki van téve az elemeknek; legyen rövid a látogatás, és figyeljen a csúszós kövekre fotózás közben.",
+                "ro": "Acest sit istoric este complet expus intemperiilor; vizitați-l scurt și aveți mare grijă la pietrele alunecoase în timp ce faceți fotografii.",
+                "en": "This historical site is fully exposed to the elements; keep your visit brief and watch your footing on the slippery stones while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Voidokilia Strand",
+                "hu": "Voidokilia strand",
+                "ro": "Plaja Voidokilia",
+                "en": "Voidokilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die ikonische Bucht nimmt bei Sturm eine dramatische graue Farbe an; bleiben Sie auf den höheren Dünenkämmen, um der aufgewühlten Gischt zu entgehen.",
+                "hu": "Az ikonikus öböl drámai szürke árnyalatot ölt a viharban; maradjon a magasabb homokbuckákon, hogy elkerülje a felcsapó sós permetet.",
+                "ro": "Golful iconic capătă o nuanță gri dramatică în timpul furtunii; rămâneți pe crestele dunelor mai înalte pentru a evita spray-ul marin purtat de vânt.",
+                "en": "The iconic bay takes on a dramatic grey hue during a storm; stay on the higher sand ridges to avoid the rising tide and the wind-blown salt spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Nestorhöhle",
+                "hu": "Nesztór barlangja",
+                "ro": "Peștera lui Nestor",
+                "en": "Nestor's Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet exzellenten Schutz vor dem Regen, aber der Aufstieg ist bei Nässe gefährlich; nutzen Sie die Halteseile und gehen Sie sehr langsam.",
+                "hu": "A barlang kiváló természetes menedéket nyújt a felhőszakadás elől, de a feljutás vizesen veszélyes; használja a rögzített köteleket és haladjon lassan.",
+                "ro": "Peștera oferă un adăpost natural excelent împotriva ploii, dar urcușul este periculos când este ud; folosiți corzile fixe cu mare atenție și răbdare.",
+                "en": "The cave provides excellent natural shelter from the downpour, but the climb up is treacherous when wet; use the fixed ropes carefully and take your time."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokastro",
+                "hu": "Palaiokastro",
+                "ro": "Palaiokastro",
+                "en": "Palaiokastro"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern bieten etwas Windschutz, aber das Gras ist extrem rutschig; genießen Sie den Blick auf die Bucht von Navarino aus sicherer Entfernung.",
+                "hu": "A régi falak némi szélvédelmet nyújtanak, de a fű rendkívül csúszós; csodálja a Navarinói-öböl ködös kilátását távolabb a meredek szélektől.",
+                "ro": "Zidurile vechi oferă puțină protecție împotriva vântului, dar iarba este extrem de alunecoasă; admirați vederea spre golful Navarino de la distanță.",
+                "en": "The ancient walls offer some wind protection, but the grass is very slippery; focus on the view of Navarino Bay and stay safely away from the edges."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen begrüßt uns am leeren Strand. Mittags genießen wir die Stille von Voidokilia, geschützt vor dem Nordwind. Am Nachmittag steigen wir zum Palaiokastro auf, um den frühen Sonnenuntergang gegen 17 Uhr zu bewundern. Der Abend ist kühl und lädt zu einem warmen Getränk in Petrochori ein.",
+            "hu": "Tiszta, hűvös reggel köszönt minket az üres parton. Délben a Voidokilia csendjét élvezzük, védve az éles északi széltől. Délután felkapaszkodunk Palaiokastróba, hogy megcsodáljuk a korai, 17 órai naplementét. Az este hűvös, így jól esik egy meleg ital Petrochori egyik barátságos vendéglőjében.",
+            "ro": "O dimineață senină și rece ne întâmpină pe plaja pustie. La prânz ne bucurăm de liniștea din Voidokilia, feriți de vântul tăios din nord. După-amiaza urcăm la Palaiokastro pentru a admira apusul devreme, în jurul orei 17:00. Seara este răcoroasă și ne invită la o băutură caldă în Petrochori.",
+            "en": "A crisp, cold morning greets us on the empty beach. At noon, we enjoy the silence of Voidokilia, sheltered from the sharp north wind. In the afternoon, we climb to Palaiokastro to admire the early sunset around 5 PM. The evening is chilly, making a warm drink in Petrochori very welcome."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Petrochori Strand",
+                "hu": "Petrochori strand",
+                "ro": "Plaja Petrochori",
+                "en": "Petrochori Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind ist beißend; tragen Sie eine windfeste Jacke und genießen Sie diesen weiten goldenen Sandstrand ganz für sich allein.",
+                "hu": "A téli szél metsző lehet; viseljen szélálló kabátot, és élvezze, hogy ez a hatalmas aranyló homokos part most csak az öné.",
+                "ro": "Vântul de iarnă este tăios; purtați o jachetă rezistentă la vânt și bucurați-vă de această plajă imensă cu nisip auriu doar pentru dumneavoastră.",
+                "en": "The winter wind can be biting; wear a windproof jacket and enjoy having this vast stretch of golden sand all to yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die Kapelle im Winter wunderschön; bringen Sie eine Thermoskanne mit warmem Tee für eine Pause am Meer mit.",
+                "hu": "Az alacsonyan járó nap télen gyönyörűen megvilágítja a kápolnát; hozzon magával egy termoszt meleg teával a tengerparti pihenőhöz.",
+                "ro": "Soarele jos de iarnă luminează superb capela; aduceți un termos cu ceai cald pentru o pauză relaxantă pe malul mării.",
+                "en": "The low winter sun illuminates the chapel beautifully; bring a thermos with warm tea for a cozy break by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Glossa Strand (FKK)",
+                "hu": "Glossa strand (nudista)",
+                "ro": "Plaja Glossa (nudiști)",
+                "en": "Glossa Beach (nudist)"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Strand völlig verlassen und bietet absolute Ruhe; die steilen Felsen schützen gut vor dem kalten Nordwind.",
+                "hu": "Télen a strand teljesen elhagyatott és abszolút nyugalmat áraszt; a meredek sziklák jól védenek a hideg északi szél elől.",
+                "ro": "Iarna, plaja este complet pustie și oferă o liniște absolută; stâncile abrupte oferă o protecție bună împotriva vântului rece de nord.",
+                "en": "In winter, the beach is completely deserted and offers absolute peace; the steep rocks provide good shelter from the cold north wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Grab des Thrasymedes",
+                "hu": "Thraszimédész sírja",
+                "ro": "Mormântul lui Thrasymedes",
+                "en": "Grave of Thrasimides"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft sorgt für eine hervorragende Fernsicht; nutzen Sie das klare Licht für detaillierte Aufnahmen des antiken Hügels.",
+                "hu": "A hűvös téli levegő kiváló távoli kilátást biztosít; használja ki a tiszta fényeket az antik domb részletgazdag fotózásához.",
+                "ro": "Aerul răcoros de iarnă oferă o vizibilitate excelentă la distanță; profitați de lumina clară pentru fotografii detaliate ale colinei antice.",
+                "en": "The cool winter air ensures excellent long-distance visibility; use the clear light for detailed shots of the ancient mound."
+              }
+            },
+            {
+              "name": {
+                "de": "Voidokilia Strand",
+                "hu": "Voidokilia strand",
+                "ro": "Plaja Voidokilia",
+                "en": "Voidokilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang entlang der perfekten Kurve ist im Winter belebend; achten Sie auf die vielen Zugvögel, die im nahen Gialova-See überwintern.",
+                "hu": "A tökéletes ív mentén tett séta télen felfrissítő; figyelje a közeli Gialova-tónál telelő számos költözőmadarat is.",
+                "ro": "O plimbare de-a lungul curbei perfecte este revigorantă iarna; observați numeroasele păsări migratoare care iernează în lacul Gialova din apropiere.",
+                "en": "A walk along the perfect curve is invigorating in winter; look out for the many migratory birds wintering in the nearby Gialova Lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Nestorhöhle",
+                "hu": "Nesztór barlangja",
+                "ro": "Peștera lui Nestor",
+                "en": "Nestor's Cave"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle ist es im Winter oft wärmer als draußen; tragen Sie feste Stiefel für den Aufstieg und Schichten, die Sie drinnen ablegen können.",
+                "hu": "A barlangban télen gyakran melegebb van, mint kint; viseljen erős bakancsot a mászáshoz és réteges ruházatot, amit bent levethet.",
+                "ro": "În peșteră este adesea mai cald iarna decât afară; purtați ghete solide pentru urcare și haine în straturi pe care le puteți scoate în interior.",
+                "en": "Inside the cave, it's often warmer than outside in winter; wear sturdy boots for the climb and layers you can remove once inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokastro",
+                "hu": "Palaiokastro",
+                "ro": "Palaiokastro",
+                "en": "Palaiokastro"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel bis 16:30 Uhr für den spektakulären Wintersonnenuntergang; nehmen Sie eine Taschenlampe für den schnellen Abstieg im Dunkeln mit.",
+                "hu": "Érjen fel a csúcsra 16:30-ig a látványos téli naplementéhez; vigyen zseblámpát a gyors leereszkedéshez, mert hamar besötétedik.",
+                "ro": "Ajungeți în vârf până la ora 16:30 pentru apusul spectaculos de iarnă; luați o lanternă pentru coborârea rapidă în întuneric.",
+                "en": "Reach the summit by 16:30 to witness the spectacular winter sunset; bring a flashlight for the descent as it gets dark very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Morning: Kezdje a napot a friss tengeri levegő beszívásával a part menti szakaszokon. A lágy reggeli fény megvilágítja a homokos strandokat, békés sétára vagy egy korai csobbanásra hívogatva a kristálytiszta vizekben, még a tömeg érkezése előtt.\nMidday: Ahogy a nap eléri a zenitjét, váltson a pihentető partokról a rejtett öblök és ősi ösvények felfedezésére. A drámai partvonal páratlan kilátást kínál, tökéletes alkalmat teremtve a kék tenger és a zord sziklák lenyűgöző kontrasztjának megörökítésére.\nAfternoon: A késő délutánt szentelje az időutazásnak. Merészkedjen fel a sziklás ösvényeken a mitológiai helyszínek és történelmi romok felé. A hűsítő szellő enyhülést nyújt, miközben feltárja a tájba ivódott ősi legendák titkait.\nEvening: Fejezze be utazását a legmagasabb kilátópontokon, ahogy az égbolt színekbe borul. A középkori erőd romjairól a Jón-tenger felett nyíló panorámás naplemente látványos és felejthetetlen finálét kínál tengerparti kalandjának.",
         "ro": "Morning: Începeți ziua respirând aerul marin proaspăt de-a lungul coastelor. Lumina blândă a dimineții iluminează plajele de nisip, invitându-vă la o plimbare liniștită sau la o baie matinală în apele cristaline, chiar înainte de sosirea mulțimilor.\nMidday: Pe măsură ce soarele ajunge la zenit, treceți de la țărmurile relaxante la explorarea golfurilor ascunse și a potecilor antice. Coasta dramatică oferă priveliști de neegalat, capturând contrastul izbitor dintre marea albastră și stâncile aspre.\nAfternoon: Dedicați după-amiaza târzie unei călătorii înapoi în timp. Aventurați-vă pe cărările stâncoase spre situri mitologice și ruine istorice. Briza răcoroasă vă oferă alinare în timp ce descoperiți secretele legendelor antice gravate în peisaj.\nEvening: Încheiați-vă călătoria pe cele mai înalte puncte de observație, când cerul explodează în culori. Apusul panoramic peste Marea Ionică de pe ruinele fortăreței medievale oferă un final spectaculos și de neuitat aventurii voastre de coastă.",
         "en": "Morning: Start your day breathing in the fresh maritime air along the coastal stretches. The soft morning light illuminates the sandy beaches, inviting you for a peaceful walk or an early dip in the crystalline waters before the crowds arrive.\nMidday: As the sun reaches its peak, transition from relaxing shores to exploring hidden coves and ancient trails. The dramatic coastline offers unparalleled vistas, making it the perfect time to capture the striking contrast between blue sea and rugged cliffs.\nAfternoon: Dedicate the late afternoon to stepping back in time. Venture up the rocky paths towards mythological sites and historical ruins. The cooling breeze provides relief as you uncover the secrets of ancient legends etched into the landscape.\nEvening: Conclude your journey atop the highest vantage points as the sky bursts into colors. The panoramic sunset over the Ionian Sea from the medieval fortress ruins offers a spectacular and unforgettable finale to your coastal adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit Regen auf dem Asphalt. Mittags suchen wir unter den Vordächern kleiner Cafés Schutz, während wir die nasse Küstenlandschaft betrachten. Am Nachmittag werden die Sandwege schwerer zu befahren, was volle Konzentration erfordert. Der Abend ist der Pflege der Räder und der wohlverdienten Ruhe gewidmet.",
+            "hu": "A nap esővel indul az aszfalton. Délben kis kávézók ereszei alatt keresünk menedéket, miközben a vizes tengerparti tájat figyeljük. Délután a homokos utak nehezebben járhatóvá válnak, ami teljes koncentrációt igényel. Az este a kerékpárok tisztításáról és a jól megérdemelt pihenésről szól.",
+            "ro": "Ziua începe cu ploaie pe asfalt. La prânz căutăm adăpost sub streșinile micilor cafenele, observând peisajul de coastă umed. După-amiaza, drumurile de nisip devin mai greu de parcurs, necesitând concentrare maximă. Seara este dedicată îngrijirii bicicletelor și odihnei binemeritate.",
+            "en": "The day begins with rain on the asphalt. At noon, we seek shelter under the eaves of small cafes while watching the wet coastal landscape. In the afternoon, the sandy paths become harder to navigate, requiring full concentration. The evening is dedicated to cleaning the bikes and well-deserved rest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Romanos Strand",
+                "hu": "Romanos strand",
+                "ro": "Plaja Romanos",
+                "en": "Romanos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist fest, aber die Zufahrtswege können rutschig sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Löcher verbergen könnten.",
+                "hu": "A homok tömörebb, de a bevezető utak csúszósak lehetnek; haladjon lassan és figyeljen a tócsákra, amik mély gödröket rejthetnek.",
+                "ro": "Nisipul este mai ferm, dar drumurile de acces pot fi alunecoase; conduceți încet și atenție la bălțile care pot ascunde gropi adânci.",
+                "en": "The sand is firm, but the access roads can be slippery; ride slowly and watch out for puddles that might hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrochori Strand",
+                "hu": "Petrochori strand",
+                "ro": "Plaja Petrochori",
+                "en": "Petrochori Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem stabilen Punkt und tragen Sie bei kurzen Spaziergängen eine Regenjacke; der Wind ist am Strand besonders stark.",
+                "hu": "Rögzítse kerékpárját egy stabil ponthoz, és viseljen esőkabátot a rövid sétákhoz; a szél a parton különösen erős ilyenkor.",
+                "ro": "Asigurați bicicleta de un punct stabil și purtați pelerina de ploaie pentru plimbări scurte; vântul este deosebit de puternic pe plajă.",
+                "en": "Secure your bike to a stable point and wear a raincoat for short walks; the wind is particularly strong on the beach during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kapelle als kurzen Rastplatz, um die Bremsen zu prüfen; nasse Felgen benötigen einen längeren Bremsweg auf den Küstenpfaden.",
+                "hu": "Használja a kápolnát rövid pihenőhelyként a fékek ellenőrzésére; a vizes felnik hosszabb fékutat igényelnek a parti ösvényeken.",
+                "ro": "Folosiți capela ca punct de popas pentru a verifica frânele; jantele umede necesită o distanță de frânare mai mare pe potecile de coastă.",
+                "en": "Use the chapel as a quick rest stop to check your brakes; wet rims require a longer braking distance on the coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Voidokilia Strand",
+                "hu": "Voidokilia strand",
+                "ro": "Plaja Voidokilia",
+                "en": "Voidokilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, direkt im tiefen, nassen Sand zu fahren; schieben Sie Ihr Rad auf den befestigten Dünenwegen, um die Mechanik zu schonen.",
+                "hu": "Kerülje a közvetlen kerékpározást a mély, vizes homokban; tolja a biciklit a rögzített dűneösvényeken, hogy kímélje a váltókat.",
+                "ro": "Evitați să pedalați direct prin nisipul adânc și ud; împingeți bicicleta pe potecile de dună fixate pentru a proteja mecanismele.",
+                "en": "Avoid riding directly in deep, wet sand; push your bike on the stabilized dune paths to protect the drivetrain from grit."
+              }
+            },
+            {
+              "name": {
+                "de": "Nestorhöhle",
+                "hu": "Nesztór barlangja",
+                "ro": "Peștera lui Nestor",
+                "en": "Nestor's Cave"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad am Fuß des Hügels stehen und steigen Sie vorsichtig zu Fuß auf; die nassen Felsen sind für Radschuhe extrem glatt.",
+                "hu": "Hagyja a biciklit a domb alján, és óvatosan, gyalog másszon fel; a vizes sziklák a kerékpáros cipőben rendkívül csúszósak.",
+                "ro": "Lăsați bicicleta la baza dealului și urcați cu grijă pe jos; stâncile ude sunt extrem de alunecoase pentru pantofii de ciclism.",
+                "en": "Leave your bike at the bottom of the hill and climb carefully on foot; the wet rocks are extremely slippery for cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokastro",
+                "hu": "Palaiokastro",
+                "ro": "Palaiokastro",
+                "en": "Palaiokastro"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Schloss ist bei Regen mühsam; tragen Sie helle Kleidung mit Reflektoren, um bei schlechter Sicht auf den Wegen gesehen zu werden.",
+                "hu": "A várba vezető út esőben fárasztó; viseljen világos, fényvisszaverő ruházatot, hogy a rossz látási viszonyok között is észrevegyék.",
+                "ro": "Drumul spre castel este obositor pe ploaie; purtați haine reflectorizante pentru a fi vizibili pe poteci în condiții de vizibilitate redusă.",
+                "en": "The path to the castle is strenuous in the rain; wear bright, reflective gear to be visible on the trails during low visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen lädt zur Radtour ein. Mittags wärmen wir uns bei einer Pause in der Sonne, geschützt durch die Dünen. Am Nachmittag erreichen wir die Festung rechtzeitig vor dem frühen Sonnenuntergang um 17 Uhr. Der Abend ist kühl und wir radeln zügig zurück in die Wärme unserer Unterkunft.",
+            "hu": "Friss téli reggel csábít kerékpártúrára. Délben a dűnék által védett napsütésben melegszünk fel egy pihenő erejéig. Délután a várhoz érve még a korai, 17 órai naplemente előtt gyönyörködünk a tájban. Az este hűvös, így gyorsan visszatekerünk a szállásunk melegébe.",
+            "ro": "O dimineață răcoroasă de iarnă invită la o tură cu bicicleta. La prânz ne încălzim la soare în timpul unei pauze între dune. După-amiaza ajungem la fortăreață înainte de apusul devreme de la ora 17:00. Seara este rece, așa că pedalăm rapid înapoi spre căldura cazării.",
+            "en": "A crisp winter morning invites a bike tour. At noon, we warm up during a break in the sun, sheltered by the dunes. In the afternoon, we reach the fortress in time for the early sunset at 5 PM. The evening is chilly, and we cycle quickly back to the warmth of our accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Romanos Strand",
+                "hu": "Romanos strand",
+                "ro": "Plaja Romanos",
+                "en": "Romanos Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe und eine winddichte Schicht gegen den kalten Fahrtwind; die Winterlandschaft am Strand ist wunderbar friedlich.",
+                "hu": "Viseljen kesztyűt és szélálló réteget a hideg menetszél ellen; a téli tengerparti táj csodálatosan békés és csendes ilyenkor.",
+                "ro": "Purtați mănuși și un strat rezistent la vânt împotriva curentului rece; peisajul de iarnă de pe plajă este minunat de liniștit.",
+                "en": "Wear gloves and a windproof layer against the cold headwind; the winter landscape on the beach is wonderfully peaceful and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrochori Strand",
+                "hu": "Petrochori strand",
+                "ro": "Plaja Petrochori",
+                "en": "Petrochori Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos von den Dünen; der niedrige Sonnenstand erzeugt lange, fotogene Schatten auf dem Sand.",
+                "hu": "Használja ki a tiszta téli fényeket a dűnék fotózásához; az alacsony napállás hosszú, fotogén árnyékokat vet a homokra.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii pe dune; soarele jos creează umbre lungi și fotogenice pe nisip.",
+                "en": "Take advantage of the clear winter light for photos of the dunes; the low sun creates long, photogenic shadows on the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an der Kapelle bietet Schutz vor den stärksten Windböen; trinken Sie etwas Warmes aus Ihrer Thermoskanne.",
+                "hu": "Egy rövid megálló a kápolnánál védelmet nyújt a legerősebb széllökések ellen; igyon valami meleget a kulacsából vagy termoszából.",
+                "ro": "Un scurt popas la capelă oferă protecție împotriva rafalelor puternice de vânt; beți ceva cald din termos pentru reîncărcare.",
+                "en": "A quick stop at the chapel provides shelter from the strongest wind gusts; enjoy a warm drink from your thermos to stay energized."
+              }
+            },
+            {
+              "name": {
+                "de": "Voidokilia Strand",
+                "hu": "Voidokilia strand",
+                "ro": "Plaja Voidokilia",
+                "en": "Voidokilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die festgefahrenen Wege lassen sich im Winter gut befahren; genießen Sie die Einsamkeit der berühmten Bucht ohne die Sommermassen.",
+                "hu": "A keményre döngölt utak télen is jól járhatók; élvezze a híres öböl magányát a nyári tömeg és a hőség nélkül.",
+                "ro": "Drumurile bătătorite sunt ușor de parcurs iarna; bucurați-vă de singurătatea celebrului golf fără aglomerația și căldura verii.",
+                "en": "The hard-packed trails are easy to cycle in winter; enjoy the solitude of the famous bay without the summer crowds and heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Nestorhöhle",
+                "hu": "Nesztór barlangja",
+                "ro": "Peștera lui Nestor",
+                "en": "Nestor's Cave"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben am Eingang zieht es oft; ziehen Sie Ihre Jacke wieder an, bevor Sie die Aussicht genießen.",
+                "hu": "A mászás során kimelegszik, de fent a bejáratnál gyakran huzat van; vegye vissza a kabátját, mielőtt megcsodálná a kilátást.",
+                "ro": "Urcarea vă va încălzi, dar la intrare este adesea curent; puneți-vă jacheta înapoi înainte de a admira priveliștea de sus.",
+                "en": "The climb will keep you warm, but it's often drafty at the cave entrance; put your jacket back on before enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokastro",
+                "hu": "Palaiokastro",
+                "ro": "Palaiokastro",
+                "en": "Palaiokastro"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt so, dass Sie vor der Dunkelheit wieder auf asphaltierten Straßen sind; funktionierende Fahrradleuchten sind im Winter Pflicht.",
+                "hu": "Úgy tervezze a visszautat, hogy sötétedés előtt érjen vissza az aszfaltozott utakra; a működő kerékpárlámpa télen kötelező kellék.",
+                "ro": "Planificați drumul de întoarcere astfel încât să ajungeți pe drumurile asfaltate înainte de lăsarea întunericului; luminile sunt obligatorii.",
+                "en": "Plan your return to be back on paved roads before dark; working bike lights are essential as the winter evening settles in quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Morning: Kezdje a napot a friss tengeri levegő beszívásával a part menti szakaszokon. A lágy reggeli fény megvilágítja a homokos strandokat, békés sétára vagy egy korai csobbanásra hívogatva a kristálytiszta vizekben, még a tömeg érkezése előtt.\nMidday: Ahogy a nap eléri a zenitjét, váltson a pihentető partokról a rejtett öblök és ősi ösvények felfedezésére. A drámai partvonal páratlan kilátást kínál, tökéletes alkalmat teremtve a kék tenger és a zord sziklák lenyűgöző kontrasztjának megörökítésére.\nAfternoon: A késő délutánt szentelje az időutazásnak. Merészkedjen fel a sziklás ösvényeken a mitológiai helyszínek és történelmi romok felé. A hűsítő szellő enyhülést nyújt, miközben feltárja a tájba ivódott ősi legendák titkait.\nEvening: Fejezze be utazását a legmagasabb kilátópontokon, ahogy az égbolt színekbe borul. A középkori erőd romjairól a Jón-tenger felett nyíló panorámás naplemente látványos és felejthetetlen finálét kínál tengerparti kalandjának.",
         "ro": "Morning: Începeți ziua respirând aerul marin proaspăt de-a lungul coastelor. Lumina blândă a dimineții iluminează plajele de nisip, invitându-vă la o plimbare liniștită sau la o baie matinală în apele cristaline, chiar înainte de sosirea mulțimilor.\nMidday: Pe măsură ce soarele ajunge la zenit, treceți de la țărmurile relaxante la explorarea golfurilor ascunse și a potecilor antice. Coasta dramatică oferă priveliști de neegalat, capturând contrastul izbitor dintre marea albastră și stâncile aspre.\nAfternoon: Dedicați după-amiaza târzie unei călătorii înapoi în timp. Aventurați-vă pe cărările stâncoase spre situri mitologice și ruine istorice. Briza răcoroasă vă oferă alinare în timp ce descoperiți secretele legendelor antice gravate în peisaj.\nEvening: Încheiați-vă călătoria pe cele mai înalte puncte de observație, când cerul explodează în culori. Apusul panoramic peste Marea Ionică de pe ruinele fortăreței medievale oferă un final spectaculos și de neuitat aventurii voastre de coastă.",
         "en": "Morning: Start your day breathing in the fresh maritime air along the coastal stretches. The soft morning light illuminates the sandy beaches, inviting you for a peaceful walk or an early dip in the crystalline waters before the crowds arrive.\nMidday: As the sun reaches its peak, transition from relaxing shores to exploring hidden coves and ancient trails. The dramatic coastline offers unparalleled vistas, making it the perfect time to capture the striking contrast between blue sea and rugged cliffs.\nAfternoon: Dedicate the late afternoon to stepping back in time. Venture up the rocky paths towards mythological sites and historical ruins. The cooling breeze provides relief as you uncover the secrets of ancient legends etched into the landscape.\nEvening: Conclude your journey atop the highest vantage points as the sky bursts into colors. The panoramic sunset over the Ionian Sea from the medieval fortress ruins offers a spectacular and unforgettable finale to your coastal adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen wird perfekt durch den Besuch des überdachten Kuppelgrabes genutzt. Mittags fahren wir gemütlich an der Küste entlang und beobachten das stürmische Meer aus dem trockenen Auto. Am Nachmittag nutzen wir Regenpausen für kurze Abstecher zu den Sehenswürdigkeiten. Der Abend endet entspannt in Petrochori.",
+            "hu": "Az esős reggelt tökéletesen kihasználjuk a fedett kupolasír meglátogatásával. Délben kényelmesen autózunk a part mentén, a száraz autóból figyelve a viharos tengert. Délután az esőszüneteket használjuk ki egy-egy rövid sétára a látnivalóknál. Az este nyugodtan telik Petrochoriban.",
+            "ro": "O dimineață ploioasă este valorificată perfect prin vizitarea mormântului cupolă acoperit. La prânz conducem relaxați pe coastă, observând marea din mașina uscată. După-amiaza profităm de pauzele de ploaie pentru scurte vizite la obiective. Seara se încheie relaxat în Petrochori.",
+            "en": "A rainy morning is perfectly spent visiting the covered tholos tomb. At noon, we drive comfortably along the coast, watching the stormy sea from the dry car. In the afternoon, we take advantage of breaks in the rain for short trips to the sights. The evening ends relaxingly in Petrochori."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mykenisches Kuppelgrab",
+                "hu": "Mükénéi kupolasír",
+                "ro": "Mormântul cu Tholos Micenian",
+                "en": "Mycenaean Tholos Tomb"
+              },
+              "tip_5lang": {
+                "de": "Dieses antike Grab ist im Inneren vollkommen trocken; es ist das ideale Ziel für einen ausgiebigen Besuch bei starkem Regen am Vormittag.",
+                "hu": "Ez az antik sír belül teljesen száraz; ideális úti cél egy hosszabb látogatáshoz, ha délelőtt szakad az eső.",
+                "ro": "Acest mormânt antic este complet uscat în interior; este destinația ideală pentru o vizită prelungită în timpul ploii de dimineață.",
+                "en": "This ancient tomb is completely dry inside; it is the ideal destination for an extended visit if it rains heavily in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Romanos Strand",
+                "hu": "Romanos strand",
+                "ro": "Plaja Romanos",
+                "en": "Romanos Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Parkplatz, um nicht im nassen Sand steckenzubleiben; genießen Sie den Blick auf die Wellen vom Auto aus.",
+                "hu": "Parkoljon a szilárd burkolatú helyeken, hogy elkerülje az elakadást a vizes homokban; csodálja a hullámokat az autó kényelméből.",
+                "ro": "Parcați în locurile amenajate pentru a evita împotmolirea în nisipul ud; admirați spectacolul valurilor din confortul mașinii.",
+                "en": "Park on the paved areas to avoid getting stuck in the wet sand; enjoy the dramatic view of the waves from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrochori Strand",
+                "hu": "Petrochori strand",
+                "ro": "Plaja Petrochori",
+                "en": "Petrochori Beach"
+              },
+              "tip_5lang": {
+                "de": "Kurze Wege vom Auto zum Strand ermöglichen es, die Meeresbrise auch bei Regen kurz zu genießen; halten Sie Ihren Schirm im Auto bereit.",
+                "hu": "Az autó és a part közötti rövid távolság lehetővé teszi a tengeri levegő élvezetét esőben is; tartsa az esernyőt kéznél az autóban.",
+                "ro": "Distanța scurtă dintre mașină și plajă vă permite să simțiți briza mării chiar și pe ploaie; țineți umbrela la îndemână în mașină.",
+                "en": "The short distance from the car to the beach allows you to enjoy the sea air even in rain; keep your umbrella ready in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Voidokilia Strand",
+                "hu": "Voidokilia strand",
+                "ro": "Plaja Voidokilia",
+                "en": "Voidokilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Zufahrtswegen, die rutschig sein können; nutzen Sie die erhöhten Aussichtspunkte für Fotos aus dem Fenster.",
+                "hu": "Vezessen óvatosan a burkolatlan utakon, amelyek csúszósak lehetnek; használja a magaslati pontokat a kocsiból történő fotózáshoz.",
+                "ro": "Conduceți cu atenție pe drumurile neasfaltate, care pot fi alunecoase; folosiți punctele de observație pentru poze direct din mașină.",
+                "en": "Drive carefully on the unpaved access roads, which can be slippery; use the elevated vantage points for photos from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Nestorhöhle",
+                "hu": "Nesztór barlangja",
+                "ro": "Peștera lui Nestor",
+                "en": "Nestor's Cave"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie eine Regenpause ab, bevor Sie den kurzen Aufstieg wagen; die nassen Felsen am Höhleneingang erfordern festes Schuhwerk.",
+                "hu": "Várjon meg egy esőszünetet a rövid mászás előtt; a barlang bejáratánál lévő vizes sziklákhoz mindenképpen erős cipőre van szükség.",
+                "ro": "Așteptați o pauză de ploaie înainte de a urca; stâncile ude de la intrarea în peșteră necesită încălțăminte solidă și atenție sporită.",
+                "en": "Wait for a break in the rain before attempting the short climb; the wet rocks at the cave entrance require sturdy shoes and care."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokastro",
+                "hu": "Palaiokastro",
+                "ro": "Palaiokastro",
+                "en": "Palaiokastro"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet bereits tolle Ausblicke, falls der Aufstieg zu nass ist; bewundern Sie die Bucht von Navarino bei dramatischem Wolkenspiel.",
+                "hu": "Az autóút már önmagában remek kilátást nyújt, ha a gyalogút túl vizes lenne; csodálja a Navarinói-öblöt a drámai felhőjáték mellett.",
+                "ro": "Drumul oferă vederi superbe chiar dacă urcușul este prea umed; admirați golful Navarino sub jocul dramatic al norilor de furtună.",
+                "en": "The drive up offers great views even if the path is too wet; admire Navarino Bay under the dramatic play of storm clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kühler Wintermorgen beginnt mit Geschichte am Grab. Mittags fahren wir entspannt zu den leeren Stränden und genießen die klare Sicht. Am Nachmittag erleben wir den Sonnenuntergang am Palaiokastro bequem mit dem Auto in der Nähe. Der Abend ist perfekt für ein gemütliches Essen im winterlich ruhigen Petrochori.",
+            "hu": "Napsütéses, de hűvös téli reggel indul a sírnál tett látogatással. Délben kényelmesen autózunk az üres strandokhoz, élvezve a tiszta kilátást. Délután a Palaiokastrónál nézzük a naplementét, az autó melegével a közelben. Az este tökéletes egy barátságos vacsorához a csendes Petrochoriban.",
+            "ro": "O dimineață de iarnă însorită dar rece începe cu istorie la mormânt. La prânz conducem relaxați spre plajele pustii, bucurându-ne de vizibilitate. După-amiaza vedem apusul la Palaiokastro cu mașina la îndemână. Seara este perfectă pentru o cină caldă în liniștea din Petrochori.",
+            "en": "A sunny but cool winter morning begins with history at the tomb. At noon, we drive leisurely to the empty beaches, enjoying the clear views. In the afternoon, we watch the sunset at Palaiokastro with the car's warmth nearby. The evening is perfect for a cozy dinner in the quiet Petrochori winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mykenisches Kuppelgrab",
+                "hu": "Mükénéi kupolasír",
+                "ro": "Mormântul cu Tholos Micenian",
+                "en": "Mycenaean Tholos Tomb"
+              },
+              "tip_5lang": {
+                "de": "Die Kühle im Inneren ist im Winter weniger ausgeprägt als im Sommer; genießen Sie die Ruhe der antiken Stätte ohne Touristenschlangen.",
+                "hu": "A belső hűvösség télen kevésbé feltűnő, mint nyáron; élvezze az antik helyszín nyugalmát a turistaáradat és várakozás nélkül.",
+                "ro": "Răcoarea din interior este mai puțin sesizabilă iarna decât vara; bucurați-vă de liniștea sitului antic fără rânduri de turiști.",
+                "en": "The coolness inside is less noticeable in winter than in summer; enjoy the peace of the ancient site without any tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Romanos Strand",
+                "hu": "Romanos strand",
+                "ro": "Plaja Romanos",
+                "en": "Romanos Beach"
+              },
+              "tip_5lang": {
+                "de": "Das glitzernde Wintermeer ist vom Ufer aus wunderschön; machen Sie einen kurzen Spaziergang am Wasser und wärmen Sie sich danach im Auto auf.",
+                "hu": "A csillogó téli tenger gyönyörű a partról; tegyen egy rövid sétát a víznél, majd melegedjen fel az autó fűtését élvezve.",
+                "ro": "Marea sclipitoare de iarnă este superbă de pe mal; faceți o scurtă plimbare pe nisip și apoi încălziți-vă rapid în mașină.",
+                "en": "The sparkling winter sea is beautiful from the shore; take a short walk by the water and then warm up quickly back in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrochori Strand",
+                "hu": "Petrochori strand",
+                "ro": "Plaja Petrochori",
+                "en": "Petrochori Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer; nutzen Sie die Gelegenheit für einen entspannten Stopp und genießen Sie die klare Luft am Ionischen Meer.",
+                "hu": "A parkoló télen szinte üres; használja ki az alkalmat egy nyugodt megállóra, és szívja be az Ión-tenger tiszta, téli levegőjét.",
+                "ro": "Parcarea este aproape goală iarna; profitați de ocazie pentru un popas relaxat și bucurați-vă de aerul curat de la marea Ionică.",
+                "en": "The parking area is almost empty in winter; take the opportunity for a relaxed stop and breathe in the clear air of the Ionian Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Voidokilia Strand",
+                "hu": "Voidokilia strand",
+                "ro": "Plaja Voidokilia",
+                "en": "Voidokilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Farben der Lagune leuchten; ideal für Landschaftsfotografie direkt vom Parkplatz am Dünenrand aus.",
+                "hu": "A tiszta téli fényekben ragyognak a lagúna színei; ideális tájképfotózáshoz közvetlenül a dűnék szélén lévő parkolóból.",
+                "ro": "Lumina clară de iarnă face culorile lagunei să strălucească; locație ideală pentru fotografii de peisaj direct de lângă parcare.",
+                "en": "The clear winter light makes the lagoon colors glow; ideal for landscape photography right from the parking area at the dunes' edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Nestorhöhle",
+                "hu": "Nesztór barlangja",
+                "ro": "Peștera lui Nestor",
+                "en": "Nestor's Cave"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehmen Temperaturen für den Aufstieg; im Winter ist die Wanderung zur Höhle deutlich weniger anstrengend als in der Hitze.",
+                "hu": "Használja ki a kellemes hőmérsékletet a mászáshoz; télen a barlanghoz vezető túra sokkal kevésbé fárasztó, mint a nyári hőségben.",
+                "ro": "Profități de temperaturile plăcute pentru urcare; iarna, drumeția spre peșteră este mult mai puțin obositoare decât în arșița verii.",
+                "en": "Take advantage of the pleasant temperatures for the climb; in winter, the hike to the cave is much less exhausting than in the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokastro",
+                "hu": "Palaiokastro",
+                "ro": "Palaiokastro",
+                "en": "Palaiokastro"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:45 Uhr für das beste Licht hier; die Fahrt zurück nach Petrochori im Dämmerlicht ist im Winter besonders stimmungsvoll.",
+                "hu": "Érkezzen 16:45 körül a legszebb fényekért; a szürkületben való visszautazás Petrochoriba télen különösen hangulatos élmény.",
+                "ro": "Fiți aici în jurul orei 16:45 pentru cea mai bună lumină; drumul de întoarcere spre Petrochori la amurg este foarte atmosferic iarna.",
+                "en": "Be here around 16:45 for the best light; the drive back to Petrochori at twilight is particularly atmospheric in the winter season."
+              }
+            }
+          ]
+        }
       }
     }
   }

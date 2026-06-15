@@ -137,6 +137,168 @@
         "hu": "Kezdd a reggelt a sziget lágy ritmusában elmerülve, és élvezd a friss, sós tengerparti szellőt.\nDélben irány a nyüzsgő tengerpart, ahol az azúrkék víz napsütéses pihenésre csábít mindenkit.\nA délután a szigetcsoport zordabb oldalát tárja fel, drámai sziklákkal és lenyűgöző kilátásokkal.\nAz estét a lélegzetelállító naplementék koronázzák meg, tökéletes lezárást nyújtva a szigeti napnak.",
         "ro": "Începe dimineața captivat de ritmul blând al insulei, bucurându-te de briza proaspătă a coastei.\nLa prânz, îndreaptă-te spre plajele vibrante, unde apele azurii te invită să te relaxezi la soare.\nDupă-amiaza dezvăluie latura sălbatică a arhipelagului, cu stânci dramatice și priveliști uimitoare.\nSeara se instalează cu apusuri spectaculoase, oferind un final perfect și liniștit zilei tale.",
         "en": "Start your morning immersed in the gentle rhythm of the island, enjoying the fresh coastal breeze.\nBy midday, head to the vibrant beachfronts where azure waters invite you to relax under the sun.\nThe afternoon unveils the rugged side of the archipelago, featuring dramatic cliffs and coastal views.\nEvening sets in with breathtaking sunsets, offering a perfect, tranquil end to your island day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem erfrischenden Tropenregen, der die Insel in ein sattes Grün taucht. Mittags suchen wir Schutz in gemütlichen Cafés, während der Duft von feuchter Erde die Luft erfüllt. Am Nachmittag bieten die nebligen Klippen eine mystische Kulisse für kurze Spaziergänge. Der Abend endet früh in einer überdachten Lounge, wo man dem Rhythmus des Regens lauschen kann.",
+            "hu": "A reggel frissítő záporral indul, ami méregzöldre festi a tájat; érdemes esőkabáttal készülni. Délben a parti kávézók nyújtanak menedéket, miközben az eső illata betölti a sós levegőt. Délután a ködbe burkolózó sziklák misztikus látványt nyújtanak a rövid sétákhoz. Az este egy fedett teraszon ér véget, ahol a trópusi eső megnyugtató kopogását hallgathatjuk a tengerparton.",
+            "ro": "Dimineața începe cu o ploaie tropicală revigorantă, transformând insula într-un paradis verde crud. La prânz, cafenelele de pe plajă oferă adăpostul perfect în timp ce mirosul pământului reavăn umple aerul. După-amiaza, stâncile învăluite în ceață creează un decor mistic pentru scurte plimbări. Seara se încheie devreme sub un acoperiș primitor, ascultând ritmul ploii pe valurile mării.",
+            "en": "The morning starts with a refreshing tropical downpour, turning the island into a lush green paradise. At noon, beachside cafes provide the perfect shelter as the scent of damp earth fills the salt air. In the afternoon, the mist-covered cliffs offer a mystical backdrop for short coastal walks. The evening ends early under a covered terrace, listening to the soothing rhythm of the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "LSL surf",
+                "hu": "LSL surf",
+                "ro": "LSL surf",
+                "en": "LSL surf"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Surfer von der überdachten Terrasse aus, während der Regen die Wellen glättet. Tipp: Nutzen Sie eine wasserdichte Hülle für Ihr Handy.",
+                "hu": "Figyeld a szörfösöket a fedett teraszról, miközben az eső elsimítja a hullámokat. Tipp: Használj vízhatlan tokot a telefonod védelmére.",
+                "ro": "Urmărește surferii de pe terasa acoperită în timp ce ploaia nivelează valurile. Sfat: Folosește o husă impermeabilă pentru telefonul tău.",
+                "en": "Watch the surfers from the covered terrace while the rain smoothens the swells. Tip: Use a waterproof pouch to protect your phone from the humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Tamarind Divers",
+                "hu": "Tamarind Divers",
+                "ro": "Tamarind Divers",
+                "en": "Tamarind Divers"
+              },
+              "tip_5lang": {
+                "de": "Die Tauchbasis ist ein trockener Ort für Ausrüstungschecks und Gespräche mit Profis. Tipp: Tragen Sie schnell trocknende Kleidung für den Weg dorthin.",
+                "hu": "A búvárközpont remek száraz hely a felszerelések ellenőrzéséhez és profi tippekhez. Tipp: Viselj gyorsan száradó technikai ruházatot az úthoz.",
+                "ro": "Centrul de scufundări este un loc uscat ideal pentru verificarea echipamentului și sfaturi. Sfat: Poartă haine cu uscare rapidă pentru drumul până aici.",
+                "en": "The dive center is a great dry spot for gear checks and chatting with pros. Tip: Wear quick-dry technical clothing for the walk between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "walk way through to Nusa Villa",
+                "hu": "Sétány a Nusa Villa felé",
+                "ro": "Alee spre Nusa Villa",
+                "en": "walk way through to Nusa Villa"
+              },
+              "tip_5lang": {
+                "de": "Der üppige Pfad duftet herrlich, kann aber nach dem Regen rutschig sein. Tipp: Achten Sie auf festes Schuhwerk mit gutem Profil auf den Steinen.",
+                "hu": "A buja növényzetű ösvény illata csodás, de az eső után a kövek csúszhatnak. Tipp: Válassz jó tapadású talpú szandált a biztonságos haladáshoz.",
+                "ro": "Poteca luxuriantă miroase divin, dar pietrele pot deveni alunecoase după ploaie. Sfat: Alege sandale cu talpă aderentă pentru a merge în siguranță.",
+                "en": "The lush path smells divine, but the stones can be slippery after the rain. Tip: Choose sandals with good grip to navigate the wet sections safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidden Beach",
+                "hu": "Hidden Beach",
+                "ro": "Hidden Beach",
+                "en": "Hidden Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei grauem Himmel dramatisch und einsam. Tipp: Bleiben Sie bei starkem Wellengang von den nassen Felsen am Wasserrand fern.",
+                "hu": "Az öböl drámai és magányos látványt nyújt a szürke égbolt alatt. Tipp: Erős hullámzás esetén maradj távol a vízparti nedves szikláktól.",
+                "ro": "Golful arată dramatic și solitar sub cerul gri de furtună. Sfat: În caz de valuri mari, stai departe de stâncile ude de la marginea apei.",
+                "en": "The bay looks dramatic and solitary under the grey storm clouds. Tip: During heavy swells, stay well away from the wet rocks at the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Point",
+                "hu": "Sunset Point",
+                "ro": "Sunset Point",
+                "en": "Sunset Point"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne direkte Sonne ist das Lichtspiel über dem Meer spektakulär. Tipp: Ein leichter Regenschutz ist hier wegen des starken Windes unverzichtbar.",
+                "hu": "Közvetlen napsütés nélkül is látványos a fények játéka az óceán felett. Tipp: Az erős szél miatt egy könnyű esőponcsó nélkülözhetetlen ezen a ponton.",
+                "ro": "Chiar și fără soare direct, jocul de lumini deasupra oceanului este spectaculos. Sfat: Din cauza vântului, o pelerină ușoară este indispensabilă aici.",
+                "en": "Even without direct sun, the play of light over the ocean is spectacular. Tip: Due to the strong winds, a lightweight poncho is essential at this spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgenwind macht den Spaziergang besonders angenehm und belebend. Mittags genießen wir die milde Sonne auf offenen Terrassen ohne die extreme Hitze. Am Nachmittag taucht das tiefe Sonnenlicht die Küste in goldene Farben. Da die Sonne bereits gegen 17:30 Uhr untergeht, planen wir den Abschluss des Tages etwas früher ein.",
+            "hu": "A hűvös reggeli szél kifejezetten kellemessé és élénkítővé teszi a gyaloglást. Délben a lágy napsütést élvezhetjük a nyitott teraszokon a tikkasztó hőség nélkül. Délután az alacsonyan járó nap aranyba öltözteti a partvidéket. Mivel a nap már fél hat körül nyugovóra tér, érdemes korábbra időzíteni a nap zárását.",
+            "ro": "Vântul răcoros de dimineață face plimbarea extrem de plăcută și revigorantă. La prânz, ne bucurăm de soarele blând pe terasele deschise, fără căldura sufocantă. După-amiaza, lumina aurie a soarelui care apune îmbracă coasta în culori superbe. Deoarece soarele apune deja în jur de 17:30, planificăm finalul zilei mai devreme.",
+            "en": "The cool morning breeze makes the walk especially pleasant and invigorating. At noon, enjoy the mild sun on open terraces without the sweltering heat. In the afternoon, the low sun bathes the coastline in brilliant golden hues. Since the sun sets early around 17:30, plan to finish your outdoor activities a bit sooner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "LSL surf",
+                "hu": "LSL surf",
+                "ro": "LSL surf",
+                "en": "LSL surf"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Luft bietet perfekte Sicht auf die Brandung. Tipp: Ein leichtes langärmeliges Shirt schützt Sie vor dem kühlen Morgenwind am Strand.",
+                "hu": "A száraz levegő tökéletes látási viszonyokat biztosít a szörfözéshez. Tipp: Egy könnyű, hosszú ujjú felső megvéd a hűvös reggeli tengerparti széltől.",
+                "ro": "Aerul uscat oferă vizibilitate perfectă asupra valurilor de la mal. Sfat: O bluză ușoară cu mânecă lungă te va proteja de vântul răcoros de dimineață.",
+                "en": "The dry air provides perfect visibility for watching the surf action. Tip: A lightweight long-sleeve shirt will protect you from the cool morning sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tamarind Divers",
+                "hu": "Tamarind Divers",
+                "ro": "Tamarind Divers",
+                "en": "Tamarind Divers"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist klar, kann aber etwas kühler sein als gewohnt. Tipp: Fragen Sie nach einem dünnen Neoprenanzug, auch wenn Sie nur kurz schnorcheln.",
+                "hu": "A víz kristálytiszta, de a megszokottnál pár fokkal hűvösebb lehet. Tipp: Kérj vékony neoprén ruhát még egy rövid sznorkelezéshez is a komfortért.",
+                "ro": "Apa este cristalină, dar poate fi cu câteva grade mai rece decât de obicei. Sfat: Cere un costum de neopren subțire chiar și pentru snorkeling scurt.",
+                "en": "The water is crystal clear but can be a few degrees cooler than usual. Tip: Ask for a thin wetsuit even for a short snorkel to stay comfortable longer."
+              }
+            },
+            {
+              "name": {
+                "de": "walk way through to Nusa Villa",
+                "hu": "Sétány a Nusa Villa felé",
+                "ro": "Alee spre Nusa Villa",
+                "en": "walk way through to Nusa Villa"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Abschnitte sind jetzt sehr erfrischend für einen zügigen Marsch. Tipp: Nutzen Sie das klare Licht für scharfe Naturaufnahmen ohne Dunst.",
+                "hu": "Az ösvény árnyékos szakaszai most kifejezetten frissítőek egy tempós sétához. Tipp: Használd ki a tiszta fényeket éles, páramentes tájképek készítéséhez.",
+                "ro": "Secțiunile umbrite ale aleii sunt acum foarte revigorante pentru un mers alert. Sfat: Profită de lumina clară pentru fotografii de peisaj fără ceață.",
+                "en": "The shaded sections of the path are now very refreshing for a brisk walk. Tip: Take advantage of the clear light for sharp landscape photos without haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidden Beach",
+                "hu": "Hidden Beach",
+                "ro": "Hidden Beach",
+                "en": "Hidden Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Wintersonne ohne Hitze zu tanken. Tipp: Denken Sie an ausreichend Sonnenschutz, da die UV-Strahlung trotz Kühle hoch ist.",
+                "hu": "Nyugodt hely a téli napsütés élvezésére a tikkasztó hőség nélkül. Tipp: Használj naptejet, mert a hűvösebb szél ellenére az UV-sugárzás még erős.",
+                "ro": "Un loc liniștit pentru a te bucura de soarele blând de iarnă. Sfat: Folosește protecție solară, deoarece radiațiile UV sunt puternice și pe vânt.",
+                "en": "A peaceful spot to soak up the winter sun without the heat. Tip: Don't forget sunscreen, as UV radiation remains high even when the breeze feels cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Point",
+                "hu": "Sunset Point",
+                "ro": "Sunset Point",
+                "en": "Sunset Point"
+              },
+              "tip_5lang": {
+                "de": "Die Sonnenuntergänge sind in dieser Jahreszeit oft besonders farbenfroh. Tipp: Seien Sie spätestens um 16:45 Uhr hier, um das volle Spektakel zu sehen.",
+                "hu": "A naplementék ebben az időszakban gyakran a legszínesebbek az évben. Tipp: Érkezz meg legkésőbb 16:45-re, hogy ne maradj le a teljes színjátékról.",
+                "ro": "Apusurile din acest sezon sunt adesea cele mai colorate din tot anul. Sfat: Ajunge aici cel târziu la 16:45 pentru a vedea întregul spectacol de culori.",
+                "en": "The sunsets in this season are often the most colorful of the year. Tip: Arrive by 16:45 at the latest to ensure you catch the full spectrum of colors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdd a reggelt a sziget lágy ritmusában elmerülve, és élvezd a friss, sós tengerparti szellőt.\nDélben irány a nyüzsgő tengerpart, ahol az azúrkék víz napsütéses pihenésre csábít mindenkit.\nA délután a szigetcsoport zordabb oldalát tárja fel, drámai sziklákkal és lenyűgöző kilátásokkal.\nAz estét a lélegzetelállító naplementék koronázzák meg, tökéletes lezárást nyújtva a szigeti napnak.",
         "ro": "Începe dimineața captivat de ritmul blând al insulei, bucurându-te de briza proaspătă a coastei.\nLa prânz, îndreaptă-te spre plajele vibrante, unde apele azurii te invită să te relaxezi la soare.\nDupă-amiaza dezvăluie latura sălbatică a arhipelagului, cu stânci dramatice și priveliști uimitoare.\nSeara se instalează cu apusuri spectaculoase, oferind un final perfect și liniștit zilei tale.",
         "en": "Start your morning immersed in the gentle rhythm of the island, enjoying the fresh coastal breeze.\nBy midday, head to the vibrant beachfronts where azure waters invite you to relax under the sun.\nThe afternoon unveils the rugged side of the archipelago, featuring dramatic cliffs and coastal views.\nEvening sets in with breathtaking sunsets, offering a perfect, tranquil end to your island day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Konzentration, bietet aber eine herrlich kühle Brise. Morgens radeln wir vorsichtig über glänzende Straßen zu den Stränden. Mittags gönnen wir uns eine Pause in einem überdachten Strandclub. Am Nachmittag erkunden wir Ceningan im sanften Sprühregen, bevor wir den Abend bei einem heißen Getränk gemütlich ausklingen lassen.",
+            "hu": "A biciklizés esőben nagyobb figyelmet igényel, de frissítően hűvös élményt nyújt. Reggel óvatosan gurulunk a csillogó utakon a part felé. Délben egy fedett beach clubban pihenünk meg az eső elől. Délután a szemerkélő esőben fedezzük fel Ceningant, majd az estét egy forró ital mellett, fedett helyen zárjuk.",
+            "ro": "Mersul pe bicicletă în ploaie necesită atenție, dar oferă o briză răcoroasă minunată. Dimineața pedalăm cu grijă pe drumurile lucioase. La prânz, luăm o pauză într-un beach club acoperit. După-amiaza explorăm Ceningan prin ploaia fină, apoi încheiem seara confortabil cu o băutură caldă.",
+            "en": "Cycling in the rain requires focus but offers a wonderfully cool and refreshing breeze. In the morning, ride carefully over the glistening roads to the coast. At noon, take a break in a covered beach club to stay dry. In the afternoon, explore Ceningan through the light drizzle, ending the evening with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pantai Mahagiri",
+                "hu": "Pantai Mahagiri",
+                "ro": "Pantai Mahagiri",
+                "en": "Pantai Mahagiri"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Sand wirkt bei Regen fast silbern. Tipp: Reduzieren Sie den Reifendruck leicht für besseren Halt auf den nassen Zufahrtswegen.",
+                "hu": "A fehér homok az esőben szinte ezüstösen csillog. Tipp: Csökkentsd kissé a guminyomást a jobb tapadás érdekében a vizes bekötőutakon.",
+                "ro": "Nisipul alb pare aproape argintiu în lumina ploii. Sfat: Redu ușor presiunea în pneuri pentru o aderență mai bună pe drumurile de acces ude.",
+                "en": "The white sand looks almost silvery in the rain. Tip: Slightly lower your tire pressure for better traction on the wet access roads to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Jungutbatu Beach",
+                "hu": "Jungutbatu Beach",
+                "ro": "Jungutbatu Beach",
+                "en": "Jungutbatu Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben im Hafen geschützt unter einem Vordach. Tipp: Bremsen Sie auf dem nassen Asphalt früher und sanfter als gewöhnlich.",
+                "hu": "Figyeld a kikötői nyüzsgést egy védett előtető alól. Tipp: A vizes aszfalton kezdj el korábban és lágyabban fékezni a megszokottnál.",
+                "ro": "Urmărește agitația din port sub protecția unei streșini. Sfat: Pe asfaltul ud, începe să frânezi mai devreme și mai ușor decât de obicei.",
+                "en": "Watch the harbor activity from under a protective awning. Tip: On wet asphalt, start braking earlier and more gently than you normally would."
+              }
+            },
+            {
+              "name": {
+                "de": "LSL surf",
+                "hu": "LSL surf",
+                "ro": "LSL surf",
+                "en": "LSL surf"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Regenjacke auszuschütteln und sich zu stärken. Tipp: Achten Sie beim Parken auf festen Untergrund, damit das Rad nicht einsinkt.",
+                "hu": "Ideális megálló, hogy lerázd az esőt a kabátodról és egyél valamit. Tipp: Parkolásnál keress szilárd talajt, hogy ne süllyedjen el a bicikli támasztója.",
+                "ro": "Un popas ideal pentru a scutura pelerina de ploaie și a te energiza. Sfat: La parcare, caută un teren solid pentru ca cricul bicicletei să nu se scufunde.",
+                "en": "An ideal stop to shake off the rain and recharge with a snack. Tip: Look for solid ground when parking so your bike's kickstand doesn't sink into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceningan Paradise Adventures",
+                "hu": "Ceningan Paradise Adventures",
+                "ro": "Ceningan Paradise Adventures",
+                "en": "Ceningan Paradise Adventures"
+              },
+              "tip_5lang": {
+                "de": "Die Überfahrt über die gelbe Brücke ist bei Regen ein kleines Abenteuer. Tipp: Halten Sie Ihre Augen durch eine Brille vor Regentropfen geschützt.",
+                "hu": "A sárga hídon való átkelés esőben felér egy kis kalanddal. Tipp: Viselj szemüveget, hogy a szemedbe csapódó eső ne zavarja a kilátást vezetés közben.",
+                "ro": "Traversarea podului galben pe ploaie este o mică aventură. Sfat: Poartă ochelari pentru ca picăturile de ploaie să nu îți afecteze vizibilitatea în mers.",
+                "en": "Crossing the yellow bridge in the rain is quite an adventure. Tip: Wear glasses or goggles to keep raindrops from interfering with your vision while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahana Point",
+                "hu": "Mahana Point",
+                "ro": "Mahana Point",
+                "en": "Mahana Point"
+              },
+              "tip_5lang": {
+                "de": "Die Wellen klatschen bei Sturmwind dramatisch gegen die Felsen. Tipp: Sichern Sie Ihr Fahrrad gut gegen den Wind, bevor Sie ins Café gehen.",
+                "hu": "A hullámok drámai erővel csapódnak a szikláknak a viharos szélben. Tipp: Gondosan rögzítsd a biciklit a szél ellen, mielőtt bemennél a kávézóba.",
+                "ro": "Valurile se izbesc cu forță de stânci în vântul de furtună. Sfat: Asigură bine bicicleta împotriva vântului înainte de a intra în cafenea.",
+                "en": "The waves crash against the rocks with dramatic force in the stormy wind. Tip: Secure your bike carefully against the wind before heading into the cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Zip line",
+                "hu": "Zip line",
+                "ro": "Tiroliană",
+                "en": "Zip line"
+              },
+              "tip_5lang": {
+                "de": "Das Rauschen des Regens verstärkt das Gefühl von Geschwindigkeit. Tipp: Stellen Sie sicher, dass Ihre Kamera in einem wasserdichten Gehäuse steckt.",
+                "hu": "Az eső zúgása csak felerősíti a száguldás izgalmas élményét. Tipp: Győződj meg róla, hogy a kamerád vízálló tokban van a csúszás előtt.",
+                "ro": "Sunetul ploii accentuează senzația de viteză pe tiroliană. Sfat: Asigură-te că aparatul tău foto sau camera sunt într-o carcasă impermeabilă.",
+                "en": "The sound of the rain intensifies the thrill of speed on the line. Tip: Ensure your camera or action cam is in a waterproof housing before your turn."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise im Winter ist perfekt für eine längere Radtour ohne Überhitzung. Morgens gleiten wir zügig über die Küstenstraßen und genießen die klare Luft. Mittags ist ein Sonnenbad auf einer windgeschützten Terrasse ideal. Am Nachmittag leuchten die Farben von Ceningan besonders intensiv, bevor wir rechtzeitig zum frühen Sonnenuntergang heimfahren.",
+            "hu": "A hűvös téli szellő tökéletes egy hosszabb biciklitúrához anélkül, hogy kimelegednél. Reggel tempósan haladhatunk a part menti utakon a friss levegőben. Délben egy szélvédett teraszon ideális napfürdőzni. Délután Ceningan színei különösen élénkek, mielőtt a korai naplemente előtt még világosban hazaindulnánk.",
+            "ro": "Briză răcoroasă de iarnă este perfectă pentru o tură mai lungă cu bicicleta fără supraîncălzire. Dimineața pedalăm alert pe drumurile de coastă. La prânz, o baie de soare pe o terasă ferită de vânt este ideală. După-amiaza, culorile din Ceningan sunt intense, înainte de a pleca spre casă pe lumină.",
+            "en": "The cool winter breeze is perfect for a longer bike ride without overheating. In the morning, glide briskly along the coastal roads and enjoy the crisp air. At noon, sunbathing on a wind-sheltered terrace is ideal. In the afternoon, the colors of Ceningan are especially vivid before heading back before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pantai Mahagiri",
+                "hu": "Pantai Mahagiri",
+                "ro": "Pantai Mahagiri",
+                "en": "Pantai Mahagiri"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet Fernsicht bis zum Mount Agung. Tipp: Starten Sie Ihre Tour früh, um das magische Morgenlicht am Strand zu nutzen.",
+                "hu": "A tiszta téli levegőben ellátni egészen az Agung-hegyig. Tipp: Indulj korán, hogy kihasználd a reggeli fényeket a széles tengerparton.",
+                "ro": "Aerul curat de iarnă oferă vizibilitate până la Muntele Agung. Sfat: Începe tura devreme pentru a profita de lumina magică a dimineții pe plajă.",
+                "en": "The clear winter air offers views all the way to Mount Agung. Tip: Start your ride early to take advantage of the magical morning light on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Jungutbatu Beach",
+                "hu": "Jungutbatu Beach",
+                "ro": "Jungutbatu Beach",
+                "en": "Jungutbatu Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein belebter Stopp mit vielen Booten im glitzernden Wasser. Tipp: Tragen Sie trotz kühlem Wind Sonnencreme auf, da die Reflexion am Wasser stark ist.",
+                "hu": "Nyüzsgő megálló sok csónakkal a szikrázó vízfelszínen. Tipp: A hűvös szél ellenére használj naptejet, mert a vízről visszaverődő fény erős.",
+                "ro": "Un popas animat cu multe bărci în apa sclipitoare. Sfat: Folosește cremă solară în ciuda vântului rece, reflexia apei este foarte puternică.",
+                "en": "A bustling stop with many boats on the sparkling water. Tip: Apply sunscreen despite the cool wind, as the reflection from the water is very strong."
+              }
+            },
+            {
+              "name": {
+                "de": "LSL surf",
+                "hu": "LSL surf",
+                "ro": "LSL surf",
+                "en": "LSL surf"
+              },
+              "tip_5lang": {
+                "de": "Konstante Wellen locken viele Surfer an, ein toller Anblick. Tipp: Ein leichtes Tuch oder ein Buff schützt Ihren Hals während der Fahrt vor Zugluft.",
+                "hu": "Az egyenletes hullámok sok szörföst vonzanak, remek látvány. Tipp: Egy vékony csősál megvédi a nyakadat a menetszéltől a hűvösebb időben.",
+                "ro": "Valurile constante atrag mulți surferi, o priveliște grozavă. Sfat: O eșarfă subțire îți va proteja gâtul de curentul de aer în timpul mersului.",
+                "en": "Consistent swells attract many surfers, making for a great view. Tip: A thin neck gaiter or buff will protect your neck from the wind chill while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceningan Paradise Adventures",
+                "hu": "Ceningan Paradise Adventures",
+                "ro": "Ceningan Paradise Adventures",
+                "en": "Ceningan Paradise Adventures"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Lagune ist bei blauem Himmel unschlagbar. Tipp: Achten Sie auf die Gezeiten, da die Strömung unter der Brücke jetzt oft stark ist.",
+                "hu": "A lagúnára nyíló kilátás verhetetlen a tiszta kék égbolt alatt. Tipp: Figyeld az árapályt, mert a híd alatt az áramlatok most gyakran erősebbek.",
+                "ro": "Vederea spre lagună este imbatabilă sub cerul senin. Sfat: Fii atent la maree, deoarece curenții de sub pod sunt adesea foarte puternici acum.",
+                "en": "The view over the lagoon is unbeatable under the clear blue sky. Tip: Keep an eye on the tides, as currents under the bridge are often stronger now."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahana Point",
+                "hu": "Mahana Point",
+                "ro": "Mahana Point",
+                "en": "Mahana Point"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause in der milden Wintersonne. Tipp: Nehmen Sie eine leichte Jacke mit, da es im Schatten direkt am Meer kühl werden kann.",
+                "hu": "Tökéletes hely egy pihenőre a lágy téli napsütésben. Tipp: Vigyél magaddal egy könnyű dzsekit, mert az árnyékban, a tenger mellett hűvös lehet.",
+                "ro": "Perfect pentru o pauză în soarele blând de iarnă. Sfat: Ia cu tine o jachetă ușoară, deoarece la umbră, lângă mare, poate deveni răcoare.",
+                "en": "Perfect for a break in the mild winter sun. Tip: Bring a lightweight jacket, as it can feel surprisingly cool in the shade right by the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Zip line",
+                "hu": "Zip line",
+                "ro": "Tiroliană",
+                "en": "Zip line"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht den Adrenalinkick noch erfrischender. Tipp: Befestigen Sie Ihre Mütze gut, da der Winterwind hier oben kräftig wehen kann.",
+                "hu": "A hűvös levegő még frissítőbbé teszi az adrenalintöltetet. Tipp: Rögzítsd jól a sapkádat, mert a téli szél odafent erősen fújhat csúszás közben.",
+                "ro": "Aerul răcoros face descărcarea de adrenalină și mai revigorantă. Sfat: Fixează-ți bine șapca, deoarece vântul de iarnă poate sufla tare sus.",
+                "en": "The cool air makes the adrenaline rush even more refreshing. Tip: Secure your hat or cap tightly, as the winter wind can be quite strong up here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdd a reggelt a sziget lágy ritmusában elmerülve, és élvezd a friss, sós tengerparti szellőt.\nDélben irány a nyüzsgő tengerpart, ahol az azúrkék víz napsütéses pihenésre csábít mindenkit.\nA délután a szigetcsoport zordabb oldalát tárja fel, drámai sziklákkal és lenyűgöző kilátásokkal.\nAz estét a lélegzetelállító naplementék koronázzák meg, tökéletes lezárást nyújtva a szigeti napnak.",
         "ro": "Începe dimineața captivat de ritmul blând al insulei, bucurându-te de briza proaspătă a coastei.\nLa prânz, îndreaptă-te spre plajele vibrante, unde apele azurii te invită să te relaxezi la soare.\nDupă-amiaza dezvăluie latura sălbatică a arhipelagului, cu stânci dramatice și priveliști uimitoare.\nSeara se instalează cu apusuri spectaculoase, oferind un final perfect și liniștit zilei tale.",
         "en": "Start your morning immersed in the gentle rhythm of the island, enjoying the fresh coastal breeze.\nBy midday, head to the vibrant beachfronts where azure waters invite you to relax under the sun.\nThe afternoon unveils the rugged side of the archipelago, featuring dramatic cliffs and coastal views.\nEvening sets in with breathtaking sunsets, offering a perfect, tranquil end to your island day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir die Insel komfortabel und trocken trotz der Regengüsse. Morgens genießen wir den Blick auf die Wellen durch die Panoramafenster. Mittags dient der Wagen als mobiler Rückzugsort zwischen den Stopps in überdachten Cafés. Am Nachmittag fahren wir sicher zu den Aussichtspunkten auf Ceningan, bevor wir den Abend entspannt in einem Restaurant ausklingen lassen.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel a szigetet a heves záporok ellenére is. Reggel a panorámaablakokon át csodálhatjuk a tajtékzó tengert. Délben a kocsi remek búvóhely a fedett kávézók közötti utakon. Délután biztonságban autózhatunk Ceningan kilátóihoz, az estét pedig egy hangulatos étteremben, az eső elől védve zárjuk.",
+            "ro": "Cu mașina explorăm insula confortabil și la adăpost de ploaie, în ciuda averselor. Dimineața admirăm valurile prin geamurile panoramice. La prânz, mașina servește ca refugiu mobil între opririle la cafenelele acoperite. După-amiaza conducem în siguranță spre punctele de belvedere, încheind seara relaxați într-un restaurant.",
+            "en": "By car, explore the island comfortably and stay dry despite the heavy tropical downpours. In the morning, enjoy the view of the crashing waves through the windows. At noon, the car is a mobile sanctuary between stops at covered cafes. In the afternoon, drive safely to the viewpoints on Ceningan, ending the evening at a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Legend Diving",
+                "hu": "Legend Diving",
+                "ro": "Legend Diving",
+                "en": "Legend Diving"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für Theorieeinheiten, wenn es draußen regnet. Tipp: Lassen Sie die Fenster einen Spalt offen, damit sie im Auto nicht beschlagen.",
+                "hu": "Nagyszerű hely az elméleti oktatáshoz, amikor kint szakad az eső. Tipp: Hagyd résnyire nyitva az ablakot, hogy ne párásodjon be belülről az autó.",
+                "ro": "Un loc excelent pentru sesiuni teoretice când afară plouă torențial. Sfat: Lasă geamurile puțin deschise pentru a preveni aburirea lor în mașină.",
+                "en": "A great place for theory sessions when it's pouring outside. Tip: Keep the car windows slightly cracked to prevent fogging inside while parked."
+              }
+            },
+            {
+              "name": {
+                "de": "Jungutbatu Beach",
+                "hu": "Jungutbatu Beach",
+                "ro": "Jungutbatu Beach",
+                "en": "Jungutbatu Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der Schnellboote direkt aus dem trockenen Wagen. Tipp: Parken Sie nicht zu nah an weichen Sandkanten, die nachgeben könnten.",
+                "hu": "Figyeld a gyorshajók kikötését közvetlenül a száraz autóból. Tipp: Ne parkolj túl közel a homokos parthoz, mert az esőtől fellazulhat a talaj.",
+                "ro": "Urmărește acostarea șalupelor direct din mașina uscată. Sfat: Nu parca prea aproape de marginile cu nisip moale care s-ar putea surpa după ploaie.",
+                "en": "Watch the fast boats docking directly from the comfort of your dry car. Tip: Avoid parking too close to soft sand edges that might give way when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Underwater Buddha Statue Garden",
+                "hu": "Vízalatti Buddha Szoborkert",
+                "ro": "Grădina Subacvatică a Statuilor Buddha",
+                "en": "Underwater Buddha Statue Garden"
+              },
+              "tip_5lang": {
+                "de": "Das Meer kann aufgewühlt sein, was dem Ort eine mystische Aura verleiht. Tipp: Prüfen Sie vorab, ob Bootstouren bei starkem Regen durchgeführt werden.",
+                "hu": "A tenger felkavarodhat, ami misztikus aurát kölcsönöz a helynek. Tipp: Érdeklődj előre, hogy a heves esőzésben elindulnak-e a csónakos túrák.",
+                "ro": "Marea poate fi agitată, oferind locului o aură mistică. Sfat: Verifică în prealabil dacă tururile cu barca se organizează pe ploaie torențială.",
+                "en": "The sea can be churned up, giving the site a mystical aura. Tip: Check in advance if boat tours are still operating during heavy tropical rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Loving Penida Viewpoint",
+                "hu": "Loving Penida kilátó",
+                "ro": "Loving Penida Viewpoint",
+                "en": "Loving Penida Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Nebel kann die Sicht auf Penida zeitweise verdecken und dann dramatisch freigeben. Tipp: Nutzen Sie bei plötzlichem Starkregen die Nebelscheinwerfer.",
+                "hu": "A köd időnként elrejtheti, majd drámai módon feltárhatja Penidát. Tipp: Hirtelen jött heves esőben használd a ködfényszórót a jobb láthatóságért.",
+                "ro": "Ceața poate ascunde temporar Penida, apoi o dezvăluie dramatic. Sfat: Folosește farurile de ceață în caz de ploaie torențială bruscă pentru siguranță.",
+                "en": "Mist can temporarily hide Penida and then dramatically reveal it. Tip: Use your fog lights if visibility drops suddenly during a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceningan cliff",
+                "hu": "Ceningan szikla",
+                "ro": "Stânca Ceningan",
+                "en": "Ceningan cliff"
+              },
+              "tip_5lang": {
+                "de": "Die raue Schönheit der Klippen ist im Regen besonders beeindruckend. Tipp: Bleiben Sie bei Gewittergefahr lieber im schützenden Fahrzeug.",
+                "hu": "A sziklák zord szépsége esőben különösen lenyűgöző látvány. Tipp: Villámlásveszély esetén maradj inkább a biztonságot nyújtó autóban.",
+                "ro": "Frumusețea aspră a stâncilor este impresionantă pe ploaie. Sfat: În caz de pericol de descărcări electrice, rămâi în interiorul protector al mașinii.",
+                "en": "The rugged beauty of the cliffs is especially impressive in the rain. Tip: If there is a risk of lightning, it's safer to stay inside the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahana Point",
+                "hu": "Mahana Point",
+                "ro": "Mahana Point",
+                "en": "Mahana Point"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um bei einem Drink das Wetter zu beobachten. Tipp: Ein großer, stabiler Regenschirm ist für den kurzen Weg vom Parkplatz nötig.",
+                "hu": "Hangulatos hely, ahol egy ital mellett figyelheted az elemek harcát. Tipp: Egy nagy, szélálló esernyő jól jön a parkolótól a bejáratig tartó úton.",
+                "ro": "Un loc primitor unde poți urmări vremea la un pahar de ceva bun. Sfat: O umbrelă mare și rezistentă este necesară pentru drumul scurt din parcare.",
+                "en": "A cozy spot to watch the elements battle while enjoying a drink. Tip: A large, windproof umbrella is necessary for the short walk from the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet die perfekte Klimatisierung für die trockene Winterzeit. Morgens fahren wir bei klarster Sicht zu den Häfen und genießen das Bergpanorama im Hintergrund. Mittags ist die Fahrt über die Insel bei angenehmen Temperaturen im Wagen ein Genuss. Da es früh dunkel wird, erreichen wir die Aussichtspunkte rechtzeitig, um das volle Abendlicht zu erleben.",
+            "hu": "Az autó tökéletes klímát biztosít a száraz téli időszak felfedezéséhez. Reggel kristálytiszta látási viszonyok mellett autózunk a kikötőkhöz. Délben a szigeten való kocsikázás a kellemes hőmérsékletben igazi élvezet. Mivel korán sötétedik, időben érkezünk a kilátókhoz, hogy teljes pompájában lássuk az esti fényeket.",
+            "ro": "Mașina oferă climatizarea perfectă pentru explorarea sezonului uscat de iarnă. Dimineața conducem spre porturi având o vizibilitate de cristal. La prânz, plimbarea prin insulă la temperaturi plăcute este o plăcere. Deoarece se întunecă devreme, ajungem la punctele de belvedere la timp pentru lumina serii.",
+            "en": "The car provides the perfect climate for exploring during the dry winter season. In the morning, drive to the harbors with crystal clear visibility. At noon, cruising across the island in pleasant temperatures is a pure delight. Since it gets dark early, reach the viewpoints in time to catch the full evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Legend Diving",
+                "hu": "Legend Diving",
+                "ro": "Legend Diving",
+                "en": "Legend Diving"
+              },
+              "tip_5lang": {
+                "de": "Idealer Startpunkt für einen klaren Tag auf oder unter Wasser. Tipp: Die Luft ist trocken, trinken Sie ausreichend Wasser, auch wenn es nicht so heiß ist.",
+                "hu": "Ideális kiindulópont egy tiszta naphoz a vízen vagy a víz alatt. Tipp: A levegő száraz, igyál elegendő vizet akkor is, ha nem érzed a perzselő hőséget.",
+                "ro": "Punct de plecare ideal pentru o zi senină pe apă sau sub ea. Sfat: Aerul este uscat, bea suficientă apă chiar dacă nu simți căldura toridă.",
+                "en": "An ideal starting point for a clear day on or under the water. Tip: The air is quite dry; remember to drink plenty of water even if it doesn't feel hot."
+              }
+            },
+            {
+              "name": {
+                "de": "Jungutbatu Beach",
+                "hu": "Jungutbatu Beach",
+                "ro": "Jungutbatu Beach",
+                "en": "Jungutbatu Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser glitzert im intensiven Winterlicht besonders hell. Tipp: In der Hauptsaison kann der Verkehr im Hafen zunehmen, planen Sie etwas Puffer ein.",
+                "hu": "A víz különösen fényesen csillog az intenzív téli napsütésben. Tipp: A főszezonban a kikötői forgalom megnőhet, számolj egy kis plusz idővel a parkolásra.",
+                "ro": "Apa sclipeste foarte puternic în lumina intensă de iarnă. Sfat: În plin sezon, traficul din port poate crește, rezervă-ți ceva timp în plus pentru parcare.",
+                "en": "The water sparkles brilliantly in the intense winter light. Tip: During the peak dry season, harbor traffic can increase, so allow extra time for parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Underwater Buddha Statue Garden",
+                "hu": "Vízalatti Buddha Szoborkert",
+                "ro": "Grădina Subacvatică a Statuilor Buddha",
+                "en": "Underwater Buddha Statue Garden"
+              },
+              "tip_5lang": {
+                "de": "Beste Sichtweiten des ganzen Jahres für Unterwasseraufnahmen. Tipp: Dies ist die beste Zeit für Weitwinkel-Fotos, da kaum Schwebeteilchen im Wasser sind.",
+                "hu": "Az egész év legjobb látótávolsága vár most a vízalatti fotózáshoz. Tipp: Ez a legjobb időszak a nagylátószögű képekhez a tiszta víz miatt.",
+                "ro": "Cea mai bună vizibilitate din tot anul pentru fotografii subacvatice. Sfat: Este momentul ideal pentru poze panoramice datorită apei foarte limpezi.",
+                "en": "The best underwater visibility of the entire year for snorkeling and photos. Tip: This is the peak time for wide-angle shots as there is very little sediment."
+              }
+            },
+            {
+              "name": {
+                "de": "Loving Penida Viewpoint",
+                "hu": "Loving Penida kilátó",
+                "ro": "Loving Penida Viewpoint",
+                "en": "Loving Penida Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Gestochen scharfer Blick auf die Nachbarinsel ohne Hitzeflimmern. Tipp: Das Licht ist am späten Vormittag am besten für Landschaftsaufnahmen.",
+                "hu": "Tűéles kilátás a szomszédos szigetre a hőség okozta pára nélkül. Tipp: A fények a késő délelőtti órákban a legjobbak a tájfotózáshoz ezen a ponton.",
+                "ro": "Vedere extrem de clară spre insula vecină, fără vaporii de căldură. Sfat: Lumina este cea mai bună pentru peisaje în orele târzii ale dimineții.",
+                "en": "Razor-sharp views of the neighboring island without the heat haze. Tip: The light is best for landscape photography during the late morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceningan cliff",
+                "hu": "Ceningan szikla",
+                "ro": "Stânca Ceningan",
+                "en": "Ceningan cliff"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise oben auf den Felsen. Tipp: Ein leichter Schal schützt Sie vor dem kühlen Wind, der hier stetig wehen kann.",
+                "hu": "Élvezd a friss tengeri szellőt fent a sziklák tetején. Tipp: Egy könnyű sál megvéd a hűvös széltől, ami itt fent szinte folyamatosan fúj télen.",
+                "ro": "Bucură-te de briza proaspătă a mării sus pe stânci. Sfat: O eșarfă ușoară te va proteja de vântul răcoros care bate constant aici iarna.",
+                "en": "Enjoy the fresh sea breeze from the top of the rugged cliffs. Tip: A light scarf will protect you from the cool wind that blows steadily here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahana Point",
+                "hu": "Mahana Point",
+                "ro": "Mahana Point",
+                "en": "Mahana Point"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss mit Blick auf das weite Meer. Tipp: Da es ab 17:30 Uhr dunkel wird, treten Sie die Rückfahrt über die engen Straßen zeitig an.",
+                "hu": "A nap méltó lezárása kilátással a végtelen óceánra. Tipp: Mivel fél hat után sötétedik, indulj el időben a szűk utakon a szállásod felé.",
+                "ro": "Finalul perfect al zilei cu vedere spre oceanul nesfârșit. Sfat: Deoarece se întunecă după 17:30, pleacă devreme pe drumurile înguste spre casă.",
+                "en": "The perfect finale with a view over the endless ocean. Tip: As it gets dark after 17:30, start your return trip on the narrow roads while it's still light."
+              }
+            }
+          ]
+        }
       }
     }
   }

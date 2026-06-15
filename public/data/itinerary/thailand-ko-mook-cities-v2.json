@@ -137,6 +137,168 @@
         "hu": "Kezdje kalandját a nyugodt keleti partok és a finom fehér homokpadok felfedezésével.\n\nAhogy melegszik az idő, induljon a déli öblök felé, ahol a mangrovék békés menedéket nyújtanak.\n\nDélután fedezze fel a csodálatos nyugati partot egy felejthetetlen sznorkelezésre.\n\nZárja a napot egy látványos naplemente megtekintésével a sziget rejtett mészkőlagúnái közelében.",
         "ro": "Începeți aventura explorând țărmurile estice liniștite și bancurile de nisip alb și fin.\n\nPe măsură ce se încălzește, vizitați golfurile sudice unde mangrovele oferă o evadare pașnică.\n\nDupă-amiaza, descoperiți coasta vestică magnifică pentru sesiuni uimitoare de snorkeling.\n\nÎncheiați ziua urmărind un apus de soare spectaculos lângă lagunele ascunse ale insulei.",
         "en": "Begin your adventure exploring the serene eastern shores and powdery white sandbars.\n\nAs the day warms up, venture towards the southern coves where mangroves offer a peaceful escape.\n\nIn the afternoon, discover the magnificent western coast for world-class snorkeling.\n\nConclude your day watching a spectacular fiery sunset near the island's hidden limestone lagoons."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Sivalai Resort nutzen wir die überdachten Bereiche bei Regenschauern. Mittags wandern wir mit Regenponchos vorsichtig über die teils matschigen Pfade zwischen Pawapi und Ao Phang Ka. Nachmittags bietet der dichte Wald am Farang Beach etwas Schutz vor dem Tropenregen. Abends kehren wir früh zurück, da die unbeleuchteten Wege bei Nässe sehr rutschig und unsicher werden.",
+            "hu": "Reggel a Sivalai Resort fedett részein várakozunk, amíg az intenzív trópusi eső alábbhagy. Délben a Pawapi és Ao Phang Ka strandok között a sárban óvatosan haladunk vízálló szandálban. Délután a Farang Beach mentén a fák alatt keresünk menedéket a záporok elől. Este korán visszatérünk a szállásra, mert a kivilágítatlan utak a sártól csúszóssá és veszélyessé válnak a sötétben.",
+            "ro": "Dimineața la Sivalai Resort folosim zonele acoperite în timp ce așteptăm oprirea ploii tropicale. La prânz mergem cu pelerine spre Pawapi și Ao Phang Ka pe potecile noroioase. După-amiaza pădurea de lângă Farang Beach oferă adăpost parțial împotriva averselor. Seara ne întoarcem devreme deoarece drumurile neiluminate devin foarte alunecoase și periculoase din cauza noroiului.",
+            "en": "In the morning at Sivalai Resort, we stay under covered areas until the intense tropical rain eases. At noon, we hike between Pawapi and Ao Phang Ka carefully on muddy paths with waterproof sandals. In the afternoon, trees near Farang Beach provide some shelter from showers. In the evening, we return early as unlit paths become slippery and dangerous in the wet darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koh Mook Sivalai Beach Resort",
+                "hu": "Koh Mook Sivalai Beach Resort",
+                "ro": "Koh Mook Sivalai Beach Resort",
+                "en": "Koh Mook Sivalai Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hotellobby als trockenen Treffpunkt bei plötzlichem Regen und genießen Sie den Blick auf das Meer unter dem schützenden Dach der Terrasse.",
+                "hu": "Használja a szálloda lobbyját száraz találkozóhelyként hirtelen eső esetén, és élvezze a tengerre nyíló kilátást a terasz védelmező tetője alól.",
+                "ro": "Folosiți holul hotelului ca punct de întâlnire uscat în caz de ploaie bruscă și bucurați-vă de vederea la mare de sub acoperișul protector al terasei.",
+                "en": "Use the hotel lobby as a dry meeting point during sudden rain and enjoy the sea view from under the protective roof of the resort terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "Pawapi Strand",
+                "hu": "Pawapi Strand",
+                "ro": "Plaja Pawapi",
+                "en": "Pawapi Beach"
+              },
+              "tip_5lang": {
+                "de": "Die nahen Strandbars bieten rustikale Überdachungen; ein heißer Tee ist hier bei kühlem Regenwind besonders wohltuend für die durchnässten Wanderer.",
+                "hu": "A közeli strandbárok rusztikus tetői menedéket nyújtanak; egy forró tea a hűvös esőben különösen jólesik az elázott vándoroknak a parton.",
+                "ro": "Barurile de pe plajă oferă adăposturi rustice; un ceai fierbinte în timpul ploii răcoroase este foarte binevenit pentru drumeții uzi de pe mal.",
+                "en": "Nearby beach bars offer rustic shelters; a hot tea during the cool rain wind is especially soothing for soaked hikers along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phang Ka Strand",
+                "hu": "Ao Phang Ka Strand",
+                "ro": "Plaja Ao Phang Ka",
+                "en": "Ao Phang Ka Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Felsen am Ufer und tragen Sie unbedingt geschlossene Wasserschuhe, um auf den nassen Steinen nicht den Halt zu verlieren.",
+                "hu": "Ügyeljen a csúszós sziklákra a parton, és viseljen zárt vízi cipőt, hogy ne veszítse el az egyensúlyát a nedves köveken a séta közben.",
+                "ro": "Aveți grijă la stâncile alunecoase de pe mal și purtați încălțăminte de apă închisă pentru a nu vă pierde echilibrul pe pietrele ude în timpul plimbării.",
+                "en": "Watch out for slippery rocks on the shore and strictly wear closed water shoes to avoid losing your balance on the wet stones during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Farang Strand",
+                "hu": "Farang Strand",
+                "ro": "Plaja Farang",
+                "en": "Farang Beach"
+              },
+              "tip_5lang": {
+                "de": "Die hohen Bäume am Rand bieten natürlichen Schutz vor leichtem Nieselregen, aber halten Sie Ihre Wertsachen in einem wasserdichten Dry-Bag stets trocken.",
+                "hu": "A parton lévő magas fák természetes védelmet nyújtanak a szemerkélő eső ellen, de értékeit tartsa vízálló táskában a teljes biztonság érdekében.",
+                "ro": "Copacii înalți de pe plajă oferă protecție naturală împotriva ploii ușoare, dar păstrați obiectele de valoare într-o geantă impermeabilă pentru siguranță.",
+                "en": "The tall trees by the beach offer natural protection from light drizzle, but keep your valuables in a waterproof dry bag for total safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Schnorchelplatz",
+                "hu": "Sznorkel Hely",
+                "ro": "Loc de Snorkeling",
+                "en": "Snorkeling Spot (200 m parallel to the beach)"
+              },
+              "tip_5lang": {
+                "de": "Das Schnorcheln ist bei Regen möglich, doch achten Sie auf die verringerte Sicht unter Wasser und die etwas stärkeren Strömungen in Küstennähe.",
+                "hu": "A sznorkelezés esőben is lehetséges, de figyeljen a csökkent víz alatti látótávolságra és a part menti valamivel erősebb áramlatokra a vízben.",
+                "ro": "Snorkelingul este posibil pe ploaie, dar atenție la vizibilitatea redusă sub apă și la curenții ceva mai puternici din apropierea țărmului.",
+                "en": "Snorkeling is possible in the rain, but watch out for reduced underwater visibility and slightly stronger currents near the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die milde Brise bei angenehmen Temperaturen am Sivalai Strand. Mittags nutzen wir den klaren Himmel für weite Ausblicke, schützen uns aber mit Hut vor der intensiven Wintersonne. Nachmittags ist das Wasser kristallklar, perfekt zum Abkühlen vor dem frühen Sonnenuntergang. Abends wird es gegen 17:30 Uhr schlagartig dunkel und die Luft kühlt angenehm auf Wander-Temperatur ab.",
+            "hu": "Reggel a kellemesen hűvös szélben kezdjük a sétát a fehér homokon, kihasználva a lágy napsütést. Délben a strandok közötti ösvényeken haladunk, élvezve a száraz időt, de kalappal védjük magunkat az erős naptól. Délután a kristálytiszta vízben frissülünk fel a korai naplemente előtt. Este 17:30-kor hirtelen besötétedik, a levegő pedig kellemesen lehűl a túrázáshoz.",
+            "ro": "Dimineața savurăm briza ușoară la temperaturi plăcute pe plaja Sivalai. La prânz profităm de cerul senin pentru vederi panoramice, protejându-ne cu pălării de soarele intens de iarnă. După-amiaza apa este deosebit de limpede, perfectă pentru răcorire înainte de apusul timpuriu. Seara se întunecă brusc în jurul orei 17:30, iar aerul se răcește plăcut pentru mersul pe jos.",
+            "en": "In the morning, we enjoy the mild breeze and pleasant temperatures at Sivalai Beach. At noon, we take advantage of the clear skies for views, protecting ourselves with hats from the intense winter sun. In the afternoon, the water is crystal clear, perfect for cooling off before the early sunset. In the evening, it gets dark abruptly around 17:30, and the air cools down nicely for walking."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koh Mook Sivalai Beach Resort",
+                "hu": "Koh Mook Sivalai Beach Resort",
+                "ro": "Koh Mook Sivalai Beach Resort",
+                "en": "Koh Mook Sivalai Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Sand reflektiert das helle Winterlicht sehr stark; tragen Sie eine gute Sonnenbrille, um die morgendliche Pracht schmerzfrei zu genießen.",
+                "hu": "A fehér homok erősen visszaveri a téli napfényt; viseljen napszemüveget, hogy fájdalom nélkül élvezhesse a reggeli tengerparti látványt.",
+                "ro": "Nisipul alb reflectă puternic lumina soarelui de iarnă; purtați ochelari de soare pentru a savura priveliștea matinală fără disconfort vizual.",
+                "en": "The white sand reflects the winter sunlight strongly; wear high-quality sunglasses to enjoy the morning beach splendor without eye strain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pawapi Strand",
+                "hu": "Pawapi Strand",
+                "ro": "Plaja Pawapi",
+                "en": "Pawapi Beach"
+              },
+              "tip_5lang": {
+                "de": "Der flache Uferbereich ist im Winter angenehm warm; ideal für einen langen Spaziergang im seichten Wasser bei niedrigem Wellengang.",
+                "hu": "A sekély part menti rész télen is kellemesen meleg; ideális egy hosszú sétához a vízben, mivel ilyenkor a hullámzás rendkívül alacsony.",
+                "ro": "Zona de mal puțin adâncă este plăcut de caldă iarna; ideală pentru o plimbare lungă prin apă, deoarece valurile sunt foarte mici în acest sezon.",
+                "en": "The shallow shore area is pleasantly warm in winter; ideal for a long stroll in the water as the waves are extremely low during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phang Ka Strand",
+                "hu": "Ao Phang Ka Strand",
+                "ro": "Plaja Ao Phang Ka",
+                "en": "Ao Phang Ka Beach"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Luft sorgt für eine fantastische Fernsicht bis zu den Nachbarinseln; halten Sie Ihre Kamera für klare Panoramafotos bereit.",
+                "hu": "A száraz levegő fantasztikus távlátszást biztosít a szomszédos szigetekig; tartsa készenlétben a kameráját a tiszta panorámafotókhoz.",
+                "ro": "Aerul uscat oferă o vizibilitate fantastică până la insulele vecine; pregătiți camera foto pentru fotografii panoramice extrem de clare.",
+                "en": "The dry air provides fantastic long-distance visibility to neighboring islands; keep your camera ready for clear panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Farang Strand",
+                "hu": "Farang Strand",
+                "ro": "Plaja Farang",
+                "en": "Farang Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich rechtzeitig einen Platz für den Sonnenuntergang, da die Sonne im Winter viel früher als gewohnt hinter dem Horizont verschwindet.",
+                "hu": "Keressen időben helyet a naplementéhez, mivel télen a nap a megszokottnál sokkal korábban tűnik el a horizont mögött a tengeren.",
+                "ro": "Găsiți un loc pentru apus din timp, deoarece iarna soarele dispare mult mai devreme decât de obicei în spatele orizontului marin.",
+                "en": "Find a spot for the sunset early, as the sun disappears behind the horizon much earlier than usual during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Schnorchelplatz",
+                "hu": "Sznorkel Hely",
+                "ro": "Loc de Snorkeling",
+                "en": "Snorkeling Spot (200 m parallel to the beach)"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige See im Winter bietet beste Bedingungen; beenden Sie den Schnorchelgang bis 16:30 Uhr, um das letzte gute Tageslicht auszunutzen.",
+                "hu": "A téli nyugodt tenger kiváló feltételeket kínál; fejezze be a sznorkelezést 16:30-ig, hogy kihasználja az utolsó jó nappali fényeket a vízben.",
+                "ro": "Marea liniștită de iarnă oferă condiții excelente; terminați snorkelingul până la 16:30 pentru a profita de ultima lumină bună a zilei.",
+                "en": "The calm winter sea offers excellent conditions; finish your snorkeling session by 16:30 to make use of the last good daylight in the water."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kalandját a nyugodt keleti partok és a finom fehér homokpadok felfedezésével.\n\nAhogy melegszik az idő, induljon a déli öblök felé, ahol a mangrovék békés menedéket nyújtanak.\n\nDélután fedezze fel a csodálatos nyugati partot egy felejthetetlen sznorkelezésre.\n\nZárja a napot egy látványos naplemente megtekintésével a sziget rejtett mészkőlagúnái közelében.",
         "ro": "Începeți aventura explorând țărmurile estice liniștite și bancurile de nisip alb și fin.\n\nPe măsură ce se încălzește, vizitați golfurile sudice unde mangrovele oferă o evadare pașnică.\n\nDupă-amiaza, descoperiți coasta vestică magnifică pentru sesiuni uimitoare de snorkeling.\n\nÎncheiați ziua urmărind un apus de soare spectaculos lângă lagunele ascunse ale insulei.",
         "en": "Begin your adventure exploring the serene eastern shores and powdery white sandbars.\n\nAs the day warms up, venture towards the southern coves where mangroves offer a peaceful escape.\n\nIn the afternoon, discover the magnificent western coast for world-class snorkeling.\n\nConclude your day watching a spectacular fiery sunset near the island's hidden limestone lagoons."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens prüfen wir die Bremsen, da die schlammigen Wege auf Koh Mook bei Regen tückisch sind. Mittags radeln wir vorsichtig zwischen den Stränden und meiden tiefe Pfützen. Nachmittags erreichen wir die Emerald Cave, wo wir die Räder sicher und trocken unterstellen müssen. Abends ist die Fahrt zurück zum Resort eine Herausforderung, da das Licht schwach und der Untergrund extrem rutschig ist.",
+            "hu": "Reggel ellenőrizzük a fékeket, mert a sáros utak Koh Mook szigetén esőben nagyon csalókák. Délben óvatosan tekerünk a strandok között, kerülve a mély tócsákat. Délután elérjük a Smaragd Barlangot, ahol a bicikliket biztonságos, fedett helyen hagyjuk. Este a visszajutás a resortba nehézkes, mivel a fényviszonyok rosszak, a talaj pedig rendkívül csúszós a sár miatt.",
+            "ro": "Dimineața verificăm frânele deoarece drumurile noroioase din Koh Mook sunt înșelătoare pe ploaie. La prânz pedalăm cu atenție între plaje, evitând bălțile adânci. După-amiaza ajungem la Emerald Cave, unde lăsăm bicicletele într-un loc sigur și acoperit. Seara drumul de întoarcere este dificil din cauza luminii slabe și a terenului extrem de alunecos.",
+            "en": "In the morning, we check our brakes as the muddy paths on Koh Mook are tricky in the rain. At noon, we cycle carefully between beaches, avoiding deep puddles. In the afternoon, we reach the Emerald Cave, leaving the bikes in a safe, covered spot. In the evening, returning to the resort is challenging due to poor light and extremely slippery terrain from the mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koh Mook Sivalai Beach Resort",
+                "hu": "Koh Mook Sivalai Beach Resort",
+                "ro": "Koh Mook Sivalai Beach Resort",
+                "en": "Koh Mook Sivalai Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Leihen Sie ein Mountainbike mit tiefem Profil; die breiten Reifen bieten auf den nassen Sandwegen deutlich mehr Grip und Sicherheit bei Regen.",
+                "hu": "Béreljen mély mintázatú terepbiciklit; a széles gumik sokkal jobb tapadást és biztonságot nyújtanak a nedves homokos utakon esőben.",
+                "ro": "Închiriați o bicicletă de munte cu profil adânc; anvelopele late oferă o aderență și siguranță mult mai bună pe drumurile umede de nisip.",
+                "en": "Rent a mountain bike with deep tread; wide tires provide much better grip and safety on wet sandy paths during tropical rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Pawapi Strand",
+                "hu": "Pawapi Strand",
+                "ro": "Plaja Pawapi",
+                "en": "Pawapi Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Palmen ab, um den Sattel trocken zu halten, während Sie kurz den verregneten Blick auf das Meer genießen.",
+                "hu": "Parkolja le a biciklit a pálmafák alatt, hogy a nyereg száraz maradjon, miközben rövid ideig élvezi az esős kilátást a tengerparton.",
+                "ro": "Parcați bicicleta sub palmieri pentru a menține șaua uscată în timp ce vă bucurați scurt de vederea ploioasă de pe malul mării.",
+                "en": "Park your bike under the palm trees to keep the saddle dry while you briefly enjoy the rainy view along the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phang Ka Strand",
+                "hu": "Ao Phang Ka Strand",
+                "ro": "Plaja Ao Phang Ka",
+                "en": "Ao Phang Ka Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann sehr matschig sein; fahren Sie langsam, um schlammige Spritzer auf Ihrer Kleidung und rutschende Reifen zu vermeiden.",
+                "hu": "Az idevezető út nagyon sáros lehet; tekerjen lassan, hogy elkerülje a sárfelverődést a ruhájára és a kerekek megcsúszását az úton.",
+                "ro": "Drumul spre această plajă poate fi foarte noroios; pedalați încet pentru a evita stropirea hainelor și derapajul roților pe noroi.",
+                "en": "The path here can be very muddy; cycle slowly to avoid mud splashes on your clothes and your tires slipping on the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Farang Strand",
+                "hu": "Farang Strand",
+                "ro": "Plaja Farang",
+                "en": "Farang Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe der überdachten Restaurants; so können Sie bei einem plötzlichen Wolkenbruch schnell vom Rad unter ein festes Dach flüchten.",
+                "hu": "Parkoljon a fedett éttermek közelében; így egy hirtelen felhőszakadás esetén gyorsan a kerékpárról egy szilárd tető alá menekülhet.",
+                "ro": "Parcați aproape de restaurantele acoperite; astfel, în caz de aversă bruscă, puteți coborî rapid de pe bicicletă sub un acoperiș solid.",
+                "en": "Park near the covered restaurants; this way, you can quickly jump off the bike and take cover under a solid roof during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Smaragdhalle (Emerald Cave)",
+                "hu": "Smaragd Barlang",
+                "ro": "Peștera de Smarald",
+                "en": "Emerald Cave"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangstunnel kann bei Regen düster sein; eine wasserdichte Stirnlampe hilft Ihnen, die Felswände im Inneren der Höhle sicher zu erkennen.",
+                "hu": "A bejárati alagút esőben sötét lehet; egy vízálló fejlámpa segít, hogy biztonságosan lássa a sziklafalakat a barlang belsejében.",
+                "ro": "Tunelul de intrare poate fi întunecat pe ploaie; o lanternă frontală impermeabilă vă ajută să vedeți clar pereții de stâncă din interior.",
+                "en": "The entrance tunnel can be gloomy in the rain; a waterproof headlamp will help you see the rock walls inside the cave safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Morakot Strand",
+                "hu": "Morakot Strand",
+                "ro": "Plaja Morakot",
+                "en": "Morakot Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt bei Regen mystisch, aber Vorsicht vor herabfallenden Zweigen von den steilen Klippen bei starkem Wind und heftigem Niederschlag.",
+                "hu": "A lagúna misztikus esőben, de vigyázzon a meredek sziklákról lehulló ágakra erős szél és heves csapadék idején a barlang után.",
+                "ro": "Laguna pare mistică pe ploaie, dar atenție la crengile care pot cădea de pe stâncile abrupte în timpul vântului puternic și al ploii.",
+                "en": "The lagoon looks mystical in the rain, but beware of falling branches from the steep cliffs during strong winds and heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabai Strand",
+                "hu": "Sabai Strand",
+                "ro": "Plaja Sabai",
+                "en": "Sabai Beach"
+              },
+              "tip_5lang": {
+                "de": "Der abgelegene Strand bietet kaum Schutz; treten Sie bei aufziehendem Gewitter sofort den Rückweg an, bevor die Wege unpassierbar werden.",
+                "hu": "A távoli strand alig nyújt menedéket; közeledő vihar esetén azonnal induljon vissza, mielőtt az utak járhatatlanná válnak a sártól.",
+                "ro": "Plaja izolată oferă puțin adăpost; în caz de furtună, plecați imediat înapoi înainte ca drumurile să devină impracticabile din cauza noroiului.",
+                "en": "This remote beach offers little shelter; if a storm approaches, head back immediately before the paths become impassable due to mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir entspannt durch die kühle Waldluft ins Inselinnere. Mittags glüht der Asphalt, daher nutzen wir die schattigen Palmenhaine für unsere Pausen. Nachmittags erreichen wir die Emerald Cave pünktlich vor dem Touristenansturm. Abends beeilen wir uns auf dem Rückweg, da es nach 17:00 Uhr kühl wird und die Sonne auf Koh Mook sehr früh hinter den Bergen versinkt.",
+            "hu": "Reggel a hűvös erdei levegőn tekerünk a sziget belseje felé. Délben az utak forróak, ezért az árnyas pálmaligetekben tartunk pihenőt. Délután pontosan a turistaáradat előtt érkezünk a Smaragd Barlanghoz. Este sietünk visszafelé, mivel 17:00 után lehűl az idő, és a nap Koh Mook hegyei mögött nagyon korán lenyugszik.",
+            "ro": "Dimineața pedalăm relaxați prin aerul răcoros al pădurii spre interiorul insulei. La prânz asfaltul este fierbinte, așa că folosim crângurile de palmieri pentru pauze. După-amiaza ajungem la Emerald Cave exact înainte de fluxul mare de turiști. Seara ne grăbim la întoarcere deoarece după ora 17:00 se răcește brusc.",
+            "en": "In the morning, we cycle through the cool forest air towards the island's interior. At noon, the paths are hot, so we use shady palm groves for breaks. In the afternoon, we reach Emerald Cave just before the tourist rush. In the evening, we hurry back as it cools down after 17:00 and the sun sets very early behind the mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koh Mook Sivalai Beach Resort",
+                "hu": "Koh Mook Sivalai Beach Resort",
+                "ro": "Koh Mook Sivalai Beach Resort",
+                "en": "Koh Mook Sivalai Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor dem Start; der harte, trockene Boden im Winter verlangt nach gut aufgepumpten Reifen für eine mühelose Fahrt.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást; a kemény, száraz talaj télen jól felfújt gumikat igényel a könnyed és gyors haladáshoz a szigeten.",
+                "ro": "Verificați presiunea în pneuri înainte de start; solul dur și uscat de iarnă necesită anvelope bine umflate pentru o deplasare fără efort.",
+                "en": "Check your tire pressure before starting; the hard, dry ground in winter requires well-inflated tires for effortless cycling across the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Pawapi Strand",
+                "hu": "Pawapi Strand",
+                "ro": "Plaja Pawapi",
+                "en": "Pawapi Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf das Festland; im Winter ist der Horizont meist dunstfrei, was diesen Stopp ideal für Fernaufnahmen macht.",
+                "hu": "Élvezze a tiszta kilátást a szárazföldre; télen a horizont többnyire páramentes, ami ideálissá teszi ezt a megállót a távoli fotókhoz.",
+                "ro": "Bucurați-vă de vederea clară spre continent; iarna orizontul este de obicei fără ceață, ceea ce face acest popas ideal pentru fotografii la distanță.",
+                "en": "Enjoy the clear view of the mainland; in winter, the horizon is mostly haze-free, making this stop ideal for long-distance photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phang Ka Strand",
+                "hu": "Ao Phang Ka Strand",
+                "ro": "Plaja Ao Phang Ka",
+                "en": "Ao Phang Ka Beach"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Plätze unter den Bäumen sind mittags heiß begehrt; sichern Sie sich früh ein Plätzchen für eine kühle Trinkpause im Schatten.",
+                "hu": "Az árnyékos helyek a fák alatt délben nagyon keresettek; foglaljon helyet korán egy hűsítő italra a fák védelmező árnyékában.",
+                "ro": "Locurile umbroase de sub copaci sunt foarte căutate la prânz; ocupați un loc devreme pentru o pauză răcoritoare la umbră.",
+                "en": "Shady spots under the trees are highly sought after at noon; secure a place early for a cooling drink break in the protective shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Farang Strand",
+                "hu": "Farang Strand",
+                "ro": "Plaja Farang",
+                "en": "Farang Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter besonders ruhig; parken Sie Ihr Rad sicher und springen Sie zur Abkühlung in das glasklare, erfrischende Meer.",
+                "hu": "A víz télen különösen nyugodt; parkolja le biztonságosan a biciklit, és ugorjon be hűsölni a kristálytiszta, frissítő tengerbe.",
+                "ro": "Apa este deosebit de liniștită iarna; parcați bicicleta în siguranță și săriți în marea cristalină și revigorantă pentru a vă răcori.",
+                "en": "The water is especially calm in winter; park your bike safely and jump into the crystal-clear, refreshing sea to cool off from the cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Smaragdhalle (Emerald Cave)",
+                "hu": "Smaragd Barlang",
+                "ro": "Peștera de Smarald",
+                "en": "Emerald Cave"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 10:00 Uhr, um das beste Licht zu erleben, wenn die Sonnenstrahlen im Winter genau im richtigen Winkel in die Lagune fallen.",
+                "hu": "Érkezzen 10:00 előtt, hogy a legjobb fényeket lássa, amikor a téli napsugarak pontosan a megfelelő szögben esnek be a belső lagúnába.",
+                "ro": "Veniți înainte de ora 10:00 pentru a vedea cea mai bună lumină, când razele soarelui de iarnă cad în unghiul perfect în laguna interioară.",
+                "en": "Arrive before 10:00 to experience the best light, as winter sunbeams hit the inner lagoon at the perfect angle during the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Morakot Strand",
+                "hu": "Morakot Strand",
+                "ro": "Plaja Morakot",
+                "en": "Morakot Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der steilen Kalksteinfelsen, die diesen verborgenen Strand so dramatisch einrahmen.",
+                "hu": "Használja ki a tiszta téli fényeket a meredek mészkősziklák fotózásához, amelyek olyan drámai módon keretezik ezt a rejtett strandot.",
+                "ro": "Profitate de lumina clară de iarnă pentru a fotografia stâncile de calcar abrupte care încadrează dramatic această plajă ascunsă.",
+                "en": "Take advantage of the clear winter light to photograph the steep limestone cliffs that dramatically frame this hidden beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabai Strand",
+                "hu": "Sabai Strand",
+                "ro": "Plaja Sabai",
+                "en": "Sabai Beach"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt spätestens für 16:30 Uhr ein, damit Sie nicht im Dunkeln mit dem Rad über die unbeleuchteten Inselwege fahren müssen.",
+                "hu": "Tervezze meg a visszautat legkésőbb 16:30-ra, hogy ne kelljen sötétben bicikliznie a sziget kivilágítatlan, erdei útjain a resort felé.",
+                "ro": "Planificați întoarcerea cel târziu la 16:30, pentru a nu fi nevoit să pedalați pe întuneric pe drumurile neiluminate ale insulei.",
+                "en": "Plan your return trip by 16:30 at the latest, so you don't have to cycle back in the dark on the island's unlit forest paths."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Kezdje kalandját a nyugodt keleti partok és a finom fehér homokpadok felfedezésével.\n\nAhogy melegszik az idő, induljon a déli öblök felé, ahol a mangrovék békés menedéket nyújtanak.\n\nDélután fedezze fel a csodálatos nyugati partot egy felejthetetlen sznorkelezésre.\n\nZárja a napot egy látványos naplemente megtekintésével a sziget rejtett mészkőlagúnái közelében.",
         "ro": "Începeți aventura explorând țărmurile estice liniștite și bancurile de nisip alb și fin.\n\nPe măsură ce se încălzește, vizitați golfurile sudice unde mangrovele oferă o evadare pașnică.\n\nDupă-amiaza, descoperiți coasta vestică magnifică pentru sesiuni uimitoare de snorkeling.\n\nÎncheiați ziua urmărind un apus de soare spectaculos lângă lagunele ascunse ale insulei.",
         "en": "Begin your adventure exploring the serene eastern shores and powdery white sandbars.\n\nAs the day warms up, venture towards the southern coves where mangroves offer a peaceful escape.\n\nIn the afternoon, discover the magnificent western coast for world-class snorkeling.\n\nConclude your day watching a spectacular fiery sunset near the island's hidden limestone lagoons."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens lassen wir uns bequem im überdachten Tuk-Tuk zu den Stränden chauffieren. Mittags prasselt der Regen auf das Dach, während wir trocken von Ao Phang Ka zum Farang Beach fahren. Nachmittags besuchen wir die Höhlen, die natürlichen Schutz vor den Güssen bieten. Abends endet die Tour sicher am Resort, da das Fahrzeug auch bei überfluteten Wegen stabiler bleibt als ein Zweirad.",
+            "hu": "Reggel kényelmesen, fedett tuk-tukkal vitetjük magunkat a strandokhoz a trópusi esőben. Délben az eső a tetőn kopog, miközben mi szárazon utazunk Ao Phang Ka-tól a Farang Beach-ig. Délután a barlangokat látogatjuk meg, amelyek természetes menedéket nyújtanak. Este a túra biztonságosan ér véget, mivel a jármű a vízzel borított utakon is stabilabb marad.",
+            "ro": "Dimineața ne lăsăm conduși confortabil cu un tuk-tuk acoperit spre plaje în timpul ploii. La prânz ploaia bate în acoperiș în timp ce noi călătorim uscați între Ao Phang Ka și Farang Beach. După-amiaza vizităm peșterile care oferă adăpost natural. Seara turul se încheie în siguranță deoarece vehiculul este mai stabil pe drumurile inundate decât o bicicletă.",
+            "en": "In the morning, we take a covered tuk-tuk to the beaches comfortably during the tropical rain. At noon, rain drums on the roof while we travel dry from Ao Phang Ka to Farang Beach. In the afternoon, we visit the caves, which provide natural shelter from the downpours. In the evening, the tour ends safely as the vehicle remains more stable on flooded paths than a bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koh Mook Sivalai Beach Resort",
+                "hu": "Koh Mook Sivalai Beach Resort",
+                "ro": "Koh Mook Sivalai Beach Resort",
+                "en": "Koh Mook Sivalai Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Bitten Sie den Fahrer, die seitlichen Planen herunterzulassen, damit Sie auch bei schrägem Regen während der Fahrt trocken bleiben.",
+                "hu": "Kérje meg a sofőrt, hogy engedje le az oldalsó ponyvákat, így az oldalról érkező eső ellenére is száraz maradhat az út során.",
+                "ro": "Rugați șoferul să coboare prelatele laterale pentru a rămâne uscat în timpul călătoriei, chiar dacă plouă din lateral.",
+                "en": "Ask the driver to lower the side tarps so you stay dry during the ride even if the tropical rain is blowing in from the side."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phang Ka Strand",
+                "hu": "Ao Phang Ka Strand",
+                "ro": "Plaja Ao Phang Ka",
+                "en": "Ao Phang Ka Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt am überdachten Restaurant absetzen; so vermeiden Sie nasse Füße auf dem Weg vom Fahrzeug zum Strandmenü.",
+                "hu": "Kérje, hogy közvetlenül a fedett étteremnél tegyék le; így elkerülheti a lába elázását a jármű és a tengerparti étkezőhely között.",
+                "ro": "Cereți să fiți lăsat direct la restaurantul acoperit; astfel evitați udarea picioarelor pe drumul de la vehicul până la locul de luat masa.",
+                "en": "Ask to be dropped off directly at the covered restaurant; this avoids getting your feet wet on the way from the vehicle to the beach dining area."
+              }
+            },
+            {
+              "name": {
+                "de": "Farang Strand",
+                "hu": "Farang Strand",
+                "ro": "Plaja Farang",
+                "en": "Farang Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartezeit des Fahrers für kurze Erkundungen am Ufer und springen Sie beim nächsten Schauer schnell zurück ins trockene Tuk-Tuk.",
+                "hu": "Használja ki a sofőr várakozási idejét a part rövid felfedezésére, és a következő zápornál ugorjon vissza gyorsan a száraz tuk-tukba.",
+                "ro": "Folosiți timpul de așteptare al șoferului pentru scurte explorări pe mal și săriți repede înapoi în tuk-tuk-ul uscat la următoarea aversă.",
+                "en": "Use the driver's waiting time for quick shore explorations and jump back into the dry tuk-tuk as soon as the next shower starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Schnorchelplatz (Tigerhöhle)",
+                "hu": "Sznorkel Hely (Tigris Barlang)",
+                "ro": "Loc de Snorkeling (Peștera Tigrului)",
+                "en": "Snorkeling Spot (Tiger Cave)"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen hervorragenden natürlichen Unterstand; bewundern Sie die Felsformationen, während draußen der Regen auf das Meer prasselt.",
+                "hu": "A barlang kiváló természetes menedéket nyújt; csodálja meg a sziklaalakzatokat, miközben odakint az eső a tengerre zúdul a barlang bejárata előtt.",
+                "ro": "Peștera oferă un adăpost natural excelent; admirați formațiunile stâncoase în timp ce afară ploaia cade peste mare în fața intrării.",
+                "en": "The cave provides excellent natural shelter; admire the rock formations while the rain pours down onto the sea outside the cave entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Smaragdhalle (Emerald Cave)",
+                "hu": "Smaragd Barlang",
+                "ro": "Peștera de Smarald",
+                "en": "Emerald Cave"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre Kameraausrüstung gut gepolstert im Fahrzeug, da die Luftfeuchtigkeit in der Höhle bei Regen extrem hoch sein kann.",
+                "hu": "Tárolja kameráját jól párnázva és védve a járműben, mivel a barlang páratartalma esőben rendkívül magas lehet a belső részeken.",
+                "ro": "Depozitați echipamentul foto bine protejat în vehicul, deoarece umiditatea din peșteră poate fi extrem de ridicată pe timp de ploaie.",
+                "en": "Store your camera equipment well-padded in the vehicle, as the humidity inside the cave can be extremely high during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Morakot Strand",
+                "hu": "Morakot Strand",
+                "ro": "Plaja Morakot",
+                "en": "Morakot Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann das Wasser in der Lagune trüb sein; genießen Sie stattdessen die dramatische Akustik des Regens an den hohen Felswänden.",
+                "hu": "Heves esőben a lagúna vize zavaros lehet; élvezze inkább az eső drámai hangzását a magas sziklafalak között a belső udvarban.",
+                "ro": "În caz de ploaie torențială, apa lagunei poate fi tulbure; savurați mai degrabă sunetul dramatic al ploii printre pereții înalți de stâncă.",
+                "en": "During heavy rain, the lagoon water may be murky; instead, enjoy the dramatic acoustics of the rain echoing against the tall rock walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabai Strand",
+                "hu": "Sabai Strand",
+                "ro": "Plaja Sabai",
+                "en": "Plaja Sabai"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrt kurz, wenn der Wind auffrischt; der Rückweg führt durch Waldstücke, in denen bei Sturm Äste auf den Weg fallen könnten.",
+                "hu": "Tartsa rövidre a látogatást, ha feltámad a szél; a visszautat erdős részek keresztezik, ahol viharban ágak hullhatnak az utakra.",
+                "ro": "Scurtați vizita dacă vântul se intensifică; drumul trece prin pădure, unde crengile pot cădea pe carosabil în timpul furtunii.",
+                "en": "Keep the visit short if the wind picks up; the return path goes through forest areas where branches might fall on the road during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Schnorchelplatz",
+                "hu": "Sznorkel Hely",
+                "ro": "Loc de Snorkeling",
+                "en": "Snorkeling Spot"
+              },
+              "tip_5lang": {
+                "de": "Wenn das Wetter umschlägt, ist das Tuk-Tuk Ihr schnellster Fluchtweg zurück in die Zivilisation und ein trockener Ort zum Umziehen.",
+                "hu": "Ha az időjárás rosszabbra fordul, a tuk-tuk a leggyorsabb menekülési útvonal a civilizációba, és egy száraz hely az átöltözéshez.",
+                "ro": "Dacă vremea se înrăutățește, tuk-tuk-ul este cea mai rapidă cale de retragere spre civilizație și un loc uscat pentru a vă schimba.",
+                "en": "If the weather turns worse, the tuk-tuk is your fastest escape route back to civilization and a dry place to change your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Höhle",
+                "hu": "Nagy Barlang",
+                "ro": "Peștera Mare",
+                "en": "Big Cave"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Abschluss für einen Regentag; die Höhle bleibt im Inneren trocken und bietet beeindruckende Fotomotive ohne Blitzlicht.",
+                "hu": "Ez a tökéletes zárás egy esős napra; a barlang belseje száraz marad, és lenyűgöző fotótémákat kínál vaku használata nélkül is.",
+                "ro": "Acesta este finalul perfect pentru o zi ploioasă; interiorul peșterii rămâne uscat și oferă subiecte foto uimitoare fără a folosi blițul.",
+                "en": "This is the perfect end to a rainy day; the cave interior stays dry and offers impressive photo subjects without needing a flash."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir die Inselrundfahrt im kühlen Fahrtwind des Tuk-Tuks. Mittags lassen wir uns zu den schattigsten Plätzen bringen, während die Sonne am wolkenlosen Winterhimmel brennt. Nachmittags besuchen wir die entlegenen Strände im Westen, die jetzt am einfachsten zu erreichen sind. Abends genießen wir den frühen Sonnenuntergang am Strand, bevor der Fahrer uns in der kühlen Dämmerung zurückbringt.",
+            "hu": "Reggel a tuk-tuk hűsítő menetszelében indulunk el a szigeti körútra. Délben a legárnyékosabb helyekre vitetjük magunkat, miközben a nap a felhőtlen téli égen éget. Délután a nyugati oldal távoli strandjait látogatjuk meg, amelyek ilyenkor érhetők el a legkönnyebben. Este élvezzük a korai naplementét a parton, mielőtt a sofőr a hűvös alkonyatban visszavisz minket.",
+            "ro": "Dimineața începem turul insulei în briza răcoroasă a tuk-tuk-ului. La prânz cerem să fim duși în cele mai umbroase locuri în timp ce soarele arde pe cerul senin. După-amiaza vizităm plajele îndepărtate din vest, care sunt cel mai ușor de accesat acum. Seara admirăm apusul timpuriu pe plajă înainte ca șoferul să ne ducă înapoi prin amurgul răcoros.",
+            "en": "In the morning, we start our island tour in the cooling breeze of the tuk-tuk. At noon, we head to the shadiest spots while the sun burns in the cloudless winter sky. In the afternoon, we visit the remote western beaches, which are easiest to reach during this season. In the evening, we enjoy the early sunset on the beach before the driver takes us back in the cool dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Koh Mook Sivalai Beach Resort",
+                "hu": "Koh Mook Sivalai Beach Resort",
+                "ro": "Koh Mook Sivalai Beach Resort",
+                "en": "Koh Mook Sivalai Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Vereinbaren Sie eine feste Abholzeit für den Abend, da Tuk-Tuks nach Sonnenuntergang im Winter auf der Insel schnell ausgebucht sind.",
+                "hu": "Beszéljen meg fix visszaindulási időpontot estére, mivel naplemente után a szigeten télen a tuk-tukok gyorsan elfogynak a nagy forgalom miatt.",
+                "ro": "Stabiliți o oră fixă de preluare pentru seară, deoarece după apus tuk-tuk-urile de pe insulă sunt rapid rezervate în sezonul de iarnă.",
+                "en": "Arrange a fixed pickup time for the evening, as tuk-tuks on the island get booked up quickly after sunset during the busy winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phang Ka Strand",
+                "hu": "Ao Phang Ka Strand",
+                "ro": "Plaja Ao Phang Ka",
+                "en": "Ao Phang Ka Beach"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige See im Winter macht die Anfahrt per Boot von hier aus sehr angenehm; fragen Sie Ihren Fahrer nach lokalen Bootstransfers.",
+                "hu": "A téli nyugodt tenger nagyon kellemessé teszi az innen induló hajóutakat; kérdezze meg sofőrjét a helyi csónakos transzferekről a strandnál.",
+                "ro": "Marea liniștită de iarnă face călătoriile cu barca de aici foarte plăcute; întrebați șoferul despre transferurile locale cu barca de pe plajă.",
+                "en": "The calm winter sea makes boat trips from here very pleasant; ask your driver about local boat transfers available at the beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Farang Strand",
+                "hu": "Farang Strand",
+                "ro": "Plaja Farang",
+                "en": "Farang Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz mit westlicher Ausrichtung; im Winter sind die Farben des Sonnenuntergangs hier aufgrund der klaren Luft besonders intensiv.",
+                "hu": "Keressen nyugati fekvésű helyet; télen a naplemente színei itt a tiszta levegő miatt különösen intenzívek és látványosak a tenger felett.",
+                "ro": "Căutați un loc cu expunere spre vest; iarna culorile apusului sunt aici deosebit de intense și spectaculoase datorită aerului curat.",
+                "en": "Find a west-facing spot; in winter, the colors of the sunset here are especially intense and spectacular due to the very clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Schnorchelplatz (Tigerhöhle)",
+                "hu": "Sznorkel Hely (Tigris Barlang)",
+                "ro": "Loc de Snorkeling (Peștera Tigrului)",
+                "en": "Snorkeling Spot (Tiger Cave)"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Winterwasser bietet eine Sichtweite von über 15 Metern; ideal, um die Korallen und bunten Fische in ihrer vollen Pracht zu sehen.",
+                "hu": "A kristálytiszta téli víz több mint 15 méteres látótávolságot biztosít; ideális a korallok és színes halak teljes pompájának megfigyeléséhez.",
+                "ro": "Apa cristalină de iarnă oferă o vizibilitate de peste 15 metri; ideal pentru a vedea coralii și peștii colorați în toată splendoarea lor.",
+                "en": "The crystal-clear winter water provides visibility of over 15 meters; ideal for seeing the corals and colorful fish in their full splendor."
+              }
+            },
+            {
+              "name": {
+                "de": "Smaragdhalle (Emerald Cave)",
+                "hu": "Smaragd Barlang",
+                "ro": "Peștera de Smarald",
+                "en": "Emerald Cave"
+              },
+              "tip_5lang": {
+                "de": "Da im Winter Hauptsaison ist, sollten Sie diese Attraktion so früh wie möglich anfahren, um die magische Stille der Lagune ohne Massen zu erleben.",
+                "hu": "Mivel télen főszezon van, látogassa meg ezt a helyet a lehető legkorábban, hogy tömeg nélkül élvezhesse a belső lagúna mágikus csendjét.",
+                "ro": "Fiind sezon de vârf iarna, vizitați acest loc cât mai devreme pentru a savura liniștea magică a lagunei interioare fără mulțimi de turiști.",
+                "en": "As winter is peak season, visit this attraction as early as possible to experience the magic silence of the lagoon without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Morakot Strand",
+                "hu": "Morakot Strand",
+                "ro": "Plaja Morakot",
+                "en": "Morakot Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne erreicht den Boden der Lagune im Winter nur für wenige Stunden um die Mittagszeit; planen Sie diesen Stopp genau für dieses Zeitfenster.",
+                "hu": "A nap télen csak néhány órára éri el a lagúna alját a déli órákban; tervezze ezt a megállót pontosan erre az időszakra a legjobb látványért.",
+                "ro": "Soarele ajunge la baza lagunei iarna doar pentru câteva ore la prânz; planificați acest popas exact în acest interval pentru cea mai bună vedere.",
+                "en": "The sun only reaches the bottom of the lagoon for a few hours at noon in winter; plan this stop exactly for this window for the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabai Strand",
+                "hu": "Sabai Strand",
+                "ro": "Plaja Sabai",
+                "en": "Plaja Sabai"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Transport mit dem Tuk-Tuk, um nach einem langen Tag in der Sonne Energie zu sparen, während Sie die Aussicht auf die Klippen genießen.",
+                "hu": "Használja a tuk-tukos szállítást, hogy energiát spóroljon a napon töltött hosszú idő után, miközben élvezi a mészkősziklákra nyíló kilátást.",
+                "ro": "Folosiți transportul cu tuk-tuk-ul pentru a economisi energie după o zi lungă la soare, admirând în același timp vederea spre stâncile de calcar.",
+                "en": "Use the tuk-tuk transport to save energy after a long day in the sun while enjoying the views of the limestone cliffs along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Schnorchelplatz",
+                "hu": "Sznorkel Hely",
+                "ro": "Loc de Snorkeling",
+                "en": "Snorkeling Spot"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist im Winter mit ca. 27 Grad perfekt; Sie können lange im Wasser bleiben, ohne zu frieren oder zu überhitzen.",
+                "hu": "A víz hőmérséklete télen kb. 27 fokos, ami tökéletes; hosszú ideig maradhat a vízben anélkül, hogy fázna vagy túlságosan kimelegedne.",
+                "ro": "Temperatura apei iarna este de aproximativ 27 de grade, ceea ce este perfect; puteți sta mult timp în apă fără să vă fie frig sau prea cald.",
+                "en": "The water temperature in winter is about 27 degrees, which is perfect; you can stay in the water for a long time without feeling cold or hot."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Höhle",
+                "hu": "Nagy Barlang",
+                "ro": "Peștera Mare",
+                "en": "Big Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet im Winter eine angenehme Kühle gegenüber der heißen Außentemperatur; ein idealer Ort für eine entspannte Erkundung am späten Nachmittag.",
+                "hu": "A barlang télen kellemes hűvöst nyújt a forró külső hőmérséklethez képest; ideális hely egy pihentető felfedezéshez a késő délutáni órákban.",
+                "ro": "Peștera oferă o răcoare plăcută iarna față de temperatura exterioară ridicată; un loc ideal pentru o explorare relaxantă spre sfârșitul zilei.",
+                "en": "The cave offers a pleasant coolness in winter compared to the hot outdoor temperatures; an ideal spot for a relaxed exploration in the late afternoon."
+              }
+            }
+          ]
+        }
       }
     }
   }

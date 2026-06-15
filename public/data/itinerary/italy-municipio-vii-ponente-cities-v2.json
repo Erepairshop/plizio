@@ -183,6 +183,224 @@
         "hu": "A napja Ponente szívében kezdődik, felfedezve az elmúlt idők történeteit suttogó ünnepélyes történelmi emlékműveket. Délre a színházak vibráló kulturális központjában sétál. A délután lenyűgöző tengeri kilátást hoz a fenséges domboldali teraszokról. Az utazás békés elmélkedéssel zárul a Kegyelmek Miasszonyunk kecses szentélyében.",
         "ro": "Ziua dvs. începe în inima Ponente, explorând monumente istorice solemne care șoptesc povești din trecut. Până la amiază, veți rătăci prin vibrația culturală a teatrelor. După-amiaza aduce vederi ample asupra mării de pe terasele maiestuoase de pe deal. Călătoria se încheie cu o contemplație pașnică la grațiosul Sanctuar al Maicii Domnului a Harurilor.",
         "en": "Your day begins in the heart of Ponente, exploring solemn historical monuments that whisper tales of the past. By midday, you'll wander through the cultural vibrancy of the theaters, setting a dramatic tone. Afternoon brings sweeping views of the sea from majestic hillside terraces. The journey ends in peaceful contemplation at the graceful Sanctuary of Our Lady of Graces."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die Denkmäler unter dem Schutz von Regenschirmen, während die Meeresbrise die Wellen peitscht. Mittags bieten die Theater von Voltri einen perfekten trockenen Rückzugsort voller Kultur. Am Nachmittag steigen wir zu den Aussichtspunkten auf, wo der Nebel dem Belvedere eine mystische Atmosphäre verleiht. Der Abend endet friedlich im Heiligtum, geschützt vor dem Regen.",
+            "hu": "Reggel az emlékműveket keressük fel esernyők alatt, miközben a tengeri szél korbácsolja a hullámokat. Délben Voltri színházai nyújtanak tökéletes, száraz menedéket és kulturális feltöltődést. Délután a kilátókhoz kapaszkodunk fel, ahol a köd misztikus hangulatot áraszt a Belvedere köré. Az este a szentély falai között, az esőtől védve, csendes nyugalommal zárul.",
+            "ro": "Dimineața vizităm monumentele sub protecția umbrelelor, în timp ce briza mării biciuiește valurile. La prânz, teatrele din Voltri oferă un refugiu uscat perfect și o experiență culturală bogată. După-amiaza urcăm spre punctele de belvedere, unde ceața oferă o atmosferă mistică în jurul Belvedere. Seara se încheie liniștit în sanctuar, la adăpost de ploaia de afară.",
+            "en": "In the morning, we visit the monuments under umbrellas while the sea breeze whips the waves. At noon, Voltri's theaters provide a perfect dry retreat and rich cultural experience. In the afternoon, we climb to the viewpoints, where the mist creates a mystical atmosphere around Belvedere. The evening ends peacefully inside the sanctuary, well-sheltered from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Giovanni Lerda",
+                "hu": "Giovanni Lerda-emlékmű",
+                "ro": "Monumentul lui Giovanni Lerda",
+                "en": "Monument to Giovanni Lerda"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal schnell zwischen den Regengüssen und achten Sie auf den starken Wind vom Meer her; festes Schuhwerk ist hier unerlässlich.",
+                "hu": "Csodálja meg az emlékművet két zápor között, de ügyeljen a tenger felől érkező erős szélre; a vízálló és csúszásmentes lábbeli itt elengedhetetlen.",
+                "ro": "Admirați monumentul rapid între reprizele de ploaie și aveți grijă la vântul puternic dinspre mare; încălțămintea impermeabilă este esențială aici.",
+                "en": "Admire the monument quickly between showers and watch out for strong winds from the sea; waterproof and non-slip footwear is essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Gefallenendenkmal 1915-18",
+                "hu": "1915-18-as háborús emlékmű",
+                "ro": "Monumentul Eroilor 1915-18",
+                "en": "Monument to the Fallen 1915-18"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, respektvoller Stopp am Denkmal ist auch bei Regen möglich, suchen Sie danach schnell Schutz unter den nahen Arkaden der Stadt.",
+                "hu": "Egy rövid, tiszteletteljes megálló az emlékműnél esőben is lehetséges, utána keressen gyorsan menedéket a közeli városi árkádok alatt.",
+                "ro": "O scurtă oprire respectuoasă la monument este posibilă și pe ploaie, după care căutați rapid adăpost sub arcadele din apropierea orașului.",
+                "en": "A brief, respectful stop at the monument is possible even in rain, then quickly seek shelter under the nearby city arcades."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Ponente",
+                "hu": "Teatro del Ponente",
+                "ro": "Teatro del Ponente",
+                "en": "Teatro del Ponente"
+              },
+              "tip_5lang": {
+                "de": "Dieses Theater ist der ideale Ort, um dem Regen zu entfliehen und die lokale Kulturszene in einer warmen, trockenen Umgebung zu genießen.",
+                "hu": "Ez a színház ideális hely az eső elöli menekülésre, ahol meleg és száraz környezetben élvezheti a helyi kulturális életet.",
+                "ro": "Acest teatru este locul ideal pentru a scăpa de ploaie și pentru a vă bucura de scena culturală locală într-un mediu cald și uscat.",
+                "en": "This theater is the ideal place to escape the rain and enjoy the local cultural scene in a warm, dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Theater der Villa Duchessa di Galliera",
+                "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+                "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+                "en": "Historic Theater of Villa Duchessa di Galliera"
+              },
+              "tip_5lang": {
+                "de": "Das prächtige Innere lässt Sie das schlechte Wetter vergessen; nutzen Sie die Zeit für eine ausführliche Besichtigung der historischen Details.",
+                "hu": "A pompás belső tér feledteti Önnel a rossz időt; használja ki az időt a történelmi részletek alapos és nyugodt megtekintésére.",
+                "ro": "Interiorul splendid vă va face să uitați de vremea rea; profitați de timp pentru o vizită detaliată a elementelor istorice.",
+                "en": "The magnificent interior will make you forget the bad weather; use the time for a detailed and relaxed tour of the historic details."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasse der Burg von Belvedere",
+                "hu": "Belvedere Kastély Terasza",
+                "ro": "Terasa Castelului Belvedere",
+                "en": "Terrace of Belvedere Castle"
+              },
+              "tip_5lang": {
+                "de": "Auch bei Regen ist der Blick auf das graue Meer faszinierend, aber achten Sie auf den extrem rutschigen Boden auf der Terrasse.",
+                "hu": "Esőben is lenyűgöző a kilátás a szürke tengerre, de vigyázzon a teraszon lévő rendkívül csúszós kőburkolatra és lépcsőkre.",
+                "ro": "Chiar și pe ploaie, vederea spre marea gri este fascinantă, dar aveți grijă la pavajul extrem de alunecos de pe terasă.",
+                "en": "Even in the rain, the view of the gray sea is fascinating, but be careful of the extremely slippery stone pavement on the terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Porta dei Givi",
+                "hu": "Belvedere Porta dei Givi",
+                "ro": "Belvedere Porta dei Givi",
+                "en": "Belvedere Porta dei Givi"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel kann die Sicht einschränken, verleiht dem alten Tor aber einen dramatischen Look; halten Sie Ihren Schirm wegen der Böen fest.",
+                "hu": "A köd korlátozhatja a kilátást, de drámai megjelenést kölcsönöz a régi kapunak; a széllökések miatt szorosan fogja az esernyőjét.",
+                "ro": "Ceața poate limita vizibilitatea, dar oferă o notă dramatică vechii porți; țineți bine umbrela din cauza rafalelor de vânt.",
+                "en": "The mist may limit the view but gives a dramatic look to the old gate; hold your umbrella tightly due to the wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Gnaden",
+                "hu": "Kegyelmek Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului a Harurilor",
+                "en": "Sanctuary of Our Lady of Graces"
+              },
+              "tip_5lang": {
+                "de": "Das Heiligtum bietet eine wunderbare Stille und Schutz vor dem Wetter; perfekt, um den Tag trocken und besinnlich ausklingen zu lassen.",
+                "hu": "A szentély csodálatos csendet és védelmet nyújt az időjárás elől; tökéletes hely a nap száraz és meghitt befejezéséhez.",
+                "ro": "Sanctuarul oferă o liniște minunată și protecție împotriva intemperiilor; locul perfect pentru a încheia ziua într-un mod uscat și meditativ.",
+                "en": "The sanctuary offers wonderful silence and protection from the weather; the perfect place to end the day in a dry and contemplative way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Meer ist frisch und klar, ideal für einen zügigen Spaziergang zu den Denkmälern. Mittags wärmen wir uns in den historischen Theatern auf, wo die prachtvolle Atmosphäre die Kälte vergessen lässt. Vor dem frühen Sonnenuntergang genießen wir die scharfe Fernsicht vom Belvedere. Gegen 17:00 Uhr suchen wir das Heiligtum auf, wenn die Dämmerung einsetzt.",
+            "hu": "A téli reggel a tengerparton friss és tiszta, ideális egy tempós sétához az emlékművekig. Délben a történelmi színházakban melegedünk fel, ahol a pompás hangulat feledteti a kinti hideget. A korai naplemente előtt élvezzük az éles távoli kilátást a Belvederéről. 17:00 körül keressük fel a szentélyt, éppen akkor, amikor leszáll az alkony.",
+            "ro": "Dimineața de iarnă la malul mării este proaspătă și senină, ideală pentru o plimbare vioaie până la monumente. La prânz ne încălzim în teatrele istorice, unde atmosfera splendidă ne face să uităm de frig. Înainte de apusul timpuriu, ne bucurăm de vizibilitatea clară de la Belvedere. În jurul orei 17:00 vizităm sanctuarul, exact când se lasă amurgul.",
+            "en": "The winter morning by the sea is fresh and clear, ideal for a brisk walk to the monuments. At noon, we warm up in the historic theaters, where the grand atmosphere makes us forget the cold. Before the early sunset, we enjoy the sharp distant views from Belvedere. Around 17:00, we visit the sanctuary just as dusk begins to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Giovanni Lerda",
+                "hu": "Giovanni Lerda-emlékmű",
+                "ro": "Monumentul lui Giovanni Lerda",
+                "en": "Monument to Giovanni Lerda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Meer, aber tragen Sie eine windfeste Jacke, da die Brise im Dezember sehr beißend sein kann.",
+                "hu": "Élvezze a tiszta téli levegőt a tengerparton, de viseljen szélálló kabátot, mivel a szellő decemberben igen metsző lehet.",
+                "ro": "Bucurați-vă de aerul curat de iarnă de la malul mării, dar purtați o jachetă rezistentă la vânt, deoarece briza poate fi tăioasă în decembrie.",
+                "en": "Enjoy the clear winter air by the sea, but wear a windproof jacket as the breeze can be quite biting in December."
+              }
+            },
+            {
+              "name": {
+                "de": "Gefallenendenkmal 1915-18",
+                "hu": "1915-18-as háborús emlékmű",
+                "ro": "Monumentul Eroilor 1915-18",
+                "en": "Monument to the Fallen 1915-18"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet das Denkmal oft sehr schön für Fotos; achten Sie auf die kurzen Tageslichtstunden bei Ihrer Planung.",
+                "hu": "A téli nap gyakran szépen megvilágítja az emlékművet a fotózáshoz; a tervezésnél ügyeljen a rövid nappali órákra.",
+                "ro": "Soarele de iarnă luminează adesea frumos monumentul pentru fotografii; aveți grijă la orele scurte de lumină naturală în planificarea vizitei.",
+                "en": "The winter sun often illuminates the monument beautifully for photos; keep the short daylight hours in mind for your planning."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Ponente",
+                "hu": "Teatro del Ponente",
+                "ro": "Teatro del Ponente",
+                "en": "Teatro del Ponente"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren bietet eine angenehme Pause von der Kälte; prüfen Sie das Winterprogramm für gemütliche Abendvorstellungen.",
+                "hu": "A belső látogatás kellemes szünetet nyújt a hideg elől; nézze meg a téli programot a hangulatos esti előadásokhoz.",
+                "ro": "O vizită în interior oferă o pauză plăcută de la frig; verificați programul de iarnă pentru spectacole de seară primitoare.",
+                "en": "A visit inside offers a pleasant break from the cold; check the winter program for cozy evening performances."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Theater der Villa Duchessa di Galliera",
+                "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+                "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+                "en": "Historic Theater of Villa Duchessa di Galliera"
+              },
+              "tip_5lang": {
+                "de": "Die Beheizung macht diesen Ort zum perfekten Winterziel; bewundern Sie den Stuck in aller Ruhe, ohne zu frieren.",
+                "hu": "A fűtés tökéletes téli célponttá teszi ezt a helyet; csodálja meg a stukkókat nyugodtan, anélkül, hogy fázna.",
+                "ro": "Sistemul de încălzire face din acest loc o destinație perfectă de iarnă; admirați stucaturile în liniște, fără a tremura de frig.",
+                "en": "The heating makes this place a perfect winter destination; admire the stuccos at your leisure without feeling cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasse der Burg von Belvedere",
+                "hu": "Belvedere Kastély Terasza",
+                "ro": "Terasa Castelului Belvedere",
+                "en": "Terrace of Belvedere Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Winterfernsicht ist oft spektakulär und reicht bis zum Horizont; kommen Sie kurz vor 16:30 Uhr für das beste Licht.",
+                "hu": "A téli távoli kilátás gyakran látványos, egészen a horizontig ellátni; jöjjön 16:30 előtt a legszebb fényekért.",
+                "ro": "Vizibilitatea la distanță iarna este adesea spectaculoasă, până la orizont; veniți înainte de ora 16:30 pentru cea mai bună lumină.",
+                "en": "The winter long-distance view is often spectacular, reaching the horizon; arrive before 16:30 for the best lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Porta dei Givi",
+                "hu": "Belvedere Porta dei Givi",
+                "ro": "Belvedere Porta dei Givi",
+                "en": "Belvedere Porta dei Givi"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Wind weht hier oben stärker, tragen Sie Handschuhe und eine Mütze, während Sie die frostige Landschaft betrachten.",
+                "hu": "Itt fent erősebben fúj a hideg szél, viseljen kesztyűt és sapkát, miközben a deres tájat kémleli.",
+                "ro": "Vântul rece suflă mai tare aici sus, purtați mănuși și căciulă în timp ce observați peisajul înghețat.",
+                "en": "The cold wind blows stronger up here; wear gloves and a hat while scanning the frosty landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Gnaden",
+                "hu": "Kegyelmek Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului a Harurilor",
+                "en": "Sanctuary of Our Lady of Graces"
+              },
+              "tip_5lang": {
+                "de": "In der früh einsetzenden Dunkelheit ist das beleuchtete Heiligtum besonders stimmungsvoll; ein warmer Ort für spirituelle Einkehr.",
+                "hu": "A korán leszálló sötétségben a kivilágított szentély különösen hangulatos; meleg hely a lelki elmélyüléshez.",
+                "ro": "În întunericul care se lasă devreme, sanctuarul iluminat este deosebit de atmosferic; un loc cald pentru reculegere spirituală.",
+                "en": "In the early falling darkness, the illuminated sanctuary is especially atmospheric; a warm place for spiritual reflection."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Indítsa kerékpártúráját a genovai bazsalikom édes illatával körbevéve a hatalmas parkban. Dél közeledtével siklik el a történelmi emlékművek mellett a helyi színházkultúra szívébe. A délután lélegzetelállító tengerparti panorámákkal telik a nagyszerű villákból. Az utazás méltóságteljesen ér véget a csendes parti szentélynél.",
         "ro": "Începeți turul cu bicicleta învăluit în aroma dulce a busuiocului genovez în parcul întins. Pe măsură ce se apropie amiaza, pedalați pe lângă monumente istorice către inima culturii teatrale. După-amiaza este plină de panorame marine din vile mărețe. Plimbarea se încheie cu grație la sanctuarul de coastă liniștit.",
         "en": "Kick off your cycling tour enveloped in the sweet aroma of Genoese basil in the sprawling park. As noon approaches, glide past historical monuments toward the heart of local theater culture. The afternoon is filled with breathtaking seaside panoramas from grand villas and scenic belvederes. Your ride concludes gracefully at the tranquil coastal sanctuary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour im Basilikumpark, wo die Aromen im Regen intensiver sind. Die Fahrt entlang der Küste erfordert wegen der glatten Straßen volle Konzentration. Mittags besuchen wir die Theater, um uns aufzuwärmen und die Räder sicher abzustellen. Der Aufstieg zum Belvedere ist anstrengend, aber die mystische Aussicht belohnt die Mühe trotz des Regens.",
+            "hu": "A kerékpártúrát a Bazsalikom Parkban kezdjük, ahol az illatok az esőben intenzívebbek. A part menti tekerés teljes koncentrációt igényel a csúszós utak miatt. Délben meglátogatjuk a színházakat, hogy felmelegedjünk és biztonságba helyezzük a bringákat. A Belvedere-höz vezető emelkedő izzasztó, de a misztikus kilátás kárpótol a fáradozásért.",
+            "ro": "Începem turul cu bicicleta în Parcul Busuiocului, unde aromele sunt mai intense pe ploaie. Pedalarea de-a lungul coastei necesită concentrare maximă din cauza drumurilor alunecoase. La prânz vizităm teatrele pentru a ne încălzi și a lăsa bicicletele în siguranță. Urcarea spre Belvedere este solicitantă, dar vederea mistică merită efortul, în ciuda ploii.",
+            "en": "We start the bike tour in Basil Park, where the scents are more intense in the rain. Riding along the coast requires full concentration due to slippery roads. At noon, we visit the theaters to warm up and park the bikes safely. The climb to Belvedere is demanding, but the mystical view compensates for the effort despite the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilikumpark von Pra'",
+                "hu": "Pra' Bazsalikom Parkja",
+                "ro": "Parcul Busuiocului din Pra'",
+                "en": "Basil Park of Pra'"
+              },
+              "tip_5lang": {
+                "de": "Die Gewächshäuser bieten einen trockenen Rückzugsort, während man das Wachstum der Kräuter auch bei Regenwetter beobachten kann.",
+                "hu": "Az üvegházak száraz menedéket nyújtanak, miközben esős időben is megfigyelheti a fűszernövények növekedését és érezheti illatukat.",
+                "ro": "Serele oferă un refugiu uscat, permițându-vă să observați creșterea ierburilor aromatice chiar și pe vreme ploioasă.",
+                "en": "The greenhouses offer a dry retreat, allowing you to observe the herbs' growth even in rainy weather while enjoying their scent."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Giovanni Lerda",
+                "hu": "Giovanni Lerda-emlékmű",
+                "ro": "Monumentul lui Giovanni Lerda",
+                "en": "Monument to Giovanni Lerda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad vorsichtig auf dem nassen Untergrund; ein schneller Fotostopp ist hier trotz des Regens am Meer möglich.",
+                "hu": "Parkolja le óvatosan a kerékpárt a vizes talajon; egy gyors fotómegálló itt az eső ellenére is lehetséges a tengerparton.",
+                "ro": "Parcați bicicleta cu atenție pe solul umed; o oprire rapidă pentru fotografii este posibilă aici chiar și pe ploaie.",
+                "en": "Park your bike carefully on the wet ground; a quick photo stop is possible here despite the rain by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Ponente",
+                "hu": "Teatro del Ponente",
+                "ro": "Teatro del Ponente",
+                "en": "Teatro del Ponente"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Eingang, um Ihr Fahrrad zu sichern, während Sie die trockene Kultur im Inneren genießen.",
+                "hu": "Használja a bejáratnál lévő fedett területet a kerékpár rögzítéséhez, amíg Ön bent a száraz és meleg kultúrát élvezi.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a vă asigura bicicleta, în timp ce vă bucurați de cultura din interior, la adăpost.",
+                "en": "Use the covered area at the entrance to secure your bike while you enjoy the dry and warm culture inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Theater der Villa Duchessa di Galliera",
+                "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+                "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+                "en": "Historic Theater of Villa Duchessa di Galliera"
+              },
+              "tip_5lang": {
+                "de": "Der Parkweg kann bei Regen schlammig sein, schieben Sie Ihr Rad am besten bis zum Theatergebäude, um Stürze zu vermeiden.",
+                "hu": "A parki út esőben sáros lehet, a legjobb, ha a színház épületéig tolja a kerékpárt az esések elkerülése érdekében.",
+                "ro": "Drumul prin parc poate fi noroios pe ploaie, cel mai bine este să împingeți bicicleta până la clădirea teatrului.",
+                "en": "The park path can be muddy in the rain; it's best to push your bike to the theater building to avoid falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasse der Burg von Belvedere",
+                "hu": "Belvedere Kastély Terasza",
+                "ro": "Terasa Castelului Belvedere",
+                "en": "Terrace of Belvedere Castle"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf der nassen Steinterrasse; die Aussicht auf den nebligen Hafen ist den anstrengenden Aufstieg wert.",
+                "hu": "Kerülje az erős fékezést a vizes kőteraszon; a ködös kikötőre nyíló kilátás megéri a fárasztó, vizes emelkedőt.",
+                "ro": "Evitați frânarea bruscă pe terasa de piatră umedă; vederea spre portul cețos merită urcarea obositoare pe ploaie.",
+                "en": "Avoid sharp braking on the wet stone terrace; the view of the misty harbor is worth the tiring, wet climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Porta dei Givi",
+                "hu": "Belvedere Porta dei Givi",
+                "ro": "Belvedere Porta dei Givi",
+                "en": "Belvedere Porta dei Givi"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starke Seitenwinde beim Erreichen des Tores; halten Sie den Lenker fest und genießen Sie kurz die dramatische Szenerie.",
+                "hu": "Ügyeljen az erős oldalszélre a kapuhoz érve; fogja erősen a kormányt, és élvezze rövid ideig a drámai látványt.",
+                "ro": "Aveți grijă la vântul lateral puternic când ajungeți la poartă; țineți bine ghidonul și bucurați-vă de scenariul dramatic.",
+                "en": "Watch out for strong side winds upon reaching the gate; hold the handlebars firmly and briefly enjoy the dramatic scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Gnaden",
+                "hu": "Kegyelmek Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului a Harurilor",
+                "en": "Sanctuary of Our Lady of Graces"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Kirche vor der Abfahrt; prüfen Sie Ihre Bremsen vor dem Bergabfahren auf den nassen Straßen.",
+                "hu": "Keressen menedéket a templomban az indulás előtt; a vizes utakon való lejtmenet előtt mindenképpen ellenőrizze a fékeket.",
+                "ro": "Căutați adăpost în biserică înainte de plecare; verificați frânele înainte de a coborî pe drumurile ude.",
+                "en": "Seek shelter in the church before departing; definitely check your brakes before descending on the wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet kristallklare Aussichten, erfordert aber warme Kleidung gegen den Fahrtwind. Morgens erkunden wir den Basilikumpark in der frischen Luft. Mittags sind die Theater perfekte Stopps zum Aufwärmen. Der Aufstieg zum Belvedere hält den Körper warm, und die scharfe Fernsicht im Winterlicht ist unvergleichlich, bevor die Sonne früh sinkt.",
+            "hu": "A téli bringázás kristálytiszta kilátást kínál, de meleg ruházatot igényel a menetszél ellen. Reggel a Bazsalikom Parkot fedezzük fel a friss levegőn. Délben a színházak tökéletes megállóhelyek a felmelegedéshez. A Belvedere-re való feltekerés melegen tartja a testet, a téli fényben nyíló kilátás pedig páratlan.",
+            "ro": "Un tur de iarnă cu bicicleta oferă vederi clare, dar necesită haine groase împotriva vântului. Dimineața explorăm Parcul Busuiocului în aerul proaspăt. La prânz, teatrele sunt puncte de oprire perfecte pentru încălzire. Urcarea spre Belvedere menține corpul cald, iar vizibilitatea clară în lumina iernii este inegalabilă.",
+            "en": "A winter bike tour offers crystal-clear views but requires warm clothing against the wind chill. In the morning, we explore Basil Park in the fresh air. At noon, the theaters are perfect stops for warming up. Cycling up to Belvedere keeps the body warm, and the sharp winter light offers incomparable views before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilikumpark von Pra'",
+                "hu": "Pra' Bazsalikom Parkja",
+                "ro": "Parcul Busuiocului din Pra'",
+                "en": "Basil Park of Pra'"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gewächshäuser, um sich kurz aufzuwärmen, da die Innentemperaturen für den Basilikum konstant mild gehalten werden.",
+                "hu": "Látogasson el az üvegházakba egy rövid felmelegedés erejéig, mivel a bazsalikom számára a belső hőmérsékletet állandóan enyhén tartják.",
+                "ro": "Vizitați serele pentru o scurtă încălzire, deoarece temperaturile interioare sunt menținute constant blânde pentru busuioc.",
+                "en": "Visit the greenhouses for a quick warm-up, as the indoor temperatures are kept constantly mild for the basil."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Giovanni Lerda",
+                "hu": "Giovanni Lerda-emlékmű",
+                "ro": "Monumentul lui Giovanni Lerda",
+                "en": "Monument to Giovanni Lerda"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; tragen Sie Thermohandschuhe, da der Lenker bei den winterlichen Temperaturen sehr kalt wird.",
+                "hu": "Gyors megálló egy fotóra; viseljen termokesztyűt, mivel a kormány a téli hőmérsékletben nagyon le tud hűlni.",
+                "ro": "O oprire rapidă pentru o fotografie; purtați mănuși termice, deoarece ghidonul poate deveni foarte rece la temperaturile de iarnă.",
+                "en": "A quick stop for a photo; wear thermal gloves as the handlebars can get very cold in the winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro del Ponente",
+                "hu": "Teatro del Ponente",
+                "ro": "Teatro del Ponente",
+                "en": "Teatro del Ponente"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Pause ein, um Ihre Glieder in der beheizten Umgebung des Theaters wieder aufzuwärmen.",
+                "hu": "Tervezzen ide hosszabb szünetet, hogy a színház fűtött környezetében átmelegítse végtagjait a tekerés után.",
+                "ro": "Planificați o pauză mai lungă aici pentru a vă încălzi membrele în mediul încălzit al teatrului după pedalat.",
+                "en": "Plan a longer break here to warm up your limbs in the theater's heated environment after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Theater der Villa Duchessa di Galliera",
+                "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+                "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+                "en": "Historic Theater of Villa Duchessa di Galliera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvolle Wärme im Inneren; achten Sie beim Verlassen darauf, Ihre Jacke fest zu schließen, um nicht auszukühlen.",
+                "hu": "Élvezze a benti pompás meleget; távozáskor ügyeljen rá, hogy szorosan begombolja kabátját, nehogy megfázzon az izzadtság után.",
+                "ro": "Bucurați-vă de căldura splendidă din interior; la plecare, asigurați-vă că vă închideți bine jacheta pentru a nu răci.",
+                "en": "Enjoy the magnificent warmth inside; when leaving, make sure to button your jacket tightly to avoid catching a cold after sweating."
+              }
+            },
+            {
+              "name": {
+                "de": "Terrasse der Burg von Belvedere",
+                "hu": "Belvedere Kastély Terasza",
+                "ro": "Terasa Castelului Belvedere",
+                "en": "Terrace of Belvedere Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft garantiert eine Sicht bis nach Korsika an klaren Tagen; kommen Sie vor 16:00 Uhr, um das Tageslicht zu nutzen.",
+                "hu": "A hideg levegő garantálja a kilátást tiszta napokon akár Korzikáig; érkezzen 16:00 előtt, hogy kihasználja a nappali fényt.",
+                "ro": "Aerul rece garantează o vedere până în Corsica în zilele senine; sosiți înainte de ora 16:00 pentru a profita de lumina zilei.",
+                "en": "The cold air guarantees a view as far as Corsica on clear days; arrive before 16:00 to make the most of the daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Porta dei Givi",
+                "hu": "Belvedere Porta dei Givi",
+                "ro": "Belvedere Porta dei Givi",
+                "en": "Belvedere Porta dei Givi"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Tor kann frostig sein, halten Sie den Stopp kurz und bleiben Sie in Bewegung, um die Körperwärme zu halten.",
+                "hu": "A szél a kapunál fagyos lehet, tartsa röviden a megállót és maradjon mozgásban a testhőmérséklet megőrzése érdekében.",
+                "ro": "Vântul la poartă poate fi înghețat, păstrați oprirea scurtă și rămâneți în mișcare pentru a vă menține căldura corporală.",
+                "en": "The wind at the gate can be frosty; keep the stop brief and stay moving to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Gnaden",
+                "hu": "Kegyelmek Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului a Harurilor",
+                "en": "Sanctuary of Our Lady of Graces"
+              },
+              "tip_5lang": {
+                "de": "Ein besinnlicher Abschluss des Tages im Warmen; denken Sie an reflektierende Kleidung für die Rückfahrt in der Dunkelheit.",
+                "hu": "A nap meghitt befejezése a melegben; gondoljon a fényvisszaverő ruházatra a sötétben való visszatekeréshez.",
+                "ro": "O încheiere meditativă a zilei la căldură; nu uitați de hainele reflectorizante pentru drumul de întoarcere pe întuneric.",
+                "en": "A contemplative end to the day in the warmth; remember reflective clothing for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kezdje a reggelt egy frissítő energiabombával a helyi víziközpontban, mielőtt felfedezné a híres bazsalikom örökséget. Délben elegáns kulturális birtokokon és modern mérnöki csodákon keresztül vezet az út. Délután utazzon mélyen a hátországba a szent termál szentélyek felé. A napot az ősi papírkészítés hagyományos titkainak felfedezésével zárja.",
         "ro": "Începeți dimineața cu un plus de energie la centrul acvatic local înainte de a explora moștenirea celebrului busuioc. La amiază, conduceți prin proprietăți culturale elegante și pe lângă minuni inginerești moderne. După-amiaza, călătoriți adânc în hinterland pentru sanctuare termale sacre. Terminați ziua descoperind secretele tradiționale ale fabricării antice a hârtiei.",
         "en": "Start the morning with a refreshing burst of energy at the local aquacenter before exploring the region's famous basil heritage. Midday drives you through elegant cultural estates and past awe-inspiring modern engineering marvels. In the afternoon, journey deep into the hinterland for sacred thermal sanctuaries. You finish the day uncovering the traditional secrets of ancient papermaking."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour ist ideal für Regentage. Wir beginnen im Aquacenter, wo man das Wasser genießen kann, ohne nass zu werden. Mittags bietet der Basilikumpark überdachte Einblicke, gefolgt von der Pracht des historischen Theaters. Das Gorsexio-Viadukt wirkt im Regen besonders monumental. Der Tag endet perfekt im Papiermuseum, einem erstklassigen Indoor-Ziel.",
+            "hu": "Az autós túra ideális esős napokra. Az Aquacenterben kezdünk, ahol anélkül élvezheti a vizet, hogy elázna. Délben a Bazsalikom Park nyújt fedett látnivalót, majd a történelmi színház pompája következik. A Gorsexio-viadukt esőben különösen monumentálisnak hat. A napot a Papírmúzeum zárja, amely kiváló fedett célpont.",
+            "ro": "Turul cu mașina este ideal pentru zilele ploioase. Începem la Aquacenter, unde vă puteți bucura de apă fără a vă uda. La prânz, Parcul Busuiocului oferă atracții acoperite, urmat de splendoarea teatrului istoric. Viaductul Gorsexio pare deosebit de monumental pe ploaie. Ziua se încheie la Muzeul Hârtiei, o destinație interioară excelentă.",
+            "en": "The car tour is ideal for rainy days. We start at the Aquacenter, where you can enjoy the water without getting wet. At noon, Basil Park offers covered sights, followed by the splendor of the historic theater. The Gorsexio Viaduct looks particularly monumental in the rain. The day ends at the Paper Museum, an excellent indoor destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Delfini - Aquacenter Pra'",
+                "hu": "I Delfini - Aquacenter Pra'",
+                "ro": "I Delfini - Aquacenter Pra'",
+                "en": "I Delfini - Aquacenter Pra'"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Ziel bei Regen; genießen Sie die Innenbecken und entspannen Sie sich, während es draußen stürmt.",
+                "hu": "A végső úti cél esőben; élvezze a belső medencéket és kapcsolódjon ki teljesen, miközben odakint tombol a vihar.",
+                "ro": "Destinația supremă pe timp de ploaie; bucurați-vă de piscinele interioare și relaxați-vă în timp ce afară plouă torențial.",
+                "en": "The ultimate rainy day destination; enjoy the indoor pools and fully relax while it's storming outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilikumpark von Pra'",
+                "hu": "Pra' Bazsalikom Parkja",
+                "ro": "Parcul Busuiocului din Pra'",
+                "en": "Basil Park of Pra'"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und besuchen Sie die Gewächshäuser, um den Duft des echten genuesischen Basilikums im Trockenen zu erleben.",
+                "hu": "Parkoljon közel a bejárathoz, és látogasson el az üvegházakba, hogy szárazon tapasztalja meg az igazi genovai bazsalikom illatát.",
+                "ro": "Parcați aproape de intrare și vizitați serele pentru a experimenta parfumul busuiocului genovez autentic, la adăpost de ploaie.",
+                "en": "Park close to the entrance and visit the greenhouses to experience the scent of authentic Genoese basil while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Theater der Villa Duchessa di Galliera",
+                "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+                "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+                "en": "Historic Theater of Villa Duchessa di Galliera"
+              },
+              "tip_5lang": {
+                "de": "Ein prachtvoller Zufluchtsort; nutzen Sie die Parkmöglichkeiten in der Nähe der Villa, um den Weg im Regen zu minimieren.",
+                "hu": "Pompás menedékhely; használja a villa közelében lévő parkolási lehetőségeket, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Un refugiu splendid; folosiți locurile de parcare din apropierea vilei pentru a minimiza mersul prin ploaie.",
+                "en": "A magnificent sanctuary; use the parking options near the villa to minimize walking in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt Gorsexio",
+                "hu": "Gorsexio Völgyhíd",
+                "ro": "Viaductul Gorsexio",
+                "en": "Viaducto Gorsexio"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Viadukt direkt aus dem Auto oder machen Sie einen kurzen Stopp; die Wolken verleihen der Struktur ein dramatisches Aussehen.",
+                "hu": "Tekintse meg a viaduktot közvetlenül az autóból, vagy tartson egy rövid megállót; a felhők drámai megjelenést kölcsönöznek a szerkezetnek.",
+                "ro": "Admirați viaductul direct din mașină sau faceți o scurtă oprire; norii oferă structurii un aspect dramatic.",
+                "en": "View the viaduct directly from the car or make a quick stop; the clouds give the structure a dramatic appearance."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau von Acquasanta",
+                "hu": "Acquasanta Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului din Acquasanta",
+                "en": "Sanctuary of Our Lady of Acquasanta"
+              },
+              "tip_5lang": {
+                "de": "Das Heiligtum bietet eine friedliche Atmosphäre im Trockenen; achten Sie auf die kurvigen, bei Regen rutschigen Zufahrtsstraßen.",
+                "hu": "A szentély békés hangulatot áraszt és véd az esőtől; ügyeljen a kanyargós, esőben csúszós bekötőutakra az autóval.",
+                "ro": "Sanctuarul oferă o atmosferă liniștită la adăpost; aveți grijă la drumurile de acces virajate, care sunt alunecoase pe ploaie.",
+                "en": "The sanctuary offers a peaceful atmosphere indoors; watch out for the winding access roads, which are slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermuseum",
+                "hu": "Papírmúzeum",
+                "ro": "Muzeul Hârtiei",
+                "en": "Paper Museum"
+              },
+              "tip_5lang": {
+                "de": "Das perfekte Ende eines Regentages; dieses Museum ist komplett überdacht und bietet faszinierende Einblicke in die alte Handwerkskunst.",
+                "hu": "Tökéletes befejezése egy esős napnak; ez a múzeum teljesen fedett, és lenyűgöző betekintést nyújt a régi mesterség fogásaiba.",
+                "ro": "Încheierea perfectă a unei zile ploioase; acest muzeu este complet acoperit și oferă perspective fascinante asupra vechiului meșteșug.",
+                "en": "The perfect end to a rainy day; this museum is completely indoor and offers fascinating insights into the ancient craft."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter genießen wir den Komfort des beheizten Autos zwischen den Stopps. Wir starten im Aquacenter mit warmem Badespaß. Mittags erkunden wir den Basilikumpark und das prachtvolle historische Theater. Das Gorsexio-Viadukt zeigt sich im klaren Winterlicht von seiner besten Seite. Den Tag lassen wir gemütlich im Papiermuseum ausklingen, bevor es früh dunkel wird.",
+            "hu": "Télen élvezzük a fűtött autó kényelmét a megállók között. Az Aquacenterben kezdünk egy meleg fürdőzéssel. Délben a Bazsalikom Parkot és a pompás történelmi színházat fedezzük fel. A Gorsexio-viadukt a tiszta téli fényben mutatja a legszebb arcát. A napot hangulatosan a Papírmúzeumban zárjuk, mielőtt korán besötétedne.",
+            "ro": "Iarna ne bucurăm de confortul mașinii încălzite între opriri. Începem la Aquacenter cu o baie caldă. La prânz explorăm Parcul Busuiocului și splendidul teatru istoric. Viaductul Gorsexio își arată cea mai frumoasă față în lumina clară de iarnă. Încheiem ziua plăcut la Muzeul Hârtiei, înainte de a se întuneca devreme.",
+            "en": "In winter, we enjoy the comfort of the heated car between stops. We start at the Aquacenter with a warm swim. At noon, we explore Basil Park and the magnificent historic theater. The Gorsexio Viaduct shows its best side in the clear winter light. We end the day cozily at the Paper Museum before it gets dark early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Delfini - Aquacenter Pra'",
+                "hu": "I Delfini - Aquacenter Pra'",
+                "ro": "I Delfini - Aquacenter Pra'",
+                "en": "I Delfini - Aquacenter Pra'"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den beheizten Innenbecken auf; ein idealer Start in einen kalten Wintertag am Meer.",
+                "hu": "Melegedjen fel a fűtött belső medencékben; ideális kezdés egy hideg téli napon a tengerpart közelében.",
+                "ro": "Încălziți-vă în piscinele interioare încălzite; un început ideal pentru o zi rece de iarnă la malul mării.",
+                "en": "Warm up in the heated indoor pools; an ideal start to a cold winter day near the seaside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilikumpark von Pra'",
+                "hu": "Pra' Bazsalikom Parkja",
+                "ro": "Parcul Busuiocului din Pra'",
+                "en": "Basil Park of Pra'"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen der winterlichen Kälte draußen und der Wärme in den Basilikum-Gewächshäusern ist besonders angenehm.",
+                "hu": "A kinti téli hideg és a bazsalikomos üvegházak benti melege közötti kontraszt különösen kellemes és frissítő élmény.",
+                "ro": "Contrastul dintre frigul iernii de afară și căldura din serele de busuioc este deosebit de plăcut și revigorant.",
+                "en": "The contrast between the winter cold outside and the warmth inside the basil greenhouses is particularly pleasant and refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Theater der Villa Duchessa di Galliera",
+                "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+                "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+                "en": "Historic Theater of Villa Duchessa di Galliera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvolle, beheizte Kulisse; prüfen Sie die Öffnungszeiten, da diese im Winter kürzer sein können.",
+                "hu": "Élvezze a pompás, fűtött környezetet; ellenőrizze a nyitvatartást, mivel télen rövidebb látogatási időszakok lehetnek.",
+                "ro": "Bucurați-vă de cadrul splendid și încălzit; verificați programul, deoarece iarna pot exista perioade de vizitare mai scurte.",
+                "en": "Enjoy the magnificent, heated setting; check the opening hours, as there may be shorter visiting periods in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt Gorsexio",
+                "hu": "Gorsexio Völgyhíd",
+                "ro": "Viaductul Gorsexio",
+                "en": "Gorsexio Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Fotos des Viadukts; halten Sie kurz an einem sicheren Parkplatz für den besten Ausblick.",
+                "hu": "A tiszta téli fény fantasztikus fotókat eredményez a viaduktról; álljon meg röviden egy biztonságos parkolóban a legjobb kilátásért.",
+                "ro": "Lumina clară de iarnă permite fotografii fantastice ale viaductului; opriți scurt într-o parcare sigură pentru cea mai bună vedere.",
+                "en": "The clear winter light makes for fantastic photos of the viaduct; stop briefly at a safe parking spot for the best view."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau von Acquasanta",
+                "hu": "Acquasanta Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului din Acquasanta",
+                "en": "Sanctuary of Our Lady of Acquasanta"
+              },
+              "tip_5lang": {
+                "de": "In der winterlichen Stille ist dieser Ort besonders spirituell; achten Sie auf mögliche Eisbildung auf den Bergstraßen am späten Nachmittag.",
+                "hu": "A téli csendben ez a hely különösen spirituális; ügyeljen az utakon előforduló jegesedésre a hegyi szakaszokon késő délután.",
+                "ro": "În liniștea iernii, acest loc este deosebit de spiritual; atenție la posibila formare a poleiului pe drumurile montane după-amiaza târziu.",
+                "en": "In the winter silence, this place is especially spiritual; watch out for possible icing on the mountain roads in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermuseum",
+                "hu": "Papírmúzeum",
+                "ro": "Muzeul Hârtiei",
+                "en": "Paper Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer, lehrreicher Abschluss des Tages; das Museum ist ein hervorragender Ort, um der Kälte bis zum Abend zu entfliehen.",
+                "hu": "Meleg és tanulságos befejezése a napnak; a múzeum kiváló hely, hogy estig elmeneküljön a kinti hideg elől.",
+                "ro": "O încheiere caldă și educativă a zilei; muzeul este un loc excelent pentru a scăpa de frigul de afară până seara.",
+                "en": "A warm and educational end to the day; the museum is an excellent place to escape the cold outside until the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

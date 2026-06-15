@@ -137,6 +137,168 @@
         "hu": "Kezdd a napot adrenalinnal a Tigrisparkban és az izgalmas Kígyó Show-n, élvezve a hűvösebb reggeli levegőt.\n\nDélben látogass el a nyüzsgő Pattaya Úszópiacra, és kóstolj meg egy regionális ebédet a színes fa vízi pavilonok között.\n\nDélután élvezd a helyi szórakoztató műsorokat a Majomiskolában, mielőtt egy kényelmes sétát tennél a tengerpart felé.\n\nZárd a napot a North Na Jomtien Strand puha homokján pihenve, egy frissítő itallal a kezedben figyelve a naplementét.",
         "ro": "Începeți ziua cu adrenalină la Parcul de Tigri și la palpitantul Spectacol cu Șerpi, bucurându-vă de aerul mai răcoros al dimineții.\n\nLa prânz, mergeți la aglomerata Piață Plutitoare din Pattaya pentru un prânz diversificat printre pavilioanele de lemn de pe apă.\n\nDupă-amiază, experimentați divertismentul local la Școala de Maimuțe, înainte de a face o plimbare relaxantă spre coastă.\n\nÎncheiați-vă ziua relaxându-vă pe nisipul fin de la North Na Jomtien Beach, admirând apusul cu o băutură răcoritoare în mână.",
         "en": "Start the day with adrenaline at Tiger Park and the thrilling Snake Show, enjoying the cooler morning air.\n\nHead over to the bustling Pattaya Floating Market for a diverse regional lunch amid the vibrant wooden water pavilions.\n\nExperience the local entertainment at the Monkey School before taking a leisurely walk towards the coast.\n\nConclude your day relaxing on the soft sands of North Na Jomtien Beach, watching the sunset with a refreshing drink in hand."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen trocken im Tiger Park. Mittags bietet der überdachte schwimmende Markt Schutz und warme Speisen. Nachmittags bleiben Sie bei der Affenshow unter dem Pavillondach. Der feuchte Strand am späten Nachmittag hat bei Regen eine raue Atmosphäre. Tragen Sie rutschfeste Schuhe.",
+            "hu": "Kezdje a reggelt a tigrispark fedett részein. Délben az úszópiac tetővel védett pavilonjai alatt ebédelhet. Délután a majomshow nyújt száraz menedéket a trópusi záporok elől. Késő délután az esős tengerpart drámai látványt nyújt, de mindenképp legyen kéznél az esernyő.",
+            "ro": "Începeți dimineața la adăpost în parcul de tigri. La prânz, piața plutitoare oferă pavilioane acoperite perfecte pentru o masă caldă. După-amiaza, spectacolul maimuțelor vă ține la loc uscat. Seara, o plimbare pe plaja umedă oferă o atmosferă dramatică, dar luați o pelerină.",
+            "en": "Start your morning dry at the tiger park's sheltered areas. By midday, the covered pavilions of the floating market offer refuge and warm food. In the afternoon, the monkey show keeps you out of the tropical downpours. End the day with a dramatic walk on the wet beach; keep an umbrella close."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tiger Park Pattaya",
+                "hu": "Tiger Park Pattaya",
+                "ro": "Parcul de Tigri Pattaya",
+                "en": "Tiger Park Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Großkatzen sicher im Trockenen; tragen Sie rutschfeste Schuhe, da die Wege bei Regen extrem glatt werden.",
+                "hu": "Figyelje meg a nagymacskákat a fedett részekről; viseljen csúszásmentes cipőt, mert az ösvények nagyon síkosak lesznek esőben.",
+                "ro": "Admirați felinele din zonele acoperite; purtați încălțăminte antiderapantă, deoarece aleile devin foarte alunecoase la ploaie.",
+                "en": "Observe the big cats from the sheltered areas; wear non-slip shoes as the walkways become very slippery during tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Snake Show",
+                "hu": "Pattaya Kígyó Show",
+                "ro": "Spectacolul cu Șerpi Pattaya",
+                "en": "Pattaya Snake Show"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die aufregende Show unter dem schützenden Dach; halten Sie einen Regenponcho für den Weg zwischen den Pavillons bereit.",
+                "hu": "Élvezze az izgalmas show-t a tető alatt; tartson magánál esőköpenyt, amikor a különböző pavilonok között közlekedik.",
+                "ro": "Bucurați-vă de spectacol din zona acoperită; păstrați o pelerină de ploaie la îndemână pentru deplasarea între pavilioane.",
+                "en": "Enjoy the thrilling show from the covered seating; keep a rain poncho handy for moving between the different pavilions outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+                "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+                "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+                "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Holzstege unter den traditionellen Dächern; stellen Sie sich bei starken Schauern unter die Markisen.",
+                "hu": "Fedezze fel a fapallókat a hagyományos tetők alatt; a heves záporok idején húzódjon be a ponyvák és az árusok sátrai alá.",
+                "ro": "Explorați aleile din lemn sub acoperișurile tradiționale; în timpul averselor, adăpostiți-vă sub copertine pentru a rămâne uscat.",
+                "en": "Explore the wooden walkways under traditional roofs; during heavy downpours, take shelter under the awnings to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey School/Show",
+                "hu": "Majomiskola és Show",
+                "ro": "Școala și Spectacolul Maimuțelor",
+                "en": "Monkey School/Show"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die cleveren Makaken vom überdachten Zuschauerbereich aus; warten Sie hier den starken Nachmittagsregen ab.",
+                "hu": "Nézze a makákókat a fedett nézőtérről; ez a tökéletes hely arra, hogy kivárja a heves délutáni trópusi esőzések végét.",
+                "ro": "Urmăriți macacii din zona spectatorilor acoperită; așteptați aici să treacă ploile torențiale tropicale de după-amiază.",
+                "en": "Watch the clever macaques from the sheltered spectator area; wait out the heavy afternoon tropical downpours right here."
+              }
+            },
+            {
+              "name": {
+                "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+                "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+                "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+                "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatische Stimmung eines nahenden Sturms am Strand; suchen Sie bei Regen ein gemütliches Café auf.",
+                "hu": "Élje át a viharos tengerpart drámai hangulatát; ha elered az eső, keressen egy hangulatos partmenti kávézót a közelben.",
+                "ro": "Experimentați atmosfera dramatică a unei furtuni pe plajă; dacă începe ploaia, refugiați-vă într-o cafenea confortabilă pe coastă.",
+                "en": "Experience the dramatic atmosphere of a stormy beach; if the rain starts, seek refuge in a cozy seaside cafe nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen kühlen Morgen im Tiger Park. Mittags schlendern Sie bei angenehmer Brise über den schwimmenden Markt. Der kühlere Nachmittag ist perfekt für die Affenshow und einen Strandspaziergang. Beenden Sie den Tag mit einem frühen Sonnenuntergang, aber nehmen Sie eine leichte Jacke für den Abend mit.",
+            "hu": "Élvezze a hűvös reggelt a tigrisparkban. Délben a kellemes szellőben sétálhat az úszópiacon. A hűvösebb délután tökéletes a majomshow-hoz és egy hosszú tengerparti sétához. Zárja a napot egy korai naplementével, de az esti órákra hozzon magával egy vékony pulóvert.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă în parcul de tigri. La prânz, plimbați-vă prin piața plutitoare cu o briză plăcută. După-amiaza e perfectă pentru spectacol și o plimbare pe plajă. Încheiați cu un apus timpuriu, dar luați o jachetă ușoară pentru seara rece.",
+            "en": "Enjoy a cool, pleasant morning walk to the tiger park. By midday, wander through the floating market with a comfortable breeze. The cooler afternoon is perfect for the monkey show and a long stroll along the beach. Catch an early sunset, but bring a light sweater for the breezy evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tiger Park Pattaya",
+                "hu": "Tiger Park Pattaya",
+                "ro": "Parcul de Tigri Pattaya",
+                "en": "Tiger Park Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Die Großkatzen sind in der kühleren Morgenluft oft aktiver; bringen Sie eine leichte Jacke mit, da die Brise frisch sein kann.",
+                "hu": "A nagymacskák gyakran aktívabbak a hűvösebb reggeli levegőn; hozzon egy vékony pulóvert, mert a szellő friss lehet.",
+                "ro": "Felinele sunt mai active în aerul răcoros al dimineții; aduceți o jachetă ușoară, deoarece briza poate fi destul de rece.",
+                "en": "The big cats are often more active in the cooler morning air; bring a light layer as the early breeze can be surprisingly fresh."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Snake Show",
+                "hu": "Pattaya Kígyó Show",
+                "ro": "Spectacolul cu Șerpi Pattaya",
+                "en": "Pattaya Snake Show"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Kobras ohne die drückende Mittagshitze; die kühleren Temperaturen machen das Freilufttheater angenehm.",
+                "hu": "Csodálja meg a kobrákat a tikkasztó hőség nélkül; a hűvösebb időjárás kellemessé teszi a szabadtéri amfiteátrumot.",
+                "ro": "Admirați cobrele fără căldura sufocantă a amiezii; temperaturile scăzute fac din acest amfiteatru o experiență plăcută.",
+                "en": "Marvel at the cobras without the intense midday heat; the cooler temperature makes this outdoor amphitheater a pleasant viewing experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+                "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+                "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+                "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie unter der sanften Wintersonne; die geringere Luftfeuchtigkeit macht das Laufen auf den Holzstegen sehr angenehm.",
+                "hu": "Nézelődjön a kellemes téli napsütésben; az alacsonyabb páratartalom sokkal élvezetesebbé teszi a fapallókon való sétát.",
+                "ro": "Răsfoiți sub soarele blând de iarnă; umiditatea redusă face plimbarea pe cărările din lemn mult mai plăcută.",
+                "en": "Browse the colorful boats under the comfortable winter sun; the reduced humidity makes walking the wooden paths much more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey School/Show",
+                "hu": "Majomiskola és Show",
+                "ro": "Școala și Spectacolul Maimuțelor",
+                "en": "Monkey School/Show"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die interaktive Show bei angenehmem Nachmittagswetter; die kühle Luft sorgt für energiegeladene Tiere.",
+                "hu": "Élvezze az interaktív műsort a kellemes délutáni időben; a hűvös levegő miatt az állatok élénkek és tele vannak energiával.",
+                "ro": "Bucurați-vă de spectacolul interactiv în vremea plăcută de după-amiază; temperaturile reci mențin animalele pline de viață.",
+                "en": "Enjoy the interactive show in the pleasant afternoon weather; the cooler temperatures mean the animals are lively and full of energy."
+              }
+            },
+            {
+              "name": {
+                "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+                "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+                "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+                "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie ohne zu überhitzen; bleiben Sie für den frühen Sonnenuntergang gegen 17:30 Uhr, aber nehmen Sie einen Pullover mit.",
+                "hu": "Pihenjen a homokban anélkül, hogy kimelegedne; várja meg a korai, 17:30 körüli naplementét, de hozzon meleg ruhát.",
+                "ro": "Relaxați-vă pe nisip fără să vă supraîncălziți; rămâneți pentru apusul timpuriu de la 17:30, dar aduceți un pulover ușor.",
+                "en": "Relax on the sand without overheating; stay for the early sunset around 5:30 PM, but bring a light sweater for the breezy evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsd kerékpáros kalandod egy poros off-road túrával az ATV Klubban, majd látogasd meg a lenyűgöző tigriseket a közelben.\n\nTekerj el az Úszópiachoz, hogy megkóstold a finom utcai ételeket, miközben áthaladsz a bonyolult csatornahidak hálózatán.\n\nFolytasd az utat a Majomiskolába egy szórakoztató műsor erejéig, majd tekerj le a békés Észak-Na Jomtien Strand felé.\n\nZárd az aktív napot a Mimosa vibráló és színes építészetének felfedezésével, esetleg egy kabaré előadás megtekintésével.",
         "ro": "Începeți aventura pe bicicletă cu o cursă prafuită off-road la Clubul ATV, urmată de o vizită la tigrii impresionanți.\n\nPedalați spre Piața Plutitoare pentru a degusta preparate delicioase stradale în timp ce navigați printre podurile canalului.\n\nContinuați plimbarea spre Școala de Maimuțe pentru un spectacol distractiv, apoi îndreptați-vă spre liniștita plajă North Na Jomtien.\n\nÎncheiați-vă ziua activă explorând arhitectura vibrantă și plină de culoare de la Mimosa, poate prinzând faimosul lor spectacol de cabaret.",
         "en": "Kick off your biking adventure with a dusty off-road ride at the ATV Club followed by a visit to the impressive tigers.\n\nPedal to the Floating Market to sample delicious street food while navigating the intricate canal bridges.\n\nContinue your ride to the Monkey School for a fun show, then head down towards the peaceful North Na Jomtien Beach.\n\nEnd your active day exploring the vibrant and colorful architecture of Mimosa, perhaps catching their famous cabaret performance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt zum ATV-Club bedeutet extra Schlamm. Mittags bieten Tigerpark und schwimmender Markt ein trockenes Dach für eine Pause. Die Nachmittagsfahrt erfordert Vorsicht auf rutschigen Straßen. Abends in Mimosa genießen Sie die überdachten Shows, während der Regen fällt.",
+            "hu": "A vizes tekerés az ATV Klubhoz extra sarat jelent. Délben a tigrispark és az úszópiac fedett részei száraz menedéket adnak. Délután óvatosan biciklizzen a csúszós utakon a majomshow-hoz. Este a Mimosában élvezheti a fedett előadásokat az eső elől elbújva.",
+            "ro": "O plimbare umedă la clubul ATV înseamnă noroi. La prânz, parcul de tigri și piața plutitoare oferă adăpost pentru masă. Plimbarea de după-amiază necesită prudență pe drumurile alunecoase. Seara la Mimosa, savurați spectacolele acoperite departe de ploaie.",
+            "en": "A wet morning ride to the ATV club means extra mud and adventure. By noon, take shelter at the tiger park and the floating market to dry off. The afternoon ride to the monkey show requires care on slippery roads. End the day arriving at Mimosa, enjoying indoor shows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "ATV Club",
+                "hu": "ATV Klub",
+                "ro": "Clubul ATV",
+                "en": "ATV Club"
+              },
+              "tip_5lang": {
+                "de": "Schlamm macht die ATV-Strecken unglaublich spaßig; tragen Sie eine wasserdichte Jacke und Kleidung, die schmutzig werden darf.",
+                "hu": "A sár hihetetlenül szórakoztatóvá teszi a pályákat; viseljen vízálló dzsekit és olyan ruhát, amit nem sajnál összekoszolni.",
+                "ro": "Noroiul face traseele ATV incredibil de distractive; purtați o jachetă impermeabilă și haine pe care nu vă deranjează să le murdăriți.",
+                "en": "Mud makes the ATV tracks incredibly fun; wear a waterproof jacket and clothes you don't mind getting completely dirty."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiger Park Pattaya",
+                "hu": "Tiger Park Pattaya",
+                "ro": "Parcul de Tigri Pattaya",
+                "en": "Tiger Park Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad ab und trocknen Sie sich drinnen ab; die überdachten Gehege schützen Sie vor plötzlichen Regenschauern.",
+                "hu": "Zárja le a biciklit és száradjon meg odabent; a fedett kifutók megvédik a hirtelen lezúduló trópusi záporoktól.",
+                "ro": "Lăsați bicicleta și uscați-vă înăuntru; incintele acoperite vă protejează de ploile tropicale bruște.",
+                "en": "Lock your bike and dry off inside; the covered enclosures protect you from sudden tropical showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+                "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+                "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+                "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad am Eingang und laufen Sie unter den Markisen; heiße Nudelsuppen sind perfekt an einem Regentag.",
+                "hu": "Hagyja a kerékpárt a bejáratnál és sétáljon a ponyvák alatt; a forró tésztalevesek tökéletesek egy esős napon.",
+                "ro": "Lăsați bicicleta la intrare și plimbați-vă sub copertine; supele fierbinți cu tăiței sunt perfecte într-o zi ploioasă.",
+                "en": "Leave your bike at the entrance and walk under the awnings; the hot noodle soups are perfect on a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey School/Show",
+                "hu": "Majomiskola és Show",
+                "ro": "Școala și Spectacolul Maimuțelor",
+                "en": "Monkey School/Show"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen können bei Regen rutschig sein, bremsen Sie sanft; genießen Sie die Show von den trockenen, überdachten Tribünen.",
+                "hu": "Az utak csúszósak lehetnek, óvatosan fékezzen; élvezze a műsort a száraz, tetővel fedett lelátókról.",
+                "ro": "Drumurile pot fi alunecoase pe ploaie, frânați ușor; bucurați-vă de spectacol din tribunele uscate și acoperite.",
+                "en": "The roads here can be slick in the rain, so brake gently; enjoy the show from the dry, roofed grandstands."
+              }
+            },
+            {
+              "name": {
+                "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+                "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+                "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+                "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen verlassen und stimmungsvoll; schieben Sie Ihr Fahrrad besser auf dem befestigten Weg als im nassen Sand.",
+                "hu": "A part elhagyatott és hangulatos esőben; tolja a biciklijét a kikövezett úton a vizes homok helyett.",
+                "ro": "Plaja este pustie și dramatică pe ploaie; împingeți bicicleta pe aleea pavată în loc de nisipul ud.",
+                "en": "The beach is deserted and moody in the rain; push your bike along the paved path instead of the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Mimosa",
+                "hu": "Mimosa",
+                "ro": "Mimosa",
+                "en": "Mimosa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhaften Kabarett-Shows unter dem Dach; halten Sie Ihren Regenmantel für den Weg zwischen den Gebäuden bereit.",
+                "hu": "Élvezze a vibráló kabaré előadásokat a tető alatt; tartsa kéznél a biciklis esőkabátot az épületek közötti sétához.",
+                "ro": "Bucurați-vă de spectacolele vibrante de cabaret sub acoperiș; țineți pelerina la îndemână pentru mersul între clădiri.",
+                "en": "Enjoy the vibrant cabaret shows under the roof; keep your cycling raincoat handy as you walk between the colorful buildings."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Morgenfahrt zum ATV-Club ist dank kühler Brise angenehm. Mittags radeln Sie schwitzfrei zwischen Tigerpark und Markt. Nachmittags geht es vor dem frühen Sonnenuntergang sicher zum Strand. Beenden Sie den Tag im Mimosa, wo Sie abends eine leichte Jacke brauchen.",
+            "hu": "A reggeli tekerés az ATV Klubhoz kellemes szélben indul. Délben izzadtság nélkül biciklizhet a tigrispark és a piac között. Késő délután még a korai naplemente előtt érjen a partra. Zárja a napot a Mimosában, ahol az esti hűvösben jól jön egy pulóver.",
+            "ro": "Plimbarea matinală spre clubul ATV începe cu o briză răcoroasă. La prânz, pedalați fără să transpirați între parc și piață. După-amiaza, mergeți la plajă înainte de apusul timpuriu. Încheiați la Mimosa, unde aerul de seară necesită o jachetă ușoară.",
+            "en": "Start your morning ride to the ATV club with a pleasant, cool breeze. Midday cycling between the tiger park and floating market is sweat-free. Ride safely to the beach before the early sunset. End your day at Mimosa as the cool evening air sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "ATV Club",
+                "hu": "ATV Klub",
+                "ro": "Clubul ATV",
+                "en": "ATV Club"
+              },
+              "tip_5lang": {
+                "de": "Kühleres Wetter bedeutet weniger Staub und Schweiß auf den Strecken; beginnen Sie Ihre Fahrt mit einem leichten Langarmshirt.",
+                "hu": "A hűvösebb időjárás kevesebb port és izzadságot jelent a pályákon; kezdje a túrát egy vékony hosszú ujjú pólóban.",
+                "ro": "Vremea mai rece înseamnă mai puțin praf și transpirație pe trasee; începeți cursa cu o bluză ușoară cu mâneci lungi.",
+                "en": "The dry, cooler weather means less dust and sweat on the tracks; start your ride with a light long-sleeve shirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiger Park Pattaya",
+                "hu": "Tiger Park Pattaya",
+                "ro": "Parcul de Tigri Pattaya",
+                "en": "Tiger Park Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Radfahren ist hier im Winter sehr angenehm; die Großkatzen sind bei den morgendlichen Temperaturen erstaunlich aktiv.",
+                "hu": "A kerékpározás itt télen nagyon kellemes; a nagymacskák meglepően aktívak a kényelmes reggeli hőmérsékleten.",
+                "ro": "Mersul pe bicicletă aici este plăcut iarna; felinele mari sunt remarcabil de active la temperaturile confortabile de dimineață.",
+                "en": "Cycling here is pleasant in December; the big cats are remarkably active in the comfortable morning temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+                "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+                "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+                "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den Markt ohne die übliche Hitze; die Wintersonne ist sanft und macht die Bootsfahrten herrlich.",
+                "hu": "Fedezze fel a piacot a szokásos nyomasztó hőség nélkül; a téli nap lágy, így a csónakázás csodálatos élmény.",
+                "ro": "Explorați fără căldura opresivă obișnuită; soarele de iarnă este blând, făcând plimbările cu barca minunate.",
+                "en": "Explore without the usual oppressive heat; the winter sun is gentle, making the open-air boat rides lovely."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey School/Show",
+                "hu": "Majomiskola és Show",
+                "ro": "Școala și Spectacolul Maimuțelor",
+                "en": "Monkey School/Show"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr komfortabler Stopp in der Nachmittagsbrise; die kühle Luft hält sowohl die Tiere als auch die Zuschauer energiegeladen.",
+                "hu": "Nagyon kényelmes megálló a délutáni szellőben; a hűvös levegő lendületben tartja mind az állatokat, mind a nézőket.",
+                "ro": "O oprire foarte confortabilă în briza de după-amiază; aerul rece menține atât animalele, cât și spectatorii plini de energie.",
+                "en": "A very comfortable stop in the afternoon breeze; the cool air keeps both the animals and the spectators energetic."
+              }
+            },
+            {
+              "name": {
+                "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+                "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+                "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+                "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise; die Sonnenuntergänge sind im Winter früher, seien Sie also bis 17 Uhr für die besten Farben dort.",
+                "hu": "Élvezze a friss tengeri szellőt; a naplementék télen korábban vannak, így érkezzen 17 órára a legszebb színekért.",
+                "ro": "Bucurați-vă de briza mării; apusurile sunt mai devreme iarna, așa că ajungeți până la 17:00 pentru cele mai bune culori.",
+                "en": "Enjoy the crisp sea breeze; sunsets are earlier in winter, so arrive by 5 PM for the best colors in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Mimosa",
+                "hu": "Mimosa",
+                "ro": "Mimosa",
+                "en": "Mimosa"
+              },
+              "tip_5lang": {
+                "de": "Das Dorf im europäischen Stil wirkt an kühlen Abenden authentisch; tragen Sie beim Freiluft-Kabarett einen Pullover.",
+                "hu": "Az európai stílusú falu nagyon autentikus a hűvös estéken; viseljen pulóvert a fantasztikus szabadtéri kabaré alatt.",
+                "ro": "Satul în stil european pare autentic în serile răcoroase; purtați un pulover în timp ce urmăriți cabaretul în aer liber.",
+                "en": "The European-style village feels authentic in the cool evening; wear a sweater while watching the fantastic outdoor cabaret."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdd a déli parton a Mimosa elbűvölő, európai stílusú falujában, mielőtt egy rövid utat tennél a csendes Dél-Na Jomtien Strandra.\n\nAutózz északra a part mentén az Észak-Na Jomtien Strandhoz, majd haladj a szárazföld belseje felé egy szórakoztató megállóért a Majomiskolában.\n\nFedezd fel a hatalmas Pattaya Úszópiacot egy kései ebéd keretében, majd nézd meg a merész kígyóbemutatókat a közelben.\n\nFejezd be a napot a Tigrispark meglátogatásával, majd zárj egy izgalmas, naplementés túrával az ATV Klubban.",
         "ro": "Începeți în sud, în fermecătorul sat în stil european Mimosa, înainte de a face o scurtă plimbare cu mașina până la plaja senină South Na Jomtien.\n\nConduceți spre nord de-a lungul coastei până la plaja North Na Jomtien, apoi mergeți spre interior pentru o oprire distractivă la Școala de Maimuțe.\n\nExplorați vasta Piață Plutitoare din Pattaya pentru un prânz târziu, apoi asistați la spectacolele îndrăznețe de la Spectacolul cu Șerpi din apropiere.\n\nTerminați-vă călătoria vizitând Parcul de Tigri și încheiați cu o plimbare palpitantă la apus de soare la Clubul ATV.",
         "en": "Begin in the south at Mimosa's charming European-style village before taking a short drive to the serene South Na Jomtien Beach.\n\nCruise north along the coast to North Na Jomtien Beach, then head inland for an entertaining stop at the Monkey School.\n\nExplore the vast Pattaya Floating Market for a late lunch, then witness the daring performances at the nearby Snake Show.\n\nFinish your road trip visiting the Tiger Park and wrapping up with a thrilling sunset ride at the ATV Club."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie trocken zum Mimosa und Strand. Mittags locken die überdachten Bereiche von Affenshow und Markt. Nachmittags sprinten Sie vom Parkplatz zu den Schlangen- und Tigershows. Die abendliche Fahrt zum ATV-Club erfordert auf nassen Straßen viel Vorsicht.",
+            "hu": "Vezessen kényelmesen a Mimosához és a partra, szárazon maradva. Délben a majomshow és az úszópiac fedett részei várják. Délután csak a parkolóból kell beszaladnia a kígyó- és tigrisparkba. Az esti vezetés az ATV Klubhoz óvatosságot igényel a vizes utakon.",
+            "ro": "Conduceți spre Mimosa și plajă, la adăpost de ploi. La prânz, școala de maimuțe și piața plutitoare oferă zone acoperite. După-amiaza, fugiți din parcare spre spectacolele de șerpi și tigri. Condusul de seară spre clubul ATV necesită prudență pe ud.",
+            "en": "Drive comfortably to Mimosa and the beach, staying dry in your car. Midday offers covered exploration at the monkey school and floating market. In the afternoon, dash from the parking lot to the snake and tiger shows. The evening drive to the ATV club requires caution."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mimosa",
+                "hu": "Mimosa",
+                "ro": "Mimosa",
+                "en": "Mimosa"
+              },
+              "tip_5lang": {
+                "de": "Haben Sie einen Regenschirm im Kofferraum für den Weg vom Parkplatz; genießen Sie die Shows im großen überdachten Theaterbereich.",
+                "hu": "Tartson esernyőt a csomagtartóban a parkolótól való sétához; élvezze a műsorokat a nagy, fedett színházi területen.",
+                "ro": "Păstrați o umbrelă în portbagaj pentru mersul din parcare; bucurați-vă de spectacole în zona mare de teatru acoperită.",
+                "en": "Keep an umbrella in the trunk for the walk from the parking lot; enjoy the shows in the large covered theater area."
+              }
+            },
+            {
+              "name": {
+                "de": "South Na Jomtien Beach",
+                "hu": "Dél-Na Jomtien Strand",
+                "ro": "Plaja de Sud Na Jomtien",
+                "en": "South Na Jomtien Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den tropischen Regensturm bequem von Ihrem Auto aus oder flüchten Sie in ein nahegelegenes Strandrestaurant.",
+                "hu": "Nézze a trópusi esővihart az autója kényelméből, vagy szaladjon be egy közeli tengerparti étterembe.",
+                "ro": "Urmăriți furtuna tropicală din confortul mașinii sau refugiați-vă într-un restaurant din apropiere de pe plajă.",
+                "en": "Watch the spectacular tropical rainstorm from the comfort of your car, or dash into a nearby beachside restaurant."
+              }
+            },
+            {
+              "name": {
+                "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+                "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+                "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+                "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+              },
+              "tip_5lang": {
+                "de": "Nasser Sand ist nicht ideal, aber eine malerische Fahrt entlang der Küstenstraße bietet stimmungsvolle Ausblicke aufs Meer.",
+                "hu": "A vizes homok nem ideális a pihenésre, de a parti úton való festői autózás drámai óceáni kilátást nyújt.",
+                "ro": "Nisipul umed nu este ideal, dar o plimbare cu mașina pe drumul de coastă oferă priveliști oceanice dramatice.",
+                "en": "The wet sand isn't ideal for lounging, but a scenic drive along the coast road offers moody, dramatic ocean views."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey School/Show",
+                "hu": "Majomiskola és Show",
+                "ro": "Școala și Spectacolul Maimuțelor",
+                "en": "Monkey School/Show"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; die Zuschauerbereiche sind komplett gegen starken Regen überdacht.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el; a nézőterek teljesen fedettek a heves esőzések ellen.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; zonele pentru spectatori sunt complet acoperite împotriva ploii torențiale.",
+                "en": "Park close to the entrance to avoid getting soaked; the spectator areas are fully roofed against the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+                "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+                "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+                "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche sind perfekt für Regentage; kaufen Sie einen günstigen Poncho vor Ort, um mehr zu erkunden.",
+                "hu": "A fedett részek tökéletesek egy esős délutánra; vegyen egy olcsó esőköpenyt egy árustól, ha tovább szeretne nézelődni.",
+                "ro": "Zonele acoperite sunt perfecte pentru o după-amiază ploioasă; cumpărați un poncho ieftin pentru a explora mai departe.",
+                "en": "The covered sections are perfect for a rainy afternoon; buy an inexpensive poncho from a vendor to explore further."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Snake Show",
+                "hu": "Pattaya Kígyó Show",
+                "ro": "Spectacolul cu Șerpi Pattaya",
+                "en": "Pattaya Snake Show"
+              },
+              "tip_5lang": {
+                "de": "Der Regen kühlt die Luft und macht das Amphitheater angenehm; achten Sie bei der Platzsuche auf rutschige Stufen.",
+                "hu": "A hirtelen eső lehűti a levegőt; az amfiteátrumban vigyázzon a csúszós lépcsőkre, miközben helyet keres.",
+                "ro": "Ploaia răcește aerul, făcând amfiteatrul confortabil; aveți grijă la treptele alunecoase când vă căutați un loc.",
+                "en": "The sudden rain cools the air, making the covered amphitheater comfortable; mind the slippery steps when finding a seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiger Park Pattaya",
+                "hu": "Tiger Park Pattaya",
+                "ro": "Parcul de Tigri Pattaya",
+                "en": "Tiger Park Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenscheiben, um den Tigern beim Spielen im Regen zuzusehen; bewahren Sie den Autoschlüssel wasserdicht auf.",
+                "hu": "Nézze a benti üvegeken keresztül, ahogy a tigrisek játszanak az esőben; tartsa az slusszkulcsot vízálló tasakban.",
+                "ro": "Folosiți geamurile interioare pentru a privi tigrii jucându-se în ploaie; păstrați cheile mașinii într-o pungă impermeabilă.",
+                "en": "Use the indoor viewing glasses to watch the tigers play in the rain; keep your car keys safe in a waterproof bag."
+              }
+            },
+            {
+              "name": {
+                "de": "ATV Club",
+                "hu": "ATV Klub",
+                "ro": "Clubul ATV",
+                "en": "ATV Club"
+              },
+              "tip_5lang": {
+                "de": "Matschige Strecken bieten ein extremes Offroad-Erlebnis; fahren Sie auf den nassen lokalen Straßen vorsichtig hierher.",
+                "hu": "A sáros pályák extrém off-road élményt nyújtanak esőben; vezessen óvatosan a vizes helyi utakon, amíg ideér.",
+                "ro": "Traseele noroioase oferă o experiență off-road extremă; conduceți cu atenție pe drumurile locale ude pentru a ajunge aici.",
+                "en": "Muddy tracks offer an extreme off-road experience in the rain; drive carefully on the wet local roads to get here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens mit offenen Fenstern zum Mimosa und genießen Sie die Brise. Mittags ist der Spaziergang auf dem Markt sehr angenehm. Die nachmittäglichen Besuche bei den Schlangen und Tigern sind erfreulich kühl. Enden Sie am ATV-Club, bevor der frühe Sonnenuntergang Frische bringt.",
+            "hu": "Induljon a Mimosához lehúzott ablakokkal, élvezve a reggeli szellőt. Délben a kellemes időben a piac bejárása igazi felüdülés. A délutáni kígyó- és tigrispark látogatás teljesen izzadtságmentes. Zárja a napot az ATV Klubnál, mielőtt a naplemente elhozza az esti hideget.",
+            "ro": "Începeți spre Mimosa cu geamurile coborâte pentru briza răcoroasă. La prânz, vremea face plimbarea prin piață o bucurie. Vizitele de după-amiază la șerpi și tigri sunt confortabile. Încheiați la clubul ATV înainte ca apusul timpuriu de iarnă să aducă un aer rece.",
+            "en": "Start your morning drive to Mimosa and the beach with the windows down, enjoying the cool breeze. The pleasant weather makes walking around the monkey school and floating market a joy. End at the ATV club before the early winter sunset brings a noticeable chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mimosa",
+                "hu": "Mimosa",
+                "ro": "Mimosa",
+                "en": "Mimosa"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft ist frisch und perfekt zum Flanieren durch die bunten Straßen; bringen Sie eine leichte Strickjacke mit.",
+                "hu": "A reggeli levegő friss és tökéletes a színes utcákon való sétához; hozzon egy vékony kardigánt, ha korán érkezik.",
+                "ro": "Aerul dimineții este proaspăt și perfect pentru plimbarea pe străzile colorate; aduceți un cardigan ușor dacă ajungeți devreme.",
+                "en": "The morning air is crisp and perfect for strolling the colorful streets; bring a light cardigan if you arrive early."
+              }
+            },
+            {
+              "name": {
+                "de": "South Na Jomtien Beach",
+                "hu": "Dél-Na Jomtien Strand",
+                "ro": "Plaja de Sud Na Jomtien",
+                "en": "South Na Jomtien Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Strandspaziergang ohne sengende Hitze; die winterliche Meeresbrise ist wunderbar erfrischend.",
+                "hu": "Élvezze a tengerparti sétát a perzselő hőség nélkül; a téli tengeri szellő csodálatosan frissítő.",
+                "ro": "Bucurați-vă de o plimbare pe plajă fără căldura arzătoare; briza mării de iarnă este minunat de răcoritoare.",
+                "en": "Enjoy a comfortable beach walk without the scorching heat; the winter sea breeze is wonderfully refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)",
+                "hu": "Észak-Na Jomtien Strand (หาดนาจอมเทียนเหนือ)",
+                "ro": "Plaja de Nord Na Jomtien (หาดนาจอมเทียนเหนือ)",
+                "en": "North Na Jomtien Beach (หาดนาจอมเทียนเหนือ)"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie die Autofenster für die Küstenfahrt; die Vormittagssonne im Winter ist warm, aber nicht überwältigend.",
+                "hu": "Húzza le az autó ablakait a parti vezetéshez; a téli délelőtti napsütés meleg, de nem elviselhetetlen.",
+                "ro": "Coborâți geamurile mașinii pentru plimbarea pe coastă; soarele de iarnă la mijlocul dimineții este cald, dar nu copleșitor.",
+                "en": "Roll your car windows down for the coastal drive; the mid-morning winter sun is warm but not overpowering."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkey School/Show",
+                "hu": "Majomiskola és Show",
+                "ro": "Școala și Spectacolul Maimuțelor",
+                "en": "Monkey School/Show"
+              },
+              "tip_5lang": {
+                "de": "Das kühle Wetter hält die Tiere aktiv; parken Sie im Schatten, damit Ihr Auto für später angenehm temperiert bleibt.",
+                "hu": "A hűvös idő aktívan tartja az állatokat; parkoljon árnyékban, hogy autója kényelmes maradjon későbbre.",
+                "ro": "Vremea rece menține animalele active; parcați la umbră pentru a vă menține mașina confortabilă pentru mai târziu.",
+                "en": "The cool weather keeps the animals active and playful; park in the shade to keep your car comfortable for later."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)",
+                "hu": "Pattaya Úszópiac (ตลาดน้ำ 4 ภาค พัทยา)",
+                "ro": "Piața Plutitoare Pattaya (ตลาดน้ำ 4 ภาค พัทยา)",
+                "en": "Pattaya Floating Market (ตลาดน้ำ 4 ภาค พัทยา)"
+              },
+              "tip_5lang": {
+                "de": "Sie können die Außenwege problemlos ohne Schwitzen erkunden; das angenehme Wetter ist ideal zum Einkaufen.",
+                "hu": "Könnyedén felfedezheti a szabadtéri sétányokat izzadás nélkül; a kellemes délutáni időjárás ideális a vásárláshoz.",
+                "ro": "Puteți explora cu ușurință aleile exterioare fără a transpira; vremea plăcută este ideală pentru cumpărături.",
+                "en": "You can easily explore the outdoor walkways without sweating; the pleasant afternoon weather is ideal for shopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Snake Show",
+                "hu": "Pattaya Kígyó Show",
+                "ro": "Spectacolul cu Șerpi Pattaya",
+                "en": "Pattaya Snake Show"
+              },
+              "tip_5lang": {
+                "de": "Die Sitzplätze im Freien sind im Dezember überraschend angenehm; genießen Sie die Show in der milden Nachmittagsluft.",
+                "hu": "A szabadtéri ülőhelyek meglepően kellemesek decemberben; élvezze az izgalmas műsort az enyhe délutáni levegőn.",
+                "ro": "Locurile în aer liber sunt surprinzător de plăcute în decembrie; bucurați-vă de spectacol în aerul blând de după-amiază.",
+                "en": "The outdoor seating is surprisingly pleasant in December; enjoy the thrilling performance in the mild afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiger Park Pattaya",
+                "hu": "Tiger Park Pattaya",
+                "ro": "Parcul de Tigri Pattaya",
+                "en": "Tiger Park Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Die Großkatzen sind in der späten Nachmittagskühle voller Energie; das Fotografieren draußen ist in dieser Jahreszeit viel angenehmer.",
+                "hu": "A nagymacskák tele vannak energiával a késő délutáni hűvösben; a kinti fotózás sokkal kényelmesebb ebben az évszakban.",
+                "ro": "Felinele mari sunt pline de energie în răcoarea după-amiezii; a face fotografii afară este mult mai confortabil în acest sezon.",
+                "en": "The big cats are energetic in the late afternoon chill; taking photos outside is much more comfortable in this season."
+              }
+            },
+            {
+              "name": {
+                "de": "ATV Club",
+                "hu": "ATV Klub",
+                "ro": "Clubul ATV",
+                "en": "ATV Club"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer Abschluss des Tages; die kühleren Abendtemperaturen bedeuten, dass Sie die staubigen Wege ohne Überhitzen genießen können.",
+                "hu": "Fantasztikus befejezése a napnak; a hűvösebb esti hőmérséklet miatt túlmelegedés nélkül élvezheti a poros utakat.",
+                "ro": "Un mod fantastic de a încheia ziua; temperaturile mai reci de seară înseamnă că vă puteți bucura de traseele prăfuite fără să vă supraîncălziți.",
+                "en": "A fantastic way to end the day; the cooler evening temperatures mean you can enjoy the dusty trails without overheating."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel egy pihentető sétával indul az arenile pescatori mentén, majd a La Perla Nera és a Schiano partjainál folytatódik a lazítás. A délben még több tengerparti élmény várja a Miami Beach pezsgő homokján. Délután maga mögött hagyja a partvonalat, hogy felfedezze a lenyűgöző Villa romana di Torvaianica történelmi romjait. Az este folyamán felidézheti az ókori emlékeket és a parti báj varázsát.",
         "ro": "Dimineața începe cu o plimbare relaxantă de-a lungul arenile pescatori, continuând cu momente de odihnă la La Perla Nera și Schiano. La prânz, soarele cald vă așteaptă pe nisipurile pline de viață de la Miami Beach. După-amiaza, lăsați coasta în urmă pentru a păși în istoria fascinantă a Vilei romane de la Torvaianica. Seara este momentul perfect pentru a reflecta asupra farmecului antic și maritim.",
         "en": "Morning starts with a relaxing stroll along the arenile pescatori, moving smoothly into coastal lounging at La Perla Nera and Schiano. Midday brings more beachside bliss as you reach the lively sands of Miami Beach under the warm sun. In the afternoon, you leave the shoreline behind to step into history at the fascinating Villa romana di Torvaianica. The evening is yours to reflect on ancient times and seaside charms."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Torvajanica bietet eine raue Küstenatmosphäre. Morgens am Strand ist ein Regenschirm Pflicht. Mittags suchen wir Schutz in gemütlichen Lokalen am Ufer. Nachmittags wirken die römischen Ruinen im Regen mystisch, doch Vorsicht auf glatten Wegen. Abends genießen wir die Lichter der Küste bei einem warmen Getränk in einer der wetterfesten Bars direkt am Meer.",
+            "hu": "Az esős Torvajanica melankolikus arcát mutatja, ahogy a tenger szürke hullámai a partot nyaldossák. Reggel a halászparton érdemes vízhatlan cipőben sétálni, délben pedig behúzódni egy fedett teraszra. Délután a római villa romjai misztikusak a ködben, de vigyázzon a csúszós kövekre. Este a parti sétány fényeit csodálhatjuk meg a szitáló esőben egy hangulatos, meleg kávézóból.",
+            "ro": "O zi ploioasă în Torvajanica dezvăluie o atmosferă de coastă dramatică. Dimineața, o umbrelă este esențială pentru plimbarea pe plajă. La prânz, ne adăpostim în localuri primitoare. După-amiaza, ruinele romane par mistice sub ploaie, dar atenție la potecile alunecoase. Seara, admirăm luminile falezei cu o băutură caldă, protejați de terasele acoperite ale cafenelelor de pe malul mării.",
+            "en": "A rainy day in Torvajanica reveals a raw and authentic coastal atmosphere. In the morning, an umbrella is essential for the beach walk. At noon, we seek shelter in cozy local spots. In the afternoon, the Roman ruins look mystical in the rain, but be careful on slippery paths. In the evening, we enjoy the coastline lights with a warm drink inside one of the weatherproof seaside bars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "arenile pescatori",
+                "hu": "arenile pescatori",
+                "ro": "arenile pescatori",
+                "en": "arenile pescatori"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Kraft des stürmischen Meeres am Sandstrand in einer Regenjacke; der Anblick der Fischerboote im Regen ist besonders dramatisch und fotogen.",
+                "hu": "Csodálja meg a viharos tenger erejét a homokos parton egy vízhatlan kabátban; az esőben a pihenő halászcsónakok látványa különösen drámai és kiváló fotótéma.",
+                "ro": "Admirați forța mării furtunoase pe plaja de nisip purtând o geacă impermeabilă; vederea bărcilor de pescuit în ploaie este deosebit de dramatică și fotogenică.",
+                "en": "Watch the power of the stormy sea on the sandy beach while wearing a waterproof jacket; the sight of fishing boats in the rain is particularly dramatic and photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "La Perla Nera",
+                "hu": "La Perla Nera",
+                "ro": "La Perla Nera",
+                "en": "La Perla Nera"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den überdachten Bereichen und genießen Sie das Rauschen der Brandung; der graue Himmel verleiht diesem Ort eine ruhige, poetische Stimmung.",
+                "hu": "Keressen menedéket a fedett részeken és élvezze a tenger morajlását az esőben; a szürke égbolt különleges, melankolikus hangulatot kölcsönöz a fürdőhelynek.",
+                "ro": "Căutați adăpost în zonele acoperite și bucurați-vă de sunetul valurilor; cerul gri oferă acestui loc o atmosferă liniștită și poetică sub stropii de ploaie.",
+                "en": "Seek shelter in the covered areas and enjoy the sound of the surf in the rain; the gray sky gives this place a calm, poetic atmosphere despite the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Schiano",
+                "hu": "Schiano",
+                "ro": "Schiano",
+                "en": "Schiano"
+              },
+              "tip_5lang": {
+                "de": "Die Promenade ist auch bei Regen begehbar, achten Sie jedoch auf Pfützen; die Aussicht auf das Meer aus einem nahen Café ist bei Regen besonders beruhigend.",
+                "hu": "A parti sétány esőben is jól járható, de ügyeljen a tócsákra; a közeli kávézók ablakából nézve a szemerkélő eső megnyugtató látványt nyújt a vízen.",
+                "ro": "Faleza este practicabilă și pe ploaie, dar aveți grijă la bălți; priveliștea mării de la fereastra unei cafenele din apropiere este relaxantă pe timp de ploaie.",
+                "en": "The promenade is walkable even in the rain, but watch out for puddles; the view of the sea from a nearby cafe window is particularly soothing during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Miami Beach",
+                "hu": "Miami Beach",
+                "ro": "Miami Beach",
+                "en": "Miami Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Terrassen, um den Regen auf das Meer prasseln zu sehen; ein warmer Snack hilft, die feuchte Meeresbrise besser zu genießen.",
+                "hu": "Használja a fedett teraszokat, hogy nézze az eső kopogását a tengeren; egy meleg snack segít, hogy a nedves tengeri szélben is jól érezze magát a parton.",
+                "ro": "Folosiți terasele acoperite pentru a privi ploaia căzând peste mare; o gustare caldă vă va ajuta să vă bucurați de briza umedă a mării în confort.",
+                "en": "Use the covered terraces to watch the rain tapping on the sea; a warm snack will help you enjoy the damp sea breeze while staying dry under the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana di Torvaianica",
+                "hu": "Villa romana di Torvaianica",
+                "ro": "Villa romana di Torvaianica",
+                "en": "Villa romana di Torvaianica"
+              },
+              "tip_5lang": {
+                "de": "Der Regen bringt die Farben der antiken Steine hervor, aber Vorsicht auf glatten Oberflächen; bringen Sie einen Regenschirm mit, da das Gelände offen ist.",
+                "hu": "Az eső kiemeli az antik kövek színét a romok között, de vigyázzon a csúszós felületekre; vigyen magával esernyőt, mert a terület nagy része nyitott.",
+                "ro": "Ploaia scoate în evidență culorile pietrelor antice, dar atenție la suprafețele alunecoase; aduceți o umbrelă, deoarece majoritatea sitului este în aer liber.",
+                "en": "The rain brings out the colors of the ancient stones among the ruins, but watch out for slippery surfaces; bring an umbrella as the site is mostly open."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Torvajanica ist ruhig und erfrischend, erfordert aber warme Kleidung gegen den Wind. Morgens genießen wir die klare Luft am einsamen Strand. Mittags wärmt uns die tiefstehende Sonne beim Spaziergang. Nachmittags besuchen wir die antike Villa, bevor es gegen 17:00 Uhr dunkel wird. Den Abend lassen wir in einer beheizten Trattoria bei lokaler Küche gemütlich ausklingen.",
+            "hu": "A téli tengerparti szél Torvajanicában metsző lehet, így réteges öltözet és sál kötelező a sétához. Reggel a kihalt strandokon a csend az úr, délben pedig a napsütés még ad némi kellemes meleget. Délután érdemes sietni a római villához, mert 17:00 után gyorsan sötétedik. Este a helyi bárok melegében zárjuk a napot, élvezve a nyugodt, turistaáradat nélküli hangulatot.",
+            "ro": "Iarna în Torvajanica este liniștită și revigorantă, dar necesită haine groase împotriva vântului. Dimineața, ne bucurăm de aerul curat de pe plaja pustie. La prânz, soarele blând oferă puțină căldură în timpul plimbării. După-amiaza vizităm vila antică înainte de apusul de la ora 17:00. Seara se încheie într-o trattoria încălzită, savurând preparate locale.",
+            "en": "Winter in Torvajanica is quiet and refreshing but requires warm layers against the coastal wind. In the morning, we enjoy the crisp air on the empty beach. At noon, the low sun provides some warmth during the walk. In the afternoon, we visit the ancient villa before the early sunset around 17:00. We end the evening in a heated trattoria, enjoying the peaceful, local atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "arenile pescatori",
+                "hu": "arenile pescatori",
+                "ro": "arenile pescatori",
+                "en": "arenile pescatori"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des winterlichen Strandes; tragen Sie eine winddichte Jacke, da die Brise vom Meer im Winter sehr schneidend und kalt sein kann.",
+                "hu": "Élvezze a téli tengerpart magányát és nyugalmát; viseljen szélálló dzsekit, mert a tenger felől érkező fuvallatok ilyenkor nagyon metszőek és hidegek lehetnek.",
+                "ro": "Bucurați-vă de singurătatea plajei de iarnă; purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi foarte tăioasă și rece în acest sezon.",
+                "en": "Enjoy the solitude of the winter beach; wear a windproof jacket, as the breeze coming from the sea can be very piercing and cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "La Perla Nera",
+                "hu": "La Perla Nera",
+                "ro": "La Perla Nera",
+                "en": "La Perla Nera"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Sicht über das Meer; wärmen Sie sich nach dem Spaziergang mit einem italienischen Espresso in einer der nahen beheizten Bars auf.",
+                "hu": "A tiszta téli levegő messzi kilátást enged a tengerre; a séta után melegedjen fel egy olasz espressóval a közeli, fűtött vendéglátóhelyek egyikében.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate vastă peste mare; încălziți-vă după plimbare cu un espresso italian într-unul dintre barurile încălzite din apropiere.",
+                "en": "The crisp winter air allows for distant views over the sea; warm up after your walk with an authentic Italian espresso in one of the nearby heated bars."
+              }
+            },
+            {
+              "name": {
+                "de": "Schiano",
+                "hu": "Schiano",
+                "ro": "Schiano",
+                "en": "Schiano"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang hier ist belebend; achten Sie auf die tiefstehende Sonne, die im Winter wunderschöne lange Schatten auf den Sand und die Promenade wirft.",
+                "hu": "A friss téli séta ezen a szakaszon élénkítő; figyelje meg a mélyen járó napot, amely télen gyönyörű hosszú árnyékokat vet a homokra és a sétányra.",
+                "ro": "O plimbare vioaie de iarnă aici este revigorantă; observați soarele jos care aruncă umbre lungi și frumoase pe nisip și pe faleză în timpul iernii.",
+                "en": "A brisk winter walk here is invigorating; notice the low sun that casts beautiful long shadows on the sand and the promenade during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Miami Beach",
+                "hu": "Miami Beach",
+                "ro": "Miami Beach",
+                "en": "Miami Beach"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dies ein Ort der absoluten Ruhe; ideal für eine kurze Meditation am Meer, sofern man mit Schal und Mütze gut gegen die Kälte geschützt ist.",
+                "hu": "Télen ez a hely az abszolút nyugalom szigete; ideális egy rövid meditációhoz a tengerparton, feltéve, ha sállal és sapkával jól védve van a hideg ellen.",
+                "ro": "Iarna, acesta este un loc de liniște absolută; ideal pentru o scurtă meditație la malul mării, cu condiția să fiți bine protejați de frig cu fular și căciulă.",
+                "en": "In winter, this place is a sanctuary of absolute peace; ideal for a short meditation by the sea, provided you are well protected from the cold with a scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana di Torvaianica",
+                "hu": "Villa romana di Torvaianica",
+                "ro": "Villa romana di Torvaianica",
+                "en": "Villa romana di Torvaianica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen am frühen Nachmittag; da es gegen 17:00 Uhr dunkel wird, ist das warme Licht kurz vor Sonnenuntergang perfekt für atmosphärische Fotos.",
+                "hu": "Látogassa meg a romokat kora délután; mivel 17:00 körül sötétedik, a naplemente előtti meleg fények tökéletesek a hangulatos fotók készítéséhez.",
+                "ro": "Vizitați ruinele la începutul după-amiezii; deoarece se întunecă în jur de ora 17:00, lumina caldă de dinaintea apusului este perfectă pentru fotografii.",
+                "en": "Visit the ruins in the early afternoon; as it gets dark around 17:00, the warm light just before sunset is perfect for capturing atmospheric photos."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a Villa romana di Torvaianica felfedezésével kezdődik, majd egy frissítő tekerés következik az arenile pescatorihoz. Dél körül eléri a L'Era dei Dinosauri parkot, amely izgalmas visszatérést kínál az őskorba. A délutánt a La Laguna dei Pirati és a Stadio dei Delfini lenyűgöző show-műsorai töltik ki. Végül a Malibu festői esti látképében gyönyörködve pihenheti ki a nap fáradalmait.",
         "ro": "Aventura pe bicicletă începe explorând Villa romana di Torvaianica, urmată de o plimbare revigorantă spre arenile pescatori. La prânz veți ajunge la incredibila L'Era dei Dinosauri, făcând un pas distractiv în preistorie. După-amiaza este plină de emoție la La Laguna dei Pirati și la spectacolele de la Stadio dei Delfini. În cele din urmă, vă puteți relaxa admirând priveliștea pitorească de seară de la Malibu.",
         "en": "Your cycling adventure begins exploring the ancient Villa romana di Torvaianica, followed by a breezy ride to the calming arenile pescatori. By midday, you'll reach the incredible L'Era dei Dinosauri, taking a fun step back into the prehistoric age. The afternoon is filled with excitement at La Laguna dei Pirati and the Stadio dei Delfini shows. Finally, you can unwind with a scenic evening view at Malibu."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Torvajanica Vorsicht und gute Ausrüstung. Morgens starten wir an der römischen Villa, achten aber auf rutschige Wege. Mittags radeln wir entlang der Küste und suchen bei Schauern unter Vordächern Schutz. Nachmittags besuchen wir die Parks, wo der Asphalt glatt sein kann. Abends wärmen wir uns nach der nassen Fahrt in einem gemütlichen Lokal auf.",
+            "hu": "Biciklizni esőben is lehet Torvajanica partján, ha van nálunk esőponcsó és vigyázunk a csúszós aszfaltra. Reggel a római villánál kezdünk, ahol a sár miatt óvatosan hajtsunk. Délben a parti szakaszon keressünk fedett biciklitárolót. Délután a látványosságok között gyorsan közlekedhetünk, este pedig keressünk egy meleg helyet a parti tekerés után.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență și echipament adecvat în Torvajanica. Dimineața începem la vila romană, dar atenție la potecile alunecoase. La prânz, pedalăm pe coastă și căutăm adăpost sub copertine. După-amiaza vizităm parcurile, unde asfaltul poate fi ud. Seara ne încălzim într-un local primitor după această plimbare umedă pe malul mării.",
+            "en": "Cycling in the rain requires caution and proper gear in Torvajanica. In the morning, we start at the Roman villa, but watch out for slippery paths. At noon, we cycle along the coast and seek shelter under awnings during showers. In the afternoon, we visit the attractions where the asphalt can be slick. In the evening, we warm up in a cozy spot after the wet seaside ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa romana di Torvaianica",
+                "hu": "Villa romana di Torvaianica",
+                "ro": "Villa romana di Torvaianica",
+                "en": "Villa romana di Torvaianica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem sicheren Ort und achten Sie beim Begehen der Ausgrabungen auf glatte Steine; ein Regenponcho ist beim Radfahren hier sehr nützlich.",
+                "hu": "Parkolja le a bringát biztonságos helyen, és ügyeljen a csúszós kövekre a romok bejárásakor; egy esőponcsó nagyon hasznos lesz a bringázáshoz ezen a terepen.",
+                "ro": "Parcați bicicleta într-un loc sigur și atenție la pietrele alunecoase când vizitați situl; o pelerină de ploaie este foarte utilă pentru pedalat pe acest traseu.",
+                "en": "Park your bike in a safe spot and watch out for slippery stones while exploring the ruins; a rain poncho is very useful for cycling through this area in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "arenile pescatori",
+                "hu": "arenile pescatori",
+                "ro": "arenile pescatori",
+                "en": "arenile pescatori"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf dem nassen Sand oder dem angrenzenden Weg vorsichtig; die Meeresgischt vermischt sich mit dem Regen und macht den Boden für Reifen rutschig.",
+                "hu": "Hajtson óvatosan a nedves homok közelében vagy a sétányon; a tengeri permet az esővel keveredve csúszóssá teheti a talajt a kerékpárgumik számára.",
+                "ro": "Pedalați cu grijă pe nisipul umed sau pe faleză; vaporii de apă sărată amestecați cu ploaia pot face solul alunecos pentru anvelopele bicicletei.",
+                "en": "Ride carefully near the wet sand or on the promenade; the sea spray mixed with rain can make the ground slippery for bicycle tires, so maintain a slow pace."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Era dei Dinosauri",
+                "hu": "L'Era dei Dinosauri",
+                "ro": "L'Era dei Dinosauri",
+                "en": "L'Era dei Dinosauri"
+              },
+              "tip_5lang": {
+                "de": "Der Parkbesuch im Regen wirkt wie eine Zeitreise in einen Urwald; achten Sie auf den Gehwegen auf Pfützen und tragen Sie beim Radfahren wasserfeste Schuhe.",
+                "hu": "A parklátogatás esőben olyan, mint egy időutazás egy őserdőbe; ügyeljen a tócsákra az utakon, és viseljen vízhatlan cipőt a kerékpározáshoz.",
+                "ro": "Vizita în parc pe ploaie pare o călătorie în timp într-o junglă; aveți grijă la bălțile de pe alei și purtați încălțăminte impermeabilă pentru pedalat.",
+                "en": "Visiting the park in the rain feels like a time travel to a jungle; watch out for puddles on the paths and wear waterproof shoes for a more comfortable ride."
+              }
+            },
+            {
+              "name": {
+                "de": "La Laguna dei Pirati",
+                "hu": "La Laguna dei Pirati",
+                "ro": "La Laguna dei Pirati",
+                "en": "La Laguna dei Pirati"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen wirkt die Lagune besonders authentisch; sichern Sie Ihr Fahrrad unter einem Dach, während Sie die Attraktionen besichtigen, um den Sattel trocken zu halten.",
+                "hu": "Esőben a laguna különösen autentikusnak hat; láncolja le a bringát egy tető alatt a látogatás idejére, hogy az ülés száraz maradjon a következő szakaszra.",
+                "ro": "Pe ploaie, laguna pare deosebit de autentică; asigurați bicicleta sub un acoperiș în timpul vizitei pentru a păstra șaua uscată pentru restul drumului.",
+                "en": "The lagoon looks particularly authentic in the rain; lock your bike under a roof during the visit to keep the seat dry for the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadio dei Delfini",
+                "hu": "Stadio dei Delfini",
+                "ro": "Stadio dei Delfini",
+                "en": "Stadio dei Delfini"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt den Reifendruck, da nasser Asphalt weniger Grip bietet; die Shows finden oft unter teilweise überdachten Tribünen statt.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást, mert a nedves aszfalton kisebb a tapadás; az előadások gyakran részben fedett lelátók alatt is élvezhetőek.",
+                "ro": "Verificați presiunea în pneuri înainte de a pleca, deoarece asfaltul umed oferă mai puțină aderență; spectacolele pot fi urmărite de pe tribune parțial acoperite.",
+                "en": "Check your tire pressure before moving on, as wet asphalt offers less grip; the shows can often be enjoyed from partially covered stands to stay drier."
+              }
+            },
+            {
+              "name": {
+                "de": "Malibu",
+                "hu": "Malibu",
+                "ro": "Malibu",
+                "en": "Malibu"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und trocknen Sie sich ab; achten Sie beim Abstellen des Rades auf festen Untergrund, da der Boden durch den Regen aufgeweicht sein kann.",
+                "hu": "Zárja itt a túrát és szárítkozzon meg; a bringa leállításakor figyeljen a szilárd talajra, mert az esőtől felázott földben könnyen eldőlhet a támasztó.",
+                "ro": "Încheiați turul aici și uscați-vă; când parcați bicicleta, căutați un sol ferm, deoarece pământul poate fi înmuiat de ploaie și suportul se poate scufunda.",
+                "en": "End your tour here and dry off; when parking your bike, look for firm ground, as the rain-soaked soil can cause the kickstand to sink and the bike to fall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radfahren in Torvajanica ist bei klarer Luft herrlich, erfordert aber Schutz gegen den kalten Wind. Morgens starten wir warm eingepackt an der antiken Villa. Mittags genießen wir die freie Fahrt auf der Küstenstraße unter der Wintersonne. Nachmittags besuchen wir die Parks, bevor es ab 17:00 Uhr kühl und dunkel wird. Abends suchen wir ein Lokal mit sicherer Fahrradabstellmöglichkeit.",
+            "hu": "A téli kerékpározáshoz Torvajanicában kesztyű és szélálló dzseki szükséges a tengeri fuvallatok miatt. Reggel a villánál a friss levegő ébresztő, délben a parton tekerve élvezhetjük a téli napfényt. Délután ügyeljünk az időre, mert 17:00-kor leszáll az éj a dínóparknál. Az estét a Malibu környékén zárjuk, ahol a kivilágított út segít a biztonságos hazaútban.",
+            "ro": "Ciclismul de iarnă în Torvajanica este plăcut în aer curat, dar necesită protecție împotriva vântului rece. Dimineața începem bine înfofoliți la vila antică. La prânz ne bucurăm de drumul liber de pe coastă sub soarele de iarnă. După-amiaza vizităm parcurile înainte de lăsarea serii și a frigului la ora 17:00. Seara căutăm un local cu parcare sigură pentru biciclete.",
+            "en": "Winter cycling in Torvajanica is wonderful in the crisp air but requires protection against the cold coastal wind. In the morning, we start warm at the ancient villa. At noon, we enjoy the open coastal road under the winter sun. In the afternoon, we visit the parks before it gets cool and dark at 17:00. In the evening, we find a spot with secure bike parking to rest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa romana di Torvaianica",
+                "hu": "Villa romana di Torvaianica",
+                "ro": "Villa romana di Torvaianica",
+                "en": "Villa romana di Torvaianica"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf; der Besuch der Ruinen zu Fuß bietet eine gute Pause vom Radfahren in der kühlen Winterluft.",
+                "hu": "Melegítse be jól az izmait indulás előtt; a romok gyalogos bejárása jóleső szünetet jelent a hideg téli levegőben való kerékpározás után.",
+                "ro": "Încălziți-vă bine mușchii înainte de plecare; vizitarea ruinelor pe jos oferă o pauză binemeritată de la pedalatul în aerul rece de iarnă.",
+                "en": "Warm up your muscles well before starting your ride; exploring the ruins on foot provides a nice break from cycling in the chilly winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "arenile pescatori",
+                "hu": "arenile pescatori",
+                "ro": "arenile pescatori",
+                "en": "arenile pescatori"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter fast leer, perfekt zum Radeln; tragen Sie jedoch unbedingt Handschuhe, da der Fahrtwind am Meer sehr kalt sein kann.",
+                "hu": "A parti út télen szinte üres, tökéletes a tekeréshez; azonban mindenképp viseljen kesztyűt, mert a menetszél a tengerparton ilyenkor nagyon fagyos.",
+                "ro": "Drumul de coastă este aproape pustiu iarna, perfect pentru pedalat; totuși, purtați mănuși, deoarece vântul în timpul mersului poate fi foarte rece la malul mării.",
+                "en": "The coastal road is almost empty in winter, making it perfect for cycling; however, be sure to wear gloves as the wind chill by the sea can be very freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Era dei Dinosauri",
+                "hu": "L'Era dei Dinosauri",
+                "ro": "L'Era dei Dinosauri",
+                "en": "L'Era dei Dinosauri"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre ohne Warteschlangen; nutzen Sie das Tageslicht für Fotos, da die Schatten im Winter bereits am frühen Nachmittag länger werden.",
+                "hu": "Élvezze a nyugodt hangulatot sorban állás nélkül; használja ki a nappali fényt a fotózáshoz, mert a téli napon már kora délután megnyúlnak az árnyékok.",
+                "ro": "Bucurați-vă de atmosfera liniștită fără cozi; profitați de lumina zilei pentru fotografii, deoarece iarna umbrele devin lungi încă de la începutul după-amiezii.",
+                "en": "Enjoy the peaceful atmosphere without the crowds; take advantage of the daylight for photos as shadows grow long early in the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "La Laguna dei Pirati",
+                "hu": "La Laguna dei Pirati",
+                "ro": "La Laguna dei Pirati",
+                "en": "La Laguna dei Pirati"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht den Parkbesuch erfrischend; achten Sie darauf, Ihr Rad so zu parken, dass es im Blickfeld bleibt, während Sie sich kurz aufwärmen.",
+                "hu": "A hűvös levegő frissítővé teszi a parklátogatást; ügyeljen rá, hogy a bringát jól látható helyen parkolja le, amíg Ön bent rövid időre felmelegszik.",
+                "ro": "Aerul răcoros face vizita în parc revigorantă; asigurați-vă că parcați bicicleta într-un loc vizibil în timp ce intrați să vă încălziți pentru scurt timp.",
+                "en": "The cool air makes the park visit refreshing; make sure to park your bike in a visible spot while you take a short break to warm up indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadio dei Delfini",
+                "hu": "Stadio dei Delfini",
+                "ro": "Stadio dei Delfini",
+                "en": "Stadio dei Delfini"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz auf der Tribüne, um die Wintersonne zu genießen; prüfen Sie vor der Rückfahrt die Beleuchtung an Ihrem Fahrrad.",
+                "hu": "Keressen egy napsütötte helyet a lelátón, hogy élvezze a téli napsugarakat; a visszaindulás előtt feltétlenül ellenőrizze a kerékpárja világítását.",
+                "ro": "Căutați un loc însorit în tribună pentru a vă bucura de razele soarelui de iarnă; verificați neapărat sistemul de iluminare al bicicletei înainte de plecare.",
+                "en": "Find a sunny spot in the stands to enjoy the winter sun; be sure to check your bicycle lights before heading back, as it gets dark very early."
+              }
+            },
+            {
+              "name": {
+                "de": "Malibu",
+                "hu": "Malibu",
+                "ro": "Malibu",
+                "en": "Malibu"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor der kalte Abendwind einsetzt; ein heißer Tee oder Punsch ist der perfekte Abschluss für diesen winterlichen Radtag am Meer.",
+                "hu": "Fejezze be a túrát, mielőtt beállna a hideg esti szél; egy forró tea vagy puncs tökéletes lezárása ennek a téli tengerparti kerékpáros napnak.",
+                "ro": "Încheiați turul înainte de lăsarea vântului rece de seară; un ceai fierbinte este finalul perfect pentru această zi de iarnă pe bicicletă la mare.",
+                "en": "Finish your tour before the cold evening wind sets in; a hot tea or punch is the perfect way to conclude this winter seaside cycling adventure."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós útját a rusztikus antico casale megtekintésével, majd vesse bele magát a családi szórakozásba a L'Era dei Dinosauri parkban. A déli izgalmak a Stadio dei Delfini és a Cancun területén folytatódnak. Délután a Playa del Mar és a Liboclà felé veszi az irányt egy kis tengerparti pihenésre. A mozgalmas napot a Villa romana di Torvaianica időtlen romjai között elmerülve zárhatja le.",
         "ro": "Începeți plimbarea admirând rusticul antico casale, înainte de a vă bucura de distracția de la L'Era dei Dinosauri. Emoția de la prânz continuă la Stadio dei Delfini și atracția Cancun. După-amiaza, conduceți spre Playa del Mar și Liboclà pentru o binemeritată relaxare pe litoral. Încheiați-vă ziua plină de evenimente cufundați în ruinele atemporale ale Vilei romane de la Torvaianica.",
         "en": "Start driving by admiring the rustic antico casale before plunging into family fun at L'Era dei Dinosauri. The midday excitement continues at the Stadio dei Delfini and the vibrant Cancun themed area. In the afternoon, cruise over to Playa del Mar and Liboclà for some much-needed shoreline relaxation. Finish your eventful daytrip immersed in the timeless ruins of the Villa romana di Torvaianica."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Torvajanica auch bei Regen komfortabel zu erkunden. Morgens besichtigen wir das historische Gehöft und parken nah am Eingang. Mittags fahren wir entlang der Küste, während der Regen gegen die Scheiben peitscht. Nachmittags besuchen wir die Shows in den Parks, die oft überdacht sind. Abends beenden wir den Tag an der antiken Villa, geschützt im warmen Fahrzeug.",
+            "hu": "Autóval az esős Torvajanica is kényelmesen felfedezhető, hiszen szárazon juthatunk el a helyszínekre. Reggel egy történelmi udvarháznál kezdünk, parkoljunk közel a bejárathoz. Délben a parton autózva nézzük a viharos tengert. Délután a parkok fedett bemutatóit élvezhetjük. Este a római villánál zárjuk a napot, mielőtt visszatérnénk a fűtött autóba.",
+            "ro": "Cu mașina, Torvajanica poate fi explorată confortabil chiar și pe ploaie. Dimineața vizităm conacul istoric, parcând aproape de intrare. La prânz, conducem de-a lungul coastei în timp ce ploaia bate în parbriz. După-amiaza urmărim spectacolele din parcuri, care sunt adesea acoperite. Seara încheiem ziua la vila antică, protejați în vehiculul primitor.",
+            "en": "By car, Torvajanica can be comfortably explored even in the rain. In the morning, we visit the historic farmhouse, parking close to the entrance. At noon, we drive along the coast while the rain beats against the windshield. In the afternoon, we watch the park shows, which are often covered. In the evening, we end the day at the ancient villa, staying dry in the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "antico casale",
+                "hu": "antico casale",
+                "ro": "antico casale",
+                "en": "antico casale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um im Schlamm nicht stecken zu bleiben; die alten Mauern des Anwesens bieten einen guten Schutz vor kurzen Regenschauern.",
+                "hu": "Parkoljon szilárd burkolaton, hogy elkerülje az elakadást a sárban; a birtok öreg falai jó menedéket nyújtanak a hirtelen jött záporok elől a látogatáskor.",
+                "ro": "Parcați pe o suprafață fermă pentru a evita blocarea în noroi; zidurile vechi ale conacului oferă un adăpost bun împotriva averselor bruște de ploaie.",
+                "en": "Park on a firm surface to avoid getting stuck in the mud; the estate's old walls provide good shelter from sudden rain showers during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Era dei Dinosauri",
+                "hu": "L'Era dei Dinosauri",
+                "ro": "L'Era dei Dinosauri",
+                "en": "L'Era dei Dinosauri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz und halten Sie einen Regenschirm für den Weg zum Eingang bereit; im Park wirken die Dinos im Regen noch lebensechter.",
+                "hu": "Használja a tágas parkolót, és készítsen elő esernyőt a bejárathoz vezető útra; a parkban a dinoszauruszok még élethűbbnek tűnnek a szitáló esőben.",
+                "ro": "Folosiți parcarea spațioasă și pregătiți o umbrelă pentru drumul spre intrare; în parc, dinozaurii par și mai realiști sub ploaia măruntă.",
+                "en": "Use the spacious parking lot and have an umbrella ready for the walk to the entrance; the dinosaurs look even more lifelike in the misty rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadio dei Delfini",
+                "hu": "Stadio dei Delfini",
+                "ro": "Stadio dei Delfini",
+                "en": "Stadio dei Delfini"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Parkplatzmarkierungen bei schlechter Sicht; die Tribünen bieten oft Schutz, sodass Sie die Delfin-Show trocken genießen können.",
+                "hu": "Ügyeljen a parkolóhelyek felfestésére a rossz látási viszonyok között; a lelátók gyakran fedettek, így szárazon élvezheti a delfinshow látványos műsorát.",
+                "ro": "Atenție la marcajele locurilor de parcare în condiții de vizibilitate redusă; tribunele sunt adesea acoperite, astfel puteți vedea spectacolul delfinilor fără a vă uda.",
+                "en": "Pay attention to parking space markings in low visibility; the stands are often covered, so you can enjoy the dolphin show comfortably without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cancun",
+                "hu": "Cancun",
+                "ro": "Cancun",
+                "en": "Cancun"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der ufernahen Straße, da Gischt die Sicht trüben kann; genießen Sie den Blick auf das regnerische Meer direkt aus dem warmen Auto.",
+                "hu": "Hajtson óvatosan a parti úton, mert a felcsapó víz ronthatja a látást; élvezze az esős tenger látványát közvetlenül a fűtött és száraz autóból.",
+                "ro": "Conduceți cu atenție pe drumul de coastă, deoarece apa pulverizată poate reduce vizibilitatea; admirați marea pe ploaie direct din mașina caldă.",
+                "en": "Drive carefully on the coastal road as spray can impair visibility; enjoy the view of the rainy sea directly from the warmth and comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Mar",
+                "hu": "Playa del Mar",
+                "ro": "Playa del Mar",
+                "en": "Playa del Mar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Ziel, um den Regenweg kurz zu halten; die Atmosphäre am grauen Strand ist perfekt für melancholische Küstenfotos.",
+                "hu": "Parkoljon a lehető legközelebb az úticélhoz, hogy lerövidítse az esőben megtett utat; a szürke strand hangulata tökéletes melankolikus parti fotókhoz.",
+                "ro": "Parcați cât mai aproape de destinație pentru a scurta drumul prin ploaie; atmosfera plajei gri este perfectă pentru fotografii de coastă melancolice.",
+                "en": "Park as close to your destination as possible to minimize walking in the rain; the gray beach atmosphere is ideal for taking moody coastal photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Liboclà",
+                "hu": "Liboclà",
+                "ro": "Liboclà",
+                "en": "Liboclà"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand; ein kurzer Sprint zum Eingang rettet Ihre Kleidung vor der feuchten Meeresbrise.",
+                "hu": "Kiszálláskor ügyeljen az útmenti mély tócsákra; egy rövid sprint a bejáratig megmenti az öltözetét a nedves tengeri széltől és a záportól.",
+                "ro": "Aveți grijă la bălțile adânci de la marginea drumului când coborâți din mașină; un scurt sprint spre intrare vă va proteja hainele de ploaie și vânt.",
+                "en": "Watch out for deep puddles at the roadside when getting out of the car; a quick dash to the entrance will save your clothes from the rain and sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana di Torvaianica",
+                "hu": "Villa romana di Torvaianica",
+                "ro": "Villa romana di Torvaianica",
+                "en": "Villa romana di Torvaianica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem offiziellen Parkplatz und nutzen Sie die Scheinwerfer, falls es stark regnet; die Ruinen wirken im Regen besonders antik und geheimnisvoll.",
+                "hu": "Parkoljon a hivatalos parkolóban, és használja a fényszórókat erős esőben; a romok a szürkületi esőben különösen antiknak és titokzatosnak hatnak.",
+                "ro": "Parcați în parcarea oficială și folosiți farurile dacă plouă torențial; ruinele par deosebit de antice și misterioase sub ploaia de seară.",
+                "en": "Park in the official lot and keep your headlights on if it's raining heavily; the ruins look particularly ancient and mysterious in the evening rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Torvajanica bietet Komfort und weite Ausblicke. Morgens starten wir warm im Auto beim historischen Anwesen. Mittags genießen wir die leere Küstenstraße und den freien Blick auf das weite Meer. Nachmittags besuchen wir die Attraktionen, achten aber auf das frühe Dunkelwerden um 17:00 Uhr. Den Abend lassen wir in einer beheizten Trattoria gemütlich ausklingen.",
+            "hu": "Autóval a téli Torvajanica minden pontja kényelmesen elérhető, a fűtés pedig véd a parti széltől. Reggel a történelmi udvarháznál kezdünk. Délben élvezhetjük a forgalommentes tengerparti utat és a tiszta kilátást. Délután figyeljünk rá, hogy 17:00-kor sötétedik a dínóparknál. Az estét a római villánál zárjuk, majd egy meleg étteremben vacsorázunk.",
+            "ro": "O tură cu mașina prin Torvajanica pe timp de iarnă oferă confort și priveliști vaste. Dimineața începem la conacul istoric, cu încălzirea pornită. La prânz ne bucurăm de drumul de coastă liber și de vederea spre marea liniștită. După-amiaza vizităm atracțiile, dar atenție la întunericul care se lasă la ora 17:00. Seara se încheie într-o trattoria primitoare.",
+            "en": "A winter car tour through Torvajanica provides comfort and wide-open views. In the morning, we start warm in the car at the historic estate. At noon, we enjoy the empty coastal road and the clear view of the peaceful sea. In the afternoon, we visit the attractions, keeping in mind the early sunset at 17:00. We end the evening in a heated trattoria for a local dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "antico casale",
+                "hu": "antico casale",
+                "ro": "antico casale",
+                "en": "antico casale"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps, um nicht auszukühlen; die tiefstehende Wintersonne beleuchtet das Gehöft am Morgen wunderschön.",
+                "hu": "Használja az autó fűtését a megállók között, hogy ne hűljön ki; a reggeli mélyen járó téli nap gyönyörűen világítja meg az udvarház öreg falait.",
+                "ro": "Folosiți încălzirea mașinii între opriri pentru a nu vă răci; soarele jos de iarnă luminează superb zidurile vechi ale conacului în cursul dimineții.",
+                "en": "Keep the car heater on between stops to stay warm; the low winter sun illuminates the old walls of the farmhouse beautifully in the morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Era dei Dinosauri",
+                "hu": "L'Era dei Dinosauri",
+                "ro": "L'Era dei Dinosauri",
+                "en": "L'Era dei Dinosauri"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den sonnigsten Plätzen, um das Auto aufzuwärmen; im Winter ist der Park fast leer, was Ihnen ungestörte Fotos ohne andere Touristen ermöglicht.",
+                "hu": "Parkoljon a legnaposabb helyekre, hogy az autó felmelegedjen; télen a park szinte üres, ami lehetővé teszi a zavartalan fotózást a dínók között.",
+                "ro": "Parcați în cele mai însorite locuri pentru a lăsa mașina să se încălzească; iarna parcul este aproape pustiu, permițându-vă să faceți fotografii neîntrerupte.",
+                "en": "Park in the sunniest spots to let the car warm up; in winter, the park is nearly empty, allowing for uninterrupted photos of the dinosaurs without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadio dei Delfini",
+                "hu": "Stadio dei Delfini",
+                "ro": "Stadio dei Delfini",
+                "en": "Stadio dei Delfini"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen, auch wenn es im Winter ruhig ist; warme Sitzkissen sind für die Shows im Freien sehr zu empfehlen.",
+                "hu": "Ne hagyjon értéket az autóban látható helyen, még ha télen csendes is a környék; egy meleg ülőpárna jól jöhet a szabadtéri delfinbemutató nézésekor.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină, chiar dacă iarna este liniște; o pernă călduroasă pentru șezut este utilă pentru spectacolul în aer liber.",
+                "en": "Do not leave valuables visible in the car even though it's quiet in winter; a warm seat cushion is recommended for watching the outdoor dolphin shows."
+              }
+            },
+            {
+              "name": {
+                "de": "Cancun",
+                "hu": "Cancun",
+                "ro": "Cancun",
+                "en": "Cancun"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Fahrt auf der Küstenstraße ohne Sommerstaus; die Aussicht auf das glitzernde Wintermeer ist vom Beifahrersitz aus atemberaubend.",
+                "hu": "Élvezze a szabad haladást a parti úton a nyári dugók nélkül; a csillogó téli tenger látványa az anyósülésről is lenyűgöző és fotózásra érdemes.",
+                "ro": "Bucurați-vă de drumul de coastă liber, fără ambuteiajele de vară; vederea mării strălucitoare de iarnă este uimitoare chiar și din interiorul mașinii.",
+                "en": "Enjoy the traffic-free drive along the coast without summer jams; the view of the sparkling winter sea is breathtaking from the passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Mar",
+                "hu": "Playa del Mar",
+                "ro": "Playa del Mar",
+                "en": "Playa del Mar"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Strand ist bei Wintersonne herrlich; achten Sie beim Parken darauf, dass die Autotüren nicht vom starken Küstenwind aufgeschlagen werden.",
+                "hu": "Egy rövid megálló a parton a téli napsütésben felemelő; parkoláskor ügyeljen, hogy az erős parti szél ne csapja ki az autó ajtaját kiszálláskor.",
+                "ro": "O scurtă oprire pe plajă în soarele de iarnă este revigorantă; la parcare, aveți grijă ca vântul puternic să nu lovească portierele la deschidere.",
+                "en": "A short stop at the beach in the winter sun is uplifting; when parking, be careful as the strong coastal wind can catch and slam the car doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Liboclà",
+                "hu": "Liboclà",
+                "ro": "Liboclà",
+                "en": "Liboclà"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt die Scheinwerfer, da es nun dunkel wird; die warme Beleuchtung der Lokale wirkt im Winter besonders einladend und gemütlich.",
+                "hu": "Indulás előtt ellenőrizze a fényszórókat, mert hamarosan sötét lesz; a helyi vendéglátóhelyek meleg fényei télen különösen hívogatóak és barátságosak.",
+                "ro": "Verificați farurile înainte de plecare, deoarece se va întuneca curând; luminile calde ale localurilor par deosebit de primitoare și confortabile iarna.",
+                "en": "Check your headlights before driving on as it will soon be dark; the warm lights of the local venues look particularly inviting and cozy in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana di Torvaianica",
+                "hu": "Villa romana di Torvaianica",
+                "ro": "Villa romana di Torvaianica",
+                "en": "Villa romana di Torvaianica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabung vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die antiken Mauern strahlen in der kühlen Winterdämmerung viel Ruhe aus.",
+                "hu": "Látogassa meg a feltárást 16:30 előtt, hogy kihasználja az utolsó fényeket; az antik falak a hűvös téli alkonyatban nagy nyugalmat árasztanak.",
+                "ro": "Vizitați situl înainte de ora 16:30 pentru a profita de ultima lumină; zidurile antice emană multă liniște în amurgul răcoros de iarnă.",
+                "en": "Visit the excavation before 16:30 to catch the last bit of daylight; the ancient walls radiate a sense of peace in the cool winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

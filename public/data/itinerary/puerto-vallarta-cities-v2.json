@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a modern tengerjáró kikötő körüli nyüzsgő tengeri élet felfedezésével. Délben hűtse le magát a közeli frissítő szabadidős medencékben a napsütés elől. A délután arra csábít, hogy sétáljon a Playa de Oro aranyhomokos partján. Fejezze be pihentető sétáját egy kellemes estével a Playa Los Tules strandon, miközben a nap lenyugszik az öbölben.",
         "ro": "Începeți dimineața explorând activitatea maritimă plină de viață din jurul portului modern. Până la prânz, treceți la piscinele de agrement răcoroase din apropiere pentru a vă adăposti de soare. După-amiaza vă invită să vă plimbați pe nisipurile aurii de la Playa de Oro. Încheiați plimbarea relaxantă petrecând seara la Playa Los Tules la apus.",
         "en": "Start your morning exploring the bustling maritime activity around the modern cruise port area. By midday, transition to the refreshing recreational pools nearby to cool off from the sun. The afternoon invites you to stroll the golden sands of Playa de Oro. End your relaxing walk with an evening unwinding at Playa Los Tules as the sun dips below the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hafen mit einem nebligen Horizont, während Kreuzfahrtschiffe in der tropischen Feuchtigkeit anlegen. Mittags bieten die Überdachungen der Marina Schutz vor plötzlichen Regenschauern. Den Nachmittag verbringt man am besten in Poolnähe, wo die Gärten im Regen aufblühen. Abends beruhigt der warme Regen das Meer und schafft eine friedliche Atmosphäre für Spaziergänge.",
+            "hu": "A reggel párás köddel indul a kikötőben, miközben az óriáshajók befutnak a trópusi esőbe. Délben a Marina árkádjai nyújtanak menedéket a hirtelen zivatarok elől a sétány mentén. A délutánt érdemes a medencék közelében tölteni, ahol a kertek ilyenkor kelnek igazán életre. Este a meleg eső megnyugtatja a tengert, különleges és békés hangulatot árasztva az ernyő alatti sétához.",
+            "ro": "Dimineața începe în port cu un orizont cețos, în timp ce navele acostează în umiditatea tropicală. La prânz, arcadele din Marina oferă adăpost intermitent în timpul averselor trecătoare. După-amiaza este ideală pentru relaxare lângă piscină, unde grădinile luxuriante înfloresc sub ploaie. Seara, ploaia caldă liniștește marea, creând o atmosferă pașnică pentru o plimbare cu umbrela.",
+            "en": "Morning starts at the port with a misty horizon as cruise ships dock in the tropical humidity. By noon, the Marina’s walkways offer intermittent shelter under architectural overhangs during passing showers. Afternoon is best spent near the resort pools, where lush gardens thrive in the rain. As evening falls, the warm rain calms the sea, creating a peaceful atmosphere for a walk under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cruise Port",
+                "hu": "Cruise Port",
+                "ro": "Cruise Port",
+                "en": "Cruise Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Riesenschiffe unter grauem Himmel; das Terminal bietet perfekten Schutz vor tropischen Güssen, während Sie das bunte Treiben im Hafen sicher verfolgen.",
+                "hu": "Figyelje meg az óriáshajók érkezését a szürke égbolt alatt; a terminál kiváló menedéket nyújt a hirtelen trópusi felhőszakadások idején a kikötői forgalom nézése közben.",
+                "ro": "Observați sosirea navelor gigantice sub cerul cenușiu; terminalul oferă un adăpost excelent împotriva averselor tropicale bruște în timp ce priviți activitatea din port.",
+                "en": "Observe the arrival of giant ships under the grey sky; the terminal offers great shelter from sudden tropical downpours while watching the harbor action from safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Administración Del Sistema Portuario Nacional Marina",
+                "hu": "Administración Del Sistema Portuario Nacional Marina",
+                "ro": "Administración Del Sistema Portuario Nacional Marina",
+                "en": "Administración Del Sistema Portuario Nacional Marina"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie an Yachten vorbei, während der Regen Muster auf das Wasser zeichnet; nehmen Sie einen stabilen Schirm mit, da die Küstenwinde heute sehr tückisch sind.",
+                "hu": "Sétáljon el a luxusjachtok mellett, miközben az eső mintákat rajzol a vízre; vigyen magával erős esernyőt, mert a tengerparti szél ma kiszámíthatatlanul fújhat.",
+                "ro": "Plimbați-vă pe lângă iahturi în timp ce ploaia desenează modele pe apă; luați o umbrelă rezistentă, deoarece vânturile de coastă pot fi imprevizibile astăzi.",
+                "en": "Walk past luxury yachts while the rain creates patterns on the water; bring a sturdy umbrella as the coastal winds can be quite unpredictable during storms today."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca de",
+                "hu": "Alberca de",
+                "ro": "Alberca de",
+                "en": "Alberca de"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Freizeitgelände, das im Regen noch grüner leuchtet; seien Sie vorsichtig, da die Fliesen in der Nähe des Wassers bei Nässe extrem rutschig werden.",
+                "hu": "Élvezze a szabadidős területet, ahol a buja növényzet még zöldebbé válik az esőben; vigyázzon, mert a víz közeli csempék nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Bucurați-vă de zona de recreere unde vegetația luxuriantă devine și mai verde sub ploaie; atenție la gresia de lângă apă, care devine extrem de alunecoasă când este udă.",
+                "en": "Enjoy the recreational area where the lush vegetation turns even greener in the rain; check your footing as tiles near the water can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Oro",
+                "hu": "Playa de Oro",
+                "ro": "Playa de Oro",
+                "en": "Playa de Oro"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatischen Wellen unter Sturmwolken aus sicherer Entfernung; nutzen Sie wasserdichte Taschen, um Ihre Elektronik vor der hohen Luftfeuchtigkeit zu schützen.",
+                "hu": "Csodálja meg a drámai hullámokat a viharfelhők alatt biztonságos távolságból; használjon vízhatlan táskát, hogy megvédje elektronikai eszközeit a párás levegőtől.",
+                "ro": "Admirați valurile dramatice sub norii de furtună de la o distanță sigură; folosiți o geantă impermeabilă pentru a vă proteja electronicele de umiditatea ridicată.",
+                "en": "Experience the dramatic Pacific waves under stormy clouds from a safe distance; use a waterproof bag for your electronics to protect them from the intense humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Los Tules",
+                "hu": "Playa Los Tules",
+                "ro": "Playa Los Tules",
+                "en": "Playa Los Tules"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie am Strand und beobachten Sie die Regenfront am Horizont; suchen Sie sich einen Platz unter einer großen Palapa, um trotz der Meeresbrise trocken zu bleiben.",
+                "hu": "Pihenjen a parton, miközben figyeli a látóhatáron átvonuló esőt; válasszon egy helyet egy széles palapa alatt, hogy szárazon élvezhesse a frissítő tengeri szellőt.",
+                "ro": "Relaxați-vă pe plajă în timp ce urmăriți ploaia care se deplasează la orizont; alegeți un loc sub o palapa lată pentru a rămâne uscat în timp ce simțiți briza mării.",
+                "en": "Relax at the beach while watching the rain move across the horizon; choose a spot under a wide palapa to stay dry while enjoying the refreshing sea breeze."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Morgenluft ist frisch und ideal für einen zügigen Spaziergang am Hafen. Mittags spendet die Wintersonne angenehme Wärme ohne die Hitze des Sommers, was den Besuch der Marina sehr entspannend macht. Das Nachmittagslicht schwindet früh und wirft ab 16:30 Uhr lange Schatten auf den Strand. Nach dem Sonnenuntergang um 17:00 Uhr sinken die Temperaturen rasch, eine Jacke ist dann ratsam.",
+            "hu": "A reggeli friss levegő tökéletes egy élénkítő sétához a kikötő környékén. Délben a téli nap kellemes melege kíséri utunkat, így a Marina felfedezése megterhelő hőség nélkül élvezhető. A délutáni fények korán fogyni kezdenek, már 16:30-kor hosszú árnyékok vetülnek a homokba. Este, az 17:00-kor beköszöntő naplemente után a hőmérséklet gyorsan hűl, így réteges öltözet szükséges.",
+            "ro": "Aerul dimineții este proaspăt și revigorant, perfect pentru o plimbare lungă în zona portului. La prânz, soarele de iarnă oferă o căldură confortabilă, făcând explorarea Marinei foarte plăcută. Lumina după-amiezii începe să scadă devreme, proiectând umbre lungi pe plajă încă de la 16:30. Temperaturile scad rapid după apusul de la ora 17:00, fiind necesară o jachetă ușoară pentru malul mării.",
+            "en": "The morning air is crisp and refreshing, perfect for a brisk walk around the port area. By midday, the winter sun provides comfortable warmth without the intense summer heat, making the Marina walk delightful. Afternoon light starts to fade early, casting long shadows over the golden beaches by 16:30. Evening temperatures drop quickly after the 17:00 sunset, requiring a light jacket for the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cruise Port",
+                "hu": "Cruise Port",
+                "ro": "Cruise Port",
+                "en": "Cruise Port"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Wintersicht für atemberaubende Fotos der Schiffe vor der Sierra Madre; die kühle Morgenluft macht den Spaziergang besonders belebend und angenehm.",
+                "hu": "Használja ki a tiszta téli látási viszonyokat a Sierra Madre előtt horgonyzó hajók fotózásához; a hűvös reggeli levegő frissítővé és kényelmessé teszi a sétát.",
+                "ro": "Profită de vizibilitatea clară de iarnă pentru fotografii uimitoare cu navele pe fundalul Sierra Madre; aerul răcoros al dimineții face plimbarea foarte revigorantă.",
+                "en": "Utilize the clear winter visibility for stunning photos of the ships against the Sierra Madre; the cool morning air makes the walk invigorating and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Administración Del Sistema Portuario Nacional Marina",
+                "hu": "Administración Del Sistema Portuario Nacional Marina",
+                "ro": "Administración Del Sistema Portuario Nacional Marina",
+                "en": "Administración Del Sistema Portuario Nacional Marina"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Marina unter der milden Wintersonne; ein leichter Schal wird empfohlen, da der Wind vom Wasser her in dieser Jahreszeit überraschend kühl sein kann.",
+                "hu": "Fedezze fel a kikötőt a lágy téli napsütésben; egy könnyű sál ajánlott, mivel a víz felől érkező szél ilyenkor meglepően hűvös lehet a sétányon.",
+                "ro": "Explorați marina sub soarele blând de iarnă; se recomandă o eșarfă ușoară, deoarece briza de pe apă poate fi surprinzător de răcoroasă în acest sezon.",
+                "en": "Explore the marina's architectural details under the mild winter sun; a light scarf is recommended as the breeze from the water can be surprisingly cool today."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca de",
+                "hu": "Alberca de",
+                "ro": "Alberca de",
+                "en": "Alberca de"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Freizeitort bei geringer Luftfeuchtigkeit; die umliegenden Gärten sind in der Trockenzeit besonders gepflegt und laden zum Verweilen im Freien ein.",
+                "hu": "Látogasson el erre a helyre, amikor a páratartalom alacsony és a levegő friss; a környező kertek a száraz évszakban is gyönyörűek és hívogatóak.",
+                "ro": "Vizitați acest loc de recreere când umiditatea este scăzută și aerul este proaspăt; grădinile din jur sunt foarte bine întreținute și vibrante în sezonul uscat.",
+                "en": "Visit this recreational spot while the humidity is low and the air is fresh; the surrounding gardens are beautifully manicured and vibrant during the dry season."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Oro",
+                "hu": "Playa de Oro",
+                "ro": "Playa de Oro",
+                "en": "Playa de Oro"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie den festen, kühlen Sand unter Ihren Füßen; denken Sie daran, dass die Sonne gegen 17:00 Uhr untergeht, also kommen Sie früh für das beste goldene Licht.",
+                "hu": "Érezze a szilárd, hűvös homokot a lába alatt; ne feledje, hogy a nap 17:00 körül nyugszik, ezért érkezzen korán a legszebb arany fényekért.",
+                "ro": "Simțiți nisipul ferm și răcoros sub picioare; rețineți că soarele apune în jur de ora 17:00, așa că veniți devreme pentru cea mai bună lumină aurie.",
+                "en": "Walk along the shore and feel the firm, cool sand under your feet; remember the sun sets around 17:00, so arrive early to enjoy the best golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Los Tules",
+                "hu": "Playa Los Tules",
+                "ro": "Playa Los Tules",
+                "en": "Playa Los Tules"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre der Nebensaison; die Abendkälte setzt früh ein, halten Sie daher einen Pullover für den Rückweg bereit, wenn die Sonne weg ist.",
+                "hu": "Élvezze az utószezon békés hangulatát a tengerparton; az esti hűvös korán érkezik, ezért legyen kéznél egy pulóver a visszaútra a naplemente után.",
+                "ro": "Relaxați-vă pe plajă și bucurați-vă de atmosfera liniștită; frigul serii se instalează devreme, așa că aveți pregătit un pulover pentru drumul de întoarcere.",
+                "en": "Relax on the beach and enjoy the peaceful atmosphere of the low season; the evening chill starts early, so have a sweater ready for your walk back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja az északi torkolatvidék védett, nyugodt vizes élőhelyein kezdődik. Ahogy a nap melegszik, tekerjen le a nyüzsgő kikötőhöz és az aranyhomokos strandokhoz. A délután a part mentén vezet a népszerű homokos partokon keresztül. Végül zárja utazását a déli luxus strandklubokban egy elegáns és pihentető este keretében.",
         "ro": "Aventura pe bicicletă începe în zonele umede protejate ale estuarului nordic. Pe măsură ce ziua se încălzește, pedalați spre portul plin de viață și plajele adiacente. După-amiaza vă poartă de-a lungul coastei prin zone nisipoase populare, perfecte pentru o baie rapidă. În cele din urmă, încheiați cursa în cluburile de plajă exclusiviste din sud pentru o seară de lux.",
         "en": "Your cycling adventure begins in the serene protected wetlands of the northern estuary. As the day warms up, pedal down to the lively port and adjacent golden beaches. The afternoon brings you along the coast through popular sandy shores perfect for a quick dip. Finally, conclude your ride in the upscale southern beach clubs for a luxurious evening retreat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt im feuchten Estero el Salado, wo der Regen die Mangroven in einen mystischen Nebel hüllt. Mittags erfordern die nassen Straßen am Hafen volle Konzentration und gute Bremsen. Am Nachmittag bieten die Beach Clubs einen willkommenen Unterstand bei schweren Güssen. Beenden Sie die Fahrt rechtzeitig am Abend, bevor die tropischen Gewitter über der Bucht am heftigsten werden.",
+            "hu": "A bringatúra a párás Estero el Salado mangroveseiben indul, ahol az eső misztikus hangulatot áraszt. Délben a kikötő környéki nedves aszfalt óvatosságot és jó fékeket igényel a csúszásveszély miatt. Délután a strandklubok nyújtanak menedéket a hevesebb záporok idején. Érdemes kora este befejezni a tekerést, mielőtt a trópusi viharok felerősödnek az öböl felett.",
+            "ro": "Turul cu bicicleta începe în zona umedă Estero el Salado, unde ploaia învăluie mangrovele într-o ceață mistică. La prânz, străzile ude din port necesită concentrare maximă și frâne bune. După-amiaza, cluburile de pe plajă oferă un adăpost binevenit în timpul averselor abundente. Încheiați plimbarea devreme seara, înainte ca furtunile tropicale să devină intense.",
+            "en": "The bike tour begins in the humid Estero el Salado, where rain wraps the mangroves in a mystical mist. By noon, the wet roads near the port require full concentration and reliable brakes. In the afternoon, beach clubs provide a welcome shelter during heavy downpours. End your ride early in the evening before the tropical storms over the bay reach their peak intensity."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Estatal Estero el Salado",
+                "hu": "Parque Estatal Estero el Salado",
+                "ro": "Parque Estatal Estero el Salado",
+                "en": "Parque Estatal Estero el Salado"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die Mangroven; drosseln Sie auf Holzstegen das Tempo, da diese bei Nässe extrem rutschig werden und die Sturzgefahr deutlich erhöhen.",
+                "hu": "Tekerjen óvatosan a mangroveerdőben; a fapallókon csökkentse a sebességet, mivel nedvesen rendkívül csúszóssá válnak és fokozzák a balesetveszélyt.",
+                "ro": "Pedalați cu atenție prin mangrove; reduceți viteza pe podurile de lemn, deoarece acestea devin extrem de alunecoase când sunt ude, crescând riscul de cădere.",
+                "en": "Cycle through the mangroves where rain creates a mystical atmosphere; keep speed low on wooden paths as they become extremely slippery when wet today."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruise Port",
+                "hu": "Cruise Port",
+                "ro": "Cruise Port",
+                "en": "Cruise Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Hafenbecken im Regen; tragen Sie einen hochwertigen Poncho, um während der intensiven, aber meist kurzen Schauer trocken und einsatzbereit zu bleiben.",
+                "hu": "Figyelje a kikötői forgalmat az esőben; viseljen minőségi esőpelerint, hogy száraz maradjon az intenzív, de általában rövid ideig tartó felhőszakadások alatt.",
+                "ro": "Priviți activitatea din port sub ploaie; purtați un pelerină de calitate pentru a rămâne uscat în timpul averselor intense, dar de scurtă durată de astăzi.",
+                "en": "Navigate the port entrance and watch the cargo ships in the rain; wear a high-quality poncho to stay dry during the intense but short-lived tropical showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Oro",
+                "hu": "Playa de Oro",
+                "ro": "Playa de Oro",
+                "en": "Playa de Oro"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entlang der Küste und erleben Sie die Kraft der Regenzeit; meiden Sie tiefe Pfützen, da diese Schlaglöcher verbergen könnten, die Ihr Rad beschädigen.",
+                "hu": "Tekerjen a part mentén és tapasztalja meg az esős évszak erejét; kerülje a mély tócsákat, mert azok kátyúkat rejthetnek, amik kárt tehetnek a kerékpárban.",
+                "ro": "Pedalați de-a lungul coastei și simțiți forța sezonului ploios; evitați bălțile adânci, deoarece pot ascunde gropi care vă pot deteriora bicicleta rapid.",
+                "en": "Ride along the coast and witness the power of the rainy season waves; avoid wet sand and deep puddles where your tires might lose traction or hide potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Glorias",
+                "hu": "Playa Las Glorias",
+                "ro": "Playa Las Glorias",
+                "en": "Playa Las Glorias"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starken Güssen unter großen Palmen Schutz; prüfen Sie regelmäßig Ihre Bremsen, da nasse Felgen einen deutlich längeren Bremsweg benötigen.",
+                "hu": "Heves esőzéskor keressen menedéket a nagy pálmák alatt; ellenőrizze gyakran a fékeket, mivel a nedves felniken a fékút jelentősen meghosszabbodik.",
+                "ro": "Căutați adăpost sub palmierii mari în timpul ploilor torențiale; verificați frânele frecvent, deoarece jantele ude necesită o distanță mai mare de oprire.",
+                "en": "Pedal past the resorts and find shelter under large palm trees during heavy bursts; check your brakes frequently as wet rims require more distance to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Children's Pool",
+                "hu": "Children's Pool",
+                "ro": "Children's Pool",
+                "en": "Children's Pool"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause an dieser geschützten Bucht; ein wasserdichter Rucksack ist unerlässlich, um Ihre Wertsachen vor der extrem hohen Luftfeuchtigkeit zu schützen.",
+                "hu": "Tartson pihenőt ebben a védett öbölben; egy vízhatlan hátizsák elengedhetetlen, hogy értékeit megvédje a rendkívül magas páratartalomtól és az esőtől.",
+                "ro": "Opriți-vă pentru o pauză în acest golf protejat; un rucsac impermeabil este esențial pentru a vă păstra bunurile în siguranță de umiditatea ridicată.",
+                "en": "Stop for a break at this sheltered cove where the water remains relatively calm; a waterproof backpack is essential to keep your belongings dry and safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapphire Ocean Club and Suites",
+                "hu": "Sapphire Ocean Club and Suites",
+                "ro": "Sapphire Ocean Club and Suites",
+                "en": "Sapphire Ocean Club and Suites"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in diesem Club mit überdachten Sitzplätzen; trocknen Sie sich schnell ab, um eine Erkältung durch die kühle Meeresbrise nach der Fahrt zu vermeiden.",
+                "hu": "Fejezze be a túrát ebben a klubban, ahol fedett helyek várják; szárítkozzon meg gyorsan, hogy elkerülje a tengeri szél okozta lehűlést a tekerés után.",
+                "ro": "Încheiați turul la acest club care oferă locuri acoperite; uscați-vă rapid pentru a evita răceala cauzată de briza oceanului după efortul depus.",
+                "en": "Finish your ride at this club which offers excellent indoor seating with sea views; dry off quickly to avoid catching a chill from the ocean breeze."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der Lagune ist erfrischend kühl, ideal für eine aktive Radtour durch das Naturschutzgebiet. Mittags bietet die Wintersonne perfekte Bedingungen ohne die lästige Sommerhitze. Am Nachmittag genießen Sie die weite Sicht entlang der Strände bei milden Temperaturen. Da die Sonne bereits um 17:00 Uhr untergeht, sollten Sie die Rückfahrt im hellen planen, bevor es kühl wird.",
+            "hu": "A reggeli levegő a lagúnánál frissítően hűvös, ideális egy aktív tekeréshez a természetvédelmi területen át. Délben a téli napsütés tökéletes feltételeket biztosít a fojtogató nyári hőség nélkül. Délután élvezze a tiszta kilátást a strandok mentén a kellemes, enyhe időben. Mivel a nap már 17:00-kor nyugszik, tervezze a visszautat még világosban, mielőtt hirtelen lehűl.",
+            "ro": "Dimineața la lagună este revigorant de răcoroasă, ideală pentru o tură activă cu bicicleta prin rezervația naturală. La prânz, soarele de iarnă oferă condiții perfecte fără căldura sufocantă a verii. După-amiaza, bucurați-vă de vizibilitatea clară de-a lungul plajelor la temperaturi blânde. Deoarece soarele apune la ora 17:00, planificați întoarcerea pe lumină.",
+            "en": "The morning at the lagoon is refreshingly cool, ideal for an active bike ride through the nature reserve. By midday, the winter sun offers perfect conditions without the oppressive summer heat. In the afternoon, enjoy the clear views along the beaches in mild temperatures. Since the sun sets early at 17:00, plan your return trip while it’s still light and before the chill arrives."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Estatal Estero el Salado",
+                "hu": "Parque Estatal Estero el Salado",
+                "ro": "Parque Estatal Estero el Salado",
+                "en": "Parque Estatal Estero el Salado"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie durch die Mangroven, wenn die Vögel am aktivsten sind; tragen Sie eine leichte Windjacke, da die Brise in der Lagune am frühen Morgen recht kühl sein kann.",
+                "hu": "Tekerjen át a mangroveerdőn, amikor a madárvilág a legaktívabb; viseljen könnyű szélkabátot, mert a lagúna feletti szellő kora reggel meglehetősen hűvös lehet.",
+                "ro": "Pedalați prin mangrove când păsările sunt cele mai active; purtați o jachetă ușoară de vânt, deoarece briza lagunei poate fi destul de rece dimineața devreme.",
+                "en": "Cycle through the mangrove tunnels during the pleasant dry season; wear a light windbreaker as the estuary breeze can be quite cool in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruise Port",
+                "hu": "Cruise Port",
+                "ro": "Cruise Port",
+                "en": "Cruise Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das maritime Treiben im klaren Winterlicht; die moderaten Temperaturen machen den kurzen Anstieg zu den Aussichtspunkten jetzt viel angenehmer als im Sommer.",
+                "hu": "Figyelje a tengeri forgalmat a tiszta téli fényben; a mérsékelt hőmérséklet sokkal kellemesebbé teszi a kilátópontokhoz vezető rövid emelkedőt, mint nyáron.",
+                "ro": "Priviți activitatea maritimă în lumina clară de iarnă; temperaturile moderate fac scurta urcare către punctele de observație mult mai plăcută acum decât vara.",
+                "en": "Watch the bustling maritime activity in the clear winter light; the moderate temperatures make the short bike climb to the viewing points much more enjoyable now."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Oro",
+                "hu": "Playa de Oro",
+                "ro": "Playa de Oro",
+                "en": "Playa de Oro"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause im Sand und genießen Sie das tiefe Blau des Winterhimmels; denken Sie daran, dass die Sonne um 17:00 Uhr untergeht, planen Sie Ihren Stopp ein.",
+                "hu": "Tartson pihenőt a homokban és élvezze a téli égbolt mélykék színét; ne feledje, hogy a nap 17:00-kor nyugszik, eszerint tervezze a megállás hosszát.",
+                "ro": "Luați o pauză pe nisip și bucurați-vă de albastrul intens al cerului de iarnă; rețineți că soarele apune la ora 17:00, așa că planificați-vă oprirea corect.",
+                "en": "Take a break on the sand and enjoy the intense blue of the winter sky; remember that the sun sets early at 17:00, so plan your stop and ride accordingly."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Glorias",
+                "hu": "Playa Las Glorias",
+                "ro": "Playa Las Glorias",
+                "en": "Playa Las Glorias"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie am Ufer entlang, wo die Brise stetig und erfrischend ist; halten Sie einen Pullover bereit, wenn Sie anhalten, da man im Schatten schnell auskühlt.",
+                "hu": "Tekerjen a parton, ahol a szél állandó és frissítő; tartson készenlétben egy pulóvert a pihenőkhöz, mert az árnyékban gyorsan lehűlhet a testhőmérséklete.",
+                "ro": "Pedalați de-a lungul țărmului unde briza este constantă și răcoritoare; aveți un pulover la îndemână pentru opriri, deoarece vă veți răci rapid la umbră.",
+                "en": "Pedal along the shoreline where the breeze is steady and refreshing; keep a sweater handy for when you stop, as you will cool down quickly in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Children's Pool",
+                "hu": "Children's Pool",
+                "ro": "Children's Pool",
+                "en": "Children's Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine kurze Rast; das milde Wetter ist ideal für längere Pausen ohne die hohe Luftfeuchtigkeit des Sommers, genießen Sie die klare Luft am Wasser.",
+                "hu": "Kiváló hely egy rövid pihenőhöz; az enyhe időjárás ideális a hosszabb megállásokhoz a nyári pára nélkül, élvezze a friss tengeri levegőt a vízparton.",
+                "ro": "Un loc excelent pentru o scurtă odihnă; vremea blândă este ideală pentru opriri mai lungi fără umiditatea verii, bucurați-vă de aerul curat de lângă apă.",
+                "en": "A great spot for a quick rest where the water is calm; the mild weather is ideal for longer stops without the summer humidity, enjoy the crisp ocean air."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapphire Ocean Club and Suites",
+                "hu": "Sapphire Ocean Club and Suites",
+                "ro": "Sapphire Ocean Club and Suites",
+                "en": "Sapphire Ocean Club and Suites"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour mit Blick auf die frühe goldene Stunde; die Abendkälte kommt nach Sonnenuntergang schnell, halten Sie daher Schichten für den Heimweg bereit.",
+                "hu": "Zárja a túrát az aranyóra fényeiben az óceán felett; az esti hűvös gyorsan érkezik naplemente után, így legyenek kéznél meleg rétegek a hazaúthoz.",
+                "ro": "Încheiați turul cu o vedere asupra orei de aur; frigul serii vine rapid după apusul soarelui, așa că aveți haine pregătite pentru drumul spre casă.",
+                "en": "End your cycling tour with a view of the early golden hour over the Pacific; the evening chill arrives quickly after sunset, so have layers ready for the ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon ki korán a festői északi rancsokra, hogy megtapasztalja a vidék autentikus vadvilágát. A dél dél felé, a város felé irányítja, hogy felfedezze a helyi közösségi tereket és a buja parkokat. Töltse a délutánt a szeretett központi strandokon a napfényben fürdőzve. Az este a nyüzsgő déli strandklubokban tetőzik, amely tökéletes egy naplementés koktélhoz.",
         "ro": "Conduceți devreme către fermele nordice pitorești pentru a experimenta fauna autentică a zonei rurale. Prânzul vă ghidează înapoi spre oraș pentru a descoperi centrele comunitare și parcurile naturale luxuriante. Petreceți-vă după-amiaza la soare pe plajele centrale populare. Seara atinge apogeul la cluburile de plajă vibrante din sud, perfecte pentru un cocktail.",
         "en": "Drive out early to the scenic northern ranches to experience the authentic wildlife of the countryside. Midday guides you back towards the city to discover local community hubs and lush natural parks. Spend your afternoon catching the rays at the beloved central beaches. The evening peaks at the vibrant southernmost beach clubs, perfect for a sunset cocktail."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Morgen im Rancho Madre Tierra, wo der Regen den Dschungel in ein tiefes Grün taucht. Mittags beobachten Sie das Naturschutzgebiet aus dem Auto, während schwere Tropfen auf das Dach trommeln. Am Nachmittag bietet die Fahrt zwischen den Strandclubs Schutz vor den Elementen. Abends spiegelt sich die Beleuchtung der Stadt in den nassen Straßen bei einer stimmungsvollen Fahrt.",
+            "hu": "A reggeli autózás a Rancho Madre Tierra dús, zöld dzsungelében indul, ahol az eső még élénkebbé teszi a tájat. Délben a természetvédelmi területet figyelhetjük a kocsiból, miközben az eső dobol a tetőn. Délután a strandklubok közötti utazás nyújt védelmet az időjárás viszontagságaitól. Este a város fényei csillognak a vizes aszfalton, különleges hangulatot adva a vezetésnek.",
+            "ro": "Călătoria începe dimineața la Rancho Madre Tierra, unde ploaia transformă jungla într-un verde intens. La prânz, observați rezervația din mașină în timp ce picăturile mari bat în plafon. După-amiaza, drumul între cluburile de pe plajă oferă protecție împotriva elementelor. Seara, luminile orașului se reflectă în străzile ude în timpul unei plimbări atmosferice.",
+            "en": "The morning drive starts at Rancho Madre Tierra, where rain turns the jungle into a deep, vibrant green. By noon, observe the nature reserve from the car as heavy tropical drops drum on the roof. In the afternoon, driving between beach clubs provides protection from the elements. As evening falls, the city lights reflect on the wet streets during an atmospheric tropical drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rancho Madre Tierra",
+                "hu": "Rancho Madre Tierra",
+                "ro": "Rancho Madre Tierra",
+                "en": "Rancho Madre Tierra"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den dichten Dschungel sicher von Ihrem Fahrzeug aus; nutzen Sie in den Bergen niedrige Gänge, da die Straßen bei Regen sehr rutschig sein können.",
+                "hu": "Tapasztalja meg a dús dzsungelt biztonságosan a járművéből; használjon alacsony sebességfokozatot a hegyekben, mert az utak esőben nagyon csúszósak lehetnek.",
+                "ro": "Experimentați jungla luxuriantă în siguranță din vehiculul dumneavoastră; folosiți trepte inferioare de viteză, deoarece drumurile montane pot fi alunecoase la ploaie.",
+                "en": "Experience the lush, vibrant jungle from the safety of your vehicle; use low gears on steep sections as the mountain roads can be slick during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Estatal Estero el Salado",
+                "hu": "Parque Estatal Estero el Salado",
+                "ro": "Parque Estatal Estero el Salado",
+                "en": "Parque Estatal Estero el Salado"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Mangroven vom Besucherzentrum aus, während der Regen den Sumpf nährt; Krokodile sind bei bedecktem Himmel oft aktiver als bei praller Sonne.",
+                "hu": "Figyelje a mangroveerdőt a látogatóközpontból, miközben az eső táplálja a mocsarat; a krokodilok gyakran aktívabbak a borús időben, mint erős napsütésben.",
+                "ro": "Observați mangrovele din centrul de vizitare în timp ce ploaia hrănește mlaștina; crocodilii sunt adesea mai activi în orele înnorate și ploioase de astăzi.",
+                "en": "Observe the mangroves from the covered visitor center while the rain feeds the swamp; the crocodiles are often more active during these overcast, rainy hours."
+              }
+            },
+            {
+              "name": {
+                "de": "La Lija",
+                "hu": "La Lija",
+                "ro": "La Lija",
+                "en": "La Lija"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die lokale Architektur im Regen glänzen zu sehen; lassen Sie das Licht eingeschaltet, um bei starken Güssen für andere besser sichtbar zu sein.",
+                "hu": "Egy rövid megálló, hogy lássa a helyi építészetet az esőben csillogni; tartsa bekapcsolva a fényszórókat a jobb láthatóság érdekében a heves felhőszakadások alatt.",
+                "ro": "O scurtă oprire pentru a vedea arhitectura locală strălucind în ploaie; păstrați farurile aprinse pentru a asigura vizibilitatea în timpul averselor tropicale abundente.",
+                "en": "A quick stop to see the local architecture as it glistens in the rain; keep your headlights on at all times to ensure visibility during heavy tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Glorias",
+                "hu": "Playa Las Glorias",
+                "ro": "Playa Las Glorias",
+                "en": "Playa Las Glorias"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Stürme über dem Pazifik bequem vom Autositz aus; nutzen Sie überdachte Parkplätze, um beim Besuch des Strandes trocken zu bleiben.",
+                "hu": "Figyelje a drámai csendes-óceáni viharokat kényelmesen az autóból; használja a közeli fedett parkolókat, hogy száraz maradjon, miközben a partot látogatja.",
+                "ro": "Urmăriți furtunile dramatice de peste Pacific din confortul mașinii; folosiți parcările acoperite din apropiere pentru a rămâne uscat în timp ce vizitați țărmul.",
+                "en": "Watch the dramatic Pacific storms from the comfort of your car seat; nearby covered parking lots are ideal for staying dry while visiting the shore today."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapphire Ocean Club and Suites",
+                "hu": "Sapphire Ocean Club and Suites",
+                "ro": "Sapphire Ocean Club and Suites",
+                "en": "Sapphire Ocean Club and Suites"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Prasseln des Regens auf dem Dach, während Sie im geschützten Bereich entspannen; der Valet-Service ist ideal, um Pfützen beim Einsteigen zu vermeiden.",
+                "hu": "Élvezze az eső kopogását a tetőn, miközben a védett társalgóban pihen; a parkolószolgálat (valet) különösen hasznos, hogy elkerülje a tócsákat beszálláskor.",
+                "ro": "Bucurați-vă de sunetul ploii pe acoperiș în timp ce vă relaxați în salonul protejat; serviciul de valet este util pentru a evita bălțile la urcarea în mașină.",
+                "en": "Enjoy the sound of rain on the roof while relaxing in the protected lounge; the valet service is particularly helpful for avoiding puddles when getting in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantamar Beach Club",
+                "hu": "Mantamar Beach Club",
+                "ro": "Mantamar Beach Club",
+                "en": "Mantamar Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Blitze über der Bucht von diesem erstklassigen Standort aus; die Innenbereiche bieten einen gemütlichen Rückzugsort, während das Gewitter draußen vorbeizieht.",
+                "hu": "Figyelje a villámokat az öböl felett ebből a kiváló parti pozícióból; a belső terek hangulatos menedéket nyújtanak, amíg a trópusi vihar elvonul a part mentén.",
+                "ro": "Urmăriți fulgerele peste golf din această locație premium de pe plajă; zonele interioare oferă un refugiu confortabil în timp ce furtuna tropicală trece pe afară.",
+                "en": "Witness the lightning over the bay from this prime beachfront location; the indoor areas provide a cozy retreat while the tropical storm passes by outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt in die Berge am Morgen bietet klare Aussichten und eine erfrischend kühle Brise durch die Fenster. Mittags ist das Sightseeing bei milden Temperaturen äußerst angenehm. Am Nachmittag genießen Sie die weite Sicht auf den Ozean ohne den sommerlichen Dunst. Da es ab 17:00 Uhr schnell kühler wird, ist die Heizung im Wagen für den Abend ein willkommener Luxus nach dem Sonnenuntergang.",
+            "hu": "A reggeli autózás a hegyekbe tiszta kilátást és frissítően hűvös levegőt kínál a lehúzott ablakokon át. Délben a városnézés kifejezetten kellemes az enyhe hőmérséklet mellett. Délután élvezze a távoli óceáni panorámát a nyári pára nélkül. Mivel 17:00 után gyorsan hűl az idő, az autó fűtése igazi luxus lesz az esti visszaúton a naplemente után.",
+            "ro": "Călătoria de dimineață la munte oferă vederi clare și o briză răcoritoare prin ferestre. La prânz, vizitarea obiectivelor turistice este extrem de plăcută la temperaturi blânde. După-amiaza, bucurați-vă de vederea panoramică asupra oceanului fără pâcla verii. Deoarece se răcește rapid după ora 17:00, căldura din mașină va fi binevenită seara.",
+            "en": "The morning drive into the mountains offers clear views and a refreshingly cool breeze through the windows. By midday, sightseeing is extremely pleasant in mild temperatures. In the afternoon, enjoy wide ocean views without the usual summer haze. Since it cools down quickly after 17:00, the car’s heater is a welcome luxury for the evening drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rancho Madre Tierra",
+                "hu": "Rancho Madre Tierra",
+                "ro": "Rancho Madre Tierra",
+                "en": "Rancho Madre Tierra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Bergluft und die weite Sicht am Morgen; die kurvigen Straßen sind in der Trockenzeit deutlich sicherer und angenehmer zu befahren als im Sommer.",
+                "hu": "Élvezze a tiszta hegyi levegőt és a messzire nyúló kilátást reggel; a kanyargós utak a száraz évszakban sokkal biztonságosabbak és könnyebben autózhatóak.",
+                "ro": "Bucurați-vă de aerul curat de munte și de vederea clară de dimineață; drumurile sinuoase sunt mult mai sigure și mai ușor de navigat în sezonul uscat de acum.",
+                "en": "Drive up to the ranch and enjoy clear mountain views in the crisp morning air; the winding roads are much safer and easier to navigate during the dry season."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Estatal Estero el Salado",
+                "hu": "Parque Estatal Estero el Salado",
+                "ro": "Parque Estatal Estero el Salado",
+                "en": "Parque Estatal Estero el Salado"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht ist perfekt für die Krokodilbeobachtung; der Park ist jetzt weniger überlaufen, was ein intensiveres Naturerlebnis direkt vom Besucherparkplatz aus ermöglicht.",
+                "hu": "A téli fények tökéletesek a krokodilok megfigyeléséhez; a park most kevésbé zsúfolt, ami lehetővé teszi az intimebb találkozást a vadvilággal a látogatói központnál.",
+                "ro": "Lumina de iarnă este perfectă pentru observarea crocodililor; parcul este mai puțin aglomerat acum, permițând o experiență mai intimă cu fauna sălbatică locală.",
+                "en": "Visit the nature reserve where the winter light is perfect for spotting crocodiles; the park is less crowded now, allowing for a more intimate wildlife experience."
+              }
+            },
+            {
+              "name": {
+                "de": "La Lija",
+                "hu": "La Lija",
+                "ro": "La Lija",
+                "en": "La Lija"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen lokalen Treffpunkt in der angenehmen Mittagswärme; parken Sie im Schatten, um das Wageninnere für die nächste Etappe kühl und komfortabel zu halten.",
+                "hu": "Látogasson el erre a helyi közösségi pontra a kellemes déli melegben; parkoljon árnyékban, hogy az autó belseje hűvös maradjon a következő útszakaszra.",
+                "ro": "Opriți-vă în acest punct comunitar în căldura plăcută a amiezii; parcați la umbră pentru a menține interiorul mașinii confortabil pentru următoarea etapă.",
+                "en": "Stop by this community spot to see local life in the comfortable midday warmth; park in the shade to keep the car interior pleasant for your next trip leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Glorias",
+                "hu": "Playa Las Glorias",
+                "ro": "Playa Las Glorias",
+                "en": "Playa Las Glorias"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand bequem mit dem Auto ohne sommerlichen Dunst; beachten Sie, dass sich die Parkplätze vor dem frühen Sonnenuntergang um 17:00 Uhr schnell füllen.",
+                "hu": "Érje el a strandot könnyen autóval és élvezze a kilátást pára nélkül; ne feledje, hogy a parkolók gyorsan megtelnek a korai, 17:00-s naplemente előtt.",
+                "ro": "Ajungeți ușor la plajă cu mașina și bucurați-vă de vedere fără pâcla verii; rețineți că parcările se umplu rapid înainte de apusul devreme de la ora 17:00.",
+                "en": "Reach the beach easily by car and enjoy the views without summer haze; keep in mind that parking fills up quickly before the early 17:00 winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapphire Ocean Club and Suites",
+                "hu": "Sapphire Ocean Club and Suites",
+                "ro": "Sapphire Ocean Club and Suites",
+                "en": "Sapphire Ocean Club and Suites"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee am späten Nachmittag, wenn die Luft abkühlt; die Heizstrahler im Außenbereich werden oft früh eingeschaltet, um es den Gästen gemütlich zu machen.",
+                "hu": "Élvezze a késő délutáni kávét, ahogy a levegő hűlni kezd; a kültéri hősugárzókat gyakran korán bekapcsolják, hogy a vendégek kényelmesen élvezhessék a panorámát.",
+                "ro": "Savurați o cafea după-amiaza târziu, pe măsură ce aerul se răcește; încălzitoarele exterioare sunt adesea aprinse devreme pentru a menține confortul oaspeților.",
+                "en": "Arrive at the club and enjoy a late afternoon coffee as the air cools; outdoor heaters are often lit early to keep guests comfortable after the sun dips."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantamar Beach Club",
+                "hu": "Mantamar Beach Club",
+                "ro": "Mantamar Beach Club",
+                "en": "Mantamar Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Sonnenuntergang in der Lounge; nehmen Sie eine Jacke für den Weg zum Parkplatz mit, da die Temperatur nach Einbruch der Dunkelheit spürbar sinkt.",
+                "hu": "Zárja a napot a naplemente megtekintésével a kényelmes lounge-ból; vigyen kabátot a parkolóig tartó sétához, mert sötétedés után hirtelen esik a hőmérséklet.",
+                "ro": "Încheiați ziua urmărind apusul din confortul salonului; luați o jachetă pentru drumul spre parcare, deoarece temperatura scade simțitor după lăsarea întunericului.",
+                "en": "End your day watching the sunset from the comfort of the lounge; bring a jacket for the walk to the parking lot as the temperature drops quickly after dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

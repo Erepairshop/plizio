@@ -183,6 +183,224 @@
         "hu": "A reggel a falu központjában kezdődik, ahol a Cottage Museum és a Szent Mihály-templom bemutatja Rathbarry gazdag örökségét. A dél a zöldellő ír vidéken át a legendás Wart Well és a Castlefreke kastély felé vezet. A délután egy történelmi utazás, amely a hangulatos romtemplom mellett a dűnékig visz. Az este a The Long Strand partszakaszán, az óceán hullámai mellett éri a látogatókat.",
         "ro": "Dimineața începe în centrul satului, unde Muzeul Cottage și Biserica Sf. Mihail prezintă moștenirea bogată a Rathbarry. La amiază mergeți prin zona rurală verde spre legendarul Wart Well și Castelul Castlefreke. După-amiaza este o călătorie istorică, trecând pe lângă Biserica Ruinată până la dune. Seara cade pe The Long Strand, acompaniați de valurile liniștitoare ale oceanului Atlantic.",
         "en": "Morning begins in the village center, where the Cottage Museum and St Michael's Church introduce the rich heritage of Rathbarry. Midday takes you through the verdant Irish countryside towards the legendary Wart Well and Castlefreke Castle. The afternoon is a historical journey, passing the atmospheric Ruined Church before reaching the dunes. Evening falls on The Long Strand with ocean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt trocken im Cottage Museum, wo Sie die lokale Geschichte unter einem schützenden Reetdach erleben. Mittags bietet die St. Michael's Church einen ruhigen, überdachten Ort zum Innehalten. Am Nachmittag führt der Weg zu den Schlossruinen durch den Nebel; wasserfeste Schuhe sind für die aufgeweichten Pfade ein Muss. Den Abend verbringen wir am Long Strand, wo die raue See bei Regen besonders dramatisch wirkt.",
+            "hu": "A reggelt a Cottage Múzeum fedett tereiben kezdjük, ahol a nádtető megvéd a szemerkélő esőtől. Délben a Szent Mihály templom nyújt menedéket a látogatás idejére. Délután a kastélyromok és a templomromok felé vesszük az irányt; a vízálló bakancs elengedhetetlen a sárban. Az estét a Long Strand dűnéi között zárjuk, ahol a viharos óceán látványa az esőben is lenyűgöző és vadregényes.",
+            "ro": "Dimineața începe la adăpost în Cottage Museum, unde acoperișul de stuf vă protejează de ploaie în timp ce explorați istoria. La prânz, Biserica Sf. Mihail oferă un refugiu spiritual uscat. După-amiaza, vizităm ruinele castelului; potecile pot fi noroioase, deci încălțămintea impermeabilă este necesară. Seara se încheie pe Long Strand, unde spectacolul valurilor sub ploaie creează o atmosferă dramatică.",
+            "en": "Start your morning inside the Cottage Museum, where the traditional thatch provides a dry haven for historical discovery. By noon, St Michael's Church offers a peaceful indoor respite from the showers. The afternoon trek to the castle and ruined church requires sturdy waterproof boots for the muddy trails. End your day at Long Strand, where the misty rain enhances the wild, romantic atmosphere of the Atlantic coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cottage Museum",
+                "hu": "Cottage Museum",
+                "ro": "Cottage Museum",
+                "en": "Cottage Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die liebevoll restaurierten Räume im Inneren; das dichte Reetdach hält Sie garantiert trocken, während Sie in die Vergangenheit von Rathbarry eintauchen.",
+                "hu": "Fedezze fel a gondosan felújított belső tereket; a vastag nádtető garantáltan szárazon tartja, miközben elmerül Rathbarry múltjában a záporok idején.",
+                "ro": "Explorați camerele restaurate cu grijă; acoperișul gros de stuf vă va menține cu siguranță uscat în timp ce descoperiți trecutul satului Rathbarry.",
+                "en": "Explore the carefully restored interior rooms; the thick thatch roof is guaranteed to keep you dry while you dive into Rathbarry's local heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Church, Rathbarry",
+                "hu": "St Michael's Church, Rathbarry",
+                "ro": "St Michael's Church, Rathbarry",
+                "en": "St Michael's Church, Rathbarry"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster im Inneren der Kirche, die auch bei trübem Regenwetter eine andächtige Stimmung erzeugen und Schutz vor dem Wind bieten.",
+                "hu": "Csodálja meg a templom színes üvegablakait, amelyek borús időben is áhítatos hangulatot árasztanak, miközben az épület védelmet nyújt a szél ellen.",
+                "ro": "Admirați vitraliile din interiorul bisericii, care creează o atmosferă pioasă chiar și pe vreme ploioasă, oferind totodată protecție împotriva vântului.",
+                "en": "Admire the stained glass windows inside the church, which create a solemn atmosphere even on gray days, while providing a solid shield from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Wart Well",
+                "hu": "Wart Well",
+                "ro": "Wart Well",
+                "en": "Wart Well"
+              },
+              "tip_5lang": {
+                "de": "Dieser heilige Ort wirkt im Regen besonders mystisch; achten Sie auf den rutschigen Untergrund am Brunnenrand und tragen Sie rutschfeste Sohlen.",
+                "hu": "Ez a szent hely esőben különösen misztikus; ügyeljen a kút körüli csúszós talajra, és viseljen tapadós talpú bakancsot a látogatáshoz.",
+                "ro": "Acest loc sacru pare deosebit de mistic în ploaie; aveți grijă la terenul alunecos din jurul fântânii și purtați încălțăminte cu talpă aderentă.",
+                "en": "This sacred site feels particularly mystical in the rain; watch your footing on the slippery stones around the well and wear high-grip soles."
+              }
+            },
+            {
+              "name": {
+                "de": "Castlefreke Castle",
+                "hu": "Castlefreke Castle",
+                "ro": "Castlefreke Castle",
+                "en": "Castlefreke Castle"
+              },
+              "tip_5lang": {
+                "de": "Die imposante Schlossfassade wirkt bei grauem Himmel besonders herrschaftlich; nutzen Sie die großen Bäume im Park als natürlichen Regenschutz beim Fotografieren.",
+                "hu": "Az impozáns kastélyhomlokzat szürke égbolt alatt különösen méltóságteljes; fotózáskor használja a park óriási fáit természetes esővédőként.",
+                "ro": "Fațada impunătoare a castelului pare deosebit de maiestuoasă sub cerul gri; folosiți copacii mari din parc ca paravan natural împotriva ploii.",
+                "en": "The imposing castle facade looks especially grand under gray skies; use the large park trees as natural rain cover while framing your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined Church",
+                "hu": "Ruined Church",
+                "ro": "Ruined Church",
+                "en": "Ruined Church"
+              },
+              "tip_5lang": {
+                "de": "Die moosbedeckten Ruinen leuchten im Regen fast neongrün; die alten Mauern bieten stellenweise kleine Unterstände, um einen heftigen Schauer abzuwarten.",
+                "hu": "A mohás romok az esőben szinte világítanak; a régi falak helyenként apró menedéket nyújtanak, ahol kivárhat egy-egy hevesebb záport.",
+                "ro": "Ruinele acoperite de mușchi strălucesc intens în ploaie; zidurile vechi oferă pe alocuri mici adăposturi unde puteți aștepta trecerea unei averse.",
+                "en": "The moss-covered ruins glow vibrantly in the rain; the ancient walls provide occasional small shelters where you can wait out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand Dunes",
+                "hu": "Long Strand Dunes",
+                "ro": "Long Strand Dunes",
+                "en": "Long Strand Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen bieten zwischen den Gräsern etwas Schutz vor dem peitschenden Wind; tragen Sie eine winddichte Regenjacke für den exponierten Küstenabschnitt.",
+                "hu": "A dűnék fűszálai között némi menedéket talál a csípős szél elől; ezen a nyitott parton feltétlenül viseljen szélálló esőkabátot.",
+                "ro": "Dunele oferă un mic adăpost între firele de iarbă împotriva vântului tăios; purtați o jachetă impermeabilă și rezistentă la vânt pe coastă.",
+                "en": "The dunes offer some shelter from the biting wind among the tall grasses; be sure to wear a windproof raincoat on this exposed coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "The Long Strand",
+                "hu": "The Long Strand",
+                "ro": "The Long Strand",
+                "en": "The Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die heranrollenden Wellen vom oberen Rand des Strandes aus; der Regen macht den Sand fest und ideal für einen kurzen Spaziergang.",
+                "hu": "Figyelje a morajló hullámokat a part felső széléről; az eső keménnyé és könnyen járhatóvá teszi a homokot egy frissítő sétához.",
+                "ro": "Priviți valurile care se sparg de mal de la marginea plajei; ploaia face nisipul compact și ideal pentru o scurtă plimbare revigorantă.",
+                "en": "Watch the crashing waves from the upper edge of the beach; the rain packs the sand down, making it firm and perfect for a brisk walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt im beheizten Museum, wo Sie die Kälte draußen vergessen können. Mittags erkunden wir die Kirche und den Brunnen, die in der kargen Landschaft besonders friedlich wirken. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir das Schloss am frühen Nachmittag. Der Tag endet mit einem windigen Spaziergang am Strand, bevor wir uns vor der frühen Dunkelheit ins Warme zurückziehen.",
+            "hu": "A friss téli reggelt a fűtött Cottage Múzeumban indítjuk, elmerülve a helyi történelemben. Délben a templom és a szent kút felé vesszük az irányt, ahol a kopár táj csendje dominál. A kastélyromokat még a korai, 17:00-s naplemente előtt keressük fel az utolsó fényekben. Az estét a dűnék között, a sötétedő horizont mellett zárjuk, majd meleg helyre húzódunk.",
+            "ro": "Dimineața rece de iarnă începe în interiorul muzeului încălzit, oferind un start confortabil. La prânz, explorăm biserica și fântâna, care par suspendate în timp sub cerul palid. Vizităm castelul devreme, pentru a profita de lumină înainte de apusul de la ora 17:00. Seara se încheie la malul mării, cu briza înghețată a Atlanticului, înainte ca întunericul să se lase.",
+            "en": "Start your winter morning in the cozy warmth of the museum, learning about Rathbarry's past. By midday, the church and holy well offer a serene atmosphere in the crisp winter air. Plan to reach the castle and ruins by 15:00 to enjoy the daylight before the early 17:00 sunset. Conclude your day with a bracing coastal walk as the winter twilight turns to dark over the Long Strand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cottage Museum",
+                "hu": "Cottage Museum",
+                "ro": "Cottage Museum",
+                "en": "Cottage Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Atmosphäre im Inneren; das Museum ist der perfekte Ort, um sich an einem kalten Wintermorgen aufzuwärmen.",
+                "hu": "Élvezze a benti meghitt hangulatot; a múzeum tökéletes hely a bemelegedésre egy csípős téli reggelen, mielőtt útnak indulna a faluban.",
+                "ro": "Bucurați-vă de atmosfera primitoare din interior; muzeul este locul perfect pentru a vă încălzi într-o dimineață rece de iarnă.",
+                "en": "Enjoy the cozy indoor atmosphere; the museum is the perfect place to warm up on a biting winter morning before starting your outdoor exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Church, Rathbarry",
+                "hu": "St Michael's Church, Rathbarry",
+                "ro": "St Michael's Church, Rathbarry",
+                "en": "St Michael's Church, Rathbarry"
+              },
+              "tip_5lang": {
+                "de": "In der Stille der Kirche lässt sich die winterliche Ruhe besonders gut genießen; ziehen Sie sich warm an, da alte Steingebäude oft kühl bleiben.",
+                "hu": "A templom csendjében különösen jól átélhető a téli nyugalom; öltözzön rétegesen, mert a vastag kőfalak között télen hűvös lehet a levegő.",
+                "ro": "În liniștea bisericii puteți simți cel mai bine calmul iernii; îmbrăcați-vă bine, deoarece clădirile vechi de piatră rămân răcoroase.",
+                "en": "The silence of the church is ideal for experiencing winter serenity; dress in layers, as stone buildings can be quite chilly inside during December."
+              }
+            },
+            {
+              "name": {
+                "de": "Wart Well",
+                "hu": "Wart Well",
+                "ro": "Wart Well",
+                "en": "Wart Well"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser des Brunnens friert selten ein; bewundern Sie die klare Winterluft an diesem Ort, aber achten Sie auf gefrorene Pfützen auf dem Weg.",
+                "hu": "A kút vize télen is tiszta marad; csodálja meg a kristálytiszta levegőt ezen a szent helyen, de ügyeljen az úton lévő fagyott tócsákra.",
+                "ro": "Apa fântânii rămâne limpede și iarna; admirați aerul curat de iarnă în acest loc sacru, dar fiți atenți la bălțile înghețate de pe drum.",
+                "en": "The well water remains clear even in winter; enjoy the crisp air at this sacred spot, but watch out for frozen puddles on the approach path."
+              }
+            },
+            {
+              "name": {
+                "de": "Castlefreke Castle",
+                "hu": "Castlefreke Castle",
+                "ro": "Castlefreke Castle",
+                "en": "Castlefreke Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss vor 16 Uhr, um das warme Licht der tiefstehenden Wintersonne auf den grauen Mauern für Fotos zu nutzen.",
+                "hu": "Látogasson el a kastélyhoz délután 4 előtt, hogy a téli naplemente súroló fényei a legszebb arcát mutassák a szürke kőfalaknak.",
+                "ro": "Vizitați castelul înainte de ora 16:00 pentru a surprinde lumina caldă a soarelui de iarnă pe zidurile cenușii în fotografiile dumneavoastră.",
+                "en": "Visit the castle before 4 PM to capture the warm, low-angled winter sunlight hitting the gray stone walls for the best photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined Church",
+                "hu": "Ruined Church",
+                "ro": "Ruined Church",
+                "en": "Ruined Church"
+              },
+              "tip_5lang": {
+                "de": "Ohne das Laub der Bäume sind die Ruinen im Winter viel besser sichtbar; nutzen Sie das Tageslicht voll aus, bevor es im Wald früh dämmrig wird.",
+                "hu": "A fák lombja nélkül a romok télen sokkal jobban láthatóak; használja ki a nappali fényt, mielőtt az erdőben korán leszállna az alkonyat.",
+                "ro": "Fără frunzișul copacilor, ruinele sunt mult mai vizibile iarna; profitați de lumina zilei înainte ca amurgul să se lase devreme în pădure.",
+                "en": "Without the tree canopy, the ruins are much more visible in winter; make the most of the daylight before dusk settles early in the woods."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand Dunes",
+                "hu": "Long Strand Dunes",
+                "ro": "Long Strand Dunes",
+                "en": "Long Strand Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen leuchten im fahlen Winterlicht silbrig; tragen Sie eine Mütze und Handschuhe gegen den eiskalten Wind vom Atlantik.",
+                "hu": "A dűnék ezüstösen csillognak a fakó téli fényben; viseljen sapkát és kesztyűt az Atlanti-óceán felől érkező jéghideg szél ellen.",
+                "ro": "Dunele strălucesc argintiu în lumina palidă de iarnă; purtați căciulă și mănuși împotriva vântului înghețat care bate dinspre Atlantic.",
+                "en": "The dunes shimmer with a silvery hue in the pale winter light; wear a hat and gloves against the freezing wind blowing off the Atlantic."
+              }
+            },
+            {
+              "name": {
+                "de": "The Long Strand",
+                "hu": "The Long Strand",
+                "ro": "The Long Strand",
+                "en": "The Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den spektakulären Winterhimmel bei Sonnenuntergang gegen 17:00 Uhr; die klare Luft bietet oft eine unglaubliche Fernsicht über das Meer.",
+                "hu": "Élvezze a lenyűgöző téli égboltot a 17:00 körüli naplementekor; a tiszta levegő ilyenkor hihetetlen látótávolságot biztosít a tenger felett.",
+                "ro": "Bucurați-vă de cerul spectaculos la apus, în jurul orei 17:00; aerul curat oferă adesea o vizibilitate incredibilă asupra mării.",
+                "en": "Enjoy the spectacular winter sky at sunset around 5 PM; the crisp air often provides incredible visibility across the ocean horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a túrát a Toberruane-nál, élvezve a kora reggeli békét, mielőtt a falu kulturális szívébe, a Szent Mihály-templomhoz tekerne. A déli kerékpározás a Cottage Múzeumtól a Wart Well és a Castlefreke történelmi csodái felé vezet. A délutánt a romtemplom és a finom dűne ökoszisztémák felfedezésével töltheti. A The Long Strand naplementéje tökéletes befejezést nyújt.",
         "ro": "Începeți plimbarea la Toberruane, absorbind pacea dimineții înainte de a pedala spre inima culturală a satului la Biserica Sf. Mihail. Plimbarea de prânz vă duce de la Muzeul Cottage spre minunile istorice de la Wart Well și Castelul Castlefreke. Petreceți după-amiaza explorând Biserica Ruinată și ecosistemele dunelor. Apusul la The Long Strand oferă un final absolut perfect.",
         "en": "Start your ride at Toberruane, soaking in the early morning peace before cycling down to the village's cultural heart at St Michael's Church. Midday riding leads you from the fascinating Cottage Museum towards the historical marvels of Wart Well and Castlefreke Castle. Spend the afternoon exploring the Ruined Church and the delicate dune ecosystems. Sunset at The Long Strand provides a perfect end."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert Vorsicht auf den Landstraßen rund um Rathbarry. Wir starten in Toberruane und fahren zur Kirche und zum Museum, um dort längere Pausen im Trockenen einzulegen. Am Nachmittag geht es zu den Schlossruinen; achten Sie auf glitschiges Laub und Pfützen auf den Wegen. Der Abend am Long Strand bietet trotz Regen eine erfrischende Brise, sofern die Regenkleidung hält.",
+            "hu": "Az esős kerékpáros nap óvatosságot igényel a Rathbarry környéki utakon. Toberruane-ból indulunk, majd a templomnál és a múzeumnál tartunk hosszabb, fedett pihenőket. Délután a kastélyromok felé tekerünk; ügyeljen a csúszós levelekre és a pocsolyákra az utakon. Az este a Long Strand partján esőben is frissítő, ha a vízálló öltözetünk megfelelően véd.",
+            "ro": "O zi de ciclism pe ploaie necesită prudență pe drumurile din jurul satului Rathbarry. Pornim din Toberruane și facem pauze lungi la biserică și muzeu pentru a rămâne uscați. După-amiaza pedalăm spre ruinele castelului; atenție la frunzele umede și bălțile de pe carosabil. Seara la Long Strand este revigorantă chiar și pe ploaie, dacă echipamentul este impermeabil.",
+            "en": "A rainy cycling day demands caution on the coastal roads. Start at Toberruane, then plan extended indoor breaks at the church and museum. In the afternoon, cycle to the castle ruins; watch out for slippery wet leaves and deep puddles on the backroads. End the day at Long Strand, where the rain-washed air is invigorating if you have full waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toberruane",
+                "hu": "Toberruane",
+                "ro": "Toberruane",
+                "en": "Toberruane"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; dieser historische Ort ist schnell besichtigt, bevor Sie zum nächsten trockenen Stopp weiterradeln.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben; ezt a történelmi pontot gyorsan megtekintheti, mielőtt továbbtekerne a következő fedett megállóig.",
+                "ro": "Verificați frânele înainte de a pleca pe ploaie; acest loc istoric poate fi vizitat rapid înainte de a pedala spre următorul punct la adăpost.",
+                "en": "Check your brakes before setting off in the rain; this historic spot is a quick visit before pedaling on to the next dry shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Church, Rathbarry",
+                "hu": "St Michael's Church, Rathbarry",
+                "ro": "St Michael's Church, Rathbarry",
+                "en": "St Michael's Church, Rathbarry"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen ab und nutzen Sie die Kirche als windgeschützten Ort, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
+                "hu": "Támassza le a kerékpárt a fák alá, és használja a templomot szélvédett helyként, ahol megigazíthatja esőfelszerelését a folytatás előtt.",
+                "ro": "Parcați bicicleta sub copaci și folosiți biserica ca loc ferit de vânt pentru a vă ajusta echipamentul de ploaie înainte de a continua.",
+                "en": "Park your bike under the trees and use the church as a wind-sheltered spot to adjust your rain gear before heading back onto the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Cottage Museum",
+                "hu": "Cottage Museum",
+                "ro": "Cottage Museum",
+                "en": "Cottage Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die nassen Handschuhe kurz abzulegen und sich im Inneren des Museums aufzuwärmen, während draußen der Schauer vorbeizieht.",
+                "hu": "Ideális megálló, hogy levegye a vizes kesztyűket és bemelegedjen a múzeumban, amíg kint elvonul egy hevesebb esőzés.",
+                "ro": "Un popas ideal pentru a lăsa mănușile ude deoparte și pentru a vă încălzi în interiorul muzeului în timp ce afară trece o aversă.",
+                "en": "An ideal stop to take off wet gloves and warm up inside the museum while waiting for a heavy shower to pass over the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Wart Well",
+                "hu": "Wart Well",
+                "ro": "Wart Well",
+                "en": "Wart Well"
+              },
+              "tip_5lang": {
+                "de": "Der schmale Zugang zum Brunnen kann bei Regen schlammig sein; stellen Sie Ihr Rad sicher am befestigten Wegrand ab.",
+                "hu": "A kúthoz vezető keskeny ösvény esőben saras lehet; támassza le a kerékpárt biztonságosan a szilárd útburkolat szélén.",
+                "ro": "Accesul îngust la fântână poate fi noroios pe ploaie; lăsați bicicleta în siguranță la marginea drumului asfaltat.",
+                "en": "The narrow access to the well can get quite muddy in the rain; park your bike securely at the edge of the paved road instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Castlefreke Castle",
+                "hu": "Castlefreke Castle",
+                "ro": "Castlefreke Castle",
+                "en": "Castlefreke Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Radfahren im Schlosspark auf nasse Wurzeln; die majestätische Ruine bietet bei Regen eine besonders mystische Fotokulisse.",
+                "hu": "A kastélyparkban tekerve ügyeljen a nedves gyökerekre; a fenséges romok esőben különösen misztikus hátteret nyújtanak a fotókhoz.",
+                "ro": "Aveți grijă la rădăcinile umede când pedalați prin parcul castelului; ruinele maiestuoase oferă un decor mistic pentru fotografii pe ploaie.",
+                "en": "Watch out for wet tree roots while cycling through the castle park; the majestic ruins provide a hauntingly beautiful backdrop in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined Church",
+                "hu": "Ruined Church",
+                "ro": "Ruined Church",
+                "en": "Ruined Church"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Ruine kann bei Nässe rutschig sein; drosseln Sie Ihr Tempo und genießen Sie die kühle, saubere Regenluft im Wald.",
+                "hu": "A romhoz vezető lejtő nedves időben csúszós lehet; lassítson le, és élvezze az erdő hűvös, tiszta illatát az esőben.",
+                "ro": "Coborârea spre ruină poate fi alunecoasă pe carosabil umed; încetiniți și bucurați-vă de aerul curat și răcoros al pădurii în ploaie.",
+                "en": "The descent to the ruins can be slick when wet; reduce your speed and enjoy the cool, clean scent of the forest in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand Dunes",
+                "hu": "Long Strand Dunes",
+                "ro": "Long Strand Dunes",
+                "en": "Long Strand Dunes"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an den Dünen kann Radfahrer stark fordern; halten Sie den Lenker bei Böen fest und nutzen Sie die Dünen als Windschutz.",
+                "hu": "A dűnéknél a szél próbára teheti a kerékpárosokat; fogja erősen a kormányt a széllökésekben, és használja a dűnéket szélfogóként.",
+                "ro": "Vântul de la dune poate fi o provocare pentru bicicliști; țineți bine ghidonul la rafale și folosiți dunele ca paravan.",
+                "en": "The wind at the dunes can be challenging for cyclists; grip your handlebars firmly during gusts and use the dunes for a quick break."
+              }
+            },
+            {
+              "name": {
+                "de": "The Long Strand",
+                "hu": "The Long Strand",
+                "ro": "The Long Strand",
+                "en": "The Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour mit einem Blick auf die tosende Gischt; eine warme Dusche nach dieser regnerischen Küstenfahrt ist jetzt genau das Richtige.",
+                "hu": "Zárja a túrát a tajtékzó hullámok látványával; egy meleg zuhany az esős tengerparti tekerés után most a legjobb jutalom lesz.",
+                "ro": "Încheiați tura cu priveliștea valurilor înspumate; un duș cald după această plimbare ploioasă pe coastă va fi recompensa perfectă.",
+                "en": "Finish your ride with a view of the crashing surf; a warm shower after this rain-soaked coastal cycle will be the perfect reward."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Rathbarry erfordert warme Schichten und gute Sichtbarkeit. Wir starten in Toberruane und nutzen das Tageslicht für die Fahrt zur Kirche und zum Museum. Am Mittag bietet das Museum eine willkommene Aufwärmpause. Besuchen Sie das Schloss am frühen Nachmittag, da die Straßen nach dem Sonnenuntergang um 17:00 Uhr schnell auskühlen und glatt werden können. Den Abschluss bildet der weite Blick über den winterlichen Atlantik.",
+            "hu": "A téli kerékpározás Rathbarry-ben meleg rétegeket és jó láthatóságot igényel. Toberruane-ból indulunk, kihasználva a nappali fényt a templom és a múzeum felé. Délben a múzeum kiváló hely a bemelegedésre. A kastélyhoz még kora délután tekerjünk el, mert a 17:00-s naplemente után az utak gyorsan lehűlnek és jegessé válhatnak. A napot az Atlanti-óceán téli látványával zárjuk.",
+            "ro": "Ciclismul de iarnă în Rathbarry necesită haine groase și vizibilitate bună. Pornim din Toberruane, profitând de lumina zilei spre biserică și muzeu. La prânz, muzeul oferă o pauză binemeritată pentru încălzire. Vizitați castelul devreme, deoarece după apusul de la ora 17:00 drumurile se răcesc rapid și pot deveni alunecoase. Încheiem cu o priveliște superbă asupra Atlanticului.",
+            "en": "Winter cycling in Rathbarry requires warm layers and high visibility. Start at Toberruane, making the most of the daylight for the church and museum visits. At noon, the museum provides a welcome warm-up break. Visit the castle in the early afternoon, as roads cool down quickly and can become icy after the 17:00 sunset. End your ride with a stunning view of the winter Atlantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toberruane",
+                "hu": "Toberruane",
+                "ro": "Toberruane",
+                "en": "Toberruane"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um warm zu werden; die klare Winterluft an diesem Landmark bietet einen erfrischenden Start in den Tag.",
+                "hu": "Kezdje tempósan a tekerést, hogy bemelegedjen; a kristálytiszta téli levegőnél ennél a pontnál nincs is frissítőbb start.",
+                "ro": "Porniți într-un ritm alert pentru a vă încălzi; aerul curat de iarnă de la acest punct oferă un start revigorant pentru zi.",
+                "en": "Start with a steady pace to build body heat; the crisp winter air at this landmark provides an invigorating beginning to your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Church, Rathbarry",
+                "hu": "St Michael's Church, Rathbarry",
+                "ro": "St Michael's Church, Rathbarry",
+                "en": "St Michael's Church, Rathbarry"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Trinkpause; im Winter vergisst man oft das Trinken, auch wenn die Kälte den Körper fordert.",
+                "hu": "Használja ki a megállót egy rövid ivószünetre; télen gyakran elfelejtjük a hidratálást, pedig a hideg is igénybe veszi a szervezetet.",
+                "ro": "Folosiți oprirea pentru o scurtă hidratare; iarna uităm adesea să bem apă, deși frigul solicită organismul în timpul efortului.",
+                "en": "Use this stop for a quick hydration break; in winter, it's easy to forget to drink water even though the cold demands energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cottage Museum",
+                "hu": "Cottage Museum",
+                "ro": "Cottage Museum",
+                "en": "Cottage Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Warmen; tauen Sie Ihre Finger auf, bevor Sie die nächste Etappe der Tour antreten.",
+                "hu": "Tökéletes hely egy hosszabb, melegedő pihenőhöz; engedje ki átfagyott ujjait a múzeumban, mielőtt nekivágna a túra következő szakaszának.",
+                "ro": "Locul perfect pentru o pauză lungă la căldură; lăsați-vă degetele să se dezghețe înainte de a porni în următoarea etapă a turei.",
+                "en": "The perfect location for an extended indoor break; thaw out your fingers in the museum's warmth before starting the next leg of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Wart Well",
+                "hu": "Wart Well",
+                "ro": "Wart Well",
+                "en": "Wart Well"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Wasser auf dem Pfad zum Brunnen; steigen Sie bei Glätte lieber kurz vom Rad ab und schieben Sie.",
+                "hu": "Ügyeljen a fagyott vízre a kúthoz vezető ösvényen; ha jegesnek találja a talajt, inkább szálljon le és tolja a kerékpárt.",
+                "ro": "Fiți atenți la gheața de pe poteca spre fântână; dacă este alunecos, mai bine coborâți de pe bicicletă și mergeți pe lângă ea.",
+                "en": "Watch for ice patches on the path to the well; if it looks slippery, it's safer to dismount and walk your bike for a few yards."
+              }
+            },
+            {
+              "name": {
+                "de": "Castlefreke Castle",
+                "hu": "Castlefreke Castle",
+                "ro": "Castlefreke Castle",
+                "en": "Castlefreke Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im harten Winterlicht besonders fotogen; nutzen Sie die Zeit vor 16 Uhr für die besten Aufnahmen bei Tageslicht.",
+                "hu": "A kastély a kemény téli fényekben különösen fotogén; használja ki a délután 4 előtti időt a legjobb nappali felvételekhez.",
+                "ro": "Castelul este foarte fotogenic în lumina aspră a iernii; profitați de timpul înainte de ora 16:00 pentru cele mai bune fotografii.",
+                "en": "The castle is strikingly photogenic in the harsh winter light; make sure to arrive before 4 PM for the best daylight photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined Church",
+                "hu": "Ruined Church",
+                "ro": "Ruined Church",
+                "en": "Ruined Church"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die gesamte Struktur der Ruine frei; achten Sie auf kühle Abwinde im Schatten des Waldes.",
+                "hu": "A kopasz fák között feltárul a romok teljes szerkezete; ügyeljen a hűvös fuvallatokra az erdő árnyékosabb részein.",
+                "ro": "Copacii golași permit vizualizarea întregii structuri a ruinei; atenție la curenții de aer reci din zonele umbrite ale pădurii.",
+                "en": "The bare trees reveal the full scale of the ruins; be mindful of cold air pockets in the shaded sections of the wooded path."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand Dunes",
+                "hu": "Long Strand Dunes",
+                "ro": "Long Strand Dunes",
+                "en": "Long Strand Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne lässt die Dünen golden leuchten; halten Sie den Stopp kurz, um nicht in die eisige Abenddämmerung zu kommen.",
+                "hu": "Az alacsonyan járó nap arany színbe vonja a dűnéket; tartsa röviden a megállót, hogy ne érje útközben a fagyos esti szürkület.",
+                "ro": "Soarele jos colorează dunele în auriu; faceți o oprire scurtă pentru a nu fi surprinși de amurgul înghețat pe drumul de întoarcere.",
+                "en": "The low sun paints the dunes in golden tones; keep this stop brief so you aren't caught out by the freezing evening twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "The Long Strand",
+                "hu": "The Long Strand",
+                "ro": "The Long Strand",
+                "en": "The Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den Atlantik, bevor das Licht schwindet; schalten Sie für die Rückfahrt unbedingt Ihr Fahrradlicht ein.",
+                "hu": "Még egy utolsó pillantás az Atlanti-óceánra, mielőtt elfogynak a fények; a visszaútra mindenképpen kapcsolja be a kerékpárvilágítást.",
+                "ro": "O ultimă privire spre Atlantic înainte ca lumina să dispară; nu uitați să aprindeți luminile bicicletei pentru drumul de întoarcere.",
+                "en": "One last look at the Atlantic before the light fades; be sure to switch on your bike lights for the ride back to your base."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "Az autózás egy gyors megállóval kezdődik Toberruane-nál, mielőtt Rathbarry felé venné az irányt a Szent Mihály-templom és a Cottage Múzeum megtekintésére. Délre már a festői vidéki utakon navigál a misztikus Wart Well és a Castlefreke kastély felé. A délutáni út az ősi romtemplomot köti össze a lélegzetelállító dűnékkel. Pihenjen a tengerparton a naplementéig.",
         "ro": "Călătoria cu mașina începe la Toberruane înainte de a vă îndrepta spre Rathbarry pentru a vizita Biserica Sf. Mihail și Muzeul Cottage. La prânz, navigați pe drumurile pitorești de țară pentru a explora misticul Wart Well și impunătorul Castel Castlefreke. După-amiaza conectează Biserica Ruinată cu uimitoarele dune de la The Long Strand. Relaxați-vă la malul mării până seara târziu.",
         "en": "Your drive begins with a quick stop at Toberruane before heading into Rathbarry to visit St Michael's Church and the insightful Cottage Museum. By midday, you are navigating the scenic country lanes to explore the mystical Wart Well and the imposing Castlefreke Castle. The afternoon drive connects the ancient Ruined Church with the breathtaking Long Strand Dunes. Unwind by the sea until evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Rathbarry auch bei Regen bequem zu erkunden. Wir starten in Toberruane und fahren zur Kirche und zum Museum, wo Sie trocken parken können. Das Museum bietet Schutz vor den Schauern. Am Nachmittag besuchen wir das Schloss und die Ruinen; kurze Fußwege vom Parkplatz erfordern dennoch Schirm oder Regenjacke. Der Tag endet mit dem Blick auf die tosende See am Long Strand vom warmen Auto aus.",
+            "hu": "Autóval Rathbarry esőben is kényelmesen felfedezhető. Toberruane-ból indulunk, majd a templom és a múzeum közelében parkolunk, így szárazon maradhatunk. A múzeum remek menedék a záporok elől. Délután a kastélyt és a romokat keressük fel; a parkolótól tartó rövid sétákhoz vigyen esernyőt. A napot a Long Strand partján zárjuk, a viharos tenger látványát a meleg autóból is élvezheti.",
+            "ro": "Cu mașina, Rathbarry poate fi explorat confortabil chiar și pe ploaie. Pornim din Toberruane și parcăm aproape de biserică și muzeu pentru a rămâne uscați. Muzeul este un refugiu excelent împotriva ploii. După-amiaza vizităm castelul și ruinele; scurtele plimbări de la parcare necesită umbrelă. Încheiem ziua la Long Strand, admirând marea agitată din confortul mașinii.",
+            "en": "Exploring Rathbarry by car is comfortable even in heavy rain. Start at Toberruane, with easy parking near the church and museum. The museum is a perfect hideout during downpours. In the afternoon, visit the castle and ruins; though the walks from the car are short, keep an umbrella handy. End your day at Long Strand, enjoying the dramatic view of the surf from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toberruane",
+                "hu": "Toberruane",
+                "ro": "Toberruane",
+                "en": "Toberruane"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Straßenrand; dieser historische Punkt lässt sich auch bei Regen schnell besichtigen, bevor Sie zum nächsten Ziel fahren.",
+                "hu": "Parkoljon biztonságosan az út szélén; ez a történelmi pont esőben is gyorsan megtekinthető, mielőtt továbbhajtana a következő célpontig.",
+                "ro": "Parcați în siguranță pe marginea drumului; acest punct istoric poate fi vizitat rapid chiar și pe ploaie înainte de a merge mai departe.",
+                "en": "Park safely on the roadside; this historical landmark can be appreciated quickly in the rain before driving to your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Church, Rathbarry",
+                "hu": "St Michael's Church, Rathbarry",
+                "ro": "St Michael's Church, Rathbarry",
+                "en": "St Michael's Church, Rathbarry"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten nahe der Kirche machen den Zugang auch bei Regen einfach; genießen Sie die trockene, andächtige Stille im Inneren.",
+                "hu": "A templom közeli parkolási lehetőség egyszerűvé teszi a bejutást esőben is; élvezze a benti száraz, áhítatos csendet a látogatás alatt.",
+                "ro": "Parcarea din apropierea bisericii facilitează accesul chiar și pe ploaie; bucurați-vă de liniștea uscată și pioasă din interior.",
+                "en": "Convenient parking near the church makes access easy even during showers; enjoy the dry, contemplative silence inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Cottage Museum",
+                "hu": "Cottage Museum",
+                "ro": "Cottage Museum",
+                "en": "Cottage Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als perfekte Regenpause; die Ausstellungen im Inneren lassen Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Használja ki a múzeumlátogatást tökéletes esőszünetként; a benti kiállítások mellett teljesen megfeledkezhet a kinti rossz időről.",
+                "ro": "Folosiți vizita la muzeu ca o pauză perfectă de ploaie; expozițiile din interior vă vor face să uitați de vremea rea de afară.",
+                "en": "Use your museum visit as the ultimate rain break; the indoor exhibits will make you completely forget about the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wart Well",
+                "hu": "Wart Well",
+                "ro": "Wart Well",
+                "en": "Wart Well"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Regenjacke im Auto, bis Sie direkt am Zugang sind; der kurze Weg zum Brunnen kann bei Nässe etwas rutschig sein.",
+                "hu": "Hagyja az esőkabátot az autóban, amíg közvetlenül a bejárathoz nem ér; a kúthoz vezető rövid út nedves időben kissé csúszós lehet.",
+                "ro": "Lăsați jacheta în mașină până când ajungeți chiar la intrare; scurtul drum spre fântână poate fi puțin alunecos pe ploaie.",
+                "en": "Keep your raincoat in the car until you're right at the entrance; the short path to the well can be a bit slick when it's wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Castlefreke Castle",
+                "hu": "Castlefreke Castle",
+                "ro": "Castlefreke Castle",
+                "en": "Castlefreke Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die schmalen Zufahrtswege zum Schloss, da sich in Kurven bei Regen oft große Pfützen bilden können.",
+                "hu": "Hajtson lassan a kastélyhoz vezető keskeny utakon, mivel az esőben a kanyarokban gyakran mélyebb pocsolyák alakulhatnak ki.",
+                "ro": "Conduceți încet pe drumurile înguste spre castel, deoarece pe ploaie se pot forma bălți adânci în curbe.",
+                "en": "Drive slowly on the narrow approach roads to the castle, as deep puddles often form in the bends during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined Church",
+                "hu": "Ruined Church",
+                "ro": "Ruined Church",
+                "en": "Ruined Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für den kurzen Weg vom Auto zur Ruine ideal; die nassen Steinmauern haben im Regen eine besonders satte Farbe.",
+                "hu": "Egy esernyő ideális az autótól a romokig tartó rövid útra; a nedves kőfalak színe esőben különösen mély és telt lesz.",
+                "ro": "O umbrelă este ideală pentru scurtul drum de la mașină la ruine; zidurile de piatră umede au o culoare deosebit de intensă în ploaie.",
+                "en": "An umbrella is perfect for the short walk from the car to the ruins; the wet stone walls take on a deep, rich color in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand Dunes",
+                "hu": "Long Strand Dunes",
+                "ro": "Long Strand Dunes",
+                "en": "Long Strand Dunes"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie bereits einen tollen Blick; ein kurzer Gang in die Dünen erfordert windfeste Kleidung bei diesem Wetter.",
+                "hu": "A parkolóból is nagyszerű a kilátás; egy rövid séta a dűnék között ilyenkor szélálló öltözetet igényel a part mentén.",
+                "ro": "Aveți o priveliște minunată chiar din parcare; o scurtă plimbare prin dune necesită haine rezistente la vânt pe această vreme.",
+                "en": "You get a great view right from the parking area; a short stroll into the dunes will require windproof clothing in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "The Long Strand",
+                "hu": "The Long Strand",
+                "ro": "The Long Strand",
+                "en": "The Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den wilden Atlantik gemütlich vom Auto aus, falls der Regen zu stark für einen Strandspaziergang wird.",
+                "hu": "Élvezze a vad Atlanti-óceán látványát kényelmesen az autóból, ha az eső túl erőssé válna a tengerparti sétához.",
+                "ro": "Bucurați-vă de priveliștea Atlanticului sălbatic din confortul mașinii, dacă ploaia devine prea puternică pentru o plimbare pe plajă.",
+                "en": "Enjoy the view of the wild Atlantic from the comfort of your car if the rain becomes too heavy for a walk along the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Ausflug nach Rathbarry mit dem Auto bietet Komfort und Flexibilität. Wir starten in Toberruane und fahren zur Kirche und zum Museum. Das Museum ist der ideale Ort, um die Kälte draußen zu vergessen. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Besuch des Schlosses für den frühen Nachmittag ein. Den Tag lassen wir mit dem Blick auf den winterlichen Strand ausklingen, bevor es im Dunkeln zurückgeht.",
+            "hu": "A téli autós kirándulás Rathbarry-ben kényelmet és rugalmasságot nyújt. Toberruane-ból indulunk, majd a templomhoz és a múzeumhoz hajtunk. A múzeum ideális hely a téli hideg elől való behúzódásra. Mivel a nap 17:00 körül nyugszik, a kastély látogatását kora délutánra időzítjük. A napot a téli tengerpart látványával zárjuk, mielőtt a sötétben útnak indulnánk vissza.",
+            "ro": "O excursie de iarnă cu mașina în Rathbarry oferă confort și flexibilitate. Pornim din Toberruane și mergem spre biserică și muzeu. Muzeul este locul ideal pentru a scăpa de gerul de afară. Deoarece soarele apune în jur de ora 17:00, planificăm vizita la castel pentru începutul după-amiezii. Încheiem ziua cu priveliștea plajei hibernale înainte de a porni înapoi pe întuneric.",
+            "en": "A winter road trip to Rathbarry offers maximum comfort and flexibility. Start at Toberruane and head to the church and museum. The museum's interior is the perfect place to warm up. Since the sun sets around 17:00, time your castle visit for the early afternoon. Conclude your day with a scenic view of the winter coastline before heading back as the early darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toberruane",
+                "hu": "Toberruane",
+                "ro": "Toberruane",
+                "en": "Toberruane"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bei winterlicher Kälte; die Parkmöglichkeit direkt am Landmark macht den Stopp kurz und unkompliziert.",
+                "hu": "Élvezze a tiszta kilátást a téli hidegben; a közvetlenül a pontnál lévő parkolási lehetőség rövid és egyszerű megállót tesz lehetővé.",
+                "ro": "Bucurați-vă de vizibilitatea clară în frigul iernii; posibilitatea de a parca direct lângă monument face oprirea scurtă și simplă.",
+                "en": "Enjoy the crystal-clear views in the winter cold; parking right by the landmark makes for a quick and easy photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Church, Rathbarry",
+                "hu": "St Michael's Church, Rathbarry",
+                "ro": "St Michael's Church, Rathbarry",
+                "en": "St Michael's Church, Rathbarry"
+              },
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor der Weiterfahrt kurz auf; die Kirche ist im Winter kühl, aber ihre architektonische Ruhe ist einen kurzen Stopp wert.",
+                "hu": "Fűtse fel az autót a továbbhaladás előtt; a templom télen hűvös, de építészeti nyugalma megér egy rövid megállót a látogatáskor.",
+                "ro": "Încălziți mașina înainte de a pleca mai departe; biserica este răcoroasă iarna, dar liniștea sa arhitecturală merită o scurtă oprire.",
+                "en": "Warm up the car before driving on; the church is chilly in winter, but its architectural serenity is well worth a brief visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Cottage Museum",
+                "hu": "Cottage Museum",
+                "ro": "Cottage Museum",
+                "en": "Cottage Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Ort für eine ausgiebige Aufwärmpause; das beheizte Museum bietet einen gemütlichen Kontrast zur winterlichen Außenluft.",
+                "hu": "Használja ki ezt a helyet egy alapos bemelegedésre; a fűtött múzeum hangulatos kontrasztot nyújt a kinti téli levegővel szemben.",
+                "ro": "Folosiți acest loc pentru o pauză lungă de încălzire; muzeul încălzit oferă un contrast primitor față de aerul rece de afară.",
+                "en": "Take advantage of this spot for an extended warm-up break; the heated museum offers a cozy contrast to the biting winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wart Well",
+                "hu": "Wart Well",
+                "ro": "Wart Well",
+                "en": "Wart Well"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Straßenglätte bei der Anfahrt; der Brunnen ist in der winterlichen Stille ein besonders friedvoller Ort für einen Moment.",
+                "hu": "Ügyeljen az utak csúszósságára az odaúton; a kút a téli csendben különösen békés hely egy rövid elmélyüléshez.",
+                "ro": "Atenție la polei pe drumul spre fântână; monumentul este un loc deosebit de liniștit în tăcerea iernii pentru un moment de reculegere.",
+                "en": "Be mindful of potentially icy roads on the approach; the well is a particularly peaceful spot in the winter silence for a brief moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Castlefreke Castle",
+                "hu": "Castlefreke Castle",
+                "ro": "Castlefreke Castle",
+                "en": "Castlefreke Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss am frühen Nachmittag, um das beste Tageslicht für Fotos der imposanten Anlage zu nutzen, bevor es dämmert.",
+                "hu": "Látogassa meg a kastélyt kora délután, hogy a legjobb nappali fényeket használhassa ki az impozáns épület fotózásához, mielőtt bealkonyodik.",
+                "ro": "Vizitați castelul la începutul după-amiezii pentru a profita de cea mai bună lumină de zi pentru fotografii înainte de amurg.",
+                "en": "Visit the castle in the early afternoon to secure the best daylight for photographing the imposing structure before dusk arrives."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruined Church",
+                "hu": "Ruined Church",
+                "ro": "Ruined Church",
+                "en": "Ruined Church"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schattigen Waldwegen, da dort Reif länger auf der Fahrbahn bleiben kann; die Ruine ist im Winter gut sichtbar.",
+                "hu": "Hajtson óvatosan az árnyékos erdei utakon, mivel ott a dér tovább megmaradhat az úttesten; a romok télen jól láthatóak a fák közt.",
+                "ro": "Conduceți cu atenție pe drumurile umbrite din pădure, deoarece chiciura poate persista pe carosabil; ruinele sunt bine vizibile iarna.",
+                "en": "Drive carefully on the shaded forest roads, as frost can linger on the surface; the ruins are clearly visible through the bare trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Strand Dunes",
+                "hu": "Long Strand Dunes",
+                "ro": "Long Strand Dunes",
+                "en": "Long Strand Dunes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr direkt vom Parkplatz aus; die winterlichen Farben über den Dünen sind oft spektakulär.",
+                "hu": "Élvezze a 17:00 körüli naplementét közvetlenül a parkolóból; a dűnék feletti téli színek ilyenkor gyakran lenyűgözőek.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct din parcare; culorile iernii peste dune sunt adesea spectaculoase în acest moment.",
+                "en": "Enjoy the 5 PM sunset directly from the parking area; the winter colors over the dunes are often spectacular at this time of day."
+              }
+            },
+            {
+              "name": {
+                "de": "The Long Strand",
+                "hu": "The Long Strand",
+                "ro": "The Long Strand",
+                "en": "The Long Strand"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf das weite Meer bei einsetzender Dunkelheit; schalten Sie das Abblendlicht ein, da die Küstenstraßen unbeleuchtet sind.",
+                "hu": "Még egy utolsó pillantás a tágas tengerre a sötétedés beálltakor; kapcsolja be a tompított fényt, mert a parti utak kivilágítatlanok.",
+                "ro": "O ultimă privire spre mare la lăsarea întunericului; aprindeți faza scurtă, deoarece drumurile de coastă sunt neiluminate.",
+                "en": "One last look at the vast ocean as darkness falls; be sure to turn on your headlights, as the coastal backroads are unlit."
+              }
+            }
+          ]
+        }
       }
     }
   }

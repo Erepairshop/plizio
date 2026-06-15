@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Marina di Cecina szívében a kis templom felfedezésével és az ókori Róma történelmének megismerésével. Dél körül sétáljon végig a gyönyörű tengerparton, és élvezze a csendes Gorette Sud strandot. Délután a helyi élményfürdő kínál szórakozást és felfrissülést az egész családnak. Az este pihentetően ér véget a tengerparton, ahol a hullámok zúgása tökéletes atmoszférát biztosít.",
         "ro": "Începeți ziua în inima Marinei di Cecina explorând mica biserică și scufundându-vă în istoria romană antică. Pe la prânz, plimbați-vă de-a lungul coastei frumoase și bucurați-vă de plaja liniștită de la Gorette Sud. După-amiaza, parcul acvatic aduce distracție și răcorire pentru întreaga familie. Seara se încheie relaxant pe malul mării, unde sunetul valurilor creează o atmosferă perfectă pentru cină.",
         "en": "Start your day in the heart of Marina di Cecina by exploring the small church and diving into ancient Roman history. Around noon, take a leisurely stroll along the beautiful coastline and enjoy the quiet beach of Gorette Sud. In the afternoon, the local water park brings endless fun and refreshment for the whole family. The evening ends in a relaxing way by the sea, listening to the gentle sound of the waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt in der Kirche von Cecina Mare, während der Regen gegen die Fenster trommelt. Mittags bieten die antiken Ruinen der Villa San Vincenzino trotz Feuchtigkeit faszinierende Einblicke, da die Mosaike im Regen kräftiger leuchten. Nachmittags wird es am Strand mystisch, wenn der Nebel über die Dünen zieht. Abends bietet die Küstenpromenade trotz Pfützen eine dramatische Kulisse mit aufpeitschenden Wellen.",
+            "hu": "A reggelt a Cecina Mare-i templom belső nyugalmában kezdjük, elrejtőzve az eső elől. Délben a San Vincenzino villa romjai között a nedves kövek és mozaikok színei még élénkebben ragyognak a borús fényben. Délután a fenyvesek mentén sétálva a fák lombjai adnak némi menedéket a szemerkélő esőben. Este a viharos tenger látványa a partról lenyűgöző, ha megfelelően vízhatlan öltözetben indulunk útnak.",
+            "ro": "Începeți dimineața la adăpost în biserica din Cecina Mare, admirând liniștea în timp ce plouă afară. La prânz, ruinele vilei San Vincenzino capătă un farmec aparte sub cerul gri, culorile mozaicurilor fiind accentuate de umiditate. După-amiaza, plimbarea prin pini oferă o protecție naturală împotriva stropilor de ploaie. Seara, malul mării oferă un spectacol dramatic de valuri și vânt, ideal pentru o plimbare scurtă și revigorantă.",
+            "en": "Start your morning sheltered within the Church of Cecina Mare while the rain drums against the windows. At noon, the ancient ruins of Villa San Vincenzino offer a unique atmosphere, as the wet mosaics reveal more vibrant colors. In the afternoon, the pine forest provides a natural canopy against the drizzle. By evening, the stormy sea creates a dramatic backdrop on the coast, perfect for a brisk walk if you are wearing waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Cecina Mare",
+                "hu": "Cecina Mare-i templom",
+                "ro": "Biserica din Cecina Mare",
+                "en": "Church of Cecina Mare"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die stille Atmosphäre im Inneren als perfekten Schutz vor dem ersten Regenschauer und bewundern Sie die schlichte Architektur.",
+                "hu": "Használja ki a templom belső csendjét tökéletes menedékként az első zápor elől, miközben megcsodálja az egyszerű, tiszta építészetet.",
+                "ro": "Folosiți atmosfera liniștită din interior ca un adăpost perfect împotriva primei averse, admirând arhitectura simplă și curată.",
+                "en": "Use the quiet atmosphere inside as a perfect shelter from the first rain shower while admiring the simple and clean architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+                "hu": "San Vincenzino római villa régészeti parkja",
+                "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+                "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Die antiken Mosaike wirken bei Nässe viel farbenfroher, aber achten Sie auf den rutschigen Boden zwischen den Ausgrabungen.",
+                "hu": "Az antik mozaikok sokkal színesebbnek tűnnek nedvesen, de ügyeljen a csúszós talajra az ásatások közötti területen.",
+                "ro": "Mozaicurile antice par mult mai colorate când sunt umede, dar aveți grijă la solul alunecos dintre secțiunile sitului arheologic.",
+                "en": "The ancient mosaics look much more colorful when wet, but watch out for the slippery ground between the excavation sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorette Sud",
+                "hu": "Gorette Sud",
+                "ro": "Gorette Sud",
+                "en": "Gorette Sud"
+              },
+              "tip_4lang": {
+                "de": "Ein Spaziergang am nebligen Strand ist sehr atmosphärisch; tragen Sie hohe wasserfeste Stiefel für die tiefen Pfützen im Sand.",
+                "hu": "A ködös tengerparti séta rendkívül hangulatos; viseljen magas szárú vízálló cipőt a homokban kialakuló mély pocsolyák miatt.",
+                "ro": "O plimbare pe plaja cețoasă este foarte atmosferică; purtați cizme impermeabile înalte pentru bălțile adânci care se formează în nisip.",
+                "en": "A walk on the misty beach is very atmospheric; wear high waterproof boots for the deep puddles that form in the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Acqua Village",
+                "hu": "Acqua Village",
+                "ro": "Acqua Village",
+                "en": "Acqua Village"
+              },
+              "tip_4lang": {
+                "de": "Da Sie ohnehin nass werden, genießen Sie die tropische Stimmung, aber halten Sie trockene Kleidung in einem wasserdichten Beutel bereit.",
+                "hu": "Mivel úgyis vizes lesz, élvezze a trópusi hangulatot, de tartson száraz váltóruhát egy teljesen vízhatlan táskában.",
+                "ro": "Deoarece oricum vă veți uda, bucurați-vă de vibrația tropicală, dar păstrați haine uscate într-o geantă impermeabilă.",
+                "en": "Since you'll get wet anyway, enjoy the tropical vibe, but keep dry clothes ready in a completely waterproof bag."
+              }
+            },
+            {
+              "name": {
+                "de": "Il gabbiano",
+                "hu": "Il gabbiano",
+                "ro": "Il gabbiano",
+                "en": "Il gabbiano"
+              },
+              "tip_4lang": {
+                "de": "Der Blick auf das stürmische Meer ist von hier aus spektakulär; ein windfester Regenschirm ist bei den Küstenböen unerlässlich.",
+                "hu": "A viharos tenger látványa innen lenyűgöző; a tengerparti széllökések miatt egy szélálló esernyő mindenképpen szükséges.",
+                "ro": "Vederea mării furtunoase este spectaculoasă de aici; o umbrelă rezistentă la vânt este esențială din cauza rafalelor de pe coastă.",
+                "en": "The view of the stormy sea is spectacular from here; a windproof umbrella is essential due to the coastal gusts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterbrise am Morgen macht den Besuch der Kirche von Cecina Mare besonders besinnlich. Mittags wärmen die Sonnenstrahlen in den geschützten Ecken der römischen Villa, während die Pinienwälder nach Harz duften. Am Nachmittag taucht die frühe Dämmerung den Strand in ein sanftes Orange. Abends ziehen Sie sich nach einem Spaziergang am Meer in die gemütlichen, beheizten Lokale zurück, bevor die Kälte einzieht.",
+            "hu": "A reggeli friss téli szellő különösen meghitté teszi a Cecina Mare-i templom látogatását. Délben a nap sugarai a római villa védettebb sarkaiban még kellemesen melengetnek a fenyvesek illatában. Délután a korai szürkület narancssárga fénybe vonja a tengerpartot. Este a tengerparti séta után érdemes behúzódni egy fűtött helyre, mielőtt a téli éjszaka hidege teljesen átjárná a várost.",
+            "ro": "Briza proaspătă de iarnă din timpul dimineții face vizita la biserică deosebit de liniștită. La prânz, razele soarelui încălzesc colțurile adăpostite ale vilei romane, în timp ce pădurea de pini miroase intens. După-amiaza, amurgul timpuriu scaldă plaja într-o lumină portocalie blândă. Seara, retrageți-vă într-un loc încălzit după plimbarea pe malul mării, înainte ca frigul nopții să se instaleze.",
+            "en": "The fresh winter breeze in the morning makes visiting the church particularly contemplative. At noon, the sun's rays warm the sheltered corners of the Roman villa while the pine forests smell of resin. In the afternoon, the early twilight bathes the beach in a soft orange glow. In the evening, retreat to a cozy heated spot after a seaside walk before the winter chill fully sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Cecina Mare",
+                "hu": "Cecina Mare-i templom",
+                "ro": "Biserica din Cecina Mare",
+                "en": "Church of Cecina Mare"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die Kirche am frühen Vormittag, um die kühle, klare Winterruhe zu genießen; warme Kleidung für das Innere wird empfohlen.",
+                "hu": "Látogassa meg a templomot kora délelőtt a hűvös, tiszta téli nyugalomért; a belső térben is javasolt a meleg réteges öltözet.",
+                "ro": "Vizitați biserica dimineața devreme pentru liniștea răcoroasă și clară de iarnă; se recomandă haine groase pentru interior.",
+                "en": "Visit the church in the early morning for the cool, clear winter peace; warm layered clothing is recommended even for the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+                "hu": "San Vincenzino római villa régészeti parkja",
+                "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+                "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Der Park ist im Winter fast leer; nutzen Sie die sonnigen Mittagsstunden, da es im Schatten der Mauern schnell sehr kalt wird.",
+                "hu": "A park télen szinte üres; használja ki a napsütéses déli órákat, mert a falak árnyékában ilyenkor gyorsan lehűl a levegő.",
+                "ro": "Parcul este aproape gol iarna; profitați de orele însorite de la prânz, deoarece la umbra zidurilor se face repede foarte frig.",
+                "en": "The park is almost empty in winter; take advantage of the sunny midday hours, as it gets cold quickly in the shadow of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorette Sud",
+                "hu": "Gorette Sud",
+                "ro": "Gorette Sud",
+                "en": "Gorette Sud"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne steht tief über dem Meer und glitzert im Sand; tragen Sie eine winddichte Jacke gegen die schneidende Meeresbrise.",
+                "hu": "A téli nap alacsonyan jár a tenger felett és megcsillan a homokon; viseljen szélálló kabátot a metsző tengeri szellő ellen.",
+                "ro": "Soarele de iarnă stă jos deasupra mării și strălucește pe nisip; purtați o jachetă rezistentă la vânt împotriva brizelor tăioase.",
+                "en": "The winter sun hangs low over the sea and glitters on the sand; wear a windproof jacket against the biting sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Acqua Village",
+                "hu": "Acqua Village",
+                "ro": "Acqua Village",
+                "en": "Acqua Village"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten; oft sind nur Teile zugänglich, die aber im milden toskanischen Winter sehr ruhig sind.",
+                "hu": "Ellenőrizze a téli nyitvatartást; gyakran csak részei látogathatók, de a gyenge toszkán télben ezek ilyenkor nagyon csendesek.",
+                "ro": "Verificați programul de iarnă; adesea doar unele părți sunt accesibile, dar în iarna blândă toscană acestea sunt foarte liniștite.",
+                "en": "Check the winter opening hours; often only parts are accessible, but in the mild Tuscan winter, these areas are very peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Il gabbiano",
+                "hu": "Il gabbiano",
+                "ro": "Il gabbiano",
+                "en": "Il gabbiano"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr; die Farben sind im Winter oft intensiver, aber die Temperatur fällt dann rasant.",
+                "hu": "Élvezze a naplementét 17:00 körül; a színek télen gyakran intenzívebbek, de a hőmérséklet ilyenkor hirtelen zuhanni kezd.",
+                "ro": "Bucurați-vă de apus în jurul orei 17:00; culorile sunt adesea mai intense iarna, dar temperatura scade rapid după aceea.",
+                "en": "Enjoy the sunset around 17:00; colors are often more intense in winter, but the temperature drops rapidly immediately after."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Pattanjon kerékpárra, és fedezze fel Cecina történelmi oldalát, kezdve az ókori ásatásokkal. Dél körül tekerjen át az árnyékos fenyőerdőkön a tengerparti történelmi bunkerekhez. A délután a vízi sportokról, a nyüzsgő strandokról és a vízi vidámpark izgalmairól szól. Este a hatalmas fenyőfák alatti tágas parkok hívogatnak egy igazán pihentető és nyugodt napzárásra a friss levegőn.",
         "ro": "Urcați pe bicicletă și descoperiți latura istorică a Cecinei, începând cu excavațiile antice. În jurul prânzului, pedalați prin păduri de pini umbroase către ruine fascinante din al Doilea Război Mondial de pe coastă. După-amiaza este dedicată sporturilor nautice, plajelor pline de viață și aventurilor la parcul acvatic. Seara, parcurile spațioase de sub pini mari vă invită la o concluzie extrem de relaxantă.",
         "en": "Hop on your bike and discover the historical side of Cecina, starting with the fascinating ancient excavations. Around noon, cycle through shaded pine forests to historical coastal World War II bunkers. The afternoon is all about exciting water sports, lively beaches, and splashing adventures at the local water park. In the evening, the spacious parks beneath tall pine trees invite you to a deeply relaxing conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zur Kirche, während die Straßen glänzen. Der Weg zur römischen Villa führt durch Pfützen, die Ihre Aufmerksamkeit fordern. Mittags bietet der Bunker bei den Gorette einen kurzen, trockenen Unterstand. Nachmittags fordern die nassen Piniennadeln auf dem Radweg volle Konzentration. Abends beenden Sie die Tour zügig, um dem stärker werdenden Regen und der schlechten Sicht zu entkommen.",
+            "hu": "Óvatosan tekerjen a templomig a csillogó aszfalton. A római villához vezető út tócsákon át vezet, ami figyelmet igényel. Délben a Gorette bunkere rövid, száraz menedéket nyújt a zápor elől. Délután a vizes fenyőtűk a kerékpárúton teljes koncentrációt igényelnek a csúszásveszély miatt. Este fejezze be gyorsan a túrát, hogy elkerülje a sűrűsödő esőt és a romló látási viszonyokat.",
+            "ro": "Pedalați cu atenție spre biserică pe asfaltul strălucitor. Drumul către vila romană trece prin bălți care vă vor solicita atenția. La prânz, buncărul de la Gorette oferă un scurt adăpost uscat împotriva ploii. După-amiaza, acele de pin ude de pe pista de biciclete necesită concentrare maximă. Seara, încheiați turul rapid pentru a evita ploaia tot mai deasă și vizibilitatea redusă.",
+            "en": "Cycle carefully to the church on the glistening asphalt. The route to the Roman villa leads through puddles that demand your attention. At noon, the bunker at Gorette provides a short, dry shelter from the shower. In the afternoon, wet pine needles on the bike path require full concentration due to the slip hazard. In the evening, finish the tour quickly to avoid the thickening rain and poor visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Cecina Mare",
+                "hu": "Cecina Mare-i templom",
+                "ro": "Biserica din Cecina Mare",
+                "en": "Church of Cecina Mare"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und nutzen Sie die Kirche als trockenen Rückzugsort, um Ihre Regenkleidung zu ordnen.",
+                "hu": "Parkolja a kerékpárt az előtető alá, és használja a templomot száraz pihenőként, hogy megigazítsa az esővédő ruházatát.",
+                "ro": "Parcați bicicleta sub streașină și folosiți biserica ca un refugiu uscat pentru a vă aranja echipamentul de ploaie.",
+                "en": "Park your bike under the overhang and use the church as a dry retreat to adjust your rain gear before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+                "hu": "San Vincenzino római villa régészeti parkja",
+                "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+                "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Die Wege im Park können bei Regen schlammig sein; stellen Sie das Rad am Eingang sicher ab und gehen Sie zu Fuß weiter.",
+                "hu": "A park ösvényei esőben sarasak lehetnek; támassza le a biciklit a bejáratnál, és gyalogosan fedezze fel a területet.",
+                "ro": "Potecile din parc pot fi noroioase pe ploaie; parcați bicicleta sigur la intrare și continuați explorarea pe jos.",
+                "en": "The paths in the park can be muddy in the rain; park your bike securely at the entrance and explore the area on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker der Gorette",
+                "hu": "Gorette Bunker",
+                "ro": "Buncărul Gorette",
+                "en": "Gorette Bunker"
+              },
+              "tip_4lang": {
+                "de": "Dieser massive Betonbau ist der perfekte Ort, um einen starken Schauer abzuwarten; die Aussicht auf die graue See ist einmalig.",
+                "hu": "Ez a masszív betonépítmény tökéletes hely egy erős zápor kivárásához; a kilátás a szürke tengerre innen egyedülálló.",
+                "ro": "Această structură masivă de beton este locul perfect pentru a aștepta trecerea unei averse; vederea spre marea gri este unică.",
+                "en": "This massive concrete structure is the perfect place to wait out a heavy shower; the view of the gray sea from here is unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Ippocampo",
+                "hu": "Bagno Ippocampo",
+                "ro": "Bagno Ippocampo",
+                "en": "Bagno Ippocampo"
+              },
+              "tip_4lang": {
+                "de": "Schützen Sie Ihren Sattel mit einer Plastiktüte vor der Nässe, während Sie den Blick auf die verlassene, regnerische Küste genießen.",
+                "hu": "Védje a nyerget egy műanyag zsákkal a nedvességtől, miközben az elhagyatott, esős tengerpart látványában gyönyörködik.",
+                "ro": "Protejați șaua cu o folie de plastic împotriva umezelii în timp ce admirați coasta pustie sub ploaie.",
+                "en": "Protect your saddle with a plastic cover from the wet while you enjoy the view of the deserted, rainy coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Spot1",
+                "hu": "Spot1",
+                "ro": "Spot1",
+                "en": "Spot1"
+              },
+              "tip_4lang": {
+                "de": "Bremsen Sie auf den nassen Holzstegen oder Asphaltwegen besonders vorsichtig; Schmutzfänger am Rad sind bei diesem Wetter ein Muss.",
+                "hu": "A vizes fapallókon vagy aszfalton különösen óvatosan fékezzen; a sárvédő a kerékpáron kötelező kiegészítő ilyen időben.",
+                "ro": "Frânați cu mare atenție pe platformele de lemn sau pe asfaltul ud; aripile la bicicletă sunt obligatorii pe această vreme.",
+                "en": "Brake very carefully on wet wooden walkways or asphalt; mudguards on your bike are a must-have in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Acqua Village",
+                "hu": "Acqua Village",
+                "ro": "Acqua Village",
+                "en": "Acqua Village"
+              },
+              "tip_4lang": {
+                "de": "Die Anlage wirkt im Regen surreal; nutzen Sie die Zeit für ein kurzes Aufwärmen unter den überdachten Bereichen beim Eingang.",
+                "hu": "A létesítmény szürreálisnak hat az esőben; használja ki az időt egy rövid bemelegedésre a bejáratnál lévő fedett részeken.",
+                "ro": "Complexul pare ireal pe ploaie; profitați de timp pentru o scurtă încălzire în zonele acoperite de lângă intrare.",
+                "en": "The facility looks surreal in the rain; use the time for a quick warm-up in the covered areas near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ausstellungspark I Pini",
+                "hu": "I Pini Kiállítási Park",
+                "ro": "Parcul Expozițional I Pini",
+                "en": "I Pini Exhibition Park"
+              },
+              "tip_4lang": {
+                "de": "Die Pinien bieten Schutz vor leichtem Regen, aber der Boden ist rutschig; suchen Sie nach der Tour ein trockenes Café auf.",
+                "hu": "A fenyők védelmet nyújtanak az enyhe eső ellen, de a talaj csúszós; a túra után keressen fel egy száraz kávézót.",
+                "ro": "Pinii oferă protecție împotriva ploii ușoare, dar solul este alunecos; după tur, căutați o cafenea uscată.",
+                "en": "The pines provide protection from light rain, but the ground is slippery; look for a dry cafe after your tour is finished."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour bei klarer, kalter Luft an der Kirche. Die Fahrt zur Villa San Vincenzino hält Sie durch die Bewegung warm. Mittags reflektiert der Bunker das fahle Winterlicht über dem Meer. Nachmittags radeln Sie durch den duftenden Pinienwald, während die Schatten länger werden. Da es um 17:00 Uhr dunkel wird, sollten Sie die Tour im Ausstellungspark rechtzeitig beenden und warme Handschuhe tragen.",
+            "hu": "Kezdje a téli túrát tiszta, hideg levegőben a templomnál. A római villához vezető út a mozgás miatt melegen tartja. Délben a bunker visszaveri a fakó téli fényt a tenger felett. Délután a fenyőerdőn keresztül tekerve figyelje, ahogy a fények nyúlnak. Mivel 17:00-kor sötétedik, fejezze be időben a túrát a kiállítási parknál, és mindenképpen viseljen meleg kesztyűt.",
+            "ro": "Începeți turul de iarnă în aerul curat și rece de la biserică. Drumul către vila San Vincenzino vă menține cald prin mișcare. La prânz, buncărul reflectă lumina palidă a iernii deasupra mării. După-amiaza, pedalați prin pădurea de pini în timp ce umbrele se lungesc. Deoarece se întunecă la ora 17:00, încheiați turul la timp în parcul expozițional și purtați mănuși groase.",
+            "en": "Start your winter tour in the clear, cold air at the church. The ride to Villa San Vincenzino keeps you warm through movement. At noon, the bunker reflects the pale winter light over the sea. In the afternoon, cycle through the pine forest as the shadows lengthen. Since it gets dark by 17:00, finish your tour at the exhibition park in time and wear warm gloves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Cecina Mare",
+                "hu": "Cecina Mare-i templom",
+                "ro": "Biserica din Cecina Mare",
+                "en": "Church of Cecina Mare"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Startpunkt; machen Sie ein paar Aufwärmübungen, bevor Sie losradeln, da der Fahrtwind im Winter sehr kühl ist.",
+                "hu": "Csendes kiindulópont; végezzen néhány bemelegítő gyakorlatot indulás előtt, mert a menetszél télen nagyon hűvös.",
+                "ro": "Un punct de plecare liniștit; faceți câteva exerciții de încălzire înainte de a pleca, deoarece vântul este foarte rece iarna.",
+                "en": "A quiet starting point; do some warm-up exercises before cycling off, as the wind chill is very cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+                "hu": "San Vincenzino római villa régészeti parkja",
+                "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+                "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das helle Mittagslicht für Fotos der Ruinen; die Wintersonne bringt die Texturen der alten Steine wunderbar zur Geltung.",
+                "hu": "Használja ki a ragyogó déli fényt a romok fotózásához; a téli nap remekül kiemeli a régi kövek textúráját.",
+                "ro": "Profitați de lumina puternică de la prânz pentru fotografii; soarele de iarnă scoate frumos în evidență textura pietrelor vechi.",
+                "en": "Take advantage of the bright midday light for photos of the ruins; the winter sun brings out the textures of the old stones beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker der Gorette",
+                "hu": "Gorette Bunker",
+                "ro": "Buncărul Gorette",
+                "en": "Gorette Bunker"
+              },
+              "tip_4lang": {
+                "de": "Der Beton speichert die Kälte; halten Sie den Aufenthalt kurz und genießen Sie den weiten Blick auf den menschenleeren Winterstrand.",
+                "hu": "A beton elraktározza a hideget; tartsa röviden a megállót, és élvezze a tágas kilátást az üres téli tengerpartra.",
+                "ro": "Betonul înmagazinează frigul; faceți o oprire scurtă și bucurați-vă de vederea largă asupra plajei pustii de iarnă.",
+                "en": "The concrete retains the cold; keep your stay short and enjoy the wide view of the deserted winter beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Ippocampo",
+                "hu": "Bagno Ippocampo",
+                "ro": "Bagno Ippocampo",
+                "en": "Bagno Ippocampo"
+              },
+              "tip_4lang": {
+                "de": "Oft geschlossen, aber ein schöner Ort für eine kurze Trinkpause aus der Thermoskanne mit Blick auf die ruhige See.",
+                "hu": "Gyakran zárva van, de remek hely egy rövid pihenőre és egy meleg italra a termoszból, miközben a nyugodt tengert nézi.",
+                "ro": "Adesea închis, dar un loc frumos pentru o scurtă pauză cu o băutură caldă din termos, privind marea liniștită.",
+                "en": "Often closed, but a nice spot for a quick break and a warm drink from your thermos while looking at the calm sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spot1",
+                "hu": "Spot1",
+                "ro": "Spot1",
+                "en": "Spot1"
+              },
+              "tip_4lang": {
+                "de": "Die Wege sind trocken, aber der Wind kann hier stark wehen; achten Sie auf ausreichenden Ohrenschutz unter dem Helm.",
+                "hu": "Az utak szárazak, de a szél itt erősen fújhat; ügyeljen a megfelelő fülvédelemre a bukósisak alatt.",
+                "ro": "Drumurile sunt uscate, dar vântul poate sufla puternic aici; asigurați-vă că aveți urechile protejate sub cască.",
+                "en": "The paths are dry, but the wind can blow strongly here; make sure you have adequate ear protection under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Acqua Village",
+                "hu": "Acqua Village",
+                "ro": "Acqua Village",
+                "en": "Acqua Village"
+              },
+              "tip_4lang": {
+                "de": "Die geschlossene Anlage wirkt im Winter wie ein schlafender Riese; radeln Sie zügig vorbei, um die Körperwärme nicht zu verlieren.",
+                "hu": "A lezárt létesítmény télen olyan, mint egy alvó óriás; tekerjen el mellette tempósan, hogy ne veszítse el testhőjét.",
+                "ro": "Complexul închis pare un gigant adormit iarna; pedalați vioi pe lângă el pentru a nu vă pierde căldura corporală.",
+                "en": "The closed facility looks like a sleeping giant in winter; cycle past briskly so you don't lose your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ausstellungspark I Pini",
+                "hu": "I Pini Kiállítási Park",
+                "ro": "Parcul Expozițional I Pini",
+                "en": "I Pini Exhibition Park"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, wenn die Kälte mit der Dunkelheit kommt; eine Radlampe ist für den Rückweg unerlässlich.",
+                "hu": "Fejezze be a túrát 17:00 előtt, amikor a sötétséggel együtt megérkezik a hideg; a kerékpárlámpa kötelező a hazaúthoz.",
+                "ro": "Încheiați turul înainte de ora 17:00, când frigul vine odată cu întunericul; lumina la bicicletă este esențială pentru retur.",
+                "en": "Finish the tour before 17:00, as the cold arrives with the darkness; a bike light is essential for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az autós túra a Maremma vidéki és ipari múltjába nyújt mélyebb betekintést. A múzeumlátogatás után fedezzen fel régi téglakemencéket és csendes, történelmi negyedeket, távol a város zajától. A délután az elegáns templomi építészet és a római gyökerekhez való visszatérés keverékét kínálja az ásatásokon. Este vezessen le a csodás tengerpartra, hogy ízletes helyi falatok mellett élvezze a lenyűgöző naplementét.",
         "ro": "Călătoria cu mașina începe cu o perspectivă profundă asupra trecutului rural și industrial din regiunea Maremma. După muzeu, explorați cuptoare vechi de cărămidă și cartiere istorice liniștite. După-amiaza oferă un amestec interesant de arhitectură bisericească elegantă și o întoarcere la rădăcinile romane la siturile de excavare. Seara, conduceți pe coastă pentru a savura apusul cu câteva gustări locale delicioase.",
         "en": "Your road trip begins with deep insights into the rural and industrial past of the beautiful Maremma region. After the museum, explore old brick kilns and quiet historical neighborhoods away from the busy streets. The afternoon offers a mix of elegant church architecture and a return to Roman roots at the archaeological sites. In the evening, drive down to the scenic coast to enjoy the sunset with some delicious local snacks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im trockenen Museum, während es draußen schüttet. Die Fahrt zum alten Ofen ist bei Regen gemütlich, bleiben Sie im warmen Auto. Mittags bieten die historischen Stätten San Vincenzino Schutz vor den Wolkenbrüchen. Nachmittags ist die Kirche der Heiligen Josef und Leopold ein idealer, überdachter Stopp. Beenden Sie den Tag bei Da Gigi, wo Sie den Regen bei gutem Essen einfach draußen lassen können.",
+            "hu": "Kezdje a napot a száraz múzeumban, miközben odakint szakad az eső. Az út a régi kemencéhez kényelmes a meleg autóban ülve. Délben a San Vincenzino történelmi helyszínei védelmet nyújtanak a felhőszakadások elől. Délután a Szent József és Lipót templom ideális fedett megálló. A napot zárja a Da Giginél, ahol a jó ételek mellett egyszerűen kint hagyhatja az esőt.",
+            "ro": "Începeți ziua la muzeul uscat în timp ce afară plouă torențial. Drumul către vechiul cuptor este confortabil în mașina caldă. La prânz, siturile istorice din San Vincenzino oferă adăpost împotriva averselor. După-amiaza, biserica Sfinților Iosif și Leopold este o oprire acoperită ideală. Încheiați ziua la Da Gigi, unde puteți lăsa ploaia afară în timp ce savurați mâncarea.",
+            "en": "Start the day in the dry museum while it pours outside. The drive to the old kiln is cozy inside the warm car. At noon, the historical sites of San Vincenzino offer shelter from the downpours. In the afternoon, the Church of Saints Joseph and Leopold is an ideal covered stop. End the day at Da Gigi, where you can simply leave the rain outside while enjoying good food."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Leben und Arbeit der nördlichen Maremma",
+                "hu": "Észak-Maremma Élete és Munkája Múzeum",
+                "ro": "Muzeul Vieții și Muncii din Maremma de Nord",
+                "en": "Museum of Life and Work of Northern Maremma"
+              },
+              "tip_4lang": {
+                "de": "Ein perfekter Ort für regnerische Vormittage; das Museum ist komplett überdacht und bietet spannende Einblicke in die lokale Geschichte.",
+                "hu": "Tökéletes helyszín esős délelőttökhöz; a múzeum teljesen fedett, és izgalmas betekintést nyújt a helyi történelembe.",
+                "ro": "Un loc perfect pentru diminețile ploioase; muzeul este complet acoperit și oferă perspective fascinante asupra istoriei locale.",
+                "en": "A perfect location for rainy mornings; the museum is fully covered and offers exciting insights into local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Der alte Ofen",
+                "hu": "A régi kemence",
+                "ro": "Vechiul cuptor",
+                "en": "The Old Kiln"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die historischen Mauern strahlen auch bei Regen Würde aus.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy ne ázzon el; a történelmi falak esőben is méltóságot árasztanak.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; zidurile istorice emană demnitate chiar și pe ploaie.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the historical walls exude dignity even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "San Vincenzino",
+                "hu": "San Vincenzino",
+                "ro": "San Vincenzino",
+                "en": "San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Regenpausen für einen kurzen Rundgang; im Auto können Sie sich zwischendurch immer wieder aufwärmen und trocknen.",
+                "hu": "Használja ki az esőszüneteket egy rövid körútra; az autóban bármikor újra felmelegedhet és megszáradhat két látnivaló között.",
+                "ro": "Profitați de pauzele de ploaie pentru un scurt tur; în mașină vă puteți reîncălzi și usca oricând între vizite.",
+                "en": "Take advantage of breaks in the rain for a short tour; you can always warm up and dry off in the car between sights."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Josef und Leopold",
+                "hu": "Szent József és Lipót templom",
+                "ro": "Biserica Sfinților Iosif și Leopold",
+                "en": "Church of Saints Joseph and Leopold"
+              },
+              "tip_4lang": {
+                "de": "Der Innenraum bietet einen wunderbaren, trockenen Ort für Besinnung, während draußen das Wetter tobt; prüfen Sie die Scheibenwischer.",
+                "hu": "A belső tér csodálatos, száraz helyet kínál az elmélkedésre, miközben odakint tombol az idő; ellenőrizze az ablaktörlőket.",
+                "ro": "Interiorul oferă un loc minunat și uscat pentru reflecție în timp ce afară vremea e rea; verificați ștergătoarele de parbriz.",
+                "en": "The interior offers a wonderful, dry place for reflection while the weather rages outside; check your windshield wipers."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+                "hu": "San Vincenzino római villa régészeti parkja",
+                "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+                "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Die Anlage ist weitläufig; halten Sie einen großen Regenschirm im Kofferraum bereit, da der Weg vom Parkplatz etwas länger sein kann.",
+                "hu": "A terület kiterjedt; tartson egy nagy esernyőt a csomagtartóban, mert a parkolótól vezető út kicsit hosszabb lehet.",
+                "ro": "Situl este vast; păstrați o umbrelă mare în portbagaj, deoarece drumul de la parcare poate fi ceva mai lung.",
+                "en": "The site is extensive; keep a large umbrella ready in the trunk as the walk from the parking lot can be a bit longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Da Gigi",
+                "hu": "Da Gigi",
+                "ro": "Da Gigi",
+                "en": "Da Gigi"
+              },
+              "tip_4lang": {
+                "de": "Ein gemütlicher Abschluss; Parkplätze sind direkt davor vorhanden, sodass Sie fast trocken vom Auto ins Restaurant schlüpfen können.",
+                "hu": "Hangulatos lezárás; a parkolók közvetlenül előtte találhatók, így szinte szárazon juthat az autóból az étterembe.",
+                "ro": "Un final primitor; locurile de parcare sunt chiar în față, astfel încât puteți intra în restaurant aproape uscat din mașină.",
+                "en": "A cozy finish; parking spaces are right in front, so you can slip from the car into the restaurant almost dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie am Morgen die Fahrt durch die klare Winterlandschaft zum beheizten Museum. Mittags erkunden Sie die historischen Kilns, bevor Sie sich im Auto wieder aufwärmen. Die Kirchenbesuche am Nachmittag bieten Momente der Stille in kühler, aber majestätischer Atmosphäre. Da die Sonne bereits um 17:00 Uhr untergeht, erreichen Sie Da Gigi in der blauen Stunde für einen gemütlichen Winterabend bei Kerzenschein.",
+            "hu": "Élvezze reggel a kocsikázást a tiszta téli tájon át a fűtött múzeumig. Délben fedezze fel a történelmi kemencéket, mielőtt visszaülne a meleg autóba. A délutáni templomlátogatások a csend pillanatait kínálják a hűvös, de fenséges környezetben. Mivel a nap már 17:00-kor lebukik, a Da Gigihez a kék órában érkezik meg egy gyertyafényes, hangulatos téli estéhez.",
+            "ro": "Bucurați-vă dimineața de drumul prin peisajul clar de iarnă către muzeul încălzit. La prânz, explorați cuptoarele istorice înainte de a vă reîncălzi în mașină. Vizitele la biserică de după-amiază oferă momente de liniște într-o atmosferă răcoroasă, dar maiestuoasă. Deoarece soarele apune deja la ora 17:00, veți ajunge la Da Gigi în ora albastră pentru o seară de iarnă primitoare.",
+            "en": "Enjoy the drive through the clear winter landscape to the heated museum in the morning. At noon, explore the historical kilns before warming up in the car again. The church visits in the afternoon offer moments of silence in a cool but majestic atmosphere. Since the sun sets as early as 17:00, you will reach Da Gigi during the blue hour for a cozy winter evening by candlelight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Leben und Arbeit der nördlichen Maremma",
+                "hu": "Észak-Maremma Élete és Munkája Múzeum",
+                "ro": "Muzeul Vieții și Muncii din Maremma de Nord",
+                "en": "Museum of Life and Work of Northern Maremma"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Winterstopp, da die Innenräume meist angenehm temperiert sind; perfekt, um der morgendlichen Kälte zu entfliehen.",
+                "hu": "Ideális téli megálló, mivel a belső terek általában kellemes hőmérsékletűek; tökéletes menekülés a reggeli hideg elől.",
+                "ro": "O oprire ideală de iarnă, deoarece interioarele sunt de obicei la o temperatură plăcută; perfect pentru a scăpa de frigul dimineții.",
+                "en": "An ideal winter stop as the interiors are usually at a pleasant temperature; perfect for escaping the morning chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Der alte Ofen",
+                "hu": "A régi kemence",
+                "ro": "Vechiul cuptor",
+                "en": "The Old Kiln"
+              },
+              "tip_4lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf das Mauerwerk; ein kurzes Aussteigen reicht, um die Atmosphäre einzufangen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a falakra; egy rövid kiszállás is elég, hogy átélje a helyszín hangulatát.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi pe zidărie; o scurtă ieșire din mașină este suficientă pentru a surprinde atmosfera.",
+                "en": "The low winter sun casts long shadows on the masonry; a short exit from the car is enough to capture the atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "San Vincenzino",
+                "hu": "San Vincenzino",
+                "ro": "San Vincenzino",
+                "en": "San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie vorher die winterlichen Öffnungszeiten, da diese oft verkürzt sind; im Auto bleibt der Tee in der Thermoskanne lange heiß.",
+                "hu": "Előre ellenőrizze a téli nyitvatartást, mert gyakran rövidebb; az autóban a termoszos tea sokáig forró marad a megállók között.",
+                "ro": "Verificați programul de iarnă în prealabil, deoarece este adesea scurtat; în mașină, ceaiul din termos va rămâne cald mult timp.",
+                "en": "Check the winter opening hours in advance as they are often shortened; in the car, tea in a thermos stays hot for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der Heiligen Josef und Leopold",
+                "hu": "Szent József és Lipót templom",
+                "ro": "Biserica Sfinților Iosif și Leopold",
+                "en": "Church of Saints Joseph and Leopold"
+              },
+              "tip_4lang": {
+                "de": "Die klare Winterluft macht die Sicht auf die Kirchenfassade besonders scharf; tragen Sie dennoch eine Mütze für den Weg vom Parkplatz.",
+                "hu": "A tiszta téli levegőben a templom homlokzata különösen élesen látszik; viseljen sapkát a parkolótól vezető rövid úton is.",
+                "ro": "Aerul curat de iarnă face vederea fațadei bisericii deosebit de clară; totuși, purtați o căciulă pentru drumul de la parcare.",
+                "en": "The clear winter air makes the view of the church facade particularly sharp; still, wear a hat for the short walk from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+                "hu": "San Vincenzino római villa régészeti parkja",
+                "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+                "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das letzte Tageslicht zu nutzen; danach sinken die Temperaturen im offenen Gelände rapide.",
+                "hu": "Látogasson el ide 16:00 előtt, hogy kihasználja az utolsó nappali fényeket; utána a nyílt terepen a hőmérséklet gyorsan süllyed.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de ultima lumină a zilei; după aceea, temperaturile scad rapid în teren deschis.",
+                "en": "Visit this place before 16:00 to catch the last daylight; after that, temperatures drop rapidly in the open terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Da Gigi",
+                "hu": "Da Gigi",
+                "ro": "Da Gigi",
+                "en": "Da Gigi"
+              },
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um sich nach dem Tag aufzuwärmen; reservieren Sie einen Tisch nahe der Heizung für ein Maximum an Gemütlichkeit.",
+                "hu": "A tökéletes hely a felmelegedésre a nap végén; foglaljon asztalt a fűtés közelében a maximális kényelem érdekében.",
+                "ro": "Locul perfect pentru a vă încălzi după întreaga zi; rezervați o masă lângă sursa de căldură pentru un maxim de confort.",
+                "en": "The perfect place to warm up after the day; reserve a table near the heater for maximum coziness."
+              }
+            }
+          ]
+        }
       }
     }
   }

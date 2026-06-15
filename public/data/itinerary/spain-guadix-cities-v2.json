@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Guadix gazdag örökségének felfedezésével a katedrális múzeuma és a békés kolostor körül. Délben másszon fel az Alcazabához a lenyűgöző panorámákért. Délután merüljön el a barlangnegyedben, hogy autentikus fazekas termékeket és barlanglakásokat lásson. Este zárja a napot a Poveda kilátóponton egy varázslatos naplementével, ahonnan csodás kilátás nyílik.",
         "ro": "Începeți-vă dimineața explorând bogata moștenire a orașului Guadix în jurul muzeului Catedralei și al Mănăstirii. Până la amiază, urcați la Alcazaba pentru panorame uluitoare. După-amiaza, scufundați-vă în cartierul fascinant al peșterilor pentru a vedea ceramică autentică și locuințe troglodite. Încheiați seara la punctul de belvedere Poveda pentru un apus magic.",
         "en": "Start your morning exploring the rich heritage of Guadix around the imposing Cathedral museum and the peaceful Convent. By midday, climb up to the grand Alcazaba for stunning panoramas before discovering local noble arts. In the afternoon, dive into the fascinating cave district to see authentic pottery and troglodyte dwellings. Conclude your evening at the Poveda viewpoint for a magical sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Schutz der Kathedrale, wo die dicken Mauern den Regen vergessen lassen. Mittags suchen wir Zuflucht in den Museen der Altstadt, während die Gassen glitschig werden. Am Nachmittag bieten die Höhlenmuseen eine trockene und faszinierende Welt unter der Erde. Der Abend endet an einem Aussichtspunkt, wobei wasserfeste Schuhe für die nassen Wege unerlässlich sind.",
+            "hu": "A reggel a székesegyház védelmében indul, ahol a vastag falak elfeledtetik a kinti záporokat. Délben az óváros múzeumaiban keresünk menedéket, miközben az utcák kövei csúszóssá válnak. Délután a barlangmúzeumok nyújtanak száraz és lenyűgöző világot a föld alatt. Az este egy kilátónál zárul, de a nedves ösvények miatt a vízálló cipő elengedhetetlen a sár ellen.",
+            "ro": "Dimineața începe sub protecția catedralei, unde zidurile groase ne fac să uităm de ploaie. La prânz căutăm refugiu în muzeele din centrul vechi, în timp ce străzile devin alunecoase. După-amiaza, muzeele în peșteră oferă o lume uscată și fascinantă sub pământ. Seara se încheie la un punct de belvedere, dar încălțămintea impermeabilă este esențială pentru potecile umede.",
+            "en": "The morning starts under the protection of the cathedral, where thick walls make you forget the rain. At noon, we seek refuge in the old town's museums as the streets become slippery. In the afternoon, the cave museums offer a dry and fascinating world underground. The evening ends at a viewpoint, but waterproof shoes are essential for the wet paths and muddy trails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Catedralicio Donum Fidei",
+                "hu": "Museo Catedralicio Donum Fidei",
+                "ro": "Museo Catedralicio Donum Fidei",
+                "en": "Museo Catedralicio Donum Fidei"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die sakrale Kunst im Inneren der Kathedrale; dieser Ort bietet den perfekten trockenen Zufluchtsort vor dem Regen, während Sie die Geschichte von Guadix erkunden.",
+                "hu": "Csodálja meg a szakrális művészetet a katedrális belsejében; ez a hely tökéletes száraz menedéket nyújt az eső elől, miközben felfedezi Guadix gazdag történelmét.",
+                "ro": "Admirați arta sacră în interiorul catedralei; acest loc oferă refugiul perfect uscat împotriva ploii în timp ce explorați istoria bogată a orașului Guadix.",
+                "en": "Admire the sacred art inside the cathedral; this location provides the perfect dry sanctuary from the rain while you explore the rich history of Guadix."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de la Concepción",
+                "hu": "Convento de la Concepción",
+                "ro": "Convento de la Concepción",
+                "en": "Convento de la Concepción"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen spirituellen Ort, um die Architektur im Trockenen zu genießen; achten Sie auf die Stufen im Eingangsbereich, die bei Nässe besonders glatt sein können.",
+                "hu": "Látogasson el erre a spirituális helyre, hogy szárazon élvezze az építészetet; ügyeljen a bejárati lépcsőkre, amelyek esős időben rendkívül csúszósak lehetnek.",
+                "ro": "Vizitați acest loc spiritual pentru a vă bucura de arhitectură la adăpost; atenție la treptele de la intrare care pot fi extrem de alunecoase pe timp de ploaie.",
+                "en": "Visit this spiritual site to enjoy the architecture while staying dry; watch out for the entrance steps which can be extremely slippery during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Guadix",
+                "hu": "Alcazaba de Guadix",
+                "ro": "Alcazaba de Guadix",
+                "en": "Alcazaba de Guadix"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsmauern mit Vorsicht; der Blick auf die verregnete Stadt ist dramatisch, aber die alten Steine erfordern festes Schuhwerk mit gutem Profil.",
+                "hu": "Fedezze fel a várfalakat óvatosan; az eső áztatta város látványa drámai, de a régi kövek jó tapadású, stabil lábbelit igényelnek a csúszásveszély miatt.",
+                "ro": "Explorați zidurile cetății cu atenție; vederea asupra orașului ploios este dramatică, dar pietrele vechi necesită încălțăminte stabilă cu aderență bună.",
+                "en": "Explore the fortress walls carefully; the view of the rainy city is dramatic, but the ancient stones require stable footwear with good grip due to slippery surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pintor Julio Visconti",
+                "hu": "Casa Museo Pintor Julio Visconti",
+                "ro": "Casa Museo Pintor Julio Visconti",
+                "en": "Casa Museo Pintor Julio Visconti"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunstwerke in diesem herrschaftlichen Haus; es ist eine ideale Gelegenheit, den Schauer abzuwarten und gleichzeitig in die lokale Kultur einzutauchen.",
+                "hu": "Élvezze a műalkotásokat ebben az úri házban; ideális lehetőség a záporok kivárására, miközben elmerül a helyi kultúra és festészet világában.",
+                "ro": "Bucurați-vă de operele de artă în această casă boierească; este o ocazie ideală de a aștepta trecerea ploii în timp ce vă cufundați în cultura locală.",
+                "en": "Enjoy the artworks in this stately home; it is an ideal opportunity to wait out the rain showers while immersing yourself in local culture and paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Cerámica Gabarrón",
+                "hu": "Cerámica Gabarrón",
+                "ro": "Cerámica Gabarrón",
+                "en": "Cerámica Gabarrón"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Handwerker bei ihrer Arbeit im überdachten Atelier; die feuchte Luft lässt die Farben der Keramik besonders lebendig und intensiv erscheinen.",
+                "hu": "Figyelje meg a kézműveseket munka közben a fedett műhelyben; a párás levegőben a kerámiák színei különösen élénknek és intenzívnek tűnnek.",
+                "ro": "Observați meșteșugarii la lucru în atelierul acoperit; aerul umed face ca culorile ceramicii să pară deosebit de vii și intense în acest decor tradițional.",
+                "en": "Observe the artisans at work in the covered workshop; the humid air makes the ceramic colors appear particularly vivid and intense in this traditional setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlen bieten perfekten Schutz vor Regen und halten eine konstante Temperatur; erkunden Sie das unterirdische Leben, ohne nass zu werden.",
+                "hu": "A barlangok tökéletes védelmet nyújtanak az eső ellen és állandó hőmérsékletet tartanak; fedezze fel a föld alatti életet anélkül, hogy megázna.",
+                "ro": "Peșterile oferă protecție perfectă împotriva ploii și mențin o temperatură constantă; explorați viața subterană fără a vă uda deloc.",
+                "en": "The caves offer perfect protection against the rain and maintain a constant temperature; explore underground life without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Padre Poveda",
+                "hu": "Mirador Padre Poveda",
+                "ro": "Mirador Padre Poveda",
+                "en": "Mirador Padre Poveda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Regenpause für den Aufstieg zum Aussichtspunkt; die Wolken über den Höhlenvierteln bieten ein mystisches Fotomotiv, aber Vorsicht vor Matsch.",
+                "hu": "Használja ki az esőszünetet a kilátóhoz való feljutáshoz; a barlangnegyed feletti felhők misztikus fotótémát kínálnak, de vigyázzon a sárral.",
+                "ro": "Profitați de o pauză de ploaie pentru a urca la punctul de belvedere; norii de deasupra cartierelor de peșteri oferă un subiect foto mistic, dar atenție la noroi.",
+                "en": "Take advantage of a break in the rain to climb to the viewpoint; the clouds over the cave districts offer a mystical photo subject, but beware of mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Guadix ist frisch und klar, ideal für einen Besuch der prachtvollen Kathedrale. Mittags wärmt die Sonne die historischen Gassen, doch im Schatten bleibt es kühl. Am Nachmittag laden die Museen zum Verweilen in gemütlicher Atmosphäre ein. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das goldene Licht für den letzten Aussichtspunkt vor dem Frost.",
+            "hu": "A téli reggel Guadixban friss és tiszta, ideális a pompás katedrális meglátogatásához. Délben a nap melengeti a történelmi utcákat, de az árnyékban hűvös marad az idő. Délután a múzeumok hívogatnak kellemes, meleg hangulattal. Mivel a nap már 17:00 körül lebukik, a kilátónál még elkapjuk az utolsó aranyló fényeket a fagy beállta előtt.",
+            "ro": "Dimineața de iarnă în Guadix este proaspătă și senină, ideală pentru o vizită la catedrala somptuoasă. La prânz, soarele încălzește străzile istorice, dar la umbră rămâne răcoare. După-amiaza, muzeele vă invită să zăboviți într-o atmosferă primitoare. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie la ultimul punct de belvedere.",
+            "en": "The winter morning in Guadix is fresh and clear, ideal for visiting the magnificent cathedral. At noon, the sun warms the historic streets, but it stays chilly in the shade. In the afternoon, museums invite you to stay in a cozy atmosphere. Since the sun sets around 17:00, we catch the last golden lights at the viewpoint before the frost sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Catedralicio Donum Fidei",
+                "hu": "Museo Catedralicio Donum Fidei",
+                "ro": "Museo Catedralicio Donum Fidei",
+                "en": "Museo Catedralicio Donum Fidei"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am Vormittag, wenn die Kälte draußen am stärksten ist; die dicken Kirchenmauern halten die Kälte zwar, aber bieten Windschutz.",
+                "hu": "Látogassa meg a múzeumot délelőtt, amikor kint a legnagyobb a hideg; a vastag templomfalak szélvédelmet nyújtanak, de viseljen meleg rétegeket bent is.",
+                "ro": "Vizitați muzeul dimineața, când frigul de afară este cel mai pătrunzător; zidurile groase ale bisericii oferă adăpost împotriva vântului tăios de iarnă.",
+                "en": "Visit the museum in the morning when the cold outside is sharpest; the thick church walls provide shelter against the biting winter wind inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de la Concepción",
+                "hu": "Convento de la Concepción",
+                "ro": "Convento de la Concepción",
+                "en": "Convento de la Concepción"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille des Klosters im Winterlicht; tragen Sie eine warme Mütze, da die steinernen Korridore in der kalten Jahreszeit recht zugig sein können.",
+                "hu": "Tapasztalja meg a kolostor csendjét a téli fényekben; viseljen meleg sapkát, mivel a kőfolyosók a hideg évszakban meglehetősen huzatosak lehetnek.",
+                "ro": "Experimentați liniștea mănăstirii în lumina iernii; purtați o căciulă călduroasă, deoarece coridoarele de piatră pot fi destul de răcoroase în acest sezon.",
+                "en": "Experience the silence of the convent in winter light; wear a warm hat as the stone corridors can be quite drafty and chilly during the cold season."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Guadix",
+                "hu": "Alcazaba de Guadix",
+                "ro": "Alcazaba de Guadix",
+                "en": "Alcazaba de Guadix"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Festung hält Sie warm; genießen Sie den klaren Blick auf die schneebedeckten Gipfel der Sierra Nevada in der Ferne als Belohnung.",
+                "hu": "A várba való felkapaszkodás segít melegen tartani; jutalomként élvezze a tiszta kilátást a távolban lévő Sierra Nevada hófödte csúcsaira.",
+                "ro": "Urcarea la cetate vă va ajuta să vă mențineți căldura; bucurați-vă de vederea clară asupra vârfurilor înzăpezite ale Sierra Nevada în depărtare.",
+                "en": "The climb to the fortress will help keep you warm; enjoy the clear view of the snow-capped Sierra Nevada peaks in the distance as a reward for the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pintor Julio Visconti",
+                "hu": "Casa Museo Pintor Julio Visconti",
+                "ro": "Casa Museo Pintor Julio Visconti",
+                "en": "Casa Museo Pintor Julio Visconti"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Innenräumen dieses Hauses auf; das sanfte Winterlicht, das durch die Fenster fällt, setzt die Gemälde perfekt in Szene.",
+                "hu": "Melegedjen fel a ház belső tereiben; az ablakokon beszűrődő lágy téli fény tökéletesen hangsúlyozza a festmények színeit és részleteit.",
+                "ro": "Încălziți-vă în interiorul acestei case; lumina blândă de iarnă care intră pe ferestre pune în valoare picturile într-un mod absolut fascinant.",
+                "en": "Warm up in the interiors of this home; the soft winter light streaming through the windows highlights the paintings in an absolutely fascinating way."
+              }
+            },
+            {
+              "name": {
+                "de": "Cerámica Gabarrón",
+                "hu": "Cerámica Gabarrón",
+                "ro": "Cerámica Gabarrón",
+                "en": "Cerámica Gabarrón"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme der Brennöfen macht diesen Stopp im Winter besonders angenehm; ein ideales Ziel, um kurz vor dem frühen Sonnenuntergang noch Kunsthandwerk zu sehen.",
+                "hu": "Az égetőkemencék közelsége különösen kellemessé teszi ezt a megállót télen; ideális célpont, hogy a korai naplemente előtt még kézműves tárgyakat lássunk.",
+                "ro": "Căldura cuptoarelor face ca această oprire să fie deosebit de plăcută iarna; o destinație ideală pentru a vedea meșteșuguri înainte de apusul devreme.",
+                "en": "The proximity to the kilns makes this stop particularly pleasant in winter; an ideal destination to see crafts before the early sunset kicks in."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+              },
+              "tip_5lang": {
+                "de": "In den Höhlen ist es im Winter oft wärmer als draußen, da sie eine natürliche Isolierung bieten; genießen Sie das behagliche Mikroklima.",
+                "hu": "A barlangokban télen gyakran melegebb van, mint kint, mivel természetes hőszigetelést nyújtanak; élvezze a barátságos és állandó mikroklímát.",
+                "ro": "În peșteri este adesea mai cald decât afară iarna, deoarece oferă izolație naturală; bucurați-vă de microclimatul primitor și constant.",
+                "en": "In the caves, it is often warmer than outside in winter as they provide natural insulation; enjoy the welcoming and constant microclimate indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Padre Poveda",
+                "hu": "Mirador Padre Poveda",
+                "ro": "Mirador Padre Poveda",
+                "en": "Mirador Padre Poveda"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr; die kühle Winterluft macht die Farben am Horizont intensiver, aber vergessen Sie Ihre Handschuhe nicht.",
+                "hu": "Érkezzen pontosan a 17:00 körüli naplementére; a hűvös téli levegő intenzívebbé teszi a horizont színeit, de ne felejtse otthon a kesztyűjét.",
+                "ro": "Sosiți exact la apusul soarelui în jur de ora 17:00; aerul rece de iarnă face culorile orizontului mai intense, dar nu vă uitați mănușile.",
+                "en": "Arrive exactly for the sunset around 17:00; the crisp winter air makes the horizon colors more intense, but don't forget your gloves for the climb."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje kerékpártúráját a történelmi San Miguel templomnál, majd sétáljon át a római régészeti ásatásokon. A délidő tökéletes a Múzeum felfedezésére és a mór Alcazaba megmászására. Délután kerekezzen a lenyűgöző barlangmúzeumhoz, hogy megismerje a helyi hagyományokat. Fejezze be túráját egy kalandos utazással az ősi Paulenca toronyhoz, ahonnan remek a kilátás.",
         "ro": "Începeți turul cu bicicleta la biserica istorică San Miguel înainte de a rătăci prin excavațiile arheologice romane. Amiaza este perfectă pentru a explora muzeul Catedralei și a urca la Alcazaba. Petreceți-vă după-amiaza mergând spre fascinantul muzeu al peșterilor pentru a învăța despre tradițiile locale. Încheiați plimbarea cu o călătorie spre turnul antic Paulenca.",
         "en": "Kick off your cycling tour at the historic San Miguel church before wandering through the nearby Roman archaeological excavations. Midday is perfect for exploring the Cathedral museum and tackling the climb to the Moorish Alcazaba. Spend your afternoon cruising to the fascinating cave museum to learn about local traditions. Wrap up your ride with an adventurous journey out to the ancient Paulenca tower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Guadix bei Regen erfordert Vorsicht auf den Pflastersteinen der Altstadt. Wir starten bei einer Kirche und suchen bei Schauern schnell Unterstand. Mittags nutzen wir die Kathedrale für eine längere Pause im Trockenen. Nachmittags führen die Wege zu den Höhlen, wo der Boden rutschig sein kann. Der Tag endet an einem Turm, wobei wir Pfützen auf den ungepflasterten Wegen meiden.",
+            "hu": "A kerékpározás Guadixban esős időben óvatosságot igényel az óváros macskakövein. Egy templomnál kezdünk, zápor idején gyorsan fedett helyre húzódunk. Délben a katedrálist használjuk egy hosszabb száraz szünetre. Délután az utak a barlangokhoz vezetnek, ahol a talaj csúszós lehet. A nap egy toronynál zárul, kerülve a tócsákat a burkolatlan utakon.",
+            "ro": "Mersul pe bicicletă în Guadix pe ploaie necesită prudență pe pavajul din centrul vechi. Începem la o biserică și ne adăpostim rapid în timpul averselor. La prânz folosim catedrala pentru o pauză lungă la uscat. După-amiaza traseele duc spre peșteri unde solul poate fi alunecos. Ziua se încheie la un turn, evitând bălțile de pe drumurile neasfaltate.",
+            "en": "Cycling in Guadix during rain requires caution on the old town cobblestones. We start at a church and quickly seek shelter during showers. At noon, we use the cathedral for a long dry break. In the afternoon, paths lead to the caves where the ground can be slippery. The day ends at a tower, avoiding puddles on the unpaved roads and keeping a steady pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de San Miguel",
+                "hu": "Iglesia de San Miguel",
+                "ro": "Iglesia de San Miguel",
+                "en": "Iglesia de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang, um Ihr Fahrrad kurz unterzustellen; die Fassade bietet Schutz vor dem ersten Regenschauer des Morgens.",
+                "hu": "Használja a templom bejáratát a kerékpár rövid leállításához; a homlokzat védelmet nyújt a reggel első esőfelhői és záporai elől.",
+                "ro": "Folosiți intrarea bisericii pentru a parca scurt bicicleta la adăpost; fațada oferă protecție împotriva primelor averse de ploaie ale dimineții.",
+                "en": "Use the church entrance to briefly park your bike under cover; the facade offers protection against the morning's first rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Excavación arqueológica en el Callejón de la Tahona",
+                "hu": "Excavación arqueológica en el Callejón de la Tahona",
+                "ro": "Excavación arqueológica en el Callejón de la Tahona",
+                "en": "Excavación arqueológica en el Callejón de la Tahona"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf rutschige Schienen und glatte Steine; die Ausgrabungen wirken im nassen Zustand besonders kontrastreich und alt.",
+                "hu": "Ügyeljen idefelé a csúszós sínekre és sima kövekre; az ásatások nedves állapotban különösen kontrasztosnak és őrinek hatnak a látogató számára.",
+                "ro": "Atenție la șinele alunecoase și pietrele netede în drum spre aici; săpăturile par deosebit de contrastante și vechi atunci când sunt ude.",
+                "en": "Watch out for slippery rails and smooth stones on your way here; the excavations look particularly high-contrast and ancient when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Catedralicio Donum Fidei",
+                "hu": "Museo Catedralicio Donum Fidei",
+                "ro": "Museo Catedralicio Donum Fidei",
+                "en": "Museo Catedralicio Donum Fidei"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; die Kathedrale bietet genügend Zeit im Trockenen, um die Kleidung etwas zu lüften und zu trocknen.",
+                "hu": "Parkolja le kerékpárját egy fedett helyen; a katedrális elég időt biztosít a szárazban ahhoz, hogy ruházata kissé kiszellőzzön és megszáradjon.",
+                "ro": "Parcați bicicleta într-un loc acoperit; catedrala oferă suficient timp la uscat pentru ca hainele să se aerisească și să se usuce puțin.",
+                "en": "Park your bike in a covered spot; the cathedral offers enough time in the dry for your clothes to air out and dry a bit during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Guadix",
+                "hu": "Alcazaba de Guadix",
+                "ro": "Alcazaba de Guadix",
+                "en": "Alcazaba de Guadix"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Festung; die nassen Gefälle können tückisch sein, bieten aber einen tollen Blick auf die glänzenden Dächer.",
+                "hu": "Ellenőrizze a fékeket a várból való leereszkedés előtt; a nedves lejtők trükkösek lehetnek, de remek kilátást nyújtanak a csillogó háztetőkre.",
+                "ro": "Verificați frânele înainte de a coborî de la cetate; pantele umede pot fi înșelătoare, dar oferă o vedere grozavă asupra acoperișurilor strălucitoare.",
+                "en": "Check your brakes before descending from the fortress; the wet slopes can be tricky but offer a great view of the glistening rooftops."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Cerro de la Bala",
+                "hu": "Mirador del Cerro de la Bala",
+                "ro": "Mirador del Cerro de la Bala",
+                "en": "Mirador del Cerro de la Bala"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad zum Hügel kann matschig sein; fahren Sie langsam und genießen Sie die dramatische Gewitterstimmung über der kargen Landschaft.",
+                "hu": "A dombra vezető ösvény sáros lehet; hajtson lassan és élvezze a drámai viharos hangulatot a kopár táj és a barlanglakások felett.",
+                "ro": "Poteca spre deal poate fi noroioasă; conduceți încet și bucurați-vă de atmosfera dramatică de furtună peste peisajul arid și peșteri.",
+                "en": "The path to the hill can be muddy; ride slowly and enjoy the dramatic stormy atmosphere over the barren landscape and the cave dwellings."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Eingang ab und wärmen Sie sich in der Höhle auf; die trockene Luft im Inneren ist eine Wohltat nach der nassen Fahrt.",
+                "hu": "Állítsa le kerékpárját a bejáratnál és melegedjen fel a barlangban; a benti száraz levegő valóságos áldás a nedves és hűvös tekerés után.",
+                "ro": "Parcați bicicleta la intrare și încălziți-vă în peșteră; aerul uscat din interior este o binecuvântare după plimbarea umedă și răcoroasă.",
+                "en": "Park your bike at the entrance and warm up in the cave; the dry air inside is a real blessing after the wet and chilly ride through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Paulenca",
+                "hu": "Torre de Paulenca",
+                "ro": "Torre de Paulenca",
+                "en": "Torre de Paulenca"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Turm führt über unbefestigte Straßen; halten Sie Ausschau nach tiefen Pfützen und tragen Sie einen Kotflügel an Ihrem Fahrrad.",
+                "hu": "A toronyhoz vezető út burkolatlan szakaszokon halad; figyeljen a mély tócsákra, és érdemes sárvédőt használni a kerékpáron a felcsapódó víz ellen.",
+                "ro": "Drumul spre turn trece prin secțiuni neasfaltate; atenție la bălțile adânci și este recomandat să aveți apărători de noroi la bicicletă.",
+                "en": "The road to the tower passes through unpaved sections; watch out for deep puddles and it is recommended to have mudguards on your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Guadix ist belebend durch die kalte, saubere Luft. Wir starten morgens gut eingepackt mit Handschuhen. Mittags nutzen wir die sonnigen Abschnitte für die Fahrt zur Alcazaba. Am Nachmittag bieten die Höhlen eine angenehme Wärme zum Aufwärmen. Vor dem frühen Dunkelwerden um 17:00 Uhr erreichen wir den letzten Turm, bevor die Temperaturen spürbar fallen.",
+            "hu": "A téli kerékpározás Guadixban felpezsdítő a hideg, tiszta levegőnek köszönhetően. Reggel jól felöltözve, kesztyűben indulunk. Délben kihasználjuk a napsütötte szakaszokat az Alcazaba felé vezető úton. Délután a barlangok kellemes meleget kínálnak a felmelegedéshez. A korai, 17:00-s sötétedés előtt érjük el az utolsó tornyot, mielőtt a hőmérséklet hirtelen leesne.",
+            "ro": "Ciclismul de iarnă în Guadix este revigorant datorită aerului rece și curat. Pornim dimineața bine înfofoliți și cu mănuși. La prânz profităm de secțiunile însorite pe drumul spre Alcazaba. După-amiaza, peșterile oferă o căldură plăcută pentru a ne încălzi. Înainte de întunericul de la ora 17:00, ajungem la ultimul turn.",
+            "en": "Winter cycling in Guadix is invigorating thanks to the cold, clean air. We start the morning well-wrapped and wearing gloves. At noon, we take advantage of sunny sections on the way to the Alcazaba. In the afternoon, the caves offer pleasant warmth to warm up. Before the early darkness at 17:00, we reach the last tower as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de San Miguel",
+                "hu": "Iglesia de San Miguel",
+                "ro": "Iglesia de San Miguel",
+                "en": "Iglesia de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie ruhig, um die Muskeln bei der Kälte langsam aufzuwärmen; das Morgenlicht auf der Kirchenfassade ist im Winter besonders klar und schön.",
+                "hu": "Induljon lassan, hogy az izmai a hidegben fokozatosan bemelegedjenek; a templom homlokzatára vetülő reggeli fény télen különösen tiszta és szép.",
+                "ro": "Porniți încet pentru a vă încălzi mușchii treptat în frig; lumina dimineții pe fațada bisericii este deosebit de clară și frumoasă iarna.",
+                "en": "Start slowly to warm up your muscles gradually in the cold; the morning light hitting the church facade is particularly clear and beautiful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Excavación arqueológica en el Callejón de la Tahona",
+                "hu": "Excavación arqueológica en el Callejón de la Tahona",
+                "ro": "Excavación arqueológica en el Callejón de la Tahona",
+                "en": "Excavación arqueológica en el Callejón de la Tahona"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Gassen hier können sehr kühl sein; halten Sie bei der Besichtigung der Ruinen ständig in Bewegung, um nicht auszukühlen.",
+                "hu": "Az itteni árnyékos szűk utcák nagyon hűvösek lehetnek; a romok megtekintése közben maradjon folyamatosan mozgásban, hogy ne hűljön ki a teste.",
+                "ro": "Străduțele umbrite de aici pot fi foarte răcoroase; în timp ce vizitați ruinele, rămâneți în mișcare continuă pentru a nu vă răci corpul.",
+                "en": "The shaded narrow streets here can be very cool; while viewing the ruins, stay in constant motion to keep your body from cooling down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Catedralicio Donum Fidei",
+                "hu": "Museo Catedralicio Donum Fidei",
+                "ro": "Museo Catedralicio Donum Fidei",
+                "en": "Museo Catedralicio Donum Fidei"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger aufzuwärmen; das Innere der Kathedrale ist windstill und bietet eine gute Pause von der Fahrt im Winterwind.",
+                "hu": "Használja ki ezt a megállót az elgémberedett ujjak felmelegítésére; a katedrális belseje szélcsendes, és jó pihenőt kínál a téli szélben való tekerés után.",
+                "ro": "Profitat de această oprire pentru a vă încălzi degetele amorțite; interiorul catedralei este ferit de vânt și oferă o pauză bună după mersul prin vânt.",
+                "en": "Take advantage of this stop to warm up numb fingers; the cathedral interior is windless and offers a good break after riding in the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Guadix",
+                "hu": "Alcazaba de Guadix",
+                "ro": "Alcazaba de Guadix",
+                "en": "Alcazaba de Guadix"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wärmenden Sonnenstrahlen auf den Mauern; der Kontrast zwischen der rötlichen Festung und den weißen Bergen ist im Winter am stärksten.",
+                "hu": "Élvezze a melengető napsugarakat a várfalakon; a vöröses erőd és a fehér hegyek közötti kontraszt télen a legerősebb és leglátványosabb.",
+                "ro": "Bucurați-vă de razele soarelui care vă încălzesc pe zidurile cetății; contrastul dintre fortăreața roșiatică și munții albi este cel mai puternic iarna.",
+                "en": "Enjoy the warming sunbeams on the fortress walls; the contrast between the reddish fortress and the white mountains is strongest and most striking in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Cerro de la Bala",
+                "hu": "Mirador del Cerro de la Bala",
+                "ro": "Mirador del Cerro de la Bala",
+                "en": "Mirador del Cerro de la Bala"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann schneidig sein; ziehen Sie eine winddichte Jacke über, bevor Sie die Aussicht auf das gefroren wirkende Tal genießen.",
+                "hu": "A dombtetőn a szél metsző lehet; vegyen fel szélálló dzsekit, mielőtt gyönyörködni kezd a fagyosnak tűnő völgy és a barlanglakások panorámájában.",
+                "ro": "Vântul pe vârful dealului poate fi tăios; puneți-vă o jachetă rezistentă la vânt înainte de a admira panorama văii care pare înghețată.",
+                "en": "The wind on the hilltop can be biting; put on a windproof jacket before you start admiring the panorama of the frozen-looking valley and cave houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Winterkälte zu entfliehen; die natürliche Erdwärme der Höhle sorgt für ein sofortiges Wohlbefinden nach der Radtour.",
+                "hu": "Tökéletes hely a téli hideg elől való menekülésre; a barlang természetes földhője azonnali jó közérzetet biztosít a kerékpártúra után.",
+                "ro": "Un loc perfect pentru a scăpa de frigul iernii; căldura naturală a pământului din peșteră asigură o stare de bine imediată după tura cu bicicleta.",
+                "en": "A perfect place to escape the winter cold; the cave's natural earth heat provides immediate well-being after the bike ride through the chilly city."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Paulenca",
+                "hu": "Torre de Paulenca",
+                "ro": "Torre de Paulenca",
+                "en": "Torre de Paulenca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es um 17:00 Uhr dunkel wird; das Restlicht des Tages lässt den Turm in einer kühlen, aber schönen Ästhetik erscheinen.",
+                "hu": "Fejezze be a túrát, mielőtt 17:00-kor besötétedik; a nap utolsó fényei hűvös, de gyönyörű esztétikát kölcsönöznek a toronynak és a tájnak.",
+                "ro": "Încheiați turul înainte de a se întuneca la ora 17:00; ultimele lumini ale zilei conferă turnului o estetică răcoroasă, dar foarte frumoasă.",
+                "en": "Finish the tour before it gets dark at 17:00; the day's last lights give the tower a cool but beautiful aesthetic against the winter landscape."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Kezdje festői autózását a Magdalena kilátónál egy reggeli áttekintésért, mielőtt az elegáns színház és a múzeum közelében parkolna. Ebédidőben sétáljon el a hangulatos Concepción kolostor mellett, majd vezessen délre. A délután a barlanglakások felfedezésének és a Poveda kilátás élvezetének van szentelve. Fejezze be útját a mókás versenysport emlékműnél a város szélén.",
         "ro": "Începeți traseul pitoresc la belvederea Magdalena pentru o vedere matinală înainte de a parca lângă teatrul elegant. La prânz, plimbați-vă pe lângă fermecătoarea Mănăstire Concepción înainte de a conduce spre sud spre cartierele de peșteri. După-amiaza este dedicată explorării locuințelor troglodite și savurării priveliștilor Poveda. Încheiați-vă călătoria la reperul curselor.",
         "en": "Begin your scenic drive at Magdalena viewpoint for a sweeping morning overview before parking near the elegant theater and Cathedral museum. For lunch, stroll past the charming Conception Convent before driving south to the unique cave neighborhoods. The afternoon is dedicated to exploring the troglodyte dwellings and enjoying the Poveda vistas. End your road trip at the quirky racing landmark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Guadix bei Regen am bequemsten zu erkunden. Wir starten bei einem Aussichtspunkt und bleiben bei starken Güssen im Wagen. Mittags parken wir nahe der Kathedrale für einen trockenen Museumsbesuch. Nachmittags fahren wir direkt zu den Höhlen, um den Regen im Freien zu minimieren. Der Tag endet sicher, während wir die beschlagenen Scheiben und rutschigen Straßen meistern.",
+            "hu": "Autóval a legkényelmesebb Guadix felfedezése esőben. Egy kilátónál kezdünk, erős zápor esetén a kocsiban maradunk. Délben a katedrális közelében parkolunk egy száraz múzeumlátogatáshoz. Délután közvetlenül a barlangokhoz hajtunk, hogy minimalizáljuk a kinti esőben töltött időt. A nap biztonságosan zárul, miközben kezeljük a párás szélvédőt és a csúszós utakat.",
+            "ro": "Cu mașina este cel mai confortabil să explorezi Guadix pe ploaie. Începem la un punct de belvedere și rămânem în mașină în caz de aversă puternică. La prânz parcăm aproape de catedrală pentru o vizită uscată la muzeu. După-amiaza conducem direct spre peșteri pentru a minimiza timpul petrecut afară în ploaie. Ziua se încheie în siguranță pe drumurile alunecoase.",
+            "en": "Exploring Guadix by car is most comfortable during rain. We start at a viewpoint, staying in the car during heavy downpours. At noon, we park near the cathedral for a dry museum visit. In the afternoon, we drive directly to the caves to minimize time spent outside in the rain. The day ends safely while managing foggy windshields and slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Magdalena",
+                "hu": "Mirador Magdalena",
+                "ro": "Mirador Magdalena",
+                "en": "Mirador Magdalena"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Stadt direkt aus dem Auto, falls es stark regnet; die erhöhte Position bietet auch bei grauem Wetter eine tolle Übersicht.",
+                "hu": "Élvezze a városra nyíló kilátást közvetlenül az autóból, ha erősen esik; a magaslati pozíció szürke időben is remek áttekintést nyújt a környékről.",
+                "ro": "Bucurați-vă de vederea asupra orașului direct din mașină dacă plouă torențial; poziția ridicată oferă o perspectivă excelentă chiar și pe vreme gri.",
+                "en": "Enjoy the view of the city directly from the car if it rains heavily; the elevated position offers a great overview even in gray and gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Mira de Amescua",
+                "hu": "Teatro Mira de Amescua",
+                "ro": "Teatro Mira de Amescua",
+                "en": "Teatro Mira de Amescua"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Theaters, um den Weg im Regen kurz zu halten; die moderne Architektur bietet interessante Fotomotive bei nassem Asphalt.",
+                "hu": "Parkoljon a színház közelében, hogy rövid legyen az út az esőben; a modern építészet érdekes fotótémákat kínál a nedves aszfalton tükröződő fényekkel.",
+                "ro": "Parcați în apropierea teatrului pentru a scurta drumul prin ploaie; arhitectura modernă oferă subiecte foto interesante cu reflexiile de pe asfaltul ud.",
+                "en": "Park near the theater to keep the walk in the rain short; the modern architecture offers interesting photo subjects with reflections on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Catedralicio Donum Fidei",
+                "hu": "Museo Catedralicio Donum Fidei",
+                "ro": "Museo Catedralicio Donum Fidei",
+                "en": "Museo Catedralicio Donum Fidei"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um das Auto zu verlassen und lange im Trockenen zu bleiben; die Kathedrale ist der sicherste Zufluchtsort vor jedem Wolkenbruch.",
+                "hu": "Ideális megálló, hogy kiszálljon az autóból és sokáig szárazon maradjon; a katedrális a legbiztonságosabb menedék bármilyen nagy felhőszakadás elől.",
+                "ro": "O oprire ideală pentru a coborî din mașină și a rămâne mult timp la uscat; catedrala este cel mai sigur refugiu împotriva oricărei averse puternice.",
+                "en": "An ideal stop to get out of the car and stay dry for a long time; the cathedral is the safest refuge from any heavy cloudburst or rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de la Concepción",
+                "hu": "Convento de la Concepción",
+                "ro": "Convento de la Concepción",
+                "en": "Convento de la Concepción"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in den umliegenden Straßen; achten Sie beim Aussteigen auf tiefe Pfützen, die sich oft in den engen Gassen bilden.",
+                "hu": "Használja ki a környező utcák parkolási lehetőségeit; kiszálláskor ügyeljen a mély tócsákra, amelyek gyakran kialakulnak a szűk óvárosi utcákban.",
+                "ro": "Folosiți locurile de parcare din străzile învecinate; la coborâre, atenție la bălțile adânci care se formează adesea în străduțele înguste ale centrului.",
+                "en": "Take advantage of parking in the surrounding streets; when getting out, watch out for deep puddles that often form in the narrow old town streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch das Höhlenviertel, da der Bodenbelag rutschig sein kann; die Höhle selbst ist absolut wasserdicht und gemütlich trocken.",
+                "hu": "Hajtson óvatosan a barlangnegyedben, mert az útburkolat csúszós lehet; maga a barlanglakás teljesen beázásmentes és barátságosan száraz menedék.",
+                "ro": "Conduceți cu atenție prin cartierul de peșteri, deoarece carosabilul poate fi alunecos; peștera în sine este complet uscată și oferă un adăpost primitor.",
+                "en": "Drive carefully through the cave district as the road surface can be slippery; the cave itself is completely waterproof and a cozy, dry sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Padre Poveda",
+                "hu": "Mirador Padre Poveda",
+                "ro": "Mirador Padre Poveda",
+                "en": "Mirador Padre Poveda"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist gut mit dem Auto erreichbar; genießen Sie das Panorama durch die Windschutzscheibe, falls der Regen zu stark für einen Spaziergang ist.",
+                "hu": "A kilátó jól megközelíthető autóval; élvezze a panorámát a szélvédőn keresztül, ha az eső túl erős ahhoz, hogy kiszálljon egy rövid sétára.",
+                "ro": "Punctul de belvedere este ușor accesibil cu mașina; bucurați-vă de panoramă prin parbriz dacă ploaia este prea puternică pentru o plimbare scurtă.",
+                "en": "The viewpoint is easily accessible by car; enjoy the panorama through the windshield if the rain is too heavy for a short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandera compétition en pared",
+                "hu": "Bandera compétition en pared",
+                "ro": "Bandera compétition en pared",
+                "en": "Bandera compétition en pared"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am Straßenrand; halten Sie den Motor laufen und nutzen Sie das Fenster für ein schnelles Bild der Wandmarkierung im Regen.",
+                "hu": "Gyors fotómegálló az út szélén; hagyja járni a motort, és használja az ablakot egy gyors kép elkészítéséhez a falon lévő jelzésről az esőben.",
+                "ro": "O oprire foto rapidă pe marginea drumului; lăsați motorul pornit și folosiți fereastra pentru o poză rapidă a marcajului de pe perete prin ploaie.",
+                "en": "A quick photo stop by the roadside; keep the engine running and use the window for a quick shot of the wall marking during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertouren mit dem Auto in Guadix bieten angenehme Wärme zwischen den Stopps. Wir starten bei einem sonnigen Aussichtspunkt, während die Heizung läuft. Mittags besichtigen wir die Kathedrale und genießen die klare Winterluft. Nachmittags führen die Wege zu den barlangartigen Museen, die natürliche Wärme speichern. Wir beenden den Tag pünktlich zum Sonnenuntergang um 17:00 Uhr, bevor es frostig wird.",
+            "hu": "Az autós téli túrák Guadixban kellemes meleget kínálnak a megállók között. Egy napsütötte kilátónál kezdünk, miközben a fűtés jár. Délben megtekintjük a katedrálist és élvezzük a tiszta téli levegőt. Délután az út a barlangmúzeumokhoz vezet, amelyek tárolják a természetes hőt. A napot pontosan a 17:00-s naplementére fejezzük be, mielőtt fagyossá válna a levegő.",
+            "ro": "Tururile de iarnă cu mașina în Guadix oferă o căldură plăcută între opriri. Începem la un punct de belvedere însorit, cu încălzirea pornită. La prânz vizităm catedrala și ne bucurăm de aerul curat de iarnă. După-amiaza drumul duce spre muzeele-peșteră care păstrează căldura naturală. Încheiem ziua exact la apusul de la ora 17:00.",
+            "en": "Winter car tours in Guadix offer pleasant warmth between stops. We start at a sunny viewpoint with the heater running. At noon, we visit the cathedral and enjoy the crisp winter air. In the afternoon, the path leads to the cave museums which store natural heat. We end the day exactly at the 17:00 sunset before it gets frosty outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Magdalena",
+                "hu": "Mirador Magdalena",
+                "ro": "Mirador Magdalena",
+                "en": "Mirador Magdalena"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Fernsichten; die Sierra Nevada leuchtet weiß am Horizont, während es im Auto gemütlich warm bleibt.",
+                "hu": "Használja ki a tiszta téli fényt a messzire nyíló kilátáshoz; a Sierra Nevada fehéren ragyog a horizonton, miközben az autóban kellemes meleg marad.",
+                "ro": "Profitați de lumina clară de iarnă pentru vederi la distanță; Sierra Nevada strălucește alb la orizont în timp ce în mașină rămâne cald.",
+                "en": "Take advantage of the clear winter light for long-distance views; the Sierra Nevada shines white on the horizon while staying cozy and warm in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Mira de Amescua",
+                "hu": "Teatro Mira de Amescua",
+                "ro": "Teatro Mira de Amescua",
+                "en": "Teatro Mira de Amescua"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien; die moderne Architektur wirkt im harten Winterlicht besonders scharfkantig und bietet tolle Kontraste für Ihre Fotos.",
+                "hu": "Rövid megálló a szabadban; a modern építészet a kemény téli fényben különösen élesnek hat és remek kontrasztokat kínál a fényképeihez.",
+                "ro": "O scurtă oprire în aer liber; arhitectura modernă pare deosebit de clară în lumina dură de iarnă și oferă contraste excelente pentru fotografii.",
+                "en": "A short outdoor stop; the modern architecture looks particularly sharp in the harsh winter light and offers great contrasts for your photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Catedralicio Donum Fidei",
+                "hu": "Museo Catedralicio Donum Fidei",
+                "ro": "Museo Catedralicio Donum Fidei",
+                "en": "Museo Catedralicio Donum Fidei"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet Schutz vor dem kalten Winterwind; planen Sie den Besuch für die Mittagszeit, wenn die Sonne die Außenwände etwas aufwärmt.",
+                "hu": "A katedrális védelmet nyújt a hideg téli szél ellen; tervezze a látogatást délidőre, amikor a nap már valamelyest felmelegíti a külső falakat.",
+                "ro": "Catedrala oferă protecție împotriva vântului rece de iarnă; planificați vizita pentru ora prânzului, când soarele încălzește puțin pereții exteriori.",
+                "en": "The cathedral provides protection against the cold winter wind; plan your visit for midday when the sun warms the exterior walls somewhat."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de la Concepción",
+                "hu": "Convento de la Concepción",
+                "ro": "Convento de la Concepción",
+                "en": "Convento de la Concepción"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisbildung in den schattigen Seitengassen beim Parken; die Ruhe des Klosters passt perfekt zur stillen Winteratmosphäre der Stadt.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos mellékutcákban parkoláskor; a kolostor nyugodt csendje tökéletesen illik a város csendes téli hangulatához.",
+                "ro": "Atenție la formarea poleiului în străduțele umbrite la parcare; liniștea mănăstirii se potrivește perfect cu atmosfera calmă de iarnă a orașului.",
+                "en": "Watch out for ice patches in the shaded side streets when parking; the convent's peaceful silence fits perfectly with the city's quiet winter mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "hu": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "ro": "Centro de Interpretación Cuevas de Guadix - Cueva Museo",
+                "en": "Centro de Interpretación Cuevas de Guadix - Cueva Museo"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlen sind im Winter ein idealer Wärmespeicher; genießen Sie das behagliche Innere und parken Sie direkt am Eingang für minimalen Kältekontakt.",
+                "hu": "A barlangok télen ideális hőtárolók; élvezze a barátságos belsőt, és parkoljon közvetlenül a bejáratnál, hogy minimalizálja a hideggel való érintkezést.",
+                "ro": "Peșterile sunt rezervoare ideale de căldură iarna; bucurați-vă de interiorul primitor și parcări direct la intrare pentru a evita frigul.",
+                "en": "The caves are ideal heat stores in winter; enjoy the cozy interior and park directly at the entrance to minimize contact with the outside cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Padre Poveda",
+                "hu": "Mirador Padre Poveda",
+                "ro": "Mirador Padre Poveda",
+                "en": "Mirador Padre Poveda"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr, um das Glühen der Höhlen bei Sonnenuntergang zu sehen; die klare Luft sorgt für die besten Fotobedingungen des ganzen Jahres.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a barlangok izzását naplementekor; a tiszta levegő biztosítja az egész év legjobb fotózási körülményeit.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea strălucirea peșterilor la apus; aerul curat asigură cele mai bune condiții foto din tot anul.",
+                "en": "Arrive before 17:00 to see the glow of the caves at sunset; the clear air provides the best photography conditions of the entire year here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandera compétition en pared",
+                "hu": "Bandera compétition en pared",
+                "ro": "Bandera compétition en pared",
+                "en": "Bandera compétition en pared"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Stopp, bevor die winterliche Dunkelheit hereinbricht; die Markierung an der Wand ist auch im schwindenden Licht des kurzen Tages gut zu erkennen.",
+                "hu": "Egy utolsó megálló, mielőtt beáll a téli sötétség; a falon lévő jelzés a rövid nappal fogyatkozó fényében is jól látható marad a látogatók számára.",
+                "ro": "O ultimă oprire înainte de lăsarea întunericului de iarnă; marcajul de pe perete rămâne bine vizibil chiar și în lumina slabă a zilei scurte.",
+                "en": "A last stop before winter darkness falls; the wall marking remains clearly visible even in the fading light of the short winter day for visitors."
+              }
+            }
+          ]
+        }
       }
     }
   }

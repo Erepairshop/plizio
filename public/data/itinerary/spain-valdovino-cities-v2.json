@@ -137,6 +137,168 @@
         "hu": "A reggel a községi központban kezdődik, megtekintve Valdoviño történelmi szívét, majd a Castro de Poulo ősi romjaihoz sétálunk. Délben elérjük a lagúna szélét, és a madármegfigyelőt használjuk. A délutánt a természetnek szenteljük, átszelve a védett vizes élőhelyeket. Az este elhoz minket a Praia da Frouxeira híres, hosszan elnyúló homokos partjához.",
         "ro": "Dimineața începe în centrul municipal, admirând primăria din Valdoviño, înainte de a merge spre ruinele antice Castro de Poulo. La prânz, ajungem la marginea lagunei, folosind observatorul de păsări. După-amiaza este dedicată naturii, traversând zonele umede protejate. Seara ne aduce pe nisipurile celebre și întinse de la spectaculoasa Praia da Frouxeira.",
         "en": "Morning starts at the municipal heart, taking in the historical center of Valdoviño before walking slightly south to the ancient ruins of Castro de Poulo. By midday, we reach the lagoon's edge, utilizing the bird observatory for wildlife spotting. The afternoon is dedicated to nature, traversing the protected wetlands. Evening brings us to the famous sweeping sands of Praia da Frouxeira."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Valdoviño im Regen bietet eine mystische Atmosphäre. Beginnen Sie im Rathaus, bevor Sie die archäologischen Stätten im Schutz Ihres Regenschirms erkunden. Mittags bietet das Vogelobservatorium einen trockenen Rückzugsort mit Blick auf die Lagune. Der Nachmittag am stürmischen Strand ist intensiv; wasserfeste Kleidung und festes Schuhwerk sind heute unerlässlich für die rutschigen Pfade.",
+            "hu": "Valdoviño esőben misztikus arcát mutatja. Kezdje a városházánál, majd esernyővel vágjon neki a régészeti helyszíneknek. Délben a madárles nyújt fedett menedéket a lagúnára néző kilátással. A délutáni viharos tengerparti séta lenyűgöző; a vízálló ruházat és a csúszásmentes bakancs ma elengedhetetlen a sáros ösvényeken.",
+            "ro": "Valdoviño în ploaie oferă o atmosferă mistică. Începeți la primărie, apoi explorați siturile arheologice protejați de umbrelă. La prânz, observatorul de păsări oferă un refugiu uscat cu vedere la lagună. După-amiaza pe plaja furtunoasă este intensă; îmbrăcămintea impermeabilă și ghetele aderente sunt esențiale pe potecile alunecoase.",
+            "en": "Valdoviño in the rain offers a mystical atmosphere. Start at the town hall before exploring the archaeological sites under your umbrella. At noon, the bird observatory provides a dry shelter with lagoon views. An afternoon walk by the stormy beach is intense; waterproof gear and sturdy boots are essential today for the slippery coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Concello de Valdoviño",
+                "hu": "Concello de Valdoviño",
+                "ro": "Concello de Valdoviño",
+                "en": "Concello de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Verwaltungszentrum als trockenen Startpunkt; die Architektur wirkt im Regen besonders markant, ideal für Fotos unter dem Vordach.",
+                "hu": "Látogasson el a közigazgatási központba száraz kezdésként; az épület esőben is karakteres, a bejárat alatti árkádok pedig jó menedéket nyújtanak.",
+                "ro": "Vizitați centrul administrativ ca punct de plecare uscat; arhitectura este marcantă chiar și în ploaie, iar arcadele oferă un adăpost bun.",
+                "en": "Visit the administrative center as a dry starting point; the architecture stands out even in the rain, and the entrance porch offers good shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Poulo",
+                "hu": "Castro de Poulo",
+                "ro": "Castro de Poulo",
+                "en": "Castro de Poulo"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die keltischen Überreste mit Vorsicht, da die grasbewachsenen Pfade heute sehr rutschig sind; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "Fedezze fel a kelta maradványokat óvatosan, mivel a füves ösvények ma nagyon csúszósak; mindenképpen viseljen vízálló túrabakancsot a sár miatt.",
+                "ro": "Explorați vestigiile celtice cu prudență, deoarece potecile cu iarbă sunt foarte alunecoase astăzi; purtați neapărat ghete de munte impermeabile.",
+                "en": "Explore the Celtic remains with caution as the grassy paths are very slippery today; be sure to wear waterproof hiking boots for the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "hu": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "ro": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "en": "Observatorio Ornitolóxico da Lagoa da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Observatorium als perfekten Unterstand, um die Vögel im Regen zu beobachten; bringen Sie ein Fernglas mit, um im Trockenen zu bleiben.",
+                "hu": "Használja az obszervatóriumot tökéletes fedett menedékként a madarak megfigyeléséhez esőben; hozzon távcsövet, hogy szárazon maradva élvezhesse a látványt.",
+                "ro": "Folosiți observatorul ca adăpost perfect pentru a urmări păsările în ploaie; aduceți binoclu pentru a vă bucura de peisaj rămânând la adăpost.",
+                "en": "Use the observatory as a perfect covered shelter to watch the birds in the rain; bring binoculars to enjoy the view while staying dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt im Nebel fast magisch, aber bleiben Sie auf den befestigten Holzwegen, um nasse Füße im sumpfigen Gelände zu vermeiden.",
+                "hu": "A lagúna ködben szinte mágikusnak tűnik, de maradjon a kiépített fapallókon, hogy elkerülje a lábak elázását a mocsarasabb részeken.",
+                "ro": "Laguna pare aproape magică în ceață, dar rămâneți pe pasarelele de lemn amenajate pentru a evita umezirea picioarelor în zonele mlăștinoase.",
+                "en": "The lagoon looks almost magical in the mist, but stay on the wooden boardwalks to avoid getting wet feet in the marshy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Frouxeira",
+                "hu": "Praia da Frouxeira",
+                "ro": "Praia da Frouxeira",
+                "en": "Praia da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die gewaltige Brandung des Atlantiks aus sicherer Entfernung; der Wind kann Regenschirme unbrauchbar machen, Regenponchos helfen.",
+                "hu": "Figyelje az Atlanti-óceán hatalmas hullámait biztonságos távolságból; a szél itt az esernyőket tönkreteheti, a poncsó sokkal jobb választás.",
+                "ro": "Observați valurile uriașe ale Atlanticului de la o distanță sigură; vântul poate distruge umbrelele aici, o pelerină de ploaie este mai utilă.",
+                "en": "Watch the massive Atlantic surf from a safe distance; the wind can render umbrellas useless here, so rain ponchos are a much better choice."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Spaziergang durch Valdoviño erfordert warme Schichten gegen den Nordwind. Der Vormittag gehört der Geschichte im Ortskern, gefolgt von der ruhigen Lagune. Nutzen Sie das Tageslicht für das Vogelobservatorium, da die Sonne gegen 17:00 Uhr sinkt. Der Abend am Strand ist kurz und kühl; kehren Sie frühzeitig in ein gemütliches Café im Dorf zurück zum Aufwärmen.",
+            "hu": "A téli séta Valdoviñóban meleg rétegeket igényel az északi szél miatt. A délelőtt a történelemé a központban, majd a csendes lagúna következik. Használja ki a világosságot a madárlesnél, mert a nap 17:00 körül lebukik. A tengerparti este rövid és hűvös; térjen be korán egy barátságos falusi kávézóba melegedni.",
+            "ro": "O plimbare de iarnă prin Valdoviño necesită haine groase împotriva vântului de nord. Dimineața aparține istoriei în centru, urmată de laguna liniștită. Profitați de lumină la observatorul de păsări, deoarece soarele apune în jurul orei 17:00. Seara la plajă este scurtă și răcoroasă; retrageți-vă devreme într-o cafenea primitoare din sat.",
+            "en": "A winter walk in Valdoviño requires warm layers against the north wind. The morning is for history in the center, followed by the quiet lagoon. Make the most of the daylight at the bird observatory, as the sun sets around 17:00. The evening at the beach is short and cool; head back early to a cozy village café to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Concello de Valdoviño",
+                "hu": "Concello de Valdoviño",
+                "ro": "Concello de Valdoviño",
+                "en": "Concello de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klare Linienführung des Gebäudes im harten Winterlicht; ein kurzer Stopp im Inneren hilft, sich vor der nächsten Etappe kurz aufzuwärmen.",
+                "hu": "Csodálja meg az épület tiszta vonalait az éles téli fényben; egy rövid benti megálló segít felmelegedni a következő szabadtéri szakasz előtt.",
+                "ro": "Admirați liniile clare ale clădirii în lumina aspră de iarnă; o scurtă oprire în interior ajută la încălzire înainte de următoarea etapă afară.",
+                "en": "Admire the building's clean lines in the sharp winter light; a quick stop inside helps you warm up before the next outdoor stage."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Poulo",
+                "hu": "Castro de Poulo",
+                "ro": "Castro de Poulo",
+                "en": "Castro de Poulo"
+              },
+              "tip_5lang": {
+                "de": "Der Hügel bietet im Winter eine weite Sicht über die kahle Landschaft; winddichte Kleidung ist hier oben wegen der ungeschützten Lage ein absolutes Muss.",
+                "hu": "A domb télen széles kilátást nyújt a kopár tájra; a szélálló ruházat itt fent az ingatag, kitett fekvés miatt elengedhetetlen kellék.",
+                "ro": "Dealul oferă iarna o vedere largă asupra peisajului golaș; îmbrăcămintea rezistentă la vânt este obligatorie aici din cauza expunerii mari.",
+                "en": "The hill offers a wide view over the bare landscape in winter; windproof clothing is an absolute must up here due to the exposed location."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "hu": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "ro": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "en": "Observatorio Ornitolóxico da Lagoa da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den geschützten Blick auf die Wintervögel; da es drinnen kühl sein kann, ist eine Thermoskanne mit heißem Tee ideal für die Beobachtung.",
+                "hu": "Élvezze a védett kilátást a téli madarakra; mivel bent hűvös lehet, egy termosz forró tea ideális kísérő a hosszabb megfigyeléshez.",
+                "ro": "Bucurați-vă de vederea protejată asupra păsărilor de iarnă; deoarece în interior poate fi răcoare, un termos cu ceai fierbinte este ideal.",
+                "en": "Enjoy the protected view of winter birds; since it can be cool inside, a thermos of hot tea is an ideal companion for birdwatching."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Luft lässt die Feuchtgebiete besonders ruhig erscheinen; achten Sie auf die Zeit, damit Sie vor dem frühen Sonnenuntergang am Strand ankommen.",
+                "hu": "A fagyos levegőben a mocsárvidék különösen csendes; figyeljen az időre, hogy még a korai naplemente előtt elérje a közeli tengerpartot.",
+                "ro": "Aerul înghețat face zonele umede să pară deosebit de liniștite; fiți atenți la timp pentru a ajunge la plajă înainte de apusul timpuriu.",
+                "en": "The frosty air makes the wetlands seem especially quiet; watch the time so you reach the beach before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Frouxeira",
+                "hu": "Praia da Frouxeira",
+                "ro": "Praia da Frouxeira",
+                "en": "Praia da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit des Strandes bei tiefstehender Wintersonne; nach 17:00 Uhr wird es schnell dunkel, beenden Sie Ihren Spaziergang rechtzeitig.",
+                "hu": "Tapasztalja meg a part nyers szépségét az alacsonyan járó téli napnál; 17:00 után gyorsan sötétedik, fejezze be időben a parti sétát.",
+                "ro": "Experimentați frumusețea brută a plajei sub soarele jos de iarnă; după ora 17:00 se întunecă rapid, terminați plimbarea pe mal la timp.",
+                "en": "Experience the raw beauty of the beach under the low winter sun; it gets dark quickly after 17:00, so finish your shore walk in good time."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A békés Igrexa de Santa Eulalia-tól indulunk, a lagúna felé kerekezve, hogy a madármegfigyelőből lássuk a helyi vadvilágot. A déli órákat a védett vizes élőhelyek melletti kerékpározással töltjük. Délután eltekerünk az ikonikus Praia da Frouxeira mellett, hogy elérjük a zord part menti sziklákat. Az este a tengerre néző, ősi kelta erődítményekkel jutalmazza fáradozásainkat.",
         "ro": "Pornim de la pașnica Igrexa de Santa Eulalia, mergând spre lagună pentru a observa fauna din observatorul de păsări. Orele amiezii le petrecem mergând cu bicicleta pe lângă zonele umede protejate. După-amiaza, trecem de iconica Praia da Frouxeira pentru a ajunge la stâncile de coastă accidentate. Seara ne recompensează cu forturi antice care domină marea spectaculoasă.",
         "en": "We pedal off from the peaceful Igrexa de Santa Eulalia, cruising toward the lagoon to spot local wildlife from the dedicated bird observatory. Midday hours are spent riding alongside the protected wetlands, breathing in the fresh coastal air. In the afternoon, we cycle past the iconic Praia da Frouxeira to reach the rugged coastal cliffs. Evening rewards us with ancient forts overlooking the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenstraßen von Valdoviño. Starten Sie bei der Kirche und nutzen Sie das Vogelobservatorium als trockene Pause. Die Lagune und der Strand wirken dramatisch, aber meiden Sie sandige Wege, die zu Schlamm werden. Tragen Sie Neonfarben für bessere Sichtbarkeit bei grauem Wetter und prüfen Sie Ihre Bremsen vorab.",
+            "hu": "A kerékpározás esőben óvatosságot igényel Valdoviño part menti útjain. Kezdjen a templomnál, és használja a madárlest száraz pihenőként. A lagúna és a strand drámai látványt nyújt, de kerülje a homokos utakat, amik sárrá válnak. Viseljen élénk színeket a jobb láthatóságért a szürke időben.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile de coastă din Valdoviño. Începeți la biserică și folosiți observatorul ca pauză uscată. Laguna și plaja par dramatice, dar evitați drumurile nisipoase care devin noroi. Purtați culori neon pentru o vizibilitate mai bună pe vreme gri.",
+            "en": "Cycling in the rain requires caution on Valdoviño's coastal roads. Start at the church and use the bird observatory as a dry break. The lagoon and beach look dramatic, but avoid sandy paths that turn into mud. Wear neon colors for better visibility in grey weather and check your brakes beforehand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa Eulalia",
+                "hu": "Igrexa de Santa Eulalia",
+                "ro": "Igrexa de Santa Eulalia",
+                "en": "Igrexa de Santa Eulalia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche als trockenen Rückzugsort; bewundern Sie die Stille im Inneren, während draußen der Regen gegen die alten Steinmauern peitscht.",
+                "hu": "Látogasson el a templomba, mint száraz menedékbe; csodálja meg a benti csendet, miközben kint az eső veri a régi kőfalakat.",
+                "ro": "Vizitați biserica ca refugiu uscat; admirați liniștea din interior în timp ce afară ploaia bate în zidurile vechi de piatră.",
+                "en": "Visit the church as a dry retreat; admire the silence inside while the rain lashes against the old stone walls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "hu": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "ro": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "en": "Observatorio Ornitolóxico da Lagoa da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Hütte zur Beobachtung; im Regen sind oft weniger Besucher hier, was die Sicht verbessert.",
+                "hu": "Támassza le a biciklit az előtető alá, és használja a kunyhót megfigyelésre; esőben kevesebb a látogató, így zavartalanabb a madárles.",
+                "ro": "Lăsați bicicleta sub streașină și folosiți cabana pentru observații; în ploaie sunt mai puțini vizitatori, ceea ce îmbunătățește experiența.",
+                "en": "Park your bike under the overhang and use the hut for watching; there are often fewer visitors in the rain, improving the birding experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Holzstegen, da diese bei Nässe extrem glatt sein können; halten Sie die Augen nach Wasservögeln im Schilf offen.",
+                "hu": "Tekerjen lassan a fapallókon, mert nedvesen rendkívül csúszósak lehetnek; tartsa szemmel a nádasban rejtőző vízimadarakat.",
+                "ro": "Pedalați încet pe pasarelele de lemn, deoarece pot fi extrem de alunecoase când sunt ude; căutați păsările de apă în stufăriș.",
+                "en": "Cycle slowly on the wooden boardwalks, as they can be extremely slick when wet; keep an eye out for waterbirds in the reeds."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Frouxeira",
+                "hu": "Praia da Frouxeira",
+                "ro": "Praia da Frouxeira",
+                "en": "Praia da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt am Strandzugang ist griffiger als die Pfade; genießen Sie die Gischt des Meeres, aber achten Sie auf starke Windböen von der Seite.",
+                "hu": "A strandbejáró aszfaltja jobban tapad, mint az ösvények; élvezze a tengerpermetet, de ügyeljen az oldalról érkező erős széllökésekre.",
+                "ro": "Asfaltul de la intrarea pe plajă oferă aderență mai bună; bucurați-vă de spray-ul mării, dar fiți atenți la rafalele puternice de vânt.",
+                "en": "The asphalt at the beach entrance is grippier than the paths; enjoy the sea spray, but watch out for strong side-wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Punta Frouxeira",
+                "hu": "Castro de Punta Frouxeira",
+                "ro": "Castro de Punta Frouxeira",
+                "en": "Castro de Punta Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Landspitze ist bei Regen exponiert; tragen Sie eine gute Regenjacke und meiden Sie die Felsränder, da der Boden aufweichen kann.",
+                "hu": "A félsziget felé vezető út esőben nagyon kitett; viseljen jó esőkabátot, és kerülje a sziklaszéleket, mert a talaj felázhat.",
+                "ro": "Drumul spre peninsulă este foarte expus în ploaie; purtați o jachetă impermeabilă bună și evitați marginile stâncilor din cauza solului moale.",
+                "en": "The path to the point is very exposed in the rain; wear a good raincoat and avoid the cliff edges as the ground can become soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Punta do Bico",
+                "hu": "Castro de Punta do Bico",
+                "ro": "Castro de Punta do Bico",
+                "en": "Castro de Punta do Bico"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vorsichtig; die Steine bei den Ruinen sind nass sehr rutschig. Suchen Sie nach dem Abstellen des Rads einen überdachten Ort.",
+                "hu": "Fejezze be óvatosan a túrát; a romoknál a kövek vizesen nagyon csúszósak. A kerékpár leállítása után keressen egy fedett helyet a pihenéshez.",
+                "ro": "Încheiați turul cu atenție; pietrele de la ruine sunt foarte alunecoase când sunt ude. Căutați un loc acoperit după ce parcați bicicleta.",
+                "en": "Finish your tour carefully; the stones near the ruins are very slippery when wet. Look for a covered spot to rest after parking the bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Valdoviño ist erfrischend, aber kalt. Die Route führt Sie von historischen Kirchen zu windigen Aussichtspunkten. Das Licht am Nachmittag an den Castros ist spektakulär, doch planen Sie Ihre Rückkehr vor 17:00 Uhr ein. Warme Handschuhe und ein Windbreaker sind für die Abfahrten an der Küste unerlässlich, um nicht auszukühlen.",
+            "hu": "A téli kerékpártúra Valdoviñóban frissítő, de hideg. Az útvonal történelmi templomoktól szeles kilátókig vezet. A délutáni fények a kelta romoknál látványosak, de tervezze a visszaérkezést 17:00 előtt. A meleg kesztyű és a szélkabát elengedhetetlen a parti lejtőkön, hogy ne hűljön ki.",
+            "ro": "Un tur de iarnă cu bicicleta prin Valdoviño este revigorant, dar rece. Traseul vă duce de la biserici istorice la puncte de belvedere vântoase. Lumina după-amiezii la castre este spectaculoasă, dar planificați întoarcerea înainte de ora 17:00. Mănușile groase și jacheta de vânt sunt esențiale.",
+            "en": "A winter bike tour through Valdoviño is refreshing but cold. The route leads from historical churches to windy viewpoints. The afternoon light at the Castros is spectacular, but plan to return before 17:00. Warm gloves and a windbreaker are essential for the coastal descents to stay warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa Eulalia",
+                "hu": "Igrexa de Santa Eulalia",
+                "ro": "Igrexa de Santa Eulalia",
+                "en": "Igrexa de Santa Eulalia"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche wirkt im tiefen Sonnenstand des Winters majestätisch; nutzen Sie den windgeschützten Vorplatz für einen kurzen Check Ihrer Ausrüstung.",
+                "hu": "A templom fenséges látványt nyújt a tél alacsony napállásánál; használja a szélvédett előteret a felszerelés utolsó ellenőrzéséhez.",
+                "ro": "Biserica arată maiestuos sub soarele jos de iarnă; folosiți curtea ferită de vânt pentru o scurtă verificare a echipamentului.",
+                "en": "The church looks majestic in the low winter sun; use the wind-sheltered courtyard for a quick check of your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "hu": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "ro": "Observatorio Ornitolóxico da Lagoa da Frouxeira",
+                "en": "Observatorio Ornitolóxico da Lagoa da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Im Winter rasten hier viele Zugvögel; wärmen Sie Ihre Hände in der Beobachtungshütte auf, bevor Sie den windigen Abschnitt zum Strand antreten.",
+                "hu": "Télen sok költöző madár pihen itt; melegítse fel kezeit a figyelőkunyhóban, mielőtt nekivágna a strand felé vezető szeles szakasznak.",
+                "ro": "Iarna aici se odihnesc multe păsări migratoare; încălziți-vă mâinile în cabană înainte de a porni pe secțiunea vântoasă spre plajă.",
+                "en": "Many migratory birds rest here in winter; warm your hands in the observation hut before heading onto the windy section toward the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Lagunenlandschaft bietet klare Fernsichten; achten Sie beim Treten auf gefrorene Stellen auf den Brücken am frühen Morgen.",
+                "hu": "A fagyos lagúnatáj tiszta távlatokat kínál; figyeljen a pedálozáskor a hidakon lévő esetleges fagyott foltokra a kora reggeli órákban.",
+                "ro": "Peisajul înghețat al lagunei oferă vederi clare; aveți grijă la petele de gheață de pe poduri în orele dimineții când pedalați.",
+                "en": "The frosty lagoon landscape offers clear distant views; watch out for frozen patches on the bridges during early morning pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Frouxeira",
+                "hu": "Praia da Frouxeira",
+                "ro": "Praia da Frouxeira",
+                "en": "Praia da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind kann am offenen Strand sehr stark sein; halten Sie Ihren Körper in Bewegung und tragen Sie eine Mütze unter dem Helm.",
+                "hu": "A téli szél nagyon erős lehet a nyílt tengerparton; maradjon mozgásban, és viseljen vékony sapkát a sisak alatt a hőveszteség ellen.",
+                "ro": "Vântul de iarnă poate fi foarte puternic pe plaja deschisă; rămâneți în mișcare și purtați o căciulă subțire sub cască.",
+                "en": "The winter wind can be very strong on the open beach; keep your body moving and wear a thin skull cap under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Punta Frouxeira",
+                "hu": "Castro de Punta Frouxeira",
+                "ro": "Castro de Punta Frouxeira",
+                "en": "Castro de Punta Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den winterlichen Atlantik ist grandios; ziehen Sie sich warm an, da der Wind an der Spitze extrem beißen kann.",
+                "hu": "A kilátás a téli Atlanti-óceánra innen fentről nagyszerű; öltözzön rétegesen, mert a szél a csúcson rendkívül metsző tud lenni.",
+                "ro": "Vedere asupra Atlanticului de iarnă este grandioasă de aici; îmbrăcați-vă bine, deoarece vântul la vârf poate fi extrem de tăios.",
+                "en": "The view of the winter Atlantic is magnificent from up here; dress warmly as the wind at the point can be extremely biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Punta do Bico",
+                "hu": "Castro de Punta do Bico",
+                "ro": "Castro de Punta do Bico",
+                "en": "Castro de Punta do Bico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das letzte Tageslicht an den Ruinen; da die Sonne um 17:00 Uhr untergeht, sollten Sie jetzt die Rückfahrt mit Licht antreten.",
+                "hu": "Élvezze az utolsó nappali fényeket a romoknál; mivel a nap 17:00 körül lemegy, ideje elindulni visszafelé bekapcsolt lámpákkal.",
+                "ro": "Bucurați-vă de ultima lumină la ruine; deoarece soarele apune la ora 17:00, ar trebui să porniți înapoi cu luminile aprinse.",
+                "en": "Enjoy the last daylight at the ruins; as the sun sets around 17:00, you should now start your return journey with lights on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autózás a hagyományos Igrexa de Santa Eulalia-nál kezdődik, mielőtt a központban lévő városházához érnénk. Dél körül az útvonal feltárja a lenyűgöző védett vizes élőhelyeket és a Praia da Frouxeira lélegzetelállító kiterjedését. A délutáni út a partot öleli át, ősi romokat és eldugott öblöket fedezve fel. Végül csodálja meg a naplementét a Miradoiro do Paraño kilátónál.",
         "ro": "Conducerea dvs. începe la tradiționala Igrexa de Santa Eulalia înainte de a vă muta la primăria din centrul municipal. În jurul prânzului, traseul se deschide spre zonele umede protejate și întinderea de la Praia da Frouxeira. După-amiaza, traseul îmbrățișează coasta, explorând ruinele antice și golfuri izolate. În cele din urmă, prindeți apusul spectaculos la Miradoiro do Paraño.",
         "en": "Your drive begins at the traditional Igrexa de Santa Eulalia before shifting to the town hall at the municipal center. Around midday, the route opens up to the stunning protected wetlands and the breathtaking expanse of Praia da Frouxeira. The afternoon drive hugs the coast, exploring ancient cliffside ruins and secluded coves like Praia dos Curas. Finally, catch the sunset at Miradoiro do Paraño."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Valdoviño mit dem Auto ist die komfortabelste Wahl an Regentagen. Sie erreichen die historischen Kirchen und Aussichtspunkte trocken und sicher. Die Lagune bietet vom Parkplatz aus tolle Ausblicke, falls der Regen zu stark wird. Achten Sie auf Aquaplaning auf den Küstenstraßen und parken Sie auf befestigten Flächen, um nicht im Schlamm stecken zu bleiben.",
+            "hu": "Valdoviño autóval a legkényelmesebb választás esős napokon. Szárazon és biztonságban érheti el a történelmi templomokat és kilátókat. A lagúna a parkolóból is szép kilátást nyújt, ha túl intenzívvé válna az eső. Ügyeljen a vízenfutásra a parti utakon, és csak szilárd burkolaton parkoljon.",
+            "ro": "Valdoviño cu mașina este cea mai confortabilă alegere în zilele ploioase. Ajungeți la bisericile istorice și punctele de belvedere uscat și în siguranță. Laguna oferă vederi excelente din parcare dacă ploaia devine prea puternică. Atenție la acvaplanare pe drumurile de coastă.",
+            "en": "Valdoviño by car is the most comfortable choice on rainy days. You can reach the historical churches and viewpoints dry and safe. The lagoon offers great views from the parking area if the rain becomes too intense. Watch out for aquaplaning on coastal roads and park on paved surfaces to avoid mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa Eulalia",
+                "hu": "Igrexa de Santa Eulalia",
+                "ro": "Igrexa de Santa Eulalia",
+                "en": "Igrexa de Santa Eulalia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Eingang für einen trockenen Zugang; die alten Mauern strahlen bei Regen eine besonders andächtige Ruhe aus.",
+                "hu": "Parkoljon közvetlenül a bejáratnál a száraz bejutás érdekében; a régi falak esőben különösen áhítatos nyugalmat árasztanak.",
+                "ro": "Parcați direct în fața intrării pentru un acces uscat; zidurile vechi emană o liniște aparte atunci când plouă afară.",
+                "en": "Park right in front of the entrance for dry access; the old walls exude a particularly devout calm when it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Valdoviño",
+                "hu": "Concello de Valdoviño",
+                "ro": "Concello de Valdoviño",
+                "en": "Concello de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Rathaus als zentralen Stopp im Trockenen; in der Nähe gibt es Parkplätze, von denen aus Sie das Ortszentrum erkunden können.",
+                "hu": "Használja a városházát központi száraz megállóként; a közelben több parkoló is van, ahonnan rövid sétával elérhető a központ.",
+                "ro": "Folosiți primăria ca oprire centrală la uscat; există parcări în apropiere de unde puteți explora centrul orașului cu umbrela.",
+                "en": "Use the town hall as a central dry stop; there are parking spots nearby from which you can explore the town center with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Sicht auf die Lagune; falls es schüttet, können Sie die Vögel sogar bequem aus dem Auto heraus beobachten.",
+                "hu": "A parkolóból jó rálátás nyílik a lagúnára; ha szakad az eső, a madarakat akár kényelmesen az autóból is megfigyelheti távcsővel.",
+                "ro": "Parcarea oferă o vedere bună asupra lagunei; dacă plouă torențial, puteți observa păsările confortabil chiar din mașină.",
+                "en": "The parking lot offers a good view of the lagoon; if it pours, you can even observe the birds comfortably from the car with binoculars."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Frouxeira",
+                "hu": "Praia da Frouxeira",
+                "ro": "Praia da Frouxeira",
+                "en": "Praia da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf unbefestigten Seitenstreifen wegen Matschgefahr; der befestigte Bereich am Strandzugang ist bei Regen sicherer.",
+                "hu": "Kerülje a parkolást a burkolatlan útpadkán a sárveszély miatt; a strandbejáratnál lévő szilárd burkolatú rész esőben sokkal biztonságosabb.",
+                "ro": "Evitați parcarea pe marginile neasfaltate din cauza riscului de noroi; zona asfaltată de la intrarea pe plajă este mai sigură.",
+                "en": "Avoid parking on unpaved shoulders due to mud risk; the paved area at the beach entrance is much safer when it's raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Punta Frouxeira",
+                "hu": "Castro de Punta Frouxeira",
+                "ro": "Castro de Punta Frouxeira",
+                "en": "Castro de Punta Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zur Landspitze, da der Wind das Fahrzeug erfassen kann; genießen Sie den dramatischen Blick auf das Meer im Regen.",
+                "hu": "Hajtson óvatosan a félsziget felé, mert a szél belekaphat az autóba; élvezze a tenger drámai látványát az esőben a szélvédő mögül.",
+                "ro": "Conduceți cu atenție spre peninsulă, deoarece vântul poate lovi mașina; bucurați-vă de vederea dramatică a mării prin parbriz.",
+                "en": "Drive carefully toward the point as wind gusts can affect the vehicle; enjoy the dramatic view of the sea in the rain from behind the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Curas",
+                "hu": "Praia dos Curas",
+                "ro": "Praia dos Curas",
+                "en": "Praia dos Curas"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Strandabschnitt ist schnell vom Parkplatz aus zu erreichen; ideal für einen kurzen Blick auf die Brandung zwischen den Schauern.",
+                "hu": "Ez a kis strandrész gyorsan elérhető a parkolóból; ideális egy rövid pillantásra a hullámokra két zápor között.",
+                "ro": "Această mică secțiune de plajă este rapid accesibilă din parcare; ideală pentru o scurtă privire asupra valurilor între averse.",
+                "en": "This small beach section is quickly accessible from the parking lot; ideal for a brief look at the surf between rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Paraño",
+                "hu": "Miradoiro do Paraño",
+                "ro": "Miradoiro do Paraño",
+                "en": "Miradoiro do Paraño"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet Schutz im Auto; bei schlechter Sicht ist die Atmosphäre über der Küste dennoch beeindruckend und weitläufig.",
+                "hu": "A kilátópont védelmet nyújt az autóban; rossz látási viszonyok mellett is lenyűgöző és tágas a part feletti hangulat.",
+                "ro": "Punctul de belvedere oferă protecție în mașină; chiar și cu vizibilitate redusă, atmosfera de deasupra coastei rămâne impresionantă.",
+                "en": "The viewpoint provides shelter in the car; even with poor visibility, the atmosphere over the coast remains impressive and expansive."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt entlang der Küste von Valdoviño bietet spektakuläre Panoramen ohne Touristenmassen. Nutzen Sie die kurzen Tage für Besuche an den Castros und der Lagune. Der Sonnenuntergang am Miradoiro do Paraño gegen 17:00 Uhr ist ein Highlight. Eine gute Heizung und klare Scheiben sind wichtig für die kurvigen, oft feuchten Straßen dieser Region.",
+            "hu": "A téli autózás Valdoviño partjainál látványos panorámát kínál turistatömegek nélkül. Használja ki a rövid nappalokat a kelta romok és a lagúna felkeresésére. A naplemente a Miradoiro do Paraño-nál 17:00 körül a nap fénypontja. A jó fűtés és a tiszta ablakok fontosak a kanyargós, párás utakon.",
+            "ro": "Condusul iarna de-a lungul coastei Valdoviño oferă panorame spectaculoase fără mulțimi de turiști. Profitați de zilele scurte pentru a vizita castrele și laguna. Apusul la Miradoiro do Paraño în jurul orei 17:00 este punctul culminant. Încălzirea bună este importantă pe drumurile curbe.",
+            "en": "A winter drive along Valdoviño's coast offers spectacular panoramas without tourist crowds. Use the short days to visit the Castros and the lagoon. The sunset at Miradoiro do Paraño around 17:00 is a highlight. Good heating and clear windows are important for the winding, often misty roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa Eulalia",
+                "hu": "Igrexa de Santa Eulalia",
+                "ro": "Igrexa de Santa Eulalia",
+                "en": "Igrexa de Santa Eulalia"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche strahlt in der klaren Winterluft eine besondere Erhabenheit aus; parken Sie in der Sonne, um das Auto für die Weiterfahrt natürlich zu wärmen.",
+                "hu": "A templom a tiszta téli levegőben különleges fennköltséget áraszt; parkoljon a napos oldalon, hogy az autó természetes módon melegedjen.",
+                "ro": "Biserica emană o noblețe aparte în aerul curat de iarnă; parcați la soare pentru a încălzi mașina în mod natural pentru drum.",
+                "en": "The church radiates a special grandeur in the clear winter air; park in the sun to naturally warm up the car for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Valdoviño",
+                "hu": "Concello de Valdoviño",
+                "ro": "Concello de Valdoviño",
+                "en": "Concello de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus ist im Winter ein ruhiger Ort; nutzen Sie die kurzen Wege vom Parkplatz, um das Gebäude im weichen Nachmittagslicht zu fotografieren.",
+                "hu": "A városháza télen csendes hely; használja ki a parkolóból vezető rövid utat, hogy az épületet a lágy délutáni fényben fotózhassa meg.",
+                "ro": "Primăria este un loc liniștit iarna; profitați de drumul scurt din parcare pentru a fotografia clădirea în lumina blândă a după-amiezii.",
+                "en": "The town hall is a quiet place in winter; take advantage of the short walk from the parking lot to photograph the building in the soft afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "hu": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "ro": "Zona Húmida Protexida Lagoa e Areal de Valdoviño",
+                "en": "Zona Húmida Protexida Lagoa e Areal de Valdoviño"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wintervögel direkt vom Parkplatz aus; die feuchte Kälte am Ufer wird durch die Autoheizung zwischendurch schnell vergessen.",
+                "hu": "Figyelje meg a téli madarakat közvetlenül a parkolóból; a parti nyirkos hideget az autófűtés segítségével gyorsan elfelejtheti a megállók között.",
+                "ro": "Observați păsările de iarnă direct din parcare; frigul umed de pe mal va fi rapid uitat datorită încălzirii din mașină între opriri.",
+                "en": "Observe the winter birds directly from the parking lot; the damp cold on the shore is quickly forgotten with the car's heater between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Frouxeira",
+                "hu": "Praia da Frouxeira",
+                "ro": "Praia da Frouxeira",
+                "en": "Praia da Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, leeren Strand im Winter; achten Sie auf die Zeit, da das Licht für die kurvigen Küstenstraßen ab 17:00 Uhr schwindet.",
+                "hu": "Élvezze a tágas, üres strandot télen; figyeljen az időre, mert a kanyargós parti utakhoz szükséges fény 17:00 után gyorsan elfogy.",
+                "ro": "Bucurați-vă de plaja largă și goală iarna; fiți atenți la timp, deoarece lumina pentru drumurile de coastă dispare după ora 17:00.",
+                "en": "Enjoy the expansive, empty beach in winter; watch the time, as the light needed for the winding coastal roads fades after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Punta Frouxeira",
+                "hu": "Castro de Punta Frouxeira",
+                "ro": "Castro de Punta Frouxeira",
+                "en": "Castro de Punta Frouxeira"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Spitze ist oft sehr windig im Winter; steigen Sie nur kurz aus, um die gewaltige Aussicht auf den Ozean zu genießen.",
+                "hu": "A csúcson lévő parkoló télen gyakran nagyon szeles; csak rövid időre szálljon ki, hogy megcsodálja az óceán hatalmas látványát.",
+                "ro": "Parcarea din vârf este adesea foarte vântoasă iarna; coborâți doar pentru scurt timp pentru a admira vederea uriașă asupra oceanului.",
+                "en": "The parking lot at the point is often very windy in winter; get out only briefly to admire the massive view of the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Curas",
+                "hu": "Praia dos Curas",
+                "ro": "Praia dos Curas",
+                "en": "Praia dos Curas"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dieser Ort fast menschenleer; nutzen Sie den nahen Parkplatz für einen schnellen Stopp, bevor die Dämmerung einsetzt.",
+                "hu": "Télen ez a hely szinte teljesen néptelen; használja a közeli parkolót egy gyors megállóra, mielőtt beállna a korai szürkület.",
+                "ro": "Iarna acest loc este aproape pustiu; folosiți parcarea apropiată pentru o oprire rapidă înainte de lăsarea amurgului.",
+                "en": "This place is almost deserted in winter; use the nearby parking for a quick stop before the early dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Paraño",
+                "hu": "Miradoiro do Paraño",
+                "ro": "Miradoiro do Paraño",
+                "en": "Miradoiro do Paraño"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den Winter-Sonnenuntergang um 17:00 Uhr; genießen Sie das Farbspiel über dem Atlantik bequem und warm aus Ihrem Fahrzeug.",
+                "hu": "Ideális hely a téli naplemente megtekintéséhez 17:00 körül; élvezze az Atlanti-óceán feletti játékszíneket kényelmesen a meleg autóból.",
+                "ro": "Locul ideal pentru apusul de iarnă la ora 17:00; bucurați-vă de spectacolul culorilor deasupra Atlanticului din mașina călduroasă.",
+                "en": "The ideal spot for the winter sunset at 17:00; enjoy the play of colors over the Atlantic comfortably from the warmth of your vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

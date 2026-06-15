@@ -137,6 +137,168 @@
         "hu": "A reggelt Raul Wallenberg örökségének felfedezésével kezdjük, amely a svéd történelem inspiráló része. A déli órákban a Lidingö Múzeum és az érdekes Ögat emlékmű hoz közelebb a helyi örökséghez. Délután egy kellemes séta vezet az ikonikus Näsets kvarn szélmalomhoz. Békés sétánkat a történelmi Lidingö Kyrka esti meglátogatásával zárjuk.",
         "ro": "Începem dimineața explorând moștenirea lui Raul Wallenberg, o parte inspirantă a istoriei suedeze. La amiază ne apropiem de patrimoniul local la Muzeul Lidingö și la intrigantul monument Ögat. După-amiaza, o plimbare relaxantă ne conduce la moara de vânt emblematică Näsets kvarn. Încheiem turul nostru pietonal liniștit cu o vizită de seară la biserica istorică Lidingö Kyrka.",
         "en": "We start our morning exploring the legacy of Raul Wallenberg, an inspiring piece of Swedish history. Midday brings us closer to local heritage at the Lidingö Museum and the intriguing Ögat monument. During the afternoon, a leisurely stroll leads us to the iconic Näsets kvarn windmill. We conclude our peaceful walking tour with an evening visit to the historic Lidingö Kyrka."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Wallenberg-Denkmal, wo der Wind vom Wasser her weht. Ein fester Regenschirm ist hier unerlässlich.\n\nMittags bietet das Lidingö-Museum den perfekten Rückzugsort, um trocken zu bleiben und tief in die lokale Geschichte einzutauchen.\n\nAm Nachmittag führt der Weg zur Näsets kvarn; die alte Mühle wirkt im grauen Licht besonders dramatisch und fotogen.\n\nDer Tag endet in der Lidingö-Kirche, wo die friedliche Stille und das Trommeln des Regens auf dem Dach für eine gemütliche Atmosphäre sorgen.",
+            "hu": "A reggel a Wallenberg-emlékműnél kezdődik, ahol a víz felől fújó szél miatt egy erős esernyő elengedhetetlen kellék.\n\nDélidőben a Lidingö Múzeum nyújt tökéletes menedéket, ahol szárazon maradhatunk, miközben elmerülünk a helyi történelemben.\n\nDélután az út a Näsets kvarn felé vezet; a régi malom a szürke fényekben különösen drámai és fotogén látványt nyújt.\n\nA nap a Lidingö templomban ér véget, ahol a békés csend és az eső kopogása a tetőn meghitt hangulatot áraszt a túra végére.",
+            "ro": "O dimineață ploioasă începe la monumentul Wallenberg, unde vântul de pe apă face ca o umbrelă rezistentă să fie esențială.\n\nLa prânz, Muzeul Lidingö oferă refugiul perfect pentru a rămâne uscat în timp ce explorezi istoria locală fascinantă.\n\nDupă-amiaza, drumul duce spre Näsets kvarn; vechea moară de vânt arată dramatic și fotogenic sub cerul gri de toamnă.\n\nZiua se încheie la biserica Lidingö, unde liniștea deplină și sunetul ploii pe acoperiș creează o atmosferă primitoare și caldă.",
+            "en": "A rainy morning starts at the Wallenberg monument, where the wind from the water makes a sturdy umbrella an essential companion.\n\nAt noon, the Lidingö Museum provides the perfect shelter to stay dry while diving deep into the fascinating local history.\n\nIn the afternoon, the path leads to Näsets kvarn; the old windmill looks particularly dramatic and photogenic in the grey light.\n\nThe day concludes at Lidingö Church, where the peaceful silence and the patter of rain on the roof create a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Raul Wallenbergs gärning-",
+                "hu": "Raul Wallenbergs gärning-",
+                "ro": "Raul Wallenbergs gärning-",
+                "en": "Raul Wallenbergs gärning-"
+              },
+              "tip_5lang": {
+                "de": "Ehren Sie den Helden am Ufer; der Wind kann Regen peitschen, tragen Sie daher unbedingt eine wasserfeste Kapuze.",
+                "hu": "Tiszelegjen a hős előtt a parton; a szél az esőt is befújhatja, ezért mindenképpen viseljen vízálló kapucnit.",
+                "ro": "Onorați eroul pe malul apei; vântul poate viscoli ploaia, așa că purtați neapărat o glugă impermeabilă.",
+                "en": "Honor the hero by the shore; the wind can whip the rain around, so be sure to wear a waterproof hood."
+              }
+            },
+            {
+              "name": {
+                "de": "Ögat--",
+                "hu": "Ögat--",
+                "ro": "Ögat--",
+                "en": "Ögat--"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Skulptur im Regen; der Boden drumherum ist bei Nässe rutschig, gehen Sie also besonders vorsichtig.",
+                "hu": "Nézze meg a szobrot az esőben; a környező burkolat vizesen csúszós, ezért haladjon fokozott óvatossággal.",
+                "ro": "Priviți sculptura prin ploaie; pavajul din jur este alunecos când e ud, așa că mergeți cu mare atenție.",
+                "en": "View the sculpture through the rain; the surrounding pavement is slippery when wet, so walk with extra care."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö museum",
+                "hu": "Lidingö Múzeum",
+                "ro": "Muzeul Lidingö",
+                "en": "Lidingö museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses gemütliche Museum als Regenpause; die Ausstellungen sind drinnen und bieten viel Wärme und Kultur.",
+                "hu": "Használja ezt a barátságos múzeumot eső elleni pihenőként; a kiállítások bent vannak, meleget és kultúrát kínálnak.",
+                "ro": "Folosiți acest muzeu primitor ca popas împotriva ploii; expozițiile sunt în interior și oferă căldură și cultură.",
+                "en": "Use this cozy museum as a rain break; the exhibits are indoors and offer plenty of warmth and culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsets kvarn",
+                "hu": "Näsets kvarn",
+                "ro": "Näsets kvarn",
+                "en": "Näsets kvarn"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist ein tolles Fotomotiv bei Sturm; suchen Sie kurz unter dem Dachvorsprung Schutz für ein trockenes Bild.",
+                "hu": "A malom nagyszerű fotótéma viharos időben; keressen rövid menedéket az eresz alatt egy száraz fényképhez.",
+                "ro": "Moara este un subiect foto excelent pe vreme furtunoasă; căutați scurt adăpost sub streșină pentru o poză reușită.",
+                "en": "The mill is a great photo subject in stormy weather; seek brief shelter under the eaves for a dry picture."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö kyrka",
+                "hu": "Lidingö kyrka",
+                "ro": "Lidingö kyrka",
+                "en": "Lidingö kyrka"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren der Kirche auf; die Akustik des Regens auf den Fenstern wirkt hier besonders beruhigend.",
+                "hu": "Melegedjen fel a templom belsejében; az ablakokon kopogó eső akusztikája itt különösen megnyugtatóan hat.",
+                "ro": "Încălziți-vă în interiorul bisericii; acustica ploii care bate în ferestre are aici un efect deosebit de liniștitor.",
+                "en": "Warm up inside the church; the acoustics of the rain hitting the windows are particularly soothing here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Wallenberg-Denkmal ist frostig und klar. Ziehen Sie sich warm an, da die Meeresbrise eisig sein kann.\n\nMittags ist das Lidingö-Museum der ideale Ort, um sich bei einer Portion lokaler Geschichte aufzuwärmen.\n\nDa die Sonne bereits gegen 15:30 Uhr untergeht, erreichen Sie Näsets kvarn im magischen Licht der Dämmerung, wenn der Schnee glitzert.\n\nDer Tag endet in der Lidingö-Kirche; die warme Innenbeleuchtung bildet einen wunderbaren Kontrast zur winterlichen Dunkelheit draußen.",
+            "hu": "A téli reggel a Wallenberg-emlékműnél fagyos és tiszta. Öltözzön rétegesen, mert a tengeri szél metsző lehet.\n\nDélidőben a Lidingö Múzeum az ideális helyszín a felmelegedésre, miközben elmélyedünk a sziget múltjában.\n\nMivel a nap már délután fél 4 körül nyugszik, a Näsets kvarn-t a szürkület mágikus fényeiben érjük el, amikor a hó csillog.\n\nA nap a Lidingö templomban ér véget; a belső világítás meleg fénye csodás kontrasztot alkot a kinti téli sötétséggel.",
+            "ro": "Dimineața de iarnă la monumentul Wallenberg este geroasă și senină. Îmbrăcați-vă bine, deoarece briza mării poate fi tăioasă.\n\nLa prânz, Muzeul Lidingö este locul ideal pentru încălzire, în timp ce explorezi trecutul fascinant al insulei.\n\nDeoarece soarele apune deja în jurul orei 15:30, veți ajunge la Näsets kvarn în lumina magică a amurgului, când zăpada strălucește.\n\nZiua se încheie la biserica Lidingö; iluminatul interior cald oferă un contrast minunat cu întunericul iernii de afară.",
+            "en": "The winter morning at the Wallenberg monument is frosty and clear. Dress in layers, as the sea breeze can be biting.\n\nAt noon, the Lidingö Museum is the ideal place to warm up while immersing yourself in the island's past.\n\nSince the sun sets as early as 15:30, you will reach Näsets kvarn in the magical light of dusk, when the snow glistens.\n\nThe day concludes at Lidingö Church; the warm interior lighting provides a wonderful contrast to the winter darkness outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Raul Wallenbergs gärning-",
+                "hu": "Raul Wallenbergs gärning-",
+                "ro": "Raul Wallenbergs gärning-",
+                "en": "Raul Wallenbergs gärning-"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Wasser; tragen Sie Thermo-Socken, um die Kälte vom Boden fernzuhalten.",
+                "hu": "Élvezze a tiszta téli levegőt a vízparton; viseljen termozoknit, hogy távol tartsa a talaj felőli hideget.",
+                "ro": "Bucurați-vă de aerul curat de iarnă de lângă apă; purtați șosete termice pentru a vă proteja de frigul de la sol.",
+                "en": "Enjoy the crisp winter air by the water; wear thermal socks to keep the cold from the ground away."
+              }
+            },
+            {
+              "name": {
+                "de": "Ögat--",
+                "hu": "Ögat--",
+                "ro": "Ögat--",
+                "en": "Ögat--"
+              },
+              "tip_5lang": {
+                "de": "Die Skulptur wirkt bei Frost besonders abstrakt; Vorsicht vor Glatteis auf den umliegenden Wegen beim Fotografieren.",
+                "hu": "A szobor különösen absztrakt látványt nyújt fagyban; vigyázzon a jegesedésre a környező utakon fotózás közben.",
+                "ro": "Sculptura pare deosebit de abstractă sub ger; atenție la gheața de pe potecile din jur în timp ce faceți poze.",
+                "en": "The sculpture looks especially abstract in the frost; watch out for black ice on the surrounding paths while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö museum",
+                "hu": "Lidingö Múzeum",
+                "ro": "Muzeul Lidingö",
+                "en": "Lidingö museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Auftauen; genießen Sie die warme Atmosphäre und erfahren Sie mehr über Lidingös Wintertraditionen.",
+                "hu": "A tökéletes hely a felengedésre; élvezze a meleg légkört, és tudjon meg többet Lidingö téli hagyományairól.",
+                "ro": "Locul perfect pentru dezghețare; bucurați-vă de atmosfera caldă și aflați mai multe despre tradițiile de iarnă din Lidingö.",
+                "en": "The perfect place to thaw out; enjoy the warm atmosphere and learn more about Lidingö's winter traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsets kvarn",
+                "hu": "Näsets kvarn",
+                "ro": "Näsets kvarn",
+                "en": "Näsets kvarn"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie den Kontrast der roten Mühle zum weißen Schnee; nutzen Sie das kurze Tageslicht effizient für Ihre Bilder.",
+                "hu": "Keresse a vörös malom és a fehér hó kontrasztját; használja ki hatékonyan a rövid nappali fényt a fotózáshoz.",
+                "ro": "Căutați contrastul morii roșii cu zăpada albă; folosiți eficient lumina scurtă a zilei pentru fotografiile voastre.",
+                "en": "Look for the contrast of the red mill against the white snow; use the short daylight efficiently for your pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö kyrka",
+                "hu": "Lidingö kyrka",
+                "ro": "Lidingö kyrka",
+                "en": "Lidingö kyrka"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Kirche in der frühen Dunkelheit; die sanfte Beleuchtung macht sie zu einem friedlichen Ort der Ruhe.",
+                "hu": "Nézze meg a templomot a korai sötétségben; a lágy megvilágítás a béke és a nyugalom szigetévé varázsolja.",
+                "ro": "Vizitați biserica în întunericul timpuriu; iluminarea blândă o transformă într-un loc pașnic de odihnă.",
+                "en": "See the church in the early darkness; the soft lighting makes it a peaceful sanctuary of rest."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a Millesgården látványos szobraival és művészi kilátásaival. Kora délután a sziget központjában pedálozva fedezze fel a Lidingö Múzeum kiállításait és a békés Lidingö Kyrkát. A délutáni tekerés a híres Lidingöloppet ösvényeken át Grönstaviken buja természetébe vezet. Az aktív nap tökéletes lezárásaként töltsön egy nyugodt estét a Lilla viken partján.",
         "ro": "Începeți dimineața cu sculpturile spectaculoase și perspectivele artistice de la Millesgården. La amiază, pedalând prin centrul insulei descoperiți exponatele Muzeului Lidingö și biserica Lidingö Kyrka. Plimbarea de după-amiază vă poartă pe faimoasele trasee Lidingöloppet în natura luxuriantă din Grönstaviken. Ziua activă se încheie perfect cu o seară liniștită la Lilla viken.",
         "en": "Kick off the morning with the spectacular sculptures and artistic vistas of Millesgården. By midday, pedaling through the island's core reveals the exhibits of Lidingö Museum and the serene Lidingö Kyrka. The afternoon ride takes you along the famous Lidingöloppet trails into the lush nature of Grönstaviken. Your active day winds down perfectly with a peaceful evening at Lilla viken."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start bei Millesgården, wo die Skulpturen im Nebel geheimnisvoll wirken. Vorsicht in den Kurven bei nassem Laub.\n\nMittags bietet das Lidingö-Museum einen trockenen Ort, um die Glieder zu strecken und die Räder sicher abzustellen.\n\nAm Nachmittag geht es an der Küste entlang nach Grönstaviken; wasserdichte Überschuhe sind hier Gold wert.\n\nDie Tour endet bei Lilla viken; die graue Ostsee wirkt rau und beeindruckend, während Sie den letzten Regenschauer abwarten.",
+            "hu": "Vizes kezdés a Millesgårdennél, ahol a szobrok titokzatosan hatnak a ködben. A kanyarokban vigyázzon a nedves levelekre.\n\nDélidőben a Lidingö Múzeum nyújt száraz helyet a végtagok átmozgatásához és a biciklik biztonságos leállításához.\n\nDélután a part mentén haladunk Grönstaviken felé; a vízálló kamásli itt aranyat ér a pedálozás közben.\n\nA túra a Lilla vikennél zárul; a szürke Balti-tenger zord és lenyűgöző látvány, miközben az utolsó esőfelhők elvonulnak.",
+            "ro": "Un început umed la Millesgården, unde sculpturile par misterioase în ceață. Atenție în curbe la frunzele ude pe carosabil.\n\nLa prânz, Muzeul Lidingö oferă un loc uscat pentru a vă întinde picioarele și pentru a parca bicicletele în siguranță.\n\nDupă-amiaza, pedalați de-a lungul coastei spre Grönstaviken; protecțiile impermeabile pentru pantofi sunt esențiale aici.\n\nTurul se încheie la Lilla viken; Marea Baltică gri pare aspră și impresionantă în timp ce așteptați trecerea ploii.",
+            "en": "A wet start at Millesgården, where the sculptures look mysterious in the mist. Use caution in turns due to wet leaves.\n\nAt noon, the Lidingö Museum provides a dry place to stretch your limbs and park your bikes safely.\n\nIn the afternoon, cycle along the coast towards Grönstaviken; waterproof shoe covers are worth their weight in gold here.\n\nThe tour ends at Lilla viken; the grey Baltic Sea looks rugged and impressive while you wait for the last rain shower to pass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Millesgården",
+                "hu": "Millesgården",
+                "ro": "Millesgården",
+                "en": "Millesgården"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Terrassen im Regen; die Steintreppen können rutschig sein, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Fedezze fel a teraszokat esőben; a kőlépcsők csúszósak lehetnek, viseljen jó tapadású talpú cipőt.",
+                "ro": "Explorați terasele prin ploaie; treptele de piatră pot fi alunecoase, purtați pantofi cu talpă aderentă.",
+                "en": "Explore the terraces in the rain; the stone steps can be slippery, so wear shoes with good tread."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö museum",
+                "hu": "Lidingö Múzeum",
+                "ro": "Muzeul Lidingö",
+                "en": "Lidingö museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften; parken Sie Ihr Rad nah am Eingang im überdachten Bereich.",
+                "hu": "Ideális hely az esőruházat rövid szellőztetésére; parkoljon közel a bejárathoz a fedett részen.",
+                "ro": "Un loc ideal pentru a vă aerisi scurt hainele de ploaie; parcați bicicleta aproape de intrare în zona acoperită.",
+                "en": "An ideal place to briefly air out your rain gear; park your bike close to the entrance in the covered area."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö kyrka",
+                "hu": "Lidingö kyrka",
+                "ro": "Lidingö kyrka",
+                "en": "Lidingö kyrka"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Zwischenstopp; die Kirche bietet einen trockenen Raum für eine kurze meditative Pause vom Radfahren.",
+                "hu": "Csendes pihenőhely; a templom száraz teret biztosít egy rövid meditatív szünetre a biciklizés közben.",
+                "ro": "Un popas liniștit; biserica oferă un spațiu uscat pentru o scurtă pauză meditativă în timpul pedalatului.",
+                "en": "A quiet pit stop; the church provides a dry space for a short meditative break from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingöloppet",
+                "hu": "Lidingöloppet",
+                "ro": "Lidingöloppet",
+                "en": "Lidingöloppet"
+              },
+              "tip_5lang": {
+                "de": "Bereiten Sie sich auf matschige Wege vor; Schutzbleche am Rad verhindern, dass der Regen von unten Ihre Kleidung durchnässt.",
+                "hu": "Készüljön fel a sáros utakra; a sárvédők megakadályozzák, hogy az esővíz alulról áztassa el a ruházatát.",
+                "ro": "Pregătiți-vă pentru poteci noroioase; aripile la bicicletă vor preveni stropirea hainelor cu apă de jos.",
+                "en": "Prepare for muddy paths; mudguards on your bike will prevent rain spray from soaking your clothes from below."
+              }
+            },
+            {
+              "name": {
+                "de": "Grönstaviken",
+                "hu": "Grönstaviken",
+                "ro": "Grönstaviken",
+                "en": "Grönstaviken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht unter einem Baum; die Küstenbrise trocknet die Kleidung schnell, sobald der Regen nachlässt.",
+                "hu": "Élvezze a kilátást egy fa alatt; a parti szél gyorsan megszárítja a ruhát, amint alábbhagy az eső.",
+                "ro": "Bucurați-vă de priveliște sub un copac; briza de coastă usucă rapid hainele imediat ce ploaia se oprește.",
+                "en": "Enjoy the view under a tree; the coastal breeze dries clothes quickly as soon as the rain eases up."
+              }
+            },
+            {
+              "name": {
+                "de": "Lilla viken",
+                "hu": "Lilla viken",
+                "ro": "Lilla viken",
+                "en": "Lilla viken"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt mit einem heißen Getränk aus der Thermoskanne; das Beobachten der Regentropfen auf dem Meer ist sehr entspannend.",
+                "hu": "Zárja az utat egy forró itallal a termoszból; a tengerre hulló esőcseppek figyelése rendkívül pihentető.",
+                "ro": "Încheiați călătoria cu o băutură caldă din termos; privitul picăturilor de ploaie pe mare este foarte relaxant.",
+                "en": "End the ride with a hot drink from your thermos; watching the raindrops on the sea is very relaxing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start bei Millesgården; die gefrorenen Brunnen und verschneiten Statuen bieten eine märchenhafte Kulisse.\n\nMittags dient das Lidingö-Museum als wichtiger Aufwärmstopp, um die gefühllosen Finger wieder zu beleben.\n\nAm Nachmittag führt die Route über die frostigen Wege des Lidingöloppet; Vorsicht vor glatten Stellen unter dem Neuschnee.\n\nDie Tour endet bei Lilla viken in der blauen Stunde; da es früh dunkel wird, sind funktionierende Lichter am Rad absolut notwendig.",
+            "hu": "Hűvös kezdés a Millesgårdennél; a befagyott szökőkutak és havas szobrok mesebeli díszletet kínálnak a túrához.\n\nDélidőben a Lidingö Múzeum fontos felmelegedési pontként szolgál, hogy újra életet leheljünk elgémberedett ujjainkba.\n\nDélután az út a Lidingöloppet fagyos ösvényein halad; vigyázzon a friss hó alatti jeges szakaszokra.\n\nA túra a Lilla vikennél zárul a kék órában; mivel korán sötétedik, a működő kerékpáros lámpák elengedhetetlenek.",
+            "ro": "Un început răcoros la Millesgården; fântânile înghețate și statuile înzăpezite oferă un decor de poveste pentru traseu.\n\nLa prânz, Muzeul Lidingö servește ca punct important de încălzire pentru a vă dezmorți degetele amorțite.\n\nDupă-amiaza, ruta trece pe potecile înghețate de la Lidingöloppet; atenție la porțiunile cu gheață sub zăpada proaspătă.\n\nTurul se încheie la Lilla viken în ora albastră; deoarece se întunecă devreme, luminile funcționale la bicicletă sunt obligatorii.",
+            "en": "A chilly start at Millesgården; the frozen fountains and snow-covered statues offer a fairytale backdrop for the ride.\n\nAt noon, the Lidingö Museum serves as a vital warming stop to bring life back to numb fingers.\n\nIn the afternoon, the route takes you across the frosty paths of Lidingöloppet; watch out for icy patches under fresh snow.\n\nThe tour ends at Lilla viken during the blue hour; since it gets dark early, working lights on your bike are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Millesgården",
+                "hu": "Millesgården",
+                "ro": "Millesgården",
+                "en": "Millesgården"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Gartenkunst; tragen Sie dicke Handschuhe, um den Lenker auch bei Minusgraden fest im Griff zu halten.",
+                "hu": "Csodálja meg a téli kertművészetet; viseljen vastag kesztyűt, hogy a kormányt fagypont alatt is biztosan tartsa.",
+                "ro": "Admirați arta grădinăritului pe timp de iarnă; purtați mănuși groase pentru a ține bine ghidonul chiar și sub zero grade.",
+                "en": "Admire the winter garden art; wear thick gloves to keep a firm grip on the handlebars even in freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö museum",
+                "hu": "Lidingö Múzeum",
+                "ro": "Muzeul Lidingö",
+                "en": "Lidingö museum"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss, um die Körpertemperatur zu halten; nutzen Sie den Besuch, um die Akkus Ihrer Beleuchtung kurz nachzuladen.",
+                "hu": "Kötelező megálló a testhőmérséklet megőrzéséhez; használja ki a látogatást a lámpák akkumulátorának rövid töltésére.",
+                "ro": "O oprire obligatorie pentru a menține temperatura corpului; profitați de vizită pentru a reîncărca scurt bateriile luminilor.",
+                "en": "A must-stop to maintain body temperature; use the visit to briefly recharge your light batteries if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö kyrka",
+                "hu": "Lidingö kyrka",
+                "ro": "Lidingö kyrka",
+                "en": "Lidingö kyrka"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den friedlichen Friedhof im Schnee; prüfen Sie vor der Weiterfahrt, ob Ihre Bremsen nicht eingefroren sind.",
+                "hu": "Látogassa meg a békés temetőt a hóban; továbbhaladás előtt ellenőrizze, hogy a fékek nem fagytak-e be.",
+                "ro": "Vizitați cimitirul liniștit acoperit de zăpadă; verificați dacă frânele nu au înghețat înainte de a pleca mai departe.",
+                "en": "Visit the peaceful cemetery in the snow; check that your brakes aren't frozen before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingöloppet",
+                "hu": "Lidingöloppet",
+                "ro": "Lidingöloppet",
+                "en": "Lidingöloppet"
+              },
+              "tip_5lang": {
+                "de": "Die Trails sind bei Frost herrlich fest; vermeiden Sie abrupte Bremsmanöver auf eventuell vereisten Wurzeln.",
+                "hu": "A trail ösvények fagyban nagyszerűen kemények; kerülje a hirtelen fékezést az esetlegesen jeges gyökereken.",
+                "ro": "Traseele sunt minunat de ferme pe ger; evitați frânările bruște pe rădăcinile care pot fi înghețate.",
+                "en": "The trails are wonderfully firm during frost; avoid abrupt braking maneuvers on potentially icy roots."
+              }
+            },
+            {
+              "name": {
+                "de": "Grönstaviken",
+                "hu": "Grönstaviken",
+                "ro": "Grönstaviken",
+                "en": "Grönstaviken"
+              },
+              "tip_5lang": {
+                "de": "Das Eis in der Bucht glänzt in der Nachmittagssonne; halten Sie sich in Bewegung, um nicht auszukühlen.",
+                "hu": "Az öböl jele csillog a délutáni napsütésben; maradjon mozgásban, hogy elkerülje a test lehűlését.",
+                "ro": "Gheața din golf strălucește în soarele după-amiezii; rămâneți în mișcare pentru a nu lăsa corpul să se răcească.",
+                "en": "The ice in the bay glistens in the afternoon sun; keep moving to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": {
+                "de": "Lilla viken",
+                "hu": "Lilla viken",
+                "ro": "Lilla viken",
+                "en": "Lilla viken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:00 Uhr; reflektierende Kleidung ist für den Heimweg in der Dunkelheit jetzt Pflicht.",
+                "hu": "Élvezze a naplementét 16:00 körül; a fényvisszaverő ruházat mostantól kötelező a sötétben való hazatekeréshez.",
+                "ro": "Bucurați-vă de apusul de la ora 16:00; îmbrăcămintea reflectorizantă este acum obligatorie pentru drumul spre casă pe întuneric.",
+                "en": "Enjoy the sunset around 16:00; reflective clothing is now mandatory for the ride home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "A reggeli autózás a Finlandsparkenben kezdődik, mielőtt átkelne a Millesgården csodálatos teraszaihoz. Dél körül az útvonal elhalad a történelmi Lidingö Kyrka mellett, bepillantást engedve a sziget spirituális központjába. A délután a Kappsta rezervátum védett természeti szépségének felfedezésére hív. Fejezze be autós kirándulását egy pihentető esti fürdőzéssel a Fågelöuddebadet strandon.",
         "ro": "Călătoria de dimineață începe la Finlandsparken înainte de a trece spre magnificele terase de la Millesgården. În jurul prânzului, traseul trece pe lângă istorica Lidingö Kyrka, oferind o privire asupra inimii spirituale a insulei. După-amiaza vă invită să explorați frumusețea naturală protejată a rezervației Kappsta. Încheiați călătoria cu o baie de seară relaxantă la Fågelöuddebadet.",
         "en": "Your morning drive begins at Finlandsparken before crossing over to the magnificent terraces of Millesgården. Around midday, the route passes the historic Lidingö Kyrka, offering a glimpse into the island's spiritual heart. The afternoon invites you to explore the protected natural beauty of the Kappsta reserve. End your road trip with a relaxing evening swim or seaside rest at Fågelöuddebadet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start im Finlandsparken; genießen Sie den Blick auf die Fähren sicher im trockenen Auto.\n\nMittags führt die Fahrt nach Millesgården; der Parkplatz ist nah am Eingang, sodass Sie nur kurz dem Regen ausgesetzt sind.\n\nAm Nachmittag erkunden Sie das Naturschutzgebiet Kappsta; die Waldwege riechen bei Regen herrlich frisch und erdig.\n\nDer Tag endet am Fågelöuddebadet; beobachten Sie das stürmische Meer gemütlich durch die Windschutzscheibe bei einer Tasse Kaffee.",
+            "hu": "Nyugodt kezdés a Finlandsparkennél; élvezze a kompok látványát biztonságban, a száraz autóban ülve.\n\nDélidőben az út a Millesgårdenhez vezet; a parkoló közel van a bejárathoz, így csak rövid ideig kell az esőben lenni.\n\nDélután fedezze fel a Kappsta természetvédelmi területet; az erdei utak illata esőben csodálatosan friss és földes.\n\nA nap a Fågelöuddebadetnél zárul; figyelje a viharos tengert kényelmesen a szélvédőn keresztül egy csésze kávé mellett.",
+            "ro": "Un început relaxat în Finlandsparken; admirați feriboturile în siguranță, din mașina caldă și uscată.\n\nLa prânz, drumul duce spre Millesgården; parcarea este aproape de intrare, deci veți fi expuși ploii doar pentru scurt timp.\n\nDupă-amiaza, explorați rezervația naturală Kappsta; potecile din pădure miros minunat de proaspăt și pământiu pe ploaie.\n\nZiua se încheie la Fågelöuddebadet; priviți marea agitată confortabil prin parbriz, cu o ceașcă de cafea în mână.",
+            "en": "A relaxed start at Finlandsparken; enjoy the view of the ferries safely from the dry car.\n\nAt noon, the drive leads to Millesgården; the parking lot is close to the entrance, so you are only briefly exposed to the rain.\n\nIn the afternoon, explore the Kappsta nature reserve; the forest paths smell wonderfully fresh and earthy in the rain.\n\nThe day ends at Fågelöuddebadet; watch the stormy sea comfortably through the windshield with a cup of coffee."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Finlandsparken",
+                "hu": "Finlandsparken",
+                "ro": "Finlandsparken",
+                "en": "Finlandsparken"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Hafen; nutzen Sie die Scheibenwischer-Intervallschaltung für eine klare Sicht auf die Schiffe.",
+                "hu": "Parkoljon a kikötőre néző oldalon; használja az ablaktörlő szakaszos üzemmódját a hajók tiszta látványához.",
+                "ro": "Parcați cu fața spre port; folosiți ștergătoarele pe modul intermitent pentru o vedere clară asupra navelor.",
+                "en": "Park with a view of the harbor; use the intermittent wiper setting for a clear view of the ships."
+              }
+            },
+            {
+              "name": {
+                "de": "Millesgården",
+                "hu": "Millesgården",
+                "ro": "Millesgården",
+                "en": "Millesgården"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innengalerie, wenn der Regen stärker wird; die Aussicht vom Restaurant auf das Wasser ist auch bei Grau toll.",
+                "hu": "Látogassa meg a belső galériát, ha erősödik az eső; az étterem kilátása a vízre szürke időben is remek.",
+                "ro": "Vizitați galeria interioară dacă ploaia se întețește; vederea de la restaurant spre apă este grozavă și pe timp gri.",
+                "en": "Visit the indoor gallery if the rain gets heavier; the restaurant's view of the water is great even in grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö kyrka",
+                "hu": "Lidingö kyrka",
+                "ro": "Lidingö kyrka",
+                "en": "Lidingö kyrka"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zur Tür lohnt sich; der historische Innenraum bietet einen absolut trockenen und warmen Zufluchtsort.",
+                "hu": "Megéri egy rövid sprint az autótól az ajtóig; a történelmi belső tér teljesen száraz és meleg menedéket nyújt.",
+                "ro": "Merită un scurt sprint de la mașină la ușă; interiorul istoric oferă un refugiu absolut uscat și cald.",
+                "en": "A short sprint from the car to the door is worth it; the historical interior offers a perfectly dry and warm sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Kappsta",
+                "hu": "Kappsta",
+                "ro": "Kappsta",
+                "en": "Kappsta"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen; der Regen lässt das Grün des Waldes besonders intensiv leuchten.",
+                "hu": "Vezessen óvatosan a szűk bekötőutakon; az eső miatt az erdő zöldje különösen intenzíven ragyog.",
+                "ro": "Conduceți cu atenție pe drumurile înguste de acces; ploaia face ca verdele pădurii să strălucească intens.",
+                "en": "Drive carefully on the narrow access roads; the rain makes the forest greenery glow with extra intensity."
+              }
+            },
+            {
+              "name": {
+                "de": "Fågelöuddebadet",
+                "hu": "Fågelöuddebadet",
+                "ro": "Fågelöuddebadet",
+                "en": "Fågelöuddebadet"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für 'Storm Watching' aus dem Auto; die Einsamkeit am Strand bei Regen hat eine ganz eigene, friedliche Ästhetik.",
+                "hu": "Tökéletes 'viharfigyeléshez' az autóból; a part magánya esőben sajátos, békés esztétikát hordoz.",
+                "ro": "Perfect pentru a privi furtuna din mașină; singurătatea plajei pe ploaie are o estetică proprie, plină de pace.",
+                "en": "Perfect for 'storm watching' from the car; the solitude of the beach in the rain has its own peaceful aesthetic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im Finlandsparken; genießen Sie die Sitzheizung, während Sie den Eisbrechern im Hafen zusehen.\n\nMittags führt der Weg nach Millesgården; der schneebedeckte Skulpturenpark wirkt wie aus einem Märchen der Gebrüder Grimm.\n\nAm Nachmittag geht es zur Lidingö-Kirche; die gelben Wände leuchten besonders warm gegen den weißen Schnee und den blauen Winterhimmel.\n\nDer Tag endet am Fågelöuddebadet; der gefrorene Strand und das schwindende Licht der blauen Stunde bieten eine atemberaubende Kulisse.",
+            "hu": "Fagyos reggel kezdődik a Finlandsparkennél; élvezze az ülésfűtést, miközben a kikötői jégtörőket figyeli.\n\nDélidőben az út a Millesgårdenhez vezet; a hóval borított szoborpark olyan, mintha a Grimm-testvérek meséjéből lépett volna elő.\n\nDélután a Lidingö templom felé vesszük az irányt; a sárga falak különösen melegen ragyognak a fehér hó és a kék téli égbolt előtt.\n\nA nap a Fågelöuddebadetnél zárul; a befagyott strand és a kék óra fogyatkozó fényei lélegzetelállító hátteret biztosítanak.",
+            "ro": "O dimineață geroasă începe în Finlandsparken; bucurați-vă de încălzirea în scaune în timp ce priviți spărgătoarele de gheață din port.\n\nLa prânz, drumul duce spre Millesgården; parcul de sculpturi acoperit de zăpadă pare desprins dintr-o poveste de Frații Grimm.\n\nDupă-amiaza ne îndreptăm spre biserica Lidingö; pereții galbeni strălucesc deosebit de cald pe fundalul zăpezii albe și al cerului albastru.\n\nZiua se încheie la Fågelöuddebadet; plaja înghețată și lumina palidă a orei albastre oferă un cadru natural spectaculos.",
+            "en": "A frosty morning begins at Finlandsparken; enjoy the seat heating while watching the icebreakers in the harbor.\n\nAt noon, the drive leads to Millesgården; the snow-covered sculpture park looks like something out of a Grimm brothers' fairytale.\n\nIn the afternoon, head towards Lidingö Church; the yellow walls glow particularly warmly against the white snow and blue winter sky.\n\nThe day ends at Fågelöuddebadet; the frozen beach and the fading light of the blue hour provide a breathtaking backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Finlandsparken",
+                "hu": "Finlandsparken",
+                "ro": "Finlandsparken",
+                "en": "Finlandsparken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Ostsee; achten Sie auf den Parkplätzen auf festgefahrenen Schnee und Eisplatten.",
+                "hu": "Élvezze a panorámát a Balti-tengerre; a parkolókban ügyeljen a letaposott hóra és a jégfoltokra.",
+                "ro": "Bucurați-vă de panorama asupra Marii Baltice; atenție în parcări la zăpada bătătorită și la plăcile de gheață.",
+                "en": "Enjoy the panoramic view of the Baltic Sea; watch out for packed snow and patches of ice in the parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Millesgården",
+                "hu": "Millesgården",
+                "ro": "Millesgården",
+                "en": "Millesgården"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Shop für warme nordische Souvenirs; die winterliche Beleuchtung der Statuen beginnt bereits am frühen Nachmittag.",
+                "hu": "Látogasson el a boltba meleg északi szuvenírekért; a szobrok téli kivilágítása már kora délután megkezdődik.",
+                "ro": "Vizitați magazinul pentru suvenire nordice călduroase; iluminatul de iarnă al statuilor începe deja de la începutul după-amiezii.",
+                "en": "Visit the shop for warm Nordic souvenirs; the winter lighting of the statues begins in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Lidingö kyrka",
+                "hu": "Lidingö kyrka",
+                "ro": "Lidingö kyrka",
+                "en": "Lidingö kyrka"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kirche; der Kontrast der Architektur zum tiefblauen Winterhimmel ist ein Muss für Fotografen.",
+                "hu": "Parkoljon közvetlenül a templomnál; az építészet és a mélykék téli égbolt kontrasztja kötelező a fotósoknak.",
+                "ro": "Parcați chiar lângă biserică; contrastul arhitecturii cu cerul albastru profund de iarnă este un punct de atracție pentru fotografi.",
+                "en": "Park right by the church; the contrast of the architecture against the deep blue winter sky is a must for photographers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kappsta",
+                "hu": "Kappsta",
+                "ro": "Kappsta",
+                "en": "Kappsta"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang zum Denkmal; winterfeste Stiefel sind nötig, da die Wege nicht immer komplett geräumt sind.",
+                "hu": "Tegyen egy rövid sétát az emlékműhöz; télálló bakancs szükséges, mivel az utakat nem mindig takarítják le teljesen.",
+                "ro": "Faceți o scurtă plimbare până la monument; sunt necesare ghete de iarnă, deoarece potecile nu sunt mereu curățate complet.",
+                "en": "Take a short walk to the monument; winter boots are necessary as the paths are not always completely cleared of snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Fågelöuddebadet",
+                "hu": "Fågelöuddebadet",
+                "ro": "Fågelöuddebadet",
+                "en": "Fågelöuddebadet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Licht für stimmungsvolle Bilder; prüfen Sie die Straßenglätte auf dem Rückweg, da es schnell friert.",
+                "hu": "Használja ki az utolsó fényeket a hangulatos képekhez; visszafelé ellenőrizze az útviszonyokat, mert gyorsan fagy.",
+                "ro": "Folosiți ultima lumină pentru fotografii de atmosferă; verificați starea drumului la întoarcere, deoarece îngheață rapid.",
+                "en": "Use the last light for atmospheric photos; check road conditions on the way back as it freezes quickly."
+              }
+            }
+          ]
+        }
       }
     }
   }

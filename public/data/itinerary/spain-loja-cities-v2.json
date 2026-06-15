@@ -183,6 +183,224 @@
         "hu": "Sétája Loja történelmi szívében kezdődik a lenyűgöző városháza megtekintésével, majd a gyönyörű Santa Catalina templom következik.\nA délidő kulturális kikapcsolódást hoz a Teatro Imperialban, melyet a Mirador Arqueológico lenyűgöző kilátása és a Puente del Barrancón követ.\nTöltse a délutánt pihenéssel a Jardines Narváez árnyas ösvényein, nyugodt környezetben menekülve a jellegzetes andalúziai hőség elől.\nAz estét a San Francisco-i kolostor békés kerengőjének szenteljük, amely méltó, nyugodt lezárása az építészeti felfedezésekkel teli napnak.",
         "ro": "Turul pietonal începe în inima istorică din Loja, cu impresionanta Primărie, urmată de frumoasa biserică Santa Catalina de pe traseu.\nMiezul zilei aduce un interludiu cultural la Teatro Imperial, urmat de priveliștile uimitoare de la Mirador Arqueológico și podul istoric.\nPetreceți după-amiaza relaxându-vă pe aleile umbrite ale grădinilor Narváez, scăpând de căldura andaluză într-un cadru deosebit de liniștit.\nSeara este dedicată claustrului senin al mănăstirii San Francisco, oferind o concluzie pașnică unei zile de descoperiri arhitecturale.",
         "en": "Your walking tour begins at the historical heart of Loja. We start at the striking Ayuntamiento, followed by the beautiful Iglesia Santa Catalina.\nMidday brings a cultural interlude at Teatro Imperial, followed by stunning vistas at Mirador Arqueológico and a walk across Puente del Barrancón.\nSpend your afternoon relaxing in the shaded paths of Jardines Narváez, escaping the Andalusian heat in a tranquil setting.\nThe evening is devoted to the serene Claustro del Convento de San Francisco, offering a peaceful conclusion to a day of architectural discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Rathaus, wo das alte Gemäuer Schutz bietet. Mittags besuchen Sie die Kirche und das Theater, um trocken zu bleiben. Am Nachmittag führt der Weg über die Brücke; achten Sie auf die nassen Steine. Den Abend verbringen Sie im überdachten Kreuzgang des Klosters, wo die Regentropfen im Innenhof eine beruhigende Atmosphäre schaffen; ein stabiler Schirm ist heute unverzichtbar.",
+            "hu": "Reggel a városháza történelmi falai között kezdünk, elkerülve az első záporokat. Délben a templom és a színház belső terei nyújtanak menedéket. Délután a Puente del Barrancón felé vesszük az irányt; a kövezet csúszós, így óvatosan lépkedjen. Az estét a kolostor kerengőjében zárjuk, ahol a fedett árkádok alatt hallgathatjuk az eső neszét; egy jó esernyő ma a legjobb barátja.",
+            "ro": "Dimineața începe la primărie, unde zidurile vechi oferă protecție. La prânz, vizitați biserica și teatrul pentru a rămâne uscați. După-amiaza, drumul duce peste pod; atenție la pietrele umede. Seara o veți petrece în claustrul acoperit al mănăstirii, unde picăturile de ploaie creează o atmosferă liniștitoare în curtea interioară; o umbrelă rezistentă este indispensabilă astăzi.",
+            "en": "The day begins at the Town Hall, where the old walls offer shelter. At noon, visit the church and theater to stay dry. In the afternoon, the path leads across the bridge; be careful of the wet stones. Spend the evening in the sheltered cloister of the convent, where the raindrops in the courtyard create a soothing and peaceful atmosphere; a sturdy umbrella is your best friend today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Loja",
+                "hu": "Ayuntamiento de Loja",
+                "ro": "Ayuntamiento de Loja",
+                "en": "Ayuntamiento de Loja"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenbereich des Rathauses als trockenen Startpunkt und studieren Sie die Stadtpläne unter dem Schutz der Arkaden, bevor Sie zum nächsten Halt eilen.",
+                "hu": "Fedezze fel az épület belső építészeti kincseit, amíg odakint esik, és használja ki a városháza fedett bejáratát a térkép tanulmányozásához a következő megálló előtt, hogy száraz maradjon.",
+                "ro": "Explorați comorile arhitecturale din interior în timp ce afară plouă și folosiți intrarea acoperită a primăriei pentru a studia harta înainte de a porni spre următoarea oprire.",
+                "en": "Explore the building's internal architectural treasures while it rains outside, and use the Town Hall's covered entrance to study the map before rushing to your next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Santa Catalina",
+                "hu": "Iglesia Santa Catalina",
+                "ro": "Iglesia Santa Catalina",
+                "en": "Iglesia Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ideale, andächtige Zuflucht vor heftigen Regengüssen; bewundern Sie die Altäre in Ruhe, während das Trommeln des Regens auf dem Dach für eine besondere Stimmung sorgt.",
+                "hu": "A templom csendes belső tere tökéletes menedék a felhőszakadás idején; csodálja meg a főoltárt, miközben az eső kopog a tetőn, és várja meg itt, amíg csendesedik az időjárás odakint.",
+                "ro": "Interiorul liniștit al bisericii este refugiul perfect în timpul unei furtuni; admirați altarul principal în timp ce ploaia bate pe acoperiș și așteptați aici până se potolește vremea.",
+                "en": "The church's quiet interior is a perfect refuge during a downpour; admire the main altar while the rain drums on the roof, and wait here for the weather to clear up outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Imperial",
+                "hu": "Teatro Imperial",
+                "ro": "Teatro Imperial",
+                "en": "Teatro Imperial"
+              },
+              "tip_5lang": {
+                "de": "Das elegante Foyer des Theaters ist ein wunderbarer Ort, um sich kurz aufzuwärmen und die nasse Kleidung zu ordnen, bevor Sie die kulturellen Details dieses historischen Gebäudes erkunden.",
+                "hu": "A színház elegáns előcsarnoka kiváló hely a vizes kabátok lerázására és egy rövid pihenőre; élvezze a fűtött beltér kényelmét, mielőtt folytatná a sétát a város esős utcáin keresztül.",
+                "ro": "Foaierul elegant al teatrului este un loc excelent pentru a scutura haina udă și pentru o scurtă pauză; bucurați-vă de confortul interiorului înainte de a continua plimbarea prin ploaie.",
+                "en": "The theater's elegant foyer is a great place to shake off your wet coat and take a short break; enjoy the comfort of the heated interior before continuing your walk through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Arqueológico",
+                "hu": "Mirador Arqueológico",
+                "ro": "Mirador Arqueológico",
+                "en": "Mirador Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen wirkt die Ausgrabungsstätte oft mystisch; tragen Sie Schuhe mit gutem Profil, da die archäologischen Pfade bei Nässe rutschig sein können, und halten Sie die Kamera trocken.",
+                "hu": "Esőben az ásatási terület misztikus hangulatot áraszt; viseljen tapadós talpú cipőt, mert a régészeti ösvények vizesen csúszósak lehetnek, és ügyeljen rá, hogy a fényképezőgép ne ázzon el.",
+                "ro": "În timpul ploii, situl arheologic emană o atmosferă mistică; purtați pantofi cu aderență bună, deoarece potecile pot fi alunecoase când sunt ude, și aveți grijă să nu udați aparatul foto.",
+                "en": "During rain, the archaeological site exudes a mystical atmosphere; wear shoes with good grip, as the paths can be slippery when wet, and make sure to keep your camera dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente del Barrancón",
+                "hu": "Puente del Barrancón",
+                "ro": "Puente del Barrancón",
+                "en": "Puente del Barrancón"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anschwellen des Flusses von der sicheren Mitte der Brücke aus, aber meiden Sie die nassen Geländer und überqueren Sie den Fluss zügig, um wieder ins Trockene zu gelangen.",
+                "hu": "Figyelje meg a folyó vízszintjének emelkedését a híd biztonságos közepéről, de kerülje a nedves korlátok érintését, és haladjon tempósan, hogy minél előbb fedett helyre érhessen a túra során.",
+                "ro": "Observați creșterea nivelului râului din centrul sigur al podului, dar evitați atingerea balustradelor umede și mergeți vioi pentru a ajunge cât mai repede la adăpost în timpul turului.",
+                "en": "Observe the rising river level from the safe middle of the bridge, but avoid touching the wet railings and walk briskly to reach shelter as soon as possible during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardines Narváez",
+                "hu": "Jardines Narváez",
+                "ro": "Jardines Narváez",
+                "en": "Jardines Narváez"
+              },
+              "tip_5lang": {
+                "de": "Die dichte Vegetation bietet zwar etwas Schutz vor leichtem Nieselregen, doch die Wege können schlammig sein; bleiben Sie auf den befestigten Pfaden und genießen Sie die intensiven Pflanzendüfte.",
+                "hu": "A dús növényzet nyújt némi védelmet a szemerkélő esőben, de az utak sárosak lehetnek; maradjon a kövezett ösvényeken, és élvezze az eső utáni természet intenzív, friss illatait a kertben.",
+                "ro": "Vegetația bogată oferă o oarecare protecție în ploaia ușoară, dar drumurile pot fi noroioase; rămâneți pe potecile pavate și bucurați-vă de mirosurile intense ale naturii după ploaie.",
+                "en": "The lush vegetation offers some protection in light drizzle, but the paths can be muddy; stay on the paved trails and enjoy the intense, fresh scents of nature after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Claustro del Convento de San Francisco",
+                "hu": "Claustro del Convento de San Francisco",
+                "ro": "Claustro del Convento de San Francisco",
+                "en": "Claustro del Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Der überdachte Kreuzgang ist der perfekte Ort, um den Tag trocken ausklingen zu lassen; bewundern Sie die Architektur der Säulengänge, während der Regen friedlich in den Innenhof fällt.",
+                "hu": "A kolostor fedett kerengője tökéletes helyszín a nap száraz befejezéséhez; csodálja meg az oszlopcsarnokok építészetét, miközben az eső békésen hullik a belső udvar közepén lévő kertre.",
+                "ro": "Claustrul acoperit al mănăstirii este locul perfect pentru a încheia ziua la uscat; admirați arhitectura arcadelor în timp ce ploaia cade pașnic în grădina din centrul curții interioare.",
+                "en": "The convent's covered cloister is the perfect place to end the day dry; admire the architecture of the porticos while the rain falls peacefully into the garden in the center of the courtyard."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus weckt die Geister. Mittags wärmen wir uns im Theater auf. Der Nachmittag an der Brücke bietet klare Winterluft, doch ab 17:00 Uhr sinkt die Sonne schnell. Den Abend verbringen Sie in den geschützten Klostermauern, wo die Winterdämmerung eine stille Magie entfaltet; ziehen Sie sich für die zugigen Gassen warm an.",
+            "hu": "A csípős reggel a városházánál frissítően indul. Délben a színház melegében melegedhetünk fel. A délutáni séta a híd környékén tiszta téli levegőt kínál, de 17:00 után gyorsan sötétedik. Az estét a kolostor falai között zárjuk, ahol a téli szürkület különleges varázst áraszt; a szűk utcák huzatosak, így öltözzön melegen.",
+            "ro": "O dimineață geroasă la primărie vă va trezi simțurile. La prânz ne încălzim în interiorul teatrului. Plimbarea de după-amiază la pod oferă aer curat de iarnă, dar după ora 17:00 soarele apune repede. Seara o petrecem între zidurile mănăstirii, unde amurgul de iarnă emană o magie tăcută; îmbrăcați-vă gros pentru străzile înguste.",
+            "en": "A crisp morning at the Town Hall starts the day. At noon, warm up inside the theater. The afternoon walk by the bridge offers clear winter air, but the sun sets quickly after 17:00. Spend the evening within the convent walls, where the winter twilight radiates a special, quiet magic; dress warmly in layers as the narrow streets can be drafty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Loja",
+                "hu": "Ayuntamiento de Loja",
+                "ro": "Ayuntamiento de Loja",
+                "en": "Ayuntamiento de Loja"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour in der beheizten Wartehalle des Rathauses, um sich auf die kalten Außentemperaturen vorzubereiten, und prüfen Sie die speziellen Winteröffnungszeiten der Museen.",
+                "hu": "Kezdje a túrát a városháza fűtött előcsarnokában, hogy felkészüljön a kinti hidegre, és mindenképpen ellenőrizze a múzeumok téli nyitvatartási idejét, mielőtt továbbindulna a városba.",
+                "ro": "Începeți turul în holul încălzit al primăriei pentru a vă pregăti pentru frigul de afară și verificați programul de iarnă al muzeelor înainte de a porni mai departe prin oraș.",
+                "en": "Start your tour in the Town Hall's heated lobby to prepare for the cold outside, and be sure to check the winter opening hours of the museums before heading further into the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Santa Catalina",
+                "hu": "Iglesia Santa Catalina",
+                "ro": "Iglesia Santa Catalina",
+                "en": "Iglesia Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Wärme des Tages überraschend gut; nutzen Sie die Stille für eine spirituelle Pause, bevor Sie wieder in den frostigen Wind der Altstadt treten.",
+                "hu": "A templom vastag falai meglepően jól tartják a nap melegét; használja ki a csendet egy lelki pihenőre, mielőtt ismét kilépne az óváros utcáin fújó metsző, fagyos téli szélbe.",
+                "ro": "Zidurile groase ale bisericii păstrează surprinzător de bine căldura zilei; folosiți liniștea pentru o pauză spirituală înainte de a ieși din nou în vântul înghețat de pe străzile vechi.",
+                "en": "The church's thick walls hold the day's warmth surprisingly well; use the silence for a spiritual break before stepping back out into the biting, frosty winter wind of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Imperial",
+                "hu": "Teatro Imperial",
+                "ro": "Teatro Imperial",
+                "en": "Teatro Imperial"
+              },
+              "tip_5lang": {
+                "de": "Das Theater ist zur Mittagszeit der perfekte Ort, um dem kalten Wind zu entkommen; genießen Sie die prächtige Innenausstattung in wohliger Wärme, während draußen die Wintersonne tief steht.",
+                "hu": "A színház délidőben a tökéletes helyszín a hideg szél elől való menekülésre; élvezze a pompás belső tereket a kellemes melegben, miközben odakint a téli nap már alacsonyan jár az égen.",
+                "ro": "Teatrul este locul perfect la prânz pentru a scăpa de vântul rece; admirați interioarele splendide în căldura plăcută, în timp ce afară soarele de iarnă este deja jos pe cer.",
+                "en": "The theater is the perfect place at noon to escape the cold wind; enjoy the splendid interiors in pleasant warmth while the winter sun is already low in the sky outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Arqueológico",
+                "hu": "Mirador Arqueológico",
+                "ro": "Mirador Arqueológico",
+                "en": "Mirador Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Aussichtspunkt am frühen Nachmittag, um das klare Winterlicht für Fotos zu nutzen, und tragen Sie eine Mütze gegen den kalten Wind, der über die offenen Flächen fegt.",
+                "hu": "Látogasson el ide kora délután, hogy kihasználja a tiszta téli fényeket a fotózáshoz, és viseljen meleg sapkát a nyitott területeken átsöprő hideg szél miatt, ami gyorsan lehűtheti az embert.",
+                "ro": "Vizitați acest punct de belvedere după-amiaza devreme pentru a profita de lumina clară de iarnă pentru fotografii și purtați o căciulă caldă din cauza vântului rece de pe platou.",
+                "en": "Visit this viewpoint in the early afternoon to take advantage of the clear winter light for photos, and wear a warm hat because of the cold wind sweeping across the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente del Barrancón",
+                "hu": "Puente del Barrancón",
+                "ro": "Puente del Barrancón",
+                "en": "Puente del Barrancón"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Luft am Fluss kann im Winter besonders beißend sein; halten Sie sich nicht zu lange auf der Brücke auf und achten Sie auf mögliche Froststellen auf dem Kopfsteinpflaster.",
+                "hu": "A folyó menti párás levegő télen különösen metsző lehet; ne időzzön túl sokat a hídon, és ügyeljen a macskaköveken esetlegesen előforduló jeges foltokra, amelyek veszélyesek lehetnek.",
+                "ro": "Aerul umed de lângă râu poate fi deosebit de tăios iarna; nu zăboviți prea mult pe pod și aveți grijă la petele de gheață care pot apărea pe pietrele cubice, fiind periculoase.",
+                "en": "The humid air by the river can be particularly biting in winter; don't linger too long on the bridge, and watch out for icy patches that may occur on the cobblestones, as they can be dangerous."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardines Narváez",
+                "hu": "Jardines Narváez",
+                "ro": "Jardines Narváez",
+                "en": "Jardines Narváez"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Struktur der kahlen Bäume und die immergrünen Hecken, aber beenden Sie Ihren Rundgang vor 17:00 Uhr, wenn die Dunkelheit den Park schnell unübersichtlich macht.",
+                "hu": "Csodálja meg a kopár fák téli szerkezetét és az örökzöld sövényeket, de fejezze be a sétát délután ötig, mert a sötétség beállta után a park útjai nehezen beláthatóvá és hűvössé válnak.",
+                "ro": "Admirați structura de iarnă a copacilor golași și gardurile vii veșnic verzi, dar terminați plimbarea până la ora 17:00, deoarece după lăsarea întunericului aleile devin greu de parcurs.",
+                "en": "Admire the winter structure of the bare trees and the evergreen hedges, but finish your walk by 17:00, as the park paths become difficult to navigate and chilly after dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Claustro del Convento de San Francisco",
+                "hu": "Claustro del Convento de San Francisco",
+                "ro": "Claustro del Convento de San Francisco",
+                "en": "Claustro del Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "In der winterlichen Abenddämmerung wirkt der Kreuzgang besonders friedlich; ziehen Sie eine extra Schicht Kleidung an, da die Steinmauern die Abendkälte stark abstrahlen.",
+                "hu": "A téli alkonyatban a kerengő különösen békés hangulatot áraszt; vegyen fel egy plusz réteg ruhát, mert a kőfalak ilyenkor erősen sugározzák az esti hideget a látogatók felé.",
+                "ro": "În amurgul de iarnă, claustrul emană o atmosferă deosebit de pașnică; puneți un strat suplimentar de haine, deoarece zidurile de piatră emană puternic frigul serii către vizitatori.",
+                "en": "In the winter twilight, the cloister exudes a particularly peaceful atmosphere; put on an extra layer of clothing as the stone walls radiate the evening cold quite strongly toward visitors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpáros túráját a fenséges városházánál, mielőtt kissé nyugat felé tekerne, hogy megcsodálja a reggeli fényeket a Mirador de Isabelről.\nTekerjen a Mirador Sylvania felé egy újabb fantasztikus kilátóhoz, majd ereszkedjen le a Jardines Narváezbe egy frissítő, zöld szünetre.\nDélután fedezze fel a San Francisco kolostor nyugodt fenségét, időt szánva a finom és különleges építészeti részletek értékelésére.\nFejezze be kalandját egy keleti úttal a látványos Mirador Infiernos de Loja felé, hallgatva az üvöltő vízeséseket a békés alkonyatban.",
         "ro": "Începeți plimbarea cu bicicleta la maiestuoasa Primărie înainte de a pedala ușor spre vest pentru a prinde lumina dimineții la Mirador de Isabel.\nPedalați spre Mirador Sylvania pentru un alt punct de belvedere, apoi coborâți către Jardines Narváez pentru o pauză verde revigorantă.\nDupă-amiaza, explorați măreția liniștită a claustrului mănăstirii San Francisco, făcându-vă timp să-i apreciați detaliile arhitecturale.\nÎncheiați aventura cu o plimbare spre est la spectaculosul Mirador Infiernos de Loja, ascultând cascadele zgomotoase direct la amurg.",
         "en": "Start your ride at the majestic Ayuntamiento de Loja before cycling slightly west to catch the morning light over the Mirador de Isabel.\nPedal towards the Mirador Sylvania for another fantastic viewpoint, then glide down to the Jardines Narváez for a refreshing green break.\nIn the afternoon, explore the quiet majesty of the Claustro del Convento de San Francisco, taking time to appreciate its fine details.\nFinish your biking adventure with a ride east to the spectacular Mirador Infiernos de Loja, listening to the roaring waterfalls at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir vorsichtig am Rathaus, da der Asphalt rutschig ist. Mittags geht es zu den Aussichtspunkten; bei Regen ist die Sicht oft dramatisch neblig. Nachmittags bieten die Gärten und das Kloster kurze Pausen. Abends kehren wir früh zurück, da die Nässe die Kälte verstärkt; gute Schutzbleche und wasserfeste Kleidung sind heute Ihre besten Begleiter.",
+            "hu": "Reggel óvatosan indulunk a városházától, mert az aszfalt ilyenkor rendkívül csúszós. Délben a kilátók felé tekerünk, ahol a ködös táj misztikus látványt nyújt. Délután a kertekben és a kolostornál tarthatunk rövid pihenőket. Este érdemes korán visszatérni, mert a nedvesség miatt hidegebbnek érezzük a levegőt; a sárvédő és az esőruha ma elengedhetetlen.",
+            "ro": "Dimineața pornim cu prudență de la primărie, deoarece asfaltul este alunecos. La prânz pedalăm spre belvedere, unde peisajul cețos oferă o vedere mistică. După-amiaza, grădinile și mănăstirea oferă scurte pauze. Seara este bine să vă întoarceți devreme, deoarece umezeala accentuează frigul; aripile de protecție și hainele impermeabile sunt esențiale azi.",
+            "en": "We start carefully from the Town Hall in the morning, as the asphalt is slippery. At noon, we cycle to the viewpoints where the misty landscape offers a mystical view. In the afternoon, the gardens and convent provide short breaks. It’s best to return early in the evening as the dampness makes it feel colder; good mudguards and waterproof clothing are essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Loja",
+                "hu": "Ayuntamiento de Loja",
+                "ro": "Ayuntamiento de Loja",
+                "en": "Ayuntamiento de Loja"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Start den Reifendruck und die Bremsen, da das Kopfsteinpflaster rund um den Rathausplatz bei Regen extrem glatt wird; starten Sie die Fahrt langsam.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást és a fékeket, mivel a városháza körüli macskaköves burkolat esőben rendkívül csúszóssá válik; kezdje a tekerést lassú, óvatos tempóban.",
+                "ro": "Înainte de plecare, verificați presiunea în anvelope și frânele, deoarece pavajul din jurul primăriei devine extrem de alunecos pe ploaie; începeți pedalarea într-un ritm lent.",
+                "en": "Check your tire pressure and brakes before starting, as the cobblestone pavement around the Town Hall becomes extremely slippery in the rain; start your ride at a slow, careful pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Isabel de Castilla",
+                "hu": "Mirador de Isabel de Castilla",
+                "ro": "Mirador de Isabel de Castilla",
+                "en": "Mirador de Isabel de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Aussichtspunkt ist anstrengend; achten Sie bei der Abfahrt auf Pfützen und Schlammansammlungen in den Kurven, um die Kontrolle über Ihr Fahrrad nicht zu verlieren.",
+                "hu": "A kilátóhoz vezető emelkedő megterhelő lehet; lefelé menet ügyeljen a kanyarokban megálló tócsákra és sárfoltokra, hogy ne veszítse el uralmát a kerékpár felett a nedves úton.",
+                "ro": "Urcarea spre belvedere poate fi solicitantă; la coborâre, aveți grijă la bălți și zonele cu noroi în curbe, pentru a nu pierde controlul asupra bicicletei pe drumul ud.",
+                "en": "The climb to the viewpoint can be taxing; on the way down, watch out for puddles and muddy patches in the curves to avoid losing control of your bike on the wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Sylvania",
+                "hu": "Mirador Sylvania",
+                "ro": "Mirador Sylvania",
+                "en": "Mirador Sylvania"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht bei Regen ist oft wolkenverhangen, was für dramatische Fotos sorgt; parken Sie Ihr Fahrrad an einem geschützten Ort und wischen Sie den Sattel vor der Weiterfahrt trocken.",
+                "hu": "Esőben a kilátás gyakran felhős, ami drámai fotókat eredményez; parkolja le kerékpárját egy védettebb helyen, és törölje szárazra a nyerget, mielőtt továbbfolytatná az útját.",
+                "ro": "Pe ploaie, vederea este adesea înnorată, rezultând fotografii dramatice; parcați bicicleta într-un loc protejat și ștergeți șaua înainte de a vă continua drumul spre următoarea oprire.",
+                "en": "In the rain, the view is often cloudy, resulting in dramatic photos; park your bike in a protected spot and wipe the saddle dry before continuing your journey to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardines Narváez",
+                "hu": "Jardines Narváez",
+                "ro": "Jardines Narváez",
+                "en": "Jardines Narváez"
+              },
+              "tip_5lang": {
+                "de": "In den Gärten ist das Radfahren bei Nässe auf den schmalen Wegen schwierig; schieben Sie Ihr Rad lieber ein Stück und genießen Sie die frische, regenfeuchte Luft unter den Bäumen.",
+                "hu": "A kertek szűk ösvényein nehéz lehet a kerékpározás nedves időben; inkább tolja a bringát egy rövid szakaszon, és élvezze a friss, esőáztatta levegőt a sűrű lombok védelmében.",
+                "ro": "Pe potecile înguste ale grădinilor poate fi dificil să pedalați pe vreme umedă; mai bine împingeți bicicleta pe o porțiune scurtă și bucurați-vă de aerul proaspăt sub frunziș.",
+                "en": "Cycling on the narrow paths of the gardens can be difficult in wet weather; it's better to push your bike for a short stretch and enjoy the fresh, rain-soaked air under the canopy."
+              }
+            },
+            {
+              "name": {
+                "de": "Claustro del Convento de San Francisco",
+                "hu": "Claustro del Convento de San Francisco",
+                "ro": "Claustro del Convento de San Francisco",
+                "en": "Claustro del Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich des Klosters für eine längere Pause, um Ihre Ausrüstung zu trocknen und sich für das letzte, exponierte Teilstück der Radtour zu stärken.",
+                "hu": "Használja ki a kolostor fedett részeit egy hosszabb pihenőre, hogy megszárítsa felszerelését és erőt gyűjtsön a kerékpártúra utolsó, nyitottabb és szelesebb szakaszának megtételéhez.",
+                "ro": "Folosiți zonele acoperite ale mănăstirii pentru o pauză mai lungă, pentru a vă usca echipamentul și pentru a prinde puteri înainte de ultima etapă a turului, care este mai expusă.",
+                "en": "Take advantage of the convent's covered areas for a longer break to dry your gear and gather strength before the final, more exposed and windy leg of your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Infiernos de Loja",
+                "hu": "Mirador Infiernos de Loja",
+                "ro": "Mirador Infiernos de Loja",
+                "en": "Mirador Infiernos de Loja"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt kann bei Regen sehr windig sein; stellen Sie sicher, dass Ihr Fahrrad stabil steht, und seien Sie vorsichtig auf den glatten Felsen in der Nähe der Wasserfälle.",
+                "hu": "A kilátó esőben nagyon szeles lehet; győződjön meg róla, hogy kerékpárja stabilan áll, és legyen rendkívül óvatos a vízesések közelében lévő csúszós sziklákon a nézelődés során.",
+                "ro": "Belvederea poate fi foarte vântoasă pe ploaie; asigurați-vă că bicicleta este stabilă și fiți extrem de prudenți pe stâncile alunecoase de lângă cascade în timp ce admirați peisajul.",
+                "en": "The viewpoint can be very windy in the rain; make sure your bike stands stable and be extremely cautious on the slippery rocks near the waterfalls while taking in the views."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Morgenwind am Rathaus erfordert gute Handschuhe. Mittags radeln wir zu den Aussichtspunkten; die Wintersonne bietet die beste Fernsicht auf die Sierra. Nachmittags besuchen wir die Gärten, bevor es um 17:00 Uhr dunkel wird. Den Abend lassen wir am Mirador Infiernos ausklingen, wo die frostige Luft die Landschaft scharf zeichnet; Schichten sind heute Pflicht.",
+            "hu": "A városházánál fújó hideg reggeli szélhez elengedhetetlen a jó kesztyű. Délben a kilátókhoz tekerünk; a téli napsütésben ilyenkor a legtisztább a kilátás a Sierrára. Délután még bejárjuk a kerteket, mielőtt 17:00-kor leszáll az éj. Az estét a Mirador Infiernosnál zárjuk, ahol a fagyos levegőben élesen kirajzolódik a táj; a réteges öltözet kötelező.",
+            "ro": "Vântul rece de dimineață de la primărie necesită mănuși bune. La prânz pedalăm spre belvedere; soarele de iarnă oferă cea mai clară vedere spre Sierra. După-amiaza vizităm grădinile înainte de a se întuneca la ora 17:00. Încheiem seara la Mirador Infiernos, unde aerul înghețat conturează clar peisajul; îmbrăcămintea în straturi este obligatorie.",
+            "en": "The cold morning wind at the Town Hall requires good gloves. At noon, we cycle to the viewpoints; the winter sun offers the clearest views of the Sierra. In the afternoon, visit the gardens before it gets dark at 17:00. End the evening at Mirador Infiernos, where the frosty air sharply defines the landscape; wearing layers is a must today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Loja",
+                "hu": "Ayuntamiento de Loja",
+                "ro": "Ayuntamiento de Loja",
+                "en": "Ayuntamiento de Loja"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände und Muskeln im Rathaus auf, bevor Sie losfahren; im Winter ist es wichtig, die Gelenke vor der ersten Etappe warm zu halten, um Verletzungen zu vermeiden.",
+                "hu": "Melegítse át kezeit és izmait a városházán, mielőtt útnak indulna; télen fontos az ízületek bemelegítése az első szakasz előtt, hogy elkerülje a sérüléseket a hideg menetszélben.",
+                "ro": "Încălziți-vă mâinile și mușchii în primărie înainte de a pleca; iarna este important să vă încălziți articulațiile înainte de prima etapă pentru a evita accidentările în curentul rece.",
+                "en": "Warm up your hands and muscles in the Town Hall before heading out; in winter, it's important to warm up your joints before the first leg to avoid injuries in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Isabel de Castilla",
+                "hu": "Mirador de Isabel de Castilla",
+                "ro": "Mirador de Isabel de Castilla",
+                "en": "Mirador de Isabel de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie aufwärmen, aber oben angekommen kühlt man im Winterwind schnell aus; ziehen Sie für die Pause eine winddichte Jacke über, um die Körperwärme zu speichern.",
+                "hu": "Az emelkedő segít bemelegedni, de a tetőre érve a téli szélben gyorsan lehűlhet; a pihenő idejére vegyen fel egy szélálló dzsekit, hogy megőrizze teste melegét a kilátónál.",
+                "ro": "Urcarea vă va ajuta să vă încălziți, dar odată ajunși sus puteți răci rapid în vântul de iarnă; puneți o jachetă rezistentă la vânt în timpul pauzei pentru a vă păstra căldura corporală.",
+                "en": "The climb will help you warm up, but once at the top you can cool down quickly in the winter wind; put on a windproof jacket during the break to retain your body heat at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Sylvania",
+                "hu": "Mirador Sylvania",
+                "ro": "Mirador Sylvania",
+                "en": "Mirador Sylvania"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet hier eine unglaubliche Sichtweite; nutzen Sie das Mittagslicht für Panoramafotos der schneebedeckten Gipfel in der Ferne, bevor Sie weiterfahren.",
+                "hu": "A tiszta téli levegő itt hihetetlen látótávolságot biztosít; használja ki a déli fényeket a távoli havas hegycsúcsok lefényképezéséhez, mielőtt továbbtekerne a következő állomáshoz.",
+                "ro": "Aerul clar de iarnă oferă aici o vizibilitate incredibilă; profitați de lumina de la prânz pentru a fotografia vârfurile muntoase înzăpezite din depărtare înainte de a pleca mai departe.",
+                "en": "The clear winter air provides incredible visibility here; take advantage of the midday light to photograph the distant snowy peaks before cycling on to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardines Narváez",
+                "hu": "Jardines Narváez",
+                "ro": "Jardines Narváez",
+                "en": "Jardines Narváez"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter ruhiger; achten Sie auf Frost auf den Brücken im Park und halten Sie die Fahrtzeit kurz, damit Sie nicht durch die herannahende Abendkühle auskühlen.",
+                "hu": "A kertek télen csendesebbek; ügyeljen a park hídjain és árnyékosabb részein előforduló zúzmarára, és tartsa röviden a pihenőt, hogy ne hűljön ki a közeledő esti hidegben.",
+                "ro": "Grădinile sunt mai liniștite iarna; aveți grijă la bruma de pe podurile din parc și țineți pauza scurtă pentru a nu răci în frigul serii care se apropie rapid după amiază.",
+                "en": "The gardens are quieter in winter; watch out for frost on the park bridges and shaded areas, and keep your break short so you don't get chilled in the approaching evening cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Claustro del Convento de San Francisco",
+                "hu": "Claustro del Convento de San Francisco",
+                "ro": "Claustro del Convento de San Francisco",
+                "en": "Claustro del Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Der geschützte Kreuzgang bietet eine willkommene Pause vom kalten Fahrtwind; nutzen Sie die Zeit, um etwas Warmes zu trinken, bevor die Sonne gegen 17:00 Uhr untergeht.",
+                "hu": "A védett kerengő kellemes pihenőt nyújt a hideg menetszél után; használja ki az időt egy meleg ital elfogyasztására, mielőtt a nap délután öt óra körül váratlanul gyorsan lebukik a láthatáron.",
+                "ro": "Claustrul protejat oferă o pauză binevenită după vântul rece de pe traseu; folosiți timpul pentru a bea ceva cald înainte ca soarele să apună rapid în jurul orei 17:00.",
+                "en": "The protected cloister offers a welcome break from the cold wind on the route; use the time to have a warm drink before the sun sets rapidly around 17:00 in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Infiernos de Loja",
+                "hu": "Mirador Infiernos de Loja",
+                "ro": "Mirador Infiernos de Loja",
+                "en": "Mirador Infiernos de Loja"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der blauen Stunde ist hier im Winter fantastisch, aber die Temperaturen sinken rapide; schalten Sie Ihr Fahrradlicht ein und bereiten Sie sich auf eine kalte Rückfahrt vor.",
+                "hu": "A kék óra fényei télen fantasztikusak itt, de a hőmérséklet gyorsan süllyed; kapcsolja be a kerékpárlámpát, és készüljön fel a hideg visszútra a városközpont irányába.",
+                "ro": "Luminile de la ora albastră sunt fantastice aici iarna, dar temperaturile scad rapid; aprindeți farurile bicicletei și pregătiți-vă pentru un drum de întoarcere foarte rece.",
+                "en": "The blue hour lights are fantastic here in winter, but temperatures drop rapidly; turn on your bike lights and prepare for a very cold ride back toward the city center."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autós túrája a központi városházáról indul, mielőtt egy gyors ugrással a Mirador de Isabel de Castilla panorámás kilátásához érne.\nVezessen nyugatra, hogy felfedezze a Villae de Fuente Santa római örökségét, majd kanyarodjon északkelet felé a hagyományos Casería de la Peñához.\nA délután kelet felé viszi a történelmi jelentőségű La Esperanza irányába, majd a zúgó Mirador Infiernos de Loja vízesés meglátogatása következik.\nZárja autós utazását a városközpont felé haladva az El Manzanilnál, felfedezve ezt a kulcsfontosságú történelmi helyszínt a naplemente fényében.",
         "ro": "Turul auto pornește de la Primăria centrală, înainte de un scurt salt la Mirador de Isabel de Castilla pentru vederi panoramice spectaculoase.\nConduceți spre vest pentru a explora moștenirea romană de la Villae de Fuente Santa, apoi la Casería de la Peña în partea de nord-est.\nDupă-amiaza vă duce spre est, către importanța istorică a sitului La Esperanza, urmat de o vizită la zgomotosul Mirador Infiernos de Loja.\nÎncheiați excursia rutieră înapoi spre centrul orașului la El Manzanil, explorând acest sit istoric cheie în timp ce soarele apune peste Loja.",
         "en": "Your driving tour sets off from the central Ayuntamiento, before a quick hop to the Mirador de Isabel de Castilla for panoramic views.\nDrive out west to explore the Roman heritage at Villae de Fuente Santa, then loop northeast to see the traditional Casería de la Peña.\nThe afternoon takes you east towards the historical significance of La Esperanza, followed by a visit to the roaring Mirador Infiernos de Loja.\nConclude your road trip back towards the city center at El Manzanil, exploring this key historical site as the sun sets over Loja."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich der Regen am besten ignorieren. Morgens besuchen wir das Rathaus; Parkplätze sind bei Regen oft näher am Eingang frei. Mittags fahren wir zu den Villen und Aussichtspunkten, wo die Landschaft im Nebel versinkt. Nachmittags erkunden wir die historischen Stätten. Abends endet die Fahrt im gemütlichen Manzanil, wo wir dem Regen draußen zuschauen.",
+            "hu": "Autóval a legkönnyebb átvészelni az esős napot. Reggel a városházát látogatjuk meg; ilyenkor több parkoló szabadul fel a bejáratok közelében. Délben a távolabbi villákhoz és kilátókhoz hajtunk, ahol a ködös táj különleges látványt nyújt. Délután a történelmi birtokokat fedezzük fel. Az estét az El Manzanilban zárjuk, bentről figyelve a kinti esőt.",
+            "ro": "Cu mașina este cel mai ușor să ignorați ploaia. Dimineața vizităm primăria; locurile de parcare sunt adesea libere mai aproape de intrare. La prânz conducem spre vile și belvedere, unde peisajul este învăluit în ceață. După-amiaza explorăm siturile istorice. Seara se încheie la confortabilul El Manzanil, privind ploaia de afară de la adăpost.",
+            "en": "In a car, it's easiest to ignore the rain. In the morning we visit the Town Hall; parking is often available closer to the entrance on rainy days. At noon, we drive to the villas and viewpoints where the landscape is shrouded in mist. In the afternoon, explore historical sites. The evening ends at the cozy El Manzanil, watching the rain outside from shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Loja",
+                "hu": "Ayuntamiento de Loja",
+                "ro": "Ayuntamiento de Loja",
+                "en": "Ayuntamiento de Loja"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Haupteingangs, um nicht nass zu werden, und nutzen Sie die Wartezeit im Foyer, falls ein besonders heftiger Regenschauer die Sicht beim Fahren behindert.",
+                "hu": "Parkoljon a főbejárat közelében, hogy elkerülje az ázást, és várja meg a városháza előcsarnokában, ha éppen heves felhőszakadás nehezíti a kilátást és a biztonságos vezetést az utakon.",
+                "ro": "Parcați lângă intrarea principală pentru a evita ploaia și așteptați în holul primăriei dacă o aversă puternică îngreunează vizibilitatea și condusul în siguranță pe drumuri.",
+                "en": "Park near the main entrance to avoid getting wet, and wait in the Town Hall lobby if a heavy downpour makes visibility and safe driving difficult on the city roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Isabel de Castilla",
+                "hu": "Mirador de Isabel de Castilla",
+                "ro": "Mirador de Isabel de Castilla",
+                "en": "Mirador de Isabel de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto, falls es zu stark regnet; die Straße zum Aussichtspunkt kann bei Nässe rutschig sein, fahren Sie daher langsam und bremsen Sie vorsichtig.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esik; a kilátóhoz vezető út vizesen csúszós lehet, ezért vezessen lassan és fékezzen óvatosan a kanyargósabb szakaszokon.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă prea tare; drumul spre belvedere poate fi alunecos, așa că conduceți încet și frânați cu prudență pe porțiunile virajate.",
+                "en": "Enjoy the view directly from the car if it rains too hard; the road to the viewpoint can be slippery when wet, so drive slowly and brake cautiously on the winding sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Villae de Fuente Santa",
+                "hu": "Villae de Fuente Santa",
+                "ro": "Villae de Fuente Santa",
+                "en": "Villae de Fuente Santa"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang zur Villa kann schlammig sein; parken Sie auf befestigtem Untergrund und halten Sie Ihren Regenschirm griffbereit für den kurzen Weg vom Auto zum überdachten Ausgrabungsbereich.",
+                "hu": "A villa megközelítése sáros lehet; parkoljon szilárd burkolaton, és tartsa kéznél az esernyőjét az autó és a fedett régészeti terület közötti rövid, de vizes séta megtételéhez.",
+                "ro": "Accesul la vilă poate fi noroios; parcați pe o suprafață solidă și aveți umbrela la îndemână pentru scurta plimbare între mașină și zona arheologică acoperită a sitului.",
+                "en": "Access to the villa can be muddy; park on a solid surface and keep your umbrella handy for the short walk between the car and the site's covered archaeological area."
+              }
+            },
+            {
+              "name": {
+                "de": "Casería de la Peña",
+                "hu": "Casería de la Peña",
+                "ro": "Casería de la Peña",
+                "en": "Casería de la Peña"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Wege zur Casería erfordern bei Regen erhöhte Aufmerksamkeit; achten Sie auf Wasserläufe auf der Fahrbahn und genießen Sie die rustikale Atmosphäre des Gutes im Regen.",
+                "hu": "A Casería felé vezető vidéki utak esőben fokozott figyelmet igényelnek; ügyeljen az úttesten átfolyó vízre, és élvezze a birtok rusztikus hangulatát az autó ablakán keresztül nézve.",
+                "ro": "Drumurile rurale spre Casería necesită o atenție sporită pe ploaie; aveți grijă la șuvoaiele de apă de pe carosabil și bucurați-vă de atmosfera rustică a domeniului din mașină.",
+                "en": "The rural roads to Casería require increased attention in the rain; watch out for water runoff on the roadway and enjoy the estate's rustic atmosphere from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "La Esperanza",
+                "hu": "La Esperanza",
+                "ro": "La Esperanza",
+                "en": "La Esperanza"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit guter Sicht auf das historische Gebäude, damit Sie die Details bewundern können, ohne das trockene Fahrzeug bei starkem Regen verlassen zu müssen.",
+                "hu": "Keressen olyan parkolóhelyet, ahonnan jó rálátás nyílik a történelmi épületre, így anélkül is megcsodálhatja a részleteket, hogy heves esőzéskor el kellene hagynia a száraz autót.",
+                "ro": "Căutați un loc de parcare cu o vedere bună asupra clădirii istorice, astfel încât să puteți admira detaliile fără a fi nevoie să părăsiți mașina uscată în timpul ploii abundente.",
+                "en": "Look for a parking spot with a good view of the historic building so you can admire the details without having to leave the dry car during heavy rainfall in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Infiernos de Loja",
+                "hu": "Mirador Infiernos de Loja",
+                "ro": "Mirador Infiernos de Loja",
+                "en": "Mirador Infiernos de Loja"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserfälle sind nach Regenfällen besonders beeindruckend; parken Sie sicher am Straßenrand und nutzen Sie den Scheibenwischer, um die spektakuläre Aussicht vom Fahrersitz zu genießen.",
+                "hu": "A vízesések esőzés után különösen látványosak; parkoljon biztonságosan az út szélén, és használja az ablaktörlőt, hogy élvezhesse a lenyűgöző panorámát közvetlenül a vezetőülésből.",
+                "ro": "Cascadele sunt deosebit de spectaculoase după ploi; parcați în siguranță pe marginea drumului și folosiți ștergătoarele pentru a vă bucura de panorama uimitoare din scaunul șoferului.",
+                "en": "The waterfalls are particularly spectacular after rain; park safely on the roadside and use your windshield wipers to enjoy the stunning panorama directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "El Manzanil",
+                "hu": "El Manzanil",
+                "ro": "El Manzanil",
+                "en": "El Manzanil"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um das Auto abzustellen und den Tag bei einem regionalen Gericht im Warmen ausklingen zu lassen, während der Regen gegen die Fenster des Restaurants prasselt.",
+                "hu": "Ez az ideális helyszín az autó leállításához és a nap befejezéséhez egy helyi étel mellett a melegben, miközben az eső békésen kopog az étterem hatalmas panorámaablakain.",
+                "ro": "Acesta este locul ideal pentru a parca mașina și a încheia ziua cu un preparat local la căldură, în timp ce ploaia bate liniștit în ferestrele mari ale restaurantului.",
+                "en": "This is the ideal spot to park the car and end the day with a local dish in the warmth while the rain taps peacefully against the restaurant's large panoramic windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto geht es morgens zum Rathaus. Mittags fahren wir zu den Panoramapunkten, wo die klare Winterluft fantastische Fotos ermöglicht. Nachmittags erkunden wir die abgelegenen Villen und Gutshöfe. Da es ab 17:00 Uhr dunkel wird, genießen wir den frühen Abend gemütlich in El Manzanil; nutzen Sie die Heizung zwischen den Stopps voll aus.",
+            "hu": "A fűtött autó kényelmében indulunk reggel a városházához. Délben a panorámapontokat keressük fel, ahol a tiszta téli levegőben fantasztikus fotókat készíthetünk. Délután a távolabbi villákat és birtokokat fedezzük fel. Mivel 17:00 után sötétedik, a kora estét már az El Manzanilnál töltjük; használja ki a fűtést a megállók között.",
+            "ro": "În confortul mașinii încălzite pornim dimineața spre primărie. La prânz conducem spre punctele panoramice, unde aerul clar de iarnă permite fotografii fantastice. După-amiaza explorăm vilele și fermele izolate. Deoarece se întunecă după ora 17:00, ne bucurăm de seara devreme la El Manzanil; profitați din plin de căldură între opriri.",
+            "en": "In the comfort of a heated car, we head to the Town Hall in the morning. At noon, we drive to the panoramic points where the clear winter air allows for fantastic photos. In the afternoon, we explore the remote villas and estates. As it gets dark after 17:00, we enjoy the early evening at El Manzanil; make full use of the heater between stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Loja",
+                "hu": "Ayuntamiento de Loja",
+                "ro": "Ayuntamiento de Loja",
+                "en": "Ayuntamiento de Loja"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warmlaufen und parken Sie in der Sonne, falls möglich; das historische Zentrum kann im Wintermorgen sehr schattig und kühl sein, bis die Sonne höher steht.",
+                "hu": "Hagyja az autót egy kicsit átmelegedni, és ha lehet, parkoljon napos helyen; a történelmi központ téli reggeleken nagyon árnyékos és hűvös lehet, amíg a nap magasabbra nem emelkedik.",
+                "ro": "Lăsați mașina să se încălzească puțin și parcați la soare dacă este posibil; centrul istoric poate fi foarte umbros și răcoros în diminețile de iarnă până când soarele urcă mai sus.",
+                "en": "Let the car warm up a bit and park in the sun if possible; the historic center can be very shaded and chilly on winter mornings until the sun rises higher in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Isabel de Castilla",
+                "hu": "Mirador de Isabel de Castilla",
+                "ro": "Mirador de Isabel de Castilla",
+                "en": "Mirador de Isabel de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft garantiert eine weite Sicht; schalten Sie die Sitzheizung ein und genießen Sie das Panorama der Sierra, bevor Sie für einen kurzen Fotostopp aus dem warmen Wagen steigen.",
+                "hu": "A tiszta téli levegő garantálja a messzire nyúló kilátást; kapcsolja be az ülésfűtést, és élvezze a Sierra panorámáját, mielőtt kiszállna a meleg autóból egy rövid fotózás erejéig.",
+                "ro": "Aerul clar de iarnă garantează o vizibilitate la distanță mare; porniți încălzirea în scaune și admirați panorama munților Sierra înainte de a ieși din mașină pentru câteva fotografii.",
+                "en": "The clear winter air guarantees far-reaching views; turn on the seat heating and enjoy the Sierra panorama before stepping out of the warm car for a short photo stop at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Villae de Fuente Santa",
+                "hu": "Villae de Fuente Santa",
+                "ro": "Villae de Fuente Santa",
+                "en": "Villae de Fuente Santa"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Ruinen, was für interessante Lichteffekte sorgt; tragen Sie festes Schuhwerk für den potenziell gefrorenen Boden am Ausgrabungsort.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a romokra, ami érdekes fényhatásokat kelt; viseljen stabil cipőt a régészeti lelőhelyen, ahol a talaj télen gyakran fagyott és kemény.",
+                "ro": "Soarele de iarnă proiectează umbre lungi peste ruine, creând efecte de lumină interesante; purtați încălțăminte stabilă la situl arheologic, unde solul este adesea înghețat și tare iarna.",
+                "en": "The low winter sun casts long shadows over the ruins, creating interesting light effects; wear stable shoes at the archaeological site, where the ground is often frozen and hard in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Casería de la Peña",
+                "hu": "Casería de la Peña",
+                "ro": "Casería de la Peña",
+                "en": "Casería de la Peña"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch die winterliche Landschaft zur Casería ist besonders malerisch; achten Sie auf den Straßenzustand in den schattigen Tälern, wo sich Reif länger halten kann als im Ort.",
+                "hu": "A téli tájon átvezető út a Casería felé különösen festői; ügyeljen az útviszonyokra az árnyékos völgyekben, ahol a zúzmara sokkal tovább megmaradhat az úttesten, mint a városban.",
+                "ro": "Drumul prin peisajul de iarnă spre Casería este deosebit de pitoresc; fiți atenți la condițiile de drum în văile umbroase, unde bruma poate persista mult mai mult pe carosabil decât în oraș.",
+                "en": "The drive through the winter landscape to Casería is particularly picturesque; watch the road conditions in the shaded valleys where frost can persist on the road much longer than in town."
+              }
+            },
+            {
+              "name": {
+                "de": "La Esperanza",
+                "hu": "La Esperanza",
+                "ro": "La Esperanza",
+                "en": "La Esperanza"
+              },
+              "tip_5lang": {
+                "de": "Das historische Anwesen wirkt in der klaren Wintersonne sehr majestätisch; nutzen Sie das Auto als warmen Stützpunkt für die Erkundung der Umgebung und halten Sie die Heizung auf angenehmer Stufe.",
+                "hu": "A történelmi birtok fenséges látványt nyújt a tiszta téli napsütésben; használja az autót meleg bázisként a környék felfedezéséhez, és tartsa a fűtést kellemes szinten a megállók alatt.",
+                "ro": "Domeniul istoric arată maiestuos în soarele clar de iarnă; folosiți mașina ca bază caldă pentru explorarea împrejurimilor și păstrați încălzirea la un nivel plăcut în timpul opririlor.",
+                "en": "The historic estate looks majestic in the clear winter sun; use the car as a warm base for exploring the surroundings and keep the heater at a pleasant level during your stops in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Infiernos de Loja",
+                "hu": "Mirador Infiernos de Loja",
+                "ro": "Mirador Infiernos de Loja",
+                "en": "Mirador Infiernos de Loja"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor 17:00 Uhr, um den Sonnenuntergang über dem Tal zu erleben, und genießen Sie die frostige Schönheit der Wasserfälle aus der Wärme Ihres Autos heraus.",
+                "hu": "Látogasson el ide röviddel délután öt óra előtt, hogy átélje a naplementét a völgy felett, és élvezze a vízesések fagyos szépségét közvetlenül az autója kellemes melegéből nézve.",
+                "ro": "Vizitați acest loc cu puțin timp înainte de ora 17:00 pentru a vedea apusul peste vale și bucurați-vă de frumusețea înghețată a cascadelor direct din căldura plăcută a mașinii dumneavoastră.",
+                "en": "Visit this spot shortly before 17:00 to experience the sunset over the valley, and enjoy the frosty beauty of the waterfalls directly from the pleasant warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "El Manzanil",
+                "hu": "El Manzanil",
+                "ro": "El Manzanil",
+                "en": "El Manzanil"
+              },
+              "tip_5lang": {
+                "de": "Nach einem Tag in der Kälte ist dies der perfekte Abschluss; der großzügige Parkplatz ist gut beleuchtet, was bei der frühen winterlichen Dunkelheit das Einsteigen nach dem Essen erleichtert.",
+                "hu": "A hidegben töltött nap után ez a tökéletes befejezés; a tágas parkoló jól megvilágított, ami a korai téli sötétségben megkönnyíti a beszállást és az elindulást a vacsora után.",
+                "ro": "După o zi petrecută în frig, acesta este finalul perfect; parcarea spațioasă este bine iluminată, ceea ce facilitează urcarea în mașină și plecarea după cină în întunericul timpuriu de iarnă.",
+                "en": "After a day in the cold, this is the perfect ending; the spacious parking lot is well-lit, which makes getting into the car and leaving after dinner easier in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

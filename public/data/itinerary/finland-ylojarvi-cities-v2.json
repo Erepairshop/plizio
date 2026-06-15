@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy barátságos minigolf mérkőzéssel Ylöjärvi szívében. A délidő Aronranta frissítő partjaihoz és Räikänranta festői parkjaihoz vezeti. Délután hagyja, hogy a gyerekek játsszanak a Rotikon leikkipuisto játszótéren. Zárja a napot egy békés sétával a csendes Koivumäentien leikkikenttä felé.",
         "ro": "Începeți dimineața cu o rundă prietenoasă de minigolf chiar în inima orașului Ylöjärvi. Miezul zilei vă aduce pe țărmurile răcoritoare de la Aronranta și în parcurile din Räikänranta. După-amiaza, lăsați copiii să se joace la Rotikon leikkipuisto. Încheiați ziua cu o plimbare pașnică spre liniștitul Koivumäentien leikkikenttä.",
         "en": "Start your morning with a friendly round of miniature golf right in the heart of Ylöjärvi. Midday brings you to the refreshing shores of Aronranta and the scenic parklands of Räikänranta. In the afternoon, let the kids play at Rotikon leikkipuisto as you relax. Conclude the day with a peaceful stroll to the quiet Koivumäentien leikkikenttä."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem erfrischenden Regen, der die Luft in Ylöjärvi reinigt. Ein stabiler Regenschirm ist Ihr bester Begleiter auf dem Weg zum Minigolfplatz.\n\nMittags wandern wir entlang der Ufer von Keijärvi. Der Nebel über dem Wasser verleiht der Landschaft eine mystische Atmosphäre, während die Tropfen leise auf die Blätter trommeln.\n\nAm Nachmittag erkunden wir die örtlichen Spielplätze. Die Farben wirken im Regen intensiver, aber achten Sie auf rutschige Wege in den Parkanlagen.\n\nDer Abend lädt dazu ein, den Tag in einer gemütlichen Ecke ausklingen zu lassen, während die Lichter der Stadt in den Pfützen auf dem Asphalt tanzen.",
+            "hu": "A reggel frissítő esővel indul, amely tisztára mossa Ylöjärvi utcáit. Egy strapabíró esernyő lesz a legjobb társunk a minigolfpálya felé vezető úton.\n\nDélben a Keijärvi partján sétálunk. A víz felett lebegő köd misztikus hangulatot áraszt, miközben az esőcseppek halkan kopognak a leveleken.\n\nDélután a helyi játszótereket keressük fel. A színek intenzívebbnek tűnnek az esőben, de ügyeljünk a parkok csúszós ösvényeire.\n\nAz este hívogatóan zárul egy meleg helyen, miközben a város fényei visszatükröződnek az aszfalton összegyűlt tócsákban.",
+            "ro": "Dimineața începe cu o ploaie revigorantă care curăță străzile din Ylöjärvi. O umbrelă rezistentă va fi cel mai bun companion în drum spre terenul de minigolf.\n\nLa prânz ne plimbăm pe malul lacului Keijärvi. Ceața de deasupra apei creează o atmosferă mistică, în timp ce picăturile bat încet în frunze.\n\nDupă-amiaza explorăm locurile de joacă locale. Culorile par mai intense în ploaie, dar aveți grijă la potecile alunecoase din parcuri.\n\nSeara vă invită să încheiați ziua într-un loc primitor, în timp ce luminile orașului se reflectă în bălțile de pe asfalt.",
+            "en": "The morning starts with a refreshing rain that washes the streets of Ylöjärvi. A sturdy umbrella will be your best companion on the way to the minigolf course.\n\nAt noon, we walk along the shores of Keijärvi. The mist over the water creates a mystical atmosphere as raindrops tap quietly on the leaves.\n\nIn the afternoon, we explore local playgrounds. Colors seem more intense in the rain, but be careful of slippery paths in the parks.\n\nThe evening invites you to end the day in a cozy spot, while the city lights reflect in the puddles on the asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ylöjärven pienoisgolf",
+                "hu": "Ylöjärven pienoisgolf",
+                "ro": "Ylöjärven pienoisgolf",
+                "en": "Ylöjärven pienoisgolf"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Spiel trotz des Regens unter dem Schutz der dichten Bäume; tragen Sie unbedingt rutschfeste Schuhe, da die Bahnen bei Nässe extrem glatt sein können.",
+                "hu": "Élvezze a játékot az esőben is a sűrű fák természetes védelmében; viseljen mindenképpen csúszásmentes cipőt, mert a pályák vizesen rendkívül trükkösek lehetnek.",
+                "ro": "Bucurați-vă de joc chiar și pe ploaie sub protecția naturală a copacilor deși; purtați neapărat pantofi antiderapanți deoarece pistele pot fi extrem de alunecoase pe ud.",
+                "en": "Enjoy the game even in the rain under the natural shelter of dense trees; be sure to wear non-slip shoes as the tracks can be extremely tricky and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Aronranta",
+                "hu": "Aronranta",
+                "ro": "Aronranta",
+                "en": "Aronranta"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den nebligen See ist faszinierend; nutzen Sie die überdachten Bänke für eine trockene Pause am Wasser und tragen Sie eine hochwertige Regenjacke gegen die Feuchtigkeit.",
+                "hu": "A ködös tó látványa lenyűgöző; használja a fedett padokat egy száraz pihenőhöz közvetlenül a vízparton, és viseljen jó minőségű esőkabátot a beszivárgó pára ellen.",
+                "ro": "Vederea lacului cețos este fascinantă; folosiți băncile acoperite pentru o pauză uscată chiar pe malul apei și purtați o pelerină de ploaie bună contra umezelii ridicate.",
+                "en": "The view of the misty lake is fascinating; use the covered benches for a dry break right by the water's edge and wear a high-quality raincoat against the penetrating dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Räikänranta",
+                "hu": "Räikänranta",
+                "ro": "Räikänranta",
+                "en": "Räikänranta"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am Uferweg und beobachten Sie die Tropfen; wasserfeste Kleidung ist hier wegen des oft starken Windes vom See her absolut unerlässlich für Ihren Komfort.",
+                "hu": "Sétáljon a parti úton és figyelje az esőcseppeket; a vízálló ruházat itt abszolút elengedhetetlen a komfortérzetéhez a tóról érkező, gyakran felerősödő szél miatt.",
+                "ro": "Plimbați-vă pe drumul de coastă și priviți picăturile; îmbrăcămintea impermeabilă este absolut esențială aici pentru confortul dvs. din cauza vântului puternic de pe lac.",
+                "en": "Walk along the coastal path and watch the droplets; waterproof clothing is absolutely essential here for your comfort due to the often strong wind blowing in from the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Rotikon leikkipuisto",
+                "hu": "Rotikon leikkipuisto",
+                "ro": "Rotikon leikkipuisto",
+                "en": "Rotikon leikkipuisto"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte sind nass, aber der Sandkasten bietet Spaß; nehmen Sie ein trockenes Handtuch mit, um die Rutschen vor der Benutzung kurz für die Kinder abzuwischen.",
+                "hu": "A játékok vizesek, de a homokozó még így is mókás; vigyen magával egy száraz törölközőt a csúszdák gyors áttörléséhez, mielőtt a gyerekek elkezdenék használni őket.",
+                "ro": "Jocurile sunt umede, dar groapa cu nisip este încă distractivă; luați un prosop uscat pentru a șterge rapid toboganele înainte ca cei mici să le folosească în siguranță.",
+                "en": "The equipment is wet, but the sandbox is still fun; bring a dry towel to quickly wipe down the slides before the children use them to keep their clothes relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Koivumäentien leikkikenttä",
+                "hu": "Koivumäentien leikkikenttä",
+                "ro": "Koivumäentien leikkikenttä",
+                "en": "Koivumäentien leikkikenttä"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für einen kurzen Regenspaziergang; suchen Sie Schutz unter den großen Birken, wenn der Schauer plötzlich stärker wird, und tragen Sie wasserfeste Stiefel.",
+                "hu": "Csendes hely egy rövid esős sétához; keressen menedéket a nagy nyírfák alatt, ha a zápor hirtelen megerősödik, és viseljen vízálló bakancsot a sárosabb részeken.",
+                "ro": "Un loc liniștit pentru o scurtă plimbare prin ploaie; căutați adăpost sub mesteacănii mari dacă ploaia se intensifică brusc și purtați cizme impermeabile pentru noroi.",
+                "en": "A quiet place for a short rainy walk; seek shelter under the large birch trees if the downpour suddenly intensifies and wear waterproof boots for the muddier patches."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns mit glitzerndem Schnee. Warme Thermokleidung und gute Stiefel sind Pflicht für den Winterspaziergang.\n\nMittags erreichen wir die Uferpromenade. Der zugefrorene See bietet eine weite, weiße Fläche, die in der blassen Wintersonne funkelt.\n\nDer Nachmittag ist kurz, da die Sonne bereits gegen 17:00 Uhr untergeht. Genießen Sie das magische blaue Licht der Dämmerung in den Parks.\n\nAm Abend hüllt die Dunkelheit Ylöjärvi ein. Es ist Zeit, sich in eine warme Unterkunft zurückzuziehen und den Tag gemütlich Revue passieren zu lassen.",
+            "hu": "Fagyos reggel köszönt ránk csillogó hóval. A meleg termoruha és a jó bakancs kötelező a téli sétához.\n\nDélben elérjük a vízparti sétányt. A befagyott tó hatalmas, fehér síkságként terül el, amely szikrázik a halvány téli napsütésben.\n\nA délután rövid, mivel a nap már 17:00 körül lenyugszik. Élvezze a szürkület mágikus kék fényeit a parkok fái között.\n\nEste a sötétség gyorsan beborítja a várost. Ideje visszahúzódni egy meleg helyre, és kényelemben átgondolni a nap élményeit.",
+            "ro": "O dimineață geroasă ne întâmpină cu zăpadă strălucitoare. Hainele termice și bocancii buni sunt obligatorii pentru plimbarea de iarnă.\n\nLa prânz ajungem pe faleză. Lacul înghețat se întinde ca o câmpie albă imensă care sclipește în soarele palid de iarnă.\n\nDupă-amiaza este scurtă, deoarece soarele apune deja în jurul orei 17:00. Bucurați-vă de lumina albastră magică a amurgului în parcuri.\n\nSeara, întunericul cuprinde rapid orașul. Este timpul să vă retrageți într-un loc cald și să reflectați la experiențele zilei.",
+            "en": "A frosty morning greets us with glittering snow. Warm thermal clothing and good boots are mandatory for the winter walk.\n\nAt noon, we reach the waterfront. The frozen lake stretches out like a vast white plain sparkling in the pale winter sun.\n\nThe afternoon is short as the sun sets around 17:00. Enjoy the magical blue light of twilight among the park trees.\n\nIn the evening, darkness quickly covers the city. It is time to retreat to a warm place and comfortably reflect on the day's experiences."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ylöjärven pienoisgolf",
+                "hu": "Ylöjärven pienoisgolf",
+                "ro": "Ylöjärven pienoisgolf",
+                "en": "Ylöjärven pienoisgolf"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schneebedeckten Bahnen in der Stille; tragen Sie dicke Handschuhe, um Ihre Hände beim Fotografieren der winterlichen Kulisse warm zu halten.",
+                "hu": "Csodálja meg a hóval borított pályákat a nagy csendben; viseljen vastag kesztyűt, hogy kezei melegek maradjanak a téli táj és a befagyott akadályok fotózása közben.",
+                "ro": "Admirați pistele acoperite de zăpadă în liniște deplină; purtați mănuși groase pentru a vă menține mâinile calde în timp ce fotografiați decorul hibernal fascinant.",
+                "en": "Admire the snow-covered courses in the deep silence; wear thick gloves to keep your hands warm while taking photos of the beautiful winter scenery and frozen obstacles."
+              }
+            },
+            {
+              "name": {
+                "de": "Aronranta",
+                "hu": "Aronranta",
+                "ro": "Aronranta",
+                "en": "Aronranta"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene Keijärvi bietet einen märchenhaften Anblick; achten Sie auf den eiskalten Wind vom See und schützen Sie Ihr Gesicht unbedingt mit einem warmen Schal.",
+                "hu": "A befagyott Keijärvi mesébe illő látványt nyújt a hó alatt; ügyeljen a tóról érkező jéghideg szélre, és védje arcát mindenképpen egy vastag, meleg gyapjúsállal.",
+                "ro": "Keijärvi înghețat oferă o priveliște de basm sub zăpadă; atenție la vântul tăios de pe lac și protejați-vă fața neapărat cu un fular călduros de lână.",
+                "en": "The frozen Keijärvi offers a fairytale view under the snow; watch out for the freezing lake wind and be sure to protect your face with a thick, warm winter scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Räikänranta",
+                "hu": "Räikänranta",
+                "ro": "Räikänranta",
+                "en": "Räikänranta"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort für einen kurzen Spaziergang im Neuschnee; betreten Sie die Eisfläche des Sees jedoch nur an offiziell freigegebenen und markierten Sicherheitsstellen.",
+                "hu": "Gyönyörű hely egy rövid sétához a friss porhóban; a tó jegére azonban csak a hivatalosan kijelölt, biztonságos és jelzett pontokon szabad rámenni a balesetek elkerülése végett.",
+                "ro": "Un loc minunat pentru o scurtă plimbare prin zăpada proaspătă; pășiți pe gheața lacului doar în zonele oficial marcate și sigure pentru a evita orice pericol.",
+                "en": "A wonderful spot for a short walk in the fresh powder snow; however, only step onto the lake ice at officially designated and marked safe points to ensure your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Rotikon leikkipuisto",
+                "hu": "Rotikon leikkipuisto",
+                "ro": "Rotikon leikkipuisto",
+                "en": "Rotikon leikkipuisto"
+              },
+              "tip_5lang": {
+                "de": "Der Spielplatz verwandelt sich in ein glitzerndes Winterwunderland; Kinder sollten wasserfeste Schneehosen tragen, um beim Spielen im tiefen Schnee trocken und warm zu bleiben.",
+                "hu": "A játszótér csillogó téli meseországgá változik; a gyerekek viseljenek vízálló sínadrágot, hogy a mély hóban való játék közben is teljesen szárazon és melegen maradjanak.",
+                "ro": "Locul de joacă se transformă într-un tărâm de basm strălucitor; copiii ar trebui să poarte pantaloni de schi impermeabili pentru a rămâne uscați și calzi în zăpada adâncă.",
+                "en": "The playground turns into a glittering winter wonderland; children should wear waterproof snow pants to stay completely dry and warm while playing in the deep snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Koivumäentien leikkikenttä",
+                "hu": "Koivumäentien leikkikenttä",
+                "ro": "Koivumäentien leikkikenttä",
+                "en": "Koivumäentien leikkikenttä"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe unter den verschneiten Bäumen; wegen der frühen Dämmerung gegen 17:00 Uhr ist eine Taschenlampe oder Stirnlampe für den Rückweg sehr ratsam.",
+                "hu": "Élvezze a mély nyugalmat a havas fák alatt; a korai, 17:00 óra körüli sötétedés miatt egy zseblámpa vagy fejlámpa nagyon hasznos lehet a biztonságos hazatéréshez.",
+                "ro": "Bucurați-vă de liniștea profundă sub copacii înzăpeziți; din cauza întunericului de la ora 17:00, o lanternă este foarte utilă pentru drumul de întoarcere în siguranță.",
+                "en": "Enjoy the deep peace under the snow-laden trees; due to the early sunset around 17:00, a flashlight or headlamp is highly recommended for a safe return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját egy kis könnyed szórakozással a helyi minigolfpályán. Délre már Aronranta strandja mellett teker el, és megcsodálja a Pohjajärvi nyugodt vizét. A délutáni út Ryydynpohjan uimaranta fürdőhelyeihez és Tohloppi erdei ösvényeihez vezet. Fejezze be az estét a Tesomajärvi naplementéjének megcsodálásával.",
         "ro": "Începeți turul cu bicicleta cu puțină distracție la terenul local de minigolf. Până la prânz, veți pedala pe lângă plaja Aronranta și apele liniștite din Pohjajärvi. Călătoria de după-amiază vă duce la locurile de înot clare de la Ryydynpohjan uimaranta și Tohloppi. Terminați seara admirând apusul de soare la Tesomajärvi.",
         "en": "Kick off your cycling tour with some lighthearted fun at the local miniature golf course. By midday, you'll be riding past Aronranta's beach and taking in the serene waters of Pohjajärvi. The afternoon ride leads you to the clear swimming spots of Ryydynpohjan uimaranta and the forested trails of Tohloppi. Finish your evening admiring the sunset at Tesomajärvi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert gute Vorbereitung. Mit kompletter Regenmontur starten wir die Tour durch das nasse Ylöjärvi.\n\nMittags radeln wir an den Seen vorbei. Das Spritzwasser der Reifen gehört dazu, während wir die frische, feuchte Waldluft einatmen.\n\nDer Nachmittag führt uns zu weiteren Naturspots. Achten Sie in Kurven besonders auf nasses Laub und rutschigen Asphalt unter den Rädern.\n\nAm Abend erreichen wir müde, aber erfrischt unser Ziel. Eine heiße Dusche ist jetzt genau das Richtige, um die Glieder wieder aufzuwärmen.",
+            "hu": "Egy esős nap két keréken alapos felkészülést igényel. Teljes esőfelszerelésben vágunk neki a túrának a vizes Ylöjärvi utcáin.\n\nDélben a tavak mellett tekerünk. A kerekek által felcsapott víz a kaland része, miközben belélegezzük a friss, párás erdei levegőt.\n\nA délután további természeti pontokhoz vezet. A kanyarokban figyeljen oda a vizes levelekre és a csúszós aszfaltra a kerekek alatt.\n\nEstére fáradtan, de felfrissülve érjük el célunkat. Egy forró zuhany most a legjobb dolog, hogy átmelegítsük elgémberedett tagjainkat.",
+            "ro": "O zi ploioasă pe două roți necesită o pregătire temeinică. Pornim la drum în echipament complet de ploaie pe străzile umede din Ylöjärvi.\n\nLa prânz pedalăm pe lângă lacuri. Apa împroșcată de roți face parte din aventură, în timp ce respirăm aerul proaspăt și umed al pădurii.\n\nDupă-amiaza ne conduce către alte puncte naturale. În curbe, aveți mare grijă la frunzele ude și la asfaltul alunecos de sub roți.\n\nSeara ajungem la destinație obosiți, dar revigorați. Un duș fierbinte este acum cel mai bun lucru pentru a ne încălzi membrele amorțite.",
+            "en": "A rainy day on two wheels requires thorough preparation. In full rain gear, we head out for a tour through the wet streets of Ylöjärvi.\n\nAt noon, we cycle past the lakes. The water splashed up by the wheels is part of the adventure as we breathe in the fresh, humid forest air.\n\nThe afternoon leads us to more natural spots. In corners, pay close attention to wet leaves and slippery asphalt under your wheels.\n\nIn the evening, we reach our destination tired but refreshed. A hot shower is now the best thing to warm up our numb limbs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ylöjärven pienoisgolf",
+                "hu": "Ylöjärven pienoisgolf",
+                "ro": "Ylöjärven pienoisgolf",
+                "en": "Ylöjärven pienoisgolf"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem überdachten Ort; prüfen Sie unbedingt Ihre Bremsen vor der Abfahrt, da sie bei Nässe oft deutlich langsamer reagieren können.",
+                "hu": "Zárja le kerékpárját egy fedett, védett helyen; indulás előtt mindenképpen ellenőrizze a fékeket, mert vizes felnin jóval lassabban és bizonytalanabbul reagálhatnak.",
+                "ro": "Încuiați bicicleta într-un loc acoperit și protejat; verificați neapărat frânele înainte de plecare, deoarece pe jante umede pot reacționa mult mai lent și imprevizibil.",
+                "en": "Lock your bike in a covered and sheltered spot; be sure to check your brakes before departing as they can react much more slowly and unpredictably on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Aronranta",
+                "hu": "Aronranta",
+                "ro": "Aronranta",
+                "en": "Aronranta"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Ufer ist auch im Regen lohnenswert; benutzen Sie gute Schutzbleche an Ihrem Rad, um Ihre Kleidung vor aufgewirbeltem Schmutzwasser zu schützen.",
+                "hu": "Egy rövid megálló a vízparton esőben is megéri a látványért; használjon jó sárvédőket a kerékpárján, hogy megóvja ruházatát a kerekek által felvert koszos víztől.",
+                "ro": "O scurtă oprire pe malul apei merită chiar și pe ploaie; folosiți apărători bune la bicicletă pentru a vă proteja hainele de apa murdară împroșcată de roți.",
+                "en": "A short stop on the shore is worth it even in the rain for the view; use good mudguards on your bike to protect your clothing from dirty water splashed up by the wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Pohjajärvi",
+                "hu": "Pohjajärvi",
+                "ro": "Pohjajärvi",
+                "en": "Pohjajärvi"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege um den See können bei Regen sehr schlammig sein; reduzieren Sie den Reifendruck leicht für einen deutlich besseren Grip auf den rutschigen und nassen Pfaden.",
+                "hu": "Az erdei utak a tó körül esőben nagyon sárosak lehetnek; csökkentse kissé a guminyomást a lényegesen jobb tapadás érdekében a csúszós és vizes erdei ösvényeken.",
+                "ro": "Drumurile forestiere din jurul lacului pot fi foarte noroioase pe ploaie; reduceți ușor presiunea în pneuri pentru o aderență mult mai bună pe potecile alunecoase și ude.",
+                "en": "The forest paths around the lake can be very muddy in the rain; slightly reduce your tire pressure for significantly better grip on the slippery and wet woodland trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Ryydynpohjan uimaranta",
+                "hu": "Ryydynpohjan uimaranta",
+                "ro": "Ryydynpohjan uimaranta",
+                "en": "Ryydynpohjan uimaranta"
+              },
+              "tip_5lang": {
+                "de": "Niemand badet bei Regen, aber die Aussicht ist weit; ziehen Sie eine neongelbe Weste an, um bei diesem grauen Wetter für Autofahrer gut sichtbar zu bleiben.",
+                "hu": "Senki sem fürdik az esőben, de a kilátás ilyenkor is tágas; vegyen fel egy fényvisszaverő mellényt, hogy a szürke időben is jól látható maradjon az autósok számára.",
+                "ro": "Nimeni nu înoată pe ploaie, dar priveliștea este vastă și acum; purtați o vestă reflectorizantă pentru a rămâne bine vizibil pentru șoferi pe această vreme gri.",
+                "en": "No one swims in the rain, but the view is still vast; wear a high-visibility vest to stay clearly noticeable for drivers in this gray and overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tohloppi",
+                "hu": "Tohloppi",
+                "ro": "Tohloppi",
+                "en": "Tohloppi"
+              },
+              "tip_5lang": {
+                "de": "Der Weg um den See ist friedlich im Regen; achten Sie besonders auf Fußgänger, die unter ihren tief hängenden Regenschirmen oft weniger vom Radverkehr wahrnehmen.",
+                "hu": "A tó körüli út békés az esőben; ügyeljen fokozottan a gyalogosokra, akik a mélyre húzott esernyőjük alatt gyakran kevesebbet érzékelnek a kerékpáros forgalomból.",
+                "ro": "Drumul din jurul lacului este liniștit pe ploaie; fiți foarte atenți la pietonii care sub umbrelele trase jos pot observa mai greu traficul de biciclete din jur.",
+                "en": "The path around the lake is peaceful in the rain; pay extra attention to pedestrians who often see less of the bicycle traffic under their low-hanging umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Tesomajärvi",
+                "hu": "Tesomajärvi",
+                "ro": "Tesomajärvi",
+                "en": "Tesomajärvi"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss trotz der Nässe; wischen Sie Ihren Sattel vor der Weiterfahrt unbedingt trocken, um das letzte Stück bequem und ohne Nässe am Ziel anzukommen.",
+                "hu": "Szép befejezés a nedvesség ellenére is; törölje teljesen szárazra a nyerget indulás előtt, hogy az utolsó szakaszon is kényelmesen érjen be a végső úticéljához.",
+                "ro": "O încheiere frumoasă în ciuda umezelii; ștergeți șaua complet înainte de plecare pentru a parcurge ultima etapă confortabil și a ajunge uscat la destinația finală.",
+                "en": "A nice finish despite the wetness; wipe your saddle completely dry before departing to cover the final stretch comfortably and arrive dry at your ultimate destination."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln erfordert Mut und die richtige Ausrüstung. Mit Spikereifen und dicken Handschuhen starten wir in den kalten Morgen von Ylöjärvi.\n\nMittags glitzert der Schnee entlang der Radwege. Die kalte Luft beißt in die Wangen, während wir an den erstarrten Seen vorbeifahren.\n\nDer Nachmittag neigt sich schnell dem Ende zu, wenn die Sonne um 17:00 Uhr sinkt. Achten Sie auf versteckte Eisplatten unter dem Pulverschnee.\n\nAm Abend kehren wir mit roten Nasen zurück. Ein warmer Tee ist jetzt die perfekte Belohnung für die winterliche Anstrengung auf dem Fahrrad.",
+            "hu": "A téli kerékpározás bátorságot és megfelelő felszerelést igényel. Szöges gumikkal és vastag kesztyűben vágunk neki a hideg reggelnek.\n\nDélben a hó csillog a kerékpárutak mentén. A hideg levegő megcsípi az arcunkat, miközben a megfagyott tavak mellett haladunk el.\n\nA délután gyorsan véget ér, amikor a nap 17:00-kor lebukik. Ügyeljen a porhó alatt megbújó rejtett jégfoltokra az utakon.\n\nEstére piros orral térünk haza. Egy forró tea most a tökéletes jutalom a téli biciklis erőfeszítések után.",
+            "ro": "Ciclismul de iarnă necesită curaj și echipament adecvat. Cu cauciucuri cu ținte și mănuși groase, pornim în dimineața rece din Ylöjärvi.\n\nLa prânz, zăpada sclipește de-a lungul pistelor de biciclete. Aerul rece ciupește obrajii în timp ce trecem pe lângă lacurile înghețate.\n\nDupă-amiaza se termină rapid când soarele apune la ora 17:00. Aveți grijă la peticele de gheață ascunse sub zăpada pudră.\n\nSeara ne întoarcem cu nasul roșu. Un ceai cald este acum recompensa perfectă pentru efortul depus pe bicicletă pe timp de iarnă.",
+            "en": "Winter cycling requires courage and the right equipment. With studded tires and thick gloves, we start the cold morning in Ylöjärvi.\n\nAt noon, snow glitters along the bike paths. The cold air nips at our cheeks as we pass by the frozen lakes.\n\nThe afternoon ends quickly when the sun sets at 17:00. Watch out for hidden ice patches lurking under the powder snow.\n\nIn the evening, we return with red noses. A warm tea is now the perfect reward after the winter cycling efforts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ylöjärven pienoisgolf",
+                "hu": "Ylöjärven pienoisgolf",
+                "ro": "Ylöjärven pienoisgolf",
+                "en": "Ylöjärven pienoisgolf"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ruht unter einer weißen Decke; parken Sie Ihr Rad vorsichtig, da der Boden unter dem Schnee oft tückisch gefroren und spiegelglatt sein kann.",
+                "hu": "A pálya vastag fehér takaró alatt pihen; parkoljon nagyon óvatosan, mert a talaj a hó alatt gyakran tückös módon fagyott és tükörsima lehet ezen a részen.",
+                "ro": "Terenul se odihnește sub o pătură albă groasă; parcați cu mare atenție deoarece solul de sub zăpadă poate fi extrem de înghețat și alunecos în această zonă.",
+                "en": "The course rests under a thick white blanket; park very carefully as the ground under the snow can often be treacherously frozen and mirror-smooth in this area."
+              }
+            },
+            {
+              "name": {
+                "de": "Aronranta",
+                "hu": "Aronranta",
+                "ro": "Aronranta",
+                "en": "Aronranta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am See; tragen Sie eine winddichte Maske oder einen Schal, um Ihre Atemwege vor der oft eisigen Brise vom Wasser zu schützen.",
+                "hu": "Élvezze a tiszta téli levegőt a tóparton; viseljen szélálló maszkot vagy meleg sálat, hogy megvédje légutait a víz felől érkező, gyakran jeges és metsző fuvallatoktól.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe malul lacului; purtați o mască rezistentă la vânt pentru a vă proteja căile respiratorii de briza adesea înghețată de pe apă.",
+                "en": "Enjoy the clear winter air by the lakeside; wear a windproof mask or a warm scarf to protect your airways from the often icy and biting breezes coming off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Pohjajärvi",
+                "hu": "Pohjajärvi",
+                "ro": "Pohjajärvi",
+                "en": "Pohjajärvi"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Natur ist hier besonders still; achten Sie auf tiefhängende Äste, die unter der schweren Schneelast gefährlich weit auf den Radweg ragen könnten.",
+                "hu": "A havas természet itt különösen csendes ilyenkor; ügyeljen az alacsonyra hajló ágakra, amelyek a nehéz hó súlya alatt veszélyesen belóghatnak a kerékpárút nyomvonalába.",
+                "ro": "Natura înzăpezită este deosebit de liniștită aici; fiți atenți la ramurile aplecate care sub greutatea zăpezii pot pătrunde periculos pe traseul pistei de biciclete.",
+                "en": "The snowy nature is exceptionally quiet here; watch out for low-hanging branches that may protrude dangerously into the bike path under the heavy weight of snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Ryydynpohjan uimaranta",
+                "hu": "Ryydynpohjan uimaranta",
+                "ro": "Ryydynpohjan uimaranta",
+                "en": "Ryydynpohjan uimaranta"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort im Winter; sorgen Sie für eine extrem gute Beleuchtung an Ihrem Fahrrad, da das Licht in den Waldstücken nachmittags sehr schnell schwindet.",
+                "hu": "Magányos hely télen, de gyönyörű; gondoskodjon kiváló világításról a kerékpárján, mert az erdős szakaszokon délutánonként nagyon gyorsan és váratlanul fogynak a fények.",
+                "ro": "Un loc singuratic iarna; asigurați-vă că aveți o iluminare excelentă la bicicletă, deoarece în zonele împădurite lumina scade foarte rapid și neașteptat după-amiaza.",
+                "en": "A lonely spot in winter but beautiful; ensure excellent lighting on your bike as the light fades very quickly and unexpectedly in the forested sections during the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Tohloppi",
+                "hu": "Tohloppi",
+                "ro": "Tohloppi",
+                "en": "Tohloppi"
+              },
+              "tip_5lang": {
+                "de": "Hier gibt es oft präparierte Eislaufbahnen auf dem See; halten Sie kurz an, aber bleiben Sie unbedingt in Bewegung, um bei den Minusgraden nicht auszukühlen.",
+                "hu": "Gyakran vannak itt remek korcsolyapályák a tavon; álljon meg nézelődni egy percre, de maradjon mozgásban, nehogy a fagyos időben hirtelen áthűljenek az izmai.",
+                "ro": "Deseori există patinoare excelente pe lac aici; opriți-vă pentru un moment, dar rămâneți în mișcare pentru a nu îngheța brusc din cauza temperaturilor scăzute.",
+                "en": "There are often great skating rinks on the lake here; stop for a moment to watch, but keep moving to avoid getting chilled by the freezing temperatures while stationary."
+              }
+            },
+            {
+              "name": {
+                "de": "Tesomajärvi",
+                "hu": "Tesomajärvi",
+                "ro": "Tesomajärvi",
+                "en": "Tesomajärvi"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung um 17:00 Uhr macht die Fahrt atmosphärisch; tragen Sie unbedingt reflektierende Kleidung für Ihre maximale Sicherheit im dichten Dunkeln.",
+                "hu": "Az 17:00 körüli szürkület nagyon hangulatossá teszi az utat; viseljen mindenképpen feltűnő fényvisszaverő ruházatot a maximális biztonsága érdekében a sötétben.",
+                "ro": "Amurgul de la ora 17:00 face drumul foarte atmosferic; purtați neapărat haine reflectorizante pentru siguranță maximă pe întuneric pe porțiunile neiluminate.",
+                "en": "The twilight around 17:00 makes the ride very atmospheric; be sure to wear high-visibility reflective clothing for your maximum safety in the deep winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Induljon egy festői autózásra, amely reggel a Näsijärvi lélegzetelállító kilátásával kezdődik. Délben térjen vissza a központ felé, hogy megpihenjen Räikänranta gyönyörű parkjaiban. Délután fedezze fel a mélyen eldugott Kyynijärvi erdei tavat és a Pyhäjärvi lenyűgöző panorámáit. Zárja az utazást a Tesomajärvi-Ikuri rekreációs területein.",
         "ro": "Porniți într-o plimbare pitorească începând cu vederile vaste ale lacului Näsijärvi dimineața. Miezul zilei vă aduce înapoi spre centru pentru a vă relaxa în parcurile frumoase din Räikänranta. După-amiaza, descoperiți lacul de pădure Kyynijärvi și panoramele largi ale Pyhäjärvi. Încheiați călătoria explorând zonele de recreere diverse din Tesomajärvi-Ikuri.",
         "en": "Embark on a scenic drive starting with the vast, breathtaking views of Näsijärvi in the morning. Midday brings you back towards the center to relax at the beautiful parklands of Räikänranta. In the afternoon, discover the deeply secluded forest lake of Kyynijärvi and the sweeping panoramas of Pyhäjärvi. End your journey exploring the diverse recreation areas of Tesomajärvi-Ikuri."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag bietet die perfekte Gelegenheit für eine gemütliche Panoramafahrt. Wir starten sicher im trockenen Auto durch Ylöjärvi.\n\nMittags erreichen wir die großen Seen. Von den Aussichtspunkten aus beobachten wir das Spiel der Regentropfen auf der weiten Wasseroberfläche.\n\nDer Nachmittag führt uns tiefer in die Region. Trotz Scheibenwischern im Dauereinsatz genießen wir die sattgrüne Natur, die im Regen förmlich aufleuchtet.\n\nAm Abend kehren wir entspannt zurück. Die Fahrt durch die beleuchteten, nassen Straßen bietet einen glanzvollen Abschluss des Tages.",
+            "hu": "Egy esős nap tökéletes alkalom egy kényelmes panorámaautózáshoz. Biztonságban, a száraz autóban vágunk neki Ylöjärvi környékének.\n\nDélben elérjük a nagy tavakat. A kilátópontokról figyeljük az esőcseppek játékát a hatalmas vízfelületen.\n\nA délután során mélyebbre kalandozunk a régióban. A folyamatosan dolgozó ablaktörlők mögül is élvezzük a harsányzöld természetet.\n\nEstére pihenten térünk vissza. Az út a kivilágított, vizes utcákon keresztül csillogó lezárást ad a mai napnak.",
+            "ro": "O zi ploioasă este ocazia perfectă pentru o plimbare panoramică confortabilă. Pornim la drum în siguranță, în mașina uscată, prin Ylöjärvi.\n\nLa prânz ajungem la marile lacuri. Din punctele de observație urmărim jocul picăturilor de ploaie pe suprafața vastă a apei.\n\nDupă-amiaza ne aventurăm mai adânc în regiune. Chiar și cu ștergătoarele pornite, ne bucurăm de natura verde care strălucește în ploaie.\n\nSeara ne întoarcem relaxați. Drumul prin străzile iluminate și umede oferă o încheiere strălucitoare acestei zile.",
+            "en": "A rainy day is the perfect opportunity for a comfortable scenic drive. We set off safely in the dry car through the Ylöjärvi area.\n\nAt noon, we reach the large lakes. From the viewpoints, we watch the play of raindrops on the vast surface of the water.\n\nIn the afternoon, we venture deeper into the region. Even with the wipers working constantly, we enjoy the lush green nature.\n\nIn the evening, we return relaxed. The drive through the illuminated, wet streets provides a sparkling conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Näsijärvi",
+                "hu": "Näsijärvi",
+                "ro": "Näsijärvi",
+                "en": "Näsijärvi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick direkt aus dem warmen Auto; parken Sie so, dass Sie die Wellen des Näsijärvi beobachten können, ohne im Regen nass zu werden.",
+                "hu": "Élvezze a tágas kilátást közvetlenül a meleg autóból; parkoljon úgy, hogy az ablakból figyelhesse a Näsijärvi hullámait anélkül, hogy esernyőre lenne szüksége.",
+                "ro": "Bucurați-vă de priveliștea vastă direct din mașina călduroasă; parcați astfel încât să puteți urmări valurile lacului Näsijärvi fără a fi nevoie să coborâți în ploaie.",
+                "en": "Enjoy the expansive view directly from the warm car; park so that you can watch the waves of Näsijärvi from the window without needing an umbrella or getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Räikänranta",
+                "hu": "Räikänranta",
+                "ro": "Räikänranta",
+                "en": "Räikänranta"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Stopp für ein stimmungsvolles Foto vom See; achten Sie beim Aussteigen jedoch auf tiefe Pfützen auf dem oft unbefestigten Teil des Parkplatzes.",
+                "hu": "Szép megálló egy hangulatos fotóra a tóról; kiszálláskor azonban ügyeljen a váratlanul mély tócsákra a parkoló burkolatlan, murvás területein az esőzés után.",
+                "ro": "O oprire frumoasă pentru o fotografie atmosferică cu lacul; la coborâre, aveți grijă la bălțile adânce din zonele neasfaltate ale parcării după ploaia torențială.",
+                "en": "A nice stop for an atmospheric photo of the lake; however, when getting out, watch out for unexpectedly deep puddles in the unpaved areas of the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kyynijärvi",
+                "hu": "Kyynijärvi",
+                "ro": "Kyynijärvi",
+                "en": "Kyynijärvi"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Nässe rutschig sein; fahren Sie langsam, um die im Regen mystisch wirkende Waldlandschaft in aller Ruhe genießen zu können.",
+                "hu": "A keskeny bekötőutak nedvesen csúszósak lehetnek; vezessen lassabban, hogy biztonságban élvezhesse az esőben egészen misztikusnak ható, sűrű erdei tájat.",
+                "ro": "Drumurile înguste de acces pot fi alunecoase pe umed; conduceți mai încet pentru a vă bucura în siguranță de peisajul forestier dens care pare mistic în ploaie.",
+                "en": "The narrow access roads can be slippery when wet; drive more slowly to safely enjoy the dense forest landscape that looks quite mystical in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyhäjärvi",
+                "hu": "Pyhäjärvi",
+                "ro": "Pyhäjärvi",
+                "en": "Pyhäjärvi"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei grauem Himmel besonders weit und ruhig; nutzen Sie die Parkbuchten für einen kurzen, entspannten Moment der Stille direkt am nebligen Ufer.",
+                "hu": "A tó szürke égbolt mellett különösen tágasnak és nyugodtnak hat; használja a parkolóöblöket egy rövid, pihentető és csendes pillanathoz közvetlenül a ködös vízparton.",
+                "ro": "Lacul pare deosebit de vast și liniștit sub cerul gri; folosiți alveolele de parcare pentru un scurt moment relaxant de liniște direct pe malul cețos al apei.",
+                "en": "The lake looks especially vast and calm under a gray sky; use the parking bays for a short, relaxing, and quiet moment right by the misty water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Tesomajärvi-Ikuri",
+                "hu": "Tesomajärvi-Ikuri",
+                "ro": "Tesomajärvi-Ikuri",
+                "en": "Tesomajärvi-Ikuri"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang der Tour; achten Sie auf die korrekte Scheinwerfereinstellung, um auch bei starkem Regen die bestmöglichen Sichtverhältnisse auf der Straße zu haben.",
+                "hu": "A túra nyugodt lezárása; ügyeljen a fényszórók megfelelő beállítására, hogy a sötétedő, erős esőben is a lehető legjobb látási viszonyai legyenek az úton.",
+                "ro": "O încheiere liniștită a turului; asigurați-vă că farurile sunt reglate corect pentru a avea cea mai bună vizibilitate posibilă pe drum în condiții de ploaie densă.",
+                "en": "A calm end to the tour; ensure your headlights are properly adjusted to have the best possible visibility on the road even in conditions of heavy and darkening rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein glitzernder Wintermorgen lädt zu einer sicheren Fahrt durch die verschneite Landschaft ein. Wir starten mit enteisten Scheiben.\n\nMittags erreichen wir die vereisten Ufer der großen Seen. Das Weiß des Schnees bildet einen scharfen Kontrast zum tiefblauen Winterhimmel.\n\nDer Nachmittag bietet dramatische Lichtverhältnisse, bevor die Sonne um 17:00 Uhr untergeht. Fahren Sie vorsichtig auf eventuell glatten Landstraßen.\n\nAm Abend leuchten die Lichter von Ylöjärvi besonders hell im Schnee. Es ist die perfekte Zeit, um den Tag gemütlich im warmen Auto zu beenden.",
+            "hu": "A csillogó téli reggel biztonságos autózásra hív a havas tájon keresztül. Jégmentesített szélvédővel vágunk neki az útnak.\n\nDélben elérjük a nagy tavak jeges partjait. A hó fehérsége éles kontrasztot alkot a mélykék téli égbolttal.\n\nA délután drámai fényeket kínál, mielőtt a nap 17:00-kor lebukik. Vezessen óvatosan az esetlegesen jeges mellékutakon.\n\nEste Ylöjärvi fényei különösen fényesen ragyognak a hóban. Tökéletes időpont, hogy kényelmesen, a meleg autóban fejezzük be a napot.",
+            "ro": "O dimineață de iarnă strălucitoare ne invită la o plimbare sigură prin peisajul înzăpezit. Pornim la drum cu parbrizul dezghețat.\n\nLa prânz ajungem pe malurile înghețate ale marilor lacuri. Albul zăpezii creează un contrast puternic cu cerul albastru de iarnă.\n\nDupă-amiaza oferă lumini dramatice înainte ca soarele să apune la ora 17:00. Conduceți cu atenție pe drumurile secundare eventual înghețate.\n\nSeara, luminile din Ylöjärvi strălucesc deosebit de tare în zăpadă. Este momentul perfect pentru a încheia ziua în mașina călduroasă.",
+            "en": "A sparkling winter morning invites us to a safe drive through the snowy landscape. We start the journey with a de-iced windshield.\n\nAt noon, we reach the icy shores of the large lakes. The whiteness of the snow creates a sharp contrast with the deep blue winter sky.\n\nThe afternoon offers dramatic lighting before the sun sets at 17:00. Drive carefully on potentially icy secondary roads.\n\nIn the evening, the lights of Ylöjärvi shine especially brightly in the snow. It is the perfect time to end the day in the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Näsijärvi",
+                "hu": "Näsijärvi",
+                "ro": "Näsijärvi",
+                "en": "Näsijärvi"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Weite des Sees ist tief beeindruckend; lassen Sie den Motor nicht unnötig im Leerlauf laufen, während Sie die Aussicht aus dem warmen Inneren genießen.",
+                "hu": "A tó befagyott, végtelen víztükre mélyen lenyűgöző; ne járassa feleslegesen a motort alapjáraton, miközben a fűtött utastér kényelméből csodálja a téli panorámát.",
+                "ro": "Orizontul înghețat al lacului este profund impresionant; nu lăsați motorul să meargă inutil la relanti în timp ce admirați panorama de iarnă din interiorul cald.",
+                "en": "The frozen and endless expanse of the lake is deeply impressive; do not leave the engine idling unnecessarily while you admire the winter panorama from the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Räikänranta",
+                "hu": "Räikänranta",
+                "ro": "Räikänranta",
+                "en": "Räikänranta"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Fotostopp im Winterwunderland; prüfen Sie den Untergrund unbedingt auf Glatteis, bevor Sie mit Schwung aus dem Auto auf die Parkfläche steigen.",
+                "hu": "Tökéletes fotómegálló a téli meseországban; mindenképpen ellenőrizze a talajt, nincs-e láthatatlan jégréteg rajta, mielőtt lendületesen kiszállna az autóból a parkolóban.",
+                "ro": "O oprire perfectă pentru poze în tărâmul de basm; verificați neapărat dacă solul nu are o peliculă de gheață înainte de a coborî cu avânt din mașină în parcare.",
+                "en": "A perfect photo stop in the winter wonderland; be sure to check the ground for any invisible ice layers before stepping out of the car too enthusiastically in the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kyynijärvi",
+                "hu": "Kyynijärvi",
+                "ro": "Kyynijärvi",
+                "en": "Kyynijärvi"
+              },
+              "tip_5lang": {
+                "de": "Die verschneiten Waldwege hier sind malerisch; stellen Sie sicher, dass Sie hochwertige Winterreifen mit gutem Profil für diese oft rutschige Strecke montiert haben.",
+                "hu": "A havas erdei utak errefelé rendkívül festőiek; győződjön meg róla, hogy kiváló minőségű és jó profilmélységű téli gumikkal vág neki ennek a gyakran csúszós szakasznak.",
+                "ro": "Drumurile forestiere înzăpezite sunt extrem de pitorești aici; asigurați-vă că aveți anvelope de iarnă de calitate și cu profil bun pentru această porțiune adesea alunecoasă.",
+                "en": "The snowy forest roads around here are extremely picturesque; make sure you have high-quality winter tires with good tread depth for this often slippery section."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyhäjärvi",
+                "hu": "Pyhäjärvi",
+                "ro": "Pyhäjärvi",
+                "en": "Pyhäjärvi"
+              },
+              "tip_5lang": {
+                "de": "Das Eis funkelt herrlich in der tiefstehenden Wintersonne; halten Sie stets ausreichend Sicherheitsabstand zu anderen Fahrzeugen auf der oft glatten Uferstraße ein.",
+                "hu": "A jég gyönyörűen szikrázik az alacsonyan járó téli napsütésben; tartson mindig kellő biztonsági követési távolságot a többiektől a gyakran jeges parti utakon.",
+                "ro": "Gheața sclipește minunat în lumina soarelui de iarnă; păstrați întotdeauna o distanță de siguranță corespunzătoare față de ceilalți pe drumurile de coastă adesea înghețate.",
+                "en": "The ice sparkles beautifully in the low winter sunlight; always maintain a sufficient safety following distance from others on the often icy coastal roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Tesomajärvi-Ikuri",
+                "hu": "Tesomajärvi-Ikuri",
+                "ro": "Tesomajärvi-Ikuri",
+                "en": "Tesomajärvi-Ikuri"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss bei Sonnenuntergang gegen 17:00 Uhr; prüfen Sie Ihre gesamte Beleuchtung, bevor Sie die Rückfahrt im dichten Winterdunkel antreten.",
+                "hu": "Hangulatos zárás az 17:00 óra körüli naplementénél; ellenőrizze a teljes világítást az autón, mielőtt elindulna hazafelé a sűrű téli sötétségben a havas utakon.",
+                "ro": "O încheiere plăcută la apusul de la ora 17:00; verificați întregul sistem de iluminare al mașinii înainte de a porni spre casă prin întunericul dens de iarnă.",
+                "en": "A cozy finish at the sunset around 17:00; check your entire car lighting system before starting the drive home through the thick winter darkness on snowy roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

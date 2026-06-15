@@ -160,6 +160,196 @@
         "hu": "Kezdje oyonnaxi sétáját a helyi hangulat befogadásával, mielőtt a lenyűgöző műanyagipari múzeumban elmerülne a város egyedülálló, gazdag történelmében és múltjában.\n\nAz ebédidő közeledtével csodálja meg a La Grande Vapeur ipari építészetét, majd keressen egy nyugodt helyet a René Nicod parkban a megérdemelt pihenésre és feltöltődésre.\n\nA délután csendes elmélkedésre csábít a történelmi Saint-Léger templomban, áthidalva a szakadékot Oyonnax ipari hatalma és mélyen gyökerező kulturális hagyományai között.\n\nZárja a napot a városközpontból kiszakadva a festői Sarsouille ösvényen, élvezve a Jura-hegység buja természetével való utolsó, igazán frissítő és békés találkozást.",
         "ro": "Începeți turul pietonal al orașului Oyonnax bucurându-vă de atmosfera locală, înainte de a pătrunde în istoria sa unică la fascinantul muzeu al materialelor plastice.\n\nPe măsură ce se apropie prânzul, admirați arhitectura industrială de la La Grande Vapeur, apoi găsiți un loc liniștit în Parcul René Nicod pentru a vă odihni.\n\nDupă-amiaza vă invită la reflecție în biserica istorică Saint-Léger, făcând legătura între puterea industrială a orașului Oyonnax și rădăcinile sale culturale profunde.\n\nÎncheiați-vă ziua evadând din centrul urban pe pitorescul traseu Sarsouille, bucurându-vă de o ultimă conexiune revigorantă cu natura luxuriantă a munților Jura.",
         "en": "Begin your walking tour of Oyonnax by soaking in the local atmosphere before diving straight into the city's unique history at the fascinating plastics museum.\n\nAs lunchtime approaches, marvel at the industrial architecture of La Grande Vapeur before finding a tranquil spot in René Nicod Park to rest and recharge.\n\nThe afternoon invites quiet reflection at the historic Saint-Léger Church, bridging the gap between Oyonnax's industrial might and its deep cultural roots.\n\nConclude your day by escaping the urban center on the scenic Sarsouille Trail, enjoying a final, refreshing connection with the lush nature of the Jura mountains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag auf dem nassen Platz mit einem festen Schirm. Mittags bietet das Museum den perfekten Schutz vor dem Regen, während Sie in die lokale Industrie eintauchen. Am Nachmittag erkunden Sie die Grande Vapeur und die Kirche, die trockene Momente garantieren. Abends wirkt der Sarsouille-Weg im Nebel mystisch, erfordert aber wasserfeste Schuhe für die matschigen Abschnitte.",
+            "hu": "Kezdje a napot a vizes téren egy erős esernyővel. Délben a múzeum nyújt tökéletes menedéket az eső elől, miközben elmerül a helyi ipar történetében. Délután a Grande Vapeur és a templom falai garantálják a száraz pillanatokat. Este a Sarsouille-ösvény ködös és misztikus, de a sáros szakaszok miatt mindenképpen vízálló lábbelire lesz szüksége.",
+            "ro": "Începeți ziua în piața umedă cu o umbrelă solidă. La prânz, muzeul oferă adăpostul perfect împotriva ploii, în timp ce descoperiți istoria industriei locale. După-amiaza, explorați Grande Vapeur și biserica, care garantează momente uscate. Seara, traseul Sarsouille pare mistic în ceață, dar necesită încălțăminte impermeabilă pentru porțiunile noroioase.",
+            "en": "Start the day at the wet square with a sturdy umbrella. At noon, the museum provides the perfect shelter from the rain while you dive into local industrial history. In the afternoon, explore Grande Vapeur and the church, which guarantee dry moments. In the evening, the Sarsouille trail looks mystical in the mist but requires waterproof shoes for the muddy sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Droits de l'Enfance",
+                "hu": "Place des Droits de l'Enfance",
+                "ro": "Place des Droits de l'Enfance",
+                "en": "Place des Droits de l'Enfance"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Reflexionen in den Pfützen auf dem Platz; ein großer Regenschirm ist hier wegen der offenen Fläche und Windböen absolut unerlässlich.",
+                "hu": "Csodálja meg a színes tükröződéseket a tér pocsolyáiban; a nyitott terület és a széllökések miatt egy nagy és erős esernyő itt elengedhetetlen kellék.",
+                "ro": "Admirați reflexiile colorate în bălțile din piață; o umbrelă mare și rezistentă este absolut esențială aici din cauza spațiului deschis și a vântului.",
+                "en": "Admire the colorful reflections in the puddles on the square; a large, sturdy umbrella is essential here due to the open area and potential wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kamm und Kunststoff",
+                "hu": "Fésű és Műanyag Múzeum",
+                "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+                "en": "Museum of Comb and Plastics"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großartigen Ort als trockenen Zufluchtsort; verstauen Sie Ihre nasse Kleidung in den Schließfächern, bevor Sie die faszinierende Welt des Kunststoffs erkunden.",
+                "hu": "Használja ezt a remek helyszínt száraz menedékként; tegye a vizes kabátot a megőrzőbe, mielőtt felfedezné a műanyagkészítés lenyűgöző világát és titkait.",
+                "ro": "Folosiți această locație excelentă ca refugiu uscat; lăsați hainele ude la vestiar înainte de a explora lumea fascinantă a materialelor plastice și a pieptenilor.",
+                "en": "Use this excellent location as a dry refuge; store your wet gear in the lockers before exploring the fascinating world of plastics and comb-making history."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Vapeur",
+                "hu": "La Grande Vapeur",
+                "ro": "La Grande Vapeur",
+                "en": "La Grande Vapeur"
+              },
+              "tip_5lang": {
+                "de": "Die markante Backsteinfassade leuchtet bei Regen besonders intensiv; betrachten Sie die Architektur von den überdachten Eingängen aus, um trocken zu bleiben.",
+                "hu": "A jellegzetes téglafalak esőben még élénkebben ragyognak; csodálja meg az épületet a fedett bejáratok alól, hogy elkerülje az elázást a nézelődés közben.",
+                "ro": "Fațadele de cărămidă strălucesc mai intens în ploaie; admirați arhitectura de la adăpostul intrărilor acoperite pentru a rămâne uscat în timpul vizitei.",
+                "en": "The distinctive brick walls glow even more vibrantly in the rain; admire the architecture from the sheltered entrances to stay dry while observing the site."
+              }
+            },
+            {
+              "name": {
+                "de": "René-Nicod-Park",
+                "hu": "René Nicod Park",
+                "ro": "Parcul René Nicod",
+                "en": "René Nicod Park"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten einen gewissen Schutz, aber achten Sie auf die rutschigen Wege durch nasses Laub; feste Sohlen sind für den Halt sehr wichtig.",
+                "hu": "A sűrű lombozat némi védelmet nyújt az eső ellen, de ügyeljen a vizes levelek miatt csúszós utakra; a tapadós talpú cipő nagyon fontos a biztonsághoz.",
+                "ro": "Copacii deși oferă o oarecare protecție, dar atenție la potecile alunecoase din cauza frunzelor ude; încălțămintea cu talpă aderentă este esențială pentru siguranță.",
+                "en": "The dense foliage offers some natural protection from the rain, but watch out for paths slippery with wet leaves; wear shoes with good grip for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Léger-Kirche",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Saint-Léger Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Wärme im Inneren der Kirche; die bunten Glasfenster wirken bei grauem Regenwetter besonders stimmungsvoll und leuchtend.",
+                "hu": "Élvezze a csendet és a nyugalmat a templom belső terében; a színes üvegablakok a szürke esős időben különösen hangulatos és mély fényeket árasztanak.",
+                "ro": "Bucurați-vă de liniștea și căldura din interiorul bisericii; vitraliile colorate par deosebit de atmosferice și luminoase pe o vreme ploioasă și gri.",
+                "en": "Enjoy the silence and warmth inside the church; the colorful stained-glass windows appear especially atmospheric and vibrant during gray rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarsouille-Wanderweg",
+                "hu": "Sarsouille ösvény",
+                "ro": "Traseul Sarsouille",
+                "en": "Sarsouille Trail"
+              },
+              "tip_5lang": {
+                "de": "Der anschwellende Bach erzeugt eine dramatische Kulisse; bleiben Sie unbedingt auf dem befestigten Pfad, da die Uferböschung bei Nässe instabil sein kann.",
+                "hu": "A megduzzadt patak látványos hátteret ad a sétához; maradjon szigorúan a kiépített ösvényen, mert a part menti föld esőben fellazulhat és csúszóssá válhat.",
+                "ro": "Pârâul umflat creează un decor dramatic; rămâneți strict pe poteca amenajată, deoarece malul poate deveni instabil și alunecos din cauza precipitațiilor.",
+                "en": "The swollen stream creates a dramatic backdrop for your walk; stay strictly on the paved path as the riverbanks can become unstable and slick when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frostige Morgenluft auf dem zentralen Platz in warmer Kleidung. Mittags ist das Museum der ideale Ort, um sich aufzuwärmen und die bunten Ausstellungen zu genießen. Am Nachmittag nutzen Sie das schwindende Licht für einen kurzen Parkbesuch und die Kirche. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden Sie den Tag früh mit einem Heißgetränk.",
+            "hu": "Tapasztalja meg a friss reggeli fagyot a főtéren, réteges és meleg öltözetben. Délben a múzeum ideális hely a felmelegedésre és a színes kiállítások megtekintésére. Délután használja ki a kevés fényt egy rövid parki sétára és a templomra. Mivel a nap már 17:00 körül lemegy, fejezze be korán a programot egy forró itallal.",
+            "ro": "Experimentați aerul înghețat al dimineții în piața centrală, îmbrăcați în haine groase. La prânz, muzeul este locul ideal pentru a vă încălzi și a savura expozițiile colorate. După-amiaza, profitați de lumina puțină pentru o scurtă vizită în parc și la biserică. Deoarece soarele apune în jur de 17:00, încheiați ziua devreme cu o băutură caldă.",
+            "en": "Experience the frosty morning air at the central square in warm layers. At noon, the museum is the ideal place to warm up and enjoy the colorful exhibits. In the afternoon, make use of the fading light for a short park visit and the church. Since the sun sets around 17:00, end your day early with a hot drink to stay cozy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Droits de l'Enfance",
+                "hu": "Place des Droits de l'Enfance",
+                "ro": "Place des Droits de l'Enfance",
+                "en": "Place des Droits de l'Enfance"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto bei der klaren Winterluft, aber halten Sie die Hände in den Taschen; der Platz kann bei Frost stellenweise sehr glatt sein.",
+                "hu": "Készítsen egy gyors fotót a tiszta téli levegőben, de tartsa a kezét a zsebében; a tér kövezete fagy idején helyenként rendkívül csúszós lehet.",
+                "ro": "Faceți o fotografie rapidă în aerul curat de iarnă, dar țineți mâinile în buzunare; pavajul pieței poate fi extrem de alunecos pe timp de îngheț.",
+                "en": "Take a quick photo in the crisp winter air but keep your hands in your pockets; the square's pavement can be quite slippery in freezing conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kamm und Kunststoff",
+                "hu": "Fésű és Műanyag Múzeum",
+                "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+                "en": "Museum of Comb and Plastics"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich ausgiebig auf, während Sie die farbenfrohe Geschichte der Stadt entdecken; das Museum bietet eine willkommene Pause von der klirrenden Kälte.",
+                "hu": "Melegedjen fel alaposan, miközben felfedezi a város színes ipartörténetét; a múzeum belső tere tökéletes menedéket nyújt a kinti metsző hideg elől.",
+                "ro": "Încălziți-vă bine în timp ce descoperiți istoria industrială colorată a orașului; muzeul oferă un refugiu binevenit împotriva frigului de afară.",
+                "en": "Warm up thoroughly while exploring the city's colorful industrial history; the museum provides a welcome escape from the biting outdoor cold."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Vapeur",
+                "hu": "La Grande Vapeur",
+                "ro": "La Grande Vapeur",
+                "en": "La Grande Vapeur"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Monument wirkt gegen den grauen Winterhimmel besonders majestätisch; ein schneller Rundgang reicht aus, um die Fassade ohne Unterkühlung zu sehen.",
+                "hu": "Ez a történelmi emlékmű különösen fenséges látvány a szürke téli égbolt előtt; egy gyors körbejárás elég, hogy lássa a homlokzatot anélkül, hogy átfázna.",
+                "ro": "Acest monument istoric arată deosebit de maiestuos pe fundalul cerului gri de iarnă; un tur rapid este suficient pentru a vedea fațada fără a îngheța.",
+                "en": "This historic monument looks particularly majestic against the gray winter sky; a quick walk around is enough to see the facade without getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "René-Nicod-Park",
+                "hu": "René Nicod Park",
+                "ro": "Parcul René Nicod",
+                "en": "René Nicod Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der frostbedeckten Bänke und Bäume; ein zügiger Gang hilft, die Körpertemperatur zu halten, bevor Sie wieder ins Warme gehen.",
+                "hu": "Élvezze a zúzmarás padok és fák látványát; a tempós gyaloglás segít fenntartani a testhőt, mielőtt újra belső, fűtött helyszínt keresne magának.",
+                "ro": "Bucurați-vă de vederea băncilor și copacilor acoperiți de chiciură; mersul alert ajută la menținerea căldurii corporale înainte de a merge la interior.",
+                "en": "Enjoy the sight of frost-covered benches and trees; walking at a brisk pace will help maintain your body heat before heading back to a heated indoor spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Léger-Kirche",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Saint-Léger Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem beißenden Wind; nutzen Sie die andächtige Stille für eine Pause und bewundern Sie die architektonischen Details.",
+                "hu": "A vastag kőfalak hatékonyan védenek a metsző szél ellen; használja ki az áhítatos csendet egy pihenőre és csodálja meg az építészeti részleteket.",
+                "ro": "Zidurile groase de piatră oferă o protecție bună împotriva vântului tăios; profitați de liniștea solemnă pentru o pauză și admirați detaliile arhitecturale.",
+                "en": "The thick stone walls provide excellent shelter from the biting winter wind; use the solemn silence for a rest and admire the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarsouille-Wanderweg",
+                "hu": "Sarsouille ösvény",
+                "ro": "Traseul Sarsouille",
+                "en": "Sarsouille Trail"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wanderung unbedingt vor Einbruch der Dunkelheit um 17:00 Uhr; der Pfad kann vereist sein, daher ist erhöhte Vorsicht bei jedem Schritt geboten.",
+                "hu": "Mindenképpen fejezze be a sétát a 17:00 órai sötétedés előtt; az ösvény jeges lehet, ezért minden lépésnél fokozott óvatosságra és figyelemre van szükség.",
+                "ro": "Încheiați neapărat plimbarea înainte de lăsarea întunericului la ora 17:00; poteca poate fi înghețată, deci este necesară prudență maximă la fiecare pas.",
+                "en": "Be sure to finish your walk before darkness falls at 17:00; the path may be icy, so extreme caution is required with every step you take."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje kerékpáros utazását a múzeumban, ahol elmerülhet az ipari múltban, majd zökkenőmentesen folytassa útját a monumentális La Grande Vapeur épületéhez.\n\nTekerjen könnyedén a város utcáin a René Nicod park felé, ahol az árnyékos ösvények tökéletes napközbeni szünetet biztosítanak, távol a nyeregtől és a forgalomtól.\n\nA kaland folytatódik, ahogy maga mögött hagyja a betont a Sarsouille ösvény kedvéért, élvezve a kellemes utazást, amely ötvözi a várost és a természetet.\n\nZárja erősen a napot a békés Lac de Viry tóhoz tekerve, megjutalmazva aktív napját a csendes vízi kilátással, ahogy az esti fény finoman elterül a tájon.",
         "ro": "Începeți-vă călătoria pe bicicletă cu o incursiune în trecutul industrial la muzeu, trecând apoi perfect către monumentala clădire La Grande Vapeur.\n\nPedați fără efort pe străzile orașului spre Parcul René Nicod, unde aleile umbrite oferă pauza perfectă la mijlocul zilei, departe de șaua bicicletei.\n\nAventura continuă în timp ce lăsați asfaltul în urmă pentru traseul Sarsouille, bucurându-vă de o plimbare plăcută care îmbină spațiile urbane cu natura.\n\nTerminați în forță pedalând spre seriosul Lac de Viry, recompensându-vă ziua activă cu vederi liniștite ale apei, pe măsură ce lumina serii se înmoaie.",
         "en": "Kick off your cycling journey with a deep dive into Oyonnax's industrial past at the museum, seamlessly transitioning to the monumental La Grande Vapeur.\n\nPedal effortlessly through the city streets towards René Nicod Park, where the shaded paths provide the perfect mid-day break from the saddle.\n\nThe adventure continues as you leave the pavement behind for the Sarsouille Trail, enjoying a pleasant ride that merges urban spaces with natural surroundings.\n\nFinish strong by cycling out to the serene Lac de Viry, rewarding your active day with peaceful water views as the evening light softens over the landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig auf nassen Straßen zum Museum. Nutzen Sie die Mittagspause für einen langen Museumsbesuch, um den stärksten Regen abzuwarten. Nachmittags sind Park und Wanderweg feucht, fahren Sie auf Schotter besonders vorsichtig. Die Abendfahrt zum Lac de Viry kann neblig sein; schalten Sie unbedingt das Licht ein und tragen Sie reflektierende Kleidung.",
+            "hu": "Induljon óvatosan a vizes utakon a múzeum felé. A déli időszakot használja ki egy hosszú múzeumlátogatásra, hogy megvárja a heves eső végét. Délután a park és az ösvény nyirkos, a murvás részeken hajtson lassabban. Az esti tekerés a Viry-tóhoz ködös lehet; mindenképpen kapcsolja be a lámpákat és viseljen fényvisszaverőt.",
+            "ro": "Porniți cu prudență pe străzile umede spre muzeu. Folosiți prânzul pentru o vizită lungă la muzeu, așteptând oprirea ploii torențiale. După-amiaza, parcul și poteca sunt umede, pedalați cu grijă pe porțiunile cu pietriș. Drumul de seară spre Lacul Viry poate fi cețos; aprindeți farurile și purtați haine reflectorizante.",
+            "en": "Start cautiously on wet roads towards the museum. Use the midday period for a long museum visit to wait out the heaviest rain. In the afternoon, the park and trail are damp; ride particularly carefully on gravel sections. The evening ride to Lac de Viry can be misty; be sure to turn on your lights and wear reflective gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Kamm und Kunststoff",
+                "hu": "Fésű és Műanyag Múzeum",
+                "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+                "en": "Museum of Comb and Plastics"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen nach der Fahrt im Regen; das Museum bietet sicheren Schutz für Sie und Ihr Rad, während Sie die Exponate im Trockenen bestaunen.",
+                "hu": "Ellenőrizze a fékeit az esőben való haladás után; a múzeum biztonságos védelmet nyújt Önnek és a biciklijének is, amíg bent a kiállításokat csodálja.",
+                "ro": "Verificați frânele după ce ați mers prin ploaie; muzeul oferă protecție sigură pentru dumneavoastră și bicicletă în timp ce admirați expozițiile la interior.",
+                "en": "Check your brakes after riding through the rain; the museum offers safe shelter for both you and your bike while you admire the exhibits indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Vapeur",
+                "hu": "La Grande Vapeur",
+                "ro": "La Grande Vapeur",
+                "en": "La Grande Vapeur"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung, um es trocken zu halten; die Architektur lässt sich auch bei Schauerwetter gut von nahen Unterständen betrachten.",
+                "hu": "Parkolja a kerékpárt az ereszek alá, hogy száraz maradjon; az épület architektúrája záporos időben is jól megfigyelhető a közeli fedett pontokról.",
+                "ro": "Parcați bicicleta sub streșini pentru a o păstra uscată; arhitectura clădirii poate fi observată bine din punctele acoperite chiar și pe vreme de aversă.",
+                "en": "Park your bike under the eaves to keep it dry; the building's architecture can be well observed from nearby sheltered spots even during showery weather."
+              }
+            },
+            {
+              "name": {
+                "de": "René-Nicod-Park",
+                "hu": "René Nicod Park",
+                "ro": "Parcul René Nicod",
+                "en": "René Nicod Park"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf den asphaltierten Wegen, da nasses Laub extrem rutschig sein kann; genießen Sie das frische Grün der Bäume im Regen.",
+                "hu": "Csökkentse a sebességet az aszfaltozott utakon, mert a vizes levelek rendkívül csúszósak lehetnek; élvezze a fák friss, üde látványát az esőben.",
+                "ro": "Reduceți viteza pe aleile asfaltate, deoarece frunzele ude pot fi extrem de alunecoase; bucurați-vă de verdele proaspăt al copacilor în timpul ploii.",
+                "en": "Reduce your speed on the paved paths as wet leaves can be extremely slippery; enjoy the fresh, vibrant look of the trees during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarsouille-Wanderweg",
+                "hu": "Sarsouille ösvény",
+                "ro": "Traseul Sarsouille",
+                "en": "Sarsouille Trail"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad am Wasser kann matschig sein; Schutzbleche am Fahrrad sind hier Gold wert, um Ihre Kleidung vor aufspritzendem Schlamm zu bewahren.",
+                "hu": "A víz menti ösvény sáros lehet; a sárvédő a kerékpáron ilyenkor aranyat ér, hogy megóvja ruházatát a felverődő sártól és víztől.",
+                "ro": "Poteca de lângă apă poate fi noroioasă; apărătorile de noroi la bicicletă sunt extrem de utile pentru a vă proteja hainele de murdăria împroșcată.",
+                "en": "The path by the water can be muddy; mudguards on your bike are invaluable here to protect your clothing from splashing mud and water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Viry",
+                "hu": "Lac de Viry (Viry-tó)",
+                "ro": "Lacul Viry",
+                "en": "Lac de Viry"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei Regen dramatisch; achten Sie bei der Anfahrt auf schlechte Sichtverhältnisse und nutzen Sie unbedingt Ihre gesamte Beleuchtung am Rad.",
+                "hu": "A tó látványa esőben drámai hatást kelt; az odaúton ügyeljen a rosszabb látási viszonyokra, és feltétlenül használja a kerékpár összes lámpáját.",
+                "ro": "Vederea lacului în ploaie are un efect dramatic; pe drum, atenție la vizibilitatea redusă și folosiți neapărat toate luminile bicicletei.",
+                "en": "The lake view is dramatic in the rain; pay attention to lower visibility on the way there and be sure to use all of your bike's lighting systems."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit Handschuhen und Thermokleidung zum Museum. Nutzen Sie die Mittagszeit zum Aufwärmen im Inneren. Nachmittags besuchen Sie Park und Wanderweg zügig, bevor der Frost einsetzt. Beenden Sie die Fahrt zum Lac de Viry rechtzeitig zum Sonnenuntergang gegen 17:00 Uhr, da die Temperaturen danach rapide sinken und die Sicht schlechter wird.",
+            "hu": "Induljon kesztyűben és hőtartó ruházatban a múzeum felé. Használja ki a déli időt a belső terekben való felmelegedésre. Délután látogassa meg a parkot és az ösvényt tempósan, mielőtt a fagy beállna. Fejezze be a Viry-tóhoz tartó utat a 17:00 körüli naplementéig, mert utána a hőmérséklet gyorsan süllyed.",
+            "ro": "Porniți cu mănuși și haine termice spre muzeu. Folosiți prânzul pentru a vă încălzi la interior. După-amiaza, vizitați parcul și poteca rapid, înainte de lăsarea gerului. Încheiați drumul spre Lacul Viry înainte de apusul de la 17:00, deoarece temperatura scade rapid și vizibilitatea scade după aceea.",
+            "en": "Set off with gloves and thermal gear towards the museum. Use the midday period to warm up indoors. In the afternoon, visit the park and trail briskly before the frost sets in. Finish the trip to Lac de Viry by sunset around 17:00, as temperatures drop rapidly and visibility decreases after dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Kamm und Kunststoff",
+                "hu": "Fésű és Műanyag Múzeum",
+                "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+                "en": "Museum of Comb and Plastics"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie Ihren Fingern eine Pause vom kalten Lenker und tauchen Sie in die Geschichte ein; das Museum ist perfekt temperiert für eine lange Besichtigung.",
+                "hu": "Adjon pihenőt ujjainak a hideg kormány után, és merüljön el a történelemben; a múzeum kellemesen fűtött egy hosszabb, alapos nézelődéshez.",
+                "ro": "Oferiți degetelor o pauză de la ghidonul rece și scufundați-vă în istorie; muzeul este încălzit plăcut pentru o vizită lungă și detaliată.",
+                "en": "Give your fingers a rest from the cold handlebars and dive into history; the museum is comfortably heated for a long, thorough visit."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Vapeur",
+                "hu": "La Grande Vapeur",
+                "ro": "La Grande Vapeur",
+                "en": "La Grande Vapeur"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht bei der Kälte aus; die markante Industriearchitektur wirkt im klaren Winterlicht besonders scharf und beeindruckend.",
+                "hu": "Egy rövid fotómegálló is elég ebben a hidegben; a jellegzetes ipari épület a tiszta téli fényben különösen élesnek és lenyűgözőnek mutatkozik.",
+                "ro": "O oprire scurtă pentru poze este suficientă în acest frig; clădirea industrială arată deosebit de clară și impresionantă în lumina curată de iarnă.",
+                "en": "A short photo stop is enough in this cold weather; the striking industrial architecture looks particularly sharp and impressive in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "René-Nicod-Park",
+                "hu": "René Nicod Park",
+                "ro": "Parcul René Nicod",
+                "en": "René Nicod Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über Brücken und schattige Stellen, da dort Glatteisgefahr besteht; genießen Sie die Ruhe des winterlichen Parks vom Sattel aus.",
+                "hu": "Hajtson óvatosan a hidakon és az árnyékos részeken, mert ott jegesedés várható; élvezze a téli park csendjét a kerékpár nyergéből figyelve.",
+                "ro": "Pedalați cu grijă pe poduri și în zonele umbrite, unde poate apărea poleiul; bucurați-vă de liniștea parcului de iarnă direct din șaua bicicletei.",
+                "en": "Ride carefully over bridges and through shaded areas as ice can form there; enjoy the peaceful silence of the winter park from the comfort of your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarsouille-Wanderweg",
+                "hu": "Sarsouille ösvény",
+                "ro": "Traseul Sarsouille",
+                "en": "Sarsouille Trail"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann bei Frost hart und holprig sein; achten Sie auf Ihre Fahrspur und kehren Sie um, sobald das Licht schwächer wird, um sicher zurückzukommen.",
+                "hu": "Az ösvény fagyban kemény és egyenetlen lehet; figyeljen a nyomvonalra, és forduljon vissza, amint gyengül a fény, hogy biztonságban hazaérjen.",
+                "ro": "Poteca poate fi dură și denivelată pe timp de îngheț; fiți atenți la traseu și întoarceți-vă imediat ce lumina scade pentru a ajunge în siguranță.",
+                "en": "The path can be hard and uneven in freezing weather; watch your line carefully and head back as soon as the light fades to ensure a safe return."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Viry",
+                "hu": "Lac de Viry (Viry-tó)",
+                "ro": "Lacul Viry",
+                "en": "Lac de Viry"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den See vor 17:00 Uhr, um das letzte Tageslicht auf dem Wasser zu sehen; rüsten Sie sich für den Rückweg mit hellen LED-Leuchten aus.",
+                "hu": "Érjen a tóhoz 17:00 előtt, hogy lássa az utolsó fényeket a vízen; készüljön fel a hazaútra erős LED-lámpákkal, mert a sötétben gyorsan lehűl a levegő.",
+                "ro": "Ajungeți la lac înainte de 17:00 pentru a vedea ultimele raze pe apă; echipați-vă cu lumini LED puternice pentru drumul de întoarcere prin întuneric.",
+                "en": "Reach the lake before 17:00 to catch the last daylight on the water; equip yourself with bright LED lights for the return journey in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje autós útját Oyonnax szívében, fedezze fel a híres múzeumot és a La Grande Vapeur építészeti nagyszerűségét, mielőtt a nyílt országútra lépne.\n\nEgy festői autózás elviszi a lenyűgöző Lac Geninhez, a Kis Kanadához, drámai váltást kínálva az ipari történelemből a nyers alpesi szépségbe.\n\nFolytassa utazását a csodálatos Haut-Bugey tájain keresztül a Lac de Viry felé, amely egy rejtett gyöngyszem, tökéletes egy csendes délutáni megállóhoz.\n\nA nap lecsengésével vezessen a hatalmas Lac de Coiselet felé, ahol a tornyosuló sziklák és a kiterjedt vizek igazán látványos hátteret biztosítanak az estének.",
         "ro": "Începeți-vă itinerariul auto în inima orașului Oyonnax, explorând renumitul muzeu și măreția arhitecturală a clădirii La Grande Vapeur, înainte de a porni la drum.\n\nO scurtă călătorie vă duce la uimitorul Lac Genin, cunoscut drept Mica Canada, oferind o schimbare dramatică de la istoria industrială la frumusețea alpină.\n\nContinuați-vă călătoria prin peisajele frumoase din Haut-Bugey până la Lac de Viry, o bijuterie ascunsă perfectă pentru o oprire liniștită după-amiaza.\n\nPe măsură ce ziua se încheie, conduceți spre Lac de Coiselet, unde stâncile impunătoare și apele vaste creează un fundal cu adevărat spectaculos.",
         "en": "Start your driving itinerary in the heart of Oyonnax, exploring the renowned museum and the architectural grandeur of La Grande Vapeur before hitting the open road.\n\nA scenic drive takes you to the stunning Lac Genin, affectionately known as Little Canada, offering a dramatic shift from industrial history to raw alpine beauty.\n\nContinue your road trip through the beautiful Haut-Bugey landscapes to Lac de Viry, a hidden gem perfectly suited for a quiet, contemplative afternoon stop.\n\nAs the day winds down, drive to the expansive Lac de Coiselet, where the towering cliffs and vast waters create a truly spectacular backdrop for the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bei Regen vorsichtig auf den nassen Stadtstraßen zum Museum. Genießen Sie die Industriearchitektur der Grande Vapeur bequem aus der trockenen Kabine. Die Bergseen Genin und Viry wirken im Regen besonders dramatisch; bleiben Sie bei starken Güssen einfach im Auto. Die kurvigen Straßen nach Coiselet erfordern bei Nässe erhöhte Aufmerksamkeit.",
+            "hu": "Vezessen óvatosan az esős, vizes városi utakon a múzeum felé. Élvezze a Grande Vapeur ipari építészetét kényelmesen, a száraz autó utasteréből. A hegyi tavak (Genin, Viry) esőben különösen drámai látványt nyújtanak; heves zivatar esetén maradjon az autóban. A Coiselet felé vezető kanyargós utak nedves időben fokozott figyelmet igényelnek.",
+            "ro": "Conduceți cu atenție pe străzile ude spre muzeu. Bucurați-vă de arhitectura industrială de la Grande Vapeur din confortul cabinei uscate a mașinii. Lacurile montane Genin și Viry arată dramatic în ploaie; dacă plouă torențial, rămâneți în mașină. Drumurile sinuoase spre Coiselet necesită atenție sporită pe carosabil umed.",
+            "en": "Drive carefully on the wet city streets towards the museum. Enjoy the industrial architecture of Grande Vapeur comfortably from the dry car cabin. The mountain lakes (Genin, Viry) look particularly dramatic in the rain; stay in the car during heavy downpours. The winding roads to Coiselet require extra attention when the surface is wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Kamm und Kunststoff",
+                "hu": "Fésű és Műanyag Múzeum",
+                "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+                "en": "Museum of Comb and Plastics"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Museum zu gelangen; nutzen Sie die Zeit drinnen, um den Regen im Warmen abzuwarten.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy szárazon jusson be a múzeumba; használja ki a benti időt, hogy megvárja az eső csendesedését a melegben.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în muzeu; profitați de timpul petrecut în interior pentru a aștepta oprirea ploii la căldură.",
+                "en": "Park as close to the entrance as possible to stay dry while entering; use your time inside to wait out the rain in a warm and dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Vapeur",
+                "hu": "La Grande Vapeur",
+                "ro": "La Grande Vapeur",
+                "en": "La Grande Vapeur"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Fassade direkt vom Parkplatz aus, falls es zu stark regnet; die Ziegelmauern leuchten bei Nässe besonders kräftig.",
+                "hu": "Nézze meg a lenyűgöző homlokzatot közvetlenül a parkolóból, ha túl erősen esne; a téglafalak nedvesen különösen mély és élénk színűek.",
+                "ro": "Observați fațada impresionantă direct din parcare dacă plouă prea tare; zidurile de cărămidă au culori deosebit de intense când sunt umede.",
+                "en": "View the impressive facade directly from the parking area if it's raining too hard; the brick walls show particularly deep and vibrant colors when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Genin",
+                "hu": "Lac Genin (Genin-tó)",
+                "ro": "Lacul Genin",
+                "en": "Lac Genin"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraße kann neblig und rutschig sein; genießen Sie den Blick auf den mystischen See aus dem Auto, wenn das Wetter einen Spaziergang verhindert.",
+                "hu": "A hegyi út ködös és csúszós lehet; élvezze a misztikus tó látványát az autóból, ha az időjárás nem tenné lehetővé a rövid parti sétát.",
+                "ro": "Drumul montan poate fi cețos și alunecos; admirați vederea mistică a lacului din mașină dacă vremea nu permite o scurtă plimbare pe mal.",
+                "en": "The mountain road can be misty and slippery; enjoy the mystical lake view from the car if the weather prevents a short walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Viry",
+                "hu": "Lac de Viry (Viry-tó)",
+                "ro": "Lacul Viry",
+                "en": "Lac de Viry"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Pfützen verdeckt sein können; der See bietet auch bei grauem Himmel tolle Fotomotive für Panoramaaufnahmen.",
+                "hu": "Ügyeljen a kátyúkra, amelyeket elfedhetnek a pocsolyák; a tó szürke égbolt mellett is remek fotótémát kínál a látványos panorámafelvételekhez.",
+                "ro": "Atenție la gropile care pot fi ascunse de bălți; lacul oferă oportunități foto excelente pentru panorame chiar și sub un cer cenușiu.",
+                "en": "Watch out for potholes that might be hidden by puddles; the lake offers great photo opportunities for panoramic shots even under a gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Coiselet",
+                "hu": "Lac de Coiselet (Coiselet-tó)",
+                "ro": "Lacul Coiselet",
+                "en": "Lac de Coiselet"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Ufer entlang ist bei Regen sehr entspannend; nutzen Sie die Parkbuchten für einen Blick auf die dramatische Wolkenbildung über dem Wasser.",
+                "hu": "A tóparti vezetés esőben is nagyon pihentető; használja a pihenőhelyeket, hogy megnézze a víz feletti drámai felhőképződményeket és a párát.",
+                "ro": "Condusul pe malul lacului este relaxant chiar și pe ploaie; folosiți alveolele de parcare pentru a vedea norii dramatici de deasupra apei.",
+                "en": "Driving along the lakeshore is very relaxing in the rain; use the parking lay-bys to observe the dramatic cloud formations over the water surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie früh, um mögliches Glatteis auf dem Weg zum Museum zu vermeiden. Nutzen Sie die Heizung des Wagens zwischen den Besichtigungen historischer Stätten. Der Lac Genin ist im Winter oft gefroren und wunderschön, achten Sie aber auf rutschige Uferwege. Beenden Sie die Seentour vor Einbruch der Dunkelheit um 17:00 Uhr, wenn die Temperaturen schnell sinken.",
+            "hu": "Induljon korán, hogy elkerülje az esetleges jegesedést a múzeum felé vezető úton. Használja az autó fűtését a történelmi helyszínek közötti utazás során. A Genin-tó télen gyakran befagy és csodálatos, de ügyeljen a csúszós parti utakra. Fejezze be a tókerülő túrát a 17:00 órai sötétedés előtt, amikor a hőmérséklet gyorsan süllyed.",
+            "ro": "Porniți devreme pentru a evita poleiul pe drumul spre muzeu. Folosiți încălzirea mașinii între vizitele la siturile istorice. Lacul Genin este adesea înghețat și superb iarna, dar atenție la potecile alunecoase de pe mal. Încheiați turul lacurilor înainte de lăsarea întunericului la 17:00, când temperaturile scad brusc.",
+            "en": "Start early to avoid potential ice on the way to the museum. Use the car's heater between visits to historical sites. Lac Genin is often frozen and beautiful in winter, but watch out for slippery shore paths. Finish your lake tour before darkness falls at 17:00, when temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Kamm und Kunststoff",
+                "hu": "Fésű és Műanyag Múzeum",
+                "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+                "en": "Museum of Comb and Plastics"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der Kälte draußen und der wohligen Wärme im Museum; ein idealer Ort, um die Zeit ohne Frieren zu verbringen.",
+                "hu": "Élvezze a kinti hideg és a múzeumi kellemes meleg közötti különbséget; ez egy ideális helyszín az idő alapos eltöltéséhez fagyoskodás nélkül.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura plăcută din muzeu; este locația ideală pentru a petrece timpul fără a îngheța.",
+                "en": "Enjoy the contrast between the outdoor cold and the cozy warmth inside the museum; it's an ideal place to spend your time without getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "La Grande Vapeur",
+                "hu": "La Grande Vapeur",
+                "ro": "La Grande Vapeur",
+                "en": "La Grande Vapeur"
+              },
+              "tip_5lang": {
+                "de": "Die Ziegelsteine wirken im harten Winterlicht besonders plastisch; ein kurzer Halt für Fotos reicht aus, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A téglafalak a kemény téli fényben különösen plasztikusnak tűnnek; egy rövid fotómegálló elég, mielőtt újra felmelegedne a fűtött autóban.",
+                "ro": "Zidurile de cărămidă par deosebit de reliefate în lumina dură de iarnă; o scurtă oprire pentru poze este suficientă înainte de a vă reîncălzi în mașină.",
+                "en": "The brick walls look particularly textured in the harsh winter light; a short stop for photos is enough before warming up again in the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Genin",
+                "hu": "Lac Genin (Genin-tó)",
+                "ro": "Lacul Genin",
+                "en": "Lac Genin"
+              },
+              "tip_5lang": {
+                "de": "Die schnee- oder frostbedeckte Landschaft um den See ist zauberhaft; prüfen Sie vor der Abfahrt die Straßenverhältnisse, da der Pass glatt sein kann.",
+                "hu": "A hóval vagy zúzmarával borított táj a tó körül varázslatos; indulás előtt ellenőrizze az útviszonyokat, mert a hágó felé vezető út jeges lehet.",
+                "ro": "Peisajul acoperit de zăpadă sau chiciură din jurul lacului este magic; verificați starea drumului înainte de plecare, deoarece trecătoarea poate fi alunecoasă.",
+                "en": "The snow or frost-covered landscape around the lake is magical; check road conditions before leaving, as the mountain pass can be very icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Viry",
+                "hu": "Lac de Viry (Viry-tó)",
+                "ro": "Lacul Viry",
+                "en": "Lac de Viry"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie eisigen Wind am Seeufer; bleiben Sie in der Nähe Ihres Fahrzeugs und genießen Sie die klare Sicht über das winterliche Gewässer.",
+                "hu": "Számítson jeges szélre a tóparton; maradjon a járműve közelében, és élvezze a tiszta kilátást a téli hangulatú, nyugodt víztükörre.",
+                "ro": "Așteptați-vă la vânt înghețat pe malul lacului; rămâneți aproape de vehicul și bucurați-vă de vederea clară asupra apei cu aspect hibernal.",
+                "en": "Expect icy winds at the lakeshore; stay near your vehicle and enjoy the clear, expansive views over the wintery and calm water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Coiselet",
+                "hu": "Lac de Coiselet (Coiselet-tó)",
+                "ro": "Lacul Coiselet",
+                "en": "Lac de Coiselet"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihren Besuch gegen 17:00 Uhr ab, wenn das Licht schwindet; die Heimfahrt bietet oft tolle Blicke auf den Sonnenuntergang im Rückspiegel.",
+                "hu": "Zárja a látogatást 17:00 körül, amikor a fények fogyni kezdenek; a hazaúton gyakran látványos naplementét láthat a visszapillantó tükörben.",
+                "ro": "Încheiați vizita în jur de 17:00, când lumina scade; drumul spre casă oferă adesea vederi superbe asupra apusului în oglinda retrovizoare.",
+                "en": "Wrap up your visit around 17:00 as the light fades; the drive home often provides spectacular sunset views in your rear-view mirror."
+              }
+            }
+          ]
+        }
       }
     }
   }

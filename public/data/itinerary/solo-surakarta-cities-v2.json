@@ -137,6 +137,168 @@
         "hu": "Morning: Surakarta királyi szívének felfedezése a hatalmas Keratonban kezdődik, majd egy kis spirituális szünet következik a Nagy Mecsetben.\nMidday: A déli órák a helyi kereskedelembe vezetnek minket, ahol batikolt kincsekre vadászhatunk a nyüzsgő Klewer piacon.\nAfternoon: A délután a Triwindu régiségpiac varázsáról szól, mielőtt a Mangkunegaran palota felé vennénk az irányt.\nEvening: A nap kecsesen zárul a naplemente fényeiben az elegáns Mangkunegaran palota lenyűgöző pavilonjai között.",
         "ro": "Morning: Explorarea inimii regale a Surakartei începe la mărețul Keraton, urmată de o pauză spirituală la Marea Moschee.\nMidday: Orele amiezii plonjează în comerțul local, căutând comori din material batik la piața plină de viață Klewer.\nAfternoon: După-amiaza este rezervată farmecului de epocă de la piața Triwindu și plimbării spre curțile Mangkunegaran.\nEvening: Ziua se încheie grațios cu reflexiile apusului la pavilioanele elegante ale palatului Mangkunegaran.",
         "en": "Morning: Exploring the royal heart of Surakarta begins at the grand Keraton, followed by a spiritual pause at the Great Mosque.\nMidday: The midday hours dive into local commerce, hunting for batik treasures at the bustling Klewer Market.\nAfternoon: The afternoon is reserved for vintage charms at the Triwindu antique market and strolling toward the Mangkunegaran courts.\nEvening: The day gracefully concludes with sunset reflections at the elegant Mangkunegaran palace pavilions."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie den Königspalast, wo die überdachten Pavillons Schutz vor dem Regen bieten. Mittags spazieren Sie durch die verwinkelten, trockenen Gänge des Klewer-Marktes. Nachmittags tauchen Sie in die majestätische Atmosphäre des Mangkunegaran-Palastes ein. Abends lassen Sie den Tag gemütlich ausklingen, während der Regen sanft auf die historischen Dächer von Solo prasselt.",
+            "hu": "A reggelt a királyi palota fedett pavilonjai alatt kezdjük, védve az esőtől. Délben a Klewer piac labirintusszerű, száraz folyosóin kalandozunk. Délután a Mangkunegaran-palota belső termeiben merülünk el a jávai kultúrában. Este a város halk esőfüggönye mögött figyeljük Solo fényeit egy hangulatos helyről, élvezve a trópusi eső különleges, megnyugtató illatát és morajlását.",
+            "ro": "Dimineața explorăm pavilioanele acoperite ale palatului regal, feriți de ploaie. La prânz ne plimbăm prin coridoarele uscate ale pieței Klewer. După-amiaza ne adăpostim în sălile maiestuoase ale Palatului Mangkunegaran pentru a descoperi arta javaneză. Seara admirăm luminile orașului Solo printre picăturile de ploaie, bucurându-ne de atmosfera intimă a cartierelor istorice sub cerul înnorat.",
+            "en": "Morning starts under the covered pavilions of the royal palace, keeping you dry. At noon, wander through the sheltered corridors of Klewer Market. Afternoon is perfect for the indoor grandeur of the Mangkunegaran Palace. Evening settles in with the rhythmic sound of tropical rain on historic roofs, creating a unique and tranquil atmosphere as you finish your cultural walking tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Keraton Surakarta Hadiningrat",
+                "hu": "Keraton Surakarta Hadiningrat",
+                "ro": "Keraton Surakarta Hadiningrat",
+                "en": "Keraton Surakarta Hadiningrat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten, überdachten Gänge des Palastes, um trocken zu bleiben, und tragen Sie rutschfeste Schuhe für die nassen Marmorböden.",
+                "hu": "Használja a palota tágas, fedett folyosóit a nézelődéshez, és viseljen csúszásmentes talpú cipőt a nedves márványburkolatokon való biztonságos járáshoz.",
+                "ro": "Folosiți coridoarele largi și acoperite ale palatului pentru a rămâne uscați și purtați încălțăminte antiderapantă pentru podelele de marmură umede.",
+                "en": "Use the palace's wide, covered walkways to stay dry while exploring, and wear non-slip shoes for safety on the wet marble floors and paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Surakarta",
+                "hu": "Surakarta Nagy Mecsetje",
+                "ro": "Marea Moschee din Surakarta",
+                "en": "Great Mosque of Surakarta"
+              },
+              "tip_5lang": {
+                "de": "Die Veranda bietet einen tollen Blick auf den Regen im Hof; bringen Sie eine Plastiktüte für Ihre Schuhe mit, da diese am Eingang bleiben.",
+                "hu": "A veranda kiváló rálátást nyújt az udvari esőre; hozzon nejlonzacskót a cipőjének, mivel a bejáratnál le kell vennie azokat a belépéshez.",
+                "ro": "Veranda oferă o vedere excelentă asupra ploii din curte; aduceți o pungă de plastic pentru pantofi, deoarece aceștia trebuie lăsați la intrare.",
+                "en": "The veranda offers a great view of the rain in the courtyard; bring a plastic bag for your shoes as they must be left at the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Klewer Markt",
+                "hu": "Klewer Piac",
+                "ro": "Piața Klewer",
+                "en": "Klewer Market"
+              },
+              "tip_5lang": {
+                "de": "Dieser Markt ist komplett überdacht und somit der perfekte Zufluchtsort; achten Sie auf kleine Pfützen an den Eingängen beim Hineingehen.",
+                "hu": "Ez a piac teljesen fedett, így tökéletes menedék az eső elől; figyeljen a bejáratoknál lévő kisebb tócsákra belépéskor a csúszásveszély miatt.",
+                "ro": "Această piață este complet acoperită, fiind refugiul perfect; atenție la micile bălți de la intrări atunci când pășiți în interiorul clădirii.",
+                "en": "This market is fully covered, making it the perfect sanctuary from the rain; watch out for small puddles at the entrances when walking in."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Triwindu",
+                "hu": "Pasar Triwindu",
+                "ro": "Pasar Triwindu",
+                "en": "Pasar Triwindu"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie tief in den überdachten Antiquitätenständen, wo es trocken ist; ein Taschenschirm ist für den Wechsel zwischen den Gängen ideal.",
+                "hu": "Böngésszen a fedett antikvárius standok mélyén, ahol garantáltan száraz marad; egy kisméretű esernyő ideális a folyosók közötti gyors átjutáshoz.",
+                "ro": "Căutați antichități în adâncul standurilor acoperite pentru a rămâne uscați; o umbrelă compactă este ideală pentru trecerea dintre rânduri.",
+                "en": "Browse deep inside the covered antique stalls to stay dry; a compact umbrella is ideal for moving quickly between the different market sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pura Mangkunegaran",
+                "hu": "Pura Mangkunegaran Múzeum",
+                "ro": "Muzeul Pura Mangkunegaran",
+                "en": "Museum Pura Mangkunegaran"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenausstellungen, um den stärksten Regen abzuwarten; die hölzernen Decken dämpfen das Geräusch der Tropfen wunderbar.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy kivárja a hevesebb esőt; a fagerendás mennyezetek gyönyörűen tompítják a kinti esőkopogás zaját.",
+                "ro": "Vizitați expozițiile interioare pentru a aștepta oprirea ploii; tavanele de lemn atenuează superb sunetul picăturilor de ploaie de afară.",
+                "en": "Visit the interior exhibits to wait out the heaviest rain; the ornate wooden ceilings beautifully dampen the sound of the tropical downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühleren Morgen spazieren Sie entspannt zum Keraton. Mittags genießen Sie die milden Temperaturen auf den Märkten, ohne die übliche Hitze. Nachmittags besichtigen Sie den Mangkunegaran-Palast im weichen Licht der frühen Abendsonne. Da es gegen 17:00 Uhr dunkel wird, erleben Sie den frühen Zauber der beleuchteten Stadt und die angenehme Abendbrise bei Ihrem Spaziergang.",
+            "hu": "A hűvösebb reggelen frissítő séta vezet a Keratonhoz. Délben a lágyabb napsütésben kényelmesen böngészhet a piacokon, elkerülve a nagy hőséget. Délután a Mangkunegaran-palota aranyló fényeit csodálhatjuk meg. Mivel 17:00 körül sötétedik, korán felgyúlnak a város fényei, így a délutáni séta már Solo esti, misztikus hangulatába torkollik.",
+            "ro": "În dimineața răcoroasă ne plimbăm relaxați spre Keraton. La prânz temperaturile blânde fac vizita în piețe mult mai plăcută decât în zilele toride. După-amiaza vizităm palatul în lumina aurie a soarelui care apune devreme. Deoarece se întunecă în jur de ora 17:00, veți experimenta farmecul serii timpurii și briza plăcută a orașului.",
+            "en": "The cooler morning is perfect for a brisk walk to the Keraton. At noon, enjoy the markets without the intense tropical heat. Afternoon visits to the palace are bathed in soft golden light. As darkness falls around 17:00, you will experience the early magic of the city's lights and the pleasant evening breeze during your final stroll of the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Keraton Surakarta Hadiningrat",
+                "hu": "Keraton Surakarta Hadiningrat",
+                "ro": "Keraton Surakarta Hadiningrat",
+                "en": "Keraton Surakarta Hadiningrat"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht das Gehen auf den sandigen Höfen angenehm; eine leichte Jacke schützt vor dem frischen Wind in den offenen Hallen.",
+                "hu": "A hűvös reggeli levegőben kényelmes a séta a homokos udvaron; egy vékony kardigán jól jöhet a nyitott csarnokokban átfújó friss szél ellen.",
+                "ro": "Aerul răcoros de dimineață face plimbarea prin curțile cu nisip plăcută; o jachetă ușoară vă protejează de vântul proaspăt din halele deschise.",
+                "en": "The cool morning air makes walking on the sandy courtyards pleasant; a light layer will protect you from the fresh breeze in the open halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Surakarta",
+                "hu": "Surakarta Nagy Mecsetje",
+                "ro": "Marea Moschee din Surakarta",
+                "en": "Great Mosque of Surakarta"
+              },
+              "tip_5lang": {
+                "de": "Das sanfte Licht der Wintersonne betont die weiße Architektur; kommen Sie früh, um die friedliche Stille vor dem Mittagsgebet zu genießen.",
+                "hu": "A téli nap lágy fénye gyönyörűen kiemeli a fehér építészetet; érkezzen korán, hogy kiélvezze a békés csendet a déli ima kezdete előtt.",
+                "ro": "Lumina blândă a soarelui de iarnă subliniază arhitectura albă; veniți devreme pentru a vă bucura de liniște înaintea rugăciunii de prânz.",
+                "en": "The gentle winter sunlight highlights the white architecture; arrive early to enjoy the peaceful silence before the main midday prayer starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Klewer Markt",
+                "hu": "Klewer Piac",
+                "ro": "Piața Klewer",
+                "en": "Klewer Market"
+              },
+              "tip_5lang": {
+                "de": "In den kühleren Monaten ist die Luftfeuchtigkeit im Markt niedriger, was das Anprobieren von Batikstoffen viel angenehmer macht.",
+                "hu": "A hűvösebb hónapokban a páratartalom alacsonyabb a piacon, ami sokkal kellemesebbé teszi a batikolt anyagok válogatását és felpróbálását.",
+                "ro": "În lunile mai răcoroase umiditatea este mai scăzută în piață, ceea ce face probarea materialelor batik mult mai confortabilă și plăcută.",
+                "en": "In the cooler months the humidity is lower in the market, making browsing and trying on batik fabrics much more comfortable and pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Triwindu",
+                "hu": "Pasar Triwindu",
+                "ro": "Pasar Triwindu",
+                "en": "Pasar Triwindu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Nachmittagslicht zum Fotografieren der Antiquitäten, bevor die Sonne gegen 17:00 Uhr schnell untergeht.",
+                "hu": "Használja ki a tiszta délutáni fényeket az antik tárgyak fotózásához, mielőtt a nap 17:00 körül hirtelen lebukna a horizont alá.",
+                "ro": "Profitați de lumina clară de după-amiază pentru a fotografia antichitățile înainte ca soarele să apună rapid în jurul orei 17:00.",
+                "en": "Take advantage of the clear afternoon light for photographing antiques before the sun sets rapidly around 17:00 in the early evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pura Mangkunegaran",
+                "hu": "Pura Mangkunegaran Múzeum",
+                "ro": "Muzeul Pura Mangkunegaran",
+                "en": "Museum Pura Mangkunegaran"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Palast bei Dämmerung; die Beleuchtung verleiht der Anlage am frühen Abend eine geheimnisvolle, imperiale Aura.",
+                "hu": "Élje át a palota hangulatát szürkületkor; a díszkivilágítás titokzatos, uralkodói aurát kölcsönöz az épületnek a kora esti órákban.",
+                "ro": "Experimentați palatul la amurg; iluminarea îi conferă complexului o aură imperială misterioasă în primele ore ale serii răcoroase.",
+                "en": "Experience the palace at dusk; the lighting gives the complex a mysterious, imperial aura during the early and cool evening hours."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Egy frissítő reggeli tekerés elvisz a Keris Múzeumhoz, majd a történelmi Radya Pustaka intézményéhez.\nMidday: A kulturális utazás délben éri el csúcspontját egy lenyűgöző túrával a hatalmas Danar Hadi batikgyűjteményben.\nAfternoon: A délutáni pedálozás a Triwindu régiségein keresztül vezet a Vastenburg erőd lenyűgöző falaihoz.\nEvening: Ahogy leszáll az est, a Pasar Gede nyüzsgő hangulata tökéletes hátteret kínál a helyi jávai finomságok megkóstolásához.",
         "ro": "Morning: O plimbare răcoritoare de dimineață vă duce la Muzeul Keris, urmată de istoricul Radya Pustaka.\nMidday: Călătoria culturală atinge apogeul în jurul prânzului cu un tur fascinant prin colecțiile de batik Danar Hadi.\nAfternoon: Pedalarea de după-amiază vă ghidează prin tarabele antice din Triwindu înainte de a ajunge la Fortul Vastenburg.\nEvening: Odată cu lăsarea serii, atmosfera vibrantă a pieței Pasar Gede oferă cadrul perfect pentru a gusta deliciile locale.",
         "en": "Morning: A refreshing morning ride takes you to the Keris Museum to appreciate dagger making, followed by the historic Radya Pustaka.\nMidday: The cultural journey peaks around midday with a mesmerizing tour through the extensive Danar Hadi batik collections.\nAfternoon: Afternoon pedals lead you through the antique stalls of Triwindu before reaching the imposing walls of Vastenburg Fort.\nEvening: As dusk settles, the bustling atmosphere of Pasar Gede offers the perfect setting to sample local Javanese culinary delights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Solos Straßen. Beginnen Sie in den Museen, um trocken zu bleiben. Mittags radeln Sie zwischen den Schauern zu den historischen Stätten. Nachmittags bietet das Fort Vastenburg weite Flächen, die im Regen dramatisch wirken. Beenden Sie die Tour im Pasar Gede, wo Sie unter den großen Marktdächern sicher vor dem Wetter sind.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Solo útjain. Kezdje a múzeumokban, hogy száraz maradjon a nap elején. Délben a záporok között tekerjen a történelmi helyszínek felé. Délután a Vastenburg erőd falai drámai látványt nyújtanak az esőben. A túrát a Pasar Gede piacon zárja, ahol a hatalmas tető alatt biztonságban lesz az időjárástól.",
+            "ro": "Ciclismul pe ploaie necesită atenție pe străzile din Solo. Începeți la muzee pentru a rămâne uscați. La prânz pedalați între reprizele de ploaie spre siturile istorice. După-amiaza Fortul Vastenburg oferă un decor dramatic sub cerul gri. Încheiați turul la Pasar Gede, unde acoperișurile mari ale pieței vă protejează de intemperii.",
+            "en": "Cycling in the rain requires caution on Solo's streets. Start at the museums to stay dry during the morning. At noon, bike between showers toward historical sites. In the afternoon, Vastenburg Fort looks dramatic under the rain clouds. End your tour at Pasar Gede, where the massive market roofs keep you safe from the wet weather while you explore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Keris Nusantara",
+                "hu": "Keris Nusantara Múzeum",
+                "ro": "Muzeul Keris Nusantara",
+                "en": "Museum Keris Nusantara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und nutzen Sie die Schließfächer, um nasse Regenbekleidung während der Besichtigung zu verstauen.",
+                "hu": "Parkolja le kerékpárját az előtető alatt, és használja az értékmegőrzőket a nedves esőkabát tárolására a kiállítás megtekintése alatt.",
+                "ro": "Parcați bicicleta sub copertină și folosiți vestiarele pentru a lăsa pelerina de ploaie umedă în timpul vizitării muzeului modern.",
+                "en": "Park your bike under the overhang and use the lockers to store any wet rain gear while you explore the modern museum interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Radya Pustaka",
+                "hu": "Radya Pustaka Múzeum",
+                "ro": "Muzeul Radya Pustaka",
+                "en": "Museum Radya Pustaka"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Fahrradparkplatz zum Eingang ist nicht überdacht; halten Sie Ihren Schirm für diesen Moment griffbereit.",
+                "hu": "A kerékpárparkolótól a bejáratig vezető rövid út nem fedett; tartsa kéznél az esernyőjét erre a pár méteres szakaszra az esőben.",
+                "ro": "Drumul scurt de la parcarea de biciclete până la intrare nu este acoperit; țineți umbrela la îndemână pentru acest segment scurt.",
+                "en": "The short path from the bike parking to the entrance is not covered; keep your umbrella ready for this brief dash through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "House of Danar Hadi",
+                "hu": "Danar Hadi Ház",
+                "ro": "Casa Danar Hadi",
+                "en": "House of Danar Hadi"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für heftigen Regen, da die Tour drinnen stattfindet; trocknen Sie Ihre Hände, bevor Sie die feinen Batikstoffe betrachten.",
+                "hu": "Tökéletes hely heves esőzés idejére, mivel a túra bent zajlik; szárítsa meg a kezét, mielőtt megcsodálná a finom antik batikolt szöveteket.",
+                "ro": "Locul perfect pentru ploaie torențială, deoarece turul este în interior; uscați-vă mâinile înainte de a admira țesăturile fine de batik.",
+                "en": "A perfect place during heavy rain as the entire tour is indoors; dry your hands before admiring the delicate antique batik fabrics."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Triwindu",
+                "hu": "Pasar Triwindu",
+                "ro": "Pasar Triwindu",
+                "en": "Pasar Triwindu"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden kann durch hineingetragenes Wasser rutschig sein; suchen Sie sich einen trockenen Platz unter den Markisen.",
+                "hu": "Vigyázzon a leszálláskor, a padló a behordott víztől csúszós lehet; keressen magának egy száraz helyet az árusok ponyvái alatt.",
+                "ro": "Atenție la coborârea de pe bicicletă, podeaua poate fi alunecoasă; căutați un loc uscat sub copertinele numeroșilor comercianți.",
+                "en": "Be careful when dismounting as the floor can be slippery from tracked-in water; find a dry spot under the many shop awnings."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Vastenburg",
+                "hu": "Vastenburg Erőd",
+                "ro": "Fortul Vastenburg",
+                "en": "Vastenburg Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Fort sind unbefestigt; vermeiden Sie Schlammstellen mit dem Fahrrad und bleiben Sie auf den höheren, trockeneren Abschnitten.",
+                "hu": "Az erőd útjai nem burkoltak; kerülje el a saras részeket a biciklivel, és maradjon a magasabban fekvő, szárazabb szakaszokon a falak mentén.",
+                "ro": "Căile din fort nu sunt pavate; evitați zonele cu noroi cu bicicleta și rămâneți pe secțiunile mai înalte și uscate ale zidurilor.",
+                "en": "The paths in the fort are unpaved; avoid muddy patches with your bike and stay on the higher, drier sections along the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Gede Harjonagoro",
+                "hu": "Pasar Gede Harjonagoro",
+                "ro": "Pasar Gede Harjonagoro",
+                "en": "Pasar Gede Harjonagoro"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Haupteingang unter; der Markt bietet bei Regen eine gemütliche, geschäftige Atmosphäre unter dem hohen Dach.",
+                "hu": "Helyezze a kerékpárját a főbejárat alá; a piac esőben barátságos, nyüzsgő hangulatot áraszt a hatalmas védelmező tetőszerkezet alatt.",
+                "ro": "Lăsați bicicleta sub intrarea principală; piața oferă o atmosferă caldă și animată sub acoperișul înalt în timp ce afară plouă.",
+                "en": "Park your bike under the main entrance overhang; the market offers a cozy, bustling atmosphere under its high roof while it rains outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine erfrischende Radtour durch Solo ohne die tropische Hitze. Die Museen am Vormittag bieten eine angenehme Abkühlung. Mittags erkunden Sie den Triwindu-Markt im klaren Winterlicht. Da die Sonne gegen 17:00 Uhr untergeht, radeln Sie am späten Nachmittag durch das goldene Licht am Fort Vastenburg und beenden Ihre Tour im stimmungsvoll beleuchteten Pasar Gede.",
+            "hu": "Élvezze a frissítő kerékpártúrát Solóban a trópusi hőség nélkül. A délelőtti múzeumlátogatások kellemes hűvöst nyújtanak. Délben a Triwindu piacot tiszta téli fényekben fedezheti fel. Mivel 17:00 körül lemegy a nap, késő délután már az erőd aranyló fényeiben tekerhet, túráját pedig a hangulatosan kivilágított Pasar Gede piacon zárhatja.",
+            "ro": "Bucurați-vă de un tur cu bicicleta prin Solo fără căldura tropicală sufocantă. Muzeele de dimineață oferă o răcoare plăcută. La prânz explorați piața Triwindu în lumina clară de iarnă. Deoarece soarele apune la 17:00, pedalați prin lumina aurie la Fortul Vastenburg și încheiați turul în piața Pasar Gede iluminată.",
+            "en": "Enjoy a refreshing bike tour through Solo without the typical tropical heat. Morning museums offer a pleasant cool-down. At noon, explore Triwindu Market in the clear winter light. As the sun sets around 17:00, bike through the golden hour at Vastenburg Fort and finish your tour in the atmospherically lit Pasar Gede market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Keris Nusantara",
+                "hu": "Keris Nusantara Múzeum",
+                "ro": "Muzeul Keris Nusantara",
+                "en": "Museum Keris Nusantara"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Startpunkt; die moderne Klimatisierung ist auch im Winter angenehm, wenn Sie sich beim Radfahren aufgewärmt haben.",
+                "hu": "Remek kiindulópont; a modern légkondicionálás télen is kellemes, ha a kerékpározástól kicsit kimelegedett volna útközben.",
+                "ro": "Un punct de plecare excelent; aerul condiționat modern este plăcut chiar și iarna dacă v-ați încălzit pedalând prin oraș.",
+                "en": "A great starting point; the modern air conditioning is pleasant even in winter if you've warmed up from cycling through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Radya Pustaka",
+                "hu": "Radya Pustaka Múzeum",
+                "ro": "Muzeul Radya Pustaka",
+                "en": "Museum Radya Pustaka"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten des Museums; die milden Temperaturen im Winter machen das Verweilen im Freien zwischen den Exponaten sehr erholsam.",
+                "hu": "Látogasson el a múzeum kertjébe; a téli enyhe hőmérséklet nagyon pihentetővé teszi a kinti nézelődést a kiállított tárgyak között.",
+                "ro": "Vizitați grădina muzeului; temperaturile blânde de iarnă fac relaxarea în aer liber printre exponate foarte reconfortantă.",
+                "en": "Visit the museum garden; the mild winter temperatures make relaxing outdoors among the exhibits very refreshing and restful."
+              }
+            },
+            {
+              "name": {
+                "de": "House of Danar Hadi",
+                "hu": "Danar Hadi Ház",
+                "ro": "Casa Danar Hadi",
+                "en": "House of Danar Hadi"
+              },
+              "tip_5lang": {
+                "de": "Die Führung dauert ca. 90 Minuten; ideal, um die Mittagssonne zu meiden, auch wenn sie im Winter weniger intensiv ist als sonst.",
+                "hu": "A tárlatvezetés kb. 90 percet vesz igénybe; ideális a déli nap elkerülésére, még ha az télen kevésbé is égető, mint általában.",
+                "ro": "Turul ghidat durează aproximativ 90 de minute; este ideal pentru a evita soarele de prânz, chiar dacă iarna este mai puțin intens.",
+                "en": "The guided tour lasts about 90 minutes; it's ideal for avoiding the midday sun, even if it's less intense in winter than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Triwindu",
+                "hu": "Pasar Triwindu",
+                "ro": "Pasar Triwindu",
+                "en": "Pasar Triwindu"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad gut ab; die kühle Brise lädt dazu ein, länger in den Gängen nach Schätzen zu suchen, ohne zu schwitzen.",
+                "hu": "Zárja le biztonságosan a kerékpárt; a hűvös szellő arra csábít, hogy hosszabb ideig böngésszen a kincsek között izzadás nélkül.",
+                "ro": "Asigurați bine bicicleta; briza răcoroasă vă invită să căutați comori pe coridoare mai mult timp fără a resimți căldura.",
+                "en": "Secure your bike properly; the cool breeze invites you to spend more time browsing for treasures without the usual humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Vastenburg",
+                "hu": "Vastenburg Erőd",
+                "ro": "Fortul Vastenburg",
+                "en": "Vastenburg Fort"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie gegen 16:30 Uhr an, um das Fort im weichen Licht kurz vor Sonnenuntergang zu sehen; die Schatten werden dann besonders lang.",
+                "hu": "Érkezzen 16:30 körül, hogy a naplemente előtti lágy fényekben lássa az erődöt; az árnyékok ilyenkor különösen hosszúra nyúlnak.",
+                "ro": "Veniți în jur de ora 16:30 pentru a vedea fortul în lumina blândă de dinaintea apusului; umbrele devin atunci deosebit de lungi.",
+                "en": "Arrive around 16:30 to see the fort in the soft light just before sunset; the shadows become particularly long and dramatic then."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Gede Harjonagoro",
+                "hu": "Pasar Gede Harjonagoro",
+                "ro": "Pasar Gede Harjonagoro",
+                "en": "Pasar Gede Harjonagoro"
+              },
+              "tip_5lang": {
+                "de": "Da es nun dunkel ist, achten Sie auf die Scheinwerfer Ihres Rades; der Markt leuchtet hell und ein warmer Tee ist jetzt genau richtig.",
+                "hu": "Mivel már sötét van, ellenőrizze a kerékpár lámpáit; a piac fényesen ragyog ilyenkor, egy meleg tea pedig tökéletes befejezés lesz.",
+                "ro": "Fiind deja întuneric, verificați luminile bicicletei; piața strălucește puternic acum, iar un ceai cald este alegerea perfectă.",
+                "en": "Since it's dark now, check your bike lights; the market shines brightly in the evening and a warm tea is the perfect way to finish."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Morning: Kezdje a kényelmes utazást az egyedülálló indonéz örökséggel a Keris Múzeumban, majd a nemzeti sajtóemlékműnél.\nMidday: Élvezze a Pura Mangkunegaran palota pompáját, majd tegyen egy rövid utat a gyarmati Vastenburg erőd megcsodálásához.\nAfternoon: A királyi örökség felfedezése a fenséges Keraton és a szomszédos Nagy Mecset megtekintésével folytatódik a központban.\nEvening: Zárja a városnézést egy exkluzív estével, ahol a Tumurun Magánmúzeum vibráló kortárs művészeti alkotásait csodálhatja meg.",
         "ro": "Morning: Începeți traseul confortabil cu moștenirea unică din Indonezia la Muzeul Keris, urmat de monumentul presei naționale.\nMidday: Bucurați-vă de măreția palatului Pura Mangkunegaran înainte de a admira arhitectura colonială a Fortului Vastenburg.\nAfternoon: Moștenirea regală continuă pe măsură ce explorați maiestuosul Keraton și Marea Moschee adiacentă din inima orașului.\nEvening: Încheiați turul orașului cu o seară exclusivistă explorând piesele vibrante de artă contemporană de la Muzeul Tumurun.",
         "en": "Morning: Start your comfortable drive with Indonesia's unique heritage at the Keris Museum, followed by the national press monument.\nMidday: Enjoy the grandeur of the Pura Mangkunegaran palace before a quick drive to marvel at the colonial Vastenburg Fort.\nAfternoon: The royal heritage continues as you explore the majestic Keraton and its adjacent Great Mosque in the heart of the city.\nEvening: Wrap up your city tour with an exclusive evening exploring the vibrant contemporary art pieces at the Tumurun Private Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto reisen Sie komfortabel und trocken zwischen Solos kulturellen Highlights. Vormittags besuchen Sie Museen, während es draußen regnet. Mittags bietet das Auto Schutz auf dem Weg zum Keraton. Nachmittags erkunden Sie die Moschee und das Fort. Den Abend verbringen Sie im exklusiven Tumurun-Museum, wo Sie die Kunst in einer klimatisierten und trockenen Umgebung genießen können.",
+            "hu": "Autóval kényelmesen és szárazon utazhat Solo kulturális fénypontjai között. Délelőtt múzeumokat látogatunk, miközben kint szakad az eső. Délben az autó védelmet nyújt a Keraton felé vezető úton. Délután a mecsetet és az erődöt fedezzük fel a záporok szünetében. Az estét az exkluzív Tumurun Múzeumban töltjük, ahol légkondicionált, száraz környezetben élvezhetjük a művészetet.",
+            "ro": "Cu mașina călătoriți confortabil și uscat între punctele de atracție din Solo. Dimineața vizităm muzee în timp ce afară plouă torențial. La prânz mașina oferă protecție pe drumul spre Keraton. După-amiaza explorăm moscheea și fortul. Seara o petrecem la Muzeul Tumurun, unde vă puteți bucura de artă într-un mediu climatizat și complet ferit de umezeală.",
+            "en": "By car, you travel comfortably and dry between Solo's cultural highlights. Morning is for museums while the rain pours outside. At noon, the car provides shelter on the way to the Keraton. Afternoon is spent exploring the mosque and fort between showers. End your day at the exclusive Tumurun Museum, enjoying contemporary art in a climate-controlled and dry environment."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Keris Nusantara",
+                "hu": "Keris Nusantara Múzeum",
+                "ro": "Muzeul Keris Nusantara",
+                "en": "Museum Keris Nusantara"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt am Eingang absetzen, um den Regen zu vermeiden; das Museum bietet ein modernes, trockenes Erlebnis auf mehreren Etagen.",
+                "hu": "Szálljon ki közvetlenül a bejáratnál, hogy elkerülje az esőt; a múzeum modern és száraz élményt nyújt több emeleten keresztül.",
+                "ro": "Cereți să fiți lăsat direct la intrare pentru a evita ploaia; muzeul oferă o experiență modernă și uscată pe mai multe etaje.",
+                "en": "Have the driver drop you right at the entrance to avoid the rain; the museum offers a modern, dry experience across several floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pers Nasional",
+                "hu": "Nemzeti Sajtó Emlékmű",
+                "ro": "Monumentul Presei Naționale",
+                "en": "Monumen Pers Nasional"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für regnerische Tage, da die historischen Zeitungsarchive alle in Innenräumen untergebracht sind.",
+                "hu": "Nagyszerű hely esős napokra, mivel a történelmi újságarchívumok és kiállítások mind zárt belső terekben kaptak helyet.",
+                "ro": "Un loc excelent pentru zilele ploioase, deoarece arhivele istorice de ziare și expozițiile sunt toate adăpostite în interior.",
+                "en": "A great spot for rainy days as the historical newspaper archives and exhibits are all housed safely within the indoor galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pura Mangkunegaran",
+                "hu": "Pura Mangkunegaran Múzeum",
+                "ro": "Muzeul Pura Mangkunegaran",
+                "en": "Museum Pura Mangkunegaran"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Haupthaus; nutzen Sie den überdachten 'Pendopo' (offene Halle), um die Architektur auch bei Regen zu bewundern.",
+                "hu": "A parkoló közel van a főépülethez; használja a fedett 'Pendopo' csarnokot, hogy az építészetet esőben is zavartalanul megcsodálhassa.",
+                "ro": "Parcarea este aproape de clădirea principală; folosiți 'Pendopo' (hala deschisă) acoperit pentru a admira arhitectura chiar și pe ploaie.",
+                "en": "The parking is close to the main building; use the covered 'Pendopo' (open hall) to admire the architecture even during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Vastenburg",
+                "hu": "Vastenburg Erőd",
+                "ro": "Fortul Vastenburg",
+                "en": "Vastenburg Fort"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto für eine kurze Rundfahrt entlang der Mauern, wenn der Regen zu stark ist, um über das offene Gelände zu laufen.",
+                "hu": "Maradjon az autóban egy rövid körre a falak mentén, ha az eső túl erős ahhoz, hogy a nyílt területen gyalogoljon keresztül.",
+                "ro": "Rămâneți în mașină pentru un scurt circuit de-a lungul zidurilor dacă ploaia este prea puternică pentru a merge pe jos prin curte.",
+                "en": "Stay in the car for a short drive along the walls if the rain is too heavy to walk across the open and potentially muddy grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Surakarta Hadiningrat",
+                "hu": "Keris Nusantara Múzeum",
+                "ro": "Keraton Surakarta Hadiningrat",
+                "en": "Keraton Surakarta Hadiningrat"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Sandalen oder leicht zu reinigende Schuhe, da der Boden im Palast bei Regen oft schlammig und rutschig werden kann.",
+                "hu": "Viseljen szandált vagy könnyen tisztítható cipőt, mivel a palota udvara esőben gyakran sáros és csúszós lehet a látogatók számára.",
+                "ro": "Purtați sandale sau încălțăminte ușor de curățat, deoarece curtea palatului poate deveni noroioasă și alunecoasă pe ploaie.",
+                "en": "Wear sandals or easy-to-clean shoes, as the palace courtyard can often become muddy and slippery during the tropical rainy season."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Surakarta",
+                "hu": "Surakarta Nagy Mecsetje",
+                "ro": "Marea Moschee din Surakarta",
+                "en": "Great Mosque of Surakarta"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Eingang ist kurz; nutzen Sie den Moment, um die friedliche Atmosphäre des Regens im Innenhof zu spüren.",
+                "hu": "A parkolótól a bejáratig tartó út rövid; használja ki a pillanatot, hogy átérezze a belső udvar eső általi békés, nyugodt hangulatát.",
+                "ro": "Drumul de la parcare la intrare este scurt; profitați de moment pentru a simți atmosfera pașnică a ploii în curtea interioară.",
+                "en": "The walk from the parking to the entrance is short; take a moment to feel the peaceful atmosphere of the rain in the main courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Privatmuseum Tumurun",
+                "hu": "Tumurun Magánmúzeum",
+                "ro": "Muzeul Privat Tumurun",
+                "en": "Tumurun Private Museum"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie im Voraus; das Museum ist der ideale trockene Abschluss des Tages, wo Sie zeitgenössische Kunst in Ruhe genießen können.",
+                "hu": "Foglaljon előre időpontot; a múzeum a nap tökéletes száraz lezárása, ahol nyugalomban élvezheti a kortárs művészeti alkotásokat.",
+                "ro": "Rezervați din timp; muzeul este finalul uscat ideal al zilei, unde vă puteți bucura de arta contemporană într-o liniște deplină.",
+                "en": "Book your slot in advance; the museum is the ideal dry end to your day, where you can enjoy contemporary art in quiet comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Solo im Winter ganz entspannt mit dem Auto. Vormittags besuchen Sie die Museen bei angenehm milden Außentemperaturen. Mittags geht es zum Keraton, wobei Sie den Komfort der Klimatisierung genießen. Da es gegen 17:00 Uhr dunkel wird, planen Sie die Paläste für den Nachmittag ein und beenden den Tag im hell beleuchteten, modernen Tumurun-Museum.",
+            "hu": "Fedezze fel Solo városát télen, kényelmesen az autóból. Délelőtt a múzeumokat látogatjuk meg az enyhe, kellemes külső hőmérséklet mellett. Délben a Keratonhoz hajtunk, élvezve az autó nyújtotta komfortot. Mivel 17:00 körül sötétedik, a palotákat délutánra érdemes tervezni, a napot pedig a kivilágított, modern Tumurun Múzeumban zárjuk.",
+            "ro": "Experimentați Solo iarna complet relaxat cu mașina. Dimineața vizităm muzeele la temperaturi exterioare plăcute. La prânz mergem la Keraton, bucurându-ne de confortul deplasării cu mașina. Deoarece se întunecă în jur de 17:00, planificați palatele pentru după-amiază și încheiați ziua la muzeul modern Tumurun iluminat.",
+            "en": "Experience Solo in winter in total relaxation by car. Morning is for visiting museums in the pleasantly mild outdoor temperatures. At noon, head to the Keraton while enjoying the comfort of your vehicle. Since it gets dark around 17:00, plan palace visits for the afternoon and end your day at the brightly lit, modern Tumurun Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Keris Nusantara",
+                "hu": "Keris Nusantara Múzeum",
+                "ro": "Muzeul Keris Nusantara",
+                "en": "Museum Keris Nusantara"
+              },
+              "tip_5lang": {
+                "de": "Die Klimatisierung im Auto und im Museum sorgt für konstante Wohlfühltemperaturen während Ihres Starts in den Tag.",
+                "hu": "Az autó és a múzeum légkondicionálása folyamatosan kellemes hőmérsékletet biztosít a nap indításához a hűvösebb reggelen is.",
+                "ro": "Aerul condiționat din mașină și din muzeu asigură temperaturi constante de confort pe tot parcursul începutului de zi.",
+                "en": "The air conditioning in the car and the museum ensures consistent comfort temperatures during your start to the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pers Nasional",
+                "hu": "Nemzeti Sajtó Emlékmű",
+                "ro": "Monumentul Presei Naționale",
+                "en": "Monumen Pers Nasional"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der beeindruckenden Fassade, bevor Sie ins kühle Innere des Denkmals gehen.",
+                "hu": "Használja ki a tiszta téli fényeket az emlékmű lenyűgöző homlokzatának fotózásához, mielőtt belépne a hűvös belső térbe.",
+                "ro": "Profitați de lumina clară de iarnă pentru a fotografia fațada impresionantă înainte de a intra în interiorul răcoros al monumentului.",
+                "en": "Take advantage of the clear winter light for photos of the impressive facade before heading into the cool interior of the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pura Mangkunegaran",
+                "hu": "Pura Mangkunegaran Múzeum",
+                "ro": "Muzeul Pura Mangkunegaran",
+                "en": "Museum Pura Mangkunegaran"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang durch die Gärten ist im Winter besonders schön, da die Sonne nicht so stark brennt wie im Sommer.",
+                "hu": "A kertekben tett séta télen különösen kellemes, mivel a nap nem tűz olyan erősen, mint a forró nyári hónapokban.",
+                "ro": "O plimbare prin grădini este deosebit de frumoasă iarna, deoarece soarele nu arde la fel de tare ca în lunile de vară.",
+                "en": "A stroll through the gardens is especially beautiful in winter, as the sun is not as intense as during the hot summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Vastenburg",
+                "hu": "Vastenburg Erőd",
+                "ro": "Fortul Vastenburg",
+                "en": "Vastenburg Fort"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am späten Nachmittag ist ideal für Panoramabilder vom Auto aus oder bei einem kurzen Rundgang auf den Wällen.",
+                "hu": "A késő délutáni lágy fények ideálisak panorámaképek készítéséhez az autóból vagy a bástyákon tett rövid séta során.",
+                "ro": "Lumina blândă de după-amiază târzie este ideală pentru fotografii panoramice din mașină sau dintr-o scurtă plimbare pe ziduri.",
+                "en": "The soft late afternoon light is ideal for panoramic photos from the car or during a short walk along the historic ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Surakarta Hadiningrat",
+                "hu": "Keraton Surakarta Hadiningrat",
+                "ro": "Keraton Surakarta Hadiningrat",
+                "en": "Keraton Surakarta Hadiningrat"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast kurz vor der Schließung, wenn die Temperaturen sinken und die Abendstimmung im Hof einkehrt.",
+                "hu": "Látogassa meg a palotát röviddel zárás előtt, amikor a hőmérséklet csökken és az esti hangulat beköltözik az udvarokba.",
+                "ro": "Vizitați palatul cu puțin timp înainte de închidere, când temperaturile scad și atmosfera de seară cuprinde curțile regale.",
+                "en": "Visit the palace shortly before closing time, when temperatures drop and the evening atmosphere settles into the courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Surakarta",
+                "hu": "Surakarta Nagy Mecsetje",
+                "ro": "Marea Moschee din Surakarta",
+                "en": "Great Mosque of Surakarta"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee wirkt bei Sonnenuntergang besonders majestätisch; das Auto wartet am Ausgang auf Sie für die Weiterfahrt zum Museum.",
+                "hu": "A mecset naplementekor különösen fenséges látványt nyújt; az autó a kijáratnál várja majd, hogy továbbvigye a múzeumhoz.",
+                "ro": "Moscheea pare deosebit de maiestuoasă la apus; mașina vă va aștepta la ieșire pentru a continua drumul spre ultimul muzeu.",
+                "en": "The mosque looks particularly majestic at sunset; the car will wait at the exit for your short drive to the final museum stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Privatmuseum Tumurun",
+                "hu": "Tumurun Magánmúzeum",
+                "ro": "Muzeul Privat Tumurun",
+                "en": "Tumurun Private Museum"
+              },
+              "tip_5lang": {
+                "de": "Da es nun draußen dunkel ist, ist die moderne Beleuchtung im Inneren des Museums ein visuelles Highlight zum Tagesabschluss.",
+                "hu": "Mivel kint már sötét van, a múzeum belső, modern megvilágítása vizuális csúcspontja lesz a nap végének és a túrának.",
+                "ro": "Deoarece afară este deja întuneric, iluminarea modernă din interiorul muzeului este un punct vizual culminant al finalului de zi.",
+                "en": "Since it's dark outside now, the modern interior lighting of the museum is a visual highlight to conclude your winter tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

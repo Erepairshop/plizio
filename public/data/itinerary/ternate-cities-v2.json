@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy sétával Ternate déli részének gyönyörű mecseteinél, ahol lüktet a közösségi élet. Dél körül érje el a Fort Orange erődöt, a fűszerkereskedelem hatalmas emlékét. Délután merüljön el a szultanátus gazdag történelmében a Keraton múzeumban. Az este nyugodt sétára csábít a város csendesedő utcáin.",
         "ro": "Începeți dimineața cu o plimbare spre moscheile frumoase din sudul Ternate, pline de viață comunitară. La prânz, vizitați Fort Orange, o rămășiță imensă a comerțului istoric cu mirodenii. După-amiaza vă scufundă în istoria bogată a sultanatului la Keraton. Seara este perfectă pentru o plimbare liniștită pe străzile orașului.",
         "en": "Start your morning walking among the beautiful local mosques of southern Ternate, where community life thrives. By midday, you'll reach Fort Orange, a massive remnant of the historic spice trade. The afternoon invites you into the deep royal history of the sultanate at the Keraton museum. Let the late afternoon gently end your enriching walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit warmem Tropenregen, der die grünen Moscheen in ein mystisches Licht taucht. Mittags bieten die massiven Mauern von Fort Orange sicheren Schutz vor den Güssen. Am Nachmittag erkunden wir die trockenen Hallen des Sultanspalastes. Der Abend klingt bei hoher Luftfeuchtigkeit und dem Duft von feuchter Erde in einer kleinen, überdachten Gasse am Hafen gemütlich aus.",
+            "hu": "A reggel trópusi esővel indul, a vulkáni kővel burkolt utak csúszósak lehetnek a mecsetek környékén. Délben az Orange-erőd vastag falai és bástyái alatt találunk száraz menedéket. Délután a Szultáni Palota belső múzeuma kínál védelmet a záporok elől. Az este a párás levegőben megcsillanó utcai fényekkel és a tenger morajlásával zárul, miközben egy fedett teraszon pihenünk meg.",
+            "ro": "Dimineața începe cu o ploaie tropicală caldă, iar străzile din jurul moscheilor devin lucioase și umede. La prânz, zidurile groase ale Fortului Orange ne oferă un adăpost perfect împotriva averselor. După-amiaza explorăm interiorul uscat al Palatului Sultanului. Seara se încheie într-o atmosferă umedă, cu miros de pământ ud, la adăpostul unei terase acoperite din apropierea portului.",
+            "en": "The morning begins with warm tropical rain, casting a mystical light over the green mosques. At noon, the massive walls of Fort Orange provide safe shelter from the heavy downpours. In the afternoon, we explore the dry halls of the Sultan's Palace museum. The evening concludes in the humid air with the scent of damp earth, resting under a covered terrace near the waterfront."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Langgar Ijo",
+                "hu": "Masjid Langgar Ijo",
+                "ro": "Masjid Langgar Ijo",
+                "en": "Masjid Langgar Ijo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die grüne Fassade; der überdachte Eingangsbereich ist ideal, um einen kurzen Regenschauer abzuwarten, während man die Architektur genießt.",
+                "hu": "Csodáld meg a zöld homlokzatot; a mecset fedett előtere tökéletes hely egy rövid zápor kivárására, miközben a helyi vallási építészetet tanulmányozod.",
+                "ro": "Admiră fațada verde; zona de intrare acoperită este ideală pentru a aștepta trecerea unei scurte ploi, în timp ce analizezi arhitectura religioasă locală.",
+                "en": "Admire the vibrant green facade; the mosque's covered entrance is a perfect spot to wait out a short tropical shower while studying the local architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Amiien",
+                "hu": "Masjid Al Amiien",
+                "ro": "Masjid Al Amiien",
+                "en": "Masjid Al Amiien"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Innenatmosphäre bietet Schutz vor der Nässe; achten Sie beim Betreten auf die rutschigen Fliesen im Außenbereich.",
+                "hu": "A nyugodt belső tér védelmet nyújt a nedvesség elől; a belépésnél figyelj a külső részeken lévő, esőtől csúszóssá vált csempékre.",
+                "ro": "Interiorul liniștit oferă protecție împotriva umezelii; la intrare, ai grijă la plăcile de gresie exterioare care devin alunecoase de la ploaie.",
+                "en": "The peaceful interior offers protection from the dampness; be careful of the outdoor tiles which become very slippery when wet during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Khairaat",
+                "hu": "Masjid Al Khairaat",
+                "ro": "Masjid Al Khairaat",
+                "en": "Masjid Al Khairaat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Gebetsraum für eine Pause im Trockenen; bringen Sie eine Plastiktüte für Ihre nassen Schuhe am Eingang mit.",
+                "hu": "Használd a tágas imateret egy száraz pihenőre; hozz magaddal egy műanyag zacskót a vizes cipőidnek a bejáratnál történő tároláshoz.",
+                "ro": "Folosește sala mare de rugăciune pentru un popas uscat; adu o pungă de plastic pentru a-ți depozita încălțămintea udă la intrare.",
+                "en": "Use the spacious prayer hall for a dry rest; bring a plastic bag for your wet shoes to keep them with you at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Rückzugsort bei Regen; nutzen Sie die Zeit unter dem Vordach, um die kunstvollen Details der Fenster zu fotografieren.",
+                "hu": "Kiváló menedék esőben; használd ki az időt az előtető alatt, hogy lefotózd az ablakok művészi részleteit a viharos háttér előtt.",
+                "ro": "Un refugiu excelent pe ploaie; profită de timpul petrecut sub streașină pentru a fotografia detaliile artistice ale ferestrelor.",
+                "en": "A great refuge during the rain; take advantage of the shelter under the eaves to photograph the artistic details of the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Orange",
+                "hu": "Fort Orange",
+                "ro": "Fort Orange",
+                "en": "Fort Orange"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Kasematten und Bogengänge, die auch bei starkem Regen trocken bleiben; die historischen Steine können bei Nässe glatt sein.",
+                "hu": "Fedezd fel a várudvar fedett árkádjait, amelyek erős esőben is szárazak maradnak; a történelmi köveken óvatosan járj, mert csúszhatnak.",
+                "ro": "Explorează arcadele acoperite ale curții, care rămân uscate chiar și pe ploaie torențială; mergi cu grijă pe pietrele istorice umede.",
+                "en": "Explore the fort's covered archways, which stay dry even in heavy rain; walk carefully as the historic stones can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Sultan Ternate",
+                "hu": "Keraton Sultan Ternate",
+                "ro": "Keraton Sultan Ternate",
+                "en": "Keraton Sultan Ternate"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen perfekten Abschluss im Trockenen; genießen Sie die königlichen Schätze, während es draußen tropisch stürmt.",
+                "hu": "A múzeum tökéletes zárása a napnak, mivel teljesen fedett; csodáld meg a királyi kincseket, miközben kint trópusi vihar tombol.",
+                "ro": "Muzeul oferă încheierea perfectă a zilei, fiind complet acoperit; admiră comorile regale în timp ce afară este furtună tropicală.",
+                "en": "The museum is the perfect indoor end to the day; enjoy the royal treasures while staying completely dry from the tropical storm outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wind weht vom Meer herüber, während wir die Moscheen im milden Morgenlicht besuchen. Mittags ist die Temperatur ideal für einen langen Spaziergang durch die Festung. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht des frühen Nachmittags im Palast. Der Abend wird schnell dunkel und kühl, perfekt für einen heißen Ingwertee in der Stadt.",
+            "hu": "Hűvös szellő fúj a tenger felől, a mecsetek látogatása a lágy reggeli fényekben a legkellemesebb. Délben a hőmérséklet ideális egy hosszabb sétához az erőd falai között. Mivel a nap már 17:00 körül lebukik, a korai délutáni aranyló fényeket a palotánál használjuk ki. Az este gyorsan sötétedik és lehűl, ilyenkor a legjobb egy forró gyömbérteát (Air Guraka) inni a belvárosban.",
+            "ro": "O briză răcoroasă suflă dinspre mare în timp ce vizităm moscheile în lumina blândă a dimineții. La prânz, temperatura este ideală pentru o plimbare lungă printre zidurile fortului. Deoarece soarele apune deja în jurul orei 17:00, profităm de lumina aurie a după-amiezii la palat. Seara devine rapid întunecată și răcoroasă, momentul perfect pentru un ceai fierbinte de ghimbir.",
+            "en": "A cool breeze blows from the sea as we visit the mosques in the mild morning light. At noon, the temperature is ideal for a long stroll through the fort. Since the sun sets around 17:00, we make the most of the golden early afternoon light at the palace. The evening turns dark and cool quickly, perfect for enjoying a hot ginger tea (Air Guraka) downtown."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Langgar Ijo",
+                "hu": "Masjid Langgar Ijo",
+                "ro": "Masjid Langgar Ijo",
+                "en": "Masjid Langgar Ijo"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Morgenlicht betont die grüne Farbe der Moschee; bringen Sie eine leichte Jacke gegen die kühle Brise am frühen Morgen mit.",
+                "hu": "A lágy reggeli fények kiemelik a mecset zöld színét; hozz egy könnyű kabátot a kora reggeli hűvös tengeri szél ellen.",
+                "ro": "Lumina blândă a dimineții scoate în evidență culoarea verde a moscheii; adu o jachetă ușoară împotriva brizei răcoroase de dimineață.",
+                "en": "The soft morning light highlights the mosque's green color; bring a light jacket to shield yourself from the cool early morning sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Amiien",
+                "hu": "Masjid Al Amiien",
+                "ro": "Masjid Al Amiien",
+                "en": "Masjid Al Amiien"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee am Vormittag, wenn die Luft noch frisch ist; die Architektur wirkt in der klaren Wintersonne besonders plastisch.",
+                "hu": "Látogasd meg a mecsetet délelőtt, amikor a levegő még friss; az építészet különösen plasztikusnak tűnik a tiszta téli napsütésben.",
+                "ro": "Vizitează moscheea dimineața, când aerul este încă proaspăt; arhitectura pare deosebit de clară în lumina curată a soarelui de iarnă.",
+                "en": "Visit the mosque in the morning while the air is still fresh; the architecture looks particularly striking in the clear winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Khairaat",
+                "hu": "Masjid Al Khairaat",
+                "ro": "Masjid Al Khairaat",
+                "en": "Masjid Al Khairaat"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist jetzt angenehm mild; nutzen Sie die Zeit für Außenaufnahmen, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "A déli napsütés most kellemesen enyhe; használd ki az időt külső fotók készítésére, mielőtt a kora délutáni árnyékok megnyúlnának.",
+                "ro": "Soarele de la amiază este acum plăcut și blând; profită de timp pentru fotografii exterioare înainte ca umbrele să se lungească.",
+                "en": "The midday sun is pleasantly mild now; use this time for outdoor photos before the shadows start to lengthen in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre am frühen Nachmittag; die Sonne steht bereits tiefer und sorgt für warme Farben an der Fassade.",
+                "hu": "Élvezd a kora délutáni nyugodt hangulatot; a nap már alacsonyabban jár, ami meleg színeket kölcsönöz a mecset homlokzatának.",
+                "ro": "Bucură-te de atmosfera liniștită de după-amiază; soarele este deja jos, oferind culori calde fațadei moscheii.",
+                "en": "Enjoy the peaceful early afternoon atmosphere; the sun is already lower in the sky, casting warm colors across the mosque's facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Orange",
+                "hu": "Fort Orange",
+                "ro": "Fort Orange",
+                "en": "Fort Orange"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung vor 16:00 Uhr, um das letzte Tageslicht zu nutzen; die historischen Mauern speichern die Wärme der Mittagssonne.",
+                "hu": "Látogasd meg az erődöt 16:00 előtt, hogy kihasználd az utolsó fényeket; a történelmi falak ilyenkor még ontják a déli nap melegét.",
+                "ro": "Vizitează fortul înainte de ora 16:00 pentru a profita de ultima lumină; zidurile istorice rețin încă căldura soarelui de la prânz.",
+                "en": "Visit the fort before 16:00 to catch the last daylight; the historic walls still radiate the warmth absorbed from the midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Sultan Ternate",
+                "hu": "Keraton Sultan Ternate",
+                "ro": "Keraton Sultan Ternate",
+                "en": "Keraton Sultan Ternate"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor dem frühen Sonnenuntergang (17:00 Uhr) hierher; nach der Besichtigung ist es draußen bereits dunkel und kühl.",
+                "hu": "Érkezz időben a korai naplemente (17:00) előtt; a látogatás után kint már sötét és hűvös lesz, így készülj egy melegebb felsővel.",
+                "ro": "Sosește din timp înainte de apusul devreme (ora 17:00); după vizită, afară va fi deja întuneric și răcoare, deci pregătește o haină.",
+                "en": "Arrive well before the early sunset at 17:00; it will be dark and cool outside after your visit, so have a light sweater ready."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpározás Ternate-ban tökéletes egyensúlyt kínál. Először a déli negyed békés mecseteit járja be két keréken. Délben a Fort Orange erődöt és a lenyűgöző szultáni múzeumot fedezi fel. Délután észak felé teker a Fort Tolukko irányába. A túra a tengerparti kilátásban gyönyörködve ér véget a kellemes délutáni fényekben.",
         "ro": "Un tur cu bicicleta în Ternate oferă un echilibru perfect. Pedalați mai întâi prin districtul sudic pentru a admira moscheile pașnice. La prânz, explorați Fort Orange și muzeul sultanatului. După-amiaza vă duce spre nord la Fort Tolukko. Ziua se încheie cu vederi de coastă magnifice în lumina blândă a după-amiezii.",
         "en": "Cycling through Ternate offers the perfect pace to see it all. You'll pedal through the southern districts first to visit peaceful community mosques. Midday highlights include Fort Orange and the fascinating Sultanate museum. The afternoon takes you north to Fort Tolukko. Wrap up your active day enjoying coastal views in the soft afternoon light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad erfordert Vorsicht auf den nassen Straßen bei den Moscheen. Mittags suchen wir unter den großen Bäumen bei Fort Orange Schutz vor dem Schauer. Am Nachmittag radeln wir vorsichtig zum Palast, während der Regen nachlässt. Der Abend endet mit einer windigen Fahrt entlang der Küste, wo die salzige Gischt sich mit dem Regen vermischt.",
+            "hu": "A kerékpáros reggel óvatosságot igényel a vizes utakon a mecsetek környékén. Délben az Orange-erőd nagy fái és kapualjai alatt várunk a zápor végéig. Délután óvatosan tekerünk a palotához, miközben az eső csendesedik. Az este egy szeles part menti biciklizéssel zárul, ahol a tenger sós permete keveredik az esőcseppekkel.",
+            "ro": "Dimineața pe bicicletă necesită prudență pe drumurile ude din jurul moscheilor. La prânz, căutăm adăpost sub copacii mari de lângă Fortul Orange. După-amiaza pedalăm cu grijă spre palat, pe măsură ce ploaia se domolește. Seara se încheie cu o plimbare vântoasă de-a lungul coastei, unde vaporii sărați ai mării se amestecă cu stropii de ploaie.",
+            "en": "The morning on the bike requires caution on the wet roads near the mosques. At noon, we seek shelter under the large trees and gateways of Fort Orange. In the afternoon, we pedal carefully to the palace as the rain subsides. The evening ends with a windy ride along the coast, where the salty sea spray mixes with the lingering raindrops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Annaafi",
+                "hu": "Masjid Annaafi",
+                "ro": "Masjid Annaafi",
+                "en": "Masjid Annaafi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; die Auffahrt kann bei Regen rutschig sein, fahren Sie daher besonders langsam an.",
+                "hu": "Parkold a biciklit fedett helyre; a feljáró esőben csúszós lehet, ezért fokozott óvatossággal közelítsd meg a mecset bejáratát.",
+                "ro": "Parchează bicicleta într-un loc acoperit; rampa de acces poate fi alunecoasă pe ploaie, așa că apropie-te cu viteză redusă.",
+                "en": "Park your bike in a covered spot; the access ramp can be slippery when wet, so approach the mosque entrance with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Langgar Ijo",
+                "hu": "Masjid Langgar Ijo",
+                "ro": "Masjid Langgar Ijo",
+                "en": "Masjid Langgar Ijo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf dem nassen Asphalt zum nächsten Ziel fortsetzen.",
+                "hu": "Rövid megálló a szárazon; ellenőrizd a fékeidet, mielőtt folytatod az utat a vizes aszfalton a következő látnivaló felé.",
+                "ro": "O scurtă oprire la uscat; verifică frânele înainte de a continua drumul pe asfaltul ud către următoarea destinație.",
+                "en": "A short dry stop; check your brakes before continuing your ride on the wet asphalt toward the next city landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Khairaat",
+                "hu": "Masjid Al Khairaat",
+                "ro": "Masjid Al Khairaat",
+                "en": "Masjid Al Khairaat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach zum Unterstellen; trinken Sie etwas, während Sie die Regenwolken über dem Vulkan Gamalama beobachten.",
+                "hu": "Használd az előtetőt a bringa tárolására; igyál egyet, miközben az esőfelhőket figyeled a Gamalama-vulkán csúcsa felett.",
+                "ro": "Folosește streașina pentru a adăposti bicicleta; hidratează-te în timp ce observi norii de ploaie deasupra vulcanului Gamalama.",
+                "en": "Use the overhanging roof to shelter your bike; take a hydration break while watching the rain clouds swirl around Mount Gamalama."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Orange",
+                "hu": "Fort Orange",
+                "ro": "Fort Orange",
+                "en": "Fort Orange"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Eingangsbereich der Festung ab; die Innenwege aus Stein sind bei Nässe für Fahrräder sehr gefährlich.",
+                "hu": "Hagyd a biciklit az erőd bejáratánál lévő fedett részen; a belső kőutak esőben túl csúszósak a kerékpározáshoz.",
+                "ro": "Lasă bicicleta în zona acoperită de la intrarea fortului; căile interioare din piatră sunt prea alunecoase pentru ciclism pe ploaie.",
+                "en": "Leave your bike in the covered area at the fort entrance; the interior stone paths are far too slippery for cycling when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Sultan Ternate",
+                "hu": "Keraton Sultan Ternate",
+                "ro": "Keraton Sultan Ternate",
+                "en": "Keraton Sultan Ternate"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Ausstellung im Palast; wischen Sie Ihren Sattel trocken, bevor Sie zur letzten Etappe des Tages aufbrechen.",
+                "hu": "Élvezd a száraz kiállítást a palotában; töröld szárazra a nyerget, mielőtt elindulsz a nap utolsó szakaszára az erőd felé.",
+                "ro": "Bucură-te de expoziția uscată din palat; șterge șaua bicicletei înainte de a pleca spre ultima etapă a zilei la fort.",
+                "en": "Enjoy the dry exhibits inside the palace; wipe your saddle dry before heading out for the final leg of the day's journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Tolukko",
+                "hu": "Fort Tolukko",
+                "ro": "Fort Tolukko",
+                "en": "Fort Tolukko"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Fort ist steil und bei Regen rutschig; schieben Sie Ihr Rad das letzte Stück, um sicher oben anzukommen.",
+                "hu": "Az erődhöz vezető feljáró meredek és esőben csúszós; told a biciklit az utolsó szakaszon, hogy biztonságosan felérj a tetőre.",
+                "ro": "Urcarea spre fort este abruptă și alunecoasă pe ploaie; împinge bicicleta pe ultima porțiune pentru a ajunge în siguranță sus.",
+                "en": "The climb to the fort is steep and slippery in the rain; push your bike for the last stretch to ensure you arrive safely at the top."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise macht das Radfahren am Morgen sehr angenehm. Wir erreichen die Moscheen ohne zu schwitzen und genießen die klare Sicht. Mittags wärmt uns die Sonne auf dem Weg zur Festung. Wegen des frühen Sonnenuntergangs um 17:00 Uhr radeln wir zügig zum Tolukko-Fort, um das letzte Licht über dem Meer zu erleben. Der Abend endet mit einer erfrischenden Fahrt zurück ins Hotel.",
+            "hu": "A hűvös szél nagyon kellemessé teszi a reggeli kerékpározást. Izzadás nélkül érjük el a mecseteket, élvezve a tiszta látási viszonyokat. Délben a nap kellemesen melegít az erőd felé vezető úton. A korai, 17:00-s naplemente miatt tempósan tekerünk a Tolukko-erődbe, hogy elcsípjük az utolsó fényeket a tenger felett. Az este frissítő gurulással zárul.",
+            "ro": "Briza răcoroasă face ciclismul de dimineață foarte plăcut. Ajungem la moschei fără să transpirăm, bucurându-ne de vizibilitatea clară. La prânz, soarele ne încălzește pe drumul spre fort. Din cauza apusului devreme de la ora 17:00, pedalăm rapid spre Fortul Tolukko pentru a prinde ultima lumină peste mare. Seara se încheie cu o tură răcoritoare.",
+            "en": "The cool breeze makes morning cycling very pleasant. we reach the mosques without breaking a sweat, enjoying the clear views. At noon, the sun warms us on the way to the fort. Due to the early 17:00 sunset, we pedal briskly to Fort Tolukko to catch the last light over the sea. The evening ends with a refreshing ride back to the hotel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Annaafi",
+                "hu": "Masjid Annaafi",
+                "ro": "Masjid Annaafi",
+                "en": "Masjid Annaafi"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Zeit für den Besuch, da es morgens noch kühl ist; nutzen Sie das klare Licht für Fotos der Moschee vor dem blauen Himmel.",
+                "hu": "Tökéletes időpont a látogatásra, mivel reggel még hűvös van; használd a tiszta fényeket a mecset fotózásához a kék ég előtt.",
+                "ro": "Momentul perfect pentru vizită, fiind încă răcoare dimineața; profită de lumina clară pentru poze cu moscheea pe fundalul cerului albastru.",
+                "en": "Perfect time for a visit as it is still cool in the morning; use the clear light for photos of the mosque against the blue winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Langgar Ijo",
+                "hu": "Masjid Langgar Ijo",
+                "ro": "Masjid Langgar Ijo",
+                "en": "Masjid Langgar Ijo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt im Fahrtwind; die winterliche Trockenzeit sorgt für leuchtende Farben am Gebäude.",
+                "hu": "Élvezd a menetszelet tekerés közben; a téli szárazabb időszak ragyogó színeket kölcsönöz az épületnek és a környezetnek.",
+                "ro": "Bucură-te de briza în timp ce pedalezi; sezonul uscat de iarnă oferă culori vibrante clădirii și împrejurimilor.",
+                "en": "Enjoy the breeze while cycling; the winter dry season provides vibrant, glowing colors to the building and its surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Khairaat",
+                "hu": "Masjid Al Khairaat",
+                "ro": "Masjid Al Khairaat",
+                "en": "Masjid Al Khairaat"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist mild genug zum Radfahren; füllen Sie Ihre Wasserflasche auf, bevor Sie zum offenen Gelände der Festung aufbrechen.",
+                "hu": "A déli napsütés elég enyhe a biciklizéshez; töltsd fel a kulacsodat, mielőtt elindulsz az erőd nyitott, árnyékmentes területei felé.",
+                "ro": "Soarele de la prânz este destul de blând pentru ciclism; umple-ți sticla cu apă înainte de a pleca spre zonele deschise ale fortului.",
+                "en": "The midday sun is mild enough for cycling; refill your water bottle before heading toward the open, sun-exposed areas of the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Orange",
+                "hu": "Fort Orange",
+                "ro": "Fort Orange",
+                "en": "Fort Orange"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das weitläufige Gelände auf dem Rad; die Temperaturen sind jetzt ideal, um auch die entlegeneren Ecken zu besuchen.",
+                "hu": "Fedezd fel a tágas területet bringával; a hőmérséklet most ideális ahhoz, hogy az erőd távolabbi sarkait is bejárd.",
+                "ro": "Explorează terenul vast cu bicicleta; temperaturile sunt acum ideale pentru a vizita chiar și cele mai îndepărtate colțuri ale fortului.",
+                "en": "Explore the vast grounds by bike; the temperatures are now ideal for visiting even the furthest corners of the fort complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Sultan Ternate",
+                "hu": "Keraton Sultan Ternate",
+                "ro": "Keraton Sultan Ternate",
+                "en": "Keraton Sultan Ternate"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich ein wenig, um vor 16:30 Uhr weiterzufahren; das Licht wird jetzt schnell schwächer für die Fahrt zum Tolukko-Fort.",
+                "hu": "Igyekezz, hogy 16:30 előtt tovább tudj indulni; a fények ilyenkor már gyorsan gyengülnek a Tolukko-erőd felé vezető úton.",
+                "ro": "Grăbește-te puțin pentru a pleca înainte de 16:30; lumina scade rapid acum pentru drumul către Fortul Tolukko.",
+                "en": "Hurry a bit to move on before 16:30; the light fades quickly now for the scenic ride toward the historic Fort Tolukko."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Tolukko",
+                "hu": "Fort Tolukko",
+                "ro": "Fort Tolukko",
+                "en": "Fort Tolukko"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Spot für den Sonnenuntergang um 17:00 Uhr; ziehen Sie sich nach dem Abstieg etwas Warmes für den Heimweg an.",
+                "hu": "A végső helyszín a 17:00-s naplementéhez; a dombról való leereszkedés után vegyél fel valami melegebbet a hazafelé útra.",
+                "ro": "Locul suprem pentru apusul de la ora 17:00; după coborâre, pune-ți ceva mai gros pe tine pentru drumul spre casă.",
+                "en": "The ultimate spot for the 17:00 sunset; after descending from the fort, put on something warmer for the ride back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autóval kényelmesen elérheti Ternate távolabbi gyöngyszemeit is, az északi Fort Tolukko kilátópontjával kezdve. Az ebédidő közeledtével végigjárhatja a királyi Keraton múzeumot és a bájos mecseteket. A délutánt a történelmi Fort Orange falai között töltheti. A nap lezárásaként utazzon a csendes, déli külvárosok mecsetei felé.",
         "ro": "Cu mașina puteți ajunge cu ușurință la bijuteriile îndepărtate din Ternate, începând cu punctul de belvedere Fort Tolukko în nord. La prânz navigați printre regalele Keraton și moscheile fermecătoare. Vă petreceți după-amiaza în interiorul zidurilor istorice ale Fort Orange. Pentru a încheia ziua, conduceți spre suburbiile liniștite din sud.",
         "en": "Driving allows you to effortlessly cover Ternate's spread-out gems, starting with the elevated views of Fort Tolukko in the north. By midday, you'll be navigating royal history at the Keraton and visiting central mosques. Spend your afternoon walking the historic walls of Fort Orange. Finally, drive south to end your tour at the peaceful neighborhood mosques."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto genießen wir den Blick auf das verregnete Ternate, während wir trocken von Fort zu Fort fahren. Mittags prasselt der Regen auf das Dach, während wir beim Palast parken. Am Nachmittag besuchen wir die Moscheen, wobei wir kurze Sprints vom Parkplatz zum Eingang einlegen. Der Abend endet mit einer gemütlichen Fahrt durch die beleuchteten, nassen Straßen der Stadt.",
+            "hu": "Az autó kényelméből élvezzük az esős Ternate látványát, miközben szárazon jutunk el az erődöktől a mecsetekig. Délben az eső kopog a tetőn, amíg a palotánál parkolunk. Délután a mecseteket látogatjuk meg, rövid futásokkal hidalva át a távot a parkoló és a bejárat között. Az este egy hangulatos autózással zárul a kivilágított, vizes utcákon.",
+            "ro": "Din confortul mașinii, ne bucurăm de vederea orașului Ternate sub ploaie, deplasându-ne uscați între forturi și moschei. La prânz, ploaia bate în plafon în timp ce parcăm la palat. După-amiaza vizităm moscheile, făcând scurte sprinturi de la parcare la intrare. Seara se încheie cu o plimbare plăcută cu mașina pe străzile ude și luminate.",
+            "en": "From the comfort of the car, we enjoy the view of rainy Ternate while traveling dry from forts to mosques. At noon, rain drums on the roof while we park at the palace. In the afternoon, we visit the mosques, taking short sprints from the parking lot to the entrances. The evening ends with a cozy drive through the city's illuminated, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort Tolukko",
+                "hu": "Fort Tolukko",
+                "ro": "Fort Tolukko",
+                "en": "Fort Tolukko"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; die Stufen zum Fort können bei Regen rutschig sein, gehen Sie daher vorsichtig.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz; az erődhöz vezető lépcsők esőben csúszósak lehetnek, ezért lassan és óvatosan haladj.",
+                "ro": "Parchează cât mai aproape de intrare; treptele spre fort pot fi alunecoase pe ploaie, așa că urcă încet și cu atenție.",
+                "en": "Park as close to the entrance as possible; the stone steps leading to the fort can be slippery in the rain, so walk slowly and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Sultan Ternate",
+                "hu": "Keraton Sultan Ternate",
+                "ro": "Keraton Sultan Ternate",
+                "en": "Keraton Sultan Ternate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den palasteigenen Parkplatz für einen trockenen Zugang zum Museum; lassen Sie Ihren Regenschirm im Auto, wenn der Eingang überdacht ist.",
+                "hu": "Használd a palota saját parkolóját a száraz bejutáshoz; hagyd az esernyőt az autóban, ha látsz fedett átjárót a múzeum felé.",
+                "ro": "Folosește parcarea palatului pentru un acces uscat la muzeu; lasă umbrela în mașină dacă poți folosi culoarul acoperit spre intrare.",
+                "en": "Use the palace's private parking for dry access to the museum; leave your umbrella in the car if you see a covered walkway to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Islah",
+                "hu": "Masjid Al Islah",
+                "ro": "Masjid Al Islah",
+                "en": "Masjid Al Islah"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf große Pfützen auf dem Parkplatz; die Moschee bietet einen guten Unterstand, um den heftigsten Regen abzuwarten.",
+                "hu": "Figyelj a nagyobb tócsákra a parkolónál; a mecset jó menedéket nyújt, ahol megvárhatod a leghevesebb trópusi zápor végét.",
+                "ro": "Atenție la bălțile mari din parcare; moscheea oferă un adăpost bun unde poți aștepta trecerea celei mai intense averse tropicale.",
+                "en": "Watch out for large puddles in the parking area; the mosque provides good shelter where you can wait for the heaviest rain to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Orange",
+                "hu": "Fort Orange",
+                "ro": "Fort Orange",
+                "en": "Fort Orange"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Straßenseite und nutzen Sie den Haupteingang für den kürzesten Weg ins Trockene der Festungsmauern.",
+                "hu": "Parkolj az út mentén, és használd a főbejáratot a legrövidebb úthoz az erőd falainak biztonságos, száraz belső részébe.",
+                "ro": "Parchează pe marginea drumului și folosește intrarea principală pentru cel mai scurt drum spre interiorul uscat al zidurilor fortului.",
+                "en": "Park along the roadside and use the main entrance for the shortest path to the dry interior of the historic fort walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Khairaat",
+                "hu": "Masjid Al Khairaat",
+                "ro": "Masjid Al Khairaat",
+                "en": "Masjid Al Khairaat"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus; die Moschee ist ein großartiger Ort, um die regenverhangene Stadtlandschaft zu beobachten.",
+                "hu": "Egy rövid sprint az autótól elég a bejutáshoz; a mecset remek hely arra, hogy megfigyeld az esőbe burkolózott városi tájat.",
+                "ro": "Un scurt sprint de la mașină este suficient; moscheea este un loc excelent pentru a observa peisajul urban învăluit în ploaie.",
+                "en": "A quick sprint from the car is all you need; the mosque is a great vantage point to observe the rain-shrouded cityscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Annaafi",
+                "hu": "Masjid Annaafi",
+                "ro": "Masjid Annaafi",
+                "en": "Masjid Annaafi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour sicher im Auto; prüfen Sie die Sichtverhältnisse bei starkem Regen, bevor Sie die Rückfahrt antreten.",
+                "hu": "Zárd a túrát biztonságban az autóban; ellenőrizd a látási viszonyokat az erős esőben, mielőtt elindulsz a szállásod felé.",
+                "ro": "Încheie turul în siguranță în mașină; verifică vizibilitatea în ploaia torențială înainte de a porni spre cazare.",
+                "en": "End your tour safely in the car; double-check visibility in the heavy rain before starting your drive back to the hotel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Klimaanlage bleibt heute aus, da die Außenluft angenehm frisch ist. Wir fahren entspannt zum Tolukko-Fort für den Vormittagsbesuch. Mittags genießen wir die Fahrt durch das sonnige, aber kühle Ternate zum Palast. Da die Sonne um 17:00 Uhr untergeht, planen wir unsere letzte Moscheebesichtigung für den späten Nachmittag. Der Abend endet mit einer Fahrt zum Hafen bei klarer Winterluft.",
+            "hu": "A klímát ma kikapcsolva hagyhatjuk, mivel a külső levegő kellemesen friss. Kényelmesen autózunk a Tolukko-erődbe a délelőtti látogatásra. Délben a napos, de hűvös Ternatén keresztül hajtunk a palotához. Mivel a nap 17:00-kor lebukik, az utolsó mecsetlátogatást késő délutánra időzítjük. Az este tiszta téli levegőben, egy kikötői autózással zárul.",
+            "ro": "Putem lăsa aerul condiționat oprit astăzi, deoarece aerul de afară este plăcut și proaspăt. Conducem relaxați spre Fortul Tolukko. La prânz, traversăm orașul însorit dar răcoros spre palat. Deoarece soarele apune la ora 17:00, planificăm ultima vizită la moschee pentru sfârșitul după-amiezii. Seara se încheie cu o plimbare spre port.",
+            "en": "We can leave the AC off today as the outside air is pleasantly fresh. We drive comfortably to Fort Tolukko for the morning visit. At noon, we drive through sunny but cool Ternate toward the palace. Since the sun sets at 17:00, we schedule our final mosque visit for the late afternoon. The evening ends with a drive to the harbor in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort Tolukko",
+                "hu": "Fort Tolukko",
+                "ro": "Fort Tolukko",
+                "en": "Fort Tolukko"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenbrise oben auf dem Fort; die Parkplatzsuche ist in der Nebensaison am Vormittag sehr einfach.",
+                "hu": "Élvezd a hűvös reggeli szellőt az erőd tetején; a parkolás a téli szezonban délelőttönként kifejezetten egyszerű a bejáratnál.",
+                "ro": "Bucură-te de briza răcoroasă de dimineață de pe fort; găsirea unui loc de parcare este foarte ușoară dimineața în acest sezon.",
+                "en": "Enjoy the cool morning breeze from the top of the fort; finding a parking spot is very easy during the morning hours in this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Keraton Sultan Ternate",
+                "hu": "Keraton Sultan Ternate",
+                "ro": "Keraton Sultan Ternate",
+                "en": "Keraton Sultan Ternate"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Mittag ist perfekt für Fotos des Palastgebäudes; parken Sie im Schatten der großen Bäume, um das Auto kühl zu halten.",
+                "hu": "A déli fények tökéletesek a palotaépület fotózásához; parkolj a nagy fák árnyékába, hogy az autó hűvös maradjon a látogatás alatt.",
+                "ro": "Lumina de la amiază este perfectă pentru poze cu palatul; parchează la umbra copacilor mari pentru a menține mașina răcoroasă.",
+                "en": "The midday light is perfect for photographing the palace building; park in the shade of the large trees to keep the car interior cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Islah",
+                "hu": "Masjid Al Islah",
+                "ro": "Masjid Al Islah",
+                "en": "Masjid Al Islah"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Stopp am frühen Nachmittag; die klare Winterluft sorgt für eine hervorragende Fernsicht auf die Nachbarinseln.",
+                "hu": "Nyugodt megálló kora délután; a tiszta téli levegő kiváló távoli kilátást biztosít a környező szigetekre a mecset mellől.",
+                "ro": "O oprire relaxată după-amiaza; aerul curat de iarnă oferă o vizibilitate excelentă spre insulele vecine de lângă moschee.",
+                "en": "A relaxed early afternoon stop; the clear winter air provides excellent long-distance views of the neighboring islands from the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Orange",
+                "hu": "Fort Orange",
+                "ro": "Fort Orange",
+                "en": "Fort Orange"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung, bevor die Schatten um 16:00 Uhr länger werden; das Auto ist der ideale Ort, um sich zwischen den Stopps kurz aufzuwärmen.",
+                "hu": "Látogasd meg az erődöt, mielőtt az árnyékok 16:00 után megnyúlnának; az autó ideális hely egy gyors pihenőre a látnivalók között.",
+                "ro": "Vizitează fortul înainte ca umbrele să se lungească după ora 16:00; mașina este locul ideal pentru o scurtă pauză între obiective.",
+                "en": "Visit the fort before the shadows lengthen after 16:00; the car is the ideal place for a quick rest between sightseeing stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Khairaat",
+                "hu": "Masjid Al Khairaat",
+                "ro": "Masjid Al Khairaat",
+                "en": "Masjid Al Khairaat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht gegen 16:30 Uhr; die warmen Farben der Wintersonne lassen die Moschee golden leuchten.",
+                "hu": "Használd ki az utolsó fényeket 16:30 körül; a téli naplemente meleg színei arany fénybe vonják a mecset homlokzatát.",
+                "ro": "Profită de ultima lumină în jurul orei 16:30; culorile calde ale apusului de iarnă fac moscheea să strălucească aurie.",
+                "en": "Make the most of the remaining light around 16:30; the warm winter sunset colors make the mosque facade glow golden."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Annaafi",
+                "hu": "Masjid Annaafi",
+                "ro": "Masjid Annaafi",
+                "en": "Masjid Annaafi"
+              },
+              "tip_5lang": {
+                "de": "Nach dem frühen Sonnenuntergang (17:00 Uhr) ist es draußen schnell kühl; genießen Sie die Rückfahrt im angenehm temperierten Auto.",
+                "hu": "A korai naplemente (17:00) után kint gyorsan lehűl az idő; élvezd a hazafelé utat a kellemes hőmérsékletű autóban.",
+                "ro": "După apusul devreme (ora 17:00), afară se răcește rapid; bucură-te de drumul spre casă în mașina cu temperatură plăcută.",
+                "en": "After the early sunset at 17:00, it gets cool quickly outside; enjoy the drive back to your hotel in the comfortably tempered car."
+              }
+            }
+          ]
+        }
       }
     }
   }

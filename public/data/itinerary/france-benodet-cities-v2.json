@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot lelki nyugalommal az Église Saint-Thomas templomban, majd csodálja meg a fenséges Phare de Bénodet világítótornyot a reggeli fényben.\nDélben: Fedezze fel a tengeri örökséget a Notre-Dame-de-la-Mer templomban, és tegyen egy kellemes sétát a széles Plage du Trez homokos partján a napsütésben.\nDélután: Sétáljon el a folyó torkolatánál álló festői Phare du Coq világítótoronyhoz, ahonnan csodálatos kilátás nyílik az elhaladó vitorlásokra.\nEste: Pihenje ki a nap fáradalmait a csendes Plage du Pussou strandon, hallgassa a tenger lágy hullámait, és élvezze a nyugodt, pihentető tengerparti atmoszférát.",
         "ro": "Dimineața: Începeți ziua cu liniștea spirituală la Église Saint-Thomas și admirați maiestuosul far Phare de Bénodet în lumina caldă și plăcută a dimineții.\nAmiaza: Descoperiți moștenirea maritimă la biserica Notre-Dame-de-la-Mer și faceți o plimbare relaxantă de-a lungul întinsei plaje de nisip Plage du Trez.\nDupă-amiaza: Faceți o plimbare pitorească până la fermecătorul far Phare du Coq de la gura râului, unde puteți urmări cu admirație bărcile cu pânze trecând.\nSeara: Relaxați-vă la sfârșitul zilei pe nisipurile liniștite ale Plage du Pussou, ascultând valurile blânde în timp ce vă bucurați de o seară extrem de pașnică.",
         "en": "Morning: Start your lovely day with spiritual tranquility at Église Saint-Thomas and admire the towering Phare de Bénodet in the beautiful soft morning light.\nMidday: Discover the rich maritime heritage at Notre-Dame-de-la-Mer, followed by a relaxing and refreshing stroll along the expansive sandy shores of Plage du Trez.\nAfternoon: Take a highly scenic walk down to the charming Phare du Coq overlooking the river mouth, offering wonderful panoramic views of passing sailboats.\nEvening: Unwind on the exceptionally tranquil sands of Plage du Pussou, listening to the gentle ocean waves as the sun slowly begins its colorful descent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Église Saint-Thomas. Mittags bietet der Weg zu den Leuchttürmen eine dramatische Sicht auf den regnerischen Atlantik. Am Nachmittag finden Sie in der Notre-Dame-de-la-Mer trockene Zuflucht. Der Abend endet mit einem stimmungsvollen Spaziergang am nebligen Hafenrand, wo die Lichter auf dem nassen Asphalt funkeln.",
+            "hu": "A reggel az Église Saint-Thomas vastag falai között indul, védve az esőtől. Délben a világítótorony környékén a tenger morajlása kísér minket a szitáló esőben. Délután az Église Notre-Dame-de-la-Mer nyújt menedéket, majd a ködös tengerparti sétány következik. Este a Phare du Coq fényei csillannak meg a vizes aszfalton, mielőtt a túra a csendes Pussou-parton zárulna.",
+            "ro": "Dimineața începe la adăpost în Biserica Saint-Thomas. La prânz, zona farului oferă o vedere dramatică asupra Atlanticului sub ploaie. După-amiaza, Biserica Notre-Dame-de-la-Mer oferă un refugiu uscat. Seara se încheie cu o plimbare atmosferică pe faleza cețoasă, unde luminile portului se reflectă spectaculos pe trotuarul umed.",
+            "en": "The morning starts protected within the walls of Saint-Thomas Church. At noon, the lighthouse area offers a dramatic view of the rainy Atlantic. In the afternoon, Notre-Dame-de-la-Mer provides a dry sanctuary. The evening concludes with an atmospheric walk along the misty harbor, where the lights reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Thomas",
+                "hu": "Église Saint-Thomas",
+                "ro": "Biserica Saint-Thomas",
+                "en": "Église Saint-Thomas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im trockenen Innenraum; die dicken Steinmauern bieten perfekten Schutz vor dem bretonischen Regen.",
+                "hu": "Csodálja meg a történelmi belső teret szárazon; a vastag kőfalak tökéletes menedéket nyújtanak a hirtelen érkező breton eső elől.",
+                "ro": "Admirați arhitectura istorică în interiorul uscat; pereții groși de piatră oferă protecție perfectă împotriva ploii bretone neașteptate.",
+                "en": "Admire the historic architecture in the dry interior; the thick stone walls provide perfect protection against the sudden Breton rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Bénodet",
+                "hu": "Phare de Bénodet",
+                "ro": "Phare de Bénodet",
+                "en": "Phare de Bénodet"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, windiger Stopp für ein Foto; tragen Sie eine Regenjacke, da die Gischt am Leuchtturm bei Wind besonders intensiv ist.",
+                "hu": "Egy gyors, szeles fotómegálló; viseljen esőkabátot, mert a tengeri permet a világítótoronynál szélben különösen erős lehet.",
+                "ro": "O oprire scurtă și vântoasă pentru o fotografie; purtați o pelerină, deoarece spray-ul mării este intens lângă far în timpul vântului.",
+                "en": "A quick, windy photo stop; wear a raincoat as the sea spray near the lighthouse can be particularly intense during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-la-Mer",
+                "hu": "Église Notre-Dame-de-la-Mer",
+                "ro": "Biserica Notre-Dame-de-la-Mer",
+                "en": "Église Notre-Dame-de-la-Mer"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen friedlichen Ort für eine längere Pause im Trockenen und bestaunen Sie die modernen Glasfenster bei diffusem Regenlicht.",
+                "hu": "Használja ezt a békés helyet egy hosszabb száraz pihenőre, és csodálja meg a modern üvegablakokat a szórt esőfényben.",
+                "ro": "Folosiți acest loc liniștit pentru o pauză lungă la uscat și admirați vitraliile moderne în lumina difuză a zilei ploioase.",
+                "en": "Use this peaceful spot for a long break in the dry and admire the modern stained glass windows in the diffused rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez",
+                "hu": "Plage du Trez",
+                "ro": "Plage du Trez",
+                "en": "Plage du Trez"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang auf dem befestigten Weg entlang des Strandes ist sicherer als der Sand, um nasse Füße und Rutschen zu vermeiden.",
+                "hu": "Egy rövid séta a strand melletti kiépített sétányon biztonságosabb a homoknál, így elkerülheti a sárban való csúszkálást.",
+                "ro": "O scurtă plimbare pe poteca pavată de lângă plajă este mai sigură decât nisipul, evitând picioarele ude și alunecarea pe mal.",
+                "en": "A short walk on the paved path along the beach is safer than the sand, helping you avoid wet feet and slipping in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Coq",
+                "hu": "Phare du Coq",
+                "ro": "Phare du Coq",
+                "en": "Phare du Coq"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das dramatische Meer vom erhöhten Uferweg aus; wasserfeste Schuhe sind hier wegen der Pfützen auf den Wegen unerlässlich.",
+                "hu": "Figyelje a drámai tengert a magasított parti útról; a vízálló cipő itt elengedhetetlen az utakon összegyűlő tócsák miatt.",
+                "ro": "Priviți marea dramatică de pe poteca înaltă de coastă; încălțămintea impermeabilă este esențială aici din cauza bălților de pe drum.",
+                "en": "Watch the dramatic sea from the elevated coastal path; waterproof shoes are essential here due to puddles forming on the walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pussou",
+                "hu": "Plage du Pussou",
+                "ro": "Plage du Pussou",
+                "en": "Plage du Pussou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Ruhe der Bucht unter einem Regenschirm; die Felsen können bei Nässe extrem rutschig sein.",
+                "hu": "Élvezze az öböl melankolikus nyugalmát egy esernyő alatt; a sziklák nedvesen rendkívül csúszósak lehetnek, óvatosan lépkedjen.",
+                "ro": "Bucurați-vă de liniștea melancolică a golfului sub o umbrelă; stâncile pot fi extrem de alunecoase când sunt ude, pășiți cu grijă.",
+                "en": "Enjoy the melancholic peace of the bay under an umbrella; be careful as the rocks can be extremely slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen weckt die Geister in der Église Saint-Thomas. Mittags wärmt der Anblick der Leuchttürme das Herz, während die Gischt am Trez-Strand hochpeitscht. Der Nachmittag bietet in den Kirchen warme Stille. Da die Sonne bereits um 17 Uhr untergeht, ist das goldene Dämmerlicht am Phare du Coq der perfekte Abschluss des Tages.",
+            "hu": "A friss téli reggel az Église Saint-Thomas csendjében indul. Délben a világítótornyok látványa és a tenger felől érkező hideg szél frissíti fel a látogatót. Délután a templomok belső melege nyújt pihenőt. Mivel a nap korán, 17 óra körül nyugszik, a Phare du Coq környéki arany alkonyat tökéletes zárása a napnak.",
+            "ro": "Aerul proaspăt de iarnă de dimineață trezește simțurile la Biserica Saint-Thomas. La prânz, vederea farurilor și vântul rece de pe mare vă vor înviora. După-amiaza, căldura bisericilor oferă momente de liniște. Deoarece soarele apune devreme, pe la ora 17, amurgul auriu de la Phare du Coq este finalul perfect al zilei.",
+            "en": "The crisp winter air in the morning wakes the senses at Saint-Thomas Church. At noon, the sight of the lighthouses and the cold sea breeze are invigorating. In the afternoon, the warmth of the churches offers quiet rest. Since the sun sets early around 5 PM, the golden dusk at Phare du Coq is the perfect end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Thomas",
+                "hu": "Église Saint-Thomas",
+                "ro": "Biserica Saint-Thomas",
+                "en": "Église Saint-Thomas"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Start; die dicken Mauern halten die Kälte gut ab, sodass Sie die Details in Ruhe betrachten können.",
+                "hu": "Csendes, szélvédett kezdés; a vastag falak jól tartják a hőt, így nyugodtan megcsodálhatja a részleteket a téli hideg ellenére is.",
+                "ro": "Un început liniștit și ferit de vânt; pereții groși țin bine frigul la distanță, permițându-vă să admirați detaliile în tihnă.",
+                "en": "A quiet, wind-protected start; the thick walls shield you from the cold, allowing you to admire the details in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Bénodet",
+                "hu": "Phare de Bénodet",
+                "ro": "Phare de Bénodet",
+                "en": "Phare de Bénodet"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet hervorragende Fotobedingungen; ziehen Sie eine warme Mütze gegen den schneidenden Seewind an.",
+                "hu": "A tiszta téli fény kiváló fotózási feltételeket biztosít; vegyen fel meleg sapkát a metsző tengeri szél miatt a világítótoronynál.",
+                "ro": "Lumina clară de iarnă oferă condiții excelente pentru fotografii; puneți-vă o căciulă groasă împotriva vântului tăios de mare.",
+                "en": "The clear winter light provides excellent photo conditions; wear a warm hat against the biting sea wind near the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-la-Mer",
+                "hu": "Église Notre-Dame-de-la-Mer",
+                "ro": "Biserica Notre-Dame-de-la-Mer",
+                "en": "Église Notre-Dame-de-la-Mer"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die meditative Stille im Inneren; es ist ein idealer Ort, um sich vor der Weiterwanderung an der Küste kurz aufzuwärmen.",
+                "hu": "Élvezze a belső meditatív csendet; ideális hely egy rövid felmelegedésre, mielőtt folytatná a sétát a hűvös parton.",
+                "ro": "Bucurați-vă de liniștea meditativă din interior; este un loc ideal pentru o scurtă încălzire înainte de a continua plimbarea pe coastă.",
+                "en": "Enjoy the meditative silence inside; it is an ideal spot for a quick warm-up before continuing your walk along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez",
+                "hu": "Plage du Trez",
+                "ro": "Plage du Trez",
+                "en": "Plage du Trez"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast leer und sehr stimmungsvoll; ein schneller Marsch im Sand bringt den Kreislauf in der Kälte in Schwung.",
+                "hu": "A strand télen szinte üres és nagyon hangulatos; egy gyors séta a homokban felpezsdíti a vérkeringést a hideg időben.",
+                "ro": "Plaja este aproape goală iarna și foarte atmosferică; o plimbare rapidă prin nisip vă va activa circulația în frigul de afară.",
+                "en": "The beach is almost empty in winter and very atmospheric; a brisk walk in the sand will boost your circulation in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Coq",
+                "hu": "Phare du Coq",
+                "ro": "Phare du Coq",
+                "en": "Phare du Coq"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Punkt kurz vor 17 Uhr, um die Leuchtfeuer in der einsetzenden Winterdämmerung am Odet-Ufer zu sehen.",
+                "hu": "Látogasson el ide közvetlenül 17 óra előtt, hogy lássa a világítótorony fényeit az Odet partján a korai téli szürkületben.",
+                "ro": "Vizitați acest punct chiar înainte de ora 17 pentru a vedea luminile farului pe malul râului Odet în amurgul timpuriu de iarnă.",
+                "en": "Visit this spot just before 5 PM to see the lighthouse beacon come alive on the Odet banks during the early winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Pussou",
+                "hu": "Plage du Pussou",
+                "ro": "Plage du Pussou",
+                "en": "Plage du Pussou"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Abschluss der Tour; achten Sie auf die gefrorenen Stellen auf den Wegen bei Frost am frühen Abend.",
+                "hu": "Frissítő, rövid zárása a túrának; figyeljen az utakon előforduló jeges foltokra, ha a kora esti fagy beáll a parton.",
+                "ro": "Un final revigorant și scurt al turului; aveți grijă la porțiunile înghețate de pe poteci în cazul înghețului de seară.",
+                "en": "A refreshing, brief end to the tour; watch out for frozen patches on the paths if the early evening frost sets in by the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: Kerékpározzon el a történelmi Église Saint-Thomas templomhoz, majd merüljön el a tengeri művészetekben a fantasztikus Marine Galerie kiállításain.\nDélben: Keljen át a folyón Sainte-Marine felé, hogy felfedezze a történelmi Abri du marin épületét és a lenyűgöző parti világítótornyot a déli napsütésben.\nDélután: Fedezze fel az egykori katonai történelmet a Fort de Sainte-Marine régi falai között, ahonnan varázslatos panoráma nyílik a hatalmas, kék óceánra.\nEste: Térjen vissza Bénodet-be egy kellemes tekeréssel, és csodálja meg a bájos Phare du Coq mögött lemenő nap gyönyörű, romantikus és színpompás fényeit.",
         "ro": "Dimineața: Mergeți cu bicicleta până la istorica Église Saint-Thomas înainte de a vă cufunda în arta maritimă locală expusă la minunata și fascinanta Marine Galerie.\nAmiaza: Traversați râul spre Sainte-Marine pentru a explora clădirea istorică Abri du marin și farul emblematic de pe coastă, care oferă peisaje incredibile.\nDupă-amiaza: Descoperiți istoria militară impresionantă la Fort de Sainte-Marine, de unde puteți admira o panoramă spectaculoasă a oceanului și a împrejurimilor.\nSeara: Întoarceți-vă cu bicicleta în Bénodet pentru a admira nuanțele superbe ale apusului de soare în spatele fermecătorului far Phare du Coq de pe faleză.",
         "en": "Morning: Cycle gracefully to the historic Église Saint-Thomas before fully immersing yourself in the magnificent maritime art exhibited at the wonderful Marine Galerie.\nMidday: Cross the beautiful river over to Sainte-Marine to thoroughly explore the historic Abri du marin and the iconic, picturesque coastal lighthouse.\nAfternoon: Uncover the fascinating military history at Fort de Sainte-Marine, featuring ancient stone walls and spectacular, commanding panoramic ocean views.\nEvening: Leisurely pedal back to Bénodet to quietly admire the stunning sunset colors dramatically setting behind the incredibly charming Phare du Coq."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei der Église Saint-Thomas. Regenfeste Kleidung ist auf den Küstenwegen Pflicht. Mittags bieten die Marine Galerie und der Abri du Marin exzellente kulturelle Stopps im Trockenen. Nachmittags führen die Wege zu den Leuchttürmen von Sainte-Marine. Achten Sie auf rutschige Kurven, während Sie am Abend zur geschützten Bucht zurückkehren.",
+            "hu": "A kerékpártúra az Église Saint-Thomas-nál indul. Az esőálló ruházat kötelező a parti utakon. Délben a Marine Galerie és az Abri du Marin kiváló fedett kulturális megállót kínál. Délután a Sainte-Marine világítótornyai felé vezet az út. Figyeljen a csúszós kanyarokra, miközben este visszatér a védett öbölbe.",
+            "ro": "Turul cu bicicleta începe la Biserica Saint-Thomas. Echipamentul impermeabil este obligatoriu pe potecile de coastă. La prânz, Marine Galerie și Abri du Marin oferă opriri culturale excelente la uscat. După-amiaza, drumul duce spre farurile din Sainte-Marine. Atenție la curbele alunecoase la întoarcerea de seară.",
+            "en": "The bike tour starts at Saint-Thomas Church. Waterproof gear is mandatory on the coastal paths. At noon, Marine Galerie and Abri du Marin offer excellent indoor cultural stops. In the afternoon, the route leads to the Sainte-Marine lighthouses. Watch for slippery corners as you return to the sheltered bay in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Thomas",
+                "hu": "Église Saint-Thomas",
+                "ro": "Biserica Saint-Thomas",
+                "en": "Église Saint-Thomas"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier im Schutz der Mauern Ihre Bremsen; nasse Straßen verlängern den Bremsweg auf den Gefällestrecken zum Hafen.",
+                "hu": "Ellenőrizze a fékeket a falak védelmében; a nedves utak jelentősen meghosszabbítják a féktávot a kikötő felé vezető lejtőkön.",
+                "ro": "Verificați frânele la adăpostul pereților; drumurile umede prelungesc distanța de frânare pe pantele care duc spre port.",
+                "en": "Check your brakes while sheltered by the walls; wet roads significantly increase braking distance on the slopes toward the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Galerie",
+                "hu": "Marine Galerie",
+                "ro": "Marine Galerie",
+                "en": "Marine Galerie"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab und genießen Sie die maritime Kunst im Trockenen, während draußen der bretonische Regen prasselt.",
+                "hu": "Parkolja le a bringát az előtető alatt, és élvezze a tengeri művészetet szárazon, miközben kint kopog a breton eső.",
+                "ro": "Parcați bicicleta sub copertină și bucurați-vă de arta maritimă la uscat, în timp ce afară răsună ploaia bretonă.",
+                "en": "Park your bike under the overhang and enjoy maritime art in the dry while the Breton rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Abri du marin Sainte-Marine",
+                "hu": "Abri du marin Sainte-Marine",
+                "ro": "Abri du marin Sainte-Marine",
+                "en": "Abri du marin Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort für eine lange Pause vom Regen; erfahren Sie drinnen alles über das harte Leben der Fischer.",
+                "hu": "A múzeum tökéletes hely egy hosszú pihenőre az eső elől; tudjon meg mindent a halászok kemény életéről a fedett kiállításon.",
+                "ro": "Muzeul este locul perfect pentru o pauză lungă de ploaie; aflați totul despre viața grea a pescarilor în interiorul călduros.",
+                "en": "The museum is the perfect place for a long break from the rain; learn all about the hard life of fishermen in the indoor exhibit."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Sainte-Marine",
+                "hu": "Phare de Sainte-Marine",
+                "ro": "Phare de Sainte-Marine",
+                "en": "Phare de Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Küstenwegen, da Schlamm und Laub bei Regen rutschig sein können; halten Sie nur kurz für ein Foto.",
+                "hu": "Óvatosan tekerjen a parti utakon, mert a sár és a levelek csúszósak lehetnek; csak egy gyors fotóra álljon meg az esőben.",
+                "ro": "Pedalați cu atenție pe potecile de coastă, deoarece noroiul și frunzele pot fi alunecoase; opriți-vă doar scurt pentru o poză.",
+                "en": "Ride carefully on the coastal paths as mud and leaves can be slippery when wet; stop only briefly for a photo in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Sainte-Marine",
+                "hu": "Fort de Sainte-Marine",
+                "ro": "Fort de Sainte-Marine",
+                "en": "Fort de Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Festungsmauern bieten Windschutz; meiden Sie bei Gewitternähe die exponierten Metallteile Ihres Fahrrads.",
+                "hu": "A vastag erőd falai szélvédelmet nyújtanak; zivatar esetén kerülje a kerékpár kitett fémrészeinek érintését a nyílt terepen.",
+                "ro": "Pereții groși ai fortului oferă protecție împotriva vântului; evitați părțile metalice expuse ale bicicletece în caz de furtună.",
+                "en": "The thick fort walls provide wind protection; avoid exposed metal parts of your bike if a storm is approaching in the open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Coq",
+                "hu": "Phare du Coq",
+                "ro": "Phare du Coq",
+                "en": "Phare du Coq"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig auf den nassen Promenadenwegen; das Licht des Leuchtturms weist Ihnen den Weg durch das Grau.",
+                "hu": "Óvatosan fejezze be a túrát a nedves sétányokon; a világítótorony fénye mutatja az utat a szürkületben a vizes úton.",
+                "ro": "Încheiați turul cu atenție pe faleza umedă; lumina farului vă ghidează prin griul zilei pe drumul ud spre final.",
+                "en": "Finish the tour carefully on the wet promenade paths; the lighthouse beacon guides your way through the rainy twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die raue Schönheit der Bretagne mit dem Rad. Der Morgen beginnt kühl an der Église Saint-Thomas. Mittags bieten die Museen in Sainte-Marine willkommene Wärme. Die Küstenwege sind im klaren Winterlicht spektakulär, aber der Wind kann schneidend sein. Planen Sie Ihre Rückkehr vor 17 Uhr ein, um nicht in die plötzliche winterliche Dunkelheit zu geraten.",
+            "hu": "Fedezze fel Bretagne zord szépségét kerékpáron. A hűvös reggel az Église Saint-Thomas-nál indul. Napközben a Sainte-Marine múzeumai nyújtanak menedéket a hideg elől. A parti utak látványosak a tiszta téli fényben, de a szél metsző lehet. Tervezze úgy, hogy 17 óra előtt befejezze a túrát, elkerülve a hirtelen sötétedést.",
+            "ro": "Descoperiți frumusețea aspră a Bretaniei pe bicicletă. Dimineața răcoroasă începe la Biserica Saint-Thomas. La prânz, muzeele din Sainte-Marine oferă căldură binevenită. Potecile de coastă sunt spectaculoase în lumina iernii, dar vântul poate fi tăios. Planificați întoarcerea înainte de ora 17 pentru a evita întunericul.",
+            "en": "Experience Brittany's raw beauty by bike. The cool morning starts at Saint-Thomas Church. Midday, the museums in Sainte-Marine offer welcome warmth. The coastal paths are spectacular in the clear winter light, but the wind can be biting. Plan to finish before 5 PM to avoid the sudden winter darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Thomas",
+                "hu": "Église Saint-Thomas",
+                "ro": "Biserica Saint-Thomas",
+                "en": "Église Saint-Thomas"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf; tragen Sie Handschuhe, um Ihre Finger bei der rasanten Fahrt zum Hafen warm zu halten.",
+                "hu": "Melegítse be izmait indulás előtt; viseljen kesztyűt, hogy ujjai ne gémberedjenek el a kikötő felé tartó gyors lejtőn.",
+                "ro": "Încălziți-vă bine mușchii înainte de plecare; purtați mănuși pentru a vă menține degetele calde în timpul coborârii spre port.",
+                "en": "Warm up your muscles before starting; wear gloves to keep your fingers warm during the brisk ride down to the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Galerie",
+                "hu": "Marine Galerie",
+                "ro": "Marine Galerie",
+                "en": "Marine Galerie"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine Aufwärmpause; das sanfte Licht im Inneren bildet einen tollen Kontrast zur winterlichen Kälte draußen.",
+                "hu": "Használja a múzeumlátogatást egy kis felmelegedésre; a benti lágy fények remek kontrasztot alkotnak a kinti téli hideggel.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză de încălzire; lumina caldă din interior oferă un contrast plăcut cu frigul de afară.",
+                "en": "Use the museum visit for a warm-up break; the soft indoor lighting creates a great contrast with the winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Abri du marin Sainte-Marine",
+                "hu": "Abri du marin Sainte-Marine",
+                "ro": "Abri du marin Sainte-Marine",
+                "en": "Abri du marin Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre im beheizten Museum; es ist der ideale Ort, um dem kalten Seewind für eine Weile zu entfliehen.",
+                "hu": "Élvezze a történelmi hangulatot a fűtött múzeumban; ideális hely, hogy egy időre elmeneküljön a metsző tengeri szél elől.",
+                "ro": "Bucurați-vă de atmosfera istorică în muzeul încălzit; este locul ideal pentru a scăpa de vântul rece de mare pentru o vreme.",
+                "en": "Enjoy the historic atmosphere in the heated museum; it's the ideal place to escape the biting sea wind for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Sainte-Marine",
+                "hu": "Phare de Sainte-Marine",
+                "ro": "Phare de Sainte-Marine",
+                "en": "Phare de Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterwetter bietet weite Sicht auf den Ozean; achten Sie auf den starken Wind, der Ihr Fahrrad beim Fotografieren umwerfen kann.",
+                "hu": "A tiszta téli időben messzire ellátni az óceánon; figyeljen az erős szélre, ami fotózás közben könnyen felboríthatja a kerékpárt.",
+                "ro": "Vremea clară de iarnă oferă o vizibilitate excelentă spre ocean; atenție la vântul puternic care poate răsturna bicicleta oprită.",
+                "en": "Clear winter weather offers vast ocean views; watch out for strong wind gusts that could tip over your bike while you're taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Sainte-Marine",
+                "hu": "Fort de Sainte-Marine",
+                "ro": "Fort de Sainte-Marine",
+                "en": "Fort de Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Anlage zügig, da die Kälte an der exponierten Küstenspitze besonders spürbar ist; suchen Sie Windschatten an den Mauern.",
+                "hu": "Fedezze fel gyorsan az erődöt, mert a hideg a nyílt parton fokozottan érződik; keressen szélvédett helyet a falak tövében.",
+                "ro": "Explorați situl rapid, deoarece frigul este resimțit mai tare pe coasta expusă; căutați adăpost împotriva vântului lângă ziduri.",
+                "en": "Explore the fort quickly as the cold is more intense on the exposed coastline; look for wind shelter behind the thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Coq",
+                "hu": "Phare du Coq",
+                "ro": "Phare du Coq",
+                "en": "Phare du Coq"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt im stimmungsvollen Winterzwielicht; stellen Sie sicher, dass Ihre Fahrradlichter für den kurzen Rückweg funktionieren.",
+                "hu": "Fejezze be a tekerést a hangulatos téli szürkületben; győződjön meg róla, hogy a lámpák jól működnek a hazafelé vezető rövid úton.",
+                "ro": "Încheiați plimbarea în amurgul atmosferic de iarnă; asigurați-vă că luminile bicicletei funcționează pentru drumul scurt de întoarcere.",
+                "en": "Finish the ride in the atmospheric winter twilight; ensure your bike lights are working for the short final stretch home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Délelőtt: Kezdje a napot a Point de vue lenyűgöző panorámájával, majd látogasson el a Sainte-Marine-i Abri du marin múzeumba, hogy megismerje a múltat.\nDélben: Csodálja meg a folyó mindkét partján álló ikonikus világítótornyokat, amelyek hűen őrzik a gyönyörű partvidék gazdag és izgalmas tengerészeti történelmét.\nDélután: Utazzon kicsit beljebb a szárazföld felé, hogy megtekintse a titokzatos Menhir de Poulquer-t, a breton kultúra egyik lenyűgöző, ősi és csendes emlékét.\nEste: Fejezze be autós kirándulását a tágas Plage de la Pointe Saint-Gilles strandon, ahol a hűsítő esti tengerparti szélben nyugodtan, békésen pihenhet.",
         "ro": "Dimineața: Începeți cu priveliștile panoramice largi de la Point de vue, înainte de a vizita istoricul Abri du marin din Sainte-Marine pentru perspective profunde.\nAmiaza: Admirați farurile emblematice situate pe ambele maluri ale râului, care conectează perfect istoria maritimă bogată a acestei regiuni de coastă superbe.\nDupă-amiaza: Conduceți ușor spre interior pentru a vizita misteriosul Menhir de Poulquer, o mărturie tăcută și fascinantă a vechii culturi celtice bretone.\nSeara: Încheiați-vă excursia relaxându-vă pe plaja vastă Plage de la Pointe Saint-Gilles, bucurându-vă de briza răcoroasă a mării la asfințitul soarelui.",
         "en": "Morning: Start with breathtaking panoramic coastal sights at the Point de vue before crossing over to visit the historic Abri du marin museums in Sainte-Marine.\nMidday: Take the time to admire the stunning, iconic lighthouses standing on both sides of the river, perfectly connecting the rich local maritime histories.\nAfternoon: Drive slightly inland to visit and closely examine the deeply mysterious Menhir de Poulquer, serving as a silent testament to ancient Breton culture.\nEvening: Conclude your grand driving tour by completely relaxing at the expansive, family-friendly Plage de la Pointe Saint-Gilles as evening gently falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour ist ideal für Regentage in Bénodet. Starten Sie an den Aussichtspunkten, die Sie gemütlich aus dem Wagen betrachten können. Mittags bietet der Abri du Marin einen interessanten Aufenthalt im Trockenen. Besuchen Sie die Leuchttürme und historischen Menhire bequem mit dem Pkw. Der Abend klingt sicher und trocken an der Küste aus, während Sie den Regen am Fenster beobachten.",
+            "hu": "Az autós túra ideális választás esős napokra Bénodet-ben. Kezdjen a kilátópontoknál, amiket a kocsi kényelméből is csodálhat. Napközben az Abri du Marin kínál tartalmas fedett programot. Látogassa meg a világítótornyokat és a menhireket kényelmesen, szárazon. Az este biztonságban és szárazon zárul a parton, az ablakon kopogó esőt figyelve.",
+            "ro": "Turul cu mașina este ideal pentru zilele ploioase în Bénodet. Începeți la punctele de belvedere, pe care le puteți admira din confortul mașinii. La prânz, Abri du Marin oferă un program interesant la uscat. Vizitați farurile și menhirii istoric confortabil. Seara se încheie în siguranță la malul mării, privind ploaia de la fereastră.",
+            "en": "A car tour is ideal for rainy days in Bénodet. Start at the viewpoints, which you can admire from the comfort of your vehicle. At noon, Abri du Marin offers a meaningful indoor experience. Visit the lighthouses and historic menhirs conveniently in the dry. The evening ends safely and comfortably by the coast, watching the rain on the window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt durch die Windschutzscheibe; so bleiben Sie trocken, während Sie den stürmischen Ozean beobachten.",
+                "hu": "Élvezze a panorámát közvetlenül a szélvédőn keresztül; így szárazon maradhat, miközben a viharos óceánt figyeli a kocsi kényelméből.",
+                "ro": "Bucurați-vă de panoramă direct prin parbriz; astfel veți rămâne uscați în timp ce priviți oceanul învolburat din mașină.",
+                "en": "Enjoy the panorama directly through the windshield; this way you stay dry while watching the stormy ocean from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Abri du marin Sainte-Marine",
+                "hu": "Abri du marin Sainte-Marine",
+                "ro": "Abri du marin Sainte-Marine",
+                "en": "Abri du marin Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei starkem Regen; parken Sie in der Nähe und tauchen Sie in die maritime Geschichte im geschützten Innenraum ein.",
+                "hu": "Tökéletes megálló heves esőzés esetén; parkoljon a közelben, és merüljön el a tengeri történelemben a védett belső térben.",
+                "ro": "O oprire perfectă în caz de ploaie torențială; parcați aproape și explorați istoria maritimă în interiorul adăpostit.",
+                "en": "A perfect stop during heavy rain; park nearby and immerse yourself in maritime history in the sheltered indoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Sainte-Marine",
+                "hu": "Phare de Sainte-Marine",
+                "ro": "Phare de Sainte-Marine",
+                "en": "Phare de Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto und nutzen Sie die Sitzheizung danach; der Wind am Leuchtturm kann auch im Regen sehr kühl sein.",
+                "hu": "Álljon meg egy rövid fotóra, majd használja az ülésfűtést; a szél a világítótoronynál esőben is meglepően hűvös lehet.",
+                "ro": "Opriți-vă scurt pentru o fotografie, apoi folosiți încălzirea în scaune; vântul la far poate fi surprinzător de rece chiar și pe ploaie.",
+                "en": "Stop briefly for a photo, then enjoy your car's seat heating; the wind at the lighthouse can be quite chilly even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Bénodet",
+                "hu": "Phare de Bénodet",
+                "ro": "Phare de Bénodet",
+                "en": "Phare de Bénodet"
+              },
+              "tip_5lang": {
+                "de": "Bequem mit dem Auto erreichbar; beobachten Sie, wie die Wolken über den Turm ziehen, ohne das trockene Fahrzeug verlassen zu müssen.",
+                "hu": "Autóval kényelmesen megközelíthető; nézze a torony felett átvonuló felhőket anélkül, hogy elhagyná a száraz járművet.",
+                "ro": "Accesibil confortabil cu mașina; priviți norii trecând peste turn fără a fi nevoie să părăsiți vehiculul uscat.",
+                "en": "Easily accessible by car; watch the clouds passing over the tower without having to leave your dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Poulquer",
+                "hu": "Menhir de Poulquer",
+                "ro": "Menhir de Poulquer",
+                "en": "Menhir de Poulquer"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprung aus dem Wagen zum Menhir; achten Sie auf den aufgeweichten Boden rund um den Stein, um Schlamm im Auto zu vermeiden.",
+                "hu": "Csak egy gyors ugrás a kocsitól a menhirig; figyeljen a felázott talajra a kő körül, hogy elkerülje a sár behordását az autóba.",
+                "ro": "Doar o scurtă ieșire din mașină până la menhir; atenție la solul moale din jurul pietrei pentru a nu aduce noroi în mașină.",
+                "en": "Just a quick hop from the car to the menhir; watch out for soggy ground around the stone to avoid bringing mud into your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Pointe Saint-Gilles",
+                "hu": "Plage de la Pointe Saint-Gilles",
+                "ro": "Plage de la Pointe Saint-Gilles",
+                "en": "Plage de la Pointe Saint-Gilles"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Tour mit dem Blick auf die Brandung ausklingen; die Parkplätze am Ufer bieten eine tolle Sicht auf die regnerische See.",
+                "hu": "Zárja a túrát a hullámverés látványával a kocsiból; a parti parkolók remek kilátást nyújtanak az esős, szürke tengerre.",
+                "ro": "Încheiați turul cu vederea valurilor din mașină; parcările de pe mal oferă o priveliște excelentă spre marea ploioasă.",
+                "en": "End the tour watching the surf from your car; the waterfront parking lots offer a great view of the rainy, grey sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Bénodet im Winter komfortabel mit dem Auto. Starten Sie morgens an den Aussichtspunkten bei klarer, kalter Luft. Die Museen in Sainte-Marine bieten mittags eine warme Zuflucht. Die Menhire und Strände sind im Winterlicht besonders fotogen. Beachten Sie, dass die Dämmerung bereits um 17 Uhr einsetzt und die Fahrt entlang der Küste im Abendlicht besonders malerisch ist.",
+            "hu": "Élvezze Bénodet-t télen is kényelmesen, autóval. Kezdje a reggelt a kilátópontoknál a tiszta, hideg levegőben. Napközben a Sainte-Marine múzeumai kínálnak meleg menedéket. A menhirek és a partok különösen fotogének a téli fényben. Figyeljen rá, hogy a szürkület már 17 órakor beáll, a parti autózás az alkonyi fényekben pedig rendkívül festői.",
+            "ro": "Bucurați-vă de Bénodet în timpul iernii confortabil cu mașina. Începeți dimineața la punctele de belvedere în aerul rece și clar. Muzeele din Sainte-Marine oferă un refugiu călduros la prânz. Menhirii și plajele sunt foarte fotogenice în lumina iernii. Atenție la apusul devreme, pe la ora 17, care face drumul pe coastă foarte pitoresc.",
+            "en": "Enjoy Bénodet in winter comfortably by car. Start your morning at the viewpoints in the crisp, cold air. Midday, the museums in Sainte-Marine provide a warm sanctuary. The menhirs and beaches are especially photogenic in the winter light. Note that dusk starts as early as 5 PM, making the coastal drive in the twilight very scenic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterwetter garantiert eine weite Sicht; genießen Sie das Panorama bei laufender Heizung im warmen Auto.",
+                "hu": "A tiszta téli idő garantálja a messzi kilátást; élvezze a panorámát a meleg autóból, miközben kint repkednek a mínuszok.",
+                "ro": "Vremea clară de iarnă garantează o vizibilitate mare; bucurați-vă de panoramă din mașina încălzită în timp ce afară e ger.",
+                "en": "Clear winter weather guarantees long-distance views; enjoy the panorama from your warm car while it's freezing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Abri du marin Sainte-Marine",
+                "hu": "Abri du marin Sainte-Marine",
+                "ro": "Abri du marin Sainte-Marine",
+                "en": "Abri du marin Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen; in den Wintermonaten ist es hier wunderbar ruhig und wenig überlaufen.",
+                "hu": "Használja a múzeumlátogatást egy kis felmelegedésre; a téli hónapokban csodálatosan nyugodt és tömegmentes a kiállítás.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi; în lunile de iarnă, expoziția este minunat de liniștită și neaglomerată.",
+                "en": "Use the museum visit to warm up; during the winter months, it is wonderfully quiet and uncrowded inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Sainte-Marine",
+                "hu": "Phare de Sainte-Marine",
+                "ro": "Phare de Sainte-Marine",
+                "en": "Phare de Sainte-Marine"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp an der frischen Luft; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf den Leuchtturm.",
+                "hu": "Egy gyors fotómegálló a friss levegőn; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a világítótoronyra.",
+                "ro": "O scurtă oprire foto în aer liber; soarele jos de iarnă aruncă umbre lungi și dramatice asupra farului în această perioadă.",
+                "en": "A quick photo stop in the fresh air; the low winter sun casts long, dramatic shadows on the lighthouse during this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Bénodet",
+                "hu": "Phare de Bénodet",
+                "ro": "Phare de Bénodet",
+                "en": "Phare de Bénodet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm im warmen Abendlicht; im Auto sind Sie vor dem eisigen Wind geschützt, der hier oft vom Meer her weht.",
+                "hu": "Látogassa meg a tornyot a meleg alkonyi fényekben; a kocsiban védve marad a jeges széltől, ami itt gyakran fúj a tenger felől.",
+                "ro": "Vizitați turnul în lumina caldă a amurgului; în mașină sunteți protejați de vântul înghețat care suflă adesea dinspre mare.",
+                "en": "Visit the tower in the warm twilight glow; stay protected in your car from the icy wind that often blows in from the sea here."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Poulquer",
+                "hu": "Menhir de Poulquer",
+                "ro": "Menhir de Poulquer",
+                "en": "Menhir de Poulquer"
+              },
+              "tip_5lang": {
+                "de": "Der historische Stein wirkt im kahlen Winterumfeld besonders mystisch; ein kurzer Stopp reicht aus, um die Energie des Ortes zu spüren.",
+                "hu": "A történelmi kő a kopár téli környezetben különösen misztikus; egy rövid megálló is elég, hogy érezze a hely különleges energiáját.",
+                "ro": "Piatra istorică pare deosebit de mistică în mediul golaș de iarnă; o scurtă oprire este suficientă pentru a simți energia locului.",
+                "en": "The historic stone looks particularly mystical in the barren winter surroundings; a short stop is enough to feel the site's energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Pointe Saint-Gilles",
+                "hu": "Plage de la Pointe Saint-Gilles",
+                "ro": "Plage de la Pointe Saint-Gilles",
+                "en": "Plage de la Pointe Saint-Gilles"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Sonnenuntergang gegen 17 Uhr direkt vom Parkplatz aus; es ist der wärmste Weg, den Tag am Meer zu beenden.",
+                "hu": "Csodálja meg a naplementét 17 óra körül közvetlenül a parkolóból; ez a legmelegebb módja, hogy a tengerparton zárja a napot.",
+                "ro": "Admirați apusul în jur de ora 17 direct din parcare; este cel mai călduros mod de a încheia ziua la malul mării.",
+                "en": "Admire the sunset around 5 PM directly from the parking lot; it's the warmest way to end your day by the ocean."
+              }
+            }
+          ]
+        }
       }
     }
   }

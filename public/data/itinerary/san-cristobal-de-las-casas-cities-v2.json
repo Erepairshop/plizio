@@ -160,6 +160,196 @@
         "hu": "A reggel a város vibráló szívében kezdődik, ahol megcsodálhatja a történelmi emlékművet és a Zebadúa Színház elegáns építészetét. Délben merüljön el a helyi örökségben a kávémúzeum aromás látogatásával, majd a bonyolult jáde tárgyakkal. A délután a maja textíliák ragyogó színeinek és mintáinak van szentelve. Ahogy leszáll az este, felfedezi a borostyánmúzeum ősi kolostorfalai között rejlő, ragyogó megkövült kincseket.",
         "ro": "Dimineața începe în inima vibrantă a orașului, admirând monumentul istoric și arhitectura elegantă a Teatrului Zebadúa. La prânz, aprofundați moștenirea locală cu o vizită aromată la muzeul cafelei, urmată de artefacte complexe din jad. După-amiaza este dedicată culorilor și modelelor strălucitoare ale textilelor mayașe. Seara, explorați comorile fosilizate strălucitoare din muzeul chihlimbarului, aflat în interiorul vechilor ziduri ale mănăstirii.",
         "en": "Morning begins in the vibrant heart of the city, admiring the historic monument and the elegant architecture of the Zebadúa Theater. By midday, delve into local heritage with an aromatic visit to the coffee museum followed by intricate jade artifacts. The afternoon is dedicated to the brilliant colors and patterns of Mayan textiles. As evening falls, you explore the glowing fossilized treasures within the amber museum's ancient convent walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens beginnt der Spaziergang am Denkmal, wobei ein Schirm bei den ersten Tropfen hilft. Mittags bietet das Teatro Zebadúa ein trockenes Refugium voller Geschichte. Nachmittags erkunden wir die Museen für Jade und Textilien, die perfekte Flucht vor dem Regen. Abends leuchtet das Bernsteinmuseum warm auf, während draußen der Regen auf die kopfsteingepflasterten Gassen von San Cristóbal peitscht.",
+            "hu": "Reggel az emlékműnél kezdünk, ahol az esőben is méltóságteljes a látvány egy esernyő alatt. Délben a Teatro Zebadúa patinás belső tere ad menedéket a zápor elől. Délután a textilek és a jade kövek titkait kutatjuk a múzeumok védelmében, távol a sártól. Este a borostyánok ragyogása feledteti a kinti szürkeséget, miközben az eső kopog a macskaköveken.",
+            "ro": "Dimineața începe la monument, unde o umbrelă este esențială pentru primele picături. La prânz, Teatro Zebadúa oferă un refugiu uscat și plin de istorie. După-amiaza explorăm muzeele de jad și textile, evadarea perfectă din calea ploii. Seara, Muzeul Chihlimbarului strălucește cald, în timp ce afară ploaia bate pe străzile pavate din San Cristóbal.",
+            "en": "Morning starts at the monument, where an umbrella helps against the first drops. At noon, Teatro Zebadúa offers a dry, historic sanctuary from the downpour. The afternoon is spent exploring the Jade and Textile museums, a perfect escape from the wet streets. In the evening, the Amber Museum glows warmly while the rain patters on the cobblestone alleys outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al Dr. Manuel Velasco Suárez",
+                "hu": "Monumento al Dr. Manuel Velasco Suárez",
+                "ro": "Monumento al Dr. Manuel Velasco Suárez",
+                "en": "Monumento al Dr. Manuel Velasco Suárez"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal schnell unter einem Schirm; die glatten Steine am Sockel können bei Nässe gefährlich rutschig sein.",
+                "hu": "Csodálja meg az emlékművet gyorsan egy esernyő alól; a talapzat körüli kövek esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Admirați monumentul rapid sub o umbrelă; pietrele de la bază pot deveni periculos de alunecoase când sunt ude.",
+                "en": "Admire the monument quickly under an umbrella; the stones around the base can become dangerously slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Zebadúa",
+                "hu": "Teatro Zebadúa",
+                "ro": "Teatro Zebadúa",
+                "en": "Teatro Zebadúa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die prächtige Architektur als trockenen Unterschlupf und achten Sie auf die Akustik, während draußen der Regen prasselt.",
+                "hu": "Használja ki a pompás belső teret száraz menedékként, és figyelje a különleges akusztikát, miközben kint dobol az eső.",
+                "ro": "Folosiți arhitectura splendidă ca adăpost uscat și fiți atenți la acustică în timp ce ploaia răpăie afară.",
+                "en": "Use the grand interior as a dry shelter and listen to the unique acoustics while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cafemuseo cafe",
+                "hu": "Cafemuseo cafe",
+                "ro": "Cafemuseo cafe",
+                "en": "Cafemuseo cafe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Chiapas-Kaffee im gemütlichen Innenbereich; der Duft der Bohnen ist bei Regen besonders intensiv.",
+                "hu": "Élvezzen egy forró Chiapas-kávét a hangulatos belső térben; a kávébab illata esős időben még intenzívebbé válik.",
+                "ro": "Savurați o cafea fierbinte de Chiapas în interiorul primitor; aroma boabelor este mult mai intensă când plouă afară.",
+                "en": "Enjoy a hot Chiapas coffee in the cozy indoor area; the scent of the beans is much more intense during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mesoamericano del Jade",
+                "hu": "Museo Mesoamericano del Jade",
+                "ro": "Museo Mesoamericano del Jade",
+                "en": "Museo Mesoamericano del Jade"
+              },
+              "tip_5lang": {
+                "de": "Die leuchtenden Jadmasken sind ideal, um den Regenguss zu vergessen; nutzen Sie die Zeit für die detaillierten Infotafeln.",
+                "hu": "A ragyogó jade maszkok segítenek elfelejteni a kinti záport; szánjon időt a részletes információs táblák olvasására.",
+                "ro": "Măștile strălucitoare de jad sunt ideale pentru a uita de ploaie; profitați de timp pentru a citi panourile informative detaliate.",
+                "en": "The glowing jade masks are perfect for forgetting the downpour; take your time with the detailed information boards inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo textiles de mundo maya",
+                "hu": "Museo textiles de mundo maya",
+                "ro": "Museo textiles de mundo maya",
+                "en": "Museo textiles de mundo maya"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Farbenpracht der Webkunst, während Sie im trockenen Gebäude die feucht-kalte Luft draußen lassen.",
+                "hu": "Merüljön el a szövés színes világában, miközben a száraz épületben hagyja a kinti nyirkos, hűvös levegőt.",
+                "ro": "Cufundați-vă în culorile artei țesutului, lăsând aerul umed și rece afară din clădirea bine protejată.",
+                "en": "Immerse yourself in the colorful world of weaving while staying dry inside and away from the damp, chilly air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Amber",
+                "hu": "Museum of Amber",
+                "ro": "Museum of Amber",
+                "en": "Museum of Amber"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Einschlüsse im Bernstein in aller Ruhe; das warme Licht im Museum bietet einen tollen Kontrast zum Regen.",
+                "hu": "Figyelje meg alaposan a borostyánba zárt zárványokat; a múzeum meleg fényei kiváló kontrasztot adnak a szürke esőnek.",
+                "ro": "Observați incluziunile din chihlimbar în liniște; lumina caldă din muzeu oferă un contrast superb cu ploaia de afară.",
+                "en": "Observe the inclusions in the amber at your leisure; the warm lights inside offer a great contrast to the grey rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in den Highlands ist klirrend kalt, ideal für das Denkmal im ersten Sonnenlicht. Mittags wärmt uns das Theater und ein heißer Kaffee im Cafemuseo. Nachmittags bieten die Museen Schutz vor der kühler werdenden Brise. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Tag im Bernsteinmuseum, bevor die frostige Nachtluft die Straßen übernimmt.",
+            "hu": "A felföldi téli reggel csípősen hideg, de az emlékmű ragyog a korai fényben. Délben a színház és egy forró ital a kávézóban ad újult erőt. Délután a múzeumok falai között bújunk el a hűvös szél elől. Mivel a nap már 17:00 körül nyugszik, a borostyánmúzeumban fejezzük be a napot, mielőtt a fagyos éjszakai levegő uralná az utcákat.",
+            "ro": "Dimineața de iarnă în munți este tăioasă, ideală pentru a vedea monumentul în prima lumină. La prânz, teatrul și o băutură caldă ne reîncărcă bateriile. După-amiaza, zidurile muzeelor ne protejează de vântul rece. Deoarece soarele apune deja în jur de ora 17:00, terminăm ziua la muzeul de chihlimbar înainte ca gerul nopții să cuprindă străzile.",
+            "en": "The highland winter morning is crisp and cold, perfect for seeing the monument in the early light. At noon, the theater and a hot drink at the cafe provide warmth. Museums offer shelter from the cooling breeze in the afternoon. With sunset around 17:00, we finish at the Amber Museum before the frosty night air takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al Dr. Manuel Velasco Suárez",
+                "hu": "Monumento al Dr. Manuel Velasco Suárez",
+                "ro": "Monumento al Dr. Manuel Velasco Suárez",
+                "en": "Monumento al Dr. Manuel Velasco Suárez"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung; die Schattenbereiche am Denkmal sind am frühen Wintermorgen extrem frostig.",
+                "hu": "Öltözzön rétegesen, mert az emlékmű árnyékos részei a kora téli reggeleken rendkívül fagyosak lehetnek.",
+                "ro": "Îmbrăcați-vă în straturi, deoarece zonele umbrite ale monumentului pot fi extrem de geroase în diminețile de iarnă.",
+                "en": "Dress in layers as the shaded areas around the monument can be extremely frosty during early winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Zebadúa",
+                "hu": "Teatro Zebadúa",
+                "ro": "Teatro Zebadúa",
+                "en": "Teatro Zebadúa"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk hält die Kälte draußen; nutzen Sie den Besuch, um sich vor dem nächsten Spaziergang kurz aufzuwärmen.",
+                "hu": "A vastag falak kint tartják a téli hideget; használja ki a látogatást egy rövid melegedésre a következő séta előtt.",
+                "ro": "Zidurile groase țin frigul de iarnă afară; profitați de vizită pentru a vă încălzi puțin înainte de următoarea plimbare.",
+                "en": "The thick walls keep the winter chill at bay; use the visit to warm up briefly before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cafemuseo cafe",
+                "hu": "Cafemuseo cafe",
+                "ro": "Cafemuseo cafe",
+                "en": "Cafemuseo cafe"
+              },
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer lokalen heißen Schokolade; sie ist das beste Mittel gegen die kühle Hochlandluft im Winter.",
+                "hu": "Kérjen egy helyi forró csokoládét; ez a legjobb ellenszer a hűvös téli felföldi levegőre a pihenő alatt.",
+                "ro": "Cereți o ciocolată caldă locală; este cel mai bun remediu împotriva aerului rece de munte în timpul iernii.",
+                "en": "Ask for a local hot chocolate; it is the best remedy against the cool highland air during your winter break."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mesoamericano del Jade",
+                "hu": "Museo Mesoamericano del Jade",
+                "ro": "Museo Mesoamericano del Jade",
+                "en": "Museo Mesoamericano del Jade"
+              },
+              "tip_5lang": {
+                "de": "Die geschlossenen Räume sind im Winter angenehm temperiert; ideal, um die filigranen Jade-Repliken ohne Eiseskälte zu bestaunen.",
+                "hu": "A zárt termek télen kellemes hőmérsékletűek; ideális a finom jade másolatok megtekintéséhez a metsző hideg nélkül.",
+                "ro": "Sălile închise au o temperatură plăcută iarna; ideal pentru a admira replicile fine de jad fără frigul de afară.",
+                "en": "The enclosed rooms have a pleasant temperature in winter; ideal for admiring the fine jade replicas without the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo textiles de mundo maya",
+                "hu": "Museo textiles de mundo maya",
+                "ro": "Museo textiles de mundo maya",
+                "en": "Museo textiles de mundo maya"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die wärmenden Eigenschaften der Wolle kennen, die in der Maya-Region besonders in kalten Winternächten geschätzt wird.",
+                "hu": "Ismerje meg a gyapjú melegítő erejét, amelyet a maja régióban a hideg téli éjszakákon évszázadok óta nagyra értékelnek.",
+                "ro": "Aflați despre proprietățile termice ale lânii, care este prețuită în regiunea mayașă în nopțile reci de iarnă.",
+                "en": "Learn about the warming properties of wool, which has been highly valued in the Mayan region during cold winter nights."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Amber",
+                "hu": "Museum of Amber",
+                "ro": "Museum of Amber",
+                "en": "Museum of Amber"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch gegen 16:30 Uhr ein, um kurz vor Sonnenuntergang und der einsetzenden Abendkälte im Warmen zu sein.",
+                "hu": "Időzítse a látogatást 16:30-ra, hogy a naplemente és a hirtelen lehűlés előtt már a fűtött beltérben lehessen.",
+                "ro": "Planificați vizita în jur de 16:30 pentru a fi la căldură chiar înainte de apus și de răceala bruscă a serii.",
+                "en": "Time your visit for 16:30 to be indoors just before sunset and the sudden onset of the sharp evening cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros utazását a Na Bolomnál, hogy felfedezze a dzsungelkutatók lenyűgöző történeteit. A délidő visszavezeti a központba, hogy feltárja a mezoamerikai jáde titkait és megízlelje a helyi kávétörténetet. Délután kényelmesen elteker egy központi emlékmű mellett a kecses szépművészeti csarnok felé. Az esti túra egy grandiózus modern színháznál ér véget, tökéletesen lezárva a kulturális látnivalókkal teli napot.",
         "ro": "Începeți călătoria cu bicicleta la Na Bolom pentru a descoperi povești fascinante ale exploratorilor din junglă. Prânzul vă aduce înapoi în centru pentru a descoperi secretele jadului mesoamerican și istoria cafelei locale. După-amiaza, pedalați ușor pe lângă un monument central spre sala grațioasă de arte frumoase. Plimbarea de seară se încheie la un teatru modern grandios, încununând perfect o zi plină de atracții culturale.",
         "en": "Start your cycling journey at Na Bolom to discover fascinating tales of jungle explorers. Midday brings you back to the center to unearth Mesoamerican jade secrets and savor local coffee history. In the afternoon, you gently pedal past a central monument towards the graceful fine arts hall. The evening ride concludes at a grand modern theater, perfectly capping off a day filled with cultural highlights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour im Regen verlangt Vorsicht auf dem Kopfsteinpflaster von San Cristóbal. Morgens erkunden wir Na Bolom, wo die Gärten bei Regen mystisch wirken. Mittags flüchten wir in die Museen, um Kleidung und Bremsen zu trocknen. Nachmittags radeln wir vorsichtig zum Denkmal. Der Tag endet im Theater, während wir den Drahtesel sicher unter einem Vordach parken.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a csúszós macskaköveken. Reggel a Na Bolom kertjei misztikusak a ködben. Délben a múzeumokba húzódunk, hogy megszárítsuk a ruhánkat és ellenőrizzük a fékeket. Délután óvatosan tekerünk az emlékműhöz a tócsák között. A nap a színháznál ér véget, miközben a bringát egy védett eresz alá parkoljuk.",
+            "ro": "Turul cu bicicleta pe ploaie necesită prudență pe pavajul alunecos. Dimineața explorăm Na Bolom, unde grădinile par mistice pe ploaie. La prânz, ne refugiem în muzee pentru a ne usca hainele și frânele. După-amiaza pedalăm cu grijă spre monument. Ziua se încheie la teatru, parcând bicicleta în siguranță sub o copertină.",
+            "en": "Cycling in the rain demands caution on the slippery cobblestones. In the morning, Na Bolom's gardens look mystical in the wet. At noon, we take refuge in museums to dry our clothes and check the brakes. In the afternoon, we pedal carefully to the monument through puddles. The day ends at the theater, with the bike parked safely under a roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Na Bolom",
+                "hu": "Na Bolom",
+                "ro": "Na Bolom",
+                "en": "Na Bolom"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich; die üppigen Gärten duften bei Regen herrlich, aber die Wege sind oft schlammig.",
+                "hu": "Parkolja le a bringát a fedett részen; a buja kertek illata csodás esőben, de az utak gyakran sárosak lehetnek.",
+                "ro": "Parcați bicicleta în zona acoperită; grădinile luxuriante miros minunat pe ploaie, dar potecile sunt adesea noroioase.",
+                "en": "Park your bike in the covered area; the lush gardens smell wonderful in the rain, but the paths can often be muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mesoamericano del Jade",
+                "hu": "Museo Mesoamericano del Jade",
+                "ro": "Museo Mesoamericano del Jade",
+                "en": "Museo Mesoamericano del Jade"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Regenpause; prüfen Sie Ihre Reifen, da nasser Asphalt den Grip deutlich verringert.",
+                "hu": "Használja ki a múzeumi látogatást esőszünetnek; ellenőrizze a gumikat, mert a vizes aszfalt csökkenti a tapadást.",
+                "ro": "Folosiți vizita la muzeu ca pauză de ploaie; verificați anvelopele, deoarece asfaltul ud reduce semnificativ aderența.",
+                "en": "Use the museum visit as a rain break; check your tires as wet asphalt significantly reduces your grip on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Cafemuseo cafe",
+                "hu": "Cafemuseo cafe",
+                "ro": "Cafemuseo cafe",
+                "en": "Cafemuseo cafe"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Regenjacke, während Sie Kaffee trinken; die Zufahrt zum Café kann bei Nässe besonders glitschig sein.",
+                "hu": "Szárítsa meg az esőkabátját kávézás közben; a kávézó bejárata vizesen különösen csúszós lehet a kerékpárosoknak.",
+                "ro": "Uscați-vă pelerina de ploaie în timp ce beți cafeaua; intrarea la cafenea poate fi foarte alunecoasă când este udă.",
+                "en": "Dry your raincoat while having coffee; the entrance to the cafe can be particularly slippery for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Dr. Manuel Velasco Suárez",
+                "hu": "Monumento al Dr. Manuel Velasco Suárez",
+                "ro": "Monumento al Dr. Manuel Velasco Suárez",
+                "en": "Monumento al Dr. Manuel Velasco Suárez"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto; achten Sie beim Wiederaufsteigen auf Pfützen, die tiefe Löcher verbergen könnten.",
+                "hu": "Csak egy gyors fotóra álljon meg; figyeljen a tócsákra induláskor, mert mély kátyúkat rejthetnek az út szélén.",
+                "ro": "Opriți-vă doar pentru o fotografie rapidă; atenție la bălți când plecați, pot ascunde gropi adânci în asfalt.",
+                "en": "Stop only for a quick photo; watch out for puddles when starting again, as they might hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala De Bellas Artes",
+                "hu": "Sala De Bellas Artes",
+                "ro": "Sala De Bellas Artes",
+                "en": "Sala De Bellas Artes"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad sicher abzustellen und im Trockenen Kunst zu genießen, bis der schlimmste Schauer vorbei ist.",
+                "hu": "Ideális hely a kerékpár biztonságos leállításához és a benti művészet élvezetéhez, amíg elvonul a nagyobb zápor.",
+                "ro": "Un loc ideal pentru a lăsa bicicleta în siguranță și a vă bucura de artă la interior până trece ploaia torențială.",
+                "en": "An ideal place to park your bike safely and enjoy art indoors until the heaviest shower passes by."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Hermanos Dominguez",
+                "hu": "Teatro Hermanos Dominguez",
+                "ro": "Teatro Hermanos Dominguez",
+                "en": "Teatro Hermanos Dominguez"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei der Rückfahrt im Regen unbedingt Ihr Licht ein; die Sichtbarkeit ist in den Gassen nun stark eingeschränkt.",
+                "hu": "A hazafelé úton mindenképpen kapcsolja be a lámpákat; a láthatóság az esős utcákon ilyenkor már erősen korlátozott.",
+                "ro": "La întoarcere, porniți neapărat luminile; vizibilitatea pe străzile cu ploaie este acum foarte limitată.",
+                "en": "Be sure to turn on your lights for the ride back; visibility in the rainy streets is now very limited."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winterhochland erfordert Handschuhe und warme Kleidung. Morgens ist der Wind in Na Bolom schneidend. Mittags wärmt die Sonne beim Jade-Museum etwas auf. Nachmittags ist die Fahrt zum Denkmal erfrischend, aber die Schatten werfen lange Kühle. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour zügig am Theater, bevor die nächtliche Kälte die Finger steif werden lässt.",
+            "hu": "A téli felföldi biciklizéshez kesztyű és meleg ruházat kötelező. Reggel a szél metsző a Na Bolom környékén. Délben a nap már kicsit melegít a Jade múzeumnál. Délután a tekerés az emlékműhöz frissítő, de az árnyékok már hűvösek. Mivel 17:00-kor sötétedik, a túrát gyorsan befejezzük a színháznál, mielőtt elgémberednének az ujjaink.",
+            "ro": "Ciclismul de iarnă la munte necesită mănuși și haine groase. Dimineața vântul este tăios lângă Na Bolom. La prânz soarele încălzește puțin lângă muzeul de Jad. După-amiaza, drumul spre monument este revigorant, dar umbrele sunt reci. Deoarece se întunecă la 17:00, terminăm rapid turul la teatru înainte să ne înghețe degetele.",
+            "en": "Winter cycling in the highlands requires gloves and warm clothing. In the morning, the wind is biting near Na Bolom. At noon, the sun warms up a bit by the Jade Museum. In the afternoon, the ride to the monument is refreshing, but shadows are already cold. Since it gets dark at 17:00, we finish quickly at the theater before our fingers freeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Na Bolom",
+                "hu": "Na Bolom",
+                "ro": "Na Bolom",
+                "en": "Na Bolom"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die Innenräume; die kühle Morgenluft macht das Radfahren hier oben zu einer frostigen Angelegenheit.",
+                "hu": "Szánjon időt a benti kiállításokra; a hűvös reggeli levegő miatt a tekerés idáig igencsak fagyos élmény lehet.",
+                "ro": "Acordați timp expozițiilor interioare; din cauza aerului rece de dimineață, pedalatul până aici poate fi o experiență înghețată.",
+                "en": "Take your time with the indoor exhibits; the cool morning air makes cycling up here quite a frosty experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mesoamericano del Jade",
+                "hu": "Museo Mesoamericano del Jade",
+                "ro": "Museo Mesoamericano del Jade",
+                "en": "Museo Mesoamericano del Jade"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Warmen hilft, die Blutzirkulation in den Händen zu fördern, bevor Sie wieder in den Fahrtwind steigen.",
+                "hu": "Egy rövid megálló a melegben segít serkenteni a vérkeringést a kezeiben, mielőtt újra a menetszélbe kerülne.",
+                "ro": "O scurtă oprire la căldură ajută la circulația sângelui în mâini înainte de a ieși din nou în vântul tăios.",
+                "en": "A short stop in the warmth helps stimulate blood circulation in your hands before getting back into the headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cafemuseo cafe",
+                "hu": "Cafemuseo cafe",
+                "ro": "Cafemuseo cafe",
+                "en": "Cafemuseo cafe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit der Sattel nicht zu stark auskühlt; ein heißer Tee bereitet Sie auf die kühle Abfahrt vor.",
+                "hu": "Parkoljon a napon, hogy a nyereg ne hűljön ki túlságosan; egy forró tea felkészíti a hűvösebb lejtőkre.",
+                "ro": "Parcați la soare pentru ca șaua să nu se răcească prea tare; un ceai fierbinte vă pregătește pentru coborârile reci.",
+                "en": "Park in the sun so the saddle doesn't get too cold; a hot tea will prepare you for the cooler downhill sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Dr. Manuel Velasco Suárez",
+                "hu": "Monumento al Dr. Manuel Velasco Suárez",
+                "ro": "Monumento al Dr. Manuel Velasco Suárez",
+                "en": "Monumento al Dr. Manuel Velasco Suárez"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf windgeschützte Wege; das Denkmal steht auf einem freien Platz, wo der Winterwind besonders spürbar ist.",
+                "hu": "Keressen szélvédett útvonalakat; az emlékmű nyílt téren áll, ahol a téli szél sokkal erősebben érezhető.",
+                "ro": "Căutați rute ferite de vânt; monumentul se află într-o piață deschisă unde vântul de iarnă se simte mult mai tare.",
+                "en": "Look for wind-sheltered routes; the monument is in an open square where the winter wind is much more noticeable."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala De Bellas Artes",
+                "hu": "Sala De Bellas Artes",
+                "ro": "Sala De Bellas Artes",
+                "en": "Sala De Bellas Artes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Pause im Inneren; die Nachmittagssonne verliert im Winter nun rapide an Kraft.",
+                "hu": "Élvezze a benti kulturális pihenőt; a délutáni napsütés télen ilyenkor már gyorsan elveszíti az erejét.",
+                "ro": "Bucurați-vă de pauza culturală în interior; soarele de după-amiază își pierde rapid puterea în timpul iernii.",
+                "en": "Enjoy the cultural break indoors; the afternoon sun loses its strength very quickly during winter time."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Hermanos Dominguez",
+                "hu": "Teatro Hermanos Dominguez",
+                "ro": "Teatro Hermanos Dominguez",
+                "en": "Teatro Hermanos Dominguez"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es um 17:00 Uhr dunkel wird; die Temperaturen fallen danach im Hochland schlagartig unter 10 Grad.",
+                "hu": "Fejezze be a túrát, mielőtt 17:00-kor besötétedik; a hőmérséklet utána hirtelen 10 fok alá süllyed a felföldön.",
+                "ro": "Terminați turul înainte să se întunece la 17:00; temperatura scade brusc sub 10 grade după apus în munți.",
+                "en": "Finish the tour before it gets dark at 17:00; temperatures drop suddenly below 10 degrees in the highlands after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az utazás az északi ökológiai rezervátumban kezdődik, ahol belélegezheti a felhőerdei ösvények friss levegőjét. A délidő arra csábít, hogy felfedezze a mély őslakos hagyományokat a maja orvoslás és textilmúzeumokban. Délután ereszkedjen le a városközpontba, hogy megcsodálja a borostyánba zárt ritkaságokat és a regionális képzőművészetet. A nap egy békés estével zárul a hegyi vizenyős területeken, megfigyelve a helyi madárfajokat a halványuló fényben.",
         "ro": "Călătoria cu mașina începe în rezervația ecologică de nord, respirând aerul proaspăt al traseelor din pădurea tropicală. Prânzul vă invită să explorați tradițiile indigene la muzeele de medicină și textile mayașe. După-amiaza, coborâți în centrul orașului pentru a admira incluziunile de chihlimbar frumos conservate și artele plastice regionale. Ziua se încheie cu o seară liniștită la zonele umede montane, urmărind păsările locale în lumina difuză.",
         "en": "Your drive begins in the northern ecological reserve, breathing in the fresh air of the cloud forest trails. Midday invites you to explore profound indigenous traditions at the Mayan medicine and textile museums. In the afternoon, descend to the city center to admire beautifully preserved amber inclusions and regional fine arts. The day winds down with a peaceful evening at the mountain wetlands, watching local bird species in the fading light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Regen in San Cristóbal gut zu meistern. Morgens besuchen wir das neblige Moxviquil-Reservat. Mittags bietet das Medizinmuseum ein trockenes Dach. Nachmittags besuchen wir die Textil- und Bernsteinmuseen, wobei das Auto uns direkt vor die Türen bringt. Abends wirken die Feuchtgebiete von La Kisst im Regen besonders lebendig und geheimnisvoll.",
+            "hu": "Autóval az eső sem akadály San Cristóbal felfedezésében. Reggel a ködbe burkolózó Moxviquil rezervátumot keressük fel. Délben a gyógymúzeum száraz tetőt nyújt felettünk. Délután a textil- és borostyánmúzeumokat látogatjuk meg, ahol az autóval a bejáratig hajthatunk. Este a La Kisst mocsárvilága az esőben különösen élőnek és titokzatosnak hat.",
+            "ro": "Cu mașina, ploaia nu este un obstacol în explorarea orașului San Cristóbal. Dimineața vizităm rezervația Moxviquil învăluită în ceață. La prânz, muzeul de medicină oferă un adăpost uscat. După-amiaza vizităm muzeele de textile și chihlimbar, mașina lăsându-ne chiar la ușă. Seara, mlaștinile La Kisst par extrem de vii și misterioase sub ploaie.",
+            "en": "By car, the rain is no obstacle to exploring San Cristóbal. In the morning, we visit the misty Moxviquil reserve. At noon, the Medicine Museum provides a dry roof over our heads. In the afternoon, we visit the Textile and Amber museums, where the car drops us right at the door. In the evening, the La Kisst wetlands feel particularly alive and mysterious in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reserva Ecológica Moxviquil",
+                "hu": "Reserva Ecológica Moxviquil",
+                "ro": "Reserva Ecológica Moxviquil",
+                "en": "Reserva Ecológica Moxviquil"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den steilen Wegen zum Reservat; der Regen kann die unbefestigten Abschnitte rutschig machen.",
+                "hu": "Vezessen óvatosan a rezervátumhoz vezető meredek utakon; az eső csúszóssá teheti a burkolatlan útszakaszokat.",
+                "ro": "Conduceți cu atenție pe drumurile abrupte spre rezervație; ploaia poate face secțiunile neasfaltate destul de alunecoase.",
+                "en": "Drive carefully on the steep roads leading to the reserve; the rain can make unpaved sections quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Medicine Maya",
+                "hu": "Museo de la Medicina Maya",
+                "ro": "Museo de la Medicina Maya",
+                "en": "Museo de la Medicina Maya"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Garten ist bei Regen schön, aber die Innenräume bieten mehr Schutz.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a kert szép esőben is, de a belső terek nyújtják a legtöbb védelmet.",
+                "ro": "Parcați cât mai aproape de intrare; grădina este frumoasă pe ploaie, dar spațiile interioare oferă cea mai bună protecție.",
+                "en": "Park as close to the entrance as possible; the garden is beautiful in the rain, but the indoor areas offer the best shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo textiles de mundo maya",
+                "hu": "Museo textiles de mundo maya",
+                "ro": "Museo textiles de mundo maya",
+                "en": "Museo textiles de mundo maya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Zwischenstation zum Trocknen; das Museum ist perfekt für einen ausgiebigen Besuch während eines Schauers.",
+                "hu": "Használja az autót köztes állomásként a száradáshoz; a múzeum tökéletes egy hosszabb látogatáshoz zápor idején.",
+                "ro": "Folosiți mașina ca punct intermediar pentru a vă usca; muzeul este perfect pentru o vizită lungă în timpul unei averse.",
+                "en": "Use the car as a halfway point to dry off; the museum is perfect for a long visit during a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Amber",
+                "hu": "Museum of Amber",
+                "ro": "Museum of Amber",
+                "en": "Museum of Amber"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche kann bei Regen in der Innenstadt schwierig sein; achten Sie auf Einbahnstraßen und tiefe Pfützen.",
+                "hu": "A parkolóhely keresése nehéz lehet esőben a belvárosban; figyeljen az egyirányú utcákra és a mély tócsákra.",
+                "ro": "Găsirea unui loc de parcare poate fi dificilă pe ploaie în centru; atenție la străzile cu sens unic și la bălțile adânci.",
+                "en": "Finding a parking spot can be tricky in the rain downtown; watch out for one-way streets and deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala De Bellas Artes",
+                "hu": "Sala De Bellas Artes",
+                "ro": "Sala De Bellas Artes",
+                "en": "Sala De Bellas Artes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren; die Architektur bietet tolle Fotomotive, selbst wenn es draußen grau und nass ist.",
+                "hu": "Élvezze a benti nyugalmat; az építészet remek fotótémákat kínál akkor is, ha kint szürke és nedves az idő.",
+                "ro": "Bucurați-vă de liniștea din interior; arhitectura oferă subiecte foto excelente chiar dacă afară este gri și ud.",
+                "en": "Enjoy the peace indoors; the architecture offers great photo opportunities even if it is grey and wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                "hu": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                "ro": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                "en": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Nebel bei der Rückfahrt; die Feuchtigkeit sorgt in den Bergen abends oft für eine sehr geringe Sichtweite.",
+                "hu": "Figyeljen a ködre a hazafelé úton; a pára a hegyekben este gyakran okoz rendkívül alacsony látótávolságot.",
+                "ro": "Atenție la ceață pe drumul de întoarcere; umiditatea din munți cauzează adesea o vizibilitate foarte scăzută seara.",
+                "en": "Watch out for fog on the drive back; the moisture in the mountains often causes very low visibility in the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den Komfort einer Heizung zwischen den Stopps. Morgens liegt oft Frost über Moxviquil. Mittags erkunden wir die Museen in der angenehmen Mittagssonne. Nachmittags besuchen wir die kulturellen Highlights, während die Schatten länger werden. Gegen 17:00 Uhr erleben wir den frühen Sonnenuntergang in La Kisst, bevor wir uns im warmen Auto zurückziehen.",
+            "hu": "Télen az autó fűtése kényelmet nyújt a megállók között. Reggel gyakran dér borítja a Moxviquil tájait. Délben a múzeumokat a kellemes déli napsütésben fedezzük fel. Délután a kulturális látnivalókat járjuk be, miközben az árnyékok megnyúlnak. 17:00 körül nézzük meg a korai naplementét La Kisstnél, majd visszahúzódunk a meleg autóba.",
+            "ro": "Iarna, încălzirea mașinii oferă confort între opriri. Dimineața, promoroaca acoperă adesea peisajele din Moxviquil. La prânz explorăm muzeele sub soarele plăcut. După-amiaza vizităm obiectivele culturale în timp ce umbrele se lungesc. În jur de ora 17:00 urmărim apusul timpuriu la La Kisst, apoi ne retragem în mașina caldă.",
+            "en": "In winter, the car's heater provides comfort between stops. In the morning, frost often covers the Moxviquil landscape. At noon, we explore the museums in the pleasant midday sun. In the afternoon, we visit the cultural highlights as shadows lengthen. Around 17:00, we watch the early sunset at La Kisst before retreating to the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reserva Ecológica Moxviquil",
+                "hu": "Reserva Ecológica Moxviquil",
+                "ro": "Reserva Ecológica Moxviquil",
+                "en": "Reserva Ecológica Moxviquil"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Abfahrt; die kalte Morgenluft im Hochland lässt ihn oft messbar absinken.",
+                "hu": "Ellenőrizze a guminyomást indulás előtt; a hideg felföldi reggeli levegőben gyakran mérhetően lecsökken a nyomás.",
+                "ro": "Verificați presiunea anvelopelor înainte de plecare; aerul rece de munte face adesea ca presiunea să scadă vizibil.",
+                "en": "Check your tire pressure before leaving; the cold highland morning air often causes a measurable drop in pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Medicine Maya",
+                "hu": "Museo de la Medicina Maya",
+                "ro": "Museo de la Medicina Maya",
+                "en": "Museo de la Medicine Maya"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung kurz laufen, bevor Sie aussteigen; die Temperaturunterschiede zwischen Auto und Museumsgarten sind groß.",
+                "hu": "Hagyja a fűtést kicsit menni kiszállás előtt; nagy a hőmérséklet-különbség az autó és a múzeumi kert között.",
+                "ro": "Lăsați căldura să meargă puțin înainte de a coborî; diferențele de temperatură între mașină și grădină sunt mari.",
+                "en": "Let the heater run for a bit before getting out; the temperature differences between the car and the garden are large."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo textiles de mundo maya",
+                "hu": "Museo textiles de mundo maya",
+                "ro": "Museo textiles de mundo maya",
+                "en": "Museo textiles de mundo maya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hellen Vormittag für Fotos der Fassade; im Winter ist das Licht hier besonders klar und brillant.",
+                "hu": "Használja ki a ragyogó délelőtti órákat a homlokzat fotózására; télen a fények itt különösen tiszták és élesek.",
+                "ro": "Profitați de orele strălucitoare ale dimineții pentru fotografii; iarna, lumina aici este extrem de clară și intensă.",
+                "en": "Take advantage of the bright morning hours to photograph the facade; in winter, the light here is especially clear and brilliant."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Amber",
+                "hu": "Museum of Amber",
+                "ro": "Museum of Amber",
+                "en": "Museum of Amber"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Autobatterie fit ist; die kalten Winternächte im Hochland beanspruchen sie sehr beim Starten.",
+                "hu": "Győződjön meg róla, hogy az akkumulátor jó állapotban van; a hideg téli éjszakák megterhelik azt az indításkor.",
+                "ro": "Asigurați-vă că bateria mașinii este în stare bună; nopțile reci de iarnă o solicită foarte mult la pornire.",
+                "en": "Make sure your car battery is in good condition; the cold winter nights in the highlands stress it during startup."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala De Bellas Artes",
+                "hu": "Sala De Bellas Artes",
+                "ro": "Sala De Bellas Artes",
+                "en": "Sala De Bellas Artes"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren in der Stadt stark blenden; halten Sie Ihre Sonnenbrille griffbereit.",
+                "hu": "Az alacsonyan járó téli nap vezetés közben erősen vakíthat a városban; tartsa kéznél a napszemüvegét.",
+                "ro": "Soarele de iarnă situat jos la orizont poate fi foarte orbitor la volan; țineți ochelarii de soare la îndemână.",
+                "en": "The low winter sun can be very blinding while driving in the city; keep your sunglasses within reach at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                "hu": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                "ro": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                "en": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang zu sehen; danach fallen die Temperaturen sofort in den einstelligen Bereich.",
+                "hu": "Érkezzen 16:45 előtt, hogy lássa a naplementét; utána a hőmérséklet azonnal az egyjegyű tartományba zuhan.",
+                "ro": "Ajungeți înainte de 16:45 pentru a vedea apusul; după aceea, temperatura scade imediat la valori de o singură cifră.",
+                "en": "Arrive before 16:45 to catch the sunset; after that, the temperature drops immediately into the single digits."
+              }
+            }
+          ]
+        }
       }
     }
   }

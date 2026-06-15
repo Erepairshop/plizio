@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Kavala modern központjában, fedezze fel a neogótikus Városházát és a történelmi dohányraktárakat. Délben csodálja meg a kulturális sokszínűséget az Aghios Nikolaos templomnál és a lenyűgöző Kamares vízvezetéknél. Délután sétáljon a Panagia-félsziget macskaköves utcáin, és fedezze fel az oszmán erődöt. A napot a történelmi Muhammad Ali ház nyugodt kertjében zárhatja.",
         "ro": "Începeți dimineața în centrul modern al Kavalei, descoperind Primăria neogotică și depozitele istorice de tutun. La prânz, admirați mixul cultural de la biserica Aghios Nikolaos și masivul Apeduct Kamares. După-amiaza, plimbați-vă pe străzile pietruite ale peninsulei Panagia pentru a explora fortăreața otomană. Încheiați ziua relaxându-vă în grădina casei lui Muhammad Ali.",
         "en": "Start your morning exploring the modern center of Kavala, discovering the impressive neo-gothic City Hall and the historic tobacco warehouses. By midday, witness the cultural blend at Aghios Nikolaos and marvel at the massive Kamares Aqueduct. Spend your afternoon wandering the cobblestone streets of the Panagia peninsula, exploring the Ottoman fortress. End your day at the Mohamed Ali House."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir das Rathaus im Regen, bevor wir im Tabakmuseum Schutz suchen. Mittags besichtigen wir die St. Nikolaus-Kirche und das Aquädukt unter dem Schirm. Nachmittags erklimmen wir vorsichtig die Festung, da das Kopfsteinpflaster rutschig ist. Den Abend verbringen wir trocken in der Halil-Bey-Moschee und im Haus von Mohamed Ali, während die Regentropfen gegen die Fenster klopfen.",
+            "hu": "Reggel az esőben csodáljuk meg a városházát, majd a dohányraktár falai között keresünk menedéket. Délben az ívvezeték monumentális tömbjei alatt sétálunk, figyelve a csúszós macskakövekre. Délután az erőd ködös panorámájában gyönyörködünk vízálló cipőben. Az estét a Halil bég mecset és a Mohamed Ali ház fedett kiállításai között töltjük, élvezve a történelmi falak nyújtotta biztonságot.",
+            "ro": "Dimineața admirăm primăria prin ploaie, apoi ne adăpostim în depozitul de tutun. La prânz vizităm biserica Sf. Nicolae și apeductul sub umbrelă. După-amiaza urcăm cu grijă la fortăreață, deoarece pavajul este alunecos când e ud. Seara ne retragem la moscheea Halil Bey și casa lui Mohamed Ali, unde interioarele calde ne protejează de vremea capricioasă și vântul umed de pe coastă.",
+            "en": "In the morning, admire the City Hall in the rain before finding shelter in the Tobacco Warehouse. At noon, visit St. Nicholas Church and the Aqueduct under an umbrella. In the afternoon, climb carefully to the fortress as the cobblestones are slippery. Spend the evening dry inside the Halil Bey Mosque and Mohamed Ali’s house, listening to the rain tapping against the historic windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Kavala",
+                "hu": "Kavala Városháza",
+                "ro": "Primăria Kavala",
+                "en": "City Hall of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neoklassizistische Fassade vom gegenüberliegenden Arkadengang aus, um trocken zu bleiben und tolle Fotos zu machen.",
+                "hu": "Csodálja meg a neoklasszicista épületet a szemközti árkádok alól, így szárazon maradhat és remek fotókat készíthet a vizes tükröződésekről.",
+                "ro": "Admirați fațada neoclasică de sub arcadele de vizavi pentru a rămâne uscat și a face fotografii reușite cu reflexiile din bălți.",
+                "en": "Admire the neoclassical facade from the arcades across the street to stay dry while capturing great photos of the wet reflections."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtischer Tabakspeicher",
+                "hu": "Városi Dohányraktár",
+                "ro": "Depozitul Municipal de Tutun",
+                "en": "Municipal Tobacco Warehouse"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist ein idealer Zufluchtsort bei Regen; erkunden Sie die Ausstellungen im Inneren, während es draußen schüttet.",
+                "hu": "Ez a hely tökéletes menedék eső idején; fedezze fel a belső kiállításokat, miközben odakint szakad az eső.",
+                "ro": "Acest loc este un refugiu ideal pe timp de ploaie; explorați expozițiile interioare în timp ce afară plouă torențial.",
+                "en": "This place is an ideal refuge during rain; explore the indoor exhibitions while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Aghios Nikolaos",
+                "hu": "Szent Miklós templom",
+                "ro": "Biserica Sfântul Nicolae",
+                "en": "Church of St. Nicholas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den ruhigen Innenraum für eine besinnliche Pause und bewundern Sie die Architektur fernab der nassen Straßen.",
+                "hu": "Használja ki a csendes belső teret egy elmélyült pihenőre, és csodálja meg az építészetet távol a vizes utcák zajától.",
+                "ro": "Folosiți interiorul liniștit pentru o pauză de reflecție și admirați arhitectura departe de străzile ude și zgomotoase.",
+                "en": "Take advantage of the quiet interior for a peaceful break and admire the architecture away from the wet and noisy streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquädukt von Kavala",
+                "hu": "Kavala vízvezeték",
+                "ro": "Apeductul din Kavala",
+                "en": "Aqueduct of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steine wirken im Regen sehr dramatisch; halten Sie sich beim Fotografieren unter den Bögen auf, um trocken zu bleiben.",
+                "hu": "A sötét kövek drámai hatást keltenek az esőben; fotózás közben álljon az ívek alá, hogy ne ázzon el.",
+                "ro": "Pietrele negre par dramatice în ploaie; stați sub arcade în timp ce faceți poze pentru a nu vă uda prea tare.",
+                "en": "The dark stones look dramatic in the rain; stand under the arches while taking photos to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Kavala",
+                "hu": "Kavala erőd",
+                "ro": "Fortăreața din Kavala",
+                "en": "Fortress of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt rutschfeste Schuhe, da die alten Steine extrem glatt werden können; der Blick auf das graue Meer ist mystisch.",
+                "hu": "Mindenképpen csúszásmentes talpú cipőt viseljen, mert a kövek rendkívül síkosak lehetnek; a szürke tenger látványa misztikus.",
+                "ro": "Purtați neapărat încălțăminte antiderapantă, deoarece pietrele pot fi extrem de alunecoase; vederea spre marea gri este mistică.",
+                "en": "Be sure to wear non-slip shoes as the stones can be extremely slippery; the view of the gray sea is quite mystical."
+              }
+            },
+            {
+              "name": {
+                "de": "Halil-Bey-Moschee",
+                "hu": "Halil bég mecset",
+                "ro": "Moscheea Halil Bey",
+                "en": "Halil Bey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Durch den Glasboden sieht man die antiken Ruinen, während man vor dem Regen geschützt ist; ein echtes kulturelles Highlight im Trockenen.",
+                "hu": "Az üvegpadlón keresztül láthatók az ókori romok, miközben védve van az esőtől; igazi kulturális élmény szárazon.",
+                "ro": "Prin podeaua de sticlă se pot vedea ruinele antice în timp ce sunteți protejați de ploaie; o experiență culturală la adăpost.",
+                "en": "Through the glass floor, you can see ancient ruins while protected from the rain; a true cultural highlight in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus von Mohamed Ali",
+                "hu": "Muhammad Ali háza",
+                "ro": "Casa lui Mohamed Ali",
+                "en": "The house of Mohamed Ali"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Räume verströmen bei Regen eine gemütliche Atmosphäre; genießen Sie die historische Inneneinrichtung in aller Ruhe.",
+                "hu": "A fából készült szobák esőben különösen otthonos hangulatot árasztanak; élvezze a történelmi berendezést nyugodt körülmények között.",
+                "ro": "Camerele din lemn emană o atmosferă primitoare pe timp de ploaie; bucurați-vă de mobilierul istoric în liniște deplină.",
+                "en": "The wooden rooms exude a cozy atmosphere when it rains; enjoy the historical interior in peace and comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Morgen frisch am Rathaus. Mittags wärmen wir uns im Tabakspeicher und in der St. Nikolaus-Kirche auf. Am Nachmittag besuchen wir das Aquädukt und erklimmen die Festung vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Den kalten Abend lassen wir bei den Museen in der Altstadt ausklingen, wo die Beleuchtung für eine magische Stimmung sorgt.",
+            "hu": "Télen a reggel frissen indul a városházánál. Délben a dohányraktár és a Szent Miklós templom belső tereiben melegszünk fel. Délután az ívvezeték után az erődöt még a korai, 17:00 körüli naplemente előtt meglátogatjuk. A hideg estét az óváros múzeumaiban fejezzük be, ahol a téli kivilágítás különleges, meghitt hangulatot áraszt a történelmi negyedben.",
+            "ro": "Iarna, dimineața începe răcoros la primărie. La prânz ne încălzim în depozitul de tutun și biserica Sf. Nicolae. După-amiaza vizităm apeductul și urcăm la fortăreață înainte de apusul devreme de la ora 17:00. Încheiem seara rece la muzeele din orașul vechi, unde iluminatul nocturn creează o atmosferă magică pe străzile înguste.",
+            "en": "In winter, the morning starts fresh at the City Hall. At noon, warm up inside the Tobacco Warehouse and St. Nicholas Church. In the afternoon, visit the Aqueduct and climb the fortress before the early sunset around 17:00. End the cold evening at the Old Town museums, where the winter lighting creates a magical atmosphere in the historic district."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Kavala",
+                "hu": "Kavala Városháza",
+                "ro": "Primăria Kavala",
+                "en": "City Hall of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt das Gebäude in den Morgenstunden besonders scharf und majestätisch erscheinen; ziehen Sie sich warm an.",
+                "hu": "A tiszta téli levegőben az épület különösen élesen és fenségesen fest a reggeli órákban; öltözzön fel rétegesen és melegen.",
+                "ro": "Aerul curat de iarnă face ca clădirea să pară impunătoare în orele dimineții; îmbrăcați-vă în straturi pentru confort termic.",
+                "en": "The crisp winter air makes the building look especially sharp and majestic in the morning; dress in warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtischer Tabakspeicher",
+                "hu": "Városi Dohányraktár",
+                "ro": "Depozitul Municipal de Tutun",
+                "en": "Municipal Tobacco Warehouse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen gut beheizten Ort für eine ausführliche Besichtigung und um den kalten Windböen von der Küste zu entkommen.",
+                "hu": "Használja ki ezt a jól fűtött helyet egy alapos látogatásra, és hogy elmeneküljön a part felől fújó hideg széllökések elől.",
+                "ro": "Folosiți acest loc bine încălzit pentru o vizită detaliată și pentru a scăpa de rafalele de vânt rece de pe coastă.",
+                "en": "Take advantage of this well-heated indoor space for a thorough visit and to escape the cold gusts of wind from the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Aghios Nikolaos",
+                "hu": "Szent Miklós templom",
+                "ro": "Biserica Sfântul Nicolae",
+                "en": "Church of St. Nicholas"
+              },
+              "tip_5lang": {
+                "de": "Die brennenden Kerzen im Inneren erzeugen im Winter eine besonders warme und einladende Atmosphäre; ein Ort der Stille und Wärme.",
+                "hu": "A belső térben égő gyertyák télen különösen meleg és hívogató hangulatot árasztanak; a nyugalom és a meleg szigete.",
+                "ro": "Lumânările aprinse în interior creează o atmosferă caldă și primitoare iarna; un loc de liniște și căldură sufletească.",
+                "en": "The burning candles inside create an especially warm and inviting atmosphere in winter; a sanctuary of peace and warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquädukt von Kavala",
+                "hu": "Kavala vízvezeték",
+                "ro": "Apeductul din Kavala",
+                "en": "Aqueduct of Kavala"
+              },
+              "tip_5lang": {
+                "de": "In der tiefstehenden Wintersonne wirft das Aquädukt lange, faszinierende Schatten; ideal für dramatische Architekturfotos am Nachmittag.",
+                "hu": "Az alacsonyan járó téli napfényben az ívvezeték hosszú, izgalmas árnyékokat vet; ideális drámai építészeti fotókhoz.",
+                "ro": "În lumina joasă a soarelui de iarnă, apeductul aruncă umbre lungi și fascinante; ideal pentru fotografii arhitecturale dramatice.",
+                "en": "In the low winter sun, the aqueduct casts long, intriguing shadows; ideal for dramatic architectural photos in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Kavala",
+                "hu": "Kavala erőd",
+                "ro": "Fortăreața din Kavala",
+                "en": "Fortress of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr hierher, um den Sonnenuntergang über der verschneiten Bergkulisse im Hinterland nicht zu verpassen.",
+                "hu": "Érkezzen 16:30 előtt, hogy ne maradjon le a naplementéről, amely megvilágítja a távoli, havas hegycsúcsokat a szárazföld felé.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a nu rata apusul care luminează vârfurile muntoase înzăpezite din depărtare.",
+                "en": "Arrive before 16:30 so you don't miss the sunset illuminating the distant snowy mountain peaks in the hinterland."
+              }
+            },
+            {
+              "name": {
+                "de": "Halil-Bey-Moschee",
+                "hu": "Halil bég mecset",
+                "ro": "Moscheea Halil Bey",
+                "en": "Halil Bey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Besichtigung der Ausgrabungen ist auch im Winter angenehm, da das Gebäude Schutz vor dem oft eisigen Nordwind bietet.",
+                "hu": "Az ásatások megtekintése télen is kellemes, mivel az épület védelmet nyújt a gyakran metsző északi szél elől.",
+                "ro": "Vizitarea excavațiilor este plăcută și iarna, deoarece clădirea oferă protecție împotriva vântului tăios de nord.",
+                "en": "Viewing the excavations is pleasant even in winter as the building provides protection from the often biting north wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus von Mohamed Ali",
+                "hu": "Muhammad Ali háza",
+                "ro": "Casa lui Mohamed Ali",
+                "en": "The house of Mohamed Ali"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier, wenn es draußen dunkel wird; die beleuchtete Panagia-Halbinsel sieht von hier oben im Winter herrlich aus.",
+                "hu": "Zárja itt a napot, amikor odakint sötétedni kezd; a kivilágított Panagia-félsziget télen is gyönyörű innen nézve.",
+                "ro": "Încheiați ziua aici când începe să se întunece; peninsula Panagia iluminată arată superb de sus pe timp de iarnă.",
+                "en": "End your day here as it gets dark outside; the illuminated Panagia peninsula looks beautiful from up here in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpártúráját egy frissítő megállóval a Rapsane strandon, élvezve a tengeri szellőt. Délben tekerjen be a központba, hogy megcsodálja a neoklasszicista Konzervatóriumot és a Próféta Illés templomot. Délután suhanjon el a hatalmas dohányraktárak és az ikonikus vízvezeték mellett. A túrát a Panagia-félszigetre felkapaszkodva, Kavala fenséges erődjének meghódításával zárhatja.",
         "ro": "Începeți turul cu bicicleta cu o oprire revigorantă la plaja Rapsane. La prânz, pedalați spre centrul orașului pentru a admira Conservatorul neoclasic și a urca la biserica Profetul Ilie. După-amiaza, treceți pe lângă uriașele depozite de tutun și emblematicul Apeduct. Încheiați cursa urcând pe peninsula Panagia pentru a vizita maiestuoasa fortăreață din Kavala.",
         "en": "Kick off your cycling tour with a refreshing stop at Rapsane beach, taking in the morning sea breeze. Ride into the city center by midday to admire the neoclassical Conservatory and tackle the short climb to Prophete Elia. In the afternoon, glide past the immense tobacco warehouses and the iconic Aqueduct. Conclude your ride ascending the Panagia peninsula to the majestic Fortress of Kavala."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Strand Rapsane, fahren aber zügig zum Konservatorium. Mittags halten wir kurz an der Prophet-Elias-Kirche und flüchten dann in den Tabakspeicher. Nachmittags besichtigen wir das Aquädukt und beenden die Tour an der Festung, wobei wir auf dem nassen Asphalt besonders vorsichtig bremsen müssen.",
+            "hu": "Az eső ellenére a Rapsane strandnál kezdünk, de gyorsan a konzervatórium felé vesszük az irányt. Délben rövid megállót tartunk a Próféta Illés templomnál, majd a dohányraktárba menekülünk. Délután megtekintjük az ívvezetéket, és a túrát az erődnél fejezzük be, fokozottan ügyelve a fékezésre a vizes aszfalton.",
+            "ro": "În ciuda ploii, începem la plaja Rapsane, dar pedalam rapid spre conservator. La prânz facem o scurtă oprire la biserica Profetul Ilie, apoi ne adăpostim în depozitul de tutun. După-amiaza vizităm apeductul și încheiem turul la fortăreață, fiind foarte atenți la frânare pe asfaltul ud.",
+            "en": "Despite the rain, we start at Rapsane Beach but pedal quickly towards the Conservatory. At noon, we make a short stop at the Prophet Elias Church, then take cover in the Tobacco Warehouse. In the afternoon, we visit the Aqueduct and finish the tour at the Fortress, being extra careful with braking on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Rapsane",
+                "hu": "Rapsane strand",
+                "ro": "Plaja Rapsane",
+                "en": "Rapsane Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Meer kann bei Regen windig sein; tragen Sie eine gute Windjacke und achten Sie auf Pfützen auf dem Weg.",
+                "hu": "A tengerparti kerékpárút esőben szeles lehet; viseljen szélkabátot, és ügyeljen az úton lévő nagyobb tócsákra.",
+                "ro": "Pista de biciclete de pe malul mării poate fi vântoasă; purtați o jachetă impermeabilă și atenție la bălțile de pe drum.",
+                "en": "The seaside bike path can be windy in the rain; wear a good windbreaker and watch out for large puddles on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Konservatorium",
+                "hu": "Városi Konzervatórium",
+                "ro": "Conservatorul Municipal",
+                "en": "Municipal Conservatory"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher im überdachten Bereich und genießen Sie kurz die Ruhe des imposanten Gebäudes, während es regnet.",
+                "hu": "Parkolja le kerékpárját biztonságosan a fedett részen, és élvezze rövid ideig az impozáns épület nyugalmát, amíg esik.",
+                "ro": "Parcați bicicleta în siguranță în zona acoperită și bucurați-vă scurt de liniștea clădirii impunătoare în timp ce plouă.",
+                "en": "Park your bike safely in the covered area and briefly enjoy the peace of the imposing building while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Propheten Elias",
+                "hu": "Próféta Illés templom",
+                "ro": "Biserica Profetul Ilie",
+                "en": "Church of Prophet Elias"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hierher ist bei Nässe anstrengend; schalten Sie in einen niedrigen Gang und achten Sie auf rutschige Fahrbahnmarkierungen.",
+                "hu": "A felfelé vezető út nedves időben fárasztó; váltson alacsony fokozatba, és ügyeljen a csúszós útburkolati jelekre.",
+                "ro": "Urcarea spre biserică este obositoare pe umezeală; schimbați într-o viteză inferioară și atenție la marcajele rutiere alunecoase.",
+                "en": "The climb up here is tiring in wet weather; switch to a low gear and watch out for slippery road markings."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtischer Tabakspeicher",
+                "hu": "Városi Dohányraktár",
+                "ro": "Depozitul Municipal de Tutun",
+                "en": "Municipal Tobacco Warehouse"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Fahrräder kurz abzustellen und sich im Inneren des Museums bei den interessanten Exponaten aufzuwärmen.",
+                "hu": "Ideális hely a kerékpárok rövid leállítására, és hogy a múzeum belsejében, az érdekes tárlatok között kicsit felmelegedjen.",
+                "ro": "Un loc ideal pentru a lăsa bicicletele scurt și a vă încălzi în interiorul muzeului printre exponatele interesante.",
+                "en": "An ideal spot to briefly park the bikes and warm up inside the museum among the interesting exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquädukt von Kavala",
+                "hu": "Kavala vízvezeték",
+                "ro": "Apeductul din Kavala",
+                "en": "Aqueduct of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig unter den Bögen durch; das Kopfsteinpflaster hier ist bei Regen besonders tückisch für schmale Reifen.",
+                "hu": "Hajtson óvatosan az ívek alatt; az itt található macskakő esőben különösen veszélyes lehet a vékonyabb gumiabroncsoknak.",
+                "ro": "Pedalați cu grijă sub arcade; pavajul de aici este deosebit de periculos pentru anvelopele subțiri pe timp de ploaie.",
+                "en": "Ride carefully under the arches; the cobblestones here are particularly treacherous for narrow tires during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Kavala",
+                "hu": "Kavala erőd",
+                "ro": "Fortăreața din Kavala",
+                "en": "Fortress of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad unten an und gehen Sie das letzte Stück zu Fuß, da der steile Weg zur Festung bei Regen zu rutschig ist.",
+                "hu": "Zárja le kerékpárját lent, és az utolsó szakaszt tegye meg gyalog, mert az erődöz vezető meredek út esőben túl csúszós.",
+                "ro": "Legatț bicicleta jos și parcurgeți ultima porțiune pe jos, deoarece drumul abrupt spre fortăreață este prea alunecos pe ploaie.",
+                "en": "Lock your bike at the bottom and walk the last stretch as the steep road to the fortress is too slippery in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour beginnt frisch am Strand Rapsane. Mittags radeln wir zum Konservatorium und bergauf zur Prophet-Elias-Kirche, um warm zu bleiben. Nach einem Stopp am Tabakspeicher besuchen wir das Aquädukt. Die Tour endet an der Festung, wo wir die klare Sicht genießen, bevor es um 17:00 Uhr dunkel und deutlich kälter wird.",
+            "hu": "A téli kerékpáros túra frissen indul a Rapsane strandnál. Délben a konzervatóriumhoz, majd a Próféta Illés templomhoz tekerünk, hogy mozgásban maradjunk. A dohányraktár után az ívvezetéket látogatjuk meg. A túra az erődnél ér véget, ahol élvezzük a tiszta kilátást, mielőtt 17:00-kor sötétedni kezd és lehűl a levegő.",
+            "ro": "Turul cu bicicleta iarna începe răcoros la plaja Rapsane. La prânz pedalăm spre conservator și urcăm spre biserica Profetul Ilie pentru a ne menține calzi. După depozitul de tutun vizităm apeductul. Turul se încheie la fortăreață, unde admirăm priveliștea clară înainte de ora 17:00 când se întunecă și se răcește.",
+            "en": "The winter bike tour starts fresh at Rapsane Beach. At noon, we cycle to the Conservatory and uphill to Prophet Elias Church to stay active and warm. After the Tobacco Warehouse, we visit the Aqueduct. The tour ends at the Fortress, where we enjoy the clear views before it gets dark and much colder at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Rapsane",
+                "hu": "Rapsane strand",
+                "ro": "Plaja Rapsane",
+                "en": "Rapsane Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe und eine Mütze gegen den kalten Seewind; der leere Strand im Winter hat eine ganz eigene, ruhige Atmosphäre.",
+                "hu": "Viseljen kesztyűt és sapkát a hideg tengeri szél ellen; az üres strandnak télen különleges, nyugodt hangulata van.",
+                "ro": "Purtați mănuși și căciulă împotriva vântului rece de mare; plaja goală iarna are o atmosferă calmă și aparte.",
+                "en": "Wear gloves and a hat against the cold sea breeze; the empty beach in winter has a unique, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Konservatorium",
+                "hu": "Városi Konzervatórium",
+                "ro": "Conservatorul Municipal",
+                "en": "Municipal Conservatory"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp hier hilft, kurz aus dem Wind zu kommen; bewundern Sie die Details des Gebäudes in der hellen Wintersonne.",
+                "hu": "Egy rövid megálló itt segít kicsit kijönni a szélből; csodálja meg az épület részleteit a ragyogó téli napsütésben.",
+                "ro": "O scurtă oprire aici vă ajută să scăpați puțin de vânt; admirați detaliile clădirii în lumina strălucitoare a iernii.",
+                "en": "A short stop here helps to get out of the wind for a moment; admire the building's details in the bright winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Propheten Elias",
+                "hu": "Próféta Illés templom",
+                "ro": "Biserica Profetul Ilie",
+                "en": "Church of Prophet Elias"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung; oben angekommen werden Sie mit einer klaren Fernsicht über die gesamte Stadt belohnt.",
+                "hu": "A felfelé tekerés felpezsdíti a vérkeringést; felérve tiszta kilátás nyílik az egész városra a friss téli levegőben.",
+                "ro": "Urcarea cu bicicleta vă va încălzi; odată ajunși sus, veți fi răsplătiți cu o priveliște clară asupra întregului oraș.",
+                "en": "The uphill climb will get your circulation going; once at the top, you'll be rewarded with clear views over the entire city."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtischer Tabakspeicher",
+                "hu": "Városi Dohányraktár",
+                "ro": "Depozitul Municipal de Tutun",
+                "en": "Municipal Tobacco Warehouse"
+              },
+              "tip_5lang": {
+                "de": "Die massive Bauweise hält die Kälte draußen; nutzen Sie den Besuch, um die Finger aufzuwärmen und etwas Geschichte zu erleben.",
+                "hu": "A masszív falak kint tartják a hideget; használja ki a látogatást, hogy felmelegítse az ujjait és megismerje a múltat.",
+                "ro": "Construcția masivă ține frigul afară; folosiți vizita pentru a vă încălzi mâinile și a descoperi puțină istorie locală.",
+                "en": "The massive structure keeps the cold outside; use the visit to warm up your fingers and experience some local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquädukt von Kavala",
+                "hu": "Kavala vízvezeték",
+                "ro": "Apeductul din Kavala",
+                "en": "Aqueduct of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif am Boden in den frühen Morgenstunden; die tiefstehende Sonne lässt das Mauerwerk golden leuchten.",
+                "hu": "Ügyeljen a hajnali zúzmarára az úton; az alacsonyan járó napfény aranyló színbe öltözteti a monumentális falakat.",
+                "ro": "Atenție la bruma de pe drum în orele dimineții; soarele jos face ca zidăria să strălucească în nuanțe aurii.",
+                "en": "Watch out for frost on the ground in the early morning; the low sun makes the masonry glow with golden hues."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Kavala",
+                "hu": "Kavala erőd",
+                "ro": "Fortăreața din Kavala",
+                "en": "Fortress of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf die Insel Thassos ist im Winter oft viel klarer als im Sommer; bringen Sie eine Thermoskanne mit Tee für die Pause mit.",
+                "hu": "A kilátás Thassos szigetére télen gyakran sokkal tisztább; hozzon magával egy termosz meleg teát a pihenőhöz az erőd tövében.",
+                "ro": "Vizibilitatea spre insula Thassos este adesea mai bună iarna; aduceți un termos cu ceai cald pentru pauza de la fortăreață.",
+                "en": "The view towards Thassos island is often much clearer in winter; bring a thermos of warm tea for the break at the fortress."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Reggel induljon nyugatra, hogy felfedezze Antisara ősi romjait, elmerülve a régió múltjában. Délben vezessen be Kavala központjába, hogy megnézze a grandiózus Konzervatóriumot és a Kamares vízvezetéket. A délutánt a Panagia-félszigeten, a lenyűgöző Muhammad Ali ház felfedezésével töltheti. Este vezessen keletre, és lazítson egy ital mellett a tengerparti Vranas Beach Barban.",
         "ro": "Conduceți spre vest dimineața pentru a explora ruinele antice din Antisara. La prânz, îndreptați-vă spre centrul Kavalei pentru a vedea grandiosul Conservator și impresionantul Apeduct Kamares. Petreceți după-amiaza pe peninsula Panagia, explorând casa magnifică a lui Muhammad Ali. Seara, conduceți spre est pentru a vă relaxa complet la barul de pe plaja exclusivistă Vranas.",
         "en": "Drive out west early to explore the ancient ruins of Antisara, immersing yourself in the region's distant past. By midday, head to Kavala's center to see the grand Conservatory and the awe-inspiring Kamares Aqueduct. Spend the afternoon parked near the Panagia peninsula, exploring the magnificent House of Mohamed Ali. For the evening, drive east to unwind completely at Vranas Beach Bar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto starten wir am antiken Antisara. Mittags besuchen wir das Konservatorium und das Aquädukt, wobei wir direkt davor parken können. Den Nachmittag verbringen wir im Haus von Mohamed Ali im Trockenen. Zum Abschluss fahren wir zur Vranas Resort Beach Bar, um den Blick auf das regnerische Meer geschützt zu genießen.",
+            "hu": "Kényelmesen, autóval indulunk az ókori Antisara romjaihoz. Délben a konzervatóriumot és az ívvezetéket keressük fel, ahol közvetlenül az épületek közelében parkolunk. A délutánt a Mohamed Ali ház fedett tereiben töltjük. Végül a Vranas Resort Beach Barhoz autózunk, hogy védett helyről csodáljuk az esős tenger látványát.",
+            "ro": "Pornim confortabil cu mașina spre anticul Antisara. La prânz vizităm conservatorul și apeductul, parcând chiar în fața lor pentru a evita ploaia. După-amiaza o petrecem în casa lui Mohamed Ali, la adăpost. În final, conducem spre Vranas Resort Beach Bar pentru a admira marea ploioasă dintr-un loc protejat.",
+            "en": "Comfortably by car, we start at Ancient Antisara. At noon, we visit the Conservatory and the Aqueduct, parking right in front to avoid the rain. We spend the afternoon inside Mohamed Ali’s house. Finally, we drive to Vranas Resort Beach Bar to enjoy the view of the rainy sea from a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antikes Antisara",
+                "hu": "Ókori Antisara",
+                "ro": "Anticul Antisara",
+                "en": "Ancient Antisara"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen guten Blick, falls der Regen zu stark für einen längeren Spaziergang durch die Ruinen ist.",
+                "hu": "A parkolóból is jó kilátás nyílik a romokra, ha az eső túl erős lenne egy hosszabb sétához a területen.",
+                "ro": "Aveți o vedere bună chiar din parcare, în cazul în care ploaia este prea puternică pentru o plimbare lungă printre ruine.",
+                "en": "You have a good view from the parking lot in case the rain is too heavy for a long walk through the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Konservatorium",
+                "hu": "Városi Konzervatórium",
+                "ro": "Conservatorul Municipal",
+                "en": "Municipal Conservatory"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe, um schnell und trocken in das architektonisch wertvolle Gebäude zu gelangen.",
+                "hu": "Használja a közeli parkolási lehetőségeket, hogy gyorsan és szárazon bejusson az építészetileg kiemelkedő épületbe.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a ajunge rapid și uscat în interiorul clădirii cu arhitectură deosebită.",
+                "en": "Use the nearby parking spots to quickly and dryly get inside this architecturally significant building."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquädukt von Kavala",
+                "hu": "Kavala vízvezeték",
+                "ro": "Apeductul din Kavala",
+                "en": "Aqueduct of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Sie können direkt unter den Bögen des Aquädukts hindurchfahren; ein beeindruckendes Erlebnis, auch wenn man im Auto bleibt.",
+                "hu": "Közvetlenül az ívvezeték boltívei alatt is áthajthat; lenyűgöző élmény még akkor is, ha az autóban marad.",
+                "ro": "Puteți conduce chiar pe sub arcadele apeductului; o experiență impresionantă chiar dacă rămâneți în mașină.",
+                "en": "You can drive directly under the arches of the aqueduct; an impressive experience even if you stay inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus von Mohamed Ali",
+                "hu": "Muhammad Ali háza",
+                "ro": "Casa lui Mohamed Ali",
+                "en": "The house of Mohamed Ali"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt durch die engen Gassen der Altstadt erfordert bei Nässe Konzentration; nutzen Sie den kleinen Parkplatz in der Nähe.",
+                "hu": "Az óváros szűk utcáin vizes időben óvatosan vezessen; használja a közeli kis parkolót a múzeum eléréséhez.",
+                "ro": "Conducerea pe străzile înguste din orașul vechi necesită atenție sporită pe ploaie; folosiți mica parcare din apropiere.",
+                "en": "Driving through the narrow streets of the Old Town requires concentration in the rain; use the small parking lot nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Vranas Resort Beach Bar",
+                "hu": "Vranas Resort Beach Bar",
+                "ro": "Vranas Resort Beach Bar",
+                "en": "Vranas Resort Beach Bar"
+              },
+              "tip_5lang": {
+                "de": "Die Bar bietet große Fensterfronten, von denen aus man die stürmische Ägäis beobachten kann, während man gemütlich im Trockenen sitzt.",
+                "hu": "A bár nagy üvegfelületein keresztül figyelheti a viharos Égei-tengert, miközben kényelmesen, száraz helyen pihen.",
+                "ro": "Barul oferă ferestre mari prin care puteți observa marea Egee agitată, în timp ce stați confortabil la adăpost.",
+                "en": "The bar features large windows from which you can watch the stormy Aegean Sea while sitting comfortably in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am antiken Antisara in der frischen Morgenluft. Mittags fahren wir zum Konservatorium und zum Aquädukt. Den Nachmittag verbringen wir im Haus von Mohamed Ali, wo wir die Geschichte im Warmen erleben. Zum Abschluss genießen wir den Sonnenuntergang gegen 17:00 Uhr am Vranas Resort, bevor wir im beheizten Auto zurückfahren.",
+            "hu": "A téli autós túra az ókori Antisara romjainál indul a friss reggeli levegőben. Délben a konzervatóriumhoz és az ívvezetékhez látogatunk el. A délutánt a Mohamed Ali ház meleg belső tereiben töltjük a múltat idézve. Végül a Vranas Resortnál élvezzük a korai, 17:00-as naplementét, mielőtt a fűtött autóval visszaindulunk.",
+            "ro": "Turul cu mașina iarna începe la anticul Antisara în aerul proaspăt al dimineții. La prânz conducem spre conservator și apeduct. După-amiaza o petrecem în interiorul cald al casei lui Mohamed Ali. În final, admirăm apusul de la ora 17:00 la Vranas Resort, înainte de a ne întoarce cu mașina încălzită.",
+            "en": "The winter car tour starts at Ancient Antisara in the fresh morning air. At noon, we drive to the Conservatory and the Aqueduct. We spend the afternoon in the warm interiors of Mohamed Ali’s house. Finally, we enjoy the early sunset around 17:00 at Vranas Resort before heading back in the heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antikes Antisara",
+                "hu": "Ókori Antisara",
+                "ro": "Anticul Antisara",
+                "en": "Ancient Antisara"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter oft menschenleer; genießen Sie die Ruhe des Ortes direkt am Meer, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A romok télen gyakran teljesen üresek; élvezze a tengerparti helyszín nyugalmát, mielőtt visszatérne felmelegedni az autóba.",
+                "ro": "Ruinele sunt adesea pustii iarna; bucurați-vă de liniștea locului de lângă mare înainte de a vă reîncălzi în mașină.",
+                "en": "The ruins are often deserted in winter; enjoy the peace of the seaside location before warming up again in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Konservatorium",
+                "hu": "Városi Konzervatórium",
+                "ro": "Conservatorul Municipal",
+                "en": "Municipal Conservatory"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um den Aufenthalt im Freien kurz zu halten; die helle Wintersonne lässt das Gebäude erstrahlen.",
+                "hu": "Parkoljon közvetlenül az épület előtt, hogy keveset kelljen a hidegben lennie; a téli napsütésben gyönyörűen fest a homlokzat.",
+                "ro": "Parcați chiar în față pentru a minimiza timpul petrecut afară; soarele strălucitor de iarnă pune în valoare clădirea.",
+                "en": "Park directly in front to keep your time outdoors brief; the bright winter sun makes the facade glow beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquädukt von Kavala",
+                "hu": "Kavala vízvezeték",
+                "ro": "Apeductul din Kavala",
+                "en": "Aqueduct of Kavala"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Fotostopp; die klare Winterluft bietet die besten Sichtverhältnisse auf die gesamte Struktur.",
+                "hu": "Tartson egy rövid fotómegállót; a tiszta téli levegőben látszik a legjobban az építmény monumentális szerkezete.",
+                "ro": "Faceți o scurtă oprire pentru poze; aerul clar de iarnă oferă cea mai bună vizibilitate asupra întregii structuri.",
+                "en": "Take a quick photo stop; the clear winter air offers the best visibility for capturing the entire structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus von Mohamed Ali",
+                "hu": "Muhammad Ali háza",
+                "ro": "Casa lui Mohamed Ali",
+                "en": "The house of Mohamed Ali"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den Nachmittag; die historischen Räume sind gut vor dem kalten Seewind geschützt und laden zum Verweilen ein.",
+                "hu": "Ideális délutáni program; a történelmi szobák jól védettek a hideg tengeri szél ellen, és hívogatnak a maradásra.",
+                "ro": "Un loc ideal pentru după-amiază; camerele istorice sunt bine protejate de vântul rece de mare și vă invită la vizitare.",
+                "en": "An ideal afternoon activity; the historical rooms are well protected from the cold sea breeze and invite a longer stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Vranas Resort Beach Bar",
+                "hu": "Vranas Resort Beach Bar",
+                "ro": "Vranas Resort Beach Bar",
+                "en": "Vranas Resort Beach Bar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über der Ägäis bei einem heißen Getränk, bevor es am frühen Abend merklich kühler wird.",
+                "hu": "Élvezze az Égei-tenger feletti naplementét egy forró ital társaságában, mielőtt a kora esti órákban lehűlne az idő.",
+                "ro": "Bucurați-vă de apusul peste marea Egee cu o băutură caldă, înainte ca seara să aducă o scădere vizibilă a temperaturii.",
+                "en": "Enjoy the sunset over the Aegean with a hot drink before the early evening brings a noticeable drop in temperature."
+              }
+            }
+          ]
+        }
       }
     }
   }

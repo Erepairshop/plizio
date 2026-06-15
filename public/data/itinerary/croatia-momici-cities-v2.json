@@ -137,6 +137,168 @@
         "hu": "A nap egy könnyű túrával kezdődik Kablina karsztvidékén, élvezve a friss reggeli levegőt. Délben Gnječi rusztikus kőházaihoz ér, ahol megelevenedik a történelem. Délután a Neretva partján sétálhat Krvavacban. Végül megcsodálhatja Kula Norinska 16. századi erődjét, miközben a nap lenyugszik a völgy felett.",
         "ro": "Ziua dvs. începe cu o drumeție ușoară prin peisajele carstice din Kablina, bucurându-vă de aerul proaspăt al dimineții. La amiază ajungeți la casele rustice din piatră din Gnječi. După-amiaza vă veți plimba de-a lungul malurilor râului Neretva în Krvavac. La final, admirați fortăreața din secolul al XVI-lea din Kula Norinska în timp ce soarele apune.",
         "en": "Your day begins with a gentle hike through the karst landscapes of Kablina, enjoying the serene morning air. Midday brings you to the rustic stone dwellings of Gnječi, where history feels alive. By afternoon, you'll wander along the Neretva riverbanks in Krvavac. Finally, marvel at the 16th-century fortress of Kula Norinska as the sun sets over the valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen um Momići ist nass, packen Sie einen stabilen Regenmantel und wasserdichte Schuhe ein. Mittags können die Schauer stärker werden, suchen Sie rechtzeitig Schutz an den alten Steingebäuden. Nachmittags sind die Wege oft schlammig und rutschig, gehen Sie sehr vorsichtig. Abends können Sie sich drinnen aufwärmen und nach diesem erfrischenden, aber feuchten Spaziergang trocknen.",
+            "hu": "A reggel esős Momići környékén, vízálló kabát és masszív túracipő elengedhetetlen. Délben a záporok erősödhetnek, ilyenkor keress menedéket a régi kőépületeknél. Délutánra a gyalogos ösvények sárosak és csúszósak lehetnek, lépj óvatosan és lassan. Estére térj be egy fűtött helyre, hogy megszáradj a frissítő, de meglehetősen nedves séta után.",
+            "ro": "Dimineața începe umed în Momići, așa că luați o pelerină robustă și ghete impermeabile. La prânz, ploile se pot înteți; căutați din timp adăpost lângă clădirile vechi de piatră. După-amiaza, potecile devin noroioase și foarte alunecoase, pășiți cu mare grijă. Seara, încălziți-vă la interior și uscați-vă hainele după această plimbare revigorantă prin ploaie.",
+            "en": "Morning starts wet around Momići, so equip a sturdy raincoat and waterproof boots. Midday showers might intensify; be ready to seek shelter near the older stone structures. Afternoon paths can get muddy and quite slippery, so step carefully along the natural routes. By evening, warm up indoors and dry off completely after a refreshing but rainy outdoor walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kablina",
+                "hu": "Kablina",
+                "ro": "Kablina",
+                "en": "Kablina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die mystische, nebelverhangene Naturlandschaft, aber tragen Sie zwingend wasserfestes Schuhwerk für den extrem nassen und weichen Boden.",
+                "hu": "Élvezd a ködbe burkolózó, misztikus természeti tájat, de viselj vízálló lábbelit, mert a talaj itt nagyon gyorsan átázik és sarassá válik.",
+                "ro": "Bucurați-vă de peisajul natural mistic învăluit în ceață, dar purtați neapărat încălțăminte impermeabilă, deoarece solul este extrem de ud.",
+                "en": "Enjoy the moody natural landscape wrapped in mist, but make sure to wear waterproof footwear as the ground here gets very soggy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnječi",
+                "hu": "Gnječi",
+                "ro": "Gnječi",
+                "en": "Gnječi"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen, die im Regen wunderbar dramatisch wirken; Vorsicht jedoch auf den extrem rutschigen, nassen Steinen.",
+                "hu": "Fedezd fel a történelmi kőromokat, amelyek különösen drámaiak az esőben; nagyon vigyázz a csúszós, egyenetlen és nedves köveken sétálva.",
+                "ro": "Explorați ruinele istorice care arată cu adevărat dramatic în ploaie; aveți mare grijă la pietrele umede, alunecoase și inegale la pas.",
+                "en": "Explore the historical stone ruins which look wonderfully dramatic in the rain; be extra careful on the slippery, uneven wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Krvavac",
+                "hu": "Krvavac",
+                "ro": "Krvavac",
+                "en": "Krvavac"
+              },
+              "tip_5lang": {
+                "de": "Das Flussufer ist bei Regen wunderschön, bleiben Sie jedoch fern von steilen, schlammigen Ufern, um nicht ins Wasser abzurutschen.",
+                "hu": "A folyópart csodás a záporok alatt, de maradj távol a meredek, sáros részektől, nehogy megcsússz és a hideg vízben köss ki.",
+                "ro": "Zona râului este superbă pe timp de ploaie, dar stați departe de malurile noroioase și abrupte pentru a nu aluneca accidental.",
+                "en": "The river area is beautiful during heavy showers, though you should stay away from steep, muddy banks to strictly avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Kula Norinska",
+                "hu": "Kula Norinska",
+                "ro": "Kula Norinska",
+                "en": "Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese mächtige Festung; stellen Sie sich bei einem plötzlichen Regenguss einfach sicher unter ihre massiven Steinbögen.",
+                "hu": "Csodáld meg a tekintélyes kőerődöt; állj be a masszív boltívek alá, és használd menedékként, ha hirtelen rákezdenek a heves záporok.",
+                "ro": "Admirați această fortăreață impunătoare; adăpostiți-vă direct sub arcadele sale masive de piatră dacă începe o ploaie torențială.",
+                "en": "Admire the imposing historic fortress; stand right under its heavy stone arches to find instant shelter if a sudden downpour starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Općina Kula Norinska",
+                "hu": "Općina Kula Norinska",
+                "ro": "Općina Kula Norinska",
+                "en": "Općina Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet weite Blicke auf düstere Regenwolken über dem Tal; bringen Sie einen Regenschirm mit, da es hier kein Dach gibt.",
+                "hu": "A kilátópontról remekül látni a völgy felett átvonuló sötét esőfelhőket; mindenképp hozz esernyőt, mert ezen a szakaszon nincs semmi fedél.",
+                "ro": "Punctul de belvedere oferă vederi ample asupra norilor de ploaie de peste vale; aduceți o umbrelă, deoarece nu există deloc acoperiș aici.",
+                "en": "The viewpoint offers sweeping views of heavy rain clouds moving over the valley; bring a sturdy umbrella as there's absolutely no cover here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Morgenluft in Momići ist frostig, dicke Thermokleidung und Handschuhe sind ein Muss. Die Mittagssonne wärmt kaum, aber der klare, kalte Himmel macht den Spaziergang sehr angenehm. Nachmittags werden die Schatten schnell länger. Gegen 17:00 Uhr wird es stockdunkel und eiskalt, beenden Sie Ihre kühle Tour rechtzeitig.",
+            "hu": "A téli reggel fagyos Momići környékén, a meleg termo rétegek, sál és kesztyű elengedhetetlen. A déli napsütés alig melegít, de a kristálytiszta égbolt élvezetessé teszi a sétát. Délután az árnyékok gyorsan megnőnek a völgyben. 17:00 órára teljesen lemegy a nap és sötét lesz, fejezd be korán a kinti fagyos programot.",
+            "ro": "Dimineața de iarnă în Momići este geroasă, necesitând straturi termice calde și mănuși. Soarele de la prânz oferă puțină căldură, dar cerul senin și rece face plimbarea foarte plăcută. După-amiaza, umbrele se lungesc rapid peste vale. Până la ora 17:00 se întunecă complet și se face frig, așa că terminați explorarea devreme.",
+            "en": "The winter morning air in Momići is crisp and frosty, requiring warm thermal layers, a scarf, and gloves. Midday sunshine offers little heat, but the clear skies make walking highly enjoyable. Afternoon shadows lengthen quickly across the valley. By 17:00, the sun sets and it gets freezing dark, so finish your outdoor walk early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kablina",
+                "hu": "Kablina",
+                "ro": "Kablina",
+                "en": "Kablina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das gefrorene Laub in dieser ruhigen Gegend; tragen Sie dicke Socken, da der gefrorene Boden Ihre Füße extrem schnell auskühlt.",
+                "hu": "Figyeld meg a zúzmarás növényzetet ezen a csendes helyen; viselj nagyon vastag zoknit, mert a fagyos talaj hamar áthűti a lábadat lentről.",
+                "ro": "Observați frunzișul înghețat în această zonă naturală liniștită; purtați șosete groase, deoarece solul complet înghețat vă va răci picioarele.",
+                "en": "Observe the frosted foliage in this quiet natural area; strictly wear thick winter socks as the completely frozen ground will chill your feet fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnječi",
+                "hu": "Gnječi",
+                "ro": "Gnječi",
+                "en": "Gnječi"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume geben den Blick auf die eisigen Ruinen frei; halten Sie die Hände warm, während Sie das frostige Gelände erkunden.",
+                "hu": "A csupasz téli fák többet engednek látni a történelmi romokból; tartsd a kezed vastag kesztyűkben a fagyos bejárás alatt.",
+                "ro": "Copacii goi de iarnă dezvăluie mai mult din ruinele istorice; țineți mâinile în buzunare calde în timp ce explorați situl foarte rece.",
+                "en": "The bare winter trees reveal much more of the historical ruins; keep your hands safely in warm pockets while navigating the chilly stone site."
+              }
+            },
+            {
+              "name": {
+                "de": "Krvavac",
+                "hu": "Krvavac",
+                "ro": "Krvavac",
+                "en": "Krvavac"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss wirkt im Winterlicht beeindruckend, doch der eiskalte Wind ist spürbar, wickeln Sie sich einen dicken Schal fest um den Hals.",
+                "hu": "A folyó sodrása lenyűgöző a téli fényben, de a szélhűtés itt extrém erős, így tekerj egy jó vastag sálat a nyakadba, nehogy megfázz.",
+                "ro": "Râul arată spectaculos în lumina de iarnă, deși vântul înghețat este intens aici, așa că înfășurați-vă un fular gros strâns în jurul gâtului.",
+                "en": "The river flow looks truly striking in winter light, though the wind chill here is very intense, so wrap a thick woolen scarf around your neck."
+              }
+            },
+            {
+              "name": {
+                "de": "Kula Norinska",
+                "hu": "Kula Norinska",
+                "ro": "Kula Norinska",
+                "en": "Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Dieser Steinturm wirft lange Schatten in der winterlichen Nachmittagssonne; beenden Sie die Tour unbedingt vor der frühen Dämmerung um 17:00.",
+                "hu": "A masszív kőtorony hosszú, drámai árnyékokat vet a téli délutáni napfényben; fejezd be a felfedezést a korai, 17:00 órás szürkület előtt.",
+                "ro": "Acest turn de piatră aruncă umbre lungi în soarele de iarnă; terminați obligatoriu explorarea înainte de amurgul timpuriu de la ora 17:00.",
+                "en": "This stone tower casts long, dramatic shadows in the afternoon winter sun; clearly finish exploring before the completely dark 17:00 twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Općina Kula Norinska",
+                "hu": "Općina Kula Norinska",
+                "ro": "Općina Kula Norinska",
+                "en": "Općina Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Licht der goldenen Stunde über der gefrorenen Landschaft, bevor die eisige und völlige Dunkelheit hereinbricht.",
+                "hu": "Kapd el az aranyóra utolsó fényeit a fagyos táj felett erről a kilátópontról, de indulj vissza azonnal, mielőtt beáll a dermesztő sötétség.",
+                "ro": "Prindeți lumina aurie peste peisajul complet înghețat de la acest punct de belvedere, dar plecați repede înainte să se lase întunericul rece.",
+                "en": "Catch the brief golden hour glow over the totally frozen landscape from this viewpoint, but leave quickly before the freezing dark fully sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját Mala Rujnica panorámás magasságaiban, majd ereszkedjen le a buja völgyekbe. Tartson békés déli pihenőt Kovač zöldellő környezetében és Gnječi történelmi aurájában. Délután pedálozzon zökkenőmentesen Kablina felé. Az este Kula Norinska ikonikus tornyának erős kőfalait csodálva zárul.",
         "ro": "Începeți aventura cu bicicleta escaladând înălțimile panoramice din Mala Rujnica înainte de a coborî în văi luxuriante. Opriți-vă pentru o pauză la prânz înconjurat de verdeața din Kovač și aura istorică din Gnječi. După-amiaza, pedalați spre Kablina. Seara se încheie admirând zidurile puternice de piatră ale turnului iconic din Kula Norinska.",
         "en": "Kick off your biking adventure scaling the panoramic heights of Mala Rujnica before descending into lush valleys. Stop for a peaceful midday rest surrounded by the greenery of Kovač and the historic aura of Gnječi. In the afternoon, pedal smoothly toward Kablina. Your evening wraps up admiring the strong stone walls of Kula Norinska's iconic tower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Radtour im Regen bei Momići erfordert absolut wasserfeste Kleidung und Schutzbleche. Mittags weichen die Feldwege stark auf, was langsames und vorsichtiges Lenken erfordert. Nachmittags werden asphaltierte Abschnitte sehr rutschig. Stellen Sie das Fahrrad abends sicher unter und trocknen Sie sich an einem warmen Ort.",
+            "hu": "Egy esős reggeli biciklizés Momići környékén jó sárvédőt és vízálló esőruhát kíván. Délben az eső feláztatja a földutakat, ami óvatos kormányzást és jóval lassabb tempót igényel. Délutánra az aszfaltozott részek veszélyesen csúszóssá válnak. Estére tedd biztonságos, fedett helyre a bringát és melegedj fel odabent.",
+            "ro": "Ciclismul prin Momići într-o dimineață ploioasă necesită echipament perfect impermeabil și aripi de noroi. La prânz, ploaia înmoaie potecile, necesitând prudență. După-amiaza, secțiunile pavate devin extrem de alunecoase. Seara, depozitați bicicleta în siguranță la interior și găsiți un loc uscat și cald pentru a vă relaxa.",
+            "en": "Cycling through Momići on a rainy morning means preparing for wet gear and strictly using mudguards. Midday rain softens the dirt paths, requiring careful steering and slower speeds. Afternoon showers make the paved sections very slick. By evening, safely store your bike under a roof and find a dry, warm place to fully relax."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mala Rujnica",
+                "hu": "Mala Rujnica",
+                "ro": "Mala Rujnica",
+                "en": "Mala Rujnica"
+              },
+              "tip_5lang": {
+                "de": "Die üppig grüne Landschaft wirkt im Regen lebendig, aber achten Sie auf extrem rutschige Baumwurzeln auf den nassen, schlammigen Radwegen.",
+                "hu": "A buja zöld táj nagyon élénk az esőben, de ügyelj a sáros kerékpárutakat keresztező, alattomosan csúszós gyökerekre a tekerés során.",
+                "ro": "Peisajul verde luxuriant arată vibrant în ploaie, dar atenție mare la rădăcinile foarte alunecoase ale copacilor de pe potecile noroioase.",
+                "en": "The lush green landscape looks vibrant in the rain, but closely watch out for very slippery tree roots crossing the wet, muddy biking paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovač",
+                "hu": "Kovač",
+                "ro": "Kovač",
+                "en": "Kovač"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die frische, regenreine Luft ein, aber halten Sie die Bremsen fest im Griff, da die steile Abfahrt auf diesem Boden sehr glatt ist.",
+                "hu": "Állj meg és szívd be a friss, eső áztatta levegőt, de fogd erősen a fékeket a markolaton, mert a lejtős szakaszok esőben kifejezetten csúsznak.",
+                "ro": "Opriți-vă pentru a respira aerul proaspăt spălat de ploaie, dar strângeți bine frânele, deoarece coborârea în această zonă poate fi alunecoasă.",
+                "en": "Stop to deeply breathe the fresh, rain-washed air here, but maintain a firm grip on your bike brakes as the muddy descent can be very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnječi",
+                "hu": "Gnječi",
+                "ro": "Gnječi",
+                "en": "Gnječi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die alten Ruinen durch den Nebel; fahren Sie auf keinen Fall direkt über die nassen Steine, sie bieten absolut keine Traktion.",
+                "hu": "Nézd meg a régi romokat a ködön át; szigorúan kerüld el, hogy közvetlenül az ősi nedves köveken tekerj, mert egyáltalán nem tapad rajtuk a gumi.",
+                "ro": "Priviți aceste ruine vechi prin ceață; evitați total să pedalați direct peste pietrele antice umede, deoarece nu oferă tracțiune pentru roți.",
+                "en": "View these old ruins beautifully through the mist; completely avoid cycling directly over the ancient wet stones as they offer zero tire traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Kablina",
+                "hu": "Kablina",
+                "ro": "Kablina",
+                "en": "Kablina"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause lässt Sie den feinen Nieselregen schätzen; schalten Sie das Fahrradlicht ein, da die Sicht bei diesem Wetter oft schlecht ist.",
+                "hu": "Egy rövid pihenő alatt élvezheted a csendes szitálást az erdőben; kapcsold be a biciklilámpákat a rossz látási viszonyok miatt a biztonságért.",
+                "ro": "O scurtă pauză aici vă permite să apreciați burnița liniștită; asigurați-vă că luminile bicicletei sunt aprinse din cauza vizibilității reduse.",
+                "en": "A brief pause here lets you fully appreciate the quiet drizzle; definitely ensure your bike lights are turned on due to the low visibility weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kula Norinska",
+                "hu": "Kula Norinska",
+                "ro": "Kula Norinska",
+                "en": "Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Lehnen Sie Ihr Rad an die mächtigen Festungsmauern und suchen Sie unter den Steinbögen trockenen Schutz, falls der Regen plötzlich stärker wird.",
+                "hu": "Támaszd a bringát a hatalmas erőd falának, és húzódj be azonnal a kőívek alá egy kis száraz pihenőre, ha hirtelen rákezdenek az erős záporok.",
+                "ro": "Parcați bicicleta de zidurile fortăreței pentru a vă adăposti uscat sub arcadele de piatră dacă ploaia devine brusc mult mai puternică.",
+                "en": "Park your bike against the mighty fortress walls to take dry shelter under the stone arches right away if the rain suddenly gets much heavier."
+              }
+            },
+            {
+              "name": {
+                "de": "Općina Kula Norinska",
+                "hu": "Općina Kula Norinska",
+                "ro": "Općina Kula Norinska",
+                "en": "Općina Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Regen im Tal; seien Sie auf der nassen Aussichtsplattform beim Laufen in Radschuhen extrem vorsichtig.",
+                "hu": "Élvezd a völgyön végigsöprő eső panorámáját; légy óvatos a nedves kilátóteraszon a biciklis cipődben, mielőtt meleg fedezéket keresnél estére.",
+                "ro": "Bucurați-vă de vederea ploii care străbate valea largă; fiți foarte prudenți pe platforma de vizionare udă înainte de a pleca spre cazare.",
+                "en": "Enjoy the sweeping view of rain sweeping the whole valley; use high caution walking on the wet viewing platform before heading to your shelter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Momići erfordert morgens winddichte Jacken und stark isolierte Handschuhe. Mittags ist das Fahren klar und frisch, aber der Fahrtwind beißt. Nachmittags sinken die Temperaturen im Schatten rasant ab. Wegen der sehr frühen Dunkelheit um 17:00 Uhr sind starke Fahrradlichter und Reflektoren zwingend Pflicht.",
+            "hu": "A téli reggeli kerékpározás Momićiban vastag szélálló dzsekit és bélelt kesztyűt kíván. Délben tiszta, fagyos időben tekerhetsz, de a menetszél nagyon csípős. Délután a hőmérséklet gyorsan zuhan, ahogy a nap eltűnik az árnyékban. A korai sötétedés miatt 17:00-kor már nagyon erős biciklilámpa és fényvisszaverő öltözet kell.",
+            "ro": "Ciclismul de iarnă în Momići necesită geci rezistente la vânt și mănuși bine izolate dimineața. Prânzul oferă condiții clare, dar vântul de la rulare poate fi tăios. După-amiaza, temperaturile scad rapid la umbră. Întunericul timpuriu de la ora 17:00 înseamnă că trebuie obligatoriu să folosiți lumini puternice și reflectoare.",
+            "en": "Winter cycling in Momići mornings deeply requires windproof jackets and thick insulated gloves. Midday offers crisp riding conditions, but the wind chill can be biting. Afternoon temperatures plummet fast as the sun drops behind the hills. The early dark at 17:00 strictly means you must use very strong bike lights and reflective gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mala Rujnica",
+                "hu": "Mala Rujnica",
+                "ro": "Mala Rujnica",
+                "en": "Mala Rujnica"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie durch die frostige Morgenlandschaft und halten Sie ein gleichmäßiges Tempo, um in der eisigen Winterluft am ganzen Körper warm zu bleiben.",
+                "hu": "Tekerd át magad a fagyos reggeli tájon, és tartsd az egyenletes, dinamikus tempót, hogy kimelegedj a csípős és tiszta téli levegőben.",
+                "ro": "Pedalați prin peisajul complet înghețat al dimineții, menținând un ritm constant pentru a vă încălzi rapid corpul în aerul rece de iarnă.",
+                "en": "Pedal actively through the frosty morning landscape here, strictly keeping your pace steady to stay properly warm in the freezing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovač",
+                "hu": "Kovač",
+                "ro": "Kovač",
+                "en": "Kovač"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die kahlen Winterzweige zu bewundern; extreme Vorsicht vor versteckten Eisflächen in den permanent schattigen Kurven.",
+                "hu": "Békés hely a csupasz téli ágak megcsodálására a nyeregben; rendkívül ügyelj a rejtett fekete jégfoltokra az út tartósan árnyékos kanyarulataiban.",
+                "ro": "Un loc seren pentru a admira crengile goale de iarnă; atenție maximă la peticele de gheață ascunse pe curbele umbrite permanent ale potecii.",
+                "en": "A serene spot to admire the stark bare winter branches; beware closely of entirely hidden black ice patches on the permanently shaded curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnječi",
+                "hu": "Gnječi",
+                "ro": "Gnječi",
+                "en": "Gnječi"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft lässt die Ruinen noch beeindruckender wirken; machen Sie auf dem Rad nur kurz Pause, damit Ihre warmen Muskeln nicht auskühlen.",
+                "hu": "A dermesztő levegőben a történelmi romok még zordabbnak hatnak; tartsd nagyon rövidre a megállót, nehogy a tekeréstől bemelegedett izmaid kihűljenek.",
+                "ro": "Aerul rece face ca ruinele să pară și mai dramatice; faceți o oprire scurtă pe bicicletă pentru ca mușchii calzi să nu se răcească deloc.",
+                "en": "The cold air makes the historical ruins look stark and beautiful; keep your cycling stop very brief so your warmed-up muscles absolutely don't freeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kablina",
+                "hu": "Kablina",
+                "ro": "Kablina",
+                "en": "Kablina"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie schnell einen heißen Tee aus der Thermoskanne, bevor der beißende Fahrtwind Ihre Körpertemperatur bei dieser Pause zu stark absenkt.",
+                "hu": "Igyál egy gyors korty forró teát a termoszodból ezen a békés helyen, mielőtt a fagyos menetszél és az állás túlságosan lehűtené a tested.",
+                "ro": "Luați o gură rapidă de ceai fierbinte din termos în această zonă, înainte ca vântul rece să vă scadă periculos de mult temperatura corpului.",
+                "en": "Take a quick, warming sip of hot tea from your thermos in this quiet area before the chilling wind lowers your body temperature completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Kula Norinska",
+                "hu": "Kula Norinska",
+                "ro": "Kula Norinska",
+                "en": "Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Die hohe Festung fängt die tiefstehende Wintersonne perfekt ein; fahren Sie unbedingt vor der Dämmerung weiter, die Wege werden rasch stockdunkel.",
+                "hu": "A magas erőd tökéletesen fogja be a laposan sütő téli napot; tekerj tovább az alkonyat előtt, mert a környék útjai hamar teljesen elsötétülnek.",
+                "ro": "Fortăreața înaltă prinde perfect soarele slab de iarnă; pedalați mai departe obligatoriu înainte de amurg, deoarece potecile din jur devin întunecate.",
+                "en": "The towering fortress catches the low winter sun perfectly; absolutely arrive before dusk because the surrounding biking paths get totally dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Općina Kula Norinska",
+                "hu": "Općina Kula Norinska",
+                "ro": "Općina Kula Norinska",
+                "en": "Općina Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das eisige Tal im schwindenden Licht und schalten Sie sofort die Fahrradlichter ein, da es ab ca. 17:00 Uhr lebensgefährlich dunkel ist.",
+                "hu": "Csodáld meg a halványuló fényben fürdő jeges völgyet, majd azonnal kapcsold fel a lámpákat, mert 17:00-kor teljes és veszélyes sötétség borul a tájra.",
+                "ro": "Admirați valea înghețată scăldată în lumina slabă, apoi aprindeți luminile bicicletei, deoarece la 17:00 se face întuneric total și periculos.",
+                "en": "Admire the icy valley bathed in rapidly fading light, then immediately switch on your bike's front and rear lights as 17:00 brings total darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje festői autózását a Desansko jezero nyugodt partjainál, élvezve a ködös reggeli vizeket. Délben menjen fel Mala Rujnica panorámás kilátásáért, majd Kovač csendes erdeibe. Később fedezze fel Gnječi festői települését és Krvavac folyóparti ösvényeit. Fejezze be a napot Kula Norinska lenyűgöző történelmi erődjénél.",
         "ro": "Începeți traseul pitoresc pe malurile liniștite ale Desansko jezero, bucurându-vă de apele de dimineață. La amiază urcați spre Mala Rujnica pentru vederi panoramice și pădurile din Kovač. Mai târziu, explorați așezarea pitorească Gnječi și cărările riverane din Krvavac. Încheiați ziua la Kula Norinska, o adevărată mărturie istorică.",
         "en": "Start your scenic drive at the tranquil shores of Desansko jezero, soaking in the misty morning waters. Midday takes you up to Mala Rujnica for panoramic views and then to the quiet woods of Kovač. Later, explore the quaint settlement of Gnječi and the riverside paths of Krvavac. End the day at Kula Norinska, witnessing centuries of history standing tall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrten um Momići sind stimmungsvoll, erfordern aber wegen Starkregen und schlechter Sicht sehr langsames Tempo. Mittags rennt man mit einem großen Schirm vom warmen Auto zu den Sehenswürdigkeiten. Nachmittags gibt es oft riesige Pfützen am Fluss. Abends fahren Sie extrem vorsichtig durch den dichten Regen zurück ins Trockene.",
+            "hu": "A reggeli vezetés Momići körül hangulatos, de a heves eső és a rossz látási viszonyok miatt nagyon lassú tempót követel. Délben nagy esernyővel kell átszaladni a meleg autóból a kinti látnivalókhoz. Délután a folyó menti utakon óriási tócsák gyűlhetnek össze. Este nagyon óvatosan vezess vissza a sűrű záporban a biztos fedett szállásra.",
+            "ro": "Condusul de dimineață în jurul Momići este atmosferic, dar necesită viteze mici din cauza ploii puternice. La prânz, fugiți de la mașina caldă la obiectivele turistice cu o umbrelă mare. După-amiaza, drumurile de lângă râu pot avea bălți uriașe. Seara, navigați cu mare atenție prin ploaia deasă înapoi spre un refugiu cald și uscat.",
+            "en": "Morning drives around Momići are highly atmospheric but strictly demand slow speeds due to heavy rain and low visibility. Midday stops involve dashing from the warm car to historical sights with an umbrella. Afternoon roads near the river can hold huge puddles. Evening brings a cozy retreat, simply navigate back carefully through the heavy downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Desansko jezero",
+                "hu": "Desansko jezero",
+                "ro": "Desansko jezero",
+                "en": "Desansko jezero"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht unter den schweren Regenwolken unglaublich mystisch aus; genießen Sie die Aussicht direkt aus dem bequemen Auto, um trocken zu bleiben.",
+                "hu": "A tó hihetetlenül drámai és hangulatos a sűrű esőfelhők alatt; élvezd a kilátást egyenesen a meleg autóülésből, hogy teljesen száraz maradj.",
+                "ro": "Lacul arată incredibil de sumbru sub norii grei de ploaie; bucurați-vă de priveliște direct din mașina confortabilă pentru a rămâne complet uscat.",
+                "en": "The lake looks incredibly moody under heavy rain clouds; perfectly enjoy the view directly from your car seat to stay completely dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Mala Rujnica",
+                "hu": "Mala Rujnica",
+                "ro": "Mala Rujnica",
+                "en": "Mala Rujnica"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um zu sehen, wie der Regen das üppige Grün wäscht; packen Sie einen stabilen Schirm ein, um für ein paar Fotos auszusteigen.",
+                "hu": "Egy gyors megálló, hogy lásd, ahogy a heves eső mossa a buja zöldet; vigyél egy stabil, nagy esernyőt, ha kiszállsz pár nedves fotót készíteni.",
+                "ro": "O oprire rapidă pentru a vedea cum ploaia spală verdeața luxuriantă; luați o umbrelă foarte robustă pentru a ieși să faceți câteva fotografii.",
+                "en": "A quick roadside stop to clearly see the rain washing over the lush greenery; pack a sturdy umbrella to safely step out for a few wet photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovač",
+                "hu": "Kovač",
+                "ro": "Kovač",
+                "en": "Kovač"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Felsen leuchten intensiv, aber parken Sie extrem vorsichtig am schlammigen Rand, damit das Auto nicht im weichen Boden stecken bleibt.",
+                "hu": "A nedves sziklák és a növényzet színei élénkek, de parkolj nagyon óvatosan a sáros útpadkán, nehogy az autód kereke elakadjon a felázott, puha talajban.",
+                "ro": "Stâncile umede strălucesc intens, dar parcați cu extremă grijă pe marginea noroioasă pentru ca mașina să nu se blocheze în pământul foarte moale.",
+                "en": "The wet rocks and flora are deeply vibrant, but park very carefully on the muddy shoulder so your car absolutely doesn't get stuck in the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnječi",
+                "hu": "Gnječi",
+                "ro": "Gnječi",
+                "en": "Gnječi"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie bei Nieselregen rasch vom geparkten Auto zu den Ruinen und weichen Sie den tiefen Pfützen um die unebenen, alten Steine gezielt aus.",
+                "hu": "Szaladj át a parkoló autótól ezekhez a történelmi romokhoz a csendes szitálásban, ügyesen elkerülve a régi kövek körül felgyülemlő mély tócsákat.",
+                "ro": "Fugiți rapid de la mașina parcată la aceste ruine istorice pe timp de burniță, evitând constant bălțile foarte adânci formate în jurul pietrelor.",
+                "en": "Run quickly from your parked car to these historic ruins during a light drizzle, actively avoiding the deep puddles forming around the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Krvavac",
+                "hu": "Krvavac",
+                "ro": "Krvavac",
+                "en": "Krvavac"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster runter, um den Regen auf dem Fluss zu hören; steigen Sie jedoch nur mit Gummistiefeln ins schlammige Flussufer.",
+                "hu": "Húzd le résnyire az ablakot, hogy halld az eső kopogását a folyó felszínén; kizárólag akkor szállj ki, ha van vízálló csizmád a nagyon sáros parthoz.",
+                "ro": "Deschideți ușor geamurile pentru a auzi ploaia lovind râul; ieșiți din mașină doar dacă aveți cizme de cauciuc impermeabile pentru malurile noroioase.",
+                "en": "Roll down the windows slightly to hear the rain hitting the river surface; only step out of the car if you wear waterproof boots for the muddy banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kula Norinska",
+                "hu": "Kula Norinska",
+                "ro": "Kula Norinska",
+                "en": "Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Die hoch aufragende Festung ist bei Sturm ein toller Anblick; ihre dicken Steinbögen bieten einen perfekten, trockenen Unterschlupf außerhalb des Autos.",
+                "hu": "A magas kőerőd lenyűgöző látvány a viharban; vastag boltívei kiváló száraz menedéket nyújtanak, miután végre kiszálltál a meleg járműből.",
+                "ro": "Fortăreața înaltă este o priveliște impresionantă pe furtună; arcadele sale groase de piatră oferă un refugiu uscat excelent după ce părăsiți mașina.",
+                "en": "The towering fortress is a striking sight in a heavy storm; its thick archways offer an excellent dry refuge right after you leave the vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgendliche Winterfahrten erfordern das gründliche Enteisen der Scheiben, bevor es ins frostige Tal geht. Mittags hält die Autoheizung Sie wunderbar warm zwischen den eisigen Spaziergängen. Nachmittags steht die Sonne gefährlich tief und blendet extrem. Der Sonnenuntergang um 17:00 Uhr macht die Rückfahrt im Auto sehr dunkel und potenziell glatt.",
+            "hu": "A téli reggeli autózás Momićiban alapos szélvédő jégmentesítéssel indul a fagyos völgy felé. Délben a kocsi fűtése tökéletesen melegen tart a rövid, csípős kinti séták között. Délután a nap vakítóan és veszélyesen alacsonyan süt az utakon. 17:00-kor hirtelen lemegy a nap, így az utolsó autós szakasz sötét és csúszósan jeges lesz.",
+            "ro": "Diminețile de iarnă în Momići implică dezghețarea completă a parbrizului înainte de a porni spre vale. Încălzirea mașinii vă menține confortabil la prânz între plimbările scurte. După-amiaza, soarele de iarnă este orbitor și periculos de jos. Apusul de la ora 17:00 face din ultima etapă la volan un drum întunecat și cu risc de gheață.",
+            "en": "Morning winter drives in Momići involve completely defrosting your windshield before heading into the frosty valley. Midday car heating keeps you perfectly cozy between short, chilly sightseeing walks. Afternoon sun is blindingly low on the road. Sunset hits right at 17:00, making the final stretch an icy, totally dark drive back to base."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Desansko jezero",
+                "hu": "Desansko jezero",
+                "ro": "Desansko jezero",
+                "en": "Desansko jezero"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Ufer des Sees glitzern wunderschön am kalten Wintermorgen; lassen Sie den Motor kurz laufen, um in der Kabine warm zu bleiben.",
+                "hu": "A tó szilárdra fagyott szélei gyönyörűen szikráznak a téli reggelen; nyugodtan hagyd járni a motort kicsit, hogy melegben maradj a nézelődés alatt.",
+                "ro": "Marginile complet înghețate ale lacului strălucesc frumos în dimineața rece; țineți motorul pornit puțin pentru a vă încălzi în cabina mașinii.",
+                "en": "The cleanly frozen edges of the lake sparkle beautifully in the winter morning; strictly keep the engine running slightly to stay warm inside the cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Mala Rujnica",
+                "hu": "Mala Rujnica",
+                "ro": "Mala Rujnica",
+                "en": "Mala Rujnica"
+              },
+              "tip_5lang": {
+                "de": "Vertreten Sie sich die Beine in der frischen Winterluft, aber ziehen Sie die dicke Jacke hoch, denn der eisige Wind im offenen Tal ist gnadenlos.",
+                "hu": "Nyújtsd ki a lábad a friss téli levegőben, de azonnal húzd fel a vastag kabátod cipzárját, mert a nyitott völgy jeges szele kint teljesen könyörtelen.",
+                "ro": "Întindeți picioarele în aerul proaspăt de iarnă aici, dar închideți repede geaca groasă, deoarece vântul înghețat din valea deschisă este nemilos.",
+                "en": "Stretch your legs in the crisp winter air here, but definitely zip up your heavy jacket quickly as the freezing open valley wind is totally merciless."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovač",
+                "hu": "Kovač",
+                "ro": "Kovač",
+                "en": "Kovač"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die frostbedeckten Felsen bequem aus dem warmen Auto; achten Sie auf gefährliches Blitzeis an den permanent schattigen Parkplätzen.",
+                "hu": "Figyeld meg a vastag dérrel borított sziklákat a fűtött autó kényelméből; nagyon vigyázz a fekete jégre, ami a tartósan árnyékos parkolóhelyeken képződik.",
+                "ro": "Observați stâncile acoperite de gheață din confortul mașinii încălzite; atenție mare la gheața neagră care se formează în locurile de parcare umbrite.",
+                "en": "Observe the thick frost-covered rocks straight from the comfort of the road; watch out extremely carefully for black ice forming in shadowy parking spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnječi",
+                "hu": "Gnječi",
+                "ro": "Gnječi",
+                "en": "Gnječi"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Spaziergang vom Auto offenbart die eiskalten Ruinen; ziehen Sie Thermohandschuhe an, bevor Sie draußen die kalte Kamera bedienen.",
+                "hu": "Egy rövid séta a parkoló autótól felfedi a drámai téli romokat; vegyél fel egy vastag termokesztyűt, mielőtt a kint jéghidegre hűlt kamerához érnél.",
+                "ro": "O scurtă plimbare de la mașină dezvăluie ruinele dramatice de iarnă; puneți-vă mănuși termice groase înainte de a folosi aparatul foto foarte rece.",
+                "en": "A brief walk from the parked car reveals the dramatic winter ruins; pop a pair of thermal gloves on before handling your uncomfortably icy camera outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Krvavac",
+                "hu": "Krvavac",
+                "ro": "Krvavac",
+                "en": "Krvavac"
+              },
+              "tip_5lang": {
+                "de": "Der langsame Flusslauf kontrastiert stark mit den Minusgraden; wickeln Sie sich fest in einen Schal, sobald Sie die beheizte Autokabine verlassen.",
+                "hu": "A folyó lassú sodrása éles kontrasztot alkot a kinti fagyos hőmérséklettel; rögtön tekerj fel egy sálat, amint kiszállsz az autó fűtött utasteréből.",
+                "ro": "Cursul lent al râului contrastează masiv cu temperaturile de îngheț; puneți-vă un fular gros imediat cum ieșiți din cabina mașinii bine încălzite.",
+                "en": "The river's slow flow heavily contrasts with the freezing temperatures; bundle up with a scarf immediately upon leaving the thoroughly heated car cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Kula Norinska",
+                "hu": "Kula Norinska",
+                "ro": "Kula Norinska",
+                "en": "Kula Norinska"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Festung hell in der tiefstehenden Nachmittagssonne leuchten; seien Sie sicher vor 17:00 Uhr zurück im Auto, wenn es draußen eiskalt wird.",
+                "hu": "Nézd, ahogy az erőd ragyog a nagyon alacsony délutáni napfényben; próbálj biztosan 17:00 előtt visszaérni a kocsiba, amikor a hőmérséklet drasztikusan bezuhan.",
+                "ro": "Vedeți fortăreața strălucind puternic în soarele slab de după-amiază; fiți înapoi în vehicul clar înainte de 17:00 când temperaturile scad absolut.",
+                "en": "See the historic fortress visibly glowing in the low afternoon sun; firmly aim to be back inside the vehicle before 17:00 when the temperatures absolutely drop."
+              }
+            }
+          ]
+        }
       }
     }
   }

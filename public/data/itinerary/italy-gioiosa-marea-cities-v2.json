@@ -160,6 +160,196 @@
         "hu": "A reggel az Antiquariumnál és a történelmi Torrettánál kezdődik.\n\nDélben csodálja meg a Grotta del Tono-t és a Palazzo Batolo homlokzatát.\n\nDélután látogasson el a békés Chiesa di Maria Santissima della Catena templomba.\n\nZárja sétáját a történelmi Chiesa del Convento templomnál.",
         "ro": "Dimineața începe la Antiquarium și la istorica Torretta.\n\nLa prânz, admirați de coastă Grotta del Tono și fațada Palazzo Batolo.\n\nDupă-amiaza vă aduce la liniștita Chiesa di Maria Santissima della Catena.\n\nÎncheiați turul la Chiesa del Convento, bucurându-vă de cultura locală.",
         "en": "Morning starts at the Antiquarium and the historic Torretta.\n\nMidday, admire the coastal Grotta del Tono and Palazzo Batolo's facade.\n\nAfternoon brings you to the peaceful Chiesa di Maria Santissima della Catena.\n\nConclude at Chiesa del Convento, enjoying the rich culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang im überdachten Museum. Gehen Sie vorsichtig zum Turm und zur Höhle, da die Wege rutschig sind. Bewundern Sie nachmittags den Palast und suchen Sie Schutz in den Kirchen. Wasserdichte Schuhe und ein Regenschirm sind unerlässlich für die Küstenschauer.",
+            "hu": "Esős sétánkat a fedett múzeumban kezdjük. A toronyhoz és a barlanghoz vezető utak sarasak lehetnek, óvatosan haladjunk. Délután csodáljuk meg a palotát, majd keressünk menedéket a történelmi templomokban. Vízálló cipő és strapabíró esernyő ajánlott a parti záporokhoz.",
+            "ro": "Începeți plimbarea ploioasă la muzeul acoperit. Navigați cu grijă spre turn și peșteră, deoarece potecile devin noroioase. După-amiaza, explorați palatul și căutați refugiu uscat în biserici. Purtați pantofi impermeabili și o umbrelă solidă pentru aversele de pe coastă.",
+            "en": "Begin your rainy walk at the indoor Antiquarium. Navigate carefully to the Torretta and cave as paths get muddy. Spend the afternoon exploring the grand Palazzo and seeking dry refuge in the historic churches. Wear waterproof shoes and carry a sturdy umbrella for the coastal showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiquarium Comunale",
+                "hu": "Antiquarium Comunale",
+                "ro": "Antiquarium Comunale",
+                "en": "Antiquarium Comunale"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Start drinnen; untersuchen Sie antike Artefakte und entkommen Sie dem Morgenregen.",
+                "hu": "Kiváló fedett kezdés; tanulmányozza az ókori leleteket, miközben elmenekül a reggeli eső elől.",
+                "ro": "Început excelent la interior; examinați artefactele antice în timp ce scăpați de ploaia de dimineață.",
+                "en": "Excellent indoor start; examine ancient artifacts while escaping the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretta",
+                "hu": "Torretta",
+                "ro": "Torretta",
+                "en": "Torretta"
+              },
+              "tip_5lang": {
+                "de": "Der Weg kann schlammig sein; nutzen Sie wasserdichte Schuhe, um diesen historischen Turm sicher zu sehen.",
+                "hu": "Az út saras lehet; használjon masszív, vízálló cipőt a történelmi torony biztonságos megtekintéséhez.",
+                "ro": "Poteca poate fi noroioasă; folosiți încălțăminte impermeabilă pentru a vedea acest turn istoric în siguranță.",
+                "en": "The path can be muddy; use sturdy waterproof shoes to view this historical tower safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Tono",
+                "hu": "Grotta del Tono",
+                "ro": "Grotta del Tono",
+                "en": "Grotta del Tono"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet natürlichen Schutz, aber Vorsicht am Eingang, da der Weg bei Nässe sehr rutschig ist.",
+                "hu": "A barlang természetes menedéket nyújt, de vigyázzon, mert a bejárati út vizesen csúszik.",
+                "ro": "Peștera oferă adăpost natural, dar aveți grijă la poteca de la intrare care alunecă la umezeală.",
+                "en": "The cave offers natural shelter, but watch your step as the entrance path is slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Batolo",
+                "hu": "Palazzo Batolo",
+                "ro": "Palazzo Batolo",
+                "en": "Palazzo Batolo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Fassade schnell unter Ihrem Regenschirm, bevor Sie ins Trockene gehen.",
+                "hu": "Csodálja meg a lenyűgöző homlokzatot az esernyő alól, mielőtt száraz helyre menne.",
+                "ro": "Admirați fațada impresionantă rapid de sub umbrelă înainte de a vă muta într-o zonă uscată.",
+                "en": "Admire the striking facade quickly from under your umbrella before moving to dry areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Santissima della Catena",
+                "hu": "Chiesa di Maria Santissima della Catena",
+                "ro": "Chiesa di Maria Santissima della Catena",
+                "en": "Chiesa di Maria Santissima della Catena"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die ruhige Atmosphäre zu genießen und sich kurz von den Schauern zu trocknen.",
+                "hu": "Lépjen be, hogy élvezze a csendes légkört, és egy pillanatra megszáradjon a záporoktól.",
+                "ro": "Intrați pentru a aprecia atmosfera liniștită și a vă usca un moment de la averse.",
+                "en": "Step inside to appreciate the quiet atmosphere and dry off for a moment from the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Convento",
+                "hu": "Chiesa del Convento",
+                "ro": "Chiesa del Convento",
+                "en": "Chiesa del Convento"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Rückzugsort im Innenbereich mit schöner Kunst, perfekt, um dem Nachmittagsregen zu entkommen.",
+                "hu": "Békés benti menedék gyönyörű művészettel, tökéletes a délutáni eső elöli menedékre.",
+                "ro": "Un refugiu interior liniștit, cu artă frumoasă, perfect pentru a scăpa complet de ploaia de după-amiază.",
+                "en": "A peaceful indoor retreat with beautiful art, perfect for completely escaping the afternoon rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kühlen Wintermorgen im beheizten Museum. Genießen Sie die frische Meeresbrise am Turm und an der Höhle, warm eingepackt. Beenden Sie den Spaziergang an den Kirchen am Nachmittag, bevor die frühe Dunkelheit um 17:00 Uhr Kälte bringt. Zwiebellook ist Pflicht.",
+            "hu": "Kezdje a csípős téli reggelt a fűtött múzeumban. Élvezze a friss tengeri szellőt a toronynál és a barlangnál, melegen felöltözve. Kora délután fejezze be sétáját a templomoknál, jóval a 17:00 órai naplemente előtt, amikor lehűl a levegő. A réteges öltözködés elengedhetetlen.",
+            "ro": "Începeți dimineața de iarnă la muzeul încălzit. Bucurați-vă de briza mării la turn și peșteră, îmbrăcându-vă călduros. Terminați plimbarea la biserici pe la mijlocul după-amiezii, cu mult înainte de apusul de la 17:00, când se face frig. Îmbrăcămintea în straturi este esențială.",
+            "en": "Start your crisp winter morning at the heated Antiquarium. Enjoy the bracing sea breeze at the tower and cave, wrapping up warmly. Finish your walk by the churches in the mid-afternoon, well before the early 17:00 sunset makes the air bitterly cold. Layered clothing is a must."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiquarium Comunale",
+                "hu": "Antiquarium Comunale",
+                "ro": "Antiquarium Comunale",
+                "en": "Antiquarium Comunale"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie in den beheizten Museumsräumen, um die lokale Geschichte vor der Winterkälte zu lernen.",
+                "hu": "Kezdjen a fűtött múzeumteremben, tanulja meg a helyi történelmet a téli hideg elviselése előtt.",
+                "ro": "Începeți în camerele încălzite ale muzeului pentru a învăța istoria locală înainte de a înfrunta frigul.",
+                "en": "Start in the heated museum rooms to learn local history before braving the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretta",
+                "hu": "Torretta",
+                "ro": "Torretta",
+                "en": "Torretta"
+              },
+              "tip_5lang": {
+                "de": "Der Seewind ist im Winter beißend, packen Sie sich also mit einem dicken Schal warm ein.",
+                "hu": "A tengeri szél harapós télen, ezért tekerje be magát vastag sállal a kilátás élvezetéhez.",
+                "ro": "Vântul mării este tăios iarna, așa că înfofoliți-vă cu un fular gros pentru a vă bucura de priveliște.",
+                "en": "The sea winds here are biting in winter, so wrap up warm with a thick scarf to enjoy the views."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Tono",
+                "hu": "Grotta del Tono",
+                "ro": "Grotta del Tono",
+                "en": "Grotta del Tono"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bleibt mild, aber tragen Sie eine dicke Jacke für den ungeschützten Küstenweg dorthin.",
+                "hu": "A barlang enyhe marad, de vegyen fel vastag kabátot az odavezető nyitott parti sétához.",
+                "ro": "Peștera rămâne blândă, dar purtați o jachetă groasă pentru plimbarea expusă pe coastă până acolo.",
+                "en": "The cave stays mild, but wear a thick jacket for the exposed coastal walk getting there."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Batolo",
+                "hu": "Palazzo Batolo",
+                "ro": "Palazzo Batolo",
+                "en": "Palazzo Batolo"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht hebt die architektonischen Details wunderbar hervor; perfekt für ein schnelles Foto.",
+                "hu": "Az alacsony téli fény gyönyörűen kiemeli az építészeti részleteket; tökéletes egy gyors fotóhoz.",
+                "ro": "Lumina joasă de iarnă evidențiază frumos detaliile arhitecturale; perfect pentru o fotografie rapidă.",
+                "en": "The low winter light highlights the architectural details beautifully; perfect for a quick crisp photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Santissima della Catena",
+                "hu": "Chiesa di Maria Santissima della Catena",
+                "ro": "Chiesa di Maria Santissima della Catena",
+                "en": "Chiesa di Maria Santissima della Catena"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp, bei dem Sie Ihre Hände aufwärmen und das religiöse Erbe bewundern können.",
+                "hu": "Békés megálló, ahol felmelegítheti a kezét, miközben megcsodálja a vallási örökséget.",
+                "ro": "O oprire senină unde vă puteți încălzi mâinile în timp ce admirați moștenirea religioasă profundă.",
+                "en": "A serene stop where you can warm up your hands while admiring the deep religious heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Convento",
+                "hu": "Chiesa del Convento",
+                "ro": "Chiesa del Convento",
+                "en": "Chiesa del Convento"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in dieser historischen Kirche und suchen Sie Schutz vor den sinkenden Temperaturen.",
+                "hu": "Zárja sétáját ebben a történelmi templomban, menedéket keresve a csökkenő késő délutáni hőmérséklet elől.",
+                "ro": "Încheiați plimbarea în această biserică istorică, adăpostindu-vă de scăderea temperaturilor de după-amiază.",
+                "en": "Conclude your walk in this historic church, taking shelter from the dropping late afternoon temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje útját az Antiquariumnál, majd tekerjen a Chiesa del Convento templomhoz.\n\nNézze meg a Palazzo Batolót és tekerjen a Grotta del Tono felé.\n\nDélután kerékpározzon el a festői Lido Capo Calavà strandra.\n\nFejezze be a napot a Földközi-tenger gyönyörű hullámai mellett pihenve.",
         "ro": "Începeți la Antiquarium, apoi pedalați spre Chiesa del Convento.\n\nVedeți Palazzo Batolo și mergeți la peștera Grotta del Tono.\n\nPetreceți după-amiaza pedalând spre frumosul Lido Capo Calavà.\n\nÎncheiați ziua relaxându-vă la soare lângă valurile uimitoare ale Mării Mediterane.",
         "en": "Begin your bike ride at the Antiquarium, then pedal to Chiesa del Convento.\n\nNext, view Palazzo Batolo and ride to the coastal Grotta del Tono.\n\nSpend your afternoon cycling along the scenic roads to Lido Capo Calavà.\n\nFinish the day relaxing by the beautiful Mediterranean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf nassen Straßen. Beginnen Sie im Museum. Fahren Sie vorsichtig an Kirche, Palast und Höhle vorbei und achten Sie auf rutschiges Kopfsteinpflaster. Enden Sie am stürmischen Strand. Tragen Sie gut sichtbare Regenkleidung und bremsen Sie früh.",
+            "hu": "Az esőben való kerékpározás fokozott óvatosságot igényel a csúszós utakon. Kezdjen a múzeumban. Óvatosan tekerjen a templom, a palota és a barlang felé, figyelve a vizes macskakövekre. Végül nézze meg a viharos tengerpartot. Vízálló, jól látható ruha és korai fékezés szükséges.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase. Începeți la muzeu pentru a sta uscat. Mergeți cu grijă pe lângă biserică, palat și peșteră, atenți la piatra cubică udă. Terminați la plaja furtunoasă. Purtați echipament impermeabil vizibil și frânați devreme.",
+            "en": "Cycling in the rain requires extra care on slick roads. Start at the museum to stay dry. Ride cautiously past the church, palace, and cave, watching out for slippery cobblestones. End at the dramatic, stormy beach. Wear high-visibility waterproof gear and brake early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiquarium Comunale",
+                "hu": "Antiquarium Comunale",
+                "ro": "Antiquarium Comunale",
+                "en": "Antiquarium Comunale"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad und trocknen Sie sich drinnen ab, während Sie die archäologischen Exponate erkunden.",
+                "hu": "Zárja le a biciklit, és száradjon meg bent, miközben felfedezi a lenyűgöző régészeti kiállításokat.",
+                "ro": "Asigurați-vă bicicleta și uscați-vă înăuntru în timp ce explorați expozițiile arheologice fascinante.",
+                "en": "Secure your bike and dry off inside while exploring the fascinating archaeological exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Convento",
+                "hu": "Chiesa del Convento",
+                "ro": "Chiesa del Convento",
+                "en": "Chiesa del Convento"
+              },
+              "tip_5lang": {
+                "de": "Ein trockenes Heiligtum; seien Sie sehr vorsichtig auf dem rutschigen Kopfsteinpflaster beim Parken.",
+                "hu": "Száraz menedék; legyen nagyon óvatos a csúszós macskaköveken, amikor leparkolja a vizes biciklit.",
+                "ro": "Un sanctuar uscat; fiți foarte atenți pe piatra cubică alunecoasă când parcați bicicleta udă.",
+                "en": "A dry sanctuary; be very careful on the slick cobblestones when parking your wet bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Batolo",
+                "hu": "Palazzo Batolo",
+                "ro": "Palazzo Batolo",
+                "en": "Palazzo Batolo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause für die Architektur; halten Sie die Bremsen auf nassen Gefällen bereit.",
+                "hu": "Tartson rövid szünetet az építészetért; tartsa készenlétben a fékeket a közeli nedves lejtőkön.",
+                "ro": "Faceți o scurtă pauză pentru arhitectură; țineți frânele pregătite pe coborârile ude din apropiere.",
+                "en": "Briefly pause for the architecture; keep your brakes ready on wet downhill sections nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Tono",
+                "hu": "Grotta del Tono",
+                "ro": "Grotta del Tono",
+                "en": "Grotta del Tono"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad in der Nähe des Eingangs, um ein Ausrutschen auf nassen Küstenwegen zu vermeiden.",
+                "hu": "Tolja a kerékpárt a bejárat közelében, hogy elkerülje a csúszást a vizes parti utakon.",
+                "ro": "Mergeți pe lângă bicicletă lângă intrare pentru a evita alunecarea pe potecile de coastă ude.",
+                "en": "Walk your bike near the entrance to avoid sliding on the wet, slippery coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Capo Calavà",
+                "hu": "Lido Capo Calavà",
+                "ro": "Lido Capo Calavà",
+                "en": "Lido Capo Calavà"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter einem Vordach, um das stürmische Meer zu beobachten, und schließen Sie das Rad ab.",
+                "hu": "Keressen menedéket egy tető alatt a viharos tenger nézéséhez, és zárja le biztonságosan a kerékpárt.",
+                "ro": "Căutați adăpost sub o copertină pentru a privi marea agitată, asigurându-vă că bicicleta este blocată.",
+                "en": "Seek shelter under a canopy to watch the stormy sea, making sure your bike is securely locked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine flotte Winterradtour bietet klare Küstenblicke. Starten Sie mit Geschichte und radeln Sie an Architektur vorbei, um warm zu bleiben. Die Seeluft ist frisch, aber beenden Sie die Tour vor 16:30 Uhr am Strand, da es nach Sonnenuntergang schnell abkühlt. Handschuhe sind wichtig.",
+            "hu": "A friss téli bringatúra tiszta parti kilátást nyújt. Kezdjen a történelemmel, majd tekerjen az építészeti gyöngyszemek felé, hogy bemelegedjen. A tengeri levegő frissítő, de 16:30 előtt érjen a partra, mert naplemente után gyorsan hűl a levegő. A kesztyű kötelező.",
+            "ro": "Un tur alert de iarnă oferă vederi clare pe coastă. Începeți cu istoria, apoi pedalați pe lângă bijuterii arhitecturale pentru a vă încălzi. Aerul este proaspăt, dar ajungeți la plajă și terminați înainte de 16:30, deoarece se răcește brusc după apus. Mănușile sunt vitale.",
+            "en": "A brisk winter cycling tour offers clear coastal views. Start with history, then pedal past architectural gems to stay warm. The crisp sea air is refreshing, but head to the beach and finish your ride before 16:30, as temperatures drop fast after sunset. Gloves are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiquarium Comunale",
+                "hu": "Antiquarium Comunale",
+                "ro": "Antiquarium Comunale",
+                "en": "Antiquarium Comunale"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre frierenden Hände nach der Morgenfahrt auf und tauchen Sie in die regionale Geschichte ein.",
+                "hu": "Melegítse fel a kezét a reggeli tekerés után, miközben elmélyed a helyi történelemben.",
+                "ro": "Încălziți-vă mâinile înghețate după cursa de dimineață în timp ce vă scufundați în istoria regională.",
+                "en": "Warm up your freezing hands after the morning ride while diving into regional history indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Convento",
+                "hu": "Chiesa del Convento",
+                "ro": "Chiesa del Convento",
+                "en": "Chiesa del Convento"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Wärme in diesem schönen Gebäude während Ihrer kühlen Morgenfahrt.",
+                "hu": "Élvezze a spirituális meleget ebben a gyönyörű épületben a frissítő reggeli kerékpározás során.",
+                "ro": "Bucurați-vă de căldura spirituală în interiorul acestei clădiri în timpul ciclismului de dimineață.",
+                "en": "Enjoy the spiritual warmth inside this beautiful building during your crisp morning cycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Batolo",
+                "hu": "Palazzo Batolo",
+                "ro": "Palazzo Batolo",
+                "en": "Palazzo Batolo"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die tiefe Wintersonne auf der eleganten historischen Fassade einzufangen.",
+                "hu": "Álljon meg egy pillanatra, hogy megörökítse az elegáns homlokzaton megcsillanó téli napfényt.",
+                "ro": "Opriți-vă scurt pentru a surprinde soarele de iarnă reflectându-se pe fațada istorică elegantă.",
+                "en": "Stop briefly to capture the low winter sun reflecting off the elegant historical facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Tono",
+                "hu": "Grotta del Tono",
+                "ro": "Grotta del Tono",
+                "en": "Grotta del Tono"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist hier eisig; halten Sie Ihre Fahrradjacke beim Erkunden komplett geschlossen.",
+                "hu": "A tengeri szellő itt jeges; tartsa teljesen összehúzva a kerékpáros kabátját a felfedezés során.",
+                "ro": "Briza mării este înghețată aici; țineți jacheta de ciclism complet închisă în timp ce explorați.",
+                "en": "The sea breeze is icy here; keep your cycling jacket completely zipped up while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Capo Calavà",
+                "hu": "Lido Capo Calavà",
+                "ro": "Lido Capo Calavà",
+                "en": "Lido Capo Calavà"
+              },
+              "tip_5lang": {
+                "de": "Das Wintermeer ist wunderschön, aber fahren Sie vor 16:30 Uhr zurück, um Frost im Dunkeln zu vermeiden.",
+                "hu": "A téli tenger zord, de 16:30 előtt induljon vissza, hogy elkerülje a sötét, fagyos utat.",
+                "ro": "Marea iarna este superbă, dar plecați înainte de 16:30 pentru a evita întoarcerea pe întuneric și frig.",
+                "en": "The winter sea is starkly beautiful, but leave before 16:30 to avoid riding back in the freezing dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autózzon a Chiesa di San Michele Arcangelo templomhoz, majd az Antiquariumhoz.\n\nParkoljon le, hogy felfedezze a Torrettát és a Palazzo Batolót.\n\nDélután tegyen egy rövid utat a lenyűgöző Lido Capo Calavà strandra.\n\nTöltse az estét a tökéletes tengerparti hangulat élvezetével.",
         "ro": "Conduceți la Chiesa di San Michele Arcangelo, apoi la Antiquarium.\n\nParcați central pentru a explora Torretta și grandiosul Palazzo Batolo.\n\nDupă-amiaza, faceți o scurtă plimbare până la superbul Lido Capo Calavà.\n\nPetreceți seara bucurându-vă de atmosfera perfectă pe plajă.",
         "en": "Drive to Chiesa di San Michele Arcangelo, then head to the Antiquarium.\n\nPark centrally to explore Torretta and the grand Palazzo Batolo.\n\nIn the afternoon, take a quick drive to the gorgeous Lido Capo Calavà.\n\nSpend the evening enjoying the perfect beachfront atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren ist perfekt an Regentagen. Huschen Sie schnell in die Kirche und das Museum. Genießen Sie den Blick auf Turm und Palast durch die Windschutzscheibe. Fahren Sie sicher zum Lido, um das stürmische Meer zu sehen. Halten Sie einen Regenschirm bereit und fahren Sie langsam.",
+            "hu": "Autózni tökéletes esős napokon. Szaladjon be a fedett látnivalókhoz, mint a templom és a múzeum. A tornyot és a palotát a szélvédő mögül is megcsodálhatja. Vezessen óvatosan a partra, és nézze a viharos tengert. Tartson kéznél esernyőt, és haladjon lassan a vizes utakon.",
+            "ro": "Condusul este perfect pentru o zi ploioasă. Fugiți rapid spre obiectivele interioare, precum biserica și muzeul. Admirați turnul și palatul de parbriz. Conduceți în siguranță până la plajă pentru a vedea marea agitată. Țineți o umbrelă la îndemână și conduceți încet pe drumurile ude.",
+            "en": "Driving is perfect for a rainy day. Dash between the car and indoor sights like the church and museum. Enjoy views of the tower and palace from behind your windshield. Drive safely to the Lido to watch the rainy sea. Keep an umbrella handy and drive slowly on wet coastal roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und nutzen Sie einen Regenschirm; das schöne Innere ist den Sprint durch den Regen wert.",
+                "hu": "Parkoljon közel, használjon esernyőt; a gyönyörű belső tér megéri a rohanást az esőben.",
+                "ro": "Parcați aproape și folosiți o umbrelă; interiorul frumos merită fuga prin ploaie.",
+                "en": "Park close and use an umbrella; the beautiful interior makes the dash through the rain worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiquarium Comunale",
+                "hu": "Antiquarium Comunale",
+                "ro": "Antiquarium Comunale",
+                "en": "Antiquarium Comunale"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Zufluchtsort im Trockenen, an dem Sie antike Artefakte völlig ungestört entdecken können.",
+                "hu": "Kiváló fedett menedék, ahol egy órát tölthet az ókori leletek felfedezésével teljesen szárazon.",
+                "ro": "Un refugiu interior excelent unde puteți petrece o oră descoperind artefacte antice complet uscat.",
+                "en": "A great indoor refuge where you can spend an hour discovering ancient artifacts completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretta",
+                "hu": "Torretta",
+                "ro": "Torretta",
+                "en": "Torretta"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen historischen Turm bequem vom Auto aus oder gehen Sie vorsichtig mit einem Regenschirm.",
+                "hu": "Nézze meg ezt a történelmi tornyot kényelmesen az autóból, vagy tegyen egy gyors, óvatos sétát esernyővel.",
+                "ro": "Vedeți acest turn istoric confortabil din mașină sau faceți o plimbare scurtă și atentă cu o umbrelă.",
+                "en": "View this historical tower comfortably from the car, or take a quick, cautious walk with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Batolo",
+                "hu": "Palazzo Batolo",
+                "ro": "Palazzo Batolo",
+                "en": "Palazzo Batolo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die großartige Architektur direkt durchs Autofenster, um den Küstenschauern fernzubleiben.",
+                "hu": "Élvezze a nagyszerű építészetet közvetlenül az ablakon keresztül, hogy kimaradjon a parti záporokból.",
+                "ro": "Bucurați-vă de arhitectura grandioasă direct prin geamul mașinii pentru a sta departe de ploile de coastă.",
+                "en": "Enjoy the grand architecture directly through the car window to stay out of the coastal downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Capo Calavà",
+                "hu": "Lido Capo Calavà",
+                "ro": "Lido Capo Calavà",
+                "en": "Lido Capo Calavà"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und beobachten Sie den dramatischen Regen über dem Mittelmeer von einem geschützten Ort.",
+                "hu": "Parkoljon le biztonságosan, és nézze a drámai esőt a Földközi-tenger felett egy védett, hangulatos helyről.",
+                "ro": "Parcați în siguranță și priviți ploaia dramatică peste Marea Mediterană dintr-un loc adăpostit și primitor.",
+                "en": "Park securely and watch the dramatic rain over the Mediterranean Sea from a sheltered, cozy spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche Winterfahrt an der Küste. Erkunden Sie morgens Kirche und Museum. Ziehen Sie sich am Turm und Palast warm an. Erreichen Sie den Strand am frühen Nachmittag, um die tiefe Wintersonne vor dem Sonnenuntergang um 17:00 Uhr zu genießen. Die Autoheizung ist ideal.",
+            "hu": "Élvezze a hangulatos téli autózást a parton. Látogassa meg a templomot és a múzeumot a reggeli órákban. Öltözzön fel a toronynál és a palotánál a hideg szél miatt. Kora délután érjen a partra, hogy élvezze a téli napsütést a 17:00 órás naplemente előtt. Az autófűtés a legjobb barátja.",
+            "ro": "Bucurați-vă de o plimbare confortabilă cu mașina iarna. Explorați biserica și muzeul dimineața. Îmbrăcați-vă gros pentru aerul rece la turn și palat. Ajungeți la plajă după-amiaza devreme pentru a prinde soarele de iarnă înainte de apusul de la 17:00. Încălzirea mașinii e perfectă.",
+            "en": "Enjoy a cozy winter drive along the coast. Step out to explore the church and museum in the morning. Wrap up to feel the brisk air at the tower and palace. Reach the beach in the early afternoon to catch the low winter sun before it sets around 17:00. The car heater is your best friend."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem beheizten Auto, um die friedliche Atmosphäre dieser historischen Kirche zu bewundern.",
+                "hu": "Lépjen ki a fűtött autóból, hogy gyorsan megcsodálja e történelmi templom békés légkörét.",
+                "ro": "Ieșiți din mașina încălzită pentru a admira rapid atmosfera pașnică a acestei biserici istorice.",
+                "en": "Step out of the heated car to quickly admire the peaceful atmosphere of this historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiquarium Comunale",
+                "hu": "Antiquarium Comunale",
+                "ro": "Antiquarium Comunale",
+                "en": "Antiquarium Comunale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warmen Ausstellungen zur lokalen Geschichte abseits des beißenden Windes draußen.",
+                "hu": "Élvezze a meleg, benti kiállításokat, amelyek a helyi történelmet mutatják be a kinti harapós szél elől védve.",
+                "ro": "Bucurați-vă de expozițiile calde din interior, care detaliază istoria locală bogată, departe de vântul tăios.",
+                "en": "Enjoy the warm, indoor exhibits detailing the rich local history away from the biting wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretta",
+                "hu": "Torretta",
+                "ro": "Torretta",
+                "en": "Torretta"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist stark und kalt; knöpfen Sie Ihren Wintermantel zu, bevor Sie zum Turm gehen.",
+                "hu": "A tengeri szél erős és hideg; gombolja be a télikabátját, mielőtt kilépne a toronyhoz.",
+                "ro": "Briza mării este puternică și rece; încheiați-vă paltonul de iarnă înainte de a ieși să vedeți turnul.",
+                "en": "The sea breeze is strong and cold; button up your winter coat before stepping out to see the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Batolo",
+                "hu": "Palazzo Batolo",
+                "ro": "Palazzo Batolo",
+                "en": "Palazzo Batolo"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter kurzer Stopp, um die beeindruckende Fassade im weichen, flachen Wintersonnenlicht zu fotografieren.",
+                "hu": "Tökéletes gyors megálló a lenyűgöző homlokzat fotózásához a lágy, alacsony szögű téli napsütésben.",
+                "ro": "O oprire rapidă perfectă pentru a fotografia fațada impresionantă în lumina blândă și joasă a soarelui de iarnă.",
+                "en": "A perfect quick stop to photograph the impressive facade in the soft, low angle winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Capo Calavà",
+                "hu": "Lido Capo Calavà",
+                "ro": "Lido Capo Calavà",
+                "en": "Lido Capo Calavà"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen friedlichen Winterspaziergang am Strand, aber kehren Sie vor dem frühen Sonnenuntergang zurück.",
+                "hu": "Élvezze a békés téli sétát a tengerparton, de induljon vissza a korai naplemente előtti hőmérséklet-esés előtt.",
+                "ro": "Bucurați-vă de o plimbare de iarnă pe plajă, dar întoarceți-vă înainte de apus pentru a evita frigul brusc.",
+                "en": "Enjoy a peaceful winter walk on the beach, but head back before the early sunset drops the temperature."
+              }
+            }
+          ]
+        }
       }
     }
   }

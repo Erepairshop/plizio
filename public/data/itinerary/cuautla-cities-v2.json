@@ -137,6 +137,168 @@
         "hu": "Cuautlai gyalogtúránk a történelmi Casa de Morelosnál kezdődik, ahol elmerülhetünk a forradalmi múltban.\n\nTovábbsétálunk a nyüzsgő vasúti múzeum felé, és útba ejtjük a szimbolikus Zászló Emlékművet is.\n\nA délután felfrissülést hoz, amikor meglátogatjuk a Balneario Los limones medencéit, hogy lehűljünk.\n\nA napot az Agua Linda nyugodt, családbarát környezetében zárjuk, ahogy a nap lemegy a forrásvizek felett.",
         "ro": "Turul nostru pietonal prin Cuautla începe la istorica Casa de Morelos.\n\nContinuăm către vibrantul muzeu feroviar și trecem pe lângă simbolicul Monument al Steagului.\n\nDupă-amiaza aduce o ușurare răcoroasă pe măsură ce vizităm Balneario Los limones pentru a ne răcori.\n\nÎncheiem ziua la Agua Linda, bucurându-ne de o atmosferă relaxată și prietenoasă, odată cu apusul soarelui.",
         "en": "Our walking tour of Cuautla begins at the historic Casa de Morelos, where we dive into the city's rich revolutionary past.\n\nWe continue to the vibrant railway museum and pass by the symbolic Flag Monument for a quick photo opportunity in the bustling center.\n\nThe afternoon brings refreshing relief as we visit Balneario Los limones to cool off in the local aquatic pools.\n\nWe conclude the day at Agua Linda, enjoying a relaxed family-friendly atmosphere as the sun sets over the spring waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in faszinierenden Museen, um den Regenschauern zu entgehen. Mittags führt ein kurzer Spaziergang zur Eisenbahngeschichte. Die nachmittäglichen Wasserparks sind im warmen Thermalwasser ein Genuss, aber achten Sie auf rutschige Wege. Beenden Sie den Abend in einem gemütlichen, überdachten Restaurant, während es draußen weiter regnet.",
+            "hu": "A reggelt kezdje a fedett múzeumok felfedezésével, hogy elkerülje a zivatarokat. Délben egy esernyős séta vezet a vasúttörténeti kiállításokhoz. A délutáni fürdők még esőben is élvezetesek a meleg termálvizekben, de ügyeljen a csúszós utakra. Az estét egy hangulatos, fedett helyi étteremben zárja, miközben kint tovább csepereg az eső.",
+            "ro": "Începeți dimineața explorând muzee la interior pentru a scăpa de ploaie. La prânz, o scurtă plimbare sub umbrelă vă duce la istoria feroviară. Parcurile acvatice de după-amiază rămân plăcute în bazinele termale, dar atenție la aleile alunecoase. Încheiați seara într-un restaurant acoperit, în timp ce ploaia continuă să cadă mărunt afară.",
+            "en": "Start the morning exploring fascinating indoor museums to escape the downpours. By midday, take a short, umbrella-shielded walk to the railway exhibits. The afternoon water parks are still enjoyable if you stick to the warm thermal pools, but watch out for slippery paths. Conclude your evening at a cozy, covered restaurant while the rain continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Leben von Morelos in diesem Haus, das einen perfekten trockenen Zufluchtsort bietet, um während der Morgenschauer Neues zu lernen.",
+                "hu": "Fedezze fel Morelos életét ebben a történelmi házban, amely tökéletes száraz menedék a függetlenség megismerésére a heves reggeli záporok idején.",
+                "ro": "Explorați viața lui Morelos în această casă istorică, un refugiu uscat perfect pentru a învăța despre independență în timpul ploilor de dimineață.",
+                "en": "Explore Morelos' life inside this historic house, offering a perfectly dry refuge to learn about local independence history during the heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo vivencia ferrocarril 279",
+                "hu": "Museo vivencia ferrocarril 279",
+                "ro": "Museo vivencia ferrocarril 279",
+                "en": "Museo vivencia ferrocarril 279"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die alten Waggons der Eisenbahngeschichte, aber treten Sie äußerst vorsichtig auf die nassen, sehr rutschigen Metallstufen und Bahnsteige.",
+                "hu": "Lépjen be a régi vonatvagonokba a vasúti történelemért, de óvatosan lépkedjen a nedves és rendkívül csúszós fém lépcsőkön és nyitott peronokon.",
+                "ro": "Urcați în vechile vagoane pentru istoria feroviară, dar pășiți cu mare grijă pe scările metalice și platformele exterioare, care sunt umede și alunecoase.",
+                "en": "Step inside the old vintage train carriages to uncover fascinating railway history, but tread very carefully on the wet, slippery metal stairs and open platforms."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie dieses historische Denkmal schnell unter Ihrem robusten Regenschirm, bevor Sie weitergehen, um durch den Dauerregen nicht völlig nass zu werden.",
+                "hu": "Csodálja meg ezt a lenyűgöző történelmi emlékművet gyorsan a masszív esernyője alól, mielőtt továbbállna, hogy elkerülje a tartós eső miatti bőrig ázást.",
+                "ro": "Admirați acest monument istoric rapid de sub o umbrelă rezistentă înainte de a merge mai departe pentru a evita să vă udați complet de ploaia constantă.",
+                "en": "Take time to admire this striking historical monument quickly from under your sturdy umbrella before moving on to avoid getting completely soaked by the steady rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneario Los limones",
+                "hu": "Balneario Los limones",
+                "ro": "Balneario Los limones",
+                "en": "Balneario Los limones"
+              },
+              "tip_5lang": {
+                "de": "Die wunderbar warmen Thermalbecken bieten eine tolle Flucht; tragen Sie einfach rutschfeste Badeschuhe, um nicht auf den nassen Wegen auszurutschen.",
+                "hu": "A kellemesen meleg termálmedencék remek esős napi kikapcsolódást nyújtanak; csak viseljen vízicipőt, hogy elkerülje a csúszást a nedves utakon.",
+                "ro": "Bazinele termale incredibil de calde oferă o evadare excelentă; asigurați-vă că purtați încălțăminte de apă pentru a nu aluneca pe aleile umede din jur.",
+                "en": "The delightfully warm thermal pools offer a great rainy day escape; just make sure to wear sturdy water shoes to prevent slipping on the wet paths around the pools."
+              }
+            },
+            {
+              "name": {
+                "de": "AGUA LINDA",
+                "hu": "AGUA LINDA",
+                "ro": "AGUA LINDA",
+                "en": "AGUA LINDA"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die überdachten Becken und das beruhigende Geräusch des Regens. Bringen Sie ein großes, vollständig trockenes Handtuch für danach mit.",
+                "hu": "Élvezze a fedett medencerészeket és az eső nyugtató kopogását a tetőn, és hozzon magával egy nagy, teljesen száraz törölközőt a kiszálláshoz.",
+                "ro": "Bucurați-vă de secțiunile acoperite și de sunetul liniștitor al ploii pe acoperiș, aducând un prosop mare și complet uscat pentru când ieșiți din apă.",
+                "en": "Relax and enjoy the covered pool sections and the soothing sound of rain on the roof, making sure to bring a large, completely dry towel for when you finally get out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenstunden sind ideal, um das lokale Erbe in einer leichten Jacke zu erkunden. Die Mittagssonne wärmt die Stadt auf. Die nachmittäglichen Thermalbäder sind in der kühleren Winterluft wunderbar entspannend. Abends sinken die Temperaturen nach dem Sonnenuntergang um 17:00 Uhr schnell, was deutlich wärmere Kleidung und heiße Getränke erfordert.",
+            "hu": "A hűvös reggelek ideálisak a helyi örökség felfedezésére egy könnyű kabátban. A déli napsütés felmelegíti a várost. A délutáni termálfürdők csodálatosan pihentetőek a hűvösebb téli levegőn. Az esti hőmérséklet a 17:00 órai naplemente után gyorsan csökken, ami melegebb rétegeket és forró italokat kíván.",
+            "ro": "Diminețile sunt răcoroase, ideale pentru a explora patrimoniul local cu o jachetă ușoară. Soarele de la prânz încălzește orașul. Băile termale de după-amiază sunt minunat de relaxante în aerul mai rece de iarnă. Serile aduc o scădere rapidă a temperaturii după apusul de la 17:00, necesitând haine mai groase.",
+            "en": "Mornings are crisp, ideal for exploring the local heritage in a light jacket. Midday sun warms the city, making outdoor monuments pleasant. Afternoon thermal baths are wonderfully relaxing against the cooler winter air. Evenings drop in temperature quickly after the 17:00 sunset, calling for warmer layers and hot drinks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte in der kühlen Morgenluft; die dicken Kolonialwände halten den Innenraum empfindlich kühl, tragen Sie also warme Schichten.",
+                "hu": "Fedezze fel a helyi történelmet a hűvös reggeli levegőn; a vastag gyarmati falak hidegen tartják a belső teret, ezért feltétlenül viseljen meleg rétegeket.",
+                "ro": "Descoperiți istoria locală în aerul răcoros al dimineții; pereții coloniali groși mențin interiorul destul de rece, așa că asigurați-vă că purtați straturi calde.",
+                "en": "Discover local history in the cool morning air; the thick colonial walls keep the interior quite chilly, so make sure to wear comfortably warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo vivencia ferrocarril 279",
+                "hu": "Museo vivencia ferrocarril 279",
+                "ro": "Museo vivencia ferrocarril 279",
+                "en": "Museo vivencia ferrocarril 279"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie in der milden Wintermittagssonne in die Oldtimer-Züge ein und machen Sie klare, wunderschöne Fotos ganz ohne den intensiven Sommerhitzedunst.",
+                "hu": "Szálljon fel a klasszikus vonatokra az enyhe téli déli napsütésben, tiszta, gyönyörű fotókat készítve az intenzív, párás nyári hőség nélkül.",
+                "ro": "Urcați în trenurile de epocă în soarele blând al amiezii de iarnă, făcând fotografii clare și superbe, fără ceața intensă cauzată de căldura verii.",
+                "en": "Climb aboard the vintage trains in the mild winter midday sun, capturing clear, beautiful photos completely without the intense summer heat haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Der kristallklare Winterhimmel bietet eine atemberaubende Kulisse für dieses Nationaldenkmal, perfekt für ein schnelles, helles Nachmittagsfoto.",
+                "hu": "A kristálytiszta téli égbolt lenyűgöző, éles hátteret biztosít ennek a nemzeti emlékműnek, amely tökéletes egy gyors, világos délutáni fotóhoz.",
+                "ro": "Cerul senin de iarnă oferă un fundal uimitor și clar pentru acest monument național, absolut perfect pentru o fotografie rapidă și luminoasă de după-amiază.",
+                "en": "The crystal clear winter sky provides a stunning, crisp backdrop for this national monument, perfectly ideal for a quick, bright afternoon photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneario Los limones",
+                "hu": "Balneario Los limones",
+                "ro": "Balneario Los limones",
+                "en": "Balneario Los limones"
+              },
+              "tip_5lang": {
+                "de": "Der Winter ist die absolut beste Zeit für diese Thermalwässer und bietet einen wohltuenden, heißen Kontrast zu den herrlich kühlen Brisen im Freien.",
+                "hu": "A tél a legideálisabb időszak ezekhez a termálvizekhez, nyugtató, forró kontrasztot nyújtva a friss, hűvös szabadtéri szellőkkel szemben.",
+                "ro": "Iarna este momentul absolut ideal pentru aceste ape termale, oferind un contrast liniștitor și fierbinte cu brizele reci și proaspete de afară.",
+                "en": "Winter is the absolute best time of year for these thermal waters, providing a soothing, hot contrast to the crisp, chilly outdoor winter breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "AGUA LINDA",
+                "hu": "AGUA LINDA",
+                "ro": "AGUA LINDA",
+                "en": "AGUA LINDA"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie sich im warmen Wasser, während sich der frühe Wintersonnenuntergang um 17:00 Uhr nähert und Ihre Tour entspannt und gemütlich beendet.",
+                "hu": "Pihenjen a meleg vizekben, ahogy közeledik a korai, 17:00 órai téli naplemente, hangulatos, alkonyati befejezést adva az egész napos gyalogos túrának.",
+                "ro": "Relaxați-vă în apele calde pe măsură ce se apropie apusul devreme de iarnă la 17:00, aducând un sfârșit confortabil și plin de atmosferă turului dumneavoastră.",
+                "en": "Relax in the warm waters as the early 17:00 winter sunset fast approaches, bringing a cozy, twilight end to your completely fulfilling full day walking tour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpáros útvonal délen kezdődik az Ex Hacienda Coauixtla lenyűgöző romjainál, bepillantást nyújtva a gyarmati korszakba.\n\nVisszatekerve a központba, felfedezzük a Casa de Morelos-t és az izgalmas gőzmozdonyokat a vasúti múzeumban.\n\nEgy rövid megálló után a Zászló Emlékműnél kelet felé tekerünk a híres termálvizek felé.\n\nA kellemes estét a Balneario Agua Hedionda gyógyító, kénes meleg forrásaiban fürdőzve töltjük el.",
         "ro": "Traseul de biciclete începe la ruinele captivante ale Ex Hacienda Coauixtla.\n\nÎntorcându-ne în centru, explorăm Casa de Morelos și vechile locomotive cu abur la muzeul feroviar.\n\nDupă o scurtă oprire la Monumento a la Bandera, mergem spre est spre faimoasele ape termale.\n\nNe petrecem o seară relaxantă scăldându-ne în izvoarele termale vindecătoare de la Balneario Agua Hedionda.",
         "en": "The bike route starts south at the captivating ruins of Ex Hacienda Coauixtla, offering a glimpse into Mexico's grand colonial era.\n\nCycling back to the city center, we explore the Casa de Morelos and the intriguing old steam engines at the railway museum.\n\nAfter a brief stop at the Monumento a la Bandera, we ride east toward the famous thermal waters.\n\nWe spend a relaxing evening soaking in the healing, sulfurous hot springs of Balneario Agua Hedionda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrten erfordern Vorsicht. Morgens an der historischen Hacienda fordern schlammige Wege gute Reifen. Mittags bieten überdachte Museen eine willkommene Pause von den Schauern. Nachmittags macht der Regen das Radfahren anspruchsvoll; tragen Sie stets Warnkleidung. Abende verbringt man am besten drinnen, da die rutschigen Straßen sehr gefährlich werden.",
+            "hu": "Az esős túrák óvatosságot igényelnek; a reggelek a történelmi haciendánál kezdődnek, ahol a sáros utak jó gumikat követelnek. A dél fedett múzeumokba vezet, menedéket adva a záporok elől. Délután az eső megnehezíti a kerékpározást, viseljen láthatósági felszerelést. Az estéket a legjobb bent tölteni, mivel a csúszós utak veszélyessé válnak.",
+            "ro": "Plimbările ploioase necesită prudență; diminețile încep la hacienda istorică unde cărările noroioase cer anvelope bune. Prânzul aduce muzee la interior, oferind o pauză de la ploaie. După-amiaza, ploaia face ciclismul dificil, purtați echipament vizibil. Serile sunt cel mai bine petrecute înăuntru, deoarece drumurile alunecoase devin periculoase.",
+            "en": "Rainy rides require caution; mornings start at the historic hacienda where muddy paths demand good tires. Midday transitions to indoor museums, offering a welcome break from the downpours. By afternoon, the rain makes cycling to the monument and thermal baths challenging, so wear high-visibility gear. Evenings are best spent indoors as slick roads become hazardous."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ex Hacienda Coauixtla",
+                "hu": "Ex Hacienda Coauixtla",
+                "ro": "Ex Hacienda Coauixtla",
+                "en": "Ex Hacienda Coauixtla"
+              },
+              "tip_5lang": {
+                "de": "Die Erkundung dieser majestätischen Ruinen ist im Regen sehr stimmungsvoll, aber achten Sie auf dem Fahrrad auf tiefen Schlamm und rutschige Steine.",
+                "hu": "Ezeknek a fenséges romoknak a felfedezése nagyon hangulatos esőben, de kerékpározás közben fokozottan ügyeljen a mély sárra és a csúszós ősi kövekre.",
+                "ro": "Explorarea acestor ruine mărețe este plină de atmosferă în ploaie, dar atenție maximă la noroiul adânc și pietrele vechi alunecoase pe bicicletă.",
+                "en": "Exploring these majestic ruins is deeply atmospheric in the rain, but actively watch out for deep mud and notoriously slippery ancient stones on your bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich drinnen ab, während Sie in diesem komplett überdachten Kolonialgebäude etwas über die Geschichte lernen.",
+                "hu": "Parkolja le a kerékpárt, és száradjon meg bent, miközben a függetlenség történetéről tanul ebben a jól megőrzött és teljesen fedett gyarmati épületben.",
+                "ro": "Parcați bicicleta și uscați-vă înăuntru în timp ce învățați despre independență în această clădire colonială complet acoperită și extrem de bine conservată.",
+                "en": "Safely park your bike and dry off inside while learning about independence history in this beautifully well-preserved and completely covered colonial building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo vivencia ferrocarril 279",
+                "hu": "Museo vivencia ferrocarril 279",
+                "ro": "Museo vivencia ferrocarril 279",
+                "en": "Museo vivencia ferrocarril 279"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten historischen Zugausstellungen sind fantastisch, aber die umliegenden nassen Gleise können für Ihre Fahrradreifen extrem tückisch sein.",
+                "hu": "A fedett történelmi vonatkiállítások fantasztikusak, de a környező sínek teljesen nedves állapotban rendkívül veszélyesek lehetnek a kerékpárgumikra.",
+                "ro": "Expozițiile de trenuri istorice acoperite sunt fantastice, dar șinele din jur pot fi incredibil de înșelătoare pentru anvelopele de bicicletă când sunt umede.",
+                "en": "The covered historical train exhibits are fantastic, but the surrounding tracks and cobblestones can be extremely treacherous for bike tires when completely wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Halt für ein Foto; seien Sie beim Bremsen auf dem nassen Kopfsteinpflaster oder dem rutschigen Asphalt äußerst vorsichtig.",
+                "hu": "Álljon meg egy gyors fotóra erről a nevezetességről; legyen rendkívül óvatos a nedves macskaköveken vagy csúszós aszfalton való hirtelen fékezéskor.",
+                "ro": "Faceți o scurtă oprire pentru o fotografie; fiți extrem de atenți la frânarea pe piatra cubică umedă sau pe asfaltul foarte alunecos la apropierea de sens.",
+                "en": "Make a quick stop for a photo of this important landmark; be extremely careful when braking on the wet cobblestones or slippery asphalt approaching it."
+              }
+            },
+            {
+              "name": {
+                "de": "BALNEARIO AGUA HEDIONDA",
+                "hu": "BALNEARIO AGUA HEDIONDA",
+                "ro": "BALNEARIO AGUA HEDIONDA",
+                "en": "BALNEARIO AGUA HEDIONDA"
+              },
+              "tip_5lang": {
+                "de": "Das heiße schwefelhaltige Thermalwasser fühlt sich nach einer nassen Fahrt unglaublich an; bringen Sie zwingend eine wasserdichte Tasche mit.",
+                "hu": "A forró kénes termálvíz hihetetlenül jó érzés egy nedves tekerés után; feltétlenül hozzon vízálló táskát, hogy a kerékpáros felszerelése száraz maradjon.",
+                "ro": "Apele termale sulfuroase fierbinți sunt incredibile după o plimbare umedă; aduceți neapărat o geantă impermeabilă pentru a păstra uscat echipamentul de ciclism.",
+                "en": "The incredibly hot sulfuric thermal waters feel perfect after a wet ride; always bring a reliable waterproof bag to keep your cycling gear completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Wintermorgen machen das Radfahren zu den Ruinen belebend, Handschuhe werden dringend empfohlen. Die Mittagssonne bietet perfektes Wetter für die Fahrt zwischen den Museen ohne Überhitzung. Am späten Nachmittag bleibt die Fahrt zu den Thermalbädern angenehm. Sorgen Sie für gute Fahrradlichter, da die Sonne gegen 17:00 Uhr früh untergeht und plötzliche Kälte bringt.",
+            "hu": "A csípős téli reggelek élénkítővé teszik a kerékpározást a romokhoz, bár kesztyű ajánlott. A déli napsütés tökéletes időt biztosít a múzeumok közötti tekeréshez túlmelegedés nélkül. Késő délután a termálfürdők felé vezető út kellemes marad. Gondoskodjon kerékpárlámpákról, mivel a nap 17:00 óra körül korán nyugszik, hirtelen hideget hozva.",
+            "ro": "Diminețile reci de iarnă fac ciclismul către ruine revigorant, deși se recomandă mănuși. Soarele amiezii oferă vreme perfectă pentru a merge între muzee fără a vă supraîncălzi. După-amiaza târziu, drumul spre băile termale rămâne plăcut. Asigurați-vă că aveți lumini bune, deoarece soarele apune devreme în jurul orei 17:00, aducând un frig brusc.",
+            "en": "Crisp winter mornings make cycling to the hacienda ruins invigorating, though gloves are recommended. Midday sunshine provides perfect weather for riding between historical museums without overheating. As the afternoon wanes, the ride to the thermal baths remains pleasant. Ensure you have bike lights, as the sun sets early around 17:00, bringing a sudden chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ex Hacienda Coauixtla",
+                "hu": "Ex Hacienda Coauixtla",
+                "ro": "Ex Hacienda Coauixtla",
+                "en": "Ex Hacienda Coauixtla"
+              },
+              "tip_5lang": {
+                "de": "Der feine Morgenfrost auf den Ruinen ist sehr fotogen; tragen Sie unbedingt warme Fahrradhandschuhe für die kühle, windige morgendliche Fahrt hierher.",
+                "hu": "A romokon lévő reggeli dér rendkívül fotogén; feltétlenül viseljen vastag, meleg kerékpáros kesztyűt a szeles, hideg reggeli tekeréshez idekint.",
+                "ro": "Înghețul fin de dimineață pe ruine este foarte fotogenic; purtați neapărat mănuși calde de ciclism pentru plimbarea matinală răcoroasă și cu vânt până aici.",
+                "en": "The crisp morning frost on the ancient ruins is highly photogenic; make sure to wear thick, warm cycling gloves for the breezy morning ride out here."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+              },
+              "tip_5lang": {
+                "de": "Die koloniale Architektur ist im klaren Winterlicht wunderschön; Sie können Ihre äußere Jackenschicht ablegen, wenn sich der Tag langsam erwärmt.",
+                "hu": "A gyarmati építészet gyönyörű a friss téli fényben; kényelmesen leveheti a külső kabátréteget, ahogy a nap folyamatosan és lassan felmelegszik a múzeum után.",
+                "ro": "Arhitectura colonială este superbă în lumina clară de iarnă; puteți renunța confortabil la stratul exterior de geacă pe măsură ce ziua se încălzește lent.",
+                "en": "The colonial architecture is exceptionally beautiful in the crisp winter light; you can comfortably shed your outer jacket layer as the day slowly warms up."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo vivencia ferrocarril 279",
+                "hu": "Museo vivencia ferrocarril 279",
+                "ro": "Museo vivencia ferrocarril 279",
+                "en": "Museo vivencia ferrocarril 279"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Erkundung der alten Lokomotiven in der milden Mittagssonne, ein absolut erfrischender Kontrast zur brütenden mexikanischen Sommerhitze.",
+                "hu": "Élvezze a régi mozdonyok felfedezését az enyhe déli napsütésben, ami frissítő és rendkívül éles kontraszt a tikkasztó mexikói nyári hőséggel szemben.",
+                "ro": "Bucurați-vă de explorarea vechilor locomotive în soarele blând al amiezii, un contrast absolut revigorant cu căldura sufocantă a verii toride mexicane.",
+                "en": "Enjoy exploring the old vintage locomotives in the mild midday sun, a wonderfully refreshing and stark contrast to the sweltering Mexican summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Der klare, unverschmutzte Winterhimmel bietet eine hervorragende Sicht, um das Nationaldenkmal direkt und bequem vom Fahrradsattel aus zu bewundern.",
+                "hu": "A tiszta, szennyezésmentes téli égbolt kiváló látási viszonyokat kínál az emlékmű megcsodálásához és fotózásához egyenesen és kényelmesen a kerékpár nyergéből.",
+                "ro": "Cerul senin de iarnă oferă o vizibilitate excelentă și nepoluată pentru a admira și fotografia monumentul direct și confortabil din șaua bicicletei.",
+                "en": "The remarkably clear, unpolluted winter skies offer excellent visibility for admiring and photographing the impressive monument right from your bicycle saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "BALNEARIO AGUA HEDIONDA",
+                "hu": "BALNEARIO AGUA HEDIONDA",
+                "ro": "BALNEARIO AGUA HEDIONDA",
+                "en": "BALNEARIO AGUA HEDIONDA"
+              },
+              "tip_5lang": {
+                "de": "Weichen Sie Ihre müden Fahrradmuskeln in den heißen Schwefelquellen ein, genau dann, wenn nach dem Sonnenuntergang um 17:00 Uhr die Kälte einsetzt.",
+                "hu": "Áztassa ki fáradt kerékpáros izmait a forró kénes forrásokban, éppen amikor a kora esti metsző hideg gyorsan beáll a 17:00 órai naplemente után.",
+                "ro": "Înmuiați mușchii obosiți de pedalat în izvoarele sulfuroase fierbinți exact când se lasă frigul pătrunzător al serii, imediat după apusul de la 17:00.",
+                "en": "Deeply soak your tired biking muscles in the hot sulfuric springs just as the biting early evening chill rapidly sets in after the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A napot a Hurricane Harbor Oaxtepec víziparkjában kezdjük, kihasználva a korai órákat a legjobb csúszdákhoz.\n\nBeparkolva Cuautla központjába lencsevégre kapjuk a Zászló Emlékművet és felfedezzük a történelmi vonatokat.\n\nA kulturális utazás a Casa de Morelosban folytatódik, majd egy rövid utazás következik az Agua Hedionda gyógyvizeihez.\n\nAutós kirándulásunkat az Ex Hacienda Coauixtla lenyűgöző és kissé kísérteties romjainak felfedezésével zárjuk.",
         "ro": "Începem cu o bălăceală la Hurricane Harbor Oaxtepec, profitând de orele dimineții pentru cele mai bune tobogane.\n\nConducând spre centrul Cuautla, surprindem Monumento a la Bandera și explorăm exponatele istorice de tren.\n\nCălătoria culturală continuă la Casa de Morelos, urmată de o scurtă plimbare către apele vindecătoare de la Agua Hedionda.\n\nNe încheiem excursia explorând ruinele magnifice și oarecum stranii ale Ex Hacienda Coauixtla la lăsarea serii.",
         "en": "We start with a splash at Hurricane Harbor Oaxtepec, taking advantage of the early hours for the best water slides.\n\nDriving into central Cuautla, we capture the Monumento a la Bandera and explore the historic train exhibits nearby.\n\nThe cultural journey continues at Casa de Morelos, followed by a short drive to the healing waters of Agua Hedionda.\n\nWe finish our road trip exploring the magnificent and somewhat eerie ruins of Ex Hacienda Coauixtla as dusk approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Autotour beginnt im Wasserpark, wo beheizte Pools den Morgen retten. Die Fahrt zu den Museen am Mittag erfordert eine vorsichtige Navigation auf rutschigen Straßen. Nachmittägliche Museumsbesuche bieten perfekten Schutz vor Schauern. Gegen Abend erfordert die Fahrt zu den alten Hacienda-Ruinen wegen Schlamm und schlechter Sicht besondere Vorsicht.",
+            "hu": "Az esős autós túra a víziparkban kezdődik, ahol a fűtött medencék és fedett részek megmentik a reggelt. A déli vezetés a múzeumokhoz óvatos navigációt igényel a csúszós városi utakon. A délutáni múzeumlátogatások tökéletes menedéket nyújtanak. Ahogy leszáll az est, az ősi hacienda romjaihoz vezető út óvatosságot követel a sár és a rossz látási viszonyok miatt.",
+            "ro": "Un tur cu mașina într-o zi ploioasă începe la parcul acvatic, unde bazinele încălzite salvează dimineața. Condusul la prânz către muzee necesită o navigare atentă pe drumurile alunecoase. Vizitele de după-amiază la muzee oferă adăpost perfect. Pe măsură ce se lasă seara, drumul spre ruinele haciendei necesită prudență din cauza noroiului și vizibilității reduse.",
+            "en": "A rainy day driving tour starts at the water park, where heated pools and indoor sections save the morning. Midday drives to the monuments and museums require careful navigation on slick city roads. Afternoon museum visits offer perfect shelter from the heaviest showers. As evening falls, driving to the ancient hacienda ruins requires caution due to mud and low visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Six Flags Hurricane Harbor Oaxtepec",
+                "hu": "Six Flags Hurricane Harbor Oaxtepec",
+                "ro": "Six Flags Hurricane Harbor Oaxtepec",
+                "en": "Six Flags Hurricane Harbor Oaxtepec"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die beheizten Becken; Dauerregen bedeutet weniger Menschenmassen, aber achten Sie auf sehr rutschige Wege vom Parkplatz.",
+                "hu": "Fókuszáljon a fűtött medencékre és fedett csúszdákra; az eső kevesebb tömeget jelent, de nagyon vigyázzon a csúszós járdákra a nyitott parkolóból besétálva.",
+                "ro": "Concentrați-vă pe bazinele încălzite; ploaia înseamnă mult mai puțină aglomerație, dar atenție mare la aleile foarte alunecoase la venirea de la parcare.",
+                "en": "Focus closely on the heated pools and covered slides; the rain means fewer crowds, but actively watch for very slippery walkways when walking from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses beeindruckende Bauwerk bequem und warm von Ihrem Auto aus, während die Scheibenwischer den starken, stetigen Regen beseitigen.",
+                "hu": "Tekintse meg ezt a lenyűgöző nemzeti építményt kényelmesen és melegen az autójából, miközben az ablaktörlők folyamatosan letörlik a heves reggeli esőt.",
+                "ro": "Priviți această structură națională impresionantă din confortul și căldura mașinii dumneavoastră, în timp ce ștergătoarele curăță ploaia abundentă și constantă.",
+                "en": "View this highly impressive national structure directly from the comfort and warmth of your car while the windshield wipers rapidly clear the heavy morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo vivencia ferrocarril 279",
+                "hu": "Museo vivencia ferrocarril 279",
+                "ro": "Museo vivencia ferrocarril 279",
+                "en": "Museo vivencia ferrocarril 279"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie schnell von Ihrem geparkten Auto zu den historischen Waggons und nutzen Sie große Regenschirme für die ungeschützten Freiluftbereiche des Museums.",
+                "hu": "Szaladjon gyorsan a biztonságosan leparkolt autótól a történelmi vagonokig, nagy esernyőt használva a vasúti múzeum nyitott, szabadtéri részeinek bejárásához.",
+                "ro": "Fugiți rapid de la mașina parcată la vagoanele istorice, folosind umbrele mari pentru a naviga fără probleme prin secțiunile expuse, în aer liber, ale muzeului.",
+                "en": "Dash quickly from your safely parked car to the historic train cars, effectively using umbrellas to navigate the completely open-air sections of the railway museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie dieses überdachte historische Refugium; die Parkplätze könnten tiefe Pfützen haben, tragen Sie daher unbedingt wasserdichte Schuhe.",
+                "hu": "Élvezze ezt a fedett történelmi menedéket; a közeli utcai parkolókban meglehetősen mély tócsák lehetnek, ezért mindenképpen viseljen erős, vízálló cipőt.",
+                "ro": "Bucurați-vă de acest refugiu istoric acoperit; parcarea de pe stradă ar putea avea bălți destul de adânci, așa că purtați neapărat încălțăminte impermeabilă.",
+                "en": "Enjoy this fully indoor historical refuge; the nearby street parking spaces might have rather deep puddles, so make absolutely sure to wear sturdy, waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "BALNEARIO AGUA HEDIONDA",
+                "hu": "BALNEARIO AGUA HEDIONDA",
+                "ro": "BALNEARIO AGUA HEDIONDA",
+                "en": "BALNEARIO AGUA HEDIONDA"
+              },
+              "tip_5lang": {
+                "de": "Das warme Mineralwasser ist bei Regen absolut fantastisch; bewahren Sie Ihre trockene Kleidung sicher im Kofferraum auf, damit sie keinesfalls feucht wird.",
+                "hu": "A meleg ásványvizek fantasztikusak esőben; tartsa száraz ruháit biztonságosan az autó csomagtartójában bezárva, hogy azok garantáltan ne nedvesedjenek át.",
+                "ro": "Apele minerale calde sunt fantastice pe ploaie; păstrați hainele uscate închise în siguranță în portbagajul mașinii pentru a garanta că nu se umezesc deloc.",
+                "en": "The soothing warm mineral waters are fantastic in the rain; keep your dry clothes safely secured inside the car trunk to strictly avoid them getting damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex Hacienda Coauixtla",
+                "hu": "Ex Hacienda Coauixtla",
+                "ro": "Ex Hacienda Coauixtla",
+                "en": "Ex Hacienda Coauixtla"
+              },
+              "tip_5lang": {
+                "de": "Regen verleiht den Ruinen eine mystische Atmosphäre, aber die Zufahrtsstraße kann sehr schlammig werden. Fahren Sie langsam und parken Sie auf festem Boden.",
+                "hu": "Az eső misztikus hangulatot kölcsönöz az ősi romoknak, de a bekötőút meglehetősen saras és csúszós lehet, ezért vezessen nagyon óvatosan és parkoljon szilárd talajon.",
+                "ro": "Ploaia adaugă o atmosferă mistică ruinelor, dar drumul de acces poate deveni noroios și alunecos, așa că conduceți foarte încet și parcați doar pe teren ferm.",
+                "en": "Heavy rain adds a deeply mystical vibe to the ancient ruins, but the unpaved access road can get quite muddy, so drive very carefully and park on solid ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Winterfahrt im Wasserpark und genießen Sie die beheizten Attraktionen in der kühlen Morgenluft. Der Mittag bringt klaren Himmel, perfekt für den Wechsel zwischen den Museen mit leicht eingeschalteter Heizung. Spätnachmittägliche Thermalbadbesuche sind unglaublich wohltuend. Die Fahrt zu den Ruinen erfolgt genau vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a téli autózást a víziparkban, élvezve a fűtött attrakciókat a hűvös reggeli levegőben. A dél tiszta eget hoz, ami tökéletes a múzeumok közötti ugráláshoz alacsony fűtés mellett. A késő délutáni termálfürdőzés hihetetlenül megnyugtató. A hacienda romjaihoz vezető út a korai, 17:00 órai naplemente előtt történik, ami már fényszórókat igényel.",
+            "ro": "Începeți plimbarea de iarnă la parcul acvatic, bucurându-vă de atracțiile încălzite în aerul rece al dimineții. Prânzul aduce cer senin, perfect pentru a sări între muzee cu încălzirea mașinii ușor pornită. Vizitele de după-amiază târziu la băile termale sunt reconfortante. Drumul spre ruine are loc chiar înainte de apusul de la 17:00, necesitând utilizarea farurilor.",
+            "en": "Start the winter drive at the water park, enjoying the heated attractions in the cool morning air. Midday brings bright, clear skies perfect for hopping between the monument and historical museums with the car heater on low. Late afternoon visits to the thermal baths are incredibly comforting. The drive to the hacienda ruins happens just before the early 17:00 sunset, requiring headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Six Flags Hurricane Harbor Oaxtepec",
+                "hu": "Six Flags Hurricane Harbor Oaxtepec",
+                "ro": "Six Flags Hurricane Harbor Oaxtepec",
+                "en": "Six Flags Hurricane Harbor Oaxtepec"
+              },
+              "tip_5lang": {
+                "de": "Die klare Morgenluft bildet einen schönen Kontrast zu den beheizten Wasserattraktionen; bringen Sie unbedingt einen sehr dicken Bademantel für draußen mit.",
+                "hu": "A csípős, hideg reggeli levegő gyönyörű kontrasztban áll a fűtött vízi attrakciókkal; hozzon magával egy rendkívül vastag köntöst a kinti medencék közötti sétákhoz.",
+                "ro": "Aerul foarte rece al dimineții contrastează frumos cu atracțiile cu apă încălzită; aduceți neapărat un halat foarte gros și călduros pentru a vă plimba pe afară.",
+                "en": "The refreshingly crisp morning air contrasts beautifully with the heated water attractions; bring a very thick robe or warm towel for quickly walking around outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie die Autofenster herunter, um ein klares, blendfreies Foto vor dem strahlenden, völlig wolkenlosen Winterhimmel zu machen, bevor Sie weiterfahren.",
+                "hu": "Tekerje le az autó ablakait, hogy tiszta, csillogásmentes fotót készítsen a ragyogó, teljesen felhőtlen téli égbolt előtt, közvetlenül mielőtt kényelmesen továbbhajtana.",
+                "ro": "Coborâți geamurile mașinii pentru a face o fotografie perfect clară pe fundalul cerului de iarnă absolut strălucitor și fără nori înainte de a conduce confortabil mai departe.",
+                "en": "Roll down the car windows to snap a perfectly clear, glare-free photo against the brilliant, entirely cloudless winter sky before comfortably driving onwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo vivencia ferrocarril 279",
+                "hu": "Museo vivencia ferrocarril 279",
+                "ro": "Museo vivencia ferrocarril 279",
+                "en": "Museo vivencia ferrocarril 279"
+              },
+              "tip_5lang": {
+                "de": "Der milde Wintermittag macht die Erkundung der Freiluft-Zugausstellungen äußerst angenehm, ganz ohne dass die intensive Sommersonne auf das heiße Metall brennt.",
+                "hu": "Az enyhe téli dél rendkívül kellemessé teszi a szabadtéri vonatkiállítások felfedezését, teljesen anélkül, hogy az amúgy intenzív nyári nap a forró fémre tűzne.",
+                "ro": "Amiaza blândă de iarnă face ca explorarea expozițiilor de trenuri în aer liber să fie extrem de plăcută, fără ca soarele intens de vară să ardă puternic metalul vagoanelor.",
+                "en": "The comfortably mild winter midday makes exploring the outdoor train exhibits extremely pleasant, completely without the intense summer sun heavily bearing down on the metal."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+              },
+              "tip_5lang": {
+                "de": "Die dicken Lehmwände halten dieses Museum im Winter sehr kühl, lassen Sie also Ihre leichte Jacke sicher an, während Sie die inneren historischen Räume erkunden.",
+                "hu": "A vastag vályogfalak télen kifejezetten hidegen tartják ezt a múzeumot, ezért mindenképpen tartsa magán a könnyű kabátot a hűvös belső történelmi szobák felfedezése közben.",
+                "ro": "Pereții groși de chirpici mențin acest muzeu destul de rece iarna, așa că păstrați neapărat jacheta ușoară pe dumneavoastră în timp ce explorați camerele istorice interioare.",
+                "en": "The markedly thick adobe walls keep this museum quite chilly in winter, so securely keep your light jacket on while thoroughly exploring inside the historical rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "BALNEARIO AGUA HEDIONDA",
+                "hu": "BALNEARIO AGUA HEDIONDA",
+                "ro": "BALNEARIO AGUA HEDIONDA",
+                "en": "BALNEARIO AGUA HEDIONDA"
+              },
+              "tip_5lang": {
+                "de": "Der Winter ist die mit Abstand beste Jahreszeit für diese heißen Schwefelwässer und bietet ein tief entspannendes Nachmittagsbad, wenn die Luft spürbar abkühlt.",
+                "hu": "A tél messze a legjobb évszak ezekhez a forró kénes vizekhez, amelyek mélyen pihentető délutáni áztatást kínálnak a szabadban, ahogy a külső levegő észrevehetően lehűl.",
+                "ro": "Iarna este de departe cel mai bun anotimp pentru aceste ape sulfuroase fierbinți, oferind o baie de după-amiază profund relaxantă pe măsură ce aerul de afară se răcește vizibil.",
+                "en": "Winter is absolutely the best season for these naturally hot sulfuric waters, reliably offering a deeply relaxing afternoon soak as the surrounding outdoor air steadily cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex Hacienda Coauixtla",
+                "hu": "Ex Hacienda Coauixtla",
+                "ro": "Ex Hacienda Coauixtla",
+                "en": "Ex Hacienda Coauixtla"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr an; das goldene Licht auf diesen alten Mauern ist spektakulär, bringt aber rasch empfindliche Kälte mit sich.",
+                "hu": "Érkezzen a korai, 17:00 órai naplemente előtt; az ősi falakon megcsillanó alacsony aranyfény látványosan szép, de a naplementével hirtelen és kellemetlen hideget is hoz.",
+                "ro": "Ajungeți înainte de apusul devreme de la 17:00; lumina aurie joasă de pe aceste ziduri antice este spectaculos de frumoasă, dar aduce un frig brusc și pătrunzător de iarnă.",
+                "en": "Safely arrive before the extremely early 17:00 sunset; the remarkably low golden hour light on these ancient walls is spectacularly beautiful but suddenly brings a sharp chill."
+              }
+            }
+          ]
+        }
       }
     }
   }

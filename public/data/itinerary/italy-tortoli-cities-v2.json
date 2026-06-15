@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi központban indul, feltárva a helyi nemesség örökségét és élvezve a főtemplom békés hangulatát. A dél felé közeledve a város kulturális szívébe ér, majd a délután során ősi megalitikus építményeket fedezhet fel. Az estét a régészeti emlékek közelében tett pihentető séta zárja.",
         "ro": "Dimineața începe în centrul istoric, descoperind moștenirea nobilimii locale și bucurându-vă de atmosfera pașnică a bisericii principale. La prânz ajungeți în inima culturală a orașului, iar după-amiaza vă duce puțin mai departe pentru a explora structuri megalitice antice. Seara se încheie cu o plimbare relaxantă lângă rămășițele arheologice.",
         "en": "Morning starts in the historic center, uncovering the legacy of the local nobility and enjoying the peaceful atmosphere of the main church. Midday leads you towards the cultural heart of the town, offering insights into its artistic side. Afternoon takes you slightly further out to explore ancient megalithic structures. Evening wraps up with a relaxing stroll near the archaeological remains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im regnerischen Tortolì, wobei das Innere des Palazzo dei Conti Quigini-Puliga Schutz vor den Schauern bietet. Mittags können die Steine der engen Gassen rutschig sein, daher gehen wir vorsichtig zur Kathedrale Sant'Andrea. Am Nachmittag ruhen wir uns in den Hallen des Teatro San Francesco aus. Am Abend spiegeln sich die Lichter auf dem nassen Asphalt über den Nuraghen wider.",
+            "hu": "A reggel esős Tortolìban indul, a Palazzo dei Conti Quigini-Puliga belső terei nyújtanak menedéket a záporok elől. Délben a szűk utcák kövei csúszósak lehetnek, így óvatosan haladunk a Sant'Andrea katedrális felé. Délután a Teatro San Francesco fedett termeiben pihenünk meg, amíg odakint eláll az eső. Este a város fényei megcsillannak a vizes aszfalton a nuraghe romjai felett is.",
+            "ro": "Dimineața începe în Tortolì ploios, interioarele de la Palazzo dei Conti Quigini-Puliga oferind adăpost împotriva averselor. La prânz, pietrele străzilor înguste pot fi alunecoase, așa că mergem cu grijă spre catedrala Sant'Andrea. După-amiaza ne odihnim în sălile de la Teatro San Francesco. Seara, luminile orașului se oglindesc în asfaltul ud deasupra ruinelor nuraghe.",
+            "en": "The morning starts in rainy Tortolì, with the interiors of Palazzo dei Conti Quigini-Puliga providing shelter from the showers. At noon, the narrow streets' stones can be slippery, so we walk carefully towards Sant'Andrea cathedral. In the afternoon, we rest in the indoor halls of Teatro San Francesco while the rain stops. In the evening, city lights reflect on the wet asphalt over the ruins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo dei Conti Quigini-Puliga",
+                "hu": "Palazzo dei Conti Quigini-Puliga",
+                "ro": "Palazzo dei Conti Quigini-Puliga",
+                "en": "Palazzo dei Conti Quigini-Puliga"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innenausstellungen dieses Adelspalastes, die einen trockenen Rückzugsort bieten; perfekt, um dem Regen für eine Weile zu entkommen.",
+                "hu": "Fedezd fel a nemesi palota belső kiállításait, amelyek száraz menedéket nyújtanak; tökéletes hely az eső elől való elrejtőzésre.",
+                "ro": "Explorați expozițiile interioare ale acestui palat nobiliar, care oferă un refugiu uscat; perfect pentru a scăpa de ploaie pentru o vreme.",
+                "en": "Explore the indoor exhibitions of this noble palace, which provide a dry retreat; perfect for escaping the rain for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Andrea Apostolo",
+                "hu": "Sant'Andrea Apostolo",
+                "ro": "Sant'Andrea Apostolo",
+                "en": "Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das prächtige Innere der Kathedrale, um trocken zu bleiben; Vorsicht vor den rutschigen Marmorstufen am Kircheneingang bei Nässe.",
+                "hu": "Látogasd meg a katedrális pompás belső terét, hogy szárazon maradj; ügyelj a vizes időben csúszós márványlépcsőkre a bejáratnál.",
+                "ro": "Vizitați interiorul magnific al catedralei pentru a rămâne uscat; atenție la treptele de marmură alunecoase de la intrare pe timp de ploaie.",
+                "en": "Visit the magnificent interior of the cathedral to stay dry; beware of the marble steps at the entrance, which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro San Francesco",
+                "hu": "Teatro San Francesco",
+                "ro": "Teatro San Francesco",
+                "en": "Teatro San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kulturelle Programm in diesem überdachten Theater; ein idealer Ort, um die lokale Kunstszene ohne Sorge vor dem Wetter zu erleben.",
+                "hu": "Élvezd a kulturális programokat ebben a fedett színházban; ideális hely a helyi művészeti élet felfedezésére az időjárástól függetlenül.",
+                "ro": "Bucurați-vă de programul cultural în acest teatru acoperit; un loc ideal pentru a experimenta scena artistică locală fără grija vremii.",
+                "en": "Enjoy the cultural program in this indoor theater; an ideal place to experience the local art scene without worrying about the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tomba di Giganti is Murdegus",
+                "hu": "Tomba di Giganti is Murdegus",
+                "ro": "Tomba di Giganti is Murdegus",
+                "en": "Tomba di Giganti is Murdegus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diese antike Stätte schnell zwischen den Regenschauern; tragen Sie feste, wasserfeste Schuhe, da der Boden um die Megalithen matschig sein kann.",
+                "hu": "Tekintsd meg ezt az ősi helyszínt két zápor között; viselj vízálló cipőt, mert a megalitok körüli talaj sáros és csúszós lehet.",
+                "ro": "Admirați acest sit antic între reprizele de ploaie; purtați încălțăminte impermeabilă, deoarece solul din jurul megaliților poate fi noroios.",
+                "en": "View this ancient site between rain showers; wear waterproof shoes, as the ground around the megaliths can be muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Costa Arangiu",
+                "hu": "Nuraghe Costa Arangiu",
+                "ro": "Nuraghe Costa Arangiu",
+                "en": "Nuraghe Costa Arangiu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prähistorische Struktur, die bei Regen eine mystische Aura hat; achten Sie auf den unebenen, nassen Pfad zu den Ruinen.",
+                "hu": "Csodáld meg a prahisztorikus építményt, amely esőben misztikus hangulatot áraszt; vigyázz a romokhoz vezető egyenetlen, vizes ösvényen.",
+                "ro": "Admirați structura preistorică, care are o aură mistică pe ploaie; aveți grijă la poteca denivelată și udă care duce spre ruine.",
+                "en": "Admire the prehistoric structure, which has a mystical aura in the rain; be careful on the uneven, wet path leading to the ruins."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und kühl; wir suchen historische Wärme in den Hallen des Palazzo. Mittags ist die Sonne noch angenehm, aber in den dicken Kirchenmauern wird ein Schal benötigt. Am Nachmittag spazieren wir zwischen den Nuraghe-Ruinen und achten auf den frühen Sonnenuntergang gegen 17 Uhr. Am Abend bricht die Dunkelheit früh ein, sodass wir in der Hauptstraße enden.",
+            "hu": "A téli reggel friss és hűvös, a Palazzo termeiben keressük a történelmi melegséget. Délben a napsütés még ilyenkor is kellemes, de a templom vastag falai között jól jön egy sál. Délután a nuraghe romjai közt sétálunk, figyelve a korai, délután öt órai naplementére. Este a sötétség hamar leszáll, így Tortolì hangulatos főutcáján fejezzük be a sétát.",
+            "ro": "Dimineața de iarnă este proaspătă și răcoroasă; căutăm căldură istorică în sălile Palazzo-ului. La prânz, soarele este încă plăcut, dar e nevoie de un fular în interiorul zidurilor groase ale bisericii. După-amiaza ne plimbăm printre ruinele nuraghe, urmărind apusul de la ora 17:00. Seara, întunericul coboară devreme, așa că terminăm plimbarea pe strada principală.",
+            "en": "The winter morning is fresh and cool; we seek historical warmth in the halls of the Palazzo. At noon, the sun is still pleasant, but a scarf is needed inside the thick church walls. In the afternoon, we walk among the nuraghe ruins, watching the early 5 PM sunset. In the evening, darkness falls early, so we finish our walk on Tortolì's charming main street."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo dei Conti Quigini-Puliga",
+                "hu": "Palazzo dei Conti Quigini-Puliga",
+                "ro": "Palazzo dei Conti Quigini-Puliga",
+                "en": "Palazzo dei Conti Quigini-Puliga"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den historischen Räumen des Palastes auf; die dicken Mauern schützen vor dem kühlen Winterwind, der von der Küste herweht.",
+                "hu": "Melegedj fel a palota történelmi termeiben; a vastag falak megvédenek a tenger felől érkező hűvös téli széltől.",
+                "ro": "Încălziți-vă în camerele istorice ale palatului; zidurile groase protejează de vântul rece de iarnă care bate de la coastă.",
+                "en": "Warm up in the historical rooms of the palace; the thick walls protect against the cool winter wind blowing from the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Andrea Apostolo",
+                "hu": "Sant'Andrea Apostolo",
+                "ro": "Sant'Andrea Apostolo",
+                "en": "Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die religiöse Kunst in der Stille der Kathedrale; ziehen Sie sich warm an, da die großen Steinkirchen im Winter recht kühl sein können.",
+                "hu": "Csodáld meg a vallási művészetet a katedrális csendjében; öltözz rétegesen, mert a nagy kőtemplomok télen is hűvösek maradhatnak.",
+                "ro": "Admirați arta religioasă în liniștea catedralei; îmbrăcați-vă bine, deoarece bisericile mari de piatră pot fi destul de răcoroase iarna.",
+                "en": "Admire the religious art in the silence of the cathedral; dress in layers, as large stone churches can remain quite cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro San Francesco",
+                "hu": "Teatro San Francesco",
+                "ro": "Teatro San Francesco",
+                "en": "Teatro San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie einen gemütlichen Nachmittag bei einer Aufführung; die beheizten Innenräume bieten eine willkommene Abwechslung zur frischen Winterluft.",
+                "hu": "Tölts el egy kellemes délutánt egy előadáson; a fűtött belső terek hívogató menedéket nyújtanak a friss téli levegő elől.",
+                "ro": "Petreceți o după-amiază plăcută la un spectacol; spațiile interioare încălzite oferă un refugiu binevenit față de aerul rece de iarnă.",
+                "en": "Spend a cozy afternoon at a performance; the heated indoor spaces provide a welcome refuge from the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tomba di Giganti is Murdegus",
+                "hu": "Tomba di Giganti is Murdegus",
+                "ro": "Tomba di Giganti is Murdegus",
+                "en": "Tomba di Giganti is Murdegus"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Megalithen im klaren Winterlicht für tolle Fotos; da es früh dunkel wird, planen Sie diesen Außenstopp vor dem späten Nachmittag ein.",
+                "hu": "Látogasd meg a megalitokat a tiszta téli fényben a legjobb fotókért; mivel korán sötétedik, tervezd ezt a látogatást kora délutánra.",
+                "ro": "Vizitați megaliții în lumina clară de iarnă pentru fotografii grozave; deoarece se întunecă devreme, planificați această oprire înainte de după-amiază.",
+                "en": "Visit the megaliths in the clear winter light for great photos; as it gets dark early, plan this outdoor stop before late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Costa Arangiu",
+                "hu": "Nuraghe Costa Arangiu",
+                "ro": "Nuraghe Costa Arangiu",
+                "en": "Nuraghe Costa Arangiu"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen bei kühleren Temperaturen ohne die Sommerhitze; bringen Sie eine Taschenlampe mit, falls Sie bis zum frühen Sonnenuntergang bleiben.",
+                "hu": "Fedezd fel a romokat a hűvösebb időben a nyári hőség nélkül; vigyél zseblámpát, ha a korai naplementéig maradsz a területen.",
+                "ro": "Explorați ruinele la temperaturi mai scăzute, fără canicula verii; aduceți o lanternă dacă rămâneți până la apusul timpuriu al soarelui.",
+                "en": "Explore the ruins in cooler temperatures without the summer heat; bring a flashlight if you stay until the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot Tortolì elegáns történelmi palotáinak és központi templomának felfedezésével. Délben tekerjen tovább a tájon elszórt nuragh és megalitikus helyszínek felé. A délután pihenésre csábít, miközben a gyönyörű partvidék felé kerekezik. Élvezze az estét a tengerparton, figyelve a hosszú árnyékokat a homokos partokon.",
         "ro": "Începeți ziua de ciclism explorând palatele istorice elegante și biserica centrală din Tortolì. La prânz, pedalați pentru a descoperi siturile nuragice și megalitice împrăștiate în peisaj. După-amiaza vă invită să vă relaxați în timp ce mergeți spre frumoasa coastă. Bucurați-vă de seară la malul mării, urmărind cum soarele aruncă umbre lungi pe plajă.",
         "en": "Start your cycling day exploring the elegant historical palaces and the central church of Tortolì. By midday, pedal out to discover the scattered Nuragic and megalithic sites dotting the landscape. The afternoon invites you to relax as you cycle towards the beautiful coastline. Enjoy the evening by the sea, watching the sun cast long shadows over the sandy shores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour im Regen erfordert mehr Aufmerksamkeit; wir beginnen in einem überdachten Bereich im Innenhof des Palazzo. Mittags wählen wir ein langsameres Tempo auf den nassen Straßenabschnitten in Richtung Kathedrale. Am Nachmittag halten wir den Küstenabschnitt trotz der Schutzbleche kürzer. Am Abend ruhen wir uns nach dem Abschließen der Räder in einem trockenen Café aus.",
+            "hu": "A kerékpáros túra esőben nagyobb odafigyelést igényel, a Palazzo udvarán kezdünk fedett helyen. Délben a nedves útszakaszokon lassabb tempót választunk a katedrális felé gurulva. Délután a tengerparti szakaszt rövidebbre fogjuk a sárvédők ellenére is, és inkább a városban maradunk. Este a kerékpárok lelakatolása után egy száraz kávézóban pihenjük ki a napot.",
+            "ro": "Turul cu bicicleta pe ploaie necesită mai multă atenție, începând într-o zonă acoperită din curtea Palazzo-ului. La prânz, alegem un ritm mai lent pe secțiunile de drum umede spre catedrală. După-amiaza, scurtăm secțiunea de coastă în ciuda apărătorilor de noroi și rămânem în oraș. Seara, după ce încuiem bicicletele, ne odihnim într-o cafenea.",
+            "en": "The cycling tour in the rain requires more attention, starting in a covered area in the Palazzo courtyard. At noon, we choose a slower pace on the wet road sections while rolling towards the cathedral. In the afternoon, we keep the coastal section shorter despite the mudguards and stay in town. In the evening, after locking the bikes, we rest in a dry cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo dei Conti Quigini-Puliga",
+                "hu": "Palazzo dei Conti Quigini-Puliga",
+                "ro": "Palazzo dei Conti Quigini-Puliga",
+                "en": "Palazzo dei Conti Quigini-Puliga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof des Palastes als geschützten Ort, um Ihre Route auf der Karte zu prüfen; achten Sie beim Radfahren auf das nasse Kopfsteinpflaster.",
+                "hu": "Használd a palota belső udvarát védett helyként az útvonal ellenőrzéséhez; kerékpározáskor ügyelj a kinti vizes macskakövekre.",
+                "ro": "Folosiți curtea palatului ca loc protejat pentru a vă verifica ruta; aveți grijă la pavajul umed din față când mergeți cu bicicleta.",
+                "en": "Use the palace courtyard as a sheltered spot to check your route; be careful on the wet cobblestones outside while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Andrea Apostolo",
+                "hu": "Sant'Andrea Apostolo",
+                "ro": "Sant'Andrea Apostolo",
+                "en": "Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher unter einem Vordach, bevor Sie die Kathedrale besichtigen; der Innenraum bietet eine trockene Pause von der feuchten Fahrt.",
+                "hu": "Parkold le a biciklit biztonságos, fedett helyen a székesegyház megtekintése előtt; a belső tér száraz pihenőt kínál a nyirkos tekerés után.",
+                "ro": "Parcați bicicleta în siguranță sub un baldachin înainte de a vizita catedrala; interiorul oferă o pauză uscată de la drumul umed.",
+                "en": "Park your bike safely under a canopy before visiting the cathedral; the interior offers a dry break from the damp ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Santa Giusta",
+                "hu": "Nuraghe Santa Giusta",
+                "ro": "Nuraghe Santa Giusta",
+                "en": "Nuraghe Santa Giusta"
+              },
+              "tip_5lang": {
+                "de": "Die Besichtigung dieser Ruine ist kurz, ideal zwischen zwei Schauern; tragen Sie eine Regenjacke, da der Boden hier rutschig sein kann.",
+                "hu": "Ennek a romnak a megtekintése rövid, ideális két zápor között; viselj esőkabátot, mert a talaj itt csúszós lehet.",
+                "ro": "Vizitarea acestei ruine este scurtă, ideală între două averse; purtați o jachetă de ploaie, deoarece solul poate fi alunecos aici.",
+                "en": "Visiting this ruin is brief, ideal between two showers; wear a raincoat as the ground here can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Circolo megalitico",
+                "hu": "Circolo megalitico",
+                "ro": "Circolo megalitico",
+                "en": "Circolo megalitico"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Wegen zu den Megalithen; der Regen kann den Boden aufweichen, was das Treten in die Pedale erschwert.",
+                "hu": "Tekerj óvatosan a megaliitokhoz vezető burkolatlan utakon; az eső feláztathatja a talajt, ami megnehezíti a haladást.",
+                "ro": "Mergeți cu atenție pe potecile neasfaltate spre megaliți; ploaia poate înmuia solul, făcând pedalarea mai dificilă.",
+                "en": "Cycle carefully on the unpaved paths to the megaliths; the rain can soften the ground, making pedaling more difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir",
+                "hu": "Menhir",
+                "ro": "Menhir",
+                "en": "Menhir"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp an diesem Monument; halten Sie Ihr Fahrrad fest, falls der Wind zusammen mit dem Regen zunimmt.",
+                "hu": "Tarts egy rövid pihenőt ennél a műemléknél; kapaszkodj erősen a kormányba, ha a szél az esővel együtt felerősödik.",
+                "ro": "Faceți o scurtă oprire la acest monument; țineți bine bicicleta dacă vântul se intensifică odată cu ploaia.",
+                "en": "Take a brief stop at this monument; hold your bike firmly if the wind increases along with the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido di Orrì",
+                "hu": "Lido di Orrì",
+                "ro": "Lido di Orrì",
+                "en": "Lido di Orrì"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das stürmische Meer vom Ufer aus; suchen Sie Schutz in einem der Strandcafés, falls der Regen zu stark wird.",
+                "hu": "Csodáld meg a viharos tengert a partról; keress menedéket az egyik strandközeli kávézóban, ha túl erősen esne.",
+                "ro": "Admirați marea furtunoasă de pe mal; căutați adăpost într-una dintre cafenelele de pe plajă dacă ploaia devine prea puternică.",
+                "en": "Admire the stormy sea from the shore; seek shelter in one of the beach cafes if the rain becomes too heavy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Für das Winterradfahren in Tortolì ist winddichte Kleidung in den kühlen Morgenstunden unerlässlich. Mittags wärmt die Sonne die Straßen und ermöglicht eine angenehme Fahrt zu den Megalithen. Am Nachmittag wird die Küstenbrise schärfer, daher ist geschichtete Kleidung ratsam. Am Abend lohnt es sich, wegen der frühen Dunkelheit rechtzeitig zum kaminbeheizten Hotel zurückzukehren.",
+            "hu": "A téli biciklizéshez Tortolìban elengedhetetlen a szélálló ruházat a hűvös reggeli órákban. Délben a napsütés felmelegíti az utakat, kellemes suhanást biztosítva a megalitok felé. Délután a tengerparti szellő már csípősebbé válik, így réteges öltözék javasolt a Lido eléréséhez. Este a korai sötétedés miatt érdemes időben visszatérni a város jól kivilágított központjába.",
+            "ro": "Pentru mersul cu bicicleta iarna în Tortolì, îmbrăcămintea rezistentă la vânt este esențială în orele răcoroase ale dimineții. La prânz, soarele încălzește drumurile, oferind o plimbare plăcută spre megaliți. După-amiaza, briza de coastă devine mai tăioasă, așa că se recomandă haine în straturi. Seara, din cauza întunericului, merită să vă întoarceți la timp în centrul orașului.",
+            "en": "For winter cycling in Tortolì, windproof clothing is essential during the cool morning hours. At noon, the sun warms the roads, providing a pleasant ride towards the megaliths. In the afternoon, the coastal breeze becomes sharper, so layered clothing is recommended to reach the Lido. In the evening, due to the early darkness, it's worth returning early to the well-lit town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo dei Conti Quigini-Puliga",
+                "hu": "Palazzo dei Conti Quigini-Puliga",
+                "ro": "Palazzo dei Conti Quigini-Puliga",
+                "en": "Palazzo dei Conti Quigini-Puliga"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Tour mit einem Besuch im warmen Palast; die kühle Morgenluft auf dem Fahrrad lässt sich mit einer winddichten Jacke gut bewältigen.",
+                "hu": "Kezdd a túrát a meleg palota látogatásával; a hűvös reggeli levegőt a biciklin egy szélálló kabáttal könnyen átvészelheted.",
+                "ro": "Începeți turul cu o vizită la palatul cald; aerul rece al dimineții pe bicicletă poate fi gestionat ușor cu o jachetă rezistentă la vânt.",
+                "en": "Start your tour with a visit to the warm palace; the cool morning air on the bike can be easily managed with a windproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Andrea Apostolo",
+                "hu": "Sant'Andrea Apostolo",
+                "ro": "Sant'Andrea Apostolo",
+                "en": "Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die ruhige Atmosphäre der Kathedrale für eine Pause; achten Sie darauf, beim Absteigen vom Rad warme Handschuhe zu tragen.",
+                "hu": "Használd ki a székesegyház csendes hangulatát egy pihenőre; ügyelj rá, hogy a biciklizéshez viselj meleg kesztyűt.",
+                "ro": "Profitați de atmosfera liniștită a catedralei pentru o pauză; asigurați-vă că purtați mănuși calde când mergeți cu bicicleta.",
+                "en": "Take advantage of the cathedral's quiet atmosphere for a break; make sure to wear warm gloves while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Santa Giusta",
+                "hu": "Nuraghe Santa Giusta",
+                "ro": "Nuraghe Santa Giusta",
+                "en": "Nuraghe Santa Giusta"
+              },
+              "tip_5lang": {
+                "de": "Das antike Monument liegt offen in der Landschaft; genießen Sie die Wintersonne, aber halten Sie das Tempo hoch, um warm zu bleiben.",
+                "hu": "Az ősi műemlék nyitott területen fekszik; élvezd a téli napsütést, de tarts jó tempót, hogy ne fázz meg.",
+                "ro": "Monumentul antic se află în câmp despuns; bucurați-vă de soarele de iarnă, dar mențineți un ritm bun pentru a vă menține căldura.",
+                "en": "The ancient monument lies in an open area; enjoy the winter sun, but keep a good pace to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Circolo megalitico",
+                "hu": "Circolo megalitico",
+                "ro": "Circolo megalitico",
+                "en": "Circolo megalitico"
+              },
+              "tip_5lang": {
+                "de": "Die Megalithen wirken im klaren Winterlicht besonders eindrucksvoll; planen Sie Ihre Rückfahrt vor Sonnenuntergang, da es dann schnell abkühlt.",
+                "hu": "A megalitok különösen hatásosak a tiszta téli fényben; tervezd meg a visszautat naplemente előtt, mert utána gyorsan lehűl a levegő.",
+                "ro": "Megaliții par deosebit de impresionanți în lumina clară de iarnă; planificați drumul de întoarcere înainte de apus, deoarece se răcește rapid.",
+                "en": "The megaliths look especially impressive in the clear winter light; plan your return trip before sunset, as it cools down quickly afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir",
+                "hu": "Menhir",
+                "ro": "Menhir",
+                "en": "Menhir"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto bei diesem Wahrzeichen; die Winterbrise kann hier auf dem offenen Feld recht frisch sein.",
+                "hu": "Készíts egy gyors fotót ennél a jelképnél; a téli szellő itt a nyílt terepen elég friss tud lenni.",
+                "ro": "Faceți o fotografie rapidă la acest punct de reper; briza de iarnă poate fi destul de proaspătă aici, pe câmp deschis.",
+                "en": "Take a quick photo at this landmark; the winter breeze can be quite fresh here in the open field."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido di Orrì",
+                "hu": "Lido di Orrì",
+                "ro": "Lido di Orrì",
+                "en": "Lido di Orrì"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich leer und ruhig; eine Mütze ist wegen des Meereswindes beim Radfahren entlang der Küste unbedingt ratsam.",
+                "hu": "A strand télen csodásan üres és csendes; a tengeri szél miatt a parton tekerve mindenképpen ajánlott egy sapka.",
+                "ro": "Plaja este minunat de goală și liniștită iarna; o căciulă este cu siguranță recomandată din cauza vântului marin când pedalați pe coastă.",
+                "en": "The beach is wonderfully empty and quiet in winter; a hat is definitely recommended because of the sea wind when cycling along the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Először hajtson el a lenyűgöző ősi sírokhoz és védelmi tornyokhoz, amelyek meghatározzák a régió történelem előtti jelentőségét. Később parkoljon le a központban, hogy megcsodálja a palotákat és a főtemplomot. Egy gyors ebéd után folytassa útját a rejtélyes állókövek felé. Végül töltsön el egy hosszú, ráérős estét a tengerpart lenyűgöző strandjain.",
         "ro": "Conduceți mai întâi spre mormintele antice și turnurile defensive care definesc importanța preistorică a regiunii. Mai târziu, parcați în centru pentru a admira palatele istorice și biserica. După prânz, continuați călătoria pitorească către pietrele enigmatice. În cele din urmă, petreceți o seară lungă și relaxantă pe plajele uimitoare ale coastei.",
         "en": "Drive first to the impressive ancient tombs and defensive towers that define the region's prehistoric importance. Later, park in the center to admire the historic palaces and the main church. After a quick lunch, continue your scenic drive to the enigmatic standing stones. Finally, spend a long, leisurely evening relaxing on the stunning beaches of the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autotour ist die bequemste Art, Tortolì bei Regenwetter zu erkunden und die fernen Ruinen trocken zu erreichen. Mittags müssen wir zwischen dem Palazzo und der Kathedrale nur ein paar Schritte unter dem Schirm machen. Am Nachmittag können die Küstenaussichtspunkte vom Auto aus bewundert werden. Am Abend können wir nach dem Parken bequem zu einem Restaurant in der Hauptstraße gehen.",
+            "hu": "Az autós túra a legkényelmesebb módja Tortolì felfedezésének esős időben, szárazon jutva el a távolabbi romokhoz. Délben a Palazzo és a katedrális között csak pár lépést kell tennünk az esernyő alatt. Délután a tengerparti kilátópontokat a kocsiból is megcsodálhatjuk, ha túl nagy a zápor. Este a városi parkolás után kényelmesen besétálhatunk egy közeli étterembe.",
+            "ro": "Un tur cu mașina este cel mai confortabil mod de a explora Tortolì pe vreme ploioasă, ajungând la ruinele îndepărtate rămânând uscat. La prânz, trebuie să facem doar câțiva pași sub umbrelă între Palazzo și catedrală. După-amiaza, punctele de belvedere de pe coastă pot fi admirate din mașină. Seara, după parcare, putem merge ușor la un restaurant din apropiere.",
+            "en": "A car tour is the most comfortable way to explore Tortolì in rainy weather, reaching distant ruins while staying dry. At noon, we only need to take a few steps under an umbrella between the Palazzo and the cathedral. In the afternoon, the coastal viewpoints can be admired from the car if the rain is too heavy. In the evening, after parking, we can easily walk to a nearby restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tomba di Giganti is Murdegus",
+                "hu": "Tomba di Giganti is Murdegus",
+                "ro": "Tomba di Giganti is Murdegus",
+                "en": "Tomba di Giganti is Murdegus"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Megalithen bequem mit dem Auto; der Parkplatz ist nah, sodass Sie nur kurz dem Regen ausgesetzt sind, um die Steine zu sehen.",
+                "hu": "Látogasd meg a megalitokat kényelmesen autóval; a parkoló közel van, így csak rövid ideig kell az esőben lenned a kövek megtekintéséhez.",
+                "ro": "Vizitați megaliții confortabil cu mașina; parcarea este aproape, așa că sunteți expus la ploaie doar pentru scurt timp pentru a vedea pietrele.",
+                "en": "Visit the megaliths comfortably by car; the parking is close, so you are only exposed to the rain for a short time to see the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Costa Arangiu",
+                "hu": "Nuraghe Costa Arangiu",
+                "ro": "Nuraghe Costa Arangiu",
+                "en": "Nuraghe Costa Arangiu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die Ruinen aus der Sicherheit Ihres Fahrzeugs; ein Regenschirm ist für den kurzen Fußweg zum Nuraghe unerlässlich.",
+                "hu": "Élvezd a romok látványát a jármű biztonságából; a kocsitól a nuraghe-ig tartó rövid úthoz elengedhetetlen egy esernyő.",
+                "ro": "Bucurați-vă de vederea ruinelor din siguranța vehiculului; o umbrelă este esențială pentru scurta plimbare de la mașină la nuraghe.",
+                "en": "Enjoy the view of the ruins from the safety of your vehicle; an umbrella is essential for the short walk from the car to the nuraghe."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Conti Quigini-Puliga",
+                "hu": "Palazzo dei Conti Quigini-Puliga",
+                "ro": "Palazzo dei Conti Quigini-Puliga",
+                "en": "Palazzo dei Conti Quigini-Puliga"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums und flüchten Sie schnell in den Palast; die Innenausstellungen halten Sie während eines heftigen Schauers trocken.",
+                "hu": "Parkolj a központ közelében, és menekülj be a palotába; a belső kiállítások szárazon tartanak egy hevesebb zápor alatt is.",
+                "ro": "Parcați aproape de centru și refugiați-vă rapid în palat; expozițiile interioare vă vor ține uscat în timpul unei averse puternice.",
+                "en": "Park near the center and escape quickly into the palace; the indoor exhibitions will keep you dry during a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Andrea Apostolo",
+                "hu": "Sant'Andrea Apostolo",
+                "ro": "Sant'Andrea Apostolo",
+                "en": "Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale ist ein idealer Stopp an einem Regentag; nutzen Sie die Zeit drinnen, um die Architektur zu bewundern, während es draußen regnet.",
+                "hu": "A katedrális ideális megálló egy esős napon; használd ki a benti időt az építészet megcsodálására, amíg odakint esik.",
+                "ro": "Catedrala este o oprire ideală într-o zi ploioasă; folosiți timpul din interior pentru a admira arhitectura în timp ce afară plouă.",
+                "en": "The cathedral is an ideal stop on a rainy day; use the time inside to admire the architecture while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Circolo megalitico",
+                "hu": "Circolo megalitico",
+                "ro": "Circolo megalitico",
+                "en": "Circolo megalitico"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses historische Monument kurz; bei Regen wirkt die antike Stätte besonders dramatisch und fotogen aus dem Auto heraus.",
+                "hu": "Tekintsd meg rövid időre ezt a történelmi emlékművet; esőben az ősi helyszín különösen drámainak és fotogénnek tűnik az autóból.",
+                "ro": "Admirați scurt acest monument istoric; pe ploaie, situl antic pare deosebit de dramatic și fotogenic din mașină.",
+                "en": "View this historical monument briefly; in the rain, the ancient site looks especially dramatic and photogenic from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido di Orrì",
+                "hu": "Lido di Orrì",
+                "ro": "Lido di Orrì",
+                "en": "Lido di Orrì"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Küstenstraße entlang und beobachten Sie das Meer; viele Parkplätze am Strand ermöglichen einen tollen Blick ohne nass zu werden.",
+                "hu": "Autózz végig a parti úton és figyeld a tengert; a strand menti parkolók remek kilátást biztosítanak anélkül, hogy megáznál.",
+                "ro": "Conduceți de-a lungul drumului de coastă și observați marea; multe locuri de parcare de pe plajă oferă o priveliște excelentă fără a vă uda.",
+                "en": "Drive along the coastal road and watch the sea; many parking spots along the beach provide a great view without getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem Wintermorgen macht die Autoheizung den Start zu den archäologischen Stätten außerhalb der Stadt angenehm. Mittags genießen wir die Landschaft, aber wegen des Windes ist zum Aussteigen ein warmer Mantel nötig. Am Nachmittag beobachten wir die Wellen an der Küste und kehren in der frühen Dämmerung um. Am Abend parken wir zwischen den hellen Lichtern der Stadt.",
+            "hu": "A téli reggelen az autó fűtése teszi kellemessé az indulást a városon kívüli régészeti lelőhelyek felé. Délben a megállók között élvezzük a tájat, de a kiszálláshoz szükség van a meleg kabátra a szél miatt. Délután a tengerparti úton autózva figyeljük a tenger hullámait, majd a korai szürkületben visszafordulunk. Este a város fényei között parkolunk le.",
+            "ro": "Într-o dimineață de iarnă, încălzirea mașinii face plăcut startul spre siturile arheologice din afara orașului. La prânz, ne bucurăm de peisaj între opriri, mas e nevoie de o haină groasă pentru coborâre din cauza vântului. După-amiaza, admirăm valurile mării, apoi ne întoarcem în amurgul timpuriu. Seara, parcăm printre luminile orașului.",
+            "en": "On a winter morning, the car's heating makes the start towards the archaeological sites outside the city pleasant. At noon, we enjoy the landscape between stops, but a warm coat is needed for getting out due to the wind. In the afternoon, driving along the coast, we watch the waves, then turn back in the early twilight. In the evening, we park among the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tomba di Giganti is Murdegus",
+                "hu": "Tomba di Giganti is Murdegus",
+                "ro": "Tomba di Giganti is Murdegus",
+                "en": "Tomba di Giganti is Murdegus"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie dieses Freilichtmuseum warm und trocken; das klare Winterlicht sorgt für eine hervorragende Sicht auf die prähistorischen Gräber.",
+                "hu": "Érd el ezt a szabadtéri múzeumot melegben és szárazon; a tiszta téli fény kiváló látási viszonyokat biztosít a prahisztorikus sírokhoz.",
+                "ro": "Ajungeți la acest muzeu în aer liber la căldură și uscat; lumina clară de iarnă oferă o vizibilitate excelentă asupra mormintelor preistorice.",
+                "en": "Reach this open-air museum warm and dry; the clear winter light provides excellent visibility of the prehistoric tombs."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Costa Arangiu",
+                "hu": "Nuraghe Costa Arangiu",
+                "ro": "Nuraghe Costa Arangiu",
+                "en": "Nuraghe Costa Arangiu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Autoheizung zwischen den Stopps; oben bei den Ruinen kann es im Winter windig sein, daher ist eine warme Jacke ratsam.",
+                "hu": "Használd ki az autó fűtését a megállók között; fent a romoknál télen szeles lehet az idő, ezért ajánlott egy meleg kabát.",
+                "ro": "Folosiți încălzirea mașinii între opriri; sus la ruine poate fi vânt iarna, așa că se recomandă o jachetă groasă.",
+                "en": "Use the car's heating between stops; up at the ruins it can be windy in winter, so a warm jacket is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Conti Quigini-Puliga",
+                "hu": "Palazzo dei Conti Quigini-Puliga",
+                "ro": "Palazzo dei Conti Quigini-Puliga",
+                "en": "Palazzo dei Conti Quigini-Puliga"
+              },
+              "tip_5lang": {
+                "de": "Der Palast bietet einen gemütlichen Rückzugsort vor der Winterkälte; genießen Sie die Geschichte in den windgeschützten Räumen.",
+                "hu": "A palota hangulatos menedéket nyújtanak a téli hideg elől; élvezd a történelmet a fűtött vagy legalább szélvédett termekben.",
+                "ro": "Palatul oferă un refugiu primitor față de frigul iernii; bucurați-vă de istorie în camerele încălzite sau cel puțin protejate de vânt.",
+                "en": "The palace provides a cozy retreat from the winter cold; enjoy history in the heated or at least wind-sheltered rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Andrea Apostolo",
+                "hu": "Sant'Andrea Apostolo",
+                "ro": "Sant'Andrea Apostolo",
+                "en": "Sant'Andrea Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale, um einen Moment der Stille zu genießen; die dicken Mauern halten den Winterwind draußen, können innen aber kühl sein.",
+                "hu": "Látogasd meg a katedrálist egy pillanatnyi csendért; a vastag falak kirekesztik a téli szelet, de bent is hűvös lehet a levegő.",
+                "ro": "Vizitați catedrala pentru un moment de liniște; zidurile groase țin vântul de iarnă afară, dar în interior poate fi răcoare.",
+                "en": "Visit the cathedral to enjoy a moment of silence; the thick walls keep the winter wind out, but it can be cool inside too."
+              }
+            },
+            {
+              "name": {
+                "de": "Circolo megalitico",
+                "hu": "Circolo megalitico",
+                "ro": "Circolo megalitico",
+                "en": "Circolo megalitico"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos ist im Winter ideal; das schräge Licht der tiefstehenden Sonne betont die Textur der antiken Steine wunderschön.",
+                "hu": "Egy rövid fotómegálló télen is ideális; az alacsony napállás súroló fénye gyönyörűen kiemeli az ősi kövek textúráját.",
+                "ro": "O scurtă oprire pentru fotografii este ideală iarna; lumina oblică a soarelui jos accentuează frumos textura pietrelor antice.",
+                "en": "A short photo stop is ideal in winter; the slanted light of the low sun beautifully emphasizes the texture of the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido di Orrì",
+                "hu": "Lido di Orrì",
+                "ro": "Lido di Orrì",
+                "en": "Lido di Orrì"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Fahrt entlang der Küste bei Sonnenuntergang; im Winter ist der Parkplatz am Strand perfekt für eine ruhige Pause.",
+                "hu": "Zárd a napot egy tengerparti autózással naplementekor; télen a strand melletti parkoló tökéletes egy nyugodt pihenőhöz.",
+                "ro": "Încheiați ziua cu o plimbare de-a lungul coastei la apus; iarna, parcarea de lângă plajă este perfectă pentru o pauză liniștită.",
+                "en": "End the day with a drive along the coast at sunset; in winter, the parking lot by the beach is perfect for a quiet break."
+              }
+            }
+          ]
+        }
       }
     }
   }

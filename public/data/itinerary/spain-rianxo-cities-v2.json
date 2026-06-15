@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a Guadalupe emlékműnél, a város szívében. Délben sétáljon el a gyönyörű Baltar és Tanxil strandokra, és élvezze a tengerpartot. Délután fedezze fel a tengeri irodalmat a Casa Museo Manuel Antonio és a Museo do Mar termeiben. Az estét a Museo de Nós Nuco kulturális kiállításain fejezheti be nyugodtan.",
         "ro": "Începeți ziua la Monumentul Guadalupe, în inima orașului. La prânz, faceți o plimbare spre frumoasele plaje Baltar și Tanxil pentru a vă bucura de mare. După-amiaza, descoperiți literatura maritimă la Casa Museo Manuel Antonio și la Museo do Mar. Seara se încheie liniștit explorând cultura la Museo de Nós Nuco.",
         "en": "Start your day at the Guadalupe Monument, the heart of the town. Midday brings a relaxing stroll to the beautiful Baltar and Tanxil beaches to enjoy the gentle sea breeze. In the afternoon, discover local maritime literature and history at Casa Museo Manuel Antonio and Museo do Mar. The evening concludes exploring culture at Museo de Nós Nuco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem nebligen Blick auf das Meer, während der Regen die Küstenwege erfrischt. Mittags suchen wir Schutz in den literarischen Museen der Stadt, weit weg vom feuchten Wind. Der Nachmittag steht im Zeichen der maritimen Geschichte in trockenen Räumen. Am Abend glänzen die Gassen von Rianxo im Regenlicht und bieten eine melancholisch-schöne Atmosphäre für den Rückweg.",
+            "hu": "A reggel ködös tengerparti kilátással indul, ahol az eső friss illatot áraszt a parton. Délben a város irodalmi múzeumaiban találunk menedéket a nedves szél elől. A délutánt a tengerészeti múlt felfedezésével töltjük fedett helyen, az este pedig a csillogó, eső áztatta utcák melankolikus báját hozza el, miközben Rianxo elcsendesedik.",
+            "ro": "Dimineața începe cu o priveliște cețoasă asupra estuarului, unde aerul sărat se împletește cu ploaia fină. La prânz, ne retragem în muzeele literare, feriți de vântul umed de coastă. După-amiaza explorăm istoria maritimă în interior, iar seara străzile lucioase ale orașului Rianxo oferă un farmec aparte sub picăturile de ploaie.",
+            "en": "The morning begins with a misty view of the estuary, where the sea air meets the fresh rain. Midday offers a retreat into the town's literary museums, sheltered from the damp Atlantic winds. The afternoon is spent exploring maritime history indoors, while the evening reveals the quiet charm of Rianxo's glistening streets under the rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento á Virxe de Guadalupe",
+                "hu": "Monumento á Virxe de Guadalupe",
+                "ro": "Monumento á Virxe de Guadalupe",
+                "en": "Monumento á Virxe de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue unter einem Regenschirm; die nasse Oberfläche des Denkmals reflektiert das graue Licht der Bucht auf dramatische Weise.",
+                "hu": "Csodálja meg a szobrot az esernyő alól; az emlékmű nedves felülete drámaian tükrözi vissza az öböl szürke fényeit.",
+                "ro": "Admirați statuia sub umbrelă; suprafața umedă a monumentului reflectă lumina cenușie a golfului într-un mod dramatic.",
+                "en": "Admire the statue from under an umbrella; the wet surface of the monument dramatically reflects the grey light of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Baltar",
+                "hu": "Praia de Baltar",
+                "ro": "Praia de Baltar",
+                "en": "Praia de Baltar"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Ufer ist erfrischend, aber bleiben Sie auf dem festen Sand, um nicht auszurutschen, und genießen Sie die raue See.",
+                "hu": "A parti séta frissítő, de maradjon a keményebb homokon, hogy elkerülje a csúszást, és élvezze a viharos tenger látványát.",
+                "ro": "O plimbare pe mal este revigorantă, dar rămâneți pe nisipul compact pentru a nu aluneca și bucurați-vă de marea agitată.",
+                "en": "A walk along the shore is refreshing, but stay on the firm sand to avoid slipping and enjoy the sight of the rough sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Tanxil",
+                "hu": "Praia de Tanxil",
+                "ro": "Praia de Tanxil",
+                "en": "Praia de Tanxil"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Bäumen am Rand; der Regen auf dem Wasser erzeugt ein beruhigendes Geräusch, das perfekt zum Innehalten ist.",
+                "hu": "Keressen menedéket a parton lévő fák alatt; a vízre hulló eső megnyugtató hangja tökéletes egy kis elcsendesedéshez.",
+                "ro": "Căutați adăpost sub copacii de la margine; ploaia care cade pe apă creează un sunet relaxant, perfect pentru un moment de liniște.",
+                "en": "Seek shelter under the trees at the edge; the rain falling on the water creates a soothing sound, perfect for a quiet moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Manuel Antonio",
+                "hu": "Casa Museo Manuel Antonio",
+                "ro": "Casa Museo Manuel Antonio",
+                "en": "Casa Museo Manuel Antonio"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Zufluchtsort vor dem Regen; vertiefen Sie sich in die Lyrik, während es draußen gegen die Fenster trommelt.",
+                "hu": "Ez a múzeum ideális búvóhely az eső elől; merüljön el a költészetben, miközben kint az ablakon kopog a zápor.",
+                "ro": "Acest muzeu este refugiul ideal împotriva ploii; cufundați-vă în poezie în timp ce afară ploaia bate în ferestre.",
+                "en": "This museum is the ideal refuge from the rain; immerse yourself in poetry while the rain drums against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Trockenen, um die Fischerboote zu studieren; das Museum bietet einen umfassenden Einblick in das Erbe von Rianxo.",
+                "hu": "Használja ki a száraz időt a halászhajók tanulmányozására; a múzeum átfogó betekintést nyújt Rianxo tengeri örökségébe.",
+                "ro": "Folosiți timpul la adăpost pentru a studia bărcile de pescuit; muzeul oferă o perspectivă detaliată asupra moștenirii maritime.",
+                "en": "Use the time in the dry to study the fishing boats; the museum offers a comprehensive insight into Rianxo's maritime heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Nós Nuco",
+                "hu": "Museo de Nós Nuco",
+                "ro": "Museo de Nós Nuco",
+                "en": "Museo de Nós Nuco"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Abschluss des Tages im Warmen; die Ausstellungen sind beleuchtet und bieten eine gemütliche Atmosphäre trotz des Wetters.",
+                "hu": "Kulturális napzárás a melegben; a kiállítások jól megvilágítottak, így a rossz idő ellenére is barátságos a hangulat.",
+                "ro": "Un final cultural al zilei la căldură; expozițiile sunt bine iluminate, oferind o atmosferă primitoare în ciuda vremii.",
+                "en": "A cultural end to the day in the warm; the exhibits are well-lit, providing a cozy atmosphere despite the rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Morgenluft duftet nach dem Atlantik und macht den Küstenweg belebend. Mittags steht die Sonne tief und wirft lange Schatten auf die historischen Museumshäuser. Der Nachmittag unterstreicht die raue Schönheit der Küste, bevor um 17 Uhr ein früher Sonnenuntergang den Himmel verfärbt. Den Abend verbringen wir gemütlich in den beheizten Cafés des Stadtzentrums.",
+            "hu": "A friss reggeli levegő az Atlanti-óceán illatát hordozza, ami élénkítővé teszi a parti sétát. Délben a nap alacsonyan jár, hosszú árnyékokat vetve a történelmi házakra. A délután a partvidék nyers szépségét mutatja meg, mielőtt 17 órakor beköszönt a korai naplemente. Az estét a városközpont barátságos, fűtött helyein töltjük el.",
+            "ro": "Aerul rece de dimineață poartă mirosul Atlanticului, făcând plimbarea pe coastă revigorantă. La prânz, soarele stă jos, aruncând umbre lungi peste casele muzeu. După-amiaza evidențiază frumusețea aspră a țărmului, înainte de apusul devreme de la ora 17:00. Seara se încheie confortabil în cafenelele încălzite din centru.",
+            "en": "The crisp morning air carries the scent of the Atlantic, making the coastal path refreshing. By noon, the sun stays low, casting long shadows over the historic museum houses. The afternoon highlights the rugged beauty of the shore before the early winter sunset at five, leading into a cozy evening in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento á Virxe de Guadalupe",
+                "hu": "Monumento á Virxe de Guadalupe",
+                "ro": "Monumento á Virxe de Guadalupe",
+                "en": "Monumento á Virxe de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt das Denkmal hell erstrahlen; ziehen Sie sich warm an, da der Wind hier an der Küste besonders kühl sein kann.",
+                "hu": "A téli napfényben fehéren ragyog az emlékmű; öltözzön rétegesen, mert a tenger felől fújó szél ilyenkor metsző lehet.",
+                "ro": "Soarele de iarnă face monumentul să strălucească; îmbrăcați-vă gros, deoarece vântul de pe coastă poate fi foarte rece.",
+                "en": "The winter sun makes the monument glow brightly; dress warmly as the coastal wind can be particularly biting here."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Baltar",
+                "hu": "Praia de Baltar",
+                "ro": "Praia de Baltar",
+                "en": "Praia de Baltar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Strandes im Winter; die kühle Luft ist perfekt für einen schnellen, energetisierenden Spaziergang.",
+                "hu": "Élvezze a tengerparti magányt télen; a hűvös levegő tökéletes egy gyors, energiát adó sétához a dűnék mentén.",
+                "ro": "Bucurați-vă de singurătatea plajei pe timp de iarnă; aerul rece este perfect pentru o plimbare rapidă și energizantă.",
+                "en": "Enjoy the solitude of the beach in winter; the cool air is perfect for a quick, energizing walk along the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Tanxil",
+                "hu": "Praia de Tanxil",
+                "ro": "Praia de Tanxil",
+                "en": "Praia de Tanxil"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist hier im Winter besonders sanft; bringen Sie eine Thermoskanne mit, um die Aussicht warm zu genießen.",
+                "hu": "A téli délutáni fények itt különösen lágyak; hozzon magával termoszt egy forró itallal, hogy átmelegedjen a nézelődés közben.",
+                "ro": "Lumina de după-amiază este foarte blândă aici iarna; aduceți un termos cu ceai cald pentru a savura priveliștea fără a dârdâi.",
+                "en": "The winter afternoon light is particularly soft here; bring a thermos with a hot drink to enjoy the view while staying warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Manuel Antonio",
+                "hu": "Casa Museo Manuel Antonio",
+                "ro": "Casa Museo Manuel Antonio",
+                "en": "Casa Museo Manuel Antonio"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich aufzuwärmen; die dicken Steinmauern schützen vor der Kälte und laden zum Verweilen in der Geschichte ein.",
+                "hu": "Remek hely a felmelegedésre; a vastag kőfalak védenek a hidegtől, és hívogatnak a történelmi időutazásra.",
+                "ro": "Un loc minunat pentru a vă încălzi; zidurile groase de piatră protejează împotriva frigului și vă invită la o incursiune în istorie.",
+                "en": "A wonderful place to warm up; the thick stone walls protect against the cold and invite you to linger in history."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz vor der Winterbrise; erkunden Sie die maritime Welt in angenehmer Temperatur, bevor es draußen dunkel wird.",
+                "hu": "A belső tér védelmet nyújt a téli szél ellen; fedezze fel a tengeri világot kellemes hőmérsékletben, mielőtt kint sötétedni kezdene.",
+                "ro": "Interiorul oferă protecție împotriva brizei de iarnă; explorați lumea maritimă la o temperatură plăcută înainte de lăsarea întunericului.",
+                "en": "The interior provides protection from the winter breeze; explore the maritime world at a pleasant temperature before it gets dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Nós Nuco",
+                "hu": "Museo de Nós Nuco",
+                "ro": "Museo de Nós Nuco",
+                "en": "Museo de Nós Nuco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier rechtzeitig zum Sonnenuntergang; das Licht am späten Nachmittag ist ideal für Fotos der Stadt.",
+                "hu": "Fejezze be itt a körutat időben a naplemente előtt; a késő délutáni fények ideálisak a városról készített fényképekhez.",
+                "ro": "Încheiați turul aici la timp pentru apus; lumina de după-amiază târzie este ideală pentru fotografii cu orașul.",
+                "en": "Finish your tour here in time for the sunset; the late afternoon light is ideal for taking photos of the town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa a reggelt sportosan a Praia de Troncon. Élvezze a békés kerékpározást a Redemuíños strandra, ahol a természet várja. Délután haladjon el a Tanxil és a Guadalupe emlékmű mellett a központban található Tengerészeti Múzeum felé. Kora este tekerjen el a Castelo da Lúa romjaihoz egy történelmi lezárásért.",
         "ro": "Începeți dimineața activ la Praia de Tronco. Bucurați-vă de plimbarea liniștită spre plaja Redemuíños, unde natura vă așteaptă. După-amiaza, treceți pe lângă Tanxil și Monumentul Guadalupe spre centrul orașului la Museo do Mar. Spre seară, pedalați ușor spre ruinele Castelo da Lúa pentru un final istoric de zi.",
         "en": "Start your morning actively at Praia de Tronco. Enjoy a peaceful ride towards the tranquil Redemuíños beach where nature awaits. In the afternoon, cycle past Tanxil and the Guadalupe Monument into the town center for a stop at Museo do Mar. Towards evening, take a gentle ride to the Castelo da Lúa ruins for a historic finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Tour beginnt auf feuchten Wegen entlang der Küste, wo der Wind den Regen peitscht. Mittags suchen wir Schutz in Hafennähe und trocknen unsere Ausrüstung. Der Nachmittag bietet kurze Etappen zwischen den kulturellen Sehenswürdigkeiten, um dem stärksten Regen auszuweichen. Am Abend kehren wir zügig zurück, während die Lichter der Stadt auf dem nassen Asphalt tanzen.",
+            "hu": "Sportos túra indul a nedves parti utakon, ahol a szél korbácsolja az esőt. Délben a kikötő közelében pihenünk meg, és megszárítjuk a felszerelésünket. A délután rövid etapokból áll a látnivalók között, hogy elkerüljük a nagyobb zuhékat. Este gyors tempóban térünk vissza, miközben a város fényei táncolnak a vizes aszfalton.",
+            "ro": "O tură sportivă începe pe drumurile umede de coastă, unde vântul biciuiește ploaia. La prânz, ne adăpostim lângă port și ne uscăm echipamentul. După-amiaza constă în segmente scurte între obiective, pentru a evita rafalele puternice. Seara ne întoarcem rapid, în timp ce luminile orașului dansează pe asfaltul ud.",
+            "en": "A sporty tour begins on damp coastal paths where the wind whips the rain. At noon, we shelter near the harbor to dry our gear. The afternoon features short bursts of cycling between cultural sites to dodge the heaviest showers. In the evening, we return swiftly as the town lights dance on the wet asphalt surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Tronco",
+                "hu": "Praia de Tronco",
+                "ro": "Praia de Tronco",
+                "en": "Praia de Tronco"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen auf dem Radweg; der Ausblick auf die regnerische Bucht ist rau, aber wunderschön.",
+                "hu": "Vigyázzon a csúszós szakaszokra a kerékpárúton; az esős öböl látványa nyers, de lenyűgöző élményt nyújt.",
+                "ro": "Atenție la porțiunile alunecoase de pe pistă; vederea asupra golfului sub ploaie este aspră, dar de o frumusețe rară.",
+                "en": "Watch out for slippery patches on the bike path; the view of the rainy bay is raw but stunningly beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Redemuíños",
+                "hu": "Praia de Redemuíños",
+                "ro": "Praia de Redemuíños",
+                "en": "Praia de Redemuíños"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch Pfützen; der Regen reinigt die Luft und macht das Panorama der Ría besonders klar.",
+                "hu": "Hajtson óvatosan a tócsák között; az eső tisztítja a levegőt, és különösen élessé teszi a Ría panorámáját.",
+                "ro": "Pedalați cu grijă printre bălți; ploaia curăță aerul și face panorama estuarului Ría să fie extrem de clară.",
+                "en": "Ride carefully through puddles; the rain cleans the air and makes the panorama of the Ría exceptionally clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Tanxil",
+                "hu": "Praia de Tanxil",
+                "ro": "Praia de Tanxil",
+                "en": "Praia de Tanxil"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandpromenade für einen kurzen Halt; die überdachten Bereiche bieten Schutz, um die Bremsen zu prüfen.",
+                "hu": "Használja a sétányt egy rövid megállóra; a fedett részek védelmet nyújtanak, hogy ellenőrizhesse a fékeket.",
+                "ro": "Folosiți faleza pentru o oprire scurtă; zonele acoperite oferă protecție pentru a verifica starea frânelor.",
+                "en": "Use the beach promenade for a quick stop; the sheltered areas provide cover to check your brakes and adjust gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento á Virxe de Guadalupe",
+                "hu": "Monumento á Virxe de Guadalupe",
+                "ro": "Monumento á Virxe de Guadalupe",
+                "en": "Monumento á Virxe de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier aus; der Wind kann auf dem Rad stark sein, halten Sie den Lenker gut fest.",
+                "hu": "Egy rövid fotómegálló is elég; a szél erős lehet biciklizés közben, tartsa stabilan a kormányt a parton.",
+                "ro": "O scurtă oprire pentru poze este suficientă; vântul poate fi puternic pe bicicletă, țineți bine de ghidon.",
+                "en": "A brief photo stop is enough; the wind can be strong while cycling, so keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und wärmen Sie sich drinnen auf; die Ausstellungen lenken hervorragend vom Wetter ab.",
+                "hu": "Parkolja le biztonságosan a bringát és melegedjen fel odabent; a kiállítások remekül elterelik a figyelmet az időjárásról.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în interior; expozițiile vă vor capta atenția, ignorând ploaia de afară.",
+                "en": "Park your bike securely and warm up inside; the exhibits are an excellent distraction from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lúa",
+                "hu": "Castelo da Lúa",
+                "ro": "Castelo da Lúa",
+                "en": "Castelo da Lúa"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Ruinen kann matschig sein; schieben Sie das Rad das letzte Stück, um Stürze auf nassem Gras zu vermeiden.",
+                "hu": "A romokhoz vezető út saras lehet; az utolsó szakaszon tolja a biciklit, hogy elkerülje az esést a vizes füvön.",
+                "ro": "Drumul spre ruine poate fi noroios; împingeți bicicleta pe ultima porțiune pentru a evita căzăturile pe iarba udă.",
+                "en": "The path to the ruins can be muddy; push your bike for the last section to avoid slipping on the wet grass."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert warme Schichten gegen den kühlen Fahrtwind am Morgen. Mittags genießen wir die klare Sicht über die Bucht, die nur der Winter bietet. Am Nachmittag radeln wir durch das ruhige Rianxo, bevor wir um 17 Uhr den Sonnenuntergang am Hafen erleben. Der Abend endet zeitig mit einer heißen Schokolade, während die Kälte des Ozeans die Stadt einhüllt.",
+            "hu": "A téli túra réteges öltözetet igényel a reggeli hűvös menetszél ellen. Délben élvezzük az öböl tiszta kilátását, amit csak a tél nyújthat. Délután a csendes Rianxo utcáin tekerünk, majd 17 órakor megnézzük a naplementét a kikötőben. Az este korán ér véget egy forró csokoládéval, miközben az óceán felől érkező hideg átjárja a várost.",
+            "ro": "Tura de iarnă necesită straturi groase împotriva vântului rece de dimineață. La prânz, ne bucurăm de vizibilitatea clară peste golf, specifică iernii. După-amiaza pedalăm prin liniștitul Rianxo, înainte de a vedea apusul în port la ora 17:00. Seara se încheie devreme cu o ciocolată caldă, în timp ce frigul oceanului cuprinde orașul.",
+            "en": "The winter tour requires warm layers against the cool morning breeze. At noon, we enjoy the crystal-clear views over the bay that only winter provides. In the afternoon, we cycle through quiet Rianxo before catching the sunset at the harbor at 5 PM. The evening ends early with a hot chocolate as the ocean's chill settles over the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Tronco",
+                "hu": "Praia de Tronco",
+                "ro": "Praia de Tronco",
+                "en": "Praia de Tronco"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die kalte Meeresluft kühlt die Finger beim Fahren schnell aus, während Sie die Aussicht genießen.",
+                "hu": "Viseljen kesztyűt; a hideg tengeri levegő gyorsan lehűti az ujjait tekerés közben, miközben a tájban gyönyörködik.",
+                "ro": "Purtați mănuși; aerul rece de mare vă va îngheța degetele rapid în timp ce pedalați și admirați peisajul.",
+                "en": "Wear gloves; the cold sea air quickly chills your fingers while riding, even as you enjoy the beautiful coastal scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Redemuíños",
+                "hu": "Praia de Redemuíños",
+                "ro": "Praia de Redemuíños",
+                "en": "Praia de Redemuíños"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer; nutzen Sie den festen Untergrund für eine kurze Fahrt direkt am Wasser.",
+                "hu": "A strand télen szinte teljesen üres; használja ki a kemény talajt egy rövid tekeréshez közvetlenül a vízpart mentén.",
+                "ro": "Plaja este pustie iarna; profitați de solul compact pentru o scurtă tură cu bicicleta chiar pe marginea apei.",
+                "en": "The beach is deserted in winter; take advantage of the firm ground for a short ride right along the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Tanxil",
+                "hu": "Praia de Tanxil",
+                "ro": "Praia de Tanxil",
+                "en": "Praia de Tanxil"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist perfekt für eine Pause; achten Sie darauf, nicht zu lange zu stehen, um nicht auszukühlen.",
+                "hu": "Az alacsony napállás fénye tökéletes egy pihenőhöz; ügyeljen rá, hogy ne álljon meg túl sokáig, nehogy áthűljön.",
+                "ro": "Lumina soarelui la apus este perfectă pentru o pauză; aveți grijă să nu stați prea mult pe loc pentru a nu vă răci.",
+                "en": "The low sun's light is perfect for a break; be careful not to stop for too long to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento á Virxe de Guadalupe",
+                "hu": "Monumento á Virxe de Guadalupe",
+                "ro": "Monumento á Virxe de Guadalupe",
+                "en": "Monumento á Virxe de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dämmerung im Winter sehr plötzlich eintritt.",
+                "hu": "Ellenőrizze, hogy működnek-e a kerékpár lámpái, mivel a téli szürkület váratlanul és gyorsan köszönt be.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece amurgul de iarnă vine foarte brusc și devreme.",
+                "en": "Ensure your bike lights are working properly, as the winter twilight arrives very suddenly and early in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Glieder aufzuwärmen; parken Sie das Rad und tauchen Sie in die Geschichte der lokalen Seefahrt ein.",
+                "hu": "Ideális hely a tagjai felmelegítésére; parkolja le a bringát, és merüljön el a helyi tengerészet történetében.",
+                "ro": "Un loc ideal pentru a vă dezmorți; parcați bicicleta și lăsați-vă purtați de istoria navigației locale.",
+                "en": "An ideal spot to warm your limbs; park your bike and dive into the history of local seafaring in a heated space."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lúa",
+                "hu": "Castelo da Lúa",
+                "ro": "Castelo da Lúa",
+                "en": "Castelo da Lúa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen vor 16:30 Uhr; im Schatten der Mauern wird es nach Sonnenuntergang schnell sehr frostig.",
+                "hu": "Látogassa meg a romokat 16:30 előtt; a falak árnyékában a naplemente után gyorsan fagyossá válik a levegő.",
+                "ro": "Vizitați ruinele înainte de 16:30; la umbra zidurilor se face foarte frig imediat după ce soarele apune.",
+                "en": "Visit the ruins before 4:30 PM; in the shadow of the walls, it gets frosty very quickly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel vezessen a tágas Praia de Area Longa strandra, és gyönyörködjön a kilátásban. Délben álljon meg a Guadalupe emlékműnél és a Casa Museo Manuel Antonionál Rianxo szívében. Délután fedezze fel a Castelo da Lúa középkori maradványait és a Vista Real kápolnát. Az este történelmi fénypontja a Castros de Neixón.",
         "ro": "Conduceți dimineața spre vasta Praia de Area Longa și bucurați-vă de priveliște. La prânz, opriți la Monumentul Guadalupe și Casa Museo Manuel Antonio în inima orașului. După-amiaza, explorați rămășițele medievale de la Castelo da Lúa și capela Vista Real. Seara oferă un punct de atracție istoric la Castros de Neixón.",
         "en": "Drive out in the morning to the expansive Praia de Area Longa and soak in the beautiful bay views. By midday, stop at the Guadalupe Monument and Casa Museo Manuel Antonio in the heart of Rianxo. In the afternoon, explore the medieval remains at Castelo da Lúa and the Vista Real chapel. The evening provides a historical highlight at Castros de Neixón."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt gemütlich im Auto mit Panoramablicken auf die verregnete Küste von Galicien. Mittags steuern wir historische Orte an, die wir trockenen Fußes erreichen können. Der Nachmittag ist für die Kapellen und Museen reserviert, während der Regen gegen das Autodach prasselt. Den Abend lassen wir bei einer Fahrt entlang der beleuchteten Bucht ausklingen.",
+            "hu": "Kényelmes autós túra indul panorámás kilátással Galícia eső áztatta partjaira. Délben olyan történelmi helyszíneket keresünk fel, amelyeket száraz lábbal is elérhetünk. A délutánt a kápolnákra és múzeumokra szánjuk, miközben az eső a tetőn kopog. Az estét az öböl menti kivilágított úton való autózással zárjuk.",
+            "ro": "Călătoria începe confortabil în mașină, cu vederi panoramice asupra coastelor ploiase ale Galiciei. La prânz, vizităm locuri istorice accesibile fără a ne uda prea tare. După-amiaza este dedicată capelelor și muzeelor, în timp ce ploaia bate în parbriz. Seara se încheie cu o plimbare de-a lungul golfului iluminat.",
+            "en": "The drive begins comfortably with panoramic views of Galicia's rain-swept coast from the warmth of the car. At noon, we head to historic sites accessible without getting too wet. The afternoon is reserved for chapels and museums while rain drums on the roof. We conclude the evening with a drive along the illuminated bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Area Longa",
+                "hu": "Praia de Area Longa",
+                "ro": "Praia de Area Longa",
+                "en": "Praia de Area Longa"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Brandung vom Parkplatz aus; der Regen macht die Küstenlandschaft besonders dramatisch und fotogen.",
+                "hu": "Figyelje a hullámtörést a parkolóból; az eső különösen drámaivá és fotogénné teszi a tengerparti tájat.",
+                "ro": "Priviți valurile direct din parcare; ploaia face peisajul de coastă extrem de dramatic și bun de fotografiat.",
+                "en": "Watch the surf from the parking lot; the rain makes the coastal landscape particularly dramatic and photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento á Virxe de Guadalupe",
+                "hu": "Monumento á Virxe de Guadalupe",
+                "ro": "Monumento á Virxe de Guadalupe",
+                "en": "Monumento á Virxe de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Blick; die Statue wirkt im Regen besonders ehrwürdig.",
+                "hu": "Használja a közeli parkolót egy gyors megállóhoz; a szobor az esőben különösen tiszteletet parancsoló látványt nyújt.",
+                "ro": "Folosiți parcarea din apropiere pentru o vizită rapidă; statuia pare și mai impunătoare sub picăturile de ploaie.",
+                "en": "Use the nearby parking for a quick look; the statue looks particularly venerable and solemn in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Manuel Antonio",
+                "hu": "Casa Museo Manuel Antonio",
+                "ro": "Casa Museo Manuel Antonio",
+                "en": "Casa Museo Manuel Antonio"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Stopp bei Regen; parken Sie in der Nähe, um den Aufenthalt im Trockenen zu maximieren.",
+                "hu": "A múzeum ideális megálló esőben; parkoljon a közelben, hogy minél több időt tölthessen a száraz és meleg épületben.",
+                "ro": "Muzeul este o oprire ideală pe ploaie; parcați în apropiere pentru a maximiza timpul petrecut la adăpost.",
+                "en": "The museum is an ideal rainy-day stop; park nearby to maximize your time spent in the dry, historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lúa",
+                "hu": "Castelo da Lúa",
+                "ro": "Castelo da Lúa",
+                "en": "Castelo da Lúa"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; betrachten Sie die Ruinen von den befestigten Aussichtspunkten aus, um sauber zu bleiben.",
+                "hu": "Az utak sarasak lehetnek; a romokat a szilárd burkolatú nézőpontokból csodálja meg, hogy elkerülje a sárban gázolást.",
+                "ro": "Drumurile pot fi noroioase; admirați ruinele din punctele de observație pavate pentru a nu vă murdări de noroi.",
+                "en": "The paths can be muddy; admire the ruins from the paved viewpoints to stay clean and avoid the slippery grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de San Xoán de Vista Real",
+                "hu": "Capela de San Xoán de Vista Real",
+                "ro": "Capela de San Xoán de Vista Real",
+                "en": "Capela de San Xoán de Vista Real"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im Regen; der Ausblick von hier oben auf die Ría ist auch bei Wolken atemberaubend.",
+                "hu": "Csendes hely az elmélyüléshez az esőben; a kilátás a Ríára innen fentről még felhős időben is lélegzetelállító.",
+                "ro": "Un loc liniștit pentru reflecție pe timp de ploaie; vederea asupra estuarului de aici este superbă chiar și cu nori.",
+                "en": "A quiet place for reflection in the rain; the view of the Ría from up here is breathtaking even with cloud cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Castros de Neixón",
+                "hu": "Castros de Neixón",
+                "ro": "Castros de Neixón",
+                "en": "Castros de Neixón"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Interpretationszentrum, um mehr über die Kelten zu erfahren, während Sie vor dem Wetter geschützt sind.",
+                "hu": "Látogassa meg az értelmező központot, hogy többet tudjon meg a keltákról, miközben védve van az elemektől.",
+                "ro": "Vizitați centrul de interpretare pentru a afla mai multe despre celți, rămânând protejați de vremea nefavorabilă.",
+                "en": "Visit the interpretation center to learn more about the Celts while staying fully protected from the elements."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt uns durch die klare, kalte Luft zu den besten Aussichtspunkten der Region. Mittags erkunden wir die Museen von Rianxo, die im Winter eine ruhige Atmosphäre bieten. Am Nachmittag genießen wir die weiten Panoramen, bevor die Sonne um 17 Uhr früh hinter dem Horizont verschwindet. Der Abend endet entspannt bei einer nächtlichen Fahrt durch das beleuchtete Fischerdorf.",
+            "hu": "A téli autózás a tiszta, hideg levegőn át vezet a régió legjobb kilátópontjaihoz. Délben Rianxo múzeumait fedezzük fel, amelyek télen csendesebb arcukat mutatják. Délután a tágas panorámákban gyönyörködünk, mielőtt a nap 17 órakor korán a horizont alá bukik. Az este egy éjszakai autózással zárul a kivilágított halászfalu utcáin.",
+            "ro": "Călătoria de iarnă ne poartă prin aerul rece și clar spre cele mai bune puncte de belvedere. La prânz, explorăm muzeele din Rianxo, care oferă o atmosferă liniștită. După-amiaza savurăm panoramele largi, înainte ca soarele să apună la ora 17:00. Seara se încheie relaxat cu o plimbare nocturnă prin satul pescăresc iluminat.",
+            "en": "The winter drive takes us through crisp, cold air to the region's best viewpoints. At noon, we explore Rianxo's museums, which offer a quiet atmosphere in winter. In the afternoon, we enjoy expansive panoramas before the sun sets early at 5 PM. The evening ends with a relaxed drive through the illuminated fishing village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Area Longa",
+                "hu": "Praia de Area Longa",
+                "ro": "Praia de Area Longa",
+                "en": "Praia de Area Longa"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft macht die Sicht über das Meer extrem klar; ideal für Landschaftsfotos ohne Dunst.",
+                "hu": "A téli levegő rendkívül tisztává teszi a kilátást a tengerre; ideális tájképek készítéséhez pára nélkül.",
+                "ro": "Aerul de iarnă face vizibilitatea peste mare extrem de clară; ideal pentru fotografii de peisaj fără ceață.",
+                "en": "The winter air makes the view over the sea extremely clear; ideal for landscape photos without any haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento á Virxe de Guadalupe",
+                "hu": "Monumento á Virxe de Guadalupe",
+                "ro": "Monumento á Virxe de Guadalupe",
+                "en": "Monumento á Virxe de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Details der Statue; parken Sie direkt daneben, um der Kälte kurz zu entkommen.",
+                "hu": "Az alacsonyan járó nap kiemeli a szobor részleteit; parkoljon közvetlenül mellette, hogy csak rövid időt töltsön a hidegben.",
+                "ro": "Soarele la înălțime mică scoate în evidență detaliile statuii; parcați chiar lângă ea pentru a evita expunerea la frig.",
+                "en": "The low sun emphasizes the statue's details; park right next to it to limit your exposure to the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Manuel Antonio",
+                "hu": "Casa Museo Manuel Antonio",
+                "ro": "Casa Museo Manuel Antonio",
+                "en": "Casa Museo Manuel Antonio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren; im Winter ist es hier ruhiger, was den Besuch noch intensiver macht.",
+                "hu": "Élvezze a benti meleget; télen sokkal csendesebb a múzeum, ami még bensőségesebbé teszi a látogatást.",
+                "ro": "Bucurați-vă de căldura din interior; iarna este mult mai liniște, ceea ce face vizita și mai profundă.",
+                "en": "Enjoy the warmth inside; it is quieter here in winter, making the museum visit feel even more intimate."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lúa",
+                "hu": "Castelo da Lúa",
+                "ro": "Castelo da Lúa",
+                "en": "Castelo da Lúa"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im harten Winterlicht besonders fotogen; planen Sie den Besuch für den frühen Nachmittag ein.",
+                "hu": "A romok a kemény téli fényben különösen fotogének; tervezze a látogatást kora délutánra a legjobb fényekért.",
+                "ro": "Ruinele sunt foarte fotogenice în lumina aspră de iarnă; planificați vizita devreme după-amiaza pentru lumină optimă.",
+                "en": "The ruins are very photogenic in the harsh winter light; schedule your visit for early afternoon for the best photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de San Xoán de Vista Real",
+                "hu": "Capela de San Xoán de Vista Real",
+                "ro": "Capela de San Xoán de Vista Real",
+                "en": "Capela de San Xoán de Vista Real"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17 Uhr hierher, um den Sonnenuntergang über der Ría im Schutz des Autos zu beobachten.",
+                "hu": "Érkezzen ide röviddel 17 óra előtt, hogy az autó védelméből nézhesse végig a naplementét a Ría felett.",
+                "ro": "Veniți aici puțin înainte de ora 17:00 pentru a urmări apusul peste estuar din confortul mașinii.",
+                "en": "Arrive here shortly before 5 PM to watch the sunset over the Ría from the sheltered comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castros de Neixón",
+                "hu": "Castros de Neixón",
+                "ro": "Castros de Neixón",
+                "en": "Castros de Neixón"
+              },
+              "tip_5lang": {
+                "de": "Die weite Sicht im Winter zeigt die strategische Lage der Anlage; besuchen Sie danach das beheizte Museumszentrum.",
+                "hu": "A téli tiszta kilátás megmutatja a hely stratégiai jelentőségét; utána látogasson el a fűtött múzeumi központba.",
+                "ro": "Vizibilitatea clară de iarnă relevă poziția strategică a sitului; vizitați apoi centrul muzeal încălzit.",
+                "en": "The clear winter visibility reveals the site's strategic location; visit the heated museum center afterwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

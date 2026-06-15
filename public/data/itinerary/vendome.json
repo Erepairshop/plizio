@@ -160,6 +160,196 @@
         "hu": "A reggel Vendôme-ban a történelemben való elmélyüléssel kezdődik. Ahogy az ősi utcákon sétál, érezni fogja az elmúlt évszázadok visszhangját a monumentális kőhomlokzatokon keresztül. A lágy reggeli fény tökéletesen megvilágítja a város bájos építészeti részleteit, hívogatva a titkok felfedezésére.\nDélben a fókusz a városközpontot élettel megtöltő buja zöldterületekre helyeződik át. A parkokban tett séta kellemes kontrasztot kínál a történelmi falazatokkal szemben. A színes botanikai bemutatók és a folyó nyugtató hangja tökéletes légkört teremtenek egy pihentető szünethez.\nA délután Vendôme fenséges erődítményeinek és magasba törő középkori építményeinek további felfedezésére csábít. Az ősi ösvények megmászása panorámás kilátást nyújt a környező tájra. Minden lépés a város gazdag örökségének újabb rétegét tárja fel az impozáns kapuktól a csendes kolostori udvarokig.\nAhogy közeledik az este, a város hangulata gyönyörűen lágyul. A lenyugvó nap meleg aranyfényt vet a nyugodt vizekre és az ősi hidakra, tökéletes hátteret biztosítva egy búcsúsétához. Élvezze a békés légkört, ahogy a nap kecsesen véget ér ebben a történelmi francia gyöngyszemben.",
         "ro": "Dimineața în Vendôme începe cu o incursiune profundă în istorie. Pe măsură ce vă plimbați pe străzile antice, veți simți rezonanța secolelor trecute prin fațadele monumentale din piatră. Lumina blândă a dimineții iluminează perfect detaliile arhitecturale fermecătoare, invitându-vă să descoperiți secrete.\nLa amiază, accentul se mută pe spațiile verzi luxuriante care dau viață centrului orașului. O plimbare prin parcuri oferă un contrast binevenit cu zidăria istorică. Aranjamentele botanice colorate și sunetul liniștitor al râului creează o atmosferă perfectă pentru o pauză de relaxare confortabilă.\nDupă-amiaza invită la o explorare suplimentară a fortărețelor maiestuoase și a structurilor medievale din Vendôme. Urcarea pe cărările antice dezvăluie vederi panoramice ale peisajelor din jur. Fiecare pas descoperă un nou strat al bogatei moșteniri a orașului, de la porți impunătoare la curți monahale.\nPe măsură ce seara se apropie, starea de spirit a orașului se îndulcește. Soarele la apus aruncă o strălucire aurie caldă peste apele liniștite și podurile vechi, oferind un fundal perfect pentru o plimbare de rămas bun. Bucurați-vă de ambianța pașnică în timp ce ziua se încheie în această bijuterie franceză.",
         "en": "Morning in Vendôme starts with a deep dive into history. As you walk the ancient streets, you'll feel the resonance of past centuries echoing through monumental stone facades and quiet alleys. The gentle morning light perfectly illuminates the city's charming architectural details, inviting you to discover its secrets.\nBy midday, the focus shifts to the lush green spaces that breathe life into the city center. Strolling through the vibrant parks offers a welcome contrast to the historic masonry. The colorful botanical displays and the soothing sound of the river create a perfect atmosphere for a relaxing break.\nThe afternoon invites further exploration of Vendôme's majestic fortresses and towering medieval structures. Climbing the ancient pathways reveals panoramic views of the surrounding landscapes. Every step uncovers a new layer of the town's rich heritage, from imposing gates to quiet monastic courtyards.\nAs evening approaches, the city's mood softens beautifully. The setting sun casts a warm golden glow over the tranquil waters and ancient bridges, providing a perfect backdrop for a farewell stroll. Enjoy the peaceful ambiance as the day gracefully concludes in this historic French gem."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen trocken im Museum von Vendôme. Mittags schlendern Sie mit Regenschirm durch den Ronsard-Park und das Sankt-Georgs-Tor. Nachmittags bieten die Schlossruinen und die prächtige Dreifaltigkeitsabtei Schutz vor Schauern. Beenden Sie den Tag am Islette-Turm und achten Sie auf rutschige, nasse Wege.",
+            "hu": "Kezdje az esős reggelt a Vendôme Múzeum kiállításainak felfedezésével. Délben sétáljon át a Ronsard Parkon és a Szent György Kapun, esernyővel a kézben. Délután a kastély romjai és a lenyűgöző Szentháromság Apátság nyújtanak menedéket a záporok elől. Zárja a napot az Islette Toronynál, ügyelve a csúszós, nedves ösvényekre.",
+            "ro": "Începeți dimineața ploioasă la adăpost în Muzeul din Vendôme. La prânz, plimbați-vă prin Parcul Ronsard și Poarta Sfântul Gheorghe, având la îndemână o umbrelă. După-amiaza, ruinele castelului și magnifica Abație a Trinității oferă refugiu din calea averselor. Încheiați la Turnul Islette, pășind cu grijă pe cărările umede.",
+            "en": "Start your rainy morning indoors at the Vendôme Museum. By midday, take a stroll through Ronsard Park and Saint-George's Gate, keeping an umbrella handy. The afternoon involves exploring the ruins of the Château and the magnificent Trinity Abbey, offering shelter from showers. Conclude at Islette Tower, stepping carefully on wet paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Vendôme",
+                "hu": "Vendôme Múzeum",
+                "ro": "Muzeul din Vendôme",
+                "en": "Vendôme Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Innen-Ausstellungen zur Lokalgeschichte im Trockenen; lassen Sie Ihren Schirm am Eingang für einen bequemen Rundgang.",
+                "hu": "Éljevezze a helytörténeti beltéri kiállításokat, hogy száraz maradjon; hagyja az esernyőt a bejáratnál a kényelmes felfedezéshez.",
+                "ro": "Bucurați-vă de expozițiile interioare de istorie locală pentru a sta la uscat; lăsați umbrela la intrare pentru o explorare confortabilă.",
+                "en": "Enjoy the indoor exhibits of local history to stay dry; leave your umbrella at the entrance to comfortably explore the rich artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Ronsard-Park",
+                "hu": "Ronsard Park",
+                "ro": "Parcul Ronsard",
+                "en": "Ronsard Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das regennasse Grün und den Flussblick, aber tragen Sie wasserfeste Schuhe, da die unbefestigten Wege schlammig werden.",
+                "hu": "Csodálja meg az eső áztatta friss zöldet és a folyóra nyíló kilátást, de viseljen vízálló cipőt, mert a földutak meglehetősen sarasak lehetnek.",
+                "ro": "Admirați verdeața proaspătă și priveliștea râului, dar purtați încălțăminte impermeabilă, deoarece aleile nepavate pot deveni noroioase.",
+                "en": "Admire the fresh, rain-kissed greenery and river views, but wear waterproof shoes as the unpaved walking trails can get quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Georgs-Tor",
+                "hu": "Szent György Kapu",
+                "ro": "Poarta Sfântul Gheorghe",
+                "en": "Saint-George's Gate"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende mittelalterliche Architektur dieses Tores und achten Sie bei starkem Regen auf das rutschige Kopfsteinpflaster.",
+                "hu": "Figyelje meg a történelmi kapu lenyűgöző középkori építészetét, de vigyázzon a csúszós macskakövekre a heves esőzések során.",
+                "ro": "Observați arhitectura medievală impresionantă a acestei porți, având grijă la piatra cubică alunecoasă în timpul ploilor torențiale.",
+                "en": "Observe the impressive medieval architecture of this historic gateway, taking care on the slippery cobblestones during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Vendôme",
+                "hu": "Vendôme Kastély",
+                "ro": "Castelul din Vendôme",
+                "en": "Château de Vendôme"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Schlossruinen; bringen Sie einen windfesten Regenschirm mit, da der erhöhte Aussichtspunkt oft böigen Winden ausgesetzt ist.",
+                "hu": "Fedezze fel a kastély romjait és a parkot; hozzon egy szélálló esernyőt, mivel a magaslati kilátó gyakran ki van téve a széllökéseknek.",
+                "ro": "Explorați ruinele castelului și parcul; aduceți o umbrelă rezistentă, deoarece punctul de belvedere este adesea expus rafalelor de vânt.",
+                "en": "Explore the evocative castle ruins and park; bring a sturdy windproof umbrella as the elevated viewpoint is often exposed to gusty winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreifaltigkeitsabtei",
+                "hu": "Szentháromság Apátság",
+                "ro": "Abația Trinității",
+                "en": "Trinity Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die gotische Fassade und betreten Sie das weite Kirchenschiff, um einen ruhigen, trockenen Zufluchtsort vor dem Dauerregen zu finden.",
+                "hu": "Csodálja meg a gótikus homlokzatot, és lépjen be a hatalmas hajóba, hogy csendes, száraz menedéket találjon a kitartó kinti eső elől.",
+                "ro": "Minunați-vă de fațada gotică și pășiți în nava expansivă pentru a găsi un refugiu senin și uscat din calea ploii persistente de afară.",
+                "en": "Marvel at the flamboyant Gothic facade and step inside the expansive nave to find a serene, dry refuge from the persistent outside rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Islette-Turm",
+                "hu": "Islette Torony",
+                "ro": "Turnul Islette",
+                "en": "Islette Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Überbleibsel der alten Stadtmauer von den Wegen aus und achten Sie auf Ihre Schritte, da das nasse Gras rutschig ist.",
+                "hu": "Tekintse meg a régi városfalak ezen masszív maradványát a közeli ösvényekről, gondosan figyelve a lépéseire a vizes fűben.",
+                "ro": "Vedeți acest vestigiu al vechilor ziduri ale orașului de pe aleile apropiate, fiind atenți la pași deoarece iarba udă poate fi alunecoasă.",
+                "en": "View this sturdy vestige of the old town walls from the nearby paths, watching your step closely as the wet grass can be treacherous."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen in den beheizten Räumen des Museums von Vendôme. Mittags machen Sie einen Spaziergang durch den Ronsard-Park und das Sankt-Georgs-Tor in warmen Schichten. Nachmittags besuchen Sie die Schlossruinen und die Dreifaltigkeitsabtei. Erreichen Sie den Islette-Turm vor 17:00 Uhr, bevor die Dämmerung einsetzt.",
+            "hu": "Kezdje a fagyos téli reggelt a Vendôme Múzeum fűtött termeiben. Dél körül tegyen egy frissítő sétát a Ronsard Parkban és a Szent György Kapunál, melegen felöltözve. A délután a kastély romjaihoz és a lélegzetelállító Szentháromság Apátsághoz vezet. Érjen az Islette Toronyhoz 17:00 előtt, hogy még elcsípje a nappali fényt.",
+            "ro": "Începeți dimineața geroasă de iarnă în sălile încălzite ale Muzeului din Vendôme. La prânz, bucurați-vă de o plimbare prin Parcul Ronsard și Poarta Sfântul Gheorghe bine înfofoliți. După-amiaza vă duce la ruinele castelului și la superba Abație a Trinității. Ajungeți la Turnul Islette înainte de 17:00 pentru a prinde lumina zilei.",
+            "en": "Start your brisk winter morning exploring the heated rooms of the Vendôme Museum. Around noon, enjoy a crisp walk through Ronsard Park and Saint-George's Gate bundled up in warm layers. The afternoon brings you to the Château ruins and the breathtaking Trinity Abbey. Aim to reach Islette Tower before 17:00 to catch the fading daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Vendôme",
+                "hu": "Vendôme Múzeum",
+                "ro": "Muzeul din Vendôme",
+                "en": "Vendôme Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte und erkunden Sie die Sammlungen zur Lokalgeschichte in den gut beheizten Räumen in aller Ruhe.",
+                "hu": "Meneküljön a téli hideg elől, és fedezze fel a helytörténeti gyűjteményeket a jól fűtött termekben, kényelmesen megismerve a környéket.",
+                "ro": "Scăpați de frigul iernii explorând colecțiile de istorie locală în sălile bine încălzite, acordându-vă timp pentru a învăța confortabil.",
+                "en": "Escape the winter chill by exploring the local history collections in the well-heated rooms, taking your time to comfortably learn about the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ronsard-Park",
+                "hu": "Ronsard Park",
+                "ro": "Parcul Ronsard",
+                "en": "Ronsard Park"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über die frostigen Wege und bewundern Sie die winterlichen Bäume; tragen Sie isolierte Handschuhe und einen dicken Schal.",
+                "hu": "Sétáljon a dércsípte ösvényeken és csodálja meg a téli fákat; mindenképpen viseljen bélelt kesztyűt és vastag sálat a csípős szél ellen.",
+                "ro": "Plimbați-vă pe cărările înghețate și admirați copacii de iarnă, purtând mănuși izolate și un fular gros împotriva vântului tăios.",
+                "en": "Stroll along the frost-kissed paths and admire the wintery trees, making sure to wear insulated gloves and a thick scarf against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Georgs-Tor",
+                "hu": "Szent György Kapu",
+                "ro": "Poarta Sfântul Gheorghe",
+                "en": "Saint-George's Gate"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das Steintor vor dem klaren Winterhimmel, aber achten Sie auf eisige Stellen auf dem schattigen Kopfsteinpflaster unterm Bogen.",
+                "hu": "Fotózza le az impozáns kőkaput a tiszta téli égbolt előtt, de ügyeljen az árnyékos macskaköveken kialakult jeges foltokra a boltív alatt.",
+                "ro": "Fotografiați poarta de piatră pe fundalul cerului de iarnă, dar atenție la porțiunile înghețate de pe piatra cubică umbrită de sub arcadă.",
+                "en": "Photograph the imposing stone gate against the crisp winter sky, but watch out for icy patches on the shaded cobblestones beneath the archway."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Vendôme",
+                "hu": "Vendôme Kastély",
+                "ro": "Castelul din Vendôme",
+                "en": "Château de Vendôme"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie von den Ruinen den Panoramablick auf die schneebedeckten Dächer; packen Sie sich warm ein, da es auf dem Hügel deutlich kühler ist.",
+                "hu": "Élvezze a város hófedte háztetőire nyíló panorámát a romoktól; öltözzön fel melegen, mert ezen a nyílt dombon jelentősen csökken a hőmérséklet.",
+                "ro": "Bucurați-vă de priveliștea acoperișurilor înzăpezite de la ruine; îmbrăcați-vă gros, deoarece temperaturile scad semnificativ pe acest deal expus.",
+                "en": "Enjoy panoramic views of the city's snow-dusted rooftops from the ruins; wrap up warmly as temperatures drop significantly on this exposed hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreifaltigkeitsabtei",
+                "hu": "Szentháromság Apátság",
+                "ro": "Abația Trinității",
+                "en": "Trinity Abbey"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die majestätische Abtei, um die Buntglasfenster zu bewundern und sich kurz aufzuwärmen, bevor Sie wieder nach draußen gehen.",
+                "hu": "Lépjen be a fenséges apátságba, csodálja meg az ólomüveg ablakokat, és találjon egy rövid, védett menedéket a kezei felmelegítésére.",
+                "ro": "Pășiți în maiestuoasa abație pentru a admira vitraliile și găsiți un scurt refugiu adăpostit pentru a vă încălzi mâinile înainte de a ieși iar.",
+                "en": "Step inside the majestic abbey to admire its stained glass and find a brief, sheltered respite to warm your hands before heading back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Islette-Turm",
+                "hu": "Islette Torony",
+                "ro": "Turnul Islette",
+                "en": "Islette Tower"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie den historischen Turm, wenn die Wintersonne gegen 17:00 Uhr untergeht und lange Schatten auf die ruhende Vegetation wirft.",
+                "hu": "Csodálja meg a történelmi tornyot, ahogy a téli nap 17:00 körül lenyugszik, hosszú árnyékokat vetve a folyópart alvó növényzetére.",
+                "ro": "Minunați-vă de acest turn istoric în timp ce soarele de iarnă apune în jur de 17:00, aruncând umbre lungi peste vegetația latentă.",
+                "en": "Marvel at this historic tower as the winter sun begins to set around 17:00, casting long shadows over the dormant vegetation of the riverbank."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggel Vendôme-ban a történelemben való elmélyüléssel kezdődik. Ahogy az ősi utcákon sétál, érezni fogja az elmúlt évszázadok visszhangját a monumentális kőhomlokzatokon keresztül. A lágy reggeli fény tökéletesen megvilágítja a város bájos építészeti részleteit, hívogatva a titkok felfedezésére.\nDélben a fókusz a városközpontot élettel megtöltő buja zöldterületekre helyeződik át. A parkokban tett séta kellemes kontrasztot kínál a történelmi falazatokkal szemben. A színes botanikai bemutatók és a folyó nyugtató hangja tökéletes légkört teremtenek egy pihentető szünethez.\nA délután Vendôme fenséges erődítményeinek és magasba törő középkori építményeinek további felfedezésére csábít. Az ősi ösvények megmászása panorámás kilátást nyújt a környező tájra. Minden lépés a város gazdag örökségének újabb rétegét tárja fel az impozáns kapuktól a csendes kolostori udvarokig.\nAhogy közeledik az este, a város hangulata gyönyörűen lágyul. A lenyugvó nap meleg aranyfényt vet a nyugodt vizekre és az ősi hidakra, tökéletes hátteret biztosítva egy búcsúsétához. Élvezze a békés légkört, ahogy a nap kecsesen véget ér ebben a történelmi francia gyöngyszemben.",
         "ro": "Dimineața în Vendôme începe cu o incursiune profundă în istorie. Pe măsură ce vă plimbați pe străzile antice, veți simți rezonanța secolelor trecute prin fațadele monumentale din piatră. Lumina blândă a dimineții iluminează perfect detaliile arhitecturale fermecătoare, invitându-vă să descoperiți secrete.\nLa amiază, accentul se mută pe spațiile verzi luxuriante care dau viață centrului orașului. O plimbare prin parcuri oferă un contrast binevenit cu zidăria istorică. Aranjamentele botanice colorate și sunetul liniștitor al râului creează o atmosferă perfectă pentru o pauză de relaxare confortabilă.\nDupă-amiaza invită la o explorare suplimentară a fortărețelor maiestuoase și a structurilor medievale din Vendôme. Urcarea pe cărările antice dezvăluie vederi panoramice ale peisajelor din jur. Fiecare pas descoperă un nou strat al bogatei moșteniri a orașului, de la porți impunătoare la curți monahale.\nPe măsură ce seara se apropie, starea de spirit a orașului se îndulcește. Soarele la apus aruncă o strălucire aurie caldă peste apele liniștite și podurile vechi, oferind un fundal perfect pentru o plimbare de rămas bun. Bucurați-vă de ambianța pașnică în timp ce ziua se încheie în această bijuterie franceză.",
         "en": "Morning in Vendôme starts with a deep dive into history. As you walk the ancient streets, you'll feel the resonance of past centuries echoing through monumental stone facades and quiet alleys. The gentle morning light perfectly illuminates the city's charming architectural details, inviting you to discover its secrets.\nBy midday, the focus shifts to the lush green spaces that breathe life into the city center. Strolling through the vibrant parks offers a welcome contrast to the historic masonry. The colorful botanical displays and the soothing sound of the river create a perfect atmosphere for a relaxing break.\nThe afternoon invites further exploration of Vendôme's majestic fortresses and towering medieval structures. Climbing the ancient pathways reveals panoramic views of the surrounding landscapes. Every step uncovers a new layer of the town's rich heritage, from imposing gates to quiet monastic courtyards.\nAs evening approaches, the city's mood softens beautifully. The setting sun casts a warm golden glow over the tranquil waters and ancient bridges, providing a perfect backdrop for a farewell stroll. Enjoy the peaceful ambiance as the day gracefully concludes in this historic French gem."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre regnerische Radtour am Freiheitsplatz in wasserfester Kleidung. Besuchen Sie morgens das Museum, um sich im Trockenen aufzuhalten. Fahren Sie vorsichtig durch die Pfützen im Ronsard-Park zu den Schlossruinen und bremsen Sie frühzeitig. Nach der Abtei beenden Sie die Tour am Außenbecken mit gut sichtbarer Kleidung.",
+            "hu": "Kezdje esős kerékpáros útját a Szabadság téren, vízálló ruházatban. Irány a Múzeum egy száraz, délelőtti pihenőre. Óvatosan navigáljon a Ronsard Park tócsái között a kastélyig, nedves úton korán fékezve. Az apátság megtekintése után a Külső Medencénél zárja a napot; a láthatósági mellény viselése kötelező.",
+            "ro": "Începeți plimbarea ploioasă cu bicicleta în Piața Libertății, într-un costum impermeabil. Mergeți la Muzeu pentru o pauză matinală uscată. Navigați cu grijă printre bălțile din Parcul Ronsard spre ruinele castelului, frânând devreme pe carosabilul umed. După Abație, încheiați traseul la Bazinul Exterior, purtând echipament reflectorizant.",
+            "en": "Start your rainy bike ride at Square de la Liberté in a waterproof suit. Head to the Museum for a dry, educational morning break. Navigate carefully through Ronsard Park's puddles and up to the Château ruins, braking early on wet roads. After visiting the Abbey, finish your damp ride at the Bassin Extérieur, wearing high-visibility gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der Freiheit",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Square de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt hier mit einem kurzen Blick; sorgen Sie für etwas weniger Reifendruck für besseren Halt auf dem rutschigen Pflaster.",
+                "hu": "Kezdje nedves útját a környék megtekintésével; ellenőrizze, hogy a gumik nyomása kicsit alacsonyabb-e a jobb tapadás érdekében a csúszós aszfalton.",
+                "ro": "Începeți călătoria umedă cu o privire rapidă; asigurați-vă că anvelopele bicicletei sunt ușor dezumflate pentru o aderență mai bună pe asfalt.",
+                "en": "Begin your wet journey here with a quick view of the surroundings; ensure your bike tires are slightly deflated for better grip on the slippery pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Vendôme",
+                "hu": "Vendôme Múzeum",
+                "ro": "Muzeul din Vendôme",
+                "en": "Vendôme Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad ab und treten Sie ein, um dem Regen zu entkommen und tief in die faszinierende Geschichte der Region einzutauchen.",
+                "hu": "Zárja le a kerékpárt, és lépjen be az eső elől, hogy elmélyedjen a régió lenyűgöző történelmében, anélkül, hogy bőrig ázna.",
+                "ro": "Legați-vă bicicleta afară și intrați pentru a scăpa de ploaie, bucurându-vă de o incursiune în istoria regiunii fără a vă uda leoarcă.",
+                "en": "Lock your bike outside and step in to escape the rain, enjoying a deep dive into the region's fascinating history without getting drenched."
+              }
+            },
+            {
+              "name": {
+                "de": "Ronsard-Park",
+                "hu": "Ronsard Park",
+                "ro": "Parcul Ronsard",
+                "en": "Ronsard Park"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie langsam über die baumgesäumten Wege, um die regnerische Stimmung zu genießen; achten Sie auf nasses Laub, das zum Ausrutschen führen kann.",
+                "hu": "Lassan tekerjen a fás ösvényeken, hogy élvezze az esős hangulatot, de nagyon figyeljen a nedves falevelekre, amelyek váratlan megcsúszást okozhatnak.",
+                "ro": "Pedați încet pe aleile cu copaci pentru a aprecia ambianța ploioasă, fiind foarte atenți la frunzele ude care pot provoca derapaje.",
+                "en": "Cycle slowly along the tree-lined paths to appreciate the rainy ambiance, keeping a sharp eye out for wet leaves that can cause unexpected skids."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Vendôme",
+                "hu": "Vendôme Kastély",
+                "ro": "Castelul din Vendôme",
+                "en": "Château de Vendôme"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad die nasse Steigung zu den Ruinen hinauf; bremsen Sie bergab sanft, um Aquaplaning auf der durchnässten Oberfläche zu vermeiden.",
+                "hu": "Tolja fel a kerékpárt a nedves lejtőn a történelmi romokhoz; lefelé óvatosan használja a féket, hogy elkerülje a felúszást az átázott úton.",
+                "ro": "Împingeți bicicleta pe panta umedă spre ruine; folosiți frânele ușor la coborâre pentru a evita acvaplanarea pe suprafața îmbibată cu apă.",
+                "en": "Push your bike up the wet incline to the historic ruins; use your brakes gently on the descent to avoid hydroplaning on the soaked surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreifaltigkeitsabtei",
+                "hu": "Szentháromság Apátság",
+                "ro": "Abația Trinității",
+                "en": "Trinity Abbey"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter dem Vordach und trocknen Sie sich in diesem gotischen Meisterwerk, einem perfekten kulturellen Zufluchtsort bei Nachmittagsschauern.",
+                "hu": "Parkoljon az eresz alá, és szárátkozzon meg ebben a lenyűgöző gótikus remekműben, amely tökéletes kulturális menedék a kitartó délutáni záporok idején.",
+                "ro": "Parcați sub streșini și uscați-vă în interiorul acestei capodopere gotice, un sanctuar cultural perfect în timpul averselor persistente de după-amiază.",
+                "en": "Park under the eaves and dry off inside this awe-inspiring Gothic masterpiece, a perfect cultural sanctuary during persistent afternoon showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Außenbecken",
+                "hu": "Külső Medence",
+                "ro": "Bazinul Exterior",
+                "en": "Bassin Extérieur"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt am Außenbecken, wo Regentropfen Wellen schlagen; tragen Sie eine Warnweste, da der regnerische Himmel das Licht dämpft.",
+                "hu": "Zárja az utat a szabadtéri medencénél, ahol az esőcseppek gyönyörű hullámokat vetnek; viseljen láthatósági kabátot a sötét esős égen.",
+                "ro": "Încheiați plimbarea la bazinul exterior, unde ploaia creează valuri frumoase; purtați o jachetă reflectorizantă, deoarece cerul ploios diminuează lumina.",
+                "en": "End your ride by the outdoor basin, where raindrops create beautiful ripples; wear a high-visibility jacket as the rainy skies dim the light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine morgendliche Winterfahrt ab dem Freiheitsplatz warm ein. Wärmen Sie sich im Museum auf, bevor Sie dem kalten Wind im Ronsard-Park trotzen. Der Aufstieg zu den Schlossruinen bringt Ihren Kreislauf in Schwung. Beenden Sie die Tour an der Abtei und dem Außenbecken vor 17:00 Uhr mit voll aufgeladenen Lichtern.",
+            "hu": "Öltözzön fel melegen a fagyos téli reggeli tekeréshez, a Szabadság térről indulva. Melegedjen fel a Múzeumban, mielőtt dacolna a Ronsard Park csípős szelével. A délutáni emelkedő a kastélyhoz felpezsdíti a vérét. Fejezze be az utat az apátságnál és a medencénél jóval 17:00 előtt, teljesen feltöltött kerékpárlámpákkal.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă începând din Piața Libertății. Încălziți-vă în Muzeu înainte de a înfrunta briza rece din Parcul Ronsard. Urcușul de după-amiază spre ruine vă va pune sângele în mișcare. Finalizați la Abație și Bazinul Exterior mult înainte de 17:00, având luminile bicicletei complet încărcate.",
+            "en": "Bundle up for a crisp winter morning ride, starting at Square de la Liberté. Warm up inside the Museum before braving the chilly breeze in Ronsard Park. The afternoon climb to the Château ruins will get your blood pumping. Finish at the Abbey and the Bassin Extérieur well before 17:00, ensuring your bike lights are fully charged."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der Freiheit",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Square de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre frostige Tour am winterlichen Platz; tragen Sie Thermokleidung und winddichte Handschuhe, um Ihre Hände am Lenker reaktionsfähig zu halten.",
+                "hu": "Kezdje a fagyos expedíciót a dérlepte tér megcsodálásával; viseljen termo rétegeket és szélálló kesztyűt, hogy kezei fürgék maradjanak a kormányon.",
+                "ro": "Începeți expediția răcoroasă admirând piața înghețată; purtați straturi termice și mănuși anti-vânt pentru a vă menține mâinile receptive pe ghidon.",
+                "en": "Start your chilly expedition by admiring the frost-covered square; wear thermal layers and windproof gloves to keep your hands responsive on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Vendôme",
+                "hu": "Vendôme Múzeum",
+                "ro": "Muzeul din Vendôme",
+                "en": "Vendôme Museum"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine Pause von den eisigen Temperaturen und erkunden Sie die historischen Ausstellungen in einer perfekt beheizten und komfortablen Umgebung.",
+                "hu": "Tartson egy feltöltő szünetet a fagyos hidegben, hogy tökéletesen fűtött, kényelmes környezetben fedezze fel a lebilincselő történelmi kiállításokat.",
+                "ro": "Luați o pauză de la temperaturile de îngheț pentru a explora exponatele istorice captivante într-un mediu perfect încălzit și confortabil.",
+                "en": "Take a fulfilling break from the freezing temperatures to explore the engaging historical exhibits in a perfectly heated and comfortable environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Ronsard-Park",
+                "hu": "Ronsard Park",
+                "ro": "Parcul Ronsard",
+                "en": "Ronsard Park"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie zügig in die Pedale, um sich auf den kahlen Wegen warm zu halten, und meiden Sie eisige Stellen in den schattigen Kurven des Radwegs.",
+                "hu": "Tekerjen tempósan a csupasz fák közötti ösvényeken, hogy melegen tartsa magát, elkerülve a láthatóan jeges foltokat a téli kerékpárút árnyékos kanyarjaiban.",
+                "ro": "Pedați vioi pe aleile cu copaci desfrunziți pentru a vă încălzi, evitând orice porțiuni vizibil înghețate de pe curbele umbrite ale pistei de iarnă.",
+                "en": "Pedal briskly along the bare-treed paths to stay warm, avoiding any visibly icy patches on the shaded curves of the wintery bike trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Vendôme",
+                "hu": "Vendôme Kastély",
+                "ro": "Castelul din Vendôme",
+                "en": "Château de Vendôme"
+              },
+              "tip_5lang": {
+                "de": "Die kräftige Fahrt zu den Ruinen wärmt Sie auf; genießen Sie das Winterpanorama, aber setzen Sie eine Thermomütze fest gegen den Wind auf dem Hügel.",
+                "hu": "A romokhoz vezető lendületes út alaposan felmelegíti; élvezze a téli panorámát, de húzza a fülébe a sapkát a hegytetőn fújó szél ellen.",
+                "ro": "Cursa viguroasă spre ruine vă va încălzi bine; bucurați-vă de panorama de iarnă, dar fixați-vă bine o căciulă termică împotriva vânturilor de pe deal.",
+                "en": "The vigorous ride up to the ruins will warm you thoroughly; enjoy the winter panorama but secure a thermal hat tightly against the hilltop winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreifaltigkeitsabtei",
+                "hu": "Szentháromság Apátság",
+                "ro": "Abația Trinității",
+                "en": "Trinity Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur und treten Sie in das Kirchenschiff ein, um sich aufzuwärmen, wenn die Nachmittagssonne früh zu sinken beginnt.",
+                "hu": "Csodálja meg a lenyűgöző gótikus építészetet, és lépjen a hatalmas hajóba egy kis melegedésre, ahogy a délutáni nap elkezdi korai ereszkedését.",
+                "ro": "Admirați arhitectura gotică uimitoare și pășiți în nava vastă pentru un moment de căldură liniștită, pe măsură ce soarele de după-amiază începe să apună devreme.",
+                "en": "Admire the stunning Gothic architecture and step into the vast nave for a moment of quiet warmth as the afternoon sun begins its early descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Außenbecken",
+                "hu": "Külső Medence",
+                "ro": "Bazinul Exterior",
+                "en": "Bassin Extérieur"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie hier an, wenn gegen 17:00 Uhr die Dämmerung einsetzt, genießen Sie die Spiegelung im Wasser und schalten Sie Ihre hellen Fahrradlichter ein.",
+                "hu": "Érkezzen ide, amikor 17:00 körül leszáll a kora esti szürkület, élvezve a jeges tükröződést a vízen, mielőtt biztonsága érdekében bekapcsolná a lámpákat.",
+                "ro": "Ajungeți aici în timp ce crepusculul cade devreme în jurul orei 17:00, bucurându-vă de reflexia înghețată înainte de a aprinde luminile bicicletei.",
+                "en": "Arrive here as the early twilight falls around 17:00, enjoying the frosty reflection on the water before switching on your bright bike lights for safety."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A reggel Vendôme-ban a történelemben való elmélyüléssel kezdődik. Ahogy az ősi utcákon sétál, érezni fogja az elmúlt évszázadok visszhangját a monumentális kőhomlokzatokon keresztül. A lágy reggeli fény tökéletesen megvilágítja a város bájos építészeti részleteit, hívogatva a titkok felfedezésére.\nDélben a fókusz a városközpontot élettel megtöltő buja zöldterületekre helyeződik át. A parkokban tett séta kellemes kontrasztot kínál a történelmi falazatokkal szemben. A színes botanikai bemutatók és a folyó nyugtató hangja tökéletes légkört teremtenek egy pihentető szünethez.\nA délután Vendôme fenséges erődítményeinek és magasba törő középkori építményeinek további felfedezésére csábít. Az ősi ösvények megmászása panorámás kilátást nyújt a környező tájra. Minden lépés a város gazdag örökségének újabb rétegét tárja fel az impozáns kapuktól a csendes kolostori udvarokig.\nAhogy közeledik az este, a város hangulata gyönyörűen lágyul. A lenyugvó nap meleg aranyfényt vet a nyugodt vizekre és az ősi hidakra, tökéletes hátteret biztosítva egy búcsúsétához. Élvezze a békés légkört, ahogy a nap kecsesen véget ér ebben a történelmi francia gyöngyszemben.",
         "ro": "Dimineața în Vendôme începe cu o incursiune profundă în istorie. Pe măsură ce vă plimbați pe străzile antice, veți simți rezonanța secolelor trecute prin fațadele monumentale din piatră. Lumina blândă a dimineții iluminează perfect detaliile arhitecturale fermecătoare, invitându-vă să descoperiți secrete.\nLa amiază, accentul se mută pe spațiile verzi luxuriante care dau viață centrului orașului. O plimbare prin parcuri oferă un contrast binevenit cu zidăria istorică. Aranjamentele botanice colorate și sunetul liniștitor al râului creează o atmosferă perfectă pentru o pauză de relaxare confortabilă.\nDupă-amiaza invită la o explorare suplimentară a fortărețelor maiestuoase și a structurilor medievale din Vendôme. Urcarea pe cărările antice dezvăluie vederi panoramice ale peisajelor din jur. Fiecare pas descoperă un nou strat al bogatei moșteniri a orașului, de la porți impunătoare la curți monahale.\nPe măsură ce seara se apropie, starea de spirit a orașului se îndulcește. Soarele la apus aruncă o strălucire aurie caldă peste apele liniștite și podurile vechi, oferind un fundal perfect pentru o plimbare de rămas bun. Bucurați-vă de ambianța pașnică în timp ce ziua se încheie în această bijuterie franceză.",
         "en": "Morning in Vendôme starts with a deep dive into history. As you walk the ancient streets, you'll feel the resonance of past centuries echoing through monumental stone facades and quiet alleys. The gentle morning light perfectly illuminates the city's charming architectural details, inviting you to discover its secrets.\nBy midday, the focus shifts to the lush green spaces that breathe life into the city center. Strolling through the vibrant parks offers a welcome contrast to the historic masonry. The colorful botanical displays and the soothing sound of the river create a perfect atmosphere for a relaxing break.\nThe afternoon invites further exploration of Vendôme's majestic fortresses and towering medieval structures. Climbing the ancient pathways reveals panoramic views of the surrounding landscapes. Every step uncovers a new layer of the town's rich heritage, from imposing gates to quiet monastic courtyards.\nAs evening approaches, the city's mood softens beautifully. The setting sun casts a warm golden glow over the tranquil waters and ancient bridges, providing a perfect backdrop for a farewell stroll. Enjoy the peaceful ambiance as the day gracefully concludes in this historic French gem."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt nahe dem Freiheitsplatz und genießen Sie die Aussicht vom trockenen Auto. Besuchen Sie morgens das Museum für eine Indoor-Aktivität. Fahren Sie vorsichtig auf nassen Straßen zum Sankt-Georgs-Tor und den Schlossruinen. Nach der Abtei parken Sie nachmittags sicher am Außenbecken und beenden den Tag.",
+            "hu": "Kezdje esős autózását a Szabadság térnél, a száraz utastérből csodálva a tájat. Látogasson el a Múzeumba egy délelőtti benti programra. Vezessen a Szent György Kapuhoz, majd fel a kastélyhoz, óvatosan a csúszós utakon. Töltsön egy nedves délutánt az apátság felfedezésével, majd zárjon biztonságosan, óvatos parkolással a Külső Medencénél.",
+            "ro": "Începeți plimbarea cu mașina pe ploaie lângă Piața Libertății, admirând peisajul la uscat. Vizitați Muzeul pentru o activitate matinală interioară. Conduceți spre Poarta Sfântul Gheorghe și ruinele castelului cu prudență pe drumurile alunecoase. Explorați Abația, încheind în siguranță la Bazinul Exterior cu o parcare atentă.",
+            "en": "Start your rainy drive near Square de la Liberté, appreciating the scenery from a dry car. Visit the Museum for an indoor morning activity. Drive down to Saint-George's Gate and up to the Château ruins, using caution on slick roads. Spend a wet afternoon exploring the Abbey, concluding safely by the Bassin Extérieur with careful parking."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der Freiheit",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Square de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den regnerischen Platz bequem von Ihrem Fahrzeug aus, bevor Sie mit dem Regenschirm für einen kurzen Blick hinaus eilen.",
+                "hu": "Figyelje meg az eső áztatta teret a jármű kényelméből, mielőtt felkapná az esernyőjét egy gyors, frissítő pillantás erejéig.",
+                "ro": "Observați piața bătută de ploaie din confortul vehiculului înainte de a vă lua umbrela pentru a ieși la o vedere rapidă și răcoroasă.",
+                "en": "Observe the rain-swept square from the comfort of your vehicle before grabbing your umbrella to dash out for a quick, refreshing view."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Vendôme",
+                "hu": "Vendôme Múzeum",
+                "ro": "Muzeul din Vendôme",
+                "en": "Vendôme Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie erlaubt und genießen Sie diese trockene historische Ausstellung, während starke Regenschauer über das Stadtzentrum fegen.",
+                "hu": "Parkoljon a lehető legközelebb a szabályok betartásával, és élvezze ezt a száraz, gazdag történelmi kiállítást, miközben heves záporok söpörnek végig a városon.",
+                "ro": "Parcați cât mai aproape posibil legal și bucurați-vă de această expoziție istorică uscată, în timp ce aversele puternice străbat centrul istoric al orașului.",
+                "en": "Park as close as legally permitted and enjoy this dry, rich historical exhibit while heavy rain showers sweep across the historic town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Georgs-Tor",
+                "hu": "Szent György Kapu",
+                "ro": "Poarta Sfântul Gheorghe",
+                "en": "Saint-George's Gate"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an dem mittelalterlichen Tor vorbei; achten Sie bei starkem Regen auf eingeschränkte Sicht und Fußgänger, die Schutz suchen.",
+                "hu": "Vezessen lassan az impozáns középkori kapu mellett, magas fokozatra állítva az ablaktörlőt; vigyázzon a korlátozott látási viszonyokra és a menedékbe futó gyalogosokra.",
+                "ro": "Conduceți încet pe lângă impunătoarea poartă medievală, folosind ștergătoarele pe treapta înaltă; atenție la vizibilitatea redusă și pietonii care aleargă după adăpost.",
+                "en": "Drive slowly past the imposing medieval gate, utilizing your wipers on high; beware of limited visibility and pedestrians running for cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Vendôme",
+                "hu": "Vendôme Kastély",
+                "ro": "Castelul din Vendôme",
+                "en": "Château de Vendôme"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig auf der nassen Zufahrtsstraße; nutzen Sie nach dem Parken einen stabilen Regenschirm, da die Ruinen kaum Schutz vor Regen bieten.",
+                "hu": "Óvatosan navigáljon a kanyargós, nedves felhajtón; parkolás után használjon masszív esernyőt, mivel a nyílt romok alig nyújtanak védelmet a heves eső ellen.",
+                "ro": "Navigați cu grijă pe drumul de acces sinuos și ud; odată parcați, folosiți o umbrelă robustă, deoarece ruinele expuse oferă puțină protecție împotriva ploii.",
+                "en": "Navigate the winding, wet access road carefully; once parked, use a sturdy umbrella as the exposed ruins offer very little protection from driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreifaltigkeitsabtei",
+                "hu": "Szentháromság Apátság",
+                "ro": "Abația Trinității",
+                "en": "Trinity Abbey"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach überdachten Parkplätzen in der Nähe, bevor Sie das große, trockene Innere dieser unglaublichen gotischen Kirche erkunden.",
+                "hu": "Keressen közeli fedett vagy védett parkolóhelyet, mielőtt felfedezné e hihetetlen gótikus templom hatalmas, száraz belső terét, kint hagyva a nedvességet.",
+                "ro": "Căutați o parcare acoperită sau protejată în apropiere înainte de a explora interiorul vast și uscat al acestei biserici gotice incredibile, lăsând umezeala afară.",
+                "en": "Seek out nearby covered or sheltered parking before exploring the vast, dry interior of this incredible Gothic church, leaving the dampness outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Außenbecken",
+                "hu": "Külső Medence",
+                "ro": "Bazinul Exterior",
+                "en": "Bassin Extérieur"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das wellige Außenbecken vom warmen Auto aus und seien Sie beim Rückwärtsfahren und Rangieren auf den nassen Parkflächen besonders vorsichtig.",
+                "hu": "Tekintse meg a hullámzó medencét az autó melegéből, és különösen ügyeljen a tolatásra és a manőverezésre a nedves parkolófelületeken.",
+                "ro": "Priviți bazinul exterior învolburat din căldura mașinii, având o grijă deosebită la mersul cu spatele și manevrarea pe suprafețele de parcare ude.",
+                "en": "View the rippling outdoor basin from the warmth of your car, taking extra care reversing and maneuvering on the wet parking surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Enteisen Sie Ihr Auto für eine morgendliche Wintertour ab dem Freiheitsplatz. Genießen Sie das beheizte Museum, bevor Sie mit laufender Heizung zum Sankt-Georgs-Tor fahren. Fahren Sie sicher zu den Schlossruinen hinauf und achten Sie auf Frost in schattigen Kurven. Besuchen Sie vor der Abenddämmerung um 17:00 Uhr die Abtei und das Außenbecken.",
+            "hu": "Jégmentesítse autóját a téli reggeli túrához, amely a Szabadság térről indul. Élvezze a jól fűtött Múzeumot, mielőtt bekapcsolt fűtéssel a Szent György Kapuhoz hajtana. Óvatosan menjen fel a kastély romjaihoz, ügyelve a dérre az árnyékos kanyarokban. Zárja a napot az apátságnál és a Külső Medencénél a 17:00 órás szürkület beállta előtt.",
+            "ro": "Dezghețați mașina pentru un tur de iarnă dimineața, începând din Piața Libertății. Bucurați-vă de Muzeul încălzit înainte de a conduce spre Poarta Sfântul Gheorghe cu căldura pornită. Urcați în siguranță spre ruinele castelului, atenți la îngheț în curbele umbrite. Încheiați ziua vizitând Abația și Bazinul Exterior înainte de crepusculul de la 17:00.",
+            "en": "Defrost your car for a winter morning tour, starting at Square de la Liberté. Enjoy the well-heated Museum before driving to Saint-George's Gate with the heater running. Ascend safely to the Château ruins, mindful of frost on shaded bends. Conclude your day visiting the Abbey and the Bassin Extérieur before the 17:00 dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der Freiheit",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Square de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihren Roadtrip bei kaltem Wetter, treten Sie kurz in die frische Luft und wärmen Sie dann Ihre Finger wieder im Auto auf.",
+                "hu": "Kezdje itt a hideg időjárású autós utat, röviden kilépve a friss levegőre, mielőtt visszatérne a jármű kényelmébe, hogy felolvassza ujjait.",
+                "ro": "Începeți aici călătoria pe vreme rece, ieșind scurt în aerul proaspăt înainte de a vă întoarce la confortul vehiculului pentru a vă dezgheța degetele.",
+                "en": "Begin your cold-weather road trip here, stepping out briefly into the crisp air before returning to the vehicle's comfort to defrost your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Vendôme",
+                "hu": "Vendôme Múzeum",
+                "ro": "Muzeul din Vendôme",
+                "en": "Vendôme Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie den eisigen Außenbedingungen und erkunden Sie diese wunderbar beheizte Innenumgebung in Ruhe, um Ihre Energie zu sparen.",
+                "hu": "Meneküljön be a fagyos kinti időjárás elől, és fedezze fel alaposan ezt a gazdagon berendezett, csodálatosan fűtött beltéri környezetet, spórolva az energiájával.",
+                "ro": "Scăpați de condițiile exterioare de îngheț explorând amănunțit acest mediu interior bogat curat și minunat încălzit, economisindu-vă energia.",
+                "en": "Escape the freezing outdoor conditions by thoroughly exploring this richly curated and wonderfully heated indoor environment, saving your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Georgs-Tor",
+                "hu": "Szent György Kapu",
+                "ro": "Poarta Sfântul Gheorghe",
+                "en": "Saint-George's Gate"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um die Architektur zu bewundern, und schalten Sie das Licht früh ein, da die tiefstehende Wintersonne die Sicht einschränkt.",
+                "hu": "Húzódjon félre biztonságosan a történelmi építészet megcsodálásához, és kapcsolja be korán a fényszórókat, mivel az alacsony téli nap vagy a borús égbolt ronthatja a látási viszonyokat.",
+                "ro": "Trageți pe dreapta în siguranță pentru a admira arhitectura, aprinzând farurile devreme, deoarece soarele de iarnă scăzut reduce sever vizibilitatea.",
+                "en": "Pull over safely to admire the historic architecture, turning on your headlights early as low winter sun or overcast skies can severely reduce visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Vendôme",
+                "hu": "Vendôme Kastély",
+                "ro": "Castelul din Vendôme",
+                "en": "Château de Vendôme"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zu den Ruinen hinauf und achten Sie auf mögliches Blitzeis auf den Zufahrtsstraßen; ziehen Sie sich auf dem windigen Hügel warm an.",
+                "hu": "Óvatosan vezessen fel a romokhoz, különösen figyelve az esetleges fekete jégre a felhajtókon; öltözzön fel vastagon, amikor kilép a szeles gerincen.",
+                "ro": "Conduceți spre ruine cu grijă, acordând mare atenție posibilei gheți negre pe drumurile de acces; îmbrăcați-vă foarte gros la coborârea pe creasta vânturoasă.",
+                "en": "Drive up to the ruins carefully, paying close attention to potential black ice on the access roads; wrap up heavily when stepping out on the windy crest."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreifaltigkeitsabtei",
+                "hu": "Szentháromság Apátság",
+                "ro": "Abația Trinității",
+                "en": "Trinity Abbey"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz und eilen Sie ins monumentale Kirchenschiff, um die Architektur zu bewundern und sofortige Linderung von der Winterkälte zu finden.",
+                "hu": "Miután talált parkolót, siessen a monumentális hajóba, hogy megcsodálja az építészetet, miközben azonnali megkönnyebbülést talál a csípős téli hideg elől.",
+                "ro": "După ce găsiți parcare, grăbiți-vă în nava monumentală pentru a vă minuna de arhitectură, găsind în același timp o ușurare imediată de frigul iernii.",
+                "en": "After finding a parking spot, hurry inside the monumental nave to marvel at the architecture while finding immediate relief from the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Außenbecken",
+                "hu": "Külső Medence",
+                "ro": "Bazinul Exterior",
+                "en": "Bassin Extérieur"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor 17:00 Uhr, um das schwindende Tageslicht auf dem eisigen Wasser zu sehen, bevor Sie am dunklen Winterabend heimfahren.",
+                "hu": "Próbálja meg 17:00 előtt felkeresni ezt a helyet, hogy elcsípje a jeges vízen tükröződő fogyatkozó nappali fényt, mielőtt hazaindulna a sötét téli estén.",
+                "ro": "Încercați să vizitați acest loc chiar înainte de ora 17:00 pentru a prinde lumina slabă reflectată pe apa înghețată înainte de a pleca acasă în seara întunecată de iarnă.",
+                "en": "Aim to visit this spot just before 17:00 to catch the fading daylight reflecting off the icy water before heading home in the dark winter evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

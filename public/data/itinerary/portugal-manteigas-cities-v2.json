@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Manteigas történelmi polgári központjának felfedezésével.\n\nDélben váltson át az építészeti látnivalókról a békés helyi kápolnákra.\n\nTöltse a délutánt egy kellemes sétával a lenti gyönyörű termálvölgy irányába.\n\nZárja az estét a híres fürdők és elegáns hegyvidéki szállodák közelében pihenve.",
         "ro": "Începeți dimineața explorând centrul civic istoric din pitorescul oraș Manteigas.\n\nLa prânz, treceți de la obiectivele arhitecturale la capela locală liniștită.\n\nPetreceți-vă după-amiaza bucurându-vă de o plimbare plăcută spre valea termală.\n\nÎncheiați seara relaxându-vă lângă faimoasele băi și hoteluri montane de lux.",
         "en": "Start your morning exploring the historic civic center of Manteigas.\n\nBy midday, transition from the architectural sights to the peaceful local chapels.\n\nSpend your afternoon enjoying a pleasant downhill walk towards the thermal valley.\n\nConclude the evening relaxing near the famous baths and elegant mountain hotels."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am historischen Rathaus. Suchen Sie mittags Schutz in den schönen örtlichen Kirchen. Nachmittags bieten die Thermalbäder einen perfekten warmen Zufluchtsort vor dem Nieselregen. Beenden Sie Ihren Spaziergang im gemütlichen Hotel Vila Galé und genießen Sie den Innenbereich.",
+            "hu": "Kezdje az esős reggelt a történelmi Városházánál. Délben keressen menedéket a gyönyörű helyi templomokban a záporok elől. Délután a termálfürdő tökéletes, meleg menedéket nyújt a szitáló esőben. Zárja a napot a kényelmes Hotel Vila Galé falai között, élvezve a benti meleget.",
+            "ro": "Începeți dimineața ploioasă la Primăria istorică. La prânz, adăpostiți-vă în frumoasele biserici locale în timp ce plouă. După-amiaza, băile termale oferă un refugiu cald perfect împotriva burniței. Încheiați plimbarea la confortabilul Hotel Vila Galé, bucurându-vă de atmosfera interioară.",
+            "en": "Start your wet morning at the historic Town Hall. By midday, take shelter in the beautiful local churches as the rain falls. In the afternoon, the thermal baths offer a perfect warm refuge from the drizzle. Conclude your rainy walk at the cozy Hotel Vila Galé, enjoying the indoor comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Manteigas",
+                "hu": "Câmara Municipal de Manteigas",
+                "ro": "Câmara Municipal de Manteigas",
+                "en": "Câmara Municipal de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Rathauses unter Ihrem Regenschirm; der überdachte Eingang bietet eine kurze Pause vom starken Regen.",
+                "hu": "Csodálja meg a városháza építészetét az esernyője alól; a fedett bejárat rövid menedéket nyújt a szakadó eső elől.",
+                "ro": "Admirați arhitectura primăriei de sub umbrelă; intrarea acoperită oferă un scurt răgaz de la ploaia torențială.",
+                "en": "Admire the town hall's architecture from under your umbrella; the covered entrance offers a brief respite from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de São Pedro",
+                "hu": "Igreja de São Pedro",
+                "ro": "Igreja de São Pedro",
+                "en": "Igreja de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese schöne Kirche ein, um sich aufzuwärmen und die Altäre zu bewundern, während Sie den Regenschauern entfliehen.",
+                "hu": "Lépjen be ebbe a gyönyörű templomba megszáradni, és csodálja meg az oltárképeket, miközben menedéket talál a hirtelen záporok elől.",
+                "ro": "Pășiți în această frumoasă biserică pentru a vă usca, admirând altarele sale complexe în timp ce scăpați de ploile bruște.",
+                "en": "Step inside this beautiful church to dry off, admiring its intricate altarpieces while escaping the sudden rain showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor do Calvário",
+                "hu": "Capela do Senhor do Calvário",
+                "ro": "Capela do Senhor do Calvário",
+                "en": "Capela do Senhor do Calvário"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu dieser Kapelle kann bei Nässe sehr rutschig sein; tragen Sie wasserdichte Schuhe, um den Eingang sicher zu erreichen.",
+                "hu": "Az ehhez a bájos kápolnához vezető út esőben csúszós lehet, ezért viseljen tapadós vízálló bakancsot a biztonságos megközelítéshez.",
+                "ro": "Cărarea spre această capelă poate fi alunecoasă, așa că purtați cizme impermeabile rezistente pentru a ajunge în siguranță la intrare.",
+                "en": "The path to this charming chapel can be quite slippery when wet, so wear sturdy waterproof boots to safely reach the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Termas de Manteigas",
+                "hu": "Termas de Manteigas",
+                "ro": "Termas de Manteigas",
+                "en": "Termas de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Diese Thermalbäder sind der ultimative Zufluchtsort an Regentagen; baden Sie im heißen Wasser, während Sie dem Regen lauschen.",
+                "hu": "Ezek a termálfürdők a tökéletes esős napi menedékek; áztassa magát a gyógyító forró vízben, hallgatva az eső kopogását a tetőn.",
+                "ro": "Aceste băi termale sunt sanctuarul perfect pentru zile ploioase; relaxați-vă în apele calde în timp ce ascultați ploaia pe acoperiș.",
+                "en": "These thermal baths are the ultimate rainy-day sanctuary; soak in the healing hot waters while listening to the rain on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Hotel Vila Galé Serra da Estrela",
+                "hu": "Hotel Vila Galé Serra da Estrela",
+                "ro": "Hotel Vila Galé Serra da Estrela",
+                "en": "Hotel Vila Galé Serra da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang in der einladenden Hotellobby; holen Sie sich ein Heißgetränk und entspannen Sie sich drinnen.",
+                "hu": "Zárja a nedves sétát a szálloda hívogató lobbijában; igyon egy forró italt, és pihenjen bent, miközben kint tovább szakad az eső.",
+                "ro": "Încheiați plimbarea udă în holul primitor al hotelului; luați o băutură caldă și relaxați-vă înăuntru în timp ce ploaia continuă.",
+                "en": "Conclude your wet walk in the hotel's inviting lobby; grab a hot drink and relax indoors as the Portuguese rain continues to fall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen warm eingepackt am Rathaus. Mittags besuchen Sie in Ruhe die historischen Kirchen. Am kalten Nachmittag sind die warmen Thermalbäder ein wahrer Segen. Beenden Sie den Tag im Hotel Vila Galé vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a csípős téli reggelt melegen felöltözve a Városházánál. Délben tegyen egy békés látogatást a történelmi templomokban. A hideg délutánon a meleg termálfürdő igazi áldás. Érjen a Hotel Vila Galéba a korai, 17:00 órás naplemente előtt, és töltsön egy meghitt estét bent.",
+            "ro": "Începeți dimineața geroasă de iarnă la Primărie, îmbrăcați gros. Prânzul aduce o vizită liniștită la bisericile istorice. În după-amiaza rece, băile termale calde sunt o adevărată binecuvântare. Terminați la Hotel Vila Galé înainte de apusul de la ora 17:00, savurând o seară confortabilă.",
+            "en": "Begin your brisk winter morning at the Town Hall, wrapped in warm layers. Midday brings a serene visit to the historic churches. In the cold afternoon, the warm thermal baths are a true blessing. Finish at the Hotel Vila Galé before the early 17:00 sunset, enjoying a cozy evening indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Manteigas",
+                "hu": "Câmara Municipal de Manteigas",
+                "ro": "Câmara Municipal de Manteigas",
+                "en": "Câmara Municipal de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die steinerne Fassade des Zentrums, aber tragen Sie dicke Handschuhe, da der Winterwind hier sehr beißend sein kann.",
+                "hu": "Gyönyörködjön a kőhomlokzatban, de viseljen vastag kesztyűt, mert a téli szél ezen a nyitott téren nagyon csípős lehet.",
+                "ro": "Priviți fațada din piatră a centrului civic, dar purtați mănuși groase, deoarece vântul de iarnă poate fi foarte aspru aici.",
+                "en": "Take in the civic center's solid stone facade, but make sure to wear thick gloves as the winter wind here can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de São Pedro",
+                "hu": "Igreja de São Pedro",
+                "ro": "Igreja de São Pedro",
+                "en": "Igreja de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten sie kühl, behalten Sie also Ihren Wintermantel an, während Sie die Kunstwerke bestaunen.",
+                "hu": "A templom vastag falai miatt bent is hűvös van, ezért tartsa magán a télikabátot, miközben a vallási műalkotásokat csodálja.",
+                "ro": "Pereții groși ai bisericii mențin frigul, așa că păstrați haina de iarnă pe dumneavoastră în timp ce admirați arta religioasă.",
+                "en": "The church's thick walls keep it chilly inside, so keep your winter coat on while marveling at the stunning religious artwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor do Calvário",
+                "hu": "Capela do Senhor do Calvário",
+                "ro": "Capela do Senhor do Calvário",
+                "en": "Capela do Senhor do Calvário"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winteraussicht von der Kapelle, aber wickeln Sie sich einen warmen Schal um, um die eisige Bergluft abzuwehren.",
+                "hu": "Élvezze a tiszta téli kilátást a kápolna udvaráról, de tekerjen meleg sálat a nyakába a fagyos hegyi huzat ellen.",
+                "ro": "Bucurați-vă de priveliștile de iarnă de la capelă, dar înfășurați-vă un fular cald pentru a bloca curenții înghețați de munte.",
+                "en": "Enjoy the crisp winter views from the chapel grounds, but wrap a warm scarf around your neck to block the freezing mountain drafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Termas de Manteigas",
+                "hu": "Termas de Manteigas",
+                "ro": "Termas de Manteigas",
+                "en": "Termas de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Nichts übertrifft den Kontrast zwischen der eisigen Außenluft und dem Eintauchen in diese dampfenden Thermalbecken an einem Wintertag.",
+                "hu": "Semmi sem múlja felül azt az érzést, amikor a fagyos kinti levegőről egy hideg téli napon bemerül ezekbe a gőzölgő termálmedencékbe.",
+                "ro": "Nimic nu se compară cu contrastul dintre aerul înghețat și scufundarea în aceste piscine termale aburinde într-o zi rece de iarnă.",
+                "en": "Nothing beats the contrast of freezing outdoor air and diving into these steamy therapeutic thermal pools during a cold winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Hotel Vila Galé Serra da Estrela",
+                "hu": "Hotel Vila Galé Serra da Estrela",
+                "ro": "Hotel Vila Galé Serra da Estrela",
+                "en": "Hotel Vila Galé Serra da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie hier an, bevor die frühe Dunkelheit hereinbricht; der gemütliche Kamin bietet perfekten Komfort gegen die Winterkälte.",
+                "hu": "Érkezzen meg ide a korai sötétedés előtt; a hangulatos kandalló és a meleg fények tökéletes kényelmet nyújtanak a téli hideg ellen.",
+                "ro": "Ajungeți aici înainte de întunericul timpuriu; șemineul confortabil oferă adăpostul perfect împotriva frigului de iarnă.",
+                "en": "Arrive here before the early darkness sets in; the cozy fireplace and warm lighting offer perfect comfort against the winter chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a biciklitúrát a városközpont történelmi utcáinak kényelmes felfedezésével.\n\nDélben haladjon tovább a város közeli, békés egyházi műemlékeihez.\n\nDélután tekerjen feljebb, hogy megcsodálhassa a lélegzetelállító hegyi panorámákat.\n\nZárja a túrát a nemzeti parkban, élvezve a friss és hűvös alpesi levegőt.",
         "ro": "Începeți traseul cu bicicleta relaxat, pe străzile istorice din centrul orașului.\n\nLa prânz, pedalați mai departe către monumentele sacre din apropierea orașului.\n\nUrcați după-amiaza pentru a admira panoramele montane care vă taie respirația.\n\nÎncheiați turul în parcul național, bucurându-vă din plin de aerul alpin răcoros.",
         "en": "Start your cycling journey easily navigating the historic downtown streets.\n\nAt midday, pedal onwards to the nearby peaceful religious monuments.\n\nClimb higher in the afternoon to witness breathtaking and vast mountain panoramas.\n\nFinish the ride relaxing in the nature park, fully absorbing the crisp alpine air."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch die morgendliche Stadt. Die mittäglichen Schauer machen die Kirchen zu einer willkommenen Pause. Achten Sie nachmittags bergauf auf nasses Laub. Beenden Sie die nasse Fahrt im Naturpark und konzentrieren Sie sich auf befestigte, sichere Wege.",
+            "hu": "Tekerjen át a párás reggeli városon. A déli záporok miatt a templomok szívesen látott pihenőhelyek. A délutáni emelkedőkön ügyeljen a csúszós, nedves levelekre. Fejezze be a nedves utat a nemzeti parkban, szigorúan a burkolt, biztonságos ösvényeken maradva.",
+            "ro": "Pedalați prin orașul cețos dimineața. Ploile de prânz fac din biserici o pauză binevenită. Pe măsură ce urcați după-amiaza, atenție la frunzele ude alunecoase. Încheiați cursa umedă în parcul natural, concentrându-vă pe traseele pavate și sigure.",
+            "en": "Pedal through the misty morning town, passing the historic hall. Midday showers make the church stops a welcome indoor break. As you ride uphill in the afternoon, beware of slippery wet leaves. End the wet ride at the nature park, focusing on paved, safe trails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Manteigas",
+                "hu": "Câmara Municipal de Manteigas",
+                "ro": "Câmara Municipal de Manteigas",
+                "en": "Câmara Municipal de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem städtischen Vordach; ein guter Ort, um Ihre Regenkleidung zu überprüfen und den Sattel abzuwischen.",
+                "hu": "Parkolja le a kerékpárt a városháza eresze alá; jó hely arra, hogy ellenőrizze az esőruházatát és letörölje a nyerget indulás előtt.",
+                "ro": "Parcați bicicleta sub streșinile municipale; este un loc bun pentru a verifica echipamentul de ploaie și a șterge șaua înainte de a pleca.",
+                "en": "Park your bike under the municipal eaves; it’s a good spot to check your rain gear and wipe your saddle before exploring further."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de São Pedro",
+                "hu": "Igreja de São Pedro",
+                "ro": "Igreja de São Pedro",
+                "en": "Igreja de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Fahrrad ab und treten Sie ein; das verzierte Innere bietet einen trockenen Zufluchtsort, bis der Regen nachlässt.",
+                "hu": "Zárja le a biciklit és lépjen be; a díszes belső tér száraz menedéket nyújt, amíg a heves esőzések alábbhagynak a környéken.",
+                "ro": "Blocați bicicleta și pășiți înăuntru; interiorul bogat oferă un sanctuar uscat în timp ce așteptați să treacă aversele puternice.",
+                "en": "Lock the bike safely and step inside; the ornate interior provides a stunning, dry sanctuary while waiting for heavy showers to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor do Calvário",
+                "hu": "Capela do Senhor do Calvário",
+                "ro": "Capela do Senhor do Calvário",
+                "en": "Capela do Senhor do Calvário"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig bei der Anfahrt auf diese Kapelle, da das Kopfsteinpflaster bei Regen extrem rutschig wird.",
+                "hu": "Óvatosan fékezzen a kápolnához közeledve, mivel a macskakövek esőben rendkívül csúszósak; biztonságos távolból csodálja meg.",
+                "ro": "Frânați cu atenție la apropierea de această capelă, deoarece piatra cubică devine foarte alunecoasă pe ploaie.",
+                "en": "Brake carefully on the approach to this chapel, as the cobblestones get extremely slick in the rain; admire the facade safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Pousada de São Lourenço",
+                "hu": "Miradouro da Pousada de São Lourenço",
+                "ro": "Miradouro da Pousada de São Lourenço",
+                "en": "Miradouro da Pousada de São Lourenço"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen hüllt oft Nebel das Tal ein; tragen Sie helle, reflektierende Kleidung, damit Autos Sie bei schlechter Sicht sehen können.",
+                "hu": "Esőben gyakran köd borítja a völgyet erről a kilátóról; viseljen fényvisszaverő ruhát, hogy az autók észrevegyék a rossz látási viszonyok közt.",
+                "ro": "Ceața învăluie adesea valea în timpul ploii; purtați haine reflectorizante pentru a fi văzut de mașini în condiții de vizibilitate redusă.",
+                "en": "Mist often shrouds the valley from this viewpoint during rain; wear bright reflective gear so cars can see you in the low visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra da Estrela Nature Park",
+                "hu": "Serra da Estrela Nature Park",
+                "ro": "Serra da Estrela Nature Park",
+                "en": "Serra da Estrela Nature Park"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Parkwege werden schnell zu Schlamm; bleiben Sie auf den asphaltierten Radwegen und genießen Sie die dramatischen Regenwolken.",
+                "hu": "A nedves ösvények sártengerré válnak; maradjon szigorúan az aszfaltozott kerékpárutakon, és élvezze a hegycsúcsok drámai esőfelhőit.",
+                "ro": "Traseele devin rapid noroioase; rămâneți strict pe pistele de asfalt și bucurați-vă de norii dramatici de ploaie peste vârfuri.",
+                "en": "The wet park trails turn to mud quickly; stick strictly to the asphalt bike paths and enjoy the dramatic, moody rain clouds over the peaks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie flott durch die frostigen Morgenstraßen. Die Kirchen bieten mittags eine kurze Pause vom eisigen Wind. Der nachmittägliche Anstieg erfordert warme Kleidung. Beenden Sie die Tour im Naturpark deutlich vor 17:00 Uhr, um vereisten Straßen zu entgehen.",
+            "hu": "Tekerjen tempósan a fagyos reggeli utcákon, hogy bemelegedjen. A déli templomlátogatások rövid menedéket adnak a fagyos szél elől. A délutáni hegymászásnál réteges öltözet kell. Érjen a nemzeti parkba jóval 17:00 előtt, elkerülve a sötét, jeges utakat.",
+            "ro": "Pedalați vioi prin străzile înghețate dimineața pentru a vă încălzi. Vizitele la prânz la biserici oferă scurte pauze de la vântul rece. Urcarea de după-amiază necesită haine groase. Terminați în parcul natural înainte de ora 17:00 pentru a evita drumurile înghețate.",
+            "en": "Cycle briskly through the frosty morning streets to warm up. Midday visits to the churches offer brief respites from the freezing wind. The afternoon climb demands layers as the temperature drops. Finish at the nature park well before 17:00 to avoid icy roads in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Manteigas",
+                "hu": "Câmara Municipal de Manteigas",
+                "ro": "Câmara Municipal de Manteigas",
+                "en": "Câmara Municipal de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Beine zu vertreten; stellen Sie sicher, dass Ihre Radhandschuhe gut gegen den frostigen Morgen isoliert sind.",
+                "hu": "Gyors megálló a lábak kinyújtóztatására; győződjön meg róla, hogy a kerékpáros kesztyűje jól szigetel a csípős reggeli fagy ellen.",
+                "ro": "O oprire scurtă pentru a vă întinde picioarele; asigurați-vă că mănușile de ciclism sunt bine izolate împotriva gerului de dimineață.",
+                "en": "A quick stop to stretch your legs; make sure your cycling gloves are well insulated against the bitter morning frost here."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de São Pedro",
+                "hu": "Igreja de São Pedro",
+                "ro": "Igreja de São Pedro",
+                "en": "Igreja de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Muskeln warm; die Steinarchitektur der Kirche ist schön, hat aber keine Heizung, also behalten Sie Ihre Schichten an.",
+                "hu": "Tartsa melegen az izmait ezen a megállón; a kőtemplom gyönyörű, de fűtetlen, ezért maradjon rétegesen felöltözve odabent is.",
+                "ro": "Păstrați-vă mușchii calzi; arhitectura din piatră a bisericii este frumoasă, dar lipsește încălzirea, deci păstrați hainele groase.",
+                "en": "Keep your muscles warm during this stop; the church’s stone architecture is beautiful but lacks heating, so keep your layers on."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor do Calvário",
+                "hu": "Capela do Senhor do Calvário",
+                "ro": "Capela do Senhor do Calvário",
+                "en": "Capela do Senhor do Calvário"
+              },
+              "tip_5lang": {
+                "de": "Durch die Höhe ist dieser Ort scharfen Winden ausgesetzt; genießen Sie kurz die Aussicht, bevor Sie sich wieder aufwärmen.",
+                "hu": "A magasság miatt ez a hely ki van téve a metsző szélnek; gyorsan csodálja meg a kilátást, mielőtt visszapattan a biciklire melegedni.",
+                "ro": "Altitudinea face acest loc expus vânturilor aspre; admirați rapid priveliștea înainte de a urca pe bicicletă pentru a vă încălzi.",
+                "en": "The elevation makes this spot exposed to sharp winds; quickly appreciate the hilltop view before jumping back on the bike to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Pousada de São Lourenço",
+                "hu": "Miradouro da Pousada de São Lourenço",
+                "ro": "Miradouro da Pousada de São Lourenço",
+                "en": "Miradouro da Pousada de São Lourenço"
+              },
+              "tip_5lang": {
+                "de": "Ein atemberaubender, aber eiskalter Stopp; trinken Sie aus einer isolierten Thermoskanne, um die strenge Kälte abzuwehren.",
+                "hu": "Lélegzetelállító, de fagyos megálló; a téli hósipkák gyönyörűek, de igyon egy szigetelt termoszból a kemény hideg elleni védekezésül.",
+                "ro": "O oprire uluitoare, dar înghețată; vârfurile ninse sunt superbe, dar beți din termos pentru a combate frigul sever.",
+                "en": "A breathtaking but freezing stop; the winter snowcaps are stunning, but drink from an insulated thermos to fend off the severe cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra da Estrela Nature Park",
+                "hu": "Serra da Estrela Nature Park",
+                "ro": "Serra da Estrela Nature Park",
+                "en": "Serra da Estrela Nature Park"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie früh durch diese majestätischen Berge; Eisflächen sind häufig, also fahren Sie weit vor 17:00 Uhr wieder nach unten.",
+                "hu": "Korán kerékpározzon ezeken a hegyeken; a jégfoltok gyakoriak, így még a veszélyes, 17:00 órás szürkület előtt induljon vissza.",
+                "ro": "Pedalați devreme pe acești munți; peticele de gheață sunt frecvente, așa că coborâți mult înainte de apusul periculos de la ora 17:00.",
+                "en": "Cycle these majestic mountains early; ice patches are common, so head back down well before the perilous 17:00 twilight hits the park."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +792,252 @@
         "hu": "Reggel fedezze fel a déli fekvésű hegyi szállodákat és a pihentető termálforrásokat.\n\nDélben vezessen Manteigas történelmi szívébe, hogy megnézze a hangulatos templomokat.\n\nDélután vegye az irányt felfelé, a völgy feletti látványos kilátópontok felé.\n\nZárja az autós túrát egy lenyűgöző kirándulással a hatalmas és vad nemzeti parkban.",
         "ro": "Dimineața, explorați hotelurile sudice și faimoasele izvoare termale relaxante.\n\nConduceți la prânz în inima istorică a orașului Manteigas pentru a vedea bisericile.\n\nUrcați după-amiaza la spectaculoasele puncte de belvedere de deasupra văii.\n\nÎncheiați turul auto cu o excursie fascinantă prin peisajele parcului național.",
         "en": "In the morning, explore the southern mountain hotels and relaxing thermal springs.\n\nDrive into the historic heart of Manteigas by midday to view the charming churches.\n\nHead upwards in the afternoon to take in spectacular viewpoints high above the valley.\n\nFinish the driving tour with a mesmerizing excursion into the expansive nature park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre gemütliche morgendliche Fahrt am Hotel und steuern Sie die warmen Thermalbäder an. Der mittägliche Regen lässt sich gut überbrücken. Nachmittagsnebel an den Aussichtspunkten erfordert langsames Fahren. Beenden Sie den Tag im Naturpark und bewundern Sie die nasse Landschaft vom Auto aus.",
+            "hu": "Kezdje a reggeli autózást a szállodánál, egyenesen a meleg termálfürdők felé tartva. A déli eső könnyen átvészelhető a történelmi helyszínek közötti vezetéssel. A kilátóknál a délutáni köd lassú vezetést igényel. Zárja a napot a nemzeti parkban, a drámai nedves tájat az autóból figyelve.",
+            "ro": "Începeți plimbarea de dimineață la hotel, îndreptându-vă spre băile termale calde. Ploaia de prânz este ușor de gestionat conducând între locurile istorice. Ceața de după-amiază de la punctele de belvedere necesită conducere lentă. Încheiați la parcul natural, admirând peisajul umed din mașină.",
+            "en": "Start your cozy morning drive at the hotel, heading to the thermal baths for a warm escape. Midday rain is easily managed by driving between the town's historic spots. Afternoon fog at the viewpoints requires careful, slow driving. Conclude at the nature park, appreciating the dramatic wet landscape from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hotel Vila Galé Serra da Estrela",
+                "hu": "Hotel Vila Galé Serra da Estrela",
+                "ro": "Hotel Vila Galé Serra da Estrela",
+                "en": "Hotel Vila Galé Serra da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie von der warmen Hotellobby direkt zum Auto; stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren, bevor Sie starten.",
+                "hu": "Szaladjon a meleg lobbiból egyenesen az autójához; indulás előtt győződjön meg az ablaktörlők kifogástalan működéséről az esőben.",
+                "ro": "Fugiți din holul cald direct la mașină; asigurați-vă că ștergătoarele de parbriz funcționează perfect înainte de a porni pe ploaie.",
+                "en": "Run from the warm hotel lobby straight to your car; ensure your windshield wipers are fully functioning before setting off in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Termas de Manteigas",
+                "hu": "Termas de Manteigas",
+                "ro": "Termas de Manteigas",
+                "en": "Termas de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang; einen regnerischen Morgen in den heißen Thermalwässern zu verbringen, ist unglaublich entspannend.",
+                "hu": "Parkoljon közel a bejárathoz és siessen be; egy esős reggel eltöltése a fedett forró termálvízben hihetetlenül pihentető.",
+                "ro": "Parcați aproape de intrare; petrecerea unei dimineți ploioase relaxându-vă în apele termale interioare este incredibil de liniștitoare.",
+                "en": "Park close to the entrance and dash inside; spending a rainy morning soaking in the indoor hot thermal waters is incredibly relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Manteigas",
+                "hu": "Câmara Municipal de Manteigas",
+                "ro": "Câmara Municipal de Manteigas",
+                "en": "Câmara Municipal de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das imposante Rathaus durch Ihre verregneten Fenster oder nutzen Sie einen Regenschirm für einen kurzen Blick nach draußen.",
+                "hu": "Nézze meg az impozáns városházát az eső áztatta ablakokon keresztül, vagy használjon esernyőt, ha közelebbről is megnézné a részleteit.",
+                "ro": "Priviți primăria impunătoare prin ferestrele pline de ploaie sau folosiți o umbrelă pentru o ieșire rapidă pentru a vedea detaliile.",
+                "en": "View the imposing town hall through your rain-streaked windows, or use an umbrella for a quick dash to see its historical details."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de São Pedro",
+                "hu": "Igreja de São Pedro",
+                "ro": "Igreja de São Pedro",
+                "en": "Igreja de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und suchen Sie Schutz; das trockene, ruhige Kirchenschiff ist ein schöner Ort, um fernab des Regens Kunst zu bewundern.",
+                "hu": "Parkoljon le a közelben és húzódjon be a templomba; a száraz, csendes hajó csodás hely a vallási művészet megcsodálására az eső elől.",
+                "ro": "Parcați în apropiere și adăpostiți-vă; naosul său uscat și liniștit este un loc minunat pentru a admira arta religioasă departe de ploaie.",
+                "en": "Park nearby and take shelter in the church; its dry, quiet nave is a lovely place to admire religious art away from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor do Calvário",
+                "hu": "Capela do Senhor do Calvário",
+                "ro": "Capela do Senhor do Calvário",
+                "en": "Capela do Senhor do Calvário"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zur Kapelle kann schlammig werden; bewundern Sie dieses architektonische Juwel und halten Sie Ihre wasserdichte Jacke griffbereit.",
+                "hu": "A kápolnához felvezető út saras lehet; csodálja meg ezt a kis építészeti gyöngyszemet, vízálló dzsekijét kéznél tartva egy gyors kiszálláshoz.",
+                "ro": "Drumul spre capelă poate deveni noroios; admirați această mică bijuterie arhitecturală, având jacheta impermeabilă la îndemână.",
+                "en": "The drive up to the chapel can get muddy; admire this small architectural gem, keeping your waterproof jacket handy for a quick exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Fragão do Corvo",
+                "hu": "Miradouro do Fragão do Corvo",
+                "ro": "Miradouro do Fragão do Corvo",
+                "en": "Miradouro do Fragão do Corvo"
+              },
+              "tip_5lang": {
+                "de": "Starker Regen kann diese Aussicht verdecken; kurbeln Sie das Fenster nur leicht herunter, um die Wolken zu sehen, ohne nass zu werden.",
+                "hu": "A heves eső eltakarhatja a kilátást; csak annyira húzza le az ablakot, hogy lássa a drámai völgyi felhőket anélkül, hogy beázna a belső tér.",
+                "ro": "Ploaia abundentă poate ascunde acest punct de vedere; coborâți fereastra doar puțin pentru a vedea norii văii fără a uda interiorul.",
+                "en": "Heavy rain can obscure this viewpoint; roll down the window just enough to see the dramatic valley clouds without getting the interior soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Pousada de São Lourenço",
+                "hu": "Miradouro da Pousada de São Lourenço",
+                "ro": "Miradouro da Pousada de São Lourenço",
+                "en": "Miradouro da Pousada de São Lourenço"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht nimmt bei Regen eine mystische Atmosphäre an; lassen Sie Ihre Scheinwerfer an, da hier oft Nebel über die Straße zieht.",
+                "hu": "A panoráma borongós, misztikus hangulatot áraszt esőben; tartsa bekapcsolva a fényszórókat, mivel a köd gyakran ráereszkedik az útra.",
+                "ro": "Priveliștile panoramice capătă o atmosferă mistică pe ploaie; țineți farurile aprinse, deoarece ceața traversează frecvent drumul aici.",
+                "en": "The panoramic views take on a moody, mystical atmosphere in the rain; keep your headlights on as fog frequently rolls across the road here."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra da Estrela Nature Park",
+                "hu": "Serra da Estrela Nature Park",
+                "ro": "Serra da Estrela Nature Park",
+                "en": "Serra da Estrela Nature Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Straßen, um nicht im Schlamm stecken zu bleiben, und bestaunen Sie die durch den Regen angeschwollenen Wasserfälle.",
+                "hu": "Maradjon a park fő aszfaltozott útjain, hogy elkerülje az elakadást a sárban, és csodálja meg a heves esőzések miatt megduzzadt vízeséseket.",
+                "ro": "Rămâneți pe drumurile asfaltate principale pentru a nu vă bloca în noroi și admirați cascadele umflate de ploile abundente.",
+                "en": "Stay on the main paved roads through the park to avoid getting stuck in mud, and marvel at the waterfalls swelled by the heavy rains."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Schalten Sie die Autoheizung ein, wenn Sie das Hotel an diesem kalten Morgen verlassen. Navigieren Sie zu den historischen Stätten, bevor Sie nachmittags zu den Aussichtspunkten fahren. Erreichen Sie den Naturpark früh und kehren Sie vor 17:00 Uhr zurück, um vereiste Bergstraßen bei Nacht zu meiden.",
+            "hu": "Kapcsolja be az autófűtést, amikor ezen a hideg reggelen elhagyja a szállodát. Járja be a város történelmi helyeit, majd délután vezessen fel a kilátókhoz. Érjen korán a nemzeti parkba, és 17:00 előtt induljon vissza, hogy elkerülje az éjszakai, veszélyesen jeges hegyi utakat.",
+            "ro": "Porniți încălzirea în mașină la plecarea de la hotel. Băile termale oferă un refugiu cald. Vizitați locurile istorice înainte de a conduce spre punctele de belvedere. Ajungeți devreme în parc și întoarceți-vă înainte de ora 17:00 pentru a evita drumurile montane înghețate noaptea.",
+            "en": "Turn on the car heater as you depart the hotel on this cold morning. The thermal baths provide a steaming midday retreat. Navigate the town's historical spots before driving up to the viewpoints in the afternoon. Reach the nature park early and return before 17:00 to avoid treacherous icy mountain roads at night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hotel Vila Galé Serra da Estrela",
+                "hu": "Hotel Vila Galé Serra da Estrela",
+                "ro": "Hotel Vila Galé Serra da Estrela",
+                "en": "Hotel Vila Galé Serra da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Kratzen Sie Frost von den Fenstern auf dem Hotelparkplatz; starten Sie den Motor früh, um den Innenraum für die Fahrt aufzuwärmen.",
+                "hu": "Kaparja le a jeget az ablakokról a szálloda parkolójában; indítsa el korábban a motort, hogy az utastér kellemesen felmelegedjen.",
+                "ro": "Răzuiți înghețul de pe geamuri în parcare; porniți motorul devreme pentru a încălzi interiorul pentru o călătorie confortabilă.",
+                "en": "Scrape any frost off your windows in the hotel parking lot; start the engine early to warm up the interior for a comfortable ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Termas de Manteigas",
+                "hu": "Termas de Manteigas",
+                "ro": "Termas de Manteigas",
+                "en": "Termas de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Wintermantel für den kurzen Weg bereit; das dampfende Wasser drinnen wirkt dem Frost draußen perfekt entgegen.",
+                "hu": "Tartsa kéznél a télikabátot az autótól a fürdőig tartó rövid sétához; a gőzölgő benti víz tökéletesen ellensúlyozza a kinti fagyot.",
+                "ro": "Păstrați haina de iarnă pregătită pentru scurta plimbare; apa aburindă din interior contracarează perfect înghețul de afară.",
+                "en": "Keep your winter coat ready for the short walk from the car to the baths; the steaming water inside perfectly counters the outdoor freeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Manteigas",
+                "hu": "Câmara Municipal de Manteigas",
+                "ro": "Câmara Municipal de Manteigas",
+                "en": "Câmara Municipal de Manteigas"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum sieht in der Winterkälte wunderschön aus; steigen Sie kurz für Fotos aus, aber kehren Sie schnell zur Autoheizung zurück.",
+                "hu": "A központ zord és gyönyörű a téli hidegben; lépjen ki röviden fotózni, de utána gyorsan térjen vissza az autó fűtéséhez.",
+                "ro": "Centrul civic arată frumos în frigul iernii; coborâți scurt pentru fotografii, dar întoarceți-vă rapid la căldura mașinii.",
+                "en": "The civic center looks stark and beautiful in the winter cold; step out briefly for photos but quickly return to the car's heater."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de São Pedro",
+                "hu": "Igreja de São Pedro",
+                "ro": "Igreja de São Pedro",
+                "en": "Igreja de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Frost überzieht oft die Stufen der Kirche, steigen Sie also vorsichtig aus; drinnen können Sie die Altäre windgeschützt bestaunen.",
+                "hu": "A templom lépcsőit gyakran jég borítja, lépjen óvatosan; bent megcsodálhatja az oltárokat, védve a téli széltől.",
+                "ro": "Înghețul acoperă adesea treptele bisericii, deci pășiți cu atenție; înăuntru, puteți admira altarele feriți de vântul de iarnă.",
+                "en": "Frost often glazes the church steps, so step carefully from your car; inside, you can marvel at the altars while out of the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor do Calvário",
+                "hu": "Capela do Senhor do Calvário",
+                "ro": "Capela do Senhor do Calvário",
+                "en": "Capela do Senhor do Calvário"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterlichen Bäume um die Kapelle; stellen Sie sicher, dass Ihre Autobatterie gut ist, da Kaltstarts schwierig sein können.",
+                "hu": "Élvezze a kápolnát keretező kopár téli fákat; győződjön meg az akkumulátor állapotáról, mert a hidegindítás itt nehézkes lehet.",
+                "ro": "Bucurați-vă de copacii de iarnă fără frunze care încadrează capela; asigurați-vă că bateria mașinii este sănătoasă la aceste temperaturi.",
+                "en": "Enjoy the stark, leafless winter trees framing the chapel; ensure your car battery is healthy, as cold starts here can be tricky."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Fragão do Corvo",
+                "hu": "Miradouro do Fragão do Corvo",
+                "ro": "Miradouro do Fragão do Corvo",
+                "en": "Miradouro do Fragão do Corvo"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer, aber eisiger Aussichtspunkt; packen Sie sich warm ein, da der Wind an dieser Felswand außergewöhnlich beißend ist.",
+                "hu": "Látványos, de fagyos kilátópont; öltözzön fel jól, ha kiszáll az autóból, mert a szélhőmérséklet ezen a sziklafalon rendkívül csípős.",
+                "ro": "Un punct de observație spectaculos, dar geros; îmbrăcați-vă bine dacă ieșiți, deoarece vântul de pe această stâncă este extrem de tăios.",
+                "en": "A spectacular but frigid vantage point; bundle up if you leave the car, as the wind chill on this exposed rock face is exceptionally biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Pousada de São Lourenço",
+                "hu": "Miradouro da Pousada de São Lourenço",
+                "ro": "Miradouro da Pousada de São Lourenço",
+                "en": "Miradouro da Pousada de São Lourenço"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Tal oft schneebedeckt; bewahren Sie für alle Fälle Schneeketten im Kofferraum auf und genießen Sie die weiße Landschaft.",
+                "hu": "Télen gyakran hó borítja a völgyet; a biztonság kedvéért tartson hóláncot a csomagtartóban, és élvezze a fenséges fehér tájat.",
+                "ro": "Zăpada acoperă adesea valea iarna; păstrați lanțuri de zăpadă în portbagaj pentru orice eventualitate și bucurați-vă de peisajul alb.",
+                "en": "Snow often dusted the valley below in winter; keep snow chains in the trunk just in case, and enjoy the majestic white landscapes safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra da Estrela Nature Park",
+                "hu": "Serra da Estrela Nature Park",
+                "ro": "Serra da Estrela Nature Park",
+                "en": "Serra da Estrela Nature Park"
+              },
+              "tip_5lang": {
+                "de": "Der Höhepunkt der winterlichen Schönheit, aber tückisch; fahren Sie weit vor 17:00 Uhr bergab, da die Straßen schnell zufrieren.",
+                "hu": "A téli szépség csúcsa, de rendkívül veszélyes; jóval 17:00 óra előtt induljon le a hegyről, mivel a nedves utak nagyon hamar lefagynak.",
+                "ro": "Culmea frumuseții de iarnă, dar foarte periculoasă; coborâți de pe munte mult înainte de ora 17:00, deoarece drumurile îngheață rapid.",
+                "en": "The pinnacle of winter beauty, but highly treacherous; explore early and head down the mountain well before 17:00 as roads quickly freeze over."
+              }
+            }
+          ]
+        }
       }
     }
   }

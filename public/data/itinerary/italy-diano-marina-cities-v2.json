@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a délnyugati parton, belélegezve a tengeri sós levegőt a Caesar's Beachnél. A délidő a strandok felfedezésével telik, miközben beleveti magát a nyüzsgő tengerparti hangulatba, és megmártózik a Miramare vizében. Délután fedezze fel a központi strandokat, és élvezze a hullámok felett magasodó Solarium egyedülálló kilátását. Az este közeledtével a Hotel Bellevue teraszán pihenve, egy koktéllal a kezében csodálhatja meg a ligur-tengeri naplementét.",
         "ro": "Începeți dimineața cu o plimbare revigorantă de-a lungul coastei de sud-vest, respirând briza mării la Caesar's Beach. La prânz vă plimbați pe plaje, absorbind atmosfera vibrantă de coastă și făcând o baie la Miramare. După-amiaza, explorați plajele centrale și bucurați-vă de punctul de belvedere unic al Solariumului deasupra valurilor. Seara se apropie în timp ce vă relaxați la Hotel Bellevue, savurând un cocktail și admirând apusul de soare peste Marea Ligurică.",
         "en": "Start your morning with a refreshing stroll along the southwestern shoreline, breathing in the sea breeze at Caesar's Beach. Midday finds you beach-hopping, soaking up the vibrant coastal atmosphere and taking a dip at Miramare. In the afternoon, explore the central beaches and enjoy the unique vantage point of the Solarium over the waves. Evening approaches as you relax at Hotel Bellevue, sipping a cocktail while watching the sunset over the Ligurian Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem frischen Meeresduft, der bei Regen besonders intensiv ist. Mittags bieten die Arkaden und Cafés an der Promenade perfekten Schutz vor den Tropfen. Am Nachmittag verwandelt der graue Himmel die Küste in eine melancholische Kulisse, ideal für stimmungsvolle Fotos. Abends glänzen die Lichter der Stadt auf dem nassen Pflaster und sorgen für eine magische Atmosphäre.",
+            "hu": "A reggel esőben is frissítő, a tenger sós illata ilyenkor a legerősebb a sétányon. Délben keressünk menedéket a parti bárok fedett teraszai alatt, ahonnan nyugodtan nézhetjük a hullámokat. Délután a szürkés tónusok különleges, drámai hangulatot adnak a tengerpartnak, de ügyeljünk a csúszós kövekre. Este a lámpák fénye megcsillan a vizes aszfalton, varázslatos látványt nyújtva a csendes városban.",
+            "ro": "Dimineața aduce un miros proaspăt de sare pe faleză, aerul fiind incredibil de curat în timpul ploii. La prânz, căutați adăpost sub terasele acoperite ale barurilor de pe plajă pentru a urmări valurile. După-amiaza, tonurile gri ale coastei oferă o atmosferă unică, dar aveți grijă la pietrele alunecoase. Seara, luminile orașului se reflectă frumos pe asfaltul umed în timpul plimbării spre casă.",
+            "en": "Morning rain brings a fresh scent of salt to the promenade, making the air feel incredibly crisp and clean. At noon, seek shelter under the covered terraces of beach bars to watch the grey waves with a coffee. In the afternoon, the muted tones of the coast offer a unique, moody atmosphere, but watch out for slippery stones. By evening, the streetlights reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Caesar's Beach",
+                "hu": "Bagni Caesar's Beach",
+                "ro": "Bagni Caesar's Beach",
+                "en": "Bagni Caesar's Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung vom überdachten Barbereich aus; die stürmische See wirkt hier besonders beeindruckend, bringen Sie aber einen stabilen, windfesten Schirm mit.",
+                "hu": "Figyelje meg a drámai hullámzást a bár fedett részéről; a viharos tenger látványa itt egészen lenyűgöző, de mindenképpen vigyen magával egy stabil, szélálló esernyőt a rövid sétához.",
+                "ro": "Observați valurile dramatice din zona acoperită a barului; marea agitată este impresionantă aici, dar aduceți o umbrelă rezistentă la vânt pentru scurta plimbare pe nisipul umed.",
+                "en": "Observe the dramatic surf from the safety of the covered bar area; the stormy sea is particularly impressive here, just bring a sturdy, windproof umbrella for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Teresa",
+                "hu": "Bagni Teresa",
+                "ro": "Bagni Teresa",
+                "en": "Bagni Teresa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen, der auf das Meer trifft, während Sie im Trockenen sitzen; die Akustik ist beruhigend, aber achten Sie auf rutschige Stufen beim Betreten.",
+                "hu": "Élvezze a tengerre hulló eső látványát és megnyugtató hangját a fedett teraszról; a helyszín ilyenkor rendkívül békés, de ügyeljen a csúszós lépcsőkre a bejáratnál.",
+                "ro": "Bucurați-vă de vederea ploii care cade peste mare în timp ce stați la adăpost; sunetul este relaxant, dar aveți grijă la treptele alunecoase când intrați în zona amenajată.",
+                "en": "Enjoy the sight of rain hitting the sea while sitting in the dry; the acoustics are very soothing, but be careful with the slippery steps when entering the facility."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Miramare",
+                "hu": "Bagni Miramare",
+                "ro": "Bagni Miramare",
+                "en": "Bagni Miramare"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet eine weite Sicht auf den grauen Horizont, was perfekt für melancholische Küstenfotos ist; tragen Sie wasserfeste Schuhe für den Weg über die Promenade.",
+                "hu": "Ez a pont tágas kilátást nyújt a szürke horizontra, ami tökéletes a különleges hangulatú fotókhoz; viseljen vízálló cipőt a parti sétányon való közlekedéshez.",
+                "ro": "Acest loc oferă o vedere largă asupra orizontului gri, fiind perfect pentru fotografii de coastă; purtați încălțăminte impermeabilă pentru drumul de-a lungul falezei.",
+                "en": "This spot offers a wide view of the grey horizon, perfect for moody coastal photography; wear waterproof shoes for the walk along the promenade to keep your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Delfino",
+                "hu": "Bagni Delfino",
+                "ro": "Bagni Delfino",
+                "en": "Bagni Delfino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schutz der umliegenden Gebäude, um das Panorama zu genießen, ohne nass zu werden; ein warmer Tee im Café ist der ideale Schutz gegen die feuchte Kälte.",
+                "hu": "Használja ki a közeli épületek nyújtotta szélárnyékot a panoráma élvezetéhez; egy meleg tea a helyi kávézóban tökéletes ellenszere a nyirkos, esős időjárásnak.",
+                "ro": "Folosiți protecția clădirilor din jur pentru a vă bucura de panoramă fără a vă uda; un ceai cald la cafenea este remediul ideal împotriva frigului umed de afară.",
+                "en": "Use the protection of nearby buildings to enjoy the panorama without getting soaked; a warm tea in the cafe is the ideal shelter against the damp coastal chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Solarium",
+                "hu": "Solarium",
+                "ro": "Solarium",
+                "en": "Solarium"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne Sonne ist dies ein toller Aussichtspunkt, um die Kraft der Wellen zu beobachten; halten Sie sich an den Geländern fest, da die Flächen bei Regen spiegelglatt sind.",
+                "hu": "Napsütés nélkül is remek kilátópont a hullámok erejének megfigyeléséhez; kapaszkodjon a korlátokba, mert a burkolat esőben rendkívül csúszóssá és veszélyessé válik.",
+                "ro": "Chiar și fără soare, acesta este un punct de observație excelent pentru forța valurilor; țineți-vă de balustrade, deoarece suprafețele devin foarte alunecoase la ploaie.",
+                "en": "Even without sun, this is a great vantage point to watch the power of the waves; hold onto the railings as the surfaces become mirror-slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Hotel Bellevue et Mediterranée",
+                "hu": "Bagni Hotel Bellevue et Mediterranée",
+                "ro": "Bagni Hotel Bellevue et Mediterranée",
+                "en": "Bagni Hotel Bellevue et Mediterranée"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im eleganten Innenbereich des Hotels mit Blick auf das regnerische Meer; die gehobene Atmosphäre lässt Sie das schlechte Wetter draußen schnell vergessen.",
+                "hu": "Zárja a napot a hotel elegáns belső terében, ahonnan pazar kilátás nyílik az esős tengerre; a kifinomult környezetben gyorsan elfelejtheti a kinti barátságtalan időt.",
+                "ro": "Încheiați ziua în zona interioară elegantă a hotelului cu vedere la marea ploioasă; atmosfera distinsă vă va face să uitați rapid de vremea urâtă de afară.",
+                "en": "End your day in the elegant indoor area of the hotel with a view of the rainy sea; the upscale atmosphere will make you quickly forget the bad weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen macht die Sicht über das Meer unglaublich weit. Mittags wärmt die tiefstehende Sonne angenehm, während man in einer windgeschützten Ecke verweilt. Der Nachmittag ist kurz, und das goldene Licht vor dem Sonnenuntergang taucht die Küste in warme Farben. Um 17:00 Uhr bricht die Dämmerung ein, Zeit für gemütliche Stunden in den beheizten Lokalen.",
+            "hu": "A tiszta téli levegő reggel rendkívül távoli kilátást tesz lehetővé a tenger felett. Délben a gyenge napsütés kellemesen melenget a szélvédett sarkokban. A délután rövid, az aranyóra fényei már három óra után megjelennek a falakon. 17:00 körül korán sötétedik, ilyenkor érdemes behúzódni a fűtött éttermek és kávézók barátságos világába.",
+            "ro": "Aerul curat de iarnă oferă o vizibilitate incredibilă asupra mării în timpul dimineții. La prânz, soarele blând încălzește plăcut în colțurile ferite de vânt. După-amiaza este scurtă, iar lumina aurie de dinaintea apusului îmbracă faleza în culori calde. Amurgul vine devreme, în jurul orei 17:00, fiind momentul ideal pentru relaxare în localurile încălzite.",
+            "en": "The clear winter air in the morning makes the view over the sea incredibly vast. At noon, the low sun warms you pleasantly in wind-sheltered corners. The afternoon is short, with golden light painting the coast in warm hues before sunset. By 17:00, darkness falls, signaling it's time for cozy hours in the heated local venues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Caesar's Beach",
+                "hu": "Bagni Caesar's Beach",
+                "ro": "Bagni Caesar's Beach",
+                "en": "Bagni Caesar's Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die seltene Stille des Winterstrandes ohne die üblichen Menschenmassen; tragen Sie eine winddichte Jacke, da die Brise vom Meer her empfindlich kalt sein kann.",
+                "hu": "Tapasztalja meg a téli strand ritka nyugalmát a tömegek nélkül; viseljen szélálló kabátot, mert a tenger felől érkező fuvallatok ilyenkor metszően hidegek lehetnek.",
+                "ro": "Experimentați liniștea rară a plajei de iarnă fără mulțimile obișnuite; purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi destul de tăioasă.",
+                "en": "Experience the rare silence of the winter beach without the usual crowds; wear a windproof jacket as the breeze coming from the sea can be quite sharp and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Teresa",
+                "hu": "Bagni Teresa",
+                "ro": "Bagni Teresa",
+                "en": "Bagni Teresa"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz hinter einer Glasscheibe, um die Wärme einzufangen; die Wintersonne ist hier stark genug für ein angenehmes Lichtbad bei kühlen Temperaturen.",
+                "hu": "Keressen egy napsütötte helyet az üvegfalak mögött, hogy begyűjtse a meleget; a téli nap itt elég erős egy kellemes fényfürdőhöz a hűvös kinti hőmérséklet ellenére.",
+                "ro": "Căutați un loc însorit în spatele geamurilor pentru a capta căldura; soarele de iarnă este suficient de puternic aici pentru o baie de lumină plăcută la temperaturi scăzute.",
+                "en": "Find a sunny spot behind glass panels to catch the warmth; the winter sun here is strong enough for a pleasant light bath despite the cool outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Miramare",
+                "hu": "Bagni Miramare",
+                "ro": "Bagni Miramare",
+                "en": "Bagni Miramare"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne glitzert im Winter besonders schön auf dem Wasser; ein Schal und Handschuhe sind für diesen exponierten Abschnitt der Promenade unverzichtbar.",
+                "hu": "Az alacsonyan járó nap télen különösen szépen csillog a vízfelszínen; egy sál és kesztyű nélkülözhetetlen a sétánynak ezen a nyitott, szelesebb szakaszán.",
+                "ro": "Soarele jos sclipește deosebit de frumos pe apă în timpul iernii; un fular și mănușile sunt indispensabile pentru această porțiune expusă a falezei.",
+                "en": "The low sun glitters beautifully on the water during winter; a scarf and gloves are essential for this exposed section of the promenade where the wind picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Delfino",
+                "hu": "Bagni Delfino",
+                "ro": "Bagni Delfino",
+                "en": "Bagni Delfino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der kühlen Meeresluft und dem beheizten Café; im Winter ist dies der perfekte Ort für eine heiße Schokolade mit Blick auf den Strand.",
+                "hu": "Élvezze a hűvös tengeri levegő és a fűtött kávézó közötti kontrasztot; télen ez a tökéletes hely egy forró csokoládéhoz, miközben a néptelen strandot figyeli.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece al mării și cafeneaua încălzită; iarna, acesta este locul perfect pentru o ciocolată caldă cu vedere la plajă.",
+                "en": "Enjoy the contrast between the cool sea air and the heated cafe; in winter, this is the perfect spot for a hot chocolate with a view of the deserted beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Solarium",
+                "hu": "Solarium",
+                "ro": "Solarium",
+                "en": "Solarium"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Fernsichten bis zu den fernen Kaps; die Metallgeländer sind sehr kalt, vermeiden Sie längeren Kontakt ohne Handschuhe.",
+                "hu": "Használja ki a tiszta téli fényt a távoli fokokig ellátszó panoráma megcsodálásához; a fémkorlátok nagyon hidegek, kesztyű nélkül kerülje a hosszas érintkezést.",
+                "ro": "Profitați de lumina clară de iarnă pentru vederi panoramice până la capetele îndepărtate; balustradele metalice sunt foarte reci, evitați contactul prelungit fără mănuși.",
+                "en": "Take advantage of the clear winter light for distant views reaching the far capes; the metal railings are freezing cold, so avoid long contact without gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Hotel Bellevue et Mediterranée",
+                "hu": "Bagni Hotel Bellevue et Mediterranée",
+                "ro": "Bagni Hotel Bellevue et Mediterranée",
+                "en": "Bagni Hotel Bellevue et Mediterranée"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr gemütlich von drinnen; das Hotel bietet eine warme Zuflucht, wenn die Temperaturen nach Einbruch der Dunkelheit sinken.",
+                "hu": "Nézze végig a korai, 17:00 körüli naplementét kényelmesen a belső térből; a hotel meleg menedéket nyújt, amikor a sötétedés után hirtelen lehűl a levegő.",
+                "ro": "Urmăriți apusul timpuriu de la ora 17:00 confortabil din interior; hotelul oferă un refugiu cald când temperaturile scad brusc după lăsarea întunericului.",
+                "en": "Watch the early sunset around 17:00 comfortably from the inside; the hotel offers a warm refuge when temperatures drop rapidly after darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Tekerjen a reggeli napsütésben a Bagni Elena felé, hagyva, hogy a liguriai hullámok ritmikus hangja megadja a nyugodt tempót. Délre érjen fel a nyüzsgő központi partra, időt szakítva a Bagni Lino aranyhomokos partjaira és a Solariumra. A délutáni túra az elegáns Eden Parkhoz vezet, amely a természetes zöldellő növényzet és az azúrkék víz keverékét kínálja. Zárja kerékpáros kalandját a békés északi szakaszon, Ponterosso közelében, ahogy leszáll az est.",
         "ro": "Porniți cu bicicleta în soarele dimineții la Bagni Elena, lăsând sunetul ritmic al valurilor ligurice să vă seteze un ritm relaxat. Până la prânz, pedalați spre coasta centrală plină de viață, făcând o pauză la țărmurile aurii de la Bagni Lino și la Solarium. Plimbarea de după-amiază vă duce la elegantul Eden Park, oferind un amestec de verdeață și ape azurii. Încheiați aventura pe bicicletă în întinderea nordică liniștită de lângă Ponterosso, odată cu lăsarea serii.",
         "en": "Pedal into the morning sun at Bagni Elena, letting the rhythmic sound of the Ligurian waves set a relaxed pace. By midday, cycle up to the bustling central coast, taking time to pause at the golden shores of Bagni Lino and the Solarium. The afternoon ride leads you to the elegant Eden Park, offering a blend of natural greenery and azure waters. Conclude your cycling adventure in the peaceful northern stretch near Ponterosso as evening shadows fall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert am Morgen volle Konzentration auf die rutschigen Straßenbeläge. Mittags bieten überdachte Fahrradständer und Cafés entlang der Aurelia gute Pausenmöglichkeiten. Am Nachmittag ist die Küstenstraße weniger befahren, was eine ruhige Fahrt ermöglicht. Abends sollte man wegen der schlechten Sicht und Nässe frühzeitig zum Ziel zurückkehren.",
+            "hu": "A reggeli kerékpározás esőben nagy koncentrációt igényel a csúszós útburkolat miatt. Délben a fedett kerékpártárolók és az út menti kávézók kínálnak jó pihenőhelyet. Délután a parti út forgalma lecsökken, ami nyugodtabb haladást tesz lehetővé a vizes aszfalton. Este a rossz látási viszonyok miatt javasolt korábban befejezni a túrát és fokozottan figyelni.",
+            "ro": "Ciclismul prin ploaie necesită concentrare maximă dimineața din cauza asfaltului alunecos. La prânz, rastelele acoperite și cafenelele de-a lungul drumului oferă oportunități bune de pauză. După-amiaza, drumul de coastă este mai puțin circulat, permițând o rulare liniștită. Seara, din cauza vizibilității reduse, este recomandat să reveniți devreme la destinație.",
+            "en": "Cycling in the rain requires full concentration in the morning due to slippery road surfaces. At noon, covered bike racks and roadside cafes offer good break opportunities. In the afternoon, the coastal road is less busy, allowing for a peaceful ride despite the wet conditions. By evening, return early due to reduced visibility and persistent wetness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Elena",
+                "hu": "Bagni Elena",
+                "ro": "Bagni Elena",
+                "en": "Bagni Elena"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach, während Sie die Meeresbrise genießen; prüfen Sie Ihre Bremsen gründlich, da die Nässe die Bremswirkung Ihres Rades verzögert.",
+                "hu": "Keressen menedéket az előtető alatt, miközben élvezi a friss tengeri szellőt; alaposan ellenőrizze a fékeit, mert a nedvesség jelentősen növeli a féktávolságot.",
+                "ro": "Căutați adăpost sub copertină în timp ce vă bucurați de briza mării; verificați frânele cu atenție, deoarece umezeala întârzie eficiența frânării bicicletei.",
+                "en": "Seek shelter under the overhang while enjoying the sea breeze; check your brakes thoroughly as the wetness delays your bike's braking response significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Lino",
+                "hu": "Bagni Lino",
+                "ro": "Bagni Lino",
+                "en": "Bagni Lino"
+              },
+              "tip_5lang": {
+                "de": "Die Strandbar bietet einen trockenen Unterstand für Radfahrer; achten Sie auf die Markierungen auf dem Asphalt, da diese bei Regen extrem rutschig für Reifen sind.",
+                "hu": "A strandbár száraz menedéket nyújt a bringásoknak; fokozottan ügyeljen az útra felfestett jelekre, mert esőben ezek rendkívül csúszóssá válnak a gumik számára.",
+                "ro": "Barul de pe plajă oferă un adăpost uscat pentru bicicliști; aveți grijă la marcajele de pe asfalt, deoarece sunt extrem de alunecoase pentru anvelope la ploaie.",
+                "en": "The beach bar provides a dry shelter for cyclists; pay extra attention to road markings, as they become extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Solarium",
+                "hu": "Solarium",
+                "ro": "Solarium",
+                "en": "Solarium"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem sicheren Ort ab, bevor Sie die Aussicht genießen; der Bodenbelag hier ist bei Nässe besonders tückisch, gehen Sie langsam.",
+                "hu": "Állítsa le a kerékpárját egy biztonságos helyen, mielőtt gyönyörködne a kilátásban; a burkolat itt esőben különösen csalóka, mozogjon lassan és óvatosan.",
+                "ro": "Parcați bicicleta într-un loc sigur înainte de a admira priveliștea; pavajul de aici este înșelător când este ud, așa că deplasați-vă încet și cu atenție.",
+                "en": "Park your bike in a safe spot before enjoying the view; the flooring here is particularly treacherous when wet, so move slowly and avoid sudden turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Hotel Eden Park",
+                "hu": "Bagni Hotel Eden Park",
+                "ro": "Bagni Hotel Eden Park",
+                "en": "Bagni Hotel Eden Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten des Hotels für eine kurze Verschnaufpause im Trockenen; wasserfeste Kleidung ist auf diesem offenen Küstenabschnitt unerlässlich.",
+                "hu": "Használja a hotel parkolóját egy rövid, száraz pihenőre; a vízálló ruházat ezen a nyitott parti szakaszon elengedhetetlen a komfortos haladáshoz.",
+                "ro": "Folosiți facilitățile de parcare ale hotelului pentru o scurtă pauză la uscat; îmbrăcămintea impermeabilă este esențială pe această porțiune deschisă de coastă.",
+                "en": "Use the hotel's parking facilities for a quick breather in the dry; waterproof clothing is essential on this open coastal stretch to stay warm and focused."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Ponterosso",
+                "hu": "Bagni Ponterosso",
+                "ro": "Bagni Ponterosso",
+                "en": "Bagni Ponterosso"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der Fahrt im überdachten Bereich auf; reinigen Sie Kette und Schaltung nach der Tour, um Korrosion durch das Salzwasser im Regen zu vermeiden.",
+                "hu": "Melegedjen fel a túra után a fedett részen; a nap végén tisztítsa meg a láncot és a váltót, hogy megelőzze az esővíz és a só okozta korróziót.",
+                "ro": "Încălziți-vă în zona acoperită după cursă; curățați lanțul și schimbătorul după tură pentru a evita coroziunea cauzată de apa sărată combinată cu ploaia.",
+                "en": "Warm up in the covered area after your ride; clean your chain and gears after the tour to prevent corrosion from the saltwater mixed with rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Morgen ist eine winddichte Schicht für Radfahrer Pflicht, um nicht auszukühlen. Mittags laden die sonnigen Abschnitte der Küstenstraße zu einer zügigen Fahrt ein. Am Nachmittag sollte man das warme Licht für die Rückreise nutzen, bevor der Wind gegen 16:30 Uhr kälter wird. Der frühe Sonnenuntergang um 17:00 Uhr markiert das Ende der Radtour im Freien.",
+            "hu": "A hűvös reggelen a szélálló réteges öltözet kötelező a bringásoknak a kihűlés ellen. Napközben a parti út napsütötte szakaszai lendületes haladásra csábítanak. Délután érdemes kihasználni a meleg fényeket a visszaúthoz, mielőtt 16:30 után a szél fagyosabbá válik. A korai, 17:00-s naplemente jelzi a szabadtéri tekerés végét.",
+            "ro": "În dimineața răcoroasă, un strat rezistent la vânt este obligatoriu pentru cicliști pentru a evita hipotermia. La prânz, porțiunile însorite ale drumului de coastă invită la o rulare rapidă. După-amiaza, folosiți lumina caldă pentru întoarcere, înainte ca vântul să devină tăios după ora 16:30. Apusul devreme la ora 17:00 marchează finalul turei.",
+            "en": "On a cool morning, a windproof layer is mandatory for cyclists to avoid getting chilled. At noon, the sunny sections of the coastal road invite a brisk ride. In the afternoon, use the warm light for your return journey before the wind gets colder around 16:30. The early sunset at 17:00 marks the end of your outdoor bike tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Elena",
+                "hu": "Bagni Elena",
+                "ro": "Bagni Elena",
+                "en": "Bagni Elena"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen heißen Espresso, um die Körpertemperatur nach der kühlen Abfahrt zu halten; tragen Sie Thermohandschuhe, da der Fahrtwind die Finger schnell taub macht.",
+                "hu": "Igyon egy forró eszpresszót, hogy szinten tartsa a testhőmérsékletét a hűvös indulás után; viseljen termokesztyűt, mert a menetszél hamar elzsibbasztja az ujjakat.",
+                "ro": "Savurați un espresso fierbinte pentru a menține temperatura corpului după plecarea răcoroasă; purtați mănuși termice, deoarece vântul vă poate amorți degetele rapid.",
+                "en": "Treat yourself to a hot espresso to keep your body temperature up after the cool start; wear thermal gloves as the headwind can quickly numb your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Lino",
+                "hu": "Bagni Lino",
+                "ro": "Bagni Lino",
+                "en": "Bagni Lino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die See in der Mittagssonne; achten Sie auf Schattenabschnitte, da der Asphalt dort deutlich kälter und eventuell rutschig sein kann.",
+                "hu": "Élvezze a tengerre nyíló kristálytiszta kilátást a déli napsütésben; ügyeljen az árnyékos szakaszokra, mert az aszfalt ott jóval hidegebb és akár csúszós is lehet.",
+                "ro": "Bucurați-vă de vederea clară a mării în soarele amiezii; aveți grijă la secțiunile umbrite, deoarece asfaltul acolo este mult mai rece și poate fi alunecos.",
+                "en": "Enjoy the crystal-clear view of the sea in the midday sun; watch out for shaded sections, as the asphalt there remains much colder and potentially slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Solarium",
+                "hu": "Solarium",
+                "ro": "Solarium",
+                "en": "Solarium"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für ein kurzes Sonnenbad im Stehen, um Energie zu tanken; halten Sie die Pause kurz, damit die Muskeln bei der Kälte nicht zu sehr auskühlen.",
+                "hu": "Tökéletes hely egy rövid, álló fényfürdőhöz az energiaraktárak feltöltésére; tartsa röviden a pihenőt, hogy az izmai ne hűljenek ki túlságosan a hidegben.",
+                "ro": "Locul perfect pentru o scurtă baie de soare în picioare pentru a vă reîncărca bateriile; păstrați pauza scurtă pentru ca mușchii să nu se răcească prea tare în frig.",
+                "en": "The perfect spot for a short, standing light bath to recharge your energy; keep the break brief so your muscles don't cool down too much in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Hotel Eden Park",
+                "hu": "Bagni Hotel Eden Park",
+                "ro": "Bagni Hotel Eden Park",
+                "en": "Bagni Hotel Eden Park"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Lage bietet eine gute Barriere gegen den kalten Nordwind; stellen Sie sicher, dass Ihre Beleuchtung funktioniert, da es am Nachmittag schnell dämmert.",
+                "hu": "A védett fekvés jó gátat szab a hideg északi szélnek; győződjön meg róla, hogy a világítása megfelelően működik, mert délután nagyon hamar szürkülni kezd.",
+                "ro": "Locația protejată oferă o barieră bună împotriva vântului rece de nord; asigurați-vă că luminile funcționează, deoarece se înserează rapid după-amiaza.",
+                "en": "The sheltered location provides a good barrier against the cold north wind; ensure your lights are working properly as it starts to get dark very early in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Ponterosso",
+                "hu": "Bagni Ponterosso",
+                "ro": "Bagni Ponterosso",
+                "en": "Bagni Ponterosso"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Wendepunkt für die Tour, bevor die Abendkälte einsetzt; ziehen Sie für den Heimweg eine zusätzliche Schicht an, da die Temperaturen nach 16:30 Uhr sinken.",
+                "hu": "Ideális fordulópont a túrához, mielőtt beállna az esti lehűlés; vegyen fel egy plusz réteget a hazaúthoz, mert 16:30 után a hőmérséklet hirtelen esni kezd.",
+                "ro": "Un punct de întoarcere ideal pentru tură înainte de lăsarea frigului de seară; puneți un strat în plus pentru drumul spre casă, deoarece temperaturile scad după 16:30.",
+                "en": "An ideal turnaround point for the tour before the evening chill sets in; put on an extra layer for the ride home as temperatures drop sharply after 16:30."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autózzon le a bájos Caesar's Beachhez egy nyugodt délelőttre, kihasználva a közeli tengerparti parkolóhelyek kényelmét. A déli autózás lehetővé teszi, hogy könnyedén végigjárja a partvonalat, kényelmesen megállva a Delfinónál, mielőtt elérné a buja Eden Parkot. Délután parkoljon le a Spiaggia libera attrezzata közelében, hogy megtapasztalja a természetesebb strandkörnyezet szabadságát. Ahogy leszáll az este, fejezze be autós kirándulását a Bagni Restanónál egy utolsó naplementés kilátással.",
         "ro": "Conduceți până la fermecătoarea Caesar's Beach pentru o dimineață liniștită, bucurându-vă de confortul locurilor de parcare de pe coastă. Conducerea la prânz vă permite să urcați ușor pe coastă, făcând o oprire confortabilă la Delfino înainte de a ajunge la luxuriantul Eden Park. După-amiaza, parcați lângă Spiaggia libera attrezzata pentru a experimenta libertatea unui mediu de plajă mai natural. Când vine seara, încheiați excursia la Bagni Restano cu o ultimă vedere la apus înainte de a vă întoarce.",
         "en": "Drive down to the charming Caesar's Beach for a tranquil morning, enjoying the convenience of nearby coastal parking spaces. Midday driving lets you easily hop up the coastline, making a comfortable stop at Delfino before reaching the lush Eden Park. In the afternoon, park near the Spiaggia libera attrezzata to experience the freedom of a more natural beach environment. As evening arrives, complete your road trip at Bagni Restano with a final sunset view before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am regnerischen Morgen ist das Auto der bequemste Zufluchtsort für Küstenerkundungen. Mittags lässt sich die Aussicht auf die stürmische See direkt vom Parkplatz aus genießen. Der Nachmittag eignet sich für kurze Abstecher zu den Stränden, unterbrochen von gemütlichen Aufenthalten im Fahrzeug. Abends sorgen die beheizten Sitze für Komfort auf dem Weg zurück durch die nasse Stadt.",
+            "hu": "A reggeli esőben az autó a legkényelmesebb menedék a parti felfedezéshez. Délben a viharos tenger látványát közvetlenül a parkolóból is élvezhetjük, miközben szárazon maradunk. A délután alkalmas rövid kiszállásokra a strandoknál, amit az autó melegében pihenhetünk ki. Este a fűtött utastér nyújt komfortot a vizes városon átvezető hazaúton.",
+            "ro": "În dimineața ploioasă, mașina este cel mai confortabil refugiu pentru explorarea coastei. La prânz, priveliștea mării agitate poate fi savurată direct din parcare, stând la uscat. După-amiaza este potrivită pentru scurte opriri la plaje, alternate cu momente de relaxare în vehicul. Seara, habitaclul încălzit oferă confortul necesar pe drumul de întoarcere prin orașul ud.",
+            "en": "On a rainy morning, the car is the most comfortable sanctuary for coastal exploration. At noon, you can enjoy the view of the stormy sea directly from the parking spot while staying dry. The afternoon is perfect for quick dashes to the beaches, followed by cozy breaks in the vehicle. In the evening, the heated interior provides comfort on the wet drive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Caesar's Beach",
+                "hu": "Bagni Caesar's Beach",
+                "ro": "Bagni Caesar's Beach",
+                "en": "Bagni Caesar's Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regenweg kurz zu halten; die Aussicht auf die Wellen vom Beifahrersitz aus ist bei diesem Wetter fast schon meditativ.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat; a hullámok látványa az anyósülésről nézve szinte meditatív élmény ilyenkor.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; vederea valurilor de pe scaunul pasagerului este aproape meditativă în această vreme.",
+                "en": "Park as close as possible to the entrance to keep your time in the rain brief; watching the waves from the passenger seat is almost a meditative experience in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Delfino",
+                "hu": "Bagni Delfino",
+                "ro": "Bagni Delfino",
+                "en": "Bagni Delfino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort Ihres Wagens für eine Panorama-Pause mit Meerblick; achten Sie beim Aussteigen auf tiefe Pfützen, die sich auf den Parkflächen bilden können.",
+                "hu": "Használja ki az autó kényelmét egy panorámás pihenőhöz tengeri kilátással; kiszálláskor ügyeljen a mélyebb tócsákra, amelyek a parkolófelületeken ilyenkor kialakulhatnak.",
+                "ro": "Folosiți confortul mașinii pentru o pauză panoramică cu vedere la mare; la coborâre, aveți grijă la bălțile adânci care se pot forma în zonele de parcare.",
+                "en": "Use your car's comfort for a panoramic break with sea views; be careful when stepping out, as deep puddles often form on the parking surfaces during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Hotel Eden Park",
+                "hu": "Bagni Hotel Eden Park",
+                "ro": "Bagni Hotel Eden Park",
+                "en": "Bagni Hotel Eden Park"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen hervorragenden Blick auf den aufgewühlten Ozean; halten Sie Ihre Scheibenwischer bereit, um die Gischt, die bis zur Straße weht, schnell zu entfernen.",
+                "hu": "A parkoló kiváló rálátást biztosít a felkorbácsolt tengerre; tartsa készenlétben az ablaktörlőket a sós permet miatt, amit a szél egészen az útig hordhat.",
+                "ro": "Parcarea oferă o vedere excelentă asupra oceanului agitat; aveți ștergătoarele pregătite pentru a curăța rapid spray-ul sărat purtat de vânt până la drum.",
+                "en": "The parking area offers an excellent view of the churned-up ocean; keep your wipers ready to clear the salty sea spray that the wind blows all the way to the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera attrezzata",
+                "hu": "Spiaggia libera attrezzata",
+                "ro": "Spiaggia libera attrezzata",
+                "en": "Spiaggia libera attrezzata"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus wirken die verlassenen Liegestühle im Regen besonders malerisch; fahren Sie vorsichtig, da die Sicht durch den starken Regen und die Gischt stark eingeschränkt ist.",
+                "hu": "Az autóból nézve az esőben ázó, elhagyatott nyugágyak különleges látványt nyújtanak; vezessen óvatosan, mert a látótávolság a heves esőben jelentősen lecsökkenhet.",
+                "ro": "Din mașină, șezlongurile abandonate în ploaie par deosebit de pitorești; conduceți cu prudență, deoarece vizibilitatea este redusă de ploaia torențială și ceață.",
+                "en": "From the car, the deserted sunbeds in the rain look particularly picturesque; drive carefully as visibility is significantly reduced by the heavy downpour and mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Restano",
+                "hu": "Bagni Restano",
+                "ro": "Bagni Restano",
+                "en": "Bagni Restano"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss der Fahrt, während der Regen gegen das Autodach trommelt; nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben bei der feuchten Außenluft zu verhindern.",
+                "hu": "A túra pihentető lezárása, miközben az eső dobol az autó tetőlemezén; használja a légkondicionálót a szélvédők párátlanítására a kinti magas páratartalom miatt.",
+                "ro": "Un final relaxant de călătorie în timp ce ploaia bate în plafonul mașinii; folosiți aerul condiționat pentru a preveni aburirea geamurilor din cauza umidității mari.",
+                "en": "A relaxing end to the drive while the rain drums against the car roof; use the air conditioning to prevent window fogging caused by the high humidity outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Wintermorgenfahrt bietet spektakuläre Ausblicke auf die ligurische Küste. Mittags ist das Auto ein herrlich warmer Stützpunkt zwischen den kurzen Spaziergängen am Strand. Am Nachmittag taucht die tiefstehende Sonne die Szenerie in warmes Licht, bevor es um 16:30 Uhr schattig wird. Mit dem frühen Sonnenuntergang um 17:00 Uhr endet der Tag gemütlich im beheizten Fahrzeug.",
+            "hu": "A tiszta téli reggeli autózás látványos panorámát kínál a ligur partvidékre. Napközben az autó kellemesen meleg bázisul szolgál a rövid parti séták között. Délután az alacsony napállás meleg fénybe vonja a tájat, mielőtt 16:30 után árnyékba borulna a part. A korai, 17:00-s naplementével a nap kényelmesen zárul a fűtött utastérben.",
+            "ro": "Călătoria de dimineață în aerul clar de iarnă oferă vederi spectaculoase asupra coastei ligure. La prânz, mașina este o bază caldă și primitoare între scurte plimbări pe plajă. După-amiaza, soarele jos scaldă peisajul în lumină caldă înainte de ora 16:30. Odată cu apusul devreme de la 17:00, ziua se încheie confortabil în vehiculul încălzit.",
+            "en": "The clear winter morning drive offers spectacular views of the Ligurian coast. At noon, the car serves as a wonderfully warm base between short strolls on the beach. In the afternoon, the low sun bathes the scenery in warm light before it gets shady around 16:30. With the early sunset at 17:00, the day ends cozily in your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Caesar's Beach",
+                "hu": "Bagni Caesar's Beach",
+                "ro": "Bagni Caesar's Beach",
+                "en": "Bagni Caesar's Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht auf das tiefblaue Wintermeer direkt vom Wagen aus; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht im Stillstand genießen.",
+                "hu": "Élvezze a mélykék téli tengerre nyíló tágas kilátást közvetlenül az autóból; ne járassa feleslegesen a motort, miközben álló helyzetben gyönyörködik a panorámában.",
+                "ro": "Bucurați-vă de vederea largă a mării albastre de iarnă direct din mașină; nu lăsați motorul pornit inutil în timp ce admirați priveliștea din staționare.",
+                "en": "Enjoy the vast view of the deep blue winter sea directly from your car; avoid idling the engine unnecessarily while enjoying the panorama from your parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Delfino",
+                "hu": "Bagni Delfino",
+                "ro": "Bagni Delfino",
+                "en": "Bagni Delfino"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet hier fantastische Fotomotive von der Brandung; achten Sie auf den Reifendruck, da dieser bei sinkenden Temperaturen im Winter oft leicht abfällt.",
+                "hu": "A téli fények fantasztikus fotótémákat kínálnak itt a hullámzásról; ellenőrizze a guminyomást, mivel a süllyedő hőmérséklet hatására az télen gyakran csökkenhet.",
+                "ro": "Lumina de iarnă oferă oportunități fantastice pentru fotografii cu valurile; verificați presiunea în anvelope, deoarece aceasta scade adesea odată cu temperatura.",
+                "en": "The winter light offers fantastic photo opportunities of the surf here; check your tire pressure, as it often drops slightly with the falling temperatures in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Hotel Eden Park",
+                "hu": "Bagni Hotel Eden Park",
+                "ro": "Bagni Hotel Eden Park",
+                "en": "Bagni Hotel Eden Park"
+              },
+              "tip_5lang": {
+                "de": "Die palmengesäumte Straße wirkt im Wintersonnenschein besonders elegant; nutzen Sie die Sitzheizung für maximale Entspannung nach einem kurzen Aufenthalt an der kühlen Luft.",
+                "hu": "A pálmákkal szegélyezett út különösen elegánsan fest a téli napsütésben; használja az ülésfűtést a maximális ellazuláshoz a hűvös levegőn tett rövid séta után.",
+                "ro": "Drumul mărginit de palmiere arată deosebit de elegant în soarele de iarnă; folosiți încălzirea în scaune pentru relaxare maximă după scurta ieșire în aerul rece.",
+                "en": "The palm-lined road looks particularly elegant in the winter sunshine; use the seat heating for maximum relaxation after a short stay in the cool coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera attrezzata",
+                "hu": "Spiaggia libera attrezzata",
+                "ro": "Spiaggia libera attrezzata",
+                "en": "Spiaggia libera attrezzata"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Sonne im Winter tiefer über dem Horizont steht; die Parkplätze sind jetzt leerer, was das Rangieren für perfekte Fotos deutlich erleichtert.",
+                "hu": "Figyelje meg, ahogy a nap télen jóval alacsonyabban jár a horizont felett; a parkolók most üresebbek, ami megkönnyíti a manőverezést a tökéletes fotókhoz.",
+                "ro": "Observați cum soarele stă mult mai jos la orizont în timpul iernii; parcările sunt acum mai libere, ceea ce facilitează manevrele pentru fotografii perfecte.",
+                "en": "Observe how the sun sits much lower on the horizon during winter; the parking spots are emptier now, making it much easier to maneuver for the perfect photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Restano",
+                "hu": "Bagni Restano",
+                "ro": "Bagni Restano",
+                "en": "Bagni Restano"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um den Tag Revue passieren zu lassen, während die Heizung läuft; beachten Sie den Sonnenuntergang um 17:00 Uhr und planen Sie die Rückfahrt im Hellen.",
+                "hu": "Kellemes hely a nap összegzésére a fűtött utastérben; ügyeljen a korai, 17:00-s naplementére, és tervezze meg a hazautat, hogy még látni lehessen a partot.",
+                "ro": "Un loc plăcut pentru a trece în revistă ziua în timp ce căldura merge; atenție la apusul de la ora 17:00, planificați drumul de întoarcere cât încă mai e lumină.",
+                "en": "A pleasant spot to review your day while the heater is running; mind the early sunset at 17:00 and plan your return drive to catch the last of the coastal light."
+              }
+            }
+          ]
+        }
       }
     }
   }

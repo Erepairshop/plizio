@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az Aya Nikola faragott rejtélyeinek felfedezésével a friss parti levegőn. A dél a Kıyıköy Camii építészeti varázsával és a Liman Hamamı romjaival folytatódik. Délután fedezze fel a Kaya Kilisesi mélyen rejlő titkait. Az estéje a történelmi Deniz Feneri világítótorony nyugodt naplementéjével zárul.",
         "ro": "Începeți dimineața descoperind misterele sculptate de la Aya Nikola. Prânzul face trecerea către farmecul arhitectural al Moscheii Kıyıköy și ruinele băilor portuare. După-amiaza, descoperiți secretele ascunse adânc în Kaya Kilisesi. Seara se încheie cu un apus liniștit la farul istoric Deniz Feneri.",
         "en": "Begin your morning uncovering the carved mysteries of Aya Nikola, breathing in the fresh coastal air. Midday transitions to the architectural charm of Kıyıköy Camii and the evocative ruins of the Liman Hamamı. In the afternoon, discover the deeply hidden secrets inside Kaya Kilisesi. Your evening concludes with a serene sunset at the historic Deniz Feneri."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die in den Fels gehauenen Klöster, die bei Regen natürlichen Schutz bieten. Mittags spazieren Sie durch die engen Gassen zur Moschee, wo die nassen Pflastersteine glänzen. Nachmittags besuchen Sie die historischen Bäder und die Felskirche, während der Regen auf das Meer peitscht. Abends endet der Tag am Leuchtturm mit einem dramatischen Blick auf die stürmische See.",
+            "hu": "Reggel a sziklába vájt kolostorokat fedezzük fel, amelyek természetes menedéket nyújtanak az eső elől. Délben a szűk utcákon haladunk a mecset felé, miközben a vizes macskakövek csillognak. Délután a történelmi fürdőket és a sziklatemplomot látogatjuk meg, mialatt az eső a tengerre zúdul. Este a világítótoronynál zárjuk a napot, élvezve a viharos Fekete-tenger drámai látványát.",
+            "ro": "Dimineața explorați mănăstirile săpate în stâncă, care oferă adăpost natural împotriva ploii. La prânz vă plimbați pe străzile înguste spre moschee, în timp ce pietrele umede strălucesc. După-amiaza vizitați băile istorice și biserica în stâncă, în timp ce ploaia bate peste mare. Seara se încheie la far cu o priveliște dramatică asupra mării furtunoase, sub cerul plumburiu.",
+            "en": "In the morning, explore the rock-cut monasteries that provide natural shelter from the rain. At noon, walk through narrow streets to the mosque as the wet cobblestones glisten. In the afternoon, visit the historical baths and the rock church while rain lashes against the sea. In the evening, the day ends at the lighthouse with a dramatic view of the stormy Black Sea waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aya Nikola",
+                "hu": "Aya Nikola",
+                "ro": "Aya Nikola",
+                "en": "Aya Nikola"
+              },
+              "tip_5lang": {
+                "de": "Das Felsenkloster bietet trockenen Unterschlupf; tragen Sie festes Schuhwerk, da die in den Stein gehauenen Stufen bei Nässe sehr rutschig sein können.",
+                "hu": "A sziklakolostor száraz menedéket nyújt az eső elől; viseljen tapadós talpú cipőt, mert a kőbe vájt lépcsők nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Mănăstirea în stâncă oferă un adăpost uscat; purtați încălțăminte aderentă, deoarece treptele săpate în piatră pot fi foarte alunecoase când sunt ude.",
+                "en": "The rock monastery provides dry shelter; wear high-grip shoes as the steps carved into the stone can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Camii",
+                "hu": "Kıyıköy Camii",
+                "ro": "Moscheea Kıyıköy",
+                "en": "Kıyıköy Mosque"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren der Moschee, während es draußen regnet; lassen Sie Ihren Regenschirm im Eingangsbereich in den dafür vorgesehenen Ständern.",
+                "hu": "Élvezze a belső tér nyugalmát, miközben kint esik az eső; az esernyőt hagyja a bejáratnál kialakított tartókban, hogy ne vigyen be nedvességet.",
+                "ro": "Bucurați-vă de liniștea din interiorul moscheii în timp ce afară plouă; lăsați umbrela în suporturile speciale de la intrare pentru a păstra covorul uscat.",
+                "en": "Enjoy the tranquility inside the mosque while it rains outside; leave your umbrella in the designated stands at the entrance to keep the floor dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Liman Hamamı",
+                "hu": "Kıyıköy Liman Hamamı",
+                "ro": "Băile portuare Kıyıköy",
+                "en": "Kıyıköy Port Baths"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruinen erzählen von alter Badekultur; nutzen Sie die überdachten Bereiche der historischen Struktur, um den stärksten Regengüssen zu entgehen.",
+                "hu": "Ezek a romok a régi fürdőkultúráról mesélnek; használja a történelmi építmény fedett részeit, hogy elkerülje a hirtelen lezúduló záporokat.",
+                "ro": "Aceste ruine povestesc despre vechea cultură a băilor; folosiți zonele acoperite ale structurii istorice pentru a vă adăposti de ploaia torențială.",
+                "en": "These ruins tell of ancient bathing culture; use the covered areas of the historical structure to escape the heaviest downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaya Kilisesi",
+                "hu": "Kaya Kilisesi",
+                "ro": "Kaya Kilisesi",
+                "en": "Kaya Church"
+              },
+              "tip_5lang": {
+                "de": "Die in den Fels gehauene Architektur ist ein perfektes Regenversteck; Taschenlampen helfen, die Details in den dunkleren Ecken bei trübem Licht zu sehen.",
+                "hu": "A sziklába vájt építészet tökéletes búvóhely esőben; egy zseblámpa segíthet felfedezni a részleteket a sötétebb sarkokban a borús időben.",
+                "ro": "Arhitectura săpată în stâncă este o ascunzătoare perfectă; o lanternă vă va ajuta să vedeți detaliile în colțurile întunecate în zilele mohorâte.",
+                "en": "The rock-cut architecture is a perfect rainy-day hideout; a flashlight will help you see details in the darker corners during dim light."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Vom windgeschützten Bereich aus ist der Ausblick auf das aufgewühlte Meer atemberaubend; halten Sie Ihre Kamera mit einer wasserdichten Hülle bereit.",
+                "hu": "A szélvédett részekről lélegzetelállító a kilátás a felkorbácsolt tengerre; tartsa készenlétben kameráját vízálló tokban a drámai fotókhoz.",
+                "ro": "Din zonele ferite de vânt, priveliștea mării agitate este uluitoare; pregătiți camera foto cu o husă impermeabilă pentru cadre dramatice.",
+                "en": "From the wind-sheltered areas, the view of the churning sea is breathtaking; keep your camera ready in a waterproof case for dramatic shots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise vom Schwarzen Meer, während Sie die Felsbauten besuchen. Mittags wärmen Sie sich in einem kleinen Café auf, bevor Sie zur Moschee weiterziehen. Nachmittags taucht das weiche Winterlicht die Küste in sanfte Farben. Da die Sonne bereits gegen 17:00 Uhr sinkt, verbringen Sie den frühen Abend am Leuchtturm, um das letzte Tageslicht über dem Meer zu erleben.",
+            "hu": "Reggel friss szél fúj a Fekete-tenger felől, miközben a sziklaépítményeket látogatjuk. Délben egy kis kávézóban melegszünk fel, mielőtt a mecsethez indulnánk. Délután a lágy téli fények pasztellszínbe öltöztetik a partvidéket. Mivel a nap már 17:00 körül lenyugszik, a kora estét a világítótoronynál töltjük, elcsípve az utolsó fényeket a horizonton.",
+            "ro": "Dimineața, o briză proaspătă suflă dinspre Marea Neagră în timp ce vizitați structurile din stâncă. La prânz vă încălziți într-o cafenea mică înainte de a merge la moschee. După-amiaza, lumina slabă de iarnă îmbracă coasta în culori blânde. Deoarece soarele apune deja în jur de ora 17:00, petreceți seara devreme la far pentru ultimele raze.",
+            "en": "In the morning, a fresh breeze blows from the Black Sea as you visit the rock structures. At noon, warm up in a small cafe before moving on to the mosque. In the afternoon, soft winter light bathes the coast in gentle colors. As the sun sets around 5:00 PM, spend the early evening at the lighthouse to catch the last daylight over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aya Nikola",
+                "hu": "Aya Nikola",
+                "ro": "Aya Nikola",
+                "en": "Aya Nikola"
+              },
+              "tip_5lang": {
+                "de": "Die Felswände strahlen im Winter Kälte aus; tragen Sie Thermokleidung und genießen Sie die mystische Stille des fast menschenleeren Klosters.",
+                "hu": "A sziklafalak télen sugározzák a hideget; viseljen hőtartó ruházatot, és élvezze a szinte néptelen kolostor misztikus csendjét.",
+                "ro": "Pereții de stâncă emană frig iarna; purtați haine termice și bucurați-vă de liniștea mistică a mănăstirii aproape pustii.",
+                "en": "The rock walls radiate cold in winter; wear thermal clothing and enjoy the mystical silence of the almost deserted monastery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Camii",
+                "hu": "Kıyıköy Camii",
+                "ro": "Moscheea Kıyıköy",
+                "en": "Kıyıköy Mosque"
+              },
+              "tip_5lang": {
+                "de": "Der Teppichboden sorgt für eine angenehme Wärme an den Füßen; nutzen Sie den Besuch für eine kurze Aufwärmpause in spiritueller Atmosphäre.",
+                "hu": "A szőnyegpadló kellemes meleget ad a lábaknak; használja ki a látogatást egy rövid melegedő pihenőre a spirituális környezetben.",
+                "ro": "Mocheta oferă o căldură plăcută picioarelor; profitați de vizită pentru o scurtă pauză de încălzire în atmosfera spirituală.",
+                "en": "The carpeted floor provides a pleasant warmth for your feet; use the visit as a short warming break in a spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Liman Hamamı",
+                "hu": "Kıyıköy Liman Hamamı",
+                "ro": "Băile portuare Kıyıköy",
+                "en": "Kıyıköy Port Baths"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist hier im Winter besonders schneidend; wickeln Sie sich fest in Ihren Schal ein, während Sie die Außenmauern erkunden.",
+                "hu": "A tengeri szél itt télen különösen metsző lehet; csavarja szorosan a sálat a nyaka köré, miközben a külső falakat vizsgálja.",
+                "ro": "Briza mării este tăioasă aici iarna; înfășurați-vă bine eșarfa în timp ce explorați zidurile exterioare ale băilor.",
+                "en": "The sea breeze can be especially biting here in winter; wrap your scarf tightly as you explore the outer walls of the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaya Kilisesi",
+                "hu": "Kaya Kilisesi",
+                "ro": "Kaya Kilisesi",
+                "en": "Kaya Church"
+              },
+              "tip_5lang": {
+                "de": "In den Felskammern ist es oft wärmer als draußen; nutzen Sie den geschützten Raum für eine Pause, bevor Sie den Küstenpfad fortsetzen.",
+                "hu": "A sziklakamrákban gyakran melegebb van, mint kint; használja ki a védett belső teret egy pihenőre, mielőtt folytatná a parti utat.",
+                "ro": "În camerele de stâncă este adesea mai cald decât afară; folosiți spațiul protejat pentru o pauză înainte de a continua pe poteca de coastă.",
+                "en": "Inside the rock chambers, it's often warmer than outside; take advantage of the sheltered space for a break before continuing the coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht früh unter, bringen Sie also eine Stirnlampe für den Rückweg mit und genießen Sie das blaue Licht der Dämmerung.",
+                "hu": "A nap korán nyugszik, vigyen fejlámpát a visszaúthoz, és csodálja meg a szürkület kék fényeit a havas vagy zúzmarás sziklákon.",
+                "ro": "Soarele apune devreme, așa că aduceți o lanternă frontală pentru drumul de întoarcere și admirați lumina albastră a amurgului.",
+                "en": "The sun sets early, so bring a headlamp for the way back and admire the blue twilight glow over the winter coastline."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje egy energikus reggeli tekeréssel a Vezirtepe F Tümülüsü panorámájáért. A dél a történelmi sikátorokon át az Aya Nikolához és a mecsethez vezet. Kora délután pihenjen a Kıyıköy Halk Plajı lágy hullámainál, majd tekerjen a Kaya Kilisesihez. A napot a Fekete-tengerre néző Deniz Feneri világítótoronynál zárja.",
         "ro": "Începeți cu o plimbare matinală către Vezirtepe F Tümülüsü pentru vederi panoramice. La prânz, vizitați Aya Nikola și moscheea centrală. Petreceți-vă prima parte a după-amiezii relaxându-vă la Kıyıköy Halk Plajı înainte de a pedala spre Kaya Kilisesi. Încheiați ziua privindu-vă Marea Neagră la Deniz Feneri.",
         "en": "Start with an energizing morning ride to Vezirtepe F Tümülüsü for panoramic views. Midday brings you through the historical alleys to Aya Nikola and the town's central mosque. Spend your early afternoon relaxing by the soft waves at Kıyıköy Halk Plajı before pedaling to Kaya Kilisesi. Finish your scenic biking day overlooking the vast Black Sea at Deniz Feneri."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig über die aufgeweichten Wege zu den Grabhügeln. Mittags bieten die Felskirchen Schutz, während die Fahrräder im Trockenen stehen. Nachmittags geht es entlang der Küste, wo die salzige Gischt und der Regen eins werden. Da die Sicht abnimmt, schalten Sie frühzeitig das Licht ein und beenden die Tour bei Einbruch der Dunkelheit im Dorfzentrum.",
+            "hu": "Reggel óvatosan tekerünk a felázott utakon a sírhalmok felé. Délben a sziklatemplomok nyújtanak menedéket, amíg a bicikliket fedett helyre toljuk. Délután a parton haladunk, ahol a sós permet és az eső eggyé válik. Mivel a látótávolság csökken, korán kapcsoljuk be a lámpákat, és a túrát a faluközpontban fejezzük be sötétedéskor.",
+            "ro": "Dimineața pedalați cu atenție pe drumurile moi spre tumuli. La prânz, bisericile în stâncă oferă adăpost în timp ce lăsați bicicletele la uscat. După-amiaza urmați coasta, unde spray-ul sărat al mării se unește cu ploaia. Deoarece vizibilitatea scade, aprindeți luminile devreme și terminați turul în centrul satului la lăsarea întunericului.",
+            "en": "In the morning, pedal carefully over softened paths towards the mounds. At noon, the rock churches provide shelter while you park your bikes in the dry. In the afternoon, follow the coast where salt spray and rain become one. As visibility drops, turn on your lights early and finish the tour in the village center by nightfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vezirtepe F Tümülüsü",
+                "hu": "Vezirtepe F Tümülüsü",
+                "ro": "Tumulul Vezirtepe F",
+                "en": "Vezirtepe F Mound"
+              },
+              "tip_5lang": {
+                "de": "Der Hügelpfad ist schlammig; reduzieren Sie den Reifendruck leicht für bessere Haftung und achten Sie auf tiefe Pfützen in den Senken.",
+                "hu": "A dombra vezető út sáros; csökkentse kissé a guminyomást a jobb tapadás érdekében, és kerülje a mély tócsákat a mélyedésekben.",
+                "ro": "Poteca spre tumul este noroioasă; reduceți ușor presiunea în pneuri pentru o aderență mai bună și atenție la bălțile adânci.",
+                "en": "The path to the mound is muddy; slightly reduce tire pressure for better grip and watch out for deep puddles in the hollows."
+              }
+            },
+            {
+              "name": {
+                "de": "Aya Nikola",
+                "hu": "Aya Nikola",
+                "ro": "Aya Nikola",
+                "en": "Aya Nikola"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Felsvorsprung; nutzen Sie die Pause, um Ihre Regenjacke zu lüften und die antiken Reliefs im Trockenen zu bewundern.",
+                "hu": "Parkolja a kerékpárt a sziklakiszögellés alá; használja ki a szünetet az esőkabát kiszellőztetésére és az antik domborművek megtekintésére.",
+                "ro": "Parcați bicicleta sub pragul de stâncă; folosiți pauza pentru a vă aerisi jacheta de ploaie și admirați reliefurile antice la adăpost.",
+                "en": "Park your bike under the rock overhang; use the break to air out your rain jacket and admire the ancient reliefs in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Camii",
+                "hu": "Kıyıköy Camii",
+                "ro": "Moscheea Kıyıköy",
+                "en": "Kıyıköy Mosque"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie starkes Bremsen auf dem nassen Kopfsteinpflaster vor der Moschee; suchen Sie einen Fahrradständer mit möglichst festem Untergrund.",
+                "hu": "Kerülje az erős fékezést a mecset előtti vizes macskakövön; keressen szilárd burkolatú kerékpártárolót, hogy ne süllyedjen el a sárban.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed din fața moscheii; căutați un loc de parcare pentru biciclete cu sol cât mai ferm.",
+                "en": "Avoid sudden braking on the wet cobblestones in front of the mosque; look for a bike stand with the firmest possible ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Halk Plajı",
+                "hu": "Kıyıköy Halk Plajı",
+                "ro": "Plaja publică Kıyıköy",
+                "en": "Kıyıköy Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist fest, aber die Zufahrt rutschig; bleiben Sie auf den befestigten Wegen und genießen Sie das Schauspiel der grauen Wellen im Regen.",
+                "hu": "A homok kemény, de a lehajtó csúszós; maradjon a kövezett utakon, és élvezze a szürke hullámok látványát a szakadó esőben.",
+                "ro": "Nisipul este ferm, dar accesul este alunecos; rămâneți pe potecile amenajate și bucurați-vă de spectacolul valurilor gri în ploaie.",
+                "en": "The sand is firm but the access is slippery; stay on the paved paths and enjoy the sight of grey waves in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaya Kilisesi",
+                "hu": "Kaya Kilisesi",
+                "ro": "Kaya Kilisesi",
+                "en": "Kaya Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad geschützt ab; die kühle Feuchtigkeit im Inneren der Felskirche ist eine gute Abkühlung nach der anstrengenden Regenfahrt.",
+                "hu": "Állítsa le a kerékpárt védett helyen; a sziklatemplom hűvös nedvessége jó felfrissülés a megerőltető esős tekerés után.",
+                "ro": "Lăsați bicicleta într-un loc protejat; umezeala răcoroasă din interiorul bisericii este o revigorare bună după pedalarea prin ploaie.",
+                "en": "Park your bike in a protected spot; the cool dampness inside the rock church is a nice refresh after the strenuous rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starke Seitenwinde beim Radeln an den Klippen; wischen Sie Ihre Felgen trocken, um die volle Bremsleistung für die Abfahrt zu haben.",
+                "hu": "Vigyázzon az erős oldalszélre a sziklák mentén; törölje szárazra a felniket, hogy meglegyen a teljes fékhatás a lejtmenethez.",
+                "ro": "Atenție la rafalele laterale de vânt pe faleză; ștergeți jantele pentru a avea putere maximă de frânare la coborâre.",
+                "en": "Watch out for strong side winds near the cliffs; wipe your rims dry to ensure full braking power for the downhill return."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die kalte Luft Ihre Ausdauer heraus, während Sie zu den antiken Stätten radeln. Mittags suchen Sie Schutz vor dem Wind im Dorf und genießen warme Getränke. Nachmittags ist die Küstenstraße fast leer, was eine entspannte Fahrt ermöglicht. Da es um 17:00 Uhr dunkel wird, planen Sie Ihre Rückkehr so, dass Sie den Sonnenuntergang sicher vom Leuchtturm aus sehen.",
+            "hu": "Reggel a hideg levegő próbára teszi az állóképességet az antik lelőhelyek felé. Délben a faluban keresünk szélvédett helyet egy forró tea mellett. Délután a parti út szinte üres, ami nyugodt tekerést tesz lehetővé a téli napsütésben. Mivel 17:00-kor sötétedik, úgy tervezzük az utat, hogy a naplementét már a toronytól csodáljuk.",
+            "ro": "Dimineața, aerul rece vă testează rezistența în timp ce pedalați spre siturile antice. La prânz, căutați un loc ferit de vânt în sat pentru o băutură caldă. După-amiaza, drumul de coastă este aproape pustiu, permițând o plimbare relaxată. Deoarece se întunecă la 17:00, planificați întoarcerea pentru a vedea apusul în siguranță de la far.",
+            "en": "In the morning, the cold air tests your endurance as you cycle to the ancient sites. At noon, find shelter from the wind in the village with warm drinks. In the afternoon, the coastal road is almost empty, allowing for a relaxed ride in the winter sun. As it gets dark by 5:00 PM, plan to reach the lighthouse in time for sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vezirtepe F Tümülüsü",
+                "hu": "Vezirtepe F Tümülüsü",
+                "ro": "Tumulul Vezirtepe F",
+                "en": "Vezirtepe F Mound"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt zum Hügel; der Ausblick über die kahle Winterlandschaft ist von hier oben besonders weit und klar.",
+                "hu": "Viseljen szélálló kesztyűt a dombra menet; a kopár téli táj látványa innen fentről különösen tiszta és messzire nyúló.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drumul spre tumul; priveliştea asupra peisajului sterp de iarnă este foarte clară de aici de sus.",
+                "en": "Wear windproof gloves for the ride to the mound; the view over the bare winter landscape is exceptionally clear from up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Aya Nikola",
+                "hu": "Aya Nikola",
+                "ro": "Aya Nikola",
+                "en": "Aya Nikola"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich viel im Kloster, um warm zu bleiben; die Abfahrt danach kühlt schnell aus, also ziehen Sie eine zusätzliche Schicht über.",
+                "hu": "Mozogjon sokat a kolostor területén, hogy melegen tartsa magát; a túra utáni lejtmenetben hamar lehűl a test, vegyen fel egy extra réteget.",
+                "ro": "Mișcați-vă mult în perimetrul mănăstirii pentru a vă încălzi; coborârea următoare vă va răci rapid, deci puneți un strat în plus pe voi.",
+                "en": "Keep moving within the monastery area to stay warm; the subsequent downhill ride will cool you down fast, so add an extra layer."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Camii",
+                "hu": "Kıyıköy Camii",
+                "ro": "Moscheea Kıyıköy",
+                "en": "Kıyıköy Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Innenhof für einen kurzen Check Ihres Fahrrads; die kühle Luft lässt den Reifendruck im Winter oft sinken.",
+                "hu": "Használja ki a szélcsendes udvart a kerékpár gyors ellenőrzésére; a hideg levegő miatt télen gyakran csökken a guminyomás.",
+                "ro": "Folosiți curtea ferită de vânt pentru o verificare rapidă a bicicletei; aerul rece face ca presiunea în pneuri să scadă adesea iarna.",
+                "en": "Use the windless courtyard for a quick bike check; cold air often causes tire pressure to drop during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Halk Plajı",
+                "hu": "Kıyıköy Halk Plajı",
+                "ro": "Plaja publică Kıyıköy",
+                "en": "Kıyıköy Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt am Wasser, wo gefrorene Gischt rutschig sein kann; genießen Sie die Einsamkeit am winterlichen Strand.",
+                "hu": "Kerülje a közvetlen vízparti tekerést, ahol a fagyott permet csúszós lehet; élvezze a téli tengerpart magányát és a tiszta levegőt.",
+                "ro": "Evitați pedalatul chiar lângă apă, unde gheața formată din spray-ul mării poate fi alunecoasă; bucurați-vă de solitudinea plajei de iarnă.",
+                "en": "Avoid cycling directly by the water where frozen spray can be slippery; enjoy the solitude of the winter beach and the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaya Kilisesi",
+                "hu": "Kaya Kilisesi",
+                "ro": "Kaya Kilisesi",
+                "en": "Kaya Church"
+              },
+              "tip_5lang": {
+                "de": "Die Felswände bieten guten Windschutz für eine Pause; stellen Sie sicher, dass Ihr Fahrradlicht für den bevorstehenden frühen Abend voll geladen ist.",
+                "hu": "A sziklafalak jó szélvédelmet nyújtanak egy pihenőhöz; ellenőrizze, hogy a lámpák teljesen fel vannak-e töltve a korai sötétedés előtt.",
+                "ro": "Zidurile de stâncă oferă protecție bună împotriva vântului pentru o pauză; asigurați-vă că luminile bicicletei sunt încărcate pentru seară.",
+                "en": "The rock walls offer great wind protection for a break; ensure your bike lights are fully charged for the early evening ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt an der Klippe ist im Winter extrem kalt; eine Thermoskanne mit heißem Tee macht das Warten auf den Sonnenuntergang angenehmer.",
+                "hu": "A sziklaélen való tartózkodás télen rendkívül hideg; egy termosz forró teával sokkal kellemesebbé válik a naplemente megvárása.",
+                "ro": "Staționarea pe faleză este extrem de rece iarna; un termos cu ceai cald face așteptarea apusului mult mai plăcută.",
+                "en": "Staying on the cliff edge is extremely cold in winter; a thermos with hot tea makes waiting for the sunset much more enjoyable."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggeli autózás a félreeső Servez Plajı strandnál indul, mielőtt az ősi Kaz Limanı Tümülüsü felé venné az irányt. Délben fedezze fel a Vezirtepe Tümülüsüt és az Aya Nikola kolostorát. A délután a helyi mecset és a Kaya Kilisesi központi örökségére fókuszál. Zárja a napot egy lenyűgöző tengerparti alkonnyal a Deniz Fenerinél.",
         "ro": "Plimbarea cu mașina începe la izolata plajă Servez Plajı înainte de a merge la anticul Kaz Limanı Tümülüsü. La prânz, explorați Vezirtepe Tümülüsü și grotele monahale ale Aya Nikola. După-amiaza se concentrează pe moștenirea centrală, cu moscheea și biserica din piatră. Finalizați la Deniz Feneri sub cerul înstelat.",
         "en": "Your morning drive begins at the secluded Servez Plajı before cruising to the ancient Kaz Limanı Tümülüsü. By midday, explore the majestic Kıyıköy Vezirtepe Tümülüsü and the fascinating monastic caves of Aya Nikola. The afternoon shifts to the town's central heritage with the local mosque and the historic Kaya Kilisesi. End with a stunning coastal twilight at Deniz Feneri."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie gemütlich zu den einsamen Stränden, während die Scheibenwischer den Regen bändigen. Mittags erkunden Sie die Grabhügel, wobei Sie die kurzen Regenpausen für kurze Gänge im Freien nutzen. Nachmittags besuchen Sie die religiösen Stätten und Felskirchen, immer mit dem Auto als warmem Rückzugsort. Abends genießen Sie den Blick auf das stürmische Meer aus der Sicherheit Ihres Wagens.",
+            "hu": "Reggel kényelmesen autózunk a néptelen strandokhoz, miközben az ablaktörlők küzdenek az esővel. Délben a sírhalmokat keressük fel, kihasználva az esőszüneteket a rövid kiszállásokhoz. Délután a vallási helyszíneket és sziklatemplomokat látogatjuk meg, az autót meleg menedékként használva. Este a viharos tenger látványát a kocsi biztonságából csodáljuk a világítótoronynál.",
+            "ro": "Dimineața conduceți relaxat spre plajele pustii în timp ce ștergătoarele înlătură ploaia. La prânz explorați tumulii, folosind pauzele scurte de ploaie pentru plimbări rapide afară. După-amiaza vizitați siturile religioase, având mereu mașina ca refugiu cald. Seara vă bucurați de priveliștea mării furtunoase din siguranța vehiculului, lângă far.",
+            "en": "In the morning, drive comfortably to the deserted beaches while wipers handle the rain. At noon, explore the mounds, using short rain breaks for quick walks outside. In the afternoon, visit religious sites and rock churches, always using the car as a warm retreat. In the evening, enjoy the view of the stormy sea from the safety of your vehicle by the lighthouse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Servez Plajı",
+                "hu": "Servez Plajı",
+                "ro": "Plaja Servez",
+                "en": "Servez Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht im nassen Sand stecken zu bleiben; beobachten Sie das faszinierende Grau des Meeres direkt aus dem Auto.",
+                "hu": "Parkoljon szilárd talajon, hogy ne akadjon el a felázott homokban; figyelje a tenger lenyűgöző szürkeségét közvetlenül az autóból.",
+                "ro": "Parcați pe teren ferm pentru a nu rămâne blocat în nisipul ud; observați griul fascinant al mării direct din confortul mașinii.",
+                "en": "Park on firm ground to avoid getting stuck in wet sand; watch the fascinating grey shades of the sea directly from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaz Limanı Tümülüsü",
+                "hu": "Kaz Limanı Tümülüsü",
+                "ro": "Tumulul Kaz Limanı",
+                "en": "Kaz Limanı Mound"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Zufahrtswege können sehr matschig sein; fahren Sie langsam und achten Sie auf tiefe Spurrillen, die sich durch den Regen bilden.",
+                "hu": "A burkolatlan bekötőutak nagyon sárosak lehetnek; hajtson lassan, és figyeljen az eső okozta mély keréknyomokra és vízátfolyásokra.",
+                "ro": "Drumurile de acces neasfaltate pot fi foarte noroioase; conduceți încet și atenție la șanțurile adânci formate de ploaie pe carosabil.",
+                "en": "Unpaved access roads can be very muddy; drive slowly and watch out for deep ruts and water flows caused by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Vezirtepe Tümülüsü",
+                "hu": "Kıyıköy Vezirtepe Tümülüsü",
+                "ro": "Tumulul Kıyıköy Vezirtepe",
+                "en": "Kıyıköy Vezirtepe Mound"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Wagen, bis ein Regenschauer nachlässt; die Aussicht auf die Küste ist auch durch die nasse Windschutzscheibe sehr stimmungsvoll.",
+                "hu": "Maradjon a kocsiban, amíg eláll a zápor; a partvidék látványa a vizes szélvédőn keresztül is rendkívül hangulatos és festői.",
+                "ro": "Rămâneți în mașină până trece aversa; vederea spre coastă este foarte atmosferică chiar și prin parbrizul ud de ploaie.",
+                "en": "Stay in the car until the shower passes; the view of the coast is very atmospheric even through the rain-streaked windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Aya Nikola",
+                "hu": "Aya Nikola",
+                "ro": "Aya Nikola",
+                "en": "Aya Nikola"
+              },
+              "tip_5lang": {
+                "de": "Es gibt einen Parkplatz nah am Eingang; nutzen Sie den kurzen Weg, um trocken ins Innere zu gelangen und die Felsmalereien zu bewundern.",
+                "hu": "A bejárathoz közel van egy parkoló; használja ki a rövid távolságot, hogy szárazon jusson be a sziklatemplom freskói közé.",
+                "ro": "Există o parcare aproape de intrare; profitați de distanța scurtă pentru a ajunge uscat în interior și a admira picturile rupestre.",
+                "en": "There is a parking lot close to the entrance; take advantage of the short distance to get inside dry and admire the rock paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Camii",
+                "hu": "Kıyıköy Camii",
+                "ro": "Moscheea Kıyıköy",
+                "en": "Kıyıköy Mosque"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen in den engen Gassen; die Sicht kann durch beschlagene Scheiben zusätzlich eingeschränkt sein.",
+                "hu": "Vigyázzon az esernyős gyalogosokra a szűk utcákban; a kilátást a párás szélvédő is nehezítheti, használja a páramentesítőt.",
+                "ro": "Atenție la pietonii cu umbrele pe străzile înguste; vizibilitatea poate fi limitată și de geamurile aburite ale mașinii.",
+                "en": "Watch out for pedestrians with umbrellas in the narrow streets; visibility may also be limited by fogged-up windows, so use the defroster."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaya Kilisesi",
+                "hu": "Kaya Kilisesi",
+                "ro": "Kaya Kilisesi",
+                "en": "Kaya Church"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal und bei Regen rutschig; nutzen Sie die Parkmöglichkeiten etwas oberhalb und gehen Sie das letzte Stück zu Fuß.",
+                "hu": "Az út keskeny és esőben csúszós; használja a kicsit feljebb lévő parkolóhelyeket, és tegye meg az utolsó métereket gyalog az esernyő alatt.",
+                "ro": "Drumul este îngust și alunecos pe ploaie; folosiți locurile de parcare de mai sus și parcurgeți ultima porțiune pe jos cu umbrela.",
+                "en": "The access road is narrow and slippery in the rain; use the parking spots slightly further up and walk the final bit with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit der Front zum Meer, um das Wetterleuchten und die Wellen sicher und trocken zu beobachten; ein Fernglas im Auto lohnt sich.",
+                "hu": "Parkoljon a tenger felé fordulva, hogy biztonságban és szárazon figyelhesse a villámlást és a hullámokat; egy távcső sokat ér ilyenkor.",
+                "ro": "Parcați cu fața spre mare pentru a observa fulgerele și valurile în siguranță; un binoclu în mașină merită efortul acum.",
+                "en": "Park facing the sea to watch the lightning and waves safely and dry; keeping binoculars in the car is well worth it for this view."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie durch die frostige Landschaft zu den einsamen Stränden der Nordküste. Mittags bieten die historischen Stätten eine kühle, aber faszinierende Kulisse für kurze Besuche. Nachmittags genießen Sie die Ruhe im Auto und die weite Sicht über das winterliche Schwarze Meer. Da die Dämmerung gegen 17:00 Uhr einsetzt, beenden Sie den Tag bei einer stimmungsvollen Fahrt zum Leuchtturm.",
+            "hu": "Reggel a deres tájon át autózunk az északi part néptelen strandjaihoz. Délben a történelmi lelőhelyek hűvös, de lenyűgöző díszletet nyújtanak a látogatáshoz. Délután a kocsi melegéből élvezzük a téli Fekete-tenger feletti tiszta kilátást. Mivel 17:00 körül alkonyodik, a napot egy hangulatos autózással zárjuk a világítótorony felé.",
+            "ro": "Dimineața conduceți prin peisajul înghețat spre plajele pustii de pe coasta de nord. La prânz, siturile istorice oferă un decor rece, dar fascinant pentru vizite. După-amiaza vă bucurați de căldura mașinii și de vizibilitatea mare peste Marea Neagră. Deoarece amurgul vine la 17:00, încheiați ziua cu o cursă spre far.",
+            "en": "In the morning, drive through the frosty landscape to the deserted beaches of the north coast. At noon, the historical sites provide a chilly but fascinating backdrop for visits. In the afternoon, enjoy the warmth of the car and the clear view over the winter Black Sea. As twilight sets in around 5:00 PM, end the day with an atmospheric drive to the lighthouse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Servez Plajı",
+                "hu": "Servez Plajı",
+                "ro": "Plaja Servez",
+                "en": "Servez Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresluft ist eisig; bleiben Sie für Fotos nah am Auto und genießen Sie die klare Sicht, die es oft nur im Winter gibt.",
+                "hu": "A tengeri levegő jeges; maradjon az autó közelében a fotózáshoz, és élvezze a télen gyakori rendkívül tiszta távoli kilátást.",
+                "ro": "Aerul mării este înghețat; rămâneți aproape de mașină pentru poze și bucurați-vă de vizibilitatea clară, tipică iernii.",
+                "en": "The sea air is icy; stay close to the car for photos and enjoy the exceptionally clear views that are common in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaz Limanı Tümülüsü",
+                "hu": "Kaz Limanı Tümülüsü",
+                "ro": "Tumulul Kaz Limanı",
+                "en": "Kaz Limanı Mound"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Zufahrtswegen; die Wintersonne steht tief und kann Sie beim Fahren stark blenden.",
+                "hu": "Vigyázzon a fagyott tócsákra a bekötőutakon; a téli nap alacsonyan jár, ezért vezetés közben erős vakítást okozhat.",
+                "ro": "Atenție la bălțile înghețate de pe drumurile de acces; soarele de iarnă este jos și vă poate orbi puternic în timp ce conduceți.",
+                "en": "Watch out for frozen puddles on the access roads; the winter sun is low and can cause significant glare while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Vezirtepe Tümülüsü",
+                "hu": "Kıyıköy Vezirtepe Tümülüsü",
+                "ro": "Tumulul Kıyıköy Vezirtepe",
+                "en": "Kıyıköy Vezirtepe Mound"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto ist nach dem kurzen Aufstieg zum Aussichtspunkt ein Segen; genießen Sie das Panorama über die kahlen Wälder.",
+                "hu": "Az autó fűtése igazi áldás a kilátóponthoz tett rövid séta után; csodálja meg a panorámát a kopár téli erdők felett.",
+                "ro": "Căldura din mașină este o binecuvântare după urcarea scurtă la punctul de belvedere; admirați panorama peste pădurile golașe.",
+                "en": "The car heater is a blessing after the short walk to the viewpoint; enjoy the panoramic views over the bare winter forests."
+              }
+            },
+            {
+              "name": {
+                "de": "Aya Nikola",
+                "hu": "Aya Nikola",
+                "ro": "Aya Nikola",
+                "en": "Aya Nikola"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft im Felsinneren konserviert die Stille perfekt; wärmen Sie sich danach mit der Sitzheizung im Auto wieder auf.",
+                "hu": "A szikla belsejében lévő hűvös levegő tökéletesen megőrzi a csendet; a látogatás után melegedjen fel az autó ülésfűtésével.",
+                "ro": "Aerul rece din interiorul stâncii conservă perfect liniștea; încălziți-vă după aceea folosind încălzirea în scaune a mașinii.",
+                "en": "The cool air inside the rock perfectly preserves the silence; warm up afterwards using your car's seat heating."
+              }
+            },
+            {
+              "name": {
+                "de": "Kıyıköy Camii",
+                "hu": "Kıyıköy Camii",
+                "ro": "Moscheea Kıyıköy",
+                "en": "Kıyıköy Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze im Dorfzentrum sind im Winter leichter zu finden; nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten.",
+                "hu": "Télen könnyebb parkolóhelyet találni a faluközpontban; használja ki a látnivalók közötti rövid, autóval kényelmes távolságokat.",
+                "ro": "Locurile de parcare din centrul satului sunt mai ușor de găsit iarna; profitați de distanțele scurte dintre obiective.",
+                "en": "Parking spots in the village center are easier to find in winter; take advantage of the short, car-friendly distances between sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaya Kilisesi",
+                "hu": "Kaya Kilisesi",
+                "ro": "Kaya Kilisesi",
+                "en": "Kaya Church"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Dämmerung lässt den Ort besonders mystisch wirken; achten Sie beim Parken auf Glatteis auf dem Kopfsteinpflaster.",
+                "hu": "A téli szürkületben a hely különösen misztikusan fest; parkoláskor ügyeljen a macskaköveken kialakuló jegesedésre.",
+                "ro": "Amurgul de iarnă face ca locul să pară deosebit de mistic; atenție la poleiul de pe pavaj atunci când parcați mașina.",
+                "en": "The winter twilight makes the place look especially mystical; watch out for black ice on the cobblestones when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um den Sonnenuntergang im Warmen zu erleben; die Batterieleistung Ihres Handys sinkt bei Kälte schneller.",
+                "hu": "Érkezzen meg időben 17:00 előtt, hogy a meleg kocsiból lássa a naplementét; a hidegben a telefon akkumulátora gyorsabban merülhet.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul din căldura mașinii; bateria telefonului se poate descărca mai repede la frig.",
+                "en": "Arrive well before 5:00 PM to watch the sunset from the warmth of your car; remember that phone batteries drain faster in the cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

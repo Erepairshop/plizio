@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Konaklı történelmi gyökereinek felfedezésével az ősi kútnál. Délben kapcsoljon ki egy kis vidámsággal a helyi vidámparkban. A délután a Sharapsa Han lenyűgöző szeldzsuk építészetéhez vezeti. Zárja sétáját a modern butikok és a közeli szálloda környékének felfedezésével.",
         "ro": "Începeți dimineața descoperind rădăcinile istorice din Konaklı la fântânile otomane. La prânz, schimbați ritmul cu puțină distracție la parcul de distracții local. După-amiaza vă poartă spre impresionanta arhitectură selgiucă a hanului Sharapsa. Încheiați plimbarea relaxându-vă la buticurile moderne din apropriere.",
         "en": "Begin your morning tracing the historical roots of Konaklı at the ancient Ottoman fountain and well. By midday, shift gears with some lighthearted fun at the local amusement park. The afternoon leads you to the impressive Seljuk architecture of Sharapsa Han. Conclude your tour discovering the modern blend of boutique shopping."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit leichtem Nieselregen am antiken Brunnen. Mittags suchen wir Schutz bei Süs Kuyu und nutzen Regenschirme für den kurzen Weg zum Luna Park. Am Nachmittag bietet der massive Sharapsa Han ein trockenes Refugium voller Geschichte. Den Abend lassen wir bei Hervas ausklingen, während der Regen gegen die Fenster prasselt und die Straßen von Konaklı glänzen.",
+            "hu": "A reggel enyhe szemerkéléssel indul az ősi kútnál. Délben a Süs Kuyu környékén sétálunk, esernyővel készülve a Luna Park felé vezető útra. Délután a masszív Sharapsa Han nyújt száraz menedéket és történelmi időutazást. Az estét a Hervas épületénél zárjuk, miközben az eső kopog az ablakokon, és Konaklı utcái az aszfalton tükröződnek.",
+            "ro": "Dimineața începe cu o ploaie ușoară la fântâna antică. La prânz ne plimbăm pe lângă Süs Kuyu, pregătiți cu umbrele pentru drumul spre Luna Park. După-amiaza, masivul Sharapsa Han oferă un refugiu uscat și o călătorie în istorie. Încheiem seara la Hervas, în timp ce ploaia bate în ferestre, iar străzile din Konaklı strălucesc sub picăturile de apă.",
+            "en": "The morning begins with light drizzle at the ancient fountain. At noon, we walk around Süs Kuyu, using umbrellas for the short path to Luna Park. In the afternoon, the massive Sharapsa Han provides a dry sanctuary and a historical journey. We end the evening at Hervas while the rain patters against the windows and the streets of Konaklı reflect the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Çeşme",
+                "hu": "Çeşme",
+                "ro": "Çeşme",
+                "en": "Çeşme"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antike Steinmetzarbeit des Brunnens unter Ihrem Regenschirm; das nasse Gestein lässt die historischen Inschriften heute besonders deutlich hervortreten.",
+                "hu": "Csodálja meg a kút ősi kőfaragásait az esernyője alól; a nedves kőzet miatt a történelmi feliratok ma különösen élesen és látványosan emelkednek ki a környezetükből.",
+                "ro": "Admirați sculpturile antice în piatră ale fântânii de sub umbrelă; piatra umedă face ca inscripțiile istorice să iasă în evidență deosebit de clar și spectaculos astăzi.",
+                "en": "Admire the ancient stone carvings of the fountain from under your umbrella; the wet stone makes the historical inscriptions stand out particularly clearly and vividly today."
+              }
+            },
+            {
+              "name": {
+                "de": "Süs Kuyu",
+                "hu": "Süs Kuyu",
+                "ro": "Süs Kuyu",
+                "en": "Süs Kuyu"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Brunnen wirkt im Regen mystisch; tragen Sie wasserfeste Schuhe, da die umliegenden Pflastersteine bei Nässe sehr rutschig sein können.",
+                "hu": "Ez a történelmi kút misztikus hangulatot áraszt az esőben; viseljen vízálló cipőt, mert a környező macskakövek nedvesen nagyon csúszóssá válhatnak a séta során.",
+                "ro": "Această fântână istorică emană o atmosferă mistică în ploaie; purtați pantofi impermeabili, deoarece pavajul din jur poate deveni foarte alunecos când este ud.",
+                "en": "This historical well exudes a mystical atmosphere in the rain; wear waterproof shoes as the surrounding cobblestones can become very slippery when wet during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den bunten Vordächern der Fahrgeschäfte und genießen Sie die leuchtenden Farben, die im grauen Regenwetter besonders intensiv strahlen.",
+                "hu": "Keressen menedéket a játékok színes előtetői alatt, és élvezze a fényeket, amelyek a szürke esős időben különösen intenzíven és vidáman ragyognak a parkban.",
+                "ro": "Căutați adăpost sub copertinele colorate ale atracțiilor și bucurați-vă de lumini, care strălucesc deosebit de intens și vesel în parcul de distracții pe vreme gri.",
+                "en": "Seek shelter under the colorful awnings of the rides and enjoy the lights, which shine particularly intensely and cheerfully in the park during gray rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sharapsa Han",
+                "hu": "Sharapsa Han",
+                "ro": "Sharapsa Han",
+                "en": "Sharapsa Han"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das massive Steingebäude als perfekten Rückzugsort vor dem Regen und erkunden Sie die beeindruckenden Innenräume der Karawanserei im Trockenen.",
+                "hu": "Használja ki a masszív kőépületet tökéletes menedékként az eső elől, és fedezze fel a karavánszeráj lenyűgöző belső tereit teljesen szárazon és nyugodtan.",
+                "ro": "Folosiți clădirea masivă de piatră ca refugiu perfect împotriva ploii și explorați interioarele impresionante ale caravanseraiului complet uscat și liniștit.",
+                "en": "Take advantage of the massive stone building as a perfect shelter from the rain and explore the impressive interiors of the caravansary while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Hervas Hotel & Accessories",
+                "hu": "Hervas Hotel & Accessories",
+                "ro": "Hervas Hotel & Accessories",
+                "en": "Hervas Hotel & Accessories"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in den geschützten Ausstellungsräumen und lassen Sie den Tag gemütlich ausklingen, während draußen der Regen die Straßen reinigt.",
+                "hu": "Zárja a sétát a védett bemutatótermekben, és fejezze be a napot kellemesen, miközben odakint az eső mossa le az utcákat és frissíti fel a levegőt Konaklıban.",
+                "ro": "Încheiați plimbarea în sălile de prezentare protejate și terminați ziua plăcut, în timp ce afară ploaia spală străzile și împrospătează aerul în Konaklı.",
+                "en": "End your walk in the protected showrooms and finish the day pleasantly while outside the rain washes the streets and freshens the air in Konaklı."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Brunnen weckt die Geister. Mittags genießen wir die milde Sonne bei Süs Kuyu und spazieren dick eingepackt durch den Luna Park. Nachmittags speichern die Mauern des Sharapsa Han die Geschichte der Seidenstraße. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir Hervas in der frühen Dämmerung und genießen die kühle Meeresbrise.",
+            "hu": "A friss téli reggel a kútnál ébreszti fel a lelket. Délben a gyenge napsütést élvezzük a Süs Kuyu-nál, majd rétegesen öltözve sétálunk a Luna Parkban. Délután a Sharapsa Han falai őrzik a Selyemút emlékeit. Mivel a nap 17:00 körül nyugszik, a Hervas épületét már szürkületben érjük el, élvezve a hűvös tengeri szellőt.",
+            "ro": "Dimineața proaspătă de iarnă la fântână trezește spiritul. La prânz ne bucurăm de soarele slab la Süs Kuyu, apoi ne plimbăm bine îmbrăcați prin Luna Park. După-amiaza, zidurile de la Sharapsa Han păstrează amintirile Drumului Mătăsii. Deoarece soarele apune în jur de 17:00, ajungem la Hervas în amurg, savurând briza rece a mării.",
+            "en": "A fresh winter morning at the fountain awakens the spirit. At noon, we enjoy the mild sun at Süs Kuyu, then walk through Luna Park dressed in layers. In the afternoon, the walls of Sharapsa Han hold the memories of the Silk Road. Since the sun sets around 17:00, we reach Hervas in the early twilight, enjoying the cool sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Çeşme",
+                "hu": "Çeşme",
+                "ro": "Çeşme",
+                "en": "Çeşme"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft an diesem historischen Brunnen; die tiefstehende Wintersonne wirft lange Schatten und erzeugt ein fantastisches Fotolicht auf dem Stein.",
+                "hu": "Élvezze a tiszta téli levegőt ennél a történelmi kútnál; az alacsonyan járó téli nap hosszú árnyékokat vet, és fantasztikus fotófényeket varázsol a régi kövekre.",
+                "ro": "Bucurați-vă de aerul curat de iarnă la această fântână istorică; soarele jos de iarnă aruncă umbre lungi și creează o lumină fotografică fantastică pe pietrele vechi.",
+                "en": "Enjoy the clear winter air at this historical fountain; the low winter sun casts long shadows and creates fantastic photographic light on the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Süs Kuyu",
+                "hu": "Süs Kuyu",
+                "ro": "Süs Kuyu",
+                "en": "Süs Kuyu"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang hier hält Sie warm; achten Sie auf den kühlen Wind von den Bergen und tragen Sie eine winddichte Jacke für Ihren Komfort.",
+                "hu": "Egy tempós téli séta ezen a helyen melegen tartja; figyeljen a hegyek felől érkező hűvös szélre, és viseljen szélálló kabátot a kényelme érdekében.",
+                "ro": "O plimbare vioaie de iarnă aici vă va menține cald; atenție la vântul rece care vine dinspre munți și purtați o jachetă rezistentă la vânt pentru confort.",
+                "en": "A brisk winter walk here will keep you warm; watch out for the cool wind coming from the mountains and wear a windproof jacket for your comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter ruhiger; nutzen Sie die kurzen Warteschlangen und bewegen Sie sich viel, um trotz der kühleren Temperaturen aktiv und warm zu bleiben.",
+                "hu": "A park télen sokkal nyugodtabb; használja ki a rövid sorban állást, és mozogjon sokat, hogy a hűvösebb hőmérséklet ellenére is aktív és meleg maradjon a látogatás alatt.",
+                "ro": "Parcul este mult mai liniștit iarna; profitați de cozi scurte și mișcați-vă mult pentru a rămâne activ și cald în timpul vizitei, în ciuda temperaturilor scăzute.",
+                "en": "The park is much quieter in winter; take advantage of the short queues and move around a lot to stay active and warm during your visit despite the cooler temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Sharapsa Han",
+                "hu": "Sharapsa Han",
+                "ro": "Sharapsa Han",
+                "en": "Sharapsa Han"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor den kühlen Böen; erkunden Sie die Geschichte der Karawanserei und genießen Sie die angenehme Stille der Nebensaison.",
+                "hu": "A vastag falak védelmet nyújtanak a hűvös széllökések ellen; fedezze fel a karavánszeráj történelmét, és élvezze az utószezon kellemes és nyugodt csendjét.",
+                "ro": "Zidurile groase oferă protecție împotriva rafalelor reci de vânt; explorați istoria caravanseraiului și bucurați-vă de liniștea plăcută a sezonului secundar.",
+                "en": "The thick walls provide protection from the cool gusts of wind; explore the history of the caravansary and enjoy the pleasant and calm silence of the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Hervas Hotel & Accessories",
+                "hu": "Hervas Hotel & Accessories",
+                "ro": "Hervas Hotel & Accessories",
+                "en": "Hervas Hotel & Accessories"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr dunkel wird, ist dies der ideale Ort, um sich im Inneren aufzuwärmen und den Spaziergang vor dem kalten Abendwind sicher zu beenden.",
+                "hu": "Mivel 17:00-tól sötétedik, ez az ideális hely, hogy bent felmelegedjen, és a sétát még a hideg esti szél megérkezése előtt biztonságosan és kényelmesen befejezze.",
+                "ro": "Deoarece se întunecă de la ora 17:00, acesta este locul ideal pentru a vă încălzi în interior și pentru a termina plimbarea înainte de vântul rece de seară.",
+                "en": "Since it gets dark from 17:00, this is the ideal place to warm up inside and finish your walk safely before the cold evening wind arrives."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpáros kaland a központ közelében lévő bájos történelmi kutaknál kezdődik. A déli tekerés az impozáns Sharapsa Hanhoz vezet. Délután kerekezzen a kulturális amfiteátrum felé, és csodálja meg annak kialakítását. Végül zárja a napot a tengeri szellő és a naplemente élvezetével a gyönyörű homokos tengerparton.",
         "ro": "Aventura pe bicicletă începe la fermecătoarele fântâni istorice din centru. Plimbarea de prânz vă aduce la impunătorul Sharapsa Han. După-amiaza, pedalați spre amfiteatrul cultural pentru a-i aprecia designul. Încheiați ziua bucurându-vă de briza mării și de apusul de soare pe superba plajă de nisip.",
         "en": "Your cycling adventure starts with the charming historical fountains scattered near the center. The midday ride brings you to the imposing Sharapsa Han, a testament to Seljuk history. In the afternoon, pedal your way towards the cultural amphitheater to appreciate its design. Finally, end your day enjoying the breeze at the beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig im Regen bei Çeşme. Mittags radeln wir mit Schutzblechen nach Süs Kuyu und suchen im Sharapsa Han Unterstand. Die Fahrt zum Tiyatro erfordert Konzentration auf nassen Straßen. Zum Abschluss besuchen wir den dramatischen Strand, wo die Wellen unter dem grauen Himmel tosen, bevor wir die wasserfeste Kleidung für den Heimweg festziehen.",
+            "hu": "Óvatosan indulunk az esőben a Çeşme kúttól. Délben sárvédőkkel felszerelve tekerünk a Süs Kuyu felé, majd a Sharapsa Hanban keresünk menedéket. A Tiyatro felé vezető út fokozott figyelmet igényel a csúszós aszfalton. Végül a drámai tengerpartot látogatjuk meg a szürke ég alatt, mielőtt szorosabbra húzzuk az esőkabátot.",
+            "ro": "Pornim cu atenție prin ploaie de la fântâna Çeşme. La prânz pedalăm cu apărători spre Süs Kuyu, apoi căutăm adăpost în Sharapsa Han. Drumul spre Tiyatro necesită concentrare sporită pe asfaltul umed. La final vizităm plaja dramatică sub cerul gri, înainte de a ne strânge bine gecile impermeabile pentru drum.",
+            "en": "We start carefully in the rain from the Çeşme fountain. At noon, we cycle with mudguards toward Süs Kuyu, then seek shelter in Sharapsa Han. The ride to the Tiyatro requires focus on the wet asphalt. Finally, we visit the dramatic beach under the gray sky before tightening our waterproof jackets for the return trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Çeşme",
+                "hu": "Çeşme",
+                "ro": "Çeşme",
+                "en": "Çeşme"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen; die Steinflächen um den Brunnen sind bei Nässe rutschig, also steigen Sie beim Besichtigen lieber kurz ab.",
+                "hu": "Ellenőrizze a fékeket az esőben való indulás előtt; a kút körüli kőfelületek nedvesen csúszósak, ezért a megtekintéshez érdemesebb rövid időre leszállni a kerékpárról.",
+                "ro": "Verificați frânele înainte de a pleca prin ploaie; suprafețele de piatră din jurul fântânii sunt alunecoase când sunt ude, așa că e mai bine să coborâți de pe bicicletă.",
+                "en": "Check your brakes before starting in the rain; the stone surfaces around the fountain are slippery when wet, so it's better to dismount briefly for viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Süs Kuyu",
+                "hu": "Süs Kuyu",
+                "ro": "Süs Kuyu",
+                "en": "Süs Kuyu"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zu Pfützen auf dem Weg zum Brunnen; tragen Sie reflektierende Regenkleidung, um bei schlechter Sicht für Autofahrer besser sichtbar zu bleiben.",
+                "hu": "Tartson távolságot a tócsáktól a kúthoz vezető úton; viseljen fényvisszaverő esőruházatot, hogy rossz látási viszonyok között is jól látható maradjon az autósok számára.",
+                "ro": "Păstrați distanța față de bălți pe drumul spre fântână; purtați îmbrăcăminte de ploaie reflectorizantă pentru a rămâne vizibil pentru șoferi în condiții de vizibilitate redusă.",
+                "en": "Keep your distance from puddles on the way to the well; wear reflective rain gear to stay visible to drivers in poor visibility conditions during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Sharapsa Han",
+                "hu": "Sharapsa Han",
+                "ro": "Sharapsa Han",
+                "en": "Sharapsa Han"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine längere Pause im Trockenen; parken Sie Ihr Fahrrad unter dem Vordach, um den Sattel und die Ausrüstung vor Nässe zu schützen.",
+                "hu": "Használja ezt a megállót egy hosszabb száraz pihenőre; parkolja le a kerékpárt az előtető alatt, hogy megóvja a nyerget és a felszerelést a további elázástól.",
+                "ro": "Folosiți această oprire pentru o pauză uscată mai lungă; parcați bicicleta sub copertină pentru a proteja șaua și echipamentul de umezeala persistentă a ploii.",
+                "en": "Use this stop for a longer dry break; park your bike under the overhang to protect the saddle and gear from getting further soaked by the ongoing rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiyatro",
+                "hu": "Tiyatro",
+                "ro": "Tiyatro",
+                "en": "Tiyatro"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen des Theaters können bei Regen sehr glatt sein; bewegen Sie sich vorsichtig und genießen Sie den Blick auf die antike Stätte im weichen Regenlicht.",
+                "hu": "A színház kőlépcsői esőben nagyon síkosak lehetnek; mozogjon óvatosan, és élvezze az antik helyszín látványát a lágy esőben megcsillanó fényekben és színekben.",
+                "ro": "Treptele de piatră ale teatrului pot fi foarte alunecoase în ploaie; deplasați-vă cu atenție și admirați situl antic în lumina blândă reflectată de ploaie.",
+                "en": "The stone steps of the theater can be very slippery in the rain; move carefully and enjoy the view of the ancient site in the soft light reflected by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaj",
+                "hu": "Plaj",
+                "ro": "Plaj",
+                "en": "Plaj"
+              },
+              "tip_5lang": {
+                "de": "Der Strandbesuch ist kurz, aber erfrischend; meiden Sie die aufgeweichten Sandwege mit dem Rad und bleiben Sie für einen sicheren Stand auf den befestigten Pfaden.",
+                "hu": "A strandlátogatás rövid, de frissítő; kerülje a felázott homokos utakat a kerékpárral, és maradjon a szilárd burkolatú ösvényeken a biztonságos közlekedés érdekében.",
+                "ro": "Vizita la plajă este scurtă, dar revigorantă; evitați potecile de nisip înmuiate cu bicicleta și rămâneți pe drumurile pavate pentru o deplasare sigură și stabilă.",
+                "en": "The beach visit is short but refreshing; avoid soaked sandy paths with your bike and stay on the paved trails for safe and stable movement at the end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Start bei kühler Morgenbrise am Brunnen. Mittags wärmt uns die Fahrt nach Süs Kuyu auf, bevor wir die majestätischen Mauern des Sharapsa Han erreichen. Nachmittags erkunden wir das Tiyatro unter klarem Winterhimmel. Da die Dämmerung gegen 17:00 Uhr einsetzt, genießen wir den Sonnenuntergang am Strand in dicken Jacken, bevor die winterliche Kälte anzieht.",
+            "hu": "Tempós indulás a hűvös reggeli szellőben a kútnál. Délben a tekerés felmelegít minket a Süs Kuyu felé, mielőtt elérjük a Sharapsa Han fenséges falait. Délután a Tiyatro romjait fedezzük fel a tiszta téli égbolt alatt. Mivel 17:00 körül sötétedik, a naplementét a strandon élvezzük vastag kabátban, mielőtt beáll a téli hideg.",
+            "ro": "O pornire vioaie în briza răcoroasă de dimineață la fântână. La prânz, pedalatul ne încălzește spre Süs Kuyu, înainte de a ajunge la zidurile maiestuoase de la Sharapsa Han. După-amiaza explorăm Tiyatro sub cerul senin de iarnă. Deoarece amurgul începe la ora 17:00, savurăm apusul la plajă cu haine groase, înainte ca frigul să se lase.",
+            "en": "A brisk start in the cool morning breeze at the fountain. At noon, the cycling warms us up toward Süs Kuyu before we reach the majestic walls of Sharapsa Han. In the afternoon, we explore the Tiyatro under a clear winter sky. Since twilight begins around 17:00, we enjoy the sunset at the beach in heavy jackets before the winter cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Çeşme",
+                "hu": "Çeşme",
+                "ro": "Çeşme",
+                "en": "Çeşme"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die kühle Abfahrt zum Brunnen; die frische Luft ist belebend, aber der Fahrtwind kann im Winter ohne Schutz recht beißend sein.",
+                "hu": "Viseljen meleg kesztyűt a kúthoz vezető hűvös lejtőn; a friss levegő élénkítő, de a menetszél télen védelem nélkül meglehetősen csípős és kellemetlen lehet.",
+                "ro": "Purtați mănuși calde pentru coborârea răcoroasă spre fântână; aerul curat este revigorant, dar vântul din timpul mersului poate fi destul de tăios iarna fără protecție.",
+                "en": "Wear warm gloves for the cool descent to the fountain; the fresh air is invigorating, but the wind chill while riding can be quite biting in winter without protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Süs Kuyu",
+                "hu": "Süs Kuyu",
+                "ro": "Süs Kuyu",
+                "en": "Süs Kuyu"
+              },
+              "tip_5lang": {
+                "de": "Die milde Wintersonne ist perfekt zum Radfahren; achten Sie jedoch auf schattige Abschnitte auf dem Weg, wo es spürbar kälter sein kann als in der direkten Sonne.",
+                "hu": "A gyenge téli napsütés tökéletes a kerékpározáshoz; ügyeljen azonban az út árnyékos szakaszaira, ahol érezhetően hidegebb lehet, mint a közvetlen napsütésben.",
+                "ro": "Soarele blând de iarnă este perfect pentru ciclism; totuși, fiți atenți la secțiunile umbrite de pe drum, unde poate fi mult mai frig decât în zonele însorite.",
+                "en": "The mild winter sun is perfect for cycling; however, be mindful of shaded sections on the path where it can be noticeably colder than in the direct sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Sharapsa Han",
+                "hu": "Sharapsa Han",
+                "ro": "Sharapsa Han",
+                "en": "Sharapsa Han"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Gehpause, um die Durchblutung zu fördern; die historischen Mauern halten die Kälte draußen und bieten einen ruhigen Ort für eine kleine Rast.",
+                "hu": "Tartson egy rövid gyalogos szünetet a keringés frissítésére; a történelmi falak kint tartják a hideget, és csendes, védett helyet kínálnak egy kis pihenőhöz.",
+                "ro": "Faceți o scurtă pauză de mers pentru a stimula circulația; zidurile istorice țin frigul afară și oferă un loc liniștit și protejat pentru o mică odihnă.",
+                "en": "Take a short walking break to boost circulation; the historical walls keep the cold out and offer a quiet, sheltered spot for a small rest during your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiyatro",
+                "hu": "Tiyatro",
+                "ro": "Tiyatro",
+                "en": "Tiyatro"
+              },
+              "tip_5lang": {
+                "de": "Das antike Theater ist im Winter leer und friedlich; genießen Sie die Aussicht, aber beenden Sie die Besichtigung zügig, da die Kälte im Schatten schnell zunimmt.",
+                "hu": "Az antik színház télen üres és békés; élvezze a kilátást, de fejezze be időben a látogatást, mert az árnyékban a hideg gyorsan fokozódik a délután folyamán.",
+                "ro": "Teatrul antic este gol și liniștit iarna; bucurați-vă de priveliște, dar terminați vizita la timp, deoarece frigul crește rapid în umbră în timpul după-amiezii.",
+                "en": "The ancient theater is empty and peaceful in winter; enjoy the view, but finish your visit in good time as the cold increases quickly in the shade during the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaj",
+                "hu": "Plaj",
+                "ro": "Plaj",
+                "en": "Plaj"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 17:00 Uhr für den Sonnenuntergang; rüsten Sie Ihr Fahrrad mit gutem Licht aus, da die Rückfahrt in der winterlichen Dunkelheit erfolgt.",
+                "hu": "Érjen a strandra 17:00 előtt a naplementére; szerelje fel a kerékpárt jó világítással, mert a visszaút már a téli sötétségben, hűvösebb időben fog történni.",
+                "ro": "Ajungeți la plajă înainte de ora 17:00 pentru apus; echipați bicicleta cu lumini bune, deoarece drumul de întoarcere va fi deja prin întunericul de iarnă.",
+                "en": "Reach the beach before 17:00 for the sunset; equip your bike with good lights as the return trip will be in the winter darkness and cooler temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a kényelmes utazást a történelmi Sharapsa Han vastag kőfalainak megcsodálásával. A délidő kikapcsolódást nyújt a nyüzsgő Luna Parknál és az üdülőhelyen. Délután guruljon le a lenyűgöző szabadtéri színházhoz. Zárja a programot egy pihentető késő délutáni csobbanással a helyi tengerparton.",
         "ro": "Începeți traseul auto admirând zidurile istorice ale caravanseraiului Sharapsa Han. Prânzul face trecerea spre relaxare cu o oprire la vibrantul Luna Park și la resorturile din jur. După-amiaza, conduceți spre impresionantul teatru în aer liber. Încheiați itinerariul cu o baie relaxantă la plaja locală întinsă.",
         "en": "Start your comfortable drive by marveling at the thick stone walls of the historic Sharapsa Han. Midday transitions to leisure with a quick stop at the vibrant Luna Park and the nearby bustling resort grounds. As afternoon arrives, cruise down to the impressive open-air theater and end with a dip at the beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten trocken im Auto beim Sharapsa Han. Mittags fahren wir sicher durch den Regen zum Luna Park und besuchen das Telatiye Resort für eine entspannte Pause. Nachmittags bewundern wir das Tiyatro aus der Nähe des Parkplatzes. Der Tag endet am Strand, wo wir den stürmischen Ozean gemütlich vom beheizten Fahrzeug aus beobachten, während die Scheibenwischer den Takt vorgeben.",
+            "hu": "Szárazon indulunk az autóval a Sharapsa Han-tól. Délben biztonságban hajtunk az esőben a Luna Parkhoz, majd meglátogatjuk a Telatiye Resortot egy pihentető szünetre. Délután a Tiyatro romjait csodáljuk meg a parkoló közeléből. A nap a strandon ér véget, ahol a fűtött autóból figyeljük a viharos tengert, miközben az ablaktörlők ütemesen járnak.",
+            "ro": "Pornim la drum uscați cu mașina de la Sharapsa Han. La prânz conducem în siguranță prin ploaie spre Luna Park și vizităm Telatiye Resort pentru o pauză relaxantă. După-amiaza admirăm ruinele Tiyatro de lângă parcare. Ziua se încheie la plajă, unde urmărim marea furtunoasă din mașina încălzită, în timp ce ștergătoarele bat ritmul.",
+            "en": "We start dry in the car at Sharapsa Han. At noon, we drive safely through the rain to Luna Park and visit the Telatiye Resort for a relaxing break. In the afternoon, we admire the Tiyatro ruins from near the parking lot. The day ends at the beach, watching the stormy sea from the heated car while the windshield wipers set the rhythm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sharapsa Han",
+                "hu": "Sharapsa Han",
+                "ro": "Sharapsa Han",
+                "en": "Sharapsa Han"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang der Karawanserei, um fast trocken in das massive Gebäude zu gelangen und die historische Atmosphäre ohne Regenbelastung zu genießen.",
+                "hu": "Parkoljon közvetlenül a karavánszeráj bejáratánál, így szinte szárazon juthat be a masszív épületbe, és az eső zavarása nélkül élvezheti a történelmi hangulatot.",
+                "ro": "Parcați chiar la intrarea în caravanserai pentru a intra aproape uscat în clădirea masivă și pentru a vă bucura de atmosfera istorică fără disconfortul ploii.",
+                "en": "Park right at the entrance of the caravansary to enter the massive building almost dry and enjoy the historical atmosphere without the disturbance of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort Ihres Wagens für kurze Stopps; beobachten Sie das bunte Treiben und die glänzenden Fahrgeschäfte bei Regen sicher und trocken von Ihrem Sitz aus.",
+                "hu": "Használja ki az autó kényelmét a rövid megállásokhoz; figyelje a színes forgatagot és az esőben csillogó játékokat biztonságban és szárazon a vezetőülésből.",
+                "ro": "Folosiți confortul mașinii pentru opriri scurte; urmăriți agitația colorată și atracțiile strălucitoare în ploaie, în siguranță și uscat, direct din scaunul auto.",
+                "en": "Take advantage of your car's comfort for short stops; watch the colorful hustle and the rides glistening in the rain safely and dry from your driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Telatiye Resort Hotel",
+                "hu": "Telatiye Resort Hotel",
+                "ro": "Telatiye Resort Hotel",
+                "en": "Telatiye Resort Hotel"
+              },
+              "tip_5lang": {
+                "de": "Das Hotel bietet einen perfekten Schutz vor dem Wetter; genießen Sie die luxuriöse Atmosphäre im Inneren und nutzen Sie die hoteleigenen Parkmöglichkeiten im Trockenen.",
+                "hu": "A szálloda tökéletes menedéket nyújt az időjárás elől; élvezze a benti luxus hangulatot, és használja a hotel fedett parkolási lehetőségeit a szárazon maradáshoz.",
+                "ro": "Hotelul oferă un refugiu perfect împotriva vremii; bucurați-vă de atmosfera de lux din interior și folosiți facilitățile de parcare ale hotelului pentru a rămâne uscat.",
+                "en": "The hotel provides a perfect shelter from the weather; enjoy the luxurious atmosphere inside and use the hotel's parking facilities to stay dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiyatro",
+                "hu": "Tiyatro",
+                "ro": "Tiyatro",
+                "en": "Tiyatro"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Fahrbahnen bei der Anfahrt; die antiken Ruinen wirken im Regen besonders imposant, wenn man sie nach einem kurzen Sprint vom Parkplatz erreicht.",
+                "hu": "Ügyeljen a nedves útra az odavezető úton; az antik romok különösen impozánsak az esőben, miután egy rövid sprinttel elérte őket a közeli parkolótól.",
+                "ro": "Atenție la drumul ud în timpul deplasării; ruinele antice sunt deosebit de impunătoare în ploaie, odată ce ați ajuns la ele după un scurt sprint din parcarea apropiată.",
+                "en": "Watch out for wet roads on the drive there; the ancient ruins are particularly imposing in the rain once you reach them after a short sprint from the nearby parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaj",
+                "hu": "Plaj",
+                "ro": "Plaj",
+                "en": "Plaj"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das aufgewühlte Meer direkt vom warmen Auto aus; die Gischt bietet ein spektakuläres Naturschauspiel, ohne dass Sie nass werden müssen.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát közvetlenül a meleg autóból; a tajtékzó hullámok látványos természeti jelenséget kínálnak anélkül, hogy el kellene áznia.",
+                "ro": "Bucurați-vă de vederea mării agitate direct din mașina caldă; valurile înspumate oferă un spectacol natural deosebit fără a fi nevoie să vă udați în ploaie.",
+                "en": "Enjoy the view of the churning sea directly from the warm car; the frothing waves offer a spectacular natural spectacle without you having to get wet in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit eingeschalteter Heizung starten wir beim Sharapsa Han in den Wintertag. Mittags besuchen wir den ruhigen Luna Park und entspannen im Telatiye Resort. Nachmittags erkunden wir das Tiyatro bei klarer, kühler Luft. Gegen 17:00 Uhr erleben wir den Sonnenuntergang am Strand bequem vom Auto aus, bevor die frühe winterliche Dunkelheit die Küste von Konaklı einhüllt.",
+            "hu": "Bekapcsolt fűtéssel indulunk a Sharapsa Han-tól a téli napon. Délben meglátogatjuk a csendes Luna Parkot, majd a Telatiye Resortban pihenünk. Délután a Tiyatro romjait fedezzük fel a friss, hűvös levegőben. 17:00 körül kényelmesen, az autóból nézzük a naplementét a strandon, mielőtt a korai téli sötétség teljesen beborítja Konaklı partjait.",
+            "ro": "Pornim în ziua de iarnă de la Sharapsa Han cu căldura pornită. La prânz vizităm parcul liniștit Luna Park, apoi ne relaxăm la Telatiye Resort. După-amiaza explorăm Tiyatro în aerul proaspăt și răcoros. În jur de ora 17:00 urmărim apusul la plajă confortabil din mașină, înainte ca întunericul timpuriu de iarnă să cuprindă coasta.",
+            "en": "With the heating turned on, we start the winter day at Sharapsa Han. At noon, we visit the quiet Luna Park and then relax at the Telatiye Resort. In the afternoon, we explore the Tiyatro ruins in the fresh, cool air. Around 17:00, we comfortably watch the sunset at the beach from the car before the early winter darkness envelops the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sharapsa Han",
+                "hu": "Sharapsa Han",
+                "ro": "Sharapsa Han",
+                "en": "Sharapsa Han"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingang für einen schnellen Zugang; die massiven Mauern halten die winterliche Kälte gut ab und laden zu einer ruhigen Besichtigung ein.",
+                "hu": "Használja a szélvédett bejáratot a gyors bejutáshoz; a masszív falak jól távol tartják a téli hideget, és nyugodt, csendes történelmi barangolásra csábítanak odabent.",
+                "ro": "Folosiți intrarea ferită de vânt pentru un acces rapid; zidurile masive țin bine frigul de iarnă la distanță și vă invită la o explorare istorică liniștită în interior.",
+                "en": "Use the wind-sheltered entrance for quick access; the massive walls keep the winter cold at bay and invite you to a peaceful and quiet historical exploration inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Wege des Parks im Winter; Parkplätze sind in der Nebensaison reichlich vorhanden, was den Besuch besonders entspannt und stressfrei macht.",
+                "hu": "Élvezze a park üres ösvényeit télen; a parkolóhelyek bőségesek az utószezonban, ami különösen pihentetővé és stresszmentessé teszi a látogatást az autóval érkezőknek.",
+                "ro": "Bucurați-vă de aleile goale ale parcului iarna; locurile de parcare sunt abundente în extrasezon, ceea ce face vizita deosebit de relaxantă și fără stres pentru turiști.",
+                "en": "Enjoy the empty paths of the park in winter; parking spaces are abundant in the off-season, making the visit particularly relaxing and stress-free for those arriving by car."
+              }
+            },
+            {
+              "name": {
+                "de": "Telatiye Resort Hotel",
+                "hu": "Telatiye Resort Hotel",
+                "ro": "Telatiye Resort Hotel",
+                "en": "Telatiye Resort Hotel"
+              },
+              "tip_5lang": {
+                "de": "Profitieren Sie von der beheizten Hotellobby für eine warme Pause; nutzen Sie die ruhige Atmosphäre der Wintersaison für einen entspannten Blick auf die Küstenlandschaft.",
+                "hu": "Használja ki a szálloda fűtött előcsarnokát egy meleg pihenőre; élvezze a téli szezon nyugodt légkörét a tengerparti táj kényelmes, autóval közeli felfedezése során.",
+                "ro": "Profitați de holul încălzit al hotelului pentru o pauză caldă; bucurați-vă de atmosfera liniștită a sezonului de iarnă în timpul explorării relaxate a peisajului de coastă.",
+                "en": "Take advantage of the heated hotel lobby for a warm break; enjoy the quiet atmosphere of the winter season during your relaxed exploration of the coastal landscape nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiyatro",
+                "hu": "Tiyatro",
+                "ro": "Tiyatro",
+                "en": "Tiyatro"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine weite Sicht über die Ruinen; parken Sie so nah wie möglich, um die Besichtigung vor dem kühlen Abendwind zügig abzuschließen.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít a romok felett; parkoljon a lehető legközelebb, hogy a hűvös esti szél megérkezése előtt gyorsan befejezhesse a látogatást.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate mare peste ruine; parcați cât mai aproape posibil pentru a finaliza rapid vizita înainte de sosirea vântului rece de seară.",
+                "en": "The clear winter air provides a distant view over the ruins; park as close as possible to complete your visit quickly before the cool evening wind arrives at the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaj",
+                "hu": "Plaj",
+                "ro": "Plaj",
+                "en": "Plaj"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr vom warmen Auto aus; die winterlichen Farben über dem Meer sind spektakulär und bequem vom Parkplatz aus sichtbar.",
+                "hu": "Nézze meg a naplementét 17:00 körül a meleg autóból; a tenger feletti téli színek látványosak, és kényelmesen, a parkolóból is tökéletesen élvezhető a látvány.",
+                "ro": "Urmăriți apusul în jur de ora 17:00 din mașina caldă; culorile de iarnă de deasupra mării sunt spectaculoase și pot fi savurate confortabil chiar din parcare.",
+                "en": "Watch the sunset around 17:00 from the warm car; the winter colors over the sea are spectacular and can be enjoyed comfortably and perfectly from the parking lot."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot egy kellemes sétával Cavo városában, szívja be a friss tengeri levegőt a központi strandon, majd sétáljon el a tágas Spiaggia di Cavo felé.\nMidday: Ahogy a nap magasabbra hág, induljon a szárazföld felé, hogy felfedezze a fák között megbúvó Sepolcro Tonietti lenyűgöző történelmi mauzóleumát.\nAfternoon: Folytassa útját északra a Spiaggia di Frugoso-hoz, egy gyönyörű kavicsos strandhoz, ahol a kristálytiszta vizek mellett pihenhet és csodálhatja a kilátást.\nEvening: Zárja gyalogtúráját a félreeső Spiaggia del Velesio-n. Ahogy a nap lenyugszik, az öböl vad természeti környezete békés befejezést nyújt a napjának.",
         "ro": "Morning: Începeți ziua cu o plimbare ușoară prin Cavo, respirând aerul proaspăt al mării pe plaja centrală, înainte de a vă îndrepta spre întinsa Spiaggia di Cavo.\nMidday: Pe măsură ce soarele urcă, aventurați-vă spre interior pentru a descoperi Sepolcro Tonietti, o comoară istorică ascunsă printre copaci, ce oferă un refugiu răcoros.\nAfternoon: Continuați călătoria spre nord către Spiaggia di Frugoso, o plajă superbă cu pietriș, unde vă puteți relaxa la apele clare și admira priveliștile.\nEvening: Încheiați turul de plimbare la izolata Spiaggia del Velesio. La apus, natura sălbatică ce înconjoară golful oferă un final pașnic și pitoresc al zilei.",
         "en": "Morning: Start your day with a gentle stroll through Cavo, breathing in the fresh sea air at the central beach before heading to the sweeping Spiaggia di Cavo.\nMidday: As the sun climbs higher, venture inland to discover the Sepolcro Tonietti, a fascinating historical gem hidden among the trees that offers a cool, shaded retreat from the coastal heat.\nAfternoon: Continue your journey north to Spiaggia di Frugoso, a beautiful pebble beach where you can relax by the clear waters and enjoy the scenic views of the distant islands.\nEvening: Conclude your walking tour at the secluded Spiaggia del Velesio. As the sun sets, the wild nature surrounding the cove provides a peaceful and picturesque end to your day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Spaziergang am windigen Ufer bei Cavo. Mittags suchen wir Schutz in den schmalen Gassen des Dorfes. Nachmittags führt der Weg durch den Regen zum imposanten Tonietti-Grabmal. Der Abend klingt gemütlich in der Nähe des Hafens aus, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Reggeli séta a szeles parton, az eső illatával. Délben a falu szűk utcáin keresünk menedéket a zápor elől. Délután az ázott ösvényeken kaptatunk fel a Tonietti-mauzóleumhoz. Az estét a kikötő közelében töltjük, hallgatva a tenger és az eső megnyugtató morajlását.",
+            "ro": "Dimineața plimbare pe țărmul vântos din Cavo. La prânz căutăm adăpost de ploaie pe străduțele înguste. După-amiaza urcăm pe potecile ude spre mausoleul Tonietti. Seara se încheie liniștit lângă port, ascultând sunetul ploii care cade peste marea agitată.",
+            "en": "Morning walk along the windy shore of Cavo. At midday, we seek shelter from the rain in the village alleys. In the afternoon, we hike through the drizzle to the Tonietti tomb. The evening ends cozily near the harbor, listening to the rain and the rhythmic waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavo beach",
+                "hu": "Cavo beach",
+                "ro": "Cavo beach",
+                "en": "Cavo beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von der Mole aus; ein windfester Regenschirm ist hier unverzichtbar gegen die Gischt.",
+                "hu": "Figyeld a viharos tengert a móló védelméből; egy szélálló esernyő elengedhetetlen a felcsapó sós permet ellen.",
+                "ro": "Observați marea agitată de pe dig; o umbrelă rezistentă la vânt este indispensabilă împotriva stropilor de sare.",
+                "en": "Watch the stormy sea from the pier; a windproof umbrella is essential here against the salty spray and gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cavo",
+                "hu": "Spiaggia di Cavo",
+                "ro": "Spiaggia di Cavo",
+                "en": "Spiaggia di Cavo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Uferpromenade; die nassen Kieselsteine leuchten im Regen besonders farbenfroh.",
+                "hu": "Keress menedéket a sétány előtetői alatt; a vizes kavicsok színei ilyenkor ragyognak fel a legélénkebben a parton.",
+                "ro": "Căutați adăpost sub copertinele de pe faleză; pietricelele ude strălucesc în culori vii pe plajă în timpul ploii.",
+                "en": "Find shelter under the promenade eaves; the wet pebbles glow with vibrant colors on the beach during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro Tonietti",
+                "hu": "Sepolcro Tonietti",
+                "ro": "Sepolcro Tonietti",
+                "en": "Sepolcro Tonietti"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann rutschig sein; tragen Sie feste Wanderschuhe und genießen Sie die mystische Stimmung des nebligen Waldes.",
+                "hu": "Az ösvény csúszós lehet; viselj tapadós túrabakancsot és élvezd a ködös erdő misztikus, csendes hangulatát a sírnál.",
+                "ro": "Urcarea poate fi alunecoasă; purtați bocanci de munte și bucurați-vă de atmosfera mistică a pădurii cețoase de aici.",
+                "en": "The climb can be slippery; wear sturdy hiking boots and enjoy the mystical atmosphere of the foggy forest around the tomb."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Frugoso",
+                "hu": "Spiaggia di Frugoso",
+                "ro": "Spiaggia di Frugoso",
+                "en": "Spiaggia di Frugoso"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen bieten kleinen Schutz; nutzen Sie Regenponchos, um die dramatische Aussicht auf Piombino zu bewundern.",
+                "hu": "A sziklák némi védelmet nyújtanak; használj esőponchót, hogy zavartalanul csodálhasd a Piombino felé nyíló drámai kilátást.",
+                "ro": "Formațiunile stâncoase oferă puțin adăpost; folosiți pelerine de ploaie pentru a admira vederea dramatică spre Piombino.",
+                "en": "The rock formations offer small shelter; use rain ponchos to admire the dramatic view towards Piombino despite the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Velesio",
+                "hu": "Spiaggia del Velesio",
+                "ro": "Spiaggia del Velesio",
+                "en": "Spiaggia del Velesio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Stopp für Fotos der einsamen Küste; halten Sie die Kamera unter einer wasserdichten Hülle bereit.",
+                "hu": "Rövid, vizes megálló a magányos partvonal fotózásához; tartsad a fényképezőt vízálló tokban a sós eső ellen.",
+                "ro": "O oprire scurtă și udă pentru fotografii pe coasta solitară; țineți aparatul foto sub o husă impermeabilă.",
+                "en": "A short, wet stop for photos of the lonely coastline; keep your camera protected under a waterproof cover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft am menschenleeren Strand von Cavo am Morgen. Mittags wärmen wir uns bei einem zügigen Marsch entlang der Küste auf. Nachmittags erreichen wir das Monument im goldenen Winterlicht. Der Abend beginnt früh gegen 17:00 Uhr mit einem glühenden Sonnenuntergang über dem Meer.",
+            "hu": "Friss téli reggel Cavo néptelen strandján. Napközben tempós gyaloglással tartjuk magunkat melegen a parton. Délután a lemenő nap arany fényében érjük el a Tonietti-sírt. Az este korán, már 17:00 körül beköszönt egy izzó tengeri naplementével.",
+            "ro": "Aer curat de iarnă pe plaja pustie din Cavo dimineața. La prânz ne încălzim cu un marș rapid de-a lungul coastei. După-amiaza ajungem la monument în lumina aurie de iarnă. Seara începe devreme, în jurul orei 17:00, cu un apus spectaculos.",
+            "en": "Crisp winter air on the deserted beach of Cavo in the morning. At midday, we stay warm with a brisk coastal walk. In the afternoon, we reach the monument in golden winter light. The evening starts early around 5 PM with a glowing sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavo beach",
+                "hu": "Cavo beach",
+                "ro": "Cavo beach",
+                "en": "Cavo beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille des Winters; dicke Wollsocken und eine Thermoskanne mit Tee machen den Aufenthalt perfekt.",
+                "hu": "Élvezd a téli part tökéletes csendjét; vastag gyapjúzokni és egy termosz forró tea teszi teljessé a pihenőt.",
+                "ro": "Bucurați-vă de liniștea absolută a iernii; șosetele groase de lână și un termos cu ceai fierbinte sunt ideale aici.",
+                "en": "Enjoy the absolute silence of the winter beach; thick wool socks and a thermos of hot tea make the stay perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cavo",
+                "hu": "Spiaggia di Cavo",
+                "ro": "Spiaggia di Cavo",
+                "en": "Spiaggia di Cavo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos; die Fernsicht zum Festland ist an kalten Tagen oft am besten.",
+                "hu": "Használd ki a tiszta téli fényeket fotózáshoz; a látótávolság a szárazföld felé ilyenkor a legnyűgözőbb.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii; vizibilitatea spre continent este adesea maximă în zilele reci.",
+                "en": "Take advantage of the clear winter light for photos; visibility towards the mainland is often best on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro Tonietti",
+                "hu": "Sepolcro Tonietti",
+                "ro": "Sepolcro Tonietti",
+                "en": "Sepolcro Tonietti"
+              },
+              "tip_5lang": {
+                "de": "Die entlaubten Bäume geben den Blick auf die Architektur frei; eine winddichte Jacke schützt vor dem kalten Nordwind.",
+                "hu": "A lombkorona nélkül jobban látszik az épület szerkezete; egy szélálló dzseki megvéd a hideg északi széltől.",
+                "ro": "Copacii fără frunze dezvăluie mai bine arhitectura; o jachetă rezistentă la vânt vă protejează de briza rece de nord.",
+                "en": "The leafless trees reveal more of the architecture; a windproof jacket will protect you from the cold northern breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Frugoso",
+                "hu": "Spiaggia di Frugoso",
+                "ro": "Spiaggia di Frugoso",
+                "en": "Spiaggia di Frugoso"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen meditativen Stopp; bewegen Sie sich stetig, um die Körperwärme gegen die frische Meeresbrise zu halten.",
+                "hu": "Tökéletes hely egy meditatív megállóra; maradj mozgásban, hogy megőrizd testhődet a friss tengeri szélben.",
+                "ro": "Ideal pentru o oprire meditativă; mențineți un ritm constant de mers pentru a păstra căldura corporală contra brizei.",
+                "en": "Perfect for a meditative stop; keep moving steadily to maintain body heat against the fresh sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Velesio",
+                "hu": "Spiaggia del Velesio",
+                "ro": "Spiaggia del Velesio",
+                "en": "Spiaggia del Velesio"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang; machen Sie sich spätestens um 16:30 Uhr auf den Rückweg zum Dorf.",
+                "hu": "Csodáld meg a korai naplementét a parton; legkésőbb 16:30-kor indulj vissza a faluba a sötétedés előtt.",
+                "ro": "Admirați apusul devreme pe plajă; porniți înapoi spre sat cel târziu la ora 16:30 pentru a evita întunericul.",
+                "en": "Admire the early sunset on the beach; start heading back to the village by 4:30 PM to avoid the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Pattanjon kerékpárra, érezze a reggeli szellőt a Cavo strandon, majd tekerjen egy kicsit beljebb, hogy felfedezze a Sepolcro Tonietti csodás építészetét.\nMidday: Tekerjen a csendes Spiaggia del Velesio felé egy frissítő pihenőre, élvezze a parti utat, mielőtt megkezdené a kihívást jelentő, de hálás déli emelkedőt.\nAfternoon: Küzdje fel magát a Semaforo di Monte Grosso-hoz. Az erőfeszítést tökéletesen kárpótolja a sziget buja tájára és azúrkék vizeire nyíló panoráma.\nEvening: Guruljon le a délkeleti strandokhoz, álljon meg Fornacelle-nél, végül pedig a csendes Spiaggia del Direttore-nél, hogy nézze a hullámokon megcsillanó fényt.",
         "ro": "Morning: Urcați pe bicicletă, simțiți briza dimineții la plaja Cavo, apoi pedalați ușor spre interior pentru a explora arhitectura magnifică a Sepolcro Tonietti.\nMidday: Mergeți spre liniștita Spiaggia del Velesio pentru o pauză revigorantă, bucurându-vă de drumul de coastă înainte de a începe urcarea provocatoare spre sud.\nAfternoon: Urcați dealurile spre Semaforo di Monte Grosso. Efortul este complet răsplătit de vederile panoramice asupra peisajului luxuriant și apelor azurii.\nEvening: Coborâți spre plajele din sud-est, oprindu-vă la Fornacelle și în final la liniștita Spiaggia del Direttore pentru a privi lumina estompându-se pe valuri.",
         "en": "Morning: Hop on your bike and feel the morning breeze at Cavo beach, then pedal slightly inland to explore the magnificent architecture of the Sepolcro Tonietti.\nMidday: Ride towards the quiet Spiaggia del Velesio for a refreshing break, enjoying the coastal path before beginning the challenging but rewarding ascent south.\nAfternoon: Push up the hills to the Semaforo di Monte Grosso. The effort is completely paid off by the panoramic views of the island's lush landscape and azure waters.\nEvening: Freewheel down to the southeastern beaches, stopping at Fornacelle and finally the tranquil Spiaggia del Direttore to watch the fading light reflect on the waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtiger Start auf nassen Straßen am Hafen. Mittags radeln wir vorsichtig auf befestigten Wegen zum Mausoleum. Nachmittags bieten die Wälder am Monte Grosso etwas Schutz vor dem Wind. Der Abend endet am Hafen, wo wir die Fahrräder sichern und uns im Trockenen aufwärmen.",
+            "hu": "Óvatos indulás a kikötő vizes aszfaltján. Délben a mauzóleum felé tekerünk, figyelve a csúszós kanyarokra. Délután a Monte Grosso erdői nyújtanak némi szélárnyékot a záporban. Az este a kikötőben ér minket, ahol fedett helyen melegedhetünk fel.",
+            "ro": "Pornire prudentă pe asfaltul ud din port. La prânz pedalăm spre mausoleu, atenți la curbele alunecoase. După-amiaza pădurile de pe Monte Grosso oferă puțină protecție contra vântului. Seara ne găsește în port, unde ne încălzim la adăpost.",
+            "en": "A cautious start on wet roads by the harbor. At midday, we cycle towards the mausoleum, watching for slippery turns. In the afternoon, Monte Grosso's forests provide some wind protection. The evening ends back at the port, warming up in the dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavo beach",
+                "hu": "Cavo beach",
+                "ro": "Cavo beach",
+                "en": "Cavo beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die nassen Straßen am Meer erfordern einen längeren Bremsweg.",
+                "hu": "Indulás előtt ellenőrizd a fékeket; a vizes aszfalt és a sós pára miatt hosszabb féktávval kell számolnod.",
+                "ro": "Verificați frânele înainte de plecare; asfaltul ud și aerul sărat necesită o distanță de frânare mai mare.",
+                "en": "Check your brakes before setting off; the wet roads and salty air require a longer braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro Tonietti",
+                "hu": "Sepolcro Tonietti",
+                "ro": "Sepolcro Tonietti",
+                "en": "Sepolcro Tonietti"
+              },
+              "tip_5lang": {
+                "de": "Der Waldweg ist schlammig; fahren Sie langsam und achten Sie auf rutschige Wurzeln und nasses Laub.",
+                "hu": "Az erdei út saras lehet; tekerj lassan, és ügyelj a csúszós gyökerekre és a nedves avarra az emelkedőn.",
+                "ro": "Drumul forestier este noroios; pedalați încet și aveți grijă la rădăcinile alunecoase și frunzele ude.",
+                "en": "The forest path is muddy; cycle slowly and watch out for slippery roots and wet leaves on the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Velesio",
+                "hu": "Spiaggia del Velesio",
+                "ro": "Spiaggia del Velesio",
+                "en": "Spiaggia del Velesio"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für den Ausblick; tragen Sie wasserfeste Überschuhe, um Ihre Füße beim Treten trocken zu halten.",
+                "hu": "Gyors megálló a kilátásért; használj vízálló kamáslit, hogy lábaid szárazon maradjanak tekerés közben.",
+                "ro": "O oprire rapidă pentru panoramă; folosiți protecții impermeabile pentru pantofi pentru a vă menține picioarele uscate.",
+                "en": "A quick stop for the view; wear waterproof overshoes to keep your feet dry while pedaling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo di Monte Grosso",
+                "hu": "Semaforo di Monte Grosso",
+                "ro": "Semaforo di Monte Grosso",
+                "en": "Semaforo di Monte Grosso"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann durch Wolken eingeschränkt sein; benutzen Sie unbedingt Ihr Fahrradlicht für bessere Sichtbarkeit.",
+                "hu": "A látótávolság korlátozott lehet a felhők miatt; mindenképpen használd a kerékpáros lámpákat a láthatóságért.",
+                "ro": "Vizibilitatea poate fi limitată de nori; folosiți obligatoriu luminile de bicicletă pentru a fi vizibili pe drum.",
+                "en": "Visibility may be limited by low clouds; be sure to use your bike lights to stay visible on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Fornacelle",
+                "hu": "Spiaggia delle Fornacelle",
+                "ro": "Spiaggia delle Fornacelle",
+                "en": "Spiaggia delle Fornacelle"
+              },
+              "tip_5lang": {
+                "de": "Rasten Sie kurz unter Bäumen; ein Schutzblech verhindert, dass Regenwasser vom Hinterreifen Ihren Rücken durchnässt.",
+                "hu": "Pihenj meg a fák alatt; a sárvédő elengedhetetlen, hogy a kerék ne verje fel a vizet a hátadra.",
+                "ro": "Odihniți-vă scurt sub copaci; o apărătoare de noroi este esențială pentru a nu vă uda spatele în timpul mersului.",
+                "en": "Rest briefly under the trees; a mudguard is essential to prevent water from the back tire soaking your back."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Direttore",
+                "hu": "Spiaggia del Direttore",
+                "ro": "Spiaggia del Direttore",
+                "en": "Spiaggia del Direttore"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie die Räder an einem stabilen Punkt; wischen Sie den Sattel vor der Weiterfahrt gründlich trocken.",
+                "hu": "Zárd le a bringákat egy biztos ponthoz; indulás előtt alaposan töröld szárazra a nyerget egy ronggyal.",
+                "ro": "Asigurați bicicletele de un punct fix; înainte de plecare, ștergeți bine șaua cu o cârpă uscată.",
+                "en": "Lock your bikes at a secure point; wipe the saddle thoroughly dry with a cloth before riding again."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klarer, kalter Morgenstart am Cavo-Strand. Mittags genießen wir die Sonne bei der Auffahrt zum Monte Grosso. Nachmittags radeln wir zügig entlang der Küste, um die Körperwärme zu halten. Der Abend bricht gegen 17:00 Uhr herein, pünktlich zur Rückkehr ins beleuchtete Dorf.",
+            "hu": "Tiszta, hideg reggeli indulás Cavo strandjáról. Délben a téli napsütésben kapaszkodunk fel a Monte Grosso felé. Délután tempósan tekerünk a parton, hogy ne hűljünk ki a szélben. Az este 17:00 körül köszönt be, épp mire visszaérünk a kivilágított faluba.",
+            "ro": "Pornire matinală rece și senină de pe plaja Cavo. La prânz urcăm spre Monte Grosso sub soarele blând de iarnă. După-amiaza pedalăm rapid pe coastă pentru a ne menține calzi. Seara coboară la 17:00, exact când revenim în satul luminat.",
+            "en": "A clear, cold morning start from Cavo beach. At midday, we climb towards Monte Grosso under the mild winter sun. In the afternoon, we cycle briskly along the coast to stay warm. Evening arrives by 5 PM, just as we return to the lit village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavo beach",
+                "hu": "Cavo beach",
+                "ro": "Cavo beach",
+                "en": "Cavo beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten und Thermohandschuhe; der Fahrtwind am frühen Morgen ist im Winter sehr bissig.",
+                "hu": "Öltözz rétegesen és viselj hőszigetelt kesztyűt; a kora reggeli menetszél télen nagyon metsző tud lenni.",
+                "ro": "Îmbrăcați-vă în straturi și purtați mănuși termice; curentul de aer de dimineață este foarte tăios iarna.",
+                "en": "Dress in layers and wear thermal gloves; the early morning wind chill while cycling can be very biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro Tonietti",
+                "hu": "Sepolcro Tonietti",
+                "ro": "Sepolcro Tonietti",
+                "en": "Sepolcro Tonietti"
+              },
+              "tip_5lang": {
+                "de": "Die Steigung wärmt den Körper auf; nutzen Sie die windgeschützte Lage des Monuments für eine kurze Teepause.",
+                "hu": "Az emelkedő segít bemelegedni; használd ki a mauzóleum szélvédett fekvését egy rövid, forró teaszünetre.",
+                "ro": "Urcarea vă va ajuta să vă încălziți; profitați de locația ferită de vânt a monumentului pentru o pauză de ceai.",
+                "en": "The incline will help you warm up; take advantage of the monument's sheltered location for a quick tea break."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Velesio",
+                "hu": "Spiaggia del Velesio",
+                "ro": "Spiaggia del Velesio",
+                "en": "Spiaggia del Velesio"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos; halten Sie Ihre Muskeln durch Dehnübungen warm, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Rövid megálló fotózáshoz; tartsad melegen az izmaidat nyújtással, mielőtt folytatnád az utat a hidegben.",
+                "ro": "Oprire scurtă pentru fotografii; mențineți-vă mușchii calzi prin stretching înainte de a continua drumul.",
+                "en": "Short stop for photos; keep your muscles warm with some stretching before continuing the ride in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo di Monte Grosso",
+                "hu": "Semaforo di Monte Grosso",
+                "ro": "Semaforo di Monte Grosso",
+                "en": "Semaforo di Monte Grosso"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie für die Abfahrt eine zusätzliche Windjacke an; der Höhenunterschied macht sich bei den Temperaturen bemerkbar.",
+                "hu": "A lejtmenethez vegyél fel még egy réteget; a magasság és a sebesség miatt sokkal hidegebbnek fogod érezni az időt.",
+                "ro": "Puneți o jachetă în plus pentru coborâre; diferența de altitudine și viteza fac temperatura să pară mult mai scăzută.",
+                "en": "Put on an extra windproof layer for the descent; the altitude and speed make it feel much colder than uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Fornacelle",
+                "hu": "Spiaggia delle Fornacelle",
+                "ro": "Spiaggia delle Fornacelle",
+                "en": "Spiaggia delle Fornacelle"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne blendet; tragen Sie eine Sportsonnenbrille, um auf der Straße alles sicher im Blick zu haben.",
+                "hu": "Az alacsonyan járó nap elvakíthat; viselj napszemüveget, hogy biztonságosan lásd az utat az aszfalton.",
+                "ro": "Soarele jos poate fi orbitor; purtați ochelari de soare sport pentru a vedea drumul în siguranță pe asfalt.",
+                "en": "The low winter sun can be blinding; wear sports sunglasses to see the road safely while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Direttore",
+                "hu": "Spiaggia del Direttore",
+                "ro": "Spiaggia del Direttore",
+                "en": "Spiaggia del Direttore"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor der Dämmerung; die Temperaturen sinken nach 16:30 Uhr rapide ab.",
+                "hu": "Fejezd be a túrát szürkület előtt; a hőmérséklet 16:30 után drasztikusan süllyedni kezd a tengerparton.",
+                "ro": "Încheiați turul înainte de amurg; temperaturile scad rapid după ora 16:30 pe malul mării.",
+                "en": "Finish your tour before twilight; temperatures drop drastically after 4:30 PM along the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Morning: Vezessen egyenesen a lenyűgöző Sepolcro Tonietti-hez, sétáljon az árnyékos ösvényeken, majd induljon északra a gyönyörű Spiaggia di Frugoso felé.\nMidday: Autózzon délre a Semaforo di Monte Grosso-hoz. A parkolótól egy rövid séta után lélegzetelállító panoráma tárul elénk Elba látványos partvonaláról.\nAfternoon: Térjen vissza a fő Spiaggia di Cavo-hoz egy délutáni úszásra, élvezve a népszerű partszakasz könnyű megközelíthetőségét és nyüzsgő hangulatát.\nEvening: Folytassa útját a festői parti úton a kisebb, meghittebb öblök, mint Fornacelle és a Spiaggia del Direttore felé, melyek tökéletes helyek a nap zárásához.",
         "ro": "Morning: Conduceți direct la impresionantul Sepolcro Tonietti pentru a evita căldura, plimbându-vă pe trasee, apoi îndreptați-vă spre superba Spiaggia di Frugoso.\nMidday: Coborâți spre sud la Semaforo di Monte Grosso. O scurtă plimbare de la parcare dezvăluie panorame uluitoare care evidențiază coasta spectaculoasă a Elbei.\nAfternoon: Conduceți înapoi la Spiaggia di Cavo pentru o baie de după-amiază, bucurându-vă de accesul ușor și atmosfera vibrantă a acestei populare zone litorale.\nEvening: Continuați pe drumul de coastă spre golfurile mai mici și intime, precum Fornacelle și Spiaggia del Direttore, locuri perfecte pentru a încheia ziua.",
         "en": "Morning: Drive straight to the impressive Sepolcro Tonietti to beat the heat, wandering the shaded trails, then head north to the lovely Spiaggia di Frugoso.\nMidday: Cruise south to the Semaforo di Monte Grosso. A short walk from your parking spot reveals breathtaking panoramas that highlight Elba's spectacular coastline.\nAfternoon: Drive back down to the main Spiaggia di Cavo for an afternoon swim, enjoying the easy access and vibrant atmosphere of this popular seaside stretch.\nEvening: Continue along the scenic coastal road to the smaller, more intimate coves like Fornacelle and Spiaggia del Direttore, perfect spots to end a beautiful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemer Start im trockenen Auto am Tonietti-Grabmal. Mittags genießen wir die Panoramafahrt entlang der Küstenstraße im Regen. Nachmittags beobachten wir das graue Meer sicher vom Wagen aus am Monte Grosso. Der Abend endet am Hafen, wo wir direkt vor einer gemütlichen Bar parken.",
+            "hu": "Kényelmes, száraz indulás autóval a Tonietti-sírhoz. Délben a parti úton autózunk, élvezve az esőben fürdő panorámát. Délután a Monte Grossóról figyeljük a szürke tengert az utastér biztonságából. Az este a kikötőben zárul, ahol közvetlenül egy hangulatos bár mellett parkolunk le.",
+            "ro": "Pornire confortabilă și uscată cu mașina spre mausoleul Tonietti. La prânz conducem pe drumul de coastă, admirând panorama prin ploaie. După-amiaza observăm marea gri de pe Monte Grosso din siguranța mașinii. Seara se încheie în port, parcând chiar lângă un bar primitor.",
+            "en": "A comfortable, dry start by car at the Tonietti tomb. At midday, we cruise along the coastal road, enjoying the rainy panorama. In the afternoon, we watch the grey sea from Monte Grosso from the safety of the car. The evening ends at the port, parking right by a cozy bar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sepolcro Tonietti",
+                "hu": "Sepolcro Tonietti",
+                "ro": "Sepolcro Tonietti",
+                "en": "Sepolcro Tonietti"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Wegrand; die unbefestigten Abschnitte können durch den Regen aufgeweicht und rutschig sein.",
+                "hu": "Parkolj óvatosan az út szélén; a burkolatlan szakaszok az esőtől fellazulhatnak és nagyon csúszóssá válhatnak.",
+                "ro": "Parcați cu atenție pe marginea drumului; porțiunile neasfaltate pot deveni moi și alunecoase din cauza ploii.",
+                "en": "Park carefully on the roadside; unpaved sections can become soft and very slippery due to the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Frugoso",
+                "hu": "Spiaggia di Frugoso",
+                "ro": "Spiaggia di Frugoso",
+                "en": "Spiaggia di Frugoso"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis; springen Sie für ein paar Fotos raus und wärmen Sie sich danach schnell wieder auf.",
+                "hu": "Használd az autót bázisnak; csak a fotók idejére ugorj ki, majd melegedj vissza gyorsan a fűtött utastérben.",
+                "ro": "Folosiți mașina ca bază; ieșiți doar pentru câteva fotografii, apoi încălziți-vă rapid în interiorul vehiculului.",
+                "en": "Use the car as your base; hop out just for photos and then warm up quickly in the heated cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo di Monte Grosso",
+                "hu": "Semaforo di Monte Grosso",
+                "ro": "Semaforo di Monte Grosso",
+                "en": "Semaforo di Monte Grosso"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße erfordert volle Konzentration; achten Sie bei Regen besonders auf herabfallende Steine oder Äste.",
+                "hu": "A szűk út teljes koncentrációt igényel; esőben fokozottan ügyelj az útra mosott kövekre vagy letört ágakra.",
+                "ro": "Drumul îngust necesită concentrare maximă; pe ploaie, fiți atenți la pietrele sau crengile căzute pe carosabil.",
+                "en": "The narrow road requires full concentration; in the rain, watch out for stones or branches washed onto the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cavo",
+                "hu": "Spiaggia di Cavo",
+                "ro": "Spiaggia di Cavo",
+                "en": "Spiaggia di Cavo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie die Klimaanlage auf Entfeuchten; so verhindern Sie das Beschlagen der Scheiben bei feuchtem Wetter.",
+                "hu": "Állítsd a klímát páramentesítő módba; így elkerülheted a szélvédő bepárásodását a nedves, hűvös időben.",
+                "ro": "Setați climatizarea pe modul dezaburire; astfel evitați aburirea geamurilor în timpul vremii umede și reci.",
+                "en": "Set your AC to demist mode; this prevents the windshield from fogging up during the wet and cool weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Fornacelle",
+                "hu": "Spiaggia delle Fornacelle",
+                "ro": "Spiaggia delle Fornacelle",
+                "en": "Spiaggia delle Fornacelle"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine Kaffeepause im Auto; genießen Sie den Blick auf die Bucht durch die regennassen Fenster.",
+                "hu": "Kiváló hely egy kávészünethez az autóban; élvezd az öböl látványát az eső áztatta ablakokon keresztül.",
+                "ro": "Un loc excelent pentru o pauză de cafea în mașină; admirați golful prin geamurile udate de ploaie.",
+                "en": "A great spot for a coffee break in the car; enjoy the view of the bay through the rain-streaked windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Direttore",
+                "hu": "Spiaggia del Direttore",
+                "ro": "Spiaggia del Direttore",
+                "en": "Spiaggia del Direttore"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze am Strand können matschig sein; prüfen Sie den Untergrund, bevor Sie mit dem Wagen darauf fahren.",
+                "hu": "A strand menti parkolók sarasak lehetnek; ellenőrizd a talajt, mielőtt mélyebben behajtanál az autóval.",
+                "ro": "Parcările de lângă plajă pot fi noroioase; verificați terenul înainte de a intra cu mașina mai adânc.",
+                "en": "Beach parking lots can be muddy; check the ground firmness before driving too far into the unpaved areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sonniger Wintermorgen am Mausoleum, gut erreichbar mit dem Auto. Mittags führt die Panoramafahrt entlang der glitzernden Küste. Nachmittags genießen wir die weite Fernsicht vom Monte Grosso ohne die Sommerhitze. Der Abend endet mit einem frühen Sonnenuntergang gegen 17:00 Uhr am Hafen.",
+            "hu": "Napsütéses téli reggel a mauzóleumnál, autóval kényelmesen megközelítve. Délben a csillogó part mentén autózunk. Délután a Monte Grossóról csodáljuk a távoli panorámát a nyári hőség nélkül. Az este korán, 17:00 körül köszönt be a kikötőben.",
+            "ro": "Dimineață însorită de iarnă la mausoleu, accesibilă ușor cu mașina. La prânz conducem de-a lungul coastei sclipitoare. După-amiaza admirăm panorama de pe Monte Grosso fără arșița verii. Seara coboară devreme, în jurul orei 17:00, în port.",
+            "en": "A sunny winter morning at the mausoleum, easily reached by car. At midday, we cruise along the sparkling coastline. In the afternoon, we admire the distant views from Monte Grosso without the summer heat. The evening arrives early by 5 PM at the port."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sepolcro Tonietti",
+                "hu": "Sepolcro Tonietti",
+                "ro": "Sepolcro Tonietti",
+                "en": "Sepolcro Tonietti"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Tour; die kalten Temperaturen können den Druck in den Reifen leicht senken.",
+                "hu": "Indulás előtt ellenőrizd a guminyomást; a hideg téli levegő miatt a nyomás kissé lecsökkenhet az abroncsokban.",
+                "ro": "Verificați presiunea în anvelope înainte de drum; temperaturile scăzute pot reduce presiunea din pneuri.",
+                "en": "Check your tire pressure before the trip; cold winter temperatures can cause the pressure to drop slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Frugoso",
+                "hu": "Spiaggia di Frugoso",
+                "ro": "Spiaggia di Frugoso",
+                "en": "Spiaggia di Frugoso"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden; genießen Sie den Luxus, direkt am Meer stehen zu können.",
+                "hu": "Télen bőségesen találsz parkolóhelyet; élvezd a luxust, hogy közvetlenül a tengerpart mellett állhatsz meg.",
+                "ro": "Locurile de parcare sunt abundente iarna; bucurați-vă de luxul de a opri chiar lângă malul mării.",
+                "en": "Parking spots are abundant in winter; enjoy the luxury of being able to park right next to the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo di Monte Grosso",
+                "hu": "Semaforo di Monte Grosso",
+                "ro": "Semaforo di Monte Grosso",
+                "en": "Semaforo di Monte Grosso"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist perfekt für Landschaftsaufnahmen; halten Sie an den offiziellen Haltebunkten für Fotos an.",
+                "hu": "A délutáni fények tökéletesek a tájfotózáshoz; állj meg a kijelölt kilátópontokon a panoráma kedvéért.",
+                "ro": "Lumina de după-amiază este perfectă pentru fotografii; opriți în punctele de belvedere pentru cadre spectaculoase.",
+                "en": "The afternoon light is perfect for landscape photography; stop at the designated viewpoints for great shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cavo",
+                "hu": "Spiaggia di Cavo",
+                "ro": "Spiaggia di Cavo",
+                "en": "Spiaggia di Cavo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Strand belebt den Geist; lassen Sie die Sitzheizung für die Rückkehr ins Auto laufen.",
+                "hu": "Egy rövid séta a parton felfrissít; hagyd bekapcsolva az ülésfűtést, hogy kellemes meleg várjon vissza az autóban.",
+                "ro": "O scurtă plimbare pe plajă vă va revigora; lăsați încălzirea în scaune pornită pentru când reveniți în mașină.",
+                "en": "A short walk on the beach is refreshing; keep the seat heating on for a warm welcome back into the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia delle Fornacelle",
+                "hu": "Spiaggia delle Fornacelle",
+                "ro": "Spiaggia delle Fornacelle",
+                "en": "Spiaggia delle Fornacelle"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet hier im Winter recht früh hinter den Bergen; planen Sie Ihren Aufenthalt bis 16:00 Uhr.",
+                "hu": "A nap itt télen korán eltűnik a hegyek mögött; tervezd úgy a látogatást, hogy 16:00-ig végezz a nézelődéssel.",
+                "ro": "Soarele dispare devreme după munți aici iarna; planificați-vă vizita astfel încât să terminați până la ora 16:00.",
+                "en": "The sun disappears behind the mountains early here in winter; plan to finish your visit by 4:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Direttore",
+                "hu": "Spiaggia del Direttore",
+                "ro": "Spiaggia del Direttore",
+                "en": "Spiaggia del Direttore"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom Fahrersitz aus; die Ruhe der Nebensaison ist an diesem Ort besonders spürbar.",
+                "hu": "Élvezd a naplementét a vezetőülésből; a főszezonon kívüli csend ezen a helyen a legérezhetőbb.",
+                "ro": "Admirați apusul de pe scaunul șoferului; liniștea din afara sezonului este cea mai vizibilă în acest loc.",
+                "en": "Enjoy the sunset from the driver's seat; the peace of the off-season is most palpable at this location."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a Szent Paraszkevi templom csendes varázsának felfedezésével indul, majd a kisvonattal utazunk. A dél kéri, hogy a híres Golden Beach napsütésében és türkizkék vizében fürdőzzön. A délután egy frissítő megállót kínál a helyi falatokért az Anapsukterióban. Az estét a Khruse Ammoudia látványos tengerparti naplementéje zárja.",
         "ro": "Dimineața începe explorând farmecul Bisericii Sfânta Parascheva, înainte de o plimbare cu trenulețul turistic. La amiază, plaja Golden Beach vă invită la soare și înot în apele turcoaz. După-amiaza oferă o oprire revigorantă pentru gustări locale la Anapsukterio. Seara se încheie la Khruse Ammoudia cu un apus de soare spectaculos pe coastă.",
         "en": "Morning begins by exploring the quiet charm of Saint Paraskevi Church before taking a ride on the vibrant tourist train. Midday invites you to the famous Golden Beach to soak up the sun and swim in the shallow turquoise waters. Afternoon offers a refreshing stop for local seaside snacks at Anapsukterio. The evening wraps up beautifully at Khruse Ammoudia with a spectacular coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt beschaulich in der Kirche, während der Regen gegen die alten Mauern trommelt. Mittags bietet der Touristenzug ein trockenes Refugium, um die graue Küstenlinie zu bewundern. Am Nachmittag ist der Strandspaziergang besonders stimmungsvoll, da der nasse Sand fest unter den Füßen liegt. Der Abend hüllt das Dorf in ein feuchtes Licht, wobei die Straßenlaternen in den Pfützen glänzen.",
+            "hu": "A reggel a templom védelmében indul, miközben az eső a régi falakon kopog. Délben a kisvonat fedett kocsijai nyújtanak menedéket a tengerparti nézelődéshez. Délután a vizes homok kemény és jól járható, a tenger morajlása pedig felerősödik a szélben. Az este párás és csendes, a falusi fények megcsillannak a tükröződő aszfalton, miközben a sós levegő átjárja a ruhánkat.",
+            "ro": "Dimineața începe liniștit în biserică, în timp ce ploaia bate în zidurile vechi. La prânz, trenulețul oferă un refugiu uscat pentru a admira coasta cenușie. După-amiaza, plimbarea pe plajă este plină de atmosferă, nisipul umed fiind tare sub picioare. Seara învăluie satul într-o lumină umedă, felinarele reflectându-se în bălți, creând un peisaj melancolic și autentic.",
+            "en": "The morning starts peacefully inside the church as rain taps against the ancient stones. At noon, the tourist train provides a dry shelter to witness the moody coastline. In the afternoon, the beach walk is atmospheric, with the wet sand firm underfoot and the sea roaring louder. The evening wraps the village in a misty glow, as streetlights shimmer in the puddles on the quiet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Paraskevi",
+                "hu": "Szent Paraszkevi templom",
+                "ro": "Biserica Sfânta Parascheva",
+                "en": "Saint Paraskevi Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für die Innenbesichtigung der Ikonen; achten Sie auf den rutschigen Marmor am Kircheneingang.",
+                "hu": "Használja ki az esőszünetet az ikonok megtekintésére; vigyázzon a templom bejáratánál lévő csúszós márványlépcsőkre.",
+                "ro": "Profită de pauza de ploaie pentru a vedea interiorul cu icoane; atenție la marmura alunecoasă de la intrarea în biserică.",
+                "en": "Use the rain break to admire the interior icons; be careful of the slippery marble steps at the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Touristenzug nach Skala Potamia",
+                "hu": "Kisvonat Skala Potamia felé",
+                "ro": "Trenuleț turistic spre Skala Potamia",
+                "en": "Great Fun Train way to sk.Potamia"
+              },
+              "tip_5lang": {
+                "de": "Der überdachte Zug hält Sie trocken, während Sie die Aussicht genießen; ziehen Sie eine windfeste Jacke gegen die Zugluft an.",
+                "hu": "A fedett vonat szárazon tartja az út során; vegyen fel szélálló dzsekit, mert a nyitott oldalakon át fújhat a szél.",
+                "ro": "Trenul acoperit vă menține uscat în timp ce admirați peisajul; purtați o jachetă rezistentă la vânt pentru curentul de aer.",
+                "en": "The covered train keeps you dry while enjoying the views; wear a windproof jacket as the sides are open to the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Beach",
+                "hu": "Golden Beach",
+                "ro": "Golden Beach",
+                "en": "Golden Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue See unter einem der festen Sonnenschirme; imprägnierte Schuhe sind für den feuchten Sand hier unerlässlich.",
+                "hu": "Élje át a haragos tenger látványát egy fix ernyő alatt; az átázott homok miatt az impregnált lábbeli itt elengedhetetlen.",
+                "ro": "Experimentați marea agitată sub una dintre umbrelele fixe; încălțămintea impermeabilă este esențială pentru nisipul umed.",
+                "en": "Experience the rough sea from under a fixed umbrella; waterproof shoes are essential for the soaked sand here."
+              }
+            },
+            {
+              "name": {
+                "de": "Anapsukterio",
+                "hu": "Anapsukterio",
+                "ro": "Anapsukterio",
+                "en": "Anapsukterio"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach und beobachten Sie das Wetter; ein heißer Tee hilft gegen die klamme Meeresbrise.",
+                "hu": "Keressen menedéket az előtető alatt és figyelje az időjárást; egy forró tea sokat segít a nyirkos tengeri szél ellen.",
+                "ro": "Căutați adăpost sub copertină și observați schimbarea vremii; un ceai fierbinte ajută împotriva brizei umede a mării.",
+                "en": "Seek shelter under the awning and watch the weather change; a hot tea helps against the damp and chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Khruse Ammoudia",
+                "hu": "Khruse Ammoudia",
+                "ro": "Khruse Ammoudia",
+                "en": "Khruse Ammoudia"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem goldenen Sand eine dunkle Farbe; nutzen Sie die befestigten Wege am Rand, um nicht im Schlamm zu versinken.",
+                "hu": "Az eső sötétre festi az aranyhomokot; használja a szegélyezett utakat, hogy elkerülje a mély, vizes részeken való elakadást.",
+                "ro": "Ploaia colorează nisipul auriu în nuanțe închise; folosiți potecile pavate de pe margine pentru a nu vă afunda în noroi.",
+                "en": "The rain turns the golden sand deep and dark; stay on the paved edges to avoid getting stuck in the soaked sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen lässt die weiße Kirche gegen den blauen Himmel leuchten. Mittags wärmt die tiefstehende Sonne den leeren Strand, der nun eine unglaubliche Ruhe ausstrahlt. Am frühen Nachmittag verfärben sich die Berge in sanfte Töne, bevor das Licht gegen 17:00 Uhr schwindet. Der Abend ist frostig, aber die klare Luft macht den Rückweg unter dem Sternenhimmel zu einem Erlebnis.",
+            "hu": "A hűvös téli reggelen a fehér templom élesen ragyog a kék égbolt előtt. Délben az alacsonyan járó nap halványan melengeti az üres partot, amely ilyenkor végtelen nyugalmat áraszt. Kora délután a hegyek lágy színeket öltenek, mielőtt 17:00 körül hirtelen leszáll az éj. Az este fagyos, de a tiszta levegő és a csillagos ég kárpótol a hideg sétáért.",
+            "ro": "O dimineață răcoroasă de iarnă face ca biserica albă să strălucească pe cerul albastru. La prânz, soarele blând încălzește plaja goală, care emană o liniște incredibilă. După-amiaza devreme, munții capătă nuanțe calde, înainte ca lumina să dispară în jurul orei 17:00. Seara este geroasă, dar aerul curat face ca drumul de întoarcere sub stele să fie o experiență deosebită.",
+            "en": "A crisp winter morning makes the white church stand out sharply against the blue sky. At noon, the low sun faintly warms the empty beach, offering a rare sense of total peace. In the early afternoon, the mountains take on soft hues before the light fades quickly around 5 PM. The evening is chilly, but the clear air makes the walk back under the stars truly magical."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Paraskevi",
+                "hu": "Szent Paraszkevi templom",
+                "ro": "Biserica Sfânta Parascheva",
+                "en": "Saint Paraskevi Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille ohne die Sommermassen; tragen Sie warme Wollsocken, da die Steinböden im Winter sehr kalt ausstrahlen.",
+                "hu": "Élvezze a csendet a nyári tömeg nélkül; viseljen meleg gyapjúzoknit, mert a kőpadló télen nagyon ontja a hideget.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de vară; purtați șosete groase, deoarece podeaua de piatră este foarte rece iarna.",
+                "en": "Enjoy the silence without the summer crowds; wear warm wool socks as the stone floors are very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Touristenzug nach Skala Potamia",
+                "hu": "Kisvonat Skala Potamia felé",
+                "ro": "Trenuleț turistic spre Skala Potamia",
+                "en": "Great Fun Train way to sk.Potamia"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winterfahrpläne vorab; eine Decke für die Beine macht die Fahrt durch die kühle Meeresluft deutlich angenehmer.",
+                "hu": "Ellenőrizze előre a téli menetrendet; egy kis takaró a lábakra sokkal kényelmesebbé teszi az utat a hűvös tengeri levegőn.",
+                "ro": "Verificați orarul de iarnă în avans; o pătură pentru picioare face călătoria prin aerul rece mult mai confortabilă.",
+                "en": "Check the winter schedules in advance; a small blanket for your legs makes the ride through the cold air much better."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Beach",
+                "hu": "Golden Beach",
+                "ro": "Golden Beach",
+                "en": "Golden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand gehört Ihnen fast allein; nutzen Sie die Mittagssonne für Vitamin D, aber schützen Sie Ihre Ohren vor dem kalten Ostwind.",
+                "hu": "A strand szinte csak az Öné; használja ki a déli napfényt, de védje a fülét a metsző, hideg keleti szél ellen.",
+                "ro": "Plaja este aproape doar a voastră; profitați de soarele de la prânz, dar protejați-vă urechile de vântul rece din est.",
+                "en": "The beach is almost entirely yours; soak up the midday sun, but keep your ears protected from the biting east wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Anapsukterio",
+                "hu": "Anapsukterio",
+                "ro": "Anapsukterio",
+                "en": "Anapsukterio"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Atmosphäre ist ideal für Fotos; achten Sie darauf, dass Ihre Kamera-Akkus bei der Kälte schneller leer werden.",
+                "hu": "Az elhagyatott környezet ideális fotózáshoz; figyeljen rá, hogy a fényképezőgép akkumulátora hamarabb lemerül a hidegben.",
+                "ro": "Atmosfera părăsită este ideală pentru fotografii; rețineți că bateriile aparatului foto se descarcă mai repede la frig.",
+                "en": "The deserted atmosphere is perfect for photography; keep in mind that camera batteries drain much faster in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Khruse Ammoudia",
+                "hu": "Khruse Ammoudia",
+                "ro": "Khruse Ammoudia",
+                "en": "Khruse Ammoudia"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Ihren Spaziergang vor 16:30 Uhr fertig; nach Sonnenuntergang sinken die Temperaturen am Wasser schlagartig ab.",
+                "hu": "Fejezze be a sétát 16:30-ig; a naplemente után a hőmérséklet a vízparton pillanatok alatt fagypont közelébe süllyedhet.",
+                "ro": "Terminați plimbarea înainte de ora 16:30; după apusul soarelui, temperaturile de pe malul apei scad brusc.",
+                "en": "Finish your walk by 4:30 PM; once the sun goes down, temperatures by the water drop very quickly to freezing levels."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros napot a Khruse Ammoudia reggeli fényeiben, majd tekerjen a Szent Paraszkevi templomhoz. A dél tökéletes a pihenésre a Golden Beach központi részén. Délután tekerjen dél felé a Khruse Akte csendesebb partjaihoz, hogy elkerülje a tömeget. Ahogy leszáll az este, Agios Ioannis eldugott öble csendes természetes menedéket nyújt.",
         "ro": "Începeți ziua de ciclism cu lumina dimineții la Khruse Ammoudia, apoi pedalați spre Biserica Sfânta Parascheva. Amiaza este perfectă pentru a vă odihni la Golden Beach. După-amiaza, mergeți spre sud către țărmurile mai liniștite din Khruse Akte pentru a scăpa de aglomerație. Seara, golful izolat Agios Ioannis oferă o retragere naturală plină de pace.",
         "en": "Start your cycling day with the morning glow at Khruse Ammoudia, then pedal to admire the heritage of Saint Paraskevi Church. Midday is perfect for resting and swimming at the central stretch of Golden Beach. In the afternoon, cycle south towards the quieter shores of Khruse Akte to escape the crowds. As evening falls, the secluded bay of Agios Ioannis provides a serene natural retreat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start erfordert volle Konzentration auf den glatten Wegen zum Strand. Mittags radeln wir vorsichtig an der Küste entlang, während der Spritzschutz Schwerstarbeit leistet. Am Nachmittag suchen wir öfter Unterstände auf, um den heftigsten Schauern zu entgehen. Der Abend endet mit einer schnellen Fahrt zurück, wobei das Licht der Fahrräder auf dem nassen Asphalt tanzt.",
+            "hu": "A vizes kezdés teljes koncentrációt igényel a csúszós parti utakon. Délben óvatosan pedálozunk a parton, miközben a sárvédők próbálják felfogni a vizet. Délután gyakrabban állunk meg fedett helyeken, hogy bevárjuk a nagyobb záporok végét. Az este egy gyors visszatekeréssel zárul, miközben a kerékpár lámpája vibrálva csillan meg a nedves aszfalton.",
+            "ro": "Un început umed necesită concentrare maximă pe drumurile alunecoase de coastă. La prânz pedalăm cu atenție, în timp ce aripile bicicletei încearcă să oprească stropii. După-amiaza ne adăpostim mai des pentru a evita aversa cea mai puternică. Seara se încheie cu o cursă rapidă înapoi, lumina bicicletei dansând pe asfaltul ud.",
+            "en": "A wet start demands full focus on the slippery coastal paths towards the beach. At noon, we cycle carefully along the shore while the mudguards do their best to keep us dry. In the afternoon, we take frequent breaks under shelters to wait out the heavy showers. The evening ends with a quick ride back, with the bike lights dancing on the dark, reflective asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khruse Ammoudia",
+                "hu": "Khruse Ammoudia",
+                "ro": "Khruse Ammoudia",
+                "en": "Khruse Ammoudia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad auf festem Grund; der nasse Sand ist tückisch und kann die Mechanik Ihres Fahrrads verschmutzen.",
+                "hu": "Parkolja a kerékpárt szilárd talajon; a vizes homok alattomos, és könnyen beszennyezheti a bicikli láncát és váltóját.",
+                "ro": "Parcați bicicleta pe teren solid; nisipul umed este înșelător și poate murdări mecanismele bicicletei.",
+                "en": "Park your bike on solid ground; the wet sand is treacherous and can easily gunk up your bike's chain and gears."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint Paraskevi",
+                "hu": "Szent Paraszkevi templom",
+                "ro": "Biserica Sfânta Parascheva",
+                "en": "Saint Paraskevi Church"
+              },
+              "tip_5lang": {
+                "de": "Die Rampe zur Kirche kann bei Nässe sehr glatt sein; steigen Sie lieber ab und schieben Sie das Rad das letzte Stück.",
+                "hu": "A templomhoz vezető rámpa vizesen nagyon csúszós lehet; inkább szálljon le, és tolja a kerékpárt az utolsó szakaszon.",
+                "ro": "Rampa către biserică poate fi foarte alunecoasă când este udă; mai bine coborâți și împingeți bicicleta pe ultima porțiune.",
+                "en": "The ramp to the church can be very slick when wet; it's safer to dismount and push your bike for the final few meters."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Beach",
+                "hu": "Golden Beach",
+                "ro": "Golden Beach",
+                "en": "Golden Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandpromenade für besseren Halt; vermeiden Sie plötzliches Bremsen auf den nassen Holzstegen zum Ufer.",
+                "hu": "Használja a tengerparti sétányt a jobb tapadásért; kerülje a hirtelen fékezést a partra vezető vizes fapallókon.",
+                "ro": "Folosiți faleza pentru o aderență mai bună; evitați frânarea bruscă pe podețele de lemn umede care duc spre țărm.",
+                "en": "Stick to the promenade for better grip; avoid sudden braking on the wet wooden walkways leading to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Khruse Akte",
+                "hu": "Khruse Akte",
+                "ro": "Khruse Akte",
+                "en": "Khruse Akte"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann durch den Regen eingeschränkt sein; tragen Sie eine klare Schutzbrille, um Ihre Augen vor Spritzwasser zu schützen.",
+                "hu": "Az eső miatt a látótávolság csökkenhet; viseljen víztiszta szemüveget, hogy megvédje szemét a felverődő sártól és víztől.",
+                "ro": "Vizibilitatea poate fi redusă din cauza ploii; purtați ochelari de protecție transparenți pentru a vă feri ochii de stropi.",
+                "en": "Visibility may drop due to the rain; wear clear cycling glasses to protect your eyes from mud and water spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Ioannis",
+                "hu": "Agios Ioannis",
+                "ro": "Agios Ioannis",
+                "en": "Agios Ioannis"
+              },
+              "tip_5lang": {
+                "de": "Am Zielpunkt ist der Boden oft lehmig; säubern Sie die Bremsflanken Ihres Rades, bevor Sie die Rückfahrt antreten.",
+                "hu": "A célpontnál a talaj gyakran agyagos; tisztítsa meg a kerékpár fékfelületeit, mielőtt elindulna a visszaútra az esőben.",
+                "ro": "La destinație solul este adesea lutos; curățați jantele de frână ale bicicletei înainte de a porni pe drumul de întoarcere.",
+                "en": "The ground at the destination is often clayey; wipe your bike's brake rims before starting your return journey in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft brennt auf den Wangen, während wir durch die schlafende Siedlung rollen. Mittags ist das Licht am Strand perfekt für eine Pause, solange man in Bewegung bleibt, um nicht auszukühlen. Am Nachmittag genießen wir den weiten Blick auf das tiefblaue Meer bei kristallklarer Sicht. Der Abend kommt schnell, und die Kälte zieht sofort in die Glieder, sobald die Sonne untergeht.",
+            "hu": "A hideg reggeli levegő csípi az arcunkat, miközben áttekerünk az alvó településen. Délben a parti fények tökéletesek egy rövid pihenőhöz, amíg mozgásban maradunk, hogy ne hűljünk ki. Délután a kristálytiszta látótávolság mellett csodáljuk a sötétkék tengert. Az este hamar eljön, és amint a nap eltűnik, a hideg azonnal átjárja minden tagunkat.",
+            "ro": "Aerul rece de dimineață ciupește obrajii în timp ce pedalăm prin așezarea adormită. La prânz, lumina de pe plajă este perfectă pentru o pauză, atât timp cât rămâneți în mișcare. După-amiaza ne bucurăm de vederea largă asupra mării albastre în condiții de vizibilitate maximă. Seara vine repede, iar frigul pătrunde imediat în oase odată cu apusul soarelui.",
+            "en": "The cold morning air stings our cheeks as we cycle through the sleeping village. At noon, the beach light is perfect for a short break, as long as we keep moving to stay warm. In the afternoon, we enjoy wide views of the deep blue sea under crystal-clear skies. Evening arrives quickly, and the chill sets in the moment the sun dips below the horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khruse Ammoudia",
+                "hu": "Khruse Ammoudia",
+                "ro": "Khruse Ammoudia",
+                "en": "Khruse Ammoudia"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; der Fahrtwind am Strand kann Ihre Finger in wenigen Minuten taub werden lassen.",
+                "hu": "Viseljen szélálló kesztyűt; a parti menetszél perceken belül teljesen elzsibbaszthatja az ujjait a kormányon.",
+                "ro": "Purtați mănuși rezistente la vânt; briza mării vă poate amorți degetele pe ghidon în doar câteva minute.",
+                "en": "Wear windproof gloves; the coastal headwind can numb your fingers on the handlebars within just a few minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint Paraskevi",
+                "hu": "Szent Paraszkevi templom",
+                "ro": "Biserica Sfânta Parascheva",
+                "en": "Saint Paraskevi Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen guten Windschutz für eine kurze Rast; kühlen Sie nicht zu sehr aus, bevor Sie wieder aufs Rad steigen.",
+                "hu": "A templom fala jó szélárnyékot nyújt egy rövid pihenőhöz; ne hűljön ki túlságosan, mielőtt újra nyeregbe szállna.",
+                "ro": "Zidurile bisericii oferă un adăpost bun împotriva vântului; nu vă lăsați corpul să se răcească înainte de a pleca din nou.",
+                "en": "The church walls offer good wind protection for a short rest; don't let your core temperature drop before cycling again."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Beach",
+                "hu": "Golden Beach",
+                "ro": "Golden Beach",
+                "en": "Golden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Untergrund ist im Winter oft härter gefroren und gut befahrbar; halten Sie Abstand zur Brandung wegen salziger Gischt.",
+                "hu": "A talaj télen gyakran keményebbre fagyott és jól tekerhető; tartson távolságot a hullámveréstől a sós pára miatt.",
+                "ro": "Solul este adesea mai înghețat și ușor de parcurs iarna; păstrați distanța față de valuri din cauza vaporilor sărați.",
+                "en": "The ground is often frozen harder in winter and easy to ride on; stay clear of the surf to avoid salty sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Khruse Akte",
+                "hu": "Khruse Akte",
+                "ro": "Khruse Akte",
+                "en": "Khruse Akte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefstehende Sonne für Wärme im Gesicht; eine Thermoskanne mit warmem Getränk ist jetzt Ihr bester Begleiter.",
+                "hu": "Forduljon a nap felé, hogy érezze az arcán a melegét; egy termosz meleg ital ilyenkor a legjobb útitárs a biciklin.",
+                "ro": "Folosiți soarele de la amiază pentru a vă încălzi fața; un termos cu băutură caldă este acum cel mai bun companion.",
+                "en": "Face the midday sun to feel its warmth on your face; a thermos with a hot drink is your best companion on the bike now."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Ioannis",
+                "hu": "Agios Ioannis",
+                "ro": "Agios Ioannis",
+                "en": "Agios Ioannis"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert; der Rückweg wird gegen 17:00 Uhr bereits im Halbdunkel stattfinden.",
+                "hu": "Győződjön meg róla, hogy működnek a lámpái; a visszaút 17:00 körül már szürkületben, sötétedő utakon fog telni.",
+                "ro": "Asigurați-vă că luminile funcționează; drumul de întoarcere se va desfășura deja în amurg în jurul orei 17:00.",
+                "en": "Make sure your lights are working; the return journey around 5 PM will already be in twilight on darkening roads."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós túrája a panorámás Szent Charalambos templomnál kezdődik, mielőtt felfedezné a Drakotrypa barlang titkait. Délben a lenyűgöző Saliara Márványpart következik, ahol a fehér kavicsok találkoznak a kék vízzel. A délután mélyvízi úszással telik Porto Bathu és Vathi zord öbleiben. Zárja az utazást Khruse Ammoudia nyüzsgő esti hangulatával.",
         "ro": "Călătoria începe la Biserica Sfântul Charalambos, înainte de a explora Peștera Drakotrypa. La prânz veți vizita uimitoarea plajă Saliara, unde pietricelele albe întâlnesc ape albastre incredibile. După-amiaza continuă cu înot în apele adânci din Porto Bathu și Vathi. Încheiați ziua cu o atmosferă de seară vibrantă la Khruse Ammoudia.",
         "en": "Your road trip starts at the panoramic Saint Charalambos Church before delving into the mysteries of Cave Drakotrypa. Midday takes you to the stunning Saliara Marble Beach, where white pebbles meet incredibly blue waters. Afternoon continues with deep-water swims at the rugged inlets of Porto Bathu and Vathi. Wrap up the journey with a vibrant evening atmosphere at Khruse Ammoudia."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Schutz des Autos lassen wir die Scheibenwischer den Rhythmus des Tages bestimmen. Mittags erkunden wir die Höhle, während draußen die Welt im Regen versinkt. Am Nachmittag fahren wir die Küstenstraße entlang und genießen den Ausblick auf die aufgewühlte See. Der Abend wird gemütlich, wenn wir die Lichter der Küstenorte durch die beschlagenen Scheiben beobachten.",
+            "hu": "Az autó védelmében az ablaktörlők üteme határozza meg a nap hangulatát. Délben felfedezzük a barlangot, miközben odakint a világ elmerül az esőben. Délután a tengerparti úton haladunk, élvezve a felkorbácsolt hullámok látványát. Az este barátságos, ahogy a part menti települések fényeit figyeljük a párás ablakokon keresztül.",
+            "ro": "În protecția mașinii, ștergătoarele dau ritmul acestei zile ploiase. La prânz explorăm peștera, în timp ce afară lumea se scufundă în ploaie. După-amiaza conducem pe drumul de coastă, admirând spectacolul valurilor agitate. Seara devine primitoare, privind luminile așezărilor de coastă prin geamurile aburite.",
+            "en": "Inside the safety of the car, the rhythm of the wipers sets the mood for the day. At noon, we explore the cave while the world outside is drenched in rain. In the afternoon, we drive along the coast, enjoying the dramatic view of the churning sea. The evening is cozy as we watch the coastal village lights twinkle through the fogged-up windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Charalambos",
+                "hu": "Szent Charalambos templom",
+                "ro": "Biserica Sfântul Charalambos",
+                "en": "Saint Charalambos Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Boden um die Kirche kann bei starkem Regen schnell aufweichen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a templom körüli talaj heves esőzéskor gyorsan felázhat és sáros lehet.",
+                "ro": "Parcați cât mai aproape de intrare; solul din jurul bisericii se poate înmuia rapid în timpul ploilor abundente.",
+                "en": "Park as close to the entrance as possible; the ground around the church can soften and get muddy quickly in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Drachenhöhle Drakotrypa",
+                "hu": "Drakotrypa Barlang",
+                "ro": "Peștera Drakotrypa",
+                "en": "Cave Drakotrypa"
+              },
+              "tip_5lang": {
+                "de": "Ein perfektes Ziel bei Regen, da es drinnen trocken ist; achten Sie jedoch auf von der Decke tropfendes Sickerwasser.",
+                "hu": "Tökéletes célpont esőben, mivel bent száraz az idő; figyeljen azonban a mennyezetről csöpögő beszivárgó vízre.",
+                "ro": "O destinație perfectă pe ploaie, fiind uscat în interior; totuși, atenție la apa care se poate scurge din tavan.",
+                "en": "A perfect rainy day destination as it's dry inside; however, watch out for seepage water dripping from the ceiling."
+              }
+            },
+            {
+              "name": {
+                "de": "Saliara - Marble Beach",
+                "hu": "Saliara - Márványpart",
+                "ro": "Saliara - Marble Beach",
+                "en": "Saliara - Marble Beach"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Straße zum Marble Beach kann sehr schlammig sein; fahren Sie langsam, um Schlaglöcher im Wasser zu erkennen.",
+                "hu": "A Márványpartra vezető földút nagyon sáros lehet; vezessen lassan, hogy észrevegye a víz alatti mély kátyúkat.",
+                "ro": "Drumul neasfaltat spre Marble Beach poate fi foarte noroios; conduceți încet pentru a observa gropile ascunse sub apă.",
+                "en": "The unpaved road to Marble Beach can be very muddy; drive slowly to spot deep potholes hidden under the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Bathu",
+                "hu": "Porto Bathu",
+                "ro": "Porto Bathu",
+                "en": "Porto Bathu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto auf die türkisfarbene Bucht, die im Regen dunkler wirkt; nutzen Sie die befestigten Parkflächen.",
+                "hu": "Élvezze az autóból a türkizkék öböl látványát, amely esőben sötétebbnek tűnik; használja a kijelölt, szilárd parkolóhelyeket.",
+                "ro": "Admirați din mașină golful turcoaz, care pare mai închis pe ploaie; folosiți zonele de parcare cu teren stabil.",
+                "en": "Enjoy the view of the turquoise bay from your car, looking darker in the rain; use the designated, stable parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Vathi",
+                "hu": "Vathi",
+                "ro": "Vathi",
+                "en": "Vathi"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal und kann rutschig sein; lassen Sie die Fenster einen Spalt offen, damit sie von innen nicht beschlagen.",
+                "hu": "Az idevezető út keskeny és csúszós lehet; hagyja az ablakokat résnyire nyitva, hogy megakadályozza a belső párásodást.",
+                "ro": "Accesul este îngust și poate fi alunecos; lăsați geamurile puțin deschise pentru a preveni aburirea lor pe interior.",
+                "en": "The access road is narrow and can be slick; keep your windows slightly cracked to prevent fogging up on the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Khruse Ammoudia",
+                "hu": "Khruse Ammoudia",
+                "ro": "Khruse Ammoudia",
+                "en": "Khruse Ammoudia"
+              },
+              "tip_5lang": {
+                "de": "Am Ende des Tages ist ein Regenschirm für den kurzen Weg zum Strand nötig; die Sicht beim Einparken kann durch den Regen stark eingeschränkt sein.",
+                "hu": "A nap végén esernyőre lesz szükség a strandhoz vezető rövid úthoz; a tolatáskor a látási viszonyok korlátozottak lehetnek.",
+                "ro": "La finalul zilei veți avea nevoie de umbrelă pentru drumul scurt spre plajă; vizibilitatea la parcare poate fi redusă.",
+                "en": "At the end of the day, an umbrella is needed for the short walk to the beach; visibility when parking may be limited."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im warmen Auto erkunden wir die winterliche Insel, während die Heizung für Wohlbefinden sorgt. Mittags glänzt die tiefstehende Sonne auf den Wellen, ein Anblick, den wir fast allein genießen. Am Nachmittag fahren wir zu abgelegenen Buchten, die im Winter eine raue Schönheit entfalten. Der Abend bricht früh herein, und die dunklen Berge bilden eine beeindruckende Kulisse für die Heimfahrt.",
+            "hu": "A fűtött autó kényelmében fedezzük fel a téli szigetet, miközben odakint a friss levegő vár. Délben az alacsonyan járó nap megcsillan a hullámokon, ezt a látványt szinte egyedül élvezhetjük. Délután eldugott öblök felé autózunk, amelyek télen mutatják meg vad szépségüket. Az este korán érkezik, a sötét hegyek pedig lenyűgöző díszletet adnak a hazavezető úthoz.",
+            "ro": "În confortul mașinii încălzite explorăm insula iarna, în timp ce afară ne așteaptă aerul proaspăt. La prânz, soarele sclipeste pe valuri, o priveliște de care ne bucurăm aproape singuri. După-amiaza conducem spre golfuri retrase care își dezvăluie frumusețea sălbatică iarna. Seara vine devreme, munții întunecați formând un decor impresionant pentru drumul spre casă.",
+            "en": "In the comfort of a heated car, we explore the wintry island while the fresh air waits outside. At noon, the low sun glints off the waves, a view we enjoy almost entirely alone. In the afternoon, we drive to secluded bays that reveal their wild beauty in winter. Evening sets in early, and the dark mountains provide a stunning backdrop for the drive home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Charalambos",
+                "hu": "Szent Charalambos templom",
+                "ro": "Biserica Sfântul Charalambos",
+                "en": "Saint Charalambos Church"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung in der Kirche ist im Winter oft aus; behalten Sie Ihre Jacke für die Besichtigung der Wandmalereien an.",
+                "hu": "A templom fűtése télen gyakran szünetel; tartsa magán a kabátját a falfestmények megtekintése közben is.",
+                "ro": "Încălzirea în biserică este adesea oprită iarna; păstrați jacheta pe voi în timp ce admirați picturile murale.",
+                "en": "The church heating is often off in winter; keep your jacket on while admiring the wall paintings inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Drachenhöhle Drakotrypa",
+                "hu": "Drakotrypa Barlang",
+                "ro": "Peștera Drakotrypa",
+                "en": "Cave Drakotrypa"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle ist die Temperatur im Winter oft milder als draußen; eine Taschenlampe hilft, die Details im Halbdunkel zu sehen.",
+                "hu": "A barlangban télen gyakran enyhébb a hőmérséklet, mint kint; egy zseblámpa segíthet a részletek felfedezésében a félhomályban.",
+                "ro": "În peșteră temperatura este adesea mai blândă decât afară iarna; o lanternă vă va ajuta să vedeți detaliile în penumbră.",
+                "en": "Inside the cave, the temperature is often milder than outside in winter; a flashlight will help you see the details in the dim light."
+              }
+            },
+            {
+              "name": {
+                "de": "Saliara - Marble Beach",
+                "hu": "Saliara - Márványpart",
+                "ro": "Saliara - Marble Beach",
+                "en": "Saliara - Marble Beach"
+              },
+              "tip_5lang": {
+                "de": "Keine Parkplatzprobleme im Winter; nutzen Sie die Zeit für Fotos des strahlend weißen Strandes ohne die üblichen Touristenmassen.",
+                "hu": "Télen nincsenek parkolási nehézségek; használja ki az időt a vakítóan fehér part fotózására a szokásos turistatömeg nélkül.",
+                "ro": "Iarna nu sunt probleme de parcare; profitați de timp pentru a fotografia plaja albă strălucitoare fără mulțimea de turiști.",
+                "en": "No parking issues in winter; use the time to photograph the brilliant white beach without the usual crowds of tourists."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Bathu",
+                "hu": "Porto Bathu",
+                "ro": "Porto Bathu",
+                "en": "Porto Bathu"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet spektakuläre Wellen; halten Sie nur an sicheren Buchten, da der Wind hier sehr böig sein kann.",
+                "hu": "A tengerparti út mentén látványos hullámokat láthat; csak a kijelölt helyeken álljon meg, mert a szél itt nagyon lökéses lehet.",
+                "ro": "Drumul de coastă oferă valuri spectaculoase; opriți doar în locuri sigure, deoarece vântul poate fi foarte puternic aici.",
+                "en": "The coastal road offers spectacular wave views; only stop at safe spots as the wind can be very gusty here."
+              }
+            },
+            {
+              "name": {
+                "de": "Vathi",
+                "hu": "Vathi",
+                "ro": "Vathi",
+                "en": "Vathi"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße ist im Winter oft einsam; stellen Sie sicher, dass Ihr Tank voll ist, da viele Tankstellen früher schließen.",
+                "hu": "A keskeny út télen nagyon kihalt; győződjön meg róla, hogy elég üzemanyaga van, mert a kutak ilyenkor korábban zárhatnak.",
+                "ro": "Drumul îngust este adesea pustiu iarna; asigurați-vă că aveți rezervorul plin, deoarece benzinăriile se închid mai devreme.",
+                "en": "The narrow road is often deserted in winter; make sure your tank is full as some gas stations close earlier in the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Khruse Ammoudia",
+                "hu": "Khruse Ammoudia",
+                "ro": "Khruse Ammoudia",
+                "en": "Khruse Ammoudia"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit gegen 17:00 Uhr; die Straßenbeleuchtung ist im Winter oft auf ein Minimum reduziert.",
+                "hu": "Tervezze meg a visszautat a sötétedés beállta, 17:00 előtt; a közvilágítás télen gyakran csak minimális a parti utakon.",
+                "ro": "Planificați drumul de întoarcere înainte de ora 17:00; iluminatul stradal este adesea redus la minim iarna pe drumurile de coastă.",
+                "en": "Plan your return trip before darkness falls around 5 PM; street lighting is often kept to a minimum in winter on coastal roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

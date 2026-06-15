@@ -137,6 +137,168 @@
         "hu": "A reggel a nyüzsgő Agoralys Kulturális Központban kezdődik, majd a történelmi Église Saint-Martin következik.\n\nDélben fedezze fel a közeli Motte féodale középkori maradványait.\n\nDélután tegyen egy kellemes sétát, és pihenjen a festői Lys folyó partján.\n\nAz estét a csendes Salve Regina emlékműnél tartott nyugodt elmélkedés zárja.",
         "ro": "Dimineața începe la vibrantul Centru Cultural Agoralys, urmat de istorica Église Saint-Martin.\n\nLa amiază, explorați rămășițele medievale de la Motte féodale din apropiere.\n\nDupă-amiaza, faceți o plimbare ușoară pentru a vă relaxa de-a lungul malurilor pitorești ale râului Lys.\n\nSeara se încheie cu o reflecție liniștită la Salve Regina.",
         "en": "Morning begins at the vibrant Agoralys Cultural Center, followed by the historic Église Saint-Martin.\n\nMidday, explore the medieval remnants of the Motte féodale nearby.\n\nIn the afternoon, take a gentle stroll to relax along the scenic Lys River Banks.\n\nEvening concludes with quiet reflection at the serene Salve Regina monument."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den verregneten Morgen mit den überdachten Ausstellungen im Agoralys. Mittags machen Sie kurze Spaziergänge zur Kirche Saint-Martin und zur schlammigen Motte féodale. Am Nachmittag trotzen Sie dem Nieselregen am rutschigen Ufer der Lys. Beenden Sie den feuchten, aber lohnenden Tag an der Salve Regina.",
+            "hu": "Kezdje az esős reggelt az Agoralys fedett kiállításaival. Délben tegyen egy rövid sétát a Saint-Martin templomhoz és a sáros Motte féodale-hoz. Délután dacoljon a szitáló esővel a csúszós Lys folyó partján. Zárja a nedves, de élményekkel teli napot a Salve Regina emlékműnél egy esernyő alatt.",
+            "ro": "Începeți dimineața ploioasă explorând expozițiile interioare de la Agoralys. La prânz, faceți scurte plimbări umede către biserica Saint-Martin și noroioasa Motte féodale. După-amiaza, înfruntați burnița pe malurile alunecoase ale râului Lys. Încheiați ziua umedă la Salve Regina sub o umbrelă.",
+            "en": "Start your rainy morning exploring the indoor exhibits at Agoralys. By noon, take brief wet walks to the historic Saint-Martin church and the muddy Motte féodale. In the afternoon, brave the drizzle along the slippery Lys river banks. Conclude your damp but rewarding day at Salve Regina under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum Agoralys",
+                "hu": "Agoralys Kulturális Központ",
+                "ro": "Centrul Cultural Agoralys",
+                "en": "Agoralys Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Zufluchtsort vor dem Regen mit trockenen, kulturellen Ausstellungen.",
+                "hu": "Kiváló menedék az eső elől, száraz és érdekes kulturális kiállításokkal.",
+                "ro": "Refugiu excelent de ploaie, oferind expoziții culturale uscate și captivante.",
+                "en": "Excellent indoor refuge from the rain, offering dry and engaging cultural exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Schütteln Sie den Regenschirm ab und genießen Sie das trockene Innere der Kirche.",
+                "hu": "Rázza le az esernyőjét, és élvezze a történelmi templom békés, száraz belső terét.",
+                "ro": "Scuturați umbrela și bucurați-vă de interiorul pașnic și uscat al bisericii istorice.",
+                "en": "Shake off your umbrella and enjoy the peaceful, dry interior of this historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Motte féodale",
+                "hu": "Motte féodale",
+                "ro": "Motte féodale",
+                "en": "Motte féodale"
+              },
+              "tip_5lang": {
+                "de": "Die grasbewachsenen Wege werden rutschig; wasserdichte Schuhe sind Pflicht.",
+                "hu": "A füves ösvények nagyon sárosak és csúszósak lehetnek; vízálló cipő viselése kötelező.",
+                "ro": "Cărările cu iarbă devin noroioase și alunecoase; cizmele impermeabile sunt esențiale.",
+                "en": "The grassy paths get quite muddy and slippery; sturdy waterproof boots are essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Lys",
+                "hu": "Lys folyó partja",
+                "ro": "Malurile râului Lys",
+                "en": "Lys River Banks"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschigen Schlamm am Ufer; eine gute Regenjacke hält Sie trocken.",
+                "hu": "Vigyázzon a csúszós sárra a folyóparton; egy jó esőkabátban kényelmesebb a séta.",
+                "ro": "Atenție la noroiul alunecos de pe maluri; o pelerină bună vă va menține confortabil.",
+                "en": "Watch out for slippery mud along the riverbanks; a good raincoat will keep you comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Salve Regina",
+                "hu": "Salve Regina",
+                "ro": "Salve Regina",
+                "en": "Salve Regina"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie schnell ein Foto unter dem Regenschirm, bevor Sie sich im Trockenen aufwärmen.",
+                "hu": "Készítsen egy gyors fotót az esernyő alól, mielőtt zárt térbe menne megszáradni.",
+                "ro": "Faceți o fotografie rapidă sub umbrelă înainte de a merge înăuntru pentru a vă usca.",
+                "en": "Take a quick photo under your umbrella before heading inside to dry off completely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen mit den warmen Kulturangeboten im Agoralys. Mittags geht es zur beheizten Kirche Saint-Martin und den gefrorenen Wegen der Motte féodale. Der Nachmittag bringt kühle, aber klare Luft an der Lys. Enden Sie um 17:00 Uhr an der Salve Regina bei früher Dämmerung.",
+            "hu": "Indítsa a fagyos reggelt az Agoralys fűtött termeiben. A déli órákban tegyen egy frissítő sétát a meleg Saint-Martin templomhoz és a dérlepte Motte féodale-hoz. A délután csípős, de tiszta levegőt hoz a Lys folyó mentén. Fejezze be a sétát 17:00-kor a Salve Regina-nál, a korai sötétedésben.",
+            "ro": "Începeți dimineața geroasă cu expozițiile culturale calde de la Agoralys. La prânz, faceți o plimbare spre biserica încălzită Saint-Martin și terenurile înghețate de la Motte. După-amiaza aduce aer rece pe malul râului Lys. Terminați la 17:00 la Salve Regina, odată cu lăsarea întunericului.",
+            "en": "Kick off your frosty morning with the warm cultural displays at Agoralys. Midday offers a brisk walk to the heated Saint-Martin church and the frozen grounds of Motte féodale. The afternoon brings chilly but crisp air along the Lys river. Finish by 17:00 at Salve Regina as early dusk settles in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum Agoralys",
+                "hu": "Agoralys Kulturális Központ",
+                "ro": "Centrul Cultural Agoralys",
+                "en": "Agoralys Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort, um sich an einem eiskalten Morgen aufzuwärmen.",
+                "hu": "Remek hely a felmelegedésre a fagyos reggeli séta megkezdésekor.",
+                "ro": "Un loc perfect pentru a vă încălzi într-o dimineață geroasă de iarnă.",
+                "en": "Perfect place to warm up and stay cozy during a freezing winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf und bewundern Sie das Winterlicht.",
+                "hu": "Melegedjen fel odabent, és csodálja meg az ablakokon átszűrődő téli fényeket.",
+                "ro": "Încălziți-vă în interior și admirați lumina de iarnă care trece prin vitralii.",
+                "en": "Warm your hands inside while admiring the low winter light through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Motte féodale",
+                "hu": "Motte féodale",
+                "ro": "Motte féodale",
+                "en": "Motte féodale"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist oft hart gefroren; achten Sie auf vereiste Stellen auf den Wegen.",
+                "hu": "A talaj gyakran keményre fagyott; ügyeljen a jeges foltokra az ösvényeken.",
+                "ro": "Pământul este adesea înghețat tun; atenție la porțiunile alunecoase de pe cărări.",
+                "en": "The ground is often frozen solid; watch your step for icy patches on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Lys",
+                "hu": "Lys folyó partja",
+                "ro": "Malurile râului Lys",
+                "en": "Lys River Banks"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Wasser ist eisig, ziehen Sie sich warm an und tragen Sie einen Schal.",
+                "hu": "A vízparton metsző szél fújhat, öltözzön vastagon és viseljen sálat.",
+                "ro": "Vântul de lângă apă este tăios, îmbrăcați-vă gros și purtați un fular.",
+                "en": "The wind chill by the water is high, wrap up warmly and wear a scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Salve Regina",
+                "hu": "Salve Regina",
+                "ro": "Salve Regina",
+                "en": "Salve Regina"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt früh ein; genießen Sie die friedliche Stimmung im Halbdunkel.",
+                "hu": "Korán sötétedik; élvezze a békés hangulatot a téli félhomályban.",
+                "ro": "Amurgul vine devreme; bucurați-vă de atmosfera pașnică la lăsarea serii.",
+                "en": "Dusk arrives early; enjoy the peaceful atmosphere in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel az elegáns Városházánál indul, majd az Agoralys Kulturális Központhoz és az Église Saint-Martinhez tekerünk.\n\nDélben álljon meg egy sétára a Motte féodale középkori területén.\n\nA délután egy festői kerékpározást tartogat a nyugodt Lys folyó partján.\n\nAz este egy békés dél felé tartó utazással zárul a Notre-Dame des 7 Douleurs felé.",
         "ro": "Dimineața începe la eleganta Primărie, înainte de a pedala spre Centrul Cultural Agoralys și Église Saint-Martin.\n\nLa amiază, opriți-vă la terenurile medievale de la Motte féodale.\n\nDupă-amiaza aduce o plimbare pitorească de-a lungul malurilor liniștite ale râului Lys.\n\nSeara se termină cu o plimbare pașnică spre Notre-Dame des 7 Douleurs.",
         "en": "Morning kicks off at the elegant Town Hall before riding to the Agoralys Cultural Center and Église Saint-Martin.\n\nMidday, pause to walk the medieval grounds of the Motte féodale.\n\nAfternoon brings a scenic cycle along the tranquil Lys River Banks.\n\nEvening finishes with a peaceful ride south to the poignant Notre-Dame des 7 Douleurs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Schauer erfordern Regenkleidung auf dem Weg vom Rathaus zum Agoralys. Mittags fahren Sie vorsichtig über nasses Kopfsteinpflaster nahe der Kirche und der Motte. Die Nachmittagsfahrt entlang der Lys erfordert Achtsamkeit. Beenden Sie die feuchte Radtour an der Notre-Dame.",
+            "hu": "A reggeli záporok vízálló felszerelést kívánnak a Városházától az Agoralysig. Délben óvatosan tekerjen a csúszós macskaköveken a templom és a történelmi domb közelében. Délután a Lys menti nedves ösvények extra figyelmet igényelnek. Zárja a borús túrát a Notre-Dame-nál.",
+            "ro": "Ploile matinale necesită echipament impermeabil de la Primărie la Agoralys. La prânz, navigați cu grijă pe piatra cubică alunecoasă de lângă biserică și deal. Cursa de după-amiază de-a lungul râului Lys necesită atenție. Încheiați turul umed cu bicicleta la Notre-Dame.",
+            "en": "Morning showers mean wet gear as you ride from the Town Hall to Agoralys. By noon, carefully navigate slippery cobblestones near the church and historical mound. The afternoon ride along the Lys requires caution due to wet paths. Conclude the damp cycling tour safely at Notre-Dame."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Erquinghem-Lys",
+                "hu": "Erquinghem-Lys Városháza",
+                "ro": "Primăria Erquinghem-Lys",
+                "en": "Erquinghem-Lys Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Sattel trocken, während Sie das Gebäude kurz betrachten.",
+                "hu": "Tartsa szárazon a nyerget egy huzattal, amíg röviden megtekinti az épületet.",
+                "ro": "Păstrați șaua uscată cu o husă în timp ce priviți rapid clădirea.",
+                "en": "Cover your bike saddle to keep it dry while you take a quick look at the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Agoralys",
+                "hu": "Agoralys Kulturális Központ",
+                "ro": "Centrul Cultural Agoralys",
+                "en": "Agoralys Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die nasse Regenjacke auszuziehen und Kultur zu genießen.",
+                "hu": "Jó hely arra, hogy levegye a nedves esőkabátot, és élvezze a kultúrát.",
+                "ro": "Un loc bun pentru a da jos pelerina de ploaie umedă și a vă bucura de cultură.",
+                "en": "A great place to shake off your wet raincoat and enjoy some dry culture inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher vor dem Regen und besichtigen Sie das trockene Kirchenschiff.",
+                "hu": "Parkolja le a kerékpárt esőtől védve, és nézze meg a száraz templomhajót.",
+                "ro": "Parcați bicicleta la adăpost de ploaie și vizitați naosul uscat al bisericii.",
+                "en": "Park your bike out of the heavy rain and visit the dry nave of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Motte féodale",
+                "hu": "Motte féodale",
+                "ro": "Motte féodale",
+                "en": "Motte féodale"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege sind sehr schlammig, schieben Sie das Rad besser hier.",
+                "hu": "A földutak sártengerré válhatnak, inkább tolja a kerékpárt ezen a szakaszon.",
+                "ro": "Potecile de pământ devin foarte noroioase, este mai bine să împingeți bicicleta aici.",
+                "en": "The dirt paths become extremely muddy, it's safer to push your bike on this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Lys",
+                "hu": "Lys folyó partja",
+                "ro": "Malurile râului Lys",
+                "en": "Lys River Banks"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen und nassem Laub auf den Uferwegen.",
+                "hu": "Vigyázzon a mély tócsákkal és a nedves falevelekkel a parti ösvényeken.",
+                "ro": "Atenție la bălțile adânci și la frunzele umede de pe potecile de pe mal.",
+                "en": "Watch out for deep puddles and slippery wet leaves on the riverbank trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Halt zum Abschluss, bevor Sie ins Warme fahren.",
+                "hu": "Egy rövid, esős megálló a végén, mielőtt meleg helyre hajtana.",
+                "ro": "O scurtă oprire ploioasă la final, înainte de a merge într-un loc cald.",
+                "en": "A brief rainy final stop before cycling your way to a warm, dry place."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für die frostige Morgenfahrt am Rathaus vorbei zum Agoralys. Mittags können Sie sich in der Kirche aufwärmen, bevor Sie die gefrorenen Wege der Motte befahren. Der Nachmittag bringt beißenden Wind an der Lys. Erreichen Sie die Notre-Dame vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Öltözzön meleg rétegekbe a csípős reggeli tekeréshez a Városháza felé. Délben melegedjen fel a templomban, mielőtt dacolna a fagyott dombbal. Délután a Lys folyó felől metsző szél fújhat. Érjen a Notre-Dame-hoz még a 17:00 órás, korai naplemente előtt.",
+            "ro": "Îmbrăcați-vă gros pentru cursa matinală geroasă pe lângă Primărie spre Agoralys. La prânz vă puteți încălzi în biserică înainte de a înfrunta cărările înghețate. După-amiaza aduce vânt tăios pe râul Lys. Ajungeți la Notre-Dame înainte de apusul de la 17:00.",
+            "en": "Wrap up in thermals for the crisp morning ride past the Town Hall to Agoralys. Midday offers a chance to warm up inside the church before braving the frozen paths of the motte. The afternoon brings biting winds by the Lys river. Arrive at Notre-Dame before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Erquinghem-Lys",
+                "hu": "Erquinghem-Lys Városháza",
+                "ro": "Primăria Erquinghem-Lys",
+                "en": "Erquinghem-Lys Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Handschuhe, der Fahrtwind am Morgen ist eisig.",
+                "hu": "Viseljen vastag kesztyűt, mert a reggeli menetszél fagyos lehet.",
+                "ro": "Purtați mănuși groase, vântul matinal în timpul mersului este înghețat.",
+                "en": "Wear thick gloves as the morning wind chill on your bike is freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Agoralys",
+                "hu": "Agoralys Kulturális Központ",
+                "ro": "Centrul Cultural Agoralys",
+                "en": "Agoralys Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Finger in den beheizten Räumen auf.",
+                "hu": " olvassza ki az ujjait a fűtött termekben a következő szakasz előtt.",
+                "ro": "Dezghețați-vă degetele în camerele încălzite înainte de a pedala mai departe.",
+                "en": "Thaw your fingers out in the heated rooms before your next cycling leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Legen Sie hier eine wärmende Pause ein, bevor es wieder in die Kälte geht.",
+                "hu": "Tartson egy melegedő szünetet odabent, mielőtt újra a hidegbe menne.",
+                "ro": "Luați o pauză de încălzire aici înainte de a ieși din nou în frig.",
+                "en": "Take a warm break inside before heading back out into the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Motte féodale",
+                "hu": "Motte féodale",
+                "ro": "Motte féodale",
+                "en": "Motte féodale"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor unsichtbaren Eisflächen auf den Wegen rund um die Motte.",
+                "hu": "Óvakodjon a láthatatlan jégfoltoktól a történelmi domb körüli utakon.",
+                "ro": "Atenție la porțiunile de gheață invizibilă de pe drumurile din jurul movilei.",
+                "en": "Beware of invisible black ice on the unpaved paths around the historical mound."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Lys",
+                "hu": "Lys folyó partja",
+                "ro": "Malurile râului Lys",
+                "en": "Lys River Banks"
+              },
+              "tip_5lang": {
+                "de": "Eine Gesichtsmaske gegen den scharfen Winterwind am Wasser ist sehr zu empfehlen.",
+                "hu": "A víz felől fújó éles téli szél ellen arcmaszk viselése erősen ajánlott.",
+                "ro": "O mască de față împotriva vântului tăios de iarnă de pe apă este foarte recomandată.",
+                "en": "A face mask against the sharp winter wind by the water is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Fahrradlicht ein, die Dämmerung fällt schnell ein.",
+                "hu": "Kapcsolja be a kerékpár lámpáit, a sötétség gyorsan leszáll.",
+                "ro": "Aprindeți luminile bicicletei, întunericul se lasă foarte repede.",
+                "en": "Turn on your bike lights as the winter dusk falls very quickly here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggel délen, a békés Église Notre-Dame du Joyel-nél kezdődik, majd a Notre-Dame des 7 Douleurs felé halad.\n\nDélben a Salve Regina és az Agoralys Kulturális Központ művészete várja.\n\nDélután fedezze fel a történelmi Motte féodale-t és az Église Saint-Martint.\n\nAz estét a gyönyörű Lys folyó partján tett pihentető megálló zárja.",
         "ro": "Dimineața începe în sud la pașnica Église Notre-Dame du Joyel, trecând la memorialul Notre-Dame des 7 Douleurs.\n\nAmiaza prezintă Salve Regina și arte la Centrul Cultural Agoralys.\n\nDupă-amiaza explorează istorica Motte féodale și Église Saint-Martin.\n\nSeara se încheie cu o oprire relaxantă la frumoasele maluri ale râului Lys.",
         "en": "Morning starts south at the peaceful Église Notre-Dame du Joyel, moving to the memorial Notre-Dame des 7 Douleurs.\n\nMidday features Salve Regina and vibrant arts at Agoralys Cultural Center.\n\nAfternoon explores the historic Motte féodale and resilient Église Saint-Martin.\n\nEvening concludes with a relaxing stop at the beautiful Lys River Banks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit einer trockenen Fahrt zwischen den morgendlichen Kirchen, bevor Sie im Agoralys Schutz suchen. Mittags ist der historische Hügel nur mit Schirm zu bewundern. Am Nachmittag betrachten Sie den verregneten Fluss Lys bequem aus dem Auto. Beenden Sie die Fahrt im Trockenen.",
+            "hu": "Kezdje a napot egy száraz, kényelmes autózással a reggeli templomok között, majd húzódjon be az Agoralysba. Délben a történelmi domb csak esernyővel látogatható. Délután csodálja meg az esős Lys folyót az autó melegéből. Zárja az utat kényelemben a Saint-Martin templomnál.",
+            "ro": "Începeți ziua cu un drum uscat între bisericile matinale, apoi refugiați-vă la Agoralys. La prânz, dealul istoric poate fi vizitat doar cu umbrela. După-amiaza, admirați râul Lys din confortul mașinii. Încheiați călătoria umedă la uscat și în confort.",
+            "en": "Start a cozy, dry drive visiting the morning churches before taking shelter in Agoralys. Midday showers make the historical mound a quick, umbrella-shielded stop. In the afternoon, admire the rainy Lys river safely from your car. Finish your wet weather drive comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame du Joyel",
+                "hu": "Église Notre-Dame du Joyel",
+                "ro": "Église Notre-Dame du Joyel",
+                "en": "Église Notre-Dame du Joyel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie dicht am Eingang, um trockenen Fußes in die Kirche zu gelangen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz lábbal jusson be a templomba.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în biserică.",
+                "en": "Park close to the entrance to step into the church without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und betrachten Sie es durchs Fenster.",
+                "hu": "Szakadó esőben maradjon az autóban, és nézze meg az ablakból.",
+                "ro": "Dacă plouă tare, rămâneți în mașină și priviți pe fereastră.",
+                "en": "If the rain is heavy, stay in your car and view it comfortably through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Salve Regina",
+                "hu": "Salve Regina",
+                "ro": "Salve Regina",
+                "en": "Salve Regina"
+              },
+              "tip_5lang": {
+                "de": "Scheibenwischer an und das Monument aus dem trockenen Auto fotografieren.",
+                "hu": "Kapcsolja be az ablaktörlőt, és fotózza le az emlékművet a száraz autóból.",
+                "ro": "Porniți ștergătoarele și fotografiați monumentul din mașina uscată.",
+                "en": "Keep the wipers on and snap a quick photo of the monument from your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Agoralys",
+                "hu": "Agoralys Kulturális Központ",
+                "ro": "Centrul Cultural Agoralys",
+                "en": "Agoralys Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Das Kulturzentrum bietet eine perfekte, wetterfeste Aktivität für den Vormittag.",
+                "hu": "A kulturális központ tökéletes, időjárásálló programot kínál délelőttre.",
+                "ro": "Centrul cultural oferă o activitate perfectă, ferită de vremea rea, dimineața.",
+                "en": "The cultural center provides a perfect, weather-proof activity for your morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Motte féodale",
+                "hu": "Motte féodale",
+                "ro": "Motte féodale",
+                "en": "Motte féodale"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad ist matschig; Gummistiefel sind ratsam, wenn Sie aussteigen.",
+                "hu": "Az ösvény sáros; gumicsizma viselése ajánlott, ha kiszáll az autóból.",
+                "ro": "Cărarea este noroioasă; cizmele de cauciuc sunt recomandate dacă coborâți din mașină.",
+                "en": "The path is muddy; rubber boots are highly recommended if you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Sprint mit dem Schirm vom Auto ins trockene Kirchenschiff.",
+                "hu": "Egy gyors sprint esernyővel az autótól a száraz templomhajóig.",
+                "ro": "Un sprint rapid cu umbrela de la mașină până în naosul uscat.",
+                "en": "A quick dash with your umbrella from the car straight into the dry nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Lys",
+                "hu": "Lys folyó partja",
+                "ro": "Malurile râului Lys",
+                "en": "Lys River Banks"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stimmung des regnerischen Flusses aus dem Fahrzeug.",
+                "hu": "Élvezze az esős folyó melankolikus hangulatát a járműből nézve.",
+                "ro": "Bucurați-vă de atmosfera melancolică a râului ploios din interiorul vehiculului.",
+                "en": "Enjoy the melancholic mood of the rainy river safely from inside your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Autoheizung zwischen den frostigen Kirchenbesuchen am Morgen. Mittags bietet das Agoralys angenehme Wärme vor dem Spaziergang an der eisigen Motte. Spätnachmittags beobachten Sie den winterlichen Sonnenuntergang über der Lys, bevor Sie bei Einbruch der Dunkelheit heimkehren.",
+            "hu": "Élvezze az autó fűtését a fagyos reggeli templomlátogatások között. Délben a kulturális központ kellemes meleget ad a csípős hidegű domb megmászása előtt. Késő délután figyelje a téli naplementét a folyónál, majd térjen vissza a fűtött utastérbe a sötétedéskor.",
+            "ro": "Bucurați-vă de căldura mașinii între vizitele geroase de dimineață la biserici. La prânz, centrul cultural oferă o căldură plăcută înaintea plimbării pe dealul înghețat. După-amiaza târziu priviți apusul de iarnă pe râu, întorcându-vă în mașina încălzită la întuneric.",
+            "en": "Enjoy the car heater between frosty morning visits to the local churches. Midday offers a warm cultural stop at Agoralys before a brisk walk on the icy motte. Spend the late afternoon watching the winter twilight over the Lys, returning to a warm car just as darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame du Joyel",
+                "hu": "Église Notre-Dame du Joyel",
+                "ro": "Église Notre-Dame du Joyel",
+                "en": "Église Notre-Dame du Joyel"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkplätze am frühen, kalten Morgen.",
+                "hu": "Vigyázzon a kora reggeli, jéggel borított parkolóhelyekkel.",
+                "ro": "Atenție la locurile de parcare înghețate în dimineața devreme și rece.",
+                "en": "Watch out for icy patches in the parking area during the cold early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Kälte, lassen Sie den Motor am besten laufen.",
+                "hu": "Rövid megálló a hidegben, a fűtés miatt érdemes járatni a motort.",
+                "ro": "O oprire scurtă în frig, cel mai bine lăsați motorul pornit pentru căldură.",
+                "en": "A brief stop in the cold, consider keeping the engine running for heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Salve Regina",
+                "hu": "Salve Regina",
+                "ro": "Salve Regina",
+                "en": "Salve Regina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die frostigen Felder rund um das Monument vom Auto aus.",
+                "hu": "Figyelje meg az emlékmű körüli deres mezőket a meleg autóból.",
+                "ro": "Observați câmpurile înghețate din jurul monumentului din interiorul mașinii.",
+                "en": "Observe the frost-covered fields surrounding the monument from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Agoralys",
+                "hu": "Agoralys Kulturális Központ",
+                "ro": "Centrul Cultural Agoralys",
+                "en": "Agoralys Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Legen Sie Mantel und Schal ab und wärmen Sie sich in den Ausstellungen auf.",
+                "hu": "Vegye le a kabátját és a sálját, és melegedjen fel a kiállításokon.",
+                "ro": "Dați jos haina și fularul și încălziți-vă la expozițiile de interior.",
+                "en": "Take off your coat and scarf, and warm up completely during the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Motte féodale",
+                "hu": "Motte féodale",
+                "ro": "Motte féodale",
+                "en": "Motte féodale"
+              },
+              "tip_5lang": {
+                "de": "Der Boden des Hügels ist hart gefroren, ziehen Sie warme Stiefel an.",
+                "hu": "A domb talaja keményre fagyott, vegyen fel meleg, bélelt csizmát.",
+                "ro": "Pământul dealului este înghețat tun, încălțați cizme călduroase.",
+                "en": "The ground of the mound is frozen hard, make sure to wear warm winter boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern Kälte; behalten Sie Ihre Jacke an.",
+                "hu": "A vastag falak tartják a hideget; érdemes magán hagyni a kabátot.",
+                "ro": "Zidurile groase rețin frigul; este bine să vă păstrați jacheta pe dumneavoastră.",
+                "en": "The thick stone walls trap the cold; it's best to keep your jacket on."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Lys",
+                "hu": "Lys folyó partja",
+                "ro": "Malurile râului Lys",
+                "en": "Lys River Banks"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Fluss und genießen Sie die frühe Winterdämmerung.",
+                "hu": "Parkoljon a folyóra nézve, és élvezze a korai téli sötétedés fényeit.",
+                "ro": "Parcați cu fața spre râu și bucurați-vă de apusul devreme al iernii.",
+                "en": "Park facing the river and enjoy the beautiful early winter twilight views."
+              }
+            }
+          ]
+        }
       }
     }
   }

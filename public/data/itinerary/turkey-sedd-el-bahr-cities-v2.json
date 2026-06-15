@@ -160,6 +160,196 @@
         "hu": "Kezdje a történelmi sétát a múzeumban, hogy megértse a Gallipoli-félsziget tragikus múltját. Sétáljon el a Seddülbahir-erődhöz és az Első Mártírok Emlékművéhez. A V Beach-i pihenő után elérheti a lenyűgöző Helles-foki világítótornyot. A nap egy csendes emlékezéssel zárul a Lancashire Landing temetőben, ahonnan csodás kilátás nyílik a tengerre.",
         "ro": "Începeți turul istoric la muzeu pentru a înțelege trecutul tragic al Peninsulei Gallipoli. Plimbați-vă spre fortăreața Seddülbahir și Monumentul Primilor Martiri din apropiere. După o pauză la plaja V Beach, veți ajunge la impresionantul Far Cape Helles. Ziua se încheie cu un moment de reculegere la cimitirul Lancashire Landing, cu vedere la mare.",
         "en": "Begin your historical walking tour at the museum to grasp the tragic history of the Gallipoli Peninsula. Stroll to Seddülbahir Castle and the nearby First Martyrs' Monument. After resting at V Beach, you will reach the imposing Cape Helles Lighthouse. The day concludes with a moment of reflection at the Lancashire Landing Cemetery overlooking the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Ahmet Uslu Museum einen trockenen Rückzugsort vor dem Regen. Mittags finden Sie in den Gewölben der Festung Schutz vor den Schauern am Meer. Nachmittags erfordert der Weg zum Leuchtturm Vorsicht und wasserfestes Schuhwerk auf den rutschigen Pfaden. Abends beschließt die besinnliche Ruhe des Friedhofs unter grauem Himmel Ihren geschichtsträchtigen Rundgang.",
+            "hu": "Reggel az Ahmet Uslu Múzeum belső tereiben kezdjen, ahol az eső elől védve ismerheti meg a történelmet. Délben a vár falai és boltívei között keressen menedéket, miközben a viharos tenger morajlását figyeli. Délután a tengerparti séta során legyen óvatos a sárral, és viseljen vízálló cipőt a világítótorony felé. Este a napot a Lancashire Landing temetőben zárja, ahol a szürke égbolt méltóságteljes keretet ad.",
+            "ro": "Dimineața, Muzeul Ahmet Uslu oferă un refugiu uscat împotriva ploii printre exponatele sale. La prânz, adăpostiți-vă sub bolțile cetății în timp ce observați marea agitată. După-amiaza, drumul spre far necesită prudență și încălțăminte impermeabilă pe potecile alunecoase. Seara, liniștea sobră a cimitirului sub cerul gri încheie acest tur istoric plin de semnificație.",
+            "en": "Morning starts at the Ahmet Uslu Museum, providing a dry sanctuary from the rain among the exhibits. At noon, seek shelter within the castle's vaults while watching the turbulent sea nearby. In the afternoon, the walk to the lighthouse requires caution and waterproof boots on slippery coastal paths. In the evening, the solemn silence of the cemetery under a grey sky concludes your historical tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "1915 Seddülbahir Ahmet Uslu Museum",
+                "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+                "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+                "en": "1915 Seddülbahir Ahmet Uslu Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als perfekten Regenschutz; ein Schirm ist für den kurzen Weg vom Tor zum Eingang des privaten Museums dennoch unverzichtbar.",
+                "hu": "Használja a múzeumot tökéletes eső elleni menedékként; egy esernyő azonban elengedhetetlen a kaputól a magánmúzeum bejáratáig tartó rövid úton.",
+                "ro": "Folosiți muzeul ca un adăpost perfect împotriva ploii; totuși, o umbrelă este esențială pentru drumul scurt de la poartă până la intrarea în muzeu.",
+                "en": "Use the museum as a perfect shelter from the rain; however, an umbrella is essential for the short walk from the gate to the entrance of the private museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Seddülbahir",
+                "hu": "Seddülbahir-erőd",
+                "ro": "Fortăreața Seddülbahir",
+                "en": "Seddülbahir Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Innenräume der Festung; achten Sie auf den nassen Steinböden auf Ihre Trittsicherheit, da diese extrem glatt werden.",
+                "hu": "Fedezze fel az erőd fedett belső tereit; ügyeljen a biztos léptekre a nedves kőpadlókon, mivel azok esőben rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Explorați spațiile interioare acoperite ale cetății; aveți grijă la podelele din piatră umedă, deoarece devin extrem de alunecoase și periculoase pe ploaie.",
+                "en": "Explore the covered interior spaces of the fortress; be careful with your footing on the wet stone floors, as they become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der ersten Märtyrer",
+                "hu": "Első Mártírok Emlékműve",
+                "ro": "Monumentul Primilor Martiri",
+                "en": "First Martyrs' Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, respektvoller Moment unter dem Regenschutz; die nasse Oberfläche des Denkmals erzeugt eine besonders andächtige Stimmung im Regen.",
+                "hu": "Egy rövid, tiszteletteljes pillanat az esernyő alatt; az emlékmű nedves felülete különösen áhítatos hangulatot áraszt a szemerkélő esőben.",
+                "ro": "Un scurt moment de reculegere sub umbrelă; suprafața umedă a monumentului creează o atmosferă deosebit de pioasă în timpul ploii.",
+                "en": "A brief, respectful moment under your umbrella; the monument's wet surface creates a particularly solemn and prayerful atmosphere in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "V Beach",
+                "hu": "V Beach",
+                "ro": "Plaja V",
+                "en": "V Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung von einem erhöhten Punkt aus; der Regen über der Bucht lässt die geschichtlichen Ereignisse noch dramatischer wirken.",
+                "hu": "Figyelje a hullámverést egy magasabb pontról; az öböl feletti eső még drámaibbá teszi a történelmi partraszállás helyszínének látványát.",
+                "ro": "Observați valurile dintr-un punct mai înalt; ploaia de deasupra golfului face ca vederea locului istoric al debarcării să pară și mai dramatică.",
+                "en": "Watch the surf from a higher vantage point; the rain over the bay makes the sight of the historic landing site appear even more dramatic."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm am Kap Helles",
+                "hu": "Helles-foki világítótorony",
+                "ro": "Farul Cape Helles",
+                "en": "Cape Helles Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Am Kap weht bei Regen oft ein scharfer Wind; halten Sie Ihren Schirm fest oder nutzen Sie eine windfeste Regenjacke für den Panoramablick.",
+                "hu": "A foknál esőben gyakran fúj metsző szél; fogja szorosan az esernyőjét, vagy használjon szélálló esőkabátot a panoráma megtekintéséhez.",
+                "ro": "La cap, vântul este adesea tăios pe ploaie; țineți bine umbrela sau folosiți o pelerină rezistentă la vânt pentru a admira panorama.",
+                "en": "At the cape, the wind is often biting in the rain; hold your umbrella tightly or use a windproof raincoat to enjoy the panoramic views."
+              }
+            },
+            {
+              "name": {
+                "de": "Lancashire Landing Cemetery",
+                "hu": "Lancashire Landing temető",
+                "ro": "Cimitirul Lancashire Landing",
+                "en": "Lancashire Landing Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Pfaden, da der Rasen schnell aufweicht; die Stille des Ortes wird durch das sanfte Prasseln des Regens untermalt.",
+                "hu": "Maradjon a kövezett ösvényeken, mivel a gyep gyorsan felázik; a hely csendjét és nyugalmát az eső halk kopogása teszi még emelkedettebbé.",
+                "ro": "Rămâneți pe aleile pavate, deoarece gazonul se înmoaie repede; liniștea locului este completată de sunetul blând al picăturilor de ploaie.",
+                "en": "Stay on the paved paths as the grass becomes soggy quickly; the site's tranquility is enhanced by the gentle pitter-patter of the falling rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Erkundung des beheizten Museums ein, bevor die Kälte anzieht. Mittags bieten die Festungsmauern Schutz vor dem eisigen Wind der Dardanellen. Nachmittags sollten Sie den Leuchtturm vor dem frühen Sonnenuntergang gegen 17:00 Uhr besuchen. Abends taucht das letzte Licht den Lancashire Landing Cemetery in eine friedliche Atmosphäre, bevor die winterliche Dunkelheit einsetzt.",
+            "hu": "A tiszta téli reggel ideális a fűtött múzeum felfedezéséhez, mielőtt felerősödne a hideg. Napközben a várfalak nyújtanak némi szélfogót a Dardanellák felől érkező fagyos fuvallatok ellen. Délután látogasson el a világítótoronyhoz a korai, 17:00 körüli naplemente előtt. Este az utolsó fények békés hangulatba öltöztetik a temetőt, mielőtt a téli sötétség végleg leszállna.",
+            "ro": "O dimineață senină de iarnă invită la explorarea muzeului încălzit înainte ca frigul să se intensifice. La prânz, zidurile cetății oferă adăpost împotriva vântului înghețat al Dardanelelor. După-amiaza, vizitați farul înainte de apusul devreme de la ora 17:00. Seara, ultimele raze scaldă cimitirul într-o atmosferă pașnică înainte de lăsarea întunericului de iarnă.",
+            "en": "A crisp winter morning is perfect for exploring the heated museum before the chill sets in. At midday, the fortress walls provide a windbreak against the icy Dardanelles breeze. In the afternoon, visit the lighthouse before the early sunset around 5:00 PM. In the evening, the fading light bathes the cemetery in a peaceful glow before winter darkness fully descends."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "1915 Seddülbahir Ahmet Uslu Museum",
+                "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+                "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+                "en": "1915 Seddülbahir Ahmet Uslu Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; planen Sie hier Zeit ein, um der frostigen Morgenluft direkt am Kap für eine Weile zu entfliehen.",
+                "hu": "Melegedjen át a kiállítótermekben; tervezzen ide bőséges időt, hogy elmeneküljön a foknál tapasztalható fagyos reggeli levegő elől.",
+                "ro": "Încălziți-vă în sălile de expoziție; planificați-vă timpul aici pentru a scăpa de aerul înghețat de dimineață de la cap pentru o perioadă.",
+                "en": "Warm up inside the exhibition rooms; plan to spend enough time here to escape the frosty morning air at the cape for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Seddülbahir",
+                "hu": "Seddülbahir-erőd",
+                "ro": "Fortăreața Seddülbahir",
+                "en": "Seddülbahir Castle"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten den Wind ab, aber die Innenhöfe sind kühl; tragen Sie Thermokleidung, um die weitläufige Anlage ohne Frösteln zu erkunden.",
+                "hu": "A masszív falak felfogják a szelet, de a belső udvarok hűvösek; viseljen hőtartó ruházatot, hogy fázás nélkül járhassa be a hatalmas területet.",
+                "ro": "Zidurile masive opresc vântul, dar curțile interioare sunt reci; purtați haine termice pentru a explora situl vast fără a dârdâi de frig.",
+                "en": "The massive walls block the wind, but the inner courtyards are chilly; wear thermal layers to explore the expansive site without catching a cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der ersten Märtyrer",
+                "hu": "Első Mártírok Emlékműve",
+                "ro": "Monumentul Primilor Martiri",
+                "en": "First Martyrs' Monument"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Sichtverhältnisse; halten Sie den Aufenthalt an der ungeschützten Klippe kurz, da es hier sehr zugig ist.",
+                "hu": "A tiszta téli fény fantasztikus látási viszonyokat biztosít; tartsa rövidre a megállót a védtelen sziklaszélen, mivel itt nagyon huzatos az idő.",
+                "ro": "Lumina clară de iarnă asigură o vizibilitate fantastică; păstrați vizita scurtă pe faleza neprotejată, deoarece curentul este foarte puternic aici.",
+                "en": "The clear winter light provides fantastic visibility; keep your stay short at the unprotected cliff edge, as it gets very drafty and cold here."
+              }
+            },
+            {
+              "name": {
+                "de": "V Beach",
+                "hu": "V Beach",
+                "ro": "Plaja V",
+                "en": "V Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang am leeren Strand wirkt im Winter besonders friedlich; eine Thermoskanne mit heißem Tee macht die Pause am Ufer perfekt.",
+                "hu": "Egy magányos séta az üres tengerparton télen különösen békés; egy termoszban hozott forró tea teszi teljessé a pihenőt a parton.",
+                "ro": "O plimbare solitară pe plaja goală pare deosebit de liniștită iarna; un termos cu ceai fierbinte face pauza pe malul mării să fie perfectă.",
+                "en": "A solitary walk on the empty beach feels especially peaceful in winter; a thermos of hot tea makes your break by the shore perfectly cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm am Kap Helles",
+                "hu": "Helles-foki világítótorony",
+                "ro": "Farul Cape Helles",
+                "en": "Cape Helles Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Leuchtturm vor 16:30 Uhr; genießen Sie das goldene Winterlicht auf den Wellen, bevor die Temperatur mit der Sonne rapide sinkt.",
+                "hu": "Érjen a világítótoronyhoz 16:30 előtt; élvezze a hullámokon megcsillanó arany téli fényt, mielőtt a hőmérséklet a nappal együtt hirtelen leesik.",
+                "ro": "Ajungeți la far înainte de ora 16:30; bucurați-vă de lumina aurie de iarnă pe valuri înainte ca temperatura să scadă brusc odată cu soarele.",
+                "en": "Reach the lighthouse before 4:30 PM; enjoy the golden winter light reflecting on the waves before the temperature drops sharply with the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Lancashire Landing Cemetery",
+                "hu": "Lancashire Landing temető",
+                "ro": "Cimitirul Lancashire Landing",
+                "en": "Lancashire Landing Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Der Friedhof wirkt in der frühen winterlichen Dämmerung sehr erhaben; kehren Sie zügig zurück, bevor es um 17:00 Uhr schlagartig dunkel wird.",
+                "hu": "A temető a korai téli szürkületben rendkívül emelkedett látványt nyújt; induljon vissza időben, mielőtt 17:00-kor hirtelen besötétedik.",
+                "ro": "Cimitirul arată deosebit de solemn în amurgul timpuriu de iarnă; întoarceți-vă rapid înainte ca întunericul să se lase brusc la ora 17:00.",
+                "en": "The cemetery looks profoundly sublime in the early winter twilight; head back promptly before darkness falls suddenly around 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A biciklitúra a Francia Emlékműnél indul, pazar kilátással a Dardanellákra. Tekerjen el a Seddülbahir-erődhöz és látogassa meg a helyi múzeumot. A part mentén haladva elérheti a V Beach-et és a Helles-foki világítótornyot. A délután folyamán ideális az idő a csendes emlékezésre a temetőben, majd a napot a nyugodt Beach X partján zárhatja.",
         "ro": "Turul pe bicicletă începe la Memorialul Francez, cu vederi ample asupra strâmtorii Dardanele. Pedalați spre fortăreața Seddülbahir și vizitați muzeul local. Mergând de-a lungul coastei, veți descoperi plaja V Beach și farul Cape Helles. După-amiaza oferă timp pentru reflecție la cimitir și relaxare la plaja retrasă Beach X, încheind o zi activă.",
         "en": "Your cycling tour starts at the French Memorial with sweeping views over the Dardanelles. Ride gently to Seddülbahir Castle and visit the local museum. Cycling along the coastline, you'll reach V Beach and the Cape Helles Lighthouse. The afternoon offers time for reflection at the cemetery and a relaxing end to the day at the secluded Beach X."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert der Regen am Ehrenmal volle Konzentration auf der nassen Straße. Mittags bieten die Burg und das Museum willkommene Pausen, um die Ausrüstung kurz zu trocknen. Nachmittags weht am Leuchtturm ein kräftiger Wind, der das Radfahren entlang der Klippen erschwert. Abends endet die Tour am Beach X, wo das stürmische Meer eine dramatische Kulisse für den Abschluss des Tages bildet.",
+            "hu": "Reggel az emlékműnél az eső fokozott koncentrációt igényel a nedves utakon. Napközben a vár és a múzeum kínál szívesen látott pihenőt, ahol rövid időre megszáríthatja felszerelését. Délután a világítótoronynál fújó erős szél megnehezíti a kerékpározást a sziklák mentén. Este a túra a Beach X-nél ér véget, ahol a viharos tenger drámai hátteret biztosít a nap lezárásához.",
+            "ro": "Dimineața, ploaia de la memorial necesită concentrare maximă pe drumul umed. La prânz, cetatea și muzeul oferă pauze binevenite pentru a vă usca scurt echipamentul. După-amiaza, vântul puternic de la far îngreunează pedalatul de-a lungul falezelor. Seara, turul se încheie la Beach X, unde marea învolburată oferă un decor dramatic pentru finalul zilei.",
+            "en": "In the morning, the rain at the memorial requires full concentration on the wet roads. At noon, the castle and museum offer welcome breaks to briefly dry your gear. In the afternoon, strong winds at the lighthouse make cycling along the cliffs more challenging. In the evening, the tour ends at Beach X, where the stormy sea provides a dramatic backdrop for the day's end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Französisches Ehrenmal",
+                "hu": "Francia Emlékmű",
+                "ro": "Memorialul Francez",
+                "en": "French Memorial"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Asphalt; das Denkmal wirkt durch den Regenschleier besonders mystisch und friedlich am Morgen.",
+                "hu": "Ellenőrizze a fékeit a nedves aszfalton; az emlékmű az esőfüggönyön keresztül különösen misztikus és békés látványt nyújt reggel.",
+                "ro": "Verificați frânele pe asfaltul umed; monumentul pare deosebit de mistic și liniștit prin perdeaua de ploaie în cursul dimineții.",
+                "en": "Check your brakes on the wet asphalt; the monument looks particularly mystical and peaceful through the veil of morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Seddülbahir",
+                "hu": "Seddülbahir-erőd",
+                "ro": "Fortăreața Seddülbahir",
+                "en": "Seddülbahir Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer windgeschützten Mauer im Innenhof; nutzen Sie die Zeit, um sich kurz von der nasskalten Fahrt zu erholen.",
+                "hu": "Parkolja le kerékpárját egy szélvédett falnál a belső udvaron; használja ki az időt, hogy kicsit kipihenje a nyirkos, hideg tekerést.",
+                "ro": "Parcați bicicleta lângă un zid ferit de vânt în curtea interioară; profitați de timp pentru a vă recupera după drumul rece și umed.",
+                "en": "Park your bike against a wind-sheltered wall in the inner courtyard; use the time to recover briefly from the damp and chilly ride."
+              }
+            },
+            {
+              "name": {
+                "de": "1915 Seddülbahir Ahmet Uslu Museum",
+                "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+                "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+                "en": "1915 Seddülbahir Ahmet Uslu Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort zum Aufwärmen; schütteln Sie Ihre Regenjacke gut aus, bevor Sie die faszinierenden Ausstellungsstücke im Trockenen betrachten.",
+                "hu": "Ez a legjobb hely az átmelegedéshez; rázza le alaposan az esőkabátját, mielőtt megtekintené a lenyűgöző kiállítási tárgyakat a szárazban.",
+                "ro": "Acesta este cel mai bun loc pentru a vă încălzi; scuturați-vă bine pelerina de ploaie înainte de a vedea exponatele fascinante la uscat.",
+                "en": "This is the best place to warm up; shake your raincoat out well before viewing the fascinating exhibits in the dry indoor space."
+              }
+            },
+            {
+              "name": {
+                "de": "V Beach",
+                "hu": "V Beach",
+                "ro": "Plaja V",
+                "en": "V Beach"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem sandigen Untergrund, der bei Regen weich und rutschig wird; ein kurzes Foto der dramatischen Bucht reicht bei diesem Wetter aus.",
+                "hu": "Vigyázzon a homokos talajon, amely esőben felpuhul és csúszóssá válik; egy rövid fotó a drámai öbölről bőven elegendő ebben az időben.",
+                "ro": "Atenție pe solul nisipos care devine moale și alunecos pe ploaie; o scurtă fotografie a golfului dramatic este suficientă pe această vreme.",
+                "en": "Be careful on the sandy ground, which becomes soft and slick in the rain; a quick photo of the dramatic bay is plenty in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm am Kap Helles",
+                "hu": "Helles-foki világítótorony",
+                "ro": "Farul Cape Helles",
+                "en": "Cape Helles Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei den starken Böen am Kap fest; meiden Sie die unmittelbare Klippenkante wegen der erhöhten Rutschgefahr auf dem Gras.",
+                "hu": "Fogja szorosan a kormányt a foknál tapasztalható erős széllökésekben; kerülje a közvetlen sziklaszélt a füvön lévő fokozott csúszásveszély miatt.",
+                "ro": "Țineți bine ghidonul în rafalele puternice de la cap; evitați marginea falezei din cauza riscului crescut de alunecare pe iarbă.",
+                "en": "Keep a firm grip on your handlebars during the strong gusts at the cape; avoid the cliff edge due to the increased risk of slipping on the grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Lancashire Landing Cemetery",
+                "hu": "Lancashire Landing temető",
+                "ro": "Cimitirul Lancashire Landing",
+                "en": "Lancashire Landing Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am befestigten Weg ab; gehen Sie vorsichtig zu den Gräbern, da der matschige Boden Ihre Fahrradschuhe verschmutzen kann.",
+                "hu": "Állítsa le kerékpárját a kövezett úton; óvatosan menjen a sírokhoz, mivel a sáros talaj könnyen beszennyezheti a kerékpáros cipőjét.",
+                "ro": "Lăsați bicicleta pe drumul pavat; mergeți cu atenție spre morminte, deoarece solul noroios vă poate murdări ușor pantofii de ciclism.",
+                "en": "Park your bike on the paved path; walk carefully to the graves as the muddy ground can easily soil your cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach X",
+                "hu": "Beach X",
+                "ro": "Plaja X",
+                "en": "Beach X"
+              },
+              "tip_5lang": {
+                "de": "Ein kühler Abschluss der Tour; verstauen Sie Ihr Rad zügig und ziehen Sie trockene Kleidung an, um nach der nassen Fahrt nicht auszukühlen.",
+                "hu": "A túra hűvös lezárása; pakolja el gyorsan a kerékpárt és öltözzön száraz ruhába, hogy ne fázzon meg a vizes tekerés után a szeles parton.",
+                "ro": "Un final răcoros de tur; strângeți rapid bicicleta și schimbați-vă în haine uscate pentru a nu răci după drumul umed pe coasta vântoasă.",
+                "en": "A chilly conclusion to the tour; pack up your bike quickly and change into dry clothes to avoid catching a cold after the wet ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens leuchtet das Ehrenmal in der klaren Winterluft, doch der Fahrtwind ist eisig. Mittags ist das Museum der ideale Ort, um die gefühllosen Finger wieder aufzuwärmen. Nachmittags sollten Sie den Leuchtturm zügig ansteuern, da das Licht bereits ab 16:30 Uhr schwindet. Abends erreichen Sie den Beach X in der Dämmerung; packen Sie rechtzeitig ein, bevor die Temperatur unter den Gefrierpunkt sinkt.",
+            "hu": "Reggel az emlékmű ragyog a tiszta téli levegőben, de a menetszél jeges. Napközben a múzeum az ideális hely, hogy felmelegítse elgémberedett ujjait. Délután érdemes tempósan a világítótorony felé haladni, mivel a fények már 16:30 után fogyni kezdenek. Este a Beach X-et már szürkületben éri el; pakoljon össze időben, mielőtt a hőmérséklet fagypont alá süllyedne.",
+            "ro": "Dimineața, memorialul strălucește în aerul curat de iarnă, dar vântul este tăios. La prânz, muzeul este locul ideal pentru a vă încălzi degetele amorțite. După-amiaza, îndreptați-vă rapid spre far, deoarece lumina începe să scadă după ora 16:30. Seara, veți ajunge la Beach X în amurg; strângeți echipamentul înainte ca temperatura să scadă sub îngheț.",
+            "en": "In the morning, the memorial shines in the clear winter air, but the wind chill is icy. At noon, the museum is the ideal place to warm up your numb fingers. In the afternoon, head quickly towards the lighthouse as the light begins to fade after 4:30 PM. In the evening, you reach Beach X at twilight; pack up in time before the temperature drops below freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Französisches Ehrenmal",
+                "hu": "Francia Emlékmű",
+                "ro": "Memorialul Francez",
+                "en": "French Memorial"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Winterhandschuhe für die Anfahrt; die tiefe Sonne sorgt für lange, dramatische Schatten auf dem Denkmal und hervorragende Fotos.",
+                "hu": "Viseljen vastag téli kesztyűt az idevezető úton; az alacsonyan járó nap hosszú, drámai árnyékokat vet az emlékműre, ami remek fotótéma.",
+                "ro": "Purtați mănuși groase de iarnă pentru drum; soarele jos proiectează umbre lungi și dramatice pe monument, oferind oportunități foto excelente.",
+                "en": "Wear thick winter gloves for the ride here; the low sun casts long, dramatic shadows on the monument, making for excellent photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Seddülbahir",
+                "hu": "Seddülbahir-erőd",
+                "ro": "Fortăreața Seddülbahir",
+                "en": "Seddülbahir Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern sind im Winter sehr kalt; meiden Sie längere Standzeiten und bleiben Sie in Bewegung, während Sie die beeindruckende Anlage erkunden.",
+                "hu": "A kőfalak télen nagyon hidegek; kerülje a hosszabb egy helyben állást, és maradjon mozgásban, miközben felfedezi a lenyűgöző erődítményt.",
+                "ro": "Zidurile de piatră sunt foarte reci iarna; evitați să stați mult timp într-un loc și rămâneți în mișcare în timp ce explorați fortificația.",
+                "en": "The stone walls are very cold in winter; avoid standing still for too long and keep moving while you explore the impressive fortification."
+              }
+            },
+            {
+              "name": {
+                "de": "1915 Seddülbahir Ahmet Uslu Museum",
+                "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+                "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+                "en": "1915 Seddülbahir Ahmet Uslu Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für dieses beheizte Highlight; es ist die perfekte Gelegenheit, um neue Energie für die kältere Nachmittagsetappe zu tanken.",
+                "hu": "Használja ki a délidőt erre a fűtött látnivalóra; ez a tökéletes alkalom, hogy újult erővel vágjon neki a hűvösebb délutáni szakasznak.",
+                "ro": "Profitați de timpul amiezii pentru acest obiectiv încălzit; este ocazia perfectă pentru a vă reîncărca bateriile pentru etapa mai rece de după-amiază.",
+                "en": "Take advantage of the midday hour for this heated highlight; it is the perfect opportunity to recharge for the colder afternoon stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "V Beach",
+                "hu": "V Beach",
+                "ro": "Plaja V",
+                "en": "V Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer; ein kurzer Stopp reicht aus, da die feuchte Meeresbrise Ihre Kleidung schnell auskühlen lässt.",
+                "hu": "A tengerpart télen teljesen néptelen; egy rövid megálló is elég, mivel a nyirkos tengeri szélben a ruházata gyorsan lehűlhet a pihenő alatt.",
+                "ro": "Plaja este complet pustie iarna; o scurtă oprire este suficientă, deoarece briza umedă a mării vă poate răci rapid hainele în timpul pauzei.",
+                "en": "The beach is completely deserted in winter; a short stop is enough, as the damp sea breeze can quickly chill your clothing during a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm am Kap Helles",
+                "hu": "Helles-foki világítótorony",
+                "ro": "Farul Cape Helles",
+                "en": "Cape Helles Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Wegen zum Kap; die Fernsicht ist im Winter oft glasklar und reicht bis zu den fernen Inseln.",
+                "hu": "Ügyeljen a jegesedésre a fokhoz vezető árnyékos utakon; a téli látótávolság gyakran kristálytiszta, egészen a távoli szigetekig ellátni.",
+                "ro": "Fiți atenți la gheață pe drumurile umbrite spre cap; vizibilitatea iarna este adesea de cristal, permițându-vă să vedeți până la insulele îndepărtate.",
+                "en": "Watch out for icy patches on the shaded paths to the cape; winter visibility is often crystal clear, allowing you to see all the way to distant islands."
+              }
+            },
+            {
+              "name": {
+                "de": "Lancashire Landing Cemetery",
+                "hu": "Lancashire Landing temető",
+                "ro": "Cimitirul Lancashire Landing",
+                "en": "Lancashire Landing Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Fahrradbeleuchtung, bevor die Dämmerung einsetzt; die Stille des Friedhofs wirkt in der kalten Winterluft besonders andächtig.",
+                "hu": "Ellenőrizze a kerékpárlámpákat, mielőtt beáll a szürkület; a temető csendje a hideg téli levegőben különösen áhítatosnak tűnik.",
+                "ro": "Verificați luminile bicicletei înainte de lăsarea amurgului; liniștea cimitirului pare deosebit de pioasă în aerul rece de iarnă.",
+                "en": "Check your bike lights before twilight sets in; the cemetery's silence feels especially reverent and peaceful in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach X",
+                "hu": "Beach X",
+                "ro": "Plaja X",
+                "en": "Beach X"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, bevor die Bodenfrostgefahr steigt; die Rückfahrt sollte bei Tageslicht oder mit sehr guter Beleuchtung erfolgen.",
+                "hu": "Zárja a túrát tempósan, mielőtt megnő a talajmenti fagy veszélye; a visszautat még világosban vagy kiváló világítással tegye meg.",
+                "ro": "Încheiați turul rapid înainte de a crește riscul de îngheț la sol; drumul de întoarcere trebuie făcut pe lumină sau cu iluminare excelentă.",
+                "en": "Finish the tour briskly before the risk of ground frost increases; the return journey should be made in daylight or with excellent lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje a napot a Beach S partján, mielőtt meglátogatná a lenyűgöző Francia Emlékművet. Vezessen be Seddülbahir központjába, hogy felfedezze a múzeumot és a történelmi erődítményt. Délután vegye az irányt a híres Helles-foki világítótorony felé. A napot kényelmesen, a festői Beach W és Beach X nyugalmat árasztó partszakaszain zárhatja le.",
         "ro": "Începeți confortabil la Beach S, înainte de a vizita maiestuosul Memorial Francez. Conduceți spre centrul Seddülbahir pentru a explora muzeul și fortificațiile istorice. După-amiaza, îndreptați-vă spre farul marcant de la Cape Helles. Încheiați-vă ziua de explorare relaxându-vă pe porțiunile pitorești de coastă ale plajelor Beach W și Beach X.",
         "en": "Start comfortably at Beach S before visiting the majestic French Memorial overlooking the strait. Drive into the center of Seddülbahir to explore the museum and the historic castle ruins. In the afternoon, head towards the prominent Cape Helles Lighthouse. Conclude your day relaxing by the picturesque coastal stretches of Beach W and Beach X."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie den Blick auf Beach S trocken aus dem Wagen, während der Regen auf das Dach prasselt. Mittags sind das Museum und die Burg ideale Ziele, um das Auto für längere Zeit zu verlassen. Nachmittags bietet die Fahrt zum Leuchtturm dramatische Ausblicke auf die aufgewühlte See. Abends beschließt ein kurzer Halt an Beach X den Tag, bevor Sie bei eingeschaltetem Licht die Rückreise antreten.",
+            "hu": "Reggel a Beach S látványát az autó száraz kényelméből élvezheti, miközben az eső a tetőn kopog. Napközben a múzeum és a vár ideális úti célok, ahol hosszabb időre is kiszállhat az autóból. Délután a világítótorony felé vezető út drámai kilátást nyújt a felkavart tengerre. Este egy rövid megálló a Beach X-nél zárja a napot, mielőtt felkapcsolt fényszórókkal elindulna visszafelé.",
+            "ro": "Dimineața, bucurați-vă de vederea spre Beach S din confortul mașinii în timp ce ploaia bate în plafon. La prânz, muzeul și cetatea sunt destinații ideale pentru a coborî din mașină mai mult timp. După-amiaza, drumul spre far oferă vederi dramatice asupra mării agitate. Seara, o scurtă oprire la Beach X încheie ziua înainte de a porni la drumul de întoarcere cu farurile aprinse.",
+            "en": "In the morning, enjoy the view of Beach S from the dry comfort of your car as rain pitter-patters on the roof. At noon, the museum and castle are ideal destinations to leave the car for an extended visit. In the afternoon, the drive to the lighthouse offers dramatic views of the churning sea. In the evening, a short stop at Beach X ends the day before heading back with your headlights on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Beach S",
+                "hu": "Beach S",
+                "ro": "Plaja S",
+                "en": "Beach S"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf die Brandung; genießen Sie das Panorama durch die Scheiben, während die Scheibenwischer den Regen beiseite schieben.",
+                "hu": "Parkoljon le a hullámverésre néző kilátással; élvezze a panorámát az üvegen keresztül, miközben az ablaktörlők félretolják az esőt.",
+                "ro": "Parcați cu vedere spre valuri; bucurați-vă de panoramă prin geam în timp ce ștergătoarele îndepărtează ploaia constantă.",
+                "en": "Park with a view of the surf; enjoy the panorama through the windows as the wipers clear away the constant falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Ehrenmal",
+                "hu": "Francia Emlékmű",
+                "ro": "Memorialul Francez",
+                "en": "French Memorial"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Denkmal reicht aus; der weiße Stein leuchtet auch unter wolkenverhangenem Himmel im Regen sehr hell.",
+                "hu": "Egy rövid sprint a parkolótól az emlékműig elegendő; a fehér kőfalak még a felhős égbolt alatt, esőben is fehéren világítanak a tájban.",
+                "ro": "Un scurt sprint de la parcare la monument este suficient; piatra albă strălucește puternic în peisaj chiar și sub cerul noros pe ploaie.",
+                "en": "A quick sprint from the car to the monument is all you need; the white stone glows brightly in the landscape even under a cloudy rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "1915 Seddülbahir Ahmet Uslu Museum",
+                "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+                "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+                "en": "1915 Seddülbahir Ahmet Uslu Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine ausgiebige Pause im Trockenen; es gibt Parkmöglichkeiten in unmittelbarer Nähe zum Museumseingang.",
+                "hu": "Használja ki ezt a megállót egy bőséges, száraz pihenőre; közvetlenül a múzeum bejárata mellett is találhat parkolási lehetőséget a vizes időben.",
+                "ro": "Profitați de această oprire pentru o pauză prelungită la uscat; există locuri de parcare chiar lângă intrarea în muzeu, ideale pe vreme umedă.",
+                "en": "Take advantage of this stop for an extensive dry break; you can find parking spaces right next to the museum entrance in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Seddülbahir",
+                "hu": "Seddülbahir-erőd",
+                "ro": "Fortăreața Seddülbahir",
+                "en": "Seddülbahir Castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Verlassen des Wagens festes Schuhwerk; die Wege zwischen Parkplatz und Ruinen können bei Dauerregen recht rutschig sein.",
+                "hu": "Viseljen strapabíró cipőt, amikor kiszáll az autóból; a parkoló és a romok közötti ösvények a tartós esőben meglehetősen csúszósak lehetnek.",
+                "ro": "Purtați încălțăminte rezistentă când coborâți din mașină; potecile dintre parcare și ruine pot fi destul de alunecoase din cauza ploii persistente.",
+                "en": "Wear sturdy shoes when you get out of the car; the paths between the parking area and the ruins can be quite slippery in persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm am Kap Helles",
+                "hu": "Helles-foki világítótorony",
+                "ro": "Farul Cape Helles",
+                "en": "Cape Helles Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man eine hervorragende Sicht auf den Turm; achten Sie beim Öffnen der Türen auf den starken Wind, der oft am Kap herrscht.",
+                "hu": "Az autóból kiváló kilátás nyílik a toronyra; ügyeljen az ajtók kinyitásakor, mert a foknál gyakran fúj az eső mellé társuló erős szél.",
+                "ro": "Există o vedere excelentă spre turn din mașină; aveți grijă la deschiderea portierelor, deoarece la cap vântul bate adesea cu putere pe ploaie.",
+                "en": "There is an excellent view of the tower from the car; be careful when opening the doors, as a strong wind often accompanies the rain at the cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach W",
+                "hu": "Beach W",
+                "ro": "Plaja W",
+                "en": "Beach W"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; bleiben Sie auf den befestigten Abschnitten und genießen Sie die tosende Brandung gemütlich vom Fahrersitz aus.",
+                "hu": "A lehajtó sáros lehet; maradjon a kövezett szakaszokon, és élvezze a zúgó hullámverést kényelmesen, közvetlenül a vezetőülésből.",
+                "ro": "Drumul de acces poate fi noroios; rămâneți pe secțiunile pavate și bucurați-vă de valurile zgomotoase confortabil, direct de la volan.",
+                "en": "The access road can be muddy; stay on the paved sections and enjoy the roaring surf comfortably, directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach X",
+                "hu": "Beach X",
+                "ro": "Plaja X",
+                "en": "Beach X"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf das Meer durch die regennassen Scheiben; prüfen Sie vor der Rückfahrt Ihre Beleuchtung und die Sichtverhältnisse.",
+                "hu": "Utolsó pillantás a tengerre az eső áztatta szélvédőn keresztül; visszaindulás előtt ellenőrizze a fényszórókat és a látási viszonyokat.",
+                "ro": "O ultimă privire spre mare prin parbrizul ud de ploaie; înainte de plecare, verificați farurile și condițiile de vizibilitate.",
+                "en": "A final glance at the sea through the rain-streaked windshield; check your headlights and visibility conditions before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die winterliche Fahrt zum Kap Helles klare Sichtweiten und Panoramen vom warmen Innenraum aus. Mittags laden das Museum und die Burg zu Besichtigungen ein, bei denen Sie sich zwischendurch aufwärmen können. Nachmittags beleuchtet die tiefstehende Sonne den Leuchtturm in warmen Farben, bevor es um 17:00 Uhr dunkelt. Abends beenden Sie die Tour an Beach X und genießen die friedliche Winterstille an der Küste.",
+            "hu": "Reggel a téli autózás a Helles-fokhoz tiszta kilátást és panorámát kínál a meleg utastérből. Napközben a múzeum és a vár látogatása közben van lehetőség az átmelegedésre a történelmi falak között. Délután az alacsonyan járó nap meleg színekkel világítja meg a világítótoronyt, mielőtt 17:00-kor besötétedik. Este a túrát a Beach X-nél zárja, élvezve a tengerpart békés téli csendjét.",
+            "ro": "Dimineața, drumul de iarnă spre Cape Helles oferă vizibilitate clară și panorame superbe din interiorul cald al mașinii. La prânz, vizitarea muzeului și a cetății permite încălzirea periodică între obiective. După-amiaza, soarele jos luminează farul în culori calde înainte de lăsarea întunericului la ora 17:00. Seara, încheiați turul la Beach X, savurând liniștea pașnică de iarnă a coastei.",
+            "en": "In the morning, the winter drive to Cape Helles offers clear visibility and panoramas from the warm interior of the car. At noon, visiting the museum and castle allows for periodic warming up between sights. In the afternoon, the low sun illuminates the lighthouse in warm colors before it gets dark at 5:00 PM. In the evening, conclude the tour at Beach X, enjoying the peaceful winter silence of the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Beach S",
+                "hu": "Beach S",
+                "ro": "Plaja S",
+                "en": "Beach S"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das Ägäische Meer; die Heizung im Wagen sorgt für Behaglichkeit, während draußen der eisige Wind über den Strand fegt.",
+                "hu": "Élvezze a tágas kilátást az Égei-tengerre; az autó fűtése kellemes meleget ad, miközben odakint a jeges szél söpör végig a néptelen tengerparton.",
+                "ro": "Bucurați-vă de vederea largă spre Marea Egee; încălzirea mașinii oferă confort în timp ce afară vântul înghețat mătură plaja pustie.",
+                "en": "Enjoy the expansive view of the Aegean Sea; the car's heater provides comfort while the icy wind sweeps across the deserted beach outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Ehrenmal",
+                "hu": "Francia Emlékmű",
+                "ro": "Memorialul Francez",
+                "en": "French Memorial"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um die Zeit im kalten Wind zu minimieren; das Denkmal wirkt in der klaren Winterluft besonders scharf und majestätisch.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy minimalizálja a hideg szélben töltött időt; az emlékmű a tiszta téli levegőben különösen éles és fenséges.",
+                "ro": "Parcați chiar la intrare pentru a minimiza timpul petrecut în vântul rece; monumentul pare deosebit de clar și maiestuos în aerul curat de iarnă.",
+                "en": "Park right at the entrance to minimize time spent in the cold wind; the monument looks particularly sharp and majestic in the clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "1915 Seddülbahir Ahmet Uslu Museum",
+                "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+                "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+                "en": "1915 Seddülbahir Ahmet Uslu Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen in beheizter Umgebung; prüfen Sie vor der Weiterfahrt den Reifendruck, da dieser bei Kälte oft deutlich absinkt.",
+                "hu": "Ideális hely az átmelegedéshez fűtött környezetben; továbbindulás előtt ellenőrizze a guminyomást, mivel az a hidegben gyakran jelentősen visszaesik.",
+                "ro": "Un loc ideal pentru încălzire într-un mediu cu temperatură controlată; verificați presiunea în anvelope, deoarece scade adesea semnificativ la frig.",
+                "en": "An ideal spot for warming up in a heated environment; check your tire pressure before continuing, as it often drops significantly in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Seddülbahir",
+                "hu": "Seddülbahir-erőd",
+                "ro": "Fortăreața Seddülbahir",
+                "en": "Seddülbahir Castle"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto am Haupttor stehen; die dicken Mauern bieten Schutz vor Böen, aber ziehen Sie sich für den Rundgang trotzdem sehr warm an.",
+                "hu": "Hagyja az autót a főkapunál; a vastag falak védelmet nyújtanak a széllökések ellen, de a séta idejére öltözzön fel nagyon melegen a hűvös udvarok miatt.",
+                "ro": "Lăsați mașina la poarta principală; zidurile groase oferă protecție împotriva rafalelor, dar îmbrăcați-vă foarte bine pentru turul curților reci.",
+                "en": "Leave the car at the main gate; the thick walls provide protection from gusts, but dress very warmly for the tour of the chilly courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm am Kap Helles",
+                "hu": "Helles-foki világítótorony",
+                "ro": "Farul Cape Helles",
+                "en": "Cape Helles Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Das Kap ist im Winter extrem windig; genießen Sie die Aussicht auf die Dardanellen am besten durch das geschlossene und beheizte Autofenster.",
+                "hu": "A foknál télen rendkívül erős szél fúj; a Dardanellákra nyíló kilátást érdemesebb a zárt és fűtött autóablak mögül, kellemes melegben csodálni.",
+                "ro": "La cap bate un vânt extrem de puternic iarna; admirați vederea spre Dardanele mai bine prin geamul închis și încălzit al mașinii.",
+                "en": "The cape is extremely windy in winter; enjoy the view of the Dardanelles best through the closed and heated windows of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach W",
+                "hu": "Beach W",
+                "ro": "Plaja W",
+                "en": "Beach W"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter oft kraftvoller; ein kurzer Halt am Parkplatz bietet tolle Motive für Fotos bei angenehmer Innentemperatur im Wagen.",
+                "hu": "A hullámverés télen gyakran erőteljesebb; egy rövid megálló a parkolóban remek fotótémát kínál az autó kellemes belső hőmérsékletéből.",
+                "ro": "Valurile sunt adesea mai puternice iarna; o scurtă oprire în parcare oferă subiecte foto excelente din interiorul cald al mașinii.",
+                "en": "The surf is often more powerful in winter; a quick stop in the parking area offers great photo opportunities from the pleasant warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach X",
+                "hu": "Beach X",
+                "ro": "Plaja X",
+                "en": "Beach X"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour rechtzeitig vor 17:00 Uhr; die Rückfahrt bei Dunkelheit auf den engen Küstenstraßen erfordert erhöhte Konzentration am Steuer.",
+                "hu": "Zárja a napot időben, lehetőleg 17:00 előtt; a sötétben való visszavezetés a szűk tengerparti utakon fokozott koncentrációt igényel a sofőrtől.",
+                "ro": "Încheiați ziua la timp, preferabil înainte de ora 17:00; condusul pe întuneric pe drumurile înguste de coastă necesită o concentrare sporită.",
+                "en": "End your day in good time, preferably before 5:00 PM; driving back in the dark on narrow coastal roads requires extra concentration behind the wheel."
+              }
+            }
+          ]
+        }
       }
     }
   }

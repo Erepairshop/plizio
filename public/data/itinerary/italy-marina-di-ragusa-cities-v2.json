@@ -137,6 +137,168 @@
         "hu": "A reggel a helyi közösség szívében, a templomnál indul, majd a történelmi védőtorony következik. A delet egy pezsgő strandklubban tölthetjük hűsítő italok társaságában. A délután további pihentető tengerparti pillanatokat és kristálytiszta vizes fürdőzést tartogat. Az estét a festői öbölből megcsodált naplemente zárja tökéletes nyugalommal.",
         "ro": "Dimineața începe în inima comunității la biserica locală, trecând rapid la turnul istoric de apărare. Prânzul este petrecut relaxându-vă la un club de plajă animat. După-amiaza continuă cu mai multe momente liniștite pe plajă și înot în ape limpezi. Seara aduce o încheiere pașnică, privind apusul din golful pitoresc.",
         "en": "Morning starts at the heart of the community by the elegant local church, quickly moving to the historic defense tower. Midday is spent unwinding at a lively beach club with refreshing drinks. The afternoon continues with more relaxing beachside moments and swimming in pristine waters. The evening brings a peaceful conclusion watching the sunset from the scenic bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem Regenschirm im Zentrum. Suchen Sie mittags Schutz in Küstencafés, um das stürmische Meer zu beobachten. Spazieren Sie nachmittags im Nieselregen die Promenade entlang. Wärmen Sie sich abends drinnen auf, da die Straßen sehr nass und ungemütlich werden.",
+            "hu": "Reggel esernyővel a kézben fedezd fel a központot. Délben keress egy tengerparti kávézót, és nézd a hullámokat a melegből. Délután tegyél egy rövid sétát a szitáló esőben a sétányon. Este húzódj be egy hangulatos fedett helyre, hogy megszáradj.",
+            "ro": "Începeți dimineața cu o umbrelă, explorând centrul. La prânz, adăpostiți-vă în cafenelele de coastă pentru a privi marea furtunoasă. După-amiaza, plimbați-vă pe faleză în ploaia măruntă. Seara, încălziți-vă în interior pentru a evita drumurile umede.",
+            "en": "Start your morning under an umbrella, exploring the center. At noon, seek shelter in coastal cafes to watch the rainy sea from inside. In the afternoon, brave the drizzle along the promenade. By evening, warm up indoors as the rainy coastal night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria di Porto Salvo",
+                "hu": "Santa Maria di Porto Salvo",
+                "ro": "Santa Maria di Porto Salvo",
+                "en": "Santa Maria di Porto Salvo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und Geschichte der Kirche. Ein toller trockener Ort, aber halten Sie den Schirm am Eingang bereit!",
+                "hu": "Csodáld meg a templom építészetét és történelmét. Kiváló száraz menedék, de az esernyőt tartsd kéznél a bejáratnál!",
+                "ro": "Admirați arhitectura bisericii și istoria locală. Este un loc uscat excelent, dar țineți umbrela la îndemână la intrare!",
+                "en": "Admire the church architecture and learn local history. It's a great dry spot, but keep your umbrella handy at the entrance!"
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cabrera",
+                "hu": "Torre Cabrera",
+                "ro": "Torre Cabrera",
+                "en": "Torre Cabrera"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den majestätischen Küstenverteidigungsturm. Die Steine werden bei Regen sehr rutschig, also treten Sie vorsichtig auf.",
+                "hu": "Nézd meg a fenséges partvédelmi tornyot. A környező kövek nagyon csúszósak az esőben, ezért lépkedj óvatosan és maradj szárazon.",
+                "ro": "Priviți maiestuosul turn de apărare. Pietrele din jur devin foarte alunecoase în ploaie, deci pășiți cu grijă și adăpostiți-vă.",
+                "en": "View the majestic coastal defense tower. The surrounding stones get very slippery in the rain, so step carefully and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Margarita",
+                "hu": "Lido Margarita",
+                "ro": "Lido Margarita",
+                "en": "Lido Margarita"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische, stürmische Meer. Einrichtungen könnten geschlossen sein, bringen Sie also wasserfeste Kleidung mit.",
+                "hu": "Figyeld a drámai, viharos tengert a partról. A létesítmények zárva lehetnek, ezért viselj vízálló ruházatot és stabil cipőt.",
+                "ro": "Priviți marea dramatică și furtunoasă. Facilitățile pot fi închise, așa că aduceți echipament impermeabil și cizme rezistente.",
+                "en": "Watch the dramatic, stormy sea from the shoreline. Facilities might be closed, so bring waterproof gear and wear sturdy boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Boga Mare",
+                "hu": "Boga Mare",
+                "ro": "Boga Mare",
+                "en": "Boga Mare"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie am nassen Sand entlang und genießen Sie den Regen. Achten Sie auf rutschige Holzwege und tragen Sie eine Regenjacke.",
+                "hu": "Sétálj a nedves homokon és élvezd az esőcseppek hangját. Vigyázz a csúszós fapallókkal, és húzd össze az esőkabátodat.",
+                "ro": "Plimbați-vă pe nisipul umed și ascultați ploaia. Atenție la trotuarele de lemn alunecoase și purtați o haină de ploaie.",
+                "en": "Walk along the wet sand and enjoy the sound of the rain hitting the waves. Be careful of slippery boardwalks and wear a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia del Sole",
+                "hu": "Baia del Sole",
+                "ro": "Baia del Sole",
+                "en": "Baia del Sole"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stimmungsvolle Küste. Suchen Sie sich am besten eine überdachte Terrasse, um die Aussicht geschützt zu genießen.",
+                "hu": "Csodáld meg a hangulatos partvonalat a szürke ég alatt. Érdemes egy közeli fedett teraszt keresni a biztonságos kilátáshoz.",
+                "ro": "Admirați coasta melancolică sub cerul gri. Este mai bine să căutați o terasă acoperită pentru a vă bucura de vedere în siguranță.",
+                "en": "Admire the moody coastline under the gray sky. It's best to seek a nearby covered terrace to enjoy the sea view safely from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen frischen Morgenspaziergang. Mittags wärmt die Wintersonne die leeren Strände wunderbar auf. Erkunden Sie nachmittags warm angezogen die Küste. Die Sonne geht früh gegen 17:00 Uhr unter, was einen klaren und kühlen Abend verspricht.",
+            "hu": "Élvezd a friss reggeli sétát a csendes utcákon. Délben a téli nap szépen felmelegíti az üres strandokat. Délután rétegesen öltözve fedezd fel a partot. A nap már 17:00 körül lenyugszik, ami hűvös, romantikus estét ígér.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă pe străzile liniștite. La prânz, soarele de iarnă încălzește plajele goale. După-amiaza, explorați coasta îmbrăcați gros. Soarele apune devreme pe la 17:00, oferind o seară clară și rece.",
+            "en": "Enjoy a brisk morning walk through the quiet streets. By noon, the winter sun warms the empty beaches beautifully. Spend the afternoon exploring the coastline bundled up in layers. The sun sets early around 17:00, making for a crisp evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria di Porto Salvo",
+                "hu": "Santa Maria di Porto Salvo",
+                "ro": "Santa Maria di Porto Salvo",
+                "en": "Santa Maria di Porto Salvo"
+              },
+              "tip_5lang": {
+                "de": "Das schöne Kircheninnere bietet einen friedlichen Rückzugsort. Die dicken Wände halten die Winterkälte ab, während Sie schauen.",
+                "hu": "A gyönyörű templombelső békés menedéket nyújt. A vastag falak kint tartják a téli hideget, miközben megcsodálod a részleteket.",
+                "ro": "Interiorul frumos al bisericii oferă un refugiu liniștit. Pereții groși țin frigul de iarnă departe în timp ce admirați detaliile.",
+                "en": "The beautiful church interior offers a peaceful retreat. The thick walls keep the winter chill out while you admire the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cabrera",
+                "hu": "Torre Cabrera",
+                "ro": "Torre Cabrera",
+                "en": "Torre Cabrera"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Turm wirkt in der klaren Winterluft beeindruckend. Ziehen Sie sich warm an, da der Seewind hier stark weht.",
+                "hu": "Ez a történelmi torony lenyűgöző a friss téli levegőben. Öltözz melegen, mert a tengeri szél erősen fúj az ősi falaknál.",
+                "ro": "Acest turn istoric arată impresionant în aerul rece de iarnă. Îmbrăcați-vă gros, deoarece briza mării este puternică aici.",
+                "en": "This historic tower looks striking in the crisp winter air. Dress warmly, as the sea breeze hits hard near the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Margarita",
+                "hu": "Lido Margarita",
+                "ro": "Lido Margarita",
+                "en": "Lido Margarita"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige Schönheit des verlassenen Winterstrandes. Tragen Sie winddichte Schichten gegen die steife Brise.",
+                "hu": "Tapasztald meg az elhagyatott téli strand békés szépségét. Viselj szélálló rétegeket, mert a partmenti szél meglehetősen csípős.",
+                "ro": "Experimentați frumusețea senină a plajei pustii de iarnă. Purtați straturi rezistente la vânt, deoarece briza este tăioasă.",
+                "en": "Experience the serene beauty of the deserted winter beach. Wear windproof layers, as the coastal breeze is quite piercing here."
+              }
+            },
+            {
+              "name": {
+                "de": "Boga Mare",
+                "hu": "Boga Mare",
+                "ro": "Boga Mare",
+                "en": "Boga Mare"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang im kalten Sand. Die Sonne geht früh unter, genießen Sie also warm eingepackt das Nachmittagslicht.",
+                "hu": "Tegyél egy frissítő sétát a hideg homokon. A nap korán nyugszik, így rétegesen felöltözve élvezd az aranykori délutáni fényeket.",
+                "ro": "Faceți o plimbare revigorantă pe nisipul rece. Soarele apune devreme, așa că bucurați-vă de lumina după-amiezii îmbrăcați gros.",
+                "en": "Take a brisk walk on the cold sand to clear your mind. The sun sets early, so enjoy the golden afternoon light while bundled up."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia del Sole",
+                "hu": "Baia del Sole",
+                "ro": "Baia del Sole",
+                "en": "Baia del Sole"
+              },
+              "tip_5lang": {
+                "de": "Die brechenden Winterwellen bieten ein Naturschauspiel. Halten Sie die Hände in den Taschen warm, da die Temperatur schnell sinkt.",
+                "hu": "A hatalmas téli hullámok látványos természeti műsort kínálnak. Tartsd a kezed a zsebedben melegen, mert a hőmérséklet gyorsan esik.",
+                "ro": "Valurile de iarnă oferă un spectacol natural impresionant. Țineți mâinile la cald în buzunare, deoarece temperatura scade rapid.",
+                "en": "The crashing winter waves provide a spectacular natural show. Keep your hands warm in your pockets as the temperature drops quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Indítsa a reggelt a tengeri szellővel egy népszerű strandon, mielőtt a város történelmi tornyához és templomához tekerne. A dél a nyüzsgő tengerparti strandok felfedezéséről szól. Délután egy újabb prémium strandklubban hűsölhet a tengerben. Az este a nyári vidámparkba vezeti, ahol gondtalan szórakozás és játékok várják.",
         "ro": "Începeți dimineața prinzând soarele și briza mării la un lido popular, înainte de a pedala spre turnul și biserica istorică. Prânzul este despre explorarea cluburilor de pe coasta vibrantă. După-amiaza, bucurați-vă de un alt club premium pentru a vă răcori. Seara vă aduce la parcul de distracții de vară pentru relaxare și jocuri.",
         "en": "Kick off the morning catching the early sun and sea breeze at a popular lido before pedaling towards the town's historic tower and central church. Midday is all about beach-hopping along the vibrant coast. In the afternoon, enjoy another premium beach club to cool off in the sea. Evening brings you to the summer amusement park for lighthearted fun and rides."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt vorsichtig. Machen Sie mittags Pausen in überdachten Cafés, um sich aufzuwärmen. Achten Sie nachmittags auf rutschige Radwege. Stellen Sie das Fahrrad abends früh ab und bleiben Sie drinnen.",
+            "hu": "Kezdd óvatosan az esős kerékpározást a parton. Délben tarts pihenőt egy fedett kávézóban. Délután ügyelj a csúszós kerékpárutakra a szitáló esőben. Este tedd le a biciklit, és húzódj be egy meleg, száraz helyre.",
+            "ro": "Începeți plimbarea ploioasă cu grijă pe coastă. La prânz, faceți pauze în cafenele acoperite. După-amiaza, atenție la pistele de biciclete alunecoase. Seara plouă, așa că lăsați bicicleta și stați la interior.",
+            "en": "Start your rainy ride carefully along the coast. By noon, take breaks under sheltered cafes to dry off. In the afternoon, watch out for slippery bike paths. Evening falls with rain, so park your bike early and stay indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lido La Ola",
+                "hu": "Lido La Ola",
+                "ro": "Lido La Ola",
+                "en": "Lido La Ola"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische, stürmische Meer. Einrichtungen könnten geschlossen sein, bringen Sie also wasserfeste Kleidung mit.",
+                "hu": "Figyeld a drámai, viharos tengert a partról. A létesítmények zárva lehetnek, ezért viselj vízálló ruházatot és stabil cipőt.",
+                "ro": "Priviți marea dramatică și furtunoasă. Facilitățile pot fi închise, așa că aduceți echipament impermeabil și cizme rezistente.",
+                "en": "Watch the dramatic, stormy sea from the shoreline. Facilities might be closed, so bring waterproof gear and wear sturdy boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria di Porto Salvo",
+                "hu": "Santa Maria di Porto Salvo",
+                "ro": "Santa Maria di Porto Salvo",
+                "en": "Santa Maria di Porto Salvo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und Geschichte der Kirche. Ein toller trockener Ort, aber halten Sie den Schirm am Eingang bereit!",
+                "hu": "Csodáld meg a templom építészetét és történelmét. Kiváló száraz menedék, de az esernyőt tartsd kéznél a bejáratnál!",
+                "ro": "Admirați arhitectura bisericii și istoria locală. Este un loc uscat excelent, dar țineți umbrela la îndemână la intrare!",
+                "en": "Admire the church architecture and learn local history. It's a great dry spot, but keep your umbrella handy at the entrance!"
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cabrera",
+                "hu": "Torre Cabrera",
+                "ro": "Torre Cabrera",
+                "en": "Torre Cabrera"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den majestätischen Küstenverteidigungsturm. Die Steine werden bei Regen sehr rutschig, also treten Sie vorsichtig auf.",
+                "hu": "Nézd meg a fenséges partvédelmi tornyot. A környező kövek nagyon csúszósak az esőben, ezért lépkedj óvatosan és maradj szárazon.",
+                "ro": "Priviți maiestuosul turn de apărare. Pietrele din jur devin foarte alunecoase în ploaie, deci pășiți cu grijă și adăpostiți-vă.",
+                "en": "View the majestic coastal defense tower. The surrounding stones get very slippery in the rain, so step carefully and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Margarita",
+                "hu": "Lido Margarita",
+                "ro": "Lido Margarita",
+                "en": "Lido Margarita"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die grauen Wellen. Es ist am besten, auf dem Radweg zu bleiben und eine überdachte Pause einzulegen.",
+                "hu": "Nézd a szürke hullámokat. Legjobb a kerékpárúton maradni, és egy közeli fedett helyen megpihenni az eső elől.",
+                "ro": "Priviți valurile gri. Este cel mai bine să rămâneți pe pista de biciclete și să faceți o pauză acoperită.",
+                "en": "Watch the gray waves crash on the shore. It's best to stick to the bike path and find a nearby covered spot to rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Boga Mare",
+                "hu": "Boga Mare",
+                "ro": "Boga Mare",
+                "en": "Boga Mare"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie am nassen Sand entlang und genießen Sie den Regen. Achten Sie auf rutschige Holzwege und tragen Sie eine Regenjacke.",
+                "hu": "Sétálj a nedves homokon és élvezd az esőcseppek hangját. Vigyázz a csúszós fapallókkal, és húzd össze az esőkabátodat.",
+                "ro": "Plimbați-vă pe nisipul umed și ascultați ploaia. Atenție la trotuarele de lemn alunecoase și purtați o haină de ploaie.",
+                "en": "Walk along the wet sand and enjoy the sound of the rain hitting the waves. Be careful of slippery boardwalks and wear a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia del Sole",
+                "hu": "Baia del Sole",
+                "ro": "Baia del Sole",
+                "en": "Baia del Sole"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stimmungsvolle Küste. Suchen Sie sich am besten eine überdachte Terrasse, um die Aussicht geschützt zu genießen.",
+                "hu": "Csodáld meg a hangulatos partvonalat a szürke ég alatt. Érdemes egy közeli fedett teraszt keresni a biztonságos kilátáshoz.",
+                "ro": "Admirați coasta melancolică sub cerul gri. Este mai bine să căutați o terasă acoperită pentru a vă bucura de vedere în siguranță.",
+                "en": "Admire the moody coastline under the gray sky. It's best to seek a nearby covered terrace to enjoy the sea view safely from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di divertimento (estivo)",
+                "hu": "Parco di divertimento (estivo)",
+                "ro": "Parco di divertimento (estivo)",
+                "en": "Parco di divertimento (estivo)"
+              },
+              "tip_5lang": {
+                "de": "Der Sommerpark ist nass und geschlossen, bietet aber eine besondere Atmosphäre. Tragen Sie Gummistiefel für die schlammigen Wege.",
+                "hu": "A nyári park területe zárva van és nedves, de sajátos hangulatot áraszt. Viselj gumicsizmát, ha a sáros ösvényeken sétálnál.",
+                "ro": "Parcul de vară este închis și umed, dar oferă o atmosferă interesantă. Purtați cizme de cauciuc pe potecile noroioase.",
+                "en": "The summer park grounds are closed and wet, but offer a moody atmosphere. Wear rubber boots if you decide to walk the muddy paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Morgenfahrt weckt auf. Mittags macht die Wintersonne das Radeln entlang der leeren Strände zur Freude. Nachmittags wird die Luft kühler, bleiben Sie in Bewegung. Beenden Sie die Fahrt vor 17:00 Uhr, bevor es dunkel und kalt wird.",
+            "hu": "Egy friss reggeli tekerés tökéletes ébresztő. Délben a téli napsütés élvezetessé teszi a parti utat. Délután hűl a levegő, tekerj tempósan. Fejezd be az utat 17:00 előtt, mert gyorsan sötétedik és erősen lehűl a levegő.",
+            "ro": "O plimbare rece de dimineață te trezește. La prânz, soarele de iarnă face ciclismul o bucurie. După-amiaza, aerul se răcește, continuați să pedalați. Terminați plimbarea înainte de 17:00, deoarece se întunecă repede.",
+            "en": "A crisp morning ride is perfect to wake up. At noon, the winter sun makes cycling along the beach a joy. In the afternoon, the air gets cooler, so keep moving. Finish your ride before 17:00 as it gets dark and freezing fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lido La Ola",
+                "hu": "Lido La Ola",
+                "ro": "Lido La Ola",
+                "en": "Lido La Ola"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige Schönheit des verlassenen Winterstrandes. Tragen Sie winddichte Schichten gegen die steife Brise.",
+                "hu": "Tapasztald meg az elhagyatott téli strand békés szépségét. Viselj szélálló rétegeket, mert a partmenti szél meglehetősen csípős.",
+                "ro": "Experimentați frumusețea senină a plajei pustii de iarnă. Purtați straturi rezistente la vânt, deoarece briza este tăioasă.",
+                "en": "Experience the serene beauty of the deserted winter beach. Wear windproof layers, as the coastal breeze is quite piercing here."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria di Porto Salvo",
+                "hu": "Santa Maria di Porto Salvo",
+                "ro": "Santa Maria di Porto Salvo",
+                "en": "Santa Maria di Porto Salvo"
+              },
+              "tip_5lang": {
+                "de": "Das schöne Kircheninnere bietet einen friedlichen Rückzugsort. Die dicken Wände halten die Winterkälte ab, während Sie schauen.",
+                "hu": "A gyönyörű templombelső békés menedéket nyújt. A vastag falak kint tartják a téli hideget, miközben megcsodálod a részleteket.",
+                "ro": "Interiorul frumos al bisericii oferă un refugiu liniștit. Pereții groși țin frigul de iarnă departe în timp ce admirați detaliile.",
+                "en": "The beautiful church interior offers a peaceful retreat. The thick walls keep the winter chill out while you admire the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cabrera",
+                "hu": "Torre Cabrera",
+                "ro": "Torre Cabrera",
+                "en": "Torre Cabrera"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Turm wirkt in der klaren Winterluft beeindruckend. Ziehen Sie sich warm an, da der Seewind hier stark weht.",
+                "hu": "Ez a történelmi torony lenyűgöző a friss téli levegőben. Öltözz melegen, mert a tengeri szél erősen fúj az ősi falaknál.",
+                "ro": "Acest turn istoric arată impresionant în aerul rece de iarnă. Îmbrăcați-vă gros, deoarece briza mării este puternică aici.",
+                "en": "This historic tower looks striking in the crisp winter air. Dress warmly, as the sea breeze hits hard near the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Margarita",
+                "hu": "Lido Margarita",
+                "ro": "Lido Margarita",
+                "en": "Lido Margarita"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an und atmen Sie die frische Meeresluft. Ziehen Sie Ihre Handschuhe fest, der Fahrtwind kühlt schnell ab.",
+                "hu": "Állj meg egy pillanatra és szívd magadba a friss tengeri levegőt. Húzd szorosra a kesztyűdet, mert a menetszél gyorsan hűt.",
+                "ro": "Opriți-vă scurt și respirați aerul proaspăt. Strângeți mănușile, vântul de pe bicicletă răcește rapid.",
+                "en": "Pause briefly to breathe in the crisp sea air. Make sure your gloves are tight, as the wind from riding cools you quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Boga Mare",
+                "hu": "Boga Mare",
+                "ro": "Boga Mare",
+                "en": "Boga Mare"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang im kalten Sand. Die Sonne geht früh unter, genießen Sie also warm eingepackt das Nachmittagslicht.",
+                "hu": "Tegyél egy frissítő sétát a hideg homokon. A nap korán nyugszik, így rétegesen felöltözve élvezd az aranykori délutáni fényeket.",
+                "ro": "Faceți o plimbare revigorantă pe nisipul rece. Soarele apune devreme, așa că bucurați-vă de lumina după-amiezii îmbrăcați gros.",
+                "en": "Take a brisk walk on the cold sand to clear your mind. The sun sets early, so enjoy the golden afternoon light while bundled up."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia del Sole",
+                "hu": "Baia del Sole",
+                "ro": "Baia del Sole",
+                "en": "Baia del Sole"
+              },
+              "tip_5lang": {
+                "de": "Die brechenden Winterwellen bieten ein Naturschauspiel. Halten Sie die Hände in den Taschen warm, da die Temperatur schnell sinkt.",
+                "hu": "A hatalmas téli hullámok látványos természeti műsort kínálnak. Tartsd a kezed a zsebedben melegen, mert a hőmérséklet gyorsan esik.",
+                "ro": "Valurile de iarnă oferă un spectacol natural impresionant. Țineți mâinile la cald în buzunare, deoarece temperatura scade rapid.",
+                "en": "The crashing winter waves provide a spectacular natural show. Keep your hands warm in your pockets as the temperature drops quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di divertimento (estivo)",
+                "hu": "Parco di divertimento (estivo)",
+                "ro": "Parco di divertimento (estivo)",
+                "en": "Parco di divertimento (estivo)"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen ruhigen Winterspaziergang beim geschlossenen Freizeitpark. Ziehen Sie sich warm an, da es in der Dämmerung kalt wird.",
+                "hu": "Tegyél egy csendes téli sétát a szezonon kívüli vidámparknál. Öltözz fel jól, mert a nagy nyitott terek szürkületkor nagyon lehűlnek.",
+                "ro": "Faceți o plimbare liniștită de iarnă pe lângă parcul de distracții. Îmbrăcați-vă bine, spațiile deschise devin foarte reci la amurg.",
+                "en": "Take a quiet winter stroll near the off-season amusement park. Bundle up well, as the large open spaces get very cold at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap egy rövid utazással kezdődik a város központi templomához és az ikonikus védőtoronyhoz. A dél bőséges időt kínál a pihenésre az egyik pezsgő tengerparti klubban. A délután folytatja a tengerparti kikapcsolódást elegáns napozással. Az este közeledtével a helyi vidámpark felé veszi az irányt egy nosztalgikus és vidám befejezésért.",
         "ro": "Ziua începe cu un scurt drum spre reperul spiritual central al orașului și turnul de apărare. Prânzul oferă timp suficient pentru a vă relaxa la unul dintre cluburile animate de plajă. După-amiaza continuă retragerea pe coastă cu relaxare la standarde înalte. Seara se apropie în timp ce vă îndreptați spre parcul de distracții local pentru un final nostalgic.",
         "en": "Your day begins with a short drive to the town's central spiritual landmark and the iconic defense tower nearby. Midday offers ample time to relax at one of the lively coastal beach clubs. The afternoon continues the coastal retreat with upscale lounging and calm waves. Evening approaches as you head to the local amusement park for a nostalgic and fun-filled finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens sicher durch die regnerischen Straßen. Genießen Sie mittags den Blick aufs Meer aus dem warmen Auto. Parken Sie nachmittags nah an den Zielen. Abends ist wegen nasser Straßen und schlechter Sicht große Vorsicht geboten.",
+            "hu": "Vezess óvatosan az esős reggeli utcákon. Délben élvezd a viharos tenger látványát a fűtött autóból. Délután parkolj közel a látnivalókhoz, hogy ne ázz meg. Az esti vezetés fokozott figyelmet igényel a csúszós és vizes utakon.",
+            "ro": "Conduceți cu grijă pe străzile ploioase de dimineață. La prânz, bucurați-vă de vederea mării din mașina caldă. După-amiaza, parcați aproape de opriri. Seara necesită prudență din cauza drumurilor umede și a vizibilității reduse.",
+            "en": "Drive safely through the rainy morning streets. At noon, enjoy the stormy sea views from the comfort of your warm car. In the afternoon, park close to stops and use an umbrella. Evening driving requires caution due to slick, wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria di Porto Salvo",
+                "hu": "Santa Maria di Porto Salvo",
+                "ro": "Santa Maria di Porto Salvo",
+                "en": "Santa Maria di Porto Salvo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und Geschichte der Kirche. Ein toller trockener Ort, aber halten Sie den Schirm am Eingang bereit!",
+                "hu": "Csodáld meg a templom építészetét és történelmét. Kiváló száraz menedék, de az esernyőt tartsd kéznél a bejáratnál!",
+                "ro": "Admirați arhitectura bisericii și istoria locală. Este un loc uscat excelent, dar țineți umbrela la îndemână la intrare!",
+                "en": "Admire the church architecture and learn local history. It's a great dry spot, but keep your umbrella handy at the entrance!"
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cabrera",
+                "hu": "Torre Cabrera",
+                "ro": "Torre Cabrera",
+                "en": "Torre Cabrera"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den majestätischen Küstenverteidigungsturm. Die Steine werden bei Regen sehr rutschig, also treten Sie vorsichtig auf.",
+                "hu": "Nézd meg a fenséges partvédelmi tornyot. A környező kövek nagyon csúszósak az esőben, ezért lépkedj óvatosan és maradj szárazon.",
+                "ro": "Priviți maiestuosul turn de apărare. Pietrele din jur devin foarte alunecoase în ploaie, deci pășiți cu grijă și adăpostiți-vă.",
+                "en": "View the majestic coastal defense tower. The surrounding stones get very slippery in the rain, so step carefully and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Margarita",
+                "hu": "Lido Margarita",
+                "ro": "Lido Margarita",
+                "en": "Lido Margarita"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische, stürmische Meer. Einrichtungen könnten geschlossen sein, bringen Sie also wasserfeste Kleidung mit.",
+                "hu": "Figyeld a drámai, viharos tengert a partról. A létesítmények zárva lehetnek, ezért viselj vízálló ruházatot és stabil cipőt.",
+                "ro": "Priviți marea dramatică și furtunoasă. Facilitățile pot fi închise, așa că aduceți echipament impermeabil și cizme rezistente.",
+                "en": "Watch the dramatic, stormy sea from the shoreline. Facilities might be closed, so bring waterproof gear and wear sturdy boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Boga Mare",
+                "hu": "Boga Mare",
+                "ro": "Boga Mare",
+                "en": "Boga Mare"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie am nassen Sand entlang und genießen Sie den Regen. Achten Sie auf rutschige Holzwege und tragen Sie eine Regenjacke.",
+                "hu": "Sétálj a nedves homokon és élvezd az esőcseppek hangját. Vigyázz a csúszós fapallókkal, és húzd össze az esőkabátodat.",
+                "ro": "Plimbați-vă pe nisipul umed și ascultați ploaia. Atenție la trotuarele de lemn alunecoase și purtați o haină de ploaie.",
+                "en": "Walk along the wet sand and enjoy the sound of the rain hitting the waves. Be careful of slippery boardwalks and wear a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolcevita Beach",
+                "hu": "Dolcevita Beach",
+                "ro": "Dolcevita Beach",
+                "en": "Dolcevita Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stimmungsvolle Küste. Suchen Sie sich am besten eine überdachte Terrasse, um die Aussicht geschützt zu genießen.",
+                "hu": "Csodáld meg a hangulatos partvonalat a szürke ég alatt. Érdemes egy közeli fedett teraszt keresni a biztonságos kilátáshoz.",
+                "ro": "Admirați coasta melancolică sub cerul gri. Este mai bine să căutați o terasă acoperită pentru a vă bucura de vedere în siguranță.",
+                "en": "Admire the moody coastline under the gray sky. It's best to seek a nearby covered terrace to enjoy the sea view safely from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di divertimento (estivo)",
+                "hu": "Parco di divertimento (estivo)",
+                "ro": "Parco di divertimento (estivo)",
+                "en": "Parco di divertimento (estivo)"
+              },
+              "tip_5lang": {
+                "de": "Der Sommerpark ist nass und geschlossen, bietet aber eine besondere Atmosphäre. Tragen Sie Gummistiefel für die schlammigen Wege.",
+                "hu": "A nyári park területe zárva van és nedves, de sajátos hangulatot áraszt. Viselj gumicsizmát, ha a sáros ösvényeken sétálnál.",
+                "ro": "Parcul de vară este închis și umed, dar oferă o atmosferă interesantă. Purtați cizme de cauciuc pe potecile noroioase.",
+                "en": "The summer park grounds are closed and wet, but offer a moody atmosphere. Wear rubber boots if you decide to walk the muddy paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Morgenfahrt an der frischen Küste. Parken Sie mittags für kurze Spaziergänge in der Wintersonne. Nachmittagsfahrten sind malerisch im goldenen Licht. Fahren Sie gegen 17:00 Uhr zurück, da es dann dunkel wird.",
+            "hu": "Hangulatos reggeli kocsikázás a friss parton. Délben parkolj le, és sétálj egyet a téli napsütésben. A délutáni vezetés festői az aranyfényben. 17:00-ig indulj vissza, mert a korai naplemente drasztikusan rontja a látási viszonyokat.",
+            "ro": "O plimbare confortabilă de dimineață pe coastă. La prânz, parcați și plimbați-vă la soare. După-amiaza este pitorească în lumina aurie. Întoarceți-vă la 17:00, deoarece apusul devreme scade vizibilitatea și temperatura.",
+            "en": "A cozy morning drive along the crisp coast. By noon, park and take short walks in the bright winter sun. Afternoon drives are scenic with golden hour light. Head back by 17:00 as early sunset dramatically lowers visibility and temps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria di Porto Salvo",
+                "hu": "Santa Maria di Porto Salvo",
+                "ro": "Santa Maria di Porto Salvo",
+                "en": "Santa Maria di Porto Salvo"
+              },
+              "tip_5lang": {
+                "de": "Das schöne Kircheninnere bietet einen friedlichen Rückzugsort. Die dicken Wände halten die Winterkälte ab, während Sie schauen.",
+                "hu": "A gyönyörű templombelső békés menedéket nyújt. A vastag falak kint tartják a téli hideget, miközben megcsodálod a részleteket.",
+                "ro": "Interiorul frumos al bisericii oferă un refugiu liniștit. Pereții groși țin frigul de iarnă departe în timp ce admirați detaliile.",
+                "en": "The beautiful church interior offers a peaceful retreat. The thick walls keep the winter chill out while you admire the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cabrera",
+                "hu": "Torre Cabrera",
+                "ro": "Torre Cabrera",
+                "en": "Torre Cabrera"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Turm wirkt in der klaren Winterluft beeindruckend. Ziehen Sie sich warm an, da der Seewind hier stark weht.",
+                "hu": "Ez a történelmi torony lenyűgöző a friss téli levegőben. Öltözz melegen, mert a tengeri szél erősen fúj az ősi falaknál.",
+                "ro": "Acest turn istoric arată impresionant în aerul rece de iarnă. Îmbrăcați-vă gros, deoarece briza mării este puternică aici.",
+                "en": "This historic tower looks striking in the crisp winter air. Dress warmly, as the sea breeze hits hard near the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Margarita",
+                "hu": "Lido Margarita",
+                "ro": "Lido Margarita",
+                "en": "Lido Margarita"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige Schönheit des verlassenen Winterstrandes. Tragen Sie winddichte Schichten gegen die steife Brise.",
+                "hu": "Tapasztald meg az elhagyatott téli strand békés szépségét. Viselj szélálló rétegeket, mert a partmenti szél meglehetősen csípős.",
+                "ro": "Experimentați frumusețea senină a plajei pustii de iarnă. Purtați straturi rezistente la vânt, deoarece briza este tăioasă.",
+                "en": "Experience the serene beauty of the deserted winter beach. Wear windproof layers, as the coastal breeze is quite piercing here."
+              }
+            },
+            {
+              "name": {
+                "de": "Boga Mare",
+                "hu": "Boga Mare",
+                "ro": "Boga Mare",
+                "en": "Boga Mare"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang im kalten Sand. Die Sonne geht früh unter, genießen Sie also warm eingepackt das Nachmittagslicht.",
+                "hu": "Tegyél egy frissítő sétát a hideg homokon. A nap korán nyugszik, így rétegesen felöltözve élvezd az aranykori délutáni fényeket.",
+                "ro": "Faceți o plimbare revigorantă pe nisipul rece. Soarele apune devreme, așa că bucurați-vă de lumina după-amiezii îmbrăcați gros.",
+                "en": "Take a brisk walk on the cold sand to clear your mind. The sun sets early, so enjoy the golden afternoon light while bundled up."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolcevita Beach",
+                "hu": "Dolcevita Beach",
+                "ro": "Dolcevita Beach",
+                "en": "Dolcevita Beach"
+              },
+              "tip_5lang": {
+                "de": "Die brechenden Winterwellen bieten ein Naturschauspiel. Halten Sie die Hände in den Taschen warm, da die Temperatur schnell sinkt.",
+                "hu": "A hatalmas téli hullámok látványos természeti műsort kínálnak. Tartsd a kezed a zsebedben melegen, mert a hőmérséklet gyorsan esik.",
+                "ro": "Valurile de iarnă oferă un spectacol natural impresionant. Țineți mâinile la cald în buzunare, deoarece temperatura scade rapid.",
+                "en": "The crashing winter waves provide a spectacular natural show. Keep your hands warm in your pockets as the temperature drops quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di divertimento (estivo)",
+                "hu": "Parco di divertimento (estivo)",
+                "ro": "Parco di divertimento (estivo)",
+                "en": "Parco di divertimento (estivo)"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen ruhigen Winterspaziergang beim geschlossenen Freizeitpark. Ziehen Sie sich warm an, da es in der Dämmerung kalt wird.",
+                "hu": "Tegyél egy csendes téli sétát a szezonon kívüli vidámparknál. Öltözz fel jól, mert a nagy nyitott terek szürkületkor nagyon lehűlnek.",
+                "ro": "Faceți o plimbare liniștită de iarnă pe lângă parcul de distracții. Îmbrăcați-vă bine, spațiile deschise devin foarte reci la amurg.",
+                "en": "Take a quiet winter stroll near the off-season amusement park. Bundle up well, as the large open spaces get very cold at dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

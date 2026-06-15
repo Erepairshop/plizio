@@ -137,6 +137,168 @@
         "hu": "A reggel a St Brendan's Church békés hangulatával kezdődik, amely nyugodt alaphangot ad a napnak. A delet Templenagriffin csendes romjainak és a fenséges Ardfert katedrálisnak a felfedezésével töltjük. Délután a séta a jól megőrzött Ardfert Friaryhoz folytatódik, amely a régió igazi fénypontja. Az este közeledtével a történelmi Purseman's Fortnál fejezzük be a sétát, élvezve az ír vidék aranyórás kilátását.",
         "ro": "Dimineața începe cu ambianța pașnică a bisericii St Brendan, stabilind un ton seren pentru zi. Amiaza este petrecută explorând ruinele liniștite de la Templenagriffin și maiestuoasa catedrală Ardfert. După-amiaza, plimbarea continuă către Ardfert Friary, un punct de atracție al regiunii. Seara se apropie în timp ce terminăm la istoricul Purseman's Fort, admirând priveliștile orei de aur.",
         "en": "Morning begins with the peaceful ambiance of St Brendan's Church, setting a serene tone for the day. Midday is spent exploring the quiet ruins of Templenagriffin and the majestic Ardfert Cathedral, both offering deep dives into medieval architecture. In the afternoon, the walk continues to the well-preserved Ardfert Friary, a true highlight of the region. Evening approaches as we finish at the historic Purseman's Fort, taking in the golden hour views across the Irish countryside."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag bei St. Brendan’s Church, wo Steinmauern Schutz bieten. Mittags erkunden Sie die Kathedrale, deren massive Ruinen auch im Regen beeindrucken; festes Schuhwerk ist auf den nassen Pfaden ratsam. Am Nachmittag führt der Weg zum Friary, wobei eine Regenjacke unerlässlich ist. Den Abend lassen Sie in einer gemütlichen Gaststube ausklingen, während draußen der Kerry-Regen fällt.",
+            "hu": "Kezdje a napot a St Brendan-templomnál, ahol a régi falak némi oltalmat adnak. Délben a katedrális romjai között barangolhat; a nedves fű csúszós lehet, így a vízálló cipő elengedhetetlen. Délután az apátság felé vegye az irányt, de készüljön fel a Kerry-i záporokra. Az estét egy helyi pub melegében töltse, hallgatva az eső kopogását az ablakon.",
+            "ro": "Începeți ziua la Biserica St Brendan, unde zidurile vechi oferă adăpost parțial. La prânz, Catedrala Ardfert impresionează chiar și sub cerul gri; atenție la iarba umedă care devine alunecoasă. După-amiaza, drumul spre mănăstire necesită o pelerină de ploaie solidă. Seara se încheie perfect într-un pub local, oferind refugiu cald împotriva vremii tipice din Kerry.",
+            "en": "Start your morning at St Brendan's Church, where ancient stone offers partial shelter. At noon, explore Ardfert Cathedral; the ruins are atmospheric in the mist, but waterproof boots are vital for slippery paths. In the afternoon, head towards the Friary with a sturdy umbrella in hand. End your day in a cozy local tavern, the perfect refuge from the persistent Kerry rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Brendan's Church",
+                "hu": "St Brendan's Church",
+                "ro": "St Brendan's Church",
+                "en": "St Brendan's Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanischen Details im Schutz der Torbögen und achten Sie auf die nassen, unebenen Stufen im Inneren.",
+                "hu": "Csodálja meg a román stílusú faragványokat az ívek oltalma alatt, és ügyeljen a belső tér nedves, egyenetlen lépcsőire.",
+                "ro": "Admirați detaliile romanice la adăpostul arcadelor și aveți grijă la treptele interioare umede și denivelate.",
+                "en": "Admire the Romanesque carvings while sheltered by the stone arches; watch your step on the wet, uneven interior floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Templenagriffin",
+                "hu": "Templenagriffin",
+                "ro": "Templenagriffin",
+                "en": "Templenagriffin"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet einen ruhigen Moment abseits des Windes; die umliegenden Grabsteine können im hohen Gras versteckt sein.",
+                "hu": "Ez a kis templom csendes menedéket nyújt a szél elől; a környező sírkövek megbújhatnak a magas, vizes fűben.",
+                "ro": "Această mică biserică oferă un moment de liniște ferit de vânt; pietrele funerare pot fi ascunse în iarba înaltă și udă.",
+                "en": "This small church provides a quiet moment away from the wind; be careful of gravestones hidden in the long, wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Cathedral",
+                "hu": "Ardfert Cathedral",
+                "ro": "Ardfert Cathedral",
+                "en": "Ardfert Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Bereiche der Hauptstruktur und nutzen Sie die Infotafeln als Schutz vor plötzlichen Regenschauern.",
+                "hu": "Fedezze fel a főépület tetővel rendelkező részeit, és használja az információs táblákat ideiglenes menedékként a hirtelen záporok elől.",
+                "ro": "Explorați zonele acoperite ale structurii principale și folosiți panourile informative ca adăpost temporar împotriva ploii bruște.",
+                "en": "Explore the roofed sections of the main structure and use the information displays as temporary shelter during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Friary",
+                "hu": "Ardfert Friary",
+                "ro": "Ardfert Friary",
+                "en": "Ardfert Friary"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Abtei führt über offenes Gelände, daher ist eine windfeste Regenjacke für diesen historischen Spaziergang unverzichtbar.",
+                "hu": "Az apátsághoz vezető út nyílt terepen halad, így egy szélálló esőkabát elengedhetetlen ehhez a történelmi sétához.",
+                "ro": "Drumul spre mănăstire traversează un teren deschis, deci o pelerină de ploaie rezistentă la vânt este indispensabilă pentru plimbare.",
+                "en": "The path to the friary crosses open ground, making a windproof raincoat essential for this historic stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Purseman's Fort",
+                "hu": "Purseman's Fort",
+                "ro": "Purseman's Fort",
+                "en": "Purseman's Fort"
+              },
+              "tip_5lang": {
+                "de": "Diese Erdanlage bietet wenig Schutz, belohnt aber mit mystischer Atmosphäre; tragen Sie wasserfeste Stiefel für den schlammigen Untergrund.",
+                "hu": "Ez a földvár kevés oltalmat nyújt, de misztikus hangulattal hálálja meg a ködöt; viseljen vízálló bakancsot a sáros talaj miatt.",
+                "ro": "Acest fort oferă puțin adăpost, dar recompensează cu o atmosferă mistică; purtați bocanci impermeabili pentru solul noroios.",
+                "en": "This earthwork fort offers little shelter but rewards with a mystical atmosphere; wear waterproof boots for the muddy ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch bei St. Brendan’s, wo der Frost die Ruinen ziert. Mittags wärmt die tiefstehende Sonne die Kathedrale, doch die Kälte bleibt; tragen Sie warme Schichten. Da es bereits gegen 17:00 Uhr dunkel wird, besuchen Sie das Friary am frühen Nachmittag. Der Abend gehört dem Kaminfeuer in einer Dorfschenke, während die irische Winternacht hereinbricht.",
+            "hu": "A téli reggel frissen indul a St Brendan-templomnál, ahol a dér díszíti a romokat. Délben a katedrális kövei között sétálva élvezze a bágyadt napsütést; a réteges öltözködés kötelező. Mivel 17 óra körül sötétedik, a délutánt töltse az apátságnál. Az estét egy falusi fogadó kandallója mellett fejezze be, ahogy leszáll a kora esti ír sötétség.",
+            "ro": "Dimineața de iarnă începe tăios la Biserica St Brendan, cu ruinele brumate. La prânz, soarele palid luminează Catedrala, dar vântul rece necesită haine groase și stratificate. Deoarece se întunecă în jur de ora 17:00, vizitați mănăstirea devreme în după-amiază. Seara se petrece lângă șemineul unui han local, în timp ce noaptea irlandeză se așterne rapid.",
+            "en": "A crisp winter morning begins at St Brendan's, where frost often coats the ancient stones. At noon, admire the Cathedral under a low sun, keeping warm with thermal layers against the Atlantic breeze. Since darkness falls by 17:00, complete your visit to the Friary early. The evening is best spent by a roaring turf fire in a local pub as the Irish winter night settles in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Brendan's Church",
+                "hu": "St Brendan's Church",
+                "ro": "St Brendan's Church",
+                "en": "St Brendan's Church"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten; bringen Sie Handschuhe mit, da die alten Steine eiskalt sind.",
+                "hu": "A téli nap alacsony szöge hosszú árnyékokat vet a szobrokra; vigyen kesztyűt, mert az ősi kövek jéghidegek lehetnek.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste sculpturi; purtați mănuși, deoarece pietrele vechi sunt extrem de reci la atingere.",
+                "en": "The low winter sun casts long shadows over the sculptures; bring gloves as the ancient stones feel ice-cold to the touch."
+              }
+            },
+            {
+              "name": {
+                "de": "Templenagriffin",
+                "hu": "Templenagriffin",
+                "ro": "Templenagriffin",
+                "en": "Templenagriffin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Besuch reicht aus, bevor der kalte Wind zunimmt; ideal für stimmungsvolle Winterfotos der irischen Landschaft.",
+                "hu": "Egy rövid látogatás is elég a hangulat átéléséhez, mielőtt a hideg szél felerősödne; tökéletes helyszín a hangulatos téli fotókhoz.",
+                "ro": "O scurtă vizită este suficientă pentru a surprinde atmosfera înainte ca vântul să se intensifice; ideal pentru fotografii de iarnă.",
+                "en": "A short visit is enough to capture the atmosphere before the cold wind picks up; ideal for atmospheric winter photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Cathedral",
+                "hu": "Ardfert Cathedral",
+                "ro": "Ardfert Cathedral",
+                "en": "Ardfert Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für die beste Beleuchtung der Ruinen und tragen Sie Thermokleidung gegen die feuchte Kälte.",
+                "hu": "Használja ki a déli órákat a romok legjobb megvilágításához, és viseljen hőtartó ruházatot a nyirkos hideg ellen.",
+                "ro": "Profitați de orele amiezii pentru cea mai bună lumină asupra ruinelor și purtați haine termice împotriva frigului umed.",
+                "en": "Utilize the midday hours for the best lighting on the ruins and wear thermal clothing against the damp Atlantic chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Friary",
+                "hu": "Ardfert Friary",
+                "ro": "Ardfert Friary",
+                "en": "Ardfert Friary"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Zugangsweg und genießen Sie die Stille der Anlage in der ruhigen Nebensaison.",
+                "hu": "Ügyeljen a jeges foltokra a bevezető úton, és élvezze a komplexum csendjét a turisztikailag nyugodtabb holtszezonban.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul de acces și bucurați-vă de liniștea sitului în extrasezonul turistic calm.",
+                "en": "Watch out for icy patches on the access path and enjoy the absolute silence of the site during the quiet tourist off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Purseman's Fort",
+                "hu": "Purseman's Fort",
+                "ro": "Purseman's Fort",
+                "en": "Purseman's Fort"
+              },
+              "tip_5lang": {
+                "de": "Da die Dämmerung früh einsetzt, sollten Sie diesen Ort vor 16:30 Uhr verlassen, um den Rückweg sicher im Tageslicht zu finden.",
+                "hu": "Mivel a szürkület korán érkezik, hagyja el a helyszínt 16:30 előtt, hogy még nappali fényben találjon vissza a faluba.",
+                "ro": "Deoarece amurgul vine devreme, părăsiți acest loc înainte de 16:30 pentru a găsi drumul de întoarcere în siguranță pe lumină.",
+                "en": "As twilight arrives early, plan to leave this spot before 16:30 to find your way back safely in the remaining daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros túra a gyönyörű Ardfert Friary-nál kezdődik, mielőtt a magasba tornyosuló Ardfert katedrális felé venné az irányt. Délben eléri a St Brendan's Church festői romjait, és tovább teker a történelmi Casement's Forthoz. A délután a festői vidéken keresztül Lisnaweenoch rejtett múltjának felfedezésére vezet. Ahogy leszáll az est, egy egyenletes út a Caherferta csendes köveihez vezet.",
         "ro": "Călătoria pe bicicletă începe la frumoasa mănăstire Ardfert Friary, înainte de a vă îndrepta spre impunătoarea catedrală Ardfert. La amiază, ajungeți la ruinele pitorești ale bisericii St Brendan și pedalați mai departe spre fortul istoric Casement's Fort. După-amiaza vă poartă prin peisajul pitoresc pentru a descoperi trecutul ascuns de la Lisnaweenoch. Seara, ajungeți la Caherferta antică.",
         "en": "Your cycling journey starts at the beautiful Ardfert Friary before heading to the towering Ardfert Cathedral. By midday, you'll reach the quaint ruins of St Brendan's Church and cycle further out to the historically significant Casement's Fort. The afternoon takes you through the scenic countryside to discover the hidden past of Lisnaweenoch. As evening falls, a steady ride leads to Caherferta, where the quiet ancient stones offer a tranquil end to your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch Ardfert; der Regen macht die Straßen glatt. Starten Sie beim Friary, wo Bäume etwas Schutz bieten. Die Kathedrale und Kirchen sind gute Zwischenstopps zum Aufwärmen. Am Nachmittag geht es zu den Forts an der Küste; wasserfeste Kleidung und Schutzbleche sind heute Ihre besten Freunde, bevor Sie den Abend im Trockenen genießen.",
+            "hu": "Kerékpározzon óvatosan Ardfertben; az eső csúszóssá teszi az utakat. Kezdjen az apátságnál, ahol a fák némi oltalmat adnak. A katedrális és a templomok jó megállók a szárítkozáshoz. Délután a tengerparti erődök felé vegye az irányt; a vízálló ruházat és a sárvédő ma kötelező, mielőtt száraz helyre vonulna.",
+            "ro": "Pedalați cu atenție prin Ardfert; ploaia face drumurile alunecoase. Începeți la mănăstire, unde copacii oferă puțină protecție. Catedrala și bisericile sunt popasuri bune pentru a vă usca. După-amiaza mergeți spre forturile de coastă; hainele impermeabile și aripile la bicicletă sunt esențiale astăzi.",
+            "en": "Cycle carefully through Ardfert as the rain makes the local roads slick. Start at the Friary, where mature trees offer some cover. The Cathedral and churches provide good intervals to dry off. In the afternoon, head to the coastal forts; waterproof gear and mudguards are your best friends before finding a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ardfert Friary",
+                "hu": "Ardfert Friary",
+                "ro": "Ardfert Friary",
+                "en": "Ardfert Friary"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen und nutzen Sie die festen Wege, um Ausrutschen auf dem nassen Gras zu vermeiden.",
+                "hu": "Parkolja a biciklit a fák alatt, és használja a szilárd ösvényeket, hogy elkerülje a megcsúszást a vizes füvön.",
+                "ro": "Parcați bicicleta sub copaci și folosiți potecile pavate pentru a evita alunecarea pe iarba udă din jurul mănăstirii.",
+                "en": "Park your bike under the tree canopy and stick to the paved paths to avoid slipping on the wet grass around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Cathedral",
+                "hu": "Ardfert Cathedral",
+                "ro": "Ardfert Cathedral",
+                "en": "Ardfert Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für eine Innenbesichtigung, während ein Schauer vorbeizieht, und sichern Sie Ihr Rad an einem stabilen Pfosten.",
+                "hu": "Szánjon időt egy alapos belső látogatásra, amíg kint elvonul egy zápor, és rögzítse a kerékpárt egy stabil oszlophoz.",
+                "ro": "Acordați-vă timp pentru o vizită interioară detaliată în timp ce trece o aversă și asigurați-vă bicicleta de un stâlp stabil.",
+                "en": "Take your time for an extensive indoor visit while a rain shower passes, and secure your bike to a sturdy post near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brendan's Church",
+                "hu": "St Brendan's Church",
+                "ro": "St Brendan's Church",
+                "en": "St Brendan's Church"
+              },
+              "tip_5lang": {
+                "de": "Dieser kurze Stopp bietet Schutz vor dem Wind; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf den nassen Straßen fortsetzen.",
+                "hu": "Ez a rövid megálló oltalmat nyújt a szél elől; ellenőrizze a fékeit, mielőtt folytatná az utat a vizes falusi utcákon.",
+                "ro": "Această scurtă oprire oferă adăpost împotriva vântului; verificați frânele înainte de a continua pe străzile ude ale satului.",
+                "en": "This short stop offers a break from the wind; double-check your brakes before continuing onto the slick village roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Casement's Fort",
+                "hu": "Casement's Fort",
+                "ro": "Casement's Fort",
+                "en": "Casement's Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Löcher im Boden verbergen könnten.",
+                "hu": "A bekötőút sáros lehet; hajtson lassan, és ügyeljen a tócsákra, amelyek mély gödröket rejthetnek a talajban.",
+                "ro": "Drumul de acces poate fi noroios; pedalați încet și atenție la bălțile care pot ascunde gropi adânci în sol.",
+                "en": "The access track can be muddy; ride slowly and watch out for puddles that might hide deep ruts in the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisnaweenoch",
+                "hu": "Lisnaweenoch",
+                "ro": "Lisnaweenoch",
+                "en": "Lisnaweenoch"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist sehr windexponiert; tragen Sie eine eng anliegende Kapuze, damit Ihre Sicht beim Radfahren im Regen frei bleibt.",
+                "hu": "Ez a távoli hely nagyon kitett a szélnek; viseljen szoros kapucnit, hogy a szél és az eső ne zavarja a látást tekerés közben.",
+                "ro": "Acest loc izolat este foarte expus vântului; purtați o glugă strânsă pentru ca vizibilitatea să nu fie afectată de ploaie.",
+                "en": "This remote site is very exposed to the wind; wear a tight-fitting hood so your vision isn't obscured by driving rain while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Caherferta",
+                "hu": "Caherferta",
+                "ro": "Caherferta",
+                "en": "Caherferta"
+              },
+              "tip_5lang": {
+                "de": "Der Rückweg nach Ardfert führt gegen den Wind; nutzen Sie niedrige Gänge und freuen Sie sich auf die heiße Dusche danach.",
+                "hu": "Az Ardfertbe visszavezető út széllel szemben halad; használjon alacsony sebességfokozatot, és gondoljon a forró zuhanyra a végén.",
+                "ro": "Drumul de întoarcere spre Ardfert este împotriva vântului; folosiți viteze mici și consolați-vă cu gândul la un duș fierbinte.",
+                "en": "The return leg to Ardfert often faces a headwind; use low gears and look forward to a hot shower after this wet coastal ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Radausflug erfordert gute Vorbereitung gegen den schneidenden Wind. Starten Sie früh beim Friary, um das Tageslicht zu nutzen. Die Route zur Kathedrale ist kurz, aber die Kälte spürbar; Handschuhe sind beim Bremsen wichtig. Da die Sonne gegen 17:00 Uhr sinkt, beenden Sie die Tour bei den Forts zeitig und kehren Sie für einen heißen Tee zurück.",
+            "hu": "Egy téli biciklitúra alapos felkészülést igényel a metsző szél miatt. Kezdjen korán az apátságnál, hogy kihasználja a nappali fényt. A katedrálishoz vezető út rövid, de a hideg maró; a kesztyű fontos a fékezéshez. Mivel a nap 17 óra körül lebukik, fejezze be időben az erődök látogatását, és térjen vissza egy forró teára.",
+            "ro": "O tură cu bicicleta iarna necesită pregătire atentă împotriva vântului tăios. Începeți devreme la mănăstire pentru a profita de lumină. Drumul spre Catedrală e scurt, dar frigul e pătrunzător; mănușile sunt vitale pentru frânare. Soarele apune la ora 17:00, deci terminați vizita la forturi devreme și retrageți-vă la un ceai fierbinte.",
+            "en": "A winter cycling trip requires careful preparation against the biting Atlantic wind. Start early at the Friary to maximize daylight. The route to the Cathedral is short but the chill is intense; warm gloves are vital for safe braking. As the sun sets by 17:00, finish the fort visits early and head back for a hot beverage."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ardfert Friary",
+                "hu": "Ardfert Friary",
+                "ro": "Ardfert Friary",
+                "en": "Ardfert Friary"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour mit Aufwärmübungen, da die Kälte spürbar ist; die Wege können am frühen Morgen leicht gefroren sein.",
+                "hu": "Kezdje a túrát bemelegítéssel, mert a hideg az ízületekben is érezhető; az utak kora reggel még enyhén fagyosak lehetnek.",
+                "ro": "Începeți tura cu câteva exerciții de încălzire, deoarece frigul se simte în articulații; potecile pot fi ușor înghețate dimineața.",
+                "en": "Start your ride with some light warm-ups as the cold stiffens joints; paths may be slightly frozen in the early morning shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Cathedral",
+                "hu": "Ardfert Cathedral",
+                "ro": "Ardfert Cathedral",
+                "en": "Ardfert Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen Kälte ab; halten Sie sich in Bewegung und nutzen Sie geschützte Ecken für kurze Trinkpausen.",
+                "hu": "A kőfalak ontják magukból a hideget; maradjon mozgásban, és használja a szélvédett sarkokat egy rövid teázásra a termoszból.",
+                "ro": "Zidurile de piatră emană frig; rămâneți în mișcare și folosiți colțurile protejate pentru scurte pauze de ceai din termos.",
+                "en": "The stone walls radiate cold; stay moving and use the sheltered corners for quick hydration breaks from a thermal flask."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brendan's Church",
+                "hu": "St Brendan's Church",
+                "ro": "St Brendan's Church",
+                "en": "St Brendan's Church"
+              },
+              "tip_5lang": {
+                "de": "Kurze Stopps verhindern das Auskühlen; prüfen Sie Ihre Lichter, falls das Winterwetter die Sicht während des Tages trübt.",
+                "hu": "A rövid megállók megakadályozzák a lehűlést; ellenőrizze, hogy működnek-e a lámpái, ha a téli ború napközben is rontja a látási viszonyokat.",
+                "ro": "Opririle scurte previn răcirea corpului; verificați dacă luminile funcționează în caz că vremea de iarnă scade vizibilitatea.",
+                "en": "Keep stops brief to prevent body chill; check that your lights are working in case winter gloom reduces visibility during the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Casement's Fort",
+                "hu": "Casement's Fort",
+                "ro": "Casement's Fort",
+                "en": "Casement's Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hart gefroren sein; tragen Sie warme Socken, um Ihre Füße vor dem eisigen Fahrtwind zu schützen.",
+                "hu": "A talaj keményre fagyhat, ami döcögőssé teszi a haladást; viseljen vastag zoknit, hogy megvédje lábait a jeges menetszéltől.",
+                "ro": "Solul poate fi înghețat bocnă, făcând deplasarea zdruncinată; purtați șosete groase pentru a vă proteja picioarele de curentul rece.",
+                "en": "The ground may be frozen hard, making for a bumpy ride; wear thermal socks to protect your feet from the freezing air flow while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisnaweenoch",
+                "hu": "Lisnaweenoch",
+                "ro": "Lisnaweenoch",
+                "en": "Lisnaweenoch"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die winterliche Küste, aber bleiben Sie nicht zu lange stehen, da der Wind hier stark auskühlt.",
+                "hu": "Élvezze a tágas kilátást a téli partvidékre, de ne álljon meg túl sokáig, mert a szél itt különösen gyorsan lehűti a testet.",
+                "ro": "Bucurați-vă de priveliștea largă asupra coastei de iarnă, dar nu staționați mult, deoarece vântul de aici răcește corpul rapid.",
+                "en": "Enjoy the expansive views of the winter coastline, but don't linger too long as the wind here has a particularly high chill factor."
+              }
+            },
+            {
+              "name": {
+                "de": "Caherferta",
+                "hu": "Caherferta",
+                "ro": "Caherferta",
+                "en": "Caherferta"
+              },
+              "tip_5lang": {
+                "de": "Da es bald 17:00 Uhr ist, schalten Sie Ihre Beleuchtung ein und achten Sie auf überfrierende Nässe auf der Fahrbahn.",
+                "hu": "Mivel hamarosan 17 óra lesz, kapcsolja be a lámpákat a visszaúthoz, és ügyeljen az úttesten kialakuló jeges foltokra.",
+                "ro": "Fiind aproape ora 17:00, aprindeți luminile pentru drumul de întoarcere și atenție la porțiunile de asfalt care pot îngheța.",
+                "en": "With 17:00 approaching, turn on your lights for the ride back and be alert for black ice forming on the road surface."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Egy nyugodt reggeli autóút az impozáns Liscahane-kastélyhoz vezet, amelyet a Purseman's Fort rövid meglátogatása követ. Délben a hangsúly a helyi örökség igazi központja, az Ardfert katedrális lenyűgöző építészete. Délután a csendes vidéki utakon navigálva felfedezheti Caherferta ősi gyűrűvárát és Lisnaweenoch történelmi helyszínét. A nap a történelmi Casement's Fortnál tett esti megállóval zárul.",
         "ro": "O plimbare relaxantă de dimineață cu mașina vă aduce la impunătorul castel Liscahane, urmată de o scurtă excursie la Purseman's Fort. La amiază, concentrați-vă pe arhitectura impresionantă a catedralei Ardfert, o adevărată capodoperă locală. După-amiaza, navigați pe drumurile rurale liniștite pentru a explora vechiul inel fortificat de la Caherferta și situl istoric Lisnaweenoch. Ziua se încheie la Casement's Fort.",
         "en": "A relaxed morning drive brings you to the imposing Liscahane Castle, followed by a short trip to Purseman's Fort. Midday shifts focus to the impressive architecture of Ardfert Cathedral, a true centerpiece of the local heritage. In the afternoon, navigate the quiet country roads to explore the ancient ringfort of Caherferta and the historical site of Lisnaweenoch. The day concludes with an evening stop at Casement's Fort, where history and coastal breezes beautifully intermingle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autotour durch Ardfert ist ideal bei Regen, da Sie bequem zwischen den Sehenswürdigkeiten reisen. Starten Sie beim Schloss Liscahane und bewundern Sie die Ruinen aus dem warmen Wagen. Die Kathedrale bietet genug überdachte Bereiche für einen Rundgang. Am Nachmittag erkunden Sie die Forts entlang der Küstenstraßen; ein Regenschirm im Kofferraum ist für die kurzen Wege zum Ziel unverzichtbar.",
+            "hu": "Az autós túra Ardfertben ideális esőben, hiszen kényelmesen utazhat a látnivalók között. Kezdje a Liscahane-kastélynál, és csodálja meg a romokat az autó melegéből. A katedrális elég fedett részt kínál egy sétához. Délután fedezze fel az erődöket a parti utak mentén; a csomagtartóban tartott esernyő elengedhetetlen a rövid sétákhoz.",
+            "ro": "Un tur auto prin Ardfert este ideal pe ploaie, oferind confort între obiectivele turistice. Începeți la Castelul Liscahane și admirați ruinele din mașina caldă. Catedrala are suficiente zone acoperite pentru o vizită. După-amiaza, explorați forturile de-a lungul coastelor; o umbrelă în portbagaj este indispensabilă pentru scurtele deplasări.",
+            "en": "A driving tour of Ardfert is perfect for rainy days, allowing you to travel in comfort between the historic sites. Start at Liscahane Castle, viewing the ruins from your warm vehicle. The Cathedral offers enough shelter for a pleasant walk. In the afternoon, explore the coastal forts; keep an umbrella in the boot for the short dashes from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liscahane Castle",
+                "hu": "Liscahane Castle",
+                "ro": "Liscahane Castle",
+                "en": "Liscahane Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind vom Straßenrand aus gut sichtbar; parken Sie sicher und genießen Sie den Anblick ohne den Wagen verlassen zu müssen.",
+                "hu": "A romok jól láthatóak az út széléről; parkoljon le biztonságosan, és élvezze a látványt anélkül, hogy ki kellene szállnia a szakadó esőben.",
+                "ro": "Ruinele sunt vizibile de la marginea drumului; parcați în siguranță și admirați priveliștea fără a părăsi mașina în timpul ploii.",
+                "en": "The ruins are easily visible from the roadside; park safely and enjoy the view without needing to exit the car during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Purseman's Fort",
+                "hu": "Purseman's Fort",
+                "ro": "Purseman's Fort",
+                "en": "Purseman's Fort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nächstgelegenen Haltepunkt und halten Sie Ihren Regenschirm bereit, da der Boden zum Fort bei Regen rutschig sein kann.",
+                "hu": "Használja a legközelebbi megállót, és készítse elő az esernyőt, mert az erődhöz vezető talaj esőben nagyon csúszós lehet.",
+                "ro": "Folosiți cel mai apropiat punct de oprire și pregătiți umbrela, deoarece solul spre fort poate deveni foarte alunecos pe timp de ploaie.",
+                "en": "Use the nearest stopping point and have your umbrella ready, as the ground leading to the fort can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Cathedral",
+                "hu": "Ardfert Cathedral",
+                "ro": "Ardfert Cathedral",
+                "en": "Ardfert Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt im Dorfzentrum; der kurze Weg zum Eingang ist gesäumt von Gebäuden, die im Regen glänzen.",
+                "hu": "Parkolóhelyeket közvetlenül a falu központjában talál; a bejárathoz vezető rövid utat az esőben csillogó történelmi épületek szegélyezik.",
+                "ro": "Găsiți locuri de parcare chiar în centrul satului; drumul scurt spre intrare este mărginit de clădiri care strălucesc sub ploaie.",
+                "en": "Parking is available right in the village center; the short walk to the entrance is lined with historic buildings that shimmer in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Caherferta",
+                "hu": "Caherferta",
+                "ro": "Caherferta",
+                "en": "Caherferta"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Küstenstraßen, da die Sicht bei Gischt eingeschränkt sein kann; nutzen Sie die Ausweichstellen.",
+                "hu": "Vezessen óvatosan a keskeny parti utakon, mert a permet és az eső ronthatja a látási viszonyokat; használja a félreállóhelyeket.",
+                "ro": "Conduceți cu atenție pe drumurile înguste de coastă, deoarece vizibilitatea poate fi redusă de ploaie; folosiți spațiile de refugiu.",
+                "en": "Drive carefully on the narrow coastal roads, as visibility can be reduced by sea spray and rain; utilize the designated passing places."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisnaweenoch",
+                "hu": "Lisnaweenoch",
+                "ro": "Lisnaweenoch",
+                "en": "Lisnaweenoch"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um das stürmische Meer zu beobachten; die Küstenwinde können beim Öffnen der Autotür sehr stark sein.",
+                "hu": "Álljon meg egy pillanatra, hogy megfigyelje a viharos tengert; a parti szél nagyon erős lehet az autóajtó kinyitásakor.",
+                "ro": "Opriți scurt pentru a observa marea învolburată; vântul de coastă poate fi foarte puternic atunci când deschideți portiera mașinii.",
+                "en": "Stop briefly to observe the stormy Atlantic; be prepared for the coastal wind to be quite forceful when opening your car door."
+              }
+            },
+            {
+              "name": {
+                "de": "Casement's Fort",
+                "hu": "Casement's Fort",
+                "ro": "Casement's Fort",
+                "en": "Casement's Fort"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Wettervorhersage für die Rückfahrt, da starke Regenfälle auf lokalen Straßen zu Wasseransammlungen führen können.",
+                "hu": "Ellenőrizze az időjárás-jelentést a visszaúthoz, mivel a heves esőzések vízátfolyásokat okozhatnak a helyi utakon.",
+                "ro": "Verificați prognoza meteo pentru drumul de întoarcere, deoarece ploile abundente pot cauza acumulări de apă pe drumurile locale.",
+                "en": "Check the weather forecast for your return trip, as heavy rainfall can cause localized flooding or deep puddles on the country roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Landschaft Kerrys bequem mit dem Auto. Morgens glitzert der Frost am Schloss Liscahane; die Heizung sorgt für Wohlbefinden. Mittags ist die Kathedrale ein Muss, bevor das Licht schwindet. Da die Sonne gegen 17:00 Uhr untergeht, bieten die Küstenforts bei Dämmerung eine dramatische Kulisse. Beenden Sie den Tag sicher, bevor die Straßen in der Nacht gefrieren könnten.",
+            "hu": "Élvezze Kerry téli tájait kényelmesen, autóval. Reggel a dér csillog a Liscahane-kastélyon; a fűtés gondoskodik a kényelemről. Délben a katedrális kötelező állomás, mielőtt fogyni kezd a fény. Mivel a nap 17 óra körül nyugszik, a parti erődök drámai látványt nyújtanak a szürkületben. Fejezze be a napot biztonságban, mielőtt az utak éjszaka lefagynának.",
+            "ro": "Bucurați-vă de peisajele de iarnă din Kerry din confortul mașinii. Dimineața, bruma sclipește pe Castelul Liscahane, în timp ce căldura din mașină vă răsfață. La prânz, Catedrala este de neratat înainte de apus. Soarele apune la ora 17:00, oferind un decor dramatic forturilor de coastă. Încheiați ziua în siguranță înainte de înghețul nopții.",
+            "en": "Enjoy Kerry's stunning winter landscapes from the comfort of your car. In the morning, frost glitters on Liscahane Castle while you stay warm inside. Midday at the Cathedral is a must before the light fades. As the sun sets by 17:00, the coastal forts provide a dramatic backdrop in the twilight. Complete your journey safely before the roads freeze over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liscahane Castle",
+                "hu": "Liscahane Castle",
+                "ro": "Liscahane Castle",
+                "en": "Liscahane Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostigen Felder; achten Sie beim Parken auf Glatteis in schattigen Bereichen am Straßenrand.",
+                "hu": "Csodálja meg a kastély körüli dérlepte mezőket; parkoláskor ügyeljen a jeges foltokra az útmenti árnyékos részeken.",
+                "ro": "Admirați câmpurile brumate din jurul castelului; atenție la gheața din zonele umbrite atunci când parcați la marginea drumului.",
+                "en": "Admire the frost-covered fields surrounding the castle; watch out for black ice in shaded areas by the roadside when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Purseman's Fort",
+                "hu": "Purseman's Fort",
+                "ro": "Purseman's Fort",
+                "en": "Purseman's Fort"
+              },
+              "tip_5lang": {
+                "de": "Da es ein kurzer Stopp im Freien ist, lassen Sie den Motor nicht unnötig laufen sondern genießen Sie die frische Winterluft.",
+                "hu": "Mivel ez csak egy rövid szabadtéri megálló, ne járassa feleslegesen a motort, inkább élvezze a friss, tiszta téli levegőt.",
+                "ro": "Fiind o oprire scurtă în aer liber, nu lăsați motorul pornit inutil; bucurați-vă de aerul proaspăt și curat de iarnă.",
+                "en": "Since this is a brief outdoor stop, avoid idling the engine; instead, step out and enjoy the fresh, crisp winter air for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardfert Cathedral",
+                "hu": "Ardfert Cathedral",
+                "ro": "Ardfert Cathedral",
+                "en": "Ardfert Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale zur Mittagszeit, wenn die Sonne am höchsten steht, um die Kälte in den massiven Ruinen zu mildern.",
+                "hu": "Látogassa meg a katedrálist délidőben, amikor a legmagasabban jár a nap, hogy jobban viselje a hideget a hatalmas romok között.",
+                "ro": "Vizitați Catedrala la prânz, când soarele este cel mai sus, pentru a suporta mai ușor frigul dintre ruinele masive de piatră.",
+                "en": "Visit the Cathedral at midday when the sun is at its peak to better withstand the chill lingering within the massive stone ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Caherferta",
+                "hu": "Caherferta",
+                "ro": "Caherferta",
+                "en": "Caherferta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Beleuchtung der Küste vom Auto aus; führen Sie für Notfälle eine warme Decke mit.",
+                "hu": "Élvezze a partvidék drámai téli fényeit az autóból; vészhelyzet esetére tartson a kocsiban meleg takarót és zseblámpát.",
+                "ro": "Bucurați-vă de lumina dramatică de iarnă a coastei din mașină; păstrați o pătură caldă și o lanternă în mașină pentru urgențe.",
+                "en": "Enjoy the dramatic winter lighting of the coast from your car; keep a warm blanket and a torch in the vehicle for emergencies."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisnaweenoch",
+                "hu": "Lisnaweenoch",
+                "ro": "Lisnaweenoch",
+                "en": "Lisnaweenoch"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Minusgraden rutschig sein; steigen Sie vorsichtig aus und tragen Sie Schuhe mit gutem Profil.",
+                "hu": "A parkolóhely fagypont alatt nagyon csúszós lehet; szálljon ki óvatosan az autóból, és viseljen bordázott talpú cipőt.",
+                "ro": "Locul de parcare poate fi foarte alunecos la temperaturi negative; coborâți cu atenție și purtați încălțăminte aderentă.",
+                "en": "The parking area can be very slippery in freezing temperatures; exit the car carefully and ensure you are wearing high-grip shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Casement's Fort",
+                "hu": "Casement's Fort",
+                "ro": "Casement's Fort",
+                "en": "Casement's Fort"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Besichtigung vor 17:00 Uhr, da die Sicht auf unbeleuchteten Straßen bei Dunkelheit und Frost stark abnimmt.",
+                "hu": "Fejezze be a látogatást 17 óra előtt, mivel a kivilágítatlan vidéki utakon a sötétség és a fagy miatt romlik a biztonság.",
+                "ro": "Încheiați vizita înainte de ora 17:00, deoarece vizibilitatea pe drumurile rurale scade drastic odată cu întunericul și înghețul.",
+                "en": "Finish your visit before 17:00, as visibility on unlit rural roads decreases significantly once darkness and frost set in."
+              }
+            }
+          ]
+        }
       }
     }
   }

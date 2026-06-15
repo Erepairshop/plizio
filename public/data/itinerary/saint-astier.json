@@ -137,6 +137,168 @@
         "hu": "A reggel az ősi erődtemplomnál kezdődik, majd a La Fabrique modern kulturális központjában folytatódik. A délidőt a szakrális művészetnek és egy kellemes sétának szenteljük a város széléig. A délután csodálatosan telik a Le Lac Bleu csillogó vize körüli nyugodt sétával. Az este a történelmi mészégetők ipari örökségét bemutató túrával zárul, amely megmutatja a város igazi lényegét.",
         "ro": "Dimineața începe la vechea biserică fortificată, trecând în centrul cultural modern de la La Fabrique. Amiaza este rezervată artei spirituale și unei plimbări plăcute spre marginea orașului. După-amiaza se desfășoară frumos cu o plimbare senină în jurul apelor strălucitoare ale Lac Bleu. Seara se încheie cu un tur al patrimoniului industrial la cuptoarele de var istorice.",
         "en": "Morning starts at the ancient fortified church, moving into the modern cultural heartbeat of La Fabrique. Midday is reserved for spiritual art exploration and a pleasant walk towards the edges of town. The afternoon unfolds beautifully with a serene stroll around the shimmering waters of Le Lac Bleu. Evening closes with an industrial heritage tour at the historic lime kilns."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen trocken in der Kirche und im Kulturzentrum. Mittags bietet das Museum für sakrale Kunst Schutz. Nachmittags erkunden Sie den See mit wasserfesten Schuhen im Nieselregen. Beenden Sie den verregneten Tag in den überdachten Kalkwerken.",
+            "hu": "Kezdje a reggelt fedett helyen, a templomban és a kulturális központban. Délben élvezze a száraz egyházművészeti múzeumot. Délután vízálló csizmában dacoljon a szitáló esővel a tónál. Az esős estét a fedett mészüzem felfedezésével zárja.",
+            "ro": "Începeți dimineața la adăpost în biserică și centrul cultural. La prânz, bucurați-vă de muzeul de artă sacră. După-amiaza, înfruntați ploaia la lac cu cizme impermeabile. Încheiați seara ploioasă explorând cuptoarele de var acoperite.",
+            "en": "Start the morning indoors at the church and cultural center. At noon, enjoy the dry sacred art museum. In the afternoon, brave the drizzle at the lake with waterproof boots. End the rainy evening exploring the covered lime kilns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Astier",
+                "hu": "Saint-Astier Templom",
+                "ro": "Biserica Saint-Astier",
+                "en": "Saint-Astier Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die robuste Architektur im Trockenen; lassen Sie Ihren nassen Regenschirm am überdachten Eingang zurück.",
+                "hu": "Csodálja meg a robusztus építészetet szárazon; a csöpögő esernyőt érdemes a bejárati tornácon hagyni a látogatás alatt.",
+                "ro": "Admirați arhitectura robustă rămânând perfect uscat; lăsați umbrela udă la intrare pentru a explora în voie interiorul.",
+                "en": "Admire the robust architecture while staying perfectly dry inside; leave your dripping umbrella at the entrance porch."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fabrique",
+                "hu": "La Fabrique",
+                "ro": "La Fabrique",
+                "en": "La Fabrique"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Kultur in diesem Innenraum, ein perfekter Zufluchtsort, wenn der Regen draußen stärker wird.",
+                "hu": "Fedezze fel a helyi kultúrát ebben a beltéri menedékben, amely tökéletes program, ha odakint felerősödik az esőzés.",
+                "ro": "Explorați cultura locală în acest refugiu interior, o activitate perfectă și la adăpost când ploaia se întețește afară.",
+                "en": "Explore the rich local culture in this indoor refuge, a perfect sheltered activity when the rain gets heavier outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für sakrale Kunst",
+                "hu": "Szakrális Művészeti Kiállítás",
+                "ro": "Expoziția de Artă Sacră",
+                "en": "Exposition d'Art Sacré"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die heiligen Artefakte in diesem trockenen, gut beleuchteten Raum fernab des feuchten und kalten Wetters.",
+                "hu": "Szánjon időt a lenyűgöző szakrális leletek megcsodálására ebben a száraz, jól megvilágított, nedvességtől védett térben.",
+                "ro": "Admirați artefactele sacre complexe în acest spațiu uscat și bine luminat, departe de vremea umedă și mohorâtă de afară.",
+                "en": "Take your time marveling at the intricate sacred artifacts inside this dry, well-lit space away from the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Bleu",
+                "hu": "Le Lac Bleu",
+                "ro": "Le Lac Bleu",
+                "en": "Le Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Das blaue Wasser wirkt unter grauen Wolken besonders dramatisch; tragen Sie wasserfestes Schuhwerk für die schlammigen Wege.",
+                "hu": "Az élénkkék víz drámaian fest a szürke égbolt alatt; viseljen strapabíró, vízálló lábbelit a saras tóparti ösvényeken.",
+                "ro": "Apele albastre arată spectaculos sub cerul gri; purtați încălțăminte impermeabilă robustă pentru perimetrul noroios.",
+                "en": "The bright blue waters look strikingly dramatic under grey skies; wear sturdy waterproof footwear for the muddy perimeter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkwerke Saint-Astier",
+                "hu": "Saint-Astier Mészüzem",
+                "ro": "Cuptoarele de Var Saint-Astier",
+                "en": "Chaux & Enduits de Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das industrielle Erbe meist unter einem Dach, aber achten Sie auf Ihre Schritte auf den nassen, rutschigen Böden.",
+                "hu": "Fedezze fel a lenyűgöző ipari örökséget nagyrészt fedett helyen, de vigyázzon a lépéseire a vizes, csúszós padlókon.",
+                "ro": "Descoperiți patrimoniul industrial fascinant mai mult la acoperiș, dar aveți grijă la pași pe podelele umede și alunecoase.",
+                "en": "Discover the region's fascinating industrial heritage mostly under cover, but watch your step on the wet, slippery floors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Morgenrundgang, aufwärmen in der Steinkirche. Mittags locken gemütliche, warme Kulturausstellungen. Nachmittagslicht macht den See vor dem frühen Sonnenuntergang (17:00) magisch. Beenden Sie den Tag bei den beleuchteten Öfen.",
+            "hu": "Friss reggeli séta, melegedjen fel a kőtemplomban. Délben hangulatos, fűtött kulturális kiállítások várják. A délutáni fény varázslatossá teszi a tavat a 17:00 órás naplemente előtt. Zárja a csípős napot a kivilágított mészüzemnél.",
+            "ro": "Plimbare matinală, încălzire în biserica de piatră. Prânzul oferă expoziții culturale confortabile. Lumina după-amiezii face lacul magic înainte de apusul devreme de la 17:00. Încheiați ziua rece la cuptoarele iluminate.",
+            "en": "Brisk morning walk through town, warming up inside the stone church. Midday offers cozy cultural and art exhibits indoors. Afternoon light makes the lake magical before the early 17:00 sunset. End the crisp day at the illuminated kilns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Astier",
+                "hu": "Saint-Astier Templom",
+                "ro": "Biserica Saint-Astier",
+                "en": "Saint-Astier Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach einem frischen Spaziergang im ruhigen Kirchenschiff auf; dicke Mauern schützen vor frostigem Wind.",
+                "hu": "Melegedjen fel a csendes hajóban a csípős reggeli séta után; a vastag falak tökéletes menedéket nyújtanak a fagyos szél ellen.",
+                "ro": "Încălziți-vă în naosul liniștit după plimbarea matinală; zidurile groase oferă un adăpost perfect împotriva vântului înghețat.",
+                "en": "Warm up in the quiet nave after a crisp morning walk; the thick walls provide a perfect shelter from the frosty wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fabrique",
+                "hu": "La Fabrique",
+                "ro": "La Fabrique",
+                "en": "La Fabrique"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Halt, um in die Geschichte einzutauchen; halten Sie den Mantel für kältere Korridore griffbereit.",
+                "hu": "Hangulatos megálló a helyi történelem felfedezésére; tartsa kéznél a télikabátot a hidegebb folyosókon való áthaladáshoz.",
+                "ro": "O oprire confortabilă pentru a descoperi istoria; țineți haina de iarnă la îndemână pentru trecerea prin coridoare reci.",
+                "en": "A cozy stop to dive into local history; keep your winter coat handy as you may transition through colder corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für sakrale Kunst",
+                "hu": "Szakrális Művészeti Kiállítás",
+                "ro": "Expoziția de Artă Sacră",
+                "en": "Exposition d'Art Sacré"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den beheizten Innenraum und bewundern Sie sakrale Kunst während der kältesten Phase des Wintertages.",
+                "hu": "Élvezze a fűtött belső teret, miközben megcsodálja a történelmi szakrális művészet részleteit a nap leghidegebb óráiban.",
+                "ro": "Bucurați-vă de interiorul încălzit în timp ce admirați arta sacră istorică în timpul celei mai reci părți a zilei.",
+                "en": "Enjoy the heated interior while admiring the intricate details of historical sacred art during the coldest part of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Bleu",
+                "hu": "Le Lac Bleu",
+                "ro": "Le Lac Bleu",
+                "en": "Le Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Der Winter verleiht dem blauen Wasser frostigen Charme; tragen Sie warme, winddichte Schichten gegen die kalte Brise.",
+                "hu": "A tél fagyos varázst kölcsönöz a kék vizeknek; öltözzön meleg, szélálló rétegekbe, mert a tóparti szellő meglehetősen csípős.",
+                "ro": "Iarna aduce un farmec înghețat apelor albastre; purtați straturi calde și rezistente la vânt, briza lacului fiind tăioasă.",
+                "en": "Winter casts a frosty charm over the blue waters; dress in warm, windproof layers as the lakeside breeze is quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkwerke Saint-Astier",
+                "hu": "Saint-Astier Mészüzem",
+                "ro": "Cuptoarele de Var Saint-Astier",
+                "en": "Chaux & Enduits de Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit; die kalte Abendluft lässt die industrielle Anlage noch imposanter wirken.",
+                "hu": "Fejezze be itt a túrát a sötétedés beállta előtt; a hideg esti levegő még zordabbá teszi a tornyosuló ipari létesítményt.",
+                "ro": "Încheiați turul aici înainte de întuneric; aerul rece al serii face ca acest sit industrial impunător să pară și mai auster.",
+                "en": "Wrap up your tour here before the dark sets in; the cold evening air makes this towering industrial site feel even starker."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggeli pedálozás elviszi az erődtemplomhoz és a közeli szakrális művészeti múzeumhoz a városközpontban. A délidő a természetbe hív, miközben a Le Lac Bleu nyugodt partjaihoz kerekezik. A délutánt a fenséges Château du Puy-Saint-Astier koronázza meg lenyűgöző építészetével. Az este a rejtett erdei kápolnánál találja Önt, amely tökéletes és békés befejezést kínál.",
         "ro": "Dimineața vă poartă la biserica fortificată și la muzeul de artă sacră din apropiere. Amiaza vă invită să evadați în natură în timp ce pedalați spre malurile liniștite ale Lac Bleu. După-amiaza este încoronată de maiestuosul Château du Puy-Saint-Astier, cu arhitectura sa uimitoare. Seara vă găsește la capela retrasă din pădure, oferind un final perfect și pașnic.",
         "en": "Morning pedal strokes bring you to the fortified church and the nearby museum of sacred art in the town center. Midday invites you to escape to nature as you cycle towards the tranquil shores of Le Lac Bleu. The afternoon is crowned by the majestic Château du Puy-Saint-Astier, offering stunning architecture and views. Evening finds you at the secluded woodland chapel, providing a perfect, peaceful end to your cycling day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens zu Kirche und Museum, um Schauern zu entgehen. Mittagsfahrt zum See erfordert Schutzbleche. Nachmittagsaufstieg zum Schloss bietet dramatische Ausblicke. Enden Sie an der Kapelle, Vorsicht bei nassem Laub.",
+            "hu": "Kerékpározzon a templomhoz és múzeumhoz a reggeli záporok elkerülése végett. A déli tekerés a tóhoz sárvédőt igényel. A délutáni mászás a kastélyhoz drámai kilátást nyújt. Zárja a nedves utat a kápolnánál, ügyelve a csúszós falevelekre.",
+            "ro": "Pedalați spre biserică și muzeu pentru a evita aversele de dimineață. Drumul la prânz spre lac necesită apărători. Urcarea de după-amiază spre castel oferă priveliști dramatice. Terminați la capelă, atenție la frunzele alunecoase.",
+            "en": "Start cycling to the church and museum to dodge morning showers. Midday ride to the lake requires fenders and caution. Afternoon climb to the château offers dramatic wet vistas. Finish the wet ride at the chapel, watching out for slippery leaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Astier",
+                "hu": "Saint-Astier Templom",
+                "ro": "Biserica Saint-Astier",
+                "en": "Saint-Astier Church"
+              },
+              "tip_5lang": {
+                "de": "Ein toller erster Halt, um die Fahrradausrüstung zu trocknen und beeindruckende Gewölbe fernab des Regens zu bewundern.",
+                "hu": "Kiváló első megálló a kerékpáros felszerelés megszárítására, miközben az esőtől védve csodálhatja a lenyűgöző boltozatokat.",
+                "ro": "Un prim popas excelent pentru a vă usca echipamentul, admirând bolțile impresionante departe de ploaia bruscă.",
+                "en": "A great first stop to dry off your cycling gear while admiring the impressive vaulted ceilings away from the sudden rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für sakrale Kunst",
+                "hu": "Szakrális Művészeti Kiállítás",
+                "ro": "Expoziția de Artă Sacră",
+                "en": "Exposition d'Art Sacré"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad an und betreten Sie die trockenen Galerien, um die sakrale Kunst vor den Morgenschauern geschützt zu genießen.",
+                "hu": "Zárja le a kerékpárt, és lépjen be a száraz galériákba, hogy a reggeli záporoktól védve élvezze a szakrális művészetet.",
+                "ro": "Asigurați bicicleta afară și intrați în galeriile uscate pentru a savura arta sacră la adăpost de aversele matinale.",
+                "en": "Secure your bike outside and step into the warm, dry galleries to enjoy the sacred art safely away from the morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Bleu",
+                "hu": "Le Lac Bleu",
+                "ro": "Le Lac Bleu",
+                "en": "Le Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem See Mystik; achten Sie auf ausreichend Grip der Reifen für die rutschigen und schlammigen Wege.",
+                "hu": "Az eső misztikus hangulatot kölcsönöz a tónak; ellenőrizze, hogy a gumik megfelelően tapadnak-e a csúszós, saras ösvényeken.",
+                "ro": "Ploaia adaugă o notă mistică lacului; asigurați-vă că anvelopele au aderență bună pentru traseele alunecoase și noroioase.",
+                "en": "The rain adds a mystic feel to the natural lake; ensure your bike tires have good grip for the slippery and muddy trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Puy-Saint-Astier",
+                "hu": "Puy-Saint-Astier Kastély",
+                "ro": "Castelul Puy-Saint-Astier",
+                "en": "Château du Puy-Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt vor dunklen Wolken dramatisch; bremsen Sie vorsichtig auf der rutschigen Kopfsteinpflaster-Zufahrt.",
+                "hu": "A kastély drámaian fest a sötét felhők előtt; fékezzen nagyon óvatosan a csúszós, macskaköves felhajtón.",
+                "ro": "Castelul impunător arată dramatic pe fundalul norilor închiși; frânați cu prudență pe drumul pietruit alunecos.",
+                "en": "The imposing castle looks dramatic against dark clouds; use your brakes very carefully on the slippery cobblestone approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldkapelle",
+                "hu": "Erdei Kápolna",
+                "ro": "Capela din Pădure",
+                "en": "Chapelle des Bois"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss im regnerischen Wald; drosseln Sie das Tempo und achten Sie auf gefährlich rutschiges nasses Laub.",
+                "hu": "Békés utolsó megálló az esős erdőben; csökkentse a sebességet, és fokozottan ügyeljen a veszélyesen csúszós nedves levelekre.",
+                "ro": "O ultimă oprire senină în pădurea ploioasă; reduceți viteza și aveți grijă la frunzele ude periculos de alunecoase.",
+                "en": "A serene final stop tucked in the rainy woods; reduce your speed and watch out for dangerously slippery wet autumn leaves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenfahrt zu Indoor-Zielen, hohe Trittfrequenz hält warm. Mittags klare, frostige Sicht am See. Nachmittagsanstieg zur Burg erfordert Thermokleidung. Rückkehr von der Kapelle vor der frühen Dämmerung um 17:00.",
+            "hu": "Friss reggeli tekerés a beltéri látnivalókhoz, magas pedálfordulattal melegedve. Délben tiszta, fagyos kilátás a tónál. A délutáni mászás a kastélyhoz termo ruházatot igényel. Térjen vissza a kápolnától a korai 17:00 órás sötétedés előtt.",
+            "ro": "Plimbare matinală spre atracțiile interioare, pedalând alert pentru a vă încălzi. Prânzul oferă priveliști clare la lac. Urcarea spre castel necesită haine termice. Întoarceți-vă de la capelă înainte de lăsarea întunericului (17:00).",
+            "en": "Brisk morning ride to the town's indoor gems, keeping a high cadence to stay warm. Midday features clear, frosty views at the blue lake. Afternoon ascent to the castle requires thermal layers. Return from the chapel before the early 17:00 dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Astier",
+                "hu": "Saint-Astier Templom",
+                "ro": "Biserica Saint-Astier",
+                "en": "Saint-Astier Church"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihre kalte Fahrt; dicke, alte Mauern blocken den eisigen Wind ab, während Sie das Heiligtum bewundern.",
+                "hu": "Kezdje itt a hideg túrát; a vastag, ősi falak tökéletesen felfogják a fagyos reggeli szelet, míg a szentélyt csodálja.",
+                "ro": "Începeți plimbarea rece aici; zidurile groase blochează perfect vântul înghețat în timp ce admirați sanctuarul.",
+                "en": "Start your cold ride here; the thick ancient walls perfectly block the frosty morning wind while you admire the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für sakrale Kunst",
+                "hu": "Szakrális Művészeti Kiállítás",
+                "ro": "Expoziția de Artă Sacră",
+                "en": "Exposition d'Art Sacré"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie gefrorene Hände auf und erkunden Sie das faszinierende religiöse Erbe in diesen angenehm beheizten Räumen.",
+                "hu": "Melengesse fel fagyos kezeit, miközben biztonságban felfedezi a lenyűgöző vallási örökséget ezekben a kellemesen fűtött termekben.",
+                "ro": "Dezghețați-vă mâinile în timp ce explorați patrimoniul religios fascinant în aceste camere plăcut încălzite.",
+                "en": "Thaw your freezing hands while safely exploring the fascinating religious heritage within these pleasantly heated rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Bleu",
+                "hu": "Le Lac Bleu",
+                "ro": "Le Lac Bleu",
+                "en": "Le Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne spiegelt sich auf dem Wasser; tragen Sie dicke Thermo-Fahrradhandschuhe für die kalte Abfahrt.",
+                "hu": "Az alacsony téli nap gyönyörűen tükröződik a csendes vízen; mindenképp viseljen vastag termo kerékpáros kesztyűt a hideg lejtőn.",
+                "ro": "Soarele de iarnă se reflectă frumos pe apa liniștită; purtați mănuși termice groase de ciclism pentru coborârea rece.",
+                "en": "The low winter sun reflects beautifully on the still water; make sure to wear thick thermal cycling gloves for the cold descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Puy-Saint-Astier",
+                "hu": "Puy-Saint-Astier Kastély",
+                "ro": "Castelul Puy-Saint-Astier",
+                "en": "Château du Puy-Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf das majestätische Schloss; tragen Sie gut sichtbare, winddichte Kleidung.",
+                "hu": "A lombtalan téli fák akadálytalan kilátást nyújtanak a fenséges kastélyra; viseljen jól láthatósági, szélálló külső rétegeket.",
+                "ro": "Copacii fără frunze oferă o vedere neobstrucționată a castelului; îmbrăcați-vă în straturi vizibile și rezistente la vânt.",
+                "en": "The leafless winter trees offer an unobstructed view of the majestic castle; dress in high-visibility, windproof outer layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldkapelle",
+                "hu": "Erdei Kápolna",
+                "ro": "Capela din Pădure",
+                "en": "Chapelle des Bois"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch den kahlen, stillen Winterwald zur Kapelle; stellen Sie sicher, dass Ihre Fahrradlichter für die Dämmerung voll sind.",
+                "hu": "Tekerjen át a kopár, csendes téli erdőn ehhez a kápolnához; gondoskodjon a kerékpárlámpák feltöltéséről a korai sötétedés miatt.",
+                "ro": "Pedalați prin pădurea de iarnă tăcută spre această capelă; asigurați-vă că luminile bicicletei sunt încărcate pentru amurg.",
+                "en": "Ride through the bare, silent winter forest to this quiet chapel; ensure your bike lights are fully charged for the early dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +769,224 @@
         "hu": "A reggel a Château de Puyferrat pompájával kezdődik, mielőtt rövid utat tesz a békés erdei kápolnához. A délidő végigvezeti Önt a történelmi központon, az erődtemplomon és a La Fabrique kulturális csomópontján. A délután során egy második fenséges kastélyhoz utazik, majd a kék tó partján pihenhet. Az este a mészműveknél a régió ipari gerincének lenyűgöző megtekintésével zárul.",
         "ro": "Dimineața începe cu grandoarea Château de Puyferrat, înainte de un scurt drum spre pașnica capelă din pădure. Amiaza vă poartă prin centrul istoric, admirând biserica fortificată și centrul cultural La Fabrique. După-amiaza prezintă un drum către un al doilea castel magnific, urmat de relaxare la lacul albastru. Seara se încheie la fabricile de var cu o privire asupra istoriei industriale.",
         "en": "Morning begins with the grandeur of Château de Puyferrat before a short drive to the peaceful woodland chapel. Midday takes you through the historical center, taking in the fortified church and vibrant cultural hub of La Fabrique. The afternoon features a drive to a second magnificent castle followed by relaxation by the blue lake. Evening concludes with a fascinating look into the region's industrial backbone at the lime works."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Autotour zu feuchten Burgen und Kapellen mit Heizung. Mittags Erkundung trockener, kultureller Innenorte. Nachmittags malerische Fahrt zum See. Einfaches Parken macht diese verregnete Route sehr komfortabel.",
+            "hu": "Reggeli autós túra a nedves kastélyokhoz fűtéssel. Délben a városközpont száraz, beltéri kulturális helyszíneinek felfedezése. Délután festői autózás a színes tóhoz. A könnyű parkolás kényelmessé teszi ezt az esős útvonalat.",
+            "ro": "Tur auto matinal la castele și capele cu încălzirea pornită. Prânzul explorează atracțiile culturale interioare. Conducere pitorească după-amiaza spre lac. Parcarea ușoară face acest itinerariu ploios foarte confortabil.",
+            "en": "Morning driving tour of the wet castles and chapels with the heater on. Midday explores the town center's dry indoor cultural sites. Afternoon scenic drive to the colorful lake. Easy parking makes this rainy itinerary very comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Puyferrat",
+                "hu": "Puyferrat Kastély",
+                "ro": "Castelul Puyferrat",
+                "en": "Château de Puyferrat"
+              },
+              "tip_5lang": {
+                "de": "Die historische Burg wirkt im Platzregen majestätisch; bringen Sie einen großen Schirm für den nassen Weg vom Auto mit.",
+                "hu": "A történelmi kastély fenségesen mutat a felhőszakadásban; hozzon magával egy nagy esernyőt az autótól vezető rövid, nedves sétához.",
+                "ro": "Castelul istoric arată maiestuos în ploaie; luați o umbrelă mare și robustă pentru plimbarea scurtă de la mașină.",
+                "en": "The historical castle looks majestic in the downpour; bring a large, sturdy umbrella for the short, wet walk from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldkapelle",
+                "hu": "Erdei Kápolna",
+                "ro": "Capela din Pădure",
+                "en": "Chapelle des Bois"
+              },
+              "tip_5lang": {
+                "de": "Ein atmosphärischer Halt im regnerischen Wald; bei starkem Regen können Sie die Kapelle sogar vom warmen Auto aus bewundern.",
+                "hu": "Gyors, hangulatos megálló az eső áztatta erdőben; ha nagyon zuhog, akár járműve meleg kényelméből is megcsodálhatja.",
+                "ro": "O oprire scurtă și plină de atmosferă în pădure; dacă toarnă, o puteți admira din confortul cald al vehiculului dumneavoastră.",
+                "en": "A quick, atmospheric stop in the rain-soaked woods; you can even admire it from the warm comfort of your vehicle if it's pouring."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Astier",
+                "hu": "Saint-Astier Templom",
+                "ro": "Biserica Saint-Astier",
+                "en": "Saint-Astier Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und treten Sie ein, um die Architektur zu bewundern und den regnerischen, pfützenreichen Straßen zu entfliehen.",
+                "hu": "Parkoljon kényelmesen a közelben, és lépjen be a nagyszerű építészet megcsodálására, elmenekülve az esős, tócsás utcák elől.",
+                "ro": "Parcați convenabil aproape și intrați pentru a admira arhitectura impunătoare, scăpând de străzile ploioase și pline de bălți.",
+                "en": "Park conveniently close by and step inside to admire the grand architecture while escaping the rainy, puddle-filled streets."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fabrique",
+                "hu": "La Fabrique",
+                "ro": "La Fabrique",
+                "en": "La Fabrique"
+              },
+              "tip_5lang": {
+                "de": "Zentral gelegen mit Parkplätzen in der Nähe für ein völlig trockenes, kulturelles Erlebnis während Ihrer feuchten Mittagsfahrt.",
+                "hu": "Központi elhelyezkedésű, közeli parkolással, amely teljesen száraz, beltéri kulturális élményt nyújt a nyirkos déli autózás során.",
+                "ro": "Situat central cu parcare în apropiere, oferă o imersiune culturală complet uscată în timpul traseului umed de prânz.",
+                "en": "Centrally located with nearby parking for a completely dry, indoor cultural immersion during your damp midday drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Puy-Saint-Astier",
+                "hu": "Puy-Saint-Astier Kastély",
+                "ro": "Castelul Puy-Saint-Astier",
+                "en": "Château du Puy-Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Fassade sicher aus dem Auto oder huschen Sie mit dem Schirm kurz zu den Infotafeln.",
+                "hu": "Tekintse meg a lenyűgöző történelmi homlokzatot biztonságosan az autóból, vagy szaladjon oda az esernyő alatt az információs táblákhoz.",
+                "ro": "Priviți fațada istorică în siguranță din mașină sau faceți o scurtă fugă sub umbrelă pentru a citi panourile informative.",
+                "en": "View the stunning historical facade safely from the car, or make a quick dash under your umbrella to read the info boards."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Bleu",
+                "hu": "Le Lac Bleu",
+                "ro": "Le Lac Bleu",
+                "en": "Le Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Der sanfte Regen verstärkt die blauen Farbtöne des Wassers; genießen Sie die Aussicht direkt vom schlammigen Parkplatz aus.",
+                "hu": "A csendes eső kiemeli a víz élénkkék árnyalatait; élvezze a lenyűgöző kilátást kényelmesen, egyenesen a saras parkolóból.",
+                "ro": "Ploaia blândă accentuează nuanțele de albastru ale apei; bucurați-vă de priveliște direct din zona de parcare noroioasă.",
+                "en": "The gentle rain enhances the vibrant blue hues of the water; easily enjoy the striking view straight from the muddy parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkwerke Saint-Astier",
+                "hu": "Saint-Astier Mészüzem",
+                "ro": "Cuptoarele de Var Saint-Astier",
+                "en": "Chaux & Enduits de Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese massive Industrieanlage mit vielen überdachten Bereichen, während Sie warten, bis der Abendverkehr nachlässt.",
+                "hu": "Fedezze fel ezt a hatalmas ipari területet, amely bőséges fedett részt kínál, amíg az esti forgalom enyhülésére vár.",
+                "ro": "Explorați acest sit industrial masiv ce oferă numeroase zone acoperite pentru a rămâne uscat așteptând să se fluidizeze traficul.",
+                "en": "Explore this massive industrial site which offers plenty of covered areas to stay dry while waiting for the evening traffic to ease."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den frostigen Morgen mit einer Fahrt zu Burgen und Kapelle (warmer Motor). Mittags ideal für Indoor-Orte im Zentrum. Nachmittagslicht trifft den See wunderschön. Beenden Sie die Tour an den Öfen vor dem dunklen Sonnenuntergang (17:00).",
+            "hu": "Kezdje a fagyos reggelt a történelmi kastélyokhoz és a kápolnához autózva meleg motorral. A dél tökéletes a központ beltéri helyeinek felfedezésére. A délutáni napfény gyönyörűen éri a tavat. Zárja a mészüzemnél a 17:00 órás sötétedés előtt.",
+            "ro": "Începeți dimineața înghețată conducând spre castele și capelă cu motorul cald. Prânzul este perfect pentru atracțiile de interior. Lumina după-amiezii luminează minunat lacul. Terminați la cuptoare înainte de apusul de la ora 17:00.",
+            "en": "Start your frosty morning driving to the historic castles and chapel with a warm engine. Midday is perfect for exploring the town center's indoor sites. Afternoon sunlight hits the lake beautifully. Finish at the kilns before the dark 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Puyferrat",
+                "hu": "Puyferrat Kastély",
+                "ro": "Castelul Puyferrat",
+                "en": "Château de Puyferrat"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Böden um die Burg sind sehr fotogen; stellen Sie sicher, dass die Autoheizung für die Rückkehr gut läuft.",
+                "hu": "A kastély körüli zúzmarás talaj gyönyörűen fotogén; gondoskodjon róla, hogy az autófűtés tökéletesen működjön a hideg visszatéréshez.",
+                "ro": "Terenurile înghețate din jurul castelului sunt fotogenice; asigurați-vă că încălzirea mașinii funcționează pentru întoarcerea rece.",
+                "en": "The frosted grounds around the castle are beautifully photogenic; ensure your car heater is running perfectly for the chilly return."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldkapelle",
+                "hu": "Erdei Kápolna",
+                "ro": "Capela din Pădure",
+                "en": "Chapelle des Bois"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwald ist still und kahl; machen Sie einen flotten Spaziergang vom warmen Auto, um diesen friedlichen Ort zu erleben.",
+                "hu": "A téli erdő teljesen csendes és zord; tegyen egy gyors, frissítő sétát a meleg autótól, hogy átélje ezt a békés helyet.",
+                "ro": "Pădurea de iarnă este tăcută și austeră; faceți o scurtă plimbare de la mașina caldă pentru a experimenta acest loc pașnic.",
+                "en": "The winter forest is completely silent and stark; take a quick, brisk walk from your warm car to experience this peaceful spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Astier",
+                "hu": "Saint-Astier Templom",
+                "ro": "Biserica Saint-Astier",
+                "en": "Saint-Astier Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor der beißenden Winterkälte in diesem massiven Steinbau, bevor Sie ins warme Fahrzeug zurückkehren.",
+                "hu": "Keressen menedéket a csípős téli hideg elől ebben a masszív kőépületben, mielőtt visszatérne járműve kényelmes melegébe.",
+                "ro": "Căutați refugiu din frigul mușcător în această structură masivă de piatră înainte de a vă întoarce la căldura vehiculului.",
+                "en": "Seek refuge from the biting winter cold in this massive stone structure before heading back to the cozy warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fabrique",
+                "hu": "La Fabrique",
+                "ro": "La Fabrique",
+                "en": "La Fabrique"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmer Raum, um lokale Geschichte zu lernen; eine perfekte Pause vom Fahren in der kältesten Zeit des Tages.",
+                "hu": "Csodálatosan meleg, barátságos hely a helyi történelem megismerésére, tökéletes pihenést nyújtva a vezetésből a leghidegebb órákban.",
+                "ro": "Un spațiu cald și primitor pentru a învăța istoria locală, o pauză perfectă de la condus în timpul celei mai reci părți a zilei.",
+                "en": "A wonderfully warm, welcoming space to learn about local history, offering a perfect break from driving during the coldest part of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Puy-Saint-Astier",
+                "hu": "Puy-Saint-Astier Kastély",
+                "ro": "Castelul Puy-Saint-Astier",
+                "en": "Château du Puy-Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne sorgt für spektakuläres Licht für Fotos; packen Sie sich für den kurzen Spaziergang zu den Aussichtspunkten gut ein.",
+                "hu": "Az alacsony téli nap látványos megvilágítást ad a fotókhoz; öltözzön fel melegen a kilátópontokhoz vezető rövid kinti sétához.",
+                "ro": "Soarele de iarnă oferă o lumină spectaculoasă pentru fotografii; îmbrăcați-vă gros pentru scurta plimbare spre punctele de belvedere.",
+                "en": "The low winter sun provides spectacular lighting for photos; wrap up very well for the brief outdoor stroll to the vantage points."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lac Bleu",
+                "hu": "Le Lac Bleu",
+                "ro": "Le Lac Bleu",
+                "en": "Le Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Ufer des Sees sind spektakulär; lassen Sie den Motor laufen, um nach dem Fotografieren einen warmen Rückzugsort zu haben.",
+                "hu": "A tó jeges, fagyos szélei igazán lenyűgözőek; tartsa járva a motort, hogy a fotózás után meleg menedékbe térhessen vissza.",
+                "ro": "Marginile înghețate ale lacului sunt cu adevărat spectaculoase; țineți motorul pornit pentru a menține căldura după fotografiere.",
+                "en": "The icy, frozen edges of the lake are truly spectacular; keep the car engine running to maintain a warm retreat after taking pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkwerke Saint-Astier",
+                "hu": "Saint-Astier Mészüzem",
+                "ro": "Cuptoarele de Var Saint-Astier",
+                "en": "Chaux & Enduits de Saint-Astier"
+              },
+              "tip_5lang": {
+                "de": "Ein imposanter Anblick im Winterzwielicht; beenden Sie Ihre Tour hier, bevor gegen 17:00 die frühe Dunkelheit einsetzt.",
+                "hu": "Impozáns, árnyékos látvány a téli szürkületben; fejezze be itt az autós túrát, mielőtt a korai sötétség 17:00 körül teljesen beállna.",
+                "ro": "O priveliște impunătoare în amurgul de iarnă; terminați turul auto aici înainte ca întunericul să se lase complet în jur de 17:00.",
+                "en": "An imposing, shadowy sight in the winter twilight; finish up your driving tour here before the early darkness fully settles around 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

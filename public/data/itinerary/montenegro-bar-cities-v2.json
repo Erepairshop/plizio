@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a pezsgő vízpart közelében néhány emlékezetes fotóval, mielőtt elmerülne az ókeresztény romok ősi múltjában. Délben tegyen egy békés sétát a lenyűgöző katolikus társszékesegyház felé, élvezve a mediterrán szellőt. Délután szívja magába a helyi kultúrát és a gyönyörű művészeti alkotásokat a StoyanovićArt galériában. Zárja ezt az inspiráló napot a hatalmas ortodox templom aranykupolái alatt.",
         "ro": "Începeți dimineața lângă faleza vibrantă pentru fotografii memorabile înainte de a explora trecutul antic la ruinele paleocreștine. La prânz, faceți o plimbare pașnică spre impresionanta co-catedrală catolică, bucurându-vă de briza mediteraneană. Petreceți după-amiaza admirând cultura locală și arta superbă la galeria StoyanovićArt. Încheiați această zi inspirată sub cupolele aurii ale marelui templu ortodox.",
         "en": "Start your morning near the vibrant waterfront to capture some memorable photos before diving into the ancient past at the nearby Paleochristian ruins. By midday, take a peaceful stroll towards the striking Catholic Co-cathedral, enjoying the local Mediterranean breeze. Spend your afternoon soaking up local culture and beautiful artwork at the StoyanovićArt gallery. Conclude your inspiring day under the majestic golden domes of the grand Orthodox temple."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen an der Küstenpromenade mit einem stabilen Regenschirm.\n\nErkunden Sie vorsichtig die antiken Kirchenruinen, da die nassen Steine hier sehr rutschig sind.\n\nSuchen Sie nachmittags Schutz in der Kunstgalerie und genießen Sie die Werke im Trockenen.\n\nBeenden Sie den Tag am großen Tempel, dessen goldene Lichter sich malerisch in den Pfützen spiegeln.",
+            "hu": "Kezdd a csapadékos reggelt a parti sétányon egy strapabíró esernyővel a kezedben.\n\nSétálj óvatosan az ókeresztény romoknál, mert a mohás kövek rendkívül csúszhatnak.\n\nDélután keress menedéket a művészeti galériában, melegen és távol a zord időjárástól.\n\nZárd a napot a lenyűgöző templomnál, melynek fényei csodásan tükröződnek az esti pocsolyákban.",
+            "ro": "Începeți dimineața ploioasă pe faleza de coastă, echipați cu o umbrelă rezistentă.\n\nExplorați cu grijă ruinele antice, deoarece pietrele istorice devin foarte alunecoase la umezeală.\n\nRefugiați-vă după-amiaza în galeria de artă pentru a admira expozițiile la adăpost.\n\nÎncheiați ziua la marele templu, ale cărui lumini se reflectă magic în bălțile de seară.",
+            "en": "Start your wet morning at the coastal promenade equipped with a sturdy umbrella.\n\nNavigate carefully through the ancient ruins where the historic stones get extremely slippery.\n\nTake refuge in the spacious art gallery and admire local works away from the heavy rain.\n\nConclude at the grand temple, its golden details reflecting beautifully in the evening puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Love Bar",
+                "hu": "I Love Bar",
+                "ro": "I Love Bar",
+                "en": "I Love Bar"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein stimmungsvolles Foto am Schild vor stürmischer See, aber tragen Sie wasserdichte Schuhe wegen der großen Pfützen auf der Promenade.",
+                "hu": "Készíts egy hangulatos fotót a parti feliratnál a viharos tenger háttérével, de mindenképp viselj vízálló cipőt a mély parti pocsolyák miatt.",
+                "ro": "Faceți o poză melancolică la acest semn pe fundalul mării agitate, dar purtați încălțăminte impermeabilă pentru bălțile mari de pe faleză.",
+                "en": "Snap a moody photo by this coastal sign against the stormy sea, but wear waterproof shoes to easily navigate the large puddles along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Trikonchos - Frühchristliche Kirche",
+                "hu": "Trikonch - Ókeresztény templom",
+                "ro": "Triconch - Biserica paleocreștină",
+                "en": "Triconch - Paleochristian church 5.-9. cent."
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die faszinierenden Grundmauern dieser historischen Stätte, aber treten Sie äußerst vorsichtig auf die bei Regen sehr rutschigen Steine.",
+                "hu": "Fedezd fel ennek az ősi templomnak a lenyűgöző alapjait, de lépkedj nagyon óvatosan a történelmi köveken, amelyek esőben csúszóssá válnak.",
+                "ro": "Descoperiți fundațiile fascinante ale acestei biserici, pășind cu mare atenție pe pietrele istorice care devin alunecoase pe ploaie.",
+                "en": "Discover the fascinating foundations of this early Christian church, treading very carefully on the historic stones that become slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Konkathedrale St. Peter der Apostel",
+                "hu": "Szent Péter apostol társszékesegyház",
+                "ro": "Co-catedrala Sfântul Petru Apostol",
+                "en": "Co-cathedral of Saint Peter the Apostle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur dieser imposanten Konkathedrale, deren geräumiges Inneres perfekt ist, um einem Regenguss zu entkommen.",
+                "hu": "Csodáld meg a hatalmas társszékesegyház modern építészetét, amely tágas, száraz belső terével tökéletes menedéket nyújt egy hirtelen zápor elől.",
+                "ro": "Admirați arhitectura modernă a acestei cocatedrale, al cărei interior spațios și uscat este perfect pentru a scăpa de o aversă bruscă.",
+                "en": "Admire the modern architecture of this imposing co-cathedral, which offers a spacious, dry interior perfectly suited to escape a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija StoyanovićArt",
+                "hu": "Galerija StoyanovićArt",
+                "ro": "Galerija StoyanovićArt",
+                "en": "Galerija StoyanovićArt"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie in den farbenfrohen lokalen Kunstwerken, nehmen Sie sich Zeit zum Trocknen und genießen Sie die kreative Atmosphäre sicher drinnen.",
+                "hu": "Böngészd a színes helyi alkotásokat, szánj időt a ruháid megszáradására, és élvezd a kreatív légkört biztonságos, esőtől védett fedett helyen.",
+                "ro": "Explorați operele de artă locale în această galerie, luându-vă timp să vă uscați și să vă bucurați de atmosfera creativă la interior.",
+                "en": "Browse the colorful local artworks in this engaging gallery, taking your time to dry off and enjoy the creative atmosphere safely indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel des Heiligen Jovan Vladimir",
+                "hu": "Szent Jovan Vladimir templom",
+                "ro": "Templul Sfântului Jovan Vladimir",
+                "en": "Hram svetog Jovana Vladimira"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die goldenen Fresken dieses massiven orthodoxen Tempels, ein friedlicher und warmer Rückzugsort bei stürmischem Küstenwetter.",
+                "hu": "Tapasztald meg az ortodox templom lélegzetelállító freskóit, amely igazi békés és meleg lelki menedéket nyújt a viharos parti időjárás elől.",
+                "ro": "Experimentați frescele aurii uluitoare ale acestui templu ortodox, un refugiu spiritual cu adevărat senin și cald în timpul vremii furtunoase.",
+                "en": "Experience the breathtaking golden frescoes of this massive Orthodox temple, a truly serene and warm spiritual retreat during stormy coastal weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren winterlichen Spaziergang am Meer unbedingt in warmen Schichten.\n\nGenießen Sie die klare Mittagssonne bei den historischen Ruinen ganz ohne die übliche Sommerhitze.\n\nVerbringen Sie den Nachmittag in der Kunstgalerie, wenn die Temperatur langsam sinkt.\n\nBeenden Sie den Tag vor dem frühen Sonnenuntergang um 17 Uhr am warm beleuchteten Tempel.",
+            "hu": "Kezdd a csípős téli sétát a tengerparton, alaposan meleg rétegekbe öltözve.\n\nÉlvezd a ragyogó déli napsütést a történelmi romoknál, távol a tikkasztó nyári hőségtől.\n\nDélután tölts időt a fűtött galériában, ahogy a kinti hőmérséklet meredeken csökkenni kezd.\n\nFejezd be a napot a korai, délután 5 órás naplemente előtt a gyönyörűen kivilágított templomnál.",
+            "ro": "Începeți plimbarea de iarnă pe malul mării, îmbrăcați cu atenție în straturi călduroase.\n\nBucurați-vă de soarele amiezii explorând ruinele istorice fără căldura sufocantă a verii.\n\nPetreceți după-amiaza în galerie, pe măsură ce temperatura de afară începe să scadă.\n\nTerminați înainte de apusul timpuriu de la ora 17:00 la templul auriu luminat spectaculos.",
+            "en": "Start your crisp winter walk by the sea well wrapped in warm layers to block the wind.\n\nEnjoy the midday sun exploring the historical ruins comfortably without the intense summer heat.\n\nSpend your afternoon inside the heated gallery as the outside temperature begins to drop.\n\nFinish before the early 5 PM sunset at the brilliantly lit golden temple to avoid the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Love Bar",
+                "hu": "I Love Bar",
+                "ro": "I Love Bar",
+                "en": "I Love Bar"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das berühmte Wahrzeichen, aber tragen Sie eine gute winddichte Jacke, um sich gegen die eisige Meeresbrise zu schützen.",
+                "hu": "Készíts egy képet a nevezetességnél, és mindenképp viselj vastag szélkabátot, ami megbízhatóan felfogja a tenger felől érkező hideg fuvallatot.",
+                "ro": "Fotografiați-vă la celebrul reper, asigurându-vă că aveți o jachetă rezistentă la vânt pentru a bloca briza rece și pătrunzătoare a mării.",
+                "en": "Take a picture by the famous landmark, making sure you have a quality windbreaker to effectively block the biting and cold winter sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Trikonchos - Frühchristliche Kirche",
+                "hu": "Trikonch - Ókeresztény templom",
+                "ro": "Triconch - Biserica paleocreștină",
+                "en": "Triconch - Paleochristian church 5.-9. cent."
+              },
+              "tip_5lang": {
+                "de": "Untersuchen Sie die Mosaikreste dieser historischen Stätte bei klarer Wintersicht, aber tragen Sie dicke Socken wegen des kalten Bodens.",
+                "hu": "Vizsgáld meg a történelmi helyszín mozaikmaradványait a tiszta téli fényben, de viselj meleg zoknit, mert a talaj ilyenkor nagyon áthűl.",
+                "ro": "Examinați rămășițele mozaicurilor antice ale acestui sit, profitând de lumina clară de iarnă, dar purtând șosete groase pentru solul rece.",
+                "en": "Examine the ancient mosaic remnants of this historic site under the clear winter sky, but be sure to wear warm socks for the freezing ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Konkathedrale St. Peter der Apostel",
+                "hu": "Szent Péter apostol társszékesegyház",
+                "ro": "Co-catedrala Sfântul Petru Apostol",
+                "en": "Co-cathedral of Saint Peter the Apostle"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diesen schönen Bau, um die Buntglasfenster zu bewundern, und entfliehen Sie hier drinnen den unangenehmen, eisigen Winterwinden.",
+                "hu": "Lépj be a katolikus épületbe, hogy megcsodáld az ólomüveg ablakokat, ami békés és meleg menedéket nyújt a csípős téli szelek elől.",
+                "ro": "Intrați în această structură catolică pentru a admira vitraliile, oferind o evadare pașnică și izolată din calea vânturilor tăioase de iarnă.",
+                "en": "Enter this beautiful Catholic structure to admire its modern stained glass, offering a peaceful, insulated escape from the biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija StoyanovićArt",
+                "hu": "Galerija StoyanovićArt",
+                "ro": "Galerija StoyanovićArt",
+                "en": "Galerija StoyanovićArt"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in dieser gemütlichen, beheizten Galerie in die lokale Kunstszene ein, ideal für den kältesten Teil des winterlichen Nachmittags.",
+                "hu": "Merülj el a helyi művészeti világban ebben a fűtött galériában, amely tökéletes a leghidegebb téli délután kényelmes eltöltésére.",
+                "ro": "Cufundați-vă în arta locală în această galerie încălzită și confortabilă, perfectă pentru a petrece cea mai rece parte a după-amiezii de iarnă.",
+                "en": "Immerse yourself in local art inside this cozy, heated gallery, which is the perfect place to spend the coldest part of the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel des Heiligen Jovan Vladimir",
+                "hu": "Szent Jovan Vladimir templom",
+                "ro": "Templul Sfântului Jovan Vladimir",
+                "en": "Hram svetog Jovana Vladimira"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kunstvollen Wandmalereien dieser großen Kirche und planen Sie Ihren Besuch kurz vor dem winterlichen Sonnenuntergang um 17 Uhr.",
+                "hu": "Csodáld meg a hatalmas templomot borító falfestményeket, és időzítsd a látogatást a délután 5 órás téli naplemente elé a csodás fényekért.",
+                "ro": "Minunați-vă de picturile murale complexe din această biserică grandioasă, planificând vizita chiar înainte de apusul iernii de la ora 17:00.",
+                "en": "Marvel at the intricate murals inside this grand church, planning your visit right before the early 5 PM winter sunset for incredible lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Élvezze a frissítő reggeli tekerést a parton, lőjön egy fotót a város táblájánál, majd fedezze fel az ősi Trikonch romjait. Délben a társszékesegyház felé kerekezik, tökéletesen ötvözve a történelmi felfedezést az aktív pihenéssel. Délután tekerjen el a békés Crkva sv. Nikole templomhoz, majd térjen vissza a helyi művészeti galériába. Utazása a grandiózus ortodox templom lenyűgöző látványával ér véget.",
         "ro": "Bucurați-vă de o plimbare matinală pe coastă, faceți o fotografie la semnul orașului înainte de a descoperi secretele ruinelor antice. Prânzul vă aduce pedalând spre co-catedrală, îmbinând explorarea istorică cu turismul activ. După-amiaza, mergeți pe bicicletă până la pașnica Crkva sv. Nikole, apoi întoarceți-vă pentru artă la galeria locală. Plimbarea se încheie cu priveliștea uimitoare a marelui templu ortodox.",
         "en": "Enjoy a crisp morning ride along the coast, grabbing a quick photo at the city sign before uncovering the secrets of the ancient Triconch ruins. Midday takes you pedaling towards the grand Co-cathedral, seamlessly blending historical exploration with active travel. In the afternoon, cycle out to the peaceful Crkva sv. Nikole, then loop back for cultural enrichment at the local art gallery. Your ride finishes with the awe-inspiring sight of the grand Orthodox temple."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch den feuchten Morgenmist zur bekannten Küstenpromenade.\n\nFahren Sie besonders vorsichtig auf den rutschigen Wegen zu den antiken Ruinen.\n\nMachen Sie längere Pausen im Museum und in den Kirchen, um Ihre Kleidung zu trocknen.\n\nErreichen Sie den goldenen Tempel sicher vor den stärkeren abendlichen Schauern.",
+            "hu": "Tekerj a párás, hűvös reggelen a híres tengerparti felirathoz.\n\nHaladj nagyon óvatosan a nedves és csúszós utakon az ősi templomromok felé.\n\nTarts hosszabb beltéri szüneteket a múzeumban és a templomokban, hogy megszáradj.\n\nÉrj biztonságban a lenyűgöző templomhoz a sötétedéskori heves záporok előtt.",
+            "ro": "Pedalați prin ceața umedă a dimineții spre celebrul semn de pe faleză.\n\nMergeți foarte prudent pe drumurile alunecoase spre ruinele antice ale bisericii.\n\nFaceți pauze mai lungi la interior, la muzeu și biserici, pentru a vă usca hainele.\n\nNavigați în siguranță spre templul auriu înainte de ploile torențiale de seară.",
+            "en": "Pedal through the wet morning mist down to the iconic coastal sign.\n\nRide very cautiously on slippery local roads toward the ancient church ruins.\n\nTake longer indoor breaks at the museum and churches to dry your cycling gear.\n\nNavigate the rainy twilight safely to the golden temple before heavy showers hit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Love Bar",
+                "hu": "I Love Bar",
+                "ro": "I Love Bar",
+                "en": "I Love Bar"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an der nassen Promenade zum Schild und tragen Sie einen guten Regenponcho, um beim Radeln komplett trocken zu bleiben.",
+                "hu": "Tekerj lassan a nedves sétányon, és mindenképp viselj minőségi vízálló poncsót, hogy a hirtelen záporokban is teljesen száraz maradj.",
+                "ro": "Pedalați încet pe faleza umedă până la semn, asigurându-vă că purtați un poncho impermeabil pentru a rămâne uscat pe bicicletă.",
+                "en": "Ride slowly along the wet promenade to the sign, making sure to wear a waterproof poncho to stay completely dry while cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Trikonchos - Frühchristliche Kirche",
+                "hu": "Trikonch - Ókeresztény templom",
+                "ro": "Triconch - Biserica paleocreștină",
+                "en": "Triconch - Paleochristian church 5.-9. cent."
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an den antiken Ruinen und schieben Sie Ihr Rad, da das nasse Gras und die alten Steine für Fahrradschuhe extrem rutschig sind.",
+                "hu": "Állj meg az ősi romoknál és told a biciklit, mert a nedves fű és a több évszázados kövek rendkívül csúszósak lehetnek a kerékpáros cipőben.",
+                "ro": "Opriți-vă la ruine și mergeți pe lângă bicicletă, deoarece iarba udă și pietrele vechi pot fi extrem de alunecoase pentru încălțăminte.",
+                "en": "Stop at these ruins and walk your bike, as the wet grass and centuries-old stones can be extremely slippery for rigid cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Konkathedrale St. Peter der Apostel",
+                "hu": "Szent Péter apostol társszékesegyház",
+                "ro": "Co-catedrala Sfântul Petru Apostol",
+                "en": "Co-cathedral of Saint Peter the Apostle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vordach ab und betreten Sie diese moderne Kathedrale, um sich im Trockenen etwas aufzuwärmen.",
+                "hu": "Parkold le a bringád egy közeli tető alatt, és lépj be a modern székesegyházba megszáradni, miközben megcsodálod a belső teret.",
+                "ro": "Parcați bicicleta sub o copertină și intrați în această catedrală modernă pentru a vă usca în timp ce îi admirați interiorul vast.",
+                "en": "Park your bike under a nearby awning and step inside this striking modern cathedral to dry off while admiring its vast, peaceful interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Nikolaus",
+                "hu": "Szent Miklós templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "Crkva sv. Nikole"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese orthodoxe Kirche und wischen Sie Ihren nassen Fahrradsitz ab, bevor Sie die trockene, ruhige Atmosphäre drinnen genießen.",
+                "hu": "Látogasd meg a békés ortodox templomot, de mielőtt belépsz a száraz térbe, ne felejtsd el letörölni a vizes kerékpárülést a folytatáshoz.",
+                "ro": "Vizitați această biserică liniștită, ștergând șaua udă a bicicletei înainte de a intra pentru a vă bucura de atmosfera spirituală uscată.",
+                "en": "Visit this serene Orthodox church, making sure to wipe down your wet bike seat before heading inside to enjoy the dry, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija StoyanovićArt",
+                "hu": "Galerija StoyanovićArt",
+                "ro": "Galerija StoyanovićArt",
+                "en": "Galerija StoyanovićArt"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad sicher im Regen ab und wärmen Sie sich in dieser schönen Galerie mit lokaler Kunst für eine Stunde auf.",
+                "hu": "Zárd le biztonságosan a kerékpárt az esőben, és tölts el egy órát melegedéssel ebben a színes, helyi alkotásokkal teli galériában.",
+                "ro": "Securizați bicicleta în ploaie și petreceți o oră încălzindu-vă în această galerie plină de lucrări de artă locale vibrante.",
+                "en": "Lock your bike securely in the rain and spend an hour warming up inside this lovely gallery filled with vibrant, colorful local artwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel des Heiligen Jovan Vladimir",
+                "hu": "Szent Jovan Vladimir templom",
+                "ro": "Templul Sfântului Jovan Vladimir",
+                "en": "Hram svetog Jovana Vladimira"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt an diesem majestätischen Tempel und prüfen Sie unbedingt Ihr Fahrradlicht für den dunklen, regnerischen Rückweg.",
+                "hu": "Zárd a nedves túrát a fenséges templomnál, de indulás előtt ellenőrizd, hogy a kerékpár lámpái jól működnek-e a sötét, esős hazaúton.",
+                "ro": "Încheiați cursa umedă la acest templu maiestuos, dar asigurați-vă că luminile bicicletei funcționează perfect pentru drumul ploios de întoarcere.",
+                "en": "Conclude your wet ride at this majestic temple, but ensure your bike lights are working perfectly for the dark, rainy journey back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frische Winterfahrt gut eingepackt in winddichte Kleidung.\n\nGenießen Sie die leeren Straßen und den klaren Himmel bei den historischen Monumenten.\n\nWärmen Sie Ihre Hände in der Kunstgalerie und den kleinen lokalen Kirchen auf.\n\nBeenden Sie die Route rechtzeitig am Tempel, um nicht nach 17 Uhr im Dunkeln zu fahren.",
+            "hu": "Kezdd a frissítő téli kerékpározást meleg, szélálló rétegekbe burkolózva.\n\nÉlvezd az üres utakat és a tiszta eget a történelmi műemlékek felfedezése közben.\n\nMelegítsd fel a kezeidet a galériában és a kisebb helyi templomokban megállva.\n\nFejezd be a túrát a templomnál, hogy elkerüld a délután 5 óra utáni sötétben tekerést.",
+            "ro": "Începeți cursa de iarnă energizantă bine înfofoliți în straturi rezistente la vânt.\n\nBucurați-vă de drumurile goale și de cerul senin vizitând monumentele istorice.\n\nÎncălziți-vă mâinile în galeria de artă și în bisericile locale mai mici de pe traseu.\n\nTerminați traseul devreme la templu pentru a evita să pedalați după întunericul de la 17:00.",
+            "en": "Start your brisk winter ride firmly wrapped in multiple windproof layers.\n\nEnjoy the delightfully empty roads and clear skies while visiting historic monuments.\n\nTake time to warm your hands inside the local gallery and the smaller churches.\n\nFinish your route early by the grand temple to avoid cycling after the 5 PM darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Love Bar",
+                "hu": "I Love Bar",
+                "ro": "I Love Bar",
+                "en": "I Love Bar"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto am Wahrzeichen, aber behalten Sie Ihre Fahrradhandschuhe an, um sich vor dem eiskalten Küstenwind zu schützen.",
+                "hu": "Készíts egy gyors fotót a feliratnál, de tartsd magadon a kerékpáros kesztyűt, hogy megvédd a kezed a fagyos tengerparti széltől.",
+                "ro": "Faceți o fotografie la reperul iconic, dar păstrați mănușile de ciclism pentru a vă proteja de vântul rece și tăios de pe coastă.",
+                "en": "Take a quick photo at the iconic letters, but keep your cycling gloves securely on to protect against the chilly winter coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Trikonchos - Frühchristliche Kirche",
+                "hu": "Trikonch - Ókeresztény templom",
+                "ro": "Triconch - Biserica paleocreștină",
+                "en": "Triconch - Paleochristian church 5.-9. cent."
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zu diesen antiken Fundamenten und achten Sie besonders in den schattigen Bereichen auf mögliche eisige und rutschige Stellen.",
+                "hu": "Tekerj el az ősi alapokhoz a tiszta téli kilátásért, de nagyon vigyázz a lehetséges jeges foltokra a fák árnyékában lévő szakaszokon.",
+                "ro": "Pedalați până la aceste fundații antice și bucurați-vă de priveliște, având grijă la peticele de gheață posibile din zonele umbrite.",
+                "en": "Cycle up to these ancient foundations for unobstructed views, taking special care to avoid potentially icy patches in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Konkathedrale St. Peter der Apostel",
+                "hu": "Szent Péter apostol társszékesegyház",
+                "ro": "Co-catedrala Sfântul Petru Apostol",
+                "en": "Co-cathedral of Saint Peter the Apostle"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre frierenden Hände in dieser beeindruckenden katholischen Kirche auf, bevor Sie sich wieder auf das kalte Fahrrad setzen.",
+                "hu": "Melegítsd fel az átfagyott kezeidet ebben a lenyűgöző katolikus templomban, mielőtt újra nyeregbe pattannál a hideg téli levegőn.",
+                "ro": "Încălziți-vă mâinile înghețate în această impresionantă biserică catolică, înainte de a vă urca din nou pe bicicleta rece afară.",
+                "en": "Warm up your freezing hands inside this impressive Catholic church, admiring the architecture before getting back on your cold bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Nikolaus",
+                "hu": "Szent Miklós templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "Crkva sv. Nikole"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie an dieser ruhigen Kirche und nutzen Sie den Stopp, um eine zusätzliche Kleidungsschicht für den kalten Nachmittag anzuziehen.",
+                "hu": "Állj meg ennél a csendes templomnál, és használd ki a szünetet arra, hogy felvegyél egy plusz réteget a hideg délutáni folytatáshoz.",
+                "ro": "Faceți o pauză la această biserică liniștită, folosind oprirea pentru a adăuga un strat suplimentar de haine pentru după-amiaza rece.",
+                "en": "Pause your ride at this charming, quiet church to reflect, using the stop to add an extra layer of clothing for the afternoon temperature drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija StoyanovićArt",
+                "hu": "Galerija StoyanovićArt",
+                "ro": "Galerija StoyanovićArt",
+                "en": "Galerija StoyanovićArt"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine wohlverdiente Pause vom kalten Sattel und erkunden Sie die lokalen Gemälde in der wohligen Wärme dieses Kunstraums.",
+                "hu": "Tarts egy jól megérdemelt szünetet a hideg nyeregtől, és fedezd fel a helyi festményeket ennek a művészeti térnek a kellemes melegében.",
+                "ro": "Luați o pauză binemeritată de la șaua rece pentru a explora picturile locale în căldura reconfortantă a acestui spațiu artistic.",
+                "en": "Take a well-deserved break from the freezing saddle to explore local paintings in the comforting heat of this cozy artistic space."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel des Heiligen Jovan Vladimir",
+                "hu": "Szent Jovan Vladimir templom",
+                "ro": "Templul Sfântului Jovan Vladimir",
+                "en": "Hram svetog Jovana Vladimira"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die goldenen Kuppeln dieses Tempels und beenden Sie Ihren Besuch rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Csodáld meg a hatalmas templom aranykupoláit, de ügyelj rá, hogy a látogatást a korai, délután 5 órás sötétedés előtt fejezd be.",
+                "ro": "Admirați cupolele aurii ale acestui templu, asigurându-vă că terminați vizita înainte ca apusul timpuriu de la 17:00 să facă drumul nesigur.",
+                "en": "Admire the spectacular golden domes of this vast temple, making sure to finish your visit before the early 17:00 sunset makes riding unsafe."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje útját a csodálatos ortodox templomnál, majd hajtson le a nyüzsgő sétányra egy gyors tengerparti fotó erejéig. Délben könnyedén navigáljon az ókeresztény romok és a modern társszékesegyház között. Délután hagyja el a városközpontot, és autózzon fel a Sutorman festői lejtőire a lélegzetelállító tájért. Zárja a napot a történelmi Crkva sv. Vita templomnál, elmerülve a békés, magaslati hangulatban.",
         "ro": "Începeți plimbarea la magnificul templu ortodox, înainte de a coborî spre faleza plină de viață pentru o scurtă fotografie la malul mării. La prânz, navigați fără efort între ruinele antice paleocreștine și co-catedrala modernă. Petreceți după-amiaza evadând din centrul orașului, urcând pe versanții pitorești ai muntelui Sutorman. Încheiați ziua la istorica Crkva sv. Vita, bucurându-vă de atmosfera senină.",
         "en": "Start your drive at the magnificent Orthodox temple, marveling at its golden domes before heading down to the lively promenade for a quick seaside snapshot. By midday, effortlessly navigate between the ancient Paleochristian ruins and the modern Co-cathedral. Spend your afternoon escaping the city center, cruising up the scenic slopes of Sutorman for breathtaking landscapes. End your day trip at the historic Crkva sv. Vita, soaking in the serene, elevated atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren regnerischen Morgen mit einer bequemen Fahrt zum großen Tempel.\n\nParken Sie an der Küste, um das Schild und die antiken Ruinen mit Schirm zu sehen.\n\nVerbringen Sie den Nachmittag trocken zwischen den schön dekorierten Kirchen.\n\nFahren Sie abends vorsichtig durch den Nebel hinauf zum Sutorman-Gebirge.",
+            "hu": "Kezdd az esős reggelt egy kényelmes autózással a hatalmas aranytemplomhoz.\n\nParkolj le a parton, hogy esernyővel nézd meg a feliratot és az ősi romokat.\n\nTöltsd a nedves délutánt a gyönyörűen díszített, száraz templomok között autózva.\n\nVezess nagyon óvatosan a ködös esőben fel a Sutorman hegyre a nap végén.",
+            "ro": "Începeți dimineața ploioasă cu un drum confortabil spre marele templu auriu.\n\nParcați pe coastă pentru a vedea semnul și ruinele antice sub o umbrelă.\n\nPetreceți după-amiaza umedă sărind între bisericile de interior frumos decorate.\n\nConduceți cu prudență pe ploaie și ceață spre muntele Sutorman la lăsarea serii.",
+            "en": "Start your rainy morning with a comfortable drive straight to the grand golden temple.\n\nPark near the coast to see the iconic sign and ancient ruins with a sturdy umbrella.\n\nSpend the wet afternoon hopping between beautifully decorated, dry indoor churches.\n\nDrive very carefully up to Sutorman in the misty rain for a moody evening adventure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tempel des Heiligen Jovan Vladimir",
+                "hu": "Szent Jovan Vladimir templom",
+                "ro": "Templul Sfântului Jovan Vladimir",
+                "en": "Hram svetog Jovana Vladimira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am großen Parkplatz des Tempels und entfliehen Sie dem Regen, um die leuchtenden Fresken in diesem Heiligtum zu bewundern.",
+                "hu": "Parkolj közvetlenül a templom tágas parkolójában, és lépj be az eső elől, hogy megcsodáld a ragyogó, padlótól a mennyezetig érő freskókat.",
+                "ro": "Parcați direct la parcarea mare a templului și scăpați de ploaie pentru a admira frescele strălucitoare din acest sanctuar masiv.",
+                "en": "Park directly at the temple's large lot and step out of the rain to admire the glowing, floor-to-ceiling frescoes inside this massive sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "I Love Bar",
+                "hu": "I Love Bar",
+                "ro": "I Love Bar",
+                "en": "I Love Bar"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Promenade für ein schnelles Foto unter dem Regenschirm mit den Buchstaben vor der dramatischen, stürmischen Adria.",
+                "hu": "Állj félre egy rövid időre a sétány közelében egy gyors, esernyős fotó erejéig a híres feliratnál, a drámai, viharos Adria hátterével.",
+                "ro": "Trageți pe dreapta scurt pentru o fotografie rapidă sub umbrelă cu faimoasele litere, având ca fundal Marea Adriatică dramatică și furtunoasă.",
+                "en": "Pull over briefly near the promenade for a quick, umbrella-shielded photo of the famous letters against the dramatic, stormy Adriatic Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Trikonchos - Frühchristliche Kirche",
+                "hu": "Trikonch - Ókeresztény templom",
+                "ro": "Triconch - Biserica paleocreștină",
+                "en": "Triconch - Paleochristian church 5.-9. cent."
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vom Auto zu diesen Ruinen und treten Sie sehr vorsichtig auf die nassen, moosigen Steine, die bei starkem Regen rutschig werden.",
+                "hu": "Sétálj az autótól ezekhez a lenyűgöző romokhoz, de lépkedj rendkívül óvatosan a nedves, mohás köveken, amelyek esőben nagyon csúsznak.",
+                "ro": "Mergeți de la mașină la aceste ruine, pășind extrem de prudent pe pietrele umede și mușchiate, care devin foarte alunecoase pe ploaie.",
+                "en": "Walk from your car to these ruins, stepping extremely cautiously on the wet, mossy stones that become very slick and slippery in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Konkathedrale St. Peter der Apostel",
+                "hu": "Szent Péter apostol társszékesegyház",
+                "ro": "Co-catedrala Sfântul Petru Apostol",
+                "en": "Co-cathedral of Saint Peter the Apostle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die guten Parkmöglichkeiten an dieser Kathedrale, die eine geräumige und vor allem trockene Zuflucht vor dem Platzregen bietet.",
+                "hu": "Használd ki a kiváló parkolási lehetőséget a székesegyháznál, amely tágas és teljesen száraz építészeti menedéket nyújt a felhőszakadás elől.",
+                "ro": "Profitați de parcarea ușoară de lângă această catedrală impresionantă, care oferă o evadare arhitecturală spațioasă și uscată din calea ploii.",
+                "en": "Take advantage of the easy parking near this impressive cathedral, providing a spacious and completely dry architectural escape from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Nikolaus",
+                "hu": "Szent Miklós templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "Crkva sv. Nikole"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu dieser friedlichen Kirche und schütteln Sie Ihren Regenschirm gut aus, bevor Sie den trockenen, heiligen Raum betreten.",
+                "hu": "Vezess ehhez a békés templomhoz, élvezd a csendes belső teret, de ügyelj rá, hogy alaposan rázd le az esernyődet, mielőtt belépsz a szent térbe.",
+                "ro": "Conduceți spre această biserică pașnică, asigurându-vă că scuturați bine umbrela înainte de a intra în spațiul sacru și complet uscat.",
+                "en": "Drive to this peaceful church and enjoy the quiet interior, making sure to thoroughly shake off your umbrella before entering the sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Sutorman",
+                "hu": "Sutorman",
+                "ro": "Sutorman",
+                "en": "Sutorman"
+              },
+              "tip_5lang": {
+                "de": "Befahren Sie die kurvige Bergstraße bei Regen mit extremer Vorsicht und stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+                "hu": "Navigálj a kanyargós hegyi úton rendkívüli óvatossággal az esőben a hangulatos tájért, és ellenőrizd, hogy az ablaktörlőid hibátlanul működnek.",
+                "ro": "Navigați cu extremă prudență pe drumul montan șerpuit prin ploaie, asigurându-vă că ștergătoarele de parbriz funcționează perfect.",
+                "en": "Navigate the winding mountain road with extreme caution in the rain to see the moody landscape, ensuring your windshield wipers are fully functioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Vitus",
+                "hu": "Szent Vitus templom",
+                "ro": "Biserica Sf. Vitus",
+                "en": "Crkva sv. Vita"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an dieser historischen Kirche am Hang und tragen Sie feste wasserdichte Schuhe für den schlammigen Weg vom Parkplatz.",
+                "hu": "Zárd a vezetést ennél a domboldali történelmi templomnál, de viselj masszív vízálló bakancsot a parkolótól vezető rövid, de saras sétához.",
+                "ro": "Încheiați drumul la această biserică istorică pe deal, purtând cizme impermeabile robuste pentru scurta plimbare noroioasă de la parcare.",
+                "en": "End your drive at this historic hillside church, wearing sturdy waterproof boots for the short but inevitably muddy walk from the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem klaren Wintermorgen bequem zum großen goldenen Tempel.\n\nPacken Sie sich gut ein, um den kalten Küstenwinden an den Denkmälern zu trotzen.\n\nGenießen Sie die Wärme Ihres Autos, während Sie zwischen den Kirchen fahren.\n\nFahren Sie zum Sutorman, bevor die Sonne früh um 17:00 Uhr untergeht.",
+            "hu": "Vezess kényelmesen a fűtött autóban a hatalmas templomhoz a csípős téli reggelen.\n\nÖltözz fel vastagon, hogy dacolj a műemlékeknél fújó hideg tengerparti szelekkel.\n\nÉlvezd az autód melegét, miközben a történelmi templomok között navigálsz.\n\nIrány a Sutorman hegy, de érj fel a korai, délután 5 órás naplemente előtt.",
+            "ro": "Conduceți confortabil spre marele templu în dimineața senină, dar rece de iarnă.\n\nÎnfofoliți-vă pentru a înfrunta vânturile reci de coastă la monumentele locale.\n\nBucurați-vă de căldura mașinii în timp ce navigați între bisericile istorice.\n\nUrcați pe munte spre Sutorman înainte ca soarele să apună devreme la 17:00.",
+            "en": "Drive comfortably in your heated car to the grand temple on a crisp winter morning.\n\nBundle up securely to brave the freezing coastal winds at the outdoor monuments.\n\nEnjoy the cozy warmth of your car while navigating between the historic churches.\n\nHead up the mountain to Sutorman before the sun sets early and completely at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tempel des Heiligen Jovan Vladimir",
+                "hu": "Szent Jovan Vladimir templom",
+                "ro": "Templul Sfântului Jovan Vladimir",
+                "en": "Hram svetog Jovana Vladimira"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag mit der Pracht dieses massiven Tempels und genießen Sie die ruhige Winteratmosphäre ohne die üblichen Touristenmassen.",
+                "hu": "Kezdd a napot ennek a hatalmas templomnak az arany pompájával, élvezve a nagyon nyugodt téli atmoszférát a nyári turistatömegek nélkül.",
+                "ro": "Începeți ziua apreciind măreția aurie a acestui templu masiv, bucurându-vă de atmosfera liniștită de iarnă, fără aglomerația turiștilor de vară.",
+                "en": "Begin your day appreciating the golden grandeur of this massive temple, enjoying the quiet winter atmosphere free from summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "I Love Bar",
+                "hu": "I Love Bar",
+                "ro": "I Love Bar",
+                "en": "I Love Bar"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus Ihrem beheizten Auto für ein Foto am Schild, aber packen Sie sich dicht gegen den beißenden Winterwind vom Meer ein.",
+                "hu": "Szállj ki a fűtött autóból egy gyors fotóra a feliratnál, de burkolózz be jó alaposan a tenger felől fújó, rendkívül csípős téli szelek ellen.",
+                "ro": "Coborâți scurt din mașina încălzită pentru o fotografie la semn, dar înfofoliți-vă strâns împotriva vânturilor tăioase de iarnă de pe mare.",
+                "en": "Step out of your heated car briefly to snap a photo with the iconic sign, but wrap up tightly against the sharply biting winter winds off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Trikonchos - Frühchristliche Kirche",
+                "hu": "Trikonch - Ókeresztény templom",
+                "ro": "Triconch - Biserica paleocreștină",
+                "en": "Triconch - Paleochristian church 5.-9. cent."
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese antiken Fundamente unter dem klaren Winterhimmel, aber achten Sie auf den Boden, der morgens sehr frostig sein kann.",
+                "hu": "Fedezd fel ezeket a lenyűgöző ókori alapokat a tiszta téli égbolt alatt, de nagyon vigyázz a lépteidre, mert a talaj reggelente dérmenetes és fagyos.",
+                "ro": "Explorați aceste fundații antice remarcabile sub cerul senin de iarnă, dar fiți atenți la solul care poate fi înghețat și alunecos dimineața.",
+                "en": "Explore these remarkable ancient foundations under the clear winter sky, but watch your step closely on the ground which can be frosty in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Konkathedrale St. Peter der Apostel",
+                "hu": "Szent Péter apostol társszékesegyház",
+                "ro": "Co-catedrala Sfântul Petru Apostol",
+                "en": "Co-cathedral of Saint Peter the Apostle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur dieser Kathedrale, die ein perfekter, zugluftfreier Ort ist, wenn die Außentemperaturen im Winter deutlich fallen.",
+                "hu": "Csodáld meg a modern székesegyház építészetét, amely tökéletes, meleg és huzatmentes hely a felfedezésre, amikor a kinti hőmérséklet leesik.",
+                "ro": "Admirați arhitectura distinctivă a acestei catedrale, un loc perfect, fără curenți de aer, de explorat atunci când temperaturile exterioare scad.",
+                "en": "Admire the distinctive architecture of this modern cathedral, a perfect, draft-free place to explore comfortably when the outside temperatures drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Nikolaus",
+                "hu": "Szent Miklós templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "Crkva sv. Nikole"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an dieser Kirche, um die Zeit in der Kälte zu minimieren, und treten Sie ein, um ihr warmes, spirituelles Ambiente zu entdecken.",
+                "hu": "Parkolj közel ehhez a kedves templomhoz, hogy minimalizáld a kint, hidegben töltött időt, majd lépj be a meleg és békés spirituális térbe.",
+                "ro": "Parcați aproape de această biserică pentru a minimiza timpul petrecut în frig și intrați pentru a descoperi ambianța sa spirituală caldă.",
+                "en": "Park close to this lovely church to completely minimize your time in the cold, stepping inside to discover its warm and peaceful spiritual ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Sutorman",
+                "hu": "Sutorman",
+                "ro": "Sutorman",
+                "en": "Sutorman"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie den Bergpass für spektakuläre verschneite Aussichten hinauf, aber stellen Sie sicher, dass Ihr Fahrzeug unbedingt gute Winterreifen hat.",
+                "hu": "Vezess fel a hegyi hágóra a látványos havas tájért, de győződj meg róla, hogy az autón megfelelő téli gumik vannak, mert a kanyarok jegesek.",
+                "ro": "Urcați pe pasul montan pentru vederi spectaculoase cu zăpadă, dar asigurați-vă că vehiculul are anvelope de iarnă, curbele umbrite fiind înghețate.",
+                "en": "Drive up the mountain pass for spectacular snowy views, but carefully ensure your vehicle has proper winter tires as the shady bends can be quite icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Vitus",
+                "hu": "Szent Vitus templom",
+                "ro": "Biserica Sf. Vitus",
+                "en": "Crkva sv. Vita"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch dieser Kirche kurz vor dem frühen Sonnenuntergang um 17 Uhr, um das goldene Licht über der eisigen Küste zu genießen.",
+                "hu": "Időzítsd a látogatást ehhez az ősi templomhoz közvetlenül a korai, délután 5 órás naplemente elé, hogy láthasd az arany órát a fagyos parti tájon.",
+                "ro": "Programați-vă vizita la această biserică chiar înainte de apusul de la ora 17:00, bucurându-vă de lumina aurie peste peisajul de coastă înghețat.",
+                "en": "Time your visit to this ancient church just before the early 5 PM sunset, enjoying the spectacular golden hour light over the freezing coastal landscape."
+              }
+            }
+          ]
+        }
       }
     }
   }

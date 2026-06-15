@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Riva Ligure szívének felfedezésével és a legkedveltebb templomok meglátogatásával, élvezve a békés tengerparti hangulatot.\n\nDélben merüljön el a régió lenyűgöző történelmében a multimédiás múzeumban, mielőtt a part menti erődítmények felé venné az irányt.\n\nTöltse a délutánt egy sétával a gyönyörű parton Santo Stefano al Mare felé, útközben pedig fedezze fel a római kori régiségeket.\n\nZárja a napot a Baia Azzurra lágy hullámainál pihenve, és gyönyörködjön a csendes mediterrán naplementében.",
         "ro": "Începeți dimineața explorând inima orașului Riva Ligure cu vizite la cele mai iubite biserici ale sale, bucurându-vă de atmosfera pașnică a coastei.\n\nLa prânz, pătrundeți în istoria fascinantă a regiunii la muzeul multimedia înainte de a vă îndrepta spre fortificațiile de coastă.\n\nPetreceți după-amiaza plimbându-vă de-a lungul coastei frumoase spre Santo Stefano al Mare, descoperind antichități romane pe parcurs.\n\nÎncheiați ziua relaxându-vă la valurile blânde de la Baia Azzurra, admirând apusul senin și liniștit al Mediteranei.",
         "en": "Begin your morning exploring the heart of Riva Ligure with visits to its most beloved churches, embracing the peaceful coastal atmosphere.\n\nBy midday, dive into the fascinating history of the region at the multimedia museum before heading towards the coastal fortifications.\n\nSpend your afternoon walking along the beautiful shore towards Santo Stefano al Mare, discovering Roman antiquities along the way.\n\nConclude your day relaxing by the gentle waves at Baia Azzurra, taking in the serene Mediterranean sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den geschützten Kirchen von Riva Ligure, während der Regen gegen die alten Mauern trommelt. Mittags bietet das SEM-Museum einen trockenen Rückzugsort voller Technik. Am Nachmittag führt der Weg zum Museo del Relitto Romano, wo Sie die Archäologie ohne nasse Füße erkunden können. Den Abend lassen Sie bei einem dramatischen Blick auf das graue Meer ausklingen.",
+            "hu": "Kezdje a napot Riva Ligure védett templomaiban, miközben az eső kopog az ódon falakon. Délben a SEM multimédiás kiállítása kínál száraz menedéket és modern látnivalókat. Délután látogasson el a Museo del Relitto Romano-ba, ahol fedett helyen ismerheti meg a római múltat. Az estét a viharos tenger látványával zárhatja egy esernyő alól, élvezve a part különleges, borongós hangulatát.",
+            "ro": "Începeți ziua în interiorul bisericilor protejate din Riva Ligure, în timp ce ploaia bate în zidurile vechi. La prânz, muzeul SEM oferă un refugiu uscat plin de tehnologie. După-amiaza, vizitați Museo del Relitto Romano pentru a explora arheologia fără a vă uda. Seara se încheie cu o priveliște dramatică asupra mării cenușii, ascultând sunetul valurilor sub protecția unei umbrele.",
+            "en": "Start your day inside the sheltered churches of Riva Ligure as the rain drums against the ancient walls. At noon, the SEM museum provides a dry retreat filled with multimedia exhibits. In the afternoon, head to the Museo del Relitto Romano to explore underwater archaeology without getting wet. End the evening with a dramatic view of the grey sea from a safe, covered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di San Maurizio",
+                "hu": "Chiesa parrocchiale di San Maurizio",
+                "ro": "Chiesa parrocchiale di San Maurizio",
+                "en": "Chiesa parrocchiale di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Interieur im trockenen Schutz der Kirche; halten Sie Ihren Regenschirm für den kurzen Fußweg zum nächsten Halt bereit.",
+                "hu": "Csodálja meg a barokk belső teret a templom száraz védelmében; készítse elő esernyőjét a következő állomásig tartó rövid, vizes sétához.",
+                "ro": "Admirați interiorul baroc în adăpostul uscat al bisericii; pregătiți umbrela pentru scurta plimbare până la următoarea oprire.",
+                "en": "Admire the baroque interior while sheltering from the rain; keep your umbrella ready for the short walk to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Nostra Signora del Buon Consiglio",
+                "hu": "Santuario di Nostra Signora del Buon Consiglio",
+                "ro": "Santuario di Nostra Signora del Buon Consiglio",
+                "en": "Santuario di Nostra Signora del Buon Consiglio"
+              },
+              "tip_5lang": {
+                "de": "Das Heiligtum bietet eine friedliche Zuflucht vor dem Wetter; achten Sie auf die rutschigen Stufen am Eingang bei Nässe.",
+                "hu": "A szentély békés menedéket nyújt az időjárás elől; ügyeljen a bejáratnál lévő lépcsőkre, mert az esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Sanctuarul oferă un refugiu liniștit împotriva vremii; aveți grijă la treptele alunecoase de la intrare pe timp de ploaie.",
+                "en": "The sanctuary offers a peaceful indoor refuge; watch your step on the wet stone steps leading up to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "SEM Spazio Espositivo Multimediale",
+                "hu": "SEM Spazio Espositivo Multimediale",
+                "ro": "SEM Spazio Espositivo Multimediale",
+                "en": "SEM Spazio Espositivo Multimediale"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum, um dem stärksten Regen zu entkommen; die interaktiven Displays sind perfekt für eine längere Pause im Trockenen.",
+                "hu": "Használja ki a múzeumot, hogy elmeneküljön a szakadó eső elől; az interaktív kijelzők tökéletesek egy hosszabb, száraz pihenőhöz.",
+                "ro": "Folosiți muzeul pentru a scăpa de ploaia torențială; ecranele interactive sunt perfecte pentru o pauză prelungită la adăpost.",
+                "en": "Use the museum to escape the heaviest rain; the interactive displays are perfect for a long indoor break while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "La Torre",
+                "hu": "La Torre",
+                "ro": "La Torre",
+                "en": "La Torre"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf den Wehrturm ist auch bei Regen lohnenswert; die umliegenden Wege können jedoch tiefe Pfützen bilden.",
+                "hu": "A védmű megtekintése esőben is érdekes látvány; vigyázzon, mert a környező utakon mély tócsák alakulhatnak ki a zápor során.",
+                "ro": "O privire rapidă asupra turnului merită chiar și pe ploaie; aveți grijă că potecile din jur pot forma bălți adânci.",
+                "en": "A quick look at the defensive tower is worthwhile even in the rain; be aware that the surrounding paths can form deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Relitto Romano",
+                "hu": "Museo del Relitto Romano",
+                "ro": "Museo del Relitto Romano",
+                "en": "Museo del Relitto Romano"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Unterwasserarchäologie in den geschützten Räumen; dies ist der beste Ort, um einen Schauer abzuwarten.",
+                "hu": "Merüljön el a víz alatti régészetben a védett kiállítóterekben; ez a legjobb hely a környéken egy nagyobb zápor átvészelésére.",
+                "ro": "Concentrați-vă pe arheologia subacvatică în spațiile protejate; este cel mai bun loc pentru a aștepta trecerea unei averse.",
+                "en": "Focus on the underwater archaeology inside the protected rooms; it is the best place to wait out a passing shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santo Stefano",
+                "hu": "Chiesa di Santo Stefano",
+                "ro": "Chiesa di Santo Stefano",
+                "en": "Chiesa di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein ruhiger Ort zum Trocknen; bleiben Sie auf den gepflasterten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Ez a kis templom csendes hely a megszárítkozáshoz; maradjon a kövezett úton, hogy elkerülje a sárfelverődést a kertben.",
+                "ro": "Această mică biserică este un loc liniștit pentru a vă usca; rămâneți pe potecile pavate pentru a evita noroiul.",
+                "en": "This small church is a quiet spot to dry off; stay on the paved sections to avoid the mud in the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Azzurra",
+                "hu": "Baia Azzurra",
+                "ro": "Baia Azzurra",
+                "en": "Baia Azzurra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Rauschen der Wellen von einem überdachten Punkt aus; die Gischt ist bei Regen besonders eindrucksvoll.",
+                "hu": "Élvezze a hullámok zúgását egy fedett kilátópontról; a tengeri permet esős időben különösen látványos és frissítő.",
+                "ro": "Bucurați-vă de sunetul valurilor dintr-un punct acoperit; spuma mării este deosebit de impresionantă pe timp de ploaie.",
+                "en": "Enjoy the sound of the waves from a covered viewpoint; the sea spray is particularly impressive and dramatic during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne glitzert tief über dem Meer von Riva Ligure. Vormittags wärmen Sie sich in den kunstvollen Kirchen auf, bevor die frische Meeresbrise Sie wachrüttelt. Mittags bieten die Museen eine angenehme Pause im Warmen. Der Nachmittag wird kurz, da die Sonne gegen 17:00 Uhr untergeht. Den Abend verbringen Sie am besten eingekuschelt in einer warmen Jacke am Strand.",
+            "hu": "A téli nap alacsonyan szikrázik Riva Ligure tengerpartján. Délelőtt melegedjen fel a művészi templomokban, mielőtt a friss tengeri szellő felébresztené. Délben a múzeumok kínálnak kellemes, fűtött pihenőt. A délután rövid, mivel a nap 17:00 körül már nyugovóra tér. Az estét töltheti egy vastag kabátban a parton, élvezve a téli alkonyat tiszta fényeit.",
+            "ro": "Soarele de iarnă strălucește jos peste marea din Riva Ligure. Dimineața, încălziți-vă în bisericile pline de artă înainte ca briza proaspătă să vă trezească. La prânz, muzeele oferă o pauză plăcută la căldură. După-amiaza este scurtă, deoarece soarele apune în jur de ora 17:00. Seara se petrece cel mai bine înfofolit într-o jachetă groasă pe plajă.",
+            "en": "The winter sun sparkles low over the sea of Riva Ligure. In the morning, warm up in the artistic churches before the fresh sea breeze wakes you up. At noon, the museums provide a pleasant break in the warmth. The afternoon is short, with sunset arriving around 17:00. Spend the evening wrapped in a warm jacket, enjoying the clear winter twilight at the beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di San Maurizio",
+                "hu": "Chiesa parrocchiale di San Maurizio",
+                "ro": "Chiesa parrocchiale di San Maurizio",
+                "en": "Chiesa parrocchiale di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist meist wärmer als der Wind am Meer; nehmen Sie sich Zeit, die Details ohne die Sommerhitze zu bewundern.",
+                "hu": "A belső tér általában melegebb, mint a parti szél; szánjon időt a részletek megtekintésére a nyári hőség és tömeg nélkül.",
+                "ro": "Interiorul este de obicei mai cald decât vântul de afară; admirați detaliile în liniște, fără căldura verii.",
+                "en": "The interior is usually warmer than the wind by the sea; take your time to admire the details without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario di Nostra Signora del Buon Consiglio",
+                "hu": "Santuario di Nostra Signora del Buon Consiglio",
+                "ro": "Santuario di Nostra Signora del Buon Consiglio",
+                "en": "Santuario di Nostra Signora del Buon Consiglio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Heiligtum am Vormittag, wenn die Wintersonne die Fassade beleuchtet; tragen Sie eine winddichte Schicht.",
+                "hu": "Látogassa meg a szentélyt délelőtt, amikor a téli nap megvilágítja a homlokzatot; viseljen szélálló ruházatot a parton.",
+                "ro": "Vizitați sanctuarul dimineața, când soarele de iarnă luminează fațada; purtați un strat rezistent la vânt.",
+                "en": "Visit the sanctuary in the morning when the winter sun illuminates the facade; wear a windproof layer near the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "SEM Spazio Espositivo Multimediale",
+                "hu": "SEM Spazio Espositivo Multimediale",
+                "ro": "SEM Spazio Espositivo Multimediale",
+                "en": "SEM Spazio Espositivo Multimediale"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Multimedia-Zentrum ist ideal, um die Mittagskälte zu überbrücken; vertiefen Sie sich in die digitalen Geschichten.",
+                "hu": "A fűtött multimédiás központ ideális a déli hideg elkerülésére; merüljön el a digitális történetekben a kellemes melegben.",
+                "ro": "Centrul multimedia încălzit este ideal pentru a evita frigul de la prânz; aprofundați poveștile digitale la căldură.",
+                "en": "The heated multimedia center is ideal for escaping the midday chill; immerse yourself in the digital stories comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "La Torre",
+                "hu": "La Torre",
+                "ro": "La Torre",
+                "en": "La Torre"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm bietet eine tolle Kulisse für Fotos im tiefstehenden Sonnenlicht; Handschuhe sind wegen der Meeresbrise ratsam.",
+                "hu": "A történelmi torony remek hátteret nyújt a fotókhoz az alacsony napfényben; a tengeri szél miatt a kesztyű viselete javasolt.",
+                "ro": "Turnul istoric oferă un fundal excelent pentru fotografii în lumina joasă a soarelui; mănușile sunt recomandate din cauza bizei.",
+                "en": "The historical tower provides a great backdrop for photos in the low sunlight; gloves are advised due to the sharp sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Relitto Romano",
+                "hu": "Museo del Relitto Romano",
+                "ro": "Museo del Relitto Romano",
+                "en": "Museo del Relitto Romano"
+              },
+              "tip_5lang": {
+                "de": "Ein lehrreicher Innenstopp, der Sie vor dem frühen Temperatursturz am späten Nachmittag schützt.",
+                "hu": "Tanulságos fedett megálló, amely megvédi Önt a késő délutáni hirtelen hőmérséklet-csökkenéstől.",
+                "ro": "O oprire interioară educativă care vă protejează de scăderea bruscă a temperaturii de la sfârșitul după-amiezii.",
+                "en": "An educational indoor stop that protects you from the sudden temperature drop in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santo Stefano",
+                "hu": "Chiesa di Santo Stefano",
+                "ro": "Chiesa di Santo Stefano",
+                "en": "Chiesa di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille, während das warme Licht durch die Fenster fällt; ideal vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "Élvezze a csendet, ahogy a téli fény átszűrődik az ablakokon; ideális látogatás a korai, 17 órai napnyugta előtt.",
+                "ro": "Bucurați-vă de liniște în timp ce lumina caldă trece prin ferestre; ideal înainte de apusul de la ora 17:00.",
+                "en": "Enjoy the silence as the winter light filters through the windows; ideal to visit before the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Azzurra",
+                "hu": "Baia Azzurra",
+                "ro": "Baia Azzurra",
+                "en": "Baia Azzurra"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; halten Sie eine zusätzliche Schicht Kleidung für die Kälte bereit.",
+                "hu": "Nézze meg a korai naplementét 17:00 körül; legyen kéznél egy extra réteg ruha a gyors lehűlés miatt.",
+                "ro": "Urmăriți apusul devreme, în jur de ora 17:00; aveți pregătit un strat suplimentar de haine pentru frigul serii.",
+                "en": "Watch the early sunset around 17:00; have an extra layer of clothing ready for the rapid cooling after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +532,168 @@
         "hu": "Induljon kora reggel a parti ösvényen, hogy megcsodálja az ősi védőtornyot, mielőtt felfedezné Riva Ligure bájos központját.\n\nTegye próbára magát egy rövid szárazföldi tekeréssel a csendesebb vidéki dombok felé, melynek jutalma a kis helyi kápolnák varázsa.\n\nGuruljon vissza a tengerszintre, hogy a hajóroncs-múzeumban elmerüljön a régió római kori tengerészeti történelmében.\n\nFejezze be a kerékpártúrát egy jól megérdemelt pihenéssel a Baia Azzurránál, figyelve a tenger változó színeit.",
         "ro": "Porniți devreme pe calea de coastă pentru a admira vechiul turn de apărare înainte de a explora inima fermecătoare a orașului Riva Ligure.\n\nProvocați-vă cu o scurtă plimbare spre interior, spre dealurile rurale mai liniștite, fiind răsplătiți de farmecul micilor capele locale.\n\nCoborâți înapoi la nivelul mării pentru a vă scufunda în istoria maritimă romană a regiunii la muzeul epavei.\n\nÎncheiați-vă călătoria cu bicicleta cu o odihnă bine meritată la Baia Azzurra, privind culorile schimbătoare ale mării.",
         "en": "Hit the coastal path early to admire the ancient defensive tower before exploring the charming heart of Riva Ligure.\n\nChallenge yourself with a short ride inland towards the quieter rural hills, rewarded by the quaint charm of small local chapels.\n\nCoast back down to the sea level to dive into the region's Roman maritime history at the shipwreck museum.\n\nFinish your cycling journey with a well-deserved rest at Baia Azzurra, watching the changing colors of the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Pflastersteinen von Riva Ligure. Vormittags erkunden Sie die Küste, achten aber auf rutschige Kurven. Mittags bieten Kirchen und Museen den nötigen Schutz für eine Pause. Der Nachmittag ist kürzeren Etappen gewidmet, mit häufigen Stopps im Trockenen. Abends parken Sie das Rad und genießen den Blick auf die Wellen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel Riva Ligure macskakövein. Délelőtt fedezze fel a partot, de ügyeljen a csúszós kanyarokra. Délben a templomok és múzeumok nyújtanak szükséges menedéket a pihenéshez. A délutánt rövid szakaszoknak szentelje, gyakori száraz megállókkal. Este tegye le a bringát, és élvezze a hullámok látványát.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Riva Ligure. Dimineața explorați coasta, dar atenție la curbele alunecoase. La prânz, bisericile și muzeele oferă adăpostul necesar. După-amiaza este dedicată etapelor scurte, cu opriri frecvente la uscat. Seara lăsați bicicleta și bucurați-vă de vederea valurilor.",
+            "en": "Cycling in the rain requires caution on the cobblestones of Riva Ligure. In the morning, explore the coast but watch out for slippery corners. At noon, churches and museums provide necessary shelter for a break. Dedicate the afternoon to short stages with frequent dry stops. In the evening, park the bike and enjoy the view of the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Torre",
+                "hu": "La Torre",
+                "ro": "La Torre",
+                "en": "La Torre"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Boden nahe dem Turm; die Aussicht ist auch bei Regen sehr atmosphärisch.",
+                "hu": "Kerülje a hirtelen fékezést a torony melletti vizes talajon; a kilátás az esőben is rendkívül hangulatos és látványos.",
+                "ro": "Evitați frânările bruște pe solul ud de lângă turn; priveliștea este foarte atmosferică chiar și pe ploaie.",
+                "en": "Avoid sharp braking on the wet ground near the tower; the view is very atmospheric even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di San Maurizio",
+                "hu": "Chiesa parrocchiale di San Maurizio",
+                "ro": "Chiesa parrocchiale di San Maurizio",
+                "en": "Chiesa parrocchiale di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke auszuschütteln; das Innere bietet eine trockene Pause vor der nächsten Radetappe.",
+                "hu": "Ideális hely az esőkabát lerázásához; a belső tér száraz pihenőt kínál a következő kerékpáros szakasz előtt.",
+                "ro": "Un loc ideal pentru a scutura pelerina de ploaie; interiorul oferă o pauză uscată înainte de următoarea etapă.",
+                "en": "An ideal place to shake off your raincoat; the interior offers a dry break before the next cycling stage."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Rocco",
+                "hu": "Cappella di San Rocco",
+                "ro": "Cappella di San Rocco",
+                "en": "Cappella di San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann rutschig sein, fahren Sie vorsichtig; die Kapelle bietet einen kleinen Unterstand während eines Schauers.",
+                "hu": "Az emelkedő csúszós lehet, hajtson óvatosan; a kápolna kis előtere védelmet nyújthat egy hirtelen zápor idején.",
+                "ro": "Urcarea poate fi alunecoasă, pedalați cu grijă; capela oferă un mic adăpost în timpul unei averse.",
+                "en": "The climb can be slippery, so ride carefully; the chapel provides a small shelter during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Relitto Romano",
+                "hu": "Museo del Relitto Romano",
+                "ro": "Museo del Relitto Romano",
+                "en": "Museo del Relitto Romano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die trockene Ausstellung; perfekt, um den stärksten Regen abzuwarten.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és élvezze a száraz kiállítást; tökéletes hely a legerősebb eső átvészelésére.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de expoziția uscată; perfect pentru a aștepta trecerea ploii grele.",
+                "en": "Park your bike safely and enjoy the dry exhibition; it is perfect for waiting out the heaviest rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Azzurra",
+                "hu": "Baia Azzurra",
+                "ro": "Baia Azzurra",
+                "en": "Baia Azzurra"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt hier und suchen Sie Schutz unter einem Vordach; nasse Bremsen brauchen nun Pflege.",
+                "hu": "Fejezze be itt az utat, és keressen menedéket egy előtető alatt; a vizes fékeknek most karbantartásra van szükségük.",
+                "ro": "Încheiați tura aici și căutați adăpost sub o copertină; frânele ude au nevoie acum de atenție.",
+                "en": "End your ride here and seek shelter under a canopy; wet brakes will need some care and drying now."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und leere Wege in Riva Ligure. Vormittags sollten Sie sich warm einpacken, besonders gegen den Fahrtwind. Mittags locken sonnige Abschnitte an der Küste. Am Nachmittag sinken die Temperaturen schnell, wenn die Sonne tiefer steht. Gegen 17:00 Uhr wird es dunkel, planen Sie also ein frühes Ende Ihrer Tour ein.",
+            "hu": "A téli kerékpártúra friss levegőt és üres utakat kínál Riva Ligure környékén. Délelőtt öltözzön rétegesen, különösen a menetszél ellen védekezve. Délben keresse a napos szakaszokat a parton. Délután a hőmérséklet gyorsan süllyed, ahogy a nap lejjebb kerül. 17:00 körül sötétedik, így tervezze korábbra a túra végét.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și drumuri libere în Riva Ligure. Dimineața îmbrăcați-vă bine, mai ales împotriva vântului de deplasare. La prânz, căutați porțiunile însorite de pe coastă. După-amiaza temperaturile scad rapid. Se întunecă în jur de ora 17:00, deci planificați un final timpuriu.",
+            "en": "A winter bike tour offers crisp air and empty paths in Riva Ligure. In the morning, wrap up warm, especially against the wind chill. At noon, seek out the sunny sections along the coast. In the afternoon, temperatures drop quickly as the sun gets lower. It gets dark around 17:00, so plan for an early finish to your tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Torre",
+                "hu": "La Torre",
+                "ro": "La Torre",
+                "en": "La Torre"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt; das Licht am Turm ist in der Wintersonne besonders klar.",
+                "hu": "Viseljen szélálló kesztyűt a guruláshoz; a toronynál a fények a téli napsütésben különösen tiszták és szépek.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborâre; lumina la turn este deosebit de clară în soarele de iarnă.",
+                "en": "Wear windproof gloves for the descent; the light at the tower is especially clear in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di San Maurizio",
+                "hu": "Chiesa parrocchiale di San Maurizio",
+                "ro": "Chiesa parrocchiale di San Maurizio",
+                "en": "Chiesa parrocchiale di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um sich im Inneren aufzuwärmen; die Kirche bietet Schutz vor dem kalten Küstenwind.",
+                "hu": "Használja ki a megállót a belső felmelegedésre; a templom kiváló védelmet nyújt a hideg tengerparti szél ellen.",
+                "ro": "Folosiți oprirea pentru a vă încălzi în interior; biserica oferă protecție împotriva vântului rece de pe coastă.",
+                "en": "Use this stop to warm up inside; the church provides excellent protection from the cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Rocco",
+                "hu": "Cappella di San Rocco",
+                "ro": "Cappella di San Rocco",
+                "en": "Cappella di San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber oben angekommen sollten Sie schnell wieder eine Schicht anziehen.",
+                "hu": "Az emelkedő melegen tartja, de amint felért, gyorsan vegyen fel egy extra réteget a lehűlés ellen.",
+                "ro": "Urcarea vă va ține de cald, dar odată ajunși sus, puneți repede un strat în plus pentru a nu răci.",
+                "en": "The climb will keep you warm, but once at the top, put on an extra layer quickly to avoid chilling."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Relitto Romano",
+                "hu": "Museo del Relitto Romano",
+                "ro": "Museo del Relitto Romano",
+                "en": "Museo del Relitto Romano"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine längere Pause im Warmen, bevor die Sonne am Nachmittag tiefer sinkt.",
+                "hu": "Tökéletes hely egy hosszabb, meleg pihenőre, mielőtt a nap délután alacsonyabbra süllyedne.",
+                "ro": "Un loc perfect pentru o pauză lungă la căldură, înainte ca soarele să coboare mai jos după-amiaza.",
+                "en": "A perfect place for a long break in the warmth before the sun sinks lower in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Azzurra",
+                "hu": "Baia Azzurra",
+                "ro": "Baia Azzurra",
+                "en": "Baia Azzurra"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um nicht in die Dunkelheit und Kälte zu geraten; genießen Sie das Abendrot.",
+                "hu": "Fejezze be a túrát 17:00 előtt, hogy elkerülje a sötétséget és a fagyot; élvezze a téli alkonyat fényeit.",
+                "ro": "Încheiați tura înainte de ora 17:00 pentru a nu fi surprins de întuneric și frig; admirați apusul.",
+                "en": "Finish the tour before 17:00 to avoid the darkness and biting cold; enjoy the winter sunset glow."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon fel a Riva Liguret körülvevő dombokra, hogy felfedezze a békés templomokat, amelyek lenyűgöző panorámát nyújtanak az egész partvonalra.\n\nFolytassa a zord szárazföld felfedezését a történelmi partizán menedékhely meglátogatásával és a Monte San Giuseppe természeti szépségének élvezetével.\n\nEreszkedjen vissza a tengerparti városközpontba, hogy az interaktív modern kiállításokon keresztül elmerüljön a helyi kultúrában és történelemben.\n\nFejezze be útját egy festői autózással a part mentén, megállva egy bájos tengerparti kápolnánál, hogy visszagondoljon a nap kalandjaira.",
         "ro": "Conduceți pe dealurile din jurul orașului Riva Ligure pentru a descoperi biserici pașnice care oferă priveliști panoramice uimitoare asupra întregii coaste.\n\nContinuați explorarea interiorului accidentat vizitând refugiul istoric al partizanilor și bucurându-vă de frumusețea naturală a Muntelui San Giuseppe.\n\nCoborâți înapoi în centrul orașului de pe coastă pentru a vă scufunda în cultura și istoria locală prin expoziții moderne interactive.\n\nÎncheiați-vă călătoria cu o plimbare pitorească pe coastă, oprindu-vă la o capelă fermecătoare de la malul mării pentru a reflecta la aventurile zilei.",
         "en": "Drive up into the hills surrounding Riva Ligure to discover peaceful churches offering stunning panoramic views of the entire coastline.\n\nContinue your exploration of the rugged inland by visiting the historic partisan refuge and embracing the natural beauty of Monte San Giuseppe.\n\nDescend back to the coastal town center to immerse yourself in local culture and history through interactive modern exhibits.\n\nFinish your trip with a scenic drive down the coast, stopping at a charming seaside chapel to reflect on the day's adventures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Riva Ligure ganz entspannt, während der Regen auf das Dach trommelt. Vormittags steuern Sie die höher gelegenen Kirchen an und genießen den Blick durch die Scheibe. Mittags bietet das SEM-Museum einen trockenen Stopp mit Parkplätzen in der Nähe. Am Nachmittag geht es zu historischen Stätten, bevor der Tag bei einer gemütlichen Fahrt entlang der Küste endet.",
+            "hu": "Autóval kényelmesen fedezheti fel Riva Ligure környékét, miközben az eső a tetőn kopog. Délelőtt látogasson el a magasabban fekvő templomokhoz, élvezve a kilátást az ablakból. Délben a SEM múzeum kínál száraz megállót közeli parkolási lehetőséggel. Délután keresse fel a történelmi helyszíneket, majd zárja a napot egy kellemes autózással a tengerpart mentén.",
+            "ro": "Cu mașina explorați Riva Ligure relaxat, în timp ce ploaia bate pe plafon. Dimineața mergeți la bisericile de la înălțime și admirați vederea prin geam. La prânz, muzeul SEM oferă o oprire uscată cu parcare în apropiere. După-amiaza vizitați siturile istorice, înainte ca ziua să se încheie cu o plimbare liniștită de-a lungul coastei.",
+            "en": "By car, you can explore Riva Ligure comfortably while the rain drums on the roof. In the morning, drive to the hilltop churches and enjoy the view through the windows. At noon, the SEM museum offers a dry stop with parking nearby. In the afternoon, visit historical sites before ending the day with a pleasant drive along the rainy coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; die Aussicht auf das verregnete Tal ist von hier oben grandios.",
+                "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az ázást; a kilátás az esőáztatta völgyre innen fentről egészen pazar.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; vederea asupra văii ploioase este grandioasă de aici de sus.",
+                "en": "Park close to the entrance to avoid getting wet; the view of the rainy valley from up here is quite grand."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Antonio",
+                "hu": "Sant'Antonio",
+                "ro": "Sant'Antonio",
+                "en": "Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zur Kirche; das Innere ist ein perfekter Ort, um einen starken Guss abzuwarten.",
+                "hu": "Használja ki az autótól a templomig tartó rövid távot; a belső tér tökéletes hely egy hirtelen zápor átvészelésére.",
+                "ro": "Profitați de drumul scurt de la mașină la biserică; interiorul este un loc perfect pentru a aștepta trecerea ploii.",
+                "en": "Take advantage of the short walk from the car; the interior is a perfect place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "rifugio partigiano",
+                "hu": "rifugio partigiano",
+                "ro": "rifugio partigiano",
+                "en": "rifugio partigiano"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die schmale, nasse Straße dorthin; das historische Denkmal wirkt im Nebel und Regen besonders mystisch.",
+                "hu": "Ügyeljen a keskeny, vizes útra; a történelmi emlékmű a ködben és az esőben különösen misztikusnak és távolinak tűnik.",
+                "ro": "Atenție la drumul îngust și ud până acolo; monumentul istoric pare deosebit de mistic în ceață și ploaie.",
+                "en": "Watch out on the narrow, wet road; the historical monument looks particularly mystical in the fog and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte San Giuseppe",
+                "hu": "Monte San Giuseppe",
+                "ro": "Monte San Giuseppe",
+                "en": "Monte San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama aus dem Auto heraus, wenn es zu stark regnet; die Wolken über dem Meer bieten tolle Kontraste.",
+                "hu": "Élvezze a panorámát az autóból, ha túl erősen esne; a tenger feletti felhők látványos kontrasztot nyújtanak.",
+                "ro": "Bucurați-vă de panoramă din mașină dacă plouă prea tare; norii de deasupra mării oferă contraste grozave.",
+                "en": "Enjoy the panorama from inside the car if it rains too hard; the clouds over the sea offer great visual contrasts."
+              }
+            },
+            {
+              "name": {
+                "de": "SEM Spazio Espositivo Multimediale",
+                "hu": "SEM Spazio Espositivo Multimediale",
+                "ro": "SEM Spazio Espositivo Multimediale",
+                "en": "SEM Spazio Espositivo Multimediale"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um das Auto zu verlassen und Zeit im Trockenen zu verbringen; die Ausstellungen sind sehr kurzweilig.",
+                "hu": "Ideális megálló, hogy kiszálljon az autóból és időt töltsön a szárazban; a kiállítások rendkívül szórakoztatóak.",
+                "ro": "O oprire ideală pentru a ieși din mașină și a petrece timp la uscat; expozițiile sunt foarte distractive.",
+                "en": "An ideal stop to leave the car and spend time in the dry; the multimedia exhibits are very entertaining."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di Sant'Erasmo",
+                "hu": "Cappella di Sant'Erasmo",
+                "ro": "Cappella di Sant'Erasmo",
+                "en": "Cappella di Sant'Erasmo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf das stürmische Meer; Parken Sie so, dass Sie die Wellen sicher beobachten können.",
+                "hu": "Zárja a napot a viharos tenger látványával; parkoljon úgy, hogy biztonságban figyelhesse a hullámok játékát.",
+                "ro": "Încheiați ziua cu o privire asupra mării învolburate; parcați astfel încât să puteți observa valurile în siguranță.",
+                "en": "End the day with a view of the stormy sea; park so you can watch the waves safely from the vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt durch Riva Ligure ist dank der Heizung sehr angenehm. Vormittags besuchen Sie die Kirchen in den Hügeln, wo die Luft klar und die Sicht weit ist. Mittags lockt das SEM-Museum als warmer Zwischenstopp. Der Nachmittag bietet sich für Aussichtspunkte an, bevor die Sonne gegen 17:00 Uhr untergeht. Genießen Sie die winterliche Küstenlandschaft ganz entspannt vom Fahrersitz aus.",
+            "hu": "A téli autózás Riva Ligure környékén a fűtésnek köszönhetően nagyon kényelmes. Délelőtt látogassa meg a dombi templomokat, ahol a levegő friss, a kilátás pedig tiszta. Délben a SEM múzeum hívogat egy meleg pihenőre. A délután alkalmas a kilátópontok felkeresésére, mielőtt 17:00 körül lemegy a nap. Élvezze a téli tengerparti tájat az autóból.",
+            "ro": "Plimbarea de iarnă prin Riva Ligure este foarte plăcută datorită încălzirii. Dimineața vizitați bisericile din dealuri, unde aerul este curat și vizibilitatea mare. La prânz, muzeul SEM vă invită la o pauză caldă. După-amiaza este potrivită pentru puncte de belvedere înainte de apusul de la ora 17:00. Bucurați-vă de peisaj.",
+            "en": "A winter drive through Riva Ligure is very pleasant thanks to the car's heating. In the morning, visit the hilltop churches where the air is crisp and the views are clear. At noon, the SEM museum invites you for a warm indoor break. The afternoon is perfect for scenic viewpoints before the sun sets around 17:00. Enjoy the winter coastal landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine unglaubliche Fernsicht bis zum Meer; halten Sie die Heizung im Auto für den Rückweg bereit.",
+                "hu": "A tiszta téli levegő hihetetlen tálati kilátást nyújt a tengerig; tartsa készenlétben az autó fűtését a visszaúthoz.",
+                "ro": "Aerul curat de iarnă oferă o vedere incredibilă până la mare; pregătiți încălzirea mașinii pentru drumul de întoarcere.",
+                "en": "The clear winter air offers incredible long-distance views to the sea; keep the car heating ready for the return trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Antonio",
+                "hu": "Sant'Antonio",
+                "ro": "Sant'Antonio",
+                "en": "Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen und windgeschützten Ort; genießen Sie die Stille, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A templom csendes és szélvédett helyet kínál; élvezze a nyugalmat, mielőtt folytatná a téli autós túrát.",
+                "ro": "Biserica oferă un loc liniștit și ferit de vânt; bucurați-vă de liniște înainte de a continua drumul.",
+                "en": "The church provides a quiet and wind-sheltered spot; enjoy the silence before continuing your winter drive."
+              }
+            },
+            {
+              "name": {
+                "de": "rifugio partigiano",
+                "hu": "rifugio partigiano",
+                "ro": "rifugio partigiano",
+                "en": "rifugio partigiano"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume im Winter lassen das Denkmal schon von weitem sichtbar werden; tragen Sie eine warme Jacke für den kurzen Fußweg.",
+                "hu": "A téli csupasz fák között az emlékmű már messziről jól látható; viseljen meleg kabátot a rövid gyalogos szakaszhoz.",
+                "ro": "Copacii golași de iarnă fac monumentul vizibil de departe; purtați o jachetă groasă pentru scurta plimbare pe jos.",
+                "en": "The bare winter trees make the monument visible from afar; wear a warm jacket for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte San Giuseppe",
+                "hu": "Monte San Giuseppe",
+                "ro": "Monte San Giuseppe",
+                "en": "Monte San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für Fotos im goldenen Nachmittagslicht; bleiben Sie im Auto, um sich zwischen den Aufnahmen aufzuwärmen.",
+                "hu": "Tökéletes hely fotózáshoz az aranyló délutáni fényben; maradjon az autóban, hogy felmelegedjen a felvételek között.",
+                "ro": "Loc perfect pentru fotografii în lumina aurie a după-amiezii; stați în mașină pentru a vă încălzi între cadre.",
+                "en": "Perfect spot for photos in the golden afternoon light; stay in the car to warm up between shots."
+              }
+            },
+            {
+              "name": {
+                "de": "SEM Spazio Espositivo Multimediale",
+                "hu": "SEM Spazio Espositivo Multimediale",
+                "ro": "SEM Spazio Espositivo Multimediale",
+                "en": "SEM Spazio Espositivo Multimediale"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine längere Pause in angenehmer Wärme; Parkplätze sind im Winter meist leicht zu finden.",
+                "hu": "Használja ki a múzeumot egy hosszabb pihenőre a kellemes melegben; télen a parkolás is sokkal egyszerűbb a környéken.",
+                "ro": "Folosiți muzeul pentru o pauză lungă la căldură; locurile de parcare sunt mai ușor de găsit în timpul iernii.",
+                "en": "Use the museum for a long break in pleasant warmth; parking is usually easy to find during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di Sant'Erasmo",
+                "hu": "Cappella di Sant'Erasmo",
+                "ro": "Cappella di Sant'Erasmo",
+                "en": "Cappella di Sant'Erasmo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr aus dem warmen Auto; das Licht am Horizont ist im Winter oft besonders intensiv.",
+                "hu": "Nézze a naplementét 17:00-kor a meleg autóból; a látóhatár fényei télen gyakran különösen intenzívek és tiszták.",
+                "ro": "Urmăriți apusul de la ora 17:00 din mașina caldă; lumina la orizont este adesea foarte intensă în timpul iernii.",
+                "en": "Watch the 17:00 sunset from your warm car; the light on the horizon is often exceptionally intense during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

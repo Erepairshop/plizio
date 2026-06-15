@@ -137,6 +137,168 @@
         "hu": "A napot az Aqualine frissítő óceáni szellőjével indítjuk, felkészülve a partmenti programokra és élvezve a kora reggeli napsütést.\n\nEgy rövid festői séta délre vezet minket a Praia da Alagoa hosszú aranyhomokos partjára, amely tökéletes hely egy pihentető úszásra.\n\nAz utazás kelet felé folytatódik a csendesebb Praia das Primas és a Praia Verdelago felé, ahol fapadlók védik a gyönyörű dűnéket.\n\nGyalogos túránkat a Praia Verde strandján fejezzük be, amely sűrű fenyőerdejéről híres, és tökéletes helyszínt biztosít egy naplemente melletti italhoz.",
         "ro": "Începem cu o briză răcoroasă a oceanului la Aqualine, pregătindu-ne pentru o zi plină de activități de coastă și soarele dimineții.\n\nO scurtă plimbare pitorească ne duce spre sud la întinderea aurie lungă de la Praia da Alagoa, un loc perfect pentru o înotare relaxantă.\n\nCălătoria continuă spre est către mai liniștitile Praia das Primas și Praia Verdelago, unde căile de lemn protejează dunele.\n\nÎncheiem turul nostru de mers pe jos la Praia Verde, renumită pentru pădurea deasă de pini, devenind cadrul perfect pentru o băutură la apus.",
         "en": "We start with a refreshing ocean breeze at Aqualine, preparing for a day of coastal activities and enjoying the morning sun.\n\nA short scenic stroll leads us south to the long golden stretch of Praia da Alagoa, offering a perfect spot for a relaxing swim.\n\nThe journey continues east towards the quieter Praia das Primas and Praia Verdelago, where wooden pathways protect beautiful dunes.\n\nWe end our walking tour at Praia Verde, famous for its dense pine forest meeting the sea, making it the perfect setting for a sunset drink."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens führt der Weg zum Aqualine, wo Regenschirme gegen den Wind helfen. Mittags bieten die Strandbars an der Praia da Alagoa trockenen Unterschlupf bei Meeresrauschen. Nachmittags wandern wir durch duftende Pinienwälder zur Praia Verde, wobei wasserfeste Schuhe auf den sandigen Pfaden wichtig sind. Abends kehren wir in die gemütlichen, trockenen Lokale im Zentrum von Altura zurück.",
+            "hu": "Reggel az Aqualine felé vesszük az irányt, az óceáni szélben jól jön egy erős esernyő. Délben a Praia da Alagoa menti zárt teraszokon figyelhetjük a hullámokat egy forró ital mellett. Délután a fenyvesek védelmében sétálunk Praia Verde felé, de a csúszós dűnéken óvatosan haladjunk. Estére Altura hívogató, fedett éttermeiben találunk menedéket és meleg vacsorát a borús idő elől.",
+            "ro": "Dimineața pornim spre Aqualine, unde briza ploioasă necesită o pelerină rezistentă. La prânz, terasele acoperite de la Praia da Alagoa oferă refugiul perfect pentru a admira oceanul. După-amiaza continuăm spre Praia Verde prin pădurea de pini, care miroase divin după ploaie, dar atenție la potecile alunecoase. Seara ne retragem în localurile primitoare din Altura pentru a ne încălzi.",
+            "en": "Morning starts with a stroll toward Aqualine; a sturdy umbrella is essential against the Atlantic breeze. At noon, the covered beach bars at Praia da Alagoa provide a dry spot to watch the grey waves. Afternoon leads us through pine-scented paths to Praia Verde, where waterproof boots help on the muddy trails. Evening ends in Altura’s cozy indoor restaurants, safely away from the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aqualine",
+                "hu": "Aqualine",
+                "ro": "Aqualine",
+                "en": "Aqualine"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aqualine-Areal für einen windgeschützten Blick auf das Meer; nutzen Sie die befestigten Wege, um Pfützen und rutschigen Schlamm zu vermeiden.",
+                "hu": "Látogasson el az Aqualine területére a szélvédett tengeri panorámáért; használja a kiépített járdákat a pocsolyák és a csúszós sár elkerülése érdekében.",
+                "ro": "Vizitați zona Aqualine pentru o vedere protejată de vânt asupra mării; folosiți căile pavate pentru a evita bălțile și noroiul alunecos de pe margini.",
+                "en": "Visit the Aqualine area for a wind-shielded view of the sea; stick to the paved sections to avoid large puddles and slippery mud along the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Alagoa",
+                "hu": "Praia da Alagoa",
+                "ro": "Praia da Alagoa",
+                "en": "Praia da Alagoa"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen mystisch; flüchten Sie in ein Café mit Glasfront, um die gewaltigen Wellen trocken und bei einem Tee zu beobachten.",
+                "hu": "A part esőben misztikus látványt nyújt; meneküljön be egy üvegfalú kávézóba, hogy szárazon, egy tea mellett csodálhassa a hatalmas hullámokat.",
+                "ro": "Plaja arată mistic în ploaie; refugiați-vă într-o cafenea cu pereți de sticlă pentru a admira valurile uriașe la un ceai fierbinte, fără a vă uda.",
+                "en": "The beach looks mystical in the rain; retreat into a glass-fronted cafe to watch the massive waves while staying dry with a hot cup of tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Primas",
+                "hu": "Praia das Primas",
+                "ro": "Praia das Primas",
+                "en": "Praia das Primas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Praia das Primas; tragen Sie eine wasserdichte Kapuze, da der Wind hier ungeschützt über die offenen Dünen fegt.",
+                "hu": "Élvezze a magányt a Praia das Primas parton; viseljen vízhatlan kapucnit, mivel a szél itt akadálytalanul söpör végig a nyitott dűnéken.",
+                "ro": "Bucurați-vă de singurătatea de pe Praia das Primas; purtați o glugă impermeabilă, deoarece vântul bate puternic peste dunele deschise.",
+                "en": "Enjoy the solitude at Praia das Primas; wear a waterproof hood as the wind sweeps unchecked across the open dunes during rainy spells."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verdelago",
+                "hu": "Praia Verdelago",
+                "ro": "Praia Verdelago",
+                "en": "Praia Verdelago"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Pinienkronen; der Waldboden bietet bei leichtem Regen einen natürlicheren, trockeneren Pfad als der offene Strand.",
+                "hu": "Keressen menedéket a sűrű fenyőágak alatt; az erdei talaj szemerkélő esőben természetesebb és szárazabb útvonalat kínál, mint a nyitott partvidék.",
+                "ro": "Căutați adăpost sub coroanele dese ale pinilor; solul pădurii oferă o cale mai uscată în timpul ploii ușoare decât zona deschisă a plajei.",
+                "en": "Seek shelter under the thick pine canopy; the forest floor offers a more natural and drier path during light rain than the exposed shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verde",
+                "hu": "Praia Verde",
+                "ro": "Praia Verde",
+                "en": "Praia Verde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Restaurant Pezinhos n'Areia; die überdachte Terrasse erlaubt einen Panoramablick auf den Regen über dem Atlantik.",
+                "hu": "Zárja a napot a Pezinhos n'Areia étteremben; a fedett terasz panorámás kilátást nyújt az Atlanti-óceán felett elvonuló esőfelhőkre.",
+                "ro": "Încheiați ziua la restaurantul Pezinhos n'Areia; terasa acoperită oferă o vedere panoramică asupra ploii care cade peste Oceanul Atlantic.",
+                "en": "End your day at Pezinhos n'Areia restaurant; the covered terrace provides a panoramic view of the rain moving across the Atlantic Ocean."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Aqualine beginnt frisch und klar, ideal für einen zügigen Marsch. Mittags wärmt die milde Algarve-Sonne bei einem Spaziergang an der Praia da Alagoa. Da es bereits gegen 17:00 Uhr dunkel wird, erreichen wir Praia Verde am frühen Nachmittag, um das goldene Licht zu nutzen. Abends genießen wir die Ruhe der Nebensaison in einem geheizten Restaurant in Altura.",
+            "hu": "A téli reggel az Aqualine-nál friss és tiszta, ideális egy élénk gyalogláshoz a parton. Délben a lágy algarvei napsütésben sétálunk Praia da Alagoa homokján, élvezve a csendet. Mivel 17:00 körül már sötétedik, kora délután érjük el Praia Verdét a legszebb fényekben. Az estét Altura egyik fűtött éttermében töltjük, távol a nyári tömeg zajától.",
+            "ro": "Dimineața de iarnă la Aqualine este proaspătă și senină, perfectă pentru o plimbare revigorantă. La prânz, soarele blând din Algarve ne încălzește pe nisipul de la Praia da Alagoa. Deoarece se întunecă în jur de ora 17:00, ajungem la Praia Verde devreme pentru a prinde lumina aurie. Seara ne bucurăm de liniștea sezonului rece într-un local încălzit.",
+            "en": "Winter mornings at Aqualine are crisp and clear, perfect for a brisk walk along the shore. At noon, the mild Algarve sun warms the sands of Praia da Alagoa for a peaceful stroll. With sunset around 17:00, we aim to reach Praia Verde early to catch the golden light. Evening is spent in a heated Altura restaurant, enjoying the quiet off-season charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aqualine",
+                "hu": "Aqualine",
+                "ro": "Aqualine",
+                "en": "Aqualine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Winterluft für Fotos vom Horizont; bringen Sie eine windfeste Jacke mit, da die Brise morgens recht kühl sein kann.",
+                "hu": "Használja ki a tiszta téli levegőt a horizont fotózásához; vigyen szélálló kabátot, mert a reggeli fuvallatok meglehetősen hűvösek lehetnek.",
+                "ro": "Profită de aerul curat de iarnă pentru fotografii la orizont; adu o jachetă rezistentă la vânt, deoarece briza dimineții poate fi destul de rece.",
+                "en": "Take advantage of the clear winter air for horizon photography; bring a windproof jacket as the morning breeze can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Alagoa",
+                "hu": "Praia da Alagoa",
+                "ro": "Praia da Alagoa",
+                "en": "Praia da Alagoa"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es hier oft sonnig genug für ein Picknick; ziehen Sie sich nach dem Zwiebelprinzip an, um auf die Temperaturwechsel zu reagieren.",
+                "hu": "Délben gyakran elég napos az idő egy piknikhez; öltözködjön rétegesen, hogy rugalmasan alkalmazkodhasson a változó hőmérséklethez.",
+                "ro": "La prânz este adesea suficient de însorit pentru un picnic; îmbracă-te în straturi pentru a te adapta ușor la schimbările de temperatură.",
+                "en": "At noon, it is often sunny enough for a beach picnic; dress in layers to easily adjust to the fluctuating winter temperatures by the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Primas",
+                "hu": "Praia das Primas",
+                "ro": "Praia das Primas",
+                "en": "Praia das Primas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Zugvögel in den Dünen; im Winter ist dieser Ort fast menschenleer und strahlt eine unvergleichliche, friedliche Ruhe aus.",
+                "hu": "Figyelje meg a dűnék között pihenő költöző madarakat; télen ez a hely szinte teljesen néptelen, és páratlan, békés nyugalmat áraszt.",
+                "ro": "Observați păsările migratoare în dune; iarna, acest loc este aproape pustiu și emană o liniște pașnică, ideală pentru relaxare totală.",
+                "en": "Watch the migratory birds resting in the dunes; in winter, this spot is almost deserted and radiates an incomparable, peaceful tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verdelago",
+                "hu": "Praia Verdelago",
+                "ro": "Praia Verdelago",
+                "en": "Praia Verdelago"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien bieten Schutz vor kühlem Nordwind; genießen Sie den Duft der Nadeln, der an sonnigen Wintertagen besonders intensiv wahrnehmbar ist.",
+                "hu": "A fenyők védelmet nyújtanak a hűvös északi szél ellen; élvezze a tűlevelek illatát, amely a napos téli napokon különösen intenzíven érezhető.",
+                "ro": "Pinii oferă protecție împotruva vântului rece de nord; bucurați-vă de mirosul acelor de pin, care este mai intens în zilele însorite de iarnă.",
+                "en": "The pines offer protection from the cool north wind; enjoy the scent of the needles, which is particularly intense on sunny winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verde",
+                "hu": "Praia Verde",
+                "ro": "Praia Verde",
+                "en": "Praia Verde"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr; die Farben über dem Atlantik sind im Winter oft intensiver als im Hochsommer.",
+                "hu": "Élje át a korai naplementét 17:00 körül; az Atlanti-óceán feletti színek télen gyakran sokkal intenzívebbek, mint a nyári hőségben.",
+                "ro": "Experimentați apusul devreme, în jurul orei 17:00; culorile de deasupra Atlanticului sunt adesea mai intense iarna decât în toiul verii.",
+                "en": "Experience the early sunset around 17:00; the colors over the Atlantic are often more intense in winter than during the hazy summer heat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandunk a szárazföld belsejében, a nyüzsgő Feira de Vila Nova de Cacela piacon kezdődik, ahol megismerjük a helyi ízeket.\n\nLekerékpározva a partra megérkezünk a Manta Rota hatalmas, meleg vizéhez, majd folytatjuk utunkat a hagyományos Praia da Lota strandhoz.\n\nA festői utakon pedálozva elhaladunk a nyugodt Praia das Primas mellett, és elérjük a Praia da Alagoa nyüzsgő központját egy fagylaltra.\n\nTengerparti utunkat a Praia Verde strandján fejezzük be, ahol kerékpárjainkat egy pihentető erdei sétára cseréljük naplemente idején.",
         "ro": "Aventura noastră pe bicicletă începe în interior la piața animată Feira de Vila Nova de Cacela pentru a experimenta tradițiile locale.\n\nCoborând spre coastă, ajungem la Manta Rota pentru a ne bucura de apele calde înainte de a continua către tradiționala Praia da Lota.\n\nPedalând pe căile pitorești, trecem pe lângă liniștita Praia das Primas și ajungem în centrul vibrant Praia da Alagoa pentru o înghețată.\n\nÎncheiem plimbarea noastră de coastă la Praia Verde, schimbând bicicletele pentru o plimbare relaxantă prin pădurea răcoroasă de pini.",
         "en": "Our cycling adventure kicks off inland at the lively Feira de Vila Nova de Cacela market to experience local traditions and flavors.\n\nRiding down to the coast, we arrive at Manta Rota to enjoy its vast, warm waters before continuing to the traditional Praia da Lota.\n\nPedaling along the scenic pathways, we pass the tranquil Praia das Primas and reach the vibrant center of Praia da Alagoa for ice cream.\n\nWe conclude our coastal ride at Praia Verde, exchanging our bikes for a relaxing walk through the cooling pine forest as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zur Feira de Cacela, da die Straßen bei Regen rutschig sein können. Mittags suchen wir an der Praia da Manta Rota Schutz, wo Radständer oft überdacht sind. Nachmittags geht es auf befestigten Wegen weiter zur Praia Verde, um Schlamm zu vermeiden. Abends stellen wir die Räder sicher ab und wärmen uns in einer der gemütlichen Bars von Altura auf.",
+            "hu": "Reggel óvatosan tekerünk a cacelai vásár felé, mert az aszfalt esőben csúszóssá válik. Délben a Manta Rota strandján keresünk fedett pihenőt, ahol a kerékpártárolók is védettek. Délután a kiépített utakon haladunk tovább Praia Verde felé, elkerülve a saras dűnéket. Este biztonságba helyezzük a bicikliket, és Altura egyik barátságos bárjában melegedünk fel.",
+            "ro": "Dimineața pedalăm cu atenție spre Feira de Cacela, deoarece drumurile devin alunecoase pe ploaie. La prânz căutăm adăpost la Manta Rota, unde rastelele pentru biciclete sunt adesea protejate. După-amiaza continuăm pe drumuri asfaltate spre Praia Verde pentru a evita noroiul. Seara lăsăm bicicletele în siguranță și ne încălzim într-un bar primitor din Altura.",
+            "en": "Morning bike ride to Feira de Cacela requires caution as the wet asphalt can be slippery. At noon, we find shelter at Manta Rota beach, where bike racks are often covered. Afternoon is spent cycling on paved roads toward Praia Verde to avoid muddy shortcuts. Evening ends by parking the bikes and warming up in one of Altura’s friendly, dry indoor bars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Feira de Vila Nova de Cacela",
+                "hu": "Feira de Vila Nova de Cacela",
+                "ro": "Feira de Vila Nova de Cacela",
+                "en": "Feira de Vila Nova de Cacela"
+              },
+              "tip_5lang": {
+                "de": "Die Marktstände bieten zwar etwas Schutz, aber tragen Sie dennoch eine Regenjacke; achten Sie beim Bremsen auf nassem Kopfsteinpflaster auf Rutschgefahr.",
+                "hu": "A piaci bódék nyújtanak némi védelmet, de viseljen esőkabátot; fékezéskor ügyeljen a csúszásveszélyre a vizes macskaköves utakon.",
+                "ro": "Tarabele din piață oferă puțin adăpost, dar poartă o pelerină; fii atent la frânare pe pavajul umed, deoarece există risc mare de derapare.",
+                "en": "Market stalls offer some cover, but still wear a rain jacket; be extra cautious when braking on wet cobblestones as they become very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Manta Rota",
+                "hu": "Praia da Manta Rota",
+                "ro": "Praia da Manta Rota",
+                "en": "Praia da Manta Rota"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die hölzernen Stege, um die Räder näher an die überdachten Cafés zu schieben; der Sand wird bei Regen sehr schwer und klebrig.",
+                "hu": "Használja a fapallókat, hogy közelebb tolja a biciklit a fedett kávézókhoz; a homok esőben nehézzé és tapadóssá válik a kerekek alatt.",
+                "ro": "Folosiți pasarelele de lemn pentru a împinge bicicletele mai aproape de cafenelele acoperite; nisipul devine greu și lipicios sub roți când plouă.",
+                "en": "Use the wooden boardwalks to push your bikes closer to the covered cafes; the sand becomes heavy and sticky under the tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Lota",
+                "hu": "Praia da Lota",
+                "ro": "Praia da Lota",
+                "en": "Praia da Lota"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier aus; prüfen Sie Ihre Kette nach der Fahrt durch salziges Spritzwasser und Regen, um Korrosion zu vermeiden.",
+                "hu": "Egy rövid megálló is elég itt; ellenőrizze a láncot a sós permetben és esőben való tekerés után, hogy megelőzze a korróziót.",
+                "ro": "O oprire scurtă este suficientă aici; verifică lanțul după ce ai pedalat prin aerosoli sărați și ploaie pentru a preveni coroziunea rapidă.",
+                "en": "A short stop is enough here; check your bike chain after riding through salty spray and rain to prevent corrosion from the damp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Primas",
+                "hu": "Praia das Primas",
+                "ro": "Praia das Primas",
+                "en": "Praia das Primas"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; bleiben Sie auf den Hauptwegen, um ein Steckenbleiben mit dem Fahrrad im weichen, nassen Gelände zu verhindern.",
+                "hu": "A behajtó saras lehet; maradjon a főutakon, hogy elkerülje a bicikli elakadását a puha, vizes talajon a dűnék között.",
+                "ro": "Drumul de acces poate fi noroios; rămâi pe căile principale pentru a evita blocarea bicicletei în terenul moale și ud de lângă plajă.",
+                "en": "The access path can be muddy; stick to the main roads to prevent your bike from getting stuck in the soft, wet ground near the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Alagoa",
+                "hu": "Praia da Alagoa",
+                "ro": "Praia da Alagoa",
+                "en": "Praia da Alagoa"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter ein Vordach, während Sie sich drinnen aufwärmen; die salzige Meeresbrise ist im Regen besonders aggressiv zum Material.",
+                "hu": "Támassza le a biciklit egy előtető alá, amíg bent melegszik; a sós tengeri szél esőben különösen agresszívan korrodálhatja a fémrészeket.",
+                "ro": "Parchează bicicleta sub o copertină în timp ce te încălzești înăuntru; briza sărată a mării este foarte agresivă cu metalul pe timp de ploaie.",
+                "en": "Park your bike under a canopy while you warm up inside; the salty sea breeze is especially aggressive toward bike components during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verde",
+                "hu": "Praia Verde",
+                "ro": "Praia Verde",
+                "en": "Praia Verde"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Praia Verde erfordert bei Nässe gute Reifenhaftung; belohnen Sie sich im trockenen Restaurant für die anstrengende Regenfahrt.",
+                "hu": "A Praia Verde felé vezető emelkedő nedves úton jó tapadást igényel; jutalmazza meg magát a száraz étteremben a fárasztó esős tekerés után.",
+                "ro": "Urcarea spre Praia Verde necesită o aderență bună pe drumul ud; recompensează-te în restaurantul uscat după pedalarea obositoare prin ploaie.",
+                "en": "The climb to Praia Verde requires good tire grip on wet roads; reward yourself in the dry restaurant after the strenuous rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch die kühle, klare Luft zur Feira de Cacela, Handschuhe sind hierbei sehr ratsam. Mittags genießen wir die wärmenden Sonnenstrahlen an der Praia da Manta Rota auf leeren Radwegen. Da das Licht ab 16:30 Uhr schwindet, planen wir die Rückkehr von Praia Verde rechtzeitig ein. Abends lassen wir den Tag bei einem Glas Wein in einem beheizten Bistro in Altura ausklingen.",
+            "hu": "Reggel a hűvös, tiszta levegőben tekerünk a cacelai vásár felé, a kesztyű viselete erősen ajánlott. Délben a Manta Rota strandján élvezzük a melengető napsugarakat az üres kerékpárutakon. Mivel a fény 16:30 után fogyni kezd, időben tervezzük meg a visszautat Praia Verde felől. Az estét egy pohár bor mellett zárjuk Altura egyik fűtött bisztrójában.",
+            "ro": "Dimineața pedalăm prin aerul rece și curat spre Feira de Cacela, mănușile fiind foarte recomandate. La prânz ne bucurăm de razele calde ale soarelui la Manta Rota pe pistele de biciclete libere. Deoarece lumina scade după ora 16:30, planificăm întoarcerea de la Praia Verde la timp. Seara încheiem ziua cu un pahar de vin într-un bistro încălzit din Altura.",
+            "en": "Morning cycling through the cool, crisp air to Feira de Cacela is refreshing; wearing gloves is highly recommended. At noon, we enjoy the warming sun at Manta Rota beach on deserted bike paths. Since light fades after 16:30, we plan our return from Praia Verde in good time. Evening ends with a glass of wine in one of Altura’s heated, cozy bistros."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Feira de Vila Nova de Cacela",
+                "hu": "Feira de Vila Nova de Cacela",
+                "ro": "Feira de Vila Nova de Cacela",
+                "en": "Feira de Vila Nova de Cacela"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Kaffee an einem der Stände auf; im Winter ist der Markt ruhiger und man kann leichter mit Einheimischen plaudern.",
+                "hu": "Melegedjen fel egy forró kávéval az egyik árusnál; télen a piac csendesebb, és sokkal könnyebb szóba elegyedni a helyi lakosokkal.",
+                "ro": "Încălzește-te cu o cafea fierbinte la una dintre tarabe; iarna piața este mai liniștită și este mult mai ușor să interacționezi cu localnicii.",
+                "en": "Warm up with a hot coffee at one of the stalls; in winter, the market is quieter, and it is much easier to chat with the friendly locals."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Manta Rota",
+                "hu": "Praia da Manta Rota",
+                "ro": "Praia da Manta Rota",
+                "en": "Praia da Manta Rota"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht auf das tiefblaue Wintermeer; der Wind kann kühl sein, also behalten Sie Ihre Jacke beim Radfahren am Strandabschnitt an.",
+                "hu": "Élvezze a mélykék téli tenger látványát; a szél hűvös lehet, ezért tartsa magán a kabátot, amikor a tengerparti szakaszon biciklizik.",
+                "ro": "Bucurați-vă de vederea mării de iarnă albastru-închis; vântul poate fi rece, așa că păstrați jacheta pe voi când pedalați de-a lungul plajei.",
+                "en": "Enjoy the wide view of the deep blue winter sea; the wind can be chilly, so keep your jacket on while cycling along the coastal section."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Lota",
+                "hu": "Praia da Lota",
+                "ro": "Praia da Lota",
+                "en": "Praia da Lota"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege sind im Winter leer und sicher; nutzen Sie die Ruhe für eine entspannte Fahrt ohne den üblichen sommerlichen Touristenverkehr.",
+                "hu": "A kerékpárutak télen üresek és biztonságosak; használja ki a csendet egy pihentető tekeréshez a szokásos nyári turistaforgalom nélkül.",
+                "ro": "Pistele de biciclete sunt libere și sigure iarna; profită de liniște pentru o plimbare relaxată, fără traficul turistic obișnuit de vară.",
+                "en": "The bike paths are empty and safe in winter; take advantage of the quiet for a relaxed ride without the usual summer tourist traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Primas",
+                "hu": "Praia das Primas",
+                "ro": "Praia das Primas",
+                "en": "Praia das Primas"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach Muscheln, die nach Winterstürmen oft am Strand liegen; binden Sie Ihr Rad gut fest, falls böiger Wind aufkommt.",
+                "hu": "Keressen különleges kagylókat, amiket a téli viharok gyakran partra vetnek; rögzítse jól a biciklit, ha feltámadna a lökésszerű szél.",
+                "ro": "Caută scoici deosebite pe care furtunile de iarnă le scot adesea la mal; ancorează bine bicicleta în cazul în care vântul devine rafale.",
+                "en": "Look for unique shells that winter storms often wash ashore; secure your bike well in case gusty winds pick up while you explore the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Alagoa",
+                "hu": "Praia da Alagoa",
+                "ro": "Praia da Alagoa",
+                "en": "Praia da Alagoa"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet wunderbare Fotomotive für Radfahrer; achten Sie darauf, vor Einbruch der Dämmerung wieder in Altura zu sein.",
+                "hu": "Az alacsonyan járó nap csodás fotótémákat kínál a bicikliseknek; ügyeljen rá, hogy még a szürkület beállta előtt visszaérjen Alturába.",
+                "ro": "Soarele jos oferă oportunități foto minunate pentru bicicliști; ai grijă să te întorci în Altura înainte de lăsarea întunericului.",
+                "en": "The low winter sun offers wonderful photo opportunities for cyclists; make sure to head back to Altura before the twilight sets in completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verde",
+                "hu": "Praia Verde",
+                "ro": "Praia Verde",
+                "en": "Praia Verde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Getränk mit Blick auf die Pinien; im Winter ist die Atmosphäre hier besonders exklusiv und entspannt.",
+                "hu": "Élvezzen egy meleg italt a fenyvesekre néző kilátással; télen az itteni légkör különösen exkluzív és pihentető a kevesebb ember miatt.",
+                "ro": "Savurați o băutură caldă cu vedere la pini; iarna, atmosfera de aici este deosebit de exclusivistă și relaxată datorită liniștii.",
+                "en": "Enjoy a warm drink with a view of the pine trees; in winter, the atmosphere here is especially exclusive and relaxing due to fewer crowds."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A nyüzsgő Feira de Vila Nova de Cacela piacon elmerülünk a helyi kultúrában, és autentikus kézműves termékeket nézegetünk az utazás előtt.\n\nEgy rövid autóút egyenesen a hihetetlenül népszerű Praia da Manta Rota és a közeli Praia da Lota kulturálisan gazdag homokjához visz.\n\nKissé beljebb haladva megnézzük az Aqualine izgalmas vízi tevékenységeit, mielőtt meglátogatnánk a Praia da Alagoa központi csomópontját.\n\nAutós utazásunk a Praia Verde strandján ér véget, ahol a kényelmes parkolás lehetővé teszi a könnyű átmenetet egy lenyűgöző tengerparti vacsorához.",
         "ro": "Ne scufundăm în cultura locală la piața vibrantă Feira de Vila Nova de Cacela, căutând meșteșuguri autentice înainte de a pleca la drum.\n\nO scurtă plimbare cu mașina ne duce direct la populara Praia da Manta Rota și la nisipurile bogate cultural de la Praia da Lota.\n\nÎndreptându-ne ușor spre interior, descoperim activitățile acvatice interesante de la Aqualine înainte de a vizita hub-ul Praia da Alagoa.\n\nExcursia noastră rutieră se termină la Praia Verde, unde parcarea convenabilă ne permite să trecem ușor de la mașină la o cină uimitoare pe malul mării.",
         "en": "We dive into local culture at the vibrant Feira de Vila Nova de Cacela market, browsing authentic crafts before hitting the road.\n\nA short drive brings us straight to the incredibly popular Praia da Manta Rota and the culturally rich sands of nearby Praia da Lota.\n\nHeading slightly inland, we check out the exciting water activities at Aqualine before visiting the central hub of Praia da Alagoa.\n\nOur road trip finishes at Praia Verde, where convenient parking allows us to easily transition from the car to a stunning oceanfront dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die Feira de Cacela bequem mit dem Auto, um zwischen den Schauern trocken zu bleiben. Mittags steuern wir Praia da Manta Rota an, wo man oft nah am Strand parken und das Wetter vom Wagen aus beobachten kann. Nachmittags fahren wir zum Aqualine und später zur Praia Verde, wobei der Wagen als perfekter Rückzugsort dient. Abends parken wir im Zentrum von Altura für ein Abendessen im Trockenen.",
+            "hu": "Reggel kényelmesen, autóval látogatunk el a cacelai vásárba, így két zápor között szárazon maradhatunk. Délben a Manta Rota strandja felé vesszük az irányt, ahol közel parkolhatunk a parthoz, és az autóból is figyelhetjük az időjárást. Délután az Aqualine, majd Praia Verde következik, a kocsi pedig tökéletes menedéket nyújt. Este Altura központjában parkolunk le egy kellemes, fedett vacsorához.",
+            "ro": "Dimineața vizităm confortabil cu mașina Feira de Cacela, rămânând uscați între reprizele de ploaie. La prânz ne îndreptăm spre Manta Rota, unde putem parca aproape de plajă și putem observa vremea din mașină. După-amiaza mergem la Aqualine și apoi la Praia Verde, mașina fiind refugiul perfect. Seara parcăm în centrul stațiunii Altura pentru o cină într-un loc ferit de ploaie.",
+            "en": "Morning visit to Feira de Cacela is comfortable by car, allowing us to stay dry between rain showers. At noon, we head to Manta Rota, where close parking lets us watch the dramatic weather from the vehicle. Afternoon includes stops at Aqualine and Praia Verde, using the car as a perfect shelter. Evening ends by parking in central Altura for a cozy dinner in a dry, indoor setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Feira de Vila Nova de Cacela",
+                "hu": "Feira de Vila Nova de Cacela",
+                "ro": "Feira de Vila Nova de Cacela",
+                "en": "Feira de Vila Nova de Cacela"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um nicht im nassen Boden steckenzubleiben; der Marktbesuch ist kurz ideal, wenn es gerade weniger regnet.",
+                "hu": "Parkoljon szilárd burkolatú felületen, hogy ne ragadjon be a vizes talajba; a piaci séta akkor ideális, amikor éppen alábbhagy az eső.",
+                "ro": "Parcați pe suprafețe pavate pentru a nu rămâne blocați în pământul ud; vizita în piață este ideală atunci când ploaia se mai domolește puțin.",
+                "en": "Park on paved surfaces to avoid getting stuck in wet ground; the market visit is ideal during brief intervals when the rain lets up slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Manta Rota",
+                "hu": "Praia da Manta Rota",
+                "ro": "Praia da Manta Rota",
+                "en": "Praia da Manta Rota"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Strand; von dort aus haben Sie einen tollen Blick auf das Meer, ohne nass werden zu müssen.",
+                "hu": "Használja a közvetlenül a parton található nagy parkolót; onnan remek kilátás nyílik a tengerre anélkül, hogy meg kellene áznia a séta közben.",
+                "ro": "Folosiți parcarea mare direct de lângă plajă; de acolo aveți o vedere excelentă asupra mării fără a fi nevoie să vă udați în ploaie.",
+                "en": "Use the large parking lot right by the beach; from there, you have a great view of the sea without having to get wet in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Lota",
+                "hu": "Praia da Lota",
+                "ro": "Praia da Lota",
+                "en": "Praia da Lota"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp vom Fenster aus lohnt sich; achten Sie auf tiefere Pfützen auf den Zufahrtswegen, die bei Starkregen entstehen können.",
+                "hu": "Egy gyors fotómegálló az ablakból is megéri; ügyeljen a behajtóutakon keletkező mélyebb pocsolyákra, amik heves esőzéskor alakulhatnak ki.",
+                "ro": "O oprire rapidă pentru poze de la fereastră merită; atenție la bălțile adânci de pe drumurile de acces care se pot forma la ploi torențiale.",
+                "en": "A quick photo stop from the window is worthwhile; watch out for deeper puddles on the access roads that can form during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Alagoa",
+                "hu": "Praia da Alagoa",
+                "ro": "Praia da Alagoa",
+                "en": "Praia da Alagoa"
+              },
+              "tip_5lang": {
+                "de": "Das Auto bietet einen warmen Rückzugsort nach einem kurzen Spaziergang am stürmischen Ufer; schalten Sie die Klimaanlage gegen beschlagene Scheiben ein.",
+                "hu": "Az autó meleg menedéket nyújt egy rövid, viharos partmenti séta után; kapcsolja be a légkondicionálót a bepárásodott szélvédő ellen.",
+                "ro": "Mașina oferă un refugiu cald după o scurtă plimbare pe țărmul furtunos; porniți aerul condiționat pentru a dezaburi rapid parbrizul.",
+                "en": "The car provides a warm retreat after a short walk along the stormy shore; turn on the air conditioning to quickly defog the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqualine",
+                "hu": "Aqualine",
+                "ro": "Aqualine",
+                "en": "Aqualine"
+              },
+              "tip_5lang": {
+                "de": "Hier gibt es gute Parkmöglichkeiten in der Nähe der überdachten Bereiche; nutzen Sie die Zeit für eine kleine Pause im Trockenen mit Meerblick.",
+                "hu": "Itt jó parkolási lehetőségek vannak a fedett részek közelében; használja ki az időt egy rövid, száraz pihenőre, miközben a tengert nézi.",
+                "ro": "Există locuri bune de parcare în apropierea zonelor acoperite; profită de timp pentru o mică pauză la adăpost, admirând panorama mării.",
+                "en": "There are good parking options near the covered areas; use the time for a short, dry break while enjoying the view of the stormy ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verde",
+                "hu": "Praia Verde",
+                "ro": "Praia Verde",
+                "en": "Praia Verde"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Praia Verde ist bei Regen gut befahrbar; das Restaurant bietet den idealen, trockenen Abschluss für einen regnerischen Tag.",
+                "hu": "A Praia Verde felé vezető feljáró esőben is jól járható; az étterem ideális, száraz befejezést kínál egy borús, esős nap végén.",
+                "ro": "Drumul spre Praia Verde este ușor practicabil și pe ploaie; restaurantul oferă finalul ideal și uscat pentru o zi ploioasă și mohorâtă.",
+                "en": "The access road to Praia Verde is easily driveable even in rain; the restaurant offers the ideal dry ending to a gloomy, rainy day trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zur Feira de Cacela, wobei die Heizung den kühlen Start in den Tag angenehm macht. Mittags steuern wir Praia da Manta Rota an, um die milde Wintersonne am menschenleeren Strand zu genießen. Da es bereits gegen 17:00 Uhr dunkel wird, erreichen wir Praia Verde am Nachmittag für den perfekten Ausblick. Abends kehren wir entspannt nach Altura zurück und parken direkt vor dem Restaurant.",
+            "hu": "Reggel a cacelai vásárba hajtunk, a kocsi fűtése kellemessé teszi a hűvös napindítást. Délben a Manta Rota strandján élvezzük a lágy téli napsütést a néptelen parton. Mivel 17:00 körül sötétedik, délután érünk Praia Verdére a tökéletes kilátásért. Estére pihenten térünk vissza Alturába, ahol közvetlenül az étterem előtt tudunk leparkolni.",
+            "ro": "Dimineața conducem spre Feira de Cacela, încălzirea mașinii făcând startul rece al zilei foarte plăcut. La prânz ne oprim la Manta Rota pentru a savura soarele blând pe plaja pustie. Deoarece se întunecă în jur de ora 17:00, ajungem la Praia Verde după-amiaza pentru panorama perfectă. Seara revenim relaxați în Altura, parcând chiar în fața restaurantului.",
+            "en": "Morning drive to Feira de Cacela is made pleasant by the car's heater during the crisp start. At noon, we head to Manta Rota to enjoy the mild winter sun on the deserted beach. With sunset around 17:00, we reach Praia Verde in the afternoon for the best panoramic views. Evening finds us back in Altura, conveniently parking right in front of our dinner spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Feira de Vila Nova de Cacela",
+                "hu": "Feira de Vila Nova de Cacela",
+                "ro": "Feira de Vila Nova de Cacela",
+                "en": "Feira de Vila Nova de Cacela"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter einen Parkplatz direkt am Markt; nutzen Sie die Gelegenheit, um lokale Winterdelikatessen und Honig zu kaufen.",
+                "hu": "Télen sokkal könnyebben talál parkolóhelyet közvetlenül a piac mellett; használja ki az alkalmat helyi téli finomságok és méz vásárlására.",
+                "ro": "Iarna găsești mai ușor un loc de parcare chiar lângă piață; profită de ocazie pentru a cumpăra delicii locale de iarnă și miere artizanală.",
+                "en": "In winter, you can find parking more easily right next to the market; take the opportunity to buy local winter delicacies and regional honey."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Manta Rota",
+                "hu": "Praia da Manta Rota",
+                "ro": "Praia da Manta Rota",
+                "en": "Praia da Manta Rota"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzgebühren entfallen oft in der Nebensaison; genießen Sie einen langen Spaziergang, solange die Wintersonne am höchsten steht.",
+                "hu": "A parkolási díjak főszezonon kívül gyakran elmaradnak; élvezze a hosszú sétát, amíg a téli nap a legmagasabban jár az égen.",
+                "ro": "Taxele de parcare sunt adesea anulate în extrasezon; bucură-te de o plimbare lungă cât timp soarele de iarnă este sus pe cer.",
+                "en": "Parking fees are often waived during the off-season; enjoy a long beach walk while the winter sun is at its highest point in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Lota",
+                "hu": "Praia da Lota",
+                "ro": "Praia da Lota",
+                "en": "Praia da Lota"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen kurzen Halt; die winterliche Meeresbrise ist hier besonders erfrischend und der Strand gehört Ihnen fast allein.",
+                "hu": "Ideális hely egy rövid megállásra; a téli tengeri szellő itt különösen frissítő, és a partot szinte teljesen egyedül élvezheti.",
+                "ro": "Un loc ideal pentru o scurtă oprire; briza mării de iarnă este deosebit de revigorantă aici, iar plaja este aproape în întregime a ta.",
+                "en": "An ideal spot for a short stop; the winter sea breeze is especially refreshing here, and you will have the beach almost entirely to yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Alagoa",
+                "hu": "Praia da Alagoa",
+                "ro": "Praia da Alagoa",
+                "en": "Praia da Alagoa"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist im Winter entspannt ohne Staus; nutzen Sie das Auto als Basis, um zwischendurch die Jacken gegen leichtere Schichten zu tauschen.",
+                "hu": "A behajtás télen dugók nélkül, nyugodtan lehetséges; használja az autót bázisként, ahol szükség esetén rétegesebbre cserélheti öltözetét.",
+                "ro": "Accesul este relaxat iarna, fără ambuteiaje; folosește mașina ca bază pentru a schimba jachetele cu straturi mai subțiri dacă se încălzește.",
+                "en": "Access is relaxed in winter without traffic jams; use the car as a base to swap heavy jackets for lighter layers if the sun gets warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqualine",
+                "hu": "Aqualine",
+                "ro": "Aqualine",
+                "en": "Aqualine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt für ein paar schnelle Winterfotos; die tiefstehende Sonne sorgt für dramatische Schattenwürfe auf dem Sand.",
+                "hu": "Parkoljon közel a kilátóponthoz néhány gyors téli fotó kedvéért; az alacsonyan járó nap drámai árnyékokat vet a homokos tengerpartra.",
+                "ro": "Parchează aproape de punctul de belvedere pentru câteva poze rapide de iarnă; soarele jos creează umbre dramatice pe plaja cu nisip.",
+                "en": "Park close to the viewpoint for a few quick winter photos; the low sun creates dramatic shadows across the wide, sandy beach landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Verde",
+                "hu": "Praia Verde",
+                "ro": "Praia Verde",
+                "en": "Praia Verde"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze im Pinienwald sind im Winter herrlich ruhig; genießen Sie den Sonnenuntergang, bevor Sie die kurze Fahrt zurück nach Altura antreten.",
+                "hu": "A fenyőerdőben lévő parkolók télen csodásan csendesek; élvezze a naplementét, mielőtt megtenné a rövid utat vissza Altura irányába.",
+                "ro": "Parcările din pădurea de pini sunt minunat de liniștite iarna; admiră apusul înainte de a porni pe drumul scurt înapoi spre Altura.",
+                "en": "The parking areas in the pine forest are wonderfully quiet in winter; enjoy the sunset before taking the short drive back toward Altura."
+              }
+            }
+          ]
+        }
       }
     }
   }

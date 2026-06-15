@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az elegáns Casa de los Melgares felfedezésével, majd merüljön el a Casa Museo de D. Pepe Marsilla megőrzött történelmében. A délidő egy kellemes sétára csábít a Restos Castillo y muralla zord maradványaihoz, melyek a középkorról mesélnek. Délután fókuszáljon Bullas híres borászatára a Bodega de la Balsa y Consejo Regulador meglátogatásával. Zárja gyalogtúráját az átfogó Museo del Vino-ban, megízlelve a helyi borok mély kulturális gyökereit és lenyűgöző hagyományait.",
         "ro": "Începeți dimineața explorând eleganta Casa de los Melgares, înainte de a vă cufunda în istoria conservată de la Casa Museo de D. Pepe Marsilla. Amiaza vă invită la o plimbare relaxantă spre Restos Castillo y muralla, unde pietrele antice spun povești medievale. După-amiaza, concentrați-vă pe viticultura faimoasă din Bullas vizitând Bodega de la Balsa y Consejo Regulador. Încheiați turul pietonal la Museo del Vino, savurând rădăcinile culturale profunde ale vinului local excepțional.",
         "en": "Start your morning exploring the elegant Casa de los Melgares, admiring its intricate facade before diving into the preserved history of Casa Museo de D. Pepe Marsilla. Midday invites a leisurely stroll to the rugged Restos Castillo y muralla, where ancient stones tell stories of the town's medieval past. In the afternoon, shift your focus to Bullas's famous viticulture by visiting the Bodega de la Balsa y Consejo Regulador. Conclude your walking tour at the comprehensive Museo del Vino, savoring the deep cultural roots of local wine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Bullas beginnt mit dem Regenschirm bei den historischen Häusern. Mittags können Sie Pfützen ausweichen und sich in den überdachten Museen verstecken. Der Nachmittag ist perfekt für die gemütlichen, trockenen Weinkeller der Stadt. Der Abend endet im großen Weinmuseum, wo Sie das Wetter draußen komplett vergessen können.",
+            "hu": "Az esős reggelen esernyővel a kézben érdemes megcsodálni a történelmi házakat. Délben a pocsolyákat kerülgetve a helyi múzeumok nyújtanak száraz menedéket. A délután tökéletes a hangulatos és vízmentes borospincék felfedezésére. Az estét a bormúzeumban zárhatjuk, teljesen védve a kinti nedves és csapadékos időjárástól.",
+            "ro": "O dimineață ploioasă în Bullas începe sub umbrelă, admirând casele istorice. La prânz, evitând bălțile, ne adăpostim în muzeele interioare ale orașului. După-amiaza este perfectă pentru a explora cramele uscate și confortabile. Seara se încheie la muzeul vinului, complet protejați de vremea urâtă de afară.",
+            "en": "Morning rain in Bullas means starting under an umbrella at the historical houses. Midday features indoor museum explorations while dodging puddles on the streets. The afternoon is perfect for the local wine cellars where it is dry and cozy. The evening concludes with a final museum visit, completely shielded from the wet weather outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de los Melgares",
+                "hu": "Casa de los Melgares",
+                "ro": "Casa de los Melgares",
+                "en": "Casa de los Melgares"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur kurz von außen und halten Sie Ihren Regenschirm bereit, bevor Sie nach drinnen gehen.",
+                "hu": "Csodálja meg az építészetet kívülről, de tartsa kéznél az esernyőt, mielőtt a következő fedett állomásra indul.",
+                "ro": "Admirați scurt arhitectura din exterior, ținând umbrela la îndemână înainte de a vă îndrepta spre interior.",
+                "en": "Admire the architecture from the outside briefly, keeping your umbrella handy before heading to the next indoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo de D. Pepe Marsilla",
+                "hu": "Casa Museo de D. Pepe Marsilla",
+                "ro": "Casa Museo de D. Pepe Marsilla",
+                "en": "Casa Museo de D. Pepe Marsilla"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Innenräume, um komplett trocken zu bleiben und die lokale Geschichte zu erleben.",
+                "hu": "Fedezze fel a belső tereket, hogy teljesen száraz maradjon, miközben a helyi történelemmel ismerkedik.",
+                "ro": "Explorați interioarele fascinante pentru a rămâne complet uscat în timp ce învățați despre istoria locală.",
+                "en": "Explore the fascinating interiors to stay completely dry while learning about the rich local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Restos Castillo y muralla",
+                "hu": "Restos Castillo y muralla",
+                "ro": "Restos Castillo y muralla",
+                "en": "Restos Castillo y muralla"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Ihre Schritte auf dem nassen Pflaster; der Regen sorgt hier für eine stimmungsvolle Atmosphäre.",
+                "hu": "Vigyázzon a lépéseire a várromok körüli nedves macskaköveken; az eső különleges atmoszférát teremt.",
+                "ro": "Aveți grijă pe pietrele umede din jurul ruinelor; ploaia adaugă o atmosferă istorică, plină de melancolie.",
+                "en": "Watch your step on the wet cobblestones around the ruins; the rain adds a moody, historical atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "hu": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "ro": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "en": "Bodega de la Balsa y Consejo Regulador D.O. Bullas"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort an Regentagen, um in trockener Umgebung mehr über die Weinproduktion zu erfahren.",
+                "hu": "Tökéletes menedék esős napokon, ahol száraz környezetben ismerkedhet meg a bortermeléssel.",
+                "ro": "Un refugiu perfect pe timp de ploaie, unde puteți afla despre producția de vin într-un mediu uscat.",
+                "en": "A perfect rainy day retreat where you can learn about wine production in a comfortable, dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Museo del Vino",
+                "ro": "Museo del Vino",
+                "en": "Museo del Vino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang drinnen und entdecken Sie das Weinerbe, ohne sich um das Wetter zu sorgen.",
+                "hu": "Fejezze be esős sétáját beltéren, felfedezve a borászati örökséget az időjárás viszontagságai nélkül.",
+                "ro": "Terminați plimbarea umedă în interior, descoperind moștenirea viticolă fără să vă faceți griji pentru vreme.",
+                "en": "Finish your wet walk indoors, discovering the deep wine heritage of the region without worrying about the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Wintermorgen in Bullas sind ideal für zügige Spaziergänge in warmer Kleidung. Mittags wärmt die Sonne die schönen Altstadtgassen auf. Nachmittags werden die Schatten an den Burgruinen schnell länger. Beenden Sie den Tag im warmen, gemütlichen Weinmuseum, bevor gegen 17:00 Uhr die eisige Kälte der Dämmerung einsetzt.",
+            "hu": "A csípős téli reggelek kiválóak egy frissítő sétára Bullas óvárosában, ha melegen öltözünk. Délben a napsütés kellemesen felmelegíti az utcákat. A várromoknál a délutáni árnyékok gyorsan megnyúlnak. Az estét a bormúzeum melegében tölthetjük, mielőtt 17:00 óra körül hirtelen beáll a hideg szürkület.",
+            "ro": "Diminețile geroase de iarnă în Bullas sunt ideale pentru plimbări dacă vă îmbrăcați gros. La prânz, soarele încălzește plăcut străzile vechi. Umbrele se lungesc rapid după-amiaza la ruinele castelului. Încheiați ziua la căldură în muzeul vinului, înainte de lăsarea frigului la apusul devreme de la ora 17:00.",
+            "en": "Crisp winter mornings in Bullas are great for brisk walks if you layer up. Midday offers gentle sunshine warming the old town streets. Afternoon shadows lengthen quickly around the medieval castle ruins. Wrap up the early evening indoors at the warm wine museum before the chilly twilight sets in around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de los Melgares",
+                "hu": "Casa de los Melgares",
+                "ro": "Casa de los Melgares",
+                "en": "Casa de los Melgares"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den kühlen Morgen hier; tragen Sie warme Handschuhe, da die Winterluft sehr frisch ist.",
+                "hu": "Kezdje a hűvös reggelt itt; viseljen meleg kesztyűt, mert a téli levegő meglehetősen csípős lehet.",
+                "ro": "Începeți dimineața rece admirând această fațadă; purtați mănuși, deoarece aerul de iarnă este tăios.",
+                "en": "Start your chilly morning viewing this facade; wear warm gloves as the winter air in Bullas can be quite crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo de D. Pepe Marsilla",
+                "hu": "Casa Museo de D. Pepe Marsilla",
+                "ro": "Casa Museo de D. Pepe Marsilla",
+                "en": "Casa Museo de D. Pepe Marsilla"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich aufzuwärmen und zu sehen, wie wohlhabende Familien in den vergangenen Jahrhunderten lebten.",
+                "hu": "Lépjen be, hogy felmelegedjen, miközben megcsodálja a múlt századok gazdag családjainak életét.",
+                "ro": "Intrați pentru a vă încălzi în timp ce admirați viața familiilor bogate din secolele trecute.",
+                "en": "Step inside this historic home to warm up while admiring how wealthy families lived during past centuries."
+              }
+            },
+            {
+              "name": {
+                "de": "Restos Castillo y muralla",
+                "hu": "Restos Castillo y muralla",
+                "ro": "Restos Castillo y muralla",
+                "en": "Restos Castillo y muralla"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bietet tolles Licht für Fotos der Mauern, aber der Wind kann hier etwas beißend sein.",
+                "hu": "A téli nap nagyszerű megvilágítást ad a falak fotózásához, de a szél meglehetősen metsző lehet itt.",
+                "ro": "Soarele de iarnă oferă o lumină excelentă pentru fotografii, dar vântul poate fi destul de rece aici.",
+                "en": "The winter sun provides great lighting for photos of these walls, but the wind can be biting in this open spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "hu": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "ro": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "en": "Bodega de la Balsa y Consejo Regulador D.O. Bullas"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem historischen Weingut auf, ein gemütlicher Ort an einem kühlen Winternachmittag.",
+                "hu": "Melegedjen fel ebben a történelmi pincészetben, amely hangulatos menedék a csípős téli levegő elől.",
+                "ro": "Încălziți-vă în această cramă istorică, un loc primitor pentru a lua o pauză de la aerul rece de iarnă.",
+                "en": "Warm your spirits in this historic winery, a cozy spot to take a break from the crisp winter afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Museo del Vino",
+                "ro": "Museo del Vino",
+                "en": "Museo del Vino"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den Abend drinnen mit der Weingeschichte, wenn die Wintersonne früh untergeht.",
+                "hu": "Töltse a kora estét bent a bortörténelem felfedezésével, ahogy a téli nap korán lenyugszik.",
+                "ro": "Petreceți seara în interior descoperind istoria vinului, pe măsură ce soarele apune devreme.",
+                "en": "Spend the early evening indoors discovering local wine history as the winter sun sets early and temperatures drop."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Indítsa a reggelt a Museo del Vino-ban, elmerülve a helyi borkultúrában, mielőtt átkerekezne a közeli Bodega de la Balsa épületéhez. Délben kerékpározzon északra, hogy megcsodálja a murciai tájból kiemelkedő Palacete de Fuente La Higuera-t. A délutáni út keletre vezet a lenyűgöző Villa Romana de Los Cantos-hoz, bepillantást engedve az ókori vidéki életbe. Fejezze be a napot a Mirador de las Atalayas-nál, megjutalmazva erőfeszítéseit egy pompás völgyi naplementével.",
         "ro": "Începeți dimineața pedalând spre Museo del Vino pentru a descoperi cultura locală a vinului, apoi mergeți la Bodega de la Balsa y Consejo Regulador. La prânz, mergeți spre nord pentru a admira impresionantul Palacete de Fuente La Higuera pe fundalul peisajului murcian. Plimbarea de după-amiază vă duce la Villa Romana de Los Cantos, oferind o privire asupra vieții rurale antice. Încheiați ziua la Mirador de las Atalayas, răsplătindu-vă eforturile cu un apus de soare glorios deasupra văii.",
         "en": "Pedal off your morning at the Museo del Vino, immersing yourself in the rich local wine culture before rolling over to the nearby Bodega de la Balsa y Consejo Regulador. By midday, cycle north to admire the imposing Palacete de Fuente La Higuera set against the Murcian landscape. The afternoon ride takes you east to the fascinating Villa Romana de Los Cantos, offering a glimpse into ancient rural life. Finish the day pedaling south to the Mirador de las Atalayas, rewarding your efforts with a glorious valley sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert gute wasserdichte Kleidung. Der Morgen beginnt trocken im großen Weinmuseum. Mittags fahren Sie vorsichtig auf nassen Straßen zum nächsten Weingut. Nachmittags werden die Wege bei den römischen Ruinen rutschig. Der Abend endet am Aussichtspunkt, wo dramatische Regenwolken über der Landschaft hängen.",
+            "hu": "Az esős biciklizéshez elengedhetetlenen a vízálló felszerelés. A reggel a bormúzeum száraz termeiben indul. Délben óvatosan tekerhetünk a nedves utakon a borospincéig. Délután a római romoknál sáros utakra kell számítani. Az estét a kilátónál zárjuk, ahonnan drámai esőfelhőket fotózhatunk.",
+            "ro": "Ciclismul pe ploaie necesită echipament impermeabil bun. Dimineața începe la cald în muzeul vinului. La prânz pedalați cu grijă pe drumurile umede spre cramă. După-amiaza traseele devin noroioase la ruinele romane. Seara se încheie la punctul de belvedere, sub nori de ploaie dramatici.",
+            "en": "Cycling in the rain requires reliable waterproof gear. Morning starts indoors at the dry wine museum. Midday features a careful, wet ride to the winery. Afternoon trails become slippery near the Roman ruins. The evening ends at the viewpoint, where rain clouds offer a dramatic, moody landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Museo del Vino",
+                "ro": "Museo del Vino",
+                "en": "Museo del Vino"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre nasse Radtour drinnen und halten Sie Ihre Ausrüstung trocken, während Sie die Exponate erkunden.",
+                "hu": "Kezdje a nedves biciklitúrát beltéren, tartsa szárazon a felszerelését, miközben a kiállítást nézi.",
+                "ro": "Începeți turul ploios în interior, păstrând echipamentul uscat în timp ce explorați exponatele.",
+                "en": "Start your rainy bike tour indoors, keeping your cycling gear completely dry while exploring the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "hu": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "ro": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "en": "Bodega de la Balsa y Consejo Regulador D.O. Bullas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr nasses Fahrrad sicher und genießen Sie die trockene, informative Umgebung dieses Zentrums.",
+                "hu": "Parkolja le nedves kerékpárját, és élvezze a központ száraz, informatív környezetét.",
+                "ro": "Parcați bicicleta umedă în siguranță și bucurați-vă de mediul uscat și informativ al acestui centru.",
+                "en": "Park your wet bike safely and enjoy the dry, highly informative environment of this classic wine center."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete de Fuente La Higuera",
+                "hu": "Palacete de Fuente La Higuera",
+                "ro": "Palacete de Fuente La Higuera",
+                "en": "Palacete de Fuente La Higuera"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Zugangswegen zu diesem Herrenhaus und tragen Sie gut sichtbare Regenkleidung.",
+                "hu": "Tekerjen óvatosan a nedves utakon ehhez a kúriához, és viseljen jól látható esőruházatot.",
+                "ro": "Mergeți cu grijă pe căile de acces umede și purtați haine de ploaie cu vizibilitate ridicată.",
+                "en": "Ride carefully on the wet access paths to see this elegant mansion, and wear high-visibility rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana de Los Cantos",
+                "hu": "Villa Romana de Los Cantos",
+                "ro": "Villa Romana de Los Cantos",
+                "en": "Villa Romana de Los Cantos"
+              },
+              "tip_5lang": {
+                "de": "Die archäologische Stätte wird bei Regen sehr schlammig, also fahren Sie vorsichtig und tragen Sie wasserdichte Schuhe.",
+                "hu": "A régészeti terület esőben nagyon sáros lesz, ezért tekerjen lassan és viseljen vízálló cipőt.",
+                "ro": "Situl arheologic devine noroios în ploaie, așa că pășiți cu grijă și purtați încălțăminte impermeabilă.",
+                "en": "The archaeological site gets quite muddy in the rain, so step carefully and wear waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Atalayas",
+                "hu": "Mirador de las Atalayas",
+                "ro": "Mirador de las Atalayas",
+                "en": "Mirador de las Atalayas"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform kann rutschig sein, aber die dunklen Regenwolken bieten ein tolles Fotomotiv.",
+                "hu": "A kilátó platformja csúszós lehet, de a sötét esőfelhők drámai fotótémát kínálnak a völgy felett.",
+                "ro": "Platforma de vizionare poate fi alunecoasă, dar norii de ploaie oferă o oportunitate foto dramatică.",
+                "en": "The viewing platform can be slippery, but the dark rain clouds over the landscape provide a dramatic photo."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für diese kalte, aber schöne winterliche Radtour. Der Morgen im Museum bietet einen warmen Start. Mittags hält Sie das in die Pedale treten auf dem Weg zum Palacete warm. Nachmittags beleuchtet die tief stehende Sonne die römischen Ruinen. Kommen Sie vor 17:00 Uhr am Aussichtspunkt an, um den frühen Sonnenuntergang zu erleben.",
+            "hu": "Öltözzön fel melegen ehhez a hideg, de gyönyörű téli kerékpártúrához. A múzeumi reggel meleg indulást biztosít. Délben a pedálozás melegen tart a kúria felé vezető úton. Délután az alacsony napfény csodásan megvilágítja a római romokat. Érjen a kilátóhoz 17:00 előtt a korai naplemente miatt.",
+            "ro": "Îmbrăcați-vă gros pentru acest traseu de iarnă rece, dar frumos. Dimineața la muzeu oferă un start cald. La prânz pedalatul vă încălzește pe drumul spre palat. După-amiaza soarele luminează frumos ruinele romane. Ajungeți la belvedere înainte de 17:00 pentru apusul timpuriu.",
+            "en": "Bundle up for a cold but beautiful winter cycling route. Morning at the museum offers a warm start. Midday pedaling keeps you warm as you head to the palacete. The afternoon winter sunlight beautifully illuminates the Roman ruins. Arrive at the viewpoint before 17:00 to catch the stunning early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Museo del Vino",
+                "ro": "Museo del Vino",
+                "en": "Museo del Vino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Innere des Museums, bevor Sie der frischen Winterluft auf dem Fahrrad trotzen.",
+                "hu": "Élvezze a múzeum melegét, mielőtt kerékpárra pattanva dacolna a friss téli levegővel.",
+                "ro": "Bucurați-vă de interiorul cald al muzeului înainte de a înfrunta aerul rece de iarnă pe bicicletă.",
+                "en": "Enjoy the warm interior of the museum before braving the crisp winter air on your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "hu": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "ro": "Bodega de la Balsa y Consejo Regulador D.O. Bullas",
+                "en": "Bodega de la Balsa y Consejo Regulador D.O. Bullas"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Halt im Innenbereich, um Körperwärme zurückzugewinnen und die Weintraditionen zu lernen.",
+                "hu": "Kiváló beltéri megálló, hogy felmelegedjen, miközben megismeri a gazdag borkészítési hagyományokat.",
+                "ro": "O oprire excelentă în interior pentru a vă încălzi în timp ce învățați despre tradițiile viticole.",
+                "en": "A great indoor stop to regain some body heat while learning about the region's rich wine-making traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete de Fuente La Higuera",
+                "hu": "Palacete de Fuente La Higuera",
+                "ro": "Palacete de Fuente La Higuera",
+                "en": "Palacete de Fuente La Higuera"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale, um warm zu bleiben; die kahlen Winterbäume bieten eine freie Sicht auf den Palast.",
+                "hu": "Tekerjen erősen, hogy melegen maradjon; a kopasz téli fák akadálytalan kilátást nyújtanak a palotára.",
+                "ro": "Pedalați pentru a vă încălzi; copacii golași de iarnă oferă o vedere neobstrucționată a palatului.",
+                "en": "Keep pedaling to stay warm; the stark, bare winter trees offer an unobstructed view of this beautiful palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana de Los Cantos",
+                "hu": "Villa Romana de Los Cantos",
+                "ro": "Villa Romana de Los Cantos",
+                "en": "Villa Romana de Los Cantos"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft am Nachmittag lange Schatten auf die Ruinen und lässt sie spektakulär aussehen.",
+                "hu": "A téli délutáni nap hosszú árnyékokat vet ezekre az ősi romokra, lenyűgöző látványt nyújtva.",
+                "ro": "Soarele de iarnă aruncă umbre lungi peste ruine după-amiaza, făcându-le să pară spectaculoase.",
+                "en": "The afternoon winter sun casts long shadows over these ancient Roman ruins, making them look spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Atalayas",
+                "hu": "Mirador de las Atalayas",
+                "ro": "Mirador de las Atalayas",
+                "en": "Mirador de las Atalayas"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft für den frühen Sonnenuntergang vor 17:00 Uhr, aber bringen Sie eine zusätzliche Schicht mit.",
+                "hu": "Érkezzen a 17:00 óra előtti korai naplementére, de hozzon egy plusz réteg ruhát a szél miatt.",
+                "ro": "Ajungeți pentru apusul de dinainte de 17:00, dar aduceți un strat suplimentar pentru vântul de aici.",
+                "en": "Time your arrival for the early winter sunset before 17:00, but bring an extra layer as the wind picks up here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje autós útját a Villa Romana de Los Cantos-nál, felfedezve az ősi romokat a hűvös reggeli levegőben, mielőtt a városi Museo del Vino-ba hajtana. A délidő tökéletes a Casa Museo de D. Pepe Marsilla helyi örökségének megismerésére, majd az elegáns Palacete de Fuente La Higuera megtekintésére. Késő délután tegyen egy festői utat a Mirador de las Atalayas-hoz a pazar kilátásért. Végül ereszkedjen le a Panorámica del Salto del Usero-hoz, hogy élvezze a látványos természetes vízeséseket.",
         "ro": "Începeți traseul auto la Villa Romana de Los Cantos, explorând ruinele antice dimineața, înainte de a vă îndrepta spre oraș pentru impresionantul Museo del Vino. Amiaza este perfectă pentru a descoperi patrimoniul local la Casa Museo de D. Pepe Marsilla, urmată de o scurtă plimbare până la Palacete de Fuente La Higuera. După-amiaza, faceți o plimbare pitorească până la Mirador de las Atalayas pentru vederi panoramice. În cele din urmă, coborâți la Salto del Usero pentru a vă bucura de cascadele naturale spectaculoase.",
         "en": "Kick off your driving route at the Villa Romana de Los Cantos, exploring the ancient ruins in the cool morning air before heading into town for the comprehensive Museo del Vino. Midday is perfect for diving into local heritage at the Casa Museo de D. Pepe Marsilla, followed by a short drive to the elegant Palacete de Fuente La Higuera. As afternoon wanes, take a scenic drive to the Mirador de las Atalayas for sweeping views. Finally, descend to the Panorámica del Salto del Usero to enjoy the spectacular natural waterfalls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autotour ist ideal für das regnerische Bullas. Der Morgen beginnt bei den römischen Ruinen, wo Sie einen Regenschirm brauchen. Mittags wechseln Sie in trockene, gut beheizte Museen. Nachmittags fahren Sie gemütlich durch den Regen zum Palast. Der Abend endet am Wasserfall, wo der Regen das Rauschen des Wassers noch eindrucksvoller macht.",
+            "hu": "Az autós túra ideális az esős Bullasban. A reggel a római romoknál kezdődik, ahol szükség lesz az esernyőre. Délben száraz, fedett múzeumokba vonulunk. A délutáni autózás a palotához kényelmes a szakadó esőben is. Az estét a vízesésnél zárjuk, amit az esőzés még lenyűgözőbbé tesz.",
+            "ro": "Un tur cu mașina este ideal pentru Bullasul ploios. Dimineața la ruinele romane veți avea nevoie de umbrelă. La prânz vă adăpostiți în muzee uscate. După-amiaza conduceți confortabil prin ploaie spre palat. Seara se încheie la cascadă, unde ploaia face debitul apei și mai impresionant.",
+            "en": "A driving tour is ideal for rainy Bullas. Morning begins at the Roman ruins, where you will need a sturdy umbrella. Midday shifts to dry, indoor museums for history and wine. The afternoon drive to the palace is comfortable despite the rain. The evening concludes at the waterfall, where the rain makes the rushing water even more impressive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Romana de Los Cantos",
+                "hu": "Villa Romana de Los Cantos",
+                "ro": "Villa Romana de Los Cantos",
+                "en": "Villa Romana de Los Cantos"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm und wasserdichte Schuhe mit, da die Feldwege hier sehr schlammig werden.",
+                "hu": "Vigyen magával esernyőt és vízálló cipőt, mivel a földutak a romok körül nagyon sárosak lesznek.",
+                "ro": "Aduceți o umbrelă și pantofi impermeabili, deoarece cărările de pământ devin foarte noroioase.",
+                "en": "Bring a sturdy umbrella and waterproof shoes, as the dirt paths around the ruins become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Museo del Vino",
+                "ro": "Museo del Vino",
+                "en": "Museo del Vino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz in der Nähe und entfliehen Sie dem Regen in diesem faszinierenden Weinmuseum.",
+                "hu": "Parkoljon a közelben, és meneküljön az eső elől ebbe a lenyűgöző, borászati kultúrát bemutató múzeumba.",
+                "ro": "Parcați aproape și scăpați de ploaie în acest muzeu fascinant dedicat culturii vinului.",
+                "en": "Park close by and escape the heavy rain inside this fascinating museum dedicated to the local wine culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo de D. Pepe Marsilla",
+                "hu": "Casa Museo de D. Pepe Marsilla",
+                "ro": "Casa Museo de D. Pepe Marsilla",
+                "en": "Casa Museo de D. Pepe Marsilla"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem Auto direkt in dieses Haus aus dem 19. Jahrhundert, um trocken zu bleiben.",
+                "hu": "Lépjen ki az autóból egyenesen ebbe a 19. századi házba, hogy száraz maradjon és szórakozzon.",
+                "ro": "Ieșiți din mașină direct în această casă din secolul 19 pentru a rămâne uscat și confortabil.",
+                "en": "Step out of your car and straight into this 19th-century home to stay completely dry and entertained."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete de Fuente La Higuera",
+                "hu": "Palacete de Fuente La Higuera",
+                "ro": "Palacete de Fuente La Higuera",
+                "en": "Palacete de Fuente La Higuera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Palast aus dem warmen Auto, wenn der Regen zu stark wird.",
+                "hu": "Élvezze a palota látványát a meleg autó kényelméből, ha az eső túlságosan rázendítene.",
+                "ro": "Bucurați-vă de vederea palatului din confortul mașinii dacă ploaia devine prea puternică.",
+                "en": "Enjoy the view of the beautiful palace from the comfort and warmth of your car if the rain gets too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Atalayas",
+                "hu": "Mirador de las Atalayas",
+                "ro": "Mirador de las Atalayas",
+                "en": "Mirador de las Atalayas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Straßen; der Aussichtspunkt bietet ein stimmungsvolles Wolkenpanorama.",
+                "hu": "Vezessen óvatosan a nedves utakon; a kilátó hangulatos, felhőkkel borított panorámát kínál a völgyre.",
+                "ro": "Conduceți cu grijă pe drumurile umede; belvederea oferă o panoramă cu nori melancolici.",
+                "en": "Drive carefully on the wet, winding roads; the viewpoint offers moody, cloud-covered panoramas of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorámica del Salto del Usero",
+                "hu": "Panorámica del Salto del Usero",
+                "ro": "Panorámica del Salto del Usero",
+                "en": "Panorámica del Salto del Usero"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt diesen Wasserfall enorm, aber achten Sie unbedingt auf die rutschigen Felsen.",
+                "hu": "Az eső felerősíti ezt a vízesést, de nagyon vigyázzon, mert a sziklák rendkívül csúszósak lehetnek.",
+                "ro": "Ploaia îmbunătățește această cascadă, făcând fluxul mai puternic, dar atenție la rocile alunecoase.",
+                "en": "The rain actually enhances this waterfall, making the flow stronger, just watch out for extremely slippery rocks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Auto ist ein bequemer Weg, das winterliche Bullas zu sehen. Der Morgen beginnt frostig bei den Open-Air-Ruinen. Mittags bieten die exzellenten Museen der Stadt warme Zuflucht. Das Nachmittagslicht fängt den Palast perfekt ein. Beenden Sie den Tag am Wasserfall vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A vezetés kényelmes módja a téli Bullas felfedezésének. A reggel fagyos a szabadtéri romoknál. Délben a kiváló múzeumok meleg menedéket nyújtanak. A délutáni fény tökéletesen világítja meg a palotát. Zárja a napot a vízesésnél a korai, 17:00 órás naplemente és a hideg beállta előtt.",
+            "ro": "Condusul este un mod confortabil de a vedea Bullasul pe timp de iarnă. Dimineața începe geros la ruinele în aer liber. La prânz muzeele oferă un refugiu cald. Lumina după-amiezii surprinde perfect palatul. Încheiați ziua la cascadă înainte de apusul timpuriu de la ora 17:00.",
+            "en": "Driving is a comfortable way to see wintery Bullas. Morning starts crisp and frosty at the open-air Roman ruins. Midday offers warm refuge inside the town's excellent museums. The afternoon light catches the palace perfectly. End the day at the waterfall well before the early 17:00 sunset brings the chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Romana de Los Cantos",
+                "hu": "Villa Romana de Los Cantos",
+                "ro": "Villa Romana de Los Cantos",
+                "en": "Villa Romana de Los Cantos"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost lässt die Ruinen magisch aussehen, aber ziehen Sie sich warm an in diesem offenen Bereich.",
+                "hu": "A reggeli dér varázslatossá teszi a romokat, de öltözzön fel rétegesen ezen a nyitott, szeles területen.",
+                "ro": "Înghețul matinal face ruinele să pară magice, dar îmbrăcați-vă gros, fiind o zonă deschisă.",
+                "en": "The morning frost makes the ruins look magical, but dress warmly in layers as it is an exposed, open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Vino",
+                "hu": "Museo del Vino",
+                "ro": "Museo del Vino",
+                "en": "Museo del Vino"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter beheizter Halt, um aufzutauen und in die faszinierende Geschichte des Weins einzutauchen.",
+                "hu": "Tökéletes fűtött megálló a felengedéshez, miközben elmerül a borkészítés lenyűgöző történetében.",
+                "ro": "Un refugiu încălzit perfect pentru a vă dezgheța în timp ce descoperiți istoria vinului.",
+                "en": "A perfect heated stop to thaw out while diving into the fascinating history of local wine production."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo de D. Pepe Marsilla",
+                "hu": "Casa Museo de D. Pepe Marsilla",
+                "ro": "Casa Museo de D. Pepe Marsilla",
+                "en": "Casa Museo de D. Pepe Marsilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütlichen, erhaltenen Innenräume dieses historischen Hauses, fernab der Winterkälte.",
+                "hu": "Élvezze ennek a történelmi háznak a hangulatos, megőrzött belső tereit, távol a téli hidegtől.",
+                "ro": "Bucurați-vă de interioarele confortabile ale acestei case istorice, o evadare din frigul iernii.",
+                "en": "Enjoy the cozy, well-preserved interiors of this historic house, a great escape from the outside winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete de Fuente La Higuera",
+                "hu": "Palacete de Fuente La Higuera",
+                "ro": "Palacete de Fuente La Higuera",
+                "en": "Palacete de Fuente La Higuera"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet eine exzellente Kulisse zum Fotografieren dieses eleganten Gebäudes.",
+                "hu": "A tiszta téli égbolt kiváló hátteret biztosít ennek az elegáns épületnek a fotózásához.",
+                "ro": "Cerul senin de iarnă oferă un fundal excelent pentru a fotografia această clădire elegantă.",
+                "en": "The clear winter skies provide an excellent backdrop for photographing this elegant, historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Atalayas",
+                "hu": "Mirador de las Atalayas",
+                "ro": "Mirador de las Atalayas",
+                "en": "Mirador de las Atalayas"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft macht die Sicht unglaublich klar, obwohl der Wind oben ziemlich beißend sein kann.",
+                "hu": "A téli levegő hihetetlenül tisztává teszi a kilátást, bár a szél a tetőn meglehetősen csípős lehet.",
+                "ro": "Aerul de iarnă face vederea incredibil de clară, deși vântul din vârf poate fi destul de tăios.",
+                "en": "The crisp winter air makes the panoramic views incredibly clear, though the wind at the top can be quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorámica del Salto del Usero",
+                "hu": "Panorámica del Salto del Usero",
+                "ro": "Panorámica del Salto del Usero",
+                "en": "Panorámica del Salto del Usero"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen ruhigen Winterort deutlich vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Látogassa meg ezt a békés téli tájat jóval a korai, 17:00 órás naplemente előtt, mielőtt nagyon lehűlne.",
+                "ro": "Vizitați acest peisaj senin de iarnă cu mult înainte de apusul timpuriu de la ora 17:00.",
+                "en": "Visit this serene winter landscape well before the early 17:00 sunset brings dropping temperatures."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a történelmi Casa-palacio de Cilla-nál, majd tegyen egy sétát a Victoria vizes élőhely madaraihoz. Délben a Playa de Ris tágas homokos partja kínál tökéletes tengerparti kikapcsolódást. Délután másszon fel a Mirador Monte de la Cabra kilátóhoz a lenyűgöző panorámáért. Este a Cuarezo és a Cala Los Cuarezos sziklás öbleiben pihenheti ki magát.",
         "ro": "Începeți la istoricul Casa-palacio de Cilla, apoi plimbați-vă spre zonele umede Victoria. La prânz, plaja întinsă Playa de Ris vă așteaptă pentru relaxare pe coastă. După-amiaza, urcați la punctul de belvedere Monte de la Cabra pentru o panoramă uimitoare a mării. Seara, încheiați ziua explorând golfurile stâncoase fermecătoare Cuarezo și Cala Los Cuarezos.",
         "en": "Start at the historic Casa-palacio de Cilla before a nature walk to the Victoria wetlands to spot migrating birds. Midday brings you to the expansive Playa de Ris for coastal relaxation. In the afternoon, head up to the Monte de la Cabra viewpoint for breathtaking Cantabrian Sea vistas. Wind down your evening exploring the rocky, golden coves of Cuarezo and Los Cuarezos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Schutz der historischen Mauern. Mittags bieten die Vogelbeobachtungshütten trockenen Unterschlupf in den Sümpfen. Nachmittags wandern wir entlang der rauen Küste, wo die Gischt mit dem Regen verschmilzt. Den Abend lassen wir bei der dramatischen Brandung der Buchten ausklingen, während die Wolken tief über dem Kantabrischen Meer hängen.",
+            "hu": "A napot a történelmi falak védelmében kezdjük. Délben a madármegfigyelő kunyhók nyújtanak száraz menedéket a mocsárvidéken. Délután a vadpart mentén sétálunk, ahol a tenger permete keveredik az esővel. Az estét a sziklás öblök drámai hullámverésénél zárjuk, miközben a felhők alacsonyan úsznak a Kantábriai-tenger felett.",
+            "ro": "Ziua începe sub protecția zidurilor istorice. La prânz, observatoarele de păsări oferă adăpost uscat în zonele mlaștinoase. După-amiaza ne plimbăm de-a lungul coastei sălbatice, unde vaporii mării se amestecă cu ploaia. Seara se încheie lângă valurile dramatice ale golfurilor, în timp ce norii plutesc jos deasupra Mării Cantabrice.",
+            "en": "The day begins under the protection of historic stone walls. At noon, bird observatories provide dry shelter in the marshes. In the afternoon, we walk along the wild coast where sea spray mixes with the rain. The evening concludes by the dramatic surf of the coves as low clouds hang over the Cantabrian Sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa-palacio de Cilla",
+                "hu": "Casa-palacio de Cilla",
+                "ro": "Casa-palacio de Cilla",
+                "en": "Casa-palacio de Cilla"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Steinbögen des Palastes als Regenschutz, während Sie die Wappenarchitektur bewundern; festes Schuhwerk ist auf dem nassen Kopfsteinpflaster ratsam.",
+                "hu": "Használja a palota masszív kőíveit esővédőként, miközben a címereket csodálja; a nedves macskakövön ajánlott a csúszásmentes lábbeli viselése.",
+                "ro": "Folosiți arcadele masive de piatră ale palatului ca adăpost împotriva ploii în timp ce admirați blazoanele; se recomandă încălțăminte aderentă pe pavajul umed.",
+                "en": "Use the palace's massive stone arches as rain shelter while admiring the heraldry; sturdy footwear is advised on the wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatorio de aves de la Marisma Victoria",
+                "hu": "Observatorio de aves de la Marisma Victoria",
+                "ro": "Observatorio de aves de la Marisma Victoria",
+                "en": "Observatorio de aves de la Marisma Victoria"
+              },
+              "tip_5lang": {
+                "de": "Die überdachte Beobachtungshütte ist der ideale Ort, um Vögel ohne nass zu werden zu beobachten; bringen Sie ein Fernglas mit, da die Tiere bei Regen oft ruhiger sind.",
+                "hu": "A fedett megfigyelőhely ideális pont a madárleshez anélkül, hogy elázna; hozzon távcsövet, mert esőben az állatok gyakran nyugodtabban pihennek a vízen.",
+                "ro": "Observatorul acoperit este locul ideal pentru a privi păsările fără a vă uda; aduceți binoclu, deoarece animalele sunt adesea mai liniștite pe ploaie.",
+                "en": "The covered observatory is the perfect spot for birdwatching without getting wet; bring binoculars as animals are often calmer during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ris",
+                "hu": "Playa de Ris",
+                "ro": "Playa de Ris",
+                "en": "Playa de Ris"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeitenbecken wirken im Regen mystisch, aber meiden Sie die dunklen, rutschigen Algenfelsen; ein windfester Schirm ist bei der starken Brise hier unerlässlich.",
+                "hu": "Az árapály-medencék misztikus látványt nyújtanak esőben, de kerülje a sötét, csúszós algás sziklákat; a tengeri szél miatt szélálló esernyőre lesz szüksége.",
+                "ro": "Bazinele de maree par mistice pe ploaie, dar evitați stâncile negre și alunecoase cu alge; o umbrelă rezistentă la vânt este esențială aici.",
+                "en": "The tidal pools look mystical in the rain, but avoid the dark, slippery algae-covered rocks; a windproof umbrella is essential in the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Monte de la Cabra",
+                "hu": "Mirador Monte de la Cabra",
+                "ro": "Mirador Monte de la Cabra",
+                "en": "Mirador Monte de la Cabra"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein, bietet aber dramatische Ausblicke auf die aufgewühlte See; nutzen Sie Wanderstöcke für mehr Halt auf dem rutschigen Untergrund.",
+                "hu": "Az ösvény sáros lehet, de drámai kilátást nyújt a felkorbácsolt tengerre; használjon túrabotot a jobb stabilitásért a csúszós talajon.",
+                "ro": "Poteca poate fi noroioasă, dar oferă vederi dramatice asupra mării agitate; folosiți bețe de trekking pentru stabilitate pe terenul alunecos.",
+                "en": "The path can be muddy but offers dramatic views of the churned-up sea; use trekking poles for better stability on the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Cuarezo",
+                "hu": "Playa Cuarezo",
+                "ro": "Playa Cuarezo",
+                "en": "Playa Cuarezo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand, während der Regen auf den Sand prasselt; bewahren Sie Ihre Kamera in einer wasserdichten Hülle auf für tolle Wellenfotos.",
+                "hu": "Élvezze a tengerparti magányt, miközben az eső kopog a homokon; tartsa a fényképezőgépét vízhatlan tokban a hullámokról készült látványos képekhez.",
+                "ro": "Bucurați-vă de singurătatea plajei în timp ce ploaia cade pe nisip; păstrați aparatul foto într-o husă impermeabilă pentru fotografii superbe cu valurile.",
+                "en": "Enjoy the solitude of the beach as rain patters on the sand; keep your camera in a waterproof case for great photos of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Los Cuarezos",
+                "hu": "Cala Los Cuarezos",
+                "ro": "Cala Los Cuarezos",
+                "en": "Cala Los Cuarezos"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Bucht bietet natürlichen Schutz durch die Felsformationen; achten Sie jedoch auf den steigenden Wasserstand bei Flut auf dem nassen Uferweg.",
+                "hu": "Ez a kis öböl természetes szélvédelmet nyújt a sziklaalakzatok révén; ügyeljen a dagályra és a vízszint emelkedésére a nedves parti ösvényen.",
+                "ro": "Acest mic golf oferă protecție naturală datorită formațiunilor stâncoase; atenție însă la fluxul mareic pe poteca umedă de la mal.",
+                "en": "This small cove offers natural shelter through its rock formations; however, watch out for the rising tide on the wet shore path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit kühler Luft am historischen Palast. Mittags beobachten wir Zugvögel in der goldenen Wintersonne. Der Nachmittag gehört den weiten, menschenleeren Stränden, wo der Wind erfrischend wirkt. Da die Sonne bereits gegen 17:00 Uhr versinkt, genießen wir den frühen, farbenfrohen Abendhimmel über den Klippen.",
+            "hu": "A tiszta téli reggel friss levegővel indul a történelmi palotánál. Délben vándormadarakat figyelünk meg az aranyló téli napsütésben. A délután a tágas, néptelen strandoké, ahol a szél frissítően hat. Mivel a nap már 17:00 körül lebukik, élvezzük a korai, színes esti égboltot a sziklák felett.",
+            "ro": "O dimineață senină de iarnă începe cu aer proaspăt la palatul istoric. La prânz observăm păsările migratoare în soarele auriu de iarnă. După-amiaza aparține plajelor vaste și pustii, unde vântul este revigorant. Deoarece soarele apune deja în jur de ora 17:00, admirăm cerul colorat de seară de deasupra stâncilor.",
+            "en": "A clear winter morning begins with crisp air at the historic palace. At noon, we observe migratory birds in the golden winter sun. The afternoon belongs to the vast, deserted beaches where the wind is refreshing. As the sun sets around 17:00, we enjoy the early, colorful evening sky over the cliffs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa-palacio de Cilla",
+                "hu": "Casa-palacio de Cilla",
+                "ro": "Casa-palacio de Cilla",
+                "en": "Casa-palacio de Cilla"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt die alten Steine auf; nutzen Sie die klare Winterluft für detailreiche Architekturfotos ohne den Dunst der Sommermonate.",
+                "hu": "A reggeli nap felmelegíti az ódon falakat; használja ki a tiszta téli levegőt a részletgazdag építészeti fotókhoz a nyári pára nélkül.",
+                "ro": "Soarele de dimineață încălzește pietrele vechi; profitați de aerul curat de iarnă pentru fotografii arhitecturale detaliate fără ceața verii.",
+                "en": "The morning sun warms the old stones; take advantage of the clear winter air for detailed architectural photos without the summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatorio de aves de la Marisma Victoria",
+                "hu": "Observatorio de aves de la Marisma Victoria",
+                "ro": "Observatorio de aves de la Marisma Victoria",
+                "en": "Observatorio de aves de la Marisma Victoria"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dies ein wichtiger Rückzugsort für nordeuropäische Entenvögel; tragen Sie eine warme Sitzunterlage für längeres Beobachten im Ansitz.",
+                "hu": "Télen ez fontos pihenőhely az észak-európai récefélék számára; használjon meleg ülőpárnát, ha hosszabb ideig tervez várakozni a leskunyhóban.",
+                "ro": "Iarna, acesta este un refugiu important pentru rațele din nordul Europei; folosiți o pernă izolantă pentru șezut dacă plănuiți să stați mai mult la observat.",
+                "en": "In winter, this is a key refuge for North European waterfowl; bring a warm seat pad for longer birdwatching sessions in the hide."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ris",
+                "hu": "Playa de Ris",
+                "ro": "Playa de Ris",
+                "en": "Playa de Ris"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich leer und lädt zu zügigem Gehen ein; eine winddichte Jacke schützt Sie vor der kühlen Meeresbrise.",
+                "hu": "A strand télen csodásan üres és ideális a tempós sétához; egy szélálló dzseki megvédi Önt a hűvös tengeri szellőtől.",
+                "ro": "Plaja este minunat de goală iarna și invită la o plimbare energică; o jachetă rezistentă la vânt vă va proteja de briza rece a mării.",
+                "en": "The beach is wonderfully empty in winter and ideal for a brisk walk; a windproof jacket will protect you from the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Monte de la Cabra",
+                "hu": "Mirador Monte de la Cabra",
+                "ro": "Mirador Monte de la Cabra",
+                "en": "Mirador Monte de la Cabra"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Aussichtspunkt spätestens um 16:30 Uhr, um das warme Licht kurz vor dem frühen Sonnenuntergang über Noja einzufangen.",
+                "hu": "Érkezzen a kilátóhoz legkésőbb 16:30-ra, hogy elcsípje a meleg fényeket közvetlenül a korai naplemente előtt Noja felett.",
+                "ro": "Ajungeți la punctul de belvedere cel târziu la ora 16:30 pentru a surprinde lumina caldă chiar înainte de apusul timpuriu peste Noja.",
+                "en": "Reach the viewpoint by 16:30 at the latest to catch the warm light just before the early sunset over Noja."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Cuarezo",
+                "hu": "Playa Cuarezo",
+                "ro": "Playa Cuarezo",
+                "en": "Playa Cuarezo"
+              },
+              "tip_5lang": {
+                "de": "Der tiefe Stand der Wintersonne erzeugt lange Schatten auf dem Sand; perfekt für künstlerische Fotos, aber bringen Sie Handschuhe für die kühle Luft mit.",
+                "hu": "A téli nap alacsony állása hosszú árnyékokat vet a homokra; tökéletes művészi fotókhoz, de hozzon kesztyűt a hűvös levegő miatt.",
+                "ro": "Poziția joasă a soarelui de iarnă creează umbre lungi pe nisip; perfect pentru fotografii artistice, dar aduceți mănuși pentru aerul rece.",
+                "en": "The low winter sun creates long shadows on the sand; perfect for artistic photos, but bring gloves for the chilly air."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Los Cuarezos",
+                "hu": "Cala Los Cuarezos",
+                "ro": "Cala Los Cuarezos",
+                "en": "Cala Los Cuarezos"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie sich direkt nach dem Sonnenuntergang auf den Rückweg, da es im Winter schnell dunkel und deutlich kühler in der feuchten Bucht wird.",
+                "hu": "A naplemente után azonnal induljon vissza, mert télen gyorsan sötétedik és jelentősen lehűl a levegő a párás öbölben.",
+                "ro": "Porniți înapoi imediat după apus, deoarece iarna se întunecă repede și se face mult mai frig în golful umed.",
+                "en": "Head back immediately after sunset, as it gets dark quickly in winter and temperatures drop significantly in the damp cove."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen át Noja oktatási központján, kezdve a Casa de las Marismas-szal és a Casa de las Mareas árapály-kiállításával. Délben fedezze fel a felújított Santa Olaja malom történelmi mechanikáját. Délután folytassa útját a Molino del Joyel felé, majd látogasson el az állatparkba. A napot a gyönyörű Playa de la Cava homokos partján zárhatja egy jól megérdemelt pihenéssel.",
         "ro": "Pedalați prin inima educațională a orașului Noja, începând cu Casa de las Marismas și expoziția despre maree Casa de las Mareas. La amiază, explorați mecanica istorică a morii restaurate Santa Olaja. După-amiaza, continuați călătoria la Molino del Joyel, urmată de o vizită la parcul de animale din apropiere. Terminați ziua pe nisipul relaxant al plajei Playa de la Cava.",
         "en": "Pedal through Noja's educational heart, starting with the Casa de las Marismas and the tide-focused Casa de las Mareas. Midday, cycle towards the coastal mills to explore the fascinating mechanics of Molino de Santa Olaja. Continue your afternoon journey of heritage at Molino del Joyel and the adjacent animal park. Finish the day unwinding on the beautiful sands of Playa de la Cava."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour führt uns am Vormittag durch das Marschland zu informativen Besucherzentren. Mittags nutzen wir die Gezeitenmühlen als architektonischen Schutz vor den Schauern. Der Nachmittag führt uns vorbei an Tierparks durch die feuchte Küstenlandschaft. Den Tag beenden wir mit einer kurzen Fahrt zum Strand, wo der Regen auf die Brandung trifft.",
+            "hu": "A délelőtti kerékpározás a mocsárvilág információs központjaihoz vezet. Délben az árapály-malmok épületeit használjuk menedékként a záporok elől. Délután vadasparkok mellett haladunk el a párás partvidéken. A napot egy rövid parti tekeréssel zárjuk, ahol az esőcseppek a tenger hullámaival találkoznak.",
+            "ro": "Turul cu bicicleta ne duce dimineața prin mlaștini către centrele de informare. La prânz folosim morile de maree ca adăpost arhitectural împotriva averselor. După-amiaza trecem pe lângă parcuri de animale prin peisajul umed de coastă. Încheiem ziua cu o scurtă plimbare spre plajă, unde ploaia întâlnește valurile.",
+            "en": "The morning bike ride takes us through the marshes to informative visitor centers. At noon, we use the tide mills as architectural shelter from the showers. In the afternoon, we pass wildlife parks through the damp coastal landscape. We end the day with a short ride to the beach, where the rain meets the surf."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de las Marismas",
+                "hu": "Casa de las Marismas",
+                "ro": "Casa de las Marismas",
+                "en": "Casa de las Marismas"
+              },
+              "tip_5lang": {
+                "de": "Dieses Zentrum ist perfekt für einen trockenen Start; prüfen Sie Ihren Reifendruck für besseren Grip auf den nassen Wegen der Marschen.",
+                "hu": "Ez a központ tökéletes a száraz kezdéshez; ellenőrizze a guminyomást a jobb tapadás érdekében a mocsárvidék nedves útjain.",
+                "ro": "Acest centru este perfect pentru un start uscat; verificați presiunea în pneuri pentru o aderență mai bună pe drumurile umede din mlaștină.",
+                "en": "This center is perfect for a dry start; check your tire pressure for better grip on the wet marshland paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de las Mareas",
+                "hu": "Casa de las Mareas",
+                "ro": "Casa de las Mareas",
+                "en": "Casa de las Mareas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ausstellungen im Inneren, um den Regen abzuwarten; das Gebäude bietet einen tollen Blick auf die Marschen im Nebel.",
+                "hu": "Használja ki a belső kiállításokat, hogy kivárja az eső végét; az épületből remek kilátás nyílik a ködös mocsárvilágra.",
+                "ro": "Folosiți expozițiile din interior pentru a aștepta trecerea ploii; clădirea oferă o vedere excelentă asupra mlaștinilor în ceață.",
+                "en": "Use the indoor exhibits to wait out the rain; the building offers a great view of the marshes in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino de Santa Olaja",
+                "hu": "Molino de Santa Olaja",
+                "ro": "Molino de Santa Olaja",
+                "en": "Molino de Santa Olaja"
+              },
+              "tip_5lang": {
+                "de": "Die alte Gezeitenmühle ist ein hervorragender Unterstand; seien Sie vorsichtig auf den Holzstegen dorthin, da diese bei Nässe sehr rutschig sind.",
+                "hu": "A régi árapály-malom kiváló menedékhely; legyen óvatos a fapallókon, mert nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Moara veche de maree este un adăpost excelent; fiți atenți pe punțile de lemn, deoarece sunt foarte alunecoase când sunt ude.",
+                "en": "The old tide mill is an excellent shelter; be careful on the wooden walkways as they are very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino del Joyel",
+                "hu": "Molino del Joyel",
+                "ro": "Molino del Joyel",
+                "en": "Molino del Joyel"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historische Struktur während eines Regenschauers; tragen Sie eine wasserdichte Regenhose, um Spritzwasser vom Rad abzuhalten.",
+                "hu": "Fedezze fel a történelmi építményt egy zápor alatt; viseljen vízhatlan esőnadrágot, hogy megvédje magát a kerékpár felverődő vizétől.",
+                "ro": "Explorați structura istorică în timpul unei averse; purtați pantaloni impermeabili pentru a vă proteja de apa stropită de roți.",
+                "en": "Explore the historic structure during a shower; wear waterproof rain pants to protect yourself from road spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de animales Joyel",
+                "hu": "Parque de animales Joyel",
+                "ro": "Parque de animales Joyel",
+                "en": "Parque de animales Joyel"
+              },
+              "tip_5lang": {
+                "de": "Einige Tierarten sind bei Regen aktiver; fahren Sie langsam auf den sandigen Pfaden, um Schlammspritzer auf Ihrer Kleidung zu vermeiden.",
+                "hu": "Néhány állatfaj esőben aktívabb; tekerjen lassan a homokos ösvényeken, hogy elkerülje a sárfelverődést a ruházatára.",
+                "ro": "Unele specii de animale sunt mai active pe ploaie; pedalați încet pe potecile cu nisip pentru a evita stropirea hainelor cu noroi.",
+                "en": "Some animal species are more active in the rain; ride slowly on the sandy paths to avoid mud splashes on your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Cava",
+                "hu": "Playa de la Cava",
+                "ro": "Playa de la Cava",
+                "en": "Playa de la Cava"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour mit einem Blick auf die graue See ab; wischen Sie Ihr Fahrrad danach trocken, um Korrosion durch Salzwasser zu verhindern.",
+                "hu": "Zárja a túrát a szürke tenger látványával; utána törölje szárazra a kerékpárt, hogy megelőzze a sós pára okozta korróziót.",
+                "ro": "Încheiați turul cu o privire asupra mării cenușii; ștergeți bicicleta după aceea pentru a preveni coroziunea cauzată de sarea marină.",
+                "en": "Finish the tour with a view of the grey sea; wipe your bike dry afterwards to prevent corrosion from the salt spray."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet klare Sicht auf die Marschen während unserer Radfahrt. Mittags wärmen wir uns in den Besucherzentren auf und erfahren mehr über die Ökologie. Am Nachmittag radeln wir zu den historischen Mühlen in der tiefstehenden Sonne. Da es früh dunkel wird, beenden wir unsere Tour am Strand pünktlich zum Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "A téli reggel tiszta kilátást nyújt a mocsárvidékre kerékpározás közben. Délben a látogatóközpontokban melegszünk fel és ismerkedünk az ökológiával. Délután a történelmi malmokhoz tekerünk az alacsonyan járó nap fényében. Mivel korán sötétedik, a parti túránkat pontosan a 17:00 körüli naplementére időzítve zárjuk.",
+            "ro": "Dimineața de iarnă oferă o vizibilitate clară asupra mlaștinilor în timpul plimbării noastre. La prânz ne încălzim în centrele de vizitare și aflăm despre ecologie. După-amiaza pedalăm spre morile istorice în lumina soarelui jos. Deoarece se întunecă devreme, încheiem turul la plajă exact la apusul de la ora 17:00.",
+            "en": "The winter morning offers clear views of the marshes during our ride. At noon, we warm up in the visitor centers and learn about the local ecology. In the afternoon, we cycle to the historic mills in the low sun. As it gets dark early, we finish our tour at the beach just in time for the sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de las Marismas",
+                "hu": "Casa de las Marismas",
+                "ro": "Casa de las Marismas",
+                "en": "Casa de las Marismas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um sich über winterliche Vogelzüge zu informieren; tragen Sie Thermo-Handschuhe, da der Fahrtwind am Morgen sehr kalt sein kann.",
+                "hu": "Kezdjen itt, hogy tájékozódjon a téli madárvonulásról; viseljen termokersztyűt, mert a menetszél reggel nagyon hideg lehet.",
+                "ro": "Începeți aici pentru a afla despre migrația de iarnă a păsărilor; purtați mănuși termice, deoarece vântul poate fi foarte rece dimineața.",
+                "en": "Start here to learn about winter bird migrations; wear thermal gloves as the wind chill can be very cold in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de las Mareas",
+                "hu": "Casa de las Mareas",
+                "ro": "Casa de las Mareas",
+                "en": "Casa de las Mareas"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort zum Aufwärmen zwischen den Etappen; genießen Sie das weiche Winterlicht, das durch die großen Fenster auf die Marschen fällt.",
+                "hu": "Nagyszerű hely a felmelegedéshez két szakasz között; élvezze a lágy téli fényt, amely a nagy ablakokon keresztül a mocsárvidékre esik.",
+                "ro": "Un loc excelent pentru a vă încălzi între etape; bucurați-vă de lumina blândă de iarnă care cade pe mlaștini prin ferestrele mari.",
+                "en": "A great place to warm up between stages; enjoy the soft winter light falling on the marshes through the large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino de Santa Olaja",
+                "hu": "Molino de Santa Olaja",
+                "ro": "Molino de Santa Olaja",
+                "en": "Molino de Santa Olaja"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mühle in der Mittagszeit für das beste Licht; achten Sie auf Frost auf den Holzstegen, falls die Nacht besonders kalt war.",
+                "hu": "Látogassa meg a malmot délidőben a legjobb fényekért; ügyeljen a zúzmarára a fapallókon, ha az éjszaka különösen hideg volt.",
+                "ro": "Vizitați moara la prânz pentru cea mai bună lumină; atenție la îngheț pe punțile de lemn dacă noaptea a fost deosebit de rece.",
+                "en": "Visit the mill at midday for the best light; watch out for frost on the wooden walkways if the night was particularly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino del Joyel",
+                "hu": "Molino del Joyel",
+                "ro": "Molino del Joyel",
+                "en": "Molino del Joyel"
+              },
+              "tip_5lang": {
+                "de": "Die historische Kulisse wirkt im Winterlicht besonders eindrucksvoll; halten Sie die Pausen kurz, um nicht durch die niedrigen Temperaturen auszukühlen.",
+                "hu": "A történelmi környezet különösen hatásos a téli fényben; tartson rövid szüneteket, hogy ne hűljön ki az alacsony hőmérsékletben.",
+                "ro": "Cadrul istoric pare deosebit de impresionant în lumina iernii; păstrați pauzele scurte pentru a nu vă răci din cauza temperaturilor scăzute.",
+                "en": "The historic backdrop looks especially impressive in winter light; keep breaks short to avoid getting chilled by the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de animales Joyel",
+                "hu": "Parque de animales Joyel",
+                "ro": "Parque de animales Joyel",
+                "en": "Parque de animales Joyel"
+              },
+              "tip_5lang": {
+                "de": "Viele Tiere haben im Winter ein dickeres Fell, was sie fotogener macht; achten Sie auf den Wegzustand, da der Boden im Winter oft härter ist.",
+                "hu": "Sok állatnak télen vastagabb a bundája, ami fotogénebbé teszi őket; ügyeljen az út állapotára, mert a talaj télen gyakran keményebb.",
+                "ro": "Multe animale au blană mai groasă iarna, fiind mai fotogenice; atenție la starea drumului, deoarece solul este adesea mai tare iarna.",
+                "en": "Many animals have thicker coats in winter, making them more photogenic; pay attention to the path condition as the ground is often harder."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Cava",
+                "hu": "Playa de la Cava",
+                "ro": "Playa de la Cava",
+                "en": "Playa de la Cava"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor 17:00 Uhr, da das Licht schnell schwindet; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Fejezze be a túrát 17:00 előtt, mert a fény gyorsan fogy; győződjön meg róla, hogy a kerékpár világítása működik a hazaúthoz.",
+                "ro": "Încheiați plimbarea înainte de ora 17:00, deoarece lumina dispare repede; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Finish your ride before 17:00 as light fades fast; ensure your bike lights are working for the return trip."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon reggel a Victoria vizes élőhelyekre madárlesre, majd fedezze fel Evecan kulturális nevezetességét. Délben látogasson el a gyönyörűen felújított Santa Olaja árapálymalomba. Délután vegye az irányt az északi part felé, álljon meg a Playa de los Barcos-nál, és élvezze a kilátást a Monte de la Cabra-ról. Az estét a hatalmas Playa de Ris homokos tengerpartján zárhatja.",
         "ro": "Conduceți dimineața spre zonele umede Victoria, apoi îndreptați-vă spre vest pentru a explora reperul cultural Evecan. La prânz, vizitați moara de maree Santa Olaja, frumos restaurată. După-amiaza, mergeți pe coasta de nord, oprindu-vă la Playa de los Barcos pentru a admira priveliștea de la Monte de la Cabra. Seara, concluzionați traseul pe superba plajă Playa de Ris.",
         "en": "Drive to the Victoria wetlands for early birdwatching, then head west to explore the cultural landmark of Evecan. Midday, visit the beautifully restored Molino de Santa Olaja to see the ancient tidal mills. In the afternoon, cruise to the northern coast, stopping at Playa de los Barcos before taking in the Monte de la Cabra views. Conclude your evening walking Playa de Ris."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere komfortable Autotour bei den Vogelbeobachtungsstellen. Mittags besuchen wir geschützte Sehenswürdigkeiten und Mühlen, die uns trocken halten. Der Nachmittag führt uns entlang der Küste zu malerischen Aussichtspunkten, während das Wetter draußen tobt. Den Tag beenden wir sicher im Wagen bei einem Blick auf den stürmischen Strand von Ris.",
+            "hu": "Kényelmes autós túránkat a madármegfigyelő pontoknál kezdjük. Délben fedett látnivalókat és malmokat látogatunk meg, amelyek szárazon tartanak minket. A délután a part menti festői kilátóhelyeké, miközben kint tombol az időjárás. A napot biztonságban, az autóból zárjuk, a viharos Playa de Ris látványával.",
+            "ro": "Începem turul confortabil cu mașina la punctele de observare a păsărilor. La prânz vizităm atracții protejate și mori care ne mențin uscați. După-amiaza ne conduce de-a lungul coastei spre puncte de belvedere pitorești, în timp ce vremea se dezlănțuie afară. Încheiem ziua în siguranță în mașină, admirând plaja Ris furtunoasă.",
+            "en": "We start our comfortable car tour at the birdwatching spots. At noon, we visit sheltered sights and mills that keep us dry. The afternoon takes us along the coast to scenic viewpoints while the weather rages outside. We end the day safely in the car with a view of the stormy Ris beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Observatorio de aves de la Marisma Victoria",
+                "hu": "Observatorio de aves de la Marisma Victoria",
+                "ro": "Observatorio de aves de la Marisma Victoria",
+                "en": "Observatorio de aves de la Marisma Victoria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zugang, um den kurzen Weg zum überdachten Observatorium schnell zu überbrücken; die Vögel lassen sich im Regen wunderbar aus dem Schutz beobachten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan elérje a fedett megfigyelőhelyet; az esőben pihenő madarak remekül megfigyelhetők a védett kunyhóból.",
+                "ro": "Parcați aproape de intrare pentru a parcurge rapid drumul scurt către observatorul acoperit; păsările pot fi observate minunat de la adăpost pe ploaie.",
+                "en": "Park close to the entrance to quickly bridge the short walk to the covered observatory; the birds can be observed beautifully from the shelter during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Evecan",
+                "hu": "Evecan",
+                "ro": "Evecan",
+                "en": "Evecan"
+              },
+              "tip_5lang": {
+                "de": "Diese Landmarke ist ein guter Stopp für Fotos direkt aus dem Autofenster; achten Sie auf Pfützen auf den unbefestigten Parkflächen in der Nähe.",
+                "hu": "Ez a látnivaló remek megálló az autó ablakából készített fotókhoz; ügyeljen a tócsákra a közeli burkolatlan parkolóhelyeken.",
+                "ro": "Acest reper este un popas bun pentru fotografii direct de pe geamul mașinii; atenție la bălți în zonele de parcare neasfaltate din apropiere.",
+                "en": "This landmark is a good stop for photos right from the car window; watch out for puddles in the unpaved parking areas nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino de Santa Olaja",
+                "hu": "Molino de Santa Olaja",
+                "ro": "Molino de Santa Olaja",
+                "en": "Molino de Santa Olaja"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle bietet ein festes Dach über dem Kopf; nutzen Sie die Zeit drinnen für eine ausführliche Besichtigung, während draußen ein Schauer niedergeht.",
+                "hu": "A malom biztos tetőt nyújt a feje fölé; használja ki az időt egy alapos belső látogatásra, miközben kint éppen elered az eső.",
+                "ro": "Moara oferă un acoperiș solid deasupra capului; profitați de timpul petrecut în interior pentru o vizită detaliată în timp ce afară plouă.",
+                "en": "The mill offers a solid roof over your head; use the time inside for a detailed tour while a rain shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Barcos",
+                "hu": "Playa de los Barcos",
+                "ro": "Playa de los Barcos",
+                "en": "Playa de los Barcos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See bequem vom Fahrersitz aus; die Parkplätze bieten oft eine gute Sicht auf die Brandung ohne nass zu werden.",
+                "hu": "Élvezze a zord tenger látványát kényelmesen a vezetőülésből; a parkolók gyakran jó rálátást biztosítanak a hullámokra anélkül, hogy elázna.",
+                "ro": "Bucurați-vă de vederea mării agitate confortabil de pe scaunul șoferului; parcările oferă adesea o perspectivă bună asupra valurilor fără a vă uda.",
+                "en": "Enjoy the view of the rough sea comfortably from the driver's seat; the parking areas often offer a good view of the surf without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Monte de la Cabra",
+                "hu": "Mirador Monte de la Cabra",
+                "ro": "Mirador Monte de la Cabra",
+                "en": "Mirador Monte de la Cabra"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen, nassen Straße zum Aussichtspunkt; bei starkem Regen und Nebel ist das Einschalten des Abblendlichts ratsam.",
+                "hu": "Vezessen óvatosan a kilátóhoz vezető keskeny, nedves úton; heves esőben és ködben tanácsos a tompított fényszóró használata.",
+                "ro": "Conduceți cu atenție pe drumul îngust și umed către punctul de belvedere; pe ploaie torențială și ceață se recomandă aprinderea farurilor.",
+                "en": "Drive carefully on the narrow, wet road to the viewpoint; in heavy rain and fog, turning on your low beams is advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ris",
+                "hu": "Playa de Ris",
+                "ro": "Playa de Ris",
+                "en": "Playa de Ris"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, um die Wellen im Regen zu beobachten; prüfen Sie die Funktion Ihrer Scheibenwischer für eine klare Sicht auf den Horizont.",
+                "hu": "Tökéletes befejezés az esőben táncoló hullámok megfigyeléséhez; ellenőrizze az ablaktörlők állapotát a tiszta kilátás érdekében a horizont felé.",
+                "ro": "Un final perfect pentru a observa valurile pe ploaie; verificați funcționarea ștergătoarelor pentru o vedere clară spre orizont.",
+                "en": "A perfect ending to watch the waves in the rain; check your windshield wipers for a clear view of the horizon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen fahren wir zuerst zu den weiten Marschen von Victoria. Mittags genießen wir die historische Architektur der Mühlen im sanften Licht. Der Nachmittag führt uns zu den beeindruckenden Klippen und Aussichtspunkten der Küste. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir den Strand von Ris pünktlich zum abendlichen Farbspiel.",
+            "hu": "A tiszta téli reggelen először a Victoria-mocsarakhoz hajtunk. Délben a malmok történelmi építészetét csodáljuk a lágy fényben. A délután a partvidék lenyűgöző szikláihoz és kilátóhelyeihez vezet. Mivel a nap 17:00 körül lenyugszik, pontosan az esti színjátékra érkezünk meg a Ris-strandra.",
+            "ro": "În dimineața senină de iarnă conducem mai întâi spre mlaștinile vaste Victoria. La prânz admirăm arhitectura istorică a morilor în lumina blândă. După-amiaza ne conduce spre stâncile impresionante și punctele de belvedere de pe coastă. Deoarece soarele apune în jur de ora 17:00, ajungem la plaja Ris exact pentru spectacolul de culori.",
+            "en": "On a clear winter morning, we first drive to the vast Victoria marshes. At noon, we enjoy the historic architecture of the mills in the soft light. The afternoon takes us to the impressive cliffs and coastal viewpoints. As the sun sets around 17:00, we reach Ris beach just in time for the evening's display of colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Observatorio de aves de la Marisma Victoria",
+                "hu": "Observatorio de aves de la Marisma Victoria",
+                "ro": "Observatorio de aves de la Marisma Victoria",
+                "en": "Observatorio de aves de la Marisma Victoria"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für enorme Sichtweiten bis zu den Bergen; bringen Sie einen heißen Tee in der Thermoskanne mit für die Wartezeit im Observatorium.",
+                "hu": "A tiszta téli levegő hatalmas látótávolságot biztosít egészen a hegyekig; hozzon forró teát termoszban a megfigyelőhelyen való várakozáshoz.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate enormă până la munți; aduceți un ceai fierbinte în termos pentru timpul de așteptare la observator.",
+                "en": "The clear winter air provides enormous visibility all the way to the mountains; bring hot tea in a thermos for the wait in the observatory."
+              }
+            },
+            {
+              "name": {
+                "de": "Evecan",
+                "hu": "Evecan",
+                "ro": "Evecan",
+                "en": "Evecan"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Details dieser Landmarke besonders hervor; ein kurzer Stopp reicht aus, um die kühle Meeresluft kurz zu schnuppern.",
+                "hu": "A téli fény különösen kiemeli ezen látnivaló részleteit; egy rövid megálló is elég, hogy szippantson egyet a hűvös tengeri levegőből.",
+                "ro": "Lumina iernii scoate în evidență detaliile acestui reper; un scurt popas este suficient pentru a simți aerul răcoros al mării.",
+                "en": "The winter light highlights the details of this landmark; a short stop is enough to catch a sniff of the cool sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino de Santa Olaja",
+                "hu": "Molino de Santa Olaja",
+                "ro": "Molino de Santa Olaja",
+                "en": "Molino de Santa Olaja"
+              },
+              "tip_5lang": {
+                "de": "Mittags steht die Sonne am besten für Fotos der Mühle; nutzen Sie die Standheizung Ihres Wagens, um sich nach dem kurzen Rundgang aufzuwärmen.",
+                "hu": "Délben áll a legkedvezőbben a nap a malom fotózásához; használja az autó fűtését a felmelegedéshez a rövid körséta után.",
+                "ro": "La prânz, soarele este în cea mai bună poziție pentru fotografii cu moara; folosiți încălzirea mașinii pentru a vă încălzi după scurta plimbare.",
+                "en": "At midday, the sun is in the best position for photos of the mill; use your car's heater to warm up after the short walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Barcos",
+                "hu": "Playa de los Barcos",
+                "ro": "Playa de los Barcos",
+                "en": "Playa de los Barcos"
+              },
+              "tip_5lang": {
+                "de": "Das menschenleere Ufer wirkt im Winter sehr friedlich; parken Sie mit Blick aufs Meer, um das goldene Nachmittagslicht geschützt zu genießen.",
+                "hu": "A néptelen part télen nagyon békés; parkoljon a tengerre nézve, hogy védett helyről élvezhesse az aranyló délutáni fényeket.",
+                "ro": "Malul pustiu pare foarte liniștit iarna; parcați cu fața spre mare pentru a vă bucura de lumina aurie de după-amiază de la adăpost.",
+                "en": "The deserted shore feels very peaceful in winter; park facing the sea to enjoy the golden afternoon light from the shelter of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Monte de la Cabra",
+                "hu": "Mirador Monte de la Cabra",
+                "ro": "Mirador Monte de la Cabra",
+                "en": "Mirador Monte de la Cabra"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser als im Sommer; seien Sie jedoch vorsichtig bei möglichem Glatteis auf der schattigen Zufahrtsstraße.",
+                "hu": "A kilátás télen gyakran jobb, mint nyáron; azonban legyen óvatos az árnyékos bekötőúton esetlegesen előforduló jegesedés miatt.",
+                "ro": "Vizibilitatea la distanță este adesea mai bună iarna decât vara; totuși, fiți atenți la posibila gheață pe drumul de acces umbrit.",
+                "en": "Long-distance views are often better in winter than in summer; however, be cautious of potential black ice on the shaded access road."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ris",
+                "hu": "Playa de Ris",
+                "ro": "Playa de Ris",
+                "en": "Playa de Ris"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag pünktlich zum Sonnenuntergang um 17:00 Uhr; die Rückfahrt in der Dämmerung erfordert erhöhte Aufmerksamkeit wegen Wildwechsels.",
+                "hu": "Zárja a napot pontosan a 17:00-s naplementénél; a szürkületi hazaút fokozott figyelmet igényel a vadon élő állatok mozgása miatt.",
+                "ro": "Încheiați ziua exact la apusul de la ora 17:00; drumul de întoarcere în amurg necesită atenție sporită din cauza animalelor sălbatice.",
+                "en": "End the day right at the 17:00 sunset; the drive back at dusk requires increased attention due to wildlife activity."
+              }
+            }
+          ]
+        }
       }
     }
   }

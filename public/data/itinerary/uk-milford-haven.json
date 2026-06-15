@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot egy kulturális élménnyel a Torch Színházban. Egy rövid séta elvezeti a Milford Waterfront-hoz, ahol a csónakok lágyan ringatóznak, és kávé illata hívogat.\nDél: Merüljön el a város tengerészeti gyökereiben a múzeumban. Ezután csodálja meg a Lord Nelson Hotel történelmi homlokzatát, amely kiváló hely egy hagyományos ebédre.\nDélután: Sétáljon fel a The Rath parkba, amely zavartalan kilátást nyújt a forgalmas vízi útra. Szívja magába a friss levegőt, és készítsen sok fényképet a torkolatról.\nEste: Fejezze be sétáját a Hakin-fokon, érezve a friss tengeri szellőt, miközben a hajók elvitorláznak a szürkületben. Pihenjen meg egy jól megérdemelt vacsora előtt.",
         "ro": "Dimineața: Începeți ziua cu o scânteie culturală la Torch Theatre. O scurtă plimbare vă duce la Milford Waterfront, unde bărcile se leagănă ușor, iar mirosul de cafea vă invită să zăboviți.\nPrânz: Pătrundeți în rădăcinile maritime la Muzeul Milford Haven. Ulterior, admirați fațada istorică a Hotelului Lord Nelson, un loc excelent pentru a lua un prânz tradițional.\nDupă-amiaza: Faceți o plimbare pitorească până la The Rath, un parc care oferă vederi neîntrerupte asupra căii navigabile. Respirați aerul proaspăt și faceți o mulțime de fotografii.\nSeara: Încheiați-vă plimbarea la Hakin Point, simțind briza proaspătă a mării în timp ce navele navighează spre amurg. Reflectați asupra descoperirilor înainte de cină.",
         "en": "Morning: Start your day with a cultural spark at the Torch Theatre, diving into the local arts scene. A short stroll leads to the Milford Waterfront, where boats bob gently and the smell of fresh coffee invites you to linger.\nMidday: Dive into the deep maritime roots of the town at the Milford Haven Museum. Afterwards, admire the historic facade of the Lord Nelson Hotel, an excellent spot to grab lunch.\nAfternoon: Work off lunch with a scenic walk up to The Rath, a beautiful elevated park offering uninterrupted views of the busy waterway. Breathe in the fresh air and take plenty of photos.\nEvening: Conclude your walk at Hakin Point, feeling the crisp sea breeze as ships sail by into the twilight. Reflect on the day's maritime discoveries before a well-deserved dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Torch Theatre, einem idealen trockenen Zufluchtsort. Am Waterfront-Ufer ist die Meeresbrise bei Regen intensiv, daher ist wetterfeste Kleidung ratsam. Das Museum bietet mittags den perfekten Schutz vor den Güssen. Der Nachmittag führt durch den Rath Park zum Lord Nelson Hotel, wo man sich aufwärmen kann, bevor man den Tag am nebligen Hakin Point ausklingen lässt.",
+            "hu": "Kezdje a napot a Torch Színházban, amely ideális száraz menedék az eső elől. A Waterfront vízpartján a tengeri szél esőben felerősödhet, így vízálló ruházat kötelező. Délben a múzeum nyújt tökéletes védelmet a záporok elől. Délután a Rath Parkon át a Lord Nelson Hotelbe vezet az út, ahol megmelegedhetünk, mielőtt a napot a ködös Hakin-foknál zárnánk.",
+            "ro": "Începeți ziua la Teatrul Torch, un refugiu ideal și uscat împotriva ploii. Pe faleza Waterfront, briza mării este intensă când plouă, deci hainele impermeabile sunt obligatorii. La prânz, muzeul oferă protecția perfectă. După-amiaza trece prin Parcul The Rath către Hotelul Lord Nelson pentru încălzire, înainte de a încheia ziua la Hakin Point, învăluit în ceață.",
+            "en": "Start your day at the Torch Theatre, a perfect dry refuge from the rain. Along the Waterfront, the sea breeze can be intense during showers, so waterproof gear is essential. At noon, the museum provides the perfect shelter. The afternoon takes you through The Rath to the Lord Nelson Hotel to warm up, before finishing the day at a misty Hakin Point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torch Theatre",
+                "hu": "Torch Színház",
+                "ro": "Teatrul Torch",
+                "en": "Torch Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das moderne Foyer als trockenen Treffpunkt; schauen Sie sich die Innenausstellungen an, während es draußen regnet.",
+                "hu": "Használja a modern előcsarnokot száraz találkozóhelyként; tekintse meg a benti kiállításokat, amíg kint esik az eső.",
+                "ro": "Folosiți foierul modern ca punct de întâlnire uscat; vizitați expozițiile interioare în timp ce afară plouă torențial.",
+                "en": "Use the modern foyer as a dry meeting point; browse the indoor exhibits while the rain pours down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Waterfront",
+                "hu": "Milford Vízpart",
+                "ro": "Faleza Milford",
+                "en": "Milford Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den Markisen der Geschäfte; die Aussicht auf den Hafen ist bei grauem Regenwetter besonders dramatisch.",
+                "hu": "Sétáljon az üzletek előtetői alatt; a kikötő látványa a szürke esős időben különösen drámai és megkapó.",
+                "ro": "Plimbați-vă sub copertinele magazinelor; vederea portului este extrem de dramatică pe vreme ploioasă și gri.",
+                "en": "Walk under the shop awnings; the view of the harbor is especially dramatic and moody in grey rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Museum",
+                "hu": "Milford Haven Múzeum",
+                "ro": "Muzeul Milford Haven",
+                "en": "Milford Haven Museum"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort bei Regen; vertiefen Sie sich in die maritime Geschichte, während Sie im trockenen Gebäude bleiben.",
+                "hu": "A legjobb hely esőben; merüljön el a tengerészeti történelemben, miközben a száraz épületben várakozik.",
+                "ro": "Cel mai bun loc pe ploaie; aprofundați istoria maritimă în timp ce rămâneți la adăpost în clădirea uscată.",
+                "en": "The best place in the rain; delve into maritime history while staying completely dry inside the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Nelson Hotel",
+                "hu": "Lord Nelson Szálloda",
+                "ro": "Hotelul Lord Nelson",
+                "en": "Lord Nelson Hotel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im Inneren; ein warmer Tee im Salon lässt Sie die nassen Straßen draußen vergessen.",
+                "hu": "Csodálja meg a történelmi belső építészetet; egy meleg tea a szalonban elfeledteti a kinti vizes utcákat.",
+                "ro": "Admirați arhitectura istorică din interior; un ceai cald în salon vă va face să uitați de străzile ude de afară.",
+                "en": "Admire the historic interior architecture; a warm tea in the lounge will make you forget the wet streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "The Rath",
+                "hu": "The Rath Park",
+                "ro": "Parcul The Rath",
+                "en": "The Rath"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Pfützen zu vermeiden; die Blumenbeete leuchten im Regen besonders kräftig.",
+                "hu": "Használja az aszfaltozott utakat a tócsák elkerülésére; a virágágyások színei az esőben különösen élénken ragyognak.",
+                "ro": "Folosiți aleile asfaltate pentru a evita bălțile; culorile straturilor de flori strălucesc intens în ploaie.",
+                "en": "Stick to the paved paths to avoid puddles; the flower beds' colors look remarkably vibrant in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hakin Point",
+                "hu": "Hakin-fok",
+                "ro": "Punctul Hakin",
+                "en": "Hakin Point"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die einlaufenden Schiffe im Nebel; tragen Sie eine Kapuze gegen den starken Wind am Ende der Landzunge.",
+                "hu": "Figyelje a ködben érkező hajókat; viseljen kapucnit az erős szél ellen a földnyelv végénél.",
+                "ro": "Observați navele care sosesc prin ceață; purtați o glugă împotriva vântului puternic de la capătul punctului.",
+                "en": "Watch the ships arriving through the mist; wear a hood against the strong wind at the end of the point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Torch Theatre belebt den Morgen. Am Waterfront-Ufer spiegelt sich die tiefe Wintersonne im Hafenbecken, aber der Wind ist eisig. Das warme Museum ist der ideale Ort zum Aufwärmen. Nach einem kurzen Besuch im historischen Hotel führt der Weg zum Rath Park, bevor der frühe Sonnenuntergang gegen 17:00 Uhr den Hakin Point in magisches Licht taucht.",
+            "hu": "A friss téli levegő a Torch Színháznál élénkíti a reggelt. A vízparton a mély téli nap megcsillan a kikötő vizén, de a szél jeges. A fűtött múzeum ideális hely a felmelegedésre. A történelmi hotel után a Rath Parkba vezet az út, mielőtt a korai, 17:00 körüli naplemente mágikus fénybe vonná a Hakin-fokot.",
+            "ro": "Aerul proaspăt de iarnă de la Teatrul Torch revigorează dimineața. Pe faleză, soarele palid de iarnă se oglindește în port, dar vântul este înghețat. Muzeul încălzit este locul ideal. După hotelul istoric, drumul duce spre Parcul The Rath, înainte ca apusul devreme de la ora 17:00 să scalde Hakin Point în lumină magică.",
+            "en": "The crisp winter air at the Torch Theatre invigorates the morning. Along the Waterfront, the low winter sun reflects off the harbor, but the wind is icy. The heated museum is an ideal spot to warm up. After the historic hotel, head to The Rath before the early sunset around 17:00 bathes Hakin Point in magical light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torch Theatre",
+                "hu": "Torch Színház",
+                "ro": "Teatrul Torch",
+                "en": "Torch Theatre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie das Vormittagsprogramm für Indoor-Aktivitäten; die Heizung im Inneren sorgt für einen gemütlichen Start.",
+                "hu": "Ellenőrizze a délelőtti beltéri programokat; a benti fűtés kellemes és kényelmes kezdést biztosít a túrához.",
+                "ro": "Verificați programul matinal pentru activități interioare; încălzirea centrală asigură un început confortabil.",
+                "en": "Check the morning indoor program; the internal heating provides a cozy and comfortable start to your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Waterfront",
+                "hu": "Milford Vízpart",
+                "ro": "Faleza Milford",
+                "en": "Milford Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schal und Handschuhe gegen den Ostwind; die klare Winterstimmung bietet perfekte Sicht auf die Jachten.",
+                "hu": "Viseljen sálat és kesztyűt a keleti szél ellen; a tiszta téli időben tökéletes kilátás nyílik a jachtokra.",
+                "ro": "Purtați fular și mănuși împotriva vântului; atmosfera clară de iarnă oferă o vedere perfectă asupra iahturilor.",
+                "en": "Wear a scarf and gloves against the east wind; the clear winter atmosphere offers perfect visibility of the yachts."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Museum",
+                "hu": "Milford Haven Múzeum",
+                "ro": "Muzeul Milford Haven",
+                "en": "Milford Haven Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss im Winter; die Ausstellungen sind gut beheizt und bieten eine lehrreiche Pause von der Kälte.",
+                "hu": "Télen kötelező program; a kiállítóterek jól fűtöttek, és tartalmas pihenőt nyújtanak a kinti hideg elől.",
+                "ro": "Obligatoriu iarna; expozițiile sunt bine încălzite și oferă o pauză educativă plăcută de la frigul de afară.",
+                "en": "A winter must; the exhibitions are well-heated and provide a meaningful, warm break from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Nelson Hotel",
+                "hu": "Lord Nelson Szálloda",
+                "ro": "Hotelul Lord Nelson",
+                "en": "Lord Nelson Hotel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre des historischen Gebäudes; ideal, um sich für den Nachmittag zu stärken.",
+                "hu": "Élvezze a történelmi épület otthonos hangulatát; ideális hely a feltöltődésre a délutáni szakasz előtt.",
+                "ro": "Bucurați-vă de atmosfera primitoare a clădirii istorice; este ideal pentru a vă reîncărca înainte de amiază.",
+                "en": "Enjoy the cozy atmosphere of the historic building; it’s an ideal spot to recharge before the afternoon walk."
+              }
+            },
+            {
+              "name": {
+                "de": "The Rath",
+                "hu": "The Rath Park",
+                "ro": "Parcul The Rath",
+                "en": "The Rath"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie hier kurz vor Sonnenuntergang; die Winterbeleuchtung des Hafens beginnt hier besonders schön zu leuchten.",
+                "hu": "Sétáljon itt közvetlenül naplemente előtt; a kikötő téli díszkivilágítása innen kezd el legszebben tündökölni.",
+                "ro": "Plimbați-vă aici chiar înainte de apus; luminile de iarnă ale portului încep să strălucească superb de aici.",
+                "en": "Walk here just before sunset; the harbor's winter decorative lights start to shine most beautifully from this view."
+              }
+            },
+            {
+              "name": {
+                "de": "Hakin Point",
+                "hu": "Hakin-fok",
+                "ro": "Punctul Hakin",
+                "en": "Hakin Point"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 17:00 Uhr; die Dämmerung über dem Wasser ist im Winter kurz, aber spektakulär.",
+                "hu": "Érkezzen ide 17:00 előtt; a szürkület a víz felett télen rövid, de látványos és emlékezetes élmény.",
+                "ro": "Ajungeți aici înainte de ora 17:00; amurgul deasupra apei este scurt iarna, dar absolut spectaculos.",
+                "en": "Arrive here before 17:00; the winter twilight over the water is brief but spectacular and memorable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: A kerékpározás a nyüzsgő Milford Waterfront-nál kezdődik. Ezután parkolja le a kerékpárt, hogy egy órát töltsön a közeli múzeum gazdag gyűjteményeinek felfedezésével.\nDél: Egy rövid kerékpározás felvisz a The Rath-hoz, ahol megpihenhet a füvön és piknikezhet. Ezután guruljon le a Hakin-fok felé, hogy megfigyelje a parti forgalmat.\nDélután: Tekerjen tovább a part mentén, és csodálja meg a Hubberstone erőd impozáns, benőtt maradványait, amely a viktoriánus hadtörténelem lenyűgöző darabja.\nEste: Fejezze be a kerékpáros kalandot a békés Gelliswick-öbölben. Szálljon le, sétáljon a kavicsos parton, és élvezze az este nyugodt tengerparti hangulatát.",
         "ro": "Dimineața: Ciclismul începe pe plina de viață Faleză Milford. Apoi vă veți parca bicicleta pentru a petrece o oră explorând colecțiile bogate ale Muzeului Milford Haven din apropiere.\nPrânz: O scurtă plimbare vă aduce sus la The Rath, unde vă puteți odihni pe iarbă și vă puteți bucura de un picnic. Apoi, coborâți spre Hakin Point pentru a observa traficul de coastă.\nDupă-amiaza: Cilați mai departe de-a lungul coastei pentru a admira rămășițele impunătoare ale Fortului Hubberstone, o parte fascinantă a istoriei militare victoriene.\nSeara: Încheiați aventura de ciclism la pașnicul Gelliswick Bay. Descălecați pentru a vă plimba pe plaja cu pietriș și a privi apele calme la apus.",
         "en": "Morning: Pedaling starts at the lively Milford Waterfront, offering a gentle maritime warm-up. You'll then park your bike to spend an immersive hour exploring the rich collections of the nearby Milford Haven Museum.\nMidday: A short, breezy ride brings you up to The Rath, where you can rest on the grass and enjoy a picnic. Then, glide down towards Hakin Point to observe the coastal traffic.\nAfternoon: Cycle further along the coast to marvel at the imposing, overgrown remains of Fort Hubberstone, a fascinating slice of Victorian military history best seen from your saddle.\nEvening: End your cycling adventure at the peaceful Gelliswick Bay. Dismount to walk the pebble beach, skip stones into the calm waters, and enjoy the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig auf nassen Wegen an der Waterfront. Das Museum bietet mittags eine wichtige Pause vom Regen. Die Route zum Rath Park und Hakin Point erfordert gute Bremsen auf rutschigem Asphalt. Am Nachmittag führt die Tour zum Fort Hubberstone, wo die alten Mauern etwas Schutz bieten, bevor Sie die Gelliswick Bay im Regen erreichen.",
+            "hu": "Óvatosan tekerjen a vizes utakon a Waterfrontnál. A múzeum délben fontos pihenőt nyújt az eső elől. A Rath Park és a Hakin-fok felé vezető úton a csúszós aszfalton jó fékekre lesz szükség. Délután a túra a Hubberstone Erődhöz vezet, ahol a falak némi védelmet adnak, mielőtt elérné a Gelliswick-öblöt az esőben.",
+            "ro": "Pedalați cu atenție pe drumurile ude de la Waterfront. Muzeul oferă o pauză importantă de ploaie la prânz. Traseul spre Parcul The Rath și Hakin Point necesită frâne bune pe asfaltul alunecos. După-amiază, turul duce la Fortul Hubberstone pentru protecție, înainte de a ajunge în Golful Gelliswick pe ploaie.",
+            "en": "Cycle carefully on the wet paths at the Waterfront. The museum offers a vital break from the rain at noon. The route to The Rath and Hakin Point requires good brakes on the slippery asphalt. In the afternoon, the tour leads to Fort Hubberstone where the walls offer some shelter before reaching Gelliswick Bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Milford Waterfront",
+                "hu": "Milford Vízpart",
+                "ro": "Faleza Milford",
+                "en": "Milford Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Holzstege am Hafen; fahren Sie langsam, um Spritzwasser für Passanten zu vermeiden.",
+                "hu": "Vigyázzon a csúszós fapallókra a kikötőnél; tekerjen lassan, hogy ne fröcskölje le a gyalogosokat.",
+                "ro": "Atenție la podețele de lemn alunecoase din port; pedalați încet pentru a nu stropi pietonii din jur.",
+                "en": "Watch out for slippery wooden boardwalks at the harbor; ride slowly to avoid splashing nearby pedestrians."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Museum",
+                "hu": "Milford Haven Múzeum",
+                "ro": "Muzeul Milford Haven",
+                "en": "Milford Haven Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort; nutzen Sie die Zeit drinnen, um Ihre Regenkleidung zu trocknen.",
+                "hu": "Parkolja le kerékpárját védett helyen; használja a benti időt az esőruházat megszárítására.",
+                "ro": "Parcați bicicleta într-un loc protejat; folosiți timpul petrecut în interior pentru a vă usca pelerina.",
+                "en": "Park your bike in a sheltered spot; use your time inside the museum to dry off your waterproof cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "The Rath",
+                "hu": "The Rath Park",
+                "ro": "Parcul The Rath",
+                "en": "The Rath"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen; nasse Grasflächen sind mit dem Fahrrad sehr instabil und gefährlich.",
+                "hu": "Maradjon a főutakon; a vizes füves területek kerékpárral nagyon instabilak és veszélyesek lehetnek.",
+                "ro": "Rămâneți pe aleile principale; zonele cu iarbă udă sunt instabile și periculoase pentru bicicletă.",
+                "en": "Stick to the main paths; wet grassy areas are very unstable and can be dangerous on a bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Hakin Point",
+                "hu": "Hakin-fok",
+                "ro": "Punctul Hakin",
+                "en": "Hakin Point"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen direkt auf den Metallmarkierungen am Boden; diese sind bei Regen extrem glatt.",
+                "hu": "Kerülje a fékezést közvetlenül a földön lévő fémjelzéseken; ezek esőben rendkívül csúszósak.",
+                "ro": "Evitați frânarea direct pe marcajele metalice de pe sol; acestea sunt extrem de alunecoase pe ploaie.",
+                "en": "Avoid braking directly on the metal ground markers; these become extremely slick when wet with rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Hubberstone",
+                "hu": "Hubberstone Erőd",
+                "ro": "Fortul Hubberstone",
+                "en": "Fort Hubberstone"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Torbögen; der Stein kann bei Nässe rutschig sein, seien Sie beim Absteigen vorsichtig.",
+                "hu": "Keressen menedéket a boltívek alatt; a kő vizesen csúszhat, legyen óvatos a kerékpárról való leszálláskor.",
+                "ro": "Căutați adăpost sub arcade; piatra poate fi alunecoasă, fiți atenți când coborâți de pe bicicletă.",
+                "en": "Seek shelter under the stone arches; the stone can be slippery, so be careful when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Gelliswick Bay",
+                "hu": "Gelliswick-öböl",
+                "ro": "Golful Gelliswick",
+                "en": "Gelliswick Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt kann schlammig sein; genießen Sie den Blick auf das Wasser von der asphaltierten Straße aus.",
+                "hu": "A strand szakasz sáros lehet; élvezze a kilátást a vízre az aszfaltozott út biztonságából.",
+                "ro": "Zona de plajă poate fi noroioasă; bucurați-vă de priveliștea spre apă de pe drumul asfaltat.",
+                "en": "The beach area can be muddy; enjoy the view of the water from the safety of the paved road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Waterfront erfordert warme Handschuhe. Die Fahrt zum Museum hilft, die Kälte zu vergessen. Der Rath Park bietet im Winter weite, klare Ausblicke. Planen Sie die Ankunft am Fort Hubberstone und der Gelliswick Bay vor 16:30 Uhr ein, da die Temperaturen nach Sonnenuntergang drastisch sinken und die Sicht schnell abnimmt.",
+            "hu": "A Waterfront jeges indítása meleg kesztyűt igényel. A múzeumba tartó tekerés segít elfelejteni a hideget. A Rath Park télen tiszta, tágas kilátást nyújt. Tervezze a Hubberstone Erőd és a Gelliswick-öböl elérését 16:30 előtt, mivel naplemente után a hőmérséklet drasztikusan visszaesik.",
+            "ro": "Un început înghețat la Waterfront necesită mănuși groase. Pedalatul spre muzeu ajută la uitarea frigului. Parcul The Rath oferă vederi clare iarna. Planificați sosirea la Fortul Hubberstone și Golful Gelliswick înainte de 16:30, deoarece temperatura scade drastic după apus.",
+            "en": "A frosty start at the Waterfront requires warm gloves. Cycling to the museum helps forget the cold. The Rath offers wide, clear views in winter. Plan to reach Fort Hubberstone and Gelliswick Bay before 16:30, as temperatures drop drastically and visibility fades fast after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Milford Waterfront",
+                "hu": "Milford Vízpart",
+                "ro": "Faleza Milford",
+                "en": "Milford Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Gebäude; tragen Sie helle Kleidung in der Wintersonne.",
+                "hu": "Ügyeljen a fagyott foltokra az épületek árnyékában; viseljen világos ruházatot a téli napsütésben.",
+                "ro": "Atenție la petele de gheață la umbra clădirilor; purtați haine reflectorizante în soarele de iarnă.",
+                "en": "Watch out for icy patches in the shadows of buildings; wear bright clothing for visibility in winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Museum",
+                "hu": "Milford Haven Múzeum",
+                "ro": "Muzeul Milford Haven",
+                "en": "Milford Haven Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein heißes Getränk; die Innentemperatur ist ideal, um die steifen Finger aufzuwärmen.",
+                "hu": "Használja ki a pihenőt egy forró italra; a benti hőmérséklet ideális a megfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți pauza pentru o băutură caldă; temperatura interioară este ideală pentru a vă încălzi degetele.",
+                "en": "Take advantage of the break for a hot drink; the indoor temperature is ideal for warming up stiff fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "The Rath",
+                "hu": "The Rath Park",
+                "ro": "Parcul The Rath",
+                "en": "The Rath"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können im Winterwind sehr kalt sein; beschleunigen Sie Ihr Tempo, um die Körperwärme zu halten.",
+                "hu": "Az utak a téli szélben nagyon hidegek lehetnek; fokozza a tempót, hogy fenntartsa a testhőmérsékletét.",
+                "ro": "Aleile pot fi foarte reci din cauza vântului; măriți ritmul pentru a vă menține căldura corporală.",
+                "en": "The paths can be very cold in the winter wind; pick up your pace to maintain your body heat while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Hakin Point",
+                "hu": "Hakin-fok",
+                "ro": "Punctul Hakin",
+                "en": "Hakin Point"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Point ist im Winter extrem schneidend; schützen Sie Ihr Gesicht mit einem Tuch oder Multifunktionstuch.",
+                "hu": "A szél a foknál télen rendkívül metsző; védje arcát sállal vagy csősállal a biciklizés közben.",
+                "ro": "Vântul la punct este extrem de tăios iarna; protejați-vă fața cu un fular sau o mască în timp ce pedalați.",
+                "en": "The wind at the point is extremely biting in winter; protect your face with a buff or scarf while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Hubberstone",
+                "hu": "Hubberstone Erőd",
+                "ro": "Fortul Hubberstone",
+                "en": "Fort Hubberstone"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen können vereist sein; lassen Sie Vorsicht walten, wenn Sie die Umgebung des Forts erkunden.",
+                "hu": "A kőlépcsők jegesek lehetnek; legyen nagyon óvatos, amikor az erőd környékét fedezi fel.",
+                "ro": "Treptele de piatră pot fi înghețate; fiți extrem de precauți când explorați împrejurimile fortului.",
+                "en": "The stone steps might be icy; exercise extreme caution when exploring the surroundings of the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "Gelliswick Bay",
+                "hu": "Gelliswick-öböl",
+                "ro": "Golful Gelliswick",
+                "en": "Gelliswick Bay"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit; sorgen Sie für funktionierende Beleuchtung an Ihrem Fahrrad.",
+                "hu": "Zárja a túrát sötétedés előtt; gondoskodjon arról, hogy a kerékpár lámpái megfelelően működjenek.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; asigurați-vă că luminile bicicletei funcționează corect.",
+                "en": "Finish your tour before darkness falls; make sure your bike lights are fully functional for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Délelőtt: Kezdjen a külvárosban, a történelmi Szent Péter és Szent Cewydd templomnál. Ezután hajtson be a város szívébe, hogy a nyüzsgő Milford Waterfront-on sétáljon.\nDél: Hagyja parkolni az autót, amíg elmerül a terület múltjában a múzeumban. Egy kiadós ebéd után egy gyors út a festői Gelliswick-öböl kavicsos partjaira viszi.\nDélután: Navigáljon a parti utakon a Sandy Haven Beach hatalmas homokos részéhez. Itt egy hosszú sétával kinyújthatja a lábait, ha az árapály engedi.\nEste: Látványos fináléként vezessen egy magaslati ponthoz, amely a Milford Haven vízi útra néz. Nézze meg, ahogy a hatalmas hajók navigálnak a szürkületben.",
         "ro": "Dimineața: Începeți la periferie la biserica istorică Sf. Petru și Sf. Cewydd, o introducere senină. Conduceți apoi în inima orașului pentru a vă plimba pe vibranta Faleză Milford.\nPrânz: Lăsați mașina parcată în timp ce explorați moștenirea zonei la Muzeul Milford Haven. După un prânz copios, o scurtă călătorie vă duce la țărmurile pitorești ale Golfului Gelliswick.\nDupă-amiaza: Navigați pe drumurile de coastă către nisipurile întinse de la Sandy Haven Beach. Aici, vă puteți întinde picioarele la o plimbare lungă la reflux.\nSeara: Pentru un final spectaculos, conduceți la un punct înalt cu vedere la Milford Haven Waterway. Urmăriți navele colosale navigând pe măsură ce ziua se stinge.",
         "en": "Morning: Begin on the outskirts at the historic church of St. Peter & St. Cewydd, a serene introduction. Drive down into the heart of town to stroll the vibrant Milford Waterfront and soak up the local harbor atmosphere.\nMidday: Leave the car parked while you delve into the area's whaling and fishing heritage at the Milford Haven Museum. After lunch, a quick drive takes you out to the scenic shores of Gelliswick Bay.\nAfternoon: Navigate the coastal roads to the expansive sands of Sandy Haven Beach. Here, you can stretch your legs on a long walk, provided the tide is low enough to safely cross the tidal stream.\nEvening: For a spectacular finale, drive to a high vantage point overlooking the Milford Haven Waterway. Watch colossal ships navigate one of the world's deepest natural harbors as the day fades into dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt zur St. Peter & St. Cewydd Kirche im trockenen Auto. Das Museum bietet mittags den besten Schutz vor den Schauern. Am Nachmittag führt die Route zur Gelliswick Bay und zum Sandy Haven Beach, wo man das stürmische Meer aus der Sicherheit des Wagens beobachten kann. Die Wasserstraße von Milford Haven wirkt im Regen majestätisch und ruhig.",
+            "hu": "Élvezze az utat a Szent Péter és Szent Cewydd templomhoz a száraz autóban. Délben a múzeum nyújtja a legjobb védelmet a záporok elől. Délután az út a Gelliswick-öbölhöz és a Sandy Haven strandhoz vezet, ahol a viharos tengert az autó biztonságából is megcsodálhatja. A vízi út esőben fenséges és nyugodt.",
+            "ro": "Bucurați-vă de drumul spre Biserica Sf. Petru și Sf. Cewydd în confortul mașinii. Muzeul oferă cea mai bună protecție la prânz. După-amiază, traseul duce la Golful Gelliswick și Plaja Sandy Haven, unde marea furtunoasă poate fi admirată din mașină. Calea navigabilă pare maiestuoasă și liniștită pe ploaie.",
+            "en": "Enjoy the drive to St. Peter & St. Cewydd Church in the dry car. The museum offers the best protection from the showers at noon. In the afternoon, the route leads to Gelliswick Bay and Sandy Haven Beach, where you can watch the stormy sea from the car's safety. The waterway looks majestic and calm in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Peter & St. Cewydd",
+                "hu": "Szent Péter és Szent Cewydd Templom",
+                "ro": "Biserica Sf. Petru și Sf. Cewydd",
+                "en": "St. Peter & St. Cewydd"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; genießen Sie die friedliche Akustik des Regens auf dem Kirchendach.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az elázást; élvezze az eső békés kopogását a templomtetőn.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; bucurați-vă de sunetul liniștitor al ploii pe acoperiș.",
+                "en": "Park close to the entrance to avoid getting wet; enjoy the peaceful sound of rain tapping on the church roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Waterfront",
+                "hu": "Milford Vízpart",
+                "ro": "Faleza Milford",
+                "en": "Milford Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze mit kurzem Weg zu den überdachten Passagen; die Hafenlichter spiegeln sich wunderschön in den Pfützen.",
+                "hu": "Használja a fedett folyosókhoz közeli parkolókat; a kikötői fények gyönyörűen tükröződnek a tócsákban.",
+                "ro": "Folosiți parcările apropiate de pasajele acoperite; luminile portului se oglindesc superb în bălți.",
+                "en": "Use the parking spots close to covered walkways; the harbor lights reflect beautifully in the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Museum",
+                "hu": "Milford Haven Múzeum",
+                "ro": "Muzeul Milford Haven",
+                "en": "Milford Haven Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier mehr Zeit, wenn der Regen stärker wird; die Parkplätze direkt davor sind ideal für einen schnellen Zugang.",
+                "hu": "Töltsön itt több időt, ha felerősödik az eső; a közvetlen előtte lévő parkolók ideálisak a gyors bejutáshoz.",
+                "ro": "Petreceți mai mult timp aici dacă ploaia se intensifică; parcarea din față este ideală pentru acces rapid.",
+                "en": "Spend more time here if the rain intensifies; the parking spaces right in front are ideal for quick access."
+              }
+            },
+            {
+              "name": {
+                "de": "Gelliswick Bay",
+                "hu": "Gelliswick-öböl",
+                "ro": "Golful Gelliswick",
+                "en": "Gelliswick Bay"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und beobachten Sie das Auf und Ab der Wellen; die Sicht ist oft trotz des Regens sehr weit.",
+                "hu": "Maradjon az autóban, és figyelje a hullámok játékát; a kilátás az eső ellenére gyakran meglepően tiszta.",
+                "ro": "Rămâneți în mașină și observați jocul valurilor; vizibilitatea este adesea foarte bună în ciuda ploii.",
+                "en": "Stay in the car and watch the movement of the waves; the view is often surprisingly clear despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Haven Beach",
+                "hu": "Sandy Haven Strand",
+                "ro": "Plaja Sandy Haven",
+                "en": "Sandy Haven Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Pfützen auf dem Weg zum Strandparkplatz; der Anblick des leeren Strandes im Regen ist sehr poetisch.",
+                "hu": "Vigyázzon a mélyebb tócsákra a strand parkolója felé; az üres strand látványa esőben nagyon költői.",
+                "ro": "Atenție la bălțile adânci spre parcarea plajei; vederea plajei pustii în ploaie este foarte poetică.",
+                "en": "Watch out for deep puddles on the way to the beach parking; the view of the empty beach is very poetic."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Waterway",
+                "hu": "Milford Haven Vízi Út",
+                "ro": "Calea Navigabilă Milford Haven",
+                "en": "Milford Haven Waterway"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam entlang der Uferstraße; die Lichter der Industrieanlagen auf der anderen Seite funkeln im Regen.",
+                "hu": "Hajtson lassan a parti úton; a túlsó oldali ipari létesítmények fényei csillognak az esőben.",
+                "ro": "Conduceți încet pe drumul de coastă; luminile instalațiilor industriale de pe malul opus sclipesc în ploaie.",
+                "en": "Drive slowly along the coastal road; the lights of the industrial sites on the opposite shore sparkle in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Heizung Ihres Wagens für eine gemütliche Tour zur St. Peter Kirche. Das Museum ist mittags ein warmer Ruhepol. Der Winter am Sandy Haven Beach ist einsam und beeindruckend. Da es gegen 17:00 Uhr dunkel wird, sollten Sie die Aussichtspunkte an der Wasserstraße rechtzeitig erreichen, um den Sonnenuntergang über dem Milford Haven Waterway voll auszukosten.",
+            "hu": "Használja az autó fűtését a kényelmes túrához a Szent Péter templom felé. A múzeum délben meleg pihenőpont. A tél a Sandy Haven strandon magányos és lenyűgöző. Mivel 17:00 körül sötétedik, érje el időben a kilátópontokat, hogy teljes mértékben kiélvezhesse a naplementét a vízi út felett.",
+            "ro": "Folosiți căldura mașinii pentru un tur confortabil spre Biserica Sf. Petru. Muzeul este un punct cald de odihnă la prânz. Iarna la Plaja Sandy Haven este solitară și impresionantă. Deoarece se întunecă la ora 17:00, ajungeți la punctele de belvedere la timp pentru apus.",
+            "en": "Use your car’s heating for a cozy tour toward St. Peter’s Church. The museum is a warm resting point at noon. Winter at Sandy Haven Beach is lonely and impressive. Since it gets dark around 17:00, reach the viewpoints early to fully enjoy the sunset over the Milford Haven Waterway."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Peter & St. Cewydd",
+                "hu": "Szent Péter és Szent Cewydd Templom",
+                "ro": "Biserica Sf. Petru și Sf. Cewydd",
+                "en": "St. Peter & St. Cewydd"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche ist im Winter kühl; behalten Sie Ihren Mantel an, während Sie die historische Stille genießen.",
+                "hu": "A régi templom télen hűvös lehet; tartsa magán a kabátját, miközben a történelmi csendet élvezi.",
+                "ro": "Biserica veche este răcoroasă iarna; păstrați haina pe dumneavoastră în timp ce vă bucurați de liniște.",
+                "en": "The old church can be chilly in winter; keep your coat on while enjoying the historic and peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Waterfront",
+                "hu": "Milford Vízpart",
+                "ro": "Faleza Milford",
+                "en": "Milford Waterfront"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet oft einen windgeschützten Blick auf den Hafen; ideal für ein kurzes Foto ohne zu frieren.",
+                "hu": "A parkoló gyakran szélvédett kilátást nyújt a kikötőre; ideális egy gyors fotóhoz anélkül, hogy megfagyna.",
+                "ro": "Parcarea oferă adesea o vedere protejată de vânt asupra portului; ideal pentru o fotografie rapidă.",
+                "en": "The parking lot often provides a wind-sheltered view of the harbor; ideal for a quick photo without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Museum",
+                "hu": "Milford Haven Múzeum",
+                "ro": "Muzeul Milford Haven",
+                "en": "Milford Haven Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um den Aufenthalt im Warmen zu maximieren; die Winteröffnungszeiten können variieren.",
+                "hu": "Parkoljon közvetlenül előtte, hogy maximalizálja a melegben töltött időt; a téli nyitvatartás változhat.",
+                "ro": "Parcați chiar în față pentru a maximiza timpul petrecut la căldură; programul de iarnă poate varia.",
+                "en": "Park directly in front to maximize your time in the warmth; be sure to check the winter opening hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Gelliswick Bay",
+                "hu": "Gelliswick-öböl",
+                "ro": "Golful Gelliswick",
+                "en": "Gelliswick Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist hier im Winter sehr scharf; genießen Sie den weiten Blick auf den Hafen aus dem warmen Auto.",
+                "hu": "A tengeri szellő itt télen nagyon metsző; élvezze a tágas kilátást a kikötőre a meleg autó kényelméből.",
+                "ro": "Briza mării este foarte tăioasă aici iarna; bucurați-vă de vederea spre port din confortul mașinii.",
+                "en": "The sea breeze is very sharp here in winter; enjoy the wide view of the harbor from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Haven Beach",
+                "hu": "Sandy Haven Strand",
+                "ro": "Plaja Sandy Haven",
+                "en": "Sandy Haven Beach"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Strand bei Ebbe für weite Winterspaziergänge; achten Sie auf den schnellen Temperatursturz im Schatten.",
+                "hu": "Látogasson el apálykor a nagy téli sétákhoz; ügyeljen a hőmérséklet gyors visszaesésére az árnyékos részeken.",
+                "ro": "Vizitați plaja la reflux pentru plimbări lungi de iarnă; atenție la scăderea temperaturii la umbră.",
+                "en": "Visit at low tide for long winter walks; watch out for the quick temperature drop in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Milford Haven Waterway",
+                "hu": "Milford Haven Vízi Út",
+                "ro": "Calea Navigabilă Milford Haven",
+                "en": "Milford Haven Waterway"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Ort vor 16:45 Uhr für das beste Licht; die Wintersonne sinkt hier spektakulär ins Meer.",
+                "hu": "Érkezzen ide 16:45 előtt a legjobb fényekért; a téli nap itt látványosan bukik alá a tengerbe.",
+                "ro": "Ajungeți aici înainte de 16:45 pentru cea mai bună lumină; soarele de iarnă apune spectaculos în mare.",
+                "en": "Arrive here before 16:45 for the best light; the winter sun sets spectacularly into the sea from this spot."
+              }
+            }
+          ]
+        }
       }
     }
   }

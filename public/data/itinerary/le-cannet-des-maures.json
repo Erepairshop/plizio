@@ -160,6 +160,196 @@
         "hu": "A Le Cannet-des-Maures-i séta a Saint-Joseph templomnál kezdődik, majd a középkori olajmalomhoz vezet. Délben a dombon álló történelmi kápolnákat fedezzük fel, mielőtt elérjük az egykori őrtornyot, ahonnan lenyűgöző panoráma nyílik. A délután Le Vieux Cannet elbűvölő történelmi központjáé, ahol visszarepülhetünk az időben. Este a csendes provence-i utcákon sétálva pihenhetünk meg.",
         "ro": "O plimbare relaxantă prin Le Cannet-des-Maures începe la Biserica Saint-Joseph și duce spre vechea moară de ulei. La amiază, explorăm capelele istorice de pe deal înainte de a ajunge la turnul de veghe cu panorama sa uimitoare. După-amiaza este dedicată centrului istoric din Le Vieux Cannet. Seara, vă puteți bucura de atmosfera liniștită a satului provensal pe străduțele sale pitorești.",
         "en": "A relaxing walk through Le Cannet-des-Maures begins at the Saint-Joseph Church and leads to the medieval oil mill. At midday, explore the historic chapels on the hill before reaching the old watchtower with its stunning panoramic views. The afternoon belongs entirely to the charming historical core of Le Vieux Cannet. In the evening, unwind in the quiet, picturesque streets of this lovely village."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen in der Unterstadt mit Besuchen in den Kirchen. Der Aufstieg im Regen ist erfrischend, aber die mittelalterlichen Steine sind rutschig. Nachmittags hüllt der Nebel das alte Dorf in eine geheimnisvolle Atmosphäre. Beenden Sie den Tag in einem gemütlichen Café im Vieux Cannet.",
+            "hu": "Kezdje az esős reggelt az alsóváros templomaiban, ahol menedéket talál. A felfelé vezető út felfrissít, de a középkori kövek nagyon csúszósak. Délután a köd titokzatos hangulatot kölcsönöz az óvárosnak. Zárja a napot egy hangulatos, fedett helyen a Vieux Cannet falai között.",
+            "ro": "Începeți dimineața ploioasă în orașul de jos, vizitând bisericile pentru adăpost. Urcușul este răcoritor, dar pietrele medievale sunt alunecoase. După-amiaza, ceața învăluie satul vechi într-o atmosferă misterioasă. Încheiați ziua într-un loc confortabil și uscat în Vieux Cannet.",
+            "en": "Start your rainy morning in the lower town, finding shelter in the local churches. The uphill walk is refreshing, but the medieval stones are slippery. By afternoon, the mist envelops the old village in a mysterious atmosphere. End your day relaxing in a cozy, dry spot in Vieux Cannet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Saint-Joseph templom",
+                "ro": "Biserica Saint-Joseph",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Fenster im Trockenen dieses modernen Heiligtums; ein Regenschirm ist ideal für den kurzen Weg vom Zentrum hierher.",
+                "hu": "Csodálja meg az ólomüveg ablakokat, miközben szárazon marad ebben a modern szentélyben; egy esernyő hasznos a központból ide vezető sétához.",
+                "ro": "Admirați vitraliile stând la uscat în acest sanctuar modern; o umbrelă este utilă pentru scurta plimbare de la centrul orașului pe ploaie.",
+                "en": "Admire the stained glass while staying dry inside this modern sanctuary; bringing a small umbrella is ideal for the short walk from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Ölmühle",
+                "hu": "Középkori olajmalom",
+                "ro": "Moara medievală de ulei",
+                "en": "Medieval oil mill"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die alten Olivenpresssteine im Schutz der alten Bögen; tragen Sie griffige Schuhe, da die nassen Steine sehr rutschig sind.",
+                "hu": "Nézze meg az ősi olajpréselő köveket a régi boltívek menedékében; viseljen tapadós cipőt, mert a vizes kövek rendkívül csúszósak.",
+                "ro": "Vedeți vechile pietre de presat măsline la adăpostul arcadelor; purtați încălțăminte aderentă, deoarece pietrele umede sunt foarte alunecoase.",
+                "en": "See the ancient olive pressing stones under the shelter of the old arches; wear grippy shoes as the wet stones are very slippery today."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Vieux-Canet",
+                "hu": "Vieux-Canet templom",
+                "ro": "Biserica Vieux-Canet",
+                "en": "Vieux-Canet Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das romanische Innere dieser Kirche aus dem 11. Jahrhundert, um dem Regen zu entkommen; die dicken Wände halten es kühl und feucht.",
+                "hu": "Fedezze fel a 11. századi hegytetői templom román stílusú belsejét, hogy elmeneküljön az eső elől; a vastag falak hűvösen tartják a teret.",
+                "ro": "Explorați interiorul romanic al acestei biserici de pe deal pentru a scăpa de ploaie; pereții groși mențin o atmosferă răcoroasă și umedă.",
+                "en": "Explore the Romanesque interior of this 11th-century hilltop church to escape the rain; the thick walls keep it cool and mildly damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Saint-Louis",
+                "hu": "Saint-Jean-Saint-Louis kápolna",
+                "ro": "Capela Saint-Jean-Saint-Louis",
+                "en": "Chapel Saint-Jean-Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, aber gemütlicher Unterschlupf vor dem Regen, der einen Moment der ruhigen Besinnung bietet, bevor Sie den nassen Weg antreten.",
+                "hu": "Egy apró, de hangulatos menedék az eső elől, amely csendes elmélkedést kínál, mielőtt nekivágna a falu felé vezető nedves ösvénynek.",
+                "ro": "Un adăpost mic, dar confortabil de ploaie, oferind un moment de liniște înainte de a înfrunta cărarea umedă înapoi spre sat.",
+                "en": "A small but cozy shelter from the rain, offering a moment of quiet reflection before braving the wet path back towards the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne tour de vigie",
+                "hu": "Régi őrtorony",
+                "ro": "Vechiul turn de veghe",
+                "en": "Ancient watchtower"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick ist im Nebel unglaublich stimmungsvoll; achten Sie heute auf die extrem rutschigen nassen Felsen am Fuß des Turms.",
+                "hu": "A panoráma elképesztően hangulatos a ködben; nagyon ügyeljen a torony tövében lévő rendkívül csúszós, vizes sziklákra a mai napon.",
+                "ro": "Priveliștea panoramică este incredibil de dramatică în ceață; aveți mare grijă la stâncile umede și alunecoase de la baza turnului astăzi.",
+                "en": "The panoramic view is incredibly moody in the mist; mind the extremely slippery wet rocks around the base of the tower during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Vieux Cannet",
+                "hu": "Le Vieux Cannet",
+                "ro": "Le Vieux Cannet",
+                "en": "Le Vieux Cannet"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie vorsichtig über das nasse Kopfsteinpflaster der mittelalterlichen Gassen und genießen Sie die bewölkte Atmosphäre.",
+                "hu": "Óvatosan sétáljon végig a középkori sikátorok nedves macskakövein, és élvezze a drámai, borongós hangulatot egy forró tea előtt.",
+                "ro": "Plimbați-vă cu grijă pe piatra cubică umedă a aleilor medievale, bucurându-vă de atmosfera dramatică înainte de a bea un ceai cald.",
+                "en": "Wander the medieval alleys carefully on wet cobblestones, enjoying the dramatic, cloudy atmosphere before grabbing a warm indoor drink."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der Unterstadt. Der steile Aufstieg zum Vieux Cannet wärmt Sie schnell auf. Mittags genießen Sie die klare Sicht über das Tal, ganz ohne den sommerlichen Dunst. Der frühe Sonnenuntergang gegen 17 Uhr taucht die alten Steine in ein wunderschönes goldenes Licht.",
+            "hu": "A csípős téli reggel az alsóvárosban indul. A Vieux Cannet-be vezető meredek séta hamar felmelegíti. Délben élvezze a tiszta kilátást a völgyre, nyári pára nélkül. A délután 17:00 óra körüli korai naplemente csodálatos aranyfényben fürdeti meg a történelmi, ősi köveket.",
+            "ro": "O dimineață de iarnă geroasă începe în orașul de jos. Urcușul abrupt spre Vieux Cannet vă încălzește rapid. La prânz, bucurați-vă de vederea clară asupra văii, fără ceața verii. Apusul devreme, în jur de ora 17:00, scaldă pietrele vechi într-o lumină aurie absolut superbă.",
+            "en": "A crisp winter morning starts in the lower town. The steep walk up to Vieux Cannet quickly warms you up. At midday, enjoy the crystal-clear views across the valley, free of summer haze. The early sunset around 5 PM bathes the historic, ancient stones in a beautiful, warm golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Saint-Joseph templom",
+                "ro": "Biserica Saint-Joseph",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das friedliche Winterlicht, das durch die Fenster dieser ruhigen Kirche fällt; ein warmer Mantel wird wärmstens empfohlen.",
+                "hu": "Élvezze a békés téli reggeli fényeket, amelyek átszűrődnek e csendes templom ablakain; egy meleg kabát erősen ajánlott.",
+                "ro": "Bucurați-vă de lumina pașnică a dimineții de iarnă care pătrunde prin ferestrele acestei biserici liniștite; un palton călduros este recomandat.",
+                "en": "Enjoy the peaceful winter morning light filtering through the windows in this quiet church; a warm coat is highly recommended inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Ölmühle",
+                "hu": "Középkori olajmalom",
+                "ro": "Moara medievală de ulei",
+                "en": "Medieval oil mill"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich die winterliche Olivenernte der Vergangenheit vor, während Sie diese historischen Mühlsteine in der kühlen Luft betrachten.",
+                "hu": "Képzelje el a múltbéli téli olajbogyó-szüreteket, miközben a friss, hűvös reggeli levegőn megvizsgálja ezeket a történelmi malomköveket.",
+                "ro": "Imaginați-vă recoltele de iarnă de măsline din trecut în timp ce analizați aceste pietre istorice în aerul proaspăt și rece al dimineții.",
+                "en": "Imagine the winter olive harvests of the past while checking out these historic millstones in the crisp, cool morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Vieux-Canet",
+                "hu": "Vieux-Canet templom",
+                "ro": "Biserica Vieux-Canet",
+                "en": "Vieux-Canet Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern können im Winter kühl sein, behalten Sie also Ihren Mantel an, während Sie das romanische Kirchenschiff bewundern.",
+                "hu": "A vastag kőfalak télen hűvösek lehetnek, ezért tartsa magán a vastag kabátot, miközben az ősi román stílusú főhajót csodálja.",
+                "ro": "Pereții groși de piatră pot fi reci iarna, așa că păstrați haina pe dumneavoastră în timp ce admirați nava romanică veche.",
+                "en": "The thick stone walls can feel chilly in winter, so keep your heavy coat on while admiring the ancient Romanesque nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Saint-Louis",
+                "hu": "Saint-Jean-Saint-Louis kápolna",
+                "ro": "Capela Saint-Jean-Saint-Louis",
+                "en": "Chapel Saint-Jean-Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang zu dieser Kapelle belohnt Sie mit einer ruhigen winterlichen Stille fernab der typischen Touristenmassen.",
+                "hu": "A történelmi kápolnához vezető frissítő séta nyugodt téli csenddel jutalmazza meg, távol a tipikus nyári turistatömegektől.",
+                "ro": "O plimbare vioaie până la această capelă istorică vă răsplătește cu o liniște senină de iarnă, departe de mulțimile tipice de vară.",
+                "en": "A brisk walk to this historic chapel rewards you with serene winter silence away from the typical summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne tour de vigie",
+                "hu": "Régi őrtorony",
+                "ro": "Vechiul turn de veghe",
+                "en": "Ancient watchtower"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft sorgt für eine kristallklare Sicht über die Maures-Ebene; packen Sie sich gegen den eisigen Wind auf dem Gipfel warm ein.",
+                "hu": "A téli levegő kristálytiszta kilátást nyújt a Maures-síkságra; öltözzön be jó melegen a csúcson fújó metsző szél ellen.",
+                "ro": "Aerul de iarnă oferă o vizibilitate extrem de clară peste câmpia Maures; îmbrăcați-vă bine împotriva vântului tăios de la vârf.",
+                "en": "Winter air provides crystal-clear visibility across the Maures plain; bundle up tightly against the biting wind at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Vieux Cannet",
+                "hu": "Le Vieux Cannet",
+                "ro": "Le Vieux Cannet",
+                "en": "Le Vieux Cannet"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Stunde bricht bereits gegen 17 Uhr an und wirft wunderschöne lange Schatten über die historischen, kühlen Gassen auf dem Hügel.",
+                "hu": "Az aranyóra már délután 5 körül megérkezik, gyönyörű, hosszú árnyékokat vetve a történelmi, hűvös hegytetői utcákon.",
+                "ro": "Ora de aur sosește devreme, în jur de ora 17:00, aruncând umbre lungi și frumoase pe străzile istorice și răcoroase de pe deal.",
+                "en": "The golden hour arrives early around 5 PM, casting beautiful long shadows across the historic, chilly hilltop streets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpártúra Le Vieux Cannet történelmi központjából indul, és a régi őrtoronyhoz vezet. Délelőtt a festői kápolnákhoz tekerünk, majd a családbarát ZooParc felé vesszük az irányt egy kis pihenőre. A délután folyamán a Plaine des Maures lenyűgöző természetvédelmi területét fedezzük fel, amely különleges látványt nyújt. Este egy kellemes vacsorával zárhatjuk ezt a változatos napot.",
         "ro": "Turul cu bicicleta începe în centrul istoric Le Vieux Cannet și urcă spre vechiul turn de veghe. Dimineața pedalăm către capelele pitorești, înainte de a face o pauză relaxantă la ZooParc. După-amiaza este marcată de o plimbare mai lungă spre Plaine des Maures, o rezervație naturală deosebită. Încheiați seara într-o atmosferă liniștită, amintindu-vă de peisajele spectaculoase văzute.",
         "en": "Your bike tour starts in the historical center of Le Vieux Cannet and heads up to the old watchtower. In the morning, you cycle to the picturesque chapels before stopping at the family-friendly ZooParc. The afternoon features an extended ride to the Plaine des Maures, a stunning nature reserve with unique flora. Spend your evening relaxing after a dynamic and visually rewarding day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den nassen Wegen zum Vieux Cannet. Bremsen Sie frühzeitig auf den glatten Abfahrten. Im ZooParc und Naturschutzgebiet wird es schlammig, daher sind Schutzbleche und wasserdichte Kleidung unerlässlich.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a Vieux Cannet felé vezető nedves utakon. Fékezzen időben a csúszós lejtőkön. A ZooParc és a természetvédelmi terület saras lesz, így a sárvédő és a vízálló ruházat elengedhetetlen a mai napon.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile umede spre Vieux Cannet. Frânați din timp la coborâri. La ZooParc și în rezervația naturală va fi noroi, așa că apărătorile și îmbrăcămintea impermeabilă sunt absolut esențiale astăzi.",
+            "en": "Cycling in the rain requires caution on the wet roads up to Vieux Cannet. Brake early on the slippery descents. The ZooParc and Nature Reserve paths will be muddy, so fenders and high-quality waterproof gear are essential for today's ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Vieux Cannet",
+                "hu": "Le Vieux Cannet",
+                "ro": "Le Vieux Cannet",
+                "en": "Le Vieux Cannet"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig auf dem rutschigen mittelalterlichen Kopfsteinpflaster; zuverlässige Bremsen sind heute absolut notwendig.",
+                "hu": "Óvatosan tekerjen a csúszós középkori macskaköveken, miközben élvezi a ködös hangulatot; a megbízható fékek ma elengedhetetlenek.",
+                "ro": "Ciclism cu grijă pe piatra cubică medievală alunecoasă, bucurându-vă de atmosfera cețoasă; frânele bune sunt esențiale astăzi.",
+                "en": "Cycle carefully on the slippery medieval cobblestones while enjoying the misty ambiance; reliable brakes are absolutely essential today."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne tour de vigie",
+                "hu": "Régi őrtorony",
+                "ro": "Vechiul turn de veghe",
+                "en": "Ancient watchtower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher; der kurze Weg zum Turm ist im Regen schlammig, aber die dramatische Aussicht ist es wert.",
+                "hu": "Parkolja le biztonságosan a kerékpárt; a toronyhoz vezető rövid út esőben saras, de a drámai, viharos kilátás mindenképp megéri.",
+                "ro": "Parcați bicicleta în siguranță; drumul scurt spre turn este noroios pe ploaie, dar priveliștea furtunoasă dramatică merită efortul.",
+                "en": "Park your bike securely; the short path to the tower is muddy in the rain, but the dramatic stormy view is well worth the steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Saint-Louis",
+                "hu": "Saint-Jean-Saint-Louis kápolna",
+                "ro": "Capela Saint-Jean-Saint-Louis",
+                "en": "Chapel Saint-Jean-Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, überdachter Stopp, um sich kurz abzutrocknen, bevor Sie Ihre nasse Fahrt fortsetzen; lassen Sie die Regenkleidung an.",
+                "hu": "Gyors, fedett megálló, ahol egy kicsit megszáradhat, mielőtt folytatná a nedves túrát a dombok között; tartsa magán az esőruhát.",
+                "ro": "O oprire rapidă la adăpost pentru a vă usca puțin înainte de a continua plimbarea umedă; țineți straturile impermeabile închise.",
+                "en": "A quick covered stop to dry off briefly before continuing your wet ride through the hills; keep your waterproof layers securely zipped."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Vieux-Canet",
+                "hu": "Vieux-Canet templom",
+                "ro": "Biserica Vieux-Canet",
+                "en": "Vieux-Canet Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in diesem alten Gebäude und trocknen Sie Ihre Ausrüstung, während Sie den ruhigen Innenraum bewundern.",
+                "hu": "Keressen menedéket ebben az ősi épületben, és szárítsa meg a felszerelését néhány percig, miközben a csendes belső teret csodálja.",
+                "ro": "Refugiați-vă în această clădire veche și uscați-vă echipamentul câteva minute în timp ce admirați interiorul tăcut și calm.",
+                "en": "Take refuge inside this ancient building and dry your cycling gear for a few minutes while admiring the quiet, historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "ZooParc du Cannet des Maures",
+                "hu": "ZooParc du Cannet des Maures",
+                "ro": "ZooParc du Cannet des Maures",
+                "en": "ZooParc du Cannet des Maures"
+              },
+              "tip_5lang": {
+                "de": "Viele Tiere verstecken sich bei starkem Regen; bringen Sie einen stabilen Poncho mit, um die schlammigen Wege hier zu meistern.",
+                "hu": "Figyelje meg az állatokat a fedett kilátókból, mivel sokan elbújnak az eső elől; viseljen strapabíró esőköpenyt a saras utakon.",
+                "ro": "Multe animale se ascund în timpul ploii abundente; aduceți un poncho impermeabil rezistent pentru a naviga pe aleile noroioase.",
+                "en": "Many animals hide during heavy rain; bring a sturdy waterproof poncho to comfortably navigate the muddy dirt pathways here."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plaine des Maures",
+                "hu": "Plaine des Maures természetvédelmi terület",
+                "ro": "Rezervația Naturală Plaine des Maures",
+                "en": "Plaine des Maures Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die roten Sandsteinpfade werden rutschig; breite Reifen und eine gute Regenjacke sind ein Muss für dieses nasse Abenteuer.",
+                "hu": "A vörös homokkő ösvények csúszóssá és sarassá válnak; a széles abroncsok és a minőségi esőkabát elengedhetetlenek ehhez a kalandhoz.",
+                "ro": "Traseele din gresie roșie devin alunecoase și pline de noroi; anvelopele late și o geacă de ploaie sunt obligatorii astăzi.",
+                "en": "The red sandstone tracks become slick and muddy; fat tires and a quality rain jacket are a must for this wet riding adventure."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine zügige Winterfahrt beginnt mit einem steilen Anstieg. Die kühle Luft ist perfekt zum Radfahren. Nachmittags leuchtet die Plaine des Maures wunderschön, aber fahren Sie zurück, bevor die Temperatur in der Dämmerung stark abfällt.",
+            "hu": "A friss téli tekerés egy meredek emelkedővel indul, ami felmelegít. A hűvös levegő tökéletes a kerékpározáshoz. Délután a Plaine des Maures gyönyörűen ragyog, de induljon vissza, mielőtt sötétedéskor hirtelen lehűl a levegő.",
+            "ro": "O plimbare vioaie de iarnă începe cu o urcare abruptă care vă încălzește. Aerul rece este perfect pentru ciclism. După-amiaza, Plaine des Maures strălucește, dar întoarceți-vă înainte ca temperatura să scadă brusc la amurg.",
+            "en": "A brisk winter ride starts with a steep climb to warm you up. The cool air is perfect for cycling. By afternoon, the Plaine des Maures glows beautifully, but head back before the temperature drops sharply at early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Vieux Cannet",
+                "hu": "Le Vieux Cannet",
+                "ro": "Le Vieux Cannet",
+                "en": "Le Vieux Cannet"
+              },
+              "tip_5lang": {
+                "de": "Die erste Bergauffahrt hält Sie warm; genießen Sie das historische Dorf ohne die drückende Sommerhitze in Thermokleidung.",
+                "hu": "A kezdeti emelkedő melegen tartja; élvezze a történelmi falut a nyári hőség nélkül, kényelmes, réteges thermo ruházatban.",
+                "ro": "Urcușul inițial vă menține cald; bucurați-vă de satul istoric fără căldura intensă a verii, purtând straturi termice.",
+                "en": "The initial uphill ride keeps you warm; enjoy the historic village without the intense summer heat wearing breathable thermal layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne tour de vigie",
+                "hu": "Régi őrtorony",
+                "ro": "Vechiul turn de veghe",
+                "en": "Ancient watchtower"
+              },
+              "tip_5lang": {
+                "de": "Der kühle Wind oben lohnt sich für die atemberaubende, freie winterliche Aussicht auf das Tal; behalten Sie die Handschuhe an!",
+                "hu": "A csípős szél a csúcson megéri a lenyűgöző, akadálytalan téli kilátást a völgyre; mindenképpen tartsa magán a kerékpáros kesztyűt!",
+                "ro": "Vântul rece din vârf merită pentru priveliștile uimitoare de iarnă asupra văii; păstrați-vă mănușile de ciclism pe mâini!",
+                "en": "The chilly wind at the top is worth it for the stunning, unobstructed winter views of the valley; keep your cycling gloves on!"
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Saint-Louis",
+                "hu": "Saint-Jean-Saint-Louis kápolna",
+                "ro": "Capela Saint-Jean-Saint-Louis",
+                "en": "Chapel Saint-Jean-Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie hier, um die raue winterliche Schönheit der provenzalischen Landschaft in absoluter, friedlicher Stille zu würdigen.",
+                "hu": "Tarts szünetet itt, hogy értékeld a provence-i táj zord téli szépségét a tökéletes, békés csendben, távol a forgalomtól.",
+                "ro": "Faceți o pauză aici pentru a aprecia frumusețea aspră de iarnă a peisajului provensal într-o liniște totală și pașnică.",
+                "en": "Pause your ride here to appreciate the stark winter beauty of the surrounding Provençal landscape in total, peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Vieux-Canet",
+                "hu": "Vieux-Canet templom",
+                "ro": "Biserica Vieux-Canet",
+                "en": "Vieux-Canet Church"
+              },
+              "tip_5lang": {
+                "de": "Der unbeheizte Innenraum ist recht kalt, aber die ruhige Atmosphäre ist perfekt für eine kurze Pause vom Treten.",
+                "hu": "A fűtetlen belső tér meglehetősen hideg, de a csendes hangulat tökéletes egy gyors, frissítő pihenőre a pedálozás közben.",
+                "ro": "Interiorul neîncălzit este destul de rece, dar atmosfera liniștită este perfectă pentru o pauză rapidă de la pedalat.",
+                "en": "The unheated interior is quite cold, but the quiet atmosphere is perfect for a quick, refreshing break from pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "ZooParc du Cannet des Maures",
+                "hu": "ZooParc du Cannet des Maures",
+                "ro": "ZooParc du Cannet des Maures",
+                "en": "ZooParc du Cannet des Maures"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind im kühleren Winterwetter oft aktiver; bleiben Sie gleichmäßig in Bewegung, um auf den Wegen warm zu bleiben.",
+                "hu": "Az állatok gyakran aktívabbak a hűvösebb téli időben; mozogjon egyenletes tempóban, hogy melegen tartsa magát a sétautakon.",
+                "ro": "Animalele sunt adesea mai active în vremea mai rece de iarnă; mișcați-vă într-un ritm constant pentru a vă menține cald pe alei.",
+                "en": "Animals are often more active in the cooler winter weather; keep moving at a steady pace to stay warm on the walking paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plaine des Maures",
+                "hu": "Plaine des Maures természetvédelmi terület",
+                "ro": "Rezervația Naturală Plaine des Maures",
+                "en": "Plaine des Maures Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne hebt die Schirmpinien wunderschön hervor; stellen Sie sicher, dass Sie gute Lichter für die frühe Dämmerung haben.",
+                "hu": "Az alacsony téli nap gyönyörűen kiemeli az esernyőfenyőket; gondoskodjon jó kerékpárlámpákról, mivel a sötétedés nagyon korán érkezik.",
+                "ro": "Soarele blând de iarnă evidențiază frumos pinii umbrelă; asigurați-vă că aveți lumini bune deoarece se întunecă foarte devreme.",
+                "en": "The low winter sun highlights the umbrella pines beautifully; ensure you have bright bike lights as dusk falls very early here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az autós túra lehetővé teszi, hogy kényelmesen felfedezzük a Saint-Joseph templomot és a történelmi olajmalmot. Dél körül felhajtunk Le Vieux Cannet-ba, és megcsodáljuk a kilátást a régi őrtoronyból. Délután meglátogatjuk a családosok számára ideális ZooParc-ot, majd elmerülünk a Plaine des Maures vadregényes természetében. Az este tökéletes alkalom arra, hogy felidézzük a régió lenyűgöző táji kontrasztjait.",
         "ro": "Turul cu mașina vă permite să vizitați confortabil Biserica Saint-Joseph și moara istorică de ulei. În jurul prânzului, conduceți spre Le Vieux Cannet și admirați priveliștea de la vechiul turn de veghe. După-amiaza vizitați ZooParc, ideal pentru familii, înainte de a explora vasta rezervație naturală Plaine des Maures. Seara oferă ocazia perfectă pentru a reflecta asupra contrastelor peisagistice spectaculoase ale regiunii.",
         "en": "The car tour allows you to comfortably visit the Saint-Joseph Church and the historic oil mill early in the day. Around noon, drive up to Le Vieux Cannet and admire the sweeping views from the old watchtower. In the afternoon, visit the family-friendly ZooParc before immersing yourself in the vast wilderness of the Plaine des Maures nature reserve. The evening is perfect for reflecting on the region's stunning landscape contrasts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Fahren ist heute komfortabel. Fahren Sie vorsichtig die kurvenreiche, nasse Straße zum alten Dorf hinauf. Die Naturstopps am Nachmittag erfordern Regenschirme und wasserdichte Schuhe für die kurzen Wege von den Parkplätzen.",
+            "hu": "A vezetés kényelmes ma. Óvatosan vezessen fel a kanyargós, nedves úton az óvárosba. A délutáni természetközeli megállókhoz esernyő és vízálló cipő szükséges a parkolóktól induló rövid sétákhoz.",
+            "ro": "Condusul este confortabil astăzi. Conduceți cu grijă pe drumul șerpuit și umed spre satul vechi. Opririle în natură de după-amiază necesită umbrele și cizme impermeabile pentru plimbările scurte din parcări.",
+            "en": "Driving is comfortable today. Carefully navigate the winding, wet road up to the old village. The afternoon nature stops require umbrellas and waterproof boots for the short walks from the parking areas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Saint-Joseph templom",
+                "ro": "Biserica Saint-Joseph",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie hinein, um das friedliche Innere fernab vom Platzregen zu bewundern.",
+                "hu": "Parkoljon a közelben, és siessen be, hogy megcsodálja a békés belső teret, távol a kinti felhőszakadástól.",
+                "ro": "Parcați în apropiere și grăbiți-vă înăuntru pentru a admira interiorul liniștit, departe de ploaia torențială de afară.",
+                "en": "Park nearby and dash inside to admire the peaceful interior away from the downpour; an umbrella makes it effortless."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Ölmühle",
+                "hu": "Középkori olajmalom",
+                "ro": "Moara medievală de ulei",
+                "en": "Medieval oil mill"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien, um die historischen Steine zu sehen; nehmen Sie Ihren Schirm mit, da das Gelände dem Regen ausgesetzt ist.",
+                "hu": "Gyors szabadtéri megálló a történelmi kövek megtekintéséhez; vigyen magával esernyőt, mivel a környék teljesen nyitott az esőben.",
+                "ro": "O oprire rapidă în aer liber pentru a vedea pietrele istorice; luați umbrela, deoarece zona este complet expusă ploii.",
+                "en": "A quick outdoor stop to see the historic stones; bring your umbrella as the surrounding area is completely exposed to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Vieux Cannet",
+                "hu": "Le Vieux Cannet",
+                "ro": "Le Vieux Cannet",
+                "en": "Le Vieux Cannet"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steingassen sind rutschig, tragen Sie also Schuhe mit gutem Grip, wenn Sie Ihr warmes Auto verlassen.",
+                "hu": "A nedves kőutcák nagyon csúszósak, ezért viseljen jó tapadású cipőt, amikor kiszáll a kényelmes, meleg autójából.",
+                "ro": "Aleile de piatră umede sunt alunecoase, deci purtați încălțăminte cu aderență bună când coborâți din mașina călduroasă.",
+                "en": "Drive carefully up the hill; the wet stone alleys are slippery, so wear shoes with good grip when leaving your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne tour de vigie",
+                "hu": "Régi őrtorony",
+                "ro": "Vechiul turn de veghe",
+                "en": "Ancient watchtower"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Aussicht ist einzigartig, aber der Weg vom Parkplatz ist schlammig, also treten Sie im Regen vorsichtig auf.",
+                "hu": "A ködös kilátás egyedülálló, de a parkolótól vezető út saras, ezért óvatosan lépkedjen az esőben, hogy elkerülje az elcsúszást.",
+                "ro": "Priveliștea în ceață este unică, dar drumul de la parcare este noroios, așa că pășiți cu grijă pe ploaie pentru a nu aluneca.",
+                "en": "The misty view is unique, but the path from the parking is muddy, so step carefully in the rain to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "ZooParc du Cannet des Maures",
+                "hu": "ZooParc du Cannet des Maures",
+                "ro": "ZooParc du Cannet des Maures",
+                "en": "ZooParc du Cannet des Maures"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie zwischen den Tiergehegen einen Schirm bereit und konzentrieren Sie sich bei starken Schauern auf die Innenanlagen.",
+                "hu": "Tartson kéznél esernyőt az állatkifutók között, és összpontosítson a fedett kiállításokra, ha erősebb záporok érkeznek.",
+                "ro": "Păstrați o umbrelă la îndemână între țarcurile animalelor și concentrați-vă pe expozițiile acoperite în timpul averselor.",
+                "en": "Keep an umbrella handy between the animal enclosures, and focus on the indoor or sheltered exhibits during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plaine des Maures",
+                "hu": "Plaine des Maures természetvédelmi terület",
+                "ro": "Rezervația Naturală Plaine des Maures",
+                "en": "Plaine des Maures Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die malerische Fahrt durch das Reservat und steigen Sie nur kurz mit Regenmantel aus, um den See im Platzregen zu sehen.",
+                "hu": "Élvezze a festői autózást a rezervátumban, és csak rövid időre szálljon ki esőkabátban, hogy megnézze a tavat a szakadó esőben.",
+                "ro": "Bucurați-vă de drumul pitoresc prin rezervație, coborând doar scurt cu pelerina de ploaie pentru a vedea lacul pe ploaie torențială.",
+                "en": "Enjoy the scenic drive through the reserve, only stepping out briefly with a raincoat to see the lake in the downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Winter-Roadtrip. Die Autoheizung ist zwischen den Stopps willkommen. Der klare Winterhimmel bietet fantastische Sicht vom alten Dorf. Beenden Sie Ihre Naturfahrt in der Plaine des Maures, bevor die frühe Dämmerung Kälte bringt.",
+            "hu": "Kényelmes téli autós túra. Az autófűtés jól jön a megállók között. A tiszta téli égbolt fantasztikus kilátást nyújt az óvárosból. Fejezze be a természetjáró autózást a Plaine des Maures-ban, mielőtt a korai sötétedés fagyot hoz.",
+            "ro": "O excursie rutieră confortabilă de iarnă. Căldura mașinii este binevenită între opriri. Cerul clar de iarnă oferă vizibilitate fantastică din satul vechi. Terminați plimbarea în natură înainte ca amurgul devreme să aducă un frig tăios.",
+            "en": "A cozy winter road trip. The car heater is welcome between stops. The clear winter skies offer fantastic visibility from the old village. Finish your nature drive in the Plaine des Maures before the early sunset brings a sharp chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Saint-Joseph templom",
+                "ro": "Biserica Saint-Joseph",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag an der frischen Luft und genießen Sie das ruhige Ambiente dieser Gemeinde; die Autoheizung danach ist ein Segen.",
+                "hu": "Kezdje a napot a friss levegőn, élvezve a modern helyi plébánia csendes hangulatát; az autófűtés utána valóságos áldás.",
+                "ro": "Începeți-vă ziua în aerul curat, bucurându-vă de ambianța liniștită a parohiei locale; căldura din mașină de după este o binecuvântare.",
+                "en": "Start your day in the crisp air, enjoying the quiet ambiance of this modern local parish; the car heater is a blessing afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Ölmühle",
+                "hu": "Középkori olajmalom",
+                "ro": "Moara medievală de ulei",
+                "en": "Medieval oil mill"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien; das weiche Winterlicht ist perfekt, um diese alten, verwitterten Presssteine zu fotografieren.",
+                "hu": "Gyors szabadtéri megálló; a lágy téli fény tökéletes ezen ősi, viharvert préskövek lefotózásához, mielőtt visszaszállna a kocsiba.",
+                "ro": "O scurtă oprire afară; lumina blândă de iarnă este absolut perfectă pentru fotografierea acestor pietre antice de presat.",
+                "en": "A quick outdoor stop; the soft winter light is absolutely perfect for photographing these ancient, weathered pressing stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Vieux Cannet",
+                "hu": "Le Vieux Cannet",
+                "ro": "Le Vieux Cannet",
+                "en": "Le Vieux Cannet"
+              },
+              "tip_5lang": {
+                "de": "Das Parken ist im Winter einfach; schlendern Sie durch die historischen Straßen und genießen Sie in einen Schal gehüllt die Talsicht.",
+                "hu": "Télen könnyű a parkolás; sétáljon a történelmi utcákon, és sálba burkolózva élvezze a völgyre nyíló, tiszta és zavartalan kilátást.",
+                "ro": "Parcarea este ușoară iarna; plimbați-vă pe străzile istorice și bucurați-vă de vederile clare asupra văii înfofolit într-un fular.",
+                "en": "Parking is easy in winter; wander the historic streets and enjoy the sweeping, clear valley views wrapped up warm in a scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne tour de vigie",
+                "hu": "Régi őrtorony",
+                "ro": "Vechiul turn de veghe",
+                "en": "Ancient watchtower"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, wenn Sie aus dem Auto steigen, da die Winde auf dem Hügel in den Wintermonaten trotz Sonnenschein eisig sind.",
+                "hu": "Öltözzön fel jól, amikor kiszáll az autóból, mert a hegytetőn fújó szelek a napsütés ellenére is metszően hidegek a téli hónapokban.",
+                "ro": "Îmbrăcați-vă gros când ieșiți din mașină, deoarece vânturile de pe deal sunt reci ca gheața în lunile de iarnă, în ciuda soarelui.",
+                "en": "Bundle up when stepping out of the car, as the hilltop winds are biting cold in the winter months despite the bright sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "ZooParc du Cannet des Maures",
+                "hu": "ZooParc du Cannet des Maures",
+                "ro": "ZooParc du Cannet des Maures",
+                "en": "ZooParc du Cannet des Maures"
+              },
+              "tip_5lang": {
+                "de": "Ein angenehmer Winterspaziergang, da es nicht heiß ist; eine warme Jacke wird für die Erkundung der Außengehege wärmstens empfohlen.",
+                "hu": "Kellemes téli séta a hőség hiánya miatt; egy meleg kabát erősen ajánlott a szabadtéri állatkifutók felfedezéséhez.",
+                "ro": "O plimbare plăcută de iarnă, deoarece nu este cald; o geacă călduroasă este foarte recomandată pentru a explora țarcurile exterioare.",
+                "en": "A pleasant winter stroll since it's not hot; a warm jacket is highly recommended for exploring the outdoor animal enclosures."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Plaine des Maures",
+                "hu": "Plaine des Maures természetvédelmi terület",
+                "ro": "Rezervația Naturală Plaine des Maures",
+                "en": "Plaine des Maures Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die späte Wintersonne lässt den roten Boden leuchten; beenden Sie Ihre malerische Fahrt vor der Kälte des frühen Sonnenuntergangs um 17 Uhr.",
+                "hu": "A késő délutáni téli napfény ragyogóvá teszi a vörös talajt; fejezze be a festői autózást a korai, 17:00 órás naplemente hidege előtt.",
+                "ro": "Soarele târziu de iarnă face solul roșu să strălucească; terminați-vă traseul pitoresc înainte de frigul apusului devreme, la ora 17:00.",
+                "en": "The late afternoon winter sun makes the red soil glow; finish your scenic drive before the early 5 PM sunset chill hits the plain."
+              }
+            }
+          ]
+        }
       }
     }
   }

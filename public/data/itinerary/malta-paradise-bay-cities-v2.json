@@ -137,6 +137,168 @@
         "hu": "A reggel a Paradise Bay Resort Beach puha homokján kezdődik, majd egy festői tengerparti séta következik az MV Rozi roncshoz. Délben a Paradise Bay érintetlen természeti szépsége várja, ahol a kristálytiszta víz pihenésre csábít. Délután a történelmi Batterija ta' Wied Musa nyújt lenyűgöző bepillantást a régió védelmi múltjába. Az este a jól megőrzött Tal-Bir Redoubtnál zárul, miközben a nap lenyugszik Málta partjainál.",
         "ro": "Dimineața începe pe nisipul moale de la Paradise Bay Resort Beach, urmată de o plimbare spre epava MV Rozi. La prânz, frumusețea naturală a Paradise Bay vă invită la o pauză relaxantă la soare. După-amiaza, bateria istorică Batterija ta' Wied Musa oferă o perspectivă fascinantă asupra trecutului defensiv al regiunii. Seara se încheie la redutul bine conservat Tal-Bir, odată cu apusul soarelui peste coasta malteză.",
         "en": "Morning begins with a refreshing visit to the soft sands of Paradise Bay Resort Beach, followed by a scenic coastal stroll to view the submerged MV Rozi. Midday brings you to the pristine natural beauty of Paradise Bay proper, where crystal clear waters invite a relaxing break under the Mediterranean sun. In the afternoon, the historical Batterija ta' Wied Musa offers fascinating insights into the region's defensive past. The evening concludes at the well-preserved Tal-Bir Redoubt, as the sun sets over Malta's stunning northern coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Paradise Bay Resort und suchen Sie bei Schauern Schutz. Mittags erkunden Sie die Küste nahe der MV Rozi und Paradise Bay mit wetterfester Kleidung. Nachmittags besichtigen Sie vorsichtig die Batterija ta' Wied Musa auf rutschigen Wegen. Abends bietet die Tal-Bir Redoubt dramatische Ausblicke auf das stürmische Meer.",
+            "hu": "Kezdje az esős reggelt a Paradise Bay Resort fedett részein. Délben vízálló ruházatban fedezze fel az MV Rozi környékét és a borongós öblöt. Délután óvatosan járja be a történelmi Batterija ta' Wied Musa nedves, csúszós ösvényeit. Este a Tal-Bir Redoubt drámai, viharos tengerparti látványával zárja a napot, mielőtt melegedni térne.",
+            "ro": "Începeți dimineața ploioasă la Paradise Bay Resort, adăpostindu-vă la nevoie. La prânz, explorați coasta cu o pelerină impermeabilă spre MV Rozi și Paradise Bay. După-amiaza, vizitați istorică Batterija ta' Wied Musa cu prudență pe potecile alunecoase. Seara, admirați valurile dramatice la Tal-Bir Redoubt înainte de a vă retrage la căldură.",
+            "en": "Start your wet morning at Paradise Bay Resort, seeking shelter when downpours hit. By noon, brave the rain to view the coast near MV Rozi and Paradise Bay, wearing a sturdy raincoat. In the afternoon, explore the historic Batterija ta' Wied Musa cautiously, as paths get slippery. End the day at Tal-Bir Redoubt, embracing the dramatic, stormy sea views before retreating indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paradise Bay Resort Beach",
+                "hu": "Paradise Bay Resort Beach",
+                "ro": "Paradise Bay Resort Beach",
+                "en": "Paradise Bay Resort Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen am leeren Strand aus den überdachten Bereichen des Resorts, aber halten Sie einen stabilen Regenschirm bereit.",
+                "hu": "Nézze az üres tengerpartra lecsapó esőt a resort fedett teraszairól, de mindenképpen tartson magánál egy erős esernyőt.",
+                "ro": "Priviți ploaia pe plaja pustie din zonele acoperite ale complexului, dar asigurați-vă că aveți la îndemână o umbrelă rezistentă.",
+                "en": "Watch the rain sweep across the empty beach from the shelter of the resort's covered areas, but keep a sturdy umbrella handy."
+              }
+            },
+            {
+              "name": {
+                "de": "MV Rozi",
+                "hu": "MV Rozi",
+                "ro": "MV Rozi",
+                "en": "MV Rozi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Tauchgebiet von den Klippen, aber bleiben Sie fern von der Kante, da der nasse Kalkstein sehr rutschig wird.",
+                "hu": "Tekintse meg a merülőhely környékét a sziklákról, de maradjon távol a peremtől, mert a nedves mészkő rendkívül csúszóssá válik.",
+                "ro": "Admirați zona de scufundări de pe stânci, dar stați departe de margine, deoarece rocile calcaroase umede devin foarte alunecoase.",
+                "en": "View the dive site area from the cliffs, but stay well back from the edge as the wet limestone rocks become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Paradise Bay",
+                "hu": "Paradise Bay",
+                "ro": "Paradise Bay",
+                "en": "Paradise Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt unter Regenwolken dramatisch; tragen Sie wasserfestes Schuhwerk, um die schlammigen Pfade zum Wasser zu meistern.",
+                "hu": "Az öböl drámaian fest az esőfelhők alatt; hozzon vízálló lábbelit a vízhez vezető saras ösvények biztonságos bejárásához.",
+                "ro": "Golful arată dramatic sub norii de ploaie; purtați încălțăminte impermeabilă pentru a naviga pe potecile noroioase spre apă.",
+                "en": "The bay looks dramatic under rain clouds; bring waterproof footwear to navigate the muddy paths leading down to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterija ta' Wied Musa",
+                "hu": "Batterija ta' Wied Musa",
+                "ro": "Batterija ta' Wied Musa",
+                "en": "Batterija ta' Wied Musa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen der historischen Batterie zwischen den Schauern und treten Sie vorsichtig auf die nassen, unebenen Steine.",
+                "hu": "Fedezze fel a történelmi üteg romjait a záporok között, óvatosan lépkedve az egyenetlen, vízzel telt köveken.",
+                "ro": "Explorați rapid ruinele acestei baterii istorice între averse, pășind cu grijă pe pietrele inegale și pline de apă.",
+                "en": "Explore the ruins of this historic battery quickly between showers, treading carefully on the uneven, waterlogged stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal-Bir Redoubt",
+                "hu": "Tal-Bir Redoubt",
+                "ro": "Tal-Bir Redoubt",
+                "en": "Tal-Bir Redoubt"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der Festung unter grauem Himmel und suchen Sie bei aufkommendem Wind Schutz hinter dicken Mauern.",
+                "hu": "Tapasztalja meg az erőd zord szépségét a szürke égbolt alatt, és keressen menedéket a vastag falak mögött, ha feltámad a szél.",
+                "ro": "Experimentați frumusețea fortificației sub cerul gri, adăpostindu-vă în spatele zidurilor groase când vântul se întețește.",
+                "en": "Experience the stark beauty of this fortification against a grey sky, taking shelter behind the thick walls when the wind picks up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen frischen Wintermorgen am Paradise Bay Resort Beach in warmen Schichten. Mittags bietet die klare Luft perfekte Sicht auf die MV Rozi und die Bucht. Nachmittags zeigt sich die historische Batterija ta' Wied Musa wunderschön im sanften Winterlicht. Beenden Sie den Tag früh an der Tal-Bir Redoubt, um den Sonnenuntergang gegen 17:00 Uhr zu erleben.",
+            "hu": "Élvezze a friss, téli reggelt a Paradise Bay Resort Beach-en, meleg rétegekbe öltözve. Délben a tiszta levegő kiváló látási viszonyokat biztosít az MV Rozi és az öböl megfigyeléséhez. Délután a Batterija ta' Wied Musa csodás fotótémát nyújt a lágy téli napfényben. Zárja a napot korán a Tal-Bir Redoubtnál, és csodálja meg az 17:00 órai naplementét.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă la Paradise Bay Resort Beach, îmbrăcați în straturi călduroase. La prânz, aerul proaspăt oferă o vizibilitate clară spre MV Rozi și golf. După-amiaza, Batterija ta' Wied Musa arată superb în lumina blândă a iernii. Încheiați devreme la Tal-Bir Redoubt pentru a prinde apusul pe la ora 17:00, înainte să se lase frigul.",
+            "en": "Enjoy a brisk morning walk at Paradise Bay Resort Beach, wrapped in warm layers. At noon, the crisp air makes viewing MV Rozi and Paradise Bay refreshing and clear. In the afternoon, the historic Batterija ta' Wied Musa offers great photo ops under the soft winter sun. Conclude early at Tal-Bir Redoubt, catching the beautiful sunset around 17:00 before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paradise Bay Resort Beach",
+                "hu": "Paradise Bay Resort Beach",
+                "ro": "Paradise Bay Resort Beach",
+                "en": "Paradise Bay Resort Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen ruhigen Winterspaziergang am Ufer und tragen Sie winddichte Kleidung, um sich vor der kalten Meeresbrise zu schützen.",
+                "hu": "Tegyen egy békés téli sétát a csendes parton, szélálló ruházatot viselve, hogy védekezzen a hideg tengeri szél ellen.",
+                "ro": "Faceți o plimbare liniștită de iarnă pe țărm, purtând haine rezistente la vânt pentru a bloca briza rece a mării.",
+                "en": "Take a peaceful winter stroll along the quiet shoreline, wearing windproof clothing to block the cold sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "MV Rozi",
+                "hu": "MV Rozi",
+                "ro": "MV Rozi",
+                "en": "MV Rozi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersicht am Wrack, aber packen Sie sich warm ein, da der Küstenwind sehr durchdringend ist.",
+                "hu": "Élvezze a roncs körüli kristálytiszta téli vizet, de öltözzön melegen, mert a parti szél nagyon metsző lehet.",
+                "ro": "Bucurați-vă de claritatea apei de iarnă în jurul epavei, dar îmbrăcați-vă bine, deoarece vânturile de coastă sunt pătrunzătoare.",
+                "en": "Enjoy the exceptionally clear winter water visibility around the wreck site, but bundle up as the coastal winds are piercing."
+              }
+            },
+            {
+              "name": {
+                "de": "Paradise Bay",
+                "hu": "Paradise Bay",
+                "ro": "Paradise Bay",
+                "en": "Paradise Bay"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die verlassene Bucht in der frischen Winterluft und tragen Sie eine warme Mütze, da es im Schatten deutlich kühler ist.",
+                "hu": "Csodálja meg a csendes, elhagyatott öblöt a friss téli levegőben, és viseljen meleg sapkát, mert az árnyékban sokkal hidegebb van.",
+                "ro": "Admirați golful pustiu în aerul proaspăt de iarnă, având grijă să purtați o căciulă, deoarece la umbră este mult mai frig.",
+                "en": "Admire the tranquil, deserted bay in the crisp winter air, making sure to wear a warm hat as shade makes it feel much colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterija ta' Wied Musa",
+                "hu": "Batterija ta' Wied Musa",
+                "ro": "Batterija ta' Wied Musa",
+                "en": "Batterija ta' Wied Musa"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet das Mauerwerk wunderschön; kleiden Sie sich im Zwiebellook für schwankende Temperaturen.",
+                "hu": "Az alacsony téli nap gyönyörűen megvilágítja az üteg kőfalait; öltözzön rétegesen a változó délutáni hőmérséklethez.",
+                "ro": "Soarele blând de iarnă iluminează frumos zidăria; îmbrăcați-vă în straturi pentru a vă adapta ușor la schimbările de temperatură.",
+                "en": "The low winter sun beautifully illuminates the battery's stonework; dress in layers to easily adjust to the changing afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal-Bir Redoubt",
+                "hu": "Tal-Bir Redoubt",
+                "ro": "Tal-Bir Redoubt",
+                "en": "Tal-Bir Redoubt"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vor dem frühen Sonnenuntergang um 17:00 Uhr hier für goldenes Licht und bringen Sie eine Thermoskanne Tee zum Aufwärmen mit.",
+                "hu": "Érkezzen a korai, 17:00 órás naplemente előtt, hogy aranyfényben lássa az erődöt, és hozzon termoszban forró teát a felmelegedéshez.",
+                "ro": "Ajungeți înainte de apusul de la ora 17:00 pentru a vedea reduta în lumină aurie, aducând un termos cu ceai pentru a vă încălzi.",
+                "en": "Arrive before the early 5 PM sunset to see the redoubt bathed in golden light, bringing a thermos of hot tea to stay warm."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpáros kalandja a vibráló Paradise Bay Resort Beach-en indul, majd az MV Rozi tengerparti kilátópontjához teker. Délre a gyönyörű Paradise Bay felé veszi az irányt, majd felfedezi az Il-Latnija drámai geológiai víznyelőjét. A délutáni út a Ta' Qassisuhoz vezet a sziklaparti panorámáért, majd a történelmi Batterija ta' Wied Musa következik. Az este a Tal-Bir Redoubtnál köszönt be, békés történelmi hangulatot biztosítva.",
         "ro": "Aventura dvs. cu bicicleta începe la Paradise Bay Resort Beach înainte de a pedala spre punctul de belvedere MV Rozi. La prânz, veți merge spre superba Paradise Bay, explorând apoi scufundarea geologică de la Il-Latnija. Plimbarea de după-amiază continuă spre Ta' Qassisu pentru priveliști panoramice și spre bateria istorică Batterija ta' Wied Musa. Seara se lasă la Tal-Bir Redoubt, oferind o atmosferă istorică liniștită.",
         "en": "Your cycling adventure kicks off at the vibrant Paradise Bay Resort Beach before pedaling past the coastal vantage point of MV Rozi. By midday, you'll cycle towards the gorgeous main Paradise Bay, dipping into the water before exploring the dramatic geological sinkhole of Il-Latnija. The afternoon ride continues to Ta' Qassisu for panoramic cliffside vistas, then smoothly transitioning to historical exploration at Batterija ta' Wied Musa. Evening falls as you reach Tal-Bir Redoubt, offering a peaceful historic atmosphere to wrap up an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig auf nassen Straßen zur Paradise Bay und nutzen Sie Schutzbleche. Mittags fahren Sie behutsam nahe der MV Rozi und Il-Latnija auf rutschigen Kalksteinwegen. Nachmittags ist Regenkleidung unerlässlich auf dem Weg zur Batterija ta' Wied Musa. Beenden Sie die Tour an der Tal-Bir Redoubt mit eingeschaltetem Licht bei schlechter Sicht.",
+            "hu": "Óvatosan tekerjen a nedves reggeli utakon a Paradise Bay felé, sárvédőt használva. Délben óvatosan biciklizzen az MV Rozi és az Il-Latnija közelében, a csúszós mészkő miatt. Délután elengedhetetlen az esőruha a Ta' Qassisu és a Batterija ta' Wied Musa felé. Zárja a nyirkos utat a Tal-Bir Redoutnál, bekapcsolt lámpákkal a rossz látási viszonyok miatt.",
+            "ro": "Pedați cu grijă pe drumurile umede de dimineață, folosind apărători. La prânz, mergeți prudent spre MV Rozi și Il-Latnija, potecile de calcar fiind alunecoase. După-amiaza, pelerina e esențială spre Ta' Qassisu și Batterija ta' Wied Musa. Încheiați cursa umedă la Tal-Bir Redoubt cu farurile aprinse din cauza vizibilității reduse.",
+            "en": "Pedal carefully on wet morning roads towards Paradise Bay, using fenders to avoid splashing. By midday, cycle cautiously near MV Rozi and Il-Latnija, as limestone trails become slick. In the afternoon, rain gear is essential while navigating to Ta' Qassisu and Batterija ta' Wied Musa. Conclude your damp ride at Tal-Bir Redoubt, ensuring your bike lights are on due to low visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paradise Bay Resort Beach",
+                "hu": "Paradise Bay Resort Beach",
+                "ro": "Paradise Bay Resort Beach",
+                "en": "Paradise Bay Resort Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unterdacht; tragen Sie eine gut sichtbare Regenjacke, da Küstenregen die Sicht der Autofahrer einschränkt.",
+                "hu": "Parkolja le kerékpárját fedett helyen; viseljen jól láthatósági esőkabátot, mert a parti eső csökkenti az autósok látótávolságát.",
+                "ro": "Parcați bicicleta sub un adăpost; purtați o jachetă impermeabilă reflectorizantă, deoarece ploaia scade vizibilitatea șoferilor.",
+                "en": "Park your bike under available shelter; wear a high-visibility waterproof jacket as coastal rain reduces driver visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "MV Rozi",
+                "hu": "MV Rozi",
+                "ro": "MV Rozi",
+                "en": "MV Rozi"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie sanft vor den Klippen; der nasse Kalkstein ist berüchtigt dafür, extrem rutschig für Fahrradreifen zu sein.",
+                "hu": "Finoman fékezzen a sziklákhoz közeledve; a nedves mészkő köztudottan nagyon csúszós a kerékpárgumik számára.",
+                "ro": "Frânați ușor la apropierea de stânci; calcarul umed este extrem de periculos pentru anvelopele de bicicletă.",
+                "en": "Brake gently on the approach to the cliffs; the wet limestone is notoriously treacherous for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Paradise Bay",
+                "hu": "Paradise Bay",
+                "ro": "Paradise Bay",
+                "en": "Paradise Bay"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad das letzte Stück zur Bucht; der schlammige Untergrund macht das Fahren bei Regen zu gefährlich.",
+                "hu": "Tolja a kerékpárt az öbölhöz vezető utolsó szakaszon; a saras lefolyás miatt a tekerés túl veszélyes felhőszakadáskor.",
+                "ro": "Mergeți pe lângă bicicletă pe ultima porțiune; noroiul face ca pedalarea să fie prea periculoasă în timpul unei ploi torențiale.",
+                "en": "Walk your bike down the final stretch to the bay; the muddy runoff makes riding too dangerous during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Il-Latnija",
+                "hu": "Il-Latnija",
+                "ro": "Il-Latnija",
+                "en": "Il-Latnija"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diese natürliche Doline aus sicherer Entfernung und meiden Sie die schlammigen Ränder, die bei Regen nachgeben können.",
+                "hu": "Biztonságos távolságból nézze meg a természetes víznyelőt, elkerülve a saras peremeket, amelyek esőben könnyen beszakadhatnak.",
+                "ro": "Priviți această dolină naturală de la o distanță sigură, evitând marginile noroioase care pot ceda ușor pe ploaie.",
+                "en": "Check out this natural sinkhole from a safe distance, avoiding the muddy edges which can easily give way under rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ta' Qassisu",
+                "hu": "Ta' Qassisu",
+                "ro": "Ta' Qassisu",
+                "en": "Ta' Qassisu"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände hier wird schnell sumpfig; bleiben Sie unbedingt auf befestigten oder felsigen Wegen, damit die Reifen nicht einsinken.",
+                "hu": "A történelmi emlékhely körüli terep mocsaras lesz; szigorúan maradjon a burkolt vagy köves utakon, nehogy elsüllyedjen a gumi.",
+                "ro": "Terenul devine mlăștinos aici; rămâneți strict pe potecile pavate sau stâncoase pentru a preveni scufundarea anvelopelor.",
+                "en": "The terrain around this historical marker gets boggy; stick strictly to the paved or rocky paths to prevent tires from sinking."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterija ta' Wied Musa",
+                "hu": "Batterija ta' Wied Musa",
+                "ro": "Batterija ta' Wied Musa",
+                "en": "Batterija ta' Wied Musa"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Fahrradkette ab, nachdem Sie die nassen Küstenstraßen zu dieser historischen Artilleriebatterie gemeistert haben.",
+                "hu": "Törölje le a kerékpár láncát, miután a nedves parti utakon eljutott ehhez a 18. századi tüzérségi üteghez.",
+                "ro": "Ștergeți lanțul bicicletei după ce ați parcurs drumurile de coastă umede pentru a ajunge la această baterie de artilerie.",
+                "en": "Wipe down your bike's chain after navigating the wet coastal roads to reach this 18th-century artillery battery."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal-Bir Redoubt",
+                "hu": "Tal-Bir Redoubt",
+                "ro": "Tal-Bir Redoubt",
+                "en": "Tal-Bir Redoubt"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Fahrt an dieser Küstenverteidigung; schalten Sie alle Lichter ein für einen sicheren, nassen Heimweg.",
+                "hu": "Fejezze be nyirkos útját ennél a partvédelmi műnél; győződjön meg róla, hogy minden villogó lámpája be van kapcsolva a biztonságos hazaúthoz.",
+                "ro": "Terminați cursa umedă la această fortificație; asigurați-vă că toate luminile sunt aprinse pentru un drum sigur spre casă.",
+                "en": "Finish your damp ride at this coastal defense; ensure all your flashing lights are activated for a safe, wet journey home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die Wintertour in winddichten Schichten zur Paradise Bay. Mittags locken klare Aussichten bei der MV Rozi und Il-Latnija. Die Nachmittagskälte erfordert ständige Bewegung auf dem Weg zur Batterija ta' Wied Musa. Beenden Sie die Fahrt zum frühen Sonnenuntergang um 17:00 Uhr an der Tal-Bir Redoubt mit Licht für den dunklen Rückweg.",
+            "hu": "Kezdje a téli bringázást szélálló rétegekben a Paradise Bay felé. Délben tiszta kilátás várja az MV Rozi és az Il-Latnija körül. A délutáni hidegben folyamatos mozgás szükséges a Ta' Qassisu és a Batterija ta' Wied Musa közelében. Fejezze be az utat a korai, 17:00 órás naplementekor a Tal-Bir Redoutnál, és kapcsoljon lámpát a sötét visszaúthoz.",
+            "ro": "Începeți plimbarea de iarnă în straturi anti-vânt spre Paradise Bay. Prânzul aduce priveliști clare la MV Rozi și Il-Latnija. Frigul după-amiezii necesită mișcare continuă spre Ta' Qassisu și Batterija ta' Wied Musa. Terminați traseul la apusul devreme de la 17:00 la Tal-Bir Redoubt, aprinzând luminile pentru întoarcere.",
+            "en": "Start your winter cycling wrapped in windproof layers for a brisk morning ride to Paradise Bay. Midday brings clear views around MV Rozi and Il-Latnija, perfect for quick photo stops. The afternoon chill requires continuous movement to stay warm near Ta' Qassisu and Batterija ta' Wied Musa. Finish your ride by the early 17:00 sunset at Tal-Bir Redoubt, switching on lights for the dark ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paradise Bay Resort Beach",
+                "hu": "Paradise Bay Resort Beach",
+                "ro": "Paradise Bay Resort Beach",
+                "en": "Paradise Bay Resort Beach"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem Strandspaziergang auf und behalten Sie die Fahrradhandschuhe gegen den eisigen Winterwind an.",
+                "hu": "Melegítse be izmait egy gyors sétával a parton, és tartsa magán a kerékpáros kesztyűt a csípős téli szél ellen.",
+                "ro": "Încălziți-vă mușchii cu o plimbare rapidă, păstrând mănușile de ciclism pe mâini împotriva vântului tăios de iarnă.",
+                "en": "Warm up your muscles with a brisk walk on the beach, keeping your cycling gloves on against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "MV Rozi",
+                "hu": "MV Rozi",
+                "ro": "MV Rozi",
+                "en": "MV Rozi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersicht, aber sichern Sie Ihr Fahrrad gut, da starke Küstenböen es leicht umwehen können.",
+                "hu": "Élvezze a zavartalan téli kilátást az öbölre, de rögzítse jól a kerékpárját, mert a tengerparti széllökések könnyen felboríthatják.",
+                "ro": "Bucurați-vă de priveliștile neobstrucționate, dar asigurați-vă bicicleta, deoarece rafalele de coastă o pot răsturna ușor.",
+                "en": "Enjoy the unobstructed winter views of the bay, but secure your bike well as coastal gusts can easily blow it over."
+              }
+            },
+            {
+              "name": {
+                "de": "Paradise Bay",
+                "hu": "Paradise Bay",
+                "ro": "Paradise Bay",
+                "en": "Paradise Bay"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Bucht ist ideal für eine Teepause aus der Thermoskanne; tragen Sie eine Thermo-Mütze unter dem Helm.",
+                "hu": "A csendes öböl remek hely egy pihenőre és egy termosznyi forró italra; viseljen termo sapkát a sisakja alatt.",
+                "ro": "Golful liniștit e perfect pentru a bea ceva cald dintr-un termos; purtați o cagulă termică sub casca de ciclism.",
+                "en": "The quiet bay is a great spot to pause and drink from a thermos; wear a thermal skull cap under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Il-Latnija",
+                "hu": "Il-Latnija",
+                "ro": "Il-Latnija",
+                "en": "Il-Latnija"
+              },
+              "tip_5lang": {
+                "de": "Die Doline sieht im Winterlicht spektakulär aus; halten Sie Ihren Oberkörper mit einer winddichten Weste warm.",
+                "hu": "A drámai víznyelő látványos a téli fényekben; tartsa melegen a testét egy szélálló mellénnyel, amíg nézelődik.",
+                "ro": "Dolina arată spectaculos în lumina iernii; mențineți-vă trunchiul cald cu o vestă anti-vânt în timp ce observați.",
+                "en": "The dramatic sinkhole looks spectacular in the winter light; keep your core warm with a windproof gilet while observing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ta' Qassisu",
+                "hu": "Ta' Qassisu",
+                "ro": "Ta' Qassisu",
+                "en": "Ta' Qassisu"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine kurze historische Pause, aber bleiben Sie nicht zu lange stehen, um in der Winterbrise nicht auszukühlen.",
+                "hu": "Tartson itt egy gyors történelmi pihenőt, de ne álljon meg sokáig, nehogy megfázzon a hideg téli szélben.",
+                "ro": "Faceți o scurtă pauză istorică aici, dar nu vă opriți mult timp pentru a evita să răciți în briza rece de iarnă.",
+                "en": "Take a quick historical break here to rest your legs, but don't stop for long to avoid catching a chill in the winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterija ta' Wied Musa",
+                "hu": "Batterija ta' Wied Musa",
+                "ro": "Batterija ta' Wied Musa",
+                "en": "Batterija ta' Wied Musa"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die robuste Militärarchitektur vor dem blassen Winterhimmel; ziehen Sie eine Schicht mehr an, wenn die Sonne sinkt.",
+                "hu": "Csodálja meg a katonai építészetet a halvány téli égbolt alatt; vegyen fel egy plusz réteget, ahogy a nap délután lejjebb ereszkedik.",
+                "ro": "Admirați arhitectura militară pe fundalul cerului palid de iarnă; mai puneți o haină pe măsură ce soarele coboară.",
+                "en": "Admire the robust military architecture against the pale winter sky; layer up as the sun starts dropping low in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal-Bir Redoubt",
+                "hu": "Tal-Bir Redoubt",
+                "ro": "Tal-Bir Redoubt",
+                "en": "Tal-Bir Redoubt"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft für den Sonnenuntergang um 17:00 Uhr und packen Sie eine warme Jacke für den dunklen Rückweg ein.",
+                "hu": "Időzítse érkezését az 17:00 órás naplementére, és csomagoljon be egy meleg, szigetelt kabátot a sötét, hideg visszaútra.",
+                "ro": "Sincronizați sosirea pentru apusul de la 17:00, având o jachetă izolată pentru drumul rece și întunecat înapoi.",
+                "en": "Time your arrival for the early 17:00 sunset, packing a warm, insulated jacket for the cold, dark ride back to your base."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje autós túráját egy frissítő reggeli megállóval a Paradise Bay Resort Beach-en, majd tegyen egy gyors kitérőt az MV Rozi felé. A dél a lenyűgöző Paradise Bay-ben telik, majd egy festői autózás következik a Ta' Qassisu magasodó szikláihoz. Délután fedezze fel a Għadira Természetvédelmi Terület gazdag biodiverzitását és a Tal-Bir Redoubt katonai múltját. Az utazás este a Batterija ta' Wied Musa-val és a Little Armier Beach-i naplementével zárul.",
         "ro": "Începeți turul cu mașina cu o oprire matinală la Paradise Bay Resort Beach, urmată de o scurtă vizită la MV Rozi. La prânz vă veți relaxa în uimitoarea Paradise Bay, urmată de o plimbare pitorească spre stâncile din Ta' Qassisu. După-amiaza, descoperiți biodiversitatea de la Għadira Nature Reserve și explorați istoria militară la Tal-Bir Redoubt. Călătoria se încheie seara la Batterija ta' Wied Musa și la apusul de la Little Armier Beach.",
         "en": "Start your driving tour with a refreshing morning stop at Paradise Bay Resort Beach, followed by a quick hop to view the historic MV Rozi dive site. Midday features relaxation at the stunning main Paradise Bay, followed by a scenic drive to the towering cliffs of Ta' Qassisu. During the afternoon, discover the rich biodiversity at Għadira Nature Reserve and delve into military history at the impressive Tal-Bir Redoubt. The journey concludes beautifully in the evening with visits to Batterija ta' Wied Musa and sunset at Little Armier Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig zur Paradise Bay. Mittags ermöglichen kurze Sprints aus dem Auto den Blick auf die MV Rozi und Ta' Qassisu, ohne nass zu werden. Der Nachmittagsregen macht die Vogelbeobachtungshütten der Għadira Nature Reserve zum perfekten Zufluchtsort. Beenden Sie den feuchten Abend am Little Armier Beach und beobachten Sie das stürmische Meer sicher aus dem warmen Auto.",
+            "hu": "Óvatosan vezessen az esős reggelen a Paradise Bay felé. Délben tegyen gyors, rövid sétákat az autótól az MV Rozi és a Ta' Qassisu megtekintéséhez, hogy ne ázzon el. A délutáni felhőszakadás idején a Għadira Természetvédelmi Terület madárleső kunyhói tökéletes fedett menedéket nyújtanak. A nyirkos estét a Little Armier Beachen zárja, a meleg autóból figyelve a viharos tengert.",
+            "ro": "Conduceți cu grijă în dimineața ploioasă spre Paradise Bay. La prânz, ieșirile scurte din mașină vă permit să vedeți MV Rozi și Ta' Qassisu fără a vă uda. Aversa de după-amiază face din observatoarele de la Għadira Nature Reserve refugiul perfect acoperit. Încheiați seara la Little Armier Beach, privind marea furtunoasă în siguranță din mașina caldă.",
+            "en": "Drive carefully through the rainy morning to Paradise Bay, enjoying the wipers rhythmically clearing the glass. At noon, quick dashes from the car let you view MV Rozi and Ta' Qassisu without getting soaked. The afternoon downpour makes Għadira Nature Reserve's bird hides a perfect indoor retreat. Conclude the damp evening at Little Armier Beach, watching the dramatic stormy sea safely from inside your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paradise Bay Resort Beach",
+                "hu": "Paradise Bay Resort Beach",
+                "ro": "Paradise Bay Resort Beach",
+                "en": "Paradise Bay Resort Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Sprint durch den Regen zu verkürzen, und beobachten Sie die stürmischen Wellen aus der Lobby.",
+                "hu": "Parkoljon közel a resort bejáratához, hogy kevesebbet kelljen az esőben futnia, és nézze a viharos hullámokat az előtérből.",
+                "ro": "Parcați aproape de intrarea complexului pentru a minimiza goana prin ploaie, admirând valurile furtunoase din hol.",
+                "en": "Park close to the resort entrance to minimize your dash through the rain, taking time to watch the stormy waves from the lobby."
+              }
+            },
+            {
+              "name": {
+                "de": "MV Rozi",
+                "hu": "MV Rozi",
+                "ro": "MV Rozi",
+                "en": "MV Rozi"
+              },
+              "tip_5lang": {
+                "de": "Sie können das Tauchgebiet bequem vom Auto aus sehen; steigen Sie nur mit einem stabilen Schirm aus, wenn der Wind es zulässt.",
+                "hu": "Az autó kényelméből is láthatja a merülési zónát; csak akkor szálljon ki egy erős esernyővel, ha a szél megengedi.",
+                "ro": "Puteți vedea zona de scufundări din confortul mașinii; ieșiți doar cu o umbrelă rezistentă dacă vântul vă permite.",
+                "en": "You can spot the general dive area from the comfort of your car; only step out with a heavy-duty umbrella if the wind permits."
+              }
+            },
+            {
+              "name": {
+                "de": "Paradise Bay",
+                "hu": "Paradise Bay",
+                "ro": "Paradise Bay",
+                "en": "Paradise Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig werden; fahren Sie langsam und nutzen Sie die befestigten Aussichtspunkte.",
+                "hu": "A bekötőút felhőszakadáskor csúszóssá és sarassá válhat; vezessen lassan, és használja a burkolt kilátópontokat.",
+                "ro": "Drumul de acces poate deveni alunecos pe ploaie abundentă; conduceți încet și folosiți punctele de belvedere pavate.",
+                "en": "The access road can get slippery and muddy during heavy downpours; drive slowly and use the paved viewpoint areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Ta' Qassisu",
+                "hu": "Ta' Qassisu",
+                "ro": "Ta' Qassisu",
+                "en": "Ta' Qassisu"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in Autonähe für diesen historischen Ort; die unbefestigten Wege verwandeln sich bei Sturm in tiefen Schlamm.",
+                "hu": "Maradjon az autó közelében ennek a történelmi helynek a megtekintéséhez; a burkolatlan utak vastag sártengerré válnak a viharokban.",
+                "ro": "Stați aproape de vehicul pentru a observa acest loc; potecile neasfaltate se transformă în noroi gros în timpul furtunilor.",
+                "en": "Stay near the vehicle to observe this historical spot; the unpaved coastal paths turn into thick mud during coastal storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Għadira Nature Reserve",
+                "hu": "Għadira Nature Reserve",
+                "ro": "Għadira Nature Reserve",
+                "en": "Għadira Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da Sie die Zugvögel aus den trockenen, hölzernen Beobachtungshütten der Reservatsfreiwilligen sehen können.",
+                "hu": "Tökéletes megálló esős napokon, mivel az önkéntesek által fenntartott száraz, fa leskunyhókból figyelheti a vándormadarakat.",
+                "ro": "O oprire perfectă pentru zile ploioase, deoarece puteți urmări păsările din ascunzătorile uscate din lemn ale rezervației.",
+                "en": "A perfect rainy-day stop, as you can watch migratory birds from the dry, wooden hides provided by the reserve's volunteers."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal-Bir Redoubt",
+                "hu": "Tal-Bir Redoubt",
+                "ro": "Tal-Bir Redoubt",
+                "en": "Tal-Bir Redoubt"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zur Küstenstraße, um diese Festung zu sehen; der Regen verleiht den alten Steinen ein dunkles, markantes Aussehen.",
+                "hu": "Hajtson fel a parti útra az erődítmény megtekintéséhez; az eső sötét, lenyűgöző megjelenést kölcsönöz a régi köveknek.",
+                "ro": "Conduceți până pe drumul de coastă pentru a vedea reduta; ploaia oferă pietrelor vechi un aspect întunecat și izbitor.",
+                "en": "Drive right up to the coastal road to see this fortification; the rain gives the old stones a striking, dark appearance."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterija ta' Wied Musa",
+                "hu": "Batterija ta' Wied Musa",
+                "ro": "Batterija ta' Wied Musa",
+                "en": "Batterija ta' Wied Musa"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie die Batterie bequem vom Vordersitz aus bewundern, während die Scheibenwischer die Sicht freimachen.",
+                "hu": "Ha nagyon esik, csodálja meg az üteget a kényelmes első ülésről, folyamatosan járatva az ablaktörlőt a kilátáshoz.",
+                "ro": "Dacă plouă tare, admirați bateria de pe scaunul din față, lăsând ștergătoarele pornite pentru a vedea coasta.",
+                "en": "If the rain is heavy, admire the battery from the comfort of your front seat, keeping the wipers running to see the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Little Armier Beach",
+                "hu": "Little Armier Beach",
+                "ro": "Little Armier Beach",
+                "en": "Little Armier Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Strand, um die stürmischen Wellen sicher aus dem warmen Auto zu beobachten und die feuchte Tour zu beenden.",
+                "hu": "Parkoljon a parttal szemben, hogy a meleg autóból nézhesse a homokra csapódó hullámokat, kényelmesen lezárva a nyirkos túrát.",
+                "ro": "Parcați cu fața spre plajă pentru a vedea valurile de la căldură, încheind confortabil acest tur umed.",
+                "en": "Park facing the beach to watch the winter swells crash onto the sand from inside your warm car, ending the damp tour comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche, warme Fahrt zur Paradise Bay. Mittags sorgt der klare Himmel für beste Sicht auf die MV Rozi und Ta' Qassisu. Nachmittags rückt die Wintersonne die Flamingos der Għadira Nature Reserve ins perfekte Licht. Erreichen Sie Little Armier Beach vor dem Sonnenuntergang um 17:00 Uhr, bevor Sie zu einem warmen Abendessen einkehren.",
+            "hu": "Élvezze a fűtéssel melegített, kényelmes reggeli utat a Paradise Bay felé. Délben a tiszta, hideg égbolt tökéletes kilátást nyújt az MV Rozi és a Ta' Qassisu felé. Délután a lágy téli napfény csodásan megvilágítja a flamingókat a Għadirában. Érkezzen a Little Armier Beachre a korai, 17:00 órás naplemente előtt, majd vonuljon el egy meleg vacsorára.",
+            "ro": "Bucurați-vă de o dimineață cu căldura pornită în mașină spre Paradise Bay. Prânzul aduce un cer senin, perfect pentru priveliști la MV Rozi și Ta' Qassisu. După-amiaza, soarele blând de iarnă luminează perfect păsările din Għadira Nature Reserve. Ajungeți la Little Armier Beach înainte de apusul de la ora 17:00 pentru a vedea culorile coastei.",
+            "en": "Enjoy a cozy, heater-warmed morning drive to Paradise Bay Resort Beach. Midday brings bright, crisp skies perfect for clear views at MV Rozi and Ta' Qassisu. In the afternoon, the gentle winter sun highlights the flamingos at Għadira Nature Reserve perfectly. Arrive at Little Armier Beach before the early 5 PM sunset to catch the fading coastal colors before retreating to a warm dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paradise Bay Resort Beach",
+                "hu": "Paradise Bay Resort Beach",
+                "ro": "Paradise Bay Resort Beach",
+                "en": "Paradise Bay Resort Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich nach einem Spaziergang am Winterstrand von der Autoheizung aufwärmen und halten Sie eine dicke Jacke bereit.",
+                "hu": "Hagyja, hogy az autó fűtése felmelegítse egy frissítő téli parti séta után, és mindig tartson kéznél egy vastag kabátot.",
+                "ro": "Lăsați căldura mașinii să vă încălzească după o plimbare răcoroasă pe țărm, ținând o jachetă groasă la îndemână.",
+                "en": "Let the car's heater warm you up after a bracing winter walk along the quiet shoreline, keeping a thick jacket handy."
+              }
+            },
+            {
+              "name": {
+                "de": "MV Rozi",
+                "hu": "MV Rozi",
+                "ro": "MV Rozi",
+                "en": "MV Rozi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die glasklare Wintersicht des Meeres, steigen Sie nur kurz aus und lassen Sie den Motor zum Aufwärmen laufen.",
+                "hu": "Élvezze a kristálytiszta téli tengert, csak röviden szálljon ki, és hagyja járni a motort egy gyors felmelegedéshez.",
+                "ro": "Bucurați-vă de claritatea de iarnă a mării, ieșind scurt și lăsând motorul pornit pentru a vă încălzi rapid.",
+                "en": "Enjoy the crystal-clear winter visibility of the sea, stepping out briefly while keeping the engine running for a quick warm-up."
+              }
+            },
+            {
+              "name": {
+                "de": "Paradise Bay",
+                "hu": "Paradise Bay",
+                "ro": "Paradise Bay",
+                "en": "Paradise Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist leer; genießen Sie die Ruhe an der Bucht, während Sie heißen Kakao aus der Thermoskanne trinken.",
+                "hu": "A parkoló télen általában üres; élvezze a békés pillanatot az öbölre nézve, miközben forró kakaót kortyolgat egy termoszból.",
+                "ro": "Parcarea e de obicei goală iarna; bucurați-vă de un moment liniștit privind golful în timp ce beți cacao caldă.",
+                "en": "The parking lot is usually empty in winter; enjoy a peaceful moment looking at the bay while sipping hot cocoa from a flask."
+              }
+            },
+            {
+              "name": {
+                "de": "Ta' Qassisu",
+                "hu": "Ta' Qassisu",
+                "ro": "Ta' Qassisu",
+                "en": "Ta' Qassisu"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet hier unglaubliche Fotomotive; werfen Sie einen warmen Schal über, bevor Sie in den kalten Wind treten.",
+                "hu": "A tiszta téli levegő hihetetlen fotózási lehetőségeket kínál itt; vegyen fel egy meleg sálat, mielőtt kilépne a hideg szélbe.",
+                "ro": "Aerul proaspăt de iarnă oferă oportunități foto incredibile; puneți un fular cald înainte de a ieși în briza rece.",
+                "en": "The crisp winter air provides incredible photo opportunities here; throw on a warm scarf before stepping out into the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Għadira Nature Reserve",
+                "hu": "Għadira Nature Reserve",
+                "ro": "Għadira Nature Reserve",
+                "en": "Għadira Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Der Winter ist die beste Zeit zur Vogelbeobachtung; bringen Sie ein Fernglas mit und tragen Sie Thermokleidung in den unbeheizten Hütten.",
+                "hu": "A tél a legjobb időszak itt a madármegfigyelésre; hozzon távcsövet és viseljen termo rétegeket, mert a lesek fűtetlenek.",
+                "ro": "Iarna este sezonul ideal pentru observarea păsărilor; aduceți binoclu și purtați haine groase, deoarece ascunzătorile nu au căldură.",
+                "en": "Winter is prime time for bird watching here; bring binoculars and wear thermal layers, as the hides are unheated."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal-Bir Redoubt",
+                "hu": "Tal-Bir Redoubt",
+                "ro": "Tal-Bir Redoubt",
+                "en": "Tal-Bir Redoubt"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten auf die Redoute; ein schneller Halt mit Parkplätzen nur wenige Schritte vom Bauwerk entfernt.",
+                "hu": "Az alacsony téli nap hosszú árnyékokat vet az erődre; gyors, egyszerű megálló, a parkoló csak pár lépésre van az épülettől.",
+                "ro": "Soarele de iarnă aruncă umbre lungi peste redută; e o oprire rapidă, cu parcare la doar câțiva pași de structură.",
+                "en": "The low winter sun casts long shadows over the redoubt; it's a quick, easy stop with parking just steps away from the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterija ta' Wied Musa",
+                "hu": "Batterija ta' Wied Musa",
+                "ro": "Batterija ta' Wied Musa",
+                "en": "Batterija ta' Wied Musa"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterhalt für Militärgeschichte; packen Sie sich warm ein, da dieser ungeschützte Punkt eisige Meeresbrisen einfängt.",
+                "hu": "Rövid téli megálló a partvédelmi történelem értékelésére; öltözzön fel jól, mert ez a nyílt pont felfogja a fagyos tengeri szeleket.",
+                "ro": "O scurtă oprire de iarnă pentru a aprecia istoria; înfofoliți-vă bine, deoarece acest punct expus atrage brize marine înghețate.",
+                "en": "A brief winter stop to appreciate the coastal defense history; wrap up well, as this exposed point catches freezing sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Little Armier Beach",
+                "hu": "Little Armier Beach",
+                "ro": "Little Armier Beach",
+                "en": "Little Armier Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie gegen 17:00 Uhr an, um einen spektakulären Wintersonnenuntergang über dem Meer zu beobachten, bevor Sie ins Warme fahren.",
+                "hu": "Érkezzen 17:00 órára, hogy egy látványos téli naplementét nézzen meg az óceán felett, mielőtt visszatérne egy hangulatos, meleg estéhez.",
+                "ro": "Ajungeți la ora 17:00 pentru a urmări un apus de iarnă spectaculos peste ocean înainte de a vă întoarce la căldură.",
+                "en": "Time your arrival for 5 PM to watch a spectacular winter sunset over the ocean before heading back for a cozy evening indoors."
+              }
+            }
+          ]
+        }
       }
     }
   }

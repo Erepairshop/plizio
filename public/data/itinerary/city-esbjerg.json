@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a kortárs esztétika befogadásával az Esbjerg Kunstmuseumban. Ahogy közeledik a dél, váltson a Lykkens Have zöldterületére, és látogasson el a Lydlegepladsra. A délutánt a nyüzsgő Vognbølparkens Legeplads játszótéren töltheti. Végül zárja az estét egy békés, nyugodt sétával a Vognsbøl Sø festői partjainál, elvonulva a város zajától.",
         "ro": "Începeți dimineața absorbind estetica contemporană la Esbjerg Kunstmuseum. Pe măsură ce se apropie amiaza, treceți la fermecătorul spațiu verde Lykkens Have și la Lydlegeplads. După-amiaza este petrecută bucurându-vă de animatul Vognbølparkens Legeplads, un loc preferat al familiilor. În cele din urmă, încheiați seara cu o plimbare senină pe malul lacului Vognsbøl Sø.",
         "en": "Start your morning absorbing contemporary aesthetics at the Esbjerg Kunstmuseum. As midday approaches, transition to the charming green space of Lykkens Have and watch the kids play at Lydlegeplads. The afternoon is spent enjoying the lively Vognbølparkens Legeplads, a favorite local family spot. Finally, wind down your evening with a serene walk along the shores of Vognsbøl Sø."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag trocken im Kunstmuseum. Mittags führen die Wege durch regenfeuchte Parks, wo die dichten Baumkronen natürlichen Schutz bieten. Am Nachmittag erkunden Sie die Seenlandschaft im sanften Nieselregen, bevor Sie den Abend bei atmosphärischer Beleuchtung ausklingen lassen. Achten Sie auf rutschige Wege und tragen Sie wasserfeste Schuhe für diesen herbstlichen Stadtspaziergang.",
+            "hu": "Kezdje a napot szárazon a Kunstmúzeumban. Délben az út esőtől friss parkokon vezet át, ahol a sűrű lombok természetes menedéket nyújtanak. Délután a tavak környékét fedezzük fel a szemerkélő esőben, mielőtt az estét a városi fényeknél zárnánk. Figyeljen a csúszós utakra és viseljen vízálló cipőt ezen az őszi hangulatú városi sétán.",
+            "ro": "Începeți ziua la adăpost în muzeul de artă. La prânz, traseul trece prin parcuri împrospătate de ploaie, unde coroanele copacilor oferă adăpost natural. După-amiaza explorăm zona lacurilor sub o ploaie ușoară, înainte de a încheia seara sub luminile orașului. Atenție la potecile alunecoase și purtați încălțăminte impermeabilă pentru această plimbare urbană de toamnă.",
+            "en": "Start the day dry in the art museum. At noon, the route leads through rain-fresh parks where dense canopies provide natural shelter. In the afternoon, explore the lake area in the gentle drizzle before ending the evening under the city lights. Watch out for slippery paths and wear waterproof shoes for this atmospheric autumn city walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esbjerg Kunstmuseum",
+                "hu": "Esbjerg Kunstmuseum",
+                "ro": "Esbjerg Kunstmuseum",
+                "en": "Esbjerg Kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Das Kunstmuseum ist der perfekte Ort, um den Vormittagsregen zu überbrücken; erkunden Sie die modernen Installationen in den trockenen Galerieräumen.",
+                "hu": "A Kunstmuseum tökéletes hely a délelőtti eső átvészelésére; fedezze fel a modern installációkat a száraz kiállítótermekben, amíg kint esik.",
+                "ro": "Muzeul de Artă este locul perfect pentru a evita ploaia de dimineață; explorați instalațiile moderne în sălile de galerie uscate și primitoare.",
+                "en": "The Art Museum is the perfect place to bridge the morning rain; explore the modern installations in the dry gallery rooms while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lykkens Have",
+                "hu": "Lykkens Have",
+                "ro": "Lykkens Have",
+                "en": "Lykkens Have"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm bereit, während Sie durch diesen Garten wandern; die Skulpturen wirken im nassen Glanz besonders eindrucksvoll und mystisch.",
+                "hu": "Tartsa készenlétben az esernyőjét a kert felfedezése közben; a szobrok a nedves csillogásban különösen hatásos és misztikus látványt nyújtanak.",
+                "ro": "Țineți umbrela la îndemână în timp ce vă plimbați prin grădină; sculpturile arată deosebit de impresionante și mistice în strălucirea ploii.",
+                "en": "Keep your umbrella ready while wandering through this garden; the sculptures look particularly impressive and mystical in the wet sheen."
+              }
+            },
+            {
+              "name": {
+                "de": "Lydlegeplads",
+                "hu": "Lydlegeplads",
+                "ro": "Lydlegeplads",
+                "en": "Lydlegeplads"
+              },
+              "tip_5lang": {
+                "de": "Die Klanginstallationen hören sich im Regen ganz anders an; tragen Sie wasserfeste Handschuhe, um die Metallinstrumente ohne nasse Hände zu bedienen.",
+                "hu": "A hanginstallációk az esőben egészen másképp szólnak; viseljen vízálló kesztyűt, hogy vizes kéz nélkül használhassa a fém hangszereket a szabadban.",
+                "ro": "Instalațiile sonore sună complet diferit în ploaie; purtați mănuși impermeabile pentru a folosi instrumentele metalice fără a vă uda pe mâini.",
+                "en": "The sound installations sound quite different in the rain; wear waterproof gloves to operate the metal instruments without getting your hands wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Vognbølparkens Legeplads",
+                "hu": "Vognbølparkens Legeplads",
+                "ro": "Vognbølparkens Legeplads",
+                "en": "Vognbølparkens Legeplads"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen, wenn der Schauer stärker wird; die hölzernen Spielgeräte können bei Nässe etwas rutschig sein.",
+                "hu": "Keressen menedéket a nagy fák alatt, ha felerősödik a zápor; a fa játékok nedvesen csúszósak lehetnek, így óvatosan használja azokat a gyerekekkel.",
+                "ro": "Căutați adăpost sub copacii mari dacă ploaia se intensifică; echipamentele de joacă din lemn pot fi alunecoase când sunt ude, deci atenție sporită.",
+                "en": "Seek shelter under the large trees if the shower intensifies; the wooden play equipment can be a bit slippery when wet, so use caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Vognsbøl Sø",
+                "hu": "Vognsbøl Sø",
+                "ro": "Vognsbøl Sø",
+                "en": "Vognsbøl Sø"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den nebligen Blick über das Wasser; nutzen Sie die asphaltierten Wege rund um den See, um Matsch an den Schuhen zu vermeiden.",
+                "hu": "Élvezze a ködös kilátást a víz felett; használja a tó körüli aszfaltozott utakat, hogy elkerülje a sarat a cipőjén a séta végén.",
+                "ro": "Bucurați-vă de vederea cețoasă peste apă; folosiți potecile asfaltate din jurul lacului pentru a evita noroiul pe încălțăminte la final.",
+                "en": "Enjoy the misty view over the water; use the paved paths around the lake to avoid mud on your shoes at the end of the walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie einen klaren Wintermorgen im warmen Museum. Mittags geht es durch die frostigen Parks, wo die frische Luft belebt. Am Nachmittag bewundern Sie die winterliche Stille an den Seen, bevor gegen 17:00 Uhr die Dunkelheit einbricht. Kleiden Sie sich in warmen Schichten, da der Wind von der Nordsee im Winter in Esbjerg besonders kräftig wehen kann.",
+            "hu": "Töltsön el egy tiszta téli reggelt a meleg múzeumban. Délben a fagyos parkokon át vezet az út, ahol a friss levegő élénkítő. Délután a tavak téli csendjét csodálhatjuk meg, mielőtt 17:00 körül leszáll az éj. Öltözzön rétegesen, mert az Északi-tenger felől fújó szél télen Esbjergben különösen metsző lehet.",
+            "ro": "Experimentați o dimineață senină de iarnă în căldura muzeului. La prânz, traseul trece prin parcurile înghețate, unde aerul proaspăt este revigorant. După-amiaza admirăm liniștea hibernală a lacurilor, înainte ca întunericul să se lase în jur de ora 17:00. Îmbrăcați-vă în straturi groase, deoarece vântul de la Marea Nordului poate fi tăios.",
+            "en": "Experience a clear winter morning in the warmth of the museum. At noon, the route leads through frosty parks where the fresh air is invigorating. In the afternoon, admire the wintry silence at the lakes before darkness falls around 17:00. Dress in warm layers as the North Sea wind can be particularly sharp in Esbjerg during winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esbjerg Kunstmuseum",
+                "hu": "Esbjerg Kunstmuseum",
+                "ro": "Esbjerg Kunstmuseum",
+                "en": "Esbjerg Kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Galerien auf; die großen Fenster bieten einen wunderbaren Blick auf den blassen Winterhimmel über der Stadt.",
+                "hu": "Melegedjen fel a galériákban; a hatalmas ablakok csodálatos kilátást nyújtanak a város feletti halvány téli égboltra a séta elején.",
+                "ro": "Încălziți-vă în galerii; ferestrele mari oferă o vedere minunată asupra cerului palid de iarnă deasupra orașului la începutul plimbării.",
+                "en": "Warm up in the galleries; the large windows offer a wonderful view of the pale winter sky over the city at the start of your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Lykkens Have",
+                "hu": "Lykkens Have",
+                "ro": "Lykkens Have",
+                "en": "Lykkens Have"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Pflanzen und frostigen Skulpturen bilden eine einzigartige Kulisse; gehen Sie vorsichtig auf den vereisten Kieswegen im Garten.",
+                "hu": "A fagyott növények és zúzmarás szobrok egyedi látványt nyújtanak; járjon óvatosan a kert esetlegesen jeges kavicsos ösvényein a hidegben.",
+                "ro": "Plantele înghețate și sculpturile brumate creează un decor unic; mergeți cu atenție pe aleile cu pietriș care pot fi înghețate în grădină.",
+                "en": "The frozen plants and frosty sculptures create a unique backdrop; walk carefully on the potentially icy gravel paths in the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Lydlegeplads",
+                "hu": "Lydlegeplads",
+                "ro": "Lydlegeplads",
+                "en": "Lydlegeplads"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Klangstationen; halten Sie Ihre Hände zwischen den Experimenten in den warmen Taschen, um sie vor Frost zu schützen.",
+                "hu": "Egy rövid megálló a hangállomásoknál; két kísérlet között tartsa a kezét a meleg zsebében, hogy megvédje a fagyos téli levegőtől.",
+                "ro": "O scurtă oprire la stațiile sonore; țineți mâinile în buzunarele calde între experimente pentru a le proteja de aerul înghețat de iarnă.",
+                "en": "A short stop for the sound stations; keep your hands in warm pockets between experiments to protect them from the freezing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Vognbølparkens Legeplads",
+                "hu": "Vognbølparkens Legeplads",
+                "ro": "Vognbølparkens Legeplads",
+                "en": "Vognbølparkens Legeplads"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Kinder schnell herumlaufen, um warm zu bleiben; die Holzstrukturen können bei Frost sehr rutschig und kalt sein.",
+                "hu": "Hagyja a gyerekeket gyorsan szaladgálni, hogy melegen tartsák magukat; a fa szerkezetek fagyban nagyon csúszósak és hidegek lehetnek.",
+                "ro": "Lăsați copiii să alerge puțin pentru a se încălzi; structurile din lemn pot fi foarte alunecoase și reci pe timp de îngheț.",
+                "en": "Let the children run around quickly to stay warm; the wooden structures can be very slippery and cold during frost conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Vognsbøl Sø",
+                "hu": "Vognsbøl Sø",
+                "ro": "Vognsbøl Sø",
+                "en": "Vognsbøl Sø"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr über dem See; die klare Winterluft macht die Farben am Horizont besonders intensiv.",
+                "hu": "Nézze meg a korai, 17:00 körüli naplementét a tó felett; a tiszta téli levegő különösen intenzívvé teszi a színeket a látóhatáron.",
+                "ro": "Urmăriți apusul devreme, în jur de ora 17:00, peste lac; aerul clar de iarnă face culorile de la orizont deosebit de intense.",
+                "en": "Watch the early sunset around 17:00 over the lake; the clear winter air makes the colors on the horizon exceptionally intense."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját egy kis kultúrával az Esbjerg Kunstmuseumban. Délben tekerjen kelet felé, hogy felfedezze a Hermans Hule-t és a Lergravssøen szépségét. A délutáni út nyugatra vezet a Vognsbøl Sø és a Sildesøen körüli kiterjedt természeten keresztül. Zárja aktív napját az Aqtiv vízi sportokat és egyedülálló kikapcsolódást kínáló esti programjával a parton.",
         "ro": "Începeți turul cu bicicleta cu o doză de cultură la Esbjerg Kunstmuseum. Până la amiază, pedalați spre est pentru a descoperi Hermans Hule și frumusețea Lergravssøen. Călătoria de după-amiază vă duce spre vest prin natura vastă din jurul Vognsbøl Sø și Sildesøen. Încheiați ziua activă cu o seară de emoție a sporturilor nautice sau relaxare la Aqtiv.",
         "en": "Kick off your cycling tour with a dose of culture at the Esbjerg Kunstmuseum. By midday, pedal eastward to discover the indoor fun of Hermans Hule and the quiet beauty of Lergravssøen. The afternoon ride takes you west through the expansive nature surrounding Vognsbøl Sø and Sildesøen. Conclude your active day with an evening of watersport excitement or relaxation at Aqtiv."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour mit einem Museumsbesuch im Trockenen. Die Fahrt zum Indoor-Spielpark und zu den Seen erfordert gute Regenbekleidung und Vorsicht bei Kurven auf nassen Wegen. Am Nachmittag radeln Sie durch die neblige Naturlandschaft, bevor Sie den Tag in einem geschützten Aktivitätszentrum beenden. Genießen Sie die frische Meeresbrise trotz des dänischen Regenwetters.",
+            "hu": "Kezdje a kerékpártúrát egy száraz múzeumi látogatással. A fedett játszóházhoz és a tavakhoz vezető út jó esőruházatot és óvatos kanyarodást igényel a nedves utakon. Délután a ködös természetben tekerünk, majd a napot egy védett szabadidőközpontban zárjuk. Élvezze a friss tengeri szellőt a dán esős idő ellenére is.",
+            "ro": "Începeți turul cu bicicleta cu o vizită la muzeu, la uscat. Drumul spre parcul de joacă interior și lacuri necesită echipament de ploaie bun și prudență în curbe pe asfaltul ud. După-amiaza pedalăm prin natură sub un cer cețos, apoi încheiem ziua într-un centru de activități protejat. Bucurați-vă de briza mării în ciuda ploii.",
+            "en": "Start your bike tour with a dry museum visit. The ride to the indoor play park and the lakes requires good rain gear and caution during turns on wet paths. In the afternoon, cycle through the misty nature before ending the day in a sheltered activity center. Enjoy the fresh sea breeze despite the Danish rainy weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esbjerg Kunstmuseum",
+                "hu": "Esbjerg Kunstmuseum",
+                "ro": "Esbjerg Kunstmuseum",
+                "en": "Esbjerg Kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang; das Museum ist der beste Ort, um den ersten Schauer des Tages bei moderner Kunst abzuwarten.",
+                "hu": "Parkoljon közvetlenül a bejáratnál; a múzeum a legjobb hely, hogy a modern művészetek között várja meg a nap első nagy záporát.",
+                "ro": "Parcați bicicleta aproape de intrare; muzeul este cel mai bun loc pentru a aștepta prima rafală de ploaie a zilei printre opere de artă.",
+                "en": "Park your bike close to the entrance; the museum is the best place to wait out the day's first heavy shower among modern art."
+              }
+            },
+            {
+              "name": {
+                "de": "Hermans Hule",
+                "hu": "Hermans Hule",
+                "ro": "Hermans Hule",
+                "en": "Hermans Hule"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Zufluchtsort für Familien; nutzen Sie die Pause, um Ihre Regenbekleidung zu trocknen, während die Kinder geschützt spielen.",
+                "hu": "Ideális fedett menedék családoknak; használja ki a szünetet az esőruházat megszárítására, amíg a gyerekek biztonságban és szárazon játszanak.",
+                "ro": "Un refugiu interior ideal pentru familii; profitați de pauză pentru a vă usca echipamentul de ploaie în timp ce copiii se joacă la adăpost.",
+                "en": "An ideal indoor refuge for families; use the break to dry your rain gear while the children play safely and protected indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Lergravssøen",
+                "hu": "Lergravssøen",
+                "ro": "Lergravssøen",
+                "en": "Lergravssøen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf dem Radweg um den See; die herbstliche Atmosphäre im Regen ist hier besonders ruhig und friedlich.",
+                "hu": "Ügyeljen a nedves levelekre a tó körüli kerékpárúton; az esőben az őszi hangulat itt különösen nyugodt és békés a tekeréshez.",
+                "ro": "Atenție la frunzele ude de pe pista de biciclete din jurul lacului; atmosfera de toamnă în ploaie este aici deosebit de calmă și liniștită.",
+                "en": "Watch out for wet leaves on the bike path around the lake; the autumnal atmosphere in the rain is particularly calm and peaceful here."
+              }
+            },
+            {
+              "name": {
+                "de": "Vognsbøl Sø",
+                "hu": "Vognsbøl Sø",
+                "ro": "Vognsbøl Sø",
+                "en": "Vognsbøl Sø"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker fest, da der Wind am Wasser böig sein kann; der Asphaltweg bietet auch bei Regen eine gute Bodenhaftung.",
+                "hu": "Fogja erősen a kormányt, mert a vízparton szeles lehet az idő; az aszfaltozott út esőben is jó tapadást biztosít a kerékpárnak.",
+                "ro": "Țineți bine ghidonul, deoarece vântul poate fi puternic lângă apă; drumul asfaltat oferă o aderență bună chiar și pe ploaie.",
+                "en": "Keep a firm grip on the handlebars as the wind can be gusty near the water; the paved path offers good traction even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sildesøen",
+                "hu": "Sildesøen",
+                "ro": "Sildesøen",
+                "en": "Sildesøen"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zur Vogelbeobachtung; die dichten Uferbäume bieten einen kleinen natürlichen Schutz vor direktem Regen während der Fahrt.",
+                "hu": "Egy rövid megálló madármegfigyelésre; a sűrű parti fák némi természetes védelmet nyújtanak a közvetlen eső ellen tekerés közben.",
+                "ro": "O scurtă oprire pentru observarea păsărilor; copacii de pe mal oferă o mică protecție naturală împotriva ploii directe în timpul drumului.",
+                "en": "A short stop for bird watching; the dense trees along the shore provide some natural protection from direct rain while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqtiv",
+                "hu": "Aqtiv",
+                "ro": "Aqtiv",
+                "en": "Aqtiv"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit Indoor-Aktivitäten nach der Fahrt im Regen; die moderne Halle ist der perfekte Ort, um den Tag warm und trocken zu beenden.",
+                "hu": "Jutalmazza meg magát fedett programokkal az esős tekerés után; a modern csarnok tökéletes hely a nap meleg és száraz befejezéséhez.",
+                "ro": "Răsplătiți-vă cu activități în interior după tura prin ploaie; sala modernă este locul perfect pentru a încheia ziua la căldură și uscat.",
+                "en": "Reward yourself with indoor activities after the rainy ride; the modern hall is the perfect place to end the day warm and dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich auf eine erfrischende Wintertour durch Esbjerg vor. Starten Sie im warmen Museum und radeln Sie dann gut eingepackt zu den verschiedenen Seen, die oft von einer Frostschicht bedeckt sind. Nehmen Sie sich Zeit für Aufwärmpausen in den Indoor-Stationen. Da es früh dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+            "hu": "Készüljön fel egy frissítő téli túrára Esbjergben. Kezdjen a meleg múzeumban, majd jól beöltözve tekerjen a különböző tavakhoz, melyeket gyakran zúzmara borít. Szánjon időt a bemelegedésre a fedett állomásokon. Mivel korán sötétedik, mindenképpen ellenőrizze, hogy a kerékpáros világítás tökéletesen működik-e.",
+            "ro": "Pregătiți-vă pentru un tur revigorant de iarnă prin Esbjerg. Începeți în muzeul călduros, apoi pedalați bine echipat spre lacurile care sunt adesea acoperite de brumă. Faceți pauze de încălzire în stațiile interioare. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei funcționează perfect.",
+            "en": "Prepare for a refreshing winter tour through Esbjerg. Start in the warm museum and then, well-wrapped, cycle to the various lakes often covered in frost. Take time for warming breaks at the indoor stations. As it gets dark early, ensure your bike lighting is working perfectly for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esbjerg Kunstmuseum",
+                "hu": "Esbjerg Kunstmuseum",
+                "ro": "Esbjerg Kunstmuseum",
+                "en": "Esbjerg Kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Körpertemperatur auf Betriebstemperatur zu bringen, bevor Sie in die kalte Meeresluft hinausradeln.",
+                "hu": "Használja ki a múzeumi látogatást, hogy üzemi hőmérsékletre melegedjen, mielőtt kimerészkedne a hideg tengeri levegőre kerékpározni.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi corpul înainte de a ieși în aerul rece al mării pentru a pedala spre următoarea oprire.",
+                "en": "Use the museum visit to bring your body temperature up to operating level before heading out into the cold sea air for your cycle ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Hermans Hule",
+                "hu": "Hermans Hule",
+                "ro": "Hermans Hule",
+                "en": "Hermans Hule"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Spielcenter ist ein warmes Paradies im Winter; machen Sie hier eine lange Pause, um sich vor der nächsten Etappe aufzuwärmen.",
+                "hu": "Ez a fedett játszóház valóságos meleg paradicsom télen; tartson itt egy hosszabb szünetet a bemelegedéshez a következő szakasz előtt.",
+                "ro": "Acest centru de joacă interior este un paradis călduros iarna; faceți o pauză lungă aici pentru a vă încălzi înainte de următoarea etapă.",
+                "en": "This indoor play center is a warm paradise in winter; take a long break here to warm up thoroughly before the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Lergravssøen",
+                "hu": "Lergravssøen",
+                "ro": "Lergravssøen",
+                "en": "Lergravssøen"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene See ist ein herrlicher Anblick; bleiben Sie auf den geräumten Wegen, um verstecktes Eis unter dem Frost zu vermeiden.",
+                "hu": "A befagyott tó gyönyörű látvány; maradjon a letakarított utakon, hogy elkerülje a zúzmara alatti rejtett jégfoltokat tekerés közben.",
+                "ro": "Lacul înghețat este o priveliște superbă; rămâneți pe potecile curățate pentru a evita gheața ascunsă sub brumă în timpul mersului.",
+                "en": "The frozen lake is a magnificent sight; stay on the cleared paths to avoid hidden ice patches under the frost while cycling around."
+              }
+            },
+            {
+              "name": {
+                "de": "Vognsbøl Sø",
+                "hu": "Vognsbøl Sø",
+                "ro": "Vognsbøl Sø",
+                "en": "Vognsbøl Sø"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich wunderschön auf dem Wasser; tragen Sie eine windfeste Jacke gegen den kalten Luftzug beim schnellen Radeln.",
+                "hu": "A téli nap gyönyörűen tükröződik a vízen; viseljen szélálló kabátot a hideg huzat ellen a tó körüli nyitott szakaszon tekeréskor.",
+                "ro": "Soarele de iarnă se reflectă frumos pe apă; purtați o jachetă rezistentă la vânt împotriva curentului rece în zona deschisă a lacului.",
+                "en": "The winter sun reflects beautifully on the water; wear a windproof jacket against the cold draft while cycling in the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Sildesøen",
+                "hu": "Sildesøen",
+                "ro": "Sildesøen",
+                "en": "Sildesøen"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment in der frostigen Natur; die kahlen Bäume ermöglichen im Winter einen viel weiteren Blick über die offene Landschaft.",
+                "hu": "Csendes pillanat a fagyos természetben; a kopasz fák télen sokkal tágabb kilátást tesznek lehetővé a nyílt táj felé a tóparton.",
+                "ro": "Un moment liniștit în natura înghețată; copacii golași permit iarna o vedere mult mai largă asupra peisajului deschis de lângă lac.",
+                "en": "A quiet moment in the frosty nature; the bare trees allow for a much wider view of the open landscape around the lake in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqtiv",
+                "hu": "Aqtiv",
+                "ro": "Aqtiv",
+                "en": "Aqtiv"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit etwas Sport im beheizten Gebäude auf, bevor Sie die letzte Strecke der Tour bei Einbruch der Dunkelheit antreten.",
+                "hu": "Melegedjen fel egy kis sporttal a fűtött épületben, mielőtt a túra utolsó szakaszát megkezdené a korán leszálló sötétségben.",
+                "ro": "Încălziți-vă cu puțin sport în clădirea încălzită înainte de a parcurge ultima etapă a turului odată cu lăsarea întunericului.",
+                "en": "Warm up with some sports in the heated building before taking on the last stretch of the tour as darkness begins to fall early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autós kirándulás a központban, az Esbjerg Kunstmuseum elgondolkodtató művészetével kezdődik. A dél a nyugati partra viszi, hogy energiát gyűjtsön a modern Aqtiv központban. Délután észak felé haladva élvezze a Spangsbjerg Møllesø és a Kvaglund Sø csendes vizeit. A nap a festői és hihetetlenül békés Gjesing Sø és Tarp Sø partján ér véget a messzi északon.",
         "ro": "Călătoria dvs. cu mașina începe central cu arta de la Esbjerg Kunstmuseum. Amiaza vă aduce pe coasta de vest pentru o explozie de energie la centrul modern Aqtiv. În timpul după-amiezii, conduceți spre nord pentru a experimenta apele liniștite de la Spangsbjerg Møllesø și Kvaglund Sø. Ziua se încheie în nordul îndepărtat cu pitoreștile Gjesing Sø și Tarp Sø.",
         "en": "Your road trip starts centrally with thought-provoking art at the Esbjerg Kunstmuseum. Midday brings you to the western coast for a burst of energy at the modern Aqtiv center. During the afternoon, drive north to experience the tranquil waters of Spangsbjerg Møllesø and Kvaglund Sø. Your day concludes far north with the picturesque and incredibly peaceful Gjesing Sø and Tarp Sø."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine komfortable Autotour durch das verregnete Esbjerg. Starten Sie im Kunstmuseum und fahren Sie bequem zu den verschiedenen Seen, die bei grauem Himmel eine dramatische Atmosphäre ausstrahlen. Kurze Wege vom Parkplatz ermöglichen Naturerlebnisse ohne nass zu werden. Beenden Sie den Tag in einem geschützten Aktivitätszentrum, während draußen der Regen gegen die Scheiben trommelt.",
+            "hu": "Élvezze a kényelmes autós túrát az esős Esbjergben. Kezdjen a Kunstmúzeumban, majd autózzon a tavakhoz, melyek a szürke ég alatt drámai hangulatot árasztanak. A parkolótól vezető rövid utak lehetővé teszik a természet élvezetét anélkül, hogy bőrig ázna. Zárja a napot egy védett szabadidőközpontban, miközben kint az eső veri az ablakokat.",
+            "ro": "Bucurați-vă de un tur auto confortabil prin Esbjergul ploios. Începeți la muzeu, apoi conduceți spre lacurile care emană o atmosferă dramatică sub cerul gri. Distanțele scurte de la parcare permit experiențe în natură fără a vă uda. Încheiați ziua într-un centru de activități protejat, în timp ce afară ploaia bate în geamuri.",
+            "en": "Enjoy a comfortable car tour through rainy Esbjerg. Start at the art museum and drive conveniently to the various lakes, which radiate a dramatic atmosphere under grey skies. Short walks from the parking areas allow for nature experiences without getting soaked. End the day in a sheltered activity center while the rain drums against the windows outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esbjerg Kunstmuseum",
+                "hu": "Esbjerg Kunstmuseum",
+                "ro": "Esbjerg Kunstmuseum",
+                "en": "Esbjerg Kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt am Museum vorhanden; genießen Sie moderne Kunst im Trockenen, während es draußen in Esbjerg ungemütlich regnet.",
+                "hu": "A parkolók közvetlenül a múzeumnál találhatók; élvezze a modern művészetet szárazon, amíg kint barátságtalan, esős az idő Esbjergben.",
+                "ro": "Parcările sunt disponibile chiar lângă muzeu; bucurați-vă de arta modernă la adăpost, în timp ce afară plouă neîncetat în Esbjerg.",
+                "en": "Parking is available directly at the museum; enjoy modern art in the dry while it rains unpleasantly outside in Esbjerg today."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqtiv",
+                "hu": "Aqtiv",
+                "ro": "Aqtiv",
+                "en": "Aqtiv"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp bei Regen; lassen Sie die nassen Jacken im Auto und nutzen Sie die vielfältigen Indoor-Sportmöglichkeiten der Anlage.",
+                "hu": "Kiváló megálló esőben; hagyja a vizes kabátokat az autóban, és használja ki a létesítmény változatos fedett sportolási lehetőségeit.",
+                "ro": "O oprire excelentă pe ploaie; lăsați jachetele ude în mașină și profitați de diversele facilități sportive interioare ale complexului.",
+                "en": "An excellent stop in the rain; leave your wet jackets in the car and make use of the facility's diverse indoor sporting opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Spangsbjerg Møllesø",
+                "hu": "Spangsbjerg Møllesø",
+                "ro": "Spangsbjerg Møllesø",
+                "en": "Spangsbjerg Møllesø"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im grauen Licht besonders atmosphärisch; der kurze Weg vom Parkplatz ist befestigt und auch bei Regen gut begehbar.",
+                "hu": "A tó a szürke fényben különösen hangulatos; a parkolóból vezető rövid út burkolt, így esőben is jól járható egy gyors sétához.",
+                "ro": "Lacul arată deosebit de atmosferic în lumina gri; drumul scurt de la parcare este pavat și ușor de parcurs chiar și pe ploaie.",
+                "en": "The lake looks particularly atmospheric in the grey light; the short path from the parking lot is paved and easy to walk even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kvaglund Sø",
+                "hu": "Kvaglund Sø",
+                "ro": "Kvaglund Sø",
+                "en": "Kvaglund Sø"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Wasseroberfläche; es gibt Stellen am Seeufer, die Sie fast direkt vom Auto aus bewundern können.",
+                "hu": "Figyelje az esőcseppeket a víz felszínén; a tóparton több olyan pont is van, amelyet szinte közvetlenül az autóból is megcsodálhat.",
+                "ro": "Observați picăturile de ploaie pe suprafața apei; există locuri pe malul lacului pe care le puteți admira aproape direct din mașină.",
+                "en": "Watch the raindrops on the water surface; there are spots along the lakeshore that you can admire almost directly from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gjesing Sø",
+                "hu": "Gjesing Sø",
+                "ro": "Gjesing Sø",
+                "en": "Gjesing Sø"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Wasser lohnt sich auch bei Regen; nutzen Sie einen großen Schirm, um die waldigen Uferbereiche trocken zu erkunden.",
+                "hu": "Egy rövid séta a víznél esőben is megéri; használjon egy nagy esernyőt, hogy szárazon fedezze fel az erdős parti részeket a tónál.",
+                "ro": "O scurtă plimbare lângă apă merită chiar și pe ploaie; folosiți o umbrelă mare pentru a explora zonele împădurite de pe mal la uscat.",
+                "en": "A short walk by the water is worth it even in the rain; use a large umbrella to explore the wooded shore areas while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarp Sø",
+                "hu": "Tarp Sø",
+                "ro": "Tarp Sø",
+                "en": "Tarp Sø"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Stimmung am Stadtrand ist magisch; beenden Sie die Tour mit einem friedlichen Blick auf die regenverhangene dänische Landschaft.",
+                "hu": "A ködös hangulat a város szélén varázslatos; zárja a túrát békés kilátással az eső áztatta dán tájra közvetlenül az autó közeléből.",
+                "ro": "Atmosfera cețoasă de la marginea orașului este magică; încheiați turul cu o vedere liniștită asupra peisajului danez sub ploaie.",
+                "en": "The misty mood at the edge of town is magical; end the tour with a peaceful view of the rain-swept Danish landscape from your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie eine gemütliche winterliche Rundfahrt zu den Seen von Esbjerg. Die Autoheizung sorgt für Wärme zwischen den frostigen Fotostopps an den Gewässern. Beginnen Sie kulturell im Museum und genießen Sie dann die klare, kalte Winterlandschaft Dänemarks. Da die Sonne bereits gegen 17:00 Uhr untergeht, bieten die späten Stopps eine wunderbare Gelegenheit, die blaue Stunde am Wasser zu erleben.",
+            "hu": "Éljen át egy barátságos téli körutazást Esbjerg tavai körül. Az autó fűtése biztosítja a meleget a fagyos fotómegállók között. Kezdje kulturális élménnyel a múzeumban, majd élvezze Dánia tiszta, hideg téli tájait. Mivel a nap már 17:00 körül lemegy, az utolsó megállók remek alkalmat kínálnak a kék óra megélésére a vízparton.",
+            "ro": "Experimentați un tur de iarnă plăcut în jurul lacurilor din Esbjerg. Încălzirea mașinii vă asigură confortul între opririle foto înghețate de pe malul apelor. Începeți cultural la muzeu, apoi bucurați-vă de peisajul de iarnă clar și rece. Deoarece soarele apune în jur de ora 17:00, ultimele opriri sunt ideale pentru a surprinde ora albastră.",
+            "en": "Experience a cozy winter driving tour around the lakes of Esbjerg. The car heater provides warmth between frosty photo stops at the waterside. Start culturally at the museum and then enjoy Denmark's clear, cold winter landscape. As the sun sets around 17:00, the late stops offer a wonderful opportunity to experience the blue hour by the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esbjerg Kunstmuseum",
+                "hu": "Esbjerg Kunstmuseum",
+                "ro": "Esbjerg Kunstmuseum",
+                "en": "Esbjerg Kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start in den Tag; die moderne Architektur des Museums wirkt im harten Winterlicht der Nordsee besonders präzise und beeindruckend.",
+                "hu": "Meleg kezdés a naphoz; a múzeum modern építészete az Északi-tenger éles téli fényében különösen precíz és lenyűgöző látványt nyújt.",
+                "ro": "Un început călduros de zi; arhitectura modernă a muzeului arată deosebit de precis și impresionant în lumina aspră de iarnă a Mării Nordului.",
+                "en": "A warm start to your day; the museum's modern architecture looks particularly sharp and impressive in the harsh North Sea winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqtiv",
+                "hu": "Aqtiv",
+                "ro": "Aqtiv",
+                "en": "Aqtiv"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um Kinder in beheizter Umgebung aktiv werden zu lassen, wenn es draußen für längere Aufenthalte zu kalt ist.",
+                "hu": "Tökéletes hely, ahol a gyerekek fűtött környezetben mozoghatnak, amikor kint túl hideg van a hosszabb szabadtéri tartózkodáshoz.",
+                "ro": "Locul perfect pentru a lăsa copiii să fie activi într-un mediu încălzit, când afară este prea frig pentru activități prelungite.",
+                "en": "The perfect place to let children get active in a heated environment when it's too cold outside for extended outdoor stays."
+              }
+            },
+            {
+              "name": {
+                "de": "Spangsbjerg Møllesø",
+                "hu": "Spangsbjerg Møllesø",
+                "ro": "Spangsbjerg Møllesø",
+                "en": "Spangsbjerg Møllesø"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Schilf am Wasser ist sehr fotogen; achten Sie beim Aussteigen auf glatte Stellen auf dem oft ungestreuten Parkplatz.",
+                "hu": "A befagyott nádas a víznél nagyon fotogén; kiszálláskor ügyeljen a csúszós foltokra a gyakran nem takarított parkoló területén.",
+                "ro": "Stufărișul înghețat de lângă apă este foarte fotogenic; la coborâre, atenție la porțiunile alunecoase din parcarea care poate fi înghețată.",
+                "en": "The frozen reeds by the water are very photogenic; watch out for slippery patches in the often untreated parking area when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kvaglund Sø",
+                "hu": "Kvaglund Sø",
+                "ro": "Kvaglund Sø",
+                "en": "Kvaglund Sø"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stille Winterlandschaft aus der Wärme Ihres Wagens oder machen Sie einen kurzen, belebenden Spaziergang zum Steg.",
+                "hu": "Élvezze a csendes téli tájat kocsija melegéből, vagy tegyen egy rövid, élénkítő sétát a stéghez a friss, fagyos levegőn.",
+                "ro": "Bucurați-vă de peisajul liniștit de iarnă din căldura mașinii sau faceți o scurtă plimbare revigorantă până la ponton în aerul rece.",
+                "en": "Enjoy the quiet winter landscape from the warmth of your car or take a short, invigorating walk to the jetty in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Gjesing Sø",
+                "hu": "Gjesing Sø",
+                "ro": "Gjesing Sø",
+                "en": "Gjesing Sø"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten über den See; tragen Sie Ihren wärmsten Mantel für diesen malerischen Stopp im Freien.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a tóra; viselje a legmelegebb kabátját ehhez a festői szabadtéri megállóhoz.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste lac; purtați cea mai groasă haină pentru această oprire pitorească în aer liber.",
+                "en": "The low winter sun casts long shadows over the lake; wear your warmest coat for this picturesque outdoor stop in the frosty landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarp Sø",
+                "hu": "Tarp Sø",
+                "ro": "Tarp Sø",
+                "en": "Tarp Sø"
+              },
+              "tip_5lang": {
+                "de": "Bei Einbruch der Dunkelheit gegen 17:00 Uhr schaffen die Lichter um den See einen gemütlichen Abschluss Ihrer winterlichen Autotour.",
+                "hu": "A sötétség beálltakor, 17:00 körül a tó körüli fények meghitt és hangulatos lezárást adnak a téli autós körútnak a város szélén.",
+                "ro": "Odată cu lăsarea întunericului în jur de ora 17:00, luminile din jurul lacului creează un final primitor pentru turul tău auto de iarnă.",
+                "en": "As darkness falls around 17:00, the lights around the lake create a cozy and atmospheric conclusion to your winter driving tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

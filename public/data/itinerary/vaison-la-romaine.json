@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt a rómaiak nyomdokain haladva a Site de la Villasse romjainál, majd fedezze fel a katedrálist. Délben a római hídon át a festői Haute-Ville-be érkezik. A délutánt a vár meghódításával és a lenyűgöző Site du Puymin felfedezésével töltheti. A nap csodálatosan zárul, amikor naplementekor megcsodálja a fenséges ókori színházat.",
         "ro": "Începeți dimineața pe urmele romanilor la Site de la Villasse, înainte de a explora superba Catedrală. La prânz veți traversa vechiul pod roman spre pitorescul Haute-Ville. Petreceți-vă după-amiaza urcând la castel și descoperind impresionantul Site du Puymin. Ziua se încheie minunat cu o vizită la teatrul antic la apusul soarelui.",
         "en": "Begin your morning tracing the footsteps of Romans at Site de la Villasse before exploring the magnificent Cathedral. Midday brings you across the resilient Roman Bridge into the picturesque Haute-Ville. Spend your afternoon scaling the castle heights and discovering the impressive Site du Puymin. The day concludes wonderfully with a visit to the ancient theater at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt zwischen den römischen Villen, wo der Regen die Farben der Mosaike leuchten lässt. Mittags bietet die Kathedrale einen trockenen Zufluchtsort. Nachmittags erkunden wir die Haute-Ville, deren enge Gassen natürlichen Schutz bieten. Den Abend verbringen wir im beheizten Museum, um die antiken Schätze im Trockenen zu bewundern.",
+            "hu": "Reggel a Villasse romjai közt kezdünk, ahol az eső kiemeli a mozaikok színeit. Délben a katedrális nyújt menedéket a zápor elől. Délután a Haute-Ville szűk utcáin sétálunk, ahol a házak ereszei védenek. Este a múzeum fűtött termeiben zárjuk a napot, megcsodálva a római szobrokat a zuhogó eső elől menekülve.",
+            "ro": "Dimineața începe printre ruinele de la Villasse, unde ploaia intensifică culorile mozaicurilor. La prânz, catedrala oferă un refugiu uscat. După-amiaza explorăm Haute-Ville, unde străzile înguste oferă protecție naturală. Seara se încheie în muzeul încălzit, locul perfect pentru a admira antichitățile la adăpost.",
+            "en": "The morning begins among the Roman villas, where rain makes the mosaic colors pop. At noon, the cathedral provides a dry sanctuary. Afternoon is spent in the Haute-Ville, where narrow streets offer natural shelter. Evening ends in the heated museum, the perfect place to admire ancient treasures while staying dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Site de la Villasse",
+                "hu": "Site de la Villasse",
+                "ro": "Site de la Villasse",
+                "en": "Site de la Villasse"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus der Silberbüste; die vizes römischen Steine sind sehr rutschig, tragen Sie daher unbedingt festes Schuhwerk mit gutem Profil.",
+                "hu": "Nézze meg az Ezüst mellszobor házát; a vizes római kövek rendkívül csúszósak, ezért viseljen tapadós talpú, vízálló cipőt a biztonságos sétához.",
+                "ro": "Vizitați Casa Bustului de Argint; pietrele romane umede sunt foarte alunecoase, deci purtați încălțăminte impermeabilă cu talpă aderentă pentru siguranță.",
+                "en": "Visit the House of the Silver Bust; the wet Roman stones are extremely slippery, so wear waterproof shoes with good grip for a safe walk through the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Notre-Dame-de-Nazareth",
+                "hu": "Cathédrale Notre-Dame-de-Nazareth",
+                "ro": "Catedrala Notre-Dame-de-Nazareth",
+                "en": "Cathédrale Notre-Dame-de-Nazareth"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den romanischen Kreuzgang; dieser überdachte Bereich bietet perfekten Schutz vor Regen, während Sie die kunstvollen Kapitelle studieren.",
+                "hu": "Csodálja meg a román stílusú kolostort; ez a fedett rész tökéletes védelmet nyújt az eső elől, miközben a díszes oszlopfőket tanulmányozza.",
+                "ro": "Admirați claustrul romanic; această zonă acoperită oferă protecție perfectă împotriva ploii în timp ce studiați capitelurile sculptate cu grijă.",
+                "en": "Admire the Romanesque cloister; this covered area provides perfect protection from the rain while you study the intricately carved stone capitals."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die reißende Ouvèze; halten Sie sich am Geländer fest, da der Wind auf der Brücke bei Regen oft stark und unberechenbar zunimmt.",
+                "hu": "Figyelje meg a megduzzadt Ouvèze folyót; kapaszkodjon erősen a korlátba, mert a hídon az esős szél gyakran felerősödik és váratlanul érheti.",
+                "ro": "Observați râul Ouvèze învolburat; țineți-vă bine de balustradă, deoarece vântul pe pod devine adesea puternic și imprevizibil în timpul ploii.",
+                "en": "Observe the rushing Ouvèze river; hold firmly to the railing as the wind on the bridge often strengthens and can be unpredictable during a rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Haute-Ville",
+                "hu": "Haute-Ville",
+                "ro": "Haute-Ville",
+                "en": "Haute-Ville"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die steilen Gassen; nutzen Sie die Dachüberstände der mittelalterlichen Häuser als Schirmersatz auf dem Weg nach oben.",
+                "hu": "Sétáljon végig a meredek utcákon; használja a középkori házak ereszeit esernyőpótlékként a felfelé vezető úton a csúszós macskaköveken.",
+                "ro": "Plimbați-vă pe străzile abrupte; folosiți streșinile caselor medievale ca paravan împotriva ploii în timp ce urcați pe pavajul alunecos.",
+                "en": "Stroll through the steep alleys; use the eaves of the medieval houses as a substitute umbrella on your way up the slippery cobblestone paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Grafen von Toulouse",
+                "hu": "Toulouse grófjainak kastélya",
+                "ro": "Castelul Conților de Toulouse",
+                "en": "Castle of the Counts of Toulouse"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie die Festung für dramatische Ausblicke; die neblige Atmosphäre über dem Tal wirkt bei Regen besonders mystisch und geheimnisvoll.",
+                "hu": "Másszon fel a várba a drámai kilátásért; a völgy feletti ködös atmoszféra esőben különösen misztikus és titokzatos látványt nyújt a romoknál.",
+                "ro": "Urcați la castel pentru vederi dramatice; atmosfera cețoasă de deasupra văii este deosebit de mistică și misterioasă atunci când plouă afară.",
+                "en": "Climb to the fortress for dramatic views; the misty atmosphere over the valley looks particularly mystical and mysterious during a rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Site du Puymin",
+                "hu": "Site du Puymin",
+                "ro": "Site du Puymin",
+                "en": "Site du Puymin"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das antike Villenviertel; ein großer Regenschirm ist auf diesem weitläufigen Gelände unerlässlich, um die Ruinen trocken zu besichtigen.",
+                "hu": "Fedezze fel az antik villanegyedet; egy nagy esernyő elengedhetetlen ezen a tágas területen, hogy a romokat szárazon tudja körbejárni.",
+                "ro": "Explorați cartierul de vile antice; o umbrelă mare este esențială pe acest teren vast pentru a vizita ruinele fără a vă uda complet.",
+                "en": "Explore the ancient villa district; a large umbrella is essential on this sprawling site to visit the ruins without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Théo Desplans",
+                "hu": "Théo Desplans Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Théo Desplans",
+                "en": "Théo Desplans Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die kaiserlichen Statuen; dieses Museum ist der ideale Ort, um sich aufzuwärmen und die prachtvollen Mosaike im Trockenen zu studieren.",
+                "hu": "Tekintse meg a császári szobrokat; ez a múzeum ideális hely a felmelegedésre és a pompás mozaikok tanulmányozására a száraz belső terekben.",
+                "ro": "Vizitați statuile imperiale; acest muzeu este locul ideal pentru a vă încălzi și a studia mozaicurile superbe în spații interioare uscate.",
+                "en": "View the imperial statues; this museum is the ideal place to warm up and study the magnificent mosaics in dry, climate-controlled indoor rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Ókori Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theater"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Akustik im Regen; die nassen Steinstufen reflektieren das Licht wunderschön, seien Sie aber beim Abstieg extrem vorsichtig.",
+                "hu": "Tapasztalja meg az akusztikát esőben; a nedves kőlépcsők gyönyörűen tükrözik a fényt, de legyen rendkívül óvatos a lefelé haladáskor.",
+                "ro": "Experimentați acustica pe ploaie; treptele de piatră umede reflectă lumina superb, dar fiți extrem de precauți când coborâți pe gradene.",
+                "en": "Experience the acoustics in the rain; the wet stone steps reflect the light beautifully, but be extremely cautious when descending the tiers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen leuchten die römischen Steine unter dem blauen Himmel. Mittags genießen wir die Stille der Kathedrale. Da die Sonne bereits gegen 17:00 Uhr untergeht, steigen wir früh zur Haute-Ville auf, um das goldene Licht zu nutzen. Der Abend endet gemütlich im beheizten Museum, bevor die frostige Nacht einsetzt.",
+            "hu": "A tiszta téli reggelen a római kövek ragyognak a kék ég alatt. Délben a katedrális csendjét élvezzük. Mivel a nap már 17:00 körül lemegy, korán felkapaszkodunk a Haute-Ville-be az utolsó fényekért. A napot a múzeum fűtött termeiben zárjuk, mielőtt beköszönt a fagyos éjszaka.",
+            "ro": "În dimineața senină de iarnă, pietrele romane strălucesc sub cerul albastru. La prânz ne bucurăm de liniștea catedralei. Deoarece soarele apune deja în jur de ora 17:00, urcăm devreme în Haute-Ville. Seara se încheie confortabil în muzeul încălzit, înainte de noaptea geroasă.",
+            "en": "On a clear winter morning, Roman stones shine under the blue sky. At noon, we enjoy the silence of the cathedral. As the sun sets around 17:00, we climb to the Haute-Ville early for the golden light. The evening ends comfortably in the heated museum before the frosty night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Site de la Villasse",
+                "hu": "Site de la Villasse",
+                "ro": "Site de la Villasse",
+                "en": "Site de la Villasse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos; die tiefstehende Wintersonne hebt die Texturen der römischen Mauern besonders eindrucksvoll hervor.",
+                "hu": "Használja ki a tiszta reggeli fényt a fotózáshoz; az alacsonyan járó téli nap különösen hatásosan emeli ki a római falak textúráit.",
+                "ro": "Profitați de lumina clară a dimineții pentru fotografii; soarele jos de iarnă evidențiază texturile zidurilor romane într-un mod impresionant.",
+                "en": "Take advantage of the clear morning light for photos; the low winter sun highlights the textures of the ancient Roman walls very impressively."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Notre-Dame-de-Nazareth",
+                "hu": "Cathédrale Notre-Dame-de-Nazareth",
+                "ro": "Catedrala Notre-Dame-de-Nazareth",
+                "en": "Cathédrale Notre-Dame-de-Nazareth"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Kreuzgang zur Mittagszeit; die dicken Steinmauern sind im Winter sehr kalt, tragen Sie daher unbedingt mehrere warme Schichten.",
+                "hu": "Látogassa meg a kolostort délidőben; a vastag kőfalak télen nagyon hidegek, ezért mindenképpen viseljen több réteg meleg ruházatot.",
+                "ro": "Vizitați claustrul la prânz; zidurile groase de piatră sunt foarte reci iarna, așa că purtați neapărat mai multe straturi de haine groase.",
+                "en": "Visit the cloister at midday; the thick stone walls are very cold in winter, so be sure to wear multiple warm layers of clothing inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke zügig; der kalte Wind vom Fluss her kann im Winter sehr beißend sein, halten Sie Schal und Handschuhe bereit.",
+                "hu": "Keljen át gyorsan a hídon; a folyó felől fújó hideg szél télen metsző lehet, tartsa készenlétben a sálat és a kesztyűt az átkeléskor.",
+                "ro": "Traversați podul rapid; vântul rece de la râu poate fi tăios iarna, așa că pregătiți-vă fularul și mănușile pentru această porțiune expusă.",
+                "en": "Cross the bridge quickly; the cold wind from the river can be biting in winter, so keep your scarf and gloves ready for this exposed section."
+              }
+            },
+            {
+              "name": {
+                "de": "Haute-Ville",
+                "hu": "Haute-Ville",
+                "ro": "Haute-Ville",
+                "en": "Haute-Ville"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Gassen; die winterliche Ruhe verleiht der Oberstadt eine besonders magische und authentische Atmosphäre.",
+                "hu": "Fedezze fel a középkori utcákat; a téli nyugalom különösen mágikus és hiteles atmoszférát kölcsönöz a felsővárosnak a korai sötétedés előtt.",
+                "ro": "Explorați străzile medievale; liniștea iernii oferă orașului de sus o atmosferă deosebit de magică și autentică înainte de lăsarea serii.",
+                "en": "Explore the medieval alleys; the winter quiet gives the upper town a particularly magical and authentic atmosphere before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Grafen von Toulouse",
+                "hu": "Toulouse grófjainak kastélya",
+                "ro": "Castelul Conților de Toulouse",
+                "en": "Castle of the Counts of Toulouse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr; von hier oben haben Sie den besten Blick auf das winterliche Panorama der Mont-Ventoux-Region.",
+                "hu": "Élvezze a naplementét 17:00 körül; innen nyílik a legjobb kilátás a Mont Ventoux régió téli panorámájára az utolsó napsugaraknál.",
+                "ro": "Bucurați-vă de apusul soarelui în jur de ora 17:00; de aici aveți cea mai bună vedere asupra panoramei de iarnă a regiunii Mont Ventoux.",
+                "en": "Enjoy the sunset around 17:00; from up here, you have the best view of the winter panorama of the Mont Ventoux region in the late light."
+              }
+            },
+            {
+              "name": {
+                "de": "Site du Puymin",
+                "hu": "Site du Puymin",
+                "ro": "Site du Puymin",
+                "en": "Site du Puymin"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Zypressenhaine; die kühle, frische Luft macht den Rundgang durch die antiken Gärten im Winter sehr belebend.",
+                "hu": "Sétáljon át a ciprusligeteken; a hűvös, friss levegő télen nagyon élénkítővé teszi az antik kertek közötti sétát a romterületen.",
+                "ro": "Plimbați-vă prin crângurile de chiparoși; aerul rece și proaspăt face turul grădinilor antice foarte revigorant în timpul iernii.",
+                "en": "Stroll through the cypress groves; the cool, fresh air makes the walk through the ancient gardens very invigorating during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Théo Desplans",
+                "hu": "Théo Desplans Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Théo Desplans",
+                "en": "Théo Desplans Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; die hervorragend präsentierten römischen Artefakte lassen sich im Winter ohne Trubel genießen.",
+                "hu": "Melegedjen fel a kiállítótermekben; a kiválóan bemutatott római leleteket télen tömeg nélkül, nyugodt körülmények között élvezheti.",
+                "ro": "Încălziți-vă în sălile de expoziție; artefactele romane excelent prezentate pot fi savurate iarna fără aglomerație, în liniște deplină.",
+                "en": "Warm up in the exhibition rooms; the excellently presented Roman artifacts can be enjoyed in winter without the crowds and in quiet comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Ókori Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theater"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Lichtspiel auf den Stufen; die Steine speichern die Kälte, vermeiden Sie es daher, im Winter zu lange direkt darauf zu sitzen.",
+                "hu": "Figyelje meg a fény játékát a lépcsőkön; a kövek tárolják a hideget, ezért télen kerülje a túl hosszú ideig tartó közvetlen üldögélést rajtuk.",
+                "ro": "Observați jocul de lumini pe trepte; pietrele rețin frigul, așa că evitați să stați direct pe ele pentru o perioadă lungă de timp iarna.",
+                "en": "Watch the play of light on the steps; the stones hold the cold, so avoid sitting directly on them for too long during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -406,6 +652,252 @@
         "hu": "Kezdje kerékpáros kalandját a történelmi katedrálisnál, mielőtt áttekerne a Site de la Villasse római romjain. Dél körül hajtson át az ikonikus római hídon, és pihenjen meg a várnál. A délután tökéletes az ókori múzeum és a színház felfedezésére. Végül élvezze a pihentető esti tekerést egy vidám minigolfozás felé a folyó közelében.",
         "ro": "Începeți aventura pe bicicletă la Catedrala istorică, înainte de a pedala prin ruinele de la Site de la Villasse. Pe la prânz, treceți peste podul roman și faceți o pauză la castel. După-amiaza este perfectă pentru a explora muzeul și teatrul antic. În cele din urmă, bucurați-vă de o plimbare relaxantă spre un minigolf distractiv lângă râu.",
         "en": "Start your cycling adventure at the historic Cathedral before riding through the extensive Roman ruins of Site de la Villasse. Around midday, pedal across the iconic Roman Bridge and pause for the views at the castle. The afternoon is perfect for exploring the ancient museum and theater. Finally, enjoy a relaxing evening ride towards a fun round of minigolf near the river."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei leichtem Nieselregen an der Kathedrale. Mittags erkunden wir die römischen Ausgrabungen, wobei wir auf schlammige Wege achten. Nachmittags geht es über die Brücke zur Haute-Ville. Den Abend lassen wir im Museum ausklingen, während das Fahrrad sicher unter einem Dach parkt.",
+            "hu": "A biciklitúra enyhe szemerkélő esőben indul a katedrálisnál. Délben a római ásatásokat fedezzük fel, ügyelve a sáros utakra. Délután a hídon át tekerünk a vár felé. Az estét a múzeumban zárjuk, miközben a kerékpár biztonságos, fedett helyen pihen a zápor elől.",
+            "ro": "Turul cu bicicleta începe sub o ploaie ușoară la catedrală. La prânz explorăm săpăturile romane, fiind atenți la potecile noroioase. După-amiaza pedalăm peste pod spre castel. Seara se încheie la muzeu, în timp ce bicicleta stă în siguranță sub un acoperiș.",
+            "en": "The bike tour starts under light drizzle at the cathedral. At noon, we explore the Roman excavations, being careful on muddy paths. Afternoon takes us over the bridge towards the castle. Evening ends at the museum while the bike stays safely parked under a roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cathédrale Notre-Dame-de-Nazareth",
+                "hu": "Cathédrale Notre-Dame-de-Nazareth",
+                "ro": "Catedrala Notre-Dame-de-Nazareth",
+                "en": "Cathédrale Notre-Dame-de-Nazareth"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Bäumen am Eingang; der romanische Bau bietet einen trockenen Ort, um die Regenkleidung kurz zu ordnen.",
+                "hu": "Parkolja le kerékpárját a bejárat melletti fák alatt; a román épület száraz helyet biztosít az esőruházat gyors igazításához a látogatás előtt.",
+                "ro": "Parcați bicicleta sub copacii de la intrare; clădirea romanică oferă un loc uscat pentru a vă aranja rapid pelerina de ploaie.",
+                "en": "Park your bike under the trees near the entrance; the Romanesque building provides a dry spot to quickly adjust your rain gear before visiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de la Villasse",
+                "hu": "Site de la Villasse",
+                "ro": "Site de la Villasse",
+                "en": "Site de la Villasse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Kopfsteinpflaster; fahren Sie auf dem Gelände langsam, da die nassen römischen Wege tückisch glatt sein können.",
+                "hu": "Ügyeljen a csúszós macskakövekre; haladjon lassan a területen, mivel a nedves római utak váratlanul és veszélyesen síkosak lehetnek.",
+                "ro": "Atenție la pavajul alunecos; pedalați încet în zonă, deoarece drumurile romane umede pot fi extrem de alunecoase și periculoase.",
+                "en": "Watch out for slippery cobblestones; ride slowly on the site, as the wet Roman paths can be treacherously slick and dangerous for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad über die Brücke; die Metallfugen und nassen Steine sind bei Regen für schmale Reifen ein Sicherheitsrisiko.",
+                "hu": "Tolja át a biciklit a hídon; a fémillesztések és a nedves kövek esőben komoly biztonsági kockázatot jelentenek a vékony gumiabroncsoknak.",
+                "ro": "Împingeți bicicleta peste pod; îmbinările metalice și pietrele umede reprezintă un risc de siguranță pentru anvelopele înguste pe ploaie.",
+                "en": "Walk your bike across the bridge; the metal joints and wet stones are a safety risk for narrow tires during a rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Grafen von Toulouse",
+                "hu": "Toulouse grófjainak kastélya",
+                "ro": "Castelul Conților de Toulouse",
+                "en": "Castle of the Counts of Toulouse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie beim Aufstieg kleine Gänge; der Regen macht den steilen Weg zur Burg rutschig, prüfen Sie vor der Abfahrt unbedingt Ihre Bremsen.",
+                "hu": "Használjon kis fokozatot a kapaszkodásnál; az eső csúszóssá teszi a várig vezető utat, leereszkedés előtt feltétlenül ellenőrizze a fékeket.",
+                "ro": "Folosiți viteze mici la urcare; ploaia face drumul spre castel alunecos, deci verificați neapărat frânele înainte de coborâre.",
+                "en": "Use low gears for the climb; rain makes the steep path to the castle slippery, so be sure to check your brakes before descending."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Théo Desplans",
+                "hu": "Théo Desplans Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Théo Desplans",
+                "en": "Théo Desplans Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem überdachten Pfosten; das Museum bietet eine willkommene Pause, um im Warmen wieder trocken zu werden.",
+                "hu": "Zárja le kerékpárját egy fedett oszlophoz; a múzeum örömteli pihenőt kínál, ahol a melegben végre teljesen megszáradhat a tekerés után.",
+                "ro": "Asigurați bicicleta de un stâlp acoperit; muzeul oferă o pauză binevenită unde vă puteți usca la căldură după pedalat.",
+                "en": "Secure your bike to a covered post; the museum offers a welcome break where you can finally dry off in the warmth after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Ókori Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theater"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das Theater vorsichtig; die Steinstufen sind bei Regen nass, genießen Sie die Aussicht am besten von den unteren Ebenen.",
+                "hu": "Óvatosan lépjen be a színházba; a kőlépcsők esőben vizesek, a kilátást leginkább az alsóbb szintekről érdemes élvezni a biztonság kedvéért.",
+                "ro": "Intrați cu grijă în teatru; treptele de piatră sunt ude pe ploaie, cel mai bine este să vă bucurați de vedere de la nivelurile inferioare.",
+                "en": "Enter the theater carefully; the stone steps are wet in the rain, so it's best to enjoy the view from the lower levels for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Square André Noharet",
+                "hu": "Square André Noharet",
+                "ro": "Square André Noharet",
+                "en": "Square André Noharet"
+              },
+              "tip_5lang": {
+                "de": "Legen Sie eine kurze Pause unter dem Blätterdach ein; die Parkbänke werden nass sein, bleiben Sie daher am besten direkt beim Rad.",
+                "hu": "Tartson egy rövid szünetet a lombkoronák alatt; a padok vizesek lesznek, ezért a legjobb, ha végig a kerékpár mellett marad.",
+                "ro": "Faceți o scurtă pauză sub coronamentul copacilor; băncile vor fi ude, așa că cel mai bine este să stați lângă bicicletă.",
+                "en": "Take a short break under the leafy canopy; the park benches will be wet, so it's best to stay right by your bike during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf du Théos",
+                "hu": "Minigolf du Théos",
+                "ro": "Minigolf du Théos",
+                "en": "Minigolf du Théos"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob bei Regen gespielt wird; die Anlage ist ungeschützt, nutzen Sie den Stopp alternativ für eine kurze Trinkpause im Trockenen.",
+                "hu": "Ellenőrizze, lehet-e esőben játszani; a pálya nyitott, így esőben inkább csak egy rövid, fedett pihenőre érdemes megállni itt.",
+                "ro": "Verificați dacă se poate juca pe ploaie; terenul este neprotejat, așa că folosiți oprirea pentru o scurtă pauză de hidratare la adăpost.",
+                "en": "Check if playing is possible in the rain; the course is unsheltered, so alternatively use the stop for a short drink break in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour führt uns durch die frostige Landschaft zur Kathedrale. Mittags wärmt uns die Sonne bei der Villasse. Um 17:00 Uhr sinkt die Temperatur rapide, daher beenden wir den Aufstieg zur Burg frühzeitig. Der Abend im Museum ist ein perfekter Abschluss, bevor wir im Dunkeln zurückradeln.",
+            "hu": "A téli túra a fagyos tájon át vezet a katedrálishoz. Napközben a Villasse romjainál melenget a nap. Mivel 17:00 után a hőmérséklet hirtelen zuhan, a várba való feljutást korábbra időzítjük. A múzeumban töltött este tökéletes befejezés a sötétben való visszatekerés előtt.",
+            "ro": "Turul de iarnă ne duce prin peisajul înghețat spre catedrală. La prânz soarele ne încălzește la Villasse. Deoarece după ora 17:00 temperatura scade brusc, urcăm la castel mai devreme. Seara la muzeu este un final perfect înainte de întoarcerea pe întuneric.",
+            "en": "The winter tour takes us through the frosty landscape to the cathedral. At midday, the sun warms us at Villasse. As temperatures drop sharply after 17:00, we schedule the castle climb early. The evening at the museum is a perfect end before cycling back in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cathédrale Notre-Dame-de-Nazareth",
+                "hu": "Cathédrale Notre-Dame-de-Nazareth",
+                "ro": "Catedrala Notre-Dame-de-Nazareth",
+                "en": "Cathédrale Notre-Dame-de-Nazareth"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren; achten Sie auf schattige Stellen vor dem Portal, dort kann sich im Winter Glatteis bilden.",
+                "hu": "Élvezze a benti csendet; ügyeljen a bejárat előtti árnyékos részekre, ahol télen váratlanul jegesedés alakulhat ki a köveken.",
+                "ro": "Bucurați-vă de liniștea din interior; atenție la zonele umbrite din fața porții, unde se poate forma polei în timpul iernii.",
+                "en": "Enjoy the silence inside; watch out for shaded areas in front of the portal, where black ice can unexpectedly form on the stones in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de la Villasse",
+                "hu": "Site de la Villasse",
+                "ro": "Site de la Villasse",
+                "en": "Site de la Villasse"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen im hellen Mittagslicht; tragen Sie windfeste Kleidung, da das offene Gelände im Winter recht ungeschützt ist.",
+                "hu": "Nézze meg a romokat a fényes déli napsütésben; viseljen szélálló ruhát, mivel a nyílt terület télen meglehetősen védtelen a hideg ellen.",
+                "ro": "Vizitați ruinele în lumina strălucitoare de la prânz; purtați haine rezistente la vânt, deoarece terenul deschis este destul de expus iarna.",
+                "en": "Visit the ruins in the bright midday sun; wear windproof clothing, as the open site is quite unsheltered and cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein Foto kurz an; ziehen Sie die Handschuhe fest an, da der Fahrtwind über dem Fluss im Winter extrem auskühlt.",
+                "hu": "Álljon meg egy gyors fotóra; húzza szorosra a kesztyűt, mert a folyó feletti menetszél télen rendkívüli módon lehűti a kezeket.",
+                "ro": "Opriți-vă pentru o poză rapidă; strângeți bine mănușile, deoarece curentul de aer de deasupra râului răcește mâinile extrem de tare iarna.",
+                "en": "Stop for a quick photo; tighten your gloves, as the wind chill over the river cools your hands down extremely fast in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss der Grafen von Toulouse",
+                "hu": "Toulouse grófjainak kastélya",
+                "ro": "Castelul Conților de Toulouse",
+                "en": "Castle of the Counts of Toulouse"
+              },
+              "tip_5lang": {
+                "de": "Das Treten in die Pedale hält Sie beim Aufstieg warm; genießen Sie die klare Fernsicht, bevor es um 17:00 Uhr schlagartig dunkel wird.",
+                "hu": "A pedálozás melegen tartja a kapaszkodásnál; élvezze a tiszta távoli kilátást, mielőtt 17:00-kor hirtelen besötétedik a vár felett.",
+                "ro": "Pedalatul vă va ține de cald la urcare; bucurați-vă de vizibilitatea clară la distanță înainte ca întunericul să cadă brusc la ora 17:00.",
+                "en": "Pedaling will keep you warm during the climb; enjoy the clear long-distance views before it suddenly gets dark around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Théo Desplans",
+                "hu": "Théo Desplans Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Théo Desplans",
+                "en": "Théo Desplans Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Innenräume; parken Sie das Rad in Sichtweite, da die Beleuchtung in der Winterdämmerung früh anspringt.",
+                "hu": "Használja ki a belső terek melegét; parkoljon látótávolságban, mivel a téli szürkületben a közvilágítás már korán bekapcsol a múzeumnál.",
+                "ro": "Profitați de căldura spațiilor interioare; parcați bicicleta la vedere, deoarece iluminatul public se aprinde devreme în amurgul de iarnă.",
+                "en": "Take advantage of the indoor warmth; park your bike within sight, as street lighting turns on early during the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Ókori Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theater"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das monumentale Bauwerk im klaren Licht; im Winter sind kaum Touristen hier, was die Atmosphäre sehr feierlich macht.",
+                "hu": "Csodálja meg a monumentális építményt a tiszta téli fényben; ilyenkor alig van turista, ami az atmoszférát rendkívül ünnepélyessé teszi.",
+                "ro": "Admirați structura monumentală în lumina clară de iarnă; aproape că nu sunt turiști acum, ceea ce face atmosfera foarte solemnă.",
+                "en": "Admire the monumental structure in the clear winter light; there are very few tourists now, making the atmosphere feel very solemn."
+              }
+            },
+            {
+              "name": {
+                "de": "Square André Noharet",
+                "hu": "Square André Noharet",
+                "ro": "Square André Noharet",
+                "en": "Square André Noharet"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht völlig aus; bewegen Sie sich, um bei den niedrigen Temperaturen nicht auszukühlen, während Sie die Aussicht genießen.",
+                "hu": "Egy rövid megálló bőven elég; mozogjon folyamatosan az alacsony hőmérsékletben, hogy ne hűljön ki, miközben a kilátásban gyönyörködik.",
+                "ro": "O scurtă oprire este suficientă; mișcați-vă continuu pentru a nu îngheța la temperaturile scăzute în timp ce admirați priveliștea.",
+                "en": "A short stop is plenty; keep moving in the low temperatures to avoid getting too cold while you briefly enjoy the winter scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf du Théos",
+                "hu": "Minigolf du Théos",
+                "ro": "Minigolf du Théos",
+                "en": "Minigolf du Théos"
+              },
+              "tip_5lang": {
+                "de": "Spielen Sie nur bei ausreichendem Tageslicht; achten Sie auf Frost auf den Bahnen, der die Bälle unberechenbar schnell machen kann.",
+                "hu": "Csak elegendő nappali fénynél játsszon; ügyeljen a pályákon lévő dérre, ami a labdákat kiszámíthatatlanul gyorssá és csúszóssá teheti.",
+                "ro": "Jucați doar cât timp este lumină; atenție la bruma de pe piste, care poate face mingile imprevizibil de rapide și greu de controlat.",
+                "en": "Only play while there is enough daylight; watch out for frost on the tracks, which can make the balls unpredictably fast and slippery."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1075,224 @@
         "hu": "Autózzon egyenesen az ókor szívébe, és kezdje a reggelt Villasse és Puymin lenyűgöző római helyszínein. Délben haladjon el a látványos ókori színház és a történelmi híd mellett. Délután hagyja el a belvárost, hogy meglátogassa a fenséges Château du Crestet-t és a színes levendulamezőket. Zárja festői autós kirándulását egy békés tóparton pihenve.",
         "ro": "Conduceți direct în inima antichității, începând dimineața la siturile romane Villasse și Puymin. La prânz veți trece pe lângă teatrul antic și peste podul istoric. După-amiaza, ieșiți din centrul orașului pentru a vizita maiestuosul Château du Crestet și câmpurile de lavandă. Încheiați-vă excursia pitorească relaxându-vă lângă un lac liniștit.",
         "en": "Drive directly to the heart of antiquity, starting your morning at the captivating Roman sites of Villasse and Puymin. Midday takes you past the spectacular ancient theater and over the historic bridge. In the afternoon, leave the town center to visit the majestic Château du Crestet and colorful lavender fields. Conclude your picturesque road trip relaxing by a peaceful lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt schützt uns vor den Schauern zwischen den antiken Stätten. Vormittags besuchen wir Villasse und Puymin mit dem Regenschirm. Nachmittags fahren wir zum Crestet-Schloss, das im Nebel mystisch wirkt. Den Tag beschließen wir am See, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Az autóút megvéd minket a záporoktól az antik helyszínek között. Délelőtt a Villasse és Puymin romjait keressük fel esernyővel. Délután a Crestet-kastélyhoz autózunk, amely misztikus a ködben. A napot a tónál zárjuk, miközben az esőcseppek az autó tetején kopognak.",
+            "ro": "Călătoria cu mașina ne protejează de averse între siturile antice. Dimineața vizităm Villasse și Puymin cu umbrela la îndemână. După-amiaza conducem spre castelul Crestet, care pare mistic în ceață. Încheiem ziua la lac, în timp ce picăturile de ploaie bat în plafonul mașinii.",
+            "en": "The car ride protects us from showers between ancient sites. In the morning, we visit Villasse and Puymin with an umbrella handy. Afternoon takes us to the Crestet castle, which looks mystical in the mist. We end the day at the lake while raindrops drum on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Site de la Villasse",
+                "hu": "Site de la Villasse",
+                "ro": "Site de la Villasse",
+                "en": "Site de la Villasse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang; ein kurzer Sprint bringt Sie zu den überdachten Säulengängen, wo Sie die römischen Mosaike im Trockenen sehen.",
+                "hu": "Parkoljon közel a bejárathoz; egy rövid futással elérheti a fedett oszlopsorokat, ahol szárazon nézheti meg a csodás római mozaikokat.",
+                "ro": "Parcați aproape de intrare; un scurt sprint vă duce la colonadele acoperite, unde puteți vedea mozaicurile romane la adăpost de ploaie.",
+                "en": "Park close to the entrance; a short sprint will take you to the covered colonnades where you can view Roman mosaics while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Site du Puymin",
+                "hu": "Site du Puymin",
+                "ro": "Site du Puymin",
+                "en": "Site du Puymin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz; ein stabiler Regenschirm ist auf diesem freien Gelände ein Muss, um die antiken Häuser zu erkunden.",
+                "hu": "Használja a tágas parkolót; egy stabil esernyő kötelező ezen a nyílt területen, hogy kényelmesen felfedezhesse az antik házak romjait.",
+                "ro": "Folosiți parcarea spațioasă; o umbrelă stabilă este obligatorie pe acest teren deschis pentru a explora ruinele caselor antice fără griji.",
+                "en": "Use the spacious parking lot; a sturdy umbrella is a must on this open site to comfortably explore the ruins of the ancient Roman houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Ókori Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theater"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick vom Auto aus, bevor Sie aussteigen; die grauen Regenwolken bilden einen dramatischen Kontrast zum hellen Stein.",
+                "hu": "Élvezze a kilátást az autóból, mielőtt kiszállna; a szürke esőfelhők drámai kontrasztot alkotnak a színház világos kőfalaival.",
+                "ro": "Admirați vederea din mașină înainte de a coborî; norii cenușii de ploaie creează un contrast dramatic cu piatra deschisă a teatrului.",
+                "en": "Enjoy the view from the car before getting out; the grey rain clouds create a dramatic contrast with the light stone of the theater walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Brücke; beobachten Sie das schäumende Wasser der Ouvèze sicher vom Ufer aus, ohne zu nass zu werden.",
+                "hu": "Parkoljon közvetlenül a hídnál; figyelje az Ouvèze tajtékzó vizét biztonságosan a partról, anélkül, hogy túlságosan megázna a parton.",
+                "ro": "Parcați chiar lângă pod; observați apele învolburate ale râului Ouvèze în siguranță de pe mal, fără a vă uda prea tare în ploaie.",
+                "en": "Park right by the bridge; observe the foaming waters of the Ouvèze river safely from the bank without getting too soaked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Crestet",
+                "hu": "Château du Crestet",
+                "ro": "Château du Crestet",
+                "en": "Château du Crestet"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bergauf bietet tolle Ausblicke; bei Regen wirkt das Dorf wie aus einer anderen Zeit, perfekt für stimmungsvolle Nebelfotos.",
+                "hu": "A felfelé vezető út remek kilátást nyújt; esőben a falu olyan, mintha egy másik időben járna, tökéletes hangulatos ködfotók készítéséhez.",
+                "ro": "Drumul spre culme oferă vederi superbe; pe ploaie, satul pare desprins din alt timp, fiind perfect pentru fotografii atmosferice în ceață.",
+                "en": "The drive uphill offers great views; in the rain, the village feels like it's from another time, perfect for atmospheric photos in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Cote Lavande",
+                "hu": "Cote Lavande",
+                "ro": "Cote Lavande",
+                "en": "Cote Lavande"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie in den Shop vor dem Regen; die getrocknete Lavendel-Ausstellung duftet drinnen herrlich und bietet ein trockenes Erlebnis.",
+                "hu": "Meneküljön be a boltba az eső elől; a szárított levendula-kiállítás bent csodás illatú, és száraz élményt nyújt a zuhogó esőben is.",
+                "ro": "Refugiați-vă în magazin de ploaie; expoziția de lavandă uscată miroase divin în interior și oferă o experiență uscată și relaxantă.",
+                "en": "Escape into the shop from the rain; the dried lavender exhibition smells wonderful inside and offers a dry, relaxing experience for all."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Palivettes",
+                "hu": "Lac des Palivettes",
+                "ro": "Lac des Palivettes",
+                "en": "Lac des Palivettes"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im warmen Auto; der See sieht bei Regen sehr friedlich aus, perfekt für eine kurze, ruhige Rast zum Tagesende.",
+                "hu": "Heves esőben maradjon a meleg autóban; a tó ilyenkor nagyon békés látványt nyújt, tökéletes egy rövid, csendes pihenőhöz a nap végén.",
+                "ro": "Rămâneți în mașina caldă în caz de ploaie torențială; lacul arată foarte pașnic acum, fiind perfect pentru o odihnă scurtă la final de zi.",
+                "en": "Stay in the warm car during heavy rain; the lake looks very peaceful now, perfect for a short, quiet rest at the end of your day trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt uns durch die sonnige, kühle Provence. Vormittags erkunden wir die römischen Stätten und wärmen uns zwischendurch im Auto auf. Da die Sonne gegen 17:00 Uhr untergeht, fahren wir rechtzeitig zum Crestet für das Panorama. Den Tag beschließen wir bei der Lavendel-Farm, bevor es frostig wird.",
+            "hu": "A téli autózás a napos, hűvös Provence-on át vezet. Délelőtt a római helyszíneket fedezzük fel, közben az autóban melegszünk fel. Mivel 17:00 körül lemegy a nap, időben a Crestet-hez hajtunk a panorámáért. A napot a levendulafarmnál zárjuk, mielőtt beköszönt a fagy.",
+            "ro": "Călătoria de iarnă ne poartă prin Provence-ul însorit și răcoros. Dimineața explorăm siturile romane, încălzindu-ne periodic în mașină. Deoarece soarele apune în jur de ora 17:00, mergem la Crestet pentru panoramă. Încheiem ziua la ferma de lavandă.",
+            "en": "The winter drive takes us through sunny, cool Provence. In the morning, we explore the Roman sites, warming up in the car between stops. Since the sun sets around 17:00, we head to Crestet early for the panorama. We end the day at the lavender farm before the frost sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Site de la Villasse",
+                "hu": "Site de la Villasse",
+                "ro": "Site de la Villasse",
+                "en": "Site de la Villasse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tiefstehende Wintersonne; die klare Luft lässt die Details der Ausgrabungen im Morgenlicht besonders scharf erscheinen.",
+                "hu": "Élvezze az alacsonyan járó téli napsütést; a tiszta levegőben az ásatások részletei a reggeli fényben különösen élesen rajzolódnak ki.",
+                "ro": "Bucurați-vă de soarele jos de iarnă; aerul clar face ca detaliile săpăturilor să pară deosebit de clare în lumina dimineții de iarnă.",
+                "en": "Enjoy the low winter sun; the clear air makes the details of the excavations appear particularly sharp in the crisp morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Site du Puymin",
+                "hu": "Site du Puymin",
+                "ro": "Site du Puymin",
+                "en": "Site du Puymin"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Rundgang hält Sie warm; nutzen Sie die Heizung im Auto zwischen den Stopps, um die Kälte der Steinruinen abzuschütteln.",
+                "hu": "A tempós séta melegen tartja; használja az autó fűtését a megállók között, hogy lerázza magáról a kőromok árasztotta téli hideget.",
+                "ro": "O plimbare vioaie vă va ține de cald; folosiți încălzirea mașinii între opriri pentru a scăpa de frigul emanat de ruinele de piatră.",
+                "en": "A brisk walk will keep you warm; use the car heater between stops to shake off the winter chill emanating from the ancient stone ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater",
+                "hu": "Ókori Színház",
+                "ro": "Teatrul Antic",
+                "en": "Ancient Theater"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Monument zur Mittagszeit; die Sonne wärmt die obersten Stufen am stärksten auf, perfekt für eine kurze Rast mit Aussicht.",
+                "hu": "Délidőben látogassa meg a műemléket; a nap a legfelső lépcsőfokokat melegíti fel leginkább, ami tökéletes egy rövid, kilátással teli pihenőhöz.",
+                "ro": "Vizitați monumentul la prânz; soarele încălzește cel mai tare treptele superioare, fiind perfect pentru o scurtă pauză cu vedere panoramică.",
+                "en": "Visit the monument at midday; the sun warms the top steps the most, making it perfect for a short rest with a panoramic view of the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz für ein Foto im Winterlicht; der Wind am Fluss kann sehr kalt sein, bleiben Sie am besten nah bei Ihrem warmen Fahrzeug.",
+                "hu": "Parkoljon le egy gyors fotóra a téli fényben; a folyóparti szél nagyon hideg lehet, érdemes a meleg autó közelében maradnia az átkeléskor.",
+                "ro": "Parcați scurt pentru o fotografie în lumina iernii; vântul de pe râu poate fi foarte rece, deci rămâneți aproape de vehiculul încălzit.",
+                "en": "Park briefly for a photo in the winter light; the river wind can be very cold, so it's best to stay close to your warm vehicle while crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Crestet",
+                "hu": "Château du Crestet",
+                "ro": "Château du Crestet",
+                "en": "Château du Crestet"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist im Winter sicher, aber prüfen Sie die Straßen auf Eis; die Aussicht auf die schneebedeckten Gipfel in der Ferne ist grandios.",
+                "hu": "A feljutás télen is biztonságos, de ügyeljen az esetleges jegesedésre; a távoli hófödte csúcsokra nyíló kilátás ilyenkor pazar látvány.",
+                "ro": "Urcarea este sigură iarna, dar verificați drumul pentru polei; vederea spre vârfurile înzăpezite din depărtare este absolut grandioasă.",
+                "en": "The drive up is safe in winter, but check the road for ice; the view of the snow-capped peaks in the distance is absolutely magnificent now."
+              }
+            },
+            {
+              "name": {
+                "de": "Cote Lavande",
+                "hu": "Cote Lavande",
+                "ro": "Cote Lavande",
+                "en": "Cote Lavande"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von getrocknetem Lavendel; der Shop ist ein gemütlicher Ort, um sich aufzuwärmen und provenzalische Geschenke zu finden.",
+                "hu": "Élvezze a szárított levendula illatát; a bolt hangulatos hely a felmelegedésre és provence-i ajándékok beszerzésére a téli nap végén.",
+                "ro": "Bucurați-vă de mirosul de lavandă uscată; magazinul este un loc primitor pentru a vă încălzi și a găsi cadouri provensale autentice.",
+                "en": "Enjoy the scent of dried lavender; the shop is a cozy place to warm up and find authentic Provencal gifts at the end of your winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Palivettes",
+                "hu": "Lac des Palivettes",
+                "ro": "Lac des Palivettes",
+                "en": "Lac des Palivettes"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr; die ruhige Winteratmosphäre am See ist ideal, um die Reise entspannt Revue passieren zu lassen.",
+                "hu": "Nézze meg a naplementét 17:00-kor; a tó nyugodt téli atmoszférája ideális, hogy békésen átgondolja a nap eseményeit a meleg autóban.",
+                "ro": "Priviți apusul soarelui la ora 17:00; atmosfera liniștită de iarnă de la lac este ideală pentru a reflecta asupra zilei în mașina caldă.",
+                "en": "Watch the sunset at 17:00; the calm winter atmosphere at the lake is ideal for peacefully reflecting on your trip from inside the warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

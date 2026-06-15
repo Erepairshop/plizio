@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a nyüzsgő Rastrilo piacon, mielőtt felfedezné a titokzatos Cova de les Aranyes-t. Délben a Cala de la Mare de Déu és a Caletes del Cap eldugott vizei hívogatnak. Délután gyönyörködjön a Mirador del Escolgador de Cristo kilátásában. Zárja aktív napját a Platja del Carabassí aranyhomokos dűnéin pihenve, miközben az esti szellő lehűti a partot.",
         "ro": "Începeți dimineața la piața vibrantă Rastrilo, înainte de a explora misterioasa Cova de les Aranyes. Amiaza vă invită la apele retrase din Cala de la Mare de Déu și Caletes del Cap. După-amiază, admirați priveliștile de la Mirador del Escolgador de Cristo. Încheiați-vă ziua activă relaxându-vă pe dunele aurii de la Platja del Carabassí în briza răcoroasă de seară.",
         "en": "Start your morning at the vibrant Rastrilo market before exploring the mysterious Cova de les Aranyes. Midday invites you to the secluded waters of Cala de la Mare de Déu and Caletes del Cap. In the afternoon, take in the views at Mirador del Escolgador de Cristo. Conclude your active day relaxing on the golden dunes of Platja del Carabassí as the evening breeze cools the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens trotzen wir dem Regen auf dem Flohmarkt, wo man unter Schirmen echte Schätze findet. Mittags bietet die Höhle natürlichen Schutz, während die Buchten in dramatischem Grau leuchten. Nachmittags peitscht der Wind am Kap, was die Aussicht auf die stürmische See besonders kraftvoll macht. Abends ziehen wir uns vor der Nässe und frühen Dunkelheit in eine gemütliche Unterkunft zurück.",
+            "hu": "Reggel a piac esős időben is kinyit, a kincskeresés izgalma a borús ég alatt is megmarad. Délben a barlang és az öblök drámai arcukat mutatják, a természetes menedékhelyek ilyenkor felértékelődnek. Délután a kilátópontokról a viharos tenger erejét csodálhatjuk meg, ügyelve a csúszós sziklákra. Este a korai sötétedés és az eső elől érdemes mielőbb egy meleg, fedett helyre húzódni pihenni.",
+            "ro": "Dimineața explorăm piața sub umbrele, căutând obiecte unice printre tarabele rezistente la ploaie. La prânz, peștera oferă un adăpost natural, în timp ce golfurile capătă o nuanță dramatică sub cerul gri. După-amiaza, vântul de la malul mării face valurile să pară impunătoare, dar necesită atenție sporită pe poteci. Seara ne retragem devreme pentru a evita umezeala și întunericul.",
+            "en": "Morning rain doesn't stop the market hunt; vendors gather under covers for a moody shopping experience. At noon, the cave provides natural shelter while the coves display the raw power of the grey sea. In the afternoon, the viewpoints offer misty, atmospheric vistas of the coastline. By evening, the early darkness and persistent rain invite you to find a cozy indoor spot to unwind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rastrilo - mercadillo 2ª mano",
+                "hu": "Rastrilo - mercadillo 2ª mano",
+                "ro": "Rastrilo - mercadillo 2ª mano",
+                "en": "Rastrilo - mercadillo 2ª mano"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie gezielt nach überdachten Ständen für Raritäten und nutzen Sie das Regenwetter für bessere Verhandlungen; ein stabiler Regenschirm ist hier unverzichtbar.",
+                "hu": "Keresse a fedett árusokat az egyedi régiségekért, az eső miatt kisebb a tömeg, így könnyebb alkudni; egy stabil esernyő és vízálló cipő mindenképpen szükséges.",
+                "ro": "Căutați tarabele acoperite pentru a găsi antichități rare și profitați de ploaie pentru a negocia prețuri mai bune; o umbrelă solidă este strict necesară aici.",
+                "en": "Look for covered stalls to find rare gems and use the rainy weather as leverage for better bargaining; a sturdy umbrella and waterproof shoes are essential today."
+              }
+            },
+            {
+              "name": {
+                "de": "Cova de les Aranyes",
+                "hu": "Cova de les Aranyes",
+                "ro": "Cova de les Aranyes",
+                "en": "Cova de les Aranyes"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen trockenen Rückzugsort vor dem Schauer, aber der Pfad dorthin kann sehr matschig sein; tragen Sie Schuhe mit besonders gutem Profil.",
+                "hu": "A barlang természetes védelmet nyújt az égi áldás elől, ám a hozzá vezető ösvény sáros lehet; válasszon jó tapadású, vízhatlan túrabakancsot a látogatáshoz.",
+                "ro": "Peștera oferă un adăpost natural excelent împotriva ploii, însă poteca de acces devine rapid noroioasă; purtați încălțăminte cu aderență ridicată pentru siguranță.",
+                "en": "The cave provides a perfect natural dry spot during heavy showers, but the approach trail gets muddy; wear high-traction waterproof boots for a safe hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de la Mare de Déu",
+                "hu": "Cala de la Mare de Déu",
+                "ro": "Cala de la Mare de Déu",
+                "en": "Cala de la Mare de Déu"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das faszinierende Spiel der Regentropfen auf der Meeresoberfläche, aber meiden Sie die rutschigen Felsen direkt an der Brandungszone.",
+                "hu": "Csodálja meg az esőcseppek táncát a tenger felszínén a partról, de kerülje a közvetlen vízparti, csúszós sziklákat a balesetek elkerülése érdekében.",
+                "ro": "Admirați spectacolul ploii care cade peste mare de pe mal, dar evitați stâncile alunecoase din zona de surf pentru a preveni accidentările nedorite.",
+                "en": "Watch the mesmerizing pattern of rain hitting the sea surface from the shore, but stay away from slippery rocks near the surf zone for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Caletes del Cap",
+                "hu": "Caletes del Cap",
+                "ro": "Caletes del Cap",
+                "en": "Caletes del Cap"
+              },
+              "tip_5lang": {
+                "de": "Die felsigen Buchten wirken bei Regen besonders mystisch; halten Sie sich auf den befestigten Wegen, da die nassen Klippenpfade tückisch sein können.",
+                "hu": "A sziklás öblök esőben misztikus hangulatot árasztanak; maradjon a kijelölt utakon, mert a nedves mészkő rendkívül csúszóssá és veszélyessé válik.",
+                "ro": "Golful stâncos are o atmosferă mistică pe ploaie; rămâneți pe potecile principale, deoarece calcarul ud devine extrem de alunecos și periculos.",
+                "en": "The rocky coves feel mystical in the rain; stick to the main paths as the wet limestone can be incredibly slick and treacherous underfoot."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Escolgador de Cristo",
+                "hu": "Mirador del Escolgador de Cristo",
+                "ro": "Mirador del Escolgador de Cristo",
+                "en": "Mirador del Escolgador de Cristo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das aufgewühlte Meer unter dem grauen Himmel; achten Sie auf starken Wind und sicheren Stand auf der Aussichtsplattform.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát a szürke égbolt alatt; a kilátónál ügyeljen az erős szélre és a biztos állásra a vizes talajon.",
+                "ro": "Bucurați-vă de priveliștea mării agitate sub cerul gri; aveți grijă la rafalele puternice de vânt și mențineți o poziție stabilă pe platformă.",
+                "en": "Enjoy the dramatic view of the churning sea under leaden skies; be mindful of strong gusts and maintain a steady footing on the wet platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Carabassí",
+                "hu": "Platja del Carabassí",
+                "ro": "Platja del Carabassí",
+                "en": "Platja del Carabassí"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang auf den Holzstegen durch die Dünen ist auch bei Regen reizvoll; die Stege können jedoch glatt sein, laufen Sie daher vorsichtig.",
+                "hu": "A dűnék közötti fapallókon tett séta esőben is különleges élmény; a deszkák azonban ilyenkor síkosak, így óvatosan lépkedjen a dűneösvényen.",
+                "ro": "O plimbare pe pasarelele de lemn printre dune este specială chiar și pe ploaie; scândurile sunt însă alunecoase, deci pășiți cu mare atenție.",
+                "en": "A walk on the wooden boardwalks through the dunes is unique in the rain; the wood can be very slick, so tread carefully along the dune path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch und klar auf dem Markt. Mittags wärmt die milde spanische Sonne bei Wanderungen zur Höhle und entlang der Küste. Am Nachmittag genießen wir das goldene Licht an den Klippen, bevor die Sonne gegen 17:00 Uhr spektakulär versinkt. Abends kühlt es rasch ab, was den Tag perfekt in einem warmen Restaurant ausklingen lässt.",
+            "hu": "A téli reggel frissen és tisztán indul a piacon, a nap ereje még szelíd. Délben a barlang és a tengerparti sétányok mentén élvezhetjük a kellemes, nem égető napsütést. Délután a lemenő nap aranyba öltözteti a sziklákat, mielőtt 17:00 körül hirtelen eltűnik a láthatáron. Az esték hűvösek, ilyenkor jól esik behúzódni egy forró italra vagy vacsorára.",
+            "ro": "Dimineața de iarnă începe cu un aer proaspăt și clar în piață. La prânz, soarele blând de Spania face plimbarea către peșteră și golfuri extrem de plăcută. După-amiaza, lumina aurie scaldă stâncile într-o culoare superbă înainte de apusul de la ora 17:00. Seara se răcește brusc, fiind momentul ideal pentru o cină caldă la un restaurant local.",
+            "en": "Winter mornings start crisp and clear at the market. By noon, the mild Mediterranean sun makes hiking to the cave and along the coast very comfortable. In the afternoon, the low sun paints the cliffs in gold before the early 17:00 sunset. Evenings bring a sharp chill, making it the perfect time to retreat for a warm meal and local wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rastrilo - mercadillo 2ª mano",
+                "hu": "Rastrilo - mercadillo 2ª mano",
+                "ro": "Rastrilo - mercadillo 2ª mano",
+                "en": "Rastrilo - mercadillo 2ª mano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen, um ohne Hitze nach Vintage-Kleidung zu stöbern; die Sonne wärmt den Platz erst gegen späten Vormittag richtig auf.",
+                "hu": "Használja ki a hűvös reggelt a kényelmes böngészéshez a hőség nélkül; a nap csak délelőtt végére kezdi el igazán felmelegíteni a szabadtéri piacot.",
+                "ro": "Profită de dimineața răcoroasă pentru a căuta haine vintage fără disconfortul căldurii; soarele începe să încălzească piața abia spre prânz.",
+                "en": "Take advantage of the cool morning to browse for vintage items without the heat; the sun only starts to really warm up the square by late morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Cova de les Aranyes",
+                "hu": "Cova de les Aranyes",
+                "ro": "Cova de les Aranyes",
+                "en": "Cova de les Aranyes"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle herrschen im Winter konstante, angenehme Temperaturen; ideal, um die geologischen Formationen ganz ohne Sommertouristen zu bestaunen.",
+                "hu": "A barlangban télen is állandó, kellemes a hőmérséklet; ideális időpont a geológiai formációk megcsodálására a nyári tömeg és hőség nélkül.",
+                "ro": "În peșteră temperaturile sunt constante și plăcute iarna; este momentul ideal pentru a admira formațiunile geologice fără aglomerația de vară.",
+                "en": "The cave maintains a constant, pleasant temperature in winter; it's the perfect time to admire geological formations without summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de la Mare de Déu",
+                "hu": "Cala de la Mare de Déu",
+                "ro": "Cala de la Mare de Déu",
+                "en": "Cala de la Mare de Déu"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter ein Ort der absoluten Ruhe; bringen Sie eine windfeste Jacke mit, um die frische Meeresbrise lange genießen zu können.",
+                "hu": "Az öböl télen a nyugalom szigete; hozzon magával szélálló dzsekit, hogy hosszan élvezhesse a friss tengeri levegőt a csendes parton.",
+                "ro": "Golful este o oază de liniște iarna; aduceți o jachetă rezistentă la vânt pentru a vă bucura de aerul proaspăt marin pe malul pustiu.",
+                "en": "The cove is a sanctuary of peace in winter; bring a windproof jacket to enjoy the fresh sea air for longer on the quiet shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Caletes del Cap",
+                "hu": "Caletes del Cap",
+                "ro": "Caletes del Cap",
+                "en": "Caletes del Cap"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Fotos der felsigen Küste; tragen Sie Zwiebelschichten, da es im Schatten der Klippen kühl sein kann.",
+                "hu": "A tiszta téli fények fantasztikus fotókat eredményeznek a sziklás parton; öltözzön rétegesen, mert a sziklák árnyékában hűvösebb lehet az idő.",
+                "ro": "Lumina clară de iarnă oferă oportunități foto superbe pe coasta stâncoasă; purtați straturi de haine, deoarece la umbra stâncilor este răcoare.",
+                "en": "The clear winter light makes for fantastic photos of the rocky coast; dress in layers as it can be quite chilly in the shadow of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Escolgador de Cristo",
+                "hu": "Mirador del Escolgador de Cristo",
+                "ro": "Mirador del Escolgador de Cristo",
+                "en": "Mirador del Escolgador de Cristo"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für den frühen Sonnenuntergang um 17:00 Uhr; die Farben sind im Winter oft intensiver und klarer als im Sommer.",
+                "hu": "Tökéletes helyszín a korai, 17:00 körüli naplemente megtekintéséhez; a színek télen gyakran sokkal élénkebbek és tisztábbak, mint nyáron.",
+                "ro": "Acesta este locul perfect pentru a vedea apusul devreme de la ora 17:00; culorile sunt adesea mai intense și mai clare iarna decât vara.",
+                "en": "This is the perfect spot for the early 17:00 sunset; colors are often more vibrant and clear in winter than during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Carabassí",
+                "hu": "Platja del Carabassí",
+                "ro": "Platja del Carabassí",
+                "en": "Platja del Carabassí"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter fest und ideal für einen zügigen Strandspaziergang; die tiefblaue Farbe des Meeres kommt bei tiefstehender Sonne toll zur Geltung.",
+                "hu": "A homok télen tömör, így kiváló egy tempós tengerparti sétához; a tenger mélykék színe a lenti napállásnál érvényesül a legjobban.",
+                "ro": "Nisipul este compact iarna, fiind ideal pentru o plimbare rapidă pe plajă; culoarea albastru închis a mării arată superb sub soarele jos.",
+                "en": "The sand is firm in winter, ideal for a brisk beach walk; the deep blue hue of the sea looks stunning under the low-hanging sun."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a napot a Clot de Galvany és az els Bassars buja vizenyős területein való kerékpározással. Délben merüljön el a történelemben a polgárháborús lövészárkoknál és a római gyárromoknál. A délután jutalmazó utat kínál a Mirador 2C-hez a lélegzetelállító panorámáért. Fejezze be kerékpáros kalandját egy pihentető esti sétával a Platja dels Arenals del Sol partján.",
         "ro": "Începeți-vă ziua pedalând prin zonele umede luxuriante de la Clot de Galvany și els Bassars. La amiază, pătrundeți în istorie la tranșeele războiului civil și ruinele fabricii romane. După-amiaza oferă o plimbare plină de satisfacții la Mirador 2C pentru panorame uluitoare. Încheiați aventura cu o plimbare relaxantă de seară de-a lungul Platja dels Arenals del Sol.",
         "en": "Kick off your day pedaling through the lush wetlands of Clot de Galvany and els Bassars. By midday, delve into history at the Civil War trenches and the fascinating Roman factory ruins. The afternoon features a rewarding ride to the scenic Mirador 2C for breathtaking panoramas. Finish your cycling adventure with a relaxing evening stroll along Platja dels Arenals del Sol."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour durch das Naturschutzgebiet, wo der Boden weich und die Luft feucht ist. Mittags erkunden wir die Salzwiesen, während die Vögel im Regen besonders aktiv sind. Nachmittags fordern uns rutschige Pfade bei den historischen Stätten heraus, was volle Konzentration verlangt. Abends beenden wir die Tour frühzeitig, um die Räder zu reinigen und uns aufzuwärmen.",
+            "hu": "Esős bringázás a természetvédelmi területen, ahol a föld puha, a levegő pedig párás. Délben a sós mocsarak vidékét járjuk be, a madarak ilyenkor meglepően aktívak a tóparton. Délután a történelmi emlékeknél a csúszós ösvények komoly koncentrációt igényelnek a biciklin. Este korán befejezzük a túrát, hogy lemoshassuk a sarat és végre átmelegedhessünk.",
+            "ro": "O tură cu bicicleta prin rezervația naturală pe ploaie, unde solul este moale și aerul umed. La prânz explorăm zonele mlăștinoase, observând păsările active în ciuda vremii. După-amiaza, potecile alunecoase de lângă siturile istorice necesită concentrare maximă la pedalat. Seara încheiem tura devreme pentru a curăța bicicletele și a ne încălzi la interior.",
+            "en": "Rainy cycling through the nature reserve means soft ground and humid air. At noon, we explore the salt marshes where birdlife is surprisingly active in the drizzle. In the afternoon, slippery paths near historical sites demand full concentration and careful braking. By evening, we finish the tour early to clean the bikes and enjoy a well-deserved warm rest indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Clot de Galvany",
+                "hu": "Clot de Galvany",
+                "ro": "Clot de Galvany",
+                "en": "Clot de Galvany"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die hölzernen Beobachtungshütten als trockene Stützpunkte zur Vogelbeobachtung; die Wege dazwischen können jedoch sehr schlammig sein.",
+                "hu": "Használja a fa megfigyelőkunyhókat száraz bázisként a madárleshez; a köztük lévő utak azonban sárosak lehetnek, így óvatosan tekerjen a vizes talajon.",
+                "ro": "Folosiți observatoarele de lemn ca puncte uscate pentru a urmări păsările; drumurile dintre ele pot fi noroioase, deci pedalați cu prudență pe ud.",
+                "en": "Use the wooden bird hides as dry bases for wildlife spotting; however, the trails between them can be muddy, so cycle carefully on wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "els Bassars - Clot de Galvany",
+                "hu": "els Bassars - Clot de Galvany",
+                "ro": "els Bassars - Clot de Galvany",
+                "en": "els Bassars - Clot de Galvany"
+              },
+              "tip_5lang": {
+                "de": "Die Lagunen wirken im Regen sehr atmosphärisch; achten Sie auf weiche Bankette an den Wegen, um mit dem Fahrrad nicht wegzurutschen.",
+                "hu": "A lagúnák esőben nagyon hangulatosak; ügyeljen a puha padkákra az utak mentén, hogy elkerülje a megcsúszást a biciklivel a sós mocsaraknál.",
+                "ro": "Lagunele au o atmosferă aparte pe ploaie; aveți grijă la marginile moi ale drumului pentru a evita derapajele cu bicicleta lângă mlaștini.",
+                "en": "The lagoons look very atmospheric in the rain; watch out for soft edges along the trails to avoid slipping with your bike near the marshes."
+              }
+            },
+            {
+              "name": {
+                "de": "Trincheras guerra civil española",
+                "hu": "Trincheras guerra civil española",
+                "ro": "Trincheras guerra civil española",
+                "en": "Trincheras guerra civil española"
+              },
+              "tip_5lang": {
+                "de": "Die Bunker bieten einen hervorragenden Wind- und Regenschutz für eine Pause; genießen Sie den Blick auf die graue Küste aus dem trockenen Inneren.",
+                "hu": "A bunkerek kiváló szél- és esővédelmet nyújtanak egy rövid pihenőhöz; csodálja meg a szürke partvidéket a száraz belső terek oltalmából.",
+                "ro": "Buncărele oferă o protecție excelentă împotriva vântului și ploii pentru o pauză; admirați coasta cenușie din interiorul uscat al fortificațiilor.",
+                "en": "The bunkers provide excellent wind and rain protection for a break; admire the grey coastline from the dry interior of the historical shelters."
+              }
+            },
+            {
+              "name": {
+                "de": "Factoría romana",
+                "hu": "Factoría romana",
+                "ro": "Factoría romana",
+                "en": "Factoría romana"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Becken füllen sich mit Regenwasser, was ihre Funktion verdeutlicht; steigen Sie vom Rad ab, da die Steine sehr rutschig sind.",
+                "hu": "Az ókori medencék megtelnek esővízzel, ami jól szemlélteti egykori funkciójukat; szálljon le a bicikliről, mert a kövek rendkívül csúszósak.",
+                "ro": "Bazinele antice se umplu cu apă, exemplificând funcția lor istorică; coborâți de pe bicicletă, deoarece pietrele devin extrem de alunecoase.",
+                "en": "The ancient vats fill with rainwater, clearly illustrating their original function; dismount your bike as the stones become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador 2C",
+                "hu": "Mirador 2C",
+                "ro": "Mirador 2C",
+                "en": "Mirador 2C"
+              },
+              "tip_5lang": {
+                "de": "Starke Windböen können den Regen peitschen; halten Sie den Lenker fest und genießen Sie die dramatische Aussicht, bevor Sie schnell weiterfahren.",
+                "hu": "Az erős széllökések az arcába vághatják az esőt; fogja szorosan a kormányt, és élvezze a drámai kilátást, mielőtt gyorsan továbbtekerne.",
+                "ro": "Rafalele de vânt pot purta ploaia direct spre fața voastră; țineți bine ghidonul și admirați peisajul dramatic înainte de a pleca mai departe.",
+                "en": "Strong gusts can lash the rain against your face; grip the handlebars tightly and enjoy the dramatic views before quickly moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Arenals del Sol",
+                "hu": "Platja dels Arenals del Sol",
+                "ro": "Platja dels Arenals del Sol",
+                "en": "Platja dels Arenals del Sol"
+              },
+              "tip_5lang": {
+                "de": "Die Promenade ist gut befahrbar, aber Pfützen lauern überall; tragen Sie Gamaschen, um Ihre Füße vor dem Spritzwasser der Reifen zu schützen.",
+                "hu": "A sétány jól kerékpározható, de a tócsák mindenütt ott vannak; viseljen kamáslit, hogy megvédje lábát a kerekek által felvert víztől.",
+                "ro": "Faleza este practicabilă, dar bălțile sunt peste tot; purtați parazăpezi sau protecții de încălțăminte pentru a evita apa aruncată de roți.",
+                "en": "The promenade is bikeable, but puddles are everywhere; wear gaiters to protect your feet from the spray kicked up by the bike tires."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft belebt die morgendliche Fahrt durch das Naturschutzgebiet. Mittags genießen wir die perfekte Radeltemperatur bei strahlendem Sonnenschein an den Lagunen. Nachmittags erkunden wir historische Stätten, während das weiche Winterlicht alles in sanfte Farben taucht. Die Tour endet pünktlich zum Sonnenuntergang um 17:00 Uhr, bevor die Abendkälte einsetzt.",
+            "hu": "Friss téli levegő élénkíti a reggeli tekerést a természetvédelmi területen keresztül. Délben a lagúnáknál élvezhetjük az ideális kerékpáros időt a ragyogó napsütésben. Délután a történelmi helyszíneket fedezzük fel, miközben a lágy téli fények mindent pasztellszínbe vonnak. A túra pontban a 17:00-s naplementére ér véget, még az esti lehűlés előtt.",
+            "ro": "Aerul proaspăt de iarnă revigorează tura de dimineață prin rezervația naturală. La prânz, soarele strălucitor oferă temperatura ideală pentru pedalat lângă lagune. După-amiaza explorăm siturile istorice sub lumina blândă de iarnă care colorează totul superb. Tura se încheie fix la apusul de la ora 17:00, înainte ca frigul serii să se instaleze.",
+            "en": "Crisp winter air invigorates the morning ride through the nature reserve. By noon, the bright sun provides the perfect temperature for cycling near the lagoons. In the afternoon, we explore historical sites as the soft winter light bathes the landscape in gentle hues. The tour concludes right at the 17:00 sunset, just before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Clot de Galvany",
+                "hu": "Clot de Galvany",
+                "ro": "Clot de Galvany",
+                "en": "Clot de Galvany"
+              },
+              "tip_5lang": {
+                "de": "Die Natur ist im Winter ruhig, aber wunderschön; nutzen Sie die windgeschützten Beobachtungsposten für eine entspannte Pause beim Radfahren.",
+                "hu": "A természet télen csendes, de gyönyörű; használja a szélvédett megfigyelőpontokat egy pihentető megállóra a kerékpározás közben.",
+                "ro": "Natura este liniștită dar superbă iarna; folosiți punctele de observare ferite de vânt pentru o pauză relaxantă de la pedalat.",
+                "en": "Nature is quiet but beautiful in winter; use the wind-sheltered observation posts for a relaxing break during your bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "els Bassars - Clot de Galvany",
+                "hu": "els Bassars - Clot de Galvany",
+                "ro": "els Bassars - Clot de Galvany",
+                "en": "els Bassars - Clot de Galvany"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind besonders viele Wasservögel in den Lagunen zu Gast; bringen Sie ein leichtes Fernglas mit, um sie aus der Distanz zu beobachten.",
+                "hu": "Télen különösen sok vízimadár vendégeskedik a lagúnákban; vigyen magával egy könnyű távcsövet, hogy közelebbről is megfigyelhesse őket a nyeregből.",
+                "ro": "Iarna, lagunele găzduiesc numeroase specii de păsări de apă; aduceți un binoclu ușor pentru a le observa detaliile fără să le speriați.",
+                "en": "In winter, the lagoons host many species of water birds; bring lightweight binoculars to spot them easily from your bike seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Trincheras guerra civil española",
+                "hu": "Trincheras guerra civil española",
+                "ro": "Trincheras guerra civil española",
+                "en": "Trincheras guerra civil española"
+              },
+              "tip_5lang": {
+                "de": "Die Geschichte wirkt in der klaren Winterluft noch greifbarer; der Blick über die Bucht ist bei dieser Fernsicht einfach atemberaubend.",
+                "hu": "A történelem még kézzelfoghatóbbnak tűnik a tiszta téli levegőben; az öböl feletti kilátás ilyenkor a legélesebb és leglátványosabb.",
+                "ro": "Istoria pare mai prezentă în aerul clar de iarnă; priveliștea peste golf este incredibil de clară și spectaculoasă în această perioadă.",
+                "en": "History feels more tangible in the clear winter air; the view over the bay is at its sharpest and most spectacular during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Factoría romana",
+                "hu": "Factoría romana",
+                "ro": "Factoría romana",
+                "en": "Factoría romana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen am Vormittag, wenn die Sonne tief steht; die langen Schatten heben die Konturen der antiken Mauern toll hervor.",
+                "hu": "Látogassa meg az ásatásokat délelőtt, amikor a nap alacsonyan jár; a hosszú árnyékok remekül kiemelik az ókori falak kontúrjait.",
+                "ro": "Vizitați situl dimineața, când soarele este jos; umbrele lungi scot în evidență contururile zidurilor antice într-un mod inedit.",
+                "en": "Visit the excavations in the morning when the sun is low; long shadows highlight the contours of the ancient walls beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador 2C",
+                "hu": "Mirador 2C",
+                "ro": "Mirador 2C",
+                "en": "Mirador 2C"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht bis nach Alicante ist im Winter oft phänomenal; ziehen Sie eine warme Weste an, da der Fahrtwind am Aussichtspunkt kühl ist.",
+                "hu": "A kilátás Alicante felé télen gyakran lenyűgöző; vegyen fel egy meleg mellényt, mert a menetszél a kilátóponton hűvös lehet.",
+                "ro": "Vizibilitatea către Alicante este adesea fenomenală iarna; purtați o vestă călduroasă, deoarece curentul de aer este rece la înălțime.",
+                "en": "Visibility towards Alicante is often phenomenal in winter; wear a warm vest as the wind can be quite chilly at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Arenals del Sol",
+                "hu": "Platja dels Arenals del Sol",
+                "ro": "Platja dels Arenals del Sol",
+                "en": "Platja dels Arenals del Sol"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour mit einem Blick auf das goldene Abendlicht am Meer; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Zárja a túrát az esti aranyfényekben a tengerparton; győződjön meg róla, hogy a kerékpár lámpái működnek a sötétedő hazavezető úthoz.",
+                "ro": "Încheiați tura sub lumina aurie a serii pe plajă; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere pe înserat.",
+                "en": "Finish your tour under the golden evening light on the beach; ensure your bike lights are working for the darkening ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Utazása az ősi római gyárromoknál és a szomszédos polgárháborús lövészárkoknál kezdődik. Délben a természeté a főszerep, miközben felfedezi a Clot de Galvany változatos élőhelyeit. Délután parkoljon le a Platja del Carabassí közelében, mielőtt megnézné a Cova de les Aranyes-t. Utazása lenyűgöző tengerparti kilátással zárul a Mirador del Escolgador de Cristo-nál.",
         "ro": "Plimbarea dvs. cu mașina începe cu ruinele fabricii romane și tranșeele adiacente ale Războiului Civil. Amiaza vă duce în natură explorând habitatele diverse din Clot de Galvany. După-amiază, parcați lângă Platja del Carabassí pentru plajă înainte de a vedea Cova de les Aranyes. Excursia se încheie cu vederi spectaculoase de coastă la Mirador del Escolgador de Cristo.",
         "en": "Your drive begins with the ancient Roman factory ruins and the adjacent Civil War trenches. Midday shifts to nature as you explore the diverse habitats of Clot de Galvany. In the afternoon, park near Platja del Carabassí for some beach time before checking out Cova de les Aranyes. Your road trip wraps up with spectacular coastal views at Mirador del Escolgador de Cristo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sichere Autofahrt zu den historischen Highlights, während der Regen gegen die Scheiben trommelt. Mittags erkunden wir das Naturschutzgebiet bequem vom Wagen aus mit kurzen Stopps im Trockenen. Nachmittags genießen wir die stürmische Brandung direkt vom Parkplatz aus. Abends lassen wir den Tag entspannt ausklingen, geschützt vor dem Unwetter und der Dunkelheit.",
+            "hu": "Biztonságos autózás a történelmi látnivalókhoz, miközben az eső a szélvédőn kopog. Délben a természetvédelmi területet kényelmesen, a kocsiból is felfedezhetjük, rövid megállókkal a fedett részeken. Délután a viharos tengerparti látványt közvetlenül a parkolóból csodálhatjuk meg. Este védve a vihartól és a sötéttől, egy kellemes helyen pihenhetünk le a nap végén.",
+            "ro": "O călătorie sigură cu mașina spre siturile istorice în timp ce ploaia bate în parbriz. La prânz explorăm rezervația naturală confortabil, făcând doar opriri scurte în zonele acoperite. După-amiaza admirăm marea agitată direct din parcare, fără a ne uda. Seara ne relaxăm într-un loc primitor, la adăpost de intemperii și de întunericul care se lasă devreme.",
+            "en": "A safe drive to historical highlights as rain drums on the windshield. At noon, explore the nature reserve comfortably from the car with short dashes to covered spots. In the afternoon, admire the stormy coastal surf directly from the parking lot. By evening, stay cozy and protected from the weather and early darkness as you conclude your day at a local retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Factoría romana",
+                "hu": "Factoría romana",
+                "ro": "Factoría romana",
+                "en": "Factoría romana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz nah an den Ruinen; der Regen bringt die natürlichen Farben der antiken Steine und Becken besonders kräftig zum Leuchten.",
+                "hu": "Parkoljon közvetlenül a romok közelében; az eső kiemeli az ókori kövek és medencék természetes színeit, így azok élénkebben festenek.",
+                "ro": "Parcați cât mai aproape de ruine; ploaia scoate în evidență culorile naturale ale pietrelor antice, făcându-le să pară mai vii.",
+                "en": "Park as close to the ruins as possible; the rain enhances the natural colors of the ancient stones and vats, making them appear more vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Trincheras guerra civil española",
+                "hu": "Trincheras guerra civil española",
+                "ro": "Trincheras guerra civil española",
+                "en": "Trincheras guerra civil española"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz zu den Bunkern ist auch bei Schauern machbar; der graue Himmel unterstreicht die ernste Geschichte dieses Ortes.",
+                "hu": "A parkolóból a bunkerekig vezető rövid séta esőben is könnyen teljesíthető; a szürke égbolt jól illik a helyszín komoly történelmi múltjához.",
+                "ro": "Scurta plimbare de la parcare la buncăre este ușor de făcut chiar și pe ploaie; cerul gri completează atmosfera sobră a locului.",
+                "en": "The short walk from the parking lot to the bunkers is manageable even in showers; the grey sky fits the somber historical atmosphere perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Clot de Galvany",
+                "hu": "Clot de Galvany",
+                "ro": "Clot de Galvany",
+                "en": "Clot de Galvany"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Informationszentrum der Reserve, um trocken mehr über die lokale Fauna zu erfahren, bevor Sie die Teiche vom Auto aus beobachten.",
+                "hu": "Látogasson el a rezervátum látogatóközpontjába, hogy szárazon ismerje meg a helyi élővilágot, majd nézze meg a tavakat az autó ablakából.",
+                "ro": "Vizitați centrul de informare al rezervației pentru a afla detalii despre fauna locală la adăpost, apoi observați lacurile din mașină.",
+                "en": "Visit the reserve's visitor center to learn about local wildlife while staying dry, then observe the ponds from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Carabassí",
+                "hu": "Platja del Carabassí",
+                "ro": "Platja del Carabassí",
+                "en": "Platja del Carabassí"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Mittelmeer gemütlich bei laufender Heizung im Auto; die Wellen sind bei Regen besonders imposant.",
+                "hu": "Élvezze a viharos tenger látványát a kényelmes, fűtött autóból; a hullámok esős időben különösen lenyűgözőek és hatalmasak.",
+                "ro": "Bucurați-vă de vederea mării agitate din confortul mașinii încălzite; valurile sunt extrem de impunătoare în timpul ploii.",
+                "en": "Enjoy the view of the stormy Mediterranean from your heated car; the waves are particularly impressive and powerful during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cova de les Aranyes",
+                "hu": "Cova de les Aranyes",
+                "ro": "Cova de les Aranyes",
+                "en": "Cova de les Aranyes"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg vom Parkplatz ist kurz; die Höhle selbst bietet ein sicheres Dach gegen den Regen und erlaubt tolle Fotos der nassen Klippen.",
+                "hu": "A parkolóból csak egy rövid kaptató vezet fel; maga a barlang biztos védelmet nyújt az eső elől, és jó fotótémát kínál a vizes sziklákon.",
+                "ro": "Urcarea de la parcare este scurtă; peștera oferă un acoperiș sigur împotriva ploii și permite fotografii superbe ale stâncilor ude.",
+                "en": "The climb from the parking lot is brief; the cave itself offers a safe roof against the rain and allows for great photos of the wet cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Escolgador de Cristo",
+                "hu": "Mirador del Escolgador de Cristo",
+                "ro": "Mirador del Escolgador de Cristo",
+                "en": "Mirador del Escolgador de Cristo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der nassen Küstenstraße zum Aussichtspunkt; der Blick auf die zerklüfteten Klippen ist bei Regen besonders dramatisch.",
+                "hu": "Vezessen óvatosan a vizes part menti úton a kilátóhoz; a szaggatott sziklák és a tenger látványa esőben rendkívül drámai hatást kelt.",
+                "ro": "Conduceți cu atenție pe drumul de coastă ud până la belvedere; priveliștea stâncilor abrupte este extrem de dramatică pe timp de ploaie.",
+                "en": "Drive carefully on the wet coastal road to the viewpoint; the view of the jagged cliffs and the sea is incredibly dramatic in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Komfortable Fahrt am Wintermorgen zu den antiken Stätten der Region. Mittags erkunden wir das Naturschutzgebiet bei milden Temperaturen und strahlendem Sonnenschein. Nachmittags gleiten wir entlang der Küstenstraße und genießen das goldene Licht auf dem Meer. Den krönenden Abschluss bildet der frühe Sonnenuntergang um 17:00 Uhr direkt vom Aussichtspunkt.",
+            "hu": "Kényelmes autózás a téli reggelen a régió ókori emlékeihez, élvezve a fűtött utasteret. Délben a természetvédelmi területet fedezzük fel a szelíd téli napsütésben. Délután a tengerparti úton gurulunk tovább, megcsodálva az aranyló fényeket a vízen. A nap fénypontja a korai, 17:00-s naplemente megtekintése közvetlenül a kilátópontról.",
+            "ro": "O plimbare confortabilă cu mașina în dimineața de iarnă către vestigiile antice. La prânz explorăm rezervația naturală sub soarele blând, bucurându-ne de temperaturile plăcute. După-amiaza conducem pe drumul de coastă, admirând reflexiile aurii de pe mare. Punctul culminant este apusul devreme de la ora 17:00, văzut direct de la belvedere.",
+            "en": "A comfortable winter morning drive to the ancient sites of the region. By noon, explore the nature reserve under the mild sun and brilliant blue skies. In the afternoon, cruise along the coastal road, enjoying the golden reflections on the sea. The highlight is witnessing the early 17:00 sunset directly from the scenic viewpoint before the evening cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Factoría romana",
+                "hu": "Factoría romana",
+                "ro": "Factoría romana",
+                "en": "Factoría romana"
+              },
+              "tip_5lang": {
+                "de": "Das morgendliche Winterlicht fällt perfekt auf die Ruinen; nutzen Sie die ruhige Nebensaison für eine Besichtigung ganz ohne Wartezeiten.",
+                "hu": "A reggeli téli fények tökéletesen világítják meg a romokat; használja ki a csendes holtszezont a várakozás nélküli nézelődésre.",
+                "ro": "Lumina dimineții de iarnă cade perfect peste ruine; profitați de extrasezonul liniștit pentru a vizita situl fără aglomerație.",
+                "en": "The morning winter light hits the ruins perfectly; take advantage of the quiet off-season for a visit without any crowds or waiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Trincheras guerra civil española",
+                "hu": "Trincheras guerra civil española",
+                "ro": "Trincheras guerra civil española",
+                "en": "Trincheras guerra civil española"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die Bucht in der klaren Winterluft; ein kurzer Spaziergang zu den Bunkern ist bei diesem Wetter sehr erfrischend.",
+                "hu": "Élvezze a tiszta téli levegőben nyíló tágas kilátást az öbölre; egy rövid séta a bunkerekhez ebben a friss időben rendkívül élénkítő.",
+                "ro": "Bucurați-vă de priveliștea largă peste golf în aerul clar de iarnă; o scurtă plimbare până la buncăre este revigorantă pe această vreme.",
+                "en": "Enjoy the expansive view over the bay in the clear winter air; a short walk to the bunkers is very refreshing in this crisp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Clot de Galvany",
+                "hu": "Clot de Galvany",
+                "ro": "Clot de Galvany",
+                "en": "Clot de Galvany"
+              },
+              "tip_5lang": {
+                "de": "Das Reservat ist im sanften Winterlicht besonders fotogen; die Parkplätze sind nah an den besten Aussichtspunkten für die Vogelbeobachtung.",
+                "hu": "A rezervátum a lágy téli fényekben különösen fotogén; a parkolók közel vannak a legjobb madármegfigyelő helyekhez a tavak mentén.",
+                "ro": "Rezervația este foarte fotogenică în lumina blândă de iarnă; parcările sunt aproape de cele mai bune puncte de observare a păsărilor.",
+                "en": "The reserve is especially photogenic in the soft winter light; parking areas are close to the best bird-watching spots along the lakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Carabassí",
+                "hu": "Platja del Carabassí",
+                "ro": "Platja del Carabassí",
+                "en": "Platja del Carabassí"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über die Dünen, solange es kühl ist; das winterliche Meer hat eine tiefblaue Farbe, die bei tiefstehender Sonne besonders toll wirkt.",
+                "hu": "Sétáljon egyet a dűnéken, amíg hűvös az idő; a téli tenger mélykék színe a lenti napállásnál érvényesül a leglátványosabban.",
+                "ro": "Plimbați-vă pe dune cât timp este răcoare; marea iarna are o culoare albastru închis care arată superb sub soarele care apune.",
+                "en": "Take a walk on the dunes while it's cool; the winter sea has a deep blue hue that looks most spectacular under the low-hanging sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Cova de les Aranyes",
+                "hu": "Cova de les Aranyes",
+                "ro": "Cova de les Aranyes",
+                "en": "Cova de les Aranyes"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Besuch der Höhle lohnt sich; die Innentemperatur fühlt sich im Winter oft wärmer an als die frische Luft an den Klippen.",
+                "hu": "Egy gyors látogatás a barlangnál megéri; a benti hőmérséklet télen gyakran melegebbnek érződik, mint a friss levegő a sziklák peremén.",
+                "ro": "O vizită rapidă la peșteră merită din plin; temperatura interioară pare adesea mai ridicată iarna decât aerul proaspăt de pe stânci.",
+                "en": "A quick visit to the cave is worthwhile; the internal temperature often feels warmer in winter than the crisp air on the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Escolgador de Cristo",
+                "hu": "Mirador del Escolgador de Cristo",
+                "ro": "Mirador del Escolgador de Cristo",
+                "en": "Mirador del Escolgador de Cristo"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für den Sonnenuntergang um 17:00 Uhr; beobachten Sie das Farbspektakel ganz entspannt direkt aus Ihrem Auto.",
+                "hu": "Ez a legjobb helyszín a 17:00-s naplemente megtekintéséhez; figyelje az égbolt színjátékát kényelmesen, közvetlenül az autójából.",
+                "ro": "Acesta este cel mai bun loc pentru apusul de la ora 17:00; urmăriți spectacolul de culori relaxat, direct din mașină.",
+                "en": "This is the prime spot for the 17:00 sunset; watch the spectacular display of colors comfortably from the warmth of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

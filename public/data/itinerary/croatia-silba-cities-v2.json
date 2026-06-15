@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a kultúra elmerülésével a szabadtéri galériában, élvezve a csendes falusi ösvényeket.\n\nA délután történelmi utazást hoz az ősi Kaštelben, majd lenyűgöző kilátás nyílik a Toreta toronyból.\n\nTöltse a délutánt Tratica és Žalić kavicsos partjain pihenve, hagyva, hogy az Adria lehűtse.\n\nAhogy leszáll az est, fedezze fel a régi malmot, és elmélkedjen az ókori szarkofágok mellett a naplementében.",
         "ro": "Începeți dimineața cufundați în cultură la galeria în aer liber, bucurându-vă de cărările liniștite.\n\nMiezul zilei aduce o călătorie istorică la anticul Kaštel, urmată de o panoramă superbă din turnul Toreta.\n\nPetreceți după-amiaza relaxându-vă pe malurile cu pietriș din Tratica și Žalić, lăsând Adriatica să vă răcorească.\n\nOdată cu lăsarea serii, explorați vechea moară și meditați la sarcofagele antice în timp ce soarele apune.",
         "en": "Start your morning immersed in culture at the open-air gallery, enjoying the quiet village paths.\n\nMidday brings a journey through history at the ancient Kaštel followed by sweeping views from the Toreta tower.\n\nSpend the afternoon relaxing on the pebbly shores of Tratica and Žalić, letting the Adriatic cool you down.\n\nAs evening falls, explore the old mill and ponder the ancient stone sarcophagi while the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Silba im Regen bietet eine melancholische, aber faszinierende Atmosphäre. Am Morgen suchen Sie Schutz in der Kunstgalerie. Mittags erkunden Sie die historischen Festungsmauern, die im Regen glänzen. Der Nachmittag führt Sie unter die schützenden Pinien am Ufer, während die Wellen gegen die Steine schlagen. Am Abend genießen Sie die Stille des Hafens im sanften Nieselregen.",
+            "hu": "Silba esőben egy különleges, melankolikus arcát mutatja. A reggelt kezdje a galéria fedett tereiben, elmerülve a művészetben. Délben a várfalak kövei között találhat menedéket a szél elől. Délután az esernyő alatt sétálva figyelje a tenger morajlását a fenyvesek árnyékában. Az estét a kikötő halk esőkopogása és a párás fények teszik meghitté a faluban.",
+            "ro": "Silba în ploaie oferă o atmosferă melancolică, dar fascinantă. Dimineața, căutați adăpost în galeria de artă. La prânz, explorați zidurile istorice care strălucesc sub picăturile de apă. După-amiaza vă poartă sub pinii protectori de pe mal, în timp ce valurile se sparg de pietre. Seara, bucurați-vă de liniștea portului sub o ploaie ușoară și lumini difuze.",
+            "en": "Silba in the rain offers a melancholic yet fascinating atmosphere. In the morning, seek shelter in the art gallery. At noon, explore the historical fortress walls that glisten in the wet light. The afternoon takes you under the protective pines along the shore as waves crash against the stones. In the evening, enjoy the silence of the harbor in the gentle drizzle and misty air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galerija Marije Ujević Galetović",
+                "hu": "Galerija Marije Ujević Galetović",
+                "ro": "Galerija Marije Ujević Galetović",
+                "en": "Galerija Marije Ujević Galetović"
+              },
+              "tip_5lang": {
+                "de": "Die Innengalerie ist der perfekte Zufluchtsort vor dem Regen; bewundern Sie die Bronzeskulpturen im Trockenen. Tragen Sie wasserfeste Schuhe für den Gartenweg.",
+                "hu": "A belső galéria tökéletes menedék az eső elől; csodálja meg a bronzszobrokat szárazon. A kerti utakhoz válasszon vízálló lábbelit a sár ellen.",
+                "ro": "Galeria interioară este refugiul perfect împotriva ploii; admirați sculpturile din bronz la adăpost. Purtați încălțăminte impermeabilă pentru potecile din grădină.",
+                "en": "The indoor gallery is the perfect sanctuary from the rain; admire the bronze sculptures while staying dry. Wear waterproof shoes for the garden paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštel",
+                "hu": "Kaštel",
+                "ro": "Kaštel",
+                "en": "Kaštel"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern bieten Schutz vor dem Wind; erkunden Sie die Nischen der Festung. Vorsicht auf den nassen Stufen, diese können sehr rutschig sein.",
+                "hu": "A masszív kőfalak védelmet nyújtanak a szél ellen; fedezze fel az erőd zugait. Vigyázzon a vizes lépcsőkkel, mert rendkívül csúszósak lehetnek az esőben.",
+                "ro": "Zidurile masive de piatră oferă protecție împotriva vântului; explorați cotloanele cetății. Atenție pe treptele ude, acestea pot fi foarte alunecoase.",
+                "en": "The massive stone walls provide protection from the wind; explore the fortress niches. Be careful on the wet steps as they can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Toreta",
+                "hu": "Toreta",
+                "ro": "Toreta",
+                "en": "Toreta"
+              },
+              "tip_5lang": {
+                "de": "Der spiralförmige Aufstieg ist eng und bietet Schutz, aber die Aussicht oben ist bei Regen dramatisch. Halten Sie sich beim Aufstieg gut am Geländer fest.",
+                "hu": "A csigalépcsős feljáró szűk és védett, a fenti kilátás pedig drámai az esőben. A kapaszkodót használja szorosan, mert a fokok nedvesek lehetnek.",
+                "ro": "Urcarea în spirală este îngustă și oferă adăpost, iar vederea de sus este dramatică pe ploaie. țineți-vă bine de balustradă în timpul urcării.",
+                "en": "The spiral ascent is narrow and sheltered, and the view from the top is dramatic in the rain. Hold firmly to the handrail as the steps may be damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Tratica",
+                "hu": "Tratica",
+                "ro": "Tratica",
+                "en": "Tratica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des grauen Meeres unter einem stabilen Regenschirm; die Pinien bieten natürlichen Schutz. Die Kieselsteine sind bei Nässe glatt.",
+                "hu": "Élvezze a szürke tenger látványát egy stabil esernyő alatt; a fenyők természetes védelmet adnak. A kavicsok vizesen simák és csúszhatnak.",
+                "ro": "Bucurați-vă de vederea mării cenușii sub o umbrelă stabilă; pinii oferă protecție naturală. Pietrele de pe plajă sunt alunecoase când sunt ude.",
+                "en": "Enjoy the sight of the grey sea under a sturdy umbrella; the pines offer natural cover. The pebbles are smooth and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Žalić",
+                "hu": "Žalić",
+                "ro": "Žalić",
+                "en": "Žalić"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der Fähre im Nebel von einem überdachten Punkt am Kai aus. Ein Regenponcho ist hier bei Seewind hilfreicher als ein Schirm.",
+                "hu": "Figyelje a komp kikötését a ködben a móló egyik fedett pontjáról. Egy esőponcsó itt hasznosabb az erős tengeri szélben, mint egy esernyő.",
+                "ro": "Urmăriți acostarea feribotului în ceață dintr-un punct acoperit de pe chei. O pelerină de ploaie este mai utilă aici decât o umbrelă din cauza vântului.",
+                "en": "Watch the ferry dock in the mist from a covered spot on the pier. A rain poncho is more useful here than an umbrella due to the strong sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Régi malom",
+                "ro": "Vechea moară",
+                "en": "Old mill"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude ist ein trockener Ort, um mehr über die lokale Geschichte zu erfahren. Nutzen Sie die Zeit für Fotos der antiken Mechanismen.",
+                "hu": "A történelmi épület száraz helyszín a helyi múlt megismeréséhez. Használja ki az időt az antik mechanizmusok részletes fotózására a fedél alatt.",
+                "ro": "Clădirea istorică este un loc uscat pentru a învăța despre trecutul local. Folosiți timpul pentru a fotografia mecanismele antice la adăpost.",
+                "en": "The historical building is a dry place to learn about local history. Use the time to photograph the antique mechanisms while sheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Überreste eines Docks mit steinernen Sarkophagen",
+                "hu": "Egy dokk romjai kőszarkofágokkal",
+                "ro": "Rămășițele unui doc cu sarcofage de piatră",
+                "en": "Remains of a dock with stone sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Sarkophage wirken im Regen besonders mystisch; ein kurzer Besuch reicht völlig aus. Achten Sie auf den instabilen Boden am Rand des Docks.",
+                "hu": "A vizes szarkofágok különösen misztikus látványt nyújtanak az esőben; egy rövid látogatás is elég. Ügyeljen a dokk szélén a bizonytalan talajra.",
+                "ro": "Sarcofagele ude arată deosebit de mistic în ploaie; o vizită scurtă este suficientă. Atenție la solul instabil de la marginea docului.",
+                "en": "The wet sarcophagi look particularly mystical in the rain; a short visit is plenty. Watch out for unstable ground at the edge of the dock."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter auf Silba ist die Zeit der absoluten Ruhe und der klaren Luft. Am Morgen genießen Sie die Einsamkeit in der Galerie. Mittags wärmt Sie die tiefstehende Sonne an den hellen Kalksteinmauern. Am Nachmittag erleben Sie den dramatischen Sonnenuntergang über der Adria gegen 17:00 Uhr. Der Abend gehört der gemütlichen Stille des fast menschenleeren Dorfes.",
+            "hu": "A téli Silba a teljes nyugalom és a tiszta levegő szigete. A reggelt kezdje a galéria csendjében, ahol ilyenkor senki sem zavarja. Délben az alacsonyan járó nap melegebbnek érződik a fehér kőfalak mentén. Délután csodálja meg a korai, 17 óra körüli naplementét a parton. Az este a szinte néptelen falu békés, meghitt csendjéé.",
+            "ro": "Iarna pe Silba este timpul liniștii absolute și al aerului curat. Dimineața, bucurați-vă de singurătate în galerie. La prânz, soarele care stă jos vă încălzește lângă zidurile albe de calcar. După-amiaza, admirați apusul dramatic peste marea Adriatică în jurul orei 17:00. Seara aparține liniștii primitoare a satului aproape pustiu.",
+            "en": "Winter on Silba is the season of absolute peace and crisp air. In the morning, enjoy the solitude of the gallery. At noon, the low-hanging sun feels warm against the white limestone walls. In the afternoon, witness the dramatic sunset over the Adriatic around 17:00. The evening belongs to the cozy silence of the nearly deserted village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galerija Marije Ujević Galetović",
+                "hu": "Galerija Marije Ujević Galetović",
+                "ro": "Galerija Marije Ujević Galetović",
+                "en": "Galerija Marije Ujević Galetović"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst ohne Sommertrubel; die Innenräume sind windgeschützt und ruhig. Kleiden Sie sich in Schichten für den Wechsel nach draußen.",
+                "hu": "Élvezze a művészetet a nyári tömeg nélkül; a belső terek szélvédettek és csendesek. Öltözzön rétegesen a kinti és benti hőmérséklet-különbség miatt.",
+                "ro": "Bucurați-vă de artă fără aglomerația de vară; interioarele sunt protejate de vânt și liniștite. Îmbrăcați-vă în straturi pentru trecerea afară.",
+                "en": "Enjoy the art without the summer crowds; the interiors are sheltered from the wind and quiet. Dress in layers for the transition to the outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštel",
+                "hu": "Kaštel",
+                "ro": "Kaštel",
+                "en": "Kaštel"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern speichern mittags ein wenig Sonnenwärme; ein idealer Ort für eine kurze Pause. Eine Mütze schützt vor der kühlen Meeresbrise.",
+                "hu": "A régi falak délben elraktározzák a nap melegét; ideális hely egy rövid pihenőre. Egy meleg sapka elengedhetetlen a hűvös tengeri szél ellen.",
+                "ro": "Zidurile vechi rețin puțină căldură solară la prânz; un loc ideal pentru o scurtă pauză. O căciulă vă va proteja de briza rece a mării.",
+                "en": "The ancient walls store a bit of solar warmth at noon; an ideal spot for a short break. A warm hat is essential against the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Toreta",
+                "hu": "Toreta",
+                "ro": "Toreta",
+                "en": "Toreta"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft sorgt für eine extrem klare Fernsicht bis zu den Nachbarinseln. Halten Sie die Kamera für das goldene Licht vor 17 Uhr bereit.",
+                "hu": "A téli levegő rendkívül tiszta kilátást biztosít a szomszédos szigetekig. Legyen készenlétben a fényképezőgép a 17 óra előtti aranyórához.",
+                "ro": "Aerul de iarnă oferă o vizibilitate extrem de clară până la insulele vecine. Pregătiți camera pentru lumina aurie de dinainte de ora 17:00.",
+                "en": "The winter air provides extremely clear views to the neighboring islands. Have your camera ready for the golden hour light before 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Tratica",
+                "hu": "Tratica",
+                "ro": "Tratica",
+                "en": "Tratica"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der Adria bei einem zügigen Strandspaziergang; Handschuhe sind empfohlen. Der Strand ist nun völlig unberührt.",
+                "hu": "Élje át az Adria vad szépségét egy tempós tengerparti sétával; kesztyű viselése ajánlott. A strand ilyenkor teljesen érintetlen és üres.",
+                "ro": "Experimentați frumusețea sălbatică a Adriaticii într-o plimbare rapidă pe plajă; se recomandă mănuși. Plaja este acum complet neatinsă.",
+                "en": "Experience the wild beauty of the Adriatic during a brisk beach walk; gloves are recommended. The beach is now completely untouched and empty."
+              }
+            },
+            {
+              "name": {
+                "de": "Žalić",
+                "hu": "Žalić",
+                "ro": "Žalić",
+                "en": "Žalić"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die wenigen Fischer bei ihrer Arbeit in der klaren Wintersonne. Suchen Sie sich einen windgeschützten Platz an der Kaimauer.",
+                "hu": "Figyelje meg a kevés halász munkáját a tiszta téli napsütésben. Keressen egy szélvédett pontot a móló fala mentén a napozáshoz.",
+                "ro": "Observați puținii pescari la lucru în soarele clar de iarnă. Căutați un loc protejat de vânt lângă zidul de la mal pentru odihnă.",
+                "en": "Observe the few fishermen at work in the clear winter sun. Find a spot sheltered from the wind along the pier wall for a brief rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Régi malom",
+                "ro": "Vechea moară",
+                "en": "Old mill"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor der Bura; ein interessanter Blick in die lokale Technikgeschichte. Ideal, um sich kurz aufzuwärmen.",
+                "hu": "A vastag falak jól védenek a bóra szél elől; érdekes betekintés a helyi technikatörténetbe. Ideális helyszín egy rövid beltéri felmelegedéshez.",
+                "ro": "Zidurile groase protejează bine de vântul Bura; o incursiune interesantă în istoria tehnicii locale. Ideal pentru o scurtă încălzire.",
+                "en": "The thick walls protect well from the Bura wind; an interesting insight into local technical history. An ideal spot to warm up briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Überreste eines Docks mit steinernen Sarkophagen",
+                "hu": "Egy dokk romjai kőszarkofágokkal",
+                "ro": "Rămășițele unui doc cu sarcofage de piatră",
+                "en": "Remains of a dock with stone sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken in der winterlichen Dämmerung besonders eindrucksvoll. Beenden Sie den Besuch, bevor es nach 17 Uhr dunkel wird.",
+                "hu": "Az antik kövek a téli szürkületben különösen hatásos látványt nyújtanak. Fejezze be a látogatást, mielőtt 17 óra után hirtelen besötétedik.",
+                "ro": "Pietrele antice par deosebit de impresionante în amurgul de iarnă. Încheiați vizita înainte de a se întuneca, după ora 17:00.",
+                "en": "The ancient stones look particularly impressive in the winter twilight. Finish your visit before it gets dark after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje kerékpáros kalandját egy utazással az érintetlen északi Luka Papranica öbölbe egy csendes kezdésért.\n\nTekerjen vissza a központba egy frissítő fürdőzésre a Tratica strandon és egy gyors mászásra a Toretához.\n\nA délutáni fénypontok közé tartoznak olyan történelmi nevezetességek, mint a Kaštel és a lenyűgöző szoborgaléria.\n\nZárja a napot délre haladva a titokzatos szarkofágokhoz, mielőtt élvezné Mahove vad tengerparti szépségét.",
         "ro": "Începeți aventura pe bicicletă explorând golful nordic imaculat Luka Papranica pentru un start liniștit.\n\nPedalați înapoi spre centru pentru o baie revigorantă la Tratica și o scurtă urcare pe faimosul turn Toreta.\n\nPunctele de atracție ale după-amiezii includ repere istorice precum Kaštel și fascinanta galerie de sculpturi.\n\nÎncheiați ziua mergând spre sud pentru a examina sarcofagele misterioase înainte de frumusețea din Mahove.",
         "en": "Kick off your cycling adventure by venturing to the pristine northern cove of Luka Papranica for a quiet start.\n\nPedal back towards the center for a refreshing swim at Tratica and a quick climb up the iconic Toreta.\n\nAfternoon highlights include historical landmarks like the Kaštel and the fascinating open-air sculpture gallery.\n\nEnd the day riding south to examine mysterious sarcophagi before enjoying the wild coastal beauty of Mahove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren auf Silba im Regen erfordert Vorsicht, bietet aber einsame Wege durch die Natur. Am Morgen fahren Sie vorsichtig zu den abgelegenen Buchten. Mittags bieten die Pinienwälder einen gewissen Schutz vor dem Guss. Der Nachmittag führt Sie zurück ins Dorf, wo Sie in der Galerie trocknen können. Am Abend glänzen die Steingassen im Schein der Lampen.",
+            "hu": "A kerékpározás Silbán esőben óvatosságot igényel, de magányos utakat kínál a természetben. Reggel tekerjen óvatosan a távoli öblök felé. Délben a fenyvesek némi védelmet nyújtanak a záporok elől. Délután térjen vissza a faluba, ahol a galériában megszáradhat. Este a köves utcák csillognak a lámpák fényében a párás időben.",
+            "ro": "Mersul pe bicicletă în Silba pe ploaie necesită prudență, dar oferă trasee solitare prin natură. Dimineața, pedalați cu grijă spre golfurile îndepărtate. La prânz, pădurile de pini oferă o oarecare protecție. După-amiaza, întoarceți-vă în sat pentru a vă usca în galerie. Seara, ulițele de piatră strălucesc sub lumina felinarelor.",
+            "en": "Cycling on Silba in the rain requires caution but offers solitary paths through nature. In the morning, ride carefully toward the remote bays. At noon, the pine forests provide some natural cover from the showers. In the afternoon, return to the village where you can dry off in the gallery. In the evening, the stone streets glisten under the lamps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Papranica",
+                "hu": "Luka Papranica",
+                "ro": "Luka Papranica",
+                "en": "Luka Papranica"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Bucht kann matschig sein; prüfen Sie Ihre Bremsen vor der Abfahrt. Ein Schutzblech am Rad verhindert Schlammspritzer auf der Kleidung.",
+                "hu": "Az öbölhöz vezető út sáros lehet; indulás előtt ellenőrizze a fékeket. A sárvédő használata javasolt, hogy elkerülje a felcsapódó vizet.",
+                "ro": "Drumul spre golf poate fi noroios; verificați frânele înainte de plecare. O aripă la bicicletă va preveni stropirea hainelor cu noroi.",
+                "en": "The path to the bay can be muddy; check your brakes before heading out. A mudguard on your bike will prevent mud splashes on your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Tratica",
+                "hu": "Tratica",
+                "ro": "Tratica",
+                "en": "Tratica"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenwege sind rutschig durch nasse Piniennadeln; fahren Sie langsam. Die salzige Luft und der Regen machen die Fahrt erfrischend.",
+                "hu": "A parti utak csúszósak a nedves fenyőtűktől; tekerjen lassabb tempóban. A sós levegő és az eső frissítő élménnyé teszi az utat.",
+                "ro": "Drumurile de coastă sunt alunecoase din cauza acelor de pin ude; pedalați încet. Aerul sărat și ploaia fac plimbarea foarte revigorantă.",
+                "en": "Coastal paths are slippery due to wet pine needles; ride at a slower pace. The salty air and rain make for a refreshing cycling experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Toreta",
+                "hu": "Toreta",
+                "ro": "Toreta",
+                "en": "Toreta"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab, bevor Sie den Turm besteigen. Die Aussicht auf die stürmische See lohnt die Mühe.",
+                "hu": "Hagyja a kerékpárt egy védett helyen, mielőtt felmászik a toronyba. A viharos tenger látványa felülről megéri a rövid megállót.",
+                "ro": "Parcați bicicleta într-un loc protejat înainte de a urca în turn. Vederea mării agitate de sus merită efortul opririi.",
+                "en": "Park your bike in a sheltered spot before climbing the tower. The view of the stormy sea from above is worth the short stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštel",
+                "hu": "Kaštel",
+                "ro": "Kaštel",
+                "en": "Kaštel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof für eine kurze Pause im Trockenen. Achten Sie auf den glatten Steinboden beim Schieben des Rades.",
+                "hu": "Használja a belső udvart egy rövid, száraz pihenőre. Ügyeljen a sima kőburkolatra, ha tolnia kell a kerékpárt az esőben.",
+                "ro": "Folosiți curtea interioară pentru o scurtă pauză la uscat. Atenție la pavajul neted de piatră dacă trebuie să împingeți bicicleta.",
+                "en": "Use the inner courtyard for a short, dry break. Watch out for smooth stone pavement if you need to push your bike in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija Marije Ujević Galetović",
+                "hu": "Galerija Marije Ujević Galetović",
+                "ro": "Galerija Marije Ujević Galetović",
+                "en": "Galerija Marije Ujević Galetović"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Radfahren zu unterbrechen und Kunst im Warmen zu genießen. Nutzen Sie die Zeit, um Ihre Regenbekleidung auszuschütteln.",
+                "hu": "Ideális helyszín a tekerés megszakítására és a művészet élvezetére a fedél alatt. Használja ki az időt az esőruha lerázására.",
+                "ro": "Locul ideal pentru a întrerupe pedalatul și a savura arta la adăpost. Folosiți timpul pentru a vă scutura pelerina de ploaie.",
+                "en": "An ideal spot to take a break from cycling and enjoy art under cover. Use the time to shake off your rain gear and dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Überreste eines Docks mit steinernen Sarkophagen",
+                "hu": "Egy dokk romjai kőszarkofágokkal",
+                "ro": "Rămășițele unui doc cu sarcofage de piatră",
+                "en": "Remains of a dock with stone sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den nassen Steinplatten am Dock besonders vorsichtig. Die dunklen Sarkophage wirken bei grauem Himmel sehr eindrucksvoll.",
+                "hu": "A vizes kőlapokon a dokknál tekerjen kiemelt óvatossággal. A sötét szarkofágok a szürke égbolt alatt rendkívül hatásos látványt nyújtanak.",
+                "ro": "Pedalați cu mare atenție pe plăcile de piatră ude de la doc. Sarcofagele întunecate sub cerul cenușiu oferă o priveliște impresionantă.",
+                "en": "Ride with extra caution on the wet stone slabs at the dock. The dark sarcophagi look very impressive under the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahove",
+                "hu": "Mahove",
+                "ro": "Mahove",
+                "en": "Mahove"
+              },
+              "tip_5lang": {
+                "de": "Die abgelegene Bucht bietet im Regen eine wilde, unberührte Atmosphäre. Achten Sie auf Schlamm auf dem Rückweg zum Dorf.",
+                "hu": "A távoli öböl az esőben vad és érintetlen hangulatot áraszt. Ügyeljen a sárra a falu felé vezető visszaúton a természetben.",
+                "ro": "Golful îndepărtat oferă o atmosferă sălbatică și neatinsă pe ploaie. Atenție la noroi pe drumul de întoarcere spre sat.",
+                "en": "The remote bay offers a wild and untouched atmosphere in the rain. Watch out for mud on the return path back to the village."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter auf Silba ist erfrischend und bietet glasklare Ausblicke. Am Morgen wärmt die Bewegung bei der Fahrt durch die Pinien. Mittags genießen Sie die Sonne an den geschützten Buchten. Der Nachmittag bietet goldenes Licht für Fotos, bevor es gegen 17:00 Uhr rasch abkühlt. Am Abend kehren Sie in die Stille des beleuchteten Dorfes zurück.",
+            "hu": "A téli kerékpározás Silbán frissítő élmény, tiszta kilátással a tengerre. Reggel a mozgás hamar felmelegíti a fenyvesek közötti utakon. Délben élvezze a napsütést a szélvédett öblökben. Délután az aranyló fények tökéletesek a fotózáshoz, mielőtt 17 óra körül lehűl az idő. Este térjen vissza a kivilágított falu békéjébe.",
+            "ro": "Mersul pe bicicletă iarna pe Silba este revigorant și oferă vederi clare spre mare. Dimineața, mișcarea vă va încălzi rapid pe drumurile dintre pini. La prânz, bucurați-vă de soare în golfurile ferite de vânt. După-amiaza oferă lumini aurii pentru fotografii înainte de răcirea de la ora 17:00. Seara, reveniți în liniștea satului luminat.",
+            "en": "Cycling in winter on Silba is refreshing and offers crystal-clear views of the sea. In the morning, the movement quickly warms you up on the pine paths. At noon, enjoy the sun in the sheltered bays. The afternoon provides golden light for photos before it cools down rapidly around 17:00. In the evening, return to the peace of the lit village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Papranica",
+                "hu": "Luka Papranica",
+                "ro": "Luka Papranica",
+                "en": "Luka Papranica"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter ein Ort der Stille; warme Handschuhe sind für die Abfahrt wichtig. Genießen Sie die intensiven Farben des Meeres.",
+                "hu": "Az öböl télen a csend szigete; a lejtőkön a meleg kesztyű elengedhetetlen a menetszél ellen. Csodálja meg a tenger intenzív téli színeit.",
+                "ro": "Golful este un loc al liniștii iarna; mănușile groase sunt importante pentru coborâri. Admirați culorile intense ale mării în soarele rece.",
+                "en": "The bay is a place of silence in winter; warm gloves are essential for the descents against the wind. Admire the intense winter colors of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Tratica",
+                "hu": "Tratica",
+                "ro": "Tratica",
+                "en": "Tratica"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine sonnige Pause; der Wind kann hier jedoch frisch sein. Tragen Sie ein winddichtes Stirnband unter dem Helm.",
+                "hu": "Gyönyörű hely egy napsütéses pihenőhöz, de a szél itt friss lehet. Viseljen szélálló fejpántot a sisak alatt a fül védelmére.",
+                "ro": "Un loc frumos pentru o pauză însorită; totuși, vântul poate fi rece aici. Purtați o bentiță rezistentă la vânt sub cască.",
+                "en": "A beautiful spot for a sunny break, though the wind can be fresh here. Wear a windproof headband under your helmet to protect your ears."
+              }
+            },
+            {
+              "name": {
+                "de": "Toreta",
+                "hu": "Toreta",
+                "ro": "Toreta",
+                "en": "Toreta"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad gut gesichert ab; oben auf dem Turm ist der Wind im Winter oft sehr stark. Die Fernsicht ist jetzt am besten.",
+                "hu": "Hagyja a kerékpárt biztonságosan lezárva; a torony tetején a szél télen gyakran igen erős. A kilátás ilyenkor a legtisztább a távolba.",
+                "ro": "Lăsați bicicleta bine asigurată; sus în turn, vântul este adesea foarte puternic iarna. Vizibilitatea la distanță este acum la cote maxime.",
+                "en": "Leave your bike safely locked; the wind at the top of the tower is often very strong in winter. The distant visibility is at its best now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštel",
+                "hu": "Kaštel",
+                "ro": "Kaštel",
+                "en": "Kaštel"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Mittagssonne; ein guter Ort, um kurz die Beine auszuruhen. Sorgen Sie für ausreichend warme Schichten.",
+                "hu": "A kövek elraktározzák a déli napot; jó hely egy rövid lábpihentetőhöz. Ügyeljen a megfelelő réteges öltözködésre a tekerés után.",
+                "ro": "Pietrele rețin soarele de la prânz; un loc bun pentru a vă odihni picioarele. Asigurați-vă că aveți suficiente straturi călduroase.",
+                "en": "The stones store the midday sun; a good place to briefly rest your legs. Ensure you have adequate warm layers after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija Marije Ujević Galetović",
+                "hu": "Galerija Marije Ujević Galetović",
+                "ro": "Galerija Marije Ujević Galetović",
+                "en": "Galerija Marije Ujević Galetović"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, während Sie die Kunstwerke betrachten. Nutzen Sie den Fahrradständer am Eingang, falls vorhanden.",
+                "hu": "Melegedjen fel a belső térben, miközben a műalkotásokat nézi. Használja a bejáratnál lévő tárolót, és ne feledje a rétegeket visszavenni.",
+                "ro": "Încălziți-vă în interior în timp ce priviți operele de artă. Folosiți suportul de biciclete de la intrare dacă este disponibil.",
+                "en": "Warm up inside while viewing the artworks. Use the bike rack at the entrance and remember to put your layers back on before leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Überreste eines Docks mit steinernen Sarkophagen",
+                "hu": "Egy dokk romjai kőszarkofágokkal",
+                "ro": "Rămășițele unui doc cu sarcofage de piatră",
+                "en": "Remains of a dock with stone sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im sanften Licht des späten Nachmittags. Planen Sie den Rückweg so, dass Sie vor Sonnenuntergang im Dorf sind.",
+                "hu": "Látogassa meg ezt a helyet a késő délutáni lágy fényekben. Tervezze úgy a visszautat, hogy naplemente előtt beérjen a faluba.",
+                "ro": "Vizitați acest loc în lumina blândă a după-amiezii târzii. Planificați drumul de întoarcere pentru a ajunge în sat înainte de apus.",
+                "en": "Visit this spot in the soft light of late afternoon. Plan your return path so you reach the village before the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahove",
+                "hu": "Mahove",
+                "ro": "Mahove",
+                "en": "Mahove"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mahove-Bucht ist im Winter einsam und wild; achten Sie auf die Zeit. Ein heißes Getränk in der Thermoskanne ist hier ideal.",
+                "hu": "A Mahove-öbölhöz vezető út télen elhagyatott és vad; figyeljen az időre. Egy termosznyi forró ital itt tökéletes kiegészítő.",
+                "ro": "Drumul spre golful Mahove este singuratic și sălbatic iarna; atenție la timp. O băutură caldă într-un termos este ideală aici.",
+                "en": "The path to Mahove bay is lonely and wild in winter; keep an eye on the time. A thermos of hot drink is a perfect companion here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Kezdje festői utazását a Luka Papranica eldugott természeti szépségének felfedezésével a csendes reggeli levegőn.\n\nParkoljon le a faluközpont közelében délben, hogy élvezze a Žalić strandot, és mássza meg a Történelmi Toretát.\n\nTérjen át a délutánra a Kaštel erődromok és a megőrzött régi malom varázsának felfedezésével.\n\nFejezze be a napi utazást a déli parton, csodálja meg a kőszarkofágokat és a Mahove természetes békéjét.",
         "ro": "Începeți plimbarea scenică vizitând frumusețea naturală izolată a golfului Luka Papranica în dimineața liniștită.\n\nParcați lângă centrul satului la prânz pentru a vă bucura de plaja Žalić și pentru a urca pe istorica Toreta.\n\nContinuați după-amiaza explorând ruinele cetății Kaštel și farmecul vechii mori excelent conservate.\n\nÎncheiați călătoria zilei pe coasta de sud, admirând sarcofagele din piatră și pacea naturală din Mahove.",
         "en": "Begin your scenic drive by visiting the secluded natural beauty of Luka Papranica in the tranquil morning air.\n\nPark near the village center midday to enjoy the lively beach of Žalić and climb the historic Toreta.\n\nTransition into the afternoon exploring the Kaštel fortress ruins and the charm of the preserved old mill.\n\nFinish your day's journey at the southern coast, marveling at stone sarcophagi and the natural peace of Mahove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auch wenn Silba fast autofrei ist, bietet diese Route (für Servicefahrzeuge) Schutz vor dem Regen. Am Morgen erkunden Sie die Küste trocken aus dem Innenraum. Mittags besuchen Sie die historischen Bauten als feste Stützpunkte. Der Nachmittag gehört der Kunstgalerie als sicherem Hafen. Am Abend genießen Sie die regnerische Hafenatmosphäre bequem und warm.",
+            "hu": "Bár Silba szinte autómentes, ez az útvonal (szervizjárműveknek) védelmet nyújt az eső elől. Reggel fedezze fel a partot szárazon az utastérből. Délben a történelmi épületek biztos pontként szolgálnak a záporok között. Délután a galéria kínál biztonságos menedéket. Este élvezze a kikötő esős hangulatát kényelemben és melegben.",
+            "ro": "Deși Silba este aproape fără mașini, acest traseu (pentru vehicule de serviciu) oferă protecție împotriva ploii. Dimineața, explorați coasta la uscat din habitaclu. La prânz, vizitați clădirile istorice ca puncte de sprijin. După-amiaza aparține galeriei de artă ca refugiu sigur. Seara, bucurați-vă de atmosfera ploioasă a portului în confort.",
+            "en": "Even though Silba is nearly car-free, this route (for service vehicles) provides shelter from the rain. In the morning, explore the coast dry from the interior. At noon, visit the historical buildings as reliable anchors between showers. The afternoon belongs to the art gallery as a safe haven. In the evening, enjoy the rainy harbor atmosphere in comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Papranica",
+                "hu": "Luka Papranica",
+                "ro": "Luka Papranica",
+                "en": "Luka Papranica"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über der Bucht bequem vom Parkplatz aus. Achten Sie auf weichen Boden an den Rändern der Zufahrtswege.",
+                "hu": "Figyelje az esős időt az öböl felett kényelmesen a parkolóból. Ügyeljen a felázott talajra az öbölhöz vezető bekötőutak mentén.",
+                "ro": "Observați vremea ploioasă deasupra golfului confortabil din parcare. Atenție la solul moale de pe marginile drumurilor de acces.",
+                "en": "Watch the rainy weather over the bay comfortably from the parking spot. Watch out for soft ground at the edges of the access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Žalić",
+                "hu": "Žalić",
+                "ro": "Žalić",
+                "en": "Žalić"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenbereich ist auch im Regen gut erreichbar; bleiben Sie für Fotos nah am Wagen. Ein kurzer Sprint zum Kai reicht für den Ausblick.",
+                "hu": "A kikötői rész esőben is könnyen megközelíthető; maradjon a jármű közelében a fotózáshoz. Egy rövid séta is elég a mólóig a kilátásért.",
+                "ro": "Zona portului este ușor accesibilă chiar și pe ploaie; rămâneți aproape de vehicul pentru poze. Un scurt sprint până la dig este suficient.",
+                "en": "The harbor area is easily accessible even in the rain; stay near the vehicle for photos. A short sprint to the pier is enough for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Toreta",
+                "hu": "Toreta",
+                "ro": "Toreta",
+                "en": "Toreta"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Turm, um den Fußweg im Regen kurz zu halten. Die steinerne Wendeltreppe ist im Inneren trocken.",
+                "hu": "Parkoljon a lehető legközelebb a toronyhoz, hogy lerövidítse az esőben megtett utat. A kő csigalépcső belül száraz és védett marad.",
+                "ro": "Parcați cât mai aproape de turn pentru a scurta drumul pe jos prin ploaie. Scara de piatră în spirală este uscată în interior.",
+                "en": "Park as close as possible to the tower to keep the walk in the rain short. The stone spiral staircase remains dry and sheltered inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštel",
+                "hu": "Kaštel",
+                "ro": "Kaštel",
+                "en": "Kaštel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Gebäude als festen Schutzpunkt vor starken Güssen. Achten Sie beim Ein- und Aussteigen auf Pfützen in den Gassen.",
+                "hu": "Használja az épületet biztos menedékként az intenzív záporok elől. Ügyeljen a tócsákra a szűk utcákban a ki- és beszálláskor.",
+                "ro": "Folosiți clădirea ca punct de adăpost fix împotriva averselor. Atenție la bălțile de pe ulițe în momentul urcării sau coborârii.",
+                "en": "Use the building as a solid shelter from heavy showers. Watch out for puddles in the narrow streets when getting in or out."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Régi malom",
+                "ro": "Vechea moară",
+                "en": "Old mill"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp, um mehr über die Insel zu erfahren, ohne nass zu werden. Parken Sie vorsichtig auf den engen Wendeflächen.",
+                "hu": "Ideális beltéri megálló a sziget megismeréséhez anélkül, hogy megázna. Parkoljon óvatosan a szűk fordulókban az épület közelében.",
+                "ro": "O oprire ideală la interior pentru a învăța despre insulă fără a vă uda. Parcați cu atenție în spațiile de manevră înguste.",
+                "en": "An ideal indoor stop to learn about the island without getting wet. Park carefully in the narrow turning spaces near the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Überreste eines Docks mit steinernen Sarkophagen",
+                "hu": "Egy dokk romjai kőszarkofágokkal",
+                "ro": "Rămășițele unui doc cu sarcofage de piatră",
+                "en": "Remains of a dock with stone sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Die Sarkophage sind direkt vom Fahrweg aus zu sehen; ein kurzer Stopp im Regen genügt. Vorsicht auf dem rutschigen Dock beim Aussteigen.",
+                "hu": "A szarkofágok közvetlenül az útról is látszanak; egy rövid megálló is elég az esőben. Vigyázzon a csúszós felületre kiszálláskor.",
+                "ro": "Sarcofagele sunt vizibile direct de pe drum; o scurtă oprire pe ploaie este suficientă. Atenție la suprafața alunecoasă la coborâre.",
+                "en": "The sarcophagi are visible directly from the road; a short stop in the rain is plenty. Be careful of the slippery surface when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahove",
+                "hu": "Mahove",
+                "ro": "Mahove",
+                "en": "Mahove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die wilde Natur bequem aus dem warmen Wagen. Prüfen Sie die Befahrbarkeit des Weges bei starkem Regen.",
+                "hu": "Élvezze a vad természet látványát kényelmesen a meleg járműből. Erős esőben ellenőrizze az út járhatóságát a sár miatt.",
+                "ro": "Bucurați-vă de vederea naturii sălbatice confortabil din mașina caldă. Verificați starea drumului pe ploaie puternică din cauza noroiului.",
+                "en": "Enjoy the sight of wild nature comfortably from the warm vehicle. In heavy rain, check the road conditions for mud before proceeding."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt über Silba im Winter bietet Komfort und Schutz vor der kühlen Bura. Am Morgen erreichen Sie mühelos die entlegenen Buchten in der klaren Luft. Mittags nutzen Sie die Standheizung für gemütliche Pausen mit Meerblick. Der Nachmittag bietet spektakuläre Lichtverhältnisse für Fotos bis 17:00 Uhr. Am Abend kehren Sie ins beleuchtete, friedliche Dorf zurück.",
+            "hu": "A téli autózás Silbán kényelmet és védelmet nyújt a hűvös bóra szél ellen. Reggel könnyedén elérheti a távoli öblöket a tiszta téli levegőben. Délben élvezze a fűtött utasteret a tengerre néző pihenők alatt. Délután 17 óráig látványos fények kísérik az utat. Este térjen vissza a kivilágított, békés faluba.",
+            "ro": "Călătoria cu mașina iarna pe Silba oferă confort și protecție împotriva vântului rece Bura. Dimineața, ajungeți ușor la golfurile îndepărtate în aerul clar. La prânz, folosiți căldura din mașină pentru pauze cu vedere la mare. După-amiaza oferă lumini spectaculoase până la ora 17:00. Seara, reveniți în satul luminat și liniștit.",
+            "en": "Driving across Silba in winter offers comfort and protection from the chilly Bura wind. In the morning, easily reach remote bays in the crisp winter air. At noon, enjoy the heated interior during breaks with sea views. The afternoon provides spectacular lighting for photos until 17:00. In the evening, return to the peacefully lit village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luka Papranica",
+                "hu": "Luka Papranica",
+                "ro": "Luka Papranica",
+                "en": "Luka Papranica"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter menschenleer; genießen Sie die Ruhe aus dem Wagen. Nehmen Sie eine Thermoskanne mit, um die Aussicht warm zu genießen.",
+                "hu": "Az öböl télen teljesen néptelen; élvezze a csendet a járműből. Vigyen magával termoszt, hogy forró itallal élvezhesse a kilátást.",
+                "ro": "Golful este pustiu iarna; bucurați-vă de liniște din mașină. Luați un termos cu dumneavoastră pentru a savura priveliștea la căldură.",
+                "en": "The bay is deserted in winter; enjoy the silence from your vehicle. Take a thermos along to enjoy the view with a hot drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Žalić",
+                "hu": "Žalić",
+                "ro": "Žalić",
+                "en": "Žalić"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenbereich bietet im Winter klare Sicht auf das Festland und Velebit. Parken Sie windgeschützt hinter den Gebäuden am Kai.",
+                "hu": "A kikötőből télen tiszta kilátás nyílik a szárazföldre és a Velebitre. Parkoljon szélvédett helyen a móló menti épületek mögött.",
+                "ro": "Zona portului oferă iarna o vedere clară spre continent și munții Velebit. Parcați ferit de vânt în spatele clădirilor de pe chei.",
+                "en": "The harbor area offers clear views of the mainland and Velebit mountains in winter. Park in a wind-sheltered spot behind the pier buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Toreta",
+                "hu": "Toreta",
+                "ro": "Toreta",
+                "en": "Toreta"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für das klassische Foto; der Aufstieg ist im Winter oft sehr windig. Halten Sie die Autotüren beim Öffnen fest.",
+                "hu": "Egy rövid megálló a klasszikus fotóhoz; a toronyba felmenni télen gyakran igen szeles. Vigyázzon az ajtónyitással az erős szélben.",
+                "ro": "O scurtă oprire pentru poza clasică; urcarea în turn este adesea foarte vântoasă iarna. țineți bine ușile mașinii la deschidere.",
+                "en": "A short stop for the classic photo; climbing the tower is often very windy in winter. Hold the car doors firmly when opening them in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštel",
+                "hu": "Kaštel",
+                "ro": "Kaštel",
+                "en": "Kaštel"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken im tiefstehenden Winterlicht besonders plastisch. Nutzen Sie die Nähe zum Fahrzeug für häufige Aufwärmpausen.",
+                "hu": "A történelmi falak az alacsony téli fényben különösen plasztikus látványt nyújtanak. Használja ki a közeli fűtött utastér adta meleget.",
+                "ro": "Zidurile istorice arată deosebit de bine în lumina joasă a iernii. Folosiți proximitatea vehiculului pentru pauze frecvente de încălzire.",
+                "en": "The historical walls look particularly striking in the low winter light. Take advantage of the nearby vehicle for frequent warm-up breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Régi malom",
+                "ro": "Vechea moară",
+                "en": "Old mill"
+              },
+              "tip_5lang": {
+                "de": "Ein interessanter Einblick in die Inseltechnik, gut geschützt vor der Bura. Prüfen Sie die Zufahrt, da die Gassen im Winter ruhig sind.",
+                "hu": "Érdekes betekintés a sziget technikai múltjába, védve a bórától. Ellenőrizze a megközelítést, bár az utcák télen nagyon csendesek.",
+                "ro": "O incursiune interesantă în tehnica insulei, bine protejată de vântul Bura. Verificați accesul, deși ulițele sunt foarte liniștite iarna.",
+                "en": "An interesting insight into the island's technical past, well protected from the Bura. Check the access, though the streets are very quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Überreste eines Docks mit steinernen Sarkophagen",
+                "hu": "Egy dokk romjai kőszarkofágokkal",
+                "ro": "Rămășițele unui doc cu sarcofage de piatră",
+                "en": "Remains of a dock with stone sarcophagi"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine im goldenen Licht des späten Nachmittags sind ein Highlight. Achten Sie auf die Uhrzeit, der Sonnenuntergang ist um 17 Uhr.",
+                "hu": "Az antik kövek a késő délutáni aranyló fényben a túra fénypontjai. Ügyeljen az időre, mert a naplemente már 17 órakor bekövetkezik.",
+                "ro": "Pietrele antice în lumina aurie a după-amiezii târzii sunt un punct culminant. Atenție la oră, apusul soarelui este la ora 17:00.",
+                "en": "The ancient stones in the golden light of late afternoon are a highlight. Keep an eye on the time, as sunset occurs around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahove",
+                "hu": "Mahove",
+                "ro": "Mahove",
+                "en": "Mahove"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf die wilde Wintersee aus dem sicheren Wagen. Genießen Sie die Einsamkeit am Ende der Insel.",
+                "hu": "Zárja a napot a vad téli tenger látványával a biztonságos járműből. Élvezze a sziget végének teljes magányát és nyugalmát.",
+                "ro": "Încheiați ziua cu o privire asupra mării sălbatice de iarnă din siguranța mașinii. Bucurați-vă de singurătatea de la capătul insulei.",
+                "en": "End the day with a view of the wild winter sea from the safety of your vehicle. Enjoy the total solitude at the end of the island."
+              }
+            }
+          ]
+        }
       }
     }
   }

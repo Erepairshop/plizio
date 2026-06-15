@@ -137,6 +137,168 @@
         "hu": "A reggel a Plage des Gireliers frissítő meglátogatásával kezdődik, ahol a Földközi-tenger lágy hullámai fogadják. Ahogy közeledik a dél, átsétálunk a Plage de la Pinède felé, hogy az illatos fenyők árnyékában pihenjünk, majd elmerüljünk a helyi kultúrában az Espace Robert Manuelben. A délután a Chapelle Sainte-Thérèse kápolnájában kínál nyugalmat. Sétánkat a Plage calanque de Tardieu sziklás öbleinél fejezzük be.",
         "ro": "Dimineața începe cu o vizită revigorantă la Plage des Gireliers, unde vă întâmpină valurile blânde ale Mediteranei. Pe măsură ce se apropie prânzul, ne plimbăm spre Plage de la Pinède, găsind umbră sub pinii parfumați înainte de a explora cultura la Espace Robert Manuel. După-amiaza oferă un moment de liniște la Chapelle Sainte-Thérèse. Ne încheiem turul la Plage calanque de Tardieu, relaxându-ne lângă golfurile stâncoase.",
         "en": "Morning begins with a refreshing visit to Plage des Gireliers, where the gentle Mediterranean waves greet you. As midday approaches, we stroll to Plage de la Pinède, finding shade under the fragrant pine trees before delving into local culture at Espace Robert Manuel. The afternoon offers a moment of serenity at the Chapelle Sainte-Thérèse, standing peacefully near the coast. We conclude our walking tour at Plage calanque de Tardieu, relaxing by the rocky coves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen an den Gireliers bietet eine mystische Sicht auf das Meer. Mittags suchen wir Schutz unter Pinien und besuchen kulturelle Orte. Am Nachmittag wird der Küstenweg rutschig, daher ist Vorsicht geboten. Der Abend klingt bei prasselndem Regen in einem gemütlichen Lokal am Hafen ruhig aus, während die Wellen gegen die Ufermauer schlagen.",
+            "hu": "Az esős reggel a Gireliers-parton misztikus látványt nyújt a tajtékzó tengerrel. Délben a fenyvesek és kulturális terek kínálnak menedéket a zápor elől. Délután a tengerparti ösvények csúszóssá válnak, így óvatos léptekre van szükség. Az este a kikötő közelségében, a kopogó eső hangja mellett ér véget, egy kellemes, fedett helyen megpihenve.",
+            "ro": "O dimineață ploioasă la Gireliers oferă o vedere mistică asupra mării agitate. La prânz căutăm adăpost sub pini și vizităm spații culturale protejate. După-amiaza, potecile de coastă devin alunecoase, deci este necesară prudență maximă. Seara se încheie liniștit lângă port, ascultând ploaia care bate în ferestrele unei cafenele primitoare.",
+            "en": "A rainy morning at Gireliers offers a mystical view of the churning sea. At noon, we find shelter under the pines and visit protected cultural spaces. In the afternoon, the coastal paths become slippery, requiring careful steps and sturdy boots. The evening ends quietly near the harbor, listening to the rain patter against the windows of a cozy venue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage des Gireliers",
+                "hu": "Plage des Gireliers",
+                "ro": "Plage des Gireliers",
+                "en": "Plage des Gireliers"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die grauen Wellen unter einem großen Regenschirm; wasserfeste Schuhe sind auf dem nassen Sand und den glatten Felsen unbedingt erforderlich.",
+                "hu": "Figyelje meg a szürke hullámokat egy nagy esernyő alól; a nedves homokon és a csúszós sziklákon feltétlenül vízálló lábbelire lesz szüksége.",
+                "ro": "Observați valurile cenușii sub o umbrelă mare; încălțămintea impermeabilă este absolut necesară pe nisipul ud și pe stâncile alunecoase.",
+                "en": "Watch the gray waves from under a large umbrella; waterproof footwear is essential on the wet sand and the slippery rocks along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Pinède",
+                "hu": "Plage de la Pinède",
+                "ro": "Plage de la Pinède",
+                "en": "Plage de la Pinède"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Pinien bieten einen natürlichen Schutz vor leichtem Nieselregen; nutzen Sie die überdachten Bänke für eine kurze, trockene Pause.",
+                "hu": "A sűrű fenyőágak természetes védelmet nyújtanak az enyhe szemerkélés ellen; használja a fedett padokat egy rövid, száraz pihenőre.",
+                "ro": "Pinii deși oferă o protecție naturală împotriva burniței ușoare; folosiți băncile acoperite pentru o scurtă pauză uscată și relaxantă.",
+                "en": "The dense pine branches offer natural protection against light drizzle; use the covered benches for a short, dry break during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Manuel",
+                "hu": "Espace Robert Manuel",
+                "ro": "Espace Robert Manuel",
+                "en": "Espace Robert Manuel"
+              },
+              "tip_5lang": {
+                "de": "Dieser kulturelle Ort ist der ideale Zufluchtsort bei Starkregen; genießen Sie die Ausstellungen im Trockenen und warten Sie den Schauer ab.",
+                "hu": "Ez a kulturális tér ideális menedék heves esőzés idején; élvezze a kiállításokat szárazon, amíg megvárja a zápor végét.",
+                "ro": "Acest spațiu cultural este refugiul ideal în caz de ploaie torențială; bucurați-vă de expoziții la adăpost în timp ce așteptați să treacă ploaia.",
+                "en": "This cultural space is the ideal refuge during heavy rain; enjoy the indoor exhibits in the dry while waiting for the shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet eine friedliche und trockene Atmosphäre für Besinnung; achten Sie beim Verlassen auf die sehr glatten Stufen im Außenbereich.",
+                "hu": "A kápolna békés és száraz környezetet biztosít az elmélyüléshez; távozáskor ügyeljen a kültéri lépcsőkre, amelyek esőben rendkívül csúszósak.",
+                "ro": "Capela oferă o atmosferă liniștită și uscată pentru reflecție; la plecare, aveți grijă la treptele exterioare care sunt foarte alunecoase pe ploaie.",
+                "en": "The chapel provides a peaceful and dry environment for reflection; be careful when leaving as the outdoor steps are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage calanque de Tardieu",
+                "hu": "Plage calanque de Tardieu",
+                "ro": "Plage calanque de Tardieu",
+                "en": "Plage calanque de Tardieu"
+              },
+              "tip_5lang": {
+                "de": "In der Bucht peitscht der Regen dramatisch ins Meer; bleiben Sie auf den befestigten Wegen, da die felsigen Pfade jetzt gefährlich glatt sind.",
+                "hu": "Az öbölben az eső drámai módon csapódik a tengerbe; maradjon a kiépített utakon, mert a sziklás ösvények most veszélyesen csúszósak.",
+                "ro": "În golf, ploaia lovește marea într-un mod dramatic; rămâneți pe drumurile amenajate, deoarece potecile stâncoase sunt acum periculos de alunecoase.",
+                "en": "In the cove, the rain lashes dramatically into the sea; stay on the paved paths as the rocky trails are now dangerously slick."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit einer kühlen Brise am Strand. Mittags nutzen wir die wärmende, tiefliegende Sonne für einen Spaziergang. Am Nachmittag sinken die Temperaturen schnell, sobald der Schatten der Hügel fällt. Da es bereits gegen 17:00 Uhr dunkel wird, suchen wir frühzeitig eine warme Unterkunft auf, um den Tag gemütlich zu beenden.",
+            "hu": "A friss téli reggel hűvös szellővel indul a tengerparton. Délben kihasználjuk az alacsonyan járó nap melengető sugarait egy sétához. Délután a hőmérséklet gyorsan süllyed, amint a dombok árnyéka eléri a partot. Mivel 17:00 körül már sötétedik, korán keresünk egy meleg menedéket a nap lezárásához.",
+            "ro": "O dimineață proaspătă de iarnă începe cu o briză răcoroasă pe plajă. La prânz profităm de razele calde ale soarelui jos pentru o plimbare. După-amiaza, temperaturile scad rapid imediat ce umbra dealurilor cuprinde coasta. Deoarece se întunecă în jur de ora 17:00, căutăm devreme un loc cald.",
+            "en": "A crisp winter morning begins with a cool breeze on the beach. At noon, we take advantage of the warming, low-lying sun for a stroll. In the afternoon, temperatures drop quickly as soon as the hills cast their shadows. Since it gets dark around 17:00, we seek a warm indoor spot early to finish the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage des Gireliers",
+                "hu": "Plage des Gireliers",
+                "ro": "Plage des Gireliers",
+                "en": "Plage des Gireliers"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und das weiche Licht für Fotos; eine winddichte Jacke ist wegen des oft starken Mistrals absolut notwendig.",
+                "hu": "Élvezze a tiszta téli levegőt és a lágy fényeket a fotózáshoz; a gyakran erős misztrál szél miatt egy szélálló dzseki elengedhetetlen.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de lumina caldă pentru fotografii; o jachetă rezistentă la vânt este necesară din cauza mistralului puternic.",
+                "en": "Enjoy the crisp winter air and the soft light for photos; a windproof jacket is absolutely necessary due to the often strong mistral wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Pinède",
+                "hu": "Plage de la Pinède",
+                "ro": "Plage de la Pinède",
+                "en": "Plage de la Pinède"
+              },
+              "tip_5lang": {
+                "de": "Der Pinienwald schützt etwas vor dem kalten Wind; machen Sie einen strammen Spaziergang, um die Körperwärme in der kühlen Winterluft zu halten.",
+                "hu": "A fenyőerdő némileg véd a hideg széltől; tartson tempósabb sétát, hogy megőrizze testhőjét a hűvös téli levegőben.",
+                "ro": "Pădurea de pini protejează puțin de vântul rece; faceți o plimbare energică pentru a vă menține căldura corporală în aerul răcoros de iarnă.",
+                "en": "The pine forest offers some shelter from the cold wind; take a brisk walk to keep your body heat up in the chilly winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Manuel",
+                "hu": "Espace Robert Manuel",
+                "ro": "Espace Robert Manuel",
+                "en": "Espace Robert Manuel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum, um sich zwischen den Besichtigungen aufzuwärmen und die kulturellen Schätze ohne sommerliche Massen zu sehen.",
+                "hu": "Használja ki a fűtött belső teret, hogy felmelegedjen a nézelődés közben, és élvezze a kulturális kincseket a nyári tömeg nélkül.",
+                "ro": "Profită de spațiul interior încălzit pentru a te încălzi între vizite și pentru a vedea comorile culturale fără aglomerația de vară.",
+                "en": "Take advantage of the heated interior to warm up between sightings and enjoy the cultural treasures without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+              },
+              "tip_5lang": {
+                "de": "In der Wintersonne strahlen die weißen Wände der Kapelle besonders hell; der Innenraum bietet Schutz vor den kühlen Böen vom Meer her.",
+                "hu": "A téli napsütésben a kápolna fehér falai különösen fehéren ragyognak; a belső tér védelmet nyújt a tenger felől érkező hűvös széllökések ellen.",
+                "ro": "În soarele de iarnă, pereții albi ai capelei strălucesc deosebit de tare; interiorul oferă protecție împotriva rafalelor reci de pe mare.",
+                "en": "In the winter sun, the white walls of the chapel shine especially bright; the interior offers protection from the cool gusts coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage calanque de Tardieu",
+                "hu": "Plage calanque de Tardieu",
+                "ro": "Plage calanque de Tardieu",
+                "en": "Plage calanque de Tardieu"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr von den Felsen aus; warme Kleidung in Schichten ist für die rasche Abkühlung wichtig.",
+                "hu": "Figyelje meg a korai, 17:00 körüli naplementét a sziklákról; a réteges, meleg öltözet fontos a naplemente utáni hirtelen lehűlés miatt.",
+                "ro": "Observați apusul devreme, în jurul orei 17:00, de pe stânci; îmbrăcămintea caldă în straturi este importantă pentru răcirea rapidă a aerului.",
+                "en": "Watch the early sunset around 17:00 from the rocks; warm layered clothing is important as the temperature drops quickly after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a nyüzsgő Port des Issambres-ban, magába szívva az élénk tengeri energiát. Délben zökkenőmentesen tekerünk át a Plage San Peïre és a Plage des Gireliers felé, hogy élvezzük a napsütést. Délután a regionális művészetekben merülünk el az Espace Robert Manuelnél, majd élvezzük a Chapelle Sainte-Thérèse békéjét. A napot a Vivier Maritime gallo-romain ókori római romjainak felfedezésével zárjuk.",
         "ro": "Începeți călătoria cu bicicleta la aglomeratul Port des Issambres, asimilând energia maritimă. Prânzul ne duce către Plage San Peïre și Plage des Gireliers pentru relaxare însorită. După-amiaza, ne cufundăm în artele regionale la Espace Robert Manuel și ne bucurăm de harul liniștit al Chapelle Sainte-Thérèse. Ziua se încheie cu o oprire istorică fascinantă la vechiul Vivier Maritime gallo-romain.",
         "en": "Kick off your cycling journey at the bustling Port des Issambres, taking in the vibrant maritime energy. Midday takes us seamlessly to Plage San Peïre and Plage des Gireliers for sun-soaked relaxation along the shore. In the afternoon, we dive into regional arts at Espace Robert Manuel and enjoy the quiet grace of Chapelle Sainte-Thérèse. The day concludes with a fascinating historical stop at the ancient Vivier Maritime gallo-romain."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt im Hafen bei leichtem Regen. Mittags fahren wir vorsichtig auf nassen Straßen zu kulturellen Stopps. Am Nachmittag erfordern die Küstenwege erhöhte Konzentration wegen Aquaplaning-Gefahr. Abends stellen wir die Räder trocken unter und genießen die maritime Atmosphäre im Schutz eines Hafengebäudes.",
+            "hu": "A kerékpáros nap a kikötőben indul szemerkélő esőben. Délben óvatosan haladunk a vizes utakon a kulturális megállók felé. Délután a tengerparti utak fokozott figyelmet igényelnek a csúszásveszély miatt. Este száraz helyre tesszük a bringákat, és a kikötői épületek védelmében élvezzük a tengeri hangulatot.",
+            "ro": "Ziua cu bicicleta începe în port sub o ploaie ușoară. La prânz pedalăm cu atenție pe drumurile ude spre opririle culturale. După-amiaza, drumurile de coastă necesită concentrare sporită din cauza riscului de derapare. Seara parcăm bicicletele la loc uscat și ne bucurăm de atmosferă la adăpost.",
+            "en": "The cycling day starts at the port in light rain. At noon, we ride carefully on wet roads toward cultural stops. In the afternoon, the coastal paths require increased concentration due to the risk of skidding. In the evening, we park the bikes in a dry spot and enjoy the maritime vibe under cover."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port des Issambres",
+                "hu": "Port des Issambres",
+                "ro": "Port des Issambres",
+                "en": "Port des Issambres"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die Hafenmauer bietet einen kurzen Unterstand, um die Regenbekleidung festzuziehen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a kikötő fala rövid menedéket nyújt, hogy megigazítsa az esővédő ruházatát.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie; zidul portului oferă un scurt adăpost pentru a vă fixa bine pelerina de ploaie.",
+                "en": "Check your brakes before setting off in the rain; the harbor wall provides a brief shelter to tighten your waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage San Peïre",
+                "hu": "Plage San Peïre",
+                "ro": "Plage San Peïre",
+                "en": "Plage San Peïre"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Radfahren die Pfützen auf der Promenade; der feine Sand auf dem Asphalt kann bei Nässe extrem rutschig sein.",
+                "hu": "Kerékpározás közben kerülje el a tócsákat a sétányon; az aszfaltra hordott finom homok vizesen rendkívül csúszós lehet.",
+                "ro": "Evitați bălțile de pe faleză în timp ce pedalați; nisipul fin de pe asfalt poate fi extrem de alunecos atunci când este ud.",
+                "en": "Avoid puddles on the promenade while cycling; the fine sand on the asphalt can be extremely slippery when mixed with rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Gireliers",
+                "hu": "Plage des Gireliers",
+                "ro": "Plage des Gireliers",
+                "en": "Plage des Gireliers"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem stabilen Geländer; nutzen Sie die kurzen Regenpausen für einen Blick auf das aufgewühlte, dunkle Meer.",
+                "hu": "Parkolja le a kerékpárt egy stabil korláthoz; használja ki a rövid esőszüneteket, hogy megnézze a felkavart, sötét tenger látványát.",
+                "ro": "Parcați bicicleta lângă o balustradă stabilă; profitați de scurtele pauze de ploaie pentru a admira marea agitată și întunecată.",
+                "en": "Park your bike against a stable railing; take advantage of short breaks in the rain to catch a view of the turbulent, dark sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Manuel",
+                "hu": "Espace Robert Manuel",
+                "ro": "Espace Robert Manuel",
+                "en": "Espace Robert Manuel"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Fahrradständer hier sind ideal für einen trockenen Stopp; nutzen Sie die Pause, um die nassen Griffe Ihres Rads abzuwischen.",
+                "hu": "A fedett kerékpártárolók ideálisak egy száraz megállóhoz; használja ki a szünetet a vizes kormányfogantyúk áttörlésére.",
+                "ro": "Suporturile de biciclete acoperite sunt ideale pentru o oprire uscată; folosiți pauza pentru a șterge mânerele ude ale bicicletei.",
+                "en": "The covered bike racks here are ideal for a dry stop; use the break to wipe down your wet handlebars and take a cultural breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Kapelle erfordert bei Nässe Kraft und Vorsicht; bremsen Sie bei der Abfahrt frühzeitig vor den Kurven auf dem glatten Teer.",
+                "hu": "A kápolnához vezető emelkedő esőben erőt és óvatosságot igényel; a lejtőn fékezzen időben a kanyarok előtt a csúszós aszfalton.",
+                "ro": "Urcarea spre chapelă necesită efort și prudență pe ploaie; frânați din timp înainte de curbe pe asfaltul alunecos la coborâre.",
+                "en": "The climb to the chapel requires effort and caution in the rain; brake early before curves on the slick tarmac during the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Vivier Maritime gallo-romain",
+                "hu": "Vivier Maritime gallo-romain",
+                "ro": "Vivier Maritime gallo-romain",
+                "en": "Vivier Maritime gallo-romain"
+              },
+              "tip_5lang": {
+                "de": "Das antike Becken füllt sich bei Regen mit Süßwasser; achten Sie auf den Küstenwind, der Ihr Rad im Stand leicht umwerfen kann.",
+                "hu": "Az ókori medence esőben friss vízzel telik meg; ügyeljen a tengerparti szélre, amely könnyen felboríthatja a leállított kerékpárt.",
+                "ro": "Bazinul antic se umple cu apă proaspătă pe timp de ploaie; atenție la vântul de coastă care poate răsturna ușor bicicleta staționată.",
+                "en": "The ancient basin fills with fresh water during rain; watch out for coastal gusts that can easily blow over a stationary bicycle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, aber sonniger Wintermorgen im Hafen lädt zur Tour ein. Mittags radeln wir entlang der Küste und genießen die klare Sicht bis zum Horizont. Am Nachmittag spüren wir den kalten Wind im Gesicht, sobald die Sonne tiefer steht. Gegen 17:00 Uhr wird es dunkel, daher beenden wir die Tour rechtzeitig im warmen Ortskern.",
+            "hu": "Egy fagyos, de napos téli reggel a kikötőben túrázásra csábít. Délben a part mentén kerekezünk, élvezve a tiszta kilátást a horizontig. Délután érezzük az arcunkon a hideg szelet, ahogy a nap egyre lejjebb ereszkedik. 17:00 körül besötétedik, így időben befejezzük a túrát a meleg faluközpontban.",
+            "ro": "O dimineață de iarnă geroasă, dar însorită, în port ne invită la o tură. La prânz pedalăm de-a lungul coastei, bucurându-ne de vizibilitatea clară. După-amiaza simțim vântul rece pe față pe măsură ce soarele coboară. În jur de ora 17:00 se întunecă, așa că încheiem tura la căldură.",
+            "en": "A frosty but sunny winter morning at the port invites us for a ride. At noon, we cycle along the coast, enjoying the clear views to the horizon. In the afternoon, we feel the cold wind on our faces as the sun dips lower. Around 17:00, it gets dark, so we finish the tour early in the warm village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port des Issambres",
+                "hu": "Port des Issambres",
+                "ro": "Port des Issambres",
+                "en": "Port des Issambres"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Hafen sehr beißend sein kann; prüfen Sie den Reifendruck für die kalten Temperaturen.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél a kikötőben nagyon metsző lehet; ellenőrizze a guminyomást a hideg hőmérséklethez igazítva.",
+                "ro": "Purtați mănuși calde, deoarece vântul la port poate fi foarte tăios; verificați presiunea în anvelope pentru temperaturile scăzute.",
+                "en": "Wear warm gloves as the wind chill at the port can be very biting; check your tire pressure for the cold winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage San Peïre",
+                "hu": "Plage San Peïre",
+                "ro": "Plage San Peïre",
+                "en": "Plage San Peïre"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und bietet weite Blicke; halten Sie sich durch stetiges Treten warm, um nicht auszukühlen.",
+                "hu": "A strand télen néptelen, és tágas kilátást nyújt; maradjon mozgásban a folyamatos tekeréssel, hogy ne hűljön ki a teste.",
+                "ro": "Plaja este pustie iarna și oferă vederi largi; mențineți-vă cald pedalând constant pentru a nu vă răci corpul.",
+                "en": "The beach is deserted in winter and offers wide views; keep warm by pedaling steadily to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Gireliers",
+                "hu": "Plage des Gireliers",
+                "ro": "Plage des Gireliers",
+                "en": "Plage des Gireliers"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem Wasser; ein Thermobecher mit einem Heißgetränk ist eine tolle Belohnung für diesen Stopp.",
+                "hu": "A téli napfény gyönyörűen csillog a vízen; egy termosz meleg ital remek jutalom ennél a megállónál a hidegben.",
+                "ro": "Soarele de iarnă sclipește superb pe apă; un termos cu o băutură caldă este o recompensă excelentă la această oprire.",
+                "en": "The winter sun glitters beautifully on the water; a thermal mug with a hot drink is a great reward for this stop in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Manuel",
+                "hu": "Espace Robert Manuel",
+                "ro": "Espace Robert Manuel",
+                "en": "Espace Robert Manuel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger aufzuwärmen; die Ausstellungen im Inneren bieten eine willkommene Pause vom kalten Fahrtwind.",
+                "hu": "Használja ki a megállót az elgémberedett ujjak felmelegítésére; a benti kiállítások kellemes pihenőt nyújtanak a hideg menetszél után.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele amorțite; expozițiile din interior oferă o pauză binevenită de la vântul rece de afară.",
+                "en": "Use this stop to warm up stiff fingers; the indoor exhibits provide a welcome break from the cold wind during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bringt den Kreislauf in Schwung und wärmt auf; oben angekommen, kühlt man wegen des Windes jedoch sehr schnell wieder aus.",
+                "hu": "A felfelé tekerés felpezsdíti a keringést és felmelegít; a csúcsra érve azonban a szél miatt nagyon gyorsan visszahűlhet a teste.",
+                "ro": "Urcarea vă pune sângele în mișcare și vă încălzește; odată ajunși sus, însă, vă puteți răci foarte repede din cauza vântului.",
+                "en": "The uphill climb gets your circulation going and warms you up; however, once at the top, the wind can cool you down very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Vivier Maritime gallo-romain",
+                "hu": "Vivier Maritime gallo-romain",
+                "ro": "Vivier Maritime gallo-romain",
+                "en": "Vivier Maritime gallo-romain"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die antiken Ruinen im klaren Winterlicht; starten Sie spätestens um 16:30 Uhr die Rückfahrt, bevor die Sicht schlechter wird.",
+                "hu": "Nézze meg az antik romokat a tiszta téli fényben; legkésőbb 16:30-kor induljon vissza, mielőtt a látási viszonyok romlani kezdenének.",
+                "ro": "Vizitați ruinele antice în lumina clară de iarnă; porniți înapoi cel târziu la 16:30, înainte ca vizibilitatea să scadă.",
+                "en": "Visit the ancient ruins in the clear winter light; start your ride back by 16:30 at the latest, before visibility begins to decrease."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Festői autózásunk keleten, a Vivier Maritime gallo-romain lenyűgöző romjainál kezdődik, visszalépve az ókorba. Délben a Port Tonic festői dokkjaihoz érünk, amelyet a Chapelle Sainte-Thérèse derűs nyugalma követ. A délután kulturális felfedezésekkel folytatódik az Espace Robert Manuelnél és a Port des Issambres-nél. Végül a Plage de la Garonnette közelében parkolunk le, hogy megnézzük a naplementét.",
         "ro": "Călătoria noastră scenică începe în est cu ruinele impresionante ale Vivier Maritime gallo-romain. Prânzul ne aduce la docurile pitorești de la Port Tonic, urmat de o pauză senină la Chapelle Sainte-Thérèse. După-amiaza continuă cu descoperiri culturale la Espace Robert Manuel și o oprire la Port des Issambres. În cele din urmă, parcăm lângă Plage de la Garonnette pentru a privi apusul soarelui.",
         "en": "Our scenic drive starts in the east with the impressive ruins of the Vivier Maritime gallo-romain, stepping back into ancient times. Midday brings us to the picturesque docks of Port Tonic, followed by a serene pause at the Chapelle Sainte-Thérèse. The afternoon continues with cultural discoveries at Espace Robert Manuel and a brief stop at Port des Issambres. Finally, we park near Plage de la Garonnette to watch the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer entspannten Fahrt durch den Regen zu historischen Stätten. Mittags genießen wir den Blick auf das Meer trocken aus dem Autofenster. Am Nachmittag lassen wir uns bei kulturellen Highlights inspirieren, während es draußen stürmt. Der Abend endet komfortabel in einem Restaurant mit Parkplatz direkt vor der Tür, um dem Regen zu entgehen.",
+            "hu": "A nap pihentető autózással indul az esőben a történelmi helyszínek felé. Délben szárazon, az autó ablakából csodáljuk a tenger látványát. Délután kulturális érdekességeknél inspirálódunk, miközben kint tombol a vihar. Az este kényelmesen, egy közvetlen parkolóval rendelkező étteremben ér véget, elkerülve az ázást.",
+            "ro": "Ziua începe cu o plimbare relaxantă cu mașina prin ploaie spre siturile istorice. La prânz admirăm marea la adăpost, prin geamul mașinii. După-amiaza ne lăsăm inspirați de punctele culturale în timp ce afară plouă. Seara se încheie confortabil la un restaurant cu parcare chiar în față.",
+            "en": "The day starts with a relaxing drive through the rain toward historical sites. At noon, we enjoy the sea views from the dry comfort of the car. In the afternoon, we get inspired by cultural highlights while it storms outside. The evening ends comfortably at a restaurant with nearby parking to avoid getting wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vivier Maritime gallo-romain",
+                "hu": "Vivier Maritime gallo-romain",
+                "ro": "Vivier Maritime gallo-romain",
+                "en": "Vivier Maritime gallo-romain"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Fußweg zu den Ruinen bei Regen schnell hinter sich zu bringen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy az esőben gyorsan megtehesse a romokhoz vezető rövid gyalogutat.",
+                "ro": "Parcați cât mai aproape de intrare pentru a parcurge rapid drumul scurt pe jos până la ruine atunci când plouă.",
+                "en": "Park as close as possible to the entrance to quickly complete the short walk to the ruins while it's raining outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Tonic",
+                "hu": "Port Tonic",
+                "ro": "Port Tonic",
+                "en": "Port Tonic"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die maritime Kunstausstellung als perfekten Schlechtwetter-Stopp; die überdachten Bereiche schützen Sie beim Aussteigen.",
+                "hu": "Élvezze a tengeri művészeti kiállítást, mint tökéletes rosszidős programot; a fedett részek védenek kiszállás közben.",
+                "ro": "Bucurați-vă de expoziția de artă maritimă ca oprire perfectă pe vreme rea; zonele acoperite vă protejează la coborârea din mașină.",
+                "en": "Enjoy the maritime art exhibition as a perfect bad-weather stop; the covered areas protect you when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Regen sicher, aber achten Sie auf Pfützen am Parkplatz; die Kapelle bietet einen ruhigen Ort zum Verweilen im Trockenen.",
+                "hu": "Az idevezető út esőben is biztonságos, de ügyeljen a parkolónál lévő tócsákra; a kápolna csendes hely a száraz pihenéshez.",
+                "ro": "Drumul până aici este sigur pe ploaie, dar atenție la bălțile din parcare; capela oferă un loc liniștit pentru a sta la adăpost.",
+                "en": "The drive here is safe in the rain, but watch out for large puddles in the parking area; the chapel offers a quiet place to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Manuel",
+                "hu": "Espace Robert Manuel",
+                "ro": "Espace Robert Manuel",
+                "en": "Espace Robert Manuel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Autos, um zwischen den kulturellen Highlights trocken zu bleiben; ideale Zeit für einen Indoor-Besuch.",
+                "hu": "Használja ki az autó kényelmét, hogy száraz maradjon a kulturális helyszínek között; ez az ideális idő egy benti látogatásra.",
+                "ro": "Folosiți confortul mașinii pentru a rămâne uscat între punctele culturale; este momentul ideal pentru o vizită în interior.",
+                "en": "Use the comfort of your car to stay dry between cultural highlights; this is the ideal time for an indoor museum visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Port des Issambres",
+                "hu": "Port des Issambres",
+                "ro": "Port des Issambres",
+                "en": "Port des Issambres"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben im Hafen gemütlich vom Auto aus; die Scheiben beschlagen bei Regen schnell, nutzen Sie die Klimaanlage.",
+                "hu": "Figyelje a kikötői nyüzsgést kényelmesen az autóból; az üvegek esőben gyorsan párásodnak, használja a légkondicionálót.",
+                "ro": "Observați agitația din port confortabil din mașină; geamurile se aburesc repede pe ploaie, folosiți aerul condiționat.",
+                "en": "Watch the harbor bustle comfortably from your car; the windows fog up quickly in the rain, so keep the air conditioning on."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Garonnette",
+                "hu": "Plage de la Garonnette",
+                "ro": "Plage de la Garonnette",
+                "en": "Plage de la Garonnette"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick auf das stürmische Meer vom Parkplatz aus ist beeindruckend; bleiben Sie bei Starkregen für das Panorama einfach im Wagen.",
+                "hu": "A parkolóból nyíló kilátás a viharos tengerre lenyűgöző; heves esőzéskor maradjon az autóban a panoráma kedvéért.",
+                "ro": "Vederea spre marea agitată din parcare este impresionantă; în caz de ploaie torențială, rămâneți în mașină pentru panoramă.",
+                "en": "The view of the stormy sea from the parking lot is impressive; stay in the car for the panorama if the rain becomes too heavy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer Fahrt entlang der sonnigen Küstenstraße. Mittags besuchen wir abgelegene Ruinen, die wir nun fast für uns allein haben. Am Nachmittag genießen wir die wohlige Wärme im Auto zwischen den Stopps. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den letzten Panoramablick kurz vor der Dämmerung ein.",
+            "hu": "A tiszta téli reggel autózással indul a napfényes tengerparti úton. Délben félreeső romokat látogatunk meg, amik most szinte csak a mieink. Délután élvezzük az autó kellemes melegét a megállók között. Mivel a nap 17:00 körül nyugszik, az utolsó panorámás nézelődést közvetlenül szürkület előttre tervezzük.",
+            "ro": "O dimineață senină de iarnă începe cu o plimbare pe drumul însorit de coastă. La prânz vizităm ruine retrase, pe care acum le avem doar pentru noi. După-amiaza ne bucurăm de căldura mașinii între opriri. Deoarece soarele apune în jur de ora 17:00, planificăm ultima vedere panoramică înainte de amurg.",
+            "en": "A clear winter morning begins with a drive along the sunny coastal road. At noon, we visit secluded ruins that we now have almost to ourselves. In the afternoon, we enjoy the cozy warmth of the car between stops. Since the sun sets around 17:00, we plan the last panoramic view just before dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vivier Maritime gallo-romain",
+                "hu": "Vivier Maritime gallo-romain",
+                "ro": "Vivier Maritime gallo-romain",
+                "en": "Vivier Maritime gallo-romain"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winterlicht besonders fotogen; nutzen Sie die Sitzheizung nach dem kurzen, kühlen Rundgang am antiken Becken.",
+                "hu": "A romok a téli fényben különösen fotogének; használja az ülésfűtést az antik medencénél tett rövid, hűvös séta után.",
+                "ro": "Ruinele sunt deosebit de fotogenice în lumina iernii; folosiți încălzirea în scaune după scurta plimbare răcoroasă la bazin.",
+                "en": "The ruins are especially photogenic in the winter light; turn on the seat heaters after your short, chilly walk around the ancient basin."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Tonic",
+                "hu": "Port Tonic",
+                "ro": "Port Tonic",
+                "en": "Port Tonic"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine herrliche Stille; parken Sie so, dass Sie die tiefstehende Sonne für maximale Wärme im Auto einfangen.",
+                "hu": "Télen csodálatos csend honol itt; parkoljon úgy, hogy az alacsonyan járó nap sugarai maximálisan felmelegítsék az autót.",
+                "ro": "Iarna aici este o liniște minunată; parcați astfel încât să profitați de soarele jos pentru o căldură maximă în mașină.",
+                "en": "In winter, a wonderful silence prevails here; park so that you catch the low-lying sun for maximum natural warmth inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "hu": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "ro": "Chapelle Sainte-Thérèse de l'Enfant Jésus",
+                "en": "Chapelle Sainte-Thérèse de l'Enfant Jésus"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick von hier oben ist bei klarer Winterluft fantastisch; die Kapelle bietet einen windgeschützten Ort für einen Moment der Ruhe.",
+                "hu": "A kilátás innen a tiszta téli levegőben fantasztikus; a kápolna szélvédett helyet kínál egy pillanatnyi elcsendesedéshez.",
+                "ro": "Vederea de aici este fantastică în aerul curat de iarnă; capela oferă un loc ferit de vânt pentru un moment de liniște.",
+                "en": "The view from up here is fantastic in the clear winter air; the chapel provides a wind-sheltered spot for a moment of quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Manuel",
+                "hu": "Espace Robert Manuel",
+                "ro": "Espace Robert Manuel",
+                "en": "Espace Robert Manuel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kultur ohne die Sommerhitze; das Auto ist der perfekte Ort, um sich zwischen den Besichtigungen kurz aufzuwärmen.",
+                "hu": "Élvezze a kultúrát a nyári hőség nélkül; az autó tökéletes hely, hogy röviden felmelegedjen a látnivalók megtekintése között.",
+                "ro": "Bucurați-vă de cultură fără căldura verii; mașina este locul perfect pentru a vă încălzi scurt între vizitarea obiectivelor.",
+                "en": "Enjoy the culture without the summer heat; the car is the perfect place to warm up briefly between sightseeing spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Port des Issambres",
+                "hu": "Port des Issambres",
+                "ro": "Port des Issambres",
+                "en": "Port des Issambres"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winter sehr authentisch; beobachten Sie die Fischerboote aus der warmen Kabine Ihres Wagens bei einer Tasse Tee.",
+                "hu": "A kikötő télen nagyon autentikus arcát mutatja; figyelje a halászhajókat az autó melegéből, egy csésze forró tea mellett.",
+                "ro": "Portul arată foarte autentic iarna; observați bărcile de pescuit din cabina caldă a mașinii, cu o ceașcă de ceai fierbinte.",
+                "en": "The harbor looks very authentic in winter; watch the fishing boats from the warm cabin of your car with a cup of hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Garonnette",
+                "hu": "Plage de la Garonnette",
+                "ro": "Plage de la Garonnette",
+                "en": "Plage de la Garonnette"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Sonnenuntergang um 17:00 Uhr; die Farben über dem Meer sind im Winter besonders intensiv und klar.",
+                "hu": "Zárja a napot a 17:00 körüli naplementével; a tenger feletti színek télen különösen intenzívek és tiszták a hideg levegőben.",
+                "ro": "Încheiați ziua cu apusul de la ora 17:00; culorile de deasupra mării sunt deosebit de intense și clare în timpul iernii.",
+                "en": "End the day with the sunset around 17:00; the colors over the sea are particularly intense and clear in the cold winter air."
+              }
+            }
+          ]
+        }
       }
     }
   }

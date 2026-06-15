@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje kalandját a történelmi Broom Bridge-nél, megadva a békés alaphangot, mielőtt lesétálna, hogy megcsodálja a Szent Péter-templom lenyűgöző neogótikus részleteit.\n\nMidday: Tegyen egy csendes sétát a Blessington Street Basin körül, amely a nyugalom rejtett oázisa a városban, és tökéletes egy rövid pihenésre a zöldövezet és a vadvilág közepette.\n\nAfternoon: Lépjen vissza az időben a 14 Henrietta Street múzeumban, hogy felfedezze Dublin mély társadalomtörténetét, és megismerje a grúz bérházakban élt családok történeteit.\n\nEvening: Fejezze be gyalogtúráját a St. Michan's ősi kriptáiban, ahol a természetes módon mumifikálódott maradványok egyedülállóan hátborzongató, de felejthetetlen befejezést nyújtanak.",
         "ro": "Morning: Începeți aventura la istoricul pod Broom, creând o atmosferă liniștită, înainte de a coborî pentru a admira detaliile neogotice uimitoare ale bisericii Sf. Petru.\n\nMidday: Faceți o plimbare liniștită în jurul Blessington Street Basin, o oază de calm ascunsă în oraș, perfectă pentru o scurtă odihnă în mijlocul vegetației și a vieții sălbatice.\n\nAfternoon: Întoarceți-vă în timp la muzeul 14 Henrietta Street pentru a explora istoria socială profundă a Dublinului, descoperind poveștile fascinante ale familiilor din acea epocă.\n\nEvening: Încheiați turul de mers pe jos la criptele antice de la St. Michan's, unde rămășițele mumificate natural oferă un final de zi unic de înfiorător, dar cu adevărat de neuitat.",
         "en": "Morning: Begin your adventure at the historic Broom Bridge, setting a peaceful tone, before walking down to admire the stunning neo-Gothic details of St Peter's church.\n\nMidday: Take a quiet stroll around the Blessington Street Basin, a hidden oasis of calm in the city, perfect for a short rest amidst the surrounding greenery and wildlife.\n\nAfternoon: Step back in time at the 14 Henrietta Street museum to explore Dublin's deep social history, discovering the fascinating stories of families who lived in these Georgian tenements.\n\nEvening: Conclude your walking tour at the ancient crypts of St. Michan's, where the naturally mummified remains provide a uniquely chilling but unforgettable end to a perfect day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Broom Bridge unter grauem Himmel. Mittags bietet das Museum in der Henrietta Street perfekten Schutz vor dem irischen Regen. Am Nachmittag suchen wir die trockenen Krypten von St. Michan's auf. Abends verstärkt sich der Wind, sodass ein regenfester Mantel und wasserdichte Schuhe unerlässlich sind, während wir durch die glänzenden, nassen Straßen von Cabra wandern.",
+            "hu": "A nap a Broom Bridge-nél indul szemerkélő esőben. Délben a Henrietta Street múzeuma nyújt tökéletes fedett menedéket a dublini zápor elől. Délután a St. Michan-templom száraz kriptáit fedezzük fel. Estére felerősödik a szél, így a vízálló kabát és cipő elengedhetetlen, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Ziua începe la Broom Bridge sub un cer gri. La prânz, muzeul din Henrietta Street oferă adăpostul perfect împotriva ploii irlandeze. După-amiaza explorăm criptele uscate de la St. Michan's. Seara, vântul se intensifică, așa că o pelerină impermeabilă și încălțăminte rezistentă la apă sunt esențiale în timp ce ne plimbăm pe străzile ude.",
+            "en": "The day starts at Broom Bridge under misty skies. At noon, the museum on Henrietta Street provides the perfect indoor refuge from the Irish rain. In the afternoon, we explore the dry crypts of St. Michan's. By evening, the wind picks up, making waterproof gear essential as we navigate the glistening, rain-soaked streets of Cabra."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Broom Bridge",
+                "hu": "Broom Bridge",
+                "ro": "Podul Broom",
+                "en": "Broom Bridge"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die berühmte Hamilton-Gleichung im Stein; achten Sie auf den rutschigen Boden bei Nässe und tragen Sie eine Kapuze gegen den Sprühregen.",
+                "hu": "Nézze meg a kőbe vésett Hamilton-egyenletet; ügyeljen a csúszós útburkolatra az esőben, és viseljen kapucnit a folyamatos dublini permet ellen.",
+                "ro": "Vedeți celebra ecuație a lui Hamilton sculptată în piatră; atenție la pavajul alunecos când este ud și purtați o glugă împotriva burniței.",
+                "en": "View the famous Hamilton equation carved in stone; watch your step on the slippery pavement in the rain and wear a hood against the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "St Peter's",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sf. Petru",
+                "en": "St Peter's"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur von innen, während es draußen regnet; die hohen Decken bieten eine majestätische und trockene Atmosphäre.",
+                "hu": "Csodálja meg a gótikus építészetet belülről, miközben kint esik; a magas mennyezet fenséges és száraz menedéket nyújt a vizes időben.",
+                "ro": "Admirați arhitectura gotică din interior în timp ce afară plouă; tavanele înalte oferă o atmosferă maiestuoasă și uscată în biserică.",
+                "en": "Admire the Gothic architecture from the inside while it rains outside; the high ceilings provide a majestic and dry sanctuary for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Blessington Street Basin",
+                "hu": "Blessington Street Basin",
+                "ro": "Blessington Street Basin",
+                "en": "Blessington Street Basin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel, die den Regen genießen; nutzen Sie die überdachten Sitzgelegenheiten am Rand, um trocken auf das Becken zu blicken.",
+                "hu": "Figyelje meg az esőt élvező vízimadarakat; használja a part menti fedett padokat, hogy szárazon gyönyörködhessen a víztükör fodrozódásában.",
+                "ro": "Observați păsările de apă care se bucură de ploaie; folosiți locurile acoperite de pe margine pentru a privi bazinul fără a vă uda prea tare.",
+                "en": "Watch the waterfowl enjoying the rain; use the covered seating areas along the edge to look out over the basin while staying dry and cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum 14 Henrietta Street",
+                "hu": "14 Henrietta Street múzeum",
+                "ro": "Muzeul 14 Henrietta Street",
+                "en": "14 Henrietta Street museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Sozialgeschichte Dublins ein; dieses vollständig überdachte Museumserlebnis ist die beste Wahl bei starkem Regen.",
+                "hu": "Merüljön el Dublin szociális történelmében; ez a teljesen fedett múzeumi élmény a legjobb választás, ha odakint komolyabbra fordul az eső.",
+                "ro": "Aprofundați istoria socială a Dublinului; această experiență muzeală complet acoperită este cea mai bună alegere în timpul unei ploi torențiale.",
+                "en": "Dive deep into Dublin's social history; this fully indoor museum experience is the absolute best choice when the rain gets heavy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michan's",
+                "hu": "St. Michan's",
+                "ro": "St. Michan's",
+                "en": "St. Michan's"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mumien in der unterirdischen Krypta; hier unten sind Sie sicher vor dem Wetter und erleben eine schaurig-schöne Stille.",
+                "hu": "Látogassa meg a múmiákat a föld alatti kriptában; itt lent védve van az időjárástól, és megtapasztalhatja a templom különleges csendjét.",
+                "ro": "Vizitați mumiile din cripta subterană; aici jos sunteți protejat de vreme și puteți experimenta o liniște stranie și fascinantă.",
+                "en": "Visit the mummies in the underground crypt; down here you are fully sheltered from the weather while experiencing an eerie and dry silence."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Broom Bridge. Das Tageslicht ist kurz, daher nutzen wir die Mittagsstunden am Basin intensiv. Das Henrietta Street Museum bietet nachmittags wohlige Wärme. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden wir unseren Spaziergang bei St. Michan's in der dämmerigen Kälte, dick eingepackt in Schals und Handschuhe.",
+            "hu": "Fagyos reggel indul a Broom Bridge-nél. A nappalok rövidek, így a déli órákat a Basin környékén töltjük. A Henrietta Street múzeuma délután kellemes meleget ad. Mivel a nap már 17:00 körül lemegy, a sétát a St. Michan-nél fejezzük be a szürkületi hidegben, vastag sálba és kesztyűbe burkolózva.",
+            "ro": "O dimineață geroasă începe la Broom Bridge. Lumina zilei este scurtă, așa că profităm de orele prânzului la Basin. Muzeul Henrietta Street oferă căldură primitoare după-amiaza. Deoarece soarele apune deja în jur de ora 17:00, terminăm plimbarea la St. Michan's în frigul amurgului, bine înfofoliți.",
+            "en": "A frosty morning kicks off at Broom Bridge. Daylight is short, so we make the most of the midday sun at the Basin. Henrietta Street Museum offers cozy warmth in the afternoon. With sunset occurring around 17:00, we finish our walk at St. Michan's in the twilight chill, wrapped in thick scarves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Broom Bridge",
+                "hu": "Broom Bridge",
+                "ro": "Podul Broom",
+                "en": "Broom Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Geländer; die kühle Morgenluft macht die Sicht auf den Kanal besonders klar und fotogen für Winterbilder.",
+                "hu": "Ügyeljen a zúzmarás korlátokra; a hűvös reggeli levegőben a csatorna látványa különösen tiszta és fotogén a téli képekhez.",
+                "ro": "Atenție la chiciura de pe balustrade; aerul rece al dimineții face ca vederea spre canal să fie deosebit de clară și fotogenică iarna.",
+                "en": "Watch out for frost on the railings; the crisp morning air makes the view of the canal exceptionally clear and photogenic for winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "St Peter's",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sf. Petru",
+                "en": "St Peter's"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille in der Kirche; die dicken Steinmauern schützen vor dem Winterwind und laden zu einem Moment der inneren Einkehr ein.",
+                "hu": "Élvezze a templom csendjét; a vastag kőfalak védenek a téli szél elől, és hívogató helyszínt biztosítanak egy rövid belső elcsendesedéshez.",
+                "ro": "Bucurați-vă de liniștea din biserică; zidurile groase de piatră vă protejează de vântul de iarnă și oferă un moment de reflecție caldă.",
+                "en": "Enjoy the silence inside the church; the thick stone walls shelter you from the winter wind and offer a peaceful spot for a quiet moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Blessington Street Basin",
+                "hu": "Blessington Street Basin",
+                "ro": "Blessington Street Basin",
+                "en": "Blessington Street Basin"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winterlicht fast magisch; bewegen Sie sich zügig, um warm zu bleiben, und beobachten Sie das Eis am Rand des Beckens.",
+                "hu": "A park szinte varázslatos a téli fényekben; mozogjon tempósan, hogy melegen tartsa magát, és figyelje meg a jeget a medence szélén.",
+                "ro": "Parcul pare aproape magic în lumina iernii; mergeți vioi pentru a vă menține căldura și observați gheața formată la marginea bazinului.",
+                "en": "The park looks almost magical in the winter light; walk briskly to keep warm and look for thin layers of ice forming at the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum 14 Henrietta Street",
+                "hu": "14 Henrietta Street múzeum",
+                "ro": "Muzeul 14 Henrietta Street",
+                "en": "14 Henrietta Street museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Führung durch die geheizten Räume; es ist die perfekte Gelegenheit, die Kälte draußen für eine Stunde ganz zu vergessen.",
+                "hu": "Vegyen részt a fűtött szobákon átvezető túrán; ez a tökéletes alkalom, hogy egy órára teljesen elfelejtse a kinti metsző hideget.",
+                "ro": "Participați la turul ghidat prin încăperile încălzite; este ocazia perfectă de a uita complet de frigul de afară pentru o oră întreagă.",
+                "en": "Join the guided tour through the heated rooms; it is the perfect opportunity to completely forget the biting cold outside for an hour."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michan's",
+                "hu": "St. Michan's",
+                "ro": "St. Michan's",
+                "en": "St. Michan's"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit; die Krypta hält eine konstante Temperatur, die sich im Winter oft wärmer als draußen anfühlt.",
+                "hu": "Fejezze be a látogatást sötétedés előtt; a kripta állandó hőmérsékletű, ami télen gyakran melegebbnek érződik, mint a kinti levegő.",
+                "ro": "Terminați vizita înainte de lăsarea întunericului; cripta menține o temperatură constantă, care iarna pare adesea mai caldă decât afară.",
+                "en": "Finish your visit before darkness falls; the crypt maintains a constant temperature, which often feels warmer than the outside air in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Morning: Kezdje kerékpáros utazását egy rövid látogatással a híres Broom Bridge-nél, majd pedálozzon a látványos Nemzeti Botanikus Kert hatalmas és lenyűgöző üvegházai felé.\n\nMidday: Élvezze a frissítő szellőt, miközben a Tolka folyó mentén teker a Griffith Parkban, időt szakítva a lábai pihentetésére és a gyönyörűen karbantartott természeti tájak befogadására.\n\nAfternoon: Kerékpározzon be a városközpontba, hogy elmerüljön az irodalomtörténetben a Dublin Writers Múzeumban, majd haladjon el a történelmi Mellows Bridge elegáns kőívei mellett.\n\nEvening: Zárja útvonalát a Saint Patrick's Tower megtekintésével és a Sean Heuston Bridge átkelésével, elkapva a Liffey folyó felett lemenő nap utolsó, varázslatos és aranyló sugarait.",
         "ro": "Morning: Începeți călătoria cu bicicleta cu o scurtă vizită la faimosul pod Broom, apoi pedalați spre serele vaste ale spectaculoaselor Grădini Botanice Naționale din apropiere.\n\nMidday: Bucurați-vă de briza răcoroasă în timp ce mergeți de-a lungul râului Tolka în parcul Griffith, făcându-vă timp să vă odihniți picioarele și să absorbiți peisajele naturale superbe.\n\nAfternoon: Pedalați spre centrul orașului pentru a vă cufunda în istoria literară la Muzeul Scriitorilor din Dublin, apoi treceți pe lângă arcadele elegante de piatră ale podului Mellows.\n\nEvening: Încheiați traseul vizitând Turnul Sf. Patrick și traversând podul complex Sean Heuston, prinzând ultimele raze aurii ale soarelui la apus peste frumosul râu Liffey.",
         "en": "Morning: Kick off your cycling journey with a brief visit to the famous Broom Bridge, then pedal towards the sprawling glasshouses of the spectacular National Botanic Gardens.\n\nMidday: Enjoy the refreshing breeze as you ride along the River Tolka in Griffith Park, taking time to rest your legs and soak in the beautifully maintained natural landscapes.\n\nAfternoon: Cycle into the city center to immerse yourself in literary history at the Dublin Writers Museum, then ride past the elegant stone arches of the historic Mellows Bridge.\n\nEvening: Wrap up your route by viewing Saint Patrick's Tower and crossing the intricate Sean Heuston Bridge, catching the last golden rays of the setting sun over the River Liffey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Cabra bei Regen erfordert Vorsicht auf den rutschigen Brücken. Mittags bietet der Botanische Garten Schutz in seinen Gewächshäusern. Nachmittags verbringen wir viel Zeit im Writers Museum, um dem Guss zu entgehen. Die Tour endet an den Brücken des Liffey, wo die Lichter der Stadt im nassen Asphalt reflektieren. Gute Regenkleidung ist ein Muss.",
+            "hu": "Az esős Cabrában a kerékpározás óvatosságot igényel a csúszós hidakon. Délben a botanikus kert üvegházai nyújtanak menedéket. Délután hosszabb időt töltünk a Writers Múzeumban, elkerülve a felhőszakadást. A túra a Liffey hídjainál zárul, ahol a város fényei tükröződnek a vizes úton. Jó esőruha kötelező.",
+            "ro": "Mersul pe bicicletă în Cabra pe ploaie necesită prudență pe podurile alunecoase. La prânz, grădina botanică oferă adăpost în serele sale. După-amiaza petrecem mai mult timp la Muzeul Scriitorilor pentru a evita ploaia. Turul se încheie la podurile de pe Liffey, unde luminile se reflectă în asfaltul ud. Echipamentul e obligatoriu.",
+            "en": "Cycling in rainy Cabra requires caution on the slippery bridges. At noon, the Botanic Gardens offer shelter in the greenhouses. In the afternoon, we spend extra time at the Writers Museum to escape the downpour. The tour ends at the Liffey bridges, where city lights reflect on the wet road. Good waterproof gear is a must."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Broom Bridge",
+                "hu": "Broom Bridge",
+                "ro": "Podul Broom",
+                "en": "Broom Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Brücke; die Metallteile können bei Regen extrem glatt sein, während Sie Hamiltons Entdeckung bestaunen.",
+                "hu": "Hajtson lassan a hídon; a fém alkatrészek rendkívül csúszósak lehetnek az esőben, miközben Hamilton felfedezését csodálja.",
+                "ro": "Mergeți încet pe pod; elementele metalice pot fi extrem de alunecoase pe ploaie în timp ce admirați descoperirea lui Hamilton.",
+                "en": "Ride slowly across the bridge; metal parts can be extremely slick in the rain while you admire Hamilton's mathematical discovery."
+              }
+            },
+            {
+              "name": {
+                "de": "National Botanic Gardens",
+                "hu": "Nemzeti Botanikus Kert",
+                "ro": "Grădinile Botanice Naționale",
+                "en": "National Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und flüchten Sie in die historischen Palmenhäuser; sie bieten den perfekten trockenen Ort für Pflanzenliebhaber.",
+                "hu": "Parkolja le a bringát, és meneküljön a történelmi pálmaházakba; ezek tökéletes száraz helyszínt biztosítanak a növények szerelmeseinek.",
+                "ro": "Parcați bicicleta și refugiați-vă în serele istorice cu palmieri; acestea oferă locul uscat perfect pentru iubitorii de plante.",
+                "en": "Park your bike and escape into the historic palm houses; they provide the perfect dry sanctuary for plant lovers during a shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Griffith Park",
+                "hu": "Griffith Park",
+                "ro": "Parcul Griffith",
+                "en": "Griffith Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können Pfützen bilden; nutzen Sie die kurzen Regenpausen für eine schnelle Fahrt entlang des Tolka-Flusses unter Bäumen.",
+                "hu": "Az utak mentén tócsák alakulhatnak ki; használja ki a rövid esőszüneteket egy gyors tekerésre a Tolka-folyó mentén a fák alatt.",
+                "ro": "Pe poteci se pot forma bălți; profitați de scurtele pauze de ploaie pentru o plimbare rapidă de-a lungul râului Tolka, sub copaci.",
+                "en": "Puddles may form along the paths; take advantage of short breaks in the rain for a quick ride along the Tolka River under the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Dublin Writers Museum",
+                "hu": "Dublin Writers Múzeum",
+                "ro": "Muzeul Scriitorilor din Dublin",
+                "en": "Dublin Writers Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Fahrradausrüstung zu trocknen; genießen Sie die literarischen Schätze in den prächtigen, trockenen Räumen.",
+                "hu": "Ideális hely a kerékpáros felszerelés megszárítására; élvezze az irodalmi kincseket a pompás és teljesen száraz belső termekben.",
+                "ro": "Un loc ideal pentru a vă usca echipamentul de ciclism; bucurați-vă de comorile literare în încăperile splendide și uscate.",
+                "en": "An ideal place to dry off your cycling gear; enjoy the literary treasures inside the grand and perfectly dry exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Mellows Bridge",
+                "hu": "Mellows Bridge",
+                "ro": "Podul Mellows",
+                "en": "Mellows Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Kopfsteinpflaster in der Nähe der Brücke; bei Nässe ist hier besondere Vorsicht beim Bremsen mit dem Rad geboten.",
+                "hu": "Figyeljen a híd környéki macskakövekre; vizes időben különös óvatosságot igényel itt a fékezés és a kanyarodás a bringával.",
+                "ro": "Atenție la pavajul din apropierea podului; pe timp de ploaie este necesară o prudență sporită la frânare și viraje cu bicicleta.",
+                "en": "Watch out for the cobblestones near the bridge; in wet weather, extra caution is needed when braking or turning on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Patrick's Tower",
+                "hu": "Saint Patrick's Tower",
+                "ro": "Turnul Sf. Patrick",
+                "en": "Saint Patrick's Tower"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom alten Turm; die dunklen Regenwolken verleihen der ehemaligen Mühle eine dramatische Atmosphäre.",
+                "hu": "Készítsen egy gyors fotót a régi toronyról; a sötét esőfelhők drámai hátteret kölcsönöznek az egykori malom épületének.",
+                "ro": "Faceți o fotografie rapidă vechiului turn; norii întunecați de ploaie oferă o atmosferă dramatică fostei mori de vânt.",
+                "en": "Snap a quick photo of the old tower; the dark rain clouds provide a dramatic backdrop to the former windmill structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Sean Heuston Bridge",
+                "hu": "Sean Heuston Bridge",
+                "ro": "Podul Sean Heuston",
+                "en": "Sean Heuston Bridge"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vorsichtig; die weiße Struktur der Brücke glänzt im Regen und bietet einen schönen Abschluss trotz Nässe.",
+                "hu": "Fejezze be óvatosan a tekerést; a híd fehér szerkezete ragyog az esőben, és szép lezárást ad a napnak a vizes idő ellenére is.",
+                "ro": "Încheiați plimbarea cu atenție; structura albă a podului strălucește în ploaie, oferind un final frumos în ciuda vremii umede.",
+                "en": "Finish your ride carefully; the bridge's white structure glistens in the rain, providing a beautiful end despite the wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour auf dem Rad beginnt frisch an der Broom Bridge. Mittags wärmen wir uns im Botanischen Garten auf, bevor wir Griffith Park durchqueren. Nachmittags ist das Writers Museum ein warmer Rückzugsort. Da es um 17:00 Uhr dunkel wird, erleben wir die beleuchteten Liffey-Brücken in der abendlichen Kälte. Warme Handschuhe und helle Lichter am Rad sind Pflicht.",
+            "hu": "A téli bringatúra frissen indul a Broom Bridge-nél. Délben a botanikus kertben melegszünk fel, mielőtt átvágnánk a Griffith Parkon. Délután a Writers Múzeum meleg menedék. Mivel 17:00-kor sötétedik, a kivilágított Liffey-hidakat már az esti hidegben látjuk. Meleg kesztyű és jó világítás kötelező.",
+            "ro": "Turul de iarnă pe bicicletă începe fresh la Broom Bridge. La prânz ne încălzim la Grădina Botanică înainte de a traversa Parcul Griffith. După-amiaza, Muzeul Scriitorilor e un refugiu cald. Deoarece se întunecă la 17:00, vedem podurile iluminate de pe Liffey în frigul serii. Mănușile și luminile sunt obligatorii.",
+            "en": "The winter bike tour starts fresh at Broom Bridge. At noon, we warm up at the Botanic Gardens before crossing Griffith Park. In the afternoon, the Writers Museum is a warm sanctuary. As it gets dark by 17:00, we see the illuminated Liffey bridges in the evening cold. Warm gloves and good bike lights are mandatory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Broom Bridge",
+                "hu": "Broom Bridge",
+                "ro": "Podul Broom",
+                "en": "Broom Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Metallsteg kann frostig und glatt sein; genießen Sie den klaren Winterhimmel über dem Kanal bei einer kurzen, vorsichtigen Pause.",
+                "hu": "A fémhíd jeges és csúszós lehet; élvezze a tiszta téli eget a csatorna felett egy rövid, de óvatos pihenő erejéig.",
+                "ro": "Pasarela metalică poate fi înghețată și alunecoasă; bucurați-vă de cerul senin de iarnă deasupra canalului într-o pauză scurtă.",
+                "en": "The metal walkway can be frosty and slick; enjoy the clear winter sky over the canal during a brief but cautious stop."
+              }
+            },
+            {
+              "name": {
+                "de": "National Botanic Gardens",
+                "hu": "Nemzeti Botanikus Kert",
+                "ro": "Grădinile Botanice Naționale",
+                "en": "National Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gewächshäuser als Wärmestopp; die tropische Hitze im Inneren ist der perfekte Kontrast zur kalten Fahrt durch Dublin.",
+                "hu": "Használja az üvegházakat melegedőként; a benti trópusi hőség tökéletes kontrasztot ad a hideg dublini tekeréshez.",
+                "ro": "Folosiți serele ca punct de încălzire; căldura tropicală din interior este contrastul perfect pentru plimbarea rece prin Dublin.",
+                "en": "Use the greenhouses as a warm-up stop; the tropical heat inside is the perfect contrast to the cold ride through Dublin's streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Griffith Park",
+                "hu": "Griffith Park",
+                "ro": "Parcul Griffith",
+                "en": "Griffith Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig durch den schattigen Park, um die Körperwärme zu halten; im Winter bieten die kahlen Bäume weite Sichtachsen.",
+                "hu": "Tekerjen tempósan az árnyékos parkon keresztül, hogy melegen tartsa magát; télen a kopár fák távoli kilátást engednek a környékre.",
+                "ro": "Pedalați vioi prin parcul umbros pentru a vă menține căldura; iarna, copacii golași permit vederi largi spre împrejurimi.",
+                "en": "Ride briskly through the shaded park to maintain body heat; in winter, the bare trees allow for long sightlines across the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Dublin Writers Museum",
+                "hu": "Dublin Writers Múzeum",
+                "ro": "Muzeul Scriitorilor din Dublin",
+                "en": "Dublin Writers Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich bei einer Tasse Tee aufzuwärmen; die prachtvollen Innenräume lassen die Winterkälte schnell vergessen.",
+                "hu": "Kiváló hely a felmelegedésre; a pompás belső terekben gyorsan elfelejtheti a téli hideget, miközben az irodalmi kiállítást nézi.",
+                "ro": "Un loc excelent pentru a vă încălzi; interioarele splendide vă fac să uitați rapid de frigul iernii în timp ce vizitați muzeul.",
+                "en": "An excellent place to warm up; the grand interior rooms will make you quickly forget the winter cold while browsing the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Mellows Bridge",
+                "hu": "Mellows Bridge",
+                "ro": "Podul Mellows",
+                "en": "Mellows Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Überqueren blenden; achten Sie auf den Verkehr und die Bodenbeschaffenheit in der Kälte.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat az átkeléskor; figyeljen a forgalomra és az útviszonyokra a csípős hidegben.",
+                "ro": "Soarele jos de iarnă vă poate orbi la traversare; atenție la trafic și la starea carosabilului în frigul tăios al serii.",
+                "en": "The low winter sun can be blinding when crossing; stay alert for traffic and road conditions in the biting evening cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Patrick's Tower",
+                "hu": "Saint Patrick's Tower",
+                "ro": "Turnul Sf. Patrick",
+                "en": "Saint Patrick's Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt in der blauen Stunde des Winters besonders imposant; halten Sie kurz an, bevor das Tageslicht ganz verschwindet.",
+                "hu": "A torony különösen impozáns a téli kék órában; álljon meg egy rövid pillanatra, mielőtt a nappali fény teljesen eltűnik.",
+                "ro": "Turnul pare deosebit de impunător în ora albastră a iernii; opriți-vă pentru un moment înainte ca lumina zilei să dispară de tot.",
+                "en": "The tower looks particularly imposing during the winter blue hour; stop for a brief moment before the daylight disappears completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Sean Heuston Bridge",
+                "hu": "Sean Heuston Bridge",
+                "ro": "Podul Sean Heuston",
+                "en": "Sean Heuston Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist am frühen Abend wunderschön beleuchtet; ziehen Sie die Handschuhe fest an, da der Wind am Fluss im Winter schneidend ist.",
+                "hu": "A híd kora este gyönyörűen ki van világítva; húzza szorosra a kesztyűt, mert a folyóparti szél télen metszően hideg lehet.",
+                "ro": "Podul este frumos iluminat seara devreme; strângeți mănușile, deoarece vântul de pe malul râului este tăios iarna.",
+                "en": "The bridge is beautifully illuminated in the early evening; tighten your gloves as the river wind can be piercingly cold in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Morning: Kezdje a napot egy kis könnyű kikapcsolódással a Finglas uszodában, mielőtt átvezetne a lenyűgöző Nemzeti Botanikus Kertbe egy békés és pihentető sétára a növényvilág között.\n\nMidday: Haladjon mélyebbre a város történelmi részeibe, hogy meglátogassa a 14 Henrietta Street múzeumot, ahol könnyedén elveszhet Dublin múltjának lebilincselő és gazdag történeteiben.\n\nAfternoon: Navigáljon a feltűnő Saint Patrick's Tower felé, hogy megcsodálja indusztriális építészetét, és értékelje annak a korszaknak a maradványait, amikor a helyi whiskygyártás dominált.\n\nEvening: Fejezze be festői autózását a történelmi Islandbridge negyed és a Liffey Railway Bridge nehéz acélszerkezetei körül, figyelve, ahogy a város lelassul, ahogy közeledik a szürkület.",
         "ro": "Morning: Începeți ziua cu puțină recreere ușoară la piscina Finglas, înainte de a conduce către uimitoarele Grădini Botanice Naționale pentru o plimbare liniștită printre floră și vegetație.\n\nMidday: Îndreptați-vă mai adânc în părțile istorice ale orașului pentru a vizita muzeul 14 Henrietta Street, unde vă puteți pierde ușor în poveștile captivante ale trecutului bogat al Dublinului.\n\nAfternoon: Navigați spre impresionantul Turn Sf. Patrick pentru a admira arhitectura sa industrială și rămășițele unei epoci în care producția locală de whisky domina categoric întreaga zonă.\n\nEvening: Încheiați-vă drumul pitoresc în jurul cartierului istoric Islandbridge și a structurilor grele de oțel ale podului feroviar Liffey, urmărind cum orașul încetinește la lăsarea serii.",
         "en": "Morning: Start the day with some light recreation at the Finglas Swimming Pool, before driving over to the stunning National Botanic Gardens for a peaceful walk among the flora.\n\nMidday: Head deeper into the historical parts of the city to visit the 14 Henrietta Street museum, where you can easily lose yourself in the captivating stories of Dublin's past.\n\nAfternoon: Navigate towards the striking Saint Patrick's Tower to marvel at its industrial architecture, admiring the remnants of an era when local whiskey production dominated the area.\n\nEvening: Conclude your scenic drive around the historic Islandbridge district and the heavy steel structures of the Liffey Railway Bridge, watching the city slow down as dusk approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch Cabra bei Regen beginnt entspannt am Finglas-Pool. Mittags schützt uns der Botanische Garten vor den Güssen. Nachmittags verbringen wir viel Zeit im Henrietta Street Museum, einem idealen Ort für regnerische Tage. Die Fahrt endet an den Brücken des Liffey, die wir bequem und trocken vom beheizten Auto aus betrachten können, während draußen der Regen fällt.",
+            "hu": "Az esős autós túra Cabrában kényelmesen indul a Finglas uszodánál. Délben a botanikus kert nyújt védelmet a záporok elől. Délután a Henrietta Street múzeuma tökéletes választás, hogy elkerüljük a vizet. A nap a Liffey hídjainál zárul, amiket szárazon és melegben, a kocsi ablakából csodálhatunk meg a zuhéban.",
+            "ro": "Turul cu mașina prin Cabra pe ploaie începe relaxat la piscina Finglas. La prânz, grădina botanică ne protejează de averse. După-amiaza, muzeul Henrietta Street este alegerea ideală pentru a evita apa. Ziua se încheie la podurile de pe Liffey, pe care le admirăm din confortul mașinii în timp ce afară plouă.",
+            "en": "The rainy car tour through Cabra starts comfortably at Finglas pool. At noon, the Botanic Gardens provide shelter from the showers. In the afternoon, Henrietta Street Museum is the perfect indoor choice. The day ends at the Liffey bridges, which we can admire dry and warm from the car windows while it pours outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Finglas Swimming Pool",
+                "hu": "Finglas Uszoda",
+                "ro": "Piscina Finglas",
+                "en": "Finglas Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag sportlich im Wasser; das Hallenbad ist der perfekte Ort, um trocken zu bleiben, während es draußen in Finglas regnet.",
+                "hu": "Kezdje a napot sportosan a vízben; a fedett uszoda tökéletes helyszín, hogy szárazon maradjon, miközben odakint esik az eső Finglasban.",
+                "ro": "Începeți ziua sportiv în apă; piscina acoperită este locul perfect pentru a rămâne uscat în timp ce afară plouă în Finglas.",
+                "en": "Start your day with some indoor exercise; the covered pool is the perfect place to stay dry while it rains outside in the Finglas area."
+              }
+            },
+            {
+              "name": {
+                "de": "National Botanic Gardens",
+                "hu": "Nemzeti Botanikus Kert",
+                "ro": "Grădinile Botanice Naționale",
+                "en": "National Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie die historischen Gewächshäuser als weitläufigen, trockenen Rückzugsort inmitten der Pflanzenpracht.",
+                "hu": "Parkoljon a bejárathoz közel, és használja a történelmi üvegházakat tágas, száraz menedékként a különleges növények között.",
+                "ro": "Parcați aproape de intrare și folosiți serele istorice ca un refugiu spațios și uscat în mijlocul plantelor exotice.",
+                "en": "Park close to the entrance and use the historic greenhouses as a spacious, dry retreat while admiring the exotic plant collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum 14 Henrietta Street",
+                "hu": "14 Henrietta Street múzeum",
+                "ro": "Muzeul 14 Henrietta Street",
+                "en": "14 Henrietta Street museum"
+              },
+              "tip_5lang": {
+                "de": "Ein erstklassiges Ziel für Regentage; parken Sie in der Nähe und tauchen Sie vollständig in das überdachte Museumserlebnis ein.",
+                "hu": "Elsőrangú célpont esős napokra; parkoljon a közelben, és merüljön el teljesen ebben a különleges, fedett múzeumi élményben.",
+                "ro": "O destinație de top pentru zilele ploioase; parcați în apropiere și lăsați-vă captivat de experiența acestui muzeu acoperit.",
+                "en": "A top-tier destination for rainy days; park nearby and immerse yourself fully in this captivating indoor museum experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Patrick's Tower",
+                "hu": "Saint Patrick's Tower",
+                "ro": "Turnul Sf. Patrick",
+                "en": "Saint Patrick's Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das markante Backsteinbauwerk aus dem Auto heraus; bei Regen wirkt der alte Turm besonders mystisch und geschichtsträchtig.",
+                "hu": "Tekintse meg a jellegzetes téglaépületet az autóból; esőben a régi torony különösen misztikusnak és történelemben gazdagnak tűnik.",
+                "ro": "Admirați structura de cărămidă direct din mașină; pe ploaie, vechiul turn pare deosebit de mistic și încărcat de istorie.",
+                "en": "Admire the distinctive brick structure from your car; in the rain, the old tower looks particularly mystical and full of history."
+              }
+            },
+            {
+              "name": {
+                "de": "Islandbridge",
+                "hu": "Islandbridge",
+                "ro": "Islandbridge",
+                "en": "Islandbridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Brücke und genießen Sie den Blick auf den Fluss Liffey, ohne nass zu werden; ideal für kurze Fotostopps.",
+                "hu": "Hajtson lassan a hídon, és élvezze a Liffey-folyóra nyíló kilátást anélkül, hogy megázna; ideális egy gyors fotóra a kocsiból.",
+                "ro": "Traversați podul încet și bucurați-vă de vederea spre râul Liffey fără să vă udați; un loc ideal pentru o fotografie rapidă.",
+                "en": "Drive slowly across the bridge and enjoy the views of the River Liffey without getting wet; ideal for a quick photo from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Liffey Railway Bridge",
+                "hu": "Liffey Railway Bridge",
+                "ro": "Podul Feroviar Liffey",
+                "en": "Liffey Railway Bridge"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einer Fahrt entlang des Flusses; die Scheibenwischer geben den Blick auf die industrielle Brücke im Regen frei.",
+                "hu": "Zárja a túrát egy autózással a folyó mentén; az ablaktörlők mögül szemlélheti az ipari jellegű hidat a szürke dublini esőben.",
+                "ro": "Încheiați turul cu o plimbare de-a lungul râului; prin parbrizul udat de ploaie puteți admira acest pod industrial impunător.",
+                "en": "End your tour with a drive along the river; watch the industrial bridge through your wipers as the grey Dublin rain falls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt im warmen Finglas-Pool. Mittags bietet der Botanische Garten in seinen Glaspalästen eine tropische Flucht vor der Kälte. Nachmittags ist das Henrietta Street Museum ein gemütlicher, geheizter Stopp. Da die Sonne früh gegen 17:00 Uhr untergeht, genießen wir die beleuchteten Brücken Dublins vom fahrbarem Untersatz aus im Schutze der Heizung.",
+            "hu": "A téli autós túra a meleg Finglas uszodánál indul. Délben a botanikus kert üvegházai trópusi menekülést kínálnak a hideg elől. Délután a Henrietta Street múzeuma egy kellemes, fűtött állomás. Mivel a nap korán, 17:00 körül lemegy, Dublin kivilágított hídjait már a kocsi fűtött utasteréből élvezhetjük.",
+            "ro": "Turul de iarnă cu mașina începe la piscina caldă Finglas. La prânz, serele grădinii botanice oferă o evadare tropicală de frig. După-amiaza, muzeul Henrietta Street este o oprire încălzită și plăcută. Deoarece soarele apune devreme, la 17:00, admirăm podurile iluminate din mașina bine încălzită.",
+            "en": "The winter car tour starts at the warm Finglas pool. At noon, the Botanic Gardens' glasshouses offer a tropical escape from the cold. In the afternoon, Henrietta Street Museum is a cozy, heated stop. As the sun sets early around 17:00, we enjoy Dublin's illuminated bridges from the comfort of our heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Finglas Swimming Pool",
+                "hu": "Finglas Uszoda",
+                "ro": "Piscina Finglas",
+                "en": "Finglas Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Schwimmbad ist der ideale Ort, um die Winterkälte zu vergessen; parken Sie direkt davor für minimalen Kontakt mit dem Frost.",
+                "hu": "A fűtött uszoda ideális hely a téli hideg elfelejtésére; parkoljon közvetlenül az épület előtt, hogy minimális legyen a hideggel való érintkezés.",
+                "ro": "Piscina încălzită este locul ideal pentru a uita de frigul iernii; parcați chiar în față pentru a minimiza contactul cu gerul de afară.",
+                "en": "The heated indoor pool is the ideal place to escape the winter chill; park right in front for minimal exposure to the frosty air."
+              }
+            },
+            {
+              "name": {
+                "de": "National Botanic Gardens",
+                "hu": "Nemzeti Botanikus Kert",
+                "ro": "Grădinile Botanice Naționale",
+                "en": "National Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die prächtigen viktorianischen Gewächshäuser; sie sind im Winter wunderbar beheizt und bieten eine grüne Oase in der Kälte.",
+                "hu": "Látogasson el a pompás viktoriánus üvegházakba; télen nagyszerűen fűtöttek, és zöld oázist kínálnak a kinti csípős hidegben.",
+                "ro": "Vizitați serele victoriene splendide; sunt minunat încălzite iarna și oferă o oază verde în mijlocul gerului de afară.",
+                "en": "Visit the grand Victorian greenhouses; they are wonderfully heated in winter and provide a lush green oasis away from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum 14 Henrietta Street",
+                "hu": "14 Henrietta Street múzeum",
+                "ro": "Muzeul 14 Henrietta Street",
+                "en": "14 Henrietta Street museum"
+              },
+              "tip_5lang": {
+                "de": "Die Führung durch das historische Gebäude findet in geheizten Räumen statt; perfekt, um sich während der kurzen Wintertage aufzuwärmen.",
+                "hu": "A történelmi épületben tartott tárlatvezetés fűtött termekben zajlik; tökéletes program a felmelegedésre a rövid téli nappalokon.",
+                "ro": "Turul ghidat al clădirii istorice are loc în camere bine încălzite; este perfect pentru a vă încălzi în timpul zilelor scurte de iarnă.",
+                "en": "The guided tour of the historic building takes place in heated rooms; it's perfect for warming up during the short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Patrick's Tower",
+                "hu": "Saint Patrick's Tower",
+                "ro": "Turnul Sf. Patrick",
+                "en": "Saint Patrick's Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Mauerwerk im Licht der frühen Winterdämmerung; der Turm wirkt bei frostigem Wetter besonders imposant und zeitlos.",
+                "hu": "Csodálja meg a téglafalakat a korai téli szürkületben; a torony fagyos időben különösen impozánsnak és időtlennek hat.",
+                "ro": "Admirați zidăria în lumina amurgului timpuriu de iarnă; turnul pare deosebit de impunător și atemporal pe vreme geroasă.",
+                "en": "Admire the brickwork in the light of the early winter dusk; the tower looks particularly imposing and timeless in the frosty weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Islandbridge",
+                "hu": "Islandbridge",
+                "ro": "Islandbridge",
+                "en": "Islandbridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die dampfende Liffey vom warmen Auto aus; im Winter wirkt der Flusslauf besonders ruhig und beschaulich.",
+                "hu": "Élvezze a párolgó Liffey látványát a fűtött kocsiból; télen a folyóparti táj különösen nyugodtnak és békésnek tűnik.",
+                "ro": "Bucurați-vă de vederea spre Liffey din mașina caldă; iarna, peisajul de pe malul râului pare deosebit de liniștit și pașnic.",
+                "en": "Enjoy the view of the misty River Liffey from your warm car; in winter, the riverside landscape feels especially calm and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Liffey Railway Bridge",
+                "hu": "Liffey Railway Bridge",
+                "ro": "Podul Feroviar Liffey",
+                "en": "Liffey Railway Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist am frühen Abend oft festlich beleuchtet; ein schöner Ort für einen Abschlussstopp im Komfort Ihres geheizten Fahrzeugs.",
+                "hu": "A híd kora este gyakran ünnepi fényben úszik; szép helyszín a túra lezárásához a fűtött jármű kényelméből szemlélődve.",
+                "ro": "Podul este adesea iluminat festiv seara devreme; un loc frumos pentru a încheia turul din confortul vehiculului încălzit.",
+                "en": "The bridge is often festively lit in the early evening; a lovely spot to conclude your tour from the comfort of your heated vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

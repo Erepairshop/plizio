@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Ambarès-et-Lagrave közigazgatási és kulturális központjának felfedezésével. A délidő történelmi elmélyülést hoz az Église Saint-Pierre-nél. A délután a szomszédos Notre-Dame-de-La-Grave nyugalmába vezet. Zárja a napot egy kellemes sétával Sainte-Eulalie-ba.",
         "ro": "Începeți dimineața explorând centrul administrativ și cultural din Ambarès-et-Lagrave. Prânzul aduce o reflecție istorică la Église Saint-Pierre. După-amiaza vă conduce spre liniștea învecinată de la Notre-Dame-de-La-Grave. Încheiați cu o plimbare plăcută către Sainte-Eulalie.",
         "en": "Start your morning exploring the central administrative and cultural heart of Ambarès-et-Lagrave. Midday transitions to historical reflection at Église Saint-Pierre. The afternoon shifts towards the neighboring quietness at Notre-Dame-de-La-Grave. Conclude with an easy stroll to Sainte-Eulalie."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Rathaus und besuchen Sie das überdachte Kulturzentrum Ev@sion. Die historischen Kirchen bieten trockene Zufluchtsorte. Gehen Sie vorsichtig zwischen Ambarès und Sainte-Eulalie, tragen Sie einen guten Regenmantel und wasserfeste Schuhe. Der Weg endet am frühen Nachmittag.",
+            "hu": "Induljon a városházáról, majd térjen be az Ev@sion kulturális központba. A történelmi templomok száraz menedéket nyújtanak az eső elől. Óvatosan sétáljon Ambarès és Sainte-Eulalie között, viseljen jó esőkabátot és vízálló cipőt. Kora délutánra az út végére ér.",
+            "ro": "Începeți la primărie, apoi îndreptați-vă spre centrul cultural acoperit Ev@sion. Bisericile istorice oferă un sanctuar uscat. Mergeți cu grijă între Ambarès și Sainte-Eulalie, purtând o pelerină bună și încălțăminte impermeabilă. Veți termina traseul la începutul după-amiezii.",
+            "en": "Start at the town hall, then head to the indoor cultural center Ev@sion. The historic churches offer dry sanctuaries from the rain. Walk carefully between Ambarès and Sainte-Eulalie, wearing a good raincoat and waterproof shoes. You'll complete the route by early afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Ambarès-et-Lagrave",
+                "hu": "Mairie d'Ambarès-et-Lagrave",
+                "ro": "Mairie d'Ambarès-et-Lagrave",
+                "en": "Mairie d'Ambarès-et-Lagrave"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur schnell unter Ihrem Regenschirm, bevor Sie weitergehen.",
+                "hu": "Gyorsan csodálja meg az építészetet az esernyője alól, mielőtt továbbindulna.",
+                "ro": "Admirați rapid arhitectura de sub umbrela dumneavoastră înainte de a merge mai departe.",
+                "en": "Admire the architecture quickly from beneath your umbrella before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev@sion",
+                "hu": "Ev@sion",
+                "ro": "Ev@sion",
+                "en": "Ev@sion"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Zeit in diesem Kulturzentrum, einem perfekten trockenen Zufluchtsort vor dem Regen.",
+                "hu": "Töltsön minőségi időt ebben a kulturális központban, amely tökéletes száraz menedék a záporok elől.",
+                "ro": "Petreceți timp de calitate în acest centru cultural, un refugiu perfect uscat de ploaie.",
+                "en": "Spend quality time inside this cultural hub, a perfect dry refuge from the heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die Buntglasfenster zu bewundern und dem starken Regen zu entkommen.",
+                "hu": "Lépjen be, hogy megcsodálja az ólomüveg ablakokat és elmeneküljön a heves esőzések elől.",
+                "ro": "Pășiți înăuntru pentru a admira vitraliile și a scăpa de ploile abundente de afară.",
+                "en": "Step inside to admire the stained glass and escape the heavy rain showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-La-Grave",
+                "hu": "Église Notre-Dame-de-La-Grave",
+                "ro": "Église Notre-Dame-de-La-Grave",
+                "en": "Église Notre-Dame-de-La-Grave"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das friedliche Innere, eine warme Oase. Vorsicht auf den rutschigen Stufen.",
+                "hu": "Élvezze a békés belsőt, amely meleg menedék. Vigyázzon a csúszós lépcsőkkel a bejáratnál.",
+                "ro": "Bucurați-vă de interiorul liniștit, un refugiu cald. Aveți grijă la treptele alunecoase.",
+                "en": "Enjoy the peaceful interior, a warm haven during your wet walk. Watch your step at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Sainte-Eulalie",
+                "hu": "Mairie de Sainte-Eulalie",
+                "ro": "Mairie de Sainte-Eulalie",
+                "en": "Mairie de Sainte-Eulalie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang hier; achten Sie auf nasse, rutschige Wege in der Nähe.",
+                "hu": "Itt fejezze be sétáját; ügyeljen az épület melletti csúszós, nedves járdákra.",
+                "ro": "Încheiați plimbarea aici; aveți grijă la pavajele umede și alunecoase din apropiere.",
+                "en": "Conclude your walk here; watch out for slippery wet pavements near the building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Winterspaziergang durch Ambarès. Das Kulturzentrum und die Kirchen bieten kurze Pausen zum Aufwärmen. Der Weg nach Sainte-Eulalie kann kühl sein. Ziehen Sie sich warm an. Sie beenden die Route am frühen Nachmittag, lange vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Frissítő téli séta Ambarès-ben. A kulturális központ és a templomok rövid melegedési lehetőséget biztosítanak. A Sainte-Eulalie felé vezető út csípős lehet, öltözzön rétegesen. Kora délutánra végez, jóval a 17:00 órás naplemente előtt.",
+            "ro": "O plimbare de iarnă prin Ambarès. Centrul cultural și bisericile oferă un scurt răgaz pentru a vă încălzi. Drumul spre Sainte-Eulalie poate fi friguros. Îmbrăcați-vă în straturi. Veți termina traseul la începutul după-amiezii, cu mult înainte de apusul de la ora 17:00.",
+            "en": "A crisp winter morning walk through Ambarès. The cultural center and churches provide brief respites to warm up. The path to Sainte-Eulalie can be chilly, so layer up. By early afternoon, you'll finish the route well before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Ambarès-et-Lagrave",
+                "hu": "Mairie d'Ambarès-et-Lagrave",
+                "ro": "Mairie d'Ambarès-et-Lagrave",
+                "en": "Mairie d'Ambarès-et-Lagrave"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihren kühlen Morgen; die frische Luft hebt die Fassade des Gebäudes hervor.",
+                "hu": "Kezdje itt a hűvös reggelt; a friss levegő kiemeli az épület homlokzatát.",
+                "ro": "Începeți dimineața răcoroasă aici; aerul rece evidențiază fațada clădirii.",
+                "en": "Start your chilly morning here; the crisp air highlights the building's beautiful facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev@sion",
+                "hu": "Ev@sion",
+                "ro": "Ev@sion",
+                "en": "Ev@sion"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen bei lokaler Kultur auf, bevor Sie wieder in die Kälte gehen.",
+                "hu": "Melegedjen fel bent a helyi kultúrával, mielőtt visszatérne a hidegbe.",
+                "ro": "Încălziți-vă înăuntru cu cultura locală înainte de a ieși din nou în frig.",
+                "en": "Warm up inside with local culture before heading back into the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die Steinwände strahlen winterliche Kälte aus, behalten Sie Ihren Mantel auch drinnen an.",
+                "hu": "A kőfalak tartják a téli hideget, hagyja magán a kabátját odabent is.",
+                "ro": "Pereții de piatră păstrează frigul iernii, păstrați-vă haina pe dumneavoastră înăuntru.",
+                "en": "The stone walls hold a quiet winter chill, so keep your heavy coat on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-La-Grave",
+                "hu": "Église Notre-Dame-de-La-Grave",
+                "ro": "Église Notre-Dame-de-La-Grave",
+                "en": "Église Notre-Dame-de-La-Grave"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Halt, um Schutz vor dem beißenden Winterwind zu finden.",
+                "hu": "Békés megálló, hogy menedéket találjon a metsző téli szél elől.",
+                "ro": "O oprire liniștită pentru a vă adăposti de vântul tăios de iarnă.",
+                "en": "A peaceful stop to find shelter from the biting winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Sainte-Eulalie",
+                "hu": "Mairie de Sainte-Eulalie",
+                "ro": "Mairie de Sainte-Eulalie",
+                "en": "Mairie de Sainte-Eulalie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang; holen Sie sich in der Nähe ein Heißgetränk zum Aufwärmen.",
+                "hu": "Fejezze be sétáját; igyon egy forró italt a közelben, hogy felmelegedjen.",
+                "ro": "Încheiați plimbarea; luați o băutură caldă în apropiere pentru a vă încălzi.",
+                "en": "Finish your walk; grab a hot drink nearby to warm your freezing hands."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a történelmi Église Saint-Pierre-nél, majd szívja magába a helyi hangulatot a városházánál. Délben tekerjen a békés Plan d'eau de la Blanche felé. A délutánt a Château Peychaud örökségének felfedezésével töltse. Fejezze be az utat a Notre-Dame-de-La-Grave-nál.",
         "ro": "Începeți turul cu bicicleta la biserica istorică Saint-Pierre înainte de a simți atmosfera la primărie. Până la prânz, pedalați spre liniștitul Plan d'eau de la Blanche. Petreceți după-amiaza descoperind moștenirea Château Peychaud. Finalizați traseul la Notre-Dame-de-La-Grave.",
         "en": "Kick off your cycling tour at the historic Église Saint-Pierre before soaking up the local vibe at the town hall. By midday, pedal towards the serene Plan d'eau de la Blanche for nature views. Spend your afternoon uncovering the legacy of Château Peychaud. Finish the ride at Notre-Dame-de-La-Grave."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasses Radabenteuer. Beginnen Sie bei den Kirchen als schnellen Unterschlupf. Die Fahrt zum Plan d'eau wird schlammig und Château Peychaud erfordert Vorsicht auf rutschigen Wegen. Tragen Sie eine gut sichtbare wasserdichte Jacke und verwenden Sie Schutzbleche.",
+            "hu": "Nedves kerékpáros kaland. Kezdje a templomoknál gyors menedékként. A tóhoz vezető út saras lesz, a Château Peychaud pedig óvatosságot igényel a csúszós ösvényeken. Viseljen jól látható vízálló kabátot, és használjon sárvédőt a kerékpáron.",
+            "ro": "O aventură umedă pe bicicletă. Începeți la biserici pentru un adăpost rapid. Drumul spre Plan d'eau va fi noroios, iar Château Peychaud necesită atenție pe aleile alunecoase. Purtați o jachetă impermeabilă vizibilă și folosiți apărători de noroi.",
+            "en": "A wet cycling adventure. Begin with the churches for quick shelter. The ride to Plan d'eau will be muddy, and Château Peychaud requires care on slippery paths. Wear a high-vis waterproof jacket and use mudguards to stay somewhat dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie frühzeitig Schutz im Inneren und bewundern Sie das historische Kirchenschiff.",
+                "hu": "Keressen korai menedéket bent, miközben megcsodálja a történelmi hajót.",
+                "ro": "Căutați adăpost devreme înăuntru. Parcați bicicleta cu atenție pe ploaie.",
+                "en": "Seek early shelter inside while marveling at the historic nave. Park your bike carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Ambarès-et-Lagrave",
+                "hu": "Mairie d'Ambarès-et-Lagrave",
+                "ro": "Mairie d'Ambarès-et-Lagrave",
+                "en": "Mairie d'Ambarès-et-Lagrave"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp im Regen; lassen Sie Ihr Fahrradlicht für bessere Sichtbarkeit an.",
+                "hu": "Gyors fotómegálló az esőben; tartsa bekapcsolva a lámpákat a jobb láthatóság érdekében.",
+                "ro": "O scurtă oprire foto în ploaie; țineți luminile bicicletei aprinse pentru vizibilitate.",
+                "en": "A quick photo stop in the rain; keep your bike lights on for better visibility in the gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev@sion",
+                "hu": "Ev@sion",
+                "ro": "Ev@sion",
+                "en": "Ev@sion"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Fahrrad und trocknen Sie sich, während Sie das Kulturzentrum erkunden.",
+                "hu": "Parkolja le a kerékpárt és száradjon meg, miközben felfedezi a kulturális központot.",
+                "ro": "Parcați bicicleta și uscați-vă în timp ce explorați expozițiile acestui centru cultural.",
+                "en": "Park the bike and dry off while exploring the engaging exhibits of this cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de la Blanche",
+                "hu": "Plan d'eau de la Blanche",
+                "ro": "Plan d'eau de la Blanche",
+                "en": "Plan d'eau de la Blanche"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht im Regen stimmungsvoll aus; achten Sie auf schlammige und rutschige Wege.",
+                "hu": "A tó hangulatos esőben; ügyeljen a rendkívül saras és csúszós ösvényekre.",
+                "ro": "Lacul pare melancolic pe ploaie; atenție la traseele noroioase și foarte alunecoase.",
+                "en": "The lake looks moody in the rain; watch out for muddy and highly slippery trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Peychaud",
+                "hu": "Château Peychaud",
+                "ro": "Château Peychaud",
+                "en": "Château Peychaud"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Wege rutschig werden; bewundern Sie die nasse Fassade.",
+                "hu": "Óvatosan közelítse meg, mert az utak nagyon csúszósak; csodálja meg a nedves homlokzatot.",
+                "ro": "Apropiați-vă cu grijă, aleile devin alunecoase; admirați fațada umedă a castelului.",
+                "en": "Approach carefully as estate paths get very slippery; admire the beautiful wet facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-La-Grave",
+                "hu": "Église Notre-Dame-de-La-Grave",
+                "ro": "Église Notre-Dame-de-La-Grave",
+                "en": "Église Notre-Dame-de-La-Grave"
+              },
+              "tip_5lang": {
+                "de": "Ein letztes trockenes Heiligtum, bevor Sie im anhaltenden Regen nach Hause radeln.",
+                "hu": "Egy utolsó száraz menedék a pihenésre, mielőtt hazabiciklizne a tartós esőben.",
+                "ro": "Un ultim sanctuar uscat pentru a vă odihni înainte de a pedala spre casă prin ploaie.",
+                "en": "A final dry sanctuary to rest before cycling home in the lingering rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühles Radfahren durch die Gemeinde. Kleiden Sie sich winddicht. Das Morgenlicht am See ist atemberaubend, aber kalt. Beenden Sie die Tour durch das Schloss und die Kirchen am Nachmittag und kehren Sie vor Einbruch der Dunkelheit um 17:00 Uhr sicher zurück.",
+            "hu": "Hűvös téli kerékpározás a településen. Öltözzön fel jól a szél ellen. A reggeli fény a tónál lenyűgöző, bár hideg. Fejezze be a kastély és a templomok bejárását délután közepére, és térjen vissza a sötétedés előtt.",
+            "ro": "Ciclism alert de iarnă prin comună. Îmbrăcați-vă bine împotriva vântului. Lumina dimineții la lac este uimitoare, deși rece. Terminați turul castelului și al bisericilor după-amiaza, întorcându-vă în siguranță înainte de lăsarea întunericului.",
+            "en": "Brisk winter cycling through the commune. Layer well against the cold wind. The morning light at the lake is stunning, though freezing. Finish the tour of the Château and churches by mid-afternoon, returning safely before the early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Start; behalten Sie Ihre Handschuhe an, da das Kircheninnere kalt sein kann.",
+                "hu": "Nyugodt kezdés; tartsa magán a kesztyűt, mivel a templom belseje hideg lehet.",
+                "ro": "Un început senin; păstrați mănușile, interioarele bisericilor pot fi reci.",
+                "en": "A serene start; keep your gloves on as church interiors can be exceptionally cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Ambarès-et-Lagrave",
+                "hu": "Mairie d'Ambarès-et-Lagrave",
+                "ro": "Mairie d'Ambarès-et-Lagrave",
+                "en": "Mairie d'Ambarès-et-Lagrave"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost macht den Platz malerisch; ein kurzer Stopp, um in Bewegung zu bleiben.",
+                "hu": "A reggeli fagy festőivé teszi a teret; rövid megálló, hogy mozgásban maradjon.",
+                "ro": "Înghețul dimineții face piața pitorească; o oprire scurtă pentru a rămâne în mișcare.",
+                "en": "The morning frost makes the square picturesque; a quick stop so you keep moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Ev@sion",
+                "hu": "Ev@sion",
+                "ro": "Ev@sion",
+                "en": "Ev@sion"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause, um Ihre Finger aufzutauen und die Ausstellungen zu genießen.",
+                "hu": "Tartson szünetet, hogy kiolvassza az ujjait, és élvezze a benti kiállításokat.",
+                "ro": "Faceți o pauză pentru a vă dezgheța degetele și a vă bucura de expozițiile interioare.",
+                "en": "Take a break to thaw your frozen fingers and enjoy the warm indoor exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de la Blanche",
+                "hu": "Plan d'eau de la Blanche",
+                "ro": "Plan d'eau de la Blanche",
+                "en": "Plan d'eau de la Blanche"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubende Winterlandschaft, aber die Seebrise ist eiskalt. Schützen Sie Ihr Gesicht.",
+                "hu": "Lenyűgöző téli táj, de a tavi szellő fagyos. Védje az arcát a széltől.",
+                "ro": "Peisaj de iarnă uimitor, dar briza lacului este înghețată. Protejați-vă fața.",
+                "en": "Stunning winter scenery, but the lake breeze is freezing. Protect your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Peychaud",
+                "hu": "Château Peychaud",
+                "ro": "Château Peychaud",
+                "en": "Château Peychaud"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten einen tollen Blick auf das Schloss; ziehen Sie sich warm an.",
+                "hu": "A csupasz fák nagyszerű kilátást nyújtanak a kastélyra; öltözzön melegen a fotózáshoz.",
+                "ro": "Copacii golași oferă o priveliște excelentă asupra castelului; îmbrăcați-vă călduros.",
+                "en": "The bare winter trees offer great clear views of the castle; dress warmly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-La-Grave",
+                "hu": "Église Notre-Dame-de-La-Grave",
+                "ro": "Église Notre-Dame-de-La-Grave",
+                "en": "Église Notre-Dame-de-La-Grave"
+              },
+              "tip_5lang": {
+                "de": "Letzter Halt zum Nachdenken, während die Wintersonne am späten Nachmittag sinkt.",
+                "hu": "Utolsó megálló elmélkedésre, ahogy a téli nap ereszkedni kezd a késő délutánban.",
+                "ro": "Ultima oprire pentru reflecție, în timp ce soarele de iarnă începe să coboare.",
+                "en": "Final stop to reflect inside as the winter sun begins to lower in the late afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Induljon autóval a déli peremről, Sainte-Eulalie-ból, megcsodálva annak templomát és városházáját. Délre haladjon északra a Notre-Dame-de-La-Grave-hoz. A délután a természeté és a történelemé, pihenjen a Plan d'eau de la Blanche partján, és csodálja meg a nagyszerű Château Peychaud-t.",
         "ro": "Începeți să conduceți din marginea sudică, la Sainte-Eulalie, admirând biserica și primăria. Mergeți spre nord la Notre-Dame-de-La-Grave până la prânz. După-amiaza este rezervată naturii și istoriei, relaxându-vă lângă Plan d'eau de la Blanche și admirând grandiosul Château Peychaud.",
         "en": "Begin driving from the southern edge at Sainte-Eulalie, admiring its church and town hall. Head north to Notre-Dame-de-La-Grave and the lively Ambarès center by noon. The afternoon is reserved for nature and history, relaxing by Plan d'eau de la Blanche and marveling at the grand Château Peychaud."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine bequeme Fahrt an einem regnerischen Tag. Wechseln Sie einfach zwischen Kirchen und Rathäusern. Der See und das Schloss sind am besten vom Auto aus oder mit einem stabilen Regenschirm zu besichtigen. Fahren Sie vorsichtig auf nassen Straßen.",
+            "hu": "Kényelmes autós túra esős napon. Könnyen mozoghat a templomok és városházák között. A tavat és a kastélyt a legjobb autóból vagy erős esernyővel megtekinteni. Vezessen óvatosan a nedves helyi utakon.",
+            "ro": "Un tur confortabil cu mașina într-o zi ploioasă. Mutați-vă ușor între biserici și primării. Lacul și castelul pot fi admirate cel mai bine din mașină sau cu o umbrelă rezistentă. Conduceți cu grijă pe drumurile umede.",
+            "en": "A comfortable driving tour on a rainy day. Easily hop between churches and town halls. The lake and château are best viewed from the car or with a sturdy umbrella. Drive carefully on the wet local roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Eulalie",
+                "hu": "Église Sainte-Eulalie",
+                "ro": "Église Sainte-Eulalie",
+                "en": "Église Sainte-Eulalie"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und eilen Sie hinein, um das trockene Innere zu bewundern.",
+                "hu": "Parkoljon a közelben, és siessen be, hogy megcsodálja a nyugodt, száraz belsőt.",
+                "ro": "Parcați în apropiere și grăbiți-vă înăuntru pentru a admira interiorul uscat.",
+                "en": "Park nearby and dash inside to admire the calm, dry interior away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Sainte-Eulalie",
+                "hu": "Mairie de Sainte-Eulalie",
+                "ro": "Mairie de Sainte-Eulalie",
+                "en": "Mairie de Sainte-Eulalie"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Gebäude kurz von außen; halten Sie Ihren Regenschirm bereit.",
+                "hu": "Röviden tekintse meg az épületet; tartsa kéznél az esernyőjét a kiszálláshoz.",
+                "ro": "Priviți scurt clădirea; păstrați umbrela la îndemână.",
+                "en": "View the building briefly from the outside; keep your umbrella very handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-La-Grave",
+                "hu": "Église Notre-Dame-de-La-Grave",
+                "ro": "Église Notre-Dame-de-La-Grave",
+                "en": "Église Notre-Dame-de-La-Grave"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher regnerischer Zufluchtsort; achten Sie auf glatte Stufen am Eingang.",
+                "hu": "Békés esős menedék; ügyeljen a csúszós lépcsőkre a bejáratnál.",
+                "ro": "Un refugiu pașnic ploios; atenție la treptele alunecoase de la intrare.",
+                "en": "A peaceful rainy refuge; watch out for extremely slick steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Ambarès-et-Lagrave",
+                "hu": "Mairie d'Ambarès-et-Lagrave",
+                "ro": "Mairie d'Ambarès-et-Lagrave",
+                "en": "Mairie d'Ambarès-et-Lagrave"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken ermöglicht einen schnellen, relativ trockenen Besuch des Stadtzentrums.",
+                "hu": "A könnyű parkolás lehetővé teszi a városközpont gyors, viszonylag száraz meglátogatását.",
+                "ro": "Parcarea ușoară permite o vizită rapidă și relativ uscată a centrului orașului.",
+                "en": "Easy parking allows for a quick, relatively dry visit to the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre abseits des strömenden Regens draußen.",
+                "hu": "Élvezze a csendes hangulatot a kinti szakadó esőtől távol.",
+                "ro": "Bucurați-vă de atmosfera liniștită, departe de ploaia torențială de afară.",
+                "en": "Enjoy the quiet, historic ambiance safely away from the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de la Blanche",
+                "hu": "Plan d'eau de la Blanche",
+                "ro": "Plan d'eau de la Blanche",
+                "en": "Plan d'eau de la Blanche"
+              },
+              "tip_5lang": {
+                "de": "Der Regen auf dem See ist wunderschön; betrachten Sie ihn am besten aus dem Auto.",
+                "hu": "A tavon eső eső gyönyörű; a legjobb meleg autóból nézni.",
+                "ro": "Ploaia pe lac este frumoasă; priviți-o din confortul mașinii.",
+                "en": "The rain falling on the lake is beautiful; view it from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Peychaud",
+                "hu": "Château Peychaud",
+                "ro": "Château Peychaud",
+                "en": "Château Peychaud"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Anblick im Regen; bringen Sie wasserfeste Schuhe für das Gelände mit.",
+                "hu": "Fenséges látvány az esőben; hozzon vízálló cipőt a birtok területére.",
+                "ro": "O priveliște maiestuoasă în ploaie; aduceți pantofi impermeabili pentru domeniu.",
+                "en": "A majestic sight in the rain; bring waterproof shoes if walking the muddy grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Winterfahrt. Das beheizte Auto ist perfekt zwischen den Stopps. Erkunden Sie die historischen Kirchen an der frischen Luft. Der Nachmittag am See und am Schloss ist wunderschön, bevor die Sonne um ca. 17 Uhr untergeht.",
+            "hu": "Hangulatos téli autózás. A fűtött autó tökéletes a megállók között. Fedezze fel a történelmi templomokat a friss levegőn. A délután a tónál és a kastélynál gyönyörű a korai, 17 óra körüli naplemente előtt.",
+            "ro": "O plimbare confortabilă de iarnă. Mașina încălzită este perfectă între opriri. Explorați bisericile istorice în aerul proaspăt. După-amiaza la lac și la castel este minunată înainte de apusul de la ora 17:00.",
+            "en": "A cozy winter drive. The heated car is perfect between stops. Explore the historic churches and civic buildings in the crisp air. The afternoon at the lake and château is beautiful before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Eulalie",
+                "hu": "Église Sainte-Eulalie",
+                "ro": "Église Sainte-Eulalie",
+                "en": "Église Sainte-Eulalie"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht die warme Autofahrt umso angenehmer.",
+                "hu": "A csípős reggeli levegő még kellemesebbé teszi a meleg autózást.",
+                "ro": "Aerul rece al dimineții face plimbarea cu mașina caldă și mai plăcută.",
+                "en": "The chilly morning air makes the warm car ride here even more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Sainte-Eulalie",
+                "hu": "Mairie de Sainte-Eulalie",
+                "ro": "Mairie de Sainte-Eulalie",
+                "en": "Mairie de Sainte-Eulalie"
+              },
+              "tip_5lang": {
+                "de": "Ein schnelles Foto im klaren Winterlicht, ohne lange frieren zu müssen.",
+                "hu": "Gyors fotó a tiszta téli fényben, anélkül, hogy sokáig fagyoskodna.",
+                "ro": "O fotografie rapidă în lumina clară a iernii, fără a îngheța mult timp.",
+                "en": "Grab a quick photo in the crisp winter light without freezing for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-La-Grave",
+                "hu": "Église Notre-Dame-de-La-Grave",
+                "ro": "Église Notre-Dame-de-La-Grave",
+                "en": "Église Notre-Dame-de-La-Grave"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie für einen ruhigen Moment ein; der Stein ist kalt, aber wunderschön.",
+                "hu": "Lépjen be egy csendes pillanatra; a kő hideg, de gyönyörű.",
+                "ro": "Pășiți înăuntru pentru un moment liniștit; piatra este rece, dar frumoasă.",
+                "en": "Step inside for a quiet moment; the historic stone is cold but beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Ambarès-et-Lagrave",
+                "hu": "Mairie d'Ambarès-et-Lagrave",
+                "ro": "Mairie d'Ambarès-et-Lagrave",
+                "en": "Mairie d'Ambarès-et-Lagrave"
+              },
+              "tip_5lang": {
+                "de": "Das Stadtzentrum sieht im Winter charmant aus; halten Sie Ihren Mantel geschlossen.",
+                "hu": "A városközpont bájosan néz ki télen; tartsa összehúzva a kabátját a sétánál.",
+                "ro": "Centrul orașului arată fermecător iarna; țineți haina încheiată.",
+                "en": "The town center looks charming in winter; keep your winter coat zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Details, bevor Sie sich ins warme Auto zurückziehen.",
+                "hu": "Csodálja meg a történelmi részleteket, mielőtt visszavonulna a meleg autóba.",
+                "ro": "Apreciați detaliile istorice înainte de a vă retrage în mașina caldă.",
+                "en": "Appreciate the historical details before quickly retreating to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de la Blanche",
+                "hu": "Plan d'eau de la Blanche",
+                "ro": "Plan d'eau de la Blanche",
+                "en": "Plan d'eau de la Blanche"
+              },
+              "tip_5lang": {
+                "de": "Gefrorene Ränder und Wintervögel; genießen Sie die Aussicht mit eingeschalteter Heizung.",
+                "hu": "Fagyott szélek és téli madarak; élvezze a kilátást bekapcsolt fűtéssel.",
+                "ro": "Margini înghețate și păsări de iarnă; bucurați-vă de priveliște cu căldura pornită.",
+                "en": "Frozen edges and winter birds; enjoy the scenic view with the car heater on."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Peychaud",
+                "hu": "Château Peychaud",
+                "ro": "Château Peychaud",
+                "en": "Château Peychaud"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten; beenden Sie die Tour hier, bevor es dunkel wird.",
+                "hu": "A téli nap hosszú árnyékokat vet; itt fejezze be a túrát, mielőtt besötétedik.",
+                "ro": "Soarele de iarnă aruncă umbre lungi; terminați aici înainte să se întunece.",
+                "en": "The winter sun casts long shadows; finish your visit here before it gets dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

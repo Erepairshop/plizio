@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot Torre Gaia rétegzett történelmének felfedezésével, és lépjen be a modern tájat pöttyöző ókori római romok közé.\nDél: Folytassa időutazását további régészeti lelőhelyek meglátogatásával, és szánjon egy pillanatot a csendes elmélkedésre egy helyi templomban.\nDélután: Merüljön el mélyebben a múltban a történelmi jelentőségű villák felfedezésével, ahol a klasszikus építészet maradványai még mindig lenyűgöznek.\nEste: Zárja kirándulását egy békés sétával egy gyönyörű történelmi templom közelében, élvezve a Róma keleti külvárosaira ereszkedő csendes alkonyt.",
         "ro": "Dimineața: Începeți ziua descoperind istoria stratificată a cartierului Torre Gaia, pășind printre ruinele antice romane care presară peisajul modern.\nPrânz: Continuați-vă călătoria în timp vizitând mai multe situri arheologice și luați-vă un moment pentru a reflecta într-una dintre bisericile locale liniștite.\nDupă-amiaza: Pătrundeți mai adânc în trecut cu explorări ale unor vile cu semnificație istorică, unde rămășițele arhitecturii clasice încă captivează imaginația.\nSeara: Încheiați-vă excursia cu o plimbare pașnică lângă o frumoasă biserică istorică, bucurându-vă de amurgul liniștit care se lasă peste suburbiile estice.",
         "en": "Morning: Start your day uncovering the layered history of Torre Gaia by stepping into the ancient Roman ruins that dot the modern landscape.\nMidday: Continue your journey through time as you visit more archaeological sites and take a moment to reflect in one of the serene local churches.\nAfternoon: Dive deeper into the past with explorations of historically significant villas, where the remnants of classical architecture still capture the imagination.\nEvening: Conclude your trip with a peaceful walk near a beautiful historic church, enjoying the quiet twilight settling over Rome's captivating eastern suburbs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Tor Vergata beginnt grau, doch die Architektur wirkt im Regen imposant. Mittags bietet die Kirche Santa Margherita einen trockenen Rückzugsort für besinnliche Momente. Am Nachmittag erkunden wir die römischen Villen, wobei die Pfade etwas rutschig sein können. Der Abend klingt bei feuchter Luft und glänzenden Gehwegen in der Nähe der Kirche Santa Maria Madre sanft aus.",
+            "hu": "A reggel Tor Vergata környékén borongós, de a modern épületek esőben is látványosak. Délben a Santa Margherita templom nyújt száraz menedéket a zivatar elől. Délután a római villák romjai között a sár nehezítheti a haladást, így óvatosan lépkedjünk. Az este a friss, eső utáni levegőben zárul a Santa Maria Madre templománál, ahol a vizes aszfalton megcsillannak a város fényei.",
+            "ro": "Dimineața în Tor Vergata începe sub un cer gri, dar arhitectura pare impunătoare prin stropii de ploaie. La prânz, biserica Santa Margherita oferă un refugiu uscat pentru momente de liniște. După-amiaza explorăm vilele romane, deși potecile pot deveni destul de alunecoase. Seara se încheie cu aer curat și trotuare strălucitoare în apropierea bisericii Santa Maria Madre dell'Ospitalità.",
+            "en": "The morning in Tor Vergata starts grey, yet the architecture remains imposing through the rain. At noon, the Church of Santa Margherita provides a dry sanctuary for quiet reflection. In the afternoon, we explore the Roman villas, though the paths may become quite slippery. The evening ends with fresh air and glistening pavements near the Church of Santa Maria Madre dell'Ospitalità."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tor Vergata",
+                "hu": "Tor Vergata",
+                "ro": "Tor Vergata",
+                "en": "Tor Vergata"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Architektur unter dem grauen Himmel; nutzen Sie die überdachten Bereiche der Universität als Schutz vor starken Güssen.",
+                "hu": "Csodáld meg a modern építészetet a szürke égbolt alatt; használd az egyetemi épületek fedett részeit menedékként az intenzív záporok idején.",
+                "ro": "Admirați arhitectura modernă sub cerul gri; folosiți zonele acoperite ale universității ca adăpost împotriva averselor intense de ploaie.",
+                "en": "Admire the modern architecture under the grey sky; use the covered university areas as shelter during intense bursts of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Meilenstein",
+                "hu": "Római mérföldkő",
+                "ro": "Piatră de hotar romană",
+                "en": "Roman Milestone"
+              },
+              "tip_5lang": {
+                "de": "Dieser antike Stein trotzt seit Jahrtausenden dem Wetter; tragen Sie wasserfeste Schuhe, da das Gras um das Denkmal bei Regen sehr nass wird.",
+                "hu": "Ez az ókori kő évezredek óta dacol az időjárással; viselj vízálló cipőt, mert az emlékmű körüli fű esőben nagyon átázik.",
+                "ro": "Această piatră antică a înfruntat vremea de milenii; purtați pantofi impermeabili, deoarece iarba din jurul monumentului devine foarte udă.",
+                "en": "This ancient stone has defied the weather for millennia; wear waterproof shoes as the grass around the monument gets very wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Margherita Maria Alacoque",
+                "hu": "Santa Margherita Maria Alacoque templom",
+                "ro": "Biserica Santa Margherita Maria Alacoque",
+                "en": "Church of Santa Margherita Maria Alacoque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine trockene Pause; die spirituelle Atmosphäre ist ideal, um das Ende eines Regenschauers in Ruhe abzuwarten.",
+                "hu": "Használd a belső teret egy száraz pihenőre; a spirituális atmoszféra ideális ahhoz, hogy nyugodtan megvárd az eső végét.",
+                "ro": "Folosiți interiorul pentru o pauză uscată; atmosfera spirituală este ideală pentru a aștepta în liniște sfârșitul unei averse de ploaie.",
+                "en": "Use the interior for a dry break; the spiritual atmosphere is ideal for quietly waiting out the end of a rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Area Casali",
+                "hu": "Villa Area Casali",
+                "ro": "Villa Area Casali",
+                "en": "Villa Area Casali"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Regen besonders mystisch; nehmen Sie einen großen Schirm mit, da das Gelände weitläufig und fast völlig ungeschützt ist.",
+                "hu": "A romok esőben különösen misztikusnak tűnnek; vigyél egy nagy esernyőt, mivel a terep kiterjedt és szinte teljesen védtelen.",
+                "ro": "Ruinele par deosebit de mistice în ploaie; luați o umbrelă mare, deoarece terenul este vast și aproape complet neprotejat.",
+                "en": "The ruins look particularly mystical in the rain; take a large umbrella, as the terrain is extensive and almost completely unsheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Passolombardo",
+                "hu": "Passolombardo Római Villa",
+                "ro": "Vila Romană Passolombardo",
+                "en": "Passolombardo Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ausgrabungen trotz des Wetters; achten Sie auf den schlammigen Untergrund und gehen Sie langsam auf den antiken Wegen.",
+                "hu": "Nézd meg az ásatásokat az időjárás ellenére is; ügyelj a sáros talajra, és haladj lassan az antik ösvényeken.",
+                "ro": "Vizitați săpăturile în ciuda vremii; aveți grijă la solul noroios și mergeți încet pe potecile antice.",
+                "en": "Visit the excavations despite the weather; watch out for the muddy ground and walk slowly on the ancient paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria Madre dell'Ospitalità",
+                "hu": "Santa Maria Madre dell'Ospitalità templom",
+                "ro": "Biserica Santa Maria Madre dell'Ospitalità",
+                "en": "Church of Santa Maria Madre dell'Ospitalità"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im trockenen Kirchenschiff; prüfen Sie Ihre Kleidung auf Nässe und genießen Sie die Stille vor dem Heimweg.",
+                "hu": "Zárd a túrát a száraz templomhajóban; ellenőrizd, hogy nem áztál-e át túlságosan, és élvezd a csendet a hazaút előtt.",
+                "ro": "Încheiați turul în naosul uscat al bisericii; verificați dacă hainele sunt umede și bucurați-vă de liniște înainte de drumul spre casă.",
+                "en": "End the tour in the dry nave; check your clothes for dampness and enjoy the silence before the journey home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Tor Vergata ist erfrischend und belebend. Mittags suchen wir Wärme in der Kirche Santa Margherita, bevor wir die historische Villa Casali besuchen. Am Nachmittag taucht die tiefstehende Wintersonne die römischen Ruinen in ein warmes, goldenes Licht. Da es bereits gegen 17:00 Uhr dunkel wird, beenden wir unsere Wanderung rechtzeitig an der Santa Maria Madre.",
+            "hu": "A friss téli reggel Tor Vergata tágas terein felfrissít és élénkít. Délben a Santa Margherita templom falai között keresünk menedéket a hideg elől a Villa Casali látogatása előtt. Délután az alacsonyan járó téli nap meleg, arany fénybe vonja a római romokat. Mivel 17:00 körül sötétedik, túránkat időben befejezzük a Santa Maria Madre templománál.",
+            "ro": "O dimineață senină de iarnă în Tor Vergata este revigorantă și plină de energie. La prânz, căutăm căldură în biserica Santa Margherita înainte de a vizita istorica Villa Casali. După-amiaza, soarele de iarnă coborât spre orizont scaldă ruinele romane într-o lumină caldă, aurie. Deoarece se întunecă în jurul orei 17:00, ne terminăm drumeția la timp.",
+            "en": "A clear winter morning in Tor Vergata is refreshing and invigorating. At noon, we seek warmth within the walls of Santa Margherita before visiting the historic Villa Casali. In the afternoon, the low winter sun bathes the Roman ruins in a warm, golden light. As it gets dark around 17:00, we finish our hike on time at Santa Maria Madre."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tor Vergata",
+                "hu": "Tor Vergata",
+                "ro": "Tor Vergata",
+                "en": "Tor Vergata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf dem Campus; tragen Sie einen Schal und Handschuhe, da der Wind in den offenen Räumen schneidend sein kann.",
+                "hu": "Élvezd a tiszta téli levegőt a campuson; viselj sálat és kesztyűt, mert a szél a nyílt tereken metsző lehet.",
+                "ro": "Bucurați-vă de aerul curat de iarnă din campus; purtați o eșarfă și mănuși, deoarece vântul poate fi tăios în spațiile deschise.",
+                "en": "Enjoy the clear winter air on campus; wear a scarf and gloves as the wind can be biting in the open spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Meilenstein",
+                "hu": "Római mérföldkő",
+                "ro": "Piatră de hotar romană",
+                "en": "Roman Milestone"
+              },
+              "tip_5lang": {
+                "de": "Der antike Stein wirkt im Winterfrost besonders markant; halten Sie die Gehzeit kurz, um nicht zu stark auszukühlen.",
+                "hu": "Az antik kő a téli fagyban különösen jellegzetes; tartsd röviden a nézelődést, hogy ne hűlj ki túlságosan a szabadban.",
+                "ro": "Piatra antică arată deosebit de marcant în gerul iernii; păstrați timpul de vizitare scurt pentru a nu vă răci prea tare.",
+                "en": "The ancient stone looks particularly striking in the winter frost; keep the viewing time short to avoid getting too chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Margherita Maria Alacoque",
+                "hu": "Santa Margherita Maria Alacoque templom",
+                "ro": "Biserica Santa Margherita Maria Alacoque",
+                "en": "Church of Santa Margherita Maria Alacoque"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf; die Ruhe der Kirche bietet eine ideale Pause von der Kälte des winterlichen Spaziergangs.",
+                "hu": "Melegedj fel a belső térben; a templom nyugalma ideális pihenőt nyújt a téli séta hidege után.",
+                "ro": "Încălziți-vă în interior; liniștea bisericii oferă o pauză ideală de la frigul plimbării de iarnă.",
+                "en": "Warm up inside; the church's tranquility provides an ideal break from the cold of the winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Area Casali",
+                "hu": "Villa Area Casali",
+                "ro": "Villa Area Casali",
+                "en": "Villa Area Casali"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ruinen im sanften Licht der Wintersonne; bewegen Sie sich zügig, um die Durchblutung und Körperwärme aufrechtzuerhalten.",
+                "hu": "Csodáld meg a romokat a téli nap lágy fényében; mozogj tempósan, hogy fenntartsd a vérkeringésed és a testhőmérsékleted.",
+                "ro": "Admirați ruinele în lumina blândă a soarelui de iarnă; mișcați-vă vioi pentru a menține circulația și căldura corporală.",
+                "en": "Admire the ruins in the soft light of the winter sun; move briskly to maintain circulation and body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Passolombardo",
+                "hu": "Passolombardo Római Villa",
+                "ro": "Vila Romană Passolombardo",
+                "en": "Passolombardo Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen vor dem Sonnenuntergang um 17 Uhr; die tiefstehende Sonne erzeugt lange Schatten auf den antiken Mauern.",
+                "hu": "Látogasd meg az ásatásokat a 17 órai naplemente előtt; az alacsonyan járó nap hosszú árnyékokat vet az antik falakra.",
+                "ro": "Vizitați săpăturile înainte de apusul soarelui de la ora 17; soarele coborât creează umbre lungi pe zidurile antice.",
+                "en": "Visit the excavations before the 17:00 sunset; the low-hanging sun creates long shadows on the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria Madre dell'Ospitalità",
+                "hu": "Santa Maria Madre dell'Ospitalità templom",
+                "ro": "Biserica Santa Maria Madre dell'Ospitalità",
+                "en": "Church of Santa Maria Madre dell'Ospitalità"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den frühen Abend für einen stillen Abschluss im Warmen; die Beleuchtung der Kirche wirkt im Winter besonders einladend.",
+                "hu": "Használd a kora estét egy csendes lezárásra a melegben; a templom kivilágítása télen különösen hívogató.",
+                "ro": "Folosiți seara devreme pentru o încheiere liniștită la căldură; iluminarea bisericii pare deosebit de primitoare iarna.",
+                "en": "Use the early evening for a quiet conclusion in the warm; the church lighting looks particularly inviting in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Délelőtt: Kezdje a napot Torre Gaia rétegzett történelmének felfedezésével, és lépjen be a modern tájat pöttyöző ókori római romok közé.\nDél: Folytassa időutazását további régészeti lelőhelyek meglátogatásával, és szánjon egy pillanatot a csendes elmélkedésre egy helyi templomban.\nDélután: Merüljön el mélyebben a múltban a történelmi jelentőségű villák felfedezésével, ahol a klasszikus építészet maradványai még mindig lenyűgöznek.\nEste: Zárja kirándulását egy békés sétával egy gyönyörű történelmi templom közelében, élvezve a Róma keleti külvárosaira ereszkedő csendes alkonyt.",
         "ro": "Dimineața: Începeți ziua descoperind istoria stratificată a cartierului Torre Gaia, pășind printre ruinele antice romane care presară peisajul modern.\nPrânz: Continuați-vă călătoria în timp vizitând mai multe situri arheologice și luați-vă un moment pentru a reflecta într-una dintre bisericile locale liniștite.\nDupă-amiaza: Pătrundeți mai adânc în trecut cu explorări ale unor vile cu semnificație istorică, unde rămășițele arhitecturii clasice încă captivează imaginația.\nSeara: Încheiați-vă excursia cu o plimbare pașnică lângă o frumoasă biserică istorică, bucurându-vă de amurgul liniștit care se lasă peste suburbiile estice.",
         "en": "Morning: Start your day uncovering the layered history of Torre Gaia by stepping into the ancient Roman ruins that dot the modern landscape.\nMidday: Continue your journey through time as you visit more archaeological sites and take a moment to reflect in one of the serene local churches.\nAfternoon: Dive deeper into the past with explorations of historically significant villas, where the remnants of classical architecture still capture the imagination.\nEvening: Conclude your trip with a peaceful walk near a beautiful historic church, enjoying the quiet twilight settling over Rome's captivating eastern suburbs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den alten römischen Straßen. Am Vormittag gleiten wir vorsichtig über nasse Steine Richtung Spinoretico. Mittags suchen wir Schutz in der Nähe der Botte di Luciano, während der Regen auf das Metall prasselt. Nachmittags führen die Wege zu den Katakomben, wo die Feuchtigkeit in der Luft hängt. Den Abend beenden wir durchnässt, aber zufrieden.",
+            "hu": "A biciklizés esőben fokozott óvatosságot igényel a régi római utakon. Délelőtt óvatosan haladunk a vizes köveken Spinoretico felé. Délben a Botte di Luciano környékén keresünk menedéket, miközben az eső kopog a fémen. Délután az út a katakombákhoz vezet, ahol a pára megül a levegőben. Az estét átázva, de elégedetten zárjuk a San Bernardino templománál.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe vechile drumuri romane. Dimineața pedalăm cu grijă peste pietrele ude spre Spinoretico. La prânz căutăm adăpost lângă Botte di Luciano, în timp ce ploaia bate în metal. După-amiaza, drumurile duc spre catacombe, unde umiditatea plutește în aer. Încheiem seara uzi, dar mulțumiți, la San Bernardino.",
+            "en": "Cycling in the rain requires caution on the old Roman roads. In the morning, we glide carefully over wet stones toward Spinoretico. At noon, we seek shelter near Botte di Luciano as rain patters on the metal. In the afternoon, the paths lead to the catacombs, where moisture hangs in the air. We end the evening soaked but satisfied at San Bernardino."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Straße",
+                "hu": "Római út",
+                "ro": "Drumul Roman",
+                "en": "Roman Road"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht, die antiken Steine sind bei Nässe extrem rutschig; reduzieren Sie Ihr Tempo und nutzen Sie Reifen mit gutem Profil.",
+                "hu": "Vigyázat, az antik kövek nedvesen rendkívül csúszósak; csökkentsd a sebességed, és használj jó profilú gumiabroncsokat.",
+                "ro": "Atenție, pietrele antice sunt extrem de alunecoase când sunt ude; reduceți viteza și folosiți anvelope cu profil bun.",
+                "en": "Caution, the ancient stones are extremely slippery when wet; reduce your speed and use tires with good tread."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Spinoretico",
+                "hu": "Spinoretico temploma",
+                "ro": "Biserica din Spinoretico",
+                "en": "Church of Spinoretico"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke auszuschütteln; nutzen Sie den Kircheneingang als kurzen, trockenen Stopp während der Tour.",
+                "hu": "Ideális hely a felesleges víz lerázására az esőkabátról; használd a templom bejáratát rövid, száraz megállóként a túra során.",
+                "ro": "Un loc ideal pentru a scutura pelerina de ploaie; folosiți intrarea bisericii ca o scurtă oprire uscată în timpul turului.",
+                "en": "An ideal place to shake off the rain jacket; use the church entrance as a short, dry stop during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Botte di Luciano",
+                "hu": "Botte di Luciano",
+                "ro": "Botte di Luciano",
+                "en": "Botte di Luciano"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen um das Denkmal herum; parken Sie Ihr Rad an einer geschützten Stelle, um den Sattel trocken zu halten.",
+                "hu": "Ügyelj a tócsákra az emlékmű körül; parkold a biciklidet védett helyre, hogy a nyereg száraz maradjon.",
+                "ro": "Aveți grijă la bălțile din jurul monumentului; parcați bicicleta într-un loc protejat pentru a păstra șaua uscată.",
+                "en": "Watch out for puddles around the monument; park your bike in a sheltered spot to keep the saddle dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Bereich 5-7",
+                "hu": "Villa 5-7-es terület",
+                "ro": "Zona Vilei 5-7",
+                "en": "Villa Area 5-7"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen können bei Regen schlammig sein; stellen Sie sicher, dass Ihre Bremsen auch bei Nässe zuverlässig funktionieren.",
+                "hu": "Az ásatások esőben sárosak lehetnek; győződj meg róla, hogy a fékeid nedves körülmények között is megbízhatóan működnek.",
+                "ro": "Săpăturile pot fi noroioase în ploaie; asigurați-vă că frânele funcționează fiabil chiar și în condiții de umiditate.",
+                "en": "The excavations can be muddy in the rain; make sure your brakes work reliably even in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Passolombardo",
+                "hu": "Passolombardo Római Villa",
+                "ro": "Vila Romană Passolombardo",
+                "en": "Passolombardo Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Struktur der Villa im Regenschleier; tragen Sie wasserdichte Überschuhe, um Ihre Füße vor Spritzwasser zu schützen.",
+                "hu": "Csodáld meg a villa szerkezetét az esőfüggönyön át; viselj vízálló cipővédőt, hogy megvédd a lábadat a felverődő víztől.",
+                "ro": "Admirați structura vilei prin perdeaua de ploaie; purtați huse impermeabile pentru pantofi pentru a vă proteja picioarele de stropi.",
+                "en": "Admire the villa's structure through the rain veil; wear waterproof shoe covers to protect your feet from splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von San Zotico",
+                "hu": "San Zotico katakombák",
+                "ro": "Catacombele Sfântului Zotic",
+                "en": "Catacombs of San Zotico"
+              },
+              "tip_5lang": {
+                "de": "Die Katakomben bieten unterirdischen Schutz vor dem Wetter; nutzen Sie die Besichtigung, um sich und Ihre Ausrüstung kurz zu trocknen.",
+                "hu": "A katakombák földalatti védelmet nyújtanak az időjárás elől; használd a látogatást arra, hogy rövid időre megszárítkozz.",
+                "ro": "Catacombele oferă protecție subterană împotriva vremii; folosiți vizita pentru a vă usca puțin pe voi și echipamentul.",
+                "en": "The catacombs offer underground protection from the weather; use the visit to briefly dry yourself and your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Bernardino da Siena",
+                "hu": "San Bernardino da Siena templom",
+                "ro": "Biserica San Bernardino da Siena",
+                "en": "Church of San Bernardino da Siena"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt im Schutze der Kirche; wischen Sie Ihr Fahrrad nach der Tour trocken, um Rost an Kette und Ritzeln zu vermeiden.",
+                "hu": "Fejezd be a tekerést a templom oltalmában; a túra után töröld szárazra a biciklidet, hogy megelőzd a lánc rozsdásodását.",
+                "ro": "Încheiați cursa la adăpostul bisericii; ștergeți bicicleta după tur pentru a preveni rugina pe lanț și pinioane.",
+                "en": "End the ride in the shelter of the church; wipe your bike dry after the tour to prevent rust on the chain and sprockets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung gegen den kalten Fahrtwind. Morgens radeln wir zügig auf der römischen Straße, um warm zu bleiben. Mittags machen wir eine kurze Pause an der Botte di Luciano, bevor wir die Villa-Areale erkunden. Am späten Nachmittag erreichen wir die Katakomben, gerade wenn das Licht schwindet. Die Tour endet bei Frost und früher Dämmerung an der San Bernardino Kirche.",
+            "hu": "A téli kerékpártúra meleg öltözetet igényel a hideg menetszél ellen. Reggel tempósan haladunk a római úton, hogy bemelegedjünk. Délben rövid szünetet tartunk a Botte di Luciano emlékműnél, majd felfedezzük a villaterületeket. Késő délután érjük el a katakombákat, épp amikor a fények fogyni kezdenek. A túra fagyos időben és korai szürkületben ér véget.",
+            "ro": "O tură de iarnă cu bicicleta necesită haine groase împotriva vântului rece. Dimineața pedalăm vioi pe drumul roman pentru a ne încălzi. La prânz facem o scurtă pauză la Botte di Luciano înainte de a explora zonele vilelor. După-amiaza târziu ajungem la catacombe, chiar când lumina începe să scadă. Turul se încheie în ger și amurg timpuriu.",
+            "en": "A winter bike tour requires warm clothing against the cold wind. In the morning, we cycle briskly on the Roman road to stay warm. At noon, we take a short break at Botte di Luciano before exploring the villa areas. In the late afternoon, we reach the catacombs just as the light begins to fade. The tour ends in frost and early twilight at San Bernardino."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Straße",
+                "hu": "Római út",
+                "ro": "Drumul Roman",
+                "en": "Roman Road"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die antike Straße liegt auf offenem Feld, wo der Winterwind besonders stark wehen kann.",
+                "hu": "Viselj szélálló ruházatot; az antik út nyílt terepen fekszik, ahol a téli szél különösen erősen fújhat.",
+                "ro": "Purtați haine rezistente la vânt; drumul antic este în câmp deschis, unde vântul de iarnă poate sufla deosebit de tare.",
+                "en": "Wear windproof clothing; the ancient road lies in open fields where the winter wind can blow particularly hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Spinoretico",
+                "hu": "Spinoretico temploma",
+                "ro": "Biserica din Spinoretico",
+                "en": "Church of Spinoretico"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp, um die steifen Finger aufzuwärmen; die Kirche bietet einen ruhigen Ort abseits des kalten Windes.",
+                "hu": "Tarts egy rövid megállót, hogy felmelegítsd elgémberedett ujjaidat; a templom nyugodt helyet kínál a hideg szél elől.",
+                "ro": "Faceți o scurtă oprire pentru a vă încălzi degetele amorțite; biserica oferă un loc liniștit departe de vântul rece.",
+                "en": "Make a short stop to warm up stiff fingers; the church offers a quiet spot away from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Botte di Luciano",
+                "hu": "Botte di Luciano",
+                "ro": "Botte di Luciano",
+                "en": "Botte di Luciano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal zügig; bleiben Sie in Bewegung, damit Ihre Körpertemperatur bei den winterlichen Temperaturen nicht sinkt.",
+                "hu": "Csodáld meg az emlékművet tempósan; maradj mozgásban, hogy a testhőmérsékleted ne süllyedjen le a téli hidegben.",
+                "ro": "Admirați monumentul rapid; rămâneți în mișcare pentru ca temperatura corpului să nu scadă în frigul iernii.",
+                "en": "Admire the monument briskly; stay moving so your body temperature doesn't drop in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Bereich 5-7",
+                "hu": "Villa 5-7-es terület",
+                "ro": "Zona Vilei 5-7",
+                "en": "Villa Area 5-7"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die Überreste wunderschön; achten Sie auf eisige Stellen auf dem unbefestigten Boden.",
+                "hu": "Az alacsonyan járó nap gyönyörűen megvilágítja a maradványokat; ügyelj a jeges foltokra a burkolatlan talajon.",
+                "ro": "Soarele coborât luminează frumos rămășițele; aveți grijă la porțiunile înghețate de pe solul neasfaltat.",
+                "en": "The low sun illuminates the remains beautifully; watch out for icy patches on the unpaved ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Passolombardo",
+                "hu": "Passolombardo Római Villa",
+                "ro": "Vila Romană Passolombardo",
+                "en": "Passolombardo Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Villa am frühen Nachmittag; die Wintersonne verleiht den alten Steinen eine besondere Textur und Wärme.",
+                "hu": "Látogasd meg a villát kora délután; a téli napfény különleges textúrát és melegséget kölcsönöz a régi köveknek.",
+                "ro": "Vizitați vila după-amiaza devreme; lumina soarelui de iarnă oferă pietrelor vechi o textură și o căldură aparte.",
+                "en": "Visit the villa in the early afternoon; the winter sun gives the old stones a special texture and warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von San Zotico",
+                "hu": "San Zotico katakombák",
+                "ro": "Catacombele Sfântului Zotic",
+                "en": "Catacombs of San Zotico"
+              },
+              "tip_5lang": {
+                "de": "Unter der Erde ist es oft wärmer als draußen; nutzen Sie die Führung, um sich vom eisigen Wind auf der Strecke zu erholen.",
+                "hu": "A föld alatt gyakran melegebb van, mint kint; használd a vezetést arra, hogy kipihend az útvonal jeges szelét.",
+                "ro": "Sub pământ este adesea mai cald decât afară; folosiți turul pentru a vă recupera după vântul înghețat de pe traseu.",
+                "en": "It's often warmer underground than outside; use the tour to recover from the icy wind on the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Bernardino da Siena",
+                "hu": "San Bernardino da Siena templom",
+                "ro": "Biserica San Bernardino da Siena",
+                "en": "Church of San Bernardino da Siena"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor es um 17 Uhr dunkel wird; sorgen Sie für eine funktionierende Fahrradbeleuchtung für den Rückweg.",
+                "hu": "Fejezd be a túrát, mielőtt 17 órakor besötétedik; gondoskodj a működő kerékpáros világításról a hazaúthoz.",
+                "ro": "Încheiați turul înainte de a se întuneca la ora 17; asigurați-vă că aveți lumini funcționale la bicicletă pentru drumul de întoarcere.",
+                "en": "Finish the tour before it gets dark at 17:00; ensure you have functioning bike lights for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Délelőtt: Kezdje a napot Torre Gaia rétegzett történelmének felfedezésével, és lépjen be a modern tájat pöttyöző ókori római romok közé.\nDél: Folytassa időutazását további régészeti lelőhelyek meglátogatásával, és szánjon egy pillanatot a csendes elmélkedésre egy helyi templomban.\nDélután: Merüljön el mélyebben a múltban a történelmi jelentőségű villák felfedezésével, ahol a klasszikus építészet maradványai még mindig lenyűgöznek.\nEste: Zárja kirándulását egy békés sétával egy gyönyörű történelmi templom közelében, élvezve a Róma keleti külvárosaira ereszkedő csendes alkonyt.",
         "ro": "Dimineața: Începeți ziua descoperind istoria stratificată a cartierului Torre Gaia, pășind printre ruinele antice romane care presară peisajul modern.\nPrânz: Continuați-vă călătoria în timp vizitând mai multe situri arheologice și luați-vă un moment pentru a reflecta într-una dintre bisericile locale liniștite.\nDupă-amiaza: Pătrundeți mai adânc în trecut cu explorări ale unor vile cu semnificație istorică, unde rămășițele arhitecturii clasice încă captivează imaginația.\nSeara: Încheiați-vă excursia cu o plimbare pașnică lângă o frumoasă biserică istorică, bucurându-vă de amurgul liniștit care se lasă peste suburbiile estice.",
         "en": "Morning: Start your day uncovering the layered history of Torre Gaia by stepping into the ancient Roman ruins that dot the modern landscape.\nMidday: Continue your journey through time as you visit more archaeological sites and take a moment to reflect in one of the serene local churches.\nAfternoon: Dive deeper into the past with explorations of historically significant villas, where the remnants of classical architecture still capture the imagination.\nEvening: Conclude your trip with a peaceful walk near a beautiful historic church, enjoying the quiet twilight settling over Rome's captivating eastern suburbs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Torre Gaia gemütlich und trocken. Vormittags besuchen wir den Parco di Barcaccia, während der Regen gegen die Windschutzscheibe trommelt. Mittags steuern wir die Kirchen an, die ideale regengeschützte Stopps bieten. Nachmittags fahren wir zur Villa Passolombardo und den Katakomben. Der Abend endet entspannt bei einer Fahrt durch die glänzenden, nassen Straßen der Vorstadt.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel Torre Gaia környékét. Délelőtt a Barcaccia parkot látogatjuk meg, miközben az eső a szélvédőn kopog. Délben a templomok felé vesszük az irányt, amelyek ideális esővédett megállókat kínálnak. Délután a Passolombardo villához és a katakombákhoz hajtunk. Az este pihentető autózással zárul a külváros csillogó, vizes utcáin.",
+            "ro": "Cu mașina explorăm Torre Gaia confortabil și uscați. Dimineața vizităm Parco di Barcaccia, în timp ce ploaia bate în parbriz. La prânz ne îndreptăm spre biserici, care oferă opriri ideale protejate de ploaie. După-amiaza conducem spre Villa Passolombardo și catacombe. Seara se încheie relaxat cu o plimbare prin străzile ude și strălucitoare ale suburbiei.",
+            "en": "By car, we explore Torre Gaia comfortably and dryly. In the morning, we visit Parco di Barcaccia as rain drums against the windshield. At noon, we head toward the churches, which offer ideal rain-sheltered stops. In the afternoon, we drive to Villa Passolombardo and the catacombs. The evening ends with a relaxed drive through the glistening, wet streets of the suburb."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Villa im Parco di Barcaccia",
+                "hu": "Barcaccia Park Római Villája",
+                "ro": "Vila Romană din Parco di Barcaccia",
+                "en": "Roman Villa of Parco di Barcaccia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem trockenen Auto; für den kurzen Fußweg zu den Ruinen ist ein Taschenregenschirm absolut ausreichend.",
+                "hu": "Élvezd a kilátást a száraz autóból; a romokhoz vezető rövid sétához egy összecsukható esernyő is teljesen elegendő.",
+                "ro": "Bucurați-vă de priveliște din mașina uscată; pentru scurta plimbare până la ruine, o umbrelă de buzunar este absolut suficientă.",
+                "en": "Enjoy the view from the dry car; for the short walk to the ruins, a pocket umbrella is absolutely sufficient."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Spinoretico",
+                "hu": "Spinoretico temploma",
+                "ro": "Biserica din Spinoretico",
+                "en": "Church of Spinoretico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Eingang, um nicht nass zu werden; die kleine Kirche ist ein perfekter Ort für eine Pause während des Schauers.",
+                "hu": "Parkolj közvetlenül a bejárat előtt, hogy ne ázz el; a kis templom tökéletes hely egy szünetre a zápor idején.",
+                "ro": "Parcați direct în fața intrării pentru a nu vă uda; mica biserică este un loc perfect pentru o pauză în timpul aversei.",
+                "en": "Park directly in front of the entrance to avoid getting wet; the small church is a perfect spot for a break during the shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Botte di Luciano",
+                "hu": "Botte di Luciano",
+                "ro": "Botte di Luciano",
+                "en": "Botte di Luciano"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das antike Monument durch die Scheiben; ein kurzer Stopp am Straßenrand genügt, um dieses historische Detail zu bewundern.",
+                "hu": "Nézd meg az antik emlékművet az ablakon keresztül; egy rövid megálló az út szélén elég ahhoz, hogy megcsodáld ezt a történelmi részletet.",
+                "ro": "Priviți monumentul antic prin geamuri; o scurtă oprire pe marginea drumului este suficientă pentru a admira acest detaliu istoric.",
+                "en": "View the ancient monument through the windows; a short stop at the roadside is enough to admire this historical detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor Vergata",
+                "hu": "Tor Vergata",
+                "ro": "Tor Vergata",
+                "en": "Tor Vergata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe der Fakultäten; von dort aus erreichen Sie die architektonischen Highlights mit minimalem Zeitaufwand im Regen.",
+                "hu": "Használd a karok közeli parkolóit; onnan minimális esőben töltött idővel érheted el az építészeti fénypontokat.",
+                "ro": "Folosiți parcările din apropierea facultăților; de acolo puteți ajunge la punctele de atracție arhitecturală cu un timp minim petrecut în ploaie.",
+                "en": "Use the parking lots near the faculties; from there, you can reach the architectural highlights with minimal time spent in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Meilenstein",
+                "hu": "Római mérföldkő",
+                "ro": "Piatră de hotar romană",
+                "en": "Roman Milestone"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um den Meilenstein zu fotografieren; achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
+                "hu": "Állj meg egy pillanatra, hogy lefotózd a mérföldkövet; kiszálláskor ügyelj a mély tócsákra az út szélén.",
+                "ro": "Opriți-vă scurt pentru a fotografia piatra de hotar; aveți grijă la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "Stop briefly to photograph the milestone; watch out for deep puddles at the roadside when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Passolombardo",
+                "hu": "Passolombardo Római Villa",
+                "ro": "Vila Romană Passolombardo",
+                "en": "Passolombardo Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Die Villa liegt etwas abseits, ist aber mit dem Auto gut erreichbar; tragen Sie feste Schuhe für den kurzen, eventuell schlammigen Weg.",
+                "hu": "A villa kicsit félreesik, de autóval jól megközelíthető; viselj erős cipőt a rövid, esetleg sáros szakaszhoz.",
+                "ro": "Vila este puțin retrasă, dar ușor accesibilă cu mașina; purtați pantofi rezistenți pentru drumul scurt, eventual noroios.",
+                "en": "The villa is a bit off the beaten path but easily accessible by car; wear sturdy shoes for the short, possibly muddy path."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von San Zotico",
+                "hu": "San Zotico katakombák",
+                "ro": "Catacombele Sfântului Zotic",
+                "en": "Catacombs of San Zotico"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da die Besichtigung unterirdisch stattfindet; lassen Sie nasse Schirme am besten im Kofferraum des Autos.",
+                "hu": "Tökéletes esős napokra, mivel a látogatás a föld alatt zajlik; a vizes esernyőket érdemes az autó csomagtartójában hagyni.",
+                "ro": "Perfect pentru zilele ploioase, deoarece vizita are loc în subteran; cel mai bine este să lăsați umbrelele ude în portbagajul mașinii.",
+                "en": "Perfect for rainy days as the visit takes place underground; it's best to leave wet umbrellas in the trunk of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Bernardino da Siena",
+                "hu": "San Bernardino da Siena templom",
+                "ro": "Biserica San Bernardino da Siena",
+                "en": "Church of San Bernardino da Siena"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im trockenen Innenraum; die Heizung im Auto sorgt auf dem Rückweg für angenehme Wärme nach dem feuchten Tag.",
+                "hu": "Zárd a napot a száraz belső térben; az autó fűtése a hazaúton kellemes meleget biztosít a nedves nap után.",
+                "ro": "Încheiați ziua în interiorul uscat; încălzirea din mașină va asigura o căldură plăcută la drumul de întoarcere după ziua umedă.",
+                "en": "End the day in the dry interior; the car's heater will provide pleasant warmth on the way back after the damp day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto ist die winterliche Tour durch Torre Gaia ein Genuss. Vormittags gleiten wir durch die klare Winterlandschaft zum Parco di Barcaccia. Mittags besuchen wir die historischen Kirchen, die eine andächtige Stille ausstrahlen. Nachmittags nutzen wir das goldene Licht für Fotos an der Villa Passolombardo. Da die Sonne gegen 17:00 Uhr sinkt, beenden wir unsere Rundreise in der Abenddämmerung bei San Bernardino.",
+            "hu": "A fűtött autóban a téli Torre Gaia-túra igazi élvezet. Délelőtt a tiszta téli tájon át gurulunk a Barcaccia parkhoz. Délben a történelmi templomokat látogatjuk meg, amelyek áhítatos csendet árasztanak. Délután az aranyfényeket használjuk fotózáshoz a Passolombardo villánál. Mivel a nap 17:00 körül lebukik, körutazásunkat az esti szürkületben fejezzük be San Bernardinónál.",
+            "ro": "În mașina încălzită, turul de iarnă prin Torre Gaia este o plăcere. Dimineața conducem prin peisajul clar de iarnă spre Parco di Barcaccia. La prânz vizităm bisericile istorice, care emană o liniște pioasă. După-amiaza folosim lumina aurie pentru fotografii la Villa Passolombardo. Deoarece soarele apune în jurul orei 17:00, ne încheiem călătoria în amurg.",
+            "en": "In a heated car, the winter tour of Torre Gaia is a delight. In the morning, we glide through the clear winter landscape to Parco di Barcaccia. At noon, we visit the historic churches, which emanate a prayerful silence. In the afternoon, we use the golden light for photos at Villa Passolombardo. As the sun sets around 17:00, we finish our journey in the evening twilight at San Bernardino."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Villa im Parco di Barcaccia",
+                "hu": "Barcaccia Park Római Villája",
+                "ro": "Vila Romană din Parco di Barcaccia",
+                "en": "Roman Villa of Parco di Barcaccia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen dem warmen Auto und den frostigen Ruinen; steigen Sie kurz aus, um die klare Luft zu schnuppern.",
+                "hu": "Élvezd a kontrasztot a meleg autó és a fagyos romok között; szállj ki egy pillanatra, hogy beszívd a tiszta levegőt.",
+                "ro": "Bucurați-vă de contrastul dintre mașina caldă și ruinele înghețate; coborâți scurt pentru a respira aerul curat.",
+                "en": "Enjoy the contrast between the warm car and the frosty ruins; step out briefly to breathe in the clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Spinoretico",
+                "hu": "Spinoretico temploma",
+                "ro": "Biserica din Spinoretico",
+                "en": "Church of Spinoretico"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche wirkt im Winterlicht besonders friedlich; nutzen Sie den Besuch für eine kurze Besinnung abseits der Kälte.",
+                "hu": "A kis templom a téli fényben különösen békésnek tűnik; használd a látogatást egy rövid elcsendesedésre a hideg elől.",
+                "ro": "Mica biserică pare deosebit de liniștită în lumina iernii; folosiți vizita pentru o scurtă reflecție departe de frig.",
+                "en": "The small church looks particularly peaceful in the winter light; use the visit for a short reflection away from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Botte di Luciano",
+                "hu": "Botte di Luciano",
+                "ro": "Botte di Luciano",
+                "en": "Botte di Luciano"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist hier im Winter ideal; bewundern Sie das antike Handwerk, bevor Sie schnell wieder ins warme Auto steigen.",
+                "hu": "Egy gyors fotómegálló itt télen ideális; csodáld meg az antik kézművességet, mielőtt gyorsan visszaszállnál a meleg autóba.",
+                "ro": "O oprire rapidă pentru fotografii este ideală aici iarna; admirați măiestria antică înainte de a vă urca rapid înapoi în mașina caldă.",
+                "en": "A quick photo stop is ideal here in winter; admire the ancient craftsmanship before quickly getting back into the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor Vergata",
+                "hu": "Tor Vergata",
+                "ro": "Tor Vergata",
+                "en": "Tor Vergata"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Campusflächen wirken im Winter sehr ruhig; parken Sie strategisch, um die markantesten Gebäude ohne weite Wege zu sehen.",
+                "hu": "A tágas campus területek télen nagyon csendesek; parkolj stratégiailag, hogy a legjellegzetesebb épületeket nagy séta nélkül is lásd.",
+                "ro": "Zonele vaste ale campusului sunt foarte liniștite iarna; parcați strategic pentru a vedea cele mai marcante clădiri fără a merge mult pe jos.",
+                "en": "The sprawling campus areas are very quiet in winter; park strategically to see the most striking buildings without long walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Meilenstein",
+                "hu": "Római mérföldkő",
+                "ro": "Piatră de hotar romană",
+                "en": "Roman Milestone"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Anfahrt auf eventuelle Glätte auf Nebenstraßen; der Stein ist ein kurzes, aber lohnenswertes Zeugnis der Geschichte.",
+                "hu": "A megközelítéskor ügyelj az esetleges jegesedésre a mellékutakon; a kő rövid, de érdemes tanúbizonysága a történelemnek.",
+                "ro": "Aveți grijă la posibila gheață de pe drumurile secundare la sosire; piatra este o mărturie scurtă, dar valoroasă a istoriei.",
+                "en": "Watch out for potential ice on side roads when approaching; the stone is a short but worthwhile testimony to history."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Passolombardo",
+                "hu": "Passolombardo Római Villa",
+                "ro": "Vila Romană Passolombardo",
+                "en": "Passolombardo Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17 Uhr; die tiefstehende Sonne betont die Strukturen der römischen Mauern auf einzigartige Weise.",
+                "hu": "Használd ki az utolsó nappali fényeket 17 óra előtt; az alacsonyan járó nap egyedi módon emeli ki a római falak szerkezetét.",
+                "ro": "Profitați de ultima lumină a zilei înainte de ora 17; soarele coborât subliniază structurile zidurilor romane într-un mod unic.",
+                "en": "Take advantage of the last daylight before 17:00; the low-hanging sun emphasizes the structures of the Roman walls uniquely."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von San Zotico",
+                "hu": "San Zotico katakombák",
+                "ro": "Catacombele Sfântului Zotic",
+                "en": "Catacombs of San Zotico"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur unter der Erde ist im Winter oft angenehm; genießen Sie die Tour durch die Geschichte in geschützter Umgebung.",
+                "hu": "A föld alatti állandó hőmérséklet télen gyakran kellemes; élvezd a történelmi túrát védett környezetben.",
+                "ro": "Temperatura constantă de sub pământ este adesea plăcută iarna; bucurați-vă de turul prin istorie într-un mediu protejat.",
+                "en": "The constant temperature underground is often pleasant in winter; enjoy the tour through history in a sheltered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Bernardino da Siena",
+                "hu": "San Bernardino da Siena templom",
+                "ro": "Biserica San Bernardino da Siena",
+                "en": "Church of San Bernardino da Siena"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei Einbruch der Dunkelheit; das warme Licht der Kirche bietet einen behaglichen Abschluss Ihrer winterlichen Reise.",
+                "hu": "Zárd a napot a sötétség beálltakor; a templom meleg fénye meghitt lezárást nyújt téli utazásodhoz.",
+                "ro": "Încheiați ziua la căderea întunericului; lumina caldă a bisericii oferă un final confortabil călătoriei tale de iarnă.",
+                "en": "End the day at nightfall; the church's warm light offers a cozy conclusion to your winter journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

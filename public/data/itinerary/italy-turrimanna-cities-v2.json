@@ -137,6 +137,168 @@
         "hu": "A reggel egy kényelmes sétával indul az Area 39 zöldövezetében, amely rögtön ráhangolja a laza parti hangulatra. A délidő a Santa Maria Stella Maris békés, modern belső terének felfedezésével telik, majd a közeli rendezvénytér nyüzsgését élvezheti. Délután tegyen egy hosszú, festői sétát a Spiaggia del Pontile felé, hogy belélegezze a friss tengeri szellőt és megcsodálja a horizontot. Az estét a Spiaggia della Perlite csendes partjainál zárhatja, ahol a lemenő nap ragyogó színekre festi az eget.",
         "ro": "Dimineața începe cu o plimbare relaxantă prin spațiile verzi din Area 39, introducându-vă într-o atmosferă de coastă. La amiază vă veți afla explorând interiorul pașnic al Santa Maria Stella Maris, urmat de o vizită în spațiile de evenimente deschise. După-amiaza, bucurați-vă de o plimbare lungă până la Spiaggia del Pontile pentru a respira briza proaspătă a mării și a admira orizonturile. Seara se încheie pe țărmul liniștit de la Spiaggia della Perlite, unde apusul pictează cerul în nuanțe strălucitoare.",
         "en": "Your morning starts with a leisurely stroll through the green spaces of Area 39, easing you into a relaxed coastal vibe. Midday finds you exploring the peaceful modern interior of Santa Maria Stella Maris, followed by a lively visit to the open event spaces nearby. In the afternoon, enjoy a long scenic walk down to Spiaggia del Pontile to breathe in the fresh sea breeze and admire the vast horizons. The evening rounds off on the quiet shores of Spiaggia della Perlite, where the sunset paints the sky in brilliant hues over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Area 39, wo Sie unter dem Vordach Schutz vor den ersten Tropfen finden. Mittags bietet die Kirche Santa Maria Stella Maris einen friedlichen, trockenen Zufluchtsort. Der Nachmittag am Strand erfordert gute Regenbekleidung, da der Wind vom Meer die Gischt peitscht. Am Abend ziehen Sie sich am besten früh in eine gemütliche Unterkunft zurück, wenn die Nässe zunimmt.",
+            "hu": "Kezdje a napot az Area 39-nél, ahol az épületek fedezékében vészelheti át az első záporokat. Délben a Santa Maria Stella Maris templom nyújt száraz és békés menedéket a csapadék elől. A délutáni tengerparti séta során készüljön fel az erős szélre és a sós permetre, viseljen vízhatlan kabátot. Az est közeledtével, ahogy az eső intenzívebbé válik, keressen egy meleg belső teret.",
+            "ro": "Începeți ziua la Area 39, unde găsiți adăpost sub copertine în caz de ploaie. La prânz, biserica Santa Maria Stella Maris oferă un refugiu uscat și liniștit. După-amiaza pe plajă necesită pelerine de ploaie rezistente, deoarece vântul suflă stropii de apă dinspre mare. Seara, pe măsură ce ploaia se intensifică, este recomandat să vă retrageți devreme într-un loc primitor și încălzit.",
+            "en": "Start your day at Area 39, finding shelter under the structures if the rain starts. At noon, the Santa Maria Stella Maris church provides a dry and peaceful refuge. The afternoon beach walk requires sturdy rain gear as the sea breeze whips the droplets around. In the evening, as the rain persists, it is best to find a cozy indoor spot to relax and dry off after the coastal trek."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Area 39",
+                "hu": "Area 39",
+                "ro": "Area 39",
+                "en": "Area 39"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Freizeitzentrums, um trocken zu bleiben; die Cafés in der Nähe bieten warmen Espresso gegen die Kühle.",
+                "hu": "Használja ki a szabadidős központ fedett részeit, hogy száraz maradjon, a közeli kávézókban pedig egy forró eszpresszóval melegedhet fel.",
+                "ro": "Folosiți zonele acoperite ale centrului de recreere pentru a rămâne uscați; cafenelele din apropiere oferă un espresso cald pentru a alunga frigul.",
+                "en": "Utilize the covered sections of the recreation center to stay dry, and visit nearby cafes for a hot espresso to take the chill off the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Stella Maris",
+                "hu": "Santa Maria Stella Maris",
+                "ro": "Santa Maria Stella Maris",
+                "en": "Santa Maria Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Dieses religiöse Zentrum ist der ideale Ort, um einen heftigen Regenschauer im Trockenen abzuwarten und die moderne Architektur zu bewundern.",
+                "hu": "Ez a vallási központ ideális hely egy heves zápor átvészelésére, miközben megcsodálhatja a templom letisztult, modern építészeti megoldásait.",
+                "ro": "Acest centru religios este locul ideal pentru a aștepta trecerea unei averse puternice, admirând în același timp arhitectura modernă a bisericii.",
+                "en": "This religious center is the perfect place to wait out a heavy downpour in the dry while admiring the church's clean, modern architectural lines."
+              }
+            },
+            {
+              "name": {
+                "de": "Area grandi eventi Torregrande",
+                "hu": "Area grandi eventi Torregrande",
+                "ro": "Area grandi eventi Torregrande",
+                "en": "Area grandi eventi Torregrande"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Pflastersteine auf dem weitläufigen Platz; wasserfeste Schuhe sind hier für die Erkundung des Geländes unerlässlich.",
+                "hu": "Vigyázzon a csúszós burkolatra a tágas téren, a terület felfedezéséhez pedig elengedhetetlen a vízálló lábbeli a felgyülemlő tócsák miatt.",
+                "ro": "Atenție la pavajul alunecos din piața largă; încălțămintea impermeabilă este esențială aici pentru explorarea întregului perimetru exterior.",
+                "en": "Watch out for slippery pavement in the large square; waterproof footwear is essential here for exploring the grounds despite the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Pontile",
+                "hu": "Spiaggia del Pontile",
+                "ro": "Spiaggia del Pontile",
+                "en": "Spiaggia del Pontile"
+              },
+              "tip_5lang": {
+                "de": "Der Steg bietet bei Regen einen dramatischen Blick auf das aufgewühlte Meer; halten Sie sich am Geländer fest, da es bei Nässe glatt wird.",
+                "hu": "A móló esőben drámai kilátást nyújt a felkorbácsolt tengerre, de kapaszkodjon erősen, mert a korlát és a járófelület is nagyon csúszós lehet.",
+                "ro": "Pontonul oferă o vedere dramatică asupra mării agitate în timpul ploii; țineți-vă bine de balustradă, deoarece devine alunecoasă când e udă.",
+                "en": "The pier offers dramatic views of the turbulent sea during rain; hold onto the railings firmly as they become quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia della Perlite",
+                "hu": "Spiaggia della Perlite",
+                "ro": "Spiaggia della Perlite",
+                "en": "Spiaggia della Perlite"
+              },
+              "tip_5lang": {
+                "de": "Der Sand kann bei Regen schwergängig sein; genießen Sie das Rauschen der Wellen und nutzen Sie einen großen Regenschirm gegen den Seitenwind.",
+                "hu": "A homok esőben nehezebben járható lehet, élvezze a hullámok zúgását, és használjon stabil esernyőt az erős oldalszél elleni védekezéshez.",
+                "ro": "Nisipul poate fi greu de parcurs pe ploaie; bucurați-vă de sunetul valurilor și folosiți o umbrelă mare pentru a vă proteja de vântul lateral.",
+                "en": "The sand can be heavy to walk on in the rain; enjoy the sound of the crashing waves and use a sturdy umbrella to shield from the side wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Area 39, wo die kühle Meeresbrise Sie wachrüttelt. Mittags wärmen Sie sich in der Kirche Santa Maria Stella Maris auf, bevor Sie die offene Veranstaltungsfläche besuchen. Der Nachmittag an den Stränden ist kurz, da die Sonne gegen 17:00 Uhr untergeht und die Temperaturen rasch sinken. Den Abend verbringen Sie am besten bei einem warmen Abendessen im Ort.",
+            "hu": "A friss téli reggel az Area 39-nél indul, ahol a hűvös tengeri szellő gyorsan felébreszti. Délben melegedjen fel a Santa Maria Stella Maris templomban, mielőtt a rendezvénytérre indulna. A délutáni strandlátogatás rövid lesz, mivel a nap 17:00 körül nyugszik, és a hőmérséklet hirtelen leesik. Az estét érdemes egy helyi étterem melegében, tartalmas vacsorával tölteni.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Area 39, unde briza rece a mării vă va înviora rapid. La prânz, încălziți-vă în biserica Santa Maria Stella Maris înainte de a vizita spațiul de evenimente. După-amiaza pe plajă este scurtă, deoarece soarele apune în jur de ora 17:00 și temperatura scade brusc. Seara este cel mai bine să o petreceți la o cină caldă în oraș.",
+            "en": "A crisp winter morning starts at Area 39, where the cool sea breeze awakens your senses. At noon, warm up inside the Santa Maria Stella Maris church before exploring the open event area. The afternoon beach visit is brief, as the sun sets around 17:00 and temperatures drop rapidly. Spend the evening enjoying a hearty, warm dinner in a local establishment to end the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Area 39",
+                "hu": "Area 39",
+                "ro": "Area 39",
+                "en": "Area 39"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung, da der Wind hier ungeschützt weht; ein heißes Getränk am Morgen ist der perfekte Start in den kalten Tag.",
+                "hu": "Öltözzön rétegesen, mert a szél itt akadálytalanul fúj; egy forró ital reggel tökéletes indítása lehet a hűvös téli felfedezésnek.",
+                "ro": "Purtați mai multe straturi de haine, deoarece vântul bate puternic aici; o băutură caldă dimineața este startul perfect pentru o zi rece.",
+                "en": "Wear multiple layers as the wind blows unchecked here; a hot morning drink is the perfect start to a chilly winter day of exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Stella Maris",
+                "hu": "Santa Maria Stella Maris",
+                "ro": "Santa Maria Stella Maris",
+                "en": "Santa Maria Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren Mantel in der Kirche an, da die Steinmauern die Kälte speichern; genießen Sie die ruhige, winterliche Atmosphäre im Inneren.",
+                "hu": "Hagyja magán a kabátját a templomban is, mivel a kőfalak tartják a hideget; élvezze a csendes, meghitt téli hangulatot a belső térben.",
+                "ro": "Păstrați haina pe dvs. și în interiorul bisericii, deoarece zidurile de piatră rețin frigul; bucurați-vă de atmosfera liniștită de iarnă.",
+                "en": "Keep your coat on inside the church as the stone walls retain the winter chill; enjoy the quiet, contemplative indoor atmosphere during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Area grandi eventi Torregrande",
+                "hu": "Area grandi eventi Torregrande",
+                "ro": "Area grandi eventi Torregrande",
+                "en": "Area grandi eventi Torregrande"
+              },
+              "tip_5lang": {
+                "de": "Der weite Platz ist im Winter sehr zugig; ein Schal und Handschuhe schützen Sie vor dem schneidenden Wind, während Sie das Denkmal betrachten.",
+                "hu": "A tágas tér télen nagyon huzatos; egy sál és kesztyű megvédi a metsző széltől, miközben körbejárja a területet és megnézi az emlékművet.",
+                "ro": "Piața largă este foarte expusă vântului iarna; un fular și mănuși vă vor proteja de curent în timp ce explorați zona și monumentul local.",
+                "en": "The wide square is very drafty in winter; a scarf and gloves will protect you from the biting wind while you walk around the open grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Pontile",
+                "hu": "Spiaggia del Pontile",
+                "ro": "Spiaggia del Pontile",
+                "en": "Spiaggia del Pontile"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt oft für eine kristallklare Sicht bis zum Horizont; nutzen Sie das restliche Tageslicht vor dem frühen Sonnenuntergang.",
+                "hu": "A téli napfényben gyakran kristálytiszta a kilátás a horizontig; használja ki a maradék nappali fényt a korai, délután ötkor várható naplemente előtt.",
+                "ro": "Soarele de iarnă oferă adesea o vizibilitate extrem de clară până la orizont; profitați de lumina zilei înainte de apusul devreme de la ora 17.",
+                "en": "The winter sun often provides crystal-clear views to the horizon; make the most of the remaining daylight before the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia della Perlite",
+                "hu": "Spiaggia della Perlite",
+                "ro": "Spiaggia della Perlite",
+                "en": "Spiaggia della Perlite"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen, zügigen Spaziergang, um die Blutzirkulation anzuregen, und genießen Sie die einsame, raue Schönheit des Winterstrandes.",
+                "hu": "Tegyen egy rövid, tempós sétát a vérkeringés frissítésére, és élvezze a téli tengerpart magányos, vad szépségét a gyorsan hűlő alkonyatban.",
+                "ro": "Faceți o plimbare scurtă și rapidă pentru a vă activa circulația și bucurați-vă de frumusețea sălbatică a plajei pustii în amurgul rece.",
+                "en": "Take a short, brisk walk to keep your circulation going and enjoy the solitary, rugged beauty of the winter beach as the twilight approaches."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a történelmi Torre di Su Pottu toronynál, mielőtt áttekerne Cuccuru Is Arrius ősi romjaihoz. Délben a híres Giovanni Marongiu Múzeumban merülhet el a helyi történelemben, majd egy frissítő tekerés vár a Scaiu Nou vízpartján. A délután folyamán megáll a modern Santa Maria Stella Maris templomnál, hogy megcsodálja a letisztult építészetet. Végül a napot a Torregrande rendezvénytér körül fejezi be, élvezve az estét a tengerparti nyüzsgésben.",
         "ro": "Începeți turul cu bicicleta la istoricul Torre di Su Pottu înainte de a pedala către ruinele antice din Cuccuru Is Arrius. La amiază, vă veți scufunda în istoria locală la renumitul Muzeu Giovanni Marongiu, urmat de o plimbare plăcută de-a lungul apei la Scaiu Nou. După-amiaza include o oprire la biserica modernă Santa Maria Stella Maris pentru a-i aprecia arhitectura. În cele din urmă, încheiați ziua pedalând în jurul spațiilor de evenimente din Torregrande, bucurându-vă de atmosferă.",
         "en": "Kick off your cycling tour at the historic Torre di Su Pottu before pedaling over to the ancient ruins of Cuccuru Is Arrius. By midday, you will delve into rich local history at the renowned Giovanni Marongiu Museum, followed by a breezy ride along the Scaiu Nou waterfront. Your afternoon features a stop at the modern Santa Maria Stella Maris to appreciate its architecture. Finally, end your day cycling around the Torregrande event spaces, soaking up the coastal evening atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt an der Torre di Su Pottu, wo Regenponchos unerlässlich sind. Mittags bietet das Museo Civico den perfekten trockenen Stopp für Kulturinteressierte. Die Wege können bei Nässe rutschig sein, fahren Sie daher besonders vorsichtig in den Kurven. Nachmittags besuchen Sie die Kirche, bevor Sie die Tour wegen der Nässe am späten Nachmittag gemütlich ausklingen lassen.",
+            "hu": "A kerékpáros nap a Torre di Su Pottu-nál indul, ahol az esőponcsó elengedhetetlen kellék. Délben a Museo Civico kínál tökéletes, száraz kulturális kikapcsolódást az eső elől. Az utak vizesen csúszósak lehetnek, így a kanyarokban legyen különösen óvatos. Délután látogasson el a templomba, majd a fokozódó csapadék miatt fejezze be korábban a tekerést.",
+            "ro": "Ziua de ciclism începe la Torre di Su Pottu, unde pelerinele de ploaie sunt obligatorii. La prânz, Museo Civico oferă oprirea culturală perfectă și uscată. Drumurile pot fi alunecoase când sunt ude, deci conduceți cu atenție sporită în curbe. După-amiaza vizitați biserica, apoi încheiați turul mai devreme din cauza umezelii persistente.",
+            "en": "The cycling day kicks off at Torre di Su Pottu, where rain ponchos are essential gear. At noon, the Museo Civico provides the perfect dry cultural stop to escape the showers. Paths can be slippery when wet, so exercise extra caution while cornering. In the afternoon, visit the church before winding down your tour early due to the increasing dampness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Su Pottu",
+                "hu": "Torre di Su Pottu",
+                "ro": "Torre di Su Pottu",
+                "en": "Torre di Su Pottu"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet kaum Unterstand; machen Sie ein schnelles Foto und achten Sie beim Auf- und Absteigen auf den rutschigen Untergrund.",
+                "hu": "A toronynál kevés a fedett rész; készítsen egy gyors fotót, és figyeljen oda a csúszós talajra a kerékpárról való fel- és leszálláskor.",
+                "ro": "Turnul oferă puțin adăpost; faceți o fotografie rapidă și fiți atenți la terenul alunecos când urcați sau coborâți de pe bicicletă.",
+                "en": "The tower offers little shelter; take a quick photo and be mindful of the slippery ground when getting on or off your bicycle in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuccuru Is Arrius",
+                "hu": "Cuccuru Is Arrius",
+                "ro": "Cuccuru Is Arrius",
+                "en": "Cuccuru Is Arrius"
+              },
+              "tip_5lang": {
+                "de": "Die archäologische Stätte kann bei Regen schlammig sein; stellen Sie Ihr Rad an einem festen Ort ab und bleiben Sie auf den markierten Wegen.",
+                "hu": "A régészeti lelőhely esőben sáros lehet; parkolja le a bringát stabil talajon, és maradjon a kijelölt ösvényeken a csúszásveszély miatt.",
+                "ro": "Situl arheologic poate fi noroios pe ploaie; parcați bicicleta pe un teren stabil și rămâneți pe potecile marcate pentru a evita alunecarea.",
+                "en": "The archaeological site can get muddy in the rain; park your bike on firm ground and stick to the marked paths to avoid slipping on the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo civico Giovanni Marongiu",
+                "hu": "Museo civico Giovanni Marongiu",
+                "ro": "Museo civico Giovanni Marongiu",
+                "en": "Museo civico Giovanni Marongiu"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um sich aufzuwärmen und abzutrocknen; nehmen Sie sich Zeit für die Exponate, während es draußen am stärksten regnet.",
+                "hu": "Ez a legjobb hely a felmelegedésre és a megszárítkozásra; szánjon bőséges időt a kiállításokra, amíg kint a leghevesebben esik az eső.",
+                "ro": "Acesta este cel mai bun loc pentru a vă încălzi și usca; acordați-vă timp pentru exponate în timp ce afară plouă cel mai torențial.",
+                "en": "This is the best place to warm up and dry off; take your time exploring the exhibits while the rain is heaviest outside during the midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Scaiu Nou",
+                "hu": "Scaiu Nou",
+                "ro": "Scaiu Nou",
+                "en": "Scaiu Nou"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da die nassen Wege den Bremsweg verlängern; genießen Sie die frische, regnerische Luft am Wasser.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a vizes úton hosszabb a féktáv; élvezze a friss, eső utáni illatokat a vízparti szakaszon.",
+                "ro": "Verificați frânele înainte de plecare, deoarece drumurile ude lungesc distanța de frânare; bucurați-vă de aerul proaspăt de lângă apă.",
+                "en": "Check your brakes before departing, as wet paths increase stopping distance; enjoy the fresh, rainy air along the waterfront section of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Stella Maris",
+                "hu": "Santa Maria Stella Maris",
+                "ro": "Santa Maria Stella Maris",
+                "en": "Santa Maria Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder und treten Sie ein, um die Stille und Trockenheit der Kirche zu genießen.",
+                "hu": "Használja a templom fedett bejárati részét a bringák leállításához, és menjen be, hogy élvezze a belső tér csendjét és szárazságát.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicletele și intrați pentru a vă bucura de liniștea și atmosfera uscată a bisericii.",
+                "en": "Use the covered entrance area to park your bikes and step inside to enjoy the silence and dry atmosphere of the church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Area grandi eventi Torregrande",
+                "hu": "Area grandi eventi Torregrande",
+                "ro": "Area grandi eventi Torregrande",
+                "en": "Area grandi eventi Torregrande"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die großen Flächen, um Spritzwasser zu vermeiden; die offene Struktur bietet kaum Schutz vor Wind und Regen.",
+                "hu": "Tekerjen lassan a nagy tereken, hogy elkerülje a felverődő vizet; a nyitott területen kevés védelmet talál a szél és az eső ellen.",
+                "ro": "Pedalați încet pe suprafețele mari pentru a evita stropirea; structura deschisă oferă puțină protecție împotriva vântului și ploii.",
+                "en": "Ride slowly across the large open areas to avoid splashing water; the open structure offers little protection from the wind and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winter-Radtour früh an der Torre di Su Pottu, um das Tageslicht optimal zu nutzen. Die Fahrt zum Museum hält Sie warm, und der Besuch dort bietet eine willkommene Pause von der Kälte. Achten Sie am Nachmittag auf die tiefstehende Sonne, die blenden kann. Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr, da es nach Sonnenuntergang auf dem Fahrrad schlagartig frostig wird.",
+            "hu": "Kezdje korán a téli bringázást a Torre di Su Pottu-nál, hogy kihasználja a nappali fényt. Az út a múzeumig mozgásban tartja, az ottani látogatás pedig pihentető szünet a hidegben. Délután figyeljen az alacsonyan járó napra, ami vakíthat tekerés közben. Fejezze be a túrát 17:00 előtt, mert naplemente után hirtelen lehűl a levegő.",
+            "ro": "Începeți devreme tura de iarnă la Torre di Su Pottu pentru a profita de lumina zilei. Drumul până la muzeu vă va menține calzi, iar vizita oferă o pauză binemeritată. După-amiaza, atenție la soarele jos care poate fi orbitor. Încheiați tura înainte de ora 17:00, deoarece temperatura scade brusc după apus.",
+            "en": "Start your winter bike tour early at Torre di Su Pottu to maximize daylight hours. The ride to the museum keeps you warm, and the visit there offers a welcome break from the cold. In the afternoon, watch out for the low sun which can be blinding while cycling. Finish your tour by 17:00, as it gets frosty on the bike immediately after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Su Pottu",
+                "hu": "Torre di Su Pottu",
+                "ro": "Torre di Su Pottu",
+                "en": "Torre di Su Pottu"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Turm kann im Winter eisig sein; tragen Sie eine winddichte Jacke und genießen Sie den klaren Blick auf das Wintermeer.",
+                "hu": "A toronynál a szél télen jeges lehet; viseljen szélálló kabátot, és élvezze a téli tenger feletti tiszta, messzire nyúló kilátást.",
+                "ro": "Vântul la turn poate fi înghețat iarna; purtați o jachetă rezistentă la vânt și bucurați-vă de vederea clară asupra mării de iarnă.",
+                "en": "The wind at the tower can be icy in winter; wear a windproof jacket and enjoy the clear, far-reaching views over the winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuccuru Is Arrius",
+                "hu": "Cuccuru Is Arrius",
+                "ro": "Cuccuru Is Arrius",
+                "en": "Cuccuru Is Arrius"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist im Winter oft hart gefroren oder feucht; stellen Sie sicher, dass Ihre Reifen guten Grip haben, bevor Sie das Gelände befahren.",
+                "hu": "A talaj télen gyakran keményre fagyott vagy nyirkos; győződjön meg róla, hogy a gumik jól tapadnak, mielőtt behajtana a területre.",
+                "ro": "Solul este adesea înghețat sau umed iarna; asigurați-vă că anvelopele au aderență bună înainte de a intra pe terenul sitului.",
+                "en": "The ground is often hard-frozen or damp in winter; ensure your tires have good grip before cycling onto the site's unpaved terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo civico Giovanni Marongiu",
+                "hu": "Museo civico Giovanni Marongiu",
+                "ro": "Museo civico Giovanni Marongiu",
+                "en": "Museo civico Giovanni Marongiu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt, um Ihre Hände aufzuwärmen; die klimatisierten Räume bieten Schutz vor der winterlichen Kälte außerhalb der Mauern.",
+                "hu": "Használja ki az itt töltött időt a kezei felmelegítésére; a temperált belső terek védelmet nyújtanak a kinti téli hideg ellen.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile; spațiile climatizate oferă protecție împotriva frigului de iarnă de afară.",
+                "en": "Use this stop to warm up your hands; the climate-controlled indoor spaces provide a great shield from the biting winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Scaiu Nou",
+                "hu": "Scaiu Nou",
+                "ro": "Scaiu Nou",
+                "en": "Scaiu Nou"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Winterluft am Wasser kann sehr kühl sein; halten Sie sich in Bewegung, um warm zu bleiben, und genießen Sie die Ruhe des Ortes.",
+                "hu": "A párás téli levegő a vízparton nagyon hűvös lehet; maradjon mozgásban, hogy melegen tartsa magát, és élvezze a hely különleges nyugalmát.",
+                "ro": "Aerul umed de iarnă de lângă apă poate fi foarte rece; rămâneți în mișcare pentru a vă menține calzi și bucurați-vă de liniștea locului.",
+                "en": "The damp winter air near the water can be very chilly; keep moving to stay warm and enjoy the unique tranquility of the site in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Stella Maris",
+                "hu": "Santa Maria Stella Maris",
+                "ro": "Santa Maria Stella Maris",
+                "en": "Santa Maria Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zur Besinnung in der kühlen Kirche; ziehen Sie die Handschuhe erst drinnen aus, wenn Sie sich etwas akklimatisiert haben.",
+                "hu": "Rövid megálló a hűvös templomban; a kesztyűt csak bent vegye le, miután már kicsit akklimatizálódott a belső hőmérséklethez.",
+                "ro": "O scurtă oprire în biserica răcoroasă; scoateți mănușile doar după ce v-ați aclimatizat puțin cu temperatura din interior.",
+                "en": "A short stop for reflection in the cool church; wait until you have acclimated slightly before removing your gloves inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Area grandi eventi Torregrande",
+                "hu": "Area grandi eventi Torregrande",
+                "ro": "Area grandi eventi Torregrande",
+                "en": "Area grandi eventi Torregrande"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh sinkt, schalten Sie Ihr Licht am Fahrrad ein; die weite Fläche bietet einen tollen Blick auf das winterliche Abendrot.",
+                "hu": "Mivel a nap korán nyugszik, kapcsolja be a kerékpár lámpáit; a tágas térről remek kilátás nyílik a téli alkonyati égboltra.",
+                "ro": "Deoarece soarele apune devreme, aprindeți luminile bicicletei; spațiul larg oferă o vedere excelentă asupra amurgului de iarnă.",
+                "en": "Since the sun sets early, remember to turn on your bike lights; the vast open area offers a great view of the winter sunset colors."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggel vezessen egyenesen a kiváló Giovanni Marongiu Múzeumhoz, hogy elkerülje a tömeget, és megcsodálja az ősi óriásszobrokat. Délben az útja Cuccuru Is Arrius régészeti csodáihoz és a történelmi Torre di Su Pottu partvédő tornyához vezet. Délután a nyüzsgő tengerparti övezetekbe látogat, kezdve egy kis békés elmélyüléssel a Santa Maria Stella Maris templomban. Az estét a gyönyörű és csendes Spiaggia della Perlite partján töltheti el az Area 39 park felfedezése után.",
         "ro": "Conduceți direct la excepționalul Muzeu Giovanni Marongiu dimineața pentru a evita aglomerația și a admira statuile antice uriașe. La amiază, traseul vă duce la minunile arheologice din Cuccuru Is Arrius și la fortificațiile istorice din Torre di Su Pottu. După-amiaza, veți trece către zonele aglomerate de lângă plajă, începând cu o pauză liniștită în interiorul bisericii Santa Maria Stella Maris. Seara este petrecută perfect relaxându-vă pe frumoasa Spiaggia della Perlite după explorarea Area 39.",
         "en": "Drive straight to the exceptional Giovanni Marongiu Museum in the morning to beat the crowds and marvel at the ancient giant statues. For midday, your route takes you to the archaeological wonders of Cuccuru Is Arrius and the historic coastal defense of Torre di Su Pottu. In the afternoon, you will transition to the bustling beachside areas, starting with a peaceful reflection inside Santa Maria Stella Maris. The evening is perfectly spent unwinding at the beautiful and calm Spiaggia della Perlite after exploring Area 39."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem im trockenen Auto und besuchen Sie zuerst das Museo Civico, während es draußen regnet. Mittags können Sie die archäologische Stätte und den Turm besichtigen, wobei das Auto als perfekter Rückzugsort zwischen den Stopps dient. Nachmittags parken Sie nahe der Kirche und dem Area 39. Der Abend am Strand ist kurz, aber die Fahrt entlang der Küste bietet auch bei Regen schöne Ausblicke.",
+            "hu": "Kezdje a napot kényelmesen az autóban, és látogasson el először a Museo Civico-ba, amíg kint esik. Délben a régészeti lelőhely és a torony következik, ahol az autó tökéletes menedéket nyújt a megállók között. Délután parkoljon a templom és az Area 39 közelében. A tengerparti látogatás esőben rövid lesz, de az autózás a parton így is szép látványt nyújt.",
+            "ro": "Începeți confortabil în mașină și vizitați mai întâi Museo Civico în timp ce plouă afară. La prânz puteți vedea situl arheologic și turnul, mașina fiind refugiul perfect între opriri. După-amiaza parcați aproape de biserică și Area 39. Vizita la plajă pe ploaie va fi scurtă, dar drumul de-a lungul coastei oferă vederi frumoase și prin parbriz.",
+            "en": "Start comfortably in your car and visit the Museo Civico first while it rains outside. At noon, explore the archaeological site and the tower, using your car as the perfect shelter between stops. In the afternoon, park near the church and Area 39. The beach visit will be brief in the rain, but the coastal drive still offers beautiful views from the dry interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo civico Giovanni Marongiu",
+                "hu": "Museo civico Giovanni Marongiu",
+                "ro": "Museo civico Giovanni Marongiu",
+                "en": "Museo civico Giovanni Marongiu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um nicht nass zu werden; drinnen können Sie in Ruhe die Statuen der Giganten bewundern, während es regnet.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy elkerülje az ázást; bent nyugodtan megcsodálhatja az óriás szobrokat, amíg kint esik az eső.",
+                "ro": "Parcați chiar la intrare pentru a nu vă uda; în interior puteți admira în liniște statuile giganților în timp ce afară plouă torențial.",
+                "en": "Park right at the entrance to avoid getting wet; inside you can admire the giant statues at your leisure while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuccuru Is Arrius",
+                "hu": "Cuccuru Is Arrius",
+                "ro": "Cuccuru Is Arrius",
+                "en": "Cuccuru Is Arrius"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto und beobachten Sie das Gelände; für einen schnellen Rundgang ist ein Regenschirm unerlässlich.",
+                "hu": "Heves esőben maradjon egy kicsit az autóban és onnan nézze a területet; egy gyors körbejáráshoz elengedhetetlen az esernyő használata.",
+                "ro": "În caz de ploaie torențială, rămâneți puțin în mașină; pentru o scurtă plimbare prin sit, umbrela este absolut indispensabilă.",
+                "en": "In heavy rain, stay in the car for a moment to observe the site; for a quick walk-around, a sturdy umbrella is absolutely indispensable."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Su Pottu",
+                "hu": "Torre di Su Pottu",
+                "ro": "Torre di Su Pottu",
+                "en": "Torre di Su Pottu"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist gut von der Straße aus sichtbar; parken Sie kurz für ein Foto und nutzen Sie den Wagen als Windschutz gegen die Meeresbrise.",
+                "hu": "A torony jól látható az útról is; álljon meg egy rövid fotóra, és használja az autót szélfogóként a sós tengeri permet ellen.",
+                "ro": "Turnul este vizibil de pe drum; opriți scurt pentru o poză și folosiți mașina ca paravan împotriva vântului și a stropilor de mare.",
+                "en": "The tower is clearly visible from the road; stop briefly for a photo and use the car as a windbreak against the salty sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Stella Maris",
+                "hu": "Santa Maria Stella Maris",
+                "ro": "Santa Maria Stella Maris",
+                "en": "Santa Maria Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe des Eingangs; die Kirche ist ein wunderbarer Ort, um trocken zu bleiben und die Akustik zu genießen.",
+                "hu": "Használja a bejárat közeli parkolóhelyeket; a templom remek hely, hogy száraz maradjon és élvezze a belső tér különleges akusztikáját.",
+                "ro": "Folosiți locurile de parcare din apropierea intrării; biserica este un loc minunat pentru a rămâne uscat și a vă bucura de acustică.",
+                "en": "Utilize the parking spots near the entrance; the church is a wonderful place to stay dry and enjoy the interior's unique acoustics."
+              }
+            },
+            {
+              "name": {
+                "de": "Area 39",
+                "hu": "Area 39",
+                "ro": "Area 39",
+                "en": "Area 39"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für einen Kaffee im Trockenen; die Cafés hier sind leicht mit dem Auto erreichbar und bieten Schutz vor Regenschauern.",
+                "hu": "Rövid megálló egy kávéra a szárazban; az itteni kávézók autóval könnyen megközelíthetők és védelmet nyújtanak az esőzáporok elől.",
+                "ro": "Oprire scurtă pentru o cafea la adăpost; cafenelele de aici sunt ușor accesibile cu mașina și oferă protecție împotriva ploii.",
+                "en": "A quick stop for a coffee in the dry; the cafes here are easily accessible by car and provide perfect shelter from passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia della Perlite",
+                "hu": "Spiaggia della Perlite",
+                "ro": "Spiaggia della Perlite",
+                "en": "Spiaggia della Perlite"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer aus dem warmen Auto heraus; ein kurzer Spaziergang am Wasser erfrischt trotz des Regens.",
+                "hu": "Élvezze a viharos tenger látványát a meleg autóból; egy rövid séta a vízparton az eső ellenére is felfrissíti az embert az út végén.",
+                "ro": "Bucurați-vă de vederea mării agitate din căldura mașinii; o scurtă plimbare pe mal vă va înviora în ciuda ploii persistente.",
+                "en": "Enjoy the view of the stormy sea from the warmth of your car; a short walk by the water will refresh you despite the persistent rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag mit einer Fahrt zum Museum, wo es angenehm temperiert ist. Die Fahrt zwischen den historischen Stätten schützt Sie vor dem kalten Wind. Mittags besuchen Sie die Kirche und das Area 39. Der Nachmittag am Strand bietet bei klarem Winterhimmel tolle Fotomotive, aber denken Sie an den frühen Sonnenuntergang um 17:00 Uhr. Den Abend lassen Sie gemütlich im beheizten Auto oder Lokal ausklingen.",
+            "hu": "Kezdje a téli napot a múzeumban, ahol kellemes a hőmérséklet. Az autózás a történelmi helyszínek között megvédi a hideg széltől. Délben látogasson el a templomhoz és az Area 39-hez. A délutáni tengerparti megálló tiszta téli égbolt mellett remek fotótéma, de ne feledje a korai, 17:00-ás naplementét. Az estét töltse egy fűtött helyen.",
+            "ro": "Începeți ziua de iarnă la muzeu, unde temperatura este plăcută. Condusul între siturile istorice vă protejează de vântul rece. La prânz vizitați biserica și Area 39. După-amiaza la plajă oferă oportunități foto excelente sub cerul clar de iarnă, dar atenție la apusul devreme de la ora 17:00. Încheiați seara într-un loc încălzit.",
+            "en": "Start your winter day at the museum, where the temperature is comfortable. Driving between historical sites protects you from the cold wind. At noon, visit the church and Area 39. The afternoon beach stop offers great photo opportunities under the clear winter sky, but keep in mind the early 17:00 sunset. End your evening in a cozy, heated indoor setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo civico Giovanni Marongiu",
+                "hu": "Museo civico Giovanni Marongiu",
+                "ro": "Museo civico Giovanni Marongiu",
+                "en": "Museo civico Giovanni Marongiu"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre schweren Jacken im Auto, da das Museum gut beheizt ist; so können Sie die Ausstellung viel entspannter erkunden.",
+                "hu": "Hagyja a nehéz kabátokat az autóban, mivel a múzeum jól fűtött; így sokkal kényelmesebben és szabadabban nézheti végig a kiállítást.",
+                "ro": "Lăsați haina groasă în mașină, deoarece muzeul este bine încălzit; astfel puteți explora expoziția mult mai relaxat și confortabil.",
+                "en": "Leave your heavy coats in the car as the museum is well-heated; this allows you to explore the exhibition much more comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuccuru Is Arrius",
+                "hu": "Cuccuru Is Arrius",
+                "ro": "Cuccuru Is Arrius",
+                "en": "Cuccuru Is Arrius"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Ausgrabungen; die Heizung im Auto bringt Sie nach dem Rundgang schnell wieder auf Temperatur.",
+                "hu": "Használja ki a tiszta téli fényeket a régészeti leletek fotózásához; a séta után az autó fűtése gyorsan újra felmelegíti majd.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii ale săpăturilor; căldura din mașină vă va reîncălzi rapid după scurta plimbare.",
+                "en": "Take advantage of the clear winter light for photos of the excavations; the car's heater will quickly warm you up again after your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Su Pottu",
+                "hu": "Torre di Su Pottu",
+                "ro": "Torre di Su Pottu",
+                "en": "Torre di Su Pottu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Turm im Blick haben; im Winter ist die Fernsicht über das Meer oft spektakulär und sehr weitläufig.",
+                "hu": "Parkoljon úgy, hogy rálásson a toronyra; télen a kilátás a tenger felett gyakran látványos és rendkívül messzire ellátni a tiszta időben.",
+                "ro": "Parcați astfel încât să aveți turnul în vedere; iarna, vizibilitatea peste mare este adesea spectaculoasă și foarte extinsă.",
+                "en": "Park so you have a good view of the tower; in winter, the visibility over the sea is often spectacular and reaches very far in clear weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Stella Maris",
+                "hu": "Santa Maria Stella Maris",
+                "ro": "Santa Maria Stella Maris",
+                "en": "Santa Maria Stella Maris"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause im Warmen; genießen Sie die winterliche Stille in der Kirche, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Csendes hely egy kis pihenőre a melegben; élvezze a templom téli nyugalmát és békéjét, mielőtt folytatná az autós utazást.",
+                "ro": "Un loc liniștit pentru o pauză la căldură; bucurați-vă de liniștea de iarnă din biserică înainte de a continua drumul cu mașina.",
+                "en": "A quiet place for a break in the warm; enjoy the winter tranquility of the church before continuing your drive through the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Area 39",
+                "hu": "Area 39",
+                "ro": "Area 39",
+                "en": "Area 39"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger überlaufen; parken Sie nah am Café Ihrer Wahl für einen gemütlichen Zwischenstopp ohne Kälte.",
+                "hu": "Télen itt sokkal kisebb a tömeg; parkoljon közel a kiválasztott kávézóhoz egy kényelmes, fagyoskodás nélküli pihenőhöz.",
+                "ro": "Iarna este mai puțin aglomerat aici; parcați aproape de cafeneaua aleasă pentru o oprire confortabilă, fără a simți frigul de afară.",
+                "en": "It's less crowded here in winter; park close to your chosen cafe for a cozy stop-over without having to brave the cold for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia della Perlite",
+                "hu": "Spiaggia della Perlite",
+                "ro": "Spiaggia della Perlite",
+                "en": "Spiaggia della Perlite"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang direkt vom Fahrersitz aus; die Farben am Winterhimmel sind oft besonders intensiv und klar.",
+                "hu": "Nézze végig a korai naplementét közvetlenül a vezetőülésből; a téli égbolt színei gyakran különösen intenzívek és tiszták ilyenkor.",
+                "ro": "Urmăriți apusul devreme direct de la volan; culorile cerului de iarnă sunt adesea deosebit de intense și clare în acest loc.",
+                "en": "Watch the early sunset directly from the driver's seat; the colors of the winter sky are often particularly intense and clear here."
+              }
+            }
+          ]
+        }
       }
     }
   }

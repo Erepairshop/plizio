@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Saint-Désiré templom ősi román kriptájának felfedezésével, magába szívva a város mély spirituális múltját. A dél az ókori vízforrásokhoz és a fenséges Thermes Lédoniához vezeti Önt, bemutatva a fürdővárosi örökséget. Töltse a délutánt a Gyógyfürdő park árnyas ösvényein barangolva a teljes feltöltődés érdekében. Zárja sétáját a lenyűgöző Fosse aux lions-nál, és élvezze a csendes késő délutáni hangulatot, mielőtt leszállna az est.",
         "ro": "Începeți-vă dimineața explorând cripta romanică antică a bisericii Saint-Désiré, absorbind istoria spirituală profundă a orașului. La prânz vă îndreptați spre izvoarele istorice de apă și maiestuoasele Thermes Lédonia, evidențiind moștenirea balneară. Petreceți-vă după-amiaza plimbându-vă pe aleile umbrite ale Parcului Balnear pentru o relaxare supremă. Încheiați turul la fascinanta Fosse aux lions, bucurându-vă de atmosfera senină a după-amiezii.",
         "en": "Start your morning exploring the ancient Romanesque crypt of Saint-Désiré Church, absorbing the deep spiritual history of Lons-le-Saunier. Midday leads you towards the historic water sources and the majestic Thermes Lédonia, highlighting the town's spa heritage. Spend your afternoon wandering the shady pathways of the Spa Park for ultimate relaxation. Conclude your walking tour at the intriguing Fosse aux lions, enjoying the serene late afternoon atmosphere before dusk settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden Atmosphäre der Kirche. Mittags bieten die Thermen eine ideale Flucht vor dem Regen. Am Nachmittag spazieren Sie mit Schirm durch den Park, wo die Natur besonders intensiv duftet. Abends glänzen die nassen Gassen der Stadt im Schein der Laternen, was für eine melancholisch-schöne Stimmung sorgt, während Sie zum Abschluss des Tages ein trockenes Plätzchen suchen.",
+            "hu": "A napot a templom oltalmazó falai között kezdjük. Délben a termálfürdő kínál tökéletes menedéket a kopogó eső elől. Délután esernyővel járjuk be a parkot, ahol az ázott föld illata lengi be a tájat. Este a vizes aszfalton megcsillanó fények kísérik utunkat a város központja felé, ahol egy fedett helyen zárhatjuk a napot, élvezve a nyugodt, esős hangulatot és a város csendesebb arcát.",
+            "ro": "Începeți ziua în atmosfera protectoare a bisericii. La prânz, băile termale oferă refugiul ideal împotriva ploii. După-amiaza, plimbați-vă cu umbrela prin parc, unde natura miroase deosebit de intens. Seara, străzile umede ale orașului strălucesc sub lumina felinarelor, creând o stare melancolică și frumoasă în timp ce căutați un loc uscat pentru a încheia ziua în liniște.",
+            "en": "Start the day in the protective atmosphere of the church. At noon, the thermal baths offer an ideal escape from the rain. In the afternoon, stroll through the park with an umbrella, where nature scents are particularly intense. In the evening, the wet streets of the city glisten under the streetlights, creating a beautifully melancholic mood as you find a dry spot to end your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Désiré Church",
+                "hu": "Saint-Désiré Church",
+                "ro": "Saint-Désiré Church",
+                "en": "Saint-Désiré Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das romanische Interieur als trockenen Rückzugsort; achten Sie beim Eintreten mit nassen Schuhen besonders auf den rutschigen Steinboden am Eingang.",
+                "hu": "Csodálja meg a román stílusú belső teret, amely tökéletes menedéket nyújt az eső elől; ügyeljen a bejáratnál a csúszós kőpadlóra a vizes cipők miatt.",
+                "ro": "Admirați interiorul romanic ca un refugiu uscat; aveți grijă la podeaua de piatră alunecoasă de la intrare când intrați cu încălțămintea udă.",
+                "en": "Admire the Romanesque interior as a dry retreat; pay extra attention to the slippery stone floor at the entrance when entering with wet shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Sources",
+                "hu": "Les Sources",
+                "ro": "Les Sources",
+                "en": "Les Sources"
+              },
+              "tip_5lang": {
+                "de": "Die Quellen wirken bei Regen besonders mystisch; nutzen Sie die umliegenden Arkaden als Unterstand, um das Plätschern ohne nass zu werden zu genießen.",
+                "hu": "A források esőben különösen misztikusak; használja a környező árkádokat óvóhelyként, hogy elázás nélkül élvezhesse a víz megnyugtató csobogását.",
+                "ro": "Izvoarele par deosebit de mistice în ploaie; folosiți arcadele din jur ca adăpost pentru a vă bucura de susurul apei fără a vă uda deloc.",
+                "en": "The springs look particularly mystical in the rain; use the surrounding arcades as shelter to enjoy the splashing without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes Lédonia",
+                "hu": "Thermes Lédonia",
+                "ro": "Thermes Lédonia",
+                "en": "Thermes Lédonia"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für Regentage; entspannen Sie im warmen Wasser und lassen Sie den grauen Himmel draußen vergessen, während Sie drinnen im Trockenen sind.",
+                "hu": "Ez a legjobb hely esős napokon; lazítson a meleg vízben, és felejtse el a kinti szürke eget, miközben bent a száraz és kényelmes környezetben pihen.",
+                "ro": "Acesta este cel mai bun loc pentru zilele ploioase; relaxați-vă în apa caldă și uitați de cerul gri de afară în timp ce stați la adăpost în interior.",
+                "en": "This is the best place for rainy days; relax in the warm water and forget the grey sky outside while you stay completely dry and cozy indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa Park (Parc des Bains)",
+                "hu": "Spa Park (Parc des Bains)",
+                "ro": "Spa Park (Parc des Bains)",
+                "en": "Spa Park (Parc des Bains)"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für die aufgeweichten Wege und bewundern Sie die dichten Baumkronen, die einen natürlichen Schutz vor leichtem Nieselregen bieten.",
+                "hu": "Viseljen vízálló cipőt a felázott ösvények miatt, és csodálja meg a sűrű lombkoronákat, amelyek természetes védelmet nyújtanak a szemerkélő eső ellen.",
+                "ro": "Purtați încălțăminte impermeabilă pentru potecile moi și admirați coroanele dese ale copacilor care oferă o protecție naturală împotriva burniței ușoare.",
+                "en": "Wear waterproof shoes for the softened paths and admire the dense tree canopies that offer a natural protection against light drizzling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fosse aux lions",
+                "hu": "Fosse aux lions",
+                "ro": "Fosse aux lions",
+                "en": "Fosse aux lions"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zügig zwischen den Schauern und nutzen Sie die nahegelegenen Gebäude für kurze Pausen, um die historischen Details im Trockenen zu sehen.",
+                "hu": "Látogassa meg ezt a helyet gyorsan a záporok között, és használja a közeli épületeket rövid pihenőkre, hogy szárazon láthassa a történelmi részleteket.",
+                "ro": "Vizitați acest loc rapid între averse și folosiți clădirile din apropiere pentru scurte pauze pentru a vedea detaliile istorice stând la uscat.",
+                "en": "Visit this spot quickly between showers and use the nearby buildings for short breaks to see the historical details while staying dry and warm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kirche. Mittags wärmen Sie sich in den Thermalbädern auf, während draußen die kalte Luft steht. Der Nachmittagsspaziergang im Park ist kurz, da die Sonne bereits gegen 17:00 Uhr untergeht und die Kälte zunimmt. Den Abend verbringen Sie am besten in den beleuchteten Gassen, wo die winterliche Stille von Lons-le-Saunier einen ganz besonderen Charme versprüht.",
+            "hu": "A téli reggel frissen indul a templomnál. Délben a termálfürdőben melegedhetünk fel, miközben kint megáll a hideg levegő. A délutáni séta a parkban rövidre nyúlik, mivel a nap már 17:00 körül lemegy, és a fagy fokozódik. Az estét a kivilágított utcákon érdemes tölteni, ahol Lons-le-Saunier téli csendje különleges bájt áraszt, mielőtt behúzódnánk egy meleg teára.",
+            "ro": "Dimineața de iarnă începe proaspăt la biserică. La prânz, încălziți-vă la băile termale în timp ce aerul rece stă afară. Plimbarea de după-amiază în parc este scurtă, deoarece soarele apune deja în jur de ora 17:00 și frigul se intensifică. Seara este cel mai bine petrecută pe străzile iluminate, unde liniștea hibernală a orașului emană un farmec aparte.",
+            "en": "The winter morning starts freshly at the church. At noon, warm up in the thermal baths while the cold air stands still outside. The afternoon walk in the park is short, as the sun sets around 17:00 and the cold intensifies. Spend the evening in the illuminated streets, where the winter silence of Lons-le-Saunier radiates a very special and cozy charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Désiré Church",
+                "hu": "Saint-Désiré Church",
+                "ro": "Saint-Désiré Church",
+                "en": "Saint-Désiré Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; tragen Sie warme Schichten und genießen Sie die spirituelle Stille, bevor Sie wieder in die winterliche Außenluft treten.",
+                "hu": "A vastag falak tárolják a hideget; viseljen meleg rétegeket, és élvezze a spirituális csendet, mielőtt visszatérne a téli kinti levegőre és a városba.",
+                "ro": "Zidurile groase rețin frigul; purtați straturi calde și bucurați-vă de liniștea spirituală înainte de a ieși din nou în aerul rece de iarnă.",
+                "en": "The thick walls retain the cold; wear warm layers and enjoy the spiritual silence before stepping back out into the winter air of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Sources",
+                "hu": "Les Sources",
+                "ro": "Les Sources",
+                "en": "Les Sources"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Dampf bei Frost über dem Wasser aufsteigt; halten Sie den Aufenthalt kurz, um nicht auszukühlen, und tragen Sie feste Winterschuhe.",
+                "hu": "Figyelje meg, hogyan száll fel a gőz fagyos időben a víz felett; tartsa röviden a látogatást, hogy ne hűljön ki, és viseljen stabil téli lábbelit.",
+                "ro": "Observați cum se ridică aburul peste apă în timpul înghețului; păstrați vizita scurtă pentru a nu răci și purtați încălțăminte solidă de iarnă.",
+                "en": "Observe how steam rises above the water during frost; keep the visit short to avoid getting chilled and wear sturdy winter boots for better grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes Lédonia",
+                "hu": "Thermes Lédonia",
+                "ro": "Thermes Lédonia",
+                "en": "Thermes Lédonia"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Winterstopp zum Aufwärmen; achten Sie darauf, sich nach dem Bad gut abzutrocknen und warm einzupacken, bevor Sie wieder ins Freie gehen.",
+                "hu": "Tökéletes téli megálló a felmelegedéshez; ügyeljen rá, hogy fürdés után alaposan megszárítkozzon és melegen felöltözzön, mielőtt újra a szabadba lépne.",
+                "ro": "Oprirea perfectă de iarnă pentru a vă încălzi; asigurați-vă că vă uscați bine după baie și vă îmbrăcați gros înainte de a ieși din nou afară.",
+                "en": "The perfect winter stop to warm up; make sure to dry off thoroughly after your bath and wrap up warmly before heading back out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa Park (Parc des Bains)",
+                "hu": "Spa Park (Parc des Bains)",
+                "ro": "Spa Park (Parc des Bains)",
+                "en": "Spa Park (Parc des Bains)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr für einen zügigen Spaziergang und bewundern Sie die kahlen, skulpturalen Baumformen gegen den Winterhimmel.",
+                "hu": "Használja ki az utolsó nappali fényt 17:00 előtt egy tempós sétához, és csodálja meg a fák kopár, szoborszerű alakzatait a téli égbolt előtt.",
+                "ro": "Profitați de ultima lumină a zilei înainte de ora 17:00 pentru o plimbare vioaie și admirați formele sculpturale ale copacilor golași pe cerul de iarnă.",
+                "en": "Make the most of the last daylight before 17:00 for a brisk walk and admire the bare, sculptural tree forms against the pale winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Fosse aux lions",
+                "hu": "Fosse aux lions",
+                "ro": "Fosse aux lions",
+                "en": "Fosse aux lions"
+              },
+              "tip_5lang": {
+                "de": "Der Ort kann im Winter zugig sein; schützen Sie sich mit Schal und Mütze vor dem kalten Wind, während Sie die historische Anlage kurz besichtigen.",
+                "hu": "A hely télen huzatos lehet; védje magát sállal és sapkával a hideg szél ellen, miközben gyorsan megtekinti a történelmi épületegyüttest.",
+                "ro": "Locul poate fi vântos iarna; protejați-vă cu fular și căciulă împotriva vântului rece în timp ce vizitați rapid complexul istoric.",
+                "en": "The spot can be drafty in winter; protect yourself with a scarf and hat against the cold wind while you take a quick look at the historical site."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros útját a Saint-Désiré templomnál, mielőtt a reggeli friss levegőn a Gyógyfürdő park hatalmas zöldterülete felé gurulna. Dél közeledtével tekerjen végig a helyi utcákon az Ecole Rollet és a Ripley mellett, megcsodálva a mindennapi bájt. A délutáni tekerés egy kényelmes megállót tartalmaz az Edgar Faure téren, amely kiváló kilátást nyújt. Vezesse le az utat egy csendes külvárosi park, a Solvan felé haladva az esti pihenéshez.",
         "ro": "Începeți-vă călătoria cu bicicleta la Biserica Saint-Désiré înainte de a aluneca spre spațiul verde al Parcului Balnear în aerul proaspăt. Pe măsură ce se apropie amiaza, pedalați pe străzile locale trecând de Ecole Rollet și Ripley, admirând farmecul arhitectural. Plimbarea de după-amiază include o oprire confortabilă în piața Edgar Faure, oferind vederi excelente. Încheiați-vă călătoria pedalând spre Solvan, o zonă liniștită perfectă pentru o odihnă de seară.",
         "en": "Kick off your cycling journey at Saint-Désiré Church before gliding over to the expansive green space of the Spa Park in the crisp morning air. As midday approaches, pedal through the local streets past Ecole Rollet and Ripley, taking in the everyday architectural charm. The afternoon ride features a comfortable stop at Edgar Faure square, providing excellent viewpoints of the city center. Wind down your trip by pedaling out to Solvan, a peaceful green area perfect for an evening rest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Pflastersteinen. Beginnen Sie morgens an der Kirche und radeln Sie dann zum Park. Mittags bieten die Schulgebäude und Ripley kleine Unterstände. Achten Sie nachmittags auf rutschige Kurven in Richtung Edgar Faure. Beenden Sie die Tour am frühen Abend, bevor die Sicht durch den Regen und die Dämmerung zu stark abnimmt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a macskaköveken. Reggel a templomnál kezdünk, majd a park felé tekerünk. Délben az iskolaépületek és a Ripley kínálnak rövid védelmet. Délután ügyeljünk a csúszós kanyarokra az Edgar Faure felé vezető úton. A túrát kora este fejezzük be, mielőtt a látótávolság az eső és a szürkület miatt túlságosan lecsökkenne.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavaj. Începeți dimineața la biserică, apoi pedalați spre parc. La prânz, clădirile școlare și Ripley oferă mici adăposturi. După-amiaza, atenție la curbele alunecoase spre Edgar Faure. Încheiați turul devreme seara, înainte ca vizibilitatea să scadă prea mult din cauza ploii și a amurgului.",
+            "en": "Cycling in the rain requires caution on the cobblestones. Start in the morning at the church and then cycle to the park. At noon, the school buildings and Ripley offer small shelters. In the afternoon, watch out for slippery curves towards Edgar Faure. Finish the tour in the early evening before visibility decreases too much due to rain and dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Désiré Church",
+                "hu": "Saint-Désiré Church",
+                "ro": "Saint-Désiré Church",
+                "en": "Saint-Désiré Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Kirchenbesichtigung, um Ihre Regenkleidung kurz zu ordnen und die Reifen zu prüfen.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja ki a templomlátogatást, hogy rendezze esőruházatát és ellenőrizze a gumik állapotát.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți vizitarea bisericii pentru a vă aranja echipamentul de ploaie și a verifica anvelopele.",
+                "en": "Park your bike in a sheltered spot and use the church visit to quickly reorganize your rain gear and check your tires for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa Park (Parc des Bains)",
+                "hu": "Spa Park (Parc des Bains)",
+                "ro": "Spa Park (Parc des Bains)",
+                "en": "Spa Park (Parc des Bains)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den befestigten Wegen, da nasses Laub sehr rutschig sein kann; nutzen Sie die Pavillons für eine kurze Pause im Trockenen.",
+                "hu": "Hajtson lassan a burkolt utakon, mivel a vizes levelek nagyon csúszósak lehetnek; használja a pavilonokat egy rövid száraz pihenőre.",
+                "ro": "Mergeți încet pe aleile pavate, deoarece frunzele ude pot fi foarte alunecoase; folosiți pavilioanele pentru o scurtă pauză la uscat.",
+                "en": "Ride slowly on the paved paths as wet leaves can be very slippery; use the gazebos for a quick break in the dry and adjust your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecole Rollet",
+                "hu": "Ecole Rollet",
+                "ro": "Ecole Rollet",
+                "en": "Ecole Rollet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der Schule als schnellen Unterstand bei einem starken Schauer und prüfen Sie Ihre Bremsen für die Weiterfahrt im Regen.",
+                "hu": "Használja az iskola előtetőit gyors menedékként egy erős zápor idején, és ellenőrizze a fékeit az esőben való további haladáshoz.",
+                "ro": "Folosiți copertinele școlii ca adăpost rapid în timpul unei averse puternice și verificați frânele pentru continuarea drumului prin ploaie.",
+                "en": "Use the school's overhangs as a quick shelter during a heavy downpour and check your brakes for continuing the ride safely in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley",
+                "hu": "Ripley",
+                "ro": "Ripley",
+                "en": "Ripley"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und prüfen Sie die Lichtanlage, da die Sichtverhältnisse bei Regen auch am Tag oft schlechter werden.",
+                "hu": "Állítsa le kerékpárját fedett helyre, és ellenőrizze a világítást, mivel esőben a látási viszonyok napközben is gyakran romlanak.",
+                "ro": "Parcați bicicleta sub un adăpost și verificați luminile, deoarece vizibilitatea în ploaie scade adesea chiar și în timpul zilei.",
+                "en": "Park your bike under cover and check your lights, as visibility in the rain often deteriorates even during the day; stay visible to cars."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Faure",
+                "hu": "Edgar Faure",
+                "ro": "Edgar Faure",
+                "en": "Edgar Faure"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die Schlaglöcher verbergen könnten; fahren Sie defensiv und nutzen Sie helle Regenkleidung für eine bessere Sichtbarkeit.",
+                "hu": "Ügyeljen a kátyúkat elrejtő tócsákra; vezessen védekezően, és viseljen világos esőruházatot a jobb láthatóság érdekében a forgalomban.",
+                "ro": "Atenție la bălțile care ar putea ascunde gropi; conduceți defensiv și folosiți haine de ploaie strălucitoare pentru o mai bună vizibilitate.",
+                "en": "Watch out for puddles that might hide potholes; ride defensively and wear bright rain gear for better visibility in traffic while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Solvan",
+                "hu": "Solvan",
+                "ro": "Solvan",
+                "en": "Solvan"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt hier und wischen Sie Ihr Rad kurz trocken, um Rost vorzubeugen, bevor Sie sich selbst ins Trockene begeben.",
+                "hu": "Itt fejezze be az utat, és törölje szárazra a kerékpárt a rozsda megelőzése érdekében, mielőtt ön is behúzódna a szárazra a nap végén.",
+                "ro": "Încheiați călătoria aici și ștergeți rapid bicicleta pentru a preveni rugina, înainte de a vă retrage și dumneavoastră la adăpost.",
+                "en": "Finish the ride here and wipe your bike dry to prevent rust before you head indoors for the evening after this rainy cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für diese winterliche Radtour. Morgens ist es oft neblig an der Kirche. Mittags erreichen Sie den Park, wo die Bewegung Sie warm hält. Nachmittags radeln Sie zügig durch die Wohngebiete. Da es gegen 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert, bevor Sie den Tag in Solvan abschließen.",
+            "hu": "Öltözzön fel melegen ehhez a téli kerékpáros túrához. Reggel gyakran ködös az idő a templomnál. Délben érjük el a parkot, ahol a mozgás melegen tart. Délután tempósan tekerjünk át a lakóövezeteken. Mivel 17:00 körül sötétedik, győződjön meg róla, hogy a világítás tökéletesen működik, mielőtt Solvanban befejezné a napot.",
+            "ro": "Îmbrăcați-vă gros pentru acest tur cu bicicleta de iarnă. Dimineața este adesea ceață la biserică. La prânz ajungeți în parc, unde mișcarea vă ține cald. După-amiaza pedalați rapid prin zonele rezidențiale. Deoarece se întunecă în jur de ora 17:00, asigurați-vă că luminile funcționează perfect înainte de a termina ziua la Solvan.",
+            "en": "Layer up warmly for this winter cycling tour. It is often foggy at the church in the morning. At noon you reach the park where the movement keeps you warm. In the afternoon, cycle briskly through the residential areas. As it gets dark around 17:00, ensure your bike lights are working perfectly before finishing the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Désiré Church",
+                "hu": "Saint-Désiré Church",
+                "ro": "Saint-Désiré Church",
+                "en": "Saint-Désiré Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der kalte Fahrtwind die Finger schnell auskühlt; nutzen Sie die Kirche für eine kurze windgeschützte Pause.",
+                "hu": "Viseljen meleg kesztyűt, mivel a hideg menetszél gyorsan lehűti az ujjait; használja a templomot egy rövid, szélvédett pihenőre a túra elején.",
+                "ro": "Purtați mănuși calde, deoarece vântul rece răcește rapid degetele; folosiți biserica pentru o scurtă pauză protejată de vânt la început.",
+                "en": "Wear warm gloves as the cold wind during the ride quickly cools down your fingers; use the church for a short, wind-sheltered break."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa Park (Parc des Bains)",
+                "hu": "Spa Park (Parc des Bains)",
+                "ro": "Spa Park (Parc des Bains)",
+                "en": "Spa Park (Parc des Bains)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf Schattenplätzen, wo sich Raureif oder Glätte bilden kann; genießen Sie die klare, frische Winterluft während der Fahrt.",
+                "hu": "Vezessen óvatosan az árnyékos helyeken, ahol zúzmara vagy jég képződhet; élvezze a tiszta, friss téli levegőt a parkon keresztül haladva.",
+                "ro": "Conduceți cu atenție în locurile umbrite unde se poate forma chiciură sau gheață; bucurați-vă de aerul curat și proaspăt de iarnă în timpul mersului.",
+                "en": "Ride carefully in shaded spots where frost or ice can form on the path; enjoy the crisp, fresh winter air while cycling through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecole Rollet",
+                "hu": "Ecole Rollet",
+                "ro": "Ecole Rollet",
+                "en": "Ecole Rollet"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Reifen auf ausreichenden Grip bei niedrigen Temperaturen und halten Sie sich durch stetiges Treten in die Pedale warm.",
+                "hu": "Ellenőrizze a gumik tapadását az alacsony hőmérsékleten, és tartsa magát melegen a folyamatos pedálozással a városi utcákon keresztül.",
+                "ro": "Verificați aderența anvelopelor la temperaturi scăzute și mențineți-vă cald pedalând constant pe străzile orașului în acest tur hibernal.",
+                "en": "Check your tires for sufficient grip at low temperatures and keep yourself warm by pedaling steadily through the quiet winter city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley",
+                "hu": "Ripley",
+                "ro": "Ripley",
+                "en": "Ripley"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur eine kurze Pause, damit Ihre Muskeln nicht zu sehr abkühlen; tragen Sie eine winddichte Jacke über Ihren warmen Schichten.",
+                "hu": "Csak rövid pihenőt tartson, hogy az izmai ne hűljenek le túlságosan; viseljen szélálló kabátot a meleg rétegek felett a menetirányban.",
+                "ro": "Faceți doar o scurtă pauză pentru ca mușchii să nu se răcească prea mult; purtați o jachetă rezistentă la vânt peste straturile calde.",
+                "en": "Take only a short break so your muscles don't cool down too much; wear a windproof jacket over your warm layers to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Faure",
+                "hu": "Edgar Faure",
+                "ro": "Edgar Faure",
+                "en": "Edgar Faure"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie spätestens jetzt Ihr Licht ein, da die Dämmerung im Winter früh einsetzt und Sie für Autofahrer gut sichtbar sein müssen.",
+                "hu": "Legkésőbb most kapcsolja be a világítást, mivel a szürkület télen korán beköszönt, és jól láthatónak kell lennie az autósok számára.",
+                "ro": "Aprindeți luminile cel târziu acum, deoarece amurgul începe devreme iarna și trebuie să fiți vizibil pentru șoferi în trafic.",
+                "en": "Turn on your lights now at the latest, as twilight sets in early in winter and you must remain clearly visible to car drivers at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Solvan",
+                "hu": "Solvan",
+                "ro": "Solvan",
+                "en": "Solvan"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, bevor die Abendkälte zu streng wird; ein heißes Getränk ist jetzt die ideale Belohnung für die winterliche Fahrt.",
+                "hu": "Fejezze be gyorsan a túrát, mielőtt az esti hideg túl szigorúvá válna; egy forró ital most az ideális jutalom a téli kerékpározás után.",
+                "ro": "Încheiați rapid turul înainte ca frigul serii să devină prea aspru; o băutură fierbinte este acum recompensa ideală după cursa de iarnă.",
+                "en": "Finish the tour quickly before the evening chill becomes too severe; a hot drink is now the ideal reward for your winter cycling efforts."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Az autós nap a történelmi Saint-Désiré templomnál kezdődik, mielőtt északra indulna, hogy felfedezze Solvan csendes környékét. Délben elhalad a szimbolikus 425 Offenbourg emlékmű mellett, amely a helyi életet az európai történelemmel ötvözi. Délután parkoljon le a nagyszerű Gyógyfürdő park közelében egy frissítő sétára a fák között. Végül tegyen egy rövid utat a nagy termálfürdőhöz egy alaposan pihentető esti elmerüléshez.",
         "ro": "Ziua cu mașina începe cu o vizită la Biserica istorică Saint-Désiré înainte de a vă îndrepta spre nord pentru a explora cartierul Solvan. La prânz treceți pe lângă monumentul simbolic 425 Offenbourg, îmbinând istoria europeană. După-amiaza, parcați lângă marele Parc Balnear pentru o plimbare revigorantă printre copacii săi istorici. În cele din urmă, faceți o scurtă călătorie până la marile Băi Termale pentru o baie relaxantă de seară.",
         "en": "Your driving day begins centrally with a visit to the historic Saint-Désiré Church before heading north to explore the peaceful neighborhood of Solvan. Midday takes you past the symbolic 425 Offenbourg monument, blending local life with European history. In the afternoon, park near the grand Spa Park for a refreshing stroll among its historic trees and statues. Finally, take a short drive to the large Lons-le-Saunier Thermal Baths for a thoroughly relaxing evening soak."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen kein Hindernis. Starten Sie trocken an der Kirche. Die Fahrt durch die Stadt bietet Schutz vor den Schauern. Mittags sind die Thermen das perfekte Ziel, um dem grauen Wetter zu entfliehen. Auch der Park lässt sich bei Regen gut besuchen, da Sie das Auto nah parken können. Der Tag endet entspannt bei der Therme, während draußen der Regen gegen die Scheiben prasselt.",
+            "hu": "Autóval az eső nem akadály. Szárazon indulunk a templomtól. A városon keresztüli út védelmet nyújt a záporok elől. Délben a termálfürdő a tökéletes célpont, hogy elmeneküljünk a szürke idő elől. A park is jól látogatható esőben, mivel közel tudunk parkolni. A nap nyugodtan zárul a fürdőnél, miközben kint az eső kopog az ablakokon, mi pedig biztonságban vagyunk.",
+            "ro": "Cu mașina, ploaia nu este un obstacol. Începeți uscat de la biserică. Drumul prin oraș oferă protecție împotriva averselor. La prânz, băile termale sunt destinația perfectă pentru a scăpa de vremea gri. Chiar și parcul poate fi vizitat pe ploaie, deoarece puteți parca aproape. Ziua se încheie relaxat la băi, în timp ce afară ploaia bate în geamuri.",
+            "en": "In the car, the rain is no obstacle. Start dry at the church. The drive through the city offers protection from the showers. At noon, the thermal baths are the perfect destination to escape the grey weather. Even the park can be visited in the rain as you can park close by. The day ends relaxed at the spa while the rain patters against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Désiré Church",
+                "hu": "Saint-Désiré Church",
+                "ro": "Saint-Désiré Church",
+                "en": "Saint-Désiré Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang, um möglichst trocken in die Kirche zu gelangen; bewundern Sie die Architektur, während es draußen regnet.",
+                "hu": "Használja a bejárathoz közeli parkolót, hogy a lehető legszárazabban jusson be a templomba; csodálja meg az építészetet, miközben kint esik.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a ajunge la biserică cât mai uscat posibil; admirați arhitectura în timp ce afară plouă torențial.",
+                "en": "Use the parking lot close to the entrance to get into the church as dry as possible; admire the architecture while it rains outside today."
+              }
+            },
+            {
+              "name": {
+                "de": "Solvan",
+                "hu": "Solvan",
+                "ro": "Solvan",
+                "en": "Solvan"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Pfützen; die kurzen Wege vom Auto zu den Sehenswürdigkeiten machen diesen Stopp auch bei Regen sehr angenehm.",
+                "hu": "Kiszálláskor ügyeljen a tócsákra; az autótól a látnivalókig tartó rövid utak még esőben is kellemessé teszik ezt a megállót a látogatók számára.",
+                "ro": "Atenție la bălți când coborâți; distanțele scurte de la mașină la obiective fac această oprire foarte plăcută chiar și pe timp de ploaie.",
+                "en": "Watch out for puddles when getting out of the car; the short paths from the car to the sights make this stop very pleasant even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "425 Offenbourg",
+                "hu": "425 Offenbourg",
+                "ro": "425 Offenbourg",
+                "en": "425 Offenbourg"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starken Schauern kurz im Auto; nutzen Sie die Zeit, um die Route zu prüfen, bevor Sie die historischen Gebäude besichtigen.",
+                "hu": "Erős záporok idején maradjon rövid ideig az autóban; használja az időt az útvonal ellenőrzésére, mielőtt megnézné a történelmi épületeket.",
+                "ro": "Rămâneți scurt timp în mașină în timpul averselor puternice; folosiți timpul pentru a verifica ruta înainte de a vizita clădirile istorice.",
+                "en": "Stay in the car for a short time during heavy showers; use the time to check the route before heading out to see the historical buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa Park (Parc des Bains)",
+                "hu": "Spa Park (Parc des Bains)",
+                "ro": "Spa Park (Parc des Bains)",
+                "en": "Spa Park (Parc des Bains)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Parkplatzgelände, da die Sicht bei Regen eingeschränkt sein kann; ein Schirm im Auto ist für den Parkbesuch unerlässlich.",
+                "hu": "Vezessen lassan a parkoló területén, mivel esőben korlátozott lehet a látótávolság; egy esernyő az autóban elengedhetetlen a park megtekintéséhez.",
+                "ro": "Conduceți încet în parcare, deoarece vizibilitatea poate fi limitată pe ploaie; o umbrelă în mașină este esențială pentru vizitarea parcului.",
+                "en": "Drive slowly in the parking area as visibility can be limited in the rain; keeping an umbrella in the car is essential for visiting the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Lons-le-Saunier Thermal Baths",
+                "hu": "Lons-le-Saunier Thermal Baths",
+                "ro": "Lons-le-Saunier Thermal Baths",
+                "en": "Lons-le-Saunier Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort, direkt am Ziel zu parken; lassen Sie den nassen Schirm im Auto und entspannen Sie sich vollkommen im warmen Thermalwasser.",
+                "hu": "Élvezze a kényelmet, hogy közvetlenül a célnál parkolhat; hagyja a vizes ernyőt az autóban, és lazítson teljesen a meleg termálvízben.",
+                "ro": "Bucurați-vă de confortul parcării direct la destinație; lăsați umbrela udă în mașină și relaxați-vă complet în apa termală caldă.",
+                "en": "Enjoy the convenience of parking directly at your destination; leave the wet umbrella in the car and fully relax in the warm thermal water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt an der Kirche. Die Heizung sorgt für eine angenehme Fahrt zwischen den Stopps. Mittags bietet Solvan einen schönen Einblick in die Stadt. Der Parkbesuch am Nachmittag ist erfrischend, doch die Wärme des Autos lockt bald wieder. Beenden Sie den Tag bei den Thermalbädern, wo Sie sich vor der Heimfahrt durch die winterliche Dunkelheit noch einmal richtig aufwärmen können.",
+            "hu": "A téli autós túra a templomnál kezdődik. A fűtés kellemes utazást biztosít a megállók között. Délben Solvan szép betekintést nyújt a városba. A délutáni parklátogatás frissítő, de az autó melege hamar visszacsalogatja. A napot a termálfürdőnél zárjuk, ahol még egyszer jól felmelegedhetünk a téli sötétségben való hazaút előtt.",
+            "ro": "Turul de iarnă cu mașina începe la biserică. Încălzirea asigură o călătorie plăcută între opriri. La prânz, Solvan oferă o perspectivă frumoasă asupra orașului. Vizita în parc de după-amiază este revigorantă, dar căldura mașinii vă atrage repede înapoi. Încheiați ziua la băile termale pentru a vă încălzi înainte de drumul spre casă.",
+            "en": "The winter car tour starts at the church. The heating ensures a pleasant ride between stops. At noon, Solvan offers a nice insight into the city. The afternoon park visit is refreshing, but the car's warmth soon beckons you back. End the day at the thermal baths where you can warm up before heading home through the winter dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Désiré Church",
+                "hu": "Saint-Désiré Church",
+                "ro": "Saint-Désiré Church",
+                "en": "Saint-Désiré Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheiben eisfrei sind, bevor Sie losfahren; genießen Sie die winterliche Ruhe in der Kirche für einen Moment der Besinnung.",
+                "hu": "Indulás előtt győződjön meg róla, hogy az ablakok jégmentesek; élvezze a téli nyugalmat a templomban egy pillanatnyi elcsendesedés erejéig.",
+                "ro": "Asigurați-vă că geamurile sunt dezghețate înainte de a pleca; bucurați-vă de liniștea hibernală din biserică pentru un moment de reflecție.",
+                "en": "Ensure your windows are free of ice before setting off; enjoy the winter peace in the church for a moment of reflection before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Solvan",
+                "hu": "Solvan",
+                "ro": "Solvan",
+                "en": "Solvan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um Rutschgefahr beim Aussteigen zu vermeiden; bewundern Sie die winterliche Architektur bei einem kurzen Rundgang.",
+                "hu": "Parkoljon szilárd felületen, hogy elkerülje a csúszásveszélyt kiszálláskor; csodálja meg a téli építészetet egy rövid, frissítő körséta során.",
+                "ro": "Parcați pe suprafețe solide pentru a evita riscul de alunecare la coborâre; admirați arhitectura de iarnă în timpul unei scurte plimbări.",
+                "en": "Park on solid surfaces to avoid the risk of slipping when getting out; admire the winter architecture during a short, refreshing circular walk."
+              }
+            },
+            {
+              "name": {
+                "de": "425 Offenbourg",
+                "hu": "425 Offenbourg",
+                "ro": "425 Offenbourg",
+                "en": "425 Offenbourg"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; die kurzen Wege ermöglichen eine schnelle Besichtigung, bevor Sie sich im Auto wieder aufwärmen können.",
+                "hu": "Ne járassa feleslegesen a motort; a rövid utak gyors megtekintést tesznek lehetővé, mielőtt újra felmelegedhetne az autó kellemes utasterében.",
+                "ro": "Nu lăsați motorul pornit inutil; distanțele scurte permit o vizitare rapidă înainte de a vă putea încălzi din nou în interiorul mașinii.",
+                "en": "Don't leave the engine running unnecessarily; the short distances allow for a quick visit before you can warm up again in the car's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Spa Park (Parc des Bains)",
+                "hu": "Spa Park (Parc des Bains)",
+                "ro": "Spa Park (Parc des Bains)",
+                "en": "Spa Park (Parc des Bains)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Parkplatz; ein kurzer Spaziergang durch den Park bietet tolle Fotomotive der kahlen Bäume im Winterlicht.",
+                "hu": "Ügyeljen a fagyott foltokra a parkolóban; egy rövid séta a parkban remek fotótémákat kínál a kopár fákról a különleges téli fényekben.",
+                "ro": "Atenție la porțiunile înghețate din parcare; o scurtă plimbare prin parc oferă oportunități foto grozave cu copacii golași în lumina iernii.",
+                "en": "Watch out for frozen spots in the parking lot; a short walk through the park offers great photo opportunities of the bare trees in winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Lons-le-Saunier Thermal Baths",
+                "hu": "Lons-le-Saunier Thermal Baths",
+                "ro": "Lons-le-Saunier Thermal Baths",
+                "en": "Lons-le-Saunier Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um die Kälte zu vergessen; nutzen Sie den Parkplatz direkt davor, um nach dem Bad schnell wieder in die Wärme zu kommen.",
+                "hu": "Ez az ideális hely, hogy elfelejtse a hideget; használja a közvetlenül előtte lévő parkolót, hogy fürdés után gyorsan visszatérhessen a melegbe.",
+                "ro": "Acesta este locul ideal pentru a uita de frig; folosiți parcarea direct din față pentru a reveni rapid la căldură după terminarea băii.",
+                "en": "This is the ideal place to forget the cold; use the parking lot directly in front to quickly get back into the warmth after your relaxing bath."
+              }
+            }
+          ]
+        }
       }
     }
   }

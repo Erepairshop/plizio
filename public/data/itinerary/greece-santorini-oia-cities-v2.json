@@ -183,6 +183,224 @@
         "hu": "A séta bájos nevezetességekkel és az ikonikus kék kupolával kezdődik, ahol a lágy reggeli fényben csodálhatja meg a kükládikus építészetet. Délben a kultúrának és a történelemnek szenteljük az időt a helyi galériákban és az oiai tengerészeti múzeumban. Délután felfedezzük a történelmi fellegvárat, majd leereszkedünk a festői Ammoudi-öbölbe az autentikus szigeti hangulatért. Az estét egy medencés kávézóban pihenve zárjuk, ahol egy hűsítő ital kíséretében élvezheti a világhírű naplementét.",
         "ro": "Plimbarea începe cu repere fermecătoare și faimoasa cupolă albastră, unde veți admira arhitectura cicladică în lumina blândă a dimineții. La prânz, ne dedicăm culturii și istoriei explorând galeriile locale și muzeul maritim din Oia. După-amiaza descoperim citadela istorică și coborâm spre pitorescul golf Ammoudi pentru a simți atmosfera autentică a insulei. Seara se încheie relaxant la o cafenea cu piscină, unde vă puteți bucura din plin de renumitul apus de soare alături de o băutură răcoritoare.",
         "en": "The walk begins with charming landmarks and the iconic blue dome, where you will experience classic Cycladic architecture in the soft morning light. At midday, we dedicate our time to culture and history in the local galleries and Oia's Naval Museum. In the afternoon, we explore the historical citadel and descend to the picturesque Ammoudi Bay to feel the authentic island atmosphere. The evening ends in a relaxing pool cafe, where you can fully enjoy the world-famous sunset with a refreshing drink."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Oia beginnt mystisch im Nebel; die glatten Kopfsteinpflaster erfordern unter dem Regenschirm Vorsicht. Mittags bieten die Galerien und Museen trockenen Unterschlupf, während man den Sturm über der Caldera beobachtet. Nachmittags steigen wir vorsichtig die nassen Stufen zur Ammoudi-Bucht hinab. Abends genießen wir das Lichtspiel auf den nassen weißen Wänden in einem Café.",
+            "hu": "Reggel a ködös Oia misztikus arca fogad, a csúszós macskaköveken óvatosan lépkedjünk az esernyők alatt. Délben a galériák és múzeumok nyújtanak száraz menedéket a kaldera feletti vihar idejére. Délután az Ammoudi-öböl felé az eső áztatta lépcsőkön kapaszkodunk le a tenger morajlását figyelve. Este egy hangulatos kávézó ablakából csodáljuk a fehér falakon megcsillanó fények játékát.",
+            "ro": "Dimineața în Oia începe mistic în ceață; pavajul alunecos necesită prudență sub umbrelă. La prânz, galeriile și muzeele oferă adăpost uscat în timp ce urmărim furtuna peste caldera. După-amiaza coborâm cu grijă treptele ude spre Golful Ammoudi, ascultând marea. Seara, admirăm jocul luminilor pe pereții albi și uzi din fereastra unei cafenele primitoare.",
+            "en": "The morning in Oia starts mystically in the fog; the slippery cobblestones require caution under the umbrella. At noon, galleries and museums provide dry shelter while watching the storm over the caldera. In the afternoon, we carefully descend the wet steps towards Ammoudi Bay, listening to the sea. In the evening, we enjoy the play of lights on the wet white walls from a cozy cafe window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chariot with flower",
+                "hu": "Chariot with flower",
+                "ro": "Chariot with flower",
+                "en": "Chariot with flower"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Wagens wirken bei Regen besonders kräftig; nutzen Sie die überdachten Bögen in der Nähe für Fotos ohne nass zu werden.",
+                "hu": "A szekér színei az esőben még élénkebbek; használd a közeli boltíves átjárókat fedezékként a tökéletes fotó elkészítéséhez.",
+                "ro": "Culorile carului sunt mai vibrante în ploaie; folosiți arcadele acoperite din apropiere ca adăpost pentru a face fotografii reușite.",
+                "en": "The colors of the chariot look extra vibrant in the rain; use the nearby arched passages as cover to snap a great photo without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dome",
+                "hu": "Blue Dome",
+                "ro": "Blue Dome",
+                "en": "Blue Dome"
+              },
+              "tip_5lang": {
+                "de": "Die blaue Kuppel hebt sich dramatisch von den grauen Wolken ab; tragen Sie Schuhe mit gutem Grip, da die Marmorwege extrem rutschig sind.",
+                "hu": "A kék kupola drámai látványt nyújt a szürke felhők alatt; viselj tapadós talpú cipőt, mert a márványburkolat ilyenkor rendkívül csúszós.",
+                "ro": "Cupola albastră arată dramatic sub norii gri; purtați încălțăminte cu aderență bună, deoarece potecile de marmură sunt foarte alunecoase.",
+                "en": "The blue dome stands out dramatically against grey clouds; wear high-grip shoes as the marble paths become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Galanopoulos Art Gallery",
+                "hu": "Galanopoulos Art Gallery",
+                "ro": "Galanopoulos Art Gallery",
+                "en": "Galanopoulos Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regenschauer zu überdauern; bewundern Sie die moderne Kunst, während draußen der Regen gegen die Schaufenster peitscht.",
+                "hu": "Ideális helyszín az égszakadás kivárására; merülj el a kortárs művészetben, amíg kint az eső veri a kirakatot.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii; admirați arta modernă în timp ce stropii de ploaie lovesc ferestrele galeriei.",
+                "en": "The perfect place to wait out a heavy downpour; immerse yourself in modern art while the rain lashes against the gallery windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum Oia",
+                "hu": "Naval Museum Oia",
+                "ro": "Naval Museum Oia",
+                "en": "Naval Museum Oia"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Wetter in dieses historische Kapitänshaus; die maritimen Exponate lassen sich im Trockenen wunderbar studieren.",
+                "hu": "Menekülj az időjárás elől ebbe a történelmi kapitányházba; a tengerészeti emlékeket fedett, száraz környezetben tanulmányozhatod.",
+                "ro": "Evadați de vremea rea în această casă istorică de căpitan; exponatele maritime pot fi studiate în liniște la adăpost.",
+                "en": "Escape the weather inside this historic captain's house; the maritime exhibits are best explored while staying dry and warm indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadel of Oia",
+                "hu": "Citadel of Oia",
+                "ro": "Citadel of Oia",
+                "en": "Citadel of Oia"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten wenig Schutz, aber eine wilde Aussicht auf die stürmische See; halten Sie sich an den Mauern fest, wenn es windig ist.",
+                "hu": "A romok kevés védelmet adnak, de a kilátás a háborgó tengerre vadregényes; szeles időben kapaszkodj erősen a kőfalakba.",
+                "ro": "Ruinele oferă puțin adăpost, dar vederea spre marea înfuriată este sălbatică; țineți-vă de ziduri dacă vântul suflă cu putere.",
+                "en": "The ruins offer little cover but provide a wild view of the stormy sea; hold onto the stone walls if the wind picks up during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi",
+                "hu": "Ammoudi",
+                "ro": "Ammoudi",
+                "en": "Ammoudi"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wellen gegen die roten Klippen schlagen; suchen Sie Schutz in einer der Fischtavernen direkt am Wasser.",
+                "hu": "Figyeld, ahogy a hullámok a vörös szikláknak csapódnak; keress menedéket a vízparti haléttermek egyikének fedett teraszán.",
+                "ro": "Urmăriți valurile care se sparg de stâncile roșii; căutați adăpost pe terasele acoperite ale tavernelor de pe malul apei.",
+                "en": "Watch the waves crashing against the red volcanic cliffs; seek shelter in one of the waterfront fish tavernas with covered seating."
+              }
+            },
+            {
+              "name": {
+                "de": "Lioyerma Cafe Pool",
+                "hu": "Lioyerma Cafe Pool",
+                "ro": "Lioyerma Cafe Pool",
+                "en": "Lioyerma Cafe Pool"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen Tee im Innenbereich mit Blick auf den nassen Pool und das weite, graue Meer am Horizont.",
+                "hu": "Kortyolgass egy meleg teát a belső térben, miközben az eső áztatta medencét és a horizonton elmosódó szürke tengert nézed.",
+                "ro": "Savurați un ceai cald în interior în timp ce priviți piscina udă și marea gri care se pierde la orizont.",
+                "en": "Sip a warm tea indoors while looking out at the rain-soaked pool and the grey sea stretching to the horizon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wind weht am Morgen durch die leeren Gassen von Oia. Mittags wärmen wir uns in den Museen auf, die im Winter eine ruhige Atmosphäre bieten. Da die Sonne bereits gegen 17:00 Uhr untergeht, beginnt die goldene Stunde schon am frühen Nachmittag. Der Abend gehört der Stille der Caldera, fernab der sommerlichen Touristenströme.",
+            "hu": "Friss szél fúj reggel Oia üres utcáin, a tiszta téli égbolt alatt a fehér házak ragyognak. Délben a múzeumok és galériák falaiba zárt meleg nyújt kényelmet. Mivel a nap 17:00 körül nyugszik, az aranyóra már kora délután elkezdődik. Az este a kaldera csendjéé, távol a nyári turistatömeg morajlásától.",
+            "ro": "Un vânt proaspăt suflă dimineața prin străzile pustii din Oia sub cerul senin de iarnă. La prânz ne încălzim în muzee, care oferă o atmosferă liniștită. Deoarece soarele apune în jur de ora 17:00, ora de aur începe devreme. Seara aparține liniștii calderei, departe de agitația turistică de vară.",
+            "en": "A brisk wind blows through the empty streets of Oia in the morning light. At noon, we warm up in museums that offer a peaceful winter atmosphere. Since the sun sets around 17:00, the golden hour begins in the early afternoon. The evening belongs to the silence of the caldera, far from the summer tourist crowds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chariot with flower",
+                "hu": "Chariot with flower",
+                "ro": "Chariot with flower",
+                "en": "Chariot with flower"
+              },
+              "tip_5lang": {
+                "de": "Das Morgenlicht steht tief und wirft lange Schatten auf den Wagen; ideal für Fotos ohne störende Touristenmassen im Hintergrund.",
+                "hu": "A reggeli nap alacsony szögből világítja meg a szekeret; használd ki a tömegmentes időszakot a tiszta kompozíciókért.",
+                "ro": "Lumina dimineții cade sub un unghi mic, creând umbre lungi pe car; ideal pentru fotografii fără mulțimile de turiști în fundal.",
+                "en": "The low winter sun casts long shadows on the chariot; take advantage of the lack of crowds for a perfectly clean photo composition."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dome",
+                "hu": "Blue Dome",
+                "ro": "Blue Dome",
+                "en": "Blue Dome"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist im Winter oft klarer, was den Kontrast der blauen Kuppel verstärkt; ziehen Sie sich winddicht an für den Weg dorthin.",
+                "hu": "Télen gyakran tisztább a levegő, ami felerősíti a kék kupola kontrasztját; öltözz szélállóan a kaldera menti sétához.",
+                "ro": "Aerul este adesea mai curat iarna, accentuând contrastul cupolei albastre; purtați haine rezistente la vânt pentru plimbarea pe faleză.",
+                "en": "The winter air is often clearer, enhancing the contrast of the blue dome; dress in windproof layers for the walk along the caldera."
+              }
+            },
+            {
+              "name": {
+                "de": "Galanopoulos Art Gallery",
+                "hu": "Galanopoulos Art Gallery",
+                "ro": "Galanopoulos Art Gallery",
+                "en": "Galanopoulos Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort voller Farben; nehmen Sie sich Zeit für die Details der Kunstwerke, die im Sommer oft übersehen werden.",
+                "hu": "Meleg, színekkel teli menedék a hűvös utcák után; szánj időt a részletekre, amik felett nyáron a tömegben átsiklanál.",
+                "ro": "Un refugiu cald și plin de culoare; acordați-vă timp pentru detaliile operelor de artă care sunt adesea trecute cu vederea vara.",
+                "en": "A warm retreat full of vibrant colors; take your time to appreciate art details that are often missed during the busy summer season."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum Oia",
+                "hu": "Naval Museum Oia",
+                "ro": "Naval Museum Oia",
+                "en": "Naval Museum Oia"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern des Museums halten die Wärme gut; ideal, um die Geschichte Santorinis ohne sommerliche Hitze zu erkunden.",
+                "hu": "A múzeum vastag falai jól tartják a meleget; ideális hely Santorin tengerészeti múltjának megismerésére a nyári hőség nélkül.",
+                "ro": "Zidurile groase ale muzeului păstrează bine căldura; locul perfect pentru a explora istoria maritimă fără arșița verii.",
+                "en": "The thick stone walls of the museum retain heat well; explore Santorini’s naval history in a cozy environment away from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadel of Oia",
+                "hu": "Citadel of Oia",
+                "ro": "Citadel of Oia",
+                "en": "Citadel of Oia"
+              },
+              "tip_5lang": {
+                "de": "Hier erleben Sie den Sonnenuntergang gegen 17:00 Uhr fast allein; bringen Sie eine warme Jacke für den Aufenthalt an der windigen Spitze mit.",
+                "hu": "Itt a naplementét 17:00 körül szinte egyedül élvezheted; vigyél meleg kabátot a szeles várfokon való várakozáshoz.",
+                "ro": "Aici puteți admira apusul în jurul orei 17:00 aproape singur; aduceți o jachetă groasă pentru vântul tăios de pe cetate.",
+                "en": "Experience the famous sunset around 17:00 with almost no crowds; bring a heavy jacket for the windy conditions at the peak."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi",
+                "hu": "Ammoudi",
+                "ro": "Ammoudi",
+                "en": "Ammoudi"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine verschlafene Fischerdorf-Atmosphäre; perfekt für einen ruhigen Spaziergang am Fuße der roten Felsen.",
+                "hu": "Télen álmos halászfalu hangulata van az öbölnek; tökéletes egy csendes sétára a vörös sziklák lábánál a hullámverésben.",
+                "ro": "Iarna, aici predomină atmosfera unui sat pescăresc adormit; perfect pentru o plimbare liniștită la poalele stâncilor roșii.",
+                "en": "In winter, a sleepy fishing village atmosphere takes over; perfect for a quiet stroll at the base of the red cliffs by the tide."
+              }
+            },
+            {
+              "name": {
+                "de": "Lioyerma Cafe Pool",
+                "hu": "Lioyerma Cafe Pool",
+                "ro": "Lioyerma Cafe Pool",
+                "en": "Lioyerma Cafe Pool"
+              },
+              "tip_5lang": {
+                "de": "Obwohl der Pool nicht einlädt, ist der Ausblick auf das tiefblaue Wintermeer fantastisch; wärmen Sie sich mit einem griechischen Kaffee auf.",
+                "hu": "Bár a medence ilyenkor nem hívogató, a kilátás a mélykék téli tengerre pazar; melegedj fel egy erős görög kávéval.",
+                "ro": "Deși piscina nu este primitoare, vederea spre marea albastru închis este superbă; încălziți-vă cu o cafea grecească tare.",
+                "en": "Though the pool is closed for swimming, the view of the deep blue winter sea is stunning; warm up with a strong Greek coffee."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a kerékpártúrát Oia színes szimbólumaival és a híres kék kupolákkal, még mielőtt az utcák túlságosan megtelnének. Délben kényelmesen eltekerhet a művészeti galériáktól a tengerészeti múzeumig, elmélyedve a tengeri múltban. Délután meglátogatjuk a régi fellegvárat, letekintünk Ammoudira, majd egy hűsítő medencéhez hajtunk energiát gyűjteni. A napot a csendesebb Katharos strandon zárjuk, ahol a nyüzsgéstől távol, csodálatos tengerparti kilátás mellett pihenhet.",
         "ro": "Începeți turul cu bicicleta cu simbolurile colorate din Oia și faimoasele cupole albastre, înainte ca străzile să devină prea aglomerate. La prânz, pedalați relaxat între galeriile de artă și muzeul maritim, aprofundând trecutul maritim. După-amiaza vizităm vechea citadelă, aruncăm o privire spre Ammoudi și ne îndreptăm spre o piscină răcoroasă pentru a ne reîncărca bateriile. Ziua se încheie pe plaja mai liniștită din Katharos, unde vă puteți relaxa departe de agitație, cu o priveliște magnifică la mare.",
         "en": "Start your bike tour with the colorful symbols of Oia and the famous blue domes before the streets become too crowded. At midday, pedal leisurely from art galleries to the naval museum, delving deep into the maritime past. In the afternoon, visit the old citadel, take a look at Ammoudi, and continue to a refreshing pool to recharge your energy. The day concludes at the quieter Katharos beach, where you can unwind away from the hustle and bustle with a magnificent sea view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Oia volle Konzentration auf die rutschigen Wege. Am Vormittag erkunden wir die farbigen Akzente der Stadt unter der Regenjacke. Mittags suchen wir Schutz in den Museen, während die Fahrräder sicher geparkt sind. Der Nachmittag führt uns trotz Nässe zu den Aussichtspunkten, bevor wir den Tag in Wärme ausklingen lassen.",
+            "hu": "Az esőben való biciklizés Oia utcáin teljes koncentrációt igényel a csúszós szakaszok miatt. Délelőtt esőkabátban fedezzük fel a város színes pontjait. Délben múzeumlátogatással várjuk ki a zápor végét, biztonságban leparkolva a gépeket. A délután a vizes panorámáké, majd a napot egy fűtött helyen zárjuk.",
+            "ro": "Mersul pe bicicletă în ploaie necesită concentrare maximă pe străzile alunecoase din Oia. Dimineața explorăm punctele colorate ale orașului protejați de pelerine. La prânz, vizităm muzee în timp ce bicicletele sunt parcate în siguranță. După-amiaza este dedicată panoramelor umede, încheind ziua într-un loc încălzit.",
+            "en": "Cycling in the rain requires full concentration on Oia's slippery paths. In the morning, we explore the town's colorful spots under rain gear. At noon, we wait out the showers in museums while the bikes are safely parked. The afternoon leads us to wet panoramas before ending the day in a warm shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chariot with flower",
+                "hu": "Chariot with flower",
+                "ro": "Chariot with flower",
+                "en": "Chariot with flower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen Steinboden; der farbenfrohe Wagen bietet ein tolles Motiv gegen den grauen Himmel.",
+                "hu": "Vigyázz a leszálláskor a vizes kőfelületen; a színes szekér remek kontrasztot ad a szürke esős égbolttal.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pietrele ude; carul colorat oferă un contrast superb cu cerul gri de ploaie.",
+                "en": "Be careful when dismounting on wet stones; the colorful chariot provides a great contrast against the grey rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dome",
+                "hu": "Blue Dome",
+                "ro": "Blue Dome",
+                "en": "Blue Dome"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem langsam in den Kurven zur Kuppel; die Aussicht ist bei Regen durch die Dramatik der Wolken einzigartig.",
+                "hu": "Rendkívül lassan haladj a kanyarokban a kupola felé; az esőben a felhők drámai játéka egyedi hátteret ad a panorámának.",
+                "ro": "Pedalați foarte încet în curbele spre cupolă; vederea este unică în ploaie datorită jocului dramatic al norilor.",
+                "en": "Ride extremely slowly through the turns near the dome; the rain and dramatic clouds create a unique backdrop for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Galanopoulos Art Gallery",
+                "hu": "Galanopoulos Art Gallery",
+                "ro": "Galanopoulos Art Gallery",
+                "en": "Galanopoulos Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Trockenen und genießen Sie die Kunst; die Galerie bietet die perfekte Pause vom nasskalten Fahrtwind.",
+                "hu": "Parkolj le fedett helyen és élvezd a művészetet; a galéria tökéletes pihenő a hideg, vizes menetszél után.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de artă; galeria oferă pauza perfectă după vântul rece și umed.",
+                "en": "Park your bike in a dry spot and enjoy the art; the gallery provides a perfect break from the cold, wet wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum Oia",
+                "hu": "Naval Museum Oia",
+                "ro": "Naval Museum Oia",
+                "en": "Naval Museum Oia"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Stopp, um die Kleidung zu trocknen; erkunden Sie die maritime Geschichte, während es draußen regnet.",
+                "hu": "Kulturális megálló, ahol megszáríthatod a ruháidat; fedezd fel a tengerészeti történelmet, amíg kint szakad az eső.",
+                "ro": "O oprire culturală unde vă puteți usca hainele; explorați istoria maritimă în timp ce afară plouă torențial.",
+                "en": "A cultural stop where you can dry your gear; explore maritime history while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadel of Oia",
+                "hu": "Citadel of Oia",
+                "ro": "Citadel of Oia",
+                "en": "Citadel of Oia"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad das letzte Stück, da der Weg zur Festung bei Nässe tückisch ist; die Aussicht belohnt die Mühe.",
+                "hu": "Told a biciklit az utolsó szakaszon, mert a vár felé vezető út csúszós; a háborgó tenger látványa kárpótol a fáradozásért.",
+                "ro": "Împingeți bicicleta pe ultima secțiune, drumul spre cetate fiind alunecos; vederea mării învolburate merită efortul.",
+                "en": "Push your bike for the final stretch as the path to the fortress is treacherous when wet; the stormy sea view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi",
+                "hu": "Ammoudi",
+                "ro": "Ammoudi",
+                "en": "Ammoudi"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zum Hafen ist steil und rutschig; nutzen Sie beide Bremsen vorsichtig und genießen Sie unten die frische Meeresbrise.",
+                "hu": "A kikötőbe vezető lejtő meredek és csúszós; használd óvatosan mindkét féket, és élvezd lent a friss, sós permetet.",
+                "ro": "Coborârea spre port este abruptă și alunecoasă; folosiți ambele frâne cu grijă și bucurați-vă de briza sărată de jos.",
+                "en": "The descent to the harbor is steep and slippery; use both brakes cautiously and enjoy the fresh salty spray at the bottom."
+              }
+            },
+            {
+              "name": {
+                "de": "Lioyerma Cafe Pool",
+                "hu": "Lioyerma Cafe Pool",
+                "ro": "Lioyerma Cafe Pool",
+                "en": "Lioyerma Cafe Pool"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der Fahrt mit einem heißen Getränk auf; der Blick auf die verregnete Anlage wirkt fast meditativ.",
+                "hu": "Melegedj fel egy forró itallal a tekerés után; az eső áztatta medence látványa szinte meditatív nyugalmat áraszt.",
+                "ro": "Încălziți-vă cu o băutură fierbinte după drum; vederea piscinei bătute de ploaie are un efect aproape meditativ.",
+                "en": "Warm up with a hot drink after your ride; the sight of the rain-soaked pool area has an almost meditative feel."
+              }
+            },
+            {
+              "name": {
+                "de": "Katharos beach",
+                "hu": "Katharos beach",
+                "ro": "Katharos beach",
+                "en": "Katharos beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann matschig sein; erleben Sie die rohe Gewalt der Natur an der einsamen, regnerischen Küste.",
+                "hu": "A strandhoz vezető út saras lehet; tapasztald meg a természet nyers erejét a magányos, esős tengerparton.",
+                "ro": "Drumul spre plajă poate fi noroios; experimentați forța brută a naturii pe malul mării singuratic și ploios.",
+                "en": "The path to the beach can be muddy; experience the raw power of nature on the lonely, rainy shoreline."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet ideale Bedingungen für Radfahrer auf den fast leeren Straßen Santorinis. Mittags genießen wir die klare Sicht auf die Caldera, geschützt durch winddichte Kleidung. Da es früh dunkel wird, nutzen wir die Nachmittagssonne für die Fahrt zur Burg. Der Abend endet früh mit einem spektakulären Sonnenuntergang und kühler Meeresluft.",
+            "hu": "A téli reggel ideális feltételeket kínál a bringázáshoz Santorini szinte üres útjain. Délben a kaldera tiszta panorámáját élvezzük, szélálló ruházatba burkolózva. Mivel korán sötétedik, a délutáni napfényt a vár felé tekerve használjuk ki. Az este korán érkezik a látványos naplementével és hűvös tengeri levegővel.",
+            "ro": "Dimineața de iarnă oferă condiții ideale pentru ciclism pe drumurile aproape pustii din Santorini. La prânz admirăm panorama clară a calderei, protejați de haine rezistente la vânt. Deoarece se întunecă devreme, profităm de soarele după-amiezii pedalând spre cetate. Seara vine repede cu un apus spectaculos.",
+            "en": "The winter morning offers ideal conditions for cycling on Santorini's almost empty roads. At noon, we enjoy the clear caldera panorama, wrapped in windproof layers. Since it gets dark early, we make the most of the afternoon sun by riding towards the castle. The evening arrives early with a spectacular sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chariot with flower",
+                "hu": "Chariot with flower",
+                "ro": "Chariot with flower",
+                "en": "Chariot with flower"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht lässt die Blumen am Wagen leuchten; nutzen Sie die Kühle für eine entspannte erste Etappe.",
+                "hu": "Az alacsony napállás ragyogóvá teszi a szekér virágait; használd ki a hűvös időt egy izzadásmentes első szakaszhoz.",
+                "ro": "Lumina joasă a soarelui face florile de pe car să strălucească; profitați de răcoare pentru o primă etapă relaxantă.",
+                "en": "The low winter sun makes the flowers on the chariot glow; use the cool temperature for a sweat-free first stage."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dome",
+                "hu": "Blue Dome",
+                "ro": "Blue Dome",
+                "en": "Blue Dome"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für perfekte Fernsicht über die Insel; ziehen Sie Handschuhe für die windige Fahrt an.",
+                "hu": "A tiszta téli levegő tökéletes kilátást biztosít a szigetre; húzz kesztyűt a szeles kaldera menti tekeréshez.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate perfectă asupra insulei; purtați mănuși pentru segmentul de drum bătut de vânt.",
+                "en": "The crisp winter air ensures perfect visibility across the island; wear gloves for the windy ride along the caldera edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Galanopoulos Art Gallery",
+                "hu": "Galanopoulos Art Gallery",
+                "ro": "Galanopoulos Art Gallery",
+                "en": "Galanopoulos Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Eine farbenfrohe Aufwärmpause im Inneren; bewundern Sie die Kunstwerke, während Ihr Rad draußen sicher parkt.",
+                "hu": "Színpompás melengető pihenő odabent; csodáld meg az alkotásokat, amíg a bringád kint biztonságban pihen.",
+                "ro": "O pauză plină de culoare la căldură; admirați operele de artă în timp ce bicicleta stă în siguranță afară.",
+                "en": "A colorful and warm break indoors; admire the artworks while your bike rests safely parked outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum Oia",
+                "hu": "Naval Museum Oia",
+                "ro": "Naval Museum Oia",
+                "en": "Naval Museum Oia"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Seefahrergeschichte, weit weg vom kalten Wind; das Museum ist im Winter herrlich ruhig.",
+                "hu": "Merülj el a tengerészeti történelemben, távol a hideg széltől; a múzeum télen lenyűgözően csendes.",
+                "ro": "Imersați-vă în istoria navală, departe de vântul rece; muzeul este extraordinar de liniștit pe timpul iernii.",
+                "en": "Immerse yourself in maritime history, away from the cold wind; the museum is wonderfully quiet during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadel of Oia",
+                "hu": "Citadel of Oia",
+                "ro": "Citadel of Oia",
+                "en": "Citadel of Oia"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet hier im Winter gegen 17:00 Uhr statt; sichern Sie sich rechtzeitig einen windgeschützten Platz.",
+                "hu": "A naplemente télen 17:00 körül várható; keress időben egy szélvédett zugot a várfalak tövében.",
+                "ro": "Apusul are loc iarna în jurul orei 17:00; asigurați-vă din timp un loc ferit de vânt lângă zidurile cetății.",
+                "en": "Sunset occurs around 17:00 in winter; find a spot sheltered from the wind near the fortress walls in advance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi",
+                "hu": "Ammoudi",
+                "ro": "Ammoudi",
+                "en": "Ammoudi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Wasser ohne die Touristenboote; die roten Felsen speichern am Nachmittag noch etwas Wärme.",
+                "hu": "Élvezd a vízparti nyugalmat turistahajók nélkül; a vörös sziklák délután még sugároznak némi hőt.",
+                "ro": "Bucurați-vă de liniștea de lângă apă fără bărcile de turiști; stâncile roșii încă mai radiază puțină căldură după-amiaza.",
+                "en": "Enjoy the waterfront peace without the tourist boats; the red rocks still radiate a bit of warmth in the afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Lioyerma Cafe Pool",
+                "hu": "Lioyerma Cafe Pool",
+                "ro": "Lioyerma Cafe Pool",
+                "en": "Lioyerma Cafe Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein heißer Kräutertee ist nach der winterlichen Tour genau das Richtige, während Sie den Blick auf die Ägäis genießen.",
+                "hu": "Egy forró gyógytea a téli tekerés után pont az, amire szükséged van, miközben az Égei-tenger látványában gyönyörködsz.",
+                "ro": "Un ceai fierbinte de plante este exact ce aveți nevoie după tura de iarnă, în timp ce admirați Marea Egee.",
+                "en": "A hot herbal tea is exactly what you need after a winter ride while enjoying the view of the Aegean Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Katharos beach",
+                "hu": "Katharos beach",
+                "ro": "Katharos beach",
+                "en": "Katharos beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wintermeer wirkt hier besonders gewaltig; ein kurzer Stopp, um die salzige Luft einzuatmen, bevor es dunkel wird.",
+                "hu": "A téli tenger itt különösen vadnak tűnik; tarts egy rövid szünetet a sós levegőn, mielőtt teljesen besötétedik.",
+                "ro": "Marea de iarnă pare deosebit de sălbatică aici; faceți o scurtă oprire pentru aerul sărat înainte de lăsarea întunericului.",
+                "en": "The winter sea looks especially wild here; take a short break to breathe in the salty air before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Autóval kényelmesen elérheti a jól ismert nevezetességeket és a kék kupolát, hogy lenyűgöző élményekkel indítsa a napot. Délben a kultúráé a főszerep, miközben modern medencék, helyi művészeti galériák és a lenyűgöző fellegvár között közlekedik. Délután az útvonal levezet Ammoudiba, ahol a sziget tengeri hagyományai a legszebb arcukat mutatják. Este Katharos strandjának közelében parkolhat le, ahol csendes környezetben élvezheti a hullámok megnyugtató morajlását.",
         "ro": "Cu mașina ajungeți confortabil la reperele cunoscute și la cupola albastră pentru a începe ziua cu impresii deosebite. La prânz programul este dedicat culturii, alternând între piscine moderne, galerii locale de artă și impresionanta citadelă. După-amiaza, traseul coboară spre Ammoudi, unde tradițiile maritime ale insulei se arată în toată splendoarea lor. Seara parcați lângă plaja Katharos, unde vă puteți bucura de sunetul liniștitor al valurilor într-o atmosferă liniștită.",
         "en": "By car, you can comfortably reach the well-known landmarks and the blue dome to start your day with great impressions. At midday, culture is on the agenda as you move between modern pools, local art galleries, and the impressive citadel. In the afternoon, the route continues down to Ammoudi, where the island's maritime traditions are shown at their best. In the evening, park near Katharos beach, where you can enjoy the soothing sound of the waves in a quiet atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute unser bester Verbündeter gegen den Dauerregen auf Santorini. Vormittags gleiten wir trocken durch die Küstenstraßen zu den ersten Landmarks. Mittags bieten die Museen und Galerien eine willkommene Abwechslung zum Prasseln des Regens auf das Autodach. Der Nachmittag führt uns zu den wilden Stränden, bevor wir den Tag entspannt im Warmen beenden.",
+            "hu": "Az autó ma a legjobb szövetségesünk a Santorini feletti tartós esőben. Délelőtt szárazon gurulunk végig a parti utakon a főbb látnivalókhoz. Délben a múzeumok és galériák nyújtanak menedéket a tetőn kopogó eső elől. A délután a vadregényes tengerpartoké, majd a napot egy kellemes, fűtött helyen zárjuk.",
+            "ro": "Mașina este astăzi cel mai bun aliat împotriva ploii persistente din Santorini. Dimineața rulăm la adăpost pe drumurile de coastă spre principalele atracții. La prânz, muzeele și galeriile oferă un refugiu plăcut în fața ploii care bate în plafonul mașinii. După-amiaza explorăm plajele sălbatice, încheind ziua la căldură.",
+            "en": "The car is our best ally today against the persistent rain over Santorini. In the morning, we glide dryly along coastal roads to the main landmarks. At noon, museums and galleries offer a welcome break from the rain drumming on the roof. The afternoon leads us to wild beaches before ending the day in a cozy, warm spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chariot with flower",
+                "hu": "Chariot with flower",
+                "ro": "Chariot with flower",
+                "en": "Chariot with flower"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie direkt in der Nähe für ein schnelles Foto; der Regen lässt die Farben des Wagens besonders leuchten.",
+                "hu": "Állj meg közvetlenül a közelben egy gyors fotóra; az eső még ragyogóbbá teszi a szekér színeit.",
+                "ro": "Opriți direct în apropiere pentru o fotografie rapidă; ploaia face culorile carului să pară și mai vii.",
+                "en": "Stop directly nearby for a quick photo; the rain makes the colors of the chariot appear even more vibrant."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dome",
+                "hu": "Blue Dome",
+                "ro": "Blue Dome",
+                "en": "Blue Dome"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten oben und gehen Sie nur kurz zur Aussicht; die nassen Pfade zur Kuppel sind sehr rutschig.",
+                "hu": "Használd a fenti parkolókat és csak rövid időre szállj ki; a kupolához vezető vizes utak rendkívül csúszósak.",
+                "ro": "Folosiți parcările de sus și ieșiți doar scurt pentru priveliște; potecile ude spre cupolă sunt extrem de alunecoase.",
+                "en": "Use the parking lots above and only step out briefly for the view; the wet paths to the dome are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "206 POOL",
+                "hu": "206 POOL",
+                "ro": "206 POOL",
+                "en": "206 POOL"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Stopp im Trockenen; genießen Sie einen Drink an der Bar, während Sie den Regen über dem Pool beobachten.",
+                "hu": "Kellemes megálló a szárazban; élvezz egy italt a bárnál, miközben a medencére hulló esőt figyeled.",
+                "ro": "O oprire plăcută la adăpost; savurați o băutură la bar în timp ce priviți ploaia căzând în piscină.",
+                "en": "A relaxing stop while staying dry; enjoy a drink at the bar while watching the rain fall into the pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Galanopoulos Art Gallery",
+                "hu": "Galanopoulos Art Gallery",
+                "ro": "Galanopoulos Art Gallery",
+                "en": "Galanopoulos Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Schlimmste des Regens auszusitzen; tauchen Sie ein in die Welt der Farben und Kunst.",
+                "hu": "Tökéletes hely a legnagyobb felhőszakadás átvészelésére; merülj el a színek és a művészet világában.",
+                "ro": "Locul perfect pentru a aștepta trecerea celei mai grele ploi; imersați-vă în lumea culorilor și a artei.",
+                "en": "The perfect place to wait out the heaviest downpour; immerse yourself in a world of colors and art indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadel of Oia",
+                "hu": "Citadel of Oia",
+                "ro": "Citadel of Oia",
+                "en": "Citadel of Oia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie Regenpausen für den Blick von den Ruinen auf die stürmische Ägäis.",
+                "hu": "Parkolj közel a bejárathoz és használd ki az esőszüneteket a romokról nyíló viharos tengeri panorámához.",
+                "ro": "Parcați aproape de intrare și profitați de pauzele dintre reprizele de ploaie pentru panorama spre marea învolburată.",
+                "en": "Park close to the entrance and use gaps in the rain to enjoy the stormy sea view from the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi",
+                "hu": "Ammoudi",
+                "ro": "Ammoudi",
+                "en": "Ammoudi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die kurvige Straße hinunter; die Fischrestaurants am Wasser bieten gemütliche, trockene Plätze.",
+                "hu": "Vezess óvatosan a kanyargós úton lefelé; a vízparti haléttermek barátságos, száraz asztalokat kínálnak.",
+                "ro": "Conduceți cu atenție pe drumul sinuos spre bază; restaurantele de pe mal oferă mese primitoare și uscate.",
+                "en": "Drive carefully down the winding road; the waterfront fish restaurants offer cozy and dry seating for diners."
+              }
+            },
+            {
+              "name": {
+                "de": "Katharos beach",
+                "hu": "Katharos beach",
+                "ro": "Katharos beach",
+                "en": "Katharos beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf das tosende Meer direkt aus dem warmen Auto; der Regen verstärkt die Dramatik der Küste.",
+                "hu": "Élvezd a háborgó tenger látványát közvetlenül a meleg autóból; az eső csak fokozza a partvidék drámaiságát.",
+                "ro": "Bucurați-vă de spectacolul mării înfuriate direct din mașina caldă; ploaia accentuează dramatismul coastei.",
+                "en": "Enjoy the sight of the roaring sea from the warmth of your car; the rain adds to the drama of the shoreline."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter genießen wir die Freiheit, fast überall in Oia einen Parkplatz zu finden. Vormittags erkunden wir die Highlights bei angenehmen Temperaturen im Auto. Mittags wärmen wir uns in den Museen auf, die wir fast für uns allein haben. Der Nachmittag gehört der frühen goldenen Stunde, bevor wir um 17:00 Uhr den einsamen Sonnenuntergang erleben.",
+            "hu": "Télen élvezzük a szabadságot, hogy szinte bárhol találunk parkolót Oia közelében. Délelőtt kellemes hőmérsékletű autóval járjuk be a főbb pontokat. Délben a múzeumok melegében merülünk el, amiket ilyenkor szinte egyedül élvezhetünk. A délután a korai aranyóráé, majd 17:00-kor tanúi leszünk a magányos naplementének.",
+            "ro": "Iarna ne bucurăm de libertatea de a găsi parcare aproape oriunde în Oia. Dimineața explorăm punctele principale din confortul mașinii. La prânz ne încălzim în muzee, pe care le avem aproape doar pentru noi. După-amiaza aparține orei de aur timpurii, înainte de a vedea apusul solitar la ora 17:00.",
+            "en": "In winter, we enjoy the freedom of finding parking almost anywhere near Oia. In the morning, we explore the highlights from a climate-controlled car. At noon, we warm up in museums that we have almost to ourselves. The afternoon is for the early golden hour before witnessing the lonely sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chariot with flower",
+                "hu": "Chariot with flower",
+                "ro": "Chariot with flower",
+                "en": "Chariot with flower"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne störende Schatten; Parken ist direkt daneben im Winter kein Problem.",
+                "hu": "Használd ki a tiszta téli fényt a fotózáshoz; a parkolás közvetlenül mellette télen egyáltalán nem jelent gondot.",
+                "ro": "Profități de lumina clară de iarnă pentru fotografii; parcarea chiar lângă obiectiv nu este o problemă iarna.",
+                "en": "Take advantage of the clear winter light for photos; parking right next to the chariot is no problem in the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dome",
+                "hu": "Blue Dome",
+                "ro": "Blue Dome",
+                "en": "Blue Dome"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Caldera ist im Winter oft atemberaubend klar; ein kurzer Spaziergang vom Parkplatz reicht aus.",
+                "hu": "A kilátás a kalderára télen gyakran lélegzetelállítóan tiszta; egy rövid séta a parkolótól bőven elegendő.",
+                "ro": "Panorama spre calderă este adesea uimitor de clară iarna; o scurtă plimbare din parcare este suficientă.",
+                "en": "The view over the caldera is often breathtakingly clear in winter; a short walk from the parking area is all you need."
+              }
+            },
+            {
+              "name": {
+                "de": "206 POOL",
+                "hu": "206 POOL",
+                "ro": "206 POOL",
+                "en": "206 POOL"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp mit Blick auf das winterliche Meer; ideal, um sich bei einem Kaffee aufzuwärmen.",
+                "hu": "Barátságos megálló kilátással a téli tengerre; ideális helyszín egy forró kávé melletti melegedésre.",
+                "ro": "O oprire primitoare cu vedere la marea de iarnă; locul ideal pentru a vă încălzi cu o cafea fierbinte.",
+                "en": "A cozy stop with a view of the winter sea; the ideal location to warm up with a hot cup of coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Galanopoulos Art Gallery",
+                "hu": "Galanopoulos Art Gallery",
+                "ro": "Galanopoulos Art Gallery",
+                "en": "Galanopoulos Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunst in aller Ruhe ohne sommerliche Hitze; ein kulturelles Highlight in warmer Umgebung.",
+                "hu": "Élvezd a művészetet teljes nyugalomban a nyári hőség nélkül; kulturális fénypont kellemesen meleg környezetben.",
+                "ro": "Bucurați-vă de artă în liniște deplină, fără arșița verii; un punct cultural forte într-un mediu cald.",
+                "en": "Enjoy the art in total peace without the summer heat; a cultural highlight in a comfortably warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadel of Oia",
+                "hu": "Citadel of Oia",
+                "ro": "Citadel of Oia",
+                "en": "Citadel of Oia"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier um 17:00 Uhr ein stilles Spektakel; bringen Sie eine Decke für den Aufenthalt im Wind mit.",
+                "hu": "A naplemente itt 17:00-kor egy csendes csoda; vigyél egy pokrócot a szeles várfalakon való várakozáshoz.",
+                "ro": "Apusul de la ora 17:00 este un miracol tăcut; aduceți o pătură pentru timpul petrecut pe zidurile bătute de vânt.",
+                "en": "The sunset at 17:00 is a silent miracle here; bring a blanket for the wait on the windy fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi",
+                "hu": "Ammoudi",
+                "ro": "Ammoudi",
+                "en": "Ammoudi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das friedliche Fischerdorf am Nachmittag; die tiefstehende Sonne taucht die roten Felsen in warmes Licht.",
+                "hu": "Látogasd meg a békés halászfalut délután; az alacsonyan járó nap meleg fénybe öltözteti a vörös sziklákat.",
+                "ro": "Vizitați satul pescăresc pașnic după-amiaza; soarele jos îmbracă stâncile roșii în lumină caldă.",
+                "en": "Visit the peaceful fishing village in the afternoon; the low sun bathes the red rocks in a warm, golden glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Katharos beach",
+                "hu": "Katharos beach",
+                "ro": "Katharos beach",
+                "en": "Katharos beach"
+              },
+              "tip_5lang": {
+                "de": "Ein wilder Stopp zum Abschluss; die kühle Meeresbrise lässt sich am besten direkt vom Strand aus genießen.",
+                "hu": "Vadregényes zárómegálló; a hűvös tengeri szellőt a legkellemesebb közvetlenül a partról beszippantani.",
+                "ro": "O oprire finală sălbatică; briza răcoroasă a mării este cel mai plăcut de simțit direct de pe plajă.",
+                "en": "A wild final stop; the cool sea breeze is best enjoyed directly from the shoreline before heading back."
+              }
+            }
+          ]
+        }
       }
     }
   }

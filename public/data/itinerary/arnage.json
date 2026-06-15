@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy békés sétával a hangulatos vasútállomástól a történelmi Saint-Gilles templomig. A déli órákban a kulturális központ nyújt betekintést a helyi művészeti életbe. Délután mozgassa át végtagjait a Parcours de la Gautrie zöldellő ösvényein. Zárja a napot egy pihentető sétával a Lac de la Gèmerie tükröződő víztükre mellett az est közeledtével.",
         "ro": "Începeți dimineața cu o plimbare liniștită de la gara pitorească la istorica Biserică Saint-Gilles. La prânz, explorați creativitatea locală la centrul cultural înainte de a lua o gustare. După-amiaza, faceți o drumeție pe cărările verzi ale Parcours de la Gautrie. Încheiați-vă ziua relaxându-vă pe malurile pitorești ale lacului Gèmerie odată cu lăsarea serii.",
         "en": "Start your morning with a peaceful walk from the quaint railway station to the historic Saint-Gilles Church. Midday invites you to explore local creativity at the cultural centre before grabbing a quick bite nearby. In the afternoon, stretch your legs along the green pathways of Parcours de la Gautrie. Conclude your day relaxing by the reflective waters of Lac de la Gèmerie as evening sets in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Bahnhof unter dem schützenden Dach. Der Vormittag führt in die Saint-Gilles Kirche, ein idealer Ort, um dem Regen zu entfliehen. Mittags bietet das L'Éolienne reichlich Kultur im Trockenen. Den Nachmittag verbringen wir am Lac de la Gèmerie; der Weg durch den Parcours de la Gautrie erfordert festes, wasserdichtes Schuhwerk, da die Pfade bei Nässe recht schlammig werden können.",
+            "hu": "A túra a vasútállomás fedett peronján indul, védve az égi áldástól. Délelőtt a Saint-Gilles templom belső tere kínál száraz és csendes menedéket. Délben a L'Éolienne kulturális központ modern épülete tökéletes választás az eső elől. Délután a Gautrie ösvényein és a tónál fejezzük be a napot, ahol a sár miatt elengedhetetlen a vízálló bakancs és egy stabil esernyő használata.",
+            "ro": "Începeți la gară sub acoperișul protector. Dimineața vă conduce la Biserica Saint-Gilles, un refugiu spiritual uscat. La prânz, Centrul L'Éolienne oferă cultură la adăpost de ploaie. După-amiaza explorăm Parcours de la Gautrie și Lacul Gèmerie; potecile pot fi noroioase, deci purtați încălțăminte impermeabilă și aveți grijă la suprafețele alunecoase de lângă apă.",
+            "en": "Start your journey at the station's sheltered platform. The morning continues at Saint-Gilles Church, providing a peaceful dry sanctuary. By noon, L'Éolienne Cultural Centre offers a warm indoor escape with local exhibitions. Spend the afternoon near the lake; the paths through Parcours de la Gautrie require waterproof boots today as the ground becomes soft and muddy in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Arnage",
+                "hu": "Arnage Vasútállomás",
+                "ro": "Gara Arnage",
+                "en": "Arnage Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle, um Ihren Regenschutz zu richten; die Architektur ist funktional und bietet den ersten trockenen Orientierungspunkt des Tages.",
+                "hu": "Használja a várótermet az esőfelszerelés igazítására; az állomás épülete az első biztos pont, ahol szárazon tervezheti meg a városi séta további szakaszait.",
+                "ro": "Folosiți sala de așteptare pentru a vă ajusta pelerina de ploaie; gara este primul punct de reper uscat unde puteți verifica harta traseului de astăzi.",
+                "en": "Use the waiting hall to adjust your rain gear; the station building is the first dry landmark where you can safely check your route map for the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster bei diffusem Regenlicht im Inneren; achten Sie beim Eintreten auf den glatten Steinboden, der durch nasse Sohlen rutschig ist.",
+                "hu": "Csodálja meg az üvegablakokat a beszűrődő szórt fényben; belépéskor vigyázzon a kőpadlóra, mert a vizes cipőtalpaktól ilyenkor rendkívül csúszóssá válik.",
+                "ro": "Admirați vitraliile în lumina difuză a ploii din interior; aveți grijă la podeaua de piatră la intrare, deoarece devine alunecoasă din cauza umbrelelor ude.",
+                "en": "Admire the stained glass windows in the diffused rainy light inside; be careful on the stone floor at the entrance as it becomes slippery from wet soles."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum L'Éolienne",
+                "hu": "L'Éolienne Kulturális Központ",
+                "ro": "Centrul Cultural L'Éolienne",
+                "en": "L'Éolienne Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die regenreichste Zeit des Mittags bei Ausstellungen; das moderne Foyer ist der ideale Ort, um die Kleidung kurz abtropfen zu lassen.",
+                "hu": "Itt töltse el a délutáni esős órákat a kiállítások között; a modern előtér tökéletes hely arra, hogy lerázza az esernyőjét és kicsit átmelegedjen a falak között.",
+                "ro": "Petreceți aici orele cele mai ploioase vizitând expozițiile; foierul modern este locul ideal pentru a vă scutura umbrela și a vă încălzi puțin la interior.",
+                "en": "Spend the rainiest hours of the day here exploring exhibitions; the modern foyer is the perfect spot to shake off your umbrella and dry your jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Parcours de la Gautrie",
+                "hu": "Parcours de la Gautrie",
+                "ro": "Parcours de la Gautrie",
+                "en": "Parcours de la Gautrie"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frische, regenfeuchte Waldluft auf diesem Pfad; bleiben Sie unbedingt auf den befestigten Wegen, um nicht im tiefen Schlamm einzusinken.",
+                "hu": "Élvezze a friss, eső utáni erdei levegőt ezen az ösvényen; feltétlenül maradjon a kijelölt úton, hogy elkerülje a mély sarat és a csúszós szakaszokat.",
+                "ro": "Bucurați-vă de aerul proaspăt de pădure după ploaie pe această potecă; rămâneți neapărat pe cărările bătătorite pentru a nu vă afunda în noroiul adânc.",
+                "en": "Enjoy the fresh, rain-scented forest air on this path; stay strictly on the main trails to avoid getting stuck in the deep mud and slippery patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Gèmerie",
+                "hu": "Lac de la Gèmerie",
+                "ro": "Lac de la Gèmerie",
+                "en": "Lac de la Gèmerie"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Seeoberfläche; die überdachten Bereiche am Ufer bieten Schutz für einen letzten Blick auf das graue Wasser.",
+                "hu": "Figyelje a víztükrön táncoló esőcseppeket a tónál; a parton található fedett részek alá húzódva szárazon élvezheti a szürkés, ködös táj nyugalmát.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața lacului; zonele acoperite de pe mal oferă protecție pentru o ultimă privire asupra apei liniștite.",
+                "en": "Watch the patterns of raindrops on the lake surface; the sheltered areas on the shore allow you to enjoy the misty view while staying relatively dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Bahnhof Arnage beginnt die Tour. Die Saint-Gilles Kirche bietet danach einen windgeschützten Ort der Stille. Mittags wärmen wir uns im L'Éolienne auf, bevor es zum winterlichen Parcours de la Gautrie geht. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Besuch am Lac de la Gèmerie für den frühen Nachmittag, um das letzte Tageslicht zu nutzen.",
+            "hu": "Deres reggel fogad minket az állomáson, kezdjük frissítő sétával a napot. A Saint-Gilles templom fala között szélvédett nyugalomra lelünk délelőtt. Délben a L'Éolienne fűtött tereiben pihenhetünk meg a hideg elől. A korai, délután 5 órai sötétedés miatt a Gautrie ösvényeit és a tavat még világosban járjuk be, réteges és meleg ruházatban, élvezve a téli táj csendjét.",
+            "ro": "O dimineață geroasă la Gara Arnage dă startul traseului. Biserica Saint-Gilles oferă apoi un loc liniștit și ferit de vântul tăios. La prânz ne încălzim în interiorul L'Éolienne, înainte de a parcurge potecile de iarnă din Gautrie. Deoarece soarele apune în jurul orei 17:00, vizităm Lacul Gèmerie devreme pentru a prinde ultimele raze de lumină.",
+            "en": "A frosty morning at Arnage station kicks off our walk. Saint-Gilles Church provides a wind-sheltered haven of peace shortly after. At noon, we warm up inside L'Éolienne before heading to the wintry Gautrie trails. Since the sun sets around 17:00, we visit Lac de la Gèmerie in the early afternoon to enjoy the final golden hour of daylight in the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Arnage",
+                "hu": "Arnage Vasútállomás",
+                "ro": "Gara Arnage",
+                "en": "Arnage Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um bei den eisigen Temperaturen warm zu bleiben; die frostigen Schienen bieten ein schönes Fotomotiv im frühen Morgenlicht.",
+                "hu": "Maradjon mozgásban a peronon, hogy megőrizze testhőjét a fagyos időben; a deres sínek látványa különleges fotótémát kínál a kora reggeli fényekben.",
+                "ro": "Rămâneți în mișcare pe peron pentru a vă menține căldura corporală; șinele înghețate oferă un cadru fotografic deosebit în lumina dimineții de iarnă.",
+                "en": "Keep moving on the platform to stay warm in the freezing air; the frost-covered tracks offer a unique photo opportunity in the early morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Wärme und den Schutz vor dem schneidenden Wind; die dicken Steinmauern isolieren gut gegen die winterliche Kälte draußen.",
+                "hu": "Élvezze a templom falai közötti szélvédett csendet; a vastag kőfalak jól szigetelnek, így bent sokkal kellemesebb az idő, mint a kinti fagyos szélben.",
+                "ro": "Bucurați-vă de liniștea ferită de vânt din interiorul bisericii; zidurile groase de piatră izolează bine împotriva frigului tăios de afară.",
+                "en": "Enjoy the wind-sheltered silence inside the church; the thick stone walls provide a good insulation against the biting winter cold outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum L'Éolienne",
+                "hu": "L'Éolienne Kulturális Központ",
+                "ro": "Centrul Cultural L'Éolienne",
+                "en": "L'Éolienne Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Ort für eine ausgiebige Aufwärmpause bei Kultur; die moderne Heizung macht den Aufenthalt hier zum gemütlichsten Teil des Tages.",
+                "hu": "Használja ki ezt a helyszínt egy hosszabb melegedő szünetre; a modern fűtésnek köszönhetően ez lesz a nap legkellemesebb és legkulturáltabb állomása.",
+                "ro": "Profitați de acest loc pentru o pauză lungă de încălzire; sistemul modern de încălzire face din această vizită cea mai confortabilă parte a zilei.",
+                "en": "Take advantage of this venue for a long warming break; the modern heating system makes this cultural visit the most comfortable part of your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Parcours de la Gautrie",
+                "hu": "Parcours de la Gautrie",
+                "ro": "Parcours de la Gautrie",
+                "en": "Parcours de la Gautrie"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen und glatte Stellen unter dem Laub; die kahlen Bäume bieten weite Sichtachsen durch den winterlichen Waldpark.",
+                "hu": "Vigyázzon a fagyott tócsákra és a levelek alatti jégfoltokra; a kopasz fák között ilyenkor messzebbre ellátni a téli erdő nyugodt ösvényein.",
+                "ro": "Atenție la bălțile înghețate și zonele alunecoase de sub frunziș; arborii desfrunziți permit o vizibilitate mai mare prin parcul forestier de iarnă.",
+                "en": "Watch out for frozen puddles and icy patches hidden under dead leaves; the bare trees offer clear views through the quiet winter forest park."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Gèmerie",
+                "hu": "Lac de la Gèmerie",
+                "ro": "Lac de la Gèmerie",
+                "en": "Lac de la Gèmerie"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die klare Winterluft am Seeufer vor Sonnenuntergang; ziehen Sie eine extra Schicht an, da die Kälte über der Wasserfläche stärker spürbar ist.",
+                "hu": "Élvezze a kristálytiszta téli levegőt a tóparton még naplemente előtt; vegyen fel plusz réteget, mert a vízfelület felett sokkal hidegebbnek érződik az idő.",
+                "ro": "Experimentați aerul curat de iarnă de pe malul lacului înainte de apus; puneți-vă un strat în plus de haine, deoarece frigul este mai intens lângă apă.",
+                "en": "Experience the crisp winter air by the lakeshore before sunset; wear an extra layer as the cold feels much sharper over the open water surface."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kora reggel tekerjen el a központi templomhoz, majd látogasson el a kulturális központba. Délben útja a békés Lac de la Gèmerie-hez vezet egy festői ebédszünetre. A délután izgalmakat tartogat a Wake Paradise és a legendás Circuit de la Sarthe révén. Az aktív napot egy csendes esti kerékpározás zárja a festői Sarthe folyó partján.",
         "ro": "Porniți devreme pe bicicletă spre biserica centrală înainte de a vizita centrul cultural. La prânz, traseul vă duce la liniștitul lac Gèmerie pentru o pauză pitorească. După-amiaza intensifică emoția la Wake Paradise și la legendarul circuit. Ziua activă se încheie cu o plimbare de seară pe malurile râului Sarthe.",
         "en": "Pedal out early to the central church before visiting the cultural centre to admire regional art. By midday, your ride takes you to the serene Lac de la Gèmerie for a picturesque lunch break. The afternoon ramps up the excitement at Wake Paradise and the legendary Circuit de la Sarthe. Your active day winds down with a tranquil evening ride along the picturesque Sarthe Riverbanks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch Arnage erfordert Vorsicht auf nassen Straßen. Wir starten an der Saint-Gilles Kirche und radeln zum L'Éolienne für eine trockene Pause. Die Fahrt zum Lac de la Gèmerie und zum Wake Paradise ist erfrischend, aber achten Sie auf Pfützen. Am Circuit de la Sarthe und den Ufern der Sarthe sind Schutzbleche ein Muss, um die Kleidung vor Spritzwasser zu schützen.",
+            "hu": "Az esős kerékpártúra Arnage-ban óvatosságot igényel a csúszós utakon. A Saint-Gilles templomtól indulunk, majd a L'Éolienne felé vesszük az irányt egy száraz pihenőre. A tónál és a Wake Paradise-nál frissítő a tekerés, de vigyázzunk a pocsolyákra. A versenypályánál és a folyóparton sárvédő használata kötelező, hogy megvédjük ruházatunkat a felverődő víztől és sártól.",
+            "ro": "O tură cu bicicleta prin Arnage pe ploaie necesită prudență pe carosabilul umed. Începem la Biserica Saint-Gilles și pedalăm spre L'Éolienne pentru o pauză uscată. Drumul spre Lacul Gèmerie și Wake Paradise este răcoros, dar atenție la bălți. La Circuit de la Sarthe și pe malurile râului, aripile la bicicletă sunt esențiale pentru a vă proteja hainele de stropi.",
+            "en": "A rainy bike tour through Arnage demands extra caution on the wet asphalt. We start at Saint-Gilles Church and head to L'Éolienne for a dry break. The ride to the lake and Wake Paradise is refreshing, but watch out for deep puddles. Near the race track and the riverbanks, mudguards are essential to protect your clothing from the splashing water and mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Windschatten und nutzen Sie die Kirche als ersten trockenen Stopp; prüfen Sie hier noch einmal Ihre Bremsen für die nasse Abfahrt.",
+                "hu": "Parkoljon szélvédett helyen, és használja a templomot az első száraz pihenőre; ellenőrizze itt a fékeket a vizes utakon való további közlekedés előtt.",
+                "ro": "Parcați bicicleta la adăpost și folosiți biserica ca prim popas uscat; verificați frânele aici pentru a fi sigur că funcționează optim pe carosabil ud.",
+                "en": "Park your bike in a sheltered spot and use the church as your first dry stop; double-check your brakes here for safe riding on the wet roads ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum L'Éolienne",
+                "hu": "L'Éolienne Kulturális Központ",
+                "ro": "Centrul Cultural L'Éolienne",
+                "en": "L'Éolienne Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause, um die Regenjacke zu lüften; nutzen Sie die Fahrradständer nah am Eingang, um schnell ins warme Trockene zu gelangen.",
+                "hu": "Ideális helyszín egy hosszabb pihenőre a vizes ruhák átszellőztetéséhez; használja a bejárat közeli tárolókat, hogy gyorsan a száraz belsőbe juthasson.",
+                "ro": "Ideal pentru o pauză lungă unde vă puteți aerisi pelerina de ploaie; folosiți rastelele de lângă intrare pentru a ajunge rapid la adăpostul cald.",
+                "en": "Ideal for a longer break to air out your rain jacket; use the bike racks near the entrance to quickly get inside the warm and dry cultural hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Gèmerie",
+                "hu": "Lac de la Gèmerie",
+                "ro": "Lac de la Gèmerie",
+                "en": "Lac de la Gèmerie"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am See kann rutschig sein; fahren Sie vorsichtig und genießen Sie die mystische Stimmung des Sees im prasselnden Regen.",
+                "hu": "A tó körüli kerékpárút csúszós lehet; tekerjen óvatosan, és élvezze a táj misztikus hangulatát a vízfelszínre hulló sűrű esőcseppek közepette.",
+                "ro": "Pista de biciclete din jurul lacului poate fi alunecoasă; pedalați cu atenție și bucurați-vă de atmosfera mistică a lacului sub ploaia deasă.",
+                "en": "The cycling path around the lake can be slippery; ride cautiously and enjoy the mystical atmosphere of the misty water in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wake Paradise",
+                "hu": "Wake Paradise",
+                "ro": "Wake Paradise",
+                "en": "Wake Paradise"
+              },
+              "tip_5lang": {
+                "de": "Auch bei Regen ein interessanter Anblick, wenn Profis trainieren; achten Sie auf nasse Holzstege, die für Fahrradreifen sehr gefährlich sind.",
+                "hu": "Esőben is izgalmas látvány, ahogy a profik edzenek; vigyázzon a vizes fapallókra, mert azok rendkívül veszélyesek a vékony kerékpárgumik számára.",
+                "ro": "O priveliște interesantă chiar și pe ploaie când se antrenează profesioniștii; atenție la platformele de lemn ude, care sunt foarte periculoase pentru cauciucuri.",
+                "en": "An interesting sight even in the rain when pros are training; watch out for wet wooden decks, which are extremely hazardous for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Circuit de la Sarthe",
+                "hu": "Circuit de la Sarthe",
+                "ro": "Circuit de la Sarthe",
+                "en": "Circuit de la Sarthe"
+              },
+              "tip_5lang": {
+                "de": "Die weite Asphaltfläche wirkt im Regen besonders imposant; halten Sie auf den befestigten Radwegen, um Spritzwasser von Autos zu vermeiden.",
+                "hu": "A hatalmas aszfaltfelület esőben különösen lenyűgöző látvány; maradjon a kijelölt kerékpárúton, hogy elkerülje az autók által felvert vizet.",
+                "ro": "Suprafața vastă de asfalt arată impunător pe ploaie; rămâneți pe pistele marcate pentru a evita stropii aruncați de mașinile care trec prin zonă.",
+                "en": "The vast asphalt surface looks particularly imposing in the rain; stay on the designated bike paths to avoid spray from passing vehicles."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Sarthe",
+                "hu": "Sarthe folyópart",
+                "ro": "Malurile râului Sarthe",
+                "en": "Sarthe Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg ist bei Regen oft matschig; reduzieren Sie Ihr Tempo und genießen Sie den Anblick des schnell fließenden, grauen Flusses.",
+                "hu": "A folyóparti út esőben gyakran sáros és latyakos; lassítson le, és csodálja meg a gyorsan áramló, szürke folyó vadregényes látványát.",
+                "ro": "Poteca de pe malul râului este adesea noroioasă pe ploaie; reduceți viteza și admirați cursul rapid și cenușiu al râului de la adăpostul pelerinei.",
+                "en": "The riverside path is often muddy when it rains; reduce your speed and enjoy the sight of the fast-flowing, grey river from under your hood."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Arnage erfordert warme Handschuhe gegen den Fahrtwind. Von der Kirche geht es zum L'Éolienne, wo wir uns ausgiebig aufwärmen. Die Fahrt zum See und zum Circuit ist bei klarer Winterluft herrlich, aber Vorsicht vor Bodenfrost in schattigen Kurven. Beenden Sie die Tour an den Sarthe-Ufern vor 17:00 Uhr, da die Sicht bei Dunkelheit stark abnimmt.",
+            "hu": "A téli kerékpározás Arnage-ban meleg kesztyűt és réteges öltözetet igényel a menetszél miatt. A templomtól a L'Éolienne felé haladunk, ahol jól átmelegedhetünk. A tó és a versenypálya környéke gyönyörű a tiszta téli levegőben, de a kanyarokban vigyázzunk a lefagyásokra. A folyóparti tekerést fejezzük be délután 5 előtt, mert utána a látótávolság drasztikusan lecsökken.",
+            "ro": "Ciclismul de iarnă în Arnage necesită mănuși groase împotriva curentului de aer rece. De la biserică mergem spre L'Éolienne pentru a ne încălzi bine. Drumul spre lac și circuit este superb în aerul curat, dar atenție la porțiunile de îngheț în curbele umbrite. Încheiați tura pe malul râului înainte de ora 17:00, deoarece vizibilitatea scade mult după apus.",
+            "en": "Winter cycling in Arnage requires warm gloves and layers against the biting wind chill. From the church, we head to L'Éolienne for a solid warming break. The ride to the lake and the circuit is beautiful in the crisp air, but watch out for black ice in shaded corners. Finish your riverbank ride before 17:00, as visibility drops significantly once the sun goes down."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum für eine erste Pause; die Kälte zieht beim Radfahren schnell in die Glieder, also bleiben Sie kurz stehen.",
+                "hu": "Használja ki a szélvédett belső teret egy első pihenőre; tekerés közben a hideg gyorsan átjárja az embert, így jól fog esni a benti nyugalom.",
+                "ro": "Folosiți interiorul ferit de vânt pentru o primă pauză; frigul pătrunde repede în oase când pedalați, așa că opriți-vă puțin pentru a vă relaxa.",
+                "en": "Take advantage of the wind-sheltered interior for your first break; the cold bites quickly while cycling, so a short stop will help you recover."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum L'Éolienne",
+                "hu": "L'Éolienne Kulturális Központ",
+                "ro": "Centrul Cultural L'Éolienne",
+                "en": "L'Éolienne Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für eine lange Aufwärmpause; das Gebäude ist gut isoliert und bietet interessante Kultur, während draußen der eisige Wind weht.",
+                "hu": "A legjobb helyszín egy hosszú melegedő szünetre; az épület jól hőszigetelt és izgalmas tárlatokat kínál, amíg kint az északi szél fúj.",
+                "ro": "Cel mai bun loc pentru o pauză lungă de încălzire; clădirea este bine izolată și oferă expoziții interesante în timp ce afară suflă vântul înghețat.",
+                "en": "The best place for a long warming break; the building is well-insulated and offers interesting culture while the icy wind blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Gèmerie",
+                "hu": "Lac de la Gèmerie",
+                "ro": "Lac de la Gèmerie",
+                "en": "Lac de la Gèmerie"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den ufernahen Wegen, die gefroren sein könnten; die tiefstehende Wintersonne spiegelt sich herrlich auf dem Wasser.",
+                "hu": "Tekerjen óvatosan a tóparti utakon, mert a burkolat jeges lehet; az alacsonyan járó téli nap sugaraiban gyönyörűen csillog a jéghideg víz.",
+                "ro": "Pedalați cu prudență pe drumurile de lângă mal care pot fi înghețate; soarele de iarnă reflectat în apă oferă un spectacol vizual deosebit.",
+                "en": "Ride cautiously on the lakeside paths as the pavement might be icy; the low winter sun reflects beautifully on the freezing water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Wake Paradise",
+                "hu": "Wake Paradise",
+                "ro": "Wake Paradise",
+                "en": "Wake Paradise"
+              },
+              "tip_5lang": {
+                "de": "In der Winterruhe wirkt die Anlage fast surreal; achten Sie auf Raureif auf Ihrem Sattel und Ihren Lenkergriffen bei längeren Stopps.",
+                "hu": "A téli nyugalomban a létesítmény szinte szürreálisnak hat; vigyázzon a zúzmarára a nyergen és a kormányon, ha hosszabb időre megáll nézelődni.",
+                "ro": "În liniștea iernii, complexul pare aproape ireal; atenție la chiciura depusă pe șa și pe mânerele ghidonului în timpul popasurilor mai lungi.",
+                "en": "In the winter stillness, the facility feels almost surreal; watch out for hoarfrost on your saddle and handlebars during longer photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Circuit de la Sarthe",
+                "hu": "Circuit de la Sarthe",
+                "ro": "Circuit de la Sarthe",
+                "en": "Circuit de la Sarthe"
+              },
+              "tip_5lang": {
+                "de": "Der Fahrtwind auf der langen Geraden ist im Winter extrem kalt; tragen Sie ein Halstuch oder einen Buff, um Ihr Gesicht vor Frost zu schützen.",
+                "hu": "A menetszél a hosszú egyenesekben télen extrém hideg; viseljen sálat vagy csősálat, hogy megvédje arcát és torkát a fagyos levegőtől.",
+                "ro": "Curentul de aer pe liniile drepte este extrem de rece iarna; purtați un fular sau un buff pentru a vă proteja fața de îngheț în timpul rulării.",
+                "en": "The wind chill on the long straights is extremely cold in winter; wear a neck gaiter or a buff to protect your face from the freezing draft."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Sarthe",
+                "hu": "Sarthe folyópart",
+                "ro": "Malurile râului Sarthe",
+                "en": "Sarthe Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht durch das fehlende Laub; kehren Sie um, bevor es dunkel wird, da die Wege am Fluss nicht beleuchtet sind.",
+                "hu": "Élvezze a tiszta kilátást a lombok hiánya miatt; induljon vissza még sötétedés előtt, mert a folyóparti ösvények nincsenek kivilágítva.",
+                "ro": "Bucurați-vă de vizibilitatea sporită datorată lipsei frunzișului; întorceți-vă înainte de lăsarea întunericului, deoarece malul nu este iluminat.",
+                "en": "Enjoy the clear views through the bare branches; head back before it gets dark, as the riverside paths are not equipped with street lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon Arnage szívébe, hogy megcsodálja a főtemplom klasszikus építészetét, mielőtt a híres versenypályára indulna. Délben a Spaycific'Zoo interaktív csodái várják a családot. Az izgalmas délutánt a BattleKart high-tech versenyei dobják fel. Zárja a kirándulást egy laza naplementével a csendes Lac de la Gèmerie és a folyó mentén.",
         "ro": "Conduceți în inima orașului Arnage pentru a admira biserica principală înainte de a vă îndrepta spre celebrul circuit. Prânzul aduce minunile interactive de la Spaycific'Zoo. O după-amiază captivantă vă așteaptă cu cursele de la BattleKart. Încheiați călătoria cu un apus relaxant la Lacul Gèmerie și pe malul râului.",
         "en": "Drive into the heart of Arnage to admire the classic architecture of the main church before heading to the famous race circuit. Midday brings you to the interactive wonders of Spaycific'Zoo where the whole family can engage. An exciting afternoon awaits with high-tech races at BattleKart. Wind down your road trip with a relaxed sunset view across the calm Lac de la Gèmerie and the river."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Arnage auch bei starkem Regen bequem zu erkunden. Wir besuchen die Saint-Gilles Kirche und den Circuit de la Sarthe, wo man den Regen vom Wagen aus beobachten kann. Spaycific'Zoo erfordert einen Schirm für die Außenbereiche, während BattleKart die perfekte Indoor-Action bietet. Den Tag lassen wir mit einer Fahrt entlang der Sarthe-Ufer im trockenen Fahrzeug ausklingen.",
+            "hu": "Autóval Arnage még heves esőzésben is kényelmesen felfedezhető. Meglátogatjuk a templomot és a versenypályát, ahol a kocsiból is csodálhatjuk a vizes aszfaltot. A Spaycific'Zoo-hoz esernyő kell a külső részekre, de a BattleKart tökéletes fedett programot nyújt. A napot a folyóparti autózással zárjuk, élvezve a tájat a száraz és fűtött utastér biztonságából.",
+            "ro": "Cu mașina, Arnage este ușor de explorat chiar și pe ploaie torențială. Vizităm biserica și Circuit de la Sarthe, unde puteți vedea pista prin parbriz. Spaycific'Zoo necesită umbrelă pentru zonele exterioare, în timp ce BattleKart oferă distracție ideală la interior. Încheiem ziua cu o plimbare pe malul râului Sarthe, rămânând la adăpost în interiorul vehiculului.",
+            "en": "Exploring Arnage by car is the most comfortable option during heavy rain. We visit the church and the race track, where you can watch the downpour from your window. Spaycific'Zoo requires an umbrella for outdoor areas, but BattleKart offers perfect indoor racing fun. Finish your day with a scenic drive along the riverbanks, staying completely dry inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um den Weg im Regen kurz zu halten; im Inneren finden Sie Schutz und eine beeindruckende, ruhige Atmosphäre.",
+                "hu": "Parkoljon közvetlenül a bejárat közelében, hogy lerövidítse az esőben megtett utat; bent nyugalom és lenyűgöző szakrális környezet várja.",
+                "ro": "Parcați chiar lângă intrare pentru a scurta drumul prin ploaie; în interior veți găsi adăpost și o atmosferă liniștită și impresionantă.",
+                "en": "Park as close as possible to the entrance to minimize walking in the rain; inside you will find shelter and an impressive, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Circuit de la Sarthe",
+                "hu": "Circuit de la Sarthe",
+                "ro": "Circuit de la Sarthe",
+                "en": "Circuit de la Sarthe"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Rennstrecke durch die Scheibenwischer; das Licht spiegelt sich bei Regen spektakulär auf dem glatten, schwarzen Asphalt.",
+                "hu": "Figyelje a versenypályát az ablaktörlők mögül; az esőben megcsillanó fények látványosan verődnek vissza a tükörsima, fekete aszfaltról.",
+                "ro": "Observați circuitul prin parbrizul mașinii; lumina se reflectă spectaculos pe asfaltul negru și umed în timpul unei ploi torențiale de vară.",
+                "en": "Watch the race track through your windshield wipers; the lights reflect spectacularly on the smooth, black asphalt during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Spaycific'Zoo",
+                "hu": "Spaycific'Zoo",
+                "ro": "Spaycific'Zoo",
+                "en": "Spaycific'Zoo"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen stabilen Regenschirm mit, da viele Wege unbedacht sind; einige Tierhäuser bieten jedoch gute Unterstände bei starken Schauern.",
+                "hu": "Vigyen magával stabil esernyőt, mivel sok ösvény nem fedett; szerencsére több állatház is kiváló menedéket nyújt a hevesebb záporok idején.",
+                "ro": "Luați o umbrelă rezistentă deoarece multe poteci nu sunt acoperite; totuși, unele pavilioane oferă adăpost bun în timpul averselor puternice.",
+                "en": "Take a sturdy umbrella as many paths are uncovered; fortunately, several animal houses provide excellent shelter during heavier rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "BattleKart",
+                "hu": "BattleKart",
+                "ro": "BattleKart",
+                "en": "BattleKart"
+              },
+              "tip_5lang": {
+                "de": "Die ultimative Rettung an einem Regentag; genießen Sie Highspeed-Action in einer komplett trockenen und hell beleuchteten Indoor-Halle.",
+                "hu": "A végső mentsvár egy esős napon; élvezze a nagysebességű gokartozást egy teljesen száraz és világos, fedett csarnok biztonságában.",
+                "ro": "Salvarea supremă pentru o zi ploioasă; bucurați-vă de acțiune la viteză mare într-o hală acoperită, complet uscată și bine iluminată.",
+                "en": "The ultimate rescue for a rainy day; enjoy high-speed racing action in a completely dry and brightly lit indoor hall with friends or family."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Gèmerie",
+                "hu": "Lac de la Gèmerie",
+                "ro": "Lac de la Gèmerie",
+                "en": "Lac de la Gèmerie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den grauen See gemütlich vom warmen Beifahrersitz aus; die Parkplätze bieten oft eine gute Sicht auf das Wasser.",
+                "hu": "Élvezze a kilátást a szürke tóra kényelmesen a fűtött utasülésből; a parkolók többsége jó rálátást biztosít a vízfelszínre esőben is.",
+                "ro": "Admirați lacul cenușiu din confortul scaunului încălzit al mașinii; parcările oferă adesea o vizibilitate bună asupra apei chiar și pe ploaie.",
+                "en": "Enjoy the view of the grey lake comfortably from your heated passenger seat; most parking spots offer a good direct view of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Sarthe",
+                "hu": "Sarthe folyópart",
+                "ro": "Malurile râului Sarthe",
+                "en": "Sarthe Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Eine langsame Panoramafahrt am Flussufer ist der perfekte Abschluss; bleiben Sie trocken im Wagen, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Egy lassú panorámaautózás a folyóparton a tökéletes befejezés; maradjon szárazon a kocsiban, miközben hallgatja a tetőn kopogó esőt.",
+                "ro": "O plimbare panoramică lentă pe malul râului este finalul perfect; rămâneți la uscat în mașină în timp ce ploaia bate ușor în plafon.",
+                "en": "A slow panoramic drive along the riverbank is the perfect conclusion; stay dry in your car while listening to the rain drumming on the roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Arnage im Winter lässt sich am besten mit der Sitzheizung erkunden. Nach der Saint-Gilles Kirche fahren wir zum Circuit de la Sarthe für winterliche Fotos. Spaycific'Zoo zeigt Tiere im Winterquartier, bevor BattleKart uns ordentlich aufheizt. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour mit einer Fahrt entlang der beleuchteten Straßen nahe der Sarthe-Ufer.",
+            "hu": "A téli Arnage felfedezéséhez a legjobb társ az ülésfűtés. A templom után a versenypálya felé autózunk különleges téli fotókért. A Spaycific'Zoo-ban megnézzük a téli szálláson lévő állatokat, majd a BattleKart garantáltan felmelegít minket. A délután 5 órai sötétedés miatt a napot a folyóparti utak esti fényeiben való autózással zárjuk.",
+            "ro": "Arnage iarna se explorează cel mai bine cu încălzirea pornită în mașină. După biserică, mergem la circuit pentru fotografii de iarnă inedite. Spaycific'Zoo oferă o privire asupra animalelor în cartierul de iarnă, apoi BattleKart ne va încălzi cu siguranță. Deoarece se întunecă la ora 17:00, încheiem cu o plimbare pe străzile luminate de lângă râu.",
+            "en": "Winter in Arnage is best enjoyed with the car's heater on full blast. After the church, we drive to the circuit for unique wintry photos. Spaycific'Zoo lets you see animals in their winter quarters, then BattleKart provides high-energy indoor heat. Since it gets dark by 17:00, we finish the day driving through the illuminated streets near the riverbanks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Innenraum, um der Kälte kurz zu entfliehen; die Ruhe der Kirche passt wunderbar zur besinnlichen Winterzeit.",
+                "hu": "Használja ki a szélcsendes belső teret, hogy rövid időre elmeneküljön a fagy elől; a templom csendje jól illik a téli időszak hangulatához.",
+                "ro": "Folosiți interiorul ferit de vânt pentru a scăpa scurt de ger; liniștea bisericii se potrivește perfect cu atmosfera calmă de iarnă.",
+                "en": "Use the windless interior to briefly escape the frost; the church's silence perfectly matches the contemplative atmosphere of the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Circuit de la Sarthe",
+                "hu": "Circuit de la Sarthe",
+                "ro": "Circuit de la Sarthe",
+                "en": "Circuit de la Sarthe"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht über die Strecke; parken Sie kurz für ein Foto der legendären Kurven im harten Winterlicht.",
+                "hu": "A tiszta téli levegő messzire engedi a tekintetet a pályán; álljon meg egy fotóra a legendás kanyaroknál a kemény téli fényekben.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate mare asupra pistei; opriți puțin pentru o fotografie a curbelor legendare în lumina tăioasă a iernii.",
+                "en": "The crisp winter air allows for far-reaching views across the track; stop for a photo of the legendary corners in the sharp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Spaycific'Zoo",
+                "hu": "Spaycific'Zoo",
+                "ro": "Spaycific'Zoo",
+                "en": "Spaycific'Zoo"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Winteröffnungszeiten; viele Tiere sind in geheizten Innengehegen zu sehen, was für einen warmen Rundgang sorgt.",
+                "hu": "Indulás előtt ellenőrizze a téli nyitvatartást; sok állat ilyenkor a fűtött házakban látható, ami melegebb sétaélményt biztosít a látogatóknak.",
+                "ro": "Verificați programul de iarnă înainte de vizită; multe animale pot fi văzute în pavilioanele încălzite, asigurând un traseu mai cald.",
+                "en": "Check the winter opening hours before you go; many animals can be seen in heated indoor enclosures, ensuring a warmer visit for you."
+              }
+            },
+            {
+              "name": {
+                "de": "BattleKart",
+                "hu": "BattleKart",
+                "ro": "BattleKart",
+                "en": "BattleKart"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um das Blut wieder in Wallung zu bringen; die beheizte Halle ist der ideale Ort für Action, wenn es draußen friert.",
+                "hu": "Tökéletes helyszín, hogy újra felpezsdítse a vérét; a fűtött csarnok az ideális választás az akcióhoz, amikor kint röpködnek a mínuszok.",
+                "ro": "Locul perfect pentru a vă pune sângele în mișcare; hala încălzită este locația ideală pentru acțiune atunci când afară este ger năpraznic.",
+                "en": "The perfect spot to get your adrenaline pumping; the heated hall is the ideal location for action when it is freezing cold outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Gèmerie",
+                "hu": "Lac de la Gèmerie",
+                "ro": "Lac de la Gèmerie",
+                "en": "Lac de la Gèmerie"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See bietet bei Frost einen magischen Anblick; bleiben Sie für den Ausblick im warmen Auto, da der Wind hier sehr kalt weht.",
+                "hu": "A befagyott tó látványa fagyos időben varázslatos; maradjon a fűtött autóban a nézelődéshez, mert a szél itt nagyon hidegen fúj a víz felől.",
+                "ro": "Lacul înghețat oferă o priveliște magică pe timp de ger; rămâneți în mașina caldă pentru a admira peisajul, deoarece vântul suflă rece aici.",
+                "en": "The frozen lake offers a magical sight during cold spells; stay in your warm car for the view as the wind blows very cold over the open ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Sarthe",
+                "hu": "Sarthe folyópart",
+                "ro": "Malurile râului Sarthe",
+                "en": "Sarthe Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Fahrt im Dunkeln; die Lichter der Stadt spiegeln sich im kalten Flusswasser und sorgen für ein schönes Ende.",
+                "hu": "Zárja a napot egy esti autózással; a város fényei megcsillannak a hideg folyóvízen, meghitt befejezést nyújtva a téli kirándulásnak.",
+                "ro": "Încheiați ziua cu o plimbare după apus; luminile orașului se oglindesc în apa rece a râului, oferind un final frumos excursiei de iarnă.",
+                "en": "End the day with a scenic night drive; the city lights reflect in the cold river water, providing a cozy conclusion to your winter trip."
+              }
+            }
+          ]
+        }
       }
     }
   }

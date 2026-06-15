@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot a friss tengerparti levegőn a békés Chapelle Notre-Dame des Sables felfedezésével. Innen tegyen egy lassú, pihentető sétát a Grève de Minieu felé, miközben élvezi a homokos partokon és lágy hullámokon megcsillanó kora reggeli napfény szépségét.\nMidday: Ahogy a nap egyre magasabbra hág, menjen tovább a lélegzetelállító Point de vue felé, ahonnan páratlan kilátás nyílik a breton partvidékre. Később merüljön el a régió gazdag történelmében az Ancien moulin de la Hunaudaye-nál, megismerve a régi mezőgazdaságot.\nAfternoon: Töltse a délutánt az Église Saint-Pierre felé vezető hangulatos utcák felfedezésével, amely tökéletes hely a helyi építészet megcsodálására. A beljebb fekvő útvonal elragadó kontrasztot nyújt a délelőtt megismert szélfútta tengerparti ösvényekhez képest.\nEvening: Utazását a város déli részén található történelmi szélmalmok közelében fejezze be. A lemenő nap meleg aranyfénybe öltözteti ezeket a 18. századi építményeket, tökéletes és elgondolkodtató befejezést kínálva ennek a gyönyörű Sables-d'Or-les-Pins-i napnak.",
         "ro": "Morning: Începeți ziua respirând aerul proaspăt de coastă în timp ce descoperiți pașnica Chapelle Notre-Dame des Sables. De acolo, faceți o plimbare relaxantă spre Grève de Minieu, bucurându-vă de lumina moale a dimineții care se reflectă pe țărmul nisipos și valurile blânde.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre uluitorul Point de vue pentru o vedere panoramică asupra coastei bretone. Mai târziu, pătrundeți în istoria bogată a regiunii la Ancien moulin de la Hunaudaye, explorând cu admirație vechile practici agricole locale.\nAfternoon: Petreceți după-amiaza explorând străzile fermecătoare care duc la Église Saint-Pierre, un loc perfect pentru a aprecia arhitectura locală. Acest traseu situat puțin mai spre interior oferă un contrast încântător față de cărările de coastă bătute de vânt.\nEvening: Încheiați-vă călătoria plimbându-vă pe lângă morile de vânt istorice din partea de sud a orașului. Ora de aur aruncă o strălucire caldă asupra acestor structuri din secolul al XVIII-lea, oferind un final perfect și plin de reflecție pentru o zi superbă.",
         "en": "Morning: Start your day breathing in the fresh coastal air as you discover the peaceful Chapelle Notre-Dame des Sables. From there, take a slow and relaxing stroll toward the Grève de Minieu, enjoying the soft morning light reflecting off the sandy shores and gentle waves.\nMidday: As the sun climbs higher, transition towards the breathtaking Point de vue for an unparalleled view of the Breton coastline. Pause here to capture memories before diving into the region’s rich history at the Ancien moulin de la Hunaudaye, exploring ancient agricultural practices.\nAfternoon: Spend your afternoon exploring the charming streets that lead to Église Saint-Pierre, a perfect spot to appreciate local architecture and community spirit. The slightly inland route provides a delightful contrast to the windswept coastal paths of the morning.\nEvening: Conclude your journey by wandering near the historic windmills in the southern part of town. The golden hour casts a warm glow over these 18th-century structures, offering a perfect, reflective ending to your beautiful day in Sables-d'Or-les-Pins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die Kapelle als ersten Unterschlupf vor dem bretonischen Regen. Mittags führt der Weg entlang der Küste, wo die stürmische See bei grauem Himmel eine dramatische Kulisse bietet. Nachmittags erkunden wir die historischen Mühlen im Schutz der Bäume. Abends lassen wir den Tag bei der geschützten Dorfkirche ausklingen, während die Tropfen an die bunten Fenster klopfen.",
+            "hu": "A reggelt a kápolna csendes menedékében kezdjük, figyelve az eső kopogását. Délben a tengerparti sétányon a drámai szürke hullámok látványa kárpótol a nedves időért. Délután az öreg malom falai között találunk védelmet és történelmi hangulatot. Estére a falu templomához érünk, ahol a belső nyugalom feledteti a kinti barátságtalan, szeles időjárást és a csúszós ösvényeket.",
+            "ro": "Dimineața începe la capelă, un refugiu perfect împotriva ploii bretone. La prânz, plimbarea pe malul mării oferă un spectacol dramatic al valurilor sub cerul plumburiu. După-amiaza, explorăm vechile mori unde vegetația oferă o protecție naturală împotriva stropilor. Seara se încheie la biserica din sat, un spațiu cald și uscat ce oferă liniște după o zi umedă pe potecile de coastă.",
+            "en": "Morning starts at the chapel, providing a dry sanctuary from the Atlantic drizzle. At noon, the coastal walk reveals the dramatic beauty of the stormy sea under misty skies. Afternoon leads us to the old mills, where the stone walls offer shelter from the wind. Evening concludes at the village church, a peaceful indoor ending to a damp but atmospheric journey through the pines."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame des Sables",
+                "hu": "Chapelle Notre-Dame des Sables",
+                "ro": "Chapelle Notre-Dame des Sables",
+                "en": "Chapelle Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien im Inneren, während es draußen regnet; die Farben leuchten bei diffusem Licht besonders intensiv und die Kapelle bleibt angenehm trocken.",
+                "hu": "Csodálja meg a belső üvegablakokat, miközben kint esik; a szórt fényben a színek mélyebbek, a kápolna belseje pedig száraz menedéket nyújt a parti szél elől.",
+                "ro": "Admirați vitraliile în timp ce plouă afară; culorile sunt mai intense sub lumina difuză, iar capela oferă un adăpost perfect și uscat împotriva brizei umede.",
+                "en": "Admire the stained glass while it rains outside; the colors appear more vibrant in diffused light, and the chapel provides a perfect dry refuge from the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Grève de Minieu",
+                "hu": "Grève de Minieu",
+                "ro": "Grève de Minieu",
+                "en": "Grève de Minieu"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am nassen Sand ist herrlich belebend; tragen Sie unbedingt wasserfeste Schuhe, da der Boden nahe der Dünen bei Regen sehr schlammig werden kann.",
+                "hu": "A vizes homokon való séta frissítő élmény; viseljen vízálló bakancsot, mert a dűnék menti ösvények ilyenkor sárossá és csúszóssá válhatnak a gyalogosok számára.",
+                "ro": "O plimbare pe nisipul ud este revigorantă; purtați neapărat încălțăminte impermeabilă, deoarece potecile de lângă dune devin noroioase și alunecoase când plouă.",
+                "en": "A walk on the wet sand is refreshing; be sure to wear waterproof boots as the paths near the dunes can become quite muddy and slippery during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die aufgewühlte See; halten Sie Ihren Regenschirm gut fest, da die Böen hier oben an der Klippe bei Schlechtwetter sehr kräftig sind.",
+                "hu": "Élvezze a kilátást a felkorbácsolt tengerre; szorosan fogja az esernyőjét, mert a sziklafalnál a széllökések ilyenkor rendkívül erősek és kiszámíthatatlanok lehetnek.",
+                "ro": "Bucurați-vă de priveliștea mării agitate; țineți bine umbrela, deoarece rafalele de vânt de pe faleză pot fi foarte puternice și imprevizibile în timpul furtunii.",
+                "en": "Enjoy the view of the churning sea; hold your umbrella tightly, as the wind gusts up here on the cliff can be very strong and unpredictable during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien moulin de la Hunaudaye (1593)",
+                "hu": "Ancien moulin de la Hunaudaye (1593)",
+                "ro": "Ancien moulin de la Hunaudaye (1593)",
+                "en": "Ancien moulin de la Hunaudaye (1593)"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern der alten Mühle bieten Schutz; nutzen Sie die überdachten Bereiche, um die historische Architektur ohne nass zu werden im Detail zu studieren.",
+                "hu": "A malom masszív kőfalai védelmet nyújtanak; használja az áthidalókat és fedett részeket, hogy megcsodálja az építészetet anélkül, hogy bőrig ázna a hirtelen záporban.",
+                "ro": "Zidurile masive de piatră ale morii oferă adăpost; folosiți zonele acoperite pentru a studia detaliile arhitecturale fără a fi udat de aversa bruscă de ploaie.",
+                "en": "The massive stone walls of the mill offer shelter; use the covered areas to study the architectural details without getting soaked by the sudden coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im trockenen Kirchenschiff; die ruhige Atmosphäre ist ideal, um die nasse Kleidung kurz auszuschütteln und die Stille des Ortes zu genießen.",
+                "hu": "Zárja a túrát a száraz templomhajóban; a csendes légkör ideális, hogy lerázza a vizet az esőkabátjáról és élvezze a szakrális tér nyugalmát az eső elől menekülve.",
+                "ro": "Încheiați turul în interiorul uscat al bisericii; atmosfera liniștită este ideală pentru a scutura hainele ude și pentru a savura pacea locului ferit de ploaie.",
+                "en": "End your tour inside the dry church nave; the quiet atmosphere is perfect for shaking off the rain from your coat and enjoying the peace away from the wet streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Morgen frostig an der Kapelle, die einsam in den Dünen steht. Mittags wärmt uns die bleiche Sonne bei einem zügigen Marsch am weiten Strand. Nachmittags erkunden wir die Mühlen, bevor die Dämmerung den Himmel in Pastelltöne taucht. Da es bereits gegen 17:00 Uhr dunkel wird, bietet die beleuchtete Dorfkirche einen gemütlichen und sicheren Abschluss der Wanderung.",
+            "hu": "Télen a reggel fagyosan indul a dűnék közt magányosan álló kápolnánál. Délben a sápadt napsütés kísér minket a széles, néptelen tengerparton, ahol a hideg szél gyorsabb tempóra ösztönöz. Délután a malmok felé vesszük az irányt, mielőtt a korai szürkület leszállna. Mivel 17:00 körül már sötétedik, a kivilágított falusi templom meghitt és biztonságos befejezést nyújt.",
+            "ro": "Iarna, dimineața începe geroasă la capela izolată printre dune. La prânz, soarele palid ne însoțește pe plaja vastă și pustie, unde vântul rece impune un ritm de mers mai alert. După-amiaza explorăm morile înainte ca amurgul să coboare rapid. Deoarece se întunecă în jur de ora 17:00, biserica iluminată din sat oferă un final cald și sigur pentru această plimbare hibernală.",
+            "en": "In winter, the morning starts frosty at the lonely chapel among the dunes. At noon, the pale sun accompanies a brisk walk on the vast, empty beach where the cold wind keeps us moving. Afternoon is spent exploring the mills before twilight falls early. Since it gets dark around 17:00, the illuminated village church provides a cozy and safe conclusion to the hike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame des Sables",
+                "hu": "Chapelle Notre-Dame des Sables",
+                "ro": "Chapelle Notre-Dame des Sables",
+                "en": "Chapelle Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle früh, um die morgendliche Froststimmung auf den Dünen einzufangen; ziehen Sie sich warm an, da die Steinmauern im Winter die Kälte speichern.",
+                "hu": "Látogasson el ide korán, hogy elcsípje a reggeli zúzmarát a dűnéken; öltözzön rétegesen, mert a vastag kőfalak télen tartják a hideget a kápolna belsejében is.",
+                "ro": "Vizitați capela devreme pentru a surprinde chiciura pe dune; îmbrăcați-vă gros, deoarece zidurile de piatră rețin frigul în interiorul lăcașului pe timpul iernii.",
+                "en": "Visit the chapel early to catch the morning frost on the dunes; dress in layers, as the stone walls hold the winter cold inside the building even during the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Grève de Minieu",
+                "hu": "Grève de Minieu",
+                "ro": "Grève de Minieu",
+                "en": "Grève de Minieu"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und ideal für einen klärenden Spaziergang; tragen Sie eine winddichte Jacke gegen die eisige Brise vom Ärmelkanal.",
+                "hu": "A tengerpart télen szinte néptelen, tökéletes a frissítő sétához; viseljen szélálló kabátot a La Manche csatorna felől érkező metsző, fagyos szél ellen.",
+                "ro": "Plaja este aproape pustie iarna, ideală pentru o plimbare liniștită; purtați o jachetă rezistentă la vânt împotriva brizelor înghețate care vin dinspre Canalul Mânecii.",
+                "en": "The beach is nearly empty in winter, perfect for a clearing walk; wear a windproof jacket to protect yourself from the biting icy breezes coming off the English Channel."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist an kalten Wintertagen oft klarer; achten Sie auf vereiste Stellen auf den Pfaden zum Aussichtspunkt und nutzen Sie die niedrige Wintersonne für Fotos.",
+                "hu": "A kilátás a hideg téli napokon gyakran tisztább; ügyeljen a jeges foltokra az ösvényeken, és használja ki az alacsony téli napfényt a látványos tengeri fotókhoz.",
+                "ro": "Vizibilitatea este adesea mai clară în zilele reci de iarnă; atenție la porțiunile înghețate de pe poteci și folosiți lumina joasă a soarelui pentru fotografii spectaculoase.",
+                "en": "Visibility is often clearer on cold winter days; watch out for icy patches on the paths and take advantage of the low winter sun for spectacular coastal photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien moulin de la Hunaudaye (1593)",
+                "hu": "Ancien moulin de la Hunaudaye (1593)",
+                "ro": "Ancien moulin de la Hunaudaye (1593)",
+                "en": "Ancien moulin de la Hunaudaye (1593)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Mühle am frühen Nachmittag, bevor die Schatten länger werden; die alten Steine wirken im weichen Winterlicht besonders geschichtsträchtig und mystisch.",
+                "hu": "Látogassa meg a malmot kora délután, mielőtt a fények megnyúlnának; az ódon kövek a lágy téli világításban különösen titokzatos és történelmi hangulatot árasztanak.",
+                "ro": "Explorați moara după-amiaza devreme, înainte ca umbrele să se lungească; pietrele vechi par pline de istorie și mister sub lumina slabă a soarelui de iarnă.",
+                "en": "Explore the mill in the early afternoon before the shadows lengthen; the ancient stones look particularly historic and mystical under the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Kirche im letzten Tageslicht zu sehen; die windgeschützte Lage bietet einen warmen Moment vor der nächtlichen Kälte.",
+                "hu": "Érkezzen 17:00 előtt, hogy még az utolsó fényeknél lássa a templomot; a szélvédett belső tér melengető pihenőt kínál az éjszakai fagy beállta előtt.",
+                "ro": "Arribați înainte de ora 17:00 pentru a vedea biserica în ultima lumină a zilei; interiorul ferit de vânt oferă un moment de răgaz înainte de gerul nopții.",
+                "en": "Arrive before 17:00 to see the church in the last daylight; the sheltered interior offers a warming break before the nightly winter freeze sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Indítsa kerékpártúráját a lenyűgöző Chapelle Saint-Michel kápolnánál, és élvezze a hűs tengeri szellőt. Tekerjen el a Point de vue-höz, ahol felejthetetlen kilátás várja a zord tengerpartra és a hullámzó tengerre.\nMidday: Tekerjen tovább a Grève de Minieu-höz, egy csodálatos homokos strandhoz, amely ideális egy pihentető szünethez. Ezután látogasson el a bájos Chapelle Notre-Dame des Sables-hoz, amely egyszerű szépségével mélyen gyökerezik a helyi történelemben.\nAfternoon: Délután az útvonal a központban található történelmi Église Saint-Pierre-hez vezet, amely nyugodt elmélkedésre csábít. A község békés utcáin való kerékpározás kellemes változatosságot nyújt a forgalmas strandok után.\nEvening: A nap fénypontjaként az Ancien Moulin de l'Epine következik, amelynek történelmi romjai varázslatos hangulatot árasztanak az esti fényekben. Élvezze a csendet ezen a helyen, mielőtt befejezné eseménydús kirándulását.",
         "ro": "Morning: Începeți turul cu bicicleta la impresionanta Chapelle Saint-Michel și bucurați-vă de briza răcoroasă a mării. Pedalați spre Point de vue, unde vă așteaptă priveliști de neuitat asupra coastei stâncoase și a valurilor agitate.\nMidday: Continuați spre Grève de Minieu, o plajă de nisip magnifică, ideală pentru o pauză relaxantă. Apoi vizitați fermecătoarea Chapelle Notre-Dame des Sables, care este profund ancorată în istoria locală cu frumusețea sa simplă.\nAfternoon: După-amiaza, traseul vă duce la istorica Église Saint-Pierre din centrul orașului, care invită la o reflecție liniștită. Plimbarea pe străzile pașnice ale comunității oferă o schimbare binevenită față de zona aglomerată de plajă.\nEvening: Punctul culminant îl reprezintă Ancien Moulin de l'Epine, ale cărui ruine istorice emană o atmosferă magică în lumina serii. Bucurați-vă de liniștea acestui loc înainte de a vă încheia ziua plină de evenimente.",
         "en": "Morning: Start your cycling tour at the striking Chapelle Saint-Michel, enjoying the cool sea breeze. Ride down to the Point de vue, where you will be rewarded with unforgettable sights of the rugged coastline and crashing waves.\nMidday: Pedal onward to the Grève de Minieu, a magnificent sandy beach ideal for a restful break. Afterward, visit the charming Chapelle Notre-Dame des Sables, a spot deeply rooted in local history with its simple, elegant beauty.\nAfternoon: In the afternoon, your route brings you to the historic Église Saint-Pierre in the town center, inviting quiet reflection. Riding through the peaceful streets of the community provides a pleasant change of pace from the busy beachfront.\nEvening: The grand finale is the Ancien Moulin de l'Epine, whose historical ruins radiate a magical atmosphere in the evening light. Relish the tranquility of this location before drawing your eventful day to a perfect close."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour an der Kapelle Saint-Michel, wo der Asphalt bei Regen rutschig sein kann. Mittags radeln wir vorsichtig zu den Aussichtspunkten, während der Wind die Tropfen peitscht. Nachmittags suchen wir Schutz in den Gassen des Ortes und besuchen die Kapelle Notre-Dame. Der Tag endet mit einer ruhigen Fahrt zur Kirche Saint-Pierre, wobei wir Pfützen und nasse Waldwege meiden.",
+            "hu": "A kerékpártúrát a Saint-Michel kápolnánál kezdjük, ahol az esőtől csúszóssá válhat az aszfalt. Délben óvatosan tekerünk a kilátópontok felé, miközben a szél korbácsolja az esőcseppeket. Délután a település utcáin keresünk menedéket, érintve a Notre-Dame kápolnát. A napot a Saint-Pierre templom felé vezető nyugodt gurulással zárjuk, kerülve a mélyebb tócsákat.",
+            "ro": "Începem turul cu bicicleta la capela Saint-Michel, unde asfaltul poate deveni alunecos din cauza ploii. La prânz pedalăm cu atenție spre punctele de belvedere, în timp ce vântul biciuiește stropii. După-amiaza căutăm adăpost pe străzile localității, vizitând capela Notre-Dame. Ziua se încheie cu o deplasare calmă spre biserica Saint-Pierre, evitând bălțile mari.",
+            "en": "We start the bike tour at Saint-Michel chapel, where the wet asphalt requires extra caution. At noon, we pedal carefully to the viewpoints while the wind whips the raindrops. Afternoon is spent seeking shelter in the town streets, visiting Notre-Dame chapel. The day ends with a steady ride to Saint-Pierre church, avoiding deep puddles and slippery forest paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt von der Kapelle; der nasse Untergrund erfordert einen längeren Bremsweg auf den abschüssigen Wegen zum Meer hinunter.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a vizes aszfalt hosszabb féktávot igényel a tenger felé lejtő utakon, ezért óvatosan adagolja a fékerőt a kanyarokban.",
+                "ro": "Verificați frânele înainte de a pleca; asfaltul ud necesită o distanță de frânare mai mare pe drumurile în pantă spre mare, deci pedalați cu prudență sporită.",
+                "en": "Check your brakes before departing; the wet surface requires a longer braking distance on the downhill paths toward the sea, so pedal with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto der stürmischen Küste; der Boden am Aussichtspunkt ist bei Regen schlammig, parken Sie Ihr Rad auf festem, asphaltiertem Untergrund.",
+                "hu": "Csak rövid időre álljon meg fotózni a viharos partot; a kilátónál a talaj sáros lehet, ezért a kerékpárt inkább szilárd, aszfaltozott felületen támassza le.",
+                "ro": "Opriți doar scurt pentru o fotografie a coastei furtunoase; terenul la belvedere este noroios, așa că parcați bicicleta pe o suprafață solidă, asfaltată.",
+                "en": "Stop only briefly for a photo of the stormy coast; the ground at the viewpoint is muddy, so park your bike on a solid, paved surface to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Grève de Minieu",
+                "hu": "Grève de Minieu",
+                "ro": "Grève de Minieu",
+                "en": "Grève de Minieu"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt auf den nassen Sand zu fahren; parken Sie oben an der Promenade und genießen Sie den Blick auf die regenverhangene Bucht.",
+                "hu": "Kerülje a vizes homokon való kerékpározást; parkoljon le fent a sétányon, és onnan csodálja meg az eső áztatta öböl drámai és monumentális látványát.",
+                "ro": "Evitați să pedalați direct pe nisipul ud; parcați sus pe faleză și admirați de acolo vederea spre golful învăluit de ploaie și cețuri marine.",
+                "en": "Avoid cycling directly on the wet sand; park your bike up on the promenade and enjoy the view of the rain-shrouded bay from a safe, dry distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame des Sables",
+                "hu": "Chapelle Notre-Dame des Sables",
+                "ro": "Chapelle Notre-Dame des Sables",
+                "en": "Chapelle Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regen kurz abzuwarten; stellen Sie Ihr Rad unter die Pinien und nutzen Sie den Innenraum für eine kurze, trockene Verschnaufpause.",
+                "hu": "Tökéletes hely egy rövid pihenőre az eső elől; támassza a bringát a fenyők alá, és használja a belső teret egy száraz, csendes szusszanásra a tekerés közben.",
+                "ro": "Un loc ideal pentru o scurtă pauză ferită de ploaie; lăsați bicicleta sub pini și folosiți interiorul pentru un moment de odihnă uscat și liniștit.",
+                "en": "A perfect spot for a short break from the rain; park your bike under the pines and use the interior for a dry, peaceful breather during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Ort, da das Kopfsteinpflaster rutschig ist; die Kirche bietet am Ende der nassen Tour einen ehrwürdigen und schützenden Rahmen.",
+                "hu": "Hajtson lassan a településen, mert a nedves macskakő csúszós lehet; a templom méltóságteljes és védett környezetet nyújt a vizes túra végén.",
+                "ro": "Pedalați încet prin localitate, deoarece pavajul ud este alunecos; biserica oferă un cadru demn și protejat la finalul acestui tur umed cu bicicleta.",
+                "en": "Ride slowly through the village as the wet cobblestones can be slippery; the church offers a dignified and sheltered environment at the end of your wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Moulin de l'Epine (1785)",
+                "hu": "Ancien Moulin de l'Epine (1785)",
+                "ro": "Ancien Moulin de l'Epine (1785)",
+                "en": "Ancien Moulin de l'Epine (1785)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mauern der Mühle als Windschutz; bei starkem Regen ist die historische Kulisse besonders stimmungsvoll für ein schnelles Foto, bevor es weitergeht.",
+                "hu": "Használja a malom falait szélfogónak; heves esőben a történelmi környezet különösen hangulatos egy gyors fotóhoz, mielőtt visszaindulna a szállására.",
+                "ro": "Folosiți zidurile morii ca paravan împotriva vântului; pe ploaie puternică, decorul istoric este foarte sugestiv pentru o fotografie rapidă înainte de plecare.",
+                "en": "Use the mill walls as a windbreak; during heavy rain, the historic setting is very atmospheric for a quick photo before heading back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei klarer Winterluft starten wir an der Kapelle Saint-Michel. Die Kälte beißt im Gesicht, während wir an der Küste entlangfahren. Mittags genießen wir die weiten Panoramen, die im Winterlicht besonders scharf wirken. Nachmittags führt die Tour durch Pinienwälder zu den Mühlen. Da die Sonne früh untergeht, planen wir die Ankunft an der letzten Mühle so, dass wir vor der Dunkelheit sicher zurückkehren.",
+            "hu": "A kristálytiszta téli levegőben indulunk a Saint-Michel kápolnától. A hideg szél mardossa az arcunkat, miközben a parton tekerünk. Délben élvezzük a széles panorámát, amely a téli fényben különösen élesnek tűnik. Délután az út fenyőerdőkön át vezet a malmokhoz. Mivel korán sötétedik, úgy tervezzük, hogy az utolsó állomást még szürkület előtt elérjük.",
+            "ro": "În aerul clar de iarnă plecăm de la capela Saint-Michel. Vântul rece ne pișcă obrajii în timp ce pedalăm de-a lungul coastei. La prânz ne bucurăm de panoramele largi, care par foarte clare în lumina iernii. După-amiaza traseul trece prin păduri de pini spre mori. Deoarece soarele apune devreme, planificăm să ajungem la ultima oprire înainte de întuneric.",
+            "en": "In the crisp winter air, we start at Saint-Michel chapel. The cold wind stings our faces as we cycle along the coast. At noon, we enjoy the vast panoramas that look especially sharp in the winter light. Afternoon leads us through pine forests to the mills. Since the sun sets early, we plan to reach the final stop and head back before total darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da die Hände am Lenker schnell auskühlen; der Blick auf das winterliche Meer ist von hier oben absolut lohnenswert und erfrischend.",
+                "hu": "Viseljen meleg kesztyűt, mert a kezei gyorsan kihűlhetnek a kormányon; a téli tenger látványa innen fentről abszolút megéri a fáradozást és rendkívül üdítő.",
+                "ro": "Purtați mănuși groase, deoarece mâinile pe ghidon îngheață repede; vederea spre marea hibernală de aici de sus merită tot efortul și este foarte revigorantă.",
+                "en": "Wear warm gloves, as your hands will cool down quickly on the handlebars; the view of the winter sea from up here is absolutely worth the effort and very refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich in Bewegung, um warm zu bleiben; das Winterpanorama ist fantastisch, aber der Wind auf der Klippe kann die gefühlte Temperatur stark senken.",
+                "hu": "Maradjon mozgásban, hogy ne hűljön ki; a téli panoráma fantasztikus, de a sziklánál a szél jelentősen csökkentheti a hőérzetet a kerékpárosok számára.",
+                "ro": "Rămâneți în mișcare pentru a vă păstra căldura; panorama de iarnă este fantastică, dar vântul de pe faleză poate reduce semnificativ temperatura resimțită.",
+                "en": "Stay in motion to keep warm; the winter panorama is fantastic, but the wind on the cliff can significantly lower the perceived temperature for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Grève de Minieu",
+                "hu": "Grève de Minieu",
+                "ro": "Grève de Minieu",
+                "en": "Grève de Minieu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leere Promenade für eine zügige Fahrt; achten Sie auf Sandverwehungen, die bei Winterstürmen den Radweg rutschig machen können.",
+                "hu": "Élvezze az üres sétányt a tempósabb haladáshoz; ügyeljen a homokátfúvásokra, amelyek a téli viharok után csúszóssá tehetik a kerékpárutat a parton.",
+                "ro": "Bucurați-vă de faleza goală pentru o deplasare rapidă; atenție la depunerile de nisip care pot face pista de biciclete alunecoasă după furtunile de iarnă.",
+                "en": "Enjoy the empty promenade for a brisk ride; watch out for sand drifts, which can make the bike path slippery after winter storms along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame des Sables",
+                "hu": "Chapelle Notre-Dame des Sables",
+                "ro": "Chapelle Notre-Dame des Sables",
+                "en": "Chapelle Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich für einen Schluck aus der Thermoskanne; das warme Innere ist eine willkommene Pause auf der winterlichen Route.",
+                "hu": "Használja a szélvédett bejáratot egy korty meleg teára a termoszból; a kápolna csendes és nyugodt belső tere hívogató pihenőhely a téli útvonalon.",
+                "ro": "Folosiți intrarea ferită de vânt pentru a bea un ceai cald din termos; interiorul liniștit al capelei este un popas binevenit pe traseul de iarnă.",
+                "en": "Use the sheltered entrance for a quick sip of warm tea from your thermos; the quiet interior of the chapel is a welcoming rest stop on the winter route."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung, bevor Sie weiterfahren; die Schatten werden im Winter früh lang und die Sichtbarkeit im Ort ist für Radfahrer essenziell.",
+                "hu": "Ellenőrizze a világítását, mielőtt tovább indul; télen az árnyékok hamar megnyúlnak, a láthatóság pedig kulcsfontosságú a település utcáin tekerve.",
+                "ro": "Verificați luminile înainte de a pleca mai departe; iarna umbrele se lungesc devreme, iar vizibilitatea este esențială pe străzile localității pentru cicliști.",
+                "en": "Check your lights before moving on; in winter, shadows lengthen early, and visibility is crucial for cyclists riding through the village streets at dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Moulin de l'Epine (1785)",
+                "hu": "Ancien Moulin de l'Epine (1785)",
+                "ro": "Ancien Moulin de l'Epine (1785)",
+                "en": "Ancien Moulin de l'Epine (1785)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang von den Feldern bei der Mühle; treten Sie den Rückweg an, solange das restliche Tageslicht noch die Wege erhellt.",
+                "hu": "Csodálja meg a korai naplementét a malom melletti mezőkről; induljon vissza időben, amíg a maradék nappali fény még jól bevilágítja a kivezető utakat.",
+                "ro": "Admirați apusul timpuriu de pe câmpurile de lângă moară; porniți înapoi spre casă cât timp lumina zilei încă mai luminează drumurile de acces.",
+                "en": "Admire the early sunset from the fields near the mill; start your journey back while the remaining daylight still adequately illuminates the access roads."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Morning: Kezdje a napot kényelmes autózással a lenyűgöző Chapelle Saint-Michel felé, majd utazzon gyorsan a Point de vue kilátópontra. Ezekből a magaslati pontokból nyíló panorámák tökéletesen megadják a kirándulás alaphangulatát.\nMidday: Folytassa útját a Chapelle Notre-Dame des Sables-hoz, és érezze át a hely spirituális nyugalmát. Ezt követően látogasson el az élettel teli Salle Polyvalente-ba, ahol a helyi kultúra és közösség magával ragadó módon elevenedik meg.\nAfternoon: Délután vegye az irányt az Église Saint-Pierre felé, melynek építészete a város szívében elbűvöli a látogatókat. Egy rövid vezetés után elmerülhet a régió örökségében az 1593-ban épült lenyűgöző Ancien moulin de la Hunaudaye-nál.\nEvening: Zárja a napot stílusosan az Ancien Moulin de l'Epine és a Montafilan malmoknál. Ezek a történelmi romok lágy esti fényben pompáznak, tökéletesen megkoronázva ezt a kényelmes Sables-d'Or-les-Pins-i autós kirándulást.",
         "ro": "Morning: Începeți ziua confortabil cu mașina la impresionanta Chapelle Saint-Michel și conduceți rapid către Point de vue. Panoramele din aceste puncte ridicate stabilesc tonul ideal pentru excursia dumneavoastră relaxantă pe coastă.\nMidday: Continuați-vă călătoria către Chapelle Notre-Dame des Sables și simțiți liniștea spirituală a locului. Ulterior, vizitați vibranta Salle Polyvalente, unde cultura locală și comunitatea prind viață într-un mod fascinant și autentic.\nAfternoon: După-amiaza, îndreptați-vă spre Église Saint-Pierre, a cărei arhitectură fermecătoare decorează centrul orașului. O scurtă plimbare cu mașina vă duce apoi adânc în patrimoniul regiunii la impresionanta Ancien moulin de la Hunaudaye.\nEvening: Încheiați ziua cu stil la morile Ancien Moulin de l'Epine și Montafilan. Aceste ruine istorice strălucesc frumos în lumina blândă a serii, completând perfect o excursie confortabilă și memorabilă în Sables-d'Or-les-Pins.",
         "en": "Morning: Experience a comfortable start to the day by driving to the impressive Chapelle Saint-Michel and quickly heading over to the Point de vue. The incredible panoramas from these elevated coastal spots set the ideal tone for your entire trip.\nMidday: Continue your drive to the Chapelle Notre-Dame des Sables to experience its profound spiritual tranquility. Afterward, visit the vibrant Salle Polyvalente, a hub where local culture and community spirit come alive in a fascinating way.\nAfternoon: In the afternoon, navigate to the Église Saint-Pierre, whose architecture enchants visitors in the town center. A short drive then immerses you deep into regional heritage at the impressive 16th-century Ancien moulin de la Hunaudaye.\nEvening: End the day in style by exploring the historic mills of Ancien Moulin de l'Epine and Montafilan. These storied ruins shine beautifully in the soft evening light, perfectly capping off your comfortable and comprehensive excursion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Sables-d’Or-les-Pins bequem und trocken trotz des Regens. Morgens steuern wir die Kapellen an, wobei die Scheibenwischer den Blick auf die Küste freihalten. Mittags bietet die Salle Polyvalente eine ideale Indoor-Alternative. Nachmittags fahren wir zu den historischen Mühlen in der Umgebung, wobei wir die Fahrt durch die verregnete, grüne Landschaft genießen.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel a környéket az eső ellenére is. Reggel a kápolnákat keressük fel, miközben az ablaktörlők mögül figyeljük a viharos tengerpartot. Délben a Salle Polyvalente tökéletes fedett programot kínál. Délután a környékbeli történelmi malmokhoz hajtunk, élvezve az esőtől csillogó, zöldellő breton táj látványát az autó ablakából.",
+            "ro": "Cu mașina explorăm zona confortabil și uscat, în ciuda ploii persistente. Dimineața vizităm capelele, în timp ce ștergătoarele ne dezvăluie coasta furtunoasă. La prânz, Salle Polyvalente oferă o alternativă ideală de interior. După-amiaza conducem spre morile istorice din împrejurimi, savurând peisajul breton verde și strălucitor de după geamul mașinii.",
+            "en": "By car, we explore the area comfortably and dry despite the persistent rain. In the morning, we visit the chapels while the wipers keep the stormy coast in view. At noon, the Salle Polyvalente offers a perfect indoor alternative. In the afternoon, we drive to the nearby historic mills, enjoying the rain-glittering, lush Breton landscape from the warmth of the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf der befestigten Fläche nahe der Kapelle; der Ausblick auf das graue Meer ist auch vom Auto aus beeindruckend, wenn der Regen draußen zu stark wird.",
+                "hu": "Parkoljon a kápolna közeli szilárd burkolatú részen; a szürke tenger látványa az autóból is lenyűgöző, ha kint éppen túl intenzíven szakadna az eső.",
+                "ro": "Parcați pe suprafața solidă de lângă capelă; vederea spre marea cenușie este impresionantă și din mașină, dacă ploaia devine prea intensă afară.",
+                "en": "Park on the solid surface near the chapel; the view of the grey sea is impressive even from inside the car if the rain becomes too intense to step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto reicht; achten Sie beim Aussteigen auf Windböen, die die Autotür erfassen können, und genießen Sie die dramatische Gischt.",
+                "hu": "Egy rövid megálló elég a fotózáshoz; kiszálláskor ügyeljen az erős széllökésekre, amelyek feltéphetik az ajtót, és csodálja meg a drámai tengeri hullámokat.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; atenție la rafalele de vânt când deschideți portiera și admirați spectacolul dramatic al valurilor.",
+                "en": "A brief stop for photos is enough; watch out for strong wind gusts when opening the car door and enjoy the dramatic sight of the crashing coastal waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame des Sables",
+                "hu": "Chapelle Notre-Dame des Sables",
+                "ro": "Chapelle Notre-Dame des Sables",
+                "en": "Chapelle Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Zugang; das Innere der Kapelle bietet einen ruhigen, trockenen Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "Használja a közeli parkolót a gyors bejutáshoz; a kápolna belseje nyugodt, száraz helyszínt biztosít, ahol hallgathatja az eső kopogását a tetőn.",
+                "ro": "Folosiți parcarea apropiată pentru acces rapid; interiorul capelei oferă un spațiu liniștit și uscat unde puteți asculta ropotul ploii pe acoperiș.",
+                "en": "Use the nearby parking lot for quick access; the interior of the chapel provides a peaceful, dry spot where you can listen to the rain drumming on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Polyvalente",
+                "hu": "Salle Polyvalente",
+                "ro": "Salle Polyvalente",
+                "en": "Salle Polyvalente"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für einen längeren Aufenthalt bei Regen; informieren Sie sich über lokale Ausstellungen im Inneren, während es draußen stürmt.",
+                "hu": "Ez a tökéletes helyszín egy hosszabb pihenőhöz esős időben; tájékozódjon a benti helyi kiállításokról, miközben kint éppen tombol a parti szélvihar.",
+                "ro": "Acesta este locul perfect pentru un popas mai lung pe ploaie; informați-vă despre expozițiile locale din interior în timp ce afară furtuna se dezlănțuie.",
+                "en": "This is the perfect spot for a longer break during rainy weather; check out local indoor exhibitions while the coastal storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt im Ort und besuchen Sie die Kirche; die massive Bauweise vermittelt ein Gefühl von Geborgenheit vor dem nasskalten bretonischen Wetter.",
+                "hu": "Parkoljon le a településen és látogassa meg a templomot; a masszív épület a biztonság érzetét kelti a barátságtalan, esős-szeles breton időjárás elől menekülve.",
+                "ro": "Parcați direct în localitate și vizitați biserica; structura masivă oferă o senzație de siguranță în fața vremii bretone umede și reci de afară.",
+                "en": "Park right in the village and visit the church; the massive construction conveys a sense of security from the damp and cold Breton weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien moulin de la Hunaudaye (1593)",
+                "hu": "Ancien moulin de la Hunaudaye (1593)",
+                "ro": "Ancien moulin de la Hunaudaye (1593)",
+                "en": "Ancien moulin de la Hunaudaye (1593)"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen matschig sein; fahren Sie vorsichtig und genießen Sie die historische Mühle als stimmungsvolles Fotomotiv im Regen.",
+                "hu": "A keskeny bekötőutak esőben sárosak lehetnek; vezessen óvatosan, és tekintsen a történelmi malomra mint hangulatos fotótémára az eső áztatta tájban.",
+                "ro": "Drumurile de acces înguste pot fi noroioase pe ploaie; conduceți cu atenție și admirați moara istorică drept un subiect fotografic plin de atmosferă.",
+                "en": "The narrow access roads can be muddy in the rain; drive carefully and view the historic mill as an atmospheric photo subject in the rain-soaked landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Moulin de l'Epine (1785)",
+                "hu": "Ancien Moulin de l'Epine (1785)",
+                "ro": "Ancien Moulin de l'Epine (1785)",
+                "en": "Ancien Moulin de l'Epine (1785)"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Stopp, den man gut vom Wagen aus betrachten kann; die alten Steine glänzen im Regen besonders schön und wirken sehr geschichtsträchtig.",
+                "hu": "Szép megálló, amely az autóból is jól megfigyelhető; az ódon kövek különösen szépen csillognak az esőben, méltóságteljes történelmi hangulatot árasztva.",
+                "ro": "O oprire frumoasă care poate fi observată bine și din mașină; pietrele vechi strălucesc frumos în ploaie, emanând o atmosferă istorică plină de demnitate.",
+                "en": "A lovely stop that can be well observed from the car; the ancient stones shine beautifully in the rain, emitting a dignified and historic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Moulin de Montafilan (1785)",
+                "hu": "Ancien Moulin de Montafilan (1785)",
+                "ro": "Ancien Moulin de Montafilan (1785)",
+                "en": "Ancien Moulin de Montafilan (1785)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt hier, bevor die Sicht bei starkem Regen schlechter wird; die Mühle im dichten Grau wirkt wie aus einer anderen Zeit gefallen.",
+                "hu": "Zárja itt az utazást, mielőtt a látási viszonyok a heves esőben romlanának; a sűrű szürkeségben álló malom olyan, mintha egy másik korból maradt volna ránk.",
+                "ro": "Încheiați călătoria aici înainte ca vizibilitatea să scadă din cauza ploii; moara care stă în griul dens pare desprinsă dintr-o altă epocă istorică.",
+                "en": "End your journey here before visibility worsens due to heavy rain; the mill standing in the dense grey mist looks as if it has remained from another era."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autotouren bieten eine warme Basis, um die herbe Schönheit der Bretagne zu erleben. Morgens besuchen wir die Kapellen, während die Heizung für Komfort sorgt. Mittags nutzen wir die Salle Polyvalente als kulturellen Stopp im Warmen. Nachmittags fahren wir zu den Mühlen, um das klare Winterlicht für Fotos zu nutzen, bevor gegen 17:00 Uhr die Dunkelheit einsetzt und wir die Tour beenden.",
+            "hu": "A téli autós túrák meleg bázist nyújtanak Bretagne zord szépségének felfedezéséhez. Reggel a kápolnákat látogatjuk meg, miközben az autó fűtése gondoskodik a kényelemről. Délben a Salle Polyvalente kínál kulturális feltöltődést meleg környezetben. Délután a malmok felé vesszük az irányt, kihasználva a tiszta téli fényeket a fotózáshoz, mielőtt 17:00 körül ránk sötétedne.",
+            "ro": "Tururile auto de iarnă oferă o bază caldă pentru a descoperi frumusețea aspră a Bretaniei. Dimineața vizităm capelele, în timp ce încălzirea mașinii asigură confortul. La prânz, Salle Polyvalente oferă o oprire culturală într-un mediu cald. După-amiaza mergem spre mori pentru a folosi lumina clară de iarnă în fotografii, înainte ca întunericul să se lase la ora 17:00.",
+            "en": "Winter car tours provide a warm home base to experience the rugged beauty of Brittany. In the morning, we visit the chapels while the car's heater ensures our comfort. At noon, the Salle Polyvalente offers a cultural stop in a warm environment. In the afternoon, we head to the mills to use the crisp winter light for photography before darkness falls around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ärmelkanal vom beheizten Auto aus; die klare Winterluft lässt den Horizont heute besonders weit und scharf erscheinen.",
+                "hu": "Élvezze a kilátást a La Manche csatornára a fűtött autóból; a tiszta téli levegőben a horizont ma különösen távolinak és élesnek tűnik a megfigyelők számára.",
+                "ro": "Bucurați-vă de vederea spre Canalul Mânecii din mașina încălzită; aerul clar de iarnă face ca orizontul să pară astăzi foarte îndepărtat și bine definit.",
+                "en": "Enjoy the wide view of the English Channel from the heated car; the crisp winter air makes the horizon appear particularly distant and sharp today for observers."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für die Aussicht lohnt sich; ziehen Sie sich warm an für den kurzen Gang zur Klippe, da der winterliche Seewind sehr bissig sein kann.",
+                "hu": "Egy gyors megálló a kilátásért megéri; öltözzön fel melegen a sziklához vezető rövid útra, mert a téli tengeri szél rendkívül metsző és fagyos lehet.",
+                "ro": "O oprire rapidă pentru priveliște merită; îmbrăcați-vă gros pentru scurta plimbare spre faleză, deoarece vântul marin de iarnă poate fi foarte tăios.",
+                "en": "A quick stop for the view is worth it; dress warmly for the short walk to the cliff, as the winter sea wind can be very biting and freezing even at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame des Sables",
+                "hu": "Chapelle Notre-Dame des Sables",
+                "ro": "Chapelle Notre-Dame des Sables",
+                "en": "Chapelle Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am späten Vormittag; das sanfte Winterlicht fällt wunderschön durch die Fenster und die Ruhe im Inneren ist im Winter fast magisch.",
+                "hu": "Látogassa meg a kápolnát késő délelőtt; a lágy téli fény gyönyörűen esik be az ablakokon, a benti csend pedig télen szinte varázslatos és lélekemelő.",
+                "ro": "Vizitați capela la sfârșitul dimineții; lumina blândă de iarnă pătrunde frumos prin ferestre, iar liniștea din interior este aproape magică în acest sezon.",
+                "en": "Visit the chapel in the late morning; the soft winter light falls beautifully through the windows, and the interior silence is almost magical during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Polyvalente",
+                "hu": "Salle Polyvalente",
+                "ro": "Salle Polyvalente",
+                "en": "Salle Polyvalente"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Besichtigungen aufzuwärmen; nutzen Sie die Zeit für die Indoor-Aktivitäten, während die Mittagssonne draußen tief steht.",
+                "hu": "Ideális helyszín az átmelegedésre a látnivalók között; használja ki az időt a benti programokra, miközben a téli nap alacsonyan jár a horizont felett.",
+                "ro": "Un loc ideal pentru a vă încălzi între vizite; folosiți timpul pentru activitățile de interior, în timp ce soarele de iarnă stă jos pe cerul de deasupra mării.",
+                "en": "An ideal spot to warm up between sightseeing stops; take advantage of the indoor activities while the winter sun remains low on the coastal horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag; die windgeschützte Lage im Ort macht den kurzen Weg vom Parkplatz zur Kirche auch im Winter sehr angenehm.",
+                "hu": "Kora délután látogasson el ide; a falu szélvédett fekvése miatt a parkolótól a templomig vezető rövid séta még a téli hidegben is kifejezetten kellemes.",
+                "ro": "Vizitați biserica după-amiaza devreme; locația ferită de vânt a satului face ca scurta plimbare de la parcare la biserică să fie plăcută chiar și iarna.",
+                "en": "Visit the church in the early afternoon; the village's sheltered location makes the short walk from the parking lot to the church quite pleasant even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien moulin de la Hunaudaye (1593)",
+                "hu": "Ancien moulin de la Hunaudaye (1593)",
+                "ro": "Ancien moulin de la Hunaudaye (1593)",
+                "en": "Ancien moulin de la Hunaudaye (1593)"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle wirkt im kahlen Winterumfeld besonders skulptural; machen Sie Fotos im letzten Tageslicht, bevor die Schatten der umliegenden Bäume zu lang werden.",
+                "hu": "A malom a kopár téli környezetben különösen szoborszerűnek hat; készítsen fotókat az utolsó fényeknél, mielőtt a fák hosszú árnyékot vetnének az ódon falakra.",
+                "ro": "Moara pare foarte sculpturală în peisajul golaș de iarnă; faceți fotografii în ultima lumină a zilei înainte ca umbrele copacilor să devină prea lungi pe ziduri.",
+                "en": "The mill looks particularly sculptural in the bare winter surroundings; take photos in the last daylight before the trees cast long shadows on the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Moulin de l'Epine (1785)",
+                "hu": "Ancien Moulin de l'Epine (1785)",
+                "ro": "Ancien Moulin de l'Epine (1785)",
+                "en": "Ancien Moulin de l'Epine (1785)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der historischen Mühle im Abendrot; achten Sie auf den Straßen auf mögliche Reifglätte bei sinkenden Temperaturen am späten Nachmittag.",
+                "hu": "Élvezze a történelmi malom látványát az alkonyati fényekben; ügyeljen az utakon az esetleges lefagyásokra a késő délutáni gyors hőmérséklet-csökkenés miatt.",
+                "ro": "Admirați moara istorică în lumina amurgului; atenție la posibilele porțiuni înghețate de pe drum din cauza scăderii rapide a temperaturii spre seară.",
+                "en": "Enjoy the sight of the historic mill in the twilight; watch out for potential icy patches on the roads due to the rapid drop in temperature in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Moulin de Montafilan (1785)",
+                "hu": "Ancien Moulin de Montafilan (1785)",
+                "ro": "Ancien Moulin de Montafilan (1785)",
+                "en": "Ancien Moulin de Montafilan (1785)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang gegen 17:00 Uhr; die beleuchtete Silhouette der Mühle ist ein schöner Abschluss des winterlichen Tages.",
+                "hu": "Zárja a túrát pontban a naplementekor 17:00 körül; a malom kivilágított sziluettje gyönyörű befejezése ennek a hangulatos és frissítő téli napnak.",
+                "ro": "Încheiați turul exact la apus, în jur de ora 17:00; silueta iluminată a morii este un final frumos pentru această zi de iarnă plină de atmosferă.",
+                "en": "End your tour exactly at sunset around 17:00; the mill's illuminated silhouette is a beautiful conclusion to this atmospheric and refreshing winter day."
+              }
+            }
+          ]
+        }
       }
     }
   }

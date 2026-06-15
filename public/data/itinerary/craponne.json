@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Craponne-ban a Saint-Fortunat templom békés meglátogatásával, majd sétáljon át az Éole Kulturális Térbe művészeti inspirációért.\nDélben fedezze fel a Musée de la Blanchisserie egyedülálló helyi örökségét és ipari múltját.\nA délutánt a Piles de l'aqueduc de l'Yzeron ősi vízvezeték-oszlopainak megcsodálásával töltheti.\nSétáját a nyüzsgő Craponne Piacon zárja, ahol friss termékek és élénk közösségi élet várja.",
         "ro": "Începeți dimineața în Craponne cu o vizită liniștită la Biserica Saint-Fortunat. O scurtă plimbare vă aduce apoi la Spațiul Cultural Éole pentru inspirație artistică contemporană.\nLa prânz, descoperiți patrimoniul local unic la Musée de la Blanchisserie.\nPetreceți după-amiaza minunându-vă de vechile Piles de l'aqueduc de l'Yzeron.\nÎncheiați turul pietonal la piața vibrantă Craponne, unde vă așteaptă produse proaspete.",
         "en": "Begin your morning in Craponne with a peaceful visit to the Saint-Fortunat Church, soaking in the quiet architectural beauty. Next, a short stroll brings you to the Éole Cultural Space for contemporary artistic inspiration.\nMidday invites you to uncover unique local heritage at the Musée de la Blanchisserie, diving deep into the region's industrial past.\nSpend the afternoon marveling at the ancient Piles de l'aqueduc de l'Yzeron, reflecting on the historical engineering feats.\nEnd your walking tour at the vibrant Craponne Market, where fresh produce and lively community interactions await you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang in der ruhigen Kirche. Mittags bieten der moderne Kulturraum und das Museum eine trockene, faszinierende Zuflucht. Am Nachmittag betrachten Sie das historische Aquädukt am besten unter einem großen Schirm. Beenden Sie den Tag an den überdachten Marktständen, wo Sie trotz Nässe lokale Spezialitäten genießen können.",
+            "hu": "Kezdje esős sétáját a templomban, csendes menedéket lelve. Délben a kulturális tér és a múzeum tökéletes, száraz beltéri programot kínál. Délután egy nagy esernyő védelmében csodálja meg a történelmi vízvezetéket. Fejezze be a napot a helyi piac fedett részein, ahol az eső ellenére is kényelmesen válogathat a termékek között.",
+            "ro": "Începeți plimbarea ploioasă la biserică pentru un adăpost liniștit. La prânz, spațiul cultural și muzeul oferă un refugiu interior uscat. După-amiaza, admirați apeductul istoric sub o umbrelă mare. Încheiați ziua rătăcind prin părțile acoperite ale pieței locale, bucurându-vă de bunătăți în ciuda vremii umede.",
+            "en": "Start your rainy walk at the church for a quiet shelter. Midday, the cultural space and museum offer a perfect dry indoor retreat. In the afternoon, admire the historic aqueduct under the protection of a large umbrella. End the day wandering the covered sections of the local market, enjoying fresh produce despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Fortunat",
+                "hu": "Saint-Fortunat templom",
+                "ro": "Biserica Saint-Fortunat",
+                "en": "Saint-Fortunat Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Trockenen; halten Sie einen Schirm bereit, da der Eingangsbereich ungeschützt ist.",
+                "hu": "Csodálja meg az üvegablakokat, miközben menedéket talál az eső elől; legyen kéznél esernyő, mert a bejárat nyitott.",
+                "ro": "Admirați vitraliile frumoase la adăpost de ploaie; țineți o umbrelă la îndemână deoarece intrarea nu este acoperită.",
+                "en": "Admire the beautiful stained glass while sheltering from the rain; keep an umbrella handy as the entrance lacks cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Éole",
+                "hu": "Éole Kulturális Tér",
+                "ro": "Spațiul Cultural Éole",
+                "en": "Éole Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie lokale Kunst in diesem modernen Zentrum; ein perfekter, trockener Rückzugsort, um nasse Mäntel abzulegen.",
+                "hu": "Fedezze fel a helyi művészeteket ebben a modern belső térben; tökéletes száraz menedék a vizes kabátok számára.",
+                "ro": "Descoperiți arta locală în acest centru modern; un refugiu uscat perfect unde vă puteți lăsa hainele umede la intrare.",
+                "en": "Discover local arts in this modern indoor center; it's a perfect dry retreat where you can safely leave wet coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Wäschereimuseum",
+                "hu": "Mosoda Múzeum",
+                "ro": "Muzeul Spălătoriei",
+                "en": "Laundry Museum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie alte Waschtechniken in diesem trockenen Museum kennen; Vorsicht auf den oft rutschigen historischen Böden.",
+                "hu": "Ismerje meg a régi mosási technikákat ebben a száraz múzeumban; vigyázzon, mert a történelmi padló csúszós lehet.",
+                "ro": "Învățați tehnici vechi de spălare în acest muzeu fascinant; aveți grijă deoarece podelele istorice pot fi alunecoase.",
+                "en": "Learn about old washing techniques inside this fascinating dry museum; be careful as the historic floors get slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktpfeiler von Yzeron",
+                "hu": "Yzeron vízvezeték-oszlopai",
+                "ro": "Stâlpii apeductului Yzeron",
+                "en": "Pillars of the Yzeron Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die steinernen Pfeiler vor dem grauen Himmel; tragen Sie wasserdichte Schuhe wegen des matschigen Grases.",
+                "hu": "Nézze meg az impozáns oszlopokat a drámai szürke ég alatt; viseljen vízálló cipőt, mert a fű sárba borulhat.",
+                "ro": "Vedeți stâlpii impunători contrastând cu cerul gri; purtați pantofi impermeabili deoarece iarba din jur este noroioasă.",
+                "en": "See the imposing stone pillars contrasting with the gray sky; wear waterproof shoes as the surrounding grass is muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Markt von Craponne",
+                "hu": "Craponne Piac",
+                "ro": "Piața Craponne",
+                "en": "Craponne Market"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie nach frischen Produkten unter den Marktzelten; eine Regenjacke ist ideal für den Bummel zwischen den Ständen.",
+                "hu": "Válogasson a friss termékek között a sátrak alatt; egy esőkabát nagyon ajánlott a standok közötti kényelmes sétához.",
+                "ro": "Căutați produse proaspete sub corturile pieței; o geacă de ploaie este recomandată pentru a naviga confortabil afară.",
+                "en": "Browse fresh local produce under the market tents; a rain jacket is highly recommended to navigate between stalls easily."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen beginnt an der historischen Kirche. Mittags wärmen Sie sich im gemütlichen Kulturraum und im Museum auf. Das sanfte Nachmittagslicht beleuchtet das Aquädukt wunderschön, bevor die Sonne gegen 17 Uhr untergeht. Beenden Sie den eiskalten Tag auf dem belebten Markt mit einem warmen Getränk.",
+            "hu": "A friss, csípős téli reggel a történelmi templomnál indul. Délben a kulturális térben és a múzeumban melegedhet át igazán. A délutáni fény csodásan éri a vízvezetéket a korai, 17 óra körüli naplemente előtt. Fejezze be a napot a fagyos, de hangulatos piacon egy forró itallal.",
+            "ro": "O dimineață de iarnă geroasă începe la biserica istorică. La prânz, vă încălziți la spațiul cultural și la muzeu. Lumina blândă de după-amiază cade frumos pe apeduct, înainte de apusul de la ora 17. Încheiați ziua rece la piața animată, savurând o băutură caldă locală.",
+            "en": "A crisp winter morning starts at the historic church. Midday brings you to the cultural space and museum to thoroughly warm up. Afternoon light hits the aqueduct beautifully before an early sunset around 5 PM. End the chilly day at the bustling market with a hot drink in hand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Fortunat",
+                "hu": "Saint-Fortunat templom",
+                "ro": "Biserica Saint-Fortunat",
+                "en": "Saint-Fortunat Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Winterstimmung im Inneren; behalten Sie die Handschuhe an, da die dicken Steinwände kalt sind.",
+                "hu": "Élvezze a békés téli hangulatot bent; tartsa magán a kesztyűt, mert a vastag kőfalak nagyon ontják magukból a hideget.",
+                "ro": "Bucurați-vă de atmosfera pașnică de iarnă; păstrați mănușile deoarece pereții groși de piatră mențin frigul în interior.",
+                "en": "Enjoy the peaceful winter atmosphere inside; keep your gloves on as the thick stone walls make the interior quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Éole",
+                "hu": "Éole Kulturális Tér",
+                "ro": "Spațiul Cultural Éole",
+                "en": "Éole Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Kultur ein und wärmen Sie sich gut auf; das gut beheizte Foyer ist ideal nach dem kalten Spaziergang.",
+                "hu": "Merüljön el a kultúrában és melegedjen fel; a jól fűtött előcsarnok tökéletes menedék a hideg téli séta után.",
+                "ro": "Pătrundeți în cultură și încălziți-vă; foaierul bine încălzit este o pauză perfectă după plimbarea rece de afară.",
+                "en": "Dive into local culture and warm your bones; the well-heated foyer is a perfect break from the freezing winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Wäschereimuseum",
+                "hu": "Mosoda Múzeum",
+                "ro": "Muzeul Spălătoriei",
+                "en": "Laundry Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie anstrengend Waschen im Winter war; drinnen ist es warm, aber die Ausstellungsstücke erinnern an Eis.",
+                "hu": "Tudja meg, milyen nehéz volt a téli mosás; bent meleg van, de a kiállítási tárgyak a fagyos múltat idézik fel.",
+                "ro": "Aflați cât de grea era spălarea iarna; înăuntru este cald, dar exponatele vă amintesc de munca în apa înghețată.",
+                "en": "Learn how tough washing was during freezing winters; it's warm inside, but exhibits remind you of icy historical labor."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktpfeiler von Yzeron",
+                "hu": "Yzeron vízvezeték-oszlopai",
+                "ro": "Stâlpii apeductului Yzeron",
+                "en": "Pillars of the Yzeron Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen im kalten Winterlicht majestätisch aus; seien Sie am späten Nachmittag da, bevor es um 17 Uhr dunkel wird.",
+                "hu": "A romok fenségesek a hideg téli fényben; érkezzen késő délután, mielőtt 17 órakor teljesen besötétedik a környéken.",
+                "ro": "Ruinele arată maiestuos în lumina rece de iarnă; vizitați după-amiaza târziu înainte să se întunece rapid la ora 17.",
+                "en": "The ruins look majestic in the harsh winter light; make sure to visit in the late afternoon before it gets dark by 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Markt von Craponne",
+                "hu": "Craponne Piac",
+                "ro": "Piața Craponne",
+                "en": "Craponne Market"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie herzhafte Winterprodukte; ziehen Sie sich warm an, da der Wind durch die offenen Marktstände ziemlich pfeift.",
+                "hu": "Vásároljon kiadós téli termékeket; öltözzön fel melegen, mert a szél erősen átfújhat a nyitott piaci standok között.",
+                "ro": "Cumpărați produse consistente de iarnă; îmbrăcați-vă gros deoarece vântul poate sufla puternic prin tarabele deschise.",
+                "en": "Shop for hearty winter produce; bundle up with extra thermal layers as the wind can whip through the open market stalls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros túráját a nyüzsgő Craponne Piacon, majd folytassa a La Baie des Pirates vidám programjával.\nTekerjen a Piles de l'aqueduc de l'Yzeron felé, hogy megcsodálja a történelmi római infrastruktúrát.\nEzután merüljön el az ipartörténetben a Musée de la Blanchisserie-ben, és pihenjen meg a Saint-Fortunat templomnál.\nUtazása a Centre d'art contemporain du Fort du Bruissin lenyűgöző kortárs művészeti kiállításával és panorámájával ér véget.",
         "ro": "Începeți traseul de ciclism la piața plină de viață Craponne, urmată de distracție plină de energie la La Baie des Pirates.\nPedați spre Piles de l'aqueduc de l'Yzeron pentru a vedea infrastructura romană istorică.\nApoi, scufundați-vă în istoria industrială la Musée de la Blanchisserie și faceți o scurtă oprire la Biserica Saint-Fortunat.\nCălătoria se încheie la impresionantul Centre d'art contemporain du Fort du Bruissin.",
         "en": "Kick off your cycling journey at the bustling Craponne Market to grab some morning snacks. Follow this with high-energy fun at La Baie des Pirates.\nPedal towards the Piles de l'aqueduc de l'Yzeron to witness historical Roman infrastructure amidst a beautiful natural setting.\nAfterward, immerse yourself in the industrial history at the Musée de la Blanchisserie and take a brief, calming stop at the Saint-Fortunat Church.\nYour ride concludes at the impressive Centre d'art contemporain du Fort du Bruissin, offering fantastic art and panoramic sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre regnerische Radtour beginnt am überdachten Markt. Am Vormittag bietet der Piratenpark Indoor-Spaß für die Familie. Das Aquädukt besichtigen Sie mittags mit regenfester Kleidung. Am Nachmittag wärmen Sie sich in den trockenen Museen und der Kirche auf, während die Straßen rutschig sein können. Fahren Sie langsam und sicher.",
+            "hu": "Esős kerékpártúrája a piacon indul, részben fedett helyen. Délelőtt a kalózpark benti része nyújt szórakozást. A vízvezetéket délben esőruhában nézheti meg. Délután a száraz múzeumokban és a templomban talál menedéket, miközben az utak csúszósak lehetnek. Vezessen lassan és nagyon óvatosan.",
+            "ro": "Turul ploios cu bicicleta începe la piață. Dimineața, parcul de pirați oferă distracție în interior. Vizitați apeductul la prânz în echipament de ploaie. După-amiaza, vă adăpostiți în muzeele uscate și biserică, în timp ce străzile pot fi alunecoase. Pedalați încet și cu multă atenție pe traseu.",
+            "en": "Your rainy bike tour starts at the partially covered market. Mid-morning, the pirate park offers indoor family fun. See the aqueduct at noon in full rain gear. In the afternoon, take dry shelter in the museums and church while navigating potentially slippery streets. Ride slowly and safely today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Markt von Craponne",
+                "hu": "Craponne Piac",
+                "ro": "Piața Craponne",
+                "en": "Craponne Market"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie unter den Überdachungen ein; achten Sie auf die Reifenhaftung, da der Marktbereich sehr rutschig werden kann.",
+                "hu": "Vásároljon a fedett sátrak alatt; ügyeljen a kerékpár tapadására, mert a piac környéki kövezet nagyon csúszhat az esőben.",
+                "ro": "Cumpărați sub copertine; atenție la aderența anvelopelor deoarece zona pieței poate deveni foarte alunecoasă pe ploaie.",
+                "en": "Shop efficiently under cover; keep an eye on your bike's tire grip as the market's surrounding areas get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "La Baie des Pirates",
+                "hu": "La Baie des Pirates",
+                "ro": "La Baie des Pirates",
+                "en": "La Baie des Pirates"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Attraktionen bei starkem Regen; verstauen Sie Ihre nasse Regenkleidung sicher in den Spinden.",
+                "hu": "Élvezze a benti attrakciókat felhőszakadás idején; tegye be vizes esőruháját biztonságosan a zárható szekrényekbe.",
+                "ro": "Folosiți atracțiile interioare la ploi abundente; depozitați-vă hainele de ploaie ude în siguranță în vestiare.",
+                "en": "Enjoy the indoor attractions during heavy downpours; stow your wet rain gear safely in the lockers while waiting it out."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktpfeiler von Yzeron",
+                "hu": "Yzeron vízvezeték-oszlopai",
+                "ro": "Stâlpii apeductului Yzeron",
+                "en": "Pillars of the Yzeron Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Fotostopp an den Pfeilern; stellen Sie sicher, dass Ihre Fahrradbremsen bei dem Matsch gut funktionieren.",
+                "hu": "Rövid, nedves fotószünet az oszlopoknál; ellenőrizze, hogy a fékjei jól fognak-e a sárban és a vizes fű környékén.",
+                "ro": "O oprire scurtă și umedă pentru fotografii; asigurați-vă că frânele bicicletei funcționează bine în condiții de noroi.",
+                "en": "A quick, wet photo stop at the pillars; ensure your bike brakes are working well as the surrounding path gets very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Wäschereimuseum",
+                "hu": "Mosoda Múzeum",
+                "ro": "Muzeul Spălătoriei",
+                "en": "Laundry Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen und trocknen Sie sich beim Erkunden der Ausstellung auf; nehmen Sie ein Handtuch mit, um den Sattel später abzuwischen.",
+                "hu": "Melegedjen és száradjon meg a kiállítás felfedezése közben; vigyen magával egy törölközőt, hogy letörölje a nyerget.",
+                "ro": "Încălziți-vă și uscați-vă explorând expoziția; aveți la voi un prosop pentru a șterge șaua bicicletei la plecare.",
+                "en": "Warm up and dry off while exploring the historical exhibits; bring a small towel in your bag to wipe your bike seat later."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Fortunat",
+                "hu": "Saint-Fortunat templom",
+                "ro": "Biserica Saint-Fortunat",
+                "en": "Saint-Fortunat Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment im Trockenen; parken Sie das Fahrrad dicht an der Wand, um es etwas vor dem Regen zu schützen.",
+                "hu": "Egy csendes pillanat a száraz templomban; parkolja a kerékpárt szorosan a fal mellé, hogy valamennyire védje az esőtől.",
+                "ro": "Un moment liniștit la uscat; parcați bicicleta aproape de perete pentru a o proteja puțin de ploaia care cade neîncetat.",
+                "en": "A quiet moment in the dry sanctuary; park your bicycle closely against the stone wall to slightly shield it from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum für zeitgenössische Kunst Fort du Bruissin",
+                "hu": "Fort du Bruissin Kortárs Művészeti Központ",
+                "ro": "Centrul de artă contemporană Fort du Bruissin",
+                "en": "Fort du Bruissin Contemporary Art Center"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen in diesem faszinierenden Fort; schalten Sie das Fahrradlicht für die trübe Heimfahrt rechtzeitig ein.",
+                "hu": "Meneküljön az eső elől ebbe a lenyűgöző erődbe; kapcsolja be a kerékpárlámpát a borús, szürke kora esti hazautazáshoz.",
+                "ro": "Scăpați de ploaie în acest fort fascinant; aprindeți luminile bicicletei pentru drumul întunecat și înnorat spre casă.",
+                "en": "Escape the downpours inside this fascinating historic fort; turn your bike lights on early for the gloomy ride back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie warm eingepackt auf dem winterlichen Markt. Danach wärmen sich die Kinder im Indoor-Park auf. Um die Mittagszeit bewundern Sie das frostige Aquädukt. Nachmittags bieten das Museum und die Kirche kalte, aber faszinierende Einblicke. Das Kunstzentrum am späten Nachmittag ist ideal, bevor Sie in der Dunkelheit ab 17 Uhr vorsichtig weiterradeln.",
+            "hu": "Induljon melegen felöltözve a téli piacon. Utána a gyerekek a benti parkban melegedhetnek. Délben a deres vízvezetéket csodálhatja meg. Délután a múzeum és a templom hideg, de lenyűgöző látványt nyújt. A művészeti központ tökéletes program, mielőtt 17 óra után a sötétben, óvatosan hazatekerne.",
+            "ro": "Începeți bine îmbrăcat la piața de iarnă. Apoi, copiii se încălzesc în parcul interior. La prânz, admirați apeductul înghețat. După-amiaza, muzeul și biserica oferă priveliști reci, dar fascinante. Centrul de artă este ideal înainte de a pedala cu mare atenție în întunericul care cade la ora 17.",
+            "en": "Start bundled up at the crisp winter market. Next, kids can warm up in the indoor park. Around noon, admire the frosty aqueduct. Afternoon brings cold but fascinating stops at the museum and church. The art center is an ideal indoor end before you carefully ride home in the dark after 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Markt von Craponne",
+                "hu": "Craponne Piac",
+                "ro": "Piața Craponne",
+                "en": "Craponne Market"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich Energie mit Wintergemüse; tragen Sie Thermohandschuhe, da der kalte Fahrtwind Ihre Hände schnell auskühlt.",
+                "hu": "Gyűjtsön energiát a téli zöldségekből; viseljen termo kesztyűt, mert a hideg menetszél nagyon gyorsan lefagyasztja a kezét.",
+                "ro": "Luați energie din legumele de iarnă; purtați mănuși termice deoarece vântul rece la pedalare vă îngheață rapid mâinile.",
+                "en": "Gather energy with hearty winter produce; wear thermal cycling gloves as the freezing headwind will quickly chill your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "La Baie des Pirates",
+                "hu": "La Baie des Pirates",
+                "ro": "La Baie des Pirates",
+                "en": "La Baie des Pirates"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter Spaß für die ganze Familie; nutzen Sie die Pause, um durchgefrorene Füße vor der nächsten Etappe aufzuwärmen.",
+                "hu": "Fűtött szórakozás az egész családnak; használja ki a szünetet arra, hogy felmelegítse átfagyott lábait a következő szakasz előtt.",
+                "ro": "Distracție încălzită pentru familie; folosiți pauza pentru a vă încălzi picioarele înghețate înainte de următoarea etapă.",
+                "en": "A heated family fun zone; take advantage of the indoor break to warm up your freezing toes before the next cycling leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktpfeiler von Yzeron",
+                "hu": "Yzeron vízvezeték-oszlopai",
+                "ro": "Stâlpii apeductului Yzeron",
+                "en": "Pillars of the Yzeron Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Die frostüberzogenen Steine sind ein tolles Fotomotiv; achten Sie auf Glatteis auf dem Radweg in der Nähe der Ruinen.",
+                "hu": "A dérrel borított kövek remek fotótémát adnak; vigyázzon a fekete jégre a romokhoz vezető kerékpárúton a fák árnyékában.",
+                "ro": "Pietrele acoperite de gheață sunt un motiv foto excelent; atenție la gheața neagră pe pista de biciclete din apropierea ruinelor.",
+                "en": "The frost-covered stones make a great photo; watch out for black ice patches on the bike path in the shadows near the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Wäschereimuseum",
+                "hu": "Mosoda Múzeum",
+                "ro": "Muzeul Spălătoriei",
+                "en": "Laundry Museum"
+              },
+              "tip_5lang": {
+                "de": "Tanken Sie Wärme bei der historischen Ausstellung; überprüfen Sie, ob Ihr Sattel gefroren ist, bevor Sie sich wieder aufsetzen.",
+                "hu": "Tankoljon meleget a történelmi kiállításon; indulás előtt ellenőrizze, nem fagyott-e rá a pára a kerékpár nyergére kint.",
+                "ro": "Încălziți-vă la expoziția istorică; verificați dacă șaua bicicletei a înghețat afară înainte de a vă așeza din nou pe ea.",
+                "en": "Soak up the warmth during the historical tour; check if condensation has frozen solid on your bike seat before riding off."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Fortunat",
+                "hu": "Saint-Fortunat templom",
+                "ro": "Biserica Saint-Fortunat",
+                "en": "Saint-Fortunat Church"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Stille ist bezaubernd; behalten Sie die Mütze auf, da die alte Kirche oft kälter ist als die Winterluft draußen.",
+                "hu": "A téli csend varázslatos; tartsa magán a sapkát, mert az öreg templom gyakran hidegebb, mint a kinti fagyos téli levegő.",
+                "ro": "Liniștea de iarnă este fermecătoare; păstrați căciula pe cap deoarece biserica veche este adesea mai rece decât aerul de afară.",
+                "en": "The winter silence is enchanting; keep your beanie on, as the ancient church is often colder inside than the outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum für zeitgenössische Kunst Fort du Bruissin",
+                "hu": "Fort du Bruissin Kortárs Művészeti Központ",
+                "ro": "Centrul de artă contemporană Fort du Bruissin",
+                "en": "Fort du Bruissin Contemporary Art Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst im gut isolierten Fort; schalten Sie für die Heimfahrt ab 17 Uhr unbedingt helle Fahrradlichter ein.",
+                "hu": "Élvezze a modern művészetet a jól szigetelt erődben; a 17 óra utáni sötét hazautazáshoz feltétlenül kapcsoljon erős lámpát.",
+                "ro": "Bucurați-vă de artă în fortul bine izolat; porniți luminile puternice ale bicicletei pentru drumul de întoarcere după ora 17.",
+                "en": "Enjoy modern art in the well-insulated fort; make absolutely sure your bike lights are bright for the dark ride home after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje átfogó autós túráját a Musée de la Blanchisserie helytörténeti kiállításával, majd az Éole Kulturális Tér modern tárlataival.\nÁlljon meg egy csendes elmélkedésre a Saint-Fortunat templomnál, mielőtt felhajtana a lenyűgöző Fort du Bruissin művészeti központjához.\nA délután a Piles de l'aqueduc de l'Yzeron ősi mérnöki csodáit tartogatja.\nZárja a városnézést a Café Théatre Jeannette Radis esti előadásával és a piac hangulatával.",
         "ro": "Începeți turul cuprinzător cu mașina explorând istoria la Musée de la Blanchisserie, urmat de expozițiile moderne de la Spațiul Cultural Éole.\nFaceți o pauză la Biserica Saint-Fortunat înainte de a conduce la monumentalul Centre d'art contemporain du Fort du Bruissin.\nDupă-amiaza vă prezintă ingineria antică remarcabilă la Piles de l'aqueduc de l'Yzeron.\nÎncheiați cu un spectacol la Café Théatre Jeannette Radis și o vizită la piață.",
         "en": "Start your comprehensive driving tour diving into local history at the Musée de la Blanchisserie, followed by the modern exhibits at the Éole Cultural Space.\nNext, pause for a quiet reflection at the Saint-Fortunat Church before driving up to the monumental Centre d'art contemporain du Fort du Bruissin.\nYour afternoon features the remarkable ancient engineering at the Piles de l'aqueduc de l'Yzeron, smoothly connecting the past to the present.\nWrap up your city circuit with an evening show at Café Théatre Jeannette Radis and a lively final stroll through the Craponne Market."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie regensicher mit dem Auto zum Wäschereimuseum. Vormittags bieten der Kulturraum und die Kirche Schutz vor dem Schauer. Mittags parken Sie nah am Kunstzentrum Fort du Bruissin für einen trockenen Rundgang. Nach einem kurzen, schirmbewaffneten Aquädukt-Stopp verbringen Sie den verregneten späten Nachmittag gemütlich im Café-Theater und auf dem überdachten Markt.",
+            "hu": "Induljon esővédett autóval a Mosoda Múzeumba. Délelőtt a kulturális tér és a templom nyújt menedéket a záporok elől. Délben parkoljon közel a Művészeti Központhoz egy száraz sétához. A vízvezetéknél tett rövid, esernyős megálló után a kora estét töltse kényelmesen a Kávéház-Színházban és a fedett piacon.",
+            "ro": "Porniți protejat de ploaie cu mașina spre muzeu. Dimineața, spațiul cultural și biserica oferă adăpost împotriva averselor. La prânz, parcați aproape de Centrul de Artă pentru un tur uscat. După o scurtă oprire cu umbrela la apeduct, petreceți după-amiaza ploioasă la Teatrul Cafenea și piața acoperită.",
+            "en": "Start rain-safe in your car heading to the Laundry Museum. Mid-morning, the cultural space and church offer shelter from showers. At noon, park close to the Art Center for a dry tour. After a brief umbrella-shielded aqueduct stop, spend the rainy late afternoon comfortably at the Café Theater and covered market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wäschereimuseum",
+                "hu": "Mosoda Múzeum",
+                "ro": "Muzeul Spălătoriei",
+                "en": "Laundry Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter nasser Tag, um Waschgeschichte zu lernen; achten Sie beim Aussteigen auf Pfützen, da der Parkplatz uneben ist.",
+                "hu": "Tökéletes esős nap a mosás történetének megismerésére; kiszálláskor ügyeljen a tócsákra az egyenetlen parkolóban.",
+                "ro": "O zi ploioasă perfectă pentru istoria spălării; atenție la bălți la ieșirea din mașină deoarece parcarea este denivelată.",
+                "en": "A perfect wet day to learn washing history; mind the deep puddles when stepping out of your car in the uneven parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Éole",
+                "hu": "Éole Kulturális Tér",
+                "ro": "Spațiul Cultural Éole",
+                "en": "Éole Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie trocken bei den Ausstellungen im Innenbereich; schalten Sie die Scheibenwischer auf höchste Stufe für die Weiterfahrt.",
+                "hu": "Maradjon szárazon a benti kiállításokon; az induláshoz kapcsolja az ablaktörlőket a legmagasabb fokozatra a nagy esőben.",
+                "ro": "Rămâneți uscat la expozițiile interioare; porniți ștergătoarele de parbriz la treapta maximă pentru următoarea deplasare scurtă.",
+                "en": "Stay completely dry enjoying the indoor exhibits; set your car's windshield wipers to high for the short drive in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Fortunat",
+                "hu": "Saint-Fortunat templom",
+                "ro": "Biserica Saint-Fortunat",
+                "en": "Saint-Fortunat Church"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Schutz vor dem Regen in dieser ruhigen Kirche; nehmen Sie den Schirm mit, da der Weg vom Auto nicht überdacht ist.",
+                "hu": "Keressen menedéket az eső elől a csendes templomban; vigye az esernyőt, mert az autótól vezető rövid út sem fedett.",
+                "ro": "Găsiți adăpost de ploaie în această biserică liniștită; luați umbrela deoarece drumul scurt de la mașină nu este acoperit.",
+                "en": "Find shelter from the downpour in this quiet sanctuary; grab your umbrella as the short walk from the car is totally exposed."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum für zeitgenössische Kunst Fort du Bruissin",
+                "hu": "Fort du Bruissin Kortárs Művészeti Központ",
+                "ro": "Centrul de artă contemporană Fort du Bruissin",
+                "en": "Fort du Bruissin Contemporary Art Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie Kunst fernab vom schlechten Wetter; nutzen Sie die Entfrosterfunktion im Auto, um beschlagene Scheiben zu klären.",
+                "hu": "Élvezze a művészetet távol a rossz időtől; használja az autó páramentesítő funkcióját, hogy letisztítsa az ablakokat.",
+                "ro": "Bucurați-vă de artă departe de vremea rea; folosiți funcția de dezaburire a mașinii pentru a curăța geamurile aburite la plecare.",
+                "en": "Enjoy the art far away from the miserable weather; use your car's defroster to quickly clear up windows fogged by wet clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktpfeiler von Yzeron",
+                "hu": "Yzeron vízvezeték-oszlopai",
+                "ro": "Stâlpii apeductului Yzeron",
+                "en": "Pillars of the Yzeron Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen vom Auto aus oder unter einem Schirm; der Matsch um die Pfeiler ist rutschig, Vorsicht beim Gehen.",
+                "hu": "Nézze a romokat az autóból vagy esernyő alól; az oszlopok körüli sár nagyon csúszós, legyen rendkívül óvatos a sétánál.",
+                "ro": "Priviți ruinele din mașină sau sub umbrelă; noroiul din jurul stâlpilor este foarte alunecos, mergeți cu mare grijă.",
+                "en": "View the ruins from the car or under an umbrella; the mud around the massive pillars is slick, so be careful if you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Café-Theater Jeannette Radis",
+                "hu": "Jeannette Radis Kávéház és Színház",
+                "ro": "Teatrul Cafenea Jeannette Radis",
+                "en": "Jeannette Radis Café Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer, trockener Ort für einen Nachmittagssnack; das Parken in der Nähe erspart Ihnen einen langen Weg im strömenden Regen.",
+                "hu": "Meleg, száraz hely egy délutáni snackhez; a közeli parkolás megkíméli a hosszú sétától a szakadó, kellemetlen esőben.",
+                "ro": "Un loc cald și uscat pentru o gustare de după-amiază; parcarea în apropiere vă scutește de o plimbare lungă în ploaia torențială.",
+                "en": "A warm, dry spot for an afternoon snack; finding parking nearby saves you from a miserable long walk in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Markt von Craponne",
+                "hu": "Craponne Piac",
+                "ro": "Piața Craponne",
+                "en": "Craponne Market"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss unter den sicheren Marktzelten; achten Sie auf nasse Fußgänger, wenn Sie in der Dämmerung nach Hause fahren.",
+                "hu": "Szép befejezés a biztonságos sátrak alatt; ügyeljen a vizes úttesten siető gyalogosokra, amikor szürkületben hazavezet.",
+                "ro": "Un final frumos sub corturile sigure ale pieței; atenție la pietonii uzi când conduceți spre casă în amurgul ploios.",
+                "en": "A nice finish under the safe market tents; watch out for pedestrians hurrying in the rain as you drive home in the wet twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Autoheizung auf dem Weg zum Museum. Vormittags wärmen der Kulturraum und die Kirche mit stiller Winteratmosphäre. Mittags fahren Sie komfortabel zum Fort du Bruissin. Nachmittags leuchten die Aquäduktpfeiler in der tiefstehenden Sonne. Vor dem frühen Einbruch der Dunkelheit wärmen Sie sich im Café-Theater auf und beenden den eisigen Tag am Markt.",
+            "hu": "Használja az autó fűtését a múzeum felé vezető úton. Délelőtt a kulturális tér és a templom csendes téli hangulattal melegít. Délben kényelmesen átvezet a Fort du Bruissin-hez. Délután a vízvezeték a lemenő napfényben ragyog. A korai sötétedés előtt melegedjen fel a kávéházban, majd fejezze be a fagyos napot a piacon.",
+            "ro": "Folosiți încălzirea mașinii pe drumul spre muzeu. Dimineața, spațiul cultural și biserica oferă o atmosferă liniștită de iarnă. La prânz, conduceți confortabil spre Fort. După-amiaza, apeductul strălucește în soarele apusului. Înainte de lăsarea întunericului, vă încălziți la Teatrul Cafenea și încheiați ziua geroasă la piață.",
+            "en": "Crank up the car heater heading to the museum. Mid-morning, the cultural space and church offer a quiet winter atmosphere. At noon, comfortably drive to Fort du Bruissin. The afternoon sun beautifully illuminates the aqueduct. Before the early 5 PM sunset, warm up at the café theater and end your frosty day at the market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wäschereimuseum",
+                "hu": "Mosoda Múzeum",
+                "ro": "Muzeul Spălătoriei",
+                "en": "Laundry Museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie Wäsche früher im Winter fror; das Museum ist beheizt, aber ziehen Sie sich für den kurzen Weg vom Auto warm an.",
+                "hu": "Tudja meg, hogyan fagyott meg régen a mosott ruha; a múzeum fűtött, de öltözzön fel melegen az autótól vezető rövid útra.",
+                "ro": "Aflați cum înghețau rufele iarna; muzeul este încălzit, dar îmbrăcați-vă gros pentru drumul scurt de la mașina parcată.",
+                "en": "Learn how laundry used to freeze solid in winter; the museum is heated, but bundle up for the freezing walk from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Éole",
+                "hu": "Éole Kulturális Tér",
+                "ro": "Spațiul Cultural Éole",
+                "en": "Éole Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die gemütliche Kultur ein; lassen Sie die Sitzheizung im Auto an, damit es bei der Rückkehr direkt warm ist.",
+                "hu": "Merüljön el a kényelmes kultúrában; hagyja bekapcsolva az ülésfűtést, hogy visszatérve azonnal meleg legyen az autóban.",
+                "ro": "Pătrundeți în cultura confortabilă; lăsați încălzirea în scaune pornită scurt timp pentru a găsi mașina caldă la întoarcere.",
+                "en": "Immerse yourself in cozy indoor culture; a great stop before you brave the cold walk back to your slowly warming vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Fortunat",
+                "hu": "Saint-Fortunat templom",
+                "ro": "Biserica Saint-Fortunat",
+                "en": "Saint-Fortunat Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Stille; die Steinwände kühlen stark ab, also behalten Sie Ihre dicke Winterjacke im Inneren an.",
+                "hu": "Csodálja meg a téli csendet; a kőfalak nagyon lehűlnek, ezért tartsa magán a vastag téli kabátját a látogatás alatt bent is.",
+                "ro": "Admirați liniștea de iarnă; pereții de piatră se răcesc puternic, așa că păstrați geaca groasă de iarnă pe voi în interior.",
+                "en": "Admire the profound winter silence; the ancient stone walls get icy, so definitely keep your thick winter coat on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum für zeitgenössische Kunst Fort du Bruissin",
+                "hu": "Fort du Bruissin Kortárs Művészeti Központ",
+                "ro": "Centrul de artă contemporană Fort du Bruissin",
+                "en": "Fort du Bruissin Contemporary Art Center"
+              },
+              "tip_5lang": {
+                "de": "Warme, faszinierende Ausstellungen im dicken Fort; prüfen Sie vor der Weiterfahrt, ob die Autoscheiben von innen gefroren sind.",
+                "hu": "Meleg, lenyűgöző kiállítások a vastag erődben; indulás előtt ellenőrizze, nem fagytak-e le az autó ablakai belülről a párától.",
+                "ro": "Expoziții calde și fascinante în fortul gros; verificați înainte de plecare dacă geamurile mașinii au înghețat pe interior.",
+                "en": "Warm, fascinating exhibits inside the thick fort walls; check if condensation has frozen the inside of your car windows before leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktpfeiler von Yzeron",
+                "hu": "Yzeron vízvezeték-oszlopai",
+                "ro": "Stâlpii apeductului Yzeron",
+                "en": "Pillars of the Yzeron Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das frostige Panorama am besten vom warmen Auto aus; falls Sie aussteigen, achten Sie auf Glatteis am Straßenrand.",
+                "hu": "Élvezze a fagyos panorámát a meleg autóból; ha kiszáll, nagyon vigyázzon a jégbordákra és a fekete jégre az út szélén.",
+                "ro": "Bucurați-vă de panorama înghețată din mașina caldă; dacă coborâți, atenție la gheața neagră de pe marginea drumului.",
+                "en": "Enjoy the frosty panorama perfectly from your warm car; if you do step out, watch carefully for black ice on the road shoulder."
+              }
+            },
+            {
+              "name": {
+                "de": "Café-Theater Jeannette Radis",
+                "hu": "Jeannette Radis Kávéház és Színház",
+                "ro": "Teatrul Cafenea Jeannette Radis",
+                "en": "Jeannette Radis Café Theater"
+              },
+              "tip_5lang": {
+                "de": "Aufwärmen bei Kaffee und Kultur; wenn Sie wieder herauskommen, wird es um 17 Uhr bereits dunkel sein, fahren Sie vorsichtig.",
+                "hu": "Melegedjen fel kávéval és kultúrával; mire kijön, 17 óra körül már sötét lesz, így nagyon óvatosan és lassan vezessen.",
+                "ro": "Încălziți-vă cu cafea și cultură; când veți ieși, va fi deja întuneric la ora 17, conduceți cu prudență spre următoarea oprire.",
+                "en": "Warm up entirely with coffee and culture; by the time you step back outside it will be dark around 5 PM, so drive carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Markt von Craponne",
+                "hu": "Craponne Piac",
+                "ro": "Piața Craponne",
+                "en": "Craponne Market"
+              },
+              "tip_5lang": {
+                "de": "Letzte Besorgungen im frostigen Abendlicht; achten Sie auf Fußgänger, die im winterlichen Dunkel oft schwer zu sehen sind.",
+                "hu": "Utolsó beszerzések a fagyos esti fényben; nagyon figyeljen a gyalogosokra, akiket a téli sötétségben gyakran nehéz észrevenni.",
+                "ro": "Ultimele cumpărături în lumina rece a serii; atenție la pietonii care sunt adesea greu de observat în întunericul de iarnă.",
+                "en": "Final errands in the crisp evening air; keep a sharp eye out for bundled-up pedestrians who are hard to spot in the winter dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

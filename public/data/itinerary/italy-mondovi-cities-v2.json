@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az alsóváros vallási örökségének felfedezésével.\n\nDélben sétáljon fel Mondovì történelmi központjába.\n\nA délutánt a felső Piazza negyed lenyűgöző múzeumainak megismerésével töltheti.\n\nZárja a napot egy kényelmes sétával a hangulatos utcákon naplemente előtt.",
         "ro": "Începeți dimineața explorând moștenirea religioasă din orașul de jos.\n\nLa prânz, urcați spre inima istorică a orașului Mondovì.\n\nPetreceți după-amiaza descoperind muzee fascinante în cartierul superior Piazza.\n\nÎncheiați ziua cu o plimbare relaxantă pe străzile fermecătoare înainte de apus.",
         "en": "Start your morning exploring the religious heritage in the lower town.\n\nBy midday, climb towards the historical heart of Mondovì.\n\nSpend your afternoon discovering fascinating museums in the upper Piazza district.\n\nEnd the day with a leisurely stroll through the charming streets before sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche Santa Maria Maggiore idealen Schutz vor dem ersten Regen. Mittags erlauben die historischen Arkaden am Piazza einen trockenen Spaziergang durch das mittelalterliche Zentrum. Nachmittags sind die beheizten Museumsräume der perfekte Ort, um dem Wetter zu entfliehen. Abends sorgt das sanfte Prasseln des Regens für eine melancholische Atmosphäre in den Gassen.",
+            "hu": "A reggeli eső elől a Santa Maria Maggiore templom nyújt menedéket, ahol megcsodálhatja a freskókat. Délben a Piazza árkádjai alatt szárazon sétálhat a történelmi óvárosban. Délután a nyomdamúzeum belső terei ideálisak a rosszidő elkerülésére. Estére a vizes macskakövek csillogása különleges fényt ad a városnak, de ügyeljen a meredek, csúszós utcákra a hazaúton.",
+            "ro": "Dimineața începe cu adăpostul oferit de Santa Maria Maggiore, în timp ce ploaia spală fațadele baroce. La prânz, porticurile din Piazza vă permit să explorați orașul fără umbrelă. După-amiaza este dedicată muzeelor interioare, ferite de umezeală și frig. Seara, luminile orașului se reflectă în băltoacele de pe trotuar, creând un decor cinematic dar alunecos.",
+            "en": "Morning rain finds you sheltered within the baroque beauty of Santa Maria Maggiore. By noon, the famous porticos of the Piazza district offer a dry path through the medieval heart of Mondovì. Afternoon is best spent inside the cozy museums, far from the drizzle. As evening falls, the rain-slicked cobblestones reflect the streetlights, requiring careful steps on the steep slopes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Maggiore",
+                "hu": "Chiesa di Santa Maria Maggiore",
+                "ro": "Chiesa di Santa Maria Maggiore",
+                "en": "Chiesa di Santa Maria Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Barockarchitektur im Trockenen; achten Sie beim Eintreten auf die nassen Marmorstufen, die bei Regen sehr rutschig sein können.",
+                "hu": "Csodálja meg a barokk belső teret, miközben az eső elől menedéket keres; vigyázzon a bejáratnál, mert a nedves márványpadló rendkívül csúszóssá válhat.",
+                "ro": "Admirați arhitectura barocă în timp ce vă adăpostiți de ploaie; aveți grijă la intrare, deoarece treptele de marmură umede pot deveni foarte alunecoase.",
+                "en": "Admire the magnificent baroque interior while sheltering from the rain; be careful at the entrance as the wet marble steps can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Maria Vergine Assunta",
+                "hu": "Chiesa Maria Vergine Assunta",
+                "ro": "Chiesa Maria Vergine Assunta",
+                "en": "Chiesa Maria Vergine Assunta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenraum für eine besinnliche Pause vom Wetter; ein stabiler Regenschirm ist für den kurzen Weg über den offenen Platz unerlässlich.",
+                "hu": "Használja ki a templom nyugalmát egy rövid pihenőre az esőben; egy erős esernyő elengedhetetlen a nyitott tér melletti rövid sétához.",
+                "ro": "Folosiți spațiul bisericii pentru o pauză liniștită departe de ploaie; o umbrelă rezistentă este esențială pentru drumul scurt prin piața deschisă.",
+                "en": "Use the church interior for a peaceful break from the weather; a sturdy umbrella is essential for the short walk across the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondovì",
+                "hu": "Mondovì",
+                "ro": "Mondovì",
+                "en": "Mondovì"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den mittelalterlichen Arkaden, die Sie trocken halten; genießen Sie die neblige Aussicht auf das Unterland direkt vom geschützten Rand aus.",
+                "hu": "Sétáljon a középkori árkádok alatt, amelyek szárazon tartják; élvezze a ködös kilátást az alsóvárosra közvetlenül a védett peremről.",
+                "ro": "Plimbați-vă pe sub arcadele medievale care vă mențin uscat; bucurați-vă de priveliștea cețoasă asupra orașului de jos direct de la marginea protejată.",
+                "en": "Walk under the medieval porticos that keep you dry; enjoy the misty views over the lower town directly from the sheltered edge of the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Sale del Vescovado",
+                "hu": "Sale del Vescovado",
+                "ro": "Sale del Vescovado",
+                "en": "Sale del Vescovado"
+              },
+              "tip_5lang": {
+                "de": "Die prunkvollen Säle sind ein perfekter Rückzugsort bei starkem Regen; nutzen Sie die Zeit für eine ausführliche Besichtigung der Fresken ohne Eile.",
+                "hu": "A pompás termek tökéletes menedéket nyújtanak heves esőzés esetén; használja ki az időt a freskók alapos, sietség nélküli megtekintésére.",
+                "ro": "Sălile somptuoase sunt un refugiu perfect în caz de ploaie torențială; folosiți timpul pentru o vizitare detaliată a frescelor, fără grabă.",
+                "en": "The grand halls provide a perfect refuge during heavy rain; take your time for a detailed visit of the frescoes without needing to rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Stampa",
+                "hu": "Museo della Stampa",
+                "ro": "Museo della Stampa",
+                "en": "Museo della Stampa"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Druckgeschichte in den weitläufigen Innenräumen; das rhythmische Prasseln des Regens draußen unterstreicht die historische Atmosphäre.",
+                "hu": "Fedezze fel a nyomtatás történetét a tágas belső terekben; a kinti eső ritmikus kopogása csak fokozza a történelmi helyszín hangulatát.",
+                "ro": "Descoperiți istoria tiparului în spațiile interioare generoase; sunetul ploii de afară subliniază atmosfera istorică a locației unice.",
+                "en": "Discover the history of printing in the spacious interiors; the rhythmic sound of rain outside enhances the historic atmosphere of the venue."
+              }
+            },
+            {
+              "name": {
+                "de": "QUI - lo spazio di mogg",
+                "hu": "QUI - lo spazio di mogg",
+                "ro": "QUI - lo spazio di mogg",
+                "en": "QUI - lo spazio di mogg"
+              },
+              "tip_5lang": {
+                "de": "Dieser moderne Kunstraum bietet ein warmes und trockenes Ende für Ihren Tag; tragen Sie wasserfeste Schuhe für den letzten steilen Abstieg zum Ausgang.",
+                "hu": "Ez a modern művészeti tér meleg és száraz zárása a napnak; viseljen vízálló cipőt az utolsó meredek lejtőhöz a kijárat felé.",
+                "ro": "Acest spațiu de artă modernă oferă un final cald și uscat zilei; purtați pantofi impermeabili pentru ultima coborâre abruptă spre ieșire.",
+                "en": "This modern art space offers a warm and dry end to your day; wear waterproof shoes for the final steep descent toward the exit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Mondovì ist oft frostig und klar, ideal für einen Besuch der warmen Kirchen. Mittags steht die Sonne tief über den Alpen und taucht die Piazza in ein goldenes Licht. Da es bereits gegen 17:00 Uhr dunkel wird, bieten die beleuchteten Museen am Nachmittag wohlige Wärme. Beenden Sie den Tag frühzeitig, bevor die Abendkälte in die steilen Gassen zieht.",
+            "hu": "A téli reggel Mondovìban gyakran fagyos, így kezdjen a fűtött Santa Maria Maggiore templomban. Délben az Alpok felett alacsonyan járó nap különleges fénybe vonja a teret. Mivel 17:00 körül már sötétedik, a délutánt töltse a múzeumok melegében. Érdemes rétegesen öltözni, mert a naplemente után a hőmérséklet hirtelen zuhan az óvárosban.",
+            "ro": "Dimineața de iarnă în Mondovì este adesea geroasă, fiind ideală pentru vizitarea bisericilor încălzite. La prânz, soarele jos deasupra Alpilor scaldă Piazza într-o lumină aurie. Deoarece se întunecă în jurul orei 17:00, după-amiaza este perfectă pentru muzeele primitoare. Încheiați ziua devreme, înainte ca frigul serii să cuprindă străzile.",
+            "en": "Winter mornings in Mondovì are often frosty and crisp, perfect for visiting the warm church interiors. By noon, the low winter sun casts long shadows across the Piazza, highlighting the alpine peaks. Since darkness falls around 5 PM, spend your afternoon in the heated museums. Finish your tour early before the evening chill settles into the steep stone alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Maggiore",
+                "hu": "Chiesa di Santa Maria Maggiore",
+                "ro": "Chiesa di Santa Maria Maggiore",
+                "en": "Chiesa di Santa Maria Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die relative Wärme des barocken Innenraums; tragen Sie dicke Socken, da der Steinboden im Winter sehr kalt ausstrahlt.",
+                "hu": "Élvezze a csendet és a barokk belső tér viszonylagos melegét; viseljen vastag zoknit, mert a kőpadló télen nagyon hideget áraszt.",
+                "ro": "Bucurați-vă de liniștea și căldura relativă a interiorului baroc; purtați șosete groase, deoarece podeaua de piatră emană mult frig iarna.",
+                "en": "Enjoy the silence and relative warmth of the baroque interior; wear thick socks as the stone floor radiates a lot of cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Maria Vergine Assunta",
+                "hu": "Chiesa Maria Vergine Assunta",
+                "ro": "Chiesa Maria Vergine Assunta",
+                "en": "Chiesa Maria Vergine Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die festliche Winteratmosphäre in der Kirche ist besonders besinnlich; ziehen Sie sich nach der Besichtigung für den kalten Wind auf dem Platz warm an.",
+                "hu": "A templom ünnepi téli hangulata különösen meghitt; a látogatás után öltözzön fel jól a téren fújó hideg szél miatt.",
+                "ro": "Atmosfera festivă de iarnă din biserică este deosebit de liniștită; îmbrăcați-vă bine după vizită pentru vântul rece din piață.",
+                "en": "The festive winter atmosphere inside the church is especially peaceful; wrap up warm after your visit for the cold wind in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondovì",
+                "hu": "Mondovì",
+                "ro": "Mondovì",
+                "en": "Mondovì"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Alpenpanorama mit schneebedeckten Gipfeln; die Arkaden bieten zwar Schutz vor Wind, aber die Luft bleibt im Schatten sehr frostig.",
+                "hu": "Csodálja meg a hófödte Alpok panorámáját; az árkádok ugyan védenek a széltől, de az árnyékban a levegő nagyon fagyos marad.",
+                "ro": "Admirați panorama Alpilor cu vârfurile înzăpezite; arcadele oferă protecție împotriva vântului, dar aerul rămâne foarte rece la umbră.",
+                "en": "Admire the panorama of the snow-capped Alps; the porticos provide wind protection, but the air remains very frosty in the shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Sale del Vescovado",
+                "hu": "Sale del Vescovado",
+                "ro": "Sale del Vescovado",
+                "en": "Sale del Vescovado"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Säle sind im Winter ein angenehm temperierter Ort; nutzen Sie das weiche Nachmittagslicht für Fotos der kunstvollen Fresken.",
+                "hu": "A történelmi termek télen kellemesen temperált helyszínt biztosítanak; használja ki a lágy délutáni fényt a művészi freskók fotózásához.",
+                "ro": "Sălile istorice oferă un spațiu plăcut temperat iarna; profitați de lumina blândă a după-amiezii pentru fotografii ale frescelor artistice.",
+                "en": "The historical halls offer a pleasantly tempered environment in winter; use the soft afternoon light for photos of the artistic frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Stampa",
+                "hu": "Museo della Stampa",
+                "ro": "Museo della Stampa",
+                "en": "Museo della Stampa"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet wohlige Wärme während draußen die Dämmerung einsetzt; planen Sie Ihren Besuch so, dass Sie vor Sonnenuntergang um 17 Uhr fertig sind.",
+                "hu": "A múzeum kellemes meleget kínál, miközben kint alkonyodik; tervezze úgy a látogatást, hogy a 17 órai naplemente előtt végezzen.",
+                "ro": "Muzeul oferă o căldură primitoare în timp ce afară se lasă amurgul; planificați vizita astfel încât să terminați înainte de apusul de la ora 17.",
+                "en": "The museum offers welcoming warmth as dusk begins outside; plan your visit to finish before the 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "QUI - lo spazio di mogg",
+                "hu": "QUI - lo spazio di mogg",
+                "ro": "QUI - lo spazio di mogg",
+                "en": "QUI - lo spazio di mogg"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem beheizten modernen Kulturzentrum; achten Sie auf dem Rückweg auf glatte Stellen durch gefrierende Feuchtigkeit.",
+                "hu": "Zárja a napot ebben a fűtött, modern kulturális központban; a visszaúton figyeljen a lefagyott nedvesség okozta csúszós foltokra.",
+                "ro": "Încheiați ziua în acest centru cultural modern și încălzit; la întoarcere, aveți grijă la porțiunile alunecoase cauzate de îngheț.",
+                "en": "End your day in this heated modern cultural center; watch out for slippery patches caused by freezing moisture on your way back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Élvezze a reggeli kerékpározást a Parco Europában, majd irány a központ.\n\nDélben tekerjen fel a felsőváros lenyűgöző múzeumai felé.\n\nA délutánt a gazdag nyomda- és kultúrtörténeti örökség felfedezésének szentelheti.\n\nFejezze be a túrát a csendes déli kápolnák közelében.",
         "ro": "Bucurați-vă de o plimbare matinală prin Parco Europa spre centru.\n\nLa prânz, pedalați spre muzeele fascinante din orașul de sus.\n\nDupă-amiaza este dedicată explorării bogatei moșteniri culturale și tipografice.\n\nÎncheiați turul cu bicicleta lângă capelele liniștite din sud.",
         "en": "Enjoy a morning ride through Parco Europa before heading to the historic center.\n\nAt midday, pedal up towards the fascinating upper town museums.\n\nYour afternoon is dedicated to exploring the rich cultural and print heritage.\n\nFinish your biking tour near the quiet southern chapels."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen im Parco Europa erfordert gute Schutzbleche gegen den aufgewirbelten Schlamm. Mittags auf dem Piazza sind die nassen Steine tückisch, fahren Sie besonders vorsichtig in den Kurven. Die Museen am Nachmittag bieten eine trockene Pause für Sie und Ihr Equipment. Beenden Sie die Tour vor Einbruch der Dunkelheit, da die Sicht bei Regen stark abnimmt.",
+            "hu": "A reggeli start a ködös Parco Europában kihívás, viseljen vízálló nadrágot a sár felverődése ellen. Délben a Piazza macskakövei csúszóssá válnak az esőtől, így lassítson a kanyarokban. Délután a múzeumok kínálnak száraz pihenőt, ahol leparkolhat a fedett árkádok közelében. Estére az eső intenzitása fokozódhat, ezért ellenőrizze a világítást.",
+            "ro": "O dimineață ploioasă în Parco Europa necesită apărători bune împotriva noroiului. La prânz, pietrele umede din Piazza sunt înșelătoare, deci virați cu mare atenție. Muzeele de după-amiază oferă o pauză uscată pentru dumneavoastră și echipament. Încheiați tura înainte de lăsarea întunericului, deoarece vizibilitatea scade dramatic pe ploaie.",
+            "en": "A rainy morning in Parco Europa requires good mudguards against the wet paths. By noon, the wet stones in Piazza are treacherous, so take extra care on corners. Afternoon museums offer a dry break for you and your gear. Finish your ride before dark, as visibility decreases significantly in the rain, especially on the descent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Europa",
+                "hu": "Parco Europa",
+                "ro": "Parco Europa",
+                "en": "Parco Europa"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können bei Regen matschig sein; tragen Sie wasserfeste Überschuhe, um Ihre Füße vor Spritzwasser und Pfützen zu schützen.",
+                "hu": "A park ösvényei esőben sárosak lehetnek; viseljen vízálló cipővédőt, hogy megvédje lábát a felfröccsenő víztől és a tócsáktól.",
+                "ro": "Potecile din parc pot fi noroioase pe ploaie; purtați protecții impermeabile pentru încălțăminte ca să vă feriți de stropi și bălți.",
+                "en": "The park paths can be muddy in the rain; wear waterproof overshoes to protect your feet from splashes and puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondovì",
+                "hu": "Mondovì",
+                "ro": "Mondovì",
+                "en": "Mondovì"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen auf dem nassen Kopfsteinpflaster ruckartige Bewegungen; nutzen Sie die Arkaden zum sicheren Abstellen des Rades.",
+                "hu": "Kerülje a hirtelen fékezést a nedves macskakövön; használja az árkádokat a kerékpár biztonságos és száraz leállításához.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed; folosiți arcadele pentru a parca bicicleta în siguranță și la adăpost de ploaie.",
+                "en": "Avoid sudden braking on the wet cobblestones; use the porticos for parking your bike safely and keeping it dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Musei dei Licei",
+                "hu": "Musei dei Licei",
+                "ro": "Musei dei Licei",
+                "en": "Musei dei Licei"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz vor dem Regen und wärmen Sie sich auf; prüfen Sie Ihre Bremsbeläge, bevor Sie die Fahrt im nassen Wetter fortsetzen.",
+                "hu": "Keressen itt menedéket az eső elől és melegedjen fel; ellenőrizze a fékbetéteket, mielőtt folytatná az utat a vizes időben.",
+                "ro": "Căutați adăpost aici și încălziți-vă; verificați saboții de frână înainte de a continua drumul prin vremea umedă.",
+                "en": "Seek shelter here from the rain and warm up; check your brake pads before continuing your journey in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Bressani",
+                "hu": "Palazzo dei Bressani",
+                "ro": "Palazzo dei Bressani",
+                "en": "Palazzo dei Bressani"
+              },
+              "tip_5lang": {
+                "de": "Der Palast bietet einen hervorragenden windgeschützten Halt; achten Sie auf Gullydeckel in den Straßen, die bei Nässe extrem rutschig sind.",
+                "hu": "A palota kiváló szélvédett pihenőhelyet kínál; ügyeljen az utcai csatornafedelekre, amelyek nedvesen rendkívül csúszósak.",
+                "ro": "Palatul oferă un punct de oprire excelent, ferit de vânt; atenție la capacele de canal de pe străzi, care sunt extrem de alunecoase pe ud.",
+                "en": "The palace provides an excellent wind-sheltered stop; watch out for manhole covers on the streets, which are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Stampa",
+                "hu": "Museo della Stampa",
+                "ro": "Museo della Stampa",
+                "en": "Museo della Stampa"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause im Trockenen; wischen Sie den Sattel und die Griffe trocken, bevor Sie sich wieder auf den Rückweg machen.",
+                "hu": "Ideális egy hosszabb száraz pihenőre; törölje szárazra a nyerget és a markolatokat, mielőtt újra elindulna a visszaúton.",
+                "ro": "Ideal pentru o pauză lungă la uscat; ștergeți șaua și mânerele înainte de a porni din nou la drum spre destinația finală.",
+                "en": "Ideal for a longer break in the dry; wipe your saddle and grips dry before heading out again for the final leg of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella dell'Annunziata",
+                "hu": "Cappella dell'Annunziata",
+                "ro": "Cappella dell'Annunziata",
+                "en": "Cappella dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Kapelle erfordert bei Regen volle Konzentration; tragen Sie eine helle Warnweste, um bei schlechter Sicht gesehen zu werden.",
+                "hu": "A kápolnához vezető lejtmenet teljes koncentrációt igényel esőben; viseljen fényvisszaverő mellényt, hogy rossz látási viszonyoknál is észrevegyék.",
+                "ro": "Coborârea spre capelă necesită concentrare maximă pe ploaie; purtați o vestă reflectorizantă pentru a fi vizibil în condiții de vizibilitate scăzută.",
+                "en": "The descent to the chapel requires full concentration in the rain; wear a reflective vest to stay visible in poor light conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Parco Europa erfordert warme Handschuhe und eine winddichte Jacke. Die Wintersonne wärmt mittags kaum, bietet aber eine spektakuläre Fernsicht auf die schneebedeckten Gipfel. Da es ab 16:30 Uhr dämmert, sollten Sie die Museen am Nachmittag als Aufwärmstopps nutzen. Beenden Sie die Tour früh, um der eisigen Abendluft und möglicher Reifglätte zu entgehen.",
+            "hu": "A fagyos reggeli start a Parco Europában meleg kesztyűt és szélálló dzsekit igényel. A téli nap alig melegít, de délben látványos kilátást nyújt a hófödte csúcsokra. Mivel 16:30-tól szürkül, használja a múzeumokat melegedőnek. Fejezze be korán a túrát, hogy elkerülje a jeges esti levegőt és az utakon kialakuló zúzmarát.",
+            "ro": "Un start înghețat în Parco Europa necesită mănuși groase și o jachetă rezistentă la vânt. Soarele de iarnă abia încălzește la prânz, dar oferă o priveliște spectaculoasă. Deoarece amurgul începe la 16:30, folosiți muzeele ca puncte de încălzire. Încheiați tura devreme pentru a evita aerul înghețat al serii și poleiul.",
+            "en": "A frosty start in Parco Europa requires warm gloves and a windproof jacket. The winter sun barely warms you at noon, but offers spectacular views of the snowy peaks. With twilight starting at 4:30 PM, use the afternoon museums as warming stops. Finish your tour early to avoid the icy evening air and potential frost on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Europa",
+                "hu": "Parco Europa",
+                "ro": "Parco Europa",
+                "en": "Parco Europa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und den Blick auf die Alpen; achten Sie auf vereiste Stellen im Schatten der Bäume, besonders in den Kurven.",
+                "hu": "Élvezze a tiszta téli levegőt és az Alpok látványát; ügyeljen a fák árnyékában maradó jeges foltokra, különösen a kanyarokban.",
+                "ro": "Bucurați-vă de aerul curat și de vederea Alpilor; atenție la porțiunile înghețate de la umbra copacilor, mai ales în curbe.",
+                "en": "Enjoy the crisp winter air and the view of the Alps; watch out for icy patches in the shade of the trees, especially on corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondovì",
+                "hu": "Mondovì",
+                "ro": "Mondovì",
+                "en": "Mondovì"
+              },
+              "tip_5lang": {
+                "de": "Die Arkaden schützen vor dem kalten Wind; machen Sie eine kurze Pause, um sich die Hände aufzuwärmen, bevor Sie zum nächsten Halt radeln.",
+                "hu": "Az árkádok védenek a hideg szél ellen; tartson egy rövid szünetet, hogy felmelegítse a kezét, mielőtt a következő megállóhoz tekerni kezdene.",
+                "ro": "Arcadele oferă protecție împotriva vântului tăios; faceți o scurtă pauză pentru a vă încălzi mâinile înainte de a pedala spre următorul punct.",
+                "en": "The porticos protect you from the biting wind; take a short break to warm your hands before cycling to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Musei dei Licei",
+                "hu": "Musei dei Licei",
+                "ro": "Musei dei Licei",
+                "en": "Musei dei Licei"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich im Inneren aufzuwärmen; die tiefstehende Wintersonne sorgt für dramatische Lichtverhältnisse in den historischen Räumen.",
+                "hu": "Ideális helyszín a belső felmelegedéshez; az alacsonyan járó téli nap drámai fényviszonyokat teremt a történelmi termekben.",
+                "ro": "Un loc ideal pentru a vă încălzi în interior; soarele jos de iarnă creează jocuri de lumini dramatice în sălile istorice.",
+                "en": "An ideal location to warm up inside; the low winter sun creates dramatic lighting conditions in the historical rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Bressani",
+                "hu": "Palazzo dei Bressani",
+                "ro": "Palazzo dei Bressani",
+                "en": "Palazzo dei Bressani"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast, bevor die Kälte am späten Nachmittag zunimmt; tragen Sie Thermokleidung, um die Körperwärme beim Fahren zu halten.",
+                "hu": "Látogassa meg a palotát, mielőtt a késő délutáni hideg felerősödne; viseljen termőruházatot, hogy menet közben is megőrizze testhőjét.",
+                "ro": "Vizitați palatul înainte ca frigul de după-amiază să se intensifice; purtați îmbrăcăminte termică pentru a menține căldura corpului.",
+                "en": "Visit the palace before the late afternoon cold intensifies; wear thermal clothing to maintain body heat while riding between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Stampa",
+                "hu": "Museo della Stampa",
+                "ro": "Museo della Stampa",
+                "en": "Museo della Stampa"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt hier, um der frühen Dunkelheit zu entgehen; prüfen Sie Ihre Beleuchtung für den Heimweg in der Dämmerung.",
+                "hu": "Hosszabbítsa meg itt a tartózkodását, hogy elkerülje a korai sötétedést; ellenőrizze a világítást a szürkületben történő hazaúthoz.",
+                "ro": "Prelungiți vizita aici pentru a evita întunericul timpuriu; verificați sistemul de iluminare pentru drumul de întoarcere în amurg.",
+                "en": "Extend your stay here to avoid the early darkness; check your lighting system for the return journey in the twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella dell'Annunziata",
+                "hu": "Cappella dell'Annunziata",
+                "ro": "Cappella dell'Annunziata",
+                "en": "Cappella dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle wirkt in der Winterdämmerung besonders mystisch; beeilen Sie sich mit der Abfahrt, da die Temperaturen nach 17 Uhr rapide sinken.",
+                "hu": "A kápolna a téli szürkületben különösen misztikusnak tűnik; siessen a lejtmenettel, mert 17 óra után a hőmérséklet gyorsan zuhan.",
+                "ro": "Capela pare deosebit de mistică în amurgul de iarnă; grăbiți coborârea deoarece temperaturile scad rapid după ora 17.",
+                "en": "The chapel looks especially mystical in the winter twilight; hurry with the descent as temperatures drop rapidly after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel vezessen el a külső kápolnákhoz egy csendes történelmi induláshoz.\n\nÁlljon meg a Parco Europánál, mielőtt délben a felsővárosba indul.\n\nTöltsön el egy nyugodt délutánt a történelmi paloták meglátogatásával.\n\nZárja a napot a nyomdamúzeum hatalmas gyűjteményeinek megcsodálásával.",
         "ro": "Conduceți dimineața spre capelele periferice pentru un început liniștit.\n\nOpriți-vă la Parco Europa înainte de a urca în orașul de sus la prânz.\n\nPetreceți o după-amiază relaxantă vizitând palatele istorice impresionante.\n\nÎncheiați ziua admirând colecțiile vaste ale muzeului tipografiei.",
         "en": "Drive to the peripheral chapels in the morning for a quiet historical start.\n\nStop by Parco Europa before heading to the upper town by midday.\n\nSpend a relaxed afternoon visiting historic palaces without tiring yourself out.\n\nConclude the day marveling at the print museum's vast collections."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Mondovì lässt sich bequem mit dem Auto bewältigen, beginnend bei den abgelegenen Kapellen. Mittags bietet das Parkhaus am Piazza direkten Zugang zu den schützenden Arkaden. Nachmittags können Sie die Museen besuchen, ohne nass zu werden. Abends genießen Sie die Fahrt durch die nebligen Hügel, während Sie im warmen Fahrzeug trocken bleiben.",
+            "hu": "Egy esős nap Mondovìban kényelmesen teljesíthető autóval, kezdve a távolabbi kápolnákkal. Délben a Piazza közeli parkolók közvetlen hozzáférést biztosítanak a védő árkádokhoz. Délután a múzeumokat látogathatja meg anélkül, hogy elázna. Estére az autó melegéből csodálhatja a ködös dombokat, miközben teljesen száraz marad.",
+            "ro": "O zi ploioasă în Mondovì poate fi parcursă confortabil cu mașina, începând cu capelele mai izolate. La prânz, parcarea de lângă Piazza oferă acces direct la arcadele protectoare. După-amiaza puteți vizita muzeele fără a vă uda. Seara, bucurați-vă de drumul prin dealurile cețoase, rămânând la adăpost în vehicul.",
+            "en": "A rainy day in Mondovì is easily managed by car, starting with the more remote chapels. By noon, parking near the Piazza gives you direct access to the sheltering porticos. Afternoon museum visits are perfect for staying dry. In the evening, enjoy the drive through the misty hills while remaining warm and dry inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella di San Mambotto",
+                "hu": "Cappella di San Mambotto",
+                "ro": "Cappella di San Mambotto",
+                "en": "Cappella di San Mambotto"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu vermeiden; die Sicht auf die Hügel ist bei Nebel besonders atmosphärisch.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a dombokra nyíló kilátás ködben különösen hangulatos.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; vederea spre dealuri este deosebit de atmosferică pe timp de ceață.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the view of the hills is particularly atmospheric in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Bernardo delle Forche",
+                "hu": "Cappella di San Bernardo delle Forche",
+                "ro": "Cappella di San Bernardo delle Forche",
+                "en": "Cappella di San Bernardo delle Forche"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Rückzugsort zwischen den Besichtigungen; achten Sie auf rutschige Zufahrtswege bei starkem Regen.",
+                "hu": "Használja az autót menedékként a látogatások között; ügyeljen a csúszós bekötőutakra heves esőzés idején.",
+                "ro": "Folosiți mașina ca refugiu între vizite; atenție la drumurile de acces alunecoase în caz de ploaie torențială.",
+                "en": "Use your car as a retreat between visits; watch out for slippery access roads during heavy rain periods."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Europa",
+                "hu": "Parco Europa",
+                "ro": "Parco Europa",
+                "en": "Parco Europa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto, falls es zu stark regnet; wasserfeste Schuhe sind für den kurzen Weg zum Aussichtspunkt ratsam.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esik; vízálló cipő javasolt a kilátópontig tartó rövid sétához.",
+                "ro": "Bucurați-vă de panoramă direct din mașină dacă plouă prea tare; pantofii impermeabili sunt recomandați pentru scurta plimbare la belvedere.",
+                "en": "Enjoy the panorama directly from the car if it rains too hard; waterproof shoes are advised for the short walk to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Sale del Vescovado",
+                "hu": "Sale del Vescovado",
+                "ro": "Sale del Vescovado",
+                "en": "Sale del Vescovado"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus, um trocken zu den Sale zu gelangen; bewundern Sie die Fresken, während draußen der Regen fällt.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy szárazon jusson el a termekhez; csodálja meg a freskókat, miközben kint esik az eső.",
+                "ro": "Parcați în parcarea acoperită din apropiere pentru a ajunge uscat la săli; admirați frescele în timp ce afară plouă.",
+                "en": "Park in the nearby covered parking to reach the halls dry; admire the frescoes while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Bressani",
+                "hu": "Palazzo dei Bressani",
+                "ro": "Palazzo dei Bressani",
+                "en": "Palazzo dei Bressani"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz bringt Sie in den geschützten Palast; die Innenräume bieten eine hervorragende Abwechslung zum grauen Wetter.",
+                "hu": "A parkolótól egy rövid futással a védett palotába juthat; a belső terek kiváló felüdülést nyújtanak a szürke időben.",
+                "ro": "O scurtă fugă de la parcare vă duce în palatul protejat; spațiile interioare oferă o relaxare excelentă pe vreme gri.",
+                "en": "A short sprint from the parking spot brings you into the sheltered palace; the interiors provide excellent respite from the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Stampa",
+                "hu": "Museo della Stampa",
+                "ro": "Museo della Stampa",
+                "en": "Museo della Stampa"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Ort, um die regenreichste Zeit des Tages zu verbringen; prüfen Sie die Scheibenwischer für die Fahrt im dichten Verkehr.",
+                "hu": "A múzeum ideális hely a nap legesősebb időszakának eltöltésére; ellenőrizze az ablaktörlőket a sűrű forgalomban való haladáshoz.",
+                "ro": "Muzeul este locul ideal pentru a petrece cea mai ploioasă parte a zilei; verificați ștergătoarele pentru drumul prin trafic dens.",
+                "en": "The museum is an ideal place to spend the rainiest part of the day; check your wipers for driving through heavy traffic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag im beheizten Auto bei den Bergkapellen, wo der Frost oft die Landschaft verzaubert. Mittags bietet der Piazza bei klarem Wetter eine unvergleichliche Sicht auf die Alpen. Da die Sonne früh untergeht, sind die warmen Museen am Nachmittag ein Muss. Achten Sie bei der Rückfahrt nach 17:00 Uhr auf mögliche Straßenglätte durch sinkende Temperaturen.",
+            "hu": "Kezdje a téli napot a fűtött autóban a hegyi kápolnáknál, ahol a zúzmara gyakran elvarázsolja a tájat. Délben a Piazza tiszta időben páratlan kilátást nyújt az Alpokra. Mivel a nap korán nyugszik, a délutáni múzeumlátogatás kötelező program. A 17:00 utáni visszaúton ügyeljen az utakra, amelyek a fagy miatt csúszóssá válhatnak.",
+            "ro": "Începeți ziua de iarnă în mașina încălzită la capelele de munte, unde chiciura transformă peisajul. La prânz, Piazza oferă o vedere inegalabilă spre Alpi pe vreme senină. Deoarece soarele apune devreme, muzeele calde sunt obligatorii după-amiaza. Atenție la drumurile care pot deveni alunecoase după ora 17 din cauza înghețului.",
+            "en": "Start your winter day in the heated car at the mountain chapels, where frost often transforms the landscape. At noon, the Piazza offers unparalleled views of the Alps in clear weather. Since the sun sets early, warm museum visits are a must for the afternoon. On the return trip after 5 PM, watch out for roads becoming slippery due to freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella di San Mambotto",
+                "hu": "Cappella di San Mambotto",
+                "ro": "Cappella di San Mambotto",
+                "en": "Cappella di San Mambotto"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft von Reif bedeckt; lassen Sie den Motor kurz laufen, um die Scheiben für die Weiterfahrt eisfrei zu halten.",
+                "hu": "A kápolnát télen gyakran zúzmara borítja; járassa kicsit a motort, hogy az ablakok jégmentesek maradjanak a továbbinduláshoz.",
+                "ro": "Capela este adesea acoperită de chiciură iarna; lăsați motorul pornit puțin pentru a menține parbrizul dezghețat pentru drum.",
+                "en": "The chapel is often covered in frost in winter; keep the engine running briefly to ensure the windows stay clear for the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Bernardo delle Forche",
+                "hu": "Cappella di San Bernardo delle Forche",
+                "ro": "Cappella di San Bernardo delle Forche",
+                "en": "Cappella di San Bernardo delle Forche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der winterlichen Hügel; prüfen Sie den Reifendruck, da dieser bei niedrigen Temperaturen oft sinkt.",
+                "hu": "Élvezze a téli dombok nyugalmát; ellenőrizze a guminyomást, mivel az alacsony hőmérsékleten gyakran lecsökken.",
+                "ro": "Bucurați-vă de liniștea dealurilor înzăpezite; verificați presiunea în anvelope, deoarece aceasta scade adesea la temperaturi joase.",
+                "en": "Enjoy the peace of the winter hills; check your tire pressure, as it often drops significantly in low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Europa",
+                "hu": "Parco Europa",
+                "ro": "Parco Europa",
+                "en": "Parco Europa"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht auf die verschneiten Gipfel; bleiben Sie im Auto warm, während Sie das Panorama bewundern.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a hófödte csúcsokra; maradjon az autó melegében, miközben a panorámában gyönyörködik.",
+                "ro": "Parcarea oferă o vedere excelentă spre vârfurile înzăpezite; rămâneți în căldura mașinii în timp ce admirați panorama.",
+                "en": "The parking area offers great views of the snowy peaks; stay warm inside the car while you admire the panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Sale del Vescovado",
+                "hu": "Sale del Vescovado",
+                "ro": "Sale del Vescovado",
+                "en": "Sale del Vescovado"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenräume für eine Pause von der Kälte; das Winterlicht bringt die Farben der Fresken besonders gut zur Geltung.",
+                "hu": "Használja a fűtött belső tereket a hideg elleni szünetre; a téli fény különösen jól kiemeli a freskók színeit.",
+                "ro": "Folosiți spațiile încălzite pentru o pauză de la frig; lumina de iarnă scoate în evidență culorile frescelor într-un mod deosebit.",
+                "en": "Use the heated interiors for a break from the cold; the winter light highlights the colors of the frescoes beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Bressani",
+                "hu": "Palazzo dei Bressani",
+                "ro": "Palazzo dei Bressani",
+                "en": "Palazzo dei Bressani"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast am Nachmittag, bevor die Temperaturen sinken; parken Sie strategisch, um lange Wege in der Kälte zu vermeiden.",
+                "hu": "Látogassa meg a palotát délután, mielőtt a hőmérséklet leesne; parkoljon stratégiailag, hogy elkerülje a hosszú sétát a hidegben.",
+                "ro": "Vizitați palatul după-amiaza înainte ca temperaturile să scadă; parcați strategic pentru a evita plimbările lungi prin frig.",
+                "en": "Visit the palace in the afternoon before the temperature drops; park strategically to avoid long walks in the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Stampa",
+                "hu": "Museo della Stampa",
+                "ro": "Museo della Stampa",
+                "en": "Museo della Stampa"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss im Warmen, wenn es draußen bereits dunkel ist; stellen Sie sicher, dass Ihre Fahrzeugbeleuchtung einwandfrei funktioniert.",
+                "hu": "Tökéletes befejezés a melegben, amikor kint már sötét van; győződjön meg róla, hogy az autó világítása kifogástalanul működik.",
+                "ro": "Un final perfect la căldură, când afară este deja întuneric; asigurați-vă că sistemul de iluminare al mașinii funcționează impecabil.",
+                "en": "A perfect ending in the warmth when it is already dark outside; make sure your vehicle's lighting system is working perfectly."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Sharm nyüzsgő központjában, majd tegyen egy rövid sétát a Fun Town felé egy kis reggeli szórakozásért.\n\nDélben a King Tut Múzeum lenyűgöző leleteinek felfedezése várja, majd egy pihentető szünet a nyilvános strandon.\n\nDélután élvezze a Cleo Park élénk hangulatát és hűsítő medencéit az igazi felfrissülés érdekében a melegben.\n\nZárja a túrát egy látogatással a Sinai Grand Kaszinóban, megcsodálva annak lenyűgöző építészetét és fényeit.",
         "ro": "Începeți ziua în centrul din Sharm, apoi faceți o plimbare către Fun Town pentru o dimineață relaxantă și plină de jocuri.\n\nLa prânz, explorați artefactele fascinante de la Muzeul King Tut, urmate de o pauză liniștită la plaja publică.\n\nDupă-amiaza, bucurați-vă de atmosfera plină de energie și atracțiile acvatice din Cleo Park pentru a vă răcori.\n\nÎncheiați turul cu o vizită de seară la Sinai Grand Casino, admirând arhitectura sa grandioasă și luminile vibrante.",
         "en": "Begin your day in the heart of Sharm, then take a short stroll to Fun Town for some lighthearted morning entertainment.\n\nMidday brings a cultural shift as you explore the artifacts at the King Tut Museum, followed by a pause at the Public Beach.\n\nIn the afternoon, enjoy the lively atmosphere and refreshing water features at Cleo Park to cool down from the sun.\n\nConclude your walking tour with an evening visit to the Sinai Grand Casino, admiring its grand architecture and vibrant lights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Sharm-Schild, wo der Boden rutschig sein kann. Mittags bieten Fun Town und das King Tut Museum ideale trockene Zufluchtsorte. Am Nachmittag ist der Strandbesuch kurz, gefolgt vom Cleo Park, wo Wasser ohnehin dazugehört. Den Abend verbringt man gemütlich und trocken im prachtvollen Sinai Grand Casino, um dem seltenen Wüstenregen stilvoll zu entkommen.",
+            "hu": "Az esős reggel a Sharm feliratnál indul, ahol a kövezet csúszós lehet. Délben a Fun Town fedett részei és a King Tut Múzeum nyújtanak tökéletes menedéket a zápor elől. Délután a tengerparti séta lerövidül, de a Cleo Park vizes élményei után a Sinai Grand Kaszinó belső terei garantálják a száraz és elegáns estét, messze a sivatagi sártól és a szokatlanul nyirkos időjárástól.",
+            "ro": "O dimineață ploioasă începe la semnul Sharm, unde trotuarul devine alunecos. La prânz, Fun Town și Muzeul King Tut oferă adăpostul perfect împotriva apei. După-amiaza, plaja este vizitată scurt sub umbrelă, urmată de Cleo Park. Seara se încheie în ambianța uscată și luxoasă a Cazinoului Sinai Grand, locul ideal pentru a evita umezeala neobișnuită a deșertului într-un cadru rafinat.",
+            "en": "A rainy morning starts at the Sharm sign, where tiles can be slippery. By noon, Fun Town’s covered areas and the King Tut Museum provide excellent shelter from the rare downpour. In the afternoon, the beach is best seen briefly under an umbrella before heading to Cleo Park. End your day at the Sinai Grand Casino, staying dry and warm while enjoying the desert’s unique rainy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sharm",
+                "hu": "Sharm",
+                "ro": "Sharm",
+                "en": "Sharm"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe für das Foto am Wahrzeichen, da die nassen Fliesen sehr glatt werden; ein schneller Stopp reicht aus, bevor der Regen stärker wird.",
+                "hu": "Viselj tapadós talpú cipőt a fotózáshoz, mert a vizes díszkövek rendkívül csúszósak; egy gyors megálló javasolt, mielőtt az eső intenzívebbé válna a nyílt terepen.",
+                "ro": "Purtați încălțăminte antiderapantă pentru fotografia la monument, deoarece plăcile umede devin foarte alunecoase; o oprire rapidă este suficientă înainte ca ploaia să crească.",
+                "en": "Wear non-slip shoes for your photo at the landmark, as the wet tiles become very slick; a quick stop is best before the rain intensifies in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fun Town",
+                "hu": "Fun Town",
+                "ro": "Fun Town",
+                "en": "Fun Town"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden und Indoor-Spielbereiche, um trocken zu bleiben, während Sie die bunte Atmosphäre dieses kleinen Freizeitparks trotz Regen genießen.",
+                "hu": "Használd a fedett árkádokat és a beltéri játéktereket, hogy száraz maradj, miközben kiélvezed a vidámpark színes hangulatát a ritka sivatagi esőzés idején is.",
+                "ro": "Folosiți arcadele acoperite și zonele de jocuri de interior pentru a rămâne uscat în timp ce vă bucurați de atmosfera colorată a parcului, în ciuda ploii deșertice rare.",
+                "en": "Take advantage of the covered arcades and indoor gaming zones to stay dry while enjoying the vibrant atmosphere of this fun park despite the unusual rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "King Tut Museum",
+                "hu": "King Tut Múzeum",
+                "ro": "Muzeul King Tut",
+                "en": "King Tut Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um einen starken Schauer abzuwarten; die klimatisierten Ausstellungsräume halten Sie trocken, während Sie die Replikate der Schätze bestaunen.",
+                "hu": "Ez a tökéletes helyszín egy nagyobb zápor átvészelésére; a klimatizált kiállítóterek teljesen szárazon tartanak, miközben megcsodálod a fáraó kincseinek másolatait.",
+                "ro": "Acesta este locul perfect pentru a aștepta trecerea unei ploi torențiale; sălile de expoziție climatizate vă mențin uscat în timp ce admirați replicile tezaurului.",
+                "en": "This is the ideal spot to wait out a heavy shower; the climate-controlled indoor galleries keep you perfectly dry while you explore the replicas of ancient treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentlicher Strand",
+                "hu": "Nyilvános Strand",
+                "ro": "Plaja Publică",
+                "en": "Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der Strandbars mit festem Dach; der Blick auf das aufgewühlte Rote Meer ist bei Regen besonders dramatisch und fotogen aus der Ferne.",
+                "hu": "Keress menedéket az egyik fix tetős tengerparti bárban; az esőben felkorbácsolt Vörös-tenger látványa különösen drámai és fotogén egy biztonságos, száraz pontról.",
+                "ro": "Căutați adăpost într-unul dintre barurile de pe plajă cu acoperiș solid; vederea Mării Roșii agitate de ploaie este dramatică și fotogenă dintr-un loc uscat.",
+                "en": "Seek shelter in a beach bar with a solid roof; the view of the Red Sea churned by rain is dramatic and photogenic when watched from a safe, dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Cleo Park",
+                "hu": "Cleo Park",
+                "ro": "Cleo Park",
+                "en": "Cleo Park"
+              },
+              "tip_5lang": {
+                "de": "Da Sie hier ohnehin nass werden, stört der Regen kaum; achten Sie jedoch auf Durchsagen wegen möglicher Gewitter, bei denen die Rutschen aus Sicherheitsgründen sperren.",
+                "hu": "Mivel itt amúgy is vizes leszel, az eső nem akadály; figyelj viszont a hangosbemondóra az esetleges villámlás miatt, mert olyankor a csúszdákat biztonságból lezárják.",
+                "ro": "Deoarece oricum vă veți uda aici, ploaia nu contează; totuși, fiți atenți la anunțurile despre descărcări electrice, când toboganele se închid pentru siguranță.",
+                "en": "Since you will get wet here anyway, the rain is not an issue; however, listen for announcements regarding lightning, as slides may close for safety during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinai Grand Casino",
+                "hu": "Sinai Grand Kaszinó",
+                "ro": "Sinai Grand Casino",
+                "en": "Sinai Grand Casino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Abend im glamourösen Innenbereich, wo Sie der Nässe entfliehen können; ein Regenschirm-Service steht oft am Eingang für den Weg zum Taxi bereit.",
+                "hu": "Élvezd az estét a csillogó belső terekben, ahol teljesen elmenekülhetsz a nyirkosság elől; a bejáratnál gyakran esernyő-szerviz segíti a kijutást a várakozó taxikhoz.",
+                "ro": "Bucurați-vă de seară în interiorul spectaculos, unde puteți uita de umezeală; la intrare există adesea servicii cu umbrele pentru a vă ajuta să ajungeți la taxi.",
+                "en": "Enjoy your evening in the glamorous interior, escaping the damp air; umbrella service is often available at the entrance to help you stay dry until you reach your taxi."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch am Sharm-Schild. Mittags wärmt die milde Wüstensonne in Fun Town und am Strand, doch im King Tut Museum entkommt man dem kühlen Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte man den Cleo Park früh besuchen. Der Abend im Casino ist angenehm, da die Wüstenluft nach Sonnenuntergang sehr schnell abkühlt und warme Innenräume locken.",
+            "hu": "A tiszta téli reggel frissen indul a Sharm feliratnál. Délben a lágy sivatagi nap melegít a Fun Townban és a strandon, míg a múzeum szélvédett menedéket ad. Mivel a nap már 17:00 körül lemegy, érdemes korábban végezni a Cleo Parkban. Az este a kaszinóban a legjobb, mert a sivatagi levegő napnyugta után gyorsan lehűl, így a belső meleg terek hívogatóbbá válnak.",
+            "ro": "O dimineață senină de iarnă începe răcoros la semnul Sharm. La prânz, soarele blând de deșert încălzește la Fun Town și pe plajă, iar Muzeul King Tut oferă adăpost contra vântului. Deoarece soarele apune în jur de ora 17:00, vizitați Cleo Park devreme. Seara la cazinou este perfectă, deoarece aerul se răcește brusc după amurg, făcând spațiile interioare foarte primitoare.",
+            "en": "A crisp winter morning starts at the Sharm sign. At noon, the mild desert sun warms Fun Town and the beach, while the museum offers a break from the cool breeze. With sunset around 17:00, plan your Cleo Park visit early to enjoy the daylight. Evenings are best spent indoors at the Casino, as the desert temperature drops rapidly once the sun disappears behind the horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sharm",
+                "hu": "Sharm",
+                "ro": "Sharm",
+                "en": "Sharm"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh am Morgen für das beste Licht; ziehen Sie eine leichte Jacke an, da der Wind in dieser offenen Bucht im Winter recht kühl wehen kann.",
+                "hu": "Érkezz korán reggel a legjobb fényekért; vegyél fel egy könnyű dzsekit, mert a szél a téli hónapokban ezen a nyílt partszakaszon meglehetősen hűvös lehet.",
+                "ro": "Veniți dimineața devreme pentru cea mai bună lumină; purtați o jachetă ușoară, deoarece vântul poate fi destul de tăios în acest golf deschis în timpul iernii.",
+                "en": "Arrive early in the morning for the best light; wear a light windbreaker as the breeze in this open bay can feel quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Fun Town",
+                "hu": "Fun Town",
+                "ro": "Fun Town",
+                "en": "Fun Town"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist perfekt für die Fahrgeschäfte im Freien; nutzen Sie die warmen Stunden aus, bevor der Schatten der Gebäude die Temperaturen sinken lässt.",
+                "hu": "A déli napsütés ideális a szabadtéri játékokhoz; használd ki a legmelegebb órákat, mielőtt az épületek árnyéka miatt hirtelen hűvösebbé válna a levegő.",
+                "ro": "Soarele de la amiază este perfect pentru atracțiile în aer liber; profitați de orele calde înainte ca umbra clădirilor să facă temperatura să scadă brusc.",
+                "en": "The midday sun is perfect for the outdoor rides; enjoy the warmest hours of the day before the long winter shadows make the air feel significantly cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "King Tut Museum",
+                "hu": "King Tut Múzeum",
+                "ro": "Muzeul King Tut",
+                "en": "King Tut Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den frühen Nachmittag, um dem kühler werdenden Wind draußen zu entfliehen und die Schätze in wohl temperierter Umgebung zu erkunden.",
+                "hu": "Ideális helyszín kora délutánra, hogy elmenekülj a kinti, hűvösödő szél elől, és kellemes belső hőmérsékletben fedezd fel az egyiptomi történelem kincseit.",
+                "ro": "Un loc ideal pentru după-amiaza devreme, pentru a scăpa de vântul răcoros de afară și a explora comorile într-un mediu cu temperatură controlată.",
+                "en": "An excellent spot for the early afternoon to escape the cooling breeze outside and explore historical treasures in a stable, warm indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentlicher Strand",
+                "hu": "Nyilvános Strand",
+                "ro": "Plaja Publică",
+                "en": "Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Sonnenbad in den geschützten Liegebereichen; zum Schwimmen ist das Wasser im Winter oft zu frisch, es sei denn, Sie tragen einen Neoprenanzug.",
+                "hu": "Élvezd a napsütést a szélvédett napozóágyakon; úszáshoz a víz télen gyakran túl friss, hacsak nem vagy edzett, vagy nem viselsz vékonyabb neoprén ruhát.",
+                "ro": "Bucurați-vă de soare în zonele de șezlonguri protejate de vânt; pentru înot, apa este adesea prea rece iarna, dacă nu sunteți obișnuit cu temperaturi scăzute.",
+                "en": "Enjoy sunbathing in the sheltered areas protected from the wind; the water is often too fresh for swimming in winter unless you are used to colder temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Cleo Park",
+                "hu": "Cleo Park",
+                "ro": "Cleo Park",
+                "en": "Cleo Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park direkt nach dem Mittagessen, da die Pools oft beheizt sind, aber das Verlassen des Wassers bei Sonnenuntergang gegen 17:00 Uhr sehr kalt wird.",
+                "hu": "Közvetlenül ebéd után látogasd meg a parkot, mert a medencék gyakran fűtöttek, de a vízből kijövetel a 17:00 órai napnyugta után már kifejezetten fázós lehet.",
+                "ro": "Vizitați parcul imediat după prânz; piscinele sunt adesea încălzite, dar ieșirea din apă după apusul de la ora 17:00 va fi resimțită ca fiind foarte rece.",
+                "en": "Visit the park right after lunch; the pools are often heated, but exiting the water after the 17:00 sunset will feel very cold due to the dry desert air."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinai Grand Casino",
+                "hu": "Sinai Grand Kaszinó",
+                "ro": "Sinai Grand Casino",
+                "en": "Sinai Grand Casino"
+              },
+              "tip_5lang": {
+                "de": "Da die Nächte in der Wüste empfindlich kalt werden, ist die warme Pracht des Casinos der ideale Ort, um den Abend ohne Frieren elegant zu verbringen.",
+                "hu": "Mivel a sivatagi éjszakák érezhetően hidegek, a kaszinó meleg és pompás belső tere ideális helyszín az este elegáns, fagyoskodás nélküli eltöltéséhez.",
+                "ro": "Deoarece nopțile în deșert devin destul de reci, splendoarea caldă a cazinoului este locul ideal pentru a petrece seara elegant, fără a simți frigul de afară.",
+                "en": "As desert nights get notably cold, the warm and grand interior of the casino is the perfect place to spend your evening elegantly without feeling the chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúrája egy tanulságos délelőttel indul a King Tut Múzeumban, amely ideális a hűvösebb korai órákban.\n\nEzt követően kényelmesen elteker a strandra, majd a Sinai Grand Kaszinó felé, lenyűgöző építészeti látványokért.\n\nA délután a korallzátonyoké: meglátogatja a Near Gardent és a Middle Gardent, amelyek kiváló búvárkodást kínálnak.\n\nA túra a Far Gardennél ér véget, ahol a késő délutáni napsütésben csodálhatja meg a régió legszebb élővilágát.",
         "ro": "Turul cu bicicleta începe cu o dimineață educativă la Muzeul King Tut, ideal pentru orele răcoroase ale dimineții.\n\nApoi pedalați liniștit către plaja publică și spre Sinai Grand Casino pentru primele impresii arhitecturale.\n\nDupă-amiaza este dedicată recifelor de corali: veți vizita Near Garden și Middle Garden pentru experiențe subacvatice excelente.\n\nTurul se încheie la Far Garden, unde veți admira cea mai impresionantă biodiversitate marină în soarele după-amiezii.",
         "en": "Your cycling tour begins with an educational morning at the King Tut Museum, perfect for the cooler early hours.\n\nYou'll then enjoy a leisurely ride to the Public Beach and onto the Sinai Grand Casino for grand architectural views.\n\nThe afternoon is dedicated to the coral reefs, visiting Near Garden and Middle Garden for excellent snorkeling sessions.\n\nThe journey concludes at Far Garden, where you can admire the region's most impressive marine life in the late afternoon sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Straßen von Sharm. Der Vormittag im King Tut Museum bietet einen trockenen Start. Mittags am Strand sollte man nur kurz rasten. Nachmittags geht die Fahrt zum Casino und den Garden-Aussichtspunkten weiter, wobei die Küstenwege bei Nässe rutschig sein können. Ein wasserdichtes Set ist heute Ihr wichtigster Begleiter auf zwei Rädern.",
+            "hu": "Az esős biciklizés óvatosságot igényel Sharm útjain. A délelőtt a King Tut Múzeumban szárazon indul. Délben a strandnál csak rövid pihenő javasolt. Délután a kaszinó és a Garden kilátópontok felé haladva ügyelj a csúszós parti utakra. Egy teljes vízálló felszerelés ma a legfontosabb társad lesz a kétkerekű felfedezés során.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile din Sharm. Dimineața la Muzeul King Tut oferă un start uscat. La prânz, faceți doar o scurtă pauză la plajă. După-amiaza, drumul continuă spre cazinou și punctele Garden, dar atenție la potecile de coastă care devin alunecoase. Un set de haine impermeabile este esențial astăzi pe două roți.",
+            "en": "Cycling in the rain requires extra caution on Sharm’s roads. Start dry at the King Tut Museum in the morning. At noon, keep your beach stop brief. In the afternoon, head towards the casino and the Garden viewpoints, but be careful as coastal paths can be slick when wet. A full waterproof kit is your most important companion for today's two-wheeled adventure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "King Tut Museum",
+                "hu": "King Tut Múzeum",
+                "ro": "Muzeul King Tut",
+                "en": "King Tut Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Vormittag, um die trockene Ausstellung zu genießen, während draußen der erste Regen fällt.",
+                "hu": "Parkold a biciklit fedett helyre, és használd ki a délelőttöt a száraz kiállítás megtekintésére, amíg kint az első esőcseppek áztatják az utakat.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de dimineață pentru a vedea expoziția uscată, în timp ce afară cad primii stropi de ploaie.",
+                "en": "Park your bike in a sheltered spot and use the morning to enjoy the dry indoor exhibits while the first rain of the day falls outside on the roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentlicher Strand",
+                "hu": "Nyilvános Strand",
+                "ro": "Plaja Publică",
+                "en": "Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt im nassen Sand; parken Sie auf festem Untergrund und genießen Sie den Blick auf die Wellen kurz unter einem Vordach.",
+                "hu": "Kerüld a biciklizést közvetlenül a nedves homokban; parkolj szilárd talajon, és egy előtető alól csodáld meg a viharos tenger hullámait egy rövid pihenő alatt.",
+                "ro": "Evitați să mergeți cu bicicleta direct prin nisipul ud; parcați pe o suprafață solidă și admirați valurile mării de sub o copertină protectoare.",
+                "en": "Avoid cycling directly through the wet sand; park on solid ground and enjoy the view of the stormy waves from under a protective awning for a brief break."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinai Grand Casino",
+                "hu": "Sinai Grand Kaszinó",
+                "ro": "Sinai Grand Casino",
+                "en": "Sinai Grand Casino"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen glatt sein; bremsen Sie frühzeitig und nutzen Sie die elegante Lobby, um sich kurz aufzuwärmen, bevor Sie die Gardens ansteuern.",
+                "hu": "A feljáró esőben csúszós lehet; fékezz időben, és használd ki az elegáns lobbit egy rövid melegedésre, mielőtt továbbtekernél a Garden kilátópontok felé.",
+                "ro": "Rampa de acces poate fi alunecoasă pe ploaie; frânați din timp și folosiți lobby-ul elegant pentru a vă încălzi puțin înainte de a porni spre Gardens.",
+                "en": "The access ramp can be slick in the rain; brake early and use the elegant lobby to warm up briefly before continuing your ride toward the Garden viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Near Garden",
+                "hu": "Near Garden",
+                "ro": "Near Garden",
+                "en": "Near Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenpfade sind bei Nässe tückisch; fahren Sie vorsichtig und genießen Sie den dunstigen Blick auf die Riffe, der bei Regen eine mystische Aura hat.",
+                "hu": "A parti ösvények nedvesen csalókák; tekerj óvatosan, és élvezd a zátonyokra nyíló párás kilátást, amely esőben különleges, misztikus hangulatot áraszt.",
+                "ro": "Potecile de coastă sunt înșelătoare când sunt ude; pedalați cu grijă și admirați vederea cețoasă spre recife, care are o aură mistică pe ploaie.",
+                "en": "Coastal paths are treacherous when wet; ride carefully and enjoy the misty view of the reefs, which takes on a mystical aura during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Middle Garden",
+                "hu": "Middle Garden",
+                "ro": "Middle Garden",
+                "en": "Middle Garden"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter einem Felsvorsprung; achten Sie auf festen Stand Ihres Rades auf dem aufgeweichten Boden.",
+                "hu": "Hirtelen zápor esetén keress menedéket egy sziklakiszögellés alatt; ügyelj rá, hogy a biciklid stabilan álljon a felázott, helyenként sáros talajon.",
+                "ro": "Căutați adăpost sub o proeminență stâncoasă în caz de aversă bruscă; asigurați-vă că bicicleta stă stabil pe solul înmuiat și potențial noroios.",
+                "en": "Seek shelter under a rock overhang if a sudden downpour starts; make sure your bike is parked securely on the softened, potentially muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Far Garden",
+                "hu": "Far Garden",
+                "ro": "Far Garden",
+                "en": "Far Garden"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit, da nasse Straßen bei schlechtem Licht gefährlich sind; nutzen Sie ein Rücklicht für bessere Sichtbarkeit.",
+                "hu": "Fejezd be a túrát sötétedés előtt, mert a vizes utak rossz látási viszonyoknál veszélyesek; mindenképpen használj hátsó villogót a jobb láthatóságért.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului, deoarece drumurile ude sunt periculoase la lumină slabă; folosiți neapărat un stop pentru vizibilitate.",
+                "en": "Finish your tour before dark, as wet roads are hazardous in low light; ensure you use a rear flasher for better visibility to other road users."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sharm ist bei milden 20 Grad herrlich. Der Vormittag im Museum bietet einen windgeschützten Start. Mittags wärmt die Sonne am Strand und Casino. Die Gardens bieten am Nachmittag fantastische Ausblicke, doch der Rückweg sollte vor 17:00 Uhr erfolgen, da es nach Sonnenuntergang auf dem Rad im Fahrtwind schlagartig sehr kalt wird.",
+            "hu": "A téli biciklizés Sharmban a kellemes 20 fokban igazi élmény. A délelőtt a múzeumban szélvédett indítást ad. Délben a nap melege kísér a strandon és a kaszinónál. A Garden kilátópontok délután fantasztikus látványt nyújtanak, de a visszautat tervezd 17:00 előttre, mert napnyugta után a menetszélben hirtelen lehűlsz.",
+            "ro": "Ciclismul de iarnă în Sharm este o plăcere la cele 20 de grade blânde. Dimineața la muzeu oferă un start protejat de vânt. La prânz, căldura soarelui vă însoțește pe plajă și la cazinou. Punctele Garden oferă vederi fantastice după-amiaza, dar planificați întoarcerea înainte de 17:00, căci vântul devine rece după apus.",
+            "en": "Winter cycling in Sharm is delightful with temperatures around 20°C. Start your morning at the museum for a wind-protected beginning. Midday sun makes the beach and casino stops very pleasant. The Garden viewpoints offer stunning vistas in the afternoon, but aim to head back before 17:00 as the wind chill increases sharply after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "King Tut Museum",
+                "hu": "King Tut Múzeum",
+                "ro": "Muzeul King Tut",
+                "en": "King Tut Museum"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, wenn die Luft morgens noch frisch ist; die Innenräume sind perfekt temperiert, um sich auf die spätere Radtour in der Sonne vorzubereiten.",
+                "hu": "Indíts itt, amíg a reggeli levegő még friss; a belső terek tökéletes hőmérsékletűek, hogy felkészülj a későbbi napsütéses biciklis szakaszokra.",
+                "ro": "Începeți aici când aerul de dimineață este încă proaspăt; interiorul are o temperatură perfectă pentru a vă pregăti pentru segmentele însorite de ciclism.",
+                "en": "Start here while the morning air is still fresh; the indoor galleries have a perfect temperature to prepare you for the sunnier cycling segments later."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentlicher Strand",
+                "hu": "Nyilvános Strand",
+                "ro": "Plaja Publică",
+                "en": "Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne am Strand ist ideal zum Krafttanken; auf dem Rad sollten Sie ein leichtes Halstuch tragen, um sich gegen den kühlen Meereswind zu schützen.",
+                "hu": "A déli napsütés a strandon ideális az energiagyűjtéshez; a bringán viselj egy könnyű nyaksálat, hogy védd magad a hűvösebb tengeri fuvallatok ellen.",
+                "ro": "Soarele de prânz de pe plajă este ideal pentru reîncărcarea bateriilor; pe bicicletă purtați o eșarfă ușoară pentru a vă proteja de briza rece a mării.",
+                "en": "The midday sun on the beach is ideal for recharging; while on the bike, wear a light neck gaiter to protect yourself from the cooler sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinai Grand Casino",
+                "hu": "Sinai Grand Kaszinó",
+                "ro": "Sinai Grand Casino",
+                "en": "Sinai Grand Casino"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Nachmittag ist perfekt; nutzen Sie die sonnigen Bereiche vor dem Gebäude für Fotos, bevor die Schatten der Palmen länger werden.",
+                "hu": "Egy rövid délutáni megálló tökéletes; használd ki a napos részeket az épület előtt a fotózáshoz, mielőtt a pálmák árnyéka elnyúlik és hűvöset ad.",
+                "ro": "O scurtă oprire după-amiaza este perfectă; profitați de zonele însorite din fața clădirii pentru fotografii, înainte ca umbrele palmierilor să se lungească.",
+                "en": "A short afternoon stop is perfect; use the sunny areas in front of the building for photos before the long palm shadows start to bring a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Near Garden",
+                "hu": "Near Garden",
+                "ro": "Near Garden",
+                "en": "Near Garden"
+              },
+              "tip_5lang": {
+                "de": "Das Licht im Winter ist hier besonders klar für Weitwinkelfotos der Küste; achten Sie beim Radfahren auf lockeres Gestein am Rand der Pfade.",
+                "hu": "A téli fények itt különösen tiszták a parti panorámafotókhoz; tekerés közben figyelj az ösvények szélén található lazább kőzetekre és kavicsokra.",
+                "ro": "Lumina de iarnă este extrem de clară aici pentru fotografii panoramice; în timp ce pedalați, fiți atenți la pietrele instabile de pe marginea potecilor.",
+                "en": "The winter light here is exceptionally clear for panoramic coastal photos; while cycling, watch out for loose rocks and gravel at the edges of the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Middle Garden",
+                "hu": "Middle Garden",
+                "ro": "Middle Garden",
+                "en": "Middle Garden"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Felsen für eine Pause; im Schatten wird es auf dem Fahrrad schnell unangenehm kühl, also bleiben Sie in der direkten Sonne.",
+                "hu": "Keress egy napos sziklát a pihenéshez; az árnyékban biciklizve gyorsan átfázhatsz, ezért igyekezz a közvetlen napsütésben maradni a megállók alatt.",
+                "ro": "Găsiți o stâncă însorită pentru pauză; pedalând prin umbră puteți îngheța rapid, așa că încercați să rămâneți în lumina directă a soarelui la oprirea aceasta.",
+                "en": "Find a sunny rock for a break; cycling through shadows can cool you down quickly, so aim to stay in the direct sunlight during your stop here."
+              }
+            },
+            {
+              "name": {
+                "de": "Far Garden",
+                "hu": "Far Garden",
+                "ro": "Far Garden",
+                "en": "Far Garden"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie vor 16:30 Uhr den Rückweg an; sobald die Sonne verschwindet, fallen die Temperaturen rapide, was den Rückweg auf dem Rad sehr frisch macht.",
+                "hu": "Indulj vissza 16:30 előtt; amint a nap eltűnik, a hőmérséklet meredeken zuhan, ami a biciklis visszautat kifejezetten fagyossá és kellemetlenné teheti.",
+                "ro": "Porniți înapoi înainte de 16:30; imediat ce soarele dispare, temperatura scade brusc, ceea ce poate face drumul de întoarcere pe bicicletă foarte rece.",
+                "en": "Start heading back before 16:30; as soon as the sun drops, the temperature falls sharply, making the return cycle journey feel quite icy and biting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Az autóval a nap kényelmesen indul a Fun Townban, majd gyorsan átgurulhat a lenyűgöző King Tut Múzeumhoz.\n\nA déli hőségben kényelmesen elérheti a Cleo Parkot egy vizes frissítőért, majd megáll a Sinai Grand Kaszinónál.\n\nA délután tengeri kalandokat ígér: könnyedén eléri a part menti Near Garden és Middle Garden látványos zátonyait.\n\nA nap fénypontjaként az út a Far Gardenhez vezet, ahol kora estig csodálhatja a páratlan víz alatti élővilágot.",
         "ro": "Cu mașina, ziua începe confortabil la Fun Town, urmată de o scurtă călătorie spre fascinantul Muzeu King Tut.\n\nLa căldura amiezii ajungeți rapid la Cleo Park pentru a vă răcori, apoi faceți o oprire la Sinai Grand Casino.\n\nDupă-amiaza devine nautică: vă îndreptați fără efort spre punctele de coastă Near Garden și Middle Garden.\n\nCa punct culminant, traseul vă poartă la Far Garden, unde veți admira o lume subacvatică de neegalat până seara.",
         "en": "By car, the day starts comfortably at Fun Town, followed by a quick drive to the fascinating exhibits of the King Tut Museum.\n\nDuring the midday heat, you easily reach Cleo Park for aquatic refreshment before stopping by the Sinai Grand Casino.\n\nThe afternoon turns nautical as you effortlessly navigate to the coastal snorkeling spots of Near Garden and Middle Garden.\n\nFor a grand finale, the route takes you to Far Garden, where you can admire an unparalleled underwater world well into the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man in Sharm bestens gegen Regen gewappnet. Der Vormittag in Fun Town und im King Tut Museum bleibt trocken. Mittags steuert man den Cleo Park an, wo Wasser das Thema ist. Nachmittags geht es komfortabel zum Casino und den Gardens. Das Auto bietet den perfekten Rückzugsort zwischen den Stopps, um den seltenen Regen der Wüste ganz entspannt zu beobachten.",
+            "hu": "Autóval Sharmban a legnagyobb eső sem akadály. A délelőtt a Fun Townban és a King Tut Múzeumban teljesen szárazon telik. Délben jöhet a Cleo Park, ahol az eső csak ráadás a vizes kalandokhoz. Délután kényelmesen gurulhatsz a kaszinóhoz és a Gardenekhez. Az autó tökéletes menedék a megállók között, ahonnan kényelmesen figyelheted a ritka sivatagi esőzést.",
+            "ro": "Cu mașina, ploaia din Sharm nu reprezintă un impediment. Dimineața la Fun Town și Muzeul King Tut trece în mod uscat. La prânz urmează Cleo Park, unde ploaia este doar un bonus la aventurile acvatice. După-amiaza conduceți confortabil spre cazinou și Gardens. Mașina oferă refugiul perfect între opriri, de unde puteți observa relaxat ploaia rară din deșert.",
+            "en": "By car, even the heaviest rain in Sharm won't slow you down. Spend a dry morning at Fun Town and the King Tut Museum. At noon, visit Cleo Park where getting wet is part of the fun. In the afternoon, drive comfortably to the casino and the Garden viewpoints. Your car serves as the perfect sanctuary between stops, letting you enjoy the rare desert rain from a cozy, dry seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fun Town",
+                "hu": "Fun Town",
+                "ro": "Fun Town",
+                "en": "Fun Town"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie die überdachten Bereiche zwischen den Attraktionen, um bei Schauern nicht nass zu werden.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz; használd a fedett részeket az attrakciók között, hogy elkerüld az ázást a hirtelen jött záporok alatt.",
+                "ro": "Parcați cât mai aproape de intrare; folosiți zonele acoperite dintre atracții pentru a evita umezeala în timpul averselor trecătoare de dimineață.",
+                "en": "Park as close to the entrance as possible; use the sheltered walkways between attractions to avoid getting wet during any sudden morning downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "King Tut Museum",
+                "hu": "King Tut Múzeum",
+                "ro": "Muzeul King Tut",
+                "en": "King Tut Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Parkhaus oder nahegelegene Parkplätze bieten einen schnellen Weg ins Trockene; genießen Sie die Ausstellung ausgiebig, während es draußen regnet.",
+                "hu": "A közeli parkolóhelyekről gyorsan bejuthatsz a szárazba; élvezd ki alaposan a kiállítást, amíg odakint a szokatlanul intenzív sivatagi eső áztatja az utakat.",
+                "ro": "Locurile de parcare din apropiere permit un acces rapid la interior; bucurați-vă de expoziție pe îndelete cât timp afară plouă neobișnuit de tare.",
+                "en": "Nearby parking spots allow for quick access to the dry interior; take your time exploring the exhibits while the unusual desert rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cleo Park",
+                "hu": "Cleo Park",
+                "ro": "Cleo Park",
+                "en": "Cleo Park"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Handtücher und Wechselkleidung im Auto; so haben Sie nach dem nassen Vergnügen sofort einen trockenen und warmen Ort für die Weiterfahrt.",
+                "hu": "Hagyd a törölközőket és a váltóruhát az autóban; így a vizes kalandok után azonnal egy száraz és meleg hely vár rád a túra folytatásához.",
+                "ro": "Lăsați prosoapele și hainele de schimb în mașină; astfel, după aventurile acvatice, veți avea imediat un loc uscat și cald pentru a continua drumul.",
+                "en": "Keep your towels and spare clothes in the car; this way, you'll have a dry and warm sanctuary waiting for you immediately after your water park fun."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinai Grand Casino",
+                "hu": "Sinai Grand Kaszinó",
+                "ro": "Sinai Grand Casino",
+                "en": "Sinai Grand Casino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Valet-Parkservice, um direkt am trockenen Eingang auszusteigen; das elegante Interieur ist der perfekte Ort für eine Regenpause am Nachmittag.",
+                "hu": "Használd a valet parkolást, hogy közvetlenül a száraz bejáratnál szállhass ki; az elegáns belső tér tökéletes helyszín egy délutáni pihenőhöz az eső elől.",
+                "ro": "Folosiți serviciul de valet parking pentru a coborî direct la intrarea uscată; interiorul elegant este locul perfect pentru o pauză de după-amiază.",
+                "en": "Use the valet parking service to drop off directly at the dry entrance; the grand interior is the perfect place for an afternoon break from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Near Garden",
+                "hu": "Near Garden",
+                "ro": "Near Garden",
+                "en": "Near Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Küste bequem aus dem Auto heraus, falls der Regen zu stark ist; die erhöhten Parkpunkte bieten tolle Panorama-Aussichten.",
+                "hu": "Élvezd a parti kilátást kényelmesen az autóból, ha túl erősen esne az eső; a megemelt parkolópontok kiváló panorámát nyújtanak a tengerre.",
+                "ro": "Admirați vederea de coastă confortabil din mașină dacă ploaia este prea puternică; punctele de parcare ridicate oferă o panoramă excelentă asupra mării.",
+                "en": "Enjoy the coastal views comfortably from inside your car if the rain is too heavy; the elevated parking spots offer great panoramas of the Red Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Middle Garden",
+                "hu": "Middle Garden",
+                "ro": "Middle Garden",
+                "en": "Middle Garden"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf unbefestigte Parkflächen, die bei Regen schlammig sein können; bleiben Sie auf den asphaltierten Bereichen, um nicht stecken zu bleiben.",
+                "hu": "Ügyelj a nem aszfaltozott parkolókra, amik esőben sárossá válhatnak; maradj a szilárd útburkolaton, hogy elkerüld az elakadást a felázott talajon.",
+                "ro": "Atenție la parcările neasfaltate care pot deveni noroioase pe ploaie; rămâneți pe suprafețele solide pentru a nu rămâne blocat în solul înmuiat.",
+                "en": "Be careful with unpaved parking areas which can become muddy in the rain; stick to solid surfaces to avoid getting stuck in the softened ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Far Garden",
+                "hu": "Far Garden",
+                "ro": "Far Garden",
+                "en": "Far Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Scheinwerfer helfen bei der Fahrt durch den Regen; beenden Sie den Tag mit einem letzten Blick auf das Meer, bevor Sie im trockenen Auto heimfahren.",
+                "hu": "A fényszórók segítenek a biztonságos vezetésben az esőben; zárd a napot egy utolsó tengeri pillantással, mielőtt a száraz autóval hazaindulnál.",
+                "ro": "Farurile vă vor ajuta să conduceți în siguranță prin ploaie; încheiați ziua cu o ultimă privire spre mare înainte de a pleca spre casă în mașina uscată.",
+                "en": "Your headlights will help you navigate safely through the rain; finish the day with a final look at the sea before heading home in your dry vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Sightseeing mit dem Auto in Sharm ist entspannt und warm. Vormittags locken Fun Town und das King Tut Museum. Mittags genießt man den Cleo Park in der stärksten Sonne. Nachmittags geht es zum Casino und den Gardens. Das Auto schützt vor dem kühlen Wind zwischen den Stopps und macht den Rückzug nach dem frühen Sonnenuntergang um 17:00 Uhr besonders komfortabel.",
+            "hu": "A téli városnézés autóval Sharmban pihentető és meleg. Délelőtt a Fun Town és a múzeum vár. Délben a Cleo Parkot a legmelegebb órákban élvezheted. Délután jöhet a kaszinó és a Gardenek. Az autó megvéd a hűvös széltől a megállók között, és kényelmessé teszi az utat a korai, 17:00 órai napnyugta után is.",
+            "ro": "Vizitarea orașului iarna cu mașina în Sharm este relaxantă și caldă. Dimineața vă așteaptă Fun Town și muzeul. La prânz, Cleo Park este ideal în orele cele mai însorite. După-amiaza urmează cazinoul și Gardens. Mașina vă protejează de vântul rece între opriri și face drumul confortabil după apusul devreme de la ora 17:00.",
+            "en": "Winter sightseeing by car in Sharm is both relaxing and warm. Spend your morning at Fun Town and the museum. At noon, enjoy Cleo Park during the warmest hours of the day. In the afternoon, visit the casino and the Garden viewpoints. Your car protects you from the cool winter wind between stops and makes travel easy after the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fun Town",
+                "hu": "Fun Town",
+                "ro": "Fun Town",
+                "en": "Fun Town"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Sonne, damit das Auto für die Weiterfahrt angenehm warm bleibt; morgens ist es im Schatten noch etwas frisch.",
+                "hu": "Használd a napos parkolóhelyeket, hogy az autó kellemesen meleg maradjon a továbbinduláshoz; reggel az árnyékban még kifejezetten friss a levegő.",
+                "ro": "Folosiți locurile de parcare însorite pentru ca mașina să rămână caldă pentru plecare; dimineața, la umbră, aerul este încă destul de rece.",
+                "en": "Use sunny parking spots to keep the car interior pleasantly warm for your departure; in the morning, shaded areas can still feel quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "King Tut Museum",
+                "hu": "King Tut Múzeum",
+                "ro": "Muzeul King Tut",
+                "en": "King Tut Museum"
+              },
+              "tip_5lang": {
+                "de": "Der klimatisierte Innenraum bietet Schutz vor dem kühlen Winterwind; parken Sie nah am Eingang, um den Weg im kalten Luftzug so kurz wie möglich zu halten.",
+                "hu": "A klimatizált belső tér védelmet nyújt a hűvös téli szél ellen; parkolj a bejárat közelében, hogy a lehető legrövidebb ideig kelljen a hideg huzatban lenned.",
+                "ro": "Interiorul climatizat oferă protecție contra vântului rece de iarnă; parcați aproape de intrare pentru a sta cât mai puțin timp în curentul de aer rece.",
+                "en": "The climate-controlled interior provides a break from the cool winter breeze; park close to the entrance to minimize your time spent in the chilly drafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Cleo Park",
+                "hu": "Cleo Park",
+                "ro": "Cleo Park",
+                "en": "Cleo Park"
+              },
+              "tip_5lang": {
+                "de": "Dank des Autos können Sie die Heizung für den Rückweg voll aufdrehen; besonders wichtig, wenn Sie nach dem Wasserspaß im kühlen Nachmittagswind zum Fahrzeug gehen.",
+                "hu": "Az autónak köszönhetően a fűtést maximumra állíthatod a visszauton; ez különösen fontos, ha a vízi élmények után a hűvös délutáni szélben érsz a kocsihoz.",
+                "ro": "Datorită mașinii, puteți seta căldura la maximum pentru drumul de întoarcere; este esențial după distracția acvatică, când ajungeți la vehicul în vântul rece.",
+                "en": "Thanks to the car, you can turn up the heater for your return journey; this is vital after water activities when you reach the vehicle in the cool afternoon wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinai Grand Casino",
+                "hu": "Sinai Grand Kaszinó",
+                "ro": "Sinai Grand Casino",
+                "en": "Sinai Grand Casino"
+              },
+              "tip_5lang": {
+                "de": "Der Valet-Service ist im Winter ideal, um den kühlen Wind zu vermeiden; genießen Sie den Luxus des warmen Innenraums direkt beim Aussteigen.",
+                "hu": "A valet szolgáltatás télen ideális a hűvös szél elkerülésére; élvezd a meleg belső tér luxusát azonnal, amint kiszállsz a kényelmes autódból.",
+                "ro": "Serviciul de valet este ideal iarna pentru a evita vântul rece; bucurați-vă de luxul interiorului cald imediat ce coborâți din mașina confortabilă.",
+                "en": "Valet service is ideal in winter to avoid the biting wind; enjoy the luxury of the warm interior immediately as you step out of your comfortable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Near Garden",
+                "hu": "Near Garden",
+                "ro": "Near Garden",
+                "en": "Near Garden"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie eine tolle Aussicht, ohne den Wagen verlassen zu müssen, falls der Wind zu stark ist; perfekt für Winter-Panoramafotos.",
+                "hu": "A parkolóból kiváló kilátás nyílik anélkül, hogy ki kellene szállnod, ha túl erős lenne a szél; tökéletes helyszín a téli panorámafotókhoz.",
+                "ro": "Din parcare aveți o vedere excelentă fără a fi nevoie să coborâți dacă vântul este prea puternic; un loc perfect pentru fotografii panoramice de iarnă.",
+                "en": "From the parking area, you have a great view without needing to leave the car if the wind is too strong; it's a perfect spot for winter panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Middle Garden",
+                "hu": "Middle Garden",
+                "ro": "Middle Garden",
+                "en": "Middle Garden"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Sonnenuntergang im Auto; die klare Winterluft bietet tolle Farben, aber die Temperatur fällt in der Sekunde, in der die Sonne weg ist.",
+                "hu": "Maradj az autóban a naplemente idejére; a tiszta téli levegő csodás színeket ad, de a hőmérséklet abban a pillanatban zuhanni kezd, ahogy a nap eltűnik.",
+                "ro": "Rămâneți în mașină pentru apus; aerul clar de iarnă oferă culori superbe, dar temperatura scade în secunda în care soarele a dispărut de pe cer.",
+                "en": "Stay in the car for sunset; the clear winter air provides stunning colors, but the temperature drops the very second the sun disappears below the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Far Garden",
+                "hu": "Far Garden",
+                "ro": "Far Garden",
+                "en": "Far Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zurück zum Hotel ist im beheizten Auto nach Einbruch der Dunkelheit am angenehmsten; genießen Sie die beleuchtete Küstenstraße bei wohliger Wärme.",
+                "hu": "A szállodába való visszautazás a fűtött autóban a legkellemesebb sötétedés után; élvezd a kivilágított part menti utat a belső tér megnyugtató melegéből.",
+                "ro": "Drumul înapoi la hotel în mașina încălzită este cel mai plăcut după lăsarea întunericului; admirați șoseaua de coastă iluminată din confortul interiorului.",
+                "en": "The drive back to your hotel in a heated car is most pleasant after dark; enjoy the illuminated coastal road from the comforting warmth of your vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

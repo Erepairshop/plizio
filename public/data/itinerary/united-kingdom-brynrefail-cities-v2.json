@@ -137,6 +137,168 @@
         "de": "Beginnen Sie Ihren Morgen mit einem historischen Eintauchen am Morris Brothers Memorial, wo Sie etwas über lokale Legenden erfahren, bevor Sie zur Küste aufbrechen.\n\nGegen Mittag wechseln Sie zu den beruhigenden Stränden von Dulas Beach, wo die sanfte Küstenbrise die perfekte Kulisse für einen Spaziergang bietet.\n\nErkunden Sie am Nachmittag die robuste Architektur von Y Storws und gehen Sie weiter zum abgelegenen und malerischen Traeth yr Ora zur friedlichen Reflexion.\n\nWenn der Abend naht, entspannen Sie am Lligwy Beach und genießen die letzten Sonnenstrahlen über dem weiten Ufer nach einem erfüllenden Spaziergang.",
         "hu": "Kezdje a reggelt egy történelmi elmélyüléssel a Morris Brothers emlékműnél, ismerje meg a helyi legendákat, mielőtt a part felé venné az irányt.\n\nDélben váltson a Dulas Beach nyugtató homokjára, ahol a lágy tengerparti szellő tökéletes hátteret biztosít egy pihentető sétához.\n\nDélután fedezze fel az Y Storws robusztus építészetét, és haladjon tovább a félreeső és festői Traeth yr Ora felé egy kis békés elmélkedésre.\n\nAhogy közeledik az este, kapcsolódjon ki a Lligwy Beach-en, élvezve az utolsó napsugarakat a kiterjedt parton egy tartalmas séta után.",
         "ro": "Începeți-vă dimineața cu o imersiune istorică la Memorialul Fraților Morris, învățând despre legendele locale înainte de a vă îndrepta spre coastă.\n\nPână la prânz, treceți la nisipurile liniștitoare de la Dulas Beach, unde briza blândă a coastei oferă un fundal perfect pentru o plimbare relaxantă.\n\nDupă-amiaza, explorați arhitectura robustă de la Y Storws și continuați spre izolată și pitoreasca Traeth yr Ora pentru o reflecție pașnică.\n\nPe măsură ce se apropie seara, relaxați-vă la Lligwy Beach, savurând ultimele momente de soare deasupra țărmului vast după o plimbare plină de satisfacții."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Denkmal bei leichtem Nieselregen, der die historische Bedeutung des Ortes unterstreicht. Mittags folgen wir dem Küstenpfad zum Dulas Beach; wetterfeste Kleidung ist bei diesem Nebel unerlässlich. Der Nachmittag führt uns zum alten Speicher und zum Ora-Strand, wo das graue Meer eine dramatische Kulisse bildet. Der Abend klingt am Lligwy Beach aus, wenn der Regen sanft auf den Sand prasselt.",
+            "hu": "A reggelt az emlékműnél kezdjük a szemerkélő esőben, ami kiemeli a hely történelmi súlyát. Délidőben a parti úton haladunk a Dulas strand felé; a ködös tájhoz elengedhetetlen a vízálló ruházat. Délután a régi raktárat és az Ora-partot keressük fel, ahol a szürke tenger drámai látványt nyújt. Az estét a Lligwy-parton zárjuk, ahol az eső kopogása a homokon megnyugtató befejezést kínál.",
+            "ro": "Dimineața începe la memorial sub o ploaie ușoară, care subliniază solemnitatea locului istoric. La prânz, urmăm poteca de coastă spre plaja Dulas; echipamentul impermeabil este esențial pentru ceață. După-amiaza ne duce la vechiul depozit și la plaja Ora, unde marea cenușie arată impunător. Seara se încheie la plaja Lligwy, unde sunetul ploii pe nisip oferă un final relaxant și liniștit.",
+            "en": "Morning starts at the memorial under a gentle drizzle, emphasizing the site's solemnity. By noon, we follow the coastal path toward Dulas Beach; waterproof gear is essential for the mist. Afternoon brings us to the old storehouse and the remote Ora beach, where the gray sea looks powerful. Evening settles at Lligwy Beach, where the sound of rain on the sand provides a calming finale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Morris Brothers Memorial",
+                "hu": "Morris Brothers Memorial",
+                "ro": "Morris Brothers Memorial",
+                "en": "Morris Brothers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Erbe der lokalen Dichter an diesem Steindenkmal, während der Regen eine mystische Atmosphäre schafft; nutzen Sie eine wasserfeste Hülle für Ihr Handy.",
+                "hu": "Fedezze fel a helyi költők örökségét ennél a kőemlékműnél, miközben az eső különleges hangulatot áraszt; használjon vízálló tokot a térképéhez vagy telefonjához.",
+                "ro": "Explorați moștenirea poeților locali la acest memorial de piatră în timp ce ploaia adaugă o notă melancolică; folosiți o husă impermeabilă pentru hartă sau telefon.",
+                "en": "Explore the legacy of the local poets at this stone memorial while the rain adds a moody atmosphere; use a waterproof cover for your map or phone to navigate."
+              }
+            },
+            {
+              "name": {
+                "de": "Dulas Beach",
+                "hu": "Dulas Beach",
+                "ro": "Dulas Beach",
+                "en": "Dulas Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neblige Küste, während die Wellen bei Regen kräftiger wirken; tragen Sie rutschfeste Gummistiefel, da der Zugangsweg sehr schlammig und glatt sein kann.",
+                "hu": "Csodálja meg a ködös partvonalat, ahol a hullámok az esőben még erőteljesebbnek tűnnek; viseljen csúszásmentes gumicsizmát, mert az ösvény nagyon sáros lehet.",
+                "ro": "Admirați linia de coastă cețoasă, unde valurile par mai puternice în ploaie; purtați cizme de cauciuc antiderapante, deoarece poteca de acces poate fi foarte noroioasă.",
+                "en": "Admire the misty coastline where the waves seem even more powerful in the rain; wear non-slip rain boots as the access path can become very muddy and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Y Storws",
+                "hu": "Y Storws",
+                "ro": "Y Storws",
+                "en": "Y Storws"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Lagerhaus bietet einen guten Windschutz, während Sie die Meeresbrise genießen; achten Sie auf die nassen Steine am Eingang, die sehr rutschig sind.",
+                "hu": "Ez a történelmi raktárépület remek szélvédelmet nyújt, miközben élvezi a tengeri fuvallatot; ügyeljen a bejáratnál lévő nedves kövekre, amelyek rendkívül csúszósak.",
+                "ro": "Această magazie istorică oferă un adăpost bun împotriva vântului în timp ce admirați marea; aveți grijă la pietrele umede de la intrare, care sunt extrem de alunecoase.",
+                "en": "This historic storehouse offers great wind protection while you enjoy the sea breeze; be careful of the wet stones at the entrance, which are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Traeth yr Ora",
+                "hu": "Traeth yr Ora",
+                "ro": "Traeth yr Ora",
+                "en": "Traeth yr Ora"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die völlige Einsamkeit an diesem abgelegenen Strand im Regen; ein hochwertiger Windbreaker ist unerlässlich, um dem peitschenden Küstenregen zu trotzen.",
+                "hu": "Élvezze a teljes magányt ezen a távoli strandon az esőben; egy minőségi széldzseki nélkülözhetetlen a csapkodó tengerparti eső és a feltámadó szél ellen.",
+                "ro": "Bucurați-vă de singurătatea totală pe această plajă retrasă în timpul ploii; o jachetă impermeabilă de calitate este esențială împotriva ploii de coastă tăioase.",
+                "en": "Enjoy total solitude on this remote beach during the rain; a high-quality windbreaker is vital against the driving coastal spray and the rising winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lligwy Beach",
+                "hu": "Lligwy Beach",
+                "ro": "Lligwy Beach",
+                "en": "Lligwy Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Regenwolken über der Irischen See direkt vom Ufer aus; suchen Sie danach Schutz im nahen Café, um sich bei einem Heißgetränk aufzuwärmen.",
+                "hu": "Figyelje meg a drámai esőfelhőket az Ír-tenger felett közvetlenül a partról; utána keressen menedéket a közeli kávézóban, és melegedjen fel egy forró itallal.",
+                "ro": "Observați norii de ploaie dramatici deasupra Mării Irlandei direct de pe țărm; după aceea, căutați adăpost în cafeneaua din apropiere pentru a vă încălzi cu o băutură.",
+                "en": "Watch the dramatic rain clouds over the Irish Sea directly from the shore; afterwards, seek shelter in the nearby cafe to dry off and warm up with a hot drink."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Denkmal ist frisch und die Luft glasklar, was den Blick in die Ferne weitet. Mittags wandern wir zum Dulas Beach, wo der Frost auf den Dünen im Sonnenlicht glitzert. Am Nachmittag besuchen wir den alten Speicher und den einsamen Ora-Strand vor dem frühen Sonnenuntergang um 17 Uhr. Der Abend endet mit einem belebenden Spaziergang am Lligwy Beach in der kühlen Dämmerung.",
+            "hu": "A téli reggel az emlékműnél friss és a levegő kristálytiszta, ami messzire engedi a tekintetet. Délidőben a Dulas strandhoz sétálunk, ahol a dűnéken megcsillan a zúzmara a napsütésben. Délután a régi raktárat és az elhagyatott Ora-partot keressük fel a korai, 17 órás naplemente előtt. Az estét a Lligwy-parton zárjuk egy élénkítő sétával a hűvös alkonyatban.",
+            "ro": "Dimineața de iarnă la memorial este proaspătă, iar aerul este deosebit de clar, permițând vederi largi. La prânz mergem spre plaja Dulas, unde bruma de pe dune sclipește în soare. După-amiaza vizităm vechiul depozit și plaja Ora înainte de apusul devreme de la ora 17:00. Seara se încheie cu o plimbare revigorantă pe plaja Lligwy în amurgul răcoros.",
+            "en": "The winter morning at the memorial is crisp and the air is crystal clear, allowing for long-distance views. By noon, we walk to Dulas Beach where frost on the dunes glitters in the sunlight. In the afternoon, we visit the old storehouse and the lonely Ora beach before the early 5 PM sunset. The evening ends with a bracing walk at Lligwy Beach in the cool twilight air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Morris Brothers Memorial",
+                "hu": "Morris Brothers Memorial",
+                "ro": "Morris Brothers Memorial",
+                "en": "Morris Brothers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die karge Winterlandschaft rund um das Denkmal bei klarer Sicht; dicke Wollsocken sind empfehlenswert, um die Kälte des Bodens nicht zu spüren.",
+                "hu": "Csodálja meg a kopár téli tájat az emlékmű körül a tiszta időben; a vastag gyapjúzokni ajánlott, hogy ne érezze a talaj felől érkező metsző hideget.",
+                "ro": "Admirați peisajul arid de iarnă din jurul memorialului în condiții de vizibilitate clară; se recomandă șosete groase de lână pentru a nu simți frigul solului.",
+                "en": "Admire the stark winter landscape around the memorial during clear conditions; thick wool socks are recommended to keep the cold ground from chilling your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Dulas Beach",
+                "hu": "Dulas Beach",
+                "ro": "Dulas Beach",
+                "en": "Dulas Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie an der Flutlinie nach Wintervögeln, die im Sand nach Futter graben; die tiefstehende Wintersonne wirft wunderschöne lange Schatten auf den Strand.",
+                "hu": "Keressen téli madarakat az árapályvonal mentén, amint élelem után kutatnak a homokban; az alacsonyan járó téli nap gyönyörű, hosszú árnyékokat vet a partra.",
+                "ro": "Căutați păsări de iarnă de-a lungul liniei mareei în timp ce caută hrană în nisip; soarele jos de iarnă aruncă umbre lungi și frumoase pe plajă.",
+                "en": "Look for winter birds along the tide line as they forage for food in the sand; the low winter sun creates beautiful long shadows across the quiet beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Y Storws",
+                "hu": "Y Storws",
+                "ro": "Y Storws",
+                "en": "Y Storws"
+              },
+              "tip_5lang": {
+                "de": "Dieses alte Lagerhaus wirkt gegen den grauen Winterhimmel besonders robust; kleiden Sie sich nach dem Zwiebelprinzip, um dem beißenden Küstenwind zu trotzen.",
+                "hu": "Ez a régi raktárépület különösen zordnak tűnik a szürke téli égbolt előtt; öltözködjön rétegesen, hogy hatékonyan védekezzen a metsző tengerparti szél ellen.",
+                "ro": "Această magazie veche pare deosebit de robustă pe fundalul cerului cenușiu de iarnă; îmbrăcați-vă în straturi pentru a combate vântul tăios de pe coastă.",
+                "en": "This old storehouse looks especially rugged against the gray winter sky; dress in multiple layers to effectively combat the biting coastal wind during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Traeth yr Ora",
+                "hu": "Traeth yr Ora",
+                "ro": "Traeth yr Ora",
+                "en": "Traeth yr Ora"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für eine erfrischende Winterwanderung mit spektakulärer Aussicht; beenden Sie Ihren Besuch vor 16:30 Uhr, um nicht von der Dunkelheit überrascht zu werden.",
+                "hu": "Magányos hely egy frissítő téli túrához, látványos kilátással; fejezze be a látogatást 16:30 előtt, hogy ne érje váratlanul a hirtelen leszálló sötétség.",
+                "ro": "Un loc solitar pentru o drumeție revigorantă de iarnă, cu priveliști spectaculoase; terminați vizita înainte de 16:30 pentru a nu fi surprins de întuneric.",
+                "en": "A secluded spot for a bracing winter hike with spectacular coastal views; finish your visit before 4:30 PM to avoid being caught by the sudden darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Lligwy Beach",
+                "hu": "Lligwy Beach",
+                "ro": "Lligwy Beach",
+                "en": "Lligwy Beach"
+              },
+              "tip_5lang": {
+                "de": "In den Wintermonaten ist der Strand herrlich ruhig und friedlich; eine Thermoskanne mit einem warmen Getränk macht den Aufenthalt hier viel angenehmer.",
+                "hu": "A téli hónapokban a strand csodálatosan csendes és békés; egy termoszban vitt forró ital sokkal élvezetesebbé teszi a tartózkodást a hideg szélben.",
+                "ro": "În lunile de iarnă plaja este minunat de liniștită și pașnică; un termos cu o băutură caldă va face șederea mult mai plăcută în vântul rece.",
+                "en": "The beach is wonderfully quiet and peaceful during the winter months; a thermos with a warm beverage will make your stay much more enjoyable in the cold wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "de": "Beginnen Sie Ihr morgendliches Radfahren von der St. Michael's Church zum Morris Brothers Memorial und genießen Sie das historische Erbe der charmanten Region.\n\nWenn der Mittag naht, radeln Sie zur Capel Sardis und genießen Sie dann eine wohlverdiente Küstenpause an den Sandstränden von Dulas Beach.\n\nVerbringen Sie Ihren Nachmittag damit, die natürliche Schönheit von Traeth yr Ora zu erkunden, gefolgt von einem faszinierenden historischen Abstecher zu den Ruinen des Dorfes Din Llugwy.\n\nAm Abend erreichen Sie die atemberaubende Lligwy Bay, wo die weite Aussicht auf den Ozean eine perfekte Belohnung für einen aktiven Entdeckungstag bietet.",
         "hu": "Kezdje a reggeli kerékpározást a St Michael's templomtól a Morris Brothers emlékműig, magába szívva a bájos régió történelmi örökségét.\n\nDél közeledtével pedálozzon át a Capel Sardis felé, majd élvezze a jól megérdemelt tengerparti szünetet a Dulas Beach homokos partján.\n\nTöltse a délutánt a Traeth yr Ora természeti szépségének felfedezésével, majd tegyen egy lenyűgöző történelmi kitérőt a Din Llugwy falu romjainál.\n\nEste érkezzen meg a lenyűgöző Lligwy-öbölbe, ahol a elsöprő óceáni kilátás tökéletes jutalmat kínál a terület aktív felfedezésével töltött napért.",
         "ro": "Începeți-vă dimineața cu bicicleta de la Biserica St Michael până la Memorialul Fraților Morris, admirând moștenirea istorică a regiunii fermecătoare.\n\nPe măsură ce se apropie prânzul, pedalați spre Capel Sardis și apoi bucurați-vă de o pauză binemeritată pe coastă, pe țărmurile nisipoase de la Dulas Beach.\n\nPetreceți-vă după-amiaza explorând frumusețea naturală de la Traeth yr Ora, urmată de un ocol istoric fascinant la ruinele satului Din Llugwy.\n\nSeara, ajungeți la uimitorul Golf Lligwy, unde priveliștile panoramice ale oceanului oferă o recompensă perfectă pentru o zi petrecută descoperind activ zona."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour an der Kirche, während der Regen auf die alten Steine trommelt. Mittags radeln wir vorsichtig zum Denkmal und zur Kapelle, wobei wir Pfützen auf den schmalen Wegen ausweichen. Am Nachmittag führt die Route zu den Stränden und dem antiken Dorf, wo der Boden aufgeweicht ist. Den Abend lassen wir an der Lligwy Bay ausklingen, während wir unsere Ausrüstung vom Schlamm befreien.",
+            "hu": "A kerékpártúrát a templomnál kezdjük, miközben az eső dobol az ősi köveken. Délidőben óvatosan tekerünk az emlékmű és a kápolna felé, kerülgetve a tócsákat a szűk utakon. Délután az útvonal a strandokhoz és az ókori faluhoz vezet, ahol a talaj már felázott. Az estét a Lligwy-öbölben zárjuk, miközben letakarítjuk a sarat a felszerelésünkről.",
+            "ro": "Începem turul cu bicicleta la biserică, în timp ce ploaia tobează pe pietrele vechi. La prânz pedalăm cu atenție spre memorial și capelă, evitând bălțile de pe drumurile înguste. După-amiaza traseul duce spre plaje și satul antic, unde solul este înmuiat. Încheiem seara în golful Lligwy, în timp ce curățăm noroiul de pe echipamentul nostru.",
+            "en": "We start the bike tour at the church while the rain drums on the ancient stones. At noon, we pedal carefully towards the memorial and chapel, avoiding puddles on the narrow lanes. In the afternoon, the route leads to the beaches and the ancient village where the ground is soaked. We end the evening at Lligwy Bay while cleaning the mud off our cycling gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Michael's Church",
+                "hu": "St Michael's Church",
+                "ro": "St Michael's Church",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche und nutzen Sie das Vordach als Unterstand für Ihr Fahrrad; tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im Straßenverkehr.",
+                "hu": "Látogasson el a templomba, és használja az előtetőt biciklitárolóként; viseljen neon sárga esőkabátot a jobb láthatóság érdekében a közutakon.",
+                "ro": "Vizitați biserica și folosiți copertina ca adăpost pentru bicicletă; purtați o jachetă de ploaie neon pentru o mai bună vizibilitate în trafic.",
+                "en": "Visit the church and use the porch as a temporary bike shelter; wear a neon yellow rain jacket for better visibility on the narrow country roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Morris Brothers Memorial",
+                "hu": "Morris Brothers Memorial",
+                "ro": "Morris Brothers Memorial",
+                "en": "Morris Brothers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Grund, um nicht im Schlamm steckenzubleiben; wischen Sie den Sattel mit einem Tuch trocken, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Parkolja le a kerékpárt szilárd talajon, hogy ne akadjon el a sárban; törölje szárazra a nyerget egy ronggyal, mielőtt folytatná az utat az esőben.",
+                "ro": "Parcați bicicleta pe teren solid pentru a nu vă bloca în noroi; ștergeți șaua cu o cârpă înainte de a continua drumul prin ploaie.",
+                "en": "Park your bike on solid ground to avoid getting stuck in the mud; wipe the saddle dry with a cloth before continuing your journey in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Capel Sardis",
+                "hu": "Capel Sardis",
+                "ro": "Capel Sardis",
+                "en": "Capel Sardis"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen ruhigen Ort zum Aufwärmen und Trocknen; prüfen Sie Ihre Bremsen, da sie auf nassen und abschüssigen Wegen weniger effektiv sind.",
+                "hu": "A kis kápolna csendes helyet kínál a bemelegedésre és száradásra; ellenőrizze a fékeket, mert a vizes lejtőkön kevésbé hatékonyan fognak lassítani.",
+                "ro": "Mica capelă oferă un loc liniștit pentru a vă încălzi și usca; verificați frânele, deoarece pe pantele umede acestea vor încetini mai puțin eficient.",
+                "en": "The small chapel offers a quiet place to warm up and dry off; check your brakes as they will be less effective on the wet and sloping rural lanes."
+              }
+            },
+            {
+              "name": {
+                "de": "Dulas Beach",
+                "hu": "Dulas Beach",
+                "ro": "Dulas Beach",
+                "en": "Dulas Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenbrise kann den Regen sehr peitschend machen; verwenden Sie Schutzbleche an Ihrem Fahrrad, um sich vor aufgewirbeltem Schmutz und Wasser zu schützen.",
+                "hu": "A tengerparti szellő miatt az eső nagyon csapkodó lehet; használjon sárvédőt a kerékpárján, hogy megvédje magát a felcsapódó kosztól és víztől.",
+                "ro": "Briza mării poate face ploaia foarte tăioasă; folosiți aripi la bicicletă pentru a vă proteja de mizeria și apa care sar de pe roți.",
+                "en": "The coastal breeze can make the rain very driving; use mudguards on your bike to protect yourself from the kicked-up dirt and water from the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Traeth yr Ora",
+                "hu": "Traeth yr Ora",
+                "ro": "Traeth yr Ora",
+                "en": "Traeth yr Ora"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann nach starkem Regen sehr rutschig sein; schieben Sie Ihr Rad auf den steilsten Abschnitten, um Stürze auf dem glatten Gras zu vermeiden.",
+                "hu": "A strandhoz vezető út heves esőzés után nagyon csúszós lehet; a meredek szakaszokon tolja a biciklit, hogy elkerülje az esést a síkos füvön.",
+                "ro": "Drumul spre plajă poate fi foarte alunecos după ploi abundente; împingeți bicicleta pe secțiunile abrupte pentru a evita căzăturile pe iarba udă.",
+                "en": "The path to the beach can be very slippery after heavy rain; push your bike on the steepest sections to avoid falls on the slick grass or mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Din Llugwy Romano-British Village",
+                "hu": "Din Llugwy Romano-British Village",
+                "ro": "Din Llugwy Romano-British Village",
+                "en": "Din Llugwy Romano-British Village"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen sind bei Regen besonders stimmungsvoll und mystisch; tragen Sie wasserfeste Überschuhe, damit Ihre Füße beim Erkunden der Anlage trocken bleiben.",
+                "hu": "Az ősi romok esőben különösen hangulatosak és titokzatosak; viseljen vízálló kamáslit, hogy lábai szárazak maradjanak a terület felfedezése közben.",
+                "ro": "Ruinele antice sunt deosebit de atmosferice și misterioase în ploaie; purtați protecții impermeabile pentru încălțăminte pentru a vă păstra picioarele uscate.",
+                "en": "The ancient ruins are especially atmospheric and mystical in the rain; wear waterproof overshoes to keep your feet dry while exploring the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Lligwy Bay",
+                "hu": "Lligwy Bay",
+                "ro": "Lligwy Bay",
+                "en": "Lligwy Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf die aufgewühlte Bucht belohnt die nasse Fahrt; verstauen Sie Ihre nasse Kleidung in einem wasserdichten Sack, bevor Sie die Heimreise antreten.",
+                "hu": "A felkorbácsolt öbölre nyíló utolsó kilátás jutalom a vizes útért; tegye a nedves ruháit egy vízhatlan zsákba, mielőtt elindulna hazafelé.",
+                "ro": "O ultimă privire asupra golfului agitat este răsplata pentru drumul ud; puneți hainele umede într-un sac impermeabil înainte de a pleca spre casă.",
+                "en": "A final look at the churned-up bay rewards the wet ride; store your wet clothes in a waterproof dry bag before starting your journey back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frühen Wintermorgen radeln wir zur Kirche, während der Reif auf den Wiesen glänzt. Mittags führen uns die ruhigen Wege zum Denkmal und zur Kapelle unter einem strahlend blauen Himmel. Am Nachmittag erkunden wir die Küstenabschnitte und das historische Dorf, bevor die Kälte bei Sonnenuntergang zunimmt. Der Abend endet an der Lligwy Bay, wo wir die winterliche Stille der Natur genießen.",
+            "hu": "A kora téli reggelen a templomhoz tekerünk, miközben a dér csillog a mezőkön. Délidőben a csendes utak az emlékműhöz és a kápolnához vezetnek a ragyogó kék ég alatt. Délután a tengerparti szakaszokat és a történelmi falut fedezzük fel, mielőtt a hideg fokozódna napnyugtakor. Az estét a Lligwy-öbölben zárjuk, élvezve a természet téli csendjét.",
+            "ro": "În dimineața devreme de iarnă pedalăm spre biserică, în timp ce bruma strălucește pe pajiști. La prânz, drumurile liniștite ne duc spre memorial și capelă sub un cer albastru strălucitor. După-amiaza explorăm secțiunile de coastă și satul istoric înainte ca frigul să se intensifice la apus. Seara se încheie în golful Lligwy, bucurându-ne de liniștea iernii.",
+            "en": "On an early winter morning, we cycle to the church while frost glistens on the meadows. At noon, the quiet lanes lead us to the memorial and chapel under a bright blue sky. In the afternoon, we explore the coastal sections and the historic village before the cold intensifies at sunset. The evening ends at Lligwy Bay, enjoying the winter stillness of nature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Michael's Church",
+                "hu": "St Michael's Church",
+                "ro": "St Michael's Church",
+                "en": "St Michael's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen friedlichen Ort in der kalten Morgenluft; tragen Sie Thermo-Handschuhe, da Ihre Hände am Lenker durch den Fahrtwind schnell auskühlen.",
+                "hu": "Látogassa meg ezt a békés helyet a hideg reggeli levegőben; viseljen termokesztyűt, mert a kezei a kormányon a menetszél miatt gyorsan lehűlhetnek.",
+                "ro": "Vizitați acest loc liniștit în aerul rece al dimineții; purtați mănuși termice, deoarece mâinile pe ghidon se pot răci rapid din cauza vântului.",
+                "en": "Visit this peaceful spot in the cold morning air; wear thermal gloves as your hands on the handlebars will cool down quickly due to the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Morris Brothers Memorial",
+                "hu": "Morris Brothers Memorial",
+                "ro": "Morris Brothers Memorial",
+                "en": "Morris Brothers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal bietet einen weiten Blick über die schneefreie, aber frostige Heidelandschaft; tragen Sie eine Mütze unter dem Helm, um Ihren Kopf warm zu halten.",
+                "hu": "Az emlékmű tágas kilátást nyújt a hómentes, de fagyos pusztaságra; viseljen sapkát a sisak alatt, hogy melegen tartsa a fejét a kerékpározás közben.",
+                "ro": "Memorialul oferă o vedere largă asupra pajiștilor înghețate; purtați o căciulă sub cască pentru a vă menține capul cald în timpul mersului pe bicicletă.",
+                "en": "The memorial offers wide views over the frost-covered heathland; wear a thin thermal beanie under your helmet to keep your head warm during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Capel Sardis",
+                "hu": "Capel Sardis",
+                "ro": "Capel Sardis",
+                "en": "Capel Sardis"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist ein idealer Ort für eine kurze Rast im Windschatten; achten Sie auf vereiste Pfützen in schattigen Kurven, die sehr tückisch sein können.",
+                "hu": "A kápolna ideális hely egy rövid pihenőre a szélvédett oldalon; ügyeljen a jeges tócsákra az árnyékos kanyarokban, amelyek nagyon csalókák lehetnek.",
+                "ro": "Capela este un loc ideal pentru o scurtă pauză la adăpost de vânt; atenție la bălțile înghețate din curbele umbrite, care pot fi foarte înșelătoare.",
+                "en": "The chapel is an ideal spot for a short break in the wind shadow; watch out for icy patches in shaded corners, which can be very treacherous for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Dulas Beach",
+                "hu": "Dulas Beach",
+                "ro": "Dulas Beach",
+                "en": "Dulas Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zum Horizont, die es nur im Winter gibt; tragen Sie winddichte Kleidung, da der Seewind bei Kälte besonders schneidend ist.",
+                "hu": "Élvezze a horizontig tartó tiszta kilátást, ami csak télen adatik meg; viseljen szélálló ruházatot, mert a tengeri szél hidegben különösen metsző.",
+                "ro": "Bucurați-vă de vederea clară până la orizont, posibilă doar iarna; purtați haine rezistente la vânt, deoarece briza mării este tăioasă pe frig.",
+                "en": "Enjoy the clear views all the way to the horizon, typical for winter days; wear windproof gear as the sea breeze is especially biting in cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Traeth yr Ora",
+                "hu": "Traeth yr Ora",
+                "ro": "Traeth yr Ora",
+                "en": "Traeth yr Ora"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandbesuch ist im Winter besonders erfrischend; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, falls Sie länger bleiben als geplant.",
+                "hu": "A magányos strandlátogatás télen különösen frissítő élmény; győződjön meg róla, hogy a kerékpár lámpái működnek, ha a tervezettnél tovább maradna.",
+                "ro": "O vizită solitară la plajă este deosebit de revigorantă iarna; asigurați-vă că luminile bicicletei funcționează dacă rămâneți mai mult decât ați planificat.",
+                "en": "A lonely beach visit is especially refreshing in winter; make sure your bike lights are fully charged in case you stay longer than originally planned."
+              }
+            },
+            {
+              "name": {
+                "de": "Din Llugwy Romano-British Village",
+                "hu": "Din Llugwy Romano-British Village",
+                "ro": "Din Llugwy Romano-British Village",
+                "en": "Din Llugwy Romano-British Village"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstrukturen wirken im Winterlicht besonders plastisch; tragen Sie feste Schuhe mit gutem Profil, da die Wege durch Bodenfrost uneben sein können.",
+                "hu": "A kőszerkezetek a téli fényben különösen plasztikusnak tűnnek; viseljen jó tapadású cipőt, mert az utak a talajmenti fagy miatt egyenetlenek lehetnek.",
+                "ro": "Structurile de piatră par deosebit de clare în lumina iernii; purtați încălțăminte cu aderență bună, deoarece potecile pot fi denivelate din cauza înghețului.",
+                "en": "The stone structures look especially striking in the sharp winter light; wear shoes with good grip as the paths can be uneven due to ground frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Lligwy Bay",
+                "hu": "Lligwy Bay",
+                "ro": "Lligwy Bay",
+                "en": "Lligwy Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter ein Ort der absoluten Ruhe; nehmen Sie eine warme Jacke für die Pausen mit, um nach dem Treten nicht sofort auszukühlen.",
+                "hu": "Az öböl télen az abszolút nyugalom helyszíne; vigyen magával egy meleg kabátot a pihenőkhöz, hogy a tekerés után ne hűljön le azonnal a teste.",
+                "ro": "Golful este un loc de liniște absolută iarna; luați o jachetă caldă pentru pauze, pentru a nu vă răci corpul imediat după efortul pedalatului.",
+                "en": "The bay is a place of absolute tranquility in winter; bring a warm jacket for your breaks so your body doesn't cool down too quickly after cycling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "de": "Ihr Roadtrip beginnt mit weiten Ausblicken vom Mynydd Bodafon, bevor Sie eine kurze Strecke fahren, um die alten Hüttenkreise Cytiau Gwyddelod zu erkunden.\n\nKonzentrieren Sie sich gegen Mittag auf die tiefere Vergangenheit und fahren Sie zum monumentalen Llugwy Chambered Tomb und den Ruinen der Capel Llugwy.\n\nBestaunen Sie am Nachmittag die steinernen Überreste des romano-britischen Dorfes Din Llugwy und fahren Sie dann entspannt an der Küste entlang zum Lligwy Beach.\n\nWenn die Abenddämmerung einsetzt, machen Sie Ihren letzten Halt am Y Storws, einem robusten historischen Lagerhaus, und beenden einen Tag voller altem Erbe.",
         "hu": "Az autós utazás a Mynydd Bodafon elsöprő kilátásával kezdődik, mielőtt egy rövid utat tesz meg az ősi Cytiau Gwyddelod kunyhókörök felfedezéséhez.\n\nDélre irányítsa a figyelmét a mélyebb múltra, vezessen a monumentális Llugwy kamrasírhoz és a Capel Llugwy hangulatos romjaihoz.\n\nDélután csodálja meg a Din Llugwy római-brit falu kőmaradványait, majd tegyen egy pihentető tengerparti autózást a Lligwy Beach-re.\n\nAhogy leszáll az alkonyat, tegye meg utolsó megállóját az Y Storws nevű, masszív történelmi raktárnál, befejezve az ősi örökségekben és lenyűgöző tájakban gazdag napot.",
         "ro": "Călătoria cu mașina începe cu vederi panoramice de la Mynydd Bodafon, înainte de a conduce o scurtă distanță pentru a explora cercurile antice de colibe Cytiau Gwyddelod.\n\nPână la prânz, schimbați-vă atenția către trecutul mai profund, conducând spre monumentalul Mormânt Llugwy și ruinele cu atmosferă ale Capel Llugwy.\n\nDupă-amiaza, minunați-vă de rămășițele de piatră ale Satului Romano-Britanic Din Llugwy, apoi faceți o plimbare relaxantă pe coastă până la Lligwy Beach.\n\nPe măsură ce se lasă amurgul, faceți o ultimă oprire la Y Storws, un depozit istoric robust, încheind o zi bogată în moștenire antică și peisaje uimitoare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag am Mynydd Bodafon, wo die Wolken tief hängen und die Aussicht mystisch verschleiern. Mittags besuchen wir die historischen Stätten bequem vom Auto aus und steigen nur kurz für die Besichtigungen aus. Am Nachmittag führt die Fahrt zur Küste, während der Regen gegen die Scheiben peitscht. Den Abend lassen wir am alten Speicher ausklingen, geschützt im warmen Fahrzeug mit Blick auf die stürmische See.",
+            "hu": "A napot a Mynydd Bodafon-nál kezdjük, ahol az alacsonyan szálló felhők misztikus homályba borítják a kilátást. Délidőben kényelmesen, az autóból látogatjuk meg a történelmi helyszíneket, csak rövid időre kiszállva. Délután az út a part felé vezet, miközben az eső a szélvédőt mossa. Az estét a régi raktárnál zárjuk, a meleg jármű védelmében, a viharos tenger látványát élvezve.",
+            "ro": "Începem ziua la Mynydd Bodafon, unde norii joși acoperă vederea într-o ceață mistică. La prânz vizităm locurile istorice confortabil din mașină, coborând doar scurt pentru vizite. După-amiaza drumul duce spre coastă, în timp ce ploaia bate în parbriz. Încheiem seara la vechea magazie, protejați în vehiculul cald, admirând marea furtunoasă prin geam.",
+            "en": "We start the day at Mynydd Bodafon, where low-hanging clouds mistily veil the panoramic views. At noon, we visit the historical sites comfortably by car, stepping out only briefly for sightings. In the afternoon, the drive leads to the coast while rain lashes against the windshield. We end the evening at the old storehouse, sheltered in our warm vehicle with a view of the stormy sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mynydd Bodafon",
+                "hu": "Mynydd Bodafon",
+                "ro": "Mynydd Bodafon",
+                "en": "Mynydd Bodafon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die regenverhangene Insel direkt aus dem Auto; parken Sie auf markierten Flächen, da unbefestigte Ränder bei Regen instabil sein können.",
+                "hu": "Élvezze az eső áztatta szigetre nyíló kilátást közvetlenül az autóból; parkoljon a kijelölt helyeken, mert a burkolatlan szélek esőben instabilak lehetnek.",
+                "ro": "Bucurați-vă de vederea insulei acoperite de ploaie direct din mașină; parcați pe zonele marcate, deoarece marginile neamenajate pot fi instabile în ploaie.",
+                "en": "Enjoy the view of the rain-drenched island directly from your car; park only on marked surfaces as unpaved verges can become unstable in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cytiau Gwyddelod",
+                "hu": "Cytiau Gwyddelod",
+                "ro": "Cytiau Gwyddelod",
+                "en": "Cytiau Gwyddelod"
+              },
+              "tip_5lang": {
+                "de": "Diese alten Hüttenkreise sind nur einen kurzen Fußweg vom Parkplatz entfernt; halten Sie einen Regenschirm bereit, um trocken zu den Ruinen zu gelangen.",
+                "hu": "Ezek az ősi kunyhókörök csak rövid sétára vannak a parkolótól; tartson készenlétben esernyőt, hogy szárazon juthasson el a romok megtekintéséhez.",
+                "ro": "Aceste colibe antice sunt la doar o scurtă plimbare de parcare; țineți o umbrelă la îndemână pentru a ajunge uscat la ruine pentru explorare.",
+                "en": "These ancient hut circles are just a short walk from the parking area; keep an umbrella ready to stay dry while walking to the ruins for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Llugwy Chambered Tomb",
+                "hu": "Llugwy Chambered Tomb",
+                "ro": "Llugwy Chambered Tomb",
+                "en": "Llugwy Chambered Tomb"
+              },
+              "tip_5lang": {
+                "de": "Das Steingrab wirkt im trüben Regenlicht besonders ehrfurchtgebietend; tragen Sie wasserfeste Schuhe, da das Gras um das Grab herum sehr nass sein kann.",
+                "hu": "A kősír a borongós esőben különösen tiszteletet parancsoló; viseljen vízálló cipőt, mert a sír körüli fű ilyenkor nagyon vizes és csúszós lehet.",
+                "ro": "Mormântul de piatră pare deosebit de impunător în lumina ploioasă; purtați încălțăminte impermeabilă, deoarece iarba din jur poate fi foarte udă.",
+                "en": "The stone tomb looks especially awe-inspiring in the gloomy rain; wear waterproof shoes as the grass surrounding the tomb can be very wet and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Capel Llugwy",
+                "hu": "Capel Llugwy",
+                "ro": "Capel Llugwy",
+                "en": "Capel Llugwy"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen der Kapelle bieten kaum Schutz, also besichtigen Sie sie zwischen den Schauern; nutzen Sie die Sitzheizung im Auto, um nach dem Rundgang schnell zu trocknen.",
+                "hu": "A kápolna romjai alig nyújtanak menedéket, így két zápor között látogassa meg; használja az ülésfűtést az autóban, hogy gyorsan megszáradjon a séta után.",
+                "ro": "Ruinele capelei oferă puțin adăpost, așa că vizitați-le între averse; folosiți încălzirea în scaune din mașină pentru a vă usca rapid după vizită.",
+                "en": "The ruins of the chapel offer little shelter, so time your visit between showers; use the car's seat heating to dry off quickly after your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Din Llugwy Romano-British Village",
+                "hu": "Din Llugwy Romano-British Village",
+                "ro": "Din Llugwy Romano-British Village",
+                "en": "Din Llugwy Romano-British Village"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antike Siedlung in einer Regenpause; die nassen Steinwände glänzen im grauen Licht besonders schön und bieten tolle Fotomotive.",
+                "hu": "Fedezze fel az ősi települést egy esőszünetben; a nedves kőfalak különösen szépen csillognak a szürke fényben, remek fotótémát szolgáltatva.",
+                "ro": "Explorați așezarea antică într-o pauză de ploaie; zidurile de piatră umede strălucesc frumos în lumina cenușie, oferind oportunități foto deosebite.",
+                "en": "Explore the ancient settlement during a break in the rain; the wet stone walls glisten beautifully in the gray light, offering great photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Lligwy Beach",
+                "hu": "Lligwy Beach",
+                "ro": "Lligwy Beach",
+                "en": "Lligwy Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strandparkplatz ist ein idealer Ort, um die Meeresbrandung im Regen zu beobachten; lassen Sie die Scheibenwischer an, um den Blick auf die Wellen frei zu halten.",
+                "hu": "A strand parkolója ideális hely a tengeri hullámverés megfigyelésére az esőben; hagyja bekapcsolva az ablaktörlőt, hogy tiszta maradjon a kilátás.",
+                "ro": "Parcarea plajei este un loc ideal pentru a observa valurile mării în ploaie; lăsați ștergătoarele pornite pentru a menține vederea clară asupra mării.",
+                "en": "The beach parking area is an ideal spot to watch the crashing surf in the rain; keep your wipers on intermittent to maintain a clear view of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Y Storws",
+                "hu": "Y Storws",
+                "ro": "Y Storws",
+                "en": "Y Storws"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf das historische Gebäude, während die Flut steigt; achten Sie beim Fahren auf tiefere Pfützen auf den Uferstraßen.",
+                "hu": "Zárja a napot a történelmi épület látványával, ahogy emelkedik a dagály; vezetés közben ügyeljen a mélyebb tócsákra a tengerparti utakon.",
+                "ro": "Încheiați ziua cu vederea clădirii istorice în timp ce fluxul crește; aveți grijă la bălțile adânci de pe drumurile de coastă în timp ce conduceți.",
+                "en": "End your day with a view of the historic building as the tide rises; be mindful of deeper puddles on the coastal roads while driving back in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Mynydd Bodafon mit einem atemberaubenden Blick über die froststarre Insel. Mittags steuern wir die prähistorischen Grabstätten und Siedlungen an, die in der klaren Wintersonne besonders plastisch wirken. Am Nachmittag genießen wir die raue Schönheit der Strände, bevor wir die Heizung im Auto für die Fahrt zum alten Speicher hochdrehen. Der Abend endet mit dem frühen Einbruch der Dunkelheit über der winterlichen Küste.",
+            "hu": "A nap a Mynydd Bodafon-nál kezdődik, lélegzetelállító kilátással a fagyos szigetre. Délidőben a prehisztorikus sírhelyeket és településeket keressük fel, amelyek a tiszta téli napsütésben különösen látványosak. Délután élvezzük a strandok zord szépségét, mielőtt feltekernénk a fűtést az autóban a régi raktár felé menet. Az este a téli partvidékre boruló korai sötétséggel zárul.",
+            "ro": "Ziua începe la Mynydd Bodafon cu o priveliște uluitoare asupra insulei înghețate. La prânz vizităm mormintele și așezările preistorice, care par deosebit de clare în soarele de iarnă. După-amiaza ne bucurăm de frumusețea aspră a plajelor înainte de a porni încălzirea în mașină spre vechea magazie. Seara se încheie cu întunericul ce coboară devreme peste coasta de iarnă.",
+            "en": "The day starts at Mynydd Bodafon with a breathtaking view over the frost-covered island. At noon, we head to the prehistoric burial sites and settlements, which look especially sharp in the clear winter sun. In the afternoon, we enjoy the raw beauty of the beaches before cranking up the car's heater for the drive to the old storehouse. The evening ends with the early onset of darkness over the winter coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mynydd Bodafon",
+                "hu": "Mynydd Bodafon",
+                "ro": "Mynydd Bodafon",
+                "en": "Mynydd Bodafon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das 360-Grad-Panorama der winterlichen Insel direkt vom Parkplatz aus; prüfen Sie den Reifendruck, da dieser bei sinkenden Temperaturen abfallen kann.",
+                "hu": "Élvezze a téli sziget 360 fokos panorámáját közvetlenül a parkolóból; ellenőrizze a guminyomást, mert a süllyedő hőmérséklet miatt az lecsökkenhet.",
+                "ro": "Bucurați-vă de panorama de 360 de grade a insulei iarna direct din parcare; verificați presiunea în anvelope, deoarece aceasta poate scădea la frig.",
+                "en": "Enjoy the 360-degree panorama of the winter island directly from the parking area; check your tire pressure as it can drop with the falling temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Cytiau Gwyddelod",
+                "hu": "Cytiau Gwyddelod",
+                "ro": "Cytiau Gwyddelod",
+                "en": "Cytiau Gwyddelod"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorischen Ruinen wirken im tiefstehenden Sonnenlicht besonders beeindruckend; ziehen Sie eine warme Jacke an, bevor Sie das geheizte Auto verlassen.",
+                "hu": "A prehisztorikus romok az alacsonyan járó napfényben különösen lenyűgözőek; vegyen fel meleg kabátot, mielőtt kiszállna a fűtött autóból a hidegbe.",
+                "ro": "Ruinele preistorice par impresionante în lumina soarelui de iarnă; puneți-vă o jachetă caldă înainte de a părăsi mașina încălzită pentru a explora.",
+                "en": "The prehistoric ruins look particularly impressive in the low winter sunlight; put on a warm jacket before leaving the heated car to explore the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Llugwy Chambered Tomb",
+                "hu": "Llugwy Chambered Tomb",
+                "ro": "Llugwy Chambered Tomb",
+                "en": "Llugwy Chambered Tomb"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses monumentale Steingrab in der klaren Winterluft; achten Sie auf Frost auf den Zugangswegen, die dadurch rutschig sein können.",
+                "hu": "Látogassa meg ezt a monumentális kősírt a kristálytiszta téli levegőben; ügyeljen a zúzmarára a bevezető utakon, mert azok csúszósak lehetnek.",
+                "ro": "Vizitați acest mormânt de piatră monumental în aerul clar de iarnă; atenție la bruma de pe poteci, care le poate face destul de alunecoase.",
+                "en": "Visit this monumental stone tomb in the crystal clear winter air; watch out for frost on the access paths, which can make them quite slippery underfoot."
+              }
+            },
+            {
+              "name": {
+                "de": "Capel Llugwy",
+                "hu": "Capel Llugwy",
+                "ro": "Capel Llugwy",
+                "en": "Capel Llugwy"
+              },
+              "tip_5lang": {
+                "de": "Die Kapellenruine bietet im Winter einen Ort der Stille und Reflexion; nehmen Sie eine Decke im Auto mit, um sich nach dem kurzen Rundgang wieder aufzuwärmen.",
+                "hu": "A kápolnarom télen a csend és az elmélyülés helyszíne; vigyen magával takarót az autóba, hogy a rövid séta után gyorsan visszamelegedhessen.",
+                "ro": "Ruina capelei oferă iarna un loc de liniște și reflecție; luați o pătură în mașină pentru a vă încălzi rapid după scurta plimbare în aerul rece.",
+                "en": "The chapel ruins offer a place of silence and reflection in winter; keep a blanket in the car to warm up quickly after your short walk in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Din Llugwy Romano-British Village",
+                "hu": "Din Llugwy Romano-British Village",
+                "ro": "Din Llugwy Romano-British Village",
+                "en": "Din Llugwy Romano-British Village"
+              },
+              "tip_5lang": {
+                "de": "Die antike Siedlung ist im Winter oft menschenleer und besonders fotogen; stellen Sie sicher, dass Ihr Autotank voll ist, um die Heizung bedenkenlos nutzen zu können.",
+                "hu": "Az ősi település télen gyakran teljesen néptelen és nagyon fotogén; győződjön meg róla, hogy az autó tankja tele van, így bátran használhatja a fűtést.",
+                "ro": "Așezarea antică este adesea pustie iarna și foarte fotogenică; asigurați-vă că aveți rezervorul plin pentru a putea folosi încălzirea fără griji.",
+                "en": "The ancient settlement is often deserted in winter and very photogenic; ensure your car's fuel tank is full so you can use the heater without worry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lligwy Beach",
+                "hu": "Lligwy Beach",
+                "ro": "Lligwy Beach",
+                "en": "Lligwy Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das ruhige Meer bei klarem Winterwetter; parken Sie so, dass Sie die Wintersonne durch die Frontscheibe genießen können.",
+                "hu": "Élvezze a tágas kilátást a nyugodt tengerre tiszta téli időben; parkoljon úgy, hogy az első szélvédőn keresztül élvezhesse a téli nap sugarait.",
+                "ro": "Bucurați-vă de vederea largă asupra mării liniștite în condiții de iarnă clare; parcați astfel încât să puteți admira soarele prin parbriz.",
+                "en": "Enjoy the wide view of the calm sea during clear winter weather; park your car so that you can enjoy the winter sun through the front windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Y Storws",
+                "hu": "Y Storws",
+                "ro": "Y Storws",
+                "en": "Y Storws"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude wirkt bei Sonnenuntergang um 17 Uhr besonders stimmungsvoll; nutzen Sie Frostschutzmittel in der Scheibenwaschanlage für die Rückfahrt.",
+                "hu": "A történelmi épület a 17 órás naplementekor különösen hangulatos látványt nyújt; használjon fagyállót a szélvédőmosóban a biztonságos hazaúthoz.",
+                "ro": "Clădirea istorică pare deosebit de atmosferică la apusul de la ora 17:00; folosiți lichid de parbriz cu antigel pentru drumul de întoarcere spre casă.",
+                "en": "The historic building looks especially atmospheric at the 5 PM sunset; ensure you have anti-freeze in your screen wash for the winter drive back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

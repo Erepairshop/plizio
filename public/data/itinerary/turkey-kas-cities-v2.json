@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a nyüzsgő kikötőben, élvezve a lágy reggeli szellőt és a tiszta vizet. Sétáljon a parton, és találjon elegáns strandklubokat, ahol fateraszokon pihenhet és úszhat. Irány a félsziget, hogy csendesebb, sekély kavicsos strandokat próbáljon ki egy frissítő fürdőzéshez. Zárja a napot a Földközi-tenger feletti lenyűgöző naplemente látványával, elmerülve a parti hangulatban.",
         "ro": "Începeți ziua în portul plin de viață, bucurându-vă de o briză blândă de dimineață. Plimbați-vă de-a lungul coastei pentru a găsi cluburi de plajă elegante unde vă puteți relaxa. Îndreptați-vă spre peninsulă pentru a experimenta plaje cu pietriș mai liniștite, ideale pentru înot. Încheiați cu o vedere fascinantă la apusul de soare peste Marea Mediterană, absorbind atmosfera de coastă.",
         "en": "Start your day by the bustling harbor, enjoying a gentle morning breeze and the clear blue waters. Walk along the coast to find stylish beach clubs where you can relax on wooden decks and swim. Head towards the peninsula to experience quieter, shallow pebble beaches ideal for a refreshing dip. Conclude with a mesmerizing sunset view over the Mediterranean, soaking in the warm coastal atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Kaş beginnt gemütlich auf einer überdachten Hotelterrasse mit Blick auf das graue Mittelmeer. Mittags führt ein kurzer Spaziergang zwischen den Strandcafés, die guten Schutz vor Schauern bieten. Am Nachmittag ist die Küstenlinie in mystischen Nebel gehüllt, was die Felsen besonders dramatisch wirken lässt. Den Abend verbringt man am besten in einer warmen Hafen-Taverne.",
+            "hu": "A borús reggelt érdemes egy fedett teraszon kezdeni a tenger morajlását figyelve. Napközben a rövid parti séták során a strandok kávézói nyújtanak menedéket a záporok elől. Délután a párás tengerparti sziklák látványa különleges élményt nyújt, de a csúszós kövekre ügyelni kell. Estére keressünk egy hangulatos kikötői éttermet, ahol a helyi ételek mellett melegedhetünk fel a nedves időben.",
+            "ro": "O dimineață ploioasă în Kaş începe pe o terasă acoperită, admirând marea agitată. La prânz, scurtele plimbări între cafenelele de pe plajă oferă adăpost împotriva averselor. După-amiaza, coasta este învăluită într-o ceață mistică, oferind peisajului un aspect dramatic. Seara este ideală pentru a te retrage într-o tavernă călduroasă din port, unde poți savura atmosfera locală la adăpost de ploaie.",
+            "en": "A rainy day in Kaş begins cozily on a covered terrace with views of the grey Mediterranean. At noon, short walks between beach cafes provide plenty of shelter from the showers. In the afternoon, the coastline is shrouded in a mystical mist, making the rocks look particularly dramatic. Spend the evening in a warm harbor tavern, enjoying the sound of rain against the window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kaş Hotel",
+                "hu": "Kaş Hotel",
+                "ro": "Kaş Hotel",
+                "en": "Kaş Hotel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer von der geschützten Hotelterrasse; festes Schuhwerk ist für die nassen Wege in Kaş heute unerlässlich.",
+                "hu": "Élvezze az esős tenger látványát a szálloda védett teraszáról; a város vizes, köves útjaihoz mindenképpen csúszásmentes lábbelit válasszon a mai napra.",
+                "ro": "Bucurați-vă de priveliștea mării ploioase de pe terasa protejată a hotelului; încălțămintea aderentă este esențială pentru drumurile umede din Kaş astăzi.",
+                "en": "Enjoy the view of the rainy sea from the hotel's sheltered terrace; sturdy, non-slip footwear is essential for Kaş's wet streets today."
+              }
+            },
+            {
+              "name": {
+                "de": "Leymona Beach & Cafe",
+                "hu": "Leymona Beach & Cafe",
+                "ro": "Leymona Beach & Cafe",
+                "en": "Leymona Beach & Cafe"
+              },
+              "tip_5lang": {
+                "de": "Das Café bietet hervorragenden Schutz vor Schauern; beobachten Sie die stürmische See bei einem heißen Tee und bleiben Sie dank Markisen im Trockenen.",
+                "hu": "A kávézó kiváló menedéket nyújt a záporok elől; figyelje a viharos tengert egy forró tea mellett a ponyvák alatt, így biztosan száraz marad.",
+                "ro": "Cafeneaua oferă adăpost excelent împotriva ploii; observați marea agitată cu un ceai fierbinte, rămânând la uscat sub copertinele generoase.",
+                "en": "The cafe provides excellent shelter from the rain; watch the stormy sea with a hot tea while staying perfectly dry under the large awnings."
+              }
+            },
+            {
+              "name": {
+                "de": "Derya Beach",
+                "hu": "Derya Beach",
+                "ro": "Derya Beach",
+                "en": "Derya Beach"
+              },
+              "tip_5lang": {
+                "de": "Auch bei Regen ist die Bucht faszinierend; nutzen Sie die überdachten Bereiche des Clubs und achten Sie auf die bei Nässe sehr rutschigen Steinstufen.",
+                "hu": "Az öböl esőben is lenyűgöző látvány; használja a klub fedett részeit, és legyen nagyon óvatos a vizesen rendkívül csúszós kőlépcsőkön.",
+                "ro": "Golful este fascinant chiar și pe ploaie; folosiți zonele acoperite ale clubului și fiți atenți la treptele de piatră care devin foarte alunecoase.",
+                "en": "The bay is fascinating even in the rain; use the club's covered areas and be extremely careful on the stone steps, which get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Plajı",
+                "hu": "İnceboğaz Plajı",
+                "ro": "İnceboğaz Plajı",
+                "en": "İnceboğaz Plajı"
+              },
+              "tip_5lang": {
+                "de": "Hier peitschen die Wellen bei Regen spektakulär gegen den Isthmus; halten Sie Abstand zum Ufer und tragen Sie eine windfeste, lange Regenjacke.",
+                "hu": "Itt a hullámok látványosan csapkodják a földnyelvet esős időben; tartson biztonságos távolságot a parttól, és viseljen szélálló, hosszú esőkabátot.",
+                "ro": "Aici valurile se izbesc spectaculos de istm în timpul ploii; păstrați distanța față de mal și purtați o pelerină de ploaie lungă și rezistentă la vânt.",
+                "en": "The waves crash spectacularly against the isthmus during the rain; keep a safe distance from the shore and wear a long, windproof raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Halk Plajı",
+                "hu": "İnceboğaz Halk Plajı",
+                "ro": "İnceboğaz Halk Plajı",
+                "en": "İnceboğaz Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im kleinen Strandcafé; die Bucht wirkt bei grauem Himmel sehr atmosphärisch, packen Sie jedoch Ihre Sachen in wasserdichte Beutel.",
+                "hu": "Keressen menedéket a kis parti kávézóban; az öböl szürke égbolt mellett is hangulatos, de értékeit mindenképpen pakolja vízhatlan tasakokba.",
+                "ro": "Căutați adăpost în mica cafenea de pe plajă; golful este atmosferic sub cerul gri, dar puneți-vă obiectele personale în pungi impermeabile.",
+                "en": "Seek shelter in the small beach cafe; the bay is very atmospheric under grey skies, but keep your belongings in waterproof bags for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Kaş beginnt mit frischer, klarer Meeresluft. Die Sonne wärmt zur Mittagszeit die geschützten Buchten angenehm auf, ideal für ruhige Spaziergänge. Da die Sonne bereits gegen 17:00 Uhr hinter den Bergen verschwindet, sollte man die hellen Stunden für die Küstenwege nutzen. Die Abende sind kühl und laden dazu ein, die gemütlichen, beheizten Cafés der Altstadt zu erkunden.",
+            "hu": "A téli reggelek frissek és kristálytiszták Kaşban. Délidőben a nap kellemesen felmelegíti a szélvédett öblöket, ami ideális a tömegmentes sétákhoz. Mivel a nap már 17:00 körül eltűnik a hegyek mögött, érdemes a világos órákat kihasználni a parton. Az esték hűvösek, ilyenkor a belváros fűtött kávézói és éttermei nyújtanak meghitt kikapcsolódást.",
+            "ro": "O zi de iarnă în Kaş începe cu un aer marin proaspăt și curat. La prânz, soarele încălzește plăcut golfurile adăpostite, fiind ideal pentru plimbări liniștite. Deoarece soarele apune după munți în jurul orei 17:00, profitați de orele de lumină pe malul mării. Serile sunt răcoroase, invitându-vă să explorați cafenelele încălzite din centrul vechi.",
+            "en": "A winter day in Kaş starts with crisp, clear sea air. At noon, the sun pleasantly warms the sheltered bays, making it ideal for peaceful walks. Since the sun disappears behind the mountains around 17:00, make the most of the daylight hours on the coastal paths. Evenings are cool, perfect for retreating into the cozy, heated cafes of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kaş Hotel",
+                "hu": "Kaş Hotel",
+                "ro": "Kaş Hotel",
+                "en": "Kaş Hotel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Frühstück bei klarer Sicht auf Meis; die Wintersonne ist stark, aber der Wind vom Meer erfordert eine winddichte Fleecejacke.",
+                "hu": "Élvezze a reggelit tiszta kilátással Meis szigetére; a téli nap csalóka lehet, a tengeri szél miatt mindenképpen vegyen fel szélálló polárfelsőt.",
+                "ro": "Bucurați-vă de micul dejun cu o vedere clară spre Meis; soarele de iarnă este puternic, dar vântul marin necesită o jachetă fleece rezistentă.",
+                "en": "Enjoy breakfast with a clear view of Meis island; the winter sun is strong, but the sea breeze requires a windproof fleece jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Leymona Beach & Cafe",
+                "hu": "Leymona Beach & Cafe",
+                "ro": "Leymona Beach & Cafe",
+                "en": "Leymona Beach & Cafe"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Lage fängt die Mittagssonne perfekt ein; ideal für ein Sonnenbad im Sitzen, aber nehmen Sie eine Thermoskanne mit heißem Tee mit.",
+                "hu": "A védett fekvés tökéletesen csapdába ejti a déli napsütést; ideális egy kis napfürdőhöz, de vigyen magával termoszban forró teát a pihenéshez.",
+                "ro": "Locația adăpostită captează perfect soarele de la prânz; este ideal pentru o baie de soare, dar aduceți un termos cu ceai fierbinte pentru relaxare.",
+                "en": "The sheltered location captures the midday sun perfectly; it's ideal for soaking up some rays, but bring a thermos of hot tea to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Derya Beach",
+                "hu": "Derya Beach",
+                "ro": "Derya Beach",
+                "en": "Derya Beach"
+              },
+              "tip_5lang": {
+                "de": "Ohne die Sommermassen ist die Bucht ein Ort der Stille; genießen Sie das glasklare, kalte Wasser vom Steg aus und tragen Sie warme Wollsocken.",
+                "hu": "A nyári tömeg nélkül az öböl a nyugalom szigete; csodálja meg a kristálytiszta, hideg vizet a mólóról, és viseljen meleg gyapjúzoknit a cipőben.",
+                "ro": "Fără mulțimile de vară, golful este un loc al liniștii; admirați apa rece și cristalină de pe dig și purtați șosete groase de lână pentru confort.",
+                "en": "Without the summer crowds, the bay is a place of silence; enjoy the crystal-clear, cold water from the pier and wear warm wool socks for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Plajı",
+                "hu": "İnceboğaz Plajı",
+                "ro": "İnceboğaz Plajı",
+                "en": "İnceboğaz Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht im Winter am Isthmus oft kräftig; die Aussicht auf beide Meeresseiten ist jetzt besonders klar, Handschuhe sind jedoch ratsam.",
+                "hu": "A szél télen gyakran erősen fúj a földnyelven; a kilátás mindkét oldalra ilyenkor a legtisztább, de egy vékony kesztyű viselése tanácsos.",
+                "ro": "Vântul bate adesea cu putere pe istm în timpul iernii; vederea spre ambele părți ale mării este extrem de clară acum, dar mănușile sunt recomandate.",
+                "en": "The wind often blows strongly on the isthmus in winter; the view of both sea sides is exceptionally clear now, but light gloves are advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Halk Plajı",
+                "hu": "İnceboğaz Halk Plajı",
+                "ro": "İnceboğaz Halk Plajı",
+                "en": "İnceboğaz Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 16:30 Uhr, um nicht im Dunkeln zurückzulaufen; das Winterlicht färbt die Felsen der Halbinsel spektakulär rot-orange.",
+                "hu": "Fejezze be a látogatást 16:30 előtt, hogy ne sötétben kelljen visszasétálnia; a téli fények látványos vöröses-narancsra festik a félsziget szikláit.",
+                "ro": "Încheiați vizita înainte de 16:30 pentru a nu vă întoarce pe întuneric; lumina de iarnă colorează spectaculos stâncile peninsulei în nuanțe de roșu.",
+                "en": "Finish your visit before 16:30 to avoid walking back in the dark; the winter light paints the peninsula's rocks in spectacular red and orange."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen a hűvös reggeli levegőben a központi strandok közelében, üdvözölve a nyugodt, türkizkék tengert. Haladjon a félsziget útján, rejtett öblökben megállva, hogy drámai sziklák mellett ússzon. Folytassa útját a kanyargós parti utakon, felfedezve a nyüzsgő nyilvános strandokat. Térjen vissza a tengerparton, amikor az ég aranyba borul, egy utolsó esti fürdőzéssel.",
         "ro": "Pedalați prin aerul răcoros al dimineții lângă plajele centrale, salutând marea liniștită și turcoaz. Mergeți pe drumul peninsulei, oprindu-vă la golfuri ascunse pentru a înota lângă stânci dramatice. Continuați pe rutele de coastă șerpuitoare, descoperind plaje publice pline de viață. Întoarceți-vă în timp ce cerul devine auriu, terminând cu o baie de seară binemeritată.",
         "en": "Pedal through the cool morning air starting near the central beaches, greeting the calm, vibrant turquoise sea. Cycle down the rugged peninsula road, stopping at hidden coves to swim beside dramatic limestone cliffs. Push further along the winding coastal routes, discovering lively public beaches and watching boats sail by. Ride back as the sky turns golden, finishing your journey with a final evening swim and a well-deserved rest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Kaş Vorsicht auf den steilen Wegen. Der Vormittag startet bei einer Bucht, wo die Gischt gegen die Felsen spritzt. Mittags bieten Cafés entlang der Halbinsel trockene Pausenplätze. Am Nachmittag leuchten die nassen Kieselsteine an den Stränden in intensiven Farben. Abends ist eine langsame Rückfahrt mit guter Beleuchtung durch die glänzenden Gassen nötig.",
+            "hu": "Az esős biciklizés Kaş meredek útjain fokozott óvatosságot igényel. A délelőtt egy olyan öbölnél indul, ahol a tajték látványosan csapódik a szikláknak. Délidőben a félsziget kávézói nyújtanak száraz pihenőt. Délután a vizes kavicsok a parton intenzív színekben pompáznak. Este lassú visszatekerés javasolt jó világítással a csillogóan vizes és csúszós aszfalton.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile abrupte din Kaş. Dimineața începe la un golf unde valurile se sparg de stânci. La prânz, cafenelele de-a lungul peninsulei oferă locuri de popas uscate. După-amiaza, pietrele umede de pe plaje strălucesc în culori intense. Seara, este necesară o întoarcere lentă, cu iluminare bună, pe străzile lucioase.",
+            "en": "Cycling in the rain requires caution on Kaş's steep roads. The morning starts at a bay where sea spray hits the rocks. At noon, cafes along the peninsula offer dry resting spots. In the afternoon, the wet pebbles on the beaches glow with intense colors. In the evening, a slow ride back with good lighting through the glistening streets is necessary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Derya Beach",
+                "hu": "Derya Beach",
+                "ro": "Derya Beach",
+                "en": "Derya Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf den nassen Straßen; genießen Sie den Blick auf die Wellen unter dem Schutz des Club-Eingangs.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes utak miatt; élvezze a hullámok látványát a klub bejáratának védelme alól, amíg eláll az eső.",
+                "ro": "Verificați frânele înainte de a pleca pe drumurile ude; bucurați-vă de priveliștea valurilor sub protecția intrării în club, la adăpost.",
+                "en": "Check your brakes before starting on the wet roads; enjoy the view of the waves under the protection of the club entrance while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaş Hotel",
+                "hu": "Kaş Hotel",
+                "ro": "Kaş Hotel",
+                "en": "Kaş Hotel"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab; wärmen Sie sich im Hotel-Foyer auf, da die Abfahrt zur Halbinsel bei Nässe sehr rutschig sein kann.",
+                "hu": "Támassza le kerékpárját az előtető alá; melegedjen fel a hotel előterében, mert a félszigetre vezető lejtő nagyon csúszós lehet esőben.",
+                "ro": "Parcați bicicleta sub copertină; încălziți-vă în holul hotelului, deoarece coborârea spre peninsulă poate fi foarte alunecoasă pe timp de ploaie.",
+                "en": "Park your bike under the awning; warm up in the hotel lobby, as the descent to the peninsula can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Plajı",
+                "hu": "İnceboğaz Plajı",
+                "ro": "İnceboğaz Plajı",
+                "en": "İnceboğaz Plajı"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf dem schmalen Damm bei starkem Wind; nutzen Sie die kurzen Regenpausen für Fotos der aufgewühlten See.",
+                "hu": "Erős szélben kerülje a kerékpározást közvetlenül a keskeny gáton; használja ki a rövid esőszüneteket a felkavart tenger fotózására.",
+                "ro": "Evitați mersul pe bicicletă direct pe digul îngust în caz de vânt puternic; profitați de pauzele de ploaie pentru a fotografia marea agitată.",
+                "en": "Avoid cycling directly on the narrow causeway during strong winds; use brief breaks in the rain to photograph the turbulent sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kadynlar beach",
+                "hu": "Kadynlar beach",
+                "ro": "Kadynlar beach",
+                "en": "Kadynlar beach"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier sehr schlammig werden; bleiben Sie auf den befestigten Wegen und tragen Sie eine wasserdichte Überhose über Ihrer Radbekleidung.",
+                "hu": "A talaj itt nagyon sárossá válhat; maradjon a kiépített utakon, és viseljen vízhatlan esőnadrágot a kerékpáros ruházata felett.",
+                "ro": "Solul poate deveni foarte noroios aici; rămâneți pe potecile pavate și purtați pantaloni impermeabili peste echipamentul de ciclism.",
+                "en": "The ground can get very muddy here; stay on the paved paths and wear waterproof over-trousers over your cycling gear for protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidayet Plajı",
+                "hu": "Hidayet Plajı",
+                "ro": "Hidayet Plajı",
+                "en": "Hidayet Plajı"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Restaurant für eine trockene Pause; die Kurven zur Bucht sind bei Regen tückisch, fahren Sie bergab besonders langsam und vorsichtig.",
+                "hu": "Használja az éttermet egy száraz pihenőre; az öbölhöz vezető kanyarok esőben trükkösek, lefelé haladva legyen különösen lassú és óvatos.",
+                "ro": "Folosiți restaurantul pentru un popas uscat; curbele spre golf sunt înșelătoare pe ploaie, coborâți cu viteză redusă și maximă atenție.",
+                "en": "Use the restaurant for a dry break; the curves leading to the bay are tricky in the rain, so ride downhill slowly and with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Akçagerme Halk Plajı",
+                "hu": "Akçagerme Halk Plajı",
+                "ro": "Akçagerme Halk Plajı",
+                "en": "Akçagerme Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Endpunkt mit überdachten Picknickplätzen; wischen Sie Ihre Felgen trocken, um die Bremskraft für den Rückweg in die Stadt zu erhalten.",
+                "hu": "Kiváló végállomás fedett piknikezőhelyekkel; törölje szárazra a felniket, hogy megmaradjon a fékerő a városba vezető visszaúton.",
+                "ro": "Un punct final excelent, cu zone de picnic acoperite; ștergeți jantele pentru a menține forța de frânare la întoarcerea spre oraș.",
+                "en": "A great final stop with covered picnic areas; wipe your rims dry to maintain braking power for the ride back into town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter ist dank der milden Temperaturen in Kaş ideal. Der Morgen startet frisch an der Küste. Mittags ist es auf der Halbinsel sonnig und windgeschützt, perfekt für eine Panoramatour. Die klare Winterluft bietet Fernsichten bis weit auf das Meer hinaus. Da es früh dunkel wird, sollte die Tour gegen 16:30 Uhr enden, bevor die Temperaturen spürbar sinken.",
+            "hu": "A téli kerékpározás az enyhe kaşi hőmérsékletnek köszönhetően ideális. A reggel frissen indul a parton. Délidőben a félsziget napsütötte és szélvédett részei tökéletesek egy panorámatúrához. A tiszta téli levegő messzi kilátást enged a tengerre. Mivel korán sötétedik, a túrát érdemes 16:30 körül befejezni, mielőtt a hőmérséklet érezhetően visszaesne.",
+            "ro": "Ciclismul de iarnă este ideal datorită temperaturilor blânde din Kaş. Dimineața începe cu prospețime pe coastă. La prânz, peninsula este însorită și ferită de vânt, perfectă pentru un tur panoramic. Aerul clar de iarnă oferă vizibilitate până departe pe mare. Deoarece se întunecă devreme, turul ar trebui să se încheie în jurul orei 16:30.",
+            "en": "Cycling in winter is ideal thanks to Kaş's mild temperatures. The morning starts fresh along the coast. At noon, the peninsula is sunny and sheltered from the wind, perfect for a panoramic tour. The clear winter air offers views far out to sea. As it gets dark early, the tour should end around 16:30 before temperatures drop noticeably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Derya Beach",
+                "hu": "Derya Beach",
+                "ro": "Derya Beach",
+                "en": "Derya Beach"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Schichten; die Wintersonne wärmt den Rücken, aber der Fahrtwind ist kühl. Ein Stirnband unter dem Helm schützt Ihre Ohren.",
+                "hu": "Réteges öltözettel induljon; a téli nap melegíti a hátát, de a menetszél hűvös. Egy vékony fejpánt a sisak alatt megvédi a füleit a széltől.",
+                "ro": "Începeți cu haine în straturi; soarele de iarnă vă încălzește spatele, dar vântul este rece. O bentiță sub cască vă va proteja urechile.",
+                "en": "Start with layers; the winter sun warms your back, but the wind chill is cool. A thin headband under your helmet will protect your ears."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaş Hotel",
+                "hu": "Kaş Hotel",
+                "ro": "Kaş Hotel",
+                "en": "Kaş Hotel"
+              },
+              "tip_5lang": {
+                "de": "Ein sonniger Pausenstopp; die Hotelterrasse ist im Winter oft windgeschützt. Nutzen Sie die Zeit, um Ihre Sonnenbrille gegen die tiefe Sonne zu putzen.",
+                "hu": "Napsütötte pihenőhely; a szálloda terasza télen gyakran szélvédett. Használja ki az időt a napszemüveg megtisztítására az alacsony napállás miatt.",
+                "ro": "Un popas însorit; terasa hotelului este adesea ferită de vânt iarna. Profitați de timp pentru a vă curăța ochelarii de soare pentru lumina joasă.",
+                "en": "A sunny break spot; the hotel terrace is often sheltered in winter. Use the time to clean your sunglasses for the low-hanging sun."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Plajı",
+                "hu": "İnceboğaz Plajı",
+                "ro": "İnceboğaz Plajı",
+                "en": "İnceboğaz Plajı"
+              },
+              "tip_5lang": {
+                "de": "Hier ist es im Winter oft sehr windig; treten Sie kräftig in die Pedale und tragen Sie eine winddichte Weste, um den Oberkörper warm zu halten.",
+                "hu": "Itt télen gyakran erős a szél; tekerjen tempósabban és viseljen szélálló mellényt, hogy a felsőteste melegen maradjon a nyílt szakaszon.",
+                "ro": "Aici este adesea vânt iarna; pedalați cu putere și purtați o vestă rezistentă la vânt pentru a vă menține corpul cald pe secțiunea deschisă.",
+                "en": "It's often windy here in winter; pedal steadily and wear a windproof vest to keep your core warm on the open stretch of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Kadynlar beach",
+                "hu": "Kadynlar beach",
+                "ro": "Kadynlar beach",
+                "en": "Kadynlar beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand; die Steine speichern die Wärme der Mittagssonne, ein idealer Ort für eine kurze Dehnpause im Warmen.",
+                "hu": "Élvezze a strand magányát; a kövek jól tárolják a déli nap melegét, így ez egy tökéletes hely egy rövid, melengető nyújtó pihenőre.",
+                "ro": "Bucurați-vă de singurătatea plajei; pietrele rețin căldura soarelui de la prânz, fiind un loc ideal pentru o scurtă pauză de stretching la soare.",
+                "en": "Enjoy the solitude of the beach; the stones store the midday sun's warmth, making it a perfect spot for a short, warming stretch break."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidayet Plajı",
+                "hu": "Hidayet Plajı",
+                "ro": "Hidayet Plajı",
+                "en": "Hidayet Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht ist im Winter im Schatten kühl; ziehen Sie Ihre Jacke vor der Abfahrt wieder an, um nicht durch den Wind auszukühlen.",
+                "hu": "Az öbölhöz vezető lejtő télen az árnyékban hűvös; a gurulás előtt vegye vissza a kabátját, hogy a menetszél ne hűtse le a testét.",
+                "ro": "Coborârea spre golf este răcoroasă la umbră iarna; puneți-vă jacheta înainte de a coborî pentru ca vântul să nu vă răcească prea tare.",
+                "en": "The descent to the bay is cool in the shade during winter; put your jacket back on before rolling down so the wind doesn't chill you."
+              }
+            },
+            {
+              "name": {
+                "de": "Akçagerme Halk Plajı",
+                "hu": "Akçagerme Halk Plajı",
+                "ro": "Akçagerme Halk Plajı",
+                "en": "Akçagerme Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das letzte Sonnenlicht zu genießen; schalten Sie für die Rückfahrt in die Stadt Ihr Licht ein, da es nun schnell dunkler wird.",
+                "hu": "Szép hely az utolsó napsugarak élvezetére; a városba vezető visszaútra mindenképpen kapcsolja be a lámpákat, mert gyorsan sötétedik.",
+                "ro": "Un loc frumos pentru a savura ultimele raze de soare; aprindeți luminile pentru drumul de întoarcere spre oraș, deoarece se înserează rapid.",
+                "en": "A lovely spot to enjoy the last bits of sunlight; turn on your bike lights for the ride back to town, as it gets dark very quickly now."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen nyugatra a központból, hogy élvezze a békés kora reggeli órákat a tágas, családbarát strandokon. Navigáljon a félsziget mentén, hogy kristálytiszta vizekbe merüljön, ahol gyakran látni tengeri teknősöket. Utazzon át az öbölön az elszigetelt keleti partok felé, lenyűgöző, zord tájak mellett elhaladva. Parkoljon le a nyugodt keleti parton, hogy teljes békében nézze meg a lenyűgöző naplementét.",
         "ro": "Conduceți spre vest din centru pentru a vă bucura de orele liniștite de dimineață la plajele spațioase. Navigați de-a lungul peninsulei pentru a vă scufunda în ape limpezi, unde se văd des țestoase marine. Călătoriți peste golf către golfurile estice izolate, trecând pe lângă peisaje aspre și uimitoare. Parcați lângă țărmurile estice liniștite pentru a privi un apus de soare uimitor în pace totală.",
         "en": "Drive west out of the center to enjoy the peaceful early hours at spacious, family-friendly pebble beaches. Navigate along the peninsula to dive into deeper, crystal-clear waters where sea turtles are often seen. Cruise across the bay area towards the secluded eastern coves, passing striking rugged landscapes on the way. Park near the tranquil eastern shores to watch a stunning sunset in total peace before returning to town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag ist das Auto die komfortabelste Wahl für Kaş. Der Vormittag führt zu den westlichen Stränden, wo man das Meer gemütlich aus dem trockenen Wagen beobachten kann. Mittags bieten Strandrestaurants mit großen Fenstern tolle Ausblicke auf die Brandung. Am Nachmittag erkundet man die Halbinsel, während die Wischer rhythmisch gegen den Regen kämpfen. Abends parkt man direkt am Hafen.",
+            "hu": "Esős napon az autó a legkényelmesebb választás Kaş felfedezéséhez. A délelőtt a nyugati strandokhoz vezet, ahol a száraz autóból is élvezhetjük a tenger látványát. Ebédidőben a nagy ablakos parti éttermekből figyelhetjük a hullámokat. Délután a félsziget körbeautózása közben a sűrű köd és az eső különleges hangulatot áraszt. Estére érdemes közvetlenül a kikötő melletti parkolót választani.",
+            "ro": "Într-o zi ploioasă, mașina este cea mai confortabilă alegere pentru Kaş. Dimineața duce spre plajele vestice, unde puteți admira marea din interiorul uscat al vehiculului. La prânz, restaurantele de pe coastă cu ferestre mari oferă vederi superbe. După-amiaza, explorați peninsula în timp ce ștergătoarele bat în ritmul ploii. Seara, parcați chiar lângă port pentru acces facil.",
+            "en": "On a rainy day, a car is the most comfortable choice for exploring Kaş. The morning leads to the western beaches, where you can watch the sea from the dry interior of your vehicle. At noon, coastal restaurants with large windows offer great views of the surf. In the afternoon, drive around the peninsula as the wipers beat rhythmically. In the evening, park directly at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Akçagerme Halk Plajı",
+                "hu": "Akçagerme Halk Plajı",
+                "ro": "Akçagerme Halk Plajı",
+                "en": "Akçagerme Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Café-Eingang; genießen Sie den Blick auf die türkisblaue Bucht, die auch bei Regen leuchtet, und nehmen Sie einen Regenschirm mit.",
+                "hu": "Parkoljon közvetlenül a kávézó bejárata mellett; az öböl türkiz színe esőben is ragyog, de a rövid sétához is vigyen magával esernyőt.",
+                "ro": "Parcați aproape de intrarea în cafenea; bucurați-vă de culoarea turcoaz a golfului care strălucește și pe ploaie, folosind o umbrelă pentru acces.",
+                "en": "Park close to the cafe entrance; enjoy the turquoise color of the bay which shines even in the rain, and use an umbrella for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidayet Plajı",
+                "hu": "Hidayet Plajı",
+                "ro": "Hidayet Plajı",
+                "en": "Hidayet Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal und bei Nässe rutschig; fahren Sie vorsichtig und nutzen Sie das Restaurant, um im Trockenen den Wellen zuzusehen.",
+                "hu": "A levezető út keskeny és vizesen csúszós; vezessen óvatosan, és használja az éttermet, hogy szárazon maradva figyelhesse a hullámverést.",
+                "ro": "Drumul de acces este îngust și alunecos pe ploaie; conduceți cu grijă și folosiți restaurantul pentru a observa valurile de la adăpost.",
+                "en": "The access road is narrow and slippery when wet; drive carefully and use the restaurant to watch the waves while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Halk Plajı",
+                "hu": "İnceboğaz Halk Plajı",
+                "ro": "İnceboğaz Halk Plajı",
+                "en": "İnceboğaz Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Dank der nahen Parkplätze müssen Sie kaum durch den Regen laufen; der Isthmus ist bei Sturm ein dramatischer Fotostopp direkt aus dem Fenster.",
+                "hu": "A közeli parkolóknak köszönhetően alig kell az esőben gyalogolnia; a földnyelv viharos időben drámai fotótéma, akár az autó ablakából is.",
+                "ro": "Datorită parcării apropiate, abia dacă trebuie să mergeți prin ploaie; istmul este un loc dramatic de fotografiat chiar de pe fereastra mașinii.",
+                "en": "Thanks to nearby parking, you barely have to walk in the rain; the isthmus is a dramatic photo spot even directly from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Limanağzı",
+                "hu": "Limanağzı",
+                "ro": "Limanağzı",
+                "en": "Limanağzı"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtspunkte oberhalb der Bucht bieten bei Regen tolle Panoramen; bleiben Sie im Wagen und genießen Sie die dunstige Sicht auf den Hafen.",
+                "hu": "Az öböl feletti kilátópontok esőben is remek panorámát nyújtanak; maradjon az autóban, és élvezze a kikötőre nyíló párás, ködös kilátást.",
+                "ro": "Punctele de observație de deasupra golfului oferă panorame superbe pe ploaie; rămâneți în mașină și savurați vederea cețoasă spre port.",
+                "en": "The viewpoints above the bay offer great panoramas in the rain; stay in the car and enjoy the misty view over the harbor and the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Yılka Beach",
+                "hu": "Yılka Beach",
+                "ro": "Yılka Beach",
+                "en": "Yılka Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist hier wenig los, ideal für einen ruhigen Stopp; achten Sie auf Pfützen auf dem Parkplatz und tragen Sie wasserfeste Schuhe.",
+                "hu": "Esőben alig vannak itt, ideális egy csendes megállóra; ügyeljen a tócsákra a parkolóban, és viseljen vízálló cipőt a rövid kiszálláshoz.",
+                "ro": "Pe ploaie este puțină lume, ideal pentru un popas liniștit; atenție la bălțile din parcare și purtați încălțăminte rezistentă la apă.",
+                "en": "It's quiet here in the rain, ideal for a peaceful stop; watch out for puddles in the parking area and wear waterproof shoes if you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Swimming Area",
+                "hu": "Swimming Area",
+                "ro": "Swimming Area",
+                "en": "Swimming Area"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf das aufgewühlte Meer vor der Rückfahrt; die Scheiben beschlagen schnell, nutzen Sie die Klimaanlage für klare Sicht.",
+                "hu": "Egy utolsó pillantás a felkavart tengerre a visszaindulás előtt; az ablakok gyorsan párásodnak, használja a klímát a tiszta kilátáshoz.",
+                "ro": "O ultimă privire spre marea agitată înainte de întoarcere; geamurile se aburesc rapid, folosiți aerul condiționat pentru o vizibilitate clară.",
+                "en": "One last look at the turbulent sea before heading back; the windows fog up quickly, so use the AC to maintain a clear view while driving."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Kaş ist mit dem Auto wunderbar zu erkunden, da man flexibel zwischen den sonnigen Buchten wechseln kann. Vormittags ist das Licht perfekt für Fotos auf der Halbinsel. Mittags laden die ruhigen Strände zu kurzen Spaziergängen in der warmen Wintersonne ein. Nachmittags erreicht man entlegene Aussichtspunkte bequem. Vor dem frühen Sonnenuntergang um 17:00 Uhr sollte man einen Logenplatz am Meer finden.",
+            "hu": "A téli Kaş felfedezése autóval a legrugalmasabb, hiszen könnyen válthatunk a napsütötte öblök között. Délelőtt a fények tökéletesek a félszigeti fotózáshoz. Délidőben a csendes strandok hívogatnak rövid sétákra a melengető téli napon. Délután kényelmesen elérhetjük a távolabbi kilátópontokat is. A korai, 17:00-s naplemente előtt érdemes egy jó nézőpontot keresni a parton.",
+            "ro": "Iarna în Kaş este minunată de explorat cu mașina, permițându-vă să schimbați rapid locațiile însorite. Dimineața, lumina este perfectă pentru fotografii pe peninsulă. La prânz, plajele liniștite invită la plimbări scurte sub soarele blând. După-amiaza, ajungeți ușor la puncte de belvedere îndepărtate. Înainte de apusul de la ora 17:00, găsiți un loc bun pe malul mării.",
+            "en": "Winter in Kaş is wonderful to explore by car, allowing you to move flexibly between sunny bays. In the morning, the light is perfect for photography on the peninsula. At noon, the quiet beaches invite for short walks in the warm winter sun. In the afternoon, you can comfortably reach distant viewpoints. Find a prime spot by the sea before the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Akçagerme Halk Plajı",
+                "hu": "Akçagerme Halk Plajı",
+                "ro": "Akçagerme Halk Plajı",
+                "en": "Akçagerme Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "In der Nebensaison finden Sie leicht einen Parkplatz direkt am Strand; genießen Sie den ruhigen Vormittag und tragen Sie eine leichte Windjacke.",
+                "hu": "Szezonon kívül könnyen talál parkolót közvetlenül a strandnál; élvezze a csendes délelőttöt, de a tengeri szél miatt viseljen könnyű szélkabátot.",
+                "ro": "În extrasezon găsiți ușor parcare chiar lângă plajă; bucurați-vă de dimineața liniștită, purtând o jachetă subțire împotriva vântului marin.",
+                "en": "In the off-season, you'll easily find parking right by the beach; enjoy the quiet morning, but wear a light windbreaker against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Hidayet Plajı",
+                "hu": "Hidayet Plajı",
+                "ro": "Hidayet Plajı",
+                "en": "Hidayet Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter ein herrlicher Ort für die Mittagssonne; lassen Sie die Fenster einen Spalt offen, damit sich der Wagen nicht zu sehr aufheizt.",
+                "hu": "Az öböl télen csodálatos hely a déli napsütés élvezetére; hagyja résnyire lehúzva az ablakot, hogy az autó ne melegedjen fel túlságosan a tűző napon.",
+                "ro": "Golful este un loc minunat pentru soarele de la prânz iarna; lăsați geamurile puțin deschise pentru ca mașina să nu se supraîncălzească la soare.",
+                "en": "The bay is a wonderful spot for the midday sun in winter; leave the windows cracked open slightly so the car doesn't overheat in the direct sun."
+              }
+            },
+            {
+              "name": {
+                "de": "İnceboğaz Halk Plajı",
+                "hu": "İnceboğaz Halk Plajı",
+                "ro": "İnceboğaz Halk Plajı",
+                "en": "İnceboğaz Halk Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp für klare Winterfotos der Halbinsel; der Wind kann hier kühl sein, halten Sie Ihre Mütze bereit, wenn Sie für Fotos aussteigen.",
+                "hu": "Ideális megálló a félsziget tiszta téli fotózásához; a szél itt hűvös lehet, tartsa készenlétben a sapkáját, ha kiszáll a fényképezéshez.",
+                "ro": "Un popas ideal pentru fotografii clare de iarnă ale peninsulei; vântul poate fi rece aici, pregătiți-vă căciula când coborâți pentru poze.",
+                "en": "An ideal stop for clear winter photos of the peninsula; the wind can be chilly here, so have your hat ready when you step out for pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Limanağzı",
+                "hu": "Limanağzı",
+                "ro": "Limanağzı",
+                "en": "Limanağzı"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz oben haben Sie eine tolle Fernsicht auf die schneebedeckten Berge im Hinterland; nutzen Sie ein Fernglas für Details an der Küste.",
+                "hu": "A fenti parkolóból nagyszerű kilátás nyílik a háttérben húzódó havas hegyekre; használjon távcsövet a tengerparti részletek megfigyeléséhez.",
+                "ro": "Din parcarea de sus aveți o vedere superbă spre munții înzăpeziți din depărtare; folosiți un binoclu pentru a vedea detaliile coastei.",
+                "en": "From the parking area above, you have a great view of the snow-capped mountains inland; use binoculars to spot details along the rugged coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Yılka Beach",
+                "hu": "Yılka Beach",
+                "ro": "Yılka Beach",
+                "en": "Yılka Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tiefstehende Wintersonne direkt am Meer; die Temperaturen sinken nun schnell, schalten Sie die Sitzheizung für die Weiterfahrt ein.",
+                "hu": "Élvezze az alacsonyan járó téli napot közvetlenül a tengerparton; a hőmérséklet most gyorsan esik, kapcsolja be az ülésfűtést a továbbinduláshoz.",
+                "ro": "Bucurați-vă de soarele jos de iarnă chiar pe malul mării; temperaturile scad rapid acum, porniți încălzirea în scaune pentru continuarea drumului.",
+                "en": "Enjoy the low-hanging winter sun right by the sea; temperatures drop quickly now, so turn on the seat heating for the rest of the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Swimming Area",
+                "hu": "Swimming Area",
+                "ro": "Swimming Area",
+                "en": "Swimming Area"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um ca. 17:00 Uhr bequem aus dem Auto; die Farben am Horizont sind im Winter besonders intensiv und klar.",
+                "hu": "Figyelje a naplementét 17:00 körül kényelmesen az autóból; a színek a látóhatáron télen különösen intenzívek és tiszták a tiszta levegő miatt.",
+                "ro": "Urmăriți apusul de la ora 17:00 confortabil din mașină; culorile la orizont sunt extrem de intense și clare în timpul iernii datorită aerului.",
+                "en": "Watch the sunset around 17:00 comfortably from your car; the colors on the horizon are particularly intense and clear during the winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Berga történelmi és spirituális szívének felfedezésével, látogasson el a Sant Francesc és a Casa de Martin épületeibe.\n\nDél közeledtével sétáljon át a Sant Joanhoz, hogy magába szívja az ősi falak csendes történelmét.\n\nDélután élvezze a pihentető közjátékot a Piscina del Lladóban, mielőtt elindulna a festői zöldterületek felé.\n\nFejezze be kellemes sétáját a Parc del Pla de l'Alemany nyugodt, fás ösvényei között az este közeledtével.",
         "ro": "Începeți dimineața explorând inima istorică și spirituală a orașului Berga, vizitând Sant Francesc și Casa de Martin pentru arhitectura clasică.\n\nOdată cu apropierea prânzului, faceți o plimbare până la Sant Joan pentru a absorbi istoria liniștită a zidurilor sale.\n\nDupă-amiaza, bucurați-vă de un interludiu relaxant la Piscina del Lladó înainte de a vă îndrepta spre zonele verzi.\n\nÎncheiați turul de plimbare printre cărările liniștite cu copaci din Parc del Pla de l'Alemany, odată cu lăsarea serii.",
         "en": "Start your morning exploring the historical and spiritual heart of Berga, visiting Sant Francesc and Casa de Martin to admire classic Catalan architecture.\n\nAs midday approaches, stroll over to Sant Joan to soak in the quiet history of its ancient walls.\n\nIn the afternoon, enjoy a relaxing interlude at Piscina del Lladó before making your way towards the scenic green spaces.\n\nConclude your pleasant walking tour among the tranquil, tree-lined paths of Parc del Pla de l'Alemany as the evening settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hüllt der Regen die Altstadt in einen mystischen Dunst. Mittags bieten die Arkaden und engen Gassen rund um Sant Joan Schutz vor den Tropfen. Nachmittags glänzen die Wege im Park silbern im nassen Licht. Am Abend spiegelt sich die Stadtbeleuchtung zauberhaft in den Pfützen auf dem historischen Pflaster.",
+            "hu": "Reggel a ködös eső misztikus aurát von az óváros köré. Délben a Sant Joan környéki szűk utcák és boltívek nyújtanak természetes menedéket. Délután a park vizes ösvényei ezüstösen csillognak a szürke fényben. Estére a nedves köveken megcsillanó utcai lámpák fénye teszi hangulatossá a sétát.",
+            "ro": "Dimineața, ploaia învăluie centrul vechi într-o negură mistică. La prânz, arcadele și străzile înguste de lângă Sant Joan oferă adăpost natural. După-amiaza, aleile parcului strălucesc argintiu în lumina umedă. Seara se încheie cu reflexiile felinarelor în bălțile de pe pavajul istoric.",
+            "en": "In the morning, mist and rain wrap the old town in a mystical haze. By noon, the narrow streets and arches near Sant Joan provide a dry haven. Afternoon brings a silver glow to the park's wet paths. The evening ends beautifully with streetlights reflecting in the puddles on the ancient stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Francesc",
+                "hu": "Sant Francesc",
+                "ro": "Sant Francesc",
+                "en": "Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene Stille und Akustik der Kirche, während es draußen regnet; ein großer Regenschirm ist für den windigen Vorplatz unerlässlich.",
+                "hu": "Élvezze a templom száraz csendjét és kiváló akusztikáját, miközben kint esik; a szeles előtérhez egy masszív esernyő mindenképpen ajánlott.",
+                "ro": "Bucurați-vă de liniștea uscată și acustica bisericii în timp ce plouă afară; o umbrelă rezistentă este esențială pentru piața expusă vântului.",
+                "en": "Enjoy the dry silence and acoustics of the church while it rains outside; a sturdy umbrella is essential for the windy plaza in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Martin",
+                "hu": "Casa de Martin",
+                "ro": "Casa de Martin",
+                "en": "Casa de Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassadendetails unter den schützenden Dachvorsprüngen der Nachbarhäuser; achten Sie auf die rutschigen Steinstufen beim Betreten.",
+                "hu": "Csodálja meg a homlokzat részleteit a szomszédos épületek védelmező ereszei alól; ügyeljen a csúszós kőlépcsőkre a megközelítéskor.",
+                "ro": "Admirați detaliile fațadei sub streșinile protectoare ale caselor vecine; atenție la treptele de piatră alunecoase când vă apropiați.",
+                "en": "Admire the facade details from under the protective eaves of neighboring buildings; watch out for slippery stone steps when approaching."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Joan",
+                "hu": "Sant Joan",
+                "ro": "Sant Joan",
+                "en": "Sant Joan"
+              },
+              "tip_5lang": {
+                "de": "Dieser intime Raum bietet den perfekten Unterschlupf, um die mittelalterliche Atmosphäre im Trockenen zu erleben; tragen Sie wasserfeste Schuhe für den Weg.",
+                "hu": "Ez a bensőséges tér tökéletes menedék, hogy szárazon élvezze a középkori hangulatot; viseljen vízálló cipőt a nedves macskaköves úton.",
+                "ro": "Acest spațiu intim oferă adăpostul perfect pentru a experimenta atmosfera medievală la uscat; purtați încălțăminte impermeabilă pentru drum.",
+                "en": "This intimate space offers the perfect shelter to experience the medieval atmosphere while staying dry; wear waterproof shoes for the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina del Lladó",
+                "hu": "Piscina del Lladó",
+                "ro": "Piscina del Lladó",
+                "en": "Piscina del Lladó"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage wirkt im Regen melancholisch und ruhig, ideal für ein kurzes Foto; meiden Sie die grasbewachsenen Ränder, da diese sehr matschig sind.",
+                "hu": "A terület melankolikus és nyugodt az esőben, ideális egy gyors fotóhoz; kerülje a füves széleket, mert ilyenkor nagyon sárosak és csúszósak.",
+                "ro": "Zona pare melancolică și liniștită pe ploaie, fiind ideală pentru o fotografie rapidă; evitați marginile cu iarbă, deoarece devin foarte noroioase.",
+                "en": "The area looks melancholic and peaceful in the rain, ideal for a quick photo; avoid the grassy edges as they become very muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc del Pla de l'Alemany",
+                "hu": "Parc del Pla de l'Alemany",
+                "ro": "Parc del Pla de l'Alemany",
+                "en": "Parc del Pla de l'Alemany"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege für einen frischen Spaziergang nach dem Regen; die Bäume bieten einen teilweisen Schutz vor leichtem Nieseln.",
+                "hu": "Használja az aszfaltozott utakat egy frissítő sétához az eső után; a fák lombkoronája részleges védelmet nyújt a gyenge szemerkélés ellen.",
+                "ro": "Folosiți aleile asfaltate pentru o plimbare revigorantă după ploaie; copacii oferă o protecție parțială împotriva burniței ușoare.",
+                "en": "Use the paved paths for a refreshing walk after the rain; the tree canopy provides partial protection from light drizzling."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Reif auf den Steinen von Berga, was die Stadt funkeln lässt. Mittags wärmt die tiefstehende Sonne die historischen Mauern angenehm auf. Nachmittags ist die klare Gebirgsluft erfrischend für den Spaziergang. Gegen 17:00 Uhr sinkt die Sonne und taucht den Park in ein intensives Wintergold.",
+            "hu": "Reggel gyakran dér borítja Berga köveit, amitől a város szinte szikrázik. Délben az alacsonyan járó nap kellemesen melengeti a történelmi falakat. Délután a tiszta hegyi levegő frissítővé teszi a sétát. 17:00 óra körül a lenyugvó nap intenzív arany fénybe vonja a parkot az alkonyat előtt.",
+            "ro": "Dimineața, bruma acoperă adesea pietrele din Berga, făcând orașul să scânteieze. La prânz, soarele jos încălzește plăcut zidurile istorice. După-amiaza, aerul curat de munte face plimbarea revigorantă. În jurul orei 17:00, soarele apune, scăldând parcul într-o lumină aurie de iarnă.",
+            "en": "Morning frost often covers the stones of Berga, making the town sparkle. By noon, the low winter sun pleasantly warms the historic walls. Afternoon brings crisp mountain air that invigorates the walk. Around 17:00, the sun sets, bathing the park in an intense winter gold before the early dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Francesc",
+                "hu": "Sant Francesc",
+                "ro": "Sant Francesc",
+                "en": "Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen, behalten Sie Ihre warme Jacke an; das Winterlicht durch die Fenster ist besonders klar und schön.",
+                "hu": "A templom belseje gyakran hűvösebb a kinti levegőnél, hagyja magán a meleg kabátot; a téli fény az ablakokon át különösen tiszta és szép.",
+                "ro": "În interiorul bisericii este adesea mai răcoare decât afară, păstrați haina groasă; lumina de iarnă prin ferestre este deosebit de clară și frumoasă.",
+                "en": "Inside the church is often cooler than outside, so keep your warm jacket on; the winter light through the windows is exceptionally clear and beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Martin",
+                "hu": "Casa de Martin",
+                "ro": "Casa de Martin",
+                "en": "Casa de Martin"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Texturen der alten Fassade hervorragend für Fotos; tragen Sie Handschuhe, da der Wind hier recht schneidend sein kann.",
+                "hu": "Az alacsony napállás remekül kiemeli a régi homlokzat textúráit a fotókon; viseljen kesztyűt, mert a szél itt elég metsző lehet télen.",
+                "ro": "Soarele jos accentuează texturile fațadei vechi, ideal pentru fotografii; purtați mănuși, deoarece vântul poate fi destul de tăios în acest punct.",
+                "en": "The low sun emphasizes the textures of the old facade perfectly for photos; wear gloves as the wind can be quite biting in this area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Joan",
+                "hu": "Sant Joan",
+                "ro": "Sant Joan",
+                "en": "Sant Joan"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Gasse schützt gut vor dem kalten Winterwind während der Besichtigung; achten Sie auf glatte Stellen im Schatten der hohen Mauern.",
+                "hu": "A szűk utca jól véd a hideg téli széltől a nézelődés közben; ügyeljen a jeges foltokra, amelyek megmaradhatnak a magas falak árnyékában.",
+                "ro": "Aleea îngustă protejează bine de vântul rece de iarnă în timpul vizitei; atenție la porțiunile înghețate din umbra zidurilor înalte.",
+                "en": "The narrow alley provides good protection from the cold winter wind during your visit; watch out for icy patches in the shade of high walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina del Lladó",
+                "hu": "Piscina del Lladó",
+                "ro": "Piscina del Lladó",
+                "en": "Piscina del Lladó"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe an diesem leeren Ort, die Winterluft ist hier besonders rein; eine Thermoskanne mit Tee macht die Pause hier sehr gemütlich.",
+                "hu": "Élvezze a csendet ezen az üres helyszínen, a téli levegő itt különösen tiszta; egy termosz meleg tea nagyon hangulatossá teheti az itteni pihenőt.",
+                "ro": "Bucurați-vă de liniștea acestui loc gol, aerul de iarnă fiind extrem de curat aici; un termos cu ceai cald va face pauza foarte plăcută.",
+                "en": "Enjoy the silence of this empty location, the winter air is exceptionally pure here; a thermos of hot tea makes a break here very cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc del Pla de l'Alemany",
+                "hu": "Parc del Pla de l'Alemany",
+                "ro": "Parc del Pla de l'Alemany",
+                "en": "Parc del Pla de l'Alemany"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang vor 17:00 Uhr, um den farbenfrohen Sonnenuntergang zu sehen; Zwiebelschichten sind wichtig für die sinkenden Temperaturen.",
+                "hu": "Fejezze be a sétát 17:00 előtt, hogy lássa a színes naplementét; a réteges öltözködés fontos a gyorsan csökkenő hőmérséklet miatt.",
+                "ro": "Încheiați plimbarea înainte de 17:00 pentru a vedea apusul colorat; îmbrăcămintea în straturi este esențială pentru temperaturile în scădere.",
+                "en": "Finish your walk before 17:00 to catch the colorful sunset; dressing in layers is vital for the rapidly dropping evening temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a Sant Francesc templomnál, mielőtt elindulna az Agulles del Mercadal drámai sziklaalakzatai felé.\n\nDélben tekerjen a Sant Pere de Madrona felé, és kapaszkodjon fel a híres Santuari de Queralthoz a panorámáért.\n\nTöltse a délutánt a Parc del Pla de l'Alemany buja területein pihenve, amely tökéletes hely a lábak pihentetésére.\n\nZárja a napot egy kellemes utazással a Sant Bartomeu középkori romjaihoz, élvezve a békés esti fényeket.",
         "ro": "Începeți aventura pe bicicletă la Sant Francesc înainte de a pedala pentru a vedea formațiunile stâncoase dramatice de la Agulles del Mercadal.\n\nLa prânz, mergeți spre Sant Pere de Madrona și urcați la faimosul Santuari de Queralt pentru vederi panoramice.\n\nPetreceți după-amiaza relaxându-vă în întinderile luxuriante ale Parc del Pla de l'Alemany, un loc perfect de odihnă.\n\nÎncheiați ziua cu o plimbare ușoară la ruinele medievale din Sant Bartomeu, bucurându-vă de lumina serii.",
         "en": "Kick off your cycling adventure at Sant Francesc before pedaling out to witness the dramatic rocky formations of Agulles del Mercadal.\n\nBy midday, ride towards Sant Pere de Madrona and ascend to the famous Santuari de Queralt for sweeping panoramic views.\n\nSpend your afternoon unwinding in the lush expanses of Parc del Pla de l'Alemany, a perfect spot to rest your legs.\n\nWrap up the day with a gentle ride to the medieval ruins of Sant Bartomeu, enjoying the peaceful evening glow."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer feuchten Fahrt durch die nebligen Straßen von Berga. Mittags erfordern die Waldwege hinauf zu den Agulles volle Konzentration auf den rutschigen Untergrund. Nachmittags bietet das Santuari de Queralt einen trockenen Rastplatz. Zum Abend hin rollt man vorsichtig zurück ins Tal, während der Regen die Reifen kühlt.",
+            "hu": "A nap párás tekeréssel indul Berga ködös utcáin. Délben az Agulles felé vezető erdei utak teljes koncentrációt igényelnek a csúszós talaj miatt. Délután a Santuari de Queralt épülete nyújt száraz pihenőhelyet a vihar elől. Estére óvatosan gurulunk vissza a völgybe, miközben az eső mossa az utat.",
+            "ro": "Ziua începe cu o tură umedă pe străzile cețoase din Berga. La prânz, potecile de pădure spre Agulles necesită concentrare maximă pe terenul alunecos. După-amiaza, Santuari de Queralt oferă un loc de odihnă uscat. Spre seară, coborâm cu grijă în vale, în timp ce ploaia răcește anvelopele.",
+            "en": "The day starts with a damp ride through Berga’s misty streets. By noon, the forest paths up to Agulles require full focus on the slippery ground. Afternoon finds a dry refuge at Santuari de Queralt for a well-earned break. Toward evening, coast back to the valley carefully as rain cools the road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Francesc",
+                "hu": "Sant Francesc",
+                "ro": "Sant Francesc",
+                "en": "Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die Vorhalle bietet einen guten Platz, um die Regenjacke nochmals richtig festzuzurren.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a templom előcsarnoka jó hely az esőkabát és a felszerelés végső igazítására.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie; pridvorul oferă un loc bun pentru a vă ajusta pelerina de ploaie și echipamentul.",
+                "en": "Check your brakes before starting in the rain; the church porch provides a good spot to properly adjust your raincoat and gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Agulles del Mercadal",
+                "hu": "Agulles del Mercadal",
+                "ro": "Agulles del Mercadal",
+                "en": "Agulles del Mercadal"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen sind bei Nässe extrem rutschig, bleiben Sie auf dem Radweg; Schutzbleche verhindern, dass Schlamm Ihre Sicht behindert.",
+                "hu": "A sziklák vizesen rendkívül csúszósak, maradjon a kijelölt úton; a sárvédők használata kötelező, hogy a felcsapódó sár ne zavarja a kilátást.",
+                "ro": "Stâncile sunt extrem de alunecoase când sunt ude, rămâneți pe traseu; apărătorile de noroi sunt esențiale pentru a vă menține vizibilitatea.",
+                "en": "The rocks are extremely slippery when wet, so stay on the designated path; mudguards are essential to keep mud from blocking your vision."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere de Madrona",
+                "hu": "Sant Pere de Madrona",
+                "ro": "Sant Pere de Madrona",
+                "en": "Sant Pere de Madrona"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Regen ab, ideal für eine kurze Verschnaufpause; achten Sie beim Abstellen des Rades auf den weichen, matschigen Boden.",
+                "hu": "A vastag falak jól felfogják az esőt, ideális hely egy rövid szusszanáshoz; a bicikli leállításakor ügyeljen a felázott, puha talajra.",
+                "ro": "Zidurile groase opresc ploaia, fiind locul ideal pentru o scurtă pauză; atenție la solul moale și noroios când parcați bicicleta.",
+                "en": "The thick walls keep the rain out, making it an ideal spot for a short breather; be careful of the soft, muddy ground when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuari de Queralt",
+                "hu": "Santuari de Queralt",
+                "ro": "Santuari de Queralt",
+                "en": "Santuari de Queralt"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen hängen die Wolken oft tief und bieten eine dramatische Aussicht; trocknen Sie Ihre Bremsflanken vor der langen Abfahrt gründlich ab.",
+                "hu": "Esőben a felhők gyakran alacsonyan szállnak, drámai kilátást nyújtva; a hosszú lejtmenet előtt alaposan törölje szárazra a fékfelületeket.",
+                "ro": "Pe ploaie, norii coboară adesea jos, oferind o priveliște dramatică; ștergeți bine jantele de frână înainte de coborârea lungă.",
+                "en": "In the rain, clouds often hang low, providing a dramatic view; wipe your brake surfaces dry before starting the long descent back."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc del Pla de l'Alemany",
+                "hu": "Parc del Pla de l'Alemany",
+                "ro": "Parc del Pla de l'Alemany",
+                "en": "Parc del Pla de l'Alemany"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Flächen im Park sind im Regen weniger tückisch als die Waldwege; fahren Sie Kurven besonders vorsichtig und mit wenig Neigung.",
+                "hu": "A park aszfaltozott részei kevésbé trükkösek az esőben, mint az erdei utak; a kanyarokban legyen óvatos és kerülje az éles döntéseket.",
+                "ro": "Zonele asfaltate din parc sunt mai puțin înșelătoare decât potecile; abordați curbele cu prudență maximă și fără înclinare mare.",
+                "en": "The paved areas of the park are less tricky in the rain than forest trails; take corners very carefully and avoid leaning too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Bartomeu",
+                "hu": "Sant Bartomeu",
+                "ro": "Sant Bartomeu",
+                "en": "Sant Bartomeu"
+              },
+              "tip_5lang": {
+                "de": "Die abgelegene Lage wirkt im Regen besonders friedlich, fast verwunschen; sorgen Sie für eine gute Beleuchtung am Rad für die Rückfahrt im Trüben.",
+                "hu": "A távoli helyszín esőben különösen békés, szinte elvarázsolt hangulatú; gondoskodjon jó világításról a biciklin a szürkületi visszatéréshez.",
+                "ro": "Locația izolată pare deosebit de liniștită pe ploaie, aproape fermecată; asigurați-vă că aveți lumini bune pentru drumul de întoarcere.",
+                "en": "The remote location feels especially peaceful and almost enchanted in the rain; ensure you have good bike lights for the ride back in the gloom."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour startet in der knackigen Morgenkälte mit einem Anstieg, der schnell aufwärmt. Mittags ist das Licht an den Agulles kristallklar und perfekt für Fernsichten. Nachmittags ist die Auffahrt zum Santuari de Queralt anstrengend, aber die Sonne wärmt den Rücken. Vor dem frühen Sonnenuntergang um 17:00 Uhr endet die Fahrt im goldenen Licht des Tals.",
+            "hu": "A túra csípős reggeli hidegben indul, de az első emelkedő gyorsan felmelegít. Délben a fény az Agullesnél kristálytiszta, tökéletes a távoli kilátáshoz. Délután a Queralt felé vezető út fárasztó, de a nap kellemesen süti a hátunkat. Az 17:00 órai naplemente előtt a völgy arany fényében érünk célba.",
+            "ro": "Turul începe în frigul tăios al dimineții, dar urcarea vă va încălzi rapid. La prânz, lumina la Agulles este de cristal, perfectă pentru panorame. După-amiaza, urcarea spre Queralt este grea, dar soarele vă încălzește spatele. Înainte de apusul de la 17:00, tura se încheie în lumina aurie a văii.",
+            "en": "The tour starts in the crisp morning cold with a climb that warms you up fast. By noon, the light at Agulles is crystal clear, perfect for long-distance views. Afternoon climbing to Queralt is tough but the sun warms your back. Before the early 17:00 sunset, the ride ends in the valley's golden glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Francesc",
+                "hu": "Sant Francesc",
+                "ro": "Sant Francesc",
+                "en": "Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Dehnen Sie Ihre kalten Muskeln in der geschützten Vorhalle, bevor es richtig losgeht; Windstopper-Handschuhe sind für die erste Abfahrt ein Muss.",
+                "hu": "Melegítse be hideg izmait a védett előcsarnokban az indulás előtt; szélálló kesztyű használata kötelező az első guruláshoz a hidegben.",
+                "ro": "Încălziți-vă mușchii reci în pridvorul protejat înainte de plecare; mănușile rezistente la vânt sunt obligatorii pentru prima coborâre.",
+                "en": "Warm up your cold muscles in the sheltered porch before starting; windstopper gloves are a must-have for the first cold descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Agulles del Mercadal",
+                "hu": "Agulles del Mercadal",
+                "ro": "Agulles del Mercadal",
+                "en": "Agulles del Mercadal"
+              },
+              "tip_5lang": {
+                "de": "In den Schattenlagen kann gefrorener Boden oder Raureif die Fahrt tückisch machen; nutzen Sie die klare Winterluft für spektakuläre Bergfotos.",
+                "hu": "Az árnyékos részeken a fagyott talaj vagy a zúzmara trükkössé teheti az utat; használja ki a tiszta téli levegőt a látványos hegyi fotókhoz.",
+                "ro": "În zonele umbrite, solul înghețat sau bruma pot face drumul periculos; profitați de aerul clar pentru fotografii montane spectaculoase.",
+                "en": "In shaded areas, frozen ground or frost can make the ride treacherous; take advantage of the clear winter air for spectacular mountain photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere de Madrona",
+                "hu": "Sant Pere de Madrona",
+                "ro": "Sant Pere de Madrona",
+                "en": "Sant Pere de Madrona"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne erreicht diesen Ort mittags gut und bietet einen warmen Platz für eine Energieriegel-Pause; ziehen Sie für die Weiterfahrt ein Stirnband unter den Helm.",
+                "hu": "A nap délben jól eléri ezt a helyet, meleg pontot kínálva egy energiaszelet elfogyasztásához; a folytatáshoz húzzon fejpántot a sisak alá.",
+                "ro": "Soarele ajunge bine aici la prânz, oferind un loc cald pentru o pauză; puneți o bentiță sub cască pentru a vă proteja urechile la plecare.",
+                "en": "The sun reaches this spot well at noon, offering a warm place for an energy bar break; wear a headband under your helmet for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuari de Queralt",
+                "hu": "Santuari de Queralt",
+                "ro": "Santuari de Queralt",
+                "en": "Santuari de Queralt"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die schneebedeckten Gipfel in der Ferne ist im Winter am besten; ziehen Sie für die lange Abfahrt unbedingt eine Windweste über.",
+                "hu": "Télen a legjobb a kilátás a távoli, hófödte csúcsokra; a hosszú lejtő előtt mindenképpen vegyen fel egy szélálló mellényt a rétegek fölé.",
+                "ro": "Iarna, priveliștea spre vârfurile înzăpezite din depărtare este cea mai bună; puneți o vestă antivânt înainte de coborârea lungă spre oraș.",
+                "en": "The view of the snow-capped peaks in the distance is best in winter; be sure to put on a windproof vest before the long descent back down."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc del Pla de l'Alemany",
+                "hu": "Parc del Pla de l'Alemany",
+                "ro": "Parc del Pla de l'Alemany",
+                "en": "Parc del Pla de l'Alemany"
+              },
+              "tip_5lang": {
+                "de": "Das Licht ist hier kurz vor Sonnenuntergang magisch, perfekt für ein Abschlussfoto; bewegen Sie Ihre Finger und Zehen regelmäßig gegen die Kälte.",
+                "hu": "A fény közvetlenül naplemente előtt mágikus itt, tökéletes egy zárófotóhoz; mozgassa rendszeresen az ujjait és lábujjait a hideg ellen.",
+                "ro": "Lumina este magică aici chiar înainte de apus, perfectă pentru o poză finală; mișcați degetele în mod regulat pentru a menține circulația.",
+                "en": "The light is magical here just before sunset, perfect for a final photo; move your fingers and toes regularly to keep the circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Bartomeu",
+                "hu": "Sant Bartomeu",
+                "ro": "Sant Bartomeu",
+                "en": "Sant Bartomeu"
+              },
+              "tip_5lang": {
+                "de": "Die Einsamkeit wird durch die winterliche Stille noch verstärkt; beeilen Sie sich mit dem Rückweg, da die Temperaturen nach 17:00 Uhr rapide sinken.",
+                "hu": "A magányt tovább fokozza a téli csend; siessen a visszatéréssel, mert 17:00 után a hőmérséklet rendkívül gyorsan zuhanni kezd.",
+                "ro": "Singurătatea locului este accentuată de liniștea iernii; grăbiți-vă la întoarcere, deoarece temperaturile scad brusc după ora 17:00.",
+                "en": "The solitude of the site is amplified by the winter silence; hurry back as temperatures drop very rapidly once the sun goes down at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós utazása a Casa de Martin helyi örökségének izgalmas felfedezésével kezdődik, mielőtt felhajtana a lenyűgöző Santuari de Queralthoz.\n\nDél körül navigáljon a hegyi utakon, hogy eljusson a Guilles és a Mirador de Garreta kilátópontokhoz a hihetetlen panorámáért.\n\nKora délután a Mirador de la Figuerassa még magasabb kilátópontjaihoz érkezik, majd következnek a Pitarres zord ösvényei.\n\nAhogy a nap kezd lemenni, vezessen a Serrat de l'Horta csendes természetébe, ami fenséges lezárása lesz a napnak.",
         "ro": "Excursia cu mașina începe cu o incursiune fascinantă în patrimoniul local la Casa de Martin înainte de a conduce la impresionantul Santuari de Queralt.\n\nÎn jurul prânzului, navigați pe drumurile de munte pentru a vizita Guilles Viewpoint și Mirador de Garreta pentru vederi incredibile.\n\nDupă-amiaza devreme vă duce la Mirador de la Figuerassa, urmat de peisajele accidentate ale frumoasei zone Pitarres.\n\nPe măsură ce soarele apune, conduceți spre natura liniștită de la Serrat de l'Horta, oferind o concluzie maiestuoasă a zilei.",
         "en": "Your road trip begins with a fascinating deep dive into local heritage at Casa de Martin before driving up to the stunning Santuari de Queralt.\n\nAround midday, navigate the winding mountain roads to hop between Guilles Viewpoint and Mirador de Garreta for incredible vistas.\n\nEarly afternoon takes you to Mirador de la Figuerassa for even higher vantage points, followed by the rugged trails of Pitarres.\n\nAs the sun begins to set, drive to the tranquil nature of Serrat de l'Horta, providing a majestic conclusion to your driving day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen prasselt gemütlich gegen das Autodach, während Sie die kurvigen Bergstraßen erkunden. Mittags bietet das Santuari de Queralt einen trockenen Stützpunkt mit weitem Blick über das graue Wolkenmeer. Nachmittags führen die Fahrten zu nebligen Aussichtspunkten, die eine ganz eigene Dramatik besitzen. Der Tag endet sicher und trocken zurück im warmen Hotel.",
+            "hu": "Az eső hangulatosan kopog az autótetőn, miközben a kanyargós hegyi utakat járja. Délben a Santuari de Queralt száraz bázist kínál pazar kilátással a szürke felhőtenger felett. Délután a ködös kilátópontok drámai látványt nyújtanak az ablakon át. A nap biztonságban és szárazon ér véget a meleg szállásunkon.",
+            "ro": "Ploaia bate plăcut în plafonul mașinii în timp ce explorați drumurile sinuoase de munte. La prânz, Santuari de Queralt oferă un refugiu uscat cu vedere peste marea de nori. După-amiaza, drumurile duc spre puncte de belvedere cețoase, cu o dramaticitate aparte. Ziua se încheie în siguranță și confort la hotelul călduros.",
+            "en": "Rain taps cozily on the car roof as you navigate the winding mountain roads. By noon, Santuari de Queralt provides a dry base with vast views over the grey sea of clouds. Afternoon drives lead to misty viewpoints that hold a unique, dramatic charm. The day ends safely and dry back at your warm accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Martin",
+                "hu": "Casa de Martin",
+                "ro": "Casa de Martin",
+                "en": "Casa de Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich, um nicht nass zu werden; das historische Gebäude wirkt im Regen besonders altwürdig und geschichtsträchtig.",
+                "hu": "Parkoljon a lehető legközelebb, hogy elkerülje az elázást; a történelmi épület esőben különösen méltóságteljesnek és patinásnak tűnik.",
+                "ro": "Parcați cât mai aproape posibil pentru a nu vă uda; clădirea istorică pare deosebit de demnă și plină de istorie în lumina ploioasă.",
+                "en": "Park as close as possible to avoid getting wet; the historic building looks especially dignified and full of history in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuari de Queralt",
+                "hu": "Santuari de Queralt",
+                "ro": "Santuari de Queralt",
+                "en": "Santuari de Queralt"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um die Aussicht trocken zu genießen; die Fahrt bergauf erfordert bei Nässe eine vorsichtige Fahrweise.",
+                "hu": "Használja a fedett bejárati részt, hogy szárazon élvezze a kilátást; a felfelé vezető út esőben fokozott óvatosságot és lassabb tempót igényel.",
+                "ro": "Folosiți zona de intrare acoperită pentru a admira priveliștea la uscat; urcarea cu mașina necesită prudență sporită pe carosabilul umed.",
+                "en": "Use the sheltered entrance area to enjoy the view while staying dry; the drive uphill requires extra caution and a slower pace on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Guilles Viewpoint",
+                "hu": "Guilles Viewpoint",
+                "ro": "Guilles Viewpoint",
+                "en": "Guilles Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Wolkenformationen im Tal sind vom warmen Auto aus ein tolles Motiv; achten Sie beim Aussteigen auf die schlammigen Parkstreifen am Rand.",
+                "hu": "A völgyben kavargó felhők a meleg autóból nézve remek fotótémát adnak; kiszálláskor ügyeljen a sárpados, felázott útmenti parkolóra.",
+                "ro": "Formațiunile de nori din vale sunt un subiect grozav din mașina caldă; atenție la marginile noroioase ale drumului când coborâți.",
+                "en": "The cloud formations in the valley make for a great photo from the warm car; watch out for muddy road shoulders when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Garreta",
+                "hu": "Mirador de Garreta",
+                "ro": "Mirador de Garreta",
+                "en": "Mirador de Garreta"
+              },
+              "tip_5lang": {
+                "de": "Oft reißt die Wolkendecke hier kurz auf, halten Sie die Kamera bereit; die Straße ist eng, vermeiden Sie riskante Bremsmanöver auf nassem Asphalt.",
+                "hu": "Itt gyakran felszakadozik a felhőzet egy pillanatra, tartsa készenlétben a kamerát; az út szűk, kerülje a hirtelen fékezést a vizes aszfalton.",
+                "ro": "Deseori, plafonul de nori se sparge aici pentru scurt timp; drumul este îngust, evitați manevrele bruște de frânare pe asfaltul ud.",
+                "en": "The clouds often break here for a brief moment, so keep your camera ready; the road is narrow, so avoid sudden braking on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Figuerassa",
+                "hu": "Mirador de la Figuerassa",
+                "ro": "Mirador de la Figuerassa",
+                "en": "Mirador de la Figuerassa"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das neblige Umland ist spektakulär und lässt sich gut durch die Scheiben bewundern; prüfen Sie die Funktion Ihrer Scheibenwischer.",
+                "hu": "A ködös táj látványa látványos, és jól megcsodálható az ablakokon keresztül is; indulás előtt ellenőrizze az ablaktörlők állapotát.",
+                "ro": "Priveliștea asupra împrejurimilor cețoase este spectaculoasă prin geamuri; verificați funcționarea ștergătoarelor înainte de pornire.",
+                "en": "The view of the misty surroundings is spectacular and can be enjoyed through the windows; check your windshield wipers before setting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Pitarres",
+                "hu": "Pitarres",
+                "ro": "Pitarres",
+                "en": "Pitarres"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht der natürlichen Umgebung satte Farben, ideal für kurze Spaziergänge; nehmen Sie eine wasserfeste Matte für den Fahrersitz mit.",
+                "hu": "Az eső mély színeket ad a természetes környezetnek, ideális egy rövid sétához; érdemes egy vízhatlan huzatot tenni az autóülésre, ha elázna.",
+                "ro": "Ploaia oferă culori vii mediului natural, ideal pentru plimbări scurte; luați o protecție impermeabilă pentru scaunul auto dacă vă udați.",
+                "en": "The rain gives the natural surroundings deep, saturated colors; it is worth having a waterproof cover for the car seat if you get wet outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Serrat de l'Horta",
+                "hu": "Serrat de l'Horta",
+                "ro": "Serrat de l'Horta",
+                "en": "Serrat de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf die regnerische Landschaft, bevor es dunkel wird; nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+                "hu": "Zárja a napot az esős táj látványával, mielőtt teljesen besötétedik; használja a légkondicionálót a szélvédők párátlanításához.",
+                "ro": "Încheiați ziua admirând peisajul ploios înainte de lăsarea întunericului; folosiți climatizarea pentru a dezaburi rapid parbrizul.",
+                "en": "End the day watching the rainy landscape before it gets dark; use the air conditioning to keep the windshield from fogging up during the drive."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt in der klaren Wintermorgenluft, während die Heizung das Auto schnell behaglich macht. Mittags glitzert die Sonne auf den Frostflächen rund um Queralt. Nachmittags bieten die hohen Miradors fantastische Fernsichten auf die verschneiten Pyrenäen. Um 17:00 Uhr erleben Sie den Sonnenuntergang direkt von einem Aussichtspunkt aus, bevor Sie die Heimfahrt antreten.",
+            "hu": "Az út tiszta téli reggeli levegőben indul, de a fűtés gyorsan otthonossá teszi az utasteret. Délben a nap csillog a zúzmarás tájon Queralt környékén. Délután a magaslati kilátópontokról fantasztikus látvány nyílik a távoli havas Pireneusokra. 17:00-kor egy kilátóból nézheti végig a naplementét, mielőtt visszatérne a városba.",
+            "ro": "Călătoria începe în aerul clar al dimineții de iarnă, în timp ce încălzirea face mașina confortabilă. La prânz, soarele sclipește pe bruma de lângă Queralt. După-amiaza, punctele de belvedere oferă vederi fantastice spre Pirineii înzăpeziți. La ora 17:00, admirați apusul direct dintr-un punct panoramic înainte de întoarcere.",
+            "en": "The drive starts in the crisp winter morning air, with the heater quickly making the car cozy. By noon, the sun glitters on the frost near Queralt. Afternoon visits to the high miradors offer fantastic long-distance views of the snowy Pyrenees. At 17:00, catch the sunset from a viewpoint before heading back for the night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Martin",
+                "hu": "Casa de Martin",
+                "ro": "Casa de Martin",
+                "en": "Casa de Martin"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Texturen des Steins am Vormittag wunderbar zur Geltung; achten Sie auf Glatteis in schattigen Parklücken.",
+                "hu": "A téli délelőtti napsütés csodásan kiemeli a kövek textúráját az épületen; ügyeljen a jegesedésre az árnyékosabb parkolóhelyeken.",
+                "ro": "Soarele de iarnă scoate în evidență texturile pietrei în cursul dimineții; atenție la gheața din locurile de parcare umbrite.",
+                "en": "The winter morning sun brings out the textures of the stone beautifully; watch out for black ice in the shadier parking spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuari de Queralt",
+                "hu": "Santuari de Queralt",
+                "ro": "Santuari de Queralt",
+                "en": "Santuari de Queralt"
+              },
+              "tip_5lang": {
+                "de": "Die Luft hier oben ist im Winter extrem klar, ideal für Panoramafotos; prüfen Sie den Reifendruck, da dieser bei Kälte oft absinkt.",
+                "hu": "Itt fent télen rendkívül tiszta a levegő, ideális a panorámafotókhoz; ellenőrizze a gumiabroncsok nyomását, mert a hidegben gyakran csökken.",
+                "ro": "Aerul de aici este extrem de clar iarna, ideal pentru fotografii panoramice; verificați presiunea în anvelope, care scade la frig.",
+                "en": "The air up here is extremely clear in winter, ideal for panoramic photos; check your tire pressure as it often drops in cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Guilles Viewpoint",
+                "hu": "Guilles Viewpoint",
+                "ro": "Guilles Viewpoint",
+                "en": "Guilles Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Mittag ist perfekt für scharfe Bilder der Bergkette; tragen Sie eine Mütze, wenn Sie für ein Foto kurz aussteigen.",
+                "hu": "A déli fény tökéletes a hegyvonulat éles és tiszta megörökítéséhez; vegyen fel sapkát, ha csak egy fotó erejéig is száll ki az autóból.",
+                "ro": "Lumina de la prânz este perfectă pentru imagini clare ale lanțului muntos; puneți o căciulă chiar dacă coborâți doar pentru o fotografie.",
+                "en": "The midday light is perfect for sharp images of the mountain range; put on a hat even if you only step out of the car for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Garreta",
+                "hu": "Mirador de Garreta",
+                "ro": "Mirador de Garreta",
+                "en": "Mirador de Garreta"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße kann an schattigen Felswänden vereist sein, fahren Sie vorsichtig; nutzen Sie das goldene Licht des frühen Nachmittags.",
+                "hu": "A szűk út az árnyékos sziklafalak mentén jeges lehet, vezessen óvatosan; használja ki a kora délutáni órák arany fényeit.",
+                "ro": "Drumul îngust poate fi înghețat lângă pereții stâncoși umbriți, conduceți prudent; profitați de lumina aurie a după-amiezii devreme.",
+                "en": "The narrow road can be icy along the shaded cliff walls, so drive cautiously; take advantage of the golden light of the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Figuerassa",
+                "hu": "Mirador de la Figuerassa",
+                "ro": "Mirador de la Figuerassa",
+                "en": "Mirador de la Figuerassa"
+              },
+              "tip_5lang": {
+                "de": "Von hier oben sieht man oft die Schneegrenze in den höheren Lagen der Pyrenäen; achten Sie auf die Batteriespannung bei den niedrigen Temperaturen.",
+                "hu": "Innen fentről gyakran látni a hóhatárt a Pireneusok magasabb vonulatain; ügyeljen az autó akkumulátorára a tartósan alacsony hőmérsékleten.",
+                "ro": "De aici puteți vedea adesea limita zăpezii pe culmile înalte ale Pirineilor; atenție la bateria mașinii la temperaturi scăzute.",
+                "en": "From up here, you can often see the snow line on the higher Pyrenean peaks; keep an eye on your car battery in the sustained low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Pitarres",
+                "hu": "Pitarres",
+                "ro": "Pitarres",
+                "en": "Pitarres"
+              },
+              "tip_5lang": {
+                "de": "Die Winterruhe in der Natur ist hier fast greifbar; stellen Sie sicher, dass Sie genügend Frostschutzmittel in der Scheibenwaschanlage haben.",
+                "hu": "A természet téli nyugalma itt szinte tapintható; győződjön meg róla, hogy elegendő fagyálló van a szélvédőmosó tartályban.",
+                "ro": "Liniștea iernii în natură este aproape palpabilă aici; asigurați-vă că aveți suficient lichid de parbriz rezistent la îngheț.",
+                "en": "The winter peace of nature is almost palpable here; make sure you have enough antifreeze in your windshield washer reservoir."
+              }
+            },
+            {
+              "name": {
+                "de": "Serrat de l'Horta",
+                "hu": "Serrat de l'Horta",
+                "ro": "Serrat de l'Horta",
+                "en": "Serrat de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang um 17:00 Uhr vom warmen Wagen aus; planen Sie die Rückfahrt so, dass Sie vor der tiefen Dunkelheit ankommen.",
+                "hu": "Élvezze az 17:00 órakor kezdődő naplementét a meleg autóból; tervezze úgy a visszautat, hogy a teljes sötétség előtt visszaérjen a városba.",
+                "ro": "Admirați apusul de la ora 17:00 din mașina caldă; planificați drumul de întoarcere pentru a ajunge înainte de lăsarea întunericului deplin.",
+                "en": "Enjoy the 17:00 sunset from the warmth of your car; plan your drive back so that you arrive before the total darkness of the mountain night."
+              }
+            }
+          ]
+        }
       }
     }
   }

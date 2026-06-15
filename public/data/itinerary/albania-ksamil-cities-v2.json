@@ -160,6 +160,196 @@
         "hu": "Kezdje a sétát Ksamil gyönyörű déli partvidékén, felfedezve az érintetlen homokos szakaszokat. Délben élvezze a központi öböl élénk hangulatát, a Castle Beachtől a híres Bora Boráig. Délután fedezze fel a helyi kultúrát a Dea Centerben és a közeli Apollonia területén. Zárja a sétát az est közeledtével, gyönyörködve a kristálytiszta Jón-tenger látványában.",
         "ro": "Începeți plimbarea pe coasta de sud din Ksamil, explorând întinderile de nisip imaculate. La amiază, bucurați-vă de atmosfera vibrantă a golfului central, trecând de la Castle Beach la faimoasa Bora Bora. După-amiaza, descoperiți cultura locală la Dea Center și în zona Apollonia. Încheiați-vă turul seara, reflectând asupra apelor cristaline ale Mării Ionice.",
         "en": "Start your walk along the beautiful southern coast of Ksamil, exploring pristine sandy stretches. At midday, enjoy the vibrant atmosphere of the central bay, from Castle Beach to the famous Bora Bora. In the afternoon, discover local culture at the Dea Center and the nearby Apollonia area. Conclude your walking tour in the evening, reflecting on the crystal clear Ionian waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht der Küste eine mystische Atmosphäre. Am Vormittag spazieren wir entlang der leeren Strände, während der Dunst über dem Meer liegt. Mittags suchen wir Schutz in den überdachten Passagen des Zentrums. Der Nachmittag gehört der Kultur im trockenen Dea Center. Am Abend genießen wir das Rauschen der Wellen unter einem festen Vordach bei kühler Meeresluft.",
+            "hu": "Az eső misztikus hangulatot áraszt a tengerparton. Délelőtt a néptelen strandok mentén sétálunk, miközben pára ül a víz felett. Délben a központ fedett részein keresünk menedéket. A délutánt a Dea Center száraz falai között, kultúrával töltjük. Este a hullámok morajlását élvezzük egy stabil előtető alatt, a friss, sós levegőt beszívva.",
+            "ro": "Ploaia oferă coastei o atmosferă mistică. Dimineața ne plimbăm de-a lungul plajelor pustii, în timp ce ceata plutește deasupra apei. La prânz căutăm adăpost în pasajele acoperite din centru. După-amiaza este dedicată culturii în interiorul uscat de la Dea Center. Seara ne bucurăm de vuietul valurilor sub un baldachin solid, în aerul proaspăt al mării.",
+            "en": "The rain lends a mystical atmosphere to the coast. In the morning, we walk along the empty beaches while mist hangs over the water. At noon, we seek shelter in the covered passages of the center. The afternoon is dedicated to culture inside the dry Dea Center. In the evening, we enjoy the roar of the waves under a sturdy canopy in the fresh, salty sea air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lori Beach",
+                "hu": "Lori Beach",
+                "ro": "Lori Beach",
+                "en": "Lori Beach"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie die grauen Nuancen des Ionischen Meeres von einem geschützten Platz aus; die Felsen sind bei Nässe extrem rutschig, bleiben Sie auf den Wegen.",
+                "hu": "Figyelje meg a Jón-tenger szürke árnyalatait egy védett helyről; a sziklák nedvesen rendkívül csúszósak, ezért maradjon a kijelölt ösvényeken.",
+                "ro": "Observați nuanțele cenușii ale mării Ionice dintr-un loc protejat; stâncile sunt extrem de alunecoase când sunt ude, așa că rămâneți pe poteci.",
+                "en": "Observe the grey nuances of the Ionian Sea from a sheltered spot; the rocks are extremely slippery when wet, so stay on the designated paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kostenloser öffentlicher Strand",
+                "hu": "Ingyenes strand",
+                "ro": "Plaja publică gratuită",
+                "en": "Free public beach"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Regen für einsame Fotos der Küstenlinie ohne Touristen; achten Sie auf tiefere Pfützen im Sand und tragen Sie Gummistiefel.",
+                "hu": "Használja ki az esőt magányos fotók készítésére a partvonalról turisták nélkül; ügyeljen a mélyebb tócsákra a homokban és viseljen gumicsizmát.",
+                "ro": "Profită de ploaie pentru fotografii solitare ale liniei de coastă fără turiști; atenție la bălțile adânci din nisip și poartă cizme de cauciuc.",
+                "en": "Take advantage of the rain for solitary photos of the coastline without tourists; watch out for deeper puddles in the sand and wear rubber boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Beach",
+                "hu": "Castle Beach",
+                "ro": "Castle Beach",
+                "en": "Castle Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Architektur des Strandbereichs bietet interessante Motive im Regen; suchen Sie unter den festen Sonnenschirmstrukturen Schutz vor starkem Wind.",
+                "hu": "A strand építészeti elemei érdekes motívumokat kínálnak az esőben; keressen menedéket az erős szél elől a rögzített napernyő-szerkezetek alatt.",
+                "ro": "Arhitectura zonei de plajă oferă motive interesante în ploaie; căutați adăpost de vântul puternic sub structurile fixe de umbrele de soare.",
+                "en": "The architecture of the beach area offers interesting motifs in the rain; seek shelter from strong winds under the fixed umbrella structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Bora Bora-Beach",
+                "hu": "Bora Bora-Beach",
+                "ro": "Bora Bora-Beach",
+                "en": "Bora Bora-Beach"
+              },
+              "tip_4lang": {
+                "de": "Das türkisfarbene Wasser wirkt im Regen dunkler und kraftvoller; ein großer Schirm ist hier wegen der exponierten Lage und der Windböen unerlässlich.",
+                "hu": "A türkizkék víz az esőben sötétebbnek és erőteljesebbnek tűnik; egy nagy esernyő itt elengedhetetlen a kitett helyszín és a széllökések miatt.",
+                "ro": "Apa turcoaz pare mai închisă și mai puternică în ploaie; o umbrelă mare este esențială aici din cauza locației expuse și a rafalelor de vânt.",
+                "en": "The turquoise water looks darker and more powerful in the rain; a large umbrella is essential here due to the exposed location and wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Dea Center",
+                "hu": "Dea Center",
+                "ro": "Dea Center",
+                "en": "Dea Center"
+              },
+              "tip_4lang": {
+                "de": "Dies ist der perfekte Ort, um der Nässe zu entfliehen und lokale Waren zu erkunden; nutzen Sie die überdachten Bereiche für eine ausgiebige Pause.",
+                "hu": "Ez a tökéletes hely, hogy elmeneküljön a nedvesség elől és felfedezze a helyi árukat; használja ki a fedett részeket egy alapos pihenőre.",
+                "ro": "Acesta este locul perfect pentru a scăpa de umezeală și pentru a explora mărfurile locale; profitați de zonele acoperite pentru o pauză lungă.",
+                "en": "This is the perfect place to escape the dampness and explore local goods; take advantage of the covered areas for an extensive break."
+              }
+            },
+            {
+              "name": {
+                "de": "Apollonia",
+                "hu": "Apollonia",
+                "ro": "Apollonia",
+                "en": "Apollonia"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die Inseln durch den Regenschleier; halten Sie eine Thermoskanne bereit, um sich nach dem nassen Spaziergang aufzuwärmen.",
+                "hu": "Élvezze a kilátást a szigetekre az esőfüggönyön keresztül; tartson készenlétben egy termoszt, hogy felmelegedjen a vizes séta után.",
+                "ro": "Bucurați-vă de vederea insulelor prin perdeaua de ploaie; țineți la îndemână un termos pentru a vă încălzi după plimbarea udă.",
+                "en": "Enjoy the view of the islands through the veil of rain; keep a thermos ready to warm up after the wet walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Ksamil ist ruhig und erfrischend. Morgens weht eine kühle Brise vom Meer, die perfekt für einen zügigen Spaziergang ist. Mittags wärmt die tiefstehende Sonne die Haut, während die Strände fast menschenleer sind. Der Nachmittag lädt zur Einkehr in beheizte Cafés ein. Ab 17:00 Uhr bewundern wir den frühen Sonnenuntergang in spektakulären Farben.",
+            "hu": "A tél Ksamilban csendes és frissítő. Reggel hűvös szellő fúj a tenger felől, ami tökéletes egy tempós sétához. Délben az alacsonyan járó nap melegíti a bőrt, miközben a strandok szinte üresek. A délután fűtött kávézókba hívogat. 17:00-tól a korai naplementét csodálhatjuk meg látványos színekben a horizonton.",
+            "ro": "Iarna în Ksamil este liniștită și revigorantă. Dimineața, o briză răcoroasă suflă dinspre mare, fiind perfectă pentru o plimbare rapidă. La prânz, soarele blând ne încălzește, în timp ce plajele sunt aproape pustii. După-amiaza invită la relaxare în cafenele încălzite. De la ora 17:00 admirăm apusul timpuriu în culori spectaculoase.",
+            "en": "Winter in Ksamil is quiet and refreshing. In the morning, a cool breeze blows from the sea, perfect for a brisk walk. At noon, the low sun warms the skin while the beaches are almost deserted. The afternoon invites you to retreat into heated cafes. From 17:00, we admire the early sunset in spectacular colors on the horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lori Beach",
+                "hu": "Lori Beach",
+                "ro": "Lori Beach",
+                "en": "Lori Beach"
+              },
+              "tip_4lang": {
+                "de": "Die klare Winterluft bietet eine Fernsicht bis nach Korfu; tragen Sie eine winddichte Jacke, da der Seewind im Winter deutlich kälter weht.",
+                "hu": "A tiszta téli levegő távoli kilátást biztosít egészen Korfuig; viseljen szélálló kabátot, mert a tengeri szél télen jóval hidegebb.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate până în Corfu; purtați o jachetă rezistentă la vânt, deoarece briza mării este mult mai rece iarna.",
+                "en": "The clear winter air offers a distant view as far as Corfu; wear a windproof jacket as the sea breeze blows much colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kostenloser öffentlicher Strand",
+                "hu": "Ingyenes strand",
+                "ro": "Plaja publică gratuită",
+                "en": "Free public beach"
+              },
+              "tip_4lang": {
+                "de": "Erleben Sie die Stille des sonst belebten Strandes; ein warmes Sitzkissen ist ratsam, wenn Sie kurz auf den kühlen Felsen verweilen möchten.",
+                "hu": "Élje át az egyébként forgalmas strand csendjét; egy meleg ülőpárna ajánlott, ha szeretne egy kicsit elidőzni a hűvös sziklákon.",
+                "ro": "Experimentați liniștea plajei altfel aglomerate; o pernă caldă de scaun este recomandată dacă doriți să zăboviți puțin pe stâncile reci.",
+                "en": "Experience the silence of the otherwise busy beach; a warm seat cushion is advisable if you want to linger for a while on the cool rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Beach",
+                "hu": "Castle Beach",
+                "ro": "Castle Beach",
+                "en": "Castle Beach"
+              },
+              "tip_4lang": {
+                "de": "Ideal für einen meditativen Spaziergang am Ufer; achten Sie auf die verkürzten Öffnungszeiten der umliegenden Einrichtungen in der Nebensaison.",
+                "hu": "Ideális egy meditatív sétához a parton; ügyeljen a környékbeli létesítmények rövidített nyitvatartására a főszezonon kívül.",
+                "ro": "Ideal pentru o plimbare meditativă pe mal; atenție la orele de deschidere reduse ale unităților din jur în extrasezon.",
+                "en": "Ideal for a meditative walk on the shore; watch out for the shortened opening hours of surrounding facilities in the low season."
+              }
+            },
+            {
+              "name": {
+                "de": "Bora Bora-Beach",
+                "hu": "Bora Bora-Beach",
+                "ro": "Bora Bora-Beach",
+                "en": "Bora Bora-Beach"
+              },
+              "tip_4lang": {
+                "de": "Der weiße Sand reflektiert das sanfte Winterlicht wunderschön; tragen Sie Schichten, da es im Schatten der Gebäude schnell frostig werden kann.",
+                "hu": "A fehér homok gyönyörűen veri vissza a lágy téli fényt; öltözzön rétegesen, mert az épületek árnyékában gyorsan fagyossá válhat az idő.",
+                "ro": "Nisipul alb reflectă frumos lumina blândă de iarnă; purtați straturi de haine, deoarece poate deveni repede geros la umbra clădirilor.",
+                "en": "The white sand reflects the soft winter light beautifully; wear layers as it can quickly become frosty in the shadow of buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Dea Center",
+                "hu": "Dea Center",
+                "ro": "Dea Center",
+                "en": "Dea Center"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie hier Wärme und stöbern Sie nach lokalen Spezialitäten; viele Geschäfte bieten im Winter Rabatte auf Sommerwaren an.",
+                "hu": "Keressen itt meleget és böngésszen a helyi specialitások között; sok üzlet télen kedvezményeket kínál a nyári árukra.",
+                "ro": "Căutați căldură aici și răsfoiți specialitățile locale; multe magazine oferă reduceri la produsele de vară în timpul iernii.",
+                "en": "Seek warmth here and browse for local specialties; many shops offer discounts on summer goods during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Apollonia",
+                "hu": "Apollonia",
+                "ro": "Apollonia",
+                "en": "Apollonia"
+              },
+              "tip_4lang": {
+                "de": "Der beste Ort für den Sonnenuntergang gegen 16:45 Uhr; bringen Sie Handschuhe mit, da die Temperaturen nach dem Untergang rasch sinken.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez 16:45 körül; hozzon kesztyűt, mert a naplemente után a hőmérséklet gyorsan csökken.",
+                "ro": "Cel mai bun loc pentru apusul soarelui în jurul orei 16:45; aduceți mănuși, deoarece temperaturile scad rapid după apus.",
+                "en": "The best place for the sunset around 16:45; bring gloves as the temperatures drop rapidly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Reggel tekerjen el a híres Ksamil-szigetekhez, hogy megcsodálja a türkizkék vizeken megcsillanó kora reggeli fényeket. Délben guruljon végig a part mentén a Bora Bora és a King Beach strandokhoz egy frissítő fürdőzésre. Délután induljon észak felé a Coco Beach irányába, élvezve a hűsítő tengeri szellőt. Este pedig érkezzen meg a Sunset Beach-re, hogy végignézze a csodás naplementét.",
         "ro": "Pedalați dimineața către insulele emblematice din Ksamil, surprinzând lumina dimineții peste ape. La amiază, mergeți de-a lungul coastei oprindu-vă la plajele Bora Bora și King Beach pentru o baie răcoritoare. După-amiaza, îndreptați-vă spre nord către Coco Beach, profitând de briza mării. Seara, ajungeți la Sunset Beach exact la timp pentru a privi apusul soarelui.",
         "en": "Pedal in the morning to the iconic Islets of Ksamil, catching the early light over the turquoise waters. At midday, cruise along the coastline stopping at Bora Bora and King Beach for a refreshing swim. In the afternoon, head north towards Coco Beach, taking advantage of the sea breeze. Arrive at Sunset Beach in the evening right in time to watch the spectacular sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, bietet aber eine dynamische Sicht auf Ksamil. Morgens erkunden wir die Küstenwege bei leichtem Nieselregen. Mittags machen wir Pausen unter schützenden Bäumen oder Vordächern. Der Nachmittag führt uns auf festen Straßen zu den Stränden. Abends stellen wir die Räder sicher unter und trocknen uns bei einem heißen Getränk auf.",
+            "hu": "A biciklizés esőben óvatosságot igényel, de dinamikus látványt nyújt Ksamilról. Reggel a parti utakat fedezzük fel enyhe szemerkélésben. Délben védelmet nyújtó fák vagy előtetők alatt pihenünk. A délután szilárd utakon vezet a strandokhoz. Este biztonságos helyre tesszük a gépeket, és egy forró ital mellett száradunk meg.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, dar oferă o vedere dinamică asupra Ksamilului. Dimineața explorăm potecile de coastă pe o burniță ușoară. La prânz facem pauze sub copaci protectori sau copertine. După-amiaza ne conduce pe drumuri ferme spre plaje. Seara parcăm bicicletele la loc sigur și ne uscăm cu o băutură caldă.",
+            "en": "Cycling in the rain requires caution but offers a dynamic view of Ksamil. In the morning, we explore the coastal paths in a light drizzle. At noon, we take breaks under protective trees or canopies. The afternoon leads us on solid roads to the beaches. In the evening, we store the bikes safely and dry off over a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Inseln von Ksamil",
+                "hu": "Ksamil szigetei",
+                "ro": "Insulele Ksamil",
+                "en": "Islets of Ksamil"
+              },
+              "tip_4lang": {
+                "de": "Die Aussicht auf die Inseln im Regen ist dramatisch; bremsen Sie vorsichtig auf asphaltierten Wegen, da diese durch Öl und Wasser schmierig sind.",
+                "hu": "A szigetek látványa esőben drámai; fékezzen óvatosan az aszfaltozott utakon, mivel az olaj és a víz miatt síkossá válhatnak.",
+                "ro": "Vederea insulelor în ploaie este dramatică; frânați cu atenție pe potecile asfaltate, deoarece acestea sunt alunecoase din cauza uleiului și a apei.",
+                "en": "The view of the islands in the rain is dramatic; brake carefully on paved paths as they are slippery due to oil and water."
+              }
+            },
+            {
+              "name": {
+                "de": "Bora Bora-Beach",
+                "hu": "Bora Bora-Beach",
+                "ro": "Bora Bora-Beach",
+                "en": "Bora Bora-Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Küstenstraße kann Pfützen bilden; tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit bei trübem Wetter.",
+                "hu": "A parti úton tócsák alakulhatnak ki; viseljen neonsárga esőkabátot a jobb láthatóság érdekében a borús időben.",
+                "ro": "Drumul de coastă poate forma bălți; purtați o jachetă de ploaie galben neon pentru o mai bună vizibilitate pe vreme mohorâtă.",
+                "en": "The coastal road can form puddles; wear a neon yellow raincoat for better visibility in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "King beach",
+                "hu": "King beach",
+                "ro": "King beach",
+                "en": "King beach"
+              },
+              "tip_4lang": {
+                "de": "Vermeiden Sie Sandwege, die durch den Regen weich werden; parken Sie das Rad auf festem Untergrund, damit der Ständer nicht einsinkt.",
+                "hu": "Kerülje a homokos utakat, amelyek az esőtől fellazulnak; parkolja a bringát szilárd talajon, hogy a kitámasztó ne süllyedjen el.",
+                "ro": "Evitați potecile cu nisip care devin moi de la ploaie; parcați bicicleta pe teren ferm, astfel încât cricul să nu se scufunde.",
+                "en": "Avoid sandy paths that become soft from the rain; park the bike on firm ground so the kickstand doesn't sink."
+              }
+            },
+            {
+              "name": {
+                "de": "Coco Beach",
+                "hu": "Coco Beach",
+                "ro": "Coco Beach",
+                "en": "Coco Beach"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie Schutzbleche an Ihrem Fahrrad; das aufgewirbelte Wasser vom Hinterrad kann Ihre Kleidung schnell durchnässen.",
+                "hu": "Használjon sárvédőt a kerékpárján; a hátsó kerék által felvert víz gyorsan eláztathatja a ruházatát.",
+                "ro": "Utilizați apărători de noroi pe bicicletă; apa împroșcată de roata din spate vă poate uda rapid hainele.",
+                "en": "Use mudguards on your bike; the water kicked up by the rear wheel can quickly soak your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach",
+                "hu": "Sunset Beach",
+                "ro": "Sunset Beach",
+                "en": "Sunset Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Sicht ist bei Regen eingeschränkt; schalten Sie auch tagsüber Ihr Fahrradlicht ein, um für Autofahrer sichtbar zu bleiben.",
+                "hu": "Esőben a látási viszonyok korlátozottak; nappal is kapcsolja be a kerékpárlámpát, hogy látható maradjon az autósok számára.",
+                "ro": "Vizibilitatea este limitată în ploaie; aprindeți luminile bicicletei chiar și în timpul zilei pentru a rămâne vizibil pentru șoferi.",
+                "en": "Visibility is limited in the rain; turn on your bike lights even during the day to remain visible to drivers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Radtouren in Ksamil sind belebend. Die kühle Morgenluft macht hellwach beim Treten entlang der Küste. Mittags genießen wir die wärmenden Sonnenstrahlen bei einer Pause am Wasser. Am Nachmittag erkunden wir die einsamen Buchten ohne Touristenströme. Vor Einbruch der Dunkelheit um 17:00 Uhr kehren wir zurück, um der Abendkälte zu entgehen.",
+            "hu": "A téli biciklitúrák Ksamilban élénkítőek. A hűvös reggeli levegő teljesen éberré tesz a parton tekerve. Délben a melengető napsugarakat élvezzük egy vízparti pihenő során. Délután felfedezzük a magányos öblöket a turistahadak nélkül. Sötétedés előtt, 17:00 körül térünk vissza, hogy elkerüljük az esti hideget.",
+            "ro": "Plimbările de iarnă cu bicicleta în Ksamil sunt revigorante. Aerul răcoros de dimineață ne trezește complet în timp ce pedalăm de-a lungul coastei. La prânz ne bucurăm de razele calde ale soarelui în timpul unei pauze lângă apă. După-amiaza explorăm golfurile singuratice fără fluxul de turiști. Ne întoarcem înainte de lăsarea întunericului la ora 17:00 pentru a evita frigul serii.",
+            "en": "Winter cycling tours in Ksamil are invigorating. The cool morning air makes you wide awake while pedaling along the coast. At noon, we enjoy the warming sunbeams during a break by the water. In the afternoon, we explore the lonely bays without the tourist crowds. We return before dark at 17:00 to avoid the evening cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Inseln von Ksamil",
+                "hu": "Ksamil szigetei",
+                "ro": "Insulele Ksamil",
+                "en": "Islets of Ksamil"
+              },
+              "tip_4lang": {
+                "de": "Bringen Sie Handschuhe mit; der kalte Fahrtwind lässt Ihre Finger am Lenker im Winter schnell taub werden.",
+                "hu": "Hozzon magával kesztyűt; a hideg menetszél miatt az ujjai télen gyorsan elgémberedhetnek a kormányon.",
+                "ro": "Aduceți mănuși; vântul rece de rulare vă poate face degetele să amorțească rapid pe ghidon în timpul iernii.",
+                "en": "Bring gloves; the cold headwind can quickly make your fingers go numb on the handlebars in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bora Bora-Beach",
+                "hu": "Bora Bora-Beach",
+                "ro": "Bora Bora-Beach",
+                "en": "Bora Bora-Beach"
+              },
+              "tip_4lang": {
+                "de": "Das Licht am Morgen ist ideal für scharfe Landschaftsaufnahmen; tragen Sie Thermounterwäsche unter Ihrer Sportkleidung.",
+                "hu": "A reggeli fény ideális az éles tájképek készítéséhez; viseljen termó fehérneműt a sportruházata alatt.",
+                "ro": "Lumina dimineții este ideală pentru fotografii clare de peisaj; purtați lenjerie termică sub hainele de sport.",
+                "en": "The morning light is ideal for sharp landscape shots; wear thermal underwear under your sportswear."
+              }
+            },
+            {
+              "name": {
+                "de": "King beach",
+                "hu": "King beach",
+                "ro": "King beach",
+                "en": "King beach"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die leeren Wege direkt am Meer; halten Sie Ihr Tempo moderat, um nicht zu stark zu schwitzen und dann auszukühlen.",
+                "hu": "Élvezze az üres utakat közvetlenül a tenger mellett; tartson mérsékelt tempót, hogy ne izzadjon le túlságosan, majd ne fázzon meg.",
+                "ro": "Bucurați-vă de potecile goale direct de lângă mare; păstrați un ritm moderat pentru a nu transpira prea mult și apoi a răci.",
+                "en": "Enjoy the empty paths right by the sea; keep your pace moderate so as not to sweat too much and then catch a cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Coco Beach",
+                "hu": "Coco Beach",
+                "ro": "Coco Beach",
+                "en": "Coco Beach"
+              },
+              "tip_4lang": {
+                "de": "Ein Stirnband unter dem Helm schützt Ihre Ohren vor dem frostigen Seewind; prüfen Sie den Reifendruck vor der Abfahrt.",
+                "hu": "A sisak alatti fejpánt megvédi a fülét a fagyos tengeri széltől; indulás előtt ellenőrizze a gumiabroncsok nyomását.",
+                "ro": "O bentiță sub cască vă protejează urechile de vântul înghețat al mării; verificați presiunea anvelopelor înainte de plecare.",
+                "en": "A headband under the helmet protects your ears from the frosty sea breeze; check the tire pressure before departure."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach",
+                "hu": "Sunset Beach",
+                "ro": "Sunset Beach",
+                "en": "Sunset Beach"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf die Zeit; die Sonne sinkt im Winter sehr schnell, und die Rückfahrt im Dunkeln wird deutlich kälter.",
+                "hu": "Ügyeljen az időre; a nap télen nagyon gyorsan nyugszik, és a sötétben való visszautút jóval hidegebb lesz.",
+                "ro": "Atenție la timp; soarele apune foarte repede iarna, iar călătoria de întoarcere pe întuneric va fi mult mai rece.",
+                "en": "Watch the time; the sun sets very quickly in winter, and the return journey in the dark will be much colder."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Reggel vezessen délre, hogy felfedezze Albánia lenyűgöző történelmét az elhagyatott partmenti katonai bunkerek között. Délben térjen vissza a városközpontba, és ismerkedjen meg a helyi örökséggel a Dea Centerben. Délután tegyen egy rövid utat az Apollonia rekreációs területéhez egy kis pihenésre. Zárja autós túráját este, a híres szigetek partmenti megcsodálásával.",
         "ro": "Conduceți dimineața spre sud pentru a descoperi istoria fascinantă a Albaniei explorând buncărele militare abandonate. La amiază, întoarceți-vă în centrul orașului pentru a vă cufunda în patrimoniul local la Dea Center. După-amiaza, faceți o scurtă plimbare până la zona de recreere Apollonia. Încheiați turul seara minunându-vă de celebrele insule de pe țărm.",
         "en": "Drive south in the morning to discover the intriguing history of Albania by exploring the abandoned coastal military bunkers. At midday, return to the town center to immerse yourself in the local heritage at the Dea Center. In the afternoon, take a short drive to the Apollonia recreational area for some relaxed downtime. Finish your driving tour in the evening by marveling at the famous Islets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Ksamil bequem und trocken. Am Vormittag fahren wir zu den historischen Bunkern, während der Regen gegen die Scheiben trommelt. Mittags erreichen wir das Dea Center für eine wetterunabhängige Pause. Der Nachmittag führt uns zu Aussichtspunkten an der Küste. Abends lassen wir den Tag gemütlich im warmen Innenraum des Wagens ausklingen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Ksamilt. Délelőtt a történelmi bunkerekhez hajtunk, miközben az eső kopog a szélvédőn. Délben elérjük a Dea Centert egy időjárástól független pihenőre. A délután a tengerparti kilátópontokhoz vezet minket. Este a napot a kocsi meleg belsejében, kényelmesen zárjuk le.",
+            "ro": "Cu mașina explorăm Ksamil confortabil și uscați. Dimineața conducem spre buncărele istorice, în timp ce ploaia bate în parbriz. La prânz ajungem la Dea Center pentru o pauză independentă de vreme. După-amiaza ne conduce la punctele de belvedere de pe coastă. Seara încheiem ziua confortabil în interiorul cald al mașinii.",
+            "en": "By car, we explore Ksamil comfortably and dry. In the morning, we drive to the historical bunkers while the rain drums against the windows. At noon, we reach the Dea Center for a weather-independent break. The afternoon leads us to viewpoints along the coast. In the evening, we end the day comfortably in the warm interior of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Militärbunker 1",
+                "hu": "1-es katonai bunker",
+                "ro": "Buncărul militar 1",
+                "en": "Military bunker 1"
+              },
+              "tip_4lang": {
+                "de": "Die Bunker bieten natürlichen Schutz vor dem Regen; achten Sie auf schlammige Parkplätze und fahren Sie vorsichtig auf unbefestigten Abschnitten.",
+                "hu": "A bunkerek természetes védelmet nyújtanak az eső ellen; ügyeljen a sáros parkolókra és vezessen óvatosan a nem aszfaltozott szakaszokon.",
+                "ro": "Buncărele oferă adăpost natural împotriva ploii; atenție la parcările noroioase și conduceți cu atenție pe porțiunile neasfaltate.",
+                "en": "The bunkers offer natural shelter from the rain; watch out for muddy parking areas and drive carefully on unpaved sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Militärbunker 5",
+                "hu": "5-ös katonai bunker",
+                "ro": "Buncărul militar 5",
+                "en": "Military bunker 5"
+              },
+              "tip_4lang": {
+                "de": "Idealer Rückzugsort bei starkem Guss; nutzen Sie die Zeit für Fotos der dramatischen Wolkenformationen über dem Umland.",
+                "hu": "Ideális búvóhely nagy felhőszakadás idején; használja ki az időt a környék feletti drámai felhőképződmények fotózására.",
+                "ro": "Refugiul ideal în timpul unei averse puternice; profită de timp pentru fotografii cu formațiunile dramatice de nori de deasupra zonei.",
+                "en": "Ideal retreat during a heavy downpour; use the time for photos of the dramatic cloud formations over the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Dea Center",
+                "hu": "Dea Center",
+                "ro": "Dea Center",
+                "en": "Dea Center"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; dies ist der beste Ort, um trockenen Fußes lokale Handwerkskunst zu bewundern.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; ez a legjobb hely, hogy száraz lábbal csodálhassa meg a helyi kézműves termékeket.",
+                "ro": "Parcați cât mai aproape de intrare; acesta este cel mai bun loc pentru a admira artizanatul local fără a vă uda la picioare.",
+                "en": "Park as close to the entrance as possible; this is the best place to admire local craftsmanship while keeping your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Apollonia",
+                "hu": "Apollonia",
+                "ro": "Apollonia",
+                "en": "Apollonia"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Fenster Ihres Wagens; die Straßen können bei Regen durch weggespülten Kies tückisch sein.",
+                "hu": "Élvezze a panorámát a kocsi ablakából; az utak az eső által lemosott kavicsok miatt csalókák lehetnek.",
+                "ro": "Bucurați-vă de panorama de la fereastra mașinii; drumurile pot fi înșelătoare din cauza pietrișului spălat de ploaie.",
+                "en": "Enjoy the panoramic view from your car window; the roads can be treacherous due to gravel washed away by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Inseln von Ksamil",
+                "hu": "Ksamil szigetei",
+                "ro": "Insulele Ksamil",
+                "en": "Islets of Ksamil"
+              },
+              "tip_4lang": {
+                "de": "Verwenden Sie die Scheibenwischer auf höchster Stufe für klare Sicht auf die Inseln; der Boden am Aussichtspunkt kann sehr rutschig sein.",
+                "hu": "Használja a törlőket a legmagasabb fokozaton a tiszta kilátáshoz a szigetekre; a talaj a kilátópontnál nagyon csúszós lehet.",
+                "ro": "Folosiți ștergătoarele la viteză maximă pentru o vedere clară a insulelor; solul de la punctul de belvedere poate fi foarte alunecos.",
+                "en": "Use the wipers on the highest setting for a clear view of the islands; the ground at the viewpoint can be very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten in Ksamil bieten ungestörte Ausblicke. Morgens fahren wir zu den Bunkern, während die klare Winterluft für perfekte Fotos sorgt. Mittags wärmt die Sonne den Wagen angenehm auf. Am Nachmittag erkunden wir die Küstenstraße bis zu den Insel-Aussichtspunkten. Ab 17:00 Uhr erleben wir den Sonnenuntergang bequem vom Fahrersitz aus bei laufender Heizung.",
+            "hu": "A téli autózás Ksamilban zavartalan kilátást kínál. Reggel a bunkerekhez hajtunk, miközben a tiszta téli levegő tökéletes fotókat ígér. Délben a nap kellemesen felmelegíti a kocsit. Délután a parti utat fedezzük fel a szigetek kilátópontjaiig. 17:00-tól a naplementét kényelmesen, a fűtött kocsiból élvezhetjük.",
+            "ro": "Călătoriile de iarnă cu mașina în Ksamil oferă vederi neîntrerupte. Dimineața conducem spre buncăre, în timp ce aerul curat de iarnă asigură fotografii perfecte. La prânz, soarele încălzește mașina plăcut. După-amiaza explorăm drumul de coastă până la punctele de belvedere ale insulelor. De la ora 17:00 experimentăm apusul confortabil de pe scaunul șoferului, cu căldura pornită.",
+            "en": "Winter drives in Ksamil offer undisturbed views. In the morning, we drive to the bunkers while the clear winter air ensures perfect photos. At noon, the sun warms the car up pleasantly. In the afternoon, we explore the coastal road to the island viewpoints. From 17:00, we experience the sunset comfortably from the driver's seat with the heater running."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Militärbunker 1",
+                "hu": "1-es katonai bunker",
+                "ro": "Buncărul militar 1",
+                "en": "Military bunker 1"
+              },
+              "tip_4lang": {
+                "de": "Die Sonne steht tief und leuchtet die Bunker-Eingänge faszinierend aus; prüfen Sie den Frostschutz in Ihrem Kühler vor der Anreise.",
+                "hu": "A nap alacsonyan áll, és lenyűgözően világítja meg a bunkerbejáratokat; érkezés előtt ellenőrizze a hűtőfolyadék fagyállóságát.",
+                "ro": "Soarele este jos și luminează intrările buncărelor într-un mod fascinant; verificați antigelul din radiator înainte de sosire.",
+                "en": "The sun is low and illuminates the bunker entrances in a fascinating way; check the antifreeze in your radiator before arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Militärbunker 5",
+                "hu": "5-ös katonai bunker",
+                "ro": "Buncărul militar 5",
+                "en": "Military bunker 5"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Landschaftsaufnahmen; halten Sie Decken im Auto bereit, falls Sie längere Zeit aussteigen.",
+                "hu": "Használja ki a tiszta téli fényt a távoli tájképekhez; tartson takarókat az autóban, ha hosszabb időre kiszállna.",
+                "ro": "Utilizați lumina clară de iarnă pentru fotografii de peisaj la distanță; țineți pături în mașină dacă plănuiți să coborâți pentru mai mult timp.",
+                "en": "Use the clear winter light for wide landscape shots; keep blankets in the car if you plan to get out for an extended period."
+              }
+            },
+            {
+              "name": {
+                "de": "Dea Center",
+                "hu": "Dea Center",
+                "ro": "Dea Center",
+                "en": "Dea Center"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie in der Sonne, um den Wagen natürlich aufzuwärmen; ein idealer Stopp, um sich bei einem Kaffee aufzuwärmen.",
+                "hu": "Parkoljon a napon, hogy a kocsi természetes módon felmelegedjen; ideális megálló, hogy egy kávé mellett felmelegedjen.",
+                "ro": "Parcați la soare pentru a încălzi mașina în mod natural; o oprire ideală pentru a vă încălzi cu o cafea.",
+                "en": "Park in the sun to warm the car up naturally; an ideal stop to warm up with a coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Apollonia",
+                "hu": "Apollonia",
+                "ro": "Apollonia",
+                "en": "Apollonia"
+              },
+              "tip_4lang": {
+                "de": "Ein spektakulärer Ort für Fotos ohne Menschenmassen; achten Sie auf die Batterie Ihres Autos, da Kälte die Leistung mindern kann.",
+                "hu": "Látványos hely a fotózáshoz tömegek nélkül; ügyeljen az autó akkumulátorára, mivel a hideg csökkentheti a teljesítményét.",
+                "ro": "Un loc spectaculos pentru fotografii fără mulțime; atenție la bateria mașinii, deoarece frigul îi poate reduce performanța.",
+                "en": "A spectacular place for photos without the crowds; pay attention to your car's battery, as cold can reduce its performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Inseln von Ksamil",
+                "hu": "Ksamil szigetei",
+                "ro": "Insulele Ksamil",
+                "en": "Islets of Ksamil"
+              },
+              "tip_4lang": {
+                "de": "Der Parkplatz ist im Winter leer und bietet direkten Blick auf die Inseln; genießen Sie den Sonnenuntergang sicher im warmen Auto.",
+                "hu": "A parkoló télen üres, és közvetlen kilátást nyújt a szigetekre; élvezze a naplementét biztonságban a meleg autóban.",
+                "ro": "Parcarea este goală iarna și oferă o vedere directă către insule; bucurați-vă de apusul soarelui în siguranță în mașina caldă.",
+                "en": "The parking lot is empty in winter and offers a direct view of the islands; enjoy the sunset safely in the warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

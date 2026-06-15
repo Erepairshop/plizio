@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a Haus des Kurgastes kulturális központjában. Délben a Pabst Schwimmbad és a Friesengalerie várja művészettel és pihenéssel. Délután a Nationalpark-Haus fedezze fel a Watt-tenger csodáit. Az estét a kilátónál és a 2-es számú mentőtoronynál zárhatja a tenger hangjait hallgatva.",
         "ro": "Începeți ziua la Haus des Kurgastes pentru o doză de cultură insulară. La prânz, Pabst Schwimmbad și Friesengalerie vă oferă relaxare și artă. După-amiaza vă duce la Nationalpark-Haus pentru a învăța despre Marea Wadden. Seara, relaxați-vă la platforma de observare și la Turnul de Salvare Nr. 2.",
         "en": "Start your day at Haus des Kurgastes to soak in island culture. By midday, Pabst Schwimmbad and the Friesengalerie offer relaxation and local art. The afternoon leads you to the Nationalpark-Haus to learn about the Wadden Sea. End your evening at the viewing platform and Rescue Tower No. 2 with ocean sounds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt gemütlich im Haus des Kurgastes, wo man bei Regen ideal in Büchern schmökern kann. Mittags bietet das Pabst Schwimmbad wohlige Wärme, während draußen der Nordseeregen peitscht. Am Nachmittag erkunden wir die Friesengalerie und das Nationalpark-Haus trockenen Fußes. Den Tag beschließen wir mit einem Blick auf die stürmische See, eingehüllt in wetterfeste Kleidung.",
+            "hu": "A reggel a Haus des Kurgastes fedett tereiben indul, ahol a szakadó eső elől menedéket találunk. Délben a Pabst Schwimmbad sós vize melegít fel, miközben kint kopog az eső. Délután a galéria és a természetvédelmi ház interaktív kiállításai kínálnak száraz kikapcsolódást. Az estét a viharos tenger látványával zárjuk, szigorúan vízálló öltözetben és kapucnival.",
+            "ro": "Dimineața începe la adăpost în Haus des Kurgastes, ideal pentru a citi în timp ce afară plouă. La prânz, piscina Pabst oferă căldură, în timp ce stropii de ploaie lovesc ferestrele. După-amiaza explorăm galeria de artă și centrul parcului național, ambele fiind spații acoperite. Încheiem ziua cu o privire spre marea agitată, protejați de o pelerină de ploaie rezistentă.",
+            "en": "The morning starts comfortably inside Haus des Kurgastes, a perfect retreat from the North Sea rain. At noon, the Pabst swimming pool provides warmth while the storm rages outside. Afternoon is spent exploring the art gallery and the National Park house, both offering dry sanctuary. We end the day watching the grey waves from the dunes, wrapped in reliable waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haus des Kurgastes",
+                "hu": "Haus des Kurgastes",
+                "ro": "Haus des Kurgastes",
+                "en": "Haus des Kurgastes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Lesesaal mit Meerblick als trockenen Rückzugsort und schauen Sie sich die aktuellen Veranstaltungspläne an, um Regenpausen perfekt zu überbrücken.",
+                "hu": "Használja a tengerre néző olvasótermet száraz menedékként, és böngéssze a programfüzeteket, amíg kint elvonulnak a leghevesebb esőfelhők a sziget felett.",
+                "ro": "Folosiți sala de lectură cu vedere la mare ca refugiu uscat și consultați programul cultural pentru a planifica momentele în care ploaia este prea intensă afară.",
+                "en": "Use the reading room with a sea view as a dry retreat and check the event schedule to bridge the rain showers perfectly while staying cozy and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Pabst Schwimmbad",
+                "hu": "Pabst Schwimmbad",
+                "ro": "Pabst Schwimmbad",
+                "en": "Pabst Schwimmbad"
+              },
+              "tip_5lang": {
+                "de": "Das Meerwasser-Hallenbad ist das ultimative Schlechtwetter-Ziel; genießen Sie das warme Wasser, während der Regen gegen die großen Fensterscheiben prasselt.",
+                "hu": "A tengervizes fedett uszoda a legjobb úti cél esőben; élvezze a meleg vizet a medencében, miközben hallgatja, ahogy a zápor az óriási üvegablakokon kopog.",
+                "ro": "Piscina interioară cu apă de mare este destinația supremă pe timp de ploaie; bucurați-vă de apa caldă în timp ce ploaia bate ritmic în ferestrele mari de sticlă.",
+                "en": "The seawater indoor pool is the ultimate bad-weather destination; enjoy the warm water inside while the rain patters against the large glass windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Friesengalerie",
+                "hu": "Friesengalerie",
+                "ro": "Friesengalerie",
+                "en": "Friesengalerie"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie friesische Kunst und Fotografie in der kleinen Galerie; der Innenraum bietet Schutz vor Wind und Nässe und inspiriert mit Inselfarben.",
+                "hu": "Csodálja meg a fríz művészetet és fotókat ebben a kis galériában; a belső tér védelmet nyújt a szél ellen, a színes képek pedig feledtetik a szürke időt.",
+                "ro": "Admirați arta și fotografiile frizone în această mică galerie; interiorul oferă protecție împotriva vântului și umezelii, inspirându-vă cu peisajele insulei.",
+                "en": "Admire Frisian art and photography in this small gallery; the interior provides shelter from the wind and rain while inspiring you with local island colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nationalpark-Haus",
+                "ro": "Nationalpark-Haus",
+                "en": "Nationalpark-Haus"
+              },
+              "tip_5lang": {
+                "de": "Die interaktive Ausstellung zum Wattenmeer ist komplett überdacht; lernen Sie alles über die Gezeiten, ohne dabei nasse Füße im Schlick zu bekommen.",
+                "hu": "A világörökségről szóló interaktív kiállítás teljesen fedett; ismerje meg az árapály jelenségét anélkül, hogy vizes lábbal kellene a sárban gázolnia.",
+                "ro": "Expoziția interactivă despre Marea Wadden este complet acoperită; învățați totul despre maree fără a vă uda picioarele în nămolul de afară.",
+                "en": "The interactive exhibition about the Wadden Sea is fully covered; learn all about the tides without actually getting wet feet in the mudflats outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsplattform",
+                "hu": "Aussichtsplattform",
+                "ro": "Aussichtsplattform",
+                "en": "Aussichtsplattform"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, stürmischer Aufstieg lohnt sich für den dramatischen Blick auf das graue Meer; achten Sie auf rutschige Stufen und halten Sie die Kapuze fest.",
+                "hu": "Egy rövid, szeles mászás megéri a drámai kilátásért a szürke tengerre; figyeljen a csúszós lépcsőkre, és fogja szorosan a kapucniját a szélben.",
+                "ro": "O urcare scurtă merită pentru vederea dramatică asupra mării cenușii; atenție la treptele alunecoase și țineți-vă bine gluga din cauza vântului puternic.",
+                "en": "A quick, windy climb is worth it for the dramatic view of the grey sea; watch out for slippery steps and hold your hood tight against the gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Rettungsturm Nr. 2 (Station)",
+                "hu": "Rettungsturm Nr. 2 (Station)",
+                "ro": "Rettungsturm Nr. 2 (Station)",
+                "en": "Rettungsturm Nr. 2 (Station)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der Brandung vom Turm aus; der Wind trocknet die Kleidung schnell, wenn man den Schutz der Dünenkante nutzt.",
+                "hu": "Figyelje meg a hullámtörés lenyűgöző látványát a torony közeléből; a dűnék szélárnyékában várakozva megúszhatja a nagyobb esőcseppeket.",
+                "ro": "Observați spectacolul valurilor de lângă turn; adăpostiți-vă în spatele dunelor pentru a evita ploaia directă adusă de vântul puternic de nord.",
+                "en": "Watch the impressive waves from near the tower; take advantage of the dune edges for shelter to avoid the direct rain blown by the strong wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter herrscht auf Juist eine magische Stille. Der Morgen beginnt mit Kultur im warmen Haus des Kurgastes. Mittags entspannen wir im beheizten Meerwasserbad, bevor wir am Nachmittag durch die klare Winterluft spazieren. Da die Sonne bereits um 17:00 Uhr untergeht, genießen wir den frühen Abendhimmel über den Dünen bei einem heißen Tee.",
+            "hu": "Télen varázslatos csend borul Juistra. A reggel kulturálisan indul a fűtött közösségi házban. Délben a meleg vizes uszodában lazítunk, majd délután a kristálytiszta, jeges levegőn sétálunk. Mivel a nap már 17:00 körül lebukik, a korai alkonyatot a dűnék felett csodáljuk meg, mielőtt behúzódnánk a melegbe.",
+            "ro": "Iarna, o liniște magică cuprinde insula Juist. Dimineața începe cu activități culturale în interiorul cald. La prânz ne relaxăm în piscina încălzită, apoi ne plimbăm prin aerul rece și curat. Deoarece soarele apune deja la ora 17:00, admirăm culorile amurgului de pe dune, înainte de a căuta un ceai fierbinte.",
+            "en": "In winter, a magical silence covers Juist. The morning begins with culture inside the warm Haus des Kurgastes. At noon, we relax in the heated seawater pool before a walk through the crisp winter air. Since the sun sets by 17:00, we enjoy the early twilight over the dunes before retreating to a warm spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haus des Kurgastes",
+                "hu": "Haus des Kurgastes",
+                "ro": "Haus des Kurgastes",
+                "en": "Haus des Kurgastes"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Winter-Vorträge im warmen Saal; die großen Fenster bieten einen frostigen Blick auf die Nordsee, während Sie gemütlich im Warmen sitzen.",
+                "hu": "Látogassa meg a téli előadásokat a fűtött teremben; az óriási ablakokon keresztül fagyos kilátás nyílik az északi tengerre, miközben Ön a melegben pihen.",
+                "ro": "Participați la prelegerile de iarnă în sala încălzită; ferestrele mari oferă o vedere înghețată asupra Mării Nordului în timp ce stați confortabil la căldură.",
+                "en": "Visit the winter lectures in the warm hall; the large windows offer a frosty view of the North Sea while you sit comfortably in the heated interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pabst Schwimmbad",
+                "hu": "Pabst Schwimmbad",
+                "ro": "Pabst Schwimmbad",
+                "en": "Pabst Schwimmbad"
+              },
+              "tip_5lang": {
+                "de": "Ein Bad im warmen Meerwasser ist im Winter ein Muss; die Thalasso-Therapie stärkt das Immunsystem gegen die winterliche Kälte auf der Insel.",
+                "hu": "A meleg tengervizes fürdő télen kötelező program; a Thalasso-terápia kiválóan erősíti az immunrendszert a szigeti hideg széllel szemben.",
+                "ro": "O baie în apa caldă de mare este obligatorie iarna; terapia Thalasso întărește sistemul imunitar împotriva frigului pătrunzător de pe insulă.",
+                "en": "A dip in the warm seawater is a must in winter; the Thalasso therapy is excellent for boosting your immune system against the cold island winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Friesengalerie",
+                "hu": "Friesengalerie",
+                "ro": "Friesengalerie",
+                "en": "Friesengalerie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in der Galerie; die sanfte Winterbeleuchtung lässt die Inselfotografien besonders stimmungsvoll wirken.",
+                "hu": "Élvezze a holtszezon nyugalmát a galériában; a lágy téli fények különösen hangulatossá teszik a szigetről készült művészi fotókat.",
+                "ro": "Bucurați-vă de liniștea sezonului rece în galerie; iluminarea blândă de iarnă face ca fotografiile cu insula să pară deosebit de atmosferice.",
+                "en": "Enjoy the peace of the off-season in the gallery; the soft winter lighting makes the island photographs appear particularly atmospheric and calm."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nationalpark-Haus",
+                "ro": "Nationalpark-Haus",
+                "en": "Nationalpark-Haus"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie, wie die Tiere im Watt den Winter überstehen; die Ausstellungsräume sind gut geheizt und bieten eine lehrreiche Pause vom Frost.",
+                "hu": "Tudja meg, hogyan élik túl az állatok a telet az árapály-síkságon; a kiállítótermek jól fűtöttek, így ideális helyszín egy kis melegedésre.",
+                "ro": "Aflați cum supraviețuiesc animalele iarna în zona de maree; sălile de expoziție sunt bine încălzite, oferind o pauză educativă de la gerul de afară.",
+                "en": "Learn how animals survive the winter in the mudflats; the exhibition rooms are well-heated, providing an educational break from the frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsplattform",
+                "hu": "Aussichtsplattform",
+                "ro": "Aussichtsplattform",
+                "en": "Aussichtsplattform"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die kristallklare Winterluft tief ein; bei Frost ist die Sicht oft meilenweit und der Strand wirkt wie mit Puderzucker bestreut.",
+                "hu": "Lélegezze be mélyen a kristálytiszta téli levegőt; fagyos időben a látótávolság hatalmas, a strand pedig olyan, mintha porcukorral lenne beszórva.",
+                "ro": "Respirați adânc aerul curat de iarnă; pe timp de îngheț, vizibilitatea este de mulți kilometri, iar plaja pare presărată cu zahăr pudră.",
+                "en": "Breathe in the crystal-clear winter air; during frost, the visibility is immense, and the beach looks as if it were sprinkled with powdered sugar."
+              }
+            },
+            {
+              "name": {
+                "de": "Rettungsturm Nr. 2 (Station)",
+                "hu": "Rettungsturm Nr. 2 (Station)",
+                "ro": "Rettungsturm Nr. 2 (Station)",
+                "en": "Rettungsturm Nr. 2 (Station)"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie rechtzeitig um 17:00 Uhr hier, um den feurigen Wintersonnenuntergang zu erleben, bevor die Dunkelheit und die Kälte den Strand einhüllen.",
+                "hu": "Érkezzen ide időben, 17:00 óra előtt, hogy lássa a tüzes téli naplementét, mielőtt a sötétség és a fagyos éjszaka végleg birtokba veszi a partot.",
+                "ro": "Ajungeți aici la timp, înainte de ora 17:00, pentru a vedea apusul aprins de iarnă, înainte ca întunericul și frigul să cuprindă întreaga plajă.",
+                "en": "Be here in time by 17:00 to experience the fiery winter sunset before the darkness and the biting cold completely take over the beach."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpártúra a Nationalpark-Haus-nál kezdődik, bepillantást nyújtva az élővilágba. Délben a Loog városrészbe teker, ahol a Schiffchenteich és a szigetmúzeum várja. Délután élvezze a kilátást a Dree-Water-Utkiek felől. Az este a Seezeichen-hez vezet, és a 7. hosszúsági kör gátjánál ér véget.",
         "ro": "Turul cu bicicleta începe la Nationalpark-Haus, explorând ecosistemul. La prânz pedalați spre Loog pentru a vedea Schiffchenteich și Muzeul Insulei. După-amiaza vă aduce vederi panoramice de la Dree-Water-Utkiek. Seara se încheie la Seezeichen și la digul meridianului 7.",
         "en": "Your bike tour starts at the Nationalpark-Haus with Wadden Sea insights. At midday, pedal to Loog to explore the Schiffchenteich and the Island Museum. The afternoon offers sweeping views from the Dree-Water-Utkiek. The evening leads to the Seezeichen, ending peacefully at the 7th Longitude Dike."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert auf Juist die richtige Ausrüstung. Morgens erkunden wir das Nationalpark-Haus, bevor wir zum Loog radeln. Mittags bietet das Inselmuseum eine trockene Zuflucht. Nachmittags geht es entlang des Deichs zurück, wobei wir auf rutschige Wege achten. Ein heißer Grog am Abend ist die perfekte Belohnung für die tapfere Fahrt.",
+            "hu": "Az esőben való biciklizés Juist szigetén megfelelő felszerelést igényel. Reggel a természetvédelmi háznál kezdünk, majd áttekerünk a Loog negyedbe. Délben a múzeum nyújt száraz menedéket. Délután a gáton haladunk vissza, ügyelve a csúszós szakaszokra. Este egy forró ital a jutalom a kitartó pedálozásért.",
+            "ro": "Mersul pe bicicletă în ploaie necesită echipament adecvat pe Juist. Dimineața explorăm centrul parcului național, apoi pedalăm spre Loog. La prânz, muzeul insulei oferă un refugiu uscat. După-amiaza revenim pe dig, atenți la porțiunile alunecoase. Seara, o băutură caldă este recompensa perfectă pentru efort.",
+            "en": "Cycling in the rain on Juist requires the right gear. In the morning, we explore the National Park house before biking to Loog. At noon, the island museum provides a dry sanctuary. In the afternoon, we head back along the dike, watching out for slippery paths. A hot drink in the evening is the perfect reward for the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nationalpark-Haus",
+                "ro": "Nationalpark-Haus",
+                "en": "Nationalpark-Haus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Eingang und trocknen Sie Ihre Regenjacke im Vorraum, während Sie die Ausstellung besuchen.",
+                "hu": "Használja a bejáratnál lévő fedett biciklitárolót, és szárítsa meg esőkabátját az előtérben, amíg a kiállítást böngészi a szárazban.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare și lăsați pelerina la uscat în vestibul în timp ce vizitați expoziția la căldură.",
+                "en": "Use the covered bike rack at the entrance and let your raincoat dry in the vestibule while you enjoy the indoor exhibition comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Schiffchenteich im Loog",
+                "hu": "Schiffchenteich im Loog",
+                "ro": "Schiffchenteich im Loog",
+                "en": "Schiffchenteich im Loog"
+              },
+              "tip_5lang": {
+                "de": "Der Teich wirkt im Regen melancholisch schön; parken Sie das Rad kurz unter einem Vordach der umliegenden Häuser, um das Panorama zu genießen.",
+                "hu": "A tó melankolikusan szép az esőben; parkoljon le rövid időre a közeli házak eresze alá, hogy szárazon élvezhesse a látványt.",
+                "ro": "Iazul arată melancolic și frumos în ploaie; parcați bicicleta scurt sub streașina caselor din apropiere pentru a admira panorama fără a vă uda.",
+                "en": "The pond looks melancholically beautiful in the rain; park your bike briefly under the eaves of nearby houses to enjoy the view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Inselmuseum Juist",
+                "hu": "Inselmuseum Juist",
+                "ro": "Inselmuseum Juist",
+                "en": "Inselmuseum Juist"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um einen kräftigen Regenschauer abzuwarten; tauchen Sie tief in die Geschichte der Seefahrt ein, während es draußen stürmt.",
+                "hu": "Ez a tökéletes hely egy nagyobb zápor kivárására; merüljön el a tengerészet történetében, miközben kint viharos szél fúj az ablakok alatt.",
+                "ro": "Acesta este locul perfect pentru a aștepta trecerea unei ploi torențiale; aprofundați istoria navigației în timp ce afară vântul suflă cu putere.",
+                "en": "This is the perfect place to wait out a heavy rain shower; dive deep into maritime history while the storm rages outside the museum walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Dree-Water-Utkiek",
+                "hu": "Dree-Water-Utkiek",
+                "ro": "Dree-Water-Utkiek",
+                "en": "Dree-Water-Utkiek"
+              },
+              "tip_5lang": {
+                "de": "Achtung beim Abstellen der Räder auf den sandigen Wegen, diese können bei Nässe sehr weich sein; genießen Sie den Blick auf das raue Wattenmeer.",
+                "hu": "Vigyázzon a biciklik leállításakor, mert a homokos utak esőben felpuhulhatnak; csodálja meg a viharos Watt-tenger látványát a kilátópontról.",
+                "ro": "Atenție la parcarea bicicletelor, deoarece drumurile nisipoase pot deveni moi la ploaie; admirați vederea spre Marea Wadden agitată de sus.",
+                "en": "Be careful when parking your bikes as sandy paths can become very soft in the rain; enjoy the view of the stormy Wadden Sea from the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Seezeichen",
+                "hu": "Seezeichen",
+                "ro": "Seezeichen",
+                "en": "Seezeichen"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen bietet keinen Schutz vor Regen, wirkt aber im grauen Licht besonders markant; machen Sie ein schnelles Foto und radeln Sie zügig weiter.",
+                "hu": "A jelzőtorony nem nyújt védelmet az eső ellen, de a szürke fényben különösen látványos; készítsen egy gyors fotót, majd tekerjen tovább a faluba.",
+                "ro": "Acest reper nu oferă protecție împotriva ploii, dar arată impresionant în lumina gri; faceți o poză rapidă și pedalați mai departe spre sat.",
+                "en": "The landmark offers no rain protection but looks very striking in the grey light; take a quick photo and continue cycling towards the village."
+              }
+            },
+            {
+              "name": {
+                "de": "7. Längengrad Deich",
+                "hu": "7. Längengrad Deich",
+                "ro": "7. Längengrad Deich",
+                "en": "7. Längengrad Deich"
+              },
+              "tip_5lang": {
+                "de": "Der asphaltierte Deichweg ist gut befahrbar, kann aber bei Seitenwind tückisch sein; halten Sie den Lenker fest und nutzen Sie die Windschatten-Abschnitte.",
+                "hu": "Az aszfaltozott gátút jól járható, de az oldalszél trükkös lehet; fogja erősen a kormányt, és használja ki a szélvédettebb szakaszokat a haladáshoz.",
+                "ro": "Drumul asfaltat de pe dig este bun, dar vântul lateral poate fi periculos; țineți bine ghidonul și profitați de secțiunile adăpostite pentru a înainta.",
+                "en": "The paved dike path is easy to ride, but crosswinds can be tricky; hold your handlebars firmly and use the sheltered sections to move forward."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter auf Juist bietet klare Sicht und leere Wege. Morgens besuchen wir das Nationalpark-Haus, bevor wir durch die gefrorene Dünenlandschaft zum Loog fahren. Mittags wärmen wir uns im Museum auf. Da es ab 17:00 Uhr stockfinster wird, beenden wir die Tour rechtzeitig am Deich, um das restliche Tageslicht für die Rückfahrt zu nutzen.",
+            "hu": "A téli biciklizés Juist szigetén tiszta kilátást és üres utakat kínál. Reggel a természetvédelmi háztól indulunk a fagyos dűnék között a Loog negyedbe. Délben a múzeumban melegszünk fel. Mivel 17:00 után hirtelen sötétedik, a túrát időben befejezzük a gátnál, hogy még lámpafény nélkül visszaérjünk.",
+            "ro": "Mersul pe bicicletă iarna pe Juist oferă vederi clare și drumuri libere. Dimineața pornim de la centrul parcului național prin dunele înghețate spre Loog. La prânz ne încălzim la muzeu. Deoarece se întunecă brusc după ora 17:00, încheiem turul la dig din timp, pentru a profita de lumina zilei.",
+            "en": "Winter cycling on Juist offers clear views and empty paths. In the morning, we start at the National Park house and ride through frozen dunes to Loog. At noon, we warm up in the museum. Since it gets dark quickly after 17:00, we finish the tour at the dike early to use the remaining daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalpark-Haus",
+                "hu": "Nationalpark-Haus",
+                "ro": "Nationalpark-Haus",
+                "en": "Nationalpark-Haus"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie vor der Abfahrt noch einen warmen Tee im Dorf; die Fahrt zum Loog kann durch den kalten Gegenwind auf dem Rad sehr auskühlend sein.",
+                "hu": "Igyon egy meleg teát indulás előtt a faluban; a Loog felé vezető út a hideg szembeszél miatt kerékpáron nagyon lehűtheti a testét.",
+                "ro": "Beți un ceai cald înainte de plecare în sat; drumul spre Loog poate fi foarte răcoros pe bicicletă din cauza vântului rece din față.",
+                "en": "Drink a warm tea in the village before departing; the ride to Loog can be very chilling on a bike due to the cold winter headwinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Schiffchenteich im Loog",
+                "hu": "Schiffchenteich im Loog",
+                "ro": "Schiffchenteich im Loog",
+                "en": "Schiffchenteich im Loog"
+              },
+              "tip_5lang": {
+                "de": "Der Teich ist im Winter oft zugefroren; ein schönes Fotomotiv, aber betreten Sie die Eisfläche auf keinen Fall, da sie nicht tragfähig ist.",
+                "hu": "A tó télen gyakran befagy; gyönyörű fotótéma, de semmiképpen ne lépjen a jégre, mert az nem elég vastag ahhoz, hogy megtartsa Önt.",
+                "ro": "Iazul este adesea înghețat iarna; este un subiect foto frumos, dar nu călcați pe gheață sub nicio formă, deoarece nu este destul de groasă.",
+                "en": "The pond is often frozen in winter; it's a beautiful photo spot, but do not step on the ice under any circumstances as it is not safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Inselmuseum Juist",
+                "hu": "Inselmuseum Juist",
+                "ro": "Inselmuseum Juist",
+                "en": "Inselmuseum Juist"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen; im Museum ist es angenehm warm, ideal um die Sinne nach der Radfahrt aufzutauen.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok leadására; a múzeumban kellemes meleg van, ideális hely a felengedésre a hideg biciklizés után.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă; în muzeu este plăcut de cald, fiind locul ideal pentru a vă dezmorți după pedalat.",
+                "en": "Use the cloakroom to take off heavy winter layers; the museum is pleasantly warm, making it the ideal spot to thaw out after your cold bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Dree-Water-Utkiek",
+                "hu": "Dree-Water-Utkiek",
+                "ro": "Dree-Water-Utkiek",
+                "en": "Dree-Water-Utkiek"
+              },
+              "tip_5lang": {
+                "de": "Der Wind hier oben ist im Winter besonders eisig; tragen Sie unbedingt eine winddichte Mütze, die auch die Ohren beim Radfahren gut schützt.",
+                "hu": "A szél itt fent télen különösen jeges; viseljen szélálló sapkát, amely kerékpározás közben is jól védi a fülét a hideg ellen.",
+                "ro": "Vântul aici sus este deosebit de tăios iarna; purtați o căciulă rezistentă la vânt care să vă protejeze bine urechile în timp ce pedalați.",
+                "en": "The wind up here is particularly biting in winter; make sure to wear a windproof hat that protects your ears well while you are cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Seezeichen",
+                "hu": "Seezeichen",
+                "ro": "Seezeichen",
+                "en": "Seezeichen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Boden rund um das Seezeichen; das Metall kann bei Frost sehr rutschig sein, wenn man sich daran festhält.",
+                "hu": "Ügyeljen a jeges foltokra a talajon a jelzőtorony körül; a fémszerkezet fagyban nagyon csúszós lehet, ha megpróbál megkapaszkodni benne.",
+                "ro": "Atenție la porțiunile înghețate de pe sol în jurul reperului; structura metalică poate fi foarte alunecoasă la atingere pe timp de ger.",
+                "en": "Watch out for icy patches on the ground around the landmark; the metal structure can be very slippery to touch during freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "7. Längengrad Deich",
+                "hu": "7. Längengrad Deich",
+                "ro": "7. Längengrad Deich",
+                "en": "7. Längengrad Deich"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie vor der Rückfahrt Ihre Fahrradbeleuchtung; im Winter dämmert es früh und auf dem Deich gibt es keine künstliche Straßenbeleuchtung.",
+                "hu": "Indulás előtt ellenőrizze a bicikli lámpáit; télen korán szürkül, és a gáton egyáltalán nincs mesterséges közvilágítás a visszaúthoz.",
+                "ro": "Verificați luminile bicicletei înainte de întoarcere; iarna se înserează devreme, iar pe dig nu există iluminat stradal artificial pentru drum.",
+                "en": "Check your bike lights before heading back; in winter, dusk falls early and there is no artificial street lighting along the dike path."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje motoros túráját a Krebsstein-nél egy remek fotóért. Délben gyorsan elérheti a Seezeichen-t, majd haladjon a Loog felé a Schiffchenteich-hez. A délutánt a Szigetmúzeum és a történelem felfedezésének szentelheti. Este pihenjen az 1-es és 3-as mentőtornyoknál az északi strandon.",
         "ro": "Începeți turul motorizat la Krebsstein pentru o fotografie perfectă. La prânz ajungeți rapid la Seezeichen și continuați spre Loog pentru Schiffchenteich. După-amiaza este dedicată Muzeului Insulei și istoriei sale. Seara vă relaxați lângă turnurile de salvare 1 și 3 pe plaja de nord.",
         "en": "Start your motorized tour at the Krebsstein for a great photo opportunity. By midday, quickly reach the Seezeichen and drive to Loog for the Schiffchenteich. The afternoon is dedicated to the Island Museum and local history. In the evening, relax by rescue towers No. 1 and 3 on the north beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Da Juist autofrei ist, genießen wir die Fahrt in der überdachten Pferdekutsche. Morgens geht es geschützt zum Krebsstein und zum Seezeichen. Mittags erreichen wir das Loog, wo das Museum trockene Unterhaltung bietet. Nachmittags besuchen wir die Rettungstürme, während wir das Prasseln des Regens auf das Planenverdeck der Kutsche genießen.",
+            "hu": "Mivel Juist autómentes, a túrát egy fedett lovaskocsival tesszük meg. Reggel védetten utazunk a Krebssteinhez és a jelzőtoronyhoz. Délben elérjük a Loog negyedet, ahol a múzeum kínál száraz programot. Délután a mentőtornyokat látogatjuk meg, miközben hallgatjuk az eső kopogását a kocsi ponyváján.",
+            "ro": "Deoarece Juist este fără mașini, ne bucurăm de călătoria cu trăsura acoperită. Dimineața mergem protejați spre Krebsstein și reperul insulei. La prânz ajungem în Loog, unde muzeul oferă divertisment la adăpost. După-amiaza vizităm turnurile de salvare, ascultând ploaia care bate în coviltirul trăsurii.",
+            "en": "Since Juist is car-free, we enjoy the ride in a covered horse-drawn carriage. In the morning, we travel protected to Krebsstein and the landmark. At noon, we reach Loog, where the museum provides dry entertainment. In the afternoon, we visit the rescue towers while enjoying the rain pattering on the carriage roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krebsstein",
+                "hu": "Krebsstein",
+                "ro": "Krebsstein",
+                "en": "Krebsstein"
+              },
+              "tip_5lang": {
+                "de": "Bitten Sie den Kutscher, kurz am Denkmal zu halten; Sie können den Krebsstein aus dem Fenster der Kutsche sehen, ohne nass zu werden.",
+                "hu": "Kérje meg a kocsist, hogy álljon meg egy pillanatra az emlékműnél; a Krebssteint a kocsi ablakából is jól láthatja anélkül, hogy bőrig ázna.",
+                "ro": "Rugați vizitiul să oprească scurt la monument; puteți vedea Krebsstein de la fereastra trăsurii fără a fi nevoie să coborâți în ploaie.",
+                "en": "Ask the driver to stop briefly at the monument; you can see the Krebsstein from the carriage window without having to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Seezeichen",
+                "hu": "Seezeichen",
+                "ro": "Seezeichen",
+                "en": "Seezeichen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtpause, um Fotos aus dem Trockenen zu machen; die Kutsche bietet die perfekte Plattform, um das Wahrzeichen bei Regen zu bewundern.",
+                "hu": "Használja ki a megállót a fotózásra a száraz kocsiból; a lovaskocsi tökéletes kilátóhely, hogy esőben is megcsodálhassa a sziget jelképét.",
+                "ro": "Profitați de oprire pentru a face fotografii de la adăpost; trăsura oferă platforma perfectă pentru a admira reperul în timp ce plouă afară.",
+                "en": "Take advantage of the stop to take photos from the dry interior; the carriage is the perfect platform to admire the landmark during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schiffchenteich im Loog",
+                "hu": "Schiffchenteich im Loog",
+                "ro": "Schiffchenteich im Loog",
+                "en": "Schiffchenteich im Loog"
+              },
+              "tip_5lang": {
+                "de": "Das Loog ist bei Regen besonders ruhig; genießen Sie die idyllische Fahrt durch die engen Gassen, während der Wind die Regentropfen gegen das Verdeck treibt.",
+                "hu": "A Loog negyed esőben különösen csendes; élvezze az idilli kocsikázást a szűk utcákon, miközben a szél az esőcseppeket a kocsi ponyvájának hajtja.",
+                "ro": "Cartierul Loog este deosebit de liniștit pe ploaie; bucurați-vă de drumul idilic pe străduțe în timp ce vântul poartă stropii de ploaie spre coviltir.",
+                "en": "Loog is especially quiet in the rain; enjoy the idyllic ride through the narrow streets while the wind drives the raindrops against the carriage cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Inselmuseum Juist",
+                "hu": "Inselmuseum Juist",
+                "ro": "Inselmuseum Juist",
+                "en": "Inselmuseum Juist"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt vor dem Museumseingang absetzen; so gelangen Sie mit nur wenigen Schritten ins Trockene und können die Ausstellung genießen.",
+                "hu": "Kérje meg a kocsist, hogy közvetlenül a múzeum bejáratánál tegye ki Önt; így pár lépéssel a szárazba érhet, és zavartalanul nézheti meg a tárlatot.",
+                "ro": "Rugați vizitiul să vă lase chiar la intrarea în muzeu; astfel veți ajunge la adăpost în doar câțiva pași pentru a vă bucura de expoziție.",
+                "en": "Ask to be dropped off right at the museum entrance; this way you reach the dry interior in just a few steps to enjoy the exhibition fully."
+              }
+            },
+            {
+              "name": {
+                "de": "Rettungsturm Nr. 1",
+                "hu": "Rettungsturm Nr. 1",
+                "ro": "Rettungsturm Nr. 1",
+                "en": "Rettungsturm Nr. 1"
+              },
+              "tip_5lang": {
+                "de": "Der Strandweg kann bei starkem Regen sehr aufgeweicht sein; vertrauen Sie auf die Erfahrung des Kutschers und der Pferde, um sicher ans Ziel zu kommen.",
+                "hu": "A part menti út heves esőben felázhat; bízzon a kocsis és a lovak tapasztalatában, akik biztonságosan eljuttatják Önt a mentőtorony közelébe.",
+                "ro": "Drumul de pe plajă poate fi moale în caz de ploaie abundentă; aveți încredere în experiența vizitiului și a cailor pentru a ajunge în siguranță.",
+                "en": "The beach path can be very soft during heavy rain; trust the experience of the driver and horses to get you safely near the rescue tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Rettungsturm Nr. 3",
+                "hu": "Rettungsturm Nr. 3",
+                "ro": "Rettungsturm Nr. 3",
+                "en": "Rettungsturm Nr. 3"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosenden Wellen aus dem Schutz der Kutsche; das Planenverdeck hält Sie warm, während Sie die raue Natur beobachten.",
+                "hu": "Élvezze a háborgó tenger látványát a kocsi védelméből; a ponyva melegen tartja Önt, miközben a torony mellől a vad természetet figyeli.",
+                "ro": "Admirați valurile înfuriate din protecția trăsurii; coviltirul vă va ține de cald în timp ce observați natura sălbatică de lângă turn.",
+                "en": "Enjoy the view of the roaring waves from the protection of the carriage; the roof keeps you warm while you observe the wild nature from the tower."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter wird die Kutschfahrt auf Juist zu einer gemütlichen Reise durch die Zeit. Eingekuschelt in dicke Decken fahren wir morgens zum Krebsstein. Mittags bietet das Museum im Loog Wärme und Kultur. Da die Sonne gegen 17:00 Uhr sinkt, erleben wir das mystische Licht des Abends auf der Rückfahrt, während die Hufe der Pferde auf dem frostigen Boden klappern.",
+            "hu": "Télen a lovaskocsizás Juist szigetén egy hangulatos időutazássá válik. Vastag takarókba burkolózva indulunk reggel a Krebssteinhez. Délben a Loog negyed múzeuma kínál meleget. Mivel a nap 17:00 körül lemegy, a visszaúton már az alkonyat misztikus fényeit látjuk, miközben a paták kopognak a fagyos talajon.",
+            "ro": "Iarna, plimbarea cu trăsura pe Juist devine o călătorie atmosferică prin timp. Înfofoliți în pături groase, pornim dimineața spre Krebsstein. La prânz, muzeul din Loog oferă căldură. Deoarece soarele apune în jur de ora 17:00, experimentăm lumina mistică a serii la întoarcere, în sunetul copitelor pe solul înghețat.",
+            "en": "In winter, a carriage ride on Juist becomes a cozy journey through time. Wrapped in thick blankets, we head to Krebsstein in the morning. At noon, the museum in Loog offers warmth. Since the sun sets around 17:00, we experience the mystic evening light on the return journey while the hooves clatter on the frozen ground."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krebsstein",
+                "hu": "Krebsstein",
+                "ro": "Krebsstein",
+                "en": "Krebsstein"
+              },
+              "tip_5lang": {
+                "de": "Bitten Sie um eine zusätzliche Wolldecke in der Kutsche; die Fahrt im Winterwind kann trotz Verdeck kühl sein, wenn man sich wenig bewegt.",
+                "hu": "Kérjen egy extra gyapjútakarót a kocsistól; a téli szélben való kocsikázás a kevés mozgás miatt még fedett kocsiban is hűvös lehet.",
+                "ro": "Cereți o pătură de lână suplimentară în trăsură; drumul în vântul de iarnă poate fi răcoros în ciuda coviltirului dacă nu vă mișcați.",
+                "en": "Ask for an extra wool blanket in the carriage; the ride in the winter wind can be chilly despite the cover since you aren't moving much."
+              }
+            },
+            {
+              "name": {
+                "de": "Seezeichen",
+                "hu": "Seezeichen",
+                "ro": "Seezeichen",
+                "en": "Seezeichen"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen ist oft mit Raureif überzogen und funkelt in der Wintersonne; ein fantastischer Anblick, den man am besten direkt vom Kutschbock aus genießt.",
+                "hu": "A jelzőtorony télen gyakran zúzmarás és csillog a napfényben; fantasztikus látvány, amelyet a legjobb közvetlenül a lovaskocsiból megcsodálni.",
+                "ro": "Reperul este adesea acoperit de chiciură și strălucește în soarele de iarnă; o vedere fantastică ce poate fi admirată cel mai bine direct din trăsură.",
+                "en": "The landmark is often covered in hoarfrost and sparkles in the winter sun; a fantastic sight best enjoyed directly from the comfort of the carriage."
+              }
+            },
+            {
+              "name": {
+                "de": "Schiffchenteich im Loog",
+                "hu": "Schiffchenteich im Loog",
+                "ro": "Schiffchenteich im Loog",
+                "en": "Schiffchenteich im Loog"
+              },
+              "tip_5lang": {
+                "de": "Das Loog wirkt im Winter wie ein verschneites Fischerdorf; genießen Sie die Ruhe, während die Kutsche langsam an den reetgedeckten Häusern vorbeizieht.",
+                "hu": "A Loog negyed télen olyan, mint egy havas halászfalu; élvezze a mély csendet, miközben a kocsi lassan elhalad a nádtetős házak mellett.",
+                "ro": "Cartierul Loog arată iarna ca un sat de pescari înzăpezit; bucurați-vă de liniște în timp ce trăsura trece încet pe lângă casele cu stuf.",
+                "en": "Loog looks like a snowy fishing village in winter; enjoy the profound silence as the carriage slowly passes the traditional thatched-roof houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Inselmuseum Juist",
+                "hu": "Inselmuseum Juist",
+                "ro": "Inselmuseum Juist",
+                "en": "Inselmuseum Juist"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie einen längeren Aufenthalt ein, um sich richtig aufzuwärmen; das Museum ist im Winter eine kulturelle Oase der Wärme im Westen der Insel.",
+                "hu": "Tervezzen hosszabb látogatást, hogy teljesen felmelegedjen; a múzeum télen a melegség és a kultúra oázisa a sziget nyugati részén.",
+                "ro": "Planificați o vizită mai lungă pentru a vă încălzi bine; muzeul este iarna o oază culturală de căldură în partea de vest a insulei.",
+                "en": "Plan for a longer stay to warm up properly; the museum is a cultural oasis of warmth in the western part of the island during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Rettungsturm Nr. 1",
+                "hu": "Rettungsturm Nr. 1",
+                "ro": "Rettungsturm Nr. 1",
+                "en": "Rettungsturm Nr. 1"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das rhythmische Schnauben der Pferde in der kalten Luft; die winterliche Brandung ist hier besonders beeindruckend und kraftvoll.",
+                "hu": "Figyelje a lovak ritmikus horkantásait a hideg levegőben; a téli hullámtörés itt különösen lenyűgöző és erőteljes látványt nyújt a partnál.",
+                "ro": "Ascultați pufăitul ritmic al cailor în aerul rece; valurile de iarnă sunt aici deosebit de impresionante și puternice în apropierea turnului.",
+                "en": "Listen to the rhythmic snorting of the horses in the cold air; the winter surf is particularly impressive and powerful near the tower here."
+              }
+            },
+            {
+              "name": {
+                "de": "Rettungsturm Nr. 3",
+                "hu": "Rettungsturm Nr. 3",
+                "ro": "Rettungsturm Nr. 3",
+                "en": "Rettungsturm Nr. 3"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17:00 Uhr bereits dämmert, bietet der Turm im fahlen Licht ein mystisches Motiv; die Kutschfahrt zurück ins Dorf wird nun richtig romantisch.",
+                "hu": "Mivel 17:00-kor már szürkül, a torony a halvány fényben misztikus látvány; a lovaskocsis visszaút a faluba ilyenkor válik igazán romantikussá.",
+                "ro": "Deoarece la ora 17:00 se înserează deja, turnul oferă o vedere mistică în lumina palidă; drumul înapoi spre sat devine acum cu adevărat romantic.",
+                "en": "Since dusk falls by 17:00, the tower offers a mystic sight in the pale light; the carriage ride back to the village becomes truly romantic now."
+              }
+            }
+          ]
+        }
       }
     }
   }

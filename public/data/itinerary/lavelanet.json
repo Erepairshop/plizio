@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Lavelanet kulturális szívében, mielőtt átadná magát a nyüzsgő Esplanade de la Concorde hangulatának.\n\nDélben merüljön el az Église Notre-Dame-de-l'Assomption templom békés és spirituális csendjében.\n\nDélután mássza meg a középkori várromokat, ahonnan lenyűgöző történelmi kilátás nyílik a városra.\n\nZárja a napot egy kellemes sétával a Textilmúzeumban, ahol megismerheti a helyi ipar lenyűgöző múltját.",
         "ro": "Începeți ziua în inima culturală a orașului Lavelanet, înainte de a vă bucura de atmosfera vibrantă de la Esplanade de la Concorde.\n\nLa prânz, cufundați-vă în liniștea spirituală oferită de superba Église Notre-Dame-de-l'Assomption.\n\nDupă-amiaza, urcați la ruinele castelului medieval și bucurați-vă de o panoramă istorică asupra orașului.\n\nÎncheiați ziua relaxant, explorând istoria industrială fascinantă la Muzeul Textilelor din apropiere.",
         "en": "Start your morning in the cultural heart of Lavelanet before soaking up the lively atmosphere at the Esplanade de la Concorde.\n\nBy midday, immerse yourself in the deep spiritual tranquility of the beautiful Église Notre-Dame-de-l'Assomption.\n\nIn the afternoon, hike up to the medieval castle ruins to enjoy a sweeping historical perspective of the city.\n\nWind down your evening by delving into the fascinating industrial heritage at the Textile and Horn Comb Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Kulturhalle, um dem starken Nieselregen zu entkommen.\n\nMittags überqueren Sie die nasse Esplanade und finden eine absolut trockene Zuflucht in der Kirche.\n\nNachmittags navigieren Sie äußerst vorsichtig auf den schlammigen Wegen der Burgruine, bevor es ins Museum geht.\n\nVerbringen Sie den Abend zum Aufwärmen in einem Café, um nach den nassen Erkundungen zu trocknen.",
+            "hu": "Kezdje a reggelt a kulturális központban, tökéletes menedéket keresve a szitáló eső elől.\n\nDélben keljen át a nedves sétányon, és találjon száraz menedéket a történelmi templomban.\n\nDélután óvatosan lépkedjen a várromokhoz vezető saras ösvényeken, majd irány a textilmúzeum.\n\nEste melegedjen fel egy helyi kávézóban, és szárítkozzon meg az esős gyalogos városnézés után.",
+            "ro": "Începeți dimineața la sala culturală pentru a scăpa de burnița rece și neplăcută.\n\nLa prânz, traversați esplanada umedă și găsiți un refugiu uscat în interiorul bisericii istorice.\n\nDupă-amiaza, parcurgeți cu grijă potecile noroioase de la ruinele castelului înainte de a merge la muzeu.\n\nPetreceți seara încălzindu-vă într-o cafenea locală, uscându-vă după o zi ploioasă de explorare.",
+            "en": "Start your morning at the cultural hall to escape the persistent heavy drizzle.\n\nBy midday, cross the wet Esplanade to find completely dry refuge inside the historic stone church.\n\nIn the afternoon, carefully navigate muddy trails at the castle ruins before retreating to the museum.\n\nSpend your evening warming up in a local café, drying off from the rainy day's walking exploration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salle Marie-Christine Barrault",
+                "hu": "Salle Marie-Christine Barrault",
+                "ro": "Sala Marie-Christine Barrault",
+                "en": "Salle Marie-Christine Barrault"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in diesem Kulturzentrum, wo Sie lokale Kunstwerke genießen können, völlig geschützt vor dem starken morgendlichen Regen.",
+                "hu": "Keressen menedéket ebben a pezsgő kulturális központban, ahol élvezheti a helyi művészeteket, teljesen védve a kinti heves reggeli esőzéstől.",
+                "ro": "Refugiați-vă în acest centru cultural vibrant unde puteți admira arta locală, fiind complet la adăpost de ploile abundente ale dimineții.",
+                "en": "Take refuge in this vibrant cultural center where you can enjoy local art and events completely sheltered from the heavy morning rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la Concorde",
+                "hu": "Esplanade de la Concorde",
+                "ro": "Esplanada Concordei",
+                "en": "Esplanade de la Concorde"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie diesen offenen Platz im Regen vorsichtig und bewundern Sie das glänzende, nasse Pflaster unter Ihrem stabilen Regenschirm.",
+                "hu": "Óvatosan keljen át ezen a nyitott téren az esőben, de szánjon egy percet a csillogó, nedves kövek megcsodálására a stabil esernyője alól.",
+                "ro": "Traversați acest spațiu civic deschis cu grijă în ploaie, dar luați-vă un moment pentru a admira pavajul umed și strălucitor sub umbrelă.",
+                "en": "Cross this open civic space carefully in the rain, but take a moment to admire the glistening wet pavements and statues under your sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sofortige Zuflucht vor dem Platzregen in dieser historischen Kirche und nehmen Sie sich Zeit, die Buntglasfenster ohne Eile zu bewundern.",
+                "hu": "Keressen azonnali menedéket a felhőszakadás elől ebben a történelmi templomban, és rohanás nélkül csodálja meg a bonyolult ólomüveg ablakokat.",
+                "ro": "Căutați refugiu imediat din calea averselor în această biserică istorică, luându-vă timp să admirați vitraliile complicate fără a vă grăbi.",
+                "en": "Seek immediate refuge from the downpour inside this historic stone church, taking time to admire the intricate stained glass without any rushing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château féodal de Lavelanet",
+                "hu": "Lavelanet-i feudális várromok",
+                "ro": "Ruinele Castelului feudal din Lavelanet",
+                "en": "Ruins of the Feudal Castle of Lavelanet"
+              },
+              "tip_5lang": {
+                "de": "Der steile Weg zu diesen faszinierenden Ruinen wird bei Regen außergewöhnlich schlammig und rutschig, daher sind wasserdichte Stiefel Pflicht.",
+                "hu": "A lenyűgöző középkori romokhoz vezető meredek ösvény esőben rendkívül saras és csúszós lesz, így a vízálló bakancs viselése szigorúan kötelező.",
+                "ro": "Poteca abruptă spre aceste ruine medievale fascinante devine extrem de noroioasă și alunecoasă pe ploaie, deci ghetele impermeabile sunt obligatorii.",
+                "en": "The steep path to these fascinating medieval ruins becomes exceptionally muddy and slippery in the rain, so waterproof boots are strictly required."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Textile et du Peigne en Corne",
+                "hu": "Textil- és Szarufésű Múzeum",
+                "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+                "en": "Museum of Textile and Horn Comb"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Reise in diesem großen, trockenen Museum, wo Sie fernab des rauen Wetters bequem mehr über die Kammherstellung erfahren.",
+                "hu": "Fejezze be nedves útját ebben a hatalmas, száraz múzeumban, ahol kényelmesen, a zord időjárástól védve ismerkedhet meg a szarufésű-készítéssel.",
+                "ro": "Încheiați-vă călătoria umedă în acest muzeu uscat, unde puteți învăța confortabil despre fabricarea pieptenilor de corn, departe de vremea rea.",
+                "en": "End your wet journey in this extensive, dry indoor museum where you can comfortably learn about local horn comb making away from the harsh weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgen beginnt mit Kultur im Warmen vor einem kühlen Spaziergang über den Platz.\n\nDer Mittag bietet stille Besinnung in der kalten, aber friedlichen Kirche.\n\nNachmittags schwindet das Licht an der Burgruine gegen 17:00 Uhr sehr schnell, genießen Sie also die klare Sicht beizeiten.\n\nDen Abend verbringen Sie am besten beim Aufwärmen im faszinierenden Textilmuseum vor dem Abendessen.",
+            "hu": "A csípős reggel benti kulturális programmal indul, mielőtt átsétálna a fagyos téren.\n\nDélben csendes elmélkedés várja a hideg, de gyönyörűen békés templomban.\n\nDélután a fény már 17:00 óra körül elhalványul a várromoknál, így időben élvezze a kilátást.\n\nAz estét a legérdemesebb a lenyűgöző textilmúzeumban tölteni, hogy teljesen felmelegedjen egy kiadós vacsora előtt.",
+            "ro": "O dimineață geroasă începe cu cultură la interior, urmată de o plimbare răcoroasă prin piață.\n\nPrânzul oferă o reflecție liniștită în biserica rece, dar frumos pacificatoare.\n\nDupă-amiaza lumina scade devreme pe la 17:00 la ruine, deci bucurați-vă de priveliști acum.\n\nSeara este cel mai bine petrecută încălzindu-vă în fascinantul muzeu textil înainte de a lua o cină fierbinte.",
+            "en": "A brisk morning begins with indoor culture before a chilly stroll across the civic square.\n\nMidday offers quiet reflection in the cold but beautifully peaceful church.\n\nAfternoon light fades early around 17:00 at the castle ruins, so enjoy the crisp panoramic views now.\n\nThe evening is best spent thawing out inside the fascinating textile museum before heading to a hearty dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salle Marie-Christine Barrault",
+                "hu": "Salle Marie-Christine Barrault",
+                "ro": "Sala Marie-Christine Barrault",
+                "en": "Salle Marie-Christine Barrault"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kalten Wintermorgen in diesem Kulturzentrum, aber behalten Sie Ihren Mantel an, da die großen Hallen oft noch recht frisch sind.",
+                "hu": "Kezdje a csípős téli reggelt ebben a kulturális térben, de tartsa magán a kabátját, mivel a hatalmas kiállítótermek még mindig meglehetősen hűvösek.",
+                "ro": "Începeți dimineața de iarnă în acest spațiu cultural, dar păstrați haina pe dumneavoastră, deoarece sălile mari de expoziție pot fi destul de reci.",
+                "en": "Start your chilly winter morning inside this cultural venue, but keep your coat on as the large exhibition halls can still feel quite brisk."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la Concorde",
+                "hu": "Esplanade de la Concorde",
+                "ro": "Esplanada Concordei",
+                "en": "Esplanade de la Concorde"
+              },
+              "tip_5lang": {
+                "de": "Wickeln Sie Ihren warmen Schal eng, da oft beißende Winterwinde über diesen offenen Platz wehen, obwohl die frostige Aussicht sehr fotogen ist.",
+                "hu": "Tekerje szorosan nyaka köré meleg sálját, mivel a nyitott téren gyakran csípős téli szelek fújnak, bár a fagyos reggeli látvány nagyon fotogén.",
+                "ro": "Înfășurați-vă bine fularul cald, deoarece vânturile aspre de iarnă străbat adesea această piață, deși priveliștile matinale geroase sunt fotogenice.",
+                "en": "Wrap your warm scarf tightly as biting winter winds often sweep across this open square, though the frosty morning views are highly photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Das alte Steininnere der Kirche hält die eiskalte Luft, behalten Sie also Ihre Handschuhe an, während Sie die ruhige, winterliche Atmosphäre bewundern.",
+                "hu": "A templom ősi kőbelsője megtartja a fagyos hideget, ezért hagyja magán a kesztyűt, miközben megcsodálja a csendes, télies atmoszférát.",
+                "ro": "Interiorul din piatră al bisericii menține un frig pătrunzător, așa că păstrați mănușile în timp ce admirați atmosfera liniștită și de iarnă.",
+                "en": "The ancient stone interior of the church holds the freezing cold, so keep your gloves on while admiring the quiet, wintery atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château féodal de Lavelanet",
+                "hu": "Lavelanet-i feudális várromok",
+                "ro": "Ruinele Castelului feudal din Lavelanet",
+                "en": "Ruins of the Feudal Castle of Lavelanet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Ruinen deutlich vor 17:00 Uhr, da der frühe Sonnenuntergang eiskalte Temperaturen und schlechte Sicht auf den felsigen Wegen bringt.",
+                "hu": "Látogassa meg ezeket a romokat jóval 17:00 óra előtt, mivel a korai téli naplemente fagyos hőmérsékletet és rossz látási viszonyokat hoz az utakra.",
+                "ro": "Vizitați aceste ruine cu mult înainte de ora 17:00, deoarece apusul timpuriu aduce temperaturi de îngheț și vizibilitate redusă pe traseele stâncoase.",
+                "en": "Visit these panoramic ruins well before 17:00, as the early winter sunset brings freezing temperatures and poor visibility on the rocky trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Textile et du Peigne en Corne",
+                "hu": "Textil- és Szarufésű Múzeum",
+                "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+                "en": "Museum of Textile and Horn Comb"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Hände in diesem warmen Museum auf und erkunden Sie die reiche Industriegeschichte von Lavelanet bequem in Ihrem eigenen Tempo.",
+                "hu": "Olvassza fel fagyos kezeit ebben a meleg, barátságos múzeumban, miközben kényelmesen, a saját tempójában fedezi fel Lavelanet gazdag ipartörténetét.",
+                "ro": "Încălziți-vă mâinile înghețate în acest muzeu primitor în timp ce explorați patrimoniul industrial bogat al orașului Lavelanet în ritmul propriu.",
+                "en": "Thaw your freezing hands in this warm, welcoming museum while exploring Lavelanet's rich industrial heritage comfortably at your own pace."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a napot friss élményekkel a helyi piacon, majd tekerjen kényelmesen a lenyűgöző Textilmúzeumhoz.\n\nDélben tartson egy pihentető szünetet a város szívében található pezsgő Esplanade de la Concorde téren.\n\nDélután látogasson el a várromokhoz és a közeli templomhoz, hogy megcsodálja a történelmi építészetet.\n\nZárja a kerékpártúrát egy festői utazással a hangulatos Église de la Nativité templomhoz a lemenő nap fényében.",
         "ro": "Începeți cu impresii proaspete la piața locală, apoi pedalați relaxat către fascinantul Muzeu al Textilelor.\n\nLa prânz, faceți o pauză binemeritată la animata Esplanade de la Concorde, chiar în inima orașului.\n\nDupă-amiaza, vizitați ruinele castelului și biserica din apropiere pentru a admira arhitectura istorică.\n\nÎncheiați turul cu bicicleta printr-o plimbare pitorească spre fermecătoarea Église de la Nativité în lumina serii.",
         "en": "Kick off your morning with fresh sights and flavors at the local market, then pedal over to the fascinating Textile Museum.\n\nAt midday, take a well-deserved break at the bustling Esplanade de la Concorde right in the city center.\n\nSpend your afternoon exploring the medieval castle ruins and the nearby historic church architecture.\n\nWrap up your cycling adventure with a scenic twilight ride towards the charming Église de la Nativité."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Morgen auf dem überdachten Markt und holen Sie sich Leckereien, während Sie dem Regen ausweichen.\n\nDer Mittag ist ideal, um die trockenen, weitläufigen Ausstellungen des Textilmuseums zu erkunden.\n\nNachmittags erfordert das Radfahren auf rutschigen Straßen vorbei am Platz und zu den Kirchen viel Vorsicht.\n\nVerbringen Sie den Abend drinnen, da der Regen den Schlossweg gefährlich macht.",
+            "hu": "Kezdje a nedves reggelt a fedett piacon, helyi finomságokat gyűjtve a heves eső elől elbújva.\n\nDélben tökéletes alkalom nyílik a textilmúzeum száraz, tágas kiállításainak felfedezésére.\n\nDélután óvatos kerékpározást igényelnek a csúszós utak a tér és a történelmi templomok felé.\n\nAz estét töltse biztonságosan bent, mivel az eső miatt a vár ösvényei sötétedés után nagyon veszélyesek.",
+            "ro": "Începeți dimineața ploioasă la piața acoperită, cumpărând bunătăți locale în timp ce evitați ploaia.\n\nPrânzul este perfect pentru a explora expozițiile extinse și uscate ale muzeului textil.\n\nDupă-amiaza necesită ciclism atent pe străzile alunecoase pe lângă piață și spre biserici.\n\nPetreceți seara în siguranță la interior, deoarece ploaia face potecile castelului prea periculoase noaptea.",
+            "en": "Start your wet morning at the covered market, grabbing local treats while safely dodging the rain.\n\nMidday is perfect for exploring the completely dry, expansive exhibits of the textile museum.\n\nAfternoon requires very careful cycling on slick, slippery roads past the square to the churches.\n\nSpend the evening indoors safely, as the relentless rain makes the castle trails too dangerous after dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marché de Lavelanet",
+                "hu": "Lavelanet-i piac",
+                "ro": "Piața din Lavelanet",
+                "en": "Lavelanet Market"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Fahrt auf dem überdachten Markt, holen Sie sich warme Leckereien und weichen Sie dem Morgenregen aus, bevor Sie weiterradeln.",
+                "hu": "Kezdje nedves útját a fedett piacon, szerezzen be forró helyi finomságokat, biztonságosan elkerülve a reggeli esőt a kerékpározás folytatása előtt.",
+                "ro": "Începeți plimbarea umedă la piața acoperită, luând gustări calde în timp ce evitați în siguranță ploaia matinală înainte de a continua pe bicicletă.",
+                "en": "Start your wet ride at the covered market, grabbing hot local treats while safely dodging the morning rain before continuing your biking journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Textile et du Peigne en Corne",
+                "hu": "Textil- és Szarufésű Múzeum",
+                "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+                "en": "Museum of Textile and Horn Comb"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und betreten Sie die trockenen Ausstellungen dieses Museums, ein perfekter Zufluchtsort vor den anhaltenden Regengüssen am Mittag.",
+                "hu": "Parkolja le kerékpárját, és lépjen be a textilmúzeum száraz kiállításaira, amely tökéletes beltéri menedék a kíméletlen déli felhőszakadások elől.",
+                "ro": "Parcați bicicleta și pășiți în expozițiile uscate ale acestui muzeu, o evadare perfectă la interior din calea averselor necruțătoare de la prânz.",
+                "en": "Park your bike and step into the dry, expansive exhibits of this textile museum, a perfect indoor escape from the relentless midday downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la Concorde",
+                "hu": "Esplanade de la Concorde",
+                "ro": "Esplanada Concordei",
+                "en": "Esplanade de la Concorde"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig über die nassen, extrem rutschigen Pflastersteine dieses Platzes und stellen Sie sicher, dass Ihre Bremsen im Regen gut reagieren.",
+                "hu": "Óvatosan kerékpározzon át a tér nedves, csúszós macskakövein, és ügyeljen arra, hogy a fékjei megfelelően reagáljanak az esős, nedves körülmények között.",
+                "ro": "Ciclați cu mare grijă peste pietrele umede și alunecoase ale acestei piețe, asigurându-vă că frânele răspund rapid în condițiile de ploaie.",
+                "en": "Cycle carefully across the wet, slippery paving stones of this civic square, making sure your brakes are highly responsive in the rainy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom Radfahren im Regen und betreten Sie diese friedliche Kirche, um sich abzutrocknen und die Architektur zu bewundern.",
+                "hu": "Tartson egy kis szünetet az esőben való kerékpározásban, és lépjen be ebbe a békés templomba megszáradni, miközben megcsodálja az építészeti részleteket.",
+                "ro": "Luați o pauză de la pedalat în ploaie și intrați în această biserică liniștită pentru a vă usca în timp ce admirați detaliile arhitecturale frumoase.",
+                "en": "Take a break from cycling in the rain and step inside this peaceful church to dry off while admiring its completely beautiful architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château féodal de Lavelanet",
+                "hu": "Lavelanet-i feudális várromok",
+                "ro": "Ruinele Castelului feudal din Lavelanet",
+                "en": "Ruins of the Feudal Castle of Lavelanet"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad auf dem letzten Stück zu den Ruinen; die schlammigen Wege sind zum Fahren zu glatt, also machen Sie vorsichtige, bedachte Schritte.",
+                "hu": "Tolja a kerékpárját az utolsó szakaszon a romokig; a saras ösvények túl csúszósak az esőben való lovagláshoz, így tegyen óvatos, kimért lépéseket.",
+                "ro": "Împingeți bicicleta pe ultima porțiune spre ruine; potecile noroioase sunt prea alunecoase pentru a merge pe ploaie, deci faceți pași atenți.",
+                "en": "Push your bike on the final stretch to the ruins; the muddy trails are too slick for riding in the rain, so take careful, strictly measured steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-la-Vierge-Marie",
+                "hu": "Église de la Nativité-de-la-Vierge-Marie",
+                "ro": "Biserica Nașterea Maicii Domnului",
+                "en": "Church of the Nativity of the Virgin Mary"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Radtour in dieser warmen Kirche, die ein ruhiges Heiligtum bietet, um die Beine auszuruhen und dem Abendregen zu entfliehen.",
+                "hu": "Fejezze be nyirkos biciklitúráját ebben a meleg templomban, amely csendes szentélyt kínál a lábak pihentetésére és az esti szitálás elől való menekülésre.",
+                "ro": "Încheiați turul umed pe bicicletă în interiorul acestei biserici calde, oferind un sanctuar liniștit pentru a vă odihni picioarele și a scăpa de ploaie.",
+                "en": "End your damp biking tour inside this warm, serene church, offering a quiet sanctuary to rest your tired legs and entirely escape the evening drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie der winterlichen Morgenkälte auf dem lebhaften lokalen Markt, bevor Sie für ein Heißgetränk anhalten.\n\nDer Mittag wärmt Sie in dem faszinierenden, historisch reichen Textilmuseum wieder auf.\n\nNachmittägliches Radfahren erfordert zusätzliche Kleidungsschichten beim Besuch der Kirchen.\n\nBeenden Sie Ihre abendliche Fahrt vor 17:00 Uhr an der Burgruine, um die eisigen Temperaturen zu vermeiden.",
+            "hu": "Dacoljon a téli reggeli hideggel a nyüzsgő helyi piacon, mielőtt megállna egy forró italra felmelegedni.\n\nDélben felmelegedhet a lenyűgöző, történelmileg gazdag textilmúzeum falai között.\n\nDélutáni kerékpározáshoz vastag extra rétegek kellenek, miközben a templomokat és a fagyos teret járja.\n\nFejezze be az esti túrát 17:00 előtt a várromoknál, hogy mindenképp elkerülje a fagyos sötétedést.",
+            "ro": "Înfruntați frigul dimineții de iarnă la piața vibrantă înainte de a vă opri pentru o băutură caldă.\n\nPrânzul vă încălzește în interiorul fascinantului muzeu textil, bogat în istorie locală.\n\nCiclismul de după-amiază necesită straturi suplimentare în timp ce vizitați bisericile și piața rece.\n\nÎncheiați plimbarea de seară înainte de 17:00 la ruine pentru a evita temperaturile de îngheț.",
+            "en": "Brave the winter morning cold at the vibrant local market before stopping for a quick hot drink.\n\nMidday completely warms you up inside the fascinating, historically rich textile museum.\n\nAfternoon cycling requires extra warm layers as you visit the churches and brisk civic square.\n\nWrap up your evening ride well before 17:00 at the castle ruins to perfectly avoid freezing dusk temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marché de Lavelanet",
+                "hu": "Lavelanet-i piac",
+                "ro": "Piața din Lavelanet",
+                "en": "Lavelanet Market"
+              },
+              "tip_5lang": {
+                "de": "Trotzen Sie der Winterkälte auf diesem lebhaften Markt; holen Sie sich ein heißes Getränk zum Aufwärmen, bevor Sie wieder auf den eiskalten Sattel steigen.",
+                "hu": "Dacoljon a téli hideggel ezen a nyüzsgő piacon; vegyen egy forró italt, hogy felmelegítse magát, mielőtt visszapattanna a jéghideg kerékpárnyeregbe.",
+                "ro": "Înfruntați frigul iernii explorând această piață; luați o băutură caldă pentru a vă încălzi înainte de a urca din nou pe șaua înghețată a bicicletei.",
+                "en": "Brave the winter morning cold by browsing this vibrant market; grab a hot drink to warm your core before hopping back onto your totally freezing saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Textile et du Peigne en Corne",
+                "hu": "Textil- és Szarufésű Múzeum",
+                "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+                "en": "Museum of Textile and Horn Comb"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Frost am Mittag und erkunden Sie dieses faszinierende Textilmuseum, in dem Ihre kalten Finger vollständig auftauen können.",
+                "hu": "Meneküljön a déli fagy elől, és fedezze fel ezt a lenyűgöző textilmúzeumot, amely lehetővé teszi, hogy áthűlt ujjai teljesen felolvadjanak.",
+                "ro": "Scăpați de gerul prânzului explorând acest muzeu textil fascinant, permițând degetelor dumneavoastră înghețate să se dezghețe complet la căldură.",
+                "en": "Escape the midday frost by safely exploring this fascinating, historically rich textile museum, naturally allowing your chilled fingers to thaw completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la Concorde",
+                "hu": "Esplanade de la Concorde",
+                "ro": "Esplanada Concordei",
+                "en": "Esplanade de la Concorde"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf versteckte Eisflächen, wenn Sie über diesen Platz radeln, wo die frischen Winterwinde besonders scharf und unerbittlich wehen.",
+                "hu": "Ügyeljen a rejtett jégfoltokra, miközben átkerekezik ezen a nyitott téren, ahol a csípős téli szelek különösen élesek és kíméletlenek tudnak lenni.",
+                "ro": "Atenție la porțiunile de gheață ascunse în timp ce pedalați prin această piață civică, unde vânturile tăioase de iarnă sunt deosebit de aspre.",
+                "en": "Watch securely for hidden ice patches while cycling across this open civic square, where the crisp winter winds are consistently sharp and unforgiving."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Das majestätische Steininnere bewahrt die Winterkälte; behalten Sie Ihre Radkleidung an, während Sie in der friedlichen Stille der Kirche innehalten.",
+                "hu": "A fenséges kőbelső megőrzi a téli hideget, így tartsa magán a kerékpáros ruházatot, miközben szünetet tart a békés, csendes templomhajóban.",
+                "ro": "Interiorul din piatră păstrează frigul iernii, așa că purtați straturile de ciclism în timp ce faceți o pauză pentru a reflecta în naosul liniștit.",
+                "en": "The majestic stone interior perfectly retains the winter chill, so keep your cycling layers on while you pause to reflect in the peaceful, quiet nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château féodal de Lavelanet",
+                "hu": "Lavelanet-i feudális várromok",
+                "ro": "Ruinele Castelului feudal din Lavelanet",
+                "en": "Ruins of the Feudal Castle of Lavelanet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie diese Ruinen vor 17:00 Uhr erreichen; die Temperatur sinkt extrem schnell und die Radwege werden im Dunkeln tückisch.",
+                "hu": "Ügyeljen arra, hogy a 17:00 órai naplemente előtt elérje ezeket a romokat; a hőmérséklet gyorsan csökken, és a sziklás utak sötétben veszélyessé válnak.",
+                "ro": "Asigurați-vă că ajungeți la aceste ruine înainte de apusul de la 17:00; temperatura scade rapid, iar cărările pentru ciclism devin periculoase pe întuneric.",
+                "en": "Make thoroughly sure to reach these ruins before the 17:00 sunset; the temperature drops rapidly and the rocky cycling paths become treacherous in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-la-Vierge-Marie",
+                "hu": "Église de la Nativité-de-la-Vierge-Marie",
+                "ro": "Biserica Nașterea Maicii Domnului",
+                "en": "Church of the Nativity of the Virgin Mary"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre rasante Winterfahrt an dieser historischen Kirche ab; ein friedlicher Halt, um sich mental aufzuwärmen, bevor es zum Abendessen geht.",
+                "hu": "Fejezze be csípős téli kerékpározását ennél a történelmi templomnál, amely egy békés megálló a mentális felmelegedésre a bőséges beltéri vacsora előtt.",
+                "ro": "Încheiați cursa de iarnă la această biserică istorică, o oprire pașnică pentru a vă încălzi mental înainte de a vă retrage la interior pentru cină.",
+                "en": "Conclude your brisk winter ride at this historic church, offering a completely peaceful stop to mentally warm up before retreating indoors for a hearty dinner."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós útját a keleti történelmi templomnál, majd látogasson el a nyüzsgő piacra egy kis frissítőért.\n\nTöltse a delet a Textilmúzeumban, majd tartson egy pihentető megállót a központi Esplanade téren.\n\nDélután vegye az irányt a várromok felé, és csodálja meg a fenséges Église Notre-Dame-de-l'Assomption templomot.\n\nA nap egy csendes autózással zárul az Église de la Nativité templomhoz, amely az esti fényekben tündököl.",
         "ro": "Începeți traseul la biserica istorică din est, apoi conduceți spre piața plină de viață pentru a degusta produse locale.\n\nPetreceți amiaza la Muzeul Textilelor și faceți o scurtă oprire relaxantă la Esplanade din centrul orașului.\n\nDupă-amiaza, îndreptați-vă spre ruinele castelului și admirați măreața Église Notre-Dame-de-l'Assomption.\n\nZiua se încheie cu o plimbare liniștită spre Église de la Nativité, care arată superb în lumina blândă a serii.",
         "en": "Start your drive at the historic eastern church before heading to the bustling market to pick up some local delicacies.\n\nSpend your midday exploring the Textile Museum and enjoy a quick, refreshing stop at the central Esplanade.\n\nIn the afternoon, drive up to the castle ruins and take time to admire the majestic Église Notre-Dame-de-l'Assomption.\n\nConclude your road trip with a peaceful drive to the Église de la Nativité, beautifully bathed in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zur ersten Kirche und nutzen Sie Ihr Auto als warmen Schutzschild vor den heftigen Regengüssen.\n\nMittags erkunden Sie den überdachten Markt und das trockene Textilmuseum, ohne völlig durchnässt zu werden.\n\nNachmittags bedeutet das Fahren, auf nassen Straßen zu den rutschigen Burgruinen zu navigieren.\n\nVerbringen Sie den Abend bei einer warmen Mahlzeit drinnen und lassen Sie die Scheibenwischer ruhen.",
+            "hu": "Vezessen el a reggeli templomlátogatásra, kényelmes autóját meleg pajzsként használva a heves esőzések ellen.\n\nDélben fedezze fel a fedett piacot és a száraz textilmúzeumot anélkül, hogy az utcán bőrig ázna.\n\nDélután a nedves utakon kell navigálnia a többi templomhoz és a nagyon csúszós várromokhoz.\n\nAz estét töltse egy meleg vacsorával bent, hosszú pihenőt adva a sokat dolgozó ablaktörlőknek éjszakára.",
+            "ro": "Mergeți cu mașina la biserica de dimineață, folosind vehiculul ca un scut cald împotriva averselor puternice.\n\nLa prânz explorați piața acoperită și muzeul textil complet uscat, fără a fi deloc uzi.\n\nCondusul de după-amiază presupune navigarea pe străzi ude către biserici și ruinele alunecoase.\n\nPetreceți seara savurând o masă caldă în interior, lăsând ștergătoarele mașinii să se odihnească noaptea.",
+            "en": "Drive to the morning church service, effectively using your car as a warm shield from the heavy, persistent downpours.\n\nMidday finds you exploring the covered market and dry textile museum without ever getting soaked.\n\nAfternoon driving means safely navigating wet roads to the remaining churches and slippery castle ruins.\n\nSpend the evening enjoying a warm meal indoors, letting the overworked car wipers totally rest for the night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de la Décollation-de-Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Tăierea Capului Sfântului Ioan Botezătorul",
+                "en": "Church of the Beheading of Saint John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Ihr Auto als Schild vor dem Morgenregen und steigen Sie nur kurz mit Regenschirm aus, um diese wunderschöne historische Kirche zu bewundern.",
+                "hu": "Használja autóját pajzsként a reggeli felhőszakadás ellen, és csak röviden szálljon ki esernyővel, hogy megcsodálja ezt a gyönyörű történelmi templomot.",
+                "ro": "Folosiți mașina ca scut cald împotriva ploii matinale, coborând scurt cu o umbrelă pentru a admira această biserică istorică absolut superbă.",
+                "en": "Use your securely parked car as a warm shield from the morning downpour, stepping out briefly with an umbrella to admire this beautifully historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché de Lavelanet",
+                "hu": "Lavelanet-i piac",
+                "ro": "Piața din Lavelanet",
+                "en": "Lavelanet Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie schnell in den überdachten Markt, um lokale Produkte zu genießen, ohne vom Regen völlig durchnässt zu werden.",
+                "hu": "Parkoljon a közelben, és rohanjon be a fedett piacra, hogy élvezze a friss helyi termékeket anélkül, hogy a kíméletlen heves eső teljesen eláztatná.",
+                "ro": "Parcați în apropiere și fugiți în piața acoperită pentru a vă bucura de produse locale proaspete fără a vă uda complet de ploaia necruțătoare.",
+                "en": "Park nearby and dash swiftly into the covered market to enjoy fresh local produce without ever getting completely soaked by the relentless heavy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Textile et du Peigne en Corne",
+                "hu": "Textil- és Szarufésű Múzeum",
+                "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+                "en": "Museum of Textile and Horn Comb"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen trockenen Ausflug in die industrielle Vergangenheit; dieses große Indoor-Museum ist ideal, um die schlimmsten Mittagsstürme abzuwarten.",
+                "hu": "Élvezze a száraz, lenyűgöző kitérőt az ipari múltba; ez a nagy beltéri múzeum ideális a legrosszabb déli viharok biztonságos átvészelésére.",
+                "ro": "Bucurați-vă de un ocol uscat și fascinant în trecutul industrial; acest muzeu mare este ideal pentru a aștepta trecerea celor mai rele furtuni de prânz.",
+                "en": "Enjoy a dry, utterly fascinating detour into local industrial past; this large indoor museum is absolutely ideal for waiting out the worst midday rain storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la Concorde",
+                "hu": "Esplanade de la Concorde",
+                "ro": "Esplanada Concordei",
+                "en": "Esplanade de la Concorde"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an diesem Platz vorbei, da starker Regen die Sicht einschränkt; betrachten Sie die glänzenden nassen Denkmäler bequem aus dem Auto.",
+                "hu": "Hajtson lassan el ezen a téren, mivel a heves eső rontja a látási viszonyokat; értékelje a csillogó, nedves műemlékeket kényelmesen az autójából.",
+                "ro": "Conduceți încet pe lângă această piață, deoarece ploaia scade vizibilitatea; apreciați monumentele umede strălucitoare din confortul mașinii.",
+                "en": "Drive slowly past this open square, as heavy rain severely reduces visibility; proudly appreciate the gleaming wet monuments purely from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château féodal de Lavelanet",
+                "hu": "Lavelanet-i feudális várromok",
+                "ro": "Ruinele Castelului feudal din Lavelanet",
+                "en": "Ruins of the Feudal Castle of Lavelanet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Fuß und tragen Sie wasserdichte Stiefel; der Weg hinauf zu den Ruinen ist kurz, wird aber bei nassem Wetter notorisch schlammig.",
+                "hu": "Parkoljon óvatosan az alján, és viseljen vízálló bakancsot; a romokhoz vezető ösvény rövid, de nedves időben hírhedten sarassá és csúszóssá válik.",
+                "ro": "Parcați cu atenție la bază și purtați cizme impermeabile; poteca spre ruine este scurtă, dar devine extrem de noroioasă pe vreme umedă.",
+                "en": "Park carefully at the base and heavily wear sturdy waterproof boots; the short trail up to the ruins becomes entirely and notoriously muddy in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Huschen Sie von Ihrem geparkten Auto in diese prächtige Steinkirche, schütteln Sie Ihren Regenschirm aus und genießen Sie einen trockenen, ruhigen Moment.",
+                "hu": "Rohanjon be parkoló autójából ebbe a csodálatos kőtemplomba, rázza le esernyőjét, és élvezze a csendes, száraz történelmi elmélkedés pillanatait.",
+                "ro": "Fugiți din mașina parcată în această magnifică biserică de piatră, scuturând umbrela pentru a vă bucura de un moment uscat și liniștit de reflecție.",
+                "en": "Dash swiftly from your parked car into this magnificent stone church, shaking off your umbrella to completely enjoy a quiet, dry moment of historical reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-la-Vierge-Marie",
+                "hu": "Église de la Nativité-de-la-Vierge-Marie",
+                "ro": "Biserica Nașterea Maicii Domnului",
+                "en": "Church of the Nativity of the Virgin Mary"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihren regnerischen Roadtrip; das große Innere bietet ein trockenes Heiligtum, perfekt, um den Tag vor einem warmen Abendessen ausklingen zu lassen.",
+                "hu": "Fejezze be itt esős autós utazását; a grandiózus belső tér száraz szentélyt kínál, amely tökéletes a nap lezárására egy forró, hangulatos vacsora előtt.",
+                "ro": "Terminați călătoria ploioasă aici; interiorul grandios oferă un sanctuar uscat, perfect pentru a vă încheia ziua înainte de a conduce spre o cină caldă.",
+                "en": "Finish your perfectly rainy road trip right here; the grand interior seamlessly offers a dry sanctuary, ideal for ending your day before driving to a warm dinner."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie Ihr Auto für einen frostigen Morgenbesuch bei der allerersten historischen Kirche des Tages auf.\n\nDer Mittag bringt geschäftiges Markttreiben und einen absolut warmen Rückzugsort im riesigen Textilmuseum.\n\nNachmittagsfahrten sind malerisch, aber achten Sie auf gefährliche Eisflächen nahe der Burgruine.\n\nDa der Abend um 17:00 Uhr sehr schnell hereinbricht, beenden Sie Ihre Kirchentour und suchen Sie rechtzeitig ein Restaurant.",
+            "hu": "Melegítse be autóját egy fagyos reggeli látogatáshoz a nap legelső, pompás történelmi templomához.\n\nDélben a nyüzsgő piac és a kiterjedt textilmúzeum biztosít meleg és védett menedéket a látogatóknak.\n\nDélutáni autózása festői, de kifejezetten figyeljen a veszélyes jeges foltokra a várromok környékén.\n\nMivel az este 17:00-kor gyorsan leszáll, fejezze be a templomnézést és keressen egy hangulatos, meleg éttermet.",
+            "ro": "Încălziți-vă mașina pentru o vizită matinală geroasă la prima biserică istorică a zilei dumneavoastră.\n\nPrânzul aduce mulțimi aglomerate la piață și un refugiu cald în impresionantul muzeu textil extins.\n\nPlimbările de după-amiază sunt pitorești, dar fiți atenți la petele de gheață periculoase de lângă ruine.\n\nOdată cu lăsarea serii rapide la 17:00, terminați turul bisericilor și mergeți spre un restaurant confortabil.",
+            "en": "Warm up your car significantly for a frosty morning visit strictly to the first historic church of the day.\n\nMidday gracefully brings bustling market crowds and a perfectly warm retreat into the extensive textile museum.\n\nAfternoon drives are very scenic but keep a close eye out for dangerous icy patches near the castle ruins.\n\nAs evening reliably falls quickly by 17:00, finish your church tours and immediately head towards a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de la Décollation-de-Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Tăierea Capului Sfântului Ioan Botezătorul",
+                "en": "Church of the Beheading of Saint John the Baptist"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Autoheizung an diesem frostigen Morgen laufen, während Sie diese Kirche besuchen, und hüllen Sie sich warm gegen die kalte Winterluft ein.",
+                "hu": "Járassa az autó fűtését ezen a fagyos reggelen, miközben meglátogatja az első templomot, alaposan beburkolózva a csípős, metsző téli levegő ellen.",
+                "ro": "Lăsați căldura pornită în mașină în această dimineață geroasă în timp ce vizitați prima biserică, înfofoliți bine împotriva aerului de iarnă mușcător.",
+                "en": "Keep the car heater running on this frosty morning as you securely visit this first historic church, heavily bundled up tightly against the biting winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Marché de Lavelanet",
+                "hu": "Lavelanet-i piac",
+                "ro": "Piața din Lavelanet",
+                "en": "Lavelanet Market"
+              },
+              "tip_5lang": {
+                "de": "Trotzen Sie dem knackigen Wintermorgen, um lokale Delikatessen zu kaufen, und ziehen Sie sich dann schnell mit einem heißen Kaffee ins warme Auto zurück.",
+                "hu": "Dacoljon a csípős téli reggel hidegével, vásároljon helyi finomságokat, majd egy forró kávéval gyorsan vonuljon vissza a meleg, kényelmes járművébe.",
+                "ro": "Înfruntați dimineața aspră de iarnă pentru a cumpăra delicatese, apoi retrageți-vă rapid în căldura mașinii dumneavoastră cu o cafea fierbinte.",
+                "en": "Brave the completely crisp winter morning to buy local delicacies at the market, then quickly retreat specifically to the pure warmth of your vehicle with coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Textile et du Peigne en Corne",
+                "hu": "Textil- és Szarufésű Múzeum",
+                "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+                "en": "Museum of Textile and Horn Comb"
+              },
+              "tip_5lang": {
+                "de": "Dieses große Indoor-Museum bietet einen perfekt beheizten Rückzugsort am Mittag, um mehr über die Textilgeschichte fernab der eisigen Winde zu lernen.",
+                "hu": "Ez a hatalmas beltéri múzeum tökéletesen fűtött déli menedéket nyújt, hogy megismerje a textilipart, teljesen távol a kinti, fagyos és kíméletlen szelektől.",
+                "ro": "Acest muzeu interior extins oferă un refugiu de prânz perfect încălzit pentru a învăța despre istoria textilelor departe de vânturile reci de afară.",
+                "en": "This extensive indoor museum consistently provides a perfectly heated midday retreat to learn strictly about textile history away from the freezing outdoor winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Esplanade de la Concorde",
+                "hu": "Esplanade de la Concorde",
+                "ro": "Esplanada Concordei",
+                "en": "Esplanade de la Concorde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frostigen, malerischen Aussichten auf diesen Platz sicher aus Ihren Autofenstern und steigen Sie nur kurz für ein schnelles Foto aus.",
+                "hu": "Élvezze a tér fagyos, de festői látványát biztonságosan, az autó meleg ablakaiból, és csak egy röpke pillanatra szálljon ki megörökíteni a téli napfényt.",
+                "ro": "Bucurați-vă de priveliștile pitorești și înghețate ale acestei piețe de la ferestrele mașinii, coborând doar scurt pentru a surprinde lumina soarelui.",
+                "en": "Enjoy the fully frosty, picturesque views of this civic space comfortably from your car windows, stepping out solely and briefly to capture the winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château féodal de Lavelanet",
+                "hu": "Lavelanet-i feudális várromok",
+                "ro": "Ruinele Castelului feudal din Lavelanet",
+                "en": "Ruins of the Feudal Castle of Lavelanet"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vor 17:00 Uhr hoch; der frühe Sonnenuntergang verwandelt die Ruinen in eine eiskalte, schattige Landschaft, in der Eisflächen gefährlich sind.",
+                "hu": "Mindenképp hajtson fel 17:00 óra előtt; a korai naplemente a középkori romokat fagyos, árnyékos tájjá változtatja, ahol a rejtett jégfoltok igen veszélyesek.",
+                "ro": "Conduceți până sus înainte de 17:00; apusul devreme transformă ruinele într-un peisaj înghețat, umbrit, unde petele de gheață pot fi extrem de periculoase.",
+                "en": "Drive completely up before 17:00; the surprisingly early sunset turns the medieval ruins into a freezing, shadowy landscape where ice patches can be quite dangerous."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of the Assumption of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, wenn Sie das Auto verlassen; das atemberaubende Steininnere dieser Kirche ist oft genauso eiskalt wie die Winterluft draußen.",
+                "hu": "Öltözzön fel melegen, amikor elhagyja járművét; e templom lenyűgöző, gyönyörű kőbelsője ugyanis gyakran éppolyan hideg tud lenni, mint maga a kinti téli levegő.",
+                "ro": "Îmbrăcați-vă gros când părăsiți mașina; interiorul uimitor din piatră al acestei biserici este frumos, dar adesea pare la fel de rece ca aerul de iarnă.",
+                "en": "Bundle up completely as you leave your vehicle; the stunningly stone interior of this beautiful church remarkably often feels as cold as the direct winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-la-Vierge-Marie",
+                "hu": "Église de la Nativité-de-la-Vierge-Marie",
+                "ro": "Biserica Nașterea Maicii Domnului",
+                "en": "Church of the Nativity of the Virgin Mary"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre winterliche Route sicher ab, bevor die Dunkelheit hereinbricht, und bewundern Sie dieses Juwel, bevor Sie ein warmes Gasthaus finden.",
+                "hu": "Fejezze be téli autós körútját még azelőtt, hogy a sötétség teljesen beállna, megcsodálva ezt az utolsó történelmi gyöngyszemet a bőséges, meleg vacsora előtt.",
+                "ro": "Încheiați-vă traseul de iarnă în siguranță înainte să se întunece complet, admirând această ultimă bijuterie istorică înainte de a găsi un han confortabil.",
+                "en": "Conclude your winter driving route completely safely before the dark reliably sets in, admiring this very last historic gem before securely finding a cozy local inn."
+              }
+            }
+          ]
+        }
       }
     }
   }

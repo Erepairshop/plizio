@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a Bonaria templom békés meglátogatásával, majd pihenjen a gyönyörű Spiaggia Centrale strandon. A dél a kultúráé a Museo della Foca Monaca és a nyüzsgő Cineteatro Arena felfedezésével. Délután sétáljon végig a Palmasera tengerpartján, majd látogasson el az akváriumba. Este lazítson a Cala Gonone strandon, miközben a nap lassan lebukik a tenger felett.",
         "ro": "Începeți dimineața cu o vizită liniștită la biserica Bonaria, urmată de o perioadă de relaxare la frumoasa Spiaggia Centrale. Prânzul este dedicat culturii la Museo della Foca Monaca și o oprire la Cineteatro Arena. După-amiaza, plimbați-vă pe plaja Palmasera și explorați acvariul. Seara, relaxați-vă pe plaja Cala Gonone, bucurându-vă de briza blândă a mării.",
         "en": "Start your morning with a tranquil visit to the Bonaria church, followed by a relaxing time at the beautiful Spiaggia Centrale. Midday is dedicated to local culture with explorations of the Museo della Foca Monaca and the lively Cineteatro Arena. In the afternoon, stroll along the Palmasera shoreline and visit the impressive aquarium. Evening concludes with relaxation at Cala Gonone beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt geschützt in der Stille der Bonaria-Kirche. Mittags bietet das Mönchsrobben-Museum einen trockenen Zufluchtsort mit faszinierenden Einblicken in die lokale Naturgeschichte. Der Nachmittag gehört dem modernen Aquarium, wo Sie die Unterwasserwelt ohne nass zu werden erleben können. Der Tag endet mit einem kurzen, erfrischenden Spaziergang am Hafen unter dem Regenschirm.",
+            "hu": "A reggeli eső elől a templom nyugodt, száraz falai között találunk menedéket. Délben a Barátfóka Múzeum interaktív kiállítása nyújt tökéletes fedett programot a tengerparti szélben. Délután az Akvárium modern épülete a legjobb választás, ahol szárazon csodálhatjuk meg a tengeri élővilágot. Este a hullámzó tenger látványa az esernyő alól is különleges hangulatot áraszt a kikötőben.",
+            "ro": "O dimineață ploioasă începe la adăpost în liniștea bisericii Bonaria. La prânz, Muzeul Focii Monah oferă un refugiu uscat cu informații fascinante despre natura locală. După-amiaza aparține modernului Acvariu, unde puteți explora lumea subacvatică fără a vă uda. Ziua se încheie cu o scurtă plimbare revigorantă în port, protejați de umbrelă în fața mării agitate.",
+            "en": "A rainy morning starts sheltered within the quiet walls of the Bonaria church. At noon, the Monk Seal Museum provides a perfect dry escape with fascinating insights into local marine life. The afternoon is best spent at the modern Aquarium, where you can admire the underwater world while staying completely dry. The day ends with a short, atmospheric walk by the harbor under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Bonaria",
+                "hu": "Chiesa di Nostra Signora di Bonaria",
+                "ro": "Chiesa di Nostra Signora di Bonaria",
+                "en": "Chiesa di Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den trockenen Innenraum dieser schlichten Kirche für einen Moment der Besinnung, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Használja ki a templom száraz belső terét egy csendes elmélyülésre, miközben kint az eső kopog a tetőn; a bejáratnál rázza le alaposan az esernyőjét.",
+                "ro": "Folosiți interiorul uscat al acestei biserici simple pentru un moment de liniște în timp ce ploaia bate în acoperiș; scuturați bine umbrela la intrare.",
+                "en": "Take advantage of the dry interior of this simple church for a moment of reflection while the rain drums on the roof; shake your umbrella well at the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Centrale",
+                "hu": "Spiaggia Centrale",
+                "ro": "Spiaggia Centrale",
+                "en": "Spiaggia Centrale"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das faszinierende Spiel der Regentropfen auf der Meeresoberfläche von einem der überdachten Cafés an der Promenade aus.",
+                "hu": "Figyelje meg az esőcseppek különleges játékát a tenger felszínén a sétány egyik fedett kávézójának teraszáról, egy forró olasz kávé mellett.",
+                "ro": "Observați jocul fascinant al picăturilor de ploaie pe suprafața mării de la adăpostul unei cafenele acoperite de pe faleză, cu o cafea caldă.",
+                "en": "Observe the fascinating play of raindrops on the sea surface from the shelter of a covered café along the promenade with a warm coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Foca Monaca",
+                "hu": "Museo della Foca Monaca",
+                "ro": "Museo della Foca Monaca",
+                "en": "Museo della Foca Monaca"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen im Innenbereich bieten eine ideale Gelegenheit, tief in die Biologie der Mönchsrobbe einzutauchen, ohne dem Wetter ausgesetzt zu sein.",
+                "hu": "A beltéri kiállítások ideális lehetőséget nyújtanak a barátfókák életének megismerésére anélkül, hogy kitenné magát az áztató tengerparti esőnek.",
+                "ro": "Expozițiile interioare oferă o oportunitate ideală de a învăța despre biologia focii monah fără a fi expus vremii ploioase de afară.",
+                "en": "The indoor exhibits offer an ideal opportunity to dive deep into the biology of the monk seal without being exposed to the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cineteatro Arena",
+                "hu": "Cineteatro Arena",
+                "ro": "Cineteatro Arena",
+                "en": "Cineteatro Arena"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob kurzfristig Innenveranstaltungen stattfinden, oder bewundern Sie die Architektur im Schnelldurchgang, bevor Sie zum nächsten trockenen Ziel eilen.",
+                "hu": "Ellenőrizze, van-e bent aktuális vetítés, vagy csak vessen egy gyors pillantást az épületre, mielőtt a következő fedett helyszínre sietne az esőben.",
+                "ro": "Verificați dacă există evenimente în interior sau admirați rapid arhitectura înainte de a fugi spre următoarea destinație uscată prin ploaie.",
+                "en": "Check for indoor screenings or take a quick look at the architecture before rushing to the next dry destination to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmasera",
+                "hu": "Palmasera",
+                "ro": "Palmasera",
+                "en": "Palmasera"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Farben der nassen Kieselsteine wirken bei Regen besonders intensiv; ein kurzer Fotostopp lohnt sich trotz der Feuchtigkeit mit wasserfester Kamera.",
+                "hu": "A vizes kavicsok sötét színei esőben különösen intenzívek; egy gyors fotót megér a látvány, de figyeljen a csúszós parti kövekre a sétányon.",
+                "ro": "Culorile închise ale pietrișului umed sunt deosebit de intense pe ploaie; o scurtă oprire foto merită în ciuda umidității de pe faleză.",
+                "en": "The dark colors of the wet pebbles are particularly intense in the rain; a quick photo stop is worth it despite the humidity near the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Cala Gonone",
+                "hu": "Acquario di Cala Gonone",
+                "ro": "Acquario di Cala Gonone",
+                "en": "Acquario di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier die meiste Zeit ein, da das gesamte Gebäude überdacht ist und Sie die Meeresfauna in aller Ruhe im Trockenen bestaunen können.",
+                "hu": "Ide tervezze a legtöbb időt, mivel az egész épület fedett, így zavartalanul csodálhatja meg a tengeri élővilágot a száraz és meleg belső térben.",
+                "ro": "Planificați-vă cea mai mare parte a timpului aici, deoarece întreaga clădire este acoperită, permițându-vă să admirați fauna marină la adăpost.",
+                "en": "Plan to spend most of your time here, as the entire building is covered, allowing you to admire the marine fauna in comfort and dryness."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cala Gonone",
+                "hu": "Spiaggia di Cala Gonone",
+                "ro": "Spiaggia di Cala Gonone",
+                "en": "Spiaggia di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stimmung des leeren Strandes im Regen und achten Sie auf dem Rückweg auf rutschige Pflastersteine im Ort.",
+                "hu": "Élvezze az üres tengerpart melankolikus hangulatát az esőben, de a visszaúton ügyeljen a városka csúszóssá vált utcaköveire és járdáira.",
+                "ro": "Bucurați-vă de atmosfera melancolică a plajei pustii în ploaie și aveți grijă la pavajul alunecos de pe drumul de întoarcere spre oraș.",
+                "en": "Enjoy the melancholic atmosphere of the empty beach in the rain and watch out for slippery cobblestones on your way back through the town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen führt zur friedlichen Kirche, gefolgt von einem belebenden Strandspaziergang in der klaren Luft. Mittags wärmen Sie sich in den informativen Museen auf, während die Sonne tief über dem Golf steht. Der Nachmittag bietet goldene Lichtverhältnisse am Aquarium, ideal für Fotos. Da es gegen 17:00 Uhr dunkel wird, endet der Tag gemütlich bei einem Glas Wein in einem beheizten Lokal.",
+            "hu": "A hűvös téli reggel a békés templomhoz vezet, amit frissítő séta követ a kristálytiszta tengerparti levegőn. Délben a fűtött múzeumokban melegedhetünk fel, miközben a nap alacsonyan jár az öböl felett. Az Akvárium délutáni látogatása után érdemes kihasználni az utolsó fényeket a parton. Mivel 17 óra körül sötétedik, a napot egy hangulatos, fűtött helyi étteremben zárjuk.",
+            "ro": "O dimineață răcoroasă de iarnă duce la biserica liniștită, urmată de o plimbare revigorantă pe plajă în aerul curat. La prânz, încălziți-vă în muzeele informative în timp ce soarele stă jos deasupra golfului. După-amiaza oferă o lumină aurie la Acvariu, perfectă pentru fotografii. Deoarece se întunecă în jur de ora 17:00, încheiați ziua confortabil într-un local încălzit.",
+            "en": "A crisp winter morning leads to the peaceful church, followed by an invigorating walk in the clear coastal air. At noon, warm up inside the informative museums while the sun hangs low over the gulf. The afternoon offers golden light at the Aquarium, perfect for photos before the early sunset. As it gets dark around 17:00, end the day cozily in a heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Bonaria",
+                "hu": "Chiesa di Nostra Signora di Bonaria",
+                "ro": "Chiesa di Nostra Signora di Bonaria",
+                "en": "Chiesa di Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in der Kirche; tragen Sie eine warme Jacke, da historische Steingebäude im Winter oft kühl sind.",
+                "hu": "Élvezze a főszezonon kívüli csendet a templomban; viseljen meleg kabátot, mert a történelmi kőépületek télen gyakran nyirkosak és hűvösek.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului în biserică; purtați o jachetă groasă, deoarece clădirile istorice din piatră sunt reci iarna.",
+                "en": "Enjoy the off-season tranquility in the church; wear a warm jacket as historic stone buildings can be quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Centrale",
+                "hu": "Spiaggia Centrale",
+                "ro": "Spiaggia Centrale",
+                "en": "Spiaggia Centrale"
+              },
+              "tip_5lang": {
+                "de": "Der leere Strand lädt zu einem tiefen Atemzug der salzigen Winterluft ein; die klare Sicht ermöglicht oft den Blick bis weit auf das offene Meer.",
+                "hu": "Az üres strand hívogató a sós téli levegő beszívására; a tiszta látási viszonyok miatt ilyenkor ellátni a legtávolabbi tengeri horizontig.",
+                "ro": "Plaja pustie este perfectă pentru a respira aerul sărat de iarnă; vizibilitatea clară permite adesea vederea până departe spre largul mării.",
+                "en": "The empty beach invites you for a deep breath of salty winter air; the clear visibility often allows views far out into the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Foca Monaca",
+                "hu": "Museo della Foca Monaca",
+                "ro": "Museo della Foca Monaca",
+                "en": "Museo della Foca Monaca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die detaillierten Informationen lassen sich ohne Sommertrubel viel entspannter studieren.",
+                "hu": "Használja a múzeumlátogatást melegedő pihenőként; a részletes kiállítást a nyári tömeg nélkül, sokkal nyugodtabban tanulmányozhatja végig.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; informațiile detaliate pot fi studiate mult mai relaxat fără aglomerația din timpul verii.",
+                "en": "Use the museum visit as a warm-up break; the detailed exhibits can be studied much more relaxedly without the typical summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Cineteatro Arena",
+                "hu": "Cineteatro Arena",
+                "ro": "Cineteatro Arena",
+                "en": "Cineteatro Arena"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Lichtspiel auf der modernen Fassade in der tiefstehenden Wintersonne, bevor Sie den Weg zum Hafen fortsetzen.",
+                "hu": "Csodálja meg az alacsonyan járó téli nap fény játékát a modern homlokzaton, mielőtt folytatná útját a kikötő felé a hűvös szélben.",
+                "ro": "Admirați jocul de lumini pe fațada modernă în soarele jos de iarnă, înainte de a continua drumul spre port prin aerul tăios.",
+                "en": "Admire the play of light on the modern facade in the low winter sun before continuing your walk towards the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmasera",
+                "hu": "Palmasera",
+                "ro": "Palmasera",
+                "en": "Palmasera"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang an der Promenade hält Sie warm; genießen Sie die Einsamkeit an diesem sonst so belebten Ort in vollen Zügen.",
+                "hu": "Egy tempós séta a sétányon melegen tartja; élvezze ki a magányt ezen az egyébként nyüzsgő helyen a téli naplemente előtti percekben.",
+                "ro": "O plimbare vioaie pe faleză vă va ține de cald; bucurați-vă din plin de singurătatea acestui loc de obicei foarte aglomerat.",
+                "en": "A brisk walk along the promenade will keep you warm; enjoy the solitude of this otherwise busy place to the fullest during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Cala Gonone",
+                "hu": "Acquario di Cala Gonone",
+                "ro": "Acquario di Cala Gonone",
+                "en": "Acquario di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Räume machen das Aquarium zum perfekten Zufluchtsort am späten Nachmittag, bevor die früh einsetzende Dunkelheit die Stadt einhüllt.",
+                "hu": "A fűtött termek az Akváriumot tökéletes menedékké teszik késő délután, mielőtt a korai sötétség leszállna a tengerparti városkára.",
+                "ro": "Sălile încălzite fac din Acvariu refugiul perfect la sfârșitul după-amiezii, înainte ca întunericul timpuriu să cuprindă întreg orașul.",
+                "en": "The heated rooms make the Aquarium a perfect sanctuary in the late afternoon before the early darkness envelops the coastal town."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cala Gonone",
+                "hu": "Spiaggia di Cala Gonone",
+                "ro": "Spiaggia di Cala Gonone",
+                "en": "Spiaggia di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang gegen 17:00 Uhr direkt am Meer und kehren Sie dann schnell in den gemütlichen Ortskern zurück.",
+                "hu": "Nézze meg a naplementét 17 óra körül közvetlenül a tengerpartról, majd térjen vissza gyorsan a városka hívogató, fűtött éttermeihez.",
+                "ro": "Urmăriți apusul soarelui în jurul orei 17:00 direct de pe malul mării, apoi întoarceți-vă rapid în centrul primitor al orașului.",
+                "en": "Watch the sunset around 17:00 right by the sea, then quickly return to the cozy, heated atmosphere of the town center for dinner."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Reggel kezdjen a Museo della Foca Monaca-ban, majd látogassa meg a bájos Bonaria templomot és a Spiaggia Centrale-t. Délben tekerjen el a lenyűgöző Nuraghe Arvu-hoz, majd az arénához. Délután élvezze a napsütést a Palmasera strandon, és fedezze fel az akváriumot. Az este egy pihentető sétával zárul a Cala Gonone strandon, tökéletes befejezést adva a napnak.",
         "ro": "Începeți dimineața la Museo della Foca Monaca, vizitând apoi fermecătoarea biserică Bonaria și Spiaggia Centrale. La prânz, pedalați către fascinantul Nuraghe Arvu și opriți la Arena. După-amiaza, bucurați-vă de soare pe plaja Palmasera și explorați acvariul. Seara se încheie cu o plimbare relaxantă pe Spiaggia di Cala Gonone, o încheiere perfectă a zilei pline.",
         "en": "Start your morning at the Museo della Foca Monaca, then visit the charming Bonaria church and Spiaggia Centrale. Midday, pedal out to the fascinating Nuraghe Arvu ruins and stop by the arena. In the afternoon, soak up the sun on Palmasera beach and explore the marine life at the aquarium. The evening winds down with a relaxing stroll along Spiaggia di Cala Gonone."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Küstenstraßen. Der Vormittag startet mit einem ausgiebigen Museumsbesuch im Trockenen. Mittags radeln Sie zur Kirche und zum Hafen, wo überdachte Plätze kurze Pausen ermöglichen. Ein Ausflug zum Nuraghe Arvu zeigt die mystischen Ruinen im Nebel. Der Nachmittag endet entspannt im Aquarium, während das Fahrrad sicher unter einem Vordach parkt.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a csúszós parti utakon. A délelőttöt kezdje a múzeum fedett termiben. Délben tekerjen el a templomhoz és a kikötőbe, ahol a fedett részeken tarthat pihenőt. A Nuraghe Arvu romjai közt a köd és az eső misztikus hangulatot áraszt. A délutánt töltse az Akváriumban, miközben a bicikli egy előtető alatt pihen.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe drumurile de coastă alunecoase. Dimineața începe cu o vizită prelungită la muzeu. La prânz, pedalați spre biserică și port, unde spațiile acoperite permit scurte pauze. O excursie la Nuraghe Arvu dezvăluie ruinele mistice prin ceață. După-amiaza se încheie relaxat la Acvariu, cu bicicleta parcată sub un baldachin.",
+            "en": "Cycling in the rain requires caution on the slippery coastal roads. The morning starts with an extensive indoor museum visit. At noon, pedal to the church and harbor where covered areas allow for short breaks. A trip to Nuraghe Arvu shows the mystical ruins through the mist. The afternoon ends relaxingly at the Aquarium while your bike stays dry under a nearby overhang."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Foca Monaca",
+                "hu": "Museo della Foca Monaca",
+                "ro": "Museo della Foca Monaca",
+                "en": "Museo della Foca Monaca"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad nah am Eingang und nutzen Sie die Zeit drinnen, um den ersten Regenschauer des Tages trocken abzuwarten.",
+                "hu": "Parkolja le kerékpárját közel a bejárathoz, és használja ki a bent töltött időt arra, hogy megvárja a nap első nagy esőjének elvonulását.",
+                "ro": "Parcați bicicleta aproape de intrare și folosiți timpul petrecut în interior pentru a aștepta trecerea primei reprize de ploaie a zilei.",
+                "en": "Park your bike close to the entrance and use your time inside to wait out the first rain shower of the day in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Bonaria",
+                "hu": "Chiesa di Nostra Signora di Bonaria",
+                "ro": "Chiesa di Nostra Signora di Bonaria",
+                "en": "Chiesa di Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Fahrt zur Kirche ist bei Regen gut machbar; achten Sie beim Absteigen auf den nassen, oft rutschigen Steinboden vor dem Portal.",
+                "hu": "A templomhoz vezető rövid út esőben is vállalható; leszálláskor ügyeljen a bejárat előtti nedves és gyakran csúszós kőburkolatra.",
+                "ro": "Drumul scurt până la biserică este fezabil pe ploaie; aveți grijă la coborâre la pavajul umed și adesea alunecos din fața portalului.",
+                "en": "The short ride to the church is manageable in the rain; be careful when dismounting on the wet and often slippery stone floor at the portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Centrale",
+                "hu": "Spiaggia Centrale",
+                "ro": "Spiaggia Centrale",
+                "en": "Spiaggia Centrale"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Dach der nahen Bars; prüfen Sie Ihre Bremsen, da Nässe die Bremswirkung Ihres Fahrrads verringern kann.",
+                "hu": "Keressen menedéket a közeli bárok tetője alatt; ellenőrizze a fékeit, mert a nedvesség jelentősen csökkentheti a kerékpár fékerejét.",
+                "ro": "Căutați adăpost sub acoperișul barurilor din apropiere; verificați frânele, deoarece umezeala poate reduce eficiența frânării bicicletei.",
+                "en": "Seek shelter under the roof of nearby bars; check your brakes, as wetness can significantly reduce your bicycle's braking power."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arvu",
+                "hu": "Nuraghe Arvu",
+                "ro": "Nuraghe Arvu",
+                "en": "Nuraghe Arvu"
+              },
+              "tip_5lang": {
+                "de": "Der Weg bergauf kann rutschig sein; genießen Sie die mystische Atmosphäre der nassen Steine, aber tragen Sie festes Schuhwerk mit Grip.",
+                "hu": "Az emelkedő út csúszós lehet; élvezze a vizes kövek misztikus hangulatát, de viseljen jó tapadású cipőt a kerékpározáshoz és a sétához.",
+                "ro": "Drumul în pantă poate fi alunecos; bucurați-vă de atmosfera mistică a pietrelor ude, dar purtați încălțăminte cu aderență bună.",
+                "en": "The uphill path can be slippery; enjoy the mystical atmosphere of the wet stones, but ensure you wear shoes with good grip for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Cineteatro Arena",
+                "hu": "Cineteatro Arena",
+                "ro": "Cineteatro Arena",
+                "en": "Cineteatro Arena"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Gebäude als Windschutz für eine kurze Trinkpause, bevor Sie die Fahrt entlang der Küste im Regen fortsetzen.",
+                "hu": "Használja az épületet szélfogóként egy rövid frissítő szünetre, mielőtt folytatná a tekerést az esős tengerpart mentén.",
+                "ro": "Folosiți clădirea ca paravan împotriva vântului pentru o scurtă pauză de hidratare înainte de a continua drumul pe coastă prin ploaie.",
+                "en": "Use the building as a windbreak for a quick drink break before continuing your ride along the coast in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmasera",
+                "hu": "Palmasera",
+                "ro": "Palmasera",
+                "en": "Palmasera"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Uferpromenade, um Spritzwasser zu vermeiden; die graue See bietet eine dramatische Kulisse für Ihre Tour.",
+                "hu": "Tekerjen lassan a sétányon, hogy elkerülje a felverődő vizet; a szürke tenger drámai hátteret biztosít az esős kerékpáros túrához.",
+                "ro": "Pedalați încet pe faleză pentru a evita stropirea; marea cenușie oferă un cadru dramatic pentru turul dumneavoastră cu bicicleta.",
+                "en": "Ride slowly on the promenade to avoid splashing water; the grey sea provides a dramatic backdrop for your rainy cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Cala Gonone",
+                "hu": "Acquario di Cala Gonone",
+                "ro": "Acquario di Cala Gonone",
+                "en": "Acquario di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am überdachten Fahrradständer ab; im Inneren können Sie sich in Ruhe abtrocknen und die bunten Fische genießen.",
+                "hu": "Helyezze el a biciklit a fedett tárolóban; odabent nyugodtan megszárítkozhat, miközben a színes halakat és medúzákat figyeli.",
+                "ro": "Lăsați bicicleta în rastelul acoperit; în interior vă puteți usca în liniște în timp ce admirați peștii colorați și meduzele.",
+                "en": "Park your bike at the covered rack; inside, you can dry off in peace while enjoying the colorful fish and jellyfish exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cala Gonone",
+                "hu": "Spiaggia di Cala Gonone",
+                "ro": "Spiaggia di Cala Gonone",
+                "en": "Spiaggia di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den wolkenverhangenen Golf; nach der Tour sollten Sie Ihr Fahrrad gründlich reinigen, um Salz und Sand zu entfernen.",
+                "hu": "Vessen egy utolsó pillantást a felhős öbölre; a túra után alaposan tisztítsa meg a kerékpárt, hogy eltávolítsa róla a sót és a homokot.",
+                "ro": "O ultimă privire spre golful acoperit de nori; după tur, curățați bine bicicleta pentru a îndepărta sarea și nisipul aduse de ploaie.",
+                "en": "Take one last look at the cloudy gulf; after the tour, clean your bike thoroughly to remove salt and sand brought up by the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft ist ideal für eine Radtour ohne die Sommerhitze. Der Morgen beginnt am Museum, gefolgt von einer Fahrt zur Kirche im sanften Licht. Mittags erklimmen Sie den Hügel zum Nuraghe Arvu, wo Sie durch die Bewegung warm bleiben. Der Nachmittag führt am Meer entlang zum Aquarium. Da es kühl wird, sobald die Sonne gegen 17:00 Uhr sinkt, planen Sie ein frühes Ende mit heißem Tee ein.",
+            "hu": "A tiszta téli levegő ideális a kerékpározáshoz a nyári hőség nélkül. A reggelt kezdje a múzeumban, majd tekerjen a templomhoz a lágy fényekben. Délben másszon fel a Nuraghe Arvu dombjára, ahol a mozgás melegen tartja. Délután guruljon le az Akváriumhoz a tengerparti úton. Mivel 17 óra után gyorsan lehűl a levegő, tervezzen korai befejezést egy forró teával.",
+            "ro": "Aerul curat de iarnă este ideal pentru o plimbare cu bicicleta fără căldura verii. Dimineața începe la muzeu, urmată de o tură spre biserică în lumina blândă. La prânz, urcați dealul spre Nuraghe Arvu, unde mișcarea vă va ține de cald. După-amiaza vă duce pe malul mării spre Acvariu. Deoarece se răcește brusc după ora 17:00, planificați un final de tură cu un ceai fierbinte.",
+            "en": "The clear winter air is ideal for cycling without the summer heat. The morning starts at the museum, followed by a ride to the church in the soft light. At noon, climb the hill to Nuraghe Arvu, where the physical effort will keep you warm. The afternoon leads along the sea to the Aquarium. As it cools down quickly after 17:00, plan for an early finish with some hot tea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Foca Monaca",
+                "hu": "Museo della Foca Monaca",
+                "ro": "Museo della Foca Monaca",
+                "en": "Museo della Foca Monaca"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, wenn es noch kühl ist; die Innenräume bieten Schutz, bis die Wintersonne etwas höher steht und die Straßen erwärmt.",
+                "hu": "Kezdje itt a napot, amíg még hűvös van; a belső terek védelmet nyújtanak, amíg a téli nap magasabbra hág és felmelegíti az utcákat.",
+                "ro": "Începeți aici când este încă răcoare; spațiile interioare oferă adăpost până când soarele de iarnă urcă mai sus și încălzește drumurile.",
+                "en": "Start here while it's still cool; the indoor spaces provide shelter until the winter sun rises higher and warms up the coastal streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Bonaria",
+                "hu": "Chiesa di Nostra Signora di Bonaria",
+                "ro": "Chiesa di Nostra Signora di Bonaria",
+                "en": "Chiesa di Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad in der Sonne ab, um den Sattel warm zu halten; im Winter ist der Vorplatz ein wunderbarer Ort für ein kurzes Sonnenbad.",
+                "hu": "Parkolja a kerékpárt a napon, hogy az ülés meleg maradjon; télen a templom előtti tér kiváló hely egy rövid napfürdőzésre két megálló közt.",
+                "ro": "Parcați bicicleta la soare pentru a menține șaua caldă; iarna, piațeta din fața bisericii este un loc minunat pentru o scurtă baie de soare.",
+                "en": "Park your bike in the sun to keep the saddle warm; in winter, the plaza in front of the church is a wonderful spot for a brief sunbath."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Centrale",
+                "hu": "Spiaggia Centrale",
+                "ro": "Spiaggia Centrale",
+                "en": "Spiaggia Centrale"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung beim Radeln an der Promenade, da die Meeresbrise im Winter recht schneidend sein kann.",
+                "hu": "Viseljen szélálló ruházatot a sétányon való tekeréskor, mivel a tengeri szél télen meglehetősen metsző és hideg lehet.",
+                "ro": "Purtați haine rezistente la vânt când pedalați pe faleză, deoarece briza mării poate fi destul de tăioasă în timpul iernii.",
+                "en": "Wear windproof clothing while cycling along the promenade, as the sea breeze can be quite biting and cold during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arvu",
+                "hu": "Nuraghe Arvu",
+                "ro": "Nuraghe Arvu",
+                "en": "Nuraghe Arvu"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bringt den Kreislauf in Schwung; oben angekommen werden Sie mit einer kristallklaren Sicht auf die Berge und das Meer belohnt.",
+                "hu": "Az emelkedő megdolgoztatja a keringést; felérve kristálytiszta kilátással jutalmazza a természet a hegyekre és a csillogó tengerre.",
+                "ro": "Urcarea vă va pune sângele în mișcare; odată ajunși sus, veți fi răsplătiți cu o vedere cristalină asupra munților și a mării.",
+                "en": "The uphill climb gets your circulation going; once at the top, you'll be rewarded with crystal-clear views of the mountains and the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Cineteatro Arena",
+                "hu": "Cineteatro Arena",
+                "ro": "Cineteatro Arena",
+                "en": "Cineteatro Arena"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Fotos; das moderne Design kontrastiert im Winterlicht besonders stark mit dem blauen Himmel.",
+                "hu": "Gyors fotómegálló; a modern dizájn a téli fényben különösen erősen kontrasztban áll a mélykék égbolttal.",
+                "ro": "O oprire rapidă pentru fotografii; designul modern contrastează puternic cu cerul albastru în lumina clară de iarnă.",
+                "en": "A quick photo stop; the modern design contrasts sharply with the deep blue sky in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmasera",
+                "hu": "Palmasera",
+                "ro": "Palmasera",
+                "en": "Palmasera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Fahrt ohne Fußgängermassen; die tiefstehende Sonne glitzert herrlich auf den Wellen während Ihrer Fahrt.",
+                "hu": "Élvezze a szabad haladást gyalogos tömeg nélkül; az alacsonyan járó nap gyönyörűen csillog a hullámokon tekerés közben.",
+                "ro": "Bucurați-vă de drumul liber fără mulțimi de pietoni; soarele jos strălucește superb pe valuri în timp ce pedalați.",
+                "en": "Enjoy the free ride without pedestrian crowds; the low sun sparkles beautifully on the waves as you cycle along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Cala Gonone",
+                "hu": "Acquario di Cala Gonone",
+                "ro": "Acquario di Cala Gonone",
+                "en": "Acquario di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und wärmen Sie sich im Inneren auf; das Aquarium bietet eine willkommene Pause von der kühlen Außenluft am Nachmittag.",
+                "hu": "Parkolja le a biciklit és melegedjen fel odabent; az Akvárium kellemes pihenőt kínál a hűvös délutáni külső levegő után.",
+                "ro": "Parcați bicicleta și încălziți-vă în interior; acvariul oferă o pauză binevenită de la aerul răcoros de afară după-amiaza.",
+                "en": "Park your bike and warm up inside; the Aquarium offers a welcome break from the cool afternoon air during your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cala Gonone",
+                "hu": "Spiaggia di Cala Gonone",
+                "ro": "Spiaggia di Cala Gonone",
+                "en": "Spiaggia di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr und ziehen Sie sich eine zusätzliche Schicht an, sobald die Sonne weg ist.",
+                "hu": "Fejezze be a túrát pontban a 17 órai naplementére, és vegyen fel egy plusz réteget, amint a nap eltűnik a horizont mögött.",
+                "ro": "Încheiați turul la timp pentru apusul de la ora 17:00 și puneți-vă un strat suplimentar de haine imediat ce soarele apune.",
+                "en": "Finish the tour right at the 17:00 sunset and put on an extra layer of clothing as soon as the sun disappears behind the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "A nap a történelmi Nuraghe Codula Manna és a dombok közt megbúvó Nuraghe Arvu felfedezésével indul. Délben merüljön el a természetrajzban a Museo della Foca Monaca-ban, és látogassa meg a Bonaria templomot. Délután a Spiaggia Centrale és a Palmasera strandok, valamint az akvárium várják. Az estét a Cala Gonone fő strandján töltheti, élvezve a tenger nyugalmát és a szellőt.",
         "ro": "Ziua începe cu un scurt drum spre Nuraghe Codula Manna și Nuraghe Arvu, situate pe dealuri. La prânz, scufundați-vă în istoria naturală la Museo della Foca Monaca și vizitați biserica Bonaria. După-amiaza, vă așteaptă plajele Spiaggia Centrale și Palmasera, dar și acvariul impresionant. Seara oferă momente relaxante la plaja principală din Cala Gonone.",
         "en": "The day begins with a short drive to the historical Nuraghe Codula Manna and the Nuraghe Arvu hidden in the hills. Midday, dive into natural history at the Museo della Foca Monaca and visit the Bonaria church. The afternoon invites you to relax at Spiaggia Centrale and Palmasera beaches, plus the aquarium. The evening offers relaxing moments at the main beach of Cala Gonone."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Cala Gonone bei Regen komfortabel und trocken. Der Morgen beginnt bei den prähistorischen Nuraghen, die im Regen besonders mystisch wirken. Mittags steuern Sie die Museen im Ort an, wo Sie direkt davor parken können. Der Nachmittag gehört der Unterwasserwelt im Aquarium. Die Panoramafahrt entlang der Küste bietet auch bei trübem Wetter spektakuläre Ausblicke aus dem trockenen Fahrzeuginnenraum.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Cala Gononét esős időben is. A reggel a prehisztorikus nuraghéknál kezdődik, melyek az esőben különösen misztikus arcukat mutatják. Délben a városi múzeumokat látogathatja meg, ahol közvetlenül a bejáratnál parkolhat. A délután az Akváriumé. A parti panorámaút még borús időben is látványos nézelődést kínál a száraz utastérből.",
+            "ro": "Cu mașina, explorați Cala Gonone confortabil și la adăpost de ploaie. Dimineața începe la nuraghele preistorice, care par deosebit de mistice în ploaie. La prânz, vizitați muzeele din oraș, unde puteți parca chiar în față. După-amiaza aparține lumii subacvatice de la Acvariu. Drumul panoramic de-a lungul coastei oferă vederi spectaculoase chiar și pe vreme mohorâtă din interiorul uscat al mașinii.",
+            "en": "By car, you can explore Cala Gonone comfortably and dryly even in rainy weather. The morning starts at the prehistoric Nuraghi, which look particularly mystical in the rain. At noon, visit the museums in town where you can park right in front. The afternoon is dedicated to the Aquarium. The panoramic coastal drive offers spectacular views even in gloomy weather from your dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Codula Manna",
+                "hu": "Nuraghe Codula Manna",
+                "ro": "Nuraghe Codula Manna",
+                "en": "Nuraghe Codula Manna"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen; die nassen Steine der Ruine leuchten im Regen in tiefen Grautönen.",
+                "hu": "Vezessen óvatosan a szűk bekötőutakon; a romok nedves kövei az esőben mélyszürke árnyalatokban tündökölnek a tájban.",
+                "ro": "Conduceți cu atenție pe drumurile înguste de acces; pietrele umede ale ruinelor strălucesc în nuanțe gri intense în timpul ploii.",
+                "en": "Drive carefully on the narrow access roads; the wet stones of the ruins shine in deep grey tones against the rainy landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arvu",
+                "hu": "Nuraghe Arvu",
+                "ro": "Nuraghe Arvu",
+                "en": "Nuraghe Arvu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; ein kurzer Sprint bringt Sie zu den Ruinen, die im Nebel eine fast magische Atmosphäre ausstrahlen.",
+                "hu": "Parkoljon a lehető legközelebb; egy rövid sprinttel elérheti a romokat, melyek a ködben szinte mágikus hangulatot árasztanak.",
+                "ro": "Parcați cât mai aproape posibil; un sprint scurt vă va duce la ruinele care emană o atmosferă aproape magică prin ceață.",
+                "en": "Park as close as possible; a quick sprint will get you to the ruins, which radiate an almost magical atmosphere in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Foca Monaca",
+                "hu": "Museo della Foca Monaca",
+                "ro": "Museo della Foca Monaca",
+                "en": "Museo della Foca Monaca"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen längeren Aufenthalt bei starkem Regen; die Parkplätze im Ort sind bei Schlechtwetter meist leicht zu finden.",
+                "hu": "Ideális hosszabb időtöltésre erős esőzés idején; a városi parkolóhelyek rossz időben általában könnyen elérhetőek a közelben.",
+                "ro": "Ideal pentru o ședere mai lungă în timpul ploilor abundente; locurile de parcare din oraș sunt de obicei ușor de găsit pe vreme rea.",
+                "en": "Ideal for a longer stay during heavy rain; town parking spaces are usually easy to find nearby during bad weather days."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Bonaria",
+                "hu": "Chiesa di Nostra Signora di Bonaria",
+                "ro": "Chiesa di Nostra Signora di Bonaria",
+                "en": "Chiesa di Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp; nutzen Sie die Parkmöglichkeit in der Nähe, um die Kirche ohne langes Laufen im Regen zu besuchen.",
+                "hu": "Rövid, száraz megálló; használja a közeli parkolási lehetőséget, hogy hosszú ázás nélkül látogathassa meg a templom belső terét.",
+                "ro": "O oprire scurtă și uscată; folosiți parcarea din apropiere pentru a vizita interiorul bisericii fără a merge mult prin ploaie.",
+                "en": "A short, dry stop; use the nearby parking to visit the church's interior without having to walk far through the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Centrale",
+                "hu": "Spiaggia Centrale",
+                "ro": "Spiaggia Centrale",
+                "en": "Spiaggia Centrale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt aus dem parkenden Auto oder von einer der überdachten Terrassen an der Promenade.",
+                "hu": "Élvezze a viharos tenger látványát közvetlenül a parkoló autóból, vagy a sétány egyik fedett teraszának biztonságából.",
+                "ro": "Bucurați-vă de vederea mării învolburate direct din mașina parcată sau de pe una dintre terasele acoperite de pe faleză.",
+                "en": "Enjoy the view of the stormy sea directly from your parked car or from the safety of one of the covered terraces on the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmasera",
+                "hu": "Palmasera",
+                "ro": "Palmasera",
+                "en": "Palmasera"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam die Küstenstraße entlang; das Wasser spritzt bei Regen hoch auf die Mauern, was ein dramatisches Fotomotiv bietet.",
+                "hu": "Hajtson lassan a parti úton; esőben a hullámok magasra csapnak a falakon, ami drámai fotótémát kínál az autó ablakából is.",
+                "ro": "Conduceți încet pe drumul de coastă; valurile se izbesc de ziduri pe ploaie, oferind un subiect foto dramatic din geamul mașinii.",
+                "en": "Drive slowly along the coastal road; in the rain, waves splash high against the walls, offering a dramatic photo subject from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Cala Gonone",
+                "hu": "Acquario di Cala Gonone",
+                "ro": "Acquario di Cala Gonone",
+                "en": "Acquario di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt am Eingang; verbringen Sie hier den regnerischen Nachmittag bei den faszinierenden Meeresbewohnern im Trockenen.",
+                "hu": "A parkoló közvetlenül a bejáratnál van; töltse itt az esős délutánt a lenyűgöző tengeri élőlények között, teljesen szárazon.",
+                "ro": "Parcarea este chiar la intrare; petreceți după-amiaza ploioasă aici printre creaturile marine fascinante, la adăpost de umezeală.",
+                "en": "The parking lot is right at the entrance; spend your rainy afternoon here among fascinating marine life, staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cala Gonone",
+                "hu": "Spiaggia di Cala Gonone",
+                "ro": "Spiaggia di Cala Gonone",
+                "en": "Spiaggia di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den Golf durch die Scheibenwischer, bevor Sie zu Ihrem Hotel oder einem gemütlichen Restaurant weiterfahren.",
+                "hu": "Egy utolsó pillantás az öbölre az ablaktörlők mögül, mielőtt visszahajtana a szállására vagy egy hangulatos helyi étterembe.",
+                "ro": "O ultimă privire spre golf prin ștergătoarele de parbriz, înainte de a pleca spre hotel sau spre un restaurant local primitor.",
+                "en": "One last look at the gulf through the windshield wipers before driving back to your hotel or a cozy local restaurant for the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ermöglicht das Auto eine flexible Tour zwischen den antiken Stätten und dem beheizten Ortskern. Der Morgen startet mit einer Fahrt zu den Nuraghen in der klaren Bergluft. Mittags besuchen Sie die Museen und die Kirche, wobei Sie die kurzen Wege schätzen werden. Der Nachmittag bietet eine Panoramafahrt zum Aquarium bei tiefstehender Sonne. Da es um 17:00 Uhr dunkel wird, genießen Sie den Abend in einem warmen Lokal.",
+            "hu": "Télen az autó rugalmas túrát tesz lehetővé az ősi helyszínek és a fűtött városközpont között. A reggel a nuraghékhoz vezet a tiszta hegyi levegőn. Délben látogassa meg a múzeumokat és a templomot, kihasználva a rövid utakat az autó és a bejáratok közt. A délutáni panorámaút után látogasson el az Akváriumba. Mivel 17 órakor sötétedik, az estét töltheti egy meleg, helyi vendéglőben.",
+            "ro": "Iarna, mașina permite un tur flexibil între siturile antice și centrul încălzit al orașului. Dimineața începe cu o plimbare spre nuraghe în aerul curat de munte. La prânz, vizitați muzeele și biserica, apreciind distanțele scurte. După-amiaza oferă un drum panoramic spre Acvariu sub soarele jos. Deoarece se întunecă la ora 17:00, bucurați-vă de seară într-un local călduros.",
+            "en": "In winter, the car allows for a flexible tour between ancient sites and the heated town center. The morning starts with a drive to the Nuraghi in the crisp mountain air. At noon, visit the museums and the church, appreciating the short walks from the parking spots. The afternoon panoramic drive leads to the Aquarium in the low sun. As it gets dark by 17:00, enjoy your evening in a warm local eatery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Codula Manna",
+                "hu": "Nuraghe Codula Manna",
+                "ro": "Nuraghe Codula Manna",
+                "en": "Nuraghe Codula Manna"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine unglaubliche Fernsicht von diesem erhöhten Punkt; nehmen Sie eine warme Jacke für den kurzen Rundgang mit.",
+                "hu": "A tiszta téli levegő hihetetlen távoli kilátást biztosít erről a magaslati pontról; vigyen meleg kabátot a romok körüli rövid sétához.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate incredibilă la distanță din acest punct înalt; luați o jachetă groasă pentru scurta plimbare la ruine.",
+                "en": "The clear winter air provides incredible long-distance views from this elevated point; bring a warm jacket for the short walk around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Arvu",
+                "hu": "Nuraghe Arvu",
+                "ro": "Nuraghe Arvu",
+                "en": "Nuraghe Arvu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem historischen Ort; im Winter haben Sie die Ruinen oft ganz für sich allein für perfekte Fotos.",
+                "hu": "Élvezze a magányt ezen a történelmi helyszínen; télen gyakran teljesen egyedül fedezheti fel a romokat a tökéletes fotókhoz.",
+                "ro": "Bucurați-vă de singurătatea acestui sit istoric; iarna aveți adesea ruinele doar pentru dumneavoastră, perfect pentru fotografii.",
+                "en": "Enjoy the solitude of this historic site; in winter, you often have the ruins all to yourself, making it perfect for uninterrupted photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Foca Monaca",
+                "hu": "Museo della Foca Monaca",
+                "ro": "Museo della Foca Monaca",
+                "en": "Museo della Foca Monaca"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und nutzen Sie die Ausstellung, um sich nach dem Aufenthalt im Freien wieder aufzuwärmen.",
+                "hu": "Parkoljon kényelmesen a közelben, és használja ki a kiállítást arra, hogy a szabadtéri látogatás után újra felmelegedjen a fűtött beltérben.",
+                "ro": "Parcați confortabil în apropiere și folosiți expoziția pentru a vă reîncălzi după timpul petrecut în aer liber iarna.",
+                "en": "Park comfortably nearby and use the exhibit to warm up again after your time spent outdoors in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Bonaria",
+                "hu": "Chiesa di Nostra Signora di Bonaria",
+                "ro": "Chiesa di Nostra Signora di Bonaria",
+                "en": "Chiesa di Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Kirche strahlt im sanften Winterlicht eine besondere Ruhe aus; parken Sie direkt am Vorplatz für einen kurzen Besuch.",
+                "hu": "Az egyszerű templom a lágy téli fényben különleges békét áraszt; parkoljon közvetlenül a térnél a gyors és kényelmes látogatáshoz.",
+                "ro": "Biserica simplă emană o liniște deosebită în lumina blândă de iarnă; parcați chiar lângă piațetă pentru o vizită scurtă.",
+                "en": "The simple church radiates a special peace in the soft winter light; park right by the plaza for a quick and convenient visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Centrale",
+                "hu": "Spiaggia Centrale",
+                "ro": "Spiaggia Centrale",
+                "en": "Spiaggia Centrale"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Strandspaziergang ist belebend; danach können Sie sich im Auto schnell wieder aufwärmen und die Heizung genießen.",
+                "hu": "Egy rövid tengerparti séta felfrissít; utána az autóban gyorsan felmelegedhet, miközben továbbhajt a következő megálló felé.",
+                "ro": "O scurtă plimbare pe plajă este revigorantă; după aceea, vă puteți reîncălzi rapid în mașină în timp ce conduceți spre următoarea oprire.",
+                "en": "A short walk on the beach is invigorating; afterwards, you can quickly warm up again in the car while driving to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmasera",
+                "hu": "Palmasera",
+                "ro": "Palmasera",
+                "en": "Palmasera"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet im Winter freie Fahrt und herrliche Ausblicke auf den tiefblauen Golf von Orosei aus dem warmen Auto.",
+                "hu": "A parti út télen szabad haladást és lenyűgöző kilátást nyújt az Orosei-öböl mélykék vizére a fűtött autó ablakából.",
+                "ro": "Drumul de coastă oferă o circulație liberă iarna și vederi superbe asupra golfului Orosei din interiorul cald al mașinii.",
+                "en": "The coastal road offers free driving in winter and magnificent views of the deep blue Orosei Gulf from the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Cala Gonone",
+                "hu": "Acquario di Cala Gonone",
+                "ro": "Acquario di Cala Gonone",
+                "en": "Acquario di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquarium am späten Nachmittag; die beheizten Räume sind der ideale Ort, bevor die Sonne gegen 17:00 Uhr untergeht.",
+                "hu": "Látogasson el az Akváriumba késő délután; a fűtött termek ideálisak a 17 órai naplemente előtti időtöltéshez a hűvös időben.",
+                "ro": "Vizitați acvariul la sfârșitul după-amiezii; sălile încălzite sunt locul ideal înainte ca soarele să apună în jur de ora 17:00.",
+                "en": "Visit the Aquarium in the late afternoon; the heated rooms are the ideal place to be before the sun sets around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Cala Gonone",
+                "hu": "Spiaggia di Cala Gonone",
+                "ro": "Spiaggia di Cala Gonone",
+                "en": "Spiaggia di Cala Gonone"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Ende des Tages direkt vom Parkplatz am Meer aus und genießen Sie die friedliche Winterstimmung im Golf.",
+                "hu": "Figyelje meg a naplementét közvetlenül a tengerparti parkolóból, élvezve az öböl békés téli hangulatát az autó kényelméből.",
+                "ro": "Urmăriți sfârșitul zilei direct din parcarea de lângă mare, bucurându-vă de atmosfera liniștită de iarnă din golf din confortul mașinii.",
+                "en": "Watch the end of the day directly from the seaside parking lot, enjoying the peaceful winter atmosphere of the gulf from your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

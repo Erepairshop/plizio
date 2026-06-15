@@ -137,6 +137,168 @@
         "hu": "Reggel a Grundtvig-templom lenyűgöző építészetével kezdünk, majd a Lersøparken zöldjében frissülünk fel. Délben a David Risley Galéria kortárs művészeti kiállításait fedezzük fel. Délután a különleges Barbie Múzeum vár ránk, amely minden korosztályt elvarázsol. A napot a Gandhiparken békés környezetében zárjuk, élvezve a koppenhágai estét.",
         "ro": "Dimineața admirăm arhitectura impresionantă a Bisericii Grundtvig, urmată de o plimbare relaxantă în Lersøparken. La prânz, explorăm arta contemporană la Galeria David Risley. După-amiaza ne bucurăm de o vizită inedită la Muzeul Barbie, plin de culoare și istorie. Seara se încheie liniștit în Gandhiparken, un loc perfect pentru a reflecta asupra zilei.",
         "en": "In the morning, we marvel at the striking expressionist architecture of Grundtvig's Church before taking a stroll through Lersøparken. Midday brings us to the David Risley Gallery to admire contemporary art pieces. The afternoon features a quirky and colorful visit to the Barbie Museum. We wrap up our day relaxing in Gandhiparken, enjoying the peaceful evening vibe of the neighborhood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der monumentalen Grundtvig-Kirche, die Ihnen Schutz vor dem Regen bietet. Mittags führt ein kurzer, erfrischender Spaziergang durch den Lersøparken, wo die nassen Blätter herrlich duften. Am Nachmittag bieten die David Risley Gallery und das Barbie Museum ideale Rückzugsorte im Trockenen. Den Abend lassen Sie ruhig im Gandhiparken ausklingen, idealerweise mit einem großen Regenschirm.",
+            "hu": "Kezdje a napot a monumentális Grundtvig-templomban, amely tökéletes menedéket nyújt az eső elől. Délben egy frissítő séta várja a Lersøparken vizes ösvényein, ahol ilyenkor a legintenzívebbek az illatok. Délután a David Risley Galéria és a Barbie Múzeum kínál száraz és izgalmas belső tereket. Az estét a Gandhiparken békéjében zárhatja, de mindenképpen vigyen magával egy strapabíró esernyőt.",
+            "ro": "Începeți ziua la monumentala Biserică Grundtvig, care oferă un adăpost perfect împotriva ploii. La prânz, o plimbare revigorantă prin Lersøparken vă va încânta cu mirosul proaspăt al naturii udate. După-amiaza, Galeria David Risley și Muzeul Barbie sunt refugii ideale și uscate. Seara se încheie liniștit în Gandhiparken, dar asigurați-vă că aveți la îndemână o umbrelă rezistentă.",
+            "en": "Start your day at the monumental Grundtvig's Church, which provides perfect shelter from the rain. At noon, a refreshing walk through Lersøparken's wet paths offers intense natural scents. In the afternoon, the David Risley Gallery and Barbie Museum serve as ideal dry retreats. The evening ends peacefully in Gandhiparken, though a sturdy umbrella is essential for the final stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grundtvigskirche",
+                "hu": "Grundtvig-templom",
+                "ro": "Biserica Grundtvig",
+                "en": "Grundtvig's Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Backsteinarchitektur im trockenen Innenraum; achten Sie beim Betreten auf die glatten Stufen im Außenbereich.",
+                "hu": "Csodálja meg az expresszionista téglaépítészetet a hatalmas, száraz belső térben; a bejáratnál vigyázzon a vizes, csúszós lépcsőfokokra.",
+                "ro": "Admirați arhitectura impresionantă din cărămidă în interiorul vast și uscat; aveți grijă la treptele exterioare care devin alunecoase pe ploaie.",
+                "en": "Admire the stunning expressionist brickwork within the vast, dry interior; be careful of the slippery exterior steps when entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Lersøparken",
+                "hu": "Lersøparken",
+                "ro": "Lersøparken",
+                "en": "Lersøparken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft bei einem kurzen Rundgang; tragen Sie wasserfeste Schuhe, da die unbefestigten Wege schnell matschig werden.",
+                "hu": "Élvezze a friss levegőt egy rövid körséta alatt; viseljen vízálló lábbelit, mert a földutak esőben hamar sárossá válhatnak.",
+                "ro": "Bucurați-vă de aerul proaspăt în timpul unei scurte plimbări; purtați încălțăminte impermeabilă, deoarece potecile pot deveni noroioase.",
+                "en": "Enjoy the fresh air during a quick loop; wear waterproof boots as the unpaved paths can become muddy and soft in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "David Risley Gallery",
+                "hu": "David Risley Galéria",
+                "ro": "Galeria David Risley",
+                "en": "David Risley Gallery"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie zeitgenössische Kunstwerke in entspannter Atmosphäre; nutzen Sie die Zeit hier, um den nächsten starken Regenguss abzuwarten.",
+                "hu": "Fedezze fel a kortárs művészeti alkotásokat nyugodt környezetben; használja ki az időt a galériában, amíg odakint eláll a hevesebb eső.",
+                "ro": "Explorați operele de artă contemporană într-o atmosferă relaxată; profitați de acest spațiu pentru a aștepta trecerea unei averse mai puternice.",
+                "en": "Explore contemporary artworks in a relaxed setting; use your time here to wait out any heavy downpours in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Barbie Museum",
+                "hu": "Barbie Múzeum",
+                "ro": "Muzeul Barbie",
+                "en": "Barbie Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in diese kuriose Sammlung voller Nostalgie; die farbenfrohen Exponate lassen das graue Regenwetter draußen schnell vergessen.",
+                "hu": "Merüljön el ebben a különleges és nosztalgikus gyűjteményben; a színes kiállítási tárgyak feledtetik a kinti szürke, esős időjárást.",
+                "ro": "Cufundați-vă în această colecție curioasă și plină de nostalgie; exponatele colorate vă vor face să uitați de vremea gri de afară.",
+                "en": "Immerse yourself in this unique and nostalgic collection; the colorful exhibits are perfect for forgetting the gloomy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gandhiparken",
+                "hu": "Gandhiparken",
+                "ro": "Gandhiparken",
+                "en": "Gandhiparken"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Ruhe in diesem kleinen Park zum Abschluss; halten Sie sich unter den dichten Baumkronen auf, um trocken zu bleiben.",
+                "hu": "Találjon békére ebben a kis parkban a nap végén; húzódjon a sűrűbb lombok alá, ha eleredne az eső a séta közben.",
+                "ro": "Găsiți liniștea în acest mic parc la finalul zilei; stați sub coroanele dese ale copacilor pentru a vă proteja de picăturile de ploaie.",
+                "en": "Find peace in this small park to end your day; seek shelter under the thick tree canopies if the rain picks up during your visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Stille an der Grundtvig-Kirche am Morgen. Mittags sorgt ein zügiger Gang durch den Lersøparken für warme Füße. Am Nachmittag locken die beheizten Galerien und Museen als willkommene Wärmequellen. Da es bereits gegen 17:00 Uhr dunkel wird, bietet der Gandhiparken in der Dämmerung eine besonders mystische Atmosphäre, bevor Sie sich ins Warme zurückziehen.",
+            "hu": "Élje át a téli csendet a Grundtvig-templomnál a reggeli órákban. Délben egy tempós séta a Lersøparkenben segít felmelegedni a hideg szélben. Délután a fűtött galériák és múzeumok várják, mint kellemes menedékek. Mivel 17:00 körül már sötétedik, a Gandhiparken a szürkületben különleges, misztikus hangulatot áraszt, mielőtt visszatérne a szállására.",
+            "ro": "Experimentați liniștea iernii la Biserica Grundtvig în primele ore ale dimineții. La prânz, un mers alert prin Lersøparken vă va ajuta să vă mențineți căldura. După-amiaza, galeriile și muzeele încălzite sunt refugii primitoare. Deoarece se întunecă în jurul orei 17:00, Gandhiparken oferă o atmosferă mistică la amurg, înainte de a vă retrage la căldură.",
+            "en": "Experience the winter stillness at Grundtvig's Church in the morning. At noon, a brisk walk through Lersøparken helps keep your circulation going in the cold. In the afternoon, heated galleries and museums offer welcome warmth. As darkness falls around 17:00, Gandhiparken takes on a mystical twilight atmosphere before you head back indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grundtvigskirche",
+                "hu": "Grundtvig-templom",
+                "ro": "Biserica Grundtvig",
+                "en": "Grundtvig's Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht, das durch die hohen Fenster fällt; im Inneren ist es deutlich wärmer als draußen auf dem Hügel.",
+                "hu": "Élvezze a tiszta téli fényt, amely a hatalmas ablakokon keresztül árad; bent sokkal melegebb van, mint kint a dombtetőn a szélben.",
+                "ro": "Bucurați-vă de lumina clară de iarnă care pătrunde prin ferestrele înalte; interiorul este mult mai cald decât afară pe deal.",
+                "en": "Enjoy the crisp winter light streaming through the high windows; the interior offers a cozy escape from the biting wind on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Lersøparken",
+                "hu": "Lersøparken",
+                "ro": "Lersøparken",
+                "en": "Lersøparken"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen, skulpturalen Bäume im Frost; tragen Sie Schal und Handschuhe, da der Wind hier oft ungehindert weht.",
+                "hu": "Csodálja meg a zúzmarás, szoborszerű fák látványát; viseljen sálat és kesztyűt, mert a szél gyakran akadálytalanul fúj a nyílt területen.",
+                "ro": "Admirați copacii înghețați care arată ca niște sculpturi; purtați fular și mănuși, deoarece vântul bate adesea cu putere aici.",
+                "en": "Admire the frosty, sculptural trees against the winter sky; wear a scarf and gloves as the wind often blows freely across the open park."
+              }
+            },
+            {
+              "name": {
+                "de": "David Risley Gallery",
+                "hu": "David Risley Galéria",
+                "ro": "Galeria David Risley",
+                "en": "David Risley Gallery"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei moderner Kunst auf; die hellen Ausstellungsräume bieten einen schönen Kontrast zum oft grauen Wintertag.",
+                "hu": "Melegedjen fel a modern alkotások között; a világos kiállítótermek remek kontrasztot nyújtanak a gyakran szürke téli nappalokhoz.",
+                "ro": "Încălziți-vă admirând arta modernă; sălile de expoziție luminoase oferă un contrast plăcut cu zilele de iarnă adesea cenușii.",
+                "en": "Warm up while browsing modern artworks; the bright exhibition spaces provide a lovely contrast to the typically grey winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Barbie Museum",
+                "hu": "Barbie Múzeum",
+                "ro": "Muzeul Barbie",
+                "en": "Barbie Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für einen Besuch in dieser gut beheizten Sammlung; es ist der ideale Ort, um die Kälte für eine Weile zu vergessen.",
+                "hu": "Használja ki a délutánt egy látogatásra ebben a jól fűtött gyűjteményben; ideális hely, hogy egy időre elfelejtse a kinti fagyot.",
+                "ro": "Profitați de după-amiază pentru a vizita această colecție bine încălzită; este locul ideal pentru a uita de gerul de afară pentru o vreme.",
+                "en": "Spend your afternoon in this well-heated collection; it is the perfect spot to escape the freezing temperatures for an hour or two."
+              }
+            },
+            {
+              "name": {
+                "de": "Gandhiparken",
+                "hu": "Gandhiparken",
+                "ro": "Gandhiparken",
+                "en": "Gandhiparken"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die besondere Ruhe in der frühen Abenddämmerung; planen Sie den Besuch vor 16:30 Uhr ein, um noch etwas Restlicht zu haben.",
+                "hu": "Érezze a különleges nyugalmat a korai alkonyatban; tervezze a látogatást 16:30 előttre, hogy lássa a parkot a teljes sötétség előtt.",
+                "ro": "Simțiți liniștea specială a amurgului timpuriu; programați vizita înainte de 16:30 pentru a beneficia de restul de lumină naturală.",
+                "en": "Feel the special tranquility of the early winter twilight; plan to arrive before 16:30 to enjoy the park before total darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel sportosan indul a Buddinge Batteri erődítményénél, amelyet a közeli Tinghøj Batteri követ. Délben a Garhøjhoz tekerünk, majd meglátogatjuk a fenséges Grundtvig-templomot. Délután a Bellahøj negyedbe érkezünk, ahol történelmi ösvényeket barangolunk be. Este a Bellahøj Friluftsscene szabadtéri színpadánál pihenünk meg egy aktív nap után.",
         "ro": "Dimineața începe în forță la fortificația istorică Buddinge Batteri, urmată de Tinghøj Batteri. La prânz pedalăm spre Garhøj, vizitând apoi maiestuoasa Biserică Grundtvig. După-amiaza ajungem în cartierul Bellahøj pentru a explora poteci istorice. Seara ne relaxăm în aer liber la Bellahøj Friluftsscene, după o zi plină de mișcare.",
         "en": "Our morning kicks off actively at the historic Buddinge Battery, followed quickly by the nearby Tinghøj Battery. Midday finds us cycling to Garhøj before marveling at the majestic Grundtvig's Church. The afternoon brings us to the Bellahøj area, where we trace historical pathways. We finish the evening outdoors at the Bellahøj Friluftsscene, reflecting on a highly active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Wege. Morgens erkunden Sie die Batterien von Buddinge und Tinghøj, die im Nebel fast mystisch wirken. Mittags geht es weiter nach Garhøj, bevor Sie an der Grundtvig-Kirche Schutz suchen. Nachmittags radeln Sie vorsichtig zum Bellahøj-Hügel. Achten Sie auf nassem Asphalt besonders auf Ihre Bremsen und tragen Sie vollständige Regenmontur.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de cserébe üres utakat kínál. Reggel a Buddinge és Tinghøj erődítmények ködös látványa várja. Délben a Garhøj felé folytatja az utat, majd a Grundtvig-templomban talál menedéket. Délután óvatosan tekerjen a Bellahøj-domb felé. A vizes aszfalton figyeljen a féktávolságra, és viseljen tetőtől talpig vízálló öltözetet.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă drumuri libere. Dimineața, explorați fortificațiile Buddinge și Tinghøj, care par mistice în ceață. La prânz, continuați spre Garhøj înainte de a vă adăposti la Biserica Grundtvig. După-amiaza, pedalați cu grijă spre dealul Bellahøj. Atenție la frâne pe asfaltul ud și purtați echipament complet impermeabil.",
+            "en": "Cycling in the rain requires caution but rewards you with empty paths. In the morning, explore the Buddinge and Tinghøj batteries, which look mystical in the mist. At noon, continue to Garhøj before seeking shelter at Grundtvig's Church. In the afternoon, pedal carefully toward Bellahøj hill. Watch your braking distance on wet asphalt and wear full waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Buddinge Batteri",
+                "hu": "Buddinge Batteri",
+                "ro": "Buddinge Batteri",
+                "en": "Buddinge Battery"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Wälle bieten einige geschützte Ecken; parken Sie Ihr Rad an einer festen Stelle, da der Boden aufgeweicht sein kann.",
+                "hu": "A történelmi sáncok között találhat néhány szélvédett sarkot; a kerékpárt szilárd talajon támassza le, mert a föld felázhat.",
+                "ro": "Valurile istorice oferă câteva colțuri ferite de vânt; parcați bicicleta pe o suprafață stabilă, deoarece solul poate fi moale.",
+                "en": "The historical ramparts offer some sheltered spots; park your bike on firm ground as the soil can become soft and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinghøj Batteri",
+                "hu": "Tinghøj Batteri",
+                "ro": "Tinghøj Batteri",
+                "en": "Tinghøj Battery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die erhöhte Position für einen Blick über das graue Umland; achten Sie auf den rutschigen Grasbewuchs an den Hängen.",
+                "hu": "Használja ki a magaslati pontot a szürke táj megtekintéséhez; ügyeljen a domboldalakon lévő fűre, amely esőben rendkívül csúszóssá válik.",
+                "ro": "Folosiți poziția ridicată pentru o vedere asupra împrejurimilor; aveți grijă la iarba de pe pante, care devine foarte alunecoasă.",
+                "en": "Use the elevated position for a view of the misty surroundings; be careful on the grassy slopes, which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Garhøj",
+                "hu": "Garhøj",
+                "ro": "Garhøj",
+                "en": "Garhøj"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an diesem geschichtsträchtigen Ort; halten Sie die Besichtigung kurz, um nicht auszukühlen, während die Kleidung nass ist.",
+                "hu": "Rövid megálló ezen a történelmi helyszínen; tartsa röviden a nézelődést, hogy ne fázzon meg a vizes ruházatban a szélben.",
+                "ro": "O scurtă oprire în acest loc istoric; vizitați rapid pentru a nu vă răci în timp ce hainele sunt umede de la ploaie.",
+                "en": "A brief stop at this historical site; keep your visit short to avoid catching a cold while your clothes are damp from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grundtvigskirche",
+                "hu": "Grundtvig-templom",
+                "ro": "Biserica Grundtvig",
+                "en": "Grundtvig's Church"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die perfekte Gelegenheit, sich aufzuwärmen und zu trocknen; parken Sie Ihr Rad sicher an den bereitgestellten Ständern.",
+                "hu": "Ez a tökéletes alkalom a felmelegedésre és a száradásra; a kerékpárt rögzítse biztonságosan a kihelyezett tárolókhoz.",
+                "ro": "Aceasta este ocazia perfectă pentru a vă încălzi și usca puțin; parcați bicicleta în siguranță la rastelele prevăzute.",
+                "en": "This is the perfect opportunity to warm up and dry off; lock your bike securely at the designated racks near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj",
+                "hu": "Bellahøj",
+                "ro": "Bellahøj",
+                "en": "Bellahøj"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Hügel trotz der Wolken; schalten Sie unbedingt Ihre Fahrradbeleuchtung ein, da die Sicht oft schlecht ist.",
+                "hu": "Élvezze a dombról nyíló kilátást a felhők ellenére is; mindenképpen kapcsolja be a kerékpáros lámpákat a rossz látási viszonyok miatt.",
+                "ro": "Bucurați-vă de priveliștea de pe deal în ciuda norilor; aprindeți obligatoriu luminile bicicletei, deoarece vizibilitatea este redusă.",
+                "en": "Enjoy the hilltop view despite the clouds; ensure your bike lights are on as visibility is often poor during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj Freilichtbühne",
+                "hu": "Bellahøj Szabadtéri Színpad",
+                "ro": "Scena în aer liber Bellahøj",
+                "en": "Bellahøj Open-Air Stage"
+              },
+              "tip_5lang": {
+                "de": "Die leere Bühne wirkt im Regen fast dramatisch; meiden Sie bei Gewittergefahr die offenen Flächen und suchen Sie festen Unterstand.",
+                "hu": "Az üres színpad szinte drámai hatást kelt az esőben; viharveszély esetén kerülje a nyílt területeket, és keressen szilárd menedéket.",
+                "ro": "Scena goală pare aproape dramatică în ploaie; evitați zonele deschise dacă există risc de furtună și căutați un adăpost solid.",
+                "en": "The empty stage looks almost dramatic in the rain; avoid open areas if there's a risk of thunder and seek solid shelter nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kaltes Winterwetter am Morgen erfordert beim Radfahren mehrere Schichten Kleidung. Nach dem Buddinge- und Tinghøj-Batterie-Besuch mittags erreichen Sie Garhøj, wo der Boden gefroren sein kann. Die Grundtvig-Kirche bietet eine willkommene Aufwärmpause. Am späten Nachmittag erreichen Sie Bellahøj. Da die Sonne früh untergeht, sollten Sie sicherstellen, dass Ihre Akkus für Licht und E-Bike voll geladen sind.",
+            "hu": "A hideg téli reggel réteges öltözködést igényel a kerékpározáshoz. A Buddinge és Tinghøj erődök után délben éri el Garhøjt, ahol a talaj fagyott lehet. A Grundtvig-templom kiváló helyszín egy melegítő pihenőhöz. Késő délután érkezik Bellahøjra. Mivel korán nyugszik a nap, győződjön meg róla, hogy a lámpák és az e-bike akkumulátora teljesen fel vannak töltve.",
+            "ro": "Vremea rece de iarnă necesită îmbrăcăminte în straturi pentru ciclism. După fortificațiile Buddinge și Tinghøj, la prânz ajungeți la Garhøj, unde solul poate fi înghețat. Biserica Grundtvig oferă o pauză de încălzire binevenită. După-amiaza târziu ajungeți la Bellahøj. Deoarece soarele apune devreme, asigurați-vă că luminile și bateria bicicletei sunt încărcate.",
+            "en": "Cold winter mornings require several layers of clothing for cycling. After visiting the batteries, reach Garhøj at noon where the ground may be frozen and hard. Grundtvig's Church provides a much-needed warm break. Arrive at Bellahøj in the late afternoon. As the sun sets early, ensure your lights and e-bike batteries are fully charged for the return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Buddinge Batteri",
+                "hu": "Buddinge Batteri",
+                "ro": "Buddinge Batteri",
+                "en": "Buddinge Battery"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Wälle bieten einen tollen Anblick; achten Sie auf vereiste Stellen auf den Wegen, die beim Absteigen tückisch sein können.",
+                "hu": "A zúzmarás sáncok látványa lenyűgöző; ügyeljen a jeges foltokra az utakon, amelyek a leszálláskor különösen veszélyesek lehetnek.",
+                "ro": "Valurile înghețate oferă o priveliște superbă; atenție la porțiunile cu gheață de pe drum, care pot fi înșelătoare la coborârea de pe bicicletă.",
+                "en": "The frosty ramparts offer a beautiful sight; watch out for icy patches on the paths, which can be treacherous when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinghøj Batteri",
+                "hu": "Tinghøj Batteri",
+                "ro": "Tinghøj Batteri",
+                "en": "Tinghøj Battery"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann schneidend kalt sein; tragen Sie unbedingt winddichte Kleidung, um während der Besichtigung nicht auszukühlen.",
+                "hu": "A dombtetőn a szél metszően hideg lehet; mindenképpen viseljen szélálló ruházatot, hogy ne hűljön ki a nézelődés közben.",
+                "ro": "Vântul de pe deal poate fi tăios; purtați neapărat haine rezistente la vânt pentru a nu dârdâi de frig în timpul vizitei.",
+                "en": "The wind on top of the hill can be biting cold; ensure you wear windproof gear to stay warm while exploring the open battery."
+              }
+            },
+            {
+              "name": {
+                "de": "Garhøj",
+                "hu": "Garhøj",
+                "ro": "Garhøj",
+                "en": "Garhøj"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht über das weite Feld; halten Sie die Pausen kurz, um Ihre Körperwärme durch den kalten Fahrtwind nicht zu verlieren.",
+                "hu": "Élvezze a tiszta kilátást a tágas mezőre; tartson rövid szüneteket, hogy ne veszítse el a testhőjét a menetszél és a hideg miatt.",
+                "ro": "Bucurați-vă de vizibilitatea clară peste câmpul întins; faceți pauze scurte pentru a nu pierde căldura corpului din cauza aerului rece.",
+                "en": "Enjoy the clear views over the wide fields; keep your breaks short to maintain body heat against the freezing winter air while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Grundtvigskirche",
+                "hu": "Grundtvig-templom",
+                "ro": "Biserica Grundtvig",
+                "en": "Grundtvig's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im warmen Kirchenschiff zur Erholung; bewegen Sie Ihre Finger und Zehen, um die Durchblutung nach der Fahrt anzuregen.",
+                "hu": "Használja ki a csendet a meleg templomhajóban a pihenéshez; mozgassa át az ujjait és lábujjait a vérkeringés frissítésére a tekerés után.",
+                "ro": "Folosiți liniștea din nava caldă a bisericii pentru relaxare; mișcați-vă degetele de la mâini și picioare pentru a stimula circulația.",
+                "en": "Take advantage of the silence in the warm nave to recover; move your fingers and toes to stimulate circulation after the cold ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj",
+                "hu": "Bellahøj",
+                "ro": "Bellahøj",
+                "en": "Bellahøj"
+              },
+              "tip_5lang": {
+                "de": "Das Viertel wirkt im Winterlicht besonders markant; achten Sie auf eine gute Beleuchtung Ihres Rads für den Weg zurück in der Dunkelheit.",
+                "hu": "A negyed a téli fényben különösen karakteres; gondoskodjon a kerékpár megfelelő világításáról a sötétben való hazatéréshez.",
+                "ro": "Cartierul pare deosebit de marcant în lumina iernii; asigurați-vă că aveți o iluminare bună la bicicletă pentru drumul de întoarcere.",
+                "en": "The district looks particularly striking in the winter light; ensure your bike's lighting is excellent for the ride back in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj Freilichtbühne",
+                "hu": "Bellahøj Szabadtéri Színpad",
+                "ro": "Scena în aer liber Bellahøj",
+                "en": "Bellahøj Open-Air Stage"
+              },
+              "tip_5lang": {
+                "de": "Ein fast surrealer Ort im tiefen Winter; betreten Sie die Stufen vorsichtig, da sich oft eine unsichtbare Eisschicht bildet.",
+                "hu": "Szinte szürreális helyszín a tél közepén; óvatosan lépjen a lépcsőkre, mert gyakran láthatatlan jégréteg képződhet rajtuk.",
+                "ro": "Un loc aproape suprarealist în mijlocul iernii; urcați treptele cu atenție, deoarece se poate forma adesea un strat invizibil de gheață.",
+                "en": "An almost surreal spot in the dead of winter; step carefully on the concrete as an invisible layer of ice often forms on the surface."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autós kirándulásunk az impozáns Mindelundenben kezdődik, amely az emlékezés és a nyugalom helyszíne. Délelőtt az Ellehøi-hoz vezetünk, hogy elmerüljünk a régió mély történelmében. Dél körül érjük el a Grundtvig-templomot, amelynek építészete elállítja a lélegzetünket. Délután a Guldbergs Plads közelében parkolunk, és a napot egy csodálatos sétával zárjuk a tágas Nørrebroparkenben.",
         "ro": "Excursia noastră motorizată începe în impresionantul Mindelunden, un loc de amintire și liniște. Dimineața conducem spre Ellehøi pentru a pătrunde în istoria profundă a regiunii. În jurul prânzului ajungem la Biserica Grundtvig, a cărei arhitectură ne va tăia respirația. După-amiaza parcăm lângă Guldbergs Plads, iar ziua se încheie cu o plimbare superbă prin vastul Nørrebroparken.",
         "en": "Our driving tour commences at the moving Mindelunden memorial park, offering a moment of quiet reflection. Later in the morning, we drive to Ellehøi to dive into the deep local history. Around noon, we arrive at the breathtakingly beautiful Grundtvig's Church. The afternoon sees us parking near Guldbergs Plads, and our evening concludes perfectly with a lovely stroll through Nørrebroparken."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Regen in Emdrup kein Problem. Morgens besuchen Sie das beschauliche Mindelunden, gefolgt von Ellehøi. Mittags bietet die Grundtvig-Kirche einen trockenen und prachtvollen Aufenthalt. Die Nachmittage in den Parks Guldbergs Plads und Nørrebroparken lassen sich dank kurzer Wege vom Parkplatz aus auch bei Schauern genießen. Halten Sie für die kurzen Wege zu den Monumenten immer einen Schirm bereit.",
+            "hu": "Autóval az eső nem akadályozza az emdrupi felfedezést. Reggel látogasson el a békés Mindelundenhez, majd Ellehøi következik. Délben a Grundtvig-templom nyújt száraz és pompás látnivalót. A délutáni Guldbergs Plads és Nørrebroparken látogatások a parkolókhoz közeli sétányoknak köszönhetően záporok idején is élvezhetőek. A rövid gyalogutakhoz mindig tartson készenlétben egy esernyőt.",
+            "ro": "Cu mașina, ploaia nu este un obstacol pentru explorarea zonei Emdrup. Dimineața vizitați liniștitul Mindelunden, urmat de Ellehøi. La prânz, Biserica Grundtvig oferă un popas uscat și magnific. După-amiaza, parcurile Guldbergs Plads și Nørrebroparken pot fi savurate datorită distanțelor scurte de la parcare. Aveți întotdeauna o umbrelă pregătită pentru scurtele deplasări pe jos.",
+            "en": "By car, the rain won't hinder your exploration of Emdrup. In the morning, visit the peaceful Mindelunden followed by Ellehøi. At noon, Grundtvig's Church provides a magnificent dry stop. Afternoon visits to Guldbergs Plads and Nørrebroparken are manageable during showers thanks to parking nearby. Always keep an umbrella handy in the car for the short walks to the monuments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mindelunden",
+                "hu": "Mindelunden",
+                "ro": "Mindelunden",
+                "en": "Mindelunden"
+              },
+              "tip_5lang": {
+                "de": "Dieser Gedenkort ist bei Regen besonders stimmungsvoll; nutzen Sie die Parkplätze direkt am Eingang, um den Fußweg im Nassen zu minimieren.",
+                "hu": "Ez az emlékhely esőben különösen hangulatos; használja a közvetlen bejáratnál lévő parkolót, hogy minimalizálja a vizes sétát.",
+                "ro": "Acest loc de comemorare este deosebit de atmosferic pe ploaie; folosiți parcarea de la intrare pentru a scurta mersul prin umezeală.",
+                "en": "This memorial site is particularly atmospheric in the rain; use the parking right at the entrance to minimize walking in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ellehøi",
+                "hu": "Ellehøi",
+                "ro": "Ellehøi",
+                "en": "Ellehøi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, geschichtlicher Stopp; bleiben Sie bei starkem Regen kurz im Wagen und genießen Sie den Blick auf den Hügel durch die Scheiben.",
+                "hu": "Rövid történelmi megálló; heves esőzés esetén maradjon a kocsiban, és élvezze a dombra nyíló kilátást az ablakokon keresztül.",
+                "ro": "O scurtă oprire istorică; în caz de ploaie torențială, stați puțin în mașină și admirați dealul prin parbriz înainte de a coborî.",
+                "en": "A brief historical stop; during heavy downpours, stay in the car for a moment and enjoy the view of the hill through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Grundtvigskirche",
+                "hu": "Grundtvig-templom",
+                "ro": "Biserica Grundtvig",
+                "en": "Grundtvig's Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen und eilen Sie ins Innere; die Akustik im Regen ist im hohen Kirchenschiff ein einmaliges Erlebnis.",
+                "hu": "Parkoljon a környező utcákban és siessen befelé; az eső hangja és az akusztika a hatalmas templomhajóban egyedülálló élmény.",
+                "ro": "Parcați pe străzile din jur și grăbiți-vă în interior; acustica și sunetul ploii în nava înaltă a bisericii sunt o experiență unică.",
+                "en": "Park in the surrounding streets and head inside; the acoustics of the rain within the high nave offer a truly unique and serene experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Guldbergs Plads",
+                "hu": "Guldbergs Plads",
+                "ro": "Guldbergs Plads",
+                "en": "Guldbergs Plads"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Spielgeräte wirken im Regen wie Skulpturen; achten Sie beim Aussteigen auf Pfützen, die sich oft in den Mulden bilden.",
+                "hu": "A modern játékeszközök szinte szoborként hatnak az esőben; kiszálláskor ügyeljen a mélyedésekben összegyűlt nagyobb tócsákra.",
+                "ro": "Echipamentele moderne de joacă par niște sculpturi în ploaie; la coborârea din mașină, aveți grijă la bălțile formate în adâncituri.",
+                "en": "The modern play equipment looks like sculptures in the rain; watch out for deep puddles that often form in the low areas near the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Nørrebroparken",
+                "hu": "Nørrebroparken",
+                "ro": "Nørrebroparken",
+                "en": "Nørrebroparken"
+              },
+              "tip_5lang": {
+                "de": "Ein belebter Ort auch bei schlechtem Wetter; dank der nahen Straßen lässt sich der Park auch bei kurzen Regenpausen gut erkunden.",
+                "hu": "Élettel teli hely rossz időben is; a közeli utcáknak köszönhetően a park az esőmentes szünetekben is gyorsan bejárható autóval.",
+                "ro": "Un loc plin de viață chiar și pe vreme rea; datorită străzilor apropiate, parcul poate fi explorat rapid în pauzele dintre averse.",
+                "en": "A lively spot even in bad weather; thanks to the nearby streets, you can quickly explore the park during any short breaks in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres geheizten Autos zwischen den winterlichen Zielen. Morgens erwartet Sie das frostige Mindelunden und der Ellehøi-Hügel. Mittags bietet die Grundtvig-Kirche eine prachtvolle Kulisse. Am Nachmittag besuchen Sie Guldbergs Plads und Nørrebroparken. Nutzen Sie die kurzen Wege vom Auto zu den Sehenswürdigkeiten, um die Kälte draußen nur kurz spüren zu müssen, bevor es um 17:00 Uhr dunkel wird.",
+            "hu": "Élvezze fűtött autója kényelmét a téli úti célok között. Reggel a zúzmarás Mindelunden és az Ellehøi-domb várja. Délben a Grundtvig-templom nyújt fenséges látványt. Délután látogasson el a Guldbergs Pladsra és a Nørrebroparkenbe. Használja ki az autó és a látnivalók közötti rövid távolságokat, hogy csak rövid ideig kelljen a hidegben lennie, mielőtt 17:00-kor leszáll az éj.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite între destinațiile de iarnă. Dimineața vă așteaptă Mindelunden înghețat și dealul Ellehøi. La prânz, Biserica Grundtvig oferă un cadru magnific. După-amiaza, vizitați Guldbergs Plads și Nørrebroparken. Profitați de distanțele scurte de la mașină la obiective pentru a scurta timpul petrecut în ger înainte de ora 17:00.",
+            "en": "Enjoy the comfort of your heated car between winter destinations. In the morning, the frosty Mindelunden and Ellehøi hill await. At noon, Grundtvig's Church provides a magnificent setting. Visit Guldbergs Plads and Nørrebroparken in the afternoon. Take advantage of short walks from the car to the sights to minimize time in the cold before darkness falls at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mindelunden",
+                "hu": "Mindelunden",
+                "ro": "Mindelunden",
+                "en": "Mindelunden"
+              },
+              "tip_5lang": {
+                "de": "Die gepflegten Anlagen wirken im Reif besonders würdevoll; nutzen Sie die Parkzeit, um den Wagen im Inneren warm zu halten.",
+                "hu": "A gondozott kert a zúzmarában különösen méltóságteljes; használja a parkolás idejét, hogy a kocsi belseje kellemesen meleg maradjon.",
+                "ro": "Grădinile bine întreținute par deosebit de demne sub chiciură; lăsați căldura pornită un pic înainte de a parca pentru confort maxim.",
+                "en": "The manicured grounds look especially dignified in the frost; keep the car heater running until the last moment for maximum comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Ellehøi",
+                "hu": "Ellehøi",
+                "ro": "Ellehøi",
+                "en": "Ellehøi"
+              },
+              "tip_5lang": {
+                "de": "Der Blick vom Hügel ist bei klarer Winterluft fantastisch; achten Sie auf eine eventuell vereiste Zufahrt oder Parkflächen am Straßenrand.",
+                "hu": "A dombról nyíló kilátás fantasztikus a tiszta téli levegőben; ügyeljen az esetlegesen jeges útpadkára vagy parkolóhelyekre.",
+                "ro": "Priveliștea de pe deal este fantastică în aerul clar de iarnă; atenție la marginile drumului sau locurile de parcare care pot fi înghețate.",
+                "en": "The view from the hill is fantastic in the clear winter air; be mindful of potentially icy road edges or parking spots nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Grundtvigskirche",
+                "hu": "Grundtvig-templom",
+                "ro": "Biserica Grundtvig",
+                "en": "Grundtvig's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist eine ideale Pause von der Kälte; die monumentale Architektur lässt sich im warmen Inneren am besten bestaunen.",
+                "hu": "Egy itteni látogatás ideális szünet a hideg elől; a monumentális építészet a meleg belső térben csodálható meg a legkényelmesebben.",
+                "ro": "O vizită aici este o pauză ideală de la ger; arhitectura monumentală poate fi admirată cel mai bine în interiorul încălzit.",
+                "en": "A visit here is an ideal break from the freezing cold; the monumental architecture is best admired while staying warm inside the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Guldbergs Plads",
+                "hu": "Guldbergs Plads",
+                "ro": "Guldbergs Plads",
+                "en": "Guldbergs Plads"
+              },
+              "tip_5lang": {
+                "de": "Die Spielplatzskulpturen wirken im Winterlicht fast magisch; planen Sie den Stopp vor der Dämmerung ein, um die Details noch zu sehen.",
+                "hu": "A játszótéri formák szinte mágikusan hatnak a téli fényben; tervezze a megállót sötétedés elé, hogy láthassa a különleges részleteket.",
+                "ro": "Formele locului de joacă par aproape magice în lumina iernii; programați oprirea înainte de amurg pentru a vedea detaliile deosebite.",
+                "en": "The playground structures look almost magical in the low winter light; plan your stop before twilight to see all the unique details."
+              }
+            },
+            {
+              "name": {
+                "de": "Nørrebroparken",
+                "hu": "Nørrebroparken",
+                "ro": "Nørrebroparken",
+                "en": "Nørrebroparken"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Abendspaziergang; Parkplätze finden Sie meist in den Seitenstraßen direkt am Rande der Parkanlage.",
+                "hu": "Szép helyszín egy rövid esti sétához; parkolóhelyet leginkább a park szélén lévő mellékutcákban találhat az autója számára.",
+                "ro": "Un loc frumos pentru o scurtă plimbare de seară; veți găsi locuri de parcare mai ales pe străzile laterale de la marginea parcului.",
+                "en": "A lovely spot for a brief evening walk; you can usually find parking in the side streets directly adjacent to the park's edge."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Coutras történelmi központjában a Keresztelő Szent János-templom és a híres IV. Henrik-kút felfedezésével. Délben tegyen egy festői sétát a lenyűgöző Château d'Eygreteau felé, hogy elmerüljön a múltban. A délután a békés Lac des Nauves tavához vezet, amely tökéletes természeti kikapcsolódást nyújt. Zárja a napot egy kellemes pihenéssel az AquaGym medencéinél.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Coutras, admirând Biserica Sf. Ioan Botezătorul și faimoasa Fântână a lui Henric al IV-lea. La prânz, plimbați-vă spre impresionantul Château d'Eygreteau pentru o incursiune în istorie. După-amiaza vă conduce la liniștitul Lac des Nauves, oferind o evadare naturală perfectă. Încheiați ziua relaxându-vă la facilitățile AquaGym.",
         "en": "Start your morning exploring the historic heart of Coutras, admiring the beautiful Saint-Jean-Baptiste Church and the iconic Henri IV Well. By midday, enjoy a scenic walk south to the impressive Château d'Eygreteau for a touch of local history. The afternoon leads you to the tranquil Lac des Nauves, offering perfect natural escapes. End your day relaxing at the AquaGym facilities."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Tag im Schutz der historischen Kirche. Mittags spazieren Sie mit Schirm am Brunnen und dem eleganten Schloss vorbei. Am Nachmittag am See sind wegen der schlammigen Wege wasserdichte Stiefel nötig. Beenden Sie den Tag im warmen Innenbereich des AquaGym.",
+            "hu": "Kezdje az esős napot a történelmi templom menedékében. Délben esernyővel sétáljon el a kút és az elegáns kastély mellett. A tónál töltött délutánhoz a saras ösvények miatt vízálló csizma szükséges. Fejezze be a napot az AquaGym meleg fedett medencéiben.",
+            "ro": "Începeți ziua ploioasă la adăpostul bisericii istorice. La prânz, plimbați-vă cu umbrela pe lângă fântână și castelul elegant. După-amiaza la lac necesită cizme impermeabile din cauza potecilor noroioase. Încheiați ziua încălzindu-vă în piscinele interioare de la AquaGym.",
+            "en": "Start your rainy day in the shelter of the historic church. Midday brings umbrella walks past the well and the elegant castle. The afternoon at the lake requires waterproof boots due to muddy paths. Finish your day warming up in the indoor pools of AquaGym."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sf. Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster von innen im Trockenen; ein perfekter Zufluchtsort vor dem Regen.",
+                "hu": "Csodálja meg az ólomüveg ablakokat száraz helyről; tökéletes, csendes menedék az eső elől.",
+                "ro": "Admirați vitraliile din interior la adăpost de ploaie; un refugiu perfect și liniștit.",
+                "en": "Admire the stained glass from inside while staying dry; a perfect quiet refuge from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunnen von Heinrich IV.",
+                "hu": "IV. Henrik-kút",
+                "ro": "Fântâna lui Henric al IV-lea",
+                "en": "Henri IV Well"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das Denkmal an, aber achten Sie auf die rutschigen Pflastersteine bei Nässe.",
+                "hu": "Gyorsan tekintse meg a műemléket, de vigyázzon a csúszós macskakövekre az esőben.",
+                "ro": "Vedeți rapid monumentul, dar aveți grijă la pietrele cubice alunecoase pe timp de ploaie.",
+                "en": "See the historic monument quickly, but beware of slippery cobblestones around it in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Eygreteau",
+                "hu": "Château d'Eygreteau",
+                "ro": "Château d'Eygreteau",
+                "en": "Château d'Eygreteau"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade wirkt unter dem grauen Himmel dramatisch; bringen Sie einen guten Regenschirm mit.",
+                "hu": "A homlokzat drámaian fest a szürke ég alatt; vigyen magával egy jó esernyőt a szabadtéri nézelődéshez.",
+                "ro": "Fațada arată dramatic sub cerul gri; luați o umbrelă rezistentă pentru exterior.",
+                "en": "The facade looks dramatic under gray skies, so bring a good umbrella for the outdoor viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Nauves",
+                "hu": "Lac des Nauves",
+                "ro": "Lac des Nauves",
+                "en": "Lac des Nauves"
+              },
+              "tip_5lang": {
+                "de": "Die Wege sind schlammig, also bleiben Sie auf befestigten Pfaden und tragen Sie wasserdichte Stiefel.",
+                "hu": "Az ösvények sárosak lesznek, ezért maradjon a burkolt részeken és viseljen vízálló csizmát.",
+                "ro": "Potecile vor fi noroioase, așa că rămâneți pe secțiunile pavate și purtați cizme impermeabile.",
+                "en": "The paths will be muddy and wet, so stick to the paved sections and wear sturdy rain boots."
+              }
+            },
+            {
+              "name": {
+                "de": "AquaGym",
+                "hu": "AquaGym",
+                "ro": "AquaGym",
+                "en": "AquaGym"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen komplett und genießen Sie die beheizten Innenpools und die Entspannung.",
+                "hu": "Meneküljön el teljesen az eső elől a fűtött beltéri medencékben és a pihentető vízparti létesítményekben.",
+                "ro": "Scăpați complet de ploaie bucurându-vă de piscinele interioare încălzite și relaxante.",
+                "en": "Escape the rain entirely by enjoying the indoor heated pools and relaxing water facilities."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt Sie an der Kirche und dem historischen Brunnen. Mittags machen Sie einen flotten Spaziergang zum Schloss. Der Nachmittag am See ist wunderschön ruhig, also ziehen Sie sich warm an. Gehen Sie vor dem frühen Sonnenuntergang um 17 Uhr ins AquaGym.",
+            "hu": "Fagyos reggel köszönti Önt a templomnál és a történelmi kútnál. Délben tegyen egy frissítő sétát a kastélyhoz. A tónál töltött délután gyönyörűen nyugodt, ezért öltözzön melegen. Húzódjon be az AquaGymbe a korai, 17 órai sötétedés előtt.",
+            "ro": "O dimineață geroasă vă întâmpină la biserică și la fântâna istorică. Prânzul aduce o plimbare revigorantă spre castel. După-amiaza la lac este frumos de senină, așa că îmbrăcați-vă gros. Retrageți-vă la AquaGym înainte de apusul devreme, în jurul orei 17:00.",
+            "en": "A frosty morning greets you at the church and the historic well. Midday brings a brisk, cold walk to admire the castle's architecture. The afternoon at the lake is beautifully serene, so bundle up warmly. Head indoors to the AquaGym before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sf. Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie hinein, um Ihre Hände aufzuwärmen und die friedliche Winteratmosphäre zu genießen.",
+                "hu": "Lépjen be, hogy felmelegítse a kezét, és megcsodálja a történelmi épület békés téli hangulatát.",
+                "ro": "Intrați pentru a vă încălzi mâinile și a admira atmosfera pașnică de iarnă a clădirii.",
+                "en": "Step inside to warm your hands and admire the peaceful winter atmosphere of this historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunnen von Heinrich IV.",
+                "hu": "IV. Henrik-kút",
+                "ro": "Fântâna lui Henric al IV-lea",
+                "en": "Henri IV Well"
+              },
+              "tip_5lang": {
+                "de": "Der Brunnen sieht im Frost wunderschön aus, aber ziehen Sie sich warm an gegen die beißende Morgenluft.",
+                "hu": "A kút gyönyörű a fagyban, de öltözzön melegen, mert a reggeli levegő itt csípős lehet.",
+                "ro": "Fântâna arată superb acoperită de brumă, dar îmbrăcați-vă gros deoarece aerul este tăios.",
+                "en": "The well looks beautiful in the frost, but wrap up warmly as the morning air can be biting here."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Eygreteau",
+                "hu": "Château d'Eygreteau",
+                "ro": "Château d'Eygreteau",
+                "en": "Château d'Eygreteau"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A csupasz téli fák szabad kilátást nyújtanak; maradjon mozgásban, hogy melegen tartsa magát.",
+                "ro": "Copacii dezgoliți oferă o vedere clară a castelului; mișcați-vă pentru a vă menține căldura.",
+                "en": "The bare winter trees offer a clear view of the castle; keep moving to stay warm while observing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Nauves",
+                "hu": "Lac des Nauves",
+                "ro": "Lac des Nauves",
+                "en": "Lac des Nauves"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, aber tragen Sie dicke Schichten gegen die Kälte.",
+                "hu": "Élvezze a friss téli levegőt, de öltözzön vastag rétegekbe a hideg ellen.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă, dar îmbrăcați-vă în straturi groase împotriva frigului.",
+                "en": "Enjoy the crisp winter air and serene reflections, but dress in heavy layers against the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "AquaGym",
+                "hu": "AquaGym",
+                "ro": "AquaGym",
+                "en": "AquaGym"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen nach einem frostigen Nachmittag mit beheizten Innenpools.",
+                "hu": "Tökéletes hely a felmelegedésre egy fagyos délután után, fűtött beltéri medencékkel.",
+                "ro": "Locul perfect pentru a vă încălzi după o după-amiază geroasă, cu piscine interioare.",
+                "en": "The perfect place to warm up after a freezing afternoon out, with heated indoor pools."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Indítsa a kerékpártúrát Abzacban, megtekintve a városházát, a hangulatos Szent Péter-templomot és a történelmi kastélyt. Délben tekerjen északra a lenyűgöző Château d'Eygreteau felé, majd érje el Coutras központját. A délutánt a IV. Henrik-kút és a főtemplom felfedezésével töltheti. Zárja ezt az aktív napot egy frissítő gurulással a festői Lac des Nauves tavához.",
         "ro": "Începeți turul cu bicicleta în Abzac, admirând primăria, fermecătoarea Biserică Sf. Petru și castelul istoric. La prânz, pedalați spre nord pentru a descoperi grandiosul Château d'Eygreteau, ajungând apoi în centrul orașului Coutras. Petreceți după-amiaza explorând Fântâna lui Henric al IV-lea și biserica principală. Încheiați ziua activă cu o plimbare spre pitorescul Lac des Nauves.",
         "en": "Kick off your cycling tour in Abzac, taking in the local Mairie, the charming Église Saint-Pierre, and the historic Château et moulin. Midday, pedal north to uncover the grand Château d'Eygreteau before reaching the very center of Coutras. Spend the afternoon exploring the Henri IV Well and the main church. Wrap up your active day with a refreshing ride to the scenic Lac des Nauves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt am Rathaus und der Kirche. Mittags radeln Sie am Schloss und der Mühle vorbei; achten Sie auf rutschiges Laub. Die Nachmittagsfahrt zum Brunnen und See erfordert Warnkleidung und gute Schutzbleche für eine sichere Fahrt.",
+            "hu": "Kezdje a nedves túrát a városházánál és a templomnál. Délben tekerjen el a kastély és a malom mellett; vigyázzon a csúszós levelekre. A kúthoz és a tóhoz vezető délutáni tekeréshez láthatósági mellény és jó sárvédő szükséges a biztonságos, nedves úthoz.",
+            "ro": "Începeți traseul umed la primărie și biserică. La prânz pedalați pe lângă castel și moară; atenție la frunzele alunecoase. Cursa de după-amiază spre fântână și lac necesită echipament de vizibilitate și apărători de noroi pentru o călătorie sigură.",
+            "en": "Start your wet ride at the town hall and church. Midday brings a pedal past the majestic castle and mill; watch for slippery leaves. The afternoon ride towards the well and lake requires high visibility gear and good mudguards for a safe, wet journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Abzac",
+                "hu": "Abzac Városháza",
+                "ro": "Primăria Abzac",
+                "en": "Mairie d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto unterm Schirm; lassen Sie das Licht für bessere Sichtbarkeit an.",
+                "hu": "Készítsen egy gyors fotót az esernyő alól; hagyja felkapcsolva a lámpát a jobb láthatóságért.",
+                "ro": "Faceți o fotografie rapidă sub umbrelă; țineți farurile aprinse pentru vizibilitate.",
+                "en": "Take a quick photo under your umbrella; keep your bike lights on for better visibility in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sf. Petru",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um kurz abzutrocknen und das historische Innere zu bewundern.",
+                "hu": "Remek hely egy kis száradásra, miközben a történelmi belső teret csodálja.",
+                "ro": "Un loc excelent pentru a vă usca un moment, admirând interiorul istoric al bisericii.",
+                "en": "A great spot to dry off for a moment while admiring the historic interior of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Château et moulin d'Abzac",
+                "hu": "Château et moulin d'Abzac",
+                "ro": "Château și moara din Abzac",
+                "en": "Château et moulin d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss könnte angeschwollen sein; bremsen Sie vorsichtig auf den nassen Wegen zur Mühle.",
+                "hu": "A folyó megáradhatott; fékezzen óvatosan a malomhoz vezető nedves utakon.",
+                "ro": "Râul ar putea fi umflat; frânați cu grijă pe potecile umede spre moară.",
+                "en": "The river might be swollen; brake carefully on the wet paths leading to the mill."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Eygreteau",
+                "hu": "Château d'Eygreteau",
+                "ro": "Château d'Eygreteau",
+                "en": "Château d'Eygreteau"
+              },
+              "tip_5lang": {
+                "de": "Das majestätische Äußere sticht im Regen hervor, aber verweilen Sie nicht zu lange.",
+                "hu": "A fenséges külső kitűnik a szürke esőből, de ne időzzön sokat a felhőszakadásban.",
+                "ro": "Exteriorul maiestuos iese în evidență pe timp de ploaie, dar nu zăboviți prea mult.",
+                "en": "The majestic exterior stands out in the gray rain, but don't linger long in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunnen von Heinrich IV.",
+                "hu": "IV. Henrik-kút",
+                "ro": "Fântâna lui Henric al IV-lea",
+                "en": "Henri IV Well"
+              },
+              "tip_5lang": {
+                "de": "Die Pflastersteine sind nass extrem rutschig; steigen Sie ab und schieben Sie das Rad.",
+                "hu": "A macskakövek nedvesen rendkívül csúszósak; szálljon le és tolja a biciklit.",
+                "ro": "Pietrele cubice sunt foarte alunecoase la umezeală, așa că descălecați și împingeți bicicleta.",
+                "en": "Cobblestones around the well are extremely slick when wet, so dismount and walk your bike here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sf. Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer willkommener Stopp im Trockenen, um die Ausrüstung abzuwischen und aufzuwärmen.",
+                "hu": "Egy újabb szívesen látott beltéri megálló a felszerelés letörlésére és a felmelegedésre.",
+                "ro": "O altă oprire binevenită la interior pentru a vă curăța echipamentul și a vă încălzi.",
+                "en": "Another welcome indoor stop to wipe down your gear and warm up briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Nauves",
+                "hu": "Lac des Nauves",
+                "ro": "Lac des Nauves",
+                "en": "Lac des Nauves"
+              },
+              "tip_5lang": {
+                "de": "Radeln am See wird schlammig; bleiben Sie auf festen Wegen und tragen Sie eine Regenjacke.",
+                "hu": "A tó körüli tekerés sáros lesz; maradjon a szilárd utakon és viseljen vízálló dzsekit.",
+                "ro": "Mersul cu bicicleta la lac va fi noroios; folosiți căile solide și purtați jachetă impermeabilă.",
+                "en": "Cycling around the lake will be muddy; stick to the solid paths and wear a waterproof jacket."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Morgenfahrt beginnt an Rathaus und Kirche. Mittags geht es am frostbedeckten Schloss und der Mühle vorbei. Treten Sie kräftig in die Pedale zum Brunnen und See, um warm zu bleiben, bevor die Sonne um 17 Uhr früh untergeht.",
+            "hu": "Egy friss reggeli tekerés a városházánál és a templomnál kezdődik. Délben a deres kastély és malom mellett halad el. Tekerjen erőteljesen a kút és a tó felé, hogy melegen tartsa magát, mielőtt a nap korán, 17 órakor lemegy.",
+            "ro": "O plimbare matinală geroasă începe la primărie și biserică. Prânzul vă poartă pe lângă castelul și moara acoperite de brumă. Pedalați viguros spre fântână și lac pentru a vă încălzi, înainte ca soarele să apună devreme la ora 17:00.",
+            "en": "A crisp morning ride starts at the town hall and church. Midday takes you past the frost-covered castle and mill. Keep pedaling vigorously towards the well and lake to stay warm, and ensure your bike lights work before the sun sets early at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Abzac",
+                "hu": "Abzac Városháza",
+                "ro": "Primăria Abzac",
+                "en": "Mairie d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt, um die Winterhandschuhe zu richten, bevor es weiter in die Stadt geht.",
+                "hu": "Rövid megálló a téli kesztyűk megigazítására, mielőtt tovább indul a városba.",
+                "ro": "O scurtă oprire pentru a ajusta mănușile de iarnă înainte de a continua traseul.",
+                "en": "A quick stop to adjust your winter gloves and scarf before heading further into town."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sf. Petru",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie hinein, um Ihre frierenden Finger zu wärmen und die Stille zu genießen.",
+                "hu": "Lépjen be a templomba, hogy felmelegítse a fagyos ujjait és élvezze a téli csendet.",
+                "ro": "Intrați în biserică pentru a vă încălzi degetele și a admira liniștea iernii.",
+                "en": "Step inside the church to warm your freezing fingers and admire the quiet winter peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Château et moulin d'Abzac",
+                "hu": "Château et moulin d'Abzac",
+                "ro": "Château și moara din Abzac",
+                "en": "Château et moulin d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Flussufer sieht toll aus, aber achten Sie auf Eisflächen auf dem Radweg.",
+                "hu": "A befagyott folyópart lenyűgöző, de vigyázzon a jégfoltokra a kerékpárúton.",
+                "ro": "Malurile înghețate arată uimitor, dar atenție la porțiunile cu gheață de pe pistă.",
+                "en": "The frozen river banks look stunning, but watch out for icy patches on the cycle path."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Eygreteau",
+                "hu": "Château d'Eygreteau",
+                "ro": "Château d'Eygreteau",
+                "en": "Château d'Eygreteau"
+              },
+              "tip_5lang": {
+                "de": "Die blätterlosen Bäume bieten beste Sicht; halten Sie das Tempo, um warm zu bleiben.",
+                "hu": "A levéltelen fák tökéletes kilátást nyújtanak; tartsa a tempót a hideg ellen.",
+                "ro": "Copacii fără frunze oferă o vedere perfectă; mențineți un ritm alert pentru a nu îngheța.",
+                "en": "The leafless trees offer a perfect view; keep your pace up to fight off the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunnen von Heinrich IV.",
+                "hu": "IV. Henrik-kút",
+                "ro": "Fântâna lui Henric al IV-lea",
+                "en": "Henri IV Well"
+              },
+              "tip_5lang": {
+                "de": "Der Steinbrunnen sieht mit Frost wunderschön aus, aber der Boden kann eisig sein.",
+                "hu": "A kőből épült kút gyönyörű a dérben, de a környékén a talaj jeges lehet.",
+                "ro": "Fântâna din piatră este superbă cu un strat de brumă, dar solul poate fi înghețat.",
+                "en": "The stone well looks beautiful covered in frost, but the ground nearby can be icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sf. Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich einen Moment im Inneren, um sich vor dem Endspurt aufzuwärmen.",
+                "hu": "Szánjon egy percet az épület belsejében a felmelegedésre az utolsó szakasz előtt.",
+                "ro": "Acordați-vă un moment la interior pentru a vă încălzi înaintea etapei finale.",
+                "en": "Take a moment inside this historic building to warm up before the final stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Nauves",
+                "hu": "Lac des Nauves",
+                "ro": "Lac des Nauves",
+                "en": "Lac des Nauves"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten; Licht an für die dunkle Rückfahrt.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet; kapcsoljon lámpát a sötét visszaútra.",
+                "ro": "Soarele de iarnă creează umbre lungi; asigurați-vă că aveți lumini pentru întoarcere.",
+                "en": "The low winter sun creates long shadows over the water; make sure you have lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje az utat az elegáns Château d'Eygreteau-nál, amely fenséges hangulatot ad a napnak. Délben utazzon Abzacba, ahol a városháza, a templom és a folyóparti kastély könnyen bejárható. Délután térjen vissza Coutrasba a IV. Henrik-kút és a Keresztelő Szent János-templom megtekintésére. Zárja az utat családi mókával az AquaGymben és egy békés naplementével a Lac des Nauves-nél.",
         "ro": "Începeți traseul auto la elegantul Château d'Eygreteau, setând un ton maiestuos pentru zi. La prânz, conduceți spre Abzac pentru a vizita primăria, biserica istorică și castelul de pe malul râului. După-amiaza, întoarceți-vă în Coutras pentru a vedea Fântâna lui Henric al IV-lea și Biserica Sf. Ioan Botezătorul. Încheiați cu distracție la AquaGym și un apus la Lac des Nauves.",
         "en": "Begin your drive at the elegant Château d'Eygreteau, setting a majestic tone for the day. By midday, travel to Abzac to easily walk between the Mairie, the historic church, and the riverside Château et moulin. In the afternoon, return to Coutras to see the Henri IV Well and Saint-Jean-Baptiste Church. Conclude your road trip with family fun at AquaGym and a peaceful sunset at Lac des Nauves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am regnerischen Morgen sicher zum Schloss. Mittags gibt es kurze Stopps mit Regenschirm an Rathaus, Kirche und Mühle. Die Nachmittagsfahrt zum Brunnen und AquaGym bietet Schutz vor Nässe, endend mit einem Blick auf den regnerischen See.",
+            "hu": "Vezessen biztonságosan a kastélyhoz az esős reggelen. Délben rövid, esernyős megállók következnek a városházánál, templomnál és malomnál. A délutáni vezetés a kúthoz és az AquaGymhez menedéket nyújt a nedvesség elől, a napot a sáros tó gyors megtekintése zárja.",
+            "ro": "Conduceți în siguranță la castel în dimineața ploioasă. Prânzul aduce opriri scurte, sub umbrelă, la primărie, biserică și moară. Condusul de după-amiază spre fântână și AquaGym oferă o evadare din ploaie, terminând cu o priveliște scurtă a lacului umed.",
+            "en": "Drive safely to the castle in the rainy morning. Midday brings brief, umbrella-covered stops at the town hall, church, and mill. Afternoon driving to the well and AquaGym offers an escape from the wet, ending with a quick view of the rain-swept lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château d'Eygreteau",
+                "hu": "Château d'Eygreteau",
+                "ro": "Château d'Eygreteau",
+                "en": "Château d'Eygreteau"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nehmen Sie einen stabilen Schirm für die Außenansicht mit.",
+                "hu": "Parkoljon a közelben, és vigyen egy stabil esernyőt a külső megtekintéséhez a záporban.",
+                "ro": "Parcați aproape și luați o umbrelă solidă pentru a admira exteriorul în ploaie.",
+                "en": "Park close by and bring a sturdy umbrella to admire the exterior in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Abzac",
+                "hu": "Abzac Városháza",
+                "ro": "Primăria Abzac",
+                "en": "Mairie d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Springen Sie kurz fürs Foto aus dem Auto und meiden Sie die Pfützen auf dem Platz.",
+                "hu": "Ugorjon ki egy gyors fotóra a kocsiból, elkerülve a téren képződő tócsákat.",
+                "ro": "Ieșiți rapid din mașină pentru o fotografie, evitând bălțile formate în piață.",
+                "en": "Hop out of the car quickly for a photo, avoiding the puddles forming in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sf. Petru",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein trockener, friedlicher Hafen vor dem starken Regen; nehmen Sie sich Zeit.",
+                "hu": "A belső tér száraz, békés menedék a kinti heves esőzés elől; szánjon rá időt.",
+                "ro": "Interiorul este un refugiu uscat și pașnic din calea ploii torențiale; relaxați-vă.",
+                "en": "The interior is a dry, peaceful haven from the heavy rain outside; take your time."
+              }
+            },
+            {
+              "name": {
+                "de": "Château et moulin d'Abzac",
+                "hu": "Château et moulin d'Abzac",
+                "ro": "Château și moara din Abzac",
+                "en": "Château et moulin d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Zufahrtsstraßen und genießen Sie den angeschwollenen Fluss.",
+                "hu": "Vezessen óvatosan a nedves bevezető utakon, és élvezze a megáradt folyó látványát.",
+                "ro": "Conduceți prudent pe drumurile umede și bucurați-vă de priveliștea râului umflat.",
+                "en": "Drive carefully on the wet approach roads and enjoy the rain-swollen river views."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunnen von Heinrich IV.",
+                "hu": "IV. Henrik-kút",
+                "ro": "Fântâna lui Henric al IV-lea",
+                "en": "Henri IV Well"
+              },
+              "tip_5lang": {
+                "de": "Schnappen Sie sich den Schirm für einen kurzen Blick, aber Vorsicht auf nassen Steinen.",
+                "hu": "Kapja fel az esernyőt egy gyors pillantásra, de vigyázzon a csúszós macskaköveken.",
+                "ro": "Luați umbrela pentru o scurtă privire, dar aveți grijă la pietrele cubice alunecoase.",
+                "en": "Grab your umbrella for a quick look, but watch your step on the slick cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sf. Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und huschen Sie hinein, um die Architektur völlig trocken zu genießen.",
+                "hu": "Parkoljon a közelben és szaladjon be, hogy teljesen szárazon élvezze az építészetet.",
+                "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a vă bucura de arhitectură complet uscat.",
+                "en": "Park nearby and dash inside to enjoy the architecture while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "AquaGym",
+                "hu": "AquaGym",
+                "ro": "AquaGym",
+                "en": "AquaGym"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Flucht an Regentagen; wärmen Sie sich in den Pools auf und entspannen Sie.",
+                "hu": "A tökéletes beltéri menedék esős napokon; melegedjen fel a medencékben és pihenjen.",
+                "ro": "Evadarea perfectă în interior într-o zi ploioasă; încălziți-vă și relaxați-vă.",
+                "en": "The perfect indoor escape on a rainy day; warm up in the pools and relax completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Nauves",
+                "hu": "Lac des Nauves",
+                "ro": "Lac des Nauves",
+                "en": "Lac des Nauves"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den nebligen See am besten vom Auto aus, da die Wege schlammig sind.",
+                "hu": "A ködös tavat leginkább az autóból vagy a partról nézze meg, mert az ösvények sárosak.",
+                "ro": "Priviți lacul acoperit de ceață mai ales din mașină, potecile fiind noroioase.",
+                "en": "View the atmospheric, mist-covered lake mostly from the car or edge, as paths will be muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Morgen mit der Fahrt zum eleganten Schloss. Die Stopps an Rathaus, Kirche und Mühle erfordern warme Mäntel beim Verlassen des beheizten Autos. Der Nachmittag umfasst den Brunnen und AquaGym und endet am See vor 17 Uhr.",
+            "hu": "Kezdje a hideg reggelt az elegáns kastélyhoz vezető úttal. A városházánál, templomnál és malomnál tett megállókhoz meleg kabát szükséges. A délután a történelmi kúté és az AquaGymé, majd a tóhoz ér a korai, 17 órai sötétedés előtt.",
+            "ro": "Începeți dimineața rece conducând spre castelul elegant. Opririle de la prânz la primărie, biserică și moară necesită haine groase când părăsiți mașina încălzită. După-amiaza include fântâna și AquaGym, terminând la lac înainte de apusul de la ora 17:00.",
+            "en": "Start the cold morning driving to the elegant castle. Midday stops at the town hall, church, and mill require warm coats when leaving the heated car. The afternoon includes the historic well and AquaGym, ending at the lake before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château d'Eygreteau",
+                "hu": "Château d'Eygreteau",
+                "ro": "Château d'Eygreteau",
+                "en": "Château d'Eygreteau"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten eine fantastische Aussicht bequem aus dem warmen Auto.",
+                "hu": "A csupasz téli fák fantasztikus kilátást nyújtanak a meleg autó kényelméből.",
+                "ro": "Copacii dezgoliți oferă o priveliște fantastică din confortul cald al mașinii.",
+                "en": "The bare winter trees offer a fantastic view from the warm comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie d'Abzac",
+                "hu": "Abzac Városháza",
+                "ro": "Primăria Abzac",
+                "en": "Mairie d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz in die klare Winterluft hinaus, um dieses klassische Gebäude zu bewundern.",
+                "hu": "Lépjen ki röviden a friss téli levegőre, hogy megcsodálja ezt a klasszikus épületet.",
+                "ro": "Ieșiți scurt în aerul proaspăt de iarnă pentru a admira această clădire clasică.",
+                "en": "Step out briefly into the crisp winter air to admire this classic civic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sf. Petru",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf und bewundern Sie die friedliche Winteratmosphäre.",
+                "hu": "Melegedjen fel bent, miközben a templom békés, csendes téli hangulatát csodálja.",
+                "ro": "Încălziți-vă înăuntru admirând atmosfera pașnică și liniștită de iarnă a naosului.",
+                "en": "Warm your hands inside while admiring the peaceful, hushed winter atmosphere of the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Château et moulin d'Abzac",
+                "hu": "Château et moulin d'Abzac",
+                "ro": "Château și moara din Abzac",
+                "en": "Château et moulin d'Abzac"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie in den Wintermonaten auf Glatteis auf den Landstraßen nahe der Mühle.",
+                "hu": "A téli hónapokban ügyeljen a tükörjégre a malomhoz közeli vidéki utakon.",
+                "ro": "Aveți grijă la gheața neagră de pe drumurile rurale din apropierea morii în lunile de iarnă.",
+                "en": "Watch out for black ice on the rural roads near the mill during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Brunnen von Heinrich IV.",
+                "hu": "IV. Henrik-kút",
+                "ro": "Fântâna lui Henric al IV-lea",
+                "en": "Henri IV Well"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Stopp; das historische Mauerwerk wirkt mit etwas Frost besonders.",
+                "hu": "Gyors, hűvös megálló; a történelmi kőfal különösen feltűnő egy kis fagyban.",
+                "ro": "O oprire scurtă și rece; piatra istorică arată deosebit cu un strat fin de brumă.",
+                "en": "A quick, chilly stop; the historic stonework looks especially striking with a touch of frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sf. Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Eine weitere willkommene Pause vom kalten Wind, um den Innenraum zu schätzen.",
+                "hu": "Egy újabb szívesen látott menedék a hideg szél elől a történelmi belső térben.",
+                "ro": "O altă pauză binevenită din calea vântului rece pentru a aprecia interiorul istoric.",
+                "en": "Another welcome break from the cold wind to appreciate the historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "AquaGym",
+                "hu": "AquaGym",
+                "ro": "AquaGym",
+                "en": "AquaGym"
+              },
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Ort, um mit beheizten Pools aufzutauen, wenn der Nachmittag abkühlt.",
+                "hu": "Kiváló hely a teljes felengedésre a fűtött medencékben, ahogy a késő délután lehűl.",
+                "ro": "Un loc excelent pentru a vă dezgheța complet, pe măsură ce după-amiaza se răcește.",
+                "en": "An excellent place to defrost completely with heated pools as the late afternoon cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Nauves",
+                "hu": "Lac des Nauves",
+                "ro": "Lac des Nauves",
+                "en": "Lac des Nauves"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung an für den Sonnenuntergang, aber packen Sie sich warm ein!",
+                "hu": "Érkezzen sötétedés előtt a naplementés tükröződésekért, de öltözzön be jó melegen!",
+                "ro": "Ajungeți înainte de amurg pentru reflexiile apusului pe apă, dar îmbrăcați-vă gros!",
+                "en": "Arrive before dusk to see the sunset reflections on the water, but bundle up tightly!"
+              }
+            }
+          ]
+        }
       }
     }
   }

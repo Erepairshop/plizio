@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy csendes sétával az ősi központban, felfedezve a lenyűgöző román stílusú vallási építészetet, amely meghatározza Parthenay korai történelmét.\nDélben a kőből épült szentélyekből a helyi vízi látványosságok felé vegye az irányt, ahol a városi ökológia békés hátteret biztosít egy rövid pihenéshez.\nA délutánt töltse a helyi örökség elmélyült megismerésével a múzeumban, felfedezve az évszázados kézművességet és a régió középkori mindennapjait.\nZárja a napot a város fölé magasodó fenséges erődítmény romjainál, ahol az esti fény tökéletesen kiemeli Parthenay félelmetes múltjának maradványait.",
         "ro": "Începeți dimineața cu o plimbare liniștită prin centrul antic, explorând arhitectura religioasă romanică uimitoare care definește istoria timpurie a orașului Parthenay.\nPână la prânz, treceți de la sanctuarele de piatră la elementele acvatice locale, unde ecologia urbană oferă un fundal pașnic pentru o scurtă odihnă.\nPetreceți-vă după-amiaza scufundându-vă în moștenirea locală la muzeu, descoperind secole de măiestrie și viața medievală cotidiană din regiune.\nÎncheiați ziua la ruinele majestuoase ale fortăreței ce domină orașul, unde lumina serii evidențiază perfect rămășițele trecutului formidabil al orașului Parthenay.",
         "en": "Start your morning with a quiet walk through the ancient core, exploring the stunning Romanesque religious architecture that defines Parthenay's early history.\nBy midday, transition from the stone sanctuaries to the local water features, where urban ecology provides a peaceful backdrop for a brief rest before more sightseeing.\nSpend your afternoon diving deep into local heritage at the museum, discovering centuries of craftsmanship and daily medieval life in the region.\nConclude the day at the majestic fortress ruins overlooking the town, where the evening light perfectly highlights the remnants of Parthenay's formidable past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in historischen Kirchen, die Schutz bieten. Mittags können Sie sich im örtlichen Museum aufwärmen und die Ausstellungen genießen. Für den Nachmittagsspaziergang zu den Becken und zur Burg sind Regenschirm und wasserfeste Schuhe nötig. Vorsicht auf rutschigem Kopfsteinpflaster am Abend.",
+            "hu": "Kezdje az esős reggelt a történelmi templomokban, ahol menedéket találhat. Délben húzódjon be a helyi múzeumba, és élvezze a kiállításokat. A délutáni séta a tározók és a vár felé esernyőt és vízálló cipőt igényel. Estefelé vigyázzon a csúszós macskaköveken.",
+            "ro": "Începeți dimineața ploioasă explorând bisericile istorice care oferă adăpost. La prânz, refugiați-vă în muzeul local pentru a admira expozițiile. Plimbarea de după-amiază spre bazine și castel necesită o umbrelă robustă și încălțăminte impermeabilă. Seara, aveți grijă la pietrele cubice alunecoase.",
+            "en": "Start your wet morning exploring historic churches offering shelter from the rain. By midday, take refuge in the local museum while enjoying the exhibits. The afternoon walk past the storm basins and castle requires a sturdy umbrella and waterproof shoes. Watch your step on the slick cobblestones as evening approaches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Croix",
+                "hu": "Sainte-Croix templom",
+                "ro": "Biserica Sainte-Croix",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur im Inneren und entfliehen Sie den morgendlichen Schauern in diesem ruhigen Zufluchtsort.",
+                "hu": "Csodálja meg a román stílusú építészetet bent, miközben csendes menedéket talál a reggeli záporok elől.",
+                "ro": "Admirați arhitectura romanică în interior, un refugiu perfect și liniștit împotriva ploii de dimineață.",
+                "en": "Admire the Romanesque architecture inside to escape the morning showers; a perfect quiet refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Moulin",
+                "hu": "Moulin csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Moulin",
+                "en": "Bassin d'orage du Moulin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wassermanagementsystem bei Regen; tragen Sie feste Stiefel für die schlammigen Wege.",
+                "hu": "Figyelje meg a vízgazdálkodási rendszert működés közben; viseljen strapabíró bakancsot az iszapos úton.",
+                "ro": "Observați sistemul de gestionare a apei în acțiune; purtați cizme rezistente pentru poteca noroioasă.",
+                "en": "Observe the water management system in action during rain; wear sturdy boots for the muddy path."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Couldre",
+                "hu": "Notre-Dame-de-la-Couldre templom",
+                "ro": "Biserica Notre-Dame-de-la-Couldre",
+                "en": "Notre-Dame-de-la-Couldre Church"
+              },
+              "tip_5lang": {
+                "de": "Die Fassadendetails glänzen im Regen; treten Sie ein, um sich vor dem Weitergehen aufzuwärmen.",
+                "hu": "A homlokzat lenyűgöző részletei esőben is szépek; lépjen be megszáradni a séta folytatása előtt.",
+                "ro": "Detaliile fațadei sunt superbe pe ploaie; intrați pentru a vă usca înainte de a continua plimbarea.",
+                "en": "The stunning facade details are beautiful wet; step inside to dry off before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Georges Turpin Museum",
+                "hu": "Georges Turpin Múzeum",
+                "ro": "Muzeul Georges Turpin",
+                "en": "Georges Turpin Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Lokalgeschichte drinnen, während Sie die stärksten Regengüsse am Mittag abwarten.",
+                "hu": "Töltsön elegendő időt a helyi történelem megismerésével bent, amíg elvonul a leghevesebb déli eső.",
+                "ro": "Explorați istoria locală în interior, așteptând să treacă cele mai puternice averse de la prânz.",
+                "en": "Spend ample time exploring local history indoors while waiting out the heaviest midday downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Wilson",
+                "hu": "Wilson csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Wilson",
+                "en": "Bassin d'orage Wilson"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie sich das Becken füllt; halten Sie den Schirm bereit, da hier oft starker Wind aufkommt.",
+                "hu": "Nézze meg, hogyan telik meg a tározó esőben; tartsa kéznél az esernyőt a feltámadó szél miatt.",
+                "ro": "Vedeți cum se umple bazinul pe timp de ploaie; țineți umbrela la îndemână, vântul se întețește aici.",
+                "en": "See how the basin fills during rainfall; keep your umbrella handy as wind often picks up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Parthenay",
+                "hu": "Parthenay Vára",
+                "ro": "Castelul Parthenay",
+                "en": "Parthenay Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruinen wirken im grauen Nieselregen atmosphärisch, aber Vorsicht vor rutschigen Steinen.",
+                "hu": "A várrom elképesztően hangulatos a szürke szitáló esőben, de ügyeljen a csúszós kövekre.",
+                "ro": "Ruinele castelului sunt pline de atmosferă în burnița gri, dar atenție la pietrele alunecoase.",
+                "en": "The castle ruins feel incredibly atmospheric in the gray drizzle, but watch out for slippery stones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einem zügigen Spaziergang zu den alten Kirchen. Mittags bietet das beheizte Museum eine Pause von der eisigen Luft. Packen Sie sich nachmittags warm ein für den Besuch der Becken und der Burg. Beenden Sie die Tour früh, da es gegen 17 Uhr dunkel und kalt wird.",
+            "hu": "A csípős téli reggel frissítő sétával indul az ősi templomokhoz. Délben a fűtött múzeum nyújt menedéket a fagyos levegő elől. Délután öltözzön melegen a tározók és a vár meglátogatásához. Tervezze korábbra a befejezést, mert délután 5 körül sötétedik, és lehűlnek a macskaköves utcák.",
+            "ro": "Dimineața rece de iarnă începe cu o plimbare revigorantă spre biserici. La prânz, muzeul încălzit oferă o pauză binevenită de la aerul înghețat. După-amiaza, îmbrăcați-vă gros vizitând bazinele și castelul. Terminați devreme, deoarece se întunecă pe la ora 17:00, iar străzile devin reci.",
+            "en": "A crisp winter morning starts with a brisk walk to the ancient churches. By noon, the heated museum provides a welcome break from the freezing air. During the afternoon, wrap up warmly as you visit the basins and the towering castle. Plan to finish early, as darkness falls around 5 PM, chilling the cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Croix",
+                "hu": "Sainte-Croix templom",
+                "ro": "Biserica Sainte-Croix",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor Winterwind; genießen Sie die frostige Morgenatmosphäre.",
+                "hu": "A vastag kőfalak szigetelnek a téli szelek ellen; élvezze a csendes, fagyos reggeli hangulatot.",
+                "ro": "Zidurile groase de piatră izolează de vântul de iarnă; bucurați-vă de atmosfera dimineții geroase.",
+                "en": "The thick stone walls offer insulation from winter winds; enjoy the quiet, frosty morning atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Moulin",
+                "hu": "Moulin csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Moulin",
+                "en": "Bassin d'orage du Moulin"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser gefriert oft an den Rändern und bildet Eismuster; tragen Sie Thermosocken und Stiefel.",
+                "hu": "A víz széle gyakran befagy, gyönyörű jégmintákat alkotva; viseljen meleg zoknit és csizmát.",
+                "ro": "Apa îngheață adesea la margini, creând modele de gheață; purtați șosete termice și cizme calde.",
+                "en": "The water often freezes at the edges, creating beautiful ice patterns; wear thermal socks and boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Couldre",
+                "hu": "Notre-Dame-de-la-Couldre templom",
+                "ro": "Biserica Notre-Dame-de-la-Couldre",
+                "en": "Notre-Dame-de-la-Couldre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Portalverzierungen im tiefen Sonnenlicht; perfekt zum kurzen Aufwärmen drinnen.",
+                "hu": "Csodálja meg a portál faragványait az alacsony téli napfényben; tökéletes egy rövid felmelegedéshez.",
+                "ro": "Admirați sculpturile portalului luminate de soarele coborât de iarnă; perfect pentru o încălzire rapidă.",
+                "en": "Marvel at the intricate portal carvings highlighted by the low winter sun; perfect for quick warming."
+              }
+            },
+            {
+              "name": {
+                "de": "Georges Turpin Museum",
+                "hu": "Georges Turpin Múzeum",
+                "ro": "Muzeul Georges Turpin",
+                "en": "Georges Turpin Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter Zufluchtsort; verbringen Sie hier während der kältesten Tageszeit etwas mehr Zeit.",
+                "hu": "Fűtött menedék a város múltjának felfedezéséhez; töltsön itt több időt a nap leghidegebb részében.",
+                "ro": "Un refugiu încălzit pentru a explora trecutul orașului; petreceți mai mult timp aici la prânz.",
+                "en": "A heated haven to explore Parthenay's past; spend extra time here during the coldest part of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Wilson",
+                "hu": "Wilson csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Wilson",
+                "en": "Bassin d'orage Wilson"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume schaffen eine karge Winterlandschaft; halten Sie einen Schal gegen kalte Winde bereit.",
+                "hu": "A csupasz fák zord téli tájat alkotnak; tartson kéznél sálat a csípős szél ellen.",
+                "ro": "Copacii goi creează un peisaj de iarnă auster; țineți la îndemână un fular împotriva vântului.",
+                "en": "The surrounding bare trees create a stark winter landscape; keep a scarf handy against biting winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Parthenay",
+                "hu": "Parthenay Vára",
+                "ro": "Castelul Parthenay",
+                "en": "Parthenay Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das frostige Tal vor Sonnenuntergang um 17 Uhr; kleiden Sie sich sehr warm.",
+                "hu": "Élvezze a dérlepte völgyre nyíló kilátást a 17 órás naplemente előtt; öltözzön nagyon melegen.",
+                "ro": "Bucurați-vă de vederea văii înghețate înainte de apusul de la ora 17:00; purtați haine groase.",
+                "en": "Enjoy sweeping views of the frost-covered valley before the 5 PM sunset; dress in heavy layers here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt egy csendes sétával az ősi központban, felfedezve a lenyűgöző román stílusú vallási építészetet, amely meghatározza Parthenay korai történelmét.\nDélben a kőből épült szentélyekből a helyi vízi látványosságok felé vegye az irányt, ahol a városi ökológia békés hátteret biztosít egy rövid pihenéshez.\nA délutánt töltse a helyi örökség elmélyült megismerésével a múzeumban, felfedezve az évszázados kézművességet és a régió középkori mindennapjait.\nZárja a napot a város fölé magasodó fenséges erődítmény romjainál, ahol az esti fény tökéletesen kiemeli Parthenay félelmetes múltjának maradványait.",
         "ro": "Începeți dimineața cu o plimbare liniștită prin centrul antic, explorând arhitectura religioasă romanică uimitoare care definește istoria timpurie a orașului Parthenay.\nPână la prânz, treceți de la sanctuarele de piatră la elementele acvatice locale, unde ecologia urbană oferă un fundal pașnic pentru o scurtă odihnă.\nPetreceți-vă după-amiaza scufundându-vă în moștenirea locală la muzeu, descoperind secole de măiestrie și viața medievală cotidiană din regiune.\nÎncheiați ziua la ruinele majestuoase ale fortăreței ce domină orașul, unde lumina serii evidențiază perfect rămășițele trecutului formidabil al orașului Parthenay.",
         "en": "Start your morning with a quiet walk through the ancient core, exploring the stunning Romanesque religious architecture that defines Parthenay's early history.\nBy midday, transition from the stone sanctuaries to the local water features, where urban ecology provides a peaceful backdrop for a brief rest before more sightseeing.\nSpend your afternoon diving deep into local heritage at the museum, discovering centuries of craftsmanship and daily medieval life in the region.\nConclude the day at the majestic fortress ruins overlooking the town, where the evening light perfectly highlights the remnants of Parthenay's formidable past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht. Besuchen Sie morgens das Becken und suchen Sie Schutz in den Kirchen. Mittags bietet das Museum eine trockene Pause. Die Nachmittagsfahrt zu Becken und Burg ist nass; prüfen Sie die Bremsen auf rutschigem Laub und Pflaster.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel. Kezdje a medencénél, majd keressen menedéket a templomokban. Délben tartson hosszú, száraz szünetet a múzeumban. A délutáni tekerés a tározóhoz és a várhoz nedves; ellenőrizze a fékeket a csúszós faleveleken és köveken.",
+            "ro": "Ciclismul pe ploaie necesită atenție. Începeți la bazin, apoi căutați adăpost în biserici dimineața. La prânz, luați o pauză uscată la muzeu. Plimbarea de după-amiază spre castel este umedă; asigurați-vă că frânele merg bine pe frunzele și pietrele alunecoase.",
+            "en": "Cycling in the rain requires caution. Start at the buffer basin before seeking shelter at the historic churches during morning downpours. By midday, take a long, dry break at the museum. The afternoon ride to the storm basin and castle is wet and breezy; ensure your brakes work well on slippery, wet leaves and cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pufferbecken Abwasser de la Grève",
+                "hu": "Grève szennyvízpuffer-medence",
+                "ro": "Bazin tampon Ape uzate de la Grève",
+                "en": "Bassin tampon Eaux usées de la Grève"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Puffersystem bei Regen; tragen Sie eine wasserdichte Warnjacke für sicheres Fahren.",
+                "hu": "Nézze meg a puffermedencét esőben; viseljen jól látható, vízálló dzsekit a biztonságos tekeréshez.",
+                "ro": "Vedeți sistemul tampon în ploaie; purtați o jachetă impermeabilă reflectorizantă pentru siguranță.",
+                "en": "See the buffer system handling the rain flow; wear a high-vis waterproof jacket for safe cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Croix",
+                "hu": "Sainte-Croix templom",
+                "ro": "Biserica Sainte-Croix",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und bewundern Sie die Architektur drinnen, bis der starke Regen nachlässt.",
+                "hu": "Támassza le a biciklit, és csodálja meg a belső teret, amíg elvonul a heves zápor.",
+                "ro": "Parcați bicicleta și admirați arhitectura în interior, așteptând să treacă aversa puternică.",
+                "en": "Park your bike and step inside to admire the architecture while waiting for heavy showers to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Couldre",
+                "hu": "Notre-Dame-de-la-Couldre templom",
+                "ro": "Biserica Notre-Dame-de-la-Couldre",
+                "en": "Notre-Dame-de-la-Couldre Church"
+              },
+              "tip_5lang": {
+                "de": "Der feuchte Stein hebt die Geschichte hervor; trocknen Sie sich kurz ab, bevor Sie weiterfahren.",
+                "hu": "A nedves kő kiemeli a homlokzat történetét; szárítkozzon meg bent a következő szakasz előtt.",
+                "ro": "Piatra umedă evidențiază istoria fațadei; uscați-vă puțin înăuntru înainte de următoarea etapă.",
+                "en": "The damp stone highlights the facade's history; dry off briefly inside before the next cycling leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Georges Turpin Museum",
+                "hu": "Georges Turpin Múzeum",
+                "ro": "Muzeul Georges Turpin",
+                "en": "Georges Turpin Museum"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihre nasse Ausrüstung und genießen Sie eine trockene Tour durch die Geschichte der Stadt.",
+                "hu": "Hagyja kint a vizes felszerelést, és élvezze a város történelmi leleteinek száraz bemutatását.",
+                "ro": "Lăsați echipamentul ud afară și bucurați-vă de un tur uscat al artefactelor istorice ale orașului.",
+                "en": "Secure your wet gear outside and enjoy a comprehensive, dry tour of the town's historical artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Descartes",
+                "hu": "Descartes csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Descartes",
+                "en": "Bassin d'orage de Descartes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Regenbecken; Vorsicht vor rutschigem Schlamm am Rand während der Fahrt.",
+                "hu": "Gyors megálló az esővízgyűjtőnél; vigyázzon a perem körüli csúszós sárral tekerés közben.",
+                "ro": "O oprire scurtă la bazin; atenție la noroiul alunecos de pe margine în timp ce pedalați.",
+                "en": "A quick stop to see the rain catchment; beware of slick mud around the perimeter while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Parthenay",
+                "hu": "Parthenay Vára",
+                "ro": "Castelul Parthenay",
+                "en": "Parthenay Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind dramatisch im Regen; steigen Sie ab und schieben Sie Ihr Rad auf rutschigen Wegen.",
+                "hu": "A fenséges romok drámaiak esőben; szálljon le, és tolja a biciklit a csúszós várutakon.",
+                "ro": "Ruinele maiestuoase sunt dramatice pe ploaie; descălecați și împingeți bicicleta pe aleile alunecoase.",
+                "en": "The majestic ruins are dramatic in the rain; dismount and walk your bike on the slippery fort paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln beginnt mit eiskalter Morgenluft an den Kirchen. Wärmen Sie sich mittags im Museum auf. Die Nachmittagsfahrt zu Becken und Burg erfordert warme Handschuhe und Thermokleidung. Beenden Sie die Tour vor dem Sonnenuntergang um 17 Uhr, wenn es friert.",
+            "hu": "A téli kerékpározás fagyos reggeli levegővel indul a templomoknál. Melegedjen fel délben a múzeumban. A délutáni tekeréshez a várhoz meleg kesztyű kell. Fejezze be az utat a 17 órás naplemente előtt, mert az utak lefagynak és romlik a látási viszony.",
+            "ro": "Ciclismul de iarnă începe cu aerul înghețat la biserici. Încălziți-vă la prânz în muzeu. Plimbarea de după-amiază spre castel necesită mănuși calde și haine termice. Finalizați traseul înainte de apusul de la ora 17:00, când drumurile îngheață.",
+            "en": "Winter cycling starts with freezing morning air at the buffer basin and ancient churches. Warm up at the heated museum midday. Afternoon riding to the storm basin and castle requires warm gloves and thermals. Complete your circuit before the 5 PM sunset, as the roads freeze and visibility drops fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pufferbecken Abwasser de la Grève",
+                "hu": "Grève szennyvízpuffer-medence",
+                "ro": "Bazin tampon Ape uzate de la Grève",
+                "en": "Bassin tampon Eaux usées de la Grève"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Landschaft um das Becken ist wunderschön; beginnen Sie die Fahrt mit dicken Handschuhen.",
+                "hu": "A medence körüli fagyos táj zord és gyönyörű; vastag téli kesztyűvel kezdje a tekerést.",
+                "ro": "Peisajul înghețat din jurul bazinului este superb; începeți cursa cu mănuși groase de iarnă.",
+                "en": "The frosty landscape around the basin is stark and beautiful; start your ride with thick winter gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Croix",
+                "hu": "Sainte-Croix templom",
+                "ro": "Biserica Sainte-Croix",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das romanische Heiligtum, um dem eisigen Wind zu entfliehen und die Hände zu wärmen.",
+                "hu": "Lépjen be a román kori szentélybe a metsző szél elől, és melegítse fel átfagyott kezeit.",
+                "ro": "Intrați în sanctuarul romanic pentru a scăpa de vântul tăios și a vă încălzi mâinile.",
+                "en": "Step inside the Romanesque sanctuary to escape the biting wind and restore warmth to your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Couldre",
+                "hu": "Notre-Dame-de-la-Couldre templom",
+                "ro": "Biserica Notre-Dame-de-la-Couldre",
+                "en": "Notre-Dame-de-la-Couldre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Wintersonnenlicht auf den Steinmetzarbeiten; eine kurze Aufwärmpause wird empfohlen.",
+                "hu": "Csodálja meg a téli napfényben fürdő ősi kőfaragványokat; rövid benti pihenő javasolt.",
+                "ro": "Admirați sculpturile din piatră luminate de soarele de iarnă; se recomandă o scurtă pauză în interior.",
+                "en": "Admire the winter sunlight hitting the ancient stone carvings; a short indoor break is recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Georges Turpin Museum",
+                "hu": "Georges Turpin Múzeum",
+                "ro": "Muzeul Georges Turpin",
+                "en": "Georges Turpin Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein wohlverdienter, beheizter Zufluchtsort; wärmen Sie sich auf und erkunden Sie die Ausstellungen.",
+                "hu": "Jól megérdemelt fűtött menedék; szánjon időt a kiállításokra, és melegedjen át alaposan.",
+                "ro": "Un sanctuar încălzit binevenit; explorați expozițiile și încălziți-vă bine corpul.",
+                "en": "A well-deserved heated sanctuary; take time to explore the exhibits and thoroughly warm your core."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Descartes",
+                "hu": "Descartes csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Descartes",
+                "en": "Bassin d'orage de Descartes"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Eis auf dem Wasser; fahren Sie vorsichtig, da die Wege frostig sein können.",
+                "hu": "Figyelje meg a jégképződést a vízen; óvatosan tekerjen, mert a környező utak deresek lehetnek.",
+                "ro": "Observați gheața de pe apă; pedalați cu grijă, deoarece aleile din jur pot fi înghețate.",
+                "en": "Observe any ice forming on the water surface; cycle carefully as the adjacent paths may be frosty."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Parthenay",
+                "hu": "Parthenay Vára",
+                "ro": "Castelul Parthenay",
+                "en": "Parthenay Castle"
+              },
+              "tip_5lang": {
+                "de": "Tolle winterliche Sonnenuntergänge; achten Sie auf Fahrradlichter für die dunkle Rückfahrt um 17 Uhr.",
+                "hu": "Remek téli naplemente-kilátás a völgy felett; legyen lámpája a 17 óra utáni sötét visszaúthoz.",
+                "ro": "Vederi superbe la apusul de iarnă; asigurați-vă că aveți lumini pentru întoarcerea întunecată la 17:00.",
+                "en": "Great winter sunset views over the valley; ensure you have bike lights for the dark 5 PM ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a reggelt egy csendes sétával az ősi központban, felfedezve a lenyűgöző román stílusú vallási építészetet, amely meghatározza Parthenay korai történelmét.\nDélben a kőből épült szentélyekből a helyi vízi látványosságok felé vegye az irányt, ahol a városi ökológia békés hátteret biztosít egy rövid pihenéshez.\nA délutánt töltse a helyi örökség elmélyült megismerésével a múzeumban, felfedezve az évszázados kézművességet és a régió középkori mindennapjait.\nZárja a napot a város fölé magasodó fenséges erődítmény romjainál, ahol az esti fény tökéletesen kiemeli Parthenay félelmetes múltjának maradványait.",
         "ro": "Începeți dimineața cu o plimbare liniștită prin centrul antic, explorând arhitectura religioasă romanică uimitoare care definește istoria timpurie a orașului Parthenay.\nPână la prânz, treceți de la sanctuarele de piatră la elementele acvatice locale, unde ecologia urbană oferă un fundal pașnic pentru o scurtă odihnă.\nPetreceți-vă după-amiaza scufundându-vă în moștenirea locală la muzeu, descoperind secole de măiestrie și viața medievală cotidiană din regiune.\nÎncheiați ziua la ruinele majestuoase ale fortăreței ce domină orașul, unde lumina serii evidențiază perfect rămășițele trecutului formidabil al orașului Parthenay.",
         "en": "Start your morning with a quiet walk through the ancient core, exploring the stunning Romanesque religious architecture that defines Parthenay's early history.\nBy midday, transition from the stone sanctuaries to the local water features, where urban ecology provides a peaceful backdrop for a brief rest before more sightseeing.\nSpend your afternoon diving deep into local heritage at the museum, discovering centuries of craftsmanship and daily medieval life in the region.\nConclude the day at the majestic fortress ruins overlooking the town, where the evening light perfectly highlights the remnants of Parthenay's formidable past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren an Regentagen ist komfortabel. Besuchen Sie morgens die Kirchen mit dem Regenschirm griffbereit. Mittags parken Sie nahe dem Museum für ein trockenes Erlebnis. Nachmittags betrachten Sie Becken und Burg vom Auto aus oder machen kurze Spaziergänge. Abends vorsichtig auf nassen Straßen fahren.",
+            "hu": "Az autózás esős napon kényelmes. Reggel látogassa meg a templomokat, tartsa kéznél az esernyőt. Délben parkoljon a múzeum közelében egy száraz kulturális programhoz. Délután nézze meg a tározót és a várat az autóból, vagy tegyen rövid sétákat. Este az utak csúszósak, vezessen óvatosan.",
+            "ro": "Condusul într-o zi ploioasă este confortabil. Vizitați bisericile dimineața, ținând umbrela aproape. La prânz, parcați lângă muzeu pentru o pauză uscată. După-amiaza, vedeți bazinele și castelul din mașină sau faceți scurte plimbări. Seara drumurile devin alunecoase, conduceți prudent.",
+            "en": "Driving on a rainy day offers great comfort. Start your morning visiting the historic churches, keeping your umbrella close for short walks. By midday, park near the museum for a long, dry cultural immersion. In the afternoon, view the basins and castle from the car or take quick dashes outside. Roads get slick by evening, so drive carefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Croix",
+                "hu": "Sainte-Croix templom",
+                "ro": "Biserica Sainte-Croix",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und eilen Sie hinein, um das trockene, romanische Innere zu bewundern.",
+                "hu": "Parkoljon a közelben, és siessen be megcsodálni a száraz, békés román stílusú belső teret.",
+                "ro": "Parcați aproape și fugiți înăuntru pentru a admira interiorul romanic pașnic și ferit de ploaie.",
+                "en": "Park nearby and dash inside to admire the dry, peaceful Romanesque interior away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Couldre",
+                "hu": "Notre-Dame-de-la-Couldre templom",
+                "ro": "Biserica Notre-Dame-de-la-Couldre",
+                "en": "Notre-Dame-de-la-Couldre Church"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade bei Starkregen vom Auto aus oder treten Sie kurz mit Schirm ein.",
+                "hu": "Szakadó esőben nézze meg a fenséges homlokzatot az autóból, vagy lépjen be gyorsan esernyővel.",
+                "ro": "Admirați fațada din mașină dacă plouă torențial, sau intrați scurt cu o umbrelă.",
+                "en": "View the majestic facade from the car if it's pouring, or step in briefly with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Georges Turpin Museum",
+                "hu": "Georges Turpin Múzeum",
+                "ro": "Muzeul Georges Turpin",
+                "en": "Georges Turpin Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp bei Regen; gute Parkmöglichkeiten und faszinierende Ausstellungen im Trockenen.",
+                "hu": "Tökéletes esős déli megálló; könnyű parkolás és lenyűgöző benti kiállítások a teljes szárazságért.",
+                "ro": "Oprirea perfectă pe ploaie; parcare ușoară și expoziții fascinante pentru a rămâne complet uscat.",
+                "en": "The perfect rainy midday stop; easy parking nearby and fascinating indoor exhibits to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Descartes",
+                "hu": "Descartes csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Descartes",
+                "en": "Bassin d'orage de Descartes"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie das Regenwassermanagement bequem durch das Autofenster beobachten.",
+                "hu": "Heves esőben az autó ablakából is könnyedén megfigyelheti a csapadékvíz-kezelő rendszert.",
+                "ro": "Puteți observa gestionarea apei pluviale prin geamul mașinii dacă plouă prea tare.",
+                "en": "You can observe the stormwater management easily through your car window if the rain is too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Parthenay",
+                "hu": "Parthenay Vára",
+                "ro": "Castelul Parthenay",
+                "en": "Parthenay Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe der Ruinen; der graue Himmel wirkt dramatisch. Tragen Sie rutschfeste Schuhe.",
+                "hu": "Parkoljon a romok közelében; a szürke égbolt drámai hatást kelt. Sétához viseljen csúszásmentes cipőt.",
+                "ro": "Parcați aproape de ruine; cerul gri adaugă dramatism. Purtați încălțăminte antiderapantă dacă explorați.",
+                "en": "Park close to the ruins; the gray skies add drama to the stone walls. Wear non-slip shoes if exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Feuerlöschteich",
+                "hu": "Tűzoltó víztározó",
+                "ro": "Rezervor de incendiu",
+                "en": "réserve incendie"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am gefüllten Wasserreservoir; Sie müssen das warme, trockene Auto nicht verlassen.",
+                "hu": "Rövid megálló az esővel teli víztározónál; ki sem kell szállnia a meleg, száraz autóból.",
+                "ro": "O oprire scurtă la rezervorul plin de ploaie; nu este nevoie să ieșiți din mașina caldă și uscată.",
+                "en": "A brief stop to see the water reserve filled by the rain; no need to leave the warm, dry car here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Autofahren macht Sightseeing im Winter gemütlich. Fahren Sie morgens mit Heizung zwischen den Kirchen umher. Mittags bietet das Museum eine warme Kulturpause. Nachmittags fahren Sie zu Becken und Burg. Genießen Sie bei Sonnenuntergang um 17 Uhr die Aussicht aus dem warmen Auto.",
+            "hu": "A téli autózás kényelmessé teszi a városnézést. A fagyos reggelen bekapcsolt fűtéssel vezessen a templomok között. Délben a múzeum nyújt meleg, benti programot. Délután hajtson a tározókhoz és a várhoz. A 17 órás naplementekor élvezze a kilátást a meleg járműből.",
+            "ro": "Condusul de iarnă face vizitarea confortabilă. Dimineața conduceți între biserici cu căldura pornită. La prânz, muzeul oferă o pauză culturală caldă. După-amiaza, mergeți spre bazine și castel. La apusul de la ora 17:00, bucurați-vă de priveliște din mașina încălzită.",
+            "en": "Winter driving makes sightseeing cozy. Spend the frosty morning driving between the historic churches, keeping the heater on. At noon, the museum offers a warm indoor cultural break. During the afternoon, drive out to the scenic basins and castle. With sunset around 5 PM, enjoy the twilight views from your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Croix",
+                "hu": "Sainte-Croix templom",
+                "ro": "Biserica Sainte-Croix",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz in die Winterluft, um die Details zu bewundern, und kehren Sie ins warme Auto zurück.",
+                "hu": "Lépjen ki röviden a csípős téli levegőre a kő részleteiért, majd térjen vissza a fűtött autóba.",
+                "ro": "Ieșiți scurt în aerul rece de iarnă pentru a admira detaliile, apoi retrageți-vă în mașina caldă.",
+                "en": "Step out briefly into the crisp winter air to admire the stone details, then retreat to the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Couldre",
+                "hu": "Notre-Dame-de-la-Couldre templom",
+                "ro": "Biserica Notre-Dame-de-la-Couldre",
+                "en": "Notre-Dame-de-la-Couldre Church"
+              },
+              "tip_5lang": {
+                "de": "Das Portal ist beeindruckend im Winterlicht; lassen Sie die Heizung für den kurzen Stopp an.",
+                "hu": "A portál lenyűgöző az alacsony téli napfényben; tartsa melegen az utasteret egy gyors pillantás erejéig.",
+                "ro": "Portalul este impresionant în lumina de iarnă; mențineți mașina încălzită pentru o privire rapidă.",
+                "en": "The portal is striking in low winter sun; leave the engine running to keep the cabin warm during a quick look."
+              }
+            },
+            {
+              "name": {
+                "de": "Georges Turpin Museum",
+                "hu": "Georges Turpin Múzeum",
+                "ro": "Muzeul Georges Turpin",
+                "en": "Georges Turpin Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer, beheizter Stopp gegen die Mittagskälte; erkunden Sie Parthenays Geschichte ganz bequem.",
+                "hu": "Fantasztikus fűtött megálló a déli hidegben; kényelmesen felfedezheti Parthenay történetét téli ruházatában.",
+                "ro": "O oprire încălzită fantastică la prânz; explorați istoria orașului confortabil, în hainele de iarnă.",
+                "en": "A fantastic heated stop for the midday chill; explore Parthenay's history comfortably in your winter layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Regenwasserbecken Descartes",
+                "hu": "Descartes csapadékvíz-tározó",
+                "ro": "Bazinul de furtună Descartes",
+                "en": "Bassin d'orage de Descartes"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Winterlandschaft und das vielleicht zugefrorene Becken bequem von Ihren beheizten Sitzen aus.",
+                "hu": "Nézze meg a téli tájat és az esetleg befagyott medencét a fűthető ülések kényelméből.",
+                "ro": "Vedeți peisajul de iarnă și bazinul probabil înghețat chiar din confortul scaunelor încălzite.",
+                "en": "See the winter landscape and potentially frozen basin right from the comfort of your heated seats."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Parthenay",
+                "hu": "Parthenay Vára",
+                "ro": "Castelul Parthenay",
+                "en": "Parthenay Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen im Winterhimmel spektakulär aus; packen Sie sich für den kurzen Spaziergang warm ein.",
+                "hu": "A romok látványosak a téli alkonyati égbolt előtt; vegyen fel sálat a kilátókhoz vezető rövid sétához.",
+                "ro": "Ruinele arată spectaculos pe cerul de iarnă; puneți un fular pentru scurta plimbare spre punctele de belvedere.",
+                "en": "The ruins look spectacular against a twilight winter sky; wrap up in a scarf for the short walk to the viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Feuerlöschteich",
+                "hu": "Tűzoltó víztározó",
+                "ro": "Rezervor de incendiu",
+                "en": "réserve incendie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Route mit eisigen Wasserreflexionen bei Einbruch der Dunkelheit um 17 Uhr.",
+                "hu": "Fejezze be az utat a jeges víz tükröződésével a 17 órás sötétedéskor, majd vezessen haza biztonságosan.",
+                "ro": "Terminați traseul privind reflexiile apei înghețate odată cu întunericul de la 17:00, apoi conduceți acasă.",
+                "en": "Finish your route watching the icy water reflections as darkness falls fully by 5 PM, then drive home safely."
+              }
+            }
+          ]
+        }
       }
     }
   }

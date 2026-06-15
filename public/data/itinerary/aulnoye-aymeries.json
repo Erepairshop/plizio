@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi vasútállomáson kezdődik, ahonnan a békés Saint-Raphaël templomba vezet az út egy kis elmélkedésre. A délben eléri a Salle Léo-Ferré-t, a helyi kultúra nyüzsgő központját. Délután csodálja meg a Saint-Martin templom építészetét, majd fejezze be sétáját a Saint-Michel templomnál, ahogy az este közeledik.",
         "ro": "Dimineața începe la gara istorică, mergând spre senina Biserică Saint-Raphaël pentru contemplare. La prânz ajungeți la Salle Léo-Ferré, nucleul vibrant al culturii locale. După-amiaza, admirați arhitectura Bisericii Saint-Martin, înainte de a vă încheia plimbarea plină de satisfacții la Biserica Saint-Michel pe măsură ce se apropie seara.",
         "en": "Morning begins at the historic railway station, moving swiftly to the serene Saint-Raphaël Church for contemplation. Midday brings you to Salle Léo-Ferré, the vibrant core of local culture. In the afternoon, marvel at the architecture of Église Saint-Martin before concluding your enriching walk at Église Saint-Michel as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt in der Bahnhofshalle. Mittags bieten die Kirchen trockene Rückzugsorte vor dem Regen. Nachmittags verbringen wir viel Zeit im Salle Léo-Ferré. Abends glänzen die nassen Straßen im fahlen Licht.",
+            "hu": "A reggel a vasútállomás fedett peronjai alatt indul. Délben a városi templomok nyújtanak száraz menedéket a záporok elől. Délután a Salle Léo-Ferré falai között pihenhetünk. Estére az eső áztatta utcák fényei csillognak a sötétben.",
+            "ro": "Dimineața începe la adăpost în gara orașului. La prânz, bisericile oferă refugiu uscat împotriva ploii constante. După-amiaza este petrecută în interior la Salle Léo-Ferré. Seara, străzile umede reflectă luminile reci ale orașului.",
+            "en": "The morning starts under the dry shelter of the station. At noon, the local churches provide dry havens from the rain. In the afternoon, we spend more time inside Salle Léo-Ferré. By evening, the wet streets reflect the town's dim lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Aulnoye-Aymeries",
+                "hu": "Aulnoye-Aymeries vasútállomás",
+                "ro": "Gara Aulnoye-Aymeries",
+                "en": "Aulnoye-Aymeries Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehalle für einen letzten Ausrüstungscheck und ziehen Sie Ihre Regenjacke fest an, bevor Sie den Bahnhof verlassen.",
+                "hu": "Használja ki a várótermet a felszerelés utolsó ellenőrzésére, és húzza szorosra az esőkabátját, mielőtt elhagyná az állomást.",
+                "ro": "Folosiți sala de așteptare pentru o ultimă verificare a echipamentului și strângeți bine pelerina de ploaie înainte de a pleca.",
+                "en": "Use the waiting hall for a final gear check and tighten your raincoat before stepping out into the wet morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Raphaël Kirche",
+                "hu": "Saint-Raphaël templom",
+                "ro": "Biserica Saint-Raphaël",
+                "en": "Saint-Raphaël Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ruhe im Kirchenschiff, während der Regen gegen die Fenster trommelt, und achten Sie auf die rutschigen Stufen am Eingang.",
+                "hu": "Csodálja meg a hajó nyugalmát, miközben az eső az üvegablakokon kopog, és ügyeljen a bejáratnál a csúszós lépcsőkre.",
+                "ro": "Admirați liniștea navei în timp ce ploaia bate în ferestre și aveți grijă la treptele alunecoase de la intrarea principală.",
+                "en": "Admire the serenity of the nave while rain drums against the windows, and be careful of the slippery steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Léo-Ferré",
+                "hu": "Salle Léo-Ferré",
+                "ro": "Salle Léo-Ferré",
+                "en": "Salle Léo-Ferré"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für eine längere Pause im Trockenen, um die lokale Kultur ohne nasse Füße in Ruhe zu genießen.",
+                "hu": "Ez az ideális hely egy hosszabb száraz pihenőre, ahol a helyi kultúrát ázott lábak nélkül, nyugodtan fedezheti fel.",
+                "ro": "Acesta este locul ideal pentru o pauză lungă la uscat, unde puteți explora cultura locală fără a vă uda la picioare.",
+                "en": "This is the perfect spot for a long break in the dry, allowing you to enjoy local culture without getting your feet wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um Ihren Schirm auszuschütteln, und betrachten Sie die sakrale Kunst als Schutz vor dem grauen Wetter.",
+                "hu": "Használja az előteret az esernyő lerázására, és tekintse meg a szakrális művészetet, miközben menedéket talál a szürke idő elől.",
+                "ro": "Folosiți vestibulul pentru a scutura umbrela și priviți arta sacră în timp ce vă adăpostiți de vremea gri de afară.",
+                "en": "Use the vestibule to shake off your umbrella and view the sacred art while taking shelter from the grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang mit einem Moment der Stille im Innenraum und trocknen Sie Ihre Kleidung, bevor Sie den Rückweg antreten.",
+                "hu": "Zárja a sétát egy pillanatnyi csenddel a belső térben, és szárítsa meg ruházatát, mielőtt elindulna a visszaútra.",
+                "ro": "Încheiați plimbarea cu un moment de liniște în interior și uscați-vă hainele înainte de a porni pe drumul de întoarcere.",
+                "en": "End your walk with a moment of silence inside and dry off your gear before starting your journey back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenluft belebt den Weg zum Bahnhof. Mittags suchen wir die Wärme der historischen Kirchen. Nachmittags bietet die Salle Léo-Ferré Schutz vor dem Frost. Der frühe Sonnenuntergang färbt den Himmel frostig blau.",
+            "hu": "A csípős reggeli levegő frissítően hat az állomás felé. Délben a történelmi templomok vastag falai között keresünk enyhülést. Délután a Salle Léo-Ferré óv meg a fagytól. A korai naplemente fagyos kékre festi az eget.",
+            "ro": "Aerul rece al dimineții animă drumul spre gară. La prânz, căutăm căldura între zidurile groase ale bisericilor istorice. După-amiaza, Salle Léo-Ferré oferă protecție împotriva gerului. Apusul timpuriu colorează cerul în albastru înghețat.",
+            "en": "The crisp morning air enlivens the path to the station. At noon, we seek warmth within the thick walls of historic churches. In the afternoon, Salle Léo-Ferré offers protection from the frost. The early sunset paints the sky in icy blue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Aulnoye-Aymeries",
+                "hu": "Aulnoye-Aymeries vasútállomás",
+                "ro": "Gara Aulnoye-Aymeries",
+                "en": "Aulnoye-Aymeries Station"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz in der beheizten Bahnhofshalle auf, bevor Sie die winterliche Stadt in mehreren Schichten Kleidung erkunden.",
+                "hu": "Melegedjen fel rövid ideig a fűtött váróteremben, mielőtt rétegesen felöltözve elindulna a téli város felfedezésére.",
+                "ro": "Încălziți-vă pentru scurt timp în sala de așteptare încălzită înainte de a explora orașul iernatic îmbrăcat în straturi.",
+                "en": "Warm up briefly in the heated waiting hall before exploring the wintry town dressed in warm, protective layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Raphaël Kirche",
+                "hu": "Saint-Raphaël templom",
+                "ro": "Biserica Saint-Raphaël",
+                "en": "Saint-Raphaël Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind fern; genießen Sie die friedliche Atmosphäre und die gedämpfte Akustik der Winterstille.",
+                "hu": "A vastag falak távol tartják a jeges szelet; élvezze a békés hangulatot és a téli csend tompa akusztikáját.",
+                "ro": "Zidurile groase țin la distanță vântul înghețat; bucurați-vă de atmosfera pașnică și de acustica înăbușită a liniștii de iarnă.",
+                "en": "The thick walls keep the icy wind at bay; enjoy the peaceful atmosphere and the muffled acoustics of winter's silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Léo-Ferré",
+                "hu": "Salle Léo-Ferré",
+                "ro": "Salle Léo-Ferré",
+                "en": "Salle Léo-Ferré"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine längere Pause in einem angenehm temperierten Umfeld, um sich für den restlichen Weg zu stärken.",
+                "hu": "Használja ki a látogatást egy hosszabb pihenőre a kellemes hőmérsékletű környezetben, hogy újult erővel folytassa útját.",
+                "ro": "Folosiți vizita pentru o pauză lungă într-un mediu temperat plăcut pentru a vă reîncărca energiile pentru restul drumului.",
+                "en": "Take advantage of the visit for a long break in a comfortably heated environment to recharge for the rest of your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die architektonischen Details im Inneren, wo es deutlich wärmer ist als auf den windigen Straßen der Stadt.",
+                "hu": "Csodálja meg a belső építészeti részleteket, ahol lényegesen melegebb van, mint a város szeles utcáin.",
+                "ro": "Admirați detaliile arhitecturale din interior, unde este mult mai cald decât pe străzile vântoase ale orașului.",
+                "en": "Admire the architectural details inside, where it is significantly warmer than on the windy streets of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss bei tiefstehender Wintersonne; achten Sie auf mürbe Stellen am Wegesrand, falls es über Nacht gefroren hat.",
+                "hu": "Csendes befejezés az alacsonyan járó téli napsütésben; ügyeljen a fagyott útszakaszokra, ha éjszaka lehűlt a levegő.",
+                "ro": "Un final liniștit sub soarele jos de iarnă; atenție la porțiunile de drum înghețate dacă a fost ger peste noapte.",
+                "en": "A quiet finish under the low winter sun; watch out for frozen patches on the path if it froze overnight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerekezzen a reggelbe a központi pályaudvarról indulva, egészen a bájos Chapelle Saint-Joseph felé. A dél egy északi útra hív a Notre-Dame de Quartes-hoz, mielőtt a Salle Léo-Ferré kulturális központjába gurulna. A délutáni szellő elsodorja a Saint-Martin templom mellett, és egy gyönyörű esti pihenéssel zárul a Saint-Michel templomnál.",
         "ro": "Pedalați în dimineață pornind de la gara centrală, îndreptându-vă spre fermecătoarea Capelă Saint-Joseph. Prânzul vă invită la o plimbare spre nord până la Notre-Dame de Quartes înainte de a coborî la Salle Léo-Ferré. Briza după-amiezii vă poartă pe lângă Biserica Saint-Martin, culminând cu o seară frumoasă la Biserica Saint-Michel.",
         "en": "Pedal into the morning starting from the central station, making your way to the charming Chapelle Saint-Joseph. Midday invites a ride north to Notre-Dame de Quartes before rolling down to the cultural hub of Salle Léo-Ferré. The afternoon breeze carries you past Église Saint-Martin, culminating in a beautiful evening rest at Église Saint-Michel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtiges Radeln am nassen Vormittag. Mittags halten wir an den Kapellen, um den Regen abzuwarten. Die Straßen sind rutschig, aber die Landschaft wirkt mystisch. Nachmittags bietet die Salle Léo-Ferré eine trockene Basis.",
+            "hu": "Óvatos tekerés a vizes délelőttön. Délben megállunk a kápolnáknál, hogy kivárjuk az eső végét. Az utak csúszósak, de a táj misztikus. Délután a Salle Léo-Ferré nyújt száraz bázist.",
+            "ro": "Pedalat precaut într-o dimineață umedă. La prânz, ne oprim la capele pentru a aștepta trecerea ploii. Drumurile sunt alunecoase, dar peisajul pare mistic. După-amiaza, Salle Léo-Ferré oferă o bază uscată.",
+            "en": "Cautious cycling on a wet morning. At noon, we stop at the chapels to wait out the rain. The roads are slippery, but the landscape looks mystical. In the afternoon, Salle Léo-Ferré provides a dry base."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Aulnoye-Aymeries",
+                "hu": "Aulnoye-Aymeries vasútállomás",
+                "ro": "Gara Aulnoye-Aymeries",
+                "en": "Aulnoye-Aymeries Station"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf der nassen Fahrbahn und nutzen Sie die Überdachung, um Ihre wasserfeste Karte zu befestigen.",
+                "hu": "Ellenőrizze a fékeket a vizes úton, és használja a tetőt a vízálló térkép rögzítéséhez a kormányon.",
+                "ro": "Verificați frânele pe carosabilul umed și folosiți copertina pentru a fixa harta impermeabilă pe ghidon.",
+                "en": "Check your brakes on the wet surface and use the overhead shelter to secure your waterproof map to the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Chapelle Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Halt am Wegesrand; achten Sie beim Absteigen auf den durch den Regen aufgeweichten Boden.",
+                "hu": "Egy apró, száraz pihenő az út mentén; ügyeljen a leszálláskor az esőtől felázott talajra a kápolna körül.",
+                "ro": "O mică oprire uscată la marginea drumului; atenție la solul înmuiat de ploaie când coborâți de pe bicicletă.",
+                "en": "A small, dry stop by the roadside; be careful of the ground softened by rain when dismounting near the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de Quartes",
+                "hu": "Notre-Dame de Quartes",
+                "ro": "Notre-Dame de Quartes",
+                "en": "Église Notre-Dame de Quartes"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Dachvorsprung und genießen Sie die kühle, frische Luft nach dem Anstieg zur Kirche.",
+                "hu": "Keressen menedéket az eresz alatt, és élvezze a hűvös, friss levegőt a templomhoz vezető emelkedő után.",
+                "ro": "Căutați adăpost sub streașină și bucurați-vă de aerul răcoros și proaspăt după urcarea spre biserică.",
+                "en": "Seek shelter under the eaves and enjoy the cool, fresh air after the climb to the church in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Léo-Ferré",
+                "hu": "Salle Léo-Ferré",
+                "ro": "Salle Léo-Ferré",
+                "en": "Salle Léo-Ferré"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Zeit, um sich im warmen Innenraum vollständig zu trocknen.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki az időt a meleg belső térben a teljes száradáshoz.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți timpul petrecut în interiorul cald pentru a vă usca complet.",
+                "en": "Park your bike in a sheltered spot and use the time in the warm interior to dry off completely before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Parken tiefe Pfützen und bewundern Sie die Kirche als friedlichen Rückzugsort vor dem nassen Wetter.",
+                "hu": "Kerülje el a mély tócsákat a parkoláskor, és tekintse meg a templomot mint békés menedéket a vizes időben.",
+                "ro": "Evitați bălțile adânci la parcare și admirați biserica ca pe un refugiu pașnic împotriva vremii umede.",
+                "en": "Avoid deep puddles when parking and admire the church as a peaceful retreat from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Die letzte Etappe erfordert volle Konzentration auf der glatten Straße; belohnen Sie sich mit der sakralen Stille im Inneren.",
+                "hu": "Az utolsó szakasz teljes koncentrációt igényel a csúszós úton; jutalmazza magát a belső tér szakrális csendjével.",
+                "ro": "Ultima etapă necesită concentrare maximă pe drumul alunecos; răsplătiți-vă cu liniștea sacră din interior.",
+                "en": "The final stage requires full concentration on the slick road; reward yourself with the sacred silence found inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Tour durch das winterliche Avesnois. Die Kälte beißt in die Wangen, aber die klare Luft ist herrlich. Mittags wärmen wir uns in den Kirchen auf. Der Salle Léo-Ferré ist ein willkommener Stopp vor der frühen Dämmerung.",
+            "hu": "Fagyos túra a téli Avesnois vidéken. A hideg csípi az arcot, de a tiszta levegő fenséges. Délben a templomokban melegszünk fel. A Salle Léo-Ferré örömteli megálló a korai szürkület előtt.",
+            "ro": "O tură geroasă prin regiunea iernatică Avesnois. Frigul pișcă obrajii, dar aerul curat este magnific. La prânz ne încălzim în biserici. Salle Léo-Ferré este o oprire binevenită înainte de amurgul timpuriu.",
+            "en": "A frosty tour through the wintry Avesnois region. The cold bites the cheeks, but the clear air is magnificent. At noon, we warm up in the churches. Salle Léo-Ferré is a welcome stop before the early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Aulnoye-Aymeries",
+                "hu": "Aulnoye-Aymeries vasútállomás",
+                "ro": "Gara Aulnoye-Aymeries",
+                "en": "Aulnoye-Aymeries Station"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt und bewegen Sie sich kurz im Bahnhof, um den Kreislauf in Schwung zu bringen.",
+                "hu": "Viseljen szélálló kesztyűt az induláshoz, és mozogjon kicsit az állomáson, hogy beindítsa a vérkeringését.",
+                "ro": "Purtați mănuși rezistente la vânt pentru plecare și mișcați-vă puțin în gară pentru a pune sângele în mișcare.",
+                "en": "Wear windproof gloves for the departure and move around briefly in the station to get your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Chapelle Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Kälte; bewundern Sie die Kapelle vor dem Hintergrund der frostigen Felder und kahlen Bäume.",
+                "hu": "Rövid megálló a hidegben; csodálja meg a kápolnát a fagyos mezők és a csupasz fák háttere előtt.",
+                "ro": "O scurtă oprire în frig; admirați capela pe fundalul câmpurilor înghețate și al copacilor desfrunziți.",
+                "en": "A brief stop in the cold; admire the chapel against the backdrop of frosty fields and bare winter trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de Quartes",
+                "hu": "Notre-Dame de Quartes",
+                "ro": "Notre-Dame de Quartes",
+                "en": "Église Notre-Dame de Quartes"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt hält Sie warm, doch nutzen Sie das Kircheninnere für eine echte Ruhepause abseits des winterlichen Windes.",
+                "hu": "A tekerés melegen tartja, de használja ki a templom belsejét egy valódi pihenőre a téli szél elől elzárva.",
+                "ro": "Pedalatul vă ține cald, dar folosiți interiorul bisericii pentru o pauză adevărată, ferit de vântul de iarnă.",
+                "en": "The cycling keeps you warm, but take advantage of the church interior for a real rest away from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Léo-Ferré",
+                "hu": "Salle Léo-Ferré",
+                "ro": "Salle Léo-Ferré",
+                "en": "Salle Léo-Ferré"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Heizung und checken Sie Ihre Beleuchtung, da es am späten Nachmittag bereits dunkler wird.",
+                "hu": "Élvezze a fűtés melegét, és ellenőrizze a világítását, mivel késő délután már kezd sötétedni.",
+                "ro": "Bucurați-vă de căldura caloriferelor și verificați luminile bicicletei, deoarece se întunecă deja spre seară.",
+                "en": "Enjoy the warmth of the heating and check your bike lights, as it will already start getting dark by late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Kirchplatz und nutzen Sie den Stopp, um die eingefrorenen Finger wieder aufzuwärmen.",
+                "hu": "Ügyeljen a jegesedésre a templomtéren, és használja ki a megállót az elgémberedett ujjak felmelegítésére.",
+                "ro": "Atenție la polei în piața bisericii și folosiți oprirea pentru a vă încălzi degetele amorțite de frig.",
+                "en": "Watch out for black ice in the church square and use this stop to warm up your numbed fingers indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, bevor die Temperatur bei Sonnenuntergang drastisch sinkt, und genießen Sie die Stille im Kirchenschiff.",
+                "hu": "Fejezze be a túrát gyorsan, mielőtt a hőmérséklet drasztikusan leesik napnyugtakor, és élvezze a hajó csendjét.",
+                "ro": "Încheiați turul rapid înainte ca temperatura să scadă drastic la apus și bucurați-vă de liniștea navei.",
+                "en": "Finish the tour promptly before the temperature drops drastically at sunset, and enjoy the quiet inside the nave."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A motorizált utazás a nyugodt északi külvárosban kezdődik a Notre-Dame de Quartes-nál, majd a Chapelle Saint-Joseph felé folytatódik. Délben navigáljon át a nyüzsgő központon az állomás mellett, és merüljön el a művészetekben a Salle Léo-Ferré-nél. A délután sima vezetést kínál a jelentős belvárosi templomok érintésével, majd egy békés esti kikapcsolódással zárul a Bras mort de Leval természetes menedékében.",
         "ro": "Călătoria dumneavoastră motorizată începe la periferia nordică liniștită, la Notre-Dame de Quartes, înainte de a coborî spre Capela istorică Saint-Joseph. La prânz, navigați prin centrul plin de viață pe lângă gară și cufundați-vă în artă la Salle Léo-Ferré. După-amiaza oferă o plimbare lină pe la principalele biserici din centrul orașului, încheindu-se cu o evadare pașnică de seară în sanctuarul natural Bras mort de Leval.",
         "en": "Your motorized journey begins in the tranquil northern outskirts at Notre-Dame de Quartes before cruising down to the historic Chapelle Saint-Joseph. By midday, navigate through the bustling center past the station and immerse yourself in art at Salle Léo-Ferré. The afternoon offers a smooth drive hitting the major inner-city churches, ending with a peaceful evening escape to the natural sanctuary of Bras mort de Leval."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch den Regen. Wir springen trocken von Kirche zu Kirche. Mittags bietet die Salle Léo-Ferré ein kulturelles Highlight ohne Nässe. Nachmittags ist die Atmosphäre am Fluss besonders stimmungsvoll und neblig.",
+            "hu": "Kényelmes autózás az esőben. Szárazon jutunk el egyik templomtól a másikig. Délben a Salle Léo-Ferré kulturális élményt nyújt ázási lehetőség nélkül. Délután a folyóparti hangulat különösen sejtelmes és ködös.",
+            "ro": "O călătorie confortabilă prin ploaie. Ajungem uscați de la o biserică la alta. La prânz, Salle Léo-Ferré oferă o experiență culturală fără umezeală. După-amiaza, atmosfera de pe malul râului este mistică și cețoasă.",
+            "en": "A comfortable drive through the rain. we get dry from one church to the next. At noon, Salle Léo-Ferré offers a cultural experience without the wetness. In the afternoon, the riverside atmosphere is especially moody and misty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame de Quartes",
+                "hu": "Notre-Dame de Quartes",
+                "ro": "Notre-Dame de Quartes",
+                "en": "Église Notre-Dame de Quartes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg durch den Regen trocken zu überstehen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy a rövid utat az esőben szárazon tehesse meg.",
+                "ro": "Parcați cât mai aproape de intrare pentru a parcurge drumul scurt prin ploaie cât mai uscat posibil.",
+                "en": "Park as close to the entrance as possible to manage the short walk through the rain without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Chapelle Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem trockenen Auto auf die Kapelle, bevor Sie für eine kurze Besichtigung aussteigen.",
+                "hu": "Élvezze a kilátást a száraz autóból a kápolnára, mielőtt kiszállna egy rövid belső látogatásra.",
+                "ro": "Bucurați-vă de priveliștea spre capelă din mașina uscată înainte de a coborî pentru o scurtă vizită.",
+                "en": "Enjoy the view of the chapel from the dry car before stepping out for a quick interior visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Aulnoye-Aymeries",
+                "hu": "Aulnoye-Aymeries vasútállomás",
+                "ro": "Gara Aulnoye-Aymeries",
+                "en": "Aulnoye-Aymeries Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bahnhofsparkplatz und erledigen Sie Ihre Besorgungen schnell im geschützten Bereich des Gebäudes.",
+                "hu": "Használja az állomás parkolóját, és intézze el ügyeit gyorsan az épület védett belső terében.",
+                "ro": "Folosiți parcarea gării și rezolvați rapid treburile în zona protejată a clădirii principale.",
+                "en": "Use the station parking and handle your business quickly within the sheltered area of the main building."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Léo-Ferré",
+                "hu": "Salle Léo-Ferré",
+                "ro": "Salle Léo-Ferré",
+                "en": "Salle Léo-Ferré"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause, während es draußen regnet; das Kulturzentrum ist gut beheizt und trocken.",
+                "hu": "Ideális hely egy hosszabb pihenőre, amíg odakint esik; a kulturális központ jól fűtött és teljesen száraz.",
+                "ro": "Un loc ideal pentru o pauză lungă în timp ce afară plouă; centrul cultural este bine încălzit și uscat.",
+                "en": "An ideal place for a long break while it rains outside; the cultural center is well-heated and perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Schirme im Auto und huschen Sie schnell ins Innere, um die sakrale Kunst zu bewundern.",
+                "hu": "Hagyja a vizes esernyőket az autóban, és szaladjon be gyorsan a belső térbe a szakrális művészet megtekintéséhez.",
+                "ro": "Lăsați umbrelele ude în mașină și intrați rapid în interior pentru a admira arta sacră expusă.",
+                "en": "Leave wet umbrellas in the car and dash quickly inside to admire the sacred art without the extra baggage."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt vor der Tür und genießen Sie die Stille im Kirchenschiff bei Regengeprassel.",
+                "hu": "Használja ki a közvetlenül az ajtó előtt lévő parkolási lehetőséget, és élvezze a hajó csendjét az eső kopogása mellett.",
+                "ro": "Folosiți parcarea de direct în fața ușii și bucurați-vă de liniștea navei acompaniată de ropotul ploii.",
+                "en": "Take advantage of the parking directly in front of the door and enjoy the quiet inside the nave as the rain falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Saulve",
+                "hu": "Saint-Saulve templom",
+                "ro": "Biserica Saint-Saulve",
+                "en": "Église Saint-Saulve"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer trockener Kulturstopp; achten Sie auf die Sichtverhältnisse auf den Landstraßen bei starkem Regen.",
+                "hu": "Újabb száraz kulturális megálló; ügyeljen a látási viszonyokra az országutakon az erős esőzés idején.",
+                "ro": "Încă o oprire culturală la uscat; atenție la vizibilitatea pe drumurile județene în timpul ploii abundente.",
+                "en": "Another dry cultural stop; pay close attention to visibility on the country roads during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Bras mort de Leval",
+                "hu": "Bras mort de Leval",
+                "ro": "Bras mort de Leval",
+                "en": "Bras mort de Leval"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die mystische Stimmung am Wasser vom Parkplatz aus, falls der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a vízparti misztikus hangulatot a parkolóból, ha az eső túl erős lenne egy kiadós sétához.",
+                "ro": "Bucurați-vă de atmosfera mistică de pe malul apei din parcare dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "Enjoy the mystical atmosphere by the water from the parking lot if the rain is too heavy for a long stroll."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sicher und warm im Auto durch die frostige Landschaft. Die Kirchen bieten besinnliche Stopps in winterlicher Stille. Mittags wärmen wir uns im Kulturzentrum auf. Die Tour endet bei atmosphärischer Dämmerung am Flussufer.",
+            "hu": "Biztonságban és melegben az autóban a fagyos tájon át. A templomok meghitt megállókat kínálnak a téli csendben. Délben a kulturális központban melegszünk fel. A túra hangulatos szürkületben zárul a folyóparton.",
+            "ro": "În siguranță și la căldură în mașină prin peisajul înghețat. Bisericile oferă opriri liniștite în tăcerea iernii. La prânz ne încălzim în centrul cultural. Turul se încheie în amurgul atmosferic de pe malul râului.",
+            "en": "Safe and warm in the car through the frosty landscape. The churches offer contemplative stops in winter silence. At noon, we warm up in the cultural center. The tour ends in the atmospheric dusk by the riverbank."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame de Quartes",
+                "hu": "Notre-Dame de Quartes",
+                "ro": "Notre-Dame de Quartes",
+                "en": "Église Notre-Dame de Quartes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf den Nebenstraßen und genießen Sie den ersten winterlichen Blick auf die Kirche.",
+                "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra a mellékutakon, és élvezze az első téli kilátást a templomra.",
+                "ro": "Atenție la polei pe drumurile secundare și bucurați-vă de prima privire iernatică asupra bisericii.",
+                "en": "Watch out for frost on the side roads and enjoy the first wintry view of the church from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Chapelle Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp in der Kälte; die Kapelle wirkt im Winterlicht besonders friedlich und zeitlos.",
+                "hu": "Rövid fotómegálló a hidegben; a kápolna a téli fényben különösen békésnek és időtlennek tűnik.",
+                "ro": "O scurtă oprire foto în frig; capela pare deosebit de pașnică și atemporală în lumina iernii.",
+                "en": "A short photo stop in the cold; the chapel looks particularly peaceful and timeless in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Aulnoye-Aymeries",
+                "hu": "Aulnoye-Aymeries vasútállomás",
+                "ro": "Gara Aulnoye-Aymeries",
+                "en": "Aulnoye-Aymeries Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum des Bahnhofs für eine kurze Pause und prüfen Sie Ihre Scheibenwaschanlage.",
+                "hu": "Használja ki az állomás fűtött belső terét egy rövid pihenőre, és ellenőrizze a szélvédőmosó folyadékot.",
+                "ro": "Folosiți interiorul încălzit al gării pentru o scurtă pauză și verificați nivelul lichidului de parbriz.",
+                "en": "Use the heated interior of the station for a short break and check your windshield washer fluid for the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Léo-Ferré",
+                "hu": "Salle Léo-Ferré",
+                "ro": "Salle Léo-Ferré",
+                "en": "Salle Léo-Ferré"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger im warmen Kulturzentrum und informieren Sie sich über lokale Veranstaltungen in der Wintersaison.",
+                "hu": "Időzzön hosszabb ideig a meleg kulturális központban, és tájékozódjon a téli szezon helyi eseményeiről.",
+                "ro": "Zăboviți mai mult în centrul cultural cald și informați-vă despre evenimentele locale din sezonul de iarnă.",
+                "en": "Linger longer in the warm cultural center and learn about local events happening during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren ist nach dem Aussteigen eine Wohltat; bewundern Sie die Kunstwerke in der stillen Atmosphäre.",
+                "hu": "A belső meleg jótékony hatású a kiszállás után; csodálja meg a műalkotásokat a csendes hangulatban.",
+                "ro": "Căldura din interior este binefăcătoare după ce coborâți din mașină; admirați operele de artă în atmosfera liniștită.",
+                "en": "The warmth inside is a blessing after stepping out of the car; admire the artworks in the silent atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment im beheizten Kirchenschiff, bevor Sie die Fahrt durch die einsetzende Kälte fortsetzen.",
+                "hu": "Egy nyugodt pillanat a fűtött templomhajóban, mielőtt folytatná útját a beköszöntő hidegben.",
+                "ro": "Un moment de liniște în nava încălzită a bisericii înainte de a continua drumul prin frigul care se lasă.",
+                "en": "A quiet moment in the heated nave of the church before continuing your drive through the settling cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Saulve",
+                "hu": "Saint-Saulve templom",
+                "ro": "Biserica Saint-Saulve",
+                "en": "Église Saint-Saulve"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Ankunft auf gefrorene Pfützen auf dem Parkplatz und genießen Sie die sakrale Wärme.",
+                "hu": "Érkezéskor ügyeljen a fagyott tócsákra a parkolóban, és élvezze a belső szakrális melegséget.",
+                "ro": "La sosire, atenție la bălțile înghețate din parcare și bucurați-vă de căldura sacră din interior.",
+                "en": "Watch out for frozen puddles in the parking lot upon arrival and enjoy the sacred warmth inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Bras mort de Leval",
+                "hu": "Bras mort de Leval",
+                "ro": "Bras mort de Leval",
+                "en": "Bras mort de Leval"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das winterliche Ufer bei Sonnenuntergang; das Licht reflektiert wunderschön auf der eventuellen Eisschicht.",
+                "hu": "Figyelje meg a téli vízpartot naplementekor; a fény csodásan törik meg az esetleges jégrétegen a folyón.",
+                "ro": "Observați malul iernatic la apus; lumina se reflectă superb pe eventualul strat de gheață de pe apă.",
+                "en": "Observe the wintry riverbank at sunset; the light reflects beautifully on any ice layer that may have formed."
+              }
+            }
+          ]
+        }
       }
     }
   }

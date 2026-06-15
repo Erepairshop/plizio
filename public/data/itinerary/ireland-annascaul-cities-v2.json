@@ -160,6 +160,196 @@
         "hu": "A reggel a város bájos szívében indul, a Statue of Our Lady nevezetességnél, ahonnan Parcalassa ősi romjaihoz sétál.\nDélben egyre mélyebbre merül a régió múltjában Lisracreeveen rejtett földműveinél.\nDélután Lismore történelmi helyszínét és a Lios na gCraobh zseniális gyűrűvárát fedezi fel.\nAz estét a Jerome Connor Monumentnél zárja, ahol a lemenő nap fényében elmélkedhet a helyi művészet kiemelkedő alkotásán.",
         "ro": "Dimineața începe în inima fermecătoare a orașului la Statue of Our Lady, urmată de o plimbare spre ruinele antice din Parcalassa.\nLa prânz, aprofundați trecutul fascinant al regiunii explorând lucrările de pământ de la Lisracreeveen.\nDupă-amiaza este dedicată siturilor istorice impresionante din Lismore și ingeniosului fort inelar Lios na gCraobh.\nSeara se încheie liniștit la Monumentul Jerome Connor, admirând moștenirea artistică locală în lumina blândă a apusului.",
         "en": "Your morning starts in the charming heart of town at the Statue of Our Lady before a gentle stroll to the ancient remnants of Parcalassa.\nAt midday, you will delve deeper into the region's fascinating past at the subtle earthworks of Lisracreeveen.\nThe afternoon is spent exploring the impressive historic sites of Lismore and the masterful ringfort of Lios na gCraobh.\nYour evening concludes at the Jerome Connor Monument, reflecting on local artistic heritage as the sun begins to gently set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Reggel a falu központjában, a Szűzanya szobránál kezdünk.\nDélben Parcalassa és Lisracreeveen ködös, misztikus romjai várnak.\nDélután a Lismore és a gyűrűvár felfedezése következik az esőben.\nEste a Jerome Connor emlékmű után egy barátságos pubban pihenhetünk.",
+            "hu": "Reggel a falu központjában, a Szűzanya szobránál kezdünk.\nDélben Parcalassa és Lisracreeveen ködös, misztikus romjai várnak.\nDélután a Lismore és a gyűrűvár felfedezése következik az esőben.\nEste a Jerome Connor emlékmű után egy barátságos pubban pihenhetünk.",
+            "ro": "Dimineața începem în centrul satului, la Statuia Maicii Domnului.\nLa amiază ne așteaptă vestigiile cețoase din Parcalassa și Lisracreeveen.\nDupă-amiaza explorăm Lismore și cetatea circulară prin ploaia măruntă.\nSeara, după Monumentul Jerome Connor, ne relaxăm într-un pub primitor.",
+            "en": "Morning starts in the village center at the Statue of Our Lady.\nAt noon, the misty and mystical ruins of Parcalassa and Lisracreeveen await.\nIn the afternoon, we explore Lismore and the ringfort through the drizzle.\nIn the evening, after the Jerome Connor Monument, relax in a cozy pub."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue of Our Lady",
+                "hu": "Statue of Our Lady",
+                "ro": "Statue of Our Lady",
+                "en": "Statue of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Bäumen Schutz vor dem Regen und bewundern Sie diese schlichte Statue, die ein wichtiger Treffpunkt für die Einheimischen im Dorfzentrum ist.",
+                "hu": "Keressen menedéket a fák alatt az eső elől, és csodálja meg ezt a faluközpontban található szerény szobrot, amely fontos találkozási pont a helyiek számára.",
+                "ro": "Căutați adăpost sub copaci și admirați această statuie simplă din centrul satului, un punct de reper important pentru localnici chiar și pe vreme umedă.",
+                "en": "Seek shelter under the nearby trees and admire this modest statue in the village center, which serves as a significant meeting point for locals."
+              }
+            },
+            {
+              "name": {
+                "de": "Parcalassa",
+                "hu": "Parcalassa",
+                "ro": "Parcalassa",
+                "en": "Parcalassa"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Überreste von Parcalassa wirken im Nebel besonders mystisch; tragen Sie wasserfeste Schuhe, da die Graswege nach Regenfällen sehr rutschig werden.",
+                "hu": "Parcalassa történelmi maradványai ködben különösen misztikusak; viseljen vízálló cipőt, mert a füves ösvények az eső után nagyon csúszóssá válnak.",
+                "ro": "Vestigiile istorice din Parcalassa par mistice în ceață; purtați încălțăminte impermeabilă, deoarece potecile cu iarbă devin foarte alunecoase după ploaie.",
+                "en": "The historical remains of Parcalassa look mystical in the mist; wear waterproof boots as the grassy paths become very slippery after rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisracreeveen",
+                "hu": "Lisracreeveen",
+                "ro": "Lisracreeveen",
+                "en": "Lisracreeveen"
+              },
+              "tip_5lang": {
+                "de": "Erforschen Sie die antiken Strukturen von Lisracreeveen und nutzen Sie die niedrigen Steinmauern als Windschutz gegen den peitschenden irischen Regen.",
+                "hu": "Fedezze fel Lisracreeveen ősi építményeit, és használja az alacsony kőfalakat szélfogóként a metsző ír eső és szél ellen a nyílt terepen.",
+                "ro": "Explorați structurile antice din Lisracreeveen și folosiți zidurile joase de piatră ca protecție împotriva vântului și a ploii persistente de pe dealuri.",
+                "en": "Explore the ancient structures of Lisracreeveen and use the low stone walls as a windbreak against the driving Irish rain on the open fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Lismore",
+                "hu": "Lismore",
+                "ro": "Lismore",
+                "en": "Lismore"
+              },
+              "tip_5lang": {
+                "de": "Lismore bietet eine faszinierende Zeitreise in die Vergangenheit; halten Sie Ihren Regenschirm gut fest, da die exponierte Lage oft von starken Böen heimgesucht wird.",
+                "hu": "Lismore lenyűgöző időutazást kínál a múltba; fogja szorosan az esernyőjét, mert a kitett helyszínen gyakran erős széllökések kísérik a záporokat.",
+                "ro": "Lismore oferă o călătorie fascinantă în trecut; țineți bine umbrela, deoarece locația expusă este adesea măturată de rafale puternice de vânt.",
+                "en": "Lismore offers a fascinating journey into the past; hold your umbrella tightly as the exposed location is often hit by strong wind gusts during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios na gCraobh Ringfort",
+                "hu": "Lios na gCraobh Ringfort",
+                "ro": "Lios na gCraobh Ringfort",
+                "en": "Lios na gCraobh Ringfort"
+              },
+              "tip_5lang": {
+                "de": "Dieser alte Ringfort ist im Regen ein magischer Ort, aber achten Sie auf den schlammigen Untergrund beim Betreten der historischen Wallanlagen.",
+                "hu": "Ez az ősi gyűrűvár esőben varázslatos hely, de ügyeljen a sáros talajra, amikor belép a történelmi földsáncok közé a vizes fűben.",
+                "ro": "Această fortăreață circulară este un loc magic pe ploaie, dar atenție la terenul noroios când pășiți printre valurile istorice de pământ.",
+                "en": "This ancient ringfort is a magical place in the rain, but watch out for the muddy ground when entering the historical earthworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerome Connor Monument",
+                "hu": "Jerome Connor Monument",
+                "ro": "Jerome Connor Monument",
+                "en": "Jerome Connor Monument"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang an diesem Denkmal und flüchten Sie anschließend in einen der gemütlichen Pubs von Annascaul, um sich bei einem Tee aufzuwärmen.",
+                "hu": "Zárja a túrát ennél az emlékműnél, majd meneküljön be Annascaul egyik hangulatos pubjába egy forró teára, hogy megszárítkozzon az eső után.",
+                "ro": "Încheiați turul la acest monument, apoi refugiați-vă într-unul dintre pub-urile primitoare din Annascaul pentru un ceai cald după ploaie.",
+                "en": "Finish your walk at this monument and then escape to one of Annascaul’s cozy pubs for a warm tea to dry off after the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reggel a deres faluban kezdünk a Szűzanya szobránál a tiszta, csípős levegőn.\nDélben Parcalassa fagyos kövei között sétálunk a téli napsütésben.\nDélután a Lismore és a gyűrűvár romjai között figyeljük a hosszú árnyékokat.\nEste a korai naplemente után az emlékműtől sietünk vissza a falu melegébe.",
+            "hu": "Reggel a deres faluban kezdünk a Szűzanya szobránál a tiszta, csípős levegőn.\nDélben Parcalassa fagyos kövei között sétálunk a téli napsütésben.\nDélután a Lismore és a gyűrűvár romjai között figyeljük a hosszú árnyékokat.\nEste a korai naplemente után az emlékműtől sietünk vissza a falu melegébe.",
+            "ro": "Dimineața începem la statuia înghețată din sat, în aerul curat și tăios.\nLa amiază ne plimbăm printre pietrele reci din Parcalassa sub soarele iernatic.\nDupă-amiaza urmărim umbrele lungi printre ruinele Lismore și cetatea circulară.\nSeara, după apusul timpuriu, ne grăbim de la monument spre căldura satului.",
+            "en": "Morning starts at the frosted village statue in the crisp, biting air.\nAt noon, we walk among the frozen stones of Parcalassa in the winter sun.\nIn the afternoon, we watch long shadows among the Lismore ruins and ringfort.\nIn the evening, after the early sunset, we hurry back from the monument to the village warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue of Our Lady",
+                "hu": "Statue of Our Lady",
+                "ro": "Statue of Our Lady",
+                "en": "Statue of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Die Statue wirkt im Winterfrost besonders andächtig; ziehen Sie sich warm an, da der Wind in den Gassen von Annascaul im Dezember schneidend kalt sein kann.",
+                "hu": "A szobor a téli fagyban különösen áhítatos; öltözzön rétegesen, mert a szél Annascaul utcáin decemberben metszően hideg lehet a reggeli órákban.",
+                "ro": "Statuia pare deosebit de solemnă în gerul iernii; îmbrăcați-vă gros, deoarece vântul pe străzile din Annascaul poate fi tăios în decembrie.",
+                "en": "The statue looks particularly solemn in the winter frost; dress in warm layers as the wind in Annascaul's streets can be biting in December."
+              }
+            },
+            {
+              "name": {
+                "de": "Parcalassa",
+                "hu": "Parcalassa",
+                "ro": "Parcalassa",
+                "en": "Parcalassa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie Parcalassa am Vormittag, wenn der Reif noch auf den Steinen liegt, und genießen Sie die weite Sicht durch die laublosen Bäume der Umgebung.",
+                "hu": "Látogasson el Parcalassába délelőtt, amikor a zúzmara még a köveken ül, és élvezze a távoli kilátást a környező kopár, lomb nélküli fákon keresztül.",
+                "ro": "Vizitați Parcalassa dimineața, când chiciura încă mai acoperă pietrele, și bucurați-vă de vizibilitatea sporită prin copacii desfrunziți din jur.",
+                "en": "Visit Parcalassa in the morning when the frost still clings to the stones, and enjoy the clear views through the leafless trees of the surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisracreeveen",
+                "hu": "Lisracreeveen",
+                "ro": "Lisracreeveen",
+                "en": "Lisracreeveen"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern von Lisracreeveen bieten in der kargen Winterlandschaft ein tolles Fotomotiv; achten Sie auf festes Schuhwerk gegen den gefrorenen Boden.",
+                "hu": "Lisracreeveen ősi falai remek fotótémát kínálnak a kopár téli tájban; viseljen stabil cipőt a keményre fagyott talajon való biztonságos járáshoz.",
+                "ro": "Zidurile antice din Lisracreeveen oferă un subiect foto excelent în peisajul auster de iarnă; purtați încălțăminte stabilă pentru solul înghețat.",
+                "en": "The ancient walls of Lisracreeveen provide a great photo opportunity in the stark winter landscape; wear sturdy boots for walking on the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Lismore",
+                "hu": "Lismore",
+                "ro": "Lismore",
+                "en": "Lismore"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in Lismore, während die tiefstehende Winterneigung lange Schatten wirft; nehmen Sie eine Thermoskanne mit einem heißen Getränk mit.",
+                "hu": "Élvezze a nyugalmat Lismore-ban, miközben az alacsonyan járó téli nap hosszú árnyékokat vet; vigyen magával egy termoszt forró itallal az útra.",
+                "ro": "Bucurați-vă de liniștea din Lismore în timp ce soarele jos de iarnă aruncă umbre lungi; luați un termos cu o băutură caldă pentru drum.",
+                "en": "Enjoy the peace in Lismore as the low winter sun casts long shadows; bring a thermos with a hot drink to keep warm during the exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios na gCraobh Ringfort",
+                "hu": "Lios na gCraobh Ringfort",
+                "ro": "Lios na gCraobh Ringfort",
+                "en": "Lios na gCraobh Ringfort"
+              },
+              "tip_5lang": {
+                "de": "Das Ringfort wirkt in der winterlichen Einsamkeit besonders imposant; planen Sie den Besuch vor 16:30 Uhr ein, damit Sie noch bei Tageslicht zurückkehren.",
+                "hu": "A gyűrűvár a téli magányban különösen impozáns; tervezze a látogatást 16:30 elé, hogy még nappali fénynél indulhasson vissza a faluba.",
+                "ro": "Fortăreața circulară pare impunătoare în singurătatea iernii; programați vizita înainte de ora 16:30 pentru a reveni pe lumină în sat.",
+                "en": "The ringfort feels imposing in its winter isolation; plan your visit before 16:30 so you can return to the village in daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerome Connor Monument",
+                "hu": "Jerome Connor Monument",
+                "ro": "Jerome Connor Monument",
+                "en": "Jerome Connor Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal in der blauen Stunde des späten Nachmittags, bevor Sie sich in die Wärme des Dorfes zu einem deftigen Eintopf zurückziehen.",
+                "hu": "Tekintse meg az emlékművet a késő délutáni kék órában, mielőtt visszahúzódna a falu melegébe egy laktató, forró ír pörköltre.",
+                "ro": "Admirați monumentul în ora albastră a după-amiezii târzii, înainte de a vă retrage la căldura din sat pentru o tocană irlandeză consistentă.",
+                "en": "View the monument during the late afternoon blue hour before retreating to the warmth of the village for a hearty Irish stew."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Frissítő kezdés várja a Statue of Our Lady szobornál, mielőtt eltekerne a lenyűgöző Lios na gCraobh gyűrűvárhoz.\nDélben megáll a Jerome Connor Monumentnél, majd tovább kerekezik Lismore történelmi romjaihoz.\nDélután Carrigcreender és Lisheenatullamush misztikus tájait hódítja meg két keréken, élvezve a kihívást.\nA napot végül a nyugodt Bunaneer Strand partjainál zárja, ahol a tengerparti szellő felfrissíti az esti órákban.",
         "ro": "Un început proaspăt vă așteaptă la Statue of Our Lady, înainte de a pedala spre impresionantul fort inelar Lios na gCraobh.\nLa prânz, opriți la Monumentul Jerome Connor și continuați spre ruinele încărcate de istorie de la Lismore.\nDupă-amiaza vă provoacă să navigați peisajele mistice de la Carrigcreender și îndepărtatul Lisheenatullamush.\nZiua se încheie relaxant pe țărmul liniștit de la Bunaneer Strand, în timp ce briza mării vă revigorează simțurile.",
         "en": "A crisp start awaits at the Statue of Our Lady before pedaling towards the impressive architectural marvel of Lios na gCraobh Ringfort.\nBy midday, you pause at the Jerome Connor Monument and cycle onwards to the storied historic ruins of Lismore.\nThe afternoon challenges you with the mystical landscapes of Carrigcreender and the remote archaeological site of Lisheenatullamush.\nEnd your day relaxing on the tranquil shores of Bunaneer Strand, letting the evening coastal breeze refresh you entirely."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Reggel a faluból indulunk, a csúszós aszfalton óvatosan tekerve a gyűrűvárig.\nDélben Lismore kaptatói várnak az esőben, de a látvány kárpótol a fáradtságért.\nDélután Carrigcreender kanyarjai után Lisheenatullamush szeles útjain haladunk.\nEste a Bunaneer Strand vad hullámai után egy forró itallal zárjuk a napot.",
+            "hu": "Reggel a faluból indulunk, a csúszós aszfalton óvatosan tekerve a gyűrűvárig.\nDélben Lismore kaptatói várnak az esőben, de a látvány kárpótol a fáradtságért.\nDélután Carrigcreender kanyarjai után Lisheenatullamush szeles útjain haladunk.\nEste a Bunaneer Strand vad hullámai után egy forró itallal zárjuk a napot.",
+            "ro": "Dimineața pornim din sat, pedalând cu grijă pe asfaltul ud spre fortăreața circulară.\nLa amiază ne așteaptă urcările spre Lismore, unde ploaia face peisajul și mai dramatic.\nDupă-amiaza trecem prin Carrigcreender spre drumurile vântoase din Lisheenatullamush.\nSeara, după valurile sălbatice de la Bunaneer, încheiem ziua cu o băutură caldă.",
+            "en": "Morning starts from the village, cycling carefully on wet asphalt towards the ringfort.\nAt noon, the climbs to Lismore await in the rain, but the view rewards the effort.\nIn the afternoon, we pass through Carrigcreender towards the windy Lisheenatullamush.\nIn the evening, after the wild surf of Bunaneer Strand, we end with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue of Our Lady",
+                "hu": "Statue of Our Lady",
+                "ro": "Statue of Our Lady",
+                "en": "Statue of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Checken Sie Ihre Bremsen vor dem Start; die nassen Straßen in Annascaul können für Radfahrer rutschig sein, besonders an den Markierungen im Dorf.",
+                "hu": "Ellenőrizze a fékeket indulás előtt; az esős Annascaul utcái csúszósak lehetnek a kerékpárosok számára, különösen az útburkolati jeleknél.",
+                "ro": "Verificați frânele înainte de plecare; străzile ude din Annascaul pot fi alunecoase pentru bicicliști, mai ales pe marcajele rutiere.",
+                "en": "Check your brakes before starting; the wet streets of Annascaul can be slippery for cyclists, especially on the road markings in the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios na gCraobh Ringfort",
+                "hu": "Lios na gCraobh Ringfort",
+                "ro": "Lios na gCraobh Ringfort",
+                "en": "Lios na gCraobh Ringfort"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad am Straßenrand ab; der Pfad zum Ringfort wird bei Regen sehr schlammig, gehen Sie das letzte Stück lieber vorsichtig zu Fuß.",
+                "hu": "Hagyja a kerékpárt az út szélén; a várhoz vezető ösvény esőben nagyon sáros lesz, az utolsó szakaszt tegye meg inkább óvatosan gyalog.",
+                "ro": "Lăsați bicicleta la marginea drumului; poteca spre fortăreață devine foarte noroioasă pe ploaie, așa că mergeți pe jos pe ultima porțiune.",
+                "en": "Leave your bike by the roadside; the path to the ringfort becomes very muddy in the rain, so it's better to walk the last stretch carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerome Connor Monument",
+                "hu": "Jerome Connor Monument",
+                "ro": "Jerome Connor Monument",
+                "en": "Jerome Connor Monument"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine kurze Pause, aber achten Sie auf Pfützen; die Senke um das Denkmal sammelt bei starkem Regen oft viel Wasser an.",
+                "hu": "Tartson itt egy rövid szünetet, de ügyeljen a tócsákra; az emlékmű körüli mélyedésben heves esőzéskor gyakran megáll a víz.",
+                "ro": "Faceți o scurtă pauză aici, dar atenție la bălți; adâncitura din jurul monumentului colectează adesea multă apă în timpul ploilor abundente.",
+                "en": "Take a short break here but watch out for puddles; the depression around the monument often collects a lot of water during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lismore",
+                "hu": "Lismore",
+                "ro": "Lismore",
+                "en": "Lismore"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg nach Lismore ist im Regen anstrengend; tragen Sie eine atmungsaktive Regenjacke, um trotz der Feuchtigkeit nicht von innen zu schwitzen.",
+                "hu": "A Lismore-ba vezető emelkedő esőben fárasztó; viseljen légáteresztő esőkabátot, hogy a nedvesség ellenére se izzadjon be a kaptatón.",
+                "ro": "Urcarea spre Lismore este obositoare pe ploaie; purtați o jachetă de ploaie respirabilă pentru a nu transpira excesiv în timpul efortului.",
+                "en": "The climb to Lismore is tiring in the rain; wear a breathable raincoat to avoid getting soaked from sweat while pedaling up the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrigcreender",
+                "hu": "Carrigcreender",
+                "ro": "Carrigcreender",
+                "en": "Carrigcreender"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in den Kurven von Carrigcreender besonders langsam, da herabgefallenes nasses Laub den Asphalt in eine gefährliche Rutschbahn verwandeln kann.",
+                "hu": "Carrigcreender kanyarjaiban haladjon különösen lassan, mivel a lehullott nedves levelek az aszfaltot veszélyes csúszdává változtathatják.",
+                "ro": "Circulați cu viteză redusă în curbele de la Carrigcreender, deoarece frunzele ude căzute pot transforma asfaltul într-o suprafață alunecoasă.",
+                "en": "Ride extra slowly in the curves of Carrigcreender as fallen wet leaves can turn the asphalt into a dangerous slippery surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisheenatullamush",
+                "hu": "Lisheenatullamush",
+                "ro": "Lisheenatullamush",
+                "en": "Lisheenatullamush"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Weg ist dem Wind schutzlos ausgeliefert; halten Sie den Lenker fest, wenn Sie die windigen Höhen von Lisheenatullamush passieren.",
+                "hu": "Ez a kitett út védtelen a széllel szemben; fogja erősen a kormányt, amikor Lisheenatullamush szeles magaslatain halad át az esőben.",
+                "ro": "Acest drum expus este vulnerabil la vânt; țineți bine ghidonul când treceți prin zonele înalte și vântoase din Lisheenatullamush.",
+                "en": "This exposed road is defenseless against the wind; grip your handlebars firmly when passing the windy heights of Lisheenatullamush."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunaneer Strand",
+                "hu": "Bunaneer Strand",
+                "ro": "Bunaneer Strand",
+                "en": "Bunaneer Strand"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen wild und schön; parken Sie Ihr Rad sicher und genießen Sie kurz die tosende Brandung, bevor Sie zurückfahren.",
+                "hu": "A strand esőben vad és gyönyörű; parkolja le biztonságosan a biciklit, és élvezze rövid ideig a zúgó hullámokat, mielőtt visszaindulna.",
+                "ro": "Plaja este sălbatică și frumoasă pe ploaie; parcați bicicleta în siguranță și bucurați-vă de valurile înspumate înainte de a pleca.",
+                "en": "The beach is wild and beautiful in the rain; park your bike securely and enjoy the roaring surf briefly before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reggel a deres faluból indulunk, a csípős szélben tekerve az emlékmű felé.\nDélben Lismore és Carrigcreender útjain élvezzük a tiszta, téli panorámát.\nDélután Lisheenatullamush magaslatai után a lemenő nap fényében biciklizünk.\nEste a Bunaneer Strand fagyos partja után a falu meleg pubjaiba térünk vissza.",
+            "hu": "Reggel a deres faluból indulunk, a csípős szélben tekerve az emlékmű felé.\nDélben Lismore és Carrigcreender útjain élvezzük a tiszta, téli panorámát.\nDélután Lisheenatullamush magaslatai után a lemenő nap fényében biciklizünk.\nEste a Bunaneer Strand fagyos partja után a falu meleg pubjaiba térünk vissza.",
+            "ro": "Dimineața pornim din satul înghețat, pedalând prin vântul tăios spre monument.\nLa amiază ne bucurăm de panoramele clare de iarnă pe drumurile spre Lismore.\nDupă-amiaza, după înălțimile Lisheenatullamush, pedalăm în lumina apusului.\nSeara, după plaja înghețată de la Bunaneer, revenim în pub-urile calde din sat.",
+            "en": "Morning starts from the frosted village, cycling through the biting wind to the monument.\nAt noon, enjoy clear winter panoramas on the roads to Lismore and Carrigcreender.\nIn the afternoon, after Lisheenatullamush heights, we cycle in the sunset glow.\nIn the evening, after the frozen Bunaneer Strand, we return to the village pubs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue of Our Lady",
+                "hu": "Statue of Our Lady",
+                "ro": "Statue of Our Lady",
+                "en": "Statue of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; die eiskalte Morgenluft am Lenker kann Ihre Finger schnell gefühllos machen, während Sie durch das Dorf starten.",
+                "hu": "Viseljen meleg kesztyűt; a jéghideg reggeli levegő a kormányon hamar elzsibbaszthatja az ujjait, miközben elindul a faluból.",
+                "ro": "Purtați mănuși călduroase; aerul înghețat de dimineață pe ghidon vă poate amorți rapid degetele în timp ce porniți prin sat.",
+                "en": "Wear warm gloves; the freezing morning air on the handlebars can quickly numb your fingers as you start your ride through the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios na gCraobh Ringfort",
+                "hu": "Lios na gCraobh Ringfort",
+                "ro": "Lios na gCraobh Ringfort",
+                "en": "Lios na gCraobh Ringfort"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Weg zum Ringfort; das Gelände kann uneben und bei Frost tückisch glatt für Fahrradreifen sein.",
+                "hu": "Ügyeljen a fagyott tócsákra a gyűrűvár felé vezető úton; a terep egyenetlen és a fagyban csalókán csúszós lehet a kerékpárgumik számára.",
+                "ro": "Atenție la bălțile înghețate pe drumul spre fortăreață; terenul poate fi denivelat și înșelător de alunecos pentru anvelopele de bicicletă.",
+                "en": "Watch out for frozen puddles on the way to the ringfort; the terrain can be uneven and treacherously slippery for bike tires in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerome Connor Monument",
+                "hu": "Jerome Connor Monument",
+                "ro": "Jerome Connor Monument",
+                "en": "Jerome Connor Monument"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur eine kurze Fotopause, um nicht auszukühlen; die tiefstehende Winterneigung setzt die Skulptur wunderschön in Szene.",
+                "hu": "Csak egy rövid fotószünetet tartson, nehogy túlságosan lehűljön; az alacsonyan járó téli nap gyönyörűen világítja meg a szobrot.",
+                "ro": "Faceți doar o scurtă pauză foto pentru a nu vă răci; soarele jos de iarnă pune sculptura într-o lumină superbă.",
+                "en": "Take only a short photo break to avoid getting chilled; the low winter sun lights up the sculpture beautifully for pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Lismore",
+                "hu": "Lismore",
+                "ro": "Lismore",
+                "en": "Lismore"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie aufwärmen, aber die Abfahrt von Lismore ist sehr kalt; ziehen Sie eine winddichte Schicht über, bevor Sie bergab fahren.",
+                "hu": "A felfelé vezető út bemelegíti, de a Lismore-ból lefelé tartó szakasz nagyon hideg; vegyen fel szélálló réteget, mielőtt gurulni kezdene.",
+                "ro": "Urcarea vă va încălzi, dar coborârea de la Lismore este foarte rece; puneți un strat rezistent la vânt înainte de a porni la vale.",
+                "en": "The climb will warm you up, but the descent from Lismore is very cold; put on a windproof layer before you start coasting downhill."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrigcreender",
+                "hu": "Carrigcreender",
+                "ro": "Carrigcreender",
+                "en": "Carrigcreender"
+              },
+              "tip_5lang": {
+                "de": "In schattigen Abschnitten bei Carrigcreender kann sich Glatteis halten; fahren Sie vorausschauend und vermeiden Sie ruckartige Lenkbewegungen.",
+                "hu": "Carrigcreender árnyékos szakaszain megmaradhat a jég; haladjon előrelátóan, és kerülje a hirtelen kormánymozdulatokat a csúszós részeken.",
+                "ro": "Pe secțiunile umbrite de la Carrigcreender se poate menține poleiul; conduceți preventiv și evitați mișcările bruște de ghidon.",
+                "en": "Black ice can linger in shaded sections near Carrigcreender; ride proactively and avoid sudden steering movements on potentially icy spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisheenatullamush",
+                "hu": "Lisheenatullamush",
+                "ro": "Lisheenatullamush",
+                "en": "Lisheenatullamush"
+              },
+              "tip_5lang": {
+                "de": "Hier oben weht im Winter oft ein scharfer Wind; schützen Sie Ihr Gesicht mit einem Schal oder einer Sturmhaube gegen den kalten Fahrtwind.",
+                "hu": "Itt fent télen gyakran fúj éles szél; védje az arcát sállal vagy maszkal a hideg menetszél ellen a nyíltabb útszakaszokon.",
+                "ro": "Aici sus vântul bate adesea cu putere iarna; protejați-vă fața cu un fular împotriva curentului rece în timp ce pedalați.",
+                "en": "Up here, a sharp wind often blows in winter; protect your face with a scarf or neck warmer against the cold airflow while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunaneer Strand",
+                "hu": "Bunaneer Strand",
+                "ro": "Bunaneer Strand",
+                "en": "Bunaneer Strand"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor Sonnenuntergang (ca. 16:30 Uhr), um die winterliche Farbenpracht des Himmels sicher zu erleben, bevor es dunkel wird.",
+                "hu": "Érje el a strandot naplemente előtt (kb. 16:30), hogy még biztonságban élvezhesse az ég téli színeit, mielőtt teljesen besötétedne.",
+                "ro": "Ajungeți la plajă înainte de apus (aprox. 16:30) pentru a experimenta culorile iernii pe cer în siguranță, înainte de a se întuneca.",
+                "en": "Reach the beach before sunset (around 16:30) to safely experience the winter colors of the sky before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Festői autózása reggel Parcalassa romjainál kezdődik, majd egy nyugodt pihenő következik a tágas Bunaneer Strand partján.\nDélben a szárazföld belseje felé veszi az irányt, hogy megcsodálja Doonclaur zord alapjait és a völgyre nyíló kilátást.\nDélután Lisraturraun, Lisheenatullamush és Carrigcreender rejtélyes ősi köveit és történelmi emlékeit térképezi fel.\nA nap a Jerome Connor Monument felkeresésével ér véget, ahol az esti fényben elmélkedhet a helyi művészeten.",
         "ro": "Călătoria scenică începe dimineața la Parcalassa, urmată de o pauză liniștită pe plaja întinsă de la Bunaneer Strand.\nLa prânz, conduceți spre interior pentru a admira fundațiile aspre și priveliștile vaste oferite de fortăreața Doonclaur.\nDupă-amiaza explorați pietrele misterioase antice de la Lisraturraun, situl Lisheenatullamush și istoricul Carrigcreender.\nZiua se încheie cu o vizită la Monumentul Jerome Connor, reflectând asupra istoriei locale în lumina caldă a serii.",
         "en": "Your scenic drive begins in the morning at Parcalassa, followed by a tranquil pause at the expansive shores of Bunaneer Strand.\nMidday takes you inland to admire the rugged foundations and sweeping valley views from the historic stronghold of Doonclaur.\nIn the afternoon, you explore the mysterious ancient stones of Lisraturraun, Lisheenatullamush, and historic Carrigcreender.\nThe day concludes with a peaceful visit to the Jerome Connor Monument, reflecting on local history in the fading evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Reggel Parcalassa romjai között kezdünk, kényelmesen az autóból szemlélve a tájat.\nDélben a Bunaneer Strand és Doonclaur következik a zuhogó esőben.\nDélután Lisraturraun és Lisheenatullamush magaslatait járjuk be a ködös utakon.\nEste a Jerome Connor emlékmű után a falu egyik pubjában várjuk a vihar végét.",
+            "hu": "Reggel Parcalassa romjai között kezdünk, kényelmesen az autóból szemlélve a tájat.\nDélben a Bunaneer Strand és Doonclaur következik a zuhogó esőben.\nDélután Lisraturraun és Lisheenatullamush magaslatait járjuk be a ködös utakon.\nEste a Jerome Connor emlékmű után a falu egyik pubjában várjuk a vihar végét.",
+            "ro": "Dimineața începem printre ruinele din Parcalassa, admirând peisajul din mașină.\nLa amiază urmăm traseul spre plaja Bunaneer și Doonclaur în ploaia torențială.\nDupă-amiaza parcurgem drumurile cețoase spre Lisraturraun și Lisheenatullamush.\nSeara, după monument, ne adăpostim de furtună într-un pub primitor din sat.",
+            "en": "Morning starts among Parcalassa ruins, viewing the landscape from the car's comfort.\nAt noon, we follow the route to Bunaneer Strand and Doonclaur in the heavy rain.\nIn the afternoon, we traverse misty roads to Lisraturraun and Lisheenatullamush.\nIn the evening, after the monument, we wait out the storm in a cozy village pub."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parcalassa",
+                "hu": "Parcalassa",
+                "ro": "Parcalassa",
+                "en": "Parcalassa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; bei starkem Regen können die unbefestigten Bankette weich sein, bleiben Sie lieber auf dem Asphalt.",
+                "hu": "Parkoljon óvatosan az út szélén; heves esőzéskor a burkolatlan padka felpuhulhat, maradjon inkább az aszfalton az autóval.",
+                "ro": "Parcați cu atenție pe marginea drumului; în caz de ploaie abundentă, marginile neasfaltate pot fi moi, deci rămâneți pe asfalt.",
+                "en": "Park carefully by the roadside; during heavy rain, the unpaved verges can soften, so it's better to stay on the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunaneer Strand",
+                "hu": "Bunaneer Strand",
+                "ro": "Bunaneer Strand",
+                "en": "Bunaneer Strand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer aus dem trockenen Auto; die Brandung ist bei Regen und Wind besonders beeindruckend zu beobachten.",
+                "hu": "Élvezze a viharos tenger látványát a száraz autóból; a hullámverés esőben és szélben különösen lenyűgöző látványt nyújt a partról.",
+                "ro": "Bucurați-vă de vederea mării înfuriate din mașina uscată; valurile sunt deosebit de impresionante de privit pe vânt și ploaie.",
+                "en": "Enjoy the view of the stormy sea from your dry car; the surf is particularly impressive to watch during rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Doonclaur",
+                "hu": "Doonclaur",
+                "ro": "Doonclaur",
+                "en": "Doonclaur"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie kurze Regenpausen für einen schnellen Blick auf die Ruinen; die schmalen Zufahrtswege können bei Gegenverkehr und Nässe eng werden.",
+                "hu": "Használja ki a rövid esőszüneteket a romok gyors megtekintésére; a keskeny bekötőutak szembejövő forgalom és nedves út esetén szűkösek lehetnek.",
+                "ro": "Folosiți scurte pauze de ploaie pentru o privire rapidă asupra ruinelor; drumurile înguste pot deveni dificile în condiții de umiditate.",
+                "en": "Take advantage of short breaks in the rain for a quick look at the ruins; the narrow access roads can be tight with oncoming traffic and wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisraturraun",
+                "hu": "Lisraturraun",
+                "ro": "Lisraturraun",
+                "en": "Lisraturraun"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tief hängende Wolken, die die Sicht auf die Straße einschränken können; fahren Sie mit eingeschaltetem Licht für bessere Sichtbarkeit.",
+                "hu": "Ügyeljen az alacsonyan szálló felhőkre, amelyek korlátozhatják az útra való kilátást; vezessen bekapcsolt fényszóróval a jobb láthatóság érdekében.",
+                "ro": "Atenție la norii joși care pot limita vizibilitatea pe drum; conduceți cu luminile aprinse pentru o mai bună vizibilitate.",
+                "en": "Watch out for low-hanging clouds that can limit visibility on the road; drive with your headlights on for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisheenatullamush",
+                "hu": "Lisheenatullamush",
+                "ro": "Lisheenatullamush",
+                "en": "Lisheenatullamush"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Panoramen auch durch die Windschutzscheibe; halten Sie nur an ausgewiesenen Stellen, um den fließenden Verkehr nicht zu behindern.",
+                "hu": "A felvezető út pazar panorámát kínál a szélvédőn keresztül is; csak a kijelölt helyeken álljon meg, hogy ne akadályozza a forgalmat a szűk úton.",
+                "ro": "Drumul de urcare oferă panorame grozave chiar și prin parbriz; opriți doar în locurile amenajate pentru a nu bloca traficul.",
+                "en": "The climb offers great panoramas even through the windshield; stop only at designated spots to avoid obstructing traffic on the narrow road."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrigcreender",
+                "hu": "Carrigcreender",
+                "ro": "Carrigcreender",
+                "en": "Carrigcreender"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Regen überflutete Stellen auf der Straße; Carrigcreender liegt in einer Senke, wo sich das Wasser sammeln kann.",
+                "hu": "Kerülje el a vízzel elöntött útszakaszokat heves esőzéskor; Carrigcreender egy mélyedésben fekszik, ahol könnyen összegyűlhet a csapadékvíz.",
+                "ro": "Evitați porțiunile de drum inundate în timpul ploilor abundente; Carrigcreender se află într-o depresiune unde apa se poate acumula rapid.",
+                "en": "Avoid flooded sections of the road during heavy rain; Carrigcreender lies in a depression where rainwater can easily accumulate."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerome Connor Monument",
+                "hu": "Jerome Connor Monument",
+                "ro": "Jerome Connor Monument",
+                "en": "Jerome Connor Monument"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Denkmal und genießen Sie die Kunst, bevor Sie zu einem warmen Abendessen im Dorfzentrum von Annascaul fahren.",
+                "hu": "Parkoljon közvetlenül az emlékműnél, és csodálja meg az alkotást, mielőtt egy meleg vacsorára indulna Annascaul faluközpontjába.",
+                "ro": "Parcați direct lângă monument și admirați opera de artă înainte de a merge la o cină caldă în centrul satului Annascaul.",
+                "en": "Park directly by the monument and admire the art before heading for a warm dinner in the center of Annascaul village."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Reggel a fagyos Parcalassa felé vesszük az irányt, élvezve a fűtött autó kényelmét.\nDélben a Bunaneer Strand és Doonclaur kopár, de tiszta panorámája fogad.\nDélután Lisraturraun és Carrigcreender útjain autózunk a téli napsütésben.\nEste a Jerome Connor emlékműnél ér minket a korai, fagyos alkonyat.",
+            "hu": "Reggel a fagyos Parcalassa felé vesszük az irányt, élvezve a fűtött autó kényelmét.\nDélben a Bunaneer Strand és Doonclaur kopár, de tiszta panorámája fogad.\nDélután Lisraturraun és Carrigcreender útjain autózunk a téli napsütésben.\nEste a Jerome Connor emlékműnél ér minket a korai, fagyos alkonyat.",
+            "ro": "Dimineața pornim spre Parcalassa înghețată, bucurându-ne de confortul mașinii încălzite.\nLa amiază ne întâmpină panoramele clare de la plaja Bunaneer și Doonclaur.\nDupă-amiaza conducem spre Lisraturraun și Carrigcreender sub soarele iernatic.\nSeara, la Monumentul Jerome Connor, ne prinde amurgul timpuriu și gerul.",
+            "en": "Morning starts towards frozen Parcalassa, enjoying the heated car's comfort.\nAt noon, clear and stark panoramas await at Bunaneer Strand and Doonclaur.\nIn the afternoon, drive to Lisraturraun and Carrigcreender in the winter sun.\nIn the evening, the early frost and twilight catch us at the Jerome Connor Monument."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parcalassa",
+                "hu": "Parcalassa",
+                "ro": "Parcalassa",
+                "en": "Parcalassa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Autos zwischen den Stopps; die Besichtigung von Parcalassa ist im Winter kurz und knackig, perfekt für Autofahrer.",
+                "hu": "Használja az autó fűtését a megállók között; Parcalassa megtekintése télen rövid és lényegre törő, így tökéletes úti cél autósoknak.",
+                "ro": "Folosiți încălzirea mașinii între opriri; vizitarea Parcalassa iarna este scurtă și intensă, fiind ideală pentru cei care călătoresc cu mașina.",
+                "en": "Use your car's heater between stops; visiting Parcalassa in winter is short and sweet, making it perfect for those traveling by car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunaneer Strand",
+                "hu": "Bunaneer Strand",
+                "ro": "Bunaneer Strand",
+                "en": "Bunaneer Strand"
+              },
+              "tip_5lang": {
+                "de": "Der Strandparkplatz kann im Winter vereist sein; prüfen Sie die Bodenbeschaffenheit, bevor Sie aussteigen, um nicht auf gefrorenem Untergrund auszurutschen.",
+                "hu": "A strand parkolója télen jeges lehet; ellenőrizze a talajt, mielőtt kiszállna az autóból, nehogy megcsússzon a fagyott felületen.",
+                "ro": "Parcarea de la plajă poate fi înghețată iarna; verificați starea solului înainte de a coborî din mașină pentru a nu aluneca pe gheață.",
+                "en": "The beach parking area can be icy in winter; check the ground conditions before stepping out of the car to avoid slipping on frozen surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Doonclaur",
+                "hu": "Doonclaur",
+                "ro": "Doonclaur",
+                "en": "Doonclaur"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht setzt die Ruinen von Doonclaur toll in Szene; bleiben Sie für Fotos in der Nähe des Autos, um sich zwischendurch aufzuwärmen.",
+                "hu": "A téli fények remekül kiemelik Doonclaur romjait; maradjon az autó közelében a fotózáskor, hogy két kép között gyorsan felmelegedhessen.",
+                "ro": "Lumina iernii scoate în evidență ruinele din Doonclaur; rămâneți aproape de mașină pentru fotografii, pentru a vă putea încălzi rapid.",
+                "en": "The winter light highlights the ruins of Doonclaur beautifully; stay near the car for photos so you can warm up quickly between shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisraturraun",
+                "hu": "Lisraturraun",
+                "ro": "Lisraturraun",
+                "en": "Lisraturraun"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in den schattigen Tälern von Lisraturraun vorsichtig, da die Sonne hier im Winter kaum hinkommt und sich Straßenglätte halten kann.",
+                "hu": "Lisraturraun árnyékos völgyeiben vezessen óvatosan, mivel a nap télen alig éri ezeket a részeket, így az út jeges maradhat napközben is.",
+                "ro": "Conduceți cu atenție în văile umbrite din Lisraturraun, deoarece soarele ajunge rar aici iarna și drumul poate rămâne înghețat.",
+                "en": "Drive carefully in the shaded valleys of Lisraturraun, as the winter sun rarely reaches these parts, allowing ice to persist on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lisheenatullamush",
+                "hu": "Lisheenatullamush",
+                "ro": "Lisheenatullamush",
+                "en": "Lisheenatullamush"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht über die schneebedeckten oder gefrorenen Berge der Dingle-Halbinsel von den hohen Aussichtspunkten aus Ihrem warmen Fahrzeug.",
+                "hu": "Élvezze a tágas kilátást a Dingle-félsziget havas vagy fagyos hegyeire a magaslati pontokról, mindezt a meleg autójából szemlélve.",
+                "ro": "Bucurați-vă de panorama munților înzăpeziți sau înghețați ai peninsulei Dingle de la punctele înalte de observație, din confortul mașinii.",
+                "en": "Enjoy the expansive views of the snowy or frozen mountains of the Dingle Peninsula from the high viewpoints, all from the warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrigcreender",
+                "hu": "Carrigcreender",
+                "ro": "Carrigcreender",
+                "en": "Carrigcreender"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheibenwaschanlage frostsicher ist; auf den Straßen nach Carrigcreender kann im Winter viel Streusalz und Schmutz aufwirbeln.",
+                "hu": "Győződjön meg róla, hogy a szélvédőmosó folyadék fagyálló; a Carrigcreender felé vezető utakon télen sok útszóró só és sár verődhet fel.",
+                "ro": "Asigurați-vă că lichidul de parbriz este rezistent la îngheț; pe drumurile spre Carrigcreender se poate ridica multă sare și murdărie iarna.",
+                "en": "Ensure your windshield washer fluid is frost-resistant; roads towards Carrigcreender can have a lot of salt and dirt kicked up in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerome Connor Monument",
+                "hu": "Jerome Connor Monument",
+                "ro": "Jerome Connor Monument",
+                "en": "Jerome Connor Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ist in der frühen winterlichen Abenddämmerung ein schöner Abschluss; kehren Sie danach auf kurzem Weg in die Wärme von Annascaul zurück.",
+                "hu": "Az emlékmű a korai téli szürkületben szép zárópontja a napnak; utána rövid úton térjen vissza Annascaul falujának melegébe.",
+                "ro": "Monumentul este un punct final frumos în amurgul timpuriu de iarnă; după aceea, reveniți rapid la căldura din Annascaul.",
+                "en": "The monument is a beautiful final stop in the early winter twilight; afterwards, make the short drive back to the warmth of Annascaul."
+              }
+            }
+          ]
+        }
       }
     }
   }

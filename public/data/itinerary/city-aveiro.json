@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Teatro Aveirense kulturális légkörének magába szívásával, majd merüljön el a helyi történelemben a Városi Múzeumban. A dél ideális a Museu Arte Nova részleteinek megcsodálására, mielőtt a történelmi São Gonçalinho kápolnához sétálna. Töltse a délutánt a CETA kísérleti művészetének felfedezésével, és fejezze be a napot a hangulatos sólepárlóknál.",
         "ro": "Începeți dimineața absorbind atmosfera culturală la Teatro Aveirense, urmată de o imersiune în istoria locală la Muzeul Orașului. Amiaza este perfectă pentru a admira detaliile Muzeului Arte Nova înainte de a vă plimba spre capela istorică São Gonçalinho. Petreceți după-amiaza explorând artele la CETA și încheiați ziua la salinele evocatoare.",
         "en": "Start your morning absorbing the cultural atmosphere at Teatro Aveirense, followed by a deep dive into local history at the City Museum. Midday is perfect for admiring the exquisite details of the Museu Arte Nova before wandering over to the historical São Gonçalinho chapel. Spend your afternoon exploring the experimental arts at CETA, and finish the day at the evocative salt pans."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im Theater, einem idealen Schutz vor dem atlantischen Nieselregen. Mittags bieten die Museen am Kanal eine trockene, kulturelle Flucht. Am Nachmittag erkunden Sie die künstlerische Seele von Aveiro, während Sie vorsichtig über das nasse Kopfsteinpflaster gehen. Beenden Sie den Tag bei den Salzwiesen, wo der Nebel trotz des feuchten Wetters eine einzigartige Atmosphäre schafft.",
+            "hu": "Kezdje a reggelt a színházban, amely tökéletes menedéket nyújt az atlanti szitálás elől. Délben a csatorna menti múzeumok kínálnak száraz és kulturális kikapcsolódást. Délután fedezze fel Aveiro művészi lelkét, miközben óvatosan navigál a vizes macskaköveken. A napot a sólepárlóknál zárja, ahol a köd különleges hangulatot áraszt a nyirkos idő ellenére is.",
+            "ro": "Începeți dimineața la teatru, un adăpost perfect împotriva burniței atlantice. La prânz, muzeele de-a lungul canalului oferă o evadare culturală uscată. După-amiaza, explorați sufletul artistic al orașului Aveiro în timp ce navigați cu atenție pe piatra cubică umedă. Încheiați ziua la saline, unde ceața creează o atmosferă unică, în ciuda vremii jilave.",
+            "en": "Start your morning at the theater, a perfect shelter from the Atlantic drizzle. By noon, the museums along the canal offer a dry and cultural escape. In the afternoon, explore the artistic soul of Aveiro while navigating the wet cobblestones carefully. End your day at the salt pans, where the mist creates a unique atmosphere despite the damp weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Aveirense",
+                "hu": "Teatro Aveirense",
+                "ro": "Teatro Aveirense",
+                "en": "Teatro Aveirense"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Innenausstattung, während Sie den Regenschauer abwarten; bringen Sie einen stabilen Schirm für den kurzen Weg zwischen den Gebäuden mit.",
+                "hu": "Csodálja meg a belső tér részleteit, miközben eláll a zápor; hozzon magával strapabíró esernyőt a város történelmi helyszínei közötti rövid, de vizes sétához.",
+                "ro": "Admirați detaliile interioare în timp ce așteptați să treacă ploaia; aduceți o umbrelă rezistentă pentru scurta plimbare între locațiile istorice ale orașului.",
+                "en": "Admire the interior details while waiting for the shower to pass; bring a sturdy umbrella for the short walk between the city's historic venues."
+              }
+            },
+            {
+              "name": {
+                "de": "City Museum Aveiro",
+                "hu": "Városi Múzeum Aveiro",
+                "ro": "Muzeul Orașului Aveiro",
+                "en": "City Museum Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ein perfekter Zufluchtsort; erkunden Sie die Fliesensammlung im Trockenen und nutzen Sie die Garderobe für Ihre nasse Regenbekleidung.",
+                "hu": "Ez a múzeum tökéletes menedék; fedezze fel a csempegyűjteményt a szárazban, és használja a ruhatárat a vizes esőkabátok és esernyők biztonságos tárolására.",
+                "ro": "Acest muzeu este un refugiu perfect; explorați colecția de plăci ceramice la adăpost și folosiți garderoba pentru echipamentul de ploaie umed.",
+                "en": "This museum is a perfect refuge; explore the tile collection in the dry and use the cloakroom to store your wet rain gear while you wander the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Arte Nova",
+                "hu": "Museu Arte Nova",
+                "ro": "Museu Arte Nova",
+                "en": "Museu Arte Nova"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur vom gemütlichen Teehaus im Erdgeschoss aus; die warme Atmosphäre ist ideal, um sich nach einem Gang durch den Regen aufzuwärmen.",
+                "hu": "Élvezze az építészetet a földszinti hangulatos teaházból; a meleg légkör ideális a felmelegedéshez egy esős séta után, miközben a kinti csatornát figyeli.",
+                "ro": "Bucurați-vă de arhitectură din ceainăria primitoare de la parter; atmosfera caldă este ideală pentru a vă încălzi după o plimbare prin ploaia de afară.",
+                "en": "Enjoy the architecture from the cozy tea house on the ground floor; the warm atmosphere is ideal for warming up after a walk through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "São Gonçalinho (Paulo Noves)",
+                "hu": "São Gonçalinho (Paulo Noves)",
+                "ro": "São Gonçalinho (Paulo Noves)",
+                "en": "São Gonçalinho (Paulo Noves)"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen kurzen, trockenen Moment der Stille; achten Sie auf den rutschigen Granitboden auf dem Vorplatz bei nassem Wetter.",
+                "hu": "A kis kápolna rövid, száraz pillanatnyi csendet kínál; ügyeljen a csúszós gránitburkolatra a téren, amikor esős időben a bejárat felé igyekszik.",
+                "ro": "Mica capelă oferă un scurt moment uscat de liniște; aveți grijă la pavajul de granit alunecos din piață atunci când plouă afară.",
+                "en": "The small chapel offers a short, dry moment of silence; watch out for the slippery granite pavement in the square when navigating in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "hu": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "ro": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "en": "CETA - Circulo Experimental de Teatro de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die lokale Kulturszene ein, während es draußen regnet; der Innenraum bietet eine inspirierende Umgebung fernab der Nässe.",
+                "hu": "Merüljön el a helyi kulturális életben, miközben odakint esik; a belső tér inspiráló környezetet és biztos menedéket nyújt a délutáni záporok elől.",
+                "ro": "Cufundați-vă în scena culturală locală în timp ce afară plouă; interiorul oferă un mediu inspirat și adăpost împotriva umezelii de după-amiază.",
+                "en": "Immerse yourself in the local cultural scene while it rains outside; the interior provides an inspiring environment away from the afternoon dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseu Marinha da Troncalhada",
+                "hu": "Ecomuseu Marinha da Troncalhada",
+                "ro": "Ecomuseu Marinha da Troncalhada",
+                "en": "Ecomuseu Marinha da Troncalhada"
+              },
+              "tip_5lang": {
+                "de": "Die Salzwiesen wirken im Regen mystisch; tragen Sie wasserfeste Stiefel, da die Wege schlammig werden können, und schützen Sie Ihre Kamera vor Feuchtigkeit.",
+                "hu": "A sólepárlók misztikusan festenek az esőben; viseljen vízálló bakancsot, mert az utak sárossá válhatnak, és óvja fényképezőgépét a nedvességtől.",
+                "ro": "Salinele arată mistic în ploaie; purtați cizme impermeabile, deoarece potecile devin noroioase, și protejați-vă aparatul foto de umiditate.",
+                "en": "The salt pans look mystical in the rain; wear waterproof boots as the paths can become muddy, and keep your camera protected from the moisture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Aveiro ist frisch, aber die historischen Gebäude bieten wohlige Wärme. Mittags laden die Museen zum Verweilen ein, fernab vom kalten Lagunenwind. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Nachmittag für die Außenbereiche nutzen. Der Abend klingt in den beleuchteten Gassen aus, wo die kühle Luft den Charme der Stadt unterstreicht.",
+            "hu": "A téli reggel Aveiróban friss, de a történelmi épületek barátságos meleget nyújtanak. Délben a múzeumok hívogatnak hosszabb időzésre, távol a lagúna hideg szelétől. Mivel a nap már 17:00 körül lemegy, a délutánt érdemes a kültéri látnivalókra szánni. Az este a kivilágított utcákon ér véget, ahol a hűvös levegő még inkább kiemeli a város báját.",
+            "ro": "Dimineața de iarnă în Aveiro este proaspătă, dar clădirile istorice oferă o căldură primitoare. La prânz, muzeele vă invită să zăboviți, departe de vântul rece al lagunei. Deoarece soarele apune deja în jurul orei 17:00, profitați de după-amiază pentru zonele exterioare. Seara se încheie pe străzile luminate, unde aerul răcoros subliniază farmecul orașului.",
+            "en": "Winter mornings in Aveiro are crisp, but the historic buildings provide welcoming warmth. By noon, the museums invite you to linger, away from the cold lagoon breeze. Since the sun sets around 17:00, use the early afternoon for outdoor sites. The evening concludes in the illuminated alleys, where the cool air enhances the coastal city's unique charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Aveirense",
+                "hu": "Teatro Aveirense",
+                "ro": "Teatro Aveirense",
+                "en": "Teatro Aveirense"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für eine Innenbesichtigung, um der Kälte zu entgehen; die Architektur wirkt im sanften Winterlicht besonders edel.",
+                "hu": "Használja ki a délelőttöt egy belső látogatásra, hogy elkerülje a hideget; az építészet különösen nemesnek tűnik a lágy téli fényben.",
+                "ro": "Folosiți dimineața pentru o vizită în interior pentru a evita frigul; arhitectura pare deosebit de nobilă în lumina blândă a iernii.",
+                "en": "Use the morning for an interior visit to escape the cold; the architecture looks particularly noble in the soft winter light of the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "City Museum Aveiro",
+                "hu": "Városi Múzeum Aveiro",
+                "ro": "Muzeul Orașului Aveiro",
+                "en": "City Museum Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort voller Geschichte; nehmen Sie sich Zeit für die Kreuzgänge, wenn die tiefstehende Wintersonne lange Schatten wirft.",
+                "hu": "Meleg, történelemmel teli menedék; szánjon időt a kolostorra, amikor az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a falakra.",
+                "ro": "Un refugiu cald plin de istorie; acordați-vă timp pentru claustre când soarele jos de iarnă aruncă umbre lungi și dramatice pe pereți.",
+                "en": "A warm retreat full of history; take your time in the cloisters when the low winter sun casts long, dramatic shadows across the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Arte Nova",
+                "hu": "Museu Arte Nova",
+                "ro": "Museu Arte Nova",
+                "en": "Museu Arte Nova"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem traditionellen Tee im Erdgeschoss auf; das Gebäude ist im Winter weniger überlaufen und bietet so eine ruhige Atmosphäre.",
+                "hu": "Melegedjen fel egy hagyományos teával a földszinten; az épület télen kevésbé zsúfolt, így nyugodt körülmények között csodálhatja meg a részleteket.",
+                "ro": "Încălziți-vă cu un ceai tradițional la parter; clădirea este mai puțin aglomerată iarna, oferind o atmosferă liniștită pentru vizitare.",
+                "en": "Warm up with a traditional tea on the ground floor; the building is less crowded in winter, providing a peaceful atmosphere for your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "São Gonçalinho (Paulo Noves)",
+                "hu": "São Gonçalinho (Paulo Noves)",
+                "ro": "São Gonçalinho (Paulo Noves)",
+                "en": "São Gonçalinho (Paulo Noves)"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten Schutz vor dem windigen Kanalufer; besuchen Sie die Kapelle kurz vor der Dämmerung für eine besinnliche Stimmung.",
+                "hu": "A szűk utcák védelmet nyújtanak a szeles csatornapart elől; látogassa meg a kápolnát közvetlenül szürkület előtt a meghitt hangulatért.",
+                "ro": "Străzile înguste oferă protecție împotriva malului vântos al canalului; vizitați capela chiar înainte de amurg pentru o atmosferă intimă.",
+                "en": "The narrow streets provide protection from the windy canal bank; visit the chapel just before dusk for a cozy and contemplative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "hu": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "ro": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "en": "CETA - Circulo Experimental de Teatro de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den späten Nachmittag in diesem beheizten Kulturzentrum; es ist der ideale Ort, bevor die Dunkelheit gegen 17:00 Uhr einsetzt.",
+                "hu": "Töltse a késő délutánt ebben a fűtött kulturális központban; ez az ideális hely, mielőtt 17:00 körül beállna a korai téli sötétség.",
+                "ro": "Petreceți sfârșitul după-amiezii în acest centru cultural încălzit; este locul ideal înainte ca întunericul să se lase în jurul orei 17:00.",
+                "en": "Spend the late afternoon in this heated cultural center; it is the ideal spot before the early winter darkness sets in around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseu Marinha da Troncalhada",
+                "hu": "Ecomuseu Marinha da Troncalhada",
+                "ro": "Ecomuseu Marinha da Troncalhada",
+                "en": "Ecomuseu Marinha da Troncalhada"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang über der Lagune um 17:00 Uhr; tragen Sie dicke Schals und Handschuhe gegen die schneidende Meeresbrise.",
+                "hu": "Élje át a korai naplementét a lagúna felett 17:00-kor; viseljen vastag sálat és kesztyűt a metsző tengeri szél ellen a nyitott területen.",
+                "ro": "Experimentați apusul devreme peste lagună la ora 17:00; purtați fular gros și mănuși împotriva brizelor marine tăioase în zona deschisă.",
+                "en": "Experience the early sunset over the lagoon at 17:00; wear a thick scarf and gloves against the cutting sea breeze in the open salt pan area."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Kezdje a kerékpártúrát egy fotóval az I Love Aveiro feliratnál, majd tekerjen az Ejtőernyősök emlékművéhez. Délben a belvároson keresztül haladva látogassa meg a Városi Múzeumot és a Szecessziós Múzeumot. Egy délutáni CETA megálló után tekerjen ki a festői Salinashoz és az Ecomuseumhoz, végül pedig interaktív szórakozással zárjon a Tudományos Központban.",
         "ro": "Începeți turul cu bicicleta cu o fotografie la reperul I Love Aveiro, apoi pedalați spre monumentul Parașutiștilor. Până la amiază, vă veți strecura prin centrul orașului, vizitând Muzeul Orașului și Muzeul Art Nouveau. După o oprire de după-amiază la CETA, mergeți la pitoreștile Salinas și Ecomuseu, terminând cu distracție la Centrul de Știință.",
         "en": "Kick off your cycling tour with a photo at the I Love Aveiro landmark, then pedal to the Paratroopers monument. By midday, you'll be weaving through the city center, visiting the City Museum and the stunning Art Nouveau Museum. After an afternoon stop at CETA, ride out to the scenic Salinas and the open-air Ecomuseu, finishing with interactive fun at the Science Center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Aveiros Kopfsteinpflaster, bietet aber freien Blick auf die Kanäle. Nutzen Sie Museen als trockene Etappenziele. Am Nachmittag führen die Wege durch neblige Marschen, die eine mystische Ruhe ausstrahlen. Schließen Sie den Tag an überdachten Kulturorten ab, um sich nach der Fahrt im Freien wieder aufzuwärmen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Aveiro macskakövein, de tiszta kilátást nyújt a csatornákra. Használja a múzeumokat száraz pihenőhelyként. Délután az utak ködös mocsarakon vezetnek keresztül, amelyek misztikus nyugalmat árasztanak. A napot fedett kulturális helyszíneken zárja, hogy felmelegedjen a kinti tekerés után.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din Aveiro, dar oferă o vedere clară asupra canalelor. Folosiți muzeele ca puncte de oprire uscate. După-amiaza, drumurile trec prin mlaștini cețoase care emană o liniște mistică. Încheiați ziua în locuri culturale acoperite pentru a vă încălzi după plimbarea în aer liber.",
+            "en": "Cycling in the rain requires caution on Aveiro's cobblestones but offers clear views of the canals. Use museums as dry stopovers. In the afternoon, paths lead through misty marshes that radiate a mystical calm. End the day at covered cultural sites to warm up and dry off after your outdoor ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Love Aveiro",
+                "hu": "I Love Aveiro",
+                "ro": "I Love Aveiro",
+                "en": "I Love Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; achten Sie auf den rutschigen Untergrund beim Absteigen und schützen Sie Ihr Smartphone vor dem Regen.",
+                "hu": "Gyors fotómegálló; ügyeljen a csúszós talajra leszálláskor, és óvja okostelefonját az esőtől a fényképezés közben.",
+                "ro": "O oprire rapidă pentru fotografii; aveți grijă la solul alunecos când coborâți și protejați-vă smartphone-ul de ploaie.",
+                "en": "A quick photo stop; watch out for the slippery ground when dismounting and protect your smartphone from the rain while shooting."
+              }
+            },
+            {
+              "name": {
+                "de": "Paraquedistas",
+                "hu": "Paraquedistas",
+                "ro": "Paraquedistas",
+                "en": "Paraquedistas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den umliegenden Vordächern Schutz, wenn es stark regnet; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nassem Asphalt fortsetzen.",
+                "hu": "Keressen menedéket a közeli előtetők alatt, ha felerősödik az eső; ellenőrizze a fékeket, mielőtt vizes aszfalton folytatná az utat.",
+                "ro": "Căutați adăpost sub streșinile din apropiere dacă plouă torențial; verificați frânele înainte de a continua drumul pe asfaltul umed.",
+                "en": "Seek shelter under nearby overhangs if the rain intensifies; check your brakes before continuing your ride on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "City Museum Aveiro",
+                "hu": "Városi Múzeum Aveiro",
+                "ro": "Muzeul Orașului Aveiro",
+                "en": "City Museum Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab und nutzen Sie die Pause, um die Ausstellungen im Trockenen zu genießen; ideal, um die Regenkleidung kurz zu lüften.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja a szünetet a kiállítások megtekintésére a szárazban; ideális a vizes ruhák rövid szárítására.",
+                "ro": "Parcați bicicleta în siguranță și folosiți pauza pentru a vedea expozițiile la adăpost; este momentul ideal pentru a vă usca puțin hainele.",
+                "en": "Park your bike securely and use the break to view the exhibits in the dry; it is ideal for letting your rain gear dry out for a few minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Arte Nova",
+                "hu": "Museu Arte Nova",
+                "ro": "Museu Arte Nova",
+                "en": "Museu Arte Nova"
+              },
+              "tip_5lang": {
+                "de": "Die Teestube ist ein Muss für Radfahrer im Regen; genießen Sie ein warmes Getränk, während Sie die kunstvolle Fassade durch das Fenster betrachten.",
+                "hu": "A teaház kötelező megálló az esőben tekerőknek; élvezze a meleg italt, miközben az ablakon keresztül csodálja a díszes homlokzatot.",
+                "ro": "Ceainăria este o oprire obligatorie pentru bicicliști în ploaie; savurați o băutură caldă în timp ce admirați fațada ornată prin fereastră.",
+                "en": "The tea house is a must-stop for cyclists in the rain; enjoy a warm drink while admiring the ornate facade through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "hu": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "ro": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "en": "CETA - Circulo Experimental de Teatro de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Zwischenstopp im Warmen; nutzen Sie die Zeit, um die Route für den restlichen Nachmittag wetterfest zu planen.",
+                "hu": "Kulturális pihenő a melegben; használja ki az időt a délután hátralévő részének megtervezésére, figyelembe véve az esőfelhők mozgását.",
+                "ro": "O pauză culturală la căldură; folosiți timpul pentru a planifica restul după-amiezii, ținând cont de mișcarea norilor de ploaie.",
+                "en": "A cultural break in the warmth; use the time to plan the rest of the afternoon while staying dry and away from the puddles outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Salinas",
+                "hu": "Salinas",
+                "ro": "Salinas",
+                "en": "Salinas"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Salzbecken können sehr schlammig und rutschig sein; fahren Sie langsam und tragen Sie unbedingt eine wasserdichte Hose.",
+                "hu": "A sómedencék közötti utak sárósak és nagyon csúszósak lehetnek; tekerjen lassan, és mindenképpen viseljen vízálló nadrágot a sárfelcsapódás ellen.",
+                "ro": "Drumurile dintre bazinele de sare pot fi noroioase și foarte alunecoase; pedalați încet și purtați neapărat pantaloni impermeabili.",
+                "en": "The paths between the salt basins can be muddy and very slippery; ride slowly and definitely wear waterproof trousers against the mud splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseu Marinha da Troncalhada",
+                "hu": "Ecomuseu Marinha da Troncalhada",
+                "ro": "Ecomuseu Marinha da Troncalhada",
+                "en": "Ecomuseu Marinha da Troncalhada"
+              },
+              "tip_5lang": {
+                "de": "Die exponierte Lage bedeutet viel Wind und Regen; halten Sie sich kurz und sichern Sie Ihr Fahrrad an einem festen Punkt, bevor Sie den Bereich erkunden.",
+                "hu": "A nyitott fekvés sok szelet és esőt jelent; tartson rövid pihenőt, és rögzítse stabilan a biciklit, mielőtt felfedezné a területet.",
+                "ro": "Locația deschisă înseamnă mult vânt și ploaie; faceți o pauză scurtă și asigurați bine bicicleta înainte de a explora zona.",
+                "en": "The exposed location means plenty of wind and rain; keep your visit brief and secure your bike firmly before exploring the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica - Centro Ciência Viva de Aveiro",
+                "hu": "Fábrica - Centro Ciência Viva de Aveiro",
+                "ro": "Fábrica - Centro Ciência Viva de Aveiro",
+                "en": "Fábrica - Centro Ciência Viva de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel zum Aufwärmen am Ende der Tour; die interaktiven Ausstellungen finden alle in trockenen Innenräumen statt.",
+                "hu": "Ideális célpont a felmelegedéshez a túra végén; az interaktív kiállítások mind száraz belső terekben találhatók, távol az esőtől.",
+                "ro": "Destinația ideală pentru a vă încălzi la sfârșitul turului; expozițiile interactive sunt toate în spații interioare uscate.",
+                "en": "The ideal destination for warming up at the end of the tour; the interactive exhibits are all located in dry indoor spaces away from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Aveiro ist bei klarer Luft erfrischend, erfordert aber warme Kleidung gegen den Lagunenwind. Nutzen Sie die hellen Mittagsstunden für die Fahrt entlang der Kanäle. Da es ab 17:00 Uhr dunkel wird, sollten Sie Ihre Tour frühzeitig planen. Die beleuchtete Stadt bietet am Abend eine malerische Kulisse für den Abschluss Ihrer Radtour.",
+            "hu": "A téli biciklizés Aveiróban a friss levegőn frissítő, de meleg ruhát igényel a lagúna szele ellen. Használja ki a világos déli órákat a csatornák menti tekeréshez. Mivel 17:00-tól sötétedik, tervezze meg korán az útvonalat. A kivilágított város este festői hátteret nyújt a kerékpártúra befejezéséhez.",
+            "ro": "Mersul pe bicicletă iarna în Aveiro este revigorant în aerul curat, dar necesită haine calde împotriva vântului lagunei. Profitați de orele luminoase ale prânzului pentru plimbarea pe lângă canale. Deoarece se întunecă de la ora 17:00, planificați traseul din timp. Orașul luminat oferă seara un cadru pitoresc pentru finalul turului.",
+            "en": "Winter cycling in Aveiro is refreshing in the crisp air but requires warm clothing against the lagoon wind. Use the bright midday hours for riding along the canals. Since it gets dark from 17:00, plan your route early. The illuminated city provides a picturesque backdrop in the evening for the conclusion of your bike tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "I Love Aveiro",
+                "hu": "I Love Aveiro",
+                "ro": "I Love Aveiro",
+                "en": "I Love Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Das Morgenlicht ist im Winter sehr klar; ein Foto lohnt sich früh, bevor die kühle Brise vom Wasser her zunimmt.",
+                "hu": "A reggeli fény télen nagyon tiszta; érdemes korán fotózni, mielőtt a víz felől érkező hűvös szellő felerősödne a mólón.",
+                "ro": "Lumina dimineții este foarte clară iarna; merită să faceți o fotografie devreme, înainte ca briza răcoroasă dinspre apă să se intensifice.",
+                "en": "The morning light is very clear in winter; it is worth taking a photo early before the cool breeze from the water intensifies on the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Paraquedistas",
+                "hu": "Paraquedistas",
+                "ro": "Paraquedistas",
+                "en": "Paraquedistas"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Kleidung für diesen exponierten Stopp; die historischen Details treten im tiefstehenden Sonnenlicht besonders hervor.",
+                "hu": "Viseljen szélálló ruhát ennél a nyitott megállónál; a történelmi részletek különösen hangsúlyosak az alacsonyan járó téli napsütésben.",
+                "ro": "Purtați haine rezistente la vânt pentru această oprire expusă; detaliile istorice sunt evidențiate de lumina joasă a soarelui de iarnă.",
+                "en": "Wear windproof clothing for this exposed stop; the historical details are particularly emphasized in the low-lying winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "City Museum Aveiro",
+                "hu": "Városi Múzeum Aveiro",
+                "ro": "Muzeul Orașului Aveiro",
+                "en": "City Museum Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine Pause vom kalten Fahrtwind; die Ausstellungen bieten eine warme und ruhige Atmosphäre im Winter.",
+                "hu": "Használja a belső tereket pihenőként a hideg menetszél után; a kiállítások meleg és nyugodt légkört biztosítanak a téli látogatáshoz.",
+                "ro": "Folosiți spațiile interioare ca loc de odihnă după vântul rece de pedalare; expozițiile oferă o atmosferă caldă și liniștită iarna.",
+                "en": "Use the indoor spaces as a rest stop after the cold riding wind; the exhibits provide a warm and calm atmosphere for a winter visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Arte Nova",
+                "hu": "Museu Arte Nova",
+                "ro": "Museu Arte Nova",
+                "en": "Museu Arte Nova"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine heiße Schokolade; die prächtige Fassade leuchtet in der klaren Wintersonne besonders intensiv.",
+                "hu": "Ideális hely egy forró csokoládéhoz; a pompás homlokzat különösen intenzíven ragyog a tiszta téli napsütésben a csatorna partján.",
+                "ro": "Locul ideal pentru o ciocolată caldă; fațada splendidă strălucește intens în lumina clară a soarelui de iarnă de pe malul canalului.",
+                "en": "An ideal place for a hot chocolate; the splendid facade shines intensely in the clear winter sun along the canal bank."
+              }
+            },
+            {
+              "name": {
+                "de": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "hu": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "ro": "CETA - Circulo Experimental de Teatro de Aveiro",
+                "en": "CETA - Circulo Experimental de Teatro de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Ankerpunkt im Warmen; perfekt, um sich aufzuwärmen, bevor es auf die längere Strecke zu den Salzwiesen geht.",
+                "hu": "Kulturális fixpont a melegben; tökéletes a felmelegedéshez, mielőtt elindulna a sólepárlók felé vezető hosszabb útszakaszon.",
+                "ro": "Un punct cultural fix la căldură; perfect pentru a vă încălzi înainte de a porni pe segmentul mai lung spre saline.",
+                "en": "A cultural anchor point in the warmth; perfect for warming up before starting the longer stretch toward the salt pans."
+              }
+            },
+            {
+              "name": {
+                "de": "Salinas",
+                "hu": "Salinas",
+                "ro": "Salinas",
+                "en": "Salinas"
+              },
+              "tip_5lang": {
+                "de": "Die Salzfelder reflektieren das blasse Winterlicht wunderschön; kommen Sie vor 17:00 Uhr an, um das goldene Licht einzufangen.",
+                "hu": "A sómezők gyönyörűen verik vissza a halvány téli fényt; érkezzen 17:00 előtt, hogy elkapja az aranyórát a lagúna felett.",
+                "ro": "Câmpurile de sare reflectă frumos lumina palidă a iernii; sosiți înainte de ora 17:00 pentru a surprinde ora de aur peste lagună.",
+                "en": "The salt fields reflect the pale winter light beautifully; arrive before 17:00 to catch the golden hour over the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseu Marinha da Troncalhada",
+                "hu": "Ecomuseu Marinha da Troncalhada",
+                "ro": "Ecomuseu Marinha da Troncalhada",
+                "en": "Ecomuseu Marinha da Troncalhada"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den eisigen Wind am Nachmittag; Handschuhe sind für Radfahrer hier ein Muss, um die Fahrt genießen zu können.",
+                "hu": "Ügyeljen a jeges délutáni szélre; a kesztyű itt kötelező a bicikliseknek, hogy élvezni tudják a látványt a nyílt terepen.",
+                "ro": "Aveți grijă la vântul înghețat de după-amiază; mănușile sunt obligatorii aici pentru bicicliști pentru a se putea bucura de priveliște.",
+                "en": "Watch out for the icy afternoon wind; gloves are a must for cyclists here to be able to enjoy the view in the open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica - Centro Ciência Viva de Aveiro",
+                "hu": "Fábrica - Centro Ciência Viva de Aveiro",
+                "ro": "Fábrica - Centro Ciência Viva de Aveiro",
+                "en": "Fábrica - Centro Ciência Viva de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Abschluss Ihrer Tour, wenn es draußen bereits dunkel ist; die beleuchtete Fabrik wirkt im Winter sehr einladend.",
+                "hu": "A túra meleg befejezése, amikor odakint már sötét van; a kivilágított gyárépület télen nagyon hívogató és barátságos.",
+                "ro": "Un final cald al turului, când afară este deja întuneric; clădirea fabricii iluminate este foarte primitoare și caldă iarna.",
+                "en": "A warm conclusion to your tour when it is already dark outside; the illuminated factory building is very inviting and cozy in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +927,168 @@
         "hu": "Kezdje autós kirándulását a festői folyóparti hintáknál, ami egy nyugodt hely, mielőtt a városba indulna. A dél folyamán tartalmas látogatást tehet a Képzőművészeti Iskolában és a Carmelitas Múzeumban. Délután fedezze fel a Museu Arte Nova bonyolult dizájnját, mielőtt a Salinashoz vezetne egy lenyűgöző naplemente sétára az ősi sólepárlók között.",
         "ro": "Începeți excursia cu mașina la leagănele pitorești de pe râu, un loc liniștit înainte de a merge în oraș. Amiaza vă permite o vizită la Școala de Arte Frumoase și la Muzeul Carmelitas frumos conservat. După-amiaza, explorați modelele complicate de la Muzeul Arte Nova înainte de a conduce spre Salinas pentru o plimbare uimitoare la apus printre salinele antice.",
         "en": "Begin your driving daytrip at the scenic riverside swings, a tranquil spot before heading into town. Midday allows for an enriching visit to the Fine Arts School and the beautifully preserved Carmelitas Museum. In the afternoon, explore the intricate designs at the Museu Arte Nova before driving out to the Salinas for a stunning sunset walk among the ancient salt pans."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im Auto ist die komfortabelste Art, Aveiro bei Regen zu erkunden. Starten Sie an den Aussichtspunkten, wo Sie die Landschaft trocken aus dem Wagen genießen können. Mittags bieten die Museen im Zentrum bequeme Parkmöglichkeiten in der Nähe. Am Nachmittag lassen sich auch entlegenere Orte wie die Salzwiesen ohne Sorge vor nassen Füßen erreichen.",
+            "hu": "Az autós utazás a legkényelmesebb módja Aveiro felfedezésének esőben. Kezdje a kilátópontoknál, ahol a tájat szárazon élvezheti a kocsiból. Délben a központi múzeumok közelében kényelmes parkolási lehetőségek vannak. Délután a távolabbi helyek, mint a sólepárlók is elérhetők anélkül, hogy aggódnia kellene a vizes lábak miatt.",
+            "ro": "Călătoria cu mașina este cel mai confortabil mod de a explora Aveiro pe ploaie. Începeți la punctele de belvedere, unde puteți savura peisajul la adăpost. La prânz, muzeele centrale oferă opțiuni de parcare convenabile în apropiere. După-amiaza, locurile mai îndepărtate, precum salinele, pot fi vizitate fără grija picioarelor ude.",
+            "en": "Traveling by car is the most comfortable way to explore Aveiro in the rain. Start at the viewpoints, where you can enjoy the scenery dry from the car. By noon, central museums offer convenient parking nearby. In the afternoon, even more remote spots like the salt pans can be reached without worrying about getting wet feet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baloiços da Ribeira de Vilar - 3",
+                "hu": "Baloiços da Ribeira de Vilar - 3",
+                "ro": "Baloiços da Ribeira de Vilar - 3",
+                "en": "Baloiços da Ribeira de Vilar - 3"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Schaukeln vom Auto aus, wenn es zu stark regnet; Parken Sie so nah wie möglich am Ufer für ein schnelles Foto.",
+                "hu": "Élvezze a kilátást a hintákra az autóból, ha túl erősen esik; parkoljon minél közelebb a parthoz egy gyors és száraz fotó kedvéért.",
+                "ro": "Bucurați-vă de vederea spre leagăne din mașină dacă plouă prea tare; parcați cât mai aproape de mal pentru o fotografie rapidă.",
+                "en": "Enjoy the view of the swings from the car if it rains too hard; park as close to the bank as possible for a quick and dry photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Escola de Belas Artes",
+                "hu": "Escola de Belas Artes",
+                "ro": "Escola de Belas Artes",
+                "en": "Escola de Belas Artes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen und nutzen Sie die kurzen Wege, um trocken ins Gebäude zu gelangen; die Architektur wirkt im Regen sehr dramatisch.",
+                "hu": "Parkoljon a környező utcákban, és használja a rövid utat, hogy szárazon jusson be az épületbe; az építészet nagyon drámai hatást kelt az esőben.",
+                "ro": "Parcați pe străzile din jur și folosiți drumul scurt pentru a intra uscat în clădire; arhitectura are un efect foarte dramatic în ploaie.",
+                "en": "Park in the surrounding streets and use the short path to get inside the building dry; the architecture has a very dramatic effect in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                "hu": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                "ro": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                "en": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp bei schlechtem Wetter; die prunkvolle Innenausstattung lässt Sie den grauen Himmel draußen schnell vergessen.",
+                "hu": "Ideális beltéri megálló rossz idő esetén; a pompás belső díszítés hamar elfeledteti Önnel a kinti szürke eget és a szakadó esőt.",
+                "ro": "O oprire ideală în interior în caz de vreme rea; decorul interior splendid vă va face să uitați rapid de cerul gri și ploaia de afară.",
+                "en": "An ideal indoor stop in case of bad weather; the splendid interior decoration will quickly make you forget the gray sky and rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Arte Nova",
+                "hu": "Museu Arte Nova",
+                "ro": "Museu Arte Nova",
+                "en": "Museu Arte Nova"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkhäuser in der Nähe, die einen trockenen Zugang zum Viertel ermöglichen; wärmen Sie sich im Museumscafé nach der Fahrt auf.",
+                "hu": "A közelben több parkolóház is található, amelyek száraz bejutást biztosítanak a negyedbe; melegedjen fel a múzeumi kávézóban a városnézés után.",
+                "ro": "Există mai multe parcări etajate în apropiere care asigură accesul uscat în cartier; încălziți-vă în cafeneaua muzeului după vizitare.",
+                "en": "There are several parking garages nearby that provide dry access to the quarter; warm up in the museum café after your drive and visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Salinas",
+                "hu": "Salinas",
+                "ro": "Salinas",
+                "en": "Salinas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Besucherzentrum, um die Salzwiesen ohne Nässe zu erleben; die reflektierenden Pfützen bieten tolle Fotomotive aus dem Auto.",
+                "hu": "Hajtson közvetlenül a látogatóközponthoz, hogy elkerülje a nedvességet; a tükröződő tócsák remek fotótémát kínálnak akár az autóból is.",
+                "ro": "Conduceți direct la centrul de vizitare pentru a evita umezeala; bălțile reflectorizante oferă subiecte foto excelente, chiar și din mașină.",
+                "en": "Drive directly to the visitor center to avoid the dampness; the reflecting puddles offer great photo opportunities even from the car window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto wohlige Wärme zwischen den historischen Sehenswürdigkeiten Aveiros. Starten Sie Ihre Tour am Vormittag, um das Beste aus dem klaren Licht zu machen. Da die Sonne gegen 17:00 Uhr untergeht, können Sie die Fahrt entlang der Lagune im warmen Wagen genießen. Am Abend ist das beleuchtete Zentrum gut erreichbar und bietet eine gemütliche Atmosphäre.",
+            "hu": "Télen az autó kellemes meleget biztosít Aveiro történelmi látnivalói között. Kezdje a túrát délelőtt, hogy kihasználja a tiszta fényeket. Mivel a nap 17:00 körül lemegy, a lagúna menti utazást a meleg kocsiból is élvezheti. Este a kivilágított központ könnyen elérhető, és hangulatos légkört kínál a nap zárásához.",
+            "ro": "Iarna, mașina oferă o căldură plăcută între obiectivele istorice din Aveiro. Începeți turul dimineața pentru a profita de lumina clară. Deoarece soarele apune în jur de 17:00, puteți savura drumul de-a lungul lagunei din mașina caldă. Seara, centrul iluminat este ușor accesibil și oferă o atmosferă primitoare.",
+            "en": "In winter, the car provides pleasant warmth between Aveiro's historic sights. Start your tour in the morning to make the most of the clear light. Since the sun sets around 17:00, you can enjoy the drive along the lagoon from the warm vehicle. In the evening, the illuminated center is easily accessible and offers a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baloiços da Ribeira de Vilar - 3",
+                "hu": "Baloiços da Ribeira de Vilar - 3",
+                "ro": "Baloiços da Ribeira de Vilar - 3",
+                "en": "Baloiços da Ribeira de Vilar - 3"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht am Wasser ist magisch, aber oft windig; machen Sie ein schnelles Foto und kehren Sie dann in das warme Auto zurück.",
+                "hu": "A téli fény a víznél varázslatos, de gyakran szeles; készítsen egy gyors fotót, majd térjen vissza a meleg autóba, mielőtt továbbhajtana.",
+                "ro": "Lumina de iarnă de lângă apă este magică, dar adesea bate vântul; faceți o fotografie rapidă și apoi reveniți în mașina caldă.",
+                "en": "The winter light by the water is magical but often windy; take a quick photo and then return to the warm car before driving further."
+              }
+            },
+            {
+              "name": {
+                "de": "Escola de Belas Artes",
+                "hu": "Escola de Belas Artes",
+                "ro": "Escola de Belas Artes",
+                "en": "Escola de Belas Artes"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der tiefstehenden Wintersonne; Parkplätze direkt vor dem Gebäude ermöglichen eine bequeme Besichtigung ohne lange Wege.",
+                "hu": "A homlokzat ragyog az alacsonyan járó téli napsütésben; az épület előtti parkolóhelyek kényelmes látogatást tesznek lehetővé hosszú gyaloglás nélkül.",
+                "ro": "Fațada strălucește în lumina soarelui de iarnă; locurile de parcare din fața clădirii permit o vizitare confortabilă fără plimbări lungi.",
+                "en": "The facade shines in the low winter sun; parking spaces directly in front of the building allow for a comfortable visit without long walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                "hu": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                "ro": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                "en": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmer Ort für den Vormittag; die goldenen Verzierungen im Inneren wirken im Winter besonders prunkvoll und einladend.",
+                "hu": "Csodálatosan meleg hely a délelőtthöz; a belső aranyozott díszítések télen különösen pompásnak és hívogatónak tűnnek a látogatók számára.",
+                "ro": "Un loc minunat de cald pentru dimineață; decorațiunile aurite din interior par deosebit de splendide și primitoare pe timp de iarnă.",
+                "en": "A wonderfully warm place for the morning; the golden decorations inside look particularly splendid and inviting in winter for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Arte Nova",
+                "hu": "Museu Arte Nova",
+                "ro": "Museu Arte Nova",
+                "en": "Museu Arte Nova"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Kanäle aus der Wärme des Museums; im Winter ist es hier ruhiger, was eine entspannte Parkplatzsuche ermöglicht.",
+                "hu": "Élvezze a kilátást a csatornákra a múzeum melegéből; télen itt nyugodtabb az élet, ami megkönnyíti a közeli parkolóhelyek megtalálását.",
+                "ro": "Bucurați-vă de vederea spre canale din căldura muzeului; iarna este mai liniște aici, ceea ce facilitează găsirea unui loc de parcare.",
+                "en": "Enjoy the view of the canals from the warmth of the museum; it is quieter here in winter, making it easier to find nearby parking spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Salinas",
+                "hu": "Salinas",
+                "ro": "Salinas",
+                "en": "Salinas"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight zum Sonnenuntergang um 17:00 Uhr; beobachten Sie das Farbspiel am Himmel gemütlich durch die Windschutzscheibe Ihres Wagens.",
+                "hu": "A nap fénypontja a 17:00 órai naplemente; figyelje az égbolt színeit kényelmesen, az autó szélvédőjén keresztül a lagúna partján.",
+                "ro": "Punctul culminant al zilei la apusul de la ora 17:00; urmăriți culorile cerului confortabil prin parbrizul mașinii pe malul lagunei.",
+                "en": "The highlight of the day at the 17:00 sunset; watch the colors of the sky comfortably through the car windshield on the lagoon shore."
+              }
+            }
+          ]
+        }
       }
     }
   }

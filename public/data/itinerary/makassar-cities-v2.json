@@ -137,6 +137,168 @@
         "hu": "A gyalogtúra a város szívében kezdődik, ahol a Gedung Mulo lenyűgöző holland gyarmati örökségét fedezheti fel.\nDél közeledtével az ikonikus Globe felé sétál, amely egy kicsi, de rendkívül jelentős történelmi jelkép a városban.\nA délután folyamán délebbre indul, hogy egy veterán emlékműnél tisztelegjen a helyi hősök előtt, majd művészetet csodáljon.\nAz est közeledtével egy kulturális központba érkezik, lezárva a helyi örökségben gazdag napot.",
         "ro": "Turul pietonal începe în inima orașului, explorând moștenirea colonială olandeză impresionantă de la Gedung Mulo.\nLa apropierea amiezii, vă veți plimba spre iconicul Globe, un marcaj istoric mic, dar plin de o semnificație aparte.\nDupă-amiaza vă poartă mai spre sud pentru a onora eroii locali la un monument al veteranilor, urmat de arta modernă.\nSeara se lasă pe măsură ce ajungeți la un centru cultural dedicat, încheind o zi plină de moștenire locală imersivă.",
         "en": "Your walking tour begins in the heart of the city, exploring the striking Dutch colonial legacy at Gedung Mulo.\nAs midday approaches, you will stroll down towards the iconic Globe, a small but significant historical marker.\nThe afternoon takes you further south to honor local heroes at a prominent veteran monument, followed by modern art.\nEvening settles in as you reach a dedicated cultural center, wrapping up a day of immersive local heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Makassar beginnt mit einer Brise unter den Kolonialbögen des Gedung Mulo, die Schutz vor dem ersten Regenschauer bieten. Mittags navigieren wir durch die glänzenden Straßen zum Globus, wobei wir die Erfrischung der tropischen Luft genießen. Am Nachmittag suchen wir im SIKU-Raum Zuflucht, während es draußen prasselt. Der Abend endet in der gemütlichen Atmosphäre des Sanggar Tongkonan-Studios, wo die Kunst bei Regengeräuschen besonders wirkt.",
+            "hu": "A reggel Makassarban a Gedung Mulo gyarmati árkádjai alatt indul, amelyek védelmet nyújtanak az első záporok elől. Délben a fényes utcákon navigálunk a Földgömb felé, élvezve a trópusi eső utáni friss levegőt. Délután a SIKU közösségi terében keresünk menedéket, miközben kint elered az eső. Az este a Sanggar Tongkonan stúdió meghitt hangulatában zárul, ahol a művészet az eső kopogása mellett válik igazán különlegessé.",
+            "ro": "Dimineața în Makassar începe sub arcadele coloniale de la Gedung Mulo, care oferă adăpost împotriva primelor averse. La prânz navigăm pe străzile lucioase spre Glob, bucurându-ne de aerul tropical împrospătat de ploaie. După-amiaza căutăm refugiu în spațiul SIKU, în timp ce afară plouă torențial. Seara se încheie în atmosfera primitoare a studioului Sanggar Tongkonan, unde arta capătă o notă specială pe fundalul ploii.",
+            "en": "The morning in Makassar starts under the colonial arches of Gedung Mulo, providing shelter from the first showers. At noon, we navigate the glistening streets toward the Globe, enjoying the refreshed tropical air. In the afternoon, we seek refuge in the SIKU space while the rain pours outside. The evening ends in the cozy atmosphere of Sanggar Tongkonan studio, where art feels especially poignant with the sound of rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gedung Mulo",
+                "hu": "Gedung Mulo",
+                "ro": "Gedung Mulo",
+                "en": "Gedung Mulo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die breiten Veranden dieses Kolonialbaus als trockenen Aussichtspunkt; die Architektur bietet exzellenten Schutz vor plötzlichen Monsungüssen während der Besichtigung.",
+                "hu": "Használd ki a gyarmati épület tágas verandáit száraz kilátópontként; az építészet kiváló védelmet nyújt a hirtelen monszun esők elől a nézelődés közben.",
+                "ro": "Folosiți verandele largi ale acestei clădiri coloniale ca punct de observație uscat; arhitectura oferă protecție excelentă împotriva ploilor musonice bruște în timpul vizitei.",
+                "en": "Use the wide verandas of this colonial building as a dry vantage point; the architecture provides excellent protection from sudden monsoon downpours during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Globus",
+                "hu": "Földgömb",
+                "ro": "Globul",
+                "en": "Globe"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am nassen Monument; achten Sie auf den rutschigen Marmorboden um das Denkmal herum und halten Sie Ihren Regenschirm wegen des offenen Geländes fest.",
+                "hu": "Gyors fotómegálló a vizes emlékműnél; ügyelj a csúszós márványpadlóra a talapzat körül, és tartsd erősen az esernyőt a nyílt terepen jelentkező széllökések miatt.",
+                "ro": "O oprire rapidă pentru poze la monumentul ud; atenție la podeaua de marmură alunecoasă din jurul monumentului și țineți bine umbrela din cauza terenului deschis.",
+                "en": "A quick photo stop at the wet monument; watch out for the slippery marble floor around the base and hold your umbrella firmly due to the wind on the open ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Veteranen-Denkmal Süd-Ujung",
+                "hu": "Dél-Ujung Veterán Emlékmű",
+                "ro": "Monumentul Veteranilor din Sudul Ujung",
+                "en": "South Ujung Veteran Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt bei bewölktem Himmel besonders heroisch; die umliegenden Bäume bieten nur begrenzten Schutz, daher ist eine gute Regenjacke für diesen Stopp unerlässlich.",
+                "hu": "Az emlékmű különösen hősiesnek tűnik a felhős égbolt alatt; a környező fák csak korlátozott védelmet nyújtanak, így egy jó esőkabát elengedhetetlen ennél a megállónál.",
+                "ro": "Monumentul pare deosebit de eroic sub cerul înnorat; copacii din jur oferă protecție limitată, așa că o jachetă de ploaie bună este esențială pentru această oprire.",
+                "en": "The monument looks particularly heroic under a cloudy sky; the surrounding trees offer limited cover, so a good raincoat is essential for this outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "SIKU Integrierter Raum",
+                "hu": "SIKU Integrált Tér",
+                "ro": "Spațiul Integrat SIKU",
+                "en": "SIKU Integrated Space"
+              },
+              "tip_5lang": {
+                "de": "Dieser moderne Innenraum ist der ideale Ort, um einen starken Schauer abzuwarten; genießen Sie die kreative Atmosphäre und nutzen Sie die Zeit für Indoor-Fotografie.",
+                "hu": "Ez a modern belső tér ideális helyszín egy nagyobb zápor kivárására; élvezd a kreatív légkört, és használd ki az időt beltéri fotózásra a dizájnos sarkokban.",
+                "ro": "Acest spațiu interior modern este locul ideal pentru a aștepta trecerea unei averse; bucurați-vă de atmosfera creativă și folosiți timpul pentru fotografii de interior.",
+                "en": "This modern indoor space is the ideal place to wait out a heavy shower; enjoy the creative atmosphere and use the time for indoor photography in the stylish corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanggar Tongkonan Kunst",
+                "hu": "Sanggar Tongkonan Művészet",
+                "ro": "Arta Sanggar Tongkonan",
+                "en": "Sanggar Tongkonan Art"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie lokale Künstler in der geschützten Werkstatt; der Klang des Regens auf dem Metalldach verleiht dem kulturellen Erlebnis eine authentische, meditative Note.",
+                "hu": "Figyeld meg a helyi művészeket a védett műhelyben; az eső kopogása a fémtetőn hiteles és meditatív hangulatot kölcsönöz ennek a kulturális élménynek.",
+                "ro": "Observați artiștii locali în atelierul protejat; sunetul ploii pe acoperișul de metal adaugă o notă autentică și meditativă acestei experiențe culturale.",
+                "en": "Observe local artists in the sheltered workshop; the sound of rain on the metal roof adds an authentic, meditative touch to this cultural experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen in Makassar ist die Luft am Gedung Mulo angenehm mild. Wir nutzen die kühleren Stunden mittags beim Globus-Monument, bevor die tropische Sonne an Kraft gewinnt. Am Nachmittag färbt das Licht der tiefstehenden Sonne das Veteranendenkmal in Goldtöne. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen Abend in den beleuchteten Innenräumen des SIKU und der Kunststudios.",
+            "hu": "Egy tiszta téli reggelen Makassarban a levegő a Gedung Mulónál kellemesen enyhe. Kihasználjuk a hűvösebb órákat délben a Földgömb emlékműnél, mielőtt a trópusi nap ereje megnőne. Délután az alacsonyan járó nap fénye arany tónusokba öltözteti a veterán emlékművet. Mivel a nap már 17:00 körül lemegy, a korai estét a SIKU és a művészeti stúdiók kivilágított tereiben élvezzük.",
+            "ro": "Într-o dimineață senină de iarnă în Makassar, aerul de la Gedung Mulo este plăcut de răcoros. Profităm de orele mai blânde la prânz lângă monumentul Globului, înainte ca soarele să ardă prea tare. După-amiaza, lumina caldă îmbracă monumentul veteranilor în nuanțe aurii. Deoarece soarele apune deja în jur de ora 17:00, savurăm seara devreme în spațiile luminate de la SIKU și ateliere.",
+            "en": "On a clear winter morning in Makassar, the air at Gedung Mulo is pleasantly mild. We take advantage of the cooler midday hours at the Globe monument before the tropical sun gains strength. In the afternoon, the low winter sun paints the veteran monument in golden hues. Since the sun sets early around 17:00, we enjoy the early evening in the illuminated interiors of SIKU and the art studios."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gedung Mulo",
+                "hu": "Gedung Mulo",
+                "ro": "Gedung Mulo",
+                "en": "Gedung Mulo"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kühle macht den Spaziergang durch die Gärten angenehm; tragen Sie eine leichte Schicht Kleidung, da die Innenräume der alten Gebäude kühl sein können.",
+                "hu": "A reggeli hűvös kellemessé teszi a sétát a kertekben; viselj vékony réteget, mivel a régi épületek belső terei ilyenkor meglepően hűvösek lehetnek.",
+                "ro": "Răcoarea dimineții face plimbarea prin grădini foarte plăcută; purtați un strat subțire de haine, deoarece interiorul clădirilor vechi poate fi răcoros.",
+                "en": "The morning coolness makes the walk through the gardens pleasant; wear a light layer of clothing as the interiors of old buildings can be surprisingly chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Globus",
+                "hu": "Földgömb",
+                "ro": "Globul",
+                "en": "Globe"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht ist perfekt für Fotos ohne harte Schatten; nutzen Sie den klaren Himmel für weite Aufnahmen der Küstenstraße in der Nähe des Monuments.",
+                "hu": "A lágy téli fény tökéletes a fotózáshoz éles árnyékok nélkül; használd ki a tiszta eget a tengerparti út panorámájának megörökítéséhez az emlékmű közelében.",
+                "ro": "Lumina blândă de iarnă este perfectă pentru fotografii fără umbre dure; profitați de cerul senin pentru cadre largi cu drumul de coastă de lângă monument.",
+                "en": "The soft winter light is perfect for photos without harsh shadows; take advantage of the clear sky for wide shots of the coastal road near the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Veteranen-Denkmal Süd-Ujung",
+                "hu": "Dél-Ujung Veterán Emlékmű",
+                "ro": "Monumentul Veteranilor din Sudul Ujung",
+                "en": "South Ujung Veteran Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort gegen 16:30 Uhr, um den Beginn des frühen Sonnenuntergangs zu erleben; die heroische Statue wirkt vor dem rötlichen Winterhimmel imposant.",
+                "hu": "Látogass el ide 16:30 körül, hogy elcsípd a korai naplemente kezdetét; a hősies szobor lenyűgözően mutat a vöröses téli égbolt előtt.",
+                "ro": "Vizitați acest loc în jur de ora 16:30 pentru a prinde începutul apusului timpuriu; statuia eroică arată impunător pe fundalul cerului roșiatic de iarnă.",
+                "en": "Visit this spot around 16:30 to catch the start of the early sunset; the heroic statue looks impressive against the reddish winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "SIKU Integrierter Raum",
+                "hu": "SIKU Integrált Tér",
+                "ro": "Spațiul Integrat SIKU",
+                "en": "SIKU Integrated Space"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Rückzugsort am späten Nachmittag; die moderne Beleuchtung schafft eine gemütliche Stimmung, wenn es draußen bereits früh dunkel wird.",
+                "hu": "Meleg menedék késő délután; a modern világítás barátságos hangulatot teremt, amikor odakint már korán sötétedni kezd a téli szezonban.",
+                "ro": "Un refugiu cald la sfârșitul după-amiezii; iluminatul modern creează o atmosferă primitoare atunci când afară începe deja să se întunece devreme.",
+                "en": "A warm sanctuary in the late afternoon; the modern lighting creates a cozy mood when it starts getting dark early outside during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanggar Tongkonan Kunst",
+                "hu": "Sanggar Tongkonan Művészet",
+                "ro": "Arta Sanggar Tongkonan",
+                "en": "Sanggar Tongkonan Art"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Schein der Werkstattlampen; die traditionellen Kunstwerke kommen bei der abendlichen Kunstlichtbeleuchtung besonders gut zur Geltung.",
+                "hu": "Zárd a napot a műhelylámpák meleg fényénél; a hagyományos műalkotások különösen jól mutatnak az esti mesterséges megvilágításban a korai sötétedés után.",
+                "ro": "Încheiați ziua sub lumina caldă a lămpilor din atelier; operele de artă tradiționale ies în evidență sub iluminarea artificială de seară după apusul timpuriu.",
+                "en": "End your day under the warm glow of the workshop lamps; traditional artworks stand out beautifully under the evening artificial lighting after the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját a gyarmati Gedung Mulo-nál, mielőtt a város történelmi Globe-ja felé pedálozna zökkenőmentesen.\nDélben a nyüzsgő utcákon navigálva ér a veterán emlékműhöz, miközben magába szívja a dinamikus helyi atmoszférát.\nA délután kreativitással telik, miközben pezsgő kulturális központokat látogat meg, mint a SIKU és a művészi Vemoza tér.\nA nap hagyományos előadásokkal zárul a Sanggar Celebes-ben, tökéletesen lezárva egy aktív kulturális utazást.",
         "ro": "Începeți aventura pe bicicletă la colonialul Gedung Mulo înainte de a pedala ușor spre Globe-ul istoric al orașului.\nLa amiază, navigați pe străzile pline de viață până la monumentul veteranilor, absorbind atmosfera locală dinamică.\nDupă-amiaza vă este plină de creativitate vizitând centre culturale vibrante, inclusiv SIKU și spațiul artistic Vemoza.\nZiua se încheie cu spectacole tradiționale la Sanggar Celebes, completând perfect o călătorie culturală activă.",
         "en": "Start your cycling adventure at the colonial Gedung Mulo before smoothly pedaling towards the city's historical Globe.\nBy midday, navigate the lively streets down to the veteran monument, soaking in the dynamic local atmosphere as you ride.\nYour afternoon is filled with creativity as you visit vibrant cultural hubs, including SIKU and the artistic Vemoza space.\nThe day concludes with rich traditional performances at Sanggar Celebes, perfectly capping off an active cultural journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Makassar Vorsicht, bietet aber eine dynamische Perspektive. Morgens halten wir am Gedung Mulo, um trockene Kleidung zu richten. Mittags gleiten wir vorsichtig zum Globus und dem Denkmal, stets achtsam auf glatte Straßen. SIKU und Vemoza bieten ideale Pausenstationen, um sich aufzuwärmen. Den Abend lassen wir bei der Kunst im Celebes Studio ausklingen, während die Stadtlichter auf dem Asphalt tanzen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Makassarban, de dinamikus perspektívát kínál. Reggel megállunk a Gedung Mulónál, hogy megigazítsuk a felszerelésünket. Délben óvatosan gurulunk a Földgömb és az emlékmű felé, figyelve a csúszós aszfaltra. A SIKU és a Vemoza ideális pihenőhelyek a felmelegedéshez. Az estét a Celebes Stúdió művészetével zárjuk, miközben a város fényei táncolnak az úttesten.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în Makassar, dar oferă o perspectivă dinamică. Dimineața ne oprim la Gedung Mulo pentru a ne ajusta echipamentul. La prânz pedalăm cu grijă spre Glob și monument, atenți la asfaltul alunecos. SIKU și Vemoza oferă pauze ideale pentru a ne încălzi. Încheiem seara cu arta de la Studioul Celebes, în timp ce luminile orașului dansează pe carosabilul ud.",
+            "en": "Cycling in the rain requires caution in Makassar but offers a dynamic perspective. In the morning, we stop at Gedung Mulo to adjust our dry gear. At noon, we glide carefully toward the Globe and the monument, always mindful of slippery roads. SIKU and Vemoza offer ideal pit stops to dry off. We end the evening with art at Celebes Studio while city lights dance on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gedung Mulo",
+                "hu": "Gedung Mulo",
+                "ro": "Gedung Mulo",
+                "en": "Gedung Mulo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und nutzen Sie den Stopp, um Ihre Bremsen bei Nässe zu prüfen, bevor Sie die Tour fortsetzen.",
+                "hu": "Parkold a biciklidet az épület előtetője alá, és használd ki a megállót a fékek ellenőrzésére vizes körülmények között, mielőtt folytatnád az utat.",
+                "ro": "Parcați bicicleta sub streașina clădirii și folosiți oprirea pentru a verifica frânele în condiții de umezeală înainte de a continua drumul.",
+                "en": "Park your bike under the building's overhang and use the stop to check your brakes in wet conditions before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Globus",
+                "hu": "Földgömb",
+                "ro": "Globul",
+                "en": "Globe"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Auf- und Absteigen auf nassem Pflaster; das Monument ist bei Regen oft menschenleer und bietet eine ruhige Fotokulisse.",
+                "hu": "Vigyázz a fel- és leszállásnál a vizes burkolaton; az emlékmű esőben gyakran néptelen, így nyugodt hátteret biztosít a fotózáshoz.",
+                "ro": "Atenție la urcatul și coborâtul de pe bicicletă pe pavajul ud; monumentul este adesea pustiu pe ploaie, oferind un fundal liniștit pentru poze.",
+                "en": "Be careful when getting on and off your bike on wet pavement; the monument is often deserted in the rain, providing a calm backdrop for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Veteranen-Denkmal Süd-Ujung",
+                "hu": "Dél-Ujung Veterán Emlékmű",
+                "ro": "Monumentul Veteranilor din Sudul Ujung",
+                "en": "South Ujung Veteran Monument"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die Grasflächen mit dem Rad, da diese sehr schlammig werden können; bleiben Sie für einen sicheren Halt auf den befestigten Wegen.",
+                "hu": "Kerüld el a füves területeket a biciklivel, mivel nagyon sárosak lehetnek; maradj a szilárd burkolatú utakon a biztonságos tapadás érdekében.",
+                "ro": "Evitați zonele cu iarbă cu bicicleta, deoarece pot deveni foarte noroioase; rămâneți pe potecile pavate pentru o aderență sigură.",
+                "en": "Avoid grassy areas with your bike as they can become very muddy; stay on the paved paths for safe traction during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "SIKU Integrierter Raum",
+                "hu": "SIKU Integrált Tér",
+                "ro": "Spațiul Integrat SIKU",
+                "en": "SIKU Integrated Space"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um Ihre Regenbekleidung auszuschütteln; genießen Sie die warme Atmosphäre im Inneren, während Ihr Rad draußen sicher und trocken steht.",
+                "hu": "Nagyszerű hely az esőruházat lerázásához; élvezd a benti meleg légkört, miközben a biciklid kint biztonságos és száraz helyen pihen.",
+                "ro": "Un loc excelent pentru a vă scutura echipamentul de ploaie; bucurați-vă de atmosfera caldă din interior în timp ce bicicleta stă la adăpost.",
+                "en": "A great place to shake off your rain gear; enjoy the warm atmosphere inside while your bike rests in a safe and dry spot outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Vemoza",
+                "hu": "Vemoza",
+                "ro": "Vemoza",
+                "en": "Vemoza"
+              },
+              "tip_5lang": {
+                "de": "Dieser überdachte Kulturstopp ist ideal für regnerische Nachmittage; erkunden Sie die Exponate und lassen Sie sich von der lokalen Kreativität inspirieren.",
+                "hu": "Ez a fedett kulturális megálló ideális esős délutánokra; fedezd fel a kiállításokat, és hagyd, hogy inspiráljon a helyi kreativitás a vihar alatt.",
+                "ro": "Această oprire culturală acoperită este ideală pentru după-amiezi ploioase; explorați exponatele și lăsați-vă inspirați de creativitatea locală.",
+                "en": "This covered cultural stop is ideal for rainy afternoons; explore the exhibits and let local creativity inspire you during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtteil Gunung Sari",
+                "hu": "Gunung Sari Városrész",
+                "ro": "Satul Urban Gunung Sari",
+                "en": "Gunung Sari Urban Village"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die engen Gassen, um Pfützen zu vermeiden; der Regen verleiht dem urbanen Dorf eine sehr authentische, geschäftige Stimmung.",
+                "hu": "Hajts lassan a szűk utcákon, hogy elkerüld a pocsolyákat; az eső nagyon hiteles, nyüzsgő hangulatot kölcsönöz az urbanizált falunak.",
+                "ro": "Pedalați încet pe străzile înguste pentru a evita bălțile; ploaia conferă satului urban o atmosferă foarte autentică și plină de viață.",
+                "en": "Ride slowly through the narrow streets to avoid puddles; the rain gives the urban village a very authentic, bustling atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunststudio Celebes Indonesien",
+                "hu": "Celebesz Indonézia Művészeti Stúdió",
+                "ro": "Studioul de Artă Celebes Indonezia",
+                "en": "Celebes Indonesia Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss für eine nasse Tour; das warme Licht und die bunte Kunst im Studio bieten einen wunderbaren Kontrast zum grauen Regenwetter draußen.",
+                "hu": "Tökéletes befejezés egy vizes túrához; a stúdió meleg fényei és színes művészete csodálatos kontrasztot nyújtanak a kinti szürke esővel szemben.",
+                "ro": "Finalul perfect pentru un tur ud; luminile calde și arta colorată din studio oferă un contrast minunat cu ploaia cenușie de afară.",
+                "en": "The perfect ending to a wet tour; the studio's warm lights and colorful art provide a wonderful contrast to the gray rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad beginnt erfrischend am Gedung Mulo. Mittags radeln wir unter der milden Sonne zum Globus und dem Veteranendenkmal, wobei wir die angenehmen Temperaturen genießen. Nachmittags erkunden wir Vemoza und das Gunung Sari Dorf im sanften Licht der frühen Dämmerung. Da es gegen 17:00 Uhr dunkel wird, beenden wir unsere Fahrt bei den warmen Lichtern des Celebes Kunststudios.",
+            "hu": "Egy téli nap a biciklin frissítően indul a Gedung Mulónál. Délben az enyhe napsütésben tekerünk a Földgömb és a veterán emlékmű felé, élvezve a kellemes hőmérsékletet. Délután a Vemoza és a Gunung Sari falu felfedezése következik a korai szürkület lágy fényében. Mivel 17:00 körül sötétedik, utunkat a Celebes művészeti stúdió meleg fényeinél fejezzük be.",
+            "ro": "O zi de iarnă pe bicicletă începe revigorant la Gedung Mulo. La prânz pedalăm sub soarele blând spre Glob și monumentul veteranilor, savurând temperaturile plăcute. După-amiaza explorăm Vemoza și satul Gunung Sari în lumina caldă a amurgului timpuriu. Deoarece se întunecă în jur de ora 17:00, ne încheiem cursa la luminile calde ale studioului de artă Celebes.",
+            "en": "A winter day on the bike starts refreshingly at Gedung Mulo. At noon, we cycle under the mild sun toward the Globe and the veteran monument, enjoying the pleasant temperatures. In the afternoon, we explore Vemoza and Gunung Sari village in the soft light of early dusk. Since it gets dark around 17:00, we finish our ride at the warm lights of the Celebes art studio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gedung Mulo",
+                "hu": "Gedung Mulo",
+                "ro": "Gedung Mulo",
+                "en": "Gedung Mulo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenluft beim Radeln durch die Anlage; die Sicht ist im Winter oft klarer, was die Details der Architektur hervorhebt.",
+                "hu": "Élvezd a hűvös reggeli levegőt a komplexumon való áttekerés közben; a látási viszonyok télen gyakran tisztábbak, ami kiemeli az építészeti részleteket.",
+                "ro": "Bucurați-vă de aerul răcoros de dimineață în timp ce pedalați prin complex; vizibilitatea este adesea mai clară iarna, evidențiind detaliile arhitecturale.",
+                "en": "Enjoy the cool morning air while cycling through the complex; visibility is often clearer in winter, highlighting the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Globus",
+                "hu": "Földgömb",
+                "ro": "Globul",
+                "en": "Globe"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist weniger intensiv, ideal für eine Pause am Monument; nutzen Sie die Zeit für Panoramafotos der Küste ohne flirrende Hitze.",
+                "hu": "A déli nap kevésbé intenzív, ideális egy pihenőre az emlékműnél; használd ki az időt a tengerparti panorámafotókra a vibráló hőség nélkül.",
+                "ro": "Soarele de la prânz este mai puțin intens, ideal pentru o pauză la monument; profitați de timp pentru poze panoramice ale coastei fără arșiță.",
+                "en": "The midday sun is less intense, ideal for a break at the monument; use the time for panoramic coastal photos without the shimmering heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Veteranen-Denkmal Süd-Ujung",
+                "hu": "Dél-Ujung Veterán Emlékmű",
+                "ro": "Monumentul Veteranilor din Sudul Ujung",
+                "en": "South Ujung Veteran Monument"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein, um das Denkmal im goldenen Licht zu sehen; die Brise vom Meer ist am späten Nachmittag erfrischend kühl.",
+                "hu": "Tervezd ezt a megállót 16:30 elé, hogy aranyfényben lásd az emlékművet; a tenger felől érkező szellő késő délután frissítően hűvös.",
+                "ro": "Planificați această oprire înainte de 16:30 pentru a vedea monumentul în lumină aurie; briza de la mare este răcoroasă și plăcută după-amiaza târziu.",
+                "en": "Plan this stop before 16:30 to see the monument in golden light; the breeze from the sea is refreshingly cool in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "SIKU Integrierter Raum",
+                "hu": "SIKU Integrált Tér",
+                "ro": "Spațiul Integrat SIKU",
+                "en": "SIKU Integrated Space"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich bei einem heißen Getränk aufzuwärmen; die warme Innenbeleuchtung bildet einen schönen Kontrast zum frühen Einsetzen der Dunkelheit.",
+                "hu": "Ideális hely a felmelegedéshez egy forró ital mellett; a meleg belső világítás szép kontrasztot alkot a sötétség korai beálltával.",
+                "ro": "Un loc ideal pentru a vă încălzi cu o băutură fierbinte; iluminarea caldă din interior oferă un contrast frumos cu întunericul ce se lasă devreme.",
+                "en": "An ideal place to warm up with a hot drink; the warm interior lighting provides a beautiful contrast to the early onset of darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Vemoza",
+                "hu": "Vemoza",
+                "ro": "Vemoza",
+                "en": "Vemoza"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im sanften Abendlicht; die kulturelle Erfahrung wird durch die ruhige Winteratmosphäre noch intensiver und persönlicher.",
+                "hu": "Látogasd meg a kiállításokat a lágy esti fényben; a kulturális élményt még intenzívebbé és személyesebbé teszi a nyugodt téli hangulat.",
+                "ro": "Vizitați expozițiile în lumina blândă de seară; experiența culturală este intensificată și personalizată de atmosfera liniștită de iarnă.",
+                "en": "Visit the exhibits in the soft evening light; the cultural experience is made even more intense and personal by the calm winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtteil Gunung Sari",
+                "hu": "Gunung Sari Városrész",
+                "ro": "Satul Urban Gunung Sari",
+                "en": "Gunung Sari Urban Village"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit eingeschaltetem Licht durch das Dorf, wenn die Dämmerung einsetzt; die beleuchteten Häuser vermitteln ein Gefühl von Wärme und Gemeinschaft.",
+                "hu": "Hajts bekapcsolt lámpával a falun keresztül a szürkület beálltakor; a kivilágított házak a melegség és a közösség érzését közvetítik a téli estén.",
+                "ro": "Pedalați cu luminile aprinse prin sat la lăsarea serii; casele luminate transmit o senzație de căldură și comunitate în seara de iarnă.",
+                "en": "Ride with your lights on through the village as dusk sets in; the illuminated houses convey a sense of warmth and community on a winter evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunststudio Celebes Indonesien",
+                "hu": "Celebesz Indonézia Művészeti Stúdió",
+                "ro": "Studioul de Artă Celebes Indonezia",
+                "en": "Celebes Indonesia Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Abschluss Ihrer Tour in der gemütlichen Atmosphäre des Studios; die lebendige Kunst wirkt bei nächtlicher Beleuchtung besonders inspirierend.",
+                "hu": "Élvezd a túra lezárását a stúdió barátságos légkörében; az élénk művészet különösen inspirálóan hat az éjszakai megvilágítás mellett.",
+                "ro": "Bucurați-vă de încheierea turului în atmosfera primitoare a studioului; arta vibrantă pare deosebit de inspiratoare sub iluminatul nocturn.",
+                "en": "Enjoy the conclusion of your tour in the studio's cozy atmosphere; the vibrant art feels especially inspiring under the night lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája zökkenőmentesen indul a Gedung Mulo és a Globe érintésével, felfedezve a központ gyarmati múltját.\nA dél a hatalmas Somba Opu történelmi parkba vezeti, ahol a régió ősi öröksége és hagyományos építészete igazán életre kel.\nA délután még mélyebbre merül a királyi történelemben a híres Pattinngalloang Múzeum és egy régi mecset meglátogatásával.\nZárja az estét az újjáépített Balla Lompoa palota és a Rumah Seni Kasumba vibráló műalkotásainak megcsodálásával.",
         "ro": "Turul auto începe fluent la Gedung Mulo și istoricul Globe, explorând trecutul colonial din centrul fascinant al orașului.\nAmiaza vă aduce în vastul parc istoric Somba Opu, unde moștenirea regională antică și arhitectura prind cu adevărat viață.\nDupă-amiaza pătrunde în istoria regală cu vizite la distinsul Muzeu Pattinngalloang și la o veche moschee legendară.\nÎncheiați seara admirând măreția palatului reconstruit Balla Lompoa și operele vibrante de la Rumah Seni Kasumba.",
         "en": "Your driven tour kicks off smoothly at Gedung Mulo and the historic Globe, exploring the central city's colonial past.\nMidday brings you to the sprawling Somba Opu historical park, where ancient regional heritage and architecture truly come alive.\nThe afternoon dives deeper into royal history with visits to the esteemed Pattinngalloang Museum and a legendary old mosque.\nEnd the evening admiring the grandeur of the reconstructed Balla Lompoa palace and vibrant artworks at Rumah Seni Kasumba."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Makassar mit dem Auto zu erkunden ist bei Regen die komfortabelste Wahl. Morgens besuchen wir das Gedung Mulo und den Globus, wobei das Auto als perfekter Stützpunkt dient. Mittags tauchen wir in die Geschichte von Somba Opu und dem Karaeng Museum ein, geschützt vor dem tropischen Guss. Nachmittags besichtigen wir die Katangka-Moschee und Balla Lompoa, bevor wir den Abend trocken im Kasumba Kunsthaus verbringen.",
+            "hu": "Makassar felfedezése autóval a legkényelmesebb választás esőben. Reggel meglátogatjuk a Gedung Mulót és a Földgömböt, miközben az autó tökéletes bázisként szolgál. Délben Somba Opu és a Karaeng Múzeum történelmében merülünk el, védve a trópusi záporoktól. Délután a Katangka mecsetet és Balla Lompoát érintjük, mielőtt az estét szárazon a Kasumba Művészeti Házban töltenénk.",
+            "ro": "Explorarea orașului Makassar cu mașina este cea mai confortabilă alegere pe ploaie. Dimineața vizităm Gedung Mulo și Globul, mașina servind drept bază perfectă. La prânz ne cufundăm în istoria Somba Opu și a Muzeului Karaeng, protejați de aversele tropicale. După-amiaza vizităm Moscheea Katangka și Balla Lompoa, înainte de a petrece seara la adăpost în Casa de Artă Kasumba.",
+            "en": "Exploring Makassar by car is the most comfortable choice during the rain. In the morning, we visit Gedung Mulo and the Globe, with the car serving as the perfect base. At noon, we dive into the history of Somba Opu and the Karaeng Museum, sheltered from tropical downpours. In the afternoon, we see the Katangka Mosque and Balla Lompoa before spending a dry evening at Kasumba Art House."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gedung Mulo",
+                "hu": "Gedung Mulo",
+                "ro": "Gedung Mulo",
+                "en": "Gedung Mulo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Aussteigen; das historische Gebäude bietet im Inneren viele trockene Gänge für eine entspannte Besichtigung.",
+                "hu": "Használd a fedett bejárati részt a kiszálláshoz; a történelmi épület belső részén sok száraz folyosó található a nyugodt nézelődéshez az esőben.",
+                "ro": "Folosiți zona de intrare acoperită pentru a coborî din mașină; clădirea istorică oferă multe coridoare uscate în interior pentru o vizită relaxată.",
+                "en": "Use the covered entrance area to get out of the car; the historic building offers many dry corridors inside for a relaxed tour during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Globus",
+                "hu": "Földgömb",
+                "ro": "Globul",
+                "en": "Globe"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos aus dem Fenster oder mit dem Schirm; die nasse Oberfläche des Monuments spiegelt die Stadtlichter bei grauem Himmel eindrucksvoll wider.",
+                "hu": "Rövid megálló fotózáshoz az ablakból vagy esernyővel; az emlékmű vizes felülete szürkés égbolt mellett is látványosan tükrözi vissza a város fényeit.",
+                "ro": "O oprire scurtă pentru poze de pe fereastră sau cu umbrela; suprafața udă a monumentului reflectă spectaculos luminile orașului chiar și sub cerul gri.",
+                "en": "A short stop for photos from the window or with an umbrella; the monument's wet surface impressively reflects city lights even under a gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Baruga Somba Opu",
+                "hu": "Baruga Somba Opu",
+                "ro": "Baruga Somba Opu",
+                "en": "Baruga Somba Opu"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die traditionellen Häuser, die auf Stelzen stehen; sie bieten einen hervorragenden natürlichen Schutz vor dem Regen und vermitteln ein authentisches Gefühl.",
+                "hu": "Fedezd fel a cölöpökön álló hagyományos házakat; ezek kiváló természetes védelmet nyújtanak az eső ellen, és nagyon hiteles hangulatot árasztanak.",
+                "ro": "Explorați casele tradiționale pe piloni; acestea oferă o protecție naturală excelentă împotriva ploii și transmit o atmosferă foarte autentică.",
+                "en": "Explore the traditional houses on stilts; they provide excellent natural protection from the rain and convey a very authentic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Karaeng Pattinngalloang Museum",
+                "hu": "Karaeng Pattinngalloang Múzeum",
+                "ro": "Muzeul Karaeng Pattinngalloang",
+                "en": "Karaeng Pattinngalloang Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Nässe zu entfliehen; vertiefen Sie sich in die Exponate, während das Geräusch des Regens draußen die Ruhe des Museums unterstreicht.",
+                "hu": "Tökéletes hely a nedvesség elöli menekülésre; merülj el a kiállítási tárgyakban, miközben a kinti eső zaja csak fokozza a múzeum belső nyugalmát.",
+                "ro": "Locul perfect pentru a scăpa de umezeală; cufundați-vă în exponate în timp ce zgomotul ploii de afară subliniază liniștea din interiorul muzeului.",
+                "en": "A perfect place to escape the dampness; immerse yourself in the exhibits while the sound of rain outside enhances the museum's inner peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Katangka Moschee",
+                "hu": "Régi Katangka Mecset",
+                "ro": "Vechea Moschee Katangka",
+                "en": "Old Katangka Mosque"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Moschee ist ein friedlicher Zufluchtsort; achten Sie auf den rutschigen Boden im Eingangsbereich und genießen Sie die spirituelle Stille bei Regen.",
+                "hu": "A mecset belseje békés menedék; ügyelj a csúszós padlóra a bejárati részen, és élvezd a spirituális csendet a kinti esőzés közepette.",
+                "ro": "Interiorul moscheii este un refugiu liniștit; atenție la podeaua alunecoasă din zona de intrare și bucurați-vă de liniștea spirituală pe timp de ploaie.",
+                "en": "The mosque's interior is a peaceful sanctuary; watch out for slippery floors in the entrance area and enjoy the spiritual silence amidst the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballaʼ Lompoa Museum",
+                "hu": "Ballaʼ Lompoa Múzeum",
+                "ro": "Muzeul Ballaʼ Lompoa",
+                "en": "Ballaʼ Lompoa Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieser majestätische Holzbau bietet viel Schutz; erkunden Sie die königlichen Hallen und nutzen Sie die Veranden, um den Regen im Garten zu beobachten.",
+                "hu": "Ez a fenséges faépület rengeteg védelmet nyújt; fedezd fel a királyi termeket, és használd a verandákat a kerti eső látványának megfigyelésére.",
+                "ro": "Această clădire maiestuoasă de lemn oferă multă protecție; explorați sălile regale și folosiți verandele pentru a observa ploaia din grădină.",
+                "en": "This majestic wooden building offers plenty of cover; explore the royal halls and use the verandas to watch the rain falling in the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasumba Kunsthaus",
+                "hu": "Kasumba Művészeti Ház",
+                "ro": "Casa de Artă Kasumba",
+                "en": "Kasumba Art House"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer, warmer Ort für den Abend; die Kunstwerke wirken bei regnerischem Wetter besonders farbenfroh und laden zum langen Verweilen ein.",
+                "hu": "Csodálatos, meleg hely az estéhez; a műalkotások különösen színgazdagnak tűnnek az esős időben, és hosszú maradásra csábítanak a kényelmes belső térben.",
+                "ro": "Un loc minunat și cald pentru seară; operele de artă par deosebit de colorate pe vreme ploioasă și vă invită să zăboviți în interiorul confortabil.",
+                "en": "A wonderful, warm spot for the evening; the artworks appear particularly colorful in rainy weather, inviting you to stay long in the cozy interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Makassar lässt sich am besten im klimatisierten Komfort eines Autos genießen. Morgens besichtigen wir das Gedung Mulo und den Globus im milden Winterlicht. Mittags führen uns die Fahrten zum Baruga Somba Opu und dem Karaeng Museum, wobei wir die angenehme Kühle der Saison nutzen. Nachmittags besuchen wir Katangka und Balla Lompoa, bevor der frühe Sonnenuntergang gegen 17:00 Uhr den Tag im Kasumba Kunsthaus sanft beendet.",
+            "hu": "Egy téli napot Makassarban leginkább egy autó klimatizált kényelmében lehet élvezni. Reggel a Gedung Mulót és a Földgömböt keressük fel az enyhe téli fényben. Délben utunk a Baruga Somba Opu és a Karaeng Múzeum felé vezet, kihasználva a szezon kellemes hűvösét. Délután Katangkát és Balla Lompoát érintjük, mielőtt a korai, 17:00-s naplemente után a Kasumba Művészeti Házban zárnánk a napot.",
+            "ro": "O zi de iarnă în Makassar este cel mai bine savurată în confortul climatizat al unei mașini. Dimineața vizităm Gedung Mulo și Globul în lumina blândă de iarnă. La prânz, drumul ne poartă spre Baruga Somba Opu și Muzeul Karaeng, profitând de răcoarea plăcută a sezonului. După-amiaza vizităm Katangka și Balla Lompoa, înainte ca apusul timpuriu de la ora 17:00 să încheie ziua la Casa de Artă Kasumba.",
+            "en": "A winter day in Makassar is best enjoyed in the air-conditioned comfort of a car. In the morning, we visit Gedung Mulo and the Globe in the mild winter light. At noon, our journey leads to Baruga Somba Opu and the Karaeng Museum, taking advantage of the season's pleasant coolness. In the afternoon, we see Katangka and Balla Lompoa before the early 17:00 sunset leads us to finish at Kasumba Art House."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gedung Mulo",
+                "hu": "Gedung Mulo",
+                "ro": "Gedung Mulo",
+                "en": "Gedung Mulo"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für gestochen scharfe Fotos der Fassade; nutzen Sie den Vormittag für einen Spaziergang, solange es noch angenehm kühl ist.",
+                "hu": "A tiszta téli levegő éles fotókat tesz lehetővé a homlokzatról; használd ki a délelőttöt egy sétára, amíg még kellemesen hűvös az idő az épület körül.",
+                "ro": "Aerul clar de iarnă permite fotografii clare ale fațadei; profitați de dimineață pentru o plimbare cât timp este încă plăcut de răcoros în jurul clădirii.",
+                "en": "The clear winter air allows for sharp photos of the facade; take advantage of the morning for a walk while it's still pleasantly cool around the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Globus",
+                "hu": "Földgömb",
+                "ro": "Globul",
+                "en": "Globe"
+              },
+              "tip_5lang": {
+                "de": "Das Monument wirkt im sanften Licht der Wintersonne sehr plastisch; ideal für einen schnellen Halt auf dem Weg zur Küste, ohne von der Mittagshitze erschöpft zu werden.",
+                "hu": "Az emlékmű nagyon plasztikusan mutat a téli nap lágy fényében; ideális egy gyors megállóra a tengerpart felé vezető úton, anélkül, hogy a déli hőség lefárasztana.",
+                "ro": "Monumentul arată foarte bine în lumina blândă a soarelui de iarnă; ideal pentru o oprire rapidă în drum spre coastă, fără a fi epuizați de căldura de la prânz.",
+                "en": "The monument looks very vivid in the soft light of the winter sun; ideal for a quick stop on the way to the coast without being exhausted by the midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Baruga Somba Opu",
+                "hu": "Baruga Somba Opu",
+                "ro": "Baruga Somba Opu",
+                "en": "Baruga Somba Opu"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Anlage im Freien, wenn die Temperaturen im Winter moderat sind; die historischen Holzhäuser strahlen eine besondere Ruhe im klaren Licht aus.",
+                "hu": "Fedezd fel a szabadtéri komplexumot, amikor a téli hőmérséklet mérsékelt; a történelmi faházak különleges nyugalmat árasztanak a tiszta téli fényben.",
+                "ro": "Explorați complexul în aer liber când temperaturile de iarnă sunt moderate; casele istorice de lemn emană o liniște deosebită în lumina clară.",
+                "en": "Explore the outdoor complex when winter temperatures are moderate; the historic wooden houses exude a special calm in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Karaeng Pattinngalloang Museum",
+                "hu": "Karaeng Pattinngalloang Múzeum",
+                "ro": "Muzeul Karaeng Pattinngalloang",
+                "en": "Karaeng Pattinngalloang Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein kühler Rückzugsort voller Geschichte; im Winter sind die Ausstellungsräume oft weniger überlaufen, was eine intensivere Betrachtung der Exponate ermöglicht.",
+                "hu": "Hűvös menedék, tele történelemmel; télen a kiállítótermek gyakran kevésbé zsúfoltak, ami lehetővé teszi a tárgyak alaposabb megtekintését a csendben.",
+                "ro": "Un refugiu răcoros plin de istorie; iarna sălile de expoziție sunt adesea mai puțin aglomerate, permițând o observare mai atentă a exponatelor.",
+                "en": "A cool sanctuary full of history; in winter, the exhibition rooms are often less crowded, allowing for a more thorough viewing of the artifacts in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Katangka Moschee",
+                "hu": "Régi Katangka Mecset",
+                "ro": "Vechea Moschee Katangka",
+                "en": "Old Katangka Mosque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee am frühen Nachmittag, um die Lichtspiele im Inneren zu erleben; die historische Atmosphäre wird durch das milde Wetter draußen unterstrichen.",
+                "hu": "Látogasd meg a mecsetet kora délután, hogy láthasd a belső fényjátékokat; a történelmi hangulatot felerősíti a kinti enyhe időjárás.",
+                "ro": "Vizitați moscheea după-amiaza devreme pentru a vedea jocurile de lumină din interior; atmosfera istorică este subliniată de vremea blândă de afară.",
+                "en": "Visit the mosque in the early afternoon to see the light plays inside; the historic atmosphere is enhanced by the mild weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballaʼ Lompoa Museum",
+                "hu": "Ballaʼ Lompoa Múzeum",
+                "ro": "Muzeul Ballaʼ Lompoa",
+                "en": "Ballaʼ Lompoa Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang für Außenaufnahmen des Palastes; die Holzstrukturen wirken bei diesem Licht besonders warm.",
+                "hu": "Használd ki az aranyfényt közvetlenül a korai naplemente előtt a palota fotózásához; a faszerkezetek ilyenkor különösen meleg és fenséges hatást keltenek.",
+                "ro": "Profitate de lumina aurie chiar înainte de apusul timpuriu pentru a fotografia palatul; structurile de lemn par deosebit de calde și impunătoare.",
+                "en": "Take advantage of the golden light just before the early sunset for photos of the palace; the wooden structures look especially warm and majestic in this light."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasumba Kunsthaus",
+                "hu": "Kasumba Művészeti Ház",
+                "ro": "Casa de Artă Kasumba",
+                "en": "Kasumba Art House"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im warmen Licht des Kunsthauses; genießen Sie die kreative Stimmung, wenn es draußen bereits um 17:00 Uhr dunkel wird.",
+                "hu": "Tökéletes befejezés a művészeti ház meleg fényeiben; élvezd a kreatív hangulatot, amikor odakint már 17:00 körül besötétedik a téli szezonban.",
+                "ro": "Finalul perfect sub luminile calde ale casei de artă; bucurați-vă de atmosfera creativă când afară se întunecă deja în jur de ora 17:00.",
+                "en": "The perfect conclusion under the warm lights of the art house; enjoy the creative mood when it already gets dark outside around 17:00 in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

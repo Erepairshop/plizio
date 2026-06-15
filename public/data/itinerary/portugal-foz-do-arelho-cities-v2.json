@@ -137,6 +137,168 @@
         "hu": "Kezdje a horgonypont közelében a nagyszerű Palacete Conde de Almeida Araújo megtekintésével, majd haladjon tovább a festői Praia da Foz do Arelho-Lagoa partjára.\n\nÉlvezze a lagúna nyugodt vizét, mielőtt a Praia das Rolotes felé venné az irányt egy csendesebb, intimebb homokos partszakaszért.\n\nFedezze fel a Penedo Furado lenyűgöző természetes formáit, sétáljon végig a helyi tájat meghatározó sziklás peremeken.\n\nTelepedjen le a Praia do Penedo Furado partján, amely tökéletes menedék a pihenésre és a naplemente megfigyelésére a morajló atlanti hullámok felett.",
         "ro": "Începeți aproape de ancoră cu o vedere a grandiosului Palacete Conde de Almeida Araújo, apoi îndreptați-vă spre marginea pitoreștii Praia da Foz do Arelho-Lagoa.\n\nBucurați-vă de apele liniștite ale lagunei înainte de a vă îndrepta spre Praia das Rolotes pentru o porțiune de nisip mai liniștită și intimă.\n\nExplorați formele naturale fascinante de la Penedo Furado, plimbându-vă de-a lungul marginilor stâncoase care definesc peisajul local.\n\nAșezați-vă la Praia do Penedo Furado, un refugiu de coastă perfect pentru a vă relaxa și a privi apusul reflectându-se peste valurile atlantice puternice.",
         "en": "Start near the anchor with a view of the grand Palacete Conde de Almeida Araújo, then make your way to the edge of the scenic Praia da Foz do Arelho-Lagoa.\n\nEnjoy the tranquil waters of the lagoon before heading down towards Praia das Rolotes for a quieter, more intimate stretch of sand.\n\nExplore the fascinating natural shapes of Penedo Furado, walking along the rocky edges that define the local landscape.\n\nSettle at Praia do Penedo Furado, a perfect coastal retreat to relax and watch the sunset reflect over the crashing Atlantic waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt im Palacete, während der Regen auf die alten Dächer trommelt. Mittags bietet die Lagune trotz Nebel eine mystische Kulisse; wasserfeste Schuhe sind für die aufgeweichten Wege an der Praia das Rolotes unerlässlich. Nachmittags wirken die Klippen am Penedo Furado im Regen besonders dramatisch, doch Vorsicht vor glatten Steinen. Abends lockt die gemütliche Wärme lokaler Refugien.",
+            "hu": "Kezdje a napot a Palacete védett falai között, elkerülve a reggeli záporokat. Délben a lagúna ködös tája misztikus, de viseljen vízálló cipőt a dűnék közötti sár ellen. Délután a sziklák látványa drámai az esőben, de a Penedo Furado környékén vigyázzon a csúszós talajjal a meredek részeken. Estére húzódjon be egy hangulatos fedett helyre, hallgatva az óceán morajlását.",
+            "ro": "Începeți ziua la adăpostul Palatului, evitând primele averse ale dimineții. La prânz, laguna oferă un peisaj mistic prin ceață; încălțămintea impermeabilă este esențială pentru potecile noroioase de lângă plajă. După-amiaza, stâncile de la Penedo Furado arată dramatic în ploaie, dar fiți atenți la suprafețele alunecoase. Seara, retrageți-vă într-un loc călduros pentru a asculta sunetul ploii.",
+            "en": "Start your day sheltered within the Palacete, avoiding the morning showers. At noon, the lagoon offers a mystic atmosphere through the mist; waterproof boots are essential for the muddy paths near the shore. In the afternoon, the cliffs at Penedo Furado look dramatic in the rain, but be careful of slippery rocks. By evening, seek comfort in a cozy indoor spot while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacete Conde de Almeida Araújo",
+                "hu": "Palacete Conde de Almeida Araújo",
+                "ro": "Palacete Conde de Almeida Araújo",
+                "en": "Palacete Conde de Almeida Araújo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die prachtvolle Architektur als Schutz vor dem Regen und bewundern Sie die Details der Fassade vom überdachten Eingangsbereich aus.",
+                "hu": "Használja ki az épület elegáns architektúráját menedékként az eső elől, és csodálja meg a homlokzat részleteit a fedett bejárat védelméből.",
+                "ro": "Folosiți arhitectura elegantă a clădirii ca adăpost împotriva ploii și admirați detaliile fațadei din zona de intrare acoperită.",
+                "en": "Use the building's elegant architecture as a shelter from the rain and admire the facade's details from the safety of the covered entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Lagoa",
+                "hu": "Praia da Foz do Arelho-Lagoa",
+                "ro": "Praia da Foz do Arelho-Lagoa",
+                "en": "Praia da Foz do Arelho-Lagoa"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt im Regen melancholisch schön; bleiben Sie auf den befestigten Wegen, um tiefen Matsch am Uferrand zu vermeiden.",
+                "hu": "A lagúna az esőben melankolikusan szép; maradjon a kijelölt utakon, hogy elkerülje a mély sarat a közvetlen vízparti szakaszokon.",
+                "ro": "Laguna este melancolic de frumoasă în ploaie; rămâneți pe potecile marcate pentru a evita noroiul adânc de la marginea apei.",
+                "en": "The lagoon is melancholically beautiful in the rain; stick to the paved paths to avoid deep mud at the very edge of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Rolotes",
+                "hu": "Praia das Rolotes",
+                "ro": "Praia das Rolotes",
+                "en": "Praia das Rolotes"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurzzeitig Schutz bei den Imbisswagen, während Sie die grauen Wellen beobachten; ein heißer Tee hilft gegen die feuchte Kälte.",
+                "hu": "Keressen rövid menedéket a büfékocsiknál, miközben a szürke hullámokat nézi; egy forró tea sokat segít a nedves hideg ellen.",
+                "ro": "Căutați un scurt adăpost la rulotele de mâncare în timp ce priviți valurile gri; un ceai fierbinte ajută împotriva umezelii reci.",
+                "en": "Seek brief shelter near the food trucks while watching the grey waves; a hot tea helps immensely against the damp coastal cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo Furado",
+                "hu": "Penedo Furado",
+                "ro": "Penedo Furado",
+                "en": "Penedo Furado"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformation bietet natürlichen Schutz vor Wind, aber der Boden ist extrem rutschig; treten Sie nur auf flache, trockene Stellen.",
+                "hu": "A sziklaformáció természetes szélfogót biztosít, de a talaj rendkívül csúszós; csak a lapos, szárazabb részekre lépjen biztonsággal.",
+                "ro": "Formațiunea stâncoasă oferă protecție naturală împotriva vântului, dar solul este extrem de alunecos; călcați doar pe zonele plate.",
+                "en": "The rock formation provides natural wind protection, but the ground is extremely slippery; step only on flat, dry spots for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Penedo Furado",
+                "hu": "Praia do Penedo Furado",
+                "ro": "Praia do Penedo Furado",
+                "en": "Praia do Penedo Furado"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Zusammenspiel von Regen und Brandung aus sicherer Entfernung; die Gischt kann bei diesem Wetter weit landeinwärts spritzen.",
+                "hu": "Figyelje az eső és a hullámzás játékát biztonságos távolságból; a sós permet ilyenkor messze a szárazföld belseje felé is csapkodhat.",
+                "ro": "Observați interacțiunea dintre ploaie și valuri de la o distanță sigură; spuma mării poate ajunge departe pe țărm pe acest timp.",
+                "en": "Watch the interplay of rain and surf from a safe distance; the sea spray can reach far inland during this kind of weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Wintermorgenluft am historischen Palacete in warmer Kleidung. Mittags glitzert die tiefstehende Sonne auf der Lagune, während ein Schal vor der Meeresbrise schützt. Nutzen Sie die hellen Stunden für die Wanderung zum Penedo Furado, da die Sonne bereits gegen 17:00 Uhr spektakulär im Atlantik versinkt. Der Abend endet friedlich in der stillen, winterlichen Atmosphäre des Ortes.",
+            "hu": "Élvezze a friss téli reggelt a történelmi Palacete-nél meleg réteges öltözetben. Délben az alacsonyan járó nap élesen csillan a lagúnán, a szél ellen sál kötelező. Használja ki a világos órákat a Penedo Furado felfedezésére, mert 17:00-kor már sötétedik az Atlanti-óceán felett. Az este békésen zárul a település csendes, meghitt téli hangulatában.",
+            "ro": "Bucurați-vă de dimineața răcoroasă de iarnă la Palatul istoric, purtând haine groase. La prânz, soarele strălucește pe lagună, iar o eșarfă este necesară împotriva brizelor reci. Profită de orele de lumină pentru a explora Penedo Furado, deoarece soarele apune spectaculos în jurul orei 17:00. Seara se încheie liniștit în atmosfera intimă de iarnă.",
+            "en": "Enjoy the crisp winter morning at the historic Palacete dressed in warm layers. At noon, the low sun glitters sharply on the lagoon, while a scarf protects you from the sea breeze. Make the most of the daylight for the walk to Penedo Furado, as the sun sets spectacularly over the Atlantic around 5 PM. The evening ends peacefully in the quiet winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacete Conde de Almeida Araújo",
+                "hu": "Palacete Conde de Almeida Araújo",
+                "ro": "Palacete Conde de Almeida Araújo",
+                "en": "Palacete Conde de Almeida Araújo"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die hellen Farben des Gebäudes besonders schön zur Geltung; ideal für Fotos ohne die üblichen Touristenmassen.",
+                "hu": "A téli napsütés különösen szépen emeli ki az épület világos színeit; ideális időpont fotózáshoz a szokásos turistaáradat nélkül.",
+                "ro": "Soarele de iarnă scoate în evidență culorile deschise ale clădirii; moment ideal pentru fotografii fără mulțimile obișnuite de turiști.",
+                "en": "The winter sun highlights the building's light colors beautifully; it is an ideal time for photos without the usual tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Lagoa",
+                "hu": "Praia da Foz do Arelho-Lagoa",
+                "ro": "Praia da Foz do Arelho-Lagoa",
+                "en": "Praia da Foz do Arelho-Lagoa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die im Winter hier rastenden Zugvögel in der Stille der Lagune; die kalte Luft macht die Sicht oft extrem klar.",
+                "hu": "Figyelje meg az itt telelő költöző madarakat a lagúna csendjében; a hideg levegő miatt a látótávolság ilyenkor gyakran rendkívüli.",
+                "ro": "Observați păsările migratoare care iernează aici în liniștea lagunei; aerul rece face ca vizibilitatea să fie adesea extrem de clară.",
+                "en": "Observe the migratory birds wintering here in the silence of the lagoon; the cold air often makes the visibility extremely clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Rolotes",
+                "hu": "Praia das Rolotes",
+                "ro": "Praia das Rolotes",
+                "en": "Praia das Rolotes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, leere Strandlandschaft; ein kurzer Spaziergang im Wind belebt die Sinne, bevor es am frühen Abend kühl wird.",
+                "hu": "Élvezze a tágas, üres strand látványát; egy rövid séta a szélben felfrissít, mielőtt kora este hirtelen lehűlne a levegő.",
+                "ro": "Bucurați-vă de peisajul vast și gol al plajei; o scurtă plimbare în vânt revigorează simțurile înainte de răcirea bruscă a serii.",
+                "en": "Enjoy the vast, empty beach landscape; a short walk in the wind invigorates the senses before the air cools down in early evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo Furado",
+                "hu": "Penedo Furado",
+                "ro": "Penedo Furado",
+                "en": "Penedo Furado"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie diesen Ort rechtzeitig vor 17:00 Uhr auf, um das warme Licht der untergehenden Wintersonne auf den Felsen einzufangen.",
+                "hu": "Keresse fel ezt a helyet jóval 17:00 előtt, hogy elkapja a lemenő téli nap meleg fényeit a sziklafalakon.",
+                "ro": "Vizitați acest loc cu mult înainte de ora 17:00 pentru a surprinde lumina caldă a soarelui de iarnă pe pereții de stâncă.",
+                "en": "Visit this spot well before 5 PM to catch the warm light of the setting winter sun reflecting off the rock faces."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Penedo Furado",
+                "hu": "Praia do Penedo Furado",
+                "ro": "Praia do Penedo Furado",
+                "en": "Praia do Penedo Furado"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer; ideal für eine meditative Pause, bevor die Dunkelheit und die Kälte schnell einsetzen.",
+                "hu": "A strand télen gyakran teljesen néptelen; ideális egy meditatív szünetre, mielőtt a sötétség és a hideg gyorsan beállna.",
+                "ro": "Plaja este adesea pustie iarna; ideală pentru o pauză meditativă înainte ca întunericul și frigul să se instaleze rapid.",
+                "en": "The beach is often deserted in winter; ideal for a meditative break before the darkness and cold set in quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon el a kis Prainha öböltől a Praia da Foz do Arelho-Mar hatalmas szörfös partszakaszáig.\n\nTekerjen a szárazföld belseje felé a történelmi palotához, majd tartson egy pihentető szünetet a Lagoa csendes partjainál.\n\nBringázzon a vízpart mentén a Praia das Rolotes felé, majd egészen a lenyűgöző Penedo Furado nevezetességig.\n\nFejezze be a túrát az esti fények megfigyelésével a Penedo közeli sziklás partvonalról, érezve a friss óceáni szellőt.",
         "ro": "Mergeți cu bicicleta de la mica zonă Prainha până la plaja extinsă pentru surf Praia da Foz do Arelho-Mar.\n\nPedalați spre interior pentru a vedea istoricul Palacete, urmat de o pauză relaxantă pe țărmurile calme ale lagunei.\n\nMergeți pe marginea apei până la Praia das Rolotes, apoi spre impresionantul punct de reper Penedo Furado.\n\nÎncheiați-vă plimbarea privind strălucirea serii de pe coasta stâncoasă de lângă Penedo, simțind briza proaspătă a oceanului.",
         "en": "Cycle from the small cove of Prainha down to the expansive surf spot at Praia da Foz do Arelho-Mar.\n\nPedal inland to see the historic Palacete, followed by a relaxing break along the calm shores of the Lagoa.\n\nRide along the water's edge down to Praia das Rolotes, then onto the striking Penedo Furado landmark.\n\nFinish your ride watching the evening glow from the rocky coastline near the Penedo, feeling the fresh ocean breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig an der Prainha, da die Holzstege bei Nässe extrem rutschig sind. Mittags führt die Tour entlang der Küste, wo wasserfeste Kleidung vor dem Schlagregen schützt. Nachmittags bietet das Palacete eine willkommene Pause im Trockenen. Achten Sie auf den Radwegen auf Pfützen und reduzierten Grip. Der Tag endet mit der Gewissheit, dem Wetter getrotzt zu haben.",
+            "hu": "Kezdje óvatosan a napot a Prainha környékén, mert a fapallók vizesen rendkívül csúszósak. Délben a part menti tekerés közben a vízálló ruházat véd a szakadó esőtől. Délután a Palacete épülete kínál kellemes pihenőt a szárazon. Figyeljen a kerékpárutakon az tócsákra és a csökkent tapadásra. Az este a jól megérdemelt pihenésé egy meleg szobában.",
+            "ro": "Începeți cu prudență la Prainha, deoarece pasarelele de lemn sunt extrem de alunecoase când sunt ude. La prânz, tura de-a lungul coastei necesită haine impermeabile împotriva ploii. După-amiaza, Palatul oferă o pauză binemeritată la uscat. Fiți atenți la bălți și aderența redusă pe pistele de biciclete. Seara se încheie cu relaxare la căldură.",
+            "en": "Start cautiously at Prainha, as wooden walkways are extremely slippery when wet. At noon, cycling along the coast requires full waterproof gear against the driving rain. In the afternoon, the Palacete offers a welcome break in the dry. Watch out for puddles and reduced grip on the bike paths. The day ends with a well-deserved rest in a warm room."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prainha",
+                "hu": "Prainha",
+                "ro": "Prainha",
+                "en": "Prainha"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf den nassen Holzplanken; genießen Sie den Blick auf die raue See nur im Stillstand.",
+                "hu": "Kerülje az erős fékezést a nedves fapallókon; a viharos tenger látványát csak megállva, biztonságban élvezze.",
+                "ro": "Evitați frânarea bruscă pe scândurile de lemn ude; admirați marea agitată doar după ce ați oprit în siguranță.",
+                "en": "Avoid hard braking on the wet wooden planks; enjoy the view of the rough sea only after coming to a complete stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Mar",
+                "hu": "Praia da Foz do Arelho-Mar",
+                "ro": "Praia da Foz do Arelho-Mar",
+                "en": "Praia da Foz do Arelho-Mar"
+              },
+              "tip_5lang": {
+                "de": "Der Wind drückt den Regen hier oft waagerecht; tragen Sie eine Schutzbrille oder ein Visier, um die Sicht beim Fahren zu behalten.",
+                "hu": "A szél itt gyakran vízszintesen fújja az esőt; viseljen védőszemüveget vagy ellenzőt, hogy menet közben is lásson.",
+                "ro": "Vântul suflă adesea ploaia orizontal aici; purtați ochelari de protecție pentru a menține vizibilitatea în timp ce pedalați.",
+                "en": "The wind often blows the rain horizontally here; wear protective glasses or a visor to maintain visibility while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete Conde de Almeida Araújo",
+                "hu": "Palacete Conde de Almeida Araújo",
+                "ro": "Palacete Conde de Almeida Araújo",
+                "en": "Palacete Conde de Almeida Araújo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Kleidung kurz auszuschütteln; die historischen Mauern bieten guten Windschutz für eine Pause.",
+                "hu": "Használja ki a megállót a vizes ruhák lerázására; a történelmi falak kiváló szélvédelmet nyújtanak a pihenőhöz.",
+                "ro": "Folosiți oprirea pentru a scutura hainele ude; zidurile istorice oferă o protecție excelentă împotriva vântului pentru o pauză.",
+                "en": "Use this stop to shake off wet gear; the historic walls provide excellent wind protection for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Lagoa",
+                "hu": "Praia da Foz do Arelho-Lagoa",
+                "ro": "Praia da Foz do Arelho-Lagoa",
+                "en": "Praia da Foz do Arelho-Lagoa"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zum weichen Uferrand, da der Sand bei Regen instabil werden kann; bleiben Sie auf dem asphaltierten Weg.",
+                "hu": "Tartson távolságot a puha partéltől, mert a homok az esőben instabillá válhat; maradjon végig az aszfaltozott úton.",
+                "ro": "Păstrați distanța de marginea moale a țărmului, deoarece nisipul poate deveni instabil la ploaie; rămâneți pe asfalt.",
+                "en": "Keep your distance from the soft shoreline as the sand can become unstable in the rain; stay on the paved path at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Rolotes",
+                "hu": "Praia das Rolotes",
+                "ro": "Praia das Rolotes",
+                "en": "Praia das Rolotes"
+              },
+              "tip_5lang": {
+                "de": "Ein heißes Getränk bei den Rolotes ist der perfekte Motivationsschub, um die restliche Strecke im Regen zu bewältigen.",
+                "hu": "Egy forró ital a büféknél a tökéletes motivációs lökés, hogy teljesítse a túra hátralévő részét az esőben.",
+                "ro": "O băutură fierbinte la rulote este imboldul perfect de motivație pentru a parcurge restul traseului prin ploaie.",
+                "en": "A hot drink at the food trucks is the perfect motivational boost to tackle the rest of the route in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo Furado",
+                "hu": "Penedo Furado",
+                "ro": "Penedo Furado",
+                "en": "Penedo Furado"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab, da Sturmböen es leicht umwerfen können; die Aussicht auf die raue See belohnt die Mühen.",
+                "hu": "Támassza le biztonságosan a biciklit, mert a szélrohamok könnyen feldönthetik; a haragos tenger látványa kárpótol a fáradtságért.",
+                "ro": "Parcați bicicleta în siguranță, deoarece rafalele de vânt o pot răsturna ușor; vederea mării furioase merită efortul.",
+                "en": "Park your bike securely as wind gusts can easily knock it over; the view of the angry sea compensates for the effort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radtour bei Prainha startet frisch und belebend. Mittags wärmt die Sonne an der Praia-Mar, doch der Fahrtwind erfordert Thermo-Kleidung. Nachmittags ist das Palacete ein kultureller Höhepunkt im sanften Winterlicht. Achten Sie auf die Uhr: Nach 16:30 Uhr sinken die Temperaturen schnell und die Dunkelheit bricht ein. Ein aktiver Wintertag, der mit einem warmen Tee endet.",
+            "hu": "A reggeli tekerés a Prainhánál frissítő és élénkítő. Délben a nap melenget a Praia-Marparton, de a menetszél miatt termoruházat szükséges. Délután a Palacete kulturális fénypont a lágy téli fényekben. Figyeljen az időre: 16:30 után a hőmérséklet gyorsan süllyed és beáll a sötét. Aktív téli nap, amely egy forró teával zárul.",
+            "ro": "Tura de dimineață la Prainha este revigorantă. La prânz, soarele încălzește plaja, dar vântul necesită îmbrăcăminte termică. După-amiaza, Palatul este un punct cultural în lumina blândă de iarnă. Atenție la timp: după 16:30 temperaturile scad rapid și se întunecă. O zi activă de iarnă care se încheie cu un ceai fierbinte.",
+            "en": "The morning ride at Prainha is refreshing and invigorating. At noon, the sun warms the beach, but the wind chill requires thermal gear. In the afternoon, the Palacete is a cultural highlight in the soft winter light. Watch the time: after 4:30 PM, temperatures drop quickly and darkness sets in. An active winter day ending with a hot tea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prainha",
+                "hu": "Prainha",
+                "ro": "Prainha",
+                "en": "Prainha"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Küstenwind; die leeren Wege bieten jetzt viel Platz für entspanntes Fahren.",
+                "hu": "Viseljen kesztyűt a hideg tengeri szél ellen; az üres utak ilyenkor bőséges helyet biztosítanak a zavartalan tekeréshez.",
+                "ro": "Purtați mănuși împotriva vântului rece de coastă; drumurile goale oferă acum mult spațiu pentru o plimbare relaxată.",
+                "en": "Wear gloves against the cold coastal wind; the empty paths now offer plenty of space for relaxed cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Mar",
+                "hu": "Praia da Foz do Arelho-Mar",
+                "ro": "Praia da Foz do Arelho-Mar",
+                "en": "Praia da Foz do Arelho-Mar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die intensive Wintersonne am Meer; achten Sie auf Sandverwehungen auf den Wegen, die den Grip beeinträchtigen können.",
+                "hu": "Élvezze az intenzív téli napsütést a tengerparton; ügyeljen az útra fújt homokra, amely csökkentheti a gumi tapadását.",
+                "ro": "Bucurați-vă de soarele intens de iarnă la mare; atenție la nisipul suflat pe drum care poate reduce aderența anvelopelor.",
+                "en": "Enjoy the intense winter sun by the sea; watch out for sand drifts on the paths which can affect tire grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacete Conde de Almeida Araújo",
+                "hu": "Palacete Conde de Almeida Araújo",
+                "ro": "Palacete Conde de Almeida Araújo",
+                "en": "Palacete Conde de Almeida Araújo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine Pause, um die Wintersonne im windgeschützten Garten zu genießen, bevor die Tour weitergeht.",
+                "hu": "Tartson itt egy pihenőt, hogy élvezze a téli napsütést a szélvédett kertben, mielőtt folytatná a túrát.",
+                "ro": "Faceți o pauză aici pentru a vă bucura de soarele de iarnă în grădina ferită de vânt înainte de a continua traseul.",
+                "en": "Take a break here to enjoy the winter sun in the wind-sheltered garden before continuing your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Lagoa",
+                "hu": "Praia da Foz do Arelho-Lagoa",
+                "ro": "Praia da Foz do Arelho-Lagoa",
+                "en": "Praia da Foz do Arelho-Lagoa"
+              },
+              "tip_5lang": {
+                "de": "Die flache Wintersonne erzeugt wunderschöne Reflexionen auf der ruhigen Lagune; halten Sie für ein schnelles Foto an.",
+                "hu": "Az alacsony téli nap gyönyörű tükröződéseket hoz létre a sima vízfelületen; álljon meg egy gyors fotóra a parton.",
+                "ro": "Soarele jos de iarnă creează reflexii superbe pe suprafața netedă a lagunei; opriți-vă pentru o fotografie rapidă.",
+                "en": "The low winter sun creates beautiful reflections on the smooth surface of the lagoon; stop for a quick photo along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Rolotes",
+                "hu": "Praia das Rolotes",
+                "ro": "Praia das Rolotes",
+                "en": "Praia das Rolotes"
+              },
+              "tip_5lang": {
+                "de": "Die Rolotes sind im Winter ein wichtiger Stützpunkt für etwas Warmes; wärmen Sie Ihre Hände an einem Kaffeebecher auf.",
+                "hu": "A büfék télen fontos bázist jelentenek valami meleghez; melegítse fel a kezeit egy forró kávésbögrével.",
+                "ro": "Rulotele sunt o bază importantă iarna pentru ceva cald; încălziți-vă mâinile cu o cană de cafea fierbinte.",
+                "en": "The food trucks are an important base in winter for something warm; warm your hands with a hot coffee mug."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo Furado",
+                "hu": "Penedo Furado",
+                "ro": "Penedo Furado",
+                "en": "Penedo Furado"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch hier rechtzeitig; das Licht schwindet im Winter schnell, und die Rückfahrt sollte sicher sein.",
+                "hu": "Időben fejezze be az itteni látogatást; a fény télen gyorsan fogy, a visszaútnak pedig biztonságosnak kell lennie.",
+                "ro": "Încheiați vizita aici la timp; lumina dispare repede iarna, iar drumul de întoarcere trebuie să fie sigur.",
+                "en": "Finish your visit here in good time; light fades quickly in winter, and your return journey should be safe."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen a gyönyörű Palacete Conde de Almeida Araújohoz, hogy megismerje a helyi történelmet, majd irány a hatalmas Praia da Foz do Arelho-Mar.\n\nTegyen egy festői autózást a régión keresztül a lagúna déli oldalára, majd érkezzen meg a Miradouro do Gronho panorámás kilátójához.\n\nEreszkedjen le a Praia do Bom Sucesso partjára, felfedezve azt a hosszú homokpadot, amely megvédi a nyugodt lagúnát a nyílt óceántól.\n\nZárja autós túráját a Praia da Tramagueira partján, élvezve a békés atmoszférát és a gyönyörű parti színeket a nap végén.",
         "ro": "Conduceți la frumosul Palacete Conde de Almeida Araújo pentru a aprecia istoria locală, apoi mergeți direct la vasta Praia da Foz do Arelho-Mar.\n\nFaceți o plimbare pitorească prin regiune spre partea de sud a lagunei, ajungând la Miradouro do Gronho pentru vederi panoramice.\n\nCoborâți la Praia do Bom Sucesso, explorând bancul lung de nisip care protejează apele liniștite ale lagunei de oceanul deschis.\n\nÎncheiați turul cu mașina la Praia da Tramagueira, bucurându-vă de atmosfera liniștită și de culorile frumoase ale coastei la finalul zilei.",
         "en": "Drive to the beautiful Palacete Conde de Almeida Araújo to appreciate local history, then head straight to the vast Praia da Foz do Arelho-Mar.\n\nTake a scenic drive across the region to the southern side of the lagoon, arriving at Miradouro do Gronho for panoramic views.\n\nDescend to Praia do Bom Sucesso, exploring the long sandy spit that protects the calm lagoon waters from the open ocean.\n\nEnd your driving tour at Praia da Tramagueira, enjoying the peaceful atmosphere and beautiful coastal colors as the day concludes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine entspannte Panoramafahrt, während der Regen gegen die Scheiben peitscht. Morgens bietet das Palacete einen würdevollen, trockenen Start. Mittags ermöglichen die Aussichtspunkte wie der Miradouro do Gronho spektakuläre Blicke auf die tosende See, direkt aus dem geschützten Auto. Nachmittags erkunden Sie die Küstenstraßen, bevor Sie den Abend gemütlich bei Kerzenschein ausklingen lassen.",
+            "hu": "Élvezze a pihentető panorámaautózást, miközben az eső a szélvédőn kopog. Reggel a Palacete méltóságteljes, száraz kezdést biztosít. Délben a kilátópontok, mint a Miradouro do Gronho, látványos panorámát nyújtanak a háborgó tengerre közvetlenül a védett autóból. Délután fedezze fel a part menti utakat, majd zárja az estét egy hangulatos, gyertyafényes helyen.",
+            "ro": "Bucurați-vă de o plimbare panoramică relaxantă în timp ce ploaia bate în parbriz. Dimineața, Palatul oferă un început demn și uscat. La prânz, punctele de observație precum Miradouro do Gronho oferă vederi spectaculoase asupra mării agitate, direct din mașină. După-amiaza, explorați drumurile de coastă înainte de o seară liniștită.",
+            "en": "Enjoy a relaxing scenic drive while the rain taps on the windshield. In the morning, the Palacete provides a dignified, dry start. At noon, viewpoints like Miradouro do Gronho offer spectacular vistas of the churning sea, directly from the comfort of your car. In the afternoon, explore the coastal roads before ending the evening in a cozy setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacete Conde de Almeida Araújo",
+                "hu": "Palacete Conde de Almeida Araújo",
+                "ro": "Palacete Conde de Almeida Araújo",
+                "en": "Palacete Conde de Almeida Araújo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Gebäude zu gelangen; die Architektur wirkt bei grauem Himmel besonders erhaben.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be; az épület architektúrája szürke égbolt alatt különösen fenségesnek hat.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat înăuntru; arhitectura clădirii pare deosebit de grandioasă sub cerul gri.",
+                "en": "Park close to the entrance to stay dry on your way in; the building's architecture looks particularly grand under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Mar",
+                "hu": "Praia da Foz do Arelho-Mar",
+                "ro": "Praia da Foz do Arelho-Mar",
+                "en": "Praia da Foz do Arelho-Mar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als Loge für das Naturschauspiel der Wellen; die Scheibenwischer bieten Ihnen freien Blick auf die Gischt.",
+                "hu": "Használja a parkolót páholynak a hullámok természetes látványához; az ablaktörlők tiszta kilátást biztosítanak a sós permetre.",
+                "ro": "Folosiți parcarea ca pe o lojă pentru spectacolul natural al valurilor; ștergătoarele vă oferă o vedere clară asupra spumei mării.",
+                "en": "Use the parking lot as a front-row seat for the natural spectacle of the waves; the wipers provide a clear view of the sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Gronho",
+                "hu": "Miradouro do Gronho",
+                "ro": "Miradouro do Gronho",
+                "en": "Miradouro do Gronho"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie das Panorama der stürmischen Lagune; der Miradouro ist perfekt für Fotos ohne nass zu werden.",
+                "hu": "Maradjon az autóban, és élvezze a viharos lagúna panorámáját; a kilátó tökéletes fotózáshoz anélkül, hogy bőrig ázna.",
+                "ro": "Rămâneți în mașină și bucurați-vă de panorama lagunei în timpul furtunii; punctul de belvedere este perfect pentru poze fără a vă uda.",
+                "en": "Stay in the car and enjoy the panorama of the stormy lagoon; this viewpoint is perfect for photos without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Bom Sucesso",
+                "hu": "Praia do Bom Sucesso",
+                "ro": "Praia do Bom Sucesso",
+                "en": "Praia do Bom Sucesso"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt durch regenverhangene Hügel; der Blick auf das andere Ufer der Lagune ist bei Regen besonders geheimnisvoll.",
+                "hu": "Az idevezető út eső áztatta dombokon át vezet; a lagúna túlsó partja ilyenkor különösen titokzatosnak és távolinak tűnik.",
+                "ro": "Drumul până aici trece prin dealuri pline de ploaie; vederea către celălalt mal al lagunei este deosebit de misterioasă acum.",
+                "en": "The drive here leads through rain-swept hills; the view of the lagoon's far shore is particularly mysterious during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Tramagueira",
+                "hu": "Praia da Tramagueira",
+                "ro": "Praia da Tramagueira",
+                "en": "Praia da Tramagueira"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den wilden Atlantik aus dem warmen Auto, bevor Sie die Heizung aufdrehen und sich auf den Heimweg machen.",
+                "hu": "Még egy utolsó pillantás a vad Atlanti-óceánra a meleg autóból, mielőtt feltekerné a fűtést és elindulna hazafelé.",
+                "ro": "O ultimă privire asupra Atlanticului sălbatic din mașina caldă, înainte de a porni căldura la maximum și a pleca spre casă.",
+                "en": "Take one last look at the wild Atlantic from the warm car before turning up the heater and heading back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Foz do Arelho im Winter komfortabel mit dem Auto. Morgens strahlt das Palacete im klaren Licht. Mittags wärmt die Sonne durch die Windschutzscheibe, während Sie die Aussichtspunkte anfahren. Nachmittags ist die Fahrt zum Miradouro do Gronho ein Muss für den frühen Sonnenuntergang gegen 17:00 Uhr. Die leeren Straßen machen das Fahren zu einem puren Genuss in der winterlichen Stille.",
+            "hu": "Fedezze fel Foz do Arelhót télen kényelmesen, autóval. Reggel a Palacete ragyog a tiszta fényben. Délben a nap melenget a szélvédőn keresztül, miközben bejárja a kilátópontokat. Délután a Miradouro do Gronho kötelező program a korai, 17:00-as naplemente miatt. Az üres utak és a téli csend a vezetés élményét tiszta élvezetté teszik.",
+            "ro": "Descoperiți Foz do Arelho iarna confortabil, cu mașina. Dimineața, Palatul strălucește în lumina clară. La prânz, soarele vă încălzește prin parbriz în timp ce vizitați punctele de belvedere. După-amiaza, Miradouro do Gronho este obligatoriu pentru apusul devreme de la ora 17:00. Drumurile goale fac din condus o adevărată plăcere.",
+            "en": "Discover Foz do Arelho in winter comfortably by car. In the morning, the Palacete shines in the clear light. At noon, the sun warms you through the windshield as you visit the viewpoints. In the afternoon, Miradouro do Gronho is a must for the early 5 PM sunset. The empty roads and winter silence make driving a pure pleasure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacete Conde de Almeida Araújo",
+                "hu": "Palacete Conde de Almeida Araújo",
+                "ro": "Palacete Conde de Almeida Araújo",
+                "en": "Palacete Conde de Almeida Araújo"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für lange Schatten und dramatische Kontraste am Gebäude; perfekt für Architekturaufnahmen am Morgen.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat és drámai kontrasztokat vet az épületre; tökéletes reggeli építészeti fotókhoz.",
+                "ro": "Soarele jos creează umbre lungi și contraste dramatice pe clădire; perfect pentru fotografii de arhitectură dimineața.",
+                "en": "The low sun creates long shadows and dramatic contrasts on the building; it's perfect for architectural photography in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Foz do Arelho-Mar",
+                "hu": "Praia da Foz do Arelho-Mar",
+                "ro": "Praia da Foz do Arelho-Mar",
+                "en": "Praia da Foz do Arelho-Mar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den weiten Ozean; im Winter ist die Luft oft so klar, dass der Horizont messerscharf erscheint.",
+                "hu": "Élvezze a kilátást a végtelen óceánra; télen a levegő gyakran olyan tiszta, hogy a horizont pengeélesnek tűnik a távolban.",
+                "ro": "Bucurați-vă de vederea oceanului vast; iarna aerul este adesea atât de clar încât orizontul pare extrem de bine definit.",
+                "en": "Enjoy the view of the vast ocean; in winter, the air is often so clear that the horizon appears razor-sharp in the distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Gronho",
+                "hu": "Miradouro do Gronho",
+                "ro": "Miradouro do Gronho",
+                "en": "Miradouro do Gronho"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft hier gegen 16:45 Uhr, um den winterlichen Sonnenuntergang über der Lagune in voller Pracht zu erleben.",
+                "hu": "Tervezze ide az érkezést 16:45 körül, hogy teljes pompájában élhesse át a téli naplementét a lagúna felett.",
+                "ro": "Planificați sosirea aici în jurul orei 16:45 pentru a experimenta apusul de iarnă peste lagună în toată splendoarea sa.",
+                "en": "Plan to arrive here around 4:45 PM to experience the winter sunset over the lagoon in all its magnificent glory."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Bom Sucesso",
+                "hu": "Praia do Bom Sucesso",
+                "ro": "Praia do Bom Sucesso",
+                "en": "Praia do Bom Sucesso"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Seite der Lagune lädt zu einem kurzen Stopp ein; die Winterstille wird hier nur vom fernen Rauschen des Meeres unterbrochen.",
+                "hu": "A lagúna csendes oldala rövid megállóra csábít; a téli nyugalmat itt csak a tenger távoli morajlása töri meg néha.",
+                "ro": "Partea liniștită a lagunei vă invită la o scurtă oprire; liniștea iernii este întreruptă aici doar de vuietul îndepărtat al mării.",
+                "en": "The quiet side of the lagoon invites a short stop; the winter silence here is only broken by the distant roar of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Tramagueira",
+                "hu": "Praia da Tramagueira",
+                "ro": "Praia da Tramagueira",
+                "en": "Praia da Tramagueira"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die einsetzende Dämmerung zu beobachten, bevor es im Winter draußen schnell empfindlich kalt wird.",
+                "hu": "Tökéletes hely a beálló szürkület megfigyelésére, mielőtt télen kint hirtelen metszően hideggé válna a levegő.",
+                "ro": "Un loc perfect pentru a observa instalarea amurgului, înainte ca afară să se facă foarte frig în serile de iarnă.",
+                "en": "A perfect spot to observe the onset of twilight before the winter air outside turns sharply and significantly colder."
+              }
+            }
+          ]
+        }
       }
     }
   }

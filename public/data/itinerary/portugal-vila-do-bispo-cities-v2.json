@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Vila do Bispo kulturális szívében, a helyi templom csempéinek megcsodálásával.\n\nDélben merüljön el a régió gazdag történelmében a modern múzeumban és a központban.\n\nA délután festői túrát kínál a városon kívüli őskori megalitok felé.\n\nZárja a napot az ősi kövek közötti sétával a lemenő nap gyönyörű fényében.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Vila do Bispo, admirând azulejos de la biserica locală.\n\nLa amiază, pătrundeți în istoria zonei la muzeul modern și explorați centrul vibrant.\n\nDupă-amiaza vă oferă o drumeție pitorească dincolo de oraș, spre megaliții preistorici.\n\nÎncheiați-vă ziua rătăcind printre pietrele antice preistorice la frumosul apus al soarelui.",
         "en": "Start your morning exploring the cultural heart of Vila do Bispo, admiring the beautiful azulejos of the local church.\n\nBy midday, delve into the area's rich history at the modern museum and vibrant cultural center.\n\nThe afternoon offers a scenic hike out of town toward the fascinating prehistoric megaliths.\n\nConclude your day wandering among ancient standing stones under the warm setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der schützenden Stille der Kirche, während der Regen gegen die alten Mauern peitscht. Mittags bietet das Kulturzentrum einen trockenen Rückzugsort für Inspiration. Am Nachmittag erkunden wir das Museum, bevor wir uns gut eingepackt zu den Menhiren wagen. Der Abend endet früh in einer gemütlichen Taverne, da die Feuchtigkeit in die Glieder zieht.",
+            "hu": "Reggel a templom vastag falai között keresünk menedéket a doboló eső elől. Délben a kulturális központ fedett tereiben pihenünk meg. Délután a múzeum kiállításai után vízhatlan öltözetben indulunk a misztikus ködbe burkolózó menhirek felé. Az este már egy meleg kávézóban talál minket, ahol az Atlanti-óceán felől érkező párás szél elől rejtőzünk el.",
+            "ro": "Dimineața începe sub protecția zidurilor bisericii, în timp ce ploaia bate în ferestre. La prânz, centrul cultural oferă un refugiu uscat și plin de artă. După-amiaza vizităm muzeul, apoi ne echipăm cu pelerine pentru a vedea menhirele solitare sub cerul gri. Seara ne retragem devreme la căldură, evitând umezeala pătrunzătoare de pe străzile înguste.",
+            "en": "Morning starts sheltered within the church's thick walls as rain drums outside. At noon, the cultural center provides a dry haven for artistic inspiration. In the afternoon, we explore the museum before donning waterproofs to visit the mystical menhirs in the mist. Evening finds us seeking warmth in a local tavern as the damp Atlantic air settles over the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja Matriz de Nossa Senhora da Conceição",
+                "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+                "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+                "en": "Igreja Matriz de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Azulejos im trockenen Innenraum; die Kirche ist der ideale Ort, um einen starken Regenschauer in spiritueller Ruhe abzuwarten.",
+                "hu": "Csodálja meg a pompás azulejo csempéket a száraz belső térben; a templom ideális helyszín egy heves zápor csendes és spirituális átvészeléséhez.",
+                "ro": "Admirați plăcile de azulejos superbe în interiorul uscat; biserica este locul ideal pentru a aștepta trecerea unei ploi torențiale în liniște spirituală.",
+                "en": "Admire the magnificent azulejo tiles in the dry interior; the church is the ideal place to wait out a heavy downpour in peaceful, spiritual silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Centro Cultural",
+                "ro": "Centro Cultural",
+                "en": "Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die wechselnden Ausstellungen als kulturellen Schutzraum; prüfen Sie am Eingang, ob Sie Ihren nassen Regenschirm im Ständer lassen können.",
+                "hu": "Használja ki az időszaki kiállításokat kulturális menedékként; a bejáratnál ellenőrizze, hogy a vizes esernyőjét a tartóban hagyhatja-e a látogatás idejére.",
+                "ro": "Folosiți expozițiile temporare ca refugiu cultural; verificați la intrare dacă puteți lăsa umbrela udă în suport pentru a explora galeria confortabil.",
+                "en": "Use the rotating exhibitions as a cultural shelter; check at the entrance if you can leave your wet umbrella in the stand to explore comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Vila do Bispo",
+                "hu": "Museo de Vila do Bispo",
+                "ro": "Museo de Vila do Bispo",
+                "en": "Museo de Vila do Bispo"
+              },
+              "tip_5lang": {
+                "de": "Vertiefen Sie sich in die regionale Geschichte, während es draußen stürmt; die interaktiven Displays sind perfekt, um die Zeit bis zur Regenpause zu nutzen.",
+                "hu": "Mélyedjen el a helyi történelemben, miközben odakint tombol a vihar; az interaktív kijelzők tökéletesek az idő eltöltésére a következő esőszünetig.",
+                "ro": "Aprofundați istoria locală în timp ce afară plouă; afișajele interactive sunt perfecte pentru a trece timpul până la următoarea pauză de ploaie.",
+                "en": "Delve into local history while the storm rages outside; the interactive displays are perfect for spending time until the next break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir da Casa do Francês",
+                "hu": "Menir da Casa do Francês",
+                "ro": "Menir da Casa do Francês",
+                "en": "Menir da Casa do Francês"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorische Stätte wirkt im Regen düster-schön; tragen Sie unbedingt wasserfeste Wanderschuhe, da die unbefestigten Pfade schnell schlammig werden.",
+                "hu": "Az őskori lelőhely borongósan szép az esőben; viseljen vízálló túracipőt, mert a kiépítetlen ösvények ilyenkor gyorsan sárossá és csúszóssá válnak.",
+                "ro": "Situl preistoric are o frumusețe sumbră în ploaie; purtați bocanci impermeabili, deoarece potecile neamenajate devin rapid noroioase și alunecoase.",
+                "en": "The prehistoric site is gloomily beautiful in the rain; wear waterproof hiking boots as the unpaved paths quickly become muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes I",
+                "hu": "Cromeleque de Amantes I",
+                "ro": "Cromeleque de Amantes I",
+                "en": "Cromeleque de Amantes I"
+              },
+              "tip_5lang": {
+                "de": "Ein mystischer Abschluss des Tages im sanften Nieselregen; halten Sie die Kamera unter einer Schutzhülle, um die nasse Steinstruktur festzuhalten.",
+                "hu": "A nap misztikus lezárása a szemerkélő esőben; tartsa a fényképezőgépét tokban, miközben megörökíti a nedves kőalakzatok különleges textúráját.",
+                "ro": "Un final mistic de zi în ploaia fină; țineți camera sub o protecție în timp ce surprindeți textura deosebită a pietrelor umede în amurg.",
+                "en": "A mystical end to the day in the light drizzle; keep your camera under a cover while capturing the unique texture of the wet stones at dusk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne steht tief und taucht den Morgen in ein klares, goldenes Licht. Mittags suchen wir Schutz vor dem kühlen Wind in den Gassen des Ortes. Am Nachmittag nutzen wir die kurzen Sonnenstunden für die Wanderung zu den Megalithen. Gegen 17:00 Uhr sinkt die Temperatur rapide, und wir beenden den Tag bei einem heißen Getränk am Kamin.",
+            "hu": "A téli nap alacsonyan jár, tiszta arany fénybe vonva a reggelt. Délben a hűvös atlanti szél elől a falu védettebb utcáiba húzódunk. Délután sietnünk kell a megalitokhoz, hogy még sötétedés előtt láthassuk őket. 17:00 körül a hőmérséklet gyorsan süllyed, így a napot egy forró tea mellett, fedett helyen zárjuk.",
+            "ro": "Soarele de iarnă stă jos, scăldând dimineața într-o lumină aurie clară. La prânz căutăm adăpost de vântul rece în labirintul de străduțe. După-amiaza profităm de puținele ore de lumină pentru a merge la megaliți. În jurul orei 17:00 temperatura scade brusc, așa că încheiem ziua cu o băutură caldă la un local.",
+            "en": "The winter sun hangs low, bathing the morning in clear, golden light. At noon, we seek shelter from the chilly Atlantic wind in the village side-streets. In the afternoon, we must hurry to the megaliths to catch the last rays of daylight. Around 17:00, the temperature drops sharply, so we end the day with a hot drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja Matriz de Nossa Senhora da Conceição",
+                "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+                "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+                "en": "Igreja Matriz de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Wärme der Morgensonne; genießen Sie die friedliche Atmosphäre, bevor Sie sich wieder dem frischen Winterwind aussetzen.",
+                "hu": "A vastag kőfalak még őrzik a reggeli napsütés erejét; élvezze a békés hangulatot, mielőtt újra kimerészkedne a friss és csípős téli szélbe.",
+                "ro": "Zidurile groase de piatră rețin căldura soarelui de dimineață; savurați atmosfera liniștită înainte de a înfrunta din nou vântul rece de iarnă.",
+                "en": "The thick stone walls hold some warmth from the morning sun; enjoy the peaceful atmosphere before heading back out into the crisp winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Centro Cultural",
+                "ro": "Centro Cultural",
+                "en": "Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen zwischen den Etappen; nutzen Sie die beheizten Innenräume, um Ihre Pläne für den restlichen kurzen Wintertag zu ordnen.",
+                "hu": "Ideális hely a felmelegedésre két megálló között; használja ki a fűtött belső tereket, hogy átnézze a rövid téli nap hátralévő programját.",
+                "ro": "Un loc ideal pentru a vă încălzi între etape; profitați de spațiile interioare încălzite pentru a vă planifica restul scurtului itinerar de iarnă.",
+                "en": "An ideal place to warm up between stops; take advantage of the heated interiors to organize your plans for the remainder of the short winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Vila do Bispo",
+                "hu": "Museo de Vila do Bispo",
+                "ro": "Museo de Vila do Bispo",
+                "en": "Museo de Vila do Bispo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag, um die wärmste Zeit des Tages im Inneren zu verbringen und sich optimal auf den megalithischen Pfad vorzubereiten.",
+                "hu": "Látogassa meg a múzeumot kora délután, hogy a nap legmelegebb óráit bent töltse, és alaposan felkészüljön a megalitikus ösvény felfedezésére.",
+                "ro": "Vizitați muzeul la începutul după-amiezii pentru a petrece cele mai calde ore în interior și pentru a vă pregăti pentru traseul megalitic.",
+                "en": "Visit the museum in the early afternoon to spend the warmest hours of the day inside while preparing for the upcoming megalithic trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir da Casa do Francês",
+                "hu": "Menir da Casa do Francês",
+                "ro": "Menir da Casa do Francês",
+                "en": "Menir da Casa do Francês"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem offenen Feld kann schneidend sein; tragen Sie eine winddichte Jacke und eine Mütze, um die prähistorische Kulisse entspannt zu genießen.",
+                "hu": "A nyílt mezőn a szél metsző lehet; viseljen szélálló kabátot és sapkát, hogy zavartalanul élvezhesse az őskori díszletek látványát.",
+                "ro": "Vântul pe câmpul deschis poate fi tăios; purtați o jachetă rezistentă la vânt și o căciulă pentru a savura peisajul preistoric fără disconfort.",
+                "en": "The wind in the open fields can be biting; wear a windproof jacket and a hat to enjoy the prehistoric scenery without catching a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes I",
+                "hu": "Cromeleque de Amantes I",
+                "ro": "Cromeleque de Amantes I",
+                "en": "Cromeleque de Amantes I"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr hinter den Steinen; der Kontrast der Silhouetten gegen den Winterhimmel ist spektakulär.",
+                "hu": "Nézze meg a korai naplementét 17:00 körül a kövek mögött; a sziluettek kontrasztja a téli égbolton ilyenkor egészen látványos és különleges.",
+                "ro": "Urmăriți apusul timpuriu în jurul orei 17:00 în spatele pietrelor; contrastul siluetelor pe cerul de iarnă este absolut spectaculos.",
+                "en": "Watch the early sunset around 17:00 behind the stones; the contrast of the silhouettes against the crisp winter sky is truly spectacular."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a főtéren, a lenyűgöző történelmi templom megtekintésével.\n\nDélben látogasson el a helyi múzeumba, hogy megértse a régió mély és ősi gyökereit.\n\nDélután tekerjen ki a zord vidékre, hogy felfedezze az elszigetelt, rejtett menhíreket.\n\nAz estéje a szabad ég alatti őskori műemlékek közötti nyugodt kerékpározással csendesedik el.",
         "ro": "Începeți-vă aventura cu bicicleta în piața orașului, vizitând frumoasa biserică istorică.\n\nAmiaza vă aduce la muzeul local pentru a înțelege pe deplin rădăcinile antice ale zonei.\n\nDupă-amiaza, pedalați în peisajul rural accidentat pentru a descoperi menhire ascunse.\n\nSeara se încheie liniștit în timp ce pedalați printre fascinantele monumente preistorice în aer liber.",
         "en": "Kick off your cycling adventure in the town square, visiting the area's beautiful historic church.\n\nMidday brings you to the local museum to fully understand the region's ancient and maritime roots.\n\nIn the afternoon, pedal out to the rugged open countryside to discover isolated, hidden menhirs.\n\nYour evening winds down gently as you cycle between fascinating prehistoric monuments in the open air."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den glatten Pflastersteinen des Dorfes. Wir starten an der Kirche und suchen bald Schutz im Museum. Die Fahrt zu den Menhiren führt über aufgeweichte Schotterwege, die volle Konzentration verlangen. Am späten Nachmittag kehren wir mit schlammigen Reifen zurück und freuen uns auf eine warme Dusche.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a falu csúszós macskakövein. A templomtól indulunk, de hamar a múzeumba menekülünk. A menhirek felé vezető út felázott murvás ösvényeken visz, ami teljes koncentrációt igényel. Késő délután sáros kerekekkel térünk vissza, alig várva egy forró zuhanyt a szálláson.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe pavajul alunecos din sat. Pornim de la biserică, dar căutăm curând adăpost la muzeu. Drumul spre menhire trece prin poteci de pietriș umede, cerând concentrare maximă. După-amiaza târziu ne întoarcem cu roțile pline de noroi, visând la un duș fierbinte.",
+            "en": "Cycling in the rain requires caution on the village's slippery cobblestones. We start at the church but soon seek refuge in the museum. The ride to the menhirs involves wet gravel paths demanding full concentration. In the late afternoon, we return with muddy tires, looking forward to a warm shower."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja Matriz de Nossa Senhora da Conceição",
+                "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+                "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+                "en": "Igreja Matriz de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Besuch, um Ihre Regenkleidung zu richten, bevor es auf die offene Strecke geht.",
+                "hu": "Parkolja le a biciklijét védett helyen, és használja ki a látogatást az esőruházat igazítására, mielőtt nekivágna a nyílt országútnak.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de vizită pentru a vă ajusta echipamentul de ploaie înainte de a porni la drum lung.",
+                "en": "Park your bike in a sheltered spot and use the visit to adjust your rain gear before heading out onto the open road segments."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Vila do Bispo",
+                "hu": "Museo de Vila do Bispo",
+                "ro": "Museo de Vila do Bispo",
+                "en": "Museo de Vila do Bispo"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Muskeln im Trockenen zu lockern; prüfen Sie Ihre Bremsen, da der Schlamm auf den Wegen die Bremsleistung mindern kann.",
+                "hu": "Tökéletes megálló az izmok ellazítására a szárazon; ellenőrizze a fékeket, mert az utakon lévő sár és víz csökkentheti a fékteljesítményt.",
+                "ro": "O oprire perfectă pentru a vă relaxa mușchii la adăpost; verificați frânele, deoarece noroiul de pe drumuri poate reduce eficiența frânării.",
+                "en": "A perfect stop to loosen your muscles in the dry; check your brakes, as mud and water on the paths can reduce braking performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir da Casa do Francês 1",
+                "hu": "Menir da Casa do Francês 1",
+                "ro": "Menir da Casa do Francês 1",
+                "en": "Menir da Casa do Francês 1"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem unbefestigten Weg; der Menhir wirkt im Regen besonders archaisch, aber der Boden kann tückisch rutschig sein.",
+                "hu": "Haladjon lassan a kiépítetlen úton; a menhir az esőben különösen archaikusnak tűnik, de a talaj alattomosan csúszós és ragadós lehet.",
+                "ro": "Mergeți încet pe drumul neamenajat; menhirul pare deosebit de arhaic în ploaie, dar solul poate fi înșelător de alunecos și moale.",
+                "en": "Ride slowly on the unpaved road; the menhir looks particularly archaic in the rain, but the ground can be treacherously slippery and soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir Pedra Escorregadia 2",
+                "hu": "Menir Pedra Escorregadia 2",
+                "ro": "Menir Pedra Escorregadia 2",
+                "en": "Menir Pedra Escorregadia 2"
+              },
+              "tip_5lang": {
+                "de": "Der Name 'rutschiger Stein' ist bei Regen Programm; halten Sie genügend Abstand zu anderen Radfahrern auf dem schmalen, nassen Pfad.",
+                "hu": "A 'csúszós kő' név esőben különösen találó; tartson megfelelő követési távolságot a többi kerékpárostól a szűk és vizes ösvényen.",
+                "ro": "Numele de 'piatră alunecoasă' este foarte sugestiv pe ploaie; păstrați distanța față de alți bicicliști pe poteca îngustă și udă.",
+                "en": "The name 'slippery stone' is especially fitting in the rain; keep a safe distance from other cyclists on the narrow, wet path."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes II",
+                "hu": "Cromeleque de Amantes II",
+                "ro": "Cromeleque de Amantes II",
+                "en": "Cromeleque de Amantes II"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Lenkmanöver auf den nassen Grasflächen rund um die Steine; genießen Sie die Einsamkeit, die der Regen den Radfahrern bietet.",
+                "hu": "Kerülje a hirtelen kormánymozdulatokat a kövek körüli vizes füves területeken; élvezze a magányt, amit az esős idő nyújt a bringásoknak.",
+                "ro": "Evitați manevrele bruște pe iarba udă din jurul pietrelor; bucurați-vă de liniștea pe care ploaia o oferă bicicliștilor curajoși.",
+                "en": "Avoid abrupt steering maneuvers on the wet grassy areas around the stones; enjoy the solitude that the rainy weather offers to brave cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes I",
+                "hu": "Cromeleque de Amantes I",
+                "ro": "Cromeleque de Amantes I",
+                "en": "Cromeleque de Amantes I"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Sattel und Griffe trocken, bevor Sie die Rückfahrt antreten; die kühle Luft lässt den Regen auf dem Rad intensiver wirken.",
+                "hu": "Törölje szárazra a nyerget és a kormányt a visszaindulás előtt; a hűvös levegő miatt az eső intenzívebbnek érződik a kerékpáron.",
+                "ro": "Ștergeți șaua și ghidonul înainte de plecare; aerul rece face ca ploaia să se simtă mult mai intensă atunci când sunteți în mișcare.",
+                "en": "Wipe your saddle and handlebars dry before heading back; the cool air makes the rain feel much more intense while you are in motion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag mit einer frischen Brise vom Atlantik. Der Morgen beginnt zügig an der Kirche, während wir uns warm strampeln. Mittags nutzen wir das Museum zum Aufwärmen der Finger. Die Nachmittagstour zu den Menhiren bietet fantastische Fernsichten bei tiefstehender Sonne. Wichtig ist die Rückkehr vor 17:00 Uhr, wenn die Dämmerung und die Kälte einsetzen.",
+            "hu": "Tiszta téli nap, friss atlanti szellővel. A reggel tempósan indul a templomnál, miközben bemelegítjük az izmainkat. Délben a múzeumban melegítjük fel elgémberedett ujjainkat. A délutáni túra a menhirekhez fantasztikus kilátást nyújt az alacsonyan járó nap fényében. Fontos, hogy 17:00 előtt visszaérjünk a faluba.",
+            "ro": "O zi de iarnă senină, cu o briză proaspătă de la Atlantic. Dimineața începe în forță la biserică. La prânz folosim vizita la muzeu pentru a ne încălzi degetele amorțite. Turul de după-amiază spre menhire oferă vederi panoramice fantastice în lumina soarelui. Este esențial să revenim înainte de ora 17:00.",
+            "en": "A clear winter day with a fresh Atlantic breeze. The morning starts briskly at the church as we pedal to warm up. At noon, we use the museum visit to warm our chilled fingers. The afternoon tour to the menhirs offers fantastic views in the low sun. It is essential to return before 17:00 when the cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja Matriz de Nossa Senhora da Conceição",
+                "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+                "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+                "en": "Igreja Matriz de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Vorplatz, um Ihre Handschuhe und den Helm optimal einzustellen, bevor der Fahrtwind Sie abkühlt.",
+                "hu": "Használja ki a szélvédett előteret a kesztyűk és a sisak pontos beállítására, mielőtt a menetszél teljesen lehűtené a testét.",
+                "ro": "Folosiți curtea protejată de vânt pentru a vă ajusta mănușile și casca înainte ca vântul din timpul mersului să vă răcească.",
+                "en": "Use the wind-sheltered forecourt to properly adjust your gloves and helmet before the wind chill from riding cools you down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Vila do Bispo",
+                "hu": "Museo de Vila do Bispo",
+                "ro": "Museo de Vila do Bispo",
+                "en": "Museo de Vila do Bispo"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie etwas länger in den beheizten Räumen; die Durchblutung der Hände ist wichtig für eine sichere Bremskontrolle bei der Weiterfahrt.",
+                "hu": "Időzzön kicsit tovább a fűtött terekben; a kéz jó vérkeringése elengedhetetlen a fékek biztonságos kezeléséhez a további út során.",
+                "ro": "Zăboviți puțin mai mult în spațiile încălzite; circulația bună a mâinilor este esențială pentru controlul sigur al frânelor pe traseu.",
+                "en": "Stay a bit longer in the heated rooms; good circulation in your hands is essential for safe brake control during the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir da Casa do Francês 1",
+                "hu": "Menir da Casa do Francês 1",
+                "ro": "Menir da Casa do Francês 1",
+                "en": "Menir da Casa do Francês 1"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die Steinstrukturen scharf hervortreten; achten Sie bei Fotostopps darauf, nicht zu lange unbeweglich im Wind zu stehen.",
+                "hu": "A téli napfény élesen kiemeli a kövek textúráját; a fotómegállóknál ügyeljen rá, hogy ne álljon túl sokáig mozdulatlanul a szélben.",
+                "ro": "Soarele de iarnă scoate în evidență textura pietrelor; la opririle pentru poze, aveți grijă să nu stați nemișcat prea mult timp în vânt.",
+                "en": "The winter sun makes the stone textures stand out sharply; during photo stops, take care not to stand still in the wind for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir Pedra Escorregadia 2",
+                "hu": "Menir Pedra Escorregadia 2",
+                "ro": "Menir Pedra Escorregadia 2",
+                "en": "Menir Pedra Escorregadia 2"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrtgeschwindigkeit moderat, um den Windchill-Effekt zu minimieren, während Sie diese exponierte prähistorische Stelle passieren.",
+                "hu": "Tartsa mérsékelten a sebességet, hogy minimalizálja a menetszél hűtő hatását, miközben áthalad ezen a kitett őskori lelőhelyen.",
+                "ro": "Mențineți o viteză moderată pentru a minimiza efectul de răcire al vântului în timp ce treceți prin acest sit preistoric expus.",
+                "en": "Keep your speed moderate to minimize the wind chill effect while passing through this exposed and open prehistoric site."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes II",
+                "hu": "Cromeleque de Amantes II",
+                "ro": "Cromeleque de Amantes II",
+                "en": "Cromeleque de Amantes II"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort für ein schnelles Winter-Picknick im Stehen; die Sonnenstrahlen wärmen trotz der kühlen Luft die dunklen Steine auf.",
+                "hu": "Nagyszerű hely egy gyors téli piknikhez; a napsugarak a hűvös levegő ellenére is kellemesen felmelegítik a sötét színű köveket.",
+                "ro": "Un loc minunat pentru un picnic rapid de iarnă; razele soarelui încălzesc pietrele închise la culoare în ciuda aerului rece de afară.",
+                "en": "A great spot for a quick winter picnic; the sun's rays warm up the dark stones despite the cool air temperature outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes I",
+                "hu": "Cromeleque de Amantes I",
+                "ro": "Cromeleque de Amantes I",
+                "en": "Cromeleque de Amantes I"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Fahrradlicht für den Rückweg rechtzeitig ein; die Sonne sinkt im Winter sehr schnell unter den Horizont des Plateaus.",
+                "hu": "Kapcsolja be időben a kerékpárlámpát a visszautashoz; a nap télen nagyon gyorsan bukik a horizont alá ezen a nyílt fennsíkon.",
+                "ro": "Aprindeți luminile bicicletei din timp pentru drumul de întoarcere; soarele coboară foarte repede sub orizont pe acest platou deschis.",
+                "en": "Turn on your bike lights in good time for the return journey; the sun sinks very rapidly below the horizon on this open plateau in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen először a bájos városközpontba, és tapasztalja meg a lenyűgöző kulturális központot, valamint a templomot.\n\nDél körül tekintse meg a múzeum izgalmas régészeti és helytörténeti kiállításait.\n\nA délután tökéletes egy rövid autózáshoz a közeli, rejtélyes megalitikus mezőkre.\n\nTöltsön el egy rendkívül nyugodt estét a kiemelkedő cromlechek közötti sétával a naplementében.",
         "ro": "Conduceți mai întâi spre fermecătorul centru al orașului, experimentând centrul cultural vibrant și biserica istorică.\n\nÎn jurul prânzului, verificați exponatele arheologice și maritime excepționale de la muzeul local.\n\nDupă-amiaza este perfectă pentru a conduce scurt spre imensele câmpuri megalitice izolate.\n\nPetreceți o seară liniștită plimbându-vă printre faimoasele cromlehuri antice la lumina apusului.",
         "en": "Drive to the charming town center first, experiencing the local cultural center and the beautiful historic church.\n\nAround midday, check out the detailed archaeological exhibits at the modern local museum.\n\nThe afternoon is absolutely perfect for a short drive into the megalithic fields to view isolated menhirs.\n\nSpend a tranquil evening walking among the prominent, ancient cromlechs nearby as the sun gently sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen kein Hindernis für die Erkundung von Vila do Bispo. Wir pendeln bequem zwischen den kulturellen Highlights im Zentrum. Die Fahrt zu den Megalithen führt über unbefestigte Wege, die nach Regen etwas rutschig sein können. Den Abend genießen wir bei prasselndem Regen gegen die Scheiben, während wir in einem lokalen Restaurant einkehren.",
+            "hu": "Autóval az eső nem akadály Vila do Bispo felfedezésében. Kényelmesen ingázunk a központ kulturális látnivalói között. A megalitokhoz vezető út földutakon visz, amelyek eső után csúszósak lehetnek, így óvatos vezetés ajánlott. Az estét egy helyi étteremben zárjuk, miközben az eső kopog az autó szélvédőjén.",
+            "ro": "Cu mașina, ploaia nu este un obstacol în explorarea zonei Vila do Bispo. Navigăm confortabil între punctele culturale din centru. Drumul spre megaliți include porțiuni de pământ care pot fi alunecoase, deci conduceți cu atenție. Încheiem seara la un restaurant local, ascultând ploaia bătând în geam.",
+            "en": "By car, the rain is no obstacle to exploring Vila do Bispo. We commute comfortably between the cultural highlights in the center. The drive to the megaliths involves unpaved roads that can be slippery after rain, so cautious driving is advised. We end the evening at a local restaurant, listening to the rain on the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Centro Cultural",
+                "ro": "Centro Cultural",
+                "en": "Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Gebäude zu gelangen; drinnen können Sie die moderne Kunst ohne Zeitdruck genießen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be; odabent időkényszer nélkül élvezheti a modern művészeti alkotásokat.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior; acolo vă puteți bucura de arta modernă fără nicio presiune de timp.",
+                "en": "Park as close to the entrance as possible to stay dry; inside you can enjoy the modern art exhibitions without any time pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Matriz de Nossa Senhora da Conceição",
+                "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+                "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+                "en": "Igreja Matriz de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche lohnt sich; nutzen Sie die Zeit drinnen, um die detaillierten Holzschnitzereien in aller Ruhe zu betrachten.",
+                "hu": "Megéri az a pár lépés a parkolótól a templomig; használja ki a bent töltött időt a részletgazdag fafaragások alapos megfigyelésére.",
+                "ro": "Merită scurta fugă de la parcare până la biserică; profitați de timpul petrecut înăuntru pentru a observa detaliile sculpturilor în lemn.",
+                "en": "The short dash from the parking lot to the church is worth it; use your time inside to carefully observe the detailed woodcarvings."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Vila do Bispo",
+                "hu": "Museo de Vila do Bispo",
+                "ro": "Museo de Vila do Bispo",
+                "en": "Museo de Vila do Bispo"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nassen Jacken im Auto, um das Museum trocken und unbeschwert zu erkunden; die Parkplätze direkt davor sind sehr praktisch.",
+                "hu": "Hagyja a vizes kabátokat az autóban, hogy szárazon és szabadon nézhesse meg a múzeumot; a közvetlen előtte lévő parkolók nagyon praktikusak.",
+                "ro": "Lăsați jachetele ude în mașină pentru a explora muzeul confortabil; locurile de parcare direct în față sunt extrem de practice pe ploaie.",
+                "en": "Leave your wet jackets in the car to explore the museum comfortably; the parking spaces directly in front are very practical in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir da Casa do Francês",
+                "hu": "Menir da Casa do Francês",
+                "ro": "Menir da Casa do Francês",
+                "en": "Menir da Casa do Francês"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen schlammig sein; bleiben Sie auf den befestigten Spuren und halten Sie für Fotos kurz im Auto, falls es zu stark regnet.",
+                "hu": "Heves esőben a bekötőút sáros lehet; maradjon a kijárt nyomon, és ha túl erősen esik, várjon pár percet az autóban a fotózással.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie torențială; rămâneți pe porțiunile consolidate și așteptați în mașină dacă plouă prea tare.",
+                "en": "The access road can be muddy in heavy rain; stay on the established tracks and wait in the car for a few minutes if the rain is too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir Cerro do Camacho",
+                "hu": "Menir Cerro do Camacho",
+                "ro": "Menir Cerro do Camacho",
+                "en": "Menir Cerro do Camacho"
+              },
+              "tip_5lang": {
+                "de": "Dieser Menir ist oft direkt vom Fahrbahnrand aus gut zu sehen; ideal für einen schnellen Blick ohne nass zu werden, falls der Schauer anhält.",
+                "hu": "Ez a menhir gyakran közvetlenül az út széléről is jól látható; ideális egy gyors megtekintésre anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Acest menhir este adesea vizibil direct de pe marginea drumului; ideal pentru o privire rapidă fără a vă uda, dacă ploaia continuă.",
+                "en": "This menhir is often clearly visible directly from the roadside; ideal for a quick look without getting wet if the shower persists."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes II",
+                "hu": "Cromeleque de Amantes II",
+                "ro": "Cromeleque de Amantes II",
+                "en": "Cromeleque de Amantes II"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Wenden auf dem unbefestigten Boden darauf, nicht im weichen Erdreich steckenzubleiben; der Ausblick aus dem warmen Auto ist dennoch toll.",
+                "hu": "Megforduláskor ügyeljen a puha talajra, nehogy elakadjon a sárban; a kilátás a meleg autóból is nagyszerű az őskori kövekre.",
+                "ro": "Aveți grijă la manevrele pe solul moale pentru a nu rămâne blocat în noroi; vederea din mașina caldă spre pietre este oricum excelentă.",
+                "en": "Be careful when maneuvering on the soft ground to avoid getting stuck in the mud; the view from the warm car is excellent anyway."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes I",
+                "hu": "Cromeleque de Amantes I",
+                "ro": "Cromeleque de Amantes I",
+                "en": "Cromeleque de Amantes I"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp lässt sich bei Regen wunderbar mit einer kleinen Pause im Auto verbinden, während man die mystische Stimmung auf sich wirken lässt.",
+                "hu": "Az utolsó állomást esőben remekül össze lehet kötni egy rövid pihenővel az autóban, miközben átadja magát a misztikus hangulatnak.",
+                "ro": "Ultima oprire poate fi combinată minunat cu o scurtă pauză în mașină, lăsându-vă pătrunși de atmosfera mistică a locului.",
+                "en": "The final stop can be wonderfully combined with a short break in the car while letting the mystical atmosphere of the site sink in."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den perfekten Komfort für die Tour durch das windige Vila do Bispo. Wir starten morgens im warmen Fahrzeug und erkunden die kulturellen Orte. Nachmittags fahren wir über die Hochebene zu den prähistorischen Stätten. Da es gegen 17:00 Uhr dunkel wird, planen wir die Rückfahrt so, dass wir die Megalithen im letzten Licht sehen.",
+            "hu": "Télen az autó tökéletes kényelmet nyújt a szeles Vila do Bispo környékének felfedezéséhez. Reggel a meleg járműből indulunk a kulturális helyszínekre. Délután a fennsíkon át autózunk az őskori emlékekhez. Mivel 17:00 körül sötétedik, a visszautat úgy tervezzük, hogy az utolsó fényekben lássuk a megalitokat.",
+            "ro": "Iarna, mașina oferă confortul perfect pentru turul prin zona vântoasă Vila do Bispo. Pornim dimineața în vehiculul încălzit spre siturile culturale. După-amiaza conducem pe platou spre megaliți. Deoarece se întunecă în jur de 17:00, planificăm totul pentru a prinde ultima lumină.",
+            "en": "In winter, the car provides perfect comfort for touring the windy Vila do Bispo area. We start the morning in the heated vehicle, visiting cultural sites. In the afternoon, we drive across the plateau to the prehistoric monuments. As it gets dark around 17:00, we plan to catch the megaliths in the last light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Centro Cultural",
+                "ro": "Centro Cultural",
+                "en": "Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klimatisierten Räume; im Winter sind die Ausstellungen oft weniger besucht, was eine besonders ruhige Atmosphäre garantiert.",
+                "hu": "Élvezze a klimatizált tereket; télen a kiállítások gyakran kevésbé látogatottak, ami különösen nyugodt és meghitt hangulatot garantál.",
+                "ro": "Bucurați-vă de spațiile climatizate; iarna, expozițiile sunt adesea mai puțin vizitate, ceea ce garantează o atmosferă foarte liniștită.",
+                "en": "Enjoy the climate-controlled rooms; in winter, the exhibitions are often less crowded, guaranteeing a particularly peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Matriz de Nossa Senhora da Conceição",
+                "hu": "Igreja Matriz de Nossa Senhora da Conceição",
+                "ro": "Igreja Matriz de Nossa Senhora da Conceição",
+                "en": "Igreja Matriz de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen guten Schutz vor dem kalten Winterwind; parken Sie am Marktplatz und genießen Sie den kurzen Spaziergang durch die Sonne.",
+                "hu": "A templom kiváló védelmet nyújt a hideg téli szél ellen; parkoljon a piactéren, és élvezze a rövid, napsütéses sétát az épületig.",
+                "ro": "Biserica oferă o protecție excelentă împotriva vântului rece de iarnă; parcați în piață și bucurați-vă de scurta plimbare prin soare.",
+                "en": "The church provides excellent protection against the cold winter wind; park in the market square and enjoy the short, sunny walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Vila do Bispo",
+                "hu": "Museo de Vila do Bispo",
+                "ro": "Museo de Vila do Bispo",
+                "en": "Museo de Vila do Bispo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit im warmen Museum; die interaktiven Stationen sind eine willkommene Abwechslung zur Fahrt auf der kühlen Hochebene.",
+                "hu": "Használja ki a délidőt a meleg múzeumban; az interaktív állomások kellemes kikapcsolódást nyújtanak a hűvös fennsíkon való autózás után.",
+                "ro": "Profitați de orele prânzului în muzeul încălzit; stațiile interactive sunt o relaxare binevenită după condusul pe platoul răcoros.",
+                "en": "Take advantage of the midday hours in the warm museum; the interactive stations are a welcome break from driving on the chilly plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir da Casa do Francês",
+                "hu": "Menir da Casa do Francês",
+                "ro": "Menir da Casa do Francês",
+                "en": "Menir da Casa do Francês"
+              },
+              "tip_5lang": {
+                "de": "Dank des Autos können Sie die exponierte Lage des Menhirs besuchen und sich sofort wieder aufwärmen, falls der Wind zu stark wird.",
+                "hu": "Az autónak köszönhetően meglátogathatja a menhir kitett helyszínét, majd azonnal fel is melegedhet, ha a szél túl erőssé válna.",
+                "ro": "Datorită mașinii, puteți vizita locația expusă a menhirului și vă puteți reîncălzi imediat dacă vântul devine prea puternic.",
+                "en": "Thanks to the car, you can visit the exposed site of the menhir and warm up again immediately if the wind becomes too strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir Cerro do Camacho",
+                "hu": "Menir Cerro do Camacho",
+                "ro": "Menir Cerro do Camacho",
+                "en": "Menir Cerro do Camacho"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die winterliche Weite zu bewundern; die tiefstehende Sonne sorgt für lange Schatten und tolle Fotomotive.",
+                "hu": "Egy rövid megálló is elég a téli táj tágasságának megcsodálásához; az alacsonyan járó nap hosszú árnyékai remek fotótémát szolgáltatnak.",
+                "ro": "O scurtă oprire este suficientă pentru a admira imensitatea iernii; soarele jos creează umbre lungi și motive fotografice excelente.",
+                "en": "A short stop is enough to admire the winter landscape; the low sun creates long shadows and excellent photographic opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes II",
+                "hu": "Cromeleque de Amantes II",
+                "ro": "Cromeleque de Amantes II",
+                "en": "Cromeleque de Amantes II"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Megalithen bei laufender Heizung; im Winter ist die Fernsicht auf den Atlantik oft besonders klar und weit.",
+                "hu": "Élvezze a kilátást a megalitokra a fűtött autóból; télen az Atlanti-óceán felé nyíló kilátás gyakran különösen tiszta és messzire nyúló.",
+                "ro": "Bucurați-vă de vederea spre megaliți din mașina încălzită; iarna, vizibilitatea spre Atlantic este adesea extrem de clară și vastă.",
+                "en": "Enjoy the view of the megaliths from your heated car; in winter, the visibility toward the Atlantic is often exceptionally clear and far-reaching."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromeleque de Amantes I",
+                "hu": "Cromeleque de Amantes I",
+                "ro": "Cromeleque de Amantes I",
+                "en": "Cromeleque de Amantes I"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr; die Fahrt zurück ins Dorf ist kurz, aber die Dunkelheit kommt im Winter schnell.",
+                "hu": "Zárja a túrát pontosan a 17:00-s naplementekor; a falu közeli, de a sötétség télen nagyon gyorsan és hirtelen köszönt be.",
+                "ro": "Încheiați turul exact la apusul de la ora 17:00; drumul înapoi în sat este scurt, dar întunericul se lasă foarte repede în timpul iernii.",
+                "en": "End your tour exactly at sunset around 17:00; the drive back to the village is short, but darkness falls very quickly in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

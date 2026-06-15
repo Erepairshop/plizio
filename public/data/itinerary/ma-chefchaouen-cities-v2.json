@@ -183,6 +183,224 @@
         "hu": "Kezdje sétáját a medina szívében, a nyüzsgő Piazzán, és csodálja meg a kék homlokzatokat. Haladjon tovább a forgalmas piacra, hogy megtapasztalja a helyi kereskedelmet és a színes kézműveskedést. \n Délben merüljön el a mindennapokban a hagyományos Al-Haouta kemence meglátogatásával. Tegyen egy rövid sétát a híres, mozaikoszlopos fotóponthoz, hogy megörökítse a pillanatot. \n Délután csodálja meg a Rif Andalus kemence örökségét, és sétáljon a Bab El Marhouk kapu felé. A szűk, kanyargós sikátorok végtelen bájt kínálnak. \n Zárja a napot egy sétával a Point de vue felé. Ez a kilátó lélegzetelállító alkonyati panorámát nyújt a hegyekben megbújó, kékre festett városról.",
         "ro": "Începeți turul de plimbare în inima medinei la Piazza vibrantă, admirând fațadele albastre emblematice. Continuați spre piața plină de viață pentru a experimenta comerțul local și meșteșugurile colorate. \n Până la prânz, pătrundeți în ritmurile zilnice vizitând cuptorul tradițional Al-Haouta. Faceți o scurtă plimbare până la faimosul loc pentru fotografii cu stâlpi de mozaic. \n După-amiaza, admirați moștenirea cuptorului Rif Andalus și plimbați-vă spre porțile istorice din Bab El Marhouk. Străduțele înguste oferă un farmec nesfârșit. \n Încheiați-vă ziua cu o plimbare constantă până la Point de vue. Acest punct de belvedere oferă o panoramă uluitoare la amurg a întregului oraș vopsit în albastru.",
         "en": "Start your walking tour in the heart of the medina at the vibrant Piazza, taking in the iconic blue facades. Move on to the bustling Market to experience local trade and colorful crafts. \n By midday, delve into the daily rhythms of Chefchaouen by visiting the traditional Al-Haouta Oven. Take a short stroll to the famous photospot with mosaic pillars to capture some memories. \n In the afternoon, admire the heritage of The Rif Andalus Oven and wander towards the historic gates of Bab El Marhouk. The narrow, winding alleys offer endless charm as you navigate the slope. \n Conclude your day with a steady walk up to the Point de vue. This viewpoint provides a breathtaking twilight panorama of the entire blue-washed town nestled in the mountains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Chefchaouen beginnt mit mystischem Nebel über der blauen Medina. Mittags suchen wir Schutz in den Bogengängen rund um die Piazza, wo der Duft von feuchter Erde und Tee in der Luft liegt. Am Nachmittag schlendern wir vorsichtig über das glänzende Kopfsteinpflaster, während die blauen Wände im Regen leuchten. Abends wärmen wir uns in einem der gemütlichen Lokale auf.",
+            "hu": "Az esős reggel Chefchaouenben misztikus köddel indul a kék medina felett. Délben a Piazza árkádjai alatt keresünk menedéket, ahol a nedves föld és a tea illata keveredik a levegőben. Délután óvatosan sétálunk a csillogó, csúszós macskaköveken, miközben a kék falak szinte világítanak az esőben. Este egy hangulatos, fedett helyen melegszünk fel a friss hegyi levegő után.",
+            "ro": "O dimineață ploioasă în Chefchaouen începe cu o ceață mistică peste medina albastră. La prânz căutăm adăpost sub arcadele din Piazza, unde mirosul de pământ umed și ceai plutește în aer. După-amiaza ne plimbăm cu grijă pe pietrele lucioase și alunecoase, în timp ce pereții albaștri strălucesc sub ploaie. Seara ne încălzim într-un local primitor, feriți de umezeala de afară.",
+            "en": "A rainy morning in Chefchaouen starts with mystical mist over the blue medina. At noon, we seek shelter under the arches of the Piazza, where the scent of wet earth and tea fills the air. In the afternoon, we stroll carefully over the glistening, slippery cobblestones as the blue walls glow in the rain. In the evening, we warm up in a cozy indoor spot after the fresh mountain air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza",
+                "hu": "Piazza",
+                "ro": "Piazza",
+                "en": "Piazza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Piazza von einer überdachten Café-Terrasse aus; der nasse Boden spiegelt das Blau der Stadt perfekt wider, tragen Sie rutschfeste Schuhe.",
+                "hu": "Élvezze a Piazza látványát egy fedett kávézó teraszáról; a vizes kövezet tökéletesen tükrözi a város kék árnyalatait, de viseljen csúszásmentes talpú cipőt.",
+                "ro": "Bucurați-vă de vederea spre Piazza de pe o terasă acoperită a unei cafenele; pavajul umed reflectă perfect nuanțele albastre, dar purtați încălțăminte aderentă.",
+                "en": "Enjoy the view of the Piazza from a covered cafe terrace; the wet pavement reflects the city's blue hues perfectly, but be sure to wear non-slip shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Market",
+                "hu": "Market",
+                "ro": "Market",
+                "en": "Market"
+              },
+              "tip_5lang": {
+                "de": "Der Markt bietet unter den Planen Schutz vor dem Regen; die Farben der Gewürze wirken bei bewölktem Himmel besonders intensiv, halten Sie Ihren Regenschirm bereit.",
+                "hu": "A piac ponyvái alatt védve marad az esőtől; a fűszerek színei különösen intenzívek a borús égbolt alatt, tartsa készenlétben az esernyőjét a szűk átjárókban.",
+                "ro": "Piața oferă adăpost sub prelate; culorile condimentelor par deosebit de intense sub cerul înnorat, țineți umbrela la îndemână pe culoarele înguste.",
+                "en": "The market tarps provide shelter from the rain; spice colors look particularly intense under cloudy skies, keep your umbrella ready for narrow passages."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Haouta Oven",
+                "hu": "Al-Haouta Oven",
+                "ro": "Al-Haouta Oven",
+                "en": "Al-Haouta Oven"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen traditionellen Ofen, um die wohlige Wärme des Feuers zu spüren; der Duft von frischem Brot ist an einem regnerischen Vormittag besonders einladend.",
+                "hu": "Látogassa meg ezt a tradicionális kemencét, hogy érezze a tűz melengető erejét; a friss kenyér illata egy esős délelőttön különösen csalogató és megnyugtató.",
+                "ro": "Vizitați acest cuptor tradițional pentru a simți căldura reconfortantă a focului; mirosul de pâine proaspătă este deosebit de invitant într-o dimineață ploioasă.",
+                "en": "Visit this traditional oven to feel the comforting warmth of the fire; the smell of fresh bread is particularly inviting and soothing on a rainy morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Photospot with round pillars with mosaic",
+                "hu": "Photospot with round pillars with mosaic",
+                "ro": "Photospot with round pillars with mosaic",
+                "en": "Photospot with round pillars with mosaic"
+              },
+              "tip_5lang": {
+                "de": "Die Mosaike leuchten im Regen noch kräftiger; nutzen Sie die kurzen Regenpausen für Fotos, da die nassen Oberflächen dem Bild eine besondere Tiefe verleihen.",
+                "hu": "A mozaikok színei még élénkebbek az esőben; használja ki a rövid szüneteket a fotózáshoz, a nedves felületek különleges mélységet adnak a képeknek.",
+                "ro": "Culorile mozaicurilor sunt și mai vii sub ploaie; profitați de scurte pauze pentru fotografii, deoarece suprafețele umede conferă o profunzime aparte pozelor.",
+                "en": "The mosaic colors are even more vivid in the rain; take advantage of short breaks for photos, as the wet surfaces add a special depth to your pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "The Rif Andalus Oven",
+                "hu": "The Rif Andalus Oven",
+                "ro": "The Rif Andalus Oven",
+                "en": "The Rif Andalus Oven"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich kurz aufzuwärmen; beobachten Sie, wie die Einheimischen ihr Gebäck vor dem Regen schützen, und nehmen Sie sich ein warmes Stück mit.",
+                "hu": "Ideális hely egy rövid felmelegedéshez; figyelje meg, hogyan óvják a helyiek süteményeiket az esőtől, és vegyen ön is egy forró darabot útravalónak.",
+                "ro": "Un loc ideal pentru o scurtă încălzire; observați cum localnicii își protejează produsele de ploaie și luați-vă o bucată caldă pentru drum.",
+                "en": "An ideal spot for a quick warm-up; observe how locals protect their pastries from the rain and grab a hot piece yourself for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Marhouk",
+                "hu": "Bab El Marhouk",
+                "ro": "Bab El Marhouk",
+                "en": "Bab El Marhouk"
+              },
+              "tip_5lang": {
+                "de": "Das massive Tor bietet unter seinem gewölbten Durchgang hervorragenden Schutz; warten Sie hier den stärksten Schauer ab und bewundern Sie die nasse Steinstruktur.",
+                "hu": "A masszív kapu boltíves átjárója kiváló menedéket nyújt; várja meg itt a legerősebb zápor végét, és csodálja meg a vizes kőfalak sötét textúráját.",
+                "ro": "Pasajul arcuit al porții masive oferă un adăpost excelent; așteptați aici sfârșitul celei mai puternice averse și admirați textura pietrei umede.",
+                "en": "The massive gate's arched passage provides excellent shelter; wait out the heaviest downpour here and admire the dark texture of the wet stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die vernebelte Stadt ist dramatisch; tragen Sie eine windfeste Regenjacke, da es hier oben auf dem Hügel recht ungemütlich und windig werden kann.",
+                "hu": "A ködbe burkolózó város látványa drámai; viseljen szélálló esőkabátot, mivel itt fent a dombon elég barátságtalan és szeles lehet az időjárás.",
+                "ro": "Vederea asupra orașului învăluit în ceață este dramatică; purtați o pelerină de ploaie rezistentă la vânt, deoarece pe deal poate fi destul de neplăcut.",
+                "en": "The view of the mist-shrouded city is dramatic; wear a windproof raincoat as it can get quite unpleasant and windy up here on the hill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, ideal für einen Spaziergang durch die blauen Gassen. Mittags genießen wir die wärmenden Sonnenstrahlen auf der Piazza, während die Bergluft kühl bleibt. Am Nachmittag sinken die Temperaturen schnell, sobald die Schatten länger werden. Da die Sonne gegen 17:00 Uhr untergeht, suchen wir uns früh ein beheiztes Restaurant für einen gemütlichen Abend.",
+            "hu": "A téli reggel friss és tiszta, ideális egy sétához a kék utcákon. Délben élvezzük a melengető napsugarakat a Piazzán, miközben a hegyi levegő hűvös marad. Délután a hőmérséklet gyorsan csökken, ahogy a varosra árnyék borul. Mivel a nap 17:00 körül nyugszik, korán keressünk egy fűtött éttermet a hangulatos este eltöltéséhez.",
+            "ro": "Dimineața de iarnă este proaspătă și senină, ideală pentru o plimbare pe străzile albastre. La prânz ne bucurăm de razele soarelui în Piazza, în timp ce aerul de munte rămâne răcoros. După-amiaza temperaturile scad rapid pe măsură ce umbrele se lungesc. Deoarece soarele apune în jur de ora 17:00, căutăm devreme un restaurant încălzit.",
+            "en": "The winter morning is fresh and clear, ideal for a walk through the blue streets. At noon, we enjoy the warming sunbeams in the Piazza while the mountain air stays cool. In the afternoon, temperatures drop quickly as shadows lengthen. Since the sun sets around 17:00, look for a heated restaurant early for a cozy evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza",
+                "hu": "Piazza",
+                "ro": "Piazza",
+                "en": "Piazza"
+              },
+              "tip_5lang": {
+                "de": "Die Piazza ist mittags der sonnigste Ort; genießen Sie einen heißen Minztee, um sich aufzuwärmen, und tragen Sie mehrere Schichten Kleidung gegen den kühlen Wind.",
+                "hu": "A Piazza délben a legnaposabb hely; élvezzen egy forró mentateát a felmelegedéshez, és öltözzön rétegesen a hűvös hegyi szél ellen.",
+                "ro": "Piazza este cel mai însorit loc la prânz; savurați un ceai de mentă fierbinte pentru a vă încălzi și purtați haine în straturi împotriva vântului rece.",
+                "en": "The Piazza is the sunniest spot at noon; enjoy a hot mint tea to warm up and wear multiple layers of clothing against the cool mountain wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Market",
+                "hu": "Market",
+                "ro": "Market",
+                "en": "Market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach handgefertigten Wolldecken und warmen Djellabas; die Wintersonne beleuchtet die Waren in den engen Gassen nur für wenige Stunden am Tag.",
+                "hu": "Keressen kézzel készített gyapjútakarókat és meleg dzsellabákat; a téli nap csak napi pár órára világítja meg az árukat a szűk sikátorokban.",
+                "ro": "Căutați pături de lână lucrate manual și djellabas călduroase; soarele de iarnă luminează mărfurile din străzile înguste doar câteva ore pe zi.",
+                "en": "Look for handmade wool blankets and warm djellabas; the winter sun illuminates the goods in the narrow alleys for only a few hours a day."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Haouta Oven",
+                "hu": "Al-Haouta Oven",
+                "ro": "Al-Haouta Oven",
+                "en": "Al-Haouta Oven"
+              },
+              "tip_5lang": {
+                "de": "Die Hitze des traditionellen Ofens ist im Winter ein Segen; kommen Sie morgens hierher, wenn die Luft am kältesten ist, und wärmen Sie sich kurz auf.",
+                "hu": "A tradicionális kemence hője télen igazi áldás; jöjjön ide reggel, amikor a leghidegebb a levegő, és melegedjen fel egy kicsit a tűz mellett.",
+                "ro": "Căldura cuptorului tradițional este o binecuvântare iarna; veniți aici dimineața, când aerul este cel mai rece, pentru a vă încălzi puțin.",
+                "en": "The heat from the traditional oven is a blessing in winter; come here in the morning when the air is coldest to warm up for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Photospot with round pillars with mosaic",
+                "hu": "Photospot with round pillars with mosaic",
+                "ro": "Photospot with round pillars with mosaic",
+                "en": "Photospot with round pillars with mosaic"
+              },
+              "tip_5lang": {
+                "de": "Das Licht ist im Winter besonders weich und klar; nutzen Sie die Zeit vor 15:00 Uhr, bevor der Ort vollständig im Schatten der hohen Häuser verschwindet.",
+                "hu": "A téli fények különösen lágyak és tiszták; használja ki a 15:00 előtti időszakot, mielőtt a hely teljesen árnyékba kerülne a magas házak miatt.",
+                "ro": "Lumina de iarnă este deosebit de blândă și clară; profitați de timpul de dinainte de ora 15:00, înainte ca locul să intre complet în umbră.",
+                "en": "The winter light is particularly soft and clear; take advantage of the time before 15:00 before the spot goes completely into shadow."
+              }
+            },
+            {
+              "name": {
+                "de": "The Rif Andalus Oven",
+                "hu": "The Rif Andalus Oven",
+                "ro": "The Rif Andalus Oven",
+                "en": "The Rif Andalus Oven"
+              },
+              "tip_5lang": {
+                "de": "Frisch gebackenes Brot dient im Winter fast als Taschenwärmer; genießen Sie den Kontrast zwischen der kühlen Außenluft und dem duftenden, heißen Gebäck.",
+                "hu": "A frissen sült kenyér télen szinte kézmelegítőként szolgál; élvezze a hűvös kinti levegő és az illatos, forró sütemények közötti kontrasztot.",
+                "ro": "Pâinea proaspăt coaptă servește iarna aproape ca un încălzitor de mâini; bucurați-vă de contrastul dintre aerul rece și produsele fierbinți.",
+                "en": "Freshly baked bread almost serves as a hand warmer in winter; enjoy the contrast between the cool outside air and the fragrant, hot pastries."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Marhouk",
+                "hu": "Bab El Marhouk",
+                "ro": "Bab El Marhouk",
+                "en": "Bab El Marhouk"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern strahlen mittags die gespeicherte Sonnenwärme ab; ein kurzer Halt hier ist ideal, um die klare Sicht auf die umliegenden Berge zu genießen.",
+                "hu": "A masszív kőfalak délben visszasugározzák a tárolt napfény melegét; egy rövid megálló itt ideális a környező hegyekre nyíló tiszta kilátáshoz.",
+                "ro": "Zidurile masive de piatră radiază la prânz căldura solară stocată; o scurtă oprire aici este ideală pentru a admira munții înzăpeziți din depărtare.",
+                "en": "The massive stone walls radiate stored solar heat at noon; a short stop here is ideal for enjoying the clear view of the surrounding mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet im Winter bereits gegen 17:00 Uhr statt; bringen Sie unbedingt Handschuhe mit, da die Temperaturen am Aussichtspunkt schnell sinken.",
+                "hu": "A naplemente télen már 17:00 körül bekövetkezik; feltétlenül hozzon kesztyűt, mivel a kilátópontnál a hőmérséklet hirtelen és jelentősen lecsökken.",
+                "ro": "Apusul are loc iarna deja în jur de ora 17:00; aduceți neapărat mănuși, deoarece temperaturile scad rapid la punctul de observație.",
+                "en": "Sunset occurs as early as 17:00 in winter; be sure to bring gloves as temperatures drop rapidly and significantly at the viewpoint."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a reggeli kerékpározást a nyüzsgő Piazzán, majd tekerjen le a forgalmas piacra. A reggeli levegő tökéletes a központi tevékenységi csomópontok közötti biciklizéshez. \n Dél körül váltson a kereskedelemről a kultúrára az Omar Saadoune Művészeti Stúdió meglátogatásával. Folytassa útját az Al Kasaba színházhoz és a közeli konzervatóriumhoz. \n A délután folyamán tekerjen a medina északi széle felé, hogy megnézze a Bab El Marhoukot. Ezután irány az Ecomusée, ahol megismerheti a régió ökológiai örökségét. \n Zárja a kerékpáros túrát a Point de vue felé vezető úttal. Bár az utolsó szakasz meredek emelkedő, a kék városra nyíló csodálatos esti kilátás megéri az erőfeszítést.",
         "ro": "Începeți plimbarea de dimineață cu bicicleta în Piazza aglomerată, înainte de a pedala spre piața plină de viață. Aerul dimineții este perfect pentru a merge între aceste centre centrale. \n În jurul prânzului, treceți de la comerț la cultură vizitând studioul de artă Omar Saadoune. Continuați spre teatrul al kasaba și conservatorul din apropiere pentru a aprecia arta. \n Pe măsură ce după-amiaza progresează, mergeți spre marginea de nord a medinei pentru a vedea Bab El Marhouk. Apoi, mergeți la Ecomusée pentru a învăța despre ecologie. \n Terminați turul cu bicicleta urcând spre Point de vue. Deși ultima porțiune este o urcare abruptă, priveliștea magnifică de seară asupra orașului merită efortul.",
         "en": "Kick off your morning ride at the bustling Piazza before pedaling down to the lively Market. The morning air is perfect for cycling between these central hubs of activity. \n Around noon, switch from commerce to culture by visiting the Art Studio Omar Saadoune. Continue your ride to the théâtre al kasaba and the nearby Conservatoire to appreciate local arts. \n As the afternoon progresses, cycle towards the northern edge of the medina to see Bab El Marhouk. Then, head to the Ecomusée to learn about the region's unique ecological heritage. \n Finish your cycling tour by heading up towards the Point de vue. Although the final stretch is a steep climb, the magnificent evening view over the blue city makes the effort worthwhile."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Fahrrad erfordert volle Konzentration auf den glatten Wegen. Morgens radeln wir vorsichtig durch die blauen Gassen, während der Regen die Farben intensiviert. Mittags suchen wir Schutz in Museen oder überdachten Passagen. Der Nachmittag bietet kurze trockene Fenster für Fahrten zu Aussichtspunkten, bevor wir den Tag in einer warmen Unterkunft ausklingen lassen.",
+            "hu": "Az esős nap a kerékpáron teljes koncentrációt igényel a csúszós utakon. Reggel óvatosan tekerünk a kék utcák között, miközben az eső felerősíti a színeket. Délben múzeumokban vagy fedett átjárókban keresünk menedéket. A délután rövid száraz időszakokat kínál a kilátópontok felkereséséhez, mielőtt a napot egy meleg szálláson fejeznénk be.",
+            "ro": "O zi ploioasă pe bicicletă necesită concentrare maximă pe drumurile alunecoase. Dimineața pedalăm cu grijă printre străzile albastre, în timp ce ploaia intensifică culorile. La prânz căutăm adăpost în muzee sau pasaje acoperite. După-amiaza oferă scurte intervale uscate pentru drumuri spre belvedere, înainte de a încheia ziua la căldură.",
+            "en": "A rainy day on a bike requires full concentration on the slippery paths. In the morning, we cycle carefully through the blue alleys as the rain intensifies the colors. At noon, we seek shelter in museums or covered passages. The afternoon offers short dry windows for trips to viewpoints before ending the day in warm accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza",
+                "hu": "Piazza",
+                "ro": "Piazza",
+                "en": "Piazza"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das glatte Kopfsteinpflaster rund um den Platz; stellen Sie Ihr Rad unter einem Vordach ab und genießen Sie einen Tee im Trockenen.",
+                "hu": "Ügyeljen a csúszós macskakövekre a tér körül; parkolja le kerékpárját egy előtető alatt, és élvezzen egy teát száraz helyen.",
+                "ro": "Atenție la pavajul alunecos din jurul pieței; parcați bicicleta sub un baldachin și savurați un ceai la adăpost.",
+                "en": "Watch out for the slippery cobblestones around the square; park your bike under a canopy and enjoy a tea in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Market",
+                "hu": "Market",
+                "ro": "Market",
+                "en": "Market"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in den engen Marktbereichen besonders langsam, da Passanten bei Regen oft unvorhersehbar ausweichen; nutzen Sie die Markisen als Regenschutz.",
+                "hu": "A szűk piaci részeken tekerjen különösen lassan, mert az esőben a gyalogosok kiszámíthatatlanul mozognak; használja a napellenzőket esővédőként.",
+                "ro": "Mergeți foarte încet în zonele înguste ale pieței, deoarece pietonii se mișcă imprevizibil prin ploaie; folosiți copertinele ca protecție.",
+                "en": "Ride extra slowly in narrow market areas as pedestrians move unpredictably in the rain; use the awnings as rain protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Studio Omar Saadoune",
+                "hu": "Art Studio Omar Saadoune",
+                "ro": "Art Studio Omar Saadoune",
+                "en": "Art Studio Omar Saadoune"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Rad zu parken und drinnen Kunst zu bewundern; die ruhige Atmosphäre im Studio ist ideal, um einen kräftigen Schauer abzuwarten.",
+                "hu": "Tökéletes hely a bicikli leparkolásához és a benti művészet megcsodálásához; a stúdió nyugodt légköre ideális egy kiadós zápor kivárásához.",
+                "ro": "Un loc perfect pentru a parca bicicleta și a admira arta în interior; atmosfera liniștită a studioului este ideală pentru a aștepta trecerea ploii.",
+                "en": "A perfect place to park your bike and admire art indoors; the studio's calm atmosphere is ideal for waiting out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "théâtre al kasaba",
+                "hu": "théâtre al kasaba",
+                "ro": "théâtre al kasaba",
+                "en": "théâtre al kasaba"
+              },
+              "tip_5lang": {
+                "de": "Dieses kulturelle Zentrum bietet Schutz und Inspiration; prüfen Sie Ihre Bremsen nach der Fahrt im Regen, bevor Sie die Tour fortsetzen.",
+                "hu": "Ez a kulturális központ védelmet és inspirációt nyújt; ellenőrizze a fékeit az esőben való haladás után, mielőtt folytatná a túrát.",
+                "ro": "Acest centru cultural oferă protecție și inspirație; verificați frânele după ce ați mers prin ploaie, înainte de a continua turul.",
+                "en": "This cultural center offers protection and inspiration; check your brakes after riding in the rain before continuing the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Conservatoire",
+                "hu": "Conservatoire",
+                "ro": "Conservatoire",
+                "en": "Conservatoire"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Musik im Trockenen, während es draußen regnet; das Gebäude bietet eine gute Gelegenheit, die nasse Radkleidung kurz zu lüften.",
+                "hu": "Élvezze a zenét száraz helyen, miközben kint esik; az épület jó lehetőséget nyújt a nedves kerékpáros ruházat rövid szellőztetésére.",
+                "ro": "Bucurați-vă de muzică la adăpost în timp ce afară plouă; clădirea oferă o ocazie bună pentru a vă aerisi puțin hainele ude de ciclism.",
+                "en": "Enjoy music in the dry while it rains outside; the building offers a good opportunity to briefly air out wet cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Marhouk",
+                "hu": "Bab El Marhouk",
+                "ro": "Bab El Marhouk",
+                "en": "Bab El Marhouk"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen für einen schnellen Check Ihrer Ausrüstung; bei Regen können die steilen Wege hinter dem Tor besonders rutschig sein.",
+                "hu": "Használja a kapualjat a felszerelése gyors ellenőrzésére; esőben a kapu mögötti meredek utak különösen csúszósak lehetnek.",
+                "ro": "Folosiți arcada porții pentru o verificare rapidă a echipamentului; pe ploaie, drumurile abrupte de după poartă pot fi foarte alunecoase.",
+                "en": "Use the gateway for a quick equipment check; in the rain, the steep paths behind the gate can be especially slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomusée du parc national Talassemtane",
+                "hu": "Ecomusée du parc national Talassemtane",
+                "ro": "Ecomusée du parc national Talassemtane",
+                "en": "Ecomusée du parc national Talassemtane"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um mehr über die Natur zu erfahren, ohne nass zu werden; lassen Sie Ihr Rad gesichert im Eingangsbereich stehen.",
+                "hu": "Kiváló megálló, hogy többet tudjon meg a természetről anélkül, hogy megázna; hagyja a kerékpárját biztonságban a bejárati résznél.",
+                "ro": "O oprire excelentă pentru a afla mai multe despre natură fără a vă uda; lăsați bicicleta asigurată în zona de intrare.",
+                "en": "An excellent stop to learn more about nature without getting wet; leave your bike secured in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bergauf ist bei Regen anstrengend und rutschig; fahren Sie langsam bergab und nutzen Sie Schutzbleche, um trocken zu bleiben.",
+                "hu": "Az emelkedő esőben fárasztó és csúszós; lefelé haladjon lassan, és használjon sárvédőt, hogy ne legyen teljesen sáros az öltözéke.",
+                "ro": "Urcarea pe ploaie este obositoare și alunecoasă; coborâți încet și folosiți apărători de noroi pentru a vă păstra hainele cât de cât curate.",
+                "en": "The uphill climb in the rain is tiring and slippery; ride downhill slowly and use mudguards to keep your clothes somewhat dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zu einer sportlichen Radtour durch die kühle Bergluft ein. Am Morgen ist die Luft noch eisig, aber die Sonne wärmt schnell auf. Mittags erkunden wir die kulturellen Highlights, wobei wir uns bei den Anstiegen warm fahren. Am Nachmittag müssen wir die Zeit im Auge behalten, da es im Schatten sofort kalt wird. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unsere Rückkehr frühzeitig.",
+            "hu": "A tiszta téli nap sportos kerékpározásra csábít a hűvös hegyi levegőben. Reggel még jeges a levegő, de a nap hamar felmelegíti a tájat. Délben a kulturális látnivalókat fedezzük fel, miközben az emelkedőkön jól bemelegszünk. Délután figyelnünk kell az időre, mert az árnyékban azonnal lehűl a levegő. Mivel a nap 17:00-kor nyugszik, korán tervezzük meg a visszatérést.",
+            "ro": "O zi senină de iarnă invită la o tură sportivă cu bicicleta în aerul rece de munte. Dimineața aerul este înghețat, dar soarele încălzește rapid peisajul. La prânz explorăm punctele culturale, încălzindu-ne pe urcări. După-amiaza trebuie să fim atenți la timp, căci la umbră se face imediat frig. Deoarece soarele apune la ora 17:00, planificăm întoarcerea devreme.",
+            "en": "A clear winter day invites a sporty bike tour through the cool mountain air. In the morning, the air is still icy, but the sun warms the landscape quickly. At noon, we explore cultural highlights while warming up on the climbs. In the afternoon, we must watch the time as it gets cold immediately in the shade. Since the sun sets at 17:00, we plan our return early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazza",
+                "hu": "Piazza",
+                "ro": "Piazza",
+                "en": "Piazza"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne auf der Piazza ist perfekt für eine erste Pause; tragen Sie winddichte Handschuhe, da die Hände beim Radfahren schnell auskühlen.",
+                "hu": "A téli napsütés a Piazzán tökéletes az első pihenőhöz; viseljen szélálló kesztyűt, mert a kezei kerékpározás közben hamar kihűlhetnek.",
+                "ro": "Soarele de iarnă din Piazza este perfect pentru prima pauză; purtați mănuși rezistente la vânt, deoarece mâinile îngheață repede pe bicicletă.",
+                "en": "The winter sun in the Piazza is perfect for a first break; wear windproof gloves as your hands can cool down quickly while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Market",
+                "hu": "Market",
+                "ro": "Market",
+                "en": "Market"
+              },
+              "tip_5lang": {
+                "de": "Der Markt ist im Winter weniger überlaufen; nutzen Sie die Kühle für den Transport von frischen Waren, aber achten Sie auf Fußgänger in dicken Mänteln.",
+                "hu": "A piac télen kevésbé zsúfolt; használja ki a hűvöset a friss áruk szállításához, de ügyeljen a vastag kabátos gyalogosokra a szűk helyeken.",
+                "ro": "Piața este mai puțin aglomerată iarna; profitați de răcoare pentru a transporta produse proaspete, dar atenție la pietonii în haine groase.",
+                "en": "The market is less crowded in winter; take advantage of the cool air for transporting fresh goods, but watch out for pedestrians in thick coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Studio Omar Saadoune",
+                "hu": "Art Studio Omar Saadoune",
+                "ro": "Art Studio Omar Saadoune",
+                "en": "Art Studio Omar Saadoune"
+              },
+              "tip_5lang": {
+                "de": "Das Studio ist im Winter ein warmer Rückzugsort; nehmen Sie sich Zeit für die Details der Kunstwerke, während Ihre Muskeln sich kurz entspannen können.",
+                "hu": "A stúdió télen meleg menedéket nyújt; szánjon időt a műalkotások részleteire, miközben az izmai egy rövid pihenőt kapnak a tekerés után.",
+                "ro": "Studioul oferă un refugiu călduros iarna; acordați timp detaliilor operelor de artă, în timp ce mușchii se pot relaxa puțin după pedalat.",
+                "en": "The studio provides a warm refuge in winter; take time for the details of the artworks while your muscles get a short break from riding."
+              }
+            },
+            {
+              "name": {
+                "de": "théâtre al kasaba",
+                "hu": "théâtre al kasaba",
+                "ro": "théâtre al kasaba",
+                "en": "théâtre al kasaba"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren schützt vor dem kalten Wind; parken Sie Ihr Rad in der Nähe und nutzen Sie die Bewegungspause für kulturelle Entdeckungen.",
+                "hu": "A benti látogatás megvéd a hideg széltől; parkolja le kerékpárját a közelben, és használja ki a mozgásszünetet kulturális felfedezésekre.",
+                "ro": "O vizită în interior vă protejează de vântul rece; parcați bicicleta în apropiere și profitați de pauza de mișcare pentru cultură.",
+                "en": "A visit inside protects you from the cold wind; park your bike nearby and take advantage of the break from movement for cultural discoveries."
+              }
+            },
+            {
+              "name": {
+                "de": "Conservatoire",
+                "hu": "Conservatoire",
+                "ro": "Conservatoire",
+                "en": "Conservatoire"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik ist im Winter bei geschlossenen Türen besonders intensiv; wärmen Sie sich auf, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "Az akusztika télen, zárt ajtók mellett különösen intenzív; melegedjen fel bent, mielőtt belevágna a túra utolsó szakaszába.",
+                "ro": "Acustica este deosebit de intensă iarna, cu ușile închise; încălziți-vă în interior înainte de a începe ultima etapă a turului.",
+                "en": "The acoustics are particularly intense in winter with the doors closed; warm up inside before starting the last leg of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Marhouk",
+                "hu": "Bab El Marhouk",
+                "ro": "Bab El Marhouk",
+                "en": "Bab El Marhouk"
+              },
+              "tip_5lang": {
+                "de": "Das Tor bietet Schutz vor der kühlen Zugluft in der Medina; prüfen Sie Ihre Beleuchtung am Rad, falls die Rückfahrt nach 17:00 Uhr erfolgt.",
+                "hu": "A kapu védelmet nyújt a medina hűvös huzata ellen; ellenőrizze a kerékpár világítását, ha a visszautat 17:00 utánra tervezi.",
+                "ro": "Poarta oferă protecție împotriva curentului rece din medina; verificați luminile bicicletei dacă plănuiți întoarcerea după ora 17:00.",
+                "en": "The gate provides protection from the cool drafts in the medina; check your bike lights if you plan to return after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomusée du parc national Talassemtane",
+                "hu": "Ecomusée du parc national Talassemtane",
+                "ro": "Ecomusée du parc national Talassemtane",
+                "en": "Ecomusée du parc national Talassemtane"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm temperiert; erfahren Sie hier mehr über die Flora der Rif-Berge, die Sie gerade mit dem Rad erkunden.",
+                "hu": "A múzeum télen kellemes hőmérsékletű; tudjon meg többet a Rif-hegység flórájáról, amelyet éppen kerékpárral fedez fel.",
+                "ro": "Muzeul are o temperatură plăcută iarna; aflați mai multe despre flora munților Rif, pe care îi explorați acum cu bicicleta.",
+                "en": "The museum is pleasantly tempered in winter; learn more about the flora of the Rif Mountains, which you are currently exploring by bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft klarer als im Sommer; bringen Sie eine Thermoskanne mit heißem Tee mit, um den frühen Sonnenuntergang zu genießen.",
+                "hu": "A kilátás télen gyakran tisztább, mint nyáron; hozzon magával egy termoszt forró teával, hogy élvezhesse a korai naplementét a dombtetőn.",
+                "ro": "Vizibilitatea este adesea mai clară iarna decât vara; aduceți un termos cu ceai fierbinte pentru a vă bucura de apusul timpuriu.",
+                "en": "Visibility is often clearer in winter than in summer; bring a thermos with hot tea to enjoy the early sunset on the hilltop."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Autós túrája az Ecomusée-nél kezdődik, hogy megismerje a természeti tájat, mielőtt a történelmi Bab El Marhouk kapuhoz hajtana. Az autóval gyorsan bejárhatja a medina peremét. \n Délben közelebb kerül a központhoz, a Piazza közelében parkolva, hogy élvezze a város szívét. A járművétől egy rövid séta vezet a nyüzsgő piachoz az ajándékokért. \n Délután vezessen fel a dombokra a Point de vue-hoz, ahonnan lenyűgöző kilátás nyílik Chefchaouenre. Az autó mobilitása hihetetlenül kényelmessé teszi ennek elérését. \n Késő délután és este vezessen ki a Talassemtane Nemzeti Parkba. Ez a fenséges természetvédelmi terület békés alkonyati kilátást nyújt a Rif-hegységre.",
         "ro": "Turul cu mașina începe la Ecomusée pentru a înțelege peisajul natural, înainte de a vă îndrepta spre poarta istorică Bab El Marhouk. Condusul vă permite să acoperiți rapid perimetrul. \n La prânz vă apropiați de centru, parcând lângă Piazza pentru a vă bucura de inima orașului. O scurtă plimbare de la vehicul vă duce la piața plină de viață pentru suveniruri. \n După-amiaza, conduceți pe dealuri până la Point de vue pentru o perspectivă impresionantă. Mobilitatea mașinii face ca atingerea acestui loc înalt să fie incredibil de convenabilă. \n Petreceți sfârșitul după-amiezii și seara conducând spre Parcul Național Talassemtane. Această rezervație naturală maiestuoasă oferă priveliști senine la amurg ale munților Rif.",
         "en": "Your driving tour starts at the Ecomusée to understand the natural landscape, before heading to the historic Bab El Marhouk gate. Driving allows you to quickly cover the medina's perimeter. \n Midday takes you closer to the center, parking near the Piazza to enjoy the vibrant heart of the city. A short walk from your vehicle leads you to the bustling Market for souvenirs. \n In the afternoon, drive up the hills to the Point de vue for a commanding perspective of Chefchaouen. The mobility of a car makes reaching this elevated spot incredibly convenient and fast. \n Spend your late afternoon and evening driving out to Talassemtane National Park. This majestic natural reserve offers serene twilight views of the Rif mountains, a perfect peaceful conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Chefchaouen lässt sich am besten im Auto bewältigen. Morgens genießen wir die Aussicht auf die blau-graue Stadt aus dem trockenen Innenraum. Mittags steuern wir Museen und Aussichtspunkte an, ohne lange im Regen stehen zu müssen. Am Nachmittag bietet die Fahrt in den Nationalpark dramatische Wolkenspiele, bevor wir den Tag gemütlich bei prasselndem Regen beenden.",
+            "hu": "Az esős nap Chefchaouenben autóval a legkényelmesebb. Reggel a száraz utastérből csodáljuk a kék-szürke város látványát. Délben múzeumokat és kilátópontokat veszünk célba, anélkül, hogy sokat kellene áznunk az esőben. Délután a nemzeti parkba vezető út drámai felhőjátékot kínál, mielőtt a napot a doboló eső mellett kényelmesen befejeznénk.",
+            "ro": "O zi ploioasă în Chefchaouen este cel mai ușor de gestionat cu mașina. Dimineața admirăm orașul albastru-gri din interiorul uscat. La prânz vizităm muzee și puncte de belvedere fără a sta mult în ploaie. După-amiaza, drumul spre parcul național oferă un joc dramatic de nori, înainte de a încheia ziua confortabil la adăpost.",
+            "en": "A rainy day in Chefchaouen is best managed by car. In the morning, we enjoy the view of the blue-grey city from the dry interior. At noon, we head for museums and viewpoints without having to stand in the rain for long. In the afternoon, the drive to the national park offers dramatic cloud displays before ending the day comfortably as rain drums outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomusée du parc national Talassemtane",
+                "hu": "Ecomusée du parc national Talassemtane",
+                "ro": "Ecomusée du parc national Talassemtane",
+                "en": "Ecomusée du parc national Talassemtane"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trocken ins Museum zu gelangen; die Ausstellungen bieten eine wunderbare Alternative zum regnerischen Wetter draußen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy szárazon jusson be a múzeumba; a kiállítások remek alternatívát kínálnak az esős külső időjárás helyett.",
+                "ro": "Parcați chiar la intrare pentru a ajunge uscat în muzeu; expozițiile oferă o alternativă minunată la vremea ploioasă de afară.",
+                "en": "Park right at the entrance to get into the museum dry; the exhibitions offer a wonderful alternative to the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Marhouk",
+                "hu": "Bab El Marhouk",
+                "ro": "Bab El Marhouk",
+                "en": "Bab El Marhouk"
+              },
+              "tip_5lang": {
+                "de": "Das Tor lässt sich gut aus dem Auto bewundern; achten Sie auf Fußgänger mit Regenschirmen, die auf den schmalen Straßen am Tor Schutz suchen.",
+                "hu": "A kapu az autóból is jól megcsodálható; ügyeljen az esernyős gyalogosokra, akik a kapu melletti szűk utcákban keresnek menedéket.",
+                "ro": "Poarta poate fi admirată bine din mașină; atenție la pietonii cu umbrele care caută adăpost pe străzile înguste de lângă poartă.",
+                "en": "The gate can be admired well from the car; watch out for pedestrians with umbrellas seeking shelter on the narrow streets by the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza",
+                "hu": "Piazza",
+                "ro": "Piazza",
+                "en": "Piazza"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen nahen Parkplatz und nutzen Sie den Regenschutz Ihres Autos für kurze Foto-Stopps; die blauen Gassen glänzen besonders schön im Regen.",
+                "hu": "Keressen egy közeli parkolót, és használja az autó védelmét a rövid fotómegállókhoz; a kék sikátorok különösen szépen csillognak az esőben.",
+                "ro": "Căutați un loc de parcare apropiat și folosiți protecția mașinii pentru scurte pauze foto; străzile albastre strălucesc frumos sub ploaie.",
+                "en": "Find a nearby parking spot and use the car's protection for short photo stops; the blue alleys shine especially beautifully in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Market",
+                "hu": "Market",
+                "ro": "Market",
+                "en": "Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis für Ihre Einkäufe, um Taschen nicht im Regen tragen zu müssen; achten Sie auf rutschige Straßen beim Anfahren.",
+                "hu": "Használja az autót bázisként a bevásárláshoz, hogy ne kelljen a szatyrokat az esőben cipelnie; ügyeljen a csúszós utakra elinduláskor.",
+                "ro": "Folosiți mașina ca bază pentru cumpărături, pentru a nu căra sacoșele prin ploaie; atenție la drumurile alunecoase la plecarea de pe loc.",
+                "en": "Use the car as a base for your shopping so you don't have to carry bags in the rain; watch out for slippery roads when starting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem warmen Auto; die beschlagenen Scheiben lassen sich mit der Klimaanlage schnell klären für perfekte Fotos.",
+                "hu": "Élvezze a panorámát a meleg autóból; a párás ablakokat a légkondicionálóval gyorsan letisztíthatja a tökéletes fotók készítéséhez.",
+                "ro": "Bucurați-vă de panoramă din mașina încălzită; geamurile aburite pot fi curățate rapid cu aerul condiționat pentru fotografii perfecte.",
+                "en": "Enjoy the panoramic view from the warm car; fogged windows can be cleared quickly with the air conditioning for perfect photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Talassemtane National Park",
+                "hu": "Talassemtane National Park",
+                "ro": "Talassemtane National Park",
+                "en": "Talassemtane National Park"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch den Park ist bei Regen mystisch; bleiben Sie auf befestigten Wegen, da unbefestigte Straßen im Nationalpark aufweichen können.",
+                "hu": "A parkon átvezető út esőben misztikus; maradjon a kövezett utakon, mert a nemzeti parkban a földutak a nagy esőben felázhatnak.",
+                "ro": "Drumul prin parc este mistic pe ploaie; rămâneți pe drumurile pavate, deoarece cele de pământ se pot înmuia în parcul național.",
+                "en": "The drive through the park is mystical in the rain; stay on paved paths as unpaved roads in the national park can soften in heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag mit dem Auto bietet die perfekte Mischung aus Komfort und Entdeckung. Morgens ist es im Wagen angenehm warm, während wir die ersten blauen Fassaden passieren. Mittags steuern wir sonnige Plätze an und nutzen den Wagen für Fahrten in die höheren Lagen der Rif-Berge. Da es ab 16:30 Uhr schattig und gegen 17:00 Uhr dunkel wird, kehren wir frühzeitig in die beleuchtete Stadt zurück.",
+            "hu": "A tiszta téli nap autóval a kényelem és a felfedezés tökéletes keverékét kínálja. Reggel az autóban kellemes meleg van, miközben elhaladunk az első kék homlokzatok mellett. Délben napos helyeket keresünk fel, és az autót a Rif-hegység magasabb pontjainak elérésére használjuk. Mivel 16:30-tól árnyékos, 17:00-tól pedig sötét lesz, korán térjünk vissza.",
+            "ro": "O zi senină de iarnă cu mașina oferă amestecul perfect de confort și explorare. Dimineața în mașină este plăcut și cald în timp ce trecem pe lângă fațadele albastre. La prânz vizităm locuri însorite și folosim mașina pentru a ajunge în zonele înalte ale munților Rif. Deoarece de la 16:30 e umbră și la 17:00 se întunecă, ne întoarcem devreme.",
+            "en": "A clear winter day by car offers the perfect mix of comfort and discovery. In the morning, the car is pleasantly warm as we pass the first blue facades. At noon, we visit sunny spots and use the car to reach the higher parts of the Rif Mountains. Since it gets shady from 16:30 and dark around 17:00, we return to the lit city early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomusée du parc national Talassemtane",
+                "hu": "Ecomusée du parc national Talassemtane",
+                "ro": "Ecomusée du parc national Talassemtane",
+                "en": "Ecomusée du parc national Talassemtane"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein warmer Start in den Tag; nutzen Sie die Parkmöglichkeiten vor Ort, um die Zeit im kühlen Wintermorgen draußen zu minimieren.",
+                "hu": "A múzeum meleg indítást kínál a naphoz; használja a helyi parkolót, hogy minimalizálja a hűvös téli reggelen kint töltött időt.",
+                "ro": "Muzeul este un început călduros al zilei; folosiți parcarea de la fața locului pentru a minimiza timpul petrecut afară în dimineața rece.",
+                "en": "The museum is a warm start to the day; use the on-site parking to minimize time spent outside in the cool winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Marhouk",
+                "hu": "Bab El Marhouk",
+                "ro": "Bab El Marhouk",
+                "en": "Bab El Marhouk"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das massive Tor aus dem beheizten Auto; das Licht der tiefstehenden Wintersonne lässt den Sandstein besonders golden wirken.",
+                "hu": "Élvezze a kilátást a masszív kapura a fűtött autóból; az alacsonyan járó téli nap fénye különösen aranyossá teszi a homokkő falakat.",
+                "ro": "Bucurați-vă de vederea porții masive din mașina încălzită; lumina soarelui de iarnă face ca gresia să pară deosebit de aurie.",
+                "en": "Enjoy the view of the massive gate from the heated car; the light from the low winter sun makes the sandstone look particularly golden."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza",
+                "hu": "Piazza",
+                "ro": "Piazza",
+                "en": "Piazza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Rand der Medina und spazieren Sie kurz zur Piazza; die Wintersonne ist hier am stärksten, aber bringen Sie eine Jacke für den Rückweg mit.",
+                "hu": "Parkoljon a medina szélén, és sétáljon egyet a Piazzán; itt a legerősebb a téli napsütés, de vigyen kabátot a visszaútra a hűvös miatt.",
+                "ro": "Parcați la marginea medinei și plimbați-vă puțin în Piazza; aici soarele de iarnă este cel mai puternic, dar luați o jachetă pentru întoarcere.",
+                "en": "Park at the edge of the medina and take a short walk to the Piazza; the winter sun is strongest here, but bring a jacket for the walk back."
+              }
+            },
+            {
+              "name": {
+                "de": "Market",
+                "hu": "Market",
+                "ro": "Market",
+                "en": "Market"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für warme Wollerzeugnisse lohnt sich; verstauen Sie Ihre Einkäufe bequem im Auto, bevor es am Nachmittag merklich abkühlt.",
+                "hu": "Érdemes egy rövid megállót tenni a meleg gyapjútermékekért; pakolja be kényelmesen a szerzeményeit az autóba, mielőtt délután érezhetően lehűlne az idő.",
+                "ro": "O scurtă oprire pentru produse calde din lână merită; puneți cumpărăturile confortabil în mașină înainte ca după-amiaza să se răcească simțitor.",
+                "en": "A short stop for warm wool products is worth it; stow your purchases conveniently in the car before it cools down noticeably in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Point de vue",
+                "hu": "Point de vue",
+                "ro": "Point de vue",
+                "en": "Point de vue"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist im Winter sehr windig; genießen Sie das Panorama durch die Windschutzscheibe oder steigen Sie nur kurz für ein schnelles Foto aus.",
+                "hu": "A kilátópont télen nagyon szeles lehet; élvezze a panorámát a szélvédőn keresztül, vagy csak rövid időre szálljon ki egy gyors fotó kedvéért.",
+                "ro": "Punctul de belvedere poate fi foarte vântos iarna; admirați panorama prin parbriz sau coborâți doar scurt timp pentru o fotografie rapidă.",
+                "en": "The viewpoint can be very windy in winter; enjoy the panorama through the windshield or only step out briefly for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Talassemtane National Park",
+                "hu": "Talassemtane National Park",
+                "ro": "Talassemtane National Park",
+                "en": "Talassemtane National Park"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraßen können im Winter schattig und frostig sein; fahren Sie vorsichtig und genießen Sie die verschneiten Gipfel in der Ferne vom warmen Sitz aus.",
+                "hu": "A hegyi utak télen árnyékosak és jegesek lehetnek; vezessen óvatosan, és csodálja a távoli havas csúcsokat a kényelmes, meleg ülésből.",
+                "ro": "Drumurile de munte pot fi umbrite și înghețate iarna; conduceți cu atenție și admirați vârfurile înzăpezite din depărtare din scaunul cald.",
+                "en": "Mountain roads can be shady and frosty in winter; drive carefully and admire the distant snowy peaks from the comfortable, warm seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

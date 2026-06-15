@@ -160,6 +160,196 @@
         "hu": "Kényelmes reggeli sétánk Iglesias szívébe vezet, ahol Quintino Sella szobrát és a San Michele templomot tekinthetjük meg. A festői sikátorok tökéletesek a barangoláshoz. Délben a Museo dell'Arte Mineraria segítségével mélyedünk el a lenyűgöző helyi bányászati történelemben. Később az elegáns Teatro Electra és a történelmi San Domenico templom vár ránk. A nap fenségesen zárul a Castello Salvaterra megmászásával, ahonnan csodálatos panoráma nyílik a város háztetőire a lágy esti fényben.",
         "ro": "O plimbare matinală relaxantă vă poartă în inima orașului Iglesias, unde veți admira statuia lui Quintino Sella și biserica San Michele. Aleile pitorești sunt perfecte pentru explorare. La prânz, aprofundați istoria minieră la Museo dell'Arte Mineraria. Mai târziu, vă așteaptă elegantul Teatro Electra și biserica istorică San Domenico. Ziua se încheie maiestuos cu o urcare la Castello Salvaterra, care oferă o panoramă minunată asupra acoperișurilor orașului în lumina blândă a serii.",
         "en": "A leisurely morning walk takes you to the heart of Iglesias, starting with the monument to Quintino Sella and the historic San Michele church. By midday, you will delve deep into the region's fascinating heritage at the Mining Art Museum. The afternoon brings the elegant facade of Teatro Electra and the charming San Domenico church. Your day concludes majestically with a climb to the ruins of Castello Salvaterra, offering sweeping panoramic views over the city rooftops in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens glänzen die Pflastersteine von Iglesias im Regen, während wir die historischen Monumente unter dem Schutz der Arkaden erkunden. Mittags bietet das Bergbaumuseum ein ideales, trockenes Refugium für Geschichtsinteressierte. Nachmittags suchen wir Schutz in den prachtvollen Kirchen der Altstadt. Abends endet der Tag gemütlich, wenn der Nebel die Burg Salvaterra mystisch einhüllt.",
+            "hu": "Reggel a városháza melletti téren kezdünk, ahol az eső áztatta kövek csillogása különleges hangulatot ad a sétához. Délben a szűk utcák és a múzeum fedett terei nyújtanak menedéket. Délután a templomok belső nyugalma véd meg az égi áldástól. Az estét a vár falai között zárjuk, ahol a párás idő misztikus keretbe foglalja a középkori Iglesias panorámáját és ódon házait.",
+            "ro": "Dimineața, pavajul din Iglesias strălucește sub ploaie în timp ce explorăm monumentele sub protecția arcadelor. La prânz, Muzeul Mineritului oferă un refugiu uscat ideal pentru pasionații de istorie. După-amiaza căutăm adăpost în bisericile magnifice din centrul vechi. Seara se încheie atmosferic, când ceața învăluie castelul Salvaterra într-o mantie mistică și plină de farmec.",
+            "en": "In the morning, the cobblestones of Iglesias glisten in the rain as we explore monuments under the shelter of old archways. At noon, the Mining Museum provides a perfect indoor sanctuary for history buffs. In the afternoon, we find refuge within the quiet, dry walls of the city's churches. The evening ends mistily as the fog adds a mysterious touch to the ancient Salvaterra Castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Quintino Sella",
+                "hu": "Monumento a Quintino Sella",
+                "ro": "Monumento a Quintino Sella",
+                "en": "Monumento a Quintino Sella"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz im Regen und nutzen Sie die umliegenden Hauseingänge als Schutz, da der Platz bei Nässe sehr rutschig sein kann.",
+                "hu": "Tekintse meg a szobrot a szemerkélő esőben, majd keressen menedéket a közeli árkádok alatt, mert a tér burkolata ilyenkor rendkívül csúszóssá válhat.",
+                "ro": "Admirați monumentul rapid prin ploaie și folosiți arcadele din apropiere pentru adăpost, deoarece piața devine foarte alunecoasă când este umedă.",
+                "en": "View the monument briefly in the rain and use nearby doorways for shelter, as the square's pavement can become quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele",
+                "hu": "Chiesa di San Michele",
+                "ro": "Chiesa di San Michele",
+                "en": "Chiesa di San Michele"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein wunderbarer Ort, um dem Regen zu entfliehen und die kunstvollen Details im trockenen und ruhigen Innenraum zu bewundern.",
+                "hu": "Ez a templom kiváló helyszín az eső elöli menekülésre, ahol szárazon és nyugodt körülmények között csodálhatja meg a belső tér művészi részleteit.",
+                "ro": "Această biserică este un loc minunat pentru a scăpa de ploaie și pentru a admira detaliile artistice din interiorul uscat și liniștit.",
+                "en": "This church is a wonderful spot to escape the rain and admire the artistic details in a dry, peaceful environment away from the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Arte Mineraria",
+                "hu": "Museo dell'Arte Mineraria",
+                "ro": "Museo dell'Arte Mineraria",
+                "en": "Museo dell'Arte Mineraria"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Stollen sind das perfekte Ziel bei Regen, da sie dauerhaften Schutz und faszinierende Einblicke in die Bergbaugeschichte bieten.",
+                "hu": "A föld alatti járatok tökéletes célpontot jelentenek esőben, hiszen tartós védelmet és lenyűgöző betekintést nyújtanak a bányászat történetébe.",
+                "ro": "Galeriile subterane sunt destinația perfectă pe ploaie, oferind adăpost permanent și perspective fascinante asupra istoriei miniere locale.",
+                "en": "The underground tunnels are the perfect rainy-day destination, offering constant shelter and fascinating insights into the region's mining history."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Electra",
+                "hu": "Teatro Electra",
+                "ro": "Teatro Electra",
+                "en": "Teatro Electra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum des Theaters, um sich aufzuwärmen und das historische Ambiente geschützt vor dem schlechten Wetter zu genießen.",
+                "hu": "Használja ki a színház pompás belső tereit a felmelegedésre és a történelmi hangulat élvezetére, miközben teljesen védve van a kinti rossz időtől.",
+                "ro": "Profitați de interiorul splendid al teatrului pentru a vă încălzi și pentru a vă bucura de ambianța istorică, fiind protejat de vremea rea.",
+                "en": "Take advantage of the theatre's splendid interior to warm up and enjoy the historical ambiance while staying completely protected from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer idealer Stopp, um trocken zu bleiben; bewundern Sie die gotischen Elemente, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "Újabb ideális megálló a szárazon maradáshoz; csodálja meg a gótikus elemeket, miközben kint az eső veri az ősi templomfalakat.",
+                "ro": "O altă oprire ideală pentru a rămâne uscat; admirați elementele gotice în timp ce afară ploaia bate în zidurile vechi ale bisericii.",
+                "en": "Another ideal stop to stay dry; admire the Gothic elements while the rain drums against the ancient walls of this beautiful church."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Salvaterra",
+                "hu": "Castello Salvaterra",
+                "ro": "Castello Salvaterra",
+                "en": "Castello Salvaterra"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungsräume im Inneren der Burg, um den Tag trocken zu beenden und den Blick auf das vernebelte Iglesias zu genießen.",
+                "hu": "Látogassa meg a vár belső kiállítótereit, hogy szárazon zárja a napot, és élvezze a kilátást a ködbe burkolózó, eső áztatta városra.",
+                "ro": "Vizitați spațiile expoziționale din interiorul castelului pentru a încheia ziua la adăpost și pentru a vedea panorama orașului învăluit în ceață.",
+                "en": "Visit the indoor exhibition spaces of the castle to end the day in the dry, enjoying views of the misty, rain-soaked city below."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Iglesias ist frisch und klar, ideal für einen Spaziergang in warmer Kleidung. Mittags wärmen wir uns in den Museen und Theatern der Stadt auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht des Nachmittags für den Aufstieg zur Burg. Abends erleuchten die Lichter der Altstadt die frühen dunklen Stunden besonders stimmungsvoll.",
+            "hu": "A téri reggel Iglesiasban friss és tiszta, ideális egy sétához réteges öltözetben. Napközben a város múzeumaiban és színházaiban melegedhetünk fel. Mivel a nap korán, 17:00 körül nyugszik, a délutáni arany fényeket a várkastély meglátogatására használjuk. Este a kivilágított óváros fényei különleges, meghitt hangulatot árasztanak a korai sötétben.",
+            "ro": "Dimineața de iarnă în Iglesias este proaspătă și senină, ideală pentru o plimbare cu haine groase. La prânz ne încălzim în muzeele și teatrele orașului. Deoarece soarele apune devreme, în jur de ora 17:00, folosim lumina aurie a după-amiezii pentru vizita la castel. Seara, luminile din centrul vechi creează o atmosferă intimă în orele devreme de întuneric.",
+            "en": "Winter mornings in Iglesias are crisp and clear, perfect for a stroll in layered clothing. At midday, we warm up in the city's museums and theatres. Since the sun sets early around 5 PM, we use the golden afternoon light for the castle visit. In the evening, the lights of the old town create a cozy, atmospheric glow during the early dark hours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Quintino Sella",
+                "hu": "Monumento a Quintino Sella",
+                "ro": "Monumento a Quintino Sella",
+                "en": "Monumento a Quintino Sella"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Denkmal, aber achten Sie auf den kalten Wind, der oft durch die Gassen der Oberstadt zieht.",
+                "hu": "Élvezze a friss téli levegőt a szobornál, de készüljön fel a hideg szélre, amely gyakran végigsöpör a felsőváros szűk utcáin.",
+                "ro": "Bucurați-vă de aerul curat de iarnă la monument, dar fiți atenți la vântul rece care suflă adesea prin străzile orașului de sus.",
+                "en": "Enjoy the crisp winter air at the monument, but be prepared for the cold wind that often blows through the upper town's streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele",
+                "hu": "Chiesa di San Michele",
+                "ro": "Chiesa di San Michele",
+                "en": "Chiesa di San Michele"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum der Kirche bietet eine windstille Pause; die kühlen Steinmauern machen eine warme Jacke dennoch absolut notwendig.",
+                "hu": "A templom belső tere szélvédett pihenőt kínál; a hűvös kőfalak miatt azonban a meleg kabát továbbra is elengedhetetlen kellék.",
+                "ro": "Interiorul bisericii oferă o pauză ferită de vânt; totuși, zidurile reci de piatră fac necesară o jachetă groasă pe tot parcursul vizitei.",
+                "en": "The church interior offers a wind-free break; however, the cool stone walls make a warm jacket absolutely necessary during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Arte Mineraria",
+                "hu": "Museo dell'Arte Mineraria",
+                "ro": "Museo dell'Arte Mineraria",
+                "en": "Museo dell'Arte Mineraria"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ideal, da die Temperatur unter Tage konstant bleibt und Schutz vor dem frostigen Wind im Freien bietet.",
+                "hu": "A múzeum télen is ideális, mivel a föld alatti hőmérséklet állandó, így menedéket nyújt a kinti fagyos szél és a hideg ellen.",
+                "ro": "Muzeul este ideal iarna, deoarece temperatura în subteran rămâne constantă, oferind protecție împotriva vântului înghețat de afară.",
+                "en": "The museum is ideal in winter as the underground temperature remains constant, providing a safe haven from the frosty winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Electra",
+                "hu": "Teatro Electra",
+                "ro": "Teatro Electra",
+                "en": "Teatro Electra"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Theater ist die perfekte Gelegenheit, um sich aufzuwärmen und die prunkvolle Architektur ohne Winterkälte zu bestaunen.",
+                "hu": "A színház meglátogatása tökéletes alkalom a felmelegedésre és a pompás építészet megcsodálására a téli hideg és fagy nélkül.",
+                "ro": "O vizită la teatru este ocazia perfectă pentru a vă încălzi și pentru a admira arhitectura splendidă fără frigul de afară.",
+                "en": "Visiting the theatre is the perfect opportunity to warm up and admire the splendid architecture without the winter chill or frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Domenico",
+                "hu": "Chiesa di San Domenico",
+                "ro": "Chiesa di San Domenico",
+                "en": "Chiesa di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen ruhigen Ort für eine kurze Rast im Windschatten, bevor es am späten Nachmittag draußen spürbar kälter wird.",
+                "hu": "Használja ezt a nyugodt helyet egy rövid, szélvédett pihenőre, mielőtt késő délután kint érezhetően lehűlne a levegő a városban.",
+                "ro": "Folosiți acest loc liniștit pentru o scurtă odihnă la ferit de vânt, înainte ca temperatura să scadă simțitor afară spre seară.",
+                "en": "Use this quiet location for a short, wind-sheltered rest before the temperature outside drops significantly in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Salvaterra",
+                "hu": "Castello Salvaterra",
+                "ro": "Castello Salvaterra",
+                "en": "Castello Salvaterra"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg vor 17:00 Uhr, um den Sonnenuntergang über den verschneiten Gipfeln in der Ferne im letzten Tageslicht zu sehen.",
+                "hu": "Látogasson el a várba 17:00 előtt, hogy a nap utolsó fényeiben csodálhassa meg a távoli, hófödte csúcsok feletti téli naplementét.",
+                "ro": "Vizitați castelul înainte de ora 17:00 pentru a admira apusul de iarnă peste vârfurile îndepărtate în ultima lumină a zilei.",
+                "en": "Visit the castle before 5 PM to catch the winter sunset over distant peaks in the last daylight, a truly breathtaking sight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a város északi részén található nyugodt Sant'Antonio Abate templomnál, mielőtt továbbkerekezik a San Giuseppe szentélyhez. Délben sok időt tölthet a bányászati múzeumban, és tehet egy rövid megállót a Quintino Sella emlékműnél. Délután a Castello Salvaterra kihívást jelentő emelkedője várja csodálatos kilátással. Végül kényelmesen guruljon el a Nostra Signora di Valverde templomhoz, hogy a napot abszolút nyugalomban fejezze be a város szélén.",
         "ro": "Începeți turul cu bicicleta la liniștita biserică Sant'Antonio Abate din nordul orașului, înainte de a pedala spre San Giuseppe. Briza proaspătă vă însoțește prin oraș. La prânz, petreceți timp la Muzeul de Artă Minieră și faceți o scurtă oprire la Monumento a Quintino Sella. După-amiaza vă așteaptă urcarea provocatoare la Castello Salvaterra. În cele din urmă, rulați relaxat până la biserica Nostra Signora di Valverde pentru a încheia ziua în liniște absolută.",
         "en": "Kick off your cycling tour at the quiet Sant'Antonio Abate church in the north before pedaling smoothly toward the Sanctuary of San Giuseppe. Around midday, dismount to spend ample time at the Mining Art Museum and the monument to Quintino Sella. The afternoon brings a slightly challenging but rewarding ride up to Castello Salvaterra for breathtaking views. Finally, roll comfortably down to the beautiful Church of Nostra Signora di Valverde to end your active day in absolute peace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Gassen von Iglesias. Wir starten morgens an den Kirchen und nutzen die Abfahrten mit reduzierter Geschwindigkeit. Mittags bietet das Bergbaumuseum eine lange, trockene Pause für Fahrer und Ausrüstung. Nachmittags geht es weiter zur Burg, wobei wasserfeste Kleidung heute unser wichtigster Begleiter auf zwei Rädern ist.",
+            "hu": "A kerékpározás esőben óvatosságot igényel Iglesias csúszós utcáin. Reggel a templomok érintésével indulunk, ügyelve a féktávolságra. Délben a bányászati múzeum nyújt hosszú, száraz pihenőt a bringásoknak és a felszerelésnek. Délután a vár felé vesszük az irányt; a vízálló ruházat ma a legfontosabb társunk a két keréken történő felfedezés során.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe străzile alunecoase din Iglesias. Dimineața pornim pe la biserici, adaptând viteza la carosabilul umed. La prânz, Muzeul Mineritului oferă o pauză lungă și uscată pentru bicicliști. După-amiaza continuăm spre castel, îmbrăcămintea impermeabilă fiind astăzi cel mai important accesoriu pe două roți.",
+            "en": "Cycling in the rain requires caution on the slippery streets of Iglesias. We start in the morning visiting churches, keeping speed low on descents. At noon, the Mining Museum offers a long, dry break for riders and gear. In the afternoon, we head towards the castle; waterproof clothing is your most essential companion on two wheels today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio Abate",
+                "hu": "Chiesa di Sant'Antonio Abate",
+                "ro": "Chiesa di Sant'Antonio Abate",
+                "en": "Chiesa di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Kirchenbesuch, um die erste Regenfront trocken abzuwarten.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a templomlátogatást az első esőhullám szárazon történő átvészelésére.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți vizita la biserică pentru a aștepta trecerea primului val de ploaie la adăpost.",
+                "en": "Park your bike in a sheltered spot and use the church visit to wait out the first wave of rain in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario San Giuseppe",
+                "hu": "Santuario San Giuseppe",
+                "ro": "Santuario San Giuseppe",
+                "en": "Santuario San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Asphalt; das Heiligtum bietet eine ruhige, überdachte Möglichkeit für eine kurze Verschnaufpause.",
+                "hu": "Vigyázzon a leszálláskor a nedves aszfalton; a szentély csendes, fedett lehetőséget nyújt egy rövid, esőmentes pihenőre és felfrissülésre.",
+                "ro": "Atenție la coborârea de pe bicicletă pe asfaltul umed; sanctuarul oferă o oportunitate liniștită și acoperită pentru o scurtă pauză.",
+                "en": "Be careful when dismounting on wet asphalt; the sanctuary offers a quiet, covered opportunity for a short break away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Arte Mineraria",
+                "hu": "Museo dell'Arte Mineraria",
+                "ro": "Museo dell'Arte Mineraria",
+                "en": "Museo dell'Arte Mineraria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt im Museum, um Ihre Kleidung zu trocknen, während Sie die beeindruckenden Exponate unter Tage besichtigen.",
+                "hu": "Használja ki a múzeumi tartózkodást a ruházata megszárítására, miközben a lenyűgöző föld alatti kiállításokat böngészi a száraz tárlatokon.",
+                "ro": "Profitați de șederea lungă la muzeu pentru a vă usca hainele în timp ce explorați exponatele impresionante din galeriile subterane.",
+                "en": "Use the long stay at the museum to dry your gear while exploring the impressive underground exhibits in a fully sheltered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Quintino Sella",
+                "hu": "Monumento a Quintino Sella",
+                "ro": "Monumento a Quintino Sella",
+                "en": "Monumento a Quintino Sella"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus; achten Sie beim Fahren über den Platz auf die extrem rutschigen Markierungen.",
+                "hu": "Egy rövid fotómegálló itt bőven elegendő; a téren való áthaladáskor ügyeljen az esőben különösen csúszóssá váló útburkolati jelekre.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; aveți grijă la marcajele rutiere care devin extrem de alunecoase pe ploaie în piață.",
+                "en": "A brief photo stop is enough here; watch out for road markings that become extremely slippery on the square when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Salvaterra",
+                "hu": "Castello Salvaterra",
+                "ro": "Castello Salvaterra",
+                "en": "Castello Salvaterra"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg hält Sie warm, aber oben angekommen sollten Sie sofort Schutz suchen, um nicht im Wind auszukühlen.",
+                "hu": "A várba vezető emelkedő melegen tartja, de felérve keressen azonnal menedéket, hogy a szélben ne hűljön le a nedves ruházata.",
+                "ro": "Urcarea spre castel vă va ține cald, dar odată ajunși sus, căutați imediat adăpost pentru a nu răci în vântul umed.",
+                "en": "The climb to the castle will keep you warm, but once at the top, seek shelter immediately to avoid chilling in the damp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Valverde",
+                "hu": "Chiesa di Nostra Signora di Valverde",
+                "ro": "Chiesa di Nostra Signora di Valverde",
+                "en": "Chiesa di Nostra Signora di Valverde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in dieser friedlichen Kirche und prüfen Sie Ihre Bremsen für die anschließende Abfahrt auf der regennassen Straße.",
+                "hu": "Zárja a túrát ebben a békés templomban, és ellenőrizze a fékeit a későbbi leereszkedéshez az eső áztatta, csúszós úton lefelé.",
+                "ro": "Încheiați turul în această biserică liniștită și verificați frânele pentru coborârea ulterioară pe drumul ud și alunecos.",
+                "en": "End your tour in this peaceful church and check your brakes for the subsequent descent on the rain-slicked roads back down."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Iglesias bietet frische Luft und freie Wege. Morgens sind Handschuhe Pflicht, während wir die historischen Sakralbauten ansteuern. Mittags nutzen wir die Museumsbesuche als Aufwärmpausen. Der Nachmittag führt uns zur Burg im warmen Licht der tiefstehenden Sonne. Achten Sie auf die Zeit, da es ab 17:00 Uhr schnell dunkel und deutlich kälter wird.",
+            "hu": "A téli kerékpározás Iglesiasban friss levegőt és üres utakat kínál. Reggel a kesztyű kötelező, miközben a történelmi templomokat vesszük célba. Napközben a múzeumlátogatást használjuk felmelegedésre. A délután a várba vezet a lemenő nap meleg fényében. Ügyeljen az időre, mert 17:00 után gyorsan sötétedik és hirtelen lehűl a levegő.",
+            "ro": "Ciclismul de iarnă în Iglesias oferă aer proaspăt și drumuri libere. Dimineața, mănușile sunt obligatorii în timp ce vizităm bisericile istorice. La prânz, folosim vizitele la muzee pentru a ne încălzi. După-amiaza ne îndreptăm spre castel în lumina caldă a soarelui care apune. Atenție la timp, deoarece după ora 17:00 se întunecă rapid.",
+            "en": "Winter cycling in Iglesias offers fresh air and empty paths. Gloves are mandatory in the morning as we head to historical churches. Use museum visits as warming breaks during midday. The afternoon leads us to the castle in the warm light of the low sun. Watch the time, as it gets dark and much colder quickly after 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio Abate",
+                "hu": "Chiesa di Sant'Antonio Abate",
+                "ro": "Chiesa di Sant'Antonio Abate",
+                "en": "Chiesa di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Finger aufzuwärmen; die Kirche bietet Schutz vor dem morgendlichen Frostwind.",
+                "hu": "Használja ki a megállót elgémberedett ujjai felmelegítésére; a templom kiváló védelmet nyújt a metsző reggeli fagyos szél ellen.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele amorțite; biserica oferă protecție împotriva vântului înghețat de dimineață.",
+                "en": "Use this stop to warm up stiff fingers; the church provides excellent protection against the biting morning frost and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario San Giuseppe",
+                "hu": "Santuario San Giuseppe",
+                "ro": "Santuario San Giuseppe",
+                "en": "Santuario San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein sonniges Plätzchen vor dem Heiligtum kann zur Mittagszeit kurz Wärme spenden, bevor die Fahrt im kalten Schatten weitergeht.",
+                "hu": "Egy napos hely a szentély előtt délidőben rövid ideig melegséget adhat, mielőtt a túra a hideg árnyékos utcákon folytatódna.",
+                "ro": "Un loc însorit în fața sanctuarului la prânz poate oferi un pic de căldură înainte de a continua drumul prin umbra rece.",
+                "en": "A sunny spot in front of the sanctuary at midday can provide brief warmth before you continue riding through the cold shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Arte Mineraria",
+                "hu": "Museo dell'Arte Mineraria",
+                "ro": "Museo dell'Arte Mineraria",
+                "en": "Museo dell'Arte Mineraria"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die ideale Aufwärmstation; im Inneren ist es deutlich wärmer als auf dem Rad im winterlichen Fahrtwind.",
+                "hu": "Ez az ideális állomás a felmelegedésre; odabent sokkal melegebb van, mint a kerékpáron a téli menetszélben tekerve.",
+                "ro": "Aceasta este stația ideală pentru încălzire; interiorul este mult mai cald decât pe bicicletă în vântul rece de iarnă.",
+                "en": "This is the ideal warming station; the interior is much warmer than being on the bike in the biting winter headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Quintino Sella",
+                "hu": "Monumento a Quintino Sella",
+                "ro": "Monumento a Quintino Sella",
+                "en": "Monumento a Quintino Sella"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf dem Kopfsteinpflaster im Schatten der umliegenden Gebäude während der Wintermonate.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a macskaköves burkolaton, amelyek a környező épületek árnyékában télen könnyen kialakulhatnak.",
+                "ro": "Aveți grijă la posibilele porțiuni de gheață de pe pavaj, care se pot forma iarna în umbra clădirilor din jurul pieței.",
+                "en": "Watch out for potential icy patches on the cobblestones, which can easily form in the shadows of buildings during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Salvaterra",
+                "hu": "Castello Salvaterra",
+                "ro": "Castello Salvaterra",
+                "en": "Castello Salvaterra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick im goldenen Licht, aber ziehen Sie für die Abfahrt eine zusätzliche winddichte Schicht an.",
+                "hu": "Élvezze a panorámát az arany fényekben, de a lefelé útra vegyen fel egy extra szélálló réteget a lehűlés ellen.",
+                "ro": "Bucurați-vă de panoramă în lumina aurie, dar puneți-vă un strat suplimentar rezistent la vânt pentru coborârea cu bicicleta.",
+                "en": "Enjoy the panorama in the golden light, but put on an extra windproof layer for the descent to stay warm against the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Valverde",
+                "hu": "Chiesa di Nostra Signora di Valverde",
+                "ro": "Chiesa di Nostra Signora di Valverde",
+                "en": "Chiesa di Nostra Signora di Valverde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Einbruch der Dunkelheit, da die Temperaturen nach 17:00 Uhr drastisch sinken werden.",
+                "hu": "Fejezze be a túrát időben a sötétedés előtt, mivel a hőmérséklet 17:00 után drasztikusan és hirtelen csökkenni fog a városban.",
+                "ro": "Încheiați turul la timp înainte de lăsarea întunericului, deoarece temperaturile vor scădea drastic după ora 17:00.",
+                "en": "Finish your tour well before dark, as temperatures will drop drastically and suddenly after 5 PM in the winter evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kényelmes autós útja a déli külvárosokban kezdődik a San Pio X és a San Giuseppe Artigiano templomoknál, hiteles képet adva a helyi életről. Délben a központba hajt, hogy megnézze a modern San Paolo Apostolo templomot és a híres bányászati múzeumot. Délután felfedezi az impozáns Castello Salvaterrát, amely uralja a városképet. A nap végén elvezet a Nostra Signora di Valverde templomhoz, ahol a nyüzsgéstől távol, igazi békében fejezheti be a kirándulást.",
         "ro": "Călătoria dumneavoastră confortabilă începe în suburbiile de sud la San Pio X și San Giuseppe Artigiano, oferindu-vă o impresie autentică asupra vieții locale. La prânz conduceți spre centru pentru a vedea biserica San Paolo Apostolo și celebrul muzeu minier. După-amiaza explorați impunătorul Castello Salvaterra de sus. La sfârșitul zilei conduceți la Nostra Signora di Valverde, unde încheiați relaxat călătoria departe de agitație, într-o atmosferă fermecătoare.",
         "en": "Your comfortable drive begins in the southern suburbs at San Pio X and San Giuseppe Artigiano, offering an authentic glimpse of everyday local life. By midday, cruise toward the center to visit San Paolo Apostolo and the highly renowned Mining Art Museum. In the afternoon, navigate up to explore the imposing Castello Salvaterra overlooking the city. To round off the day, take a short drive out to Nostra Signora di Valverde, finishing your excursion away from the hustle and bustle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Iglesias auch bei starkem Regen komfortabel zu erkunden. Wir steuern morgens die Kirchen in den Außenbezirken an und bleiben trocken. Mittags parken wir nahe dem Bergbaumuseum für einen langen Indoor-Aufenthalt. Nachmittags geht es zur Burg, von wo aus wir den Regen über der Stadt aus dem sicheren Fahrzeug beobachten können, bevor der Tag gemütlich endet.",
+            "hu": "Autóval Iglesias még heves esőzésben is kényelmesen felfedezhető. Reggel a távolabb eső templomokat keressük fel, így teljesen szárazon maradhatunk. Délben a bányászati múzeum közelében parkolunk a hosszú benti programhoz. Délután a vár felé vesszük az irányt, ahonnan az autó biztonságából figyelhetjük a város feletti esőt, mielőtt a napot nyugodtan zárnánk.",
+            "ro": "Cu mașina, Iglesias poate fi explorat confortabil chiar și pe ploaie torențială. Dimineața vizităm bisericile de la periferie, rămânând perfect uscați. La prânz parcăm lângă Muzeul Mineritului pentru o vizită lungă la interior. După-amiaza ne îndreptăm spre castel, de unde putem observa ploaia peste oraș din siguranța vehiculului înainte de finalul zilei.",
+            "en": "By car, Iglesias is comfortable to explore even during heavy rain. We visit outlying churches in the morning while staying completely dry. At noon, we park near the Mining Museum for a long indoor session. In the afternoon, we head to the castle, watching the rain over the city from the safety of the vehicle before a cozy end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Pio X",
+                "hu": "San Pio X",
+                "ro": "San Pio X",
+                "en": "San Pio X"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg durch den Regen zum modernen Kirchenschiff trocken zu überstehen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy a modern templomhajóhoz vezető rövid utat is szárazon tehesse meg az esőben.",
+                "ro": "Parcați cât mai aproape de intrare pentru a parcurge drumul scurt prin ploaie până la nava modernă a bisericii fără a vă uda.",
+                "en": "Park as close to the entrance as possible to make the short walk to the modern church nave dry despite the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giuseppe Artigiano",
+                "hu": "San Giuseppe Artigiano",
+                "ro": "San Giuseppe Artigiano",
+                "en": "San Giuseppe Artigiano"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine großartige Akustik im Regen; nutzen Sie die Parkmöglichkeiten direkt davor für einen schnellen, trockenen Zugang.",
+                "hu": "A templom nagyszerű akusztikát kínál esőben is; használja a közvetlenül előtte lévő parkolót a gyors és száraz bejutás érdekében.",
+                "ro": "Biserica oferă o acustică deosebită chiar și pe ploaie; folosiți parcarea direct din față pentru un acces rapid și uscat.",
+                "en": "The church offers great acoustics during rain; use the parking lot directly in front for quick and dry access to the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "San Paolo Apostolo",
+                "hu": "San Paolo Apostolo",
+                "ro": "San Paolo Apostolo",
+                "en": "San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei den Kurven auf dem Weg hierher; das Auto ist heute Ihr bester Schutz gegen die nasskalte Witterung draußen.",
+                "hu": "Vigyázzon a kanyarokban az idevezető úton; az autó ma a legjobb védelmet nyújtja a kinti nedves és hűvös időjárás ellen.",
+                "ro": "Atenție în curbe pe drumul spre biserică; mașina este astăzi cea mai bună protecție împotriva vremii umede și reci de afară.",
+                "en": "Be careful on the turns on your way here; the car is your best protection today against the wet and chilly weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Arte Mineraria",
+                "hu": "Museo dell'Arte Mineraria",
+                "ro": "Museo dell'Arte Mineraria",
+                "en": "Museo dell'Arte Mineraria"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel bei Regen; parken Sie das Auto und genießen Sie die umfassende Ausstellung in den trockenen unterirdischen Tunneln.",
+                "hu": "Ideális úti cél esőben; parkolja le az autót, és élvezze az átfogó kiállítást a teljesen száraz, föld alatti alagutakban.",
+                "ro": "Destinația ideală pe ploaie; lăsați mașina și bucurați-vă de expoziția cuprinzătoare din galeriile subterane perfect uscate.",
+                "en": "The ideal rainy-day destination; park your car and enjoy the comprehensive exhibition inside the dry underground tunnels."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Salvaterra",
+                "hu": "Castello Salvaterra",
+                "ro": "Castello Salvaterra",
+                "en": "Castello Salvaterra"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg ist auch bei Regen sicher; genießen Sie den Blick auf das vernebelte Panorama aus dem geschützten Wagen.",
+                "hu": "A várba vezető út esőben is biztonságos; élvezze a ködös panorámát a védett autó ablakából, mielőtt kiszállna a várnál.",
+                "ro": "Drumul spre castel este sigur și pe ploaie; bucurați-vă de panorama încețoșată din interiorul protejat al mașinii înainte de vizită.",
+                "en": "The drive to the castle is safe even in rain; enjoy the misty panorama from the sheltered car before stepping out to visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Valverde",
+                "hu": "Chiesa di Nostra Signora di Valverde",
+                "ro": "Chiesa di Nostra Signora di Valverde",
+                "en": "Chiesa di Nostra Signora di Valverde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier und nutzen Sie die Klimaanlage im Auto, um die beschlagenen Scheiben nach dem Kirchenbesuch schnell zu trocknen.",
+                "hu": "Zárja itt a napot, és használja az autó légkondicionálóját a templomlátogatás után bepárásodott szélvédők gyors leszárítására.",
+                "ro": "Încheiați ziua aici și folosiți aerul condiționat pentru a dezaburi rapid parbrizul după vizita la biserică în condiții de ploaie.",
+                "en": "End the day here and use the car's AC to quickly dry any fogged windows after your church visit in the rainy conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Iglesias kombiniert Komfort mit spektakulären Ausblicken. Morgens besuchen wir die abgelegenen Kirchen im wohltemperierten Wagen. Mittags sind die Museen perfekte Aufwärmstationen. Am Nachmittag genießen wir die Fahrt zur Burg im klaren Winterlicht. Da es um 17:00 Uhr dunkel wird, bietet das Auto eine sichere und warme Basis für den abendlichen Rückweg.",
+            "hu": "A téli autós túra Iglesiasban ötvözi a kényelmet a látványos kilátással. Reggel a távolabbi templomokat látogatjuk meg a kellemesen fűtött autóban. Napközben a múzeumok tökéletes állomások a felmelegedésre. Délután a várba vezető utat a tiszta téli fények teszik különlegessé. Mivel 17:00-kor sötétedik, az autó biztonságos és meleg bázis az esti visszatéréshez.",
+            "ro": "Un tur cu mașina iarna prin Iglesias combină confortul cu vederile spectaculoase. Dimineața vizităm bisericile izolate în vehiculul bine încălzit. La prânz, muzeele sunt stații perfecte pentru încălzire. După-amiaza ne bucurăm de drumul spre castel în lumina clară de iarnă. Deoarece se întunecă la ora 17:00, mașina oferă o bază sigură și caldă pentru întoarcere.",
+            "en": "A winter car tour through Iglesias combines comfort with spectacular views. We visit remote churches in the morning in a well-heated vehicle. At noon, museums serve as perfect warming stations. In the afternoon, enjoy the drive to the castle in the crisp winter light. Since it gets dark at 5 PM, the car provides a safe and warm base for your evening return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Pio X",
+                "hu": "San Pio X",
+                "ro": "San Pio X",
+                "en": "San Pio X"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps; das moderne Kirchengebäude ist im Winter oft recht kühl im Inneren.",
+                "hu": "Használja ki az autó fűtését a megállók között; a modern templomépület belseje télen gyakran meglehetősen hűvös és barátságtalan.",
+                "ro": "Folosiți încălzirea mașinii între opriri; clădirea modernă a bisericii este adesea destul de rece în interior pe timpul iernii.",
+                "en": "Make the most of the car's heater between stops; the modern church building can be quite chilly inside during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giuseppe Artigiano",
+                "hu": "San Giuseppe Artigiano",
+                "ro": "San Giuseppe Artigiano",
+                "en": "San Giuseppe Artigiano"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt davor ersparen Ihnen lange Wege in der Kälte; genießen Sie die Architektur und kehren Sie schnell ins warme Auto zurück.",
+                "hu": "A közvetlenül előtte lévő parkolók megkímélik a hosszú gyaloglástól a hidegben; csodálja meg az épületet, majd térjen vissza a fűtött autóba.",
+                "ro": "Parcările direct din față vă scutesc de mersul pe jos în frig; admirați arhitectura și reveniți rapid în mașina încălzită.",
+                "en": "The parking spots right in front save you from long walks in the cold; enjoy the architecture and return quickly to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "San Paolo Apostolo",
+                "hu": "San Paolo Apostolo",
+                "ro": "San Paolo Apostolo",
+                "en": "San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne während der Fahrt, die im Winter blenden kann; die Kirche bietet einen ruhigen, windgeschützten Halt.",
+                "hu": "Ügyeljen az alacsonyan járó napra vezetés közben, amely télen vakíthat; a templom csendes, szélvédett megállót kínál az út során.",
+                "ro": "Atenție la soarele jos în timp ce conduceți, acesta poate fi orbitor iarna; biserica oferă o oprire liniștită și ferită de vânt.",
+                "en": "Watch out for the low sun while driving, which can be blinding in winter; the church offers a quiet, wind-sheltered stop on your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo dell'Arte Mineraria",
+                "hu": "Museo dell'Arte Mineraria",
+                "ro": "Museo dell'Arte Mineraria",
+                "en": "Museo dell'Arte Mineraria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für längere Zeit; das Museum ist die beste Gelegenheit, sich gründlich aufzuwärmen, bevor die Sonne am Nachmittag sinkt.",
+                "hu": "Parkoljon le hosszabb időre; a múzeum a legjobb alkalom az alapos felmelegedésre, mielőtt a nap korán lemenne a téli délutánon.",
+                "ro": "Parcați pentru o perioadă mai lungă; muzeul este cea mai bună ocazie de a vă încălzi bine înainte ca soarele să apună după-amiaza.",
+                "en": "Park for a longer duration; the museum is your best chance to warm up thoroughly before the sun sets early in the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Salvaterra",
+                "hu": "Castello Salvaterra",
+                "ro": "Castello Salvaterra",
+                "en": "Castello Salvaterra"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis ganz nach oben, um den winterlichen Sonnenuntergang ohne Kälteverlust so lange wie möglich genießen zu können.",
+                "hu": "Hajtson fel egészen a várig, hogy a téli naplementét a hidegben való várakozás nélkül, az autó kényelméből a legtovább élvezhesse.",
+                "ro": "Conduceți până sus la castel pentru a vă bucura de apusul de iarnă cât mai mult timp posibil, fără a sta prea mult în frig.",
+                "en": "Drive all the way up to the castle to enjoy the winter sunset for as long as possible without staying too long in the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Nostra Signora di Valverde",
+                "hu": "Chiesa di Nostra Signora di Valverde",
+                "ro": "Chiesa di Nostra Signora di Valverde",
+                "en": "Chiesa di Nostra Signora di Valverde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier; achten Sie beim Verlassen der Kirche auf die drastisch gesunkenen Temperaturen nach Sonnenuntergang.",
+                "hu": "Itt fejezze be a napot; a templom elhagyásakor ügyeljen a naplemente után drasztikusan és hirtelen lecsökkent kinti hőmérsékletre.",
+                "ro": "Încheiați ziua aici; la ieșirea din biserică, fiți atenți la scăderea drastică a temperaturii exterioare după apusul soarelui.",
+                "en": "Finish your day here; when leaving the church, be mindful of the drastically dropped outside temperatures after the winter sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

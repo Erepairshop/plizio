@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Saint-Laurent templomnál. A délelőtt folyamán sétáljon el a Bel-Air kastélyhoz. Délután fedezze fel a Szent Bertalan templomot és a Cruzol várat. A nap a nyüzsgő Piactéren ér véget, ahol finom helyi specialitások várják a látogatókat.",
         "ro": "Începeți ziua la Biserica Saint-Laurent. Dimineața oferă o plimbare plăcută către Castelul Bel-Air. După-amiaza explorați Biserica Sfântul Bartolomeu și fascinantul Castel Cruzol. Ziua se încheie relaxant în Piața Centrală, unde vă așteaptă specialități locale delicioase.",
         "en": "Start your day at the Saint-Laurent Church. The morning offers a pleasant stroll to the Château de Bel-Air. In the afternoon, explore the Église Saint-Barthélemy and the fascinating Cruzol Castle. The day concludes comfortably at the bustling Market Square, where local specialties await."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in den historischen Kirchen, die perfekten Schutz vor Regen bieten. Mittags geht es zu den Schlössern; die Wege können matschig sein, feste wasserdichte Schuhe sind Pflicht. Bewundern Sie nachmittags die Architektur unter dem Regenschirm. Beenden Sie den Abend auf dem Marktplatz und suchen Sie sich ein gemütliches, überdachtes Plätzchen.",
+            "hu": "Kezdje a reggelt a történelmi templomokban, melyek remek menedéket nyújtanak az eső elől. Délben óvatosan közelítse meg a kastélyokat; az ösvények sárosak lehetnek, így a vízálló cipő elengedhetetlen. Délután esernyő alól csodálja meg a középkori építészetet. Zárja az estét a piactéren egy fedett, barátságos sarokban megpihenve.",
+            "ro": "Începeți dimineața în bisericile istorice, care oferă un refugiu excelent împotriva ploii. La prânz, îndreptați-vă cu atenție spre castele; potecile pot fi noroioase, încălțămintea impermeabilă este esențială. După-amiaza, admirați arhitectura sub o umbrelă. Încheiați seara în piața centrală, găsind un loc acoperit și confortabil pentru a vă relaxa.",
+            "en": "Start your morning exploring the historic churches where you can shelter from the rain. By noon, navigate carefully to the castles; paths might be muddy, so waterproof boots are essential. Spend the afternoon admiring the medieval architecture under an umbrella. Conclude the evening at the market square, finding a cozy covered spot to reflect on your wet walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Laurentius Kirche",
+                "hu": "Saint-Laurent Templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Fenster aus dem trockenen Innenraum; denken Sie daran, Ihren Regenschirm vor dem Betreten gut auszuschütteln.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat a száraz belső térből; belépés előtt ne felejtse el alaposan lerázni az esernyőjét.",
+                "ro": "Admirați vitraliile frumoase din interiorul uscat; nu uitați să scuturați bine umbrela înainte de a intra în sanctuar.",
+                "en": "Admire the beautiful stained glass windows from the dry interior; remember to shake off your umbrella before entering the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bel-Air",
+                "hu": "Bel-Air Kastély",
+                "ro": "Castelul Bel-Air",
+                "en": "Château de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die majestätische Schlossfassade vor dramatischen Regenwolken; gehen Sie vorsichtig auf den rutschigen Steinwegen.",
+                "hu": "Figyelje meg a kastély fenséges homlokzatát a drámai esőfelhők előtt; lépkedjen óvatosan a bejárathoz vezető csúszós kőösvényeken.",
+                "ro": "Observați fațada maiestuoasă a castelului sub norii dramatici de ploaie; pășiți cu grijă pe aleile de piatră alunecoase.",
+                "en": "Observe the majestic castle facade framed by dramatic rain clouds; step carefully on the slippery stone pathways leading to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bartholomäuskirche",
+                "hu": "Szent Bertalan Templom",
+                "ro": "Biserica Sfântul Bartolomeu",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Ruhe und Schutz in dieser historischen Kirche; die dicken Mauern bieten eine tolle Akustik gegen den prasselnden Regen.",
+                "hu": "Leljen békére és menedékre a történelmi templomban; vastag falai remek akusztikát adnak a kinti eső kopogásának.",
+                "ro": "Găsiți liniște și adăpost în această biserică istorică; zidurile sale groase oferă o rezonanță acustică perfectă ploii de afară.",
+                "en": "Find peace and shelter inside this historic church; its thick walls offer a perfect acoustic resonance against the pattering rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Cruzol",
+                "hu": "Cruzol Vár",
+                "ro": "Castelul Cruzol",
+                "en": "Cruzol Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die stimmungsvollen Burgruinen im Nebel; tragen Sie feste Regenstiefel, da die grasbewachsene Umgebung schnell aufweicht.",
+                "hu": "Fedezze fel a hangulatos várromokat a ködben; viseljen masszív vízálló csizmát, mert a füves környezet gyorsan felázik.",
+                "ro": "Explorați ruinele atmosferice ale fortăreței în ceață; purtați cizme impermeabile rezistente, deoarece iarba din jur devine rapid noroioasă.",
+                "en": "Explore the atmospheric fortress ruins in the mist; wear sturdy waterproof boots as the grassy surroundings become quickly waterlogged."
+              }
+            },
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den lebhaften Platz unter bunten Markisen; suchen Sie sich einen trockenen, überdachten Ort, um sich auszuruhen.",
+                "hu": "Tapasztalja meg a nyüzsgő teret a színes ponyvák alatt; keressen egy meleg, fedett pontot, hogy megpihenjen a nedves séta végén.",
+                "ro": "Experimentați piața plină de viață sub copertinele colorate; găsiți un loc cald și acoperit pentru a vă odihni picioarele.",
+                "en": "Experience the lively square under colorful awnings; find a warm, covered spot to rest your legs and escape the damp chill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihr kalter Wintermorgen beginnt bei der majestätischen Sakralarchitektur, am besten mit Thermokleidung. Mittags heben sich die Schlösser wunderschön vom Frost ab – warme Handschuhe sind Pflicht. Das Nachmittagslicht schwindet schnell; genießen Sie die Burgruinen vor der Kälte. Gegen 17 Uhr taucht die abendliche Dämmerung den Marktplatz in warmes Licht.",
+            "hu": "A fagyos téli reggel a fenséges vallási építészettel kezdődik, réteges öltözetben. Délben a kastélyok gyönyörűen kiemelkednek a dérből, itt a meleg kesztyű kötelező. A délutáni fény gyorsan fogy, így időben nézze meg a várromokat. Délután ötre az esti szürkület betakarja a piacteret, ideális hely egy kis felmelegedésre.",
+            "ro": "Dimineața geroasă de iarnă începe cu arhitectura religioasă maiestuoasă, cel mai bine savurată cu haine groase. La prânz, castelele contrastează frumos cu bruma, necesitând mănuși călduroase. Lumina după-amiezii dispare repede, așa că vizitați ruinele înainte de lăsarea frigului. Pe la 17:00, amurgul de seară cuprinde piața centrală, perfectă pentru încălzire.",
+            "en": "Your crisp winter morning begins with the majestic religious architecture, best enjoyed with a thermal layer. At midday, the castles stand stark against the frost, demanding warm gloves. Afternoon light fades fast, so enjoy the fortress ruins before the cold sets in. By 5 PM, evening dusk embraces the market square, perfect for warming up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Laurentius Kirche",
+                "hu": "Saint-Laurent Templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Wintersonnenlicht durch die Fenster; im steinernen Innenraum wird es kalt, behalten Sie Ihren Schal also besser an.",
+                "hu": "Csodálja meg az ablakokon beáramló téli napfényt; a kőbelső meglehetősen hideg tud lenni, így tartsa magán a sálját a séta során.",
+                "ro": "Admirați lumina soarelui de iarnă ce străbate ferestrele; interiorul de piatră este destul de rece, așa că păstrați fularul la gât.",
+                "en": "Admire the winter sunlight streaming through the windows; the stone interior gets quite cold, so keep your scarf on while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bel-Air",
+                "hu": "Bel-Air Kastély",
+                "ro": "Castelul Bel-Air",
+                "en": "Château de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das frostbedeckte Gelände rund um das Schloss; achten Sie auf die eisigen Steinwege und tragen Sie gute Thermosocken.",
+                "hu": "Gyönyörködjön a kastélyt körülvevő dérlepte parkban; ügyeljen a jeges kőösvényekre, és viseljen megfelelő thermo zoknit.",
+                "ro": "Minunați-vă de domeniul acoperit de brumă ce înconjoară castelul; atenție la potecile de piatră înghețate și purtați șosete termice.",
+                "en": "Marvel at the frost-covered grounds surrounding the chateau; watch your step on the icy stone paths and wear proper thermal socks."
+              }
+            },
+            {
+              "name": {
+                "de": "Bartholomäuskirche",
+                "hu": "Szent Bertalan Templom",
+                "ro": "Biserica Sfântul Bartolomeu",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem beißenden Winterwind in diesem ruhigen Heiligtum; die historischen Holzbänke sind wunderbar erhalten.",
+                "hu": "Keressen menedéket a metsző téli szél elől ebben a csendes szentélyben; a történelmi fapadok gyönyörűen megmaradtak a hideg levegőn.",
+                "ro": "Căutați refugiu din calea vântului tăios de iarnă în acest sanctuar liniștit; băncile istorice din lemn sunt frumos conservate în frig.",
+                "en": "Seek refuge from the biting winter wind inside this quiet sanctuary; the historic wooden pews are beautifully preserved in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Cruzol",
+                "hu": "Cruzol Vár",
+                "ro": "Castelul Cruzol",
+                "en": "Cruzol Castle"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Ruinen vor dem frühen Sonnenuntergang gegen 17 Uhr; packen Sie sich warm ein, da der Hügel sehr windig ist.",
+                "hu": "Fedezze fel a drámai romokat a korai, délután 5 órai naplemente előtt; öltözzön fel melegen, mert a nyitott domboldal rendkívül szeles.",
+                "ro": "Descoperiți ruinele dramatice înainte de apusul timpuriu de la ora 17:00; îmbrăcați-vă gros, deoarece locația de pe deal este foarte vântoasă.",
+                "en": "Discover the dramatic ruins before the early sunset around 5 PM; wrap up warmly as the exposed hillside location gets extremely windy."
+              }
+            },
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre, wenn der Abend früh hereinbricht; suchen Sie sich ein warmes Plätzchen gegen die Kälte.",
+                "hu": "Élvezze a téli hangulatot a korai sötétedéskor; gyönyörködjön a fényekben, és keressen egy meleg pontot a fagy elöli menedékként.",
+                "ro": "Bucurați-vă de atmosfera de iarnă pe măsură ce seara se lasă devreme; bucurați-vă de luminile festive dintr-un loc cald.",
+                "en": "Enjoy the festive winter atmosphere as evening falls early; enjoy the illuminated facades, finding a warm spot to escape the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdjen a festői Városháza Parkban, majd kerékpározzon el a Guinet kastélyhoz. Délben a csendes Notre-Dame de Fouillet kápolna várja. Délután látogasson el a Saint-Laurent templomhoz és a Cruzol vár romjaihoz. Az estét a nyüzsgő Piactéren töltheti kellemes kikapcsolódással.",
         "ro": "Începeți dimineața în Parcul Primăriei și pedalați către impresionantul Castel Guinet. La prânz ajungeți la liniștita Capelă Notre-Dame de Fouillet. După-amiaza vizitați Biserica Saint-Laurent și ruinele Castelului Cruzol. Seara se încheie perfect cu o atmosferă plăcută în Piața Centrală.",
         "en": "Start your morning in the idyllic Town Hall Park and cycle to the impressive Château de Guinet. Midday brings you to the quiet Chapelle Notre-Dame de Fouillet. In the afternoon, visit the Saint-Laurent Church and Cruzol Castle ruins. The evening ends beautifully in the vibrant Market Square."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Radmorgen im Park mit wasserdichter Warnkleidung. Mittags radeln Sie vorsichtig zu den historischen Stätten; der Bremsweg auf nassem Laub ist länger. Machen Sie nachmittags kurze Fahrten zwischen den Kirchen, um etwas zu trocknen. Beenden Sie die Tour abends am Marktplatz und achten Sie auf helles Fahrradlicht im starken Regen.",
+            "hu": "Kezdje az esős kerékpáros reggelt a parkban, vízálló és láthatósági ruházatban. Délben óvatosan tekerjen a történelmi helyszínek felé; a vizes faleveleken nő a féktáv. Délután tegyen rövid utakat a templomok között, hogy picit megszáradjon. Zárja az estét a piactéren, és gondoskodjon erős kerékpáros lámpákról a sűrű esőben.",
+            "ro": "Începeți dimineața ploioasă de ciclism în parc, purtând haine impermeabile reflectorizante. La prânz, pedalați cu atenție spre siturile istorice; distanța de frânare crește pe frunze. După-amiaza, faceți plimbări scurte între biserici pentru a vă usca. Încheiați seara în piață, asigurându-vă că luminile bicicletei sunt aprinse.",
+            "en": "Start your wet morning cycle at the park, wearing full high-visibility waterproofs. By noon, pedal carefully towards the historical sites; braking distances increase on wet leaves. In the afternoon, take short rides between churches to dry off. Conclude your tour at the market square in the evening, ensuring your bike lights are bright through the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die befestigten Wege des Parks; achten Sie bei strömendem Regen auf tiefe Pfützen und rutschige Holzbrücken.",
+                "hu": "Haladjon lassan a park burkolt ösvényein; a szakadó esőben ügyeljen a mély tócsákra és a rendkívül csúszós fahidakra.",
+                "ro": "Mergeți încet pe aleile pavate ale parcului; atenție la bălțile adânci și la podurile de lemn alunecoase în ploaia torențială.",
+                "en": "Ride slowly through the park's paved trails; watch out for deep puddles and slippery wooden bridges in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guinet",
+                "hu": "Guinet Kastély",
+                "ro": "Castelul Guinet",
+                "en": "Château de Guinet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den großen Bäumen nahe dem Eingang ab; genießen Sie die regnerische Schlosskulisse, bevor Sie sich drinnen aufwärmen.",
+                "hu": "Támassza le a biciklit a bejárat közeli nagy fák alá; csodálja meg az eső áztatta kastélyfalakat, mielőtt bemenne megszáradni.",
+                "ro": "Parcați bicicleta sub copacii mari de lângă intrare; admirați zidurile castelului bătute de ploaie înainte de a intra să vă uscați.",
+                "en": "Park your bike under the large trees near the entrance; appreciate the moody, rain-swept castle walls before heading inside to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Fouillet",
+                "hu": "Notre-Dame de Fouillet Kápolna",
+                "ro": "Capela Notre-Dame de Fouillet",
+                "en": "Chapelle Notre-Dame de Fouillet"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie in dieser Kapelle eine ruhige Radpause; wischen Sie Ihren Sattel vor der Weiterfahrt trocken, um bequem zu sitzen.",
+                "hu": "Tartson egy csendes pihenőt a tekerésben ebben a szerény kápolnában; indulás előtt törölje szárazra a nyerget a kényelmesebb utazásért.",
+                "ro": "Luați o pauză liniștită de la pedalat în această capelă modestă; ștergeți șaua înainte de a pleca pentru o călătorie confortabilă.",
+                "en": "Take a quiet break from cycling in this modest chapel; wipe down your saddle before leaving to ensure a comfortable onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Laurentius Kirche",
+                "hu": "Saint-Laurent Templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Rad an den überdachten Ständern; das trockene Innere bietet eine tolle Pause, während der Regen das Kopfsteinpflaster wäscht.",
+                "hu": "Hagyja a kerékpárt a közeli fedett tárolókban; a száraz belső tér csodás menedék, miközben kint az eső mossa a macskaköveket.",
+                "ro": "Lăsați bicicleta la rastelele acoperite din apropiere; interiorul uscat oferă un răgaz fantastic în timp ce ploaia spală piatra cubică.",
+                "en": "Leave your bike at the covered racks nearby; the dry interior offers a fantastic respite while the rain washes the cobblestones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Cruzol",
+                "hu": "Cruzol Vár",
+                "ro": "Castelul Cruzol",
+                "en": "Cruzol Castle"
+              },
+              "tip_5lang": {
+                "de": "Nähern Sie sich der Burgruine vorsichtig, da die Reifen im Matsch rutschen können; bleiben Sie auf dem Hauptkiesweg, um sicher zu fahren.",
+                "hu": "Óvatosan közelítse meg a várromot, mert a sáros feljárón megcsúszhatnak a gumik; maradjon a fő kavicsos úton az egyensúlyért.",
+                "ro": "Apropiați-vă de ruinele fortăreței cu prudență, deoarece noroiul poate face anvelopele să alunece; rămâneți pe drumul principal de pietriș.",
+                "en": "Approach the fortress ruins with caution as the muddy approach can cause tires to slip; stick to the main gravel path to stay upright."
+              }
+            },
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig über das nasse Kopfsteinpflaster; suchen Sie unter den Arkaden Schutz, um sich nach der feuchten Radtour aufzuwärmen.",
+                "hu": "Óvatosan navigáljon a vizes macskaköveken a térig; keressen menedéket az árkádok alatt, hogy felmelegedjen a nedves bringatúra végén.",
+                "ro": "Navigați cu atenție pe piatra cubică udă până în piață; căutați adăpost sub arcade pentru a vă încălzi la finalul turului ploios.",
+                "en": "Navigate the wet cobblestones carefully to the square; seek shelter under the arcades to warm up and dry off from your damp cycle tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für die frostige Morgenrunde durch den Park gut ein und tragen Sie Thermohandschuhe. Mittags ist Vorsicht geboten, da Frost die Kurven glatt macht. Bleiben Sie nachmittags zwischen den Stätten in Bewegung, um warm zu bleiben. Erreichen Sie abends den Marktplatz bis zum Sonnenuntergang um 17:00 Uhr und nutzen Sie starke Fahrradlichter.",
+            "hu": "Öltözzön be melegen a csípős téli reggeli bringázáshoz a parkban, védje kezeit thermo kesztyűvel. Délben a kastélyok felé óvatosan tekerjen, a dér csúszóssá teheti a kanyarokat. Délután mozogjon folyamatosan a történelmi helyek között, hogy ne fázzon meg. Érjen a piactérre az esti 17:00 órás naplementére, erős kerékpáros lámpákkal.",
+            "ro": "Îmbrăcați-vă gros pentru plimbarea matinală prin parc, protejându-vă mâinile cu mănuși termice. La prânz, pedalați cu grijă, deoarece bruma face curbele alunecoase. După-amiaza, continuați să vă mișcați între situri pentru a rămâne încălzit. Ajungeți în piață până la apusul de seară de la ora 17:00, având luminile bicicletei aprinse.",
+            "en": "Bundle up for a crisp winter morning ride through the park, protecting your extremities with thermal gloves. Midday cycling to the castles demands care, as frost makes corners slick. In the afternoon, keep moving between historical sites to stay warm. Aim to reach the market square by the evening sunset at 17:00 with your bike lights on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frostige Morgenluft beim Radeln durch kahle Bäume; fahren Sie mäßig schnell, um Eisplatten auf schattigen Wegen zu meiden.",
+                "hu": "Élvezze a fagyos reggeli levegőt a csupasz fák közt tekerve; tartson mérsékelt sebességet, hogy elkerülje az árnyékos utak jégfoltjait.",
+                "ro": "Bucurați-vă de aerul geros al dimineții pedalând printre copacii golași; mențineți o viteză moderată pentru a evita peticele de gheață.",
+                "en": "Enjoy the frosty morning air as you pedal through bare trees; keep your speed moderate to avoid icy patches on the shaded paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guinet",
+                "hu": "Guinet Kastély",
+                "ro": "Castelul Guinet",
+                "en": "Château de Guinet"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Schlosssilhouette; steigen Sie sicher ab, da die Minustemperaturen den Boden hart und rutschig machen.",
+                "hu": "Csodálja meg a kastély fenséges téli sziluettjét; biztonságosan szálljon le a kerékpárról, mert a fagyos időben a talaj kemény és csúszós.",
+                "ro": "Admirați silueta de iarnă magnifică a castelului; descălecați în siguranță, deoarece temperaturile de îngheț fac solul dur și alunecos.",
+                "en": "Take in the magnificent winter silhouette of the castle; dismount your bike securely as the freezing temperatures make the ground solid and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Fouillet",
+                "hu": "Notre-Dame de Fouillet Kápolna",
+                "ro": "Capela Notre-Dame de Fouillet",
+                "en": "Chapelle Notre-Dame de Fouillet"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese gemütliche Kapelle, um Ihre kalten Finger aufzuwärmen; die dicken Steinmauern schirmen den eisigen Wind hervorragend ab.",
+                "hu": "Lépjen be ebbe a hangulatos kápolnába, hogy ujjai újra felmelegedjenek; a vastag kőfalak kiváló védelmet nyújtanak a fagyos szél ellen.",
+                "ro": "Intrați în această capelă primitoare pentru a vă încălzi degetele; zidurile groase de piatră oferă o protecție excelentă împotriva vântului geros.",
+                "en": "Step inside this cozy chapel to restore feeling to your fingers; the thick stone walls provide an excellent buffer against the freezing wind."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Laurentius Kirche",
+                "hu": "Saint-Laurent Templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie an der Kirche und bewundern Sie den Winter-Look; vertreten Sie sich die Beine und schließen Sie die Jacke, bevor Sie weiterfahren.",
+                "hu": "Álljon meg a templomnál, és csodálja meg a fagyos téli látványt; nyújtóztassa ki lábait, és húzza fel a cipzárt a nyeregbe pattanás előtt.",
+                "ro": "Opriți-vă la biserică pentru a admira aspectul său de iarnă; întindeți-vă picioarele și închideți bine geaca înainte de a urca din nou în șa.",
+                "en": "Pause at the church to admire its crisp winter appearance; stretch your legs and zip up your jacket tightly before hopping back on the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Cruzol",
+                "hu": "Cruzol Vár",
+                "ro": "Castelul Cruzol",
+                "en": "Cruzol Castle"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vor dem Schwinden des Winterlichts vorsichtig zur Ruine; der beißende Wind hier oben erfordert eine winddichte Fahrradjacke.",
+                "hu": "Tekerjen fel óvatosan a romokhoz a téli fény elmúlása előtt; a magasságban fújó metsző szél miatt a szélálló kerékpáros dzseki elengedhetetlen.",
+                "ro": "Urcați cu grijă spre ruine înainte ca lumina iernii să dispară; vântul tăios de la această altitudine face ca o jachetă rezistentă la vânt să fie crucială.",
+                "en": "Bike up to the ruins carefully before the winter light fades; the biting wind at this elevation means a windproof cycling jacket is crucial."
+              }
+            },
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den hell erleuchteten Platz bei Sonnenuntergang; parken Sie das Rad und suchen Sie sich einen warmen Ort gegen die Kälte.",
+                "hu": "Érkezzen a kivilágított térre naplementekor; parkolja le a bringát, és keressen egy meleg helyet a hűvös út utáni regenerálódáshoz.",
+                "ro": "Ajungeți în piața luminată exact la apus; parcați bicicleta și găsiți un loc cald pentru a vă recupera după plimbarea friguroasă.",
+                "en": "Arrive at the brightly lit square just as the sun sets; park your bike, enjoy the illuminated facades and find a warm place to rest your frozen hands."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túra a Városháza Parknál indul, majd a Guinet kastélyhoz vezet. Délben a Notre-Dame de Fouillet kápolna és a Saint-Laurent templom következik. Délután a Bel-Air kastély és a Szent Bertalan templom várja a látogatókat. A napot a hangulatos Piactéren koronázhatja meg.",
         "ro": "Călătoria începe în Parcul Primăriei, urmată de o vizită la Castelul Guinet. La prânz explorați Capela Notre-Dame de Fouillet și Biserica Saint-Laurent. După-amiaza vă așteaptă Castelul Bel-Air și Biserica Sfântul Bartolomeu. Ziua culminează în atmosfera plină de viață a Pieței Centrale.",
         "en": "A road trip begins at the picturesque Town Hall Park, followed by a drive to Château de Guinet. At midday, explore the Chapelle Notre-Dame de Fouillet and Saint-Laurent Church. The afternoon highlights include Château de Bel-Air and Église Saint-Barthélemy. The day culminates at the lively Market Square."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie die Autotour am Park und huschen Sie morgens mit Regenschirm nach draußen. Mittags können die Straßen zu den Schlössern nass und rutschig sein – fahren Sie vorsichtig. Die Kirchen am Nachmittag bieten perfekte trockene Zufluchtsorte mit nahen Parkplätzen. Fahren Sie abends zum Marktplatz und suchen Sie sich ein trockenes Parkhaus.",
+            "hu": "Kezdje a reggeli autós túrát a parknál, esernyővel gyorsan átszaladva a látványosságokhoz. Délben a kastélyok közötti utak csúszósak lehetnek, vezessen egyenletesen. A délutáni templomlátogatások tökéletes, száraz menedéket adnak, közeli parkolással. Zárja az estét a piactéren, érdemes mélygarázst vagy fedett helyet keresni.",
+            "ro": "Începeți turul matinal cu mașina la parc, fugind repede cu o umbrelă. La prânz, drumurile dintre castele pot fi alunecoase; conduceți lin și atenție la bălți. Vizitele de după-amiază la biserici oferă refugii uscate perfecte, cu parcare aproape. Încheiați seara în piață, găsind o parcare subterană pentru a rămâne uscat.",
+            "en": "Start your morning driving tour at the park, making a quick dash from the car with an umbrella. Midday roads between castles can be slick with rain, so drive smoothly. Afternoon visits to the churches offer perfect dry refuges with easy parking nearby. Finish the evening driving into the market square, finding a covered spot to keep dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Toren und machen Sie einen kurzen Spaziergang mit Schirm; das nasse Laub leuchtet bei diesem Regenwetter intensiv.",
+                "hu": "Parkoljon közel a kapukhoz, és tegyen egy rövid sétát az esernyő alatt; a nedves lombozat hihetetlenül élénknek tűnik az esős időben.",
+                "ro": "Parcați aproape de porți și faceți o scurtă plimbare sub umbrelă; frunzișul ud arată incredibil de vibrant în vremea ploioasă.",
+                "en": "Park close to the gates and take a brief stroll under your umbrella; the wet foliage looks incredibly vibrant in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guinet",
+                "hu": "Guinet Kastély",
+                "ro": "Castelul Guinet",
+                "en": "Château de Guinet"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die nassen Zufahrtswege hinauf; treten Sie direkt vom Auto zum Haupteingang, um den starken Schauern zu entgehen.",
+                "hu": "Vezessen óvatosan a nedves birtokutakon; lépjen közvetlenül az autóból a főbejárathoz, hogy elkerülje a kinti heves záporokat.",
+                "ro": "Conduceți cu atenție pe drumurile ude ale domeniului; mergeți direct din mașină spre intrarea principală pentru a evita aversele.",
+                "en": "Drive carefully up the wet estate roads; step directly from your car into the grand entrance to avoid the heavy showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Fouillet",
+                "hu": "Notre-Dame de Fouillet Kápolna",
+                "ro": "Capela Notre-Dame de Fouillet",
+                "en": "Chapelle Notre-Dame de Fouillet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Parkplatz direkt vor der Tür; der auf das Kapellendach prasselnde Regen schafft eine friedliche, meditative Stimmung.",
+                "hu": "Élvezze a kényelmes, csupán pár lépésre lévő parkolást; a kápolna tetején doboló eső hangja békés, meditatív hangulatot teremt.",
+                "ro": "Bucurați-vă de parcarea la doar câțiva pași; sunetul ploii bătând pe acoperișul capelei creează o atmosferă pașnică, meditativă.",
+                "en": "Enjoy the convenience of parking just steps away; the sound of rain drumming on the chapel roof creates a peaceful, meditative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Laurentius Kirche",
+                "hu": "Saint-Laurent Templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie ein Handtuch im Auto bereit, um sich nach dem Besuch abzutrocknen; das trockene Kirchenschiff bietet eine gemütliche Flucht.",
+                "hu": "Tartson egy törölközőt az autóban, hogy letörölje az esőcseppeket a templomlátogatás után; a száraz hajó hangulatos menedék a vihar elől.",
+                "ro": "Păstrați un prosop în mașină pentru a vă șterge după vizitarea bisericii; nava sa uscată oferă o scăpare confortabilă din calea furtunii.",
+                "en": "Keep a towel in the car to wipe off any drops after visiting this stunning church; its dry nave offers a cozy escape from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bel-Air",
+                "hu": "Bel-Air Kastély",
+                "ro": "Castelul Bel-Air",
+                "en": "Château de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei schlechter Sicht am Schloss die Nebelscheinwerfer ein; bewundern Sie die regennasse Architektur bequem aus dem Fahrzeug.",
+                "hu": "Kapcsolja be a ködlámpát, ha romlik a látási viszony a kastély közelében; csodálja meg az eső áztatta drámai építészetet az autóból.",
+                "ro": "Aprindeți proiectoarele de ceață dacă vizibilitatea scade; admirați arhitectura dramatică, străbătută de ploaie, din confortul vehiculului.",
+                "en": "Turn on your fog lights if visibility drops near the chateau; admire the dramatic, rain-streaked architecture from the comfort of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bartholomäuskirche",
+                "hu": "Szent Bertalan Templom",
+                "ro": "Biserica Sfântul Bartolomeu",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Huschen Sie vom Auto zu den schweren Holztüren; das trockene Innere ist einladend und die dunklen Regenwolken lassen die Fenster leuchten.",
+                "hu": "Szaladjon az autótól a nehéz faajtókig; a száraz belső tér hívogató, a sötét esőfelhők pedig gyönyörűen kiemelik az ólomüveget.",
+                "ro": "Fugiți din mașină spre ușile grele de lemn; interiorul uscat este primitor, iar norii întunecați fac vitraliile să strălucească.",
+                "en": "Dash from your car to the heavy wooden doors; the dry interior is welcoming, and the dark rain clouds make the stained glass glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den überdachten Arkaden; bewundern Sie den regengewaschenen Platz bequem aus der Wärme Ihres trockenen Autos.",
+                "hu": "Keressen parkolóhelyet a fedett árkádok közelében; csodálja meg az eső mosta teret a meleg és száraz autó kényelméből.",
+                "ro": "Găsiți o parcare lângă arcadele acoperite; admirați piața spălată de ploaie din confortul și căldura mașinii dumneavoastră uscate.",
+                "en": "Park near the covered arcades; admire the rain-washed square from the comfort and warmth of your dry car before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen mit der Autoheizung, bevor Sie in den frostigen Park treten. Mittags erfordern die Zufahrten zu den Schlössern Vorsicht wegen möglichen Glatteises; Winterreifen sind Pflicht. Die Kirchen am Nachmittag locken zwischen warmen Fahrten. Gegen 17:00 Uhr wird es abends dunkel – fahren Sie zum hell erleuchteten Marktplatz.",
+            "hu": "Kezdje a téli reggelt az autó fűtésének élvezetével, mielőtt kilépne a fagyos parkba. Délben a kastélyokhoz vezető utakon óvatosan vezessen a lehetséges jégfoltok miatt; a téli gumi kötelező. A délutáni templomnézések kényelmesen illeszkednek a fűtött utak közé. Este 17:00-ra teljesen besötétedik, így irány a fényesen kivilágított piactér.",
+            "ro": "Începeți dimineața de iarnă bucurându-vă de căldura mașinii înainte de a ieși în parcul geros. Conducerea la prânz necesită prudență pe drumurile spre castele; asigurați-vă că aveți anvelope de iarnă. Vizitele la biserici sunt intercalate cu drumuri calde. Seara la 17:00 se întunecă complet, așa că mergeți spre piața luminată festiv.",
+            "en": "Begin your winter morning enjoying the car's heater before stepping out to the frosty park. Driving midday requires caution on potentially icy castle approach roads; ensure you have winter tires fitted. Afternoon church visits are comfortably sandwiched between warm car rides. By evening at 17:00, it gets dark, so navigate to the brightly lit market square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostbedeckten Bäume zuerst aus dem warmen Auto; ziehen Sie eine dicke Jacke für den erfrischenden Morgenspaziergang an.",
+                "hu": "Csodálja meg a dérlepte fákat először a meleg autóból; vegyen fel egy vastag kabátot, amikor kilép egy frissítő, élénkítő reggeli sétára.",
+                "ro": "Admirați copacii acoperiți de brumă mai întâi din căldura mașinii; purtați o haină groasă când ieșiți pentru o plimbare revigorantă de dimineață.",
+                "en": "Marvel at the frost-covered trees from the warmth of your car first; wear a thick coat when stepping out for a brisk, refreshing morning walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guinet",
+                "hu": "Guinet Kastély",
+                "ro": "Castelul Guinet",
+                "en": "Château de Guinet"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Landstraßen zum Schloss auf Blitzeis; die zugefrorene Landschaft rund um den historischen Bau ist besonders fotogen.",
+                "hu": "Figyeljen a tükörjégre a kastélyhoz vezető vidéki utakon; a történelmi épületet körülvevő fagyott táj kivételesen fotogén.",
+                "ro": "Atenție la gheața neagră pe drumurile rurale spre castel; peisajul înghețat din jurul structurii istorice este extrem de fotogenic.",
+                "en": "Check for black ice on the rural roads leading to the castle; the frozen landscape surrounding the historic structure is exceptionally photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Fouillet",
+                "hu": "Notre-Dame de Fouillet Kápolna",
+                "ro": "Capela Notre-Dame de Fouillet",
+                "en": "Chapelle Notre-Dame de Fouillet"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz in die klirrende Kälte, um das malerische Innere der Kapelle zu sehen; danach werden Sie die Sitzheizung im Auto sehr schätzen.",
+                "hu": "Lépjen ki a csípős hidegbe pont annyi időre, amíg megnézi a kápolna belső terét; utána roppantul fogja értékelni az autó ülésfűtését.",
+                "ro": "Ieșiți în frigul tăios doar cât să vedeți interiorul pitoresc al capelei; veți aprecia enorm scaunele încălzite ale mașinii după aceea.",
+                "en": "Step out into the biting cold just long enough to see the chapel's quaint interior; you'll appreciate the car's heated seats immensely afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Laurentius Kirche",
+                "hu": "Saint-Laurent Templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie entspannt in der klaren Winterluft; die alten Steinmauern der Kirche strahlen Kälte aus, behalten Sie beim Rundgang die Handschuhe an.",
+                "hu": "Parkoljon könnyedén a ropogós téli levegőn; a templom ősi kőfalai mély hideget árasztanak, így tartsa magán a kesztyűt a benti séta alatt.",
+                "ro": "Parcați ușor în aerul rece de iarnă; zidurile vechi de piatră ale bisericii radiază un frig profund, așa că păstrați mănușile în timp ce vizitați.",
+                "en": "Park easily in the crisp winter air; the church's ancient stone walls radiate a deep chill, so keep your gloves on while wandering inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bel-Air",
+                "hu": "Bel-Air Kastély",
+                "ro": "Castelul Bel-Air",
+                "en": "Château de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die malerische Winterfahrt zum Schloss; packen Sie sich warm ein, da der offene Innenhof den eisigen Nachmittagswind einfängt.",
+                "hu": "Élvezze a festői téli kocsikázást a kastélyhoz; öltözzön be melegen, mivel a nyitott udvari részeken átfúj a fagyos délutáni szél.",
+                "ro": "Bucurați-vă de o plimbare pitorească de iarnă până la castel; îmbrăcați-vă gros, deoarece curtea deschisă captează vânturile înghețate de după-amiază.",
+                "en": "Enjoy a scenic winter drive up to the chateau; wrap up warmly as the exposed courtyard areas capture the freezing afternoon winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Bartholomäuskirche",
+                "hu": "Szent Bertalan Templom",
+                "ro": "Biserica Sfântul Bartolomeu",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das schwindende Winterlicht durch die Fenster; beeilen Sie sich zurück ins warme Fahrzeug, bevor der späte Nachmittagsfrost einsetzt.",
+                "hu": "Használja ki az ablakokon átszűrődő, fogyatkozó téli fényt; siessen vissza a meleg járműbe, mielőtt leszáll a késő délutáni fagy.",
+                "ro": "Profitați de lumina slabă de iarnă ce trece prin ferestre; grăbiți-vă înapoi în vehiculul cald înainte ca înghețul de după-amiază să se instaleze.",
+                "en": "Take advantage of the diminishing winter light filtering through the windows; hurry back to the warm vehicle before the late afternoon frost settles."
+              }
+            },
+            {
+              "name": {
+                "de": "Marktplatz",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Market Square"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Dunkeln sicher ins Zentrum; der Platz wirkt magisch erleuchtet gegen die Winternacht – ideal für einen kurzen Abendspaziergang.",
+                "hu": "Navigáljon biztonságosan a városközpontba a sötétben; a tér varázslatosan fest a téli éjszakában kivilágítva, tökéletes egy gyors esti sétára.",
+                "ro": "Navigați în siguranță spre centru pe întuneric; piața arată magic iluminată în noaptea de iarnă, perfectă pentru o scurtă plimbare de seară.",
+                "en": "Navigate to the town center safely in the dark; the square looks magical illuminated against the winter night, perfect for a quick evening stroll."
+              }
+            }
+          ]
+        }
       }
     }
   }

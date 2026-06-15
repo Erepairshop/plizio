@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Å gazdag tengerészeti örökségének felfedezésével. A szabadtéri múzeumok élénken keltik életre a történelmi part menti halászat zord, mégis lenyűgöző valóságát és hétköznapjait.\n\nA dél közeledtével térjen át a történelmi kiállításokról a Lofoten-szigetek gazdasági gerincének megismerésére az egyedülálló csukamájolaj- és szárítotthal-múzeumokban, magába szívva a sós levegőt.\n\nDélután hagyja, hogy a drámai sarkvidéki táj kerüljön a középpontba, miközben a környező zord csúcsokon túrázik. A magaslati kilátópontok páratlan panorámát nyújtanak a mély fjordokra.\n\nFejezze be az estét a gyönyörűen megőrzött építészeti nevezetességek körüli sétával, visszagondolva egy olyan napra, ahol a lenyűgöző norvég természet és a kitartó emberi történelem összefonódott.",
         "ro": "Începeți-vă dimineața scufundându-vă în bogata moștenire maritimă a orașului Å. Muzeele în aer liber dau viață realităților dure, dar fascinante, ale industriei istorice de pescuit de coastă.\n\nLa prânz, treceți de la expozițiile istorice la înțelegerea bazei economice a insulelor Lofoten la muzeele unice de ulei de ficat de cod și pește uscat, simțind aerul sărat al mării.\n\nDupă-amiaza, lăsați peisajul arctic dramatic să ocupe centrul atenției în timp ce faceți drumeții pe vârfurile accidentate din jur. Punctele de belvedere oferă panorame uluitoare ale fiordurilor.\n\nÎncheiați seara rătăcind prin reperele arhitecturale frumos conservate, reflectând la o zi în care natura norvegiană uimitoare și istoria umană rezistentă s-au împletit perfect la apus.",
         "en": "Start your morning immersing yourself in the rich seafaring heritage of Å. The open-air museums vividly bring to life the harsh yet fascinating realities of the historic coastal fishing industry.\n\nAs midday approaches, transition from historical exhibits to understanding the economic backbone of the Lofoten islands at the unique cod liver oil and stockfish museums, smelling the sea air.\n\nIn the afternoon, let the dramatic Arctic landscape take center stage as you hike the rugged surrounding peaks. The elevated viewpoints offer unparalleled panoramas of the deep fjords.\n\nEnd your evening wandering through the beautifully preserved architectural landmarks, reflecting on a day where stunning Norwegian nature and resilient human history perfectly intertwined."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die geschützten Innenräume des Fischereimuseums. Mittags bieten die Lebertranfabrik und das Stockfischmuseum perfekte Zuflucht vor den Schauern. Nachmittags ist der Weg nach Tindstinden bei Regen rutschig; wasserfeste Ausrüstung ist hier Pflicht. Abends lassen wir den Tag im gemütlichen Dorfzentrum ausklingen, während der Regen auf die Dächer der Rorbuer trommelt.",
+            "hu": "Reggel a halászfalu múzeumának fedett épületeiben kezdünk, elkerülve az első záporokat. Délben a tőkehalolaj-gyár és a szárított hal múzeuma nyújt menedéket a szél elől. Délután a Tindstinden felé vezető út csúszós lehet, így csak óvatosan haladjunk a vízhatlan öltözetben. Este a kikötő morajlását hallgatjuk a parti házak védelméből, élvezve a borongós, de hangulatos Lofoten-i szürkületet.",
+            "ro": "Dimineața explorăm interioarele protejate ale muzeului satului pescăresc. La prânz, fabrica de ulei de pește și muzeul de cod oferă adăpost perfect împotriva averselor. După-amiaza, drumul spre Tindstinden este alunecos pe ploaie; echipamentul impermeabil este obligatoriu. Seara încheiem ziua în centrul satului, ascultând ploaia care bate pe acoperișurile colibelor tradiționale rorbuer.",
+            "en": "Morning starts in the sheltered interiors of the fishing village museum. At noon, the cod liver oil factory and stockfish museum provide perfect refuge from the showers. In the afternoon, the path to Tindstinden is slippery in the rain; waterproof gear is a must here. Evening ends in the cozy village center as the rain drums on the roofs of the traditional rorbuer huts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Norsk Fiskeværsmuseum",
+                "hu": "Norsk Fiskeværsmuseum",
+                "ro": "Norsk Fiskeværsmuseum",
+                "en": "Norsk Fiskeværsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historischen Innenräume der Fischerhütten, um trocken zu bleiben; wasserfeste Kleidung ist für den Weg zwischen den Gebäuden unbedingt erforderlich.",
+                "hu": "Fedezze fel a történelmi halászkunyhók belső tereit, hogy száraz maradjon; a vízhatlan ruházat elengedhetetlen az egyes épületek közötti közlekedéshez.",
+                "ro": "Explorați interioarele colibelor istorice de pescari pentru a rămâne uscați; echipamentul impermeabil este esențial pentru deplasarea între clădiri.",
+                "en": "Explore the historic interiors of the fisherman huts to stay dry; waterproof clothing is essential for moving between the different museum buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Cod liver oil factory museum",
+                "hu": "Cod liver oil factory museum",
+                "ro": "Cod liver oil factory museum",
+                "en": "Cod liver oil factory museum"
+              },
+              "tip_5lang": {
+                "de": "Diese Fabrik bietet ein solides Dach über dem Kopf; beobachten Sie die alten Maschinen und atmen Sie die Geschichte ein, während es draußen stürmt.",
+                "hu": "Ez a gyár szilárd tetőt nyújt a feje fölé; figyelje meg a régi gépeket és lélegezze be a történelmet, miközben odakint tombol a vihar.",
+                "ro": "Această fabrică oferă un acoperiș solid; observați utilajele vechi și respirați istoria în timp ce afară plouă torențial.",
+                "en": "This factory offers a solid roof over your head; watch the old machinery and breathe in history while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lofoten Stockfish Museum",
+                "hu": "Lofoten Stockfish Museum",
+                "ro": "Lofoten Stockfish Museum",
+                "en": "Lofoten Stockfish Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Indoor-Stopp, um den Trocknungsprozess zu sehen; die Holzstruktur hält Sie trocken, während der Duft von getrocknetem Kabeljau die Luft erfüllt.",
+                "hu": "Remek fedett megálló a szárítási folyamat megismeréséhez; a faszerkezet szárazon tartja önt, miközben a szárított tőkehal illata betölti a teret.",
+                "ro": "O oprire excelentă în interior pentru a vedea procesul de uscare; structura de lemn vă menține uscați în timp ce mirosul de cod uscat umple aerul.",
+                "en": "A great indoor stop to see the drying process; the wooden structure keeps you dry while the scent of dried cod fills the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tindstinden",
+                "hu": "Tindstinden",
+                "ro": "Tindstinden",
+                "en": "Tindstinden"
+              },
+              "tip_5lang": {
+                "de": "Der Weg ist bei Nässe sehr rutschig; bleiben Sie bei schlechter Sicht auf den unteren Pfaden und tragen Sie Schuhe mit sehr gutem Profil.",
+                "hu": "Az ösvény nedvesen nagyon csúszós; rossz látási viszonyok esetén maradjon az alsóbb szakaszokon, és viseljen jó tapadású talpú bakancsot.",
+                "ro": "Traseul este foarte alunecos când este ud; rămâneți pe potecile inferioare dacă vizibilitatea este redusă și purtați încălțăminte cu aderență bună.",
+                "en": "The trail is very slippery when wet; stick to the lower paths if visibility is poor and wear boots with excellent grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Tind",
+                "hu": "Tind",
+                "ro": "Tind",
+                "en": "Tind"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang zu den Küstenfelsen; der graue Himmel verleiht der Landschaft eine dramatische Note, achten Sie nur auf die nassen Steine.",
+                "hu": "Rövid séta a parti sziklákhoz; a szürke égbolt drámai hangulatot kölcsönöz a tájnak, csak vigyázzon a lépteire a nedves köveken.",
+                "ro": "O scurtă plimbare spre stâncile de coastă; cerul gri oferă un aspect dramatic peisajului, doar aveți grijă la pași pe pietrele ude.",
+                "en": "A short walk to the coastal rocks; the grey sky adds a dramatic touch to the landscape, just watch your footing on the wet stones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens wandern wir durch das verschneite Dorf, wobei die warme Kleidung für den Wechsel zwischen drinnen und draußen wichtig ist. Mittags bieten die Museen einen gemütlichen Zufluchtsort. Da das Licht im Winter schnell schwindet, besuchen wir die Aussichtspunkte früh vor dem Sonnenuntergang um 17 Uhr. Abends reflektieren die Lichter des Dorfes wunderschön auf dem frischen Schnee.",
+            "hu": "Reggel a hófödte történelmi épületek között kezdünk, ahol a réteges öltözködés kulcsfontosságü. Délben a múzeumok meleg menedéket nyújtanak az északi szél elől, miközben megismerjük az arktikus túlélést. A délutáni fények hamar fogynak, így érdemes korán elérni a kilátópontokat a 17 órai sötétedés előtt. Este a falu meghitt fényei tükröződnek a friss havon.",
+            "ro": "Dimineața ne plimbăm printre clădirile istorice înzăpezite, unde îmbrăcămintea în straturi este esențială. La prânz, muzeele oferă un refugiu călduros împotriva vântului arctic. Lumina de după-amiază este trecătoare, așa că mergeți devreme la punctele de belvedere înainte de apusul de la ora 17:00. Seara, luminile satului se reflectă superb pe zăpada proaspătă.",
+            "en": "Morning starts among the snow-covered historic buildings, where layers are key for the indoor-outdoor transition. At noon, the museums offer a warm refuge to learn about Arctic survival while the sun stays low. Afternoon light is fleeting, so head to the viewpoints early before the 5 PM darkness. Evening brings a cozy glow to the village as lights reflect on the fresh snow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Norsk Fiskeværsmuseum",
+                "hu": "Norsk Fiskeværsmuseum",
+                "ro": "Norsk Fiskeværsmuseum",
+                "en": "Norsk Fiskeværsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Die Holzhäuser sehen im Schnee bezaubernd aus; tragen Sie Thermostiefel, wenn Sie zwischen den verschiedenen Ausstellungsbereichen wechseln.",
+                "hu": "A faházak varázslatosan mutatnak a hóban; viseljen hótaposót, miközben a különböző kiállítási helyszínek között közlekedik a jeges utakon.",
+                "ro": "Casele de lemn arată magic în zăpadă; purtați cizme termice în timp ce vă deplasați între diferitele secțiuni ale muzeului.",
+                "en": "The wooden houses look enchanting in the snow; wear thermal boots as you move between the different exhibit areas on icy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Cod liver oil factory museum",
+                "hu": "Cod liver oil factory museum",
+                "ro": "Cod liver oil factory museum",
+                "en": "Cod liver oil factory museum"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort, um mehr über das 'Gold von Lofoten' zu erfahren; die Innenatmosphäre ist gemütlich gegen den arktischen Wind.",
+                "hu": "Meleg menedék, ahol megismerheti a 'Lofoten aranyát'; a belső légkör barátságos kontrasztot alkot a kinti metsző arktikus széllel.",
+                "ro": "Un refugiu călduros pentru a afla despre „aurul din Lofoten”; atmosfera interioară este primitoare împotriva vântului arctic tăios.",
+                "en": "A warm sanctuary to learn about the 'gold of Lofoten'; the indoor atmosphere is cozy against the biting Arctic wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Lofoten Stockfish Museum",
+                "hu": "Lofoten Stockfish Museum",
+                "ro": "Lofoten Stockfish Museum",
+                "en": "Lofoten Stockfish Museum"
+              },
+              "tip_5lang": {
+                "de": "Drinnen vergessen Sie die Minusgrade, während Sie entdecken, wie Fisch im kalten Wind ohne Salz konserviert wird; ideal zum Aufwärmen.",
+                "hu": "Bent elfelejti a mínuszokat, miközben felfedezi, hogyan tartósítják a halat só nélkül a hideg szélben; tökéletes hely a felmelegedéshez.",
+                "ro": "În interior veți uita de temperaturile negative în timp ce descoperiți cum se conservă peștele fără sare; ideal pentru încălzire.",
+                "en": "Inside, you'll forget the sub-zero temperatures while discovering how fish is preserved without salt in the cold wind; ideal for warming up."
+              }
+            },
+            {
+              "name": {
+                "de": "Tindstinden",
+                "hu": "Tindstinden",
+                "ro": "Tindstinden",
+                "en": "Tindstinden"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist im Winter anspruchsvoll; bringen Sie Steigeisen für die vereisten Stellen mit und genießen Sie das sanfte blaue Licht.",
+                "hu": "A feljutás télen komoly kihívás; hozzon szöges talpat a jeges szakaszokhoz, és élvezze a csúcsok feletti különleges kék óra fényeit.",
+                "ro": "Urcarea este provocatoare iarna; aduceți crampoane pentru porțiunile înghețate și bucurați-vă de lumina albastră difuză de deasupra vârfurilor.",
+                "en": "The ascent is challenging in winter; bring crampons for the icy sections and enjoy the breathtaking soft blue light over the peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Tind",
+                "hu": "Tind",
+                "ro": "Tind",
+                "en": "Tind"
+              },
+              "tip_5lang": {
+                "de": "Das Dorf sieht im Winter wie eine Postkarte aus; kehren Sie vor dem frühen Sonnenuntergang zurück, um die warmen Lichter in den Fenstern zu sehen.",
+                "hu": "A falu télen olyan, mint egy képeslap; térjen vissza a korai naplemente előtt, hogy lássa az ablakokban kigyúló barátságos fényeket.",
+                "ro": "Satul arată ca o carte poștală iarna; întoarceți-vă înainte de apusul devreme pentru a vedea luminile calde aprinse la ferestre.",
+                "en": "The village looks like a postcard in winter; return before the early sunset to see the warm lights flickering in the small windows."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a reggelt Å gazdag tengerészeti örökségének felfedezésével. A szabadtéri múzeumok élénken keltik életre a történelmi part menti halászat zord, mégis lenyűgöző valóságát és hétköznapjait.\n\nA dél közeledtével térjen át a történelmi kiállításokról a Lofoten-szigetek gazdasági gerincének megismerésére az egyedülálló csukamájolaj- és szárítotthal-múzeumokban, magába szívva a sós levegőt.\n\nDélután hagyja, hogy a drámai sarkvidéki táj kerüljön a középpontba, miközben a környező zord csúcsokon túrázik. A magaslati kilátópontok páratlan panorámát nyújtanak a mély fjordokra.\n\nFejezze be az estét a gyönyörűen megőrzött építészeti nevezetességek körüli sétával, visszagondolva egy olyan napra, ahol a lenyűgöző norvég természet és a kitartó emberi történelem összefonódott.",
         "ro": "Începeți-vă dimineața scufundându-vă în bogata moștenire maritimă a orașului Å. Muzeele în aer liber dau viață realităților dure, dar fascinante, ale industriei istorice de pescuit de coastă.\n\nLa prânz, treceți de la expozițiile istorice la înțelegerea bazei economice a insulelor Lofoten la muzeele unice de ulei de ficat de cod și pește uscat, simțind aerul sărat al mării.\n\nDupă-amiaza, lăsați peisajul arctic dramatic să ocupe centrul atenției în timp ce faceți drumeții pe vârfurile accidentate din jur. Punctele de belvedere oferă panorame uluitoare ale fiordurilor.\n\nÎncheiați seara rătăcind prin reperele arhitecturale frumos conservate, reflectând la o zi în care natura norvegiană uimitoare și istoria umană rezistentă s-au împletit perfect la apus.",
         "en": "Start your morning immersing yourself in the rich seafaring heritage of Å. The open-air museums vividly bring to life the harsh yet fascinating realities of the historic coastal fishing industry.\n\nAs midday approaches, transition from historical exhibits to understanding the economic backbone of the Lofoten islands at the unique cod liver oil and stockfish museums, smelling the sea air.\n\nIn the afternoon, let the dramatic Arctic landscape take center stage as you hike the rugged surrounding peaks. The elevated viewpoints offer unparalleled panoramas of the deep fjords.\n\nEnd your evening wandering through the beautifully preserved architectural landmarks, reflecting on a day where stunning Norwegian nature and resilient human history perfectly intertwined."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig auf nassen Straßen zum Museum. Mittags bieten die Ausstellungen Schutz vor den Schauern. Nachmittags ist die Fahrt nach Sørvågen bei Wind fordernd; achten Sie auf rutschige Kurven. Abends kehren wir rechtzeitig zurück, bevor die Sicht schlechter wird, und genießen die dramatische Küstenatmosphäre im Schutz der festen Unterkünfte.",
+            "hu": "Reggel óvatosan tekerünk a vizes utakon a múzeumok felé. Délben a kiállítások nyújtanak menedéket a záporok elől. Délután a Sørvågen felé vezető út a szélben embert próbáló; ügyeljen a csúszós kanyarokra és a pocsolyákra. Este időben térjünk vissza, mielőtt a látási viszonyok romlanának, és élvezzük a drámai tengerparti hangulatot a szállásunk biztonságából.",
+            "ro": "Dimineața pedalăm cu atenție pe drumurile ude spre muzeu. La prânz, expozițiile oferă adăpost împotriva averselor. După-amiaza, drumul spre Sørvågen este solicitant din cauza vântului; atenție la curbele alunecoase. Seara ne întoarcem la timp, înainte ca vizibilitatea să scadă, și savurăm atmosfera dramatică a coastei din confortul adăpostului.",
+            "en": "Morning starts with careful cycling on wet roads towards the museum. At noon, the exhibitions offer shelter from the showers. In the afternoon, the ride to Sørvågen is demanding in the wind; watch out for slippery curves and puddles. Evening return should be timed before visibility drops, enjoying the dramatic coastal atmosphere from a safe shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Norsk Fiskeværsmuseum",
+                "hu": "Norsk Fiskeværsmuseum",
+                "ro": "Norsk Fiskeværsmuseum",
+                "en": "Norsk Fiskeværsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Indoor-Räume, um die regenreichsten Stunden des Vormittags trocken zu überbrücken.",
+                "hu": "Parkolja le a biciklit egy védett helyen, és használja ki a beltéri kiállításokat, hogy szárazon vészelje át a délelőtti esősebb órákat.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți spațiile interioare pentru a trece uscat peste orele ploioase ale dimineții.",
+                "en": "Park your bike in a sheltered spot and use the indoor spaces to stay dry during the rainiest hours of the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Lofoten Stockfish Museum",
+                "hu": "Lofoten Stockfish Museum",
+                "ro": "Lofoten Stockfish Museum",
+                "en": "Lofoten Stockfish Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause vom Regen; das Museum ist komplett überdacht und bietet faszinierende Einblicke in die lokale Fischereikultur.",
+                "hu": "Tökéletes hely egy szünetre az eső elől; a múzeum teljesen fedett, és lenyűgöző betekintést nyújt a helyi halászati kultúrába.",
+                "ro": "Perfect pentru o pauză de ploaie; muzeul este complet acoperit și oferă perspective fascinante asupra culturii locale de pescuit.",
+                "en": "Perfect for a break from the rain; the museum is entirely indoors and offers fascinating insights into local fishing culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Tindstinden",
+                "hu": "Tindstinden",
+                "ro": "Tindstinden",
+                "en": "Tindstinden"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten; der Aufstieg ist bei Regen sehr rutschig. Gehen Sie nur ein kurzes Stück für die neblige Aussicht.",
+                "hu": "Hagyja a biciklit lent; a gyalogút esőben nagyon csúszós. Csak egy rövid szakaszt tegyen meg a ködös, drámai kilátásért.",
+                "ro": "Lăsați bicicleta jos; poteca este foarte alunecoasă pe ploaie. Mergeți doar o scurtă distanță pentru vederea cețoasă și dramatică.",
+                "en": "Leave the bike below; the trail is very slippery in the rain. Only go a short way for the misty, dramatic views if visibility allows."
+              }
+            },
+            {
+              "name": {
+                "de": "Sørvågen",
+                "hu": "Sørvågen",
+                "ro": "Sørvågen",
+                "en": "Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Die Uferstraße kann windanfällig sein; achten Sie auf Böen und tragen Sie eine hochwertige Regenjacke mit Kapuze.",
+                "hu": "A parti út szeles lehet; ügyeljen a hirtelen széllökésekre, és viseljen jó minőségű, kapucnis esőkabátot a tekeréshez.",
+                "ro": "Drumul de coastă poate fi vântos; atenție la rafalele bruște și purtați o jachetă de ploaie de calitate cu glugă pentru pedalat.",
+                "en": "The coastal road can be windy; watch out for sudden gusts and wear a high-quality hooded raincoat for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Norsk Telemuseum Sørvågen",
+                "hu": "Norsk Telemuseum Sørvågen",
+                "ro": "Norsk Telemuseum Sørvågen",
+                "en": "Norsk Telemuseum Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich am Nachmittag aufzuwärmen und abzutrocknen, während man alles über die Telegrafengeschichte lernt.",
+                "hu": "Ideális hely a délutáni felmelegedéshez és megszáradáshoz, miközben mindent megtudhat a távírók helyi történetéről.",
+                "ro": "Un loc ideal pentru a vă încălzi și usca după-amiaza, în timp ce aflați totul despre istoria telegrafului în regiune.",
+                "en": "An ideal place to warm up and dry off in the afternoon while learning all about the local telegraph history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bereiten wir das Rad für vereiste Wege vor. Mittags bieten die Museen nötige Wärme. Da es ab 16 Uhr dämmert, planen wir die Route kompakt. Nachmittags in Sørvågen ist das Licht spektakulär, aber die Kälte zieht an. Abends genießen wir die frühe Dunkelheit und die gemütliche Beleuchtung des Dorfes nach einer erfrischenden Winterfahrt.",
+            "hu": "Reggel felkészítjük a biciklit a jeges utakra. Délben a múzeumok adják a szükséges meleget. Mivel 16 órától szürkül, tervezzük kompaktra az útvonalat. Délután Sørvågennél a fények látványosak, de a hideg fokozódik. Este élvezzük a korai sötétséget és a falu hangulatos kivilágítását a frissítő téli tekerés után.",
+            "ro": "Dimineața pregătim bicicleta pentru drumuri înghețate. La prânz, muzeele oferă căldura necesară. Deoarece se întunecă de la ora 16:00, planificăm ruta compact. După-amiaza în Sørvågen lumina este spectaculoasă, dar frigul se intensifică. Seara savurăm întunericul timpuriu și iluminarea primitoare a satului după o tură de iarnă.",
+            "en": "Morning involves preparing the bike for icy roads. At noon, museums provide the necessary warmth. Since dusk starts from 4 PM, plan a compact route. In Sørvågen, the afternoon light is spectacular, but the cold intensifies. Evening is for enjoying the early darkness and the village's cozy lighting after a refreshing winter ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Norsk Fiskeværsmuseum",
+                "hu": "Norsk Fiskeværsmuseum",
+                "ro": "Norsk Fiskeværsmuseum",
+                "en": "Norsk Fiskeværsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Parkflächen; die historischen Gebäude sind im Winterschlaf besonders fotogen.",
+                "hu": "Ügyeljen a tükörjégre a parkolókban; a történelmi épületek téli álma különösen fotogén a hóval borított tájban.",
+                "ro": "Atenție la polei în zonele de parcare; clădirile istorice sunt extrem de fotogenice sub stratul de zăpadă.",
+                "en": "Watch out for black ice in parking areas; the historic buildings are especially photogenic during their winter slumber."
+              }
+            },
+            {
+              "name": {
+                "de": "Lofoten Stockfish Museum",
+                "hu": "Lofoten Stockfish Museum",
+                "ro": "Lofoten Stockfish Museum",
+                "en": "Lofoten Stockfish Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um die eingefrorenen Finger aufzuwärmen; die hölzernen Innenräume strahlen eine natürliche Wärme aus.",
+                "hu": "Használja ezt a megállót az átfagyott ujjak felmelegítésére; a fából készült belső terek természetes meleget árasztanak.",
+                "ro": "Folosiți această oprire pentru a vă încălzi degetele înghețate; interioarele din lemn emană o căldură naturală.",
+                "en": "Use this stop to warm up frozen fingers; the wooden interiors exude a natural warmth against the Arctic chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Tindstinden",
+                "hu": "Tindstinden",
+                "ro": "Tindstinden",
+                "en": "Tindstinden"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur bei Tageslicht hierher; der Schnee kann die Wegränder verdecken. Genießen Sie das Panorama der vereisten Gipfel.",
+                "hu": "Csak nappali fénynél tekerjen ide; a hó elfedheti az út szélét. Élvezze a jeges csúcsok lélegzetelállító panorámáját.",
+                "ro": "Pedalați aici doar pe lumină; zăpada poate masca marginile drumului. Bucurați-vă de panorama vârfurilor înghețate.",
+                "en": "Only cycle here during daylight; snow can hide the road edges. Enjoy the breathtaking panorama of the frozen peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Sørvågen",
+                "hu": "Sørvågen",
+                "ro": "Sørvågen",
+                "en": "Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt winddichte Handschuhe und eine Mütze unter dem Helm; der Fahrtwind ist bei Minusgraden sehr beißend.",
+                "hu": "Mindenképpen viseljen szélálló kesztyűt és sisak alatti sapkát; a menetszél mínuszokban nagyon metsző tud lenni.",
+                "ro": "Purtați neapărat mănuși rezistente la vânt și căciulă sub cască; curentul de aer este foarte tăios la temperaturi negative.",
+                "en": "Make sure to wear windproof gloves and a thermal cap under your helmet; the wind chill is biting at sub-zero temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Norsk Telemuseum Sørvågen",
+                "hu": "Norsk Telemuseum Sørvågen",
+                "ro": "Norsk Telemuseum Sørvågen",
+                "en": "Norsk Telemuseum Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Radtag zu beenden, wenn es draußen dunkel wird; das Museum ist beheizt und sehr informativ.",
+                "hu": "Tökéletes hely a bringás nap befejezésére, amikor odakint sötétedik; a múzeum fűtött és rendkívül tartalmas.",
+                "ro": "Un loc perfect pentru a încheia ziua de pedalat când afară se întunecă; muzeul este încălzit și foarte informativ.",
+                "en": "A perfect place to end the cycling day as it gets dark outside; the museum is heated and very informative."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje a reggelt Å gazdag tengerészeti örökségének felfedezésével. A szabadtéri múzeumok élénken keltik életre a történelmi part menti halászat zord, mégis lenyűgöző valóságát és hétköznapjait.\n\nA dél közeledtével térjen át a történelmi kiállításokról a Lofoten-szigetek gazdasági gerincének megismerésére az egyedülálló csukamájolaj- és szárítotthal-múzeumokban, magába szívva a sós levegőt.\n\nDélután hagyja, hogy a drámai sarkvidéki táj kerüljön a középpontba, miközben a környező zord csúcsokon túrázik. A magaslati kilátópontok páratlan panorámát nyújtanak a mély fjordokra.\n\nFejezze be az estét a gyönyörűen megőrzött építészeti nevezetességek körüli sétával, visszagondolva egy olyan napra, ahol a lenyűgöző norvég természet és a kitartó emberi történelem összefonódott.",
         "ro": "Începeți-vă dimineața scufundându-vă în bogata moștenire maritimă a orașului Å. Muzeele în aer liber dau viață realităților dure, dar fascinante, ale industriei istorice de pescuit de coastă.\n\nLa prânz, treceți de la expozițiile istorice la înțelegerea bazei economice a insulelor Lofoten la muzeele unice de ulei de ficat de cod și pește uscat, simțind aerul sărat al mării.\n\nDupă-amiaza, lăsați peisajul arctic dramatic să ocupe centrul atenției în timp ce faceți drumeții pe vârfurile accidentate din jur. Punctele de belvedere oferă panorame uluitoare ale fiordurilor.\n\nÎncheiați seara rătăcind prin reperele arhitecturale frumos conservate, reflectând la o zi în care natura norvegiană uimitoare și istoria umană rezistentă s-au împletit perfect la apus.",
         "en": "Start your morning immersing yourself in the rich seafaring heritage of Å. The open-air museums vividly bring to life the harsh yet fascinating realities of the historic coastal fishing industry.\n\nAs midday approaches, transition from historical exhibits to understanding the economic backbone of the Lofoten islands at the unique cod liver oil and stockfish museums, smelling the sea air.\n\nIn the afternoon, let the dramatic Arctic landscape take center stage as you hike the rugged surrounding peaks. The elevated viewpoints offer unparalleled panoramas of the deep fjords.\n\nEnd your evening wandering through the beautifully preserved architectural landmarks, reflecting on a day where stunning Norwegian nature and resilient human history perfectly intertwined."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Panoramafahrt trotz Regen. Mittags bieten die Museen in Å trockene Erlebnisse. Nachmittags erkunden wir Sørvågen, wobei das Auto als mobiler Unterschlupf zwischen den Fotostopps dient. Abends bewundern wir die raue See von geschützten Aussichtspunkten aus, während wir die Heizung im Wagen genießen.",
+            "hu": "Reggel a panorámaút kényelméből csodáljuk a tájat az eső ellenére. Délben Å múzeumai kínálnak száraz élményeket. Délután Sørvågen környékét fedezzük fel, ahol az autó mobil menedékként szolgál a fotómegállók között. Este a háborgó tengert figyeljük a védett kilátópontokról, miközben élvezzük a kocsi fűtését.",
+            "ro": "Dimineața ne bucurăm de drumul panoramic în ciuda ploii. La prânz, muzeele din Å oferă experiențe uscate. După-amiaza explorăm Sørvågen, mașina servind drept adăpost mobil între opririle foto. Seara admirăm marea agitată din puncte de belvedere protejate, profitând de căldura din vehicul.",
+            "en": "Morning is for enjoying the scenic drive despite the rain. At noon, the museums in Å offer dry experiences. In the afternoon, we explore Sørvågen, with the car serving as a mobile shelter between photo stops. In the evening, watch the rough sea from protected viewpoints while enjoying the car's heater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Norsk Fiskeværsmuseum",
+                "hu": "Norsk Fiskeværsmuseum",
+                "ro": "Norsk Fiskeværsmuseum",
+                "en": "Norsk Fiskeværsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten; die Innenräume der alten Fischerhütten sind absolut sehenswert.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben töltött időt; a régi halászkunyhók belső terei lenyűgözőek.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie; interioarele vechilor colibe de pescari sunt remarcabile.",
+                "en": "Park close to the entrance to keep the walk in the rain short; the interiors of the old fisherman huts are well worth seeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lofoten Stockfish Museum",
+                "hu": "Lofoten Stockfish Museum",
+                "ro": "Lofoten Stockfish Museum",
+                "en": "Lofoten Stockfish Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Tage; lernen Sie alles über Stockfisch in einer trockenen und authentischen Umgebung.",
+                "hu": "Ideális hely esős napokra; tudjon meg mindent a szárított halról egy száraz és autentikus környezetben.",
+                "ro": "Un loc ideal pentru zilele ploioase; aflați totul despre codul uscat într-un mediu uscat și autentic.",
+                "en": "An ideal place for rainy days; learn all about stockfish in a dry and authentic environment indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinddalstinden",
+                "hu": "Tinddalstinden",
+                "ro": "Tinddalstinden",
+                "en": "Tinddalstinden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Gipfel direkt vom Parkplatz aus, falls der Regen zu stark für eine Wanderung ist.",
+                "hu": "Élvezze a csúcsokra nyíló kilátást közvetlenül a parkolóból, ha az eső túl erős lenne egy hosszabb túrához.",
+                "ro": "Bucurați-vă de vederea spre vârfuri direct din parcare, în cazul în care ploaia este prea puternică pentru drumeție.",
+                "en": "Enjoy the view of the peaks directly from the parking area if the rain is too heavy for a full hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Sørvågen",
+                "hu": "Sørvågen",
+                "ro": "Sørvågen",
+                "en": "Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten am Hafen für kurze Wege zu den Fotopunkten; die Gischt der Wellen wirkt bei Regen noch wilder.",
+                "hu": "Használja a kikötői parkolókat a rövid sétákhoz a fotópontokig; a hullámok tajtéka esőben még vadabbnak tűnik.",
+                "ro": "Folosiți parcările din port pentru acces scurt la punctele foto; spuma valurilor pare și mai sălbatică pe ploaie.",
+                "en": "Use the harbor parking for short walks to photo spots; the sea spray looks even wilder during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Norsk Telemuseum Sørvågen",
+                "hu": "Norsk Telemuseum Sørvågen",
+                "ro": "Norsk Telemuseum Sørvågen",
+                "en": "Norsk Telemuseum Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp bei schlechtem Wetter; das Museum bietet viel Platz und interessante Exponate im Trockenen.",
+                "hu": "Kiváló megálló rossz idő esetén; a múzeum tágas tereket és érdekes kiállítási tárgyakat kínál fedett helyen.",
+                "ro": "O oprire excelentă în caz de vreme rea; muzeul oferă spații largi și exponate interesante la adăpost.",
+                "en": "An excellent stop in bad weather; the museum offers plenty of indoor space and interesting exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Andstabben",
+                "hu": "Andstabben",
+                "ro": "Andstabben",
+                "en": "Andstabben"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Aussichtspunkt kann bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie das Panorama aus dem Wagen.",
+                "hu": "A kilátóhoz vezető út esőben csúszós lehet; vezessen óvatosan, és élvezze a panorámát az autó ablakából.",
+                "ro": "Drumul spre punctul de belvedere poate fi alunecos pe ploaie; conduceți cu atenție și admirați panorama din mașină.",
+                "en": "The road to the viewpoint can be slippery in the rain; drive carefully and enjoy the panorama from the comfort of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir vorsichtig auf den geräumten, aber winterlichen Straßen. Mittags wärmen wir uns in den Museen von Å auf. Da es früh dunkel wird, nutzen wir das Mittagslicht für die besten Fotostopps. Nachmittags in Sørvågen erleben wir die blaue Stunde. Abends genießen wir die Fahrt unter dem Sternenhimmel, während die Heizung für Wohlbefinden sorgt.",
+            "hu": "Reggel óvatosan haladunk a letakarított, de téli utakon. Délben Å múzeumaiban melegszünk fel. Mivel korán sötétedik, a déli fényeket használjuk ki a legjobb fotómegállókhoz. Délután Sørvågennél átéljük a kék óra varázsát. Este a csillagos ég alatt autózunk vissza, miközben a kocsi fűtése gondoskodik a kényelmünkről.",
+            "ro": "Dimineața conducem cu atenție pe drumurile curățate, dar de iarnă. La prânz ne încălzim în muzeele din Å. Deoarece se întunecă devreme, profităm de lumina prânzului pentru cele mai bune opriri foto. După-amiaza în Sørvågen trăim magia orei albastre. Seara conducem sub cerul înstelat, în timp ce căldura din mașină ne oferă confort.",
+            "en": "Morning is for careful driving on cleared but wintry roads. At noon, we warm up in the museums of Å. Since it gets dark early, we use the midday light for the best photo stops. In the afternoon, experience the magic of the blue hour in Sørvågen. In the evening, drive under the starry sky while the car's heater ensures comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Norsk Fiskeværsmuseum",
+                "hu": "Norsk Fiskeværsmuseum",
+                "ro": "Norsk Fiskeværsmuseum",
+                "en": "Norsk Fiskeværsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Mietwagen Winterreifen hat; die hölzernen Gebäude sind mit Schneehauben ein einmaliger Anblick.",
+                "hu": "Győződjön meg róla, hogy az autón van téli gumi; a hófödte faépületek látványa ilyenkor egészen egyedülálló élmény.",
+                "ro": "Asigurați-vă că mașina are anvelope de iarnă; clădirile din lemn acoperite cu zăpadă oferă o priveliște unică.",
+                "en": "Ensure your car has winter tires; the snow-capped wooden buildings are a unique sight during the Arctic winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lofoten Stockfish Museum",
+                "hu": "Lofoten Stockfish Museum",
+                "ro": "Lofoten Stockfish Museum",
+                "en": "Lofoten Stockfish Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp, um der Kälte zu entkommen; das Museum bietet eine warme Atmosphäre und tiefe Einblicke in die Tradition.",
+                "hu": "Meghitt megálló, hogy elmeneküljön a hideg elől; a múzeum meleg légkört és mély betekintést nyújt a helyi hagyományokba.",
+                "ro": "O oprire primitoare pentru a scăpa de frig; muzeul oferă o atmosferă caldă și o perspectivă profundă asupra tradițiilor.",
+                "en": "A cozy stop to escape the cold; the museum offers a warm atmosphere and deep insights into local traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Tinddalstinden",
+                "hu": "Tinddalstinden",
+                "ro": "Tinddalstinden",
+                "en": "Tinddalstinden"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann vereist sein; genießen Sie das spektakuläre Winterpanorama der schroffen Berge direkt aus dem warmen Auto.",
+                "hu": "A felvezető út jeges lehet; élvezze a zord hegyek látványos téli panorámáját közvetlenül a fűtött autóból.",
+                "ro": "Drumul de acces poate fi înghețat; admirați panorama spectaculoasă de iarnă a munților direct din mașina încălzită.",
+                "en": "The access road can be icy; enjoy the spectacular winter panorama of the rugged mountains directly from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Sørvågen",
+                "hu": "Sørvågen",
+                "ro": "Sørvågen",
+                "en": "Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen, um die bläuliche Dämmerung über dem Wasser zu beobachten; die bunten Häuser leuchten im Schnee besonders hell.",
+                "hu": "Parkoljon a kikötőben, hogy megfigyelhesse a kék szürkületet a víz felett; a színes házak ilyenkor ragyognak a fehér hóban.",
+                "ro": "Parcați în port pentru a observa amurgul albastru deasupra apei; casele colorate strălucesc puternic pe fundalul alb al zăpezii.",
+                "en": "Park at the harbor to watch the blue dusk over the water; the colorful houses glow brightly against the white snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Norsk Telemuseum Sørvågen",
+                "hu": "Norsk Telemuseum Sørvågen",
+                "ro": "Norsk Telemuseum Sørvågen",
+                "en": "Norsk Telemuseum Sørvågen"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um die Zeit nach Sonnenuntergang sinnvoll zu nutzen; das Museum ist beheizt und bietet spannende Technikgeschichte.",
+                "hu": "Ideális a naplemente utáni idő hasznos eltöltésére; a múzeum fűtött, és izgalmas technikai történeteket mutat be.",
+                "ro": "Ideal pentru a folosi util timpul după apus; muzeul este încălzit și prezintă o istorie tehnică fascinantă.",
+                "en": "Ideal for making good use of the time after sunset; the museum is heated and offers exciting technological history."
+              }
+            },
+            {
+              "name": {
+                "de": "Andstabben",
+                "hu": "Andstabben",
+                "ro": "Andstabben",
+                "en": "Andstabben"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur bei guter Sicht; die winterliche Küstenlandschaft von hier oben ist bei klarem Wetter und Sternenlicht atemberaubend.",
+                "hu": "Csak jó látási viszonyok mellett hajtson fel; a téli tengerparti táj innen fentről, tiszta időben és csillagfénynél lélegzetelállító.",
+                "ro": "Conduceți aici doar dacă vizibilitatea este bună; peisajul costier de iarnă de aici de sus este uluitor sub cerul înstelat.",
+                "en": "Only drive here if visibility is good; the wintry coastal landscape from up here is breathtaking under clear skies and starlight."
+              }
+            }
+          ]
+        }
       }
     }
   }

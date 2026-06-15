@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Pont-du-Château szívében a történelmi városházánál. Sétáljon végig a szűk utcákon a Notre-Dame templomig. A délután az impozáns harangtoronyhoz vezet. Fejezze be a sétát a harmonikaklub és a Sainte-Martine templom meglátogatásával, élvezve a helyi hangulatot.",
         "ro": "Începeți ziua în inima Pont-du-Château la primăria istorică. Plimbați-vă pe străzile înguste până la biserica Notre-Dame. După-amiaza vă duce la impunătorul turn Beffroi. Încheiați plimbarea cu o vizită la clubul de acordeon și la biserica Sainte-Martine pentru o notă autentică.",
         "en": "Start your morning in the heart of Pont-du-Château at the historic town hall. Stroll through the charming narrow streets to the Notre-Dame church. The afternoon leads you to the imposing Beffroi tower. Finish your walk by visiting the unique accordion club and the grand Sainte-Martine church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am historischen Rathaus.\n\nSuchen Sie mittags Schutz in den wunderschönen Kirchen und am Belfried.\n\nVerbringen Sie einen trockenen Nachmittag drinnen im Akkordeon-Club.\n\nBeenden Sie Ihren Tag sicher unter Ihrem Regenschirm nahe der Kirche Sainte-Martine.",
+            "hu": "Kezdje az esős reggelt a történelmi Városházánál.\n\nDélben keressen menedéket a gyönyörű templomokban és a Harangtoronynál.\n\nTöltsön egy száraz délutánt a Harmonikaklubban.\n\nZárja a napot biztonságban, esernyővel a kezében a Sainte-Martine templom közelében.",
+            "ro": "Începeți dimineața ploioasă la istorica Primărie.\n\nLa prânz, căutați adăpost în frumoasele biserici și la Turnul Clopotniță.\n\nPetreceți o după-amiază uscată la Clubul de Acordeon.\n\nÎncheiați ziua în siguranță sub umbrela dumneavoastră, lângă Biserica Sainte-Martine.",
+            "en": "Start your rainy morning at the historic Town Hall.\n\nBy noon, seek shelter in the beautiful churches and the Belfry.\n\nSpend a dry afternoon indoors at the Accordion Club.\n\nEnd your day safely under your umbrella near Sainte-Martine Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Pont-du-Château",
+                "hu": "Pont-du-Château Városháza",
+                "ro": "Primăria Pont-du-Château",
+                "en": "Town Hall of Pont-du-Château"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die massive Architektur und nutzen Sie die Dachvorsprünge als Regenschutz.",
+                "hu": "Csodálja meg a masszív építészetet, miközben az ereszek alatt menedéket talál az eső elől.",
+                "ro": "Admirați arhitectura solidă folosind streșinile ca adăpost împotriva ploii.",
+                "en": "Admire the solid architecture while using the eaves for shelter against the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Paulhat",
+                "hu": "Notre-Dame de Paulhat templom",
+                "ro": "Biserica Notre-Dame de Paulhat",
+                "en": "Notre-Dame de Paulhat Church"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere bietet einen ruhigen, trockenen Rückzugsort, um historische Details zu bewundern.",
+                "hu": "A templom belseje békés, száraz menedéket nyújt a történelmi részletek megcsodálásához.",
+                "ro": "Interiorul bisericii oferă un refugiu pașnic și uscat pentru a admira detaliile istorice.",
+                "en": "The church interior offers a peaceful, dry refuge to admire its historical details."
+              }
+            },
+            {
+              "name": {
+                "de": "Belfried",
+                "hu": "Harangtorony",
+                "ro": "Turnul Clopotniță",
+                "en": "Belfry"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf dem nassen Kopfsteinpflaster, während Sie diesen markanten Uhrenturm betrachten.",
+                "hu": "Vigyázzon a nedves macskaköveken, miközben ezt a kiemelkedő óratornyot figyeli.",
+                "ro": "Aveți grijă pe piatra cubică umedă din apropiere în timp ce observați acest turn cu ceas.",
+                "en": "Be careful on the wet cobblestones nearby while observing this prominent clock tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Akkordeon-Club",
+                "hu": "Harmonikaklub",
+                "ro": "Clubul de Acordeon",
+                "en": "Accordion Club"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Indoor-Aktivität für Regentage, um das lokale musikalische Erbe zu genießen.",
+                "hu": "Tökéletes beltéri program esős napokra, ahol élvezheti a helyi zenei örökséget.",
+                "ro": "O activitate de interior perfectă pentru o zi ploioasă, unde vă puteți bucura de moștenirea muzicală.",
+                "en": "A perfect indoor activity for a rainy day, where you can enjoy the local musical heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Martine",
+                "hu": "Sainte-Martine templom",
+                "ro": "Biserica Sainte-Martine",
+                "en": "Sainte-Martine Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Nieselregen zu entkommen und das wunderschön erhaltene Kirchenschiff zu bewundern.",
+                "hu": "Lépjen be, hogy elmeneküljön a szitáló eső elől, és csodálja meg a gyönyörűen megőrzött hajót.",
+                "ro": "Intrați pentru a scăpa de burniță și a admira naosul frumos conservat.",
+                "en": "Step inside to escape the drizzle and marvel at the beautifully preserved nave."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen am Rathaus.\n\nWärmen Sie sich mittags in der Kirche Notre-Dame de Paulhat auf.\n\nGenießen Sie den Nachmittag im gemütlichen Akkordeon-Club.\n\nBeenden Sie Ihre Tour vor dem frühen Sonnenuntergang um 17:00 Uhr an der Kirche Sainte-Martine.",
+            "hu": "Kezdje a csípős téli reggelt a Városházánál.\n\nDélben melegedjen fel a Notre-Dame de Paulhat templom belsejében.\n\nÉlvezze a délutánt a hangulatos Harmonikaklubban.\n\nFejezze be a sétát a korai, 17:00 órai sötétedés előtt a Sainte-Martine templomnál.",
+            "ro": "Începeți dimineața de iarnă la Primărie.\n\nLa prânz, încălziți-vă în Biserica Notre-Dame de Paulhat.\n\nBucurați-vă de o după-amiază la confortabilul Club de Acordeon.\n\nTerminați plimbarea înainte de apusul devreme, în jur de ora 17:00, la Biserica Sainte-Martine.",
+            "en": "Begin your crisp winter morning at the Town Hall.\n\nWarm up by noon inside the Notre-Dame de Paulhat Church.\n\nEnjoy the afternoon learning at the cozy Accordion Club.\n\nFinish before the early sunset around 17:00 at the Sainte-Martine Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Pont-du-Château",
+                "hu": "Pont-du-Château Városháza",
+                "ro": "Primăria Pont-du-Château",
+                "en": "Town Hall of Pont-du-Château"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade ist im Winterlicht wunderschön; ziehen Sie sich für die zugigen Außenbereiche warm an.",
+                "hu": "Fenséges homlokzat a téli fényben; öltözzön fel melegen a huzatos szabadtéri területeken.",
+                "ro": "Fațada este frumoasă în lumina iernii; îmbrăcați-vă gros pentru zonele exterioare reci.",
+                "en": "The majestic facade is beautiful in winter light; dress warmly for the drafty outdoor areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Paulhat",
+                "hu": "Notre-Dame de Paulhat templom",
+                "ro": "Biserica Notre-Dame de Paulhat",
+                "en": "Notre-Dame de Paulhat Church"
+              },
+              "tip_5lang": {
+                "de": "Die eisige Luft ist scharf, wärmen Sie sich schnell in diesem ruhigen Heiligtum auf.",
+                "hu": "A jeges levegő éles, így gyorsan melegedjen fel ebben a békés szentélyben a folytatás előtt.",
+                "ro": "Aerul înghețat este tăios, așa că încălziți-vă rapid în acest sanctuar liniștit înainte de a continua.",
+                "en": "The icy air is sharp, so warm up quickly in this serene, quiet sanctuary before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Belfried",
+                "hu": "Harangtorony",
+                "ro": "Turnul Clopotniță",
+                "en": "Belfry"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Wind weht um den Turm, machen Sie also schnell Fotos und gehen Sie weiter.",
+                "hu": "A hideg szél süvít a torony körül, ezért készítsen gyorsan fotókat, és haladjon tovább.",
+                "ro": "Vântul rece bate în jurul turnului, așa că faceți fotografii rapid și continuați drumul.",
+                "en": "The cold wind whips around the tower, so snap your photos quickly and keep moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Akkordeon-Club",
+                "hu": "Harmonikaklub",
+                "ro": "Clubul de Acordeon",
+                "en": "Accordion Club"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr gemütlicher und warmer Stopp, um die kalte Außenbesichtigung aufzulockern.",
+                "hu": "Nagyon hangulatos és meleg megálló, amely kellemesen megszakítja a hideg városnézést.",
+                "ro": "O oprire foarte confortabilă și caldă pentru a face o pauză de la vizitarea obiectivelor reci.",
+                "en": "A very cozy and warm stop to break up the cold outdoor sightseeing of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Martine",
+                "hu": "Sainte-Martine templom",
+                "ro": "Biserica Sainte-Martine",
+                "en": "Sainte-Martine Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor der Dämmerung, da die Buntglasfenster im restlichen Tageslicht am besten wirken.",
+                "hu": "Látogasson el ide sötétedés előtt, mivel az üvegablakok a megmaradt nappali fényben mutatnak a legjobban.",
+                "ro": "Vizitați înainte de lăsarea întunericului, ferestrele cu vitralii arată cel mai bine în lumina zilei.",
+                "en": "Visit before dusk, as the stained glass windows look best in the remaining winter daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon reggel a Le Caméléon kulturális központhoz. Ezután térjen vissza a központba a Notre-Dame templomhoz és a városházához. Délután tekerjen el a harangtorony és a Sainte-Martine templom mellett. A túra a délkeleti Château de Chignat festői környezetében ér véget.",
         "ro": "Pedalați dimineața spre centrul cultural Le Caméléon. Apoi întoarceți-vă în centru la biserica Notre-Dame și primărie. După-amiaza treceți pe lângă turnul Beffroi și biserica Sainte-Martine. Turul se încheie cu o plimbare pitorească spre impresionantul Château de Chignat.",
         "en": "Cycle in the morning to the Le Caméléon cultural center on the outskirts. Then head back into the town center to see the Notre-Dame church and town hall. In the afternoon, ride past the belfry and Sainte-Martine church. Conclude the tour with a scenic ride out to the Château de Chignat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt bei den Innenausstellungen von Le Caméléon.\n\nFahren Sie mittags vorsichtig zu den historischen Kirchen und zum Rathaus.\n\nVerbringen Sie den verregneten Nachmittag am Belfried und bei Sainte-Martine.\n\nErreichen Sie das Schloss Chignat in wasserdichter Kleidung.",
+            "hu": "Kezdje a nedves túrát a Le Caméléon fedett kiállításain.\n\nDélben óvatosan tekerjen a történelmi templomok és a Városháza felé.\n\nTöltse az esős délutánt a Harangtorony és a Sainte-Martine felfedezésével.\n\nÉrkezzen a Chignat Kastélyhoz vízálló felszerelésben.",
+            "ro": "Începeți plimbarea umedă la expozițiile interioare de la Le Caméléon.\n\nCiclism atent la prânz către bisericile istorice și Primărie.\n\nPetreceți după-amiaza ploioasă navigând spre Turnul Clopotniță și Sainte-Martine.\n\nAjungeți la Castelul Chignat cu echipamentul impermeabil pregătit.",
+            "en": "Start your wet ride at Le Caméléon's indoor exhibits.\n\nCycle carefully by noon to the historic churches and Town Hall.\n\nSpend the rainy afternoon navigating safely to the Belfry and Sainte-Martine.\n\nArrive at Chignat Castle, keeping your waterproof gear handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Caméléon",
+                "hu": "Le Caméléon",
+                "ro": "Le Caméléon",
+                "en": "Le Caméléon"
+              },
+              "tip_5lang": {
+                "de": "Ausgezeichneter überdachter Start; sichern Sie Ihr Fahrrad und genießen Sie die Ausstellungen im Trockenen.",
+                "hu": "Kiváló fedett kezdés, hogy száraz maradjon; rögzítse a biciklit és élvezze a kiállításokat.",
+                "ro": "Un început de interior excelent pentru a rămâne uscat; asigurați bicicleta și bucurați-vă de expoziții.",
+                "en": "Excellent indoor start to stay dry; secure your bike and enjoy the fascinating local exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Paulhat",
+                "hu": "Notre-Dame de Paulhat templom",
+                "ro": "Biserica Notre-Dame de Paulhat",
+                "en": "Notre-Dame de Paulhat Church"
+              },
+              "tip_5lang": {
+                "de": "Verwenden Sie Schutzbleche, da der Weg schlammig sein kann, und trocknen Sie sich drinnen ab.",
+                "hu": "Használjon sárvédőt, mivel az út sáros lehet, majd száradjon meg e békés szentélyben.",
+                "ro": "Folosiți apărători de noroi, deoarece drumul poate fi noroios, apoi uscați-vă în sanctuar.",
+                "en": "Use mudguards as the approach can be muddy, then dry off inside this peaceful sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Pont-du-Château",
+                "hu": "Pont-du-Château Városháza",
+                "ro": "Primăria Pont-du-Château",
+                "en": "Town Hall of Pont-du-Château"
+              },
+              "tip_5lang": {
+                "de": "Der gepflasterte Hof wird bei Regen sehr rutschig, bremsen Sie also sanft beim Besichtigen.",
+                "hu": "A burkolt udvar esőben nagyon csúszós, ezért fékezzen óvatosan, miközben a kilátást élvezi.",
+                "ro": "Curtea pavată devine foarte alunecoasă pe ploaie, așa că frânați ușor în timp ce admirați fațada.",
+                "en": "The paved courtyard gets very slippery in the rain, so brake gently while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Belfried",
+                "hu": "Harangtorony",
+                "ro": "Turnul Clopotniță",
+                "en": "Belfry"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken im Nieselregen auf die glatten nassen Steine rund um den Turm.",
+                "hu": "Vigyázzon a síkos, nedves kövekre a torony lábánál, amikor szitáló esőben parkolja le a kerékpárt.",
+                "ro": "Atenție la pietrele umede din jurul turnului când parcați bicicleta în timpul burniței.",
+                "en": "Watch out for slick wet stones around the tower base when parking your bike in the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Martine",
+                "hu": "Sainte-Martine templom",
+                "ro": "Biserica Sainte-Martine",
+                "en": "Sainte-Martine Church"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer toller Unterschlupf vor den Regengüssen, um die Kirchenarchitektur zu bewundern.",
+                "hu": "Újabb nagyszerű fedett menedék a felhőszakadások elől, ahol megcsodálhatja a helyi építészetet.",
+                "ro": "Un alt adăpost interior excelent împotriva ploilor torențiale pentru a admira arhitectura.",
+                "en": "Another great indoor shelter from the downpours to admire beautiful local church architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chignat",
+                "hu": "Chignat Kastély",
+                "ro": "Castelul Chignat",
+                "en": "Chignat Castle"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie wasserdichte Taschen für Ihre Ausrüstung, während Sie das Schloss im Regen erkunden.",
+                "hu": "Csomagoljon vízálló táskát a felszerelésnek, miközben esőben fedezi fel a kastély területét.",
+                "ro": "Împachetați pungi impermeabile pentru echipament în timp ce explorați castelul pe ploaie.",
+                "en": "Pack waterproof bags for your cycling gear as you explore the imposing castle grounds in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie zügig zum Le Caméléon, um Ihren kalten Wintermorgen zu beginnen.\n\nWärmen Sie sich mittags bei den Kirchen und am Rathaus auf.\n\nZiehen Sie sich nachmittags warm an, um den Belfried und Sainte-Martine zu besuchen.\n\nBeenden Sie Ihre Fahrt am Schloss Chignat vor der frühen Dämmerung.",
+            "hu": "Tekerjen fürgén a Le Caméléonhoz a hideg téli reggelen.\n\nDélben melegedjen fel a templomoknál és a Városházánál tett megállók során.\n\nDélután öltözzön fel melegen a Harangtorony és a Sainte-Martine megtekintéséhez.\n\nFejezze be az utat a Chignat Kastélynál a kora esti sötétedés előtt.",
+            "ro": "Pedalați vioi spre Le Caméléon pentru a începe dimineața rece de iarnă.\n\nLa prânz, încălziți-vă la opririle de la biserici și Primărie.\n\nDupă-amiaza, îmbrăcați-vă bine pentru a vizita Turnul Clopotniță și Sainte-Martine.\n\nÎncheiați cursa la Castelul Chignat înainte să se întunece devreme.",
+            "en": "Pedal briskly to Le Caméléon to start your cold winter morning.\n\nBy midday, warm up during your stops at the churches and the Town Hall.\n\nIn the afternoon, bundle up well to visit the Belfry and Sainte-Martine.\n\nFinish your ride at Chignat Castle before the early dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Caméléon",
+                "hu": "Le Caméléon",
+                "ro": "Le Caméléon",
+                "en": "Le Caméléon"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für den Start Ihrer frostigen Fahrt; behalten Sie die Handschuhe an, bis Sie drinnen sind.",
+                "hu": "Meleg fedett helyszín a fagyos túra megkezdéséhez; tartsa magán a kesztyűt, amíg be nem ér.",
+                "ro": "Un loc cald la interior pentru a începe cursa geroasă; țineți mănușile până intrați.",
+                "en": "A warm indoor venue to begin your frosty ride; keep your cycling gloves on until you get inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Paulhat",
+                "hu": "Notre-Dame de Paulhat templom",
+                "ro": "Biserica Notre-Dame de Paulhat",
+                "en": "Notre-Dame de Paulhat Church"
+              },
+              "tip_5lang": {
+                "de": "Die eisige Luft ist scharf, wärmen Sie sich schnell in diesem ruhigen Heiligtum auf.",
+                "hu": "A jeges levegő éles, így gyorsan melegedjen fel ebben a békés szentélyben a folytatás előtt.",
+                "ro": "Aerul înghețat este tăios, așa că încălziți-vă rapid în acest sanctuar liniștit înainte de a continua.",
+                "en": "The icy air is sharp, so warm up quickly in this serene, quiet sanctuary before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Pont-du-Château",
+                "hu": "Pont-du-Château Városháza",
+                "ro": "Primăria Pont-du-Château",
+                "en": "Town Hall of Pont-du-Château"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade ist im Winterlicht wunderschön; ziehen Sie sich für die zugigen Außenbereiche warm an.",
+                "hu": "Fenséges homlokzat a téli fényben; öltözzön fel melegen a huzatos szabadtéri területeken.",
+                "ro": "Fațada este frumoasă în lumina iernii; îmbrăcați-vă gros pentru zonele exterioare reci.",
+                "en": "The majestic facade is beautiful in winter light; dress warmly for the drafty outdoor areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Belfried",
+                "hu": "Harangtorony",
+                "ro": "Turnul Clopotniță",
+                "en": "Belfry"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Wind weht um den Turm, machen Sie also schnell Fotos und fahren Sie weiter.",
+                "hu": "A hideg szél süvít a torony körül, ezért készítsen gyorsan fotókat, és haladjon tovább.",
+                "ro": "Vântul rece bate în jurul turnului, așa că faceți fotografii rapid și continuați să pedalați.",
+                "en": "The cold wind whips around the tower, so snap your photos quickly and keep moving on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Martine",
+                "hu": "Sainte-Martine templom",
+                "ro": "Biserica Sainte-Martine",
+                "en": "Sainte-Martine Church"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet das Äußere; fahren Sie vorsichtig auf frostigen Wegen.",
+                "hu": "Az alacsony téli nap szépen megvilágítja a külsejét; tekerjen óvatosan a deres ösvényeken.",
+                "ro": "Soarele de iarnă luminează frumos exteriorul; mergeți cu grijă pe aleile înghețate.",
+                "en": "The lowering winter sun nicely illuminates the exterior; ride carefully on frosty access paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chignat",
+                "hu": "Chignat Kastély",
+                "ro": "Castelul Chignat",
+                "en": "Chignat Castle"
+              },
+              "tip_5lang": {
+                "de": "Sorgen Sie für starke Fahrradlichter, da die Rückkehr vom Schloss in der frühen Dunkelheit erfolgen kann.",
+                "hu": "Gondoskodjon erős kerékpárlámpákról, mivel a kastélyból való visszatérés már sötétben lehet.",
+                "ro": "Asigurați-vă că aveți lumini puternice la bicicletă, deoarece întoarcerea poate fi pe întuneric.",
+                "en": "Ensure you have strong bike lights, as your return from the castle might be in the early dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Induljon kényelmesen autóval a modern Le Caméléon központtól. Vezessen a belvárosba a városháza és a harangtorony felfedezéséhez. Délután látogassa meg a Sainte-Martine templomot és a harmonikaklubot. A napot a Saint-Aventin templom és a lenyűgöző Château de Chignat zárja.",
         "ro": "Începeți confortabil cu mașina la modernul spațiu Le Caméléon. Conduceți spre centru pentru a explora primăria istorică și Beffroi. Vizitați după-amiaza biserica Sainte-Martine și clubul de acordeon. Ziua se încheie cu explorarea bisericii Saint-Aventin și a castelului Chignat.",
         "en": "Start your road trip comfortably at the modern Le Caméléon event space. Drive into the center to explore the historic town hall and the towering Beffroi. In the afternoon, visit the Sainte-Martine church and accordion club. Cap off your day with trips to Saint-Aventin and Château de Chignat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum Le Caméléon für einen trockenen, kulturellen Morgen.\n\nParken Sie mittags am Rathaus und eilen Sie mit Schirm zum Belfried und Sainte-Martine.\n\nVerbringen Sie einen gemütlichen Nachmittag drinnen im Akkordeon-Club.\n\nBeenden Sie Ihre verregnete Fahrt bei Saint-Aventin und dem beeindruckenden Schloss Chignat.",
+            "hu": "Vezessen a Le Caméléonhoz egy száraz, kulturális reggelért.\n\nDélben parkoljon le a Városháza közelében, és esernyővel induljon a Harangtoronyhoz és a Sainte-Martine-hoz.\n\nTöltsön el egy hangulatos délutánt a Harmonikaklubban.\n\nZárja az esős autózást a Saint-Aventin templomnál és a Chignat Kastélynál.",
+            "ro": "Conduceți la Le Caméléon pentru o dimineață culturală uscată.\n\nLa prânz, parcați lângă Primărie și fugiți la Turnul Clopotniță cu umbrela.\n\nPetreceți o după-amiază confortabilă în interior la Clubul de Acordeon.\n\nÎncheiați drumul ploios la Saint-Aventin și la impresionantul Castel Chignat.",
+            "en": "Drive to Le Caméléon for a dry, cultural morning.\n\nBy noon, park near the Town Hall and dash to the Belfry and Sainte-Martine under an umbrella.\n\nSpend a cozy afternoon indoors at the Accordion Club.\n\nConclude your rainy drive at Saint-Aventin and the impressive Chignat Castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Caméléon",
+                "hu": "Le Caméléon",
+                "ro": "Le Caméléon",
+                "en": "Le Caméléon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden, bevor Sie die Ausstellungen sehen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el az érdekes kiállítások megtekintése előtt.",
+                "ro": "Parcați aproape de intrare pentru a evita să vă udați înainte de a vedea expozițiile.",
+                "en": "Park close to the entrance to avoid getting soaked before viewing the interesting exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Pont-du-Château",
+                "hu": "Pont-du-Château Városháza",
+                "ro": "Primăria Pont-du-Château",
+                "en": "Town Hall of Pont-du-Château"
+              },
+              "tip_5lang": {
+                "de": "Der Regen betont das historische Mauerwerk, halten Sie den Regenschirm vom Auto aus bereit.",
+                "hu": "Az eső kiemeli a történelmi kőművesmunkát, de tartsa kéznél az esernyőt a parkolótól indulva.",
+                "ro": "Ploaia scoate în evidență zidăria istorică, dar țineți umbrela la îndemână de la mașină.",
+                "en": "The rain enhances the historic stonework, but keep your umbrella handy for the walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Belfried",
+                "hu": "Harangtorony",
+                "ro": "Turnul Clopotniță",
+                "en": "Belfry"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm schnell unter dem Regenschirm, da der Platz sehr nass sein kann.",
+                "hu": "Tekintse meg a tornyot gyorsan az esernyője alól, mivel a környező tér nagyon vizenyős lehet.",
+                "ro": "Vedeți turnul rapid de sub umbrelă, deoarece piața din jur poate fi foarte udă.",
+                "en": "View the tower quickly from under your umbrella, as the surrounding square can be very wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Martine",
+                "hu": "Sainte-Martine templom",
+                "ro": "Biserica Sainte-Martine",
+                "en": "Sainte-Martine Church"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Stopp auf Ihrer Fahrt; genießen Sie die Friedlichkeit im historischen Schiff.",
+                "hu": "Tökéletes száraz megálló az utazás során; élvezze a békés hangulatot a történelmi hajóban.",
+                "ro": "O oprire uscată perfectă în excursia dvs.; bucurați-vă de atmosfera pașnică din naos.",
+                "en": "A perfect dry stop on your road trip; enjoy the peaceful atmosphere inside the historic nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Akkordeon-Club",
+                "hu": "Harmonikaklub",
+                "ro": "Clubul de Acordeon",
+                "en": "Accordion Club"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie einen großen Teil des regnerischen Nachmittags drinnen mit Musikgeschichte.",
+                "hu": "Töltse az esős délután jelentős részét bent, és élvezze az egyedülálló zenei történelmet.",
+                "ro": "Petreceți o mare parte a după-amiezii ploioase în interior bucurându-vă de istoria muzicală.",
+                "en": "Spend a significant part of your rainy afternoon inside enjoying the unique musical history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aventin",
+                "hu": "Saint-Aventin templom",
+                "ro": "Biserica Saint-Aventin",
+                "en": "Saint-Aventin Church"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Landstraßen zu dieser wunderschönen historischen Kirche.",
+                "hu": "Vezessen óvatosan a nedves vidéki utakon, miközben megközelíti ezt a gyönyörű templomot.",
+                "ro": "Conduceți cu grijă pe drumurile rurale umede spre această frumoasă biserică istorică.",
+                "en": "Drive carefully on the wet rural roads approaching this beautiful and secluded historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chignat",
+                "hu": "Chignat Kastély",
+                "ro": "Castelul Chignat",
+                "en": "Chignat Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt dramatisch im Regen; behalten Sie Ihre wasserdichten Stiefel für das Gelände an.",
+                "hu": "A kastély drámai az esőben; viselje a vízálló csizmáját a sáros terület felfedezéséhez.",
+                "ro": "Castelul arată dramatic în ploaie; păstrați cizmele impermeabile pentru terenul noroios.",
+                "en": "The castle looks dramatic in the rain; keep your waterproof boots on for the muddy grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt in einem beheizten Auto zum Le Caméléon.\n\nMittags besuchen Sie das Rathaus und den Belfried, wo warme Kleidung nötig ist.\n\nGenießen Sie den Nachmittag im Akkordeon-Club und in der Kirche Saint-Aventin.\n\nErreichen Sie das Schloss Chignat kurz vor dem frühen, schönen Sonnenuntergang.",
+            "hu": "Kezdje a téli utazást egy fűtött autóban a Le Caméléon felé.\n\nDélben a Városháza és a Harangtorony várja, meleg rétegekre lesz szükség.\n\nÉlvezze a délutánt a Harmonikaklubban és a Saint-Aventin templomnál.\n\nÉrjen a Chignat Kastélyhoz a lenyűgöző, korai téli naplemente előtt.",
+            "ro": "Începeți drumul de iarnă într-o mașină încălzită spre Le Caméléon.\n\nLa prânz vizitați Primăria și Turnul Clopotniță, necesitând haine groase.\n\nBucurați-vă de după-amiaza la Clubul de Acordeon și Biserica Saint-Aventin.\n\nAjungeți la Castelul Chignat chiar înainte de apusul spectaculos și devreme.",
+            "en": "Start your winter drive in a heated car toward Le Caméléon.\n\nMidday brings you to the Town Hall, Belfry, and Sainte-Martine, requiring warm layers.\n\nEnjoy the afternoon at the Accordion Club and Saint-Aventin Church.\n\nReach Chignat Castle just before the stunning, early winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Caméléon",
+                "hu": "Le Caméléon",
+                "ro": "Le Caméléon",
+                "en": "Le Caméléon"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren schweren Wintermantel im Auto, während Sie dieses beheizte Kulturzentrum erkunden.",
+                "hu": "Hagyja a nehéz téli kabátot az autóban, miközben ezt a kellemesen fűtött kulturális központot fedezi fel.",
+                "ro": "Lăsați haina groasă de iarnă în mașină în timp ce explorați acest centru cultural încălzit.",
+                "en": "Leave your heavy winter coat in the car while exploring this pleasantly heated cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Pont-du-Château",
+                "hu": "Pont-du-Château Városháza",
+                "ro": "Primăria Pont-du-Château",
+                "en": "Town Hall of Pont-du-Château"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisflächen auf dem Parkplatz, bevor Sie den winterlichen Charme des Schlosses bewundern.",
+                "hu": "Figyeljen a jeges foltokra a parkolóban, mielőtt megcsodálná a gyönyörű kastély téli varázsát.",
+                "ro": "Atenție la porțiunile înghețate din parcare înainte de a admira farmecul de iarnă al castelului.",
+                "en": "Watch for icy patches in the parking area before admiring the beautiful castle's winter charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Belfried",
+                "hu": "Harangtorony",
+                "ro": "Turnul Clopotniță",
+                "en": "Belfry"
+              },
+              "tip_5lang": {
+                "de": "Das Bauwerk ist dem eisigen Winterwind ausgesetzt, tragen Sie beim Aussteigen einen warmen Schal.",
+                "hu": "A magasodó szerkezet ki van téve a csípős téli szeleknek, így viseljen meleg sálat a kiszálláskor.",
+                "ro": "Structura înaltă este expusă vânturilor aspre de iarnă, așa că purtați un fular cald când ieșiți.",
+                "en": "The towering structure is exposed to biting winter winds, so wear a warm scarf when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Martine",
+                "hu": "Sainte-Martine templom",
+                "ro": "Biserica Sainte-Martine",
+                "en": "Sainte-Martine Church"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere kann kühl sein, behalten Sie also Ihre Winterkleidung bei der Erkundung an.",
+                "hu": "A templom belseje hűvös lehet, ezért tartsa magán a téli rétegeket a belső felfedezés során.",
+                "ro": "Interiorul bisericii poate fi răcoros, așa că păstrați hainele groase în timp ce explorați.",
+                "en": "The church interior might be chilly, so keep your winter layers on while exploring the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Akkordeon-Club",
+                "hu": "Harmonikaklub",
+                "ro": "Clubul de Acordeon",
+                "en": "Accordion Club"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr gemütlicher und warmer Stopp, um die kalte Außenbesichtigung während der Fahrt aufzulockern.",
+                "hu": "Nagyon hangulatos és meleg megálló, amely megszakítja a hideg szabadtéri városnézést.",
+                "ro": "O oprire foarte confortabilă și caldă pentru a face o pauză de la vizitarea obiectivelor reci.",
+                "en": "A very cozy and warm stop to break up the cold outdoor sightseeing during your car journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aventin",
+                "hu": "Saint-Aventin templom",
+                "ro": "Biserica Saint-Aventin",
+                "en": "Saint-Aventin Church"
+              },
+              "tip_5lang": {
+                "de": "Sorgen Sie dafür, dass die Autoheizung nach dem Besuch dieser zugigen historischen Stätte bereit ist.",
+                "hu": "Gondoskodjon róla, hogy az autófűtés készen álljon a huzatos, de gyönyörű történelmi helyszín után.",
+                "ro": "Asigurați-vă că încălzirea mașinii funcționează după vizitarea acestui sit istoric rece dar frumos.",
+                "en": "Ensure your car heater is ready after visiting this drafty but beautiful historic religious site."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Chignat",
+                "hu": "Chignat Kastély",
+                "ro": "Castelul Chignat",
+                "en": "Chignat Castle"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft hier vor 16:30 Uhr, um das Schloss vor der Dämmerung im Tageslicht zu sehen.",
+                "hu": "Tervezze ide az érkezését 16:30 elé, hogy még sötétedés előtt, nappali fényben lássa a kastélyt.",
+                "ro": "Planificați sosirea aici înainte de ora 16:30 pentru a vedea clar castelul în lumina zilei.",
+                "en": "Plan your arrival here before 16:30 to clearly see the stunning castle in daylight before dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

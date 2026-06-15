@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi Marina sós tengeri szellőjével, egy laza sétával. Délben másszon fel a történelmi San Giorgio kastélyhoz a lenyűgöző kilátásért, majd fedezze fel a Lampare partot. Délután ismerkedjen meg a helyi hagyományokkal az Ecomuseo dei Nebrodi Occidentali falai között. Zárja a napot egy pihentető, naplementés lazítással a hangulatos Lido Mezzolimone strandon.",
         "ro": "Începeți dimineața bucurându-vă de briza sărată la Marina, într-un ritm relaxant. Până la amiază, urcați la istoricul Castel San Giorgio pentru priveliști asupra mării și explorați țărmurile din Lampare. După-amiaza, descoperiți tradițiile locale la Ecomuseo dei Nebrodi Occidentali. Încheiați ziua relaxându-vă și admirând culorile apusului la fermecătorul Lido Mezzolimone.",
         "en": "Begin your morning taking in the salty breeze at the local Marina, setting a relaxed pace. By midday, climb up to the historic Castello di San Giorgio for sweeping sea views and explore the pebbled shores of Lampare. In the afternoon, discover local traditions at the Ecomuseo dei Nebrodi Occidentali. Conclude your day relaxing and enjoying the sunset colors at Lido Mezzolimone."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hafen, wo Regen und Meeresluft verschmelzen. Mittags bietet die Burgruine eine mystische Aussicht im Nebel. Den Nachmittag verbringt man trocken im Ökomuseum. Der Abend endet mit einem erfrischenden Spaziergang unter dem Regenschirm am Ufer, während die Lichter in den Pfützen auf der Promenade glitzern.",
+            "hu": "Reggel a kikötőben kezdünk, ahol az eső illata keveredik a sós párával. Délben a várromok ködös, hangulatos látványt nyújtanak. A délutánt érdemes a száraz ökomúzeumban tölteni. Az este frissítő sétával zárul a parton az esernyő oltalma alatt, miközben a parti fények megcsillannak a pocsolyákban.",
+            "ro": "Dimineața începe în port, unde mirosul ploii se amestecă cu sarea mării. La prânz, ruinele castelului oferă o priveliște mistică în ceață. După-amiaza este petrecută în eco-muzeu pentru a rămâne uscat. Seara se încheie cu o plimbare răcoritoare pe țărm sub umbrelă, luminile orașului oglindindu-se frumos în bălți.",
+            "en": "Morning starts at the harbor where the scent of rain mixes with salt. By noon, the castle ruins offer a misty, atmospheric view. Afternoon is best spent inside the Eco-museum to stay dry. Evening ends with a refreshing walk along the shore under your umbrella, watching the lights reflect in the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina",
+                "hu": "Marina",
+                "ro": "Marina",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Die Hafenmauer kann bei Regen sehr rutschig sein; tragen Sie wasserfeste Schuhe mit gutem Profil, um die dramatische Brandung sicher und trocken genießen zu können.",
+                "hu": "A kikötő kövei esőben csúszóssá válhatnak, ezért válasszon barázdált talpú, vízálló lábbelit a biztonságos nézelődéshez és a haragos tengeri látvány élvezetéhez.",
+                "ro": "Pietrele din port pot deveni foarte alunecoase pe ploaie; purtați încălțăminte impermeabilă cu talpă aderentă pentru a admira în siguranță valurile dramatice ale mării.",
+                "en": "The harbor stones can become very slippery in the rain; wear waterproof shoes with good grip to safely enjoy the dramatic sight of the crashing winter waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Giorgio",
+                "hu": "Castello di San Giorgio",
+                "ro": "Castello di San Giorgio",
+                "en": "Castello di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Die alten Stufen zur Burg sind bei Nässe tückisch; nutzen Sie einen stabilen Regenschirm gegen den Wind und halten Sie sich an den Mauern fest, wenn Sie die Aussicht genießen.",
+                "hu": "A várba vezető régi lépcsők esőben csalókák; használjon szélálló esernyőt és kapaszkodjon a falakba, miközben a ködbe burkolózó panorámát csodálja a magasból.",
+                "ro": "Treptele vechi spre castel sunt înșelătoare pe ploaie; folosiți o umbrelă rezistentă la vânt și sprijiniți-vă de ziduri în timp ce admirați panorama învăluită în ceață.",
+                "en": "The old steps to the castle are treacherous when wet; use a windproof umbrella and hold onto the walls while admiring the misty panorama from the ancient heights."
+              }
+            },
+            {
+              "name": {
+                "de": "Lampare",
+                "hu": "Lampare",
+                "ro": "Lampare",
+                "en": "Lampare"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der nahen Cafés, wenn der Regen stärker wird; die graue See bietet eine meditative Kulisse für einen kurzen, nassen Stopp.",
+                "hu": "Keressen menedéket a közeli kávézók előtetői alatt, ha elered az eső; a szürke tenger meditatív hátteret nyújt egy rövid, vizes pihenőhöz a parti sétányon.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor din apropiere dacă ploaia se intensifică; marea cenușie oferă un cadru meditativ pentru o scurtă oprire pe faleză.",
+                "en": "Seek shelter under the awnings of nearby cafes if the rain intensifies; the grey sea provides a meditative backdrop for a short, wet break along the coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo dei Nebrodi Occidentali",
+                "hu": "Ecomuseo dei Nebrodi Occidentali",
+                "ro": "Ecomuseo dei Nebrodi Occidentali",
+                "en": "Ecomuseo dei Nebrodi Occidentali"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um dem Regen zu entkommen; nutzen Sie die Zeit im beheizten Innenraum, um die lokalen Ausstellungen ohne Zeitdruck zu erkunden.",
+                "hu": "Ez a tökéletes hely az eső elöli menekülésre; használja ki az időt a fűtött beltérben, és fedezze fel a helyi kiállításokat kényelmesen, száraz ruhában.",
+                "ro": "Acesta este locul perfect pentru a scăpa de ploaie; profitați de timpul petrecut în interiorul încălzit pentru a explora expozițiile locale fără grabă și la adăpost.",
+                "en": "This is the perfect spot to escape the rain; take your time in the heated interior to explore the local exhibits comfortably while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mezzolimone",
+                "hu": "Lido Mezzolimone",
+                "ro": "Lido Mezzolimone",
+                "en": "Lido Mezzolimone"
+              },
+              "tip_5lang": {
+                "de": "Ein Strandspaziergang im Regen ist sehr erfrischend, erfordert aber einen langen Regenmantel; beobachten Sie, wie die Regentropfen auf der Meeresoberfläche tanzen.",
+                "hu": "Egy esős tengerparti séta rendkívül frissítő, de hosszú esőkabátot igényel; figyelje meg, ahogy az esőcseppek táncolnak a sötét tenger felszínén a parton.",
+                "ro": "O plimbare pe plajă pe ploaie este foarte revigorantă, dar necesită o pelerină lungă; observați cum picăturile de ploaie dansează pe suprafața mării întunecate.",
+                "en": "A rainy beach walk is incredibly refreshing but requires a long raincoat; watch the raindrops dancing on the dark sea surface from the safety of the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Hafen belebt die Sinne am Morgen. Mittags bietet die Burg bei tiefstehender Sonne eine weite Fernsicht. Den Nachmittag verbringt man gemütlich im Museum. Da die Sonne gegen 17 Uhr untergeht, genießen Sie das Abendrot am Strand, bevor die nächtliche Kühle einsetzt.",
+            "hu": "A tiszta téli levegő a kikötőben felfrissíti az érzékeket reggel. Délben a vár a laposan tűző napfényben messzi kilátást kínál. A délutánt töltse kellemesen a múzeumban. Mivel a nap 17 óra körül nyugszik, élvezze az alkonyt a parton, mielőtt beállna az éjszakai hűvös.",
+            "ro": "Aerul clar de iarnă din port revigorează simțurile dimineața. La prânz, castelul oferă o priveliște îndepărtată sub soarele blând. Petreceți după-amiaza confortabil în muzeu. Deoarece soarele apune în jur de ora 17, bucurați-vă de amurg pe plajă înainte de lăsarea frigului.",
+            "en": "The crisp winter air at the harbor refreshes the senses in the morning. At noon, the castle offers far-reaching views in the low winter sun. Spend the afternoon comfortably inside the museum. Since the sun sets around 17:00, enjoy the dusk at the beach before the nightly chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina",
+                "hu": "Marina",
+                "ro": "Marina",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem Wasser; tragen Sie eine windfeste Jacke, da die Meeresbrise im Hafen auch bei Sonnenschein recht kühl sein kann.",
+                "hu": "A téli nap csodásan csillog a vízen; viseljen szélálló kabátot, mert a tengeri szellő a kikötőben még napsütésben is meglehetősen hűvös tud lenni ilyenkor.",
+                "ro": "Soarele de iarnă strălucește superb pe apă; purtați o jachetă rezistentă la vânt, deoarece briza mării în port poate fi destul de rece chiar și cu soare.",
+                "en": "The winter sun sparkles beautifully on the water; wear a windproof jacket as the sea breeze in the harbor can be quite chilly even on sunny winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Giorgio",
+                "hu": "Castello di San Giorgio",
+                "ro": "Castello di San Giorgio",
+                "en": "Castello di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht, die oft bis zu den Äolischen Inseln reicht; ziehen Sie sich warm an, da es oben auf den Burgmauern sehr windig sein kann.",
+                "hu": "Élvezze a tiszta kilátást, amely gyakran az Lipari-szigetekig is ellát; öltözzön rétegesen, mert a várfalak tetején a szél felerősítheti a hidegérzetet.",
+                "ro": "Bucurați-vă de vizibilitatea clară care ajunge adesea până la insulele Eoliene; îmbrăcați-vă gros, deoarece vântul poate fi puternic sus pe zidurile castelului.",
+                "en": "Enjoy the clear visibility that often reaches the Aeolian Islands; dress warmly as it can be very windy and cold up on the castle walls in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lampare",
+                "hu": "Lampare",
+                "ro": "Lampare",
+                "en": "Lampare"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist im Winter besonders ruhig und friedlich; ein idealer Platz für einen kurzen Spaziergang in der Sonne, um Vitamin D ohne die Sommerhitze zu tanken.",
+                "hu": "Ez a hely télen különösen csendes és békés; ideális hely egy rövid sétához a napsütésben, hogy feltöltődjön D-vitaminnal a nyári hőség és tömeg nélkül.",
+                "ro": "Acest loc este deosebit de liniștit și pașnic iarna; un spațiu ideal pentru o scurtă plimbare la soare pentru a vă reîncărca cu vitamina D fără căldură.",
+                "en": "This spot is particularly quiet and peaceful in winter; an ideal place for a short walk in the sun to soak up some vitamin D without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo dei Nebrodi Occidentali",
+                "hu": "Ecomuseo dei Nebrodi Occidentali",
+                "ro": "Ecomuseo dei Nebrodi Occidentali",
+                "en": "Ecomuseo dei Nebrodi Occidentali"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause am Nachmittag; die Ausstellungen zur Kultur der Nebrodi-Berge sind eine wunderbare Beschäftigung im Warmen.",
+                "hu": "Használja a múzeumlátogatást délutáni melegedőként; a Nebrodi-hegység kultúráját bemutató kiállítások nagyszerű és tartalmas kikapcsolódást nyújtanak a fűtött házban.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire după-amiaza; expozițiile despre cultura munților Nebrodi sunt o activitate minunată la căldură.",
+                "en": "Use the museum visit as a warming break in the afternoon; the exhibits on the culture of the Nebrodi mountains are a wonderful indoor activity in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mezzolimone",
+                "hu": "Lido Mezzolimone",
+                "ro": "Lido Mezzolimone",
+                "en": "Lido Mezzolimone"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang gegen 17 Uhr ist im Winter spektakulär farbenfroh; bringen Sie eine Thermoskanne mit einem heißen Getränk mit, um die Farben am Strand zu genießen.",
+                "hu": "A naplemente 17 óra körül télen látványosan színes; hozzon magával egy termoszt forró itallal, hogy átmelegedve élvezhesse az alkonyi fényeket a parton.",
+                "ro": "Apusul în jur de ora 17 este spectaculos de colorat iarna; aduceți un termos cu o băutură caldă pentru a vă bucura de culorile plajei fără a dârdi.",
+                "en": "The sunset around 17:00 is spectacularly colorful in winter; bring a thermos with a hot drink to enjoy the beach colors while staying warm outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját a Marinánál, élvezve a partvidék reggeli energiáját. Tekerjen el a San Giorgio kastélyhoz, mielőtt délben egy kulturális elmélyülésre az Ecomuseóba látogatna. Délután tekerjen tovább az ősi Halaesa romjaihoz, és repüljön vissza az időben. Végül fedezze fel a Halaesa Agórát, ahogy a lemenő nap aranyos árnyalatokat vet a régészeti kövekre.",
         "ro": "Începeți turul cu bicicleta la Marina, simțind energia matinală a coastei. Pedalați lin către Castelul San Giorgio înainte de a vizita Ecomuseo pentru o pauză culturală. După-amiaza, mergeți mai departe spre ruinele antice din Halaesa pentru a călători în timp. La final, explorați Agorà of Halaesa în timp ce soarele târziu aruncă nuanțe aurii peste pietrele arheologice.",
         "en": "Start your cycling tour at the Marina, feeling the morning energy of the coastline. Ride smoothly to the Castello di San Giorgio before visiting the insightful Ecomuseo for a midday cultural dive. In the afternoon, pedal further out to the ancient ruins of Halaesa to step back in time. Finally, explore the Agorà of Halaesa as the late sun casts golden hues over the archaeological stones."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Start am Hafen ist erfrischend, erfordert aber Vorsicht auf nassem Asphalt. Mittags bietet das Museum eine trockene Pause. Der Nachmittagsweg nach Halaesa verlangt Konzentration auf rutschigen Wegen. Der Tag endet früh, da die Sicht bei Regen und Dämmerung schnell abnimmt.",
+            "hu": "A reggeli indulás a kikötőből frissítő, de óvatosságot igényel a nedves aszfalton. Délben a múzeum nyújt száraz pihenőt. A délutáni túra Halaesa felé koncentrációt igényel a csúszós ösvényeken. A nap korán véget ér, mert esőben és szürkületben a látótávolság gyorsan csökken.",
+            "ro": "Pornirea de dimineață din port este revigorantă, dar necesită prudență pe asfaltul ud. La prânz, muzeul oferă o pauză uscată. Traseul de după-amiază spre Halaesa cere concentrare pe potecile alunecoase. Ziua se încheie devreme, deoarece vizibilitatea scade rapid pe ploaie.",
+            "en": "The morning start at the harbor is refreshing but requires caution on wet asphalt. At noon, the museum provides a dry break. The afternoon trek to Halaesa demands concentration on slippery paths. The day ends early as visibility drops quickly in the rain and twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina",
+                "hu": "Marina",
+                "ro": "Marina",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Regen verleiht den Docks eine dramatische Stimmung; tragen Sie wasserfeste Kleidung und prüfen Sie Ihre Bremsen gründlich, bevor Sie die Küstenfahrt starten.",
+                "hu": "Az eső drámai hangulatot kölcsönöz a kikötőnek; viseljen vízálló ruházatot, és alaposan ellenőrizze a fékeket, mielőtt elkezdené a parti kerékpározást.",
+                "ro": "Ploaia conferă docurilor o atmosferă dramatică; purtați îmbrăcăminte impermeabilă și verificați bine frânele înainte de a începe plimbarea pe coastă.",
+                "en": "Rain adds a dramatic vibe to the docks; wear waterproof gear and check your brakes thoroughly before starting your coastal ride on slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Giorgio",
+                "hu": "Castello di San Giorgio",
+                "ro": "Castello di San Giorgio",
+                "en": "Castello di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Nässe anstrengender; schalten Sie in niedrige Gänge und achten Sie auf rutschige Steine und glattes Kopfsteinpflaster in der Nähe des Eingangs.",
+                "hu": "Az emelkedő esőben megerőltetőbb; váltson alacsonyabb sebességfokozatba, és ügyeljen a csúszós kövekre és a síkos macskakövekre a bejárat közelében.",
+                "ro": "Urcarea este mai obositoare pe ploaie; folosiți viteze inferioare și aveți grijă la pietrele alunecoase și pavajul ud din apropierea intrării.",
+                "en": "The climb is more strenuous in the wet; switch to lower gears and be wary of slippery stones and slick cobblestones near the entrance of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo dei Nebrodi Occidentali",
+                "hu": "Ecomuseo dei Nebrodi Occidentali",
+                "ro": "Ecomuseo dei Nebrodi Occidentali",
+                "en": "Ecomuseo dei Nebrodi Occidentali"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer trockener Stopp; parken Sie Ihr Fahrrad sicher im geschützten Bereich und nutzen Sie die Pause, um Ihre Ausrüstung zu trocknen und die Kultur zu genießen.",
+                "hu": "Ideális száraz megálló; parkolja le kerékpárját biztonságosan a védett területen, és használja ki a szünetet a felszerelése megszárítására és a kultúra élvezetére.",
+                "ro": "O oprire uscată ideală; parcați bicicleta în siguranță într-o zonă protejată și folosiți pauza pentru a vă usca echipamentul și a vă bucura de cultură.",
+                "en": "An ideal dry stop; park your bike securely in a sheltered area and use the break to dry your gear while exploring the fascinating indoor exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Halaesa",
+                "hu": "Halaesa",
+                "ro": "Halaesa",
+                "en": "Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine werden bei Regen extrem glatt; schieben Sie Ihr Fahrrad innerhalb der Ausgrabungsstätte, um die Ruinen sicher und ohne Sturzgefahr zu erkunden.",
+                "hu": "Az ősi kövek esőben rendkívül csúszóssá válnak; tolja a kerékpárját a régészeti területen belül, hogy biztonságosan és esésveszély nélkül járja be a romokat.",
+                "ro": "Pietrele antice devin extrem de alunecoase pe ploaie; mergeți pe lângă bicicletă în situl arheologic pentru a explora ruinele în siguranță, fără riscuri.",
+                "en": "The ancient stones get extremely slick in the rain; walk your bike within the archaeological site to explore the ruins safely without risk of falling."
+              }
+            },
+            {
+              "name": {
+                "de": "Agorà of Halaesa",
+                "hu": "Agorà of Halaesa",
+                "ro": "Agorà of Halaesa",
+                "en": "Agorà of Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Nasses Wetter lässt die Farben der antiken Mosaike leuchten; bleiben Sie auf den Kieswegen, um Rutschen auf nassem Gras oder Moos am Ende der Tour zu vermeiden.",
+                "hu": "Az esős idő kiemeli az ősi mozaikok színeit; maradjon a kavicsos ösvényeken, hogy elkerülje a csúszkálást a nedves füvön vagy mohán a túra végén.",
+                "ro": "Vremea umedă scoate în evidență culorile mozaicurilor antice; rămâneți pe potecile cu pietriș pentru a evita alunecarea pe iarba udă la finalul turului.",
+                "en": "Wet weather brings out the colors of the ancient tiles; stay on the gravel paths to avoid sliding on wet grass or moss at the end of your tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenbrise erfordert mehrere Kleidungsschichten für die erste Fahrt. Die mittägliche Erkundung der Ruinen ist in der milden Wintersonne sehr angenehm. Der Nachmittag an der Agorà bietet stille Einsamkeit. Kehren Sie bis 16:30 Uhr zurück, um den schnellen Temperatursturz nach Sonnenuntergang zu vermeiden.",
+            "hu": "A hideg reggeli szellő réteges öltözködést igényel az első úthoz. A romok déli felfedezése nagyon kellemes az enyhe téli napsütésben. A délután az Agoránál csendes magányt kínál. Térjen vissza 16:30-ig, hogy elkerülje a naplemente utáni gyors hőmérséklet-csökkenést.",
+            "ro": "Briza rece de dimineață necesită straturi de haine pentru prima plimbare. Explorarea ruinelor la prânz este plăcută sub soarele blând de iarnă. După-amiaza la Agorà oferă o liniște deplină. Întoarceți-vă până la 16:30 pentru a evita scăderea bruscă a temperaturii.",
+            "en": "The cold morning breeze requires layers for the first ride. Noon exploration of the ruins is pleasant in the mild winter sun. Afternoon at the Agorà offers quiet solitude. Return by 16:30 to avoid the rapid temperature drop after the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marina",
+                "hu": "Marina",
+                "ro": "Marina",
+                "en": "Marina"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für einen malerischen Start; tragen Sie windfeste Handschuhe, um Ihre Hände bei der Fahrt entlang der Küste warm zu halten.",
+                "hu": "A tiszta téli levegő festői kezdést biztosít; viseljen szélálló kesztyűt, hogy melegen tartsa a kezét a part menti kerékpározás során a hűvös szélben.",
+                "ro": "Aerul clar de iarnă oferă un început pitoresc; purtați mănuși rezistente la vânt pentru a vă menține mâinile calde în timp ce pedalați de-a lungul coastei.",
+                "en": "The crisp winter air makes for a scenic start; wear windproof gloves to keep your hands warm while cycling along the coast in the chilly morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di San Giorgio",
+                "hu": "Castello di San Giorgio",
+                "ro": "Castello di San Giorgio",
+                "en": "Castello di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel ermöglicht fantastische Fotos; gehen Sie den Anstieg langsam an, um übermäßiges Schwitzen in der kalten Luft zu vermeiden.",
+                "hu": "A tiszta téli égbolt fantasztikus fotókat tesz lehetővé; lassan másszon fel az emelkedőn, hogy elkerülje a túlzott izzadást a hideg és friss levegőn.",
+                "ro": "Cerul senin de iarnă permite fotografii fantastice; abordați urcarea încet pentru a evita transpirația excesivă în aerul rece și revigorant.",
+                "en": "The clear winter sky allows for fantastic photos from the top; take the climb slowly to avoid sweating too much in the cold and refreshing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo dei Nebrodi Occidentali",
+                "hu": "Ecomuseo dei Nebrodi Occidentali",
+                "ro": "Ecomuseo dei Nebrodi Occidentali",
+                "en": "Ecomuseo dei Nebrodi Occidentali"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um sich drinnen aufzuwärmen; das Museum bietet eine kulturelle Pause vom kühlen Winterwind und schützt Ihre Muskeln vor dem Auskühlen.",
+                "hu": "Használja ezt a megállót a benti felmelegedéshez; a múzeum kulturális pihenőt nyújt a hűvös téli szél elől, és megvédi az izmait a lehűléstől.",
+                "ro": "Folosiți această oprire pentru a vă încălzi în interior; muzeul oferă o pauză culturală de vântul rece de iarnă, protejându-vă mușchii de frig.",
+                "en": "Use this stop to warm up indoors; the museum provides a cultural break from the chilly winter wind and prevents your muscles from getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Halaesa",
+                "hu": "Halaesa",
+                "ro": "Halaesa",
+                "en": "Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Die Stätte ist im Winter friedlich und nicht überlaufen; halten Sie Ihre Jacke geschlossen, da die Lage auf dem Hügel recht windig sein kann.",
+                "hu": "A terület télen békés és nem zsúfolt; tartsa zárva a kabátját, mert a dombtetőn fekvő helyszín meglehetősen szeles lehet ilyenkor is.",
+                "ro": "Situl este liniștit și neaglomerat iarna; păstrați jacheta închisă, deoarece locația de pe deal poate fi destul de vântoasă și răcoroasă.",
+                "en": "The site is peaceful and uncrowded in winter; keep your jacket zipped up as the hilltop location can be quite breezy and cool even in sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "Agorà of Halaesa",
+                "hu": "Agorà of Halaesa",
+                "ro": "Agorà of Halaesa",
+                "en": "Agorà of Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das goldene Licht am frühen Nachmittag ein; die tiefstehende Wintersonne hebt die antiken Strukturen vor 17 Uhr wunderschön hervor.",
+                "hu": "Kapja el az aranyórát kora délután; a laposan tűző téli nap gyönyörűen kiemeli az ősi építményeket a korai, 17 órai naplemente előtt.",
+                "ro": "Surprindeți lumina aurie la începutul după-amiezii; soarele jos de iarnă evidențiază frumos structurile antice înainte de apusul de la ora 17.",
+                "en": "Catch the golden hour light early in the afternoon; the low winter sun highlights the ancient structures beautifully before the early 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós útja a helyi örökség felfedezésével kezdődik az Ecomuseo dei Nebrodi Occidentaliban. Ezután vegye az irányt a kiterjedt Halaesa régészeti park és történelmi Agórája felé a déli napsütésben. Délután vezessen a meglepően jó állapotban fennmaradt római hídhoz. Festői autózását a tengerparti, eldugott Praja naturista Rocca Palumma strandján fejezze be teljes nyugalomban.",
         "ro": "Călătoria începe cu o incursiune în patrimoniul local la Ecomuseo dei Nebrodi Occidentali. Apoi, navigați spre vastul parc arheologic Halaesa și Agorà sa istorică, bucurându-vă de soare printre vestigiile grecești. Conduceți spre podul roman remarcabil conservat în timpul după-amiezii. Încheiați această excursie pitorească la plaja ascunsă Praja naturista Rocca Palumma de la malul mării.",
         "en": "Your drive begins with a deep dive into local heritage at the Ecomuseo dei Nebrodi Occidentali. Next, navigate towards the expansive archaeological park of Halaesa and its historic Agorà, soaking in the midday sun among ancient Greek remnants. Drive to the remarkably preserved Roman bridge in the afternoon. End your scenic road trip at the hidden Praja naturista Rocca Palumma by the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Museum, um völlig trocken zu bleiben. Die mittägliche Fahrt nach Halaesa ermöglicht es, die Landschaft zu sehen, ohne nass zu werden. Der Nachmittag am Roman Bridge ist kurz zwischen den Schauern. Eine abendliche Küstenfahrt bietet sichere Ausblicke auf die stürmische See.",
+            "hu": "Kezdjen a múzeumban, hogy teljesen száraz maradjon. A déli autózás Halaesa felé lehetővé teszi a táj megtekintését anélkül, hogy elázna. A délutáni híd látogatás legyen rövid a záporok között. Az esti parti autózás biztonságos kilátást nyújt a viharos tengerre.",
+            "ro": "Începeți la muzeu pentru a rămâne complet uscat. Drumul de la prânz spre Halaesa vă permite să vedeți peisajul fără a vă uda. Vizita la podul roman de după-amiază este scurtă între averse. Seara, o plimbare cu mașina pe coastă oferă vederi sigure spre marea agitată.",
+            "en": "Start at the museum to stay completely dry. The noon drive to Halaesa allows you to see the landscape without getting soaked. The afternoon bridge visit is quick between showers. An evening coastal drive offers safe views of the stormy sea from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomuseo dei Nebrodi Occidentali",
+                "hu": "Ecomuseo dei Nebrodi Occidentali",
+                "ro": "Ecomuseo dei Nebrodi Occidentali",
+                "en": "Ecomuseo dei Nebrodi Occidentali"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ausgangspunkt bei Regen mit bequemen Parkplätzen; genießen Sie die kulturelle Reise im Innenraum, ohne sich um das Wetter draußen sorgen zu müssen.",
+                "hu": "A legjobb esős napi kiindulópont kényelmes parkolással; élvezze a benti kulturális utazást anélkül, hogy aggódnia kellene a kinti barátságtalan időjárás miatt.",
+                "ro": "Cel mai bun punct de plecare pe ploaie, cu parcare convenabilă; bucurați-vă de călătoria culturală în interior fără a vă face griji de vremea de afară.",
+                "en": "The best rainy day starting point with convenient parking; enjoy the indoor cultural journey without worrying about the wet weather outside at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Halaesa",
+                "hu": "Halaesa",
+                "ro": "Halaesa",
+                "en": "Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die imposanten Ruinen bequem aus dem Auto, bevor Sie mit einem stabilen Schirm einen kurzen Abstecher zu den Haupttempeln machen.",
+                "hu": "Csodálja meg az impozáns romokat az autó kényelméből, mielőtt egy rövid, esernyős sétát tenne a főbb templomok és oszlopok területén az esőben.",
+                "ro": "Admirați ruinele impunătoare din confortul mașinii înainte de o scurtă incursiune cu umbrela spre zonele principale ale templelor antice.",
+                "en": "View the grand ruins from the comfort of your car before making a quick dash with a sturdy umbrella to explore the main temple areas and pillars."
+              }
+            },
+            {
+              "name": {
+                "de": "Agorà of Halaesa",
+                "hu": "Agorà of Halaesa",
+                "ro": "Agorà of Halaesa",
+                "en": "Agorà of Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Gelände lässt sich leicht überbrücken, indem man nah am Eingang parkt; halten Sie einen stabilen Schirm für den kurzen Fußweg bereit.",
+                "hu": "A nedves terep könnyen áthidalható, ha közvetlenül a bejárat közelében parkol; tartson kéznél egy erős esernyőt a rövid, de vizes gyalogút megtételéhez.",
+                "ro": "Terenul umed poate fi ușor evitat parcând aproape de intrare; țineți la îndemână o umbrelă rezistentă pentru scurta plimbare necesară explorării.",
+                "en": "The wet terrain is easily bypassed by parking close to the entrance; keep a sturdy umbrella handy for the short walk required to reach the main ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman bridge",
+                "hu": "Roman bridge",
+                "ro": "Roman bridge",
+                "en": "Roman bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss wirkt bei Regen kraftvoll; beobachten Sie das historische Mauerwerk direkt von der Straße aus dem Auto, um trocken und sicher zu bleiben.",
+                "hu": "A folyó esőben erőteljesnek tűnik; figyelje meg a történelmi falazatot közvetlenül az út szélén állva az autóból, hogy száraz és biztonságban maradjon.",
+                "ro": "Râul pare puternic pe ploaie; observați zidăria istorică direct de la marginea drumului, din mașină, pentru a rămâne uscat și în siguranță.",
+                "en": "The river looks powerful in the rain; observe the historic masonry directly from the roadside inside your car to stay dry and safe from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Praja naturista Rocca Palumma",
+                "hu": "Praja naturista Rocca Palumma",
+                "ro": "Praja naturista Rocca Palumma",
+                "en": "Praja naturista Rocca Palumma"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Brechen der Wellen an den Felsen durch das Autofenster; es ist eine sichere und dramatische Art, einen Sturm am Tyrrhenischen Meer zu erleben.",
+                "hu": "Figyelje a szikláknak csapódó hullámokat az autó ablakából; ez egy biztonságos és drámai módja a Tirrén-tengeri vihar megtapasztalásának esős időben.",
+                "ro": "Urmăriți valurile care se sparg de stânci prin fereastra mașinii; este un mod sigur și dramatic de a experimenta o furtună pe Marea Tireniană.",
+                "en": "Watch the waves crash against the rocks through your car window; it's a safe and dramatic way to experience a Tyrrhenian storm during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgendliche Wärme im Museum ist ein großartiger Start. Die mittägliche Fahrt zu den Ruinen ist unter der hellen Wintersonne malerisch. Der Nachmittag am Roman Bridge ist klar und erfrischend. Den Sonnenuntergang am Strand um 17 Uhr genießt man am besten geschützt im Auto.",
+            "hu": "A múzeumi meleg nagyszerű kezdés a hűvös reggelen. A déli autózás a romokhoz festői a ragyogó téli napsütésben. A délutáni híd látogatás tiszta és frissítő. A 17 órai naplementét a parton a legjobb az autó oltalmából élvezni.",
+            "ro": "Căldura muzeului este un început excelent într-o dimineață răcoroasă. Drumul de la prânz spre ruine este pitoresc sub soarele strălucitor de iarnă. Vizita la pod de după-amiază este clară și revigorantă. Apusul de la ora 17 este cel mai bine admirat din mașină.",
+            "en": "Morning warmth in the museum is a great start to a chilly day. The noon drive to the ruins is scenic under the bright winter sun. The afternoon bridge visit is crisp and clear. The 17:00 sunset at the beach is best enjoyed from the cozy shelter of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomuseo dei Nebrodi Occidentali",
+                "hu": "Ecomuseo dei Nebrodi Occidentali",
+                "ro": "Ecomuseo dei Nebrodi Occidentali",
+                "en": "Ecomuseo dei Nebrodi Occidentali"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer und einladender Ort für den Beginn Ihrer Wintertour; die Innenexponate sind gut beleuchtet und in den kälteren Monaten sehr komfortabel.",
+                "hu": "Meleg és hívogató hely a téli túra megkezdéséhez; a beltéri kiállítások jól megvilágítottak és nagyon kényelmesek a hidegebb hónapokban is.",
+                "ro": "Un spațiu cald și primitor pentru a începe turul de iarnă; expozițiile interioare sunt bine iluminate și confortabile în lunile reci.",
+                "en": "A warm and inviting space to start your winter tour; the indoor exhibits are well-lit and very comfortable during the colder winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Halaesa",
+                "hu": "Halaesa",
+                "ro": "Halaesa",
+                "en": "Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist perfekt, um die ferne Küstenlinie zu sehen; die Stätte auf dem Hügel ist bei jedem Wetter bequem mit dem Auto erreichbar.",
+                "hu": "A tiszta téli fény tökéletes a távoli tengerpart megtekintéséhez; a dombtetőn lévő helyszín bármilyen időjárás esetén könnyen megközelíthető autóval.",
+                "ro": "Lumina clară de iarnă este perfectă pentru a vedea linia îndepărtată a coastei; situl de pe deal este ușor accesibil cu mașina în orice condiții.",
+                "en": "The clear winter light is perfect for seeing the distant coastline; the hilltop site is easily accessible by car in any weather during the low season."
+              }
+            },
+            {
+              "name": {
+                "de": "Agorà of Halaesa",
+                "hu": "Agorà of Halaesa",
+                "ro": "Agorà of Halaesa",
+                "en": "Agorà of Halaesa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die antike Geschichte ohne die Sommerhitze; der kurze Weg vom Auto ist in der kühlen Winterluft am Nachmittag sehr erfrischend.",
+                "hu": "Élvezze az ókori történelmet a nyári hőség nélkül; a rövid séta az autótól rendkívül frissítő a kora délutáni hűvös, téli levegőben.",
+                "ro": "Bucurați-vă de istoria antică fără căldura verii; scurta plimbare de la mașină este revigorantă în aerul rece de după-amiază.",
+                "en": "Enjoy the ancient history without the summer heat; the short walk from the car is refreshing in the cool winter afternoon air before the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman bridge",
+                "hu": "Roman bridge",
+                "ro": "Roman bridge",
+                "en": "Roman bridge"
+              },
+              "tip_5lang": {
+                "de": "Die umliegende Natur ist im Winter ruhig; es ist ein kurzer und malerischer Stopp, der nur wenig Zeit im Freien bei kühlen Temperaturen erfordert.",
+                "hu": "A környező természet télen csendes és nyugodt; ez egy rövid és festői megálló, amely csak minimális időt igényel a szabadban, a hűvös levegőn.",
+                "ro": "Natura din jur este liniștită iarna; este o oprire scurtă și pitorească, care necesită un timp minim petrecut afară, în aerul rece.",
+                "en": "The surrounding nature is dormant and quiet in winter; it is a quick and scenic stop that requires minimal time outside in the cold temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Praja naturista Rocca Palumma",
+                "hu": "Praja naturista Rocca Palumma",
+                "ro": "Praja naturista Rocca Palumma",
+                "en": "Praja naturista Rocca Palumma"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer für einen spektakulären Sonnenuntergang um 17 Uhr; bleiben Sie warm im Auto, während der Himmel in leuchtendem Orange erstrahlt.",
+                "hu": "Parkoljon a tengerre néző kilátással a látványos 17 órai naplementéhez; maradjon melegben az autóban, miközben az ég ragyogó narancssárgára vált.",
+                "ro": "Parcați cu fața spre mare pentru un apus spectaculos la ora 17; rămâneți la căldură în mașină în timp ce cerul capătă nuanțe strălucitoare de portocaliu.",
+                "en": "Park facing the sea for a spectacular 17:00 sunset; stay warm inside the car while the sky turns brilliant shades of orange over the Tyrrhenian Sea."
+              }
+            }
+          ]
+        }
       }
     }
   }

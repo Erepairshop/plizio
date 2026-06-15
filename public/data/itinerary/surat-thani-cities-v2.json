@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a nyüzsgő Városi Oszlopszentélynél, magába szívva Surat Thani spirituális lüktetését, majd sétáljon át a békés Wat Dai Dhammaramhoz. A dél már a folyóparton éri, ahol a Hídhoz vezető kilátópont fantasztikus panorámaképeket kínál a Tapee folyóról. Délután tartson egy csendes pihenőt a Tapee folyó kilátójánál, figyelve a hagyományos csónakokat a vízen. Gyalogos túráját a történelmi Wat Sai és a kulturálisan gazdag Wat Klang felfedezésével zárhatja, miközben az esti fények lassan megvilágítják a várost.",
         "ro": "Începeți dimineața la vibrantul Altar Principal, absorbind bătăile inimii spirituale ale orașului, înainte de o scurtă plimbare la Wat Dai Dhammaram. Amiaza vă aduce pe malul râului, unde punctul de belvedere spre pod oferă imagini panoramice fantastice ale râului Tapee. După-amiaza, bucurați-vă de o pauză liniștită la Punctul de Belvedere Tapee, privind bărcile tradiționale care alunecă grațios pe apă. Încheiați turul pietonal explorând istoria de la Wat Sai și bogăția culturală a Wat Klang, pe măsură ce luminile serii luminează străzile.",
         "en": "Start your morning at the vibrant City Pillar Shrine, absorbing the spiritual heartbeat of Surat Thani before taking a short walk to the serene Wat Dai Dhammaram. Midday brings you to the riverside, where the Viewpoint to the Bridge offers fantastic panoramic shots of the flowing Tapee River. In the afternoon, enjoy a quiet break at the Tapee River Viewpoint, watching traditional boats glide gracefully against the current. Conclude your walking tour by exploring the historical Wat Sai and the culturally rich Wat Klang as the evening lights begin to illuminate the bustling streets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Schrein, wo das Dach Schutz vor den Güssen bietet. Mittags führen schlüpfrige Pfade zu den Tempeln; Vorsicht ist geboten. Am Nachmittag wirkt der Fluss im Regen mystisch, während Sie unter Vordächern verweilen. Der Abend endet früh, da die Nässe zunimmt; suchen Sie sich ein trockenes Plätzchen in der Nähe von Wat Klang, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "Kezdje a reggelt a szentélynél, ahol a tető védelmet nyújt a záporok elől. Délben a csúszós ösvények óvatosságot igényelnek a templomok között. Délután a folyó látványa misztikus a ködben, miközben az eresz alatt várakozik. Az este korán véget ér a fokozódó eső miatt; keressen egy száraz helyet a Wat Klang közelében, és élvezze a város csendesebb, vizes arcát.",
+            "ro": "Începeți dimineața la altar, unde acoperișul oferă adăpost împotriva ploii. La prânz, potecile alunecoase dintre temple necesită prudență maximă. După-amiaza, râul pare mistic prin perdeaua de apă, în timp ce stați sub streșini. Seara se încheie devreme din cauza umezelii; găsiți un loc uscat lângă Wat Klang pentru a vă odihni după o zi umedă dar plină de farmec local.",
+            "en": "Start your morning at the shrine, where the roof provides shelter from the downpours. At noon, slippery paths between temples demand caution while exploring. In the afternoon, the river looks mystical through the mist as you linger under awnings. The evening ends early as the rain intensifies; find a dry spot near Wat Klang to relax and enjoy the city's moody, rain-washed atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "City Pillar Schrein",
+                "hu": "Városi Oszlopszentély",
+                "ro": "Altarul Principal al Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Schrein bietet hervorragenden Schutz vor Güssen. Achten Sie auf die Marmorstufen im Eingangsbereich, die bei Nässe extrem glatt werden.",
+                "hu": "A fehér szentély kiváló védelmet nyújt a záporok ellen. Ügyeljen a bejárati márványlépcsőkre, amelyek nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Altarul alb oferă un adăpost excelent împotriva ploii. Atenție la treptele de marmură de la intrare, care devin extrem de alunecoase când sunt ude.",
+                "en": "The white shrine offers excellent shelter from downpours. Watch out for the marble steps at the entrance, which become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Dai Dhammaram",
+                "hu": "Wat Dai Dhammaram",
+                "ro": "Wat Dai Dhammaram",
+                "en": "Wat Dai Dhammaram"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die verzierten Innenräume, um im Trockenen die Kunst zu bewundern. Seien Sie vorsichtig auf den nassen Fliesen im Innenhof zwischen den Gebäuden.",
+                "hu": "Használja ki a díszes belső tereket, hogy szárazon csodálhassa meg a művészetet. Legyen óvatos az épületek közötti udvar nedves csempéin.",
+                "ro": "Profitați de interioarele decorate pentru a admira arta la adăpost. Fiți atenți pe plăcile ude din curtea dintre clădiri.",
+                "en": "Take advantage of the ornate interiors to admire the art while staying dry. Be careful on the wet tiles in the courtyard between the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt zur Brücke",
+                "hu": "Híd kilátópont",
+                "ro": "Punct de belvedere spre pod",
+                "en": "Viewpoint to Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der überdachte Pavillon bietet einen tollen Blick auf die Brücke ohne Regen. Lehnen Sie sich nicht an die Metallgeländer, da diese kalt und nass sein können.",
+                "hu": "A fedett pavilon remek kilátást nyújt a hídra eső nélkül. Ne támaszkodjon a fémkorlátoknak, mert hidegek és nedvesek lehetnek.",
+                "ro": "Pavilionul acoperit oferă o vedere excelentă spre pod fără ploaie. Nu vă sprijiniți de balustradele metalice, deoarece pot fi reci și ude.",
+                "en": "The covered pavilion offers a great view of the bridge without the rain. Don't lean on the metal railings as they can be cold and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tapee River Aussichtspunkt",
+                "hu": "Tapee folyó kilátó",
+                "ro": "Punct de belvedere pe râul Tapee",
+                "en": "Tapee River Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Fluss unter schützenden Bäumen oder Unterständen. Halten Sie Ihren Regenschirm für den kurzen Weg zum Ufer bereit.",
+                "hu": "Figyelje a folyón kopogó esőt a védelmező fák vagy menedékek alól. Tartsa készenlétben az esernyőjét a partig tartó rövid sétához.",
+                "ro": "Urmăriți ploaia pe râu de sub copacii protectori sau adăposturi. Aveți umbrela pregătită pentru scurta plimbare până la mal.",
+                "en": "Watch the rain on the river from under protective trees or shelters. Keep your umbrella ready for the short walk to the riverbank."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sai",
+                "hu": "Wat Sai",
+                "ro": "Wat Sai",
+                "en": "Wat Sai"
+              },
+              "tip_5lang": {
+                "de": "Die antike Holzarchitektur wirkt bei Nieselregen besonders gemütlich. Vermeiden Sie das Gras, da der Boden hier sehr schlammig und instabil werden kann.",
+                "hu": "Az ősi faépítészet különösen hangulatos szitáló esőben. Kerülje a füvet, mert a talaj itt nagyon sáros és ingoványos lehet.",
+                "ro": "Arhitectura veche din lemn pare deosebit de primitoare pe timp de burniță. Evitați iarba, deoarece solul poate deveni foarte noroios și instabil.",
+                "en": "The ancient wooden architecture feels especially cozy during a drizzle. Avoid the grass as the ground here can become very muddy and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Klang",
+                "hu": "Wat Klang",
+                "ro": "Wat Klang",
+                "en": "Wat Klang"
+              },
+              "tip_5lang": {
+                "de": "Die geräumigen Hallen sind perfekt für einen letzten trockenen Besuch. Nutzen Sie die Matten im Eingangsbereich, um Ihre Füße zu trocknen und Rutschen zu vermeiden.",
+                "hu": "A tágas csarnokok tökéletesek egy utolsó száraz látogatáshoz. Használja a bejárati szőnyegeket a lába szárításához és a csúszás elkerüléséhez.",
+                "ro": "Halele spațioase sunt perfecte pentru o ultimă vizită la uscat. Folosiți covorașele de la intrare pentru a vă usca picioarele și a evita alunecarea.",
+                "en": "The spacious halls are perfect for a final dry visit. Use the entrance mats to dry your feet and prevent slipping on the floors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen am Schrein ist erfrischend; eine leichte Jacke ist ratsam. Mittags genießen Sie die milde Sonne beim Tempelhopping ohne die Hitze. Der Nachmittag am Flussufer ist windig und belebend, perfekt für Fotos. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Abend früh in einem gemütlichen Café ausklingen lassen.",
+            "hu": "A hűvös reggel a szentélynél frissítő; egy könnyű dzseki ajánlott. Délben élvezze az enyhe napsütést a templomok látogatása közben, a nagy hőség nélkül. A délután a folyóparton szeles és élénkítő, kiváló a fotózáshoz. Mivel a nap már 17:00 körül lemegy, az estét töltse egy barátságos kávézóban a városban.",
+            "ro": "Dimineața răcoroasă la altar este revigorantă; se recomandă o jachetă ușoară. La prânz, bucurați-vă de soarele blând în timp ce vizitați templele fără căldura excesivă. După-amiaza pe malul râului este vântoasă și revigorantă, perfectă pentru fotografii. Deoarece soarele apune deja în jurul orei 17:00, încheiați seara devreme într-o cafenea caldă.",
+            "en": "The cool morning at the shrine is refreshing; a light jacket is recommended. At noon, enjoy the mild sun while hopping between temples without the usual heat. The afternoon by the river is breezy and invigorating, perfect for photography. As the sun sets around 17:00, finish your evening early in a cozy café before it turns too chilly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "City Pillar Schrein",
+                "hu": "Városi Oszlopszentély",
+                "ro": "Altarul Principal al Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft ist hier frisch, was den weißen Bau noch schärfer wirken lässt. Tragen Sie eine leichte Schicht gegen den kühlen Winterwind.",
+                "hu": "A reggeli levegő itt friss, amitől a fehér épület még élesebbnek tűnik. Viseljen egy könnyű réteget a hűvös téli szél ellen.",
+                "ro": "Aerul dimineții este proaspăt aici, făcând structura albă să pară și mai clară. Purtați un strat ușor împotriva vântului rece de iarnă.",
+                "en": "The morning air is fresh here, making the white building look even sharper. Wear a light layer against the cool winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Dai Dhammaram",
+                "hu": "Wat Dai Dhammaram",
+                "ro": "Wat Dai Dhammaram",
+                "en": "Wat Dai Dhammaram"
+              },
+              "tip_5lang": {
+                "de": "Die goldenen Details glänzen wunderschön in der tiefstehenden Wintersonne. Dies ist die beste Zeit für Fotos ohne harte Sommerschatten.",
+                "hu": "Az arany részletek gyönyörűen csillognak az alacsonyan járó téli napsütésben. Ez a legjobb időszak a fotózáshoz az erős árnyékok nélkül.",
+                "ro": "Detaliile aurii strălucesc frumos în soarele de iarnă de joasă altitudine. Este cel mai bun moment pentru fotografii fără umbre aspre.",
+                "en": "The golden details glint beautifully in the low winter sun. This is the best time for photography without the harsh summer shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt zur Brücke",
+                "hu": "Híd kilátópont",
+                "ro": "Punct de belvedere spre pod",
+                "en": "Viewpoint to Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Flussbrise kann im Winter recht kühl sein; halten Sie Ihre Jacke für den Ausblick geschlossen. Der klare Himmel bietet eine tolle Fernsicht.",
+                "hu": "A folyóparti szél télen elég hűvös lehet; tartsa zárva a dzsekijét a kilátás közben. A tiszta égbolt remek távoli láthatóságot biztosít.",
+                "ro": "Briza râului poate fi destul de rece iarna; păstrați jacheta închisă în timp ce admirați vederea. Cerul senin oferă o vizibilitate excelentă.",
+                "en": "The river breeze can be quite cool in winter; keep your jacket zipped up while enjoying the view. The clear skies offer great long-distance visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Tapee River Aussichtspunkt",
+                "hu": "Tapee folyó kilátó",
+                "ro": "Punct de belvedere pe râul Tapee",
+                "en": "Tapee River Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die goldene Stunde früh, da die Sonne am späten Nachmittag untergeht. Die kühle Luft macht diesen Ort viel angenehmer als im Sommer.",
+                "hu": "Használja ki korán az arany órát, mivel a nap késő délután már lemegy. A hűvös levegő sokkal kellemesebbé teszi ezt a helyet, mint nyáron.",
+                "ro": "Profitați devreme de ora de aur, deoarece soarele apune spre sfârșitul după-amiezii. Aerul răcoros face acest loc mult mai plăcut decât vara.",
+                "en": "Catch the golden hour early as the sun sets by late afternoon. The cool air makes this spot much more pleasant than during the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sai",
+                "hu": "Wat Sai",
+                "ro": "Wat Sai",
+                "en": "Wat Sai"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Holzoberflächen wirken im milden Winterlicht warm und einladend. Dieser ruhige Ort ist ideal für eine friedliche Pause abseits des Windes.",
+                "hu": "A történelmi fafelületek melegnek és hívogatónak tűnnek az enyhe téli fényben. Ez a csendes hely ideális egy békés pihenőre a széltől védve.",
+                "ro": "Suprafețele istorice din lemn par calde și primitoare în lumina blândă de iarnă. Acest loc liniștit este ideal pentru o pauză departe de vânt.",
+                "en": "The historical wooden surfaces feel warm and inviting in the mild winter light. This quiet spot is ideal for a peaceful break away from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Klang",
+                "hu": "Wat Klang",
+                "ro": "Wat Klang",
+                "en": "Wat Klang"
+              },
+              "tip_5lang": {
+                "de": "Wenn es gegen 17:00 Uhr dunkel wird, erstrahlen die Lichter des Tempels wunderschön. Das Innere bietet einen warmen Rückzugsort vor der Kühle.",
+                "hu": "Amikor 17:00 körül besötétedik, a templom fényei gyönyörűen felgyúlnak. A belső tér meleg menedéket nyújt a kinti hűvös levegő elől.",
+                "ro": "Când se întunecă în jurul orei 17:00, luminile templului strălucesc frumos. Interiorul oferă un refugiu cald împotriva aerului rece de afară.",
+                "en": "As it gets dark around 17:00, the temple lights shine beautifully. The interior provides a warm escape from the outdoor cool air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros kalandját a Ko Lamphu Park buja oázisában, élvezve a friss reggeli levegőt ezen a békés, autómentes folyami szigeten. Délben tekerjen a Wat Phothawat és a Városi Oszlopszentély felé, felfedezve a város szívének történelmi és spirituális vonalát. A délután folyamán a bonyolult tervezésű Wat Thamma Bucha és a Wat Phathanaram látogatásai következnek, nyugodt teret biztosítva a pihenéshez. Kerékpáros napját a lenyűgöző Szent Rafael katedrálisnál fejezheti be, megcsodálva annak egyedi építészetét a késő délutáni napsütésben.",
         "ro": "Începeți aventura pe bicicletă în oaza luxuriantă a parcului Ko Lamphu, bucurându-vă de aerul proaspăt al dimineții pe această insulă liniștită. Până la prânz, pedalați spre Wat Phothawat și Altarul Principal, urmărind linia istorică și spirituală a inimii orașului. După-amiaza se desfășoară cu vizite la Wat Thamma Bucha și Wat Phathanaram, locuri ce oferă spații liniștite pentru reflecție. Încheiați ziua de ciclism la uimitoarea Catedrală Sf. Rafael, admirând arhitectura sa unică pe măsură ce soarele de după-amiază aruncă umbre lungi.",
         "en": "Kick off your cycling adventure in the lush oasis of Ko Lamphu Park, enjoying the crisp morning air on this peaceful, car-free river island. By midday, pedal towards Wat Phothawat and the City Pillar Shrine, tracing the historical and spiritual lineage of the city’s heart. Your afternoon unfolds with visits to the intricately designed Wat Thamma Bucha and Wat Phathanaram, offering quiet spaces for reflection amid your active ride. Finish your cycling day at the stunning St. Raphael cathedral, taking in its unique architecture as the late afternoon sun casts long, beautiful shadows."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens durch den Park, aber achten Sie auf Pfützen. Mittags bieten die Tempel Schutz für Sie und Ihr Rad. Nachmittags erfordert der Verkehr auf nasser Fahrbahn erhöhte Vorsicht. Der Abend endet bei der Kathedrale, wo Sie im Trockenen die beeindruckende Architektur bewundern können, während der Regen draußen nachlässt.",
+            "hu": "Régel tekerjen át a parkon, de ügyeljen a tócsákra és a sárra. Délben a templomok védelmet nyújtanak Önnek és a kerékpárjának is. Délután a forgalom a vizes utakon fokozott óvatosságot igényel. Az este a katedrálisnál zárul, ahol szárazon csodálhatja meg az építészetet, miközben kint csendesedik az eső.",
+            "ro": "Mergeți cu bicicleta prin parc dimineața, dar fiți atenți la bălți. La prânz, templele oferă adăpost pentru dumneavoastră și bicicletă. După-amiaza, traficul pe carosabilul umed necesită prudență sporită. Seara se încheie la catedrală, unde puteți admira arhitectura la uscat în timp ce ploaia se oprește.",
+            "en": "Cycle through the park in the morning, but watch out for puddles and mud. At noon, the temples provide shelter for both you and your bike. In the afternoon, traffic on wet roads demands increased caution. The evening ends at the cathedral, where you can admire the architecture while staying dry as the rain tapers off."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ko Lamphu Park",
+                "hu": "Ko Lamphu Park",
+                "ro": "Parcul Ko Lamphu",
+                "en": "Ko Lamphu Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können nach dem Regen schlammig sein. Fahren Sie langsam, um Spritzer zu vermeiden, und seien Sie vorsichtig auf nassen Holzbrücken.",
+                "hu": "Az utak sárosak lehetnek eső után. Tekerjen lassan, hogy elkerülje a felverődést, és legyen óvatos a nedves fahidakkal.",
+                "ro": "Potecile pot fi noroioase după ploaie. Mergeți încet pentru a evita stropirea și fiți atenți pe podurile de lemn umede.",
+                "en": "The paths can be muddy after rain. Ride slowly to avoid splashing and be cautious on wet wooden bridges."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phothawat",
+                "hu": "Wat Phothawat",
+                "ro": "Wat Phothawat",
+                "en": "Wat Phothawat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Wege des Tempels bei Schauern. Stellen Sie Ihr Rad an einem geschützten Ort ab, um den Sattel für die nächste Etappe trocken zu halten.",
+                "hu": "Használja a templom fedett útjait zápor idején. Parkolja le kerékpárját védett helyen, hogy a nyereg száraz maradjon a következő szakaszra.",
+                "ro": "Folosiți căile acoperite ale templului în timpul ploii. Parcați bicicleta într-un loc protejat pentru a păstra șaua uscată pentru următoarea etapă.",
+                "en": "Use the temple's covered walkways during showers. Park your bike in a sheltered spot to keep the seat dry for the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "City Pillar Schrein",
+                "hu": "Városi Oszlopszentély",
+                "ro": "Altarul Principal al Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen in der Nähe der Rinnen. Das Dach des Schreins ist ein großartiger Ort, um einen heftigen Regenschauer abzuwarten.",
+                "hu": "Ügyeljen a csúszós részekre a csatornák közelében. A szentély teteje remek hely egy heves zápor kivárására.",
+                "ro": "Fiți atenți la locurile alunecoase de lângă rigole. Acoperișul altarului este un loc excelent pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Watch out for slippery spots near the gutters. The shrine's roof is a great place to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thamma Bucha",
+                "hu": "Wat Thamma Bucha",
+                "ro": "Wat Thamma Bucha",
+                "en": "Wat Thamma Bucha"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die großen Hallen zum Trocknen, während Sie die Buddha-Bilder betrachten. Stellen Sie Ihr Rad auf festem, nicht schlammigem Boden ab.",
+                "hu": "Használja a nagy csarnokokat a megszáradáshoz, miközben a Buddha-szobrokat nézi. Állítsa kerékpárját szilárd, nem sáros talajra.",
+                "ro": "Folosiți halele mari pentru a vă usca în timp ce vedeți statuile lui Buddha. Parcați bicicleta pe un teren ferm, nu noroios.",
+                "en": "Use the large halls to dry off while viewing the Buddha images. Ensure your bike is parked on firm, non-muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phathanaram",
+                "hu": "Wat Phathanaram",
+                "ro": "Wat Phathanaram",
+                "en": "Wat Phathanaram"
+              },
+              "tip_5lang": {
+                "de": "Das Tempelgelände ist im Regen schön, aber die Steinpfade sind tückisch. Schieben Sie Ihr Rad durch den Hof, um nicht auf dem nassen Boden auszurutschen.",
+                "hu": "A templomkert szép az esőben, de a kőösvények csalókák. Tolja a kerékpárját az udvaron, hogy ne csússzon meg a nedves talajon.",
+                "ro": "Curtea templului este frumoasă în ploaie, dar potecile din piatră sunt înșelătoare. Mergeți pe lângă bicicletă în curte pentru a nu aluneca pe solul ud.",
+                "en": "The temple grounds are beautiful in the rain, but the stone paths are tricky. Walk your bike through the courtyard to avoid slipping on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Raphael Kathedrale",
+                "hu": "Szent Rafael Katedrális",
+                "ro": "Catedrala Sf. Rafael",
+                "en": "St. Raphael Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die große Kirche bietet einen friedlichen und trockenen Abschluss. Wischen Sie Ihren Sattel vor der Rückfahrt ab, um nicht abzurutschen.",
+                "hu": "A nagy templom békés és száraz lezárást nyújt. Törölje le a nyergét a visszaindulás előtt, hogy elkerülje a megcsúszást.",
+                "ro": "Biserica mare oferă un final liniștit și uscat. Ștergeți șaua înainte de drumul de întoarcere pentru a evita alunecarea.",
+                "en": "The large church provides a peaceful and dry conclusion. Wipe down your seat before the ride back to prevent slipping or getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen im Park ist perfekt zum Radeln; tragen Sie eine Windjacke. Mittags ist das Wetter ideal für Besichtigungen ohne Schweiß. Der Nachmittag am Fluss bringt eine frische Brise, die beim Fahren kühl wirken kann. Da es früh dunkel wird, endet die Tour bei der beleuchteten Kathedrale in einer gemütlichen Atmosphäre.",
+            "hu": "A hűvös reggel a parkban tökéletes a biciklizéshez; viseljen szélkabátot. Délben az időjárás ideális a városnézéshez izzadás nélkül. A délutáni folyóparti tekerés közben a friss szél hűvös lehet. Mivel korán sötétedik, a túra a kivilágított katedrálisnál zárul, meghitt hangulatban.",
+            "ro": "O dimineață răcoroasă în parc este perfectă pentru bicicletă; purtați o jachetă de vânt. La prânz, vremea este ideală pentru vizite fără transpirație. După-amiaza pe malul râului aduce o briză proaspătă care poate fi rece la mers. Deoarece se întunecă devreme, turul se încheie la catedrala iluminată.",
+            "en": "A cool morning in the park is perfect for cycling; wear a windbreaker. At noon, the weather is ideal for sightseeing without the sweat. The afternoon river breeze can feel chilly while riding. Since it gets dark early, the tour ends at the illuminated cathedral in a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ko Lamphu Park",
+                "hu": "Ko Lamphu Park",
+                "ro": "Parcul Ko Lamphu",
+                "en": "Ko Lamphu Park"
+              },
+              "tip_5lang": {
+                "de": "Die offenen Wege des Parks sind im Winter windig. Tragen Sie Schichten, um bei der Fahrt gegen den kühlen Morgenwind geschützt zu sein.",
+                "hu": "A park nyitott útjai télen szelesek. Öltözzön rétegesen, hogy védve legyen a hűvös reggeli szél ellen tekerés közben.",
+                "ro": "Potecile deschise ale parcului sunt vântoase iarna. Purtați straturi pentru a fi protejați de vântul rece al dimineții în timpul mersului.",
+                "en": "The open paths of the park are windy in winter. Wear layers to stay protected against the cool morning breeze while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phothawat",
+                "hu": "Wat Phothawat",
+                "ro": "Wat Phothawat",
+                "en": "Wat Phothawat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Tempelatmosphäre in der milden Wintersonne. Die kühle Luft macht die Erkundung der Außenanlagen sehr angenehm.",
+                "hu": "Élvezze a csendes templomi hangulatot az enyhe téli napsütésben. A hűvös levegő nagyon kellemessé teszi a külső területek felfedezését.",
+                "ro": "Bucurați-vă de atmosfera liniștită a templului în soarele blând de iarnă. Aerul răcoros face explorarea zonelor exterioare foarte plăcută.",
+                "en": "Enjoy the quiet temple atmosphere in the mild winter sun. The cool air makes exploring the outdoor grounds very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "City Pillar Schrein",
+                "hu": "Városi Oszlopszentély",
+                "ro": "Altarul Principal al Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Das helle Weiß des Schreins strahlt in der klaren Winterluft. Ein toller Ort für Fotos, bevor die Sonne am späten Nachmittag tiefer sinkt.",
+                "hu": "A szentély ragyogó fehérsége tündököl a tiszta téli levegőben. Remek hely a fotózáshoz, mielőtt a nap késő délután alacsonyabbra süllyed.",
+                "ro": "Albul strălucitor al altarului radiază în aerul curat de iarnă. Un loc minunat pentru fotografii înainte ca soarele să apună spre seară.",
+                "en": "The brilliant white of the shrine radiates in the clear winter air. A great spot for photos before the sun dips lower in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Thamma Bucha",
+                "hu": "Wat Thamma Bucha",
+                "ro": "Wat Thamma Bucha",
+                "en": "Wat Thamma Bucha"
+              },
+              "tip_5lang": {
+                "de": "Die großen Innenräume fühlen sich im Winter gemütlich an. Nutzen Sie die Pause vom Radfahren, um sich im Windschatten des Tempels aufzuwärmen.",
+                "hu": "A nagy belső terek télen barátságosak. Használja ki a biciklizés szünetét, hogy felmelegedjen a templom szélárnyékában.",
+                "ro": "Interioarele mari par primitoare iarna. Profitați de pauza de bicicletă pentru a vă încălzi la adăpostul vântului oferit de templu.",
+                "en": "The large interiors feel cozy in winter. Take a break from cycling to warm up in the wind-shielded areas of the temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phathanaram",
+                "hu": "Wat Phathanaram",
+                "ro": "Wat Phathanaram",
+                "en": "Wat Phathanaram"
+              },
+              "tip_5lang": {
+                "de": "Das sanfte Licht betont die architektonischen Details des Tempels. Der kühle Boden im Hof ist ohne die Sommerhitze angenehmer zu begehen.",
+                "hu": "A lágy fény kiemeli a templom építészeti részleteit. Az udvar hűvös talaján a nyári hőség nélkül sokkal kellemesebb a séta.",
+                "ro": "Lumina blândă subliniază detaliile arhitecturale ale templului. Solul răcoros din curte este mai plăcut de parcurs fără căldura verii.",
+                "en": "The soft light emphasizes the temple's architectural details. The cool ground in the courtyard is much more pleasant to walk on without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Raphael Kathedrale",
+                "hu": "Szent Rafael Katedrális",
+                "ro": "Catedrala Sf. Rafael",
+                "en": "St. Raphael Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour, wenn die Abenddämmerung gegen 17:00 Uhr einsetzt. Die Kathedrale wirkt im warmen Abendlicht besonders einladend.",
+                "hu": "Zárja a túrát, amikor 17:00 körül elkezdődik az alkonyat. A katedrális a meleg esti fényekben különösen hívogatónak tűnik.",
+                "ro": "Încheiați turul când amurgul începe în jurul orei 17:00. Catedrala pare deosebit de primitoare în lumina caldă a serii.",
+                "en": "Finish your tour as dusk sets in around 17:00. The cathedral looks particularly inviting in the warm evening lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túráját a csodálatos Szent Rafael katedrálisnál kezdje, elkerülve a tömeget, hogy teljes mértékben értékelni tudja folyóparti szépségét. A déli órákban vezessen a Wat Phathanaram és a Wat Klang felé, időt szakítva lenyűgöző építészeti elemeik és kulturális jelentőségük megcsodálására. A délután folyamán álljon meg a Tapee folyó kilátójánál és az ikonikus Városi Oszlopszentélynél, összekötve a természetes vízi utakat a város történetével. Útvonala a Wat Phothawatnál ér véget, mielőtt átkelne a Ko Lamphu Parkba egy kellemes esti sétára.",
         "ro": "Începeți turul cu mașina la magnifica Catedrală Sf. Rafael, evitând aglomerația pentru a aprecia pe deplin frumusețea sa pe malul râului. Conduceți lin în orele amiezii vizitând Wat Phathanaram și Wat Klang, admirând elementele lor arhitecturale și semnificația culturală. Pe măsură ce după-amiaza progresează, opriți-vă la Punctul de Belvedere Tapee și la Altarul Principal, conectând căile navigabile naturale cu istoria orașului. Traseul se încheie cu o vizită la Wat Phothawat, înainte de a trece spre Parcul Ko Lamphu pentru o seară de relaxare.",
         "en": "Start your driving tour at the magnificent St. Raphael cathedral, beating the crowds to fully appreciate its riverside beauty and tranquil atmosphere. Drive smoothly into the midday hours by visiting Wat Phathanaram and Wat Klang, taking time to admire their striking architectural elements and cultural significance. As the afternoon progresses, stop by the Tapee River Viewpoint and the iconic City Pillar Shrine, connecting the natural waterways with the city's foundational history. Your route concludes with a visit to Wat Phothawat before crossing over to Ko Lamphu Park for a wonderfully relaxing evening stroll."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken bei der Kathedrale und genießen Sie den Komfort Ihres Wagens. Mittags ermöglichen kurze Wege zwischen den Tempeln Besichtigungen ohne Nässe. Nachmittags bietet die Fahrt am Flussufer tolle Ausblicke auf den Regen über dem Wasser. Der Abend im Park lässt sich gemütlich ausklingen, während Sie geschützt die grüne Kulisse genießen.",
+            "hu": "Kezdje szárazon a katedrálisnál, élvezve az autója kényelmét. Délben a templomok közötti rövid utak lehetővé teszik a látogatást elázás nélkül. Délután a folyóparti autózás remek kilátást nyújt a víz feletti esőre. Az este a parkban kellemesen zárul, miközben védett helyről élvezheti a zöld környezetet.",
+            "ro": "Începeți la uscat la catedrală, bucurându-vă de confortul mașinii. La prânz, drumurile scurte între temple permit vizite fără a vă uda. După-amiaza, plimbarea pe malul râului oferă vederi excelente spre ploaia de peste apă. Seara în parc se încheie plăcut, admirând peisajul verde de la adăpost.",
+            "en": "Start dry at the cathedral, enjoying the comfort of your car. At noon, short drives between temples allow for sightseeing without getting wet. In the afternoon, the drive along the river offers great views of the rain over the water. The evening in the park ends pleasantly as you enjoy the greenery from a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Raphael Kathedrale",
+                "hu": "Szent Rafael Katedrális",
+                "ro": "Catedrala Sf. Rafael",
+                "en": "St. Raphael Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Der Portikus der Kathedrale ermöglicht ein trockenes Aussteigen. Bewundern Sie die Glasfenster, die bei grauem Himmel besonders leuchten.",
+                "hu": "A katedrális bejárati csarnoka lehetővé teszi a száraz kiszállást. Csodálja meg az üvegablakokat, amelyek szürke égbolt mellett különösen fénylenek.",
+                "ro": "Porticul catedralei permite o coborâre la uscat. Admirați vitraliile care strălucesc deosebit de tare pe un cer gri.",
+                "en": "The cathedral's portico allows for a dry drop-off. Admire the stained glass windows, which look especially vibrant against a gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phathanaram",
+                "hu": "Wat Phathanaram",
+                "ro": "Wat Phathanaram",
+                "en": "Wat Phathanaram"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie kurze gepflasterte Wege, um die Haupthalle ohne nasse Füße zu erreichen. Beobachten Sie die Architektur kurz aus dem Wagen.",
+                "hu": "Használja a rövid, kövezett utakat, hogy vizes láb nélkül érje el a főcsarnokot. Figyelje meg az építészetet egy pillanatra az autóból.",
+                "ro": "Folosiți potecile scurte pavate pentru a ajunge la sala principală fără a vă uda la picioare. Observați arhitectura un moment din mașină.",
+                "en": "Use the short paved paths to reach the main hall without getting your feet wet. Observe the architecture for a moment from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Klang",
+                "hu": "Wat Klang",
+                "ro": "Wat Klang",
+                "en": "Wat Klang"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze befinden sich in der Nähe des Eingangs. Die helle Innenbeleuchtung lässt den Tempel trotz des Regens warm und einladend wirken.",
+                "hu": "A parkolók közel vannak a bejárathoz. A fényes belső világítás miatt a templom az eső ellenére is melegnek és hívogatónak tűnik.",
+                "ro": "Parcările sunt situate aproape de intrare. Iluminarea interioară strălucitoare face templul să pară cald și primitor în ciuda ploii.",
+                "en": "Parking is located near the entrance. The bright interior lighting makes the temple feel warm and inviting despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tapee River Aussichtspunkt",
+                "hu": "Tapee folyó kilátó",
+                "ro": "Punct de belvedere pe râul Tapee",
+                "en": "Tapee River Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Flussszenerie bequem aus Ihrem Fahrzeug. Der Nebel über dem Wasser schafft eine einzigartige, stimmungsvolle Fotomöglichkeit.",
+                "hu": "Élvezze a folyóparti tájat kényelmesen az autójából. A víz feletti köd egyedülálló, hangulatos fotózási lehetőséget teremt.",
+                "ro": "Bucurați-vă de peisajul râului confortabil din vehicul. Ceața de peste apă creează o oportunitate foto unică și plină de atmosferă.",
+                "en": "Enjoy the river scenery comfortably from your vehicle. The mist over the water creates a unique, atmospheric photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "City Pillar Schrein",
+                "hu": "Városi Oszlopszentély",
+                "ro": "Altarul Principal al Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Schrein sticht auch an trüben Tagen hervor. Parkmöglichkeiten in der Nähe erlauben einen schnellen Besuch zwischen den Schauern.",
+                "hu": "A fehér szentély még borús napokon is kiemelkedik. A közeli parkolás lehetővé teszi a gyors látogatást a záporok között.",
+                "ro": "Altarul alb iese în evidență chiar și în zilele mohorâte. Parcarea din apropiere permite o vizită rapidă între reprizele de ploaie.",
+                "en": "The white shrine stands out even on gloomy days. Nearby parking allows for a quick visit between passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phothawat",
+                "hu": "Wat Phothawat",
+                "ro": "Wat Phothawat",
+                "en": "Wat Phothawat"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die traditionellen Motive im Schutz der Tempeldächer. Achten Sie auf tiefe Pfützen im Parkbereich beim Verlassen des Wagens.",
+                "hu": "Csodálja meg a hagyományos motívumokat a templomtetők védelmében. Ügyeljen a mély tócsákra a parkolóban az autó elhagyásakor.",
+                "ro": "Admirați motivele tradiționale sub protecția acoperișurilor templului. Atenție la bălțile adânci din parcare când ieșiți din mașină.",
+                "en": "Admire the traditional motifs under the protection of the temple roofs. Watch out for deep puddles in the parking area when exiting the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ko Lamphu Park",
+                "hu": "Ko Lamphu Park",
+                "ro": "Parcul Ko Lamphu",
+                "en": "Ko Lamphu Park"
+              },
+              "tip_5lang": {
+                "de": "Eine langsame Fahrt am Parkrand bietet grüne Ausblicke ohne Schlamm. Wenn Sie spazieren gehen, bleiben Sie auf dem gepflasterten Hauptweg.",
+                "hu": "Egy lassú gurulás a park szélén zöld kilátást nyújt sár nélkül. Ha sétálni indul, maradjon a kövezett főúton a tisztaság érdekében.",
+                "ro": "O plimbare lentă pe marginea parcului oferă vederi verzi fără noroi. Dacă mergeți pe jos, rămâneți pe aleea principală pavată.",
+                "en": "A slow drive around the park perimeter offers green views without the mud. If you walk, stay on the paved main loop to keep clean."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Wintermorgen in Ihrem warmen Wagen auf dem Weg zur Kathedrale. Mittags ist das milde Licht perfekt für Tempelbesuche ohne die Hitze. Nachmittags bietet die Flussfahrt klare Sichtverhältnisse. Da es gegen 17:00 Uhr dunkel wird, endet der Tag im beleuchteten Park in einer ruhigen, kühlen Atmosphäre.",
+            "hu": "Élvezze a friss téli reggelt a meleg autójában a katedrálishoz vezető úton. Délben a lágy fény tökéletes a templomlátogatáshoz a hőség nélkül. Délután a folyóparti autózás tiszta látási viszonyokat kínál. Mivel 17:00 körül sötétedik, a nap a kivilágított parkban zárul, nyugodt, hűvös hangulatban.",
+            "ro": "Bucurați-vă de dimineața proaspătă de iarnă în mașina caldă în drum spre catedrală. La prânz, lumina blândă este perfectă pentru temple fără căldură. După-amiaza, drumul pe malul râului oferă vizibilitate clară. Deoarece se întunecă la 17:00, ziua se încheie în parcul iluminat.",
+            "en": "Enjoy the fresh winter morning in your warm car on the way to the cathedral. At noon, the mild light is perfect for temple visits without the heat. In the afternoon, the river drive offers clear visibility. As it gets dark around 17:00, the day ends in the illuminated park in a calm, cool atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Raphael Kathedrale",
+                "hu": "Szent Rafael Katedrális",
+                "ro": "Catedrala Sf. Rafael",
+                "en": "St. Raphael Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale wirkt im klaren Winterlicht am Morgen besonders majestätisch. Die kühle Luft im Inneren ist erfrischend und angenehm.",
+                "hu": "A katedrális a tiszta téli fényben reggel különösen fenségesnek tűnik. A belső hűvös levegő frissítő és kellemes.",
+                "ro": "Catedrala pare deosebit de maiestuoasă în lumina clară de iarnă a dimineții. Aerul răcoros din interior este revigorant și plăcut.",
+                "en": "The cathedral looks especially majestic in the clear winter morning light. The cool air inside is refreshing and pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phathanaram",
+                "hu": "Wat Phathanaram",
+                "ro": "Wat Phathanaram",
+                "en": "Wat Phathanaram"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Wetter für einen Spaziergang über das Gelände. Die Wintersonne lässt die architektonischen Details besser hervortreten.",
+                "hu": "Használja ki az enyhe időt egy sétára a területen. A téli napsütésben jobban érvényesülnek az építészeti részletek.",
+                "ro": "Profitați de vremea blândă pentru o plimbare prin curte. Soarele de iarnă face ca detaliile arhitecturale să iasă mai bine în evidență.",
+                "en": "Take advantage of the mild weather for a stroll through the grounds. The winter sun allows architectural details to stand out better."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Klang",
+                "hu": "Wat Klang",
+                "ro": "Wat Klang",
+                "en": "Wat Klang"
+              },
+              "tip_5lang": {
+                "de": "Der Tempel bietet im Winter einen warmen Rückzugsort. Die sanfte Beleuchtung im Inneren schafft eine besonders friedliche Stimmung.",
+                "hu": "A templom télen meleg menedéket nyújt. A belső tér lágy megvilágítása különösen békés hangulatot áraszt.",
+                "ro": "Templul oferă un refugiu cald iarna. Iluminarea blândă din interior creează o atmosferă deosebit de liniștită.",
+                "en": "The temple provides a warm retreat in winter. The soft interior lighting creates a particularly peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Tapee River Aussichtspunkt",
+                "hu": "Tapee folyó kilátó",
+                "ro": "Punct de belvedere pe râul Tapee",
+                "en": "Tapee River Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht über den Fluss ist im Winter bei klarem Himmel am besten. Genießen Sie den Ausblick kurz vor dem frühen Sonnenuntergang.",
+                "hu": "A távoli kilátás a folyón télen, tiszta égbolt mellett a legjobb. Élvezze a látványt közvetlenül a korai naplemente előtt.",
+                "ro": "Vizibilitatea la distanță peste râu este cea mai bună iarna pe cer senin. Bucurați-vă de vedere chiar înainte de apusul devreme.",
+                "en": "The long-distance view across the river is best in winter with clear skies. Enjoy the view just before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "City Pillar Schrein",
+                "hu": "Városi Oszlopszentély",
+                "ro": "Altarul Principal al Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Monument strahlt in der Wintersonne besonders hell. Ein kurzer Stopp reicht aus, um die klare Architektur im Foto festzuhalten.",
+                "hu": "A fehér emlékmű különösen fényesen ragyog a téli napsütésben. Egy rövid megálló elég, hogy megörökítse a letisztult építészetet.",
+                "ro": "Monumentul alb strălucește deosebit de tare în soarele de iarnă. O oprire scurtă este suficientă pentru a surprinde arhitectura clară.",
+                "en": "The white monument shines especially brightly in the winter sun. A short stop is enough to capture the clean architecture in a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phothawat",
+                "hu": "Wat Phothawat",
+                "ro": "Wat Phothawat",
+                "en": "Wat Phothawat"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Lage des Tempels ist ideal für eine Pause in der kühlen Luft. Bewundern Sie die Holzschnitzereien im milden Tageslicht.",
+                "hu": "A templom csendes elhelyezkedése ideális egy pihenőre a hűvös levegőben. Csodálja meg a fafaragásokat a lágy nappali fényben.",
+                "ro": "Locația liniștită a templului este ideală pentru o pauză în aerul răcoros. Admirați sculpturile în lemn în lumina blândă a zilei.",
+                "en": "The temple's quiet location is ideal for a break in the cool air. Admire the wood carvings in the mild daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Ko Lamphu Park",
+                "hu": "Ko Lamphu Park",
+                "ro": "Parcul Ko Lamphu",
+                "en": "Ko Lamphu Park"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben im Park bei Sonnenuntergang gegen 17:00 Uhr. Die kühle Brise vom Fluss macht den Abendspaziergang perfekt.",
+                "hu": "Figyelje meg a park életét naplementekor, 17:00 körül. A folyó felől érkező hűvös szellő tökéletessé teszi az esti sétát.",
+                "ro": "Observați activitatea din parc la apus, în jurul orei 17:00. Briza răcoroasă de la râu face plimbarea de seară perfectă.",
+                "en": "Observe the park activity at sunset around 17:00. The cool breeze from the river makes the evening walk perfect."
+              }
+            }
+          ]
+        }
       }
     }
   }

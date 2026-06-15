@@ -160,6 +160,196 @@
         "hu": "Kezdje gyalogos kalandját a nyüzsgő Mawgan Porth strandon, ahol a reggeli napfény megvilágítja a homokot. Innen egy rövid séta a védelmet nyújtó dűnék közé vezet, békés átmenetet kínálva a hatalmas partvonal és az érzékeny tengerparti ökoszisztémák között.\n\nFolytassa útját a zord ösvényen, hogy felfedezze a Natural Shower-t, egy eldugott sziklás vízesést. Délben eléri a High Cove-ot, egy gyönyörűen elzárt helyet, amely ideális egy csendes pihenőre és a tomboló atlanti hullámok hangjának élvezetére.\n\nDélután az ösvény a drámai északi sziklák felé emelkedik. A Bedruthan Beach kilátó lélegzetelállító, tágas kilátást nyújt a partvidékre, megjutalmazva a túrázást Cornwall legikonikusabb és legszebb panorámáival.\n\nZárja a napot a híres Bedruthan Steps-nél. A késő délutáni fény, amely hosszú árnyékokat vet az óriási tengeri sziklákra, varázslatos befejezést nyújt a tengerparti sétának, felejthetetlen emlékeket hagyva a fenséges cornwalli partvidékről.",
         "ro": "Începeți aventura de mers pe jos pe plaja plină de viață Mawgan Porth, unde soarele dimineții luminează nisipul. De acolo, o scurtă plimbare vă duce în dunele protectoare, oferind o tranziție pașnică de la țărmul vast la ecosistemele delicate de coastă.\n\nContinuați pe poteca accidentată pentru a descoperi Dușul Natural, o cascadă ascunsă printre stânci. Până la prânz, veți ajunge la High Cove, un loc frumos retras, ideal pentru o odihnă liniștită și pentru a asculta sunetele valurilor Atlanticului.\n\nPe măsură ce după-amiaza se desfășoară, traseul urcă spre stâncile dramatice din nord. Punctul de belvedere Bedruthan Beach oferă priveliști uluitoare ale coastei, recompensând eforturile dumneavoastră cu unele dintre cele mai emblematice panorame din Cornwall.\n\nÎncheiați-vă ziua la faimoasele Bedruthan Steps. Lumina după-amiezii târzii, care aruncă umbre lungi peste stâncile marine uriașe, oferă un final magic plimbării pe coastă, lăsându-vă cu amintiri de neuitat ale țărmului maiestuos.",
         "en": "Start your walking adventure at the lively Mawgan Porth beach, where the morning sun illuminates the sand. From there, a short stroll takes you into the protective dunes, offering a peaceful transition from the expansive shoreline to delicate coastal ecosystems.\n\nContinue along the rugged path to discover the quirky Natural Shower, a hidden waterfall among the rocks. By midday, you will reach High Cove, a beautifully secluded spot ideal for a quiet rest and taking in the uninterrupted sounds of the crashing Atlantic waves.\n\nAs the afternoon unfolds, the trail climbs toward the dramatic northern cliffs. The Bedruthan Beach viewpoint presents breathtaking, expansive sights of the coastline, rewarding your hiking efforts with some of the most iconic panoramas in all of Cornwall.\n\nConclude your day at the famous Bedruthan Steps. Watching the late afternoon light cast long shadows over the giant sea stacks provides a magical end to your coastal walk, leaving you with unforgettable memories of the majestic Cornish shoreline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem erfrischenden Schauer am Strand, wo die Wellen in der Gischt verschwinden. Mittags wandern wir durch die nassen Dünen, wobei wasserfeste Schuhe auf den schlammigen Pfaden unerlässlich sind. Am Nachmittag bietet die neblige Steilküste eine dramatische Kulisse für die Bedruthan Steps. Der Abend bricht grau herein, während wir uns rechtzeitig in den Schutz der Siedlung begeben.",
+            "hu": "A reggel frissítő záporral indul a parton, ahol az óceán morajlása elnyomja az eső kopogását. Délelőtt a dűnék között kanyargunk, figyelve a lábunk elé a felázott talajon. Délutánra a köd ráül a sziklákra, misztikus keretet adva a Bedruthan Steps látványának. Az este hamar leszáll, a szürkületben a vizes aszfalt csillogása vezet vissza a biztonságos szállásra.",
+            "ro": "Dimineața începe cu o aversă răcoritoare pe plajă, unde valurile se pierd în ceața mării. La prânz, traversăm dunele umede, unde încălțămintea impermeabilă este esențială pe potecile noroioase. După-amiaza, coasta stâncoasă oferă un cadru dramatic pentru Bedruthan Steps. Seara se așterne gri, așa că ne retragem din timp spre adăpostul așezării înainte de întuneric.",
+            "en": "The morning starts with a refreshing shower on the beach, where the waves disappear into the mist. By noon, we navigate the damp dunes, making waterproof footwear essential on the muddy paths. In the afternoon, the foggy cliffs provide a dramatic backdrop for the Bedruthan Steps. Evening falls in shades of grey as we head back to the safety of the village before the light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mawgan Porth",
+                "hu": "Mawgan Porth",
+                "ro": "Mawgan Porth",
+                "en": "Mawgan Porth"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde See bei Regen und suchen Sie bei starken Böen Schutz unter den Überhängen, aber achten Sie stets auf die Gezeiten.",
+                "hu": "Élvezd a vad tengert esőben is, és keress menedéket a sziklaáthajlások alatt az erős széllökések elől, de mindig figyelj az apály-dagály váltakozására.",
+                "ro": "Bucurați-vă de marea sălbatică pe ploaie și căutați adăpost sub stânci în timpul rafalelor, dar fiți mereu atenți la flux și reflux.",
+                "en": "Experience the wild sea in the rain and seek shelter under the rock overhangs during heavy gusts, but always keep a close watch on the tide times."
+              }
+            },
+            {
+              "name": {
+                "de": "Dünen",
+                "hu": "Dűnék",
+                "ro": "Dune",
+                "en": "Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die sandigen Pfade können bei Nässe rutschig sein; tragen Sie Wanderschuhe mit gutem Profil, um auf dem weichen, nassen Untergrund Halt zu finden.",
+                "hu": "A homokos ösvények vizesen csúszósak lehetnek, ezért viselj jó tapadású túrabakancsot, hogy stabilan haladhass a felázott, puha talajon.",
+                "ro": "Potecile de nisip pot fi alunecoase când sunt ude; purtați bocanci cu talpă aderentă pentru a avea stabilitate pe terenul moale și îmbibat.",
+                "en": "The sandy paths can be slippery when wet; wear hiking boots with good grip to maintain stability on the soft, waterlogged ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Natürliche Dusche",
+                "hu": "Természetes Zuhany",
+                "ro": "Duș Natural",
+                "en": "Natural Shower"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen verstärkt sich der Wasserfall, aber die Felsen sind extrem glatt; bewundern Sie das Spektakel aus sicherer Entfernung mit einer Regenjacke.",
+                "hu": "Esőben a vízesés még látványosabb, de a sziklák rendkívül csúszósak, ezért egy jó esőkabátban, biztonságos távolságból csodáld a jelenséget.",
+                "ro": "Cascada este mai spectaculoasă pe ploaie, dar stâncile sunt extrem de alunecoase; admirați spectacolul de la distanță sigură purtând o pelerină.",
+                "en": "The waterfall is even more impressive in the rain, but the rocks are extremely slippery; admire the sight from a safe distance in a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "High Cove",
+                "hu": "High Cove",
+                "ro": "High Cove",
+                "en": "High Cove"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Ort bietet kaum Schutz; nutzen Sie eine kurze Regenpause für Fotos und achten Sie auf den windanfälligen Klippenpfad.",
+                "hu": "Ez a nyitott terület kevés menedéket nyújt, ezért használd ki az esőmentes szüneteket a fotózásra, és vigyázz a szeles sziklaösvényen.",
+                "ro": "Această zonă expusă oferă puțin adăpost; profitați de pauzele dintre averse pentru poze și aveți grijă pe poteca de creastă vântoasă.",
+                "en": "This exposed spot offers little shelter; use brief breaks in the rain for photos and be very careful on the windy cliff-top path."
+              }
+            },
+            {
+              "name": {
+                "de": "Bedruthan Beach Aussichtspunkt",
+                "hu": "Bedruthan Beach kilátó",
+                "ro": "Punct de belvedere Bedruthan Beach",
+                "en": "Bedruthan Beach viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick ist bei Regen oft wolkenverhangen, wirkt aber mystisch; halten Sie Ihre Kamera unter einem Regenschirm trocken für stimmungsvolle Bilder.",
+                "hu": "A kilátás esőben gyakran felhős, de ettől válik igazán misztikussá; tartsd a kamerádat esernyő alatt, hogy hangulatos, borongós képeket készíthess.",
+                "ro": "Priveliștea este adesea cețoasă pe ploaie, dar pare mistică; țineți camera sub umbrelă pentru a surprinde imagini atmosferice deosebite.",
+                "en": "The view is often misty in the rain, which adds a mystical feel; keep your camera dry under an umbrella to capture atmospheric shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Bedruthan Steps",
+                "hu": "Bedruthan Steps",
+                "ro": "Bedruthan Steps",
+                "en": "Bedruthan Steps"
+              },
+              "tip_5lang": {
+                "de": "Die steilen Stufen sind bei Regen gefährlich und oft gesperrt; bleiben Sie oben am Rand und genießen Sie die tosende Brandung von sicherer Warte.",
+                "hu": "A meredek lépcsők esőben veszélyesek és gyakran lezártak, ezért maradj fent a peremen, és figyeld a dühöngő hullámokat biztonságos távolságból.",
+                "ro": "Treptele abrupte sunt periculoase pe ploaie și adesea închise; rămâneți sus pe faleză și admirați valurile înfuriate de la o distanță sigură.",
+                "en": "The steep steps are dangerous in the rain and often closed; stay at the top of the cliff and watch the crashing waves from a safe vantage point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frostig und klar am Strand, wobei der kalte Wind die Sinne schärft. Mittags glitzert der tiefe Sonnenstand auf den Dünen und bietet perfekte Fotomotive in der kühlen Luft. Am Nachmittag erreichen wir die Klippen, wo die Brandung im Winter besonders kraftvoll wirkt. Da die Sonne bereits gegen 17:00 Uhr untergeht, kehren wir rechtzeitig in die Wärme zurück.",
+            "hu": "A reggel fagyosan és tisztán indul a parton, ahol a hideg szél azonnal felébreszt. Délben az alacsonyan járó nap megcsillan a dűnéken, tökéletes fényeket adva a fotózáshoz a hűvös levegőben. Délután elérjük a sziklákat, ahol a téli hullámverés különösen ereje teljében van. Mivel a nap 17:00 körül nyugszik, időben elindulunk vissza a melegbe.",
+            "ro": "Dimineața începe geroasă și senină pe plajă, unde vântul rece îți ascute simțurile. La prânz, soarele jos strălucește peste dune, oferind lumina perfectă pentru fotografii în aerul rece. După-amiaza ajungem la stânci, unde valurile de iarnă sunt deosebit de puternice. Deoarece soarele apune în jurul orei 17:00, ne întoarcem din timp la căldură.",
+            "en": "The morning begins frosty and clear on the beach, with the cold wind sharpening the senses. At noon, the low sun glints off the dunes, providing perfect photo opportunities in the crisp air. In the afternoon, we reach the cliffs where the winter swells are particularly powerful. As the sun sets around 5:00 PM, we head back early to find warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mawgan Porth",
+                "hu": "Mawgan Porth",
+                "ro": "Mawgan Porth",
+                "en": "Mawgan Porth"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den menschenleeren Strand in der Wintersonne, aber tragen Sie isolierte Stiefel gegen den gefrorenen Sand und den kalten Wind.",
+                "hu": "Élvezd az üres strandot a téli napsütésben, de viselj hőszigetelt bakancsot a fagyos homok és a metsző hideg szél ellen.",
+                "ro": "Bucurați-vă de plaja pustie în soarele de iarnă, dar purtați ghete izolate împotriva nisipului înghețat și a vântului tăios.",
+                "en": "Enjoy the empty beach in the winter sunshine, but wear insulated boots against the frozen sand and the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Dünen",
+                "hu": "Dűnék",
+                "ro": "Dune",
+                "en": "Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen wirken im Winter karg und weitläufig; nutzen Sie die tiefstehende Sonne für dramatische Schattenwürfe und tragen Sie warme Schichten.",
+                "hu": "A dűnék télen kietlennek és tágasnak tűnnek; használd ki az alacsony napállást a drámai árnyékokhoz, és öltözz rétegesen a hideg ellen.",
+                "ro": "Dunele par pustii și vaste iarna; folosiți soarele jos pentru umbre dramatice și îmbrăcați-vă cu straturi termice groase.",
+                "en": "The dunes look stark and vast in winter; use the low sun for dramatic shadows and wear plenty of warm layers against the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Natürliche Dusche",
+                "hu": "Természetes Zuhany",
+                "ro": "Duș Natural",
+                "en": "Natural Shower"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall kann an eiskalten Tagen gefrorene Ränder bilden; halten Sie Abstand, da die Gischt auf den Felsen sofort zu Glatteis gefriert.",
+                "hu": "A vízesés szélei a fagyos napokon jéggé dermedhetnek; tarts távolságot, mert a sziklákra fagyó permet rendkívül csúszós jégpáncélt alkot.",
+                "ro": "Marginile cascadei pot îngheța în zilele geroase; păstrați distanța, deoarece vaporii îngheață instantaneu pe stânci formând polei.",
+                "en": "The waterfall edges can freeze on icy days; keep your distance as the spray freezes instantly on the rocks creating slippery black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "High Cove",
+                "hu": "High Cove",
+                "ro": "High Cove",
+                "en": "High Cove"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter besonders stark; schützen Sie Ohren und Hände mit Thermokleidung, während Sie die klare Sicht genießen.",
+                "hu": "A szél télen különösen erősen fütyül itt; védd a füledet és a kezedet termoruházattal, miközben a tiszta kilátásban gyönyörködsz.",
+                "ro": "Vântul șuieră puternic aici iarna; protejați-vă urechile și mâinile cu haine termice în timp ce admirați vizibilitatea clară spre larg.",
+                "en": "The wind whistles particularly loudly here in winter; protect your ears and hands with thermal gear while enjoying the clear views."
+              }
+            },
+            {
+              "name": {
+                "de": "Bedruthan Beach Aussichtspunkt",
+                "hu": "Bedruthan Beach kilátó",
+                "ro": "Punct de belvedere Bedruthan Beach",
+                "en": "Bedruthan Beach viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für den frühen Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine Thermoskanne mit Tee mit, um warm zu bleiben.",
+                "hu": "Ez a tökéletes hely a korai, 17:00 körüli naplemente megtekintéséhez; hozz magaddal egy termosz meleg teát, hogy ne fázz meg a várakozás alatt.",
+                "ro": "Acesta este locul perfect pentru apusul devreme de la ora 17:00; aduceți un termos cu ceai fierbinte pentru a vă încălzi în timpul pauzei.",
+                "en": "This is the perfect spot for the early sunset around 5:00 PM; bring a thermos of hot tea to stay warm while watching the sky change colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Bedruthan Steps",
+                "hu": "Bedruthan Steps",
+                "ro": "Bedruthan Steps",
+                "en": "Bedruthan Steps"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Felsen wirken in der Winterbrandung majestätisch; bleiben Sie auf den befestigten Wegen, da Frost die Pfade tückisch machen kann.",
+                "hu": "Az óriási sziklák fenségesen mutatnak a téli hullámverésben; maradj a kijelölt utakon, mert a fagy trükkössé és csúszóssá teheti az ösvényeket.",
+                "ro": "Stâncile uriașe arată maiestuos în valurile iernii; rămâneți pe potecile principale, deoarece înghețul le poate face înșelătoare.",
+                "en": "The giant sea stacks look majestic in the winter swells; stay on the main paths as frost can make the trails treacherous and uneven."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje kerékpártúráját a szárazföld belsejében az ősi Tumulus helyszínen, magába szívva a helyi őstörténet egy részét a csendes reggeli levegőben. Ebből a megemelt kiindulópontból élvezze a frissítő lejtmenetet a part felé, egyenesen a nyüzsgő Mawgan Porth strandjához.\n\nA fő strandon tett élénk megálló után tekerjen dél felé a kanyargós parti utakon Beacon Cove irányába. A déli napfény tökéletesen megvilágítja a meredek sziklás letöréseket, így ragyogó hely a lábak pihentetésére és a drámai táj élvezetére.\n\nNyomuljon tovább délre, hogy felfedezze Stem-et, egy kevésbé ismert, de ugyanolyan lenyűgöző tengerparti szakaszt. A parti utakon való eligazodás itt némi erőfeszítést igényel, de az óceánra nyíló kilátás és a sós tengeri szellő minden pedálcsapást megér.\n\nÚtja látványosan ér véget a Watergate Beach-en. Guruljon be a késő délutánba ezen a hatalmas, világhírű szörfös strandon, ahol végre lezárhatja kerékpárját, megihat egy jól megérdemelt hűsítőt, és nézheti a befelé gördülő hullámokat.",
         "ro": "Începeți turul cu bicicleta spre interior, la vechiul sit Tumulus, absorbind puțin din preistoria locală în aerul liniștit al dimineții. Din acest punct de plecare înalt, bucurați-vă de o plimbare revigorantă la vale spre coastă, îndreptându-vă direct spre nisipurile din Mawgan Porth.\n\nDupă o oprire plină de viață la plaja principală, pedalați spre sud de-a lungul drumurilor de coastă șerpuite spre Beacon Cove. Soarele amiezii evidențiază perfect coborâșurile stâncoase abrupte, făcându-l un loc genial pentru a vă odihni picioarele.\n\nMergeți mai departe spre sud pentru a descoperi Stem, o secțiune de coastă mai puțin cunoscută, dar la fel de uimitoare. Navigarea pe drumurile de aici necesită puțin efort, dar priveliștile ample ale oceanului și briza mării fac ca fiecare apăsare a pedalei să merite pe deplin.\n\nPlimbarea dumneavoastră se încheie spectaculos la Watergate Beach. Ajungeți la sfârșitul după-amiezii pe această întindere masivă de nisip, unde puteți în cele din urmă să blocați bicicleta, să luați o băutură bine meritată și să urmăriți valurile.",
         "en": "Kick off your cycling tour inland at the ancient Tumulus site, absorbing a bit of local prehistory in the quiet morning air. From this elevated starting point, enjoy a refreshing downhill ride towards the coast, heading straight for the bustling sands of Mawgan Porth.\n\nAfter a lively stop at the main beach, peddle south along the winding coastal roads towards Beacon Cove. The midday sun perfectly highlights the steep, rocky drop-offs, making it a brilliant spot to rest your legs and enjoy the dramatic, isolated scenery.\n\nPush further south to discover Stem, a lesser-known but equally stunning coastal section. Navigating the coastal roads here requires a bit of effort, but the sweeping ocean views and salty sea breeze make every push of the pedal thoroughly worthwhile.\n\nYour ride concludes spectacularly at Watergate Beach. Roll into the late afternoon at this massive stretch of world-famous surfing sand, where you can finally lock up your bike, grab a well-deserved coastal refreshment, and watch the waves roll in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei Nieselregen auf den historischen Hügeln, wo der Boden weich und schwer ist. Mittags führt die Route bergab nach Mawgan Porth, was volle Konzentration auf den nassen Straßen erfordert. Am Nachmittag kämpfen wir uns gegen den Wind zur Küste vor, während die Gischt ins Gesicht peitscht. Den Tag beenden wir früh, bevor die Sicht im Regen zu stark abnimmt.",
+            "hu": "A kerékpártúra szemerkélő esőben indul a történelmi dombokon, ahol a talaj puha és nehéz. Délben az út lejtősen visz Mawgan Porth felé, ami teljes koncentrációt igényel a vizes aszfalton. Délután a széllel küzdve tekerünk a part felé, miközben az eső az arcunkba csap. A napot korán befejezzük, mielőtt a látótávolság túlságosan lecsökkenne.",
+            "ro": "Turul cu bicicleta începe pe o ploaie măruntă pe dealurile istorice, unde terenul este moale și greu. La prânz, traseul coboară spre Mawgan Porth, necesitând concentrare maximă pe drumurile ude. După-amiaza, pedalăm spre coastă luptând cu vântul și stropii de ploaie. Încheiem ziua devreme, înainte ca vizibilitatea să scadă prea mult din cauza precipitațiilor.",
+            "en": "The bike tour starts in drizzling rain on the historical hills, where the ground is soft and heavy. At noon, the route descends toward Mawgan Porth, requiring full concentration on the wet roads. In the afternoon, we battle the wind toward the coast as spray hits our faces. We finish the day early before visibility decreases too much in the persistent rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tumulus (Stätte von)",
+                "hu": "Tumulus (halomsír helye)",
+                "ro": "Tumul (situl)",
+                "en": "Tumulus (site of)"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist bei Regen extrem schlammig; nutzen Sie Schutzbleche an Ihrem Fahrrad und tragen Sie wasserfeste Überschuhe für den Halt.",
+                "hu": "A terep esőben rendkívül saras, ezért használj sárvédőt a biciklin, és viselj vízálló kamáslit, hogy megvédd a cipődet a felcsapódó víztől.",
+                "ro": "Terenul este extrem de noroios pe ploaie; folosiți apărători de noroi la bicicletă și purtați protecții impermeabile pentru încălțăminte.",
+                "en": "The terrain is extremely muddy in the rain; use mudguards on your bike and wear waterproof overshoes to protect your feet from the spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Mawgan Porth",
+                "hu": "Mawgan Porth",
+                "ro": "Mawgan Porth",
+                "en": "Mawgan Porth"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie auf dem nassen Asphalt frühzeitig ab und achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten, während Sie durch den Ort radeln.",
+                "hu": "A vizes aszfalton fékezz időben, és vigyázz a tócsákra, amelyek mély kátyúkat rejthetnek, miközben átekersz a településen.",
+                "ro": "Frânați din timp pe asfaltul ud și aveți grijă la bălțile care pot ascunde gropi adânci în timp ce traversați localitatea cu bicicleta.",
+                "en": "Brake early on the wet asphalt and watch out for puddles that could hide deep potholes while cycling through the village area."
+              }
+            },
+            {
+              "name": {
+                "de": "Beacon Cove",
+                "hu": "Beacon Cove",
+                "ro": "Beacon Cove",
+                "en": "Beacon Cove"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann steil und rutschig sein; schieben Sie Ihr Rad im Zweifelsfall und genießen Sie die dramatische, graue Aussicht auf die Bucht.",
+                "hu": "A levezető út meredek és csúszós lehet, ezért kétség esetén told a biciklit, és élvezd az öböl drámai, szürke látványát az esőben.",
+                "ro": "Calea de acces poate fi abruptă și alunecoasă; dacă aveți dubii, mergeți pe lângă bicicletă și admirați priveliștea dramatică a golfului.",
+                "en": "The access path can be steep and slippery; if in doubt, push your bike and enjoy the dramatic, grey views of the cove in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Stem",
+                "hu": "Stem",
+                "ro": "Stem",
+                "en": "Stem"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege sind bei Nässe tückisch; wählen Sie eine niedrigere Übersetzung und achten Sie auf rutschiges nasses Gras am Wegrand.",
+                "hu": "A burkolatlan utak vizesen csalókák, ezért válassz alacsonyabb sebességfokozatot, és ügyelj az út menti csúszós, vizes fűre.",
+                "ro": "Drumurile neasfaltate sunt înșelătoare când sunt ude; alegeți o viteză inferioară și aveți grijă la iarba udă și alunecoasă de pe margine.",
+                "en": "The unpaved paths are treacherous when wet; choose a lower gear and watch out for slippery wet grass along the edges of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Watergate Beach",
+                "hu": "Watergate Beach",
+                "ro": "Watergate Beach",
+                "en": "Watergate Beach"
+              },
+              "tip_5lang": {
+                "de": "Nach der nassen Fahrt bietet der weite Strand eine tolle Kulisse, aber stellen Sie Ihr Rad sicher ab und ziehen Sie trockene Kleidung an.",
+                "hu": "A vizes tekerés után a tágas strand nagyszerű látványt nyújt, de támaszd le biztosan a biciklit, és válts száraz ruhára, amint lehet.",
+                "ro": "După tura prin ploaie, plaja vastă oferă un peisaj superb, dar parcați bicicleta în siguranță și schimbați-vă în haine uscate cât mai repede.",
+                "en": "After the wet ride, the wide beach offers a great backdrop, but park your bike securely and change into dry clothes as soon as possible."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet bei klirrender Kälte auf den Hügeln, wo der Wind ungehindert bläst. Mittags erreichen wir Mawgan Porth, wobei die Sonne tief über dem Horizont steht und lange Schatten wirft. Am Nachmittag radeln wir entlang der Küste, geschützt durch dicke Handschuhe gegen den Fahrtwind. Da es bereits gegen 17:00 Uhr dunkel wird, planen wir unsere Rückkehr frühzeitig ein.",
+            "hu": "A téli kerékpártúra metsző hidegben indul a dombokon, ahol a szél akadálytalanul fúj. Délben érjük el Mawgan Porth-t, miközben a nap alacsonyan áll a horizont felett, hosszú árnyékokat vetve. Délután a part mentén tekerünk, vastag kesztyűben védekezve a menetszél ellen. Mivel 17:00 körül már sötétedik, a visszautat időben megtervezzük.",
+            "ro": "Turul cu bicicleta de iarnă începe într-un frig pătrunzător pe dealuri, unde vântul bate nestingherit. La prânz ajungem în Mawgan Porth, cu soarele jos la orizont proiectând umbre lungi. După-amiaza pedalăm de-a lungul coastei, protejați de mănuși groase împotriva curentului. Deoarece se întunecă în jurul orei 17:00, planificăm întoarcerea din timp.",
+            "en": "The winter bike tour starts in biting cold on the hills where the wind blows unimpeded. At noon, we reach Mawgan Porth with the sun low on the horizon, casting long shadows. In the afternoon, we cycle along the coast, protected by thick gloves against the wind chill. Since it gets dark around 5:00 PM, we plan our return journey well in advance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tumulus (Stätte von)",
+                "hu": "Tumulus (halomsír helye)",
+                "ro": "Tumul (situl)",
+                "en": "Tumulus (site of)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Bodenstellen; der exponierte Ort kann sehr windig sein, tragen Sie daher eine winddichte Jacke beim Erkunden.",
+                "hu": "Ügyelj a fagyott talajfoltokra; ez a nyitott hely nagyon szeles lehet, ezért viselj szélálló kabátot a terület felfedezése közben.",
+                "ro": "Aveți grijă la porțiunile de sol înghețat; locul expus poate fi foarte vântos, deci purtați o jachetă rezistentă la vânt în timp ce explorați.",
+                "en": "Watch out for patches of frozen ground; this exposed site can be very windy, so wear a windproof jacket while exploring the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mawgan Porth",
+                "hu": "Mawgan Porth",
+                "ro": "Mawgan Porth",
+                "en": "Mawgan Porth"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Stellen auf der Straße, da dort Reif glatt sein kann; nutzen Sie die Wintersonne für eine kurze Aufwärmpause im Ort.",
+                "hu": "Kerüld az út árnyékos részeit, mert a dér csúszós lehet; használd ki a téli napsütést egy rövid melegítő pihenőre a településen.",
+                "ro": "Evitați porțiunile umbrite ale drumului, unde chiciura poate fi alunecoasă; profitați de soarele de iarnă pentru o scurtă pauză de încălzire.",
+                "en": "Avoid shaded sections of the road where frost might be slippery; use the winter sunshine for a quick warming break in the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Beacon Cove",
+                "hu": "Beacon Cove",
+                "ro": "Beacon Cove",
+                "en": "Beacon Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht ist im Winter oft vereist; prüfen Sie den Untergrund genau, bevor Sie hinunterfahren, und tragen Sie helle Kleidung.",
+                "hu": "Az öbölhöz vezető lejtő télen gyakran jeges; alaposan ellenőrizd a talajt, mielőtt leereszkednél, és viselj feltűnő, világos ruházatot.",
+                "ro": "Coborârea spre golf este adesea înghețată iarna; verificați bine solul înainte de a coborî și purtați haine reflectorizante sau deschise.",
+                "en": "The descent to the cove is often icy in winter; check the ground carefully before heading down and wear bright, visible clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Stem",
+                "hu": "Stem",
+                "ro": "Stem",
+                "en": "Stem"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist oft hart gefroren, was das Fahren holprig macht; reduzieren Sie den Reifendruck leicht für besseren Grip auf dem harten Untergrund.",
+                "hu": "A talaj gyakran keményre fagyott, ami döcögőssé teszi a haladást; csökkentsd kicsit a guminyomást a jobb tapadás érdekében a kemény talajon.",
+                "ro": "Solul este adesea înghețat bocnă, făcând pedalarea zdruncinată; reduceți puțin presiunea în pneuri pentru o aderență mai bună pe teren dur.",
+                "en": "The ground is often frozen hard, making the ride bumpy; slightly reduce your tyre pressure for better grip on the solid winter terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Watergate Beach",
+                "hu": "Watergate Beach",
+                "ro": "Watergate Beach",
+                "en": "Watergate Beach"
+              },
+              "tip_5lang": {
+                "de": "Die weiten Sandflächen sind im tiefen Winterlicht wunderschön; planen Sie Ihre Rückfahrt vor 17:00 Uhr, um nicht im Dunkeln zu radeln.",
+                "hu": "A tágas homokos part gyönyörű az alacsony téli fényekben; tervezd meg a visszautat 17:00 előtt, hogy ne kelljen sötétben tekerned.",
+                "ro": "Plaja vastă este superbă în lumina joasă de iarnă; planificați întoarcerea înainte de ora 17:00 pentru a nu pedala pe întuneric.",
+                "en": "The vast sands are beautiful in the low winter light; plan to head back before 5:00 PM to avoid cycling in the dark on unlit roads."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje autós utazását a tágas Watergate Beach-en. A hatalmas homokos partszakaszok élénkítő reggeli sétát kínálnak, ami gyönyörű alaphangot ad a napnak. Felfrissülve pattanjon be az autóba, és cirkáljon észak felé a lenyűgöző tengerparti úton.\n\nA következő megálló az eldugott Beacon Cove, amely könnyen megközelíthető a közeli pihenőkből. Miután kiélvezte drámai elszigeteltségét, egy rövid utazás pont ebédidőben viszi el Mawgan Porth szívébe, ahol a nyüzsgő tengerparti hangulat csodálatos déli szünetet biztosít.\n\nÉszakabbra haladva eléri az ikonikus Bedruthan Steps-t. A kijelölt parkoló könnyű hozzáférést biztosít a szikla tetején futó ösvényekhez, ahol a délutáni fény tökéletesen megvilágítja a nyugtalan Atlanti-óceánból kiemelkedő kolosszális gránitsziklákat.\n\nA nap lezárásaként irányítsa autóját a közvetlen partvidéktől távolabb, a csendes vidéki sávokba, a Tumulus lelőhely felé. A békés szárazföldi naplemente nyugodt kontrasztot nyújt a vad óceánnal szemben, és tökéletesen lezárja a régió átfogó autós túráját.",
         "ro": "Începeți călătoria cu mașina la întinsul Watergate Beach. Porțiunile masive de nisip oferă o plimbare revigorantă dimineața, stabilind un ton frumos pentru zi. Odată reîmprospătat, urcați în mașină și conduceți pe uimitorul drum de coastă spre nord.\n\nUrmătoarea oprire este izolatul Beacon Cove, ușor accesibil de pe drum. După ce v-ați bucurat de izolarea sa dramatică, un scurt drum vă duce în inima orașului Mawgan Porth chiar la timp pentru prânz, unde atmosfera vibrantă a plajei oferă o pauză minunată.\n\nConducând mai la nord, veți ajunge la emblematicele Bedruthan Steps. Parcarea dedicată permite accesul ușor la căile de pe stânci, unde lumina după-amiezii evidențiază perfect stâncile colosale de granit care ies din Oceanul Atlantic neliniștit.\n\nPentru a încheia ziua, îndreptați-vă mașina departe de coastă, pe benzile rurale liniștite, spre situl Tumulus. Apusul liniștit din interior oferă un contrast senin cu oceanul sălbatic, încheind perfect turul complet al regiunii.",
         "en": "Begin your driving journey at the expansive Watergate Beach. The massive sandy stretches provide an invigorating morning walk, setting a beautiful tone for the day. Once refreshed, hop in the car and cruise along the stunning coastal road heading north.\n\nYour next stop is the secluded Beacon Cove, easily accessed from nearby lay-bys. After soaking in its dramatic isolation, a short drive brings you into the heart of Mawgan Porth just in time for lunch, where the lively beach atmosphere offers a wonderful midday break.\n\nDriving further north, you will reach the iconic Bedruthan Steps. The dedicated parking allows easy access to the clifftop pathways, where the afternoon light perfectly highlights the colossal granite sea stacks emerging from the restless Atlantic Ocean.\n\nTo end the day, steer your car away from the immediate coastline and into the quiet rural lanes toward the Tumulus site. The peaceful inland sunset provides a serene contrast to the wild ocean, concluding your comprehensive driving tour of the region perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt durch die verregnete Küstenlandschaft, während die Scheibenwischer im Takt schlagen. Mittags parken wir nahe dem Strand von Mawgan Porth und beobachten das Wetter aus dem trockenen Innenraum. Am Nachmittag führt die Route zu den Klippen, wo wir kurze Regenpausen für Ausblicke nutzen. Der Tag endet sicher, bevor die Sicht im starken Regen zu schlecht wird.",
+            "hu": "A nap esős tengerparti autózással indul, miközben az ablaktörlők ütemesen járnak. Délben Mawgan Porth strandja mellett parkolunk le, és a száraz utastérből figyeljük az időjárást. Délután a sziklák felé vesszük az irányt, kihasználva a rövid esőszüneteket a kilátáshoz. A napot biztonságban fejezzük be, mielőtt a szakadó esőben túl rossz lesz a látótávolság.",
+            "ro": "Ziua începe cu o plimbare cu mașina prin peisajul de coastă ploios, cu ștergătoarele lucrând din greu. La prânz parcăm lângă plaja din Mawgan Porth și observăm vremea din interiorul uscat. După-amiaza, traseul ne duce spre stânci, profitând de scurte pauze între averse pentru poze. Încheiem ziua în siguranță, înainte ca vizibilitatea să scadă prea mult pe ploaie.",
+            "en": "The day starts with a drive through the rainy coastal landscape as the wipers beat rhythmically. At noon, we park near Mawgan Porth beach and watch the weather from the dry interior of the car. In the afternoon, the route takes us to the cliffs, using brief breaks in the rain for views. We end the day safely before visibility becomes too poor in the heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Watergate Beach",
+                "hu": "Watergate Beach",
+                "ro": "Watergate Beach",
+                "en": "Watergate Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den strandnahen Parkplatz, um bei Regen schnell ins Trockene zu flüchten, und genießen Sie den Blick auf die Surfer vom Auto aus.",
+                "hu": "Használd a parthoz közeli parkolót, hogy eső esetén gyorsan fedezékbe vonulhass, és csodáld a szörfösöket az autó biztonságos melegéből.",
+                "ro": "Folosiți parcarea de lângă plajă pentru a vă adăposti rapid în caz de ploaie și admirați surferii direct din confortul mașinii.",
+                "en": "Use the car park near the beach to quickly return to shelter if it rains, and enjoy watching the surfers from the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Beacon Cove",
+                "hu": "Beacon Cove",
+                "ro": "Beacon Cove",
+                "en": "Beacon Cove"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen matschig sein; fahren Sie vorsichtig und nutzen Sie die Ausweichstellen auf den nassen Straßen.",
+                "hu": "A keskeny bekötőutak esőben sarasak lehetnek; vezess óvatosan, és használd a félreállóhelyeket a vizes, csúszós aszfalton.",
+                "ro": "Drumurile înguste de acces pot fi noroioase pe ploaie; conduceți cu atenție și folosiți refugiile de pe carosabilul ud și alunecos.",
+                "en": "The narrow access roads can be muddy in the rain; drive carefully and make good use of passing places on the wet and slick tarmac."
+              }
+            },
+            {
+              "name": {
+                "de": "Mawgan Porth",
+                "hu": "Mawgan Porth",
+                "ro": "Mawgan Porth",
+                "en": "Mawgan Porth"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf tiefe Pfützen und nutzen Sie die lokalen Einrichtungen als trockenen Unterschlupf bei plötzlichen Starkregenereignissen.",
+                "hu": "Parkoláskor ügyelj a mély tócsákra, és használd a helyi szolgáltató egységeket száraz menedékként hirtelen jött intenzív esőzés esetén.",
+                "ro": "Aveți grijă la bălțile adânci când parcați și folosiți facilitățile locale ca adăpost uscat în cazul unor averse bruște și intense.",
+                "en": "Watch out for deep puddles when parking and use the local facilities as a dry refuge during sudden and intense rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Bedruthan Steps",
+                "hu": "Bedruthan Steps",
+                "ro": "Bedruthan Steps",
+                "en": "Bedruthan Steps"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist exponiert und windig; halten Sie die Türen beim Öffnen fest und genießen Sie das tosende Meer aus dem geschützten Auto.",
+                "hu": "A parkoló nyitott és szeles területen van; erősen fogd az ajtót kiszálláskor, és csodáld a tomboló tengert az autó védelméből.",
+                "ro": "Parcarea este expusă și vântoasă; țineți bine de portiere când le deschideți și admirați marea înfuriată din protecția mașinii.",
+                "en": "The car park is exposed and very windy; hold your doors firmly when opening them and enjoy the crashing waves from the shelter of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tumulus (Stätte von)",
+                "hu": "Tumulus (halomsír helye)",
+                "ro": "Tumul (situl)",
+                "en": "Tumulus (site of)"
+              },
+              "tip_5lang": {
+                "de": "Die Feldwege zum Standort können bei Regen sehr rutschig sein; bleiben Sie auf befestigten Wegen und achten Sie auf schlechte Sicht durch Beschlag.",
+                "hu": "A helyszínhez vezető dűlőutak esőben nagyon csúszósak lehetnek; maradj a köves úton, és ügyelj a párásodás miatti rossz látási viszonyokra.",
+                "ro": "Drumurile de țară spre sit pot fi foarte alunecoase pe ploaie; rămâneți pe căile pavate și atenție la vizibilitatea redusă din cauza aburirii.",
+                "en": "The lanes leading to the site can be very slippery in the rain; stay on paved sections and watch out for poor visibility due to fogging."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen startet mit einer klaren Fahrt entlang der Küste, während die Heizung für wohlige Wärme sorgt. Mittags glitzert die tiefstehende Sonne auf dem gefrorenen Sand von Mawgan Porth. Am Nachmittag steuern wir die Klippen an, um die gewaltigen Winterwellen zu beobachten. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden wir unsere Tour im warmen Licht des späten Nachmittags.",
+            "hu": "A téli reggel tiszta tengerparti autózással indul, miközben a fűtés gondoskodik a kellemes melegről. Délben az alacsonyan járó nap megcsillan Mawgan Porth fagyos homokján. Délután a sziklák felé vesszük az irányt, hogy megnézzük a hatalmas téli hullámokat. Mivel a nap 17:00 körül nyugszik, túránkat a késő délutáni meleg fényekben fejezzük be.",
+            "ro": "Dimineața de iarnă începe cu o plimbare senină de-a lungul coastei, cu căldura din mașină asigurând confortul. La prânz, soarele jos strălucește pe nisipul înghețat din Mawgan Porth. După-amiaza ne îndreptăm spre stânci pentru a vedea valurile uriașe de iarnă. Deoarece soarele apune în jurul orei 17:00, ne încheiem turul în lumina caldă a după-amiezii târzii.",
+            "en": "The winter morning starts with a clear drive along the coast as the car heater provides cozy warmth. At noon, the low sun glints off the frozen sand of Mawgan Porth. In the afternoon, we head toward the cliffs to watch the massive winter swells. As the sun sets around 5:00 PM, we conclude our tour in the warm light of the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Watergate Beach",
+                "hu": "Watergate Beach",
+                "ro": "Watergate Beach",
+                "en": "Watergate Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Parkplatz auf morgendliche Eisglätte und genießen Sie den weiten Blick auf den menschenleeren Strand in der klaren Winterluft.",
+                "hu": "Ellenőrizd a parkolót a reggeli jegesedés miatt, és élvezd a tágas kilátást az üres strandra a tiszta téli levegőben.",
+                "ro": "Verificați parcarea pentru polei dimineața și bucurați-vă de priveliștea vastă a plajei pustii în aerul curat de iarnă.",
+                "en": "Check the car park for early morning ice and enjoy the expansive views of the empty beach in the crisp, clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Beacon Cove",
+                "hu": "Beacon Cove",
+                "ro": "Beacon Cove",
+                "en": "Beacon Cove"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schattigen Küstenstraßen, da Reif die Fahrbahn glatt machen kann; nutzen Sie das helle Licht für Fotos.",
+                "hu": "Vezess óvatosan az árnyékos parti utakon, mert a dér csúszóssá teheti az aszfaltot; használd ki az éles téli fényeket a fotózáshoz.",
+                "ro": "Conduceți cu atenție pe drumurile de coastă umbrite, deoarece chiciura poate fi alunecoasă; folosiți lumina clară pentru fotografii.",
+                "en": "Drive carefully on shaded coastal roads where frost can make the surface slippery; use the bright winter light for stunning photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mawgan Porth",
+                "hu": "Mawgan Porth",
+                "ro": "Mawgan Porth",
+                "en": "Mawgan Porth"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege vom Parkplatz zum Strand, um die Kälte nur kurz spüren zu müssen, und wärmen Sie sich danach im Auto wieder auf.",
+                "hu": "Használd ki a parkoló és a strand közti rövid távolságot, hogy csak rövid ideig kelljen a hidegben lenned, majd melegedj fel újra az autóban.",
+                "ro": "Profitați de distanța scurtă de la parcare la plajă pentru a nu sta mult în frig, apoi reîncălziți-vă rapid în interiorul mașinii.",
+                "en": "Take advantage of the short walk from the car park to the beach to minimize time in the cold, then warm up again quickly in your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bedruthan Steps",
+                "hu": "Bedruthan Steps",
+                "ro": "Bedruthan Steps",
+                "en": "Bedruthan Steps"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch für den frühen Sonnenuntergang gegen 17:00 Uhr ein, wenn die Felsen in goldenes Licht getaucht werden.",
+                "hu": "Időzítsd a látogatást a korai, 17:00 körüli naplementére, amikor a sziklák aranyfényben úsznak a téli horizonton.",
+                "ro": "Planificați vizita pentru apusul devreme de la ora 17:00, când stâncile sunt scăldate într-o lumină aurie spectaculoasă.",
+                "en": "Time your visit for the early sunset around 5:00 PM, when the sea stacks are bathed in spectacular golden light against the winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Tumulus (Stätte von)",
+                "hu": "Tumulus (halomsír helye)",
+                "ro": "Tumul (situl)",
+                "en": "Tumulus (site of)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf windige Bedingungen am Standort; parken Sie das Auto so, dass es als Windschutz dient, während Sie kurz die Aussicht genießen.",
+                "hu": "Ügyelj a szeles körülményekre a helyszínen; parkolj úgy az autóval, hogy az szélfogóként szolgáljon, miközben röviden megcsodálod a kilátást.",
+                "ro": "Atenție la condițiile de vânt puternic la sit; parcați mașina astfel încât să servească drept paravan în timp ce admirați scurt peisajul.",
+                "en": "Be aware of windy conditions at the site; park your car so it acts as a windbreak while you briefly step out to enjoy the historical views."
+              }
+            }
+          ]
+        }
       }
     }
   }

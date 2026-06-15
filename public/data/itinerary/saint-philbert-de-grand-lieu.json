@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a városközpont szerény, ám gyönyörű kápolnáinak felfedezésével. Délben a csodálatos Karoling-kori apátság tárja fel évszázadok mély regionális történelmét. Töltse a délutánt a Boulogne park árnyas, békés ösvényein barangolva. Zárja a napot a Grand-Lieu tó nyugodt, elsöprő panorámájával naplemente idején.",
         "ro": "Începeți dimineața explorând capelele modeste, dar frumoase din centrul orașului. La amiază ajungeți la magnifica abație carolingiană, dezvăluind secole de istorie regională. Petreceți-vă după-amiaza plimbându-vă pe cărările umbrite și liniștite ale Parcului Boulogne. Încheiați ziua cu priveliștile ample și liniștite de la Lacul Grand-Lieu.",
         "en": "Start your morning exploring the modest yet beautiful chapels in the town center. Midday brings you to the magnificent Carolingian abbey, revealing centuries of profound regional history. Spend your afternoon wandering the shaded, peaceful paths of Boulogne Park. Conclude your day with the tranquil, sweeping views at Grand-Lieu Lake at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt bei den Kapellen, die guten Schutz vor Regen bieten. Mittags erkunden Sie die trockene, alte Abtei. Nachmittags im Park und am See sind Regenschirm und wasserdichte Schuhe Pflicht. Der Abend endet drinnen mit einem heißen Getränk.",
+            "hu": "A reggel a kápolnáknál indul, melyek remek menedéket nyújtanak az eső elől. Délben az ősi apátság száraz belső tereit fedezhetjük fel. Délután a parkban és a tónál esernyő és vízálló cipő kötelező. Az este egy meleg tea mellett zárul, ahol megszáradhatunk.",
+            "ro": "Dimineața începe la capele, oferind un adăpost excelent împotriva ploii. La prânz, explorați interiorul uscat al vechii abații. După-amiaza în parc și la lac necesită umbrelă și încălțăminte impermeabilă. Seara se încheie cu o băutură caldă la interior.",
+            "en": "Morning starts at the chapels, offering great indoor shelter from the rain. Midday brings you to the ancient abbey where you stay dry. Afternoon walks in the park require an umbrella and waterproof shoes. Evening ends with a warm drink indoors to dry off."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-François",
+                "hu": "Chapelle Saint-François",
+                "ro": "Chapelle Saint-François",
+                "en": "Chapelle Saint-François"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster als Regenschutz; halten Sie einen Regenschirm griffbereit.",
+                "hu": "Csodálja meg az üvegablakokat az eső elől menedéket keresve; tartsa kéznél az esernyőt.",
+                "ro": "Admirați vitraliile în timp ce vă adăpostiți de ploaie; țineți o umbrelă la îndemână.",
+                "en": "Admire the stained glass while sheltering from the rain; keep an umbrella handy for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de Lamoricière",
+                "hu": "Chapelle de Lamoricière",
+                "ro": "Chapelle de Lamoricière",
+                "en": "Chapelle de Lamoricière"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die ruhige Atmosphäre zu genießen und sich vor dem nächsten Stopp abzutrocknen.",
+                "hu": "Lépjen be, hogy élvezze a csendes atmoszférát és megszáradjon a következő megálló előtt.",
+                "ro": "Intrați pentru a aprecia atmosfera liniștită și a vă usca înainte de următoarea oprire.",
+                "en": "Step inside to appreciate the quiet atmosphere and dry off before the next historical stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de l'abbatiale - Déas",
+                "hu": "Site de l'abbatiale - Déas",
+                "ro": "Site de l'abbatiale - Déas",
+                "en": "Site de l'abbatiale - Déas"
+              },
+              "tip_5lang": {
+                "de": "Die alte Abtei bietet tolle Innenräume; seien Sie vorsichtig auf den nassen, rutschigen Steinstufen.",
+                "hu": "Az ősi apátság kiváló beltéri program; vigyázzon a nedves és csúszós kőlépcsőkön.",
+                "ro": "Abația veche oferă o explorare interioară excelentă; aveți grijă la treptele umede de piatră.",
+                "en": "The ancient abbey offers great indoor exploration; be careful on the wet, slippery stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Boulogne Park",
+                "hu": "Boulogne Park",
+                "ro": "Boulogne Park",
+                "en": "Boulogne Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das regengewaschene Grün, aber bleiben Sie auf den gepflasterten Wegen ohne Schlamm.",
+                "hu": "Élvezze a friss, esőmosta növényzetet, de maradjon a burkolt utakon, hogy elkerülje a sarat.",
+                "ro": "Bucurați-vă de verdeața proaspătă, dar rămâneți pe potecile pavate pentru a evita noroiul.",
+                "en": "Enjoy the fresh, rain-washed greenery, but stick to the paved paths to avoid the thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Lieu Lake",
+                "hu": "Grand-Lieu Lake",
+                "ro": "Grand-Lieu Lake",
+                "en": "Grand-Lieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Der neblige See ist bei Regen sehr stimmungsvoll; bringen Sie eine Windjacke und wasserdichte Stiefel mit.",
+                "hu": "A ködös tó lenyűgöző az esőben; hozzon magával erős széldzsekit és vízálló csizmát.",
+                "ro": "Lacul cețos este foarte atmosferic pe ploaie; aduceți o geacă de vânt și cizme impermeabile.",
+                "en": "The misty lake is incredibly atmospheric in the rain; bring a sturdy windbreaker and waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein knackiger Wintermorgen bei den historischen Kapellen. Mittags wärmen Sie sich in der Abtei auf. Der Nachmittagsspaziergang zum See ist schön, aber kalt, tragen Sie warme Schichten. Der Abend beginnt früh mit dem Sonnenuntergang um 17:00 Uhr am See.",
+            "hu": "Csípős téli reggel a történelmi kápolnák felfedezésével. Délben melegedjen fel az ősi apátság vastag falai között. A délutáni séta a parkban és a tónál gyönyörű, de hideg, öltözzön rétegesen. Az este korán, 17:00-kor érkezik a tavi naplementével.",
+            "ro": "Dimineață de iarnă geroasă explorând capele istorice. La prânz, încălziți-vă în vechea abație. Plimbarea de după-amiază prin parc spre lac este frumoasă, dar rece, purtați straturi calde. Seara vine devreme, cu un apus la ora 17:00.",
+            "en": "Crisp winter morning exploring historic chapels. Warm up inside the thick walls of the ancient abbey by midday. The afternoon walk through the park to the lake is beautiful but cold, so dress in layers. Evening arrives early with a 17:00 sunset at the lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-François",
+                "hu": "Chapelle Saint-François",
+                "ro": "Chapelle Saint-François",
+                "en": "Chapelle Saint-François"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Winterstart; die Steinmauern sind kalt, behalten Sie Handschuhe und Schal an.",
+                "hu": "Békés téli kezdés; a kőfalak nagyon hidegek, így bent is tartsa magán a sálat és kesztyűt.",
+                "ro": "Un început de iarnă liniștit; pereții de piatră sunt reci, așa că păstrați mănușile și fularul.",
+                "en": "A peaceful winter start; the stone walls are very cold, so keep your gloves and scarf on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de Lamoricière",
+                "hu": "Chapelle de Lamoricière",
+                "ro": "Chapelle de Lamoricière",
+                "en": "Chapelle de Lamoricière"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie das Winterlicht durch die Fenster; ziehen Sie sich für den zugigen Innenraum warm an.",
+                "hu": "Figyelje meg a beszűrődő téli fényeket; öltözzön melegen a huzatos belső tér miatt.",
+                "ro": "Observați lumina de iarnă prin ferestre; îmbrăcați-vă călduros pentru interiorul răcoros.",
+                "en": "Notice the stark winter light filtering through the windows; dress warmly for the drafty interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de l'abbatiale - Déas",
+                "hu": "Site de l'abbatiale - Déas",
+                "ro": "Site de l'abbatiale - Déas",
+                "en": "Site de l'abbatiale - Déas"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur sticht im Winter hervor; wärmen Sie sich innerhalb der dicken Mauern auf.",
+                "hu": "A fenséges építészet télen is kiemelkedik; melegedjen fel az apátság vastag falai között.",
+                "ro": "Arhitectura maiestuoasă iese în evidență iarna; încălziți-vă în interiorul pereților groși.",
+                "en": "The majestic architecture stands out in winter; take time to warm up inside the thick abbey walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Boulogne Park",
+                "hu": "Boulogne Park",
+                "ro": "Boulogne Park",
+                "en": "Boulogne Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang zwischen kahlen Bäumen; tragen Sie Thermokleidung und achten Sie auf Eis.",
+                "hu": "Frissítő séta a csupasz téli fák között; viseljen termo rétegeket és vigyázzon a jeges utakra.",
+                "ro": "O plimbare alertă printre copacii goi de iarnă; purtați straturi termice și atenție la gheață.",
+                "en": "A brisk walk among bare winter trees; wear thermal layers and watch out for icy patches on paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Lieu Lake",
+                "hu": "Grand-Lieu Lake",
+                "ro": "Grand-Lieu Lake",
+                "en": "Grand-Lieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Wintersonnenuntergang; der Wind ist beißend, tragen Sie einen dicken Mantel.",
+                "hu": "Csípje el a korai téli naplementét a víz felett; a szél itt metsző, viseljen vastag kabátot.",
+                "ro": "Prindeți spectaculosul apus de iarnă peste apă; vântul este tăios, purtați o haină groasă.",
+                "en": "Catch the spectacular early winter sunset over the water; the wind here is biting, wear a heavy coat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros túráját a történelmi apátságnál, magába szívva annak ősi hangulatát. Tekerjen a nyugodt kápolnák felé, majd élvezze a Grand-Lieu tó hatalmas természeti szépségét délben. Lovagoljon dél felé a festői vidéken, hogy felfedezze a fenséges Château de la Noë-t. Fejezze be aktív napját az elegáns Jamonnières kastélyban.",
         "ro": "Începeți călătoria cu bicicleta la abația istorică, absorbind atmosfera sa veche. Pedalați spre capelele senine înainte de a vă bucura de frumusețea lacului Grand-Lieu la prânz. Mergeți spre sud prin peisajul pitoresc pentru a descoperi maiestuosul Château de la Noë. Încheiați-vă ziua activă explorând elegantul Castel Jamonnières.",
         "en": "Kick off your cycling journey at the historic abbey, absorbing its ancient atmosphere. Pedal towards the serene chapels before enjoying the vast natural beauty of Grand-Lieu Lake around noon. Ride southwards through the scenic countryside to discover the majestic Château de la Noë. Finish your active day exploring the elegant Jamonnières Castle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Morgenfahrt bei Abtei und Kapelle mit Schutz vor Regen. Mittags zum See und zu den Schlössern brauchen Sie Regenkleidung. Nachmittags sind Wege rutschig, bremsen Sie früh. Der Abend lockt mit warmem Essen.",
+            "hu": "Esős reggeli tekerés az apátsághoz és a kápolnához, melyek azonnali menedéket adnak. Délben a tóhoz és a kastélyokhoz jó esőruha kell. Délután az utak csúszósak, fékezzen korán. Az este egy jól megérdemelt meleg vacsorával érkezik.",
+            "ro": "Începeți plimbarea umedă de dimineață la abație și capelă, care oferă adăpost. La prânz, pedalarea spre lac și castele necesită echipament de ploaie. După-amiaza potecile sunt alunecoase. Seara se încheie cu o masă caldă.",
+            "en": "Begin your wet morning ride at the abbey and chapel, which offer immediate shelter. Midday cycling to the lake and castles requires good rain gear. Afternoon paths will be slippery, so brake early and ride safely. Evening arrives with a well-deserved hot meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Site de l'abbatiale - Déas",
+                "hu": "Site de l'abbatiale - Déas",
+                "ro": "Site de l'abbatiale - Déas",
+                "en": "Site de l'abbatiale - Déas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad geschützt und erkunden Sie das trockene Innere dieser historischen Stätte.",
+                "hu": "Parkolja le a biciklit fedett helyen, és fedezze fel a történelmi helyszín száraz belső terét.",
+                "ro": "Parcați bicicleta la adăpost și explorați interiorul uscat al acestui sit istoric fascinant.",
+                "en": "Park your bike under shelter and explore the dry, fascinating interior of this historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-François",
+                "hu": "Chapelle Saint-François",
+                "ro": "Chapelle Saint-François",
+                "en": "Chapelle Saint-François"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Trocknen; Vorsicht beim Aufsteigen, nasses Kopfsteinpflaster ist rutschig.",
+                "hu": "Gyors megálló megszáradni; vigyázzon a felszállásnál, a nedves macskakő nagyon csúszós.",
+                "ro": "O oprire rapidă pentru a vă usca; aveți grijă la urcare, pietrele umede pot fi alunecoase.",
+                "en": "A quick stop to dry off; be careful when remounting as wet cobblestones can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Lieu Lake",
+                "hu": "Grand-Lieu Lake",
+                "ro": "Grand-Lieu Lake",
+                "en": "Grand-Lieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht bei Regen dramatisch aus; achten Sie auf Schutzbleche für die nassen Wege.",
+                "hu": "A tó drámai az esőben; győződjön meg róla, hogy van sárvédője a nedves ösvények miatt.",
+                "ro": "Lacul arată dramatic în ploaie; asigurați-vă că bicicleta are apărători pentru noroi.",
+                "en": "The lake looks dramatic in the rain; make sure your bike has mudguards to handle the wet trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë",
+                "hu": "Château de la Noë",
+                "ro": "Château de la Noë",
+                "en": "Château de la Noë"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im Regen; tragen Sie eine helle, wasserdichte Radjacke für Sichtbarkeit.",
+                "hu": "Csodálja meg a kastély homlokzatát az esőben; viseljen élénk, vízálló esőkabátot a láthatóságért.",
+                "ro": "Admirați fațada castelului prin ploaie; purtați o jachetă de ciclism impermeabilă și vizibilă.",
+                "en": "Admire the castle's facade through the rain; wear a bright, waterproof cycling jacket for visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Jamonnières Castle",
+                "hu": "Jamonnières Castle",
+                "ro": "Jamonnières Castle",
+                "en": "Jamonnières Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen ist bei Regen üppig grün; bremsen Sie sanft auf den schlammigen Wegen zum Schloss.",
+                "hu": "A birtok buja az esőtől; fékezzen óvatosan a történelmi kastélyhoz vezető saras utakon.",
+                "ro": "Domeniul este luxuriant când plouă; frânați ușor pe drumurile noroioase spre castelul istoric.",
+                "en": "The estate grounds are lush when wet; brake gently on the muddy approaches to the historical castle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad beginnt an der Abtei. Mittags zum See ist es eisig, tragen Sie Thermohandschuhe. Nachmittags schwindet das Licht. Beenden Sie die Tour vor dem Sonnenuntergang um 17:00 und wärmen Sie sich abends auf.",
+            "hu": "Frissítő téli reggeli tekerés az apátságnál. Délben a tó és a kastélyok gyönyörűek, de fagyosak, viseljen termo kesztyűt. Délután a fény gyorsan halványul. Fejezze be az utat a korai 17:00-s naplementére, és melegedjen fel este.",
+            "ro": "O dimineață de iarnă pe bicicletă la abație. La prânz, drumul spre lac și castele e superb, dar înghețat. Lumina de după-amiază scade rapid. Terminați plimbarea până la apusul de la 17:00 și încălziți-vă la interior seara.",
+            "en": "A brisk winter cycling morning starts at the abbey. Midday riding to the lake and castles is beautiful but freezing, so wear thermal gloves. The afternoon light fades fast. Plan to finish your ride by the early 17:00 sunset and warm up indoors for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Site de l'abbatiale - Déas",
+                "hu": "Site de l'abbatiale - Déas",
+                "ro": "Site de l'abbatiale - Déas",
+                "en": "Site de l'abbatiale - Déas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier; die dicken Steinmauern halten die Kälte, lassen Sie die Thermojacke geschlossen.",
+                "hu": "Kezdje itt a téli utat; a kőfalak tartják a hideget, így hagyja becipzározva a termo kabátját.",
+                "ro": "Începeți plimbarea de iarnă aici; pereții reci de piatră necesită o jachetă termică bine închisă.",
+                "en": "Start your winter ride here; the thick stone walls hold the cold, so keep your thermal jacket zipped."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-François",
+                "hu": "Chapelle Saint-François",
+                "ro": "Chapelle Saint-François",
+                "en": "Chapelle Saint-François"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Winterstopp; strecken Sie die Beine und wärmen Sie die Hände vor der Weiterfahrt.",
+                "hu": "Békés téli megálló; nyújtóztassa ki a lábait és melegítse fel fagyos kezeit indulás előtt.",
+                "ro": "O oprire senină de iarnă; întindeți picioarele și încălziți mâinile înghețate înainte de a pleca.",
+                "en": "A serene winter stop; stretch your legs and warm your freezing hands before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Lieu Lake",
+                "hu": "Grand-Lieu Lake",
+                "ro": "Grand-Lieu Lake",
+                "en": "Grand-Lieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft bietet klare Sicht; tragen Sie winddichte Kleidung gegen die beißende Brise.",
+                "hu": "A csípős téli levegő tiszta kilátást nyújt; viseljen szélálló felszerelést a metsző szél ellen.",
+                "ro": "Aerul rece de iarnă oferă vederi clare; purtați echipament rezistent la vântul tăios.",
+                "en": "The crisp winter air offers clear views; wear windproof cycling gear to block the biting breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë",
+                "hu": "Château de la Noë",
+                "ro": "Château de la Noë",
+                "en": "Château de la Noë"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten freie Sicht aufs Schloss; Vorsicht vor Glatteis auf schattigen Wegen.",
+                "hu": "A csupasz fák remek rálátást adnak a kastélyra; vigyázzon a fekete jégre az árnyékos utakon.",
+                "ro": "Copacii goi oferă o vedere excelentă spre castel; atenție la gheața neagră pe drumurile umbrite.",
+                "en": "The bare trees offer a great view of the castle; watch out for black ice on the shaded approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Jamonnières Castle",
+                "hu": "Jamonnières Castle",
+                "ro": "Jamonnières Castle",
+                "en": "Jamonnières Castle"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im schwindenden Winterlicht; achten Sie auf geladene Fahrradlichter.",
+                "hu": "Fejezze be a tekerést, ahogy a téli fény halványul; ellenőrizze a kerékpárlámpák töltöttségét.",
+                "ro": "Terminați plimbarea când lumina scade; asigurați-vă că luminile bicicletei sunt încărcate.",
+                "en": "Finish your ride as the early winter light fades; ensure your bike lights are bright and charged."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Vezessen a külvárosba, hogy a reggeli fényben a festői Villa des Bretaudières-nél kezdjen. Navigáljon a Château de la Noë felé, majd folytassa útját a Jamonnières kastélyhoz. Késő délután térjen vissza a városba, hogy meglátogassa a híres apátságot. Zárja autós kirándulását a Grand-Lieu tó partján.",
         "ro": "Conduceți spre periferie pentru a începe dimineața la pitoreasca Villa des Bretaudières. Navigați spre Château de la Noë, apoi continuați către Castelul Jamonnières. Întoarceți-vă în oraș pentru a vizita renumita abație în cursul după-amiezii. Încheiați-vă excursia cu mașina pe malurile întinse ale Lacului Grand-Lieu.",
         "en": "Drive to the outskirts to begin at the picturesque Villa des Bretaudières in the morning light. Navigate towards Château de la Noë, a testament to local noble heritage, before continuing to Jamonnières Castle. Head back into town to visit the renowned abbey in the late afternoon. End your road trip at the expansive shores of Grand-Lieu Lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine bequeme regnerische Fahrt am Morgen zu Villen und Schlössern. Mittags bietet das trockene Innere der Abtei Schutz. Der Nachmittag am See ist neblig. Abends erfordern nasse Straßen Vorsicht auf dem Weg zum warmen Abendessen.",
+            "hu": "Kényelmes esős reggeli autózás az impozáns villák és kastélyok között. Délben az apátság száraz, fedett belső tere nyújt menedéket. A délután a tónál ködös. Az esti vezetés óvatosságot igényel a nedves utakon egy meleg vacsora felé.",
+            "ro": "O plimbare confortabilă cu mașina pe ploaie printre vile și castele. La prânz vă adăpostiți în interiorul uscat al abației. După-amiaza la lac este cețoasă. Condusul de seară necesită prudență pe drumurile umede.",
+            "en": "A convenient rainy morning drive between impressive villas and castles. Midday brings you to the dry, sheltering interior of the abbey. Afternoon at the lake is misty and atmospheric. Evening driving requires caution on wet roads as you head to a warm dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa des Bretaudières",
+                "hu": "Villa des Bretaudières",
+                "ro": "Villa des Bretaudières",
+                "en": "Villa des Bretaudières"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem warmen Auto, bevor Sie mit Schirm nach draußen gehen.",
+                "hu": "Élvezze a kilátást az autó melegéből, mielőtt esernyővel kilépne a részletekért.",
+                "ro": "Bucurați-vă de vedere din căldura mașinii înainte de a ieși cu o umbrelă pentru detalii.",
+                "en": "Enjoy the view from the warmth of your car before stepping out with an umbrella to see details."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë",
+                "hu": "Château de la Noë",
+                "ro": "Château de la Noë",
+                "en": "Château de la Noë"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Stein sieht großartig aus; parken Sie nah, um lange Wege im Regen zu vermeiden.",
+                "hu": "A nedves kő lenyűgöző; parkoljon közel, hogy elkerülje a hosszú sétát az esőben.",
+                "ro": "Piatra umedă arată magnific; parcați aproape pentru a evita o plimbare lungă prin ploaie.",
+                "en": "The wet stone looks magnificent; park close to avoid a long walk in the rain and wear boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Jamonnières Castle",
+                "hu": "Jamonnières Castle",
+                "ro": "Jamonnières Castle",
+                "en": "Jamonnières Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Straßen; der Regen sorgt für eine romantische Atmosphäre.",
+                "hu": "Vezessen óvatosan a nedves birtoki utakon; az eső hangulatos, romantikus atmoszférát ad itt.",
+                "ro": "Conduceți cu grijă pe drumurile umede ale domeniului; ploaia adaugă o atmosferă romantică.",
+                "en": "Drive carefully on the wet estate roads; the rain adds a moody, romantic atmosphere here."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de l'abbatiale - Déas",
+                "hu": "Site de l'abbatiale - Déas",
+                "ro": "Site de l'abbatiale - Déas",
+                "en": "Site de l'abbatiale - Déas"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Innen-Zufluchtsort; achten Sie auf rutschige Steine in der Nähe des Eingangs.",
+                "hu": "Tökéletes beltéri menedék a felhőszakadás elől; vigyázzon a csúszós köveken a bejáratnál.",
+                "ro": "Un refugiu perfect la interior; aveți grijă la pietrele alunecoase de lângă intrare.",
+                "en": "A perfect indoor refuge from the downpour; watch your step on slippery stones near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Lieu Lake",
+                "hu": "Grand-Lieu Lake",
+                "ro": "Grand-Lieu Lake",
+                "en": "Grand-Lieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Wasser; bleiben Sie ohne Regenkleidung nah am Parkplatz.",
+                "hu": "Nézze, ahogy az eső táncol a vízen; maradjon közel a parkolóhoz esőruha nélkül.",
+                "ro": "Priviți ploaia dansând pe apă; stați aproape de parcare dacă nu aveți echipament de ploaie.",
+                "en": "Watch the rain dance on the water; stay close to the parking area unless you have full rain gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie bequem mit dem Auto an einem Wintermorgen. Besuchen Sie die Villen, bevor Sie mittags in die Abtei gehen. Der Nachmittag am See ist spektakulär. Beenden Sie die Fahrt mit dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kényelmes autós felfedezés egy csípős téli reggelen. Látogassa meg a villákat, mielőtt délben az apátságba megy. A délután a tónál látványos. Fejezze be az utat a korai, 17:00-s naplementével egy hangulatos, beltéri este előtt.",
+            "ro": "Explorați confortabil cu mașina într-o dimineață de iarnă. Vizitați vilele grandioase înainte de a ajunge la abație la prânz. După-amiaza la lac este spectaculoasă. Terminați cu apusul de la ora 17:00, urmat de o seară caldă.",
+            "en": "Explore comfortably by car during a crisp winter morning. Visit the grand villas before heading to the cool but enclosed abbey for midday. Afternoon at the lake offers a spectacular sight. End your drive with the early 17:00 sunset before a cozy evening indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa des Bretaudières",
+                "hu": "Villa des Bretaudières",
+                "ro": "Villa des Bretaudières",
+                "en": "Villa des Bretaudières"
+              },
+              "tip_5lang": {
+                "de": "Der Winterfrost unterstreicht die Schönheit des Anwesens; lassen Sie die Autoheizung an.",
+                "hu": "A téli dér kiemeli a birtok szépségét; hagyja menni a fűtést az autóban a gyors felmelegedéshez.",
+                "ro": "Înghețul de iarnă evidențiază frumusețea domeniului; țineți căldura pornită în mașină.",
+                "en": "The winter frost highlights the estate's beauty; keep the car heater running for quick warm-ups."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë",
+                "hu": "Château de la Noë",
+                "ro": "Château de la Noë",
+                "en": "Château de la Noë"
+              },
+              "tip_5lang": {
+                "de": "Kahle Bäume bieten freie Sicht auf das Schloss; ziehen Sie sich für den kurzen Spaziergang warm an.",
+                "hu": "A lombtalan fák zavartalan kilátást adnak a kastélyra; öltözzön melegen a rövid kinti sétához.",
+                "ro": "Copacii fără frunze oferă vederi neobstrucționate; îmbrăcați-vă cald pentru o scurtă plimbare.",
+                "en": "Leafless trees provide unobstructed views of the castle; dress warmly for the short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jamonnières Castle",
+                "hu": "Jamonnières Castle",
+                "ro": "Jamonnières Castle",
+                "en": "Jamonnières Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Anblick in der Winterluft; Vorsicht vor Glatteis auf ländlichen Zufahrten.",
+                "hu": "Fenséges látvány a csípős téli levegőben; vigyázzon a fekete jégre a vidéki megközelítő utakon.",
+                "ro": "O priveliște maiestuoasă în aerul rece; atenție la gheața neagră pe drumurile rurale.",
+                "en": "A majestic sight in the crisp winter air; watch out for black ice on the rural approach roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de l'abbatiale - Déas",
+                "hu": "Site de l'abbatiale - Déas",
+                "ro": "Site de l'abbatiale - Déas",
+                "en": "Site de l'abbatiale - Déas"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Architektur; der Innenraum ist ungeheizt, tragen Sie Ihren Wintermantel drinnen.",
+                "hu": "Fedezze fel a lenyűgöző építészetet; a belső tér fűtetlen, így viselje a vastag télikabátot bent is.",
+                "ro": "Explorați arhitectura uimitoare; interiorul este neîncălzit, purtați haina de iarnă înăuntru.",
+                "en": "Explore the stunning architecture; the interior is unheated, so wear your heavy winter coat inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand-Lieu Lake",
+                "hu": "Grand-Lieu Lake",
+                "ro": "Grand-Lieu Lake",
+                "en": "Grand-Lieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie für den Sonnenuntergang um 17:00 Uhr hierher; die eisigen Winde erfordern eine Mütze.",
+                "hu": "Vezessen ide a 17:00-s téli naplementére; a víz felől fújó jeges szél miatt a meleg sapka kötelező.",
+                "ro": "Conduceți aici pentru apusul de la ora 17:00; vânturile reci fac o căciulă caldă obligatorie.",
+                "en": "Drive here for the 17:00 winter sunset; the icy winds off the water make a warm hat mandatory."
+              }
+            }
+          ]
+        }
       }
     }
   }

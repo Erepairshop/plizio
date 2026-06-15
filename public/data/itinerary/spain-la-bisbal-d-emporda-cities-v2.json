@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az impozáns Castell de La Bisbal d'Empordà felfedezésével. Ahogy közeledik a dél, csodálja meg a Santa Maria szépségét, majd térjen be a Brava! Performing Arts központba. A délutánt teljesen a Terracotta Kerámiamúzeumnak szentelheti. Végül töltsön egy pihentető estét a kortárs művészetet bemutató Espai Tònic kiállításain.",
         "ro": "Începeți dimineața explorând impunătorul Castell de La Bisbal d'Empordà. Pe măsură ce se apropie amiaza, admirați frumusețea bisericii Santa Maria înainte de a opri la Brava! Performing Arts. După-amiaza este dedicată în întregime Muzeului de Ceramică Terracotta. În cele din urmă, petreceți o seară relaxată admirând lucrările contemporane la Espai Tònic.",
         "en": "Start your morning exploring the imposing Castell de La Bisbal d'Empordà. As midday approaches, admire the architectural beauty of Santa Maria before stopping by the Brava! Performing Arts space. Your afternoon is completely dedicated to the Terracotta Ceramics Museum, showcasing the town's pottery heritage. Finally, spend a relaxed evening soaking in contemporary works at Espai Tònic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie das Schloss, dessen dicke Mauern Sie vor dem Regen schützen. \n\nMittags besuchen Sie die Kirche Santa Maria und das Kunstzentrum als trockene Zufluchtsorte. \n\nNachmittags bietet das Terracotta-Museum einen idealen, überdachten Ort für Kultur. \n\nAbends lassen Sie den Tag im Espai Tònic ausklingen, während der Regen gemütlich gegen die Scheiben prasselt.",
+            "hu": "A délelőttöt a várkastély masszív falai között töltjük, védve az esőtől. \n\nDélben a Santa Maria templom és a közeli művészeti központ kínál fedett programot. \n\nDélután a tágas Terracotta Múzeum csarnokaiban kalandozunk teljesen szárazon. \n\nAz estét az Espai Tònic galériájában fejezzük be, élvezve a modern művészetet, miközben odakint elered az eső.",
+            "ro": "Dimineața explorăm castelul, zidurile sale groase oferind adăpost împotriva ploii. \n\nLa prânz vizităm biserica Santa Maria și centrul de arte ca refugii uscate. \n\nDupă-amiaza, muzeul de ceramică Terracotta este locul ideal și acoperit pentru cultură. \n\nSeara se încheie la Espai Tònic, unde arta modernă ne încântă în timp ce ploaia bate ritmic în ferestre.",
+            "en": "Morning begins at the castle, where thick walls keep you dry from the drizzle. \n\nAt noon, Santa Maria and the arts center provide indoor shelter between short walks. \n\nAfternoon is perfect for the spacious Terracotta Museum, a completely covered cultural haven. \n\nThe evening concludes at Espai Tònic gallery, enjoying contemporary exhibits while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de La Bisbal d'Empordà",
+                "hu": "Castell de La Bisbal d'Empordà",
+                "ro": "Castell de La Bisbal d'Empordà",
+                "en": "Castell de La Bisbal d'Empordà"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Gewölbe und Innenräume, die perfekten Schutz vor dem Regen bieten; nutzen Sie unbedingt die überdachten Gänge im Hof, um trocken zu bleiben.",
+                "hu": "Csodáld meg a lenyűgöző gótikus boltíveket és a belső tereket, amelyek remek menedéket nyújtanak; használd ki a belső udvar fedett folyosóit a szárazon maradáshoz.",
+                "ro": "Admirați bolțile gotice impresionante și interioarele care oferă adăpost perfect împotriva ploii; folosiți neapărat coridoarele acoperite din curtea interioară.",
+                "en": "Admire the impressive Gothic vaults and interior rooms that offer perfect shelter from the rain; make sure to use the covered walkways in the courtyard to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das barocke Kirchenschiff für einen Moment der Stille; achten Sie auf die Stufen am Eingang, da sie bei Nässe extrem rutschig sein können, gehen Sie vorsichtig.",
+                "hu": "Látogass el a barokk hajóba egy csendes és száraz pillanatra; ügyelj a templom bejáratánál lévő lépcsőkre, mert esőben rendkívül csúszósak lehetnek, légy nagyon óvatos.",
+                "ro": "Vizitați nava barocă pentru un moment de liniște și uscăciune; atenție la treptele de la intrare, pot fi extrem de alunecoase pe timp de ploaie, mergeți cu mare grijă.",
+                "en": "Visit the Baroque nave for a moment of peace and dryness; be extremely careful with the entrance steps as they can be very slippery when wet, so watch your footing."
+              }
+            },
+            {
+              "name": {
+                "de": "Brava! Performing Arts",
+                "hu": "Brava! Performing Arts",
+                "ro": "Brava! Performing Arts",
+                "en": "Brava! Performing Arts"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunst in diesem kreativen Innenraum, während es draußen regnet; prüfen Sie das aktuelle Programm für kurzfristige Indoor-Events oder Workshops.",
+                "hu": "Élvezd a kortárs művészetet ebben a kreatív belső térben, miközben kint esik; nézd meg az aktuális programot a fedett eseményekért vagy az érdekes benti workshopokért.",
+                "ro": "Bucurați-vă de arta contemporană în acest spațiu creativ de interior în timp ce plouă; verificați programul actual pentru evenimente indoor sau ateliere interesante.",
+                "en": "Enjoy contemporary art in this creative indoor space while it rains; check the current schedule for any indoor performances or workshops to stay entertained and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "The Terracotta Ceramics Museum",
+                "hu": "The Terracotta Ceramics Museum",
+                "ro": "The Terracotta Ceramics Museum",
+                "en": "The Terracotta Ceramics Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Keramikgeschichte in den riesigen, trockenen Industriehallen; planen Sie hier viel Zeit ein, um dem starken Regen draußen gemütlich zu entkommen.",
+                "hu": "Fedezd fel a kerámiagyártás történetét a hatalmas, száraz ipari csarnokokban; szánj rá bőven időt, amíg odakint eláll az eső, és élvezd a kiállítás minden részletét.",
+                "ro": "Descoperiți istoria ceramicii în halele industriale vaste și uscate; planificați mult timp aici pentru a scăpa de ploaia de afară și a explora toate exponatele muzeului.",
+                "en": "Explore the history of ceramics in the vast, dry industrial halls; plan plenty of time here to stay comfortably out of the rain while learning about local craftsmanship."
+              }
+            },
+            {
+              "name": {
+                "de": "Espai Tònic",
+                "hu": "Espai Tònic",
+                "ro": "Espai Tònic",
+                "en": "Espai Tònic"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die innovativen Ausstellungen in dieser trockenen Galerie; der kurze Weg vom Museum erfordert bei diesem Wetter einen stabilen und windfesten Regenschirm.",
+                "hu": "Fedezd fel az innovatív kiállításokat ebben a száraz galériában; a múzeumtól tartó rövid sétához vigyél egy strapabíró és szélálló esernyőt a biztonság kedvéért.",
+                "ro": "Explorați expozițiile inovatoare în această galerie uscată; scurta plimbare de la muzeu necesită o umbrelă rezistentă la vânt pentru a nu vă uda pe drumul spre intrare.",
+                "en": "Explore the innovative exhibitions in this dry gallery space; the short walk from the museum requires a sturdy and windproof umbrella to ensure you stay dry on the way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Schloss mit klarer Luft und weiten Ausblicken. \n\nMittags wärmen Sie sich in der Kirche und im Kunstzentrum auf, bevor die Sonne tiefer sinkt. \n\nDer Nachmittag gehört dem Terracotta-Museum mit seinem warmen Licht. \n\nAbends, wenn es früh dunkel wird, bietet Espai Tònic eine gemütliche und einladende Atmosphäre.",
+            "hu": "A friss téli reggel a várkastélynál indul, tiszta levegővel és pazar kilátással. \n\nDélben a templom és a művészeti központ falai között melegedhetünk fel a séták után. \n\nA délutánt a Terracotta Múzeumban töltjük, ahol a rövid nappalok fénye világítja meg a tárlatot. \n\nEste, a korai sötétedéskor az Espai Tònic galériája nyújt meghitt hangulatot.",
+            "ro": "O dimineață răcoroasă de iarnă începe la castel cu aer curat și priveliști largi. \n\nLa prânz ne încălzim în biserică și la centrul de arte înainte ca soarele să apună devreme. \n\nDupă-amiaza aparține muzeului Terracotta, unde lumina zilelor scurte luminează ceramica. \n\nSeara, când se întunecă repede, Espai Tònic oferă o atmosferă primitoare și caldă.",
+            "en": "A crisp winter morning starts at the castle with clear air and panoramic views. \n\nAt noon, warm up inside the church and arts center before the sun begins to dip. \n\nAfternoon is spent at the Terracotta Museum, where short daylight hours cast a warm glow. \n\nAs darkness falls early, Espai Tònic provides a cozy and inviting indoor atmosphere for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de La Bisbal d'Empordà",
+                "hu": "Castell de La Bisbal d'Empordà",
+                "ro": "Castell de La Bisbal d'Empordà",
+                "en": "Castell de La Bisbal d'Empordà"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht von den oberen Etagen; tragen Sie warme Schichten, da es in den zugigen Steingängen im Winter recht kühl sein kann, trotz der Sonne.",
+                "hu": "Élvezd a tiszta kilátást a felső szintekről; öltözz rétegesen, mert a köves, huzatos folyosókon télen meglehetősen hűvös lehet a kinti napsütés ellenére is.",
+                "ro": "Bucurați-vă de priveliștea clară de la etajele superioare; purtați haine groase, deoarece coridoarele de piatră pot fi reci iarna în ciuda soarelui de afară.",
+                "en": "Enjoy the clear views from the upper floors; wear warm layers as the stone corridors can be quite chilly during the winter months despite the outdoor sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails der Kirche, während Sie sich vor dem Wind schützen; nutzen Sie die Mittagszeit für die wärmsten und schönsten Lichtspiele im Inneren.",
+                "hu": "Csodáld meg a templom belső díszítését, miközben menedéket keresel a szél elől; a déli órákban a legszebbek és legmelegebbek a fények a belső térben.",
+                "ro": "Admirați detaliile interioare ale bisericii în timp ce vă adăpostiți de vânt; profitați de amiază pentru cele mai frumoase și calde jocuri de lumină din interior.",
+                "en": "Admire the interior details of the church while seeking shelter from the wind; use the noon hours for the best and warmest lighting effects inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Brava! Performing Arts",
+                "hu": "Brava! Performing Arts",
+                "ro": "Brava! Performing Arts",
+                "en": "Brava! Performing Arts"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie kulturelle Highlights in gemütlicher Indoor-Umgebung; dies ist der ideale Ort, um der Kälte des Nachmittags für eine Weile komfortabel zu entfliehen.",
+                "hu": "Fedezd fel a kulturális fénypontokat a kellemes belső térben; ideális helyszín, hogy egy időre kényelmesen elmenekülj a délutáni hideg és a csípős szél elől.",
+                "ro": "Experimentați momente culturale într-un mediu interior confortabil; este ideal pentru a scăpa de frigul de afară pentru o vreme în acest spațiu artistic primitor.",
+                "en": "Experience cultural highlights in a comfortable indoor setting; it is ideal for escaping the afternoon cold for a while in this welcoming and creative artistic space."
+              }
+            },
+            {
+              "name": {
+                "de": "The Terracotta Ceramics Museum",
+                "hu": "The Terracotta Ceramics Museum",
+                "ro": "The Terracotta Ceramics Museum",
+                "en": "The Terracotta Ceramics Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag, um das natürliche Licht zu nutzen, bevor die Sonne im Winter bereits gegen 17:00 Uhr hinter dem Horizont verschwindet.",
+                "hu": "Látogasd meg a múzeumot kora délután, hogy kihasználd a természetes fényeket, mielőtt a nap télen már 17:00 körül lenyugszik a látóhatár mögött.",
+                "ro": "Vizitați muzeul după-amiaza devreme pentru a profita de lumina naturală înainte ca soarele să apună în jurul orei 17:00 în timpul sezonului rece de iarnă.",
+                "en": "Visit the museum in the early afternoon to enjoy natural light before the sun sets around 17:00 during the winter season, ensuring you see all the ceramic details."
+              }
+            },
+            {
+              "name": {
+                "de": "Espai Tònic",
+                "hu": "Espai Tònic",
+                "ro": "Espai Tònic",
+                "en": "Espai Tònic"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Kunst in der beleuchteten Galerie am Abend; ein kurzer Spaziergang durch die kühle Abendluft schließt Ihren Erlebnistag perfekt ab.",
+                "hu": "Élvezd a modern művészetet a kivilágított galériában; a hűvös esti levegőn tett rövid séta a múzeumtól tökéletesen zárja ezt a tartalmas téli napot.",
+                "ro": "Bucurați-vă de arta modernă în galeria iluminată seara; o scurtă plimbare prin aerul rece de seară încheie în mod ideal această zi de iarnă plină de cultură.",
+                "en": "Enjoy modern art in the illuminated gallery in the evening; a short walk through the cool evening air from the museum completes your winter day perfectly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Tekerjen egyenesen La Bisbal történelmi szívébe, és látogassa meg a fő kastélyt és a központi templomot. Délben merüljön el a régió híres fazekas történelmében a Terracotta Múzeumban. Délután biciklizzen Vulpellac felé, hogy megnézze a városházát és a középkori nekropoliszt. Zárja a túrát a rusztikus Santa Maria de Fonteta templomnál.",
         "ro": "Pedalați direct în inima istorică a orașului La Bisbal cu o vizită matinală la castelul principal și biserica centrală. La amiază, explorați istoria ceramicii la Muzeul Terracotta, urmată de arta de la Espai Tònic. După-amiaza, mergeți cu bicicleta spre Vulpellac pentru a vedea primăria și necropola. Încheiați plimbarea la rustica Santa Maria de Fonteta.",
         "en": "Pedal your way straight to the historic heart of La Bisbal with a morning visit to the main castle and the central church. At midday, dive into the region's famous pottery history at the Terracotta Museum followed by modern art at Espai Tònic. For the afternoon, cycle out towards Vulpellac to see its charming town hall and medieval necropolis. Conclude your ride at the rustic Santa Maria de Fonteta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt zum Schloss auf nassen Straßen. \n\nMittags bieten die Kirche und das Keramikmuseum wichtige trockene Pausen für Radfahrer. \n\nNachmittags erkunden Sie die Umgebung, wobei Sie auf rutschigen Wegen bei der Nekropole achten. \n\nDer Abend endet in Fonteta, wo Sie sich nach der feuchten Tour unterstellen können.",
+            "hu": "A nap óvatos kerékpározással indul a vizes aszfalton a várkastély felé. \n\nDélben a templom és a kerámiamúzeum nyújt fontos száraz pihenőt a bringásoknak. \n\nDélután a környéket fedezzük fel, de a nekropolisz felé vezető úton ügyeljünk a sárra. \n\nAz este Fontetában ér véget, ahol fedett helyet kereshetünk a vizes túra után.",
+            "ro": "Ziua începe cu o plimbare precaută spre castel pe drumuri ude și alunecoase. \n\nLa prânz, biserica și muzeul de ceramică oferă pauze uscate esențiale pentru bicicliști. \n\nDupă-amiaza explorăm împrejurimile, având grijă la drumurile noroioase de lângă necropolă. \n\nSeara se încheie la Fonteta, unde ne putem adăposti după tura umedă.",
+            "en": "The day begins with a cautious ride to the castle on wet and slippery roads. \n\nAt noon, the church and ceramics museum provide essential dry breaks for cyclists to warm up. \n\nIn the afternoon, explore the surroundings, being careful on muddy paths near the necropolis. \n\nThe evening ends in Fonteta, where you can find shelter after your damp bike tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de La Bisbal d'Empordà",
+                "hu": "Castell de La Bisbal d'Empordà",
+                "ro": "Castell de La Bisbal d'Empordà",
+                "en": "Castell de La Bisbal d'Empordà"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und erkunden Sie die trockenen Innenräume; Vorsicht beim Absteigen auf nassem und rutschigem Kopfsteinpflaster im Ort.",
+                "hu": "Parkold a bringát védett helyen, és fedezd fel a száraz belső tereket; vigyázz a leszálláskor a nedves és rendkívül csúszós macskaköveken az óvárosban.",
+                "ro": "Parcați bicicleta într-un loc protejat și explorați interioarele uscate; atenție sporită la coborârea de pe bicicletă pe pavajul ud și alunecos din centru.",
+                "en": "Park your bike in a sheltered spot and explore the dry interiors; be extra careful when dismounting on the wet and slippery cobblestone streets in the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch für eine kurze Regenpause; stellen Sie sicher, dass Ihre Bremsen nach der Fahrt auf nassen Straßen einwandfrei funktionieren und greifen.",
+                "hu": "Használd ki a templomlátogatást egy rövid esőpihenőre; győződj meg róla, hogy a fékeid jól fognak a vizes utakon tett tekerés után, mielőtt továbbindulnál.",
+                "ro": "Folosiți vizita la biserică pentru o scurtă pauză de ploaie; asigurați-vă că frânele funcționează corect după mersul prin ploaie pe drumurile ude din oraș.",
+                "en": "Use the church visit for a short break from the rain; make sure your brakes are working properly and responding well after riding in these wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "The Terracotta Ceramics Museum",
+                "hu": "The Terracotta Ceramics Museum",
+                "ro": "The Terracotta Ceramics Museum",
+                "en": "The Terracotta Ceramics Museum"
+              },
+              "tip_5lang": {
+                "de": "Die großen Hallen sind perfekt, um Kleidung zu trocknen und Keramik zu sehen; nutzen Sie die Fahrradständer in unmittelbarer Nähe des geschützten Haupteingangs.",
+                "hu": "A hatalmas csarnokok tökéletesek a ruhák szárítására és a kerámiák megcsodálására; használd a bejárat közeli biciklitárolókat a bringák biztonságos lezárásához.",
+                "ro": "Halele mari sunt perfecte pentru a vă usca hainele și a vedea ceramica; folosiți rastelurile de biciclete de lângă intrarea principală protejată de ploaie.",
+                "en": "The large halls are perfect for drying off and seeing the ceramics; use the bike racks located conveniently near the main entrance to keep your bike secure."
+              }
+            },
+            {
+              "name": {
+                "de": "Espai Tònic",
+                "hu": "Espai Tònic",
+                "ro": "Espai Tònic",
+                "en": "Espai Tònic"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei moderner Kunst auf, bevor Sie die Fahrt fortsetzen; ein stabiles Schutzblech am Rad ist bei diesem regnerischen Wetter absolut unerlässlich.",
+                "hu": "Melegedj fel a modern művészetek között, mielőtt folytatnád az utat; a sárvédő elengedhetetlen a bringán ilyen időben, hogy megvédjen a felcsapódó víztől.",
+                "ro": "Încălziți-vă printre operele de artă modernă înainte de a pleca; o aripă de protecție la bicicletă este absolut esențială pe acest timp ploios și umed.",
+                "en": "Warm up among the modern art pieces before continuing your ride; a sturdy fender on your bike is absolutely essential in this rainy weather to stay clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament",
+                "hu": "Ajuntament",
+                "ro": "Ajuntament",
+                "en": "Ajuntament"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Rathaus unter den schützenden Arkaden bietet Schutz; achten Sie auf Fußgänger mit Regenschirmen in den engen Gassen der historischen Altstadt.",
+                "hu": "Egy gyors megálló a városháza árkádjai alatt védelmet nyújt; ügyelj az esernyős gyalogosokra a szűk utcákban, mert ilyenkor nehezebben látják a kerékpárosokat.",
+                "ro": "O oprire rapidă sub arcadele primăriei oferă protecție; atenție la pietonii cu umbrele pe străzile înguste, vizibilitatea poate fi redusă pe timp de ploaie.",
+                "en": "A quick stop under the town hall arches provides temporary shelter; watch out for pedestrians with umbrellas in narrow streets as visibility may be limited."
+              }
+            },
+            {
+              "name": {
+                "de": "Necròpolis medieval de Vulpellac",
+                "hu": "Necròpolis medieval de Vulpellac",
+                "ro": "Necròpolis medieval de Vulpellac",
+                "en": "Necròpolis medieval de Vulpellac"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege zur Nekropole können bei Regen extrem schlammig sein; fahren Sie langsam und besonders vorsichtig durch das historische Gelände der Ausgrabung.",
+                "hu": "A nekropoliszhoz vezető földutak esőben sárosak lehetnek; tekerj lassan és óvatosan a területen a csúszásveszély és a felázott talaj miatt a romok körül.",
+                "ro": "Drumurile de pământ spre necropolă pot fi noroioase pe ploaie; pedalați încet și cu atenție prin perimetrul istoric din cauza terenului alunecos și moale.",
+                "en": "The unpaved paths to the necropolis can be muddy when it rains; ride slowly and carefully through the historical area to avoid slipping on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria de Fonteta",
+                "hu": "Santa Maria de Fonteta",
+                "ro": "Santa Maria de Fonteta",
+                "en": "Santa Maria de Fonteta"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diese romanische Kirche als krönenden Abschluss; tragen Sie unbedingt wasserfeste Kleidung für die Rückfahrt im anhaltenden Nieselregen.",
+                "hu": "Tekintsd meg ezt a román stílusú templomot zárásként; viselj vízálló ruházatot a visszaúthoz a szemerkélő esőben, hogy ne fázz meg a túra végére.",
+                "ro": "Vizitați această biserică romanică pentru un final de zi reușit; purtați haine impermeabile pentru drumul de întoarcere prin ploaia care nu dă semne de oprire.",
+                "en": "Visit this Romanesque church as a final stop; wear waterproof clothing for the return journey in the drizzling rain to stay warm and comfortable on the bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie durch die kühle, klare Luft zum Schloss von La Bisbal. \n\nMittags bieten die Museen willkommene Gelegenheiten, sich bei Indoor-Besichtigungen aufzuwärmen. \n\nAm Nachmittag führt die Tour zur mittelalterlichen Nekropole, solange das Licht reicht. \n\nDer Abend endet bei der Kirche von Fonteta, bevor die Dämmerung gegen 17:00 Uhr einsetzt.",
+            "hu": "Reggel a hűvös, tiszta levegőben tekerünk a La Bisbal-i várkastélyhoz. \n\nDélben a múzeumok remek alkalmat kínálnak a felmelegedésre a benti tárlatok alatt. \n\nDélután a középkori nekropoliszhoz vezet az út, amíg tart a téli világosság. \n\nAz este Fonteta templománál zárul, még mielőtt 17:00 körül leszállna a szürkület.",
+            "ro": "Dimineața pedalăm prin aerul rece și curat spre castelul din La Bisbal. \n\nLa prânz, muzeele oferă ocazii binevenite de a ne încălzi în timpul vizitelor interioare. \n\nDupă-amiaza turul duce spre necropola medievală cât încă mai este lumină naturală. \n\nSeara se încheie la biserica din Fonteta, înainte de amurgul de la ora 17:00.",
+            "en": "In the morning, cycle through the cool, crisp air to the castle of La Bisbal. \n\nAt noon, the museums provide welcome opportunities to warm up during indoor visits. \n\nThe afternoon tour leads to the medieval necropolis while daylight lasts. \n\nThe evening concludes at Fonteta church before winter twilight sets in around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de La Bisbal d'Empordà",
+                "hu": "Castell de La Bisbal d'Empordà",
+                "ro": "Castell de La Bisbal d'Empordà",
+                "en": "Castell de La Bisbal d'Empordà"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss am Vormittag für die beste Sicht; tragen Sie winddichte Handschuhe für die Fahrt durch die kühle Morgenluft auf dem Fahrrad.",
+                "hu": "Látogasd meg a kastélyt délelőtt a legjobb látási viszonyokért; viselj szélálló kesztyűt a hűvös reggeli tekeréshez, hogy kezeid ne gémberedjenek el.",
+                "ro": "Vizitați castelul dimineața pentru cea mai bună vizibilitate; purtați mănuși rezistente la vânt pentru aerul rece de dimineață în timpul deplasării cu bicicleta.",
+                "en": "Visit the castle in the morning for the clearest views; wear windproof gloves for the ride through the chilly morning air to keep your hands warm and agile."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria",
+                "hu": "Santa Maria",
+                "ro": "Santa Maria",
+                "en": "Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Wärme des Vormittags; ein idealer Ort für eine kurze Pause vom kalten Fahrtwind und zum Aufwärmen der Muskulatur.",
+                "hu": "A templom vastag falai jól tartják a délelőtti meleget; ideális hely egy rövid pihenőre a hideg menetszél után, hogy kicsit átmozgasd a lábaidat a szárazban.",
+                "ro": "Zidurile groase ale bisericii păstrează căldura dimineții; este un loc ideal pentru o scurtă pauză de la vântul rece de afară în timpul vizitei interioare.",
+                "en": "The thick church walls retain the morning warmth; it's an ideal spot for a short break from the cold riding wind to warm up before the next leg of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "The Terracotta Ceramics Museum",
+                "hu": "The Terracotta Ceramics Museum",
+                "ro": "The Terracotta Ceramics Museum",
+                "en": "The Terracotta Ceramics Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden in den beheizten Ausstellungsräumen; so tanken Sie Energie für die Weiterfahrt am deutlich kühleren Nachmittag durch das Empordà.",
+                "hu": "Használd ki a déli órákat a fűtött kiállítóterekben; így gyűjthetsz energiát a hűvösebb délutáni tekeréshez az Empordà vidékén, mielőtt lemegy a nap.",
+                "ro": "Profitați de orele prânzului în sălile de expoziție încălzite; astfel acumulați energie pentru continuarea drumului după-amiaza prin regiunea Empordà.",
+                "en": "Take advantage of the noon hours in the heated exhibition spaces; it's a great way to recharge for the cooler afternoon ride through the scenic Empordà region."
+              }
+            },
+            {
+              "name": {
+                "de": "Espai Tònic",
+                "hu": "Espai Tònic",
+                "ro": "Espai Tònic",
+                "en": "Espai Tònic"
+              },
+              "tip_5lang": {
+                "de": "Eine inspirierende Pause im Warmen, bevor die Sonne tiefer sinkt; prüfen Sie unbedingt Ihre Fahrradbeleuchtung für den frühen Abend und die Rückfahrt.",
+                "hu": "Inspiráló pihenő a melegben, mielőtt a nap lejjebb süllyed; ellenőrizd a bringád világítását a korai sötétedés előtt a biztonságos hazajutás érdekében.",
+                "ro": "O pauză inspiratoare la căldură înainte ca soarele să coboare; verificați luminile bicicletei pentru seara care vine devreme și drumul de întoarcere.",
+                "en": "An inspiring break in the warmth before the sun sinks lower; check your bike lights for the early winter evening ahead to ensure a safe return journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament",
+                "hu": "Ajuntament",
+                "ro": "Ajuntament",
+                "en": "Ajuntament"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das historische Gebäude im klaren Winterlicht; halten Sie die Stopps kurz, um während der Standzeiten nicht zu sehr auszukühlen.",
+                "hu": "Csodáld meg a történelmi épületet a tiszta téli fényben; tartsd röviden a megállókat, hogy ne hűlj ki túlságosan a várakozás és nézelődés közben.",
+                "ro": "Admirați clădirea istorică în lumina clară de iarnă; păstrați opririle scurte pentru a nu vă răci prea tare pe parcursul vizitei în aer liber.",
+                "en": "Admire the historical building in the clear winter light; keep your stops brief to avoid getting too cold while stationary during your sightseeing tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Necròpolis medieval de Vulpellac",
+                "hu": "Necròpolis medieval de Vulpellac",
+                "ro": "Necròpolis medieval de Vulpellac",
+                "en": "Necròpolis medieval de Vulpellac"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um die Details im Tageslicht zu sehen; der Boden kann im Winter hier oft hart und gefroren sein.",
+                "hu": "Látogasd meg a helyet 16:30 előtt, hogy még láthasd a részleteket a természetes fénynél; télen a talaj errefelé gyakran kemény és fagyos lehet.",
+                "ro": "Vizitați acest loc înainte de ora 16:30 pentru a vedea detaliile la lumina zilei; solul poate fi tare și înghețat iarna în această zonă istorică.",
+                "en": "Visit this site before 16:30 to see the details in daylight; the ground can be hard and frozen during winter months, so watch your step near the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria de Fonteta",
+                "hu": "Santa Maria de Fonteta",
+                "ro": "Santa Maria de Fonteta",
+                "en": "Santa Maria de Fonteta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Kirche zum Sonnenuntergang; rüsten Sie sich unbedingt mit reflektierender Kleidung für die Rückfahrt im Dunkeln aus.",
+                "hu": "Élvezd a templom csendjét naplemente idején; viselj fényvisszaverő ruházatot a sötétben történő hazatekeréshez a biztonságod érdekében.",
+                "ro": "Bucurați-vă de liniștea bisericii la apus; echipați-vă cu haine reflectorizante pentru drumul de întoarcere pe întuneric spre punctul de pornire.",
+                "en": "Enjoy the silence of the church at sunset; equip yourself with reflective clothing for the return ride in the dark to stay visible and safe on the road."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Induljon egy nagyszerű autós túrára, kezdve az ősi Torre de Cruïlles-nél és a vidéki szentélynél. Délben induljon La Bisbalba, hogy megtapasztalja a kastélyt és a Terracotta Múzeumot. Délután vezessen fel a fenséges Castell d'Empordá-hoz, és csodálja meg a bonsai múzeumot. Zárja a napot a Vulpellac és Fonteta körüli középkori maradványok felfedezésével.",
         "ro": "Porniți într-un grandios tur cu mașina începând de la vechiul Torre de Cruïlles și sanctuarul rural l'Esperança. La amiază, îndreptați-vă spre La Bisbal pentru a vedea castelul și muzeul Terracotta. După-amiaza, conduceți până la maiestuosul Castell d'Empordá și muzeul de bonsai. Încheiați ziua explorând rămășițele medievale din jurul Vulpellac și Fonteta.",
         "en": "Embark on a grand driving tour starting at the ancient Torre de Cruïlles and the peaceful rural sanctuary of l'Esperança. By midday, head into La Bisbal to experience the castle and its iconic Terracotta Museum. In the afternoon, drive up to the majestic Castell d'Empordá and marvel at the tiny wonders inside the bonsai museum. End your day trip exploring the medieval remnants scattered around Vulpellac and Fonteta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die tour beginnt entspannt im trockenen Auto mit der Fahrt zum Turm von Cruïlles. \n\nMittags erkunden Sie das Schloss und das Keramikmuseum, wobei Sie direkt vor den Eingängen parken können. \n\nAm Nachmittag führt die Fahrt zum Schloss d'Empordà, das auch im Regen majestätisch wirkt. \n\nDer Abend klingt bei der Kirche von Fonteta aus, sicher vor dem Wetter geschützt.",
+            "hu": "A túra kényelmesen, a száraz autóban indul a Cruïlles-torony felé. \n\nDélben a kastélyt és a kerámiamúzeumot fedezzük fel, ahol közvetlenül a bejáratoknál parkolhatunk. \n\nDélután a Castell d'Empordà felé autózunk, amely esőben is fenséges látványt nyújt. \n\nAz este a fontetai templomnál zárul, biztonságban az időjárás viszontagságaitól.",
+            "ro": "Turul începe relaxat în mașina uscată cu drumul spre turnul din Cruïlles. \n\nLa prânz explorăm castelul și muzeul de ceramică, putând parca chiar lângă intrări. \n\nDupă-amiaza drumul duce spre Castell d'Empordà, care arată maiestuos chiar și pe ploaie. \n\nSeara se încheie la biserica din Fonteta, la adăpost de vremea rea de afară.",
+            "en": "The tour starts comfortably in your dry car with a drive to the Cruïlles tower. \n\nAt noon, explore the castle and ceramics museum, with convenient parking right by the entrances. \n\nIn the afternoon, drive to Castell d'Empordà, which looks majestic even in the rain. \n\nThe evening concludes at Fonteta church, safely sheltered from the outdoor weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Cruïlles",
+                "hu": "Torre de Cruïlles",
+                "ro": "Torre de Cruïlles",
+                "en": "Torre de Cruïlles"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Turm vom Auto aus oder nutzen Sie eine kurze Regenpause; die Sicht auf die umliegenden Berge ist bei diesem Wetter oft dramatisch.",
+                "hu": "Csodáld meg a tornyot az autóból, vagy használj ki egy rövid esőszünetet a nézelődéshez; a környező hegyek látványa esőben gyakran egészen drámai.",
+                "ro": "Admirați turnul din mașină sau profitați de o scurtă pauză de ploaie; vederea spre munții din jur este adesea dramatică pe timp de furtună sau ploaie.",
+                "en": "Admire the tower from your car or take advantage of a brief break in the rain; the views of the surrounding mountains are often dramatic in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu de l'Esperança",
+                "hu": "Mare de Déu de l'Esperança",
+                "ro": "Mare de Déu de l'Esperança",
+                "en": "Mare de Déu de l'Esperança"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese ruhige Kapelle, während es draußen regnet; parken Sie vorsichtig am Wegrand, da der Boden durch den Regen weich sein kann.",
+                "hu": "Látogasd meg ezt a csendes kápolnát, miközben kint esik; parkolj óvatosan az út szélén, mert a padka felázhat az esőtől és süppedőssé válhat.",
+                "ro": "Vizitați această capelă liniștită în timp ce plouă; parcați cu atenție pe marginea drumului, deoarece solul poate fi moale din cauza precipitațiilor recente.",
+                "en": "Visit this quiet chapel while it rains outside; park carefully on the roadside as the ground may be soft from the rain and potentially slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de La Bisbal d'Empordà",
+                "hu": "Castell de La Bisbal d'Empordà",
+                "ro": "Castell de La Bisbal d'Empordà",
+                "en": "Castell de La Bisbal d'Empordà"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das historische Schlossgebäude in aller Ruhe im Trockenen; nutzen Sie die Parkplätze im Stadtzentrum für einen kurzen Fußweg zum Eingang.",
+                "hu": "Fedezd fel a történelmi kastélyépületet kényelmesen a szárazban; használd a belvárosi parkolókat a rövid séta érdekében, hogy ne ázz meg az úton.",
+                "ro": "Explorați clădirea istorică a castelului pe îndelete la uscat; folosiți parcările din centrul orașului pentru un drum scurt pe jos până la intrarea principală.",
+                "en": "Explore the historic castle building at your leisure in the dry; use the city center parking lots for a short walk to the entrance to minimize rain exposure."
+              }
+            },
+            {
+              "name": {
+                "de": "The Terracotta Ceramics Museum",
+                "hu": "The Terracotta Ceramics Museum",
+                "ro": "The Terracotta Ceramics Museum",
+                "en": "The Terracotta Ceramics Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier den regnerischen Mittag in den weitläufigen Hallen; das Museum bietet ausreichend überdachten Raum für Kultur und Entspannung im Trockenen.",
+                "hu": "Töltsd itt az esős délidőt a tágas csarnokokban; a múzeum bőséges fedett teret kínál a kulturális kikapcsolódáshoz és pihenéshez a szárazban.",
+                "ro": "Petreceți prânzul ploios aici în halele vaste; muzeul oferă spațiu generos acoperit pentru cultură și relaxare fără a vă face griji de vremea de afară.",
+                "en": "Spend the rainy noon hours here in the expansive halls; the museum offers plenty of covered space for culture and relaxation while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Empordá",
+                "hu": "Castell d'Empordá",
+                "ro": "Castell d'Empordá",
+                "en": "Castell d'Empordá"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nasse Landschaft von der Terrasse; der Innenbereich des Schlosses ist ein idealer Rückzugsort vor dem anhaltenden Regen.",
+                "hu": "Élvezd a kilátást a vizes tájra a teraszról; a kastély belső terei ideális menedéket nyújtanak az eső elől egy csésze forró ital mellett.",
+                "ro": "Bucurați-vă de priveliștea peisajului ud de pe terasă; interiorul castelului este un refugiu ideal împotriva ploii persistente din această după-amiază.",
+                "en": "Enjoy the view of the wet landscape from the terrace; the interior of the castle is an ideal retreat from the rain while enjoying the historic ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu del bonsai",
+                "hu": "Museu del bonsai",
+                "ro": "Museu del bonsai",
+                "en": "Museu del bonsai"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Bonsai-Sammlung in den geschützten Bereichen; nehmen Sie unbedingt einen Regenschirm für den Weg zwischen den einzelnen Pavillons mit.",
+                "hu": "Tekintsd meg a bonsai gyűjteményt a védett részeken; vigyél esernyőt a pavilonok közötti rövid átvonuláshoz, hogy száraz maradj a nézelődés közben.",
+                "ro": "Vizitați colecția de bonsai în zonele protejate; luați o umbrelă pentru drumul scurt dintre pavilioanele muzeului pentru a evita udarea hainelor.",
+                "en": "Visit the bonsai collection in the protected areas; take an umbrella for the short walks between the museum's pavilions to ensure you stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Necròpolis medieval de Vulpellac",
+                "hu": "Necròpolis medieval de Vulpellac",
+                "ro": "Necròpolis medieval de Vulpellac",
+                "en": "Necròpolis medieval de Vulpellac"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bei der Nekropole ist auch bei Regen lohnenswert; fahren Sie vorsichtig auf den schmalen, nassen Landstraßen in dieser Gegend.",
+                "hu": "Egy rövid megálló a nekropolisznál esőben is megéri; vezess óvatosan a szűk és vizes vidéki utakon a környéken a csúszásveszély miatt.",
+                "ro": "O scurtă oprire la necropolă merită chiar și pe ploaie; conduceți cu atenție pe drumurile înguste și ude din zonă pentru siguranța dumneavoastră.",
+                "en": "A quick stop at the necropolis is worthwhile even in the rain; drive carefully on the narrow and wet country roads in this area for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria de Fonteta",
+                "hu": "Santa Maria de Fonteta",
+                "ro": "Santa Maria de Fonteta",
+                "en": "Santa Maria de Fonteta"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in der schützenden Ruhe der Kirche; prüfen Sie vor der Heimfahrt unbedingt Ihre Scheibenwischer und die Beleuchtung Ihres Autos.",
+                "hu": "Zárd a túrát a templom védelmező nyugalmában; a hazaút előtt ellenőrizd az ablaktörlőket és az autó világítását a rossz látási viszonyok miatt.",
+                "ro": "Încheiați turul în liniștea protectoare a bisericii; înainte de plecare, verificați ștergătoarele și luminile mașinii pentru un drum sigur spre casă.",
+                "en": "End your tour in the protective quiet of the church; check your wipers and car lights before the drive home in the rain to ensure good visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am frühen Morgen am Turm von Cruïlles. \n\nMittags genießen Sie die Wärme im Keramikmuseum und im Schloss von La Bisbal. \n\nAm Nachmittag führt die Fahrt zum Schloss d'Empordà für einen spektakulären Sonnenuntergang. \n\nDer Tag endet sicher im Scheinwerferlicht bei der Kirche von Fonteta.",
+            "hu": "A téli autós túra kora reggel indul a Cruïlles-toronynál a friss levegőben. \n\nDélben a kerámiamúzeum és a La Bisbal-i kastély melegében élvezhetjük a tárlatokat. \n\nDélután a Castell d'Empordà felé vesszük az irányt a látványos, 17:00 körüli naplementéért. \n\nA nap a fontetai templomnál zárul, már az autó fényszórói mellett.",
+            "ro": "Turul cu mașina pe timp de iarnă începe dimineața devreme la turnul din Cruïlles. \n\nLa prânz vă bucurați de căldura din muzeul de ceramică și castel în timp ce soarele strălucește. \n\nDupă-amiaza drumul duce spre Castell d'Empordà pentru un apus spectaculos la ora 17:00. \n\nZiua se încheie la lumina farurilor mașinii la biserica din Fonteta.",
+            "en": "The winter car tour begins early morning at the Cruïlles tower in the crisp air. \n\nAt noon, enjoy the warmth inside the ceramics museum and the castle of La Bisbal. \n\nIn the afternoon, head to Castell d'Empordà for a spectacular sunset around 17:00. \n\nThe day concludes at Fonteta church under the bright beams of the car's headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Cruïlles",
+                "hu": "Torre de Cruïlles",
+                "ro": "Torre de Cruïlles",
+                "en": "Torre de Cruïlles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos vom Turm; im beheizten Auto bleiben Sie zwischen den einzelnen Stopps angenehm warm und geschützt.",
+                "hu": "Használd ki a tiszta téli fényeket a torony fotózásához; a fűtött autóban kellemesen meleg maradhatsz a különböző megállók között a túra során.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu turnul; în mașina încălzită veți sta confortabil între opriri în ciuda frigului de afară.",
+                "en": "Take advantage of the clear winter light for photos of the tower; stay warm in your heated car between the different stops throughout your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu de l'Esperança",
+                "hu": "Mare de Déu de l'Esperança",
+                "ro": "Mare de Déu de l'Esperança",
+                "en": "Mare de Déu de l'Esperança"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Halt in der winterlichen Stille; die Kapelle bietet einen hervorragenden Schutz vor dem kalten Tramontana-Wind in dieser Region.",
+                "hu": "Békés megálló a téli csendben; a kápolna remek védelmet nyújt a környéken gyakran fújó hideg Tramontana szél ellen, ami télen igen csípős lehet.",
+                "ro": "O oprire liniștită în tăcerea iernii; capela oferă o protecție excelentă împotriva vântului rece de Tramontana din zonă care suflă adesea iarna.",
+                "en": "A peaceful stop in the winter silence; the chapel provides great shelter from the cold Tramontana wind often blowing in this region during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de La Bisbal d'Empordà",
+                "hu": "Castell de La Bisbal d'Empordà",
+                "ro": "Castell de La Bisbal d'Empordà",
+                "en": "Castell de La Bisbal d'Empordà"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss am Vormittag, wenn die Sonne die Fassaden erwärmt; im Inneren ist es kühler, tragen Sie daher unbedingt eine warme Jacke.",
+                "hu": "Látogasd meg a kastélyt délelőtt, amikor a nap süti a kőfalakat; bent hűvösebb van, így ne vedd le a kabátodat a látogatás alatt, hogy ne fázz meg.",
+                "ro": "Vizitați castelul dimineața, când soarele încălzește fațadele de piatră; în interior este mai răcoare, purtați o jachetă groasă pe tot parcursul vizitei.",
+                "en": "Visit the castle in the morning when the sun warms the stone facades; it is cooler inside, so keep your jacket on during the visit to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "The Terracotta Ceramics Museum",
+                "hu": "The Terracotta Ceramics Museum",
+                "ro": "The Terracotta Ceramics Museum",
+                "en": "The Terracotta Ceramics Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für die Mittagsstunden im Warmen; entdecken Sie die Keramikexponate ohne Eile in der gemütlichen und einladenden Atmosphäre des Museums.",
+                "hu": "Ideális helyszín a déli órák eltöltésére a melegben; fedezd fel a kerámia tárlatot sietség nélkül, kellemes és barátságos környezetben a belső terekben.",
+                "ro": "Locul ideal pentru a petrece orele prânzului la căldură; descoperiți exponatele de ceramică fără grabă, într-o atmosferă plăcută și primitoare.",
+                "en": "The ideal location to spend the noon hours in the warmth; discover the ceramic exhibits without haste in a pleasant and inviting environment indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Empordá",
+                "hu": "Castell d'Empordá",
+                "ro": "Castell d'Empordá",
+                "en": "Castell d'Empordá"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Schloss vor 16:30 Uhr für den besten Ausblick im Sonnenuntergang; das Winterlicht über dem Empordà ist zu dieser Zeit einmalig schön.",
+                "hu": "Érj a kastélyhoz 16:30 előtt a legszebb naplementés kilátásért; a téli fények az Empordà vidék felett ilyenkor egészen egyedülállóak és varázslatosak.",
+                "ro": "Ajungeți la castel înainte de ora 16:30 pentru cea mai frumoasă vedere la apus; lumina de iarnă peste regiunea Empordà este unică în acest moment al zilei.",
+                "en": "Arrive at the castle before 16:30 for the best sunset views; the winter light over the Empordà region is truly unique and magical at this time of day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu del bonsai",
+                "hu": "Museu del bonsai",
+                "ro": "Museu del bonsai",
+                "en": "Museu del bonsai"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie die Bonsai-Bäume im Winter ruhen; die tiefstehende Sonne sorgt am Nachmittag für interessante und lange Schattenwürfe in der Anlage.",
+                "hu": "Nézd meg, hogyan pihennek a bonsai fák télen; az alacsonyan járó nap délután érdekes és hosszú árnyékokat vet a különleges növényekre és az udvarra.",
+                "ro": "Vedeți cum se odihnesc arborii bonsai iarna; soarele care stă jos după-amiaza creează umbre interesante și lungi peste plantele speciale din grădină.",
+                "en": "See how the bonsai trees rest during the winter; the low sun in the afternoon creates interesting and long shadows across the unique plants and the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Necròpolis medieval de Vulpellac",
+                "hu": "Necròpolis medieval de Vulpellac",
+                "ro": "Necròpolis medieval de Vulpellac",
+                "en": "Necròpolis medieval de Vulpellac"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen im letzten Tageslicht; stellen Sie sicher, dass Ihre Autobatterie bei der winterlichen Kälte für die Tour gut geladen ist.",
+                "hu": "Látogasd meg az ásatásokat az utolsó nappali fényben; győződj meg róla, hogy az autó akkumulátora jól bírja a téli hideget a vidéki utak során.",
+                "ro": "Vizitați excavațiile în ultima lumină a zilei; asigurați-vă că bateria mașinii funcționează optim la temperaturile scăzute de iarnă pe drumurile rurale.",
+                "en": "Visit the excavations in the last daylight; make sure your car battery is in good condition for the winter cold during your rural drive through the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria de Fonteta",
+                "hu": "Santa Maria de Fonteta",
+                "ro": "Santa Maria de Fonteta",
+                "en": "Santa Maria de Fonteta"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss der Tour bei Dunkelheit; die Kirche ist dezent beleuchtet und bietet eine andächtige, friedliche Winteratmosphäre am Abend.",
+                "hu": "Hangulatos zárása a túrának a sötétben; a templom visszafogottan ki van világítva, meghitt és békés téli atmoszférát árasztva az esti órákban.",
+                "ro": "Un final atmosferic al turului pe întuneric; biserica este iluminată discret, oferind o ambianță de iarnă plină de liniște și pioșenie seara.",
+                "en": "An atmospheric end to the tour in the dark; the church is subtly illuminated, offering a peaceful and cozy winter atmosphere in the evening hours."
+              }
+            }
+          ]
+        }
       }
     }
   }

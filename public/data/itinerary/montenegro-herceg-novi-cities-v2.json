@@ -183,6 +183,224 @@
         "hu": "Délelőtt: Kezdje a napot a Kanli Kula lépcsőinek megmászásával, és élvezze az öbölre nyíló panorámát, miközben a város ébredezik a reggeli napsütésben.\nDél: Merüljön el a kultúrában Ivo Andrić Nobel-díjas író történelmi otthonának és a Beli Művészeti Galériának a felfedezésével, lenyűgöző élményeket gyűjtve.\nDélután: Ereszkedjen le a partvonal felé, hogy bejárja a Forte Mare középkori falait, és megcsodálja a hullámokat érintő velencei Citadella drámai romjait.\nEste: Zárja sétáját egy pihentető alkonyati korzózással a Herceg Novi-öböl partján, ahol a lágy tengeri szellő tökéletesen megkoronázza az eltelt napot.",
         "ro": "Dimineața: Începeți-vă ziua urcând treptele fortăreței Kanli Kula, admirând vederile panoramice ale golfului în timp ce orașul se trezește la viață.\nAmiaza: Scufundați-vă în cultură explorând casa istorică a laureatului Nobel Ivo Andrić și galeria de artă Beli, unde creativitatea locală prinde contur.\nDupă-amiaza: Coborâți spre coastă pentru a vă plimba pe zidurile medievale ale Forte Mare și a vă minuna de rămășițele prăbușite ale Citadelei venețiene.\nSeara: Încheiați plimbarea cu o promenadă relaxantă la crepuscul pe malurile Golfului Herceg Novi, unde briza mării completează perfect ziua.",
         "en": "Morning: Start your day by scaling the steps of Kanli Kula, taking in the panoramic views of the bay as the city awakens.\nMidday: Dive into culture by exploring the historic home of Nobel laureate Ivo Andrić and the charming local theater, followed by an inspiring visit to the Beli Art Gallery.\nAfternoon: Descend towards the coastline to wander the medieval walls of Forte Mare and marvel at the crumbled remnants of the Venetian Citadella touching the waves.\nEvening: Conclude your walk with a relaxing twilight stroll along the shores of Herceg Novi Bay, where the sea breeze perfectly caps off the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Bögen der Festung Kanli Kula, während der Regen auf die Adria peitscht. Mittags finden wir Zuflucht im Haus von Ivo Andrić und im Theater, wo Kultur die Feuchtigkeit vertreibt. Am Nachmittag erkunden wir die Beli Galerie und die massiven Mauern von Forte Mare und der Zitadelle. Der Abend endet mit einem Blick auf die neblige Bucht von einem überdachten Aussichtspunkt.",
+            "hu": "A reggel a Kanli Kula erőd boltívei alatt indul, miközben az eső mossa az Adria partját. Délben Ivo Andrić házának és a színháznak a falai nyújtanak menedéket és kulturális élményt. Délután a Beli Galéria tárlatait, a Forte Mare bástyáit és a Citadellát járjuk be. Az este az öböl feletti misztikus köd látványával zárul, amit egy vízparti fedett teraszról érdemes leginkább megcsodálni.",
+            "ro": "Dimineața începe sub arcadele protectoare ale Cetății Kanli Kula, în timp ce ploaia spală malul Adriaticii. La prânz, casa lui Ivo Andrić și teatrul oferă adăpost și o experiență culturală deosebită. După-amiaza explorăm galeria Beli, bastioanele de la Forte Mare și Citadela. Seara se încheie cu vederea golfului învăluit în ceață mistică, admirată cel mai bine de pe o terasă acoperită.",
+            "en": "The morning starts under the protective arches of Kanli Kula Fortress as rain washes the Adriatic coast. At noon, the house of Ivo Andrić and the theatre provide shelter and a rich cultural experience. In the afternoon, we explore the Beli Gallery, the bastions of Forte Mare, and the Citadella. The evening concludes with a mystical view of the misty bay, best enjoyed from a covered terrace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kanli Kula Festung",
+                "hu": "Kanli Kula erőd",
+                "ro": "Fortăreața Kanli Kula",
+                "en": "Kanli Kula Fortress"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Kasematten der Festung, um die Aussicht auf die Stadt auch bei Regen zu genießen; die Steinstufen können bei Nässe sehr rutschig sein.",
+                "hu": "Használja az erőd fedett kazamatáit a városra nyíló kilátás élvezetéhez esőben is; a kőlépcsők nedvesen rendkívül csúszósak lehetnek a bástyákon.",
+                "ro": "Folosiți cazămatele acoperite ale cetății pentru a vă bucura de priveliște chiar și pe ploaie; treptele de piatră pot fi foarte alunecoase când sunt ude.",
+                "en": "Use the covered casemates of the fortress to enjoy the city views even in the rain; be careful as the stone steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ivo Andrić Haus",
+                "hu": "Ivo Andrić Háza",
+                "ro": "Casa lui Ivo Andrić",
+                "en": "House of Ivo Andrić"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet den perfekten trockenen Rückzugsort, um in die literarische Welt des Nobelpreisträgers einzutauchen und die authentische Atmosphäre zu spüren.",
+                "hu": "Ez a múzeum tökéletes száraz menedék, ahol elmerülhet a Nobel-díjas író irodalmi világában és átélheti a ház autentikus, meghitt hangulatát.",
+                "ro": "Acest muzeu oferă refugiul perfect pentru a te scufunda în lumea literară a laureatului Nobel și pentru a simți atmosfera autentică a casei.",
+                "en": "This museum offers a perfect dry retreat to immerse yourself in the Nobel laureate's literary world and experience the authentic atmosphere of the house."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater von Herceg Novi",
+                "hu": "Herceg Novi Színház",
+                "ro": "Teatrul din Herceg Novi",
+                "en": "Herceg Novi Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur im Inneren dieses Kulturdenkmals; es ist ein idealer Ort, um einen Regenschauer bei einem kurzen Rundgang geschützt abzuwarten.",
+                "hu": "Csodálja meg e kulturális emlékmű belső építészetét; ideális hely egy rövid séta keretében kivárni, amíg elcsendesedik az eső odakint a sétálóutcán.",
+                "ro": "Admirați arhitectura interioară a acestui monument cultural; este locul ideal pentru a aștepta trecerea ploii în timpul unui scurt tur protejat.",
+                "en": "Admire the interior architecture of this cultural monument; it's an ideal place to wait out a rain shower during a short, sheltered visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstgalerie Beli",
+                "hu": "Beli Művészeti Galéria",
+                "ro": "Galeria de Artă Beli",
+                "en": "Beli Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Innenräume der Galerie lassen Sie das graue Wetter vergessen; konzentrieren Sie sich auf die Details der lokalen Kunstwerke in aller Ruhe.",
+                "hu": "A galéria világos belső terei elfeledtetik a szürke időjárást; koncentráljon a helyi műalkotások részleteire a nyugodt, fedett és száraz környezetben.",
+                "ro": "Interioarele luminoase ale galeriei vă vor face să uitați de vremea gri; concentrați-vă pe detaliile operelor de artă locale în liniște și confort.",
+                "en": "The gallery's bright interiors will make you forget the grey weather; focus on the details of local artworks in this peaceful, indoor setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Mare",
+                "hu": "Forte Mare",
+                "ro": "Forte Mare",
+                "en": "Forte Mare"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz vor dem Seewind; beobachten Sie das tosende Meer von den unteren, geschützten Durchgängen der Festung aus.",
+                "hu": "A masszív falak védelmet nyújtanak a tengeri szél ellen; figyelje a hullámzó tengert az erőd alsó, védettebb átjáróiból és lőréseiből.",
+                "ro": "Zidurile masive oferă protecție împotriva vântului marin; observați marea agitată din pasajele inferioare, mai protejate, ale cetății maritime.",
+                "en": "The massive walls provide protection from the sea wind; watch the crashing waves from the lower, sheltered passages of the sea fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle",
+                "hu": "Citadella",
+                "ro": "Citadela",
+                "en": "Citadella"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen vorsichtig; der nasse Stein glänzt wunderschön, erfordert aber festes Schuhwerk mit einem guten Profil.",
+                "hu": "Fedezze fel óvatosan a történelmi romokat; a nedves kő gyönyörűen csillog az esőben, de stabil, tapadós talpú cipőt igényel a biztonságos haladáshoz.",
+                "ro": "Explorați cu atenție ruinele istorice; piatra umedă strălucește frumos, dar necesită încălțăminte stabilă cu talpă aderentă pentru siguranță.",
+                "en": "Explore the historical ruins carefully; the wet stone shines beautifully but requires sturdy shoes with good grip for safe movement."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Herceg Novi",
+                "hu": "Herceg Novi-öböl",
+                "ro": "Golful Herceg Novi",
+                "en": "Herceg Novi Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Regen dramatisch; suchen Sie sich ein Café am Ufer mit Markise, um die Szenerie bei einem heißen Getränk trocken zu genießen.",
+                "hu": "Az öböl esőben drámai arcát mutatja; keressen egy vízparti kávézót ponyvával, hogy egy forró ital mellett élvezhesse a panorámát a szárazból.",
+                "ro": "Golful arată dramatic pe ploaie; căutați o cafenea pe mal cu copertină pentru a vă bucura de panoramă lângă o băutură caldă, la adăpost.",
+                "en": "The bay looks dramatic in the rain; find a waterfront café with an awning to enjoy the view over a hot drink while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die Steine der Festung Kanli Kula in hellem Licht erstrahlen. Mittags laden die Museen und Galerien zum Aufwärmen ein, während die Stadt ihren ruhigen Rhythmus zeigt. Am Nachmittag bietet Forte Mare einen Logenplatz für den frühen Sonnenuntergang gegen 17:00 Uhr. Der Abend endet bei kühlen Temperaturen am Hafen, wo die Lichter der Bucht funkeln.",
+            "hu": "A kristálytiszta téli reggelen a Kanli Kula erőd falai éles fénnyel ragyognak a hűvös levegőben. Napközben a múzeumok és galériák melegében kalandozunk, elkerülve a parti szelet. Délután a Forte Mare bástyáiról csodáljuk a korai, aranyló naplementét az Adria felett. Az este a kikötőben ér minket, ahol a korai sötétedésben felgyúlnak az öböl és a város ünnepi fényei.",
+            "ro": "În dimineața clară de iarnă, zidurile Cetății Kanli Kula strălucesc sub lumina rece. În timpul zilei, ne aventurăm în căldura muzeelor și galeriilor, evitând vântul de pe coastă. După-amiaza, admirăm apusul auriu timpuriu peste Marea Adriatică de pe bastioanele Forte Mare. Seara ne găsește în port, unde luminile festive ale golfului și orașului se aprind odată cu întunericul.",
+            "en": "On a crisp winter morning, the walls of Kanli Kula Fortress shine brightly in the cool air. During the day, we seek the warmth of museums and galleries, avoiding the coastal wind. In the afternoon, we admire the early golden sunset over the Adriatic from the bastions of Forte Mare. The evening finds us at the harbor, where the festive lights of the bay and city twinkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kanli Kula Festung",
+                "hu": "Kanli Kula erőd",
+                "ro": "Fortăreața Kanli Kula",
+                "en": "Kanli Kula Fortress"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ungestörte Aussicht ohne Touristenmassen; ziehen Sie sich winddicht an, da es auf den oberen Plattformen im Winter sehr ziehen kann.",
+                "hu": "Élvezze a zavartalan kilátást a turistahadak nélkül; öltözzön szélállóan, mert a felső platformokon télen erősen fújhat a hűvös tengeri szél.",
+                "ro": "Bucurați-vă de priveliștea neîntreruptă fără mulțimile de turiști; îmbrăcați-vă cu haine rezistente la vânt, deoarece pe platforme poate sufla tare iarna.",
+                "en": "Enjoy the undisturbed views without the crowds; wear windproof clothing as it can get quite breezy on the upper platforms in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ivo Andrić Haus",
+                "hu": "Ivo Andrić Háza",
+                "ro": "Casa lui Ivo Andrić",
+                "en": "House of Ivo Andrić"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um mehr über die Geschichte zu erfahren; die beheizten Innenräume bieten eine willkommene Pause von der kühlen Meeresbrise draußen.",
+                "hu": "Hangulatos hely a történelem megismeréséhez; a fűtött belső terek kellemes pihenőt nyújtanak a hűvös tengeri szellő után a múzeum kertjéből beérve.",
+                "ro": "Un loc primitor pentru a învăța despre istorie; interioarele încălzite oferă o pauză plăcută după briza răcoroasă a mării resimțită în grădină.",
+                "en": "A cozy spot to learn about history; the heated interiors offer a welcome break from the cool sea breeze experienced in the museum garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater von Herceg Novi",
+                "hu": "Herceg Novi Színház",
+                "ro": "Teatrul din Herceg Novi",
+                "en": "Herceg Novi Theatre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort für ein kurzes kulturelles Programm; die geschlossene Struktur schützt vor winterlichen Böen, die oft von der Küste her wehen.",
+                "hu": "Látogasson el ide egy rövid kulturális feltöltődésre; a zárt épület megvédi a látogatót a part felől érkező metsző téli széllökésektől.",
+                "ro": "Vizitați acest loc pentru o scurtă încărcare culturală; clădirea închisă protejează vizitatorul de rafalele de vânt de iarnă dinspre coastă.",
+                "en": "Visit here for a quick cultural boost; the enclosed building protects you from the sharp winter gusts coming from the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstgalerie Beli",
+                "hu": "Beli Művészeti Galéria",
+                "ro": "Galeria de Artă Beli",
+                "en": "Beli Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig; nutzen Sie die Zeit, um die Kunstwerke ohne Eile zu betrachten, während es draußen am Meer kühler wird.",
+                "hu": "Télen különösen csendes a környék; használja ki az időt a műalkotások nyugodt megtekintésére, amíg kint a tengerparton hűvösebbre fordul az idő.",
+                "ro": "Iarna este deosebit de liniște aici; profitați de timp pentru a vizualiza operele de artă în tihnă, în timp ce afară pe malul mării se răcește.",
+                "en": "It's exceptionally quiet here in winter; take your time to view the artworks in peace while it gets cooler outside by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Mare",
+                "hu": "Forte Mare",
+                "ro": "Forte Mare",
+                "en": "Forte Mare"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am späten Nachmittag für das beste Licht; die Wintersonne steht tief und färbt die Adria von den Zinnen aus in spektakuläre Farben.",
+                "hu": "Érkezzen késő délután a legjobb fényekért; a téli nap alacsonyan jár, és látványos színekre festi az Adriai-tengert a bástyákról nézve.",
+                "ro": "Sosiți după-amiaza târziu pentru cele mai bune lumini; soarele de iarnă este jos și pictează Marea Adriatică în culori spectaculoase văzute de pe creneluri.",
+                "en": "Arrive in the late afternoon for the best light; the winter sun sits low, painting the Adriatic in spectacular colors from the battlements."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle",
+                "hu": "Citadella",
+                "ro": "Citadela",
+                "en": "Citadella"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken in der klaren Luft fast mystisch; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr, um nicht im Dunkeln zu stehen.",
+                "hu": "A romok szinte misztikusan festenek a tiszta téli levegőben; ügyeljen a korai naplementére 17:00 körül, hogy még világosban lássa a panorámát.",
+                "ro": "Ruinele arată aproape mistic în aerul curat de iarnă; aveți grijă la apusul timpuriu de la ora 17:00, pentru a nu fi surprins de întuneric.",
+                "en": "The ruins look almost mystical in the clear winter air; keep in mind the early sunset around 17:00 to enjoy the views before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Herceg Novi",
+                "hu": "Herceg Novi-öböl",
+                "ro": "Golful Herceg Novi",
+                "en": "Herceg Novi Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Ufer ist im Winter sehr belebend; die kühle Brise erfordert Schichten, bietet aber eine unvergleichliche Fernsicht bis zur Halbinsel.",
+                "hu": "A parti séta télen rendkívül frissítő; a hűvös szél miatt öltözzön rétegesen, de élvezze a páratlanul tiszta távoli kilátást a szemközti partokra.",
+                "ro": "O plimbare pe mal iarna este extrem de revigorantă; din cauza vântului rece, îmbrăcați-vă în straturi, dar bucurați-vă de vizibilitatea clară a peninsulei.",
+                "en": "A waterfront walk is very refreshing in winter; dress in layers due to the cool wind, but enjoy the unparalleled clear views of the opposite shore."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Délelőtt: Indítsa kerékpártúráját a nyüzsgő Bazen Jadran medencénél, élvezve a parti energiákat, mielőtt felfedezné a helyi irodalomtörténetet Ivo Andrić házában.\nDél: Tekerjen fel a dombra az impozáns Kanli Kula erődhöz, ahol fáradozásait az ősi háztetőkre és a nyílt tengerre nyíló hihetetlen kilátás jutalmazza.\nDélután: Haladjon kelet felé a festői utakon a békés Savina-kolostorhoz, majd folytassa útját a Kalajza rekreációs terület pihentető partjai felé.\nEste: Fejezze be útját egy kényelmes biciklizéssel a hatalmas Herceg Novi-öböl mentén, megcsodálva a csendes adriai vizeken tükröződő aranyórás fényeket.",
         "ro": "Dimineața: Începeți-vă turul cu bicicleta lângă animata piscină Bazen Jadran, simțind vibrația energică a coastei, înainte de a explora casa lui Ivo Andrić.\nAmiaza: Pedalați la deal pentru a ajunge la impunătoarea fortăreață Kanli Kula, unde eforturile vă sunt răsplătite cu un punct de observație incredibil peste acoperișurile vechi.\nDupă-amiaza: Călătoriți spre est pe poteci pitorești până la pașnica Mănăstire Savina, apoi coborâți spre țărmurile relaxante ale zonei de recreere Kalajza.\nSeara: Încheiați-vă călătoria pedalând pe îndelete pe lângă extinsul golf Herceg Novi, surprinzând lumina orei de aur reflectându-se pe apele liniștite.",
         "en": "Morning: Kick off your cycling tour by the lively Bazen Jadran, feeling the energetic coastal vibe before moving on to explore local literary history at the Ivo Andrić house.\nMidday: Pedal uphill to reach the imposing Kanli Kula fortress, where your efforts are rewarded with an incredible vantage point over the ancient rooftops and the open sea.\nAfternoon: Ride east along scenic paths to the peaceful Savina Monastery, a spiritual haven, and then continue down to the relaxing shores of the Kalajza recreational area.\nEvening: Finish your journey cycling leisurely alongside the expansive Hercegnovski zaliv, catching the golden hour light reflecting off the tranquil Adriatic waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt am Jadran Pool, wo das Wasser von oben und unten kommt. Mittags suchen wir Schutz im Haus von Ivo Andrić, bevor wir uns zur Festung Kanli Kula wagen. Nachmittags führt der Weg zum Savina-Kloster, dessen alte Steine im Regen glänzen. Der Abend klingt an der Bucht aus, wo die spiegelglatte Wasseroberfläche die grauen Wolken reflektiert.",
+            "hu": "A túra a Jadran medencénél indul, ahol a víz felülről és alulról is érkezik. Délben Ivo Andrić házában keresünk menedéket, mielőtt a Kanli Kula erőd felé vennénk az irányt. Délután a Savina-kolostorhoz tekerünk, melynek ősi kövei csillognak az esőben. Az este az öbölparton zárul, ahol a víz tükörsima felülete visszaveri a szürke felhőket.",
+            "ro": "Turul începe la piscina Jadran, unde apa vine de sus și de jos. La prânz, căutăm adăpost în casa lui Ivo Andrić înainte de a ne îndrepta spre cetatea Kanli Kula. După-amiaza pedalăm spre mănăstirea Savina, ale cărei pietre străvechi strălucesc în ploaie. Seara se încheie pe malul golfului, unde suprafața oglindită a apei reflectă norii gri.",
+            "en": "The tour starts at the Jadran Pool, where water comes from both above and below. At noon, we seek shelter in Ivo Andrić's house before heading towards Kanli Kula Fortress. In the afternoon, we bike to Savina Monastery, whose ancient stones glisten in the rain. The evening ends by the bay, where the mirror-like surface of the water reflects the grey clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jadran Schwimmbad",
+                "hu": "Jadran Medence",
+                "ro": "Piscina Jadran",
+                "en": "Jadran Pool"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den gepflasterten Flächen; die Fliesen können bei Regen extrem rutschig für Fahrradreifen sein. Tragen Sie wasserfeste Überschuhe.",
+                "hu": "Közlekedjen óvatosan a medence körüli burkolt felületeken; a csempék esőben rendkívül csúszósak lehetnek. Használjon vízálló cipővédőt a tekeréshez.",
+                "ro": "Circulați cu atenție pe suprafețele pavate; plăcile pot fi extrem de alunecoase pentru anvelopele bicicletei pe ploaie. Purtați protecții de pantofi impermeabile.",
+                "en": "Ride carefully on the paved surfaces; the tiles can be extremely slippery for bike tires when wet. Use waterproof shoe covers while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Ivo Andrić Haus",
+                "hu": "Ivo Andrić Háza",
+                "ro": "Casa lui Ivo Andrić",
+                "en": "House of Ivo Andrić"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vordach ab und genießen Sie die trockene Ausstellung; es ist der ideale Ort, um einen heftigen Guss abzuwarten.",
+                "hu": "Parkolja le kerékpárját egy előtető alatt, és élvezze a száraz kiállítást; ez az ideális hely egy hevesebb zápor kivárására a történelmi falak között.",
+                "ro": "Parcați bicicleta sub o copertină și bucurați-vă de expoziția uscată; este locul ideal pentru a aștepta trecerea unei averse mai puternice.",
+                "en": "Park your bike under a canopy and enjoy the dry exhibition; it's an ideal spot to wait out a heavy downpour within the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanli Kula Festung",
+                "hu": "Kanli Kula erőd",
+                "ro": "Fortăreața Kanli Kula",
+                "en": "Kanli Kula Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Festung erfordert bei Regen gute Bremsen; nutzen Sie die überdachten Torbögen, um die Aussicht geschützt und trocken zu genießen.",
+                "hu": "Az erődhöz vezető emelkedő esőben jó fékeket igényel; használja a fedett kapualjakat a kilátás biztonságos, védett élvezetéhez a vár tetején.",
+                "ro": "Urcarea spre cetate necesită frâne bune pe ploaie; folosiți arcadele acoperite pentru a vă bucura de priveliște la adăpost și uscați.",
+                "en": "The climb to the fortress requires good brakes in the rain; use the covered archways to enjoy the view while staying protected and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Savina",
+                "hu": "Savina-kolostor",
+                "ro": "Mănăstirea Savina",
+                "en": "Savina Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Atmosphäre im Kloster ist bei Regen besonders andächtig; parken Sie das Rad sicher und nutzen Sie den Innenraum für eine besinnliche Pause.",
+                "hu": "A kolostor hangulata esőben különösen áhítatos; parkolja le biztonságosan a biciklit, és használja a belső teret egy elmélyült pihenőre a zápor alatt.",
+                "ro": "Atmosfera mănăstirii este deosebit de pioasă pe ploaie; parcați bicicleta în siguranță și folosiți interiorul pentru o pauză de reculegere sub acoperiș.",
+                "en": "The monastery atmosphere is especially solemn in the rain; park your bike securely and use the interior for a contemplative break while it pours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalajza-Bucht",
+                "hu": "Kalajza-öböl",
+                "ro": "Golful Kalajza",
+                "en": "Kalajza Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht bietet im Regen ein raues Panorama; achten Sie beim Abstieg mit dem Rad auf Schlamm und rutschiges Laub auf dem unbefestigten Weg.",
+                "hu": "Az öböl esőben zord, természetes panorámát kínál; a kerékpárral való ereszkedéskor ügyeljen a sárra és a csúszós levelekre a földúton.",
+                "ro": "Golful oferă o panoramă naturală aspră pe ploaie; la coborârea cu bicicleta, aveți grijă la noroi și la frunzele alunecoase de pe drumul neasfaltat.",
+                "en": "The cove offers a rugged, natural panorama in the rain; watch out for mud and slippery leaves on the unpaved path when descending with your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Herceg Novi",
+                "hu": "Herceg Novi-öböl",
+                "ro": "Golful Herceg Novi",
+                "en": "Herceg Novi Bay"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour mit einem vorsichtigen Rollen entlang der Promenade ab; tragen Sie helle Regenkleidung, um bei grauem Wetter sichtbar zu bleiben.",
+                "hu": "Zárja a túrát óvatos gurulással a sétányon; viseljen világos esőruházatot, hogy a szürke időben is jól látható maradjon a tengerparti forgalomban.",
+                "ro": "Încheiați turul cu o deplasare atentă pe faleză; purtați haine de ploaie deschise la culoare pentru a rămâne vizibil pe vreme gri în trafic.",
+                "en": "End the tour with a careful roll along the promenade; wear bright rain gear to stay visible in the coastal traffic during grey weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Start am Jadran Pool, wo die Wintersonne im Wasser glitzert. Mittags radeln wir zum Haus von Ivo Andrić, um uns bei einer Besichtigung aufzuwärmen. Die Fahrt zur Festung Kanli Kula bietet einen weiten Blick über die kühle Küste. Nachmittags besuchen wir das Savina-Kloster in winterlicher Stille. Die Tour endet am Hafen, bevor die Dämmerung gegen 17:00 Uhr die Stadt einhüllt.",
+            "hu": "Friss indulás a Jadran medencénél, ahol a téli napfény megcsillan a vízen. Délben Ivo Andrić házához tekerünk, hogy a kiállítás megtekintése közben felmelegedjünk. A Kanli Kula erődhöz vezető út tiszta kilátást nyújt a hűvös partvidékre. Délután a Savina-kolostort látogatjuk meg a téli csendben. A túra a kikötőben zárul, mielőtt a szürkület 17:00 körül leszállna a városra.",
+            "ro": "Un început proaspăt la piscina Jadran, unde soarele de iarnă strălucește în apă. La prânz, pedalăm spre casa lui Ivo Andrić pentru a ne încălzi în timpul vizitei. Drumul spre cetatea Kanli Kula oferă o vedere clară asupra coastei răcoroase. După-amiaza vizităm mănăstirea Savina în liniștea iernii. Turul se încheie în port, înainte ca amurgul să coboare peste oraș în jurul orei 17:00.",
+            "en": "A fresh start at the Jadran Pool, where winter sun glints on the water. At noon, we bike to Ivo Andrić's house to warm up while touring the exhibit. The path to Kanli Kula Fortress offers clear views of the cool coastline. In the afternoon, we visit Savina Monastery in winter silence. The tour ends at the harbor before dusk settles over the city around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jadran Schwimmbad",
+                "hu": "Jadran Medence",
+                "ro": "Piscina Jadran",
+                "en": "Jadran Pool"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresluft ist im Winter scharf; tragen Sie ein Halstuch und Handschuhe, um sich beim Radfahren vor dem kalten Wind an der Küste zu schützen.",
+                "hu": "A tengeri levegő itt télen különösen metsző; viseljen sálat és kesztyűt, hogy megvédje magát a hideg széltől kerékpározás közben a parton.",
+                "ro": "Aerul mării este deosebit de tăios aici iarna; purtați fular și mănuși pentru a vă proteja de vântul rece în timp ce pedalați pe mal.",
+                "en": "The sea air is particularly sharp here in winter; wear a scarf and gloves to protect yourself from the cold wind while cycling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Ivo Andrić Haus",
+                "hu": "Ivo Andrić Háza",
+                "ro": "Casa lui Ivo Andrić",
+                "en": "House of Ivo Andrić"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die Gartenwege können im Winter feucht sein, schieben Sie das Rad dort lieber vorsichtig.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetnek; a kert útjai télen nedvesek lehetnek, így az udvaron belül inkább tolja a kerékpárt.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; aleile grădinii pot fi umede iarna, așa că mai bine împingeți bicicleta cu atenție prin curte.",
+                "en": "Use the museum visit as a warming break; the garden paths can be damp in winter, so it's better to push your bike carefully through the yard."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanli Kula Festung",
+                "hu": "Kanli Kula erőd",
+                "ro": "Fortăreața Kanli Kula",
+                "en": "Kanli Kula Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wird Sie warm halten; oben bietet die klare Winterluft eine Sichtweite, die im Sommer durch Dunst oft eingeschränkt ist.",
+                "hu": "Az erődhöz vezető emelkedő melegen tartja majd; felérve a tiszta téli levegő olyan látótávolságot kínál, amit nyáron a pára gyakran korlátoz.",
+                "ro": "Urcarea spre cetate vă va ține de cald; odată ajunși sus, aerul curat de iarnă oferă o vizibilitate care vara este adesea limitată de ceață.",
+                "en": "The climb to the fortress will keep you warm; once at the top, the clear winter air offers visibility that is often limited by haze in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Savina",
+                "hu": "Savina-kolostor",
+                "ro": "Mănăstirea Savina",
+                "en": "Savina Monastery"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort in der Nebensaison; die Sonne wärmt die alten Klostermauern am Nachmittag angenehm auf, ideal für eine kurze Rast im Windschatten.",
+                "hu": "Békés hely a holtszezonban; a délutáni nap kellemesen felmelegíti a kolostor ősi falait, ami ideális egy rövid pihenőhöz a szélvédett részeken.",
+                "ro": "Un loc liniștit în extrasezon; soarele de după-amiază încălzește plăcut zidurile mănăstirii, fiind ideal pentru un popas în zonele ferite de vânt.",
+                "en": "A peaceful spot in the off-season; the afternoon sun warms the ancient monastery walls pleasantly, making it ideal for a short rest in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalajza-Bucht",
+                "hu": "Kalajza-öböl",
+                "ro": "Golful Kalajza",
+                "en": "Kalajza Cove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit; ziehen Sie eine zusätzliche Schicht an, da die Temperaturen in Meeresnähe schnell sinken, sobald die Sonne tiefer steht.",
+                "hu": "Élvezze a tengerparti magányt; vegyen fel egy plusz réteget, mert a víz közelében a hőmérséklet gyorsan csökken, amint a nap lejjebb ereszkedik.",
+                "ro": "Bucurați-vă de singurătatea de pe mal; puneți un strat suplimentar de haine, deoarece temperatura scade rapid lângă apă pe măsură ce soarele apune.",
+                "en": "Enjoy the seaside solitude; put on an extra layer as the temperature near the water drops quickly as the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Herceg Novi",
+                "hu": "Herceg Novi-öböl",
+                "ro": "Golful Herceg Novi",
+                "en": "Herceg Novi Bay"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor der Dunkelheit; achten Sie auf funktionierende Lichter am Rad, da die Dämmerung im Winter gegen 17:00 Uhr plötzlich einsetzt.",
+                "hu": "Fejezze be a túrát időben a sötétedés előtt; ügyeljen a működő lámpákra, mert a téli szürkület 17:00 körül nagyon hirtelen következik be.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; asigurați-vă că luminile funcționează, deoarece amurgul de iarnă vine brusc în jurul orei 17:00.",
+                "en": "Finish the tour well before dark; ensure your lights are working, as winter twilight sets in very suddenly around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Délelőtt: Vezessen fel a zord hegyekbe, hogy megcsodálja a Đevojačke grede tornyosuló szikláit és a Torion természetes szépségét, élvezve a drámai tájat.\nDél: Navigáljon vissza a városközpont felé, hogy elmerüljön a történelemben a lenyűgöző Kanli Kulánál; parkoljon le biztonságosan, mielőtt megmássza az ősi kőlépcsőket.\nDélután: Tegyen egy rövid, festői utazást a nyugodt Savina-kolostorhoz egy békés közjátékért, majd fedezze fel a Forte Mare lenyűgöző tengerparti bástyáját.\nEste: Zárja autós túráját a félreeső FKK strand környékén, ahol csendes, zavartalan naplementét figyelhet meg a nyílt adriai horizont felett.",
         "ro": "Dimineața: Conduceți pe dealurile accidentate pentru a vă minuna de stâncile falnice din Đevojačke grede și de frumusețea naturală de la Torion, bucurându-vă de peisajele dramatice.\nAmiaza: Navigați înapoi spre centrul orașului pentru a vă cufunda în istorie la impresionanta Kanli Kula, parcând în siguranță înainte de a urca treptele sale de piatră.\nDupă-amiaza: Faceți o scurtă plimbare pitorească până la senina Mănăstire Savina pentru un interludiu pașnic, urmată de explorarea bastionului de coastă Forte Mare.\nSeara: Încheiați-vă turul cu mașina îndreptându-vă spre zona retrasă a plajei FKK, unde puteți urmări un apus liniștit și neîntrerupt peste orizontul Adriaticii.",
         "en": "Morning: Drive up into the rugged hills to marvel at the towering cliffs of Đevojačke grede and the natural elevated beauty of Torion, enjoying the dramatic landscapes.\nMidday: Navigate back towards the city center to immerse yourself in history at the impressive Kanli Kula, parking securely before ascending its ancient stone steps.\nAfternoon: Take a short scenic drive to the serene Savina Monastery for a peaceful interlude, followed by exploring the coastal bastion of Forte Mare.\nEvening: Conclude your driving tour by heading out to the secluded FKK beach area, where you can watch a quiet, uninterrupted sunset over the Adriatic horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt in den nebligen Bergen bei Đevojačke grede, wo Wolken die Felsen umhüllen. Mittags steuern wir Torion und die Festung Kanli Kula an, wobei das Auto als trockener Stützpunkt dient. Nachmittags besuchen wir das Savina-Kloster und Forte Mare zwischen den Regenschauern. Der Tag endet sicher im Fahrzeug mit Blick auf die stürmische Adria am Strand.",
+            "hu": "Az út a ködös hegyekben indul Đevojačke grede-nél, ahol a felhők körbeölelik a sziklákat. Délben Torion és a Kanli Kula erőd felé vesszük az irányt, az autó tökéletes száraz bázisként szolgál. Délután a Savina-kolostort és a Forte Mare-t látogatjuk meg az esőfelhők között. A nap biztonságban, az autóban zárul a partnál a viharos Adriát figyelve.",
+            "ro": "Călătoria începe în munții cețoși la Đevojačke grede, unde norii îmbrățișează stâncile. La prânz, ne îndreptăm spre Torion și cetatea Kanli Kula, mașina servind ca bază uscată. După-amiaza vizităm mănăstirea Savina și Forte Mare printre norii de ploaie. Ziua se încheie în siguranță în mașină, observând Marea Adriatică furtunoasă pe plajă.",
+            "en": "The drive starts in the misty mountains at Đevojačke grede, where clouds embrace the cliffs. At noon, we head towards Torion and Kanli Kula Fortress, with the car serving as a dry base. In the afternoon, we visit Savina Monastery and Forte Mare between rain showers. The day ends safely in the car, watching the stormy Adriatic by the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Đevojačke grede",
+                "hu": "Đevojačke grede",
+                "ro": "Đevojačke grede",
+                "en": "Đevojačke grede"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraßen können bei Regen neblig sein; fahren Sie langsam und nutzen Sie die Nebelscheinwerfer für eine sichere Anfahrt zum Aussichtspunkt.",
+                "hu": "A hegyi utak esőben ködösek lehetnek; vezessen lassan és használja a ködfényszórót a biztonságos megérkezéshez a magaslati kilátóponthoz.",
+                "ro": "Drumurile montane pot fi cețoase pe ploaie; conduceți încet și folosiți luminile de ceață pentru a ajunge în siguranță la punctul de belvedere.",
+                "en": "Mountain roads can be misty in the rain; drive slowly and use fog lights for a safe arrival at the high-altitude viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Torion",
+                "hu": "Torion",
+                "ro": "Torion",
+                "en": "Torion"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama durch die Scheibe; der Boden außerhalb kann bei Nässe sehr matschig sein.",
+                "hu": "Heves esőben maradjon az autóban és élvezze a panorámát a szélvédőn keresztül; a talaj kint nagyon sáros és csúszós lehet a kilátónál.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați panorama prin parbriz; solul de afară poate fi foarte noroios la punctul de belvedere.",
+                "en": "In heavy rain, stay in the car and enjoy the panorama through the windshield; the ground outside can be very muddy and slippery at the lookout."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanli Kula Festung",
+                "hu": "Kanli Kula erőd",
+                "ro": "Fortăreața Kanli Kula",
+                "en": "Kanli Kula Fortress"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg im Regen zu verkürzen; die Steinwege im Inneren erfordern trotzdem festes Schuhwerk.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat; a benti kőutak a csapadék idején is stabil cipőt igényelnek.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; potecile de piatră din interior necesită pantofi stabili chiar și pe timp de ploaie.",
+                "en": "Park as close to the entrance as possible to shorten the walk in the rain; the stone paths inside still require sturdy shoes during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Savina",
+                "hu": "Savina-kolostor",
+                "ro": "Mănăstirea Savina",
+                "en": "Savina Monastery"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Kloster; nutzen Sie einen Regenschirm für den kurzen Fußweg und genießen Sie die spirituelle Ruhe im Inneren des Kirchenbaus.",
+                "hu": "A parkoló közel van a kolostorhoz; használjon esernyőt a rövid sétához, és élvezze a belső tér spirituális nyugalmát a szakadó eső elől menekülve.",
+                "ro": "Parcarea este aproape de mănăstire; folosiți o umbrelă pentru scurta plimbare și bucurați-vă de liniștea spirituală din interiorul bisericii.",
+                "en": "The parking lot is close to the monastery; use an umbrella for the short walk and enjoy the spiritual calm of the interior while escaping the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Mare",
+                "hu": "Forte Mare",
+                "ro": "Forte Mare",
+                "en": "Forte Mare"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer von den geschützten Schießscharten aus; das Auto bietet danach wieder einen warmen Rückzugsort für die Weiterfahrt.",
+                "hu": "Figyelje a tengert a védett lőréseken keresztül; az autó utána ismét meleg és száraz menedéket nyújt a városnézés kényelmes folytatásához.",
+                "ro": "Observați marea prin meterezele protejate; mașina oferă apoi din nou un refugiu cald și uscat pentru a continua vizitarea orașului în confort.",
+                "en": "Watch the sea through the protected embrasures; the car provides a warm and dry retreat afterwards to comfortably continue your sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Nudista strand",
+                "ro": "Plaja de nudiști",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Strand nur für einen Blick auf die Brandung; die Zufahrtswege können bei Regen durch Pfützen und Schmutz erschwert sein.",
+                "hu": "Csak a hullámverés látványáért látogasson el a partra; a hozzávezető utak esőben a tócsák és a sár miatt nehezebben járhatóak lehetnek az autóval.",
+                "ro": "Vizitați plaja doar pentru vederea valurilor; drumurile de acces pot fi mai greu de parcurs pe ploaie din cauza bălților și a noroiului.",
+                "en": "Visit the beach just for the view of the surf; access roads can be more difficult to navigate by car in the rain due to puddles and mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour führt morgens hinauf nach Đevojačke grede für einen klaren Blick auf die winterlichen Gipfel. Mittags erkunden wir Torion und die Festung Kanli Kula, während die Wintersonne die Steine wärmt. Nachmittags besuchen wir das Savina-Kloster und Forte Mare in der friedlichen Nebensaison. Der Tag endet am Strand, wo wir im Auto den frühen Sonnenuntergang gegen 17:00 Uhr bewundern.",
+            "hu": "A túra reggel Đevojačke grede felé vezet a téli csúcsokra nyíló tiszta kilátásért. Napközben Toriont és a Kanli Kula erődöt fedezzük fel, miközben a téli napfény melengeti a köveket. Délután a Savina-kolostort és a Forte Mare-t látogatjuk meg a békés holtszezonban. A nap a parton zárul, ahol az autóból csodáljuk a korai, 17:00 körüli naplementét.",
+            "ro": "Turul duce dimineața spre Đevojačke grede pentru o vedere clară asupra vârfurilor de iarnă. În timpul zilei explorăm Torion și cetatea Kanli Kula, în timp ce soarele de iarnă încălzește pietrele. După-amiaza vizităm mănăstirea Savina și Forte Mare în extrasezonul liniștit. Ziua se încheie pe plajă, unde admirăm din mașină apusul timpuriu de la ora 17:00.",
+            "en": "The tour leads up to Đevojačke grede in the morning for clear views of the winter peaks. During the day, we explore Torion and Kanli Kula Fortress as winter sun warms the stones. In the afternoon, we visit Savina Monastery and Forte Mare during the peaceful off-season. The day ends at the beach, where we admire the early sunset around 17:00 from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Đevojačke grede",
+                "hu": "Đevojačke grede",
+                "ro": "Đevojačke grede",
+                "en": "Đevojačke grede"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Fahrt die Straßenbedingungen; die klare Winterluft bietet hier oben die beste Fernsicht des ganzen Jahres über die Berge.",
+                "hu": "Indulás előtt ellenőrizze az útviszonyokat a hegyekben; a tiszta téli levegő innen fentről az év legjobb kilátását biztosítja a havas csúcsok felé.",
+                "ro": "Verificați starea drumurilor în munți înainte de plecare; aerul curat de iarnă oferă de aici de sus cea mai bună vizibilitate din tot anul spre vârfuri.",
+                "en": "Check road conditions in the mountains before departing; the clear winter air provides the best views of the year from up here towards the peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Torion",
+                "hu": "Torion",
+                "ro": "Torion",
+                "en": "Torion"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp für Fotos im Winterlicht; ziehen Sie sich warm an, da der Wind an diesem exponierten Aussichtspunkt im Winter recht kräftig wehen kann.",
+                "hu": "Tökéletes megálló fotózáshoz a téli fényekben; öltözzön melegen, mert ezen a kitett kilátóponton a szél elég erősen fújhat a hűvös hónapokban.",
+                "ro": "O oprire perfectă pentru fotografii în lumina iernii; îmbrăcați-vă bine, deoarece în acest punct de belvedere expus vântul poate sufla destul de tare.",
+                "en": "A perfect stop for photos in the winter light; dress warmly as the wind can be quite strong at this exposed viewpoint during the cool months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanli Kula Festung",
+                "hu": "Kanli Kula erőd",
+                "ro": "Fortăreața Kanli Kula",
+                "en": "Kanli Kula Fortress"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze nah am Zentrum; die tiefstehende Sonne am Mittag sorgt für wunderbare Schattenwürfe auf den alten Mauern der Festung.",
+                "hu": "Használja a történelmi központ közeli parkolóit; a délidőben alacsonyan járó nap csodálatos árnyékokat vet a vár ősi falaira, ideális fotótéma.",
+                "ro": "Folosiți parcările din apropierea centrului istoric; soarele care stă jos la amiază creează umbre minunate pe zidurile străvechi ale cetății.",
+                "en": "Use the parking lots near the historical center; the low noon sun casts wonderful shadows on the fortress's ancient walls, perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Savina",
+                "hu": "Savina-kolostor",
+                "ro": "Mănăstirea Savina",
+                "en": "Savina Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Stille des Klosters ist im Winter besonders spürbar; genießen Sie die friedliche Atmosphäre und den Blick auf die ruhige Bucht ohne Touristenmassen.",
+                "hu": "A kolostor csendje télen különösen érezhető; élvezze a békés atmoszférát és a kilátást a nyugodt öbölre a nyári turistatömegek nélkül.",
+                "ro": "Liniștea mănăstirii este deosebit de resimțită iarna; bucurați-vă de atmosfera pașnică și de vederea asupra golfului fără mulțimile de turiști.",
+                "en": "The monastery's silence is especially palpable in winter; enjoy the peaceful atmosphere and the view of the calm bay without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Mare",
+                "hu": "Forte Mare",
+                "ro": "Forte Mare",
+                "en": "Forte Mare"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter kühl, aber belebend; die Festung bietet am Nachmittag hervorragenden Schutz vor direktem Wind für eine Besichtigung.",
+                "hu": "A tengeri szellő télen hűvös, de frissítő; az erőd falai délután kiváló védelmet nyújtanak a közvetlen szél ellen a kényelmes nézelődéshez.",
+                "ro": "Briza mării este răcoroasă iarna, dar revigorantă; zidurile cetății oferă după-amiaza o protecție excelentă împotriva vântului direct pentru vizitare.",
+                "en": "The sea breeze is cool but refreshing in winter; the fortress walls provide excellent protection from direct wind in the afternoon for sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Nudista strand",
+                "ro": "Plaja de nudiști",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie für den Sonnenuntergang hierher; bleiben Sie im Auto, um die Farben am Himmel komfortabel und warm bei etwa 17:00 Uhr zu beobachten.",
+                "hu": "Látogasson el ide a naplementére; maradjon az autóban, hogy kényelmesen és melegen nézhesse végig az égbolt színeinek változását 17:00 körül.",
+                "ro": "Veniți aici pentru apusul soarelui; rămâneți în mașină pentru a urmări confortabil și la căldură schimbarea culorilor cerului în jurul orei 17:00.",
+                "en": "Come here for the sunset; stay in the car to comfortably and warmly watch the changing colors of the sky around 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

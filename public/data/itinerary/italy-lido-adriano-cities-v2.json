@@ -137,6 +137,168 @@
         "hu": "1. Kezdje a reggelt egy kis kultúrával a CISIM-ben, felfedezve a helyi művészeti életet.\n\n2. Irány a part, a Bagno 007 Beach, ahol érezheti a puha homokot a lába alatt, ahogy a nap egyre magasabbra hág.\n\n3. Folytassa kényelmes tengerparti sétáját a Bagno La Playa 348 és a Bagno Azzurra felé egy kis délutáni pihenésért.\n\n4. Zárja a napot az Auai Auai vidám szórakozási lehetőségeivel és színes játékaival.",
         "ro": "1. Începeți dimineața cu un strop de cultură la CISIM, explorând vibrațiile artistice locale.\n\n2. Îndreptați-vă spre coastă la Bagno 007 Beach, simțind nisipul moale sub picioare pe măsură ce soarele urcă.\n\n3. Continuați plimbarea relaxantă pe coastă spre Bagno La Playa 348 și Bagno Azzurra pentru o după-amiază de relaxare.\n\n4. Încheiați ziua cu divertisment plin de viață și atracții colorate la Auai Auai.",
         "en": "1. Start your morning with a splash of culture at CISIM, exploring local artistic vibes.\n\n2. Head towards the coast to Bagno 007 Beach, feeling the soft sand beneath your feet as the sun climbs higher.\n\n3. Continue your leisurely coastal stroll to Bagno La Playa 348 and Bagno Azzurra for an afternoon of seaside relaxation.\n\n4. Conclude your day with lively entertainment and colorful rides at Auai Auai."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken im CISIM-Kulturzentrum und genießen Sie urbane Kunst. Mittags führt der Weg entlang der regennassen Küste, wo die Bagni Schutz unter festen Decks bieten. Der Nachmittag gehört dem rhythmischen Rauschen der Adria im Regen. Abends spiegeln sich die Lichter von Lido Adriano malerisch in den Pfützen der Promenade, was dem Spaziergang einen melancholischen Charme verleiht.",
+            "hu": "Kezdje a napot a CISIM fedett falai között, elkerülve a reggeli záport. Délben az esernyős séta a parton különleges hangulatot áraszt, a Bagno teraszok pedig menedéket nyújtanak. Délután a tenger morajlása és az eső kopogása fonódik össze a sós levegővel. Este a parti sétány lámpáinak fénye megcsillan a vizes aszfalton, ami meghitt és békés lezárása a vizes kalandnak.",
+            "ro": "Începeți ziua la adăpost în centrul cultural CISIM, explorând arta locală. La prânz, o plimbare cu umbrela pe malul mării dezvăluie o latură sălbatică a Adriaticii, cu opriri sub copertinele bagnos-urilor. După-amiaza este despre sunetul ploii care întâlnește valurile. Seara, reflexiile luminilor în bălțile de pe faleză creează un cadru cinematografic și liniștit în Lido Adriano.",
+            "en": "Start your day sheltered inside CISIM, enjoying local urban culture. At noon, a walk with an umbrella along the shore reveals the Adriatic's moody beauty, with bagnos providing dry spots. The afternoon is defined by the rhythmic sound of rain hitting the sea. By evening, the lights of Lido Adriano reflect beautifully on the wet pavement, offering a peaceful and atmospheric end to your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CISIM",
+                "hu": "CISIM",
+                "ro": "CISIM",
+                "en": "CISIM"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kreativen Innenraum, um lokale Mosaikkunst und Konzerte zu entdecken, während es draußen regnet; idealer Start ohne nass zu werden.",
+                "hu": "Fedezze fel a helyi alternatív kultúrát és koncerteket ebben a fedett közösségi térben; tökéletes menedék a reggeli záporok idején.",
+                "ro": "Explorați cultura urbană și mozaicurile moderne în acest spațiu interior creativ; este refugiul ideal pentru a începe ziua ferit de ploaie.",
+                "en": "Explore local alternative culture and modern mosaics in this creative indoor space; it is the perfect shelter to start your rainy day itinerary."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 007 Beach",
+                "hu": "Bagno 007 Beach",
+                "ro": "Bagno 007 Beach",
+                "en": "Bagno 007 Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von der überdachten Veranda aus; das Geräusch des Regens auf dem Sand ist beruhigend, bringen Sie eine windfeste Jacke mit.",
+                "hu": "Figyelje a szürke Adria hullámait a fedett veranda alól; az eső kopogása a homokon meditatív élmény, de készüljön szélálló kabáttal.",
+                "ro": "Priviți marea cenușie de sub veranda acoperită; sunetul ploii pe nisip este relaxant, dar aveți nevoie de o geacă rezistentă la vânt marin.",
+                "en": "Watch the moody Adriatic waves from the covered veranda; the sound of rain on the sand is meditative, just bring a windproof rain jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno La Playa 348",
+                "hu": "Bagno La Playa 348",
+                "ro": "Bagno La Playa 348",
+                "en": "Bagno La Playa 348"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen warmen Espresso, während der Regen gegen die Scheiben peitscht; die gemütliche Atmosphäre im Inneren bietet einen tollen Kontrast zum Wetter.",
+                "hu": "Igyon meg egy forró eszpresszót, miközben az eső veri az ablakokat; a belső barátságos hangulat remek kontrasztot alkot a kinti zord idővel.",
+                "ro": "Savurați un espresso cald în timp ce ploaia bate în geam; atmosfera primitoare din interior oferă un contrast plăcut cu vremea de afară.",
+                "en": "Enjoy a warm espresso while the rain lashes against the windows; the cozy indoor atmosphere offers a wonderful contrast to the stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Azzurra",
+                "hu": "Bagno Azzurra",
+                "ro": "Bagno Azzurra",
+                "en": "Bagno Azzurra"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Stege sind bei Nässe rutschig, gehen Sie vorsichtig; der Blick auf die verlassene, regnerische Küste hat eine ganz eigene Poesie.",
+                "hu": "A fa pallók nedvesen csúszósak lehetnek, óvatosan lépkedjen; az elhagyatott, esős tengerpart látványa ilyenkor egészen költői és különleges.",
+                "ro": "Podiumurile de lemn pot fi alunecoase când sunt ude, mergeți cu grijă; priveliștea coastei pustii în ploaie are o poezie aparte astăzi.",
+                "en": "The wooden walkways can be slippery when wet, so walk carefully; the view of the deserted, rainy coast has a unique poetic quality today."
+              }
+            },
+            {
+              "name": {
+                "de": "Auai Auai",
+                "hu": "Auai Auai",
+                "ro": "Auai Auai",
+                "en": "Auai Auai"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Trockenen und lauschen Sie dem Sturm draußen; wasserfeste Schuhe sind für das letzte Stück über den Parkplatz ratsam.",
+                "hu": "Zárja a túrát fedett helyen, hallgatva a kinti vihart; a parkolón átvezető utolsó szakaszhoz vízálló cipő használata erősen javasolt.",
+                "ro": "Încheiați turul la adăpost, ascultând furtuna de afară; încălțămintea impermeabilă este recomandată pentru ultima porțiune prin parcare.",
+                "en": "End your tour in the dry interior, listening to the storm outside; waterproof shoes are highly recommended for the final walk across the lot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Lido Adriano beginnt erfrischend im CISIM. Die kalte Adrialuft am Mittag weckt die Geister, während man den weiten, leeren Horizont genießt. Da die Sonne bereits gegen 17:00 Uhr untergeht, taucht der Nachmittag die Küste in ein sanftes, pastellfarbenes Licht. Wärmen Sie sich zwischendurch in den wenigen offenen Cafés auf und genießen Sie die friedliche Stille der Nebensaison.",
+            "hu": "A téli reggel frissítően indul a CISIM közösségi terében. Délben a csípős adriai szél élettel tölti meg a partot, ahol ilyenkor végtelen a nyugalom. Mivel a nap már 17:00 körül lebukik, a délután pasztell színekbe öltözteti a horizontot. Melegedjen meg a nyitva tartó helyeken egy tea mellett, és élvezze a tengerparti holtszezon különleges, csendes varázsát.",
+            "ro": "O dimineață de iarnă începe revigorant la CISIM. La prânz, aerul tăios al Adriaticii trezește simțurile pe plaja pustie, oferind o perspectivă vastă asupra orizontului. Deoarece soarele apune în jur de ora 17:00, după-amiaza scaldă coasta în culori pastelate. Încălziți-vă cu un ceai în cafenelele deschise și savurați liniștea deplină a extrasezonului.",
+            "en": "A winter morning starts refreshingly at CISIM. By noon, the crisp Adriatic air revitalizes you on the empty beach, offering vast views of the horizon. Since the sun sets around 17:00, the afternoon bathes the coast in soft pastel light. Warm up with a hot drink in the open cafes and enjoy the peaceful, quiet charm of the seaside in the off-season."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CISIM",
+                "hu": "CISIM",
+                "ro": "CISIM",
+                "en": "CISIM"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme dieses Kulturzentrums und entdecken Sie moderne Mosaike; ein Schal ist wichtig, wenn Sie danach wieder in den Wind treten.",
+                "hu": "Élvezze a kulturális központ melegét és a modern mozaikokat; sál használata kötelező, mielőtt újra kilépne a jeges tengeri szélbe.",
+                "ro": "Bucurați-vă de căldura centrului cultural și admirați mozaicurile moderne; un fular este esențial înainte de a ieși din nou în vântul rece.",
+                "en": "Enjoy the warmth of this cultural hub and discover modern mosaics; a scarf is essential before stepping back out into the biting sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 007 Beach",
+                "hu": "Bagno 007 Beach",
+                "ro": "Bagno 007 Beach",
+                "en": "Bagno 007 Beach"
+              },
+              "tip_5lang": {
+                "de": "Die weite, menschenleere Küste bietet fantastische Fotomotive im Winterlicht; tragen Sie Thermokleidung, um dem kalten Seewind standzuhalten.",
+                "hu": "A végtelen, néptelen tengerpart fantasztikus fotótéma a téli fényekben; viseljen hőtartó ruházatot a metsző tengeri szél ellen.",
+                "ro": "Plaja vastă și pustie oferă cadre foto fantastice în lumina iernii; purtați haine termice pentru a rezista vântului tăios de pe mare.",
+                "en": "The vast, deserted beach offers fantastic photo opportunities in the winter light; wear thermal layers to withstand the sharp sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno La Playa 348",
+                "hu": "Bagno La Playa 348",
+                "ro": "Bagno La Playa 348",
+                "en": "Bagno La Playa 348"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen windgeschützten Platz an der Glasfront, um das Meer zu sehen; ein heißer Kakao hilft, die Körpertemperatur nach dem Marsch zu halten.",
+                "hu": "Keressen egy szélvédett helyet az üvegfal mögött a tenger bámulásához; egy forró kakaó segít visszanyerni testhőjét a hosszú séta után.",
+                "ro": "Căutați un loc ferit de vânt în spatele geamurilor pentru a admira marea; o ciocolată caldă vă va ajuta să vă reîncălziți după plimbare.",
+                "en": "Find a wind-sheltered spot behind the glass front to watch the waves; a hot cocoa will help restore your body heat after the long walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Azzurra",
+                "hu": "Bagno Azzurra",
+                "ro": "Bagno Azzurra",
+                "en": "Bagno Azzurra"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne glitzert um 15:30 Uhr wunderschön auf dem Wasser; halten Sie Ihre Ohren mit einer Mütze warm, die Böen sind hier stark.",
+                "hu": "Az alacsonyan járó nap 15:30 körül gyönyörűen csillog a vízen; védje füleit meleg sapkával, mert a széllökések itt nagyon erősek lehetnek.",
+                "ro": "Soarele jos strălucește superb pe apă în jurul orei 15:30; protejați-vă urechile cu o căciulă, rafalele de vânt sunt foarte puternice aici.",
+                "en": "The low winter sun sparkles beautifully on the water around 15:30; keep your ears warm with a hat as the gusts are very strong here."
+              }
+            },
+            {
+              "name": {
+                "de": "Auai Auai",
+                "hu": "Auai Auai",
+                "ro": "Auai Auai",
+                "en": "Auai Auai"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr gemütlich von drinnen; das warme Licht über der kalten Adria ist ein magischer Moment.",
+                "hu": "Nézze végig a korai, 17:00 körüli naplementét kényelmesen, bentről; a meleg fények a hideg Adria felett varázslatos látványt nyújtanak.",
+                "ro": "Urmăriți apusul timpuriu de la ora 17:00 confortabil, din interior; luminile calde peste marea rece oferă un spectacol magic.",
+                "en": "Watch the early sunset around 17:00 comfortably from inside; the warm light over the cold Adriatic creates a truly magical moment."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "1. Kezdje kerékpártúráját az északi végén a Bagno Alessandro-nál, élvezve a friss reggeli tengeri szellőt.\n\n2. Kényelmesen tekerjen dél felé, álljon meg egy kis frissítőre és tengerparti pihenésre a Bagno Cesar és a Bagno Calipso strandokon.\n\n3. Folytassa útját a part mentén, kényeztesse magát egy finom ebéddel a Bagno Sabbia d'Oro 466-ban, és mártózzon meg a Bagno Corallo-nál.\n\n4. Zárja aktív napját a Bagno Cala Celeste-ben, megcsodálva a naplementét egy jól megérdemelt esti aperitivo kíséretében.",
         "ro": "1. Începeți turul cu bicicleta la capătul nordic la Bagno Alessandro, bucurându-vă de briza proaspătă a mării de dimineață.\n\n2. Pedați lin spre sud, oprindu-vă pentru o gustare și o relaxare pe plajă la Bagno Cesar și Bagno Calipso.\n\n3. Continuați plimbarea de-a lungul coastei, răsfățându-vă cu un prânz delicios la Bagno Sabbia d'Oro 466 și o baie la Bagno Corallo.\n\n4. Încheiați ziua activă la Bagno Cala Celeste, privind apusul cu un aperitiv binemeritat de seară.",
         "en": "1. Kick off your cycling tour at the northern end with Bagno Alessandro, enjoying the crisp morning sea breeze.\n\n2. Pedal smoothly southwards, stopping for refreshments and beachside relaxation at Bagno Cesar and Bagno Calipso.\n\n3. Continue your ride along the coast, treating yourself to a delicious seafood lunch at Bagno Sabbia d'Oro 466 and a quick dip at Bagno Corallo.\n\n4. Conclude your active day at Bagno Cala Celeste, watching the sunset with a well-deserved evening aperitivo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen, bietet aber leere Pfade. Starten Sie im Norden und fahren Sie Richtung Süden, wobei Sie die Bagni als strategische Pausenstationen nutzen. Die Luft ist herrlich frisch, und das Spritzen der Pfützen gehört zum Abenteuer dazu. Achten Sie auf rutschige Stellen und genießen Sie die maritime Atmosphäre fernab der Massen.",
+            "hu": "Az esős bringázás óvatosságot igényel a parti utakon, de cserébe üres ösvényeket kínál. Északról tartson dél felé, a Bagnókat használva stratégiai pihenőpontként. A levegő ilyenkor frissítően sós, a tócsák pedig a kaland részét képezik. Figyeljen a csúszós szakaszokra, és élvezze a tengerparti hangulatot a tömegek nélkül, vízálló felszerelésben.",
+            "ro": "O tură cu bicicleta în ploaie necesită atenție pe pistele de pe coastă, dar oferă drumuri libere. Porniți din nord spre sud, folosind bagnos-urile ca puncte strategice de oprire. Aerul este incredibil de proaspăt, iar bălțile fac parte din aventură. Atenție la zonele alunecoase și bucurați-vă de atmosfera maritimă fără aglomerație.",
+            "en": "Cycling in the rain requires caution on coastal paths but rewards you with empty trails. Ride from north to south, using the bagnos as strategic rest stops. The air is wonderfully fresh, and splashing through puddles is part of the adventure. Watch out for slippery spots and enjoy the seaside atmosphere without the crowds in your rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagno Alessandro",
+                "hu": "Bagno Alessandro",
+                "ro": "Bagno Alessandro",
+                "en": "Bagno Alessandro"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da die Wege nass sind; die überdachte Bar bietet einen ersten trockenen Blick auf die nördliche Küste.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a nedves utak miatt; a fedett bárhelyiségből remek első pillantást vethet az északi tengerpartra.",
+                "ro": "Verificați frânele înainte de plecare din cauza pistelor ude; barul acoperit oferă o primă privire uscată asupra coastei de nord.",
+                "en": "Check your brakes before starting due to the wet paths; the covered bar area offers a first dry view of the northern coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Cesar",
+                "hu": "Bagno Cesar",
+                "ro": "Bagno Cesar",
+                "en": "Bagno Cesar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach, um den Sattel trocken zu halten; eine kurze Pause hier hilft, die Sicht bei Regen wieder zu klären.",
+                "hu": "Parkoljon az előtető alatt, hogy a nyereg száraz maradjon; egy rövid pihenő itt segít megtisztítani a szemüvegét vagy látását az esőben.",
+                "ro": "Parcați bicicleta sub copertină pentru a păstra șaua uscată; o scurtă pauză aici vă ajută să vă recăpătați vizibilitatea prin ploaie.",
+                "en": "Park your bike under the overhang to keep the saddle dry; a short break here helps clear your vision or goggles during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Calipso",
+                "hu": "Bagno Calipso",
+                "ro": "Bagno Calipso",
+                "en": "Bagno Calipso"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Sand auf dem Radweg, der bei Regen sehr rutschig wird; die warme Atmosphäre drinnen ist perfekt für eine trockene Zwischenmahlzeit.",
+                "hu": "Vigyázzon a kerékpárútra fújt homokkal, ami esőben nagyon csúszik; a benti meleg környezet tökéletes egy száraz, gyors tízóraira.",
+                "ro": "Atenție la nisipul de pe pistă, care devine foarte alunecos în ploaie; atmosfera caldă de interior este perfectă pentru o gustare uscată.",
+                "en": "Watch out for sand on the bike path, which becomes very slippery in the rain; the warm indoor setting is perfect for a dry snack."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Sabbia d'Oro 466",
+                "hu": "Bagno Sabbia d'Oro 466",
+                "ro": "Bagno Sabbia d'Oro 466",
+                "en": "Bagno Sabbia d'Oro 466"
+              },
+              "tip_5lang": {
+                "de": "Ein Schutzblech ist heute Ihr bester Freund gegen Schlammspritzer; genießen Sie den Blick auf die goldenen Reflexionen im nassen Sand.",
+                "hu": "A sárvédő ma a legjobb barátja a felcsapódó víz ellen; élvezze az arany fények tükröződését a vizes homokon a teraszról.",
+                "ro": "Aripile de protecție sunt esențiale astăzi împotriva noroiului; admirați reflexiile aurii de pe nisipul ud din zona protejată.",
+                "en": "Fenders are your best friend today against splashes; enjoy the sight of golden reflections on the wet sand from the sheltered area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Corallo",
+                "hu": "Bagno Corallo",
+                "ro": "Bagno Corallo",
+                "en": "Bagno Corallo"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihre Lichter ab, um im grauen Regen für andere sichtbar zu bleiben; die Korallentöne wirken im trüben Licht besonders intensiv.",
+                "hu": "Törölje le a lámpáit, hogy látható maradjon a szürke esőben; a korall színek ilyenkor különösen élénknek tűnnek a borús fényben.",
+                "ro": "Ștergeți farurile pentru a rămâne vizibil în ploaia cenușie; nuanțele de corall par deosebit de intense în lumina difuză de azi.",
+                "en": "Wipe your lights to stay visible in the grey rain; the coral tones look surprisingly vibrant in today's overcast and moody light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Cala Celeste",
+                "hu": "Bagno Cala Celeste",
+                "ro": "Bagno Cala Celeste",
+                "en": "Bagno Cala Celeste"
+              },
+              "tip_5lang": {
+                "de": "Nach der nassen Fahrt bietet dieser Ort die perfekte Belohnung im Trockenen; hängen Sie Ihre Regenjacke zum Abtropfen an den Rand.",
+                "hu": "A vizes tekerés után ez a hely tökéletes jutalmat kínál fedett helyen; akassza fel az esőkabátját száradni a pihenő alatt.",
+                "ro": "După tura umedă, acest loc oferă recompensa perfectă la adăpost; puneți pelerina de ploaie la scurs în timp ce vă relaxați la final.",
+                "en": "After the wet ride, this spot offers the perfect reward in the dry; hang your rain jacket to drip dry while you relax at the finish."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Lido Adriano bedeutet klare Sicht und erfrischenden Wind. Die Wege sind leer, ideal für eine zügige Fahrt entlang der Küste. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Nachmittag für die südlichen Abschnitte nutzen. Ziehen Sie sich im Zwiebelprinzip an, um bei Pausen in den Cafés nicht zu überhitzen und auf dem Rad nicht auszukühlen.",
+            "hu": "A téli bringázás Lido Adrianóban tiszta látási viszonyokat és frissítő szelet jelent. Az utak üresek, ideálisak egy tempósabb parti tekeréshez. Mivel a nap 17:00 körül lemegy, érdemes a délutánt a déli szakaszok felfedezésére szánni. Öltözzön rétegesen, hogy a kávézókban ne legyen melege, a nyeregben viszont ne fázzon meg a menetszélben.",
+            "ro": "Ciclismul de iarnă în Lido Adriano înseamnă vizibilitate maximă și vânt revigorant. Pistele sunt libere, perfecte pentru o tură rapidă pe coastă. Deoarece soarele apune la 17:00, profitați de după-amiază pentru porțiunile sudice. Îmbrăcați-vă în straturi pentru a nu transpira în cafenele și pentru a nu îngheța pe bicicletă.",
+            "en": "Winter cycling in Lido Adriano means clear views and refreshing winds. The paths are empty, ideal for a brisk ride along the coast. Since the sun sets around 17:00, use the afternoon to explore the southern sections. Dress in layers to stay comfortable in cozy cafes and warm against the wind while in the saddle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagno Alessandro",
+                "hu": "Bagno Alessandro",
+                "ro": "Bagno Alessandro",
+                "en": "Bagno Alessandro"
+              },
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für das Halten des Lenkers im kalten Morgenwind unerlässlich; genießen Sie die klare, frostige Sicht auf das Meer.",
+                "hu": "A meleg kesztyű elengedhetetlen a kormány fogásához a hideg reggeli szélben; élvezze a tenger kristálytiszta, jeges látványát.",
+                "ro": "Mănușile groase sunt esențiale pentru a ține ghidonul în vântul rece de dimineață; admirați vederea clară și înghețată a mării.",
+                "en": "Warm gloves are essential for gripping the handlebars in the cold morning wind; enjoy the crystal-clear, frosty view of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Cesar",
+                "hu": "Bagno Cesar",
+                "ro": "Bagno Cesar",
+                "en": "Bagno Cesar"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um sich zu bewegen und die Beine aufzuwärmen; die Wintersonne spendet hier oft eine angenehme, milde Wärme.",
+                "hu": "Tartson egy rövid szünetet, hogy átmozgassa és felmelegítse a lábait; a téli nap itt gyakran kellemes, enyhe meleget ad a szélvédett részen.",
+                "ro": "Faceți o scurtă pauză pentru a vă mișca și a vă încălzi picioarele; soarele de iarnă oferă adesea o căldură blândă în zonele adăpostite.",
+                "en": "Take a short break to move around and warm up your legs; the winter sun often provides a pleasant, mild warmth in sheltered spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Calipso",
+                "hu": "Bagno Calipso",
+                "ro": "Bagno Calipso",
+                "en": "Bagno Calipso"
+              },
+              "tip_5lang": {
+                "de": "Ein heißer Tee in der Mittagssonne hilft gegen das Auskühlen; der weite Blick über den leeren Strand ist im Winter besonders beruhigend.",
+                "hu": "Egy forró tea a déli napsütésben segít a lehűlés ellen; a végtelen kilátás az üres strandra télen különösen megnyugtató élmény.",
+                "ro": "Un ceai fierbinte la soarele de prânz previne hipotermia; vederea panoramică asupra plajei pustii este extrem de relaxantă iarna.",
+                "en": "A hot tea in the midday sun helps prevent chilling; the vast view over the empty beach is particularly soothing during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Sabbia d'Oro 466",
+                "hu": "Bagno Sabbia d'Oro 466",
+                "ro": "Bagno Sabbia d'Oro 466",
+                "en": "Bagno Sabbia d'Oro 466"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden, eine Sonnenbrille ist ratsam; genießen Sie die goldene Stunde direkt am Wasser.",
+                "hu": "Az alacsony napállás vakíthat tekerés közben, ezért napszemüveg ajánlott; élvezze az aranyórát közvetlenül a vízparton.",
+                "ro": "Soarele jos vă poate orbi în timp ce pedalați, deci ochelarii de soare sunt recomandați; savurați ora de aur chiar lângă apă.",
+                "en": "The low sun can be blinding while cycling, so sunglasses are advised; enjoy the golden hour right by the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Corallo",
+                "hu": "Bagno Corallo",
+                "ro": "Bagno Corallo",
+                "en": "Bagno Corallo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Ihre Fahrradleuchten, da es ab 16:30 Uhr schnell dämmert; die kühle Luft lässt die Farben des Sonnenuntergangs intensiver wirken.",
+                "hu": "Figyeljen a kerékpárlámpákra, mert 16:30 után gyorsan sötétedik; a hűvös levegő miatt a naplemente színei ilyenkor intenzívebbnek tűnnek.",
+                "ro": "Verificați luminile bicicletei, deoarece se întunecă rapid după 16:30; aerul rece face culorile apusului să pară mult mai intense.",
+                "en": "Check your bike lights as it gets dark quickly after 16:30; the cool air makes the sunset colors appear much more intense and vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Cala Celeste",
+                "hu": "Bagno Cala Celeste",
+                "ro": "Bagno Cala Celeste",
+                "en": "Bagno Cala Celeste"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour bei Einbruch der Dunkelheit in der Wärme; eine warme Suppe ist jetzt genau das Richtige nach der kalten Fahrt.",
+                "hu": "Zárja a túrát sötétedéskor a benti melegben; egy forró leves most a legjobb választás a fagyos tekerés után.",
+                "ro": "Încheiați turul la lăsarea întunericului, în căldura interiorului; o supă caldă este exact ce vă trebuie după drumul rece.",
+                "en": "End your tour at nightfall in the warmth of the indoors; a hot soup is exactly what you need after a chilly winter ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "1. Kezdje autós túráját a környék kulturális szívében egy inspiráló reggeli látogatással a CISIM-ben.\n\n2. Irány a part, és parkoljon le kényelmesen a Bagno Azzurra hothel és a Bagno Sabbia d'Oro 466 közelében, hogy élvezze a déli napsütést és egy finom tengerparti ebédet.\n\n3. Tegyen egy gyors kitérőt a szárazföld belseje felé egy kis délutáni családbarát szórakozásért és izgalmakért az Auai Auai vidámparkban.\n\n4. Vezessen tovább délre, hogy a napot békés tengerparti hangulattal zárja a Bagno La Rosa dei Venti-ben és egy elegáns naplementés itallal a Bagno Le Vele-ben.",
         "ro": "1. Începeți turul cu mașina în inima culturală a zonei cu o vizită matinală la CISIM.\n\n2. Îndreptați-vă spre coastă și parcați confortabil lângă Bagno Azzurra hothel și Bagno Sabbia d'Oro 466 pentru a vă bucura de soarele amiezii și de un prânz minunat.\n\n3. Faceți o scurtă plimbare spre interior pentru distracție în familie după-amiaza la Auai Auai.\n\n4. Conduceți mai spre sud pentru a încheia ziua cu vibrații pașnice de coastă la Bagno La Rosa dei Venti și o băutură șic la apus la Bagno Le Vele.",
         "en": "1. Begin your driving tour at the cultural heart of the area with an inspiring morning visit to CISIM.\n\n2. Head to the coast and comfortably park near Bagno Azzurra hothel and Bagno Sabbia d'Oro 466 to enjoy the midday sun and a lovely seaside lunch.\n\n3. Take a quick drive inland for some afternoon family-friendly amusement and thrills at Auai Auai.\n\n4. Drive further south to round off the day with peaceful coastal vibes at Bagno La Rosa dei Venti and a chic sunset drink at Bagno Le Vele."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die komfortabelste Wahl für einen Regentag in Lido Adriano. Sie springen einfach von einer Sehenswürdigkeit zur nächsten, ohne nass zu werden. Starten Sie beim CISIM und erkunden Sie dann die verschiedenen Bagni entlang der Küste. Genießen Sie den Blick auf die stürmische Adria aus der Sicherheit Ihres warmen Fahrzeugs und machen Sie gemütliche Pausen im Trockenen.",
+            "hu": "Az autó a legkényelmesebb választás egy esős napon Lido Adrianóban. Így könnyedén mozoghat a helyszínek között anélkül, hogy bőrig ázna. Kezdjen a CISIM-nél, majd látogassa meg a tengerparti Bagnókat. Élvezze a viharos Adria látványát autója melegéből, és tartson kényelmes, száraz pihenőket a belső terekben, távol a szakadó esőtől.",
+            "ro": "Mașina este cea mai confortabilă alegere pentru o zi ploioasă în Lido Adriano. Puteți merge de la un obiectiv la altul fără să vă udați deloc. Începeți la CISIM și apoi explorați diversele bagnos de pe coastă. Admirați marea agitată din siguranța vehiculului cald și faceți pauze relaxante la adăpost, departe de ploaia torențială.",
+            "en": "The car is the most comfortable choice for a rainy day in Lido Adriano. You can easily hop from one spot to the next without getting soaked. Start at CISIM and then explore the various bagnos along the coast. Enjoy views of the stormy Adriatic from the safety of your warm vehicle and take cozy, dry breaks inside while the rain pours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CISIM",
+                "hu": "CISIM",
+                "ro": "CISIM",
+                "en": "CISIM"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt davor, so bleiben Sie trocken; nutzen Sie die Zeit drinnen, um die moderne Mosaikkultur in Ruhe zu studieren.",
+                "hu": "Parkoljon közvetlenül az épület előtt, így száraz maradhat; használja ki az időt a benti modern mozaikkultúra nyugodt tanulmányozására.",
+                "ro": "Parcați chiar în față pentru a rămâne uscat; profitați de timpul petrecut în interior pentru a studia cultura modernă a mozaicului.",
+                "en": "Park right in front to stay completely dry; take your time inside to study the modern mosaic culture without any rush from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Azzurra hothel",
+                "hu": "Bagno Azzurra hothel",
+                "ro": "Bagno Azzurra hothel",
+                "en": "Bagno Azzurra hothel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Meerblick direkt aus dem Auto, falls es zu stark regnet; die Hotelbar bietet einen eleganten und trockenen Rückzugsort.",
+                "hu": "Élvezze a tengeri kilátást közvetlenül az autóból, ha túl erősen esne; a hotel bárja elegáns és száraz menedéket kínál a pihenéshez.",
+                "ro": "Admirați vederea la mare direct din mașină dacă plouă prea tare; barul hotelului oferă un refugiu elegant și uscat pentru relaxare.",
+                "en": "Enjoy the sea view directly from your car if the rain is too heavy; the hotel bar offers an elegant and dry retreat for a relaxing break."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Sabbia d'Oro 466",
+                "hu": "Bagno Sabbia d'Oro 466",
+                "ro": "Bagno Sabbia d'Oro 466",
+                "en": "Bagno Sabbia d'Oro 466"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm im Kofferraum griffbereit für den Weg vom Parkplatz; der nasse Sand glänzt im Regen wie echtes Gold.",
+                "hu": "Tartsa esernyőjét kéznél a csomagtartóban a parkolótól a bejáratig; a vizes homok ilyenkor úgy csillog az esőben, mint a valódi arany.",
+                "ro": "Țineți umbrela la îndemână în portbagaj pentru drumul de la parcare; nisipul ud strălucește în ploaie la fel ca aurul adevărat.",
+                "en": "Keep your umbrella handy in the trunk for the walk from the lot; the wet sand glitters in the rain just like real gold today."
+              }
+            },
+            {
+              "name": {
+                "de": "Auai Auai",
+                "hu": "Auai Auai",
+                "ro": "Auai Auai",
+                "en": "Auai Auai"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich bei einem Kaffee aufzuwärmen; die Fenster bieten einen tollen Panoramablick auf die stürmischen Wellen.",
+                "hu": "Ideális megálló egy forró kávéhoz és felmelegedéshez; az ablakokból remek panoráma nyílik a viharos, tajtékzó hullámokra.",
+                "ro": "Oprire ideală pentru o cafea caldă și reîncălzire; ferestrele oferă o panoramă excelentă asupra valurilor înspumate și agitate.",
+                "en": "An ideal stop for a hot coffee and to warm up; the large windows offer a great panoramic view of the stormy, crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno La Rosa dei Venti",
+                "hu": "Bagno La Rosa dei Venti",
+                "ro": "Bagno La Rosa dei Venti",
+                "en": "Bagno La Rosa dei Venti"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier an der Küste Türen zuschlagen, halten Sie sie beim Aussteigen fest; drinnen herrscht eine gemütliche Ruhe fernab des Sturms.",
+                "hu": "A parti szél itt erősen becsaphatja az ajtókat, fogja meg őket kiszálláskor; bent barátságos nyugalom fogadja a vihar elől menekülőt.",
+                "ro": "Vântul de pe coastă poate trânti ușile mașinii, țineți-le bine la coborâre; în interior veți găsi o liniște plăcută, departe de furtună.",
+                "en": "The coastal wind can slam car doors here, so hold them firmly when getting out; inside, a cozy calm awaits you away from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Le Vele",
+                "hu": "Bagno Le Vele",
+                "ro": "Bagno Le Vele",
+                "en": "Bagno Le Vele"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung auf dem Rückweg für maximalen Komfort; der Blick auf die regnerische Adria ist der perfekte Abschluss des Tages.",
+                "hu": "Használja az ülésfűtést a hazaúton a maximális kényelemért; az esős Adria látványa az ablakból tökéletes zárása ennek a napnak.",
+                "ro": "Folosiți încălzirea în scaune la întoarcere pentru confort maxim; vederea Adriaticii ploioase prin geam este finalul perfect al zilei.",
+                "en": "Use the seat heaters on your way back for maximum comfort; the view of the rainy Adriatic through the window is the perfect day ender."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Lido Adriano im Winter ganz entspannt mit dem Auto. Die Parkplatzsuche ist in der Nebensaison ein Kinderspiel, was Ihnen maximale Flexibilität gibt. Beginnen Sie kulturell im CISIM und fahren Sie dann die Küstenstraße entlang, um die melancholische Schönheit des Winters zu genießen. Da es um 17:00 Uhr dunkel wird, bietet das Auto eine warme Basis für Ihre Entdeckungstour.",
+            "hu": "Fedezze fel Lido Adrianót télen, kényelmesen az autójából. A parkolás holtszezonban gyerekjáték, ami maximális szabadságot ad az útvonalhoz. Kezdjen a CISIM kulturális terében, majd autózzon végig a parti úton, élvezve a téli táj melankolikus szépségét. Mivel 17:00 körül sötétedik, az autó meleg bázisként szolgál a felfedezésekhez.",
+            "ro": "Explorați Lido Adriano iarna în mod relaxat cu mașina. Găsirea unui loc de parcare este floare la ureche în extrasezon, oferindu-vă flexibilitate. Începeți cultural la CISIM și apoi conduceți pe drumul de coastă pentru a admira frumusețea iernii. Deoarece se întunecă la 17:00, mașina oferă o bază caldă pentru explorare.",
+            "en": "Explore Lido Adriano in winter from the comfort of your car. Finding parking is easy in the off-season, giving you maximum flexibility for your route. Start with culture at CISIM and then drive along the coastal road to enjoy the melancholic beauty of the winter landscape. Since it gets dark by 17:00, your car serves as a warm base for discovery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CISIM",
+                "hu": "CISIM",
+                "ro": "CISIM",
+                "en": "CISIM"
+              },
+              "tip_5lang": {
+                "de": "Heizen Sie den Wagen vor, während Sie die Mosaike drinnen bewundern; die klare Winterluft draußen ist danach besonders erfrischend.",
+                "hu": "Fűtse fel az autót, amíg bent a mozaikokban gyönyörködik; a kinti tiszta téli levegő utána különösen frissítő lesz a rövid sétához.",
+                "ro": "Preîncălziți mașina în timp ce admirați mozaicurile din interior; aerul curat de iarnă de afară va fi apoi extrem de revigorant.",
+                "en": "Pre-heat your car while admiring the mosaics inside; the clear winter air outside will feel especially refreshing for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Azzurra hothel",
+                "hu": "Bagno Azzurra hothel",
+                "ro": "Bagno Azzurra hothel",
+                "en": "Bagno Azzurra hothel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt und genießen Sie den Blick auf die leere Adria; ein heißes Getränk in der Lobbybar vertreibt den Winterblues.",
+                "hu": "Parkoljon szélvédett helyen, és élvezze az üres Adria látványát; egy forró ital a lobby bárban azonnal elűzi a téli melankóliát.",
+                "ro": "Parcați într-un loc ferit de vânt și admirați Adriatica pustie; o băutură caldă în barul de la recepție vă va binedispune imediat.",
+                "en": "Park in a wind-sheltered spot and enjoy the view of the empty Adriatic; a hot drink in the lobby bar will chase away any winter blues."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Sabbia d'Oro 466",
+                "hu": "Bagno Sabbia d'Oro 466",
+                "ro": "Bagno Sabbia d'Oro 466",
+                "en": "Bagno Sabbia d'Oro 466"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und spiegelt sich herrlich im Wasser, Sonnenbrille nicht vergessen; genießen Sie die Ruhe am goldenen Sand.",
+                "hu": "A téli nap alacsonyan jár és gyönyörűen tükröződik a vízen, ne felejtse a napszemüveget; élvezze a csendet az arany homokparton.",
+                "ro": "Soarele de iarnă este jos și se reflectă superb în apă, nu uitați ochelarii de soare; savurați liniștea deplină de pe nisipul auriu.",
+                "en": "The winter sun is low and reflects beautifully on the water, so don't forget sunglasses; enjoy the absolute silence on the golden sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Auai Auai",
+                "hu": "Auai Auai",
+                "ro": "Auai Auai",
+                "en": "Auai Auai"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für eine späte Mittagspause im Warmen; beobachten Sie die Wellen durch die großen Fensterfronten bei einem Espresso.",
+                "hu": "Hangulatos hely egy késői meleg ebédhez vagy kávéhoz; figyelje a hullámzást a nagy üvegfelületeken keresztül egy forró eszpresszó mellett.",
+                "ro": "Un loc primitor pentru un prânz întârziat la căldură; urmăriți valurile prin ferestrele mari în timp ce savurați un espresso fierbinte.",
+                "en": "A cozy spot for a late warm lunch or coffee; watch the waves through the large windows while enjoying a hot Italian espresso."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno La Rosa dei Venti",
+                "hu": "Bagno La Rosa dei Venti",
+                "ro": "Bagno La Rosa dei Venti",
+                "en": "Bagno La Rosa dei Venti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz für ein kurzes Foto im sanften 16:00-Uhr-Licht; ziehen Sie sich warm an, da der Wind hier ungeschützt weht.",
+                "hu": "Használja ki a parkolót egy gyors fotóra a lágy 16:00-ás fényekben; öltözzön fel jól, mert itt a szél akadálytalanul fúj a part felől.",
+                "ro": "Folosiți parcarea pentru o fotografie rapidă în lumina caldă de la ora 16:00; îmbrăcați-vă bine, vântul bate tare dinspre mare aici.",
+                "en": "Use the parking lot for a quick photo in the soft 16:00 light; dress warmly as the wind blows unobstructed from the sea here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Le Vele",
+                "hu": "Bagno Le Vele",
+                "ro": "Bagno Le Vele",
+                "en": "Bagno Le Vele"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr aus dem warmen Auto; das Farbspiel über der dunklen Wintersee ist ein toller Tagesabschluss.",
+                "hu": "Nézze végig a 17:00-ás naplementét a meleg autóból; a sötét téli tenger feletti színyjáték tökéletes lezárása a napnak.",
+                "ro": "Urmăriți apusul de la ora 17:00 din mașina caldă; jocul de culori de deasupra mării întunecate este un final de zi superb.",
+                "en": "Watch the 17:00 sunset from your warm car; the display of colors over the dark winter sea is a wonderful way to end your day."
+              }
+            }
+          ]
+        }
       }
     }
   }

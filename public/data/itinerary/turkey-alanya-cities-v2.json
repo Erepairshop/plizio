@@ -137,6 +137,168 @@
         "hu": "Kezdje a napsütötte alanyai reggelt a Kleopátra-strand keleti szakaszainak nyugodt, szikrázó vizénél. A reggeli nap finoman felmelegíti az aranyhomokot, ami tökéletes környezetet teremt egy pihentető úszáshoz, még a tömeg megérkezése előtt.\nAhogy közeledik a dél, merészkedjen egy kicsit tovább a parton. Az energia fokozódik az élénk strandbárokkal és a mediterrán hőséget élvező utazókkal. Ez az ideális alkalom egy frissítő ital elfogyasztására és a pezsgő partvidéki hangulat befogadására.\nDélután folytassa ennek a legendás partvonalnak a felfedezését. A finom tengeri szellő kellemes felfrissülést nyújt a napsütésben, így ez egy nagyszerű időszak a színes kavicsok keresgélésére vagy a távoli hajók megfigyelésére.\nZárja a napot a strand legnyugatibb részén vagy egy nyüzsgő strandklubban, amikor a nap lenyugszik. Az égbolt narancssárga és rózsaszín ragyogó vászonná változik, lélegzetelállító finálét nyújtva a tökéletes török riviérai tengerparti naphoz.",
         "ro": "Începeți dimineața însorită din Alanya cu apele calme și strălucitoare de pe întinderile estice ale plajei Cleopatra. Soarele dimineții încălzește ușor nisipul auriu, creând un mediu perfect pentru o înotare relaxantă înainte de sosirea mulțimilor.\nLa apropierea amiezii, aventurați-vă puțin mai departe de-a lungul coastei. Energia crește odată cu barurile pline de viață de pe plajă. Acesta este momentul ideal pentru a savura o băutură răcoritoare și a vă bucura de atmosfera vibrantă a Mediteranei.\nDupă-amiaza, continuați să explorați întinderile nesfârșite ale acestui țărm legendar. Briza subtilă a mării oferă un răgaz binevenit de la soare, fiind un moment excelent pentru a căuta pietricele colorate sau a privi bărcile îndepărtate.\nÎncheiați ziua în părțile vestice ale plajei sau într-un club plin de viață, pe măsură ce soarele apune. Cerul se transformă într-o pânză strălucitoare de portocaliu și roz, oferind un final uluitor pentru o zi perfectă pe Riviera Turcească.",
         "en": "Start your sun-drenched Alanya morning with the calm, sparkling waters on the eastern stretches of Cleopatra Beach. The morning sun gently warms the golden sand, creating a perfect environment for a relaxing swim before the crowds arrive.\nAs midday approaches, venture slightly further along the coast. The energy picks up with lively beach bars and fellow travelers enjoying the Mediterranean heat. This is the ideal time to grab a refreshing drink and soak in the vibrant coastal atmosphere.\nIn the afternoon, continue exploring the endless stretches of this legendary shoreline. The subtle sea breeze offers a welcome respite from the sun, making it a great time to hunt for colorful pebbles or simply watch the distant boats glide by.\nConclude your day at the westernmost parts of the beach or a lively beach club as the sun begins to set. The sky transforms into a brilliant canvas of orange and pink, providing a breathtaking finale to your ultimate Turkish Riviera beach day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Damlataş-Höhle, die bei Regen einen perfekten Unterschlupf bietet. Mittags spazieren wir unter dem Regenschirm entlang der Kleopatra-Promenade, während die Brandung lautstark gegen die Küste schlägt. Nachmittags suchen wir Schutz in den kleinen Strandcafés bei den Abschnitten 5 und 7. Der Abend endet mit dem Blick auf das graue, stürmische Meer, das eine ganz eigene Melancholie ausstrahlt.",
+            "hu": "A reggel a Damlataş-barlangnál indul, amely kiváló menedéket nyújt az eső elől. Délben az ernyők alatt sétálunk a Kleopatra-part mentén, miközben a viharos tenger hullámai a parthoz csapódnak. Délután a 5-ös és 7-es strandok menti fedett kávézókban melegedhetünk fel. Az este a szürke, drámai tenger látványával zárul, amely ilyenkor mutatja meg igazi, vad arcát az arra járóknak.",
+            "ro": "Dimineața începe la peștera Damlataş, care oferă un adăpost perfect în caz de ploaie. La prânz ne plimbăm cu umbrela de-a lungul promenadei Kleopatra, în timp ce valurile se sparg zgomotos de țărm. După-amiaza căutăm refugiu în cafenelele acoperite de lângă secțiunile 5 și 7 ale plajei. Seara se încheie cu priveliștea mării gri și furtunoase, care emană o atmosferă dramatică și melancolică.",
+            "en": "The morning starts at Damlataş Cave, providing a perfect natural shelter from the rain. By noon, we walk under umbrellas along the Kleopatra promenade as the stormy waves crash against the shore. In the afternoon, we find refuge in the covered beach cafes near sections 5 and 7. The evening ends with a view of the gray, dramatic Mediterranean, showing its wild and powerful side under the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Damlataş plajı",
+                "hu": "Damlataş plajı",
+                "ro": "Damlataş plajı",
+                "en": "Damlataş plajı"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Damlataş-Höhle als trockenen Rückzugsort; die hohe Luftfeuchtigkeit drinnen ist ideal bei kühlem Regenwetter. Vorsicht auf den rutschigen Steinen am Ufer.",
+                "hu": "Használd a Damlataş-barlangot száraz menedékként; a benti magas páratartalom jótékony hatású a hűvös esőben. Vigyázz a parton, a kövek vizesen rendkívül csúszósak.",
+                "ro": "Folosiți peștera Damlataş ca refugiu uscat; umiditatea ridicată din interior este ideală pe vreme ploioasă și răcoroasă. Atenție la pietrele de pe mal, sunt foarte alunecoase.",
+                "en": "Use the Damlataş Cave as a dry retreat; the high humidity inside is actually therapeutic during cool rainy weather. Be careful on the shore as the rocks get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 1",
+                "hu": "Kleopatra plajı 1",
+                "ro": "Kleopatra plajı 1",
+                "en": "Kleopatra plajı 1"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Farbspiel des Meeres unter den Regenwolken; die nahegelegenen Kioske bieten Vordächer, um kurz trocken zu bleiben und die Aussicht zu genießen.",
+                "hu": "Figyeld a tenger színjátékát az esőfelhők alatt; a közeli kioszkok előtetői alá behúzódva szárazon élvezheted a drámai kilátást a hullámzó vízre.",
+                "ro": "Observați jocul de culori al mării sub norii de ploaie; chioșcurile din apropiere oferă copertine unde puteți sta la uscat în timp ce admirați valurile mari.",
+                "en": "Watch the play of colors on the sea under the rain clouds; the nearby kiosks have awnings where you can stay dry while enjoying the dramatic view of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 3",
+                "hu": "Kleopatra plajı 3",
+                "ro": "Kleopatra plajı 3",
+                "en": "Kleopatra plajı 3"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang im Regen ist hier besonders erfrischend; tragen Sie wasserfeste Schuhe, da der Sand sehr fest und schwer begehbar wird, wenn er komplett durchnässt ist.",
+                "hu": "Az esőben való séta itt rendkívül frissítő; viselj vízálló cipőt, mert a homok teljesen átázva nagyon tömörré és nehezen járhatóvá válik a parton.",
+                "ro": "O plimbare prin ploaie este revigorantă aici; purtați încălțăminte impermeabilă, deoarece nisipul devine foarte compact și greu de parcurs când este ud.",
+                "en": "A walk in the rain is refreshing here; wear waterproof shoes, as the sand becomes very firm and heavy to walk on when it is completely soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 5",
+                "hu": "Kleopatra plajı 5",
+                "ro": "Kleopatra plajı 5",
+                "en": "Kleopatra plajı 5"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie eines der Cafés mit Glasfront auf; so genießen Sie den Blick auf den stürmischen Ozean, ohne nass zu werden. Ein heißer türkischer Tee ist jetzt ideal.",
+                "hu": "Keress egy üvegfalú kávézót a parton; így szárazon élvezheted a viharos tenger látványát. Egy forró török tea ilyenkor a legjobb választás a melegedéshez.",
+                "ro": "Căutați o cafenea cu pereți de sticlă pe plajă; astfel vă puteți bucura de marea învolburată fără a vă uda. Un ceai turcesc fierbinte este perfect acum.",
+                "en": "Look for a glass-fronted cafe on the beach; this way you can enjoy the stormy sea view without getting wet. A hot Turkish tea is the perfect companion right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 7",
+                "hu": "Kleopatra plajı 7",
+                "ro": "Kleopatra plajı 7",
+                "en": "Kleopatra plajı 7"
+              },
+              "tip_5lang": {
+                "de": "Das Ende des Strandes bietet bei Regen eine fast mystische Kulisse; die Felsen im Hintergrund verschwinden oft im Nebel. Halten Sie Ihre Kamera unter einem Schutzcape.",
+                "hu": "A strand vége esőben szinte misztikus látványt nyújt; a háttérben lévő sziklák gyakran ködbe vesznek. Tartsad a fényképezőgépedet esővédő huzat alatt.",
+                "ro": "Capătul plajei oferă un decor aproape mistic pe ploaie; stâncile din fundal dispar adesea în ceață. Păstrați aparatul foto sub o protecție impermeabilă.",
+                "en": "The end of the beach offers an almost mystical scenery in the rain; the rocks in the background often fade into mist. Keep your camera under a rain cover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Alanya ist mild, aber die kühle Meeresbrise erfordert eine Jacke. Morgens genießen wir die Ruhe am Damlataş-Strand ohne die sommerlichen Touristenmassen. Mittags wärmt die tiefstehende Sonne die Kleopatra-Promenade perfekt auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir den Nachmittag für lange Spaziergänge, bevor wir uns am Abend in ein beheiztes Lokal zurückziehen.",
+            "hu": "Az alanyai tél enyhe, de a hűvös tengeri szél miatt szükség van egy kabátra. Reggel élvezzük a Damlataş-part nyugalmát a nyári tömeg nélkül. Délben a laposan tűző nap kellemesen melegíti a Kleopatra-sétányt. Mivel a nap már 17:00 körül lemegy, a délutánt hosszú sétákra használjuk, mielőtt este behúzódnánk egy fűtött beltéri helyre.",
+            "ro": "Iarna în Alanya este blândă, dar briza răcoroasă a mării necesită o jachetă. Dimineața ne bucurăm de liniștea plajei Damlataş, fără mulțimile de turiști din vară. La prânz, soarele blând încălzește perfect promenada Kleopatra. Deoarece soarele apune deja în jur de ora 17:00, profităm de după-amiază pentru plimbări lungi înainte de a ne retrage seara.",
+            "en": "Winter in Alanya is mild, but the cool sea breeze calls for a light jacket. In the morning, enjoy the peace of Damlataş beach without the summer crowds. By noon, the low winter sun pleasantly warms the Kleopatra promenade. As sunset occurs around 17:00, use the afternoon for long walks before retreating to a heated indoor venue for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Damlataş plajı",
+                "hu": "Damlataş plajı",
+                "ro": "Damlataş plajı",
+                "en": "Damlataş plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist zu niedrig zum Baden, aber der Sand ist ideal für ein Winterpicknick in der Sonne. Bringen Sie eine isolierte Sitzunterlage gegen die Bodenkälte mit.",
+                "hu": "A víz már túl hideg a fürdéshez, de a homok kiváló egy téli piknikhez a napsütésben. Vigyél magaddal hőszigetelt ülőpárnát a talaj hűvöse ellen.",
+                "ro": "Apa este prea rece pentru înot, dar nisipul este ideal pentru un picnic de iarnă la soare. Aduceți o izolație pentru șezut pentru a vă proteja de frigul solului.",
+                "en": "The water is too cold for swimming, but the sand is perfect for a winter picnic in the sun. Bring an insulated seating pad to protect yourself from the ground chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 1",
+                "hu": "Kleopatra plajı 1",
+                "ro": "Kleopatra plajı 1",
+                "en": "Kleopatra plajı 1"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick auf die Burg ohne Sonnenschirme; die klare Winterluft ermöglicht besonders scharfe Fotos vom Burgberg und den antiken Mauern.",
+                "hu": "Élvezd a kilátást a várra a zavaró napernyők nélkül; a tiszta téli levegőben különösen éles fotókat készíthetsz a várhegyről és az ősi falakról.",
+                "ro": "Bucurați-vă de vederea spre castel fără umbrele de soare; aerul curat de iarnă permite fotografii extrem de clare cu muntele castelului și zidurile antice.",
+                "en": "Enjoy the unobstructed view of the castle without sunshades; the crisp winter air allows for very sharp photos of the castle hill and the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 3",
+                "hu": "Kleopatra plajı 3",
+                "ro": "Kleopatra plajı 3",
+                "en": "Kleopatra plajı 3"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um die Wintersonne aufzusaugen; die Steine speichern die Wärme. Setzen Sie sich für eine Weile hin und genießen Sie das Vitamin D.",
+                "hu": "Ez a legjobb hely a téli napsütés élvezetére; a kövek jól tárolják a meleget. Ülj le egy kicsit és töltődj fel D-vitaminnal a tengerparti nyugalomba.",
+                "ro": "Acesta este cel mai bun loc pentru a absorbi soarele de iarnă; pietrele rețin căldura. Așezați-vă pentru un moment și bucurați-vă de vitamina D naturală.",
+                "en": "This is the best spot to soak up the winter sun; the stones retain the heat well. Sit down for a while and recharge with some natural Vitamin D by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 5",
+                "hu": "Kleopatra plajı 5",
+                "ro": "Kleopatra plajı 5",
+                "en": "Kleopatra plajı 5"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés bieten oft Decken an; nutzen Sie diese, um draußen zu sitzen und die frische Luft zu genießen, während Sie die Wellen beobachten. Schichten sind der Schlüssel.",
+                "hu": "A kávézók gyakran kínálnak pokrócot; használd ki ezt, hogy kint ülve élvezhesd a friss levegőt és a hullámok morajlását. A réteges öltözködés elengedhetetlen.",
+                "ro": "Cafenelele oferă adesea pături; folosiți-le pentru a sta afară și a vă bucura de aerul curat în timp ce priviți valurile. Îmbrăcămintea în straturi este esențială.",
+                "en": "Cafes often provide blankets; take advantage of this to sit outside and enjoy the fresh air while watching the waves. Layering your clothes is key today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 7",
+                "hu": "Kleopatra plajı 7",
+                "ro": "Kleopatra plajı 7",
+                "en": "Kleopatra plajı 7"
+              },
+              "tip_5lang": {
+                "de": "Bereiten Sie sich auf den frühen Sonnenuntergang vor; ab 16:30 Uhr färbt sich der Himmel spektakulär. Die Temperaturen fallen nach Sonnenuntergang spürbar ab.",
+                "hu": "Készülj fel a korai naplementére; 16:30-tól az égbolt látványos színekben játszik. A naplemente után a hőmérséklet hirtelen és érezhetően lecsökken.",
+                "ro": "Pregătiți-vă pentru apusul timpuriu; de la ora 16:30 cerul capătă culori spectaculoase. Temperaturile scad simțitor imediat ce soarele dispare sub orizont.",
+                "en": "Prepare for the early sunset; from 16:30 the sky turns spectacular colors. Keep in mind that temperatures drop significantly once the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napsütötte alanyai reggelt a Kleopátra-strand keleti szakaszainak nyugodt, szikrázó vizénél. A reggeli nap finoman felmelegíti az aranyhomokot, ami tökéletes környezetet teremt egy pihentető úszáshoz, még a tömeg megérkezése előtt.\nAhogy közeledik a dél, merészkedjen egy kicsit tovább a parton. Az energia fokozódik az élénk strandbárokkal és a mediterrán hőséget élvező utazókkal. Ez az ideális alkalom egy frissítő ital elfogyasztására és a pezsgő partvidéki hangulat befogadására.\nDélután folytassa ennek a legendás partvonalnak a felfedezését. A finom tengeri szellő kellemes felfrissülést nyújt a napsütésben, így ez egy nagyszerű időszak a színes kavicsok keresgélésére vagy a távoli hajók megfigyelésére.\nZárja a napot a strand legnyugatibb részén vagy egy nyüzsgő strandklubban, amikor a nap lenyugszik. Az égbolt narancssárga és rózsaszín ragyogó vászonná változik, lélegzetelállító finálét nyújtva a tökéletes török riviérai tengerparti naphoz.",
         "ro": "Începeți dimineața însorită din Alanya cu apele calme și strălucitoare de pe întinderile estice ale plajei Cleopatra. Soarele dimineții încălzește ușor nisipul auriu, creând un mediu perfect pentru o înotare relaxantă înainte de sosirea mulțimilor.\nLa apropierea amiezii, aventurați-vă puțin mai departe de-a lungul coastei. Energia crește odată cu barurile pline de viață de pe plajă. Acesta este momentul ideal pentru a savura o băutură răcoritoare și a vă bucura de atmosfera vibrantă a Mediteranei.\nDupă-amiaza, continuați să explorați întinderile nesfârșite ale acestui țărm legendar. Briza subtilă a mării oferă un răgaz binevenit de la soare, fiind un moment excelent pentru a căuta pietricele colorate sau a privi bărcile îndepărtate.\nÎncheiați ziua în părțile vestice ale plajei sau într-un club plin de viață, pe măsură ce soarele apune. Cerul se transformă într-o pânză strălucitoare de portocaliu și roz, oferind un final uluitor pentru o zi perfectă pe Riviera Turcească.",
         "en": "Start your sun-drenched Alanya morning with the calm, sparkling waters on the eastern stretches of Cleopatra Beach. The morning sun gently warms the golden sand, creating a perfect environment for a relaxing swim before the crowds arrive.\nAs midday approaches, venture slightly further along the coast. The energy picks up with lively beach bars and fellow travelers enjoying the Mediterranean heat. This is the ideal time to grab a refreshing drink and soak in the vibrant coastal atmosphere.\nIn the afternoon, continue exploring the endless stretches of this legendary shoreline. The subtle sea breeze offers a welcome respite from the sun, making it a great time to hunt for colorful pebbles or simply watch the distant boats glide by.\nConclude your day at the westernmost parts of the beach or a lively beach club as the sun begins to set. The sky transforms into a brilliant canvas of orange and pink, providing a breathtaking finale to your ultimate Turkish Riviera beach day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive auf Alanya. Morgens radeln wir vorsichtig von Damlataş zur Kleopatra-Küste. Mittags nutzen wir die breiten Radwege, achten aber auf rutschige Markierungen. Nachmittags erreichen wir den Anjeliq Beach, wo wir uns in einem überdachten Bereich ausruhen können. Der Tag endet mit einer kühlen Fahrt durch die glänzenden Straßen.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de frissítő perspektívát kínál Alanyára. Reggel óvatosan tekerünk a Damlataş-tól a Kleopatra-part felé. Délben a széles kerékpárutakat használjuk, figyelve a csúszós útburkolati jelekre. Délután érjük el az Anjeliq Beach-et, ahol fedett helyen pihenhetünk meg. A nap a csillogó, vizes utcákon való hűvös tekeréssel zárul.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă o perspectivă revigorantă asupra Alanyei. Dimineața pedalăm cu atenție de la Damlataş spre coasta Kleopatra. La prânz folosim pistele largi de biciclete, fiind atenți la marcajele alunecoase. După-amiaza ajungem la plaja Anjeliq, unde ne putem odihni într-o zonă acoperită. Ziua se încheie cu o tură prin străzile lucioase.",
+            "en": "Cycling in the rain requires caution but offers a refreshing perspective of Alanya. In the morning, we pedal carefully from Damlataş towards the Kleopatra coast. At noon, we use the wide bike paths, keeping an eye out for slippery road markings. In the afternoon, we reach Anjeliq Beach, where we can rest in a covered area. The day ends with a cool ride through the shiny, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Damlataş plajı",
+                "hu": "Damlataş plajı",
+                "ro": "Damlataş plajı",
+                "en": "Damlataş plajı"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie starten; die asphaltierten Wege am Strand können bei Nässe tückisch sein. Nutzen Sie die Palmen am Rand als leichten Regenschutz.",
+                "hu": "Ellenőrizd a fékeidet indulás előtt; a tengerparti aszfaltozott utak trükkösek lehetnek vizesen. Használd a széli pálmákat enyhe esővédőként a pihenőkhöz.",
+                "ro": "Verificați frânele înainte de a pleca; potecile asfaltate de lângă plajă pot fi înșelătoare când sunt ude. Folosiți palmierii ca protecție ușoară împotriva ploii.",
+                "en": "Check your brakes before starting; the paved paths along the beach can be tricky when wet. Use the palm trees on the side as a light natural rain shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 3",
+                "hu": "Kleopatra plajı 3",
+                "ro": "Kleopatra plajı 3",
+                "en": "Kleopatra plajı 3"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den Radwegmarkierungen; diese sind bei Regen extrem glatt. Die Aussicht auf die stürmische See entschädigt für die nasse Fahrt.",
+                "hu": "Kerüld a hirtelen kanyarodást a kerékpárút felfestésein, mert ezek esőben rendkívül csúszósak. A viharos tenger látványa kárpótol majd a vizes útért.",
+                "ro": "Evitați virajele bruște pe marcajele pistei de biciclete; acestea sunt extrem de alunecoase pe ploaie. Vederea mării învolburate merită efortul drumului ud.",
+                "en": "Avoid sharp turns on the bike path markings; they are extremely slippery in the rain. The view of the stormy sea will compensate you for the wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmiye Hotel plajı",
+                "hu": "Palmiye Hotel plajı",
+                "ro": "Palmiye Hotel plajı",
+                "en": "Palmiye Hotel plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter dem Vordach eines Hotels kann helfen, einen starken Schauer abzuwarten. Achten Sie auf Pfützen, die tiefer sein können, als sie aussehen.",
+                "hu": "Egy rövid megálló egy hotel előtetője alatt segíthet kivárni egy nagyobb záport. Ügyelj a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek látszanak.",
+                "ro": "O scurtă oprire sub copertina unui hotel vă poate ajuta să așteptați trecerea unei averse. Atenție la bălți, pot fi mai adânci decât par la prima vedere.",
+                "en": "A short stop under a hotel awning can help you wait out a heavy downpour. Watch out for puddles, as they might be deeper than they appear on the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 16",
+                "hu": "Kleopatra plajı 16",
+                "ro": "Kleopatra plajı 16",
+                "en": "Kleopatra plajı 16"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Kette Ihres Fahrrads nach der Fahrt sauber, da Sand und Regenwasser den Verschleiß erhöhen. Genießen Sie die Einsamkeit auf dem nassen Radweg.",
+                "hu": "A túra után tisztítsd meg a láncot, mert a homok és az esővíz fokozza a kopást. Élvezd a magányt a vizes kerékpárúton, ilyenkor alig járnak erre.",
+                "ro": "Curățați lanțul bicicletei după tură, deoarece nisipul și apa de ploaie cresc uzura. Bucurați-vă de singurătatea de pe pista de biciclete udă.",
+                "en": "Clean your bike chain after the ride, as sand and rainwater increase wear and tear. Enjoy the solitude on the wet bike path, as very few people are out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 21",
+                "hu": "Kleopatra plajı 21",
+                "ro": "Kleopatra plajı 21",
+                "en": "Kleopatra plajı 21"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Autoverkehr beim Überqueren von Straßenabschnitten; die Sicht der Fahrer ist bei Regen eingeschränkt. Tragen Sie eine helle, reflektierende Jacke.",
+                "hu": "Figyelj az autóforgalomra az útkereszteződéseknél; a sofőrök látási viszonyai esőben korlátozottak. Viselj világos, fényvisszaverő esőkabátot a biztonságért.",
+                "ro": "Atenție la traficul auto când traversați secțiuni de drum; vizibilitatea șoferilor este limitată pe ploaie. Purtați o jachetă reflectorizantă pentru siguranță.",
+                "en": "Watch out for car traffic when crossing road sections; drivers' visibility is limited in the rain. Wear a bright, reflective rain jacket for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Anjeliq Beach",
+                "hu": "Anjeliq Beach",
+                "ro": "Anjeliq Beach",
+                "en": "Anjeliq Beach"
+              },
+              "tip_5lang": {
+                "de": "Am Ende der Tour können Sie Ihr Fahrrad in einem geschützten Bereich abstellen und sich bei einem heißen Getränk aufwärmen, während der Regen auf das Dach trommelt.",
+                "hu": "A túra végén keress egy védett helyet a biciklinek, és melegedj fel egy forró itallal, miközben hallgatod az eső kopogását a tetőn.",
+                "ro": "La sfârșitul turului, lăsați bicicleta într-o zonă protejată și încălziți-vă cu o băutură fierbinte în timp ce ascultați ploaia bătând în acoperiș.",
+                "en": "At the end of the tour, park your bike in a sheltered spot and warm up with a hot drink while listening to the rain drumming on the roof overhead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterwetter ist ideal für Radfahrer, da die Hitze fehlt. Morgens starten wir bei frischen Temperaturen am Damlataş-Strand. Mittags ist das Licht am Kleopatra-Strand perfekt für Fahrten entlang der Küste. Die Luft ist klar und die Sicht reicht weit. Wir müssen die Fahrt vor 17:00 Uhr beenden, da es danach schnell abkühlt und dunkel wird, aber der Sonnenuntergang vom Rad aus ist magisch.",
+            "hu": "A téli időjárás ideális a biciklizéshez, mert nincs hőség. Reggel friss hőmérsékletben indulunk a Damlataş-parttól. Délben a fények a Kleopatra-strandon tökéletesek a parti tekeréshez. A levegő tiszta, a kilátás pedig messzire ellát. A túrát 17:00 előtt érdemes befejezni, mert utána gyorsan hűl az idő, de a naplemente a bicikliről nézve varázslatos.",
+            "ro": "Vremea de iarnă este ideală pentru bicicliști, deoarece lipsește canicula. Dimineața pornim pe temperaturi proaspete de la plaja Damlataş. La prânz, lumina de pe plaja Kleopatra este perfectă pentru plimbări de-a lungul coastei. Aerul este curat și vizibilitatea mare. Trebuie să terminăm tura înainte de ora 17:00, dar apusul văzut de pe bicicletă este magic.",
+            "en": "Winter weather is ideal for cyclists as the heat is gone. In the morning, we start in fresh temperatures at Damlataş beach. At noon, the light at Kleopatra beach is perfect for riding along the coast. The air is clear, and visibility is great. We should finish the ride before 17:00 as it cools down quickly, but the sunset from the bike is magical."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Damlataş plajı",
+                "hu": "Damlataş plajı",
+                "ro": "Damlataş plajı",
+                "en": "Damlataş plajı"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Windstopper-Kleidung; die Fahrt am Morgen kann durch den Fahrtwind kühler sein, als es das Thermometer anzeigt. Die Parkplätze für Räder sind nun leer.",
+                "hu": "Viselj szélálló ruházatot; a reggeli tekerés a menetszél miatt hűvösebbnek tűnhet, mint amit a hőmérő mutat. A biciklitárolók ilyenkor szinte üresek.",
+                "ro": "Purtați haine rezistente la vânt; tura de dimineață poate părea mai răcoroasă din cauza vântului decât indică termometrul. Parcarea pentru biciclete este goală acum.",
+                "en": "Wear windbreaker clothing; the morning ride can feel cooler than the thermometer suggests due to the wind chill. Bicycle parking spots are mostly empty now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 3",
+                "hu": "Kleopatra plajı 3",
+                "ro": "Kleopatra plajı 3",
+                "en": "Kleopatra plajı 3"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege sind im Winter viel sicherer, da weniger Fußgänger unterwegs sind. Nutzen Sie das flache Gelände für eine entspannte Fahrt unter der Wintersonne.",
+                "hu": "A kerékpárutak télen sokkal biztonságosabbak, mert kevesebb a gyalogos. Használd ki a sík terepet egy pihentető tekerésre a téli napsütésben.",
+                "ro": "Pistele de biciclete sunt mult mai sigure iarna, deoarece sunt mai puțini pietoni. Profitați de terenul plat pentru o plimbare relaxantă sub soarele de iarnă.",
+                "en": "The bike paths are much safer in winter as there are fewer pedestrians around. Take advantage of the flat terrain for a relaxed ride under the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmiye Hotel plajı",
+                "hu": "Palmiye Hotel plajı",
+                "ro": "Palmiye Hotel plajı",
+                "en": "Palmiye Hotel plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine kurze Pause; die Palmen werfen im Winter lange Schatten. Achten Sie auf den Reifendruck, da kalte Luft das Volumen im Reifen verringert.",
+                "hu": "Remek hely egy rövid szünetre; a pálmák télen hosszú árnyékot vetnek. Figyelj a guminyomásra, mert a hideg levegő miatt csökkenhet a kerékben lévő nyomás.",
+                "ro": "Un loc excelent pentru o scurtă pauză; palmierii lasă umbre lungi iarna. Verificați presiunea în pneuri, deoarece aerul rece reduce volumul acestora.",
+                "en": "A great spot for a quick break; the palms cast long shadows in winter. Check your tire pressure, as cold air causes the pressure in the tires to decrease."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 16",
+                "hu": "Kleopatra plajı 16",
+                "ro": "Kleopatra plajı 16",
+                "en": "Kleopatra plajı 16"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am westlichen Ende der Bucht. Die kühle Brise vom Meer ist belebend, aber Handschuhe sind für längere Fahrten am Nachmittag empfehlenswert.",
+                "hu": "Élvezd a nyugalmat az öböl nyugati végén. A tenger felől érkező hűvös szellő élénkítő, de a délutáni hosszabb tekeréshez már ajánlott egy kesztyű.",
+                "ro": "Bucurați-vă de liniște la capătul vestic al golfului. Briza rece a mării este revigorantă, dar mănușile sunt recomandate pentru turele mai lungi de după-amiază.",
+                "en": "Enjoy the peace at the western end of the bay. The cool breeze from the sea is invigorating, but gloves are recommended for longer afternoon rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 21",
+                "hu": "Kleopatra plajı 21",
+                "ro": "Kleopatra plajı 21",
+                "en": "Kleopatra plajı 21"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann blenden; eine Sonnenbrille ist auch im Winter für Radfahrer ein wichtiges Sicherheitszubehör. Achten Sie auf die Lichtverhältnisse.",
+                "hu": "Az alacsonyan járó nap elvakíthat; a napszemüveg télen is fontos biztonsági kiegészítő a bringásoknak. Ügyelj a változó fényviszonyokra a parton.",
+                "ro": "Soarele jos poate fi orbitor; ochelarii de soare sunt un accesoriu de siguranță important pentru bicicliști și iarna. Atenție la condițiile de lumină.",
+                "en": "The low winter sun can be blinding; sunglasses are an important safety accessory for cyclists even in winter. Watch out for changing light conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Anjeliq Beach",
+                "hu": "Anjeliq Beach",
+                "ro": "Anjeliq Beach",
+                "en": "Anjeliq Beach"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft so, dass Sie den Sonnenuntergang sehen, bevor es zu kalt wird. Reflektoren und funktionierendes Licht sind für den Rückweg unerlässlich.",
+                "hu": "Úgy tervezd az érkezést, hogy még a lehűlés előtt lásd a naplementét. A fényvisszaverők és a működő lámpák elengedhetetlenek a visszaúthoz.",
+                "ro": "Planificați sosirea astfel încât să vedeți apusul înainte de a se face prea frig. Reflectoarele și luminile funcționale sunt esențiale pentru drumul de întoarcere.",
+                "en": "Plan your arrival to catch the sunset before it gets too cold. Reflectors and working lights are essential for the ride back as darkness falls fast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a napsütötte alanyai reggelt a Kleopátra-strand keleti szakaszainak nyugodt, szikrázó vizénél. A reggeli nap finoman felmelegíti az aranyhomokot, ami tökéletes környezetet teremt egy pihentető úszáshoz, még a tömeg megérkezése előtt.\nAhogy közeledik a dél, merészkedjen egy kicsit tovább a parton. Az energia fokozódik az élénk strandbárokkal és a mediterrán hőséget élvező utazókkal. Ez az ideális alkalom egy frissítő ital elfogyasztására és a pezsgő partvidéki hangulat befogadására.\nDélután folytassa ennek a legendás partvonalnak a felfedezését. A finom tengeri szellő kellemes felfrissülést nyújt a napsütésben, így ez egy nagyszerű időszak a színes kavicsok keresgélésére vagy a távoli hajók megfigyelésére.\nZárja a napot a strand legnyugatibb részén vagy egy nyüzsgő strandklubban, amikor a nap lenyugszik. Az égbolt narancssárga és rózsaszín ragyogó vászonná változik, lélegzetelállító finálét nyújtva a tökéletes török riviérai tengerparti naphoz.",
         "ro": "Începeți dimineața însorită din Alanya cu apele calme și strălucitoare de pe întinderile estice ale plajei Cleopatra. Soarele dimineții încălzește ușor nisipul auriu, creând un mediu perfect pentru o înotare relaxantă înainte de sosirea mulțimilor.\nLa apropierea amiezii, aventurați-vă puțin mai departe de-a lungul coastei. Energia crește odată cu barurile pline de viață de pe plajă. Acesta este momentul ideal pentru a savura o băutură răcoritoare și a vă bucura de atmosfera vibrantă a Mediteranei.\nDupă-amiaza, continuați să explorați întinderile nesfârșite ale acestui țărm legendar. Briza subtilă a mării oferă un răgaz binevenit de la soare, fiind un moment excelent pentru a căuta pietricele colorate sau a privi bărcile îndepărtate.\nÎncheiați ziua în părțile vestice ale plajei sau într-un club plin de viață, pe măsură ce soarele apune. Cerul se transformă într-o pânză strălucitoare de portocaliu și roz, oferind un final uluitor pentru o zi perfectă pe Riviera Turcească.",
         "en": "Start your sun-drenched Alanya morning with the calm, sparkling waters on the eastern stretches of Cleopatra Beach. The morning sun gently warms the golden sand, creating a perfect environment for a relaxing swim before the crowds arrive.\nAs midday approaches, venture slightly further along the coast. The energy picks up with lively beach bars and fellow travelers enjoying the Mediterranean heat. This is the ideal time to grab a refreshing drink and soak in the vibrant coastal atmosphere.\nIn the afternoon, continue exploring the endless stretches of this legendary shoreline. The subtle sea breeze offers a welcome respite from the sun, making it a great time to hunt for colorful pebbles or simply watch the distant boats glide by.\nConclude your day at the westernmost parts of the beach or a lively beach club as the sun begins to set. The sky transforms into a brilliant canvas of orange and pink, providing a breathtaking finale to your ultimate Turkish Riviera beach day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen der beste Ort, um die Küste von Alanya zu erkunden. Morgens fahren wir zum Anjeliq Beach und beobachten den Regen auf der Windschutzscheibe. Mittags geht es weiter zur Damlataş-Höhle, wo wir fast direkt vor dem Eingang parken können. Nachmittags fahren wir die Kleopatra-Küste ab und genießen den Panoramablick auf das stürmische Meer aus dem trockenen Innenraum.",
+            "hu": "Az autó a legjobb hely az esős alanyai tengerpart felfedezéséhez. Reggel az Anjeliq Beach-hez hajtunk, és nézzük az esőcseppeket a szélvédőn. Délben a Damlataş-barlanghoz megyünk, ahol szinte közvetlenül a bejáratnál parkolhatunk. Délután végigautózunk a Kleopatra-part mentén, és a száraz utastérből élvezzük a viharos tenger látványát és a hullámok játékát.",
+            "ro": "Mașina este cel mai bun loc pentru a explora coasta din Alanya pe ploaie. Dimineața mergem la plaja Anjeliq și privim ploaia pe parbriz. La prânz continuăm spre peștera Damlataş, unde putem parca aproape de intrare. După-amiaza conducem de-a lungul coastei Kleopatra și ne bucurăm de vederea panoramică a mării furtunoase din interiorul uscat.",
+            "en": "The car is the best place to explore Alanya's coastline during the rain. In the morning, we drive to Anjeliq Beach and watch the rain on the windshield. At noon, we head to Damlataş Cave, where we can park almost directly at the entrance. In the afternoon, we drive along the Kleopatra coast, enjoying the panoramic views of the stormy sea from the dry interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anjeliq Beach",
+                "hu": "Anjeliq Beach",
+                "ro": "Anjeliq Beach",
+                "en": "Anjeliq Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Strand, um schnell ins Trockene zu kommen. Das Meeresrauschen im Auto bei leicht geöffnetem Fenster ist sehr entspannend.",
+                "hu": "Használd a parthoz közeli parkolót, hogy gyorsan fedett helyre érj. A tenger zúgása az autóban, kissé lehúzott ablak mellett, rendkívül megnyugtató élmény.",
+                "ro": "Folosiți parcarea de lângă plajă pentru a ajunge rapid la adăpost. Sunetul mării auzit din mașină, cu geamul puțin coborât, este foarte relaxant.",
+                "en": "Use the parking lot close to the beach to reach shelter quickly. The sound of the sea from inside the car with the window slightly cracked is very relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Damlataş plajı",
+                "hu": "Damlataş plajı",
+                "ro": "Damlataş plajı",
+                "en": "Damlataş plajı"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dies ein idealer Stopp, da die Höhle direkt neben dem Parkbereich liegt. Achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Szakadó esőben ez ideális megálló, mivel a barlang közvetlenül a parkoló mellett található. Kiszálláskor ügyelj az út menti mély tócsákra.",
+                "ro": "În caz de ploaie torențială, aceasta este o oprire ideală, deoarece peștera este chiar lângă parcare. Atenție la bălțile adânci de la marginea drumului la coborâre.",
+                "en": "In heavy rain, this is an ideal stop since the cave is located right next to the parking area. Watch out for deep puddles at the roadside when exiting the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 7",
+                "hu": "Kleopatra plajı 7",
+                "ro": "Kleopatra plajı 7",
+                "en": "Kleopatra plajı 7"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie freien Blick auf die Burg haben; die Wolken um den Burgberg bieten ein dramatisches Fotomotiv direkt aus dem Autofenster heraus.",
+                "hu": "Parkolj úgy, hogy ráláss a várra; a várhegy körüli felhők drámai fotótémát kínálnak közvetlenül az autó ablakából is. Nem kell eláznod a jó képért.",
+                "ro": "Parcați astfel încât să aveți vedere spre castel; norii din jurul muntelui oferă un subiect foto dramatic chiar de la fereastra mașinii.",
+                "en": "Park in a way that gives you a clear view of the castle; the clouds around the castle hill offer a dramatic photo subject right from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 14",
+                "hu": "Kleopatra plajı 14",
+                "ro": "Kleopatra plajı 14",
+                "en": "Kleopatra plajı 14"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen rutschig sein; fahren Sie vorsichtig und achten Sie auf Spritzwasser von anderen Fahrzeugen. Genießen Sie die Szenerie.",
+                "hu": "A parti út esőben csúszós lehet; vezess óvatosan, és figyelj a többi jármű által felcsapott vízre. Élvezd a látványt a biztonságos utastérből.",
+                "ro": "Drumul de coastă poate fi alunecos pe ploaie; conduceți cu prudență și atenție la apa împroșcată de alte vehicule. Bucurați-vă de peisaj în siguranță.",
+                "en": "The coastal road can be slippery in the rain; drive carefully and watch out for splashes from other vehicles. Enjoy the scenery from your safe cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 18",
+                "hu": "Kleopatra plajı 18",
+                "ro": "Kleopatra plajı 18",
+                "en": "Kleopatra plajı 18"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Klimaanlage ein, um das Beschlagen der Scheiben zu verhindern, während Sie den Wellen zusehen. Ein gemütlicher Ort für eine Kaffeepause im Auto.",
+                "hu": "Kapcsold be a páramentesítőt, hogy ne párásodjanak az ablakok, miközben a hullámokat nézed. Ez egy hangulatos hely egy autós kávészünethez az esőben.",
+                "ro": "Porniți aerul condiționat pentru a preveni aburirea geamurilor în timp ce priviți valurile. Un loc plăcut pentru o pauză de cafea în mașină pe ploaie.",
+                "en": "Turn on the defogger to keep the windows clear while you watch the waves. This is a cozy spot for a quick coffee break inside the car during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 22",
+                "hu": "Kleopatra plajı 22",
+                "ro": "Kleopatra plajı 22",
+                "en": "Kleopatra plajı 22"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour bietet bei Regen eine weite Sicht über die Bucht. Nutzen Sie das Fernlicht bei schlechter Sicht durch starken Regen auf dem Rückweg.",
+                "hu": "A túra vége esőben széles kilátást nyújt az öbölre. Erős esőben a visszaúton használd a fényszórókat a jobb láthatóság érdekében a parti úton.",
+                "ro": "Sfârșitul turului oferă o vedere largă asupra golfului pe ploaie. Folosiți faza scurtă pentru o mai bună vizibilitate pe drumul de întoarcere prin ploaie.",
+                "en": "The end of the tour offers a wide view of the bay in the rain. Use your headlights for better visibility on the coastal road during the return trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten entlang der Küste von Alanya sind entspannt, da die Straßen leer sind. Morgens starten wir am Anjeliq Beach bei strahlendem, aber kühlem Wetter. Mittags genießen wir die Sonne am Damlataş-Strand. Da es um 17:00 Uhr dunkel wird, planen wir unsere Fahrt so, dass wir den Sonnenuntergang von einem der Aussichtspunkte an der Kleopatra-Küste erleben, bevor wir abends in die Stadt zurückkehren.",
+            "hu": "A téli autózás az alanyai tengerparton pihentető, mivel az utak üresek. Reggel az Anjeliq Beach-nél kezdünk ragyogó, de hűvös időben. Délben a Damlataş-parton élvezzük a napsütést. Mivel 17:00-kor sötétedik, az utat úgy tervezzük, hogy a naplementét a Kleopatra-part egyik kilátópontjáról nézzük végig, mielőtt este visszatérnénk a városba.",
+            "ro": "Plimbările cu mașina pe coasta Alanyei iarna sunt relaxante, deoarece drumurile sunt libere. Dimineața începem la plaja Anjeliq pe o vreme luminoasă, dar rece. La prânz ne bucurăm de soare la plaja Damlataş. Deoarece se întunecă la ora 17:00, planificăm traseul pentru a vedea apusul de pe coastă înainte de a ne întoarce.",
+            "en": "Winter drives along Alanya's coast are relaxed as the roads are mostly empty. In the morning, we start at Anjeliq Beach in bright but cool weather. At noon, we enjoy the sun at Damlataş Beach. Since it gets dark by 17:00, we plan our drive to catch the sunset from one of the viewpoints along the Kleopatra coast before returning."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anjeliq Beach",
+                "hu": "Anjeliq Beach",
+                "ro": "Anjeliq Beach",
+                "en": "Anjeliq Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter ein Kinderspiel; stellen Sie das Auto direkt am Strand ab. Die Wintersonne heizt den Innenraum angenehm auf, perfekt für Pausen.",
+                "hu": "A parkolás télen gyerekjáték; állj meg közvetlenül a parton. A téli nap kellemesen felmelegíti az utasteret, ami tökéletes a rövid pihenőkhöz.",
+                "ro": "Găsirea unui loc de parcare este floare la ureche iarna; opriți direct lângă plajă. Soarele de iarnă încălzește plăcut interiorul mașinii pentru pauze.",
+                "en": "Finding a parking spot is a breeze in winter; park your car directly by the beach. The winter sun pleasantly warms the interior, making it perfect for breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Damlataş plajı",
+                "hu": "Damlataş plajı",
+                "ro": "Damlataş plajı",
+                "en": "Damlataş plajı"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Höhle, um sich aufzuwärmen; sie hat das ganze Jahr über konstante 22 Grad. Der Parkplatz bietet im Winter viel Platz für Manöver und Fotos.",
+                "hu": "Látogasd meg a barlangot melegedés céljából; egész évben állandó 22 fok van bent. A parkolóban télen bőven van hely a manőverezéshez és fotózáshoz.",
+                "ro": "Vizitați peștera pentru a vă încălzi; are o temperatură constantă de 22 de grade tot anul. Parcarea oferă mult spațiu iarna pentru manevre și poze.",
+                "en": "Visit the cave to warm up; it maintains a constant 22 degrees Celsius all year round. The parking lot has plenty of space for maneuvering and photos in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 7",
+                "hu": "Kleopatra plajı 7",
+                "ro": "Kleopatra plajı 7",
+                "en": "Kleopatra plajı 7"
+              },
+              "tip_5lang": {
+                "de": "Das Licht im Winter ist ideal für Landschaftsaufnahmen vom Auto aus. Achten Sie auf den frühen Schattenwurf des Burgbergs auf die Straße am Nachmittag.",
+                "hu": "A téli fények ideálisak a tájképfotózáshoz az autóból. Figyelj a várhegy korai árnyékára, amely délután hamar sötétbe borítja az útszakaszt.",
+                "ro": "Lumina de iarnă este ideală pentru fotografii de peisaj din mașină. Atenție la umbra timpurie a muntelui castelului care cade pe drum după-amiaza.",
+                "en": "The winter light is ideal for landscape photography from the car. Be mindful of the early shadow cast by the castle hill onto the road in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 14",
+                "hu": "Kleopatra plajı 14",
+                "ro": "Kleopatra plajı 14",
+                "en": "Kleopatra plajı 14"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen am Meer sind im Winter oft staubfrei und sauber. Genießen Sie die Fahrt mit offenem Fenster, um die frische, salzige Winterluft einzuatmen.",
+                "hu": "A tengerparti utak télen gyakran pormentesek és tiszták. Élvezd az utazást lehúzott ablakkal, hogy belélegezd a friss, sós téli tengeri levegőt.",
+                "ro": "Drumurile de lângă mare sunt adesea fără praf și curate iarna. Bucurați-vă de drum cu geamul deschis pentru a respira aerul proaspăt și sărat al mării.",
+                "en": "The seaside roads are often dust-free and clean in winter. Enjoy the drive with the window down to breathe in the fresh, salty winter sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 18",
+                "hu": "Kleopatra plajı 18",
+                "ro": "Kleopatra plajı 18",
+                "en": "Kleopatra plajı 18"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Haltepunkt, um die Aussicht zu genießen, bevor die Sonne untergeht. Die Temperaturen sinken schnell, sobald der Schatten den Strand erreicht.",
+                "hu": "Tökéletes megálló a kilátás élvezetéhez a naplemente előtt. A hőmérséklet gyorsan süllyed, amint az árnyék eléri a homokos partot.",
+                "ro": "Un punct de oprire perfect pentru a admira vederea înainte de apus. Temperaturile scad rapid imediat ce umbra ajunge pe plaja cu nisip.",
+                "en": "A perfect stopping point to enjoy the view before the sun sets. Temperatures drop quickly as soon as the shadows reach the sandy beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra plajı 22",
+                "hu": "Kleopatra plajı 22",
+                "ro": "Kleopatra plajı 22",
+                "en": "Kleopatra plajı 22"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr. Nutzen Sie die Sitzheizung für den Rückweg, wenn es draußen merklich kühler wird.",
+                "hu": "Fejezd be a túrát pontosan a 17:00-ás naplementére. Használd az ülésfűtést a visszaúton, amikor kint már érezhetően hűvösebb lesz az idő.",
+                "ro": "Încheiați tura exact la apusul de la ora 17:00. Folosiți încălzirea în scaune pentru drumul de întoarcere, când afară se face mult mai frig.",
+                "en": "Finish the tour right in time for the 17:00 sunset. Use your seat heaters for the ride back, as it gets noticeably cooler outside after dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

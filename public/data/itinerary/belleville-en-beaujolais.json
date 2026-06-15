@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Belleville-ben a Chapelle Saint-André csendes nyugalmával. Ezt követően merüljön el az orvostörténelemben a lenyűgöző Hôtel-Dieu falai között. Délben a festői Port de Belleville csábít egy pihentető sétára a Saône partján. Délután fedezze fel a városháza körüli történelmi központot, és zárja a napot a Nativité templom békés hangulatában.",
         "ro": "Începeți ziua în Belleville cu un moment de liniște la Chapelle Saint-André. Apoi, scufundați-vă în istoria medicală la fascinantul Hôtel-Dieu. La prânz, Portul Belleville vă invită la o pauză relaxantă pe malul râului Saône. După-amiaza, explorați centrul istoric din jurul primăriei și încheiați ziua în atmosfera plină de spiritualitate a bisericii Nativité.",
         "en": "Start your day in Belleville with a quiet moment at the charming Chapelle Saint-André. Afterward, dive into medical history at the fascinating Hôtel-Dieu. At midday, the picturesque Port of Belleville invites you for a relaxing break along the Saône. In the afternoon, explore the historical center around the town hall and conclude your day at the peaceful Nativité church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie an der Kapelle und verbringen Sie den Vormittag in den Innenräumen des Hôtel-Dieu. Mittags machen Sie einen kurzen Spaziergang am Hafen mit Regenschirm. Nachmittags besuchen Sie das Rathaus und suchen Schutz in der Kirche. Vorsicht auf nassem Pflaster.",
+            "hu": "Kezdje a kápolnánál, majd töltse a délelőttöt a fedett Hôtel-Dieu kiállításain. Délben sétáljon egyet a kikötőben esernyővel a kézben. Délután nézze meg a városházát, majd keressen menedéket a történelmi templomban. Vigyázzon a csúszós macskaköveken.",
+            "ro": "Începeți la capelă, apoi petreceți dimineața în expozițiile interioare de la Hôtel-Dieu. La prânz, faceți o plimbare rapidă prin port cu o umbrelă. După-amiaza, vizitați primăria și adăpostiți-vă în biserica istorică. Aveți grijă la pavajele alunecoase.",
+            "en": "Begin at the chapel, then spend the morning exploring the indoor exhibits of the Hôtel-Dieu. By noon, take a quick walk by the port with a sturdy umbrella. In the afternoon, visit the town hall and find shelter inside the historic church. Watch your step on wet pavements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-André",
+                "hu": "Chapelle Saint-André",
+                "ro": "Chapelle Saint-André",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gemütliche Innere dieser kleinen Kapelle, um dem morgendlichen Regen zu entfliehen; halten Sie Ihren Schirm griffbereit.",
+                "hu": "Csodálja meg a kis kápolna barátságos belső terét, és meneküljön be a reggeli eső elől; tartsa kéznél az esernyőjét kilépéskor.",
+                "ro": "Admirați interiorul primitor al acestei mici capele pentru a scăpa de ploaia matinală; țineți umbrela la îndemână la ieșire.",
+                "en": "Admire the cozy interior of this small chapel to escape the morning rain; keep your umbrella handy when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu de Belleville",
+                "hu": "Hôtel-Dieu de Belleville",
+                "ro": "Hôtel-Dieu de Belleville",
+                "en": "Hôtel-Dieu of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierende Apotheke und die Krankenräume drinnen, ein perfekter trockener Zufluchtsort bei starken Regengüssen.",
+                "hu": "Fedezze fel a lenyűgöző patikát és kórtermeket odabent, amely tökéletes száraz menedék a heves záporok idején.",
+                "ro": "Explorați farmacia fascinantă și saloanele interioare, un refugiu uscat perfect în timpul ploilor torențiale.",
+                "en": "Explore the fascinating apothecary and sick wards indoors, a perfect dry refuge during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Belleville",
+                "hu": "Port de Belleville",
+                "ro": "Port de Belleville",
+                "en": "Port of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf der Saône; tragen Sie wasserdichte Schuhe, da die Uferwege recht schlammig werden können.",
+                "hu": "Nézze, ahogy az eső veri a Saône vizét; viseljen vízálló cipőt, mivel a folyóparti ösvények eléggé sárosak lehetnek.",
+                "ro": "Priviți ploaia lovind suprafața râului Saône; purtați cizme impermeabile, deoarece potecile pot deveni noroioase.",
+                "en": "Watch the rain hit the Saône river surface; wear waterproof boots as the riverside paths can get quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+                "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+                "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+                "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto der Gebäudefassade unter Ihrem Regenschirm, bevor Sie zum nächsten überdachten Halt weitergehen.",
+                "hu": "Készítsen egy gyors fotót az épület homlokzatáról az esernyője alól, mielőtt továbbindul a következő fedett állomásra.",
+                "ro": "Faceți o fotografie rapidă a fațadei clădirii sub umbrela dumneavoastră înainte de a merge la următorul popas interior.",
+                "en": "Take a quick photo of the building's facade under your umbrella before moving on to the next indoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich nach drinnen zurück, um die Buntglasfenster zu bewundern, während der Regen auf das historische Dach trommelt.",
+                "hu": "Húzódjon be, hogy megcsodálja az ólomüveg ablakokat, miközben hallgatja, ahogy az eső dobol a történelmi tetőn.",
+                "ro": "Retrageți-vă înăuntru pentru a admira vitraliile în timp ce ascultați ploaia bătând pe acoperișul istoric.",
+                "en": "Retreat inside to admire the stained glass windows while listening to the rain drumming on the historic roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den kühlen Wintermorgen an der Kapelle und im Hôtel-Dieu. Mittags trotzen Sie der kalten Brise am Hafen. Am kurzen Nachmittag sehen Sie das Rathaus und wärmen sich in der Kirche auf, bevor die Sonne gegen 17:00 Uhr untergeht. Tragen Sie warme Schichten.",
+            "hu": "Kezdje a fagyos téli reggelt a kápolnánál és a lenyűgöző Hôtel-Dieu-nél. Délben tegyen egy frissítő sétát a kikötőben. A rövid délutánon nézze meg a városházát és melegedjen fel a templomban a korai, 17:00 órai naplemente előtt. Öltözzön melegen, rétegesen.",
+            "ro": "Începeți dimineața geroasă la capelă și la fascinantul Hôtel-Dieu. La prânz, înfruntați briza rece din port. În scurta după-amiază, vedeți primăria și încălziți-vă în biserică înainte ca soarele să apună devreme, în jur de 17:00. Purtați haine groase.",
+            "en": "Start your crisp winter morning at the chapel and the fascinating Hôtel-Dieu. At noon, brave the chilly breeze by the port. In the short afternoon, view the town hall and warm up inside the beautiful church before the sun sets early around 17:00. Wear thick layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-André",
+                "hu": "Chapelle Saint-André",
+                "ro": "Chapelle Saint-André",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, kalte Steinarchitektur; wickeln Sie Ihren Schal fest, da die Mauern wenig Wärme bieten.",
+                "hu": "Értékelje a csendes, hideg kőépítészetet; húzza szorosra a sálját, mivel a falak nem sok meleget nyújtanak.",
+                "ro": "Apreciați arhitectura liniștită de piatră rece; înfășurați-vă bine fularul, deoarece pereții oferă puțină căldură.",
+                "en": "Appreciate the quiet, cold stone architecture; wrap your scarf tight as the stone walls offer little warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu de Belleville",
+                "hu": "Hôtel-Dieu de Belleville",
+                "ro": "Hôtel-Dieu de Belleville",
+                "en": "Hôtel-Dieu of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Die Innenausstellungen bieten eine willkommene Pause von der Kälte draußen, obwohl es in den alten Sälen zugig sein kann.",
+                "hu": "A belső kiállítások kellemes menedéket nyújtanak a kinti fagy elől, bár a régi termekben még lehet némi huzat.",
+                "ro": "Expozițiile interioare oferă o pauză binevenită de la frigul de afară, deși sălile vechi pot avea curenți de aer.",
+                "en": "The indoor exhibits provide a welcome break from the freezing cold outside, though the old halls can still be quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Belleville",
+                "hu": "Port de Belleville",
+                "ro": "Port de Belleville",
+                "en": "Port of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche, frostige Aussicht, aber seien Sie auf beißenden Wind vom Flussufer her vorbereitet.",
+                "hu": "Élvezze a békés, zúzmarás kilátást a vízre, de készüljön fel a folyó felől fújó metsző szélre.",
+                "ro": "Bucurați-vă de priveliștile pașnice și înghețate, dar fiți pregătiți pentru vânturile tăioase care vin de pe râu.",
+                "en": "Enjoy the peaceful, frosty views over the water, but be prepared for biting winds coming off the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+                "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+                "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+                "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Bild der frostigen Fassade und bleiben Sie in Bewegung, um sich in der Winterkälte warm zu halten.",
+                "hu": "Készítsen egy gyors képet a fagyos homlokzatról, és mozogjon tovább, hogy melegen tartsa magát a téli hidegben.",
+                "ro": "Faceți o poză rapidă fațadei înghețate și continuați să vă mișcați pentru a vă menține căldura în frigul iernii.",
+                "en": "Snap a quick picture of the frosty facade and keep moving to keep your blood circulating in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor der Kälte im Inneren dieser beeindruckenden Kirche und genießen Sie das warme Licht.",
+                "hu": "Keressen menedéket a csípős hideg elől ebben a lenyűgöző templomban, és élvezze a meleg fényeket.",
+                "ro": "Căutați refugiu din frigul tăios în această biserică impresionantă, bucurându-vă de lumina caldă.",
+                "en": "Seek refuge from the biting cold inside this impressive church, enjoying the warm light filtering through the windows."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon el reggel a Chapelle Saint-André-hoz, majd látogasson el a történelmi Hôtel-Dieu-be. Délben a Port de Belleville-nél figyelheti meg a Saône folyó nyüzsgését, miközben friss levegőt szív. A délután az Église Saint-Isidore-hoz és a pompás Château de l'Écluse-höz vezet. A túrát a Nativité templom történelmi környezetében fejezheti be.",
         "ro": "Mergeți cu bicicleta dimineața spre Chapelle Saint-André și vizitați apoi istoricul Hôtel-Dieu. La prânz, puteți observa activitatea de pe râul Saône la Portul Belleville și vă puteți reîncărca bateriile. După-amiaza vă conduce mai departe spre Église Saint-Isidore și magnificul Château de l'Écluse. Încheiați turul în inima istorică la biserica Nativité.",
         "en": "Cycle easily in the morning to Chapelle Saint-André, followed by a visit to the historical Hôtel-Dieu. At midday, you can watch the vibrant life along the Saône at the Port of Belleville. The afternoon takes you further to Église Saint-Isidore and the magnificent Château de l'Écluse. Finish your cycling tour in the charming historical heart near the Nativité church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie im morgendlichen Regen vorsichtig zur Kapelle und zum Hôtel-Dieu. Mittags fahren Sie entlang des nassen Hafens und zur Kirche Saint-Isidore. Nachmittags geht es vorbei an Schloss und Rathaus zur letzten Kirche. Nutzen Sie Schutzbleche bei rutschigen Straßen.",
+            "hu": "Óvatosan tekerjen a kápolnához és a Hôtel-Dieu-höz a reggeli esőben. Délben érintse a nedves kikötőt és a Saint-Isidore templomot. Délután a kastély és a városháza érintésével érjen a templomhoz. Használjon sárvédőt és vigyázzon a csúszós utakon.",
+            "ro": "Pedalați cu grijă spre capelă și Hôtel-Dieu în ploaia de dimineață. La prânz, mergeți pe lângă portul umed și biserica Saint-Isidore. După-amiaza, treceți de castel și primărie spre ultima biserică. Folosiți apărători de noroi și frânați ușor pe drumurile alunecoase.",
+            "en": "Cycle carefully to the chapel and the Hôtel-Dieu in the morning drizzle. Midday, ride along the wet port area and visit Saint-Isidore church. In the afternoon, pedal past the castle and town hall to the final church. Use mudguards and brake gently on slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-André",
+                "hu": "Chapelle Saint-André",
+                "ro": "Chapelle Saint-André",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Bäumen und treten Sie ein, um abzutrocknen und diesen malerischen Ort zu bewundern.",
+                "hu": "Parkolja le kerékpárját a fák alá, és lépjen be megszáradni, miközben megcsodálja ezt a festői vallási helyet.",
+                "ro": "Parcați bicicleta sub copaci și intrați pentru a vă usca în timp ce admirați acest loc religios pitoresc.",
+                "en": "Park your bike under nearby trees and step inside to dry off while admiring this quaint religious site."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu de Belleville",
+                "hu": "Hôtel-Dieu de Belleville",
+                "ro": "Hôtel-Dieu de Belleville",
+                "en": "Hôtel-Dieu of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie draußen ab und erkunden Sie das trockene Museumsmilieu, um die schwersten Regenschauer abzuwarten.",
+                "hu": "Zárja le a biciklit kint, és fedezze fel a száraz múzeumi belső teret, hogy kivárja a legnehezebb esőket.",
+                "ro": "Lăsați bicicleta afară și explorați muzeul interior uscat pentru a aștepta trecerea ploilor torențiale.",
+                "en": "Lock up outside and spend plenty of time exploring the dry interior museum to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Belleville",
+                "hu": "Port de Belleville",
+                "ro": "Port de Belleville",
+                "en": "Port of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege am Wasser können rutschig sein; fahren Sie langsam und genießen Sie die vom Regen gepeitschte Flussansicht.",
+                "hu": "A vízparti kerékpárutak csúszósak lehetnek; lassítson és élvezze a hangulatos, eső áztatta folyami kilátást.",
+                "ro": "Pistele de biciclete pe malul apei pot fi alunecoase; încetiniți și bucurați-vă de priveliștile ploioase ale râului.",
+                "en": "The cycle paths along the water can be quite slick; slow down and enjoy the moody, rain-swept river views."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Isidore",
+                "hu": "Église Saint-Isidore",
+                "ro": "Église Saint-Isidore",
+                "en": "Église Saint-Isidore"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger überdachter Ort, um zu Atem zu kommen und Ihre Brille abzuwischen, bevor Sie Ihre Fahrt fortsetzen.",
+                "hu": "Remek fedett hely, ahol kifújhatja magát és megtörölheti a szemüvegét, mielőtt folytatná a nedves túrát.",
+                "ro": "Un loc acoperit excelent pentru a vă trage sufletul și a vă șterge ochelarii înainte de a continua plimbarea umedă.",
+                "en": "A great covered spot to catch your breath and wipe your glasses before continuing your wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Écluse",
+                "hu": "Château de l'Écluse",
+                "ro": "Château de l'Écluse",
+                "en": "Château de l'Écluse"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Schloss vom Weg aus; bleiben Sie auf asphaltierten Abschnitten, um nicht im Schlamm stecken zu bleiben.",
+                "hu": "Tekintse meg a kastélyt az ösvényről; maradjon a burkolt részeken, hogy a gumik ne ragadjanak a sárba.",
+                "ro": "Vedeți castelul de pe potecă; rămâneți pe secțiunile pavate pentru a evita împotmolirea anvelopelor în noroi.",
+                "en": "View the castle grounds from the path; stay on the paved sections to avoid getting your tires stuck in mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+                "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+                "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+                "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Halt für ein Foto und stellen Sie sicher, dass Ihre Regenjacke gegen den Wind geschlossen ist.",
+                "hu": "Tartson egy rövid pihenőt egy fotó erejéig, és ügyeljen rá, hogy esőkabátja jól be legyen cipzárazva a szél ellen.",
+                "ro": "Faceți o scurtă oprire pentru o fotografie, asigurându-vă că geaca de ploaie este închisă împotriva vântului umed.",
+                "en": "Make a brief stop for a photo, ensuring your rain jacket is zipped up tightly against the damp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt in diesem trockenen Heiligtum und nehmen Sie sich Zeit, um sich vom ständigen Regen aufzuwärmen.",
+                "hu": "Fejezze be túráját ebben a száraz szentélyben, időt szánva a felmelegedésre és a szüntelen eső elkerülésére.",
+                "ro": "Încheiați cursa în acest sanctuar uscat, luându-vă timp să vă încălziți și să scăpați de ploaia necruțătoare.",
+                "en": "End your ride inside this beautiful, dry sanctuary, taking time to warm up and escape the relentless rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch die kalte Morgenluft zur Kapelle und zum Hôtel-Dieu. Mittags genießen Sie den frostigen Hafen und die Kirche Saint-Isidore. Nachmittags fahren Sie am Schloss vorbei, bevor die Sonne um 17:00 Uhr untergeht. Tragen Sie wärmende Fahrradhandschuhe.",
+            "hu": "Tekerjen a friss, fagyos reggeli levegőn a kápolnához és a Hôtel-Dieu-höz. Délben élvezze a zúzmarás kikötőt és a templomot. Délután guruljon el a kastély és a városháza mellett, mielőtt 17:00-kor lemegy a nap. Viseljen vastag kerékpáros kesztyűt.",
+            "ro": "Pedalați prin aerul proaspăt al dimineții spre capelă și Hôtel-Dieu. La prânz, bucurați-vă de portul înghețat și de biserica Saint-Isidore. După-amiaza vă duce pe lângă castel, terminând traseul înainte de apusul de la 17:00. Purtați mănuși termice.",
+            "en": "Bike through the crisp morning air to the chapel and Hôtel-Dieu. At midday, enjoy the frosty port and Saint-Isidore church. The afternoon takes you past the castle and town hall, finishing at the church before early sunset at 17:00. Wear thermal gloves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-André",
+                "hu": "Chapelle Saint-André",
+                "ro": "Chapelle Saint-André",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost lässt die Kapelle magisch aussehen, aber achten Sie auf vereiste Stellen auf dem Gehweg davor.",
+                "hu": "A reggeli dér varázslatossá teszi a kápolnát, de vigyázzon a jégfoltokra a megközelítő járdán.",
+                "ro": "Înghețul dimineții face capela să pară magică, dar atenție la porțiunile de gheață de pe aleea de acces.",
+                "en": "The morning frost makes the chapel look magical, but watch out for icy patches on the approaching pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu de Belleville",
+                "hu": "Hôtel-Dieu de Belleville",
+                "ro": "Hôtel-Dieu de Belleville",
+                "en": "Hôtel-Dieu of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre gefrorenen Finger in diesem Museum auf, während Sie die historischen Sammlungen erkunden.",
+                "hu": "Melegítse fel fagyos ujjait ebben a kórházmúzeumban, miközben felfedezi a történelmi gyógyszertári gyűjteményeket.",
+                "ro": "Încălziți-vă degetele înghețate în acest muzeu spital în timp ce explorați colecțiile istorice ale farmaciei.",
+                "en": "Warm up your frozen fingers inside this magnificent hospital museum while exploring the historic apothecary collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Belleville",
+                "hu": "Port de Belleville",
+                "ro": "Port de Belleville",
+                "en": "Port of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Wind von der Saône ist scharf; halten Sie Ihren Hals bedeckt, wenn Sie die Winterlandschaft bewundern.",
+                "hu": "A Saône felől fújó fagyos szél éles; tartsa takarva a nyakát, miközben megcsodálja a téli vízi tájat.",
+                "ro": "Vântul înghețat de pe Saône este aspru; păstrați-vă gâtul acoperit când admirați peisajul acvatic de iarnă.",
+                "en": "The freezing wind off the Saône is sharp; keep your neck covered as you admire the wintery waterscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Isidore",
+                "hu": "Église Saint-Isidore",
+                "ro": "Église Saint-Isidore",
+                "en": "Église Saint-Isidore"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem beißenden Wind zu entfliehen und die ruhige Atmosphäre dieses Wintermorgens zu schätzen.",
+                "hu": "Lépjen be, hogy elmeneküljön a metsző szél elől, és értékelje a téli reggel csendes, békés atmoszféráját.",
+                "ro": "Intrați pentru a scăpa de vântul tăios și a aprecia atmosfera senină și liniștită a acestei dimineți de iarnă.",
+                "en": "Step inside to escape the biting wind and appreciate the serene, quiet atmosphere of this winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Écluse",
+                "hu": "Château de l'Écluse",
+                "ro": "Château de l'Écluse",
+                "en": "Château de l'Écluse"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten vom frostigen Radweg aus einen freien Blick auf die Schlossarchitektur.",
+                "hu": "A kopasz téli fák akadálytalan kilátást nyújtanak a kastélyra a fagyos kerékpárútról nézve.",
+                "ro": "Copacii de iarnă fără frunze oferă o vedere clară asupra arhitecturii castelului de pe pista înghețată.",
+                "en": "The bare winter trees offer unobstructed views of the castle architecture from the frosty cycle path."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+                "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+                "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+                "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Stopp kurz, um Ihre Körperwärme zu erhalten, und machen Sie ein schnelles Bild des Gebäudes.",
+                "hu": "Tartsa rövidre a pihenőt a testhőmérséklet megőrzése érdekében, és csináljon egy gyors képet az épületről.",
+                "ro": "Faceți o oprire scurtă pentru a vă menține căldura corporală, făcând o poză rapidă clădirii istorice.",
+                "en": "Keep your stop short to maintain your body heat, snapping a quick picture of the historic municipal building."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre kühle Fahrt, indem Sie Wärme in der Kirche suchen, ein perfekter Abschluss vor dem frühen Sonnenuntergang.",
+                "hu": "Zárja fagyos útját a templom melegében, amely tökéletes, békés befejezés a korai naplemente előtt.",
+                "ro": "Încheiați cursa rece căutând căldură în biserică, un final perfect înainte de apusul timpuriu de iarnă.",
+                "en": "Conclude your chilly ride by seeking warmth in the church, a perfect peaceful end before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós túrája a fenséges Château de Pizay-nál indul, mielőtt elérné Saint-Jean-d'Ardières kis központját. A városháza és a Château de l'Écluse megtekintése után délben a Chapelle Saint-André következik. A délután a lenyűgöző Hôtel-Dieu-é és a kikötőé. Zárja az estét a festői Église Saint-Isidore békés környezetében, megpihenve az egész napos utazás után.",
         "ro": "Călătoria dumneavoastră începe maiestuos la Château de Pizay, înainte de a ajunge în micul centru din Saint-Jean-d'Ardières. După opririle la primărie și Château de l'Écluse, prânzul vă găsește la Chapelle Saint-André. După-amiaza este rezervată pentru impresionantul Hôtel-Dieu și o oprire la portul fluvial. Încheiați seara liniștit la pitoreasca biserică Saint-Isidore.",
         "en": "Your drive begins majestically at Château de Pizay before reaching the cozy center of Saint-Jean-d'Ardières. After stops at the town hall and Château de l'Écluse, midday brings you to Chapelle Saint-André. The afternoon is reserved for the impressive Hôtel-Dieu and a scenic detour to the river port. Let the evening wind down peacefully at the picturesque Église Saint-Isidore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum Château de Pizay und weiter über nasse Straßen zu Kirche, Rathaus und Schloss. Nach dem Mittagessen besuchen Sie die Kapelle und das trockene Hôtel-Dieu. Beenden Sie den Tag am Hafen. Fahren Sie vorsichtig und haben Sie einen Regenschirm parat.",
+            "hu": "Vezessen a Château de Pizay-hoz, majd az esős utakon a templomhoz, városházához és kastélyhoz. Ebéd után látogassa meg a kápolnát, és töltsön időt a száraz Hôtel-Dieu-ben. Zárja a napot a kikötőben. Vezessen óvatosan, és tartson esernyőt az autóban.",
+            "ro": "Conduceți la Château de Pizay, apoi pe drumurile ploioase spre biserică, primărie și castel. După prânz, vizitați capela și stați la uscat în Hôtel-Dieu. Încheiați la portul umed și Saint-Isidore. Conduceți cu prudență și țineți o umbrelă în mașină.",
+            "en": "Drive to Château de Pizay, then navigate the rainy morning roads to the church, town hall, and castle. After lunch, visit the chapel and spend hours dry inside the Hôtel-Dieu. End by the wet port and Saint-Isidore. Drive carefully and keep an umbrella in the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Pizay",
+                "hu": "Château de Pizay",
+                "ro": "Château de Pizay",
+                "en": "Château de Pizay"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam vor; die Architektur sieht vor dem grauen Regenhimmel besonders dramatisch aus.",
+                "hu": "Lassan közelítse meg a birtokot; a hatalmas építészet különösen drámaian fest a szürke, esős égbolt alatt.",
+                "ro": "Conduceți încet spre domeniu; arhitectura grandioasă arată deosebit de dramatic pe cerul gri și ploios.",
+                "en": "Drive slowly up to the estate; the grand architecture looks particularly dramatic against the grey rainy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und huschen Sie hinein, um das schöne Innere abseits des unerbittlichen Regens zu bewundern.",
+                "hu": "Parkoljon közel a bejárathoz, és siessen be, hogy a szüntelen esőtől távol csodálhassa meg a belső teret.",
+                "ro": "Parcați aproape de intrare și fugiți înăuntru pentru a admira interioarele frumoase departe de ploaia continuă.",
+                "en": "Park close to the entrance and dash inside to admire the beautiful interiors away from the relentless rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+                "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+                "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+                "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Gebäude bequem vom Auto aus oder steigen Sie kurz mit einem großen Schirm für ein Foto aus.",
+                "hu": "Tekintse meg az épületet az autó kényelméből, vagy lépjen ki röviden egy nagy esernyővel egy fotó erejéig.",
+                "ro": "Vedeți clădirea din confortul mașinii sau ieșiți scurt cu o umbrelă mare pentru o fotografie rapidă.",
+                "en": "View the building from the comfort of your car, or step out briefly with a large umbrella for a quick photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Écluse",
+                "hu": "Château de l'Écluse",
+                "ro": "Château de l'Écluse",
+                "en": "Château de l'Écluse"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steinmauern glänzen im Regen; seien Sie auf den rutschigen Wegen vorsichtig, wenn Sie aussteigen.",
+                "hu": "A kastély nedves kőfalai csillognak az esőben; legyen óvatos a csúszós ösvényeken, ha kiszáll az autóból.",
+                "ro": "Zidurile de piatră umede strălucesc în ploaie; aveți grijă pe potecile alunecoase dacă coborâți din mașină.",
+                "en": "The wet stone walls of the castle glisten in the rain; be careful on the slippery paths if you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-André",
+                "hu": "Chapelle Saint-André",
+                "ro": "Chapelle Saint-André",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto bringt Sie in diese friedliche Kapelle, die vorübergehenden trockenen Schutz bietet.",
+                "hu": "Egy rövid sprint az autótól, és már bent is van ebben a békés kápolnában, amely átmeneti száraz menedéket nyújt.",
+                "ro": "Un sprint scurt de la mașină vă aduce în această capelă pașnică, oferind un refugiu uscat temporar.",
+                "en": "A quick dash from the car brings you into this small, peaceful chapel, offering temporary dry refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu de Belleville",
+                "hu": "Hôtel-Dieu de Belleville",
+                "ro": "Hôtel-Dieu de Belleville",
+                "en": "Hôtel-Dieu of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp für den Regennachmittag mit riesigen Innenräumen, die Sie komplett im Trockenen erkunden können.",
+                "hu": "Tökéletes esős délutáni megálló hatalmas beltéri múzeumi terekkel, amelyeket teljesen szárazon fedezhet fel.",
+                "ro": "Oprirea perfectă pentru o după-amiază ploioasă, cu spații interioare vaste pe care să le explorați rămânând uscat.",
+                "en": "The perfect rainy afternoon stop, offering vast indoor museum spaces and an apothecary to explore while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Belleville",
+                "hu": "Port de Belleville",
+                "ro": "Port de Belleville",
+                "en": "Port of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die vom Regen gepeitschte Flussaussicht aus dem warmen Auto und vermeiden Sie den Schlamm am Ufer.",
+                "hu": "Élvezze a folyó esős látványát a meleg, parkoló autóból, elkerülve a parti sarat és a pocsolyákat.",
+                "ro": "Bucurați-vă de priveliștile ploii lovind râul din căldura mașinii parcate, evitând noroiul de pe mal.",
+                "en": "Enjoy the moody views of the rain hitting the river from the warmth of your parked car, avoiding the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Isidore",
+                "hu": "Église Saint-Isidore",
+                "ro": "Église Saint-Isidore",
+                "en": "Église Saint-Isidore"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie ran, um die Architektur zu bewundern, und treten Sie ein, um Ihren Mantel abzuschütteln.",
+                "hu": "Húzódjon le a kocsival, hogy megcsodálja az építészetet, majd lépjen be lerázni vizes kabátját a túra végén.",
+                "ro": "Trageți pe dreapta pentru a admira arhitectura, intrând pentru a vă scutura haina umedă înainte de a termina.",
+                "en": "Pull over to admire the architecture, stepping inside to shake off your wet coat before finishing the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie das Auto für die Fahrt zum Château de Pizay auf. Nach einem gemütlichen Mittagessen erkunden Sie Kapelle und Hôtel-Dieu. Bewundern Sie den frostigen Hafen und Saint-Isidore vor dem Sonnenuntergang um 17:00 Uhr. Vorsicht vor eisigen Landstraßen.",
+            "hu": "Fűtse be az autót, és vezessen a Château de Pizay-hoz a fagyos reggelen. Ebéd után fedezze fel a kápolnát és a Hôtel-Dieu-t. Nézze meg a zúzmarás kikötőt és a Saint-Isidore-t a 17:00 órai naplemente előtt. Vigyázzon a jeges vidéki utakkal.",
+            "ro": "Încălziți mașina pentru un drum geros spre Château de Pizay. După un prânz confortabil, explorați capela și Hôtel-Dieu. Bucurați-vă de portul înghețat și de biserica Saint-Isidore înainte de apusul de la 17:00. Atenție la drumurile rurale înghețate.",
+            "en": "Warm up the car for a frosty drive to Château de Pizay and nearby landmarks. After a cozy lunch, explore the chapel and Hôtel-Dieu. Enjoy the frosted port and Saint-Isidore church before sunset at 17:00. Watch out for icy rural roads in the early morning."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Pizay",
+                "hu": "Château de Pizay",
+                "ro": "Château de Pizay",
+                "en": "Château de Pizay"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt wie ein Wintermärchen; seien Sie auf der frostigen Auffahrt vorsichtig, wenn Sie sich nähern.",
+                "hu": "A kastély úgy fest, mint egy téli tündérmese; legyen óvatos a fagyos felhajtón, amikor megközelíti a birtokot.",
+                "ro": "Castelul arată ca un basm de iarnă; fiți atenți pe aleea înghețată în timp ce vă apropiați de domeniu.",
+                "en": "The majestic castle looks like a winter fairy tale; be careful on the frosty driveway as you approach the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "hu": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "ro": "Église de la Nativité-de-Saint-Jean-Baptiste",
+                "en": "Église de la Nativité-de-Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem beheizten Auto, um das Innere zu bewundern, und packen Sie sich warm ein.",
+                "hu": "Szálljon ki a fűtött autóból, hogy megcsodálja a templom belsejét, de öltözzön fel melegen a hideg levegő ellen.",
+                "ro": "Ieșiți din mașina încălzită pentru a admira interiorul bisericii, înfofolindu-vă bine înainte de a înfrunta frigul.",
+                "en": "Step out of the heated car to admire the church interior, wrapping up warmly before braving the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Saint-Jean-d'Ardières",
+                "hu": "Saint-Jean-d'Ardières polgármesteri hivatala",
+                "ro": "Primăria delegată din Saint-Jean-d'Ardières",
+                "en": "Mairie déléguée de Saint-Jean-d'Ardières"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um sich die Beine zu vertreten, ideal für ein schnelles Foto der winterlichen Fassade.",
+                "hu": "Rövid megálló a lábak kinyújtóztatására a fagyos levegőn, amely ideális a városháza téli homlokzatának fotózására.",
+                "ro": "O scurtă oprire pentru a vă dezmorți picioarele în aerul înghețat, perfectă pentru o poză a fațadei de iarnă.",
+                "en": "A quick stop to stretch your legs in the freezing air, perfect for a brief photo of the town hall's wintery facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Écluse",
+                "hu": "Château de l'Écluse",
+                "ro": "Château de l'Écluse",
+                "en": "Château de l'Écluse"
+              },
+              "tip_5lang": {
+                "de": "Die blattlosen Bäume bieten freie Sicht auf das Schloss; achten Sie auf Glatteis auf den umliegenden Straßen.",
+                "hu": "A lombtalan fák szabad kilátást nyújtanak a kastélyra; vigyázzon a fekete jégre a környező utakon.",
+                "ro": "Copacii fără frunze oferă o vedere clară asupra castelului; atenție la poleiul de pe drumurile din jur.",
+                "en": "The leafless trees offer a clear view of the castle; watch out for black ice on the surrounding roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-André",
+                "hu": "Chapelle Saint-André",
+                "ro": "Chapelle Saint-André",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Ein charmanter Winterstopp; die Steinböden im Inneren sind eiskalt, tragen Sie also isolierte Schuhe.",
+                "hu": "Bájos téli megálló; a benti kőpadló jéghideg, ezért mindenképpen vastag, szigetelt csizmát viseljen.",
+                "ro": "O oprire fermecătoare de iarnă; podelele de piatră dinăuntru sunt înghețate, așa că purtați cizme izolate termic.",
+                "en": "A charming winter stop; the stone floors inside are freezing, so wear thick, insulated boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu de Belleville",
+                "hu": "Hôtel-Dieu de Belleville",
+                "ro": "Hôtel-Dieu de Belleville",
+                "en": "Hôtel-Dieu of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit drinnen, um die warmen Säle zu erkunden und der winterlichen Kälte zu entkommen.",
+                "hu": "Töltsön sok időt bent a meleg termek és kiállítások felfedezésével, elmenekülve a kinti téli fagy elől.",
+                "ro": "Petreceți mult timp înăuntru explorând sălile calde și expozițiile, scăpând de frigul iernii de afară.",
+                "en": "Spend plenty of time indoors exploring the warm halls and exhibits, escaping the afternoon winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Belleville",
+                "hu": "Port de Belleville",
+                "ro": "Port de Belleville",
+                "en": "Port of Belleville"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie das Fenster für die Flussbrise oder steigen Sie kurz für einen frostigen, malerischen Blick aus.",
+                "hu": "Tekerje le az ablakot, hogy érezze a folyó metsző szelét, vagy szálljon ki egy rövid zúzmarás, festői kilátásért.",
+                "ro": "Deschideți geamul pentru a simți briza râului sau coborâți scurt pentru o priveliște înghețată și pitorească.",
+                "en": "Roll down the window to feel the biting river breeze, or step out briefly for a frosty, picturesque river view."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Isidore",
+                "hu": "Église Saint-Isidore",
+                "ro": "Église Saint-Isidore",
+                "en": "Église Saint-Isidore"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner letzter Stopp, um drinnen Wärme zu suchen, bevor Sie bei winterlicher Abenddämmerung heimfahren.",
+                "hu": "Gyönyörű végső megálló, ahol még egy kis meleget szívhat magába, mielőtt a téli szürkületben hazavezetne.",
+                "ro": "O ultimă oprire frumoasă pentru a căuta căldură înăuntru înainte de a conduce acasă în amurgul iernii.",
+                "en": "A beautiful final stop to seek some warmth inside before driving home as the early winter dusk falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

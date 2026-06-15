@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogos sétáját Alcanar szívében, a modern Auditori Municipal kulturális légkörében.\n\nA nap közepén a Museu Casa O'Connor elegáns termeiben merülhet el a város arisztokratikus történelmében.\n\nA délután folyamán lassan felfelé haladva a történelmi Capelleta del Remei érintésével éri el az ibér település lenyűgöző ókori romjait.\n\nA napot a hegytetőn álló Ermita del Remei kápolna békés esti hangulatában és a partvidékre nyíló festői kilátásban gyönyörködve zárhatja.",
         "ro": "Începeți plimbarea în inima orașului Alcanar, simțind pulsul cultural la modernul Auditori Municipal.\n\nLa amiază, explorați istoria aristocratică a orașului prin sălile impunătoare ale Museu Casa O'Connor.\n\nDupă-amiaza vă poartă ușor spre dealurile din împrejurimi, oprind la istorica Capelleta del Remei înainte de a vizita fascinantele ruine antice ale așezării iberice.\n\nÎncheiați ziua bucurându-vă de atmosfera liniștită a serii și de priveliștile de coastă de la frumoasa Ermita del Remei.",
         "en": "Begin your walking journey in the heart of Alcanar by taking in the cultural pulse at the modern Auditori Municipal.\n\nBy midday, delve into the town's aristocratic history as you wander through the stately halls of Museu Casa O'Connor.\n\nThe afternoon leads you gently upwards toward the outskirts, pausing at the historic Capelleta del Remei before exploring the fascinating ancient ruins of the Moleta del Remei Iberian settlement.\n\nConclude your day soaking in the serene evening atmosphere and coastal views at the beautiful hilltop Ermita del Remei."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in überdachten Kulturstätten, um dem Regen zu entgehen. Mittags erfordert der Spaziergang zu den Kapellen einen guten Regenschirm. Nachmittags ist die iberische Siedlung oft matschig, daher sind wasserdichte Schuhe Pflicht. Der Abend endet früh im andauernden Nieselregen.",
+            "hu": "A reggel fedett kulturális helyszíneken indul, menedéket adva az eső elől. A déli séta a kápolnákhoz stabil esernyőt igényel. Délután az ibér település romjainál sárra kell számítani, így vízálló cipő ajánlott. Az este korán zárul a kitartó szitáló eső miatt.",
+            "ro": "Dimineața începe în spații culturale interioare pentru a scăpa de ploaie. La prânz, plimbarea spre capele necesită o umbrelă rezistentă. După-amiaza la așezarea iberică poate fi noroioasă, deci purtați încălțăminte impermeabilă. Seara se încheie devreme din cauza burniței persistente.",
+            "en": "Morning begins at indoor cultural spots to escape the heavy rain. Midday walk to the chapels requires a sturdy umbrella and good boots. Afternoon exploring the Iberian settlement might be muddy, so wear waterproof shoes. The evening wraps up early as the persistent drizzle continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auditori Municipal \"José Antonio Valls\"",
+                "hu": "Auditori Municipal \"José Antonio Valls\"",
+                "ro": "Auditori Municipal \"José Antonio Valls\"",
+                "en": "Auditori Municipal \"José Antonio Valls\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Akustik im Trockenen, während es draußen regnet.",
+                "hu": "Élvezze az akusztikát a száraz belső térben, amíg kint esik az eső.",
+                "ro": "Bucurați-vă de acustica interioară în timp ce afară plouă torențial.",
+                "en": "Enjoy the wonderful acoustics indoors while it heavily rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Casa O'Connor",
+                "hu": "Museu Casa O'Connor",
+                "ro": "Museu Casa O'Connor",
+                "en": "Museu Casa O'Connor"
+              },
+              "tip_5lang": {
+                "de": "Ein perfektes, überdachtes Museum, um der Geschichte nahe zu sein und dem Regen auszuweichen.",
+                "hu": "Tökéletes fedett múzeum a történelem felfedezésére és az eső elkerülésére.",
+                "ro": "Un muzeu interior perfect pentru a explora istoria ferindu-vă de ploaie.",
+                "en": "A perfect indoor museum to explore local history and dodge the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Capelleta del Remei",
+                "hu": "Capelleta del Remei",
+                "ro": "Capelleta del Remei",
+                "en": "Capelleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner Unterschlupf, aber Vorsicht vor rutschigen Stufen bei nassem Wetter.",
+                "hu": "Kisebb menedék, de esős időben nagyon csúsznak a lépcsők, óvatosan lépkedjen.",
+                "ro": "Un mic adăpost, dar aveți grijă la treptele foarte alunecoase pe vreme umedă.",
+                "en": "A small shelter, but watch out for extremely slippery steps in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat ibèric de la Moleta del Remei",
+                "hu": "Poblat ibèric de la Moleta del Remei",
+                "ro": "Poblat ibèric de la Moleta del Remei",
+                "en": "Poblat ibèric de la Moleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Freiluftruinen; tragen Sie feste, wasserdichte Schuhe für die schlammigen Wege.",
+                "hu": "Szabadtéri romok; viseljen strapabíró, vízálló bakancsot a sáros ösvényeken.",
+                "ro": "Ruine în aer liber; purtați cizme impermeabile pentru potecile noroioase.",
+                "en": "Open-air ruins; wear sturdy waterproof boots to navigate the muddy paths safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Remei",
+                "hu": "Ermita del Remei",
+                "ro": "Ermita del Remei",
+                "en": "Ermita del Remei"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser schönen Einsiedelei Zuflucht vor dem Nachmittagsnieselregen.",
+                "hu": "Keressen menedéket a délutáni szitáló eső elől ebben a gyönyörű remetelakban.",
+                "ro": "Căutați refugiu în interiorul acestui frumos schit din calea ploii de după-amiază.",
+                "en": "Seek refuge inside this beautiful hermitage from the steady afternoon drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt im warmen Auditorium und Museum. Mittags gibt es einen flotten, sonnigen Spaziergang zu den historischen Kapellen. Das Nachmittagslicht beleuchtet die iberischen Ruinen wunderschön. Die Sonne geht früh um 17:00 Uhr unter und bringt einen kühlen, aber gemütlichen Abend.",
+            "hu": "A csípős téli reggel a fűtött auditóriumban és múzeumban indul. A délidő frissítő, napos sétát hoz a kápolnákhoz. A délutáni fények gyönyörűen megvilágítják az ibér romokat. A nap korán, 17:00 körül nyugszik, fagyos, de hangulatos estét hozva.",
+            "ro": "O dimineață de iarnă geroasă începe la auditoriumul și muzeul încălzite. Prânzul aduce o plimbare însorită spre capele. Lumina după-amiezii iluminează frumos ruinele iberice. Soarele apune devreme, în jur de ora 17:00, încheind ziua cu o seară răcoroasă.",
+            "en": "A crisp winter morning starts at the warm auditorium and museum. Midday brings a brisk, sunny walk to the historic chapels. Afternoon light beautifully illuminates the Iberian village ruins. The sun sets early around 17:00, ending the walk with a chilly but cozy evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auditori Municipal \"José Antonio Valls\"",
+                "hu": "Auditori Municipal \"José Antonio Valls\"",
+                "ro": "Auditori Municipal \"José Antonio Valls\"",
+                "en": "Auditori Municipal \"José Antonio Valls\""
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start in den Tag mit faszinierenden lokalen Kulturausstellungen.",
+                "hu": "Kellemes, meleg kezdés a lenyűgöző helyi kulturális kiállításokkal.",
+                "ro": "Un început cald de zi cu expoziții culturale locale fascinante.",
+                "en": "A warm start to the cold day with fascinating local cultural exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Casa O'Connor",
+                "hu": "Museu Casa O'Connor",
+                "ro": "Museu Casa O'Connor",
+                "en": "Museu Casa O'Connor"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den beheizten Innenraum und tauchen Sie tief in das lokale Erbe ein.",
+                "hu": "Élvezze a fűtött belső teret, miközben elmerül a helyi történelmi örökségben.",
+                "ro": "Bucurați-vă de interiorul încălzit explorând în profunzime patrimoniul local.",
+                "en": "Enjoy the heated interior while diving deep into the rich local heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Capelleta del Remei",
+                "hu": "Capelleta del Remei",
+                "ro": "Capelleta del Remei",
+                "en": "Capelleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für diesen kurzen Stopp warm an; der Winterwind kann recht kühl sein.",
+                "hu": "Öltözzön melegen ehhez a rövid megállóhoz; a téli szél meglehetősen csípős lehet.",
+                "ro": "Îmbrăcați-vă gros pentru această oprire scurtă; vântul de iarnă poate fi foarte rece.",
+                "en": "Wrap up warm for this brief stop; the winter wind here can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat ibèric de la Moleta del Remei",
+                "hu": "Poblat ibèric de la Moleta del Remei",
+                "ro": "Poblat ibèric de la Moleta del Remei",
+                "en": "Poblat ibèric de la Moleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winterlicht atemberaubend, aber tragen Sie Schichten gegen den Wind.",
+                "hu": "A romok lenyűgözőek a téli fényben, de öltözzön rétegesen a hideg szél ellen.",
+                "ro": "Ruinele sunt uimitoare în lumina iernii, dar îmbrăcați-vă în straturi contra vântului.",
+                "en": "The ruins are stunning in winter light, but dress in layers against the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Remei",
+                "hu": "Ermita del Remei",
+                "ro": "Ermita del Remei",
+                "en": "Ermita del Remei"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 17:00 Uhr; die späte Wintersonne sorgt für eine friedliche Stimmung.",
+                "hu": "Érjen ide 17:00 előtt; a késő délutáni téli nap békés hangulatot teremt.",
+                "ro": "Terminați vizita înainte de 17:00; soarele de iarnă creează o atmosferă foarte senină.",
+                "en": "Finish before 17:00; the late afternoon winter sun creates a very serene mood here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a városban, és ismerkedjen meg a helyi örökséggel a csodálatos Museu Casa O'Connor épületében.\n\nA dél közeledtével tekerjen ki a Capelleta del Remei kápolnához, majd haladjon tovább a békés Ermita del Remei szentélyhez.\n\nA délutánt az ezeréves olajfák kolosszális törzseinek és az ibér település ókori romjainak felfedezésével töltheti.\n\nAz est leszálltával egy utolsó festői út a Puig Gros magaslatára vezet, ahonnan felejthetetlen panoráma tárul ön elé.",
         "ro": "Începeți aventura pe bicicletă în oraș, descoperind moștenirea locală la magnificul Museu Casa O'Connor.\n\nPe la prânz, pedalați spre Capelleta del Remei și continuați urcarea către pașnicul sanctuar Ermita del Remei.\n\nPetreceți după-amiaza admirând trunchiurile colosale ale măslinilor milenari și explorând ruinele așezării iberice.\n\nLa lăsarea serii, o ultimă cursă pitorească vă duce la Puig Gros pentru o panoramă de neuitat asupra întregii regiuni.",
         "en": "Start your cycling adventure in town with a deep dive into local heritage at the magnificent Museu Casa O'Connor.\n\nAs midday approaches, pedal outward to the Capelleta del Remei and continue up to the peaceful Ermita del Remei sanctuary.\n\nSpend your afternoon marveling at the colossal ancient trunks of the thousand-year-old olive trees and exploring the Moleta del Remei ruins.\n\nAs evening falls, a final scenic ride takes you to Puig Gros for an unforgettable, sweeping panorama of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgenregen erfordert eine vorsichtige Fahrt zum Museum. Mittags verlangt das Radeln zu den Kapellen und Olivenbäumen wasserdichte Kleidung. Der Nachmittagsaufstieg zum Puig Gros ist nass; Vorsicht bei rutschigen Abfahrten. Der Abend bringt eine neblige und langsame Rückfahrt.",
+            "hu": "A reggeli esőben óvatosan tekerjen a múzeumig, hogy száraz maradjon. A déli biciklizés a kápolnákhoz és olajfákhoz vízálló felszerelést igényel. Délután a Puig Gros megmászása nedves; vigyázzon a csúszós lejtőkön. Az este ködös kilátást és óvatos hazautat hoz.",
+            "ro": "Ploaia de dimineață necesită o plimbare atentă spre muzeu. La prânz, pedalarea spre capele și măslini cere echipament impermeabil. Urcarea de după-amiază spre Puig Gros este udă; atenție la coborârile alunecoase. Seara aduce o întoarcere încețoșată și precaută în oraș.",
+            "en": "Morning rain requires a careful ride to the museum to stay dry. Midday cycling to the chapels and ancient olives demands waterproof gear. The afternoon ascent to Puig Gros is wet; watch for slippery descents. Evening brings misty views and a damp, cautious ride back to town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Casa O'Connor",
+                "hu": "Museu Casa O'Connor",
+                "ro": "Museu Casa O'Connor",
+                "en": "Museu Casa O'Connor"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort zum Trocknen und um das Fahrrad eine Weile sicher unterzustellen.",
+                "hu": "Remek hely a száradásra, és a biciklit is fedett, biztonságos helyen tudja hagyni.",
+                "ro": "Un loc minunat pentru a vă usca și a parca bicicleta la adăpost pentru un timp.",
+                "en": "A great place to dry off and park your bike safely under cover for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Capelleta del Remei",
+                "hu": "Capelleta del Remei",
+                "ro": "Capelleta del Remei",
+                "en": "Capelleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie sanft und achten Sie auf nassem Kopfsteinpflaster rund um die Kapelle auf die Reifen.",
+                "hu": "Óvatosan fékezzen, a kápolna körüli nedves macskaköveken a gumik nagyon csúsznak.",
+                "ro": "Frânați ușor; atenție la anvelope pe pietrele cubice umede din jurul capelei.",
+                "en": "Brake gently and watch your tires carefully on the wet cobblestones near the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Remei",
+                "hu": "Ermita del Remei",
+                "ro": "Ermita del Remei",
+                "en": "Ermita del Remei"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kräftige Schauer unter den schützenden Vordächern abzuwarten.",
+                "hu": "Kiváló hely, hogy a tornác teteje alatt, védve kivárja a heves esőzések végét.",
+                "ro": "Un loc bun pentru a aștepta trecerea ploilor torențiale sub acoperișul protector.",
+                "en": "A perfectly good spot to wait out passing heavy showers safely under the porch roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "hu": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "ro": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "en": "Oliveres mil·lenaries - Àrea d'Alcanar"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume wirken im Regen mystisch, bleiben Sie aber am befestigten Rand, um tiefen Schlamm zu meiden.",
+                "hu": "Az ősi fák misztikusak az esőben, de maradjon a burkolt utak szélén a nagy sár miatt.",
+                "ro": "Copacii antici par mistici în ploaie, dar rămâneți pe marginile pavate pentru a evita noroiul.",
+                "en": "The ancient trees look mystical in the rain, but stick to the paved path edges to avoid deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat ibèric de la Moleta del Remei",
+                "hu": "Poblat ibèric de la Moleta del Remei",
+                "ro": "Poblat ibèric de la Moleta del Remei",
+                "en": "Poblat ibèric de la Moleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig; die nassen Felsen der antiken Siedlung können extrem rutschig sein.",
+                "hu": "Parkoljon óvatosan; az ősi település nedves kövei esőben meglehetősen csúszósak lehetnek.",
+                "ro": "Parcați cu grijă; stâncile umede de la așezarea antică pot fi extrem de alunecoase.",
+                "en": "Park carefully; the wet rocks at the ancient settlement can be quite slippery to walk on."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig Gros",
+                "hu": "Puig Gros",
+                "ro": "Puig Gros",
+                "en": "Puig Gros"
+              },
+              "tip_5lang": {
+                "de": "Der Weg ist bei Nässe tückisch; bremsen Sie extrem sanft auf dem schlammigen Abstieg.",
+                "hu": "Az ösvény vizesen nagyon veszélyes; lefelé a sárban kifejezetten finoman fékezzen.",
+                "ro": "Traseul este periculos când este ud; frânați foarte ușor la coborârea abruptă și noroioasă.",
+                "en": "The trail is treacherous when wet; ensure you brake very gently on the muddy descent."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die kühle Morgenfahrt mit dem Aufwärmen im überdachten Museum. Die Mittagssonne wärmt die Fahrt zu den Kapellen und Olivenbäumen. Der Nachmittagsaufstieg zum Puig Gros belohnt mit klarer Sicht. Fahren Sie vor 17:00 Uhr zurück, da es nach Sonnenuntergang schnell eisig wird.",
+            "hu": "Indítsa a fagyos reggeli túrát egy kis bemelegedéssel a fűtött múzeumban. A déli nap felmelegíti az utat a kápolnák és olajfák felé. A délutáni tekerés a Puig Gros-ra tiszta téli kilátással jutalmaz. Induljon vissza 17:00 előtt, mert a hőmérséklet naplemente után gyorsan esik.",
+            "ro": "Începeți plimbarea răcoroasă de dimineață cu o încălzire la muzeul de interior. Soarele de prânz vă încălzește drumul pe lângă capele și măslini. Urcarea spre Puig Gros oferă vederi clare. Întoarceți-vă înainte de ora 17:00, deoarece se face foarte frig după apus.",
+            "en": "Start the crisp morning ride with a warm-up at the indoor museum. The midday sun warms your ride past the historic chapels and ancient olives. The afternoon climb to Puig Gros rewards you with clear winter views. Head back before dusk hits at 17:00 as temperatures plummet quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Casa O'Connor",
+                "hu": "Museu Casa O'Connor",
+                "ro": "Museu Casa O'Connor",
+                "en": "Museu Casa O'Connor"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in den beheizten Räumen auf, bevor Sie den Rest der Route in Angriff nehmen.",
+                "hu": "Melegítse fel a kezét a fűtött termekben a hideg kerékpártúra folytatása előtt.",
+                "ro": "Încălziți-vă mâinile în camerele încălzite înainte de a continua restul traseului pe bicicletă.",
+                "en": "Thaw your cold hands inside the heated rooms before tackling the rest of the cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Capelleta del Remei",
+                "hu": "Capelleta del Remei",
+                "ro": "Capelleta del Remei",
+                "en": "Capelleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um in der frischen, kühlen Winterluft tief durchzuatmen und zu verschnaufen.",
+                "hu": "Gyors megálló, hogy kifújja magát a csípős, frissítő téli levegőn a tekerés közben.",
+                "ro": "O scurtă oprire pentru a vă trage sufletul în aerul proaspăt și extrem de revigorant de iarnă.",
+                "en": "A quick stop to simply catch your breath in the brisk, refreshing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Remei",
+                "hu": "Ermita del Remei",
+                "ro": "Ermita del Remei",
+                "en": "Ermita del Remei"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wärmt den ruhigen Innenhof angenehm für eine kurze Pause.",
+                "hu": "Az alacsony téli nap kellemesen felmelegíti az udvart egy rövid napközbeni pihenőhöz.",
+                "ro": "Soarele de iarnă încălzește curtea frumos pentru o scurtă pauză relaxantă la jumătatea drumului.",
+                "en": "The low winter sun warms the courtyard nicely for a short, well-deserved mid-ride break."
+              }
+            },
+            {
+              "name": {
+                "de": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "hu": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "ro": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "en": "Oliveres mil·lenaries - Àrea d'Alcanar"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft hebt die massiven, alten Stämme wunderschön und deutlich hervor.",
+                "hu": "A kopár téli táj gyönyörűen és kontrasztosan kiemeli a masszív, ősi fatörzseket.",
+                "ro": "Peisajul golaș de iarnă evidențiază frumos și clar trunchiurile masive, antice.",
+                "en": "The bare winter landscape highlights the massive, ancient trunks beautifully in the sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat ibèric de la Moleta del Remei",
+                "hu": "Poblat ibèric de la Moleta del Remei",
+                "ro": "Poblat ibèric de la Moleta del Remei",
+                "en": "Poblat ibèric de la Moleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Schichten; der Hügel ist oft starken, kalten Winterböen ausgesetzt.",
+                "hu": "Viseljen szélálló rétegeket; a domb nagyon ki van téve a hideg, fagyos téli széllökéseknek.",
+                "ro": "Purtați straturi rezistente la vânt; dealul poate fi destul de expus rafalelor reci de iarnă.",
+                "en": "Wear windproof layers; the open hill can be quite exposed to strong, cold winter gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig Gros",
+                "hu": "Puig Gros",
+                "ro": "Puig Gros",
+                "en": "Puig Gros"
+              },
+              "tip_5lang": {
+                "de": "Fantastische, klare Sicht im Winter, aber steigen Sie unbedingt vor der Dämmerung um 17:00 Uhr ab.",
+                "hu": "Fantasztikus a látási viszony télen, de feltétlenül ereszkedjen le a 17:00 órás sötétedés előtt.",
+                "ro": "Vizibilitate fantastică iarna, dar coborâți obligatoriu înainte de lăsarea întunericului la 17:00.",
+                "en": "Fantastic clear visibility in winter, but descend safely before early dusk hits sharply at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját a városközponttól délre, a történelmi Pont dels Estretets kőhíd masszív szerkezetének megtekintésével.\n\nDélben térjen vissza a városba, hogy átélje a Museu Casa O'Connor elegáns történelmi kiállításainak hangulatát.\n\nDélután autózzon fel a hegyekbe az ősi ibér településhez, sétáljon a monumentális ezeréves olajfák között, és pihenjen meg az Ermita del Remei kápolnánál.\n\nA festői napot egy esti sétával zárja a Puig Gros magaslatán, ahol a tengerpart lenyűgöző látványában gyönyörködhet.",
         "ro": "Începeți turul cu mașina la sud de centrul orașului pentru a admira arhitectura istorică a podului Pont dels Estretets.\n\nÎntoarceți-vă în oraș la prânz pentru a descoperi exponatele elegante găzduite în Museu Casa O'Connor.\n\nConduceți pe dealuri după-amiaza pentru a vizita așezarea antică iberică, plimbați-vă printre măslinii milenari monumentali și opriți la Ermita del Remei.\n\nÎncheiați ziua pitorească cu o drumeție de seară la Puig Gros, admirând priveliștea spectaculoasă a coastei.",
         "en": "Kick off your driving tour south of the town center to admire the historic masonry of the Pont dels Estretets bridge.\n\nReturn to town by midday to experience the elegant historical exhibits housed within the Museu Casa O'Connor.\n\nDrive up the hills in the afternoon to visit the ancient Moleta del Remei settlement, wander among the monumental thousand-year-old olive trees, and pause at the Ermita del Remei.\n\nFinish your scenic day trip with an evening hike at Puig Gros, taking in spectacular golden-hour views of the coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Morgenfahrt beginnt sicher an der historischen Brücke, bevor es ins trockene Museum geht. Mittagsschauer begleiten die Fahrt zur antiken Siedlung und den Olivenhainen. Die Nachmittagsaussichten von der Einsiedelei und dem Puig Gros sind mit tiefen Wolken sehr dramatisch. Die Fahrt endet früh im feuchten Abend.",
+            "hu": "Az esős reggeli autózás biztonságosan a történelmi hídnál kezdődik, majd a fedett múzeumban folytatódik. A déli záporok végigkísérik az utat az ibér romokhoz és az olajfákhoz. A délutáni kilátás a remetelaktól és a Puig Gros-ról drámai az alacsony felhőkkel. Az autózás korán véget ér a nyirkos estében.",
+            "ro": "O plimbare ploioasă matinală începe în siguranță la podul istoric, continuând la muzeul interior. Aversele de prânz vă însoțesc spre așezarea antică și măslini. Vederile de după-amiază de la schit și Puig Gros sunt dramatice cu nori joși. Conducerea se încheie devreme într-o seară umedă.",
+            "en": "A rainy morning drive starts safely at the historic bridge before heading to the indoor museum. Midday showers accompany the drive to the ancient settlement and olive groves. The afternoon views from the hermitage and Puig Gros are dramatic with low clouds. Driving ends early in the damp evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pont dels Estretets",
+                "hu": "Pont dels Estretets",
+                "ro": "Pont dels Estretets",
+                "en": "Pont dels Estretets"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den regenüberfluteten Fluss bequem und sicher aus dem trockenen Auto heraus.",
+                "hu": "Nézze meg az esőtől megduzzadt folyót kényelmesen és szárazon az autó biztonságából.",
+                "ro": "Priviți râul umflat de ploaie confortabil din siguranța mașinii dumneavoastră uscate.",
+                "en": "View the beautiful rain-swollen river comfortably from the absolute safety of your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Casa O'Connor",
+                "hu": "Museu Casa O'Connor",
+                "ro": "Museu Casa O'Connor",
+                "en": "Museu Casa O'Connor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und flüchten Sie sich schnell in eine trockene, faszinierende historische Tour.",
+                "hu": "Parkoljon a közelben, és siessen be az épületbe egy száraz, lenyűgöző történelmi túrára.",
+                "ro": "Parcați aproape și fugiți rapid înăuntru pentru un tur istoric uscat și foarte fascinant.",
+                "en": "Park nearby and dash inside the building for a dry, fascinating historical interior tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat ibèric de la Moleta del Remei",
+                "hu": "Poblat ibèric de la Moleta del Remei",
+                "ro": "Poblat ibèric de la Moleta del Remei",
+                "en": "Poblat ibèric de la Moleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen guten Regenschirm mit; die unebenen Steine der Ruinen werden sehr rutschig.",
+                "hu": "Vigyen egy jó esernyőt; a romok egyenetlen kövei nagyon csúszósak lesznek a heves esőtől.",
+                "ro": "Aduceți o umbrelă mare; pietrele inegale de la ruine devin foarte alunecoase pe ploaie.",
+                "en": "Bring a large, good umbrella; the uneven stones at the outdoor ruins get very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "hu": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "ro": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "en": "Oliveres mil·lenaries - Àrea d'Alcanar"
+              },
+              "tip_5lang": {
+                "de": "Am besten kurz aus dem Auto betrachten oder mit festen Gummistiefeln, um tiefen Schlamm zu vermeiden.",
+                "hu": "A sár miatt legjobb az autóból, vagy strapabíró gumicsizmában közelről megnézni a fákat.",
+                "ro": "Cel mai bine de privit scurt din mașină sau cu cizme de ploaie solide pentru a evita noroiul.",
+                "en": "Best viewed briefly from the car or with solid rain boots to avoid sinking into deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Remei",
+                "hu": "Ermita del Remei",
+                "ro": "Ermita del Remei",
+                "en": "Ermita del Remei"
+              },
+              "tip_5lang": {
+                "de": "Die historische Einsiedelei bietet ein friedliches, absolut trockenes Heiligtum vor starkem Regen.",
+                "hu": "A történelmi remetelak békés, teljesen száraz menedéket kínál a heves kinti esőzések elől.",
+                "ro": "Schitul istoric oferă un sanctuar pașnic și complet uscat departe de ploile torențiale.",
+                "en": "The historic hermitage offers a peaceful, totally dry sanctuary away from the heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig Gros",
+                "hu": "Puig Gros",
+                "ro": "Puig Gros",
+                "en": "Puig Gros"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie äußerst vorsichtig auf nassen Bergstraßen; genießen Sie das neblige Panorama von oben.",
+                "hu": "Vezessen rendkívül óvatosan a nedves hegyi utakon; élvezze a fentről elénk táruló ködös panorámát.",
+                "ro": "Conduceți cu mare grijă pe drumurile montane umede; bucurați-vă de panorama cețoasă de sus.",
+                "en": "Drive extremely carefully on the wet mountain roads; safely enjoy the misty, moody panorama from above."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Morgenfahrt beginnt an der Steinbrücke und führt zum beheizten Museum. Mittags gibt es strahlenden Sonnenschein an den Ruinen und Olivenbäumen. Die Nachmittagsfahrt zum Puig Gros bietet goldenes Licht, bevor der frühe Sonnenuntergang um 17:00 Uhr einen frostigen Abend bringt.",
+            "hu": "A fagyos reggeli autózás a kőhídnál indul, majd a fűtött múzeumba vezet. Délben ragyogó téli napsütés várja a romoknál és az olajfáknál. A délutáni út a Puig Gros felé csodás aranyórás fényeket kínál, mielőtt a 17:00 órai korai naplemente elhozza a fagyos, sötét estét.",
+            "ro": "O plimbare matinală geroasă începe la podul de piatră și continuă la muzeul încălzit. Prânzul aduce soare strălucitor la ruine și măslini. Drumul de după-amiază spre Puig Gros oferă lumina orei de aur înainte ca apusul de la ora 17:00 să aducă o seară înghețată.",
+            "en": "A crisp morning drive begins at the stone bridge and continues to the heated museum. Midday features bright winter sunshine at the ruins and ancient olive trees. The afternoon drive to the hermitage and Puig Gros offers golden hour light before the early sunset around 17:00 brings a freezing evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pont dels Estretets",
+                "hu": "Pont dels Estretets",
+                "ro": "Pont dels Estretets",
+                "en": "Pont dels Estretets"
+              },
+              "tip_5lang": {
+                "de": "Die eisige, klare Morgenluft lässt die alte Steinbrücke über dem Fluss besonders karg und schön wirken.",
+                "hu": "A fagyos, tiszta reggeli levegőtől a folyó feletti ősi kőhíd még zordabbnak és lenyűgözőbbnek tűnik.",
+                "ro": "Aerul înghețat al dimineții face ca podul antic din piatră peste râu să pară deosebit de auster și frumos.",
+                "en": "The freezing, crisp morning air makes the ancient stone bridge over the river look especially stark and beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Casa O'Connor",
+                "hu": "Museu Casa O'Connor",
+                "ro": "Museu Casa O'Connor",
+                "en": "Museu Casa O'Connor"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, gemütlich beheizter Stopp, um tief in die Geschichte einzutauchen, ohne draußen zu frieren.",
+                "hu": "Tökéletes, kellemesen fűtött megálló, ahol a kinti fagyoskodás nélkül merülhet el mélyen a történelemben.",
+                "ro": "O oprire încălzită perfectă pentru a vă scufunda în istoria bogată fără a îngheța în frigul de afară.",
+                "en": "A perfect, comfortably heated stop to dive deep into local history without freezing in the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat ibèric de la Moleta del Remei",
+                "hu": "Poblat ibèric de la Moleta del Remei",
+                "ro": "Poblat ibèric de la Moleta del Remei",
+                "en": "Poblat ibèric de la Moleta del Remei"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersicht vom Hügel, aber tragen Sie unbedingt eine dicke, winddichte Jacke.",
+                "hu": "Élvezze a tiszta téli kilátást a dombról, de mindenképpen vegyen fel egy vastag, szélálló kabátot a hideg ellen.",
+                "ro": "Bucurați-vă de vederile clare de iarnă de pe deal, dar purtați neapărat o jachetă groasă și rezistentă la vânt.",
+                "en": "Enjoy the spectacularly clear winter views from the hill, but make sure to wear a thick, windproof winter jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "hu": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "ro": "Oliveres mil·lenaries - Àrea d'Alcanar",
+                "en": "Oliveres mil·lenaries - Àrea d'Alcanar"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne am Nachmittag wirft lange, äußerst dramatische Schatten durch die alten Äste.",
+                "hu": "A délutáni, alacsonyan járó téli nap hosszú, rendkívül drámai árnyékokat vet a kopár, ősi ágak között.",
+                "ro": "Soarele de iarnă coborât aruncă umbre lungi și extrem de dramatice prin crengile antice și golașe ale măslinilor.",
+                "en": "The low winter afternoon sun casts exceptionally long, dramatic shadows directly through the ancient, bare branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Remei",
+                "hu": "Ermita del Remei",
+                "ro": "Ermita del Remei",
+                "en": "Ermita del Remei"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige, kalte Winteratmosphäre hier oben ist absolut perfekt für eine stille Besinnung vor dem nahenden Sonnenuntergang.",
+                "hu": "A csendes, hideg téli hangulat itt fent tökéletes lehetőséget nyújt a nyugodt elmélyülésre a közeledő naplemente előtt.",
+                "ro": "Atmosfera liniștită și rece de iarnă de aici este absolut perfectă pentru reflecție tăcută înainte de apropierea apusului.",
+                "en": "The quiet, freezing winter atmosphere up here is absolutely perfect for silent reflection just before the approaching sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig Gros",
+                "hu": "Puig Gros",
+                "ro": "Puig Gros",
+                "en": "Puig Gros"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Bergfahrt genau für den goldenen Sonnenuntergang, aber fahren Sie sicher vor der Dunkelheit um 17:00 Uhr ab.",
+                "hu": "Időzítse a hegyi utat pontosan az arany naplementéhez, de biztonságosan induljon vissza a teljes 17:00 órás sötétség előtt.",
+                "ro": "Programați-vă drumul pe munte exact pentru apusul auriu, dar coborâți în siguranță înainte de întunericul complet de la 17:00.",
+                "en": "Time your mountain drive perfectly to catch the golden sunset, but safely head down before it gets pitch dark at 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

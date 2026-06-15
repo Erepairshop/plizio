@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a napot Champagne-sur-Seine szívében, megcsodálva a Városházát és a modern Assisi Szent Ferenc templomot.\nDélben: Haladjon dél felé Saint-Mammès hajósfalujába, ahol a történelmi Városháza mesél a folyami kereskedelemről.\nDélután: Sétáljon kelet felé a hangulatos Szent Péter templomhoz, élvezve ennek a folyóparti közösségnek a békéjét.\nEste: Fejezze be a sétát a Notre-Dame-de-l'Assomption templomnál, és gyönyörködjön a Szajnára nyíló nyugodt kilátásban.",
         "ro": "Dimineața: Începeți în inima orașului Champagne-sur-Seine, admirând Primăria și moderna Biserică Sfântul Francisc de Assisi.\nPrânz: Mergeți spre sud, către satul de barcagii Saint-Mammès, unde Primăria istorică spune poveștile comerțului fluvial.\nDupă-amiaza: Plimbați-vă spre est până la Biserica Saint-Pierre, bucurându-vă de liniștea acestei comunități de pe malul râului.\nSeara: Încheiați-vă plimbarea la Biserica Notre-Dame-de-l'Assomption, admirând priveliștea senină asupra Senei.",
         "en": "Morning: Start at the heart of Champagne-sur-Seine, admiring the Mairie and the modern Église Saint-François-d'Assise.\nMidday: Continue south towards the bargemen's village of Saint-Mammès, where the historic Mairie tells tales of river trade.\nAfternoon: Walk east to the charming Église Saint-Pierre, enjoying the peaceful atmosphere of this quiet riverside community.\nEvening: Conclude your walk at the Church of Notre-Dame-de-l'Assomption, taking in the serene views over the Seine before sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Rathaus, wo das Grau des Himmels den Stein dunkler färbt. Mittags suchen wir Schutz in den alten Kirchen der Stadt, während der Regen sanft auf die Dächer trommelt. Am Nachmittag führt der Weg entlang der Seine, deren Spiegelbild durch die Tropfen tanzt. Der Abend klingt gemütlich aus, während die nassen Straßen das Licht der Laternen reflektieren.",
+            "hu": "Esős reggel indul a városházánál, ahol az ég szürkesége mélyebb színt ad az épületeknek. Délben a város ősi templomaiban lelünk menedéket, miközben az eső kopog a tetőkön. Délután a Szajna mentén sétálunk, ahol a vízcseppek fodrozzák a folyó tükrét. Az este békésen zárul, a vizes aszfalton megcsillanó utcai fények kíséretében, egy vízhatlan kabát pedig elengedhetetlen.",
+            "ro": "O dimineață ploioasă începe la primărie, unde cerul gri face piatra să pară mai întunecată. La prânz căutăm adăpost în bisericile vechi, ascultând ploaia care bate ușor în acoperișuri. După-amiaza mergem de-a lungul Senei, a cărei suprafață este tulburată de picături. Seara se încheie liniștit, în timp ce străzile ude reflectă lumina felinarelor, oferind o atmosferă melancolică.",
+            "en": "A rainy morning begins at the town hall, where the grey sky deepens the colors of the stone. At noon, we find shelter in the ancient churches while rain drums softly on the roofs. The afternoon leads us along the Seine, its surface dancing with raindrops. The evening ends cozily as the wet streets reflect the streetlights; a sturdy umbrella is your best companion today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Champagne-sur-Seine",
+                "hu": "Champagne-sur-Seine Városháza",
+                "ro": "Primăria Champagne-sur-Seine",
+                "en": "Mairie de Champagne-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Vordach und achten Sie auf die rutschigen Stufen beim Betreten des Gebäudes.",
+                "hu": "Csodáld meg az épületet az ereszek alól, és vigyázz a lépcsőkön, mert az esőben könnyen csúszóssá válhatnak.",
+                "ro": "Admirați arhitectura de sub streșini și aveți grijă la treptele care pot deveni alunecoase din cauza ploii constante.",
+                "en": "Admire the architecture from under the eaves and watch your step on the stairs, as they can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-François-d'Assise",
+                "hu": "Assisi Szent Ferenc templom",
+                "ro": "Biserica Sfântul Francisc de Assisi",
+                "en": "Église Saint-François-d'Assise"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum als trockenen Rückzugsort und lauschen Sie dem beruhigenden Klang des Regens auf dem Kirchendach.",
+                "hu": "Használd a belső teret száraz menedékként, és hallgasd a templomtetőn kopogó eső megnyugtató, meditatív hangját.",
+                "ro": "Folosiți interiorul ca un refugiu uscat și ascultați sunetul liniștitor al ploii care bate în acoperișul vechi al bisericii.",
+                "en": "Use the interior as a dry sanctuary and listen to the soothing sound of the rain drumming on the ancient church roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Saint-Mammès",
+                "hu": "Saint-Mammès Városháza",
+                "ro": "Primăria Saint-Mammès",
+                "en": "Mairie de Saint-Mammès"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Eingangsbereich bietet Schutz vor dem Wind, während Sie die Aussicht auf die Seine genießen.",
+                "hu": "A bejáratnál tett rövid pihenő védelmet nyújt a szél ellen, miközben gyönyörködhetsz a Szajnára nyíló borongós kilátásban.",
+                "ro": "O scurtă oprire în zona intrării oferă protecție împotriva vântului în timp ce admirați vederea spre Sena înnorată.",
+                "en": "A short pause at the entrance area provides protection from the wind while you enjoy the moody view of the Seine."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Feuchtigkeit fern; ideal, um die kunstvollen Details im Inneren in aller Ruhe zu betrachten.",
+                "hu": "A vastag falak távol tartják a kinti nedvességet, így ideális hely a belső díszítések nyugodt és száraz megtekintéséhez.",
+                "ro": "Zidurile groase țin umezeala la distanță, fiind locul ideal pentru a studia detaliile interioare în liniște și confort.",
+                "en": "The thick walls keep the dampness out, making it an ideal place to study the interior details in peace and dryness."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wanderung hier im Trockenen und warten Sie einen heftigen Schauer in der andächtigen Stille ab.",
+                "hu": "Fejezd be itt a túrát a szárazban, és várj meg egy-egy nagyobb záport a templom áhítatos és csendes belső terében.",
+                "ro": "Încheiați drumeția aici, la adăpost, și așteptați trecerea unei averse puternice în liniștea pioasă a bisericii.",
+                "en": "Finish your walk here in the dry and wait out a heavy downpour in the prayerful silence of the church interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus beginnt mit klarer Luft und Raureif auf den Wegen. Mittags wärmen wir uns in den geschützten Kirchen auf, während die Wintersonne tief steht. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht des Nachmittags für Fotos an der Seine. Der Abend senkt sich früh herab und lädt zu einem warmen Abschluss in der Stadt ein.",
+            "hu": "Deres reggel indul a városházánál a friss, csípős levegőben. Délben a templomok falai között keresünk enyhülést a hideg szél elől, miközben a téli nap alacsonyan jár. Mivel a nap korán, 17:00 körül nyugszik, a délutáni arany fényeket a Szajna partján használjuk ki. Az este hamar leszáll, így érdemes rétegesen öltözni a hűvös sétához.",
+            "ro": "O dimineață geroasă la primărie începe cu aer proaspăt și chiciură pe poteci. La prânz ne încălzim în bisericile protejate, în timp ce soarele de iarnă stă jos pe cer. Deoarece apusul vine devreme, în jurul orei 17:00, profităm de lumina aurie a după-amiezii pe malul Senei. Seara coboară repede, invitându-ne să încheiem vizita într-un loc călduros.",
+            "en": "A frosty morning at the town hall begins with crisp air and rime on the paths. At noon, we warm up inside the sheltered churches while the winter sun stays low. Since sunset is early, around 5 PM, we use the golden afternoon light for photos by the Seine. The evening falls quickly, making a warm coat and layered clothing essential for the walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Champagne-sur-Seine",
+                "hu": "Champagne-sur-Seine Városháza",
+                "ro": "Primăria Champagne-sur-Seine",
+                "en": "Mairie de Champagne-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Die Steinfassade wirkt im Winterlicht besonders markant; halten Sie Ihre Handschuhe für Fotos bereit.",
+                "hu": "A kőhomlokzat különösen karakteres a téli fényben; tartsd készenlétben a kesztyűdet a fotózáshoz.",
+                "ro": "Fațada de piatră arată deosebit în lumina iernii; păstrați-vă mănușile la îndemână pentru fotografii.",
+                "en": "The stone facade looks particularly striking in the winter light; keep your gloves ready for taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-François-d'Assise",
+                "hu": "Assisi Szent Ferenc templom",
+                "ro": "Biserica Sfântul Francisc de Assisi",
+                "en": "Église Saint-François-d'Assise"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um dem kalten Wind zu entkommen und die winterliche Stille im Inneren zu genießen.",
+                "hu": "Békés hely a hideg szél elöli menekülésre, ahol élvezheted a belső tér meghitt, téli csendjét.",
+                "ro": "Un loc liniștit pentru a scăpa de vântul rece și pentru a te bucura de tăcerea iernatică din interior.",
+                "en": "A peaceful place to escape the cold wind and enjoy the wintry silence inside the church walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Saint-Mammès",
+                "hu": "Saint-Mammès Városháza",
+                "ro": "Primăria Saint-Mammès",
+                "en": "Mairie de Saint-Mammès"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Vorplatz und genießen Sie den weiten Blick über den gefrorenen Fluss.",
+                "hu": "Ügyelj a jeges foltokra a téren, és élvezd a tiszta, téli kilátást a folyó felett a városháza elől.",
+                "ro": "Atenție la porțiunile înghețate din piață și bucurați-vă de vederea clară de iarnă peste râu.",
+                "en": "Watch out for icy patches on the square and enjoy the clear winter view over the river from the front."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt in der Kirche bietet eine kurze Pause von der Kälte; die Atmosphäre ist im Winter besonders andächtig.",
+                "hu": "A templomi látogatás rövid pihenőt kínál a kinti hideg elől; a hangulat télen különösen áhítatos.",
+                "ro": "Vizita la biserică oferă o scurtă pauză de la frigul de afară; atmosfera este deosebit de pioasă iarna.",
+                "en": "A visit to the church offers a brief respite from the cold; the atmosphere is especially prayerful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr, um die Kirche zu besichtigen, bevor die Winterdunkelheit einsetzt.",
+                "hu": "Használd ki az utolsó fényeket 17:00 előtt a templom megtekintéséhez, mielőtt beáll a téli sötétség.",
+                "ro": "Profitați de ultima lumină înainte de ora 17:00 pentru a vizita biserica înainte de lăsarea întunericului.",
+                "en": "Take advantage of the last daylight before 5 PM to visit the church before the winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Délelőtt: Kerékpározzon át Champagne-sur-Seine központján, megtekintve a Városházát és a Szent Ferenc templomot a friss levegőn.\nDélben: Guruljon át Thomery-be, és látogasson el a lenyűgöző Rosa Bonheur Múzeumba, hogy megismerje a művésznő világát.\nDélután: Tekerjen a Thomery Városháza és a közeli Saint-Amand templom felé, élvezve a történelmi építészetet.\nEste: Fejezze be kerékpáros útját a gyönyörű Notre-Dame-de-l'Assomption templomnál, a folyóparti naplementében.",
         "ro": "Dimineața: Pedalați prin centrul orașului Champagne-sur-Seine, admirând Primăria și Biserica Sfântul Francisc de Assisi în aerul proaspăt.\nPrânz: Treceți în Thomery pentru a vizita fascinantul Muzeu Rosa Bonheur, cufundându-vă în lumea renumitei pictorițe.\nDupă-amiaza: Mergeți spre Primăria Thomery și Biserica Saint-Amand, bucurându-vă de străzile istorice ale satului.\nSeara: Încheiați călătoria cu bicicleta la frumoasa Biserică Notre-Dame-de-l'Assomption, reflectând la frumusețea patrimoniului cultural.",
         "en": "Morning: Cycle through the center of Champagne-sur-Seine, taking in the Mairie and the Église Saint-François-d'Assise in the crisp morning air.\nMidday: Cross over to Thomery to visit the fascinating Musée Rosa Bonheur, immersing yourself in the world of the renowned animal painter.\nAfternoon: Ride towards the Marie de Thomery and the nearby Église Saint-Amand, enjoying the historic architecture.\nEvening: End your cycling journey at the beautiful Church of Notre-Dame-de-l'Assomption, reflecting on the region's rich cultural heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Rathaus mit feuchten Straßen, die volle Konzentration beim Radfahren erfordern. Mittags bietet das Rosa Bonheur Museum den perfekten, trockenen Unterschlupf für eine ausgiebige Pause. Am Nachmittag radeln wir vorsichtig durch Thomery, während der Regen die Landschaft in sanftes Licht taucht. Der Abend endet mit der Reinigung der Fahrräder nach einer erfrischenden, aber nassen Tour.",
+            "hu": "A nap nedves utakon indul a városházánál, ami teljes koncentrációt igényel a kerékpározás során. Délben a Rosa Bonheur Múzeum tökéletes száraz menedéket nyújt egy hosszabb pihenőre. Délután óvatosan tekerünk át Thomery-n, miközben az eső lágy fénybe vonja a tájat. Az este a kerékpárok letakarításával zárul egy frissítő, de vizes túra után.",
+            "ro": "Ziua începe pe străzi umede la primărie, necesitând concentrare maximă în timpul mersului pe bicicletă. La prânz, Muzeul Rosa Bonheur oferă adăpostul uscat perfect pentru o pauză lungă. După-amiaza pedalăm cu grijă prin Thomery, în timp ce ploaia scaldă peisajul într-o lumină difuză. Seara se încheie cu curățarea bicicletelor după o tură răcoritoare, dar udă.",
+            "en": "The day starts on damp roads at the town hall, requiring full concentration while cycling. At noon, the Rosa Bonheur Museum provides the perfect dry refuge for an extended break. In the afternoon, we cycle carefully through Thomery as the rain bathes the landscape in soft light. The evening ends with cleaning the bikes after a refreshing but wet tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Champagne-sur-Seine",
+                "hu": "Champagne-sur-Seine Városháza",
+                "ro": "Primăria Champagne-sur-Seine",
+                "en": "Mairie de Champagne-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start, da die nassen Straßen den Bremsweg erheblich verlängern können.",
+                "hu": "Indulás előtt ellenőrizd a fékeidet, mivel a vizes aszfalton a féktávolság jelentősen megnövekedhet.",
+                "ro": "Verificați frânele înainte de plecare, deoarece carosabilul umed poate crește considerabil distanța de frânare.",
+                "en": "Check your brakes before starting, as wet roads can significantly increase your braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-François-d'Assise",
+                "hu": "Assisi Szent Ferenc templom",
+                "ro": "Biserica Sfântul Francisc de Assisi",
+                "en": "Église Saint-François-d'Assise"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einen Baum oder ein Vordach, um den Sattel während der Besichtigung trocken zu halten.",
+                "hu": "Állítsd a kerékpárod egy fa vagy eresz alá, hogy a nyereg száraz maradjon, amíg te bent nézelődsz.",
+                "ro": "Parcați bicicleta sub un copac sau o streșină pentru a menține șaua uscată în timp ce vizitați interiorul.",
+                "en": "Park your bike under a tree or eaves to keep the saddle dry while you are visiting the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Rosa Bonheur",
+                "hu": "Rosa Bonheur Múzeum",
+                "ro": "Muzeul Rosa Bonheur",
+                "en": "Musée Rosa Bonheur"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regen draußen zu vergessen und sich in der faszinierenden Welt der Kunst aufzuwärmen.",
+                "hu": "Ideális hely, hogy elfelejtsd a kinti esőt, és átadd magad a művészet lenyűgöző világának a szárazban.",
+                "ro": "Locul ideal pentru a uita de ploaia de afară și pentru a vă cufunda în lumea fascinantă a artei, la adăpost.",
+                "en": "An ideal place to forget the rain outside and immerse yourself in the fascinating world of art while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Thomery",
+                "hu": "Thomery Városháza",
+                "ro": "Primăria din Thomery",
+                "en": "Marie de Thomery"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Radfahren auf das Kopfsteinpflaster in der Nähe, das bei Nässe extrem rutschig sein kann.",
+                "hu": "Kerékpározás közben figyelj a közeli macskakövekre, amelyek nedvesen rendkívül csúszóssá válhatnak.",
+                "ro": "Fiți atenți la pavajul din apropiere în timp ce pedalați, deoarece poate deveni extrem de alunecos când este ud.",
+                "en": "Watch out for the nearby cobblestones while cycling, as they can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Amand",
+                "hu": "Saint-Amand templom",
+                "ro": "Biserica Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für eine kurze Trinkpause, geschützt vor dem herabfallenden Regen.",
+                "hu": "Használd a fedett bejáratot egy rövid frissítő pihenőre, védve a folyamatosan hulló esőtől.",
+                "ro": "Folosiți zona de intrare acoperită pentru o scurtă pauză de hidratare, fiind protejați de ploaia continuă.",
+                "en": "Use the covered entrance area for a short refreshment break, protected from the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich kurz ab, bevor Sie die Kirche betreten, um die andächtige Stille im Trockenen zu genießen.",
+                "hu": "Törölközz meg gyorsan, mielőtt belépsz a templomba, hogy szárazon élvezhesd a belső tér nyugalmát.",
+                "ro": "Ștergeți-vă rapid înainte de a intra în biserică pentru a vă bucura de liniștea interioară în confort și uscat.",
+                "en": "Dry yourself off quickly before entering the church to enjoy the inner peace in dry comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt mit einer zügigen Fahrt vom Rathaus weg, um warm zu bleiben. Mittags bietet das Rosa Bonheur Museum eine willkommene Aufwärmpause in historischem Ambiente. Die tiefstehende Wintersonne beleuchtet am Nachmittag die Weinberge von Thomery, bevor es um 17:00 Uhr dunkel wird. Der Abend endet schnell, da die sinkenden Temperaturen zum Heimkehren einladen.",
+            "hu": "Hideg téli reggel indul a városházánál; tekerj tempósan, hogy megőrizd tested melegét a friss levegőn. Délben a Rosa Bonheur Múzeum nyújt várva várt felmelegedést történelmi környezetben. Az alacsonyan járó téli nap délután világítja meg Thomery szőlőskertjeit, mielőtt 17:00-kor besötétedik. Az este hamar véget ér a lehűlés miatt.",
+            "ro": "O dimineață rece de iarnă începe la primărie; pedalați vioi pentru a vă menține căldura corporală în aerul proaspăt. La prânz, Muzeul Rosa Bonheur oferă o pauză de încălzire binevenită într-un cadru istoric. Soarele de iarnă luminează podgoriile din Thomery după-amiaza, înainte de lăsarea serii la ora 17:00. Vizita se încheie devreme din cauza frigului.",
+            "en": "A cold winter morning starts at the town hall; cycle briskly to keep your body warm in the crisp air. At noon, the Rosa Bonheur Museum offers a welcome warming break in a historical setting. The low winter sun illuminates the vineyards of Thomery in the afternoon before darkness falls at 5 PM. The evening ends quickly as temperatures drop, so dress in layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Champagne-sur-Seine",
+                "hu": "Champagne-sur-Seine Városháza",
+                "ro": "Primăria Champagne-sur-Seine",
+                "en": "Mairie de Champagne-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Kleidung und Handschuhe, um sich vor dem eisigen Fahrtwind am Morgen zu schützen.",
+                "hu": "Viselj szélálló ruházatot és kesztyűt, hogy megvédd magad a reggeli jeges menetszéltől tekerés közben.",
+                "ro": "Purtați îmbrăcăminte rezistentă la vânt și mănuși pentru a vă proteja de curentul rece de aer în timpul mersului.",
+                "en": "Wear windproof clothing and gloves to protect yourself from the icy headwind while cycling in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-François-d'Assise",
+                "hu": "Assisi Szent Ferenc templom",
+                "ro": "Biserica Sfântul Francisc de Assisi",
+                "en": "Église Saint-François-d'Assise"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern bieten einen guten Schutz vor dem schneidenden Winterwind während einer kurzen Pause.",
+                "hu": "A templom vastag falai remek védelmet nyújtanak a metsző téli szél ellen egy rövid pihenő erejéig.",
+                "ro": "Zidurile groase ale bisericii oferă o protecție excelentă împotriva vântului tăios de iarnă în timpul unei pauze.",
+                "en": "The thick church walls provide great protection against the biting winter wind during a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Rosa Bonheur",
+                "hu": "Rosa Bonheur Múzeum",
+                "ro": "Muzeul Rosa Bonheur",
+                "en": "Musée Rosa Bonheur"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um sich vollständig aufzuwärmen, bevor Sie die Tour im Freien fortsetzen.",
+                "hu": "Tervezz ide több időt, hogy teljesen átmelegedj, mielőtt folytatnád a túrát a hűvös kültéren.",
+                "ro": "Planificați mai mult timp aici pentru a vă încălzi complet înainte de a continua turul în aer liber.",
+                "en": "Plan for more time here to warm up completely before continuing your tour in the chilly outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Thomery",
+                "hu": "Thomery Városháza",
+                "ro": "Primăria din Thomery",
+                "en": "Marie de Thomery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterpanorama, aber achten Sie auf gefrorene Pfützen auf den Nebenstraßen.",
+                "hu": "Élvezd a tiszta téli panorámát, de ügyelj a befagyott tócsákra és a jeges foltokra a mellékutakon.",
+                "ro": "Bucurați-vă de panorama clară de iarnă, dar fiți atenți la bălțile înghețate de pe străzile secundare.",
+                "en": "Enjoy the clear winter panorama, but watch out for frozen puddles and icy patches on the side streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Amand",
+                "hu": "Saint-Amand templom",
+                "ro": "Biserica Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Gliedmaßen vor der letzten Etappe der winterlichen Radtour zu lockern.",
+                "hu": "Egy rövid belső megálló segít átmozgatni a végtagjaidat a téli kerékpártúra utolsó szakasza előtt.",
+                "ro": "O scurtă oprire în interior ajută la dezmorțirea membrelor înainte de ultima etapă a turului pe bicicletă.",
+                "en": "A short indoor stop helps to loosen up your limbs before the final stretch of your winter bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es nach dem Besuch bereits dunkel sein könnte.",
+                "hu": "Ellenőrizd, hogy működnek-e a kerékpárlámpáid, mert a látogatás után már sötét lehet odakint.",
+                "ro": "Verificați dacă luminile bicicletei funcționează, deoarece după vizită s-ar putea să fie deja întuneric.",
+                "en": "Check that your bike lights are working, as it might already be dark outside after your visit."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Délelőtt: Vezessen a történelmi Saint-Mammès-ba, hogy megnézze a Városházát és a Szent Péter templomot, majd álljon meg a Champagne-sur-Seine-i Városházánál.\nDélben: Irány Thomery egy hosszabb látogatásra a Rosa Bonheur Múzeumban, felfedezve a legendás művész érintetlenül hagyott műtermét.\nDélután: Fedezze fel Thomery szívét, majd látogasson el a lenyűgöző Notre-Dame-de-l'Assomption templomhoz.\nEste: Hajtson nyugat felé, és pihenjen a hatalmas Városháza parkban, hogy a természet nyugalmával zárja a napot.",
         "ro": "Dimineața: Conduceți spre istoricul Saint-Mammès pentru a vedea Primăria și Biserica Saint-Pierre, cu o scurtă oprire la Primăria din Champagne-sur-Seine.\nPrânz: Mergeți la Thomery pentru o vizită la Muzeul Rosa Bonheur, descoperind atelierul conservat al legendarei artiste.\nDupă-amiaza: Explorați inima orașului Thomery cu vizite la Primărie și Biserica Saint-Amand, apoi la Biserica Notre-Dame-de-l'Assomption.\nSeara: Conduceți spre vest pentru a vă relaxa în Parcul Primăriei, bucurându-vă de o plimbare liniștită pentru a încheia ziua.",
         "en": "Morning: Drive to the historic Saint-Mammès to see its Mairie and Église Saint-Pierre, followed by a quick stop at the Champagne-sur-Seine Mairie.\nMidday: Head to Thomery for an extended visit to the Musée Rosa Bonheur, discovering the preserved studio of the legendary artist.\nAfternoon: Explore the heart of Thomery with visits to the Mairie and Église Saint-Amand, then drive to the majestic Church of Notre-Dame.\nEvening: Drive west to relax at the expansive Mairie Park, enjoying a peaceful stroll through the greenery to perfectly cap off your day trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt bequem im Auto, während die Scheibenwischer den Rhythmus vorgeben. Mittags hüpfen wir trocken zwischen Parkplätzen und den historischen Kirchen hin und her. Das Rosa Bonheur Museum bietet am Nachmittag einen perfekten, ausgedehnten Aufenthalt im Trockenen. Der Abend endet mit dem Blick auf die Lichter der Stadt, die sich malerisch in den Pfützen spiegeln.",
+            "hu": "Esős reggel indul kényelmesen az autóban, miközben az ablaktörlők adják meg a nap ritmusát. Délben szárazon közlekedünk a parkolók és a történelmi templomok között, elkerülve a nagyobb záporokat. A Rosa Bonheur Múzeum délután tökéletes és tartalmas kikapcsolódást nyújt a fedett térben. Az este a városi fények látványával zárul, melyek festőien tükröződnek a tócsákban.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină, în timp ce ștergătoarele dau ritmul zilei. La prânz, ne deplasăm uscați între parcări și bisericile istorice, evitând aversele mari. Muzeul Rosa Bonheur oferă după-amiaza o escapadă perfectă și substanțială la adăpost. Seara se încheie cu imaginea luminilor orașului care se reflectă pitoresc în bălțile de pe străzi.",
+            "en": "A rainy morning starts comfortably in the car while the wipers set the rhythm for the day. At noon, we hop dryly between parking spots and historical churches, avoiding the heavy showers. The Rosa Bonheur Museum offers a perfect and substantial indoor escape in the afternoon. The evening ends with the sight of city lights reflecting picturesquely in the street puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Saint-Mammès",
+                "hu": "Saint-Mammès Városháza",
+                "ro": "Primăria Saint-Mammès",
+                "en": "Mairie de Saint-Mammès"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um den Weg im Regen so kurz wie möglich zu halten und trocken zu bleiben.",
+                "hu": "Használd a közeli parkolót, hogy a lehető legrövidebb utat kelljen megtenned az esőben a bejáratig.",
+                "ro": "Folosiți parcarea din apropiere pentru a menține distanța de mers prin ploaie cât mai scurtă posibil.",
+                "en": "Use the nearby parking lot to keep the walking distance through the rain as short as possible to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Auto ist heute Pflicht; der kurze Sprint zur Kirche lohnt sich für die tolle Atmosphäre.",
+                "hu": "Az esernyő ma kötelező; a templomig tartó rövid sprint megéri a bent váró áhítatos és száraz hangulatot.",
+                "ro": "Umbrela este obligatorie astăzi; scurtul sprint până la biserică merită pentru atmosfera liniștită din interior.",
+                "en": "An umbrella is a must today; the short sprint to the church is worth it for the peaceful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Champagne-sur-Seine",
+                "hu": "Champagne-sur-Seine Városháza",
+                "ro": "Primăria Champagne-sur-Seine",
+                "en": "Mairie de Champagne-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Pfützen und genießen Sie den Blick auf die nasse Fassade vom Auto aus.",
+                "hu": "Kiszálláskor ügyelj a mély tócsákra, és élvezd a vizes homlokzat látványát először az autó ablakából.",
+                "ro": "Fiți atenți la bălțile adânci când coborâți și admirați fațada udă mai întâi de la fereastra mașinii.",
+                "en": "Watch out for deep puddles when getting out and enjoy the view of the wet facade from the car window first."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Rosa Bonheur",
+                "hu": "Rosa Bonheur Múzeum",
+                "ro": "Muzeul Rosa Bonheur",
+                "en": "Musée Rosa Bonheur"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museum, um ohne nass zu werden in die Welt der berühmten Künstlerin einzutauchen.",
+                "hu": "Parkolj közvetlenül a múzeumnál, így ázás nélkül merülhetsz el a híres művésznő lenyűgöző világában.",
+                "ro": "Parcați chiar lângă muzeu pentru a vă cufunda în lumea celebrei artiste fără a vă uda în ploaia de afară.",
+                "en": "Park right by the museum to immerse yourself in the world of the famous artist without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Thomery",
+                "hu": "Thomery Városháza",
+                "ro": "Primăria din Thomery",
+                "en": "Marie de Thomery"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen von Thomery erfordern bei Regen und schlechter Sicht besondere Vorsicht beim Fahren.",
+                "hu": "Thomery szűk utcái esőben és rossz látási viszonyok között különös óvatosságot igényelnek vezetés közben.",
+                "ro": "Străzile înguste din Thomery necesită prudență sporită la volan în condiții de ploaie și vizibilitate redusă.",
+                "en": "The narrow streets of Thomery require extra caution when driving in rain and poor visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Amand",
+                "hu": "Saint-Amand templom",
+                "ro": "Biserica Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um dem prasselnden Regen zu entfliehen und die spirituelle Ruhe des Ortes zu genießen.",
+                "hu": "Tökéletes megálló, hogy elmenekülj a zuhogó eső elől, és élvezd a hely spirituális és csendes nyugalmát.",
+                "ro": "O oprire perfectă pentru a scăpa de ploaia torențială și pentru a vă bucura de liniștea spirituală a locului.",
+                "en": "A perfect stop to escape the pouring rain and enjoy the spiritual peace and quiet of the location."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den letzten Halt im Trockenen, bevor Sie die Heimreise durch das verregnete Umland antreten.",
+                "hu": "Élvezd az utolsó megállót a szárazban, mielőtt elindulnál hazafelé az esős vidéki utakon keresztül.",
+                "ro": "Bucurați-vă de ultima oprire la adăpost înainte de a porni spre casă pe drumurile rurale ploioase.",
+                "en": "Enjoy the last stop in the dry before heading home through the rainy countryside roads in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza park",
+                "ro": "Parcul Primăriei",
+                "en": "Mairie Park"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang mit Schirm zeigt den Park in einer mystischen, vernebelten und regenreichen Atmosphäre.",
+                "hu": "Egy rövid esernyős séta során a park misztikus, ködös és esős hangulatát ismerheted meg közelről.",
+                "ro": "O scurtă plimbare cu umbrela vă va dezvălui atmosfera mistică, cețoasă și ploioasă a parcului.",
+                "en": "A short walk with an umbrella will reveal the mystical, foggy, and rainy atmosphere of the park today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit beheizten Sitzen und freier Sicht durch die Autofenster. Mittags erkunden wir die historischen Stätten, wobei das Auto als warme Basis zwischen den Stopps dient. Das Rosa Bonheur Museum bietet eine gemütliche Flucht vor der Winterkälte am Nachmittag. Der frühe Sonnenuntergang um 17:00 Uhr taucht den Mairie Park in ein magisches Dämmerlicht zum Abschluss.",
+            "hu": "Fagyos reggel indul fűtött ülésekkel és tiszta kilátással az autó ablakain keresztül. Délben a történelmi helyszíneket fedezzük fel, ahol az autó meleg bázisként szolgál a megállók között. A Rosa Bonheur Múzeum délután hangulatos menedéket nyújt a téli hideg elől. A korai, 17:00-s napnyugta mágikus szürkületi fényekbe vonja a Városháza parkot a nap végén.",
+            "ro": "O dimineață geroasă începe cu scaune încălzite și o vedere clară prin ferestrele mașinii. La prânz explorăm siturile istorice, mașina servind drept bază caldă între opriri. Muzeul Rosa Bonheur oferă după-amiaza un refugiu primitor împotriva frigului de iarnă. Apusul devreme, la ora 17:00, scaldă Parcul Primăriei într-o lumină magică de amurg.",
+            "en": "A frosty morning begins with heated seats and a clear view through the car windows. At noon, we explore the historical sites, with the car serving as a warm base between stops. The Rosa Bonheur Museum provides a cozy escape from the winter cold in the afternoon. The early sunset at 5 PM bathes the Mairie Park in a magical twilight light to end the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Saint-Mammès",
+                "hu": "Saint-Mammès Városháza",
+                "ro": "Primăria Saint-Mammès",
+                "en": "Mairie de Saint-Mammès"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz und genießen Sie den klaren Blick auf den winterlichen Fluss.",
+                "hu": "Ügyelj a jegesedésre a parkolóban, és élvezd a tiszta kilátást a téli folyóra közvetlenül az autó mellől.",
+                "ro": "Atenție la polei în parcare și bucurați-vă de vederea clară spre râul înghețat chiar de lângă mașină.",
+                "en": "Watch out for black ice in the parking lot and enjoy the clear view of the winter river right from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Szent Péter templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Auto zur Kirche ist bei der klaren Winterluft erfrischend; im Inneren ist es friedlich.",
+                "hu": "Az autótól a templomig tartó rövid út frissítő a tiszta téli levegőn; a belső térben áhítatos csend vár.",
+                "ro": "Scurtul drum de la mașină la biserică este revigorant în aerul curat de iarnă; în interior vă așteaptă liniștea.",
+                "en": "The short walk from the car to the church is refreshing in the crisp winter air; it is peaceful inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Champagne-sur-Seine",
+                "hu": "Champagne-sur-Seine Városháza",
+                "ro": "Primăria Champagne-sur-Seine",
+                "en": "Mairie de Champagne-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das helle Mittagslicht für Fotos der Fassade, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "Használd ki az éles déli fényeket a homlokzat fotózásához, mielőtt újra felmelegednél a fűtött autóban.",
+                "ro": "Profitați de lumina puternică de la prânz pentru a fotografia fațada înainte de a vă reîncălzi în mașină.",
+                "en": "Take advantage of the bright noon light for photos of the facade before warming up again in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Rosa Bonheur",
+                "hu": "Rosa Bonheur Múzeum",
+                "ro": "Muzeul Rosa Bonheur",
+                "en": "Musée Rosa Bonheur"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für den Nachmittag, um der Kälte draußen zu entfliehen und viel über Kunst zu lernen.",
+                "hu": "Tökéletes délutáni program, hogy elmenekülj a kinti hideg elől, és közben sokat tanulj a művészetről.",
+                "ro": "Un program perfect de după-amiază pentru a scăpa de frigul de afară și pentru a învăța multe despre artă.",
+                "en": "A perfect afternoon program to escape the cold outside while learning a lot about the world of art."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Thomery",
+                "hu": "Thomery Városháza",
+                "ro": "Primăria din Thomery",
+                "en": "Marie de Thomery"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die engen Straßen, da sich in schattigen Lagen oft Reif und Eis halten.",
+                "hu": "Vezess óvatosan a szűk utcákon, mivel az árnyékos részeken gyakran megmarad a dér és a csúszós jég.",
+                "ro": "Conduceți cu prudență pe străzile înguste, deoarece chiciura și gheața persistă adesea în zonele umbrite.",
+                "en": "Drive carefully through the narrow streets, as frost and ice often persist in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Amand",
+                "hu": "Saint-Amand templom",
+                "ro": "Biserica Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während die Wintersonne durch die Fenster ein sanftes Licht wirft.",
+                "hu": "Élvezd a belső tér nyugalmát, miközben a téli nap alacsony szögből vet lágy fényeket az ablakokon át.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce soarele de iarnă proiectează lumini calde prin ferestre.",
+                "en": "Enjoy the peace inside while the winter sun casts soft light through the windows from a low angle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf die Architektur im Dämmerlicht, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "Utolsó pillantás az építészetre a szürkületi fényben, mielőtt újra feltekernéd a fűtést az autóban.",
+                "ro": "O ultimă privire asupra arhitecturii în lumina amurgului, înainte de a porni din nou căldura în mașină.",
+                "en": "A final look at the architecture in the twilight light before turning up the heat in your car again."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza park",
+                "ro": "Parcul Primăriei",
+                "en": "Mairie Park"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt in der frühen winterlichen Dunkelheit mit seiner Beleuchtung fast wie eine Filmkulisse.",
+                "hu": "A park a korai téli sötétségben a mesterséges fényekkel szinte úgy néz ki, mint egy különleges filmdíszlet.",
+                "ro": "Parcul arată aproape ca un decor de film în întunericul timpuriu al iernii, datorită luminilor artificiale.",
+                "en": "The park looks almost like a movie set in the early winter darkness with its atmospheric artificial lighting."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt Crevillente történelmi szívében, felfedezve a San Sebastiánt és a központi Obeliszket. Délben a kulturális élet várja az Auditorinál és a nyüzsgő Ajuntament téren. Délután csodálja meg a nagyszerű plébániatemplomot és az ikonikus Mór és Keresztény szobrot. Zárja a napot a Parc Nou történelmi és természeti szépségei között pihenve.",
         "ro": "Începeți dimineața plimbându-vă prin centrul istoric al Crevillentului, explorând San Sebastián și Obeliscul. La prânz, bucurați-vă de scena culturală vibrantă de la Auditori și de piața animată a Primăriei. După-amiaza, admirați grandioasa biserică parohială și statuia Maurilor și Creștinilor. Încheiați-vă ziua relaxându-vă în atmosfera istorică de la Parc Nou.",
         "en": "Start your morning wandering through the historical heart of Crevillente, exploring San Sebastián and the central Obelisco. Midday brings you to the vibrant cultural scene at the Auditori and the bustling Ajuntament square. In the afternoon, marvel at the grand Iglesia Parroquial and the iconic Moros y Cristianos statue. Conclude your day relaxing amidst the history and nature of Parc Nou."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem Regenschirm in den charmanten Straßen. Mittags können Sie sich in Innenräumen aufwärmen und trocknen. Nachmittags ist wasserfestes Schuhwerk gegen Pfützen Pflicht. Verbringen Sie den Abend gemütlich drinnen.",
+            "hu": "Kezdje a reggelt esernyővel a város hangulatos utcáin sétálva. Délben érdemes fedett helyekre behúzódni megszáradni. Délutáni sétájához vízálló lábbeli szükséges a tócsák ellen. Az estét töltsön el egy hangulatos helyi étteremben.",
+            "ro": "Începeți dimineața cu o umbrelă explorând străzile fermecătoare. La prânz, refugiați-vă în spații închise pentru a vă usca. După-amiaza necesită încălțăminte impermeabilă din cauza bălților. Petreceți seara într-un local confortabil.",
+            "en": "Start your morning with an umbrella as you explore the town's charming streets. Midday offers a chance to duck into indoor venues to dry off. Afternoon walks require waterproof footwear against puddles. Spend the evening in a cozy local eatery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Sebastián",
+                "hu": "San Sebastián",
+                "ro": "San Sebastián",
+                "en": "San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie schnell ein Foto von diesem historischen Wahrzeichen mit dem Regenschirm, da das umliegende Pflaster bei Regen sehr rutschig wird.",
+                "hu": "Készítsen egy gyors fotót erről a történelmi emlékműről az esernyő alól, mivel a környező burkolat nedvesen meglehetősen csúszóssá válhat.",
+                "ro": "Faceți o fotografie rapidă acestui punct istoric ținând umbrela la îndemână, deoarece pavajul din jur poate deveni alunecos pe ploaie.",
+                "en": "Take a quick photo of this historical landmark while keeping your umbrella handy, as the surrounding pavement can get quite slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco de Crevillent",
+                "hu": "Obelisco de Crevillent",
+                "ro": "Obelisco de Crevillent",
+                "en": "Obelisco de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie dieses hoch aufragende Denkmal kurz im Regen und suchen Sie dann Schutz unter den nahegelegenen Markisen der Geschäfte.",
+                "hu": "Csodálja meg ezt a tornyosuló emlékművet gyorsan az esőben, majd keressen menedéket a közeli boltok napellenzői alatt a szárazságért.",
+                "ro": "Admirați acest monument impunător rapid în ploaie, apoi căutați adăpost sub copertinele din apropiere pentru a citi despre istoria sa.",
+                "en": "Admire this towering monument quickly under the rain, then seek shelter under nearby awnings to stay dry while reading its local significance."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori de Crevillen",
+                "hu": "Auditori de Crevillen",
+                "ro": "Auditori de Crevillen",
+                "en": "Auditori de Crevillen"
+              },
+              "tip_5lang": {
+                "de": "Dieses kulturelle Zentrum ist der perfekte Zufluchtsort vor starken Schauern, um die lokale Kunst zu genießen und völlig trocken zu bleiben.",
+                "hu": "Ez a kulturális központ tökéletes beltéri menedék a heves záporok elől, ahol teljesen szárazon élvezheti a helyi művészeteket.",
+                "ro": "Acest centru cultural este evadarea perfectă din calea ploilor torențiale, permițându-vă să vă bucurați de artă stând complet uscat.",
+                "en": "This cultural hub is the perfect indoor escape from heavy showers, allowing you to enjoy local arts while staying completely dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Crevillent",
+                "hu": "Ajuntament de Crevillent",
+                "ro": "Ajuntament de Crevillent",
+                "en": "Ajuntament de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade des Rathauses unter einem stabilen Regenschirm und treten Sie unter die Eingangsbögen, falls der Regen stärker wird.",
+                "hu": "Nézze meg a városháza homlokzatát egy erős esernyő alól, és lépjen a bejárati boltívek alá, ha az eső hirtelen felerősödne a téren.",
+                "ro": "Priviți fațada primăriei de sub o umbrelă rezistentă, pășind sub arcadele de la intrare dacă ploaia devine brusc mai puternică.",
+                "en": "View the town hall's facade from under a sturdy umbrella, stepping under the entrance arches if the rain suddenly gets heavier outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+                "hu": "Nuestra Señora de Belén Plébániatemplom",
+                "ro": "Biserica Parohială Nuestra Señora de Belén",
+                "en": "Parish Church of Nuestra Señora de Belén"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese Kirche nicht nur wegen ihrer Kunst, sondern auch, um ein friedliches, trockenes Heiligtum vor dem unerbittlichen Regen zu finden.",
+                "hu": "Lépjen be ebbe a templomba nemcsak a művészetéért, hanem azért is, hogy békés, száraz menedéket találjon a kinti könyörtelen eső elől.",
+                "ro": "Pășiți în această biserică nu doar pentru artă, ci și pentru a găsi un sanctuar pașnic și uscat departe de ploaia neobosită de afară.",
+                "en": "Step inside this beautiful church not only for its art but also to find a peaceful, dry sanctuary from the relentless rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Moros y Cristianos",
+                "hu": "Estatua Moros y Cristianos",
+                "ro": "Estatua Moros y Cristianos",
+                "en": "Estatua Moros y Cristianos"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die Details dieser Figuren durch die Regentropfen, aber achten Sie auf Pfützen, die sich oft um den Sockel ansammeln.",
+                "hu": "Értékelje e legendás alakok részleteit az esőcseppeken keresztül, vigyázva a talapzat körül gyakran összegyűlő mély tócsákra.",
+                "ro": "Apreciați detaliile acestor figuri prin picăturile de ploaie, având grijă la bălțile care se adună adesea în jurul bazei statuii.",
+                "en": "Appreciate the details of these legendary figures through the raindrops, being careful of puddles that tend to gather around the base."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Plaza España",
+                "hu": "Monumento Plaza España",
+                "ro": "Monumento Plaza España",
+                "en": "Monumento Plaza España"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig über den rutschigen Platz, um das Denkmal zu sehen, oder betrachten Sie es aus der Bequemlichkeit eines trockenen Cafés.",
+                "hu": "Sétáljon óvatosan a csúszós téren, hogy megnézze ezt az emlékművet, vagy tekintse meg egy közeli száraz kávézó kényelméből.",
+                "ro": "Pășiți cu grijă pe piața alunecoasă pentru a vedea monumentul, sau priviți-l din confortul uscat al unei cafenele din apropiere.",
+                "en": "Walk carefully across the slippery square to see this monument, perhaps viewing it from the dry comfort of a nearby cafe window."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Parc Nou",
+                "hu": "Casa Museo Parc Nou",
+                "ro": "Casa Museo Parc Nou",
+                "en": "Casa Museo Parc Nou"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit in diesem faszinierenden Museum, um den schlimmsten Regen abzuwarten und die historischen Ausstellungen trocken zu genießen.",
+                "hu": "Töltsön sok időt ebben a lenyűgöző múzeumban, hogy kivárja a legrosszabb esőt, miközben meleg, száraz kényelemben élvezi a kiállításokat.",
+                "ro": "Petreceți timp în acest muzeu fascinant pentru a aștepta trecerea ploii puternice, bucurându-vă de expozițiile istorice la uscat.",
+                "en": "Spend ample time in this fascinating museum to wait out the worst of the rain, enjoying its historical exhibits in warm, dry comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Wintermorgen sind perfekt für Spaziergänge in der Sonne. Der Mittag bleibt angenehm, aber frisch, ideal für Erkundungen. Nachmittagsschatten werden schnell lang, also ziehen Sie sich warm an. Der Abend bricht gegen 17:00 Uhr herein und macht eine warme Taverne einladend.",
+            "hu": "A fagyos téli reggelek tökéletesek a napsütéses sétákhoz. A dél kellemes, de csípős, ideális a műemlékek felfedezéséhez. A délutáni árnyékok gyorsan megnőnek, ezért öltözzön melegen. Az este 17:00 körül megérkezik, így egy meleg taverna hívogatóvá válik.",
+            "ro": "Diminețile geroase de iarnă sunt perfecte pentru plimbări la soare. Prânzul rămâne plăcut, dar răcoros, ideal pentru explorare. Umbrele după-amiezii cresc repede, îmbrăcați-vă gros. Seara sosește devreme, pe la 17:00, făcând o tavernă caldă foarte primitoare.",
+            "en": "Crisp winter mornings are perfect for walking in the sun. Midday remains pleasant but brisk, ideal for exploring monuments. Afternoon shadows grow long quickly, so dress in warm layers. Evening arrives early around 17:00, making a warm tavern very inviting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Sebastián",
+                "hu": "San Sebastián",
+                "ro": "San Sebastián",
+                "en": "San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur in der klaren Winterluft, aber tragen Sie einen warmen Mantel gegen die eisige Morgenbrise.",
+                "hu": "Csodálja meg a történelmi építészetet a friss téli levegőn, de mindenképpen viseljen meleg kabátot, mert a reggeli szellő csípős lehet.",
+                "ro": "Admirați arhitectura istorică în aerul rece de iarnă, dar purtați o haină groasă deoarece briza dimineții poate fi destul de aspră.",
+                "en": "Marvel at the historical architecture in the crisp winter air, but make sure to wear a warm coat as the morning breeze can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco de Crevillent",
+                "hu": "Obelisco de Crevillent",
+                "ro": "Obelisco de Crevillent",
+                "en": "Obelisco de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal sieht im klaren Wintersonnenlicht atemberaubend aus, aber packen Sie sich warm ein, bevor der frühe Sonnenuntergang kommt.",
+                "hu": "Az emlékmű lenyűgözően néz ki a tiszta téli napfényben, bár érdemes melegen felöltözni, mielőtt a korai, 17:00 órás naplemente lehűti a levegőt.",
+                "ro": "Monumentul arată uimitor în lumina clară a iernii, deși ar trebui să vă îmbrăcați gros înainte de apusul de la ora 17:00.",
+                "en": "The monument looks stunning in the clear winter sunlight, though you should wrap up warmly before the early 17:00 sunset drops the temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori de Crevillen",
+                "hu": "Auditori de Crevillen",
+                "ro": "Auditori de Crevillen",
+                "en": "Auditori de Crevillen"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diesen großen Kulturort ein, um der kalten Winterbrise zu entkommen und in die warme, künstlerische Atmosphäre einzutauchen.",
+                "hu": "Lépjen be ebbe a nagyszerű kulturális helyszínbe, hogy elmeneküljön a hideg téli szél elől, és elmerüljön a város meleg, művészi légkörében.",
+                "ro": "Intrați în acest spațiu cultural grandios pentru a scăpa de briza rece a iernii și a vă cufunda în atmosfera caldă și artistică.",
+                "en": "Step inside this grand cultural venue to escape the chilly winter breeze and immerse yourself in the warm, artistic atmosphere of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Crevillent",
+                "hu": "Ajuntament de Crevillent",
+                "ro": "Ajuntament de Crevillent",
+                "en": "Ajuntament de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, wie die Wintersonne die Details des Rathauses hervorhebt, aber bleiben Sie in Bewegung, da der Platz am Nachmittag kalt wird.",
+                "hu": "Figyelje meg, ahogy a téli napfény kiemeli a városháza részleteit, de maradjon mozgásban, mert az árnyékos tér délutánra meglepően hideg lesz.",
+                "ro": "Observați cum soarele de iarnă evidențiază detaliile primăriei, dar mișcați-vă deoarece piața umbrită devine rece după-amiaza.",
+                "en": "Notice how the winter sun highlights the town hall's details, but keep moving as the shaded square gets surprisingly cold by mid-afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+                "hu": "Nuestra Señora de Belén Plébániatemplom",
+                "ro": "Biserica Parohială Nuestra Señora de Belén",
+                "en": "Parish Church of Nuestra Señora de Belén"
+              },
+              "tip_5lang": {
+                "de": "Die schweren Kirchentüren bieten einen einladenden Rückzugsort in einen wärmeren Raum, perfekt, um die Altäre vor dem beißenden Wind zu bewundern.",
+                "hu": "A nehéz templomajtók hívogató menedéket nyújtanak egy melegebb térbe, amely tökéletes az oltárok megcsodálásához a csípős téli szél elől.",
+                "ro": "Ușile grele ale bisericii oferă o retragere primitoare într-un spațiu mai cald, perfect pentru a admira altarele ferit de vântul tăios.",
+                "en": "The heavy church doors offer an inviting retreat into a warmer space, perfect for admiring the altars away from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Moros y Cristianos",
+                "hu": "Estatua Moros y Cristianos",
+                "ro": "Estatua Moros y Cristianos",
+                "en": "Estatua Moros y Cristianos"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Ihre Fotos schnell, während die frühe Winterdämmerung naht, die die Silhouetten gegen den Abendhimmel um 17:00 Uhr hervorhebt.",
+                "hu": "Készítse el a fotókat gyorsan, ahogy közeledik a korai téli szürkület, kiemelve a drámai sziluetteket a 17:00 órás égbolt előtt.",
+                "ro": "Faceți fotografii rapid pe măsură ce se apropie amurgul devreme al iernii, evidențiind siluetele dramatice pe cerul de la ora 17:00.",
+                "en": "Take your photos quickly as the early winter dusk approaches, highlighting the dramatic silhouettes against the fading 17:00 sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Plaza España",
+                "hu": "Monumento Plaza España",
+                "ro": "Monumento Plaza España",
+                "en": "Monumento Plaza España"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Winterstimmung, obwohl Sie einen dicken Schal brauchen, da der offene Platz kaum Windschutz bietet.",
+                "hu": "Élvezze a tér ünnepi téli hangulatát, bár szüksége lesz egy vastag sálra, mivel a nyitott tér kevés szélvédelmet nyújt a hideg ellen.",
+                "ro": "Bucurați-vă de atmosfera de iarnă a pieței, deși veți dori un fular gros, deoarece spațiul deschis oferă puțină protecție împotriva vântului.",
+                "en": "Enjoy the festive winter vibe of the square, though you'll want a thick scarf as the open space offers little wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Parc Nou",
+                "hu": "Casa Museo Parc Nou",
+                "ro": "Casa Museo Parc Nou",
+                "en": "Casa Museo Parc Nou"
+              },
+              "tip_5lang": {
+                "de": "Dieses Innenmuseum ist ein hervorragender langer Stopp, um sich die Hände zu wärmen, bevor es wieder in den frostigen Abend geht.",
+                "hu": "Ez a beltéri múzeum kiváló hosszú megálló a kezek felmelegítésére és a történelem felfedezésére, mielőtt visszatérne a fagyos estébe.",
+                "ro": "Acest muzeu de interior este o oprire excelentă pentru a vă încălzi mâinile și a descoperi istoria înainte de a ieși în seara geroasă.",
+                "en": "This indoor museum is an excellent long stop to warm your hands and discover local history before heading back out into the frosty evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -429,6 +675,280 @@
         "hu": "Kerékpártúrája a gyönyörű Casa Museo Parc Nou-nál kezdődik, mielőtt a város emlékművei felé venné az irányt. Délben a lenyűgöző plébániatemplom és az Auditori várja. A délutáni tekerés az Ajuntament mellett a történelmi San Sebastiánhoz vezet. Zárja kalandját egy frissítő biciklizéssel az els Pontets ősi vízvezetékéhez.",
         "ro": "Turul cu bicicleta începe la frumoasa Casă Muzeu Parc Nou, înainte de a pedala spre monumentele orașului. La prânz, vizitați impresionanta biserică parohială și Auditori. După-amiaza, treceți pe lângă Primărie și ajungeți la istoricul San Sebastián. Încheiați-vă aventura cu o plimbare revigorantă până la apeductul antic els Pontets.",
         "en": "Your cycling tour starts at the beautiful Casa Museo Parc Nou, taking in the serene gardens before riding towards the city's monuments. Midday features the striking Iglesia Parroquial and the grand Auditori. Afternoon pedaling takes you past the Ajuntament and out to the historical San Sebastián. End your adventure with a refreshing ride to the ancient aqueduct of els Pontets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgenschauer erfordern einen guten Regenmantel und Vorsicht auf nassen Straßen. Mittags ist das Fahren machbar, wenn Sie Schlamm meiden. Nachmittagsregen kann Sie bremsen, also bremsen Sie früh und nutzen Sie Licht. Abends ist es dunkel, gute Sichtbarkeitsausrüstung ist unerlässlich.",
+            "hu": "A reggeli záporokhoz jó esőkabát és óvatosság kell a nedves utakon. A déli kerékpározás kezelhető, ha a főutakon marad. A délutáni eső lelassíthatja a tempót, ezért fékezzen korán és használjon lámpát. Az esti kerékpározás sötét és nedves, a jól láthatósági felszerelés elengedhetetlen.",
+            "ro": "Ploile de dimineață necesită o pelerină bună și prudență pe drumuri ude. Mersul la prânz este gestionabil dacă evitați noroiul. Ploaia de după-amiază vă poate încetini, frânați devreme și folosiți lumini. Seara este întunecată, echipamentul reflectorizant este absolut esențial.",
+            "en": "Morning showers require a good raincoat and caution on wet roads. Midday riding is manageable if you stick to main paths. Afternoon rain might slow your pace, so brake early and use lights. Evening riding is dark and wet, so high visibility gear is absolutely essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Parc Nou",
+                "hu": "Casa Museo Parc Nou",
+                "ro": "Casa Museo Parc Nou",
+                "en": "Casa Museo Parc Nou"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher unter einem Regendach, bevor Sie eintreten, um sich im warmen Museum vor dem Nieselregen aufzuwärmen.",
+                "hu": "Parkolja le kerékpárját biztonságosan egy esővédő tető alá belépés előtt, hogy a meleg múzeumban felmelegedjen a szitáló eső elől.",
+                "ro": "Parcați bicicleta în siguranță sub un acoperiș înainte de a intra pentru a vă încălzi în muzeul primitor, departe de ploaia rece.",
+                "en": "Park your bike securely under a rain cover before heading inside to warm up in the cozy museum away from the persistent drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Plaza España",
+                "hu": "Monumento Plaza España",
+                "ro": "Monumento Plaza España",
+                "en": "Monumento Plaza España"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf das Denkmal zu, da das nasse Pflaster auf dem Platz beim Bremsen gefährlich rutschig sein kann.",
+                "hu": "Haladjon lassan az emlékmű felé, mivel a téren lévő nedves macskakövek fékezéskor nagyon csúszósak és veszélyesek lehetnek.",
+                "ro": "Apropiați-vă încet de monument, deoarece pavajul umed din piață poate fi extrem de alunecos atunci când acționați frânele.",
+                "en": "Approach the monument slowly, as the wet cobblestones in the square can be treacherously slippery when you apply your brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Moros y Cristianos",
+                "hu": "Estatua Moros y Cristianos",
+                "ro": "Estatua Moros y Cristianos",
+                "en": "Estatua Moros y Cristianos"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um ein Foto im Regen zu machen, aber achten Sie auf Pfützen, die Wasser auf Ihre Kleidung spritzen könnten.",
+                "hu": "Álljon meg egy gyors esős fotóra, de vigyázzon a szobor körüli tócsákra, amelyek induláskor vizet fröcskölhetnek a ruhájára.",
+                "ro": "Opriți scurt pentru o fotografie în ploaie, dar atenție la bălțile din jurul statuii care ar putea stropi apa pe haine.",
+                "en": "Pause briefly for a rainy photo, but watch out for puddles around the statue that might splash water onto your clothes as you ride off."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+                "hu": "Nuestra Señora de Belén Plébániatemplom",
+                "ro": "Biserica Parohială Nuestra Señora de Belén",
+                "en": "Parish Church of Nuestra Señora de Belén"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz, um der Nässe zu entkommen, und schütteln Sie Ihren Regenmantel aus, bevor Sie die trockene Kirche betreten.",
+                "hu": "Keressen itt menedéket a nedvesség elől, és alaposan rázza le az esőkabátját, mielőtt belép a meleg, száraz templombelsőbe.",
+                "ro": "Căutați adăpost aici pentru a scăpa de umezeală și scuturați-vă bine pelerina de ploaie înainte de a intra în biserica uscată.",
+                "en": "Seek shelter here to escape the wetness, making sure to shake off your raincoat thoroughly before entering the dry church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori de Crevillen",
+                "hu": "Auditori de Crevillen",
+                "ro": "Auditori de Crevillen",
+                "en": "Auditori de Crevillen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Innenstopp, um im Trockenen zu bleiben, während draußen der Regen auf Ihr sicher abgeschlossenes Fahrrad prasselt.",
+                "hu": "Használja ezt a beltéri megállót, hogy száraz maradjon, miközben kint az eső veri a biztonságosan lezárt kerékpárját.",
+                "ro": "Folosiți această oprire de interior pentru a rămâne complet uscat în timp ce ploaia lovește bicicleta încuiată în siguranță afară.",
+                "en": "Use this indoor stop to stay completely dry while the rain pours down outside on your securely locked bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Crevillent",
+                "hu": "Ajuntament de Crevillent",
+                "ro": "Ajuntament de Crevillent",
+                "en": "Ajuntament de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig am Rathaus vorbei; die Straßen im Zentrum können glatt werden, nutzen Sie Ihr Licht bei schlechter Sicht.",
+                "hu": "Óvatosan tekerjen el a városháza mellett; a központi utcák csúszósak lehetnek, használja a lámpáit, ha a látási viszonyok rosszak.",
+                "ro": "Mergeți cu grijă pe lângă primărie; străzile centrale pot deveni alunecoase, folosiți-vă luminile dacă vizibilitatea este redusă.",
+                "en": "Ride carefully past the town hall; the central streets can get slick with rain, so use your lights if visibility is poor."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco de Crevillent",
+                "hu": "Obelisco de Crevillent",
+                "ro": "Obelisco de Crevillent",
+                "en": "Obelisco de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie bei der Annäherung beide Hände am Lenker, da Windböen um diesen Obelisken Ihr regennasses Rad aus der Bahn werfen können.",
+                "hu": "Tartsa mindkét kezét a kormányon a közeledéskor, mert az obeliszk körüli széllökések kitéríthetik a nedves kerékpárt az irányból.",
+                "ro": "Țineți ambele mâini pe ghidon la apropiere, deoarece rafalele de vânt din jurul obeliscului vă pot dezechilibra bicicleta udă.",
+                "en": "Keep both hands on the handlebars on approach, as gusts of wind around this obelisk can knock your wet bike off its path."
+              }
+            },
+            {
+              "name": {
+                "de": "San Sebastián",
+                "hu": "San Sebastián",
+                "ro": "San Sebastián",
+                "en": "San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause unter einem Baum, um dieses historische Viertel zu sehen, und vermeiden Sie beim Absteigen tiefe Schlammpfützen.",
+                "hu": "Tartson egy rövid szünetet egy fa alatt, hogy megnézze ezt a történelmi negyedet, kerülve a mély sártócsákat a leszálláskor.",
+                "ro": "Faceți o scurtă pauză sub un copac pentru a vedea această zonă istorică, evitând bălțile adânci de noroi la coborârea de pe bicicletă.",
+                "en": "Take a quick break under some tree cover to view this historical area, avoiding deep mud puddles when you dismount."
+              }
+            },
+            {
+              "name": {
+                "de": "els Pontets",
+                "hu": "els Pontets",
+                "ro": "els Pontets",
+                "en": "els Pontets"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zu diesem Wahrzeichen, da die Wege schlammig werden können; bremsen Sie früh und vermeiden Sie plötzliche Kurven.",
+                "hu": "Óvatosan tekerjen ehhez a látványossághoz, mivel az ösvények sarassá válhatnak; fékezzen korán és kerülje a hirtelen kanyarokat.",
+                "ro": "Mergeți cu atenție spre acest punct, deoarece traseele pot deveni noroioase; frânați devreme și evitați virajele bruște.",
+                "en": "Ride carefully toward this landmark as the trails can get muddy; use your brakes early and avoid sudden turns on the slippery approach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Wintermorgen erfordern Handschuhe und Schichten, bevor Sie in die Pedale treten. Die Mittagssonne wärmt die Fahrt schön auf. Der Nachmittag wird schnell kälter, halten Sie das Tempo hoch. Der Abend bricht um 17:00 Uhr herein, Fahrradlichter und Reflektoren sind ein absolutes Muss.",
+            "hu": "A hűvös téli reggeleken kesztyűre és réteges öltözködésre van szükség. A déli napsütés kellemesen felmelegíti az utat a városban. A délután gyorsan lehűl, tartsa a tempót a melegen maradáshoz. Az este 17:00-ra leesik, a kerékpárlámpák és a fényvisszaverő felszerelések kötelezőek.",
+            "ro": "Diminețile reci de iarnă cer mănuși și straturi înainte de a pedala. Soarele de la prânz încălzește frumos plimbarea prin oraș. După-amiaza se răcește rapid, mențineți ritmul pentru a vă încălzi. Seara cade la 17:00, luminile și echipamentul reflectorizant sunt absolut obligatorii.",
+            "en": "Chilly winter mornings demand gloves and layers before you start pedaling. Midday sun warms the ride nicely as you navigate the city. Afternoon gets colder quickly, so keep your pace up to stay warm. Evening falls by 17:00, meaning bike lights and reflective gear are absolute musts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Parc Nou",
+                "hu": "Casa Museo Parc Nou",
+                "ro": "Casa Museo Parc Nou",
+                "en": "Casa Museo Parc Nou"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Innenstopp, um Ihre kalten Hände nach der frostigen Morgenfahrt zu Beginn aufzuwärmen.",
+                "hu": "Használja ki ezt a meleg beltéri megállót, hogy felmelegítse hideg kezeit a fagyos reggeli kerékpározás után az induláskor.",
+                "ro": "Profitați de această oprire interioară caldă pentru a vă încălzi mâinile reci după plimbarea geroasă de dimineață la început.",
+                "en": "Take advantage of this warm indoor stop to heat up your cold hands after the frosty morning ride at the start of your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Plaza España",
+                "hu": "Monumento Plaza España",
+                "ro": "Monumento Plaza España",
+                "en": "Monumento Plaza España"
+              },
+              "tip_5lang": {
+                "de": "Dieser offene Platz fängt den kalten Winterwind ein, also radeln Sie zügig am Denkmal vorbei, um Ihre Körperwärme zu erhalten.",
+                "hu": "Ez a nyitott tér felfogja a hideg téli szelet, ezért tekerjen fürgén az emlékmű mellett, hogy megőrizze a testhőmérsékletét.",
+                "ro": "Această piață deschisă captează vântul rece de iarnă, așa că pedalați vioi pe lângă monument pentru a vă menține căldura corpului.",
+                "en": "This open square catches the cold winter wind, so pedal briskly past the monument to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Moros y Cristianos",
+                "hu": "Estatua Moros y Cristianos",
+                "ro": "Estatua Moros y Cristianos",
+                "en": "Estatua Moros y Cristianos"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein Foto in der tief stehenden Wintersonne an, die perfekte, lange Schatten um die dramatische Statue wirft.",
+                "hu": "Álljon meg egy fotóra az alacsonyan járó téli napsütésben, amely tökéletes, hosszú árnyékokat vet a drámai szobor köré.",
+                "ro": "Opriți-vă pentru o fotografie în soarele de iarnă coborât, care aruncă umbre lungi și perfecte în jurul statuii dramatice.",
+                "en": "Stop for a photo in the low winter sun, which casts perfect, long shadows around the dramatic statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+                "hu": "Nuestra Señora de Belén Plébániatemplom",
+                "ro": "Biserica Parohială Nuestra Señora de Belén",
+                "en": "Parish Church of Nuestra Señora de Belén"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche blockieren den Wind und machen sie zu einem hervorragenden Ort, um den Frost beim Radfahren abzuwehren.",
+                "hu": "A templom vastag falai felfogják a szelet, így kiváló hely a megállásra, hogy elűzze a fagyot a kerékpározás során.",
+                "ro": "Pereții groși ai bisericii blochează vântul, făcând-o un loc excelent pentru a sta și a alunga gerul din timpul plimbării cu bicicleta.",
+                "en": "The thick walls of the church block the wind, making it an excellent spot to stop and shake off the cycling frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori de Crevillen",
+                "hu": "Auditori de Crevillen",
+                "ro": "Auditori de Crevillen",
+                "en": "Auditori de Crevillen"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier einige Zeit im Warmen und genießen Sie die Kultur, bevor Sie sich wieder auf den eiskalten Sattel schwingen.",
+                "hu": "Töltsön el itt egy kis időt a melegben, élvezve a kultúrát, mielőtt visszapattanna a jéghideg nyeregbe az utcán.",
+                "ro": "Petreceți ceva timp în căldură aici, bucurându-vă de cultură înainte de a vă întoarce pe șaua rece ca gheața afară.",
+                "en": "Spend some quality time in the warmth here, enjoying the culture before hopping back onto your ice-cold saddle outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Crevillent",
+                "hu": "Ajuntament de Crevillent",
+                "ro": "Ajuntament de Crevillent",
+                "en": "Ajuntament de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie bei der Vorbeifahrt die festliche Winterbeleuchtung am Rathaus, die ab dem frühen Nachmittag sichtbar wird.",
+                "hu": "Figyelje meg az elhaladáskor a városháza ünnepi téli fényeit, amelyek kora délutántól válnak láthatóvá a hűvös időben.",
+                "ro": "Urmăriți la trecere luminile festive de iarnă de pe primărie, care devin vizibile începând cu după-amiaza devreme.",
+                "en": "Watch for the festive winter lights on the town hall as you ride by, which become visible starting in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco de Crevillent",
+                "hu": "Obelisco de Crevillent",
+                "ro": "Obelisco de Crevillent",
+                "en": "Obelisco de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale; das Fotografieren dieses Obelisken bedeutet, im kalten Schatten zu stehen, also seien Sie kurz.",
+                "hu": "Tekerjen erősen; az obeliszk fényképezése azt jelenti, hogy a hideg árnyékban kell állnia, ezért próbálja meg rövidre fogni.",
+                "ro": "Pedalați puternic; fotografierea acestui obelisc înseamnă să stați în umbra rece, așa că încercați să fiți scurt.",
+                "en": "Pedal strongly; stopping to photograph this obelisk means standing in the cold shade, so try to make it brief."
+              }
+            },
+            {
+              "name": {
+                "de": "San Sebastián",
+                "hu": "San Sebastián",
+                "ro": "San Sebastián",
+                "en": "San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die klare Winterluft ein, während Sie diesen historischen Ort erkunden, aber überprüfen Sie vorher Ihr Fahrradlicht.",
+                "hu": "Szívja be a tiszta téli levegőt, miközben felfedezi ezt a történelmi helyszínt, de indulás előtt ellenőrizze a kerékpár lámpáit.",
+                "ro": "Respirați aerul curat de iarnă în timp ce explorați acest loc istoric, dar asigurați-vă că verificați luminile bicicletei.",
+                "en": "Breathe in the crisp winter air as you explore this historical site, but make sure to check your bike lights before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "els Pontets",
+                "hu": "els Pontets",
+                "ro": "els Pontets",
+                "en": "els Pontets"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig zu diesem malerischen Ort, um warm zu bleiben, aber kehren Sie zurück, bevor der Sonnenuntergang um 17:00 Uhr die Wege eisig macht.",
+                "hu": "Tekerjen fürgén ehhez a festői helyhez, hogy meleg maradjon, de induljon vissza, mielőtt a 17:00 órás naplemente jegessé teszi az utakat.",
+                "ro": "Pedalați vioi spre acest loc pitoresc pentru a vă menține cald, dar întoarceți-vă înainte ca apusul de la 17:00 să înghețe potecile.",
+                "en": "Pedal briskly to this scenic spot to keep your body heat up, but head back before the 17:00 sunset makes the paths too dark and icy."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -606,6 +1126,224 @@
         "hu": "Kezdje autós túráját a központon kívül, az els Pontets ősi építményeinél és természeti környezeténél. Délben hajtson be a városba, hogy felfedezze a San Sebastiánt és az Obeliszket. A délutánt a központi látnivalóknak szentelje, mint az Ajuntament és a plébániatemplom. Fejezze be a napot egy kellemes látogatással a Casa Museo Parc Nou-ban.",
         "ro": "Începeți turul cu mașina la marginea orașului, la els Pontets, admirând structurile antice. La prânz, conduceți spre centru pentru a explora San Sebastián și impresionantul Obelisc. După-amiaza este dedicată atracțiilor centrale precum Primăria și biserica parohială. Încheiați cu o vizită relaxantă la Casa Muzeu Parc Nou.",
         "en": "Begin your driving tour just outside the center at els Pontets, taking in the ancient structures and natural surroundings. By midday, drive into the city to explore San Sebastián and the impressive Obelisco. The afternoon is dedicated to the core sights like the Ajuntament and Iglesia Parroquial. Finish with a leisurely extended visit to the Casa Museo Parc Nou."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Regen macht das Fahren am bequemsten, auch wenn die Sicht eingeschränkt ist. Mittags sollten Sie in der Nähe von Innenattraktionen parken. Nachmittagsfahrten sind gemütlich, achten Sie auf tiefe Pfützen. Abends sprinten Sie am besten schnell ins warme Restaurant.",
+            "hu": "A reggeli eső miatt az autóvezetés a legkényelmesebb, bár a látási viszonyok romolhatnak. Délben a beltéri látnivalók közelében parkoljon. A délutáni autózás hangulatos, de vigyázzon a mély tócsákkal. Az este egy gyors sprintet jelent az autótól egy meleg étteremig.",
+            "ro": "Ploaia de dimineață face condusul cel mai confortabil, deși vizibilitatea scade. La prânz, parcați aproape de atracțiile de interior. Plimbările de după-amiază sunt plăcute, atenție la bălțile adânci. Seara înseamnă o fugă rapidă de la mașină la un restaurant cald.",
+            "en": "Morning rain makes driving the most comfortable option, though visibility might be reduced. Midday parking should be near indoor attractions to minimize getting wet. Afternoon drives are cozy, just watch for deep puddles. Evening means a quick dash from the car to a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "els Pontets",
+                "hu": "els Pontets",
+                "ro": "els Pontets",
+                "en": "els Pontets"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig in der Nähe, da der umliegende Boden schnell zu Schlamm wird, und nutzen Sie einen Regenschirm für den kurzen Weg.",
+                "hu": "Parkoljon óvatosan a közelben, mivel a környező talaj gyorsan sárrá változik, és használjon esernyőt a rövid sétához.",
+                "ro": "Parcați cu grijă în apropiere, deoarece pământul din jur se transformă rapid în noroi, și folosiți o umbrelă pentru scurta plimbare.",
+                "en": "Park carefully near this iconic structure and use an umbrella for the short walk, as the surrounding ground quickly turns to mud."
+              }
+            },
+            {
+              "name": {
+                "de": "San Sebastián",
+                "hu": "San Sebastián",
+                "ro": "San Sebastián",
+                "en": "San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen Ort bei starkem Regen bequem von den Autositzen aus oder steigen Sie kurz mit dem Regenschirm aus.",
+                "hu": "Tekintse meg ezt a helyszínt heves esőzés esetén kényelmesen az autóülésből, vagy szálljon ki röviden az esernyőjével.",
+                "ro": "Priviți acest loc din confortul scaunelor auto în timpul ploilor abundente, sau coborâți scurt cu umbrela.",
+                "en": "View this site from the comfort of your car seats during heavy rain, or step out briefly with your umbrella for a closer look."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco de Crevillent",
+                "hu": "Obelisco de Crevillent",
+                "ro": "Obelisco de Crevillent",
+                "en": "Obelisco de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam um das Denkmal herum; der Regen macht das alte Steinpflaster extrem rutschig für die Reifen.",
+                "hu": "Vezessen lassan az emlékmű körül; az eső miatt a régi kőburkolat rendkívül csúszóssá válik a gumiabroncsok számára.",
+                "ro": "Conduceți încet în jurul monumentului; ploaia face vechiul pavaj de piatră extrem de alunecos pentru anvelope.",
+                "en": "Drive slowly around the monument; the rain makes the old stone pavement extremely slick and slippery for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Crevillent",
+                "hu": "Ajuntament de Crevillent",
+                "ro": "Ajuntament de Crevillent",
+                "en": "Ajuntament de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen nahen Parkplatz und rennen Sie unter die Bögen des Rathauses, um den schlimmsten Regengüssen zu entgehen.",
+                "hu": "Keressen egy közeli parkolóhelyet, és fussanak a városháza boltívei alá, hogy elkerüljék a legrosszabb esőzéseket.",
+                "ro": "Găsiți o parcare apropiată și fugiți sub arcadele primăriei pentru a scăpa de cele mai puternice averse de ploaie.",
+                "en": "Find a close parking spot and make a dash under the town hall's arches to escape the worst of the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+                "hu": "Nuestra Señora de Belén Plébániatemplom",
+                "ro": "Biserica Parohială Nuestra Señora de Belén",
+                "en": "Parish Church of Nuestra Señora de Belén"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie, lassen Sie Ihre nassen Mäntel im Auto und treten Sie schnell in diese trockene, atemberaubende Kirche ein.",
+                "hu": "Parkoljon le, hagyja a nedves kabátokat az autóban, és lépjen be gyorsan ebbe a száraz, lélegzetelállító templomba.",
+                "ro": "Parcați, lăsați hainele ude în mașină și intrați rapid în această biserică uscată și uluitoare.",
+                "en": "Park nearby, leave your soaking wet coats in the car, and step quickly into this dry, breathtaking church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Moros y Cristianos",
+                "hu": "Estatua Moros y Cristianos",
+                "ro": "Estatua Moros y Cristianos",
+                "en": "Estatua Moros y Cristianos"
+              },
+              "tip_5lang": {
+                "de": "Rollen Sie das Autofenster einen Spalt herunter für ein perfektes Foto, ohne im strömenden Regen nass zu werden.",
+                "hu": "Húzza le az ablakot egy résnyire egy tökéletes fotóhoz, anélkül, hogy bőrig ázna a szakadó esőben.",
+                "ro": "Coborâți puțin geamul mașinii pentru o fotografie perfectă, fără a vă uda în ploaia torențială de afară.",
+                "en": "Crack the car window down just enough for a perfect photo without getting soaked in the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Parc Nou",
+                "hu": "Casa Museo Parc Nou",
+                "ro": "Casa Museo Parc Nou",
+                "en": "Casa Museo Parc Nou"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen, überdachten Museumsbesuch als perfekten Zeitvertreib, während draußen der starke Regen wütet.",
+                "hu": "Használja ki ezt a meleg, fedett múzeumi látogatást tökéletes időtöltésként, miközben kint dühöng a heves eső.",
+                "ro": "Folosiți această vizită caldă și acoperită la muzeu ca o modalitate perfectă de a petrece timpul în timp ce afară plouă torențial.",
+                "en": "Use this warm, indoor museum visit as the perfect way to spend time while the heavy rain rages on outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Morgen sind mit der Autoheizung leicht zu bewältigen. Die Fahrt am Mittag ist hell und klar, perfekt für Besichtigungen. Nachmittagsfahrten bieten um 17:00 Uhr schöne Sonnenuntergänge, aber Vorsicht vor Eis. Der Abend erfordert vorsichtiges Fahren bei sinkenden Temperaturen.",
+            "hu": "A fagyos reggeleket könnyen kezeli a fűtés, ahogy elindul. A déli vezetés világos és tiszta, tökéletes a városnézéshez. A délutáni autózás gyönyörű naplemente kilátást kínál 17:00-kor, vigyázzon a jéggel. Az este óvatos vezetést igényel, mivel a hőmérséklet meredeken csökken.",
+            "ro": "Diminețile geroase sunt ușor de gestionat cu căldura pornită. Condusul la prânz este luminos și clar, perfect pentru vizite. Condusul după-amiaza oferă apusuri superbe la 17:00, dar atenție la gheață. Seara necesită condus prudent deoarece temperaturile scad brusc.",
+            "en": "Frosty mornings are easily handled with the car heater on as you start your route. Midday driving is bright and clear, perfect for sightseeing stops. Afternoon drives offer beautiful sunset views by 17:00, but watch for icy patches. Evening requires careful driving as temperatures drop sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "els Pontets",
+                "hu": "els Pontets",
+                "ro": "els Pontets",
+                "en": "els Pontets"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Autoheizung laufen, während Sie kurz aussteigen, um dieses Wahrzeichen in der klaren, kalten Winterluft zu fotografieren.",
+                "hu": "Hagyja járni az autó fűtését, miközben röviden kiszáll, hogy lefotózza ezt a látványosságot a tiszta, hideg téli levegőben.",
+                "ro": "Lăsați încălzirea mașinii pornită în timp ce coborâți scurt pentru a fotografia acest punct de reper în aerul rece de iarnă.",
+                "en": "Keep the car heater running while you step out briefly to photograph this landmark in the crisp, cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "San Sebastián",
+                "hu": "San Sebastián",
+                "ro": "San Sebastián",
+                "en": "San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie hier und genießen Sie den scharfen Kontrast zwischen der tief stehenden Wintersonne und den historischen Schatten des Gebäudes.",
+                "hu": "Parkoljon le itt, és élvezze az éles kontrasztot az alacsonyan járó téli nap és az épület történelmi árnyékai között.",
+                "ro": "Parcați aici și bucurați-vă de contrastul puternic dintre soarele de iarnă coborât și umbrele istorice ale clădirii.",
+                "en": "Park here and enjoy the sharp contrast between the low winter sun and the historical shadows of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisco de Crevillent",
+                "hu": "Obelisco de Crevillent",
+                "ro": "Obelisco de Crevillent",
+                "en": "Obelisco de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Der Obelisk glänzt wunderschön im Winterlicht, achten Sie jedoch beim Fahren um ihn herum auf Glatteis am Morgen.",
+                "hu": "Az obeliszk gyönyörűen csillog a téli fényben, de reggel vezetés közben ügyeljen a körüli fekete jégfoltokra.",
+                "ro": "Obeliscul strălucește frumos în lumina iernii, totuși fiți atenți la gheața neagră dimineața când conduceți în jurul său.",
+                "en": "The obelisk gleams beautifully in the winter light, though be cautious of morning black ice when driving around it."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Crevillent",
+                "hu": "Ajuntament de Crevillent",
+                "ro": "Ajuntament de Crevillent",
+                "en": "Ajuntament de Crevillent"
+              },
+              "tip_5lang": {
+                "de": "Erwärmen Sie sich im Auto, bevor Sie zum Rathaus gehen, da der Platz am Nachmittag kalte Winde einfängt.",
+                "hu": "Melegedjen fel az autóban, mielőtt a városházához sétálna, mivel a tér délután hideg szeleket fog fel.",
+                "ro": "Încălziți-vă în mașină înainte de a merge la primărie, deoarece piața captează vânturi reci după-amiaza.",
+                "en": "Warm up inside the car before walking over to the town hall, as the square tends to catch cold winds in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+                "hu": "Nuestra Señora de Belén Plébániatemplom",
+                "ro": "Biserica Parohială Nuestra Señora de Belén",
+                "en": "Parish Church of Nuestra Señora de Belén"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche bewahren eine stille Kälte, ziehen Sie sich warm an, auch wenn Sie direkt vor der Tür parken.",
+                "hu": "A templom vastag falai csendes hideget őriznek, ezért öltözzön fel melegen, még akkor is, ha közvetlenül az ajtó előtt parkol.",
+                "ro": "Pereții groși ai bisericii păstrează un frig liniștit, așa că îmbrăcați-vă gros chiar dacă parcați chiar în fața ușii.",
+                "en": "The thick church walls hold a quiet chill, so make sure to bundle up warmly even if you park right outside the front door."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Moros y Cristianos",
+                "hu": "Estatua Moros y Cristianos",
+                "ro": "Estatua Moros y Cristianos",
+                "en": "Estatua Moros y Cristianos"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um das Denkmal gegen den dramatischen Himmel der Dämmerung um 17:00 Uhr vom warmen Auto aus zu bewundern.",
+                "hu": "Álljon meg röviden, hogy a meleg autóból megcsodálja az emlékművet a drámai 17:00 órás szürkületi égbolt előtt.",
+                "ro": "Opriți-vă scurt pentru a admira monumentul pe cerul dramatic al amurgului de la ora 17:00 din mașina caldă.",
+                "en": "Pull over briefly to admire the monument set against the dramatic 17:00 dusk sky straight from the comfort of the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Parc Nou",
+                "hu": "Casa Museo Parc Nou",
+                "ro": "Casa Museo Parc Nou",
+                "en": "Casa Museo Parc Nou"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie das kalte Ende Ihres Tages im gemütlichen Museum, bevor Sie im Dunkeln ins Auto zurückkehren.",
+                "hu": "Töltse napjának hideg végét a hangulatos múzeumban, mielőtt a sötétben visszatérne az autójához.",
+                "ro": "Petreceți sfârșitul rece al zilei în muzeul confortabil, înainte de a vă întoarce la mașină pe întuneric.",
+                "en": "Spend the cold end of your day tucked inside the cozy museum before making the dash back to your car in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

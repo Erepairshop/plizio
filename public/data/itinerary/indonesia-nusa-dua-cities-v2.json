@@ -137,6 +137,168 @@
         "hu": "A reggel az ikonikus Mandala emlékműnél kezdődik, felfedezve az ITDC komplexum varázsát, majd a Nusa Dua strand következik.\n\nA délidő a Pasifika Múzeum légkondicionált oázisában telik az ázsiai művészetekkel.\n\nDélután a Bali Nusa Dua Színházban a helyi legendák elevenednek meg.\n\nAz estét a Turf&Surf vízi park hűsítő és szórakoztató medencéiben zárjuk le.",
         "ro": "Dimineața începe la Monumentul Mandala, descoperind farmecul complexului ITDC, urmată de o plimbare spre plaja Nusa Dua.\n\nPrânzul aduce o incursiune culturală în Muzeul Pasifika, o oază de artă cu aer condiționat.\n\nDupă-amiaza se mută la Teatrul Bali Nusa Dua pentru a explora legendele locale.\n\nSeara se încheie revigorant și distractiv în piscinele parcului acvatic Turf&Surf.",
         "en": "Morning begins at the iconic Mandala Monument, mapping out the orderly charm of the ITDC complex. Stroll smoothly to Nusa Dua Beach to enjoy the morning sun.\n\nMidday invites a deep cultural dive into Museum Pasifika, an air-conditioned oasis of regional art.\n\nAfternoon energy shifts to the Bali Nusa Dua Theatre, exploring vibrant local legends.\n\nEvening splashes into fun at the Turf&Surf water park, a refreshing finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit tropischem Regen, ideal für die Denkmäler. Mittags bietet das Museum perfekten Schutz. Am Nachmittag sorgt das Theater für trockene Unterhaltung, bevor der Abend in einer gemütlichen, überdachten Strandbar endet. Die Wege sind nass, aber die Vegetation leuchtet kräftig grün.",
+            "hu": "A reggel trópusi esővel indul, ami misztikus hangulatot ad az emlékműnek. Délben a múzeum nyújt biztos menedéket. Délután a színház benti előadása tart szárazon, az este pedig egy fedett tengerparti bárban zárul. Az utak csúszósak lehetnek, de a természet ilyenkor a legzöldebb.",
+            "ro": "Dimineața începe cu o ploaie tropicală, oferind monumentului o aură mistică. La prânz, muzeul este refugiul perfect. După-amiaza, teatrul oferă spectacole în interior, iar seara se încheie într-un bar acoperit pe plajă. Drumurile sunt umede, dar vegetația este incredibil de vibrantă.",
+            "en": "The morning starts with tropical rain, adding a mystical vibe to the monument. At noon, the museum provides a perfect dry refuge. In the afternoon, the indoor theatre show keeps you entertained, and the evening ends in a covered beach bar. Paths are slippery, but the greenery is at its most vibrant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandala Monument",
+                "hu": "Mandala Monument",
+                "ro": "Mandala Monument",
+                "en": "Mandala Monument"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal durch den Regenschleier; die Wege im Park sind rutschig, bleiben Sie daher unbedingt auf den gepflasterten Flächen.",
+                "hu": "Csodáld meg az emlékművet az esőfüggönyön keresztül; a park útjai csúszósak lehetnek, ezért mindenképpen maradj a kövezett szakaszokon.",
+                "ro": "Admiră monumentul prin perdeaua de ploaie; aleile din parc pot fi alunecoase, așa că rămâi neapărat pe porțiunile pavate.",
+                "en": "Admire the monument through the veil of rain; the park paths can be slippery, so be sure to stay on the paved sections for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusa Dua Beach",
+                "hu": "Nusa Dua Beach",
+                "ro": "Nusa Dua Beach",
+                "en": "Nusa Dua Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen von einem Pavillon aus; das Meer ist bei Regen beeindruckend, aber vermeiden Sie das Schwimmen aus Sicherheitsgründen.",
+                "hu": "Figyeld a drámai hullámokat egy pavilon alól; az óceán lenyűgöző esőben, de biztonsági okokból most kerüld a fürdőzést.",
+                "ro": "Observă valurile dramatice de sub un pavilion; oceanul este impresionant pe ploaie, dar evită înotul din motive de siguranță.",
+                "en": "Watch the dramatic waves from under a gazebo; the ocean is stunning in the rain, but avoid swimming for safety reasons today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pasifika",
+                "hu": "Museum Pasifika",
+                "ro": "Museum Pasifika",
+                "en": "Museum Pasifika"
+              },
+              "tip_5lang": {
+                "de": "Die beste Flucht vor dem Regen; erkunden Sie die riesige Innensammlung, während Sie völlig trocken bleiben und die Kunst in Ruhe genießen.",
+                "hu": "A legjobb menekülés az eső elől; fedezd fel a hatalmas benti gyűjteményt, miközben teljesen száraz maradsz és élvezed a művészetet.",
+                "ro": "Cea mai bună evadare din calea ploii; explorează vasta colecție interioară în timp ce rămâi uscat și te bucuri de artă în liniște.",
+                "en": "The best escape from the rain; explore the vast indoor collection while staying completely dry and enjoying the art in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Nusa Dua Theatre",
+                "hu": "Bali Nusa Dua Theatre",
+                "ro": "Bali Nusa Dua Theatre",
+                "en": "Bali Nusa Dua Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spektakuläre Indoor-Show; das Dach bietet perfekten Schutz, während Sie tief in die balinesische Kultur eintauchen.",
+                "hu": "Élvezd a látványos benti előadást; a tető tökéletes védelmet nyújt, miközben mélyen elmerülsz a bali kultúra világában.",
+                "ro": "Bucură-te de spectacolul interior fascinant; acoperișul oferă protecție perfectă în timp ce te cufunzi în cultura balineză.",
+                "en": "Enjoy the spectacular indoor show; the roof provides perfect protection while you dive deep into the world of Balinese culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Turf&Surf water park",
+                "hu": "Turf&Surf water park",
+                "ro": "Turf&Surf water park",
+                "en": "Turf&Surf water park"
+              },
+              "tip_5lang": {
+                "de": "Da Sie ohnehin nass werden, nutzen Sie den Park, aber achten Sie auf Gewitterwarnungen und nutzen Sie die überdachten Restaurantbereiche.",
+                "hu": "Mivel úgyis vizes leszel, élvezd a parkot, de figyelj a viharjelzésekre és használd a fedett éttermi részeket pihenéshez.",
+                "ro": "Deoarece oricum te vei uda, bucură-te de parc, dar fii atent la avertizările de furtună și folosește zonele acoperite de restaurant.",
+                "en": "Since you'll get wet anyway, enjoy the park, but watch for lightning warnings and use the covered dining areas for breaks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und perfekt für Spaziergänge. Mittags kühlen die Museen angenehm ab. Am Nachmittag sinkt die Sonne früh, was zu einem spektakulären Sonnenuntergang gegen 17:00 Uhr führt. Die Abende sind etwas kühler, ideal für ein Abendessen im Freien mit einer leichten Jacke.",
+            "hu": "A téli reggel enyhe, tökéletes a sétához. Délben a múzeumok hűvöse kínál pihenőt. Délután a nap korán lebukik, így 17:00 körül látványos naplementében lehet részed. Az esték kicsit hűvösebbek, érdemes egy vékony réteget magaddal vinni a vacsorához.",
+            "ro": "Dimineața de iarnă este blândă, perfectă pentru plimbări. La prânz, răcoarea muzeelor oferă un răgaz. După-amiaza soarele apune devreme, oferind un apus spectaculos în jur de 17:00. Serile sunt mai răcoroase, merită să ai un strat subțire pentru cină.",
+            "en": "The winter morning is mild, perfect for walking. At noon, the cool museums offer a nice break. In the afternoon, the sun sets early, providing a spectacular sunset around 17:00. Evenings are slightly cooler, so bring a light layer for dinner outdoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandala Monument",
+                "hu": "Mandala Monument",
+                "ro": "Mandala Monument",
+                "en": "Mandala Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein erfrischender Morgenbesuch; die Luft ist klarer und die Besichtigung der historischen Stätte ist viel angenehmer als in der Sommerhitze.",
+                "hu": "Frissítő reggeli látogatás; a levegő tisztább, és a történelmi helyszín bejárása sokkal kellemesebb, mint a nagy nyári hőségben.",
+                "ro": "O vizită revigorantă de dimineață; aerul este mai curat, iar explorarea sitului istoric este mult mai plăcută decât în arșița verii.",
+                "en": "A refreshing morning visit; the air is clearer, and touring the historical site is much more enjoyable than in the peak summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusa Dua Beach",
+                "hu": "Nusa Dua Beach",
+                "ro": "Nusa Dua Beach",
+                "en": "Nusa Dua Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie vor dem frühen Sonnenuntergang einen langen Strandspaziergang; das Licht gegen 16:00 Uhr ist magisch für Urlaubsfotos.",
+                "hu": "Tegyél egy hosszú sétát a homokban a korai naplemente előtt; a 16:00 óra körüli fények egyszerűen varázslatosak a fotózáshoz.",
+                "ro": "Fă o plimbare lungă pe nisip înainte de apusul devreme; lumina de la ora 16:00 este magică pentru fotografiile de vacanță.",
+                "en": "Take a long walk on the sand before the early sunset; the light around 16:00 is absolutely magical for vacation photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pasifika",
+                "hu": "Museum Pasifika",
+                "ro": "Museum Pasifika",
+                "en": "Museum Pasifika"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klimatisierten Galerien für eine Pause; die künstliche Beleuchtung im Inneren ist ideal, um die Details der Kunstwerke zu sehen.",
+                "hu": "Használd a légkondicionált galériákat egy kis pihenőre; a benti világítás ideális a műalkotások részleteinek alapos megtekintéséhez.",
+                "ro": "Folosește galeriile climatizate pentru o pauză; iluminatul interior este ideal pentru a vedea detaliile operelor de artă în liniște.",
+                "en": "Use the air-conditioned galleries for a midday break; the interior lighting is ideal for seeing the intricate details of the artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Nusa Dua Theatre",
+                "hu": "Bali Nusa Dua Theatre",
+                "ro": "Bali Nusa Dua Theatre",
+                "en": "Bali Nusa Dua Theatre"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch so, dass er bei Einbruch der Dunkelheit endet; die Atmosphäre wird nach dem frühen Sonnenuntergang noch verzauberter.",
+                "hu": "Időzítsd a látogatást úgy, hogy sötétedéskor végezz; a színházi hangulat a korai naplemente után válik igazán varázslatossá.",
+                "ro": "Programează vizita astfel încât să se termine la lăsarea întunericului; atmosfera devine și mai fascinantă după apusul devreme.",
+                "en": "Time your visit to finish at nightfall; the theatre atmosphere becomes truly enchanting right after the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Turf&Surf water park",
+                "hu": "Turf&Surf water park",
+                "ro": "Turf&Surf water park",
+                "en": "Turf&Surf water park"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann sich kühler anfühlen; bringen Sie trockene Wechselkleidung mit, um nach dem Badespaß bei der Abendbrise warm zu bleiben.",
+                "hu": "A víz hűvösebbnek tűnhet; vigyél magaddal száraz váltóruhát, hogy a fürdés utáni esti szellőben is kellemesen melegen maradj.",
+                "ro": "Apa poate părea mai rece; adu haine de schimb uscate pentru a rămâne la căldură în briza serii după distracția la scăldat.",
+                "en": "The water might feel cooler; bring dry clothes to change into so you stay warm in the evening breeze after your swim sessions."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli tekerés Bualu falu nyüzsgő piacáról indul, bepillantást engedve az igazi balinéz életbe, majd az üdülőközpont felé haladunk.\n\nDélben megállunk a magasodó Mandala emlékműnél, és elmerülünk a művészetekben a híres Pasifika Múzeumban.\n\nDélután a tengerparton kerekezünk a népszerű Nusa Dua strandtól a festőibb és elzártabb Pura Geger strand irányába.\n\nAz este tökéletes befejezése a Nikko partján vár ránk, ahol a drámai sziklák felejthetetlen trópusi alkonyati hátteret biztosítanak.",
         "ro": "Dimineața începe cu pedalatul prin piața vibrantă a satului Bualu, oferind o mostră din viața balineză înainte de a intra în zona stațiunii.\n\nPrânzul aduce o oprire la impunătorul Monument Mandala și o scufundare profundă în arta asiatică la renumitul Muzeu Pasifika.\n\nDupă-amiaza urmărim coasta de la populara plajă Nusa Dua până la plaja mai retrasă și pitorească Pura Geger.\n\nSeara se încheie perfect la plaja Nikko, unde stâncile dramatice de pe coastă oferă un fundal de neuitat la apus.",
         "en": "Morning pedals start in the vibrant Bualu village market, offering a taste of real Balinese life before transitioning into the resort district.\n\nMidday brings a serene stop at the towering Mandala Monument and a deep dive into art at the renowned Museum Pasifika.\n\nAfternoon cycles trace the coast from the popular Nusa Dua Beach down to the more secluded and picturesque Pura Geger Beach.\n\nEvening concludes perfectly at Nikko beach, where the dramatic coastal cliffs provide an unforgettable tropical twilight backdrop."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf rutschigen Märkten. Mittags bietet das Museum einen trockenen Parkplatz. Der Nachmittag am Strand ist neblig und atmosphärisch, perfekt für Fotos. Denken Sie an wasserfeste Kleidung und prüfen Sie Ihre Bremsen vor der Abfahrt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós piacokon. Délben a múzeum száraz parkolót és menedéket nyújt. A délután a tengerparton ködös és hangulatos, fotózáshoz kiváló. Készülj vízhatlan ruhával és ellenőrizd a fékeket indulás előtt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în piețele alunecoase. La prânz, muzeul oferă parcare uscată și adăpost. După-amiaza la plajă este cețoasă și atmosferică, perfectă pentru poze. Pregătește haine impermeabile și verifică frânele înainte de plecare.",
+            "en": "Cycling in the rain requires caution on slippery market floors. At noon, the museum offers dry parking and shelter. The afternoon by the beach is misty and atmospheric, great for photos. Bring waterproof gear and check your brakes before starting your ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Adat Desa Bualu",
+                "hu": "Pasar Adat Desa Bualu",
+                "ro": "Pasar Adat Desa Bualu",
+                "en": "Pasar Adat Desa Bualu"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig, da die Marktböden rutschig sein können; die überdachten Stände bieten jedoch tollen Schutz vor dem Regen.",
+                "hu": "Közlekedj óvatosan, mert a piac padlója csúszós lehet; a fedett árusítóhelyek azonban kiváló védelmet nyújtanak az eső ellen.",
+                "ro": "Navighează cu atenție, deoarece podelele pieței pot fi alunecoase; tarabele acoperite oferă însă o protecție excelentă împotriva ploii.",
+                "en": "Navigate carefully as market floors can be slippery; the covered stalls provide great protection from the sudden tropical downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandala Monument",
+                "hu": "Mandala Monument",
+                "ro": "Mandala Monument",
+                "en": "Mandala Monument"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad auf festem Untergrund ab; der nasse Stein des Denkmals sieht wunderschön aus, ist aber sehr glatt beim Gehen.",
+                "hu": "Biciklidet szilárd talajon állítsd le; az emlékmű vizes kőfelületei gyönyörűek, de gyalogosan közlekedve nagyon csúszósak lehetnek.",
+                "ro": "Parchează bicicleta pe un teren solid; piatra umedă a monumentului arată superb, dar este foarte alunecoasă când mergi pe jos.",
+                "en": "Park your bike on solid ground; the wet stone of the monument looks beautiful but can be very treacherous when walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pasifika",
+                "hu": "Museum Pasifika",
+                "ro": "Museum Pasifika",
+                "en": "Museum Pasifika"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im überdachten Bereich und verbringen Sie mehr Zeit drinnen; es ist der beste Ort, um den starken Regen abzuwarten.",
+                "hu": "Parkolj a fedett részen és tölts több időt bent; ez a legjobb hely a heves trópusi eső kivárására egy kis művészettel.",
+                "ro": "Parchează în zona acoperită și petrece mai mult timp în interior; este cel mai bun loc pentru a aștepta trecerea ploii torențiale.",
+                "en": "Park in the covered area and spend extra time indoors; it is the best place to wait out the heavy tropical rain while enjoying art."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusa Dua Beach",
+                "hu": "Nusa Dua Beach",
+                "ro": "Nusa Dua Beach",
+                "en": "Nusa Dua Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege sind gut, aber achten Sie auf Pfützen; der Blick auf das stürmische Meer ist die kurze, nasse Fahrt absolut wert.",
+                "hu": "A kerékpárutak jók, de ügyelj a tócsákra; a viharos tenger látványa teljesen megéri ezt a rövid, vizes tekerést a parton.",
+                "ro": "Pistele de biciclete sunt bune, dar atenție la bălți; vederea mării înfuriate merită din plin această scurtă cursă udă pe mal.",
+                "en": "The bike paths are good but watch out for deep puddles; the view of the stormy sea is well worth the short, wet ride along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Geger Beach",
+                "hu": "Pura Geger Beach",
+                "ro": "Pura Geger Beach",
+                "en": "Pura Geger Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht von den Klippen ist neblig und mystisch; halten Sie Abstand zum Rand, wo der Boden durch den Regen instabil sein könnte.",
+                "hu": "A kilátás a sziklákról ködös és misztikus; tarts távolságot a szélétől, ahol a talaj az eső miatt bizonytalanná válhatott.",
+                "ro": "Priveliștea de pe stânci este cețoasă și mistică; păstrează distanța față de margine, unde solul poate fi instabil din cauza ploii.",
+                "en": "The cliffside view is misty and atmospheric; stay well away from the edge where the ground might be unstable from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nikko beach",
+                "hu": "Nikko beach",
+                "ro": "Nikko beach",
+                "en": "Nikko beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt unter einem Strandschirm; das Geräusch des Regens auf dem Sand ist nach einem Radtag unglaublich beruhigend.",
+                "hu": "Zárd a túrát egy strandnapernyő alatt; az eső kopogása a homokon hihetetlenül megnyugtató egy kerékpározással töltött nap után.",
+                "ro": "Încheie cursa sub o umbrelă de plajă; sunetul ploii pe nisip este incredibil de liniștitor după o zi întreagă de pedalat.",
+                "en": "End your ride under a beach umbrella; the sound of rain hitting the sand is incredibly peaceful after a long day of cycling."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühlen Wintermorgen sind ideal für längere Radtouren zu den Tempeln. Mittags bietet das Museum eine willkommene Abkühlung. Der Sonnenuntergang am Strand gegen 17:00 Uhr ist das Highlight des Tages. Nehmen Sie eine Windjacke für die Rückfahrt nach dem frühen Sonnenuntergang mit.",
+            "hu": "A hűvös téli reggelek ideálisak a hosszabb templomi kerékpártúrákhoz. Délben a múzeum hűvöse vár. A 17:00 körüli tengerparti naplemente a nap fénypontja. Készülj szélkabáttal a korai naplemente utáni visszaútra.",
+            "ro": "Diminețile răcoroase de iarnă sunt ideale pentru tururi mai lungi cu bicicleta la temple. La prânz, muzeul te așteaptă cu răcoare. Apusul de la 17:00 este punctul culminant. Ia o jachetă de vânt pentru drumul de întoarcere.",
+            "en": "Cool winter mornings are ideal for longer bike rides to the temples. At noon, the museum offers a refreshing break. The beach sunset around 17:00 is the highlight of the day. Bring a windbreaker for the ride back after the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Adat Desa Bualu",
+                "hu": "Pasar Adat Desa Bualu",
+                "ro": "Pasar Adat Desa Bualu",
+                "en": "Pasar Adat Desa Bualu"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, solange die Luft noch kühl ist; der Markt ist belebt und die Temperatur ideal, um alles auf zwei Rädern zu erkunden.",
+                "hu": "Indulj korán, amíg a levegő még hűvös; a piac nyüzsgő, és a hőmérséklet ideális a környék két keréken történő felfedezéséhez.",
+                "ro": "Pornește devreme, cât timp aerul este încă răcoros; piața este plină de viață, iar temperatura este ideală pentru explorarea pe două roți.",
+                "en": "Start early while the air is still cool; the market is bustling and the temperature is perfect for exploring the area on two wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandala Monument",
+                "hu": "Mandala Monument",
+                "ro": "Mandala Monument",
+                "en": "Mandala Monument"
+              },
+              "tip_5lang": {
+                "de": "Umrunden Sie das Denkmal ohne die übliche Feuchtigkeit; der klare Winterhimmel bietet eine atemberaubende Kulisse für Ihre Fotos.",
+                "hu": "Tekerd körbe az emlékművet a szokásos pára nélkül; a tiszta téli égbolt lenyűgöző hátteret biztosít a fotóid elkészítéséhez.",
+                "ro": "Înconjoară monumentul fără umiditatea obișnuită; cerul senin de iarnă oferă un fundal uimitor pentru fotografiile tale.",
+                "en": "Ride around the monument without the usual humidity; the clear winter skies provide a stunning backdrop for all your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pasifika",
+                "hu": "Museum Pasifika",
+                "ro": "Museum Pasifika",
+                "en": "Museum Pasifika"
+              },
+              "tip_5lang": {
+                "de": "Eine tolle Mittagspause; schlagen Sie Ihr Fahrrad ab und genießen Sie die klimatisierten Räume voller pazifischer Kunstwerke.",
+                "hu": "Nagyszerű déli pihenő; lakatold le a biciklit, és élvezd a klimatizált termeket, amelyek tele vannak lenyűgöző csendes-óceáni művészettel.",
+                "ro": "O pauză excelentă de prânz; încuie bicicleta și bucură-te de sălile climatizate, pline de artă fascinantă din Pacific.",
+                "en": "A great midday break; lock your bike and enjoy the climate-controlled rooms filled with incredible Pacific and Balinese art."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusa Dua Beach",
+                "hu": "Nusa Dua Beach",
+                "ro": "Nusa Dua Beach",
+                "en": "Nusa Dua Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist in dieser Saison erfrischend; genießen Sie den Küstenweg, bevor die Sonne am frühen Nachmittag tief sinkt.",
+                "hu": "Az óceáni szellő felfrissít ebben az évszakban; élvezd a tengerparti utat, mielőtt a nap korán délután süllyedni kezdene.",
+                "ro": "Briza oceanului este revigorantă în acest sezon; bucură-te de drumul de pe coastă înainte ca soarele să apună devreme.",
+                "en": "The ocean breeze is very refreshing during this season; enjoy the coastal path before the sun starts dipping early in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Geger Beach",
+                "hu": "Pura Geger Beach",
+                "ro": "Pura Geger Beach",
+                "en": "Pura Geger Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Aussichtspunkt für die frühe goldene Stunde hoch; der Sonnenuntergang um 17:00 Uhr ist der Höhepunkt der Wintersaison.",
+                "hu": "Tekerj fel a kilátóhoz a korai aranyórában; a 17:00 órai naplemente a téli szezon egyik legszebb látványossága ezen a ponton.",
+                "ro": "Urcă la punctul de belvedere pentru ora de aur; apusul de la ora 17:00 este punctul culminant al sezonului de iarnă aici.",
+                "en": "Ride up to the temple viewpoint for the early golden hour; the sunset at 17:00 is the highlight of the winter season here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nikko beach",
+                "hu": "Nikko beach",
+                "ro": "Nikko beach",
+                "en": "Nikko beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie sich im Sand, wenn der Tag schnell abkühlt; halten Sie für die Fahrt nach Sonnenuntergang eine leichte Jacke bereit.",
+                "hu": "Pihenj a homokban, ahogy a nap gyorsan hűlni kezd; legyen nálad egy könnyű kabát a naplemente utáni visszaútra.",
+                "ro": "Relaxează-te pe nisip pe măsură ce ziua se răcește rapid; pregătește o jachetă ușoară pentru drumul de după apus.",
+                "en": "Relax on the sand as the day cools down quickly; have a light jacket ready for the ride back after the sun goes down early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A reggeli kocsikázás a Pura Jagatnatha építészeti csodáival és a Maria Bunda katolikus templom egyedülálló kialakításával indul.\n\nDélben a Bualu piac helyi forgatagába vetjük magunkat, mielőtt légkondicionált menedéket keresnénk a hatalmas Pasifika Múzeumban.\n\nA délután zökkenőmentesen vált át világszínvonalú szórakozásba a közeli Bali Nusa Dua Színházban.\n\nAz este egy festői tengerparti autózással zárul a Pura Geger strandig, élvezve a sziklás kilátást és a hűsítő óceáni szellőt.",
         "ro": "Plimbarea de dimineață începe cu minunile arhitecturale de la Pura Jagatnatha și designul unic al bisericii catolice Maria Bunda.\n\nLa prânz, explorăm viața locală la piața Bualu înainte de a căuta un refugiu cu aer condiționat la vastul Muzeu Pasifika.\n\nDupă-amiaza facem tranziția către un divertisment de clasă mondială la Teatrul Bali Nusa Dua din apropiere.\n\nSeara se încheie cu o plimbare pitorească pe coastă până la plaja Pura Geger, bucurându-ne de priveliștile de pe stânci.",
         "en": "Morning cruising begins with the architectural wonders of Pura Jagatnatha and the uniquely blended design of the Maria Bunda Catholic church.\n\nMidday driving plunges into the local heartbeat at the Bualu market before seeking air-conditioned refuge at the extensive Museum Pasifika.\n\nAfternoon transitions seamlessly into world-class entertainment at the nearby Bali Nusa Dua Theatre.\n\nEvening concludes with a scenic coastal drive down to Pura Geger Beach, enjoying cliffside views and cooling ocean breezes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto besuchen Sie religiöse Stätten und Märkte bequem im Trockenen. Das Museum und das Theater bieten stundenlange Unterhaltung fernab des Regens. Genießen Sie den Blick auf das stürmische Meer aus der Sicherheit Ihres Fahrzeugs oder eines Cafés direkt am Strand.",
+            "hu": "Autóval kényelmesen, szárazon látogathatod meg a vallási helyszíneket és a piacot. A múzeum és a színház órákig tartó kikapcsolódást nyújt az esőtől távol. Élvezd a viharos tenger látványát a jármű biztonságából vagy egy közvetlen vízparti kávézóból.",
+            "ro": "Cu mașina vizitezi confortabil locurile religioase și piața, stând la uscat. Muzeul și teatrul oferă ore de distracție departe de ploaie. Admiră marea înfuriată din siguranța vehiculului sau dintr-o cafenea de pe mal.",
+            "en": "By car, you can comfortably visit religious sites and markets while staying dry. The museum and theatre offer hours of entertainment away from the rain. Enjoy the view of the stormy sea from the safety of your vehicle or a beachfront cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pintu Masuk Pura Jagatnatha",
+                "hu": "Pintu Masuk Pura Jagatnatha",
+                "ro": "Pintu Masuk Pura Jagatnatha",
+                "en": "Pintu Masuk Pura Jagatnatha"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz mit einem Regenschirm aus; der Regen verleiht der Tempelatmosphäre eine mystische und besonders ehrfürchtige Ebene.",
+                "hu": "Szállj ki egy rövid időre esernyővel; az eső misztikus és különlegesen áhítatos hangulatot kölcsönöz a templom bejáratának.",
+                "ro": "Coboară pentru scurt timp cu o umbrelă; ploaia adaugă o notă mistică și o stare de evlavie deosebită atmosferei templului.",
+                "en": "Step out briefly with an umbrella; the rain adds a mystical and uniquely reverent layer to the overall temple atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+                "hu": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+                "ro": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+                "en": "Gereja Maria Bunda Segala Bangsa, Nusa Dua"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Indoor-Zufluchtsort; bleiben Sie drinnen trocken, während Sie die einzigartige Architektur dieses Multireligionskomplexes bewundern.",
+                "hu": "Békés benti menedékhely; maradj szárazon bent, miközben megcsodálod ennek a vallásközi komplexumnak az egyedülálló építészetét.",
+                "ro": "Un refugiu interior pașnic; rămâi uscat înăuntru în timp ce admiri arhitectura unică a acestui complex multireligios.",
+                "en": "A peaceful indoor sanctuary; stay dry inside while admiring the unique and diverse architecture of this multi-faith complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Adat Desa Bualu",
+                "hu": "Pasar Adat Desa Bualu",
+                "ro": "Pasar Adat Desa Bualu",
+                "en": "Pasar Adat Desa Bualu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu vermeiden; die überdachten Marktabschnitte sind belebt und duften herrlich nach Gewürzen.",
+                "hu": "Parkolj közel a bejárathoz, hogy elkerüld az esőt; a fedett piaci részek nyüzsgőek és friss bali fűszerek illatával telítettek.",
+                "ro": "Parchează aproape de intrare pentru a evita ploaia; secțiunile acoperite ale pieței sunt pline de viață și miros a mirodenii proaspete.",
+                "en": "Park close to the entrance to avoid the rain; the covered market sections are lively and smell of fresh Balinese spices today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pasifika",
+                "hu": "Museum Pasifika",
+                "ro": "Museum Pasifika",
+                "en": "Museum Pasifika"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Regenwetterziel; hier können Sie Stunden verbringen, ohne sich um das Wetter draußen kümmern zu müssen.",
+                "hu": "A végső úticél esős időben; órákat tölthetsz el itt anélkül, hogy a kinti időjárás miatt kellene aggódnod a hatalmas termekben.",
+                "ro": "Destinația supremă pe timp de ploaie; poți petrece ore întregi aici fără să-ți faci griji de vremea de afară în galeriile vaste.",
+                "en": "The ultimate rainy day destination; you can spend hours here without worrying about the weather outside in the vast galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Nusa Dua Theatre",
+                "hu": "Bali Nusa Dua Theatre",
+                "ro": "Bali Nusa Dua Theatre",
+                "en": "Bali Nusa Dua Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Vorfahrt zum Aussteigen ist praktisch, um trocken zu bleiben; genießen Sie die Hightech-Indoor-Performance bei prasselndem Regen.",
+                "hu": "Az autós kiszállási pont praktikus a szárazon maradáshoz; élvezd a csúcstechnológiás benti előadást a kinti eső kopogása mellett.",
+                "ro": "Punctul de debarcare este practic pentru a rămâne uscat; bucură-te de spectacolul interior de înaltă tehnologie în timp ce plouă afară.",
+                "en": "The car drop-off point is very convenient for staying dry; enjoy the high-tech indoor performance while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Geger Beach",
+                "hu": "Pura Geger Beach",
+                "ro": "Pura Geger Beach",
+                "en": "Pura Geger Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen aus dem Auto oder einem nahen Café; der stürmische Horizont ist bei Regen ein beeindruckender Anblick.",
+                "hu": "Figyeld a hullámokat az autóból vagy egy közeli kávézóból; a viharos látóhatár esőben is lenyűgöző látványt nyújt a tengerparton.",
+                "ro": "Observă valurile din mașină sau dintr-o cafenea apropiată; orizontul furtunos este o priveliște impresionantă chiar și pe ploaie.",
+                "en": "Watch the crashing waves from the comfort of your car or a nearby cafe; the stormy horizon is a sight to behold in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine entspannte Fahrt durch Nusa Dua bei milden Wintertemperaturen. Der Besuch des Marktes und der Tempel ist ohne die Hitze viel angenehmer. Planen Sie Ihre Route so, dass Sie pünktlich zum frühen Sonnenuntergang um 17:00 Uhr am Strand von Pura Geger sind.",
+            "hu": "Élvezd a pihentető autózást Nusa Duán az enyhe téli hőmérséklet mellett. A piac és a templomok látogatása a hőség nélkül sokkal kényelmesebb. Időzítsd az utat úgy, hogy 17:00-kor a Pura Geger partján legyél a naplementére.",
+            "ro": "Bucură-te de o plimbare relaxantă cu mașina prin Nusa Dua la temperaturi blânde. Vizitarea pieței și a templelor este mult mai plăcută fără arșiță. Programează drumul pentru a fi la plaja Pura Geger la ora 17:00.",
+            "en": "Enjoy a relaxing drive through Nusa Dua in mild winter temperatures. Visiting the market and temples is much more comfortable without the heat. Plan your route to arrive at Pura Geger beach by 17:00 for the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pintu Masuk Pura Jagatnatha",
+                "hu": "Pintu Masuk Pura Jagatnatha",
+                "ro": "Pintu Masuk Pura Jagatnatha",
+                "en": "Pintu Masuk Pura Jagatnatha"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Schnitzereien im hellen Winterlicht; die Morgensonne ist sanft und perfekt, um jedes Detail der Tore zu sehen.",
+                "hu": "Élvezd a faragványokat a ragyogó téli fényben; a reggeli nap lágy és tökéletes a kapuk minden apró részletének megfigyeléséhez.",
+                "ro": "Bucură-te de sculpturi în lumina strălucitoare de iarnă; soarele de dimineață este blând și perfect pentru a vedea detaliile porților.",
+                "en": "Enjoy the intricate carvings in the bright winter light; the morning sun is soft and perfect for seeing every detail of the gates."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+                "hu": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+                "ro": "Gereja Maria Bunda Segala Bangsa, Nusa Dua",
+                "en": "Gereja Maria Bunda Segala Bangsa, Nusa Dua"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp zur Reflexion; die kühleren Temperaturen machen die Außenbereiche des Komplexes im Winter sehr angenehm.",
+                "hu": "Csendes megálló az elmélkedéshez; a hűvösebb hőmérséklet télen nagyon kellemessé teszi a komplexum szabadtéri területeinek bejárását.",
+                "ro": "O oprire liniștită pentru reflecție; temperaturile mai scăzute fac zonele exterioare ale complexului foarte plăcute pe timp de iarnă.",
+                "en": "A quiet stop for reflection; the cooler winter temperatures make exploring the outdoor areas of the complex very pleasant today."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Adat Desa Bualu",
+                "hu": "Pasar Adat Desa Bualu",
+                "ro": "Pasar Adat Desa Bualu",
+                "en": "Pasar Adat Desa Bualu"
+              },
+              "tip_5lang": {
+                "de": "Parken und erkunden Sie den Markt ohne die übliche Hitze; es ist viel einfacher, die lokalen Waren bequem zu durchstöbern.",
+                "hu": "Parkolj le és fedezd fel a piacot a szokásos trópusi hőség nélkül; sokkal könnyebb kényelmesen böngészni a helyi áruk között.",
+                "ro": "Parchează și explorează piața fără arșița obișnuită; este mult mai ușor să răsfoiești produsele locale în mod confortabil.",
+                "en": "Park and explore the market without the usual tropical heat; it is much easier to browse the local goods comfortably this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pasifika",
+                "hu": "Museum Pasifika",
+                "ro": "Museum Pasifika",
+                "en": "Museum Pasifika"
+              },
+              "tip_5lang": {
+                "de": "Ein Weltklasse-Indoor-Erlebnis; die Beleuchtung hebt die Farben der Kunstwerke an klaren Wintertagen besonders hervor.",
+                "hu": "Világszínvonalú benti élmény; a galéria világítása kiemeli a műalkotások élénk színeit a tiszta téli nappalokon.",
+                "ro": "O experiență interioară de clasă mondială; iluminatul galeriei scoate în evidență culorile vii ale operelor în zilele senine de iarnă.",
+                "en": "A world-class indoor experience; the gallery lighting enhances the vibrant colors of the artworks during the clear winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Nusa Dua Theatre",
+                "hu": "Bali Nusa Dua Theatre",
+                "ro": "Bali Nusa Dua Theatre",
+                "en": "Bali Nusa Dua Theatre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie stilvoll zur Nachmittagsshow an; der Komfort im Inneren ist eine schöne Pause vor dem frühen Sonnenuntergang.",
+                "hu": "Érkezz stílusosan a délutáni előadásra; a benti kényelem kellemes pihenő, mielőtt elindulnál a korai tengerparti naplementére.",
+                "ro": "Sosește cu stil la spectacolul de după-amiază; confortul interior este o pauză plăcută înainte de a pleca spre apusul devreme.",
+                "en": "Arrive in style for the afternoon show; the indoor comfort is a nice break before heading out for the early coastal sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Geger Beach",
+                "hu": "Pura Geger Beach",
+                "ro": "Pura Geger Beach",
+                "en": "Pura Geger Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie kurz vor 17:00 Uhr zum Aussichtspunkt; der winterliche Sonnenuntergang über dem Ozean ist außergewöhnlich klar und schön.",
+                "hu": "Hajts ki a kilátóhoz közvetlenül 17:00 előtt; a téli naplemente az óceán felett kivételesen tiszta és gyönyörű látványt nyújt.",
+                "ro": "Mergi la punctul de belvedere chiar înainte de ora 17:00; apusul de iarnă peste ocean este excepțional de senin și frumos.",
+                "en": "Drive to the viewpoint just before 17:00; the winter sunset over the Indian Ocean is exceptionally clear and beautiful right now."
+              }
+            }
+          ]
+        }
       }
     }
   }

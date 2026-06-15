@@ -137,6 +137,168 @@
         "hu": "Kezdje a gyalogos túrát Lavra szívében a központi auditóriumnál, mielőtt a frissítő tengerparti szellő felé venné az irányt. Délben a Praia do Funtão aranyhomokján pihenhet. A délután a történelemről szól, miközben lenyűgöző ősi római halsózó medencéket fedez fel a sziklás partok mentén. Fejezze be a kényelmes sétát az Angeiras Norte partszakaszon, élvezve az óceán csodás látványát.",
         "ro": "Începeți călătoria pe jos în inima orașului Lavra la auditoriul central, înainte de a vă îndrepta spre briza răcoroasă a coastei. Amiaza vă aduce pe nisipurile aurii ale Praia do Funtão. După-amiaza este plină de istorie, descoperind fascinantele bazine antice romane de sărare a peștelui împrăștiate pe țărmurile stâncoase. Încheiați plimbarea liniștit de-a lungul plajei Angeiras Norte.",
         "en": "Begin your walking journey in the heart of Lavra at the central auditorium before making your way towards the refreshing coastal breezes. Midday brings you to the golden sands of Praia do Funtão, leading gently up the coastline. Your afternoon is steeped in history as you uncover fascinating ancient Roman salting tanks scattered across the rocky shores. End your stroll along Angeiras Norte."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen trocken im Auditorium. Mittags erwartet Sie ein stürmischer Küstenspaziergang – wasserfeste Kleidung ist Pflicht! Nachmittags erkunden Sie die historischen, rutschigen Felsen mit extremer Vorsicht. Beenden Sie den nassen Tag an den nördlichen Stränden und suchen Sie frühzeitig Schutz bei einem heißen Getränk.",
+            "hu": "Kezdje az esős reggelt az előadóterem fedett kényelmében. Délben drámai, párás tengerparti séta várja – a vízálló ruha kötelező! Délután óvatosan fedezze fel a történelmi, nedves és csúszós sziklákat. Kora este keressen menedéket az északi strandoknál egy forró ital mellett, ahogy fokozódik a vihar.",
+            "ro": "Începeți dimineața ploioasă la adăpost în auditoriu. La prânz, vă așteaptă o plimbare de coastă dramatică – purtați haine impermeabile! După-amiaza, explorați cu mare grijă stâncile istorice și alunecoase. Încheiați ziua umedă la plajele din nord, căutând din timp un refugiu cald și o băutură fierbinte.",
+            "en": "Start your rainy morning safely sheltered in the auditorium. Midday brings a dramatic, misty coastal walk—sturdy waterproof gear is essential! In the afternoon, carefully explore the slippery historical rocks. End your wet day near the northern beaches, seeking early refuge indoors and a warming drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auditório de Lavra",
+                "hu": "Auditório de Lavra",
+                "ro": "Auditório de Lavra",
+                "en": "Auditório de Lavra"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie trocken und sicher im beheizten Saal und genießen Sie lokale Kultur, bevor Sie sich in den Regen hinauswagen.",
+                "hu": "Kezdje a napot szárazon a fűtött teremben, és élvezze a helyi kultúrát, mielőtt kimerészkedne a szakadó esőbe.",
+                "ro": "Începeți ziua la uscat în sala încălzită și bucurați-vă de cultura locală înainte de a înfrunta ploaia.",
+                "en": "Start dry and safe in the heated hall, enjoying local culture before venturing out into the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Funtão",
+                "hu": "Praia do Funtão",
+                "ro": "Praia do Funtão",
+                "en": "Praia do Funtão"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen wild und dramatisch. Ziehen Sie wasserfeste Schuhe an und bleiben Sie auf den befestigten Wegen.",
+                "hu": "A part esőben vad és drámai látványt nyújt. Vegyen fel vízálló cipőt, és maradjon a kiépített ösvényeken.",
+                "ro": "Plaja arată sălbatic și dramatic în ploaie. Purtați încălțăminte impermeabilă și rămâneți pe potecile pavate.",
+                "en": "The beach looks wild and dramatic in the rain. Wear waterproof shoes and strictly stay on the paved pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Fischsalztanks",
+                "hu": "Római halsózó medencék",
+                "ro": "Bazine romane de sărare a peștelui",
+                "en": "Roman Fish Salting Tanks"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen füllen sich mit Regenwasser. Vorsicht beim Gehen auf den nassen Steinen, ein Regenschirm schützt vor Schauern.",
+                "hu": "A romok megtelnek esővízzel. Óvatosan lépkedjen a nedves köveken, és használjon esernyőt a záporok ellen.",
+                "ro": "Ruinele se umplu cu apă de ploaie. Pășiți cu grijă pe pietrele ude, o umbrelă vă va proteja de averse.",
+                "en": "The ancient ruins fill with rainwater. Tread very carefully on the wet stones, and use an umbrella against showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Küste ist extrem rutschig. Bleiben Sie auf den Holzstegen und beobachten Sie die peitschenden Wellen sicher.",
+                "hu": "A sziklás part rendkívül csúszós. Maradjon a fapallókon, és onnan figyelje biztonságosan a csapkodó hullámokat.",
+                "ro": "Coasta stâncoasă este extrem de alunecoasă. Rămâneți pe pasarelele de lemn și priviți valurile în siguranță.",
+                "en": "The rocky coast is extremely slippery when wet. Stay on the wooden walkways to watch the crashing waves safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Angeiras Norte",
+                "hu": "Praia de Angeiras Norte",
+                "ro": "Praia de Angeiras Norte",
+                "en": "Praia de Angeiras Norte"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen überdachten Platz in der Nähe, um das graue, stürmische Meer bei einem heißen Kaffee zu genießen.",
+                "hu": "Keressen egy fedett helyet a közelben, hogy egy forró kávé mellett élvezhesse a szürke, viharos tenger látványát.",
+                "ro": "Găsiți un loc acoperit în apropiere pentru a vă bucura de marea cenușie și furtunoasă la o cafea caldă.",
+                "en": "Find a covered spot nearby to enjoy the grey, stormy sea safely while warming up with a hot cup of coffee."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den frostigen Morgen mit lokaler Kultur im Warmen. Mittags genießen Sie die klare Atlantikluft in dicken, warmen Schichten. Nachmittags taucht die tiefe Wintersonne die römischen Ruinen in ein spektakuläres goldenes Licht. Da es gegen 17:00 Uhr bereits dunkel und eiskalt wird, sollten Sie den windigen Spaziergang rechtzeitig beenden.",
+            "hu": "Indítsa a fagyos reggelt egy kis helyi kultúrával a melegben. Délben élvezze a tiszta atlanti levegőt vastag, réteges öltözetben. Délután az alacsony téli napfény gyönyörű aranyfényben világítja meg a római romokat. Mivel 17:00 körül hirtelen besötétedik és lehűl a levegő, fejezze be időben a szeles sétát.",
+            "ro": "Începeți dimineața geroasă la căldură, cu puțină cultură locală. La prânz, bucurați-vă de aerul curat al Atlanticului îmbrăcați în straturi groase. După-amiaza, soarele de iarnă luminează superb ruinele romane în tonuri aurii. Deoarece se întunecă pe la 17:00, terminați plimbarea vântoasă înainte să devină prea frig.",
+            "en": "Start the frosty morning with local culture indoors. At noon, enjoy the crisp Atlantic air bundled up in thick, warm layers. The afternoon's low winter sun beautifully illuminates the Roman ruins in a golden hue. Since darkness falls rapidly around 17:00, finish your windy walk early to avoid the freezing dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auditório de Lavra",
+                "hu": "Auditório de Lavra",
+                "ro": "Auditório de Lavra",
+                "en": "Auditório de Lavra"
+              },
+              "tip_5lang": {
+                "de": "Eine warme Einstimmung auf den frostigen Tag; hier können Sie sich vor dem windigen Küstenspaziergang noch einmal aufwärmen.",
+                "hu": "Kellemes, meleg kezdés a fagyos napon; itt jól átmelegedhet a szeles tengerparti séta előtt.",
+                "ro": "Un început cald pentru o zi geroasă; aici vă puteți încălzi înainte de plimbarea vântoasă pe coastă.",
+                "en": "A cozy start to a frosty day; warm up thoroughly inside before bracing the windy coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Funtão",
+                "hu": "Praia do Funtão",
+                "ro": "Praia do Funtão",
+                "en": "Praia do Funtão"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Blicke. Tragen Sie eine dicke Mütze gegen den eisigen Meereswind am leeren Strand.",
+                "hu": "A tiszta téli levegő csodás kilátást ad. Viseljen vastag sapkát a jéghideg tengeri szél ellen az üres parton.",
+                "ro": "Aerul clar de iarnă oferă priveliști largi. Purtați o căciulă groasă împotriva vântului înghețat pe plaja goală.",
+                "en": "Clear winter air provides vast views. Wear a thick beanie against the freezing sea breeze on the empty beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Fischsalztanks",
+                "hu": "Római halsózó medencék",
+                "ro": "Bazine romane de sărare a peștelui",
+                "en": "Roman Fish Salting Tanks"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft tolle Schatten auf die Becken. Tragen Sie Handschuhe, um beim Fotografieren nicht zu frieren.",
+                "hu": "Az alacsony téli napfény csodás árnyékokat vet a medencékre. Viseljen kesztyűt, hogy ne fázzon a keze fotózáskor.",
+                "ro": "Soarele de iarnă aruncă umbre grozave pe bazine. Purtați mănuși pentru a nu îngheța în timp ce faceți poze.",
+                "en": "The low winter sun casts amazing shadows on the tanks. Wear gloves so your hands don't freeze while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderschöner, aber windiger Ort im Winter. Schützen Sie Ihr Gesicht vor dem kalten Wind bei der Besichtigung.",
+                "hu": "Gyönyörű, de nagyon szeles hely télen. Védje az arcát a hideg széltől a sziklába vájt medencék nézegetése közben.",
+                "ro": "Un loc superb, dar vântos iarna. Protejați-vă fața de vântul rece în timp ce vizitați bazinele tăiate în stâncă.",
+                "en": "A beautiful but highly windy spot in winter. Protect your face from the biting wind while viewing the rocky tanks."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Angeiras Norte",
+                "hu": "Praia de Angeiras Norte",
+                "ro": "Praia de Angeiras Norte",
+                "en": "Praia de Angeiras Norte"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihren Spaziergang vor 17:00 Uhr, bevor die eisige Dunkelheit einbricht. Der Sonnenuntergang ist magisch.",
+                "hu": "Fejezze be itt a sétát 17:00 előtt, mielőtt leszáll a jeges sötétség. A kora esti naplemente egyszerűen varázslatos.",
+                "ro": "Terminați plimbarea aici înainte de 17:00, înainte să se lase întunericul înghețat. Apusul devreme este magic.",
+                "en": "Finish your walk here before 17:00, before the freezing darkness falls. The early winter sunset is truly magical."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a tekerést Lavra kulturális központjából a hívogató déli strandok felé. Délben kövesse a Praia do Funtão-t a figyelemre méltó római romokkal összekötő festői parti utakat. A délutáni túra további sziklába vájt történelmi emlékeket és a furcsa Devil's Den kiállítást fedi fel. Fejezze be kerékpáros kalandját egy békés naplementével a gyönyörű Praia de Labruge strand homokdűnéinél.",
         "ro": "Începeți să pedalați de la centrul cultural, îndreptându-vă rapid spre plajele primitoare. La amiază, urmați cărările de coastă pitorești care leagă Praia do Funtão de ruinele romane remarcabile. Călătoria de după-amiază descoperă mai multă istorie săpată în stâncă și expoziția excentrică Devil's Den. Încheiați aventura cu o priveliște liniștită la apus pe frumoasa Praia de Labruge.",
         "en": "Start pedaling from Lavra's cultural center, swiftly riding towards the inviting southern beaches. As midday approaches, follow the scenic coastal paths connecting Praia do Funtão to the remarkable Roman ruins. The afternoon ride uncovers more rock-carved history and the quirky Devil's Den exhibition. Conclude your cycling adventure with a peaceful sunset view at the beautiful Praia de Labruge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Start beginnt drinnen im Trockenen. Mittags radeln Sie über nasse Küstenwege – größte Vorsicht bei tiefen Pfützen und rutschigen Kurven. Nachmittags passieren Sie historische Ruinen im Nebel; bremsen Sie hier besonders sanft. Am frühen Abend reduzieren dunkle Wolken die Sicht stark, schalten Sie unbedingt das Licht ein.",
+            "hu": "Az esős indulást töltse zárt térben. Délben a parti utakon teker – nagyon vigyázzon a tócsákkal és a csúszós kanyarokkal. Délután ködben halad el a történelmi romok mellett; fékezzen óvatosan. Kora este a borús, szürke idő miatt jelentősen romlik a látási viszony, feltétlenül kapcsoljon biciklilámpát.",
+            "ro": "Începutul ploios vă ține înăuntru. La prânz, pedalați pe drumuri de coastă ude – mare atenție la bălți și curbe alunecoase. După-amiaza treceți pe lângă ruine istorice învăluite în ceață; frânați foarte ușor. Spre seară, norii întunecați reduc drastic vizibilitatea, așa că porniți neapărat farurile bicicletei.",
+            "en": "The rainy start keeps you indoors. At midday, pedal cautiously along wet coastal paths—watch out for deep puddles and slippery corners. In the afternoon, ride past misty historical ruins; brake gently on wet surfaces. By early evening, the heavy overcast severely reduces visibility, so keep your bike lights switched on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auditório de Lavra",
+                "hu": "Auditório de Lavra",
+                "ro": "Auditório de Lavra",
+                "en": "Auditório de Lavra"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie trocken und sicher im beheizten Saal und genießen Sie lokale Kultur, bevor Sie sich in den Regen hinauswagen.",
+                "hu": "Kezdje a napot szárazon a fűtött teremben, és élvezze a helyi kultúrát, mielőtt kimerészkedne a szakadó esőbe.",
+                "ro": "Începeți ziua la uscat în sala încălzită și bucurați-vă de cultura locală înainte de a înfrunta ploaia.",
+                "en": "Start dry and safe in the heated hall, enjoying local culture before venturing out into the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Funtão",
+                "hu": "Praia do Funtão",
+                "ro": "Praia do Funtão",
+                "en": "Praia do Funtão"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg ist bei Regen sehr rutschig. Fahren Sie langsam und tragen Sie einen zuverlässigen Regenschutz gegen die Gischt.",
+                "hu": "A kerékpárút esőben nagyon csúszós. Haladjon lassan, és viseljen megbízható esőkabátot a tengeri permet ellen.",
+                "ro": "Pista de biciclete este foarte alunecoasă pe ploaie. Mergeți încet și purtați o pelerină sigură împotriva stropilor de mare.",
+                "en": "The bike path is very slippery in the rain. Ride slowly and wear reliable waterproofs against the ocean spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Fischsalztanks",
+                "hu": "Római halsózó medencék",
+                "ro": "Bazine romane de sărare a peștelui",
+                "en": "Roman Fish Salting Tanks"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad auf festem Grund. Die Ruinen stehen voller Wasser, betreten Sie die Steine nur mit rutschfesten Schuhen.",
+                "hu": "Parkolja le a biciklit szilárd talajon. A romok tele vannak vízzel, csak csúszásmentes cipőben lépjen a kövekre.",
+                "ro": "Parcați bicicleta pe un teren solid. Ruinele sunt pline de apă, călcați pe pietre doar cu încălțăminte antiderapantă.",
+                "en": "Park your bike on solid ground. The ruins are pooled with water, so step on the stones only with non-slip shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad hier am besten. Die angrenzenden Wege und Felsen sind extrem nass und bergen hohe Sturzgefahr.",
+                "hu": "Itt a legjobb, ha tolja a biciklit. A szomszédos utak és sziklák extrém nedvesek, magas az elcsúszás veszélye.",
+                "ro": "Cel mai bine este să împingeți bicicleta aici. Drumurile și stâncile adiacente sunt extrem de ude și există risc de cădere.",
+                "en": "It is best to walk your bike here. The adjacent paths and rocks are extremely wet and pose a high slip hazard."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Angeiras Norte",
+                "hu": "Praia de Angeiras Norte",
+                "ro": "Praia de Angeiras Norte",
+                "en": "Praia de Angeiras Norte"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, stürmischer Stopp. Lassen Sie Ihr Licht blinken, da der Regen-Nebel die Sichtbarkeit für andere einschränkt.",
+                "hu": "Rövid, viharos megálló. Hagyja villogni a lámpáját, mert az esős köd erősen rontja a láthatóságot a többiek számára.",
+                "ro": "O oprire scurtă și furtunoasă. Lăsați lumina să clipească, deoarece ceața ploioasă reduce vizibilitatea pentru ceilalți.",
+                "en": "A brief, stormy stop. Keep your lights flashing, as the rainy mist severely restricts visibility for others."
+              }
+            },
+            {
+              "name": {
+                "de": "Devil's Den Beast Exhibition",
+                "hu": "Devil's Den Beast Kiállítás",
+                "ro": "Expoziția Devil's Den Beast",
+                "en": "Devil's Den Beast Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Indoor-Stopp, um im Trockenen zu bleiben. Trocknen Sie Ihre Regenjacke, während Sie die Ausstellung erkunden.",
+                "hu": "A tökéletes beltéri megálló esőben. Szárítsa meg az esőkabátját, miközben felfedezi a különleges kiállítást.",
+                "ro": "Oprirea interioară perfectă pentru a sta la uscat. Uscați-vă pelerina în timp ce explorați expoziția fascinantă.",
+                "en": "The perfect indoor stop to escape the rain. Dry off your waterproof jacket while exploring the fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Labruge",
+                "hu": "Praia de Labruge",
+                "ro": "Praia de Labruge",
+                "en": "Praia de Labruge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie am Ende langsam, da die nassen Wege rutschig sind. Das tosende Meer bietet einen tollen, rauen Abschluss.",
+                "hu": "A végén vezessen lassan, mert a nedves utak csúszósak. A viharos tenger zord, de lenyűgöző lezárást nyújt.",
+                "ro": "Mergeți încet la final, drumurile ude sunt alunecoase. Marea agitată oferă o încheiere aspră, dar impresionantă.",
+                "en": "Ride slowly at the end, as the wet paths are slick. The roaring sea provides a stark, dramatic conclusion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die eiskalte Radtour entspannt mit etwas Kultur im Warmen. Mittags erfordert der scharfe Gegenwind warme Thermo-Kleidung, während Sie entlang der leeren Strände radeln. Nachmittags werfen die antiken Ruinen lange, faszinierende Schatten auf den Radweg. Da gegen 17:00 Uhr die eisige Dämmerung hereinbricht, sorgen Sie zwingend für voll geladene Fahrradlichter.",
+            "hu": "Kezdje a fagyos kerékpártúrát a melegben. Délben a csípős szembeszél miatt termo-ruházat szükséges az üres parti utakon tekerve. Délután a történelmi romok hosszú, lenyűgöző árnyékot vetnek a bicikliútra. Mivel 17:00 körül hirtelen leszáll a jeges sötétség, feltétlenül gondoskodjon a feltöltött lámpákról.",
+            "ro": "Începeți traseul de bicicletă înghețat relaxat, la interior. La prânz, vântul tăios necesită echipament termic pe drumul gol de coastă. După-amiaza, ruinele antice lasă umbre lungi și fascinante pe pista de biciclete. Deoarece pe la 17:00 se lasă rapid un întuneric înghețat, asigurați-vă că aveți farurile încărcate.",
+            "en": "Start the freezing bike tour relaxed indoors with some culture. At midday, the biting headwind demands thermal cycling gear along the empty coastal paths. By afternoon, the ancient ruins cast long, fascinating shadows across your route. Dusk falls sharply and coldly around 17:00; make absolutely sure your bike lights are fully charged."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auditório de Lavra",
+                "hu": "Auditório de Lavra",
+                "ro": "Auditório de Lavra",
+                "en": "Auditório de Lavra"
+              },
+              "tip_5lang": {
+                "de": "Eine warme Einstimmung auf den frostigen Tag; hier können Sie sich vor dem windigen Küstenspaziergang noch einmal aufwärmen.",
+                "hu": "Kellemes, meleg kezdés a fagyos napon; itt jól átmelegedhet a szeles tengerparti séta előtt.",
+                "ro": "Un început cald pentru o zi geroasă; aici vă puteți încălzi înainte de plimbarea vântoasă pe coastă.",
+                "en": "A cozy start to a frosty day; warm up thoroughly inside before bracing the windy coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Funtão",
+                "hu": "Praia do Funtão",
+                "ro": "Praia do Funtão",
+                "en": "Praia do Funtão"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Gegenwind kann heftig sein. Tragen Sie eine winddichte Radjacke und genießen Sie die Stille des leeren Strandes.",
+                "hu": "A téli szembeszél heves lehet. Viseljen szélálló kerékpáros dzsekit, és élvezze az üres strand csendjét.",
+                "ro": "Vântul de iarnă din față poate fi puternic. Purtați o jachetă de ciclism rezistentă la vânt și bucurați-vă de liniștea plajei goale.",
+                "en": "The winter headwind can be fierce. Wear a windproof cycling jacket and enjoy the deep silence of the empty beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Fischsalztanks",
+                "hu": "Római halsózó medencék",
+                "ro": "Bazine romane de sărare a peștelui",
+                "en": "Roman Fish Salting Tanks"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Ruinen fantastisch aussehen. Ein toller Stopp, um die eingefrorenen Beine kurz zu strecken.",
+                "hu": "A tiszta téli fényben a romok fantasztikusan néznek ki. Remek megálló, hogy kinyújtóztassa a fagyos lábait.",
+                "ro": "Lumina clară de iarnă face ruinele să arate fantastic. O oprire excelentă pentru a vă întinde scurt picioarele înghețate.",
+                "en": "The clear winter light makes the ruins look fantastic. A great mid-ride pause to stretch your freezing legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher. Die frische Nachmittagsluft bietet exzellente Sichtweite auf die historischen Felsritzungen.",
+                "hu": "Parkolja le biztonságosan a biciklit. A friss délutáni levegő kiváló látási viszonyokat biztosít a történelmi sziklákhoz.",
+                "ro": "Parcați bicicleta în siguranță. Aerul proaspăt de după-amiază oferă o vizibilitate excelentă asupra sculpturilor istorice în stâncă.",
+                "en": "Park your bike safely. The crisp afternoon air offers excellent visibility over these ancient rocky carvings."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Angeiras Norte",
+                "hu": "Praia de Angeiras Norte",
+                "ro": "Praia de Angeiras Norte",
+                "en": "Praia de Angeiras Norte"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihr Tempo bei, um warm zu bleiben. Die tiefstehende Wintersonne blendet oft, Sonnenbrille nicht vergessen.",
+                "hu": "Tartsa a tempót, hogy melegen maradjon. Az alacsonyan járó téli nap gyakran vakít, ne felejtse el a napszemüveget.",
+                "ro": "Mențineți ritmul pentru a sta cald. Soarele de iarnă apune și orbește adesea, nu uitați ochelarii de soare.",
+                "en": "Keep your pace steady to stay warm. The low winter sun often creates a glare, so don't forget your sunglasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Devil's Den Beast Exhibition",
+                "hu": "Devil's Den Beast Kiállítás",
+                "ro": "Expoziția Devil's Den Beast",
+                "en": "Devil's Den Beast Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastische Gelegenheit, sich aufzuwärmen. Entfliehen Sie dem eisigen Wind und bestaunen Sie die Artefakte drinnen.",
+                "hu": "Fantasztikus lehetőség a felmelegedésre. Meneküljön el a jeges szél elől, és csodálja meg a beltéri műtárgyakat.",
+                "ro": "O oportunitate fantastică de a vă încălzi. Scăpați de vântul înghețat și admirați artefactele la interior.",
+                "en": "A fantastic opportunity to warm up. Escape the freezing outdoor wind and marvel at the intriguing artifacts inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Labruge",
+                "hu": "Praia de Labruge",
+                "ro": "Praia de Labruge",
+                "en": "Praia de Labruge"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum frühen Sonnenuntergang. Schalten Sie Ihr Fahrradlicht ein, wenn es um 17:00 Uhr schlagartig kalt wird.",
+                "hu": "Érkezzen időben a korai naplementéhez. Kapcsolja be a biciklilámpát, amikor 17:00 körül hirtelen lehűl a levegő.",
+                "ro": "Ajungeți la timp pentru apusul devreme. Porniți farurile bicicletei când se face brusc foarte frig, în jur de ora 17:00.",
+                "en": "Arrive in time for the early sunset. Turn on your bike lights immediately when the freezing dusk settles around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Az autós túra a szárazföld belsejében, a nyüzsgő ARCA kulturális egyesületnél kezdődik, mielőtt Lavra központjába hajtana. Délben a Praia Pedras da Agudela geológiai csodáihoz gurul. A délután az ősi római örökségek felfedezésének van szentelve, amelyek a sziklás partok mentén szóródtak szét. Zárja a napot a különleges Devil's Den kiállítás lenyűgöző mitikus alkotásainak megtekintésével.",
         "ro": "Turul auto începe cu asociația culturală plină de viață ARCA, înainte de a vă îndrepta spre centrul orașului Lavra. La amiază, veți ajunge la minunile geologice de la Praia Pedras da Agudela și veți explora coasta nisipoasă. După-amiaza este dedicată explorării siturilor de patrimoniu roman antic de-a lungul țărmurilor stâncoase. Încheiați ziua admirând expoziția inedită Devil's Den.",
         "en": "Your driving tour starts inland at the lively ARCA cultural association before heading into Lavra's main town center. By midday, you'll be cruising down to the geological wonders of Praia Pedras da Agudela and hopping along the sandy coastline. The afternoon is dedicated to exploring ancient Roman heritage sites scattered along the rocky shores. Finish the day marveling at the Devil's Den."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Regentag komfortabel in warmen Ausstellungsräumen. Mittags fahren Sie vorsichtig auf nassen Straßen zu den stürmischen Küsten; steigen Sie nur bei Nieselregen aus. Nachmittags bieten die felsigen Ruinen ein dramatisches Bild – ein großer Regenschirm ist Pflicht! Beenden Sie den Tag frühzeitig in einer geschlossenen Ausstellung vor dem Abendregen.",
+            "hu": "Kezdje az esős napot kényelmes, meleg kiállítóterekben. Délben óvatosan vezessen a nedves utakon a viharos partok felé; csak enyhe szitáláskor szálljon ki. Délután a sziklás romok drámai látványt nyújtanak – a nagy esernyő kötelező! A kora esti szakadó esőt egy izgalmas, fedett kiállításon vészelje át.",
+            "ro": "Începeți ziua ploioasă confortabil, în săli de expoziție calde. La prânz, conduceți cu prudență pe drumurile ude spre coastele furtunoase; coborâți doar când ploaia se mai oprește. După-amiaza, ruinele stâncoase oferă un peisaj dramatic – o umbrelă mare este obligatorie! Încheiați ziua devreme într-o expoziție interioară.",
+            "en": "Start the rainy day comfortably inside warm exhibition spaces. At midday, drive carefully on slick roads to view the stormy coasts; step out only during light drizzle. In the afternoon, the rocky ruins offer a truly dramatic view—a large umbrella is mandatory! Escape the persistent heavy evening rain early by visiting an indoor exhibition."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "ARCA - Associação Recreativa e Cultural de Aveleda",
+                "hu": "ARCA - Associação Recreativa e Cultural de Aveleda",
+                "ro": "ARCA - Associação Recreativa e Cultural de Aveleda",
+                "en": "ARCA - Associação Recreativa e Cultural de Aveleda"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Start im Trockenen. Verlassen Sie das Auto nur mit Regenschirm und wärmen Sie sich in den Räumlichkeiten auf.",
+                "hu": "Ideális kezdés szárazon. Csak esernyővel hagyja el az autót, és melegedjen fel a belső, védett kulturális terekben.",
+                "ro": "Un început ideal la uscat. Părăsiți mașina doar cu umbrela și încălziți-vă în spațiile interioare culturale.",
+                "en": "An ideal dry start. Only leave the car with an umbrella, and warm up inside the sheltered cultural spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório de Lavra",
+                "hu": "Auditório de Lavra",
+                "ro": "Auditório de Lavra",
+                "en": "Auditório de Lavra"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie trocken und sicher im beheizten Saal und genießen Sie lokale Kultur, bevor Sie sich in den Regen hinauswagen.",
+                "hu": "Kezdje a napot szárazon a fűtött teremben, és élvezze a helyi kultúrát, mielőtt kimerészkedne a szakadó esőbe.",
+                "ro": "Începeți ziua la uscat în sala încălzită și bucurați-vă de cultura locală înainte de a înfrunta ploaia.",
+                "en": "Start dry and safe in the heated hall, enjoying local culture before venturing out into the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Pedras da Agudela",
+                "hu": "Praia Pedras da Agudela",
+                "ro": "Praia Pedras da Agudela",
+                "en": "Praia Pedras da Agudela"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Unwetter sicher durch die Autoscheibe. Wer aussteigt, sollte auf die gefährlich nassen Felsen achten.",
+                "hu": "Nézze a vihart biztonságban az ablakon át. Aki kiszáll, ügyeljen a rendkívül csúszós és veszélyes sziklákra.",
+                "ro": "Priviți furtuna în siguranță prin parbriz. Cine coboară trebuie să fie atent la stâncile periculos de ude.",
+                "en": "Watch the storm safely through the car window. Anyone stepping out must be extremely careful on the dangerously wet rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Funtão",
+                "hu": "Praia do Funtão",
+                "ro": "Praia do Funtão",
+                "en": "Praia do Funtão"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen wild und dramatisch. Ziehen Sie wasserfeste Schuhe an und bleiben Sie auf den befestigten Wegen.",
+                "hu": "A part esőben vad és drámai látványt nyújt. Vegyen fel vízálló cipőt, és maradjon a kiépített ösvényeken.",
+                "ro": "Plaja arată sălbatic și dramatic în ploaie. Purtați încălțăminte impermeabilă și rămâneți pe potecile pavate.",
+                "en": "The beach looks wild and dramatic in the rain. Wear waterproof shoes and strictly stay on the paved pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Fischsalztanks",
+                "hu": "Római halsózó medencék",
+                "ro": "Bazine romane de sărare a peștelui",
+                "en": "Roman Fish Salting Tanks"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen füllen sich mit Regenwasser. Vorsicht beim Gehen auf den nassen Steinen, ein Regenschirm schützt vor Schauern.",
+                "hu": "A romok megtelnek esővízzel. Óvatosan lépkedjen a nedves köveken, és használjon esernyőt a záporok ellen.",
+                "ro": "Ruinele se umplu cu apă de ploaie. Pășiți cu grijă pe pietrele ude, o umbrelă vă va proteja de averse.",
+                "en": "The ancient ruins fill with rainwater. Tread very carefully on the wet stones, and use an umbrella against showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Küste ist extrem rutschig. Bleiben Sie auf den Holzstegen und beobachten Sie die peitschenden Wellen sicher.",
+                "hu": "A sziklás part rendkívül csúszós. Maradjon a fapallókon, és onnan figyelje biztonságosan a csapkodó hullámokat.",
+                "ro": "Coasta stâncoasă este extrem de alunecoasă. Rămâneți pe pasarelele de lemn și priviți valurile în siguranță.",
+                "en": "The rocky coast is extremely slippery when wet. Stay on the wooden walkways to watch the crashing waves safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Devil's Den Beast Exhibition",
+                "hu": "Devil's Den Beast Kiállítás",
+                "ro": "Expoziția Devil's Den Beast",
+                "en": "Devil's Den Beast Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Indoor-Stopp, um im Trockenen zu bleiben. Trocknen Sie Ihre Regenjacke, während Sie die Ausstellung erkunden.",
+                "hu": "A tökéletes beltéri megálló esőben. Szárítsa meg az esőkabátját, miközben felfedezi a különleges kiállítást.",
+                "ro": "Oprirea interioară perfectă pentru a sta la uscat. Uscați-vă pelerina în timp ce explorați expoziția fascinantă.",
+                "en": "The perfect indoor stop to escape the rain. Dry off your waterproof jacket while exploring the fascinating exhibits."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag gemütlich mit Kultur im beheizten Raum. Mittags bietet die glasklare Winterluft fantastische Ausblicke aus dem warmen Auto auf den unruhigen Atlantik. Nachmittags spazieren Sie in dicker Jacke zu den sonnenbeschienenen historischen Felsen. Da es ab 17:00 Uhr stockdunkel und eiskalt wird, ist der Abend ideal für eine abschließende Indoor-Aktivität.",
+            "hu": "Indítson kényelmesen egy fűtött kulturális térben. Délben a kristálytiszta téli levegő fantasztikus kilátást nyújt a meleg autóból a nyughatatlan Atlanti-óceánra. Délután vastag kabátban tegyen sétát a napsütötte történelmi szikláknál. Mivel 17:00 után vaksötét és jéghideg lesz, az este ideális egy végső beltéri programhoz.",
+            "ro": "Începeți confortabil într-un spațiu cultural încălzit. La prânz, aerul cristalin de iarnă oferă priveliști fantastice din mașina caldă spre Atlanticul agitat. După-amiaza, plimbați-vă în geacă groasă printre stâncile istorice luminate de soare. După 17:00 se face întuneric beznă și ger, moment ideal pentru o activitate de interior.",
+            "en": "Start comfortably with culture in a well-heated venue. At midday, the crystal-clear winter air offers fantastic coastal views of the restless Atlantic from inside your warm car. In the afternoon, take a brief walk in a thick coat to the sunlit historic rocks. Since it gets pitch dark and freezing after 17:00, the evening is perfect for a final indoor stop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "ARCA - Associação Recreativa e Cultural de Aveleda",
+                "hu": "ARCA - Associação Recreativa e Cultural de Aveleda",
+                "ro": "ARCA - Associação Recreativa e Cultural de Aveleda",
+                "en": "ARCA - Associação Recreativa e Cultural de Aveleda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto und starten Sie entspannt. Die Halle bietet lokale Kultur ohne kalte Zugluft.",
+                "hu": "Használja az autó fűtését, és induljon nyugodtan. A terem helyi kultúrát kínál a hideg, fagyos huzat nélkül.",
+                "ro": "Folosiți căldura mașinii și începeți relaxat. Sala oferă cultură locală fără curenți de aer reci.",
+                "en": "Use the car heater and start relaxed. The hall offers local culture completely free from the freezing outdoor drafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório de Lavra",
+                "hu": "Auditório de Lavra",
+                "ro": "Auditório de Lavra",
+                "en": "Auditório de Lavra"
+              },
+              "tip_5lang": {
+                "de": "Eine warme Einstimmung auf den frostigen Tag; hier können Sie sich vor dem windigen Küstenspaziergang noch einmal aufwärmen.",
+                "hu": "Kellemes, meleg kezdés a fagyos napon; itt jól átmelegedhet a szeles tengerparti séta előtt.",
+                "ro": "Un început cald pentru o zi geroasă; aici vă puteți încălzi înainte de plimbarea vântoasă pe coastă.",
+                "en": "A cozy start to a frosty day; warm up thoroughly inside before bracing the windy coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Pedras da Agudela",
+                "hu": "Praia Pedras da Agudela",
+                "ro": "Praia Pedras da Agudela",
+                "en": "Praia Pedras da Agudela"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, eiskalter Fotostopp. Ziehen Sie sich warm an, bevor Sie das gut geheizte Auto für die tolle Aussicht verlassen.",
+                "hu": "Egy rövid, jéghideg fotómegálló. Öltözzön fel melegen, mielőtt elhagyja a jól fűtött autót a remek kilátásért.",
+                "ro": "O scurtă oprire foto pe ger. Îmbrăcați-vă gros înainte de a părăsi mașina caldă pentru priveliștea minunată.",
+                "en": "A brief, freezing photo stop. Bundle up warmly before leaving the well-heated car to admire the crisp winter view."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Funtão",
+                "hu": "Praia do Funtão",
+                "ro": "Praia do Funtão",
+                "en": "Praia do Funtão"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Blicke. Tragen Sie eine dicke Mütze gegen den eisigen Meereswind am leeren Strand.",
+                "hu": "A tiszta téli levegő csodás kilátást ad. Viseljen vastag sapkát a jéghideg tengeri szél ellen az üres parton.",
+                "ro": "Aerul clar de iarnă oferă priveliști largi. Purtați o căciulă groasă împotriva vântului înghețat pe plaja goală.",
+                "en": "Clear winter air provides vast views. Wear a thick beanie against the freezing sea breeze on the empty beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Fischsalztanks",
+                "hu": "Római halsózó medencék",
+                "ro": "Bazine romane de sărare a peștelui",
+                "en": "Roman Fish Salting Tanks"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft tolle Schatten auf die Becken. Tragen Sie Handschuhe, um beim Fotografieren nicht zu frieren.",
+                "hu": "Az alacsony téli napfény csodás árnyékokat vet a medencékre. Viseljen kesztyűt, hogy ne fázzon a keze fotózáskor.",
+                "ro": "Soarele de iarnă aruncă umbre grozave pe bazine. Purtați mănuși pentru a nu îngheța în timp ce faceți poze.",
+                "en": "The low winter sun casts amazing shadows on the tanks. Wear gloves so your hands don't freeze while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+                "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderschöner, aber windiger Ort im Winter. Schützen Sie Ihr Gesicht vor dem kalten Wind bei der Besichtigung.",
+                "hu": "Gyönyörű, de nagyon szeles hely télen. Védje az arcát a hideg széltől a sziklába vájt medencék nézegetése közben.",
+                "ro": "Un loc superb, dar vântos iarna. Protejați-vă fața de vântul rece în timp ce vizitați bazinele tăiate în stâncă.",
+                "en": "A beautiful but highly windy spot in winter. Protect your face from the biting wind while viewing the rocky tanks."
+              }
+            },
+            {
+              "name": {
+                "de": "Devil's Den Beast Exhibition",
+                "hu": "Devil's Den Beast Kiállítás",
+                "ro": "Expoziția Devil's Den Beast",
+                "en": "Devil's Den Beast Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastische Gelegenheit, sich aufzuwärmen. Entfliehen Sie dem eisigen Wind und bestaunen Sie die Artefakte drinnen.",
+                "hu": "Fantasztikus lehetőség a felmelegedésre. Meneküljön el a jeges szél elől, és csodálja meg a beltéri műtárgyakat.",
+                "ro": "O oportunitate fantastică de a vă încălzi. Scăpați de vântul înghețat și admirați artefactele la interior.",
+                "en": "A fantastic opportunity to warm up. Escape the freezing outdoor wind and marvel at the intriguing artifacts inside."
+              }
+            }
+          ]
+        }
       }
     }
   }

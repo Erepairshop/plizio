@@ -137,6 +137,168 @@
         "hu": "A reggel csendesen kezdődik a Chiesa di San Pio X templomában, mielőtt a jelentős történelmi Calvario felé venné az irányt, hogy értékelje a helyi örökséget. Délben sétáljon végig a festői utcákon a Chiesa della Morte és a közeli Chiesa di Santo Stefano felé, melyek történelemben gazdagok. Délután élvezze a tengerparti nyugodt légkört. A nap békésen zárul a Faro di Molfettánál, ahol a naplemente megvilágítja a tengert.",
         "ro": "Dimineața începe liniștit la Chiesa di San Pio X, înainte de a vă îndrepta spre importantul Calvario istoric pentru a aprecia moștenirea locală. La prânz, plimbați-vă pe străzile pitorești până la Chiesa della Morte și biserica din apropiere, Chiesa di Santo Stefano, ambele bogate în istorie. După-amiaza, bucurați-vă de atmosfera de coastă relaxată. Ziua se încheie pașnic la Faro di Molfetta, unde apusul luminează marea.",
         "en": "The morning begins quietly at Chiesa di San Pio X before heading to the significant historical Calvario to appreciate local heritage. Midday, you'll stroll through picturesque streets to Chiesa della Morte and nearby Chiesa di Santo Stefano, both rich in history. In the afternoon, enjoy the relaxed coastal atmosphere. The day concludes peacefully at Faro di Molfetta, where the sunset illuminates the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die moderne Chiesa di San Pio X einen trockenen Rückzugsort, um sakrale Kunst zu bewundern. Mittags führt der Weg am neugotischen Calvario vorbei, wobei man auf den glatten Pflastersteinen vorsichtig sein sollte. Am Nachmittag laden die historischen Kirchen der Altstadt zum Verweilen im Trockenen ein. Abends bietet der Hafen beim Leuchtturm trotz Regen eine dramatische, maritime Kulisse.",
+            "hu": "Reggel a San Pio X modern terei nyújtanak menedéket a szemerkélő eső elől, ahol megcsodálhatjuk a kortárs szakrális művészetet. Délben a Calvario neogótikus tornyai közt sétálva ügyeljünk a csúszós kőburkolatra az óváros peremén. Délután a kikötő felé tartva a kis templomok belső csendje véd meg a széltől. Estére a molfettai világítótorony környékén a tenger morajlása esőben is különleges élmény.",
+            "ro": "Dimineața, arhitectura modernă a bisericii San Pio X oferă un adăpost perfect pentru a admira arta sacră contemporană. La prânz, plimbarea pe lângă Calvario necesită atenție sporită din cauza pavajului alunecos de la marginea centrului vechi. După-amiaza, interiorul liniștit al bisericilor istorice vă ferește de vânt. Seara, zona farului din Molfetta oferă o priveliște dramatică asupra Adriaticii în plină ploaie.",
+            "en": "Morning starts at San Pio X, where modern architecture provides a dry sanctuary to admire contemporary sacred art. By noon, stroll past the neo-Gothic Calvario, keeping an eye on the slippery stone pavements near the old town. Afternoon brings solace in the quiet interiors of historic churches as you head toward the port. Evening by the lighthouse offers a dramatic view of the rainy Adriatic Sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Pio X",
+                "hu": "Chiesa di San Pio X",
+                "ro": "Chiesa di San Pio X",
+                "en": "Chiesa di San Pio X"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernen Glasmalereien im trockenen Innenraum und nutzen Sie die Vorhalle, um Ihren Regenschirm vor dem weiteren Rundgang sicher auszuschütteln.",
+                "hu": "Csodálja meg a modern üvegablakokat a száraz belső térben, és használja a tágas előcsarnokot az esernyő lerázására, mielőtt folytatná az utat a város felé.",
+                "ro": "Admirați vitraliile moderne în interiorul primitor și folosiți pridvorul spațios pentru a vă scutura umbrela înainte de a pleca mai departe spre oraș.",
+                "en": "Admire the modern stained glass windows in the dry interior and use the spacious porch to shake off your umbrella before continuing your walk toward the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvario",
+                "hu": "Calvario",
+                "ro": "Calvario",
+                "en": "Calvario"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen neugotischen Details von der gegenüberliegenden Straßenseite aus unter einem Dachvorsprung, da die Stufen bei Nässe sehr rutschig sein können.",
+                "hu": "A neogótikus részleteket egy közeli eresz alól szemlélje meg, mert a mészkő lépcsők és a járda rendkívül csúszóssá válnak az esőtől ezen a nyitott szakaszon.",
+                "ro": "Observați detaliile neogotice de sub o streașină apropiată, deoarece treptele de calcar și trotuarul devin extrem de alunecoase din cauza ploii în această zonă.",
+                "en": "Observe the neo-Gothic details from under a nearby eave, as the limestone steps and pavement become extremely slippery when wet in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Morte",
+                "hu": "Chiesa della Morte",
+                "ro": "Chiesa della Morte",
+                "en": "Chiesa della Morte"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist perfekt für eine längere Pause im Regen; die stille Atmosphäre im Inneren lässt Sie die barocke Pracht genießen, während es draußen stürmt.",
+                "hu": "Ez a templom tökéletes menedék a zápor elől; a belső csendben elmélyülve csodálhatja meg a barokk oltárt, miközben odakint az eső veri az óváros falait.",
+                "ro": "Această biserică este refugiul perfect împotriva ploii; în liniștea interiorului puteți admira altarul baroc în timp ce afară ploaia bate în zidurile vechi.",
+                "en": "This church is a perfect shelter from the downpour; in the silence of the interior, you can admire the Baroque altar while the rain beats against the old walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santo Stefano",
+                "hu": "Chiesa di Santo Stefano",
+                "ro": "Chiesa di Santo Stefano",
+                "en": "Chiesa di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die wertvollen Statuen der Karwoche im Trockenen zu sehen, und prüfen Sie Ihre Karte für den kurzen, windigen Weg zum Hafenbecken.",
+                "hu": "Használja ki a látogatást a híres húsvéti szobrok megtekintésére a védett térben, és készüljön fel a rövid, de szeles szakaszra a kikötői világítótorony felé.",
+                "ro": "Profită de vizită pentru a vedea faimoasele statui de Paște în spațiul protejat și pregătește-te pentru segmentul scurt, dar vântos, spre farul din port.",
+                "en": "Take advantage of the visit to see the famous Holy Week statues in the sheltered space and prepare for the short but windy walk toward the harbor lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Molfetta",
+                "hu": "Faro di Molfetta",
+                "ro": "Faro di Molfetta",
+                "en": "Faro di Molfetta"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt bei Regen besonders mystisch; genießen Sie den Blick auf das aufgewühlte Meer, aber halten Sie sich von der ungeschützten Kaimauer fern.",
+                "hu": "A világítótorony látványa esőben különösen misztikus; élvezze a felkorbácsolt tenger látványát egy közeli fedett teraszról, kerülve a hullámverésnek kitett partszakaszt.",
+                "ro": "Vederea farului în ploaie este deosebit de mistică; bucurați-vă de spectacolul mării agitate de pe o terasă acoperită, evitând zonele expuse valurilor mari.",
+                "en": "The lighthouse looks particularly mystical in the rain; enjoy the view of the churning sea from a covered terrace nearby, avoiding areas exposed to high waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch bei San Pio X, wo die milde apulische Sonne oft durch die Glasfenster flutet. Mittags wärmt ein Spaziergang zum Calvario den Körper, während die kühle Meeresbrise erfrischt. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte man den Nachmittag in den prachtvollen Kirchen nutzen. Der Abend am Leuchtturm bietet ein faszinierendes Spiel der Lichter in der frühen Dunkelheit.",
+            "hu": "A téli reggel frissen indul a San Pio X templomnál, ahol a gyenge fények különleges hangulatot árasztanak. Délben a Calvario felé sétálva a hűvös tengeri szél ellenére is kellemes az út az óváros szélén. Mivel 17:00 körül már sötétedik, a délutánt töltse a történelmi templomok meleg falai között. Az este a világítótoronynál a korai naplemente utáni fényekkel lesz teljes.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la San Pio X, unde lumina palidă creează o atmosferă specială. La prânz, plimbarea spre Calvario este plăcută în ciuda brizei răcoroase de la mare. Deoarece soarele apune în jur de ora 17:00, profitați de după-amiază în interiorul bisericilor istorice. Seara la far devine magică datorită luminilor orașului aprinse devreme.",
+            "en": "A winter morning starts fresh at San Pio X, where the soft light creates a unique atmosphere. By noon, the walk to Calvario is bracing yet pleasant despite the cool sea breeze. As the sun sets around 5:00 PM, spend your afternoon within the warm walls of historic churches. The evening at the lighthouse is made complete by the early sunset and the twinkling coastal lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Pio X",
+                "hu": "Chiesa di San Pio X",
+                "ro": "Chiesa di San Pio X",
+                "en": "Chiesa di San Pio X"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Morgen im beheizten Kirchenschiff und bewundern Sie, wie die tiefstehende Wintersonne das moderne Interieur in sanftes Licht taucht.",
+                "hu": "Élvezze a reggeli csendet a templom védett belső terében, és figyelje meg, ahogy az alacsonyan járó téli napfény különleges árnyékokat vet a modern falakra.",
+                "ro": "Bucurați-vă de liniștea dimineții în interiorul protejat al bisericii și observați cum soarele de iarnă creează umbre deosebite pe pereții moderni.",
+                "en": "Enjoy the morning silence in the sheltered interior of the church and observe how the low winter sun casts unique shadows on the modern walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvario",
+                "hu": "Calvario",
+                "ro": "Calvario",
+                "en": "Calvario"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine windfeste Jacke, da der Platz am Calvario im Winter sehr zugig sein kann, während Sie die beeindruckende neugotische Fassade fotografieren.",
+                "hu": "Viseljen szélálló kabátot, mert a Calvario előtti tér télen igen huzatos lehet, miközben a lenyűgöző neogótikus homlokzatot és a szobrokat fotózza.",
+                "ro": "Purtați o jachetă rezistentă la vânt, deoarece piața din fața Calvario poate fi foarte expusă iarna în timp ce fotografiați fațada neogotică uimitoare.",
+                "en": "Wear a windproof jacket as the square in front of Calvario can be quite breezy in winter while you photograph the stunning neo-Gothic facade and statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Morte",
+                "hu": "Chiesa della Morte",
+                "ro": "Chiesa della Morte",
+                "en": "Chiesa della Morte"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, um sich in den dicken Steinmauern aufzuwärmen und die barocken Details ohne sommerliche Touristenmassen zu erleben.",
+                "hu": "Látogassa meg a templomot kora délután, hogy felmelegedjen a vastag falak között, és zavartalanul csodálhassa meg a barokk részleteket a turistaáradat nélkül.",
+                "ro": "Vizitați biserica după-amiaza devreme pentru a vă încălzi între zidurile groase și pentru a admira detaliile baroce fără aglomerația de turiști din vară.",
+                "en": "Visit the church in the early afternoon to warm up within the thick walls and admire the Baroque details without the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santo Stefano",
+                "hu": "Chiesa di Santo Stefano",
+                "ro": "Chiesa di Santo Stefano",
+                "en": "Chiesa di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Kurz vor Sonnenuntergang bietet die Kirche eine andächtige Stimmung; ideal, um sich auszuruhen, bevor die Temperaturen draußen am Abend spürbar sinken.",
+                "hu": "Közvetlenül naplemente előtt a templom áhítatos hangulatot áraszt; ideális hely a pihenésre, mielőtt az esti hőmérséklet érezhetően csökkenni kezdene odakint.",
+                "ro": "Chiar înainte de apus, biserica oferă o atmosferă pioasă; este locul ideal pentru odihnă înainte ca temperatura de afară să scadă vizibil seara.",
+                "en": "Just before sunset, the church offers a prayerful atmosphere; it's an ideal spot to rest before the outdoor temperature drops noticeably in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Molfetta",
+                "hu": "Faro di Molfetta",
+                "ro": "Faro di Molfetta",
+                "en": "Faro di Molfetta"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Einschalten des Leuchtfeuers gegen 17:00 Uhr; die klare Winterluft sorgt für eine weite Sicht über die Adria und den beleuchteten Hafen.",
+                "hu": "Nézze meg a világítótorony fényének felgyulladását 17:00 körül; a tiszta téli levegőben messzire ellátni az Adriai-tenger és a kivilágított kikötő felett.",
+                "ro": "Urmăriți aprinderea luminii farului în jur de ora 17:00; aerul curat de iarnă oferă o vizibilitate mare peste Marea Adriatică și portul iluminat.",
+                "en": "Watch the lighthouse beacon turn on around 5:00 PM; the crisp winter air provides great visibility over the Adriatic Sea and the illuminated harbor."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Pattanjon nyeregbe kora reggel az Antico Ponte Lama Martina hídnál, majd tartson egy elmélkedő szünetet a Chiesa di San Pio X templomnál. Délben kényelmesen kerekezzen a Chiesa del Sacro Cuore di Gesù felé, majd élvezze a pikniket a buja Parco della Musica sant'Achille parkban. A délután pihentető városi tekerést kínál a Chiesa di San Giuseppe felé. Fejezze be a túrát a Monumento al Buon Pastore emlékműnél a lágy esti fényekben.",
         "ro": "Porniți devreme, începând la Antico Ponte Lama Martina, urmată de o pauză contemplativă la Chiesa di San Pio X. La prânz, pedalați pe îndelete spre Chiesa del Sacro Cuore di Gesù și bucurați-vă de un picnic în luxuriantul Parco della Musica sant'Achille. După-amiaza oferă o plimbare relaxantă prin oraș până la Chiesa di San Giuseppe. Încheiați turul la Monumento al Buon Pastore în lumina blândă a serii.",
         "en": "Set off early by starting at the Antico Ponte Lama Martina, followed by a contemplative pause at Chiesa di San Pio X. Midday, leisurely pedal towards Chiesa del Sacro Cuore di Gesù and enjoy a picnic in the lush Parco della Musica sant'Achille. The afternoon offers a relaxing ride across town to Chiesa di San Giuseppe. Wrap up your cycling tour at the Monumento al Buon Pastore in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Antico Ponte Lama Martina, wo man auf den nassen Naturwegen vorsichtig fahren sollte. Vormittags bieten die Kirchen San Pio X und Sacro Cuore kurze Stopps zum Unterstellen. Mittags im Park sant'Achille sind asphaltierte Wege sicherer als Rasenflächen. Nachmittags führt die Tour durch die Stadt, wobei man auf glattes Kopfsteinpflaster achten muss.",
+            "hu": "A kerékpáros túra az Antico Ponte Lama Martina hídnál indul, ahol a nedves talajon óvatosan kell haladni. Délelőtt a San Pio X és a Sacro Cuore templomok adnak rövid menedéket a záporok elől. Délben a Sant'Achille park aszfaltozott útjait válassza a fű helyett. Délután a városi szakaszon figyeljen a csúszós útburkolati jelekre és a kanyarokra.",
+            "ro": "Turul cu bicicleta începe la Antico Ponte Lama Martina, unde trebuie să pedalați cu prudență pe solul umed. Dimineața, bisericile San Pio X și Sacro Cuore oferă scurte refugii împotriva ploii. La prânz, alegeți aleile asfaltate din parcul Sant'Achille. După-amiaza, pe segmentul urban, atenție sporită la marcajele rutiere alunecoase și la curbe.",
+            "en": "The cycling tour starts at Antico Ponte Lama Martina, where you should pedal cautiously on wet ground. In the morning, San Pio X and Sacro Cuore churches offer brief shelters from showers. At noon, stick to the paved paths in Sant'Achille Park. In the afternoon, watch out for slippery road markings and sharp turns in the urban sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antico Ponte Lama Martina",
+                "hu": "Antico Ponte Lama Martina",
+                "ro": "Antico Ponte Lama Martina",
+                "en": "Antico Ponte Lama Martina"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam, da der alte Stein bei Regen extrem rutschig ist, und genießen Sie den Blick auf das üppige, nasse Grün der Schlucht.",
+                "hu": "Itt haladjon különösen lassan, mivel a régi kövek esőben rendkívül csúszósak; élvezze a völgy dús, nedves zöld növényzetének látványát a hídról.",
+                "ro": "Pedalați extrem de încet aici, deoarece pietrele vechi sunt foarte alunecoase; admirați vegetația bogată și umedă a văii de pe pod.",
+                "en": "Cycle extremely slowly here as the old stones are very slippery when wet; enjoy the view of the valley's lush, damp greenery from the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Pio X",
+                "hu": "Chiesa di San Pio X",
+                "ro": "Chiesa di San Pio X",
+                "en": "Chiesa di San Pio X"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad kurz sicher abzustellen und im modernen Innenraum zu warten, bis der stärkste Regen nachlässt.",
+                "hu": "Ideális megálló, hogy rövid időre biztonságosan letegye a bringát, és a modern belső térben várja meg, amíg a heves esőzés alábbhagy.",
+                "ro": "Un loc de oprire ideal pentru a lăsa bicicleta în siguranță pentru scurt timp și pentru a aștepta în interiorul modern până când ploaia se mai potolește.",
+                "en": "An ideal stop to safely park your bike for a short time and wait in the modern interior until the heavy rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore di Gesù",
+                "hu": "Chiesa del Sacro Cuore di Gesù",
+                "ro": "Chiesa del Sacro Cuore di Gesù",
+                "en": "Chiesa del Sacro Cuore di Gesù"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um Ihre Kleidung zu richten und die beeindruckende Architektur zu bewundern, während Ihr Fahrrad im Eingangsbereich geschützt steht.",
+                "hu": "Használja ki ezt a megállót a ruházat rendezésére és az impozáns építészet megcsodálására, miközben kerékpárja a bejárat közelében védett helyen pihen.",
+                "ro": "Folosiți această oprire pentru a vă aranja echipamentul și pentru a admira arhitectura impunătoare în timp ce bicicleta stă la adăpost lângă intrare.",
+                "en": "Use this stop to adjust your gear and admire the imposing architecture while your bike rests in a sheltered spot near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco della Musica sant'Achille",
+                "hu": "Parco della Musica sant'Achille",
+                "ro": "Parco della Musica sant'Achille",
+                "en": "Parco della Musica sant'Achille"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden; die Pavillons bieten guten Schutz für eine kurze Trinkpause im Trockenen.",
+                "hu": "Maradjon a burkolt utakon a sár elkerülése érdekében; a pavilonok kiváló védelmet nyújtanak egy rövid, száraz ivószünethez az esőben.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul; pavilioanele oferă protecție excelentă pentru o scurtă pauză de hidratare la adăpost de ploaie.",
+                "en": "Stay on the paved paths to avoid mud; the pavilions offer excellent protection for a short, dry hydration break during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt günstig an der Strecke und bietet einen ruhigen Ort, um die Hände aufzuwärmen und den weiteren Weg durch die nassen Stadtstraßen zu planen.",
+                "hu": "A templom kényelmesen az útvonal mentén fekszik, nyugodt helyet kínálva a kezek átmozgatására és a nedves városi utcákon való továbbhaladás megtervezésére.",
+                "ro": "Biserica este situată convenabil pe traseu, oferind un loc liniștit pentru a vă încălzi mâinile și pentru a planifica continuarea drumului pe străzile umede.",
+                "en": "The church is conveniently located along the route, offering a quiet spot to warm your hands and plan the rest of your ride through the wet city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Buon Pastore",
+                "hu": "Monumento al Buon Pastore",
+                "ro": "Monumento al Buon Pastore",
+                "en": "Monumento al Buon Pastore"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier aus; achten Sie beim Auf- und Absteigen auf dem nassen Asphalt besonders auf Ihren Stand.",
+                "hu": "Egy rövid fotómegálló is elég itt; a felszálláskor és megálláskor figyeljen az egyensúlyára a nedves aszfalton, mert a kerekek könnyen megcsúszhatnak.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; la plecare și la oprire, atenție la echilibru pe asfaltul umed, deoarece roțile pot aluneca ușor.",
+                "en": "A short photo stop is enough here; pay attention to your balance when starting and stopping on the wet asphalt, as wheels can easily slip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare, kalte Luft der Murgia-Küste. Morgens an der Lama Martina ist die Natur in winterliche Ruhe getaucht. Vormittags wärmen die Kirchenbesuche auf, während man die Architektur genießt. Mittags im Park sant'Achille ist die Sonne am stärksten. Nachmittags sollte man die Tour zügig beenden, da es ab 17:00 Uhr rasch kühler und dunkel wird.",
+            "hu": "A téli kerékpártúra a Murgia-part tiszta, hideg levegőjében halad. Reggel a Lama Martina völgyben a természet téli nyugalomba borul. Délelőtt a templomlátogatások során felmelegedhetünk az építészeti remekek között. Délben a Sant'Achille parkban élvezhetjük a legtöbb napsütést. Délután érdemes tempósan haladni, mert 17:00 után hirtelen lehűl az idő.",
+            "ro": "Turul de iarnă cu bicicleta se desfășoară în aerul curat și rece de pe coasta Murgiei. Dimineața, în valea Lama Martina, natura este scufundată în liniștea iernii. Vizitele la biserici oferă momente de încălzire printre capodoperele arhitecturale. La prânz, parcul Sant'Achille este cel mai însorit loc. După-amiaza, pedalați cu spor, deoarece după ora 17:00 se răcește brusc.",
+            "en": "The winter cycling tour takes place in the crisp, cold air of the Murgia coast. In the morning at Lama Martina, nature is blanketed in winter's calm. Morning church visits provide a warm respite among architectural masterpieces. At noon, Sant'Achille Park is the sunniest spot. In the afternoon, keep a steady pace as the temperature drops sharply after 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antico Ponte Lama Martina",
+                "hu": "Antico Ponte Lama Martina",
+                "ro": "Antico Ponte Lama Martina",
+                "en": "Antico Ponte Lama Martina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Tal; tragen Sie Handschuhe, da der Fahrtwind auf der offenen Brücke im Winter besonders beißend sein kann.",
+                "hu": "Élvezze a téli völgy feletti tiszta kilátást; viseljen kesztyűt, mert a menetszél a nyitott hídon télen különösen metsző lehet kerékpározás közben.",
+                "ro": "Bucurați-vă de vederea clară asupra văii; purtați mănuși, deoarece vântul pe podul deschis poate fi deosebit de tăios în timpul pedalării pe timp de iarnă.",
+                "en": "Enjoy the clear view over the winter valley; wear gloves as the wind on the open bridge can be particularly biting while cycling in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Pio X",
+                "hu": "Chiesa di San Pio X",
+                "ro": "Chiesa di San Pio X",
+                "en": "Chiesa di San Pio X"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Kirche ist ein guter Ort, um die Beine auszuruhen; nutzen Sie die helle Atmosphäre im Inneren, um sich für die nächste Etappe zu motivieren.",
+                "hu": "A modern templom kiváló hely a lábak pihentetésére; használja ki a belső tér világos, meleg hangulatát, hogy feltöltődjön a következő szakasz előtt.",
+                "ro": "Biserica modernă este un loc excelent pentru a vă odihni picioarele; profitați de atmosfera luminoasă și caldă din interior pentru a vă reîncărca bateriile.",
+                "en": "The modern church is a great place to rest your legs; take advantage of the bright, warm atmosphere inside to recharge before the next segment."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore di Gesù",
+                "hu": "Chiesa del Sacro Cuore di Gesù",
+                "ro": "Chiesa del Sacro Cuore di Gesù",
+                "en": "Chiesa del Sacro Cuore di Gesù"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im klaren Winterlicht und wärmen Sie sich kurz im großzügigen Kirchenschiff auf, bevor Sie die Fahrt durch das Stadtzentrum fortsetzen.",
+                "hu": "Csodálja meg a homlokzatot a tiszta téli fényben, és melegedjen fel röviden a tágas hajóban, mielőtt folytatná útját a városközponton keresztül.",
+                "ro": "Admirați fațada în lumina clară de iarnă și încălziți-vă scurt în nava spațioasă înainte de a continua drumul prin centrul orașului.",
+                "en": "Admire the facade in the clear winter light and warm up briefly in the spacious nave before continuing your ride through the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco della Musica sant'Achille",
+                "hu": "Parco della Musica sant'Achille",
+                "ro": "Parco della Musica sant'Achille",
+                "en": "Parco della Musica sant'Achille"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist der Park ein schöner Ort für eine Sonnenpause; suchen Sie sich eine Bank an einer windgeschützten Stelle, um die milde Wintersonne zu genießen.",
+                "hu": "Délben a park remek hely egy kis napozásra; keressen egy szélvédett padot, hogy élvezhesse a gyenge, de kellemes téli napsütést a pihenő alatt.",
+                "ro": "La prânz, parcul este un loc excelent pentru a prinde puțin soare; căutați o bancă ferită de vânt pentru a vă bucura de razele blânde ale iernii.",
+                "en": "At noon, the park is a great spot to catch some sun; find a wind-sheltered bench to enjoy the mild but pleasant winter sunshine during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp, um die Hände aufzuwärmen; die Kirche bietet Schutz vor den kühler werdenden Nachmittagsbrisen vom Meer.",
+                "hu": "Rövid kulturális megálló, ahol átmelegítheti a kezeit; a templom védelmet nyújt a délutánra feltámadó hűvös tengeri szél ellen.",
+                "ro": "O scurtă oprire culturală unde vă puteți încălzi mâinile; biserica oferă protecție împotriva brizei răcoroase de mare care se stârnește după-amiaza.",
+                "en": "A short cultural stop where you can warm your hands; the church provides protection against the cool sea breeze that picks up in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Buon Pastore",
+                "hu": "Monumento al Buon Pastore",
+                "ro": "Monumento al Buon Pastore",
+                "en": "Monumento al Buon Pastore"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal vor 17:00 Uhr, um es noch im Tageslicht zu sehen; danach sinken die Temperaturen für Radfahrer sehr schnell.",
+                "hu": "Látogassa meg az emlékművet 17:00 előtt, hogy még nappali fényben lássa; ezután a hőmérséklet a kerékpárosok számára igen gyorsan csökkenni kezd.",
+                "ro": "Vizitați monumentul înainte de ora 17:00 pentru a-l vedea în lumina zilei; după aceea, temperatura pentru bicicliști scade foarte repede.",
+                "en": "Visit the monument before 5:00 PM to see it in daylight; after that, the temperature for cyclists begins to drop very rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje útját a Parco della Musica sant'Achille parkban egy frissítő reggelért, melyet a békés Chiesa di San Giuseppe követ. Délben fedezze fel a Chiesa dell'Immacolata Concezione templomot és a Monumento al Buon Pastore emlékművet, élvezve a gyors és kényelmes megállókat. Délután haladjon a part mentén a Faro di Molfetta felé, majd a lenyűgöző Chiesa Santa Maria Consolatrice templomhoz. Utazása az Antico Ponte Lama Martina hídnál csúcsosodik ki, mely tökéletes naplementekor.",
         "ro": "Începeți-vă călătoria la Parco della Musica sant'Achille pentru o dimineață răcoroasă, urmată de pașnica Chiesa di San Giuseppe. La prânz, explorați Chiesa dell'Immacolata Concezione și Monumento al Buon Pastore, bucurându-vă de opriri rapide și convenabile. După-amiaza, mergeți pe coastă spre Faro di Molfetta și spre impresionanta Chiesa Santa Maria Consolatrice. Călătoria dumneavoastră culminează la Antico Ponte Lama Martina, perfectă la apus.",
         "en": "Start your drive at Parco della Musica sant'Achille for a refreshing morning, followed by the peaceful Chiesa di San Giuseppe. Midday, explore Chiesa dell'Immacolata Concezione and the Monumento al Buon Pastore, enjoying quick and convenient stops. In the afternoon, cruise along the coast to Faro di Molfetta and onwards to the impressive Chiesa Santa Maria Consolatrice. Your journey culminates at the Antico Ponte Lama Martina, perfect at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Tour durch Molfetta bei Regen besonders komfortabel. Morgens im Park sant'Achille kann man das Grün aus dem Wagen genießen. Vormittags und mittags führen kurze Wege von Parkplatz zu Parkplatz zwischen den prächtigen Kirchen. Nachmittags bietet die Fahrt zum Leuchtturm einen sicheren Blick auf die raue Adria, während man im warmen Wagen trocken bleibt.",
+            "hu": "Autóval a molfettai túra esőben is kényelmes és biztonságos marad. Reggel a Sant'Achille park zöldjét akár a kocsiból is megcsodálhatja. Délelőtt és délben a templomok közötti rövid szakaszokon gyorsan közlekedhet a parkolókig. Délután a világítótoronyhoz hajtva a fűtött utastérből figyelheti a viharos tengert, anélkül, hogy bőrig ázna.",
+            "ro": "Cu mașina, turul prin Molfetta rămâne confortabil și sigur chiar și pe ploaie. Dimineața, puteți admira parcul Sant'Achille chiar din vehicul. În timpul zilei, deplasările scurte între biserici vă permit să ajungeți rapid de la o parcare la alta. După-amiaza, drumul spre far vă oferă o vedere spre marea agitată din confortul habitaclului încălzit.",
+            "en": "By car, the tour through Molfetta remains comfortable and safe even in the rain. In the morning, you can admire the greenery of Sant'Achille Park right from your vehicle. Throughout the day, short drives between churches allow you to move quickly from parking to parking. In the afternoon, driving to the lighthouse offers a view of the stormy sea from the dry, warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco della Musica sant'Achille",
+                "hu": "Parco della Musica sant'Achille",
+                "ro": "Parco della Musica sant'Achille",
+                "en": "Parco della Musica sant'Achille"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Rand des Parks; so können Sie das nasse Grün und die Architektur bewundern, ohne bei einem plötzlichen Schauer weit laufen zu müssen.",
+                "hu": "Parkoljon közvetlenül a park szélén; így megcsodálhatja a nedves növényzetet és az építészetet anélkül, hogy egy hirtelen záporban sokat kellene gyalogolnia.",
+                "ro": "Parcați chiar la marginea parcului; astfel puteți admira vegetația umedă și arhitectura fără a fi nevoie să mergeți mult pe jos în timpul unei ploi bruște.",
+                "en": "Park right at the edge of the park; this allows you to admire the damp greenery and architecture without having to walk far during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe gibt es gute Parkmöglichkeiten; nutzen Sie den kurzen Weg, um schnell ins trockene und ruhige Innere dieser schönen Kirche zu gelangen.",
+                "hu": "A közelben jó parkolási lehetőségek vannak; használja ki a rövid távolságot, hogy gyorsan bejusson e szép templom száraz és nyugodt belső terébe.",
+                "ro": "Există opțiuni bune de parcare în apropiere; profitați de distanța scurtă pentru a intra rapid în interiorul uscat și liniștit al acestei biserici frumoase.",
+                "en": "There are good parking options nearby; take advantage of the short distance to quickly get inside the dry and peaceful interior of this beautiful church."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Immacolata Concezione",
+                "hu": "Chiesa dell'Immacolata Concezione",
+                "ro": "Chiesa dell'Immacolata Concezione",
+                "en": "Chiesa dell'Immacolata Concezione"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Regen-Stopp; die prachtvolle Fassade lässt sich gut beim Aussteigen fotografieren, bevor Sie im Inneren Schutz und Besinnung finden.",
+                "hu": "Ideális megálló esőben; az impozáns homlokzatot kiszálláskor gyorsan lefotózhatja, mielőtt a belső térben menedéket és lelki békét találna.",
+                "ro": "Oprire ideală pe ploaie; puteți fotografia rapid fațada impunătoare la coborâre, înainte de a găsi adăpost și liniște sufletească în interior.",
+                "en": "Ideal stop in the rain; you can quickly photograph the imposing facade upon exiting, before finding shelter and spiritual peace in the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Buon Pastore",
+                "hu": "Monumento al Buon Pastore",
+                "ro": "Monumento al Buon Pastore",
+                "en": "Monumento al Buon Pastore"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal bequem vom Fahrersitz aus oder machen Sie einen ganz kurzen Stopp, da der Bereich um das Monument ungeschützt vor Regen ist.",
+                "hu": "Szemlélje meg az emlékművet kényelmesen a vezetőülésből, vagy csak egy pillanatra szálljon ki, mivel a mű környéke teljesen nyitott és kitett az esőnek.",
+                "ro": "Observați monumentul confortabil din scaunul șoferului sau coborâți doar pentru un moment, deoarece zona din jurul operei este complet deschisă și expusă ploii.",
+                "en": "Observe the monument comfortably from the driver's seat or step out only for a moment, as the area around the artwork is completely open and exposed to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Molfetta",
+                "hu": "Faro di Molfetta",
+                "ro": "Faro di Molfetta",
+                "en": "Faro di Molfetta"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafenbecken mit Blick auf den Leuchtturm; so erleben Sie die Kraft der regnerischen Adria, während Sie im Wagen Musik oder die Stille genießen.",
+                "hu": "Parkoljon a kikötőben a világítótoronyra néző helyen; így megtapasztalhatja az esős Adria erejét, miközben a kocsiban zenét vagy csendet élvezhet.",
+                "ro": "Parcați în port într-un loc cu vedere la far; astfel puteți experimenta forța Adriaticii ploioase în timp ce vă bucurați de muzică sau liniște în mașină.",
+                "en": "Park in the harbor at a spot facing the lighthouse; this way you can experience the power of the rainy Adriatic while enjoying music or silence in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Santa Maria Consolatrice degli Afflitti",
+                "hu": "Chiesa Santa Maria Consolatrice degli Afflitti",
+                "ro": "Chiesa Santa Maria Consolatrice degli Afflitti",
+                "en": "Chiesa Santa Maria Consolatrice degli Afflitti"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Zufluchtsort vor dem Wetter; nutzen Sie die Zeit im Inneren zur Kontemplation, während das Trommeln des Regens auf das Dach eine besondere Atmosphäre schafft.",
+                "hu": "Nyugodt menedék az időjárás elől; használja a benti időt elmélkedésre, miközben az eső kopogása a tetőn különleges, meghitt hangulatot teremt.",
+                "ro": "Un refugiu liniștit împotriva vremii; folosiți timpul din interior pentru meditație, în timp ce ropotul ploii pe acoperiș creează o atmosferă intimă deosebită.",
+                "en": "A peaceful refuge from the weather; use the time inside for contemplation, while the drumming of rain on the roof creates a special, intimate atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvario",
+                "hu": "Calvario",
+                "ro": "Calvario",
+                "en": "Calvario"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz in einer Parkbucht am Straßenrand an, um dieses neugotische Juwel im Regen zu bewundern, ohne auf dem nassen Bürgersteig laufen zu müssen.",
+                "hu": "Álljon meg rövid időre egy útmenti parkolóhelyen, hogy megcsodálja ezt a neogótikus ékszerdobozt az esőben, anélkül, hogy a vizes járdán kellene sétálnia.",
+                "ro": "Opriți pentru scurt timp într-un loc de parcare la marginea drumului pentru a admira această bijuterie neogotică în ploaie fără a fi nevoie să mergeți pe trotuarul ud.",
+                "en": "Stop briefly in a roadside parking spot to admire this neo-Gothic jewel in the rain without having to walk on the wet sidewalk."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Ponte Lama Martina",
+                "hu": "Antico Ponte Lama Martina",
+                "ro": "Antico Ponte Lama Martina",
+                "en": "Antico Ponte Lama Martina"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einer langsamen Fahrt über die Brücke; die historische Struktur wirkt bei Regen besonders ehrwürdig und massiv.",
+                "hu": "Zárja a túrát egy lassú áthajtással a hídon; a történelmi építmény esőben különösen tiszteletparancsolónak és robusztusnak tűnik a völgy felett.",
+                "ro": "Încheiați turul cu o traversare lentă a podului; structura istorică pare deosebit de impunătoare și robustă peste vale în timp ce plouă.",
+                "en": "End the tour with a slow drive across the bridge; the historic structure looks particularly imposing and robust over the valley in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ermöglicht das Auto eine warme Erkundung von Molfetta bis zum Sonnenuntergang. Morgens im Park sant'Achille ist die Luft klar und die Sicht weit. Vormittags und mittags laden die Kirchen mit ihren dicken Mauern zu besinnlichen Stopps ein. Nachmittags gegen 17:00 Uhr können Sie vom Wagen aus zusehen, wie der Hafen in der frühen Dämmerung erleuchtet wird.",
+            "hu": "Télen az autó meleg kényelméből fedezheti fel Molfettát egészen napnyugtáig. Reggel a Sant'Achille parkban a tiszta levegő és a nagy látótávolság fogadja. Délelőtt és délben a templomok vastag falai között tehet meghitt látogatásokat. Délután 17:00 körül pedig a kocsiból nézheti végig, ahogy a kikötő fényei kigyúlnak a korai szürkületben.",
+            "ro": "Iarna, din confortul cald al mașinii, puteți explora Molfetta până la apus. Dimineața, în parcul Sant'Achille, vă întâmpină aerul curat și vizibilitatea mare. În timpul zilei, puteți face vizite intime între zidurile groase ale bisericilor. În jurul orei 17:00, puteți urmări din mașină cum se aprind luminile portului în amurgul timpuriu.",
+            "en": "In winter, the warm comfort of the car allows you to explore Molfetta until sunset. In the morning, clear air and great visibility greet you at Sant'Achille Park. Throughout the day, enjoy intimate visits within the thick walls of the churches. Around 5:00 PM, you can watch from your car as the harbor lights flicker on in the early twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco della Musica sant'Achille",
+                "hu": "Parco della Musica sant'Achille",
+                "ro": "Parco della Musica sant'Achille",
+                "en": "Parco della Musica sant'Achille"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die winterliche Parklandschaft und die moderne Architektur; ein kurzer Spaziergang in der klaren Luft belebt vor der Weiterfahrt.",
+                "hu": "Élvezze a téli park és a modern építészet látványát; egy rövid séta a friss, tiszta levegőn felfrissíti Önt, mielőtt továbbhajtana a város belseje felé.",
+                "ro": "Bucurați-vă de vederea parcului de iarnă și a arhitecturii moderne; o scurtă plimbare în aerul curat și proaspăt vă va revigora înainte de a pleca spre centrul orașului.",
+                "en": "Enjoy the view of the winter park and modern architecture; a short walk in the fresh, crisp air will invigorate you before driving on toward the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und wärmen Sie sich im barocken Innenraum auf, während Sie die kunstvollen Altäre in aller Ruhe ohne Drängeln bewundern.",
+                "hu": "Parkoljon le kényelmesen a közelben, és melegedjen fel a barokk belső térben, miközben a díszes oltárokat teljes nyugalomban, tömeg nélkül csodálhatja meg.",
+                "ro": "Parcați confortabil în apropiere și încălziți-vă în interiorul baroc, admirând altarele ornamentate în deplină liniște, fără aglomerație.",
+                "en": "Park comfortably nearby and warm up in the Baroque interior, admiring the ornate altars in total peace without any crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Immacolata Concezione",
+                "hu": "Chiesa dell'Immacolata Concezione",
+                "ro": "Chiesa dell'Immacolata Concezione",
+                "en": "Chiesa dell'Immacolata Concezione"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Fassade besonders strahlen; nutzen Sie den Besuch für eine kurze Pause vom Fahren in der andächtigen Stille des Schiffs.",
+                "hu": "A tiszta téli fényben a homlokzat különösen ragyogó; használja ki a látogatást egy rövid pihenőre a vezetés után a hajó áhítatos csendjében.",
+                "ro": "Lumina clară de iarnă face ca fațada să strălucească; profitați de vizită pentru o scurtă pauză de la condus în liniștea pioasă a navei.",
+                "en": "The clear winter light makes the facade particularly radiant; take advantage of the visit for a short break from driving in the prayerful silence of the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Buon Pastore",
+                "hu": "Monumento al Buon Pastore",
+                "ro": "Monumento al Buon Pastore",
+                "en": "Monumento al Buon Pastore"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp im Winterlicht lohnt sich; die klare Atmosphäre betont die feinen Details des Denkmals besonders eindrucksvoll für Ihre Bilder.",
+                "hu": "Érdemes egy gyors fotómegállót tartani a téli fényben; a tiszta atmoszféra különösen hangsúlyossá teszi az emlékmű finom részleteit a képeken.",
+                "ro": "Merită să faceți o scurtă oprire pentru fotografii în lumina iernii; atmosfera clară scoate în evidență detaliile fine ale monumentului în poze.",
+                "en": "It's worth making a quick photo stop in the winter light; the clear atmosphere highlights the fine details of the monument particularly well in photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Molfetta",
+                "hu": "Faro di Molfetta",
+                "ro": "Faro di Molfetta",
+                "en": "Faro di Molfetta"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie gegen 17:00 Uhr an, um den Sonnenuntergang über der Adria vom Wagen aus zu beobachten, wenn die Hafenlichter sich im kalten Wasser spiegeln.",
+                "hu": "Érkezzen 17:00 körül, hogy a kocsiból nézhesse végig a naplementét az Adria felett, amikor a kikötő fényei elkezdenek tükröződni a hideg vízben.",
+                "ro": "Sosiți în jur de ora 17:00 pentru a urmări apusul peste Adriatică din mașină, când luminile portului încep să se oglindească în apa rece.",
+                "en": "Arrive around 5:00 PM to watch the sunset over the Adriatic from the car, as the harbor lights begin to reflect in the cold water."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Santa Maria Consolatrice degli Afflitti",
+                "hu": "Chiesa Santa Maria Consolatrice degli Afflitti",
+                "ro": "Chiesa Santa Maria Consolatrice degli Afflitti",
+                "en": "Chiesa Santa Maria Consolatrice degli Afflitti"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine warme, einladende Umgebung; ideal, um sich nach dem Besuch des windigen Hafens kurz aufzuwärmen und die Stille zu genießen.",
+                "hu": "A templom meleg, hívogató környezetet kínál; ideális hely egy rövid felmelegedésre a szeles kikötői látogatás után, miközben élvezi a benti csendet.",
+                "ro": "Biserica oferă un mediu cald și primitor; este locul ideal pentru o scurtă încălzire după vizita în portul vântos, bucurându-vă de liniștea din interior.",
+                "en": "The church offers a warm, inviting environment; an ideal spot for a quick warm-up after the windy harbor visit while enjoying the silence inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvario",
+                "hu": "Calvario",
+                "ro": "Calvario",
+                "en": "Calvario"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Monument bei einsetzender Dunkelheit, wenn die Straßenlaternen die neugotischen Konturen mystisch hervorheben, bevor Sie die Heizung im Wagen hochdrehen.",
+                "hu": "Csodálja meg az emlékművet a sötétedés beálltakor, amikor az utcai lámpák misztikusan kiemelik a neogótikus kontúrokat, mielőtt újra felcsavarná a fűtést a kocsiban.",
+                "ro": "Admirați monumentul la lăsarea întunericului, când luminile stradale scot în evidență mistic contururile neogotice, înainte de a porni iar căldura în mașină.",
+                "en": "Admire the monument at nightfall when the streetlights mystically highlight the neo-Gothic contours, before turning up the heating in the car again."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Ponte Lama Martina",
+                "hu": "Antico Ponte Lama Martina",
+                "ro": "Antico Ponte Lama Martina",
+                "en": "Antico Ponte Lama Martina"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss der Tour; die Brücke und das Tal wirken in der klaren Winternacht besonders imposant unter dem Sternenhimmel.",
+                "hu": "Hangulatos lezárása a túrának; a híd és a völgy a tiszta téli éjszakában különösen impozáns látványt nyújt a csillagos égbolt alatt.",
+                "ro": "O încheiere plină de atmosferă a turului; podul și valea oferă o vedere impunătoare în noaptea senină de iarnă sub cerul înstelat.",
+                "en": "An atmospheric end to the tour; the bridge and valley offer an imposing sight in the clear winter night under the starry sky."
+              }
+            }
+          ]
+        }
       }
     }
   }

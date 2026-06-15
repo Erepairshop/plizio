@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Magnanville szívében, szívja magába a gazdag örökséget a Le Colombier-nél, mielőtt végigsétálna a békés Magnanville Estate Parkon. A friss reggeli levegő a történelmi építészettel párosulva tökéletesen nyugodt és inspiráló alaphangot ad a lenyűgöző utazás hátralévő részéhez ebben a festői francia kisvárosban.\n\nAhogy a nap egyre magasabbra hág, térjen át a város spirituális horgonyaihoz. Az elegáns templomok, mint például az Église Saint-Sébastien, hűvös, csendes menedéket nyújtanak a déli meleg elől. Ezek a szent terek nemcsak történelmi betekintést nyújtanak, hanem a helyi béke és a tartós közösségi ellenálló képesség mély érzését is.\n\nTöltse a délutánt a helyi hagyományok mélyebb megismerésével, fedezzen fel további építészeti gyöngyszemeket és ősi romokat, mint a Château-Fondu. A változatos tájakon, a csendes utcáktól a rusztikus ösvényekig navigálva érezni fogja a mély kapcsolatot Magnanville természeti szépsége és lenyűgöző történelmi narratívája között.\n\nZárja emlékezetes egynapos kirándulását azzal, hogy elmerül a külvárosok rusztikus varázsában. Ahogy leszáll az alkonyat, a lágy fény varázslatos ragyogást vet az ősi kövekre és a zöldnövényzetre, tartós és gyönyörű benyomásokat hagyva a város időtlen eleganciájáról.",
         "ro": "Începeți-vă ziua în inima orașului Magnanville, absorbind bogata moștenire la Le Colombier, înainte de a vă plimba prin parcul senin Magnanville Estate. Aerul proaspăt al dimineții, combinat cu arhitectura istorică, stabilește un ton perfect liniștit și plin de inspirație pentru restul călătoriei dumneavoastră fascinante.\n\nPe măsură ce soarele urcă pe cer, îndreptați-vă spre ancorele spirituale ale orașului. Bisericile elegante, cum ar fi Église Saint-Sébastien, oferă sanctuare răcoroase și liniștite, departe de căldura amiezii. Aceste spații sacre oferă o perspectivă istorică și un sentiment profund de pace locală și reziliență comunitară.\n\nPetreceți-vă după-amiaza aprofundând tradițiile locale, explorând mai multe bijuterii arhitecturale și ruine antice precum Château-Fondu. Navigând prin peisajele variate, de la străzi liniștite la cărări rustice, veți simți conexiunea profundă dintre frumusețea naturală a zonei și narațiunea sa istorică absolut captivantă.\n\nÎncheiați-vă excursia memorabilă de o zi absorbind farmecul rustic al periferiilor, relaxându-vă lângă ruinele antice. Pe măsură ce amurgul coboară, lumina blândă aruncă o strălucire magică asupra pietrelor vechi și a verdeții, lăsându-vă cu impresii frumoase și durabile ale eleganței rurale atemporale.",
         "en": "Begin your day in the heart of Magnanville, absorbing the rich heritage at Le Colombier before strolling through the serene Magnanville Estate Park. The crisp morning air paired with the historic architecture sets a perfectly tranquil and inspiring tone for the rest of your fascinating journey through this quaint French commune.\n\nAs the sun climbs higher, transition towards the town's spiritual anchors. The elegant churches, such as Église Saint-Sébastien, offer cool, quiet sanctuaries away from the midday warmth. These sacred spaces provide not just historical insight but a profound sense of local peace and enduring communal resilience.\n\nSpend your afternoon delving deeper into local lore by exploring more architectural gems and ancient ruins like Château-Fondu. Navigating through the varied landscapes, from quiet streets to rustic paths, you will feel the profound connection between Magnanville's natural beauty and its deeply rooted, captivating historical narrative.\n\nConclude your memorable day trip by soaking in the rustic charm of the outskirts, perhaps near the ancient ruins. As twilight descends, the softened light casts a magical glow over the ancient stones and greenery, leaving you with lasting, beautiful impressions of Magnanville's timeless rural elegance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Kulturzentrum. Mittags können Sie den Park mit einem guten Regenschirm erkunden und in den Kirchen Schutz suchen. Der Nachmittag bringt einen nassen, stimmungsvollen Spaziergang zu den Ruinen. Beenden Sie die Tour vor den starken Abendschauern.",
+            "hu": "A reggel a fedett kulturális központban indul. Délben egy jó esernyővel sétáljon az esőben a parkban, majd keressen száraz menedéket a templomokban. A délutáni séta a romokhoz nedves, de hangulatos. Az esti heves záporok előtt érdemes befejezni a túrát.",
+            "ro": "Dimineața începe în centrul cultural acoperit. La prânz, plimbați-vă prin parc cu o umbrelă, apoi găsiți un refugiu uscat în bisericile istorice. După-amiaza aduce o plimbare umedă la ruine. Încheiați traseul înainte de averselor puternice de seară.",
+            "en": "Start indoors at the cultural hub. By noon, brave the rain in the park with an umbrella, then seek dry sanctuary in the historic churches. The afternoon brings a wet, atmospheric walk to the ruins. Wrap up before the heavy evening showers begin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Colombier",
+                "hu": "Le Colombier",
+                "ro": "Le Colombier",
+                "en": "Le Colombier"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden lokalen Ausstellungen im Innenbereich, was einen perfekten trockenen Start in den Regentag bietet.",
+                "hu": "Fedezze fel a lenyűgöző helyi kiállításokat zárt térben, amely tökéletes száraz kezdést biztosít a napnak a reggeli esőzések idején.",
+                "ro": "Explorați expozițiile locale fascinante în interior, oferind un început perfect și uscat pentru ziua dumneavoastră ploioasă.",
+                "en": "Explore the fascinating local exhibits indoors, which provides a perfect dry start to your day while the morning rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Magnanville Estate Park",
+                "hu": "Magnanville Estate Park",
+                "ro": "Magnanville Estate Park",
+                "en": "Magnanville Estate Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenmantel ist unerlässlich, um das frisch gewaschene Grün und die friedliche, nasse Atmosphäre auf den Parkwegen zu genießen.",
+                "hu": "A vízálló öltözet elengedhetetlen, hogy élvezhesse a friss, eső áztatta zöld növényzetet és a csendes parki sétányokat.",
+                "ro": "O haină de ploaie este esențială pentru a vă bucura de verdeața proaspătă și de atmosfera liniștită de pe aleile umede ale parcului.",
+                "en": "A good raincoat is essential to comfortably enjoy the fresh, rain-washed greenery and peaceful atmosphere on the wet park paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sébastien",
+                "hu": "Église Saint-Sébastien",
+                "ro": "Église Saint-Sébastien",
+                "en": "Église Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im Inneren dieser historischen Kirche ab und bewundern Sie die Buntglasfenster, während der Regen draußen fällt.",
+                "hu": "Száradjon meg egy kicsit e történelmi templom belsejében, és csodálja meg az ólomüveg ablakokat, miközben kint esik az eső.",
+                "ro": "Uscați-vă în interiorul acestei biserici istorice și admirați vitraliile în timp ce ploaia cade liniștită afară.",
+                "en": "Dry off inside this historic church and admire the beautiful stained glass windows while listening to the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen weiteren gemütlichen, trockenen Ort auf, um die lokale religiöse Architektur ohne Nässe zu schätzen.",
+                "hu": "Keressen egy újabb barátságos, száraz menedéket, ahol megcsodálhatja a helyi vallási építészetet az esőtől védve.",
+                "ro": "Găsiți un alt refugiu primitor și uscat pentru a aprecia arhitectura religioasă locală, ferit de vremea umedă.",
+                "en": "Seek out another cozy, dry spot to appreciate the local religious architecture completely sheltered from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château-Fondu",
+                "hu": "Ruines du Château-Fondu",
+                "ro": "Ruines du Château-Fondu",
+                "en": "Ruines du Château-Fondu"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen im Nebel fantastisch aus, aber achten Sie auf Ihre Schritte auf den rutschigen alten Steinen während des Nieselregens.",
+                "hu": "A romok fantasztikusan néznek ki a ködben, de nagyon figyeljen a lépéseire a csúszós régi köveken a szitáló esőben.",
+                "ro": "Ruinele arată fantastic în ceață, dar aveți grijă la pași pe pietrele vechi și alunecoase în timpul burniței.",
+                "en": "The ruins look incredibly atmospheric in the mist, but watch your step on the very slippery ancient stones during the drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgen im Kulturzentrum. Der mittägliche Spaziergang durch den frostigen Park erfordert warme Kleidung. Wärmen Sie sich danach in den Kirchen auf. Die Ruinen sehen in der Nachmittagssonne magisch aus. Kehren Sie vor der eisigen Dunkelheit am Abend zurück.",
+            "hu": "Friss téli reggel a kulturális központban. A déli séta a fagyos parkban meleg rétegeket igényel, majd melegedjen fel a templomokban. A romok varázslatosak a délutáni napfényben. Térjen vissza a korai, sötét és fagyos este beállta előtt.",
+            "ro": "O dimineață proaspătă la centrul cultural. Plimbarea de prânz prin parcul înghețat necesită haine groase, urmată de încălzire în biserici. Ruinele arată magic în soarele de după-amiază. Întoarceți-vă înainte de întunericul și frigul seral.",
+            "en": "Crisp morning at the cultural center. Midday walk through the frosty park requires warm layers, followed by warming up in the churches. The ruins look magical in the low afternoon sun. Head back early before the freezing evening darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Colombier",
+                "hu": "Le Colombier",
+                "ro": "Le Colombier",
+                "en": "Le Colombier"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag mit der Erkundung der warmen kulturellen Ausstellungen, bevor Sie der kalten Winterluft trotzen.",
+                "hu": "Kezdje a napot a fűtött beltéri kulturális kiállítások felfedezésével, mielőtt nekivágna a csípős téli levegőnek.",
+                "ro": "Începeți-vă ziua explorând expozițiile culturale calde din interior înainte de a înfrunta aerul rece de iarnă.",
+                "en": "Start your day exploring the warm indoor cultural exhibits before braving the chilly winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Magnanville Estate Park",
+                "hu": "Magnanville Estate Park",
+                "ro": "Magnanville Estate Park",
+                "en": "Magnanville Estate Park"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für einen flotten Spaziergang zwischen den frostbedeckten Bäumen und genießen Sie den Wintermorgen.",
+                "hu": "Viseljen meleg rétegeket a fagyos fák közötti frissítő sétához, és élvezze a csodálatos, ropogós téli reggelt.",
+                "ro": "Purtați haine groase pentru o plimbare revigorantă printre copacii acoperiți de chiciură, bucurându-vă de dimineața de iarnă.",
+                "en": "Wear warm layers for a brisk stroll among the frost-covered trees, enjoying the crisp and beautiful winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sébastien",
+                "hu": "Église Saint-Sébastien",
+                "ro": "Église Saint-Sébastien",
+                "en": "Église Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Das historische Steininnere ist unbeheizt, also behalten Sie Ihren Mantel an, während Sie das schöne Winterlicht bewundern.",
+                "hu": "A történelmi kőbelső fűtetlen, ezért tartsa magán a kabátját, miközben a gyönyörű téli fényeket csodálja az ablakokon át.",
+                "ro": "Interiorul istoric din piatră este neîncălzit, așa că păstrați-vă haina pe dumneavoastră în timp ce admirați lumina de iarnă.",
+                "en": "The historic stone interior is unheated, so keep your warm coat on while admiring the beautiful winter light filtering in."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem beißenden Wind in dieser friedlichen Kirche und genießen Sie einen Moment der stillen Besinnung.",
+                "hu": "Keressen menedéket a metsző szél elől ebben a békés templomban, és élvezze a csendes elmélkedés pillanatait.",
+                "ro": "Căutați refugiu din calea vântului tăios în această biserică pașnică și bucurați-vă de un moment de liniște.",
+                "en": "Seek refuge from the biting winter wind in this peaceful church and enjoy a moment of quiet, sheltered reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château-Fondu",
+                "hu": "Ruines du Château-Fondu",
+                "ro": "Ruines du Château-Fondu",
+                "en": "Ruines du Château-Fondu"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese alten Ruinen in der goldenen Nachmittagssonne und kehren Sie vor dem frühen Sonnenuntergang gegen 17 Uhr zurück.",
+                "hu": "Látogassa meg az ősi romokat az aranyló délutáni napsütésben, és induljon vissza a korai, 17 óra körüli naplemente előtt.",
+                "ro": "Vizitați aceste ruine antice în soarele auriu de după-amiază și întoarceți-vă înainte de apusul devreme, în jur de ora 17:00.",
+                "en": "Visit these ancient ruins in the golden afternoon sun, and ensure you head back before the early sunset around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napot Magnanville szívében, szívja magába a gazdag örökséget a Le Colombier-nél, mielőtt végigkerekezne a békés Magnanville Estate Parkon. A friss reggeli levegő a történelmi építészettel párosulva tökéletesen nyugodt és inspiráló alaphangot ad a lenyűgöző utazás hátralévő részéhez ebben a festői francia kisvárosban.\n\nAhogy a nap egyre magasabbra hág, térjen át a város spirituális horgonyaihoz. Az elegáns templomok, mint például az Église Saint-Martin, hűvös, csendes menedéket nyújtanak a déli meleg elől. Ezek a szent terek nemcsak történelmi betekintést nyújtanak, hanem a helyi béke és a tartós közösségi ellenálló képesség mély érzését is.\n\nTöltse a délutánt a helyi hagyományok mélyebb megismerésével, fedezzen fel további építészeti gyöngyszemeket és ősi romokat, mint a Château-Fondu. A változatos tájakon, a csendes utcáktól a rusztikus ösvényekig navigálva érezni fogja a mély kapcsolatot Magnanville természeti szépsége és lenyűgöző történelmi narratívája között.\n\nZárja emlékezetes egynapos kirándulását azzal, hogy elmerül a külvárosok rusztikus varázsában. Ahogy leszáll az alkonyat, a lágy fény varázslatos ragyogást vet az ősi kövekre és a zöldnövényzetre, tartós és gyönyörű benyomásokat hagyva a város időtlen eleganciájáról.",
         "ro": "Începeți-vă ziua în inima orașului Magnanville, absorbind bogata moștenire la Le Colombier, înainte de a pedala prin parcul senin Magnanville Estate. Aerul proaspăt al dimineții, combinat cu arhitectura istorică, stabilește un ton perfect liniștit și plin de inspirație pentru restul călătoriei dumneavoastră fascinante.\n\nPe măsură ce soarele urcă pe cer, îndreptați-vă spre ancorele spirituale ale orașului. Bisericile elegante, cum ar fi Église Saint-Martin, oferă sanctuare răcoroase și liniștite, departe de căldura amiezii. Aceste spații sacre oferă o perspectivă istorică și un sentiment profund de pace locală și reziliență comunitară.\n\nPetreceți-vă după-amiaza aprofundând tradițiile locale, explorând mai multe bijuterii arhitecturale și ruine antice precum Château-Fondu. Navigând prin peisajele variate, de la străzi liniștite la cărări rustice, veți simți conexiunea profundă dintre frumusețea naturală a zonei și narațiunea sa istorică absolut captivantă.\n\nÎncheiați-vă excursia memorabilă de o zi absorbind farmecul rustic al periferiilor, relaxându-vă lângă ruinele antice. Pe măsură ce amurgul coboară, lumina blândă aruncă o strălucire magică asupra pietrelor vechi și a verdeții, lăsându-vă cu impresii frumoase și durabile ale eleganței rurale atemporale.",
         "en": "Begin your day in the heart of Magnanville, absorbing the rich heritage at Le Colombier before cycling through the serene Magnanville Estate Park. The crisp morning air paired with the historic architecture sets a perfectly tranquil and inspiring tone for the rest of your fascinating journey through this quaint French commune.\n\nAs the sun climbs higher, transition towards the town's spiritual anchors. The elegant churches, such as Église Saint-Martin, offer cool, quiet sanctuaries away from the midday warmth. These sacred spaces provide not just historical insight but a profound sense of local peace and enduring communal resilience.\n\nSpend your afternoon delving deeper into local lore by exploring more architectural gems and ancient ruins like Château-Fondu. Navigating through the varied landscapes, from quiet streets to rustic paths, you will feel the profound connection between Magnanville's natural beauty and its deeply rooted, captivating historical narrative.\n\nConclude your memorable day trip by soaking in the rustic charm of the outskirts, perhaps near the ancient ruins. As twilight descends, the softened light casts a magical glow over the ancient stones and greenery, leaving you with lasting, beautiful impressions of Magnanville's timeless rural elegance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour drinnen im Kulturzentrum, dann navigieren Sie durch den Park. Mittags besuchen Sie Kirchen, die trockene Pausen bieten. Die Nachmittagsfahrt zu den Ruinen erfordert Vorsicht bei rutschigem Laub. Verwenden Sie abends starkes Licht!",
+            "hu": "Kezdje esős bringatúráját a kulturális központban, majd navigáljon a nedves parkban. Délben a templomok száraz pihenőt kínálnak. A délutáni tekerés a romokhoz óvatosságot igényel a csúszós levelek miatt. Használjon erős lámpát az esti szürkületben!",
+            "ro": "Începeți turul umed cu bicicleta în interior la centrul cultural, apoi navigați prin parcul umed. La prânz, bisericile oferă un refugiu uscat. Cursa de după-amiază spre ruine necesită prudență pe frunzele alunecoase. Folosiți lumini puternice seara!",
+            "en": "Start your wet cycling trip indoors at the cultural center, then navigate the damp park paths. Midday involves visiting churches that offer dry respites. The afternoon ride to the ruins requires caution on slippery leaves. Use strong lights for the rainy evening!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Colombier",
+                "hu": "Le Colombier",
+                "ro": "Le Colombier",
+                "en": "Le Colombier"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad überdacht und genießen Sie die trockenen kulturellen Ausstellungen, während Sie den stärksten Regen abwarten.",
+                "hu": "Parkolja le kerékpárját fedett helyen, és élvezze a száraz kulturális kiállításokat, amíg a leghevesebb eső eláll.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de expozițiile culturale uscate în timp ce așteptați să treacă ploaia cea mai grea.",
+                "en": "Park your bike under cover and enjoy the dry cultural exhibits while waiting out the heaviest of the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Magnanville Estate Park",
+                "hu": "Magnanville Estate Park",
+                "ro": "Magnanville Estate Park",
+                "en": "Magnanville Estate Park"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Kleidung und fahren Sie vorsichtig, da die nassen Wege und Blätter ziemlich rutschig sein können.",
+                "hu": "Viseljen vízálló felszerelést, és tekerjen óvatosan, mivel a nedves utak és a lehullott falevelek nagyon csúszósak lehetnek.",
+                "ro": "Purtați echipament impermeabil și mergeți cu atenție, deoarece aleile umede și frunzele pot fi destul de alunecoase.",
+                "en": "Wear high-visibility waterproof gear and ride carefully, as the wet paths and fallen leaves can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom Nieselregen in dieser historischen Kirche, um Ihre nasse Fahrradkleidung ein wenig zu trocknen.",
+                "hu": "Tartson egy kis szünetet a szitáló esőben ebben a történelmi templomban, hogy némileg megszárítsa kerékpáros ruháit.",
+                "ro": "Luați o pauză de la burniță în interiorul acestei biserici istorice pentru a vă usca puțin hainele de ciclism.",
+                "en": "Take a break from the drizzle inside this beautiful historic church to dry out your cycling clothes a little bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sébastien",
+                "hu": "Église Saint-Sébastien",
+                "ro": "Église Saint-Sébastien",
+                "en": "Église Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Heiligtum bietet eine weitere großartige Indoor-Pause vor dem grauen, regnerischen Wetter auf Ihrer Route.",
+                "hu": "A csendes szentély egy újabb nagyszerű beltéri pihenőt kínál a szürke, esős időjárás elől az útvonalán.",
+                "ro": "Sanctuarul liniștit oferă un alt răgaz excelent în interior de la vremea mohorâtă și ploioasă de pe traseul dumneavoastră.",
+                "en": "The quiet sanctuary offers another great indoor respite from the grey, rainy weather on your cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Foy",
+                "hu": "Église Sainte-Foy",
+                "ro": "Église Sainte-Foy",
+                "en": "Église Sainte-Foy"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter bei dem düsteren Wetter eingeschaltet sind, wenn Sie an dieser Steinkirche ankommen.",
+                "hu": "Gondoskodjon róla, hogy a kerékpárlámpák be legyenek kapcsolva a borús időben, amikor megérkezik ehhez a kőtemplomhoz.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt aprinse în vremea mohorâtă când ajungeți la această biserică de piatră.",
+                "en": "Ensure your bike lights are turned on in the gloomy weather as you arrive at this peaceful stone church."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château-Fondu",
+                "hu": "Ruines du Château-Fondu",
+                "ro": "Ruines du Château-Fondu",
+                "en": "Ruines du Château-Fondu"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie sanft bei der Annäherung an die alten Ruinen, da die schlammigen Wege sehr glatt sind.",
+                "hu": "Fékezzen finoman az ősi romok megközelítésekor, mivel a saras környező ösvények rendkívül csúszósak.",
+                "ro": "Frânați ușor la apropierea de ruinele antice, deoarece cărările noroioase din jur sunt foarte alunecoase.",
+                "en": "Brake gently on your approach to the ancient ruins, as the muddy surrounding paths and wet stones are very slick."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Radfahren beginnt am warmen Kulturzentrum, bevor eine frostige Fahrt durch den Park folgt. Mittags halten Sie an Kirchen, um Ihre frierenden Hände zu wärmen. Die Fahrt zu den Ruinen findet im goldenen Nachmittagslicht statt. Stellen Sie sicher, dass Sie Fahrradlichter für die frühe Dämmerung haben.",
+            "hu": "A bringázás a meleg kulturális központban indul, majd egy fagyos tekerés következik a parkon át. Délben a templomokban felmelegítheti fázó kezeit. A romokhoz az aranyló délutáni fényben tekerhet. Készüljön megfelelő lámpával a korai sötétedéshez.",
+            "ro": "Ciclismul de iarnă începe la centrul cultural cald înainte de o cursă geroasă prin parc. La prânz, opriți la biserici pentru a vă încălzi mâinile. Cursa spre ruine are loc în lumina aurie a după-amiezii. Asigurați-vă că aveți lumini pentru bicicletă la lăsarea întunericului.",
+            "en": "Brisk morning cycling begins at the warm cultural hub before a frosty ride through the park. Midday brings stops at churches to warm your freezing hands. The final ride to the ruins happens in golden afternoon light. Ensure you have bike lights for the early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Colombier",
+                "hu": "Le Colombier",
+                "ro": "Le Colombier",
+                "en": "Le Colombier"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kalten Radtag in diesem beheizten Kulturzentrum, um Energie für die Fahrt zu sammeln.",
+                "hu": "Kezdje a hideg kerékpáros napot ebben a kellemesen fűtött kulturális központban, hogy energiát gyűjtsön a tekeréshez.",
+                "ro": "Începeți-vă ziua rece de ciclism în acest centru cultural încălzit confortabil pentru a aduna energie pentru cursă.",
+                "en": "Begin your cold cycling day in this comfortably heated cultural center to gather energy for the brisk ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Magnanville Estate Park",
+                "hu": "Magnanville Estate Park",
+                "ro": "Magnanville Estate Park",
+                "en": "Magnanville Estate Park"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie dicke Fahrradhandschuhe an und genießen Sie die frostige Landschaft, während Sie durch die frische Luft fahren.",
+                "hu": "Vegyél fel vastag kerékpáros kesztyűt, és élvezd a gyönyörű, fagyos tájat, miközben a friss levegőn tekersz.",
+                "ro": "Puneți-vă mănuși groase de ciclism și bucurați-vă de peisajul frumos și înghețat în timp ce mergeți prin aerul rece.",
+                "en": "Put on thick cycling gloves and enjoy the beautiful, frosty scenery as you ride through the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie in dieser Kirche an, um Ihre Hände aufzuwärmen und sich kurz vom Treten in der Kälte auszuruhen.",
+                "hu": "Álljon meg ebben a csodálatos templomban, hogy felmelegítse fagyos kezeit, és tartson egy rövid pihenőt a hidegben.",
+                "ro": "Opriți-vă în această biserică magnifică pentru a vă încălzi mâinile înghețate și a vă odihni puțin de la pedalat.",
+                "en": "Stop inside this magnificent church to warm up your freezing hands and take a quick rest from pedaling in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sébastien",
+                "hu": "Église Saint-Sébastien",
+                "ro": "Église Saint-Sébastien",
+                "en": "Église Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Die friedliche Winteratmosphäre ist herrlich, aber behalten Sie Ihre Schichten an, da der historische Stein sehr kalt ist.",
+                "hu": "A békés téli hangulat odabent csodálatos, de tartsa magán a meleg rétegeket, mivel a történelmi kő nagyon hideg.",
+                "ro": "Atmosfera de iarnă pașnică din interior este minunată, dar păstrați-vă hainele groase, deoarece piatra istorică este rece.",
+                "en": "The peaceful winter atmosphere inside is lovely, but keep your layers on as the historic stone structure is very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Foy",
+                "hu": "Église Sainte-Foy",
+                "ro": "Église Sainte-Foy",
+                "en": "Église Sainte-Foy"
+              },
+              "tip_5lang": {
+                "de": "Der beißende Winterwind macht die Ankunft in diesem ruhigen, geschützten Heiligtum zu einer sehr lohnenden Erfahrung.",
+                "hu": "A metsző téli szél miatt a megérkezés ebbe a csendes, védett szentélybe igazán megnyugtató és jutalmazó élmény.",
+                "ro": "Vântul tăios de iarnă face ca sosirea la acest sanctuar liniștit și adăpostit să fie o experiență foarte plină de satisfacții.",
+                "en": "The biting winter wind makes arriving at this quiet, sheltered sanctuary a very rewarding and comforting experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château-Fondu",
+                "hu": "Ruines du Château-Fondu",
+                "ro": "Ruines du Château-Fondu",
+                "en": "Ruines du Château-Fondu"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh an, um die Ruinen in der Nachmittagssonne zu sehen, da die Radwege nach der Dämmerung dunkel und eisig werden.",
+                "hu": "Érkezzen korán, hogy lássa a romokat a délutáni napsütésben, mivel a kerékpárutak sötétedés után jegesek lesznek.",
+                "ro": "Ajungeți devreme pentru a vedea ruinele în soarele de după-amiază, deoarece pistele de biciclete devin întunecate și înghețate după lăsarea serii.",
+                "en": "Arrive early to see the ruins in the low afternoon sun, as the cycling paths get completely dark and icy after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a napot Magnanville szívében, szívja magába a gazdag örökséget a Le Colombier-nél, mielőtt végigsétálna a békés Magnanville Estate Parkon. A friss reggeli levegő a történelmi építészettel párosulva tökéletesen nyugodt és inspiráló alaphangot ad a lenyűgöző autós utazás hátralévő részéhez ebben a festői kisvárosban.\n\nAhogy a nap egyre magasabbra hág, térjen át a város spirituális horgonyaihoz. Az elegáns templomok, mint például az Église Saint-Martin, hűvös, csendes menedéket nyújtanak a déli meleg elől. Ezek a szent terek nemcsak történelmi betekintést nyújtanak, hanem a helyi béke és a tartós közösségi ellenálló képesség mély érzését is.\n\nTöltse a délutánt a helyi hagyományok mélyebb megismerésével, fedezzen fel további építészeti gyöngyszemeket és ősi romokat, mint a Château-Fondu. A változatos tájakon, a csendes utcáktól az erdei ösvényekig navigálva érezni fogja a mély kapcsolatot a természeti szépség és a történelmi narratíva között.\n\nZárja emlékezetes egynapos kirándulását azzal, hogy elmerül a Rosny-erdő hatalmas és vad természetében. Ahogy leszáll az alkonyat, a lágy fény varázslatos ragyogást vet az erdei ösvényekre, tartós és gyönyörű benyomásokat hagyva a régió időtlen természeti eleganciájáról.",
         "ro": "Începeți-vă ziua în inima orașului Magnanville, absorbind bogata moștenire la Le Colombier, înainte de a vă plimba prin parcul senin Magnanville Estate. Aerul proaspăt al dimineții, combinat cu arhitectura istorică, stabilește un ton perfect liniștit și plin de inspirație pentru restul călătoriei dumneavoastră auto fascinante.\n\nPe măsură ce soarele urcă pe cer, îndreptați-vă spre ancorele spirituale ale regiunii. Bisericile elegante, cum ar fi Église Saint-Martin, oferă sanctuare răcoroase și liniștite, departe de căldura amiezii. Aceste spații sacre oferă o perspectivă istorică și un sentiment profund de pace locală și reziliență comunitară pe traseul ales.\n\nPetreceți-vă după-amiaza aprofundând tradițiile locale, explorând mai multe bijuterii arhitecturale și ruine antice precum Château-Fondu. Conducând prin peisajele variate, de la străzi liniștite la poteci rurale, veți simți conexiunea profundă dintre frumusețea naturală a zonei și narațiunea sa istorică absolut captivantă.\n\nÎncheiați-vă excursia memorabilă de o zi absorbind farmecul sălbatic al naturii în vasta Pădure Rosny. Pe măsură ce amurgul coboară, lumina blândă aruncă o strălucire magică asupra copacilor și a verdeții, lăsându-vă cu impresii frumoase și durabile ale eleganței atemporale.",
         "en": "Begin your day in the heart of Magnanville, absorbing the rich heritage at Le Colombier before strolling through the serene Magnanville Estate Park. The crisp morning air paired with the historic architecture sets a perfectly tranquil and inspiring tone for the rest of your fascinating driving journey through this quaint French commune.\n\nAs the sun climbs higher, transition towards the town's spiritual anchors. The elegant churches, such as Église Saint-Martin, offer cool, quiet sanctuaries away from the midday warmth. These sacred spaces provide not just historical insight but a profound sense of local peace and enduring communal resilience along your route.\n\nSpend your afternoon delving deeper into local lore by exploring more architectural gems and ancient ruins like Château-Fondu. Navigating through the varied landscapes, from quiet streets to rustic paths, you will feel the profound connection between Magnanville's natural beauty and its deeply rooted, captivating historical narrative.\n\nConclude your memorable day trip by soaking in the wild charm of nature within the vast Rosny Forest. As twilight descends, the softened light casts a magical glow over the ancient trees and dense greenery, leaving you with lasting, beautiful impressions of the region's timeless and sweeping natural elegance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Regenfahrt! Beginnen Sie bei den Innenausstellungen, dann ein Regenschirm-Spaziergang im Park. Der Mittag ist perfekt für Kirchenbesuche, während Sie im Auto trocken bleiben. Der Nachmittag endet mit Ruinen und einer nebligen Waldfahrt. Fahren Sie abends vorsichtig.",
+            "hu": "Kényelmes esős autózás! Kezdje a beltéri kiállításoknál, majd egy rövid esernyős séta a parkban. A dél tökéletes a templomok látogatására, miközben az autóban száraz marad. A délután a romokkal és ködös erdei vezetéssel zárul. Vezessen óvatosan az esti vizes utakon.",
+            "ro": "O plimbare confortabilă pe ploaie! Începeți la expozițiile interioare, apoi o scurtă plimbare cu umbrela în parc. Prânzul este perfect pentru a vizita bisericile, rămânând uscat în mașină. După-amiaza se termină cu ruinele și o plimbare prin pădurea cețoasă. Conduceți cu grijă pe drumurile ude de seară.",
+            "en": "A cozy rainy drive! Begin at the indoor exhibits, then take a quick umbrella-walk in the park. Midday is perfect for church-hopping while keeping dry in the car. The afternoon finishes with the ruins and a misty forest drive. Drive safely on the wet evening roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Colombier",
+                "hu": "Le Colombier",
+                "ro": "Le Colombier",
+                "en": "Le Colombier"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Start in einen nassen Tag; parken Sie in der Nähe und bleiben Sie völlig trocken bei der Erkundung der Ausstellungen.",
+                "hu": "Tökéletes kezdés egy nedves napon; parkoljon a közelben, és maradjon teljesen száraz a helyi kiállítások felfedezése közben.",
+                "ro": "Un început perfect pentru o zi umedă; parcați în apropiere și rămâneți complet uscat în timp ce explorați expozițiile locale.",
+                "en": "A perfect start to a wet day; park closely and stay completely dry while exploring the fascinating local exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Magnanville Estate Park",
+                "hu": "Magnanville Estate Park",
+                "ro": "Magnanville Estate Park",
+                "en": "Magnanville Estate Park"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie einen großen Regenschirm aus dem Kofferraum für einen erfrischenden Spaziergang durch das regengewaschene Grün.",
+                "hu": "Vegyen elő egy nagy esernyőt a csomagtartóból egy gyors, frissítő sétához az élénk, eső áztatta zöld növényzetben.",
+                "ro": "Luați o umbrelă mare din portbagaj pentru o plimbare rapidă și revigorantă prin verdeața vibrantă, spălată de ploaie.",
+                "en": "Grab a large umbrella from your trunk for a quick, refreshing walk through the vibrant, rain-washed greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen schnellen Sprint vom Auto zum trockenen Inneren, um die atemberaubende religiöse Architektur zu bewundern.",
+                "hu": "Fussanak be gyorsan az autóból a templom száraz belsejébe, hogy megcsodálhassák a lenyűgöző vallási építészetet.",
+                "ro": "Faceți un sprint rapid din mașină către interiorul uscat al bisericii pentru a admira uimitoarea arhitectură religioasă.",
+                "en": "Make a quick dash from your car to the church's dry interior to admire the stunning religious architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sébastien",
+                "hu": "Église Saint-Sébastien",
+                "ro": "Église Saint-Sébastien",
+                "en": "Église Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Hören Sie das beruhigende Geräusch des Regens auf dem alten Dach, während Sie geschützt im Heiligtum bleiben.",
+                "hu": "Hallgassa az eső megnyugtató hangját az ősi tetőn, miközben védve marad a szentély belsejében.",
+                "ro": "Ascultați sunetul liniștitor al ploii pe acoperișul vechi, în timp ce rămâneți protejat în interiorul sanctuarului.",
+                "en": "Listen to the soothing sound of rain falling on the ancient roof while staying completely protected inside the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Foy",
+                "hu": "Église Sainte-Foy",
+                "ro": "Église Sainte-Foy",
+                "en": "Église Sainte-Foy"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Autoheizung zwischen den Stopps laufen, um Ihre Mäntel und Regenschirme entlang der Fahrt leicht zu trocknen.",
+                "hu": "Hagyja bekapcsolva az autó fűtését a megállók között, hogy könnyedén megszárítsa kabátjait és esernyőit az út során.",
+                "ro": "Păstrați încălzirea mașinii pornită între opriri pentru a vă usca cu ușurință hainele și umbrelele pe parcursul călătoriei.",
+                "en": "Keep the car heater running between stops to easily dry off your coats and umbrellas along the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château-Fondu",
+                "hu": "Ruines du Château-Fondu",
+                "ro": "Ruines du Château-Fondu",
+                "en": "Ruines du Château-Fondu"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Stiefel, da der kurze Weg vom Parkplatz zu den Ruinen sehr schlammig und rutschig wird.",
+                "hu": "Viseljen masszív, vízálló csizmát, mivel a parkolótól a romokig tartó rövid sétaút nagyon saras lesz.",
+                "ro": "Purtați cizme impermeabile rezistente, deoarece plimbarea scurtă de la parcare la ruine devine foarte noroioasă.",
+                "en": "Wear sturdy waterproof boots, as the short walk from the parking area to the ruins gets very muddy during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosny Forest",
+                "hu": "Rosny Forest",
+                "ro": "Rosny Forest",
+                "en": "Rosny Forest"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine sehr stimmungsvolle, neblige Fahrt durch die Bäume, aber achten Sie auf nasse, rutschige Straßen.",
+                "hu": "Élvezze a rendkívül hangulatos, ködös erdei autózást a fák között, de ügyeljen a vizes, csúszós utakra.",
+                "ro": "Bucurați-vă de o plimbare cu mașina foarte atmosferică și cețoasă prin copaci, dar aveți grijă la drumurile umede și alunecoase.",
+                "en": "Enjoy a highly atmospheric, misty scenic drive through the trees, but watch out for wet and potentially slippery roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am warmen Kulturzentrum, dann machen Sie einen frostigen Parkspaziergang. Fahren Sie mittags zwischen den historischen Kirchen und nutzen Sie die Autoheizung. Der Nachmittag bietet die Ruinen und eine malerische Waldfahrt. Fahren Sie vor dem frühen Sonnenuntergang um 17 Uhr nach Hause.",
+            "hu": "Kezdje a meleg kulturális központban, majd jöhet egy fagyos parki séta. Délben vezessen a történelmi templomok között, az autó fűtését kihasználva. A délután a romokat és egy erdei autózást tartogat. Induljon haza a korai, 17 órás naplemente előtt.",
+            "ro": "Începeți la centrul cultural cald, apoi o plimbare prin parcul înghețat. Conduceți între bisericile istorice la prânz, folosind încălzirea mașinii. După-amiaza prezintă ruinele și o plimbare prin pădure. Mergeți acasă înainte de apusul de la ora 17:00.",
+            "en": "Start at the warm cultural center, then bundle up for a frosty park stroll. Drive between the historic churches midday, using the car heater to stay toasty. The afternoon features the ruins and a scenic forest drive. Head home before the early 5 PM winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Colombier",
+                "hu": "Le Colombier",
+                "ro": "Le Colombier",
+                "en": "Le Colombier"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Morgenfrost in diesem beheizten Kulturzentrum, bevor Sie Ihre winterliche Fahrtstrecke beginnen.",
+                "hu": "Meneküljön a reggeli fagy elől ebbe a fűtött kulturális központba, mielőtt elkezdené a látványos téli autós túrát.",
+                "ro": "Scăpați de gerul dimineții în acest hub cultural încălzit înainte de a începe turul dumneavoastră scenic de iarnă cu mașina.",
+                "en": "Escape the morning frost in this heated cultural hub before starting your beautiful and scenic winter driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Magnanville Estate Park",
+                "hu": "Magnanville Estate Park",
+                "ro": "Magnanville Estate Park",
+                "en": "Magnanville Estate Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang zwischen den gefrosteten Bäumen, in dem Wissen, dass Ihr warmes Auto in der Nähe wartet.",
+                "hu": "Tegyen egy frissítő sétát a gyönyörű, zúzmarás fák között, tudva, hogy a meleg autó a közelben várja.",
+                "ro": "Faceți o plimbare revigorantă printre copacii înghețați, știind că mașina dumneavoastră caldă vă așteaptă în apropiere.",
+                "en": "Take a brisk walk among the beautiful frosted trees, knowing your comfortably warm car is waiting nearby for you."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist wunderschön, aber drinnen sehr kühl, also werden Sie die Heizung Ihres Autos danach definitiv schätzen.",
+                "hu": "A templom gyönyörű, de odabent nagyon hűvös van, így utána biztosan értékelni fogja az autója fűtését.",
+                "ro": "Biserica este superbă, dar foarte răcoroasă înăuntru, așa că veți aprecia cu siguranță încălzirea mașinii dumneavoastră după aceea.",
+                "en": "The church is gorgeous but very chilly inside, so you will definitely appreciate your car's heater immediately afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sébastien",
+                "hu": "Église Saint-Sébastien",
+                "ro": "Église Saint-Sébastien",
+                "en": "Église Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie, wie das klare, tiefe Wintersonnenlicht die historischen Buntglasfenster wunderschön beleuchtet.",
+                "hu": "Csodálja meg, ahogy az alacsonyan járó, tiszta téli napfény gyönyörűen megvilágítja a történelmi ólomüveg ablakokat.",
+                "ro": "Admirați cum lumina clară a soarelui de iarnă iluminează frumos vitraliile istorice.",
+                "en": "Marvel at how the low, clear winter sunlight beautifully illuminates the church's historic stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Foy",
+                "hu": "Église Sainte-Foy",
+                "ro": "Église Sainte-Foy",
+                "en": "Église Sainte-Foy"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt an der frischen, kalten Luft, bevor Sie schnell in die wohlige Wärme Ihres Fahrzeugs zurückkehren.",
+                "hu": "Egy gyors megálló a friss, hideg levegőn, mielőtt gyorsan visszatérne járműve megnyugtató melegébe.",
+                "ro": "O oprire scurtă în aerul rece și proaspăt înainte de a vă întoarce rapid la căldura reconfortantă a vehiculului dumneavoastră.",
+                "en": "A quick stop in the crisp, cold air before quickly returning to the comforting warmth of your waiting vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château-Fondu",
+                "hu": "Ruines du Château-Fondu",
+                "ro": "Ruines du Château-Fondu",
+                "en": "Ruines du Château-Fondu"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen in der Wintersonne spektakulär aus, aber treten Sie vorsichtig auf die harten, eisigen Stellen.",
+                "hu": "A romok látványosak a téli délutáni napsütésben, de lépjen óvatosan a kemény, jeges foltokon a parkolóból kifelé.",
+                "ro": "Ruinele arată spectaculos în soarele de iarnă, dar pășiți cu grijă pe porțiunile dure și înghețate.",
+                "en": "The ruins look spectacular in the winter afternoon sun, but step carefully on the hard, icy patches from the car park."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosny Forest",
+                "hu": "Rosny Forest",
+                "ro": "Rosny Forest",
+                "en": "Rosny Forest"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vor 16:30 Uhr durch den malerischen, kahlen Wald, um zu vermeiden, dass Sie auf dunklen Winterstraßen navigieren müssen.",
+                "hu": "Vezessen át a festői, csupasz ágú erdőn 16:30 előtt, hogy elkerülje a sötét téli utakon való navigálást.",
+                "ro": "Conduceți prin pădurea pitorească, cu ramuri goale, înainte de ora 16:30 pentru a evita navigarea pe drumurile întunecate de iarnă.",
+                "en": "Drive through the scenic, bare-branched forest before 4:30 PM to avoid navigating the winding, dark winter roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

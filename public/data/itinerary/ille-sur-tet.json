@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Ille-sur-Têt történelmi központjának felfedezésével, élvezve a főtér békés hangulatát, mielőtt megcsodálná a helyi templom román kori építészetét. Közeledve a délhez, merüljön el a regionális történelemben a gyönyörűen felújított egykori kórházban, amely ma múzeumként működik. Délután tegyen egy festői sétát a híres Orgues d'Ille-sur-Têt-hez, a lenyűgöző homokkő oszlopokhoz. Zárja a napot a közeli parkban, amely tökéletes pihenést nyújt a geológiai csodák felfedezése után.",
         "ro": "Începeți dimineața explorând centrul istoric din Ille-sur-Têt, bucurându-vă de atmosfera liniștită a pieței înainte de a admira biserica romanică. Spre prânz, scufundați-vă în istoria regională vizitând fostul spital frumos restaurat, acum un muzeu fascinant. După-amiaza, faceți o plimbare pitorească până la faimoasele Orgues d'Ille-sur-Têt, coloane spectaculoase de gresie. Încheiați ziua relaxantă în parcul pentru copii din apropiere, perfect pentru a vă odihni după explorări.",
         "en": "Start your morning exploring the historic heart of Ille-sur-Têt, enjoying the peaceful atmosphere of the main square before marveling at the Romanesque architecture of the local church. As midday approaches, immerse yourself in regional history at the beautifully restored former hospital, home to a fascinating museum. In the afternoon, take a scenic walk to the famous Orgues d'Ille-sur-Têt, spectacular sandstone pillars carved by time. Conclude your leisurely day at the nearby children's park, perfect for relaxing after exploring the stunning geological formations."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Tag beginnt am Platz und führt schnell in die trockene Kirche und das Hospiz. Nachmittags geht es zu den Orgues – die Wege sind matschig, wasserfeste Schuhe sind Pflicht! Der Tag endet mit einem Spaziergang durch den nassen Park.",
+            "hu": "A nap egy esős sétával indul a téren, majd a templom és a menhely nyújt száraz menedéket. Délután az Orgues felé sárra és csúszós utakra számíts, vízálló cipő kötelező! A napot a parkon átvágva zárjuk. Legyen nálad esernyő.",
+            "ro": "Ziua ploioasă începe în piață, urmată de un refugiu uscat în biserică și hospiciu. După-amiaza aduce o drumeție noroioasă, dar impresionantă la Orgues – poartă cizme impermeabile! Seara se încheie cu o plimbare prin parcul umed.",
+            "en": "Start with a wet walk at the square, taking shelter in the stunning church and fascinating hospice. Afternoon brings a muddy but striking hike to the Orgues—wear waterproof boots! Finish the day strolling by the wet park. Keep an umbrella handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Rhin et Danube",
+                "hu": "Square Rhin et Danube",
+                "ro": "Piața Rhin et Danube",
+                "en": "Square Rhin et Danube"
+              },
+              "tip_5lang": {
+                "de": "Ein nasser Start in den Tag; holen Sie sich einen Kaffee und öffnen Sie den Schirm.",
+                "hu": "Esős kezdés a téren; igyál egy kávét a közelben, és tartsd nyitva az esernyőt.",
+                "ro": "Un început umed de zi; ia o cafea în apropiere și ține umbrela deschisă.",
+                "en": "A wet start to the day; grab a coffee nearby and keep your umbrella open."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich zu trocknen und den schönen Altar abseits des Regens zu bewundern.",
+                "hu": "Lépj be, hogy megszáradj, és csodáld meg a gyönyörű oltárt az eső elől menedéket találva.",
+                "ro": "Intră pentru a te usca și a admira frumosul altar departe de ploaie.",
+                "en": "Step inside to dry off and admire the beautiful altarpiece away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz von Ille-sur-Têt",
+                "hu": "Ille-sur-Têt menhely",
+                "ro": "Hospiciul din Ille-sur-Têt",
+                "en": "Hospice of Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Aktivität an Regentagen; erkunden Sie die Ausstellungen im Innenbereich.",
+                "hu": "Tökéletes esős napi program; tölts időt a benti múzeumi kiállítások felfedezésével.",
+                "ro": "Activitate perfectă pentru zile ploioase; explorează expozițiile interioare ale muzeului.",
+                "en": "Perfect rainy day activity; spend time exploring the indoor museum exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgues d'Ille-sur-Têt",
+                "hu": "Orgues d'Ille-sur-Têt",
+                "ro": "Orgues d'Ille-sur-Têt",
+                "en": "Orgues d'Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Der Regen färbt die Lehmsäulen dunkler, aber die Wege sind sehr matschig – tragen Sie feste Stiefel.",
+                "hu": "Az eső sötétebbé teszi az agyagtornyokat, de az ösvények sárosak – viselj vízálló bakancsot.",
+                "ro": "Ploaia face stâlpii de argilă mai întunecați, dar potecile devin noroioase – poartă cizme impermeabile.",
+                "en": "The rain makes the clay pillars darker, but the paths get extremely muddy—wear sturdy waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderspielplatz",
+                "hu": "Gyermekpark",
+                "ro": "Parcul copiilor",
+                "en": "Children's Park"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte sind nass, genießen Sie stattdessen einen kurzen Spaziergang unter den Bäumen.",
+                "hu": "A játékok vizesek lesznek, így inkább egy rövid sétát tegyél a fák alatt.",
+                "ro": "Echipamentele vor fi ude, așa că bucură-te de o scurtă plimbare sub copaci.",
+                "en": "Equipment will be wet, so enjoy a brief stroll under the trees instead of playing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Platz, bevor Kirche und Hospiz zum Aufwärmen einladen. Die Nachmittagswanderung zu den Orgues bietet klare Luft und tolles Winterlicht. Beenden Sie den Tag im Park, bevor die frühe Dämmerung gegen 17 Uhr Kälte bringt.",
+            "hu": "A fagyos reggel a téren indul, majd a történelmi templom és a menhely falai között melegedhetünk fel. A délutáni túra az Orgues-hoz tiszta levegőt és gyönyörű téli fényeket kínál. Sötétedés előtt, délután 5 körül érünk a parkba.",
+            "ro": "Dimineața geroasă începe în piață, urmată de încălzire în biserică și hospiciu. Drumeția de după-amiază spre Orgues oferă aer curat și lumini de iarnă spectaculoase. Încheie la parc înainte ca apusul timpuriu de la ora 17:00 să aducă frigul.",
+            "en": "A frosty morning starts at the square, warming up inside the historic church and hospice. The afternoon hike to the Orgues offers crisp air and spectacular winter light. Wrap up at the park before the early sunset around 5 PM brings a sharp chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Rhin et Danube",
+                "hu": "Square Rhin et Danube",
+                "ro": "Piața Rhin et Danube",
+                "en": "Square Rhin et Danube"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger offener Platz am Morgen; tragen Sie warme Handschuhe und eine dicke Jacke.",
+                "hu": "Fagyos, nyitott tér reggel; viselj meleg kesztyűt és vastag kabátot.",
+                "ro": "O piață deschisă și geroasă dimineața; poartă mănuși călduroase și o haină groasă.",
+                "en": "A frosty open square in the morning; wear warm gloves and a heavy coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, aber sie blockieren den eisigen Winterwind draußen.",
+                "hu": "A vastag falak tartják a hideget, de legalább felfognak minden fagyos téli szelet.",
+                "ro": "Pereții groși mențin frigul, dar blochează complet vânturile înghețate de iarnă din exterior.",
+                "en": "The thick walls retain the cold, but it blocks the freezing winter winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz von Ille-sur-Têt",
+                "hu": "Ille-sur-Têt menhely",
+                "ro": "Hospiciul din Ille-sur-Têt",
+                "en": "Hospice of Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier richtig auf, während Sie in die faszinierende regionale Geschichte eintauchen.",
+                "hu": "Melegedj fel itt rendesen, miközben elmerülsz a régió lenyűgöző történelmében.",
+                "ro": "Încălzește-te bine aici în timp ce descoperi istoria regională fascinantă.",
+                "en": "Warm up properly here while diving into the fascinating regional history."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgues d'Ille-sur-Têt",
+                "hu": "Orgues d'Ille-sur-Têt",
+                "ro": "Orgues d'Ille-sur-Têt",
+                "en": "Orgues d'Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Die tief stehende Wintersonne wirft unglaubliche Schatten auf die Felsen. Ziehen Sie sich im Zwiebellook an.",
+                "hu": "Az alacsony téli nap elképesztő árnyékokat vet a sziklákra. Öltözz rétegesen.",
+                "ro": "Soarele de iarnă creează umbre incredibile pe formațiunile stâncoase. Îmbracă-te în straturi.",
+                "en": "The low winter sun creates incredible shadows on the rock formations. Dress in layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderspielplatz",
+                "hu": "Gyermekpark",
+                "ro": "Parcul copiilor",
+                "en": "Children's Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch schnell, bevor der frühe Sonnenuntergang gegen 17 Uhr die Temperatur senkt.",
+                "hu": "Fejezd be gyorsan, mielőtt a korai, 5 óra körüli naplemente miatt drasztikusan lehűl a levegő.",
+                "ro": "Termină repede înainte ca apusul timpuriu din jurul orei 17:00 să scadă brusc temperatura.",
+                "en": "Finish up quickly before the early sunset around 5 PM drops the temperature."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros nap a pezsgő városközpontban indul, ahol a főtéren és a történelmi templomban ízlelheti meg a helyi bájokat. Dél körül tekerjen át a lenyűgöző múzeumba, majd egy rövid úttal érje el az Orgues geológiai csodáit. A délutáni szellő a szőlőültetvények között megbúvó, eldugott Saint-Maurice kápolnához vezet. Ahogy közeledik az este, kerékpározzon a gyönyörű Lac de Vinça felé, amely tökéletes hely a vízparti pihenéshez naplemente idején.",
         "ro": "Ziua de ciclism începe în centrul vibrant, unde veți experimenta farmecul local la piața principală și veți vizita biserica istorică. În jurul prânzului, pedalați către muzeul impresionant, urmat de o scurtă plimbare către minunile geologice ale Orgues. Briza după-amiezii vă va ghida spre capela retrasă Saint-Maurice, o bijuterie ascunsă. Seara, îndreptați-vă spre frumosul Lac de Vinça, un loc perfect pentru a vă relaxa lângă apă la apusul soarelui.",
         "en": "Your cycling day starts in the vibrant town center, where you will experience the local charm at the main square and visit the historic Saint-Étienne church. Around midday, pedal over to the impressive museum at the former hospice, followed by a short ride to the spectacular geological wonders of the Orgues. The afternoon breeze will guide you to the secluded Saint-Maurice Chapel, a hidden gem among the vineyards. As evening approaches, cycle towards the beautiful Lac de Vinça, a perfect spot to relax by the water as the sun sets behind the mountains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt startet am Platz mit schnellen Fluchten in Kirche und Museum. Vorsicht auf rutschigem Kopfsteinpflaster! Die Fahrt zu den Orgues, der Kapelle und dem Lac de Vinça erfordert gute Regenkleidung und Vorsicht bei Nässe.",
+            "hu": "A reggeli tekerés után a templom és a múzeum fedett menedéket ad. Vigyázz a csúszós macskakövekre! A délutáni út az Orgues, a kápolna és a Vinça-tó felé óvatosságot igényel. Viselj láthatósági esőkabátot, a tó esőben is misztikus.",
+            "ro": "Plimbarea matinală pe bicicletă începe în piață, cu refugii în biserică și muzeu. Atenție la piatra cubică alunecoasă! Călătoria spre Orgues, capelă și Lacul Vinça necesită prudență. Poartă pelerină de ploaie și bucură-te de lacul cețos.",
+            "en": "Morning riding starts at the square with quick escapes into the church and museum. Beware of slippery cobblestones! The afternoon pedal to the Orgues, chapel, and Lac de Vinça requires caution. Wear bright rain gear and expect misty lake views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Rhin et Danube",
+                "hu": "Square Rhin et Danube",
+                "ro": "Piața Rhin et Danube",
+                "en": "Square Rhin et Danube"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig in die nasse Fahrt; das Pflaster am Platz kann rutschig sein.",
+                "hu": "Kezdd óvatosan a vizes tekerést; a tér körüli burkolat csúszós lehet.",
+                "ro": "Începe cursa umedă cu grijă; pavajul din jurul pieței poate fi alunecos.",
+                "en": "Start your wet ride carefully; the pavement around the square can be slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad ab und suchen Sie drinnen Schutz, um die Architektur zu bewundern.",
+                "hu": "Tedd le a biciklit és keress menedéket bent, csodáld meg a lenyűgöző építészetet.",
+                "ro": "Parchează bicicleta și adăpostește-te înăuntru pentru a admira arhitectura.",
+                "en": "Park your bike and take shelter inside to admire the beautiful architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz von Ille-sur-Têt",
+                "hu": "Ille-sur-Têt menhely",
+                "ro": "Hospiciul din Ille-sur-Têt",
+                "en": "Hospice of Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad draußen ab und genießen Sie eine lange, trockene Kulturpause im Museum.",
+                "hu": "Zárd le a kerékpárt kint, és élvezz egy hosszú, száraz kulturális szünetet a múzeumban.",
+                "ro": "Leagă bicicleta afară și bucură-te de o pauză culturală uscată în interiorul muzeului.",
+                "en": "Lock up outside and enjoy a long, dry cultural break inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgues d'Ille-sur-Têt",
+                "hu": "Orgues d'Ille-sur-Têt",
+                "ro": "Orgues d'Ille-sur-Têt",
+                "en": "Orgues d'Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Der unbefestigte Zugang kann matschig sein; schieben Sie das Rad vielleicht das letzte Stück.",
+                "hu": "A burkolatlan megközelítés sáros lehet; fontold meg, hogy az utolsó szakaszon tolod a biciklit.",
+                "ro": "Accesul neasfaltat poate fi noroios; ia în considerare să împingi bicicleta pe ultima porțiune.",
+                "en": "The unpaved approach might be muddy; consider walking your bike the last stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Maurice",
+                "hu": "Saint-Maurice kápolna",
+                "ro": "Capela Saint-Maurice",
+                "en": "Saint-Maurice Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt zum Durchatmen unter den Bäumen. Achten Sie auf rutschiges Laub.",
+                "hu": "Rövid megálló a fák alatt. Ügyelj a csúszós falevelekre a kerékpárút mentén.",
+                "ro": "O scurtă oprire pentru a-ți trage sufletul sub copaci. Fii atent la frunzele alunecoase.",
+                "en": "A brief stop to catch your breath under the trees. Keep an eye out for slippery leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vinça",
+                "hu": "Lac de Vinça",
+                "ro": "Lacul Vinça",
+                "en": "Lac de Vinça"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt mystisch im Regen. Schalten Sie für die neblige Rückfahrt das Fahrradlicht ein.",
+                "hu": "A tó misztikus az esőben. A ködös visszaúton mindenképp kapcsold be a kerékpárlámpát.",
+                "ro": "Lacul arată mistic în ploaie. Asigură-te că luminile bicicletei sunt aprinse pentru întoarcerea cețoasă.",
+                "en": "The lake looks mystical in the rain. Ensure your bike lights are on for the misty ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Winterfahrt beginnt am Platz, bevor Sie sich in Kirche und Hospiz aufwärmen. Die Fahrt zu den Orgues und zur Kapelle bietet tolle Weitsicht. Erreichen Sie den Lac de Vinça rechtzeitig zur Goldenen Stunde vor dem frühen Sonnenuntergang.",
+            "hu": "A fagyos téli tekerés a téren indul, majd a templomban és a menhelyen melegedhetsz fel. Az Orgues és a kápolna felé vezető úton tiszta a levegő. A Vinça-tóhoz még a korai, 5 órás naplemente előtt érkezz meg a gyönyörű aranyóráért!",
+            "ro": "Ciclismul de iarnă începe în piață, cu pauze de încălzire în biserică și hospiciu. Drumul spre Orgues și capelă oferă o vizibilitate excelentă. Ajungi la Lacul Vinça exact la timp pentru ora de aur, înainte de apusul timpuriu de la 17:00.",
+            "en": "A brisk winter ride starts at the square, warming up in the church and hospice. The afternoon pedal to the Orgues and chapel offers stunning visibility. Reach Lac de Vinça just in time for the golden hour before the freezing 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Rhin et Danube",
+                "hu": "Square Rhin et Danube",
+                "ro": "Piața Rhin et Danube",
+                "en": "Square Rhin et Danube"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft begrüßt Sie; tragen Sie winddichte Fahrradhandschuhe.",
+                "hu": "A csípős téli levegőben elengedhetetlen a szélálló kerékpáros kesztyű.",
+                "ro": "Aerul tăios de iarnă te întâmpină; asigură-te că porți mănuși de ciclism rezistente la vânt.",
+                "en": "Crisp winter air greets you; make sure you wear windproof cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom Wind und bewundern Sie die beeindruckenden Details der Kirche.",
+                "hu": "Pihenj meg a szél elől, és csodáld meg a templom lenyűgöző belső részleteit.",
+                "ro": "Ia o pauză de la vânt și admiră detaliile interioare uimitoare ale bisericii.",
+                "en": "Take a break from the wind and admire the stunning interior details of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz von Ille-sur-Têt",
+                "hu": "Ille-sur-Têt menhely",
+                "ro": "Hospiciul din Ille-sur-Têt",
+                "en": "Hospice of Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um die Finger aufzutauen und die lokale Geschichte kennenzulernen, bevor es weitergeht.",
+                "hu": "Kiváló hely, hogy felmelegítsd az ujjaidat és megismerd a helyi történelmet a továbbút előtt.",
+                "ro": "Un loc excelent pentru a-ți dezgheța degetele și a învăța despre istoria locală.",
+                "en": "A great place to thaw your fingers and learn about local history before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgues d'Ille-sur-Têt",
+                "hu": "Orgues d'Ille-sur-Têt",
+                "ro": "Orgues d'Ille-sur-Têt",
+                "en": "Orgues d'Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne trifft wunderschön auf die Felsen. Der Radweg ist frisch, ziehen Sie sich warm an.",
+                "hu": "A téli nap gyönyörűen süti a sziklákat. Az út frissítő, így öltözz rétegesen.",
+                "ro": "Soarele de iarnă lovește frumos stâncile. Pista de biciclete este răcoroasă, așa că îmbracă-te în straturi.",
+                "en": "The winter sun hits the rocks beautifully. The cycling path is brisk, so keep layered up."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Maurice",
+                "hu": "Saint-Maurice kápolna",
+                "ro": "Capela Saint-Maurice",
+                "en": "Saint-Maurice Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Winterhalt. Die kahlen Bäume bieten eine klare Sicht auf die umliegenden Hügel.",
+                "hu": "Csendes téli megálló. A lombtalan fák tiszta kilátást nyújtanak a környező dombokra.",
+                "ro": "O oprire liniștită de iarnă. Copacii fără frunze oferă vederi clare ale dealurilor înconjurătoare.",
+                "en": "A quiet winter stop. The leafless trees offer clear views of the surrounding hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vinça",
+                "hu": "Lac de Vinça",
+                "ro": "Lacul Vinça",
+                "en": "Lac de Vinça"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um den wunderschönen Wintersonnenuntergang über dem kalten See zu sehen.",
+                "hu": "Érkezz délután 5 előtt, hogy elcsípd a gyönyörű téli naplementét a hideg tó felett.",
+                "ro": "Ajungi înainte de ora 17:00 pentru a surprinde apusul superb de iarnă peste lacul rece.",
+                "en": "Arrive before 5 PM to catch the gorgeous winter sunset over the cold lake."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Indítsa autós kirándulását Ille-sur-Têt szívében, körbejárva a központi teret, a klasszikus templomot és a történelmi menhelyen kialakított regionális múzeumot. Késő délelőtt vezessen a híres Orgues d'Ille-sur-Têt-hez, hogy megcsodálja a természet által formált hatalmas homokoszlopokat. A délutáni autózás festői tájakon át a békés Saint-Maurice kápolnához és a hatalmas Lac de Vinça-hoz vezet. Zárja a kalandot északra a Lac de Caramany-nál, élvezve a nyugodt naplementét.",
         "ro": "Începeți excursia cu mașina în inima orașului Ille-sur-Têt, vizitând rapid piața centrală, biserica clasică și muzeul regional din fostul spital. Spre sfârșitul dimineții, conduceți la faimoasele Orgues d'Ille-sur-Têt pentru a admira stâlpii uriași de nisip. După-amiaza, drumul vă poartă prin peisaje pitorești până la liniștita capelă Saint-Maurice și la întinsul Lac de Vinça. Încheiați aventura conducând spre Lac de Caramany pentru un apus liniștit pe malul apei.",
         "en": "Kick off your road trip in the heart of Ille-sur-Têt, quickly touring the central square, the classic church, and the profound regional museum housed in the historic hospice. By late morning, drive to the famous Orgues d'Ille-sur-Têt to marvel at the towering sand pillars shaped by nature. The afternoon drive takes you through picturesque landscapes to the serene Saint-Maurice Chapel and the expansive Lac de Vinça. Finish your adventure driving north to Lac de Caramany, enjoying spectacular waterfront views and a tranquil sunset far from the crowds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vom nassen Platz zu den trockenen Innenräumen von Kirche und Hospiz. Nachmittags bieten Orgues und Kapelle stimmungsvolle Ausblicke, während die nassen, kurvigen Straßen zu den Seen von Vinça und Caramany vorsichtiges Fahren erfordern.",
+            "hu": "Az esős térről autózz a száraz templomhoz és a menhelyhez. Délután az Orgues és a kápolna misztikus látványt nyújt. A Vinça és Caramany tavakhoz vezető kanyargós utakon vezess óvatosan, és élvezd az autóból a drámai tájat.",
+            "ro": "Condu din piața ploioasă către interioarele uscate ale bisericii și hospiciului. După-amiaza la Orgues și capelă oferă priveliști melancolice, iar drumurile șerpuite spre lacurile Vinça și Caramany necesită prudență pe carosabilul umed.",
+            "en": "Drive from the rainy square to the dry interiors of the church and hospice in the morning. Afternoon drives to the Orgues and chapel offer moody views, while the winding roads to Lac de Vinça and Caramany require careful driving in the wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Rhin et Danube",
+                "hu": "Square Rhin et Danube",
+                "ro": "Piața Rhin et Danube",
+                "en": "Square Rhin et Danube"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie über den nassen Platz, um ein Heißgetränk zu holen.",
+                "hu": "Parkolj a közelben, és fuss át a vizes téren egy forró italért.",
+                "ro": "Parchează în apropiere și traversează rapid piața umedă pentru o băutură caldă.",
+                "en": "Park nearby and dash across the wet square to grab a hot drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus leicht erreichbar und bietet einen schönen, trockenen Zufluchtsort vor dem Regen.",
+                "hu": "Az autóból könnyen megközelíthető, gyönyörű, száraz menedéket kínál az eső elől.",
+                "ro": "Ușor accesibil din mașină, oferind un sanctuar frumos și uscat departe de ploaie.",
+                "en": "Easily accessible from your car, offering a beautiful, dry sanctuary from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz von Ille-sur-Têt",
+                "hu": "Ille-sur-Têt menhely",
+                "ro": "Hospiciul din Ille-sur-Têt",
+                "en": "Hospice of Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Innenausstellungen; der Parkplatz ist nah genug, um nicht zu nass zu werden.",
+                "hu": "Élvezd a benti kiállításokat; a parkoló elég közel van, így nem fogsz nagyon elázni.",
+                "ro": "Bucură-te de expozițiile interioare; parcarea este suficient de aproape pentru a nu te uda prea tare.",
+                "en": "Enjoy the indoor exhibitions; the parking is close enough to avoid getting too wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgues d'Ille-sur-Têt",
+                "hu": "Orgues d'Ille-sur-Têt",
+                "ro": "Orgues d'Ille-sur-Têt",
+                "en": "Orgues d'Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Der unbefestigte Parkplatz kann matschig sein. Bringen Sie einen Regenschirm für den kurzen Weg mit.",
+                "hu": "A kövezetlen parkoló sáros lehet. Vigyél esernyőt a kilátókhoz vezető rövid sétához.",
+                "ro": "Parcarea neasfaltată poate fi noroioasă. Ia o umbrelă pentru scurta plimbare spre punctele de belvedere.",
+                "en": "The unpaved parking might be muddy. Bring an umbrella for the short walk to the viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Maurice",
+                "hu": "Saint-Maurice kápolna",
+                "ro": "Capela Saint-Maurice",
+                "en": "Saint-Maurice Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Landstraßen hier können bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie die Stimmung.",
+                "hu": "Az itteni vidéki utak esőben csúszósak lehetnek; vezess óvatosan, és élvezd a borongós kilátást.",
+                "ro": "Drumurile de țară de aici pot fi alunecoase pe ploaie; condu cu atenție și bucură-te de priveliște.",
+                "en": "The country roads here can be slick in the rain; drive carefully and enjoy the moody view."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vinça",
+                "hu": "Lac de Vinça",
+                "ro": "Lacul Vinça",
+                "en": "Lac de Vinça"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den Zufahrtsstraßen. Der Regen über dem See ist sehr stimmungsvoll.",
+                "hu": "Figyelj a tócsákra a bekötőutakon. Az eső a tó felett rendkívül hangulatos.",
+                "ro": "Atenție la bălți pe drumurile de acces. Ploaia deasupra lacului este foarte atmosferică.",
+                "en": "Watch for puddles on the approach roads. The rain over the lake is highly atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Caramany",
+                "hu": "Lac de Caramany",
+                "ro": "Lacul Caramany",
+                "en": "Lac de Caramany"
+              },
+              "tip_5lang": {
+                "de": "Eine malerische Fahrt im Regen. Lassen Sie die Scheinwerfer an und die Scheibenwischer auf den kurvigen Straßen laufen.",
+                "hu": "Festői autózás esőben. Kapcsold be a fényszórót és az ablaktörlőt a kanyargós tóparti utakon.",
+                "ro": "O plimbare pitorească pe ploaie. Ține farurile aprinse și ștergătoarele pornite pe drumurile șerpuite.",
+                "en": "A scenic rainy drive. Keep your headlights on and wipers going on the winding lake roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bleiben Sie im warmen Auto, während Sie vom frostigen Platz zu Kirche und Hospiz fahren. Nachmittags locken Orgues und Kapelle unter klarem Winterhimmel. Beenden Sie den Tag an den Seen von Vinça und Caramany vor dem frühen Sonnenuntergang.",
+            "hu": "Maradj melegben az autóban, miközben a fagyos térről a történelmi templomhoz és a menhelyhez vezetsz. Délután az Orgues és a kápolna csodás téli égbolttal vár. A napot a Vinça és Caramany tavak korai naplementés látványával zárd.",
+            "ro": "Stai la căldură în mașină în drum de la piața geroasă spre biserica istorică și hospiciu. După-amiaza la Orgues și capelă are un cer de iarnă senin. Încheie cu apusul timpuriu deasupra lacurilor înghețate Vinça și Caramany.",
+            "en": "Stay warm in the car moving from the frosty square to the historic church and hospice. The afternoon drive to the Orgues and chapel features stunning crisp skies. Conclude with early golden hour drives around the icy lakes of Vinça and Caramany."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Rhin et Danube",
+                "hu": "Square Rhin et Danube",
+                "ro": "Piața Rhin et Danube",
+                "en": "Square Rhin et Danube"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihr Auto früh auf; der frostige Platz ist schön, aber sehr kalt für einen Spaziergang.",
+                "hu": "Melegítsd be az autót időben; a fagyos tér gyönyörű, de nagyon hideg a sétáláshoz.",
+                "ro": "Încălzește mașina devreme; piața geroasă este frumoasă, dar foarte rece pentru plimbări.",
+                "en": "Warm up your car early; the frosty square is beautiful but very cold to wander around."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Sprint vom Auto in das atemberaubende historische Kirchenschiff.",
+                "hu": "Egy rövid, fagyos sprint az autótól a lenyűgöző történelmi hajóig.",
+                "ro": "O fugă scurtă și rece de la mașină în uimitoarea navă istorică.",
+                "en": "A short, cold dash from the car into the stunning historic nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz von Ille-sur-Têt",
+                "hu": "Ille-sur-Têt menhely",
+                "ro": "Hospiciul din Ille-sur-Têt",
+                "en": "Hospice of Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den dicken Mantel im Auto, während Sie das warme Innenmuseum erkunden.",
+                "hu": "Hagyd a vastag kabátot az autóban, amíg felfedezed a meleg, benti múzeumot.",
+                "ro": "Lasă haina groasă în mașină în timp ce explorezi muzeul cald din interior.",
+                "en": "Leave your heavy coat in the car while you explore the warm, indoor museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgues d'Ille-sur-Têt",
+                "hu": "Orgues d'Ille-sur-Têt",
+                "ro": "Orgues d'Ille-sur-Têt",
+                "en": "Orgues d'Ille-sur-Têt"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tief und verleiht den Felsen ein magisches Leuchten. Ziehen Sie sich warm an.",
+                "hu": "Télen a nap alacsonyan jár, varázslatos fényt adva a szikláknak. Öltözz melegen a rövid sétához.",
+                "ro": "Soarele stă jos iarna, oferind stâncilor o strălucire magică. Îmbracă-te gros pentru plimbarea scurtă.",
+                "en": "The sun stays low in winter, giving the rocks a magical glow. Dress warmly for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Maurice",
+                "hu": "Saint-Maurice kápolna",
+                "ro": "Capela Saint-Maurice",
+                "en": "Saint-Maurice Chapel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, frische Winteraussicht aus Ihrem beheizten Autofenster.",
+                "hu": "Élvezd a tiszta, ropogós téli kilátást a fűtött autó ablakából.",
+                "ro": "Bucură-te de priveliștile clare și proaspete de iarnă de la fereastra mașinii încălzite.",
+                "en": "Enjoy the clear, crisp winter views from your heated car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vinça",
+                "hu": "Lac de Vinça",
+                "ro": "Lacul Vinça",
+                "en": "Lac de Vinça"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Berge sind oft schneebedeckt und bieten eine spektakuläre Fahrkulisse.",
+                "hu": "A környező hegyek gyakran hósapkásak, lenyűgöző látványt nyújtva vezetés közben.",
+                "ro": "Munții din jur sunt adesea acoperiți de zăpadă, oferind peisaje spectaculoase de condus.",
+                "en": "The surrounding mountains are often snow-capped, offering spectacular driving scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Caramany",
+                "hu": "Lac de Caramany",
+                "ro": "Lacul Caramany",
+                "en": "Lac de Caramany"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Fahrt so, dass Sie den Sonnenuntergang gegen 17 Uhr über dem eisigen Seewasser erleben.",
+                "hu": "Időzítsd úgy az utat, hogy elcsípd a délután 5 órai naplementét a fagyos tó vize felett.",
+                "ro": "Programează-ți drumul pentru a prinde apusul din jurul orei 17:00 deasupra apelor înghețate.",
+                "en": "Time your drive to catch the sunset around 5 PM over the icy lake waters."
+              }
+            }
+          ]
+        }
       }
     }
   }

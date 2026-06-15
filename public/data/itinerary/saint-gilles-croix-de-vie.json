@@ -160,6 +160,196 @@
         "hu": "Reggel: Kezdje a reggelt a történelmi utcák bejárásával és a helyi templomok megcsodálásával.\n\nDélben: Délben a város gazdag tengerészeti és kulturális öröksége várja felfedezésre.\n\nDélután: Délután a tengeri szellő hívogat a homokos partokra egy kis pihenésre.\n\nEste: Zárja a napot a békés Atlanti-óceán felett visszatükröződő naplemente lenyűgöző látványával.",
         "ro": "Dimineața: Începeți dimineața plimbându-vă pe străzile istorice și admirând bisericile locale.\n\nLa prânz: Sunteți invitați să descoperiți bogatul patrimoniu maritim și cultural al orașului.\n\nDupă-amiaza: Briza vă atrage spre țărmurile de nisip fin pentru o relaxare binemeritată.\n\nSeara: Încheiați-vă ziua privind apusul reflectat minunat în apele liniștite ale Atlanticului.",
         "en": "Morning: Begin your morning wandering through historic streets and admiring local churches.\n\nMidday: Midday invites you to uncover the city's rich maritime and cultural heritage.\n\nAfternoon: Afternoon breezes call you towards the pristine sandy shores for relaxation.\n\nEvening: Wrap up your day watching the sunset reflecting peacefully over the calm Atlantic waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Saint-Gilles-Kirche einen trockenen Rückzugsort. Mittags führt der Weg durch den Square Jean-Marcel Couradette, wobei man auf rutschige Wege achten sollte. Nachmittags ist das Henry Simon Haus ideal, um drinnen Kunst zu genießen. Den Abend verbringt man am Grande Plage, wo die tosende, regenverhangene See ein dramatisches und beeindruckendes Schauspiel bietet.",
+            "hu": "Reggel a Saint-Gilles templom nyújt menedéket az eső elől. Délben a Square Jean-Marcel Couradette parkban sétálunk, figyelve a csúszós utakra. Délután a Henry Simon ház belső terei tartanak szárazon, miközben elmélyülünk a művészetben. Este a Grande Plage partján a viharos tenger látványa kárpótol a borús időért; érdemes egy fedett teraszról figyelni a hullámokat.",
+            "ro": "Dimineața, Biserica Saint-Gilles oferă un adăpost uscat împotriva ploii. La prânz, plimbarea prin Square Jean-Marcel Couradette necesită atenție la aleile alunecoase. După-amiaza, Casa Henry Simon este locul perfect pentru a rămâne la interior și a admira arta. Seara, Grande Plage oferă un spectacol dramatic al mării sub ploaie, ideal de privit de sub o protecție adecvată.",
+            "en": "Morning starts with the dry shelter of Saint-Gilles Church. At noon, the walk through Square Jean-Marcel Couradette requires care on slippery paths. Afternoon is best spent inside the Henry Simon House, enjoying art while staying dry. Evening at Grande Plage offers a dramatic view of the rainy Atlantic; a sturdy umbrella is essential for this atmospheric coastal experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gilles Church",
+                "hu": "Saint-Gilles Church",
+                "ro": "Saint-Gilles Church",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum der Kirche als trockenen Unterschlupf und bewundern Sie die Details der Glasfenster während des Regenschauers.",
+                "hu": "Használja ki a templom belső terét menedékként az eső elől, és csodálja meg a színes üvegablakokat, amíg kint elvonul a zápor.",
+                "ro": "Folosiți interiorul splendid al bisericii ca refugiu împotriva ploii și admirați detaliile vitraliilor în timp ce așteptați să se domolească precipitațiile.",
+                "en": "Use the church's magnificent interior as a dry refuge from the rain and admire the detailed stained glass while waiting for the shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Square Jean-Marcel Couradette",
+                "hu": "Square Jean-Marcel Couradette",
+                "ro": "Square Jean-Marcel Couradette",
+                "en": "Square Jean-Marcel Couradette"
+              },
+              "tip_5lang": {
+                "de": "Die gepflegten Wege können bei Nässe etwas rutschig sein; suchen Sie unter den dichten Baumkronen Schutz vor dem leichtem Nieseln.",
+                "hu": "A gondozott ösvények nedvesen csúszósak lehetnek; keressen menedéket a sűrűbb lombkoronák alatt a szemerkélő eső elől a rövid pihenő alatt.",
+                "ro": "Aleile îngrijite pot fi alunecoase când sunt ude; căutați adăpost sub coroanele dese ale copacilor pentru a vă proteja de burnița ușoară.",
+                "en": "The manicured paths can be slightly slippery when wet; seek shelter under the thick tree canopies for a short break from the light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Croix Church",
+                "hu": "Sainte-Croix Church",
+                "ro": "Sainte-Croix Church",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur bietet eine beruhigende Atmosphäre an einem grauen Regentag; ideal, um kurz innezuhalten und die Akustik zu genießen.",
+                "hu": "A letisztult építészet nyugodt légkört áraszt a szürke esős napon; ideális helyszín egy rövid pihenőre, ahol élvezheti a belső tér akusztikáját.",
+                "ro": "Arhitectura sobră oferă o atmosferă liniștitoare într-o zi cenușie de vară; locul este ideal pentru a reflecta și a vă bucura de acustica sălii.",
+                "en": "The sober architecture provides a calming atmosphere on a grey rainy day; it is an ideal spot to pause and enjoy the indoor acoustics."
+              }
+            },
+            {
+              "name": {
+                "de": "Henry Simon House",
+                "hu": "Henry Simon House",
+                "ro": "Henry Simon House",
+                "en": "Henry Simon House"
+              },
+              "tip_5lang": {
+                "de": "Dieses Künstlerhaus ist der perfekte Ort für einen längeren Aufenthalt im Trockenen; erkunden Sie die Ateliers und lassen Sie sich inspirieren.",
+                "hu": "Ez a művészház tökéletes helyszín egy hosszabb szárazon töltött programhoz; fedezze fel a műtermeket és merítsen ihletet az alkotásokból.",
+                "ro": "Această casă de artist este locul perfect pentru a petrece mai mult timp la adăpost; explorați atelierele și lăsați-vă inspirat de lucrări.",
+                "en": "This artist's house is the perfect place for an extended stay indoors; explore the studios and get inspired by the works while it pours."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite plage",
+                "hu": "Petite plage",
+                "ro": "Petite plage",
+                "en": "Petite plage"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen wirkt der kleine Strand verlassen und mystisch; tragen Sie feste Gummistiefel für einen kurzen Spaziergang auf dem feuchten Sand.",
+                "hu": "Esőben a kis strand elhagyatott és misztikus arcát mutatja; viseljen gumicsizmát egy rövid sétához a vizes homokban a sziklák mentén.",
+                "ro": "Pe ploaie, mica plajă pare pustie și mistică; purtați cizme de cauciuc pentru o scurtă plimbare pe nisipul ud de-a lungul stâncilor.",
+                "en": "In the rain, this small beach appears deserted and mystical; wear waterproof boots for a short walk on the wet sand along the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Grande Plage",
+                "en": "Grande Plage"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das beeindruckende Spiel der Wellen von der Uferpromenade aus und halten Sie Ihren Regenschirm wegen des starken Küstenwindes gut fest.",
+                "hu": "Figyelje a hullámok lenyűgöző játékát a parti sétányról, és fogja erősen az esernyőjét az erős tengerparti szél miatt a nap végén.",
+                "ro": "Urmăriți jocul impresionant al valurilor de pe faleză și țineți bine umbrela din cauza vântului puternic de pe coastă la finalul zilei.",
+                "en": "Watch the impressive play of the waves from the promenade and hold your umbrella firmly against the strong coastal wind at the day's end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Saint-Gilles-Kirche. Mittags bietet der Square Jean-Marcel Couradette eine ruhige, fast private Atmosphäre. Nachmittags wärmt man sich im Henry Simon Haus auf, bevor man zum Petite plage spaziert. Den Tag schließt man am Grande Plage ab, um den frühen Sonnenuntergang gegen 17:00 Uhr in warmen Kleidungsschichten zu bewundern.",
+            "hu": "A téli reggel frissen indul a Saint-Gilles templomnál. Délben a Square Jean-Marcel Couradette park csendes, szinte privát hangulatot áraszt a kevés látogatóval. Délután a Henry Simon ház belső melege várja, mielőtt a Petite plage felé venné az irányt. A napot a Grande Plage-on zárjuk, élvezve a korai, 17:00 körüli naplementét meleg rétegekbe burkolózva.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la Biserica Saint-Gilles. La prânz, Square Jean-Marcel Couradette oferă o atmosferă liniștită, cu puțini vizitatori. După-amiaza, interiorul călduros al Casei Henry Simon este primitor înainte de a merge spre plajă. Încheiați ziua la Grande Plage pentru a vedea apusul timpuriu de la ora 17:00, bine îmbrăcați.",
+            "en": "The winter morning starts crisp at Saint-Gilles Church. At noon, Square Jean-Marcel Couradette offers a quiet, almost private atmosphere with few visitors. Afternoon warmth is found inside the Henry Simon House before heading to Petite plage. End the day at Grande Plage to witness the early 5:00 PM sunset, wrapped in warm layers against the sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gilles Church",
+                "hu": "Saint-Gilles Church",
+                "ro": "Saint-Gilles Church",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Morgen, um die kühle Stille zu genießen und die kunstvollen Altäre ohne die sommerlichen Touristenmassen zu betrachten.",
+                "hu": "Látogassa meg a templomot kora reggel, hogy élvezze a hűvös csendet és megcsodálja az oltárokat a nyári turistatömeg nélkül.",
+                "ro": "Vizitați biserica dimineața devreme pentru a vă bucura de liniștea răcoroasă și pentru a admira altarele fără mulțimile de turiști din vară.",
+                "en": "Visit the church early in the morning to enjoy the cool silence and admire the ornate altars without the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Square Jean-Marcel Couradette",
+                "hu": "Square Jean-Marcel Couradette",
+                "ro": "Square Jean-Marcel Couradette",
+                "en": "Square Jean-Marcel Couradette"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang durch den winterlichen Park hält warm; achten Sie auf die kahle, aber dennoch charmante Struktur der schlafenden Natur.",
+                "hu": "Egy tempós séta a téli parkban melegen tartja; figyelje meg az alvó természet kopár, mégis bájos szerkezetét a déli világításban.",
+                "ro": "O plimbare vioaie prin parcul de iarnă vă va menține căldura; observați structura golașă, dar fermecătoare, a naturii aflate în repaus.",
+                "en": "A brisk walk through the winter park keeps you warm; observe the bare but charming structure of the sleeping nature in the midday light."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Croix Church",
+                "hu": "Sainte-Croix Church",
+                "ro": "Sainte-Croix Church",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "In der Wintersonne leuchtet die Fassade besonders hell; nutzen Sie den geschützten Eingangsbereich für eine kurze Pause im Windschatten.",
+                "hu": "A téli napsütésben a homlokzat különösen fehéren ragyog; használja ki a védett bejárati részt egy rövid szélvédett pihenőre.",
+                "ro": "În lumina soarelui de iarnă, fațada strălucește deosebit de alb; folosiți zona protejată de la intrare pentru o scurtă pauză la adăpost de vânt.",
+                "en": "In the winter sun, the facade glows particularly bright; use the protected entrance area for a short break out of the wind's path."
+              }
+            },
+            {
+              "name": {
+                "de": "Henry Simon House",
+                "hu": "Henry Simon House",
+                "ro": "Henry Simon House",
+                "en": "Henry Simon House"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume sind eine ideale Zuflucht vor der Kälte; lassen Sie sich Zeit, die farbenfrohen Werke als Kontrast zum Wintergrau zu sehen.",
+                "hu": "A fűtött kiállítóterek ideális menedéket nyújtanak a hideg elől; szánjon időt a színes művek megtekintésére a kinti szürkeség ellenpontjaként.",
+                "ro": "Sălile de expoziție încălzite oferă un refugiu ideal împotriva frigului; acordați-vă timp pentru a vedea lucrările colorate ca contrast la cenușiul iernii.",
+                "en": "The heated exhibition spaces offer an ideal refuge from the cold; take your time to view the colorful works as a contrast to the winter grey."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite plage",
+                "hu": "Petite plage",
+                "ro": "Petite plage",
+                "en": "Petite plage"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft am Meer ist besonders belebend; ziehen Sie eine winddichte Jacke an, um die klare Sicht auf den Horizont ohne Dunst zu genießen.",
+                "hu": "A téli tengeri levegő különösen frissítő; vegyen fel szélálló kabátot, hogy élvezhesse a tiszta kilátást a párátlan távoli horizontra.",
+                "ro": "Aerul marin de iarnă este deosebit de revigorant; purtați o jachetă rezistentă la vânt pentru a vă bucura de vizibilitatea clară spre orizont.",
+                "en": "The winter sea air is particularly invigorating; wear a windproof jacket to enjoy the clear view of the horizon without the summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Grande Plage",
+                "en": "Grande Plage"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie rechtzeitig eintreffen, um das goldene Licht auf dem winterlichen Sand zu erleben.",
+                "hu": "Mivel a nap már 17:00 körül lemegy, érkezzen időben, hogy láthassa az aranyló fényeket a téli homokos tengerparton.",
+                "ro": "Deoarece soarele apune deja în jurul orei 17:00, sosiți la timp pentru a vedea luminile aurii pe nisipul plajei pustii de iarnă.",
+                "en": "Since the sun sets around 5:00 PM, arrive early enough to catch the golden light on the winter sand before the evening chill sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel: Kezdje a reggelt a történelmi utcák bejárásával és a helyi templomok megcsodálásával.\n\nDélben: Délben a város gazdag tengerészeti és kulturális öröksége várja felfedezésre.\n\nDélután: Délután a tengeri szellő hívogat a homokos partokra egy kis pihenésre.\n\nEste: Zárja a napot a békés Atlanti-óceán felett visszatükröződő naplemente lenyűgöző látványával.",
         "ro": "Dimineața: Începeți dimineața plimbându-vă pe străzile istorice și admirând bisericile locale.\n\nLa prânz: Sunteți invitați să descoperiți bogatul patrimoniu maritim și cultural al orașului.\n\nDupă-amiaza: Briza vă atrage spre țărmurile de nisip fin pentru o relaxare binemeritată.\n\nSeara: Încheiați-vă ziua privind apusul reflectat minunat în apele liniștite ale Atlanticului.",
         "en": "Morning: Begin your morning wandering through historic streets and admiring local churches.\n\nMidday: Midday invites you to uncover the city's rich maritime and cultural heritage.\n\nAfternoon: Afternoon breezes call you towards the pristine sandy shores for relaxation.\n\nEvening: Wrap up your day watching the sunset reflecting peacefully over the calm Atlantic waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet geschützt im Sardine Atelier. Mittags geht es zur Saint-Gilles-Kirche, wobei Vorsicht bei nassen Straßen geboten ist. Der Mini-golf du Petit Bois wird trotz Regen besucht, wobei die Bäume etwas Schutz bieten. Den Tag beschließt man an der Küste, wo die salzige Gischt und der Regen eins werden – eine Herausforderung für wetterfeste Radfahrer.",
+            "hu": "A kerékpártúra védett helyen, a Sardine Atelierben indul. Délben a Saint-Gilles templom felé vesszük az irányt, óvatosan haladva a vizes aszfalton. A Mini-golf du Petit Bois-t esőben is útba ejtjük, a fák némi fedezéket nyújtanak. A napot a parton zárjuk, ahol a sós tengeri permet és az eső eggyé válik – igazi kihívás a kitartó bringásoknak.",
+            "ro": "Turul cu bicicleta începe protejat la Sardine Atelier. La prânz ne îndreptăm spre Biserica Saint-Gilles, pedalând cu grijă pe asfaltul ud. Mini-golf du Petit Bois este vizitat chiar și pe ploaie, arborii oferind puțină protecție. Încheiem ziua pe coastă, unde spray-ul marin sărat și ploaia se contopesc – o provocare pentru bicicliștii echipați corespunzător.",
+            "en": "The bike tour starts sheltered at Sardine Atelier. At noon, head to Saint-Gilles Church, cycling carefully on wet asphalt. Mini-golf du Petit Bois is visited despite the rain, with trees providing some cover. The day ends on the coast where salt spray and rain merge – a refreshing challenge for well-equipped cyclists with waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sardine Atelier",
+                "hu": "Sardine Atelier",
+                "ro": "Sardine Atelier",
+                "en": "Sardine Atelier"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich und verbringen Sie die Regenzeit damit, die faszinierende Geschichte der Konservenherstellung zu entdecken.",
+                "hu": "Parkolja le kerékpárját a fedett részen, és töltse az esős időt a konzervgyártás lenyűgöző történetének felfedezésével a múzeumban.",
+                "ro": "Parcați bicicleta în zona acoperită și petreceți timpul ploios descoperind istoria fascinantă a conservării sardinelor în muzeu.",
+                "en": "Park your bike in the covered area and spend the rainy time discovering the fascinating history of canning sardines inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Church",
+                "hu": "Saint-Gilles Church",
+                "ro": "Saint-Gilles Church",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Marktplatzpflastersteine vor der Kirche; nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Vigyázzon a templom előtti csúszós macskakövekre; bent használja ki az időt a vizes esőkabát megrázására és egy rövid pihenőre.",
+                "ro": "Atenție la pavajul alunecos din fața bisericii; folosiți timpul în interior pentru a vă scutura pelerina de ploaie și pentru un scurt repaus.",
+                "en": "Watch out for the slippery cobblestones in front of the church; use the time inside to shake off your raincoat and take a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini-golf du Petit Bois",
+                "hu": "Mini-golf du Petit Bois",
+                "ro": "Mini-golf du Petit Bois",
+                "en": "Mini-golf du Petit Bois"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten zwar etwas Schutz, aber die Bahnen können nass sein; ein schnelles Spiel macht auch bei leichtem Nieselregen Spaß.",
+                "hu": "A fák némi védelmet nyújtanak, de a pályák vizesek lehetnek; egy gyors játék még szemerkélő esőben is szórakoztató lehet a szabadban.",
+                "ro": "Copacii oferă o oarecare protecție, dar pistele pot fi ude; un joc rapid poate fi distractiv chiar și pe o ploaie ușoară de vară.",
+                "en": "The trees offer some protection, but the tracks may be wet; a quick game can still be fun even in light drizzle under the canopy."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Grande Plage",
+                "en": "Grande Plage"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang des Strandes ist bei Regen oft menschenleer; genießen Sie die Einsamkeit, aber passen Sie auf starken Seitenwind auf.",
+                "hu": "A strand menti kerékpárút esőben gyakran néptelen; élvezze a magányt, de ügyeljen az erős oldalszélre a nyitott partszakaszon.",
+                "ro": "Pista de biciclete de-a lungul plajei este adesea pustie pe ploaie; bucurați-vă de singurătate, dar atenție la vântul lateral puternic.",
+                "en": "The bike path along the beach is often deserted in the rain; enjoy the solitude but watch out for strong crosswinds on the open stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pelle à Porteau",
+                "hu": "La Pelle à Porteau",
+                "ro": "La Pelle à Porteau",
+                "en": "La Pelle à Porteau"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können bei Regen sehr glatt sein; bleiben Sie auf den befestigten Radwegen und genießen Sie die Aussicht aus sicherer Distanz.",
+                "hu": "A sziklák esőben nagyon csúszósak lehetnek; maradjon a kijelölt kerékpárúton, és élvezze a kilátást biztonságos távolságból a part felett.",
+                "ro": "Stâncile pot fi foarte alunecoase pe ploaie; rămâneți pe pista de biciclete și bucurați-vă de priveliște de la o distanță sigură.",
+                "en": "The rocks can be very slippery in the rain; stay on the paved bike paths and enjoy the view from a safe distance above the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bussoleries",
+                "hu": "Les Bussoleries",
+                "ro": "Les Bussoleries",
+                "en": "Les Bussoleries"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour zügig, wenn der Regen zunimmt; die felsige Küste bietet hier wenig Unterstand für Radfahrer bei schwerem Unwetter.",
+                "hu": "Zárja le gyorsan a túrát, ha erősödik az eső; a sziklás part itt kevés menedéket nyújt a kerékpárosoknak komolyabb vihar esetén.",
+                "ro": "Încheiați turul rapid dacă ploaia se intensifică; malul stâncos oferă puțin adăpost bicicliștilor în caz de furtună serioasă.",
+                "en": "Wrap up your tour quickly if the rain intensifies; the rocky shore offers little shelter for cyclists during heavier storms at the day's end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start im Sardine Atelier wärmt die Muskeln für die Weiterfahrt auf. Mittags erkunden Sie die Stadt per Rad, wobei die Saint-Gilles-Kirche ein schöner Halt ist. Nachmittags fordern der Wind und die Kälte am Grande Plage heraus. Den Tag beendet man an der wilden Küste von Les Bussoleries, bevor das Licht gegen 17:00 Uhr schwindet – reflektierende Kleidung ist ein Muss.",
+            "hu": "A Sardine Ateliertől indulva a hűvös időben bemelegednek az izmok a tekeréshez. Délben a várost fedezzük fel, érintve a Saint-Gilles templomot. Délután a szél és a hideg kihívást jelent a Grande Plage mentén. A napot Les Bussoleries vad partján zárjuk, mielőtt 17:00 körül elmegy a fény – a fényvisszaverő ruházat kötelező.",
+            "ro": "Un început răcoros la Sardine Atelier vă încălzește mușchii pentru drum. La prânz explorăm orașul pe bicicletă, cu o oprire la Biserica Saint-Gilles. După-amiaza, vântul și frigul sunt o provocare pe lângă Grande Plage. Încheiați ziua pe coasta sălbatică de la Les Bussoleries înainte ca lumina să dispară la 17:00 – hainele reflectorizante sunt obligatorii.",
+            "en": "A cool start at Sardine Atelier warms your muscles for the ride ahead. At noon, explore the town by bike with a nice stop at Saint-Gilles Church. Afternoon winds and chill offer a challenge along Grande Plage. End the day at the wild coast of Les Bussoleries before light fades around 5:00 PM – reflective gear and lights are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sardine Atelier",
+                "hu": "Sardine Atelier",
+                "ro": "Sardine Atelier",
+                "en": "Sardine Atelier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch am Morgen, um sich aufzuwärmen, bevor Sie sich der frischen Winterbrise auf dem Fahrrad stellen.",
+                "hu": "Használja ki a reggeli múzeumlátogatást a bemelegedésre, mielőtt szembenézne a friss téli szellővel a kerékpáron a kikötő mentén.",
+                "ro": "Folosiți vizita la muzeu de dimineață pentru a vă încălzi înainte de a înfrunta briza rece de iarnă pe bicicletă de-a lungul portului.",
+                "en": "Use the morning museum visit to warm up properly before facing the fresh winter breeze on your bike along the harbor front."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Church",
+                "hu": "Saint-Gilles Church",
+                "ro": "Saint-Gilles Church",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten die Kälte draußen; ideal für eine Pause, um die Finger wieder aufzuwärmen und kurz durchzuatmen.",
+                "hu": "A templom vastag falai kint tartják a fagyos szelet; ideális helyszín egy pihenőre, hogy felmelegítse ujjait és kifújja magát.",
+                "ro": "Zidurile groase ale bisericii țin frigul afară; locul este ideal pentru o pauză pentru a vă încălzi degetele și a vă trage sufletul.",
+                "en": "The church's thick walls keep the freezing wind out; it is an ideal spot for a break to warm up your fingers and catch your breath."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini-golf du Petit Bois",
+                "hu": "Mini-golf du Petit Bois",
+                "ro": "Mini-golf du Petit Bois",
+                "en": "Mini-golf du Petit Bois"
+              },
+              "tip_5lang": {
+                "de": "Der Golfplatz ist im Winter oft geschlossen; nutzen Sie den angrenzenden Waldweg für eine geschützte Fahrt im Windschatten der Bäume.",
+                "hu": "A golfpálya télen gyakran zárva tart; használja a szomszédos erdei utat egy szélvédett tekeréshez a fák jótékony takarásában.",
+                "ro": "Terenul de golf este adesea închis iarna; folosiți drumul forestier adiacent pentru o pedalare protejată la adăpostul copacilor.",
+                "en": "The golf course is often closed in winter; use the adjacent forest path for a protected ride sheltered from the wind by the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Grande Plage",
+                "en": "Grande Plage"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig gegen den Wind, um die Körpertemperatur zu halten; die klare Winterluft bietet eine fantastische Weitsicht auf den Ozean.",
+                "hu": "Tekerjen tempósan a széllel szemben, hogy fenntartsa testhőmérsékletét; a tiszta téli levegő fantasztikus kilátást nyújt az óceánra.",
+                "ro": "Pedalați vioi împotriva vântului pentru a menține temperatura corpului; aerul curat de iarnă oferă o vizibilitate fantastică spre ocean.",
+                "en": "Ride briskly against the wind to maintain your body temperature; the clear winter air offers a fantastic long-distance view of the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pelle à Porteau",
+                "hu": "La Pelle à Porteau",
+                "ro": "La Pelle à Porteau",
+                "en": "La Pelle à Porteau"
+              },
+              "tip_5lang": {
+                "de": "Die Sonnenstrahlen am Nachmittag glitzern auf den eisigen Felsen; halten Sie kurz an, um das Naturschauspiel zu bewundern, aber bleiben Sie in Bewegung.",
+                "hu": "A délutáni napsugarak megcsillannak a jeges sziklákon; álljon meg egy pillanatra megcsodálni a látványt, de maradjon mozgásban a hideg ellen.",
+                "ro": "Razele soarelui de după-amiază strălucesc pe stâncile reci; opriți-vă scurt pentru a admira spectacolul, dar rămâneți în mișcare contra frigului.",
+                "en": "The afternoon sun rays glisten on the cold rocks; stop briefly to admire the natural spectacle, but keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bussoleries",
+                "hu": "Les Bussoleries",
+                "ro": "Les Bussoleries",
+                "en": "Les Bussoleries"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das schwindende Licht und schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein, bevor Sie den Rückweg von der Küste antreten.",
+                "hu": "Ügyeljen a fogyó fényre, és kapcsolja be időben a kerékpárlámpát, mielőtt elindulna visszafelé a sötétedő tengerpartról.",
+                "ro": "Atenție la lumina care scade și aprindeți din timp luminile bicicletei înainte de a porni pe drumul de întoarcere de pe coastă.",
+                "en": "Watch the fading light and turn on your bike lights early before heading back from the darkening coast as the temperature drops quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel: Kezdje a reggelt a történelmi utcák bejárásával és a helyi templomok megcsodálásával.\n\nDélben: Délben a város gazdag tengerészeti és kulturális öröksége várja felfedezésre.\n\nDélután: Délután a tengeri szellő hívogat a homokos partokra egy kis pihenésre.\n\nEste: Zárja a napot a békés Atlanti-óceán felett visszatükröződő naplemente lenyűgöző látványával.",
         "ro": "Dimineața: Începeți dimineața plimbându-vă pe străzile istorice și admirând bisericile locale.\n\nLa prânz: Sunteți invitați să descoperiți bogatul patrimoniu maritim și cultural al orașului.\n\nDupă-amiaza: Briza vă atrage spre țărmurile de nisip fin pentru o relaxare binemeritată.\n\nSeara: Încheiați-vă ziua privind apusul reflectat minunat în apele liniștite ale Atlanticului.",
         "en": "Morning: Begin your morning wandering through historic streets and admiring local churches.\n\nMidday: Midday invites you to uncover the city's rich maritime and cultural heritage.\n\nAfternoon: Afternoon breezes call you towards the pristine sandy shores for relaxation.\n\nEvening: Wrap up your day watching the sunset reflecting peacefully over the calm Atlantic waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem im trockenen Marktplatz Les Halles. Mittags führt die Fahrt zum Circuit vélo, wobei man die Landschaft sicher vom Auto aus betrachtet. Nachmittags bietet das Sardine Atelier eine ausgiebige, überdachte Kulturpause. Zum Abschluss fährt man zur felsigen Küste, um die stürmische See geschützt durch die Windschutzscheibe zu beobachten.",
+            "hu": "A nap kényelmesen, a fedett Les Halles piacon indul. Délben a Circuit vélo környékére látogatunk, a tájat az autó biztonságából szemlélve. Délután a Sardine Atelier nyújt bőséges, fedett kulturális programot. Végül a sziklás parthoz autózunk, hogy a szélvédő mögül, szárazon figyeljük a viharos tenger hullámait.",
+            "ro": "Ziua începe confortabil în piața acoperită Les Halles. La prânz, mergem spre Circuit vélo, observând peisajul în siguranță din mașină. După-amiaza, Sardine Atelier oferă o pauză culturală prelungită la interior. La final, conducem spre coasta stâncoasă pentru a urmări marea învolburată din spatele parbrizului.",
+            "en": "The day starts comfortably at the covered Les Halles market. At noon, drive towards Circuit vélo, enjoying the landscape from the safety of your car. Afternoon offers an extensive indoor cultural break at Sardine Atelier. Finally, drive to the rocky coast to observe the stormy sea while staying dry and warm behind the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Halles Covered Market",
+                "hu": "Les Halles Covered Market",
+                "ro": "Les Halles Covered Market",
+                "en": "Les Halles Covered Market"
+              },
+              "tip_5lang": {
+                "de": "Das Auto kann in der Nähe geparkt werden, sodass Sie den Marktbesuch völlig trocken genießen und lokale Spezialitäten probieren können.",
+                "hu": "Az autóval közvetlenül a közelben parkolhat, így teljesen szárazon élvezheti a piaci forgatagot és kóstolhatja meg a helyi finomságokat.",
+                "ro": "Mașina poate fi parcată chiar în apropiere, astfel încât să vă bucurați de vizita la piață complet uscat și să gustați specialitățile locale.",
+                "en": "The car can be parked nearby, allowing you to enjoy the market visit completely dry while tasting local delicacies and fresh produce."
+              }
+            },
+            {
+              "name": {
+                "de": "Circuit vélo",
+                "hu": "Circuit vélo",
+                "ro": "Circuit vélo",
+                "en": "Circuit vélo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand und genießen Sie den Blick auf die grünen Wiesen, ohne im strömenden Regen nass zu werden.",
+                "hu": "Parkoljon le rövid időre az út mentén, és élvezze a kilátást a zöldellő rétekre anélkül, hogy bőrig ázna a szakadó esőben.",
+                "ro": "Parcați scurt pe marginea drumului și bucurați-vă de vederea spre pajiștile verzi fără a vă uda în ploaia torențială de afară.",
+                "en": "Park briefly by the roadside and enjoy the view of the lush green meadows without getting soaked in the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sardine Atelier",
+                "hu": "Sardine Atelier",
+                "ro": "Sardine Atelier",
+                "en": "Sardine Atelier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausführlichen Museumsbesuch; im Auto lassen sich nasse Schirme und Mäntel bequem verstauen.",
+                "hu": "Használja ki az esőszünetet egy alapos múzeumlátogatásra; az autóban kényelmesen elhelyezheti a vizes esernyőket és kabátokat a tárlat előtt.",
+                "ro": "Folosiți pauza de ploaie pentru o vizită detaliată la muzeu; în mașină puteți lăsa confortabil umbrelele și pelerinele ude înainte de tur.",
+                "en": "Take advantage of the rain for a detailed museum visit; you can conveniently store wet umbrellas and coats in the car before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Croix Church",
+                "hu": "Sainte-Croix Church",
+                "ro": "Sainte-Croix Church",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche führt Sie in einen Ort der Stille und Trockenheit, ideal zum Innehalten bei grauem Wetter.",
+                "hu": "Egy rövid futás a parkolótól a templomig egy csendes és száraz menedékbe vezet, amely ideális a pihenésre a szürke időben.",
+                "ro": "Un scurt sprint de la parcare până la biserică vă duce într-un loc liniștit și uscat, ideal pentru reculegere pe vreme cenușie.",
+                "en": "A short sprint from the parking spot to the church leads you into a place of silence and dryness, ideal for a pause during grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Club de plage",
+                "hu": "Club de plage",
+                "ro": "Club de plage",
+                "en": "Club de plage"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Außenaktivitäten eingeschränkt; genießen Sie den Blick auf den Strand gemütlich aus der warmen Fahrgastzelle Ihres Autos.",
+                "hu": "Esőben a szabadtéri tevékenységek korlátozottak; élvezze a tengerparti kilátást kényelmesen az autója meleg utasteréből figyelve a partot.",
+                "ro": "Pe ploaie, activitățile în aer liber sunt limitate; bucurați-vă de priveliștea plajei confortabil din habitaclul cald al mașinii dumneavoastră.",
+                "en": "In the rain, outdoor activities are limited; enjoy the coastal view comfortably from the warm interior of your car while watching the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bussoleries",
+                "hu": "Les Bussoleries",
+                "ro": "Les Bussoleries",
+                "en": "Les Bussoleries"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Küste wirkt im Regen besonders rau; parken Sie mit Blick auf den Ozean und lassen Sie den Tag entspannt und trocken ausklingen.",
+                "hu": "A sziklás part esőben különösen zordnak tűnik; parkoljon le az óceánra néző helyen, és zárja a napot pihentetően, szárazon az autóban.",
+                "ro": "Coasta stâncoasă pare deosebit de aspră pe ploaie; parcați cu vedere la ocean și încheiați ziua relaxat și uscat în mașină.",
+                "en": "The rocky coast looks particularly rugged in the rain; park with a view of the ocean and end the day relaxed and dry inside the vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag per Auto startet im lebhaften Les Halles Markt. Mittags führt eine Panoramafahrt entlang der Küste zum Circuit vélo. Nachmittags wärmt man sich im Sardine Atelier und in der Sainte-Croix-Kirche auf. Den Tag beendet man mit dem Blick auf den frühen Sonnenuntergang bei Les Bussoleries, wobei die Autoheizung für wohlige Wärme sorgt.",
+            "hu": "A téli autós nap a nyüzsgő Les Halles piacon indul. Délben egy panorámaút vezet a part mentén a Circuit vélo felé. Délután a Sardine Atelier és a Sainte-Croix templom belső tereiben melegszünk fel. A napot a Les Bussoleries korai naplementéjével zárjuk, miközben az autó fűtése gondoskodik a kellemes melegről.",
+            "ro": "Ziua de iarnă cu mașina începe în piața animată Les Halles. La prânz, o plimbare panoramică pe coastă vă duce spre Circuit vélo. După-amiaza, ne încălzim în interiorul Sardine Atelier și al Bisericii Sainte-Croix. Încheiați ziua cu apusul timpuriu la Les Bussoleries, încălzirea mașinii asigurând un confort sporit.",
+            "en": "The winter day by car starts at the lively Les Halles market. At noon, a scenic drive along the coast leads to Circuit vélo. Afternoon warmth is found inside Sardine Atelier and Sainte-Croix Church. End the day watching the early sunset at Les Bussoleries, while the car heater provides cozy comfort against the chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Halles Covered Market",
+                "hu": "Les Halles Covered Market",
+                "ro": "Les Halles Covered Market",
+                "en": "Les Halles Covered Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Markt am Morgen, um sich mit warmen Snacks einzudecken, die Sie später während der Fahrt genießen können.",
+                "hu": "Használja ki a reggeli piacot, hogy beszerezzen néhány meleg harapnivalót, amit később az autóban, a túra közben is elfogyaszthat.",
+                "ro": "Folosiți piața de dimineață pentru a vă aproviziona cu gustări calde, pe care le puteți savura ulterior în mașină în timpul turului.",
+                "en": "Use the morning market to stock up on warm snacks that you can enjoy later in the car while exploring the scenic winter routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Circuit vélo",
+                "hu": "Circuit vélo",
+                "ro": "Circuit vélo",
+                "en": "Circuit vélo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, winterliche Landschaft bei einer entspannten Fahrt; die klare Luft sorgt für eine exzellente Sicht aus dem Autofenster.",
+                "hu": "Élvezze a tágas, téli tájat egy pihentető autózás közben; a tiszta levegő kiváló látási viszonyokat biztosít az autó ablakából is.",
+                "ro": "Bucurați-vă de peisajul vast de iarnă în timpul unei plimbări relaxante cu mașina; aerul curat asigură o vizibilitate excelentă prin geam.",
+                "en": "Enjoy the vast, wintery landscape during a relaxing drive; the clear air provides excellent visibility from your car window across the fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Sardine Atelier",
+                "hu": "Sardine Atelier",
+                "ro": "Sardine Atelier",
+                "en": "Sardine Atelier"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm geheizt und weniger überlaufen; nehmen Sie sich Zeit für die Exponate ohne Zeitdruck durch Hitze.",
+                "hu": "A múzeum télen kellemesen fűtött és kevésbé zsúfolt; szánjon időt a kiállítási tárgyak megtekintésére a nyári hőség okozta sürgetés nélkül.",
+                "ro": "Muzeul este încălzit plăcut iarna și mai puțin aglomerat; acordați-vă timp pentru exponate fără graba cauzată de canicula verii.",
+                "en": "The museum is pleasantly heated and less crowded in winter; take your time to examine the exhibits without the rush of summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Croix Church",
+                "hu": "Sainte-Croix Church",
+                "ro": "Sainte-Croix Church",
+                "en": "Sainte-Croix Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort, um die Ruhe der Nebensaison zu spüren und sich kurz aufzuwärmen, bevor es weitergeht.",
+                "hu": "Látogasson el erre a történelmi helyszínre, hogy átérezze a holtszezon nyugalmát és rövid időre felmelegedjen, mielőtt továbbhajtana a partra.",
+                "ro": "Vizitați acest loc istoric pentru a simți liniștea din extrasezon și pentru a vă încălzi scurt înainte de a porni mai departe spre coastă.",
+                "en": "Visit this historic site to feel the peace of the low season and warm up briefly before continuing your drive towards the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Club de plage",
+                "hu": "Club de plage",
+                "ro": "Club de plage",
+                "en": "Club de plage"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade und genießen Sie den Blick auf den einsamen Strand, während Sie bei laufender Heizung im Auto verweilen.",
+                "hu": "Parkoljon közvetlenül a sétányon, és élvezze az elhagyatott tengerpart látványát, miközben az autó fűtése mellett pihen a délutáni fényben.",
+                "ro": "Parcați chiar pe faleză și bucurați-vă de vederea spre plaja pustie, în timp ce vă odihniți în mașină la căldură în lumina după-amiezii.",
+                "en": "Park right on the promenade and enjoy the view of the deserted beach while resting in the warmth of your car in the afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bussoleries",
+                "hu": "Les Bussoleries",
+                "ro": "Les Bussoleries",
+                "en": "Les Bussoleries"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, bietet der Parkplatz hier die perfekte Position für ein privates Sonnenuntergangs-Kino aus dem warmen Auto heraus.",
+                "hu": "Mivel korán sötétedik, az itt található parkoló tökéletes helyszínt biztosít egy privát naplemente-mozihoz a meleg autóból figyelve.",
+                "ro": "Deoarece se întunecă devreme, parcarea de aici oferă poziția perfectă pentru un spectacol privat de apus din mașina călduroasă.",
+                "en": "As it gets dark early, the parking area here offers the perfect spot for a private sunset viewing from the comfort of your warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Saint-Hernot vallási örökségének felfedezésével, majd merüljön el a régió geológiai múltjában a helyi múzeumban.\n\nDélben egy túra elviszi a tájban rejlő ősi megalitikus helyszínekre.\n\nA délutánt a vad tengerparti strandokon töltheti, ahol szörfösök lovagolják meg a hullámokat.\n\nZárja sétáját egy festői dolmen békés meglátogatásával a nap végén.",
         "ro": "Începeți dimineața explorând patrimoniul religios din Saint-Hernot înainte de a descoperi trecutul geologic la muzeu.\n\nLa prânz, o drumeție vă duce la siturile megalitice antice ascunse în peisaj.\n\nPetreceți după-amiaza minunându-vă de plajele sălbatice de coastă unde surferii prind valurile.\n\nÎncheiați-vă plimbarea cu o vizită liniștită la un dolmen pitoresc la sfârșitul zilei.",
         "en": "Start your morning exploring the religious heritage of Saint-Hernot before diving into the region's geological past at the local museum.\n\nBy midday, a gentle hike takes you to ancient megalithic sites hidden in the landscape.\n\nSpend the afternoon marveling at the wild coastal beaches where surfers ride the waves.\n\nConclude your walk with a peaceful visit to a scenic dolmen as the day ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Kapelle, während der Regen gegen die alten Mauern trommelt. Mittags bietet das Mineralienmuseum einen perfekten trockenen Zufluchtsort, um die Geologie der Region zu erkunden. Am Nachmittag führt der Weg trotz Nässe zu den Dolmen, wobei die glitschigen Pfade Vorsicht erfordern. Den Abend lassen wir bei der mystischen Stimmung am Rostudel-Dolmen ausklingen, eingehüllt in wetterfeste Kleidung.",
+            "hu": "A reggel a kápolna védelmében indul, miközben az eső kopog az ősi falakon. Délben az Ásványok Háza nyújt tökéletes fedett menedéket, ahol szárazon ismerkedhetünk a félsziget kincseivel. Délután a vizes ösvényeken haladunk a dolmenek felé, figyelve a csúszós talajra a tengerparti szélben. Az estét Rostudel szikláinál zárjuk, ahol a ködös idő különleges, misztikus hangulatot áraszt a megalitok köré.",
+            "ro": "Dimineața începe la adăpostul capelei, în timp ce ploaia bate în zidurile vechi. La prânz, Muzeul Mineralelor oferă refugiul perfect la interior pentru a explora geologia peninsulei. După-amiaza continuăm spre dolmene pe poteci umede, fiind atenți la terenul alunecos sub vântul de coastă. Seara se încheie într-o atmosferă mistică la dolmenul Rostudel, protejați de haine impermeabile sub cerul plumburiu.",
+            "en": "The morning begins under the shelter of the chapel as rain drums against the ancient stone walls. At noon, the House of Minerals provides a perfect indoor refuge to explore the peninsula's geological treasures. The afternoon walk continues toward the dolmens on wet paths, requiring extra caution on the slippery ground. The evening concludes with a mystical atmosphere at the Rostudel dolmen, wrapped in waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Hernot",
+                "hu": "Chapelle Saint-Hernot",
+                "ro": "Chapelle Saint-Hernot",
+                "en": "Chapelle Saint-Hernot"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster im Inneren, die bei Regenlicht besonders stimmungsvoll leuchten; nutzen Sie die Vorhalle als trockenen Sammelpunkt.",
+                "hu": "Csodáld meg a színes üvegablakokat, amelyek az esős fényben különlegesen fénylenek; a bejárati csarnok kiváló hely a felszerelés rendezésére.",
+                "ro": "Admirați vitraliile care strălucesc deosebit în lumina difuză de ploaie; folosiți pridvorul ca punct de întâlnire uscat înainte de a porni la drum.",
+                "en": "Admire the stained glass windows that glow uniquely in the rainy light; use the porch as a dry gathering point before setting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Minéraux",
+                "hu": "Maison des Minéraux",
+                "ro": "Maison des Minéraux",
+                "en": "Maison des Minéraux"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort bei Schmuddelwetter; entdecken Sie die fluoreszierenden Steine und lassen Sie Ihre Regenjacke im Garderobenbereich abtropfen.",
+                "hu": "Ez a múzeum a legjobb hely rossz idő esetén; fedezd fel a fluoreszkáló ásványokat, és használd ki a ruhatárat a vizes kabátok megszárítására.",
+                "ro": "Acest muzeu este locul ideal pe vreme rea; descoperiți pietrele fluorescente și lăsați pelerinele de ploaie la garderobă pentru a se usca puțin.",
+                "en": "This museum is the ideal spot during bad weather; discover the fluorescent minerals and use the cloakroom area to let your rain gear dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Kerdreux",
+                "hu": "Dolmen de Kerdreux",
+                "ro": "Dolmen de Kerdreux",
+                "en": "Dolmen de Kerdreux"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Megalithen wirken im Regen noch imposanter; tragen Sie feste Wanderschuhe, da das Gras um die Steine herum sehr rutschig sein kann.",
+                "hu": "A hatalmas kőtömbök az esőben még lenyűgözőbb látványt nyújtanak; viselj bordázott talpú cipőt, mert a kövek körüli fű nagyon csúszóssá válik.",
+                "ro": "Megaliții masivi par și mai impunători în ploaie; purtați bocanci de munte, deoarece iarba din jurul pietrelor devine foarte alunecoasă.",
+                "en": "The massive megaliths look even more imposing in the rain; wear sturdy boots as the grass around the stones becomes very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palue",
+                "hu": "Plage de la Palue",
+                "ro": "Plage de la Palue",
+                "en": "Plage de la Palue"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung bei stürmischem Regenwetter; halten Sie ausreichend Abstand zum Wasser, da die Gischt weit landeinwärts weht.",
+                "hu": "Figyeld meg a drámai hullámtörést a viharos, esős időben; tarts biztonságos távolságot a víztől, mert a sós permet messzire behord a partra.",
+                "ro": "Observați valurile dramatice în timpul ploii furtunoase; păstrați o distanță sigură de apă, deoarece spuma mării este suflată mult spre țărm.",
+                "en": "Observe the dramatic surf during stormy rainy weather; keep a safe distance from the water as the sea spray is blown far inland."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Rostudel",
+                "hu": "Dolmen de Rostudel",
+                "ro": "Dolmen de Rostudel",
+                "en": "Dolmen de Rostudel"
+              },
+              "tip_5lang": {
+                "de": "Das Heidekraut um den Dolmen speichert viel Feuchtigkeit; eine wasserdichte Hose ist hier Gold wert, um die mystische Ruhe trocken zu genießen.",
+                "hu": "A dolmen körüli hanga sok nedvességet tart meg; egy vízhatlan nadrág itt kincset ér, hogy szárazon élvezhesd a hely misztikus nyugalmát.",
+                "ro": "Iarba neagră din jurul dolmenului reține multă umezeală; pantalonii impermeabili sunt esențiali aici pentru a savura liniștea mistică la uscat.",
+                "en": "The heather around the dolmen holds a lot of moisture; waterproof trousers are a lifesaver here to enjoy the mystical silence while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Luft in Saint-Hernot herrlich frisch. Mittags wärmen wir uns im Museum auf, während die tiefstehende Sonne die Landschaft in goldenes Licht taucht. Der Nachmittag bietet einsame Strandspaziergänge bei kühlem Wind, bevor um 17:00 Uhr die Dämmerung einsetzt. Den Abend verbringen wir bei den prähistorischen Stätten, die in der frühen Dunkelheit eine ganz besondere, stille Kraft ausstrahlen.",
+            "hu": "A tiszta téli reggelen a levegő frissítően hideg Saint-Hernot utcáin. Délben a múzeum melegében pihenünk meg, miközben az alacsonyan járó nap arany fénybe vonja a tájat. A délutáni séta a parton magányos és szeles, így a réteges öltözködés elengedhetetlen a 17 órai naplemente előtt. Az estét a megalitok közt zárjuk, melyek a korai sötétségben különleges, néma erőt sugároznak.",
+            "ro": "Într-o dimineață senină de iarnă, aerul este revigorant de rece în Saint-Hernot. La prânz ne încălzim în muzeu, în timp ce soarele jos scaldă peisajul într-o lumină aurie. După-amiaza oferă plimbări solitare pe plajă în vântul tăios, înainte ca amurgul să se lase la ora 17:00. Seara se încheie printre siturile preistorice, care emană o forță tăcută în întunericul timpuriu.",
+            "en": "On a clear winter morning, the air is refreshingly crisp in Saint-Hernot. At noon, we warm up in the museum while the low sun bathes the landscape in golden light. The afternoon offers solitary beach walks in the chilly wind before dusk sets in at 17:00. The evening concludes among the prehistoric sites, which radiate a special, silent power in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Hernot",
+                "hu": "Chapelle Saint-Hernot",
+                "ro": "Chapelle Saint-Hernot",
+                "en": "Chapelle Saint-Hernot"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz vor dem kalten Winterwind; genießen Sie die Ruhe des Ortes, aber behalten Sie Ihre warme Mütze wegen der Steinbodenkälte auf.",
+                "hu": "A kápolna jó menedéket nyújt a hideg téli szél elől; élvezd a hely csendjét, de tartsd magadon a meleg sapkát a kőpadló áradó hűvöse miatt.",
+                "ro": "Capela oferă un adăpost bun împotriva vântului rece de iarnă; bucurați-vă de liniște, dar păstrați căciula groasă din cauza frigului emanat de piatră.",
+                "en": "The chapel provides good shelter from the cold winter wind; enjoy the silence of the place, but keep your warm hat on due to the chill from the stone floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Minéraux",
+                "hu": "Maison des Minéraux",
+                "ro": "Maison des Minéraux",
+                "en": "Maison des Minéraux"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagshitze des beheizten Museums als Basisstation; die winterliche Beleuchtung der Exponate ist besonders kontrastreich und sehenswert.",
+                "hu": "Használd ki a fűtött múzeum melegét bázisállomásként; a tárlatok téli megvilágítása különösen kontrasztos és látványos a rövid nappalokon.",
+                "ro": "Folosiți căldura muzeului încălzit ca punct de relaxare; iluminarea de iarnă a exponatelor este deosebit de contrastantă și merită văzută.",
+                "en": "Use the warmth of the heated museum as a base station; the winter lighting of the exhibits is particularly high-contrast and worth seeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Kerdreux",
+                "hu": "Dolmen de Kerdreux",
+                "ro": "Dolmen de Kerdreux",
+                "en": "Dolmen de Kerdreux"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Megalithen; bringen Sie eine Taschenlampe für den Rückweg mit, da es ab 16:30 Uhr dämmert.",
+                "hu": "Az alacsony téli nap hosszú árnyékokat vet a megalitokra; vigyél magaddal zseblámpát a visszaúthoz, mert fél öttől már erősen szürkül az idő.",
+                "ro": "Soarele de iarnă aruncă umbre lungi peste megaliți; aduceți o lanternă pentru drumul de întoarcere, deoarece amurgul începe deja de la 16:30.",
+                "en": "The low winter sun casts long shadows on the megaliths; bring a flashlight for the return trip as twilight starts as early as 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palue",
+                "hu": "Plage de la Palue",
+                "ro": "Plage de la Palue",
+                "en": "Plage de la Palue"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Strand kann im Winter beißend kalt sein; tragen Sie eine winddichte Jacke und genießen Sie die spektakuläre Einsamkeit der wilden Küste.",
+                "hu": "A tengerparti szél télen metszően hideg lehet; viselj szélálló kabátot, és élvezd a vad partvidék látványos, téli magányát.",
+                "ro": "Vântul de pe plajă poate fi tăios de rece iarna; purtați o jachetă rezistentă la vânt și bucurați-vă de singurătatea spectaculoasă a coastei sălbatice.",
+                "en": "The beach wind can be bitingly cold in winter; wear a windproof jacket and enjoy the spectacular winter solitude of the wild coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Rostudel",
+                "hu": "Dolmen de Rostudel",
+                "ro": "Dolmen de Rostudel",
+                "en": "Dolmen de Rostudel"
+              },
+              "tip_5lang": {
+                "de": "Bei Sonnenuntergang gegen 17:00 Uhr leuchten die Steine rötlich; warme Thermounterwäsche ist für dieses späte Highlight der Tour absolut ratsam.",
+                "hu": "A 17 óra körüli naplementében a kövek vöröses színben izzanak; a meleg termofehérnemű elengedhetetlen ehhez a késői túraállomáshoz.",
+                "ro": "La apusul soarelui în jur de ora 17:00, pietrele capătă o nuanță roșiatică; lenjeria termică este esențială pentru acest punct final al turului.",
+                "en": "At sunset around 17:00, the stones glow with a reddish hue; warm thermal underwear is highly recommended for this late tour highlight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a csendes kápolnánál, majd tekerjen a vaskori erődítmény sziklái felé.\n\nDél körül guruljon le a zord, mégis gyönyörű strandokra, és érezze az erős atlanti szelet.\n\nDélután fedezze fel a parti ösvények mentén megbúvó történelem előtti dolmeneket.\n\nZárja utazását a helyi ásványmúzeumban, hogy teljes képet kapjon a terület természettörténetéről.",
         "ro": "Începeți turul cu bicicleta la capelă înainte de a pedala spre stâncile uluitoare ale fortăreței.\n\nÎn jurul prânzului, coborâți spre plajele frumos accidentate, simțind briza puternică a Atlanticului.\n\nDupă-amiaza, explorați dolmene preistorice ascunse de-a lungul traseelor de coastă.\n\nÎncheiați călătoria la muzeul de minerale pentru a înțelege istoria naturală a zonei.",
         "en": "Kick off your cycling tour at the quiet chapel before pedaling towards the breathtaking cliffs of the iron-age fortress.\n\nAround midday, roll down to the ruggedly beautiful beaches, feeling the strong Atlantic breeze.\n\nIn the afternoon, explore prehistoric dolmens tucked away along the coastal trails.\n\nWrap up the journey at the local mineral museum to fully grasp the area's natural history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet mit einer vorsichtigen Fahrt zur Kapelle auf regennassem Asphalt. Mittags radeln wir zur Pointe de Lostmarc'h, wo der Wind den Regen peitscht – Bremsen rechtzeitig prüfen! Nach einem kurzen Halt am stürmischen Strand suchen wir Schutz im Mineralienmuseum. Der Tag endet mit einer gemütlichen, wenn auch nassen Rückfahrt, bei der gute Beleuchtung und Schutzbleche unverzichtbar sind.",
+            "hu": "A kerékpártúra óvatos tekeréssel indul a kápolnához a vizes aszfalton. Délben Lostmarc'h fokához tekerünk, ahol a szél szinte vízszintesen hordja az esőt – teszteld a fékeket! A viharos tengerparti megálló után a múzeum fedett kiállításai jelentenek megváltást. A napot egy lassú, de vizes gurulással zárjuk, ahol a jó világítás és a sárvédő elengedhetetlen a biztonsághoz.",
+            "ro": "Turul cu bicicleta începe cu o pedalare prudentă spre capelă pe asfaltul ud. La prânz mergem spre vârful Lostmarc'h, unde vântul biciuiește ploaia – verificați frânele din timp! După o oprire scurtă pe plaja furtunoasă, căutăm adăpost în muzeul de minerale. Ziua se încheie cu o întoarcere lentă prin ploaie, unde iluminarea bună și apărătorile de noroi sunt indispensabile.",
+            "en": "The bike tour starts with careful pedaling to the chapel on rain-slicked asphalt. At noon, we cycle to Pointe de Lostmarc'h, where the wind whips the rain – check your brakes early! After a quick stop at the stormy beach, we seek shelter in the mineral museum. The day ends with a steady but wet ride back, where good lights and mudguards are essential for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Hernot",
+                "hu": "Chapelle Saint-Hernot",
+                "ro": "Chapelle Saint-Hernot",
+                "en": "Chapelle Saint-Hernot"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen ab und nutzen Sie den Kapelleneingang zum Umziehen der Regenbekleidung; Vorsicht auf der nassen Steintreppe.",
+                "hu": "Parkolj a fák alá, és használd a kápolna bejáratát az esőruházat megigazításához; légy óvatos a vizes és csúszós kőlépcsőkön.",
+                "ro": "Parcați bicicleta sub copaci și folosiți intrarea capelei pentru a vă ajusta hainele de ploaie; atenție la treptele de piatră ude.",
+                "en": "Park your bike under the trees and use the chapel entrance to adjust your rain gear; be careful on the wet and slippery stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h...",
+                "hu": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h...",
+                "ro": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h...",
+                "en": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h..."
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege zum Oppidum können schlammig sein; fahren Sie mit niedrigem Reifendruck für besseren Grip auf dem nassen Untergrund.",
+                "hu": "Az oppidumhoz vezető föutak sárosak lehetnek; használj alacsonyabb guminyomást a jobb tapadásért a vizes, földes szakaszon.",
+                "ro": "Drumurile neasfaltate spre oppidum pot fi noroioase; folosiți o presiune mai mică în pneuri pentru o aderență mai bună pe solul ud.",
+                "en": "The unpaved paths to the oppidum can be muddy; use lower tire pressure for better grip on the wet, earthy sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lost-Marc'h",
+                "hu": "Plage de Lost-Marc'h",
+                "ro": "Plage de Lost-Marc'h",
+                "en": "Plage de Lost-Marc'h"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt in den nassen Sand zu fahren; parken Sie oben am Weg und genießen Sie den Blick auf die raue See.",
+                "hu": "Kerüld el, hogy közvetlenül a vizes homokba hajts a biciklivel; parkolj fent az út szélén, és onnan csodáld a viharos óceánt.",
+                "ro": "Evitați să intrați cu bicicleta direct în nisipul ud; parcați sus la marginea drumului și admirați oceanul învolburat de acolo.",
+                "en": "Avoid riding your bike directly into the wet sand; park at the top of the path and admire the stormy ocean from there."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palue",
+                "hu": "Plage de la Palue",
+                "ro": "Plage de la Palue",
+                "en": "Plage de la Palue"
+              },
+              "tip_5lang": {
+                "de": "Der starke Küstenwind kann Radfahrer leicht aus dem Gleichgewicht bringen; halten Sie den Lenker bei Böen besonders fest und tragen Sie eine Brille.",
+                "hu": "Az erős tengerparti szél könnyen kibillenthet az egyensúlyból; markold erősen a kormányt a lökéseknél, és viselj szemüveget az eső ellen.",
+                "ro": "Vântul puternic de coastă vă poate dezechilibra ușor; țineți bine ghidonul la rafale și purtați ochelari împotriva ploii.",
+                "en": "Strong coastal winds can easily throw you off balance; grip the handlebars firmly during gusts and wear glasses against the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Kerdreux",
+                "hu": "Dolmen de Kerdreux",
+                "ro": "Dolmen de Kerdreux",
+                "en": "Dolmen de Kerdreux"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp bei den Steinen; achten Sie beim Absteigen auf den rutschigen Untergrund und prüfen Sie Ihre Bremsbeläge auf Schlammanhaftungen.",
+                "hu": "Rövid megálló a köveknél; leszálláskor ügyelj a csúszós talajra, és ellenőrizd, nem ragadt-e sár a fékpofák közé.",
+                "ro": "Oprire scurtă la pietre; atenție la solul alunecos când coborâți și verificați dacă nu a rămas noroi între saboții de frână.",
+                "en": "Short stop at the stones; watch out for slippery ground when dismounting and check if mud has got stuck between the brake pads."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Minéraux",
+                "hu": "Maison des Minéraux",
+                "ro": "Maison des Minéraux",
+                "en": "Maison des Minéraux"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort zum Aufwärmen und Trocknen am Ende der Tour; nutzen Sie die überdachten Fahrradständer, um Ihr Rad vor dem schlimmsten Regen zu schützen.",
+                "hu": "A túra végén ideális hely a bemelegedésre; használd a fedett kerékpártárolókat, hogy megóvd a biciklidet a szakadó esőtől.",
+                "ro": "Locul ideal pentru a vă încălzi la finalul turului; folosiți suporturile de biciclete acoperite pentru a vă proteja vehiculul de ploaia torențială.",
+                "en": "The ideal place to warm up at the end of the tour; use the covered bike racks to protect your bicycle from the pouring rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Wintermorgen führt die Radtour durch die stillen Gassen von Saint-Hernot. Mittags erreichen wir die windgepeitschte Pointe de Lostmarc'h, wo die Wintersonne glitzert – dicke Handschuhe sind Pflicht! Der Nachmittag führt an den einsamen Stränden vorbei, bevor wir vor der frühen Dunkelheit das Museum erreichen. Die Tour endet bei Sonnenuntergang, wobei die kalte Abendluft für eine klare Sicht auf die Küstenlinie sorgt.",
+            "hu": "Egy fagyos téli reggelen a biciklitúra Saint-Hernot csendes utcáin át vezet. Délben érjük el Lostmarc'h szeles fokát, ahol csillog a téli napsütés – a vastag kesztyű kötelező! A délután magányos partok mentén telik, mielőtt a korai sötétedés előtt elérnénk a múzeumot. A túra naplementekor ér véget, miközben a hideg esti levegő tiszta rálátást biztosít a partvonalra.",
+            "ro": "Într-o dimineață geroasă de iarnă, turul cu bicicleta trece prin străzile liniștite din Saint-Hernot. La prânz ajungem la vârful Lostmarc'h, unde soarele de iarnă strălucește – mănușile groase sunt obligatorii! După-amiaza trece pe lângă plajele pustii, înainte de a ajunge la muzeu înainte de lăsarea serii. Turul se încheie la apus, aerul rece de seară oferind o vizibilitate clară asupra coastei.",
+            "en": "On a frosty winter morning, the bike tour winds through the quiet streets of Saint-Hernot. At noon we reach the windy Pointe de Lostmarc'h where the winter sun glitters – thick gloves are a must! The afternoon is spent along solitary shores before reaching the museum before the early dark. The tour ends at sunset, with the cold evening air providing clear views of the coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Hernot",
+                "hu": "Chapelle Saint-Hernot",
+                "ro": "Chapelle Saint-Hernot",
+                "en": "Chapelle Saint-Hernot"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen zur Kapelle; wärmen Sie Ihre Hände kurz im windgeschützten Innenraum auf, bevor Sie weiterfahren.",
+                "hu": "Ügyelj a zúzmarás utakra a kápolna felé; melegítsd fel a kezed a szélvédett belső térben, mielőtt továbbtekernél a hidegben.",
+                "ro": "Atenție la bruma de pe drumurile spre capelă; încălziți-vă mâinile în interiorul ferit de vânt înainte de a pedala mai departe.",
+                "en": "Watch out for frost on the paths to the chapel; warm your hands in the wind-protected interior before cycling further in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h...",
+                "hu": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h...",
+                "ro": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h...",
+                "en": "Ensemble formé par l'oppidum et les dolmens de la pointe de Lostmarc'h..."
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Kap ist im Winter extrem schneidend; eine Gesichtsmaske oder ein Schlauchtuch schützt Sie beim Radfahren vor dem Auskühlen.",
+                "hu": "A foknál a szél télen rendkívül metsző; egy arcmaszk vagy csősál sokat segít, hogy ne fagyjon le az arcod tekerés közben.",
+                "ro": "Vântul de la vârf este extrem de tăios iarna; o mască de față sau un fular tip tub vă protejează fața de îngheț în timp ce pedalați.",
+                "en": "The wind at the cape is extremely biting in winter; a face mask or neck gaiter helps a lot to prevent your face from freezing while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lost-Marc'h",
+                "hu": "Plage de Lost-Marc'h",
+                "ro": "Plage de Lost-Marc'h",
+                "en": "Plage de Lost-Marc'h"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos, aber bleiben Sie in Bewegung, um nicht auszukühlen; die Wege sind hart gefroren und gut befahrbar.",
+                "hu": "Élvezd a tiszta fényeket a fotózáshoz, de maradj mozgásban, hogy ne hűlj ki; az utak keményre fagytak és jól tekerhetőek ilyenkor.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii, dar rămâneți în mișcare pentru a nu îngheța; drumurile sunt înghețate și ușor de parcurs.",
+                "en": "Enjoy the clear light for photos, but keep moving to stay warm; the paths are frozen hard and very easy to ride on right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palue",
+                "hu": "Plage de la Palue",
+                "ro": "Plage de la Palue",
+                "en": "Plage de la Palue"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung; die Abfahrt zum Strand ist im Winterwind besonders kühl, bietet aber eine fantastische Fernsicht.",
+                "hu": "Viselj több réteg ruhát; a partra vezető lejtő a téli szélben különösen hűvös, de fantasztikus távlatokat nyit az óceán felé.",
+                "ro": "Purtați mai multe straturi de haine; coborârea spre plajă este deosebit de rece în vântul de iarnă, dar oferă perspective fantastice.",
+                "en": "Wear multiple layers of clothing; the descent to the beach is especially chilly in the winter wind but offers fantastic ocean vistas."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Kerdreux",
+                "hu": "Dolmen de Kerdreux",
+                "ro": "Dolmen de Kerdreux",
+                "en": "Dolmen de Kerdreux"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern keine Wärme; machen Sie nur einen kurzen Fotostopp, da es nach 16:00 Uhr spürbar kälter wird und die Sonne sinkt.",
+                "hu": "A kövek nem tartják a meleget; csak egy rövid fotómegállót tarts, mert délután négy után már érezhetően hűl a levegő és süllyed a nap.",
+                "ro": "Pietrele nu rețin căldura; faceți doar o scurtă pauză foto, deoarece după ora 16:00 aerul se răcește vizibil și soarele apune.",
+                "en": "The stones don't hold any warmth; keep your photo stop brief, as it gets noticeably colder after 16:00 when the sun begins to set."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Minéraux",
+                "hu": "Maison des Minéraux",
+                "ro": "Maison des Minéraux",
+                "en": "Maison des Minéraux"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor 17:00 Uhr ein, um die Wärme des Museums zu nutzen; stellen Sie sicher, dass Ihre Fahrradlichter für die Rückfahrt hell leuchten.",
+                "hu": "Tervezd az érkezést 17 óra elé, hogy kiélvezd a múzeum melegét; ellenőrizd, hogy a lámpáid elég erősen világítanak-e a hazafelé útra.",
+                "ro": "Planificați sosirea înainte de ora 17:00 pentru a profita de căldura muzeului; asigurați-vă că luminile bicicletei sunt destul de puternice.",
+                "en": "Plan to arrive before 17:00 to enjoy the museum's warmth; make sure your bike lights are bright enough for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós kalandja a pusztaságban elszórt bronzkori kövek titokzatos elrendezései között kezdődik.\n\nDélre haladjon a zord parti utakon, hogy felfedezze a tenger felett őrködő magányos menhireket.\n\nDélután pihenjen meg egy félreeső strand közelében, mielőtt megismerkedne a regionális geológiával.\n\nZárja az útvonalat egy lenyűgöző történelem előtti műemléknél.",
         "ro": "Aventura dvs. la volan începe printre aliniamentele misterioase ale pietrelor din epoca bronzului.\n\nPână la prânz, conduceți de-a lungul drumurilor de coastă accidentate pentru a descoperi menhire solitare.\n\nDupă-amiaza, faceți o pauză pe o plajă izolată înainte de a învăța despre geologia regională la muzeu.\n\nTerminați traseul la un monument preistoric izbitor.",
         "en": "Your driving adventure begins among the mysterious alignments of bronze-age stones scattered on the heath.\n\nBy noon, drive along the rugged coastal roads to discover solitary menhirs standing guard over the sea.\n\nIn the afternoon, take a break near secluded, pristine sands before learning about regional geology indoors.\n\nFinish the route at a striking prehistoric monument under dramatic skies."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt entspannt bei den Alignements, während der Scheibenwischer den Rhythmus angibt. Mittags besuchen wir die Menhire im Hinterland, wobei kurze Wege zwischen Auto und Sehenswürdigkeiten das Nasswerden minimieren. Am Nachmittag bietet das Mineralienmuseum einen ausgiebigen trockenen Aufenthalt. Den Tag schließen wir am Rostudel-Dolmen ab, den wir bequem erreichen, während draußen der bretonische Regen fällt.",
+            "hu": "Az autós túra kényelmesen indul a kősoroknál, miközben az ablaktörlők adják az ütemet az esőben. Délben a száraz utastérből csodáljuk a menhireket, csak rövid időre kiszállva a látnivalóknál. Délután az Ásványok Háza nyújt hosszabb, fedett programot. A napot a Rostudel dolmennél zárjuk, amelyet könnyen megközelíthetünk, miközben odakint kitartóan esik a breton eső.",
+            "ro": "Turul cu mașina începe relaxat la aliniamente, în timp ce ștergătoarele dau ritmul prin ploaie. La prânz vizităm menhirele, drumurile scurte între mașină și obiective minimizând expunerea la apă. După-amiaza, Muzeul Mineralelor oferă o vizită prelungită la adăpost. Încheiem ziua la dolmenul Rostudel, la care ajungem ușor, în timp ce afară ploaia bretonă continuă să cadă.",
+            "en": "The car tour begins relaxed at the stone alignments while the wipers set the rhythm in the rain. At noon we visit the menhirs, with short walks between the car and sights minimizing how wet you get. The afternoon at the House of Minerals offers an extensive indoor program. We close the day at the Rostudel dolmen, easily accessible while the Breton rain falls steadily outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alignement de Ty ar C'huré",
+                "hu": "Alignement de Ty ar C'huré",
+                "ro": "Alignement de Ty ar C'huré",
+                "en": "Alignement de Ty ar C'huré"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Weg zu den Steinreihen ist kurz, aber bei Regen können sich tiefe Pfützen bilden.",
+                "hu": "Parkolj minél közelebb a bejárathoz; a kősorokhoz vezető út rövid, de esőben mély tócsák alakulhatnak ki az ösvényen.",
+                "ro": "Parcați cât mai aproape de intrare; drumul spre aliniamente este scurt, dar în timpul ploii se pot forma bălți adânci pe potecă.",
+                "en": "Park as close to the entrance as possible; the path to the stones is short, but deep puddles can form on the trail during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Kerellot",
+                "hu": "Menhir de Kerellot",
+                "ro": "Menhir de Kerellot",
+                "en": "Menhir de Kerellot"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Regenschutz für Fotos aus dem Fenster; falls Sie aussteigen, achten Sie auf den schlammigen Seitenstreifen beim Parken.",
+                "hu": "Használd az autót esővédőként a fotózáshoz; ha kiszállsz, ügyelj a sáros útpadkára a parkolásnál a menhir közelében.",
+                "ro": "Folosiți mașina ca protecție pentru fotografii pe geam; dacă coborâți, atenție la acostamentul noroios când parcați lângă menhir.",
+                "en": "Use the car as rain cover for photos through the window; if you get out, watch out for the muddy road shoulder when parking near the menhir."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir",
+                "hu": "Menhir",
+                "ro": "Menhir",
+                "en": "Menhir"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp direkt an der Straße; halten Sie den Regenschirm griffbereit für den 2-Minuten-Weg zu diesem einsamen Megalithen.",
+                "hu": "Gyors megálló közvetlenül az út mellett; tartsd kéznél az esernyőt arra a kétperces sétára, amíg eléred ezt a magányos óriást.",
+                "ro": "O oprire rapidă chiar lângă drum; țineți umbrela la îndemână pentru plimbarea de două minute până la acest megalit singuratic.",
+                "en": "A quick stop right by the road; keep your umbrella handy for the two-minute walk to reach this solitary giant."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage naturiste",
+                "hu": "Plage naturiste",
+                "ro": "Plage naturiste",
+                "en": "Plage naturiste"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer aus dem warmen Auto; der Parkplatz bietet eine gute Sicht, ohne dass man im Regen nass werden muss.",
+                "hu": "Élvezd a kilátást a szürke óceánra a meleg autóból; a parkolóból jó a rálátás a partra anélkül, hogy eláznál a szakadó esőben.",
+                "ro": "Bucurați-vă de vederea spre marea cenușie din mașina caldă; parcarea oferă o perspectivă bună fără a fi nevoie să ieșiți în ploaie.",
+                "en": "Enjoy the view of the grey ocean from your warm car; the parking lot offers a good vantage point without having to get wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Minéraux",
+                "hu": "Maison des Minéraux",
+                "ro": "Maison des Minéraux",
+                "en": "Maison des Minéraux"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie die Zeit vergessen, während es draußen schüttet; das Museum ist perfekt klimatisiert und bietet faszinierende geologische Einblicke.",
+                "hu": "Itt nyugodtan elfelejtheted az időt, amíg odakint ömlik az eső; a múzeum belső tere kellemes, a geológiai tárlat pedig lenyűgöző.",
+                "ro": "Aici puteți uita de timp în timp ce afară toarnă; interiorul muzeului este plăcut, iar expoziția geologică este fascinantă.",
+                "en": "You can lose track of time here while it pours outside; the museum interior is pleasant, and the geological exhibit is fascinating."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Rostudel",
+                "hu": "Dolmen de Rostudel",
+                "ro": "Dolmen de Rostudel",
+                "en": "Dolmen de Rostudel"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Dolmen; nutzen Sie die kurzen Regenpausen für einen Besuch und achten Sie auf Pfützen auf dem kurzen Fußweg.",
+                "hu": "A parkoló közel van a dolmenhez; használd ki a rövid esőszüneteket a látogatáshoz, és ügyelj a tócsákra a rövid gyalogúton.",
+                "ro": "Parcarea este aproape de dolmen; profitați de scurtele pauze de ploaie pentru vizită și atenție la bălțile de pe drumul scurt.",
+                "en": "The parking lot is close to the dolmen; take advantage of short breaks in the rain for your visit and watch out for puddles on the path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt bei klarem Frost an den prähistorischen Steinreihen. Mittags erkunden wir die Menhire der Umgebung, wobei die Heizung im Wagen für wohlige Wärme zwischen den Stopps sorgt. Nachmittags besuchen wir das Mineralienmuseum, bevor wir gegen 16:30 Uhr zum Strand fahren, um das letzte Tageslicht zu nutzen. Die Tour endet bei Sonnenuntergang am Rostudel-Dolmen, wenn die Kälte draußen am klirrendsten ist.",
+            "hu": "A téli autós túra tiszta, fagyos időben indul a kősoroknál. Délben a környező menhireket fedezzük fel, miközben az autó fűtése gondoskodik a kényelemről a megállók között. Délután az Ásványok Házát látogatjuk meg, majd fél ötközben a tengerpartra hajtunk, hogy elkapjuk az utolsó fényeket. A túra naplementekor zárul a Rostudel dolmennél, amikor a kinti hideg a legmetszőbb.",
+            "ro": "Turul de iarnă cu mașina începe pe un ger senin la aliniamentele de piatră. La prânz explorăm menhirele din jur, încălzirea din mașină asigurând confortul între opriri. După-amiaza vizităm Muzeul Mineralelor, apoi mergem spre plajă în jur de 16:30 pentru a profita de ultima lumină. Turul se încheie la apus la dolmenul Rostudel, când frigul de afară este cel mai tăios.",
+            "en": "The winter car tour begins in clear, frosty weather at the stone alignments. At noon we explore the local menhirs, with the car's heater providing comfort between stops. In the afternoon we visit the House of Minerals, then head to the beach around 16:30 to catch the last daylight. The tour ends at sunset at the Rostudel dolmen, when the outside cold is at its sharpest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alignement de Ty ar C'huré",
+                "hu": "Alignement de Ty ar C'huré",
+                "ro": "Alignement de Ty ar C'huré",
+                "en": "Alignement de Ty ar C'huré"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind oft mit Raureif bedeckt, was fantastische Motive bietet; lassen Sie den Motor nicht unnötig laufen, während Sie kurz aussteigen.",
+                "hu": "A köveket gyakran zúzmara borítja, ami fantasztikus fotótéma; ne járasd feleslegesen a motort, amíg kiszállsz körülnézni a kősoroknál.",
+                "ro": "Pietrele sunt adesea acoperite de chiciură, oferind motive foto superbe; nu lăsați motorul pornit inutil cât timp coborâți să vedeți pietrele.",
+                "en": "The stones are often covered in frost, offering fantastic photo opportunities; don't leave the engine idling while you step out to look around."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Kerellot",
+                "hu": "Menhir de Kerellot",
+                "ro": "Menhir de Kerellot",
+                "en": "Menhir de Kerellot"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Wächter in der Winterlandschaft; parken Sie sicher am Rand und genießen Sie die klare Fernsicht, die nur die kalte Luft ermöglicht.",
+                "hu": "Magányos őrző a téli tájban; parkolj biztonságosan az út szélén, és élvezd a tiszta távlatokat, amit csak a hideg téli levegő tesz lehetővé.",
+                "ro": "Un străjer singuratic în peisajul de iarnă; parcați în siguranță pe margine și admirați vizibilitatea clară oferită de aerul rece de iarnă.",
+                "en": "A solitary guardian in the winter landscape; park safely on the shoulder and enjoy the clear views that only cold winter air provides."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir",
+                "hu": "Menhir",
+                "ro": "Menhir",
+                "en": "Menhir"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet den Menhir von der Seite; ideal für dramatische Schattenwürfe direkt neben der Fahrstraße.",
+                "hu": "A téli nap alacsonyan jár és oldalról világítja meg a menhirt; ideális drámai árnyékok fotózásához közvetlenül az út mellett.",
+                "ro": "Soarele de iarnă este jos și luminează menhirul din lateral; ideal pentru fotografierea umbrelor dramatice chiar lângă drum.",
+                "en": "The winter sun is low and lights the menhir from the side; ideal for photographing dramatic shadows right next to the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage naturiste",
+                "hu": "Plage naturiste",
+                "ro": "Plage naturiste",
+                "en": "Plage naturiste"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer; genießen Sie den spektakulären Sonnenuntergang über dem Atlantik bequem durch die Frontscheibe.",
+                "hu": "A parkoló télen szinte üres; élvezd az Atlanti-óceán feletti látványos naplementét kényelmesen, az autó szélvédőjén keresztül.",
+                "ro": "Parcarea este aproape goală iarna; admirați apusul spectaculos peste Atlantic confortabil, prin parbrizul mașinii.",
+                "en": "The parking lot is almost empty in winter; enjoy the spectacular sunset over the Atlantic comfortably through the car's windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Minéraux",
+                "hu": "Maison des Minéraux",
+                "ro": "Maison des Minéraux",
+                "en": "Maison des Minéraux"
+              },
+              "tip_5lang": {
+                "de": "Ein wohltemperierter Stopp am späten Nachmittag; nutzen Sie die Zeit für die Ausstellungen, bevor es draußen um 17:00 Uhr dunkel wird.",
+                "hu": "Kellemes hőmérsékletű megálló késő délután; használd ki az időt a kiállításokra, mielőtt odakint 17 órakor teljesen besötétedik.",
+                "ro": "O oprire la o temperatură plăcută după-amiaza târziu; profitați de expoziții înainte de a se înnopta complet afară la ora 17:00.",
+                "en": "A pleasantly warm stop in the late afternoon; take your time with the exhibits before it gets completely dark outside at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Rostudel",
+                "hu": "Dolmen de Rostudel",
+                "ro": "Dolmen de Rostudel",
+                "en": "Dolmen de Rostudel"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Tour in der blauen Stunde; da es im Winter früh dunkel wird, achten Sie auf Wildwechsel auf der Rückfahrt mit dem Auto.",
+                "hu": "A túra zárása a kék órában; mivel télen korán sötétedik, figyelj az úttestre tévedő vadakra a hazafelé vezető autós úton.",
+                "ro": "Încheierea turului în ora albastră; deoarece iarna se întunecă devreme, atenție la animalele sălbatice pe drumul de întoarcere.",
+                "en": "Closing the tour in the blue hour; since it gets dark early in winter, watch out for wildlife on the road during the drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,195 @@
         "hu": "Kezdje a helyi művészettel a The Atkinsonban, mielőtt végigsétál a Lord Street viktoriánus árkádjain.\n\nA dél tengerparti nosztalgiát hoz; élvezze a Silcock's Amusements játéktermét és a Marine Lake-et.\n\nDélután dacoljon a szellővel a történelmi Southport Pier-en a part menti kilátásért.\n\nFejezze be a napot a részletes Model Railway Village felfedezésével naplementekor.",
         "ro": "Începeți cu artele locale la The Atkinson, înainte de a vă plimba pe arcadele victoriene de pe Lord Street.\n\nAmiaza aduce nostalgie; bucurați-vă de Silcock's Amusements și de plimbarea pe lângă Marine Lake.\n\nDupă-amiaza, înfruntați briza pe istoricul Southport Pier pentru vederi de coastă.\n\nÎncheiați-vă ziua explorând detaliatul Model Railway Village, la apusul soarelui.",
         "en": "Begin with local arts at The Atkinson, before strolling the Victorian arcades of Lord Street.\n\nMidday brings seaside nostalgia; enjoy Silcock's Amusements and wander around Marine Lake.\n\nIn the afternoon, brave the breeze on the historic Southport Pier for sweeping coastal views.\n\nConclude your day exploring the incredibly detailed Model Railway Village at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im The Atkinson, einem sicheren Hafen für Kultur bei Regen. Mittags bieten die viktorianischen Arkaden der Lord Street perfekten Schutz vor den Güssen. Nachmittags locken die überdachten Silcock's Amusements, während der Pier bei Wind eine wetterfeste Jacke erfordert. Der Abend endet gemütlich in den geschützten Bereichen der Stadt, weit weg von der nassen Meeresbrise.",
+            "hu": "Kezdje a napot az Atkinson kulturális központjában, ahol szárazon élvezheti a kiállításokat. Lord Street viktoriánus árkádjai alatt védve maradhat az esőtől séta közben. A Silcock's fedett vidámparkja után a Marine Lake és a móló már nagyobb kihívás; egy erős esernyő és szélálló kabát elengedhetetlen a tengerparti szakaszon. Az estét zárja egy hangulatos, védett beltéri programmal.",
+            "ro": "Începeți ziua la The Atkinson, un refugiu cultural perfect împotriva ploii. La prânz, arcadele victoriene de pe Lord Street oferă protecție ideală pentru o plimbare uscată. După-amiaza, vizitați Silcock's Amusements pentru distracție în interior, iar la dig aveți nevoie de o pelerină de ploaie rezistentă. Seara se încheie confortabil în zonele acoperite ale orașului, feriți de stropii mării.",
+            "en": "Start your morning at The Atkinson, a perfect cultural sanctuary from the rain. At noon, Lord Street's Victorian glass canopies provide excellent shelter for a dry stroll. Afternoon brings indoor fun at Silcock's, though the Pier requires a sturdy raincoat against the coastal spray. End your evening in the cozy, covered parts of the town centre, staying warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Atkinson",
+                "hu": "The Atkinson",
+                "ro": "The Atkinson",
+                "en": "The Atkinson"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die ägyptische Galerie und das Museum in diesem prächtigen Gebäude, das als weitläufiges Kulturzentrum den perfekten trockenen Zufluchtsort vor dem britischen Regen bietet.",
+                "hu": "Fedezze fel a lenyűgöző egyiptomi gyűjteményt és a helyi történeti tárlatokat ebben a neoklasszicista épületben, amely tágas belső tereivel ideális és száraz kulturális menedéket nyújt.",
+                "ro": "Explorați colecția egipteană și galeriile de artă în acest centru cultural impresionant, care oferă un spațiu vast și primitor pentru a rămâne uscat în timp ce plouă afară.",
+                "en": "Explore the fascinating Egyptian collection and local history displays inside this grand building, which serves as a spacious and dry cultural haven during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street",
+                "hu": "Lord Street",
+                "ro": "Lord Street",
+                "en": "Lord Street"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den kunstvollen gusseisernen Arkaden, die fast die gesamte Länge der Straße abdecken und Ihnen ein entspanntes Shopping-Erlebnis ohne Regenschirm ermöglichen.",
+                "hu": "Sétáljon a híres viktoriánus öntöttvas árkádok alatt, amelyek szinte az egész utca hosszában védelmet nyújtanak, így esernyő nélkül is élvezheti a városi nézelődést esős időben.",
+                "ro": "Plimbați-vă sub arcadele victoriene ornamentate care acoperă aproape întreaga stradă, permițându-vă să admirați vitrinele fără a avea nevoie de umbrelă chiar și pe ploaie torențială.",
+                "en": "Stroll under the ornate Victorian cast-iron verandas that line nearly the entire street, offering a wonderful sheltered route to enjoy the architecture while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Silcock's Amusements",
+                "hu": "Silcock's Amusements",
+                "ro": "Silcock's Amusements",
+                "en": "Silcock's Amusements"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie klassischen Familienspaß in dieser riesigen Spielhalle, deren beheizter Innenbereich eine willkommene Pause vom nassen Küstenwetter mit moderner Unterhaltung garantiert.",
+                "hu": "Élvezze a klasszikus családi szórakozást ebben a hatalmas játékteremben, amelynek fűtött és fedett terei garantáltan elfeledtetik a kinti borús és csapadékos tengerparti időjárást.",
+                "ro": "Bucurați-vă de distracția clasică în familie în această sală imensă de jocuri, unde interiorul încălzit vă garantează o pauză plăcută de la vremea umedă de pe coastă.",
+                "en": "Enjoy classic family seaside fun in this massive arcade, where the fully indoor and heated environment provides a great escape from the damp coastal weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Marine Lake",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische Spiel des Regens auf der Wasseroberfläche vom Ufer aus; achten Sie auf festes Schuhwerk, da die Wege am Seeufer bei Nässe rutschig sein können.",
+                "hu": "Csodálja meg az esőcseppek táncát a tó felszínén a partról nézve, de viseljen csúszásmentes talpú cipőt, mert a vízparti sétányok burkolata ilyenkor rendkívül síkossá válhat.",
+                "ro": "Admirați peisajul dramatic al lacului sub ploaie de la adăpostul malului, având grijă să purtați încălțăminte cu talpă aderentă, deoarece potecile pot deveni alunecoase când sunt ude.",
+                "en": "Watch the atmospheric rain falling over the water from the lakeside path, but be sure to wear non-slip shoes as the paved edges can become quite slick in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pier",
+                "hu": "Southport Pier",
+                "ro": "Southport Pier",
+                "en": "Southport Pier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Pier-Zug für die Fahrt über das Wasser, um die Aussicht trocken zu genießen, da der Wind auf der offenen Struktur den Regen peitschen kann.",
+                "hu": "Vegye igénybe a mólón közlekedő kisvonatot, hogy fedett helyen utazva élvezhesse a tengeri kilátást, mivel a nyitott szerkezeten az erős szél vízszintesen hordhatja az esőt.",
+                "ro": "Folosiți trenulețul acoperit de pe dig pentru a traversa marea rămânând uscat, deoarece pe structura deschisă vântul poate sufla ploaia cu putere direct dinspre ocean.",
+                "en": "Ride the covered pier tram to the end of the structure to enjoy the sea views while sheltered, as the open walkway can be very exposed to driving rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Model Railway Village",
+                "hu": "Model Railway Village",
+                "ro": "Model Railway Village",
+                "en": "Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die detailreichen Miniaturlandschaften, die bei Regen einen ganz eigenen Charme versprühen, und suchen Sie bei heftigen Schauern Schutz im kleinen Museumsbereich.",
+                "hu": "Nézze meg a részletgazdag miniatűr tájakat, amelyek esőben is bájosak, és húzódjon be a kis múzeumi részbe, ha a zápor túlságosan felerősödne a szabadtéri séta közben.",
+                "ro": "Admirați peisajele miniaturale detaliate care au un farmec aparte sub ploaie și folosiți zona micului muzeu pentru a vă adăposti în cazul unei averse mai puternice.",
+                "en": "Admire the intricate miniature landscapes which look magical even in the rain, and head to the small indoor museum area if the showers become too heavy during your visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im warmen The Atkinson. Mittags glitzert die Lord Street im winterlichen Licht, perfekt für einen belebenden Spaziergang. Am Nachmittag bietet der Marine Lake klare Luft, bevor die Sonne gegen 17:00 Uhr spektakulär über dem Pier versinkt. Der Abend endet früh bei den Miniaturbahnen, eingehüllt in dichte Winterkleidung und Vorfreude auf ein heißes Getränk.",
+            "hu": "A fagyos reggelt kezdje a fűtött Atkinson központban. Délben a Lord Street téli fényei különleges hangulatot árasztanak, ideális egy frissítő sétához. Délután a Marine Lake tiszta levegője várja, majd 17 óra körül nézze meg a naplementét a mólónál. A napot a Model Railway Village-nél zárja, rétegesen felöltözve, mielőtt a korai sötétség és a hideg teljesen beállna.",
+            "ro": "O dimineață geroasă începe în interiorul cald de la The Atkinson. La prânz, Lord Street strălucește în lumina iernii, fiind locul perfect pentru o plimbare revigorantă. După-amiaza, aerul curat de la Marine Lake vă încarcă bateriile, înainte ca soarele să apună spectaculos la ora 17:00 lângă dig. Seara se încheie devreme, înfofoliți bine, la satul de miniatură.",
+            "en": "Start a crisp winter morning inside the cozy warmth of The Atkinson. At noon, Lord Street sparkles in the winter sun, perfect for a brisk walk through the historic town. Afternoon light over Marine Lake is stunning before the 5 PM sunset paints the Pier in gold. Wrap up warm for the final stops as the temperature drops quickly after dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Atkinson",
+                "hu": "The Atkinson",
+                "ro": "The Atkinson",
+                "en": "The Atkinson"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den beheizten Kunstgalerien auf und genießen Sie die ruhige Atmosphäre der Ausstellungen, während draußen die kalte Winterluft durch die Straßen zieht.",
+                "hu": "Melegedjen fel a fűtött művészeti galériákban és élvezze a kiállítások nyugodt hangulatát, miközben odakint a metsző téli szél fúj az utcákon.",
+                "ro": "Încălziți-vă în galeriile de artă bine primitoare și bucurați-vă de atmosfera liniștită a expozițiilor în timp ce aerul rece de iarnă stăpânește străzile orașului.",
+                "en": "Warm up in the heated art galleries and enjoy the tranquil atmosphere of the exhibitions while the biting winter wind blows through the coastal streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street",
+                "hu": "Lord Street",
+                "ro": "Lord Street",
+                "en": "Lord Street"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den festlichen Glanz der beleuchteten viktorianischen Straße; ziehen Sie sich warm an, um die frische Brise während Ihres winterlichen Schaufensterbummels zu genießen.",
+                "hu": "Élvezze a kivilágított viktoriánus utca ünnepi fényét; öltözzön nagyon melegen, hogy a friss téli szélben is kényelmesen csodálhassa meg a kirakatokat és az épületeket.",
+                "ro": "Bucurați-vă de strălucirea festivă a străzii victoriene iluminate; îmbrăcați-vă gros pentru a savura briza proaspătă de iarnă în timp ce admirați arhitectura istorică.",
+                "en": "Enjoy the festive sparkle of the illuminated Victorian street; wear plenty of layers to stay warm while admiring the elegant shopfronts in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Silcock's Amusements",
+                "hu": "Silcock's Amusements",
+                "ro": "Silcock's Amusements",
+                "en": "Silcock's Amusements"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Rückzugsort für eine Pause vom Frost; die bunten Lichter und die lebhafte Musik sorgen für gute Laune an grauen Wintertagen.",
+                "hu": "Használja ezt a meleg és vidám helyet pihenőként a téli fagyban; a színes fények és az élénk zene garantáltan jó kedvre derítik a szürke és hideg napokon.",
+                "ro": "Folosiți acest refugiu cald pentru o pauză binemeritată de la gerul de afară; luminile colorate și muzica veselă vă vor ridica moralul în zilele cenușii de iarnă.",
+                "en": "Step inside this brightly lit escape for a warm break from the frost; the energetic atmosphere and heating make it a perfect winter afternoon stop for all ages."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die mutigen Wintervögel auf dem klaren Wasser; ein schneller, strammer Spaziergang am Ufer hält den Kreislauf bei niedrigen Temperaturen in Schwung.",
+                "hu": "Figyelje meg a vízen ringatózó telelő madarakat a kristálytiszta levegőben; egy tempós, gyors séta a tóparton segít fenntartani a testhőt a nagy hidegben is.",
+                "ro": "Observați păsările care iernează pe apele limpezi ale lacului; o plimbare rapidă și energică pe mal vă va ajuta să vă mențineți căldura corporală în zilele geroase.",
+                "en": "Watch the hardy winter birds on the clear lake water; a brisk walk along the shore is the best way to keep your blood pumping in the cold coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pier",
+                "hu": "Southport Pier",
+                "ro": "Southport Pier",
+                "en": "Southport Pier"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Winter-Sonnenuntergang über der Irischen See gegen 17:00 Uhr; Handschuhe und eine Mütze sind wegen des starken Seewinds absolut notwendig.",
+                "hu": "Nézze meg a látványos téli naplementét az Ír-tenger felett 17 óra körül; a sapka és a kesztyű kötelező viselet az erős és jeges tengeri szél miatt.",
+                "ro": "Admirați apusul spectaculos de iarnă peste Marea Irlandei în jurul orei 17:00; mănușile și căciula sunt esențiale din cauza vântului tăios care suflă dinspre larg.",
+                "en": "Experience the spectacular winter sunset over the Irish Sea around 5 PM; be sure to wear a hat and gloves as the wind chill on the pier can be very intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Model Railway Village",
+                "hu": "Model Railway Village",
+                "ro": "Model Railway Village",
+                "en": "Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Anlage kurz vor Einbruch der Dunkelheit, wenn die kleinen Lichter der Miniaturstadt in der Dämmerung zu leuchten beginnen – ein magischer Wintermoment.",
+                "hu": "Látogasson el ide közvetlenül sötétedés előtt, amikor a miniatűr városka apró fényei gyúlni kezdenek a téli szürkületben – ez egy igazán varázslatos pillanat.",
+                "ro": "Vizitați satul miniaturale chiar înainte de lăsarea întunericului, când micile lumini ale orășelului încep să sclipească în amurgul de iarnă, creând o scenă magică.",
+                "en": "Visit just before dusk to see the tiny lights of the miniature town begin to glow in the twilight, creating a truly magical and festive winter atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +526,224 @@
         "hu": "Kezdje a tekerést egy reggeli úttal a Hesketh Park vibráló virágkiállításai között.\n\nDélben sikoljon el a Marine Lake mellett, és tekerjen az ikonikus Southport Pier felé.\n\nA délután kulturális fordulatot vesz a Lord Street mentén a The Atkinson galériáihoz.\n\nVégül élvezze a szórakozást a Pleasurelandben, mielőtt végignézné a dagályt a Southport Beach-en.",
         "ro": "Începeți plimbarea cu o pedalare de dimineață prin expozițiile florale din Hesketh Park.\n\nLa amiază, treceți pe lângă Marine Lake și pedalați spre emblematicul Southport Pier.\n\nDupă-amiaza ia o întorsătură culturală pe Lord Street, ducând la galeriile de la The Atkinson.\n\nBucurați-vă de distracția din Pleasureland înainte de a privi fluxul pe imensa plajă Southport Beach.",
         "en": "Kick off your ride with a morning spin through the vibrant floral displays of Hesketh Park.\n\nBy midday, glide past Marine Lake and cycle towards the iconic Southport Pier to breathe the sea air.\n\nYour afternoon takes a cultural turn along Lord Street, leading to the galleries of The Atkinson.\n\nFinally, embrace coastal fun at Pleasureland before watching the tide at Southport Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start im Hesketh Park, wo Bäume etwas Schutz bieten. Radeln Sie vorsichtig zum Marine Lake und Pier; die Holzbeplankung kann extrem rutschig sein. Mittags bietet die Lord Street unter Arkaden trockene Pausen. Am Nachmittag lockt das Atkinson als kulturelles Ziel, bevor die Fahrt zum Strand bei Regen einen kompletten Satz wasserdichter Kleidung und gute Bremsen erfordert.",
+            "hu": "Nedves kezdés a Hesketh Parkban, ahol a fák némi védelmet nyújtanak. Tekerjen óvatosan a Marine Lake és a móló felé; a fa burkolatok rendkívül csúszósak lehetnek. Délben a Lord Street árkádjai alatt pihenhet meg szárazon. Délután az Atkinson kínál kulturális menedéket, mielőtt a tengerparti záró szakaszhoz felvenné a teljes vízálló felszerelését.",
+            "ro": "Un început umed în Hesketh Park, unde copacii oferă puțin adăpost. Pedalați cu grijă spre Marine Lake și dig; scândurile de lemn pot fi extrem de alunecoase. La prânz, arcadele de pe Lord Street sunt ideale pentru pauze uscate. După-amiaza, vizitați The Atkinson pentru cultură, înainte ca drumul spre plajă să necesite echipament impermeabil complet.",
+            "en": "A damp start in Hesketh Park where thick trees offer some cover. Cycle carefully to Marine Lake and the Pier; the wooden decking is treacherous when wet. Noon provides dry respite under Lord Street's verandas. Spend the afternoon at The Atkinson's galleries, then ensure your waterproofs are tight for the final leg to the beach through the coastal drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hesketh Park",
+                "hu": "Hesketh Park",
+                "ro": "Hesketh Park",
+                "en": "Hesketh Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die bewaldeten Wege für einen natürlicheren Schutz vor leichtem Regen, aber achten Sie beim Radfahren besonders auf nasses Laub auf den Asphaltwegen.",
+                "hu": "Használja a fás ösvényeket, amelyek természetes védelmet nyújtanak az enyhe eső ellen, de tekerés közben ügyeljen az aszfaltra tapadt nedves levelekre.",
+                "ro": "Folosiți potecile împădurite pentru o protecție naturală împotriva ploii ușoare, dar fiți atenți la frunzele ude de pe asfalt care pot face drumul alunecos.",
+                "en": "Use the wooded pathways for natural cover from light rain, but stay alert for wet leaves on the tarmac which can make cycling paths quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Marine Lake",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit mäßigem Tempo um den See; die befestigten Wege sind bei Regen oft mit Pfützen übersät, die Ihre Sicht auf Unebenheiten einschränken könnten.",
+                "hu": "Tekerjen mérsékelt tempóban a tó körül; az esőben kialakuló tócsák elfedhetik az úthibákat, ezért figyeljen oda a kerékpár stabilitására.",
+                "ro": "Pedalați cu viteză redusă în jurul lacului; bălțile formate pot ascunde denivelări ale drumului, așa că mențineți o atenție sporită la stabilitatea bicicletei.",
+                "en": "Cycle at a moderate pace around the lake; large puddles can form quickly and hide potholes, so keep a firm grip on your handlebars and watch the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pier",
+                "hu": "Southport Pier",
+                "ro": "Southport Pier",
+                "en": "Southport Pier"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie starkes Bremsen auf den nassen Holzplanken des Piers, da diese spiegelglatt werden können; steigen Sie im Zweifelsfall ab und schieben Sie Ihr Rad.",
+                "hu": "Kerülje az erős fékezést a móló nedves fapadlóján, mivel az ilyenkor tükörsima és rendkívül veszélyes lehet; szükség esetén inkább tolja a kerékpárt.",
+                "ro": "Evitați frânările bruște pe scândurile ude de lemn ale digului, deoarece acestea devin extrem de alunecoase; dacă este necesar, coborâți și împingeți bicicleta.",
+                "en": "Avoid sudden braking on the wet wooden planks of the pier as they become incredibly slick; it is safer to dismount and walk your bike if it is raining heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street",
+                "hu": "Lord Street",
+                "ro": "Lord Street",
+                "en": "Lord Street"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Rad unter den Arkaden, während Sie eine kurze Pause einlegen, um die viktorianische Pracht trocken zu bewundern.",
+                "hu": "Keressen egy védett kerékpártárolót az árkádok alatt, amíg tart egy rövid pihenőt, hogy száraz helyről csodálhassa meg a város viktoriánus építészetét.",
+                "ro": "Căutați un loc de parcare acoperit pentru bicicletă sub arcade în timp ce faceți o scurtă pauză pentru a admira arhitectura victoriană fără a vă uda.",
+                "en": "Find a sheltered bike rack under the verandas for a quick break, allowing you to admire the Victorian elegance from a dry vantage point before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "The Atkinson",
+                "hu": "The Atkinson",
+                "ro": "The Atkinson",
+                "en": "The Atkinson"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Eingang und nutzen Sie den Besuch, um Ihre Regenbekleidung in der Garderobe zu lüften, während Sie die Kunstausstellungen genießen.",
+                "hu": "Zárja le biztonságosan a kerékpárját a bejáratnál, és használja ki a látogatást arra, hogy megszárítsa az esőkabátját, miközben a kiállításokat nézi.",
+                "ro": "Parcați bicicleta în siguranță la intrare și profitați de vizită pentru a vă lăsa echipamentul de ploaie la garderobă în timp ce explorați galeriile de artă.",
+                "en": "Secure your bike at the entrance and use this stop to dry off your gear in the cloakroom while you enjoy the warmth and culture of the art galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pleasureland",
+                "hu": "Southport Pleasureland",
+                "ro": "Southport Pleasureland",
+                "en": "Southport Pleasureland"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, dass einige Fahrgeschäfte bei starkem Regen geschlossen sein können; konzentrieren Sie sich auf die überdachten Attraktionen und Spiele für trockenen Fahrspaß.",
+                "hu": "Vegye figyelembe, hogy heves esőben egyes szabadtéri játékok nem üzemelnek; keresse a fedett attrakciókat és játéktermeket a garantált szórakozás érdekében.",
+                "ro": "Rețineți că unele atracții pot fi închise pe ploaie puternică; concentrați-vă pe zonele acoperite și pe jocurile de interior pentru a vă distra fără a vă uda.",
+                "en": "Be aware that some outdoor rides may close during heavy rain; focus on the indoor attractions and gaming zones to keep your spirits high and your clothes dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Beach",
+                "hu": "Southport Beach",
+                "ro": "Southport Beach",
+                "en": "Southport Beach"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie nur auf den befestigten Wegen, da der Sand bei Regen schwer und tief werden kann; eine gute Beleuchtung ist bei trübem Wetter am Meer unerlässlich.",
+                "hu": "Csak a kijelölt aszfaltozott utakon tekerjen, mert a homok esőben mély és nehéz lesz; a szürke időben a láthatóság miatt használjon erős kerékpáros lámpákat.",
+                "ro": "Pedalați doar pe potecile pavate, deoarece nisipul devine greu și instabil când este ud; folosiți lumini puternice pentru a fi vizibili în condiții de vizibilitate redusă.",
+                "en": "Stick to the hard-paved coastal paths as the sand becomes heavy and difficult to navigate when wet; ensure your bike lights are on for safety in the mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Hesketh Park erfordert dichte Handschuhe für den Lenker. Mittags glitzert der See in der Wintersonne, während Sie zum Pier radeln. Am Nachmittag bietet die Lord Street festliche Stimmung, gefolgt von der Wärme im Atkinson. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie Ihren Besuch im Pleasureland und am Strand rechtzeitig, bevor die Kälte am Meer nach Einbruch der Dunkelheit stark zunimmt.",
+            "hu": "A fagyos reggeli kezdéshez a Hesketh Parkban elengedhetetlen egy jó meleg kesztyű a kormányra. Délben a tó és a móló csillog a téli napsütésben. Délután a Lord Street ünnepi díszei között tekerhet, majd az Atkinsonban melegedhet fel. Mivel 17 óra körül lemegy a nap, a Pleasureland és a strand meglátogatását időzítse még világosra, mielőtt a tengeri hideg felerősödne.",
+            "ro": "Un început geros în Hesketh Park necesită mănuși groase pentru ghidon. La prânz, lacul și digul strălucesc în soarele de iarnă în timp ce pedalați. După-amiaza, Lord Street oferă o atmosferă festivă, urmată de căldura de la Atkinson. Deoarece soarele apune la ora 17:00, vizitați parcul și plaja înainte de întuneric, când frigul devine tăios.",
+            "en": "A frosty start in Hesketh Park requires thick gloves for the handlebars. At noon, the lake and Pier sparkle in the low winter sun as you cycle along the coast. Afternoon brings festive vibes to Lord Street and warmth at The Atkinson. With sunset at 5 PM, reach the beach early before the temperature plunges and the coastal winds sharpen after dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hesketh Park",
+                "hu": "Hesketh Park",
+                "ro": "Hesketh Park",
+                "en": "Hesketh Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft unter den kahlen Bäumen; achten Sie auf glatte Stellen im Schatten, wo Reif auf den Wegen bis weit in den Vormittag hinein bestehen bleiben kann.",
+                "hu": "Élvezze a friss téli levegőt a csupasz fák alatt; ügyeljen az árnyékos részekre, ahol a zúzmara és a jég foltokban még késő délelőtt is megmaradhat az utakon.",
+                "ro": "Bucurați-vă de aerul curat de iarnă sub copacii desfrunziți; fiți atenți la zonele umbrite unde chiciura poate rămâne pe poteci până târziu în cursul dimineții.",
+                "en": "Enjoy the crisp winter air through the bare trees; watch for icy patches in shaded areas where frost can linger on the paths well into the late morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Marine Lake",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entlang des Ufers und bewundern Sie die glitzernde Wasseroberfläche; tragen Sie einen Buff oder Schal, um Ihr Gesicht vor dem beißenden Winterwind am See zu schützen.",
+                "hu": "Tekerjen a tóparton és csodálja meg a csillogó víztükröt; viseljen csősálat az arca védelmére, mert a víz felett fújó téli szél rendkívül metsző tud lenni.",
+                "ro": "Pedalați de-a lungul malului și admirați suprafața sclipitoare a apei; purtați un fular gros pentru a vă proteja fața de vântul tăios care suflă peste lac iarna.",
+                "en": "Cycle along the lakeside and admire the sparkling water; wear a thermal face mask or scarf to protect against the biting winter wind that blows across the open lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pier",
+                "hu": "Southport Pier",
+                "ro": "Southport Pier",
+                "en": "Southport Pier"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt auf dem Pier bietet eine tolle Aussicht auf das winterliche Meer; achten Sie auf starken Seitenwind, der das Gleichgewicht auf dem Rad beeinträchtigen kann.",
+                "hu": "A mólón való tekerés remek kilátást nyújt a téli tengerre; figyeljen az erős oldalszélre, amely ilyenkor kibillentheti az egyensúlyából a kerékpáron.",
+                "ro": "Plimbarea pe dig oferă o priveliște superbă asupra mării înghețate; aveți grijă la vântul lateral puternic care vă poate afecta echilibrul pe bicicletă în timpul iernii.",
+                "en": "Cycling the pier offers great views of the winter sea; be prepared for strong crosswinds that can affect your balance, and keep a steady, cautious pace throughout."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street",
+                "hu": "Lord Street",
+                "ro": "Lord Street",
+                "en": "Lord Street"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die elegante Straße im Glanz der Winterbeleuchtung; nutzen Sie die kurzen Wege zwischen den Geschäften für kleine Aufwärmpausen während Ihrer Tour.",
+                "hu": "Csodálja meg az elegáns utat a téli díszkivilágításban; használja ki az üzletek közelségét rövid bemelegítő szünetekre a kerékpáros városnézés közben.",
+                "ro": "Admirați strada elegantă în strălucirea luminilor de iarnă; folosiți distanțele scurte dintre magazine pentru mici pauze de încălzire în timpul turului cu bicicleta.",
+                "en": "See the elegant street illuminated by winter lights; use the frequent shop entrances for short warming breaks if your hands get too cold while cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "The Atkinson",
+                "hu": "The Atkinson",
+                "ro": "The Atkinson",
+                "en": "The Atkinson"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine längere Pause in diesem beheizten Gebäude, um die Kälte aus den Knochen zu vertreiben, während Sie die beeindruckenden Bibliotheks- und Museumsbereiche erkunden.",
+                "hu": "Tartson hosszabb pihenőt ebben a fűtött épületben, hogy kiűzze a hideget a tagjaiból, miközben felfedezi a lenyűgöző könyvtárat és a múzeumi tereket.",
+                "ro": "Faceți o pauză mai lungă în această clădire bine încălzită pentru a scăpa de frig, în timp ce explorați biblioteca impresionantă și spațiile muzeale fascinante.",
+                "en": "Take an extended break in this heated landmark to warm up thoroughly while exploring the impressive library and museum galleries housed within the neogothic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pleasureland",
+                "hu": "Southport Pleasureland",
+                "ro": "Southport Pleasureland",
+                "en": "Southport Pleasureland"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die winterlichen Öffnungszeiten; die festliche Atmosphäre mit Lichtern und Musik ist besonders in der frühen Dämmerung gegen 16:30 Uhr reizvoll.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást; az ünnepi hangulat a fényekkel és zenével különösen a korai szürkületben, fél 5 körül válik igazán varázslatossá.",
+                "ro": "Verificați programul de iarnă înainte de vizită; atmosfera festivă cu lumini și muzică este deosebit de fermecătoare în amurgul timpuriu, în jurul orei 16:30.",
+                "en": "Check the winter opening hours before you go; the festive atmosphere with lights and music is especially enchanting during the early twilight around 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Beach",
+                "hu": "Southport Beach",
+                "ro": "Southport Beach",
+                "en": "Southport Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, leere Strandlandschaft unter dem klaren Winterhimmel; kehren Sie vor 17:00 Uhr um, da die Temperaturen am offenen Ufer nach Sonnenuntergang extrem fallen.",
+                "hu": "Élvezze a hatalmas, üres strandot a tiszta téli égbolt alatt; induljon vissza 17 óra előtt, mert a hőmérséklet a nyílt parton drasztikusan visszaesik naplemente után.",
+                "ro": "Bucurați-vă de plaja vastă și pustie sub cerul senin de iarnă; întorceți-vă înainte de ora 17:00, deoarece temperatura pe țărm scade brusc după apusul soarelui.",
+                "en": "Enjoy the vast, empty beach landscape under the clear winter sky; head back before 5 PM as temperatures on the open shore drop drastically once the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +921,224 @@
         "hu": "Kezdje a kirándulást a mókás Brit Fűnyírómúzeumban, majd igyon kávét a Birkdale Village-ben.\n\nDélben induljon a part felé egy pihentető piknikre a Victoria Park érintetlen pázsitján.\n\nA délután tele van izgalommal a Pleasurelandben, majd kultúrával a The Atkinsonban.\n\nZárja a napot egy sétával a Southport Pier-en és egy békés alkonyati sétával a Hesketh Parkban.",
         "ro": "Începeți excursia la ciudatul British Lawnmower Museum, înainte de o cafea în Birkdale Village.\n\nÎntoarceți-vă spre coastă la amiază pentru un picnic pe peluzele verzi din Victoria Park.\n\nDupă-amiaza este plină de entuziasm la Pleasureland, urmată de cultură la The Atkinson.\n\nÎncheiați ziua cu o plimbare pe Southport Pier și o plimbare liniștită la amurg prin Hesketh Park.",
         "en": "Start your daytrip at the quirky British Lawnmower Museum before grabbing coffee in Birkdale Village.\n\nHead back to the coast midday for a relaxed picnic on the pristine lawns of Victoria Park.\n\nYour afternoon is packed with excitement at Southport Pleasureland, followed by culture at The Atkinson.\n\nEnd the day with a stroll down Southport Pier and a twilight walk through Hesketh Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start im Lawnmower Museum, perfekt für Regentage. Mittags bietet Birkdale Village gemütliche Stopps direkt am Parkplatz. Am Nachmittag genießen Sie die Aussicht im Victoria Park und Pleasureland bequem vom warmen Auto aus. Das Atkinson und der Pier lassen sich dank naher Parkmöglichkeiten schnell erreichen, bevor der Hesketh Park im Regen ein dramatisches Finale bietet.",
+            "hu": "Kezdje a napot a Fűnyírómúzeumban, ami tökéletes fedett program esőben. Délben Birkdale Village kínál kényelmes megállókat közvetlenül a parkolók mellett. Délután a Victoria Park és a Pleasureland látványát a fűtött autóból is élvezheti. Az Atkinson és a móló a közeli parkolásnak köszönhetően gyorsan elérhető, mielőtt a Hesketh Parkot esős, drámai hangulatban fedezné fel.",
+            "ro": "Începeți ziua la Muzeul Mașinilor de Tuns Iarba, o activitate perfectă de interior. La prânz, Birkdale Village oferă opriri accesibile direct din parcare. După-amiaza, admirați Victoria Park și Pleasureland din confortul mașinii încălzite. The Atkinson și digul sunt ușor de vizitat datorită parcărilor apropiate, înainte de a vedea Hesketh Park în ploaie.",
+            "en": "A relaxed start at the Lawnmower Museum, ideal for hiding from the rain. At noon, Birkdale Village offers convenient stops right next to parking areas. Spend the afternoon viewing Victoria Park and Pleasureland from your warm car seat. The Atkinson and Pier are easily accessed via nearby parking, followed by a final atmospheric drive through the rain-soaked Hesketh Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Britisches Rasenmäher-Museum",
+                "hu": "Brit Fűnyírómúzeum",
+                "ro": "Muzeul Britanic al Mașinilor de Tuns Iarba",
+                "en": "British Lawnmower Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses einzigartige Museum ist komplett überdacht und bietet eine kuriose Sammlung, die man wunderbar erkunden kann, während draußen der typisch englische Regen prasselt.",
+                "hu": "Ez az egyedülálló múzeum teljesen fedett, és egy különleges gyűjteményt mutat be, amelyet remekül felfedezhetünk, miközben odakint a tipikus angol eső dobol a tetőn.",
+                "ro": "Acest muzeu unic este complet acoperit și adăpostește o colecție curioasă pe care o puteți explora în liniște în timp ce ploaia englezească bate în geamuri.",
+                "en": "This quirky and unique museum is entirely indoors, making it an excellent first stop to stay dry while exploring a truly eccentric collection of vintage machinery."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Village",
+                "ro": "Birkdale Village",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt an der Hauptstraße, um schnell in die charmanten Boutiquen und Cafés zu schlüpfen und den Regen in entspannter Atmosphäre zu überdauern.",
+                "hu": "Használja a közvetlenül a főutcán található parkolókat, így gyorsan beszaladhat a bájos butikokba és kávézókba, átvészelve az esőt egy hangulatos helyen.",
+                "ro": "Folosiți locurile de parcare de pe strada principală pentru a intra rapid în buticurile și cafenelele cochete, evitând expunerea prelungită la ploaia de afară.",
+                "en": "Utilize the on-street parking to quickly duck into the charming local boutiques and cafes, keeping your time in the rain to an absolute minimum between shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine langsame Rundfahrt durch die angrenzenden Straßen des Parks; bei starkem Regen bietet das dichte Blätterdach der alten Bäume einen malerischen Anblick.",
+                "hu": "Tegyen egy lassú kört a parkot szegélyező utakon; heves esőben az öreg fák sűrű lombkoronája festői látványt nyújt a szélvédőn keresztül szemlélve.",
+                "ro": "Faceți o tură lentă pe străzile care mărginesc parcul; pe ploaie puternică, coronamentul des al copacilor bătrâni oferă o priveliște pitorească din interiorul mașinii.",
+                "en": "Take a slow drive around the perimeter of the park; even in heavy rain, the mature trees and vast lawns look beautiful through the comfort of your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pleasureland",
+                "hu": "Southport Pleasureland",
+                "ro": "Southport Pleasureland",
+                "en": "Southport Pleasureland"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Eingang; so können Sie schnell zwischen den überdachten Spielzonen und Ihrem trockenen Fahrzeug hin- und herwechseln.",
+                "hu": "Vegye igénybe a bejáratnál található nagy parkolót; így gyorsan mozoghat a fedett játékzónák és a száraz autója között, elkerülve az elázást.",
+                "ro": "Folosiți parcarea mare de la intrare; astfel puteți trece rapid între zonele de joc acoperite și mașina dumneavoastră uscată, evitând să vă udați prea tare.",
+                "en": "Use the large adjacent car park for easy access; this allows you to quickly hop between the indoor gaming zones and your vehicle without spending long in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "The Atkinson",
+                "hu": "The Atkinson",
+                "ro": "The Atkinson",
+                "en": "The Atkinson"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahegelegenen Parkhaus, um trockenen Fußes in dieses beeindruckende Kulturzentrum zu gelangen und dort mehrere Stunden im Warmen zu verbringen.",
+                "hu": "Parkoljon a közeli parkolóházban, így száraz lábbal juthat be ebbe a lenyűgöző kulturális központba, ahol órákig melegben és biztonságban nézelődhet.",
+                "ro": "Parcați în parcarea supraetajată din apropiere pentru a ajunge cu picioarele uscate în acest centru cultural superb, unde puteți petrece câteva ore la căldură.",
+                "en": "Park in the nearby multi-storey car park to ensure a dry walk to this cultural landmark, where you can spend several hours exploring the galleries and museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pier",
+                "hu": "Southport Pier",
+                "ro": "Southport Pier",
+                "en": "Southport Pier"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Auto am Ocean Plaza ab und nutzen Sie den Pier-Zug; so genießen Sie die Fahrt über das Wasser, ohne dem peitschenden Regen ausgesetzt zu sein.",
+                "hu": "Álljon meg az Ocean Plaza parkolójában és használja a mólón közlekedő kisvonatot; így anélkül élvezheti a tengeri utat, hogy kitenné magát a szakadó esőnek.",
+                "ro": "Lăsați mașina la Ocean Plaza și folosiți trenulețul digului; astfel vă puteți bucura de drumul peste mare fără a fi expuși ploii torențiale și vântului.",
+                "en": "Park at Ocean Plaza and take the pier tram to the end; it is the best way to see the coastline during a storm while remaining completely shielded from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Hesketh Park",
+                "hu": "Hesketh Park",
+                "ro": "Hesketh Park",
+                "en": "Hesketh Park"
+              },
+              "tip_5lang": {
+                "de": "Die Parkstraßen ermöglichen es Ihnen, die botanische Vielfalt und die Seen des Parks fast vollständig aus dem Auto zu bewundern, während der Regen die Natur auffrischt.",
+                "hu": "A parkot átszelő utak lehetővé teszik, hogy a botanikai ritkaságokat és a tavakat szinte teljes egészében az autóból csodálja meg, miközben az eső felfrissíti a természetet.",
+                "ro": "Drumurile din parc vă permit să admirați diversitatea botanică și lacurile aproape în întregime din mașină, în timp ce ploaia reîmprospătează peisajul natural.",
+                "en": "The roads surrounding the park allow you to enjoy the botanical beauty and lakeside views almost entirely from your car as the rain brings out the deep greens of the flora."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen im kuriosen Rasenmäher-Museum. Mittags bietet Birkdale Village eine warme Atmosphäre für einen kurzen Stopp. Am Nachmittag leuchten der Victoria Park und das Pleasureland im klaren Winterlicht. Das Atkinson bietet die perfekte Wärme zur Kaffeestunde, bevor Sie gegen 17:00 Uhr den Sonnenuntergang am Pier erleben und den Tag im malerischen Hesketh Park im Auto ausklingen lassen.",
+            "hu": "Kezdje a fagyos reggelt a különleges Fűnyírómúzeumban. Délben Birkdale Village meleg és barátságos légköre várja egy rövid megállóra. Délután a Victoria Park és a Pleasureland csillog a tiszta téli napfényben. Az Atkinson tökéletes hely a felmelegedésre, mielőtt 17 óra körül megnézné a naplementét a mólónál, majd az autóból gyönyörködne a téli Hesketh Park látványában.",
+            "ro": "Începeți dimineața geroasă la ineditul Muzeu al Mașinilor de Tuns Iarba. La prânz, Birkdale Village oferă o atmosferă caldă pentru o scurtă oprire. După-amiaza, Victoria Park și Pleasureland strălucesc în lumina clară de iarnă. The Atkinson este locul ideal pentru încălzire, înainte de a vedea apusul la dig în jurul orei 17:00 și a încheia ziua în Hesketh Park.",
+            "en": "Start a frosty morning at the unique Lawnmower Museum. At noon, the warm atmosphere of Birkdale Village is perfect for a short stop. Spend the afternoon seeing Victoria Park and Pleasureland in the crisp winter light. Warm up at The Atkinson before enjoying the 5 PM sunset at the Pier, finishing with a scenic winter drive through the quiet Hesketh Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Britisches Rasenmäher-Museum",
+                "hu": "Brit Fűnyírómúzeum",
+                "ro": "Muzeul Britanic al Mașinilor de Tuns Iarba",
+                "en": "British Lawnmower Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Wärme in diesem Indoor-Museum am Morgen; es ist der ideale Ort, um die Tour zu starten, während draußen der Boden noch gefroren ist.",
+                "hu": "Élvezze a kellemes meleget ebben a fedett múzeumban a reggeli órákban; ez az ideális hely a túra kezdéséhez, amíg odakint még fagyos a talaj.",
+                "ro": "Bucurați-vă de căldura plăcută din acest muzeu de interior în cursul dimineții; este locul ideal pentru a începe turul în timp ce solul este încă înghețat afară.",
+                "en": "Enjoy the cozy indoor heating of this museum during the cold morning hours; it is a brilliant place to start your day while the frost is still thick on the ground outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Village",
+                "ro": "Birkdale Village",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Das Dorf wirkt im Winter besonders einladend; parken Sie direkt vor den Geschäften, um die Kältephasen zwischen den Besuchen der kleinen Läden kurz zu halten.",
+                "hu": "A falu télen különösen barátságos; parkoljon közvetlenül az üzletek előtt, hogy a kis boltok látogatása közötti hidegben töltött időt a lehető legrövidebbre csökkentse.",
+                "ro": "Satul este extrem de primitor iarna; parcați chiar în fața magazinelor pentru a scurta la maximum timpul petrecut în frig între vizitele în micile prăvălii locale.",
+                "en": "The village feels very welcoming in winter; park right outside the shops to keep your transitions from the warm car to the cozy boutiques as quick as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die weiten, frostbedeckten Rasenflächen vom Auto aus; die klaren Wintertage bieten eine hervorragende Sicht auf die gepflegten Gartenanlagen des Parks.",
+                "hu": "Csodálja meg a hatalmas, zúzmarás gyepeket az autóból; a tiszta téli napokon kiváló a kilátás a park gondozott kertjeire és a kristálytiszta tájra.",
+                "ro": "Admirați peluzele vaste acoperite de chiciură din mașină; zilele senine de iarnă oferă o vizibilitate excelentă asupra grădinilor îngrijite și a peisajului înghețat.",
+                "en": "Admire the vast, frost-covered lawns from your car; clear winter days offer excellent visibility across the well-kept gardens and the crisp, sparkling landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pleasureland",
+                "hu": "Southport Pleasureland",
+                "ro": "Southport Pleasureland",
+                "en": "Southport Pleasureland"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park am Nachmittag, um die bunten Fahrgeschäfte vor der frühen Winterdämmerung zu sehen; die kalte Meeresluft ist belebend, aber ein warmer Schal ist Pflicht.",
+                "hu": "Látogasson el ide délután, hogy még a korai sötétedés előtt lássa a színes játékokat; a hideg tengeri levegő frissítő, de egy meleg sál elengedhetetlen a sétához.",
+                "ro": "Vizitați parcul după-amiaza pentru a vedea atracțiile colorate înainte de amurgul timpuriu; aerul rece de mare este revigorant, dar un fular gros este obligatoriu.",
+                "en": "Visit in the afternoon to see the colorful rides before the early winter dusk sets in; the cold sea air is bracing, so keep your car's heater ready for a quick warm-up."
+              }
+            },
+            {
+              "name": {
+                "de": "The Atkinson",
+                "hu": "The Atkinson",
+                "ro": "The Atkinson",
+                "en": "The Atkinson"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kulturzentrum als perfekten Ort für eine Aufwärmpause am späten Nachmittag, wenn die Außentemperaturen im Winter spürbar zu sinken beginnen.",
+                "hu": "Használja a kulturális központot tökéletes melegedőhelyként késő délután, amikor a kinti hőmérséklet télen érezhetően zuhanni kezd a naplemente közeledtével.",
+                "ro": "Folosiți centrul cultural ca loc perfect de încălzire spre sfârșitul după-amiezii, când temperatura exterioară începe să scadă simțitor în zilele de iarnă.",
+                "en": "Use this cultural hub as the perfect spot to warm up in the late afternoon when the outdoor temperatures begin to drop significantly as evening approaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pier",
+                "hu": "Southport Pier",
+                "ro": "Southport Pier",
+                "en": "Southport Pier"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Pier, um den Sonnenuntergang gegen 17:00 Uhr zu erleben; parken Sie so nah wie möglich, um die frostige Brise nur kurz genießen zu müssen.",
+                "hu": "Menjen ki a mólóhoz, hogy megnézze a naplementét 17 óra körül; parkoljon a lehető legközelebb, hogy csak rövid ideig kelljen elviselnie a fagyos tengeri szelet.",
+                "ro": "Mergeți la dig pentru a vedea apusul în jurul orei 17:00; parcați cât mai aproape posibil pentru a limita timpul petrecut în briza înghețată de pe coastă.",
+                "en": "Drive to the pier area to witness the sunset around 5 PM; park as close as you can to minimize your time in the freezing coastal breeze while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Hesketh Park",
+                "hu": "Hesketh Park",
+                "ro": "Hesketh Park",
+                "en": "Hesketh Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer ruhigen Fahrt durch den winterlichen Park; die frostigen Bäume und der See wirken in der Abenddämmerung besonders friedlich und magisch.",
+                "hu": "Zárja a napot egy csendes autózással a téli parkban; a zúzmarás fák és a tó látványa az esti szürkületben különösen békés és varázslatos hangulatot áraszt.",
+                "ro": "Încheiați ziua cu o plimbare liniștită cu mașina prin parcul de iarnă; copacii înghețați și lacul arată deosebit de liniștit și magic în amurgul serii.",
+                "en": "Finish your day with a peaceful drive through the winter park; the frosted trees and the lake look particularly serene and magical in the deepening evening twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A reggel lenyűgöző tengerparti panorámákkal és a Templecavan ősi templomromjaival kezdődik. A nap közepén a történelmi védelmi torony és a sziklák pereméről nyíló kilátás következik. Délután fentről csodálhatja meg az öböl érintetlen ívét. A nap csodálatosan zárul az ezüst homokos The Silver Strand partján, ahol kipihenheti magát a tenger morajlását hallgatva.",
         "ro": "Dimineața începe cu panorame de coastă și ruinele antice ale bisericii Templecavan. La prânz vă îndreptați spre turnul de apărare istoric și spre punctele de observație uimitoare de pe stânci. După-amiaza admirați de sus curba perfectă a golfului. Ziua se încheie minunat pe nisipul auriu de la The Silver Strand, unde vă puteți relaxa complet lângă valuri.",
         "en": "Morning begins with sweeping coastal panoramas and ancient church ruins at Templecavan. Midday shifts towards the historic defense tower and striking cliffside viewpoints over the ocean. In the afternoon, you'll admire the pristine curve of the bay from above. The day concludes wonderfully down on the golden sands of The Silver Strand itself."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit feinem Sprühregen, der die Klippen in ein mystisches Grau hüllt. Mittags peitscht der Wind die Gischt hoch, suchen Sie Schutz hinter den alten Steinmauern von Templecavan. Am Nachmittag führen rutschige Pfade zum Silver Strand, wo die Brandung heute besonders wild tobt. Der Abend gehört der Gemütlichkeit in einer warmen Stube bei prasselndem Regen und Tee.",
+            "hu": "Reggel a szitáló eső misztikus ködbe burkolja a part menti sziklákat. Délben a feltámadó szélben érdemes Templecavan falai mögött menedéket keresni a permet elől. Délután a Silver Strandhez vezető lépcsők csúszóssá válhatnak, ezért csak lassan, kapaszkodva ereszkedjen le. Este a szállás melegében, a tenger morajlását hallgatva pihenhetjük ki a vizes, de frissítő túrát.",
+            "ro": "Dimineața începe cu o burniță fină care îmbracă falezele într-un gri mistic. La prânz, vântul puternic ridică spray-ul marin, așa că folosiți zidurile vechi din Templecavan ca paravan. După-amiaza, potecile spre Silver Strand devin alunecoase, necesitând pași prudenți pe trepte. Seara este perfectă pentru a sta la adăpost, ascultând ploaia și savurând o băutură caldă.",
+            "en": "Morning begins with a soft drizzle wrapping the cliffs in a mystical grey veil. By noon, the wind picks up the Atlantic spray, so find shelter behind the sturdy stone walls of Templecavan. In the afternoon, the path to the Silver Strand becomes slippery, requiring extra care on the steep steps. The evening is best spent in a cozy indoor nook, listening to the rain's rhythmic beat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ozean-Aussichtspunkt",
+                "hu": "Óceáni kilátó",
+                "ro": "Punct de observație pe ocean",
+                "en": "Ocean Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen senkrecht in die tosende See fällt; tragen Sie unbedingt eine windfeste Regenjacke gegen den peitschenden Wind.",
+                "hu": "Figyelje meg, ahogy az esőfüggöny találkozik a háborgó tengerrel; a viharos szél miatt szorosan rögzítse esőkapucniját a kilátóponton.",
+                "ro": "Priviți cum perdeaua de ploaie se întâlnește cu marea agitată; purtați o jachetă impermeabilă de calitate pentru a rezista vântului tăios.",
+                "en": "Watch the curtains of rain merge with the turbulent sea; make sure to secure your hood tightly as the wind can be very gusty here."
+              }
+            },
+            {
+              "name": {
+                "de": "Templecavan",
+                "hu": "Templecavan",
+                "ro": "Templecavan",
+                "en": "Templecavan"
+              },
+              "tip_5lang": {
+                "de": "Die alten Ruinen bieten einen Hauch von Schutz vor dem Guss; nutzen Sie die dicken Mauern, um Ihre Kameraausrüstung kurz trocken zu wischen.",
+                "hu": "A régi romok falai némi védelmet nyújtanak a felhőszakadás elől; használja a vastag köveket szélárnyékként, amíg megigazítja esőfelszerelését.",
+                "ro": "Ruinele vechi oferă un mic adăpost împotriva aversei; folosiți zidurile groase ca paravan pentru a vă șterge rapid lentila aparatului foto.",
+                "en": "The ancient ruins offer a bit of shelter from the downpour; use the thick stone walls as a windbreak while you adjust your waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Wachturm",
+                "hu": "Malin Beg őrtorony",
+                "ro": "Turnul de veghe Malin Beg",
+                "en": "Malin Beg Watch Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Regen noch einsamer und dramatischer; achten Sie auf den extrem rutschigen Untergrund direkt an den Klippenkanten.",
+                "hu": "A torony az esőben még magányosabbnak és drámaibbnak tűnik; vigyázzon a rendkívül csúszós füves talajra a szikla szélénél.",
+                "ro": "Turnul pare și mai singuratic și dramatic în ploaie; aveți mare grijă la terenul ierbos deosebit de alunecos de lângă marginea falezei.",
+                "en": "The tower looks even more lonely and dramatic in the rain; watch out for extremely slippery grassy ground near the cliff edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Aussichtspunkt",
+                "hu": "Malin Beg kilátó",
+                "ro": "Punct de belvedere Malin Beg",
+                "en": "Malin Beg Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Bucht im Nebel; ein trockenes Mikrofasertuch hilft, Ihre Brille oder Linse für ein schnelles Foto zu reinigen.",
+                "hu": "Élvezze az öböl látványát a ködben; egy száraz mikroszálas kendő jól jön majd a szemüveg vagy a lencse letörléséhez egy gyors fotó előtt.",
+                "ro": "Bucurați-vă de vederea golfului prin ceață; o cârpă din microfibră uscată vă va ajuta să curățați ochelarii sau lentila pentru o poză rapidă.",
+                "en": "Enjoy the view of the bay through the mist; a dry microfiber cloth will be useful to wipe your glasses or lens for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Strand Aussichtspunkt",
+                "hu": "Silver Strand kilátó",
+                "ro": "Punct de belvedere Silver Strand",
+                "en": "Silver Strand Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Von hier oben sieht man die weißen Wellen auf dem dunklen Sand besonders gut; halten Sie sich am Geländer fest, da der Wind hier oft stark bläst.",
+                "hu": "Innen látszanak legjobban a sötét homokon megtörő fehér hullámok; kapaszkodjon a korlátba, mert a szél itt gyakran belekap az esőkabátba.",
+                "ro": "De aici se văd cel mai bine valurile albe spărgându-se pe nisipul închis; țineți-vă de balustradă, deoarece vântul suflă cu putere aici.",
+                "en": "From here, the white waves crashing on the dark sand look spectacular; hold onto the railing as the wind often gusts strongly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Silver Strand",
+                "hu": "A Silver Strand",
+                "ro": "Plaja Silver Strand",
+                "en": "The Silver Strand"
+              },
+              "tip_5lang": {
+                "de": "Die Treppen können bei Nässe tückisch sein; gehen Sie langsam und genießen Sie unten das einzigartige Geräusch des Regens auf dem Meereswasser.",
+                "hu": "A lépcsők vizesen csalókák lehetnek; haladjon lassan, és élvezze odalent az esőcseppek különleges kopogását a tenger felszínén.",
+                "ro": "Treptele pot fi înșelătoare când sunt ude; coborâți încet și bucurați-vă de sunetul unic al ploii care cade direct în apa mării.",
+                "en": "The steps can be treacherous when wet; walk slowly and enjoy the unique sound of rain hitting the sea surface down at the beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne geht spät über den gefrorenen Wiesen auf. Mittags leuchten die Klippen in einem klaren, kalten Licht unter blauem Himmel. Da die Sonne bereits gegen 17:00 Uhr versinkt, sollten Sie den Silver Strand am frühen Nachmittag besuchen. Der Abend ist kurz und lädt dazu ein, den Tag bei einem wärmenden Kaminfeuer frühzeitig ausklingen zu lassen.",
+            "hu": "A téli nap későn kel a deres mezők felett, frissítő hideget hozva. Délben a sziklák éles, tiszta fényben ragyognak az alacsony napállás miatt. Mivel a naplemente már 17:00 körül beköszönt, a strandot kora délután érdemes felkeresni. Az este hamar leszáll, ilyenkor a legkellemesebb egy ropogó kandalló mellett megmelegedni.",
+            "ro": "Soarele de iarnă răsare târziu peste pajiștile înghețate, aducând un aer rece și revigorant. La prânz, falezele strălucesc într-o lumină clară sub cerul senin. Deoarece apusul vine deja în jurul orei 17:00, vizitați plaja devreme. Seara se așterne repede, fiind momentul ideal pentru a vă încălzi lângă un foc de șemineu.",
+            "en": "The winter sun rises late over the frost-covered meadows, bringing a crisp chill. By noon, the cliffs glow in sharp, clear light under the low-hanging sun. Since sunset arrives around 17:00, aim to reach the strand by early afternoon. Evening falls quickly, inviting you to retreat early to the warmth of a crackling fireside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ozean-Aussichtspunkt",
+                "hu": "Óceáni kilátó",
+                "ro": "Punct de observație pe ocean",
+                "en": "Ocean Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist im Winter unglaublich klar; tragen Sie Thermokleidung, um dem eisigen Nordwind bei der Beobachtung der See standzuhalten.",
+                "hu": "A levegő télen hihetetlenül tiszta; viseljen termikus ruházatot, hogy ellenálljon a jeges északi szélnek az óceán figyelése közben.",
+                "ro": "Aerul este incredibil de clar iarna; purtați haine termice pentru a rezista vântului înghețat din nord în timp ce admirați oceanul.",
+                "en": "The air is incredibly clear in winter; wear thermal layers to withstand the icy northern wind while watching the vast ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Templecavan",
+                "hu": "Templecavan",
+                "ro": "Templecavan",
+                "en": "Templecavan"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange, dramatische Schatten durch die Ruinen; feste Wanderstiefel sind wichtig, falls der Boden gefroren ist.",
+                "hu": "Az alacsonyan járó nap hosszú, drámai árnyékokat vet a romok között; a fagyott talaj miatt fontos a biztos tartást adó túrabakancs.",
+                "ro": "Soarele jos aruncă umbre lungi și dramatice printre ruine; bocancii de munte sunt esențiali dacă solul este înghețat și alunecos.",
+                "en": "The low sun casts long, dramatic shadows through the ruins; sturdy hiking boots are essential if the ground is frozen and hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Wachturm",
+                "hu": "Malin Beg őrtorony",
+                "ro": "Turnul de veghe Malin Beg",
+                "en": "Malin Beg Watch Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein heißer Tee aus der Thermoskanne am Turm hilft gegen die Kälte; halten Sie Ihren Besuch kurz, um nicht im eisigen Wind auszukühlen.",
+                "hu": "Egy termosz forró tea a toronynál sokat segít a hideg ellen; tartson rövid pihenőt, hogy ne hűljön ki a metsző téli szélben.",
+                "ro": "Un ceai fierbinte din termos la turn ajută mult împotriva frigului; faceți o vizită scurtă pentru a nu îngheța în vântul tăios de iarnă.",
+                "en": "A hot tea from a thermos at the tower helps combat the chill; keep your visit brief to avoid getting too cold in the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Aussichtspunkt",
+                "hu": "Malin Beg kilátó",
+                "ro": "Punct de belvedere Malin Beg",
+                "en": "Malin Beg Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Winterfarben des Meeres sind tiefer und dunkler; eine Mütze, die die Ohren bedeckt, ist bei dem starken Küstenwind unerlässlich.",
+                "hu": "A tenger téli színei mélyebbek és sötétebbek; a fület is takaró sapka elengedhetetlen az erős és hideg part menti szélben.",
+                "ro": "Culorile de iarnă ale mării sunt mai intense și mai închise; o căciulă care acoperă urechile este indispensabilă în vântul puternic de coastă.",
+                "en": "The winter colors of the sea are deeper and darker; a hat covering your ears is essential in the strong and cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Strand Aussichtspunkt",
+                "hu": "Silver Strand kilátó",
+                "ro": "Punct de belvedere Silver Strand",
+                "en": "Silver Strand Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das frühe goldene Licht vor dem Sonnenuntergang; Handschuhe sind wichtig, wenn Sie die Kamera für Fotos länger halten.",
+                "hu": "Figyelje meg a korai aranyló fényeket a naplemente előtt; a kesztyű fontos, ha a fotózáshoz hosszabb ideig tartja kézben a gépet.",
+                "ro": "Admirați lumina aurie timpurie dinaintea apusului; mănușile sunt importante dacă țineți camera în mână pentru fotografii mai mult timp.",
+                "en": "Observe the early golden light before the sunset; gloves are important if you plan to hold your camera for photos for an extended time."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Silver Strand",
+                "hu": "A Silver Strand",
+                "ro": "Plaja Silver Strand",
+                "en": "The Silver Strand"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer und friedlich; kehren Sie spätestens um 16:30 Uhr um, damit Sie die Treppen noch im Hellen steigen.",
+                "hu": "A strand télen gyakran teljesen néptelen és békés; legkésőbb 16:30-kor induljon vissza, hogy még világosban érjen fel a lépcsőkön.",
+                "ro": "Plaja este adesea pustie și liniștită iarna; porniți înapoi cel târziu la 16:30 pentru a urca treptele cât încă este lumină afară.",
+                "en": "The beach is often completely deserted and peaceful in winter; start your return by 16:30 to climb the steps while it is still light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a túrát a The Silver Strand eldugott szépségével, mielőtt visszakapaszkodna a partra. A nap közepén lenyűgöző kilátók és a napóleoni torony drámai sziklái között kerékpározik. A délutáni tekerés ősi romok mellett vezet el a még vadabb óceáni panorámák felé. Zárja a napot a Pointe Radhairc foknál, a végtelen horizontban gyönyörködve.",
         "ro": "Începeți plimbarea cu frumusețea izolată de la The Silver Strand înainte de a urca din nou. La prânz vă deplasați între puncte de belvedere spectaculoase și stâncile dramatice de lângă turn. După-amiaza pedalați pe lângă ruine antice spre vederi și mai sălbatice ale oceanului. Încheiați ziua la Pointe Radhairc, admirând orizontul nesfârșit al Atlanticului.",
         "en": "Start your ride descending to the secluded beauty of The Silver Strand before climbing back up. Midday involves hopping between spectacular viewpoints and the dramatic cliffs near the Napoleonic tower. Afternoon pedaling takes you past ancient ruins to even wilder ocean overlooks. Conclude at Pointe Radhairc, enjoying the endless horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet auf nassen Straßen, die Vorsicht in den Kurven erfordern. Mittags bietet der Malin Beg Viewpoint einen dramatischen Blick auf die raue See. Achten Sie auf Pfützen und rutschiges Laub auf den Nebenstraßen. Der Nachmittag endet früher, da das Fahren bei Regen ermüdet; ein warmes Ziel am Abend ist die beste Belohnung nach der feuchten Fahrt.",
+            "hu": "A kerékpártúra vizes utakon indul, ami fokozott óvatosságot igényel a kanyarokban. Délben a Malin Beg kilátó drámai látványt nyújt a tajtékzó tengerre. Ügyeljen a tócsákra és a csúszós útmenti sárra a kisebb utakon. A délutáni tekerés a fárasztó eső miatt rövidebb lehet; egy meleg szálláshely a legjobb jutalom a nap végén.",
+            "ro": "Turul cu bicicleta începe pe drumuri ude, necesitând prudență sporită în curbe. La prânz, punctul de belvedere Malin Beg oferă o priveliște dramatică asupra mării învolburate. Atenție la bălți și noroiul alunecos de pe marginea drumurilor secundare. După-amiaza se încheie mai devreme din cauza oboselii cauzate de ploaie; un adăpost cald este cea mai bună recompensă.",
+            "en": "The bike tour starts on wet roads, requiring extra caution in every corner. By noon, the Malin Beg Viewpoint offers a dramatic vista of the churning sea. Watch out for puddles and slippery mud on the narrower backroads. The afternoon session might be shorter as riding in the rain is tiring; a warm destination is the perfect reward at the end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Der Silver Strand",
+                "hu": "A Silver Strand",
+                "ro": "Plaja Silver Strand",
+                "en": "The Silver Strand"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher auf festem Grund ab; der Regen macht den Abstieg zum Sand noch spektakulärer, aber auch rutschiger.",
+                "hu": "Parkolja le a kerékpárt stabil, szilárd talajon; az eső még látványosabbá, de egyben csúszósabbá is teszi a homokos partra vezető utat.",
+                "ro": "Parcați bicicleta pe un teren solid; ploaia face coborârea spre plajă și mai spectaculoasă, dar și mult mai alunecoasă.",
+                "en": "Park your bike securely on firm ground; the rain makes the descent to the sand even more spectacular but also much more slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Strand Aussichtspunkt",
+                "hu": "Silver Strand kilátó",
+                "ro": "Punct de belvedere Silver Strand",
+                "en": "Silver Strand Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, um das Grau des Ozeans zu bewundern; tragen Sie wasserdichte Überschuhe, um Ihre Füße beim Treten trocken zu halten.",
+                "hu": "Egy rövid megálló is elég az óceán szürkeségének megcsodálásához; viseljen vízálló kamáslit, hogy lábai szárazak maradjanak tekerés közben.",
+                "ro": "O oprire scurtă este suficientă pentru a admira griul oceanului; purtați protecții impermeabile pentru încălțăminte ca să aveți picioarele uscate.",
+                "en": "A short stop is enough to admire the ocean's grey tones; wear waterproof overshoes to keep your feet dry while pedaling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Aussichtspunkt",
+                "hu": "Malin Beg kilátó",
+                "ro": "Punct de belvedere Malin Beg",
+                "en": "Malin Beg Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gegen starke Windböen; der Ausblick auf die Küste im Regen ist ein Muss für jeden wetterfesten Radfahrer.",
+                "hu": "Biztosítsa ki a kerékpárt az erős széllökések ellen; a partvonal látványa az esőben kötelező minden időjárásálló kerékpárosnak.",
+                "ro": "Asigurați bicicleta împotriva rafalelor puternice de vânt; vederea coastei în ploaie este obligatorie pentru orice biciclist rezistent.",
+                "en": "Secure your bike against strong wind gusts; the coastal view in the rain is a must-see for any weatherproof cyclist."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Wachturm",
+                "hu": "Malin Beg őrtorony",
+                "ro": "Turnul de veghe Malin Beg",
+                "en": "Malin Beg Watch Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Wiesen um den Turm können sehr schlammig sein; bleiben Sie mit dem Rad auf dem befestigten Weg, um nicht im Morast stecken zu bleiben.",
+                "hu": "A torony körüli mezők nagyon sárosak lehetnek; maradjon a kerékpárral a kövezett úton, hogy ne ragadjon bele a felázott talajba.",
+                "ro": "Câmpurile din jurul turnului pot fi foarte noroioase; rămâneți cu bicicleta pe drumul pavat pentru a nu vă împotmoli în noroi.",
+                "en": "The meadows around the tower can be very muddy; stay on the paved path with your bike to avoid getting stuck in the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Templecavan",
+                "hu": "Templecavan",
+                "ro": "Templecavan",
+                "en": "Templecavan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenruine für eine kurze Trinkpause im Trockenen; prüfen Sie Ihre Bremsen, da sie bei Nässe eine längere Reaktionszeit haben.",
+                "hu": "Használja a templomromot egy rövid, száraz frissítő szünetre; ellenőrizze a fékeket, mert vizes felnin lassabban fognak.",
+                "ro": "Folosiți ruina bisericii pentru o scurtă pauză de hidratare la adăpost; verificați frânele, deoarece pe timp de ploaie reacționează mai greu.",
+                "en": "Use the church ruins for a quick, dry hydration break; check your brakes frequently as they have a longer response time when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ozean-Aussichtspunkt",
+                "hu": "Óceáni kilátó",
+                "ro": "Punct de observație pe ocean",
+                "en": "Ocean Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel nach dem Stopp gründlich ab; das dramatische Wellenspiel entschädigt für die Mühen der nassen Fahrt.",
+                "hu": "Alaposan törölje le a nyerget a megálló után; a drámai hullámzás látványa kárpótolni fogja a vizes túra minden nehézségéért.",
+                "ro": "Ștergeți bine șaua după oprire; spectacolul dramatic al valurilor va compensa toate eforturile acestei călătorii umede.",
+                "en": "Wipe your saddle thoroughly after the stop; the dramatic wave action will compensate for all the efforts of this wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe Radhairc na Málainne Bige",
+                "hu": "Pointe Radhairc na Málainne Bige",
+                "ro": "Pointe Radhairc na Málainne Bige",
+                "en": "Pointe Radhairc na Málainne Bige"
+              },
+              "tip_5lang": {
+                "de": "Hier oben ist es sehr exponiert; tragen Sie eine neongelbe Regenjacke, um bei schlechter Sicht für andere Verkehrsteilnehmer sichtbar zu sein.",
+                "hu": "Ez a pont nagyon kitett a szélnek; viseljen fényvisszaverő esőkabátot, hogy a rossz látási viszonyok között is észrevehető maradjon.",
+                "ro": "Acest punct este foarte expus; purtați o jachetă de ploaie reflectorizantă pentru a fi vizibil în condiții de vizibilitate redusă.",
+                "en": "This point is very exposed; wear a high-visibility waterproof jacket to stay seen by others in the low visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour spät am Vormittag, wenn der Frost von den Straßen gewichen ist. Mittags sorgt die klare Luft für eine weite Sicht bis zum Horizont. Tragen Sie winddichte Kleidung, da der Fahrtwind die Kälte verstärkt. Da es früh dunkel wird, sollten Sie die Tour gegen 16:30 Uhr beenden, um sicher und im Hellen an Ihr Ziel zu kommen.",
+            "hu": "Kezdje a kerékpártúrát késő délelőtt, amikor a dér már eltűnt az utakról. Délben a tiszta levegőnek köszönhetően ellátni egészen a horizontig. Viseljen szélálló ruházatot, mert a menetszél felerősíti a hideget. Mivel korán sötétedik, fejezze be a túrát 16:30 körül, hogy biztonságban hazaérjen.",
+            "ro": "Începeți tura cu bicicleta târziu dimineața, după ce bruma s-a topit de pe drumuri. La prânz, aerul curat permite o vizibilitate până la orizont. Purtați haine rezistente la vânt, deoarece viteza amplifică frigul. Deoarece se întunecă devreme, încheiați tura în jur de ora 16:30 pentru siguranță.",
+            "en": "Start your cycling trip late in the morning once the frost has melted from the roads. By noon, the crisp air provides clear views to the horizon. Wear windproof gear, as the movement increases the wind chill significantly. Since it gets dark early, aim to finish your ride by 16:30 for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Der Silver Strand",
+                "hu": "A Silver Strand",
+                "ro": "Plaja Silver Strand",
+                "en": "The Silver Strand"
+              },
+              "tip_5lang": {
+                "de": "Die Metalltreppen können bei Frost extrem glatt sein; tragen Sie Fahrradhandschuhe mit gutem Grip, um sich sicher am Geländer festzuhalten.",
+                "hu": "A fém lépcsők fagyban rendkívül csúszósak lehetnek; viseljen jó tapadású kesztyűt, hogy biztosan kapaszkodhasson a korlátba.",
+                "ro": "Treptele metalice pot fi extrem de alunecoase pe timp de îngheț; purtați mănuși cu aderență bună pentru a vă ține sigur de balustradă.",
+                "en": "The metal steps can be extremely slippery in frost; wear cycling gloves with good grip to hold the railing securely as you descend."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Strand Aussichtspunkt",
+                "hu": "Silver Strand kilátó",
+                "ro": "Punct de belvedere Silver Strand",
+                "en": "Silver Strand Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht, um nicht auszukühlen; bewegen Sie Ihre Zehen regelmäßig in den Schuhen, um die Durchblutung zu fördern.",
+                "hu": "Egy rövid fotómegálló is elég, nehogy kihűljön; tekerés közben is mozgassa a lábujjait a cipőben a jobb vérkeringés érdekében.",
+                "ro": "O scurtă oprire pentru poze este suficientă; mișcați-vă degetele de la picioare în pantofi pentru a menține circulația sângelui activă.",
+                "en": "A brief photo stop is best to avoid getting cold; wiggle your toes frequently in your shoes to keep the blood circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Aussichtspunkt",
+                "hu": "Malin Beg kilátó",
+                "ro": "Punct de belvedere Malin Beg",
+                "en": "Malin Beg Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet beim Fahren; eine Sonnenbrille ist wichtig, um die Küstenstraße sicher im Blick zu behalten.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; a napszemüveg fontos a biztonságos közlekedéshez a tengerparti úton.",
+                "ro": "Soarele de iarnă poziționat jos vă poate orbi; ochelarii de soare sunt esențiali pentru a vedea drumul de coastă în siguranță.",
+                "en": "The low winter sun can be blinding while cycling; sunglasses are essential to keep the coastal road clearly in your sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Wachturm",
+                "hu": "Malin Beg őrtorony",
+                "ro": "Turnul de veghe Malin Beg",
+                "en": "Malin Beg Watch Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Turm kann eisig sein; ziehen Sie eine dünne Mütze unter den Helm, um den Wärmeverlust über den Kopf zu minimieren.",
+                "hu": "A toronynál jeges lehet a szél; húzzon egy vékony sapkát a sisak alá, hogy minimalizálja a fején keresztüli hőveszteséget.",
+                "ro": "Vântul la turn poate fi înghețat; purtați o căciulă subțire sub cască pentru a minimiza pierderea de căldură prin cap.",
+                "en": "The wind at the tower can be icy; wear a thin cap under your helmet to minimize heat loss through your head during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Templecavan",
+                "hu": "Templecavan",
+                "ro": "Templecavan",
+                "en": "Templecavan"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten Windschutz für einen Schluck warmes Wasser; achten Sie auf Raureif auf den Steinen, wenn Sie das Rad abstützen.",
+                "hu": "A romok szélvédett helyet biztosítanak egy korty meleg vízhez; ügyeljen a zúzmarás kövekre, amikor nekitámasztja a kerékpárt.",
+                "ro": "Ruinele oferă protecție contra vântului pentru o gură de apă caldă; atenție la chiciura de pe pietre când sprijiniți bicicleta.",
+                "en": "The ruins provide a wind-sheltered spot for a sip of warm water; watch out for hoarfrost on the stones when leaning your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Ozean-Aussichtspunkt",
+                "hu": "Óceáni kilátó",
+                "ro": "Punct de observație pe ocean",
+                "en": "Ocean Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, aber bleiben Sie in Bewegung; kurze, intensive Sprints helfen, die Körperwärme aufrechtzuerhalten.",
+                "hu": "Élvezze a tiszta kilátást, de maradjon mozgásban; a rövid, intenzívebb szakaszok segítenek fenntartani a testhőmérsékletet.",
+                "ro": "Bucurați-vă de vederea clară, dar rămâneți în mișcare; sprinturile scurte și intense ajută la menținerea căldurii corporale.",
+                "en": "Enjoy the clear views but stay in motion; short, intense bursts of cycling help maintain your core body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe Radhairc na Málainne Bige",
+                "hu": "Pointe Radhairc na Málainne Bige",
+                "ro": "Pointe Radhairc na Málainne Bige",
+                "en": "Pointe Radhairc na Málainne Bige"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der kälteste Punkt der Tour wegen des Windes; schalten Sie Ihr Licht ein, da die Dämmerung im Winter sehr schnell einsetzt.",
+                "hu": "A szél miatt ez a túra leghidegebb pontja; kapcsolja be a lámpákat, mert a szürkület télen nagyon hirtelen érkezik.",
+                "ro": "Acesta este cel mai rece punct al turului din cauza vântului; aprindeți luminile, deoarece amurgul vine foarte repede iarna.",
+                "en": "This is the coldest point of the tour due to the wind exposure; turn on your lights as dusk sets in very quickly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Indítsa autós útját egy frissítő reggeli túrával a Leahan hegyre a páratlan kilátásért. Délben pihenjen meg a The Silver Strand híres homokján, és járja be a környező sziklás kilátókat. Délután történelmi tornyokhoz és magányos hegyfokokhoz vezet az út. Kora este elmerülhet a történelem előtti rejtélyekben Dermot és Grania ágyánál.",
         "ro": "Începeți traseul auto cu o drumeție de dimineață pe Leahan pentru vederi de neegalat. La prânz, relaxați-vă pe plaja The Silver Strand și vizitați punctele de observație de pe stânci. Conducând după-amiaza, ajungeți la turnuri istorice și promontorii solitare. Spre seară, meditați asupra misterelor preistorice la faimosul Dermot & Grania's Bed.",
         "en": "Kick off your drive with an invigorating morning hike up Leahan for unmatched peninsular views. By midday, relax on the famous sands of The Silver Strand and tour the surrounding cliffside overlooks. Afternoon driving brings you to historic towers and solitary headlands. As evening falls, ponder prehistoric mysteries at Dermot & Grania's Bed."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer gemütlichen Fahrt durch die vernebelten Hügel Donegals. Mittags bietet das Auto den perfekten Rückzugsort, um die tosende Küste trocken zu beobachten. Am Nachmittag laden kurze Sprints zu den Aussichtspunkten ein, bevor Sie zurück in die Wärme kehren. Der Abend lässt sich wunderbar bei prasselndem Regen am Fenster einer gemütlichen Unterkunft verbringen.",
+            "hu": "A nap kényelmes autózással indul Donegal ködös dombjai között. Délben az autó tökéletes menedéket nyújt, ahonnan szárazon csodálhatjuk a tajtékzó partvonalat. Délután csak rövid sétákat tegyünk a kilátópontokig, majd térjünk vissza a fűtött utastérbe. Az estét töltsük egy hangulatos szálláson, az ablakon kopogó esőt hallgatva.",
+            "ro": "Ziua începe cu o plimbare relaxantă cu mașina printre dealurile cețoase din Donegal. La prânz, mașina oferă refugiul perfect pentru a admira coasta învolburată stând la uscat. După-amiaza, faceți scurte ieșiri la punctele de belvedere înainte de a reveni la căldură. Seara se petrece cel mai bine ascultând ploaia de la fereastra unei pensiuni primitoare.",
+            "en": "The day starts with a cozy drive through the misty hills of Donegal. By noon, your car provides the perfect shelter to watch the churning coastline while staying dry. In the afternoon, take short dashes to the viewpoints between the showers. Spend the evening in a comfortable stay, enjoying the sound of rain against the windowpane."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leahan",
+                "hu": "Leahan",
+                "ro": "Leahan",
+                "en": "Leahan"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetterspiel bequem vom Fahrersitz aus; die erhöhte Position bietet einen tollen Blick auf die heranziehenden Regenfronten.",
+                "hu": "Figyelje az időjárás változását kényelmesen a vezetőülésből; a magaslati pontról remekül látszanak a közelgő esőfrontok.",
+                "ro": "Observați schimbarea vremii confortabil de pe scaunul șoferului; poziția elevată oferă o vedere excelentă asupra fronturilor de ploaie.",
+                "en": "Watch the changing weather patterns comfortably from your driver's seat; the elevated spot offers a great view of approaching rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Silver Strand",
+                "hu": "A Silver Strand",
+                "ro": "Plaja Silver Strand",
+                "en": "The Silver Strand"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Regenpause für einen kurzen Abstieg zum Strand; ein Regenschirm ist bei dem oft böigen Wind hier leider meist nutzlos.",
+                "hu": "Használja ki az esőmentes perceket egy rövid sétára a parton; az esernyő a gyakori széllökések miatt itt sajnos többnyire használhatatlan.",
+                "ro": "Profitați de o pauză de ploaie pentru o scurtă coborâre pe plajă; umbrela este, din păcate, inutilă aici din cauza vântului puternic.",
+                "en": "Take advantage of a break in the rain for a quick dash to the beach; an umbrella is usually useless here due to the gusty winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Strand Aussichtspunkt",
+                "hu": "Silver Strand kilátó",
+                "ro": "Punct de belvedere Silver Strand",
+                "en": "Silver Strand Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Strand direkt durch die Windschutzscheibe sehen; die Scheibenwischer auf Intervall halten die Sicht frei.",
+                "hu": "Parkoljon úgy, hogy a szélvédőn keresztül rálásson a partra; az ablaktörlő szakaszos üzemmódja segít tisztán tartani a kilátást.",
+                "ro": "Parcați astfel încât să vedeți plaja direct prin parbriz; folosiți ștergătoarele pe modul intermitent pentru a menține vizibilitatea.",
+                "en": "Park in a position that allows you to see the beach through the windshield; keeping your wipers on intermittent will help your view."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Wachturm",
+                "hu": "Malin Beg őrtorony",
+                "ro": "Turnul de veghe Malin Beg",
+                "en": "Malin Beg Watch Tower"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Regen matschig sein; bleiben Sie auf dem befestigten Parkbereich, um nicht mit den Reifen durchzudrehen.",
+                "hu": "A keskeny bekötőút esőben sáros lehet; maradjon a kövezett parkolóhelyen, hogy elkerülje a kerekek kipörgését a felázott talajon.",
+                "ro": "Drumul îngust de acces poate fi noroios; rămâneți în zona de parcare pavată pentru a evita patinarea roților pe solul moale.",
+                "en": "The narrow access road can get muddy in the rain; stay on the paved parking area to avoid spinning your tires on the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Aussichtspunkt",
+                "hu": "Malin Beg kilátó",
+                "ro": "Punct de belvedere Malin Beg",
+                "en": "Malin Beg Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die Klippen aus dem warmen Auto; ein Fernglas hilft, die Vögel im Sturm besser zu beobachten.",
+                "hu": "Élvezze a drámai sziklák látványát a meleg autóból; egy távcső segít jobban megfigyelni a viharban szálló madarakat.",
+                "ro": "Admirați falezele dramatice din căldura mașinii; un binoclu vă va ajuta să observați mai bine păsările în timpul furtunii.",
+                "en": "Enjoy the dramatic cliff views from the warmth of your car; a pair of binoculars will help you spot birds during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Templecavan",
+                "hu": "Templecavan",
+                "ro": "Templecavan",
+                "en": "Templecavan"
+              },
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkplatz zur Ruine ist kurz, aber nass; tragen Sie wasserfeste Schuhe für den kurzen Gang über das nasse Gras.",
+                "hu": "A parkolótól a romokig tartó út rövid, de vizes; viseljen vízálló cipőt a vizes fűvön való rövid sétához.",
+                "ro": "Drumul de la parcare la ruine este scurt, dar ud; purtați încălțăminte impermeabilă pentru scurta plimbare prin iarba udă.",
+                "en": "The walk from the parking area to the ruins is short but wet; wear waterproof shoes for the brief stroll across the damp grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe Radhairc na Málainne Bige",
+                "hu": "Pointe Radhairc na Málainne Bige",
+                "ro": "Pointe Radhairc na Málainne Bige",
+                "en": "Pointe Radhairc na Málainne Bige"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Öffnen der Autotür; der starke Wind an der Küste kann die Tür leicht aus der Hand reißen, halten Sie sie fest umschlossen.",
+                "hu": "Vigyázzon az ajtónyitásnál; az erős part menti szél könnyen kitépheti a kezéből az autóajtót, fogja szorosan a kilincset.",
+                "ro": "Atenție când deschideți portiera; vântul puternic de coastă o poate smulge cu ușurință din mână, deci țineți-o cu fermitate.",
+                "en": "Be careful when opening your car door; the strong coastal wind can easily catch it and pull it from your hand, so hold it firmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Dermot & Granias Bett",
+                "hu": "Dermot és Grania ágya",
+                "ro": "Patul lui Dermot și Grania",
+                "en": "Dermot & Grania's Bed"
+              },
+              "tip_5lang": {
+                "de": "Dieser mystische Ort wirkt bei Regen noch magischer; lassen Sie die Heizung im Auto laufen, während Sie die Aussicht auf die Bucht genießen.",
+                "hu": "Ez a misztikus hely esőben még varázslatosabb; hagyja járni a fűtést az autóban, miközben az öbölre nyíló kilátást élvezi.",
+                "ro": "Acest loc mistic pare și mai magic în ploaie; lăsați căldura pornită în mașină în timp ce admirați priveliștea asupra golfului.",
+                "en": "This mystical site looks even more magical in the rain; keep the car heater running while you enjoy the views over the bay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt am Wintermorgen führt durch eine glitzernde, frostige Landschaft. Mittags erstrahlen die Klippen im klaren, tiefstehenden Sonnenlicht, das für Fotos perfekt ist. Nutzen Sie die Standheizung bei den Stopps, um es warm zu haben. Da die Sonne bereits um 17:00 Uhr untergeht, sollten Sie frühzeitig zu Ihrer Unterkunft zurückkehren, bevor es auf den Straßen friert.",
+            "hu": "A téli reggeli autózás csillogó, zúzmarás tájon át vezet. Délben a sziklák az alacsonyan járó nap tiszta fényében tündökölnek, ami tökéletes a fotózáshoz. Használja az autó fűtését a megállók alatt is. Mivel a nap már 17:00-kor lebukik a horizont alá, térjen vissza időben a szállásra, mielőtt az utak fagyni kezdenének.",
+            "ro": "Călătoria de iarnă vă poartă printr-un peisaj sclipitor și înghețat. La prânz, falezele strălucesc în lumina clară a soarelui, perfectă pentru fotografii. Folosiți încălzirea mașinii în timpul opririlor. Deoarece soarele apune deja la ora 17:00, reveniți devreme la cazare înainte ca drumurile să devină alunecoase.",
+            "en": "A winter morning drive takes you through a sparkling, frost-covered landscape. By noon, the cliffs shine in the clear, low-angled sunlight, perfect for photography. Make good use of the car's heater during stops to stay cozy. Since the sun sets by 17:00, plan to head back early before the roads start to freeze over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leahan",
+                "hu": "Leahan",
+                "ro": "Leahan",
+                "en": "Leahan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterpanorama; achten Sie beim Aussteigen auf glatte Stellen auf dem Parkplatz, falls Schmelzwasser gefroren ist.",
+                "hu": "Élvezze a tiszta téli panorámát; kiszálláskor ügyeljen a parkoló jeges foltjaira, ahol az olvadékvíz visszafagyhatott.",
+                "ro": "Bucurați-vă de panorama clară de iarnă; atenție la petele de gheață din parcare când coborâți din mașină.",
+                "en": "Enjoy the clear winter panorama; watch out for icy patches in the parking area when getting out of the car in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Silver Strand",
+                "hu": "A Silver Strand",
+                "ro": "Plaja Silver Strand",
+                "en": "The Silver Strand"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zum Strand ist im Winter oft windig und kalt; ziehen Sie sich warm an, bevor Sie das geschützte Auto für den Spaziergang verlassen.",
+                "hu": "A strandhoz vezető út télen gyakran szeles és hideg; öltözzön fel rétegesen, mielőtt elhagyná a védett autót a sétához.",
+                "ro": "Coborârea spre plajă este adesea vântoasă și rece iarna; îmbrăcați-vă bine înainte de a părăsi mașina protejată pentru plimbare.",
+                "en": "The walk down to the strand is often windy and cold in winter; layer up properly before leaving the sheltered car for your stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Strand Aussichtspunkt",
+                "hu": "Silver Strand kilátó",
+                "ro": "Punct de belvedere Silver Strand",
+                "en": "Silver Strand Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht am Nachmittag ist spektakulär; lassen Sie den Motor nicht unnötig laufen, während Sie kurz für ein Foto aussteigen.",
+                "hu": "A délutáni aranyló téli fények lenyűgözőek; ne járassa feleslegesen a motort, amíg kiszáll egy gyors fénykép erejéig.",
+                "ro": "Lumina aurie de iarnă de după-amiază este spectaculoasă; nu lăsați motorul pornit inutil cât timp ieșiți rapid pentru o fotografie.",
+                "en": "The golden winter light in the afternoon is spectacular; don't leave the engine idling unnecessarily while you step out for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Wachturm",
+                "hu": "Malin Beg őrtorony",
+                "ro": "Turnul de veghe Malin Beg",
+                "en": "Malin Beg Watch Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter am besten; prüfen Sie vor der Abfahrt Ihren Reifendruck, da dieser bei Kälte oft leicht sinkt.",
+                "hu": "A távoli kilátás télen a legtisztább; indulás előtt ellenőrizze a keréknyomást, mert a hidegben gyakran csökken a nyomás.",
+                "ro": "Vizibilitatea la distanță este cea mai bună iarna; verificați presiunea în pneuri înainte de plecare, deoarece scade la temperaturi mici.",
+                "en": "The long-distance visibility is best in winter; check your tire pressure before heading out, as it often drops in the cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Malin Beg Aussichtspunkt",
+                "hu": "Malin Beg kilátó",
+                "ro": "Punct de belvedere Malin Beg",
+                "en": "Malin Beg Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für den Sonnenuntergang gegen 16:45 Uhr; halten Sie eine warme Decke im Auto bereit, um es sich beim Warten gemütlich zu machen.",
+                "hu": "Remek hely a naplemente megtekintéséhez 16:45 körül; tartson egy meleg takarót az autóban, hogy kényelmesen várakozhasson.",
+                "ro": "Un loc excelent pentru apusul de la ora 16:45; țineți o pătură caldă în mașină pentru a sta confortabil în timp ce așteptați.",
+                "en": "A great spot for the 16:45 sunset; keep a warm blanket in the car to stay cozy while waiting for the sun to dip below the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Templecavan",
+                "hu": "Templecavan",
+                "ro": "Templecavan",
+                "en": "Templecavan"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Ruinen wirken sehr friedlich; achten Sie auf den Batteriestand Ihres Handys, da Akkus bei Kälte schneller leer werden.",
+                "hu": "A zúzmarás romok rendkívül békések; ügyeljen a telefonja töltöttségére, mert az akkumulátorok hidegben gyorsabban merülnek.",
+                "ro": "Ruinele înghețate par foarte liniștite; aveți grijă la bateria telefonului, deoarece se descarcă mult mai repede la temperaturi scăzute.",
+                "en": "The frosty ruins look very peaceful; keep an eye on your phone's battery level as batteries drain much faster in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe Radhairc na Málainne Bige",
+                "hu": "Pointe Radhairc na Málainne Bige",
+                "ro": "Pointe Radhairc na Málainne Bige",
+                "en": "Pointe Radhairc na Málainne Bige"
+              },
+              "tip_5lang": {
+                "de": "Hier weht oft ein beißender Wind; nutzen Sie die Sitzheizung, um sich nach dem kurzen Gang zum Aussichtspunkt schnell wieder aufzuwärmen.",
+                "hu": "Itt gyakran metsző szél fúj; használja az ülésfűtést, hogy gyorsan felmelegedjen a kilátóhoz tett rövid séta után.",
+                "ro": "Aici suflă adesea un vânt tăios; folosiți încălzirea în scaune pentru a vă încălzi rapid după scurta ieșire la punctul de belvedere.",
+                "en": "A biting wind often blows here; use your seat heaters to warm up quickly after your brief walk to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Dermot & Granias Bett",
+                "hu": "Dermot és Grania ágya",
+                "ro": "Patul lui Dermot și Grania",
+                "en": "Dermot & Grania's Bed"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier pünktlich zum Einsetzen der Dämmerung; stellen Sie sicher, dass Ihr Wischwasser mit Frostschutz gefüllt ist.",
+                "hu": "Fejezze be itt a napot pontosan a szürkület beálltakor; győződjön meg róla, hogy a szélvédőmosó folyadék fagyállóval van feltöltve.",
+                "ro": "Încheiați ziua aici exact la căderea amurgului; asigurați-vă că lichidul de parbriz are suficient antigel pentru noaptea ce vine.",
+                "en": "End your day here right as dusk begins to fall; ensure your windshield washer fluid is filled with plenty of anti-freeze."
+              }
+            }
+          ]
+        }
       }
     }
   }

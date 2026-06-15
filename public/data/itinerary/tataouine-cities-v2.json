@@ -137,6 +137,168 @@
         "hu": "A reggel az ősi Ksar Dagaghra erődítésének felfedezésével és a helyi történelem megismerésével indul. A dél a Mguebla romokhoz és az érdekes dinoszaurusz lelethez vezet. Délután egy festői séta vár a mélyebben fekvő völgy romjai felé. Az este a lenyűgöző Ksar romjainál zárul, ahonnan tökéletes kilátás nyílik a naplementére.",
         "ro": "Dimineața începe cu explorarea vechiului Ksar Dagaghra și a istoriei fortificațiilor locale. La prânz vă îndreptați spre vest spre ruinele Mguebla și fascinantul sit cu dinozauri. După-amiaza aduce o drumeție pitorească spre ruinele din vale. Seara se încheie la ruinele Ksar, oferind o panoramă perfectă la apus de soare.",
         "en": "Morning begins exploring the ancient Ksar Dagaghra and soaking up the deep history of local fortification. Midday takes you westward to the Mguebla ruins and the fascinating Dinosaur sight. Afternoon involves a scenic hike towards the deeper valley ruins. Evening concludes at the sweeping Ksar ruins, offering a perfect sunset panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den schützenden Ghorfas, während der Regen auf die Lehmwände trommelt. Mittags wirkt die Wüstenlandschaft durch den Dunst mystisch, feste Schuhe sind auf dem aufgeweichten Boden Pflicht. Nachmittags erkunden Sie die glitschigen Ruinen mit Vorsicht. Den Abend lassen Sie bei nachlassendem Regen und einer kühlen, frischen Brise über dem Tal von Tataouine ausklingen.",
+            "hu": "Kezdje a napot a ghorfák védelmében, miközben az eső dobol a vályogfalakon. Délben a sivatagi táj misztikus ködbe burkolózik, a felázott talajon pedig elengedhetetlen a stabil bakancs. Délután óvatosan járja be a csúszós romokat a domboldalon. Az estét a csendesedő esőben, a völgy feletti friss, tiszta levegőt élvezve zárhatja Tataouine szélén.",
+            "ro": "Începeți ziua în adăpostul ghorfelor, în timp ce ploaia bate în pereții de lut. La prânz, peisajul deșertic devine mistic prin ceață, iar bocancii robuști sunt obligatorii pe solul înmuiat. După-amiaza, explorați ruinele alunecoase cu mare atenție. Încheiați seara pe măsură ce ploaia se potolește, savurând aerul proaspăt și curat de deasupra văii Tataouine.",
+            "en": "Start your day sheltered within the ghorfas as rain drums against the mud walls. By noon, the desert landscape looks mystical through the haze; sturdy boots are essential on the softened ground. Spend the afternoon cautiously exploring the slippery hillside ruins. End your evening as the rain subsides, enjoying the crisp, fresh air overlooking the Tataouine valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ksar Dagaghra",
+                "hu": "Ksar Dagaghra",
+                "ro": "Ksar Dagaghra",
+                "en": "Ksar Dagaghra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Ghorfas als natürlichen Regenschutz und bewundern Sie die dunklen Erdtöne der nassen Fassaden; Vorsicht auf den unebenen, lehmigen Stufen.",
+                "hu": "Használja a mély ghorfákat természetes esővédőként, és csodálja meg a vizes homlokzatok sötét földszíneit; legyen óvatos az egyenetlen, agyagos lépcsőkön.",
+                "ro": "Folosiți ghorfele adânci ca adăpost natural împotriva ploii și admirați tonurile pământii închise ale fațadelor umede; atenție la treptele denivelate din lut.",
+                "en": "Use the deep ghorfas as natural rain shelter and admire the dark earthy tones of the wet facades; be careful on the uneven, clay-slicked steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Mguebla ruines",
+                "hu": "Mguebla ruines",
+                "ro": "Mguebla ruines",
+                "en": "Mguebla ruines"
+              },
+              "tip_5lang": {
+                "de": "Die exponierten Ruinen wirken im Regen besonders dramatisch, aber der Pfad dorthin kann sehr rutschig sein; wasserfeste Kleidung ist hier absolut notwendig.",
+                "hu": "Az esőben a romok különösen drámai látványt nyújtanak, de az oda vezető ösvény nagyon csúszós lehet; a vízálló ruházat itt elengedhetetlen.",
+                "ro": "Ruinele expuse arată deosebit de dramatic în ploaie, dar poteca spre ele poate fi foarte alunecoasă; îmbrăcămintea impermeabilă este absolut necesară aici.",
+                "en": "The exposed ruins look particularly dramatic in the rain, but the path there can be very slippery; waterproof clothing is absolutely necessary here."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur",
+                "hu": "Dinosaur",
+                "ro": "Dinosaur",
+                "en": "Dinosaur"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp bei der Statue bietet Abwechslung im Grau; halten Sie Ihre Kamera unter einem Schirm geschützt, um Wassertropfen auf der Linse zu vermeiden.",
+                "hu": "Egy gyors fotómegálló a szobornál változatosságot visz a szürkeségbe; tartsa a fényképezőgépet esernyő alatt, hogy elkerülje a vízcseppeket a lencsén.",
+                "ro": "O oprire rapidă pentru poze la statuie oferă varietate în griul zilei; țineți aparatul foto sub umbrelă pentru a evita picăturile de apă pe lentilă.",
+                "en": "A quick photo stop at the statue offers variety in the grey weather; keep your camera protected under an umbrella to avoid water drops on the lens."
+              }
+            },
+            {
+              "name": {
+                "de": "ruines d'un village",
+                "hu": "ruines d'un village",
+                "ro": "ruines d'un village",
+                "en": "ruines d'un village"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das Regenwasser durch die alten Gassen fließt, aber meiden Sie die steilen Hänge, da der Boden dort unberechenbar und weich wird.",
+                "hu": "Figyelje meg, ahogy az esővíz végigfolyik a régi utcákon, de kerülje a meredek rézsűket, mivel a talaj ott kiszámíthatatlanná és puha válik.",
+                "ro": "Observați cum apa de ploaie curge prin ulițele vechi, dar evitați pantele abrupte, deoarece solul devine imprevizibil și moale acolo.",
+                "en": "Observe how rainwater flows through the old alleys, but avoid the steep embankments as the ground there becomes unpredictable and soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar ruines",
+                "hu": "Ksar ruines",
+                "ro": "Ksar ruines",
+                "en": "Ksar ruines"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung im Regen verleiht diesem Ort eine melancholische Schönheit; suchen Sie sich einen überdachten Platz für den letzten Blick auf die Stadt.",
+                "hu": "Az esős szürkület melankolikus szépséget kölcsönöz a helynek; keressen egy fedett részt a városra nyíló utolsó kilátáshoz.",
+                "ro": "Amurgul ploios conferă locului o frumusețe melancolică; căutați un loc acoperit pentru ultima priveliște asupra orașului.",
+                "en": "The rainy twilight lends a melancholy beauty to the site; find a covered spot for the last view over the city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie erfrischt in der klaren Morgenluft, wenn die Sonne die Ksars golden färbt. Mittags ist das Wetter perfekt für längere Wanderungen ohne die Sommerhitze, aber der Wind kann kühl sein. Der Nachmittag bietet weiches Licht für Fotografen, bevor die Sonne gegen 17:00 Uhr rasch untergeht. Den Abend verbringen Sie am besten in einer warmen Unterkunft bei traditionellem Tee.",
+            "hu": "Induljon frissen a tiszta reggeli levegőben, amikor a nap aranyszínűre festi a ksarokat. Délben az idő tökéletes a hosszabb túrákhoz a nyári hőség nélkül, de a szél hűvös lehet. A délután lágy fényeket kínál a fotózáshoz, mielőtt 17:00 körül hirtelen lemegy a nap. Az estét leginkább egy meleg szálláson, hagyományos tea mellett érdemes tölteni.",
+            "ro": "Începeți ziua revigorați de aerul limpede al dimineții, când soarele colorează ksarurile în auriu. La prânz, vremea este perfectă pentru drumeții lungi fără canicula verii, dar vântul poate fi rece. După-amiaza oferă lumină caldă pentru fotografii, înainte ca soarele să apună rapid în jurul orei 17:00. Seara se petrece cel mai bine într-o cazare caldă, cu un ceai tradițional.",
+            "en": "Start refreshed in the clear morning air as the sun paints the ksars golden. By noon, the weather is perfect for longer hikes without the summer heat, though the wind can be chilly. The afternoon offers soft light for photography before the sun sets rapidly around 17:00. Spend your evening in a warm guesthouse with traditional tea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ksar Dagaghra",
+                "hu": "Ksar Dagaghra",
+                "ro": "Ksar Dagaghra",
+                "en": "Ksar Dagaghra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am frühen Morgen und die klare Sicht; tragen Sie windfeste Kleidung, da es in den offenen Innenhöfen empfindlich kalt sein kann.",
+                "hu": "Élvezze a kora reggeli csendet és a tiszta kilátást; viseljen szélálló ruházatot, mert a nyitott udvarokon metszően hideg lehet.",
+                "ro": "Bucurați-vă de liniștea dimineții și de vizibilitatea clară; purtați haine rezistente la vânt, deoarece în curțile deschise poate fi destul de frig.",
+                "en": "Enjoy the early morning quiet and clear views; wear windproof clothing as the open courtyards can be surprisingly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mguebla ruines",
+                "hu": "Mguebla ruines",
+                "ro": "Mguebla ruines",
+                "en": "Mguebla ruines"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und leuchtet die Steine wunderschön aus; nutzen Sie die Mittagsstunden für den Aufstieg, wenn es am wärmsten ist.",
+                "hu": "A téli nap alacsonyan jár, és gyönyörűen megvilágítja a köveket; a túrát a déli órákra időzítse, amikor a legmelegebb az idő.",
+                "ro": "Soarele de iarnă este jos și luminează superb pietrele; folosiți orele amiezii pentru urcare, când este cel mai cald.",
+                "en": "The winter sun sits low and illuminates the stones beautifully; use the midday hours for the climb when it is warmest."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur",
+                "hu": "Dinosaur",
+                "ro": "Dinosaur",
+                "en": "Dinosaur"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Nachmittagslicht eignet sich hervorragend für ein Foto ohne harte Schatten; halten Sie sich in Bewegung, um bei der kühlen Brise warm zu bleiben.",
+                "hu": "A lágy délutáni fény kiváló egy fotóhoz éles árnyékok nélkül; maradjon mozgásban, hogy ne fázzon a hűvös szélben.",
+                "ro": "Lumina caldă de după-amiază este ideală pentru o poză fără umbre dure; rămâneți în mișcare pentru a vă menține căldura în briza rece.",
+                "en": "The soft afternoon light is excellent for a photo without harsh shadows; keep moving to stay warm in the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "ruines d'un village",
+                "hu": "ruines d'un village",
+                "ro": "ruines d'un village",
+                "en": "ruines d'un village"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch hier vor 16:30 Uhr, da die Temperaturen drastisch sinken, sobald die Sonne hinter den Hügeln verschwindet.",
+                "hu": "Fejezze be itt a látogatást 16:30 előtt, mivel a hőmérséklet drasztikusan visszaesik, amint a nap eltűnik a dombok mögött.",
+                "ro": "Încheiați vizita aici înainte de ora 16:30, deoarece temperaturile scad drastic imediat ce soarele dispare după dealuri.",
+                "en": "Finish your visit here before 16:30, as temperatures drop drastically once the sun disappears behind the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar ruines",
+                "hu": "Ksar ruines",
+                "ro": "Ksar ruines",
+                "en": "Ksar ruines"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das schnelle Verblassen des Tageslichts von den Ruinen aus; eine warme Mütze und Handschuhe sind für diesen späten Stopp sehr ratsam.",
+                "hu": "Élje át a nappali fény gyors eltűnését a romoktól; egy meleg sapka és kesztyű erősen ajánlott ehhez a késői megállóhoz.",
+                "ro": "Experimentați dispariția rapidă a luminii zilei de la ruine; o căciulă caldă și mănuși sunt foarte recomandate pentru această oprire târzie.",
+                "en": "Experience the rapid fading of daylight from the ruins; a warm hat and gloves are highly recommended for this late stop."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros napot a keleti Gatoufa romok felé tartva, élvezve a sivatagi tájat. Délben Gattoufa Jedida bonyolult szerkezeteit csodálhatja meg. A délutánt a jól megőrzött ksarkok, köztük a Ksar Jelidat és Boujlida felfedezésével tölti. Az este Ouled Abdelouahednél ér véget, ahol az aranyóra csodásan megvilágítja az ősi falakat.",
         "ro": "Începeți ziua de ciclism pedalând spre est către ruinele Gatoufa, bucurându-vă de peisajele deșertice. Prânzul vă aduce la structurile complexe din Gattoufa Jedida. După-amiaza este petrecută explorând ksar-urile bine conservate, cum ar fi Ksar Jelidat. Seara se încheie la Ouled Abdelouahed, cu zidurile luminate în nuanțe aurii.",
         "en": "Start your cycling day riding east to Gatoufa ruins, enjoying the open desert landscapes. Midday brings you to the intricate structures of Gattoufa Jedida. Afternoon is spent navigating the cluster of well-preserved ksours like Ksar Jelidat and Boujlida. Evening wraps up at Ouled Abdelouahed, where the golden hour illuminates ancient walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig auf nassen Straßen, während der Regen die karge Landschaft verwandelt. Mittags suchen Sie Schutz in den massiven Ksars, um den stärksten Schauern zu entgehen. Die Fahrt am Nachmittag erfordert volle Konzentration wegen Pfützen und Schlamm auf den Nebenwegen. Den Abend beenden Sie durchnässt, aber zufrieden mit einer warmen Dusche und trockener Kleidung.",
+            "hu": "Induljon óvatosan a nedves utakon, miközben az eső átformálja a kopár tájat. Délben keressen menedéket a masszív ksarokban, hogy elkerülje a leghevesebb záporokat. A délutáni tekerés teljes koncentrációt igényel a pocsolyák és a sár miatt a mellékutakon. Az estét átázva, de elégedetten zárhatja egy forró zuhany és száraz ruha társaságában.",
+            "ro": "Porniți cu prudență pe drumurile ude, în timp ce ploaia transformă peisajul arid. La prânz, căutați adăpost în ksarurile masive pentru a evita cele mai puternice averse. Călătoria de după-amiază necesită concentrare maximă din cauza bălților și noroiului de pe drumurile secundare. Încheiați seara uzi, dar satisfăcuți, cu un duș cald și haine uscate.",
+            "en": "Start cautiously on wet roads as the rain transforms the barren landscape. By noon, seek shelter in the massive ksars to avoid the heaviest showers. The afternoon ride requires full concentration due to puddles and mud on the side tracks. End your evening soaked but satisfied, looking forward to a warm shower and dry clothes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gatoufa ruines",
+                "hu": "Gatoufa ruines",
+                "ro": "Gatoufa ruines",
+                "en": "Gatoufa ruines"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zu den Ruinen; der Boden hier wird bei Regen sehr schlammig und erschwert das Schieben des Fahrrads.",
+                "hu": "Ellenőrizze a fékeit a romokhoz való ereszkedés előtt; a talaj itt esőben nagyon sárossá válik, ami megnehezíti a kerékpár tolását.",
+                "ro": "Verificați frânele înainte de a coborî spre ruine; solul aici devine foarte noroios în caz de ploaie, îngreunând împinsul bicicletei.",
+                "en": "Check your brakes before descending to the ruins; the ground here becomes very muddy in the rain, making pushing the bike difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Gattoufa Jedida ruines 04",
+                "hu": "Gattoufa Jedida ruines 04",
+                "ro": "Gattoufa Jedida ruines 04",
+                "en": "Gattoufa Jedida ruines 04"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die alten Mauern als Wind- und Regenschutz für eine kurze Pause; achten Sie auf glitschige Steine beim Abstellen Ihres Rades.",
+                "hu": "Használja a régi falakat szél- és esővédőként egy rövid pihenőhöz; ügyeljen a csúszós kövekre a kerékpár leállításakor.",
+                "ro": "Folosiți zidurile vechi ca protecție împotriva vântului și ploii pentru o scurtă pauză; atenție la pietrele alunecoase când parcați bicicleta.",
+                "en": "Use the old walls as wind and rain protection for a short break; watch out for slippery stones when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar Jelidat",
+                "hu": "Ksar Jelidat",
+                "ro": "Ksar Jelidat",
+                "en": "Ksar Jelidat"
+              },
+              "tip_5lang": {
+                "de": "Die Ghorfas bieten hier exzellenten Schutz für Sie und Ihr Equipment; nutzen Sie die Zeit, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
+                "hu": "A ghorfák kiváló menedéket nyújtanak Önnek és felszerelésének; használja ki az időt az esőruházat igazítására a folytatás előtt.",
+                "ro": "Ghorfele oferă aici un adăpost excelent pentru dumneavoastră și echipament; folosiți timpul pentru a vă ajusta hainele de ploaie înainte de plecare.",
+                "en": "The ghorfas offer excellent shelter for you and your equipment; use the time to adjust your rain gear before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar Ouled Boujlida",
+                "hu": "Ksar Ouled Boujlida",
+                "ro": "Ksar Ouled Boujlida",
+                "en": "Ksar Ouled Boujlida (Ksar Abdallah)"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie riskante Fahrmanöver auf den schmalen Pfaden rund um den Ksar; die Sicht kann bei starkem Regen stark eingeschränkt sein.",
+                "hu": "Kerülje a kockázatos manővereket a ksar körüli szűk ösvényeken; a látótávolság heves esőben jelentősen lecsökkenhet.",
+                "ro": "Evitați manevrele riscante pe potecile înguste din jurul ksarului; vizibilitatea poate fi redusă semnificativ în timpul ploii abundente.",
+                "en": "Avoid risky maneuvers on the narrow paths around the ksar; visibility can be significantly reduced during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar Ouled Abdelouahed",
+                "hu": "Ksar Ouled Abdelouahed",
+                "ro": "Ksar Ouled Abdelouahed",
+                "en": "Ksar Ouled Abdelouahed"
+              },
+              "tip_5lang": {
+                "de": "Säubern Sie Kette und Schaltung nach dieser nassen Tour grob vom Sand und Schlamm, um Korrosion und Verschleiß vorzubeugen.",
+                "hu": "A vizes túra után nagyjából tisztítsa meg a láncot és a váltót a homoktól és sártól a korrózió és kopás megelőzése érdekében.",
+                "ro": "Curățați sumar lanțul și schimbătorul de nisip și noroi după această tură umedă, pentru a preveni coroziunea și uzura.",
+                "en": "Roughly clean the chain and derailleurs from sand and mud after this wet tour to prevent corrosion and excessive wear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gut eingepackt in den kühlen Morgen, wenn die Luft glasklar ist. Mittags genießen Sie die milde Sonne, die das Radfahren sehr angenehm macht, solange Sie in Bewegung bleiben. Der Nachmittag bietet spektakuläre Schattenwürfe an den Ksars vor dem frühen Sonnenuntergang. Den Abend lassen Sie bei einer heißen Mahlzeit ausklingen, da es nach 17:00 Uhr schnell frostig wird.",
+            "hu": "Induljon jól felöltözve a hűvös reggelen, amikor a levegő kristálytiszta. Délben élvezze az enyhe napsütést, ami nagyon kellemessé teszi a biciklizést, amíg mozgásban marad. A délután látványos árnyékokat vet a ksarokra a korai naplemente előtt. Az estét zárja egy forró étellel, mivel 17:00 után gyorsan fagyossá válik a levegő.",
+            "ro": "Porniți bine echipat în dimineața răcoroasă, când aerul este deosebit de limpede. La prânz, bucurați-vă de soarele blând care face ciclismul foarte plăcut, atâta timp cât rămâneți în mișcare. După-amiaza oferă umbre spectaculoase pe ksaruri înainte de apusul timpuriu. Încheiați seara cu o masă fierbinte, deoarece se face foarte frig după ora 17:00.",
+            "en": "Start well-wrapped for the chilly morning when the air is crystal clear. By noon, enjoy the mild sun which makes cycling very pleasant as long as you keep moving. The afternoon offers spectacular shadow play against the ksars before the early sunset. End your evening with a hot meal as it turns frosty quickly after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gatoufa ruines",
+                "hu": "Gatoufa ruines",
+                "ro": "Gatoufa ruines",
+                "en": "Gatoufa ruines"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Vollfingerhandschuhe, da der kalte Fahrtwind Ihre Hände schnell auskühlen lässt; die klare Winterluft ermöglicht weite Ausblicke.",
+                "hu": "Viseljen zárt kesztyűt, mert a hideg menetszél gyorsan lehűtheti a kezeit; a tiszta téli levegő messzi kilátást tesz lehetővé.",
+                "ro": "Purtați mănuși cu degete lungi, deoarece vântul rece vă poate îngheța rapid mâinile; aerul limpede de iarnă permite vederi panoramice.",
+                "en": "Wear full-finger gloves as the cold wind can quickly chill your hands; the clear winter air allows for expansive views."
+              }
+            },
+            {
+              "name": {
+                "de": "Gattoufa Jedida ruines 04",
+                "hu": "Gattoufa Jedida ruines 04",
+                "ro": "Gattoufa Jedida ruines 04",
+                "en": "Gattoufa Jedida ruines 04"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz für eine kurze Trinkpause, um Ihre Körpertemperatur stabil zu halten; dehnen Sie sich kurz, um nicht zu versteifen.",
+                "hu": "Keressen egy napos helyet egy rövid ivószünethez, hogy fenntartsa testhőmérsékletét; mozogjon egy kicsit, hogy ne gémberedjenek el a végtagjai.",
+                "ro": "Căutați un loc însorit pentru o scurtă pauză de hidratare pentru a vă menține temperatura corpului; faceți câteva întinderi pentru a nu înțepeni.",
+                "en": "Find a sunny spot for a short drink break to maintain your body temperature; stretch briefly to avoid stiffening up in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar Jelidat",
+                "hu": "Ksar Jelidat",
+                "ro": "Ksar Jelidat",
+                "en": "Ksar Jelidat"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ghorfas zu Fuß, um die Beine aufzuwärmen; das Mauerwerk speichert die Mittagssonne und bietet einen angenehm temperierten Rastplatz.",
+                "hu": "Fedezze fel gyalog a ghorfákat, hogy bemelegítse a lábait; a falak tárolják a déli napsütést, kellemes hőmérsékletű pihenőhelyet kínálva.",
+                "ro": "Explorați ghorfele pe jos pentru a vă încălzi picioarele; zidăria înmagazinează soarele amiezii și oferă un loc de popas cu temperatură plăcută.",
+                "en": "Explore the ghorfas on foot to warm up your legs; the masonry stores the midday sun and offers a pleasantly tempered resting spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar Ouled Boujlida",
+                "hu": "Ksar Ouled Boujlida",
+                "ro": "Ksar Ouled Boujlida",
+                "en": "Ksar Ouled Boujlida (Ksar Abdallah)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die sinkende Sonne; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, falls Sie länger bei den Ruinen verweilen.",
+                "hu": "Ügyeljen a lemenő napra; győződjön meg róla, hogy a kerékpárvilágítás működik, ha hosszabb ideig időzne a romoknál.",
+                "ro": "Fiți atenți la soarele care apune; asigurați-vă că luminile bicicletei funcționează în cazul în care zăboviți mai mult la ruine.",
+                "en": "Watch the sinking sun; make sure your bike lights are functional in case you linger longer at the ruins than planned."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar Ouled Abdelouahed",
+                "hu": "Ksar Ouled Abdelouahed",
+                "ro": "Ksar Ouled Abdelouahed",
+                "en": "Ksar Ouled Abdelouahed"
+              },
+              "tip_5lang": {
+                "de": "Die letzte Etappe zurück in die Stadt wird im Schatten sehr kalt sein; ziehen Sie eine zusätzliche Schicht an, bevor Sie losfahren.",
+                "hu": "Az utolsó szakasz vissza a városba az árnyékban nagyon hideg lesz; vegyen fel egy plusz réteget, mielőtt elindulna.",
+                "ro": "Ultima etapă înapoi spre oraș va fi foarte rece la umbră; puneți un strat suplimentar de haine înainte de a porni la drum.",
+                "en": "The final leg back to town will be very cold in the shadows; put on an extra layer before you set off."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autózzon északra a távoli Ksar Ech Chehbane felé egy békés, ősi kövek közötti reggelért. Délben a Bir Essmar környéki szétszórt történelmi maradványokat fedezheti fel. Délután a Djebel Smira és a kulturálisan gazdag Ksar romok felé halad délre. Az este a különleges geológiai dinoszaurusz lelőhely meglátogatásával zárul naplemente alatt.",
         "ro": "Conduceți spre nord până la izolatul Ksar Ech Chehbane pentru o dimineață liniștită printre pietre antice. La prânz explorați vestigiile istorice împrăștiate de lângă Bir Essmar. După-amiaza călătoriți spre sud către Djebel Smira și ruinele bogate din zonă. Seara se încheie la situl natural cu dinozauri, perfect pentru un apus de neuitat.",
         "en": "Drive north to the remote Ksar Ech Chehbane for a peaceful morning among ancient stones. Midday explores the scattered historical remains near Bir Essmar. Afternoon journeys south toward Djebel Smira and the impressive Ksar ruins, rich in cultural heritage. Evening concludes with a visit to the Dinosaur natural site for a unique geological sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im trockenen Auto, während der Regen die kargen Hügel in dunkles Ocker taucht. Mittags nutzen Sie das Fahrzeug als Basis für kurze Abstecher zu den Ksars zwischen den Schauern. Der Nachmittag führt Sie über glänzende Asphaltstraßen zu den entlegeneren Ruinen. Den Abend beenden Sie entspannt in der Stadt, während draußen der Regen die Wüstenluft reinigt.",
+            "hu": "Induljon kényelmesen a száraz autóban, miközben az eső sötét okkersárgára festi a kopár dombokat. Délben használja a járművet bázisként a ksarokhoz tett rövid kiruccanásokhoz a záporok között. Délután csillogó aszfaltutakon juthat el a távolabbi romokhoz. Az estét pihentetően zárhatja a városban, miközben odakint az eső tisztára mossa a sivatagi levegőt.",
+            "ro": "Porniți confortabil în mașina uscată, în timp ce ploaia colorează dealurile aride în ocru închis. La prânz, folosiți vehiculul ca bază pentru scurte incursiuni la ksaruri între averse. După-amiaza vă poartă pe drumuri asfaltate lucioase spre ruinele mai îndepărtate. Încheiați seara relaxat în oraș, în timp ce afară ploaia curăță aerul deșertic.",
+            "en": "Start comfortably in your dry car while the rain turns the barren hills into dark ochre. By noon, use the vehicle as a base for short dashes to the ksars between showers. The afternoon takes you along glistening asphalt roads to more remote ruins. End your evening relaxed in town while outside the rain cleanses the desert air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ksar Ech Chehbane",
+                "hu": "Ksar Ech Chehbane",
+                "ro": "Ksar Ech Chehbane",
+                "en": "Ksar Ech Chehbane (Tlalet)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Weg im Regen zu verkürzen; die massiven Mauern bieten im Inneren trockene Gänge für die Besichtigung.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben; a masszív falak belül száraz folyosókat kínálnak a nézelődéshez.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie; zidurile masive oferă culoare uscate în interior pentru vizitare.",
+                "en": "Park close to the entrance to shorten the walk in the rain; the massive walls provide dry corridors inside for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "ruines",
+                "hu": "ruines",
+                "ro": "ruines",
+                "en": "ruines"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp reicht hier aus; lassen Sie den Motor kurz laufen, um die Scheiben mit der Heizung beschlagfrei zu halten.",
+                "hu": "Egy gyors megálló itt bőven elég; járassa a motort rövid ideig, hogy a fűtéssel páramentesen tartsa a szélvédőt.",
+                "ro": "O oprire rapidă este suficientă aici; lăsați motorul pornit scurt timp pentru a menține parbrizul dezghețat cu ajutorul căldurii.",
+                "en": "A quick stop is sufficient here; keep the engine running briefly to keep the windshield clear with the heater."
+              }
+            },
+            {
+              "name": {
+                "de": "Bir Essmar ruines",
+                "hu": "Bir Essmar ruines",
+                "ro": "Bir Essmar ruines",
+                "en": "Bir Essmar ruines"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe rutschig sein; schalten Sie bei Bedarf in einen niedrigeren Gang und achten Sie auf Geröll auf der Straße.",
+                "hu": "A felvezető út nedvesen csúszós lehet; szükség esetén váltson alacsonyabb sebességfokozatba, és ügyeljen az úton lévő törmelékre.",
+                "ro": "Urcarea poate fi alunecoasă pe carosabil umed; schimbați într-o treaptă inferioară dacă este necesar și atenție la pietrișul de pe drum.",
+                "en": "The drive up can be slippery when wet; shift into a lower gear if needed and watch out for debris or stones on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Djebel Smira ruines",
+                "hu": "Djebel Smira ruines",
+                "ro": "Djebel Smira ruines",
+                "en": "Djebel Smira ruines"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Auto, falls der Regen zu stark wird; die Wolkenstimmung über den Bergen ist fotogen.",
+                "hu": "Élvezze a panorámát az autóból, ha túl erősen esne az eső; a hegyek feletti felhős hangulat rendkívül fotogén.",
+                "ro": "Bucurați-vă de panorama din mașină dacă ploaia devine prea puternică; atmosfera noroasă de deasupra munților este foarte fotogenică.",
+                "en": "Enjoy the panoramic view from the car if the rain gets too heavy; the cloudy atmosphere over the mountains is very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar ruines",
+                "hu": "Ksar ruines",
+                "ro": "Ksar ruines",
+                "en": "Ksar ruines"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen kurzen Rundgang; die nassen Lehmziegel verströmen einen charakteristischen, erdigen Duft.",
+                "hu": "Használja ki az esőszünetet egy rövid körútra; a nedves vályogtéglák jellegzetes, földes illatot árasztanak ilyenkor.",
+                "ro": "Profitați de pauza dintre averse pentru un scurt tur; cărămizile de lut umede emană un miros caracteristic, pământiu.",
+                "en": "Take advantage of a break in the rain for a short walk; the wet mud bricks emit a characteristic, earthy scent."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur",
+                "hu": "Dinosaur",
+                "ro": "Dinosaur",
+                "en": "Dinosaur"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie im Auto auf das perfekte Licht für ein Foto der Statue; der Regen lässt die Farben oft kräftiger erscheinen.",
+                "hu": "Várja meg az autóban a tökéletes fényt a szobor fotózásához; az eső gyakran élénkebbé teszi a színeket a képen.",
+                "ro": "Așteptați în mașină lumina perfectă pentru o fotografie a statuii; ploaia face adesea culorile să pară mai intense.",
+                "en": "Wait in the car for the perfect light to photograph the statue; the rain often makes the colors appear more vibrant."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie bequem mit der Heizung im Auto in den frostigen Morgen. Mittags ist das Licht perfekt für die weiten Landschaften, während Sie zwischen den Stopps angenehm warm bleiben. Der Nachmittag bietet goldene Stunden an den Ksars, bevor das Licht gegen 17:00 Uhr schwindet. Den Abend verbringen Sie in einem gemütlichen Restaurant bei einer heißen tunesischen Suppe.",
+            "hu": "Induljon kényelmesen, az autó fűtését élvezve a fagyos reggelen. Délben a fények tökéletesek a tágas tájakhoz, miközben a megállók között kellemes melegben maradhat. A délután aranyló órákat kínál a ksaroknál, mielőtt 17:00 körül elfogyna a fény. Az estét töltheti egy hangulatos étteremben egy forró tunéziai leves társaságában.",
+            "ro": "Porniți confortabil, profitând de căldura din mașină în dimineața geroasă. La prânz, lumina este perfectă pentru peisajele vaste, în timp ce între opriri rămâneți la căldură. După-amiaza oferă ore de aur la ksaruri înainte ca lumina să dispară în jurul orei 17:00. Seara se petrece într-un restaurant primitor, cu o supă tunisiană fierbinte.",
+            "en": "Start comfortably with the car heater on during the frosty morning. By noon, the light is perfect for the vast landscapes while you stay warm between stops. The afternoon offers golden hours at the ksars before the light fades around 17:00. Spend your evening in a cozy restaurant with a hot Tunisian soup."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ksar Ech Chehbane",
+                "hu": "Ksar Ech Chehbane",
+                "ro": "Ksar Ech Chehbane",
+                "en": "Ksar Ech Chehbane (Tlalet)"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft bietet heute die beste Fernsicht von den oberen Ebenen; halten Sie eine warme Jacke für den Ausstieg bereit.",
+                "hu": "A tiszta levegő ma kínálja a legjobb távoli kilátást a felső szintekről; tartson készenlétben egy meleg kabátot a kiszálláshoz.",
+                "ro": "Aerul limpede oferă astăzi cea mai bună vizibilitate la distanță de la etajele superioare; aveți pregătită o jachetă caldă pentru când coborâți.",
+                "en": "The clear air offers the best distant views from the upper levels today; have a warm jacket ready for when you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "ruines",
+                "hu": "ruines",
+                "ro": "ruines",
+                "en": "ruines"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die intensive Mittagssonne für Fotos, da die Steine die Wärme speichern und das Erkunden angenehmer machen.",
+                "hu": "Használja ki az intenzív déli napsütést a fotózáshoz, mivel a kövek tárolják a meleget, kellemesebbé téve a felfedezést.",
+                "ro": "Folosiți soarele intens al amiezii pentru fotografii, deoarece pietrele rețin căldura și fac explorarea mai plăcută.",
+                "en": "Take advantage of the intense midday sun for photos, as the stones retain heat and make exploration more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Bir Essmar ruines",
+                "hu": "Bir Essmar ruines",
+                "ro": "Bir Essmar ruines",
+                "en": "Bir Essmar ruines"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann schneidend kalt sein; ein kurzer, zügiger Rundgang hält den Kreislauf in Schwung.",
+                "hu": "A dombtetőn a szél metszően hideg lehet; egy rövid, tempós körséta segít fenntartani a vérkeringést.",
+                "ro": "Vântul de pe deal poate fi tăios; un tur scurt și rapid vă va ajuta să vă mențineți circulația sângelui.",
+                "en": "The wind on the hill can be piercingly cold; a short, brisk walk will help keep your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Djebel Smira ruines",
+                "hu": "Djebel Smira ruines",
+                "ro": "Djebel Smira ruines",
+                "en": "Djebel Smira ruines"
+              },
+              "tip_5lang": {
+                "de": "Das späte Nachmittagslicht färbt die Berge tiefrot; bleiben Sie für diesen Ausblick nicht zu lange draußen ohne Thermoskanne.",
+                "hu": "A késő délutáni fény mélyvörösre festi a hegyeket; ne maradjon kint túl sokáig e látvány miatt termosz nélkül.",
+                "ro": "Lumina de după-amiază târzie colorează munții în roșu aprins; nu stați afară prea mult pentru această priveliște fără un termos.",
+                "en": "The late afternoon light paints the mountains deep red; don't stay out too long for this view without a thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Ksar ruines",
+                "hu": "Ksar ruines",
+                "ro": "Ksar ruines",
+                "en": "Ksar ruines"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Glühen der Ruinen kurz vor Sonnenuntergang; beeilen Sie sich mit den Fotos, da das Licht schnell schwindet.",
+                "hu": "Figyelje meg a romok izzását közvetlenül naplemente előtt; siessen a fotózással, mert a fény gyorsan elfogy.",
+                "ro": "Observați strălucirea ruinelor chiar înainte de apus; grăbiți-vă cu fotografiile, deoarece lumina dispare rapid.",
+                "en": "Watch the glow of the ruins just before sunset; be quick with your photos as the light fades very rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur",
+                "hu": "Dinosaur",
+                "ro": "Dinosaur",
+                "en": "Dinosaur"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Stopp in der blauen Stunde; nutzen Sie die Sitzheizung für die Rückfahrt, da es jetzt schlagartig gefriert.",
+                "hu": "Egy utolsó megálló a kék órában; használja az ülésfűtést a visszaúton, mert mostanra hirtelen fagyossá válik az idő.",
+                "ro": "O ultimă oprire în ora albastră; folosiți încălzirea în scaune la întoarcere, deoarece acum îngheață brusc.",
+                "en": "A final stop during the blue hour; use the seat heaters on the drive back as it will start freezing abruptly now."
+              }
+            }
+          ]
+        }
       }
     }
   }

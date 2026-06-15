@@ -160,6 +160,196 @@
         "hu": "Reggel fedezze fel a nyüzsgő Prince of Wales mólót.\n\nDélben látogasson el a Művészeti Galériába és a Jacob's Ladderhez.\n\nDélután sétáljon a rakparton, és tekintse meg a Tengerészeti Múzeumot.\n\nEste élvezze a gyönyörű naplementét a fenséges Pendennis kastélynál.",
         "ro": "Dimineața explorați debarcaderul animat Prince of Wales.\n\nLa prânz vizitați Galeria de Artă Falmouth și Jacob's Ladder.\n\nDupă-amiaza plimbați-vă pe chei și vizitați Muzeul Maritim Național.\n\nSeara bucurați-vă de un apus superb la maiestuosul Castel Pendennis.",
         "en": "In the morning, explore the bustling Prince of Wales Pier.\n\nBy midday, visit the Falmouth Art Gallery and the historic Jacob's Ladder.\n\nIn the afternoon, stroll along the quay and visit the National Maritime Museum.\n\nIn the evening, enjoy a stunning sunset at the majestic Pendennis Castle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Pier, wo der Nebel über dem Wasser hängt. Die Kunstgalerie bietet danach den perfekten trockenen Rückzugsort. Mittags führt der Weg über nasse Stufen zum Kai, wo die Gischt gegen die Mauern peitscht. Den Nachmittag verbringen Sie geschützt im großen Schifffahrtsmuseum, bevor der Tag bei einer mystischen, verregneten Schlossbesichtigung endet.",
+            "hu": "A reggeli pára és eső a mólón fogadja, de a galéria hamar meleg menedéket nyújt. Délben a vizes lépcsőkön óvatosan ereszkedünk a rakpart felé, ahol a tenger illata intenzívebb a viharban. A délután a tengerészeti múzeum fedett csarnokaiban telik, az estét pedig a Pendennis-vár ködbe vesző, drámai falai között zárjuk, ahol az eső kopogása történelmi hangulatot áraszt.",
+            "ro": "O dimineață ploioasă începe la dig, unde ceața plutește deasupra apei, urmată de un refugiu uscat în galeria de artă. La prânz, treptele umede ne conduc spre chei, unde valurile se sparg de ziduri. După-amiaza este dedicată muzeului maritim, un adăpost perfect, iar ziua se încheie cu o vizită mistică la castel, unde ploaia accentuează atmosfera istorică și dramatică.",
+            "en": "A rainy morning starts at the pier with mist over the water, followed by a dry sanctuary in the art gallery. At midday, navigate wet steps to the quay where the sea spray meets the rain. Spend the afternoon sheltered in the vast maritime museum, then conclude the day with a dramatic visit to the castle, where the Cornish rain adds a layer of ancient mystery to the stone walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prince of Wales Pier",
+                "hu": "Prince of Wales móló",
+                "ro": "Debarcaderul Prince of Wales",
+                "en": "Prince of Wales Pier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der Fähren vom überdachten Wartebereich aus; die Holzplanken sind bei Nässe extrem rutschig, laufen Sie daher nur auf den markierten Wegen.",
+                "hu": "Figyelje a kompok érkezését a móló fedett várakozójából; a vizes fafelület rendkívül csúszós lehet, ezért viseljen bordázott talpú cipőt és használja a korlátokat.",
+                "ro": "Urmăriți feriboturile din zona de așteptare acoperită; scândurile de lemn devin extrem de alunecoase când sunt ude, așa că mergeți cu grijă și folosiți balustradele.",
+                "en": "Watch the ferries dock from the sheltered waiting area; the wooden decking becomes incredibly slippery when wet, so wear grippy shoes and stick to the middle path."
+              }
+            },
+            {
+              "name": {
+                "de": "Falmouth Art Gallery",
+                "hu": "Falmouth Művészeti Galéria",
+                "ro": "Galeria de Artă Falmouth",
+                "en": "Falmouth Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um einen starken Regenschauer abzuwarten; nutzen Sie die Garderobe für Ihre nassen Schirme und genießen Sie die hellen, trockenen Säle.",
+                "hu": "Ez a tökéletes helyszín egy nagyobb zápor átvészelésére; tegye le vizes esernyőjét a ruhatárban, és élvezze a helyi alkotásokat a száraz és világos kiállítótérben.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea unei averse; lăsați umbrelele ude la garderobă și bucurați-vă de operele locale în sălile luminoase și uscate.",
+                "en": "This is the perfect spot to wait out a heavy downpour; use the cloakroom for your wet umbrellas and enjoy the local masterpieces in a bright, dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Jacob's Ladder",
+                "hu": "Jákob lajtorjája",
+                "ro": "Scara lui Jacob",
+                "en": "Jacob's Ladder"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie die 111 Stufen bei Regen besonders langsam hinauf, da der alte Stein glatt wird; oben bietet sich trotz Wolken ein herrlich dramatischer Blick auf den Hafen.",
+                "hu": "Az esőben különösen óvatosan másszon fel a 111 fokon, mert a régi kövek csúszóssá válnak; a tetőről a felhők ellenére is drámai kilátás nyílik a forrongó öbölre.",
+                "ro": "Urcați cele 111 trepte cu mare atenție, deoarece piatra veche devine lucioasă la ploaie; de sus, în ciuda norilor, veți avea o vedere dramatică asupra portului agitat.",
+                "en": "Climb the 111 steps slowly as the historic stone gets slick in the rain; the top offers a wonderfully atmospheric and moody view of the harbor despite the grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Custom House Quay",
+                "hu": "Custom House rakpart",
+                "ro": "Cheiul Custom House",
+                "en": "Custom House Quay"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden der alten Zollhäuser Schutz vor dem Wind und beobachten Sie, wie die Fischerboote bei rauer See im geschützten Hafenbecken schaukeln.",
+                "hu": "Keressen menedéket a régi vámos házak árkádjai alatt a szél elől, és nézze, ahogy a halászhajók a viharos tenger elől a védett kikötőmedencébe húzódnak pihenni.",
+                "ro": "Căutați adăpost sub arcadele vechilor case vamale pentru a scăpa de vânt și priviți cum bărcile de pescuit se leagănă în siguranța bazinului portuar protejat.",
+                "en": "Seek shelter under the historic Custom House arches to escape the wind, and watch the fishing boats bobbing in the safety of the quay as the rain hits the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die unterirdische Gezeiten-Galerie, um die Wellen unter Wasser zu sehen; hier bleiben Sie garantiert trocken, während Sie die Meereskraft hautnah erleben.",
+                "hu": "Látogasson el a föld alatti árapály-galériába, hogy a víz szintje alatt lássa a hullámzást; itt garantáltan szárazon maradhat, miközben a tenger erejét figyeli.",
+                "ro": "Vizitați galeria subterană de maree pentru a vedea valurile de sub nivelul mării; aici veți rămâne uscat în timp ce experimentați forța oceanului chiar prin geam.",
+                "en": "Head to the underwater Tidal Gallery to watch the waves from below the surface; it's the ultimate dry spot to experience the power of the sea during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendennis Castle",
+                "hu": "Pendennis kastély",
+                "ro": "Castelul Pendennis",
+                "en": "Pendennis Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die inneren Verteidigungsgänge der Festung, die Schutz vor den peitschenden Küstenregen bieten, und genießen Sie die Aussicht durch die schmalen Schießscharten.",
+                "hu": "Fedezze fel az erőd belső folyosóit és kazamatáit, amelyek védelmet nyújtanak a parti szélvihar ellen, a lőréseken keresztül pedig figyelje a ködbe burkolózó partot.",
+                "ro": "Explorați pasajele interioare ale fortăreței care oferă protecție împotriva ploii de coastă și admirați priveliștea prin ambrazurile înguste ale zidurilor groase.",
+                "en": "Explore the castle's interior tunnels and the keep to stay out of the driving rain, while peering through the stone windows at the misty coastline beyond the moat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen am Pier weckt die Geister, gefolgt von der wohligen Wärme der Kunstgalerie. Der Aufstieg über die Stufen hält den Kreislauf in Schwung, während die frische Brise am Kai den Hunger anregt. Der Nachmittag im beheizten Museum ist eine Wohltat, bevor Sie den frühen Sonnenuntergang gegen 16:30 Uhr an der Festung erleben, wenn die Lichter der Stadt im Dunkeln funkeln.",
+            "hu": "A friss téli levegő a mólón igazi ébresztő, amit a galéria kellemes fűtése követ. A lépcsőzés segít melegen tartani a testet, a rakparton pedig a metsző szél emlékeztet a tenger közelségére. A délutánt a múzeum barátságos belső tereiben töltjük, majd a korai, fél öt körüli naplementét már a várfalakról csodáljuk meg, ahogy Falmouth fényei kigyúlnak.",
+            "ro": "O dimineață răcoroasă de iarnă la dig vă va trezi simțurile, urmată de căldura primitoare a galeriei de artă. Urcarea treptelor vă va menține circulația activă, în timp ce briza rece de la chei vă va stimula apetitul. După-amiaza în muzeul încălzit este o plăcere, înainte de a vedea apusul timpuriu de la castel, în jurul orei 16:30.",
+            "en": "A crisp winter morning at the pier is a bracing start, followed by the cozy warmth of the art gallery. The climb up the steps keeps your blood flowing, while the biting quay breeze reminds you of the ocean's power. Enjoy a heated afternoon in the museum before witnessing an early 4:30 PM sunset from the castle as the town lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prince of Wales Pier",
+                "hu": "Prince of Wales móló",
+                "ro": "Debarcaderul Prince of Wales",
+                "en": "Prince of Wales Pier"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung für den ungeschützten Pier; die klare Winterluft bietet heute eine außergewöhnliche Fernsicht bis hinüber nach St Mawes und Flushing.",
+                "hu": "Viseljen szélálló kabátot és sálat a nyitott mólón; a tiszta téli levegőben ilyenkor ellátni egészen St Mawes váráig és a szemközti Flushing festői házaiig.",
+                "ro": "Purtați haine rezistente la vânt pe digul expus; aerul clar de iarnă oferă astăzi o vizibilitate excepțională până la St Mawes și casele colorate din Flushing.",
+                "en": "Wear a windproof jacket for the exposed pier; the crisp winter air provides exceptionally clear views across the Carrick Roads to St Mawes and Flushing today."
+              }
+            },
+            {
+              "name": {
+                "de": "Falmouth Art Gallery",
+                "hu": "Falmouth Művészeti Galéria",
+                "ro": "Galeria de Artă Falmouth",
+                "en": "Falmouth Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp zum Aufwärmen zwischen den Etappen; die Galerie ist gut beheizt und bietet eine ruhige Atmosphäre, um lokale Winterlandschaften auf Leinwand zu sehen.",
+                "hu": "Használja ki ezt a megállót a felmelegedésre két séta között; a galéria kellemesen fűtött, és csendes környezetben csodálhatja meg a helyi művészek téli tájképeit.",
+                "ro": "Folosiți această oprire pentru a vă încălzi între etape; galeria este bine încălzită și oferă o atmosferă liniștită pentru a admira peisajele de iarnă pe pânză.",
+                "en": "Use this stop to warm up between walks; the gallery is well-heated and offers a tranquil atmosphere to admire local winter landscapes captured by Cornish artists."
+              }
+            },
+            {
+              "name": {
+                "de": "Jacob's Ladder",
+                "hu": "Jákob lajtorjája",
+                "ro": "Scara lui Jacob",
+                "en": "Jacob's Ladder"
+              },
+              "tip_5lang": {
+                "de": "Der zügige Aufstieg ist das beste Training gegen die Kälte; oben angekommen, wird Ihnen warm sein und Sie werden mit einem klaren Blick über die Dächer belohnt.",
+                "hu": "A tempós lépcsőzés a legjobb módszer a hideg ellen; mire felér a 111. fokra, garantáltan ki fog melegedni, és elégedetten nézhet le a város téli háztetőire.",
+                "ro": "Urcarea rapidă a treptelor este cel mai bun exercițiu împotriva frigului; odată ajuns sus, vă veți simți încălzit și veți fi răsplătit cu o vedere clară peste oraș.",
+                "en": "A brisk climb up the 111 steps is the best way to beat the winter chill; you'll be warm by the time you reach the top and get a sharp view over the town's rooftops."
+              }
+            },
+            {
+              "name": {
+                "de": "Custom House Quay",
+                "hu": "Custom House rakpart",
+                "ro": "Cheiul Custom House",
+                "en": "Custom House Quay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille am Kai, wenn weniger Touristen da sind, und bewundern Sie die Weihnachtsbeleuchtung, die sich ab dem späten Nachmittag im Wasser spiegelt.",
+                "hu": "Élvezze a téli csendet a rakparton, amikor kevesebb a turista; késő délutántól csodálja meg a vízfelszínen tükröződő ünnepi fényeket és a kikötő esti karaktereit.",
+                "ro": "Bucurați-vă de liniștea iernii la chei când sunt mai puțini turiști și admirați luminile de sărbătoare care încep să se oglindească în apă încă de după-amiaza devreme.",
+                "en": "Enjoy the winter stillness at the quay with fewer crowds; from late afternoon, watch the festive lights reflecting in the dark water of the sheltered harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kältesten Stunden des Tages in den großzügigen Ausstellungsräumen; der Aussichtsturm bietet einen windgeschützten Blick auf die raue Wintersee.",
+                "hu": "Töltse a nap leghidegebb óráit a tágas kiállítótermekben; a múzeum tornyából pedig szélvédett helyről nézheti a téli tenger hullámzását és a tajtékos vizet.",
+                "ro": "Petreceți cele mai reci ore ale zilei în sălile spațioase de expoziție; turnul de veghe oferă o vedere panoramică protejată de vânt asupra mării agitate de iarnă.",
+                "en": "Spend the coldest hours of the day exploring the vast galleries; the lookout tower provides a wind-shielded, panoramic view of the bracing winter sea outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendennis Castle",
+                "hu": "Pendennis kastély",
+                "ro": "Castelul Pendennis",
+                "en": "Pendennis Castle"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:00 Uhr an, um den Sonnenuntergang über der Bucht zu sehen; die tiefstehende Wintersonne taucht die alten Steinmauern in ein goldenes Licht.",
+                "hu": "Érkezzen meg délután négy óra előtt, hogy lássa a naplementét az öböl felett; az alacsonyan járó téli nap arany fénybe vonja az erőd évszázados kőfalait.",
+                "ro": "Ajungeți înainte de ora 16:00 pentru a prinde apusul peste golf; soarele de iarnă aflat jos pe cer scaldă zidurile vechi de piatră într-o lumină aurie superbă.",
+                "en": "Arrive before 4:00 PM to catch the sunset over the bay; the low winter sun bathes the ancient stone fortress in a stunning golden glow before the early dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel kezdjen a gyönyörű és idilli Kimberley Parkban.\n\nDélben csodálja meg a galéria művészetét és a Tengerészeti Múzeumot.\n\nDélután kényelmesen tekerjen a Gyllyngvase és a Swanpool strandra.\n\nEste kerékpározzon fel a Pendennis kastélyhoz a csodás kilátásért.",
         "ro": "Dimineața începeți idilic în frumosul Parc Kimberley.\n\nLa prânz admirați arta din galerie și vizitați Muzeul Maritim.\n\nDupă-amiaza pedalați liniștit spre plajele Gyllyngvase și Swanpool.\n\nSeara mergeți la Castelul Pendennis pentru o priveliște de vis.",
         "en": "In the morning, start your ride idyllically in beautiful Kimberley Park.\n\nBy midday, admire art at the gallery and visit the Maritime Museum.\n\nIn the afternoon, enjoy a leisurely pedal to Gyllyngvase and Swanpool beaches.\n\nIn the evening, cycle up to Pendennis Castle for dreamlike views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt im Park, wo die Blätter auf den Wegen kleben. Die Kunstgalerie und das Museum dienen als rettende Häfen vor den Schauern. Mittags radeln wir vorsichtig entlang der Küste, wo der Regen die Strände in ein silbriges Licht taucht. Der Tag endet an der Festung, wo der nasse Asphalt glänzt und die Luft rein und salzig nach dem Sturm riecht.",
+            "hu": "A vizes tekerés a parkban indul, ahol az eső illata frissíti fel a tájat. A galéria és a múzeum kiváló megállóhelyek a záporok idején, hogy megszáradjunk. Délután a tengerparti úton a szél az arcunkba hordja a permetet, ami igazi atlanti élmény. A napot a várnál zárjuk, ahol a vizes aszfalton csillannak meg az esti fények a sötétedő égbolt alatt.",
+            "ro": "O plimbare cu bicicleta pe ploaie începe în parc, unde mirosul de pământ ud este revigorant. Galeria și muzeul servesc drept refugii ideale în timpul averselor. După-amiaza, pedalăm de-a lungul coastei sub o lumină argintie, simțind briza umedă. Ziua se termină la castel, unde asfaltul ud strălucește sub primele lumini ale serii.",
+            "en": "A damp cycle starts in the park with the scent of fresh rain on the greenery. The gallery and museum serve as vital refuges during the heaviest showers. Midday involves careful pedaling along the coast where the rain turns the beaches into a silvery landscape. The day ends at the castle, with the wet roads reflecting the evening lights after the storm passes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kimberley Park",
+                "hu": "Kimberley Park",
+                "ro": "Parcul Kimberley",
+                "en": "Kimberley Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den gewundenen Wegen, da nasses Laub die Kurven rutschig machen kann; die Pavillons bieten guten Schutz bei plötzlichen Regengüssen.",
+                "hu": "Óvatosan haladjon a kanyargós utakon, mert a vizes levelek csúszóssá tehetik az utat; hirtelen zápor esetén a park pavilonjai alatt keressen gyors menedéket.",
+                "ro": "Pedalați încet pe aleile șerpuite, deoarece frunzele ude pot face curbele alunecoase; pavilioanele oferă un adăpost bun în caz de averse bruște.",
+                "en": "Cycle slowly on the winding paths as wet leaves can make corners treacherous; the park's pavilions provide quick shelter if a sudden downpour starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Falmouth Art Gallery",
+                "hu": "Falmouth Művészeti Galéria",
+                "ro": "Galeria de Artă Falmouth",
+                "en": "Falmouth Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am überdachten Ständer ab und nutzen Sie die Pause, um Ihre Regenkleidung auszuschütteln, während Sie die Kunstwerke im Trockenen bewundern.",
+                "hu": "Parkoljon a fedett kerékpártárolónál, és használja ki a pihenőt, hogy lerázza a vizet az esőkabátjáról, miközben a száraz galériában gyönyörködik a festményekben.",
+                "ro": "Parcați bicicleta la suportul acoperit și folosiți pauza pentru a vă scutura pelerina de ploaie în timp ce admirați operele de artă în mediul uscat al galeriei.",
+                "en": "Park your bike at the covered stands and use the break to shake off your waterproofs while enjoying the art in the gallery's warm and dry atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet viel Platz zum Trocknen; besuchen Sie die Café-Ebene für einen Blick auf den Hafen, ohne vom Regen nass zu werden, während Ihr Rad sicher parkt.",
+                "hu": "A múzeumban rengeteg hely van a száradáshoz; látogasson el a kávézó szintre, ahonnan remek kilátás nyílik a kikötőre anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Muzeul oferă mult spațiu pentru a vă usca; vizitați nivelul cafenelei pentru o vedere spre port fără a vă uda, în timp ce bicicleta este parcată în siguranță.",
+                "en": "The museum offers plenty of indoor space to dry off; visit the café level for a great harbor view without getting wet, keeping your gear safe and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Gyllyngvase Beach",
+                "hu": "Gyllyngvase strand",
+                "ro": "Plaja Gyllyngvase",
+                "en": "Gyllyngvase Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Surfer, die den Regen nicht scheuen, vom Schutz des Strandcafés aus; achten Sie auf Sand, der bei Nässe auf dem Radweg sehr klebrig und rutschig ist.",
+                "hu": "Nézze a szörfösöket a tengerparti kávézó terasza alól, akiket nem zavar az eső; ügyeljen a homokra a bicikliúton, mert vizesen nagyon tapad és megcsúszhat rajat.",
+                "ro": "Priviți surferii din adăpostul cafenelei de pe plajă; aveți grijă la nisipul de pe pistă, deoarece devine lipicios și alunecos când este amestecat cu apa de ploaie.",
+                "en": "Watch the surfers from the safety of the beach café's awning; be careful of sand on the cycle path, as it becomes sticky and slick when mixed with rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Swanpool Beach",
+                "hu": "Swanpool strand",
+                "ro": "Plaja Swanpool",
+                "en": "Swanpool Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg um den See kann schlammig sein, bleiben Sie daher auf der asphaltierten Straße; der Regen erzeugt eine friedliche Stimmung auf der Wasseroberfläche des Sees.",
+                "hu": "A tó körüli ösvény sáros lehet, ezért érdemes az aszfaltozott úton maradni; az esőcseppek tánca a tó felszínén különlegesen nyugodt hangulatot áraszt ilyenkor.",
+                "ro": "Poteca din jurul lacului poate fi noroioasă, așa că rămâneți pe drumul asfaltat; ploaia creează o atmosferă pașnică pe suprafața apei lacului Swanpool.",
+                "en": "The path around the pool can be muddy, so stick to the paved road; the rain creates a peaceful atmosphere on the water's surface as you cycle past the nature reserve."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendennis Castle",
+                "hu": "Pendennis kastély",
+                "ro": "Castelul Pendennis",
+                "en": "Pendennis Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Festung ist bei Regen anstrengend, aber die dicken Burgmauern bieten danach den besten Schutz vor den Windböen, die vom Ärmelkanal herüberziehen.",
+                "hu": "A várhoz vezető emelkedő esőben combos, de az erőd vastag falai mögött tökéletes menedéket talál a csatorna felől érkező, csípős szélrohamok elől.",
+                "ro": "Urcarea spre castel este solicitantă pe ploaie, dar zidurile groase ale cetății oferă apoi cea mai bună protecție împotriva rafalelor de vânt de pe Canal.",
+                "en": "The uphill ride to the castle is tough in the rain, but the massive stone walls provide excellent shelter from the wind gusts blowing in from the English Channel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start im Park lässt die Reifen auf dem harten Boden knirschen. Die Kunstgalerie und das Museum bieten wichtige Aufwärmstopps während der Tour. Entlang der Strände peitscht der kalte Winterwind, was das Radeln zu einem echten Training macht. Gegen 16:30 Uhr erreichen wir die Festung für den Sonnenuntergang, bevor wir in der dämmerigen Kälte zügig zurück in die Stadt fahren.",
+            "hu": "A deres reggel a parkban kezdődik, ahol a gumi halkan ropog a fagyos aszfalton. A galéria és a múzeum kulcsfontosságú melegedőpontok a túra során. A tengerparti szakaszon a csípős téli széllel kell megküzdeni, ami igazi edzéssé teszi a tekerést. Fél öt körül érünk a várhoz, hogy elcsípjük az utolsó napsugarakat, majd a sötétedő hidegben suhanunk vissza a városba.",
+            "ro": "Un început înghețat în parc face ca anvelopele să scârțâie pe solul tare. Galeria și muzeul oferă opriri esențiale pentru încălzire în timpul turului. De-a lungul plajelor, vântul rece de iarnă face pedalatul un antrenament serios. Ajungem la castel în jurul orei 16:30 pentru apus, apoi ne întoarcem rapid în oraș prin frigul serii.",
+            "en": "A frosty start in the park makes for a crisp ride on firm ground. The art gallery and maritime museum offer vital warm-up stops during your winter journey. Along the beaches, the biting sea wind turns cycling into a proper workout. Reach the castle by 4:30 PM for the sunset, then make a swift return to town as the winter twilight sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kimberley Park",
+                "hu": "Kimberley Park",
+                "ro": "Parcul Kimberley",
+                "en": "Kimberley Park"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind im Park sehr kalt sein kann; bewundern Sie die kahle, aber elegante Struktur der alten Bäume gegen den Winterhimmel.",
+                "hu": "Viseljen bélelt kesztyűt, mert a menetszél a parkban nagyon hideg lehet; csodálja meg az öreg fák elegáns, csupasz ágait a tiszta téli égbolt előtt elsuhanva.",
+                "ro": "Purtați mănuși groase, deoarece vântul creat de mișcare poate fi foarte rece; admirați structura elegantă a copacilor desfrunziți pe fundalul cerului de iarnă.",
+                "en": "Wear warm gloves as the wind chill can be sharp in the open park; admire the stark but elegant silhouettes of the historic trees against the clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Falmouth Art Gallery",
+                "hu": "Falmouth Művészeti Galéria",
+                "ro": "Galeria de Artă Falmouth",
+                "en": "Falmouth Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung der Galerie, um Ihre Finger wieder beweglich zu machen; die ruhigen Ausstellungsräume sind im Winter besonders einladend für eine kurze Radpause.",
+                "hu": "Használja ki a galéria fűtését, hogy átmozgassa átfagyott ujjait; a csendes termek télen különösen hívogatóak egy rövid kerékpáros pihenőre és egy kis kultúrára.",
+                "ro": "Folosiți căldura din galerie pentru a vă dezmorți degetele; sălile liniștite de expoziție sunt deosebit de primitoare iarna pentru o scurtă pauză de pedalat.",
+                "en": "Take advantage of the gallery's heating to regain feeling in your fingers; the quiet galleries are especially welcoming in winter for a brief cultural rest stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und wärmen Sie sich bei einer heißen Schokolade im Museumscafé auf, während Sie den Blick auf den frostigen Hafen durch die großen Glasfronten genießen.",
+                "hu": "Parkolja le a bringát, és melegedjen fel egy forró csokoládéval a múzeum kávézójában, miközben az óriási ablakokon át nézi a fagyos kikötő és a hajók látványát.",
+                "ro": "Parcați bicicleta și încălziți-vă cu o ciocolată caldă la cafeneaua muzeului, admirând portul înghețat prin ferestrele mari de sticlă ale clădirii moderne.",
+                "en": "Park your bike and thaw out with a hot chocolate in the museum café while enjoying views of the frosty harbor through the expansive floor-to-ceiling windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Gyllyngvase Beach",
+                "hu": "Gyllyngvase strand",
+                "ro": "Plaja Gyllyngvase",
+                "en": "Gyllyngvase Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind an der Küste kann stark sein, treten Sie kräftig in die Pedale, um warm zu bleiben; der Strand ist jetzt herrlich leer und bietet Platz für weite Blicke.",
+                "hu": "A tengerparti szél télen erős lehet, tekerjen tempósabban, hogy melegen tartsa magát; a strand ilyenkor csodásan üres, így zavartalanul élvezheti a tágas panorámát.",
+                "ro": "Vântul de iarnă pe coastă poate fi puternic, așa că pedalați cu energie pentru a vă menține căldura; plaja este acum superb de goală, oferind vederi spectaculoase.",
+                "en": "The winter wind on the seafront can be strong, so keep a steady pace to maintain body heat; the beach is wonderfully empty now, perfect for broad coastal views."
+              }
+            },
+            {
+              "name": {
+                "de": "Swanpool Beach",
+                "hu": "Swanpool strand",
+                "ro": "Plaja Swanpool",
+                "en": "Swanpool Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Radweg am See; die Wintervögel auf dem Wasser zu beobachten, ist ein friedliches Highlight Ihrer winterlichen Radtour.",
+                "hu": "Ügyeljen a fagyott tócsákra a tó melletti kerékpárúton; a vízen pihenő téli madarak megfigyelése a kerékpártúra egyik legnyugodtabb pillanata lesz a friss levegőn.",
+                "ro": "Aveți grijă la bălțile înghețate de pe pista de lângă lac; observarea păsărilor de iarnă pe apă este un punct culminant liniștit al plimbării dumneavoastră cu bicicleta.",
+                "en": "Watch out for frozen puddles on the path by the pool; observing the winter birds on the water is a peaceful highlight of your bracing bicycle journey today."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendennis Castle",
+                "hu": "Pendennis kastély",
+                "ro": "Castelul Pendennis",
+                "en": "Pendennis Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung kurz vor Torschluss, um das magische Licht der blauen Stunde über dem Ärmelkanal zu erleben, bevor Sie die Abfahrt zurück nach Falmouth antreten.",
+                "hu": "Látogasson el az erődhöz zárás előtt, hogy átélje a kék óra mágikus fényeit a csatorna felett, mielőtt megkezdené a gurulást vissza Falmouth kivilágított utcáira.",
+                "ro": "Vizitați castelul chiar înainte de închidere pentru a surprinde lumina magică a orei albastre peste Canal, înainte de a începe coborârea spre orașul luminat.",
+                "en": "Visit the castle just before closing to experience the magical blue hour light over the Channel before making your final descent back into Falmouth's warm lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel élvezze a csendet és a nyugalmat a Maenporth strandon.\n\nDélben látogassa meg a Swanpool és Gyllyngvase strandokat, valamint a kerteket.\n\nDélután az impozáns Pendennis kastély nyűgözi le történelmével.\n\nEste a Nemzeti Tengerészeti Múzeumban fejezheti be a napot.",
         "ro": "Dimineața bucurați-vă de liniștea de la idilica Maenporth Beach.\n\nLa prânz vizitați plajele Swanpool, Gyllyngvase și Grădinile Queen Mary.\n\nDupă-amiaza vizitați impunătorul Castel Pendennis cu istoria sa.\n\nSeara încheiați ziua relaxant la Muzeul Maritim Național.",
         "en": "In the morning, enjoy the peaceful tranquility at Maenporth Beach.\n\nBy midday, visit Swanpool Beach, Gyllyngvase Beach, and Queen Mary Gardens.\n\nIn the afternoon, explore the imposing Pendennis Castle and its history.\n\nIn the evening, wind down your day at the National Maritime Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt im Regen beginnt an den westlichen Stränden, wo man die Wellen sicher aus dem Auto beobachten kann. Wir besuchen die Gärten, die im Regen besonders grün leuchten. Die Festung und das Museum bieten am Nachmittag ideale überdachte Ziele. Der Tag endet im Hafenviertel, wo sich die Lichter der Pubs und Geschäfte farbenfroh im nassen Asphalt spiegeln.",
+            "hu": "A kényelmes esős autózás a nyugati strandokon indul, ahol a kocsiból is csodálhatjuk a hullámzó tengert. A kertek az esőben szinte neon-zöldben világítanak, ami különleges látvány. Délután a vár és a múzeum kínál száraz programot a viharosabb órákra. A napot a kikötőben zárjuk, ahol a vizes aszfalton tükröződő esti fények festői hangulatot árasztanak.",
+            "ro": "O plimbare relaxantă cu mașina pe ploaie începe la plajele din vest, unde puteți admira valurile din confortul vehiculului. Grădinile par incredibil de verzi sub ploaie. După-amiaza, castelul și muzeul sunt destinații ideale acoperite. Ziua se încheie în zona portului, unde luminile pub-urilor se oglindesc colorat în asfaltul umed.",
+            "en": "A comfortable rainy drive begins at the western beaches, where you can safely watch the Atlantic swells from your car. Visit the gardens, which look vibrantly green in the wet weather. The castle and museum provide excellent indoor shelter for the afternoon. End the day in the harbor area, where the town lights reflect beautifully on the rain-slicked streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maenporth Beach",
+                "hu": "Maenporth strand",
+                "ro": "Plaja Maenporth",
+                "en": "Maenporth Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf die Bucht und beobachten Sie das Wetterspiel über dem Meer; das Strandcafé bietet einen warmen Platz für einen regnerischen Vormittagskaffee.",
+                "hu": "Parkoljon közvetlenül az öböllel szemben, és nézze az időjárás játékát a tenger felett; a parti kávézóban melegedve élvezheti a reggeli kávét az eső kopogása mellett.",
+                "ro": "Parcați cu fața spre golf pentru a observa spectacolul vremii deasupra mării; cafeneaua de pe plajă oferă un loc cald pentru o cafea de dimineață în sunetul ploii.",
+                "en": "Park facing the bay to watch the weather roll in over the ocean; the beach café is a great spot to enjoy a coffee while staying dry and watching the waves crash."
+              }
+            },
+            {
+              "name": {
+                "de": "Swanpool Beach",
+                "hu": "Swanpool strand",
+                "ro": "Plaja Swanpool",
+                "en": "Swanpool Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den strandnahen Parkplatz für einen kurzen Spaziergang am Wasser; bei Regen sind hier oft seltene Seevögel ganz nah am Ufer zu entdecken.",
+                "hu": "Használja ki a parthoz közeli parkolót egy rövid, frissítő sétához; esőben a tengeri madarak gyakran egészen közel merészkednek a parthoz, így remekül megfigyelhetők.",
+                "ro": "Folosiți parcarea de lângă plajă pentru o scurtă plimbare revigorantă; pe ploaie, păsările marine pot fi observate adesea foarte aproape de țărm în căutare de hrană.",
+                "en": "Use the convenient beachside parking for a quick, refreshing stroll; in the rain, sea birds often come closer to the shore, offering great birdwatching from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gyllyngvase Beach",
+                "hu": "Gyllyngvase strand",
+                "ro": "Plaja Gyllyngvase",
+                "en": "Gyllyngvase Beach"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die stürmische See; das angrenzende Café Gylly ist der perfekte Ort, um das Treiben im Trockenen zu beobachten.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a viharos tengerre; a szomszédos kávézó tökéletes helyszín, hogy szárazon maradva figyelje a hullámok és az eső táncát.",
+                "ro": "Din parcare aveți o vedere superbă asupra mării agitate; cafeneaua adiacentă este locul perfect pentru a observa natura dezlănțuită fără a părăsi confortul interior.",
+                "en": "The parking area offers a fantastic vantage point for the stormy sea; the adjacent café is the perfect sheltered spot to watch the elements while enjoying a hot drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Queen Mary Gardens",
+                "hu": "Queen Mary kertek",
+                "ro": "Grădinile Queen Mary",
+                "en": "Queen Mary Gardens"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die exotischen Pflanzen, die im Regen besonders intensiv riechen und leuchten; die dichten Palmen bieten überraschend guten Schutz bei leichtem Niesel.",
+                "hu": "Csodálja meg az egzotikus növényeket, amelyek az esőben különösen intenzív illatot árasztanak; a sűrű pálmák és bokrok meglepően jó védelmet nyújtanak a szemerkélő esőben.",
+                "ro": "Admirați plantele exotice care au un miros și o culoare mai intensă pe ploaie; palmierii deși oferă o protecție surprinzător de bună împotriva burniței ușoare.",
+                "en": "Admire the sub-tropical plants which look more vibrant and smell fresher in the rain; the dense palms provide surprisingly good cover from light coastal drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendennis Castle",
+                "hu": "Pendennis kastély",
+                "ro": "Castelul Pendennis",
+                "en": "Pendennis Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum oberen Parkplatz der Festung, um den Fußweg im Regen kurz zu halten; die Innenräume der historischen Burg sind heute ein idealer Zufluchtsort.",
+                "hu": "Hajtson fel egészen a felső parkolóig, hogy lerövidítse az esőben megtett gyalogutat; az erőd belső termei és folyosói ma ideális búvóhelyet jelentenek a szél elől.",
+                "ro": "Conduceți până la parcarea superioară a cetății pentru a scurta drumul pe jos prin ploaie; interioarele castelului istoric sunt astăzi un refugiu ideal și fascinant.",
+                "en": "Drive all the way to the upper parking lot to minimize walking in the rain; the castle's historic stone interiors are a grand and sturdy refuge on a stormy day like today."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trockenen Fußes ins Museum zu gelangen; verbringen Sie den restlichen Nachmittag in der faszinierenden Welt der Seefahrt.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal érkezzen a múzeumba; töltse a délután hátralévő részét a tengerészet lenyűgöző világában elmerülve.",
+                "ro": "Folosiți parcarea multietajată din apropiere pentru a ajunge la muzeu fără a vă uda; petreceți restul după-amiezii explorând lumea fascinantă a navigației maritime.",
+                "en": "Use the multi-storey car park nearby to ensure a dry walk into the museum; spend your afternoon immersed in maritime history while the rain beats against the windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour führt uns entlang der frostigen Küste, wo die Heizung im Auto für Wohlbefinden sorgt. Die Strände wirken im Winterlicht magisch und einsam. Nach Besuchen in den winterlichen Gärten und der Festung, wo wir den frühen Sonnenuntergang gegen 16:30 Uhr erleben, bildet das beheizte Museum den perfekten Abschluss. Der Tag endet im warm beleuchteten Stadtzentrum von Falmouth.",
+            "hu": "A téli autós kirándulás a fagyos tengerparton vezet végig, miközben az utastér melege biztonságot nyújt. A strandok a téli fényben varázslatosak és elhagyatottak. A kertek és a vár megtekintése után, ahol fél öt körül elcsípjük a naplementét, a fűtött múzeum kínál tökéletes zárást a napnak, mielőtt a kivilágított belvárosba hajtanánk vacsorázni.",
+            "ro": "O plimbare de iarnă cu mașina vă poartă de-a lungul coastei înghețate, cu căldura din vehicul oferind un confort maxim. Plajele par magice și pustii în lumina iernii. După vizitarea grădinilor și a castelului pentru apusul de la ora 16:30, muzeul încălzit este finalul perfect al zilei, înainte de a ajunge în centrul luminat al orașului.",
+            "en": "A winter road trip takes you along the frosty coastline with the car heater providing a cozy sanctuary. The beaches look magical and serene in the sharp winter light. After visiting the quiet gardens and the castle for an early 4:30 PM sunset, the heated museum is the perfect final stop before heading into Falmouth's festively lit center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maenporth Beach",
+                "hu": "Maenporth strand",
+                "ro": "Plaja Maenporth",
+                "en": "Maenporth Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am einsamen Winterstrand; die klare Luft ermöglicht einen weiten Blick über den Ärmelkanal, den Sie warm eingepackt kurz genießen sollten.",
+                "hu": "Élvezze a magányos téli strand nyugalmát; a tiszta levegő messzi kilátást enged a csatornára, amit jól felöltözve, egy rövid sétával érdemes kiélvezni.",
+                "ro": "Bucurați-vă de liniștea plajei pustii de iarnă; aerul curat permite o vedere largă peste Canal, pe care ar trebui să o savurați bine îmbrăcat pentru câteva minute.",
+                "en": "Enjoy the tranquility of the deserted winter beach; the clear air allows for vast views across the Channel, best enjoyed with a quick, bracing walk on the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Swanpool Beach",
+                "hu": "Swanpool strand",
+                "ro": "Plaja Swanpool",
+                "en": "Swanpool Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterliche Vogelwelt auf dem See direkt vom Parkplatz aus; das flache Winterlicht erzeugt wunderschöne Reflexionen auf der Wasseroberfläche.",
+                "hu": "Figyelje meg a tó téli madárvilágát közvetlenül a parkolóból; az alacsonyan érkező téli fények gyönyörű tükröződéseket vetnek a vízfelszínre ilyenkor.",
+                "ro": "Observați păsările de iarnă de pe lac direct din parcare; lumina joasă a iernii creează reflexii superbe pe suprafața apei înghețate a lacului Swanpool.",
+                "en": "Observe the winter birdlife on the pool directly from the car park; the low winter light creates beautiful, long reflections on the water's surface this morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Gyllyngvase Beach",
+                "hu": "Gyllyngvase strand",
+                "ro": "Plaja Gyllyngvase",
+                "en": "Gyllyngvase Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Flutsaum ist bei der frischen Brise belebend; kehren Sie danach ins warme Auto zurück, um die Fahrt entlang der Küste fortzusetzen.",
+                "hu": "Egy rövid séta a hullámverésnél frissítő a csípős szélben; utána térjen vissza a meleg autóba, hogy folytassa az utat a festői tengerparti panoráma mentén.",
+                "ro": "O scurtă plimbare pe malul mării este revigorantă în briza rece; întoarceți-vă apoi la mașina caldă pentru a continua drumul de-a lungul coastei pitorești.",
+                "en": "A short walk along the shoreline is invigorating in the winter breeze; return to your warm car afterwards to continue the scenic drive along the seafront."
+              }
+            },
+            {
+              "name": {
+                "de": "Queen Mary Gardens",
+                "hu": "Queen Mary kertek",
+                "ro": "Grădinile Queen Mary",
+                "en": "Queen Mary Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten behalten dank des milden kornischen Klimas auch im Winter ihr Grün; bewundern Sie die Architektur der Palmen, die nun besonders gut zur Geltung kommen.",
+                "hu": "A kertek a lágy korni klímának köszönhetően télen is zöldellnek; csodálja meg a pálmák és egzotikus cserjék szerkezetét, amelyek ilyenkor még hangsúlyosabbak.",
+                "ro": "Grădinile rămân verzi și iarna datorită climatului blând din Cornwall; admirați arhitectura palmierilor, care este acum mai vizibilă fără frunzișul de vară.",
+                "en": "The gardens remain surprisingly green in winter thanks to the mild Cornish microclimate; admire the structural beauty of the palms against the pale winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendennis Castle",
+                "hu": "Pendennis kastély",
+                "ro": "Castelul Pendennis",
+                "en": "Pendennis Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Parkplatz für einen Blick auf die Bucht; die historische Festung wirkt im harten Winterlicht besonders imposant und wehrhaft.",
+                "hu": "Használja a szélvédett parkolót az öbölre nyíló kilátáshoz; a történelmi erőd a téli fényben különösen tekintélyt parancsolónak és bevehetetlennek tűnik.",
+                "ro": "Folosiți parcarea protejată de vânt pentru a admira priveliștea golfului; cetatea istorică pare deosebit de impunătoare în lumina rece și clară a iernii.",
+                "en": "Use the sheltered parking area for a great view of the bay; the historic fortress looks especially imposing and powerful in the sharp, low light of a winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritime Museum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Maritime Museum"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist der ideale Ort, wenn es draußen dämmert; genießen Sie den Blick auf die Lichter von Falmouth, die sich im abendlichen Hafen spiegeln.",
+                "hu": "A fűtött múzeum ideális helyszín a szürkület idején; az ablakokból figyelje Falmouth fényeit, ahogy elkezdenek felgyúlni és tükröződni az esti kikötő vizén.",
+                "ro": "Muzeul încălzit este locul ideal pe măsură ce se lasă amurgul; admirați luminile orașului Falmouth care încep să se oglindească în portul de seară.",
+                "en": "The heated museum is the ideal place as twilight falls; enjoy the view of Falmouth's lights beginning to twinkle in the harbor through the giant glass windows."
+              }
+            }
+          ]
+        }
       }
     }
   }

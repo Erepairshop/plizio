@@ -160,6 +160,196 @@
         "hu": "Reggel az utazás Écija szívében kezdődik, csodálatos vallási építészet felfedezésével. Csodálja meg az Iglesia Mayor de Santa Cruz barokk ragyogását, mielőtt a történelmi központ felé venné az irányt.\n\nA nap előrehaladtával elmerülhet a város polgári és királyi történelmében. Sétáljon el a díszes Ayuntamiento mellett, és fedezze fel a lenyűgöző belső tereket.\n\nA délután békés átmenetet kínál a festői utcákon keresztül. Fedezze fel az Iglesia de San Gil nyugodt légkörét, amely a Palacio de Alcántara fenséges udvaraihoz vezet.\n\nZárja a napot az andalúz örökség elmélkedésével. Ahogy leszáll az este, élvezze a helyi tapasokat a paloták közelében, és élvezze Spanyolország serpenyőjének melegét.",
         "ro": "Dimineața, călătoria începe în inima orașului Écija, explorând o arhitectură religioasă magnifică. Admirați strălucirea barocă a Iglesia Mayor de Santa Cruz înainte de a explora centrul istoric.\n\nPe măsură ce soarele urcă, vă veți adânci în istoria civică și regală a orașului. Plimbați-vă pe lângă Ayuntamiento ornamentat și descoperiți interioare grandioase.\n\nDupă-amiaza oferă o tranziție pașnică prin străzi pitorești. Descoperiți atmosfera senină a Iglesia de San Gil, conducând până la curțile maiestuoase ale Palacio de Alcántara.\n\nÎncheiați-vă ziua reflectând la spectaculoasa moștenire andaluză. Pe măsură ce se lasă seara, savurați tapas locale lângă palate, bucurându-vă de căldura orașului.",
         "en": "In the morning, your journey starts in the heart of Écija, exploring magnificent religious architecture. Begin by admiring the baroque brilliance of Iglesia Mayor de Santa Cruz before heading towards the center.\n\nAs the sun climbs, you will delve into the civic and regal history of the city. Stroll past the ornate Ayuntamiento and uncover the grand interiors of historical religious and noble buildings.\n\nThe afternoon offers a peaceful transition through picturesque streets. Discover the serene atmosphere of Iglesia de San Gil, leading up to the majestic courtyards of Palacio de Alcántara.\n\nConclude your day reflecting on the spectacular Andalusian heritage. As evening falls, enjoy local tapas near the palatial estates, soaking in the lingering warmth of the city known as the frying pan of Spain."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Kirche Santa Cruz, einem soliden Schutz vor dem Regen. Mittags bietet das Rathaus Unterschlupf am Hauptplatz. Der Nachmittag wird im prächtigen Palacio de Peñaflor verbracht, wo Innengalerien trocken halten. Am Abend spiegeln die nassen Pflastersteine das Licht wunderschön wider, was eine romantische, aber rutschige Atmosphäre im historischen Zentrum schafft.",
+            "hu": "Reggel a Santa Cruz templom nyújt menedéket a zápor elől. Délben a Városháza árkádjai alatt figyelhetjük a főtér pezsgését. Délután a Palacio de Peñaflor belső folyosói védenek a víztől, miközben a barokk részletekben gyönyörködünk. Este a vizes macskakő csillogása különleges hangulatot ad a városnak, de vigyázzunk a csúszós felületekre a szűk utcákban.",
+            "ro": "Dimineața începe la Biserica Santa Cruz, un refugiu solid împotriva ploii. La prânz, Primăria oferă adăpost în piața principală. După-amiaza este petrecută în luxosul Palacio de Peñaflor, unde galeriile interioare vă mențin uscat. Seara, pavajul umed reflectă luminile stradale superb, creând o atmosferă romantică, dar alunecoasă în centrul istoric.",
+            "en": "Morning starts at the Church of Santa Cruz, a solid refuge from the rain. At noon, the City Hall offers shelter while exploring the main square. Afternoon is spent in the grand Palacio de Peñaflor, where indoor galleries keep you dry. By evening, the wet cobblestones reflect the streetlights beautifully, creating a romantic but slippery atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia Mayor de Santa Cruz",
+                "hu": "Iglesia Mayor de Santa Cruz",
+                "ro": "Iglesia Mayor de Santa Cruz",
+                "en": "Iglesia Mayor de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Altar im Inneren, während es draußen regnet; der geräumige Innenraum ist ein perfekter Zufluchtsort vor plötzlichen Schauern.",
+                "hu": "Csodálja meg a belső oltárt, miközben kint esik; a tágas belső tér tökéletes menedék a hirtelen záporok elől, ahol szárazon maradhat.",
+                "ro": "Admirați altarul din interior în timp ce afară plouă; spațiul interior generos este un refugiu perfect împotriva averselor bruște de ploaie.",
+                "en": "Admire the altar inside while it rains outside; the spacious interior is a perfect refuge from sudden showers where you can stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Écija",
+                "hu": "Écija Városháza",
+                "ro": "Primăria din Écija",
+                "en": "Ayuntamiento de Écija"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die berühmten römischen Mosaike im Inneren, wo Sie vollständig vor dem Wetter geschützt sind; nutzen Sie den überdachten Eingang.",
+                "hu": "Nézze meg a híres római mozaikokat a belső térben, ahol teljesen védve van az időjárástól; használja a fedett bejáratot a belépéshez.",
+                "ro": "Vedeți faimoasele mozaicuri romane din interior, unde sunteți complet protejat de vreme; folosiți intrarea acoperită pentru acces facil.",
+                "en": "See the famous Roman mosaics inside, where you are fully protected from the weather; use the covered entrance for easy access during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Juan",
+                "hu": "Iglesia de San Juan",
+                "ro": "Iglesia de San Juan",
+                "en": "Iglesia de San Juan"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist auch im Regen beeindruckend; schütteln Sie Ihren Regenschirm am Eingang aus, bevor Sie das stille Kirchenschiff betreten.",
+                "hu": "A torony látványa esőben is lenyűgöző; a bejáratnál rázza le az esernyőjét, mielőtt belépne a csendes és száraz templomhajóba.",
+                "ro": "Turnul este impresionant chiar și pe ploaie; scuturați umbrela la intrare înainte de a păși în nava liniștită și uscată a bisericii.",
+                "en": "The tower view is impressive even in the rain; shake your umbrella at the entrance before entering the quiet and dry nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Peñaflor",
+                "hu": "Palacio de Peñaflor",
+                "ro": "Palacio de Peñaflor",
+                "en": "Palacio de Peñaflor"
+              },
+              "tip_5lang": {
+                "de": "Die langen Galerien und Innenhöfe halten Sie trocken; beobachten Sie die Wandmalereien, die in der feuchten Luft lebendiger wirken.",
+                "hu": "A hosszú folyosók és belső udvarok szárazon tartják; figyelje meg a falfestményeket, amelyek a vizes levegőben élénkebbnek tűnnek.",
+                "ro": "Galeriile lungi și curțile interioare vă mențin uscat; observați picturile murale care par mai vii în aerul umed al după-amiezii.",
+                "en": "The long galleries and inner courtyards keep you dry; observe the murals, which seem more vivid in the humid air of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Gil",
+                "hu": "Iglesia de San Gil",
+                "ro": "Iglesia de San Gil",
+                "en": "Iglesia de San Gil"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche steht an einem hohen Punkt; das Klopfen des Regens auf dem Dach verleiht dem Besuch eine besondere, andächtige Atmosphäre.",
+                "hu": "Ez a templom egy magas ponton áll; az eső kopogása a tetőn különleges, áhítatos hangulatot kölcsönöz a látogatásnak és a pihenésnek.",
+                "ro": "Această biserică se află într-un punct înalt; sunetul ploii pe acoperiș oferă vizitei o atmosferă specială și pioasă în interior.",
+                "en": "This church stands at a high point; the sound of rain tapping on the roof gives the visit a special, devotional atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Alcántara",
+                "hu": "Palacio de Alcántara",
+                "ro": "Palacio de Alcántara",
+                "en": "Palacio de Alcántara"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume des Palastes eignen sich hervorragend für den Abschluss des Tages, weit weg von den nassen Straßen und Pfützen.",
+                "hu": "A palota belső terei kiválóan alkalmasak a nap zárására, távol a nedves utcáktól és pocsolyáktól; élvezze a barokk pompát fedél alatt.",
+                "ro": "Interioarele palatului sunt excelente pentru încheierea zilei, departe de străzile umede și bălți; bucurați-vă de splendoarea barocă la adăpost.",
+                "en": "The palace interiors are excellent for ending the day, far from the wet streets and puddles; enjoy the Baroque splendor undercover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Morgen in der Kirche Santa Cruz und genießen Sie das Licht. Das Rathaus am Mittag ist ideal, um die milde spanische Sonne auf dem Platz zu genießen. Am Nachmittag bieten die dicken Mauern des Palacio de Peñaflor einen gemütlichen Rückzugsort vor der kühlen Brise. Der Abend kommt früh; um 17 Uhr sind die berühmten Türme der Stadt wunderschön beleuchtet.",
+            "hu": "A friss, téli reggelt a Santa Cruz templomnál kezdjük, élvezve a tiszta fényeket. Délben a Városháza környékén a téli nap sugarai melengetik a főteret. Délután a Palacio de Peñaflor vastag falai között bújhatunk el a hűvös szél elől. Az este korán érkezik; 17 óra után az ikonikus tornyok díszkivilágítása már messziről hirdeti Écija barokk szépségét.",
+            "ro": "Începeți dimineața răcoroasă la Biserica Santa Cruz, bucurându-vă de lumina clară de iarnă. Prânzul la Primărie este perfect pentru a prinde soarele blând al Spaniei în piață. După-amiaza, zidurile groase ale Palacio de Peñaflor oferă o evadare primitoare de briza rece. Seara vine devreme; până la ora 17:00, faimoasele turnuri ale orașului sunt iluminate superb.",
+            "en": "Start the crisp morning at Santa Cruz Church, enjoying the clear winter light. Noon at the City Hall is perfect for catching some mild Spanish sun on the plaza. In the afternoon, the thick walls of Palacio de Peñaflor provide a cozy escape from the cool breeze. Evening arrives early; by 5 PM, the city's famous towers are beautifully illuminated."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia Mayor de Santa Cruz",
+                "hu": "Iglesia Mayor de Santa Cruz",
+                "ro": "Iglesia Mayor de Santa Cruz",
+                "en": "Iglesia Mayor de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da Kirchen im Winter kühl sein können; bewundern Sie das Gold des Altars im sanften Licht des Vormittags.",
+                "hu": "Viseljen réteges ruhát, mert a templomok télen hűvösek lehetnek; csodálja meg az oltár aranyát a lágy délelőtti fényben.",
+                "ro": "Purtați haine groase, deoarece bisericile pot fi răcoroase iarna; admirați aurul altarului în lumina blândă a dimineții.",
+                "en": "Wear warm layers as churches can be cool in winter; admire the gold of the altar in the soft morning light for a warm visual glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Écija",
+                "hu": "Écija Városháza",
+                "ro": "Primăria din Écija",
+                "en": "Ayuntamiento de Écija"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus ist gut beheizt; nutzen Sie den Besuch der Mosaike, um sich zwischen zwei Spaziergängen durch die Stadt aufzuwärmen.",
+                "hu": "A Városháza belső terei jól védettek a széltől; használja a mozaikok megtekintését egy kis felmelegedésre két városi séta között.",
+                "ro": "Primăria este bine protejată de vânt; profitați de vizita la mozaicuri pentru a vă încălzi puțin între două plimbări prin oraș.",
+                "en": "The City Hall interiors are well protected from the wind; use the mosaic visit to warm up a bit between two city walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Juan",
+                "hu": "Iglesia de San Juan",
+                "ro": "Iglesia de San Juan",
+                "en": "Iglesia de San Juan"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche bietet Schutz vor dem kalten Winterwind; genießen Sie die Ruhe dieses barocken Juwels im Herzen der Stadt.",
+                "hu": "A templom belső tere menedéket nyújt a hideg téli szél elől; élvezze e barokk ékszerdoboz csendjét a város szívében.",
+                "ro": "Interiorul bisericii oferă protecție împotriva vântului rece de iarnă; bucurați-vă de liniștea acestei bijuterii baroce din inima orașului.",
+                "en": "The church interior provides shelter from the cold winter wind; enjoy the silence of this Baroque jewel in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Peñaflor",
+                "hu": "Palacio de Peñaflor",
+                "ro": "Palacio de Peñaflor",
+                "en": "Palacio de Peñaflor"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Wärme des Tages; erkunden Sie die Innenhöfe am frühen Nachmittag, solange die Sonne noch hoch steht.",
+                "hu": "A vastag falak jól tartják a nappali hőt; fedezze fel a belső udvarokat kora délután, amíg a nap még magasan jár a téli égen.",
+                "ro": "Zidurile groase rețin bine căldura zilei; explorați curțile interioare devreme după-amiaza, cât timp soarele este încă sus pe cer.",
+                "en": "The thick walls retain daytime heat well; explore the inner courtyards in the early afternoon while the sun is still high in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Gil",
+                "hu": "Iglesia de San Gil",
+                "ro": "Iglesia de San Gil",
+                "en": "Iglesia de San Gil"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die Fassade wunderschön; gehen Sie hinein, um die barocke Pracht in einer gemütlichen Atmosphäre zu bewundern.",
+                "hu": "Az alacsonyan járó nap gyönyörűen világítja meg a homlokzatot; menjen be, hogy a barokk pompát meghitt, téli hangulatban csodálhassa meg.",
+                "ro": "Soarele de după-amiază luminează frumos fațada; intrați pentru a admira splendoarea barocă într-o atmosferă caldă de iarnă.",
+                "en": "The low afternoon sun illuminates the facade beautifully; head inside to admire the Baroque splendor in a cozy winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Alcántara",
+                "hu": "Palacio de Alcántara",
+                "ro": "Palacio de Alcántara",
+                "en": "Palacio de Alcántara"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor dem Sonnenuntergang um 17 Uhr; die Palasträume sind im Winterlicht besonders stimmungsvoll und einladend.",
+                "hu": "Fejezze be látogatását a 17 órai naplemente előtt; a palota termei a téli fényekben különösen hangulatosak és melegek.",
+                "ro": "Încheiați vizita înainte de apusul de la ora 17:00; sălile palatului sunt deosebit de atmosferice și primitoare în lumina iernii.",
+                "en": "Finish your visit before the 5 PM sunset; the palace rooms are especially atmospheric and welcoming in the winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpártúrája lágy tekeréssel kezdődik Écija legtiszteltebb kolostorai között. Szánjon időt a helyi édes hagyományok és a békés udvarok megismerésére a reggeli hűvösben.\n\nDél körül a történelmi központon keresztül kerekezik, elhaladva az impozáns városháza mellett. A szélesebb utcák lehetővé teszik az andalúz építészet városi örökségének könnyű befogadását.\n\nEbéd után elsuhan a figyelemre méltó Palacio de Peñaflor és az elegáns Iglesia de Santa Ana mellett. A kerékpárral kényelmesen tarthat rövid szüneteket a fotózáshoz.\n\nKéső délután haladjon át a városon az Iglesia del Carmen felé. Egy tartalmas utazás után pihenjen meg, és nézze, ahogy a lemenő nap megvilágítja a város jellegzetes barokk látképét.",
         "ro": "Turul tău cu bicicleta începe cu plimbări ușoare între unele dintre cele mai venerate mănăstiri din Écija. Fă-ți timp pentru a explora tradițiile dulci și curțile pașnice ale orașului.\n\nSpre prânz, vei pedala prin centrul istoric, trecând pe lângă primăria impunătoare. Străzile mai largi îți permit să apreciezi cu ușurință moștenirea civică a arhitecturii andaluze.\n\nDupă prânz, treci pe lângă remarcabilul Palacio de Peñaflor și eleganta Iglesia de Santa Ana. Fiind pe bicicletă, poți face opriri scurte și rapide pentru a fotografia detaliile uimitoare.\n\nLa sfârșitul după-amiezii, traversează orașul spre Iglesia del Carmen. Relaxează-te după o plimbare plină de satisfacții și privește cum soarele apune luminează linia orizontului baroc a orașului.",
         "en": "Your cycling tour begins with gentle rides between some of Écija's most revered convents. Take your time to embrace local sweet traditions and peaceful courtyards in the morning cool.\n\nTowards midday, you will pedal through the historic center, passing the imposing city hall. The slightly wider streets allow you to easily appreciate the civic heritage of Andalusian architecture.\n\nAfter lunch, glide past the remarkable Palacio de Peñaflor and the elegant Iglesia de Santa Ana. Being on a bike lets you make quick, convenient stops to photograph notable details.\n\nIn the late afternoon, cross town to Iglesia del Carmen. Relax after a rewarding ride, and watch as the setting sun illuminates the city's distinctive, beautiful baroque skyline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Kloster Santísima Trinidad, einem ruhigen Ort im Regen. Mittags am Rathaus empfiehlt sich eine Pause unter den Arkaden. Nachmittags erfordert die Fahrt zwischen den Kirchen wasserfeste Kleidung und Vorsicht auf glatten Straßen. Der Abend endet mit dem Blick auf die glänzenden Türme, während Sie Ihr Fahrrad sicher im Trockenen abstellen.",
+            "hu": "Reggel a Santísima Trinidad kolostornál kezdünk, figyelve a záporok elvonulását. Délben a Városháza környékén gyorsan fedél alá húzódhatunk a biciklivel. Délután a templomok közötti tekerés során viseljünk vízálló ruházatot a fröccsenő víz ellen. Este a kivilágított tornyok és a vizes aszfalt látványa kárpótol, de a fékezésnél legyünk nagyon óvatosak.",
+            "ro": "Dimineața începe la Mănăstirea Santísima Trinidad, un loc liniștit pe ploaie. La prânz, lângă Primărie, se recomandă o pauză sub arcade. După-amiaza, deplasarea între biserici necesită haine impermeabile și prudență pe drumurile alunecoase. Seara se încheie cu vederea turnurilor strălucitoare, în timp ce parcați bicicleta la loc uscat.",
+            "en": "Morning starts at the Santísima Trinidad Convent, a peaceful spot in the rain. At noon near the City Hall, a break under the arcades is recommended. In the afternoon, cycling between churches requires waterproof gear and caution on slippery roads. Evening ends with a view of the glistening towers as you park your bike safely in the dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Convento de la Santísima Trinidad",
+                "hu": "Convento de la Santísima Trinidad",
+                "ro": "Convento de la Santísima Trinidad",
+                "en": "Convento de la Santísima Trinidad"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad kurz abzustellen, während Sie die religiöse Kunst im Inneren besichtigen.",
+                "hu": "Használja a fedett bejárati részt a kerékpár rövid leállítására, miközben bent megtekinti a vallási művészeti kincseket.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca scurt bicicleta în timp ce vizitați comorile de artă religioasă din interior.",
+                "en": "Use the covered entrance area to briefly park your bike while you view the religious art treasures inside away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Mayor de Santa Cruz",
+                "hu": "Iglesia Mayor de Santa Cruz",
+                "ro": "Iglesia Mayor de Santa Cruz",
+                "en": "Iglesia Mayor de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad in der Nähe des Eingangs unter einem Vorsprung; die Kirche ist ein herrlicher Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Parkolja a kerékpárt a bejárat közelében egy eresz alatt; a templom kiváló helyszín egy nagyobb zápor kivárására és elázás ellen.",
+                "ro": "Parcați bicicleta lângă intrare sub o streașină; biserica este un loc excelent pentru a aștepta trecerea unei averse mai mari.",
+                "en": "Park your bike near the entrance under an eave; the church is an excellent place to wait out a heavy rain shower and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Pablo y Santo Domingo",
+                "hu": "Convento de San Pablo y Santo Domingo",
+                "ro": "Convento de San Pablo y Santo Domingo",
+                "en": "Convento de San Pablo y Santo Domingo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das glatte Pflaster vor dem Kloster; der Innenraum bietet eine trockene und andächtige Umgebung für eine kurze Pause.",
+                "hu": "Ügyeljen a csúszós macskakőre a kolostor előtt; a belső tér száraz és áhítatos környezetet kínál egy rövid kerékpáros pihenőhöz.",
+                "ro": "Atenție la pavajul alunecos din fața mănăstirii; spațiul interior oferă un mediu uscat și pios pentru o scurtă pauză de bicicletă.",
+                "en": "Watch out for the slippery cobblestones in front of the convent; the interior offers a dry and devotional setting for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Écija",
+                "hu": "Écija Városháza",
+                "ro": "Primăria din Écija",
+                "en": "Ayuntamiento de Écija"
+              },
+              "tip_5lang": {
+                "de": "Die Arkaden des Hauptplatzes sind ideal, um das Fahrrad trocken abzustellen, während Sie die antiken Mosaike im Rathaus erkunden.",
+                "hu": "A főtér árkádjai ideálisak a kerékpár száraz leállítására, amíg Ön a Városháza ókori mozaikjait fedezi fel a fedett térben.",
+                "ro": "Arcadele pieței principale sunt ideale pentru a lăsa bicicleta la uscat în timp ce explorați mozaicurile antice din Primărie.",
+                "en": "The arcades of the main square are ideal for parking your bike dry while you explore the ancient mosaics in the City Hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Peñaflor",
+                "hu": "Palacio de Peñaflor",
+                "ro": "Palacio de Peñaflor",
+                "en": "Palacio de Peñaflor"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in den engen Gassen; der Palast bietet weitläufige Innenbereiche, in denen Sie dem Regen vollständig entkommen können.",
+                "hu": "Hajtson óvatosan a szűk utcákban; a palota tágas belső tereket kínál, ahol teljesen elmenekülhet az eső elől a látogatás alatt.",
+                "ro": "Mergeți cu atenție pe străzile înguste; palatul oferă spații interioare generoase unde puteți scăpa complet de ploaie în timpul vizitei.",
+                "en": "Ride carefully in the narrow streets; the palace offers spacious indoor areas where you can escape the rain completely during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Ana",
+                "hu": "Iglesia de Santa Ana",
+                "ro": "Iglesia de Santa Ana",
+                "en": "Iglesia de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel nach der Fahrt ab; im Inneren finden Sie Schutz vor der Feuchtigkeit und können die sakrale Kunst bewundern.",
+                "hu": "Törölje le a nyerget a megérkezés után; bent védelmet talál a nedvesség ellen, és nyugodtan megcsodálhatja a templom műkincseit.",
+                "ro": "Ștergeți șaua după sosire; în interior veți găsi protecție împotriva umezelii și puteți admira în liniște obiectele de artă ale bisericii.",
+                "en": "Wipe down your seat after arrival; inside you will find protection from the moisture and can admire the church's art in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Iglesia de Nuestra Señora del Carmen",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Iglesia de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Die markante Kirche ist ein perfekter Endpunkt; genießen Sie die trockene Umgebung, bevor Sie den Heimweg im Regen antreten.",
+                "hu": "A templom látványos tornya esőben is vezeti az utat; élvezze a száraz környezetet, mielőtt elindulna haza a nedves aszfalton.",
+                "ro": "Turnul spectaculos al bisericii ghidează drumul chiar și pe ploaie; bucurați-vă de mediul uscat înainte de a porni spre casă pe asfalt.",
+                "en": "The church's spectacular tower guides the way even in the rain; enjoy the dry environment before heading home on the wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Kloster Santísima Trinidad weckt die Geister. Mittags wärmt die Sonne die Fahrt zum Rathaus auf. Nachmittags kühlt es schnell ab; tragen Sie Handschuhe beim Radfahren zwischen den prächtigen Gebäuden. Um 17 Uhr endet die Tour bei Sonnenuntergang, wenn die Türme von Écija im goldenen Winterlicht erstrahlen.",
+            "hu": "A friss téli reggel a Santísima Trinidad kolostornál felfrissíti a bringásokat. Délben a nap melengeti az utat a Városháza felé. Délután gyorsan hűl a levegő, viseljen kesztyűt a paloták közötti tekeréshez. 17 órakor a túra a naplementével ér véget, amikor Écija tornyai arany fényben úsznak a téli égen.",
+            "ro": "O dimineață răcoroasă de iarnă la Mănăstirea Santísima Trinidad reîmprospătează bicicliștii. La prânz, soarele încălzește drumul spre Primărie. După-amiaza, aerul se răcește rapid; purtați mănuși pentru deplasarea între palate. La ora 17:00, turul se încheie cu apusul soarelui, când turnurile din Écija strălucesc în aur.",
+            "en": "A crisp winter morning at Santísima Trinidad Convent refreshes the cyclist. At noon, the sun warms the ride toward the City Hall. In the afternoon, the air cools quickly; wear gloves for cycling between the grand buildings. At 5 PM, the tour ends with the sunset as Écija's towers shine in golden winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Convento de la Santísima Trinidad",
+                "hu": "Convento de la Santísima Trinidad",
+                "ro": "Convento de la Santísima Trinidad",
+                "en": "Convento de la Santísima Trinidad"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Besuch erfrischend; wärmen Sie sich im Inneren des Klosters auf, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A hűvös reggeli levegő frissítővé teszi a látogatást; melegedjen fel a kolostor belső terében, mielőtt folytatná a kerékpáros utat.",
+                "ro": "Aerul răcoros de dimineață face vizita revigorantă; încălziți-vă în interiorul mănăstirii înainte de a continua traseul cu bicicleta.",
+                "en": "The cool morning air makes the visit refreshing; warm up inside the convent's interior before continuing your cycling journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia Mayor de Santa Cruz",
+                "hu": "Iglesia Mayor de Santa Cruz",
+                "ro": "Iglesia Mayor de Santa Cruz",
+                "en": "Iglesia Mayor de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad in der Sonne; der Innenraum der Kirche bietet eine windgeschützte Umgebung zur Besichtigung der Kunstwerke.",
+                "hu": "Láncolja le kerékpárját a napsütötte részen; a templom belső tere szélvédett környezetet kínál a műalkotások megtekintéséhez.",
+                "ro": "Asigurați bicicleta într-o zonă însorită; spațiul interior al bisericii oferă un mediu protejat de vânt pentru a admira operele de artă.",
+                "en": "Lock your bike in a sunny spot; the church interior offers a wind-protected environment for viewing the artworks in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Pablo y Santo Domingo",
+                "hu": "Convento de San Pablo y Santo Domingo",
+                "ro": "Convento de San Pablo y Santo Domingo",
+                "en": "Convento de San Pablo y Santo Domingo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Hände aufzuwärmen; die Stille des Klosters ist im Winter besonders friedlich und einladend.",
+                "hu": "Használja ki a megállót a kezei felmelegítésére; a kolostor csendje télen különösen békés és hívogató a biciklisek számára.",
+                "ro": "Profitați de oprire pentru a vă încălzi mâinile; liniștea mănăstirii este deosebit de pașnică și primitoare pentru bicicliști iarna.",
+                "en": "Take advantage of the stop to warm your hands; the silence of the convent is especially peaceful and inviting for cyclists in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Écija",
+                "hu": "Écija Városháza",
+                "ro": "Primăria din Écija",
+                "en": "Ayuntamiento de Écija"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Mittagssonne auf dem Hauptplatz; das Rathaus bietet einen warmen Rückzugsort zur Erkundung der antiken römischen Mosaike.",
+                "hu": "Élvezze a déli napsütést a főtéren; a Városháza meleg menedéket nyújt az ókori római mozaikok felfedezéséhez a téli napon.",
+                "ro": "Bucurați-vă de soarele de la prânz în piața principală; Primăria oferă un refugiu cald pentru explorarea mozaicurilor romane antice.",
+                "en": "Enjoy the midday sun in the main square; the City Hall provides a warm refuge for exploring the ancient Roman mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Peñaflor",
+                "hu": "Palacio de Peñaflor",
+                "ro": "Palacio de Peñaflor",
+                "en": "Palacio de Peñaflor"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Fassade ideal; nutzen Sie die Innenräume, um sich vor der kühlen Nachmittagsbrise zu schützen.",
+                "hu": "Az alacsony téli nap ideálisan világítja meg a homlokzatot; használja a belső tereket a hűvös délutáni szél elleni védekezésre.",
+                "ro": "Soarele jos de iarnă luminează ideal fațada; folosiți spațiile interioare pentru a vă proteja de briza răcoroasă de după-amiază.",
+                "en": "The low winter sun ideally illuminates the facade; use the interior spaces to protect yourself from the cool afternoon breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Ana",
+                "hu": "Iglesia de Santa Ana",
+                "ro": "Iglesia de Santa Ana",
+                "en": "Iglesia de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag; die dicken Mauern speichern die Restwärme des Tages und bieten eine gemütliche Atmosphäre.",
+                "hu": "Látogasson el a templomba késő délután; a vastag falak megőrzik a nappali hőt, és meghitt hangulatot kínálnak a megpihenéshez.",
+                "ro": "Vizitați biserica după-amiaza târziu; zidurile groase păstrează căldura zilei și oferă o atmosferă intimă pentru odihnă.",
+                "en": "Visit the church in the late afternoon; the thick walls retain the day's heat and offer a cozy atmosphere for resting."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Iglesia de Nuestra Señora del Carmen",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Iglesia de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor der Dunkelheit um 17 Uhr; die beleuchtete Turmspitze ist ein markantes Wahrzeichen im winterlichen Abendlicht.",
+                "hu": "Fejezze be a túrát a 17 órai sötétedés előtt; a kivilágított toronycsúcs markáns jelzőpont a téli esti fényben Écija egén.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului de la ora 17:00; turnul iluminat este un reper marcant în lumina serii de iarnă.",
+                "en": "Finish the tour before the 5 PM darkness; the illuminated tower top is a striking landmark in the winter evening light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós kalandját a város peremén, ahol makulátlan barokk építészet várja. A könnyű megközelíthetőség miatt a reggel a legalkalmasabb idő e vallási helyszínek meglátogatására.\n\nNavigáljon a szélesebb úthálózaton, hogy felfedezze a különböző stílusú, hihetetlen templomokat. Szakítsa meg az utat, hogy közelről is megcsodálhassa a bámulatos mudéjar elemeket és finom részleteket.\n\nDélután haladjon a város pompás palotái felé. Miután leparkolta autóját, elmélyülhet e nemesi andalúziai birtokok gazdag történelmében és nyugodt szépségében.\n\nFejezze be a túrát a nagyszerű kúriák közelében. Ahogy a délután elszáll, hagyja hátra járművét, hogy élvezzen egy kellemes étkezést Écija egyik történelmi sikátorában.",
         "ro": "Începeți aventura auto la marginea orașului, unde vă așteaptă o arhitectură barocă imaculată. Accesibilitatea ușoară face ca dimineața să fie un moment perfect pentru aceste situri religioase.\n\nNavigați prin rețeaua mai largă de drumuri pentru a descoperi biserici incredibile cu stiluri variate. Opriți-vă mașina pentru a admira îndeaproape elementele mudejar uimitoare.\n\nDupă-amiaza, conduceți spre palatele magnifice ale orașului. După ce v-ați parcat mașina, vă puteți scufunda în istoria bogată a acestor moșii andaluze nobiliare.\n\nÎncheiați turul în apropierea marilor conace. Pe măsură ce după-amiaza trece, lăsați vehiculul pentru a vă bucura de o masă pe una dintre aleile istorice din Écija.",
         "en": "Start your driving adventure on the fringes of the city, where immaculate baroque architecture awaits. The easy accessibility makes morning a perfect time for these religious sites.\n\nNavigate through the slightly wider road network to uncover incredible churches featuring varied styles. Pause your drive to admire amazing Mudéjar elements and fine details up close.\n\nIn the afternoon, head towards the magnificent palaces of the city. After safely parking your car, you can dive into the rich history of these noble Andalusian estates.\n\nFinish your tour near the grand mansions. As the afternoon fades, leave your vehicle behind to enjoy a delightful meal down one of Écija's historic, sun-drenched alleys."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Fahrt bequem an der Kirche El Carmen, ohne nass zu werden. Mittags parken Sie in der Nähe des Rathauses für einen kurzen Weg im Regen. Nachmittags ermöglicht das Auto einen trockenen Transfer zwischen den prächtigen Palästen. Am Abend bewundern Sie die glänzende Stadt durch das Fenster, bevor Sie zum nächsten überdachten Ort fahren.",
+            "hu": "Reggel kényelmesen, autóval érkezünk az Iglesia del Carmenhez, elkerülve a pocsolyákat. Délben a belvárosi parkolás után rövid sétával érjük el a Városházát az esőben. Délután a paloták közötti utat szárazon tesszük meg a gépjárműben, élvezve a kilátást. Este az esőben úszó város fényeit az ablakból csodálhatjuk meg, mielőtt továbbhajtanánk.",
+            "ro": "Începeți traseul confortabil la Biserica El Carmen, fără a vă uda. La prânz, parcați lângă Primărie pentru un drum scurt prin ploaie. După-amiaza, mașina permite un transfer uscat între palatele splendide. Seara, admirați orașul strălucitor prin fereastră, înainte de a conduce către următoarea locație acoperită.",
+            "en": "Start the drive comfortably at El Carmen Church without getting wet. At noon, park near the City Hall for a short walk in the rain. In the afternoon, the car allows for a dry transfer between the grand palaces. In the evening, admire the glistening city through the window before driving to the next covered location."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Iglesia de Nuestra Señora del Carmen",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Iglesia de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um den Regen zu vermeiden; das Innere der Kirche ist ein prachtvoller und trockener Ort für den Start.",
+                "hu": "Parkoljon közvetlenül a templom előtt, hogy elkerülje az esőt; a belső tér pompás és száraz helyszín a városnézés megkezdéséhez.",
+                "ro": "Parcați direct în față pentru a evita ploaia; interiorul bisericii este un loc splendid și uscat pentru a începe vizitarea orașului.",
+                "en": "Park directly in front to avoid the rain; the church interior is a splendid and dry location to begin your sightseeing tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Concepción",
+                "hu": "Iglesia de la Concepción",
+                "ro": "Iglesia de la Concepción",
+                "en": "Iglesia de la Concepción"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zum Eingang; der barocke Innenraum bietet eine warme und trockene Atmosphäre bei schlechtem Wetter.",
+                "hu": "Használja ki az autótól a bejáratig tartó rövid utat; a barokk belső tér meleg és száraz környezetet kínál rossz idő esetén is.",
+                "ro": "Profitați de drumul scurt de la mașină până la intrare; interiorul baroc oferă un mediu cald și uscat chiar și pe vreme rea.",
+                "en": "Take advantage of the short path from the car to the entrance; the Baroque interior offers a warm and dry setting even in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santiago",
+                "hu": "Iglesia de Santiago",
+                "ro": "Iglesia de Santiago",
+                "en": "Iglesia de Santiago"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen beim Aussteigen; die Kirche bietet einen weitläufigen, schützenden Innenraum zur Besichtigung der Altäre.",
+                "hu": "Ügyeljen a pocsolyákra kiszálláskor; a templom tágas, védett belső teret kínál az oltárok és műkincsek alapos megtekintéséhez.",
+                "ro": "Atenție la bălți la coborâre; biserica oferă un spațiu interior generos și protejat pentru a admira altarele și obiectele de artă.",
+                "en": "Watch out for puddles when getting out; the church offers a spacious, sheltered interior for viewing the altars and artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Bárbara",
+                "hu": "Iglesia de Santa Bárbara",
+                "ro": "Iglesia de Santa Bárbara",
+                "en": "Iglesia de Santa Bárbara"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zum Parkplatz macht diesen Halt ideal im Regen; genießen Sie die Ruhe im Inneren, während draußen der Regen auf das Dach trommelt.",
+                "hu": "A parkoló közelsége miatt ez a megálló ideális esőben; élvezze a benti nyugalmat, miközben kint az eső kopog a templomtetőn.",
+                "ro": "Apropierea de parcare face această oprire ideală pe ploaie; bucurați-vă de liniștea din interior în timp ce ploaia bate în acoperiș.",
+                "en": "The proximity to parking makes this stop ideal in the rain; enjoy the indoor peace while the rain taps on the church roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Peñaflor",
+                "hu": "Palacio de Peñaflor",
+                "ro": "Palacio de Peñaflor",
+                "en": "Palacio de Peñaflor"
+              },
+              "tip_5lang": {
+                "de": "Der Palast bietet viele überdachte Bereiche und Galerien; nutzen Sie den Komfort des Autos für die Anfahrt zu diesem barocken Juwel.",
+                "hu": "A palota számos fedett területet és folyosót kínál; használja ki az autó kényelmét e barokk ékszerdoboz megközelítéséhez az esőben.",
+                "ro": "Palatul oferă numeroase zone acoperite și galerii; profitați de confortul mașinii pentru a ajunge la această bijuterie barocă pe ploaie.",
+                "en": "The palace offers many covered areas and galleries; use the comfort of the car to reach this Baroque jewel during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Alcántara",
+                "hu": "Palacio de Alcántara",
+                "ro": "Palacio de Alcántara",
+                "en": "Palacio de Alcántara"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag trocken in den prächtigen Sälen des Palastes, weit weg von der Nässe der herbstlichen oder winterlichen Straßen.",
+                "hu": "Zárja a napot szárazon a palota pompás termeiben, távol az őszi vagy téli utcák nedvességétől és a csúszós aszfalttól.",
+                "ro": "Încheiați ziua la uscat în sălile splendide ale palatului, departe de umezeala străzilor de toamnă sau iarnă și de asfaltul ud.",
+                "en": "End the day dry in the palace's splendid halls, far from the dampness of autumn or winter streets and wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Kirche El Carmen mit herrlicher Aussicht. Mittags sorgt das Auto für Wärme zwischen den Besichtigungen im Zentrum. Nachmittags ist die Fahrt durch Écija im sanften Licht der Sonne besonders angenehm. Ab 17 Uhr wird es kühl; genießen Sie die beleuchteten Türme der Stadt bequem aus dem beheizten Fahrzeug.",
+            "hu": "A tiszta téli reggel az Iglesia del Carmennél indul, csodás kilátással. Délben az autó meleg utastere nyújt pihenőt a belvárosi séták között. Délután a gépjárműből élvezhetjük Écija látképét a lágy téli napsütésben. 17 órától gyorsan hűl az idő, így a kivilágított tornyokat már a fűtött jármű kényelméből csodálhatjuk meg.",
+            "ro": "O dimineață senină de iarnă începe la Biserica El Carmen cu o vedere superbă. La prânz, mașina oferă căldură între vizitele din centru. După-amiaza, plimbarea prin Écija în lumina blândă a soarelui este deosebit de plăcută. De la ora 17:00 se răcește rapid, așa că admirați turnurile iluminate din vehiculul încălzit.",
+            "en": "A clear winter morning starts at El Carmen Church with a wonderful view. At noon, the car provides warmth between sightseeing stops in the center. In the afternoon, driving through Écija in the soft sunlight is especially pleasant. From 5 PM it cools down quickly, so admire the illuminated towers from the comfort of your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora del Carmen",
+                "hu": "Iglesia de Nuestra Señora del Carmen",
+                "ro": "Iglesia de Nuestra Señora del Carmen",
+                "en": "Iglesia de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Morgen; die Kirche bietet einen warmen und andächtigen Start in Ihren Stadtausflug.",
+                "hu": "Élvezze a tiszta reggeli téli levegőt a templom előtt; a belső tér meleg és áhítatos kezdést biztosít a városi kiránduláshoz.",
+                "ro": "Bucurați-vă de aerul curat de iarnă dimineața; interiorul oferă un început cald și pios pentru excursia dumneavoastră în oraș.",
+                "en": "Enjoy the clear winter morning air outside; the interior provides a warm and devotional start to your city excursion."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Concepción",
+                "hu": "Iglesia de la Concepción",
+                "ro": "Iglesia de la Concepción",
+                "en": "Iglesia de la Concepción"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor dem kühlen Wind; bewundern Sie die barocke Kunst in der ruhigen, winterlichen Atmosphäre des Innenraums.",
+                "hu": "A vastag falak jól védenek a hűvös széltől; csodálja meg a barokk művészetet a templom csendes, téli hangulatú belső terében.",
+                "ro": "Zidurile groase protejează bine de vântul răcoros; admirați arta barocă în atmosfera liniștită de iarnă a interiorului bisericii.",
+                "en": "The thick walls protect well from the cool wind; admire the Baroque art in the quiet, winter atmosphere of the church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santiago",
+                "hu": "Iglesia de Santiago",
+                "ro": "Iglesia de Santiago",
+                "en": "Iglesia de Santiago"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen schnellen Zugang zum beheizten Innenraum; die Kirche ist im Winterlicht besonders eindrucksvoll.",
+                "hu": "Parkoljon a közelben a fűtött belső tér gyors eléréséhez; a templom tágas hajója a téli fényekben különösen impozáns látványt nyújt.",
+                "ro": "Parcați în apropiere pentru a ajunge rapid în interiorul încălzit; nava spațioasă a bisericii este o vedere impunătoare în lumina iernii.",
+                "en": "Park nearby for quick access to the heated interior; the church's spacious nave is an especially impressive sight in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Bárbara",
+                "hu": "Iglesia de Santa Bárbara",
+                "ro": "Iglesia de Santa Bárbara",
+                "en": "Iglesia de Santa Bárbara"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zum Parkplatz ist bei winterlichen Temperaturen ideal; genießen Sie die barocke Pracht in einer gemütlichen Umgebung.",
+                "hu": "A parkoló közelsége ideális a téli hidegben; élvezze a barokk pompát a templom meghitt és szélvédett belső terében.",
+                "ro": "Apropierea de parcare este ideală în frigul iernii; bucurați-vă de splendoarea barocă în interiorul intim și protejat de vânt.",
+                "en": "The proximity to parking is ideal in the winter cold; enjoy the Baroque splendor in the church's intimate and wind-protected interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Peñaflor",
+                "hu": "Palacio de Peñaflor",
+                "ro": "Palacio de Peñaflor",
+                "en": "Palacio de Peñaflor"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast am frühen Nachmittag, um die warme Wintersonne in den Höfen zu nutzen, bevor die Temperaturen sinken.",
+                "hu": "Látogasson el a palotába kora délután, hogy kihasználja a téli nap melegét az udvarokon, mielőtt a hőmérséklet hirtelen csökkenni kezdene.",
+                "ro": "Vizitați palatul devreme după-amiaza pentru a profita de căldura soarelui de iarnă în curți, înainte ca temperatura să scadă brusc.",
+                "en": "Visit the palace in the early afternoon to catch the winter sun's warmth in the courtyards before the temperature begins to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Alcántara",
+                "hu": "Palacio de Alcántara",
+                "ro": "Palacio de Alcántara",
+                "en": "Palacio de Alcántara"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag vor Sonnenuntergang um 17 Uhr; die Palasträume bieten einen prachtvollen und warmen Abschluss Ihrer winterlichen Tour.",
+                "hu": "Fejezze be a napot a 17 órai naplemente előtt; a palota termei pompás és meleg záróhelyszínt kínálnak a téli autós túrához.",
+                "ro": "Încheiați ziua înainte de apusul de la ora 17:00; sălile palatului oferă un final splendid și cald pentru turul dumneavoastră auto de iarnă.",
+                "en": "End the day before the 5 PM sunset; the palace rooms offer a splendid and warm closing location for your winter driving tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje egy nyugodt reggellel a helyi játszótéren, élvezve a közösségi hangulatot, mielőtt elmerülne a város mély múltjában a lenyűgöző római lelőhelyen.\n\nAz ebédszünet közeledtével induljon el egy festői sétára a fenséges Graig Fawr felé, ahol az ősi állókövek találkoznak a lenyűgöző természeti domborzattal.\n\nA délutánt a helyi ólombányászat maradványainak felfedezésére szánjuk; a régi aknák kemény munkáról és gazdag geológiáról mesélnek a látogatóknak.\n\nZárja gyalogos túráját azon a helyen, ahol az ősi római érméket felfedezték, elgondolkodva a lába alatt húzódó történelmi rétegeken, miközben leszáll az est.",
         "ro": "Începeți cu o dimineață relaxantă la locul de joacă local, absorbind atmosfera comunității înainte de a explora trecutul roman fascinant al orașului.\n\nLa apropierea prânzului, porniți într-o plimbare pitorească spre maiestuosul Graig Fawr, unde pietrele antice întâlnesc o topografie naturală uimitoare.\n\nDupă-amiaza este dedicată explorării rămășițelor industriei locale de minerit, descoperind puțuri vechi care spun povești despre munca grea a localnicilor.\n\nÎncheiați-vă plimbarea exact pe locul unde au fost descoperite monedele romane antice, reflectând la straturile de istorie de sub picioarele dumneavoastră la apus.",
         "en": "Start with a relaxed morning at the local play area, taking in the community vibe before delving into the town's deep past at the fascinating Roman site.\n\nAs lunchtime approaches, embark on a scenic stroll towards the majestic Graig Fawr, where ancient standing stones meet stunning natural topography.\n\nThe afternoon is dedicated to exploring the remnants of the local lead mining industry, discovering old shafts that tell tales of hard labor and rich geology.\n\nConclude your walking journey at the very spot where ancient Roman coins were discovered, reflecting on the layers of history beneath your feet as dusk settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch auf dem Spielplatz, wo Pfützen für Abwechslung sorgen; wasserfeste Schuhe sind hier ein Muss. Mittags führen die Wege zu den römischen Ruinen und dem Graig Fawr, wobei die Pfade rutschig sein können. Am Nachmittag erkunden wir die Bergbaugeschichte unter grauem Himmel, was den Ruinen eine mystische Aura verleiht. Abends endet die Tour im gemütlichen Stadtkern, während der Regen leise auf die Dächer prasselt.",
+            "hu": "Reggel a játszótéren a tócsák vidám perceket szerezhetnek, de a sár miatt elengedhetetlen a vízálló bakancs. Délben a római romok és a Graig Fawr sziklái felé vesszük az irányt, ahol az esőben csúszóssá válhat a talaj. Délután a bánya egykori aknái között a ködös idő különleges, ódon hangulatot áraszt. Este a városba visszaérve egy meleg tea mellett pihenhetjük ki a vizes, de élményekkel teli napot.",
+            "ro": "Dimineața începe vesel la locul de joacă, unde bălțile oferă distracție; încălțămintea impermeabilă este esențială aici. La prânz, drumul spre situl roman și Graig Fawr devine o aventură pe poteci ce pot fi alunecoase din cauza ploii. După-amiaza explorăm istoria minieră sub cerul gri, ceea ce oferă ruinelor o aură mistică. Seara se încheie în centrul orașului, în timp ce ploaia bate ușor în ferestrele primitoare.",
+            "en": "The morning starts fresh at the play area where puddles provide fun; waterproof boots are a must to keep feet dry. At noon, the path leads to the Roman site and Graig Fawr, where the tracks can become slippery under the rain. In the afternoon, we explore the mining history under grey skies, giving the ruins a mystical and ancient aura. The evening concludes in the cozy town center as the rain drums softly on the rooftops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "South Avenue Spielplatz",
+                "hu": "South Avenue Játszótér",
+                "ro": "Locul de joacă South Avenue",
+                "en": "South Avenue Play Area"
+              },
+              "tip_5lang": {
+                "de": "Die Kinder können in den Pfützen springen, während die Eltern unter den Bäumen Schutz suchen; Gummistiefel sind heute die beste Wahl.",
+                "hu": "A gyerekek élvezni fogják a pocsolyákat, miközben a szülők a fák alatt húzódhatnak meg; a gumicsizma ma a legpraktikusabb viselet.",
+                "ro": "Copiii se pot bucura de săritul în bălți în timp ce părinții se adăpostesc sub copaci; cizmele de cauciuc sunt cea mai bună alegere astăzi.",
+                "en": "Children can enjoy jumping in the puddles while parents seek shelter under the trees; rubber boots are definitely the best choice today."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Stätte Prestatyn",
+                "hu": "Prestatyni Római Lelőhely",
+                "ro": "Situl Roman Prestatyn",
+                "en": "Prestatyn Roman Site"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Fundamente, die im Regen glänzen, und achten Sie auf die nassen Steine, die sehr rutschig sein können.",
+                "hu": "Csodálja meg az esőben csillogó antik alapfalakat, de figyeljen a lába elé, mert a nedves kövek rendkívül csúszóssá válhatnak.",
+                "ro": "Admirați fundațiile antice care strălucesc în ploaie și aveți grijă la pietrele umede, deoarece pot deveni foarte alunecoase.",
+                "en": "Admire the ancient foundations glistening in the rain, but watch your step as the wet stones can become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Graig Fawr Stehender Stein",
+                "hu": "Graig Fawr Állókő",
+                "ro": "Piatra Verticală Graig Fawr",
+                "en": "Graig Fawr Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Dieser einsame Stein wirkt im Nebel besonders eindrucksvoll; halten Sie Ihren Regenschirm gut fest, da es hier windig sein kann.",
+                "hu": "Ez a magányos kő a ködben különösen lenyűgöző látványt nyújt; fogja szorosan az esernyőjét, mert ezen a ponton erős lehet a szél.",
+                "ro": "Această piatră solitară arată impresionant în ceață; țineți bine umbrela, deoarece vântul poate fi destul de puternic în acest loc.",
+                "en": "This solitary stone looks particularly impressive in the mist; hold your umbrella tightly as it can get quite windy at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleimine Talargoch - White Sand Vein Schacht",
+                "hu": "Talargoch Ólombánya - White Sand Vein Akna",
+                "ro": "Mina de Plumb Talargoch - Puțul White Sand Vein",
+                "en": "Talargoch Lead Mine - White Sand Vein Shaft"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Industriegeschichte und nutzen Sie die Infotafeln als kurzen Unterstand bei plötzlichen Regenschauern.",
+                "hu": "Fedezze fel az ipari múltat, és használja az információs táblákat rövid menedékként, ha hirtelen eleredne az intenzív eső.",
+                "ro": "Explorați istoria industrială și folosiți panourile informative ca scurt adăpost în cazul unor averse de ploaie bruște.",
+                "en": "Explore the industrial history and use the information boards as a brief shelter if a sudden heavy rain shower starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleimine Talargoch - Förderschacht",
+                "hu": "Talargoch Ólombánya - Főakna",
+                "ro": "Mina de Plumb Talargoch - Puțul Principal",
+                "en": "Talargoch Lead Mine - Drawing Shaft"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Strukturen des Schachts bieten einen dramatischen Anblick bei grauem Wetter; tragen Sie eine Regenjacke mit Kapuze.",
+                "hu": "Az akna robusztus szerkezete drámai látványt nyújt szürke időben; viseljen kapucnis esőkabátot a szél és a csapadék ellen.",
+                "ro": "Structurile masive ale puțului oferă o priveliște dramatică pe vreme gri; purtați o jachetă de ploaie cu glugă pentru protecție.",
+                "en": "The massive shaft structures offer a dramatic sight in grey weather; wear a hooded raincoat for protection against wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "1860 gefundene Römische Münzen",
+                "hu": "1860-ban talált Római Érmék",
+                "ro": "Monede Romane descoperite în 1860",
+                "en": "Roman Coins found A.D. 1860"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich vor, wie die Schätze hier im Schlamm verborgen lagen; ein heißes Getränk danach wärmt Sie nach der nassen Tour auf.",
+                "hu": "Képzelje el, hogyan rejtőztek itt a kincsek a sárban; a séta után egy forró ital segít felmelegedni a vizes kalandot követően.",
+                "ro": "Imaginați-vă cum au stat comorile ascunse aici în noroi; o băutură caldă după plimbare vă va încălzi după turul umed.",
+                "en": "Imagine how the treasures lay hidden here in the mud; a hot drink after the walk will warm you up after the wet adventure."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen lädt zu einem zügigen Spaziergang zum Spielplatz ein; warme Handschuhe sind jetzt unverzichtbar. Mittags wärmt die blasse Wintersonne die römischen Ruinen und den Graig Fawr, während der Blick über die kahle Landschaft schweift. Am Nachmittag taucht das frühe Dämmerlicht die alten Minenschächte in ein weiches Blau. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir einen frühen gemütlichen Ausklang im Warmen.",
+            "hu": "A fagyos reggel frissítő sétára hív a játszótérhez; a meleg kesztyű és sapka ilyenkor már elengedhetetlen kellék. Délben a halvány téli napsütés világítja meg a római romokat és a Graig Fawr köveit a kopár tájban. Délután a korai szürkület kékes fénybe vonja a régi bányát, különleges hangulatot árasztva. Mivel a nap már 17:00 körül nyugszik, érdemes korán befejezni a túrát és egy fűtött helyre húzódni.",
+            "ro": "O dimineață geroasă vă invită la o plimbare rapidă spre locul de joacă; mănușile groase sunt acum indispensabile. La prânz, soarele palid de iarnă luminează situl roman și Graig Fawr, oferind o priveliște clară asupra peisajului deschis. După-amiaza, lumina timpurie a amurgului scaldă vechile puțuri miniere într-un albastru pal. Deoarece soarele apune deja în jur de ora 17:00, planificăm o seară liniștită la căldură.",
+            "en": "A frosty morning invites a brisk walk to the play area; warm gloves and hats are now essential accessories. At noon, the pale winter sun illuminates the Roman site and Graig Fawr, offering clear views across the bare landscape. In the afternoon, the early twilight bathes the old mine shafts in a soft blue hue. As the sun sets around 17:00, we plan for an early, cozy conclusion to the day in a warm indoor setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "South Avenue Spielplatz",
+                "hu": "South Avenue Játszótér",
+                "ro": "Locul de joacă South Avenue",
+                "en": "South Avenue Play Area"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft macht die Kinder munter, aber achten Sie auf gefrorene Stellen auf den Klettergerüsten; warme Schichten sind wichtig.",
+                "hu": "A friss levegő élénkítő, de vigyázzon a mászókák fagyott felületeire; öltöztessék a gyerekeket rétegesen és melegen.",
+                "ro": "Aerul rece îi înviorează pe copii, dar atenție la porțiunile înghețate de pe echipamente; straturile calde de haine sunt vitale.",
+                "en": "The crisp air is invigorating, but watch out for frozen spots on the climbing frames; dress the children in warm, cozy layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Stätte Prestatyn",
+                "hu": "Prestatyni Római Lelőhely",
+                "ro": "Situl Roman Prestatyn",
+                "en": "Prestatyn Roman Site"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken im Winterfrost besonders markant; ein heißer Tee aus der Thermoskanne ist hier eine wohltuende Pause.",
+                "hu": "Az antik kövek a zúzmarás reggelen különösen látványosak; egy termoszban hozott forró tea sokat segít a hideg elleni védekezésben.",
+                "ro": "Pietrele antice par deosebit de marcante sub gerul iernii; un ceai fierbinte din termos este o pauză binevenită în acest loc.",
+                "en": "The ancient stones look particularly striking in the winter frost; a hot tea from a thermos provides a comforting break here."
+              }
+            },
+            {
+              "name": {
+                "de": "Graig Fawr Stehender Stein",
+                "hu": "Graig Fawr Állókő",
+                "ro": "Piatra Verticală Graig Fawr",
+                "en": "Graig Fawr Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Fernsicht, die an klaren Wintertagen besonders scharf ist, aber schützen Sie sich vor dem kalten Wind.",
+                "hu": "Élvezze a messzire nyúló panorámát, amely a tiszta téli napokon a legélesebb, de védekezzen a dombtetőn süvítő hideg szél ellen.",
+                "ro": "Bucurați-vă de panorama vastă, care este foarte clară în zilele senine de iarnă, dar protejați-vă de vântul rece de pe deal.",
+                "en": "Enjoy the far-reaching panorama, which is exceptionally sharp on clear winter days, but shield yourself from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleimine Talargoch - White Sand Vein Schacht",
+                "hu": "Talargoch Ólombánya - White Sand Vein Akna",
+                "ro": "Mina de Plumb Talargoch - Puțul White Sand Vein",
+                "en": "Talargoch Lead Mine - White Sand Vein Shaft"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Architektur wirkt im kahlen Winterlicht fast wie eine Skulptur; festes Schuhwerk schützt vor Bodenfrost.",
+                "hu": "Az ipari építmények a téli fényben szinte szoborszerűnek hatnak; a vastag talpú cipő megvédi lábát a talajmenti fagytól.",
+                "ro": "Arhitectura industrială arată aproape ca o sculptură în lumina rece a iernii; încălțămintea solidă protejează împotriva înghețului.",
+                "en": "The industrial architecture looks almost sculptural in the stark winter light; sturdy boots will protect your feet from ground frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleimine Talargoch - Förderschacht",
+                "hu": "Talargoch Ólombánya - Főakna",
+                "ro": "Mina de Plumb Talargoch - Puțul Principal",
+                "en": "Talargoch Lead Mine - Drawing Shaft"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Fotos von den Schatten, die die tiefstehende Wintersonne wirft, bevor es am späten Nachmittag spürbar kühler wird.",
+                "hu": "Készítsen fotókat az alacsonyan járó téli nap által vetett hosszú árnyékokról, mielőtt késő délután hirtelen lehűlne a levegő.",
+                "ro": "Faceți fotografii cu umbrele lungi lăsate de soarele de iarnă, înainte ca temperatura să scadă simțitor spre sfârșitul zilei.",
+                "en": "Capture photos of the long shadows cast by the low winter sun before the air turns noticeably colder in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "1860 gefundene Römische Münzen",
+                "hu": "1860-ban talált Római Érmék",
+                "ro": "Monede Romane descoperite în 1860",
+                "en": "Roman Coins found A.D. 1860"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne gegen 17:00 Uhr untergeht, ist dies der perfekte Ort, um den Tag zu beenden und dann schnell ins Warme zu gehen.",
+                "hu": "Mivel a nap 17:00 körül nyugszik, ez a tökéletes utolsó állomás, ahonnan gyorsan egy fűtött beltéri helyre vonulhat vissza.",
+                "ro": "Deoarece soarele apune în jur de ora 17:00, acesta este locul perfect pentru a încheia ziua și a merge rapid la căldură.",
+                "en": "Since the sun sets around 17:00, this is the perfect spot to conclude your walk before quickly heading to a warm indoor place."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros kalandját egy családbarát park közelében, mielőtt a tengerpartra tekerne egy vidám és könnyed minigolf partira a hullámok mellett.\n\nFolytassa útját a történelmi várdombokhoz, és tartson egy jól megérdemelt pihenőt a zöldellő növényzetben, mielőtt a szeles tengerparti utakra térne.\n\nTöltse a délutánt a klasszikus tengerparti szórakozóhelyeken, ahol a nosztalgia és a játéktermek fényei izgalmas kontrasztot nyújtanak a természetjárással szemben.\n\nZárja a napot egy egyenletes kapaszkodóval a történelmi nyaralóhoz, amely egy lenyűgöző panorámával jutalmazza fizikai erőfeszítéseit az alkonyati égbolt alatt.",
         "ro": "Începeți aventura pe bicicletă lângă un parc familial înainte de a pedala spre plajă pentru o rundă distractivă și relaxantă de minigolf pe malul mării.\n\nContinuați-vă călătoria spre movilele istorice ale castelului, luând o pauză binemeritată printre verdeață, înainte de a porni pe drumurile de coastă pitorești.\n\nPetreceți-vă după-amiaza bucurându-vă de distracțiile clasice de la malul mării, unde luminile de la arcade oferă un contrast palpitant față de natură.\n\nTerminați ziua cu o urcare constantă către casa de vară istorică, răsplătindu-vă efortul fizic cu vederi panoramice uimitoare sub cerul de la amurg.",
         "en": "Kick off your cycling adventure near a family-friendly park before pedaling over to the beach for a fun and lighthearted round of crazy golf by the sea.\n\nContinue your ride to the historic castle mounds, taking a well-deserved break amidst the greenery before hitting the scenic and breezy coastal shore roads.\n\nSpend your afternoon enjoying the classic seafront amusements, where a burst of nostalgia and arcade lights provides a thrilling contrast to the nature ride.\n\nFinish the day with a steady climb to the historic summer house, rewarding your physical effort with sweeping panoramic views under the painted twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Ffordd Idwal Spielplatz, wo wir auf nassen Asphalt achten; Schutzbleche sind heute sehr nützlich. Mittags erreichen wir Minigolf und die Burg, wobei wir bei Schauern in der Nähe der Mauern Deckung suchen. Nachmittags führt der Weg an der Küste entlang, wo uns der Wind den Regen entgegentreibt. Wir beenden die Tour bei den Seashore Amusements, die uns ein trockenes und unterhaltsames Finale bieten.",
+            "hu": "A biciklitúra a Ffordd Idwal játszótéren indul, ahol ügyelünk a vizes aszfaltra; a sárvédő ma nélkülözhetetlen tartozék. Délben a minigolf és a vár felé tekerünk, nagyobb zápor esetén a várfalak tövében keresve menedéket. Délután a tengerparti úton a szél és az eső teszi próbára kitartásunkat. A napot a Seashore játékteremben zárjuk, amely száraz és vidám befejezést kínál a vizes út végén.",
+            "ro": "Turul cu bicicleta începe la locul de joacă Ffordd Idwal, unde suntem atenți la asfaltul umed; apărătorile sunt foarte utile astăzi. La prânz ajungem la minigolf și castel, căutând adăpost lângă ziduri în timpul averselor. După-amiaza drumul continuă pe coastă, unde vântul ne împinge ploaia în față. Încheiem turul la Seashore Amusements, care ne oferă un final uscat și distractiv.",
+            "en": "The bike ride begins at Ffordd Idwal where we watch out for wet asphalt; mudguards are very useful on a day like today. At noon we reach the minigolf and castle, seeking shelter near the walls during heavier showers. In the afternoon the path follows the coast where the wind blows the rain against us. We finish the tour at Seashore Amusements, providing a dry and entertaining finale to the trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ffordd Idwal Spielplatz",
+                "hu": "Ffordd Idwal Játszótér",
+                "ro": "Locul de joacă Ffordd Idwal",
+                "en": "Ffordd Idwal Play Area"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Untergrund und tragen Sie eine wasserfeste Hose für eine angenehmere Fahrt.",
+                "hu": "Ellenőrizze a fékeket a vizes talajon, és viseljen vízálló nadrágot, hogy a tekerés kényelmes maradjon az esőben is.",
+                "ro": "Verificați frânele pe suprafața umedă și purtați pantaloni impermeabili pentru o călătorie mai confortabilă prin ploaie.",
+                "en": "Check your brakes on the wet surface and wear waterproof trousers to keep your ride comfortable despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Central Beach Minigolf",
+                "hu": "Central Beach Minigolf",
+                "ro": "Central Beach Minigolf",
+                "en": "Central Beach Crazy Golf"
+              },
+              "tip_5lang": {
+                "de": "Das Spiel auf dem nassen Grün ist eine Herausforderung; nutzen Sie die überdachten Bereiche für kurze Pausen zwischen den Bahnen.",
+                "hu": "A vizes pályán a játék igazi kihívás; használja a fedett részeket rövid pihenőkre a pályák teljesítése között.",
+                "ro": "Jocul pe terenul umed este o provocare; folosiți zonele acoperite pentru scurte pauze între găurile de minigolf.",
+                "en": "Playing on the wet green is a challenge; use the covered areas for short breaks between the minigolf holes."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Prestatyn",
+                "hu": "Prestatyn Vára",
+                "ro": "Castelul Prestatyn",
+                "en": "Prestatyn Castle"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den alten Bäumen oder Mauerresten, wenn der Regen stärker wird, und genießen Sie die kühle Luft.",
+                "hu": "Keressen menedéket az öreg fák vagy a falmaradványok alatt, ha erősödik az eső, és élvezze a vár ódon hangulatát.",
+                "ro": "Căutați adăpost sub copacii bătrâni sau resturile de zid dacă ploaia se intensifică și bucurați-vă de atmosfera veche.",
+                "en": "Seek shelter under the old trees or wall remains if the rain intensifies, and enjoy the ancient atmosphere of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Shore Road (Küstenstraße)",
+                "hu": "Shore Road (Parti út)",
+                "ro": "Shore Road (Drumul de coastă)",
+                "en": "Shore Road"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwind und Gischt vom Meer; eine gut sichtbare Regenjacke erhöht Ihre Sicherheit auf der Küstenstraße.",
+                "hu": "Vigyázzon az oldalszélre és a tenger felől érkező permetre; egy láthatósági esőkabát növeli a biztonságát a parti úton.",
+                "ro": "Atenție la vântul lateral și stropii de mare; o jachetă de ploaie reflectorizantă vă sporește siguranța pe drumul de coastă.",
+                "en": "Watch out for side winds and sea spray; a high-visibility raincoat increases your safety on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Seashore Vergnügungspark",
+                "hu": "Seashore Szórakozóhely",
+                "ro": "Parcul de Distracții Seashore",
+                "en": "Seashore Amusements"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um sich im Trockenen aufzuwärmen und die Spielautomaten zu genießen, während es draußen regnet.",
+                "hu": "Ez a tökéletes hely, hogy végre fedett helyen legyen és élvezze a játékgépeket, miközben kint tovább esik az eső.",
+                "ro": "Acesta este locul perfect pentru a vă încălzi la adăpost și a vă bucura de jocurile arcade în timp ce afară plouă.",
+                "en": "This is the perfect place to warm up indoors and enjoy the arcade games while it continues to rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St Elmo's Sommerhaus",
+                "hu": "St Elmo Nyaralója",
+                "ro": "Casa de Vară St Elmo",
+                "en": "St Elmo's Summer House"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und stellen Sie Ihr Fahrrad an einem geschützten Ort ab; die Aussicht ist auch bei Regen lohnenswert.",
+                "hu": "Zárja itt a túrát, és állítsa le a biciklit egy védett helyen; a kilátás az esőfüggönyön keresztül is lenyűgöző.",
+                "ro": "Încheiați turul aici și parcați bicicleta într-un loc protejat; priveliștea merită efortul chiar și prin perdeaua de ploaie.",
+                "en": "End your tour here and park your bike in a sheltered spot; the view is rewarding even through the veil of rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt am Ffordd Idwal Spielplatz; warme Handschuhe und eine winddichte Jacke sind beim Radfahren Pflicht. Mittags erkunden wir die Burg und das Minigolfgelände, wo die Luft klar und frisch ist. Nachmittags führt die Tour entlang der Shore Road, wobei der Wind vom Meer die gefühlte Temperatur sinken lässt. Da es gegen 17:00 Uhr dunkel wird, beenden wir den Tag gemütlich im Schutz der Amusements.",
+            "hu": "Hideg téli reggel indul a Ffordd Idwal játszótéren; a meleg kesztyű és szélálló dzseki alapfelszerelés a kerékpározáshoz. Délben a vár és a minigolf környékét járjuk be, ahol a levegő friss és tiszta. Délután a Shore Road mentén tekerünk, miközben a tengeri szél miatt hidegebbnek érezzük az időt. Mivel 17:00 körül sötétedik, a napot a játékterem melegében zárjuk.",
+            "ro": "O dimineață rece de iarnă începe la locul de joacă Ffordd Idwal; mănușile calde și o jachetă rezistentă la vânt sunt obligatorii pentru ciclism. La prânz explorăm castelul și zona de minigolf, unde aerul este clar și proaspăt. După-amiaza turul continuă pe Shore Road, vântul marin scăzând temperatura resimțită. Deoarece se întunecă în jur de ora 17:00, încheiem ziua la căldura jocurilor arcade.",
+            "en": "A cold winter morning begins at Ffordd Idwal; warm gloves and a windproof jacket are mandatory for cycling today. At noon we explore the castle and minigolf area where the air is crisp and fresh. In the afternoon the tour follows Shore Road, with the sea breeze making it feel much colder. As it gets dark around 17:00, we finish the day comfortably in the shelter of the amusements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ffordd Idwal Spielplatz",
+                "hu": "Ffordd Idwal Játszótér",
+                "ro": "Locul de joacă Ffordd Idwal",
+                "en": "Ffordd Idwal Play Area"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf den Wegen und tragen Sie Thermokleidung, um beim Fahren nicht auszukühlen.",
+                "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra az utakon, és viseljen termaruházatot, hogy ne fázzon meg a menetszélben.",
+                "ro": "Atenție la porțiunile cu polei pe drum și purtați haine termice pentru a nu răci din cauza vântului în timp ce pedalați.",
+                "en": "Watch out for frosty, slippery sections on the paths and wear thermal clothing to keep warm against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Central Beach Minigolf",
+                "hu": "Central Beach Minigolf",
+                "ro": "Central Beach Minigolf",
+                "en": "Central Beach Crazy Golf"
+              },
+              "tip_5lang": {
+                "de": "Das Minigolfen im Winter ist eine ruhige Erfahrung; bewegen Sie sich viel, um warm zu bleiben, während Sie auf Ihren Zug warten.",
+                "hu": "A téli minigolf csendes élmény; mozogjon sokat a pályák között, hogy fenntartsa testhőjét, amíg a sorára vár.",
+                "ro": "Minigolful iarna este o experiență liniștită; mișcați-vă mult între găuri pentru a vă menține căldura corporală.",
+                "en": "Minigolfing in winter is a quiet experience; keep moving between the holes to maintain your body heat while waiting for your turn."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Prestatyn",
+                "hu": "Prestatyn Vára",
+                "ro": "Castelul Prestatyn",
+                "en": "Prestatyn Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Winterlicht besonders fotogen; halten Sie Ihre Hände mit Taschenwärmern warm, wenn Sie Fotos machen.",
+                "hu": "A várrom téli fényben különösen fotogén; használjon zsebmelegítőt, hogy a keze ne fagyjon meg fotózás közben.",
+                "ro": "Ruinele castelului sunt foarte fotogenice în lumina iernii; folosiți încălzitoare de buzunar pentru a nu vă îngheța mâinile.",
+                "en": "The castle ruins are very photogenic in the winter light; use pocket warmers to keep your hands warm while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Shore Road (Küstenstraße)",
+                "hu": "Shore Road (Parti út)",
+                "ro": "Shore Road (Drumul de coastă)",
+                "en": "Shore Road"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Küste kann im Winter sehr schneidend sein; ein Schlauchschal schützt Gesicht und Hals vor der Kälte.",
+                "hu": "A tengerparti szél télen nagyon metsző lehet; egy csősál kiválóan védi az arcot és a nyakat a hideg fuvallatoktól.",
+                "ro": "Vântul de pe coastă poate fi foarte tăios iarna; un fular circular vă va proteja eficient fața și gâtul de frig.",
+                "en": "The coastal wind can be very biting in winter; a neck warmer or buff is excellent for protecting your face and neck."
+              }
+            },
+            {
+              "name": {
+                "de": "Seashore Vergnügungspark",
+                "hu": "Seashore Szórakozóhely",
+                "ro": "Parcul de Distracții Seashore",
+                "en": "Seashore Amusements"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizte Atmosphäre der Amusements und nutzen Sie die Pause, um Ihre Glieder nach der Fahrt aufzuwärmen.",
+                "hu": "Élvezze a játékterem fűtött légkörét, és használja ki a pihenőt, hogy alaposan átmelegedjen a hosszú tekerés után.",
+                "ro": "Bucurați-vă de atmosfera încălzită a parcului de distracții și profitați de pauză pentru a vă dezmorți după drum.",
+                "en": "Enjoy the heated atmosphere of the amusements and use the break to warm up your limbs after the long bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "St Elmo's Sommerhaus",
+                "hu": "St Elmo Nyaralója",
+                "ro": "Casa de Vară St Elmo",
+                "en": "St Elmo's Summer House"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung für den Rückweg voll funktionsfähig ist.",
+                "hu": "Mivel 17:00 körül már sötétedik, győződjön meg róla, hogy a kerékpár lámpái megfelelően működnek a hazaúthoz.",
+                "ro": "Deoarece se întunecă în jur de ora 17:00, asigurați-vă că luminile bicicletei funcționează corect pentru drumul de întoarcere.",
+                "en": "Since it gets dark around 17:00, make sure your bike lights are fully functional for the journey back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját a külvárosi nyugodt természetes tavak felfedezésével, amelyek békés tükröződést és csendes indulást kínálnak a sűrű városnéző naphoz.\n\nNavigáljon a magasan fekvő történelmi nyaraló és a régi normann várdombok felé, elmerülve a lankás dombok gazdag építészeti örökségében és történelmében.\n\nA délutáni autózás az lenyűgöző ősi állókőhöz visz; ez egy gyors út menti történelmi csoda, amely közvetlenül a történelem előtti időkbe repíti a látogatót.\n\nFejezze be utazását a régió történelmi bányaaknáinál, megfigyelve az ipar relikviáit, miközben a lemenő nap hosszú, drámai árnyékokat vet a romokra.",
         "ro": "Începeți turul cu mașina explorând iazurile naturale liniștite de la periferie, care oferă reflexii pașnice și un început calm pentru o zi plină de vizite.\n\nNavigați către casa de vară istorică înaltă și movilele vechiului castel normand, scufundându-vă în bogatul patrimoniu arhitectural al dealurilor unduitoare.\n\nDrumul de după-amiază vă duce la impresionanta piatră străveche, o minune istorică rapidă de pe marginea drumului, care vă conectează cu timpurile preistorice.\n\nÎncheiați-vă călătoria la puțurile miniere istorice ale regiunii, observând relicvele industriei în timp ce soarele apune și aruncă umbre lungi peste ruine.",
         "en": "Start your driving tour exploring the tranquil natural ponds on the outskirts, offering peaceful reflections and a quiet start to a busy day of sightseeing.\n\nNavigate towards the elevated historic summer house and the old Norman castle mounds, immersing yourself in the rich architectural heritage of the rolling hills.\n\nThe afternoon drive takes you to the impressive ancient standing stone, a quick roadside historical marvel that connects you directly to prehistoric times.\n\nWrap up your journey at the region's historic mining shafts, observing the relics of industry as the setting sun casts long, dramatic shadows over the ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Autotour an den Teichen, während der Regen auf das Autodach trommelt; die Sicht kann eingeschränkt sein. Mittags besuchen wir St. Elmo's und die Burg, wobei wir die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten schätzen. Nachmittags geht es zum Graig Fawr und der Bleimine, wo wir die dramatische Wolkenstimmung aus dem trockenen Fahrzeug beobachten. Wir lassen den Tag entspannt ausklingen und genießen die Fahrt durch die regnerische Landschaft.",
+            "hu": "Autós túránkat a tavaknál kezdjük, miközben az eső kopog a tetőn; a látási viszonyok korlátozottak lehetnek. Délben a St Elmo nyaralót és a várat keressük fel, kihasználva a parkolók közelségét a látnivalókhoz. Délután a Graig Fawr és a bánya felé vesszük az irányt, a száraz autóból figyelve a drámai felhőket. A napot kényelmesen zárjuk, élvezve az esős táj látványát a biztonságos utastérből.",
+            "ro": "Începem turul cu mașina la iazuri, în timp ce ploaia bate în parbriz; vizibilitatea poate fi redusă, deci conduceți prudent. La prânz vizităm St Elmo și castelul, apreciind distanțele scurte de la parcare la obiective. După-amiaza mergem spre Graig Fawr și mină, observând norii dramatici din interiorul vehiculului uscat. Încheiem ziua relaxați, bucurându-ne de peisajul ploios din confortul mașinii.",
+            "en": "We start our car tour at the ponds while the rain drums on the roof; visibility might be limited, so drive carefully. At noon we visit St Elmo's and the castle, appreciating the short walking distances from the car parks. In the afternoon we head to Graig Fawr and the mine, observing the dramatic sky from the dry vehicle. We finish the day in a relaxed way, enjoying the rainy scenery from the comfort of our car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pentre Ffynnon Teich",
+                "hu": "Pentre Ffynnon Tó",
+                "ro": "Iazul Pentre Ffynnon",
+                "en": "Pentre Ffynnon Pond"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Wasseroberfläche bequem vom Parkplatz aus und nutzen Sie einen Regenschirm für kurze Wege.",
+                "hu": "Figyelje a vízen táncoló esőcseppeket kényelmesen a parkolóból, és csak rövid időre szálljon ki egy esernyővel a tó partjára.",
+                "ro": "Observați picăturile de ploaie pe suprafața apei din parcare și folosiți o umbrelă pentru scurte plimbări lângă iaz.",
+                "en": "Watch the raindrops dancing on the water surface from the car park and use an umbrella for short strolls by the pond."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischteich",
+                "hu": "Halastó",
+                "ro": "Iazul cu Pești",
+                "en": "Fish Pond"
+              },
+              "tip_5lang": {
+                "de": "Die Teiche wirken im Regen besonders friedlich; halten Sie ein Handtuch im Auto bereit, falls Sie beim Aussteigen nass werden.",
+                "hu": "A tavak esőben kifejezetten békések; tartson egy törölközőt az autóban, hogy megszárítkozhasson, ha elázna kiszálláskor.",
+                "ro": "Iazurile sunt foarte liniștite pe ploaie; păstrați un prosop în mașină pentru a vă șterge dacă vă udați la coborâre.",
+                "en": "The ponds are very peaceful in the rain; keep a towel in the car to dry off if you get wet while getting out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "St Elmo's Sommerhaus",
+                "hu": "St Elmo Nyaralója",
+                "ro": "Casa de Vară St Elmo",
+                "en": "St Elmo's Summer House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Auto, während der Regen die Landschaft in weiche Farben taucht; die Anfahrt ist unkompliziert.",
+                "hu": "Élvezze a panorámát az autóból, miközben az eső lágy színekbe vonja a tájat; az odavezető út aszfaltozott és biztonságos.",
+                "ro": "Bucurați-vă de panoramă din mașină în timp ce ploaia spală peisajul; drumul de acces este asfaltat și sigur chiar și pe ploaie.",
+                "en": "Enjoy the panoramic view from the car as the rain bathes the landscape in soft colors; the access road is paved and safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Prestatyn",
+                "hu": "Prestatyn Vára",
+                "ro": "Castelul Prestatyn",
+                "en": "Prestatyn Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um die Ruinen zu besichtigen, ohne im starken Regen zu lange ungeschützt zu sein.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy megtekinthesse a romokat anélkül, hogy túl sokat ázna az intenzív esőben.",
+                "ro": "Parcați cât mai aproape de intrare pentru a vedea ruinele fără a sta prea mult în ploaie fără protecție adecvată.",
+                "en": "Park as close to the entrance as possible to see the ruins without spending too much time unprotected in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Graig Fawr Stehender Stein",
+                "hu": "Graig Fawr Állókő",
+                "ro": "Piatra Verticală Graig Fawr",
+                "en": "Prestatyn Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg zum Stein auf Pfützen und schlammige Stellen; feste Wanderschuhe sind hier im Regen sehr ratsam.",
+                "hu": "A kőhöz vezető rövid úton figyeljen a tócsákra és a sárra; a vastag talpú túracipő ajánlott a csúszós talaj miatt.",
+                "ro": "Atenție la bălți și noroi pe drumul scurt spre piatră; încălțămintea de munte este recomandată din cauza solului alunecos.",
+                "en": "Watch out for puddles and mud on the short path to the stone; sturdy hiking boots are recommended due to the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleimine Talargoch - Förderschacht",
+                "hu": "Talargoch Ólombánya - Főakna",
+                "ro": "Mina de Plumb Talargoch - Puțul Principal",
+                "en": "Talargoch Lead Mine - Drawing Shaft"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Kulisse wirkt bei Regen besonders authentisch; nutzen Sie die Sitzheizung auf dem Rückweg für mehr Komfort.",
+                "hu": "Az ipari helyszín esőben kifejezetten hitelesnek tűnik; a hazaúton használja az ülésfűtést a maximális kényelem érdekében.",
+                "ro": "Cadrul industrial pare foarte autentic pe ploaie; la întoarcere, folosiți încălzirea în scaune pentru un plus de confort.",
+                "en": "The industrial setting looks very authentic in the rain; use the seat heating on the way back for maximum comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Fahrt zu den Teichen, deren Ufer oft von Frost überzogen sind; achten Sie auf glatte Straßen. Mittags erkunden wir die historischen Stätten in der klaren Winterluft, bevor wir uns im geheizten Auto wieder aufwärmen. Nachmittags besuchen wir die Bleimine, während die tiefstehende Sonne lange Schatten wirft. Da es bereits gegen 17:00 Uhr dunkel wird, genießen wir das frühe Abendlicht auf der Heimfahrt.",
+            "hu": "A téli reggel a tavakhoz vezet, ahol a partokat gyakran zúzmara borítja; vezessen óvatosan a jeges szakaszokon. Délben a történelmi helyszíneket járjuk be a friss levegőn, majd a fűtött autóban melegszünk fel újra. Délután a bányát keressük fel, miközben az alacsonyan járó nap hosszú árnyékokat vet. Mivel 17:00 körül már sötétedik, a hazaúton az alkonyi fényekben gyönyörködhetünk.",
+            "ro": "Dimineața de iarnă începe cu o vizită la iazuri, ale căror maluri sunt adesea acoperite de chiciură; atenție la drumurile înghețate. La prânz explorăm siturile istorice în aerul curat, înainte de a ne încălzi în mașină. După-amiaza mergem la mină, în timp ce soarele jos aruncă umbre lungi și spectaculoase. Deoarece se întunecă deja la ora 17:00, ne bucurăm de lumina amurgului pe drumul spre casă.",
+            "en": "The winter morning starts with a drive to the ponds where the banks are often covered in frost; watch out for icy patches on the roads. At noon we explore the historical sites in the crisp air before warming up again in the heated car. In the afternoon we visit the mine while the low sun casts long, spectacular shadows. Since it gets dark by 17:00, we enjoy the twilight colors on the drive back home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pentre Ffynnon Teich",
+                "hu": "Pentre Ffynnon Tó",
+                "ro": "Iazul Pentre Ffynnon",
+                "en": "Pentre Ffynnon Pond"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dünnes Eis auf der Wasseroberfläche; die winterliche Stille am Teich ist vom Auto aus wunderbar zu genießen.",
+                "hu": "Figyeljen a víz felszínén kialakuló vékony jégrétegre; a tó téli csendje az autóból is csodálatos élményt nyújt.",
+                "ro": "Atenție la stratul subțire de gheață de pe apă; liniștea de iarnă de la iaz poate fi savurată excelent din interiorul mașinii.",
+                "en": "Watch for thin ice on the water surface; the winter silence at the pond can be enjoyed wonderfully from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischteich",
+                "hu": "Halastó",
+                "ro": "Iazul cu Pești",
+                "en": "Fish Pond"
+              },
+              "tip_5lang": {
+                "de": "Der Teich wirkt im Winterfrost wie verzaubert; stellen Sie die Fahrzeugheizung so ein, dass die Scheiben nicht beschlagen.",
+                "hu": "A tó a téli fagyban elvarázsoltnak tűnik; állítsa be úgy az autó fűtését, hogy a szélvédők ne párásodjanak be nézelődés közben.",
+                "ro": "Iazul pare vrăjit sub gerul iernii; reglați încălzirea mașinii astfel încât geamurile să nu se aburească în timp ce admirați peisajul.",
+                "en": "The pond looks enchanted in the winter frost; adjust the car heater so the windows don't fog up while you enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "St Elmo's Sommerhaus",
+                "hu": "St Elmo Nyaralója",
+                "ro": "Casa de Vară St Elmo",
+                "en": "St Elmo's Summer House"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Küste ist an klaren Wintertagen phänomenal; tragen Sie eine warme Jacke für einen kurzen Fotostopp im Freien.",
+                "hu": "A tengerparti kilátás a tiszta téli napokon fenomenális; viseljen meleg kabátot, ha kiszáll egy rövid fotózás erejéig a szabadba.",
+                "ro": "Priveliștea spre coastă este fenomenală în zilele senine; purtați o jachetă groasă pentru o scurtă oprire foto în aer liber.",
+                "en": "The coastal view is phenomenal on clear winter days; wear a warm jacket for a short photo stop outside in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Prestatyn",
+                "hu": "Prestatyn Vára",
+                "ro": "Castelul Prestatyn",
+                "en": "Prestatyn Castle"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Burgruine zügig und nutzen Sie die Wärme Ihres Autos für die Fahrt zum nächsten historischen Punkt.",
+                "hu": "Tekintse meg gyorsan a várromokat a hidegben, majd használja ki az autó melegét a következő történelmi állomásig tartó úton.",
+                "ro": "Vizitați rapid ruinele castelului în frig, apoi profitați de căldura mașinii până la următorul punct istoric de pe traseu.",
+                "en": "Quickly tour the castle ruins in the cold, then take advantage of the car's warmth on the way to the next historical stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Graig Fawr Stehender Stein",
+                "hu": "Graig Fawr Állókő",
+                "ro": "Piatra Verticală Graig Fawr",
+                "en": "Graig Fawr Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig auf eventuell gefrorenem Untergrund und genießen Sie die klare Luft an diesem exponierten Aussichtspunkt.",
+                "hu": "Parkoljon óvatosan az esetlegesen jeges talajon, és élvezze a tiszta, friss levegőt ezen a nyitott, panorámás ponton.",
+                "ro": "Parcați cu atenție pe solul eventual înghețat și bucurați-vă de aerul curat în acest punct panoramic expus vântului.",
+                "en": "Park carefully on potentially frozen ground and enjoy the clear, crisp air at this open panoramic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleimine Talargoch - Förderschacht",
+                "hu": "Talargoch Ólombánya - Főakna",
+                "ro": "Mina de Plumb Talargoch - Puțul Principal",
+                "en": "Talargoch Lead Mine - Drawing Shaft"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, bevor die Dunkelheit gegen 17:00 Uhr hereinbricht, und genießen Sie die beleuchteten Instrumente Ihres Wagens.",
+                "hu": "Fejezze be itt a napot, mielőtt 17:00 körül besötétedne, és élvezze az autó műszerfalának fényeit a hangulatos hazaúton.",
+                "ro": "Încheiați ziua aici înainte de lăsarea întunericului la ora 17:00 și bucurați-vă de luminile bordului pe drumul spre casă.",
+                "en": "Finish your day here before darkness falls at 17:00 and enjoy the dashboard lights on the cozy drive back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

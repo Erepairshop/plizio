@@ -160,6 +160,196 @@
         "hu": "A reggel a tágas Spianada téren indul, mielőtt bevenné az Öreg Erőd bástyáit. A délidő a Szent Mihály és Szent György Palota felfedezésével telik, melyet a Szent Szpiridon templom békéje követ. Délután megcsodálhatja a San Giacomo Városháza elegáns épületét. A nap az Új Erőd hatalmas falairól nyíló lenyűgöző naplemente-kilátással zárul.",
         "ro": "Dimineața începe în Piața Spianada, înainte de a explora meterezele Vechii Fortărețe. La prânz vizitați Palatul Sf. Mihail și Sf. Gheorghe, urmat de liniștea spirituală a Bisericii Sf. Spiridon. După-amiaza admirați eleganta Primărie San Giacomo. Ziua se încheie cu un apus de soare spectaculos văzut de pe zidurile înalte ale Noii Fortărețe.",
         "en": "Morning begins at the expansive Spianada Square, soaking in the vibrant atmosphere before conquering the ramparts of the Old Fortress. Midday brings you to the grand Palace of St. Michael and St. George, followed by the spiritual peace of Saint Spyridon Church. In the afternoon, admire the elegant San Giacomo Town Hall. The day concludes with sunset views from the towering walls of the New Fortress."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Liston perfekten Schutz vor den ersten Schauern, während man den Blick über die Spianada schweifen lässt. Mittags erkunden wir die Alte Festung und den Palast, wobei die prächtigen Innenräume trockene Zuflucht bieten. Nachmittags führen uns die engen Gassen zur Kirche und zum Rathaus. Abends genießen wir die Aussicht von der Neuen Festung im mystischen Dunst des Regens.",
+            "hu": "Reggel a Liston árkádjai nyújtanak menedéket az eső elől, ahonnan remek kilátás nyílik a ködös Spianada térre. Délben az Öreg Erőd és a Palota belső terei kínálnak száraz kikapcsolódást. Délután a sikátorokon át érjük el a templomot és a Városházát, ügyelve a csúszós kövekre. Az este az Új Erőd falai között ér minket, ahol az esőfüggöny mögött feltűnnek a város fényei.",
+            "ro": "Dimineața, arcadele Liston oferă adăpost perfect împotriva ploii, în timp ce admirați Piața Spianada învăluită în ceață. La prânz, Vechea Fortăreață și Palatul oferă refugiu în spații interioare impresionante. După-amiaza, străzile înguste ne conduc spre biserică și primărie, pe pavajul lucios. Seara se încheie la Noua Fortăreață, unde ploaia oferă o perspectivă mistică asupra orașului.",
+            "en": "In the morning, the Liston arcades provide perfect shelter from the rain while overlooking the misty Spianada Square. At noon, the Old Fortress and the Palace offer grand indoor escapes from the wet weather. Afternoon strolls lead to the church and Town Hall through glistening alleys. The day ends at the New Fortress, where the rain adds a mystical atmosphere to the city skyline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spianada-Platz",
+                "hu": "Spianada tér",
+                "ro": "Piața Spianada",
+                "en": "Spianada Square"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Liston als trockenen Korridor, um die Architektur zu bewundern; der offene Platz ist bei starkem Regen sehr windanfällig.",
+                "hu": "Használja a Liston árkádjait száraz folyosóként a tér megcsodálásához; a nyílt terület heves esőben rendkívül szeles, így keressen fedett menedéket.",
+                "ro": "Folosiți arcadele Liston ca un coridor uscat pentru a admira arhitectura; piața deschisă este foarte expusă vântului în timpul ploilor abundente.",
+                "en": "Use the Liston arcades as a dry corridor to admire the surrounding architecture; the open square becomes very windy and exposed during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Festung",
+                "hu": "Öreg Erőd",
+                "ro": "Vechea Fortăreață",
+                "en": "Old Fortress"
+              },
+              "tip_5lang": {
+                "de": "Die steinernen Stufen zum Leuchtturm sind extrem rutschig; besuchen Sie stattdessen die geschützten Kasematten und die Kapelle im Inneren der Anlage.",
+                "hu": "A világítótoronyhoz vezető kőlépcsők rendkívül csúszósak; látogasson el inkább a védett kazamatákba és a belső kápolnába a szárazabb élményért.",
+                "ro": "Treptele de piatră spre far sunt extrem de alunecoase; vizitați în schimb cazărmile protejate și capela din interiorul complexului pentru a sta la uscat.",
+                "en": "The stone steps to the lighthouse are extremely slippery; visit the protected casemates and the inner chapel instead to stay dry during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast von St. Michael und St. George",
+                "hu": "Szent Mihály és Szent György Palota",
+                "ro": "Palatul Sf. Mihail și Sf. Gheorghe",
+                "en": "Palace of St. Michael and St. George"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für einen längeren Aufenthalt bei Regen; die asiatische Kunstsammlung bietet stundenlange kulturelle Unterhaltung im Trockenen.",
+                "hu": "Ez a tökéletes hely egy hosszabb esőnapra; az ázsiai művészeti gyűjtemény órákig tartó kulturális élményt nyújt a fedett, fűtött termek falai között.",
+                "ro": "Acesta este locul perfect pentru o oprire lungă pe timp de ploaie; colecția de artă asiatică oferă ore de divertisment cultural într-un mediu uscat.",
+                "en": "This is the perfect spot for a long stay during rain; the Asian Art collection offers hours of cultural exploration in a grand, sheltered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Spyridon",
+                "hu": "Szent Szpiridon templom",
+                "ro": "Biserica Sf. Spiridon",
+                "en": "Saint Spyridon Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern dämpfen das Geräusch des Regens; bewundern Sie die prachtvolle Decke, während Sie auf das Abklingen des Schauers im Inneren warten.",
+                "hu": "A vastag falak elnyelik az eső zaját; csodálja meg a pompás mennyezetet, miközben bent várja meg a zápor végét a meghitt, csendes környezetben.",
+                "ro": "Pereții groși atenuează sunetul ploii; admirați tavanul superb în timp ce așteptați ca aversa să treacă în interiorul liniștit al bisericii.",
+                "en": "The thick walls muffle the sound of the rain; admire the magnificent ceiling while waiting for the shower to pass in the peaceful interior sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus (San Giacomo)",
+                "hu": "Városháza (San Giacomo)",
+                "ro": "Primăria (San Giacomo)",
+                "en": "Town Hall (San Giacomo)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die barocke Fassade von einem der umliegenden Cafés aus; der gepflasterte Platz davor kann bei Regen tiefe Pfützen bilden.",
+                "hu": "Csodálja meg a barokk homlokzatot a szomszédos kávézók védelméből; a városháza előtti kövezett téren esőben mély tócsák alakulhatnak ki.",
+                "ro": "Admirați fațada barocă din interiorul cafenelelor din apropiere; piața pavată din față poate forma bălți adânci în timpul ploilor torențiale.",
+                "en": "Admire the baroque facade from the shelter of nearby cafes; the paved square in front can form deep puddles, so watch your step on the wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Neue Festung",
+                "hu": "Új Erőd",
+                "ro": "Noua Fortăreață",
+                "en": "New Fortress"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den nebligen Hafen ist sehr atmosphärisch; tragen Sie wasserfeste Schuhe für die nassen Rampen und Gänge der Befestigungsanlage.",
+                "hu": "A ködös kikötő látványa rendkívül hangulatos; viseljen vízálló cipőt az erődrendszer vizes rámpáihoz és sötét, nyirkos folyosóihoz az út során.",
+                "ro": "Vedere asupra portului cețos este foarte atmosferică; purtați încălțăminte impermeabilă pentru rampele și pasajele umede ale fortificației.",
+                "en": "The view of the misty harbor is very atmospheric; wear waterproof shoes for the wet ramps and passages of the fortification system during your visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Korfu ist frisch und ruhig, ideal für einen einsamen Spaziergang über die Spianada. Mittags laden die historischen Festungen und Paläste ein, die Geschichte ohne die Sommerhitze zu erleben. Nachmittags besuchen wir die religiösen und zivilen Zentren der Altstadt. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Tag früh in der gemütlichen Atmosphäre der beleuchteten Gassen.",
+            "hu": "A téli reggel Korfun friss és nyugodt, ideális egy magányos sétára a Spianada téren. Délben a történelmi erődök és a Palota várnak, ahol a nyári hőség nélkül fedezhetjük fel a múltat. Délután a város vallási és közigazgatási központját járjuk be. Mivel a nap már 17:00 körül lemegy, a nap korán ér véget a kivilágított sikátorok meghitt, hűvös hangulatában.",
+            "ro": "Dimineața de iarnă în Corfu este proaspătă și liniștită, ideală pentru o plimbare solitară prin Spianada. La prânz, fortărețele și palatele istorice vă permit să explorați fără căldura verii. După-amiaza vizităm centrele religioase și administrative. Deoarece soarele apune în jurul orei 17:00, ziua se încheie devreme în atmosfera primitoare a străzilor luminate.",
+            "en": "A winter morning in Corfu is crisp and quiet, perfect for a solitary stroll across Spianada. At noon, the historic fortresses and palaces allow for exploration without the summer heat. Afternoon visits focus on the old town's religious and civic heart. As the sun sets around 17:00, the day concludes early in the cozy, illuminated atmosphere of the narrow streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spianada-Platz",
+                "hu": "Spianada tér",
+                "ro": "Piața Spianada",
+                "en": "Spianada Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die Abwesenheit von Touristenströmen; die tiefstehende Sonne bietet fantastisches Licht für Fotos der Architektur.",
+                "hu": "Élvezze a tiszta téli levegőt és a turisták hiányát; az alacsonyan járó nap fantasztikus fényeket biztosít az építészeti fotók készítéséhez.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de absența mulțimilor; soarele jos oferă o lumină fantastică pentru fotografii ale clădirilor neoclasice.",
+                "en": "Enjoy the crisp winter air and the lack of tourist crowds; the low sun provides fantastic lighting for architectural photos of the grand buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Festung",
+                "hu": "Öreg Erőd",
+                "ro": "Vechea Fortăreață",
+                "en": "Old Fortress"
+              },
+              "tip_5lang": {
+                "de": "Es kann oben sehr windig und kühl sein; tragen Sie winddichte Kleidung, um den weiten Blick über die schneebedeckten albanischen Berge zu genießen.",
+                "hu": "A csúcson nagyon szeles és hűvös lehet az idő; viseljen szélálló ruhát, hogy megcsodálhassa a távoli, havas albán hegyekre nyíló tiszta panorámát.",
+                "ro": "Poate fi foarte vântos și răcoare sus; purtați haine rezistente la vânt pentru a admira panorama munților albanezi acoperiți de zăpadă în depărtare.",
+                "en": "It can be very windy and chilly at the summit; wear windproof layers to enjoy the clear views of the distant snow-capped Albanian mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast von St. Michael und St. George",
+                "hu": "Szent Mihály és Szent György Palota",
+                "ro": "Palatul Sf. Mihail și Sf. Gheorghe",
+                "en": "Palace of St. Michael and St. George"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Innenräume erfordern eine warme Jacke; nutzen Sie die kurzen Warteschlangen im Winter für eine ausführliche und entspannte Besichtigung.",
+                "hu": "A hűvös belső termekhez meleg kabát szükséges; használja ki a téli rövid sorokat egy alapos és kényelmes tárlatvezetésre a múzeumban.",
+                "ro": "Interiorul răcoros necesită o jachetă caldă; profitați de cozile scurte din timpul iernii pentru o vizită detaliată și relaxată a muzeului.",
+                "en": "The cool interiors require a warm coat; take advantage of the short winter queues for a detailed and relaxed tour of the Asian art collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Spyridon",
+                "hu": "Szent Szpiridon templom",
+                "ro": "Biserica Sf. Spiridon",
+                "en": "Saint Spyridon Church"
+              },
+              "tip_5lang": {
+                "de": "Die brennenden Kerzen verbreiten eine behagliche Wärme; dies ist ein idealer Rückzugsort, um die religiöse Atmosphäre in aller Stille zu erleben.",
+                "hu": "Az égő gyertyák meghitt meleget árasztanak; ez egy ideális helyszín, hogy csendben, a tömeg nélkül élje át a templom vallási hangulatát.",
+                "ro": "Lumânările aprinse emană o căldură primitoare; acesta este un refugiu ideal pentru a experimenta atmosfera religioasă în liniște deplină.",
+                "en": "The burning candles provide a welcoming warmth; this is an ideal spot to experience the religious atmosphere in total silence and peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus (San Giacomo)",
+                "hu": "Városháza (San Giacomo)",
+                "ro": "Primăria (San Giacomo)",
+                "en": "Town Hall (San Giacomo)"
+              },
+              "tip_5lang": {
+                "de": "Der kleine Platz wirkt im Winterlicht besonders edel; planen Sie den Besuch vor der frühen Dämmerung ein, um die Details der Fassade zu sehen.",
+                "hu": "A kis tér a téli fényben különösen elegáns; tervezze a látogatást a korai sötétedés elé, hogy láthassa a homlokzat finom barokk részleteit.",
+                "ro": "Mica piață pare deosebit de elegantă în lumina iernii; planificați vizita înainte de amurgul timpuriu pentru a vedea detaliile fațadei.",
+                "en": "The small square looks especially elegant in the winter light; plan your visit before the early dusk to see the intricate facade details."
+              }
+            },
+            {
+              "name": {
+                "de": "Neue Festung",
+                "hu": "Új Erőd",
+                "ro": "Noua Fortăreață",
+                "en": "New Fortress"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch hier vor 17:00 Uhr, um den Sonnenuntergang über der Stadt zu sehen, bevor es empfindlich kühl und dunkel wird.",
+                "hu": "Fejezze be a látogatást 17:00 előtt, hogy láthassa a város feletti naplementét, mielőtt érezhetően lehűlne az idő és leszállna az éj.",
+                "ro": "Încheiați vizita înainte de ora 17:00 pentru a vedea apusul peste oraș, înainte ca temperatura să scadă semnificativ odată cu întunericul.",
+                "en": "Finish your visit before 17:00 to catch the sunset over the city before the air turns significantly colder and darkness falls quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a napot az Új Erődhöz való feltekeréssel a pazar kilátásért. Délben a történelmi utcákon a Szent Szpiridon templomhoz és a Spianada térhez gurul. Ebéd után az ősi mítoszokat kutatva a Régészeti Múzeum felé veszi az irányt. A délután egy festői utat kínál a buja Mon Repos birtokhoz, amit végül az Artemisz-templom romjai zárnak.",
         "ro": "Începeți ziua pedalând către Noua Fortăreață pentru o priveliște matinală deosebită. La prânz treceți pe la Biserica Sf. Spiridon și Piața Spianada. După prânz mergeți cu bicicleta spre Muzeul Arheologic pentru a explora mituri antice. După-amiaza oferă o plimbare pitorească spre domeniul Mon Repos, finalizând ziua la ruinele Templului lui Artemis.",
         "en": "Kick off the day cycling up to the New Fortress for commanding morning views. Midday glides through the historic lanes to Saint Spyridon Church and Spianada Square. After lunch, ride down to the Archaeological Museum to delve into ancient myths. The afternoon offers a scenic pedal to the lush Mon Repos Estate, finishing the day with the quiet, evocative ruins of the Temple of Artemis Gorgo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen beginnt morgens an der Neuen Festung, wo man auf den nassen Rampen vorsichtig fahren muss. Mittags suchen wir Schutz in der Kirche und auf der Spianada. Der Nachmittag gehört dem Archäologischen Museum als trockenem Highlight. Trotz Pfützen erkunden wir gegen Abend die südlichen Anwesen, wobei gute Regenkleidung und Vorsicht auf rutschigen Straßen unerlässlich sind.",
+            "hu": "Az esős biciklitúra reggel az Új Erődnél indul, ahol óvatosan kell haladni a vizes rámpákon. Délben a templom és a Spianada árkádjai nyújtanak menedéket. A délutáni program a Régészeti Múzeum, amely kiváló száraz megálló. Az este a távolabbi birtokoké, ahol a tócsák ellenére is folytatjuk az utat, vízálló ruházatban és fokozott figyelemmel a csúszós utakon.",
+            "ro": "O tură cu bicicleta pe ploaie începe dimineața la Noua Fortăreață, unde trebuie pedalat cu grijă pe rampele ude. La prânz, căutăm adăpost la biserică și în Piața Spianada. După-amiaza este dedicată Muzeului Arheologic ca punct de interes uscat. Spre seară explorăm domeniile sudice, unde îmbrăcămintea impermeabilă și prudența pe drumurile alunecoase sunt esențiale.",
+            "en": "A rainy bike tour starts in the morning at the New Fortress, requiring caution on wet ramps. At noon, we seek shelter at the church and under the Spianada arcades. The afternoon is dedicated to the Archaeological Museum as a dry highlight. Towards evening, we explore the southern estates, where waterproof gear and focus on slippery roads are essential for a safe ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neue Festung",
+                "hu": "Új Erőd",
+                "ro": "Noua Fortăreață",
+                "en": "New Fortress"
+              },
+              "tip_5lang": {
+                "de": "Die Steigungen sind bei Regen rutschig; schieben Sie Ihr Rad auf den Kopfsteinpflasterabschnitten, um Stürze auf dem nassen Untergrund zu vermeiden.",
+                "hu": "Az emelkedők esőben csúszósak; tolja a kerékpárt a macskaköves szakaszokon, hogy elkerülje az elesést a vizes, egyenetlen talajon az erőd területén.",
+                "ro": "Pantele sunt alunecoase pe ploaie; împingeți bicicleta pe secțiunile cu piatră cubică pentru a evita căzăturile pe suprafața udă și instabilă.",
+                "en": "The inclines are slippery in the rain; push your bike on the cobblestone sections to avoid falling on the wet and uneven fortress ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Spyridon",
+                "hu": "Szent Szpiridon templom",
+                "ro": "Biserica Sf. Spiridon",
+                "en": "Saint Spyridon Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Besuch für eine trockene Pause im prachtvoll verzierten Innenraum der Kirche.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a látogatást egy száraz pihenőre a templom pompásan díszített, nyugodt belső terében.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți vizita pentru o pauză uscată în interiorul bisericii decorat cu mare fast și evlavie.",
+                "en": "Park your bike in a sheltered spot and use the visit as a dry break inside the church's magnificently decorated and peaceful interior sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Spianada-Platz",
+                "hu": "Spianada tér",
+                "ro": "Piața Spianada",
+                "en": "Spianada Square"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig unter den Arkaden des Liston, um dem Regen zu entkommen, und achten Sie dabei besonders auf Fußgänger, die dort Schutz suchen.",
+                "hu": "Hajtson óvatosan a Liston árkádjai közelében, hogy elkerülje az esőt, de figyeljen a gyalogosokra, akik szintén ott keresnek menedéket a víz elől.",
+                "ro": "Pedalați cu grijă lângă arcadele Liston pentru a scăpa de ploaie și fiți atenți la pietonii care caută de asemenea adăpost sub porțiunile acoperite.",
+                "en": "Ride carefully near the Liston arcades to escape the rain, and be especially mindful of pedestrians who are also seeking shelter in the covered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um ein starkes Gewitter abzuwarten; die Ausstellungen sind gut beleuchtet und bieten ein trockenes kulturelles Erlebnis.",
+                "hu": "Ez az ideális hely egy nagyobb vihar kivárására; a kiállítások jól megvilágítottak, és száraz, kulturális élményt nyújtanak a zord időjárás közepette.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea unei furtuni; expozițiile sunt bine iluminate și oferă o experiență culturală la adăpost.",
+                "en": "This is the ideal place to wait out a heavy storm; the exhibits are well-lit and provide a dry cultural experience away from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Mon Repos Anwesen",
+                "hu": "Mon Repos Birtok",
+                "ro": "Domeniul Mon Repos",
+                "en": "Mon Repos Estate"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig und rutschig sein; bleiben Sie auf den befestigten Pfaden und nutzen Sie das Museum im Schloss als Regenschutz.",
+                "hu": "Az erdei utak sárosak és csúszósak lehetnek; maradjon a kiépített ösvényeken, és használja a kastélyban lévő múzeumot menedékként az eső ellen.",
+                "ro": "Potecile din pădure pot fi noroioase și alunecoase; rămâneți pe cărările pavate și folosiți muzeul din castel ca adăpost împotriva ploii.",
+                "en": "The forest paths can be muddy and slippery; stay on the paved trails and use the museum inside the villa as a shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Artemis-Tempel",
+                "hu": "Artemisz-templom",
+                "ro": "Templul lui Artemis",
+                "en": "Temple of Artemis Gorgo"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind bei Regen sehr unübersichtlich; achten Sie auf tiefere Pfützen um die archäologische Stätte und tragen Sie wasserfeste Kleidung.",
+                "hu": "A romok esőben nehezen járhatók; ügyeljen a mély tócsákra a régészeti lelőhely körül, és viseljen vízálló ruházatot a szabadtéri megálló során.",
+                "ro": "Ruinele sunt greu de parcurs pe ploaie; atenție la bălțile adânci din jurul sitului arheologic și purtați îmbrăcăminte impermeabilă la exterior.",
+                "en": "The ruins are tricky to navigate in the rain; watch out for deep puddles around the archaeological site and wear high-quality waterproof gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt zur Neuen Festung bei kühler Luft erfrischend. Mittags besuchen wir die Kirche und die ruhige Spianada. Der Nachmittag bietet im Archäologischen Museum eine willkommene Aufwärmpause. Die Tour führt uns weiter zum Mon Repos Anwesen und endet bei den antiken Ruinen des Artemis-Tempels, bevor die Sonne gegen 17:00 Uhr untergeht und die Kälte spürbar zunimmt.",
+            "hu": "Reggel a friss levegőn való tekerés az Új Erődhöz felfrissítő élmény. Délben a templomot és a csendes Spianada teret látogatjuk meg. A délutáni program a Régészeti Múzeumban egy kellemes bemelegítő pihenőt kínál. A túra a Mon Repos birtok felé folytatódik, és az Artemisz-templom romjainál zárul, mielőtt 17:00 körül a naplemente után hirtelen lehűlne az idő.",
+            "ro": "Dimineața, pedalatul spre Noua Fortăreață în aerul rece este revigorant. La prânz vizităm biserica și Piața Spianada liniștită. După-amiaza oferă o pauză binemeritată de încălzire la Muzeul Arheologic. Turul continuă spre Domeniul Mon Repos și se încheie la ruinele Templului lui Artemis, înainte ca soarele să apună la ora 17:00 și frigul să se intensifice.",
+            "en": "The morning ride to the New Fortress in the crisp air is refreshing. At noon, we visit the church and the quiet Spianada Square. The afternoon provides a welcome warming break at the Archaeological Museum. The tour continues towards the Mon Repos Estate and ends at the ancient Temple of Artemis ruins, just before the sun sets around 17:00 and the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neue Festung",
+                "hu": "Új Erőd",
+                "ro": "Noua Fortăreață",
+                "en": "New Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf den Festungsmauern kann im Winter sehr eisig sein; tragen Sie eine winddichte Jacke und Handschuhe für die Abfahrt in die Stadt.",
+                "hu": "Az erődfalakon a szél télen nagyon jeges lehet; viseljen szélálló kabátot és kesztyűt a városba való leereszkedéshez a túra ezen szakaszán.",
+                "ro": "Vântul pe zidurile cetății poate fi tăios iarna; purtați o jachetă rezistentă la vânt și mănuși pentru coborârea spre centrul orașului.",
+                "en": "The wind on the fortress walls can be very icy in winter; wear a windproof jacket and gloves for the descent back into the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche des Heiligen Spyridon",
+                "hu": "Szent Szpiridon templom",
+                "ro": "Biserica Sf. Spiridon",
+                "en": "Saint Spyridon Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren bietet Schutz vor der Kälte; die ruhige Atmosphäre ohne Sommertouristen erlaubt eine andächtige Besichtigung des Altars.",
+                "hu": "Egy rövid belső megálló védelmet nyújt a hideg ellen; a nyári turisták nélküli csendes hangulat lehetővé teszi az oltár nyugodt megtekintését.",
+                "ro": "O scurtă oprire în interior oferă protecție împotriva frigului; atmosfera liniștită fără turiști permite o vizitare pioasă a altarului bisericii.",
+                "en": "A short stop inside provides a break from the cold; the quiet atmosphere without summer tourists allows for a peaceful viewing of the altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Spianada-Platz",
+                "hu": "Spianada tér",
+                "ro": "Piața Spianada",
+                "en": "Spianada Square"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die weiten, leeren Flächen für eine entspannte Fahrt; die tiefstehende Wintersonne wirft lange, malerische Schatten auf die Gebäude.",
+                "hu": "Használja ki a tágas, üres tereket egy pihentető tekerésre; az alacsony téli nap hosszú, festői árnyékokat vet a neoklasszicista épületekre.",
+                "ro": "Folosiți spațiile largi și goale pentru o plimbare relaxată; soarele de iarnă proiectează umbre lungi și pitorești asupra clădirilor din jur.",
+                "en": "Take advantage of the wide, empty spaces for a relaxed ride; the low winter sun casts long, picturesque shadows on the neoclassical buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier den kühleren Nachmittag im warmen Museum; die beeindruckenden Exponate lassen sich im Winter ohne Gedränge genau studieren.",
+                "hu": "Töltse itt a hűvösebb délutánt a fűtött múzeumban; a lenyűgöző kiállítási tárgyakat télen a tömeg nélkül, alaposan meg tudja vizsgálni.",
+                "ro": "Petreceți după-amiaza răcoroasă în interiorul cald al muzeului; exponatele impresionante pot fi studiate în detaliu iarna, fără aglomerație.",
+                "en": "Spend the cooler afternoon inside the warm museum; the impressive exhibits can be studied closely in winter without the usual summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Mon Repos Anwesen",
+                "hu": "Mon Repos Birtok",
+                "ro": "Domeniul Mon Repos",
+                "en": "Mon Repos Estate"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Waldwege sind im Winter oft feucht und kühl; tragen Sie warme Schichten, um die Architektur des Schlosses in Ruhe zu bewundern.",
+                "hu": "Az árnyékos erdei utak télen gyakran nyirkosak és hűvösek; viseljen réteges ruházatot, hogy kényelmesen megcsodálhassa a kastély építészetét.",
+                "ro": "Cărările umbrite din pădure sunt adesea umede și reci iarna; purtați straturi calde pentru a admira arhitectura castelului în liniște.",
+                "en": "The shaded forest paths are often damp and cool in winter; wear warm layers to comfortably admire the architecture and grounds of the villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Artemis-Tempel",
+                "hu": "Artemisz-templom",
+                "ro": "Templul lui Artemis",
+                "en": "Temple of Artemis Gorgo"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Ruinen vor 17:00 Uhr, da das Tageslicht schnell schwindet und die Rückfahrt in der Dämmerung gute Fahrradlichter erfordert.",
+                "hu": "Érkezzen a romokhoz 17:00 előtt, mert a nappali fény gyorsan fogy, és a szürkületi visszautazáshoz jó kerékpáros lámpákra lesz szüksége.",
+                "ro": "Ajungeți la ruine înainte de ora 17:00, deoarece lumina zilei scade rapid, iar drumul de întoarcere necesită lumini bune pentru bicicletă.",
+                "en": "Reach the ruins before 17:00 as daylight fades quickly, and the return trip in the twilight requires high-quality bike lights for safety."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a napot a festői Kanoni és Vlacherna kolostor megtekintésével. A déli órákban a kardaki dór templom és a történelmi Mon Repos birtok következik. Délután parkoljon le az óváros közelében, hogy felfedezze a lenyűgöző Szent Mihály és Szent György Palotát. Az autós túrát az Öreg Erőd és a lenyűgöző Bizánci Múzeum gazdag ikonkiállítása zárja.",
         "ro": "Începeți cu o dimineață superbă privind Mănăstirea Vlacherna. Prânzul vă duce la anticul templu doric de la Kardaki și la istoricul domeniu Mon Repos. După-amiaza, parcați lângă Centrul Vechi pentru a explora magnificul Palat al Sf. Mihail și Sf. Gheorghe. Încheiați turul la Vechea Fortăreață și la colecția fascinantă a Muzeului Bizantin.",
         "en": "Start with a breathtaking morning overlooking the iconic Kanoni & Vlacherna monastery. Midday takes you slightly north to the ancient Doric Temple at Kardaki and the historic Mon Repos Estate. In the afternoon, park near the Old Town to explore the magnificent Palace of St. Michael and St. George. Conclude your driving tour at the Old Fortress and the fascinating Byzantine Museum's rich collection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Fahrt nach Kanoni dramatische Ausblicke auf die stürmische See vom trockenen Auto aus. Mittags erkunden wir die historischen Tempel und das Mon Repos Anwesen, wobei wir die Regenschauer im Inneren abwarten. Der Nachmittag gehört dem Palast und der Alten Festung. Den Tag lassen wir im Byzantinischen Museum ausklingen, einem perfekten kulturellen Rückzugsort vor dem Regen.",
+            "hu": "Reggel a Kanoni felé vezető út drámai kilátást nyújt a viharos tengerre a száraz autóból. Délben a történelmi templomokat és a Mon Repos birtokot látogatjuk meg, a záporokat a belső terekben vészelve át. A délután a Palotáé és az Öreg Erődé. A napot a Bizánci Múzeumban zárjuk, amely tökéletes kulturális menedéket nyújt az eső elől.",
+            "ro": "Dimineața, drumul spre Kanoni oferă vederi dramatice asupra mării agitate din confortul mașinii. La prânz explorăm templele și Domeniul Mon Repos, adăpostindu-ne în interior în timpul averselor. După-amiaza este dedicată Palatului și Vechii Fortărețe. Încheiem ziua la Muzeul Bizantin, un refugiu cultural perfect împotriva ploii persistente.",
+            "en": "In the morning, the drive to Kanoni offers dramatic views of the stormy sea from the dry car. At noon, we explore ancient temples and the Mon Repos Estate, sheltering inside during showers. The afternoon is spent at the Palace and Old Fortress. We conclude the day at the Byzantine Museum, a perfect cultural retreat from the persistent rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kanoni & Vlacherna",
+                "hu": "Kanoni és Vlacherna",
+                "ro": "Kanoni și Vlacherna",
+                "en": "Kanoni & Vlacherna"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Vlacherna-Kirche vom Auto aus; der schmale Damm ist bei Wind und Wellengang sehr nass und kann gefährlich sein.",
+                "hu": "Élvezze a Vlacherna-templom látványát az autóból; a keskeny gát erős szélben és hullámzásban nagyon vizes és veszélyes lehet a gyalogosoknak.",
+                "ro": "Admirați vederea spre biserica Vlacherna din mașină; digul îngust este foarte umed și poate fi periculos în condiții de vânt și valuri mari.",
+                "en": "Enjoy the view of the Vlacherna church from your car; the narrow causeway is very wet and can be hazardous during high wind and waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorischer Tempel in Kardaki",
+                "hu": "Kardaki dór temploma",
+                "ro": "Templul Doric de la Kardaki",
+                "en": "Doric Temple at Kardaki"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg ist oft rutschig; tragen Sie festes Schuhwerk und nutzen Sie Regenpausen für einen kurzen Besuch der beeindruckenden Ruinen.",
+                "hu": "A hozzávezető út gyakran csúszós; viseljen strapabíró cipőt, és használja ki az esőszüneteket a lenyűgöző romok rövid megtekintésére a helyszínen.",
+                "ro": "Calea de acces este adesea alunecoasă; purtați încălțăminte aderentă și profitați de pauzele dintre ploi pentru o vizită scurtă la ruine.",
+                "en": "The access path is often slippery; wear sturdy footwear and take advantage of breaks in the rain for a quick visit to the impressive ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Mon Repos Anwesen",
+                "hu": "Mon Repos Birtok",
+                "ro": "Domeniul Mon Repos",
+                "en": "Mon Repos Estate"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und verbringen Sie die meiste Zeit im Museum des Schlosses, um der Nässe im weitläufigen Park zu entgehen.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, és töltse ideje nagy részét a kastély múzeumában, hogy elkerülje a nedvességet a hatalmas park területén.",
+                "ro": "Parcați cât mai aproape de intrare și petreceți majoritatea timpului în muzeul castelului pentru a evita umezeala din parcul vast al domeniului.",
+                "en": "Park as close to the entrance as possible and spend most of your time in the villa's museum to avoid the dampness in the extensive park grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast von St. Michael und St. George",
+                "hu": "Szent Mihály és Szent György Palota",
+                "ro": "Palatul Sf. Mihail și Sf. Gheorghe",
+                "en": "Palace of St. Michael and St. George"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um trockenen Fußes in die Welt der asiatischen Kunst einzutauchen, während draußen der Regen gegen die Palastmauern prasselt.",
+                "hu": "Ez az ideális helyszín, hogy száraz lábbal merüljön el az ázsiai művészet világában, miközben odakint az eső a palota falait mossa az úton.",
+                "ro": "Acesta este locul ideal pentru a vă cufunda în lumea artei asiatice stând la uscat, în timp ce afară ploaia bate în zidurile palatului.",
+                "en": "This is the ideal spot to immerse yourself in Asian art while staying dry, as the rain lashes against the grand palace walls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Festung",
+                "hu": "Öreg Erőd",
+                "ro": "Vechea Fortăreață",
+                "en": "Old Fortress"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in den unteren, überdachten Bereichen der Festung; die Steigungen und Freiflächen sind bei Nässe sehr ungemütlich und oft extrem glatt.",
+                "hu": "Maradjon az erőd alsó, fedett részein; az emelkedők és a nyílt területek esőben nagyon barátságtalanok és gyakran rendkívül csúszósak.",
+                "ro": "Rămâneți în zonele inferioare și acoperite ale cetății; pantele și spațiile deschise sunt inconfortabile și adesea extrem de alunecoase pe ploaie.",
+                "en": "Stay in the lower, sheltered areas of the fortress; the inclines and open spaces are very uncomfortable and often extremely slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Byzantinisches Museum",
+                "hu": "Bizánci Múzeum",
+                "ro": "Muzeul Bizantin",
+                "en": "Byzantine Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen wunderbaren, warmen Abschluss des Tages; die kostbaren Ikonen lassen sich in der ruhigen, trockenen Umgebung gut bewundern.",
+                "hu": "A múzeum csodálatos, meleg lezárása a napnak; az értékes ikonokat nyugodt, száraz környezetben, zavartalanul csodálhatja meg a látogatáskor.",
+                "ro": "Muzeul oferă o încheiere minunată și caldă a zilei; icoanele prețioase pot fi admirate în detaliu în mediul liniștit și uscat al muzeului.",
+                "en": "The museum offers a wonderful, warm conclusion to the day; the precious icons can be admired in detail in the quiet and dry indoor environment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Fahrt nach Kanoni besonders malerisch. Mittags erkunden wir die historischen Stätten im Süden, wobei die kühle Luft den Spaziergang durch die Ruinen angenehm macht. Der Nachmittag führt uns zurück in die Stadt zum Palast und zur Alten Festung. Den Tag beenden wir im Byzantinischen Museum, bevor die Dunkelheit gegen 17:00 Uhr einsetzt.",
+            "hu": "Egy tiszta téli reggelen a Kanoni felé vezető út különösen festői. Délben a déli történelmi helyszíneket fedezzük fel, ahol a hűvös levegő kellemessé teszi a sétát a romok között. A délután visszavezet a városba a Palotához és az Öreg Erődhöz. A napot a Bizánci Múzeumban zárjuk, mielőtt 17:00 körül leszállna a téli sötétség.",
+            "ro": "Într-o dimineață senină de iarnă, drumul spre Kanoni este deosebit de pitoresc. La prânz explorăm siturile istorice din sud, unde aerul rece face plimbarea printre ruine plăcută. După-amiaza ne întoarcem în oraș la Palat și la Vechea Fortăreață. Încheiem ziua la Muzeul Bizantin, înainte ca întunericul iernii să se lase la ora 17:00.",
+            "en": "On a clear winter morning, the drive to Kanoni is particularly picturesque. At noon, we explore the southern historic sites, where the crisp air makes the walk through ruins pleasant. The afternoon brings us back to town for the Palace and Old Fortress. We conclude the day at the Byzantine Museum, just before the winter darkness sets in around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kanoni & Vlacherna",
+                "hu": "Kanoni és Vlacherna",
+                "ro": "Kanoni și Vlacherna",
+                "en": "Kanoni & Vlacherna"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ohne die üblichen Touristenmassen ist im Winter spektakulär; die kühle Meeresbrise erfordert jedoch eine warme, windfeste Jacke beim Aussteigen.",
+                "hu": "A kilátás a szokásos turistahadak nélkül télen lenyűgöző; a hűvös tengeri szellő miatt azonban meleg, szélálló kabátra lesz szüksége a kiszálláskor.",
+                "ro": "Vedere fără mulțimile obișnuite de turiști este spectaculoasă iarna; briza rece a mării necesită totuși o jachetă caldă și rezistentă la vânt.",
+                "en": "The view without the usual tourist crowds is spectacular in winter; however, the cool sea breeze requires a warm, windproof jacket when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorischer Tempel in Kardaki",
+                "hu": "Kardaki dór temploma",
+                "ro": "Templul Doric de la Kardaki",
+                "en": "Doric Temple at Kardaki"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter weniger dicht, was den Blick auf die Tempelruinen freigibt; tragen Sie gute Wanderschuhe für die kühlen, feuchten Waldwege.",
+                "hu": "A vegetáció télen ritkább, így jobb kilátás nyílik a templomromokra; viseljen jó túracipőt a hűvös és gyakran nyirkos erdei ösvényekhez az úton.",
+                "ro": "Vegetația este mai puțin densă iarna, oferind o vedere mai bună asupra ruinelor; purtați bocanci buni pentru potecile de pădure reci și umede.",
+                "en": "The vegetation is less dense in winter, offering a better view of the ruins; wear good walking shoes for the cool and often damp forest paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Mon Repos Anwesen",
+                "hu": "Mon Repos Birtok",
+                "ro": "Domeniul Mon Repos",
+                "en": "Mon Repos Estate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winter für einen ruhigen Besuch des Museums im Inneren; der Park wirkt in der Wintersonne sehr friedlich und lädt zu einem kurzen Spaziergang ein.",
+                "hu": "Használja ki a telet a kastély belső múzeumának nyugodt meglátogatására; a park a téli napsütésben békés, és hívogató egy rövid, frissítő sétára.",
+                "ro": "Profitați de iarnă pentru o vizită liniștită la muzeul din interior; parcul pare foarte pașnic în soarele de iarnă și invită la o scurtă plimbare.",
+                "en": "Take advantage of winter for a quiet visit to the museum inside; the park looks very peaceful in the winter sun and is perfect for a short stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast von St. Michael und St. George",
+                "hu": "Szent Mihály és Szent György Palota",
+                "ro": "Palatul Sf. Mihail și Sf. Gheorghe",
+                "en": "Palace of St. Michael and St. George"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Räume sind im Winter angenehm leer; planen Sie den Besuch am frühen Nachmittag, um das natürliche Licht in den Hallen zu genießen.",
+                "hu": "A pompás termek télen kellemesen üresek; tervezze a látogatást kora délutánra, hogy élvezhesse a csarnokokba beömlő természetes téli fényeket.",
+                "ro": "Sălile splendide sunt plăcut de goale iarna; planificați vizita la începutul după-amiezii pentru a vă bucura de lumina naturală în interior.",
+                "en": "The magnificent rooms are pleasantly empty in winter; plan your visit for the early afternoon to enjoy the natural light streaming into the halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Festung",
+                "hu": "Öreg Erőd",
+                "ro": "Vechea Fortăreață",
+                "en": "Old Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben ist der Wind schneidend; genießen Sie die klare Sicht bis zur Küste Albaniens vor der frühen Abenddämmerung.",
+                "hu": "A felfelé vezető út melegen tartja, de fent a szél metsző lehet; élvezze a tiszta kilátást Albánia partjaiig a korai esti szürkület beállta előtt.",
+                "ro": "Urcarea vă va ține de cald, dar sus vântul poate fi tăios; bucurați-vă de vederea clară până la coasta Albaniei înainte de amurgul devreme.",
+                "en": "The climb will keep you warm, but the wind at the top can be biting; enjoy the clear views all the way to the Albanian coast before the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Byzantinisches Museum",
+                "hu": "Bizánci Múzeum",
+                "ro": "Muzeul Bizantin",
+                "en": "Byzantine Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der wärmste Ort, um den Tag abzuschließen; das gedämpfte Licht im Museum schafft eine wunderbare Atmosphäre für die antiken religiösen Schätze.",
+                "hu": "Ez a legmelegebb hely a nap lezárásához; a múzeum visszafogott fényei csodálatos hangulatot teremtenek az ősi vallási kincsek megtekintéséhez.",
+                "ro": "Acesta este cel mai călduros loc pentru a încheia ziua; lumina difuză din muzeu creează o atmosferă minunată pentru comorile religioase antice.",
+                "en": "This is the warmest spot to conclude your day; the museum's subdued lighting creates a wonderful atmosphere for viewing the ancient religious treasures."
+              }
+            }
+          ]
+        }
       }
     }
   }

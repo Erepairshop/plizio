@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi erdő nyugodt ösvényeinek felfedezésével, beszívva a friss parti levegőt. Délben látogasson el egy történelmi tengerparti pavilonba, amely eleganciát sugároz. A délutánt töltse a közeli történelmi strand lágy hullámai melletti pihenéssel. Végül fejezze be a sétát egy gyönyörű parkban, ahol megcsodálhatja a lenyűgöző naplementét a tenger felett.",
         "ro": "Începeți dimineața explorând traseele liniștite ale pădurii locale, respirând aerul proaspăt de coastă. La prânz, vizitați un pavilion istoric fascinant, care prezintă o eleganță maritimă impresionantă. Petreceți după-amiaza relaxându-vă la plaja istorică din apropiere. La final, încheiați plimbarea într-un parc pitoresc, admirând un apus de soare spectaculos deasupra Mării Marmara.",
         "en": "Start your morning exploring the tranquil trails of the local woodland, breathing in the fresh coastal air. By midday, journey to a fascinating historic waterfront pavilion showcasing maritime elegance. Spend your afternoon relaxing by the soft waves at the nearby historical beach. Finally, conclude your walk at a beautiful scenic park facing the horizon to witness a stunning sunset over the Marmara."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens duftet der Atatürk-Wald intensiv nach Kiefern; festes Schuhwerk ist auf den nassen Wegen ratsam. Mittags bietet die Atatürk-Seevilla einen trockenen Rückzugsort mit Blick auf das graue Meer. Am Nachmittag erleben Sie an den leeren Stränden die wilde Seite des Marmarameeres. Abends finden Sie in den Pavillons des Menekşe-Parks Schutz vor dem Regen und genießen die frische Meeresbrise.",
+            "hu": "Reggel a fenyves illata intenzív az esőben, de az utak csúszósak lehetnek. Délben az Atatürk tengeri köşk Bauhaus belső terei nyújtanak tökéletes száraz menedéket. Délután a strandok elnéptelenednek, a morajló szürke tenger látványa pedig drámai. Este a Menekşe part menti parkjának fedett pavilonjaiban pihenhetünk meg, figyelve a párás, esős horizontot a lámpafényben.",
+            "ro": "Dimineața, pădurea Atatürk miroase intens a pin, dar potecile pot fi alunecoase. La prânz, vila marină oferă un refugiu uscat perfect, cu vedere la marea cenușie. După-amiaza, plajele pustii dezvăluie latura sălbatică a Marmarei sub ploaie. Seara, foișoarele acoperite din parcul Menekşe sunt ideale pentru a urmări orizontul cețos înainte de a încheia ziua.",
+            "en": "In the morning, the forest air is fresh and pine-scented, but paved paths are safer in the rain. At noon, the marine villa serves as a cozy dry sanctuary with panoramic sea views. During the afternoon, the empty beaches offer a dramatic perspective of the stormy waves. By evening, the covered gazebos in Menekşe Park provide a peaceful spot to watch the rain over the lagoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Atatürk Forest",
+                "hu": "Atatürk Forest",
+                "ro": "Atatürk Forest",
+                "en": "Atatürk Forest"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Waldduft unter den dichten Baumkronen, die leichten Regen abhalten; tragen Sie unbedingt wasserfeste Wanderschuhe für die erdigen Pfade.",
+                "hu": "Élvezze a friss erdőillatot a sűrű lombok alatt, amelyek felfogják a szemerkélő esőt; a földutak miatt mindenképp vízálló túrabakancsot viseljen.",
+                "ro": "Bucurați-vă de mirosul proaspăt al pădurii sub coronamentul des care oprește ploaia ușoară; purtați bocanci impermeabili pentru potecile de pământ.",
+                "en": "Enjoy the fresh forest scent under the thick canopy which acts as a natural umbrella; wear waterproof boots as the dirt paths can get muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Atatürk Deniz Köşkü",
+                "hu": "Florya Atatürk Deniz Köşkü",
+                "ro": "Florya Atatürk Deniz Köşkü",
+                "en": "Florya Atatürk Deniz Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum über dem Wasser ist der ideale Ort, um dem Regen zu entfliehen; bewundern Sie das minimalistische Design, während draußen die Tropfen auf das Meer fallen.",
+                "hu": "Ez a víz feletti múzeum ideális hely az eső elől; csodálja meg a minimalista belsőt, miközben kint a tenger felszínén koppannak az esőcseppek.",
+                "ro": "Acest muzeu deasupra apei este locul ideal pentru a scăpa de ploaie; admirați designul minimalist în timp ce afară picăturile cad pe mare.",
+                "en": "This museum built over the water is the perfect rainy retreat; admire the minimalist Bauhaus interior while watching the rain hit the sea surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Güneș Beach",
+                "hu": "Florya Güneș Beach",
+                "ro": "Florya Güneș Beach",
+                "en": "Florya Güneș Beach"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über die befestigte Promenade statt über den Sand, um nasse Füße zu vermeiden; die stürmische See bietet jetzt ein fantastisches Fotomotiv.",
+                "hu": "A homok helyett sétáljon a kiépített sétányon, hogy elkerülje a sarat; a viharos tenger ilyenkor különlegesen látványos fotótéma.",
+                "ro": "Plimbați-vă pe faleza amenajată în loc de nisip pentru a evita noroiul; marea agitată oferă acum un fundal spectaculos pentru fotografii.",
+                "en": "Walk along the paved promenade instead of the sand to keep your feet dry; the stormy Marmara Sea provides a dramatic backdrop for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Beach",
+                "hu": "Menekşe Beach",
+                "ro": "Menekşe Beach",
+                "en": "Menekşe Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Strandcafés; der Klang des Regens auf dem Wasser hat eine sehr beruhigende, meditative Wirkung.",
+                "hu": "Keressen menedéket a parti kávézók előtetői alatt; az eső kopogása a vízen ilyenkor rendkívül nyugtató és meditatív élmény.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor de pe plajă; sunetul ploii pe apă are un efect foarte liniștitor și meditativ.",
+                "en": "Seek shelter under the awnings of the beach cafes; the sound of rain hitting the water has a very calming and meditative effect."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Plajı Sahil Parkı Önü",
+                "hu": "Menekşe Plajı Sahil Parkı Önü",
+                "ro": "Menekşe Plajı Sahil Parkı Önü",
+                "en": "Menekşe Plajı Sahil Parkı Önü"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Holzhütten für eine Pause im Trockenen; bringen Sie eine Thermoskanne mit warmem Tee mit, um die neblige Aussicht zu genießen.",
+                "hu": "Használja a fedett fa pavilonokat a száraz pihenéshez; hozzon magával egy termosz meleg teát a ködös panoráma élvezetéhez.",
+                "ro": "Folosiți pavilioanele de lemn acoperite pentru o pauză uscată; aduceți un termos cu ceai cald pentru a vă bucura de vederea cețoasă.",
+                "en": "Use the covered wooden gazebos for a dry rest stop; bring a thermos of hot tea to enjoy the misty lagoon views comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen ist die Luft im Wald erfrischend kalt; warme Kleidung ist gegen die Seebrise notwendig. Mittags ist das Museum ein beheizter Ruhepol mit wunderbarem Lichtspiel. Der Nachmittag bietet am Strand weite Sichten bis zum Horizont. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Küstenspaziergang rechtzeitig beenden, um die blaue Stunde am Menekşe-See zu erleben.",
+            "hu": "A tiszta téli reggelen az erdő levegője frissítően hideg, a tengeri szél miatt réteges öltözet ajánlott. Délben a múzeum fűtött terei és a téli napsütés játéka nyújt élményt. Délután a strandokon a tiszta látótávolság miatt a távoli hajók is jól látszanak. Mivel 17:00 körül sötétedik, a sétát érdemes időben befejezni, hogy a kék órát már a tónál tölthessük.",
+            "ro": "În dimineața senină de iarnă, aerul din pădure este răcoros; hainele groase sunt necesare împotriva vântului marin. La prânz, muzeul este un refugiu încălzit cu o lumină superbă. După-amiaza oferă vizibilitate maximă spre orizont pe plajă. Deoarece soarele apune în jur de 17:00, încheiați plimbarea pe faleză devreme pentru a prinde amurgul la lacul Menekşe.",
+            "en": "The crisp winter morning air in the forest is revitalizing, but a windproof jacket is essential. At noon, the museum is a warm sanctuary where winter light fills the Bauhaus rooms. In the afternoon, the clear horizon allows for great views of distant ships. Since sunset is around 17:00, plan to reach the lakeside park by dusk to enjoy the evening glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Atatürk Forest",
+                "hu": "Atatürk Forest",
+                "ro": "Atatürk Forest",
+                "en": "Atatürk Forest"
+              },
+              "tip_5lang": {
+                "de": "Die entlaubten Bäume lassen im Winter mehr Licht durch, was für tolle Kontraste sorgt; tragen Sie eine windfeste Jacke gegen die kühle Meeresbrise.",
+                "hu": "A lombmentes fák között télen több fény jut be, ami szép kontrasztokat szül; viseljen szélálló kabátot a hűvös tengeri szél ellen.",
+                "ro": "Copacii fără frunze lasă mai multă lumină să treacă, creând contraste frumoase; purtați o jachetă rezistentă la vânt împotriva brizelor reci.",
+                "en": "The leafless trees allow more sunlight to reach the ground, creating beautiful contrasts; wear a windbreaker against the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Atatürk Deniz Köşkü",
+                "hu": "Florya Atatürk Deniz Köşkü",
+                "ro": "Florya Atatürk Deniz Köşkü",
+                "en": "Florya Atatürk Deniz Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist beheizt und bietet einen warmen Blick auf das winterliche Marmarameer; nutzen Sie die Ruhe dieser Jahreszeit für eine ausführliche Besichtigung.",
+                "hu": "A belső tér fűtött, és meleg menedékből nyújt kilátást a téli Márvány-tengerre; használja ki a szezonon kívüli nyugalmat a nézelődésre.",
+                "ro": "Interiorul este încălzit și oferă o vedere caldă asupra mării iarna; profitați de liniștea acestui sezon pentru o vizită detaliată.",
+                "en": "The interior is heated and offers a warm vantage point to watch the winter sea; take advantage of the off-season quiet for a longer visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Güneș Beach",
+                "hu": "Florya Güneș Beach",
+                "ro": "Florya Güneș Beach",
+                "en": "Florya Güneș Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei einem zügigen Spaziergang, um warm zu bleiben; die tiefstehende Sonne sorgt für ein magisches Licht am Strand.",
+                "hu": "Élvezze a tiszta téli levegőt egy gyors tempójú sétával, hogy melegen tartsa magát; az alacsony napállás mágikus fényeket fest a homokba.",
+                "ro": "Bucurați-vă de aerul curat de iarnă cu o plimbare rapidă pentru a vă încălzi; soarele jos creează o lumină magică pe plaja pustie.",
+                "en": "Enjoy the crisp winter air with a brisk walk to stay warm; the low winter sun creates a magical light on the empty beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Beach",
+                "hu": "Menekşe Beach",
+                "ro": "Menekşe Beach",
+                "en": "Menekşe Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom Ufer aus; Handschuhe und eine Mütze sind für die Zeit am Wasser unverzichtbar.",
+                "hu": "Figyelje meg a korai, 17:00 körüli naplementét közvetlenül a partról; a vízparton a kesztyű és a sapka elengedhetetlen a hideg szélben.",
+                "ro": "Observați apusul devreme, în jur de 17:00, direct de pe mal; mănușile și căciula sunt indispensabile lângă apă în acest sezon.",
+                "en": "Watch the early sunset around 17:00 directly from the shoreline; gloves and a hat are essential for the time spent by the windy water."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Plajı Sahil Parkı Önü",
+                "hu": "Menekşe Plajı Sahil Parkı Önü",
+                "ro": "Menekşe Plajı Sahil Parkı Önü",
+                "en": "Menekşe Plajı Sahil Parkı Önü"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es schnell dunkel und sehr kalt; beenden Sie Ihren Besuch hier frühzeitig und suchen Sie sich einen warmen Innenraum.",
+                "hu": "Naplemente után gyorsan sötétedik és hirtelen hűl le a levegő; fejezze be korán a látogatást, és keressen egy fűtött beltéri helyet.",
+                "ro": "După apus se întunecă repede și se face foarte frig; încheiați vizita aici devreme și căutați un spațiu interior călduros.",
+                "en": "After sunset, it gets dark quickly and the temperature drops; wrap up your visit early and head to a heated indoor location."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a napot egy élénk kulturális központban, mielőtt elsétálna a közeli elegáns mecsethez. Folytassa a délelőttöt a helyi erdőrezervátum árnyékos ösvényein tekerve. Ebéd után lovagoljon végig a parton, fedezzen fel egy történelmi tengeri kúriát és egy világszínvonalú akváriumot. Az estét egy hatalmas, régi repülőtéren épült parkban tett kerékpározással zárhatja le.",
         "ro": "Începeți ziua la un centru cultural animat, apoi pedalați spre o moschee elegantă din vecinătate. Continuați dimineața pe aleile umbrite ale rezervației forestiere luxuriante locale. După prânz, mergeți de-a lungul coastei, explorând un conac maritim istoric și un acvariu de talie mondială. Încheiați seara cu o plimbare printr-un parc uriaș construit pe o veche pistă de aeroport.",
         "en": "Kick off your day with a visit to a lively cultural hub before cycling to an elegant nearby local mosque. Continue your morning navigating the shaded pathways of the lush local forest reserve. After lunch, ride along the coast to enjoy the sea breeze, exploring a historic marine mansion and a world-class aquarium. Wind down your evening cycling through a massive new park built on an old airport runway."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Kulturzentrum; nasse Straßen erfordern volle Konzentration. Mittags bietet der Wald etwas Schutz, doch Kurven können rutschig sein. Die Küstenstraße ist bei Regen einsam und atmosphärisch. Das Aquarium am Nachmittag ist die perfekte trockene Pause für Radfahrer. Beenden Sie die Tour im Volkspark, bevor das Licht bei anhaltendem Regen zu schwach wird.",
+            "hu": "Kezdje óvatosan a túrát a kultúrközpontnál; a vizes aszfalt fokozott figyelmet igényel. Délben az erdő ad némi védelmet, de a kanyarokban vigyázzon a csúszós levelekkel. A parti út esőben magányos és hangulatos. A délutáni Akvárium tökéletes száraz pihenő a bringásoknak. A túrát a Millet Bahçesi parkban zárja, mielőtt a szürkületben túl sötét lenne.",
+            "ro": "Începeți cu prudență la centrul cultural; drumurile ude necesită concentrare maximă. La prânz, pădurea oferă ceva protecție, dar curbele pot fi alunecoase. Drumul de coastă este pustiu și atmosferic pe ploaie. Acvariul de după-amiază este pauza uscată perfectă pentru bicicliști. Încheiați turul în parcul public înainte ca vizibilitatea să scadă prea mult.",
+            "en": "Start cautiously at the culture center; wet roads require full concentration. At noon, the forest provides some cover, but watch out for slippery leaves on turns. The coastal road is lonely and atmospheric in the rain. The Aquarium in the afternoon is the perfect dry break for cyclists. Finish your tour at the public garden before the light fades in the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cennet Kültür Merkezi",
+                "hu": "Cennet Kültür Merkezi",
+                "ro": "Cennet Kültür Merkezi",
+                "en": "Cennet Kültür Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Eingangsbereich und nutzen Sie die Ausstellungen, um einen Regenschauer trocken abzuwarten.",
+                "hu": "Parkolja le a bringát biztonságos helyen, és használja ki a kiállításokat, amíg megvárja egy-egy nagyobb zápor elvonulását.",
+                "ro": "Parcați bicicleta în siguranță la intrare și vizitați expozițiile pentru a aștepta trecerea unei averse la loc uscat.",
+                "en": "Park your bike securely at the entrance and explore the exhibitions while waiting for a heavy rain shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Camii, Küçükçekmece",
+                "hu": "Fatih Camii, Küçükçekmece",
+                "ro": "Fatih Camii, Küçükçekmece",
+                "en": "Fatih Camii, Küçükçekmece"
+              },
+              "tip_5lang": {
+                "de": "Der Innenhof kann bei Nässe sehr rutschig sein; betreten Sie die Moschee für einen Moment der Stille und zum Aufwärmen.",
+                "hu": "A mecset udvara vizesen nagyon csúszós lehet; térjen be a belső térbe egy csendes pihenőre és szárítkozásra.",
+                "ro": "Curtea moscheii poate fi foarte alunecoasă când este udă; intrați în interior pentru un moment de liniște și pentru a vă usca.",
+                "en": "The mosque courtyard can be very slippery when wet; step inside the prayer hall for a quiet break and to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Forest",
+                "hu": "Atatürk Forest",
+                "ro": "Atatürk Forest",
+                "en": "Atatürk Forest"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Waldwegen, da nasses Laub und Schlamm den Grip verringern; die Bäume bieten natürlichen Regenschutz.",
+                "hu": "Haladjon lassan az erdei utakon, mert a vizes levelek és a sár csökkentik a tapadást; a fák természetes védelmet adnak.",
+                "ro": "Circulați cu viteză redusă pe poteci, deoarece frunzele ude și noroiul reduc aderența; copacii oferă protecție naturală.",
+                "en": "Ride slowly on forest paths as wet leaves and mud reduce tire grip; the dense tree canopy offers some natural rain protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Beach",
+                "hu": "Menekşe Beach",
+                "ro": "Menekşe Beach",
+                "en": "Menekşe Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf der Radspur; der Blick auf den nebligen See ist die Anstrengung bei diesem Wetter absolut wert.",
+                "hu": "Figyeljen a pocsolyákra a kerékpársávon; a ködös tó látványa a parton megéri a fáradtságot ebben az időben is.",
+                "ro": "Fiți atenți la bălțile de pe pista de biciclete; vederea lacului cețos de pe mal merită efortul chiar și pe ploaie.",
+                "en": "Watch out for puddles on the bike lane; the view of the misty lagoon from the shore is worth the extra effort in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Atatürk Deniz Köşkü",
+                "hu": "Florya Atatürk Deniz Köşkü",
+                "ro": "Florya Atatürk Deniz Köşkü",
+                "en": "Florya Atatürk Deniz Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Pause, um Ihre Kleidung zu trocknen und den Blick auf die Wellen zu genießen.",
+                "hu": "Használja a múzeumlátogatást hosszabb pihenőként, hogy megszáradjanak a ruhái, miközben a hullámzó tengert nézi.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă pentru a vă usca hainele în timp ce priviți marea agitată de la fereastră.",
+                "en": "Use the museum visit as a long break to dry your gear while enjoying the view of the waves from the large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Aquarium",
+                "hu": "Istanbul Aquarium",
+                "ro": "Istanbul Aquarium",
+                "en": "Istanbul Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für Radfahrer bei Regen; verbringen Sie hier viel Zeit im Trockenen, während es draußen stürmt.",
+                "hu": "Ez a legjobb hely a bringásoknak esőben; töltsön itt bátran több időt szárazon, amíg odakint tombol az időjárás.",
+                "ro": "Acesta este cel mai bun loc pentru bicicliști pe ploaie; petreceți aici mai mult timp la uscat în timp ce afară plouă.",
+                "en": "This is the ultimate refuge for cyclists in the rain; spend plenty of time exploring indoors while it storms outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Havalimanı Millet Bahçesi",
+                "hu": "Atatürk Havalimanı Millet Bahçesi",
+                "ro": "Atatürk Havalimanı Millet Bahçesi",
+                "en": "Atatürk Havalimanı Millet Bahçesi"
+              },
+              "tip_5lang": {
+                "de": "Die weiten, asphaltierten Wege sind gut befahrbar, aber windanfällig; beenden Sie die Tour zügig, um nicht auszukühlen.",
+                "hu": "A széles, aszfaltozott utak jól járhatóak, de szélnek kitettek; fejezze be gyorsan a túrát, hogy ne hűljön ki az esőben.",
+                "ro": "Aleile largi și asfaltate sunt bune de parcurs, dar expuse vântului; încheiați turul rapid pentru a nu vă răci în ploaie.",
+                "en": "The wide, paved paths are easy to ride but very exposed to the wind; finish your tour quickly to avoid getting too cold."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad erfordert Thermokleidung gegen den eisigen Seewind. Mittags im Wald ist es windstill, aber kühl. Entlang der Küste genießen Sie die klare Luft und weite Sicht. Das Aquarium bietet am Nachmittag eine willkommene Aufwärmpause. Da es bereits um 17:00 Uhr dämmert, sollte Ihre Beleuchtung einwandfrei funktionieren, wenn Sie den Volkspark erreichen.",
+            "hu": "A téli reggeli bringázáshoz elengedhetetlen a termoruha a jeges tengeri szél ellen. Délben az erdőben szélcsend van, de hűvös. A parton a tiszta levegő és a messzi horizont kárpótol a hidegért. Az Akvárium délután remek hely a felmelegedésre. Mivel 17:00-kor már sötétedik, ügyeljen a lámpákra, mire a Millet Bahçesi parkba ér.",
+            "ro": "O dimineață de iarnă pe bicicletă necesită haine termice împotriva vântului înghețat. La prânz, în pădure este liniște, dar răcoare. Pe coastă, aerul curat și vizibilitatea bună sunt superbe. Acvariul oferă după-amiaza o pauză de încălzire binevenită. Deoarece se întunecă la 17:00, asigurați-vă că luminile funcționează când ajungeți în parc.",
+            "en": "A winter morning ride requires thermal layers against the icy sea breeze. At noon, the forest is shielded from the wind but remains cold. Along the coast, enjoy the crisp air and the clear, wide horizon. The Aquarium offers a much-needed warming break in the afternoon. Since dusk falls at 17:00, ensure your bike lights are working before reaching the final park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cennet Kültür Merkezi",
+                "hu": "Cennet Kültür Merkezi",
+                "ro": "Cennet Kültür Merkezi",
+                "en": "Cennet Kültür Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für einen warmen Start in den Tag; Handschuhe sind für die Abfahrten danach obligatorisch.",
+                "hu": "Használja ki a fűtött belső tereket a nap meleg indításához; a kesztyű viselése kötelező a későbbi lejtmeneteknél.",
+                "ro": "Folosiți interiorul încălzit pentru un început de zi călduros; mănușile sunt obligatorii pentru coborârile ce urmează.",
+                "en": "Take advantage of the heated interior for a warm start to your day; gloves are mandatory for the cold descents afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Camii, Küçükçekmece",
+                "hu": "Fatih Camii, Küçükçekmece",
+                "ro": "Fatih Camii, Küçükçekmece",
+                "en": "Fatih Camii, Küçükçekmece"
+              },
+              "tip_5lang": {
+                "de": "Der Teppichboden im Inneren ist angenehm warm an den Füßen; eine kurze Pause hilft gegen das Auskühlen durch den Fahrtwind.",
+                "hu": "A benti szőnyegpadló kellemesen melegíti a lábat; egy rövid pihenő segít, hogy ne hűljön ki a menetszéltől.",
+                "ro": "Covoarele din interior sunt plăcute pentru picioarele reci; o scurtă pauză ajută la combaterea frigului cauzat de vânt.",
+                "en": "The carpeted interior is pleasantly warm on your feet; a short break here helps combat the chill from the riding wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Forest",
+                "hu": "Atatürk Forest",
+                "ro": "Atatürk Forest",
+                "en": "Atatürk Forest"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist hier im Winter besonders rein; halten Sie Ihr Tempo moderat, um nicht durch Schweiß und Fahrtwind zu unterkühlen.",
+                "hu": "A levegő télen itt különösen tiszta; tartson mérsékelt tempót, hogy ne izzadjon le, majd hűljön ki a menetszélben.",
+                "ro": "Aerul este deosebit de curat aici iarna; mențineți un ritm moderat pentru a nu transpira și apoi a răci din cauza vântului.",
+                "en": "The air is exceptionally clean here in winter; keep a moderate pace to avoid sweating and then chilling in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Beach",
+                "hu": "Menekşe Beach",
+                "ro": "Menekşe Beach",
+                "en": "Menekşe Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Seewind kann im Winter schneidend kalt sein; tragen Sie einen Schlauchschal, um Gesicht und Hals beim Radeln zu schützen.",
+                "hu": "A tengeri szél télen metszően hideg lehet; viseljen csősálat, hogy védje az arcát és a nyakát tekerés közben.",
+                "ro": "Vântul marin poate fi tăios de rece iarna; purtați un fular de tip buf pentru a vă proteja fața și gâtul în timp ce pedalați.",
+                "en": "The sea breeze can be piercingly cold in winter; wear a neck gaiter to protect your face and throat while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Atatürk Deniz Köşkü",
+                "hu": "Florya Atatürk Deniz Köşkü",
+                "ro": "Florya Atatürk Deniz Köşkü",
+                "en": "Florya Atatürk Deniz Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Lage direkt am Meer bietet tolle Fotomotive bei klarem Winterlicht; wärmen Sie sich im Inneren gründlich auf.",
+                "hu": "A tengerparti védett fekvés remek fotótémát kínál a tiszta téli fényben; melegedjen fel alaposan a belső terekben.",
+                "ro": "Locația protejată de la malul mării oferă cadre superbe în lumina clară de iarnă; încălziți-vă bine în interiorul muzeului.",
+                "en": "The protected location by the sea offers great photo opportunities in clear winter light; warm up thoroughly inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Aquarium",
+                "hu": "Istanbul Aquarium",
+                "ro": "Istanbul Aquarium",
+                "en": "Istanbul Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Aufwärmstation am Nachmittag; verbringen Sie hier mindestens 90 Minuten, um die Kälte der Fahrt aus den Knochen zu vertreiben.",
+                "hu": "A tökéletes felmelegedési pont délután; töltsön itt legalább 90 percet, hogy kimenjen a hideg a csontjaiból a tekerés után.",
+                "ro": "Stația ideală de încălzire după-amiaza; petreceți aici cel puțin 90 de minute pentru a scăpa de frigul acumulat pe bicicletă.",
+                "en": "The perfect warming station in the afternoon; spend at least 90 minutes here to get the chill out of your bones after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Havalimanı Millet Bahçesi",
+                "hu": "Atatürk Havalimanı Millet Bahçesi",
+                "ro": "Atatürk Havalimanı Millet Bahçesi",
+                "en": "Atatürk Havalimanı Millet Bahçesi"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, beenden Sie die Tour vor der Dunkelheit; die weiten Flächen kühlen nach 17:00 Uhr extrem schnell ab.",
+                "hu": "Mivel a nap korán nyugszik, fejezze be a túrát sötétedés előtt; a nyílt területek 17:00 után rendkívül gyorsan hűlnek le.",
+                "ro": "Deoarece soarele apune devreme, terminați turul înainte de lăsarea întunericului; spațiile largi se răcesc foarte repede după 17:00.",
+                "en": "As the sun sets early, aim to finish before dark; these wide open spaces cool down extremely fast after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autózzon a kerület szívébe, hogy felfedezzen történelmi mecseteket és egy nyüzsgő modern kulturális központot. Navigáljon a városi erdő felé egy frissítő délelőtti sétára a fák között. Délután ereszkedjen le a partra, meglátogatva a strandokat, egy történelmi rezidenciát és egy híres akváriumot. Végül parkoljon le az új, hatalmas közparknál, hogy egy igazán lenyűgöző estét töltsön el.",
         "ro": "Conduceți în inima cartierului pentru a descoperi moschei istorice și un centru cultural modern vibrant. Îndreptați-vă spre pădurea urbană pentru o plimbare revigorantă printre copaci dimineața. După-amiaza, coborâți pe coastă vizitând plaje frumoase, o reședință istorică și un acvariu renumit. La final, parcați lângă noile grădini publice uriașe pentru o seară de neuitat.",
         "en": "Drive into the heart of the district to discover historic neighborhood mosques and a bustling modern cultural center. Navigate effortlessly toward the urban forest for a refreshing mid-morning stroll among the trees. In the afternoon, cruise down to the coastline, visiting beautiful beaches, a historic maritime residence, and a famous aquarium. Finally, park near the massive new public gardens for an epic evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Tour bequem vom Auto aus; die Regenfronten über dem Marmarameer wirken durch die Scheiben fast wie ein Film. Mittags bieten die Moscheen und das Kulturzentrum trockene, spirituelle Haltepunkte. Der Waldbesuch wird zur kurzen Erfrischung, während das Aquarium am Nachmittag das Highlight im Trockenen ist. Abends im Volkspark können Sie die Lichterspiele im Regen bewundern.",
+            "hu": "Élvezze a túrát kényelmesen az autóból; a Márvány-tenger felett vonuló esőfelhők az ablakon át nézve lenyűgöző látványt nyújtanak. Napközben a mecsetek és a kultúrközpont száraz, spirituális megállóhelyek. Az erdei kitérő legyen rövid, míg délután az Akvárium a fő attrakció. Este a Millet Bahçesi parkban az esőben csillogó fényeket csodálhatjuk meg.",
+            "ro": "Bucurați-vă de tur confortabil din mașină; fronturile de ploaie peste Marea Marmara arată spectaculos prin parbriz. La prânz, moscheile și centrul cultural oferă opriri uscate și liniștite. Vizita la pădure va fi scurtă, în timp ce acvariul este punctul culminant al după-amiezii. Seara, admirați jocurile de lumini în ploaie din parcul public.",
+            "en": "Enjoy the tour comfortably from your car; the rain fronts over the Marmara Sea look cinematic through the windows. During the day, the mosques and culture center provide dry, spiritual stops. A forest visit is a quick refresh, while the Aquarium is the afternoon's indoor highlight. By evening, enjoy the glittering lights in the rain at the public garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abdüsselam Camii",
+                "hu": "Abdüsselam Camii",
+                "ro": "Abdüsselam Camii",
+                "en": "Abdüsselam Camii"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu umgehen; das Innere der Moschee bietet eine friedliche, trockene Atmosphäre bei Gewitter.",
+                "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az esőt; a mecset belső tere békés és száraz menedéket nyújt a viharos időben.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; interiorul moscheii oferă o atmosferă pașnică și uscată în timpul furtunii.",
+                "en": "Park close to the entrance to avoid the rain; the mosque interior provides a peaceful, dry atmosphere during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Camii, Küçükçekmece",
+                "hu": "Fatih Camii, Küçükçekmece",
+                "ro": "Fatih Camii, Küçükçekmece",
+                "en": "Fatih Camii, Küçükçekmece"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Tor lohnt sich; bewundern Sie die Architektur, während draußen der Regen auf die Kuppeln trommelt.",
+                "hu": "Egy rövid sprint a parkolótól a kapuig megéri; csodálja meg az építészetet, miközben kint az eső dobol a kupolákon.",
+                "ro": "Un scurt sprint de la parcare la poartă merită; admirați arhitectura în timp ce afară ploaia bate în cupole.",
+                "en": "A quick dash from the parking spot to the gate is worth it; admire the architecture while the rain drums on the domes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cennet Kültür Merkezi",
+                "hu": "Cennet Kültür Merkezi",
+                "ro": "Cennet Kültür Merkezi",
+                "en": "Cennet Kültür Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum ist ein hervorragender Ort, um trocken Kultur zu genießen; nutzen Sie die Parkmöglichkeiten in der Nähe für einen stressfreien Besuch.",
+                "hu": "A központ kiváló hely a kultúra szárazon történő élvezetére; használja a közeli parkolókat a stresszmentes látogatáshoz.",
+                "ro": "Centrul este un loc excelent pentru a te bucura de cultură la uscat; folosiți parcările din apropiere pentru o vizită fără stres.",
+                "en": "The center is an excellent place to enjoy culture while staying dry; use the nearby parking facilities for a stress-free visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Forest",
+                "hu": "Atatürk Forest",
+                "ro": "Atatürk Forest",
+                "en": "Atatürk Forest"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen, um Schlamm am Auto zu vermeiden; die nebligen Bäume bieten eine tolle Kulisse für Fotos.",
+                "hu": "Maradjon a burkolt főutakon, hogy elkerülje az autó besarazódását; a ködös erdő látványa kiváló fotóháttér az ablakból is.",
+                "ro": "Rămâneți pe drumurile principale asfaltate pentru a evita noroiul; copacii cețoși oferă un decor superb pentru fotografii din mașină.",
+                "en": "Stick to the paved main paths to avoid getting mud on your car; the misty forest scenery is a great photo backdrop from your window."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Plajı Sahil Parkı Önü",
+                "hu": "Menekşe Plajı Sahil Parkı Önü",
+                "ro": "Menekşe Plajı Sahil Parkı Önü",
+                "en": "Menekşe Plajı Sahil Parkı Önü"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See direkt vom Fahrersitz aus; die Regentropfen auf der Scheibe verleihen der Szenerie einen melancholischen Charme.",
+                "hu": "Élvezze a tóra nyíló kilátást közvetlenül a vezetőülésből; az ablakon lefolyó esőcseppek melankolikus bájt kölcsönöznek a tájnak.",
+                "ro": "Bucurați-vă de vederea spre lac direct de la volan; picăturile de ploaie de pe geam oferă un farmec melancolic întregii scene.",
+                "en": "Enjoy the lagoon view directly from the driver's seat; the raindrops on the windshield add a melancholic charm to the scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Atatürk Deniz Köşkü",
+                "hu": "Florya Atatürk Deniz Köşkü",
+                "ro": "Florya Atatürk Deniz Köşkü",
+                "en": "Florya Atatürk Deniz Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am nahegelegenen Parkplatz und nutzen Sie den Schirm für den kurzen Weg; die Villa ist der perfekte Ort für eine trockene Pause.",
+                "hu": "Parkoljon a közeli parkolóban, és használjon esernyőt a rövid úthoz; a villa tökéletes helyszín egy száraz pihenőre.",
+                "ro": "Parcați în parcarea apropiată și folosiți umbrela pentru drumul scurt; vila este locul perfect pentru o pauză uscată.",
+                "en": "Park at the nearby lot and use an umbrella for the short walk; the villa is the perfect location for a substantial dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Aquarium",
+                "hu": "Istanbul Aquarium",
+                "ro": "Istanbul Aquarium",
+                "en": "Istanbul Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Dank Parkhaus gelangen Sie völlig trocken ins Aquarium; verbringen Sie hier den regnerischen Nachmittag bei den exotischen Fischen.",
+                "hu": "A parkolóháznak köszönhetően teljesen szárazon juthat be; töltse itt az esős délutánt az egzotikus halak között.",
+                "ro": "Datorită parcării acoperite, ajungeți complet uscat în acvariu; petreceți aici după-amiaza ploioasă printre peștii exotici.",
+                "en": "Thanks to the parking garage, you can enter completely dry; spend the rainy afternoon here among the exotic marine life."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Havalimanı Millet Bahçesi",
+                "hu": "Atatürk Havalimanı Millet Bahçesi",
+                "ro": "Atatürk Havalimanı Millet Bahçesi",
+                "en": "Atatürk Havalimanı Millet Bahçesi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zufahrten für eine Sightseeing-Runde im Warmen; der beleuchtete Park wirkt im Regen besonders weitläufig und modern.",
+                "hu": "Használja az útvonalakat egy autós városnézésre a melegben; a kivilágított park esőben különösen tágasnak és modernnek hat.",
+                "ro": "Folosiți căile de acces pentru un tur auto la căldură; parcul iluminat pare deosebit de vast și modern pe timp de ploaie.",
+                "en": "Use the access roads for a sightseeing loop from your warm car; the lit park feels especially spacious and modern in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das ideale Fortbewegungsmittel entlang der Küste von Florya. Morgens ist die Sicht oft kristallklar, was weite Ausblicke auf das Meer ermöglicht. Mittags locken die beheizten Moscheen und Museen. Da die Sonne bereits gegen 17:00 Uhr untergeht, können Sie die dämmernde Parklandschaft vom warmen Fahrzeug aus genießen, bevor die Kälte draußen zunimmt.",
+            "hu": "Télen az autó a legideálisabb közlekedési eszköz Florya partjainál. Reggel a látótávolság gyakran kristálytiszta, ami messzi kilátást enged a tengerre. Napközben a fűtött mecsetek és múzeumok várják. Mivel a nap már 17:00 körül nyugszik, a szürkületi parkot a meleg autóból csodálhatja meg, mielőtt kint fagyossá válna a levegő.",
+            "ro": "Iarna, mașina este cel mai bun mijloc de transport pe coasta Florya. Dimineața, vizibilitatea este adesea cristalină, permițând vederi largi spre mare. La prânz, moscheile și muzeele încălzite sunt primitoare. Deoarece soarele apune la 17:00, puteți admira parcul în amurg din vehiculul cald înainte ca gerul să se intensifice.",
+            "en": "In winter, a car is the ideal way to explore Florya's coastline comfortably. Mornings often bring crystal-clear visibility for long-distance sea views. Heated mosques and museums are perfect stops at noon. Since the sun sets around 17:00, enjoy the twilight park scenery from your warm vehicle before the outside temperature drops further."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abdüsselam Camii",
+                "hu": "Abdüsselam Camii",
+                "ro": "Abdüsselam Camii",
+                "en": "Abdüsselam Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Fußbodenheizung macht den Besuch im Winter besonders angenehm; genießen Sie die spirituelle Wärme weit weg vom kalten Seewind.",
+                "hu": "A padlófűtés különösen kellemessé teszi a téli látogatást; élvezze a spirituális meleget távol a jeges tengeri széltől.",
+                "ro": "Încălzirea în pardoseală face vizita de iarnă foarte plăcută; bucurați-vă de căldura spirituală departe de vântul rece de pe mare.",
+                "en": "The floor heating makes a winter visit especially pleasant; enjoy the spiritual warmth far away from the icy sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Camii, Küçükçekmece",
+                "hu": "Fatih Camii, Küçükçekmece",
+                "ro": "Fatih Camii, Küçükçekmece",
+                "en": "Fatih Camii, Küçükçekmece"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz stehen für diesen beeindruckenden Bau; die klare Winterluft lässt die Details der Fassade besonders scharf wirken.",
+                "hu": "Hagyja ott az autót egy rövid időre ennél a lenyűgöző épületnél; a tiszta téli levegőben a homlokzat részletei élesebben látszanak.",
+                "ro": "Lăsați mașina pentru scurt timp pentru această clădire impresionantă; aerul clar de iarnă scoate în evidență detaliile fațadei.",
+                "en": "Leave your car for a brief moment to visit this impressive structure; the crisp winter air makes the architectural details stand out."
+              }
+            },
+            {
+              "name": {
+                "de": "Cennet Kültür Merkezi",
+                "hu": "Cennet Kültür Merkezi",
+                "ro": "Cennet Kültür Merkezi",
+                "en": "Cennet Kültür Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen zwischen den Fahrten; besuchen Sie eine der Ausstellungen in den wohltemperierten Räumen.",
+                "hu": "Tökéletes hely a felmelegedésre két autózás között; látogasson el az egyik kiállításra a kellemesen fűtött termekben.",
+                "ro": "Un loc perfect pentru a vă încălzi între drumuri; vizitați una dintre expozițiile din sălile bine temperate.",
+                "en": "A perfect spot to warm up between drives; visit one of the exhibitions in the comfortably heated indoor halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Forest",
+                "hu": "Atatürk Forest",
+                "ro": "Atatürk Forest",
+                "en": "Atatürk Forest"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit offenem Fenster für die frische Waldluft, aber nutzen Sie die Sitzheizung; der Wald wirkt im Winterschlaf sehr friedlich.",
+                "hu": "Hajtson leeresztett ablakkal a friss erdei levegőért, de használja az ülésfűtést; az erdő téli álma alatt nagyon békés látvány.",
+                "ro": "Conduceți cu geamul întredeschis pentru aerul proaspăt, dar folosiți încălzirea în scaune; pădurea este foarte liniștită iarna.",
+                "en": "Drive with the window cracked for fresh forest air while using seat heaters; the forest is very peaceful during its winter sleep."
+              }
+            },
+            {
+              "name": {
+                "de": "Menekşe Plajı Sahil Parkı Önü",
+                "hu": "Menekşe Plajı Sahil Parkı Önü",
+                "ro": "Menekşe Plajı Sahil Parkı Önü",
+                "en": "Menekşe Plajı Sahil Parkı Önü"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die winterliche Lagune; die tiefstehende Sonne sorgt für tolle Lichtreflexe auf dem Wasser.",
+                "hu": "A parkolóból remek kilátás nyílik a téli lagúnára; az alacsonyan járó nap csodás fényvisszaverődéseket produkál a vízen.",
+                "ro": "Din parcare aveți o vedere excelentă asupra lagunei iarna; soarele jos creează reflexii superbe pe suprafața apei.",
+                "en": "From the parking area, you have a great view of the winter lagoon; the low sun creates beautiful light reflections on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Florya Atatürk Deniz Köşkü",
+                "hu": "Florya Atatürk Deniz Köşkü",
+                "ro": "Florya Atatürk Deniz Köşkü",
+                "en": "Florya Atatürk Deniz Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter beheizt und bietet einen warmen Logenplatz am Meer; bewundern Sie das winterliche Panorama im Warmen.",
+                "hu": "A múzeum télen fűtött, és meleg páholyból kínál panorámát a tengerre; csodálja meg a téli látképet a jó meleg szobából.",
+                "ro": "Muzeul este încălzit iarna și oferă o vedere panoramică asupra mării; admirați peisajul hibernal din confortul interiorului.",
+                "en": "The museum is heated in winter, offering a warm front-row seat to the sea; admire the winter panorama from a cozy interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Aquarium",
+                "hu": "Istanbul Aquarium",
+                "ro": "Istanbul Aquarium",
+                "en": "Istanbul Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Winteraktivität für die ganze Familie; verbringen Sie hier den Nachmittag bis zum Sonnenuntergang im tropischen Klima.",
+                "hu": "Ideális téli program az egész családnak; töltse itt a délutánt a naplementéig a kellemes trópusi klímában a halak között.",
+                "ro": "Activitatea ideală de iarnă pentru întreaga familie; petreceți aici după-amiaza până la apus în climatul tropical interior.",
+                "en": "The ideal winter activity for everyone; spend the afternoon here until sunset in the warm tropical indoor climate."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Havalimanı Millet Bahçesi",
+                "hu": "Atatürk Havalimanı Millet Bahçesi",
+                "ro": "Atatürk Havalimanı Millet Bahçesi",
+                "en": "Atatürk Havalimanı Millet Bahçesi"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die blaue Stunde nach 17:00 Uhr vom warmen Auto aus; die weite Parkanlage wirkt in der Dämmerung sehr futuristisch.",
+                "hu": "Figyelje meg a kék órát 17:00 után a meleg autóból; a tágas park a szürkületben nagyon futurista látványt nyújt.",
+                "ro": "Observați ora albastră după 17:00 din mașina caldă; parcul vast arată foarte futurist la lăsarea serii.",
+                "en": "Watch the blue hour after 17:00 from the comfort of your warm car; the vast park feels very futuristic in the twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

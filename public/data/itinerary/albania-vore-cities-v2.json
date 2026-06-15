@@ -137,6 +137,168 @@
         "hu": "Gyalogos utunkat Vorëban a helyi tavak felé indulva kezdjük, azonnal átadva magunkat a csendes vidéki hangulatnak. A dél megérkeztével érintetlen víztározókhoz érünk, ahol az ösvények tökéletes menedéket nyújtanak. Délután folytatjuk a nyugodt vizek felfedezését, rejtett helyeket találva a vadvilág megfigyelésére. Ahogy közeledik az este, az utolsó tározó tükrözi a lemenő napot, festői módon zárva sétánkat.",
         "ro": "Începem plimbarea noastră în Vorë îndreptându-ne spre lacurile locale, îmbrățișând imediat atmosfera rurală liniștită. Amiaza ne aduce la o serie de rezervoare locale impecabile, unde traseele oferă o evadare perfectă în natură. În timpul după-amiezii, continuăm să explorăm aceste ape, găsind locuri ascunse perfecte pentru observarea faunei. Seara, ultimul rezervor reflectă soarele la apus, încheind plimbarea cu o scenă pitorească.",
         "en": "We start our walking journey in Vorë by heading to the local lakes, embracing the quiet rural atmosphere right away. The midday brings us to a series of pristine local reservoirs, where the gentle trails offer a perfect escape into nature's embrace. During the afternoon, we continue exploring these tranquil water bodies, finding hidden spots perfect for wildlife observation. As evening approaches, the last reservoir reflects the setting sun, concluding our active walk with a memorable and picturesque twilight scene."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt grau am See, wo der Regen leise auf das Wasser klatscht. Mittags ziehen Nebelschwaden über die Hügel von Vorë und hüllen die Stauseen in eine mystische Atmosphäre. Nachmittags fordern die aufgeweichten Pfade festes Schuhwerk, bieten aber einsame Naturerlebnisse. Am Abend kehren Sie durchnässt, aber erfrischt zurück, während die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "A nap szürkén indul a tónál, ahol az eső halkan kopog a vízen. Délben ködfátyol kúszik át a vorëi dombokon, misztikus hangulatba borítva a víztározókat. Délután a felázott ösvények biztos lépteket és vízálló bakancsot követelnek, de cserébe magányos és tiszta természeti élményt nyújtanak. Estére vizesen, de felfrissülve térhetünk vissza, miközben a város fényei megcsillannak a nedves aszfalton.",
+            "ro": "Ziua începe cenușie la lac, unde ploaia bate ușor în apă. La prânz, fâșii de ceață trec peste dealurile din Vorë, învăluind rezervoarele într-o atmosferă mistică. După-amiaza, potecile noroioase necesită încălțăminte solidă, dar oferă experiențe solitare în natură. Seara vă întoarceți uzi, dar revigorați, în timp ce luminile orașului se reflectă în asfaltul umed și strălucitor.",
+            "en": "The day begins grey by the lake, with rain tapping softly on the water. At noon, mist drifts over the hills of Vorë, shrouding the reservoirs in a mystical atmosphere. In the afternoon, the softened paths demand sturdy waterproof boots but offer solitary and pure nature experiences. By evening, you return damp but refreshed, as the city lights shimmer on the wet asphalt and puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die tanzenden Regentropfen auf der weiten Wasserfläche; nutzen Sie die überdachten Stellen am Ufer, da die unbefestigten Wege heute sehr schlammig sind.",
+                "hu": "Figyelje meg a vízen táncoló esőcseppeket a tágas felszínen; maradjon a part menti fedettebb részeken, mert a kiépítetlen utak ma rendkívül sárosak és csúszósak.",
+                "ro": "Observați picăturile de ploaie dansând pe suprafața vastă a apei; folosiți locurile adăpostite de pe mal, deoarece potecile neamenajate sunt foarte noroioase astăzi.",
+                "en": "Watch the raindrops dancing on the vast water surface; stay near the sheltered spots on the shore as the unpaved paths are extremely muddy and slippery today."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Dunjve",
+                "hu": "Liqeni i Dunjve",
+                "ro": "Liqeni i Dunjve",
+                "en": "Liqeni i Dunjve"
+              },
+              "tip_5lang": {
+                "de": "Der dichte Nebel verleiht diesem kleinen See eine fast magische Stille; tragen Sie unbedingt eine regenfeste Hose, da das hohe Gras am Ufer das Wasser stark hält.",
+                "hu": "A sűrű köd szinte mágikus csendet kölcsönöz ennek a kis tónak; viseljen vízálló nadrágot, mert a parti magas fű erősen tartja a nedvességet és azonnal átázik.",
+                "ro": "Ceața densă conferă acestui mic lac o liniște aproape magică; purtați neapărat pantaloni impermeabili, deoarece iarba înaltă de pe mal reține multă apă astăzi.",
+                "en": "The dense mist lends an almost magical silence to this small lake; wear waterproof trousers as the tall grass on the shore holds moisture and soaks through instantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Gjokaj",
+                "hu": "Rezervuari Gjokaj",
+                "ro": "Rezervuari Gjokaj",
+                "en": "Rezervuari Gjokaj"
+              },
+              "tip_5lang": {
+                "de": "Die grünen Hügel leuchten im Regen besonders intensiv und wirken sehr frisch; meiden Sie die steileren Böschungen, da der lehmige Boden bei Nässe extrem rutschig wird.",
+                "hu": "A zöld dombok az esőben különösen intenzíven ragyognak és friss illatot árasztanak; kerülje a meredekebb rézsűket, mert az agyagos talaj most rendkívül csúszós.",
+                "ro": "Dealurile verzi strălucesc intens în ploaie și emană un miros proaspăt; evitați taluzurile mai abrupte, deoarece solul argilos devine extrem de alunecos la umezeală.",
+                "en": "The green hills glow intensely in the rain and emit a very fresh scent; avoid the steeper slopes as the clay-like soil becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Zajes",
+                "hu": "Rezervuari Zajes",
+                "ro": "Rezervuari Zajes",
+                "en": "Rezervuari Zajes"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Wolken beim Vorbeiziehen über dem Wasserspiegel zuzusehen; ein großer, stabiler Regenschirm ist hier wegen der exponierten Lage auf dem Damm wichtig.",
+                "hu": "Csendes hely, ahol nézheti a víztükör felett elvonuló felhőket; a gáton lévő szeles, kitett helyszín miatt egy nagy és stabil esernyő vagy viharkabát elengedhetetlen.",
+                "ro": "Un loc liniștit pentru a privi norii trecând peste oglinda apei; o umbrelă mare și stabilă este esențială aici din cauza locației expuse pe coronamentul digului.",
+                "en": "A quiet spot to watch the clouds passing over the water's surface; a large, sturdy umbrella is essential here due to the exposed and windy position on the dam."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Koni",
+                "hu": "Rezervuari Koni",
+                "ro": "Rezervuari Koni",
+                "en": "Rezervuari Koni"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das rhythmische Geräusch des Regens im Schilf am Seeufer; suchen Sie unter den Bäumen Schutz, aber achten Sie auf herabfallende nasse Äste.",
+                "hu": "Élvezze az eső ritmikus kopogását a tóparti nádasban; keressen menedéket a fák alatt a zápor idejére, de vigyázzon a nehéz, nedves ágakra a szélben.",
+                "ro": "Bucurați-vă de sunetul ritmic al ploii în stuful de pe malul lacului; căutați adăpost sub copaci în timpul aversei, dar fiți atenți la crengile ude care pot cădea.",
+                "en": "Enjoy the rhythmic sound of rain in the reeds at the lakeshore; seek shelter under the trees during downpours, but watch out for heavy, wet branches in the wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die fernen Gipfel scharf am Horizont erscheinen. Mittags steht die Sonne tief und glitzert auf den kalten Stauseen von Vorë, während ein kühler Wind weht. Der Nachmittag ist kurz, daher sollten Sie die Naturwege zügig erkunden. Gegen 17:00 Uhr setzt die Dämmerung ein und hüllt die karge Landschaft in ein sanftes Violett, bevor die frostige Nacht beginnt.",
+            "hu": "A tiszta reggeli téli levegőben az Albán-Alpok távoli csúcsai élesen kirajzolódnak a látóhatáron. Délben az alacsonyan járó nap megcsillan a víztározók jéghideg tükrén. A délután rövid, ezért érdemes tempósan haladni a túraösvényeken. 17:00 körül leszáll az alkony, lágy lila fénybe vonva a kopár tájat, mielőtt beállna a fagyos és csöndes éjszaka.",
+            "ro": "Aerul clar de iarnă de dimineață face ca vârfurile îndepărtate să pară ascuțite la orizont. La prânz, soarele jos strălucește pe rezervoarele reci din Vorë, în timp ce bate un vânt tăios. După-amiaza este scurtă, așa că explorați rapid cărările naturale. În jurul orei 17:00 se lasă amurgul, îmbrăcând peisajul auster în violet, înainte de noaptea geroasă.",
+            "en": "The clear winter morning air makes the distant peaks appear sharp on the horizon. At noon, the low sun glitters on the cold reservoirs of Vorë while a chilly wind blows. The afternoon is short, so explore the nature trails promptly. Around 17:00, twilight sets in, shrouding the sparse landscape in soft purple before the frosty night begins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche wirkt im Winterlicht besonders friedlich und still; tragen Sie winddichte Kleidung, da die Kälte über dem offenen Wasser deutlich intensiver spürbar ist.",
+                "hu": "A tágas felszín a téli fényben különösen békésnek és csendesnek tűnik; viseljen szélálló ruházatot, mert a nyílt víz felett a hideg sokkal intenzívebben érezhető.",
+                "ro": "Suprafața vastă pare deosebit de pașnică și tăcută în lumina iernii; purtați haine rezistente la vânt, deoarece frigul peste apa deschisă se simte mult mai intens.",
+                "en": "The vast surface looks particularly peaceful and silent in the winter light; wear windproof clothing as the cold over the open water is felt much more intensely."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Dunjve",
+                "hu": "Liqeni i Dunjve",
+                "ro": "Liqeni i Dunjve",
+                "en": "Liqeni i Dunjve"
+              },
+              "tip_5lang": {
+                "de": "Ein verstecktes Juwel, das im Winter oft von Reif bedeckt ist und silbern glänzt; achten Sie auf den gefrorenen Boden am Ufer, der sehr tückisch glatt sein kann.",
+                "hu": "Egy rejtett ékszerdoboz, amelyet télen gyakran dér borít és ezüstösen csillog; ügyeljen a parti fagyott talajra, amely alattomos módon rendkívül csúszós lehet.",
+                "ro": "O bijuterie ascunsă, adesea acoperită de chiciură iarna, strălucind argintiu; aveți grijă la solul înghețat de pe mal, care poate fi extrem de alunecos și înșelător.",
+                "en": "A hidden gem often covered in hoarfrost in winter, shimmering silver; watch out for the frozen ground on the shore, which can be treacherously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Gjokaj",
+                "hu": "Rezervuari Gjokaj",
+                "ro": "Rezervuari Gjokaj",
+                "en": "Rezervuari Gjokaj"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden kahlen Bäume geben den Blick auf die gesamte Hügellandschaft frei; Thermosocken sind hier wichtig, da die Feuchtigkeit aus dem Boden schnell in die Füße zieht.",
+                "hu": "A környező kopár fák most szabad kilátást engednek az egész dombvidékre; a hőszigetelő zokni fontos, mert a talaj felőli nedvesség és hideg gyorsan áthűti a lábat.",
+                "ro": "Copacii goi din jur oferă acum o vedere liberă asupra întregului peisaj deluros; șosetele termice sunt importante aici, deoarece umezeala din sol răcește rapid picioarele.",
+                "en": "The surrounding bare trees now allow an unobstructed view of the entire hilly landscape; thermal socks are vital here as ground moisture quickly chills your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Zajes",
+                "hu": "Rezervuari Zajes",
+                "ro": "Rezervuari Zajes",
+                "en": "Rezervuari Zajes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Panoramablick unter dem tiefblauen, kalten Winterhimmel; bringen Sie einen heißen Tee in einer Thermoskanne mit, um sich beim Rasten aufzuwärmen.",
+                "hu": "Élvezze a tágas panorámát a mélykék, hideg téli égbolt alatt; hozzon magával forró teát termoszban, hogy átmelegedjen a gáton való rövid pihenő közben.",
+                "ro": "Bucurați-vă de panorama vastă sub cerul albastru și rece de iarnă; aduceți un ceai fierbinte într-un termos pentru a vă încălzi în timpul popasului de pe dig.",
+                "en": "Enjoy the expansive panorama under the deep blue, cold winter sky; bring hot tea in a thermos to warm up during a brief rest on the exposed dam."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Koni",
+                "hu": "Rezervuari Koni",
+                "ro": "Rezervuari Koni",
+                "en": "Rezervuari Koni"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die überwinternden Vögel, die im eiskalten Wasser nach Nahrung suchen; planen Sie den Rückweg rechtzeitig ein, da es im Waldgebiet früh dunkel wird.",
+                "hu": "Figyelje meg az áttelelő madarakat, amint az éles fényben élelmet keresnek a vízen; tervezze meg időben a visszautat, mert az erdős részen hamar sötétedik.",
+                "ro": "Observați păsările care iernează căutând hrană în apa înghețată; planificați drumul de întoarcere din timp, deoarece în zona împădurită se întunecă devreme.",
+                "en": "Observe the wintering birds searching for food in the icy water; plan your return journey in good time as it gets dark early in the forested sections."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpáros kalandunk a nagyobb északi víztározók felé gurulva kezdődik, élvezve a hűvös reggeli levegőt és a kavicsos utakat. Délre leereszkedünk az összekapcsolt vízforrásokhoz, megpihenve a partokon, hogy értékeljük a tájat. A délutáni tekerés közelebb visz minket a központi tavakhoz, ahol az ökoszisztéma életre kel. A Huqve-tó felett megnyúló árnyékok idején fejezzük be a kört, elégedettséggel és békével.",
         "ro": "Aventura noastră pe bicicletă începe rulând spre rezervoarele nordice mai mari, bucurându-ne de aerul rece de dimineață. Până la prânz, ne croim drum spre sursele de apă interconectate, făcând pauze de-a lungul țărmurilor pentru a admira peisajul. Plimbarea de după-amiază ne apropie de lacurile centrale, unde traseele devin mai vibrante. Ne terminăm traseul pe măsură ce umbrele se lungesc peste Lacul Huqve, într-o liniște deplină.",
         "en": "Our cycling adventure begins by rolling towards the larger northern reservoirs, enjoying the cool morning air and the open gravel paths. By midday, we weave our way down to interconnected water sources, taking breaks along the shores to hydrate and appreciate the landscape. The afternoon ride brings us closer to the central lakes, where the ecosystem comes alive with birds and the trails become more vibrant. We finish our cycling loop as the shadows lengthen over Huqve Lake, leaving us with a satisfying sense of accomplishment and peace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour durch die Hügel von Vorë, wo der Asphalt glänzt und die Erde duftet. Vormittags erfordern die Anstiege zu den Stauseen volle Konzentration und gute Bremsen. Mittags bietet der Regen eine willkommene Abkühlung, macht die Abfahrten aber anspruchsvoll. Nachmittags spritzt das Wasser von den Reifen, während Sie einsame Uferwege erkunden. Ein Tag für echte Enthusiasten, die Matsch nicht scheuen.",
+            "hu": "Esős kerékpártúra Vorë dombjai között, ahol az aszfalt csillog és a föld illata betölti a levegőt. Délelőtt a víztározókhoz vezető emelkedők teljes koncentrációt és jó fékeket igényelnek. Délben az eső felfrissít, de a lejtők trükkösek lehetnek. Délután a sár felcsap a kerekekről, miközben magányos parti utakat fedez fel. Ez a nap az igazi megszállottaké, akiket nem zavar a sár.",
+            "ro": "O tură cu bicicleta pe ploaie prin dealurile din Vorë, unde asfaltul strălucește și pământul miroase proaspăt. Dimineața, urcările spre rezervoare cer concentrare și frâne bune. La prânz, ploaia oferă o răcorire binevenită, dar face coborârile solicitante. După-amiaza, apa stropește din roți în timp ce explorați maluri solitare. O zi pentru entuziaștii care nu se tem de noroi.",
+            "en": "A rainy bike tour through the hills of Vorë, where the asphalt shimmers and the earth smells fresh. In the morning, the climbs to the reservoirs require full concentration and reliable brakes. At noon, the rain provides a cool break but makes descents challenging. In the afternoon, water splashes from the tires as you explore lonely lakeside paths. A day for true enthusiasts who don't mind the mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rezervuari Prezes",
+                "hu": "Rezervuari Prezes",
+                "ro": "Rezervuari Prezes",
+                "en": "Rezervuari Prezes"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Burg Preza im Regen ist dramatisch und wolkenverhangen; prüfen Sie Ihre Bremsbeläge vor der Abfahrt, da die nassen Kurven sehr rutschig sind.",
+                "hu": "Preza várának látványa az esőben drámai és felhőkbe burkolózik; ellenőrizze a fékbetéteket az indulás előtt, mert a vizes kanyarok rendkívül csúszósak lefelé.",
+                "ro": "Vederea spre castelul Preza în ploaie este dramatică și înnorată; verificați saboții de frână înainte de plecare, deoarece curbele umede sunt foarte alunecoase.",
+                "en": "The view of Preza Castle in the rain is dramatic and clouded; check your brake pads before starting the descent as the wet corners are very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Zajes",
+                "hu": "Rezervuari Zajes",
+                "ro": "Rezervuari Zajes",
+                "en": "Rezervuari Zajes"
+              },
+              "tip_5lang": {
+                "de": "Die glatte Wasseroberfläche wird von tausenden Tropfen gleichzeitig getroffen; nutzen Sie Schutzbleche an Ihrem Fahrrad, um sich vor dem aufgewirbelten Schlamm zu schützen.",
+                "hu": "A sima víztükröt egyszerre több ezer esőcsepp töri meg; használjon sárvédőt a kerékpáron, hogy megvédje magát és ruházatát a kerekek által felvert sártól.",
+                "ro": "Suprafața netedă a apei este lovită de mii de picături simultan; folosiți aripi la bicicletă pentru a vă proteja de noroiul aruncat de roți pe drumurile de pământ.",
+                "en": "The smooth water surface is struck by thousands of droplets at once; use mudguards on your bike to protect yourself from the mud thrown up by the tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Koni",
+                "hu": "Rezervuari Koni",
+                "ro": "Rezervuari Koni",
+                "en": "Rezervuari Koni"
+              },
+              "tip_5lang": {
+                "de": "Ein idyllischer Stopp, um die Natur in ihrer nassesten Form zu erleben; tragen Sie eine helle Regenjacke mit Reflektoren, um bei schlechter Sicht besser gesehen zu werden.",
+                "hu": "Idilli megálló, ahol a természetet a legvizesebb formájában tapasztalhatja meg; viseljen fényvisszaverős esőkabátot, hogy a rossz látási viszonyok között is észrevegyék.",
+                "ro": "Un popas idilic pentru a experimenta natura în forma sa cea mai umedă; purtați o jachetă de ploaie cu reflectorizante pentru a fi vizibil în condiții de vizibilitate scăzută.",
+                "en": "An idyllic stop to experience nature in its wettest form; wear a bright rain jacket with reflectors to be easily seen in the poor visibility conditions today."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Der größte See der Tour wirkt unter den Regenwolken unendlich weit; meiden Sie Pfützen, da diese oft tiefer sind als erwartet und Schlaglöcher verbergen können.",
+                "hu": "A túra legnagyobb tava a viharfelhők alatt végtelennek tűnik; kerülje a pocsolyákat, mert gyakran mélyebbek a vártnál és veszélyes kátyúkat rejthetnek.",
+                "ro": "Cel mai mare lac al turului pare infinit sub norii de ploaie; evitați bălțile, deoarece acestea sunt adesea mai adânci decât par și pot ascunde gropi periculoase.",
+                "en": "The largest lake of the tour seems infinite under the rain clouds; avoid puddles as they are often deeper than expected and can hide dangerous potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Ein wilder Abschluss der Tour, wo der Regen die Natur zum Leben erweckt; reinigen Sie Ihre Kette direkt nach der Fahrt, um Korrosion durch das Salzwasser zu verhindern.",
+                "hu": "A túra vadregényes zárása, ahol az eső életre kelti a természetet; a túra után közvetlenül tisztítsa meg a láncot, hogy megelőzze a sár okozta kopást.",
+                "ro": "Un final sălbatic al turului, unde ploaia readuce natura la viață; curățați lanțul imediat după tură pentru a preveni coroziunea cauzată de noroi și apă.",
+                "en": "A wild end to the tour, where the rain brings nature to life; clean your bike chain immediately after the ride to prevent corrosion from the mud and grit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt durch die sanfte Hügellandschaft von Mittelalbanien. Morgens ist die Luft beißend kalt, aber die klare Sicht entschädigt für alles. Mittags wärmt die Sonne nur schwach, während Sie von See zu See radeln. Am Nachmittag sinken die Temperaturen spürbar, sobald die Sonne hinter den Hügeln verschwindet. Beenden Sie die Tour vor Einbruch der Dunkelheit, um sicher und warm zurückzukehren.",
+            "hu": "Frissítő téli tekerés Közép-Albánia szelíd dombjai között. Reggel a levegő metszően hideg, de a tiszta kilátás mindenért kárpótol. Délben a nap csak gyengén melegít, miközben tóról tóra biciklizik. Délután a hőmérséklet érezhetően zuhan, amint a nap eltűnik a dombok mögött. Fejezze be a túrát sötétedés előtt, hogy biztonságban és melegben érjen haza.",
+            "ro": "O tură revigorantă de iarnă prin peisajul colinar blând al Albaniei Centrale. Dimineața aerul este tăios, dar vizibilitatea clară compensează totul. La prânz, soarele încălzește slab în timp ce pedalați de la un lac la altul. După-amiaza, temperaturile scad simțitor imediat ce soarele dispare. Încheiați turul înainte de lăsarea întunericului pentru siguranță.",
+            "en": "A refreshing winter ride through the gentle hills of central Albania. In the morning, the air is biting cold, but the clear views compensate for everything. At noon, the sun warms only faintly as you cycle from lake to lake. In the afternoon, temperatures drop noticeably as soon as the sun disappears behind the hills. Finish the tour before dark to return safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rezervuari Prezes",
+                "hu": "Rezervuari Prezes",
+                "ro": "Rezervuari Prezes",
+                "en": "Rezervuari Prezes"
+              },
+              "tip_5lang": {
+                "de": "Die Burg von Preza steht majestätisch über dem frostigen Tal; tragen Sie winddichte Handschuhe, da der Fahrtwind bei den Abfahrten extrem auskühlt.",
+                "hu": "Preza vára fenségesen magasodik a fagyos völgy fölé; viseljen szélálló kesztyűt, mert a menetszél a lejtőkön pillanatok alatt lefagyasztja az ujjait.",
+                "ro": "Castelul Preza se înalță maiestuos deasupra văii înghețate; purtați mănuși rezistente la vânt, deoarece curentul de aer de la coborâri vă va îngheța mâinile.",
+                "en": "Preza Castle stands majestically above the frosty valley; wear windproof gloves as the wind chill during descents will freeze your fingers instantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Zajes",
+                "hu": "Rezervuari Zajes",
+                "ro": "Rezervuari Zajes",
+                "en": "Rezervuari Zajes"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter tiefblau und wirkt sehr ruhig; achten Sie auf Raureif auf den Brücken und schattigen Abschnitten, dort besteht akute Rutschgefahr.",
+                "hu": "A víz télen mélykék és rendkívül nyugodtnak tűnik; ügyeljen a zúzmarára a hidakon és az árnyékos szakaszokon, mert ott komoly csúszásveszély áll fenn.",
+                "ro": "Apa este albastru închis iarna și pare foarte liniștită; atenție la chiciura de pe poduri și din porțiunile umbrite, unde există pericol de derapaj.",
+                "en": "The water is deep blue in winter and appears very calm; watch out for hoarfrost on bridges and shaded sections, as there is a serious risk of slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Koni",
+                "hu": "Rezervuari Koni",
+                "ro": "Rezervuari Koni",
+                "en": "Rezervuari Koni"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort, perfekt für eine kurze Pause in der Wintersonne; halten Sie Ihre Muskeln durch leichte Bewegung warm, während Sie die Aussicht genießen.",
+                "hu": "Magányos hely, tökéletes egy rövid pihenőre a téli napsütésben; tartsa melegen az izmait folyamatos mozgolódással, miközben a kilátást élvezi.",
+                "ro": "Un loc solitar, perfect pentru o scurtă pauză la soarele de iarnă; mențineți-vă mușchii calzi prin mișcare ușoară în timp ce admirați priveliștea.",
+                "en": "A solitary spot, perfect for a short break in the winter sun; keep your muscles warm with light movement while you enjoy the cold but beautiful view."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Ufervegetation erlaubt weite Blicke über das Wasser; kontrollieren Sie Ihren Reifendruck, da kalte Luft das Volumen in den Schläuchen verringert.",
+                "hu": "A kopár parti növényzet messzi kilátást enged a víz felett; ellenőrizze a guminyomást, mert a hideg levegő miatt csökkenhet a nyomás a belsőkben.",
+                "ro": "Vegetația golașă de pe mal permite vederi largi peste apă; verificați presiunea în pneuri, deoarece aerul rece reduce volumul acestora în camere.",
+                "en": "The bare shore vegetation allows for wide views across the water; check your tire pressure as cold air reduces the volume in the tubes significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel der Tour liegt oft im kühlen Schatten der Hügel; ziehen Sie für die letzte Etappe eine zusätzliche Schicht an, da die Körperwärme schnell sinkt.",
+                "hu": "A túra célpontja gyakran a dombok hűvös árnyékába esik; vegyen fel egy plusz réteget az utolsó szakaszra, mert a test hőmérséklete gyorsan csökkenhet.",
+                "ro": "Destinația turului este adesea în umbra răcoroasă a dealurilor; puneți un strat suplimentar pentru ultima etapă, deoarece temperatura corpului scade rapid.",
+                "en": "The tour's destination is often in the cool shadow of the hills; put on an extra layer for the final stage as your body heat can drop very quickly now."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Korán útnak indulunk a Vorë régió nyugati tavai felé, hogy nyugodtan kezdjük festői autós túránkat. Északabbra haladva a déli órákat a változatos vízi ökoszisztémák felfedezésével töltjük, amelyek gyönyörű kontrasztokat kínálnak. Délután a keleti víztározókhoz cirkálunk, kihasználva a mobilitást a legnagyobb rejtett tavak megtekintésére. Autós utunk egy eldugott déli víztározónál ér véget, amely tökéletes a csendes naplemente megtekintéséhez.",
         "ro": "Pornim devreme la drum pentru a ajunge la lacurile din vestul regiunii Vorë, asigurând un început pașnic al turului nostru pitoresc. Conducând mai la nord, orele prânzului sunt petrecute explorând ecosisteme acvatice diverse, oferind contraste frumoase. După-amiaza, coborâm spre rezervoarele estice, profitând de mobilitate pentru a vedea marile lacuri ascunse. Călătoria se încheie lângă un rezervor sudic izolat, perfect pentru un apus liniștit.",
         "en": "We hit the road early to reach the far western lakes of the Vorë region, securing a peaceful start to our scenic driving tour. Driving further north, the midday hours are spent exploring diverse aquatic ecosystems, offering beautiful contrasts of greenery and water. In the afternoon, we cruise down to the eastern reservoirs, taking advantage of the mobility to see the region's largest hidden lakes. Our road trip concludes by a secluded southern reservoir, perfect for watching a quiet sunset before easily navigating back to the highway."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine entspannte Panoramafahrt durch die verregnete Hügellandschaft von Vorë. Vormittags gleitet das Auto über nasse Landstraßen, während der Regen gegen die Scheiben trommelt. Mittags bieten die Stauseen ein dramatisches Bild mit tief hängenden Wolken. Der Nachmittag lädt zu kurzen Stopps an Aussichtspunkten ein, bevor Sie im warmen Fahrzeuginneren die Fahrt durch den Nebel fortsetzen.",
+            "hu": "Pihentető panorámaút az esős vorëi dombok között. Délelőtt az autó halkan siklik a vizes országutakon, miközben az eső a szélvédőn kopog. Délben a víztározók drámai látványt nyújtanak a mélyen szálló felhőkkel. A délután rövid megállókra csábít a kilátópontoknál, mielőtt a meleg utastérben folytatná az utat a ködös, párás tájon keresztül.",
+            "ro": "O plimbare relaxantă cu mașina prin peisajul deluros plouat din Vorë. Dimineața, mașina alunecă pe drumurile ude, în timp ce ploaia bate în parbriz. La prânz, rezervoarele oferă o imagine dramatică cu nori joși. După-amiaza invită la scurte opriri în puncte de belvedere, înainte de a continua drumul prin ceață în confortul mașinii.",
+            "en": "A relaxing scenic drive through the rainy hills of Vorë. In the morning, the car glides over wet country roads while rain drums against the windshield. At noon, the reservoirs offer a dramatic sight with low-hanging clouds. The afternoon invites short stops at viewpoints before continuing the journey through the mist in the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Borçës",
+                "hu": "Liqeni i Borçës",
+                "ro": "Liqeni i Borçës",
+                "en": "Liqeni i Borçës"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stausee, der im Regen besonders geheimnisvoll wirkt; parken Sie auf befestigtem Untergrund, um ein Festfahren im aufgeweichten Boden zu vermeiden.",
+                "hu": "Csendes víztározó, amely az esőben különösen titokzatosnak tűnik; csak szilárd burkolatú helyen parkoljon, hogy elkerülje az elakadást a felázott talajon.",
+                "ro": "Un rezervuar liniștit care pare misterios în ploaie; parcați pe o suprafață solidă pentru a evita împotmolirea în solul moale de pe marginea drumului.",
+                "en": "A quiet reservoir that looks especially mysterious in the rain; park only on paved surfaces to avoid getting stuck in the softened ground nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Rrubjekes",
+                "hu": "Liqeni i Rrubjekes",
+                "ro": "Liqeni i Rrubjekes",
+                "en": "Liqeni i Rrubjekes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Wasser direkt aus dem trockenen Auto; schalten Sie das Abblendlicht ein, da die Sichtverhältnisse durch den Sprühregen eingeschränkt sind.",
+                "hu": "Élvezze a kilátást a vízre közvetlenül a száraz autóból; kapcsolja be a tompított fényszórót, mert a látási viszonyokat korlátozza a kerekek által felvert vízpermet.",
+                "ro": "Bucurați-vă de vederea spre apă direct din mașina uscată; aprindeți faza scurtă, deoarece vizibilitatea este limitată de pulverizarea apei de pe carosabil.",
+                "en": "Enjoy the view of the water directly from your dry car; turn on your dipped headlights as visibility is limited by the road spray and mist today."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Bubqit",
+                "hu": "Liqeni i Bubqit",
+                "ro": "Liqeni i Bubqit",
+                "en": "Liqeni i Bubqit"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Wälder wirken im Regen sehr dunkel und dicht; fahren Sie auf den schmalen Zufahrtswegen besonders vorsichtig, da Laub den Asphalt rutschig macht.",
+                "hu": "A környező erdők az esőben sötétnek és sűrűnek tűnnek; a keskeny bekötőutakon vezessen óvatosan, mert a nedves levelek csúszóssá teszik az aszfaltot.",
+                "ro": "Pădurile din jur par foarte întunecate și dense în ploaie; conduceți cu atenție pe drumurile înguste, deoarece frunzele ude fac asfaltul alunecos.",
+                "en": "The surrounding forests look dark and dense in the rain; drive carefully on narrow access roads as wet leaves can make the asphalt very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Prezes",
+                "hu": "Rezervuari Prezes",
+                "ro": "Rezervuari Prezes",
+                "en": "Rezervuari Prezes"
+              },
+              "tip_5lang": {
+                "de": "Die Burg oben auf dem Hügel verschwindet oft halb in den Wolken; achten Sie auf Aquaplaning in den Senken der Bergstraße nach starken Regengüssen.",
+                "hu": "A dombtetőn lévő vár gyakran félig a felhőkbe vész; ügyeljen az úton kialakuló vízátfolyásokra és a felúszás veszélyére a hegyi szakaszokon.",
+                "ro": "Castelul de pe deal dispare adesea pe jumătate în nori; atenție la acvaplanare în porțiunile joase ale drumului montan după aversale puternice.",
+                "en": "The castle on the hill often half-disappears into the clouds; watch out for aquaplaning in the hollows of the mountain road after heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari i Kasharit",
+                "hu": "Rezervuari i Kasharit",
+                "ro": "Rezervuari i Kasharit",
+                "en": "Rezervuari i Kasharit"
+              },
+              "tip_5lang": {
+                "de": "Ein beliebter Ort, der bei Regen angenehm leer und ruhig ist; prüfen Sie die Funktion Ihrer Scheibenwischer, um eine klare Sicht auf das Seeufer zu haben.",
+                "hu": "Népszerű hely, amely esőben kellemesen üres és nyugodt; ellenőrizze az ablaktörlők állapotát, hogy tiszta kilátása legyen a tóparti panorámára.",
+                "ro": "Un loc popular, care pe ploaie este plăcut de gol și liniștit; verificați funcționarea ștergătoarelor pentru a avea o vedere clară asupra malului lacului.",
+                "en": "A popular spot that is pleasantly empty and quiet in the rain; check your wiper blades to ensure a clear view of the lakeside panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Purrezit",
+                "hu": "Rezervuari Purrezit",
+                "ro": "Rezervuari Purrezit",
+                "en": "Rezervuari Purrezit"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss mit Blick auf das im Regen glänzende Wasser; schalten Sie die Klimaanlage ein, um das Beschlagen der Scheiben von innen zu verhindern.",
+                "hu": "A túra méltó zárása kilátással az esőben csillogó vízre; kapcsolja be a páramentesítőt, hogy megelőzze a szélvédő belső elhomályosodását.",
+                "ro": "Finalul perfect cu vedere la apa care strălucește în ploaie; porniți aerul condiționat pentru a preveni aburirea geamurilor pe interior.",
+                "en": "The perfect finale with a view of the water shimmering in the rain; use the air conditioning to prevent the windshield from fogging up on the inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine komfortable Winterreise durch das Herz Albaniens. Morgens genießen Sie die klare Sicht aus dem beheizten Wagen, während draußen der Frost die Wiesen weiß färbt. Mittags stehen die tiefblauen Stauseen im Kontrast zur kargen Vegetation. Der Nachmittag bietet goldenes Licht für Fotos, bevor die Sonne früh sinkt. Am Abend kehren Sie zurück, wenn die Lichter von Vorë in der kalten Nachtluft funkeln.",
+            "hu": "Kényelmes téli utazás Albánia szívében. Reggel a fűtött autóból élvezheti a kilátást, miközben odakint a dér fehéren csillog a réteken. Délben a mélykék víztározók kontrasztot alkotnak a kopár növényzettel. A délután aranyló fényeket kínál a fotózáshoz, mielőtt a nap korán lebukna. Este térhet vissza, amikor Vorë fényei szikráznak a hideg éjszakai levegőben.",
+            "ro": "O călătorie confortabilă de iarnă prin inima Albaniei. Dimineața vă bucurați de vizibilitatea clară din mașina încălzită, în timp ce afară bruma albește câmpiile. La prânz, rezervoarele albastru închis contrastează cu vegetația golașă. După-amiaza oferă lumină aurie pentru fotografii, înainte de apusul timpuriu. Seara, luminile din Vorë scânteiază în aerul rece.",
+            "en": "A comfortable winter journey through the heart of Albania. In the morning, enjoy the clear views from your heated car while outside, frost paints the meadows white. At noon, the deep blue reservoirs contrast with the sparse vegetation. The afternoon offers golden light for photos before the early sunset. Return in the evening as the lights of Vorë sparkle in the cold air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Borçës",
+                "hu": "Liqeni i Borçës",
+                "ro": "Liqeni i Borçës",
+                "en": "Liqeni i Borçës"
+              },
+              "tip_5lang": {
+                "de": "Der See liegt still unter dem blassen Winterhimmel; achten Sie auf Eisglätte auf den Parkplätzen, besonders in den schattigen Bereichen am Waldrand.",
+                "hu": "A tó mozdulatlanul fekszik a halvány téli égbolt alatt; ügyeljen a jegesedésre a parkolókban, különösen az erdőszéli árnyékos részeken.",
+                "ro": "Lacul zace nemișcat sub cerul palid de iarnă; atenție la gheața din parcări, în special în zonele umbrite de la marginea pădurii.",
+                "en": "The lake lies still under the pale winter sky; watch out for icy patches in the parking areas, especially in the shaded spots near the woods."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Rrubjekes",
+                "hu": "Liqeni i Rrubjekes",
+                "ro": "Liqeni i Rrubjekes",
+                "en": "Liqeni i Rrubjekes"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft erlaubt weite Blicke über das Wasser; kontrollieren Sie den Frostschutz in Ihrer Scheibenwaschanlage, damit diese bei Frost nicht einfriert.",
+                "hu": "A tiszta levegő messzi kilátást enged a víz felett; ellenőrizze a fagyállót a szélvédőmosóban, hogy ne fagyjon be a fúvóka a hideg menetszélben.",
+                "ro": "Aerul clar permite vederi largi peste apă; verificați antigelul din lichidul de parbriz pentru a preveni înghețarea acestuia în timpul mersului.",
+                "en": "The clear air allows for distant views across the water; check the antifreeze in your washer fluid to prevent it from freezing while driving today."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Bubqit",
+                "hu": "Liqeni i Bubqit",
+                "ro": "Liqeni i Bubqit",
+                "en": "Liqeni i Bubqit"
+              },
+              "tip_5lang": {
+                "de": "Ein idyllischer Ort, der im Winter fast menschenleer ist; bleiben Sie auf den Hauptwegen, da Nebenstraßen oft nicht geräumt oder bei Frost sehr glatt sind.",
+                "hu": "Idilli hely, amely télen szinte teljesen néptelen; maradjon a főutakon, mert a mellékutak gyakran nincsenek letakarítva és fagy esetén csúszósak.",
+                "ro": "Un loc idilic, aproape pustiu iarna; rămâneți pe drumurile principale, deoarece cele secundare pot fi necurățate și foarte alunecoase la îngheț.",
+                "en": "An idyllic spot that is almost deserted in winter; stay on the main roads as secondary paths may not be cleared and can be very slippery when frozen."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Prezes",
+                "hu": "Rezervuari Prezes",
+                "ro": "Rezervuari Prezes",
+                "en": "Rezervuari Prezes"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneiten Berge in der Ferne ist im Winter am besten; prüfen Sie Ihr Reifenprofil für die kurvige Bergauffahrt zur Burg Preza.",
+                "hu": "A távoli havas hegyek látványa télen a legszebb; ellenőrizze a gumiabroncsok profilmélységét a Preza várához vezető kanyargós emelkedő előtt.",
+                "ro": "Vederea munților înzăpeziți din depărtare este cea mai frumoasă iarna; verificați profilul anvelopelor pentru urcarea sinuoasă spre castelul Preza.",
+                "en": "The view of the snowy mountains in the distance is best in winter; check your tire tread before the winding uphill drive to Preza Castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari i Kasharit",
+                "hu": "Rezervuari i Kasharit",
+                "ro": "Rezervuari i Kasharit",
+                "en": "Rezervuari i Kasharit"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für tolle Lichtreflexe auf dem Wasser; planen Sie Ihre Ankunft hier vor 16:30 Uhr, um das letzte Tageslicht zu nutzen.",
+                "hu": "Az alacsonyan járó nap csodás fényreflexiókat kelt a vízen; tervezze meg érkezését 16:30 előtt, hogy kihasználhassa az utolsó nappali fényeket.",
+                "ro": "Soarele jos creează reflexii minunate de lumină pe apă; planificați sosirea aici înainte de 16:30 pentru a profita de ultima lumină a zilei.",
+                "en": "The low sun creates wonderful light reflections on the water; plan to arrive here before 16:30 to make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Rezervuari Purrezit",
+                "hu": "Rezervuari Purrezit",
+                "ro": "Rezervuari Purrezit",
+                "en": "Rezervuari Purrezit"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Abschluss unter dem Sternenhimmel; stellen Sie sicher, dass Ihre Autobatterie fit ist, da die Kälte die Leistung beim Starten mindert.",
+                "hu": "Békés befejezés a csillagos égbolt alatt; győződjön meg róla, hogy az akkumulátor jó állapotban van, mert a hideg megnehezítheti az esti indítást.",
+                "ro": "Un final liniștit sub cerul înstelat; asigurați-vă că bateria mașinii este în stare bună, deoarece frigul îi reduce performanța la pornire.",
+                "en": "A peaceful conclusion under the starry sky; ensure your car battery is in good condition as the cold reduces its starting performance in the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

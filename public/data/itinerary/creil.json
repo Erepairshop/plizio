@@ -137,6 +137,168 @@
         "hu": "A reggel a helyi kreativitás felfedezésével indul az Espace Matisse-ban, majd egy kellemes séta következik Creil történelmi szívébe. Délben a lenyűgöző Saint-Médard templom és a La Faïencerie kortárs központja ötvözi a múltat és a jelent. Délután merüljön el a helyi történelemben a Gallé-Juillet Múzeum gazdag kerámiagyűjteményében. Az estét a Saint-Maurice szigeten töltheti békés nyugalomban.",
         "ro": "Dimineața începe cu creativitate locală la Espace Matisse, urmată de o plimbare plăcută spre inima istorică a orașului Creil. La prânz veți ajunge la impresionanta Biserică Saint-Médard și la centrul contemporan La Faïencerie. După-amiaza, pătrundeți în istoria locală explorând colecțiile bogate de ceramică de la Muzeul Gallé-Juillet. Seara se așterne relaxant pe Insula Saint-Maurice.",
         "en": "Morning begins with a dose of local creativity at Espace Matisse, followed by a pleasant stroll to the historic heart of Creil. Midday brings you to the impressive Saint-Médard Church and the contemporary hub of La Faïencerie, blending past and present. In the afternoon, dive deep into local history at the Gallé-Juillet Museum's rich ceramic collections. Evening settles in on Saint-Maurice Island."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie im Espace Matisse, geschützt vor dem Regen. Die Kirche Saint-Médard bietet mittags trockene Ruhe. Nachmittags laden die Faïencerie und das Gallé-Juillet Museum zu überdachten Entdeckungen ein. Den Tag beschließt ein kurzer Gang über die Île Saint-Maurice; bei Nässe sind die Wege am Ufer oft rutschig, tragen Sie daher unbedingt profilierte und wasserfeste Schuhe.",
+            "hu": "Kezdje a napot az Espace Matisse fedett termeiben. Délben a Saint-Médard templom nyújt menedéket a záporok elől. A délutánt töltse a La Faïencerie és a Gallé-Juillet Múzeum kiállításai között, ahol garantáltan szárazon marad. A napot a Saint-Maurice szigeten zárjuk; az esős időben a parti ösvények csúszóssá válhatnak, ezért válasszon vízhatlan, tapadós talpú lábbelit a sétához.",
+            "ro": "Începeți la Espace Matisse, feriți de ploaie. La prânz, Biserica Saint-Médard oferă un refugiu uscat. După-amiaza, La Faïencerie și Muzeul Gallé-Juillet vă așteaptă cu expoziții interioare fascinante. Încheiați ziua pe Insula Saint-Maurice; potecile de pe mal pot fi alunecoase când plouă, așa că purtați încălțăminte impermeabilă cu talpă aderentă pentru siguranță.",
+            "en": "Start your morning at Espace Matisse, staying dry indoors. Midday, Saint-Médard Church provides a sheltered sanctuary. Spend your afternoon exploring the indoor treasures of La Faïencerie and the Gallé-Juillet Museum. End the day with a brisk walk on Saint-Maurice Island; keep in mind that riverside paths get slippery in the rain, so sturdy waterproof footwear is highly recommended."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Matisse",
+                "hu": "Espace Matisse",
+                "ro": "Espace Matisse",
+                "en": "Espace Matisse"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunst in den hellen Galerien, während draußen der Regen prasselt. Tipp: Nutzen Sie den Garderobenbereich, um Ihre nassen Regenschirme sicher zu verstauen.",
+                "hu": "Csodálja meg a kortárs kiállításokat a világos belső terekben, miközben kint kopog az eső. Tipp: Használja a ruhatárat a vizes ernyők és kabátok kényelmes tárolására.",
+                "ro": "Admirați arta în galeriile luminoase în timp ce ploaia bate în geamuri, un refugiu cultural perfect. Sfat: Folosiți garderoba pentru a lăsa umbrelele ude la intrare.",
+                "en": "Admire the contemporary art in these bright galleries while the rain falls outside, a perfect retreat. Tip: Use the cloakroom area to store your wet umbrellas conveniently."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in diesem gotischen Bauwerk und genießen Sie die stille Atmosphäre bei Regen. Tipp: Achten Sie beim Verlassen auf die bei Nässe glatten Steinstufen am Portal.",
+                "hu": "Keressen menedéket ebben a gótikus épületben, és élvezze a csendes hangulatot a zápor alatt. Tipp: Kilépéskor ügyeljen a kőküszöbökre, amelyek vizesen nagyon csúszhatnak.",
+                "ro": "Căutați adăpost în această structură gotică și bucurați-vă de atmosfera liniștită în timpul ploii. Sfat: Atenție la treptele de piatră de la intrare, pot fi alunecoase.",
+                "en": "Seek shelter in this Gothic structure and enjoy the quiet atmosphere during the downpour. Tip: Be careful when leaving, as the stone steps at the portal can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "La Faïencerie",
+                "hu": "La Faïencerie",
+                "ro": "La Faïencerie",
+                "en": "La Faïencerie"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das kulturelle Herz von Creil in diesem weitläufigen, trockenen Komplex direkt an der Oise. Tipp: Ideal, um einen längeren Regenguss bei einer Ausstellung abzuwarten.",
+                "hu": "Fedezze fel Creil kulturális szívét ebben a tágas, fedett komplexumban közvetlenül az Oise partján. Tipp: Ideális hely egy hosszabb zápor kivárására a kiállítások között.",
+                "ro": "Descoperiți inima culturală a orașului Creil în acest complex spațios și uscat, chiar lângă Oise. Sfat: Este locul ideal pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Explore the cultural heart of Creil in this spacious, dry complex right by the Oise river. Tip: Ideal for waiting out a longer downpour while enjoying the current exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Gallé-Juillet",
+                "hu": "Gallé-Juillet Múzeum",
+                "ro": "Muzeul Gallé-Juillet",
+                "en": "Gallé-Juillet Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in das bürgerliche Leben des 19. Jahrhunderts in diesen gemütlich eingerichteten Räumen. Tipp: Die historischen Innenräume sind der beste Ort bei Dauerregen.",
+                "hu": "Merüljön el a 19. századi polgári életben ezekben a hangulatosan berendezett szobákban. Tipp: A történelmi belső terek a legjobb menedéket nyújtják tartós eső esetén.",
+                "ro": "Explorați viața burgheză a secolului al XIX-lea în aceste camere mobilate confortabil și primitor. Sfat: Interioarele istorice sunt cel mai bun refugiu în caz de ploaie.",
+                "en": "Immerse yourself in 19th-century bourgeois life within these cozy, furnished historical rooms. Tip: The indoor exhibits offer the best protection during persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Île Saint-Maurice",
+                "hu": "Saint-Maurice sziget",
+                "ro": "Insula Saint-Maurice",
+                "en": "Saint-Maurice Island"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die mystische Stimmung am Fluss, wenn der Regen auf das Wasser der Oise fällt. Tipp: Bleiben Sie auf den asphaltierten Wegen, da die Rasenflächen sehr matschig sind.",
+                "hu": "Élvezze a folyópart misztikus hangulatát, ahogy az esőcseppek az Oise vizére hullanak. Tipp: Maradjon az aszfaltozott utakon, mert a füves területek hamar felázhatnak.",
+                "ro": "Bucurați-vă de atmosfera mistică a râului în timp ce ploaia cade peste apele liniștite ale Oise-ului. Sfat: Rămâneți pe aleile asfaltate, zonele cu iarbă pot fi noroioase.",
+                "en": "Enjoy the mystical riverside atmosphere as raindrops fall onto the Oise river's surface. Tip: Stick to the paved paths, as the grassy areas can become very muddy and soft."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt kunstvoll im Espace Matisse. Die Kirche Saint-Médard bietet eine stille, kühle Einkehr, bevor Sie sich in der Faïencerie aufwärmen. Das Gallé-Juillet Museum entführt Sie in beheizte Räume voller Geschichte. Beenden Sie den Tag auf der Île Saint-Maurice rechtzeitig vor dem frühen Sonnenuntergang gegen 17:00 Uhr, wenn die Kälte am Wasser deutlich zunimmt.",
+            "hu": "A fagyos reggel az Espace Matisse fala között indul. A Saint-Médard templom csendes menedék, majd a Faïencerie melegében folytatódik a program. A Gallé-Juillet Múzeum fűtött kiállítóterei után tegyen egy gyors sétát a Saint-Maurice szigeten. Figyeljen az időre: a nap korán, 17 óra körül nyugszik, a folyóparton pedig hamar lehűl a levegő, öltözzön rétegesen.",
+            "ro": "O dimineață geroasă începe cu artă la Espace Matisse. Biserica Saint-Médard oferă un moment de liniște înainte de a vă încălzi la La Faïencerie. Muzeul Gallé-Juillet vă invită în săli încălzite pline de istorie. Încheiați vizita pe Insula Saint-Maurice înainte de apusul timpuriu de la ora 17:00, când frigul de lângă apă devine mult mai pătrunzător.",
+            "en": "Start a frosty morning with art at Espace Matisse. Saint-Médard Church offers a quiet, cool refuge before you warm up at La Faïencerie. The Gallé-Juillet Museum provides cozy indoor exploration. Plan your final walk on Saint-Maurice Island carefully; with sunset around 5 PM, the temperature drops quickly near the water, so dress in warm winter layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Matisse",
+                "hu": "Espace Matisse",
+                "ro": "Espace Matisse",
+                "en": "Espace Matisse"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Wintertag in dieser modernen, beheizten Galerie und lassen Sie die Kälte draußen. Tipp: Tragen Sie Schichten, da es in den Ausstellungsräumen warm sein kann.",
+                "hu": "Kezdje a téli napot ebben a modern, fűtött galériában, kint hagyva a reggeli fagyot. Tipp: Öltözzön rétegesen, mert a belső terekben a kinti hideg után melegnek érezheti a levegőt.",
+                "ro": "Începeți ziua de iarnă în această galerie modernă și încălzită, lăsând gerul afară. Sfat: Purtați haine în mai multe straturi, deoarece în interior poate fi destul de cald.",
+                "en": "Start your winter day in this modern, heated gallery, leaving the morning frost outside. Tip: Dress in layers, as the exhibition rooms can feel quite warm after the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, aber stellen Sie sich auf die kühle Temperatur im Inneren der Steinkirche ein. Tipp: Behalten Sie Ihren Schal um, da historische Kirchen oft zugig sind.",
+                "hu": "Csodálja meg az építészetet, de készüljön fel arra, hogy a kőtemplom belseje télen hűvös lehet. Tipp: Tartsa magán a sálat és a sapkát, a történelmi falak nem tartják a meleget.",
+                "ro": "Admirați arhitectura, dar pregătiți-vă pentru temperatura scăzută din interiorul bisericii de piatră. Sfat: Păstrați-vă fularul, clădirile istorice sunt adesea răcoroase iarna.",
+                "en": "Admire the architecture, but be prepared for the cool temperatures inside the stone church. Tip: Keep your scarf on, as historic stone churches can be quite drafty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "La Faïencerie",
+                "hu": "La Faïencerie",
+                "ro": "La Faïencerie",
+                "en": "La Faïencerie"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist ein idealer Ort, um sich zwischen den Besichtigungen gründlich aufzuwärmen. Tipp: Genießen Sie die winterliche Aussicht auf die Oise durch die großen Fenster.",
+                "hu": "Ez a kulturális központ ideális hely a felmelegedésre a városi séta közben. Tipp: Élvezze a jeges Oise-folyóra nyíló téli kilátást a hatalmas üvegfelületeken keresztül.",
+                "ro": "Acest centru cultural este locul ideal pentru a vă încălzi între vizitele exterioare. Sfat: Bucurați-vă de priveliștea hibernală a râului Oise prin ferestrele mari ale clădirii.",
+                "en": "This cultural center is an ideal spot to warm up thoroughly between your outdoor visits. Tip: Enjoy the wintery views of the Oise river through the building's large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Gallé-Juillet",
+                "hu": "Gallé-Juillet Múzeum",
+                "ro": "Muzeul Gallé-Juillet",
+                "en": "Gallé-Juillet Museum"
+              },
+              "tip_5lang": {
+                "de": "Die intimen, historisch eingerichteten Zimmer wirken im Winter besonders heimelig und warm. Tipp: Ein perfekter Ort, um die Zeit zu vergessen, wenn es draußen früh dunkel wird.",
+                "hu": "Az intim, történelmien berendezett szobák télen különösen otthonosnak és melegnek hatnak. Tipp: Tökéletes hely az időtöltésre, amikor kint korán sötétedni kezd.",
+                "ro": "Camerele intime, mobilate istoric, par extrem de primitoare și calde în timpul iernii. Sfat: Un loc perfect pentru a uita de timp când afară începe să se întunece devreme.",
+                "en": "The intimate, historically furnished rooms feel especially homely and warm during the winter. Tip: A perfect place to lose track of time when it starts getting dark outside early."
+              }
+            },
+            {
+              "name": {
+                "de": "Île Saint-Maurice",
+                "hu": "Saint-Maurice sziget",
+                "ro": "Insula Saint-Maurice",
+                "en": "Saint-Maurice Island"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die klare Winterluft bei einem kurzen Spaziergang am Flussufer der Oise. Tipp: Planen Sie Ihren Besuch vor 16:30 Uhr ein, um das letzte Tageslicht zu nutzen.",
+                "hu": "Élje át a tiszta téli levegőt egy rövid sétával az Oise folyó partján a szigeten. Tipp: Tervezze a látogatást 16:30 elé, hogy kihasználja az utolsó nappali fényeket.",
+                "ro": "Experimentați aerul curat de iarnă cu o scurtă plimbare pe malul râului Oise pe insulă. Sfat: Planificați vizita înainte de ora 16:30 pentru a profita de ultima lumină naturală.",
+                "en": "Experience the crisp winter air with a short walk along the banks of the Oise river on the island. Tip: Schedule your visit before 4:30 PM to make the most of the last daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja az elegáns Château de Vaux-nál kezdődik, ahol a reggeli fényben csodálhatja meg az építészeti szépségeket. A déli tekerés összeköti Creil kulturális és vallási nevezetességeit, érintve az Espace Matisse-t, a Templomot és a modern Église Saint-Joseph-ot. Délután a központban található Saint-Médard templom gótikus pompájához érkezik, majd a Gallé-Juillet Múzeumban zárja a napot.",
         "ro": "Aventura pe bicicletă începe la elegantul Château de Vaux, admirând frumusețea sa arhitecturală în lumina dimineții. Traseul de prânz vă conectează prin reperele culturale și religioase, trecând pe la Espace Matisse, Templu și moderna Église Saint-Joseph. După-amiaza vă aduce la splendoarea gotică a Bisericii Saint-Médard. Odată cu lăsarea serii, explorați colecțiile de la Muzeul Gallé-Juillet.",
         "en": "Your cycling adventure kicks off at the elegant Château de Vaux, taking in its architectural beauty in the morning light. Midday rides connect you through Creil's cultural and religious landmarks, passing the Espace Matisse, the Temple, and the modern Église Saint-Joseph-Ouvrier. Afternoon brings you to the Gothic splendor of Saint-Médard Church, concluding at the rich Gallé-Juillet Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Château de Vaux, wo die Wege bei Regen matschig sein können. Über das Espace Matisse führt die Route zu den Kirchen der Stadt, die trockene Stopps bieten. Die flache Strecke entlang der Oise ist bei Nässe gut befahrbar, aber Vorsicht vor rutschigen Markierungen. Beenden Sie die Tour im Gallé-Juillet Museum, um sich nach der Fahrt im Regen wieder vollständig aufzuwärmen.",
+            "hu": "Induljon a Château de Vaux-tól, ahol esőben sárosabb utakra számíthat. Az Espace Matisse-on keresztül az út a város templomaihoz vezet, amelyek száraz pihenőt kínálnak. Az Oise menti sík terep vizesen is jól tekerhető, de vigyázzon a csúszós útburkolati jelekre. A túrát a Gallé-Juillet Múzeumban zárja, ahol a bringázás után alaposan átmelegedhet és megszárítkozhat.",
+            "ro": "Porniți de la Château de Vaux, unde drumurile pot fi noroioase pe timp de ploaie. Traseul trece pe la Espace Matisse spre bisericile orașului, oferind opriri uscate. Terenul plat de-a lungul Oise este accesibil și pe ud, dar atenție la marcajele rutiere alunecoase. Încheiați turul la Muzeul Gallé-Juillet pentru a vă încălzi complet după drumul parcurs prin ploaie.",
+            "en": "Start at Château de Vaux, where paths might be muddy in the rain. Via Espace Matisse, the route leads to the town's churches, offering dry intervals. The flat terrain along the Oise is manageable when wet, but watch out for slippery road markings. Finish your ride at the Gallé-Juillet Museum to dry off and warm up completely after cycling through the damp weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Vaux",
+                "hu": "Château de Vaux",
+                "ro": "Château de Vaux",
+                "en": "Château de Vaux"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen vorsichtig, da das Gras und die Wege rutschig sein können. Tipp: Prüfen Sie vor der Abfahrt Ihre Bremsen, da Nässe den Bremsweg Ihres Rades verlängert.",
+                "hu": "Óvatosan járja be a romokat, mert a fű és az ösvények csúszósak lehetnek az esőben. Tipp: Indulás előtt ellenőrizze a fékeket, mert vizes úton megnő a féktávolság.",
+                "ro": "Vizitați ruinele cu atenție, deoarece iarba și potecile pot fi alunecoase. Sfat: Verificați frânele înainte de plecare, deoarece umezeala prelungește distanța de frânare a bicicletei.",
+                "en": "Visit the ruins carefully as the grass and paths can be slippery in the rain. Tip: Check your brakes before setting off, as wet conditions increase your bike's stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Matisse",
+                "hu": "Espace Matisse",
+                "ro": "Espace Matisse",
+                "en": "Espace Matisse"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp, um die Kleidung kurz zu trocknen und Kunst zu genießen. Tipp: Nutzen Sie den Fahrradständer direkt am Eingang und sichern Sie Ihr Rad regengeschützt.",
+                "hu": "Ideális beltéri megálló, hogy kicsit megszárítsa ruháit és élvezze a művészetet. Tipp: Használja a bejáratnál lévő tárolót, és próbálja esőtől védett helyre lakatolni a gépet.",
+                "ro": "O oprire interioară ideală pentru a vă usca puțin hainele și a vă bucura de artă. Sfat: Folosiți suportul de biciclete de la intrare și asigurați-vă că este protejată de ploaie.",
+                "en": "An ideal indoor stop to briefly dry your clothes while enjoying the art. Tip: Use the bike racks right by the entrance and try to secure your bicycle in a rain-sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Protestantischer Tempel",
+                "hu": "Protestáns Templom",
+                "ro": "Templul Protestant",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Dieses schlichte Gebäude bietet einen kurzen, trockenen Moment der Besinnung für Radfahrer. Tipp: Achten Sie beim Aufsteigen auf den nassen Asphalt direkt vor dem Haupteingang.",
+                "hu": "Ez az egyszerű épület rövid, száraz pillanatot és lelki feltöltődést kínál a kerékpárosoknak. Tipp: Visszaszálláskor ügyeljen a bejárat előtti nedves és csúszós aszfaltra.",
+                "ro": "Această clădire simplă oferă un scurt moment de reflecție uscată pentru biciclisti. Sfat: Atenție la asfaltul ud din fața intrării principale când vă urcați din nou pe bicicletă.",
+                "en": "This simple building offers a short, dry moment of reflection for cyclists. Tip: Be careful when mounting your bike again on the wet asphalt directly in front of the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Joseph-Ouvrier",
+                "hu": "Saint-Joseph-Ouvrier templom",
+                "ro": "Biserica Saint-Joseph-Ouvrier",
+                "en": "Église Saint-Joseph-Ouvrier"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur dieser Kirche als architektonischen Zwischenstopp. Tipp: Tragen Sie eine helle Regenjacke, damit Sie im grauen Wetter für Autofahrer gut sichtbar sind.",
+                "hu": "Csodálja meg e templom modern vonalait egy építészeti pihenő keretében. Tipp: Viseljen élénk színű esőkabátot, hogy a szürke időben is jól látható maradjon az autósok számára.",
+                "ro": "Admirați liniile moderne ale acestei biserici în timpul unei pauze arhitecturale. Sfat: Purtați o pelerină de ploaie în culori vii pentru a fi vizibil șoferilor în condiții de vizibilitate redusă.",
+                "en": "Admire the modern architecture of this church during an architectural break. Tip: Wear a bright raincoat to ensure you remain clearly visible to car drivers in grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Lage macht diese Kirche zum perfekten Ort, um einen Regenschauer abzuwarten. Tipp: Parken Sie Ihr Rad so, dass die Kette nicht direkt dem herablaufenden Regen ausgesetzt ist.",
+                "hu": "Központi elhelyezkedése miatt ez a templom tökéletes hely egy zápor kivárására. Tipp: Úgy parkoljon, hogy a kerékpárláncot ne érje közvetlenül az ereszekről lezúduló víz.",
+                "ro": "Locația centrală face din această biserică locul perfect pentru a aștepta trecerea ploii. Sfat: Parcați bicicleta astfel încât lanțul să nu fie expus direct șuvoaielor de apă.",
+                "en": "Its central location makes this church the perfect spot to wait out a heavy shower. Tip: Park your bike so the chain is not directly exposed to water running off the roof eaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Gallé-Juillet",
+                "hu": "Gallé-Juillet Múzeum",
+                "ro": "Muzeul Gallé-Juillet",
+                "en": "Gallé-Juillet Museum"
+              },
+              "tip_5lang": {
+                "de": "Der krönende, trockene Abschluss Ihrer Tour mit faszinierenden Einblicken in die lokale Geschichte. Tipp: Parken Sie Ihr Rad sicher und gönnen Sie sich danach ein heißes Getränk.",
+                "hu": "Túrája méltó, száraz befejezése, lenyűgöző betekintéssel a helyi történelembe. Tipp: Zárja le biztonságosan a bringát, és a látogatás után keressen egy helyet egy forró teára.",
+                "ro": "Finalul perfect și uscat al turului tău, cu perspective fascinante asupra istoriei locale. Sfat: Parcați bicicleta în siguranță și savurați o băutură caldă după vizită.",
+                "en": "The crowning, dry conclusion to your tour with fascinating insights into local history. Tip: Park your bike securely and treat yourself to a hot drink after the museum visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie warm eingepackt zum Château de Vaux; der Winterwind an der Oise kann beißend sein. Nach kulturellen Stopps im Espace Matisse und verschiedenen Kirchen bieten die Museen der Stadt die nötige Wärme. Achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr und beenden Sie Ihre Tour rechtzeitig. Reflektierende Kleidung ist bei der tiefstehenden Wintersonne und frühen Dämmerung unerlässlich.",
+            "hu": "Tekerjen melegen felöltözve a Château de Vaux felé; a téli szél az Oise partján metsző lehet. Az Espace Matisse és a különféle templomok után a város múzeumai kínálnak menedéket a hideg elől. Ügyeljen a korai, 17:00 óra körüli naplementére, és fejezze be időben a túrát. A fényvisszaverő ruházat elengedhetetlen az alacsonyan járó téli nap és a korai szürkület miatt.",
+            "ro": "Pedalați bine îmbrăcați spre Château de Vaux; vântul de iarnă de pe malul Oise poate fi tăios. După opriri culturale la Espace Matisse și diverse biserici, muzeele orașului oferă căldura necesară. Atenție la apusul timpuriu de la ora 17:00 și încheiați turul la timp. Hainele reflectorizante sunt esențiale din cauza soarelui jos de iarnă și a amurgului timpuriu.",
+            "en": "Cycle warmly dressed to Château de Vaux; the winter wind along the Oise can be biting. After cultural stops at Espace Matisse and various churches, the town's museums provide much-needed warmth. Watch out for the early sunset around 5 PM and finish your tour in good time. Reflective clothing is essential due to the low winter sun and the early onset of twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Vaux",
+                "hu": "Château de Vaux",
+                "ro": "Château de Vaux",
+                "en": "Château de Vaux"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter oft von Reif bedeckt und bieten ein schönes Fotomotiv. Tipp: Tragen Sie winddichte Handschuhe, da der Fahrtwind zum Schloss hin besonders kalt ist.",
+                "hu": "A romokat télen gyakran zúzmara fedi, ami gyönyörű látványt nyújt. Tipp: Viseljen szélálló kesztyűt, mert a kastély felé vezető úton a menetszél különösen hideg lehet.",
+                "ro": "Ruinele sunt adesea acoperite de chiciură iarna, oferind un peisaj superb. Sfat: Purtați mănuși rezistente la vânt, deoarece curentul de aer spre castel este foarte rece.",
+                "en": "The ruins are often covered in frost during winter, providing a beautiful scene. Tip: Wear windproof gloves, as the headwind on the way to the castle can be particularly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Matisse",
+                "hu": "Espace Matisse",
+                "ro": "Espace Matisse",
+                "en": "Espace Matisse"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Galerie auf, bevor Sie die Fahrt fortsetzen. Tipp: Kontrollieren Sie den Reifendruck, da dieser bei sinkenden Temperaturen im Winter oft abfällt.",
+                "hu": "Melegedjen fel a galéria termeiben, mielőtt folytatná a tekerést. Tipp: Ellenőrizze a guminyomást, mivel a téli hidegben a levegő sűrűsége miatt gyakran csökken a nyomás.",
+                "ro": "Încălziți-vă în galerie înainte de a continua drumul. Sfat: Verificați presiunea în anvelope, deoarece aceasta scade adesea iarna odată cu scăderea temperaturilor.",
+                "en": "Warm up in the gallery before continuing your ride through the cold. Tip: Check your tire pressure, as it often drops in winter when temperatures start to fall significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Protestantischer Tempel",
+                "hu": "Protestáns Templom",
+                "ro": "Templul Protestant",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Ein schlichter Ort für eine kurze, besinnliche Pause abseits der Winterkälte. Tipp: Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die frühe Dämmerung einsatzbereit ist.",
+                "hu": "Egyszerű és csendes hely egy rövid, elmélkedő pihenőhöz a téli hideg elől. Tipp: Győződjön meg róla, hogy a kerékpár lámpái működnek a korai szürkületre készülve.",
+                "ro": "Un loc simplu pentru o scurtă pauză de reflecție departe de gerul iernii. Sfat: Asigurați-vă că luminile bicicletei sunt funcționale pentru amurgul care vine devreme.",
+                "en": "A simple place for a short, reflective break away from the winter cold. Tip: Ensure your bicycle lighting is fully functional and ready for the early onset of twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Joseph-Ouvrier",
+                "hu": "Saint-Joseph-Ouvrier templom",
+                "ro": "Biserica Saint-Joseph-Ouvrier",
+                "en": "Église Saint-Joseph-Ouvrier"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Architektur kurz von außen, bevor Sie ins Warme flüchten. Tipp: Achten Sie auf eventuelle Eisstellen im Schatten der Gebäude auf den Radwegen.",
+                "hu": "Csodálja meg a modern építészetet kívülről, mielőtt újra a pedálok közé csapna. Tipp: Figyeljen az épületek árnyékában maradt jeges foltokra a kerékpárutakon.",
+                "ro": "Admirați arhitectura modernă din exterior înainte de a porni din nou la drum. Sfat: Atenție la zonele cu gheață care pot persista în umbra clădirilor pe pistele de biciclete.",
+                "en": "Admire the modern architecture briefly from the outside before riding on. Tip: Watch out for potential icy patches remaining in the shade of buildings on the cycle paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Ein imposanter Stopp im Stadtzentrum. Tipp: Da Ihre Finger durch die Kälte steif sein können, bedienen Sie Bremsen und Schaltung besonders behutsam und vorausschauend.",
+                "hu": "Impozáns megálló a városközpontban. Tipp: Mivel ujjai elgémberedhetnek a hidegben, a fékeket és a váltót óvatosabban és előrelátóbban kezelje tekerés közben.",
+                "ro": "O oprire impunătoare în centrul orașului. Sfat: Deoarece degetele pot fi amorțite de frig, acționați frânele și schimbătorul de viteze cu multă atenție și prudență.",
+                "en": "An imposing stop in the city center. Tip: Since your fingers might be stiff from the cold, operate the brakes and gears with extra care and foresight while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Gallé-Juillet",
+                "hu": "Gallé-Juillet Múzeum",
+                "ro": "Muzeul Gallé-Juillet",
+                "en": "Gallé-Juillet Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Museum als Belohnung für Ihre winterliche Radtour. Tipp: Nach dem Museumsbesuch ist es draußen bereits dunkel; schalten Sie das Licht ein.",
+                "hu": "Élvezze a múzeum hívogató melegét jutalomként a téli kerékpártúra után. Tipp: A múzeumlátogatás után valószínűleg már sötét lesz, ne felejtse el bekapcsolni a világítást.",
+                "ro": "Bucurați-vă de căldura primitoare a muzeului ca recompensă după turul pe bicicletă. Sfat: După vizita la muzeu probabil va fi deja întuneric, porniți luminile bicicletei.",
+                "en": "Enjoy the welcoming warmth of the museum as a reward for your winter cycle tour. Tip: It will likely be dark after your museum visit; remember to turn your lights on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a napot egy frissítő reggeli sétával a város északi szélén fekvő tágas Faïencerie Parkban. Délben hajtson délre, hogy felfedezze a Château de Vaux tekintélyes romjait és a gyönyörű történelmi Saint-Médard templomot a központban. Délután parkolja le autóját, hogy kényelmesen gyalogoljon a La Faïencerie és a Gallé-Juillet Múzeum között. A napot egy festői esti séta zárja a buja Saint-Maurice szigeten.",
         "ro": "Începeți cu o plimbare revigorantă de dimineață în imensul Parc Faïencerie de la marginea nordică a orașului. La prânz, conduceți spre sud pentru a explora ruinele impunătoare ale Château de Vaux și frumoasa Biserică Saint-Médard din centru. După-amiaza, parcați mașina pentru a merge pe jos între expozițiile de la La Faïencerie și Muzeul Gallé-Juillet. Ziua se încheie pe frumoasa Insulă Saint-Maurice.",
         "en": "Start with a refreshing morning walk in the expansive Faïencerie Park on the northern edge of town. By midday, drive south to explore the stately ruins of Château de Vaux and the beautiful historic Saint-Médard Church in the center. In the afternoon, park your car to comfortably hop between the dynamic cultural exhibitions at La Faïencerie and the Gallé-Juillet Museum. The day concludes on the lush Saint-Maurice Island."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um bequem zwischen den kulturellen Highlights von Creil zu pendeln und dabei trocken zu bleiben. Vom Parc de la Faïencerie bis zum Gallé-Juillet Museum bietet diese Route viele Möglichkeiten für Innenbesichtigungen. Planen Sie bei Regen etwas mehr Zeit für die Parkplatzsuche ein. Der Besuch der Île Saint-Maurice lässt sich am besten am späten Nachmittag zwischen zwei Schauern einschieben.",
+            "hu": "Használja az autót, hogy kényelmesen és szárazon közlekedjen Creil kulturális látnivalói között. A Parc de la Faïencerie-től a Gallé-Juillet Múzeumig ez az útvonal számos beltéri programot kínál. Esős időben számoljon kicsit több idővel a parkoláshoz a központban. A Saint-Maurice sziget meglátogatását érdemes a késő délutáni órákra, két zápor közé időzíteni.",
+            "ro": "Folosiți mașina pentru a vă deplasa confortabil și uscat între atracțiile culturale din Creil. De la Parcul Faïencerie până la Muzeul Gallé-Juillet, acest traseu oferă multe opțiuni interioare. Pe ploaie, alocați mai mult timp pentru găsirea locurilor de parcare. Vizita pe Insula Saint-Maurice este cel mai bine programată după-amiaza târziu, între două reprize de ploaie.",
+            "en": "Use your car to travel comfortably and dry between Creil's cultural highlights. From Parc de la Faïencerie to the Gallé-Juillet Museum, this route offers plenty of indoor activities. Allow extra time for parking during rainy weather in the city center. A visit to Saint-Maurice Island is best timed for the late afternoon, caught between two passing rain showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc de la Faïencerie",
+                "hu": "Faïencerie Park",
+                "ro": "Parcul Faïencerie",
+                "en": "Faïencerie Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Oise aus dem Auto, falls es zu stark regnet. Tipp: Parken Sie in der Nähe des Kulturzentrums, um den Weg im Freien so kurz wie möglich zu halten.",
+                "hu": "Élvezze az Oise-ra nyíló kilátást az autóból, ha túl erősen esne az eső. Tipp: Parkoljon a kulturális központ közelében, hogy a lehető legrövidebb ideig kelljen a szabadban lennie.",
+                "ro": "Bucurați-vă de vederea spre Oise din mașină dacă plouă prea tare. Sfat: Parcați aproape de centrul cultural pentru a minimiza timpul petrecut afară în drum spre intrare.",
+                "en": "Enjoy the view of the Oise from your car if the rain is too heavy for walking. Tip: Park near the cultural center to keep your outdoor walking distance as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vaux",
+                "hu": "Château de Vaux",
+                "ro": "Château de Vaux",
+                "en": "Château de Vaux"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt bei Regen besonders dramatisch; ideal für kurze Fotostopps. Tipp: Die Zufahrt kann bei Starkregen rutschig sein, fahren Sie in den Kurven besonders vorsichtig.",
+                "hu": "A várromok kifejezetten drámai látványt nyújtanak esőben; ideális egy rövid fotómegállóhoz. Tipp: Az út csúszós lehet, a kanyarokban vezessen a szokásosnál óvatosabban.",
+                "ro": "Ruinele castelului par dramatice în ploaie, fiind ideale pentru opriri foto scurte. Sfat: Drumul de acces poate fi alunecos, conduceți cu prudență sporită în curbe.",
+                "en": "The castle ruins look particularly dramatic in the rain; ideal for a quick photo stop. Tip: The access road can be slippery, so drive extra carefully through the turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses historische Juwel im Zentrum und nutzen Sie es als Regenschutz. Tipp: Es gibt öffentliche Parkplätze in der Nähe, die bei Regen oft schnell belegt sind.",
+                "hu": "Látogassa meg ezt a történelmi gyöngyszemet a központban, és használja menedékként. Tipp: A közeli nyilvános parkolók esőben gyorsan megtelhetnek, érkezzen időben.",
+                "ro": "Vizitați această bijuterie istorică din centru și folosiți-o ca adăpost împotriva ploii. Sfat: Parcarea publică din apropiere se poate ocupa rapid când plouă, veniți devreme.",
+                "en": "Visit this historic gem in the center and use it as a sanctuary from the rain. Tip: Public parking nearby fills up quickly during rain; try to arrive early for a closer spot."
+              }
+            },
+            {
+              "name": {
+                "de": "La Faïencerie",
+                "hu": "La Faïencerie",
+                "ro": "La Faïencerie",
+                "en": "La Faïencerie"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für Kulturinteressierte, um trockenen Fußes Ausstellungen zu sehen. Tipp: Das Parkhaus bietet direkten Zugang zum Komplex, was bei Dauerregen ideal ist.",
+                "hu": "Nagyszerű hely a kultúra kedvelőinek, ahol szárazon nézhetnek meg kiállításokat. Tipp: A közeli parkolóházból gyorsan elérhető a komplexum, ami tartós esőben nagy előny.",
+                "ro": "Un loc excelent pentru iubitorii de cultură, unde pot vedea expoziții rămânând uscați. Sfat: Parcarea oferă acces rapid la complex, fiind ideală în caz de ploaie persistentă.",
+                "en": "A great place for culture lovers to see exhibits while keeping their feet dry. Tip: The parking garage offers quick access to the complex, which is ideal during persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Gallé-Juillet",
+                "hu": "Gallé-Juillet Múzeum",
+                "ro": "Muzeul Gallé-Juillet",
+                "en": "Gallé-Juillet Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütliches Museum, das einen faszinierenden Einblick in die Vergangenheit bietet. Tipp: Achten Sie beim Aussteigen auf Pfützen, die sich auf dem Kopfsteinpflaster bilden.",
+                "hu": "Hangulatos múzeum, amely lenyűgöző betekintést nyújt a múltba. Tipp: Kiszálláskor ügyeljen a macskaköves burkolaton kialakuló tócsákra a múzeum bejárata környékén.",
+                "ro": "Un muzeu primitor care oferă o perspectivă fascinantă asupra trecutului local. Sfat: Atenție la bălțile care se pot forma pe pavajul de piatră la coborârea din mașină.",
+                "en": "A cozy museum offering a fascinating glimpse into the local past. Tip: Be careful of puddles forming on the cobblestone pavement when getting out of your car near the entry."
+              }
+            },
+            {
+              "name": {
+                "de": "Île Saint-Maurice",
+                "hu": "Saint-Maurice sziget",
+                "ro": "Insula Saint-Maurice",
+                "en": "Saint-Maurice Island"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer kurzen Fahrt über die Brücke zur Insel. Tipp: Bleiben Sie bei Regen im Auto und genießen Sie die Aussicht auf die Oise von den Parkplätzen aus.",
+                "hu": "Zárja a napot egy rövid autózással a szigetre vezető hídon át. Tipp: Heves esőzéskor maradjon az autóban, és a parkolóból csodálja meg az Oise folyó látványát.",
+                "ro": "Încheiați ziua cu o scurtă plimbare cu mașina peste podul spre insulă. Sfat: În caz de ploaie torențială, rămâneți în mașină și admirați râul Oise din zona de parcare.",
+                "en": "End the day with a short drive across the bridge to the island. Tip: In case of heavy rain, stay in your car and enjoy the view of the Oise river from the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Creil im Winter bequem mit dem Auto und genießen Sie die beheizten Zwischenstopps in Museen und Kulturzentren. Die Fahrt führt Sie vom winterlichen Parc de la Faïencerie zum geschichtsträchtigen Château de Vaux. Nutzen Sie die kurzen Wege vom Parkplatz zu den Sehenswürdigkeiten, um die Kälte zu minimieren. Denken Sie an den frühen Sonnenuntergang um 17:00 Uhr und planen Sie Ihre Route so, dass Sie die Außenstellen zuerst besuchen.",
+            "hu": "Fedezze fel Creilt télen kényelmesen, autóval, élvezve a múzeumok és kulturális központok fűtött termeit. Az út a téli Parc de la Faïencerie-től a történelmi Château de Vaux-ig vezet. Használja ki a parkolók közelségét a látnivalókhoz, hogy minél kevesebb időt kelljen a hidegben töltenie. Számoljon a korai, 17:00 órai naplementével, és a szabadtéri helyszíneket vegye előre a sorban.",
+            "ro": "Explorați Creil iarna confortabil cu mașina, savurând pauzele în muzeele și centrele culturale încălzite. Traseul vă duce de la Parcul Faïencerie până la istoricul Château de Vaux. Folosiți parcările apropiate de obiective pentru a minimiza expunerea la frig. Țineți cont de apusul de la ora 17:00 și planificați traseul astfel încât să vizitați locațiile exterioare primele.",
+            "en": "Explore Creil comfortably by car in winter, enjoying heated stops at museums and cultural centers. The journey takes you from the wintry Parc de la Faïencerie to the historic Château de Vaux. Use nearby parking to minimize your time spent in the cold air. Keep the early 5 PM sunset in mind and plan your route to visit the outdoor locations while it is still daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc de la Faïencerie",
+                "hu": "Faïencerie Park",
+                "ro": "Parcul Faïencerie",
+                "en": "Faïencerie Park"
+              },
+              "tip_5lang": {
+                "de": "Der Park bietet im Winter eine ruhige, klare Atmosphäre am Flussufer. Tipp: Stellen Sie sicher, dass Ihre Scheibenwaschanlage mit Frostschutzmittel befüllt ist.",
+                "hu": "A park télen csendes, tiszta hangulatot áraszt a folyóparton. Tipp: Győződjön meg róla, hogy a szélvédőmosó folyadék fagyálló, mielőtt útnak indulna a városon keresztül.",
+                "ro": "Parcul oferă o atmosferă liniștită și clară pe malul râului în timpul iernii. Sfat: Asigurați-vă că lichidul de parbriz conține antigel înainte de a porni la drum prin oraș.",
+                "en": "The park offers a quiet, crisp riverside atmosphere during the winter months. Tip: Ensure your windshield washer fluid is topped up with antifreeze before starting your city tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vaux",
+                "hu": "Château de Vaux",
+                "ro": "Château de Vaux",
+                "en": "Château de Vaux"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine ist im Winter ein beeindruckender Anblick unter freiem Himmel. Tipp: Da die Zufahrtsstraße im Schatten liegen kann, achten Sie auf eventuelle Straßenglätte durch Reif.",
+                "hu": "A várromok lenyűgöző látványt nyújtanak a téli égbolt alatt. Tipp: Mivel a bekötőút gyakran árnyékban van, ügyeljen az úttest jegesedésére vagy a zúzmarás szakaszokra.",
+                "ro": "Ruinele castelului oferă o priveliște impresionantă sub cerul de iarnă. Sfat: Drumul de acces fiind adesea la umbră, atenție la porțiunile de drum care pot fi înghețate sau umede.",
+                "en": "The castle ruins are an impressive sight under the winter sky. Tip: As the access road often stays in the shade, watch out for potential black ice or frosty patches on the tarmac."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in dieser historischen Steinkirche lohnt sich für Geschichtsinteressierte. Tipp: Lassen Sie den Motor nicht unnötig laufen, während Sie kurz für ein Foto aussteigen.",
+                "hu": "Egy rövid megálló ebben a történelmi kőtemplomban megéri a történelem szerelmeseinek. Tipp: Ne hagyja feleslegesen járni a motort, amíg kiszáll egy gyors fotó erejéig.",
+                "ro": "O scurtă oprire în această biserică istorică de piatră merită pentru pasionații de istorie. Sfat: Nu lăsați motorul pornit inutil cât timp coborâți pentru o fotografie rapidă.",
+                "en": "A short stop at this historic stone church is well worth it for history buffs. Tip: Don't leave your engine idling unnecessarily while you step out for a quick photo of the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "La Faïencerie",
+                "hu": "La Faïencerie",
+                "ro": "La Faïencerie",
+                "en": "La Faïencerie"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kulturzentrum für eine ausgiebige Aufwärmpause im Warmen. Tipp: Das Parken im nahegelegenen Parkhaus schützt Ihr Auto vor dem Auskühlen während Ihres Besuchs.",
+                "hu": "Használja ki a kulturális központot egy alapos felmelegedésre a fűtött belső terekben. Tipp: A közeli parkolóházban való parkolás megvédi autóját a túlzott lehűléstől a látogatás alatt.",
+                "ro": "Folosiți centrul cultural pentru o pauză lungă de încălzire în interior. Sfat: Parcarea în garajul subteran din apropiere vă protejează mașina de îngheț în timpul vizitei.",
+                "en": "Take advantage of the cultural center for an extensive warm-up break indoors. Tip: Parking in the nearby parking garage protects your car from getting too cold during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Gallé-Juillet",
+                "hu": "Gallé-Juillet Múzeum",
+                "ro": "Muzeul Gallé-Juillet",
+                "en": "Gallé-Juillet Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die bürgerliche Geschichte in behaglich warmen Ausstellungsräumen. Tipp: Nutzen Sie die Parkplätze direkt vor dem Museum, um den Weg durch den kalten Wind zu verkürzen.",
+                "hu": "Fedezze fel a polgári történelmet a kellemesen meleg kiállítótermekben. Tipp: Használja a közvetlenül a múzeum előtti parkolókat, hogy lerövidítse a hideg szélben töltött időt.",
+                "ro": "Explorați istoria burgheză în săli de expoziție primitoare și calde. Sfat: Folosiți locurile de parcare direct din fața muzeului pentru a scurta drumul prin vântul rece de iarnă.",
+                "en": "Explore the local bourgeois history in the comfort of warmly heated exhibition rooms. Tip: Use the parking spaces directly in front of the museum to minimize walking in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Île Saint-Maurice",
+                "hu": "Saint-Maurice sziget",
+                "ro": "Insula Saint-Maurice",
+                "en": "Saint-Maurice Island"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss der Tour mit Blick auf den winterlichen Fluss vom Auto aus. Tipp: Da es bereits um 17:00 Uhr dunkel wird, schalten Sie rechtzeitig das Abblendlicht ein.",
+                "hu": "A túra szép lezárása, kilátással a téli folyóra akár az autó ablakán keresztül is. Tipp: Mivel már 17:00 órakor sötétedik, ne felejtse el időben bekapcsolni a tompított fényszórót.",
+                "ro": "Un final frumos de tur cu vedere spre râul înghețat, chiar și din mașină. Sfat: Deoarece se întunecă deja la ora 17:00, nu uitați să aprindeți farurile la timp pentru drumul de întoarcere.",
+                "en": "A lovely conclusion to your tour with views of the winter river from your car window. Tip: As it gets dark by 5 PM, remember to turn on your headlights in good time for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

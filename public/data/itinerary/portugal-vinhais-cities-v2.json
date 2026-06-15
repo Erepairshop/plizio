@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi városházánál, hogy megismerje a helyi közigazgatást. Délben merüljön el a nemesi történelemben a lenyűgöző kulturális központban. Délután fedezze fel az ősi pellengért és a templomot, a helyi hagyományok szimbólumait. Fejezze be az estét egy pihentető sétával a nyugodt folyami strandon, hogy kikapcsolódjon.",
         "ro": "Începeți dimineața la primăria istorică pentru a înțelege administrația locală. La prânz, absorbiți istoria nobilă la magnificul centru cultural. După-amiaza, descoperiți vechiul stâlp al infamiei și frumoasa biserică, simboluri ale tradiției locale. Încheiați seara cu o plimbare relaxantă până la plaja fluvială liniștită pentru a vă destinde.",
         "en": "Start your morning at the historic City Hall to understand the local administration. Around midday, soak in the noble history at the stunning Cultural Center manor. In the afternoon, discover the ancient pillory and the beautiful church, symbols of local tradition. Conclude your evening with a relaxing stroll down to the tranquil river beach to unwind."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Rathaus, geschützt durch die historischen Gassen. Mittags bietet das Herrenhaus ein trockenes Refugium voller Kultur. Am Nachmittag wirkt der Flussstrand im Regen melancholisch und ruhig; wasserfeste Schuhe sind hier Pflicht. Der Abend endet gemütlich in einer der kleinen Bars, während der Regen gegen die Fenster prasselt und die Straßen im Licht glänzen.",
+            "hu": "Kezdje a reggelt a városházánál, az óvárosi utcák esőben is hangulatosak az esernyő alatt. Délben a grófi kúria kiállításai kínálnak száraz menedéket és kulturális élményt a záporok elől. Délután a folyóparti sétány misztikus párába burkolózik; a sár miatt vízálló cipő javasolt. Az este folyamán keressen egy barátságos helyi kocsmát, ahol a kandalló mellett pihenhet meg a nedves időben.",
+            "ro": "Începeți dimineața la primărie, explorând străzile istorice sub protecția umbrelei. La prânz, conacul oferă un refugiu uscat și plin de istorie ferit de ploaie. După-amiaza, plaja fluvială are un farmec melancolic în condiții de umiditate; încălțămintea impermeabilă este esențială aici. Seara se încheie plăcut într-o tavernă locală, ascultând ropotul ploii la fereastră și savurând un vin cald.",
+            "en": "Start the morning at the city hall, exploring historical streets under the cover of your umbrella. At noon, the manor provides a dry sanctuary filled with culture away from the showers. In the afternoon, the river beach feels melancholic and peaceful in the rain; waterproof boots are a must. The evening ends cozily in a local bar while the rain patters against the glass and streetlights reflect."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vinhais",
+                "hu": "Vinhais Városháza",
+                "ro": "Primăria din Vinhais",
+                "en": "Vinhais City Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Rathauses vom überdachten Eingang aus, um trocken zu bleiben, während Sie die ersten Regentropfen des Tages abwarten.",
+                "hu": "Csodálja meg a városháza homlokzatát a bejárat fedett árkádjai alól, így szárazon maradhat az első reggeli záporok idején is.",
+                "ro": "Admirați arhitectura primăriei de sub intrarea acoperită pentru a rămâne uscat în timp ce așteptați trecerea primelor picături de ploaie.",
+                "en": "Admire the architecture of the city hall from the covered entrance to stay dry while you wait out the first raindrops of the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Herrenhaus der Grafen von Vinhais",
+                "hu": "Vinhais Grófjainak Kúriája Kulturális Központ",
+                "ro": "Centrul Cultural Conacul Conților de Vinhais",
+                "en": "Cultural Center Manor of the Counts of Vinhais"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dicken Mauern des Herrenhauses als perfekten Regenschutz und tauchen Sie tief in die lokale Geschichte ein, ohne nass zu werden.",
+                "hu": "Használja ki a kúria vastag falait tökéletes eső elleni menedékként, és merüljön el a helyi történelemben anélkül, hogy megázna a tárlatvezetésen.",
+                "ro": "Folosiți zidurile groase ale conacului ca adăpost perfect împotriva ploii și scufundați-vă în istoria locală fără a vă uda în timpul vizitei.",
+                "en": "Take advantage of the manor's thick walls as a perfect rain shelter and dive deep into local history without getting wet during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pranger von Vinhais",
+                "hu": "Vinhais Pellengér",
+                "ro": "Stâlpul Infamiei din Vinhais",
+                "en": "Vinhais Pillory"
+              },
+              "tip_5lang": {
+                "de": "Ein schnelles Foto dieses Granitmonuments ist auch bei Regen möglich, suchen Sie danach sofort Schutz unter den nahen Dachvorsprüngen der Altstadt.",
+                "hu": "Egy gyors fotó erről a gránit emlékműről esőben is belefér, de utána rögtön keressen oltalmat az óváros közeli ereszaljai alatt a zuhé elől.",
+                "ro": "O fotografie rapidă a acestui monument de granit este posibilă chiar și pe ploaie, apoi căutați imediat adăpost sub streșinile orașului vechi.",
+                "en": "A quick photo of this granite monument is possible even in the rain, then immediately seek shelter under the nearby eaves of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von São Facundo",
+                "hu": "São Facundo Templom",
+                "ro": "Biserica São Facundo",
+                "en": "Church of São Facundo"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Stille und das trockene Kirchenschiff bieten den idealen Ort für eine Pause, während draußen ein heftiger Regenschauer niedergeht.",
+                "hu": "A templom szakrális csendje és száraz belső tere ideális helyszín egy rövid pihenőre, amíg odakint egy hevesebb zápor vonul át a település felett.",
+                "ro": "Liniștea spirituală și interiorul uscat al bisericii oferă locul ideal pentru o pauză în timp ce afară trece o aversă de ploaie mai puternică.",
+                "en": "The spiritual silence and dry nave offer the ideal place for a break while a heavy rain shower passes over the town outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand Ponte da Ranca",
+                "hu": "Ponte da Ranca Folyami Strand",
+                "ro": "Plaja Fluvială Ponte da Ranca",
+                "en": "Ponte da Ranca River Beach"
+              },
+              "tip_5lang": {
+                "de": "Der neblige Fluss bietet einen mystischen Anblick, achten Sie jedoch auf den rutschigen Boden und tragen Sie unbedingt feste, wasserfeste Wanderschuhe.",
+                "hu": "A ködös folyópart misztikus látványt nyújt ilyenkor, de ügyeljen a csúszós talajra és mindenképpen viseljen masszív, vízálló túrabakancsot a parton.",
+                "ro": "Plaja fluvială cețoasă oferă o priveliște mistică, dar aveți grijă la solul alunecos și purtați neapărat bocanci de drumeție impermeabili.",
+                "en": "The misty river beach offers a mystical view, but watch out for the slippery ground and definitely wear sturdy, waterproof hiking boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Rathaus weckt die Geister in der klaren Luft. Mittags wärmen Sie sich im Kulturzentrum bei den Ausstellungen auf und genießen die Ruhe. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das letzte Licht für einen kurzen Abstecher zum Fluss. Den Abend verbringen Sie am besten bei einer heißen Suppe in einer gemütlich geheizten Gaststube.",
+            "hu": "A friss téli reggel a városházánál kezdődik, ahol a hideg levegő átjárja az ódon utcákat. Délben a kulturális központ fűtött termei nyújtanak enyhülést a fagy elől a kiállítások között. Mivel a nap korán, 17:00 körül nyugszik, a folyópartot még világosban látogassa meg. Az estét töltse egy meleg vendéglőben, helyi füstölt ételeket kóstolva.",
+            "ro": "O dimineață crocantă de iarnă la primărie vă va înviora spiritul în aerul rece de munte. La prânz, încălziți-vă în centrul cultural admirând exponatele istorice. Deoarece soarele apune devreme, în jur de ora 17:00, profitați de lumină pentru o scurtă vizită la râu. Seara este ideală pentru o supă fierbinte într-un local primitor și bine încălzit.",
+            "en": "A crisp winter morning at the city hall will invigorate your spirit in the clear mountain air. At noon, warm up inside the cultural center while admiring the historical exhibits. Since the sun sets early, around 17:00, use the remaining light for a quick visit to the river. Spend the evening enjoying a hot meal in a cozy, heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vinhais",
+                "hu": "Vinhais Városháza",
+                "ro": "Primăria din Vinhais",
+                "en": "Vinhais City Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des historischen Gebäudes im klaren Winterlicht und tragen Sie Schal und Handschuhe gegen die eisige Brise aus den Bergen.",
+                "hu": "Élvezze a történelmi épület látványát a tiszta téli fényben, de viseljen sálat és kesztyűt a hegyek felől érkező fagyos szél ellen.",
+                "ro": "Bucurați-vă de vederea clădirii istorice în lumina clară de iarnă, dar purtați fular și mănuși împotriva brizelor înghețate de munte.",
+                "en": "Enjoy the view of the historical building in the clear winter light, but wear a scarf and gloves against the icy breeze from the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Herrenhaus der Grafen von Vinhais",
+                "hu": "Vinhais Grófjainak Kúriája Kulturális Központ",
+                "ro": "Centrul Cultural Conacul Conților de Vinhais",
+                "en": "Cultural Center Manor of the Counts of Vinhais"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume bieten eine willkommene Aufwärmpause, ideal um die Geschichte der Region gemütlich im Warmen zu erkunden.",
+                "hu": "A fűtött kiállítóterek kellemes felmelegedést nyújtanak, ideális helyszín a régió történelmének felfedezéséhez a zimankós időben.",
+                "ro": "Sălile de expoziție încălzite oferă o pauză de încălzire binevenită, fiind locul ideal pentru a explora istoria regiunii la căldură.",
+                "en": "The heated exhibition rooms offer a welcome warming break, ideal for exploring the region's history comfortably in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Pranger von Vinhais",
+                "hu": "Vinhais Pellengér",
+                "ro": "Stâlpul Infamiei din Vinhais",
+                "en": "Vinhais Pillory"
+              },
+              "tip_5lang": {
+                "de": "Dieses Monument aus Stein wirkt im Winter besonders herb; machen Sie Ihr Foto schnell, bevor die Kälte in Ihre Kleidung zieht.",
+                "hu": "Ez a kőemlékmű télen különösen zordnak hat; készítse el gyorsan a fotóját, mielőtt a hideg átjárná a ruházatát a nyílt téren.",
+                "ro": "Acest monument de piatră pare deosebit de aspru iarna; faceți fotografia rapid înainte ca frigul să vă pătrundă prin haine.",
+                "en": "This stone monument looks particularly austere in winter; take your photo quickly before the cold penetrates your clothing in the open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von São Facundo",
+                "hu": "São Facundo Templom",
+                "ro": "Biserica São Facundo",
+                "en": "Church of São Facundo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; nutzen Sie den Besuch für einen Moment der inneren Einkehr in der stillen, winterlichen Atmosphäre.",
+                "hu": "A vastag kőfalak távol tartják a kinti fagyot; használja ki a látogatást egy kis belső elcsendesedésre a csendes, téli áhítatban.",
+                "ro": "Zidurile groase de piatră țin frigul la distanță; profitați de vizită pentru un moment de reculegere în atmosfera liniștită de iarnă.",
+                "en": "The thick stone walls keep the outside frost away; use the visit for a moment of inner reflection in the quiet, wintery atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand Ponte da Ranca",
+                "hu": "Ponte da Ranca Folyami Strand",
+                "ro": "Plaja Fluvială Ponte da Ranca",
+                "en": "Ponte da Ranca River Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und friedlich; planen Sie Ihren Besuch vor 16:30 Uhr ein, um den Sonnenuntergang sicher zu erleben.",
+                "hu": "A strand télen néptelen és békés; látogatását tervezze 16:30 elé, hogy még a korai naplemente előtt biztonságban visszaérjen a városba.",
+                "ro": "Plaja este pustie și liniștită iarna; planificați vizita înainte de ora 16:30 pentru a vedea apusul și a vă întoarce în siguranță.",
+                "en": "The beach is deserted and peaceful in winter; plan your visit before 16:30 to see the sunset and return safely before dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggeli kerékpározást a központi pellengérnél és a közeli templomnál. Délben fedezze fel a kulturális központot és annak kiállításait. Délután tekerjen fel a panoráma hintához és a kilátóhoz a látványos tájakért. Fejezze be az estét egy jutalmazó ereszkedéssel az idilli folyami strand felé, hogy a természetben pihenjen.",
         "ro": "Începeți plimbarea cu bicicleta dimineața la stâlpul infamiei și biserica din apropiere. La prânz, explorați marele centru cultural și expozițiile sale. După-amiaza, pedalați până la leagănul panoramic și punctul de belvedere pentru peisaje spectaculoase. Încheiați seara cu o coborâre plină de satisfacții spre plaja fluvială idilică pentru a vă relaxa.",
         "en": "Begin your morning bike ride at the central pillory and the nearby spiritual church. By midday, explore the grand Cultural Center and its captivating exhibitions. In the afternoon, cycle up to the panoramic swing and viewpoint for spectacular landscapes. End your evening with a rewarding, downhill ride towards the idyllic river beach to relax in nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Vinhais erfordert Konzentration auf den glatten Pflastersteinen. Vormittags sind die Denkmäler schnell erreicht, mittags lockt das trockene Herrenhaus zur Pause. Die Auffahrt zu den Aussichtspunkten ist bei Nässe anstrengend, bietet aber dramatische Wolkenbilder. Der Abend gehört der warmen Dusche und einer kräftigen lokalen Mahlzeit nach der nassen Tour.",
+            "hu": "Az esős tekerés Vinhais környékén fokozott figyelmet igényel a csúszós macskaköveken. Délelőtt a műemlékek gyorsan elérhetők, délben a grófi kúria hívogat száraz pihenőre. A kilátókhoz vezető út nedves időben kimerítő lehet, de drámai felhőket láthatunk. Az este a forró zuhanyé és egy kiadós helyi vacsoráé a vizes túra után.",
+            "ro": "O plimbare cu bicicleta prin Vinhais pe ploaie necesită concentrare pe pavajul alunecos. Dimineața monumentele sunt ușor de atins, iar la prânz conacul oferă o pauză uscată. Urcarea spre punctele de belvedere este obositoare pe umiditate, dar oferă peisaje dramatice cu nori. Seara este dedicată unui duș fierbinte și unei mese locale consistente după tura udă.",
+            "en": "A rainy ride through Vinhais requires concentration on the slippery cobblestones. In the morning, monuments are quickly reached, and at noon the manor invites a dry break. The climb to the viewpoints is taxing in wet conditions but offers dramatic cloudscapes. The evening belongs to a hot shower and a hearty local meal after the wet tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pranger von Vinhais",
+                "hu": "Vinhais Pellengér",
+                "ro": "Stâlpul Infamiei din Vinhais",
+                "en": "Vinhais Pillory"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an diesem Wahrzeichen, aber achten Sie beim Absteigen auf den nassen, rutschigen Granit unter Ihren Fahrradschuhen.",
+                "hu": "Álljon meg rövid időre ennél a jelképnél, de a leszálláskor nagyon ügyeljen a vizes, csúszós gránitfelületre a kerékpáros cipőjében.",
+                "ro": "Opriți scurt la acest simbol, dar aveți mare grijă la suprafața de granit umedă și alunecoasă când coborâți de pe bicicletă.",
+                "en": "Stop briefly at this landmark, but be very careful of the wet, slippery granite surface when dismounting in your cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von São Facundo",
+                "hu": "São Facundo Templom",
+                "ro": "Biserica São Facundo",
+                "en": "Church of São Facundo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang, um Ihr Rad kurz unterzustellen, während Sie das kunstvolle Innere im Trockenen bewundern.",
+                "hu": "Használja ki a templom bejáratát, hogy kerékpárját rövid időre fedett helyre tegye, amíg Ön a száraz belső teret csodálja.",
+                "ro": "Folosiți intrarea bisericii pentru a lăsa bicicleta la adăpost pentru scurt timp în timp ce admirați interiorul artistic la uscat.",
+                "en": "Use the church entrance to briefly shelter your bike while you admire the artistic interior in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Herrenhaus der Grafen von Vinhais",
+                "hu": "Vinhais Grófjainak Kúriája Kulturális Központ",
+                "ro": "Centrul Cultural Conacul Conților de Vinhais",
+                "en": "Cultural Center Manor of the Counts of Vinhais"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für eine längere Pause im Trockenen; ziehen Sie Ihre Regenjacke aus und genießen Sie die Ausstellungen.",
+                "hu": "Ez az ideális helyszín egy hosszabb száraz pihenőre; vegye le az esőkabátját és élvezze a kiállításokat a fűtött termekben.",
+                "ro": "Acesta este locul ideal pentru o pauză lungă la uscat; scoateți jacheta de ploaie și bucurați-vă de expozițiile din interior.",
+                "en": "This is the ideal location for a longer dry break; take off your rain jacket and enjoy the exhibits in the indoor rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramaschaukel von Chouriça",
+                "hu": "Chouriça Panoráma Hinta",
+                "ro": "Leagănul Panoramic din Chouriça",
+                "en": "Panoramic Swing of Chouriça"
+              },
+              "tip_5lang": {
+                "de": "Die Schaukel ist nass und rutschig; genießen Sie lieber das Panorama im Stehen und halten Sie den Lenker bei der Abfahrt fest.",
+                "hu": "A hinta ilyenkor vizes és csúszós; inkább állva élvezze a panorámát, és a lefelé úton markolja erősen a kormányt a nedves úton.",
+                "ro": "Leagănul este umed și alunecos; mai bine admirați panorama stând în picioare și țineți bine ghidonul la coborâre pe drumul ud.",
+                "en": "The swing is wet and slippery; better enjoy the panorama standing up, and grip the handlebars firmly on the wet downhill descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Ciradelha",
+                "hu": "Ciradelha Kilátó",
+                "ro": "Punct de Belvedere Ciradelha",
+                "en": "Ciradelha Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Tief hängende Wolken können die Sicht einschränken, bieten aber tolle Fotomotive; tragen Sie bei der Rast eine windfeste Schicht.",
+                "hu": "Az alacsonyan szálló felhők korlátozhatják a kilátást, de remek fotótémát adnak; a pihenő alatt viseljen szélálló réteget.",
+                "ro": "Norii joși pot limita vizibilitatea, dar oferă subiecte grozave pentru fotografii; purtați un strat rezistent la vânt în timpul popasului.",
+                "en": "Low-hanging clouds may limit the view but provide great photo subjects; wear a windproof layer during your rest at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand Ponte da Ranca",
+                "hu": "Ponte da Ranca Folyami Strand",
+                "ro": "Plaja Fluvială Ponte da Ranca",
+                "en": "Ponte da Ranca River Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Fluss kann schlammig sein; stellen Sie sicher, dass Ihr Fahrrad mit guten Schutzblechen ausgestattet ist, um sauber zu bleiben.",
+                "hu": "A folyóhoz vezető út ilyenkor sáros lehet; győződjön meg róla, hogy kerékpárja jó sárvédőkkel van felszerelve a tisztaság érdekében.",
+                "ro": "Drumul spre râu poate fi noroios; asigurați-vă că bicicleta este echipată cu aripi bune pentru a rămâne cât mai curat posibil.",
+                "en": "The path to the river can be muddy; ensure your bike is equipped with good mudguards to keep yourself as clean as possible."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft erfrischt bei der morgendlichen Fahrt durch das Dorf. Mittags sollten Sie die Wärme des Kulturzentrums suchen, um die Finger wieder aufzutauen. Beachten Sie das schwindende Tageslicht am Nachmittag bei den Aussichtspunkten. Ab 17:00 Uhr ist es dunkel, sorgen Sie also für eine gute Beleuchtung an Ihrem Fahrrad für den Rückweg.",
+            "hu": "A hideg téli levegő felfrissít a reggeli tekerés közben a falun át. Délben mindenképpen keressen menedéket a kulturális központban, hogy felengedjenek az ujjai. Ügyeljen a fogyatkozó nappali fényre a délutáni kilátópontoknál. 17:00 után már sötét van, így gondoskodjon a kerékpár jó világításáról a hazaúthoz.",
+            "ro": "Aerul rece de iarnă vă va înviora în timpul plimbării matinale prin sat. La prânz căutați căldura centrului cultural pentru a vă dezgheța degetele. Aveți grijă la lumina zilei care scade rapid după-amiaza la punctele de belvedere. După ora 17:00 se întunecă, deci asigurați o iluminare bună bicicletei.",
+            "en": "The cold winter air refreshes during the morning ride through the village. At noon, seek the warmth of the cultural center to thaw out your fingers. Be mindful of the waning daylight in the afternoon at the viewpoints. It is dark after 17:00, so ensure your bike has good lighting for the return trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pranger von Vinhais",
+                "hu": "Vinhais Pellengér",
+                "ro": "Stâlpul Infamiei din Vinhais",
+                "en": "Vinhais Pillory"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein kurzes Beweisfoto bei diesem historischen Stein, aber kühlen Sie bei der Pause nicht zu sehr aus; tragen Sie Thermohandschuhe.",
+                "hu": "Készítsen egy gyors fotót ennél a történelmi kőnél, de a megálló alatt ne hűljön ki túlságosan; viseljen meleg termokesztyűt.",
+                "ro": "Faceți o fotografie rapidă la această piatră istorică, dar nu vă răciți prea tare în timpul pauzei; purtați mănuși termice.",
+                "en": "Take a quick photo at this historical stone, but don't cool down too much during the break; wear warm thermal gloves while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von São Facundo",
+                "hu": "São Facundo Templom",
+                "ro": "Biserica São Facundo",
+                "en": "Church of São Facundo"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine windstille Zone für eine kurze Rast, bevor Sie die offeneren Streckenabschnitte der Tour in Angriff nehmen.",
+                "hu": "A templom szélvédett zónát kínál egy rövid pihenőre, mielőtt nekivágna a túra nyitottabb, szelesebb útszakaszainak a hegyekben.",
+                "ro": "Biserica oferă o zonă ferită de vânt pentru un scurt popas înainte de a porni pe porțiunile mai deschise ale traseului în munți.",
+                "en": "The church offers a wind-sheltered zone for a short rest before you tackle the more open, breezy sections of the tour in the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Herrenhaus der Grafen von Vinhais",
+                "hu": "Vinhais Grófjainak Kúriája Kulturális Központ",
+                "ro": "Centrul Cultural Conacul Conților de Vinhais",
+                "en": "Cultural Center Manor of the Counts of Vinhais"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Inneren, um Ihre Ausrüstung zu trocknen und neue Energie für die kühle Weiterfahrt zu sammeln.",
+                "hu": "Használja ki a benti fűtést, hogy kicsit átszárítsa a ruházatát és új energiát gyűjtsön a hűvös folytatáshoz a nyeregben.",
+                "ro": "Profitați de încălzirea din interior pentru a vă usca echipamentul și pentru a aduna energie nouă pentru continuarea drumului răcoros.",
+                "en": "Take advantage of the indoor heating to dry your gear slightly and gather new energy for the cool continuation of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramaschaukel von Chouriça",
+                "hu": "Chouriça Panoráma Hinta",
+                "ro": "Leagănul Panoramic din Chouriça",
+                "en": "Panoramic Swing of Chouriça"
+              },
+              "tip_5lang": {
+                "de": "Oben ist es deutlich windiger und kälter; ziehen Sie vor dem Absteigen eine zusätzliche Jacke über, um die Aussicht zu genießen.",
+                "hu": "Fent jóval szelesebb és hidegebb az idő; mielőtt leszállna a nyeregből, vegyen fel egy plusz réteget, hogy élvezhesse a kilátást.",
+                "ro": "Sus este mult mai vânt și mai frig; înainte de a coborî de pe bicicletă, puneți-vă un strat suplimentar pentru a savura priveliștea.",
+                "en": "It is much windier and colder at the top; before dismounting, put on an extra layer to properly enjoy the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Ciradelha",
+                "hu": "Ciradelha Kilátó",
+                "ro": "Punct de Belvedere Ciradelha",
+                "en": "Ciradelha Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet; tragen Sie eine Sportbrille und beeilen Sie sich, um vor Einbruch der Dämmerung abzufahren.",
+                "hu": "A téli nap alacsonyan jár és vakíthat; viseljen sportszemüveget és igyekezzen, hogy még a szürkület beállta előtt elinduljon lefelé.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; purtați ochelari de sport și grăbiți-vă să plecați înainte de lăsarea serii.",
+                "en": "The winter sun is low and can be blinding; wear sports glasses and hurry to start your descent before dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand Ponte da Ranca",
+                "hu": "Ponte da Ranca Folyami Strand",
+                "ro": "Plaja Fluvială Ponte da Ranca",
+                "en": "Ponte da Ranca River Beach"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp als Abschluss ein und kehren Sie zügig zurück, bevor die Temperaturen nach 16:00 Uhr rapide sinken.",
+                "hu": "Ezt a megállót tervezze a túra végére, és térjen vissza gyorsan a városba, mielőtt 16:00 után a hőmérséklet hirtelen zuhanni kezd.",
+                "ro": "Planificați această oprire spre final și reveniți rapid înainte ca temperaturile să scadă brusc după ora 16:00.",
+                "en": "Plan this stop towards the end and return quickly before temperatures start to drop rapidly after 16:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a reggelt azzal, hogy a történelmi városházához és a helyi templomhoz hajt. Dél körül utazzon északra, hogy tanuljon az interaktív állatfajták múzeumában. Töltse a délutánt a Prada víztározó nyugalmának és a hinta csodálatos kilátásának élvezetével. Fejezze be az estét egy békés naplementével a gyönyörű Nunes víztározónál.",
         "ro": "Începeți dimineața conducând spre primăria istorică și biserica locală senină. În jurul prânzului, călătoriți spre nord pentru a învăța la muzeul interactiv de animale. Petreceți după-amiaza bucurându-vă de rezervorul calm Prada și de vederile uimitoare de la leagăn și belvedere. Încheiați seara cu un apus liniștit la frumosul rezervor Nunes.",
         "en": "Kick off your morning by driving to the historic city hall and the serene local church. Around midday, travel north to learn at the interactive animal breeds museum. Spend your afternoon enjoying the calm Prada reservoir and the stunning views from the swing and viewpoint. Conclude the evening with a peaceful sunset stop at the beautiful Nunes reservoir."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Vinhais bei Regen bequem erkunden. Vormittags besuchen Sie die Kirche, mittags das beheizte Interpretationszentrum. Die Fahrt zu den Stauseen bietet bei Regen eine dramatische Naturkulisse aus dem sicheren Fahrzeug. Abends glänzen die Lichter der Stadt in den Pfützen, während Sie entspannt zum Abendessen in die Altstadt fahren.",
+            "hu": "Autóval kényelmesen felfedezhető Vinhais esős időben is. Délelőtt látogassa meg a templomot, délben pedig a fűtött látogatóközpontot. A víztározókhoz vezető út esőben is látványos a biztonságos utastérből nézve. Este a város fényei csillognak a tócsákban, miközben Ön nyugodtan behajthat az óvárosba egy finom vacsorára.",
+            "ro": "Cu mașina, Vinhais poate fi explorat confortabil chiar și pe ploaie. Dimineața vizitați biserica, iar la prânz centrul de interpretare încălzit. Drumul spre rezervoare oferă un peisaj natural dramatic văzut din siguranța vehiculului. Seara, luminile orașului strălucesc în bălți în timp ce conduceți relaxat spre cină.",
+            "en": "By car, Vinhais can be explored comfortably even in rainy weather. In the morning visit the church, and at noon the heated interpretive center. The drive to the reservoirs offers a dramatic natural backdrop viewed from the safety of your vehicle. In the evening, town lights shimmer in puddles as you drive relaxed to dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vinhais",
+                "hu": "Vinhais Városháza",
+                "ro": "Primăria din Vinhais",
+                "en": "Vinhais City Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in unmittelbarer Nähe, um den kurzen Weg zum Eingang ohne großen Schirmaufwand bei den ersten Schauern zu bewältigen.",
+                "hu": "Parkoljon a közvetlen közelben, hogy az első záporok idején is minimális ázással, gyorsan elérhesse az épület fedett bejáratát.",
+                "ro": "Parcați în imediata apropiere pentru a parcurge distanța scurtă până la intrare fără a vă uda prea tare în timpul averselor.",
+                "en": "Park in the immediate vicinity to cover the short distance to the entrance with minimal exposure during the morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von São Facundo",
+                "hu": "São Facundo Templom",
+                "ro": "Biserica São Facundo",
+                "en": "Church of São Facundo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine trockene Pause im Inneren; das prasselnde Geräusch des Regens auf dem Dach verstärkt die ruhige Atmosphäre.",
+                "hu": "Használja ki a látogatást egy száraz pihenőre bent; a tetőn kopogó eső hangja csak még inkább fokozza a nyugodt, áhítatos hangulatot.",
+                "ro": "Profitați de vizită pentru o pauză uscată în interior; sunetul ploii pe acoperiș sporește atmosfera liniștită a bisericii.",
+                "en": "Take advantage of the visit for a dry break inside; the sound of rain pattering on the roof enhances the quiet, spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Interpretationszentrum für portugiesische einheimische Rassen",
+                "hu": "Portugál Őshonos Fajták Látogatóközpontja",
+                "ro": "Centrul de Interpretare a Raselor Autohtone Portugheze",
+                "en": "Interpretive Center of Portuguese Autochthonous Breeds"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein hervorragender Schlechtwetterstopp; die modernen Ausstellungsräume sind warm, trocken und bieten viel Platz zum Erkunden.",
+                "hu": "Ez egy kiváló megálló rossz időben; a modern kiállítóterek melegek, szárazak és tágas teret kínálnak a felfedezéshez a zuhé alatt is.",
+                "ro": "Aceasta este o oprire excelentă pe vreme rea; spațiile de expoziție moderne sunt calde, uscate și oferă mult loc pentru explorare.",
+                "en": "This is an excellent bad-weather stop; the modern exhibition spaces are warm, dry, and offer plenty of room to explore during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Stausee von Prada",
+                "hu": "Prada Víztározó",
+                "ro": "Rezervorul Prada",
+                "en": "Prada Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Wasser direkt aus dem Auto heraus, wenn es zu stark regnet, um am Ufer spazieren zu gehen.",
+                "hu": "Élvezze a vízre nyíló kilátást közvetlenül az autóból, ha túl erősen esne az eső a folyóparti sétához vagy nézelődéshez.",
+                "ro": "Bucurați-vă de priveliștea spre apă direct din mașină dacă plouă prea tare pentru o plimbare pe malul rezervorului.",
+                "en": "Enjoy the view of the water directly from your car if it rains too hard for a walk or sightseeing along the reservoir banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramaschaukel von Chouriça",
+                "hu": "Chouriça Panoráma Hinta",
+                "ro": "Leagănul Panoramic din Chouriça",
+                "en": "Panoramic Swing of Chouriça"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf beschlagene Scheiben und parken Sie sicher am Rand; die Aussicht ist bei Regen oft von dramatischen Wolken geprägt.",
+                "hu": "Ügyeljen a párásodó szélvédőre és parkoljon le biztonságosan; a kilátás esőben gyakran drámai felhőalakzatokkal teli és fotogén.",
+                "ro": "Aveți grijă la parbrizul aburit și parcați în siguranță; priveliștea pe ploaie este adesea marcată de formațiuni de nori dramatice.",
+                "en": "Watch out for foggy windows and park safely; the view in the rain is often characterized by dramatic and photogenic cloud formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Ciradelha",
+                "hu": "Ciradelha Kilátó",
+                "ro": "Punct de Belvedere Ciradelha",
+                "en": "Ciradelha Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie die Scheibenwischer auf Intervall und genießen Sie das Panorama; bei Nebel wirkt die Landschaft fast wie ein Gemälde.",
+                "hu": "Állítsa az ablaktörlőt szakaszos üzemmódba és így élvezze a panorámát; ködös időben a táj szinte olyan, mint egy festmény.",
+                "ro": "Setați ștergătoarele pe modul intermitent și bucurați-vă de panoramă; pe vreme cețoasă, peisajul pare aproape ca o pictură.",
+                "en": "Set your wipers to intermittent and enjoy the panorama; in misty weather, the landscape looks almost like a classic painting."
+              }
+            },
+            {
+              "name": {
+                "de": "Stausee von Nunes",
+                "hu": "Nunes Víztározó",
+                "ro": "Rezervorul Nunes",
+                "en": "Nunes Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt, sodass Sie auch bei Regen einen kurzen, sicheren Blick auf den Stausee werfen können, bevor es zurückgeht.",
+                "hu": "A parkoló szilárd burkolatú, így esőben is tehet egy rövid, biztonságos pillantást a víztározóra, mielőtt visszaindulna a városba.",
+                "ro": "Parcarea este pavată, așa că puteți arunca o privire scurtă și sigură spre rezervor chiar și pe ploaie înainte de a pleca.",
+                "en": "The parking lot is paved, so you can take a short, safe look at the reservoir even in the rain before heading back to town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt führt Sie durch die klare Luft von Vinhais. Nutzen Sie die Sitzheizung am Vormittag auf dem Weg zur Kirche. Das Interpretationszentrum bietet mittags wohlige Wärme und interessante Einblicke. Da es gegen 17:00 Uhr dunkel wird, planen Sie die Fahrten zu den Stauseen rechtzeitig ein. Der Abend endet bei frostigen Temperaturen in einem warmen, lokalen Restaurant.",
+            "hu": "A téli autós túra Vinhais tiszta levegőjén át vezet. Használja az ülésfűtést délelőtt a templom felé vezető úton a nagy hidegben. A látogatóközpont délben kellemes meleget és érdekes látnivalókat kínál. Mivel 17:00 körül sötétedik, a víztározókhoz vezető utat tervezze időben. Az este fagyos hőmérséklettel és egy meleg étteremben ér véget.",
+            "ro": "Traseul de iarnă cu mașina vă poartă prin aerul curat din Vinhais. Folosiți încălzirea în scaune dimineața spre biserică. Centrul de interpretare oferă căldură plăcută și exponate interesante la prânz. Deoarece se întunecă în jur de ora 17:00, planificați din timp drumul spre rezervoare. Seara se încheie cu temperaturi de îngheț într-un restaurant local cald.",
+            "en": "The winter car tour takes you through the clear air of Vinhais. Use your seat heating in the morning on the way to the church. The interpretive center offers pleasant warmth and interesting sights at noon. Since it gets dark around 17:00, plan your trips to the reservoirs early. The evening ends with freezing temperatures in a warm local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vinhais",
+                "hu": "Vinhais Városháza",
+                "ro": "Primăria din Vinhais",
+                "en": "Vinhais City Hall"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben zu enteisen, und genießen Sie die historische Fassade im strahlenden Winterlicht.",
+                "hu": "Hagyja járni a motort kicsit, amíg jégteleníti a szélvédőt, és élvezze a történelmi homlokzatot a ragyogó téli napsütésben.",
+                "ro": "Lăsați motorul pornit puțin pentru a dezgheța parbrizul și bucurați-vă de fațada istorică în lumina strălucitoare de iarnă.",
+                "en": "Let the engine run for a bit to de-ice the windshield, and enjoy the historical facade in the brilliant winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von São Facundo",
+                "hu": "São Facundo Templom",
+                "ro": "Biserica São Facundo",
+                "en": "Church of São Facundo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Vortage; ein ruhiger Stopp, um der winterlichen Kälte für einen Moment zu entfliehen.",
+                "hu": "A vastag falak jól tartják a hőt; ez egy nyugodt megálló, ahol egy pillanatra elmenekülhet a kinti téli fagy elől a szakrális térben.",
+                "ro": "Zidurile groase rețin bine căldura; este o oprire liniștită unde puteți scăpa pentru un moment de gerul iernii de afară.",
+                "en": "The thick walls retain heat well; it's a quiet stop where you can escape the winter frost outside for a moment in the sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Interpretationszentrum für portugiesische einheimische Rassen",
+                "hu": "Portugál Őshonos Fajták Látogatóközpontja",
+                "ro": "Centrul de Interpretare a Raselor Autohtone Portugheze",
+                "en": "Interpretive Center of Portuguese Autochthonous Breeds"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen fabelhaft geheizten Ort für eine ausführliche Besichtigung; ideal, wenn es draußen für Außenaktivitäten zu kalt ist.",
+                "hu": "Használja ki ezt a remekül fűtött helyszínt egy alapos látogatásra; ideális program, ha kint túl hideg lenne a szabadtéri tevékenységekhez.",
+                "ro": "Profitați de această locație bine încălzită pentru o vizită detaliată; program ideal dacă afară este prea frig pentru activități în aer liber.",
+                "en": "Take advantage of this excellently heated location for a thorough visit; ideal if it's too cold outside for outdoor activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Stausee von Prada",
+                "hu": "Prada Víztározó",
+                "ro": "Rezervorul Prada",
+                "en": "Prada Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser glitzert oft im Frost; bleiben Sie für die beste Aussicht im warmen Auto, wenn der Winterwind zu kräftig weht.",
+                "hu": "A víz felszíne gyakran csillog a fagyban; maradjon a meleg autóban a legjobb kilátásért, ha túl erősen fújna a téli hegyi szél.",
+                "ro": "Suprafața apei strălucește adesea în îngheț; rămâneți în mașina caldă pentru cea mai bună priveliște dacă vântul de iarnă suflă prea tare.",
+                "en": "The water surface often glitters in the frost; stay in your warm car for the best view if the winter mountain wind is blowing too hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramaschaukel von Chouriça",
+                "hu": "Chouriça Panoráma Hinta",
+                "ro": "Leagănul Panoramic din Chouriça",
+                "en": "Panoramic Swing of Chouriça"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost rutschig sein; fahren Sie vorsichtig und genießen Sie das klare Winterpanorama nur kurz im Freien.",
+                "hu": "A felvezető út fagyos időben csúszós lehet; vezessen óvatosan, és a tiszta téli panorámát csak rövid ideig élvezze a szabadban.",
+                "ro": "Drumul de acces poate fi alunecos pe timp de îngheț; conduceți cu atenție și bucurați-vă de panorama clară doar pentru scurt timp afară.",
+                "en": "The access road can be slippery in freezing weather; drive carefully and enjoy the clear winter panorama only briefly outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Ciradelha",
+                "hu": "Ciradelha Kilátó",
+                "ro": "Punct de Belvedere Ciradelha",
+                "en": "Ciradelha Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick ist im Winter oft besonders weit; kommen Sie vor 16:30 Uhr an, um die Farben des frühen Sonnenuntergangs zu erleben.",
+                "hu": "A kilátás télen gyakran különösen messzire nyúlik; érkezzen 16:30 előtt, hogy láthassa a korai naplemente gyönyörű színeit a táj felett.",
+                "ro": "Priveliștea iarna este adesea deosebit de clară; sosiți înainte de ora 16:30 pentru a vedea culorile superbe ale apusului devreme.",
+                "en": "The view in winter is often particularly far-reaching; arrive before 16:30 to see the beautiful colors of the early sunset over the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Stausee von Nunes",
+                "hu": "Nunes Víztározó",
+                "ro": "Rezervorul Nunes",
+                "en": "Nunes Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier, während es dämmert, und nutzen Sie das Fernlicht für eine sichere Rückfahrt über die kurvigen Straßen.",
+                "hu": "Zárja itt a túrát a szürkületben, és használja a távolsági fényszórókat a biztonságos visszatéréshez a kanyargós hegyi utakon.",
+                "ro": "Încheiați turul aici la amurg și folosiți faza lungă pentru o întoarcere sigură pe drumurile montane șerpuite spre oraș.",
+                "en": "End your tour here at dusk and use your high beams for a safe return journey on the winding mountain roads back to town."
+              }
+            }
+          ]
+        }
       }
     }
   }

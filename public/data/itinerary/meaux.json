@@ -206,6 +206,252 @@
         "hu": "Kezdje a napot Meaux szívében, ahol az elegáns városháza és a fenséges katedrális várja.\n\nDélben merüljön el a kulináris történelemben a Maison du Brie kiállításán, majd tegyen egy pihentető sétát a Bossuet kertben.\n\nA délutánt a kultúra és a felfrissülés jegyében töltse a színháznál és egy helyi sörözőben.\n\nZárja a napot lazítva a Marne partján, a Meaux plage finom homokján.",
         "ro": "Începeți ziua în inima orașului Meaux, unde vă așteaptă primăria elegantă și catedrala maiestuoasă.\n\nLa amiază, cufundați-vă în istoria culinară la Maison du Brie, urmată de o plimbare prin Grădina Bossuet.\n\nDupă-amiaza este dedicată culturii și reîmprospătării cu opriri la teatru și la o braserie.\n\nÎncheiați ziua relaxându-vă pe malul râului Marne, la fermecătoarea Meaux plage.",
         "en": "Begin your day in the heart of Meaux, where the elegant Town Hall and majestic cathedral await.\n\nAt midday, dive into culinary history at the Maison du Brie, followed by a relaxing stroll through the Bossuet Garden.\n\nThe afternoon is dedicated to culture and refreshment with stops at the theater and a local brasserie.\n\nConclude your day unwinding along the Marne riverbanks at Meaux plage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Rathaus unter dem Schutz der Arkaden. Mittags bieten die Kathedrale und das Maison du Brie ideale Rückzugsorte vor dem Regen. Am Nachmittag laden das Theater und die Brauerei zum Verweilen im Trockenen ein. Der Tag endet mit einem stimmungsvollen Spaziergang an der Marne, wo die Regentropfen auf der Wasseroberfläche ein friedliches Bild zeichnen.",
+            "hu": "Kezdje a napot a Városházánál, kihasználva az épület nyújtotta fedett részeket. Délben a katedrális és a sajtmúzeum tökéletes menedék a záporok elől. Délután a Luxembourg Színház és a helyi sörfőzde belső terei tartják szárazon. Az este a Marne-parton ér véget, ahol az eső kopogása a folyón különleges, megnyugtató atmoszférát teremt a városi séta lezárásaként.",
+            "ro": "Începeți ziua la primărie, folosind arcadele clădirii pentru protecție. La prânz, catedrala și Maison du Brie oferă adăpostul perfect împotriva averselor. După-amiaza, teatrul și berăria locală vă mențin uscați în interiorul lor primitor. Seara se încheie cu o plimbare atmosferică pe malul râului Marne, unde picăturile de ploaie pe suprafața apei creează un tablou liniștitor.",
+            "en": "Start your day at the Town Hall, utilizing the building's porches for shelter. At noon, the cathedral and Maison du Brie provide perfect refuge from the rain. In the afternoon, the theatre and the local brewery keep you dry in their inviting interiors. The day ends with an atmospheric walk along the Marne, where the rain tapping on the river creates a peaceful, unique ambiance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus (Hôtel de Ville)",
+                "hu": "Városháza (Hôtel de Ville)",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Fassade vom Schutz des Eingangsbereichs aus; achten Sie auf rutschige Pflastersteine auf dem Platz davor.",
+                "hu": "Csodálja meg a pompás homlokzatot a bejárat védelméből; ügyeljen a téren lévő csúszós macskakövekre a bejutás során.",
+                "ro": "Admirați fațada splendidă din protecția zonei de intrare; aveți grijă la pavajul alunecos din piața din față în timp ce mergeți.",
+                "en": "Admire the grand facade from the shelter of the entrance area; watch out for slippery cobblestones in the square as you approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne Katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vor dem Regen in das riesige Kirchenschiff; die Akustik der fallenden Tropfen draußen macht die Stille innen noch spürbarer.",
+                "hu": "Meneküljön az eső elől a hatalmas hajóba; a kinti kopogó eső zaja még érezhetőbbé teszi a belső tér méltóságteljes csendjét.",
+                "ro": "Refugiați-vă de ploaie în nava uriașă; sunetul ploii de afară face ca liniștea din interior să fie și mai profundă și relaxantă.",
+                "en": "Escape the rain inside the vast nave; the sound of the rain outside makes the interior silence feel even more profound and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Brie de Meaux",
+                "hu": "Maison du Brie de Meaux",
+                "ro": "Maison du Brie de Meaux",
+                "en": "Maison du Brie de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine Käseverkostung im Trockenen; das Museum ist der perfekte Ort, um einen Regenschauer bei kulinarischen Genüssen abzuwarten.",
+                "hu": "Élvezze a sajtkóstolót a száraz belső térben; a múzeum tökéletes hely egy zápor átvészelésére helyi kulináris élmények mellett.",
+                "ro": "Bucurați-vă de o degustare de brânză la adăpost; muzeul este locul ideal pentru a aștepta trecerea ploii cu delicii culinare locale.",
+                "en": "Enjoy a cheese tasting in the dry interior; the museum is the perfect spot to wait out a shower with local culinary delights."
+              }
+            },
+            {
+              "name": {
+                "de": "Bossuet-Garten",
+                "hu": "Bossuet Kert",
+                "ro": "Grădina Bossuet",
+                "en": "Bossuet Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Alleen als natürlichen Schirm; die nassen Blätter lassen die geometrischen Formen des Gartens intensiver leuchten.",
+                "hu": "Használja a sűrű fasorokat természetes ernyőként; a vizes levelek még intenzívebbé teszik a kert mértani formáinak színeit.",
+                "ro": "Folosiți aleile dese ca umbrelă naturală; frunzele ude fac culorile formelor geometrice ale grădinii să pară mult mai intense.",
+                "en": "Use the dense tree-lined paths as a natural umbrella; the wet leaves make the colors of the garden's geometric shapes pop."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Luxembourg",
+                "hu": "Luxembourg Színház",
+                "ro": "Teatrul Luxembourg",
+                "en": "Luxembourg Theatre"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das moderne Foyer durch die Glaswände; ein großartiger Ort, um kurz innezuhalten, während der Regen gegen die Scheiben peitscht.",
+                "hu": "Tekintse meg a modern előcsarnokot az üvegfalakon át; nagyszerű hely a pihenésre, miközben az eső a hatalmas ablakokat mossa.",
+                "ro": "Admirați foierul modern prin pereții de sticlă; un loc excelent pentru o pauză scurtă în timp ce ploaia bate în ferestrele mari.",
+                "en": "View the modern foyer through the glass walls; a great place for a short break while the rain washes against the large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Brasserie de Meaux",
+                "hu": "Brasserie de Meaux",
+                "ro": "Brasserie de Meaux",
+                "en": "Brasserie de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem lokalen Bier im gemütlichen Gastraum auf; die Brauerei bietet Schutz und eine herzliche Atmosphäre bei grauem Wetter.",
+                "hu": "Melegedjen fel egy helyi sörrel a barátságos vendégtérben; a sörfőzde védelmet és meleg fogadtatást kínál a szürke esős időben.",
+                "ro": "Încălziți-vă cu o bere locală în spațiul primitor; berăria oferă protecție și o atmosferă caldă pe durata vremii gri și ploioase.",
+                "en": "Warm up with a local beer in the cozy interior; the brewery offers shelter and a warm welcome during the grey, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple de Meaux",
+                "hu": "Meaux-i Templom",
+                "ro": "Templul din Meaux",
+                "en": "Temple of Meaux"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille dieses Ortes für eine besinnliche Pause im Trockenen; die schlichte Architektur wirkt bei Regen besonders beruhigend.",
+                "hu": "Használja ki a hely csendjét egy megnyugtató pihenőre a szárazban; a letisztult építészet esőben különösen nyugtatóan hat a látogatóra.",
+                "ro": "Profită de liniștea locului pentru o pauză relaxantă la uscat; arhitectura simplă are un efect calmant special pe timp de ploaie.",
+                "en": "Take advantage of the quiet for a relaxing break in the dry; the clean architecture has a particularly calming effect during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Meaux plage",
+                "hu": "Meaux plage",
+                "ro": "Meaux plage",
+                "en": "Meaux plage"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Marne; halten Sie Ihren Regenschirm gut fest, da es am Flussufer windig sein kann.",
+                "hu": "Figyelje meg az esőcseppek játékát a Marne vizén; tartsa erősen az esernyőjét, mert a folyóparton ilyenkor szelesebb lehet az idő.",
+                "ro": "Observați jocul picăturilor de ploaie pe râul Marne; țineți umbrela bine, deoarece malul râului poate fi vântos în astfel de condiții.",
+                "en": "Watch the patterns of raindrops on the Marne river; hold your umbrella firmly as the riverbank can be windier in these conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Meaux im Winterglanz, beginnend am frostigen Rathausplatz. Mittags wärmen Sie sich in der Kathedrale und bei einer Käseverkostung auf. Der Nachmittag führt durch den winterlichen Bossuet-Garten zur gemütlichen Brauerei. Da die Sonne gegen 17:00 Uhr untergeht, erstrahlen die Denkmäler am frühen Abend in festlicher Beleuchtung vor der dunklen Kulisse der Marne.",
+            "hu": "Fedezze fel Meaux téli arcát a Városháza deres falainál kezdve. Délben a katedrális falai és a Maison du Brie sajtkóstolója ad melegséget. A délután a téli Bossuet-kert fagyos ösvényein és a sörfőzde barátságos gőzében telik. Mivel a nap 17:00 körül nyugszik, az este a Marne-part korai fényeiben és a város ünnepi kivilágításában ér véget.",
+            "ro": "Descoperiți fața de iarnă a orașului Meaux, începând la primăria înghețată. La prânz, pereții catedralei și degustarea de la Maison du Brie vă oferă căldură. După-amiaza trece prin aleile reci ale grădinii Bossuet și atmosfera caldă a berăriei. Deoarece soarele apune în jur de 17:00, seara se încheie cu luminile festive ale orașului reflectate în apele râului Marne.",
+            "en": "Discover the winter side of Meaux, starting at the frosty Town Hall. At noon, the cathedral walls and a tasting at Maison du Brie provide warmth. The afternoon is spent on the frozen paths of Bossuet Garden and in the cozy steam of the brewery. As the sun sets around 17:00, the evening ends with early festive lights and the quiet winter charm of the Marne riverbank."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus (Hôtel de Ville)",
+                "hu": "Városháza (Hôtel de Ville)",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im klaren Winterlicht; wärmen Sie sich kurz in der Eingangshalle auf, bevor Sie den Spaziergang fortsetzen.",
+                "hu": "Csodálja meg az épületet a tiszta téli fényben; melegedjen fel egy pillanatra az előtérben, mielőtt folytatná a sétát a városban.",
+                "ro": "Admirați arhitectura în lumina clară de iarnă; încălziți-vă pentru un moment în holul de la intrare înainte de a continua plimbarea.",
+                "en": "Admire the architecture in the clear winter light; warm up for a moment in the entrance hall before continuing your city walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne Katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Luft lässt die Steinmetzarbeiten noch schärfer wirken; tragen Sie eine extra Schicht Kleidung, da es innen kühl sein kann.",
+                "hu": "A fagyos levegőben még élesebbnek tűnnek a kőfaragások; viseljen extra réteg ruhát, mert a hatalmas belső tér ilyenkor igen hűvös.",
+                "ro": "Aerul rece face ca detaliile sculptate în piatră să pară și mai clare; purtați un strat în plus de haine, interiorul fiind destul de rece.",
+                "en": "The frosty air makes the stonework details appear even sharper; wear an extra layer of clothing as the vast interior remains quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Brie de Meaux",
+                "hu": "Maison du Brie de Meaux",
+                "ro": "Maison du Brie de Meaux",
+                "en": "Maison du Brie de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte zu entfliehen; die reichhaltigen Käsesorten sind der perfekte Energiespender an einem kalten Wintertag.",
+                "hu": "Ideális hely a hideg elől való menekülésre; a laktató helyi sajtok tökéletes energiaforrást jelentenek egy fagyos téli napon.",
+                "ro": "Un loc ideal pentru a scăpa de frig; sortimentele bogate de brânză sunt sursa perfectă de energie într-o zi geroasă de iarnă.",
+                "en": "An ideal spot to escape the cold; the rich local cheeses provide the perfect energy boost on a frosty winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Bossuet-Garten",
+                "hu": "Bossuet Kert",
+                "ro": "Grădina Bossuet",
+                "en": "Bossuet Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der frostigen Hecken und geometrischen Beete; festes Schuhwerk ist für die teils vereisten Wege sehr wichtig.",
+                "hu": "Élvezze a deres sövények és mértani ágyások látványát; a stabil talpú lábbeli fontos az olykor jeges vagy csúszós kerti ösvényeken.",
+                "ro": "Bucurați-vă de vederea gardurilor vii brumate și a straturilor geometrice; încălțămintea stabilă este esențială pe aleile uneori înghețate.",
+                "en": "Enjoy the sight of the frosted hedges and geometric beds; stable footwear is essential for the sometimes icy or slippery garden paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Luxembourg",
+                "hu": "Luxembourg Színház",
+                "ro": "Teatrul Luxembourg",
+                "en": "Luxembourg Theatre"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie, wie das Gebäude in der frühen Dämmerung hell erleuchtet wird; die Glasfassade spiegelt das warme Licht wunderschön wider.",
+                "hu": "Nézze meg, ahogy az épület a korai sötétedésben kivilágosodik; az üveghomlokzat gyönyörűen veri vissza a belső terek meleg fényeit.",
+                "ro": "Vedeți cum clădirea se luminează în amurgul timpuriu; fațada de sticlă reflectă minunat luminile calde din interiorul teatrului.",
+                "en": "Watch the building light up in the early twilight; the glass facade beautifully reflects the warm lights from the theatre's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Brasserie de Meaux",
+                "hu": "Brasserie de Meaux",
+                "ro": "Brasserie de Meaux",
+                "en": "Brasserie de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Die herzliche Atmosphäre ist der perfekte Kontrast zur Winterkälte; genießen Sie ein kräftiges Bier in der gemütlichen Wärme des Hauses.",
+                "hu": "A szívélyes fogadtatás tökéletes kontrasztot alkot a kinti hideggel; élvezzen egy testes sörkülönlegességet a ház barátságos melegében.",
+                "ro": "Primirea călduroasă este contrastul perfect pentru frigul de afară; savurați o bere tare în atmosfera primitoare și caldă a berăriei.",
+                "en": "The warm welcome is the perfect contrast to the winter cold; enjoy a strong local beer in the brewery's cozy and warm atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple de Meaux",
+                "hu": "Meaux-i Templom",
+                "ro": "Templul din Meaux",
+                "en": "Temple of Meaux"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel kurz vor Sonnenuntergang; das weiche Abendlicht verleiht der schlichten Steinfassade einen goldenen Schimmer.",
+                "hu": "Látogasson el a templomba közvetlenül naplemente előtt; a lágy alkonyati fények aranyos csillogást kölcsönöznek a letisztult kőfalaknak.",
+                "ro": "Vizitați templul chiar înainte de apusul soarelui; lumina blândă a amurgului oferă un luciu auriu pereților simpli de piatră.",
+                "en": "Visit the temple just before sunset; the soft twilight light gives a golden shimmer to the clean and historic stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Meaux plage",
+                "hu": "Meaux plage",
+                "ro": "Meaux plage",
+                "en": "Meaux plage"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die frische, kalte Winterluft am Flussufer ein; die Ruhe der Marne im Winter bietet einen friedlichen Abschluss der Tour.",
+                "hu": "Szippantson mélyet a friss, hideg téli levegőből a folyóparton; a Marne téli nyugalma békés lezárást ad a városi felfedezésnek.",
+                "ro": "Respirați aerul proaspăt și rece de iarnă pe malul râului; liniștea râului Marne iarna oferă un final pașnic al explorării orașului.",
+                "en": "Breathe in the fresh, cold winter air by the river; the quiet of the Marne in winter provides a peaceful end to your city exploration."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "Egy kerékpárosbarát kezdés a városházánál egyenesen a szimmetrikus Bossuet kerthez és a katedrálishoz vezet.\n\nDél körül tekerjen el a lenyűgöző Első Világháborús Múzeumhoz, ahol elmélyülhet a történelemben.\n\nAz amerikai emlékműnél tett rövid megálló után dél felé, a természetbe vezet az út.\n\nTöltse a délután hátralévő részét a Parc du Pâtis felfedezésével és a folyóparti strandon.",
         "ro": "Un început prietenos cu bicicleta la primărie vă duce direct la Grădina Bossuet și la catedrală.\n\nLa prânz, pedalați către impresionantul Muzeu al Marelui Război pentru o incursiune istorică.\n\nDupă o scurtă oprire la monumentul american, traseul se îndreaptă spre sud, în natură.\n\nPetreceți după-amiaza târzie explorând Parc du Pâtis și relaxându-vă pe plaja râului.",
         "en": "A bike-friendly start at the Town Hall leads you directly to the symmetrical Bossuet Garden and the cathedral.\n\nAround midday, pedal to the impressive Museum of the Great War for a deep historical dive.\n\nFollowing a quick stop at the American Monument, your route heads south into expansive nature.\n\nSpend the late afternoon exploring Parc du Pâtis and unwinding at the river beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht am Rathaus und im Bossuet-Garten. Mittags bieten die Kathedrale und das Museum der Großen Schlacht trockene Pausen. Am Nachmittag führt die Route zum Parc du Pâtis, wo die Natur unter dem Regen atmet. Achten Sie auf nasse Wege und nutzen Sie die Unterstände entlang der Marne für kurze Stopps im Trockenen.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel a Városházánál és a Bossuet-kertben. Délben a katedrális és a Háborús Múzeum nyújt hosszú, száraz pihenőt. Délután az út a Parc du Pâtis felé vezet, ahol a természet az esőben lélegzik. Ügyeljen a vizes utakra, és használja ki a Marne menti fedett pihenőhelyeket a rövid megállókhoz.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență la primărie și în grădina Bossuet. La prânz, catedrala și Muzeul Marelui Război oferă pauze lungi și uscate. După-amiaza, traseul duce spre Parc du Pâtis, unde natura respiră sub ploaie. Atenție la drumurile ude și folosiți adăposturile de pe malul râului Marne.",
+            "en": "A rainy bike tour requires caution at the Town Hall and Bossuet Garden. At noon, the cathedral and the Great War Museum provide long, dry breaks. In the afternoon, the route leads to Parc du Pâtis, where nature breathes under the rain. Watch out for wet paths and use the shelters along the Marne for short stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus (Hôtel de Ville)",
+                "hu": "Városháza (Hôtel de Ville)",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach; die glatten Pflastersteine vor dem Gebäude erfordern beim Absteigen besondere Aufmerksamkeit.",
+                "hu": "Parkolja le kerékpárját az épület előtti előtető alatt; a vizes, sima macskakövek különös figyelmet igényelnek a leszálláskor.",
+                "ro": "Parcați bicicleta sub copertina din fața clădirii; pavajul umed și neted necesită o atenție sporită în momentul descălecării.",
+                "en": "Park your bike under the overhang in front of the building; the wet, smooth cobblestones require extra care when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Bossuet-Garten",
+                "hu": "Bossuet Kert",
+                "ro": "Grădina Bossuet",
+                "en": "Bossuet Garden"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den sandigen Wegen; die Bäume bieten nur bedingt Schutz, halten aber den gröbsten Wind vom Radweg fern.",
+                "hu": "Hajtson lassan a homokos ösvényeken; a fák csak részben védenek az esőtől, de a legerősebb szelet felfogják a kerékpárúton.",
+                "ro": "Pedalați încet pe aleile nisipoase; copacii oferă doar o protecție parțială, dar opresc vântul cel mai puternic de pe pistă.",
+                "en": "Ride slowly on the sandy paths; the trees offer only partial protection from rain but block the strongest wind from the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne Katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt für eine gründliche Pause im Trockenen; der Innenraum ist der perfekte Ort, um die Ausrüstung zu richten.",
+                "hu": "Használja ki a hosszú megállót egy alapos, száraz pihenőre; a belső tér tökéletes hely a felszerelés rendezésére és a pihenésre.",
+                "ro": "Profitați de oprirea lungă pentru o pauză uscată binemeritată; interiorul este locul perfect pentru a vă aranja echipamentul ud.",
+                "en": "Take advantage of the long stop for a proper dry break; the interior is the perfect place to adjust your gear and take a rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Grande Guerre",
+                "hu": "Első Világháború Múzeuma",
+                "ro": "Muzeul Marelui Război",
+                "en": "Museum of the Great War"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Zufluchtsort bei Starkregen; die umfangreiche Ausstellung lässt Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "A múzeum ideális menedék heves esőzés idején; a hatalmas kiállítás segít teljesen elfelejteni a kinti barátságtalan időjárást.",
+                "ro": "Muzeul este refugiul ideal în timpul ploilor torențiale; expoziția vastă vă va face să uitați complet de vremea de afară.",
+                "en": "The museum is an ideal refuge during heavy rain; the extensive exhibition will make you completely forget the unfriendly weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerikanisches Denkmal",
+                "hu": "Amerikai Emlékmű",
+                "ro": "Monumentul American",
+                "en": "American Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, beeindruckender Stopp im Regen; halten Sie die Kamera beim Fotografieren unter dem Schutz Ihrer Regenjacke trocken.",
+                "hu": "Rövid, de lenyűgöző megálló az esőben; fotózáskor tartsa a fényképezőgépet az esőkabátja védelmében, hogy ne ázzon meg.",
+                "ro": "O oprire scurtă dar impresionantă în ploaie; păstrați aparatul foto sub protecția jachetei de ploaie în timp ce faceți poze.",
+                "en": "A short but impressive stop in the rain; keep your camera protected under your rain jacket while taking photos of the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Pâtis",
+                "hu": "Parc du Pâtis",
+                "ro": "Parc du Pâtis",
+                "en": "Parc du Pâtis"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und schlammige Abschnitte auf den Naturwegen; die Parklandschaft wirkt im Regen besonders mystisch und wild.",
+                "hu": "Ügyeljen a tócsákra és a saras szakaszokra a természetes utakon; a park tájképe esőben különösen misztikus és vadregényes arcát mutatja.",
+                "ro": "Atenție la bălți și porțiunile noroioase de pe traseu; peisajul parcului pare deosebit de mistic și sălbatic pe timp de ploaie.",
+                "en": "Watch out for puddles and muddy sections on the natural paths; the park landscape looks particularly mystic and wild in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Meaux plage",
+                "hu": "Meaux plage",
+                "ro": "Meaux plage",
+                "en": "Meaux plage"
+              },
+              "tip_5lang": {
+                "de": "Ein erfrischender Abschluss am Fluss; nutzen Sie die befestigten Wege für die letzte Etappe, um Spritzwasser auf der Kleidung zu minimieren.",
+                "hu": "Frissítő lezárás a folyóparton; használja a burkolt utakat az utolsó szakaszon, hogy minimalizálja a ruhára felverődő vizet.",
+                "ro": "Un final revigorant pe malul râului; folosiți potecile pavate pe ultima etapă pentru a minimiza stropirea hainelor cu apă.",
+                "en": "A refreshing finish by the river; use the paved paths for the last stretch to minimize water splashing onto your clothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch das klare Licht von Meaux, vom frostigen Rathaus zum Museum der Großen Schlacht. Mittags bietet das Museum angenehme Wärme für eine lange Pause. Am Nachmittag radeln Sie durch den winterlichen Parc du Pâtis. Denken Sie an warme Handschuhe und helle Lichter, da die Sonne bereits gegen 17:00 Uhr hinter dem Horizont der Marne verschwindet.",
+            "hu": "A téli kerékpártúra Meaux tiszta fényeiben vezet a fagyos Városházától a Háborús Múzeumig. Délben a múzeum nyújt kellemes meleget a pihenéshez. Délután a Parc du Pâtis téli csendjében tekerhet. Készüljön meleg kesztyűvel és erős lámpákkal, mert a nap már 17:00 körül eltűnik a Marne horizontja mögött.",
+            "ro": "Tura de iarnă cu bicicleta trece prin lumina clară din Meaux, de la primăria înghețată până la Muzeul Marelui Război. La prânz, muzeul oferă căldură pentru o pauză lungă. După-amiaza pedalați în liniștea iernii din Parc du Pâtis. Folosiți mănuși groase și lumini bune, soarele apunând în jur de ora 17:00.",
+            "en": "The winter bike tour takes you through the clear light of Meaux, from the frosty Town Hall to the Great War Museum. At noon, the museum provides pleasant warmth for a break. In the afternoon, ride through the winter silence of Parc du Pâtis. Use warm gloves and bright lights, as the sun sets around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus (Hôtel de Ville)",
+                "hu": "Városháza (Hôtel de Ville)",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig auf eventuell glatten Flächen; die kühle Morgenluft macht den Blick auf das historische Gebäude besonders klar.",
+                "hu": "Induljon óvatosan az esetlegesen csúszós felületeken; a hűvös reggeli levegőben az épület részletei rendkívül élesen rajzolódnak ki.",
+                "ro": "Porniți cu atenție pe suprafețele care pot fi alunecoase; aerul rece al dimineții face ca detaliile clădirii să fie foarte clare.",
+                "en": "Start carefully on potentially slippery surfaces; the cool morning air makes the historic building's details appear exceptionally sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Bossuet-Garten",
+                "hu": "Bossuet Kert",
+                "ro": "Grădina Bossuet",
+                "en": "Bossuet Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Gartens; die Bewegung hält Sie warm, aber achten Sie in schattigen Kurven auf Reifglätte.",
+                "hu": "Élvezze a téli kert nyugalmát; a mozgás melegen tartja, de az árnyékos kanyarokban ügyeljen a zúzmarás, csúszós szakaszokra.",
+                "ro": "Bucurați-vă de liniștea grădinii de iarnă; mișcarea vă ține de cald, dar atenție la porțiunile brumate în curbele umbrite.",
+                "en": "Enjoy the peace of the winter garden; the movement keeps you warm, but watch out for frosty, slippery spots in shaded turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne Katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause im monumentalen Innenraum; die kühle Pracht der Kathedrale ist im Winter besonders eindrucksvoll und stimmungsvoll.",
+                "hu": "Rövid pihenő a monumentális belső térben; a katedrális hűvös pompája télen különösen lenyűgöző és emelkedett hangulatú.",
+                "ro": "O scurtă pauză în interiorul monumental; splendoarea rece a catedralei este deosebit de impresionantă și evocatoare iarna.",
+                "en": "A short break in the monumental interior; the cathedral's cool grandeur is especially impressive and atmospheric during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Grande Guerre",
+                "hu": "Első Világháború Múzeuma",
+                "ro": "Muzeul Marelui Război",
+                "en": "Museum of the Great War"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Stopp, um sich vollständig aufzuwärmen; das Museum bietet eine faszinierende Reise in die Geschichte bei wohliger Wärme.",
+                "hu": "Használja ki a hosszú megállót a teljes felmelegedésre; a múzeum lenyűgöző történelmi utazást kínál kellemes benti hőmérséklet mellett.",
+                "ro": "Profită de oprirea lungă pentru a te încălzi complet; muzeul oferă o călătorie istorică fascinantă într-o temperatură plăcută.",
+                "en": "Take advantage of the long stop to warm up completely; the museum offers a fascinating historical journey in a comfortable indoor temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerikanisches Denkmal",
+                "hu": "Amerikai Emlékmű",
+                "ro": "Monumentul American",
+                "en": "American Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt vor dem oft grauen Winterhimmel besonders kraftvoll; ein kurzer Halt für Fotos, bevor Sie weiterradeln.",
+                "hu": "Az emlékmű különösen erőteljes látványt nyújt a gyakran szürke téli égbolt előtt; rövid megálló fotózáshoz a továbbindulás előtt.",
+                "ro": "Monumentul pare deosebit de puternic pe fundalul cerului adesea gri de iarnă; o oprire scurtă pentru poze înainte de a pleca.",
+                "en": "The monument looks particularly powerful against the often grey winter sky; a short stop for photos before cycling onward."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Pâtis",
+                "hu": "Parc du Pâtis",
+                "ro": "Parc du Pâtis",
+                "en": "Parc du Pâtis"
+              },
+              "tip_5lang": {
+                "de": "Die Naturwege können im Winter fest gefroren sein; genießen Sie die klare Luft und die weiten Sichtachsen durch die blattlosen Bäume.",
+                "hu": "A természetes utak télen keményre fagyhatnak; élvezze a friss levegőt és a távoli kilátást a lombjukat vesztett fák között.",
+                "ro": "Potecile naturale pot fi înghețate bocnă iarna; bucurați-vă de aerul curat și de vizibilitatea sporită printre copacii fără frunze.",
+                "en": "The natural paths can be frozen solid in winter; enjoy the fresh air and the distant views through the leafless winter trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Meaux plage",
+                "hu": "Meaux plage",
+                "ro": "Meaux plage",
+                "en": "Meaux plage"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im schwindenden Tageslicht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg voll funktionsfähig ist.",
+                "hu": "Zárja a túrát a fogyatkozó nappali fényben; győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a visszatéréshez.",
+                "ro": "Încheiați tura în lumina zilei care scade; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere.",
+                "en": "Finish the tour in the fading daylight; ensure your bike lights are fully functional for the ride back as darkness falls early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "Használja autóját, hogy felfedezze Meaux kontrasztjait a városházától a híres Brie múzeumig.\n\nDélben vezessen az Első Világháborús Múzeumhoz és a közeli emlékműhöz, ahol könnyen parkolhat.\n\nDélután folytassa útját a Parc du Pâtis és a déli, hangulatos kikötő felé.\n\nA nap lenyűgöző módon ér véget a gall-római falaknál és a kivilágított katedrálisnál.",
         "ro": "Folosiți mașina pentru a explora contrastele orașului Meaux, de la primărie la faimosul muzeu Brie.\n\nLa amiază, conduceți către Muzeul Marelui Război și monumentul din apropiere.\n\nDupă-amiaza continuă spre Parc du Pâtis și fermecătorul port de agrement din sud.\n\nZiua se încheie fascinant la zidurile galo-romane antice și înapoi la catedrala spectaculos iluminată.",
         "en": "Use your car to easily explore the contrasts of Meaux, starting from the Town Hall to the famous Brie museum.\n\nAt midday, drive to the Museum of the Great War and the nearby monument, where parking is plentiful.\n\nThe afternoon takes you further south to Parc du Pâtis and the charming marina.\n\nYour day concludes fascinatingly at the ancient Gallo-Roman walls and the illuminated cathedral."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Meaux komfortabel trotz Regen, vom Rathaus bis zum Museum der Großen Schlacht. Mittags bieten das Maison du Brie und das Museum ideale trockene Aufenthaltsorte. Nachmittags führt die Fahrt zum Hafen und zu den historischen Mauern. Genießen Sie die Aussicht aus dem warmen Fahrzeug und achten Sie auf Sichtbehinderungen durch starken Regen auf den Verbindungsstraßen.",
+            "hu": "Autóval kényelmesen fedezheti fel Meaux kincseit az esőben is, a Városházától a Háborús Múzeumig. Délben a Maison du Brie és a múzeum kínál száraz menedéket. Délután a kikötő és a történelmi falak felé vezet az út. Élvezze a kilátást a meleg autóból, de ügyeljen a korlátozott látási viszonyokra a heves esőzésben a városi utakon.",
+            "ro": "Cu mașina explorați confortabil orașul Meaux în ciuda ploii, de la primărie la Muzeul Marelui Război. La prânz, Maison du Brie și muzeul oferă refugii ideale. După-amiaza traseul duce spre port și zidurile istorice. Bucurați-vă de peisaj din vehiculul cald și atenție la vizibilitatea redusă cauzată de ploaia torențială.",
+            "en": "By car, you can comfortably explore Meaux's treasures despite the rain, from the Town Hall to the Great War Museum. At noon, Maison du Brie and the museum offer ideal dry retreats. In the afternoon, the route leads to the port and historic walls. Enjoy the views from your warm vehicle and watch out for limited visibility during heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus (Hôtel de Ville)",
+                "hu": "Városháza (Hôtel de Ville)",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in unmittelbarer Nähe; so minimieren Sie den Weg im Regen zur beeindruckenden Fassade des Gebäudes.",
+                "hu": "Keressen parkolóhelyet a közvetlen közelben; így minimalizálhatja az esőben megtett utat az épület lenyűgöző homlokzatáig.",
+                "ro": "Căutați un loc de parcare în imediata apropiere; astfel minimizați drumul prin ploaie până la fațada impresionantă a clădirii.",
+                "en": "Look for a parking spot in the immediate vicinity; this minimizes the walk in the rain to the building's impressive facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Brie de Meaux",
+                "hu": "Maison du Brie de Meaux",
+                "ro": "Maison du Brie de Meaux",
+                "en": "Maison du Brie de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine kulinarische Pause im Trockenen; genießen Sie die Käsevielfalt, während draußen der Regen gegen die Scheiben klopft.",
+                "hu": "Tökéletes hely egy kulináris pihenőre a szárazban; élvezze a sajtválasztékot, miközben kint az eső kopog az ablakokon.",
+                "ro": "Locul perfect pentru o pauză culinară la uscat; savurați varietatea de brânzeturi în timp ce afară ploaia bate în ferestre.",
+                "en": "The perfect spot for a culinary break in the dry; enjoy the cheese variety while the rain taps against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Grande Guerre",
+                "hu": "Első Világháború Múzeuma",
+                "ro": "Muzeul Marelui Război",
+                "en": "Museum of the Great War"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Museum; im Inneren sind Sie für die nächsten Stunden bestens vor dem Wetter geschützt.",
+                "hu": "Használja a múzeum közvetlen közelében lévő nagy parkolót; bent a következő órákban teljesen védve lesz az időjárástól.",
+                "ro": "Folosiți parcarea mare direct de lângă muzeu; în interior veți fi protejat complet de vreme pentru următoarele ore.",
+                "en": "Use the large parking lot right next to the museum; inside, you will be fully protected from the weather for the next few hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerikanisches Denkmal",
+                "hu": "Amerikai Emlékmű",
+                "ro": "Monumentul American",
+                "en": "American Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal zunächst aus dem Wagen; für ein schnelles Foto lohnt es sich, kurz mit dem Regenschirm auszusteigen.",
+                "hu": "Tekintse meg az emlékművet először az autóból; egy gyors fotó erejéig érdemes kiszállni esernyővel a látvány kedvéért.",
+                "ro": "Admirați monumentul mai întâi din mașină; pentru o poză rapidă merită să coborâți scurt cu umbrela pentru a vedea detaliile.",
+                "en": "View the monument first from the car; it is worth stepping out briefly with an umbrella for a quick photo of the sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Pâtis",
+                "hu": "Parc du Pâtis",
+                "ro": "Parc du Pâtis",
+                "en": "Parc du Pâtis"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu den befestigten Parkflächen; genießen Sie den Blick auf die regenfeuchte Natur von den geschützten Aussichtspunkten aus.",
+                "hu": "Hajtson a burkolt parkolóhelyekhez; élvezze az esőtől friss természet látványát a fedett vagy védett kilátópontokról.",
+                "ro": "Conduceți spre locurile de parcare pavate; bucurați-vă de vederea naturii ude de la punctele de observație protejate.",
+                "en": "Drive to the paved parking areas; enjoy the view of the rain-freshened nature from the sheltered or protected viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Jachthafen von Meaux",
+                "hu": "Meaux-i Jachtkikötő",
+                "ro": "Portul de Agrement din Meaux",
+                "en": "Port de Plaisance de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben im Hafen bequem aus dem Auto; der Regen verleiht der maritimen Szenerie eine ganz besondere Melancholie.",
+                "hu": "Figyelje a kikötői életet kényelmesen az autóból; az eső különleges, melankolikus hangulatot kölcsönöz a vízi környéknek.",
+                "ro": "Observați activitatea din port confortabil din mașină; ploaia oferă o atmosferă melancolică deosebită zonei maritime.",
+                "en": "Watch the harbor activity comfortably from your car; the rain lends a unique, melancholic atmosphere to the maritime scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Mauern",
+                "hu": "Gall-római Falak",
+                "ro": "Zidurile Galo-Romane",
+                "en": "Gallo-Roman Walls"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine glänzen im Regen; ein kurzer Stopp ermöglicht es, die historischen Befestigungen ohne weite Wege im Nassen zu sehen.",
+                "hu": "Az ősi kövek csillognak az esőben; egy rövid megálló lehetővé teszi a történelmi falak megtekintését hosszú vizes gyaloglás nélkül.",
+                "ro": "Pietrele antice strălucesc în ploaie; o oprire scurtă vă permite să vedeți zidurile istorice fără a merge mult prin apă.",
+                "en": "The ancient stones glisten in the rain; a short stop allows you to see the historic fortifications without walking far in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne Katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Seiteneingang; die Kathedrale ist der perfekte Ort, um den Tag besinnlich und absolut trocken ausklingen zu lassen.",
+                "hu": "Parkoljon az oldalsó bejárat közelében; a katedrális tökéletes hely a nap méltóságteljes és teljesen száraz lezárásához.",
+                "ro": "Parcați aproape de intrarea laterală; catedrala este locul perfect pentru a încheia ziua într-un mod liniștit și complet uscat.",
+                "en": "Park near the side entrance; the cathedral is the perfect place to end the day in a dignified and completely dry manner."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Meaux im Winter per Auto: Genießen Sie die frostige Stadtlandschaft bei angenehmer Innentemperatur. Mittags wärmen Sie sich im Maison du Brie und dem großen Museum auf. Nachmittags führt die Route durch den winterlichen Parc du Pâtis und zum Hafen. Da es gegen 17:00 Uhr dunkel wird, bietet das Auto den besten Komfort, um die beleuchtete Kathedrale am Abend zu erreichen.",
+            "hu": "Meaux télen, autóval: élvezze a fagyos városi tájat a gépkocsi kellemes belső hőmérsékletéből. Délben a Maison du Brie és a Háborús Múzeum ad meleget. Délután a Parc du Pâtis és a kikötő téli arca várja. Mivel 17:00 körül sötétedik, az autó a legjobb komfortot nyújtja a kivilágított katedrálishoz való esti eljutáshoz.",
+            "ro": "Meaux iarna, cu mașina: bucurați-vă de peisajul urban înghețat din temperatura plăcută a vehiculului. La prânz, Maison du Brie și Muzeul Marelui Război vă oferă căldură. După-amiaza vă așteaptă Parc du Pâtis și portul. Deoarece se întunecă în jur de 17:00, mașina oferă cel mai bun confort pentru a ajunge la catedrala iluminată.",
+            "en": "Meaux in winter by car: enjoy the frosty urban landscape from the comfortable temperature of your vehicle. At noon, Maison du Brie and the Great War Museum provide warmth. In the afternoon, Parc du Pâtis and the port await. As it gets dark around 17:00, the car offers the best comfort to reach the illuminated cathedral in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus (Hôtel de Ville)",
+                "hu": "Városháza (Hôtel de Ville)",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Das frostige Gebäude sieht im klaren Winterlicht fantastisch aus; nutzen Sie die Parkplätze direkt am Platz für einen schnellen Besuch.",
+                "hu": "A deres épület fantasztikusan mutat a tiszta téli fényben; használja a tér közvetlen közelében lévő parkolókat a gyors látogatáshoz.",
+                "ro": "Clădirea brumată arată fantastic în lumina clară de iarnă; folosiți parcările de lângă piață pentru o vizită rapidă.",
+                "en": "The frosted building looks fantastic in the clear winter light; use the parking spots directly near the square for a quick visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Brie de Meaux",
+                "hu": "Maison du Brie de Meaux",
+                "ro": "Maison du Brie de Meaux",
+                "en": "Maison du Brie de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Winterstopp für Genießer; wärmen Sie sich bei einer Käseverkostung auf und erfahren Sie mehr über die lokale Tradition.",
+                "hu": "Ideális téli megálló az ínyenceknek; melegedjen fel egy sajtkóstoló közben, és ismerje meg a helyi hagyományokat.",
+                "ro": "O oprire de iarnă ideală pentru gurmanzi; încălziți-vă în timpul unei degustări de brânză și aflați despre tradițiile locale.",
+                "en": "An ideal winter stop for foodies; warm up during a cheese tasting and learn more about the rich local traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Grande Guerre",
+                "hu": "Első Világháború Múzeuma",
+                "ro": "Muzeul Marelui Război",
+                "en": "Museum of the Great War"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung macht den Museumsbesuch im Winter sehr angenehm; parken Sie direkt davor, um die Kälte draußen zu lassen.",
+                "hu": "A modern fűtés nagyon kellemessé teszi a múzeumlátogatást télen; parkoljon közvetlenül előtte, hogy kint hagyja a hideget.",
+                "ro": "Încălzirea modernă face vizita la muzeu foarte plăcută iarna; parcați chiar în față pentru a lăsa frigul afară.",
+                "en": "The modern heating makes the museum visit very pleasant in winter; park right in front to leave the cold weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerikanisches Denkmal",
+                "hu": "Amerikai Emlékmű",
+                "ro": "Monumentul American",
+                "en": "American Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Monument wirkt bei tiefstehender Wintersonne besonders plastisch; ein kurzer Ausstieg für Fotos lohnt sich trotz der Kälte.",
+                "hu": "Az emlékmű különösen látványos az alacsonyan járó téli napfényben; egy rövid kiszállás fotózáshoz a hideg ellenére is megéri.",
+                "ro": "Monumentul este deosebit de spectaculos în lumina soarelui de iarnă; merită să coborâți scurt pentru poze în ciuda frigului.",
+                "en": "The monument is particularly spectacular in the low winter sunlight; it is worth stepping out briefly for photos despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Pâtis",
+                "hu": "Parc du Pâtis",
+                "ro": "Parc du Pâtis",
+                "en": "Parc du Pâtis"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den winterlichen Park; genießen Sie die weite, klare Sicht auf die Marne-Landschaft aus Ihrem warmen Auto.",
+                "hu": "Hajtson lassan a téli parkban; élvezze a Marne-vidék tiszta és távoli panorámáját a meleg autó ablakain keresztül.",
+                "ro": "Conduceți încet prin parcul de iarnă; bucurați-vă de panorama clară asupra regiunii Marne prin ferestrele mașinii calde.",
+                "en": "Drive slowly through the winter park; enjoy the clear and distant panorama of the Marne region from your warm car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Jachthafen von Meaux",
+                "hu": "Meaux-i Jachtkikötő",
+                "ro": "Portul de Agrement din Meaux",
+                "en": "Port de Plaisance de Meaux"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen liegt im Winterschlaf; die ruhige Atmosphäre und das glitzernde Wasser bieten einen friedlichen Anblick vom Ufer aus.",
+                "hu": "A kikötő téli álmát alussza; a csendes atmoszféra és a csillogó víz békés látványt nyújt a part menti autóút mellől.",
+                "ro": "Portul își doarme somnul de iarnă; atmosfera liniștită și apa sclipitoare oferă o vedere pașnică de pe drumul de pe mal.",
+                "en": "The harbor is in hibernation; the quiet atmosphere and the sparkling water offer a peaceful sight from the riverside road."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Mauern",
+                "hu": "Gall-római Falak",
+                "ro": "Zidurile Galo-Romane",
+                "en": "Gallo-Roman Walls"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern wirken im Frost besonders geschichtsträchtig; ein kurzer Halt ermöglicht den Blick auf die Stadtgeschichte im Winter.",
+                "hu": "Az ősi falak a zúzmarában különösen történelmi hangulatot árasztanak; egy rövid megállóval bepillanthat a város téli történetébe.",
+                "ro": "Zidurile antice în brumă emană o atmosferă istorică deosebită; o oprire scurtă vă permite să vedeți istoria de iarnă a orașului.",
+                "en": "The ancient walls in the frost radiate a special historical atmosphere; a short stop lets you glimpse the city's winter history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne Katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kathedrale, wenn die Abendbeleuchtung eingeschaltet wird; die warme Anstrahlung bildet einen herrlichen Kontrast zur Winternacht.",
+                "hu": "Érkezzen a katedrálishoz, amikor felgyúlnak az esti fények; a meleg kivilágítás csodás kontrasztot alkot a sötét téli éjszakával.",
+                "ro": "Ajungeți la catedrală când se aprind luminile de seară; iluminarea caldă creează un contrast minunat cu noaptea rece de iarnă.",
+                "en": "Arrive at the cathedral as the evening lights come on; the warm illumination creates a wonderful contrast with the dark winter night."
+              }
+            }
+          ]
+        }
       }
     }
   }

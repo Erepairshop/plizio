@@ -137,6 +137,168 @@
         "hu": "A reggel a városközpont közelében kezdődik a lenyűgöző Chiesa dell'Angelo Custode meglátogatásával, békés indítást adva. Egy rövid séta a Chiesa di Santa Chiara felé tovább mélyíti a helyi spirituális élményt. A délidőt a város kulturális szívében, a Teatro comunale épületénél töltjük. Délután egy hosszabb séta a történelmi Basilica di San Focà-hoz vezet, hogy felfedezzük az ősi gyökereket. Az este a modern Chiesa di San Giuseppe Operaio-ban zárul, csendes elmélkedéssel.",
         "ro": "Dimineața începe în apropierea centrului cu o vizită la impresionanta Chiesa dell'Angelo Custode, oferind un început pașnic. Scurta plimbare spre Chiesa di Santa Chiara vă scufundă și mai mult în patrimoniul spiritual local. Amiaza este dedicată inimii culturale a orașului la Teatro comunale. Odată cu lăsarea după-amiezii, o plimbare mai lungă vă duce la istorica Basilica di San Focà pentru a descoperi rădăcini antice. Seara se încheie la moderna Chiesa di San Giuseppe Operaio.",
         "en": "Morning begins near the city center with a visit to the striking Chiesa dell'Angelo Custode, offering a peaceful start to the day. The short walk to Chiesa di Santa Chiara further immerses you in the local spiritual heritage. Midday is dedicated to the town's cultural heart at the Teatro comunale, a vibrant hub of local life. As afternoon sets in, a slightly longer stroll takes you to the historic Basilica di San Focà to uncover ancient roots. Evening concludes at the modern Chiesa di San Giuseppe Operaio, perfect for quiet reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang zu den Kirchen und nutzen Sie den Schirm zwischen den Stopps. Mittags bietet das Innere des Theaters eine perfekte trockene Zuflucht. Verbringen Sie den Nachmittag bei der alten Basilika, tragen Sie jedoch wasserdichte Schuhe für die schlammigen Wege. Beenden Sie den nassen Abend sicher und warm drinnen.",
+            "hu": "Kezdje a reggelt a gyönyörű templomoknál, esernyővel védekezve a záporok ellen. Délben a helyi színház tökéletes, száraz kulturális menedéket nyújt. A délutánt töltse az ősi bazilika felfedezésével, de a saras ösvények miatt viseljen vízálló cipőt. Zárja a nedves estét biztonságban, fedett helyen.",
+            "ro": "Începeți dimineața ploioasă vizitând bisericile, folosind umbrela între opriri. La prânz, teatrul oferă o evadare uscată și perfectă. Petreceți după-amiaza explorând vechea bazilică, purtând încălțăminte impermeabilă pentru căile noroioase. Încheiați seara umedă în siguranță, într-un loc acoperit.",
+            "en": "Start your morning visiting beautiful churches, using your umbrella between stops. Midday offers a perfect dry escape inside the local theater. Spend the afternoon exploring the ancient basilica, wearing waterproof shoes for muddy paths. Conclude the wet evening safely indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Angelo Custode",
+                "hu": "Chiesa dell'Angelo Custode",
+                "ro": "Chiesa dell'Angelo Custode",
+                "en": "Chiesa dell'Angelo Custode"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den schönen Altar in dieser ruhigen Zuflucht. Perfekt, um trocken zu bleiben, aber halten Sie den Schirm bereit.",
+                "hu": "Csodálja meg az oltárt ebben a csendes menedékben. Tökéletes a szárazon maradáshoz, de tartsa kéznél az esernyőjét.",
+                "ro": "Admirați altarul frumos în acest refugiu liniștit. Este perfect pentru a sta uscat, dar pregătiți umbrela pentru ieșire.",
+                "en": "Admire the beautiful altar in this quiet refuge. It’s perfect to stay dry, but keep your umbrella ready for the exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Chiara",
+                "hu": "Chiesa di Santa Chiara",
+                "ro": "Chiesa di Santa Chiara",
+                "en": "Chiesa di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die feinen Details im Inneren. Schütteln Sie den Regen ab und achten Sie auf den rutschigen Steinboden.",
+                "hu": "Figyelje meg a finom belső részleteket. Rázza le az esőt a bejáratnál, és vigyázzon a csúszós kőpadlón.",
+                "ro": "Observați detaliile fine din interior. Scuturați ploaia la intrare și aveți grijă la podelele de piatră alunecoase.",
+                "en": "Notice the delicate interior details. Shake off the rain at the entrance, and be careful on the slippery stone floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro comunale",
+                "hu": "Teatro comunale",
+                "ro": "Teatro comunale",
+                "en": "Teatro comunale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Atmosphäre dieses Juwels. Es ist die perfekte Zuflucht vor dem Regenguss am Mittag.",
+                "hu": "Élvezze e beltéri gyöngyszem kulturális hangulatát. Tökéletes déli menedék a felhőszakadás elől, ahol megszáradhat.",
+                "ro": "Bucurați-vă de atmosfera culturală aici. Este evadarea perfectă la prânz din calea ploii pentru a vă usca hainele.",
+                "en": "Enjoy the cultural atmosphere of this indoor gem. It is the perfect midday escape from the downpour to dry your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Focà",
+                "hu": "Basilica di San Focà",
+                "ro": "Basilica di San Focà",
+                "en": "Basilica di San Focà"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen. Die Wege werden im Regen sehr schlammig, tragen Sie daher wasserdichte Schuhe.",
+                "hu": "Fedezze fel a történelmi romokat. Az ösvények sárgássá válnak az esőben, ezért viseljen erős, vízálló cipőt.",
+                "ro": "Explorați ruinele istorice. Căile devin noroioase în ploaie, așa că purtați încălțăminte rezistentă și impermeabilă.",
+                "en": "Explore the historical ruins safely. The pathways get quite muddy in the rain, so wear sturdy, waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe Operaio",
+                "hu": "Chiesa di San Giuseppe Operaio",
+                "ro": "Chiesa di San Giuseppe Operaio",
+                "en": "Chiesa di San Giuseppe Operaio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in dieser modernen Kirche. Sie bietet ein trockenes Heiligtum vor den regnerischen Abendstraßen.",
+                "hu": "Zárja a túrát e modern templom megcsodálásával. Meleg, száraz menedéket nyújt az esős esti utcák elől.",
+                "ro": "Încheiați turul admirând liniile moderne ale bisericii. Oferă un sanctuar cald și uscat din calea serilor ploioase.",
+                "en": "End your tour admiring the modern lines of this church. It provides a warm, dry sanctuary from the rainy evening streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen ist ideal für Spaziergänge zwischen den Kirchen. Wärmen Sie sich mittags im gemütlichen Theater auf. Der Nachmittag bringt wunderschönes tiefes Sonnenlicht zu den historischen Ruinen. Ziehen Sie sich abends warm an, da die Temperaturen extrem schnell fallen.",
+            "hu": "Egy csípős téli reggel tökéletes a helyi templomok közötti sétára. Délben melegedjen fel a helyi színház kulturális hangulatában. A délután csodálatos alacsony napsütést hoz a történelmi bazilika romjaihoz. Öltözzön fel melegen estére, mivel a hőmérséklet gyorsan csökken.",
+            "ro": "O dimineață rece de iarnă este perfectă pentru a merge între biserici. Încălziți-vă la prânz bucurându-vă de atmosfera teatrului. După-amiaza aduce o lumină frumoasă a soarelui la ruinele istorice. Îmbrăcați-vă gros pentru seară, deoarece temperaturile scad foarte repede.",
+            "en": "A crisp winter morning is perfect for walking between the local churches. Warm up midday by enjoying the cultural ambiance of the local theater. The afternoon brings beautiful low sunlight to the historic basilica ruins. Bundle up for the evening as temperatures drop fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Angelo Custode",
+                "hu": "Chiesa dell'Angelo Custode",
+                "ro": "Chiesa dell'Angelo Custode",
+                "en": "Chiesa dell'Angelo Custode"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren frischen Morgen mit der ruhigen Atmosphäre. Die dicken Wände bleiben kalt, behalten Sie den Mantel an.",
+                "hu": "Kezdje a hűvös reggelt a nyugodt légkör élvezetével. A vastag falak hidegek, így tartsa magán a télikabátot.",
+                "ro": "Începeți dimineața rece admirând atmosfera senină. Pereții groși se mențin foarte reci, așa că păstrați haina de iarnă.",
+                "en": "Begin your crisp morning admiring the serene atmosphere. The thick walls stay very cold, so keep your winter coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Chiara",
+                "hu": "Chiesa di Santa Chiara",
+                "ro": "Chiesa di Santa Chiara",
+                "en": "Chiesa di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Winterstimmung. Das Sonnenlicht ist schön, aber der Steinboden erfordert warme Socken.",
+                "hu": "Élvezze a békés téli hangulatot. A napfény gyönyörű, de a kőpadlón meleg zokni nélkül fázni fog a lába.",
+                "ro": "Bucurați-vă de vibrația de iarnă. Lumina soarelui e frumoasă, dar podelele de piatră necesită șosete groase și calde.",
+                "en": "Enjoy the peaceful winter vibe inside. The sunlight is beautiful, but the stone floors freeze feet without warm socks."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro comunale",
+                "hu": "Teatro comunale",
+                "ro": "Teatro comunale",
+                "en": "Teatro comunale"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im gemütlichen Theater auf. Eine tolle kulturelle Pause, um die dicken Winterschichten abzulegen.",
+                "hu": "Melegedjen fel a színház hangulatos belsejében. Kiváló kulturális szünet, ahol leveheti a nehéz rétegeket.",
+                "ro": "Încălziți-vă în interiorul confortabil al teatrului. O pauză culturală excelentă unde puteți da jos hainele groase.",
+                "en": "Warm up in the theater's cozy interior. It's an excellent cultural break where you can take off heavy layers and relax."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Focà",
+                "hu": "Basilica di San Focà",
+                "ro": "Basilica di San Focà",
+                "en": "Basilica di San Focà"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen in der Wintersonne atemberaubend aus. Besuchen Sie sie vor Einbruch der Dunkelheit und der Kälte.",
+                "hu": "A romok lenyűgözőek az alacsony téli napsütésben. Látogasson el ide sötétedés előtt, mert a naplemente gyorsan lehűti a levegőt.",
+                "ro": "Ruinele arată uimitor în soarele de iarnă. Vizitați înainte de a se întuneca, deoarece apusul timpuriu răcește aerul.",
+                "en": "The ancient ruins look stunning in the low winter sun. Visit before it gets dark, as the early sunset chills the air fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe Operaio",
+                "hu": "Chiesa di San Giuseppe Operaio",
+                "ro": "Chiesa di San Giuseppe Operaio",
+                "en": "Chiesa di San Giuseppe Operaio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in dieser einladenden Gemeinde. Die Beleuchtung wirkt an dunklen Winterabenden sehr warm.",
+                "hu": "Zárja a sétát ebben a hívogató plébánián. A belső világítás hihetetlenül melegnek hat a gyorsan sötétedő téli estén.",
+                "ro": "Încheiați plimbarea în această parohie primitoare. Iluminatul interior este foarte cald pe măsură ce seara de iarnă se întunecă.",
+                "en": "Wrap up your walk in this inviting parish. The interior lighting feels incredibly warm as the winter evening rapidly darkens."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A reggeli kerékpározás a barátságos Chiesa del Sacro Cuore templomnál indul, majd a Catacomba Monachella lenyűgöző föld alatti folyosói felé vesszük az irányt. Délben elérjük a nyüzsgő központot, ahol megcsodáljuk az Angelo Custode és a Santa Chiara templomokat. A délután kulturális pihenőre csábít a Teatro comunale épületében, amit a Basilica di San Focà felfedezése követ. Az este közeledtével a Torre del Fico felé tekerünk, hogy élvezzük a gyönyörű naplemente látványát.",
         "ro": "Plimbarea de dimineață cu bicicleta începe la primitoarea Chiesa del Sacro Cuore, înainte de a pedala spre Catacomba Monachella. Până la prânz, veți ajunge în centrul plin de viață, admirând arhitectura clasică a Chiesa dell'Angelo Custode și Santa Chiara. După-amiaza invită la o pauză culturală la Teatro comunale, urmată de o explorare a anticei Basilica di San Focà. Seara, o cursă rapidă către reperul Torre del Fico oferă priveliști superbe la apus.",
         "en": "Your morning ride starts at the welcoming Chiesa del Sacro Cuore before cycling towards the fascinating underground passages of Catacomba Monachella. By midday, you'll reach the lively center, admiring the classic architecture of Chiesa dell'Angelo Custode and Santa Chiara. The afternoon invites a cultural pause at the Teatro comunale, followed by an exploration of the ancient Basilica di San Focà. As evening approaches, a brisk ride to the landmark Torre del Fico offers beautiful sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour in wasserdichter Kleidung zu den Kirchen. Mittags bietet das Theater einen trockenen Zufluchtsort. Die Nachmittagsfahrt zur Basilika erfordert Vorsicht auf nassen Straßen. Beenden Sie den Abend sicher mit gutem Licht am Fahrrad.",
+            "hu": "Kezdje az esős bringatúrát vízálló felszereléssel a templomoknál. Délben keressen száraz menedéket a helyi színházban. A délutáni tekerés a bazilikához óvatosságot igényel a csúszós utakon. Az estét zárja biztonságban, ellenőrizve a kerékpár lámpáit.",
+            "ro": "Începeți turul ploios cu bicicleta folosind echipament impermeabil. La prânz, adăpostiți-vă de ploaie în teatrul local. Plimbarea de după-amiază necesită prudență pe drumurile umede și alunecoase. Încheiați seara în siguranță, folosind luminile bicicletei.",
+            "en": "Begin your rainy bike tour with waterproof gear, visiting the church and catacombs. By noon, seek dry shelter in the local theater. The afternoon ride to the basilica requires caution on wet, slippery roads. Finish your wet evening ride safely, ensuring your bike lights work."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore",
+                "hu": "Chiesa del Sacro Cuore",
+                "ro": "Chiesa del Sacro Cuore",
+                "en": "Chiesa del Sacro Cuore"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um die Fassade zu bewundern. Schließen Sie Ihre Regenkleidung gut, bevor Sie weiterfahren.",
+                "hu": "Kezdje itt a homlokzat megcsodálásával. Húzza fel jól a vízálló kabátját, mielőtt visszapattan a vizes bringára.",
+                "ro": "Începeți aici pentru a admira fațada. Asigurați-vă că pelerina de ploaie este bine închisă înainte de a urca pe bicicletă.",
+                "en": "Start here to admire the facade. Ensure your rain gear is tightly zipped before hopping back on your wet bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacomba Monachella",
+                "hu": "Catacomba Monachella",
+                "ro": "Catacomba Monachella",
+                "en": "Catacomba Monachella"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdische Geschichte. Diese Tunnel bieten fantastischen Schutz vor dem unerbittlichen Regen.",
+                "hu": "Fedezze fel a földalatti történelmet. Ezek az alagutak fantasztikus menedéket nyújtanak a kinti könyörtelen eső elől.",
+                "ro": "Explorați istoria subterană. Aceste tuneluri oferă un adăpost fantastic împotriva ploii necruțătoare de afară.",
+                "en": "Explore the underground history. These subterranean tunnels offer fantastic shelter from the relentless rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Angelo Custode",
+                "hu": "Chiesa dell'Angelo Custode",
+                "ro": "Chiesa dell'Angelo Custode",
+                "en": "Chiesa dell'Angelo Custode"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Altar in dieser ruhigen Zuflucht. Perfekt zum Trocknen, aber achten Sie auf rutschige Stufen.",
+                "hu": "Csodálja meg az oltárt ebben a csendes menedékben. Tökéletes száraz hely, de vigyázzon a csúszós lépcsőkön a cipőjében.",
+                "ro": "Admirați altarul în acest refugiu liniștit. Perfect pentru a sta uscat, dar atenție la treptele alunecoase cu pantofii de ciclism.",
+                "en": "Admire the beautiful altar in this quiet refuge. It’s perfect to stay dry, but mind the slippery steps in your cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Chiara",
+                "hu": "Chiesa di Santa Chiara",
+                "ro": "Chiesa di Santa Chiara",
+                "en": "Chiesa di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die feinen Details im Inneren. Schütteln Sie den Regen ab und achten Sie auf den rutschigen Steinboden.",
+                "hu": "Figyelje meg a finom belső részleteket. Rázza le az esőt a bejáratnál, és vigyázzon a csúszós kőpadlón.",
+                "ro": "Observați detaliile fine din interior. Scuturați ploaia la intrare și aveți grijă la podelele de piatră alunecoase.",
+                "en": "Notice the delicate interior details. Shake off the rain at the entrance, and be careful on the slippery stone floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro comunale",
+                "hu": "Teatro comunale",
+                "ro": "Teatro comunale",
+                "en": "Teatro comunale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Atmosphäre. Es ist die perfekte Zuflucht vor dem Regen, um die Radkleidung zu trocknen.",
+                "hu": "Élvezze e beltéri gyöngyszem kulturális hangulatát. Tökéletes déli menedék a kerékpáros ruhák megszáradásához.",
+                "ro": "Bucurați-vă de atmosfera culturală. Este evadarea perfectă la prânz din calea ploii pentru a vă usca hainele de ciclism.",
+                "en": "Enjoy the cultural atmosphere. It is the perfect midday escape from the downpour to dry your cycling clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Focà",
+                "hu": "Basilica di San Focà",
+                "ro": "Basilica di San Focà",
+                "en": "Basilica di San Focà"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen. Die Wege werden schlammig, und das Radfahren erfordert vorsichtiges Bremsen.",
+                "hu": "Fedezze fel a történelmi romokat. Az ösvények sarasak lesznek, a kerékpározás pedig óvatos fékezést igényel errefelé.",
+                "ro": "Explorați ruinele istorice. Căile devin noroioase, iar ciclismul până acolo necesită o frânare atentă pe ploaie.",
+                "en": "Explore the historical ruins safely. The pathways get muddy in the rain, and cycling there requires careful braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Fico",
+                "hu": "Torre del Fico",
+                "ro": "Torre del Fico",
+                "en": "Torre del Fico"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den markanten Turm an. Die Umgebung kann rutschig sein, bleiben Sie mit dem Fahrrad auf befestigten Wegen.",
+                "hu": "Tekintse meg az ikonikus tornyot. A környék nagyon csúszós lehet, ezért maradjon a burkolt utakon a kerékpárral.",
+                "ro": "Vedeți turnul emblematic. Zona înconjurătoare poate fi alunecoasă, deci rămâneți pe suprafețele pavate cu bicicleta.",
+                "en": "View the landmark tower. The surrounding area can be very slippery, so stay on paved surfaces with your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre frostige morgendliche Fahrt gut eingepackt. Wärmen Sie sich mittags im gemütlichen Theater auf. Die nachmittägliche Radtour zur historischen Basilika ist frisch, aber lohnend. Fahren Sie am frühen Abend zurück, bevor die Sonne untergeht.",
+            "hu": "Kezdje a fagyos reggeli tekerést meleg ruhában a katakombáknál. Délben melegedjen fel a hangulatos színházban. A délutáni kerékpározás a történelmi bazilikához frissítő élmény. Induljon vissza kora este, még a naplemente és a fagy beállta előtt.",
+            "ro": "Începeți dimineața geroasă pe bicicletă, bine îmbrăcați pentru catacombe. Încălziți-vă la prânz în teatrul primitor. Ciclismul de după-amiază către bazilică este revigorant. Întoarceți-vă devreme seara, înainte de apus și de lăsarea frigului de iarnă.",
+            "en": "Start your freezing morning ride bundled up for the catacombs. Warm up at midday inside the cozy theater. The afternoon cycle to the historic basilica is crisp but rewarding. Head back early in the evening before the sun sets and the winter frost sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore",
+                "hu": "Chiesa del Sacro Cuore",
+                "ro": "Chiesa del Sacro Cuore",
+                "en": "Chiesa del Sacro Cuore"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade. Tragen Sie winddichte Handschuhe, da der morgendliche Fahrtwind beißend kalt ist.",
+                "hu": "Csodálja meg a homlokzatot. Viseljen szélálló kesztyűt, mert a reggeli kerékpáros menetszél metszően hideg.",
+                "ro": "Începeți aici pentru a admira fațada. Asigurați-vă că purtați mănuși rezistente la vânt, deoarece aerul dimineții este rece.",
+                "en": "Start here to admire the facade. Ensure you wear windproof gloves, as the morning cycling breeze is biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacomba Monachella",
+                "hu": "Catacomba Monachella",
+                "ro": "Catacomba Monachella",
+                "en": "Catacomba Monachella"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdische Geschichte. Die Luft hier unten fühlt sich wärmer an als der eisige Winterwind draußen.",
+                "hu": "Fedezze fel a földalatti történelmet. A benti levegő valójában melegebbnek tűnik, mint a kinti fagyos téli szél.",
+                "ro": "Explorați istoria subterană. Aerul de aici se simte de fapt mai cald decât vântul înghețat de iarnă de afară.",
+                "en": "Explore the underground history. The subterranean air here actually feels warmer than the freezing winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Angelo Custode",
+                "hu": "Chiesa dell'Angelo Custode",
+                "ro": "Chiesa dell'Angelo Custode",
+                "en": "Chiesa dell'Angelo Custode"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre. Behalten Sie den Mantel an, um die Körperwärme nach dem Radfahren zu speichern.",
+                "hu": "Kezdje a hűvös reggelt a nyugodt légkör élvezetével. Tartsa magán a kabátot, hogy megőrizze a tekerés utáni testhőt.",
+                "ro": "Admirați atmosfera senină. Păstrați haina de iarnă pe dumneavoastră pentru a reține căldura corpului după ciclism.",
+                "en": "Begin your crisp morning admiring the serene atmosphere. Keep your winter coat on to retain body heat after cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Chiara",
+                "hu": "Chiesa di Santa Chiara",
+                "ro": "Chiesa di Santa Chiara",
+                "en": "Chiesa di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Winterstimmung. Das Sonnenlicht ist schön, aber der Steinboden erfordert warme Socken.",
+                "hu": "Élvezze a békés téli hangulatot. A napfény gyönyörű, de a kőpadlón meleg zokni nélkül fázni fog a lába.",
+                "ro": "Bucurați-vă de vibrația de iarnă. Lumina soarelui e frumoasă, dar podelele de piatră necesită șosete groase și calde.",
+                "en": "Enjoy the peaceful winter vibe inside. The sunlight is beautiful, but the stone floors freeze feet without warm socks."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro comunale",
+                "hu": "Teatro comunale",
+                "ro": "Teatro comunale",
+                "en": "Teatro comunale"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im gemütlichen Theater auf. Eine hervorragende Pause, um Ihre gefrorenen Finger aufzutauen und zu entspannen.",
+                "hu": "Melegedjen fel a színház hangulatos belsejében. Kiváló kulturális szünet a fagyott ujjak felmelegítésére.",
+                "ro": "Încălziți-vă în interiorul teatrului. O pauză culturală excelentă pentru a vă dezgheța degetele și a vă relaxa.",
+                "en": "Warm up in the theater's cozy interior. It's an excellent cultural break to thaw your frozen fingers and relax."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Focà",
+                "hu": "Basilica di San Focà",
+                "ro": "Basilica di San Focà",
+                "en": "Basilica di San Focà"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen in der Wintersonne atemberaubend aus. Radeln Sie schnell hierher, bevor der frühe Sonnenuntergang kühlt.",
+                "hu": "A romok lenyűgözőek a téli napsütésben. Tekerjen ide gyorsan, mielőtt a korai naplemente lehűti a levegőt.",
+                "ro": "Ruinele arată uimitor în soarele de iarnă. Pedalați aici rapid înainte ca apusul timpuriu să răcească puternic aerul.",
+                "en": "The ancient ruins look stunning in the low winter sun. Pedal here quickly before the early sunset chills the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Fico",
+                "hu": "Torre del Fico",
+                "ro": "Torre del Fico",
+                "en": "Torre del Fico"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den Turm an. Schalten Sie Ihr Fahrradlicht ein, bevor Sie fahren, da es im Winter extrem schnell dunkel wird.",
+                "hu": "Tekintse meg a tornyot. Indulás előtt kapcsolja be a kerékpár lámpáit, mert a téli este rendkívül gyorsan sötétedik.",
+                "ro": "Vedeți turnul emblematic. Porniți luminile bicicletei înainte de a pleca, deoarece seara de iarnă se întunecă foarte rapid.",
+                "en": "View the landmark tower. Turn on your bike lights before leaving, as the winter evening gets dark extremely fast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós túráját a város szélén, a Chiesa del Sacro Cuore templomnál kezdje, majd délelőtt fedezze fel a Catacomba Monachella titkait. A dél a városközpontra összpontosít, hatékonyan összekapcsolva a Chiesa dell'Angelo Custode és a nagyszerű Teatro comunale építészeti szépségeit. Délután egy rövid autóút a Torre del Fico panorámájához, majd a Basilica di San Focà történelmi romjaihoz vezet. Az esti utazást a békés Chiesa di San Giuseppe Operaio templomnál fejezheti be.",
         "ro": "Începeți turul cu mașina la periferie, la Chiesa del Sacro Cuore, trecând rapid să descoperiți misterele de la Catacomba Monachella dimineața. Amiaza se concentrează pe centrul orașului, legând eficient frumusețea arhitecturală a Chiesa dell'Angelo Custode și marele Teatro comunale. După-amiaza, un scurt drum vă duce la Torre del Fico pentru fotografii panoramice, urmat imediat de ruinele istorice ale Basilica di San Focà. Încheiați-vă seara cu mașina la Chiesa di San Giuseppe Operaio.",
         "en": "Start your driving tour on the outskirts at Chiesa del Sacro Cuore, quickly moving on to uncover the mysteries of Catacomba Monachella in the morning. Midday focuses on the town center, efficiently linking the architectural beauty of Chiesa dell'Angelo Custode and the grand Teatro comunale. In the afternoon, a short drive brings you to Torre del Fico for panoramic shots, immediately followed by the historic ruins of Basilica di San Focà. Conclude your evening drive at Chiesa di San Giuseppe Operaio."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den regnerischen Morgen und machen Sie kurze Sprints zu den Katakomben. Mittags bietet das Theater eine tolle Pause. Verbringen Sie den Nachmittag mit Schirm an der Basilika. Fahren Sie abends vorsichtig auf den spiegelnden nassen Straßen.",
+            "hu": "Vezessen kényelmesen az esős reggelen, rövid futásokkal a katakombákhoz. Délben a színház fantasztikus kulturális menedéket nyújt. A délutánt töltse a bazilika felfedezésével esernyővel a kézben. Vezessen óvatosan este, mert a vizes utak tükröződnek.",
+            "ro": "Conduceți confortabil în dimineața ploioasă, făcând sprinturi scurte spre catacombe. La prânz, teatrul oferă o pauză culturală uscată. Petreceți după-amiaza ploioasă la bazilică cu o umbrelă. Conduceți cu grijă seara, deoarece drumurile umede reflectă luminile.",
+            "en": "Drive comfortably through the rainy morning, making short dashes to the catacombs. At noon, the theater offers a fantastic indoor cultural break. Spend the rainy afternoon exploring the basilica with an umbrella. Drive safely in the evening as wet roads reflect headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore",
+                "hu": "Chiesa del Sacro Cuore",
+                "ro": "Chiesa del Sacro Cuore",
+                "en": "Chiesa del Sacro Cuore"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier vom geparkten Auto. Die Kirche ist ein trockenes Refugium, aber nehmen Sie einen Schirm für den kurzen Weg.",
+                "hu": "Kezdje itt, átszaladva a parkoló autótól. A templom száraz menedék, de vigyen esernyőt a rövid sétához.",
+                "ro": "Începeți aici din mașina parcată. Biserica este un refugiu uscat, dar luați o umbrelă pentru scurta plimbare.",
+                "en": "Start here and dash from your parked car. The church is a dry haven, but take an umbrella for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacomba Monachella",
+                "hu": "Catacomba Monachella",
+                "ro": "Catacomba Monachella",
+                "en": "Catacomba Monachella"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdische Geschichte. Diese Tunnel bieten fantastischen Schutz vor dem unerbittlichen Regen.",
+                "hu": "Fedezze fel a földalatti történelmet. Ezek az alagutak fantasztikus menedéket nyújtanak a kinti eső elől.",
+                "ro": "Explorați istoria subterană. Aceste tuneluri oferă un adăpost fantastic împotriva ploii necruțătoare de afară.",
+                "en": "Explore the underground history. These subterranean tunnels offer fantastic shelter from the relentless rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Angelo Custode",
+                "hu": "Chiesa dell'Angelo Custode",
+                "ro": "Chiesa dell'Angelo Custode",
+                "en": "Chiesa dell'Angelo Custode"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Altar. Perfekt zum Trocknen, aber achten Sie auf nasse, rutschige Pedale bei der Rückkehr ins Auto.",
+                "hu": "Csodálja meg az oltárt. Tökéletes száraz hely, de vigyázzon a vizes pedálokra, amikor visszatér az autóba.",
+                "ro": "Admirați altarul. Este perfect pentru a sta uscat, dar atenție la pedalele umede când vă întoarceți la mașină.",
+                "en": "Admire the beautiful altar. It’s perfect to stay dry, but be careful of wet, slippery pedals when you return to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro comunale",
+                "hu": "Teatro comunale",
+                "ro": "Teatro comunale",
+                "en": "Teatro comunale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre. Die perfekte Zuflucht vor dem Regen am Mittag, um vor der Weiterfahrt zu trocknen.",
+                "hu": "Élvezze e beltéri gyöngyszem kulturális hangulatát. Tökéletes déli menedék a felhőszakadás elől a vezetés folytatása előtt.",
+                "ro": "Bucurați-vă de atmosfera culturală. Este evadarea perfectă la prânz din calea ploii pentru a vă usca înainte de a conduce.",
+                "en": "Enjoy the cultural atmosphere. It is the perfect midday escape from the downpour to dry off before driving again."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Fico",
+                "hu": "Torre del Fico",
+                "ro": "Torre del Fico",
+                "en": "Torre del Fico"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Turm kurz an. Die Umgebung ist schlammig, also betrachten Sie ihn notfalls bequem vom Auto aus.",
+                "hu": "Tekintse meg a tornyot gyorsan. A környék saras az esőben, ezért szükség esetén nézze meg kényelmesen az autójából.",
+                "ro": "Vedeți rapid turnul. Zona este noroioasă în ploaie, deci priviți-l din confortul mașinii dacă este necesar.",
+                "en": "View the landmark tower quickly. The surrounding area is muddy in the rain, so view it from the comfort of your car if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Focà",
+                "hu": "Basilica di San Focà",
+                "ro": "Basilica di San Focà",
+                "en": "Basilica di San Focà"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen. Die Wege werden schlammig, wechseln Sie zu wasserdichten Schuhen, bevor Sie das Auto verlassen.",
+                "hu": "Fedezze fel a romokat. Az ösvények sarasak, így váltson vízálló cipőre, mielőtt elhagyja az autó melegét.",
+                "ro": "Explorați ruinele. Căile devin noroioase, deci schimbați-vă cu încălțăminte impermeabilă înainte de a lăsa căldura mașinii.",
+                "en": "Explore the ruins. The pathways get muddy, so switch to waterproof shoes before leaving the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Chiara",
+                "hu": "Chiesa di Santa Chiara",
+                "ro": "Chiesa di Santa Chiara",
+                "en": "Chiesa di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die feinen Details im Inneren. Schütteln Sie den Regen ab und achten Sie auf den rutschigen Steinboden.",
+                "hu": "Figyelje meg a finom belső részleteket. Rázza le az esőt a bejáratnál, és vigyázzon a csúszós kőpadlón.",
+                "ro": "Observați detaliile fine din interior. Scuturați ploaia la intrare și aveți grijă la podelele de piatră alunecoase.",
+                "en": "Notice the delicate interior details. Shake off the rain at the entrance, and be careful on the slippery stone floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe Operaio",
+                "hu": "Chiesa di San Giuseppe Operaio",
+                "ro": "Chiesa di San Giuseppe Operaio",
+                "en": "Chiesa di San Giuseppe Operaio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier. Es bietet ein trockenes Heiligtum vor Ihrer letzten regnerischen Fahrt zurück zum Hotel.",
+                "hu": "Zárja a túrát e modern templomban. Száraz menedéket nyújt az utolsó esős hazavezetés előtt.",
+                "ro": "Încheiați turul aici. Biserica oferă un sanctuar uscat înainte de ultima călătorie ploioasă cu mașina spre hotel.",
+                "en": "End your tour admiring the modern lines. It provides a dry sanctuary before your final rainy drive back to your hotel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie diesen Wintermorgen im warmen Auto, während Sie die Sehenswürdigkeiten besuchen. Machen Sie mittags Pause im beheizten Theater. Fahren Sie nachmittags zur Basilika, um das tiefe Sonnenlicht zu genießen. Die abendliche Fahrt ist dunkel und gemütlich.",
+            "hu": "Élvezze a fűtött autó kényelmét ezen a téli reggelen a látnivalók között. Tartson ebédszünetet a meleg helyi színházban. Kora délután hajtson a bazilikához a gyönyörű téli fényekért. Az esti vezetés sötét és hangulatos, ahogy befejezi a túrát.",
+            "ro": "Bucurați-vă de căldura mașinii în această dimineață de iarnă vizitând obiectivele. Faceți o pauză la prânz în teatrul încălzit. Conduceți spre bazilică după-amiaza pentru a prinde lumina soarelui de iarnă. Călătoria de seară este întunecată și confortabilă.",
+            "en": "Enjoy the luxury of a warm car this winter morning while visiting the sites. Take a midday break in the heated local theater. Drive to the basilica in the afternoon to catch the low winter sunlight. The evening drive is dark and cozy as you finish the tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore",
+                "hu": "Chiesa del Sacro Cuore",
+                "ro": "Chiesa del Sacro Cuore",
+                "en": "Chiesa del Sacro Cuore"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem warmen Auto, um die Fassade zu bewundern. Stellen Sie sicher, dass Ihr Wintermantel geschlossen ist.",
+                "hu": "Szálljon ki a meleg autóból a homlokzat megcsodálásához. Húzza fel jól a télikabátját a hideg ellen.",
+                "ro": "Ieșiți din mașina caldă pentru a admira fațada. Asigurați-vă că haina de iarnă este închisă împotriva frigului.",
+                "en": "Start here and step out of your warm car to admire the facade. Make sure your winter coat is fully zipped against the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacomba Monachella",
+                "hu": "Catacomba Monachella",
+                "ro": "Catacomba Monachella",
+                "en": "Catacomba Monachella"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdische Geschichte. Die Luft hier unten fühlt sich wärmer an als der eisige Winterwind draußen.",
+                "hu": "Fedezze fel a földalatti történelmet. A benti levegő valójában melegebbnek tűnik, mint a kinti fagyos téli szél.",
+                "ro": "Explorați istoria subterană. Aerul de aici se simte de fapt mai cald decât vântul înghețat de iarnă de afară.",
+                "en": "Explore the underground history. The subterranean air actually feels warmer than the freezing winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Angelo Custode",
+                "hu": "Chiesa dell'Angelo Custode",
+                "ro": "Chiesa dell'Angelo Custode",
+                "en": "Chiesa dell'Angelo Custode"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die ruhige Atmosphäre. Die dicken Wände kühlen die Kirche, lassen Sie die Jacke nicht im Auto.",
+                "hu": "Csodálja meg a nyugodt légkört. A vastag falak hidegen tartják a templomot, így ne hagyja a kabátot az autóban.",
+                "ro": "Admirați atmosfera senină. Pereții groși mențin biserica rece, așa că nu lăsați jacheta în mașină.",
+                "en": "Admire the serene atmosphere. The thick walls keep the church cool, so don't leave your jacket in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro comunale",
+                "hu": "Teatro comunale",
+                "ro": "Teatro comunale",
+                "en": "Teatro comunale"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im gemütlichen Inneren auf. Eine kulturelle Pause, um die dicken Winterschichten mittags abzulegen.",
+                "hu": "Melegedjen fel a hangulatos belső térben. Kiváló kulturális szünet, ahol leveheti a nehéz rétegeket délben.",
+                "ro": "Încălziți-vă în interiorul confortabil. O pauză culturală excelentă unde puteți da jos hainele groase la prânz.",
+                "en": "Warm up in the cozy interior. It's an excellent cultural break where you can take off heavy layers and relax midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Fico",
+                "hu": "Torre del Fico",
+                "ro": "Torre del Fico",
+                "en": "Torre del Fico"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den Turm an. Parken Sie in der Nähe, um vor Sonnenuntergang einen langen Spaziergang im kalten Wind zu vermeiden.",
+                "hu": "Tekintse meg a tornyot. Parkoljon közel, hogy elkerülje a hosszú sétát a fagyos téli szélben még naplemente előtt.",
+                "ro": "Vedeți turnul. Parcați aproape pentru a evita o plimbare lungă în vântul înghețat de iarnă înainte de apus.",
+                "en": "View the landmark tower. Park close by to avoid a long walk in the freezing winter wind before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Focà",
+                "hu": "Basilica di San Focà",
+                "ro": "Basilica di San Focà",
+                "en": "Basilica di San Focà"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen in der Wintersonne atemberaubend aus. Besuchen Sie sie, bevor der frühe Sonnenuntergang die Luft kühlt.",
+                "hu": "A romok lenyűgözőek a téli napsütésben. Látogasson el gyorsan, mielőtt a korai naplemente teljesen lehűti a levegőt.",
+                "ro": "Ruinele arată uimitor în soarele de iarnă. Vizitați rapid înainte ca apusul timpuriu să răcească aerul complet.",
+                "en": "The ancient ruins look stunning in the low winter sun. Visit quickly before the early sunset chills the air completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Chiara",
+                "hu": "Chiesa di Santa Chiara",
+                "ro": "Chiesa di Santa Chiara",
+                "en": "Chiesa di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Winterstimmung. Der Steinboden kühlt die Füße, drehen Sie im Auto die Heizung voll auf.",
+                "hu": "Élvezze a békés téli hangulatot. A kőpadló lefagyaszthatja a lábát, így tekerje fel az autó fűtését, ha visszaül.",
+                "ro": "Bucurați-vă de vibrația de iarnă. Podelele de piatră vă pot îngheța picioarele, așa că porniți căldura în mașină la întoarcere.",
+                "en": "Enjoy the peaceful winter vibe inside. The stone floors can freeze your feet, so blast the car heater when you get back."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe Operaio",
+                "hu": "Chiesa di San Giuseppe Operaio",
+                "ro": "Chiesa di San Giuseppe Operaio",
+                "en": "Chiesa di San Giuseppe Operaio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in dieser Gemeinde. Das Innere wirkt warm, wenn es dunkel wird, vor der gemütlichen Heimfahrt.",
+                "hu": "Zárja a túrát e hívogató plébánián. A belső tér melegnek hat a sötétedő téli estén a hazavezetés előtt.",
+                "ro": "Încheiați turul în această parohie. Interiorul se simte cald pe măsură ce seara de iarnă se întunecă, înainte de drumul spre casă.",
+                "en": "Wrap up your tour in this inviting parish. The interior feels warm as the winter evening darkens, before a cozy drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

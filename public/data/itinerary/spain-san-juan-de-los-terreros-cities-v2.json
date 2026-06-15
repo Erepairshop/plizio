@@ -137,6 +137,168 @@
         "hu": "A nap egy pihentető sétával indul a Mar Serena és a Mar Rabiosa aranyhomokos tengerpartjain a város szívében. Délben felfedezzük a rejtett Cala La Invencible öblöt és annak kristálytiszta vizét. Délután megmásszuk a történelmi Castillo de San Juan várat a fantasztikus panorámáért. Este a partról megcsodáljuk az érintetlen vulkanikus szigetek sziluettjét a lemenő nap fényében.",
         "ro": "Ziua începe cu o plimbare relaxantă de-a lungul plajelor aurii Mar Serena și Mar Rabiosa, aflate în inima stațiunii. La prânz veți descoperi golful ascuns Cala La Invencible și apele sale cristaline. După-amiaza veți urca la istoricul castel San Juan pentru o panoramă fantastică asupra coastei. Seara veți admira silueta insulelor vulcanice protejate în lumina caldă a apusului.",
         "en": "The day begins with a relaxing stroll along the golden sands of Mar Serena and Mar Rabiosa in the heart of town. At midday, discover the hidden cove of Cala La Invencible with its crystal-clear waters. In the afternoon, climb up to the historic Castillo de San Juan for a fantastic panoramic view of the coast. The evening ends admiring the pristine volcanic islands in the sunset light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen an der Playa Mar Serena beginnt mit dem beruhigenden Geräusch der Tropfen auf dem Wasser. Mittags suchen wir Schutz in den kleinen Buchten, während der Himmel dramatisch aufklart. Nachmittags bietet die Burg Castillo trockenen Unterschlupf und Geschichte. Der Abend klingt bei einem Spaziergang auf der glänzenden Promenade aus, wenn sich die Lichter im nassen Asphalt spiegeln.",
+            "hu": "Az esős reggel a Playa Mar Serena parton a vízen koppanó cseppek nyugtató zajával indul. Délben a kis öblök sziklái alatt keresünk menedéket, miközben az égbolt drámai színeket ölt. Délután a vár belső terei nyújtanak száraz menedéket és történelmi élményeket. Az este a vizes aszfalton megcsillanó fények mellett, a tengerparti sétányon zárul, ahol a sós pára és az eső illata keveredik.",
+            "ro": "O dimineață ploioasă la Playa Mar Serena începe cu sunetul liniștitor al picăturilor pe apă. La prânz căutăm adăpost în micile golfuri, în timp ce cerul capătă nuanțe dramatice. După-amiaza, castelul oferă un refugiu uscat și o incursiune în istorie. Seara se încheie cu o plimbare pe faleza strălucitoare, unde luminile se reflectă în asfaltul umed și aerul este proaspăt.",
+            "en": "A rainy morning at Playa Mar Serena begins with the soothing sound of droplets hitting the sea. At noon, we seek shelter in the small coves as the sky turns dramatic. In the afternoon, the castle provides dry refuge and a deep dive into local history. The evening concludes with a walk along the shiny promenade, where lights reflect off the wet pavement and the air feels crisp."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Mar Serena",
+                "hu": "Playa Mar Serena",
+                "ro": "Playa Mar Serena",
+                "en": "Playa Mar Serena"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen über dem Meer von einem der ufernahen Cafés aus; bringen Sie einen stabilen Regenschirm für die windigen Böen mit.",
+                "hu": "Figyelje a tenger feletti esőt az egyik közeli kávézó teraszáról; hozzon magával szélálló esernyőt a hirtelen érkező partmenti széllökések miatt.",
+                "ro": "Observați ploaia deasupra mării de la una dintre cafenelele de pe mal; aduceți o umbrelă rezistentă pentru rafalele de vânt de pe coastă.",
+                "en": "Watch the rain over the sea from one of the nearby beachfront cafes; bring a sturdy umbrella for the windy gusts typical of the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mar Rabiosa",
+                "hu": "Playa Mar Rabiosa",
+                "ro": "Playa Mar Rabiosa",
+                "en": "Playa Mar Rabiosa"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen bieten hier natürlichen Schutz, aber Vorsicht beim Gehen auf den nassen Steinen, da sie bei Regen extrem rutschig werden können.",
+                "hu": "A sziklák természetes védelmet nyújtanak, de legyen óvatos a vizes köveken, mert esőben rendkívül csúszóssá és veszélyessé válhatnak.",
+                "ro": "Stâncile oferă adăpost natural aici, dar aveți grijă când mergeți pe pietrele umede, deoarece pot deveni extrem de alunecoase în timpul ploii.",
+                "en": "The rocks offer natural shelter here, but be careful when walking on the wet stones as they can become extremely slippery and hazardous."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala La Invencible",
+                "hu": "Cala La Invencible",
+                "ro": "Cala La Invencible",
+                "en": "Cala La Invencible"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der stürmischen See von den höher gelegenen Pfaden aus; wasserfeste Wanderschuhe sind für den sandigen Schlamm ideal.",
+                "hu": "Élvezze a viharos tenger nyers szépségét a magasabban fekvő ösvényekről; a vízálló túrabakancs ideális a felázott, homokos sárban való haladáshoz.",
+                "ro": "Bucurați-vă de frumusețea crudă a mării învolburate de pe potecile mai înalte; încălțămintea impermeabilă este ideală pentru noroiul nisipos.",
+                "en": "Enjoy the raw beauty of the choppy sea from the higher paths; waterproof hiking boots are ideal for navigating the muddy, sandy terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Juan de los Terreros",
+                "hu": "Castillo de San Juan de los Terreros",
+                "ro": "Castillo de San Juan de los Terreros",
+                "en": "Castillo de San Juan de los Terreros"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen Besuch des Interpretationszentrums im Inneren; das Dach bietet perfekten Schutz vor plötzlichen Güssen.",
+                "hu": "Használja ki az eső szünetét a belső látogatóközpont megtekintésére; a vár tetőszerkezete tökéletes védelmet nyújt a hirtelen zivatarok elől.",
+                "ro": "Profită de pauza de ploaie pentru a vizita centrul de interpretare din interior; acoperișul oferă protecție perfectă împotriva averselor bruște.",
+                "en": "Take advantage of the rain break to visit the interpretation center inside; the roof provides perfect shelter from sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "hu": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "ro": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "en": "Monumento Natural de Isla de Terreros e Isla Negra"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Inseln wirken im Regen mystisch; nutzen Sie ein Fernglas von einem überdachten Aussichtspunkt, um die Seevögel zu beobachten.",
+                "hu": "A sötét szigetek misztikus látványt nyújtanak esőben; használjon távcsövet egy fedett kilátópontról a tengeri madarak megfigyeléséhez.",
+                "ro": "Insulele întunecate par mistice în ploaie; folosiți binoclul de la un punct de observație acoperit pentru a vedea păsările marine.",
+                "en": "The dark islands look mystical in the rain; use binoculars from a covered viewpoint to spot seabirds reacting to the weather change."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Meer beginnt mit klarer Luft und leerem Strand. Mittags wärmt die milde spanische Sonne gerade genug für den Aufstieg zur Burg. Nachmittags taucht das tiefe Licht der Wintersonne die Klippen in Gold, bevor es gegen 17:00 Uhr schnell dunkel wird. Der Abend lädt zu einem gemütlichen Tee in einem der lokalen Lokale ein, während die kühle Meeresbrise auffrischt.",
+            "hu": "A friss téli reggel a tengerparton tiszta levegővel és üres strandokkal indul. Délben a lágy spanyol napsütés épp eléggé felmelegíti az időt a várba való felkapaszkodáshoz. Délután a téli nap alacsony szöge aranyba öltözteti a sziklákat, mielőtt 17 óra körül hirtelen besötétedne. Az este egy forró teára hívogat a helyi vendéglőkben, miközben a hűvös tengeri szél egyre erősebben fúj.",
+            "ro": "O dimineață proaspătă de iarnă la malul mării începe cu aer curat și plaje pustii. La prânz, soarele blând de Spania încălzește atmosfera suficient pentru urcarea la castel. După-amiaza, lumina caldă de iarnă scaldă stâncile în aur, înainte ca întunericul să se lase rapid în jurul orei 17:00. Seara vă invită la un ceai fierbinte într-un local, în timp ce briza rece a mării se întețește.",
+            "en": "A crisp winter morning by the sea starts with clear air and empty beaches. At noon, the mild Spanish sun warms the day just enough for the climb to the castle. In the afternoon, the low winter sun bathes the cliffs in gold before darkness falls quickly around 5 PM. The evening invites you for a hot tea in a local spot as the cool Mediterranean breeze picks up speed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Mar Serena",
+                "hu": "Playa Mar Serena",
+                "ro": "Playa Mar Serena",
+                "en": "Playa Mar Serena"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist hier am Vormittag am stärksten; tragen Sie Kleidung in Schichten, um sich an die kühle Brise anzupassen.",
+                "hu": "A téli napsütés itt délelőtt a legerősebb; öltözzön rétegesen, hogy könnyen alkalmazkodhasson a hűvös, de napsütéses tengerparti időhöz.",
+                "ro": "Soarele de iarnă este cel mai puternic aici dimineața; purtați haine în straturi pentru a vă adapta la briza răcoroasă, dar însorită.",
+                "en": "The winter sun is strongest here in the morning; wear layered clothing to easily adapt to the cool but sunny coastal conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mar Rabiosa",
+                "hu": "Playa Mar Rabiosa",
+                "ro": "Playa Mar Rabiosa",
+                "en": "Playa Mar Rabiosa"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen windgeschützten Platz zwischen den Felsen für ein Picknick; die Winterruhe ohne Touristen ist absolut einmalig.",
+                "hu": "Keressen egy szélvédett helyet a sziklák között egy téli piknikhez; a turisták nélküli csend és nyugalom ilyenkor teljesen egyedülálló.",
+                "ro": "Găsiți un loc ferit de vânt între stânci pentru un picnic; liniștea de iarnă, fără turiști, este absolut unică în această perioadă.",
+                "en": "Find a wind-sheltered spot among the rocks for a winter picnic; the silence and lack of tourists make the experience truly unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala La Invencible",
+                "hu": "Cala La Invencible",
+                "ro": "Cala La Invencible",
+                "en": "Cala La Invencible"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen, energetischen Spaziergang; bringen Sie eine Thermoskanne mit Kaffee mit, um sich beim Blick aufs Meer aufzuwärmen.",
+                "hu": "Tökéletes helyszín egy gyors, frissítő sétához; hozzon egy termoszt forró kávéval, hogy felmelegedjen, miközben a végtelen tengert nézi.",
+                "ro": "Perfect pentru o plimbare rapidă și energică; aduceți un termos cu cafea fierbinte pentru a vă încălzi în timp ce priviți marea infinită.",
+                "en": "Perfect for a quick, bracing walk; bring a thermos with hot coffee to stay warm while gazing at the endless winter horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Juan de los Terreros",
+                "hu": "Castillo de San Juan de los Terreros",
+                "ro": "Castillo de San Juan de los Terreros",
+                "en": "Castillo de San Juan de los Terreros"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang von den Mauern zu sehen; die Winterfarben am Horizont sind besonders intensiv.",
+                "hu": "Érkezzen 16:30 előtt, hogy a várfalakról láthassa a naplementét; a téli színek a horizonton ilyenkor különösen mélyek és intenzívek.",
+                "ro": "Arribați înainte de 16:30 pentru a vedea apusul de pe zidurile castelului; culorile de iarnă de la orizont sunt deosebit de intense.",
+                "en": "Arrive before 4:30 PM to catch the sunset from the castle walls; the winter colors on the horizon are exceptionally deep and intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "hu": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "ro": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "en": "Monumento Natural de Isla de Terreros e Isla Negra"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht eine exzellente Sicht auf die Inseln; ideale Zeit für Fotografie ohne das flimmernde Hitzeflimmern des Sommers.",
+                "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít a szigetekre; ideális időszak a fotózáshoz a nyári hőség okozta pára nélkül.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă către insule; este momentul ideal pentru fotografii fără pâcla cauzată de căldura verii.",
+                "en": "The clear winter air provides excellent visibility of the islands; it's the ideal time for photography without the summer heat haze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpártúrát a csendes Playa La Entrevista parton, élvezve a friss tengeri szellőt. Tekerjen tovább a nyüzsgő Playa de Terreros és a családbarát Mar Rabiosa strandokhoz egy kis frissítő fürdőzésre. Délután egy enyhe emelkedőn jussunk fel a történelmi várkastélyhoz a csodás kilátásért. A napot a festői Playa la Carolina finom homokos partján zárjuk pihenéssel.",
         "ro": "Începeți turul cu bicicleta la liniștita Playa La Entrevista, bucurându-vă de briza mării. Pedalați apoi spre vibranta Playa de Terreros și Mar Rabiosa, potrivite pentru o baie răcoroasă. După-amiaza urcați ușor spre castelul istoric pentru a admira coasta de la înălțime. Încheiați ziua relaxându-vă pe nisipul fin al pitoreștii plaje La Carolina.",
         "en": "Start your cycling tour at the quiet Playa La Entrevista, enjoying the fresh sea breeze along the coast. Ride on to the vibrant Playa de Terreros and family-friendly Mar Rabiosa for a refreshing swim. In the afternoon, pedal up the gentle incline to the historic castle to view the coastline from above. End your active day relaxing on the picturesque sands of Playa la Carolina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern beginnt mit vorsichtigem Fahren auf den glatten Küstenstraßen. Mittags finden wir Unterschlupf unter Vordächern, während der Wind den Regen peitscht. Nachmittags ist die Burg ein markantes Ziel, das trotz Wolken Schutz bietet. Der Abend endet mit der Rückkehr durch die Pfützen, wobei die reflektierenden Streifen der Kleidung für Sicherheit sorgen.",
+            "hu": "Az esős nap két keréken óvatos haladással indul a csúszós parti utakon. Délben az ereszek alatt találunk menedéket, miközben a szél korbácsolja az esőt. Délután a vár meghatározó célponttá válik, amely a felhők ellenére is oltalmat nyújt. Az este a tócsák közötti visszatéréssel zárul, ahol a ruházat fényvisszaverő csíkjai garantálják a biztonságunkat.",
+            "ro": "O zi ploioasă pe două roți începe cu o pedalare prudentă pe drumurile de coastă alunecoase. La prânz găsim adăpost sub streșini, în timp ce vântul biciuiește ploaia. După-amiaza, castelul devine o destinație importantă, oferind protecție împotriva norilor. Seara se încheie cu întoarcerea printre bălți, unde benzile reflectorizante ale hainelor asigură siguranța.",
+            "en": "A rainy day on two wheels starts with careful riding on the slick coastal roads. At noon, we find shelter under eaves as the wind whips the rain. In the afternoon, the castle remains a prominent goal, providing refuge from the heavy clouds. The evening ends with a return through the puddles, where reflective clothing strips ensure your safety in the dim light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa La Entrevista",
+                "hu": "Playa La Entrevista",
+                "ro": "Playa La Entrevista",
+                "en": "Playa La Entrevista"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf sandigen Matsch auf dem Radweg; tragen Sie eine wasserfeste Regenjacke, um gegen den kühlenden Wind geschützt zu bleiben.",
+                "hu": "Ügyeljen a kerékpárúton felgyülemlett homokos sárra; viseljen vízálló esődzsekit, hogy védve maradjon a hűvös parti szél ellen.",
+                "ro": "Atenție la noroiul nisipos de pe pista de biciclete; purtați o jachetă de ploaie impermeabilă pentru a fi protejat de vântul răcoros de coastă.",
+                "en": "Watch out for sandy mud on the bike path; wear a waterproof rain jacket to stay protected against the cooling coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Terreros",
+                "hu": "Playa de Terreros",
+                "ro": "Playa de Terreros",
+                "en": "Playa de Terreros"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Windschatten von Gebäuden; die Strandpromenade kann bei Regen sehr rutschig für schmale Reifen sein.",
+                "hu": "Parkolja le a biciklit az épületek szélárnyékában; a tengerparti sétány esőben nagyon csúszós lehet a vékonyabb gumiabroncsok számára.",
+                "ro": "Parcați bicicleta la adăpostul clădirilor; faleza poate fi foarte alunecoasă în timpul ploii pentru anvelopele mai subțiri.",
+                "en": "Park your bike in the lee of buildings; the beachfront promenade can be very slippery for thin tires during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mar Rabiosa",
+                "hu": "Playa Mar Rabiosa",
+                "ro": "Playa Mar Rabiosa",
+                "en": "Playa Mar Rabiosa"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Brandung zu sehen; prüfen Sie Ihre Bremsen regelmäßig, da Nässe die Bremsleistung erheblich verringert.",
+                "hu": "Egy rövid megálló elég a hullámtörés megtekintéséhez; rendszeresen ellenőrizze a fékeket, mert a nedvesség jelentősen csökkenti a fékhatást.",
+                "ro": "O oprire scurtă este suficientă pentru a vedea valurile; verificați frânele regulat, deoarece umezeala reduce semnificativ eficiența lor.",
+                "en": "A short stop is enough to see the surf; check your brakes regularly as wetness significantly reduces braking performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Juan de los Terreros",
+                "hu": "Castillo de San Juan de los Terreros",
+                "ro": "Castillo de San Juan de los Terreros",
+                "en": "Castillo de San Juan de los Terreros"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg erfordert bei Nässe gute Traktion; nutzen Sie die Zeit im Museum, um Ihre Kleidung für die Abfahrt zu trocknen.",
+                "hu": "A felfelé vezető út nedves időben jó tapadást igényel; használja a múzeumban töltött időt a ruházata szárítására a lejtmenet előtt.",
+                "ro": "Urcarea necesită o tracțiune bună pe ud; folosiți timpul petrecut în muzeu pentru a vă usca hainele înainte de coborâre.",
+                "en": "The climb requires good traction in the wet; use the time in the museum to dry your gear before the downhill return trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Carolina",
+                "hu": "Playa la Carolina",
+                "ro": "Playa la Carolina",
+                "en": "Playa la Carolina"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege am Ende der Tour können sehr weich sein; meiden Sie tiefe Pfützen, um Schlamm in der Kette zu verhindern.",
+                "hu": "A túra végén a burkolatlan utak nagyon felázhatnak; kerülje a mély tócsákat, hogy megakadályozza a sár bejutását a láncba.",
+                "ro": "Drumurile neasfaltate de la finalul turului pot fi foarte moi; evitați bălțile adânci pentru a preveni pătrunderea noroiului la lanț.",
+                "en": "The unpaved paths at the end of the tour can be very soft; avoid deep puddles to prevent mud from getting into your bike chain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kühler Wintermorgen ist perfekt für eine Radtour entlang der Küste. Mittags ist die Luft kristallklar, was weite Ausblicke über das Mittelmeer ermöglicht. Nachmittags wärmt die Bewegung beim Anstieg zum Castillo, bevor der kühle Wind bei der Abfahrt auffrischt. Gegen 17:00 Uhr verblasst das Licht, und der Abend endet sicher vor Einbruch der Dunkelheit.",
+            "hu": "A napos, de hűvös téli reggel tökéletes egy tengerparti kerékpártúrához. Délben a levegő kristálytiszta, ami messzi kilátást enged a Földközi-tengerre. Délután a mozgás felmelegíti a testet a várba vezető emelkedőn, mielőtt a hűvös szél felerősödne a lejtőn. 17 óra körül elfogy a fény, és az este biztonságban, még a sötétedés előtt ér véget.",
+            "ro": "O dimineață de iarnă însorită, dar răcoroasă, este perfectă pentru o tură cu bicicleta pe coastă. La prânz aerul este deosebit de clar, oferind vederi largi peste Marea Mediterană. După-amiaza, efortul vă încălzește pe urcarea spre castel, înainte ca vântul rece să bată la coborâre. În jur de ora 17:00 lumina scade, iar seara se încheie înainte de lăsarea întunericului.",
+            "en": "A sunny but cool winter morning is perfect for a cycling tour along the coast. At noon, the air is crystal clear, allowing for wide views over the Mediterranean. In the afternoon, the exertion warms you on the climb to the castle before the cool wind picks up on the descent. Around 5 PM the light fades, and the evening ends safely before total darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa La Entrevista",
+                "hu": "Playa La Entrevista",
+                "ro": "Playa La Entrevista",
+                "en": "Playa La Entrevista"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind am Morgen sehr beißend sein kann; die leeren Wege sind ein Paradies für Radfahrer.",
+                "hu": "Viseljen szélálló kesztyűt, mert a menetszél reggel nagyon metsző lehet; az üres utak ilyenkor igazi paradicsomot jelentenek a bringásoknak.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul poate fi tăios dimineața; drumurile pustii sunt un paradis pentru bicicliști.",
+                "en": "Wear windproof gloves as the morning draft can be biting; the empty paths are a true paradise for cyclists in the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Terreros",
+                "hu": "Playa de Terreros",
+                "ro": "Playa de Terreros",
+                "en": "Playa de Terreros"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Trinkpause in der Sonne; achten Sie auf tiefstehende Sonne, die Sie bei der Fahrt blenden kann.",
+                "hu": "Ideális hely egy rövid frissítő szünetre a napon; ügyeljen az alacsonyan járó napra, amely vezetés közben könnyen elvakíthatja.",
+                "ro": "Un loc ideal pentru o scurtă pauză la soare; atenție la soarele care stă jos pe cer și vă poate orbi în timp ce pedalați pe faleză.",
+                "en": "An ideal spot for a quick hydration break in the sun; watch out for the low-hanging sun which can easily blind you while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mar Rabiosa",
+                "hu": "Playa Mar Rabiosa",
+                "ro": "Playa Mar Rabiosa",
+                "en": "Playa Mar Rabiosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den festen Sand für ein kurzes Stück am Ufer; der kühle Wind wird durch die intensive Wintersonne gut ausgeglichen.",
+                "hu": "Használja ki a keményre döngölt homokot egy rövid partmenti tekeréshez; a hűvös szelet jól ellensúlyozza az intenzív téli napsütés.",
+                "ro": "Profită de nisipul întărit pentru o scurtă tură pe mal; vântul răcoros este bine compensat de soarele intens de iarnă.",
+                "en": "Take advantage of the hard-packed sand for a short ride along the shore; the cool wind is well-balanced by the intense winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Juan de los Terreros",
+                "hu": "Castillo de San Juan de los Terreros",
+                "ro": "Castillo de San Juan de los Terreros",
+                "en": "Castillo de San Juan de los Terreros"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm; oben angekommen, sollten Sie schnell eine Jacke überziehen, um bei der Pause nicht auszukühlen.",
+                "hu": "A felfelé vezető út melegen tartja; amint felért, azonnal vegye fel a kabátját, hogy a pihenő alatt ne hűljön ki a teste.",
+                "ro": "Urcarea vă va ține de cald; odată ajuns sus, puneți-vă rapid o jachetă pentru a nu răci în timpul pauzei de admirație.",
+                "en": "The uphill ride will keep you warm; once at the top, put on a jacket immediately to avoid catching a chill during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Carolina",
+                "hu": "Playa la Carolina",
+                "ro": "Playa la Carolina",
+                "en": "Playa la Carolina"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Sonnenuntergang, da die Temperaturen rapide sinken; ein Schlauchtuch schützt Hals und Gesicht vor der Kälte.",
+                "hu": "Fejezze be a túrát naplemente előtt, mert a hőmérséklet gyorsan csökken; egy csősál hatékonyan védi a nyakát és az arcát a hidegtől.",
+                "ro": "Încheiați turul înainte de apus, deoarece temperaturile scad rapid; un fular tip tub vă va proteja gâtul și fața de frigul serii.",
+                "en": "Finish the tour before sunset as temperatures drop rapidly; a neck gaiter will effectively protect your neck and face from the cold air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje a napot a gyönyörű Playa la Carolina strandon a tömeg érkezése előtt, élvezve a reggeli nyugalmat. Ezután hajtson a várhoz és a kilátóhoz, hogy megcsodálja a történelmi erődöt és a vulkanikus szigeteket. Délután irány a központi Playa de Terreros egy tengerparti pihenésre. Az este kellemes levezetéssel zárul a nyugodt Bellavista és La Entrevista partoknál.",
         "ro": "Începeți ziua la superba plajă La Carolina înainte să se aglomereze, bucurându-vă de liniștea dimineții. Conduceți apoi spre castel și punctul de belvedere pentru a admira fortăreața și insulele naturale. După-amiaza mergeți în centru la populara Playa de Terreros pentru o pauză relaxantă la mare. Seara se încheie liniștit pe plajele retrase Bellavista și La Entrevista.",
         "en": "Start your day at the gorgeous Playa la Carolina before the crowds arrive, enjoying the early morning peace. Drive up to the castle and the scenic viewpoint to admire the historic fortress and the protected islands. In the afternoon, head into the center to the popular Playa de Terreros for a seaside break. The evening winds down beautifully at the quiet Bellavista and La Entrevista beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt gemütlich im Auto mit Panoramablick auf die stürmische Küste. Mittags springen wir nur kurz für Fotos heraus und genießen sonst die Wärme im Inneren. Nachmittags ist die Burg ein stabiles Ziel mit nahem Parkplatz. Der Abend endet mit einer Fahrt entlang der beleuchteten Küstenstraße, während die Scheibenwischer den Takt der Wellen begleiten.",
+            "hu": "Az esős nap kényelmesen indul az autóban, ahonnan panorámás kilátás nyílik a viharos partra. Délben csak rövid időre szállunk ki fotózni, egyébként élvezzük a belső meleget. Délután a vár stabil célpont közeli parkolóval, így alig ázunk meg. Az este a kivilágított parti úton való autózással zárul, miközben az ablaktörlők a hullámok ritmusát követik.",
+            "ro": "O zi ploioasă începe confortabil în mașină, cu o vedere panoramică asupra coastei învolburate. La prânz coborâm doar scurt pentru fotografii, bucurându-ne de căldura din interior. După-amiaza, castelul este o destinație sigură cu parcare aproape. Seara se încheie cu o plimbare pe drumul de coastă iluminat, în timp ce ștergătoarele bat în ritmul valurilor.",
+            "en": "A rainy day starts comfortably in the car with panoramic views of the stormy coastline. At noon, we hop out briefly for photos but otherwise enjoy the warmth inside. In the afternoon, the castle is a reliable destination with nearby parking. The evening ends with a drive along the lit coastal road as the wipers sync with the rhythm of the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa la Carolina",
+                "hu": "Playa la Carolina",
+                "ro": "Playa la Carolina",
+                "en": "Playa la Carolina"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick auf die Brandung; die Zufahrt kann bei Nässe etwas schlammig sein.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a hullámtörés látványát; a lehajtó út nedves időben kissé sáros és csúszós lehet.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați valurile; drumul de acces poate fi puțin noroios când este ud.",
+                "en": "In heavy rain, stay in the car and enjoy the view of the breaking waves; the access road can be a bit muddy and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Juan de los Terreros",
+                "hu": "Castillo de San Juan de los Terreros",
+                "ro": "Castillo de San Juan de los Terreros",
+                "en": "Castillo de San Juan de los Terreros"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an der Burg minimiert die Zeit im Regen; nutzen Sie den Innenraum des Schlosses für eine ausgiebige Besichtigung.",
+                "hu": "A közvetlenül a várnál található parkoló minimalizálja az esőben töltött időt; használja ki a vár belső tereit egy alapos látogatáshoz.",
+                "ro": "Parcarea direct de la castel minimizează timpul petrecut în ploaie; profitați de interiorul castelului pentru o vizită detaliată.",
+                "en": "The parking lot directly at the castle minimizes time spent in the rain; use the castle's interior for a comprehensive visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "hu": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "ro": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "en": "Monumento Natural de Isla de Terreros e Isla Negra"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für 'Car-Watching': Beobachten Sie das Wettergeschehen über den Inseln bequem durch die Windschutzscheibe.",
+                "hu": "Remek hely az autóból való nézelődéshez: figyelje a szigetek feletti időjárást kényelmesen, a szélvédő mögül.",
+                "ro": "Un loc excelent pentru observare din mașină: urmăriți evoluția vremii deasupra insulelor confortabil, prin parbriz.",
+                "en": "A great spot for 'car-watching': observe the weather patterns over the islands comfortably from behind your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Terreros",
+                "hu": "Playa de Terreros",
+                "ro": "Playa de Terreros",
+                "en": "Playa de Terreros"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Promenade für einen schnellen Sprint zu einem der überdachten Kioske für einen Kaffee im Trockenen.",
+                "hu": "Parkoljon közel a sétányhoz, hogy gyorsan befuthasson az egyik fedett kioszkba egy forró kávéra, miközben kint esik.",
+                "ro": "Parcați aproape de faleză pentru un sprint rapid către unul dintre chioșcurile acoperite, pentru o cafea la adăpost.",
+                "en": "Park close to the promenade for a quick dash to one of the covered kiosks for a coffee while staying dry from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Bellavista",
+                "hu": "Playa Bellavista",
+                "ro": "Playa Bellavista",
+                "en": "Playa Bellavista"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die graue See ist von hier aus spektakulär; halten Sie ein Mikrofasertuch bereit, um beschlagene Scheiben zu reinigen.",
+                "hu": "A szürke tenger látványa innen látványos; tartson kéznél mikroszálas kendőt a bepárásodott ablakok gyors megtisztításához.",
+                "ro": "Vederea mării gri este spectaculoasă de aici; aveți la îndemână o lavetă din microfibră pentru a curăța geamurile aburite.",
+                "en": "The view of the grey sea is spectacular from here; keep a microfiber cloth handy to quickly clear fogged-up car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Entrevista",
+                "hu": "Playa La Entrevista",
+                "ro": "Playa La Entrevista",
+                "en": "Playa La Entrevista"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um die stürmische Natur zu bewundern; prüfen Sie die Reifen vor der Abfahrt auf ausreichendes Profil.",
+                "hu": "Használja az autót bázisként a viharos természet megcsodálásához; indulás előtt ellenőrizze a gumiabroncsok profilmélységét.",
+                "ro": "Folosiți mașina ca bază pentru a admira natura dezlănțuită; verificați profilul anvelopelor înainte de plecare pe drumul ud.",
+                "en": "Use the car as a base to admire the stormy nature; check your tire tread before heading out on the wet, slippery roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen lädt zu einer entspannten Fahrt entlang der andalusischen Küste ein. Mittags genießen wir die Sonne bei kurzen Spaziergängen an den leeren Stränden. Nachmittags bietet die Auffahrt zum Castillo den besten Blick auf die tiefstehende Sonne über dem Meer. Gegen 17:00 Uhr kehren wir bei eingeschalteter Heizung zurück, während der Winterabend ruhig einkehrt.",
+            "hu": "A ragyogó téli reggel nyugodt autózásra hív az andalúz tengerparton. Délben élvezzük a napsütést a néptelen strandokon tett rövid séták során. Délután a várba vezető út kínálja a legjobb kilátást az alacsonyan járó napra a tenger felett. 17 óra körül bekapcsolt fűtéssel indulunk vissza, miközben a téli este csendesen leszáll.",
+            "ro": "O dimineață de iarnă strălucitoare vă invită la o plimbare relaxată cu mașina pe coasta andaluză. La prânz ne bucurăm de soare în timpul scurtelor plimbări pe plajele pustii. După-amiaza, drumul spre castel oferă cea mai bună vedere asupra soarelui care apune peste mare. În jur de ora 17:00 ne întoarcem cu căldura pornită, în timp ce seara se lasă liniștită.",
+            "en": "A brilliant winter morning invites you for a relaxed drive along the Andalusian coast. At noon, we enjoy the sun during short walks on the deserted beaches. In the afternoon, the drive up to the castle offers the best view of the low-hanging sun over the sea. Around 5 PM, we head back with the heater on as the winter evening quietly settles in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa la Carolina",
+                "hu": "Playa la Carolina",
+                "ro": "Playa la Carolina",
+                "en": "Playa la Carolina"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne kann beim Fahren stark blenden; halten Sie Ihre Sonnenbrille bereit für die Fahrt entlang der ungeschützten Küste.",
+                "hu": "A téli napsütés vezetés közben erősen vakíthat; tartsa kéznél a napszemüvegét a nyitott tengerparti szakaszokon való autózáshoz.",
+                "ro": "Soarele de iarnă poate fi foarte orbitor la volan; aveți ochelarii de soare la îndemână pentru condusul pe secțiunile de coastă.",
+                "en": "The winter sun can be very blinding while driving; keep your sunglasses handy for the journey along the open coastal sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de San Juan de los Terreros",
+                "hu": "Castillo de San Juan de los Terreros",
+                "ro": "Castillo de San Juan de los Terreros",
+                "en": "Castillo de San Juan de los Terreros"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist im Winter problemlos fahrbar; oben angekommen bietet das Auto einen warmen Rückzugsort nach dem windigen Rundgang.",
+                "hu": "Az emelkedő télen is könnyen autózható; felérve az autó meleg menedéket nyújt a szeles várfali körséta után.",
+                "ro": "Urcarea este ușor de parcurs iarna cu mașina; odată ajunși sus, mașina oferă un refugiu cald după plimbarea vântoasă pe ziduri.",
+                "en": "The climb is easily drivable in winter; once at the top, the car provides a warm retreat after a windy walk around the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "hu": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "ro": "Monumento Natural de Isla de Terreros e Isla Negra",
+                "en": "Monumento Natural de Isla de Terreros e Isla Negra"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht im Winter macht die Inseln zum perfekten Fotomotiv; nutzen Sie das Seitenfenster als Stativ für scharfe Fernaufnahmen.",
+                "hu": "A tiszta téli látási viszonyok tökéletes fotótémává teszik a szigeteket; használja az autó ablakát támasztéknak az éles távoli felvételekhez.",
+                "ro": "Vizibilitatea clară de iarnă face din insule subiectul perfect pentru fotografii; folosiți geamul mașinii ca suport pentru cadre clare.",
+                "en": "Clear winter visibility makes the islands a perfect photo subject; use the car window as a rest for sharp, long-distance shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Terreros",
+                "hu": "Playa de Terreros",
+                "ro": "Playa de Terreros",
+                "en": "Playa de Terreros"
+              },
+              "tip_5lang": {
+                "de": "Es gibt im Winter reichlich Parkplätze direkt am Strand; genießen Sie die Ruhe des Ortes, die im Sommer so nicht existiert.",
+                "hu": "Télen bőségesen talál parkolóhelyet közvetlenül a strandnál; élvezze a hely nyugalmát, amely nyáron ebben a formában nem létezik.",
+                "ro": "Iarna există locuri de parcare din abundență direct lângă plajă; bucurați-vă de liniștea locului, care nu există vara în acest fel.",
+                "en": "There is plenty of parking right by the beach in winter; enjoy the peace of the location, which doesn't exist like this in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Bellavista",
+                "hu": "Playa Bellavista",
+                "ro": "Playa Bellavista",
+                "en": "Playa Bellavista"
+              },
+              "tip_5lang": {
+                "de": "Die beste Zeit für einen Besuch ist kurz vor 17:00 Uhr; das goldene Licht auf den Wellen ist vom warmen Beifahrersitz aus herrlich.",
+                "hu": "A legjobb látogatási idő 17 óra előtt van; az aranyló fény a hullámokon csodálatos a meleg utasülésből nézve is.",
+                "ro": "Cel mai bun moment pentru vizită este înainte de ora 17:00; lumina aurie pe valuri este superbă din scaunul cald al mașinii.",
+                "en": "The best time to visit is just before 5 PM; the golden light on the waves is magnificent to watch from the warm passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Entrevista",
+                "hu": "Playa La Entrevista",
+                "ro": "Playa La Entrevista",
+                "en": "Playa La Entrevista"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck, da dieser bei Kälte sinken kann; die einsamen Straßen am Abend sind ideal für eine entspannte Rückfahrt.",
+                "hu": "Ellenőrizze a guminyomást, mert hidegben az lecsökkenhet; az esti magányos utak ideálisak egy pihentető visszautazáshoz.",
+                "ro": "Verificați presiunea în anvelope, deoarece aceasta poate scădea la frig; drumurile pustii de seară sunt ideale pentru o întoarcere relaxată.",
+                "en": "Check your tire pressure as it can drop in the cold; the lonely evening roads are ideal for a relaxed and peaceful drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

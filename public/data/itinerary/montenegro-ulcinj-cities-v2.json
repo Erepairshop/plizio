@@ -183,6 +183,224 @@
         "hu": "Reggel a fenséges Tvrđava Ulcinj erődítménynél kezdjük napunkat, majd a régészeti múzeumban ősi illír és római rejtélyeket fedezünk fel az óvárosban.\n\nDélben a békés Szent Miklós-templom mellett elhaladva a lenyűgöző pasa mecsetjéhez érünk, amely a város gazdag kulturális keverékét mutatja be.\n\nDélután a part menti tengerész mecset köszönt minket, majd a pezsgő Kis Strandon lazítunk és élvezzük az adriai napsütést.\n\nEste a napot a tiszteletet parancsoló Spomenik Pobjede emlékműnél zárjuk, ahonnan a sötétedő tenger felett merenghetünk el a múlt hőstettein.",
         "ro": "Dimineața începem la maiestuoasa Tvrđava Ulcinj, pășind în istoria antică a orașului vechi. Muzeul arheologic dezvăluie mistere ilirice și romane.\n\nLa prânz, coborâm pe lângă pașnica Biserică Sf. Nicolae spre impresionanta Moschee a Pașei. Amestecul de culturi este profund și vizibil.\n\nDupă-amiaza, Moscheea Marinarilor ne întâmpină pe țărm, iar apoi ne relaxăm la atmosfera plină de viață de pe Plaja Mică.\n\nSeara, ziua noastră se încheie la impunătorul Spomenik Pobjede, un monument modernist care domină Marea Adriatică și reflectă poveștile de rezistență.",
         "en": "Morning: We start at the majestic Tvrđava Ulcinj, stepping back 2,500 years in the historic Old Town. The archaeological museum reveals ancient mysteries.\n\nMidday: Descending past the peaceful St. Nicholas Church, the path leads to the intricate Pasha's Mosque. The mix of cultures is profound.\n\nAfternoon: The Seaman's Mosque greets us by the shore, a testament to Ulcinj's maritime legacy. We then relax at the lively Small Beach.\n\nEvening: Our day concludes at the commanding Spomenik Pobjede, an imposing monument overlooking the darkening Adriatic, echoing stories of wartime bravery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen erkunden wir die Festung, deren nasse Steine eine mystische Atmosphäre schaffen. Mittags bieten das Museum und die Moscheen Schutz vor den Schauern. Am Nachmittag erleben wir die Kraft der Brandung am Kleinen Strand. Am Abend sorgt der Nebel über dem Hafen für eine fast filmreife Kulisse in der historischen Altstadt, während wir die beleuchteten Gassen genießen.",
+            "hu": "A reggeli órákban a vár falai között kezdünk, ahol az esőben csillogó kövek misztikus hangulatot árasztanak. Délben a múzeum és a mecsetek nyújtanak menedéket a záporok elől. Délután a tengerparti sétányon a hullámverés erejét csodálhatjuk meg. Estére a kivilágított óváros látványa kárpótol a borús időért a kikötő feletti párás sziklákon.",
+            "ro": "Dimineața începe în cetate, unde pietrele umede reflectă zidurile antice. La prânz, muzeul și moscheile oferă adăpost împotriva ploii. După-amiaza, faleza oferă o priveliște dramatică asupra mării agitate. Seara, atmosfera cețoasă de deasupra portului creează un decor cinematografic în timp ce vă plimbați prin orașul vechi iluminat.",
+            "en": "Start your morning inside the fortress, where wet cobblestones reflect the ancient walls. At noon, find shelter in the local museum and historic mosques. Afternoon brings dramatic views of the stormy Adriatic from the Small Beach. By evening, the misty atmosphere over the harbor creates a unique feel as you walk through the illuminated Old Town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "hu": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "ro": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "en": "Tvrđava Ulcinj - Kalaja e Ulqinit"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Pflastersteine werden bei Regen extrem rutschig; tragen Sie festes Schuhwerk mit Profil, um die Aussicht auf das Meer sicher zu genießen.",
+                "hu": "A várnegyed kövei esőben rendkívül csúszósak, ezért viseljen bordázott talpú cipőt; a kilátás a tengerre ilyenkor a legdrámaibb a bástyákról.",
+                "ro": "Pietrele antice din cetate devin extrem de alunecoase pe ploaie; purtați încălțăminte cu talpă aderentă pentru a explora zidurile în siguranță.",
+                "en": "The ancient cobblestones become extremely slippery when wet; wear shoes with good grip to safely enjoy the dramatic sea views from the bastions."
+              }
+            },
+            {
+              "name": {
+                "de": "Arheološki muzej",
+                "hu": "Arheološki muzej",
+                "ro": "Arheološki muzej",
+                "en": "Arheološki muzej"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um einen starken Regenguss zu überbrücken; bewundern Sie die antiken Funde im trockenen Inneren des ehemaligen Sklavenmarktes.",
+                "hu": "Ez a tökéletes hely egy nagyobb zápor átvészelésére; csodálja meg az antik leleteket az egykori rabszolgapiac fedett és száraz belső tereiben.",
+                "ro": "Acesta este locul perfect pentru a vă adăposti de o aversă; admirați vestigiile antice în interiorul uscat al fostei piețe de sclavi.",
+                "en": "This is the perfect spot to wait out a heavy downpour; admire the ancient artifacts inside the dry, sheltered halls of the former slave market."
+              }
+            },
+            {
+              "name": {
+                "de": "Tsrkva svetog Nikole",
+                "hu": "Tsrkva svetog Nikole",
+                "ro": "Tsrkva svetog Nikole",
+                "en": "Tsrkva svetog Nikole"
+              },
+              "tip_5lang": {
+                "de": "Der kleine Vorplatz bietet unter den Olivenbäumen begrenzten Schutz; nutzen Sie die ruhige Atmosphäre der Kirche für einen kurzen Moment der Stille.",
+                "hu": "A kis előtér az olajfák alatt korlátozott védelmet nyújt; használja ki a templom csendes belső terét egy rövid, esőmentes elmélyülésre.",
+                "ro": "Micul pridvor oferă protecție limitată sub măslini; profitați de atmosfera liniștită a bisericii pentru un moment scurt de reculegere la uscat.",
+                "en": "The small entrance offers limited shelter under the olive trees; use the church's quiet interior for a brief, dry moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasha's Mosque",
+                "hu": "Pasha's Mosque",
+                "ro": "Pasha's Mosque",
+                "en": "Pasha's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Das Hamam nebenan ist ein wunderbarer Ort, um Architektur im Trockenen zu studieren; vergessen Sie nicht, beim Betreten die nassen Schuhe auszuziehen.",
+                "hu": "A mellette lévő hamam kiváló hely az építészet tanulmányozására fedett helyen; ne felejtse el levenni a vizes cipőket a mecsetbe lépés előtt.",
+                "ro": "Hamamul de alături este un loc excelent pentru a studia arhitectura la adăpost; nu uitați să vă descălțați de pantofii uzi înainte de a intra.",
+                "en": "The nearby hammam is a great spot to study architecture while staying dry; remember to remove your wet shoes before entering the prayer hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Seaman's Mosque",
+                "hu": "Seaman's Mosque",
+                "ro": "Seaman's Mosque",
+                "en": "Seaman's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Lage direkt am Eingang zur Altstadt macht sie zum idealen Unterstand; genießen Sie den Blick auf das regnerische Meer durch die Fenster.",
+                "hu": "Az óváros bejáratánál lévő elhelyezkedése ideális menedékké teszi; élvezze az esős tenger látványát az ablakokon keresztül a belső nyugalomban.",
+                "ro": "Locația sa chiar la intrarea în orașul vechi o face un adăpost ideal; admirați marea ploioasă prin ferestre în liniștea interiorului.",
+                "en": "Its location right at the Old Town entrance makes it an ideal shelter; enjoy the view of the rainy sea through the windows from the quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Small Beach",
+                "hu": "Small Beach",
+                "ro": "Small Beach",
+                "en": "Small Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der geschlossenen Cafés am Rand; die Brandung, die gegen den Sand peitscht, ist ein beeindruckendes Naturschauspiel.",
+                "hu": "Keressen menedéket a parti kávézók ereszei alatt; a homokos partra zúduló hullámok látványa ilyenkor a leglátványosabb és leghangosabb.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor de pe margine; valurile care se sparg de nisip sunt un spectacol al naturii impresionant pe ploaie.",
+                "en": "Seek shelter under the awnings of the seaside cafes; the sight of waves crashing onto the sandy shore is an impressive spectacle during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "hu": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "ro": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "en": "Spomenik Pobjede - Përmendorja e Lirisë"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Denkmal kann bei Regen schlammig sein; die Aussicht auf die Stadt im Regennebel ist jedoch von hier oben absolut einmalig.",
+                "hu": "Az emlékműhöz vezető út esőben sáros lehet; a városra nyíló kilátás az esőfelhők közül viszont innen a legkülönlegesebb és legnyersebb.",
+                "ro": "Drumul spre monument poate fi noroios pe ploaie; totuși, priveliștea orașului prin ceața ploii de aici de sus este absolut unică.",
+                "en": "The path to the monument can be muddy when it rains; however, the view of the city through the rain mist from up here is absolutely unique."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist kühl, und die Meeresbrise weht kräftig durch die Festungsmauern. Mittags wärmen wir uns im Museum auf, während die Sonne tief am Horizont steht. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen wir das goldene Licht am Nachmittag für Fotos am leeren Strand. Der Abend endet friedlich in den stillen Gassen der Altstadt.",
+            "hu": "A reggel hűvös, a tengeri szél a vár falai között erősebben fúj, így réteges öltözet ajánlott. Délben a múzeum fűtött tereiben melegedhetünk fel. Délután a kihalt tengerpart csendje különleges nyugalmat áraszt. Mivel a nap korán, 17:00 körül nyugszik, az esti fényeket már az óváros szűk, szélvédett utcáin élvezhetjük.",
+            "ro": "Dimineața de iarnă este răcoroasă, iar briza mării bate cu putere printre zidurile cetății. La prânz, ne încălzim în muzeu, în timp ce soarele stă jos la orizont. Deoarece se întunecă în jurul orei 17:00, profităm de lumina aurie a după-amiezii pe plaja pustie. Seara se încheie liniștit pe străzile tăcute.",
+            "en": "Winter mornings are chilly, with a strong sea breeze blowing through the fortress walls. At noon, warm up inside the museum while the sun stays low. Since sunset is around 17:00, use the golden afternoon light for photos at the empty beach. The evening ends peacefully in the quiet, sheltered streets of the Old Town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "hu": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "ro": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "en": "Tvrđava Ulcinj - Kalaja e Ulqinit"
+              },
+              "tip_5lang": {
+                "de": "Die Bura-Winde können hier sehr kalt sein; tragen Sie eine winddichte Jacke, um die klare Sicht auf die albanischen Alpen in der Ferne zu genießen.",
+                "hu": "A tengeri szél télen metsző lehet a bástyákon; viseljen szélálló kabátot, cserébe ilyenkor a legtisztább a távoli albán hegyek látványa.",
+                "ro": "Vânturile de iarnă pot fi tăioase pe bastioane; purtați o jachetă rezistentă la vânt pentru a vă bucura de vizibilitatea clară spre munții Albaniei.",
+                "en": "The sea winds can be piercing on the bastions in winter; wear a windproof jacket, but enjoy the clearest views of the distant Albanian mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Arheološki muzej",
+                "hu": "Arheološki muzej",
+                "ro": "Arheološki muzej",
+                "en": "Arheološki muzej"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort vor dem kalten Wind; nutzen Sie die ruhige Wintersaison, um die Exponate ohne die üblichen Touristenmassen zu studieren.",
+                "hu": "Ideális búvóhely a hideg szél elől; használja ki a csendes téli szezont a kiállítások alapos tanulmányozására a tömeg és a hőség nélkül.",
+                "ro": "Un refugiu ideal împotriva vântului rece; profitați de sezonul liniștit de iarnă pentru a studia exponatele fără aglomerația obișnuită.",
+                "en": "An ideal retreat from the cold wind; take advantage of the quiet winter season to study the exhibits without the usual tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Tsrkva svetog Nikole",
+                "hu": "Tsrkva svetog Nikole",
+                "ro": "Tsrkva svetog Nikole",
+                "en": "Tsrkva svetog Nikole"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die umliegenden Olivenhaine in ein silbriges Licht getaucht; die Kirche wirkt in der Einsamkeit der Nebensaison besonders andächtig.",
+                "hu": "Télen a környező olajfaligetek ezüstös fényben úsznak; a templom a holtszezon magányában különösen áhítatos és békés hangulatot áraszt.",
+                "ro": "Iarna, livezile de măslini din jur sunt scăldate într-o lumină argintie; biserica pare deosebit de liniștită în singurătatea extrasezonului.",
+                "en": "In winter, the surrounding olive groves are bathed in silvery light; the church feels especially solemn and peaceful in the off-season solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasha's Mosque",
+                "hu": "Pasha's Mosque",
+                "ro": "Pasha's Mosque",
+                "en": "Pasha's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern halten die Kälte draußen; achten Sie auf die tiefstehende Wintersonne, die durch die Fenster ein warmes Licht wirft.",
+                "hu": "A vastag kőfalak kint tartják a téli hideget; figyelje meg a mélyen járó téli napot, amely meleg fénybe vonja a belső teret délután.",
+                "ro": "Zidurile groase de piatră țin frigul afară; observați soarele de iarnă care aruncă o lumină caldă în interior prin ferestrele joase.",
+                "en": "The thick stone walls keep the winter chill at bay; notice the low winter sun casting a warm glow through the windows in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Seaman's Mosque",
+                "hu": "Seaman's Mosque",
+                "ro": "Seaman's Mosque",
+                "en": "Seaman's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Direkt an der Meerespromenade gelegen, ist sie ein windgeschützter Ort; genießen Sie die Ruhe, bevor die Sonne früh hinter dem Horizont verschwindet.",
+                "hu": "Közvetlenül a tengerparti sétánynál található, szélvédett menedék; élvezze a csendet, mielőtt a nap korán eltűnik a horizont mögött.",
+                "ro": "Situată direct pe faleza mării, este un loc protejat de vânt; bucurați-vă de liniște înainte ca soarele să apună devreme la orizont.",
+                "en": "Located right by the seaside promenade, it's a wind-sheltered spot; enjoy the silence before the sun disappears early below the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Small Beach",
+                "hu": "Small Beach",
+                "ro": "Small Beach",
+                "en": "Small Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und ideal für einen meditativen Spaziergang; ziehen Sie sich warm an, da die Feuchtigkeit die Kälte verstärkt.",
+                "hu": "A strand télen szinte teljesen üres, ideális egy meditatív sétára; öltözzön melegen, mert a tenger páratartalma fokozza a hidegérzetet.",
+                "ro": "Plaja este aproape pustie iarna, ideală pentru o plimbare meditativă; îmbrăcați-vă gros, deoarece umiditatea mării amplifică senzația de frig.",
+                "en": "The beach is almost empty in winter, ideal for a meditative stroll; dress warmly as the sea's humidity intensifies the feeling of cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "hu": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "ro": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "en": "Spomenik Pobjede - Përmendorja e Lirisë"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17:00 Uhr hierher, um den Wintersonnenuntergang zu beobachten; das Denkmal wirkt im kargen Winterlicht besonders monumental.",
+                "hu": "Érkezzen 17:00 előtt, hogy megnézze a téli naplementét; az emlékmű a rideg téli fényben még monumentálisabbnak és méltóságteljesebbnek hat.",
+                "ro": "Ajungeți aici cu puțin timp înainte de ora 17:00 pentru a vedea apusul de iarnă; monumentul pare și mai impunător în lumina rece a iernii.",
+                "en": "Arrive shortly before 17:00 to watch the winter sunset; the monument looks even more monumental and dignified in the stark winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Reggel a túránk központilag, a felújított óratoronynál indul, ahonnan gyorsan a kulturális központba tekerünk, hogy magunkba szívjuk a helyi művészetet.\n\nDélben dél felé gurulunk a tengerpart mentén a gyógyhatású és elzárt Ženska plaža felé, ahol a fenyők illata és a csend fogad minket.\n\nDélután visszatérünk az öböl felé, megállunk a merész Spomenik Pobjede emlékműnél, majd meglátogatjuk a festői tengerész mecsetet.\n\nEste letesszük a kerékpárokat és felsétálunk az impozáns Tvrđava Ulcinj erődbe, hogy a küklopikus falakról élvezzük a naplementét.",
         "ro": "Dimineața, plimbarea noastră începe central la Turnul cu Ceas, pedalând rapid spre Centrul Cultural pentru a admira arta locală.\n\nLa prânz, coborând spre sud de-a lungul coastei, ajungem la Plaja Femeilor (Ženska plaža), respirând parfumul pinilor de coastă.\n\nDupă-amiaza, ne întoarcem spre golf, făcând o oprire la monumentul impresionant Spomenik Pobjede înainte de a vizita pitoreasca Moschee a Marinarilor.\n\nSeara se încheie lăsând bicicletele pentru a urca la formidabila Tvrđava Ulcinj, bucurându-ne de apusul spectaculos de pe zidurile ciclopice.",
         "en": "Morning: Our ride begins centrally at the restored Clock Tower, pedaling quickly to the vibrant Qendra per Kultur to soak up local art.\n\nMidday: Cruising southward along the coast, we reach the therapeutic and secluded Ženska plaža, breathing in the scent of coastal pines.\n\nAfternoon: We loop back towards the bay, stopping at the bold Spomenik Pobjede before visiting the picturesque Seaman's Mosque.\n\nEvening: We end by locking the bikes and ascending to the formidable Tvrđava Ulcinj, enjoying the spectacular sunset from the cyclopean walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Ulcinj bei Regen erfordert Vorsicht auf den steilen, rutschigen Straßen. Am Morgen besichtigen wir den Uhrturm, gefolgt von einem längeren Aufenthalt im Kulturzentrum, um trocken zu bleiben. Der Nachmittag führt uns entlang der Küste, wo die salzige Gischt den Regen vermischt. Abends suchen wir Schutz in der Festung, während das Wasser durch die alten Rinnen abfließt.",
+            "hu": "A kerékpározás Ulcinjban esőben óvatosságot igényel a meredek, csúszós utcákon. Reggel az Óratornyot nézzük meg, majd hosszabb időt töltünk a Kulturális Központban, hogy szárazon maradjunk. Délután a parton tekerünk, ahol a sós permet keveredik az esővel. Estére a vár falai között keresünk menedéket, miközben az esővíz zubog az ódon csatornákban.",
+            "ro": "Ciclismul în Ulcinj pe ploaie necesită prudență pe străzile abrupte și alunecoase. Dimineața vizităm Turnul cu Ceas, urmat de o oprire prelungită la Centrul Cultural pentru a rămâne uscați. După-amiaza ne duce de-a lungul coastei, unde spray-ul sărat se amestecă cu ploaia. Seara căutăm adăpost în cetate în timp ce apa se scurge prin rigole.",
+            "en": "Cycling in Ulcinj in the rain requires caution on steep, slippery streets. In the morning we check the Clock Tower, then spend more time at the Culture Center to stay dry. The afternoon takes us along the coast where salty spray mixes with rain. By evening, seek shelter in the fortress as rainwater gushes through the ancient gutters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Clock Tower",
+                "hu": "Clock Tower",
+                "ro": "Clock Tower",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Tal; die glatten Steine rund um den Turm erfordern bei Nässe höchste Konzentration beim Manövrieren.",
+                "hu": "Ellenőrizze a fékeit az ereszkedés előtt; a torony körüli sima kövek nedvesen nagy koncentrációt igényelnek a manőverezés során.",
+                "ro": "Verificați frânele înainte de a coborî spre centru; pietrele netede din jurul turnului necesită concentrare maximă la manevrare pe ploaie.",
+                "en": "Check your brakes before descending into town; the smooth stones around the tower require maximum concentration when maneuvering in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Qendra per Kultur",
+                "hu": "Qendra per Kultur",
+                "ro": "Qendra per Kultur",
+                "en": "Qendra per Kultur"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Ausstellungen als trockene Alternative zum Radfahren im starken Regen.",
+                "hu": "Parkolja le a biciklit az előtető alatt, és használja a kiállításokat száraz alternatívaként a szakadó esőben való tekerés helyett.",
+                "ro": "Parcați bicicleta sub copertină și folosiți expozițiile ca o alternativă uscată la pedalatul prin ploaia torențială.",
+                "en": "Park your bike under the overhang and use the exhibitions as a dry alternative to cycling through the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ženska plaža - Plazhi i Grave",
+                "hu": "Ženska plaža - Plazhi i Grave",
+                "ro": "Ženska plaža - Plazhi i Grave",
+                "en": "Ženska plaža - Plazhi i Grave"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zum Strand ist steil und rutschig; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Schlaglöcher im Asphalt verbergen könnten.",
+                "hu": "A strandhoz vezető lejtő meredek és csúszós; tekerjen lassan, és ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az aszfalton.",
+                "ro": "Coborârea spre plajă este abruptă și alunecoasă; pedalați încet și aveți grijă la bălțile care pot ascunde gropi adânci în asfalt.",
+                "en": "The descent to the beach is steep and slippery; ride slowly and watch out for puddles that might hide deep potholes in the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "hu": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "ro": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "en": "Spomenik Pobjede - Përmendorja e Lirisë"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier bei Regen aus; die metallischen Oberflächen des Denkmals glänzen schön, sind aber bei Berührung sehr nass.",
+                "hu": "Egy rövid megálló elég itt esőben; az emlékmű fémfelületei szépen csillognak, de érintésre nagyon hidegek és vizesek.",
+                "ro": "O oprire scurtă este suficientă aici pe ploaie; suprafețele metalice ale monumentului strălucesc frumos, dar sunt foarte ude la atingere.",
+                "en": "A short stop is enough here in the rain; the monument's metallic surfaces shine beautifully but are very wet and cold to the touch."
+              }
+            },
+            {
+              "name": {
+                "de": "Seaman's Mosque",
+                "hu": "Seaman's Mosque",
+                "ro": "Seaman's Mosque",
+                "en": "Seaman's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung zu ordnen, bevor Sie die letzte Etappe zur Festung antreten.",
+                "hu": "Használja a fedett bejárati részt az esővédő ruházat igazítására, mielőtt nekivágna a várba vezető utolsó, nehéz szakasznak.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a vă ajusta echipamentul de ploaie înainte de ultima etapă spre cetate.",
+                "en": "Use the covered entrance area to adjust your rain gear before tackling the final, tough uphill section to the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "hu": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "ro": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "en": "Tvrđava Ulcinj - Kalaja e Ulqinit"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad innerhalb der Festungsmauern, da das nasse Kopfsteinpflaster für Räder extrem gefährlich und unberechenbar ist.",
+                "hu": "A várfalakon belül inkább tolja a kerékpárt, mivel a vizes macskakő rendkívül veszélyes és kiszámíthatatlan a kétkerekűek számára.",
+                "ro": "În interiorul cetății, mai bine împingeți bicicleta, deoarece pavajul umed este extrem de periculos și imprevizibil pentru roți.",
+                "en": "Inside the fortress walls, it's better to push your bike, as the wet cobblestones are extremely dangerous and unpredictable for cyclists."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft ist beim Radfahren erfrischend, erfordert aber gute Handschuhe. Am Morgen bietet der Uhrturm einen klaren Ausblick. Mittags ist das Kulturzentrum ein warmer Zufluchtsort. Nachmittags genießen wir die leeren Straßen zur Frauenplaža, wo die Meeresluft besonders belebend wirkt. Da die Sonne früh untergeht, beenden wir die Tour vor 17:00 Uhr in der Festung.",
+            "hu": "A hideg téli levegő frissítő kerékpározás közben, de meleg kesztyű elengedhetetlen. Reggel az Óratorony tiszta kilátást nyújt. Délben a Kulturális Központ meleg menedék. Délután a kihalt utcákon gurulunk le a Ženska plažához, ahol a tengeri levegő élénkítő. Mivel a nap korán nyugszik, a túrát 17:00 előtt befejezzük a várban.",
+            "ro": "Aerul rece de iarnă este revigorant la pedalat, dar mănușile groase sunt esențiale. Dimineața, Turnul cu Ceas oferă o vedere clară. La prânz, Centrul Cultural este un refugiu cald. După-amiaza, coborâm pe străzile pustii spre plaja femeilor. Deoarece soarele apune devreme, încheiem turul înainte de ora 17:00 în cetate.",
+            "en": "The cold winter air is refreshing while cycling, but warm gloves are essential. In the morning, the Clock Tower offers clear views. At noon, the Culture Center is a warm refuge. In the afternoon, we glide down empty streets to the Ladies Beach, where the sea air is bracing. Since the sun sets early, we finish the tour by 17:00 at the fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Clock Tower",
+                "hu": "Clock Tower",
+                "ro": "Clock Tower",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Aufstieg; tragen Sie eine Sonnenbrille, um die Konturen des Turms und den Weg besser zu erkennen.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat a felfelé úton; viseljen napszemüveget, hogy jobban lássa a torony körvonalait és az utat.",
+                "ro": "Soarele de iarnă stă jos și vă poate orbi la urcare; purtați ochelari de soare pentru a vedea mai bine conturul turnului și drumul.",
+                "en": "The winter sun stays low and can dazzle you on the uphill climb; wear sunglasses to better see the tower's outlines and the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Qendra per Kultur",
+                "hu": "Qendra per Kultur",
+                "ro": "Qendra per Kultur",
+                "en": "Qendra per Kultur"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um die Muskeln aufzuwärmen; die Innenräume sind gut temperiert und bieten eine willkommene Pause vom kalten Fahrtwind.",
+                "hu": "Használja ezt a megállót az izmai bemelegítésére; a belső terek jól temperáltak, és kellemes szünetet nyújtanak a hideg menetszél után.",
+                "ro": "Folosiți această oprire pentru a vă încălzi mușchii; spațiile interioare sunt bine încălzite și oferă o pauză binevenită de la vântul rece.",
+                "en": "Use this stop to warm up your muscles; the indoor spaces are well-tempered and offer a welcome break from the cold wind during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ženska plaža - Plazhi i Grave",
+                "hu": "Ženska plaža - Plazhi i Grave",
+                "ro": "Ženska plaža - Plazhi i Grave",
+                "en": "Ženska plaža - Plazhi i Grave"
+              },
+              "tip_5lang": {
+                "de": "Die schwefelhaltigen Quellen riechen im Winter intensiver; die kühle Luft verstärkt das mystische Gefühl an diesem sonst so belebten Ort.",
+                "hu": "A kénes források illata télen intenzívebbnek tűnhet; a hűvös levegő felerősíti a hely misztikus hangulatát ezen az egyébként zsúfolt parton.",
+                "ro": "Izvoarele sulfuroase miros mai intens iarna; aerul rece accentuează senzația mistică a acestui loc, altfel foarte aglomerat vara.",
+                "en": "The sulfur springs' scent can feel more intense in winter; the cool air enhances the mystical feel of this otherwise crowded beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "hu": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "ro": "Spomenik Pobjede - Përmendorja e Lirisë",
+                "en": "Spomenik Pobjede - Përmendorja e Lirisë"
+              },
+              "tip_5lang": {
+                "de": "Der Wind oben am Denkmal kann eisig sein; ziehen Sie eine zusätzliche Schicht an, bevor Sie den Blick auf die winterliche Adria genießen.",
+                "hu": "A szél az emlékműnél jeges lehet; vegyen fel egy plusz réteget, mielőtt elmerülne a téli Adria látványában a magaslatról.",
+                "ro": "Vântul la monument poate fi înghețat; puneți un strat suplimentar de haine înainte de a admira Adriatica iarna de la înălțime.",
+                "en": "The wind up at the monument can be icy; put on an extra layer before enjoying the view of the winter Adriatic from the heights."
+              }
+            },
+            {
+              "name": {
+                "de": "Seaman's Mosque",
+                "hu": "Seaman's Mosque",
+                "ro": "Seaman's Mosque",
+                "en": "Seaman's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im Winter ist ideal für Fotos ohne störende Autos; nutzen Sie das weiche Licht des späten Vormittags für die besten Aufnahmen.",
+                "hu": "A téli nyugalom ideális a zavaró autók nélküli fotózáshoz; használja ki a késő délelőtti lágy fényeket a legjobb felvételek készítéséhez.",
+                "ro": "Liniștea iernii este ideală pentru fotografii fără mașini deranjante; profitați de lumina moale a dimineții târzii pentru cele mai bune cadre.",
+                "en": "The winter quiet is ideal for photography without distracting cars; take advantage of the soft late-morning light for the best shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "hu": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "ro": "Tvrđava Ulcinj - Kalaja e Ulqinit",
+                "en": "Tvrđava Ulcinj - Kalaja e Ulqinit"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor dem Sonnenuntergang um 17:00 Uhr; die steilen Gassen sind im Dunkeln für Radfahrer schwer befahrbar.",
+                "hu": "Fejezze be a túrát itt az 17:00-s napnyugta előtt; a meredek sikátorok sötétben nehezen járhatóak és veszélyesek kerékpárral.",
+                "ro": "Încheiați turul aici înainte de apusul de la ora 17:00; străzile abrupte sunt greu de parcurs și periculoase pe întuneric cu bicicleta.",
+                "en": "Finish your tour here before the 17:00 sunset; the steep alleys are difficult and dangerous to navigate on a bike in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Reggel a modern kulturális központnál kezdjük autós utunkat, majd röviden megállunk a történelmi óratoronynál, mielőtt elmerülnénk a város bájos utcáiban.\n\nDélben a pasa mecsete közelében parkolunk, hogy megcsodáljuk az oszmán eleganciát, majd felhajtunk a fellegvárhoz, ahol a régészeti múzeum kincsei várnak.\n\nDélután leereszkedünk a partra, és frissítő pihenőt tartunk a Kis Strand homokos partján, miközben élvezzük a parti sétány nyüzsgő hangulatát.\n\nEste utazásunk a tengerpart menti rövid autózással zárul a fákkal övezett Ženska plaža mellett, amely tökéletes egy békés tengerparti alkonyhoz.",
         "ro": "Dimineața ne începem plimbarea cu mașina lângă Centrul Cultural, vizitând scurt istoricul Turn cu Ceas înainte de a naviga pe străzile fermecătoare ale orașului.\n\nLa prânz parcăm lângă Moscheea Pașei pentru a admira eleganța sa otomană, apoi urcăm spre citadelă pentru a explora bogatul Muzeu Arheologic.\n\nDupă-amiaza, coborând spre țărm, luăm o pauză reconfortantă pe nisipurile de la Plaja Mică, bucurându-ne de vibrația plină de viață a promenadei.\n\nSeara, călătoria noastră se încheie cu o scurtă plimbare pe coastă până la marginea împădurită a Plajei Femeilor, perfectă pentru un amurg liniștit.",
         "en": "Morning: Starting our drive near the bustling Qendra per Kultur, we briefly visit the historic Clock Tower before navigating the town's charming streets.\n\nMidday: We park near Pasha's Mosque to admire its Ottoman elegance, then head up towards the citadel to explore the rich Arheološki muzej.\n\nAfternoon: Driving down to the shore, we take a refreshing break by the sands of Small Beach, enjoying the coastal promenade's lively vibe.\n\nEvening: Our journey wraps up with a short scenic drive down the coast to the forested edge of Ženska plaža, perfect for a peaceful coastal dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund gegen den Regen. Am Morgen besuchen wir das Kulturzentrum, gefolgt vom Uhrturm. Mittags parken wir nahe der Altstadt für die Moscheen und das Museum. Der Nachmittag am Kleinen Strand bietet dramatische Wellen aus der Sicherheit des Wagens. Abends fahren wir zur Frauenplaža, um das tosende Meer im Regen zu beobachten.",
+            "hu": "Az autó ma a legjobb barátja az eső ellen. Reggel a Kulturális Központot látogatjuk meg, majd az Óratornyot. Délben az óváros közelében parkolunk a mecsetek és a múzeum megtekintéséhez. Délután a Kis Strandnál az autó biztonságából csodáljuk a hullámokat. Estére a Ženska plažához hajtunk, hogy megfigyeljük a háborgó tengert a szakadó esőben.",
+            "ro": "Mașina este astăzi cel mai bun prieten împotriva ploii. Dimineața vizităm Centrul Cultural, urmat de Turnul cu Ceas. La prânz parcăm lângă orașul vechi pentru moschei și muzeu. După-amiaza la Plaja Mică oferă valuri dramatice din siguranța mașinii. Seara mergem la Plaja Femeilor pentru a observa marea agitată în ploaie.",
+            "en": "The car is your best friend against the rain today. In the morning we visit the Culture Center, followed by the Clock Tower. At noon, park near the Old Town for the mosques and museum. Afternoon at Small Beach offers dramatic waves from the safety of the car. By evening, drive to Ladies Beach to watch the roaring sea in the pouring rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Qendra per Kultur",
+                "hu": "Qendra per Kultur",
+                "ro": "Qendra per Kultur",
+                "en": "Qendra per Kultur"
+              },
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkplätze direkt vor dem Gebäude; verbringen Sie hier die regenintensivste Zeit des Morgens bei Kunst und Kultur.",
+                "hu": "Közvetlenül az épület előtt bőséges parkolóhely áll rendelkezésre; töltse itt a reggel legesősebb részét a művészetek és a kultúra körében.",
+                "ro": "Există locuri de parcare din belșug chiar în fața clădirii; petreceți aici cea mai ploioasă parte a dimineții printre artă și cultură.",
+                "en": "There are plenty of parking spaces right in front of the building; spend the rainiest part of the morning here among art and culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Clock Tower",
+                "hu": "Clock Tower",
+                "ro": "Clock Tower",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Turm sind eng; parken Sie etwas unterhalb, um mühsame Wendemanöver auf dem nassen und rutschigen Untergrund zu vermeiden.",
+                "hu": "A toronyhoz vezető utcák szűkek; parkoljon kicsit lejjebb, hogy elkerülje a nehézkes megfordulást a nedves és csúszós útfelületen.",
+                "ro": "Străzile spre turn sunt înguste; parcați puțin mai jos pentru a evita manevrele dificile de întoarcere pe carosabilul umed și alunecos.",
+                "en": "The streets leading to the tower are narrow; park a bit further down to avoid difficult U-turns on the wet and slippery road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasha's Mosque",
+                "hu": "Pasha's Mosque",
+                "ro": "Pasha's Mosque",
+                "en": "Pasha's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz am Hafenrand und gehen Sie das kurze Stück im Regen; die Moschee bietet einen wunderbar trockenen Innenraum.",
+                "hu": "Használja a kikötő melletti parkolót, és tegye meg a rövid utat az esőben; a mecset csodálatosan száraz és csendes belsőt kínál.",
+                "ro": "Folosiți parcarea de lângă port și parcurgeți distanța scurtă prin ploaie; moscheea oferă un interior minunat de uscat și liniștit.",
+                "en": "Use the parking lot near the harbor and walk the short distance in the rain; the mosque offers a wonderfully dry and quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Arheološki muzej",
+                "hu": "Arheološki muzej",
+                "ro": "Arheološki muzej",
+                "en": "Arheološki muzej"
+              },
+              "tip_5lang": {
+                "de": "In der Festung ist das Parken schwierig; lassen Sie den Wagen unten stehen. Der Aufstieg lohnt sich, um dem Regen im Museum zu entfliehen.",
+                "hu": "A várban a parkolás nehézkes; hagyja az autót lent. A felgyaloglás megéri, hogy a múzeum falai között meneküljön meg az esőtől.",
+                "ro": "Parcarea în cetate este dificilă; lăsați mașina jos. Urcarea merită pentru a vă adăposti de ploaie între zidurile muzeului.",
+                "en": "Parking inside the fortress is difficult; leave the car below. The walk up is worth it to escape the rain inside the museum walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Small Beach",
+                "hu": "Small Beach",
+                "ro": "Small Beach",
+                "en": "Small Beach"
+              },
+              "tip_5lang": {
+                "de": "Sie können direkt an der Promenade parken; genießen Sie das Schauspiel der grauen Adria durch die Windschutzscheibe bei einer Tasse Kaffee.",
+                "hu": "Közvetlenül a sétányon is parkolhat; élvezze a szürke Adria látványát a szélvédőn keresztül egy forró kávé társaságában az autóban.",
+                "ro": "Puteți parca direct pe faleză; admirați spectacolul mării gri prin parbriz, la o cafea caldă, chiar din mașină.",
+                "en": "You can park directly on the promenade; enjoy the sight of the gray Adriatic through your windshield with a hot coffee inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ženska plaža - Plazhi i Grave",
+                "hu": "Ženska plaža - Plazhi i Grave",
+                "ro": "Ženska plaža - Plazhi i Grave",
+                "en": "Ženska plaža - Plazhi i Grave"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal und bei Regen können Steine auf die Straße gespült werden; fahren Sie vorsichtig und parken Sie sicher am oberen Ende.",
+                "hu": "Az út keskeny, és esőben kövek mosódhatnak az útra; vezessen óvatosan, és parkoljon biztonságosan a lejtő felső végénél.",
+                "ro": "Drumul este îngust și pe ploaie pot cădea pietre pe carosabil; conduceți cu atenție și parcați în siguranță la capătul de sus.",
+                "en": "The road is narrow and rain can wash stones onto the pavement; drive carefully and park safely at the upper end of the slope."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Autotour im Winter ist komfortabel und schützt vor der kalten Meeresbrise. Am Morgen besuchen wir das Kulturzentrum, gefolgt von einem Stopp am Uhrturm. Mittags wärmen wir uns im Museum auf. Da es gegen 17:00 Uhr dunkel wird, nutzen wir das Auto, um schnell zwischen dem Kleinen Strand und der Frauenplaža zu wechseln, bevor das Tageslicht schwindet.",
+            "hu": "A téli autós túra kényelmes és véd a hideg tengeri széltől. Reggel a Kulturális Központot látogatjuk meg, majd az Óratoronynál állunk meg. Délben a múzeum fűtött tereiben melegedhetünk fel. Mivel 17:00 körül sötétedik, az autóval gyorsan válthatunk a Kis Strand és a Ženska plaža között, mielőtt elfogy a fény.",
+            "ro": "Un tur cu mașina iarna este confortabil și protejează de briza rece a mării. Dimineața vizităm Centrul Cultural, apoi ne oprim la Turnul cu Ceas. La prânz ne încălzim în muzeu. Deoarece se întunecă în jur de ora 17:00, folosim mașina pentru a ne deplasa rapid între plaje înainte de apus.",
+            "en": "A car tour in winter is comfortable and protects from the cold sea breeze. In the morning we visit the Culture Center, then stop at the Clock Tower. At noon, warm up in the museum. Since it gets dark around 17:00, use the car to quickly move between Small Beach and Ladies Beach before the light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Qendra per Kultur",
+                "hu": "Qendra per Kultur",
+                "ro": "Qendra per Kultur",
+                "en": "Qendra per Kultur"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Gebäude ist im Winter ein Segen; nutzen Sie die Zeit für die Ausstellungen, während die Wintersonne draußen tief steht.",
+                "hu": "Az épület fűtése télen igazi áldás; használja ki az időt a kiállításokra, amíg kint a téli nap alacsonyan jár a horizont felett.",
+                "ro": "Încălzirea din clădire este o binecuvântare iarna; profitați de timp pentru expoziții în timp ce soarele stă jos afară.",
+                "en": "The building's heating is a blessing in winter; take your time with the exhibits while the winter sun stays low outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Clock Tower",
+                "hu": "Clock Tower",
+                "ro": "Clock Tower",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "In der Nebensaison finden Sie leicht einen Parkplatz direkt in der Nähe; genießen Sie den Blick auf das klare, winterliche Stadtpanorama.",
+                "hu": "A holtszezonban könnyen talál parkolót közvetlenül a közelben; élvezze a kilátást a tiszta, téli várospanorámára az autó mellől.",
+                "ro": "În extrasezon veți găsi ușor parcare chiar în apropiere; bucurați-vă de priveliștea panoramică clară a orașului iarna.",
+                "en": "In the off-season, you'll easily find parking right nearby; enjoy the view of the clear, winter city panorama from by your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasha's Mosque",
+                "hu": "Pasha's Mosque",
+                "ro": "Pasha's Mosque",
+                "en": "Pasha's Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen, wo im Winter kaum Betrieb ist; der kurze Spaziergang zur Moschee ist bei der frischen Winterluft sehr belebend.",
+                "hu": "Parkoljon a kikötőben, ahol télen alig van forgalom; a rövid séta a mecsethez a friss téli levegőn nagyon élénkítő hatású.",
+                "ro": "Parcați în port, unde iarna este foarte puțin trafic; scurta plimbare până la moschee în aerul proaspăt de iarnă este revigorantă.",
+                "en": "Park at the harbor, where there's very little traffic in winter; the short walk to the mosque in the fresh winter air is very bracing."
+              }
+            },
+            {
+              "name": {
+                "de": "Arheološki muzej",
+                "hu": "Arheološki muzej",
+                "ro": "Arheološki muzej",
+                "en": "Arheološki muzej"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist die beste Art, die kälteste Zeit des Tages im Warmen zu verbringen; genießen Sie die Stille der historischen Räume.",
+                "hu": "Egy itteni látogatás a legjobb módja annak, hogy a nap leghidegebb részét melegben töltse; élvezze a történelmi termek téli csendjét.",
+                "ro": "O vizită aici este cel mai bun mod de a petrece cea mai rece parte a zilei la căldură; bucurați-vă de liniștea sălilor istorice.",
+                "en": "A visit here is the best way to spend the coldest part of the day in the warmth; enjoy the silence of the historical rooms in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Small Beach",
+                "hu": "Small Beach",
+                "ro": "Small Beach",
+                "en": "Small Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Parken direkt am leeren Strand ist im Winter ein Privileg; beobachten Sie die tiefblaue Adria bequem von Ihrem warmen Autositz aus.",
+                "hu": "A közvetlen parkolás az üres strandnál télen igazi kiváltság; figyelje a mélykék Adriát kényelmesen a fűtött autóülésből.",
+                "ro": "Parcarea direct lângă plaja pustie este un privilegiu iarna; observați Adriatica de un albastru profund din scaunul cald al mașinii.",
+                "en": "Parking directly by the empty beach is a privilege in winter; watch the deep blue Adriatic comfortably from your warm car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ženska plaža - Plazhi i Grave",
+                "hu": "Ženska plaža - Plazhi i Grave",
+                "ro": "Ženska plaža - Plazhi i Grave",
+                "en": "Ženska plaža - Plazhi i Grave"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort kurz vor 17:00 Uhr, um das letzte Licht zu fangen; die Pinienbäume schützen den Parkplatz etwas vor dem kalten Wind.",
+                "hu": "Látogasson el ide 17:00 előtt, hogy elkapja az utolsó fényeket; a fenyőfák némileg megvédik a parkolót a metsző téli széltől.",
+                "ro": "Vizitați locul puțin înainte de ora 17:00 pentru a prinde ultima lumină; pinii protejează parcarea de vântul tăios de iarnă.",
+                "en": "Visit here shortly before 17:00 to catch the last light; the pine trees offer some protection for the parking area from the cold wind."
+              }
+            }
+          ]
+        }
       }
     }
   }

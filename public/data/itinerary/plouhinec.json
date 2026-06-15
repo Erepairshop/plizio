@@ -137,6 +137,168 @@
         "hu": "A reggel Plouhinecben kezdődik a bájos Église Saint-Winoc templomnál.\n\nDélben sétáljon délre Trez Mesperleuc és Gwendrez kiterjedt homokos partjaihoz.\n\nA délutánt a drámai partvonalnak és Menez Dregan őskori rejtélyeinek szenteljük.\n\nA nap a Chapelle Saint-They szikláinál ér véget, ahonnan csodálatos naplementés kilátás nyílik az óceánra.",
         "ro": "Dimineața începe în Plouhinec la fermecătoarea Église Saint-Winoc.\n\nLa amiază, plimbați-vă spre sud pentru a descoperi nisipurile de la Trez Mesperleuc și Gwendrez.\n\nDupă-amiaza este dedicată coastei dramatice și misterelor preistorice de la Menez Dregan.\n\nZiua se încheie la stâncile de la Chapelle Saint-They cu vederi uimitoare la apus.",
         "en": "Morning starts in Plouhinec at the charming Église Saint-Winoc.\n\nBy midday, stroll south to discover the expansive sands of Trez Mesperleuc and Gwendrez.\n\nThe afternoon is dedicated to the dramatic coast and prehistoric mysteries of Menez Dregan.\n\nYour day concludes at the edge of the cliffs at Chapelle Saint-They with sweeping sunset ocean views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Schutz der Église Saint-Winoc, wo die Regentropfen sanft gegen die alten Fenster trommeln. Mittags bietet die zerklüftete Küste ein dramatisches Schauspiel aus Gischt und Nebel. Am Nachmittag führen die nassen Pfade zu prähistorischen Stätten, die im Regen eine mystische Aura entfalten. Der Abend klingt bei Meeresrauschen aus, während man sich in wetterfester Kleidung den Wind um die Nase wehen lässt.",
+            "hu": "A reggel a Szent Winoc-templom falai között indul, ahol a kopogó eső elől menedéket találunk a csendben. Délben a tengerparti sziklák és a köd drámai látványt nyújtanak, a hullámok ilyenkor a legerőteljesebbek. Délután az őskori lelőhelyek kövei között sétálunk, melyek a nedvességtől sötét tónust kapnak. Az este a tenger morajlásával ér véget, miközben a vízálló rétegek védenek a parti széltől.",
+            "ro": "Dimineața începe sub protecția Bisericii Saint-Winoc, unde picăturile de ploaie bat ușor în ferestrele vechi. La prânz, coasta stâncoasă oferă un spectacol dramatic de spray marin și ceață. După-amiaza, potecile ude duc spre situri preistorice care capătă o aură mistică în ploaie. Seara se încheie cu sunetul valurilor, în timp ce hainele impermeabile ne protejează de vântul umed de pe mal.",
+            "en": "The morning begins in the shelter of Saint-Winoc Church, where raindrops drum softly against the ancient windows. At noon, the rugged coast offers a dramatic spectacle of sea spray and mist. In the afternoon, the wet paths lead to prehistoric sites that take on a mystical aura in the rain. The evening concludes with the sound of the waves, as waterproof gear keeps the damp sea wind at bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Winoc",
+                "hu": "Église Saint-Winoc",
+                "ro": "Église Saint-Winoc",
+                "en": "Église Saint-Winoc"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die hölzernen Deckengewölbe im Inneren der Kirche; dieser ruhige Ort ist der perfekte trockene Zufluchtsort bei plötzlichen Regenschauern.",
+                "hu": "Csodáld meg a templom belső fagerendás boltozatát; ez a békés hely tökéletes száraz menedéket nyújt egy hirtelen jött zápor esetén a séta elején.",
+                "ro": "Admirați bolțile de lemn din interiorul bisericii; acest loc liniștit este refugiul uscat perfect în cazul unor averse bruște de ploaie.",
+                "en": "Admire the wooden ceiling vaults inside the church; this peaceful spot is the perfect dry sanctuary during sudden rain showers early in your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Trez Mesperleuc",
+                "hu": "Trez Mesperleuc",
+                "ro": "Trez Mesperleuc",
+                "en": "Trez Mesperleuc"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der wilden Brandung am Sandstrand; tragen Sie feste Wanderschuhe, da die Zuwegung bei Nässe rutschig und schlammig sein kann.",
+                "hu": "Élvezd a vad hullámverés látványát a homokos parton; viselj stabil túrabakancsot, mert a levezető út esőben csúszós és sáros lehet.",
+                "ro": "Bucurați-vă de vederea valurilor sălbatice pe plaja de nisip; purtați bocanci de trekking, deoarece calea de acces poate fi alunecoasă și noroioasă.",
+                "en": "Enjoy the sight of the wild surf on the sandy beach; wear sturdy hiking boots as the access path can be slippery and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Gwendrez",
+                "hu": "Plage de Gwendrez",
+                "ro": "Plage de Gwendrez",
+                "en": "Plage de Gwendrez"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen den feinen Sand dunkler färbt; eine gute Regenjacke schützt Sie vor dem peitschenden Wind, der oft mit den Schauern kommt.",
+                "hu": "Figyeld meg, ahogy az eső sötétebbre festi a finom homokot; egy jó esőkabát megvéd a széltől, amely gyakran kíséri a part menti záporokat.",
+                "ro": "Observați cum ploaia colorează nisipul fin în nuanțe mai închise; o jachetă impermeabilă vă va proteja de vântul care însoțește adesea ploile.",
+                "en": "Watch how the rain colors the fine sand darker; a good waterproof jacket will protect you from the wind that often accompanies coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de Menez Dregan",
+                "hu": "Site de Menez Dregan",
+                "ro": "Site de Menez Dregan",
+                "en": "Site de Menez Dregan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prähistorische Höhle, die einen natürlichen Unterstand bietet; achten Sie auf die Felskanten, die bei Feuchtigkeit extrem glatt sind.",
+                "hu": "Fedezd fel az őskori barlangot, amely természetes menedéket nyújt; figyelj oda a sziklák peremére, mert nedvesen rendkívül síkosak lehetnek.",
+                "ro": "Explorați peștera preistorică care oferă un adăpost natural; aveți grijă la marginile stâncilor, care sunt extrem de alunecoase când sunt umede.",
+                "en": "Explore the prehistoric cave that offers a natural shelter; be careful near the rock edges, as they become extremely slick when damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-They",
+                "hu": "Chapelle Saint-They",
+                "ro": "Chapelle Saint-They",
+                "en": "Chapelle Saint-They"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle direkt an der Klippe ist ideal, um das stürmische Meer zu beobachten; halten Sie die Tür fest, da der Wind hier sehr stark weht.",
+                "hu": "Ez a közvetlenül a szikla szélén álló kápolna ideális a viharos tenger megfigyelésére; fogd szorosan az ajtót, mert a szél itt nagyon erősen fúj.",
+                "ro": "Această mică chapelă situată pe marginea stâncii este ideală pentru a observa marea furtunoasă; țineți bine ușa, deoarece vântul suflă foarte tare aici.",
+                "en": "This small chapel right on the cliff edge is ideal for watching the stormy sea; hold the door firmly as the wind blows very strongly here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die Türme von Plouhinec scharf am Horizont erscheinen. Mittags wärmt die tiefstehende Sonne das Gesicht, während der Frost auf den Dünen glitzert. Am Nachmittag bietet die raue Küste Einsamkeit und weite Blicke über den Atlantik. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung die Landschaft in ein sanftes, blaues Licht.",
+            "hu": "A friss téli reggelen Plouhinec tornyai élesen rajzolódnak ki a láthatáron. Délben az alacsonyan járó nap sugarai melengetik arcunkat, miközben a dér csillog a dűnéken. Délután a nyers tengerparti táj magányt és végtelen kilátást nyújt az Atlanti-óceánra. Mivel a nap 17:00 körül nyugszik, a korai szürkület lágy, kék fénybe vonja a környéket.",
+            "ro": "Aerul clar de iarnă de dimineață face ca turnurile din Plouhinec să apară clar la orizont. La prânz, soarele jos încălzește fața, în timp ce gerul sclipeste pe dune. După-amiaza, coasta aspră oferă singurătate și vederi largi asupra Atlanticului. Deoarece soarele apune deja în jur de ora 17:00, amurgul timpuriu îmbracă peisajul într-o lumină albastră.",
+            "en": "The crisp winter air in the morning makes the spires of Plouhinec appear sharp on the horizon. At noon, the low sun warms the face while frost glistens on the dunes. In the afternoon, the raw coastal landscape offers solitude and wide views over the Atlantic. As the sun sets around 17:00, the early twilight wraps the scenery in a soft, blue light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Winoc",
+                "hu": "Église Saint-Winoc",
+                "ro": "Église Saint-Winoc",
+                "en": "Église Saint-Winoc"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum für einen ruhigen Start; tragen Sie warme Schichten, da Steinbauten im Winter die Kälte lange speichern.",
+                "hu": "Használd ki a szélvédett belső teret a nyugodt kezdéshez; viselj meleg rétegeket, mert a kőépületek télen sokáig tartják a hideget.",
+                "ro": "Folosiți interiorul ferit de vânt pentru un început liniștit; purtați straturi calde, deoarece clădirile din piatră păstrează frigul mult timp iarna.",
+                "en": "Take advantage of the wind-sheltered interior for a peaceful start; wear warm layers as stone buildings hold the cold for a long time in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Trez Mesperleuc",
+                "hu": "Trez Mesperleuc",
+                "ro": "Trez Mesperleuc",
+                "en": "Trez Mesperleuc"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; ein heißer Tee aus der Thermoskanne macht die Pause im kalten Seewind zu einem gemütlichen Erlebnis.",
+                "hu": "A strand télen szinte teljesen néptelen; egy termoszban vitt forró tea igazi élménnyé teszi a pihenőt a hideg tengeri szélben.",
+                "ro": "Plaja este aproape pustie iarna; un ceai fierbinte dintr-un termos transformă pauza în vântul rece de mare într-o experiență confortabilă.",
+                "en": "The beach is almost deserted in winter; a hot tea from a thermos makes your break in the cold sea wind a cozy experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Gwendrez",
+                "hu": "Plage de Gwendrez",
+                "ro": "Plage de Gwendrez",
+                "en": "Plage de Gwendrez"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos der Brandung; achten Sie auf festgefrorenen Boden auf den Klippenpfaden, der überraschend glatt sein kann.",
+                "hu": "Élvezd a tiszta fényeket a hullámok fotózásához; ügyelj a sziklaösvényeken a megfagyott talajra, amely meglepően csúszós lehet.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii cu valurile; aveți grijă la solul înghețat de pe potecile de pe stânci, care poate fi surprinzător de neted.",
+                "en": "Enjoy the clear light for photos of the surf; watch out for frozen ground on the cliff paths, which can be surprisingly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de Menez Dregan",
+                "hu": "Site de Menez Dregan",
+                "ro": "Site de Menez Dregan",
+                "en": "Site de Menez Dregan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausgrabungen ohne sommerliche Menschenmassen; da der Ort exponiert ist, ist eine winddichte Mütze hier unerlässlich.",
+                "hu": "Fedezd fel az ásatásokat a nyári tömeg nélkül; mivel a hely teljesen nyitott, egy szélálló sapka viselése itt elengedhetetlen.",
+                "ro": "Explorați săpăturile fără mulțimile de vară; deoarece locul este expus, o căciulă rezistentă la vânt este esențială aici.",
+                "en": "Explore the excavations without the summer crowds; since the site is exposed, a windproof hat is essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-They",
+                "hu": "Chapelle Saint-They",
+                "ro": "Chapelle Saint-They",
+                "en": "Chapelle Saint-They"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie hier den frühen Sonnenuntergang gegen 17:00 Uhr; das Licht über dem Atlantik ist im Winter besonders farbenprächtig.",
+                "hu": "Figyeld meg innen a korai, 17:00 óra körüli naplementét; az Atlanti-óceán feletti fények télen különösen színpompásak.",
+                "ro": "Observați apusul timpuriu de soare în jur de ora 17:00; lumina de deasupra Atlanticului este deosebit de colorată iarna.",
+                "en": "Watch the early sunset around 17:00 from here; the light over the Atlantic is particularly colorful during winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítson a történelmi Église Saint-Winoc-nál, mielőtt a part felé venné az irányt.\n\nDélben elérheti a világ peremét a Chapelle Saint-They és Menez Dregan mentén.\n\nA délután a drámai sziklákat követi a Pointe du Souc'h és az ősi megalitok felé.\n\nAz utazás egy békés naplementével zárul Pors-Grouen apró, védett tengerparti kikötőjében.",
         "ro": "Începeți la istorica Église Saint-Winoc înainte de a prinde briza spre coastă.\n\nLa amiază, ajungeți la marginea lumii la Chapelle Saint-They și Menez Dregan.\n\nDupă-amiaza urmărește stâncile dramatice până la Pointe du Souc'h și megaliții antici.\n\nCălătoria se încheie cu un apus de soare pașnic la micul port adăpostit din Pors-Grouen.",
         "en": "Kick off at the historic Église Saint-Winoc before catching the breeze to the coast.\n\nBy midday, reach the edge of the world at Chapelle Saint-They and Menez Dregan.\n\nAfternoon traces the dramatic cliffs to the scenic Pointe du Souc'h and ancient megaliths.\n\nThe journey ends with a peaceful coastal sunset at the small harbor of Pors-Grouen."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt unter grauen Wolken an der Kirche, während die Reifen auf dem nassen Asphalt singen. Mittags führt die Route entlang der Küstenwege, wo Vorsicht in den Kurven geboten ist. Am Nachmittag erreichen wir prähistorische Monumente, die im feuchten Glanz stehen. Der Abend endet nach einer erfrischenden Fahrt durch den bretonischen Nieselregen, geschützt durch funktionale Regenbekleidung.",
+            "hu": "A kerékpáros nap szürke felhők alatt indul a templomnál, miközben a gumik susognak a vizes aszfalton. Délben a parti utakon haladunk, ahol a kanyarokban fokozott óvatosságra van szükség a csúszásveszély miatt. Délután elérjük az őskori emlékeket, melyek sötéten csillognak a nedvességtől. Az este egy frissítő tekerés után zárul a breton szitáló esőben, vízálló ruházatban.",
+            "ro": "Ziua cu bicicleta începe sub nori gri la biserică, în timp ce anvelopele șuieră pe asfaltul umed. La prânz, traseul urmează drumurile de coastă, unde este necesară prudență în curbe. După-amiaza ajungem la monumente preistorice care strălucesc în umezeală. Seara se încheie după o plimbare revigorantă prin burnița bretonă, protejați de echipament impermeabil.",
+            "en": "The cycling day begins under grey clouds at the church, with tires humming on the wet asphalt. At noon, the route follows coastal roads where caution is needed in turns. In the afternoon, we reach prehistoric monuments glistening in the dampness. The evening ends after a refreshing ride through the Breton drizzle, protected by functional rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Winoc",
+                "hu": "Église Saint-Winoc",
+                "ro": "Église Saint-Winoc",
+                "en": "Église Saint-Winoc"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Windschatten der Kirchenmauer; im Inneren können Sie in Ruhe Ihre Regenjacke richten und den Tourstart planen.",
+                "hu": "Parkold a bringát a templomfal szélárnyékában; bent nyugodtan megigazíthatod az esőkabátodat és megtervezheted a túra kezdetét.",
+                "ro": "Parcați bicicleta la adăpostul zidului bisericii; în interior vă puteți aranja jacheta de ploaie și puteți planifica restul traseului.",
+                "en": "Park your bike in the lee of the church wall; inside you can adjust your rain gear in peace and plan the start of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-They",
+                "hu": "Chapelle Saint-They",
+                "ro": "Chapelle Saint-They",
+                "en": "Chapelle Saint-They"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle ist unbefestigt; bremsen Sie auf dem nassen Untergrund frühzeitig, um ein Wegrutschen der Räder zu vermeiden.",
+                "hu": "A kápolnához vezető út nem aszfaltozott; a nedves talajon fékezz időben, hogy elkerüld a kerekek megcsúszását a kanyarokban.",
+                "ro": "Drumul spre capelă este neasfaltat; frânați din timp pe suprafața umedă pentru a evita deraparea roților în timpul mersului.",
+                "en": "The path to the chapel is unpaved; brake early on the wet ground to avoid the wheels slipping during your approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de Menez Dregan",
+                "hu": "Site de Menez Dregan",
+                "ro": "Site de Menez Dregan",
+                "en": "Site de Menez Dregan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Infotafeln als kurzen Regenschutz; besichtigen Sie die Ausgrabungen zu Fuß, da der Boden für Fahrräder zu schlammig ist.",
+                "hu": "Használd az információs táblákat rövid esővédőként; az ásatásokat gyalogosan nézd meg, mert a talaj a biciklik számára túl sáros lehet.",
+                "ro": "Folosiți panourile informative ca scurt adăpost împotriva ploii; vizitați săpăturile pe jos, deoarece solul este prea noroios pentru biciclete.",
+                "en": "Use the information boards as brief rain shelter; visit the excavations on foot as the ground is too muddy for bicycles."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Souc'h",
+                "hu": "Pointe du Souc'h",
+                "ro": "Pointe du Souc'h",
+                "en": "Pointe du Souc'h"
+              },
+              "tip_5lang": {
+                "de": "Vom Aussichtspunkt aus wirkt das graue Meer besonders gewaltig; achten Sie beim Absteigen auf den rutschigen, grasbewachsenen Boden.",
+                "hu": "A kilátópontról a szürke tenger különösen hatalmasnak tűnik; leszálláskor ügyelj a csúszós, füves talajra a bicikli mellett.",
+                "ro": "De la punctul de observație, marea gri pare deosebit de impunătoare; aveți grijă la solul ierbos și alunecos când coborâți de pe bicicletă.",
+                "en": "From the viewpoint, the grey sea looks especially powerful; watch out for slippery, grassy ground when getting off your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte de Menez Korriged",
+                "hu": "Allée couverte de Menez Korriged",
+                "ro": "Allée couverte de Menez Korriged",
+                "en": "Allée couverte de Menez Korriged"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinplatten des Ganggrabs bieten einen urigen Schutz vor Wind; wischen Sie den Sattel vor der Weiterfahrt unbedingt trocken.",
+                "hu": "A folyosósír masszív kőlapjai különleges védelmet nyújtanak a szél ellen; a továbbindulás előtt feltétlenül töröld szárazra a nyerget.",
+                "ro": "Plăcile masive de piatră ale mormântului oferă un adăpost rustic împotriva vântului; ștergeți neapărat șaua înainte de a pleca mai departe.",
+                "en": "The massive stone slabs of the gallery grave offer a rustic shelter from the wind; be sure to wipe your saddle dry before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Pors-Grouen",
+                "hu": "Pors-Grouen",
+                "ro": "Pors-Grouen",
+                "en": "Pors-Grouen"
+              },
+              "tip_5lang": {
+                "de": "Der kleine Hafen wirkt im Regen sehr melancholisch; ziehen Sie für den Rückweg eine trockene Schicht unter die Regenjacke, um nicht auszukühlen.",
+                "hu": "A kis kikötő az esőben nagyon melankolikus hangulatot áraszt; a visszaútra húzz egy száraz réteget az esőkabát alá, nehogy lehűlj.",
+                "ro": "Micul port pare foarte melancolic în ploaie; pentru drumul de întoarcere, puneți un strat uscat sub jacheta de ploaie pentru a nu răci.",
+                "en": "The small harbor looks very melancholic in the rain; put a dry layer under your rain jacket for the ride back to avoid getting chilled."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad durch die frostige Morgenluft zu fahren, belebt die Sinne auf dem Weg zur Kirche. Mittags glänzt das Meer silbern unter der Wintersonne, während die Wege trocken und griffig sind. Am Nachmittag erkunden wir prähistorische Stätten in herrlicher Stille. Gegen 17:00 Uhr mahnt der Sonnenuntergang zum Aufbruch, bevor die klirrende Kälte der Nacht die Küste einnimmt.",
+            "hu": "A jeges reggeli levegőben való biciklizés felfrissíti az érzékeket a templom felé vezető úton. Délben a tenger ezüstösen csillog a téli napsütésben, az utak szárazak és jól tapadnak. Délután az őskori lelőhelyeket fedezzük fel csodálatos csendben. 17:00 körül a naplemente jelzi az indulást, mielőtt az éjszakai fagy elérné a partot.",
+            "ro": "Mersul cu bicicleta prin aerul înghețat al dimineții revigorează simțurile în drum spre biserică. La prânz, marea strălucește argintiu sub soarele de iarnă, iar drumurile sunt uscate. După-amiaza explorăm siturile preistorice într-o liniște deplină. În jurul orei 17:00, apusul îndeamnă la plecare înainte ca gerul nopții să cuprindă coasta.",
+            "en": "Cycling through the frosty morning air invigorates the senses on the way to the church. At noon, the sea glistens silver under the winter sun, with paths remaining dry and firm. In the afternoon, we explore prehistoric sites in magnificent silence. Around 17:00, the sunset signals it's time to head back before the biting night cold takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Winoc",
+                "hu": "Église Saint-Winoc",
+                "ro": "Église Saint-Winoc",
+                "en": "Église Saint-Winoc"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände kurz im geschützten Vorraum auf; tragen Sie unbedingt winddichte Handschuhe, da der Fahrtwind im Winter sehr beißt.",
+                "hu": "Melegítsd fel a kezed a védett előtérben; feltétlenül viselj szélálló kesztyűt, mert a menetszél télen nagyon metsző lehet a biciklin.",
+                "ro": "Încălziți-vă mâinile în vestibulul protejat; purtați neapărat mănuși rezistente la vânt, deoarece curentul de aer este foarte tăios iarna.",
+                "en": "Warm your hands briefly in the sheltered vestibule; be sure to wear windproof gloves, as the wind chill while riding is very sharp in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-They",
+                "hu": "Chapelle Saint-They",
+                "ro": "Chapelle Saint-They",
+                "en": "Chapelle Saint-They"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz vor dem kalten Seewind; machen Sie eine kurze Pause, um die Wintersonne über den Klippen zu genießen.",
+                "hu": "A kápolna védelmet nyújt a hideg tengeri szél ellen; tarts egy rövid szünetet, hogy kiélvezd a téli napsütést a sziklák felett.",
+                "ro": "Capela oferă protecție împotriva vântului rece de mare; faceți o scurtă pauză pentru a vă bucura de soarele de iarnă deasupra stâncilor.",
+                "en": "The chapel provides protection from the cold sea wind; take a short break to enjoy the winter sun over the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de Menez Dregan",
+                "hu": "Site de Menez Dregan",
+                "ro": "Site de Menez Dregan",
+                "en": "Site de Menez Dregan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prähistorische Stätte in klarem Licht; bewegen Sie sich beim Rundgang zügig zu Fuß, um die Körperwärme nach dem Radfahren zu halten.",
+                "hu": "Fedezd fel az őskori helyszínt a tiszta fényekben; gyalogolj tempósan a körút alatt, hogy megőrizd a testhődet a biciklizés után.",
+                "ro": "Explorați situl preistoric în lumina clară; mergeți rapid pe jos în timpul turului pentru a menține căldura corporală după mersul cu bicicleta.",
+                "en": "Explore the prehistoric site in clear light; walk briskly during the tour to maintain body heat after your bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Souc'h",
+                "hu": "Pointe du Souc'h",
+                "ro": "Pointe du Souc'h",
+                "en": "Pointe du Souc'h"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den winterlichen Atlantik ist spektakulär; ziehen Sie eine zusätzliche Weste an, bevor Sie für das Foto vom Rad steigen.",
+                "hu": "A kilátás a téli Atlanti-óceánra lenyűgöző; vegyél fel egy extra mellényt, mielőtt leszállnál a bringáról a fotózáshoz.",
+                "ro": "Vederea spre Atlanticul de iarnă este spectaculoasă; puneți o vestă suplimentară înainte de a coborî de pe bicicletă pentru fotografii.",
+                "en": "The view of the winter Atlantic is spectacular; put on an extra vest before getting off your bike for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte de Menez Korriged",
+                "hu": "Allée couverte de Menez Korriged",
+                "ro": "Allée couverte de Menez Korriged",
+                "en": "Allée couverte de Menez Korriged"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steine strahlen im Winter eine urzeitliche Kälte aus; bleiben Sie in Bewegung und kontrollieren Sie Ihre Beleuchtung für den Rückweg.",
+                "hu": "A masszív kövek télen ősi hideget árasztanak; maradj mozgásban és ellenőrizd a világításodat a hazafelé vezető útra.",
+                "ro": "Pietrele masive emană un frig ancestral iarna; rămâneți în mișcare și verificați-vă luminile pentru drumul de întoarcere.",
+                "en": "The massive stones radiate a primeval cold in winter; stay active and check your lights for the ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Pors-Grouen",
+                "hu": "Pors-Grouen",
+                "ro": "Pors-Grouen",
+                "en": "Pors-Grouen"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Hafen vor der Dämmerung; starten Sie rechtzeitig zurück, um vor dem Sonnenuntergang um 17:00 Uhr anzukommen.",
+                "hu": "Élvezd a kikötő csendjét a szürkület előtt; indulj el időben vissza, hogy a 17:00-s naplemente előtt hazaérj.",
+                "ro": "Bucurați-vă de liniștea portului înainte de amurg; plecați la timp înapoi pentru a ajunge înainte de apusul de la ora 17:00.",
+                "en": "Enjoy the peace of the harbor before twilight; start your return journey early enough to arrive before the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózása az Église Saint-Winoc gyönyörű építészetének megcsodálásával kezdődik.\n\nDél körül utazzon el Menez Dregan jelentős partmenti régészeti lelőhelyéhez.\n\nA délután festői utat kínál a Dunes du Trez Goarem ökológiai csodái mellett.\n\nAz autós kirándulás a Plage de Lesven csendes, zord elszigeteltségében ér véget naplementekor.",
         "ro": "Plimbarea începe cu frumoasa arhitectură a bisericii Église Saint-Winoc.\n\nÎn jurul prânzului, călătoriți spre importantul sit arheologic Menez Dregan.\n\nDupă-amiaza oferă o plimbare pitorească pe lângă minunile de la Dunes du Trez Goarem.\n\nExcursia rutieră se încheie în izolarea liniștită a plajei Lesven la apusul soarelui.",
         "en": "Your drive begins with the beautiful architecture of Église Saint-Winoc in town.\n\nAround midday, journey to the major archaeological site of Menez Dregan.\n\nThe afternoon offers a scenic ride past the ecological wonders of Dunes du Trez Goarem.\n\nYour road trip concludes in the quiet, rugged isolation of Plage de Lesven at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist das Auto der ideale Rückzugsort, während man von der Kirche aus die regenverhangene Küste betrachtet. Mittags steuern wir Aussichtspunkte an, die auch durch die Scheiben faszinieren. Am Nachmittag ermöglichen kurze Wege zwischen den Stopps, die prähistorischen Orte fast trocken zu erkunden. Der Abend endet gemütlich, während der Scheibenwischer den Rhythmus des bretonischen Wetters vorgibt.",
+            "hu": "Reggel az autó ideális menedék, miközben a templom mellől figyeljük a ködös, esős partvidéket. Délben olyan kilátópontokat keresünk fel, amelyek az ablakon keresztül is lenyűgözőek. Délután a megállók közötti rövid távok lehetővé teszik az őskori helyszínek szinte száraz felfedezését. Az este nyugodtan zárul, miközben az ablaktörlő ütemesen küzd a breton esővel.",
+            "ro": "Dimineața, mașina este refugiul ideal în timp ce priviți coasta plină de ploaie de lângă biserică. La prânz, vizităm puncte de observație care fascinează chiar și prin geamuri. După-amiaza, distanțele scurte între opriri permit explorarea siturilor preistorice aproape fără a ne uda. Seara se încheie confortabil, în timp ce ștergătoarele dau ritmul vremii bretone.",
+            "en": "In the morning, the car is the ideal retreat while watching the rainy coast from the church. At noon, we visit viewpoints that are fascinating even through the windows. In the afternoon, short drives between stops allow for exploring prehistoric sites while staying mostly dry. The evening ends comfortably as the wipers keep pace with the rhythmic Breton rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Winoc",
+                "hu": "Église Saint-Winoc",
+                "ro": "Église Saint-Winoc",
+                "en": "Église Saint-Winoc"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trocken ins Innere zu gelangen; nutzen Sie die Zeit im Wagen, um die Route im Navi bei Regen zu prüfen.",
+                "hu": "Parkolj közvetlenül a bejáratnál, hogy szárazon juss be; használd az autóban töltött időt a navigáció beállítására az esős szakaszokhoz.",
+                "ro": "Parcați chiar lângă intrare pentru a ajunge uscat în interior; folosiți timpul din mașină pentru a verifica traseul pe GPS în caz de ploaie.",
+                "en": "Park right by the entrance to get inside dry; use the time in the car to check your route on the GPS for the rainy stages."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de Menez Dregan",
+                "hu": "Site de Menez Dregan",
+                "ro": "Site de Menez Dregan",
+                "en": "Site de Menez Dregan"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Geschehen; ein großer Regenschirm ist hier nützlich, um die Außenanlagen ohne Eile besichtigen zu können.",
+                "hu": "A parkoló közel van a látnivalókhoz; egy nagy esernyő itt nagyon hasznos, hogy kapkodás nélkül nézhesd meg a szabadtéri részeket.",
+                "ro": "Parcarea este aproape de sit; o umbrelă mare este utilă aici pentru a putea vizita exteriorul fără grabă.",
+                "en": "The parking lot is close to the action; a large umbrella is useful here to visit the outdoor areas without rushing."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Évette",
+                "hu": "Plage de Sainte-Évette",
+                "ro": "Plage de Sainte-Évette",
+                "en": "Plage de Sainte-Évette"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer bequem vom warmen Auto aus; die Gischt an der Mole ist bei Sturm besonders beeindruckend zu beobachten.",
+                "hu": "Élvezd a tenger látványát kényelmesen, a meleg autóból; a mólónál felcsapó hullámok viharos időben különösen látványosak.",
+                "ro": "Bucurați-vă de vederea mării confortabil din mașina caldă; valurile care se sparg de dig sunt deosebit de impresionante pe furtună.",
+                "en": "Enjoy the sea view comfortably from your warm car; the spray at the pier is particularly impressive to watch during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes du Trez Goarem",
+                "hu": "Dunes du Trez Goarem",
+                "ro": "Dunes du Trez Goarem",
+                "en": "Dunes du Trez Goarem"
+              },
+              "tip_5lang": {
+                "de": "Kurze Gänge durch die dichte Dünenvegetation bieten Schutz; achten Sie beim Einparken auf weichen, nassen Boden abseits der befestigten Wege.",
+                "hu": "A dűnék sűrű növényzete közötti rövid séták védelmet nyújtanak; parkoláskor ügyelj a puha, vizes talajra a kijelölt utakon kívül.",
+                "ro": "Scurtele plimbări prin vegetația dunelor oferă protecție; aveți grijă la solul moale și umed când parcați în afara drumurilor asfaltate.",
+                "en": "Short walks through the dense dune vegetation offer shelter; watch out for soft, wet ground when parking off the paved areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Loc'h",
+                "hu": "Plage du Loc'h",
+                "ro": "Plage du Loc'h",
+                "en": "Plage du Loc'h"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist ideal für einen kurzen 'Drive-in'-Blick auf die Wellen; lassen Sie die Heizung laufen, um die Fenster beschlagfrei zu halten.",
+                "hu": "A strand ideális egy rövid, autóból történő hullámleshez; járasd a fűtést, hogy az ablakok ne párásodjanak be a kinti esőben.",
+                "ro": "Plaja este ideală pentru o privire scurtă spre valuri din mașină; lăsați căldura pornită pentru a preveni aburirea geamurilor.",
+                "en": "The beach is ideal for a quick 'drive-in' look at the waves; keep the heater running to keep the windows fog-free in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lesven",
+                "hu": "Plage de Lesven",
+                "ro": "Plage de Lesven",
+                "en": "Plage de Lesven"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Prasseln des Regens auf dem Autodach; die Einsamkeit der Bucht wirkt bei diesem Wetter besonders beruhigend.",
+                "hu": "Zárd a napot az autó tetőjén kopogó eső hangjával; az öböl magánya ebben az időben különösen megnyugtató és békés.",
+                "ro": "Încheiați ziua cu sunetul ploii pe plafonul mașinii; singurătatea golfului este deosebit de liniștitoare pe această vreme.",
+                "en": "End the day with the sound of rain pattering on the car roof; the solitude of the bay is especially soothing in this weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt entspannt mit freier Sicht auf die historische Kirche. Mittags nutzen wir die Mobilität, um zwischen den sonnigen Strandabschnitten zu wechseln, während die Heizung für Komfort sorgt. Am Nachmittag leuchten die prähistorischen Steine im warmen Licht der tiefstehenden Sonne. Da es bereits gegen 17:00 Uhr dunkel wird, erleben wir das Finale des Tages in der stimmungsvollen blauen Stunde.",
+            "hu": "A téli autós túra pihentetően indul, tiszta kilátással a történelmi templomra. Délben kihasználjuk a mobilitást a napsütötte partszakaszok közötti váltáshoz, miközben a fűtés biztosítja a kényelmet. Délután az őskori kövek az alacsonyan járó nap meleg fényében ragyognak. Mivel 17:00 körül sötétedik, a nap zárását a hangulatos kék órában élhetjük át.",
+            "ro": "Turul cu mașina iarna începe relaxat, cu o vedere clară asupra bisericii istorice. La prânz folosim mobilitatea pentru a schimba între secțiunile de plajă însorite, în timp ce căldura oferă confort. După-amiaza, pietrele preistorice strălucesc în lumina caldă a soarelui jos. Deoarece se întunecă deja în jur de ora 17:00, experimentăm finalul zilei în ora albastră.",
+            "en": "The winter car tour starts relaxed with clear views of the historic church. At noon, we use our mobility to switch between sunny beach sections while the heater ensures comfort. In the afternoon, the prehistoric stones glow in the warm light of the low sun. Since it gets dark around 17:00, we experience the day's finale in the atmospheric blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Winoc",
+                "hu": "Église Saint-Winoc",
+                "ro": "Église Saint-Winoc",
+                "en": "Église Saint-Winoc"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frostfreien Blick auf die Architektur; nutzen Sie die Sitzheizung, um sich nach dem Besuch des kalten Kircheninneren aufzuwärmen.",
+                "hu": "Élvezd a dérmentes kilátást az építészetre; használd az ülésfűtést, hogy felmelegedj a hideg templombelső meglátogatása után.",
+                "ro": "Bucurați-vă de vederea arhitecturii; folosiți încălzirea în scaune pentru a vă încălzi după vizitarea interiorului rece al bisericii.",
+                "en": "Enjoy the frost-free view of the architecture; use the seat heaters to warm up after visiting the cold church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Site de Menez Dregan",
+                "hu": "Site de Menez Dregan",
+                "ro": "Site de Menez Dregan",
+                "en": "Site de Menez Dregan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen im besten Mittagslicht; behalten Sie die Jacke an, da der Wind vom Meer hier im Winter besonders schneidend ist.",
+                "hu": "Látogasd meg az ásatásokat a legjobb déli fényben; hagyd magadon a kabátot, mert a tenger felőli szél itt télen különösen metsző.",
+                "ro": "Vizitați săpăturile în cea mai bună lumină de prânz; păstrați jacheta pe voi, deoarece vântul de pe mare este deosebit de tăios aici iarna.",
+                "en": "Visit the excavations in the best midday light; keep your jacket on as the wind from the sea is particularly biting here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Évette",
+                "hu": "Plage de Sainte-Évette",
+                "ro": "Plage de Sainte-Évette",
+                "en": "Plage de Sainte-Évette"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am leeren Hafen ist erfrischend; das Auto bietet danach sofortige Wärme für die Weiterfahrt zur nächsten Bucht.",
+                "hu": "Egy rövid séta az üres kikötőben felfrissít; az autó ezután azonnali meleget nyújt a következő öböl felé vezető úton.",
+                "ro": "O scurtă plimbare în portul gol este revigorantă; mașina oferă apoi căldură imediată pentru drumul spre următorul golf.",
+                "en": "A short walk in the empty harbor is refreshing; the car then provides instant warmth for the drive to the next bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Dunes du Trez Goarem",
+                "hu": "Dunes du Trez Goarem",
+                "ro": "Dunes du Trez Goarem",
+                "en": "Dunes du Trez Goarem"
+              },
+              "tip_5lang": {
+                "de": "Die Dünenlandschaft wirkt im Winterlicht fast wie eine Wüste; achten Sie beim Verlassen des Wagens auf festgefrorene Pfützen am Parkplatz.",
+                "hu": "A dűnék világa a téli fényben szinte sivatagnak tűnik; az autóból kiszállva ügyelj a megfagyott tócsákra a parkolóban.",
+                "ro": "Peisajul dunelor arată aproape ca un deșert în lumina iernii; aveți grijă la bălțile înghețate din parcare când coborâți din mașină.",
+                "en": "The dune landscape looks almost like a desert in the winter light; watch out for frozen puddles in the parking lot when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Loc'h",
+                "hu": "Plage du Loc'h",
+                "ro": "Plage du Loc'h",
+                "en": "Plage du Loc'h"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Kitesurfer, die oft auch im Winter hier sind; die tiefe Sonne spiegelt sich wunderschön im nassen Ufersaum.",
+                "hu": "Figyeld meg a kiteszörfösöket, akik gyakran télen is itt vannak; az alacsony nap gyönyörűen tükröződik a vizes partvonalon.",
+                "ro": "Observați pasionații de kitesurfing care sunt adesea aici și iarna; soarele jos se reflectă frumos în fâșia de apă de la mal.",
+                "en": "Watch the kitesurfers who are often here even in winter; the low sun reflects beautifully in the wet shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lesven",
+                "hu": "Plage de Lesven",
+                "ro": "Plage de Lesven",
+                "en": "Plage de Lesven"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Ende des Tages im Schutz Ihres Wagens; der Sonnenuntergang gegen 17:00 Uhr taucht den Strand in spektakuläre Farben.",
+                "hu": "Éld át a nap végét az autód védelmében; a 17:00 óra körüli naplemente látványos színekbe öltözteti a tengerpartot.",
+                "ro": "Experimentați sfârșitul zilei la adăpostul mașinii; apusul de la ora 17:00 scaldă plaja în culori spectaculoase.",
+                "en": "Experience the end of the day from the shelter of your car; the sunset around 17:00 bathes the beach in spectacular colors."
+              }
+            }
+          ]
+        }
       }
     }
   }

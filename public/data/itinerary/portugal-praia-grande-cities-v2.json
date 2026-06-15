@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot a festői Praia da Adraga strandon, és élvezze a friss óceáni levegőt. Egy rövid séta elvezeti a sziklákhoz, ahol ősi dinoszauruszok lábnyomai láthatók a szinte függőleges sziklafalon.\n\nDél: Sétáljon a Praia Grande do Rodízio felé, amely a környék legnagyobb homokos partszakasza. Ez a nyüzsgő hely tökéletes a szörfösök megfigyelésére, miközben ízletes tengeri ebédet fogyaszt az Atlanti-óceánra néző teraszon.\n\nDélután: Folytassa útját észak felé a Praia Pequena do Rodízio csendesebb öbléhez. A sziklák mentén továbbhaladva az Alto da Vigia régészeti lelőhely lenyűgöző római kori romokat tár fel, drámai háttérrel párosítva.\n\nEste: Fejezze be gyalogtúráját a Praia das Maçãs aranyszínű homokján. Naplementekor a varázslatos hangulat és a lágy hullámok tökéletes, pihentető befejezést nyújtanak a gyönyörű portugál tengerpart felfedezéséhez.",
         "ro": "Dimineața: Începeți ziua la pitoreasca Praia da Adraga, respirând aerul proaspăt al oceanului. O scurtă plimbare vă duce la stâncile unde urmele antice de dinozauri sunt vizibile permanent pe peretele aproape vertical.\n\nAmiază: Plimbați-vă spre Praia Grande do Rodízio, cea mai mare întindere de nisip din zonă. Acest loc vibrant este perfect pentru a urmări surferii, savurând în același timp un prânz delicios cu vedere la Atlantic.\n\nDupă-amiaza: Continuați drumeția spre nord, către golful mai liniștit Praia Pequena do Rodízio. Mai departe de-a lungul stâncilor, Sítio Arqueológico do Alto da Vigia dezvăluie ruine romane fascinante pe un fundal dramatic.\n\nSeara: Încheiați-vă călătoria pe nisipurile aurii de la Praia das Maçãs. La apus, atmosfera fermecătoare și valurile blânde oferă un final perfect și relaxant pentru ziua dumneavoastră pe frumoasa coastă portugheză.",
         "en": "Morning: Start your day at the picturesque Praia da Adraga, breathing in the fresh ocean air. A short coastal walk brings you to the famous cliffs where ancient dinosaur footprints are permanently etched into the near-vertical rock face.\n\nMidday: Stroll towards Praia Grande do Rodízio, the area's largest sandy expanse. This vibrant spot is perfect for watching surfers conquer the waves while enjoying a delightful seafood lunch overlooking the Atlantic.\n\nAfternoon: Continue your leisurely trek north to the quieter cove of Praia Pequena do Rodízio. Further along the cliffs, the Sítio Arqueológico do Alto da Vigia reveals fascinating Roman ruins set against a dramatic backdrop.\n\nEvening: Conclude your walking journey at the golden sands of Praia das Maçãs. As the sun sets, the charming atmosphere and gentle waves provide a perfect, relaxing end to your day exploring the beautiful Portuguese coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch an den Klippen von Adraga, wo der Regen die Wellen dramatisch wirken lässt. Mittags suchen Sie Schutz bei den prähistorischen Spuren, während der Wind zunimmt. Am Nachmittag erleben Sie die rohe Gewalt der Natur am Praia Grande. Der Tag endet an der Praia das Maçãs, wo die graue See eine ganz besondere, melancholische Atmosphäre schafft.",
+            "hu": "A reggel misztikus ködben indul az Adraga-sziklák felett, ahol az eső drámai hangulatot kölcsönöz az óceánnak. Délre, a dinoszaurusz lábnyomoknál feltámadhat a szél, így a vízálló öltözet elengedhetetlen. Délután a Praia Grande homokján a természet nyers erejével találkozhatunk. A nap a Praia das Maçãs partján zárul, ahol a szürke égbolt alatt figyelhetjük a tajtékzó hullámokat.",
+            "ro": "Dimineața începe mistic la stâncile din Adraga, unde ploaia adaugă un strat dramatic valurilor Atlanticului. La prânz, în timp ce explorați urmele preistorice, vântul se poate intensifica, necesitând echipament impermeabil. După-amiaza, plimbarea pe nisipul de la Praia Grande oferă o întâlnire brută cu forța naturii. Ziua se încheie la Praia das Maçãs, sub un cer gri și agitat.",
+            "en": "The morning starts with a mystical mist over the cliffs of Adraga, where the rain adds a dramatic layer to the Atlantic waves. By noon, as you explore the prehistoric footprints, the wind might intensify, requiring sturdy waterproof gear. The afternoon walk along the sands of Praia Grande offers a raw encounter with nature's power. Your journey ends at Praia das Maçãs under a moody sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia da Adraga",
+                "hu": "Praia da Adraga",
+                "ro": "Praia da Adraga",
+                "en": "Praia da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die tosende Brandung zwischen den Felsen; tragen Sie rutschfeste Schuhe, da die Klippenpfade bei Nässe extrem glatt werden können.",
+                "hu": "Csodálja meg a sziklák között tajtékzó hullámokat; viseljen csúszásmentes bakancsot, mert a parti ösvények esőben rendkívül síkossá válnak.",
+                "ro": "Admirați valurile care se sparg de stânci; purtați încălțăminte antiderapantă, deoarece potecile de pe faleză devin extrem de alunecoase pe ploaie.",
+                "en": "Admire the crashing surf between the rocks; wear non-slip boots as the cliffside paths can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "hu": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "ro": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "en": "Jazida de icnofósseis da Praia Grande do Rodizio"
+              },
+              "tip_5lang": {
+                "de": "Diese Millionen Jahre alten Fußabdrücke wirken im Regen noch plastischer; nutzen Sie eine wasserfeste Handyhülle für Fotos der glänzenden Felswand.",
+                "hu": "A több millió éves lábnyomok az esőtől még kontrasztosabbnak tűnnek; használjon vízálló telefontokot a csillogó sziklafal fotózásához.",
+                "ro": "Aceste urme vechi de milioane de ani par și mai clare în ploaie; folosiți o husă impermeabilă pentru a fotografia peretele de stâncă lucios.",
+                "en": "These million-year-old footprints look even more distinct in the rain; use a waterproof phone case for photos of the glistening rock wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande do Rodízio",
+                "hu": "Praia Grande do Rodízio",
+                "ro": "Praia Grande do Rodízio",
+                "en": "Praia Grande do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Der weite Strand bietet kaum Schutz, genießen Sie also die Weite des Meeres; ein windfester Regenschirm ist hier wegen der starken Böen kaum nutzbar.",
+                "hu": "A széles strand kevés menedéket nyújt, élvezze az óceán végtelenségét; a viharos széllökések miatt az esernyő helyett inkább kapucnit használjon.",
+                "ro": "Plaja largă oferă puțin adăpost, așa că bucurați-vă de imensitatea mării; o umbrelă este inutilă aici din cauza rafalelor puternice de vânt.",
+                "en": "The wide beach offers little shelter, so enjoy the vastness of the sea; a windproof jacket is better than an umbrella due to strong coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Pequena do Rodízio",
+                "hu": "Praia Pequena do Rodízio",
+                "ro": "Praia Pequena do Rodízio",
+                "en": "Praia Pequena do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "In dieser kleinen Bucht peitscht die Gischt oft hoch hinauf; halten Sie sich vom direkten Ufersaum fern, um nicht von Wellen überrascht zu werden.",
+                "hu": "Ebben a kis öbölben a permet gyakran magasra felcsap; maradjon távol a közvetlen vízparttól, hogy elkerülje a hirtelen érkező nagyobb hullámokat.",
+                "ro": "În această mică golfuleț, stropii de apă sar adesea sus; stați departe de marginea apei pentru a nu fi surprins de valurile neașteptate.",
+                "en": "In this small cove, the spray often whips up high; stay away from the immediate water's edge to avoid being surprised by rogue waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Sítio Arqueológico do Alto da Vigia",
+                "hu": "Sítio Arqueológico do Alto da Vigia",
+                "ro": "Sítio Arqueológico do Alto da Vigia",
+                "en": "Sítio Arqueológico do Alto da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die römischen Ruinen über dem Meer; achten Sie auf den schlammigen Untergrund und bleiben Sie für besseren Halt auf den Steinflächen.",
+                "hu": "Fedezze fel a római kori romokat az óceán felett; ügyeljen a sáros talajra, és a jobb tapadás érdekében próbáljon a köves felületeken maradni.",
+                "ro": "Explorați ruinele romane de deasupra mării; atenție la solul noroios și rămâneți pe suprafețele de piatră pentru o aderență mai bună.",
+                "en": "Explore the Roman ruins overlooking the sea; watch out for muddy ground and stay on stone surfaces for better footing during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Maçãs",
+                "hu": "Praia das Maçãs",
+                "ro": "Praia das Maçãs",
+                "en": "Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die 'Äpfel' (Flussmündung) in die aufgewühlte See fließen; wärmen Sie sich danach in einem der ufernahen Cafés bei einem Tee auf.",
+                "hu": "Nézze meg, ahogy a folyó a felkavart tengerbe torkollik; a séta végén keressen egy fedett kávézót a parton, ahol megszárítkozhat és ihat egy teát.",
+                "ro": "Priviți cum râul se varsă în marea agitată; la finalul plimbării, încălziți-vă cu un ceai fierbinte într-una dintre cafenelele de pe faleză.",
+                "en": "Watch the river mouth meet the churning sea; at the end of your walk, dry off and warm up with a hot tea in one of the local seaside cafes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne wirft lange Schatten auf die Klippen von Adraga, während die Luft klar und kühl ist. Mittags glitzern die Fossilienfelsen im sanften Licht. Der Nachmittag am Praia Grande lädt zu langen, einsamen Strandspaziergängen ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen Sie Praia das Maçãs pünktlich zum goldenen Abendlicht und der einsetzenden Kälte.",
+            "hu": "A téli nap hosszú árnyékokat vet az Adraga-sziklákra, a levegő friss és tiszta. Délben a kövületek sziklafala csillog a lágy fényben. A délután a Praia Grande magányos, meditatív tengerparti sétáiról szól. Mivel a nap korán, 17:00 körül nyugszik, a Praia das Maçãs-hoz már az alkonyati fényekben érkezünk meg, amikor a levegő gyorsan lehűl.",
+            "ro": "Soarele de iarnă aruncă umbre lungi pe faleza din Adraga, în timp ce aerul este proaspăt și rece. La prânz, faleza cu fosile strălucește în lumina blândă. După-amiaza la Praia Grande este perfectă pentru plimbări lungi și solitare pe plajă. Deoarece soarele apune devreme, în jur de ora 17:00, veți ajunge la Praia das Maçãs exact pentru lumina aurie a serii.",
+            "en": "The winter sun casts long shadows over the Adraga cliffs, where the air is crisp and clear. By noon, the fossil-bearing rock wall glistens in the soft light. The afternoon at Praia Grande is perfect for long, solitary beach walks. As the sun sets early around 17:00, you will reach Praia das Maçãs just in time for the golden twilight and the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia da Adraga",
+                "hu": "Praia da Adraga",
+                "ro": "Praia da Adraga",
+                "en": "Praia da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf den Horizont; ziehen Sie sich nach dem Zwiebelprinzip an, da der Wind im Winter am Strand sehr schneidend sein kann.",
+                "hu": "Élvezze a tiszta kilátást a láthatárra; öltözködjön rétegesen, mert a téli szél a nyitott parton sokkal metszőbbnek érződik, mint a városban.",
+                "ro": "Bucurați-vă de vederea clară spre orizont; îmbrăcați-vă în straturi, deoarece vântul de iarnă pe plajă poate fi foarte tăios.",
+                "en": "Enjoy the clear views of the horizon; dress in layers, as the winter wind on the open beach can be much sharper than in the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "hu": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "ro": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "en": "Jazida de icnofósseis da Praia Grande do Rodizio"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne hebt die Konturen der Dinospuren hervorragend hervor; besuchen Sie den Ort vor 15:30 Uhr für das beste Fotolicht.",
+                "hu": "Az alacsonyan járó téli nap remekül kiemeli a dínó lábnyomok körvonalait; a legjobb fotókért érdemes 15:30 előtt ideérni.",
+                "ro": "Soarele de iarnă de joasă altitudine evidențiază excelent conturul urmelor de dinozauri; vizitați locul înainte de 15:30 pentru cea mai bună lumină.",
+                "en": "The low winter sun highlights the contours of the dinosaur tracks perfectly; visit before 15:30 for the best photographic lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande do Rodízio",
+                "hu": "Praia Grande do Rodízio",
+                "ro": "Praia Grande do Rodízio",
+                "en": "Praia Grande do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Ruhe der Nebensaison bei einem Marsch durch den Sand; ein heißes Getränk in der Thermoskanne macht die Pause am Meer gemütlicher.",
+                "hu": "Élje át a főszezonon kívüli csendet a homokban gázolva; egy termoszban vitt forró ital sokat javít a komfortérzeten a parti pihenő során.",
+                "ro": "Experimentați liniștea extrasezonului printr-un marș prin nisip; o băutură caldă într-un termos va face pauza la malul mării mult mai plăcută.",
+                "en": "Experience the peace of the off-season with a walk through the sand; a hot drink in a thermos makes the seaside break much more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Pequena do Rodízio",
+                "hu": "Praia Pequena do Rodízio",
+                "ro": "Praia Pequena do Rodízio",
+                "en": "Praia Pequena do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen bieten hier etwas Windschutz vor der winterlichen Brise; nutzen Sie den Moment für eine kurze Meditation am menschenleeren Ufer.",
+                "hu": "A sziklák itt némi szélárnyékot nyújtanak a téli fuvallatok elől; használja ki a pillanatot egy rövid meditációra az üres parton.",
+                "ro": "Stâncile oferă aici puțin adăpost împotriva brizelor de iarnă; profitați de moment pentru o scurtă meditație pe malul pustiu.",
+                "en": "The cliffs provide some shelter from the winter breeze; take a moment for a brief meditation on the deserted shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Sítio Arqueológico do Alto da Vigia",
+                "hu": "Sítio Arqueológico do Alto da Vigia",
+                "ro": "Sítio Arqueológico do Alto da Vigia",
+                "en": "Sítio Arqueológico do Alto da Vigia"
+              },
+              "tip_5lang": {
+                "de": "In der kühlen Winterluft wirken die alten Steine noch geschichtsträchtiger; bringen Sie Handschuhe mit, da es auf dem Plateau sehr zugig ist.",
+                "hu": "A hűvös téli levegőben az ősi kövek még történelmibbnek hatnak; hozzon kesztyűt, mert a platón a szél gyorsan lehűtheti a kezét.",
+                "ro": "În aerul rece de iarnă, pietrele antice par și mai pline de istorie; aduceți mănuși, deoarece pe platou vântul bate destul de tare.",
+                "en": "In the cool winter air, the ancient stones feel even more historic; bring gloves, as it can get very draughty on the open plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Maçãs",
+                "hu": "Praia das Maçãs",
+                "ro": "Praia das Maçãs",
+                "en": "Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem Atlantik ist im Winter besonders farbenfroh; planen Sie, bis spätestens 17:15 Uhr in einem beheizten Innenraum zu sein.",
+                "hu": "A naplemente az Atlanti-óceán felett télen különösen színpompás; tervezze úgy, hogy 17:15-re már egy fűtött helyiségben legyen a hirtelen lehűlés miatt.",
+                "ro": "Apusul peste Atlantic este deosebit de colorat iarna; plănuiți să fiți într-un spațiu interior încălzit până cel târziu la ora 17:15.",
+                "en": "The sunset over the Atlantic is particularly colorful in winter; plan to be in a heated indoor space by 17:15 as temperatures drop fast."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Délelőtt: Kezdje a tekerést a lenyűgöző Fojo da Adraga víznyelőnél, majd ereszkedjen le a gyönyörű Praia da Adraga strandra. A friss parti szél élénkítően hat, ahogy a történelmi dinoszaurusz lábnyomok felé pedáloz.\n\nDél: Guruljon a part mentén a Praia Grande do Rodízio felé. Támassza le kerékpárját, és élvezze a nyüzsgő szörfös hangulatot. Ez a széles strand tökéletes hátteret biztosít egy pihentető ebédszünethez és az energia feltöltéséhez.\n\nDélután: Tekerjen tovább északra, és fedezze fel a római örökséget az Alto da Vigia régészeti lelőhelyen. A magaslati pontról lenyűgöző kilátás nyílik a partra, miközben a bájos Praia das Maçãs felé közeledik.\n\nEste: Fejezze be kerékpáros útvonalát a Praia das Maçãs közelében található őskori emlékműnél. Az alkonyat közeledtével a természet ölelte ősi kövek mélyen békés és elmélkedő befejezést nyújtanak a napnak.",
         "ro": "Dimineața: Începeți traseul la Fojo da Adraga, o dolină impresionantă, înainte de a coborî spre frumoasa Praia da Adraga. Briza de coastă este revigorantă în timp ce pedalați spre urmele istorice de dinozauri.\n\nAmiază: Mergeți de-a lungul coastei până la Praia Grande do Rodízio. Parcați bicicleta și bucurați-vă de atmosfera plină de viață a surferilor. Această plajă lată oferă cadrul perfect pentru o pauză relaxantă de prânz.\n\nDupă-amiaza: Pedalați mai la nord pentru a descoperi moștenirea romană de la Sítio Arqueológico do Alto da Vigia. Punctul de observație înalt oferă vederi ample asupra coastei în timp ce vă îndreptați spre Praia das Maçãs.\n\nSeara: Finalizați traseul de ciclism la monumentul preistoric ascuns lângă Praia das Maçãs. La lăsarea întunericului, pietrele antice înconjurate de natură oferă un final de zi profund pașnic și contemplativ.",
         "en": "Morning: Kickstart your ride at Fojo da Adraga, a stunning natural sinkhole, before cycling down to the beautiful Praia da Adraga. The crisp coastal breeze is invigorating as you pedal towards the historic dinosaur footprints.\n\nMidday: Cruise along the coast to Praia Grande do Rodízio. Park your bike and enjoy the lively surfing atmosphere. This wide beach offers the perfect backdrop for a relaxing lunch break to recharge your energy.\n\nAfternoon: Pedal further north to discover the Roman heritage at Sítio Arqueológico do Alto da Vigia. The elevated vantage point offers sweeping coastal views as you seamlessly ride towards the charming Praia das Maçãs.\n\nEvening: Complete your cycling route at the prehistoric monument hidden near Praia das Maçãs. As twilight approaches, the ancient stones surrounded by nature provide a profoundly peaceful and contemplative end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am nebligen Fojo, wo die feuchte Luft die Küstenlandschaft weichzeichnet. Bei der Adraga fordern nasse Wege volle Konzentration. Mittags radeln Sie vorsichtig entlang der Fossilienwand, während der Regen auf den Helm prasselt. Der Nachmittag führt über windige Küstenstraßen, bevor die Tour an den historischen Monumenten bei Praia das Maçãs im Regen endet.",
+            "hu": "A bringatúra a ködös Fojónál indul, ahol a párás levegő lágyítja a part menti tájat. Az Adragánál a nedves utak teljes koncentrációt igényelnek. Délben óvatosan tekerjen a fosszíliák mentén, miközben az eső a sisakján kopog. A délután szeles parti utakon vezet, majd a túra a Praia das Maçãs melletti történelmi emlékeknél zárul a szakadó esőben.",
+            "ro": "Turul cu bicicleta începe la Fojo cel cețos, unde aerul umed îndulcește peisajul de coastă. La Adraga, drumurile ude necesită concentrare maximă. La prânz, pedalați cu atenție de-a lungul peretelui cu fosile, în timp ce ploaia bate în cască. După-amiaza vă poartă pe drumuri de coastă vântoase, înainte ca turul să se încheie la monumentele de la Praia das Maçãs.",
+            "en": "The bike tour starts at the misty Fojo, where the damp air softens the coastal landscape. Near Adraga, wet paths require full concentration. By noon, cycle carefully along the fossil wall as the rain patters on your helmet. The afternoon leads across windy coastal roads before the tour ends at the historic monuments near Praia das Maçãs in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fojo da Adraga",
+                "hu": "Fojo da Adraga",
+                "ro": "Fojo da Adraga",
+                "en": "Fojo da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Die natürliche Felsöffnung wirkt im Nebel düster und imposant; fahren Sie langsam, da die Zufahrt bei Regen viele versteckte Schlaglöcher haben kann.",
+                "hu": "A természetes sziklakapu a ködben komoran és impozánsan fest; tekerjen lassan, mert az eső elrejtheti az útburkolati hibákat a behajtónál.",
+                "ro": "Deschiderea naturală în stâncă pare sumbră și impunătoare în ceață; mergeți încet, deoarece accesul poate avea gropi ascunse de ploaie.",
+                "en": "The natural rock blowhole looks gloomy and imposing in the mist; ride slowly as the access road may have hidden potholes filled with rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Adraga",
+                "hu": "Praia da Adraga",
+                "ro": "Praia da Adraga",
+                "en": "Praia da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem windgeschützten Ort; prüfen Sie Ihre Bremsen vor der Weiterfahrt, da die salzige Feuchtigkeit die Bremskraft mindern kann.",
+                "hu": "Parkolja le a bringát szélvédett helyen; indulás előtt ellenőrizze a fékeket, mert a sós pára és víz csökkentheti a fékhatást.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt; verificați frânele înainte de a pleca, deoarece umezeala sărată poate reduce puterea de frânare.",
+                "en": "Park your bike in a sheltered spot; check your brakes before moving on, as salty moisture and rain can reduce braking efficiency."
+              }
+            },
+            {
+              "name": {
+                "de": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "hu": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "ro": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "en": "Jazida de icnofósseis da Praia Grande do Rodizio"
+              },
+              "tip_5lang": {
+                "de": "Die geneigte Felswand mit den Spuren ist bei Regen ein tolles Fotomotiv; tragen Sie eine Brille mit klaren Gläsern gegen den Schlagregen beim Fahren.",
+                "hu": "A ferde sziklafal a lábnyomokkal esőben is kiváló fotótéma; viseljen víztiszta lencséjű szemüveget a menet közbeni verőfényes eső ellen.",
+                "ro": "Peretele înclinat cu urme este un subiect foto excelent în ploaie; purtați ochelari cu lentile clare împotriva ploii batante în timp ce pedalați.",
+                "en": "The tilted rock wall with tracks is a great photo subject in the rain; wear clear-lens glasses to protect your eyes from driving rain while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande do Rodízio",
+                "hu": "Praia Grande do Rodízio",
+                "ro": "Praia Grande do Rodízio",
+                "en": "Praia Grande do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für einen Blick auf die Brandung; achten Sie auf den sandigen Asphalt, der bei Nässe sehr rutschig wird.",
+                "hu": "Használja ki a rövid esőszüneteket a tajtékzó tenger látványáért; ügyeljen a homokos aszfaltra, ami vizesen rendkívül csúszóssá válik.",
+                "ro": "Profitați de scurtele pauze de ploaie pentru a admira valurile; atenție la asfaltul nisipos, care devine foarte alunecos când este ud.",
+                "en": "Use brief pauses in the rain to admire the surf; be careful on sandy asphalt, which becomes extremely slippery when mixed with rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Sítio Arqueológico do Alto da Vigia",
+                "hu": "Sítio Arqueológico do Alto da Vigia",
+                "ro": "Sítio Arqueológico do Alto da Vigia",
+                "en": "Sítio Arqueológico do Alto da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen thronen exponiert über der See; stellen Sie sicher, dass Ihre Regenbekleidung auch bei starkem Seitenwind dicht hält.",
+                "hu": "A romok teljesen kitettek a tengeri szélnek; győződjön meg róla, hogy az esőruhája az erős oldalszélben is megfelelően véd.",
+                "ro": "Ruinele sunt complet expuse vântului marin; asigurați-vă că pelerina de ploaie rezistă bine și la vântul lateral puternic.",
+                "en": "The ruins are fully exposed to the sea wind; make sure your rain gear is tightly fastened to withstand strong side gusts on the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Maçãs",
+                "hu": "Praia das Maçãs",
+                "ro": "Praia das Maçãs",
+                "en": "Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Ort entlang der Küstenstraße; suchen Sie nach dem Abstellen des Rades sofort ein trockenes Plätzchen zum Umziehen auf.",
+                "hu": "A part menti úton érje el a települést; a bringa lezárása után azonnal keressen egy száraz helyet, ahol átöltözhet vagy megszárítkozhat.",
+                "ro": "Ajungeți în localitate pe drumul de coastă; imediat după ce parcați bicicleta, căutați un loc uscat pentru a vă schimba hainele ude.",
+                "en": "Reach the town via the coastal road; immediately after locking your bike, find a dry indoor spot to change or dry your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento pré-histórico da Praia das Maçãs",
+                "hu": "Monumento pré-histórico da Praia das Maçãs",
+                "ro": "Monumento pré-histórico da Praia das Maçãs",
+                "en": "Monumento pré-histórico da Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Die Megalithanlage wirkt bei Regen besonders archaisch; bleiben Sie auf befestigten Wegen, um das Rad nicht durch tiefen Schlamm schieben zu müssen.",
+                "hu": "A megalitikus sírbolt esőben különösen ősi hatást kelt; maradjon a köves úton, hogy ne kelljen a bringát mély sárban tolnia.",
+                "ro": "Monumentul megalitic pare deosebit de arhaic pe ploaie; rămâneți pe căile bătătorite pentru a nu împinge bicicleta prin noroi adânc.",
+                "en": "The megalithic site feels particularly archaic in the rain; stay on the firm paths to avoid pushing your bike through deep mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Fojo bietet atemberaubende Ausblicke bei kristallklarer Luft. Mittags rollen Sie unter der milden portugiesischen Sonne zu den Dinospuren. Die Nachmittagsfahrt entlang des Praia Grande ist dank der kühlen Brise belebend. Da es früh dunkelt, erreichen Sie die Monumente von Praia das Maçãs kurz vor Sonnenuntergang, wenn das Licht die Steine golden färbt.",
+            "hu": "A friss téli reggel a Fojónál lélegzetelállító kilátást nyújt a kristálytiszta levegőben. Délben a lágy portugál napsütésben gurulhat a dínó lábnyomokhoz. A délutáni tekerés a Praia Grande mentén a hűvös szélnek köszönhetően igazán élénkítő. Mivel korán sötétedik, a Praia das Maçãs emlékműveit épp naplemente előtt éri el, amikor az arany fény megfesti a köveket.",
+            "ro": "O dimineață răcoroasă de iarnă la Fojo oferă vederi spectaculoase în aerul de cristal. La prânz, rulați sub soarele blând al Portugaliei spre urmele de dinozauri. Călătoria de după-amiază de-a lungul Praia Grande este revigorantă datorită brizei reci. Deoarece se întunecă devreme, ajungeți la monumentele de la Praia das Maçãs chiar înainte de apus.",
+            "en": "A crisp winter morning at Fojo offers breathtaking views through crystal-clear air. By noon, roll under the mild Portuguese sun towards the dinosaur tracks. The afternoon ride along Praia Grande is invigorating thanks to the cool breeze. As it gets dark early, you reach the monuments of Praia das Maçãs just before sunset, when the light turns the stones golden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fojo da Adraga",
+                "hu": "Fojo da Adraga",
+                "ro": "Fojo da Adraga",
+                "en": "Fojo da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke in den Abgrund; tragen Sie einen Schlauchschal, um Ihren Hals vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A tiszta téli levegőben messzire ellátni a sziklahasadék mélyére; viseljen csősálat, hogy megvédje a nyakát a hideg menetszéltől.",
+                "ro": "Aerul curat de iarnă permite vederi clare în adâncul stâncii; purtați un fular tip tub pentru a vă proteja gâtul de curentul rece în timpul mersului.",
+                "en": "The clear winter air allows for far-reaching views into the abyss; wear a neck gaiter to protect your throat from the cold wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Adraga",
+                "hu": "Praia da Adraga",
+                "ro": "Praia da Adraga",
+                "en": "Praia da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am menschenleeren Strand ist im Winter sehr erholsam; halten Sie Ihre Muskeln durch leichte Dehnübungen warm.",
+                "hu": "A néptelen tengerparton tett rövid megálló télen nagyon pihentető; tartsa melegen az izmait néhány könnyű nyújtógyakorlattal a pihenő alatt.",
+                "ro": "O scurtă oprire pe plaja pustie este foarte relaxantă iarna; păstrați-vă mușchii calzi prin câteva exerciții ușoare de stretching.",
+                "en": "A brief stop on the deserted beach is very relaxing in winter; keep your muscles warm with some light stretching during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "hu": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "ro": "Jazida de icnofósseis da Praia Grande do Rodizio",
+                "en": "Jazida de icnofósseis da Praia Grande do Rodizio"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für perfekte Schattenwürfe in den Fußabdrücken; denken Sie an gefütterte Handschuhe für die kühle Abfahrt danach.",
+                "hu": "Az alacsony napállás tökéletes árnyékokat vet a lábnyomokba; ne feledkezzen meg a bélelt kesztyűről a hűvös lejtőkhöz.",
+                "ro": "Soarele jos creează umbre perfecte în urmele de dinozauri; nu uitați mănușile căptușite pentru coborârea răcoroasă care urmează.",
+                "en": "The low sun creates perfect shadows in the prehistoric footprints; remember to wear lined gloves for the cool descent afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande do Rodízio",
+                "hu": "Praia Grande do Rodízio",
+                "ro": "Praia Grande do Rodízio",
+                "en": "Praia Grande do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entspannt über die leeren Parkflächen am Meer; im Winter ist der Reifendruck oft niedriger, prüfen Sie ihn vor der Tour.",
+                "hu": "Tekerjen kényelmesen az üres parti parkolókban; télen a keréknyomás gyakran lecsökken, ellenőrizze azt még a túra megkezdése előtt.",
+                "ro": "Pedalați relaxat prin parcările goale de lângă marea; iarna presiunea în pneuri scade adesea, verificați-o înainte de a pleca în tur.",
+                "en": "Cycle leisurely across the empty seaside parking areas; check your tire pressure before starting, as it often drops in colder temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Sítio Arqueológico do Alto da Vigia",
+                "hu": "Sítio Arqueológico do Alto da Vigia",
+                "ro": "Sítio Arqueológico do Alto da Vigia",
+                "en": "Sítio Arqueológico do Alto da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick von den Ruinen ist im klaren Winterlicht am schärfsten; ein Stirnband unter dem Helm schützt Ihre Ohren vor dem kalten Wind.",
+                "hu": "A romoktól nyíló kilátás a tiszta téli fényben a legélesebb; egy vékony fejpánt a sisak alatt megvédi a fülét a hideg széltől.",
+                "ro": "Vederea de la ruine este cea mai clară în lumina iernii; o bentiță purtată sub cască vă va proteja urechile de vântul rece.",
+                "en": "The view from the ruins is sharpest in the clear winter light; a thin headband under your helmet will protect your ears from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Maçãs",
+                "hu": "Praia das Maçãs",
+                "ro": "Praia das Maçãs",
+                "en": "Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das bunte Treiben im Ort vor der frühen Dämmerung; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Élvezze a település hangulatát a korai szürkület előtt; győződjön meg róla, hogy a kerékpárvilágítása megfelelően működik a hazafelé úthoz.",
+                "ro": "Bucurați-vă de atmosfera localității înainte de amurgul timpuriu; asigurați-vă că luminile bicicletei funcționează corect pentru drumul de întoarcere.",
+                "en": "Enjoy the town's atmosphere before the early dusk sets in; make sure your bike lights are working properly for the journey back."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento pré-histórico da Praia das Maçãs",
+                "hu": "Monumento pré-histórico da Praia das Maçãs",
+                "ro": "Monumento pré-histórico da Praia das Maçãs",
+                "en": "Monumento pré-histórico da Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern tagsüber die letzte Wärme der Sonne; beenden Sie die Besichtigung vor 17:00 Uhr, um nicht in völliger Dunkelheit zu radeln.",
+                "hu": "A kövek napközben elraktározzák a nap utolsó melegét; fejezze be a nézelődést 17:00-ig, hogy ne kelljen teljes sötétben tekernie.",
+                "ro": "Pietrele rețin ultima căldură a soarelui în timpul zilei; încheiați vizita până la ora 17:00 pentru a nu pedala pe întuneric total.",
+                "en": "The stones retain the last warmth of the sun during the day; finish your visit by 17:00 to avoid cycling back in total darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Délelőtt: Kezdje festői autózását a helyi örökség megismerésével a Museu Renato Lobo Garcia múzeumban. Ezután navigáljon a kanyargós parti utakon, és fedezze fel a Caneiro és a Praia do Cavalo érintetlen, zord szépségét.\n\nDél: Parkoljon le a Praia da Adraga közelében, majd tegyen egy gyors kitérőt a dinoszauruszok lábnyomainak megtekintésére. Érkezzen a Praia Grande do Rodízio strandra, ahol egy nyüzsgő part várja a jól megérdemelt ebéddel.\n\nDélután: Hajtson fel a parti sziklára, az Alto da Vigia régészeti lelőhelyhez. A római romok is lenyűgözőek, de a hatalmas Atlanti-óceánra nyíló panoráma az, ami igazán megkoronázza a látványt.\n\nEste: Zárja autós utazását a családbarát Praia das Maçãs strand meglátogatásával. Végül hajtson kissé a szárazföld belsejébe, hogy az ősi történelem előtti emlékműnél merengve békésen zárja a napot.",
         "ro": "Dimineața: Începeți traseul pitoresc explorând moștenirea locală la Museu Renato Lobo Garcia. Apoi, navigați pe drumurile șerpuite de coastă pentru a descoperi frumusețea aspră și neatinsă de la Caneiro și Praia do Cavalo.\n\nAmiază: Parcați lângă Praia da Adraga pentru a admira stâncile, apoi opriți-vă pentru a vedea urmele de dinozaur. Ajungeți la Praia Grande do Rodízio, unde vă așteaptă o plajă vibrantă pentru un prânz binemeritat.\n\nDupă-amiaza: Conduceți pe faleză până la Sítio Arqueológico do Alto da Vigia. Ruinele romane de aici sunt fascinante, dar vederile panoramice asupra vastului Ocean Atlantic sunt cu adevărat atracția principală.\n\nSeara: Încheiați călătoria cu o vizită la plaja Praia das Maçãs. La final, mergeți ușor spre interior pentru a reflecta la vechiul monument preistoric, aducând un sentiment de pace atemporală călătoriei dumneavoastră.",
         "en": "Morning: Begin your scenic drive by delving into local heritage at Museu Renato Lobo Garcia. Afterwards, navigate the winding coastal roads to discover the rugged, untouched beauty of Caneiro Beach and Praia do Cavalo.\n\nMidday: Park near Praia da Adraga to admire the black cliffs, then make a quick stop to view the ancient dinosaur footprints. Arrive at Praia Grande do Rodízio, where a vibrant beachfront awaits for a well-deserved lunch.\n\nAfternoon: Drive up the coastal bluff to the Sítio Arqueológico do Alto da Vigia. The Roman ruins here are fascinating, but the panoramic views over the vast Atlantic Ocean are truly the main attraction.\n\nEvening: Conclude your road trip with a visit to the family-friendly Praia das Maçãs. Finally, drive slightly inland to reflect at the ancient prehistoric monument, bringing a sense of timeless peace to your coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Regentag im Museum Renato Lobo Garcia, einem perfekten Rückzugsort. Mittags fahren Sie entlang der Küste, wo die Gischt gegen die Fenster peitscht. Bei der Adraga können Sie das Spektakel des Meeres bequem vom Auto aus beobachten. Der Nachmittag führt Sie zu historischen Monumenten, wobei die kurzen Wege zwischen den Parkplätzen Sie vor dem Gröbsten bewahren.",
+            "hu": "Kezdje az esős napot a Renato Lobo Garcia Múzeumban, amely tökéletes menedék a zivatar elől. Délben az autó ablakát ostromló sós permet mellett haladhat a parton. Az Adragánál a tenger látványos küzdelmét kényelmesen, az autóból is élvezheti. A délutáni történelmi emlékhelyeknél a parkolók közelsége megkíméli Önt a komolyabb elázástól.",
+            "ro": "Începeți ziua ploioasă la Muzeul Renato Lobo Garcia, un refugiu perfect. La prânz, conduceți de-a lungul coastei, unde stropii de apă bat în geamuri. La Adraga, puteți observa spectacolul mării confortabil, din mașină. După-amiaza vă poartă la monumentele istorice, unde distanțele scurte de la parcare vă protejează de ploaia torențială.",
+            "en": "Start your rainy day at the Renato Lobo Garcia Museum, a perfect shelter from the storm. By noon, drive along the coast as salt spray lashes against the windows. At Adraga, you can watch the spectacle of the sea comfortably from your car. The afternoon visits to historic monuments are manageable, as the short walks from the car parks save you from getting soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Renato Lobo Garcia",
+                "hu": "Museu Renato Lobo Garcia",
+                "ro": "Museu Renato Lobo Garcia",
+                "en": "Museu Renato Lobo Garcia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für die Ausstellungen im Inneren; der Parkplatz ist direkt am Eingang, sodass Sie kaum nass werden.",
+                "hu": "Használja ki a délelőttöt a belső kiállítások megtekintésére; a parkoló közvetlenül a bejáratnál van, így szinte száraz lábbal bejuthat.",
+                "ro": "Profitați de dimineață pentru a vedea expozițiile din interior; parcarea este chiar la intrare, deci aproape că nu vă veți uda.",
+                "en": "Take advantage of the morning to explore the indoor exhibits; the parking is right at the entrance, so you'll stay mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Caneiro Beach",
+                "hu": "Caneiro Beach",
+                "ro": "Caneiro Beach",
+                "en": "Caneiro Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die raue See sicher vom erhöhten Parkplatz aus; halten Sie ein Mikrofasertuch bereit, um beschlagene Scheiben schnell zu reinigen.",
+                "hu": "Figyelje a dühöngő tengert biztonságban a magaslati parkolóból; tartson kéznél mikroszálas kendőt a bepárásodott ablakok gyors tisztításához.",
+                "ro": "Observați marea agitată în siguranță din parcarea suspendată; aveți la îndemână o lavetă din microfibră pentru a curăța geamurile aburite.",
+                "en": "Watch the rough sea safely from the elevated parking area; keep a microfiber cloth handy to quickly clear fogged-up car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Cavalo",
+                "hu": "Praia do Cavalo",
+                "ro": "Praia do Cavalo",
+                "en": "Praia do Cavalo"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang zum Strand kann rutschig sein; genießen Sie das Panorama lieber aus dem Schutz des Fahrzeugs bei einem Snack.",
+                "hu": "A strandhoz vezető lejáró csúszós lehet; élvezze a panorámát inkább a jármű védelméből egy útközbeni tízórai mellett.",
+                "ro": "Accesul la plajă poate fi alunecos; bucurați-vă de panoramă mai degrabă din protecția vehiculului, în timp ce luați o gustare.",
+                "en": "The access to the beach can be slippery; enjoy the panorama from the protection of your vehicle while having a quick snack."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Adraga",
+                "hu": "Praia da Adraga",
+                "ro": "Praia da Adraga",
+                "en": "Praia da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum vordersten Parkplatz für den besten Blick auf die Wellen; ein großer Regenschirm ist für den kurzen Gang zum Strandcafé ratsam.",
+                "hu": "Hajtson az első parkolóhelyekig a hullámok legjobb látványáért; egy nagy esernyő ajánlott a parti kávézóig tartó rövid sétához.",
+                "ro": "Conduceți până la primele locuri de parcare pentru cea mai bună vedere asupra valurilor; o umbrelă mare este utilă pentru drumul scurt până la cafenea.",
+                "en": "Drive to the front parking spots for the best view of the waves; a large umbrella is recommended for the short walk to the beach cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande do Rodízio",
+                "hu": "Praia Grande do Rodízio",
+                "ro": "Praia Grande do Rodízio",
+                "en": "Praia Grande do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am nördlichen Ende, um die Aussicht auf die Klippen im Regen zu genießen; prüfen Sie die Scheibenwischer vor der Weiterfahrt.",
+                "hu": "Parkoljon az északi végén, hogy élvezhesse a sziklák látványát az esőben; indulás előtt ellenőrizze az ablaktörlők állapotát.",
+                "ro": "Parcați la capătul nordic pentru a vă bucura de vederea stâncilor în ploaie; verificați ștergătoarele înainte de a pleca mai departe.",
+                "en": "Park at the northern end to enjoy the view of the cliffs in the rain; check your windshield wipers before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Sítio Arqueológico do Alto da Vigia",
+                "hu": "Sítio Arqueológico do Alto da Vigia",
+                "ro": "Sítio Arqueológico do Alto da Vigia",
+                "en": "Sítio Arqueológico do Alto da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen schlammig sein; bleiben Sie auf den befestigten Parkflächen, um nicht mit dem Auto stecken zu bleiben.",
+                "hu": "A felhajtó heves esőzéskor sáros lehet; maradjon a kövezett parkolóhelyeken, hogy elkerülje az autó elakadását a sárban.",
+                "ro": "Accesul poate fi noroios în caz de ploaie torențială; rămâneți pe locurile de parcare pavate pentru a nu rămâne blocat cu mașina.",
+                "en": "The access road can be muddy during heavy rain; stay on the paved parking surfaces to avoid getting your car stuck in the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Maçãs",
+                "hu": "Praia das Maçãs",
+                "ro": "Praia das Maçãs",
+                "en": "Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "In der Stadt gibt es viele überdachte Parkmöglichkeiten; nutzen Sie die Zeit für einen Besuch in einem der gemütlichen Restaurants.",
+                "hu": "A településen számos fedett vagy védett parkolási lehetőség van; használja ki az időt egy látogatásra a hangulatos éttermek egyikében.",
+                "ro": "În localitate există multe opțiuni de parcare protejate; profitați de timp pentru o vizită la unul dintre restaurantele primitoare.",
+                "en": "There are plenty of sheltered parking options in town; use the time for a visit to one of the cozy local restaurants while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento pré-histórico da Praia das Maçãs",
+                "hu": "Monumento pré-histórico da Praia das Maçãs",
+                "ro": "Monumento pré-histórico da Praia das Maçãs",
+                "en": "Monumento pré-histórico da Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Anlage zügig zwischen zwei Regenschauern; achten Sie auf tiefere Pfützen auf dem Weg vom Parkplatz zum Monument.",
+                "hu": "Tekintse meg a helyszínt gyorsan két zápor között; ügyeljen a mélyebb tócsákra a parkoló és az emlékmű közötti rövid úton.",
+                "ro": "Vizitați situl rapid între două reprize de ploaie; atenție la bălțile adânci de pe drumul de la parcare până la monument.",
+                "en": "Visit the site quickly between rain showers; watch out for deep puddles on the short path from the car park to the monument."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen beginnt im Museum, wo das Licht sanft durch die Fenster fällt. Mittags genießen Sie die Panoramafahrt entlang der Küste ohne den Sommertrubel. Die Stopps an den Stränden wie Adraga sind im Winter besonders friedlich. Da die Sonne gegen 17:00 Uhr untergeht, erleben Sie die prähistorischen Monumente im dramatischen Licht der frühen Dämmerung.",
+            "hu": "Ragyogó téli reggel indul a múzeumban, ahol a fény lágyan árad be az ablakokon. Délben élvezze a panorámaautózást a parton, a nyári tömeg nélkül. Az olyan strandoknál tett megállók, mint az Adraga, télen különösen békések. Mivel a nap 17:00 körül nyugszik, a történelmi emlékhelyeket már a korai szürkület drámai fényeiben láthatja.",
+            "ro": "O dimineață strălucitoare de iarnă începe la muzeu, unde lumina pătrunde blând prin ferestre. La prânz, bucurați-vă de drumul panoramic pe coastă, fără aglomerația de vară. Opririle la plaje precum Adraga sunt deosebit de liniștite iarna. Deoarece soarele apune în jur de ora 17:00, veți vedea monumentele în lumina dramatică a amurgului.",
+            "en": "A bright winter morning begins at the museum, with soft light streaming through the windows. By noon, enjoy a panoramic drive along the coast without the summer crowds. Stops at beaches like Adraga are exceptionally peaceful in winter. Since the sun sets around 17:00, you will experience the prehistoric monuments in the dramatic light of early twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Renato Lobo Garcia",
+                "hu": "Museu Renato Lobo Garcia",
+                "ro": "Museu Renato Lobo Garcia",
+                "en": "Museu Renato Lobo Garcia"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Museum sorgt für einen angenehmen Start in den Tag; prüfen Sie im Winter immer die aktuellen Öffnungszeiten vorab online.",
+                "hu": "A múzeum fűtése kellemes kezdést biztosít a napnak; télen mindig ellenőrizze előre az aktuális nyitvatartást az interneten.",
+                "ro": "Încălzirea din muzeu asigură un început de zi plăcut; iarna, verificați întotdeauna programul actual de funcționare online în prealabil.",
+                "en": "The museum's heating ensures a pleasant start to your day; in winter, always check the current opening hours online before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Caneiro Beach",
+                "hu": "Caneiro Beach",
+                "ro": "Caneiro Beach",
+                "en": "Caneiro Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zum Horizont; ein Fernglas im Auto hilft, die winterliche Brandung noch besser zu beobachten.",
+                "hu": "Élvezze a tiszta kilátást egészen a láthatárig; egy távcső az autóban segít még jobban megfigyelni a téli hullámverést.",
+                "ro": "Bucurați-vă de vederea clară până la orizont; un binoclu în mașină vă va ajuta să observați și mai bine valurile de iarnă.",
+                "en": "Enjoy the clear views all the way to the horizon; keeping binoculars in the car helps you observe the winter surf even better."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Cavalo",
+                "hu": "Praia do Cavalo",
+                "ro": "Praia do Cavalo",
+                "en": "Praia do Cavalo"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; lassen Sie die Fenster kurz einen Spalt offen, um die frische, salzige Meeresluft einzuatmen.",
+                "hu": "A strand télen szinte teljesen néptelen; húzza le kicsit az ablakot, hogy belélegezhesse a friss, sós tengeri levegőt.",
+                "ro": "Plaja este aproape pustie iarna; lăsați geamurile puțin deschise pentru a respira aerul proaspăt și sărat al mării.",
+                "en": "The beach is almost deserted in winter; crack the windows open for a moment to breathe in the fresh, salty sea air from your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Adraga",
+                "hu": "Praia da Adraga",
+                "ro": "Praia da Adraga",
+                "en": "Praia da Adraga"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet fantastisches Licht für Fotos der Felsnadeln; nehmen Sie eine Decke für das Picknick im Auto mit.",
+                "hu": "Az alacsony napállás fantasztikus fényeket kínál a sziklatűk fotózásához; vigyen magával takarót egy kényelmes autós piknikhez.",
+                "ro": "Soarele jos oferă o lumină fantastică pentru fotografierea stâncilor; luați o pătură pentru un picnic confortabil în mașină.",
+                "en": "The low sun provides fantastic light for photographing the rock stacks; bring a warm blanket for a cozy picnic inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande do Rodízio",
+                "hu": "Praia Grande do Rodízio",
+                "ro": "Praia Grande do Rodízio",
+                "en": "Praia Grande do Rodízio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter den Dünen; nutzen Sie den leeren Strand für einen kurzen, kräftigen Spaziergang zur Durchblutung.",
+                "hu": "Parkoljon szélvédett helyen a dűnék mögött; használja ki az üres partot egy rövid, tempós sétára a vérkeringés frissítéséhez.",
+                "ro": "Parcați într-un loc ferit de vânt în spatele dunelor; profitați de plaja goală pentru o plimbare scurtă și vioaie.",
+                "en": "Park in a sheltered spot behind the dunes; take advantage of the empty beach for a short, brisk walk to boost your circulation."
+              }
+            },
+            {
+              "name": {
+                "de": "Sítio Arqueológico do Alto da Vigia",
+                "hu": "Sítio Arqueológico do Alto da Vigia",
+                "ro": "Sítio Arqueológico do Alto da Vigia",
+                "en": "Sítio Arqueológico do Alto da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Plateau ist es im Winter oft sehr zugig; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A platón télen gyakran nagyon erős a szél; ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
+                "ro": "Pe platou vântul bate adesea foarte tare iarna; nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "It is often very draughty on the plateau in winter; do not leave the engine idling unnecessarily while you enjoy the scenic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Maçãs",
+                "hu": "Praia das Maçãs",
+                "ro": "Praia das Maçãs",
+                "en": "Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Der Ort wirkt im Winterlicht sehr malerisch; suchen Sie sich vor Einbruch der Dunkelheit gegen 17:00 Uhr einen gemütlichen Parkplatz.",
+                "hu": "A település nagyon festői a téli fényekben; 17:00 óra, a sötétedés beállta előtt keressen egy kényelmes parkolóhelyet a központban.",
+                "ro": "Localitatea pare foarte pitorească în lumina iernii; căutați un loc de parcare convenabil în centru înainte de lăsarea întunericului, la ora 17:00.",
+                "en": "The town looks very picturesque in the winter light; find a convenient parking spot in the center before darkness falls around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento pré-histórico da Praia das Maçãs",
+                "hu": "Monumento pré-histórico da Praia das Maçãs",
+                "ro": "Monumento pré-histórico da Praia das Maçãs",
+                "en": "Monumento pré-histórico da Praia das Maçãs"
+              },
+              "tip_5lang": {
+                "de": "Die Abenddämmerung verleiht den Steinen eine mystische Aura; schalten Sie beim Verlassen des Parkplatzes frühzeitig das Abblendlicht ein.",
+                "hu": "Az alkonyat misztikus aurát kölcsönöz a köveknek; a parkolóból való kihajtáskor időben kapcsolja be a tompított fényszórókat.",
+                "ro": "Amurgul conferă pietrelor o aură mistică; porniți din timp faza scurtă atunci când ieșiți din parcare spre seară.",
+                "en": "The twilight lends a mystical aura to the ancient stones; remember to turn on your low-beam headlights early when leaving the car park."
+              }
+            }
+          ]
+        }
       }
     }
   }

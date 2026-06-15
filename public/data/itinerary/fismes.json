@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját Fismes szívében, élvezve a város ébredését a Place de l'Hôtel de Ville téren. Csodálja meg a városháza építészetét, mielőtt továbbsétálna a Sainte-Macre templomhoz. A spirituális élmények után a lenyűgöző kenyérmúzeum várja, amely a francia pékmesterséget mutatja be. Délután az irodalmi útvonal elvezeti az egykori írók nyomába a háborús emlékeken keresztül.",
         "ro": "Începeți plimbarea în inima orașului Fismes, bucurându-vă de trezirea orașului în Piața Primăriei. Admirați arhitectura, înainte de a continua spre Biserica Sainte-Macre pentru un moment de liniște. După impresiile spirituale, vă așteaptă fascinantul Muzeu al Pâinii. După-amiaza, traseul literar vă poartă pe urmele scriitorilor, oferind o perspectivă istorică unică.",
         "en": "Begin your walk in the heart of Fismes, soaking in the town's awakening atmosphere at the Place de l'Hôtel de Ville. Admire the civic architecture before proceeding to the historic Église Sainte-Macre for a moment of peace. The fascinating Bread Museum then introduces you to French baking traditions. In the afternoon, the literary trail traces the footsteps of wartime writers."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag am Rathausplatz, wo die nassen Pflastersteine den historischen Charme widerspiegeln. Mittags bietet die Kirche Sainte-Macre einen trockenen Rückzugsort voller Stille. Am Nachmittag ist das Brotmuseum der ideale Ort, um dem Regen zu entkommen und tief in die Kultur einzutauchen. Der Tag endet mit einem kurzen Spaziergang, bei dem wasserfeste Schuhe unerlässlich sind.",
+            "hu": "Kezdje a napot a városháza téren, ahol az esőtől fénylő kövek különleges hangulatot árasztanak. Délben a Sainte-Macre templom nyújt száraz menedéket és lelki feltöltődést. Délután a kenyérmúzeum fedett kiállításai tökéletesek az eső elleni védekezésre. Az út végén, az írók emlékművénél ügyeljen a csúszós szakaszokra, és tartsa készenlétben az esernyőjét a rövid séták alatt.",
+            "ro": "Începeți ziua în piața primăriei, unde reflexiile ploii pe pavaj adaugă un farmec melancolic. La prânz, biserica Sainte-Macre oferă un adăpost uscat și liniștit. După-amiaza, muzeul pâinii este refugiul ideal pentru a evita intemperiile și a descoperi tradițiile locale. Traseul se încheie cu o plimbare scurtă, unde încălțămintea impermeabilă este necesară pentru a explora monumentele.",
+            "en": "Start your day at the town hall square, where the rain-slicked stones reflect the historic charm. At noon, Sainte-Macre Church provides a dry and peaceful sanctuary. In the afternoon, the bread museum is the perfect indoor escape to dive deep into local culture. The day concludes with a short walk where waterproof shoes are essential while visiting the writers' memorial."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Hôtel de Ville",
+                "hu": "Place de l'Hôtel de Ville",
+                "ro": "Place de l'Hôtel de Ville",
+                "en": "Place de l'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter den Arkaden, um trocken zu bleiben; der nasse Boden kann auf den historischen Steinen etwas rutschig sein.",
+                "hu": "Csodálja meg az építészetet az árkádok alól, hogy száraz maradjon; a vizes aszfalt és a díszkövek néhol csúszósak lehetnek a téren.",
+                "ro": "Admirați arhitectura de sub arcade pentru a rămâne uscat; pavajul umed poate fi alunecos pe pietrele istorice din centrul orașului.",
+                "en": "Admire the architecture from under the arcades to stay dry; the wet ground can be quite slippery on the historic stones of the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville",
+                "hu": "Hôtel de Ville",
+                "ro": "Hôtel de Ville",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch im Inneren als perfekte Regenpause; bewundern Sie die Details der Fassade schnell, bevor Sie ins Trockene huschen.",
+                "hu": "Használja ki a belső látogatást egy tökéletes esőszünetnek; a homlokzat részleteit gyorsan nézze meg, mielőtt behúzódna a száraz épületbe.",
+                "ro": "Folosiți vizita în interior ca o pauză perfectă de ploaie; admirați rapid detaliile fațadei înainte de a intra la adăpostul primăriei.",
+                "en": "Use the indoor visit as a perfect rain break; admire the facade details quickly before ducking into the dry interior of the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Macre",
+                "hu": "Église Sainte-Macre",
+                "ro": "Église Sainte-Macre",
+                "en": "Église Sainte-Macre"
+              },
+              "tip_5lang": {
+                "de": "Das Trommeln des Regens auf das Kirchendach schafft eine andächtige Atmosphäre; lassen Sie Ihren Schirm im Vorraum gut abtropfen.",
+                "hu": "A tetőn dobogó eső hangja különleges áhítatot teremt; hagyja az esernyőjét az előtérben, hogy ne vigyen be vizet a padsorok közé.",
+                "ro": "Sunetul ploii pe acoperișul bisericii creează o atmosferă meditativă; lăsați umbrela la intrare pentru a păstra interiorul curat și uscat.",
+                "en": "The sound of rain drumming on the church roof creates a solemn atmosphere; leave your umbrella at the entrance to keep the pews dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenier de Saint-Honoré - Musée du Pain",
+                "hu": "Grenier de Saint-Honoré - Musée du Pain",
+                "ro": "Grenier de Saint-Honoré - Musée du Pain",
+                "en": "Grenier de Saint-Honoré - Musée du Pain"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort bei Dauerregen; verbringen Sie viel Zeit in den Ausstellungsräumen und genießen Sie die Wärme des Themas.",
+                "hu": "Ez az ideális hely tartós eső esetén; töltsön el bőven időt a kiállítótermekben, és élvezze a kenyérsütés történetének melegségét.",
+                "ro": "Acesta este locul ideal în caz de ploaie persistentă; petreceți mult timp în sălile de expoziție și bucurați-vă de istoria locală.",
+                "en": "This is the ideal spot for persistent rain; spend plenty of time in the exhibition rooms and enjoy the warmth of the baking history."
+              }
+            },
+            {
+              "name": {
+                "de": "Départ du circuit des écrivains en guerre",
+                "hu": "Départ du circuit des écrivains en guerre",
+                "ro": "Départ du circuit des écrivains en guerre",
+                "en": "Départ du circuit des écrivains en guerre"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Stiefel, da die Wege auf diesem Rundgang schlammig sein können; der Nebel verleiht der Geschichte eine mystische Note.",
+                "hu": "Viseljen vízálló bakancsot, mert az emléktúra útvonala saras lehet; a ködös időszak még drámaibbá teszi a háborús írók történetét.",
+                "ro": "Purtați cizme impermeabile, deoarece potecile pot fi noroioase; ceața adaugă o notă mistică și dramatică acestui traseu istoric.",
+                "en": "Wear waterproof boots as the paths on this tour can be muddy; the misty weather adds a poignant, mystical touch to the wartime history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathausplatz weckt die Lebensgeister, wenn der Rauhreif die Denkmäler ziert. Mittags wärmt die Stille der Kirche Sainte-Macre Herz und Seele. Am frühen Nachmittag bietet das Brotmuseum eine behagliche Zuflucht vor dem kalten Wind. Da es bereits gegen 17:00 Uhr dunkel wird, genießen Sie die winterliche Atmosphäre der Stadt in den warmen Innenräumen.",
+            "hu": "A fagyos reggel a városháza téren frissítően hat, ahogy a zúzmara díszíti az emlékműveket. Délben a Sainte-Macre templom csendje melengeti a lelket a hideg szél után. Kora délután a kenyérmúzeum kínál otthonos menedéket a téli fagy elől. Mivel 17:00 körül már sötétedik, fejezze be korán a sétát, és élvezze a város esti fényeit egy meleg tea mellett.",
+            "ro": "O dimineață geroasă în piața primăriei vă va înviora, în timp ce chiciura decorează monumentele. La prânz, liniștea bisericii Sainte-Macre încălzește sufletul după vântul rece. După-amiaza devreme, muzeul pâinii oferă un refugiu primitor împotriva gerului. Deoarece se întunecă în jur de ora 17:00, profitați de interioarele calde pentru a încheia ziua.",
+            "en": "A frosty morning at the town hall square is invigorating as hoarfrost decorates the monuments. At noon, the silence of Sainte-Macre Church warms the soul after the cold wind. In the early afternoon, the bread museum offers a cozy refuge from the winter freeze. Since it gets dark around 17:00, finish your walk early and enjoy the warm interiors of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de l'Hôtel de Ville",
+                "hu": "Place de l'Hôtel de Ville",
+                "ro": "Place de l'Hôtel de Ville",
+                "en": "Place de l'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Kopfsteinpflaster; ein schneller Rundgang reicht aus, bevor Sie sich drinnen aufwärmen.",
+                "hu": "Ügyeljen a macskaköveken lévő jeges foltokra; egy gyors körbejárás elég a téren, mielőtt egy fűtött helyre húzódna.",
+                "ro": "Aveți grijă la porțiunile înghețate de pe pavaj; o scurtă plimbare este suficientă înainte de a vă încălzi undeva în interior.",
+                "en": "Watch out for icy patches on the cobblestones; a quick tour of the square is enough before seeking warmth indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville",
+                "hu": "Hôtel de Ville",
+                "ro": "Hôtel de Ville",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte draußen; nutzen Sie den Besuch, um Ihre Hände aufzuwärmen und die Geschichte zu erkunden.",
+                "hu": "A vastag falak kívül tartják a téli fagyot; használja ki a látogatást a kezei felmelegítésére a városháza történelmi falai között.",
+                "ro": "Zidurile masive țin frigul la distanță; profitați de vizită pentru a vă încălzi mâinile în timp ce explorați istoria locală.",
+                "en": "The massive walls keep the winter cold at bay; use the visit to warm your hands while exploring the local administrative history."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Macre",
+                "hu": "Église Sainte-Macre",
+                "ro": "Église Sainte-Macre",
+                "en": "Église Sainte-Macre"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es drinnen kühl sein kann, schützt die Kirche vor dem eisigen Wind; ziehen Sie Ihre Handschuhe erst im Sitzen aus.",
+                "hu": "Bár bent is hűvös lehet, a templom megvéd a jeges széltől; a kesztyűt csak a padban ülve vegye le a teljes nyugalomhoz.",
+                "ro": "Deși poate fi răcoare în interior, biserica vă protejează de vântul înghețat; scoateți-vă mănușile doar după ce v-ați așezat.",
+                "en": "Although it can be cool inside, the church protects you from the icy wind; only take off your gloves once you are seated inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenier de Saint-Honoré - Musée du Pain",
+                "hu": "Grenier de Saint-Honoré - Musée du Pain",
+                "ro": "Grenier de Saint-Honoré - Musée du Pain",
+                "en": "Grenier de Saint-Honoré - Musée du Pain"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um der Winterkälte für längere Zeit zu entfliehen; die Ausstellungen sind gut beheizt und sehr informativ.",
+                "hu": "A tökéletes hely, hogy hosszabb időre elmeneküljön a téli hideg elől; a kiállítótermek fűtöttek és rendkívül érdekesek.",
+                "ro": "Locul perfect pentru a scăpa de frigul iernii pentru o perioadă mai lungă; expozițiile sunt bine încălzite și foarte informative.",
+                "en": "The perfect place to escape the winter cold for a longer period; the exhibitions are well-heated and very informative for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Départ du circuit des écrivains en guerre",
+                "hu": "Départ du circuit des écrivains en guerre",
+                "ro": "Départ du circuit des écrivains en guerre",
+                "en": "Départ du circuit des écrivains en guerre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang vor 16:30 Uhr, um das Tageslicht zu nutzen; warme Kleidung und eine Thermoskanne Tee sind hier Gold wert.",
+                "hu": "Fejezze be a túrát 16:30 előtt, hogy kihasználja a maradék fényt; a réteges öltözet és egy termosz meleg tea itt kincset ér.",
+                "ro": "Încheiați turul înainte de ora 16:30 pentru a profita de lumina zilei; hainele groase și un termos cu ceai sunt esențiale aici.",
+                "en": "Finish the tour before 16:30 to make the most of the daylight; warm clothing and a thermos of tea are invaluable for this walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpártúra az irodalmi ösvénynél kezdődik, kihasználva a friss reggeli levegőt. Utána kényelmesen tekerjen a központba a Városháza térre és a Sainte-Macre templomhoz. Délben a Kenyérmúzeum izgalmas pihenőt kínál, mielőtt elhagyná a belvárost. A délutánt az amerikai emlékműhöz vezető út határozza meg, amely a békés Saint-Pierre templomnál ér véget a külvárosban.",
         "ro": "Turul cu bicicleta începe pe traseul literar, bucurându-vă de aerul proaspăt al dimineții. Pedalați apoi relaxat spre centrul orașului la Piața Primăriei și Biserica Sainte-Macre. La prânz, Muzeul Pâinii vă invită la o pauză captivantă înainte de a părăsi centrul. După-amiaza este marcată de plimbarea spre Memorialul SUA și se termină la liniștita Biserică Saint-Pierre.",
         "en": "Start your biking route along the literary trail, enjoying the crisp morning air before rolling into the town center. Visit the bustling town square and the historic Église Sainte-Macre. By midday, the Bread Museum offers a captivating stop exploring traditional baking. Your afternoon pedals towards the solemn US Memorial, concluding peacefully at the peripheral Église Saint-Pierre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Schriftsteller-Rundweg, da die Wege rutschig sein können. Mittags bietet die Sainte-Macre-Kirche Schutz vor Regenschauern. Nachmittags ist das Brotmuseum ein idealer Stopp, um das Fahrrad sicher zu parken und im Trockenen zu verweilen. Achten Sie auf den nassen Asphalt bei der Fahrt zum Denkmal der 4. US-Division und halten Sie Ihre Regenbekleidung bereit.",
+            "hu": "Kezdje óvatosan a napot az írók útvonalán, mert a burkolat csúszós lehet. Délben a Sainte-Macre templom nyújt menedéket a záporok elől. Délután a kenyérmúzeum ideális megálló, ahol leparkolhatja a biciklit, és fedett helyen pihenhet. Az amerikai emlékmű felé menet ügyeljen a vizes aszfaltra, és mindig legyen kéznél a vízálló öltözet a tekerés során.",
+            "ro": "Începeți cu prudență traseul scriitorilor, deoarece drumurile pot fi alunecoase. La prânz, biserica Sainte-Macre oferă protecție împotriva averselor. După-amiaza, muzeul pâinii este un popas ideal pentru a parca bicicleta și a sta la adăpost. Atenție la asfaltul umed în drum spre monumentul diviziei americane și păstrați pelerina de ploaie la îndemână.",
+            "en": "Start cautiously on the writers' circuit, as paths can be slippery. At noon, Sainte-Macre Church offers protection from rain showers. In the afternoon, the bread museum is an ideal stop to park your bike and stay dry. Watch out for wet asphalt while riding to the US 4th Division Memorial and keep your rain gear ready throughout the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Départ du circuit des écrivains en guerre",
+                "hu": "Départ du circuit des écrivains en guerre",
+                "ro": "Départ du circuit des écrivains en guerre",
+                "en": "Départ du circuit des écrivains en guerre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; die Wege können bei Regen durch Laub und Nässe besonders tückisch für Radfahrer sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; az útvonal a nedves levelek és az eső miatt különösen trükkös lehet a kerékpárosoknak.",
+                "ro": "Verificați frânele înainte de plecare; potecile pot fi înșelătoare pentru bicicliști din cauza frunzelor umede și a ploii.",
+                "en": "Check your brakes before starting; the paths can be tricky for cyclists due to wet leaves and rain during the circuit."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de l'Hôtel de Ville",
+                "hu": "Place de l'Hôtel de Ville",
+                "ro": "Place de l'Hôtel de Ville",
+                "en": "Place de l'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vorsprung am Platz; die glatten Steine erfordern beim Auf- und Absteigen besondere Vorsicht.",
+                "hu": "Parkolja le a kerékpárt egy ereszkedő alá a téren; a sima kövek különös óvatosságot igényelnek a fel- és leszálláskor.",
+                "ro": "Parcați bicicleta sub o streașină în piață; pietrele lucioase necesită atenție sporită la urcarea și coborârea de pe bicicletă.",
+                "en": "Park your bike under an overhang in the square; the smooth stones require extra caution when mounting or dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Macre",
+                "hu": "Église Sainte-Macre",
+                "ro": "Église Sainte-Macre",
+                "en": "Église Sainte-Macre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbesichtigung, um Ihre Kleidung kurz zu trocknen; parken Sie das Rad in der Nähe des Haupteingangs im Windschatten.",
+                "hu": "Használja ki a templomlátogatást a ruházata rövid szárítására; parkoljon a főbejárat közelében, szélvédett helyen.",
+                "ro": "Folosiți vizita la biserică pentru a vă usca puțin hainele; parcați bicicleta aproape de intrarea principală, la adăpost de vânt.",
+                "en": "Use the church visit to briefly dry your clothes; park your bike near the main entrance in a spot shielded from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenier de Saint-Honoré - Musée du Pain",
+                "hu": "Grenier de Saint-Honoré - Musée du Pain",
+                "ro": "Grenier de Saint-Honoré - Musée du Pain",
+                "en": "Grenier de Saint-Honoré - Musée du Pain"
+              },
+              "tip_5lang": {
+                "de": "Ein langer Stopp hier lohnt sich, um den stärksten Regen abzuwarten; das Museum bietet viel Platz für nasse Ausrüstung.",
+                "hu": "Érdemes itt hosszabb időt tölteni, hogy megvárja az eső csendesedését; a múzeumban van hely a nedves felszerelésnek.",
+                "ro": "Merită să faceți o oprire mai lungă aici pentru a aștepta oprirea ploii; muzeul are spațiu pentru echipamentul umed.",
+                "en": "A longer stop here is worthwhile to wait out the heaviest rain; the museum provides space for your wet cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial à la 4e division US",
+                "hu": "Mémorial à la 4e division US",
+                "ro": "Mémorial à la 4e division US",
+                "en": "Mémorial à la 4e division US"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Denkmal ist exponiert; achten Sie bei Seitenwind und Regen auf Ihre Balance auf dem Fahrrad.",
+                "hu": "Az emlékműhöz vezető út nyitott; ügyeljen az egyensúlyára a kerékpáron az oldalszélben és a szakadó esőben.",
+                "ro": "Drumul spre monument este expus; aveți grijă la echilibru pe bicicletă în caz de vânt lateral și ploaie puternică.",
+                "en": "The road to the memorial is exposed; watch your balance on the bike in case of side winds and heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Trockenen; die Ruhe der Kirche ist die perfekte Belohnung nach einer regnerischen Fahrt.",
+                "hu": "Fejezze be a túrát itt, száraz helyen; a templom nyugalma tökéletes jutalom a szeles, esős tekerés után.",
+                "ro": "Încheiați turul aici, la adăpost; liniștea bisericii este recompensa perfectă după o plimbare lungă prin ploaie.",
+                "en": "Finish your tour here in the dry; the church's peace is the perfect reward after a wet and windy cycling trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Morgen gut eingepackt am Schriftsteller-Rundweg. Der kalte Fahrtwind erfordert warme Handschuhe und Gesichtsschutz. Mittags bieten die Kirchen der Stadt willkommene Pausen zum Aufwärmen. Besuchen Sie das Brotmuseum am frühen Nachmittag, um die frostigen Stunden im Inneren zu verbringen. Beenden Sie Ihre Radtour vor Sonnenuntergang um 17:00 Uhr, um sicher zurückzukommen.",
+            "hu": "Kezdje a reggelt alaposan felöltözve az írók útvonalán. A hideg menetszél miatt meleg kesztyű és arcvédelem szükséges. Délben a város templomai nyújtanak szívesen látott szünetet a felmelegedéshez. Kora délután látogasson el a kenyérmúzeumba, hogy a fagyos órákat bent töltse. Fejezze be a biciklizést naplemente előtt, 17:00-ig, a biztonságos visszatérés érdekében.",
+            "ro": "Începeți dimineața bine echipat pe traseul scriitorilor. Vântul rece necesită mănuși groase și protecție pentru față. La prânz, bisericile orașului oferă pauze binevenite pentru încălzire. Vizitați muzeul pâinii după-amiaza devreme pentru a petrece orele geroase în interior. Încheiați plimbarea cu bicicleta înainte de apus, ora 17:00, pentru siguranță.",
+            "en": "Start the morning well-layered on the writers' circuit. The cold wind chill requires warm gloves and face protection. At noon, the city's churches offer welcome breaks for warming up. Visit the bread museum in the early afternoon to spend the frostiest hours inside. Finish your bike ride before sunset at 17:00 to ensure a safe return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Départ du circuit des écrivains en guerre",
+                "hu": "Départ du circuit des écrivains en guerre",
+                "ro": "Départ du circuit des écrivains en guerre",
+                "en": "Départ du circuit des écrivains en guerre"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte in schattigen Abschnitten; fahren Sie Kurven vorsichtiger an als im Sommer.",
+                "hu": "Ügyeljen a zúzmarás, jeges szakaszokra az árnyékos részeken; a kanyarokat vegye sokkal óvatosabban, mint nyáron.",
+                "ro": "Atenție la porțiunile cu chiciură în zonele umbrite; abordați curbele cu mai multă prudență decât în timpul verii.",
+                "en": "Watch out for frost in shaded sections; approach corners more cautiously than you would during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de l'Hôtel de Ville",
+                "hu": "Place de l'Hôtel de Ville",
+                "ro": "Place de l'Hôtel de Ville",
+                "en": "Place de l'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Die offene Fläche kann sehr windig sein; halten Sie Ihren Stopp kurz und bewegen Sie sich viel, um warm zu bleiben.",
+                "hu": "A nyitott tér nagyon szeles lehet; tartsa rövidre a megállót, és mozogjon sokat, hogy ne hűljön ki a teste.",
+                "ro": "Piața deschisă poate fi foarte vântoasă; faceți o oprire scurtă și mișcați-vă mult pentru a vă menține căldura.",
+                "en": "The open square can be very windy; keep your stop brief and keep moving to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Macre",
+                "hu": "Église Sainte-Macre",
+                "ro": "Église Sainte-Macre",
+                "en": "Église Sainte-Macre"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und des Windschutzes; ideal, um die Durchblutung in den Fingern vor der Weiterfahrt anzuregen.",
+                "hu": "A csend és a szélvédelem helyszíne; ideális, hogy serkentse a vérkeringést az ujjaiban a továbbhaladás előtt.",
+                "ro": "Un loc de liniște și protecție împotriva vântului; ideal pentru a vă revigora circulația în degete înainte de plecare.",
+                "en": "A place of silence and wind protection; ideal for stimulating circulation in your fingers before riding further."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenier de Saint-Honoré - Musée du Pain",
+                "hu": "Grenier de Saint-Honoré - Musée du Pain",
+                "ro": "Grenier de Saint-Honoré - Musée du Pain",
+                "en": "Grenier de Saint-Honoré - Musée du Pain"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im Inneren; es ist der wärmste Punkt Ihrer heutigen Tour, perfekt für eine lange Pause.",
+                "hu": "Élvezze a benti meghitt hangulatot; ez a mai túra legmelegebb pontja, tökéletes egy hosszabb pihenőre.",
+                "ro": "Bucurați-vă de atmosfera primitoare din interior; este cel mai cald punct al turului, perfect pentru o pauză lungă.",
+                "en": "Enjoy the cozy atmosphere inside; it is the warmest point of your tour today, perfect for a long break."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial à la 4e division US",
+                "hu": "Mémorial à la 4e division US",
+                "ro": "Mémorial à la 4e division US",
+                "en": "Mémorial à la 4e division US"
+              },
+              "tip_5lang": {
+                "de": "Die exponierte Lage am Fluss kann im Winter sehr eisig sein; ein kurzer Fotostopp reicht völlig aus.",
+                "hu": "A folyóparti nyitott helyszín télen nagyon jeges lehet; egy rövid fotómegálló bőven elég a látnivalóhoz.",
+                "ro": "Locația expusă de lângă râu poate fi foarte geroasă iarna; o scurtă oprire pentru fotografii este suficientă.",
+                "en": "The exposed riverside location can be very icy in winter; a quick photo stop is more than enough here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt, bevor die Dunkelheit einsetzt; prüfen Sie Ihre Fahrradbeleuchtung für den Rückweg.",
+                "hu": "Fejezze be a tekerést, mielőtt beáll a sötétség; ellenőrizze a kerékpár lámpáit a biztonságos hazaúthoz.",
+                "ro": "Încheiați plimbarea înainte de lăsarea întunericului; verificați luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Finish your ride before darkness sets in; check your bike lights to ensure a safe return journey home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túra a vidéki Perles-ben kezdődik a városházánál és a bájos Sainte-Marie templomnál. E nyugodt nyitány után vezessen a lenyűgöző amerikai emlékműhöz. Délben érkezik Fismes központjába, ahol a városháza terénél parkolhat, hogy megtekintse a Sainte-Macre templomot. A kirándulás a Kenyérmúzeummal és a déli Saint-Pierre templom meglátogatásával zárul.",
         "ro": "Călătoria auto începe în mediul rural Perles, la primărie și la fermecătoarea Biserică Sainte-Marie. După această uvertură liniștită, conduceți spre impresionantul Memorial SUA. La prânz ajungeți în centrul Fismes, unde puteți parca lângă Piața Primăriei pentru a vizita Biserica Sainte-Macre. Excursia se încheie cu Muzeul Pâinii și o vizită la Biserica Saint-Pierre din sud.",
         "en": "Your drive begins in the rural setting of Perles by the local town hall and the charming Église Sainte-Marie. Following this serene start, head to the poignant US Memorial. By midday, arrive in central Fismes, parking near the Town Hall Square to explore the Église Sainte-Macre. Conclude your day with the unique Bread Museum and a scenic drive to Église Saint-Pierre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch die regnerische Landschaft von Fismes bequem von Ihrem Auto aus. Beginnen Sie in Perles, wo Sie direkt vor den Sehenswürdigkeiten parken können. Mittags bieten die Kirchen trockene Besichtigungsmöglichkeiten. Das Brotmuseum am Nachmittag ist der perfekte Ort, um das Auto stehen zu lassen und längere Zeit im Warmen und Trockenen zu verbringen.",
+            "hu": "Élvezze Fismes esős tájait az autó kényelméből. Kezdje Perles-ben, ahol közvetlenül a látnivalók közelében parkolhat. Délben a templomok száraz és nyugodt helyszínt biztosítanak a látogatáshoz. A kenyérmúzeumnál délután érdemes letenni az autót, és hosszabb időt tölteni a fedett kiállítótérben, elkerülve a leghevesebb záporokat.",
+            "ro": "Bucurați-vă de peisajele ploioase din Fismes din confortul mașinii. Începeți în Perles, unde puteți parca chiar lângă obiective. La prânz, bisericile oferă opțiuni de vizitare la adăpost. Muzeul pâinii de după-amiază este locul perfect pentru a lăsa mașina și a petrece timp la căldură și uscat.",
+            "en": "Enjoy the rainy landscapes of Fismes from the comfort of your car. Start in Perles, where you can park directly near the sights. At noon, the churches offer dry and peaceful visiting options. The bread museum in the afternoon is the perfect place to leave the car and spend time in the warm, dry interior during heavy showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Perles",
+                "hu": "Mairie déléguée de Perles",
+                "ro": "Mairie déléguée de Perles",
+                "en": "Mairie déléguée de Perles"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu umgehen; die Sicht auf die umliegenden Felder ist auch bei Nebel reizvoll.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a környező mezők látványa ködben is különleges.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; vederea spre câmpurile din jur este încântătoare chiar și pe ceață.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the view of the surrounding fields is lovely even in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie-et-de-l'Assomption",
+                "hu": "Église Sainte-Marie-et-de-l'Assomption",
+                "ro": "Église Sainte-Marie-et-de-l'Assomption",
+                "en": "Église Sainte-Marie-et-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche schützt Sie vor Nässe; genießen Sie die Ruhe im Inneren, während es draußen regnet.",
+                "hu": "Egy rövid sprint a parkolóból a templomig megvédi az elázástól; élvezze a benti csendet, miközben kint dobol az eső.",
+                "ro": "Un scurt sprint de la parcare la biserică vă va proteja de ploaie; bucurați-vă de liniștea din interior în timp ce afară plouă.",
+                "en": "A short sprint from the parking lot to the church will keep you dry; enjoy the peace inside while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial à la 4e division US",
+                "hu": "Mémorial à la 4e division US",
+                "ro": "Mémorial à la 4e division US",
+                "en": "Mémorial à la 4e division US"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Denkmal kurz und nutzen Sie das Auto als Rückzugsort; achten Sie auf nasse und rutschige Fahrbahnen am Fluss.",
+                "hu": "Nézze meg gyorsan az emlékművet, és használja az autót menedékként; ügyeljen a vizes és csúszós utakra a folyóparton.",
+                "ro": "Vizitați monumentul rapid și folosiți mașina ca refugiu; atenție la carosabilul umed și alunecos de lângă râu.",
+                "en": "View the memorial briefly and use your car as a refuge; watch out for wet and slippery roads near the riverbank."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de l'Hôtel de Ville",
+                "hu": "Place de l'Hôtel de Ville",
+                "ro": "Place de l'Hôtel de Ville",
+                "en": "Place de l'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt am Platz; der kurze Weg zum Rathaus ist ideal bei wechselhaftem Regenwetter.",
+                "hu": "Használja a közvetlenül a téren lévő parkolókat; a rövid séta a városházáig ideális a változékony, esős időben.",
+                "ro": "Folosiți locurile de parcare direct din piață; drumul scurt până la primărie este ideal în caz de vreme ploioasă.",
+                "en": "Use the parking spaces directly on the square; the short walk to the town hall is ideal during changeable rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Macre",
+                "hu": "Église Sainte-Macre",
+                "ro": "Église Sainte-Macre",
+                "en": "Église Sainte-Macre"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um eine Regenfront abzuwarten; die Parkplätze in den Nebenstraßen sind oft gut verfügbar.",
+                "hu": "Csodálatos hely egy nagyobb eső megvárására; a mellékutcákban lévő parkolók általában könnyen elérhetőek.",
+                "ro": "Un loc minunat pentru a aștepta trecerea ploii; locurile de parcare de pe străzile laterale sunt adesea disponibile.",
+                "en": "A wonderful place to wait out a rain front; parking spaces in the side streets are often readily available for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenier de Saint-Honoré - Musée du Pain",
+                "hu": "Grenier de Saint-Honoré - Musée du Pain",
+                "ro": "Grenier de Saint-Honoré - Musée du Pain",
+                "en": "Grenier de Saint-Honoré - Musée du Pain"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto auf dem Parkplatz und genießen Sie die umfassende Indoor-Ausstellung ohne Zeitdruck im Trockenen.",
+                "hu": "Hagyja az autót a parkolóban, és élvezze a teljes beltéri kiállítást időnyomás nélkül, teljesen szárazon.",
+                "ro": "Lăsați mașina în parcare și bucurați-vă de întreaga expoziție interioară fără grabă, la adăpost de ploaie.",
+                "en": "Leave the car in the parking lot and enjoy the full indoor exhibition without any time pressure and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss Ihrer Fahrt; parken Sie direkt vor dem Eingang und genießen Sie die Ruhe vor der Rückfahrt.",
+                "hu": "Az autós túra tökéletes lezárása; parkoljon közvetlenül a bejáratnál, és élvezze a csendet a hazaindulás előtt.",
+                "ro": "Finalul perfect al traseului auto; parcați chiar în fața intrării și bucurați-vă de liniște înainte de drumul de întoarcere.",
+                "en": "The perfect conclusion to your car tour; park directly in front of the entrance and enjoy the peace before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Fismes im Winter mit der Wärme Ihrer Autoheizung. Starten Sie in Perles, wo der Frost die Landschaft in ein Wintermärchen verwandelt. Mittags bieten die Kirchen der Stadt eine friedliche und windgeschützte Atmosphäre. Das Brotmuseum am Nachmittag ist der ideale Aufwärmstopp. Achten Sie auf die Straßenbedingungen und beenden Sie Ihre Tour vor 17:00 Uhr, wenn die Dunkelheit einsetzt.",
+            "hu": "Fedezze fel Fismes-t télen az autó fűtött kényelmében. Kezdje Perles-ben, ahol a zúzmara téli mesevilággá varázsolja a tájat. Délben a város templomai békés és szélvédett környezetet kínálnak. A kenyérmúzeum délután az ideális melegedőhely. Ügyeljen az útviszonyokra, és fejezze be a túrát 17:00 előtt, mielőtt teljesen besötétedne.",
+            "ro": "Descoperiți Fismes iarna în căldura mașinii dumneavoastră. Începeți în Perles, unde gerul transformă peisajul într-o poveste de iarnă. La prânz, bisericile orașului oferă o atmosferă liniștită și ferită de vânt. Muzeul pâinii este oprirea ideală pentru încălzire. Atenție la starea drumurilor și încheiați turul înainte de ora 17:00.",
+            "en": "Discover Fismes in winter from the warmth of your heated car. Start in Perles, where frost transforms the landscape into a winter wonderland. At noon, the city's churches offer a peaceful and wind-shielded atmosphere. The bread museum in the afternoon is the ideal warming stop. Watch the road conditions and finish your tour before 17:00 as darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée de Perles",
+                "hu": "Mairie déléguée de Perles",
+                "ro": "Mairie déléguée de Perles",
+                "en": "Mairie déléguée de Perles"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Straßen können glatt sein; genießen Sie den winterlichen Ausblick aus dem warmen Auto, bevor Sie kurz aussteigen.",
+                "hu": "A vidéki utak csúszósak lehetnek; élvezze a téli kilátást a meleg autóból, mielőtt egy rövid időre kiszállna.",
+                "ro": "Drumurile rurale pot fi alunecoase; bucurați-vă de priveliștea hibernală din mașină înainte de a coborî scurt.",
+                "en": "The rural roads can be slippery; enjoy the winter view from your warm car before stepping out briefly to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie-et-de-l'Assomption",
+                "hu": "Église Sainte-Marie-et-de-l'Assomption",
+                "ro": "Église Sainte-Marie-et-de-l'Assomption",
+                "en": "Église Sainte-Marie-et-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um dem beißenden Wind zu entkommen; die dicken Kirchenmauern bieten einen guten Schutz vor der Winterkälte.",
+                "hu": "Nyugodt hely, ahol elmenekülhet a metsző szél elől; a vastag templomfalak jó védelmet nyújtanak a téli fagy ellen.",
+                "ro": "Un loc liniștit pentru a scăpa de vântul tăios; zidurile groase ale bisericii oferă o protecție bună contra frigului.",
+                "en": "A peaceful place to escape the biting wind; the thick church walls offer good protection against the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial à la 4e division US",
+                "hu": "Mémorial à la 4e division US",
+                "ro": "Mémorial à la 4e division US",
+                "en": "Mémorial à la 4e division US"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal liegt ungeschützt am Fluss; ein kurzer Besuch ist ratsam, um die Kälte nicht zu sehr zu spüren.",
+                "hu": "Az emlékmű védtelenül áll a folyóparton; javasolt egy rövid látogatás, hogy ne érezze túl sokáig a csípős hideget.",
+                "ro": "Monumentul este situat neprotejat lângă râu; o vizită scurtă este recomandată pentru a nu resimți prea tare frigul.",
+                "en": "The memorial stands unprotected by the river; a short visit is advisable to avoid feeling the biting cold for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de l'Hôtel de Ville",
+                "hu": "Place de l'Hôtel de Ville",
+                "ro": "Place de l'Hôtel de Ville",
+                "en": "Place de l'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und nutzen Sie das Rathaus als Aufwärmstopp; der beleuchtete Platz wirkt im Winter besonders stimmungsvoll.",
+                "hu": "Parkoljon központi helyen, és használja a városházát melegedőként; a kivilágított tér télen különösen hangulatos.",
+                "ro": "Parcați central și folosiți primăria ca loc de încălzire; piața iluminată are o atmosferă deosebită în timpul iernii.",
+                "en": "Park centrally and use the town hall as a warming stop; the illuminated square feels especially atmospheric in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Macre",
+                "hu": "Église Sainte-Macre",
+                "ro": "Église Sainte-Macre",
+                "en": "Église Sainte-Macre"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der Stille des Winters; die Parkplatzsuche ist in der Nebensaison meist unkompliziert.",
+                "hu": "Csodálja meg az építészetet a tél csendjében; a parkolóhely-keresés a főszezonon kívül általában egyszerűbb.",
+                "ro": "Admirați arhitectura în liniștea iernii; găsirea unui loc de parcare este de obicei mai simplă în afara sezonului.",
+                "en": "Admire the architecture in the silence of winter; finding a parking spot is usually easier during the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenier de Saint-Honoré - Musée du Pain",
+                "hu": "Grenier de Saint-Honoré - Musée du Pain",
+                "ro": "Grenier de Saint-Honoré - Musée du Pain",
+                "en": "Grenier de Saint-Honoré - Musée du Pain"
+              },
+              "tip_5lang": {
+                "de": "Der wärmste und informativste Stopp Ihrer Tour; ideal, um die kälteste Zeit des Nachmittags im Inneren zu verbringen.",
+                "hu": "A túra legmelegebb és legérdekesebb állomása; ideális, hogy a délután leghidegebb óráit bent töltse a kiállításon.",
+                "ro": "Cea mai caldă și informativă oprire a turului; ideal pentru a petrece cele mai reci ore ale după-amiezii în interior.",
+                "en": "The warmest and most informative stop on your tour; ideal for spending the coldest hours of the afternoon inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier, bevor es dunkel wird; das warme Licht im Inneren bietet einen schönen Abschluss.",
+                "hu": "Fejezze be itt a napot, mielőtt besötétedik; a benti meleg fények szép lezárást adnak a téli autós kirándulásnak.",
+                "ro": "Încheiați ziua aici înainte de lăsarea întunericului; luminile calde din interior oferă un final frumos călătoriei.",
+                "en": "Finish your day here before it gets dark; the warm lights inside offer a beautiful conclusion to your winter car trip."
+              }
+            }
+          ]
+        }
       }
     }
   }

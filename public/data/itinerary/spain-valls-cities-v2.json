@@ -160,6 +160,196 @@
         "hu": "Sétánkat az egykori érseki vár kapujánál kezdjük, egyenesen Valls középkori szívébe csöppenve. A magasba törő Sant Joan Baptista templom lenyűgöző gótikus részleteivel nem sokkal később vár ránk.\nDél felé közeledve belépünk a Món Casteller múzeumba, hogy megtapasztaljuk az emberi tornyok élénk katalán hagyományát. Az interaktív kiállítások felejthetetlen kulturális élményt nyújtanak.\nA délután a békés Sant Antoni Abat és Carme templomokhoz vezet minket. Csendes udvaraik és bonyolult barokk részleteik békés menedéket kínálnak a nyüzsgő városi utcák elől.\nNapunkat egy kellemes sétával zárjuk a helyi Mare de Déu del Lledó plébánia felé. A késő délutáni fény gyönyörűen kiemeli bájos történelmi homlokzatát, ahogy a város lecsendesedik.",
         "ro": "Ne începem plimbarea la vechea poartă a castelului arhiepiscopal, scufundându-ne direct în inima medievală a orașului Valls. Biserica falnică Sant Joan Baptista ne așteaptă imediat după aceea.\nSpre prânz, intrăm în muzeul Món Casteller pentru a experimenta tradiția vibrantă a turnurilor umane. Expozițiile interactive oferă o imersiune culturală absolut de neuitat pentru toți vizitatorii.\nDupă-amiaza ne duce la bisericile senine Sant Antoni Abat și Carme. Curțile lor liniștite și detaliile baroce complicate oferă o retragere pașnică de pe străzile aglomerate ale orașului.\nNe încheiem ziua cu o scurtă plimbare blândă spre parohia locală Mare de Déu del Lledó. Lumina după-amiezii târzii evidențiază frumos fațada sa istorică fermecătoare, în timp ce orașul se liniștește.",
         "en": "We begin our walk at the old Archbishop's Castle gateway, diving straight into the medieval heart of Valls. The towering Sant Joan Baptista church awaits us shortly after with its impressive Gothic details.\nAs noon approaches, we enter the Món Casteller museum to experience the vibrant Catalan tradition of human towers. The interactive exhibits provide an unforgettable cultural immersion.\nThe afternoon takes us to the serene Sant Antoni Abat and Carme churches. Their quiet courtyards and intricate baroque touches offer a peaceful retreat from the bustling city streets.\nWe conclude our day with a gentle stroll towards the local Mare de Déu del Lledó parish. The late afternoon light beautifully highlights its charming historical facade as the city winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Portalada, wo die historischen Steinbögen ersten Schutz vor dem Regen bieten. Mittags laden die massiven Mauern der Kirchen von Sant Joan und Sant Antoni zu einer besinnlichen, trockenen Pause ein. Am Nachmittag ist das Casteller-Museum der ideale Ort, um dem Wetter in einer modernen Ausstellung zu entfliehen. Der Abend klingt trotz Regen in den stimmungsvoll beleuchteten, glänzenden Gassen der Altstadt aus.",
+            "hu": "A reggel a várkapunál indul, ahol az ódon ívek nyújtanak elsőként menedéket az eső elől. Délben a Sant Joan és Sant Antoni templomok vastag falai között találunk száraz és csendes pihenőt a város szívében. Délután a Casteller múzeum interaktív, fedett terei tökéletesek a záporok átvészelésére. Az este a vizes macskaköveken megcsillanó fényekkel teszi varázslatossá a sétát Valls szűk utcáin.",
+            "ro": "Dimineața începe la poarta castelului, unde arcadele istorice oferă primul adăpost împotriva ploii. La prânz, zidurile groase ale bisericilor Sant Joan și Sant Antoni vă întâmpină pentru o pauză liniștită și uscată. După-amiaza, muzeul Casteller este refugiul ideal pentru a explora tradițiile locale într-un spațiu modern și acoperit. Seara se încheie cu farmecul străzilor umede din centrul vechi, unde luminile se reflectă superb în pavaj.",
+            "en": "Morning starts at the castle portal, where historic arches provide the first shelter from the rain. By noon, the thick walls of Sant Joan and Sant Antoni churches offer a dry and peaceful retreat in the heart of the city. Afternoon is best spent inside the Human Tower Museum, a perfect indoor escape with modern exhibits. The evening concludes with the atmospheric glow of city lights reflecting on the wet cobblestones of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portalada del Castell de l'Arquebisbe",
+                "hu": "Portalada del Castell de l'Arquebisbe",
+                "ro": "Portalada del Castell de l'Arquebisbe",
+                "en": "Portalada del Castell de l'Arquebisbe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Steinarbeiten unter dem Schutz der Torbögen; tragen Sie rutschfeste Schuhe, da das alte Pflaster bei Nässe sehr glatt werden kann.",
+                "hu": "Csodálja meg a finom faragásokat a kapuboltívek védelme alatt; viseljen csúszásmentes talpú cipőt, mert a vizes kőfelületek az óvárosban rendkívül csúszósak.",
+                "ro": "Admirați sculpturile fine sub protecția arcadelor porții; purtați încălțăminte aderentă, deoarece pavajul vechi devine foarte alunecos când este ud.",
+                "en": "Admire the fine stonework while sheltering under the gate's arches; wear non-slip shoes as the ancient pavement becomes very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Arxiprestal de Sant Joan Baptista",
+                "hu": "Església Arxiprestal de Sant Joan Baptista",
+                "ro": "Església Arxiprestal de Sant Joan Baptista",
+                "en": "Església Arxiprestal de Sant Joan Baptista"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hohen Innenraum für eine trockene Pause; die kühle Atmosphäre ist perfekt, um das Wetter draußen zu vergessen und die Kunst zu genießen.",
+                "hu": "Használja ki a monumentális belső teret egy száraz pihenőre; a templom hűvös csendje tökéletes menedék, amíg odakint eláll a zápor.",
+                "ro": "Folosiți interiorul monumental pentru o pauză uscată; liniștea bisericii este refugiul perfect în timp ce așteptați să treacă ploaia de afară.",
+                "en": "Utilize the monumental interior for a dry break; the church's quiet atmosphere is a perfect refuge while waiting for the rain to subside outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Museum ist die beste Wahl bei Regen; verbringen Sie hier viel Zeit in den vollständig überdachten und interaktiven Ausstellungsräumen.",
+                "hu": "Ez a modern múzeum a legjobb választás esőben; töltsön itt bátran több időt a teljesen fedett és interaktív kiállítóterek felfedezésével.",
+                "ro": "Acest muzeu modern este cea mai bună alegere pe ploaie; petreceți mai mult timp aici explorând spațiile expoziționale complet acoperite și interactive.",
+                "en": "This modern museum is the ultimate rainy-day choice; feel free to spend extra time exploring the fully indoor and interactive exhibition spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Antoni Abat",
+                "hu": "Església de Sant Antoni Abat",
+                "ro": "Església de Sant Antoni Abat",
+                "en": "Església de Sant Antoni Abat"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer sicherer Rückzugsort im Stadtzentrum; schütteln Sie Ihren Regenschirm am Eingang gut aus, bevor Sie die wertvollen Altarbilder betrachten.",
+                "hu": "Újabb biztos menedék a belvárosban; alaposan rázza le az esernyőjét a bejáratnál, mielőtt megtekintené az értékes oltárképeket.",
+                "ro": "Un alt refugiu sigur în centrul orașului; scuturați bine umbrela la intrare înainte de a admira retablurile valoroase din interior.",
+                "en": "Another reliable shelter in the city center; shake your umbrella well at the entrance before admiring the valuable altarpieces inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Església del Carme",
+                "hu": "Església del Carme",
+                "ro": "Església del Carme",
+                "en": "Església del Carme"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur bietet Schutz und Ruhe; achten Sie auf den Eingangsbereich, der bei Regen oft Wasserpfützen bildet.",
+                "hu": "A letisztult építészet védelmet és nyugalmat áraszt; ügyeljen a bejárati részre, ahol esőben gyakran kisebb tócsák alakulhatnak ki.",
+                "ro": "Arhitectura sobră oferă protecție și liniște; atenție la zona de intrare, unde se pot forma bălți în timpul ploilor torențiale.",
+                "en": "The simple architecture offers protection and peace; be careful at the entrance area, where small puddles often form during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de la Mare de Déu del Lledó",
+                "hu": "Parròquia de la Mare de Déu del Lledó",
+                "ro": "Parròquia de la Mare de Déu del Lledó",
+                "en": "Parròquia de la Mare de Déu del Lledó"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour unter dem schützenden Dach der Kapelle; der Weg dorthin kann nass sein, halten Sie also Ihren Regenschutz bereit.",
+                "hu": "Zárja a túrát a kápolna védelmező tetője alatt; az odavezető út nyitottabb, így tartsa készenlétben az esővédő felszerelését.",
+                "ro": "Încheiați turul sub acoperișul protector al capelei; drumul până aici este expus, așa că țineți pelerina de ploaie la îndemână.",
+                "en": "End the tour under the protective roof of the chapel; the path leading here is more exposed, so keep your rain gear ready for the walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Portalada, wobei die klare Luft die Fernsicht schärft. Mittags bieten die Kirchenräume eine windgeschützte, wenn auch kühle Ruhepause vom oft kräftigen Wind der Region. Der Nachmittag gehört dem Casteller-Museum, das eine wohlige und beheizte Umgebung für Kulturinteressierte bietet. Da die Sonne gegen 17:00 Uhr untergeht, hüllt das frühe Abendlicht die Stadt in einen besonderen, warmen Glanz.",
+            "hu": "A friss téli reggel a várkapunál indul, ahol a tiszta levegő élesebbé teszi a történelmi részleteket. Délben a templomok belső terei nyújtanak szélvédett pihenőt a környékre jellemző hideg szelek elől. A délutáni órákat érdemes a Casteller múzeum fűtött termeiben tölteni, elmélyedve a katalán hagyományokban. Mivel a nap 17:00 körül lebukik, a korai szürkület fényei meghitté teszik az utolsó megállót.",
+            "ro": "O dimineață răcoroasă de iarnă începe la poarta castelului, unde aerul curat face detaliile istorice mai clare. La prânz, interiorul bisericilor oferă un refugiu ferit de vântul rece specific regiunii. După-amiaza este dedicată muzeului Casteller, care oferă un mediu încălzit și primitor pentru pasionații de cultură. Deoarece soarele apune în jur de ora 17:00, lumina serii timpurii scaldă orașul într-o strălucire aurie.",
+            "en": "A crisp winter morning starts at the castle portal, where the clear air sharpens the view of historical details. By noon, the church interiors provide a wind-sheltered retreat from the region's chilly gusts. The afternoon is best spent in the heated Human Tower Museum, offering a cozy environment for culture lovers. As the sun sets around 5:00 PM, the early evening light wraps the city in a special, warm glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portalada del Castell de l'Arquebisbe",
+                "hu": "Portalada del Castell de l'Arquebisbe",
+                "ro": "Portalada del Castell de l'Arquebisbe",
+                "en": "Portalada del Castell de l'Arquebisbe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos, aber ziehen Sie sich warm an; der Wind kann in den offenen Durchgängen des Schlosses sehr schneidend sein.",
+                "hu": "Használja ki a tiszta téli fényeket a fotózáshoz, de öltözzön rétegesen; a szél nagyon fagyos lehet a vár nyitott átjáróiban.",
+                "ro": "Apreciați lumina clară pentru fotografii, dar îmbrăcați-vă gros; vântul poate fi tăios în pasajele deschise ale castelului.",
+                "en": "Enjoy the clear winter light for photos, but dress warmly; the wind can be quite biting in the open passages of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Arxiprestal de Sant Joan Baptista",
+                "hu": "Església Arxiprestal de Sant Joan Baptista",
+                "ro": "Església Arxiprestal de Sant Joan Baptista",
+                "en": "Església Arxiprestal de Sant Joan Baptista"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem Wind, kann aber im Winter recht kühl sein; behalten Sie Ihren Mantel für den Besuch am besten an.",
+                "hu": "A templom jó védelmet nyújt a szél ellen, de télen belül is hűvös lehet; érdemes a kabátot magán hagynia a látogatás alatt.",
+                "ro": "Biserica oferă o protecție bună împotriva vântului, dar poate fi răcoroasă în interior iarna; păstrați haina pe dvs. în timpul vizitei.",
+                "en": "The church provides good protection from the wind, but it can be quite chilly inside in winter; it's best to keep your coat on during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der wärmste Ort der Tour; nutzen Sie die beheizten Räume, um sich aufzuwärmen und alles über die Tradition der Menschentürme zu erfahren.",
+                "hu": "Ez a túra legmelegebb pontja; használja ki a fűtött tereket a felmelegedésre, miközben mindent megtud az emberi tornyok hagyományáról.",
+                "ro": "Acesta este cel mai călduros punct al turului; profitați de spațiile încălzite pentru a vă dezmorți în timp ce învățați despre tradiția turnurilor umane.",
+                "en": "This is the warmest spot on the tour; take advantage of the heated spaces to warm up while learning everything about the human tower tradition."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Antoni Abat",
+                "hu": "Església de Sant Antoni Abat",
+                "ro": "Església de Sant Antoni Abat",
+                "en": "Església de Sant Antoni Abat"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, windgeschützter Stopp im Herzen der Stadt; die niedrige Wintersonne taucht die Fassade oft in ein schönes, rötliches Licht.",
+                "hu": "Rövid, szélvédett megálló a város szívében; az alacsonyan járó téli nap gyakran gyönyörű vöröses fénybe vonja a homlokzatot.",
+                "ro": "O oprire scurtă și ferită de vânt în inima orașului; soarele jos de iarnă scaldă adesea fațada într-o lumină roșiatică superbă.",
+                "en": "A short, wind-sheltered stop in the heart of the city; the low winter sun often bathes the facade in a beautiful reddish light."
+              }
+            },
+            {
+              "name": {
+                "de": "Església del Carme",
+                "hu": "Església del Carme",
+                "ro": "Església del Carme",
+                "en": "Església del Carme"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor Sonnenuntergang ein; die Atmosphäre im Inneren ist im sanften Winterlicht besonders friedlich und andächtig.",
+                "hu": "Tervezze a látogatást naplemente elé; a belső tér hangulata a lágy téli fényben különösen békés és áhítatos.",
+                "ro": "Planificați vizita înainte de apus; atmosfera din interior este deosebit de liniștită și pioasă în lumina blândă a iernii.",
+                "en": "Plan your visit before sunset; the atmosphere inside is particularly peaceful and solemn in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de la Mare de Déu del Lledó",
+                "hu": "Parròquia de la Mare de Déu del Lledó",
+                "ro": "Parròquia de la Mare de Déu del Lledó",
+                "en": "Parròquia de la Mare de Déu del Lledó"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr dunkel wird, bietet die Kapelle zum Abschluss eine gemütliche Zuflucht, bevor Sie den Rückweg antreten.",
+                "hu": "Mivel 17:00 után sötétedik, a kápolna meghitt menedéket nyújt a túra végén, mielőtt elindulna vissza a városközpontba.",
+                "ro": "Deoarece se întunecă după ora 17:00, capela oferă un refugiu primitor la finalul turului, înainte de a vă întoarce spre centru.",
+                "en": "As it gets dark after 5:00 PM, the chapel offers a cozy refuge at the end of the tour before you head back to the center."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúránk energikusan indul a modernista Casa de les Punxes-nél, mielőtt az ősi ibériai Vilar településhez tekernénk. A reggeli levegő tökéletesen kiegészíti ezeket a történelmi romokat.\nA délidő visszavezet minket a városközpont felé, elhaladva a Mare de Déu del Lledó plébánia mellett. Ezután bőséges időt töltünk a lenyűgöző emberi tornyok hagyományainak felfedezésével a múzeumban.\nDélután kelet felé tekerünk az Alt Camp Állatkertbe, hogy tegyünk egy pihentető sétát a helyi vadvédelmi kifutók között. A fákkal szegélyezett ösvények kiváló árnyékot és frissítő tempóváltást biztosítanak.\nUtazásunkat egy hosszabb, festői kerékpározással zárjuk az El Burgar régészeti lelőhely felé. Ez a békés vidéki környezet a tökéletes helyszín a régió gazdag, többrétegű történelmének átgondolására.",
         "ro": "Turul nostru cu bicicleta începe energic la Casa de les Punxes modernistă, înainte de a pedala spre vechea așezare iberică Vilar. Aerul dimineții completează perfect aceste ruine istorice superbe.\nLa prânz ne întoarcem spre centrul orașului, trecând pe lângă parohia Mare de Déu del Lledó. Apoi petrecem timp amplu explorând tradițiile fascinante ale turnurilor umane la muzeul Món Casteller.\nDupă-amiaza, mergem spre est către grădina zoologică Alt Camp pentru o plimbare relaxantă printre animalele locale. Căile umbrite de copaci oferă o schimbare răcoritoare și un ritm extrem de plăcut.\nÎncheiem călătoria cu o plimbare mai lungă și pitorească până la situl arheologic El Burgar. Acest cadru rural pașnic este locul perfect pentru a reflecta asupra istoriei bogate a acestei regiuni.",
         "en": "Our cycling tour starts energetically at the modernist Casa de les Punxes, before pedaling a short distance to the ancient Iberian settlement of Vilar. The morning air perfectly complements these historic ruins.\nMidday brings us back towards the city core, passing the Mare de Déu del Lledó parish. We then spend ample time exploring the fascinating human tower traditions at the vibrant Món Casteller museum.\nIn the afternoon, we ride east to the Alt Camp Zoo for a relaxing stroll among the local wildlife enclosures. The tree-lined paths provide excellent shade and a refreshing change of pace.\nWe end the journey with a longer scenic ride out to the El Burgar archaeological site. This peaceful countryside setting is the perfect place to reflect on the region's rich, multi-layered history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen startet an der Casa de les Punxes, wobei wasserfeste Kleidung heute unerlässlich ist. Mittags bietet das Casteller-Museum die dringend benötigte, trockene Pause für Radfahrer und ihre Ausrüstung. Nachmittags führt die Tour zum Zoo, wo Unterstände bei plötzlichen Schauern Schutz bieten. Der Tag endet an den archäologischen Stätten, deren nasse Pfade erhöhte Vorsicht und langsameres Fahren erfordern.",
+            "hu": "A bringás reggel a Casa de les Punxesnél indul, ahol a vízálló ruházat ma elengedhetetlen. Délben a Casteller múzeum nyújtja a várva várt száraz pihenőt a kerékpárosoknak és felszerelésüknek. Délután a zoo felé vezet az út, ahol a pavilonok alá behúzódhatunk a záporok elől. A nap a régészeti lelőhelyeknél zárul, ahol a vizes ösvények fokozott óvatosságot és lassabb tempót igényelnek.",
+            "ro": "Dimineața pe bicicletă începe la Casa de les Punxes, unde echipamentul impermeabil este esențial astăzi. La prânz, muzeul Casteller oferă pauza uscată mult așteptată pentru bicicliști și echipamentul lor. După-amiaza, traseul duce spre zoo, unde pavilioanele oferă adăpost în caz de ploaie. Ziua se încheie la siturile arheologice, unde potecile umede necesită prudență sporită și o viteză redusă.",
+            "en": "The cycling morning kicks off at Casa de les Punxes, where waterproof gear is essential today. By noon, the Human Tower Museum provides the much-needed dry break for cyclists and their equipment. The afternoon route leads to the zoo, where shelters are available during sudden showers. The day ends at the archaeological sites, where wet paths require extra caution and a slower pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de les Punxes",
+                "hu": "Casa de les Punxes",
+                "ro": "Casa de les Punxes",
+                "en": "Casa de les Punxes"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; das markante Gebäude lässt sich auch kurz im Stehen unter einem Dachvorsprung bewundern.",
+                "hu": "Indulás előtt ellenőrizze a fékeit; a különleges épületet egy közeli eresz alól is megcsodálhatja, ha épp rákezdene az eső.",
+                "ro": "Verificați frânele înainte de plecare; clădirea deosebită poate fi admirată scurt și de sub o streșină apropiată dacă începe ploaia.",
+                "en": "Check your brakes before starting; the unique building can be briefly admired from under a nearby eave if it starts to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic Poblat Ibèric del Vilar",
+                "hu": "Jaciment arqueològic Poblat Ibèric del Vilar",
+                "ro": "Jaciment arqueològic Poblat Ibèric del Vilar",
+                "en": "Jaciment arqueològic Poblat Ibèric del Vilar"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen liegen im Freien; parken Sie Ihr Rad auf festem Boden und achten Sie auf rutschige Steine zwischen den Ruinen.",
+                "hu": "A feltárások a szabadban vannak; parkoljon szilárd talajon, és ügyeljen a csúszós kövekre a romok közötti séta során.",
+                "ro": "Săpăturile sunt în aer liber; parcați bicicleta pe teren solid și atenție la pietrele alunecoase în timpul plimbării printre ruine.",
+                "en": "The excavations are outdoors; park your bike on firm ground and watch out for slippery stones while walking among the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de la Mare de Déu del Lledó",
+                "hu": "Parròquia de la Mare de Déu del Lledó",
+                "ro": "Parròquia de la Mare de Déu del Lledó",
+                "en": "Parròquia de la Mare de Déu del Lledó"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Unterstellen; nutzen Sie die Zeit, um die Sichtbarkeit Ihrer Reflektoren im trüben Regenwetter zu prüfen.",
+                "hu": "Rövid megálló a fedél alatt; használja ki az időt a láthatósági eszközök ellenőrzésére a szürke, esős időben.",
+                "ro": "O oprire scurtă sub adăpost; folosiți timpul pentru a verifica vizibilitatea dispozitivelor reflectorizante pe vremea ploioasă și gri.",
+                "en": "A brief stop under cover; use the time to check your visibility gear and reflectors in the grey, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+              },
+              "tip_5lang": {
+                "de": "Die beste Gelegenheit, um komplett abzutrocknen; im Museum gibt es genug Platz, um Helm und Regenjacke sicher zu verstauen.",
+                "hu": "A legjobb alkalom a teljes megszáradásra; a múzeumban bőven van hely a sisak és az esőkabát biztonságos elhelyezésére.",
+                "ro": "Cea mai bună ocazie pentru a vă usca complet; în muzeu există destul spațiu pentru a lăsa casca și pelerina în siguranță.",
+                "en": "The best opportunity to dry off completely; the museum has plenty of space to safely store your helmet and rain jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo de l'Alt Camp",
+                "hu": "Zoo de l'Alt Camp",
+                "ro": "Zoo de l'Alt Camp",
+                "en": "Zoo de l'Alt Camp"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Wegen im Zoo; viele Tiere suchen bei Regen ebenfalls Schutz, was den Besuch besonders ruhig macht.",
+                "hu": "Közlekedjen óvatosan az állatkerti utakon; sok állat ilyenkor szintén behúzódik, ami miatt a látogatás különösen nyugodt lesz.",
+                "ro": "Circulați cu atenție pe aleile de la zoo; multe animale se adăpostesc și ele pe ploaie, ceea ce face vizita deosebit de liniștită.",
+                "en": "Ride carefully on the zoo paths; many animals also seek shelter during rain, making the visit particularly quiet and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Arqueològic de El Burgar",
+                "hu": "Jaciment Arqueològic de El Burgar",
+                "ro": "Jaciment Arqueològic de El Burgar",
+                "en": "Jaciment Arqueològic de El Burgar"
+              },
+              "tip_5lang": {
+                "de": "Am späten Nachmittag ist der Boden oft stark aufgeweicht; meiden Sie Schlammstellen mit dem Rad, um die Bodenhaftung nicht zu verlieren.",
+                "hu": "Késő délutánra a talaj gyakran felázik; kerülje el a saras részeket a kerékpárral, hogy ne veszítse el a tapadást az ösvényen.",
+                "ro": "Până târziu după-amiaza solul este adesea îmbibat; evitați zonele cu noroi cu bicicleta pentru a nu pierde aderența pe potecă.",
+                "en": "By late afternoon the ground is often soaked; avoid muddy spots with your bike to maintain traction on the path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen beginnt frostig an der Casa de les Punxes, wobei Handschuhe und warme Schichten heute Pflicht sind. Mittags bieten die historischen Stätten im Freien wunderbare Fotomotive in der klaren Winterluft. Der Nachmittag wird im Casteller-Museum verbracht, dem perfekten Ort, um die Glieder bei einer spannenden Ausstellung aufzuwärmen. Beenden Sie die Tour am Burgar-Jaciment vor 17:00 Uhr, um nicht in der frühen winterlichen Dunkelheit radeln zu müssen.",
+            "hu": "A bringás reggel fagyosan indul a Casa de les Punxesnél, a kesztyű és a meleg rétegek ma kötelezőek. Délben a szabadtéri történelmi helyszínek csodás fotótémákat kínálnak a tiszta téli levegőben. A délutánt a Casteller múzeumban töltjük, amely tökéletes hely a végtagok átmelegítésére a tárlat megtekintése közben. Zárja a túrát a Burgar-lelőhelyen 17:00 előtt, hogy elkerülje a korai téli sötétséget.",
+            "ro": "Dimineața pe bicicletă începe geros la Casa de les Punxes; mănușile și straturile calde sunt obligatorii astăzi. La prânz, siturile istorice în aer liber oferă subiecte foto superbe în aerul curat de iarnă. După-amiaza este petrecută la muzeul Casteller, locul perfect pentru a vă încălzi în timpul vizitei. Încheiați turul la situl Burgar înainte de ora 17:00 pentru a evita întunericul timpuriu de iarnă.",
+            "en": "The cycling morning starts frosty at Casa de les Punxes; gloves and warm layers are a must today. By noon, the outdoor historical sites offer wonderful photo opportunities in the crisp winter air. Spend the afternoon at the Human Tower Museum, the perfect place to warm up while enjoying the exhibits. Finish the tour at the Burgar site before 5:00 PM to avoid cycling in the early winter darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de les Punxes",
+                "hu": "Casa de les Punxes",
+                "ro": "Casa de les Punxes",
+                "en": "Casa de les Punxes"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour erst, wenn die Sonne die Straßen erwärmt hat; achten Sie auf mögliche Reifglätte in schattigen Kurven.",
+                "hu": "Csak akkor induljon útnak, ha a nap már kicsit felmelegítette az utakat; ügyeljen a zúzmarás, csúszós részekre az árnyékos kanyarokban.",
+                "ro": "Porniți la drum doar după ce soarele a încălzit puțin străzile; atenție la porțiunile cu brumă și alunecoase în curbele umbrite.",
+                "en": "Start your ride only after the sun has warmed the roads a bit; watch out for frosty, slippery spots in shaded corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic Poblat Ibèric del Vilar",
+                "hu": "Jaciment arqueològic Poblat Ibèric del Vilar",
+                "ro": "Jaciment arqueològic Poblat Ibèric del Vilar",
+                "en": "Jaciment arqueològic Poblat Ibèric del Vilar"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht im Winter lässt die Lage der Siedlung besser verstehen; halten Sie die Pausen kurz, um nicht auszukühlen.",
+                "hu": "A téli tiszta látási viszonyok segítik a település elhelyezkedésének megértését; tartson rövid szüneteket, hogy ne hűljön ki.",
+                "ro": "Vizibilitatea clară de iarnă ajută la înțelegerea amplasării așezării; faceți pauze scurte pentru a nu vă răci prea tare.",
+                "en": "The clear winter visibility helps in understanding the settlement's strategic location; keep breaks short to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Parròquia de la Mare de Déu del Lledó",
+                "hu": "Parròquia de la Mare de Déu del Lledó",
+                "ro": "Parròquia de la Mare de Déu del Lledó",
+                "en": "Parròquia de la Mare de Déu del Lledó"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Vorplatz für einen Schluck aus der Thermoskanne; das weiche Licht ist ideal für Architekturfotos.",
+                "hu": "Használja ki a szélvédett előteret egy korty meleg teára a termoszból; a lágy fények ideálisak az épület fotózásához.",
+                "ro": "Folosiți curtea ferită de vânt pentru o înghițitură de ceai cald din termos; lumina blândă este ideală pentru fotografierea clădirii.",
+                "en": "Use the wind-sheltered courtyard for a quick sip from your thermos; the soft light is ideal for architectural photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die perfekte Aufwärmstation für Radfahrer; nutzen Sie die Zeit, um sich für die letzte Etappe der Tour zu regenerieren.",
+                "hu": "Ez a tökéletes melegedőállomás a bringásoknak; használja ki az időt a regenerálódásra a túra utolsó szakasza előtt.",
+                "ro": "Aceasta este stația perfectă de încălzire pentru bicicliști; folosiți timpul pentru a vă recupera înainte de ultima etapă a turului.",
+                "en": "This is the perfect warming station for cyclists; take your time to recover and recharge before the final leg of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo de l'Alt Camp",
+                "hu": "Zoo de l'Alt Camp",
+                "ro": "Zoo de l'Alt Camp",
+                "en": "Zoo de l'Alt Camp"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Zoo zügig am frühen Nachmittag; viele Tiere sind bei der kühlen, aber sonnigen Witterung erstaunlich aktiv.",
+                "hu": "Látogassa meg az állatkertet kora délután; sok állat meglepően aktív a hűvös, de napsütéses téli időben.",
+                "ro": "Vizitați grădina zoologică devreme după-amiaza; multe animale sunt surprinzător de active pe vremea răcoroasă, dar însorită.",
+                "en": "Visit the zoo in the early afternoon; many animals are surprisingly active in the cool but sunny winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Arqueològic de El Burgar",
+                "hu": "Jaciment Arqueològic de El Burgar",
+                "ro": "Jaciment Arqueològic de El Burgar",
+                "en": "Jaciment Arqueològic de El Burgar"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhrzeit; schalten Sie spätestens um 16:45 Uhr Ihr Fahrradlicht ein, um sicher zurück in die Stadt zu kommen.",
+                "hu": "Ügyeljen az időre; legkésőbb 16:45-kor kapcsolja be a kerékpár lámpáit, hogy biztonságban érjen vissza a városba.",
+                "ro": "Atenție la oră; aprindeți luminile bicicletei cel târziu la 16:45 pentru a vă întoarce în siguranță în oraș.",
+                "en": "Watch the clock; turn on your bike lights by 4:45 PM at the latest to ensure a safe return trip to the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túránkat a rusztikus Mezőgazdasági Szekerek Múzeumában kezdjük, elmerülve a gazdálkodási örökségben. Egy nagyon rövid út ezután a közeli történelmi El Coll Roig régészeti lelőhelyre vezet.\nDélben folytatjuk a vidéki peremvidék felfedezését a történelmi Doldellops parasztház-komplexumnál. Tartunk egy gyors, frissítő szünetet a monumentális Sant Bernat szökőkútnál, az út mentén.\nVisszautazva a városközpontba, a délutánt a látványos Món Casteller múzeumnak szenteljük. Elmerülünk a híres katalán casteller-ek izgalmas, magasba törő kulturális hagyományaiban.\nLevezetésképpen teszünk egy rövid utat az Alt Camp Állatkertbe. A békés környezet és a regionális vadvilág védelmére fókuszáló koncepció csodálatosan pihentető lezárást kínál sokszínű Valls-i expedíciónknak.",
         "ro": "Începem turul auto la muzeul rustic al căruțelor agricole, savurând moștenirea fermierilor. O scurtă călătorie ne duce apoi la situl arheologic istoric El Coll Roig situat foarte aproape.\nLa prânz, continuăm explorarea periferiei rurale la complexul istoric de ferme Doldellops. Facem o scurtă pauză răcoritoare la fântâna monumentală Sant Bernat situată chiar pe acest drum liniștit.\nConducând înapoi în centrul urban, după-amiaza este dedicată spectaculosului muzeu Món Casteller. Ne scufundăm în tradițiile culturale emoționante ale faimoșilor castellers din minunata zonă a Cataloniei.\nPentru a ne relaxa, facem o scurtă plimbare cu mașina până la grădina zoologică Alt Camp. Mediul pașnic și concentrarea pe conservarea faunei regionale oferă o concluzie minunată pentru această expediție.",
         "en": "We kick off our driving tour at the rustic Agricultural Carts Museum, soaking in the farming heritage. A very short drive then takes us to the historic El Coll Roig archaeological site nearby.\nFor midday, we continue exploring the rural outskirts at the historic Doldellops farmhouse complex. We take a quick refreshing break at the monumental Sant Bernat fountain just down the quiet road.\nDriving back into the urban center, the afternoon is dedicated to the spectacular Món Casteller museum. We immerse ourselves in the thrilling, high-reaching cultural traditions of the famous Catalan castellers.\nTo wind down, we take a short drive to the Alt Camp Zoo. The peaceful environment and focus on regional wildlife conservation offer a wonderfully relaxing conclusion to our diverse Valls expedition."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regenmorgen beginnt im Wagenmuseum, wo Sie komplett im Trockenen parken und die Exponate genießen können. Mittags führt die Fahrt zu historischen Stätten, wobei der Wagen als warmer und trockener Rückzugsort dient. Der Nachmittag gehört dem Casteller-Museum im Stadtzentrum, das modernen Komfort bietet. Der Abend endet am Zoo, wo Sie trotz Schauern dank kurzer Wege zwischen den Gehegen viel entdecken können.",
+            "hu": "A kényelmes esős reggel a kocsimúzeumban indul, ahol fedett helyen parkolhat és szárazon nézheti meg a tárlatot. Délben a történelmi helyszínek felé vezet az út, az autó pedig tökéletes menedéket nyújt a záporok között. A délutánt a városközponti Casteller múzeumban töltjük, amely modern kényelmet kínál. Az este az állatkertnél zárul, ahol a rövid sétautaknak köszönhetően esőben is sok állatot láthatunk.",
+            "ro": "O dimineață relaxată pe ploaie începe la muzeul trăsurilor, unde puteți parca la adăpost și vizita expoziția la uscat. La prânz, drumul duce spre siturile istorice, mașina fiind refugiul perfect între reprizele de ploaie. După-amiaza aparține muzeului Casteller din centru, care oferă confort modern. Seara se încheie la zoo, unde datorită distanțelor scurte puteți vedea multe animale chiar și pe ploaie.",
+            "en": "A relaxed rainy morning starts at the carriage museum, where you can park under cover and enjoy the exhibits while staying dry. By noon, the drive leads to historical sites, with the car serving as a perfect refuge between showers. The afternoon is spent at the Human Tower Museum in the city center, offering modern comfort. The evening ends at the zoo, where short paths allow you to see many animals even in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de Carros i Eines del Camp",
+                "hu": "Museu de Carros i Eines del Camp",
+                "ro": "Museu de Carros i Eines del Camp",
+                "en": "Museu de Carros i Eines del Camp"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; die umfangreiche Sammlung alter Fuhrwerke lässt Sie das schlechte Wetter draußen schnell vergessen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a régi kocsik és eszközök gyűjteménye feledteti Önnel a kinti barátságtalan időt.",
+                "ro": "Parcați cât mai aproape de intrare; colecția vastă de trăsuri vechi vă va face să uitați rapid de vremea urâtă de afară.",
+                "en": "Park as close to the entrance as possible; the extensive collection of old carriages will make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Arqueològic de El Coll Roig",
+                "hu": "Jaciment Arqueològic de El Coll Roig",
+                "ro": "Jaciment Arqueològic de El Coll Roig",
+                "en": "Jaciment Arqueològic de El Coll Roig"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen nur bei einer Regenpause; der rote Boden der Ausgrabungsstätte kann bei Nässe sehr klebrig und rutschig sein.",
+                "hu": "Csak esőszünetben szálljon ki az autóból; a lelőhely vöröses talaja esőben nagyon ragadóssá és csúszóssá válhat.",
+                "ro": "Coborâți din mașină doar în timpul unei pauze de ploaie; solul roșiatic al sitului poate deveni foarte lipicios și alunecos pe ploaie.",
+                "en": "Only get out of the car during a break in the rain; the site's reddish soil can become very sticky and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Granja Doldellops",
+                "hu": "Granja Doldellops",
+                "ro": "Granja Doldellops",
+                "en": "Granja Doldellops"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis für kurze Erkundungsgänge; die historische Anlage bietet einige überdachte Bereiche zum Verweilen.",
+                "hu": "Használja az autót bázisként a rövid felfedezésekhez; a történelmi épületegyüttes több fedett résszel is rendelkezik a nézelődéshez.",
+                "ro": "Folosiți mașina ca bază pentru scurte explorări; ansamblul istoric oferă câteva zone acoperite unde puteți zăbovi la adăpost.",
+                "en": "Use the car as a base for short explorations; the historic complex offers several covered areas for viewing the site while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Font de Sant Bernat",
+                "hu": "Font de Sant Bernat",
+                "ro": "Font de Sant Bernat",
+                "en": "Font de Sant Bernat"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp direkt vom Wagen aus möglich; die Quelle führt nach Regenfällen oft mehr Wasser und wirkt besonders lebendig.",
+                "hu": "Gyors fotómegálló, akár az autóból is; a forrás esőzés után gyakran bővizűbb és látványosabb, így érdemes egy pillantást vetni rá.",
+                "ro": "O oprire foto rapidă, posibilă chiar din mașină; după ploi, fântâna are adesea un debit mai mare și arată mult mai spectaculos.",
+                "en": "A quick photo stop, possible even from the car; the fountain often has a higher flow after rain and looks especially lively."
+              }
+            },
+            {
+              "name": {
+                "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus; im Museum sind Sie absolut sicher vor dem Regen und können Stunden im Trockenen verbringen.",
+                "hu": "Vegye igénybe a közeli parkolóházat; a múzeumban teljesen védve lesz az esőtől, és órákat tölthet el szárazon a kiállításon.",
+                "ro": "Folosiți parcarea acoperită din apropiere; în muzeu veți fi complet protejați de ploaie și puteți petrece ore întregi vizitând expoziția.",
+                "en": "Use the nearby parking garage; inside the museum, you'll be completely protected from the rain and can spend hours exploring in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo de l'Alt Camp",
+                "hu": "Zoo de l'Alt Camp",
+                "ro": "Zoo de l'Alt Camp",
+                "en": "Zoo de l'Alt Camp"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Zoo können bei Regen matschig sein; halten Sie Ihren Regenschirm bereit, wenn Sie vom Parkplatz zu den Gehegen laufen.",
+                "hu": "Az állatkerti utak esőben sarasak lehetnek; tartsa készenlétben az esernyőjét a parkoló és a kifutók közötti rövid sétákhoz.",
+                "ro": "Aleile de la zoo pot fi noroioase pe ploaie; țineți umbrela la îndemână pentru scurtele plimbări între parcare și țarcuri.",
+                "en": "The zoo paths can be muddy in the rain; keep your umbrella ready for the short walks between the parking lot and the enclosures."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt gemütlich im Wagenmuseum, wobei die Heizung im Auto die Fahrt zwischen den Stationen angenehm macht. Mittags bieten die Außenstopps wie die Granja Doldellops klare Sicht und frische Luft. Der Nachmittag wird im warmen Casteller-Museum verbracht, dem kulturellen Höhepunkt des Tages. Da die Sonne bereits um 17:00 Uhr untergeht, erreichen Sie den Zoo im stimmungsvollen Licht der Dämmerung, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli reggel kellemesen indul a kocsimúzeumban, az autó fűtése pedig komfortossá teszi a megállók közötti utat. Délben a szabadtéri helyszínek, mint a Granja Doldellops, tiszta kilátást és friss levegőt kínálnak. A délutánt a fűtött Casteller múzeumban töltjük, amely a nap kulturális csúcspontja. Mivel a nap már 17:00-kor lebukik, az állatkertet a szürkület hangulatos fényeiben érjük el az esti hideg előtt.",
+            "ro": "Dimineața de iarnă începe plăcut la muzeul trăsurilor, iar căldura din mașină face deplasarea între stații foarte confortabilă. La prânz, opririle în aer liber precum Granja Doldellops oferă priveliști clare și aer curat. După-amiaza este petrecută în muzeul încălzit Casteller, punctul culminant cultural al zilei. Deoarece soarele apune deja la ora 17:00, veți ajunge la zoo în lumina caldă a amurgului.",
+            "en": "The winter morning starts comfortably at the carriage museum, with the car's heater making travel between stops very pleasant. By noon, outdoor stops like Granja Doldellops offer clear views and fresh air. Spend the afternoon in the warm Human Tower Museum, the cultural highlight of the day. Since the sun sets as early as 5:00 PM, you'll reach the zoo in the atmospheric twilight light before the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de Carros i Eines del Camp",
+                "hu": "Museu de Carros i Eines del Camp",
+                "ro": "Museu de Carros i Eines del Camp",
+                "en": "Museu de Carros i Eines del Camp"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt im Winter, da die Sammlung komplett überdacht ist; genießen Sie die Zeit in den geschützten Ausstellungsräumen.",
+                "hu": "Ideális kezdőpont télen, mivel a gyűjtemény teljesen fedett; élvezze a nézelődést a szélvédett kiállítótermekben.",
+                "ro": "Un punct de plecare ideal iarna, deoarece colecția este complet acoperită; bucurați-vă de vizită în spațiile expoziționale ferite de vânt.",
+                "en": "An ideal starting point in winter as the collection is fully indoor; enjoy your time in the sheltered exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Arqueològic de El Coll Roig",
+                "hu": "Jaciment Arqueològic de El Coll Roig",
+                "ro": "Jaciment Arqueològic de El Coll Roig",
+                "en": "Jaciment Arqueològic de El Coll Roig"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für gute Sicht auf die archäologischen Details; halten Sie den Aufenthalt kurz, um nicht zu frieren.",
+                "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít a régészeti részletekhez; tartson rövid pihenőt, hogy elkerülje a lehűlést.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă pentru detaliile arheologice; faceți o vizită scurtă pentru a evita frigul.",
+                "en": "The clear winter air provides excellent visibility for archaeological details; keep the visit short to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Granja Doldellops",
+                "hu": "Granja Doldellops",
+                "ro": "Granja Doldellops",
+                "en": "Granja Doldellops"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Anlage am späten Vormittag, wenn die Sonne am höchsten steht; die historischen Mauern speichern die Kälte recht stark.",
+                "hu": "Késő délelőtt látogassa meg a helyszínt, amikor a legmagasabb a napállás; a történelmi falak télen erősen árasztják a hideget.",
+                "ro": "Vizitați ansamblul târziu dimineața, când soarele este sus; zidurile istorice rețin destul de mult frigul în timpul iernii.",
+                "en": "Visit the complex in the late morning when the sun is highest; the historic walls tend to radiate cold quite strongly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Font de Sant Bernat",
+                "hu": "Font de Sant Bernat",
+                "ro": "Font de Sant Bernat",
+                "en": "Font de Sant Bernat"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; achten Sie auf glatte Stellen rund um die Quelle, falls das Wasser nachts gefroren ist.",
+                "hu": "Gyors fotómegálló; ügyeljen a csúszós részekre a forrás környékén, ha az éjszakai fagy miatt ráfagyott a víz a kövekre.",
+                "ro": "O oprire foto rapidă; atenție la porțiunile alunecoase din jurul fântânii dacă apa a înghețat pe pietre în timpul nopții.",
+                "en": "A quick photo stop; watch out for slippery spots around the fountain if the water has frozen on the stones overnight."
+              }
+            },
+            {
+              "name": {
+                "de": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "hu": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "ro": "Món Casteller - Human Tower Museum of Catalonia-Valls",
+                "en": "Món Casteller - Human Tower Museum of Catalonia-Valls"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am Nachmittag aufzuwärmen; das moderne Museum bietet eine hervorragende Heizung und spannende Einblicke.",
+                "hu": "A tökéletes hely a délutáni felmelegedésre; a modern múzeum kiváló fűtéssel és izgalmas látnivalókkal várja a látogatókat.",
+                "ro": "Locul perfect pentru a vă încălzi după-amiaza; muzeul modern oferă o încălzire excelentă și exponate fascinante.",
+                "en": "The perfect spot to warm up in the afternoon; the modern museum offers excellent heating and fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo de l'Alt Camp",
+                "hu": "Zoo de l'Alt Camp",
+                "ro": "Zoo de l'Alt Camp",
+                "en": "Zoo de l'Alt Camp"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um die Tiere noch bei Tageslicht zu sehen; nach Sonnenuntergang sinken die Temperaturen im Freien schnell.",
+                "hu": "Érkezzen meg 16:30 előtt, hogy még nappali fénynél lássa az állatokat; naplemente után a kinti hőmérséklet gyorsan csökkenni kezd.",
+                "ro": "Ajungeți înainte de 16:30 pentru a vedea animalele la lumina zilei; după apus, temperatura exterioară scade rapid.",
+                "en": "Arrive before 4:30 PM to see the animals in daylight; after sunset, the outdoor temperature begins to drop rapidly."
+              }
+            }
+          ]
+        }
       }
     }
   }

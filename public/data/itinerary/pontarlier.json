@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi Saint-Pierre kapunál indul, majd felfedezheti a Saint-Bénigne templom nyugalmát és a város izgalmas múzeumát.",
         "ro": "Dimineața începe la istorica Poartă Saint-Pierre, urmată de liniștea spirituală a Bisericii Saint-Bénigne și de muzeul captivant al orașului.",
         "en": "The morning begins at the historic Saint-Pierre Gate, followed by the spiritual tranquility of Saint-Bénigne Church and the city's captivating museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Saint-Pierre-Tor, wo wir kurz unter dem Bogen Schutz suchen. Mittags bieten die Saint-Bénigne-Kirche und das Museum trockene Zufluchtsorte voller Kultur. Am Nachmittag wärmt uns die Besichtigung der Destillerie auf. Den Tag lassen wir im Ball Park ausklingen, der überdachte Aktivitäten für graue Stunden bietet, während der Regen gegen die Scheiben trommelt.",
+            "hu": "A reggel a Saint-Pierre kapunál indul, ahol az ív alatt keressünk rövid menedéket az eső elől. Délben a Saint-Bénigne templom és a múzeum kínál száraz, kulturális menedéket. Délután a lepárló látogatása melegíti fel a hangulatot. A napot a Ball Parkban zárjuk, amely fedett kikapcsolódást nyújt a szürke órákban, miközben kint kopog az eső.",
+            "ro": "Dimineața începe la Poarta Saint-Pierre, unde căutăm scurt adăpost sub arcadă. La prânz, Biserica Saint-Bénigne și muzeul oferă refugii uscate pline de cultură. După-amiaza, vizita la distilerie ne încălzește spiritele. Încheiem ziua la Ball Park, care oferă activități acoperite pentru orele gri, în timp ce ploaia bate în geamuri.",
+            "en": "The morning starts at the Saint-Pierre Gate, seeking brief shelter under the arch. At noon, the Saint-Bénigne Church and the museum offer dry, cultural havens. In the afternoon, a distillery tour warms up the atmosphere. We end the day at Ball Park, which provides indoor recreation for the gray hours while the rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Tor",
+                "hu": "Saint-Pierre kapu",
+                "ro": "Poarta Saint-Pierre",
+                "en": "Saint-Pierre Gate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als kurzen Unterstand bei Schauern und bewundern Sie die Details der Architektur; Vorsicht auf dem glatten Kopfsteinpflaster.",
+                "hu": "Használja a kapualjat rövid menedékként zápor idején, és csodálja meg az építészeti részleteket; vigyázzon a vizes, csúszós macskaköveken.",
+                "ro": "Folosiți arcada porții ca scurt adăpost în timpul averselor și admirați detaliile arhitecturale; atenție la pavajul umed și alunecos.",
+                "en": "Use the gate's archway as a brief shelter during showers and admire the architectural details; be careful on the slippery wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Bénigne Kirche",
+                "hu": "Saint-Bénigne templom",
+                "ro": "Biserica Saint-Bénigne",
+                "en": "Saint-Bénigne Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen perfekten trockenen Ort für stille Betrachtung; schütteln Sie Ihren Regenschirm draußen gut ab, um den Boden im Inneren zu schonen.",
+                "hu": "A templom tökéletes száraz helyszín a csendes elmélyüléshez; alaposan rázza le az esernyőjét kint, hogy óvja a benti padló épségét.",
+                "ro": "Biserica oferă un loc uscat perfect pentru contemplare silențioasă; scuturați bine umbrela afară pentru a proteja pardoseala interioară.",
+                "en": "The church provides a perfect dry spot for quiet contemplation; shake your umbrella thoroughly outside to keep the interior floors dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Museum",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Municipal",
+                "en": "Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die regenintensivste Zeit des Tages bei den Exponaten; nutzen Sie die Garderobe für Ihre nassen Jacken für maximalen Komfort.",
+                "hu": "Itt töltse a nap legesősebb részét a kiállítások között; használja a ruhatárat a vizes kabátoknak a maximális kényelem érdekében.",
+                "ro": "Petreceți aici cea mai ploioasă parte a zilei printre exponate; folosiți garderoba pentru jachetele ude pentru un confort maxim.",
+                "en": "Spend the rainiest part of the day here among the exhibits; use the cloakroom for your wet jackets for maximum comfort during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre Guy Destillerie",
+                "hu": "Pierre Guy lepárló",
+                "ro": "Distileria Pierre Guy",
+                "en": "Pierre Guy Distillery"
+              },
+              "tip_5lang": {
+                "de": "Die warme Atmosphäre und die Verkostung lassen das schlechte Wetter schnell vergessen; ein idealer Ort, um die lokale Tradition im Trockenen zu erleben.",
+                "hu": "A meleg hangulat és a kóstolás hamar elfeledteti a rossz időt; ideális helyszín a helyi hagyományok megismeréséhez szárazon.",
+                "ro": "Atmosfera caldă și degustarea vă vor face să uitați rapid de vremea rea; un loc ideal pentru a experimenta tradiția locală la adăpost.",
+                "en": "The warm atmosphere and the tasting will quickly make you forget the bad weather; an ideal spot to experience local tradition while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Espérance Kapelle",
+                "hu": "Espérance kápolna",
+                "ro": "Capela Espérance",
+                "en": "Espérance Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Stadt im Regen hat einen besonderen melancholischen Charme; tragen Sie wasserfeste Schuhe für den kurzen Anstieg zur Kapelle.",
+                "hu": "A város látványa az esőben különleges, melankolikus bájjal bír; viseljen vízálló cipőt a kápolnához vezető rövid emelkedőn.",
+                "ro": "Vederea orașului în ploaie are un farmec melancolic deosebit; purtați pantofi impermeabili pentru scurta urcare către capelă.",
+                "en": "The view of the city in the rain has a special melancholic charm; wear waterproof shoes for the short climb up to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Ball Park",
+                "hu": "Le Ball Park",
+                "ro": "Le Ball Park",
+                "en": "Le Ball Park"
+              },
+              "tip_5lang": {
+                "de": "Dieses Freizeitzentrum ist der Rettungsanker bei Dauerregen für die ganze Familie; genießen Sie die Indoor-Aktivitäten bis zum Abendessen.",
+                "hu": "Ez a szabadidőközpont mentőöv tartós eső esetén az egész családnak; élvezze a fedett tevékenységeket egészen a vacsoráig.",
+                "ro": "Acest centru de agrement este colacul de salvare în caz de ploaie persistentă pentru întreaga familie; bucurați-vă de activitățile indoor.",
+                "en": "This leisure center is a lifesaver during persistent rain for the whole family; enjoy the indoor activities until dinner time."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Saint-Pierre-Tor lässt uns die Winterluft spüren. Mittags suchen wir Wärme in der prächtigen Kirche und im beheizten Museum. Der Nachmittag steht im Zeichen der wärmenden Absinth-Tradition in der Destillerie. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir die blaue Stunde an der Kapelle und beenden den Tag gemütlich im Ball Park.",
+            "hu": "A fagyos reggel a Saint-Pierre kapunál segít átérezni a téli levegőt. Délben a pompás templomban és a fűtött múzeumban keresünk enyhülést. A délután az abszint-hagyomány melengető jegyében telik a lepárlóban. Mivel a nap 17:00 körül nyugszik, a kék órát a kápolnánál élvezzük, majd a napot a Ball Parkban zárjuk.",
+            "ro": "O dimineață geroasă la Poarta Saint-Pierre ne face să simțim aerul iernii. La prânz, căutăm căldură în biserica splendidă și în muzeul încălzit. După-amiaza stă sub semnul tradiției absintului la distilerie. Deoarece soarele apune în jur de ora 17:00, savurăm ora albastră la capelă și încheiem ziua la Ball Park.",
+            "en": "A frosty morning at the Saint-Pierre Gate lets us feel the crisp winter air. At noon, we seek warmth in the magnificent church and the heated museum. The afternoon is dedicated to the warming absinthe tradition at the distillery. As the sun sets around 5:00 PM, we enjoy the blue hour at the chapel and finish the day cozily at Ball Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Tor",
+                "hu": "Saint-Pierre kapu",
+                "ro": "Poarta Saint-Pierre",
+                "en": "Saint-Pierre Gate"
+              },
+              "tip_5lang": {
+                "de": "Das Tor wirkt im winterlichen Licht besonders imposant; tragen Sie Schal und Handschuhe, da der Wind hier oft stärker weht.",
+                "hu": "A kapu a téli fényben különösen impozáns; viseljen sálat és kesztyűt, mivel itt gyakran erősebben fúj a hideg szél.",
+                "ro": "Poarta arată deosebit de impunător în lumina iernii; purtați fular și mănuși, deoarece vântul suflă adesea mai tare aici.",
+                "en": "The gate looks particularly imposing in the winter light; wear a scarf and gloves as the wind often blows stronger here."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Bénigne Kirche",
+                "hu": "Saint-Bénigne templom",
+                "ro": "Biserica Saint-Bénigne",
+                "en": "Saint-Bénigne Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch zur inneren Einkehr und zum Aufwärmen; die dicken Mauern bieten Schutz vor der klirrenden Kälte draußen.",
+                "hu": "Használja ki a látogatást a belső elcsendesedésre és felmelegedésre; a vastag falak védelmet nyújtanak a kinti metsző hideg ellen.",
+                "ro": "Folosiți vizita pentru liniște interioară și încălzire; zidurile groase oferă protecție împotriva gerului de afară.",
+                "en": "Use the visit for inner reflection and to warm up; the thick walls provide protection from the biting cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Museum",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Municipal",
+                "en": "Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den kältesten Teil des Tages im Warmen zu verbringen; bewundern Sie die lokalen Kunstschätze ohne zu frieren.",
+                "hu": "Ideális helyszín a nap leghidegebb részének melegben való eltöltéséhez; csodálja meg a helyi műkincseket fagyoskodás nélkül.",
+                "ro": "Un loc ideal pentru a petrece cea mai rece parte a zilei la căldură; admirați comorile de artă locală fără a îngheța.",
+                "en": "An ideal place to spend the coldest part of the day in the warm; admire the local art treasures without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre Guy Destillerie",
+                "hu": "Pierre Guy lepárló",
+                "ro": "Distileria Pierre Guy",
+                "en": "Pierre Guy Distillery"
+              },
+              "tip_5lang": {
+                "de": "Absinth galt früher als medizinisches Elixier – perfekt, um die winterliche Kälte aus den Knochen zu vertreiben.",
+                "hu": "Az abszintot egykor gyógyító elixírnek tartották – tökéletes arra, hogy elűzze a téli hideget a csontjaiból a látogatás alatt.",
+                "ro": "Absintul era considerat cândva un elixir medicinal – perfect pentru a alunga frigul iernii din oase în timpul vizitei.",
+                "en": "Absinthe was once considered a medicinal elixir – perfect for driving the winter cold out of your bones during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Espérance Kapelle",
+                "hu": "Espérance kápolna",
+                "ro": "Capela Espérance",
+                "en": "Espérance Chapel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle kurz vor Sonnenuntergang um 17 Uhr für eine magische Winterstimmung; achten Sie auf vereiste Stufen beim Aufstieg.",
+                "hu": "Látogassa meg a kápolnát röviddel a 17 órai napnyugta előtt a mágikus téli hangulatért; ügyeljen a jeges lépcsőkre felfelé menet.",
+                "ro": "Vizitați capela cu puțin timp înainte de apusul de la ora 17 pentru o atmosferă magică; atenție la treptele înghețate la urcare.",
+                "en": "Visit the chapel shortly before the 5 PM sunset for a magical winter atmosphere; watch out for icy steps on the climb up."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Ball Park",
+                "hu": "Le Ball Park",
+                "ro": "Le Ball Park",
+                "en": "Le Ball Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Warmen bei Spiel und Spaß, bevor Sie in die winterliche Dunkelheit der Stadt zurückkehren.",
+                "hu": "Zárja a napot melegben, játékkal és szórakozással, mielőtt visszatérne a város téli sötétségébe.",
+                "ro": "Încheiați ziua la căldură cu jocuri și distracție, înainte de a vă întoarce în întunericul de iarnă al orașului.",
+                "en": "End the day in the warm with games and fun before returning to the winter darkness of the city."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpáros kalandja a múzeumnál kezdődik, majd a történelmi központon keresztül az impozáns Saint-Pierre kapuhoz és a közeli templomhoz vezet.",
         "ro": "Aventura pe bicicletă începe la muzeu, ducându-vă prin centrul istoric până la impunătoarea Poartă Saint-Pierre și biserica din apropiere.",
         "en": "Your cycling adventure starts at the museum, taking you through the historic center to the imposing Saint-Pierre Gate and the nearby church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im Museum, um den frühen Regen trocken zu überstehen. Mit dem Fahrrad geht es vorsichtig zum Saint-Pierre-Tor und zur Kirche. Mittags wärmt uns die Destillerie auf. Trotz Nässe radeln wir zum Clos Sainte Marie und Ball Park, wo Indoor-Action wartet. Den Abschluss bildet die Kapelle, deren Ausblick auch im Nebel mystisch wirkt.",
+            "hu": "A nap a múzeumban indul, hogy a korai esőt szárazon vészeljük át. Kerékpárral óvatosan haladunk a Saint-Pierre kapu és a templom felé. Délben a lepárló melegít fel. A nedvesség ellenére kitekerünk a Clos Sainte Marie-hoz és a Ball Parkba, ahol fedett programok várnak. A napot a kápolna zárja, melynek kilátása ködben is misztikus.",
+            "ro": "Ziua începe la muzeu pentru a trece uscați de ploaia timpurie. Mergem cu bicicleta cu grijă spre Poarta Saint-Pierre și biserică. La prânz ne încălzim la distilerie. În ciuda umidității, pedalăm spre Clos Sainte Marie și Ball Park, unde ne așteaptă activități indoor. Încheierea aparține capelei, a cărei vedere este mistică și în ceață.",
+            "en": "The day begins at the museum to endure the early rain while dry. We cycle carefully to the Saint-Pierre Gate and the church. At noon, the distillery warms us up. Despite the wetness, we bike to Clos Sainte Marie and Ball Park for indoor action. The day concludes at the chapel, whose view remains mystical even in the fog."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtisches Museum",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Municipal",
+                "en": "Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Vormittag, um die lokalen Sammlungen im Trockenen zu studieren.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja ki a délelőttöt a helyi gyűjtemények szárazon történő tanulmányozására.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de dimineață pentru a studia colecțiile locale la adăpost.",
+                "en": "Park your bike in a sheltered spot and use the morning to study the local collections while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Tor",
+                "hu": "Saint-Pierre kapu",
+                "ro": "Poarta Saint-Pierre",
+                "en": "Saint-Pierre Gate"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Bogen; das Kopfsteinpflaster wird bei Regen extrem rutschig für Fahrradreifen.",
+                "hu": "Hajtson lassan át az ív alatt; a macskakő esőben rendkívül csúszóssá válik a kerékpárgumik számára.",
+                "ro": "Mergeți încet prin arcadă; pavajul devine extrem de alunecos pentru anvelopele de bicicletă pe timp de ploaie.",
+                "en": "Ride slowly through the arch; the cobblestones become extremely slippery for bicycle tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Bénigne Kirche",
+                "hu": "Saint-Bénigne templom",
+                "ro": "Biserica Saint-Bénigne",
+                "en": "Saint-Bénigne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für spirituelle Ruhe und Schutz vor einem Schauer; achten Sie beim Absteigen auf sicheren Stand auf nassem Grund.",
+                "hu": "Rövid megálló a lelki nyugalomért és védelemért egy zápor elől; leszálláskor ügyeljen a biztos egyensúlyra a nedves talajon.",
+                "ro": "O scurtă oprire pentru liniște spirituală și protecție contra unei averse; atenție la stabilitate când coborâți de pe bicicletă.",
+                "en": "A brief stop for spiritual peace and protection from a shower; ensure firm footing on the wet ground when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre Guy Destillerie",
+                "hu": "Pierre Guy lepárló",
+                "ro": "Distileria Pierre Guy",
+                "en": "Pierre Guy Distillery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Besichtigung, aber seien Sie vorsichtig bei der Verkostung, wenn Sie danach noch weiterfahren müssen.",
+                "hu": "Élvezze a látogatást, de legyen óvatos a kóstolással, ha utána még tovább kell tekernie a vizes úton.",
+                "ro": "Bucurați-vă de vizită, dar fiți precaut cu degustarea dacă trebuie să mai pedalați pe drumul ud după aceea.",
+                "en": "Enjoy the visit, but be cautious with the tasting if you need to continue cycling on the wet roads afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Clos Sainte Marie",
+                "hu": "Clos Sainte Marie",
+                "ro": "Clos Sainte Marie",
+                "en": "Clos Sainte Marie"
+              },
+              "tip_5lang": {
+                "de": "Sollte es stark regnen, suchen Sie unter Vordächern Schutz; die Strecke hierher bietet einige Unterstände für Radfahrer.",
+                "hu": "Ha erősen esik, keressen védelmet az előtetők alatt; az idevezető szakasz több menedéket is kínál a kerékpárosoknak.",
+                "ro": "Dacă plouă tare, căutați protecție sub streșini; traseul spre acest punct oferă mai multe adăposturi pentru bicicliști.",
+                "en": "If it rains heavily, seek protection under eaves; the route here offers several shelters for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Ball Park",
+                "hu": "Le Ball Park",
+                "ro": "Le Ball Park",
+                "en": "Le Ball Park"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Gelegenheit, die nasse Kleidung kurz zu trocknen, während Sie die Indoor-Einrichtungen des Parks nutzen.",
+                "hu": "Tökéletes alkalom a vizes ruhák rövid megszárítására, miközben a park fedett létesítményeit használja.",
+                "ro": "Ocazia perfectă pentru a vă usca puțin hainele ude în timp ce folosiți facilitățile indoor ale parcului.",
+                "en": "The perfect opportunity to dry your wet clothes briefly while using the park's indoor facilities."
+              }
+            },
+            {
+              "name": {
+                "de": "Espérance Kapelle",
+                "hu": "Espérance kápolna",
+                "ro": "Capela Espérance",
+                "en": "Espérance Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg mit dem Rad erfordert bei Nässe gute Bremsen für die Abfahrt; die Aussicht belohnt die Mühe auch bei grauem Wetter.",
+                "hu": "A kerékpáros emelkedőhöz nedves időben jó fékek kellenek a lefelé úthoz; a kilátás szürke időben is kárpótol a fáradtságért.",
+                "ro": "Urcarea cu bicicleta necesită frâne bune pentru coborâre pe timp de ploaie; vederea merită efortul chiar și pe vreme gri.",
+                "en": "The cycling climb requires good brakes for the descent in wet weather; the view rewards the effort even in gray weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir dick eingepackt zum Museum. Die Tour führt uns durch das Saint-Pierre-Tor zur Kirche, wo wir uns kurz aufwärmen. Mittags stärkt uns die Destillerie. Der Winterwind weht auf dem Weg zum Clos Sainte Marie und Ball Park. Da es früh dunkel wird, erklimmen wir die Kapelle rechtzeitig zum winterlichen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Kora reggel vastagon beöltözve tekerünk a múzeumhoz. A túra a Saint-Pierre kapun át a templomhoz vezet, ahol rövid pihenőt tartunk. Délben a lepárló ad erőt. A téli szél fúj a Clos Sainte Marie és a Ball Park felé vezető úton. Mivel korán sötétedik, a kápolnát időben, a 17:00 körüli napnyugtára érjük el.",
+            "ro": "Dis-de-dimineață pedalăm bine înfofoliți spre muzeu. Turul ne duce prin Poarta Saint-Pierre spre biserică, unde ne încălzim puțin. La prânz, distileria ne dă putere. Vântul de iarnă suflă pe drumul spre Clos Sainte Marie și Ball Park. Deoarece se întunecă devreme, ajungem la capelă la timp pentru apusul de la ora 17:00.",
+            "en": "Early morning, we cycle bundled up to the museum. The tour leads through the Saint-Pierre Gate to the church for a quick warm-up. At noon, the distillery provides strength. The winter wind blows on the way to Clos Sainte Marie and Ball Park. As it gets dark early, we reach the chapel in time for the 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtisches Museum",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Municipal",
+                "en": "Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, um sich nach der ersten kalten Fahrt aufzuwärmen; die Ausstellungen sind im Winter angenehm temperiert.",
+                "hu": "Kezdje itt a látogatást, hogy az első hideg tekerés után felmelegedjen; a kiállítások télen kellemesen fűtöttek.",
+                "ro": "Începeți aici pentru a vă încălzi după prima cursă rece; expozițiile sunt menținute la o temperatură plăcută iarna.",
+                "en": "Start here to warm up after your first cold ride; the exhibitions are pleasantly tempered during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Tor",
+                "hu": "Saint-Pierre kapu",
+                "ro": "Poarta Saint-Pierre",
+                "en": "Saint-Pierre Gate"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Bereichen des Torbogens; halten Sie den Lenker bei Windböen fest umschlungen.",
+                "hu": "Ügyeljen a jegesedésre a kapu árnyékos részein; széllökések esetén fogja erősen a kormányt az áthaladáskor.",
+                "ro": "Atenție la polei în zonele umbrite ale arcadei; țineți bine ghidonul în cazul rafalelor de vânt la trecere.",
+                "en": "Watch out for black ice in the shaded areas of the arch; keep a firm grip on the handlebars during wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Bénigne Kirche",
+                "hu": "Saint-Bénigne templom",
+                "ro": "Biserica Saint-Bénigne",
+                "en": "Saint-Bénigne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und kurz zur Ruhe zu kommen, bevor es wieder in den kalten Fahrtwind geht.",
+                "hu": "Ideális hely a kezek felmelegítésére és egy rövid pihenőre, mielőtt visszatérne a hideg menetszélbe.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și pentru o scurtă odihnă înainte de a reveni în vântul rece al deplasării.",
+                "en": "An ideal place to warm your hands and take a short rest before heading back into the cold headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre Guy Destillerie",
+                "hu": "Pierre Guy lepárló",
+                "ro": "Distileria Pierre Guy",
+                "en": "Pierre Guy Distillery"
+              },
+              "tip_5lang": {
+                "de": "Die herzliche Begrüßung und die Aromen der Kräuter sind eine Wohltat für wintermüde Radfahrer.",
+                "hu": "A szívélyes fogadtatás és a gyógynövények aromái igazi felüdülést jelentenek a téli hidegtől megfáradt kerékpárosoknak.",
+                "ro": "Primirea călduroasă și aromele ierburilor sunt o binecuvântare pentru bicicliștii obosiți de frigul iernii.",
+                "en": "The warm welcome and the aromas of the herbs are a treat for winter-weary cyclists during their journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Clos Sainte Marie",
+                "hu": "Clos Sainte Marie",
+                "ro": "Clos Sainte Marie",
+                "en": "Clos Sainte Marie"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei winterlichen Verhältnissen besonders umsichtig; die Wege können hier stellenweise rutschig sein.",
+                "hu": "Téli körülmények között közlekedjen különös körültekintéssel; az utak itt helyenként csúszósak lehetnek.",
+                "ro": "Conduceți cu multă prudență în condiții de iarnă; drumurile pot fi alunecoase pe alocuri în această zonă.",
+                "en": "Ride with extra caution in winter conditions; the paths here can be slippery in places during the cold months."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Ball Park",
+                "hu": "Le Ball Park",
+                "ro": "Le Ball Park",
+                "en": "Le Ball Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Aktivitäten als Belohnung für die tapfere Fahrt durch die winterliche Kälte von Pontarlier.",
+                "hu": "Használja ki a fedett tevékenységeket jutalomként a Pontarlier téli hidegében tett bátor kerékpározásért.",
+                "ro": "Folosiți activitățile indoor ca recompensă pentru cursa curajoasă prin frigul iernii din Pontarlier.",
+                "en": "Take advantage of the indoor activities as a reward for your brave ride through Pontarlier's winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Espérance Kapelle",
+                "hu": "Espérance kápolna",
+                "ro": "Capela Espérance",
+                "en": "Espérance Chapel"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Anstieg so, dass Sie vor der Dämmerung oben sind; das Licht am späten Nachmittag ist im Winter einzigartig.",
+                "hu": "Tervezze úgy az emelkedőt, hogy még sötétedés előtt felérjen; a késő délutáni fény télen egészen egyedülálló.",
+                "ro": "Planificați urcarea astfel încât să ajungeți sus înainte de amurg; lumina de după-amiază târzie este unică iarna.",
+                "en": "Plan the climb to reach the top before dusk; the late afternoon light is truly unique during the winter season."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Kezdje a napot a városi múzeumban, hogy megértse a gazdag történelmet, majd vegyen részt egy autentikus abszint kóstolón a belvárosban.",
         "ro": "Începeți ziua la muzeul municipal pentru a înțelege istoria bogată, urmată de o degustare autentică de absint în centrul orașului.",
         "en": "Start your day at the municipal museum to understand the rich history, followed by an authentic absinthe tasting experience in the city center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto trotzen wir dem Regen bei der Fahrt zum Museum und zur Destillerie. Mittags besichtigen wir das neblige Fort de Joux, das bei Regen besonders geheimnisvoll wirkt. Am Nachmittag führt uns die Fahrt zum Larmont und zum Lac de Saint-Point, wo wir die Aussicht gemütlich aus dem trockenen Fahrzeug oder einem Café am Ufer genießen können.",
+            "hu": "Kényelmesen, az autóban ülve dacolunk az esővel a múzeum és a lepárló felé. Délben a ködös Fort de Joux-t keressük fel, amely esőben különösen titokzatos. Délután az utunk a Larmont-hoz és a Saint-Point tóhoz vezet, ahol a kilátást a száraz járműből vagy egy parti kávézóból élvezhetjük.",
+            "ro": "Confortabil în mașină, sfidăm ploaia în drum spre muzeu și distilerie. La prânz vizităm cetatea Fort de Joux, care pare deosebit de misterioasă în ceață. După-amiaza, drumul ne poartă spre Larmont și Lacul Saint-Point, unde putem savura vederea din interiorul uscat al vehiculului sau dintr-o cafenea.",
+            "en": "Comfortably in the car, we defy the rain on the drive to the museum and distillery. At noon, we visit the misty Fort de Joux, which looks especially mysterious in the rain. In the afternoon, the drive takes us to Larmont and Lake Saint-Point, where we can enjoy the view from the dry vehicle or a lakeside café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtisches Museum",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Municipal",
+                "en": "Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nahegelegene Parkplätze, um den Weg im Regen kurz zu halten und die lokalen Exponate trocken zu genießen.",
+                "hu": "Használja a közeli parkolókat, hogy rövid legyen az út az esőben, és szárazon élvezhesse a helyi kiállításokat.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a scurta drumul prin ploaie și a savura expozițiile la uscat.",
+                "en": "Use nearby parking spaces to keep your walk in the rain short and enjoy the local exhibits while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre Guy Destillerie",
+                "hu": "Pierre Guy lepárló",
+                "ro": "Distileria Pierre Guy",
+                "en": "Pierre Guy Distillery"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei schlechtem Wetter; decken Sie sich mit lokalen Spezialitäten ein, ohne nass zu werden.",
+                "hu": "Tökéletes megálló rossz idő esetén; szerezze be a helyi különlegességeket anélkül, hogy megázna a pakolás közben.",
+                "ro": "O oprire perfectă pe vreme rea; aprovizionați-vă cu specialități locale fără a vă uda în timpul vizitei.",
+                "en": "A perfect stop during bad weather; stock up on local specialties without getting wet during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Joux",
+                "hu": "Fort de Joux",
+                "ro": "Fort de Joux",
+                "en": "Fort de Joux"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt bei Nebel und Regen sehr atmosphärisch; achten Sie auf den rutschigen Untergrund bei der Außenbesichtigung.",
+                "hu": "A vár ködben és esőben rendkívül hangulatos; ügyeljen a csúszós talajra a külső részek megtekintésekor.",
+                "ro": "Cetatea este foarte atmosferică în ceață și ploaie; atenție la suprafețele alunecoase în timpul vizitării exteriorului.",
+                "en": "The fortress is very atmospheric in fog and rain; watch out for slippery ground during the outdoor tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Larmont",
+                "hu": "Le Larmont",
+                "ro": "Le Larmont",
+                "en": "Le Larmont"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf die Höhen; bei starkem Regen kann die Sicht eingeschränkt sein, aber die Fahrt ist lohnenswert.",
+                "hu": "Vezessen óvatosan a magaslatokra; erős esőben a látási viszonyok korlátozottak lehetnek, de az út megéri a fáradtságot.",
+                "ro": "Conduceți cu prudență spre înălțimi; în caz de ploaie torențială vizibilitatea poate fi redusă, dar drumul merită.",
+                "en": "Drive carefully to the heights; in heavy rain, visibility may be limited, but the drive is well worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Saint-Point",
+                "hu": "Lac de Saint-Point",
+                "ro": "Lac de Saint-Point",
+                "en": "Lac de Saint-Point"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den stürmischen See direkt vom Auto aus oder in einem der gemütlichen Restaurants am Ufer.",
+                "hu": "Élvezze a viharos tó látványát közvetlenül az autóból, vagy a part menti hangulatos éttermek egyikében.",
+                "ro": "Bucurați-vă de vederea lacului agitat direct din mașină sau într-unul dintre restaurantele primitoare de pe mal.",
+                "en": "Enjoy the view of the stormy lake directly from your car or in one of the cozy restaurants along the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem beheizten Auto erkunden wir das winterliche Pontarlier. Nach dem Museum und der Destillerie führt uns die Fahrt durch verschneite Landschaften zum Fort de Joux. Am Nachmittag erleben wir die Winterpracht am Larmont, einem beliebten Skigebiet, und lassen den Tag am Lac de Saint-Point ausklingen, der im Winter oft von einer magischen Eisschicht bedeckt ist.",
+            "hu": "Fűtött autóval fedezzük fel a téli Pontarlier-t. A múzeum és a lepárló után az utunk havas tájakon át vezet a Fort de Joux-hoz. Délután a Larmont téli pompáját élvezzük, amely népszerű síterep, majd a napot a Saint-Point tónál zárjuk, melyet télen gyakran mágikus jégréteg borít.",
+            "ro": "Explorăm Pontarlier-ul de iarnă cu mașina încălzită. După muzeu și distilerie, drumul ne poartă prin peisaje înzăpezite spre Fort de Joux. După-amiaza experimentăm splendoarea iernii la Larmont, o zonă de schi populară, și încheiem ziua la Lacul Saint-Point, adesea înghețat.",
+            "en": "With a heated car, we explore wintery Pontarlier. After the museum and distillery, the drive leads through snowy landscapes to Fort de Joux. In the afternoon, we experience the winter splendor at Larmont, a popular ski area, and end the day at Lake Saint-Point, often covered by a magical layer of ice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtisches Museum",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Municipal",
+                "en": "Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto winterfest ist, bevor Sie den Tag hier im Warmen mit der Stadtgeschichte beginnen.",
+                "hu": "Győződjön meg róla, hogy autója téliesítve van, mielőtt itt, a melegben elkezdené a napot a város történelmével.",
+                "ro": "Asigurați-vă că mașina este echipată de iarnă înainte de a începe ziua la căldură cu istoria orașului.",
+                "en": "Make sure your car is winter-ready before starting the day here in the warm with the city's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Pierre Guy Destillerie",
+                "hu": "Pierre Guy lepárló",
+                "ro": "Distileria Pierre Guy",
+                "en": "Pierre Guy Distillery"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ort für Souvenir-Einkäufe im Winter; die Destillerie bietet eine gemütliche Zuflucht vor dem Frost.",
+                "hu": "Ideális helyszín téli ajándékok vásárlásához; a lepárló barátságos menedéket nyújt a kinti fagy elől.",
+                "ro": "Locul ideal pentru cumpărături de suveniruri iarna; distileria oferă un refugiu primitor împotriva gerului.",
+                "en": "Ideal spot for winter souvenir shopping; the distillery offers a cozy refuge from the frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Joux",
+                "hu": "Fort de Joux",
+                "ro": "Fort de Joux",
+                "en": "Fort de Joux"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Burg ist ein fantastisches Fotomotiv; ziehen Sie sich für den Rundgang in den zugigen Gemäuern sehr warm an.",
+                "hu": "A havas vár fantasztikus fotótéma; öltözzön nagyon melegen a huzatos falak közötti körúthoz a látogatás alatt.",
+                "ro": "Cetatea înzăpezită este un subiect foto fantastic; îmbrăcați-vă foarte gros pentru turul printre zidurile reci.",
+                "en": "The snowy fortress is a fantastic photo subject; dress very warmly for the tour within the drafty walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Larmont",
+                "hu": "Le Larmont",
+                "ro": "Le Larmont",
+                "en": "Le Larmont"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Alpenpanorama und die Wintersportatmosphäre; Winterreifen sind für die Auffahrt unbedingt erforderlich.",
+                "hu": "Élvezze az alpesi panorámát és a télisport-hangulatot; a feljutáshoz a téli gumi elengedhetetlen feltétel.",
+                "ro": "Bucurați-vă de panorama alpină și de atmosfera sporturilor de iarnă; anvelopele de iarnă sunt obligatorii pentru urcare.",
+                "en": "Enjoy the Alpine panorama and the winter sports atmosphere; winter tires are absolutely essential for the drive up."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Saint-Point",
+                "hu": "Lac de Saint-Point",
+                "ro": "Lac de Saint-Point",
+                "en": "Lac de Saint-Point"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Eistreiben auf dem See bei Sonnenuntergang gegen 17 Uhr; ein magischer Abschluss einer winterlichen Tour.",
+                "hu": "Figyelje meg a jégtáblák mozgását a tavon a 17 órai napnyugtakor; a téli túra mágikus befejezése ez a látvány.",
+                "ro": "Urmăriți mișcarea gheții pe lac la apusul de la ora 17; un final magic pentru un tur de iarnă reușit.",
+                "en": "Observe the ice movement on the lake at the 5 PM sunset; a magical conclusion to a successful winter tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

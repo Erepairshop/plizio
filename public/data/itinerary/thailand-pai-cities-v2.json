@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogtúráját Pai szívében, látogasson el a gyönyörű Wat Luangba, és tapasztalja meg a közeli Al-Israa mecset spirituális sokszínűségét.\nFolytassa sétáját a Wat Klang felé egy kis elmélkedésre, mielőtt elmerülne a helyi művészetekben és a kulturális örökségben a Nitnois-ban.\nKéső délutánját szentelje a nyüzsgő központi területek felfedezésének, magába szívva Pai sétálóutcáinak élénk atmoszféráját és egyedi varázsát.\nZárja a napot a híres Pai Éjszakai Piacon, ahol ízletes utcai ételeket kóstolhat, és a csillagok alatt válogathat az egyedi ajándéktárgyakat kínáló standok között.",
         "ro": "Începeți turul pietonal în inima orașului Pai, vizitând frumosul Wat Luang și experimentând diversitatea spirituală la moscheea Al-Israa din apropiere.\nContinuați plimbarea spre Wat Klang pentru momente de reflecție, înainte de a vă scufunda în arta și patrimoniul cultural local la Nitnois.\nDedicați după-amiaza târzie navigării către zonele centrale pline de viață, absorbind atmosfera vibrantă și farmecul străzilor pietonale din Pai.\nÎncheiați ziua la celebrul Bazar de Noapte din Pai, unde puteți savura mâncare de stradă delicioasă și puteți căuta suveniruri unice sub cerul înstelat.",
         "en": "Start your walking tour in the heart of Pai, visiting the beautiful Wat Luang and experiencing the spiritual diversity at the nearby Al-Israa Masjid.\nContinue your stroll to Wat Klang for moments of reflection before diving into the local arts and cultural heritage at Nitnois to appreciate handmade crafts.\nDedicate your late afternoon to navigating toward the lively central areas, absorbing the vibrant atmosphere and the distinct charm of Pai's bustling walking streets.\nConclude your day at the famous Night Bazaar Pai, where you can feast on delicious street food and browse through countless stalls offering unique souvenirs under the stars."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an den ruhigen Tempeln von Pai, während der sanfte Regen eine mystische Atmosphäre schafft. Mittags bieten die überdachten Bereiche Schutz und eine kühle Brise. Am Nachmittag laden lokale Kulturzentren zum Verweilen im Trockenen ein. Abends glänzen die Straßen des Night Bazaar im Regenlicht, perfekt für einen stimmungsvollen Spaziergang unter dem Regenschirm.",
+            "hu": "Kezdje a napot Pai csendes templomainál, ahol az eső misztikus hangulatot áraszt. Délben a fedett részek nyújtanak menedéket a záporok elől, frissítő szellővel. Délután a helyi kulturális helyszíneken szárazon élvezheti a művészetet. Este a Night Bazaar fényei tükröződnek a vizes aszfalton, ami különleges látványt nyújt egy esernyős séta során a központban.",
+            "ro": "Începeți ziua la templele liniștite din Pai, unde ploaia creează o atmosferă mistică. La prânz, zonele acoperite oferă adăpost și o briză răcoroasă. După-amiaza, centrele culturale locale vă permit să rămâneți la adăpost. Seara, luminile din Night Bazaar se oglindesc pe străzile umede, oferind un cadru perfect pentru o plimbare cu umbrela prin centru.",
+            "en": "Start your day at Pai's quiet temples, where the rain adds a mystical touch to the scenery. At noon, covered areas provide shelter from showers and a refreshing breeze. In the afternoon, explore local cultural spots while staying dry indoors. In the evening, the Night Bazaar lights reflect beautifully on the wet streets, making for a atmospheric walk with an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Luang",
+                "hu": "Wat Luang",
+                "ro": "Wat Luang",
+                "en": "Wat Luang"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Details des Tempels unter den schützenden Dachüberständen und achten Sie auf die rutschigen Steinstufen bei Nässe.",
+                "hu": "Csodálja meg a templom finom részleteit a védelmet nyújtó ereszek alatt, és ügyeljen a csúszós kőlépcsőkre a nedves időben.",
+                "ro": "Admirați detaliile fine ale templului sub streșinile protectoare și aveți grijă la treptele de piatră care devin alunecoase pe ploaie.",
+                "en": "Admire the intricate temple details under the protective eaves and be careful on the stone steps which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Israa Masjid",
+                "hu": "Al-Israa Masjid",
+                "ro": "Al-Israa Masjid",
+                "en": "Al-Israa Masjid"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese schlichte Moschee und nutzen Sie den überdachten Eingangsbereich, um Ihre Regenkleidung kurz zu ordnen.",
+                "hu": "Látogasson el ebbe a letisztult mecsetbe, és használja a fedett bejáratot az esőkabátja igazítására a következő megálló előtt.",
+                "ro": "Vizitați această moschee simplă și folosiți zona de intrare acoperită pentru a vă ajusta pelerina de ploaie înainte de drum.",
+                "en": "Visit this serene mosque and use the covered entrance area to briefly adjust your rain gear before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Klang",
+                "hu": "Wat Klang",
+                "ro": "Wat Klang",
+                "en": "Wat Klang"
+              },
+              "tip_5lang": {
+                "de": "Dieser zentrale Tempel bietet viele überdachte Gänge; ideal, um die Architektur zu studieren, während es draußen kräftig regnet.",
+                "hu": "Ez a központi templom sok fedett folyosóval rendelkezik, így ideális az építészet tanulmányozására, miközben kint épp esik az eső.",
+                "ro": "Acest templu central are multe coridoare acoperite, fiind ideal pentru a studia arhitectura în timp ce afară plouă torențial.",
+                "en": "This central temple features many covered walkways, making it ideal for studying architecture while staying dry during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Nitnois",
+                "hu": "Nitnois",
+                "ro": "Nitnois",
+                "en": "Nitnois"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Innenatmosphäre und entdecken Sie lokales Kunsthandwerk, ohne sich um die Pfützen draußen sorgen zu müssen.",
+                "hu": "Élvezze a barátságos belső teret és fedezze fel a helyi kézműves termékeket anélkül, hogy a kinti tócsák miatt aggódnia kellene.",
+                "ro": "Bucurați-vă de atmosfera interioară primitoare și descoperiți artizanatul local fără a vă face griji de bălțile de afară.",
+                "en": "Enjoy the cozy indoor atmosphere and discover local handicrafts without having to worry about the puddles and rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar Pai",
+                "hu": "Night Bazaar Pai",
+                "ro": "Night Bazaar Pai",
+                "en": "Night Bazaar Pai"
+              },
+              "tip_5lang": {
+                "de": "Die Marktstände haben oft Plastikplanen; tragen Sie wasserfeste Schuhe, da das Wasser auf den Gehwegen des Zentrums stehen bleibt.",
+                "hu": "Az árusok sátrai alatt védve van, de viseljen vízálló cipőt, mert a központi járdákon könnyen megáll a csapadékvíz.",
+                "ro": "Tarabele pieței sunt protejate, dar purtați încălțăminte impermeabilă deoarece apa tinde să se adune pe trotuarele din centru.",
+                "en": "The market stalls are mostly covered, but wear waterproof shoes as water tends to pool on the sidewalks in the town center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Pai im Winter bietet erfrischend kühle Morgenstunden, ideal für Tempelbesuche in der Sonne. Mittags ist das Licht perfekt für Fotos der traditionellen Architektur. Am Nachmittag sollten Sie eine warme Schicht bereithalten, da die Temperatur sinkt. Da es gegen 17:00 Uhr dunkel wird, beginnt das abendliche Leben auf dem Markt früher in einer gemütlichen, kühlen Brise.",
+            "hu": "A téli Pai frissítően hűvös reggeleket kínál, ami ideális a templomok felkereséséhez a napsütésben. Délben a fények tökéletesek a tradicionális építészet fotózásához. Délután készítsen össze egy meleg réteget, mert a hőmérséklet gyorsan esik. Mivel 17:00 körül sötétedik, a piaci élet korábban kezdődik a kellemesen hűvös esti szélben.",
+            "ro": "Iarna în Pai oferă dimineți răcoroase, ideale pentru vizitarea templelor sub soarele blând. La prânz, lumina este perfectă pentru fotografii. După-amiaza, pregătiți un strat de haine călduroase deoarece temperatura scade rapid. Deoarece se întunecă în jur de ora 17:00, viața în piață începe mai devreme, într-o briză de seară plăcută.",
+            "en": "Pai in winter offers refreshingly cool mornings, perfect for exploring temples in the soft sunlight. At noon, the light is ideal for photographing traditional architecture. In the afternoon, have a warm layer ready as the temperature drops quickly. Since it gets dark around 17:00, the market life starts earlier in a pleasant, cool evening breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Luang",
+                "hu": "Wat Luang",
+                "ro": "Wat Luang",
+                "en": "Wat Luang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der goldenen Details und tragen Sie Socken, da der Boden in den Hallen sehr kalt sein kann.",
+                "hu": "Használja ki a tiszta téli fényeket az aranyozott díszek fotózásához, és viseljen zoknit, mert a csarnok padlója nagyon hideg lehet.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii cu detaliile aurii și poartă șosete, deoarece podeaua poate fi foarte rece.",
+                "en": "Take advantage of the clear winter light for photos of the golden details and wear socks as the hall floor can be quite cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Israa Masjid",
+                "hu": "Al-Israa Masjid",
+                "ro": "Al-Israa Masjid",
+                "en": "Al-Israa Masjid"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise macht den Aufenthalt hier im Winter sehr angenehm; achten Sie auf die kurzen Sonnenstunden für Ihre weitere Planung.",
+                "hu": "A hűvös szellő nagyon kellemessé teszi az itt tartózkodást télen; figyeljen a kevés benapozott órára a további tervezésnél.",
+                "ro": "Briza răcoroasă face șederea aici foarte plăcută iarna; ține cont de orele puține de soare pentru planificarea ulterioară.",
+                "en": "The cool breeze makes staying here very pleasant in winter; keep the limited daylight hours in mind for your further planning."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Klang",
+                "hu": "Wat Klang",
+                "ro": "Wat Klang",
+                "en": "Wat Klang"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Tempel am späten Vormittag, wenn die Wintersonne die Anlage wärmt und die Farben der Statuen zum Leuchten bringt.",
+                "hu": "Látogasson el ide késő délelőtt, amikor a téli nap már melegíti az udvart és élettel telivé teszi a szobrok színeit.",
+                "ro": "Vizitați acest templu la sfârșitul dimineții, când soarele de iarnă încălzește curtea și scoate în evidență culorile statuilor.",
+                "en": "Visit this temple in the late morning when the winter sun warms the grounds and brings out the vibrant colors of the statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Nitnois",
+                "hu": "Nitnois",
+                "ro": "Nitnois",
+                "en": "Nitnois"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Nachmittagskälte zu entfliehen; suchen Sie nach handgefertigten Schals aus lokaler Baumwolle gegen den Wind.",
+                "hu": "Tökéletes hely a délutáni lehűlés elöli menekülésre; keressen helyi pamutból készült kézműves sálat a hűvös szél ellen.",
+                "ro": "Locul perfect pentru a scăpa de răcoarea după-amiezii; căutați eșarfe lucrate manual din bumbac local împotriva vântului.",
+                "en": "A perfect spot to escape the afternoon chill; look for handcrafted local cotton scarves to protect against the cool wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar Pai",
+                "hu": "Night Bazaar Pai",
+                "ro": "Night Bazaar Pai",
+                "en": "Night Bazaar Pai"
+              },
+              "tip_5lang": {
+                "de": "Sobald die Sonne untergeht, wird es deutlich kühler; ziehen Sie eine Jacke an, bevor Sie die warmen Straßensnacks probieren.",
+                "hu": "Amint lemegy a nap, jelentősen lehűl a levegő; vegyen fel kabátot, mielőtt végigkóstolná a melengető utcai ételeket.",
+                "ro": "Imediat ce apune soarele, se face mult mai frig; puneți-vă o jachetă înainte de a gusta mâncarea caldă de pe stradă.",
+                "en": "As soon as the sun sets, it gets significantly cooler; put on a jacket before trying the warming street food snacks."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a történelmi Wat Sri Don Chai meglátogatásával, majd induljon el a The Putt Clubba egy szórakoztató minigolf-partira.\nTervezzen délre, hogy felfedezze a békés buddhista templomot és a kulturálisan jelentős Wat Luangot, miközben élvezi a völgy festői tájait.\nNavigáljon a város nyüzsgő szívében, az Éjszakai Piac közelében, szívja magába az utcai életet, és kösse le kerékpárját, hogy felfedezze a színes standokat.\nFejezze be túráját a Long Neck Karen Villában, ahol tiszteletteljesen megismerheti gazdag hagyományaikat, és hiteles textíliákat vásárolhat a kézművesektől.",
         "ro": "Începeți aventura cu bicicleta vizitând istoricul Wat Sri Don Chai, înainte de a vă îndrepta spre The Putt Club pentru o rundă relaxantă de minigolf.\nPedalați spre sud pentru a explora templul budist pașnic și importantul Wat Luang, bucurându-vă de briza blândă și de peisajele pitorești ale văii.\nNavigați prin inima plină de viață a orașului, lângă Bazarul de Noapte, admirând viața stradală și asigurându-vă bicicleta pentru a explora tarabele colorate.\nTerminați cursa la Long Neck Karen Villa, unde puteți învăța cu respect despre tradițiile lor bogate și puteți cumpăra textile autentice direct de la artizani.",
         "en": "Kick off your cycling adventure by visiting the historic Wat Sri Don Chai before heading to The Putt Club for a fun and relaxing round of mini-golf.\nPedal south to explore the peaceful Bouddhist temple and the culturally significant Wat Luang, enjoying the gentle breeze and scenic landscapes of the valley.\nNavigate through the bustling heart of town near the Night Bazaar area, taking in the vibrant street life and securing your bike to explore the colorful stalls.\nFinish your ride at the Long Neck Karen Villa, where you can respectfully learn about their rich traditions and purchase authentic textiles directly from the artisans."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Pais kurvigen Straßen, bietet aber üppiges Grün. Morgens glitzern die Tempel im Nass. Mittags sollten Sie überdachte Pausen einlegen, um den Schauern zu entgehen. Nachmittags ist die Luft frisch und staubfrei. Abends glänzen die Lichter der Stadt auf dem feuchten Asphalt, während Sie zurück zum Zentrum radeln.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Pai kanyargós útjain, de burjánzó zöld látványt nyújt. Reggel a templomok csillognak a nedvességtől. Délben tartson fedett pihenőket a záporok elől. Délután a levegő friss és pormentes. Este a város fényei megcsillannak a vizes aszfalton, miközben visszakerekezik a központba a frissítő szellőben.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe drumurile curbate, dar oferă un peisaj verde luxuriant. Dimineața, templele strălucesc în rouă. La prânz, faceți pauze acoperite pentru a evita aversele. După-amiaza, aerul este proaspăt și fără praf. Seara, luminile orașului sclipesc pe asfaltul umed în timp ce pedalați spre centru.",
+            "en": "Cycling in the rain requires caution on Pai's winding roads but offers lush green views. In the morning, temples glisten in the wet air. At noon, take covered breaks to avoid the heavy showers. In the afternoon, the air is fresh and dust-free. In the evening, city lights shimmer on the wet pavement as you cycle back to the center in the refreshing breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Don Chai temple",
+                "hu": "Wat Sri Don Chai temple",
+                "ro": "Wat Sri Don Chai temple",
+                "en": "Wat Sri Don Chai temple"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Baum und genießen Sie die Stille des alten Tempels, während der Regen auf die Dächer trommelt.",
+                "hu": "Parkoljon le a biciklivel egy fa alatt, és élvezze a régi templom csendjét, miközben az eső kopog a tetőkön.",
+                "ro": "Parcați bicicleta sub un copac și bucurați-vă de liniștea templului vechi în timp ce ploaia bate în acoperișuri.",
+                "en": "Park your bike under a tree and enjoy the silence of the ancient temple while the rain drums on the roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini Golf The Putt Club",
+                "hu": "Mini Golf The Putt Club",
+                "ro": "Mini Golf The Putt Club",
+                "en": "Mini Golf The Putt Club"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob überdachte Bahnen verfügbar sind, und achten Sie beim Radfahren auf die rutschigen Zufahrtswege zum Club.",
+                "hu": "Ellenőrizze, hogy vannak-e fedett pályák, és ügyeljen a klubhoz vezető utak csúszósságára kerékpározás közben.",
+                "ro": "Verificați dacă sunt disponibile piste acoperite și aveți grijă la drumurile de acces alunecoase către club.",
+                "en": "Check if covered tracks are available and be careful of slippery access paths to the club while cycling there."
+              }
+            },
+            {
+              "name": {
+                "de": "Bouddhist temple",
+                "hu": "Bouddhist temple",
+                "ro": "Bouddhist temple",
+                "en": "Bouddhist temple"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Regenpause; bewundern Sie die Architektur von den trockenen Vorhallen aus und prüfen Sie Ihre Bremsen.",
+                "hu": "Nyugodt hely egy esőszünetre; csodálja meg az építészetet a száraz előterekből, és ellenőrizze a bicikli fékeit.",
+                "ro": "Un loc liniștit pentru o pauză de ploaie; admirați arhitectura din pridvoarele uscate și verificați frânele bicicletei.",
+                "en": "A peaceful spot for a rain break; admire the architecture from the dry porches and check your bike's brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Luang",
+                "hu": "Wat Luang",
+                "ro": "Wat Luang",
+                "en": "Wat Luang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Tempel als Zufluchtsort vor einem plötzlichen Schauer und achten Sie beim Losfahren auf nasse Markierungen auf der Straße.",
+                "hu": "Használja a templomot menedékként hirtelen zápor esetén, és induláskor ügyeljen az úttesten lévő nedves felfestésekre.",
+                "ro": "Folosiți templul ca adăpost în caz de aversă bruscă și aveți grijă la marcajele rutiere umede când plecați la drum.",
+                "en": "Use the temple as a shelter during a sudden shower and watch out for wet road markings when you start cycling again."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar Pai",
+                "hu": "Night Bazaar Pai",
+                "ro": "Night Bazaar Pai",
+                "en": "Night Bazaar Pai"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem beleuchteten, trockenen Ort ab und genießen Sie die lebhafte Atmosphäre trotz des Regens.",
+                "hu": "Parkolja le a biciklit egy kivilágított, száraz helyen, és élvezze a pezsgő hangulatot az eső ellenére is.",
+                "ro": "Parcați bicicleta într-un loc luminat și uscat și bucurați-vă de atmosfera vibrantă în ciuda ploii de afară.",
+                "en": "Park your bike in a well-lit, dry spot and enjoy the vibrant market atmosphere despite the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Neck Karen Villa in Pai",
+                "hu": "Long Neck Karen Villa in Pai",
+                "ro": "Long Neck Karen Villa in Pai",
+                "en": "Long Neck Karen Villa in Pai"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Wege können nach Regen sehr matschig sein; radeln Sie vorsichtig und nutzen Sie die überdachten Bereiche des Dorfes.",
+                "hu": "A vidéki utak eső után sárosak lehetnek; kerekezzen óvatosan és használja a falu fedett részeit a nézelődéshez.",
+                "ro": "Drumurile rurale pot fi noroioase după ploaie; pedalați cu prudență și folosiți zonele acoperite ale satului.",
+                "en": "Rural roads can be muddy after rain; cycle carefully and use the covered areas of the village for sightseeing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Pai ist bei der kühlen Morgenluft belebend. Die Sonne wärmt mittags angenehm, während Sie von Tempel zu Tempel fahren. Nachmittags sinken die Temperaturen spürbar; Handschuhe sind beim Radfahren empfehlenswert. Abends sollten Sie vor 17:00 Uhr am Ziel sein, da die Dämmerung schnell einsetzt und es auf dem Rad ohne Sonne rasch kalt wird.",
+            "hu": "A téli kerékpározás Pai környékén élénkítő a hűvös reggeli levegőben. A nap délben kellemesen melegít, miközben templomról templomra jár. Délután a hőmérséklet érezhetően csökken; a kesztyű ajánlott a biciklizéshez. Este próbáljon 17:00 előtt célba érni, mert a szürkület gyorsan beköszönt és napfény nélkül hamar lehűl az idő.",
+            "ro": "Ciclismul de iarnă în Pai este revigorant în aerul rece al dimineții. Soarele încălzește plăcut la prânz în timp ce mergeți de la un templu la altul. După-amiaza, temperaturile scad vizibil; mănușile sunt recomandate pe bicicletă. Seara, încercați să ajungeți la destinație înainte de 17:00, deoarece amurgul vine repede.",
+            "en": "Cycling in winter around Pai is invigorating in the crisp morning air. The sun warms you pleasantly at noon as you ride between temples. In the afternoon, temperatures drop noticeably; gloves are recommended for cycling. In the evening, aim to finish by 17:00 as dusk settles quickly and it gets cold fast without sunlight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Don Chai temple",
+                "hu": "Wat Sri Don Chai temple",
+                "ro": "Wat Sri Don Chai temple",
+                "en": "Wat Sri Don Chai temple"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort in der Morgensonne; die kühle Luft macht die Fahrt hierher weniger anstrengend als im heißen Sommer.",
+                "hu": "Pompás hely a reggeli napsütésben; a hűvös levegő miatt az idevezető út kevésbé fárasztó, mint a forró nyárban.",
+                "ro": "Un loc splendid în soarele dimineții; aerul rece face drumul până aici mult mai puțin obositor decât în timpul verii.",
+                "en": "A splendid spot in the morning sun; the cool air makes the ride here much less exhausting than in the hot summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini Golf The Putt Club",
+                "hu": "Mini Golf The Putt Club",
+                "ro": "Mini Golf The Putt Club",
+                "en": "Mini Golf The Putt Club"
+              },
+              "tip_5lang": {
+                "de": "Spielen Sie in der Mittagssonne, wenn es am wärmsten ist, und tragen Sie eine Sonnenbrille gegen die tiefstehende Wintersonne.",
+                "hu": "Játsszon a déli napsütésben, amikor a legmelegebb van, és viseljen napszemüveget az alacsonyan járó téli nap ellen.",
+                "ro": "Jucați în soarele de la prânz, când este cel mai cald, și purtați ochelari de soare împotriva luminii joase de iarnă.",
+                "en": "Play in the midday sun when it is warmest and wear sunglasses against the low-hanging winter sun while on the course."
+              }
+            },
+            {
+              "name": {
+                "de": "Bouddhist temple",
+                "hu": "Bouddhist temple",
+                "ro": "Bouddhist temple",
+                "en": "Bouddhist temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Winterlicht; achten Sie darauf, Ihr Rad nicht im Schatten zu parken, damit der Sattel nicht auskühlt.",
+                "hu": "Élvezze a nyugalmat a téli fényekben; ügyeljen rá, hogy ne árnyékban parkolja a biciklit, hogy a nyereg ne hűljön ki.",
+                "ro": "Bucurați-vă de liniște în lumina iernii; aveți grijă să nu parcați bicicleta la umbră, pentru ca șaua să nu se răcească.",
+                "en": "Enjoy the tranquility in the winter light; be careful not to park your bike in the shade so the seat doesn't get too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Luang",
+                "hu": "Wat Luang",
+                "ro": "Wat Luang",
+                "en": "Wat Luang"
+              },
+              "tip_5lang": {
+                "de": "Die Tempelanlage ist mittags ein sonniger Wärmespeicher; ideal für eine kurze Pause, bevor der kühle Wind am Nachmittag auffrischt.",
+                "hu": "A templomudvar délben jól tartja a napsütés melegét; ideális egy rövid pihenőre, mielőtt a hűvös délutáni szél feltámadna.",
+                "ro": "Curtea templului reține bine căldura soarelui la prânz; ideal pentru o scurtă pauză înainte ca vântul rece să se intensifice.",
+                "en": "The temple grounds hold the midday sun's warmth well; ideal for a short break before the cool afternoon wind picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar Pai",
+                "hu": "Night Bazaar Pai",
+                "ro": "Night Bazaar Pai",
+                "en": "Night Bazaar Pai"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh an, um die Marktstände im Resthauch der Tageswärme zu erkunden; eine warme Weste ist für die Rückfahrt ein Muss.",
+                "hu": "Érkezzen korán, hogy még a nappali meleg maradékában nézelődhessen; egy meleg mellény kötelező a hazafelé útra.",
+                "ro": "Sosiți devreme pentru a explora tarabele în restul de căldură al zilei; o vestă călduroasă este obligatorie pentru drumul de întoarcere.",
+                "en": "Arrive early to explore the market stalls in the lingering warmth of the day; a warm vest is a must for the ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Long Neck Karen Villa in Pai",
+                "hu": "Long Neck Karen Villa in Pai",
+                "ro": "Long Neck Karen Villa in Pai",
+                "en": "Long Neck Karen Villa in Pai"
+              },
+              "tip_5lang": {
+                "de": "Die späte Nachmittagssonne taucht das Dorf in goldenes Licht; treten Sie den Rückweg an, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "A késő délutáni nap aranyló fénybe vonja a falut; induljon vissza a központba, amint a nap eltűnik a hegyek mögött.",
+                "ro": "Soarele de după-amiază târzie scaldă satul în lumină aurie; porniți înapoi imediat ce soarele dispare după munți.",
+                "en": "The late afternoon sun bathes the village in golden light; start your way back as soon as the sun disappears behind the mountains."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós utazását a déli külvárosban található nyugodt Wat Sai Khao felfedezésével, amelyet a békés és gyönyörűen kialakított Wat Kung Kaeng templom követ.\nAutózzon fel a hegyekbe, hogy megcsodálja a fenséges Fehér Buddhát és a panorámát, majd ereszkedjen le, hogy megismerje a helyi kultúrát a Nitnois-ban.\nÁlljon meg a nyüzsgő Éjszakai Piac környékén egy kis pihenőre, majd tegyen egy rövid utat az építészetileg lenyűgöző Kalkuttai Szent Teréz katolikus templomhoz.\nZárja a napot észak felé autózva a Wat Sri Don Chai-hoz, Pai legrégebbi templomához, ahol a naplementében mély történelmi nyugalmat tapasztalhat meg.",
         "ro": "Începeți excursia cu mașina explorând liniștitul Wat Sai Khao la periferia sudică, urmat de templul pașnic și frumos proiectat Wat Kung Kaeng.\nConduceți pe dealuri pentru a vedea maiestuosul Buddha Alb și priveliștile sale panoramice, apoi coborâți pentru a interacționa cu cultura locală creativă la Nitnois.\nOpriți-vă în zona vibrantă a Bazarului de Noapte pentru o pauză plină de viață, apoi faceți o scurtă plimbare pentru a vizita fascinanta biserică catolică Sfânta Tereza.\nÎncheiați ziua conducând spre nord la Wat Sri Don Chai, cel mai vechi templu din Pai, unde puteți experimenta un sentiment profund de istorie și seninătate la apus.",
         "en": "Start your road trip by exploring the tranquil Wat Sai Khao on the southern outskirts, followed by the peaceful and beautifully designed Wat Kung Kaeng temple.\nDrive up the hills to witness the majestic White Buddha and its panoramic views, then head back down to engage with the creative local culture at Nitnois.\nStop by the vibrant Night Bazaar area for a lively break, then take a short drive to visit the architecturally fascinating Saint Teresa of Calcutta Catholic church.\nEnd your day driving north to Wat Sri Don Chai, Pai's oldest temple, where you can experience a deep sense of history and serenity as the sun sets over the valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie in Pai bestens vor dem Monsun geschützt. Genießen Sie die Fahrt durch die nebligen Berge am Morgen. Mittags erreichen Sie Tempel bequem ohne nass zu werden. Nachmittags bieten kulturelle Stopps trockene Erlebnisse. Abends ist die Rückfahrt sicher, auch wenn die Sicht durch starken Regen eingeschränkt sein kann, während Sie die gemütliche Innenraumwärme genießen.",
+            "hu": "Autóval Pai környékén tökéletesen védve van a monszun idején. Élvezze az utazást a ködös hegyek között reggel. Délben kényelmesen, ázás nélkül érheti el a templomokat. Délután a kulturális megállók száraz élményeket kínálnak. Este a visszavezetés biztonságos, még ha a látótávolság korlátozott is a nagy esőben, miközben Ön a belső tér kényelmét élvezi.",
+            "ro": "Cu mașina sunteți perfect protejat de muson în Pai. Bucurați-vă de drumul prin munții înnebuliți dimineața. La prânz ajungeți confortabil la temple fără să vă udați. După-amiaza, opririle culturale oferă experiențe la adăpost. Seara, drumul de întoarcere este sigur, chiar dacă vizibilitatea este redusă de ploaie, în timp ce savurați confortul interior.",
+            "en": "By car, you are perfectly protected from the monsoon in Pai. Enjoy driving through the misty mountains in the morning. At noon, reach the temples comfortably without getting wet. In the afternoon, cultural stops provide dry experiences. In the evening, the return drive is safe even if visibility is limited by heavy rain, while you enjoy the cozy interior warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sai Khao",
+                "hu": "Wat Sai Khao",
+                "ro": "Wat Sai Khao",
+                "en": "Wat Sai Khao"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und bewundern Sie den weißen Tempel, der im Regen besonders rein und strahlend wirkt.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, és csodálja meg a fehér templomot, amely az esőben különösen tiszta és ragyogó látvány.",
+                "ro": "Parcați cât mai aproape de intrare și admirați templul alb, care pe ploaie pare deosebit de curat și strălucitor.",
+                "en": "Park as close to the entrance as possible and admire the white temple, which looks especially pure and radiant in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Kung Kaeng temple",
+                "hu": "Wat Kung Kaeng temple",
+                "ro": "Wat Kung Kaeng temple",
+                "en": "Wat Kung Kaeng temple"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkplatz, falls vorhanden, und achten Sie auf die tiefen Pfützen bei der Einfahrt zum Tempelgelände.",
+                "hu": "Használja a fedett parkolót, ha van, és ügyeljen a mély tócsákra a templomkertbe való behajtáskor az esőzés után.",
+                "ro": "Folosiți parcarea acoperită, dacă este disponibilă, și aveți grijă la bălțile adânci la intrarea în curtea templului.",
+                "en": "Use the covered parking if available and watch out for deep puddles when entering the temple grounds after heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "White Buddha",
+                "hu": "White Buddha",
+                "ro": "White Buddha",
+                "en": "White Buddha"
+              },
+              "tip_5lang": {
+                "de": "Die Stufen zum Buddha können extrem rutschig sein; genießen Sie den Blick stattdessen sicher aus dem trockenen Auto oder vom Vorplatz.",
+                "hu": "A Buddhához vezető lépcsők rendkívül csúszósak lehetnek; élvezze a kilátást biztonságosan a száraz autóból vagy az előtérből.",
+                "ro": "Treptele către Buddha pot fi extrem de alunecoase; savurați priveliștea în siguranță din mașina uscată sau de pe esplanadă.",
+                "en": "The steps to the Buddha can be extremely slippery; enjoy the view safely from the dry car or the lower plaza instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Nitnois",
+                "hu": "Nitnois",
+                "ro": "Nitnois",
+                "en": "Nitnois"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich aufzuwärmen; die Parkplätze in der Nähe ermöglichen einen schnellen Weg ins trockene Innere des Zentrums.",
+                "hu": "Ideális megálló a felmelegedésre; a közeli parkolóhelyek lehetővé teszik a gyors bejutást a központ száraz belső terébe.",
+                "ro": "O oprire ideală pentru a vă încălzi; locurile de parcare din apropiere permit accesul rapid în interiorul uscat al centrului.",
+                "en": "An ideal stop to warm up; nearby parking spots allow for quick access to the dry interior of the cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar Pai",
+                "hu": "Night Bazaar Pai",
+                "ro": "Night Bazaar Pai",
+                "en": "Night Bazaar Pai"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in einer Seitenstraße und nutzen Sie einen Regenschirm für den kurzen Weg zu den überdachten Marktständen.",
+                "hu": "Keressen parkolóhelyet egy mellékutcában, és használjon esernyőt a rövid útra a fedett piaci árusokig a központban.",
+                "ro": "Căutați un loc de parcare pe o stradă laterală și folosiți o umbrelă pentru drumul scurt până la tarabele acoperite.",
+                "en": "Find a parking spot on a side street and use an umbrella for the short walk to the covered market stalls in the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Teresa of Calcutta",
+                "hu": "Saint Teresa of Calcutta",
+                "ro": "Saint Teresa of Calcutta",
+                "en": "Saint Teresa of Calcutta"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist meist weniger überlaufen; parken Sie direkt davor, um die friedliche Atmosphäre ohne Regennässe zu genießen.",
+                "hu": "Ez a hely általában kevésbé zsúfolt; parkoljon közvetlenül előtte, hogy ázás nélkül élvezhesse a békés hangulatot.",
+                "ro": "Acest loc este de obicei mai puțin aglomerat; parcați direct în față pentru a vă bucura de atmosfera pașnică fără a vă uda.",
+                "en": "This spot is usually less crowded; park directly in front to enjoy the peaceful atmosphere without getting soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sri Don Chai temple",
+                "hu": "Wat Sri Don Chai temple",
+                "ro": "Wat Sri Don Chai temple",
+                "en": "Wat Sri Don Chai temple"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt die Sichtverhältnisse und genießen Sie die mystische Stimmung des Tempels im prasselnden Regen.",
+                "hu": "Visszaindulás előtt ellenőrizze a látási viszonyokat, és élvezze a templom misztikus hangulatát a szakadó esőben.",
+                "ro": "Verificați vizibilitatea înainte de plecare și bucurați-vă de atmosfera mistică a templului în ploaia torențială.",
+                "en": "Check visibility before driving back and enjoy the mystical atmosphere of the temple during the pouring rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Pai im Winter ist perfekt für Autoreisen, da Sie die kühle Morgenluft im warmen Wagen genießen können. Mittags bietet das Auto Schutz vor der intensiven Wintersonne bei Fahrten zu den Tempeln. Nachmittags sinkt die Temperatur rapide, aber Sie bleiben mobil und flexibel. Abends können Sie trotz der frühen Dunkelheit gegen 17:00 Uhr sicher alle Ziele erreichen und die beleuchtete Stadt erkunden.",
+            "hu": "A téli Pai tökéletes az autós utazáshoz, mivel a hűvös reggeli levegőt a meleg kocsiból élvezheti. Délben az autó védelmet nyújt az intenzív téli napsütés ellen a templomok felé. Délután a hőmérséklet gyorsan esik, de Ön mobilis és rugalmas marad. Este a korai, 17:00 körüli sötétedés ellenére is biztonságosan elérhet minden célt a kivilágított városban.",
+            "ro": "Pai iarna este perfect pentru călătoria cu mașina, permițându-vă să savurați aerul rece de dimineață din vehiculul încălzit. La prânz, mașina oferă protecție împotriva soarelui intens de iarnă. După-amiaza, temperatura scade rapid, dar rămâneți mobil. Seara, în ciuda întunericului ce vine la 17:00, puteți ajunge în siguranță la toate destinațiile.",
+            "en": "Pai in winter is perfect for car travel, as you can enjoy the crisp morning air from the comfort of a warm vehicle. At noon, the car provides protection from the intense winter sun on your way to the temples. In the afternoon, temperatures drop fast, but you remain mobile and flexible. In the evening, despite early darkness at 17:00, you can safely reach all destinations."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sai Khao",
+                "hu": "Wat Sai Khao",
+                "ro": "Wat Sai Khao",
+                "en": "Wat Sai Khao"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne am weißen Tempel ist herrlich; nutzen Sie die Klimaanlage im Auto, um die Temperatur nach dem Aussteigen auszugleichen.",
+                "hu": "A reggeli napsütés a fehér templomnál pompás; használja az autó fűtését a hőmérséklet kiegyenlítésére a kiszállás után.",
+                "ro": "Soarele dimineții la templul alb este superb; folosiți căldura din mașină pentru a echilibra temperatura după ce coborâți.",
+                "en": "The morning sun at the white temple is splendid; use the car's heater to balance the temperature after stepping outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Kung Kaeng temple",
+                "hu": "Wat Kung Kaeng temple",
+                "ro": "Wat Kung Kaeng temple",
+                "en": "Wat Kung Kaeng temple"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit der Innenraum des Wagens für den nächsten Stopp angenehm warm bleibt; genießen Sie die klare Sicht.",
+                "hu": "Parkoljon napos helyen, hogy a kocsi belső tere kellemesen meleg maradjon a következő megállóig; élvezze a tiszta látási viszonyokat.",
+                "ro": "Parcați la soare pentru ca interiorul mașinii să rămână cald pentru următoarea oprire; bucurați-vă de vizibilitatea clară.",
+                "en": "Park in a sunny spot so the car interior stays pleasantly warm for your next stop; enjoy the clear winter visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "White Buddha",
+                "hu": "White Buddha",
+                "ro": "White Buddha",
+                "en": "White Buddha"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben zieht oft ein kühler Wind; nehmen Sie Ihre Jacke aus dem Auto mit für den Panoramablick.",
+                "hu": "A felfelé menet melegen tartja, de fent gyakran fúj a hűvös szél; vigye magával a kabátját az autóból a panorámás kilátáshoz.",
+                "ro": "Urcarea vă va ține de cald, dar sus bate adesea un vânt rece; luați jacheta din mașină pentru priveliștea panoramică.",
+                "en": "The climb will keep you warm, but a cool wind often blows at the top; bring your jacket from the car for the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Nitnois",
+                "hu": "Nitnois",
+                "ro": "Nitnois",
+                "en": "Nitnois"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für den Nachmittag; bewahren Sie Ihre Einkäufe sicher im Kofferkabel auf, während Sie das Kunstzentrum erkunden.",
+                "hu": "Hangulatos hely a délutánra; tárolja vásárlásait biztonságosan a csomagtartóban, miközben felfedezi a művészeti központot.",
+                "ro": "Un loc primitor pentru după-amiază; păstrați cumpărăturile în siguranță în portbagaj în timp ce explorați centrul de artă.",
+                "en": "A cozy spot for the afternoon; store your purchases safely in the car trunk while you explore the local art center."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar Pai",
+                "hu": "Night Bazaar Pai",
+                "ro": "Night Bazaar Pai",
+                "en": "Night Bazaar Pai"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, sind Parkplätze im Zentrum schnell belegt; kommen Sie vor 17:00 Uhr an, um Stress zu vermeiden.",
+                "hu": "Mivel korán sötétedik, a központi parkolóhelyek hamar betelnek; érkezzen 17:00 előtt, hogy elkerülje a stresszes keresgélést.",
+                "ro": "Deoarece se întunecă devreme, locurile de parcare se ocupă repede; sosiți înainte de 17:00 pentru a evita stresul căutării.",
+                "en": "As it gets dark early, central parking spots fill up quickly; arrive before 17:00 to avoid any parking-related stress."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Teresa of Calcutta",
+                "hu": "Saint Teresa of Calcutta",
+                "ro": "Saint Teresa of Calcutta",
+                "en": "Saint Teresa of Calcutta"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im sanften Abendlicht; die Heizung im Auto sorgt nach dem Rundgang schnell wieder für Wohlbefinden.",
+                "hu": "Látogasson el ide a lágy esti fényekben; az autó fűtése a séta után gyorsan visszaadja a komfortérzetet a hűvösödő időben.",
+                "ro": "Vizitați acest loc în lumina blândă a serii; încălzirea din mașină vă va reda rapid confortul după plimbarea prin frig.",
+                "en": "Visit this spot in the soft evening light; the car's heater will quickly restore your comfort after the walk in the cooling air."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sri Don Chai temple",
+                "hu": "Wat Sri Don Chai temple",
+                "ro": "Wat Sri Don Chai temple",
+                "en": "Wat Sri Don Chai temple"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss des Tages; achten Sie beim Fahren auf der Rückreise auf die kühle, klare Luft und die beleuchteten Berge.",
+                "hu": "Szép befejezése a napnak; a hazaúton figyeljen a hűvös, tiszta levegőre és a kivilágított hegyek látványára a volán mögül.",
+                "ro": "Un final frumos de zi; pe drumul de întoarcere, admirați aerul rece și clar și vederea munților luminați de la volan.",
+                "en": "A beautiful end to the day; on the drive back, enjoy the crisp, clear air and the view of the illuminated mountains from your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

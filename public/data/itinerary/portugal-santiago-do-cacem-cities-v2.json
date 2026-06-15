@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi hangulat magába szívásával a történelmi pellengérnél. Délidőben merüljön el a szellemi örökségben a főtemplomnál. Kora délután fedezze fel a helyi történelmet a városi múzeumban. Zárja a kényelmes sétát azzal, hogy gyönyörködik a Cerro da Inês kilátó által nyújtott panorámás kilátásban.",
         "ro": "Începeți dimineața absorbind atmosfera locală la stâlpul infamiei istoric. Spre amiază, pătrundeți în patrimoniul spiritual la biserica principală. Petreceți prima parte a după-amiezii descoperind istoria locală la muzeul municipal. Încheiați-vă turul relaxant de mers pe jos bucurându-vă de vederile panoramice de la punctul de belvedere.",
         "en": "Start your morning absorbing the local atmosphere at the historic pillory. As midday approaches, delve into the spiritual heritage at the main church and neighboring chapel. Spend your early afternoon uncovering local history at the municipal museum. Conclude your leisurely walking tour enjoying panoramic sunset views from the elevated Cerro da Inês viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen am Morgen verleiht dem Pelourinho einen glänzenden Schimmer, doch die Steine sind rutschig. Mittags bieten die massiven Mauern der Kirchen sicheren Schutz vor den Schauern. Der Nachmittag gehört ganz dem Stadtmuseum, wo man im Trockenen in die Geschichte eintaucht. Am Abend bietet der neblige Blick vom Cerro da Inês eine mystische Atmosphäre unter dem schützenden Schirm.",
+            "hu": "A reggeli eső csillogóvá teszi a Pelourinho köveit, de a csúszásveszély miatt óvatosan járjunk. Délben az Igreja Matriz és a Capela de São Pedro vastag falai nyújtanak menedéket. A délutánt töltsük a Városi Múzeumban, ahol teljesen szárazon ismerhetjük meg a múltat. Este a Cerro da Inês kilátó párás, ködös panorámája misztikus látványt nyújt az esernyő alól.",
+            "ro": "Ploaia de dimineață face ca Pelourinho să strălucească, dar pietrele devin alunecoase. La prânz, bisericile oferă un adăpost sigur și uscat împotriva averselor. După-amiaza este dedicată Muzeului Municipal, unde puteți explora istoria ferit de umezeală. Seara, panorama cețoasă de la Cerro da Inês oferă o atmosferă mistică sub protecția umbrelei.",
+            "en": "Morning rain gives the Pelourinho a glistening sheen, but watch your step on the slippery stones. At noon, the thick walls of the churches provide a dry sanctuary from the showers. Spend the afternoon inside the Municipal Museum, staying completely dry while exploring local history. In the evening, the misty views from Cerro da Inês offer a moody, atmospheric backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pelourinho de Santiago do Cacém",
+                "hu": "Pelourinho de Santiago do Cacém",
+                "ro": "Pelourinho de Santiago do Cacém",
+                "en": "Pelourinho de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Pflastersteine rund um den Pranger können extrem glatt sein; tragen Sie Schuhe mit gutem Profil, um das Denkmal sicher zu bewundern.",
+                "hu": "A Pelourinho körüli macskakő esőben nagyon csúszik, ezért válasszon bordázott talpú cipőt a történelmi emlékoszlop biztonságos megtekintéséhez.",
+                "ro": "Pavelele din jurul pilonului pot fi extrem de alunecoase când sunt ude; purtați încălțăminte cu aderență bună pentru a admira monumentul în siguranță.",
+                "en": "The cobblestones around the pillory can be very slippery when wet; wear shoes with good grip to admire this historic landmark safely in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Matriz de Santiago do Cacém",
+                "hu": "Igreja Matriz de Santiago do Cacém",
+                "ro": "Igreja Matriz de Santiago do Cacém",
+                "en": "Igreja Matriz de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Kircheneingang, um Ihren Regenschirm zu schütteln, bevor Sie die prächtige und trockene Innenausstattung bewundern.",
+                "hu": "Használja a templom fedett bejáratát az esernyő lerázásához, mielőtt belépne a lenyűgöző és teljesen száraz belső térbe a zápor elől.",
+                "ro": "Folosiți intrarea acoperită a bisericii pentru a scutura umbrela înainte de a păși în interiorul grandios și uscat pentru a evita ploaia.",
+                "en": "Use the covered entrance of the church to shake off your umbrella before stepping inside to enjoy the grand, dry interior away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de São Pedro",
+                "hu": "Capela de São Pedro",
+                "ro": "Capela de São Pedro",
+                "en": "Capela de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist ein idealer Ort für eine kurze, trockene Pause, während Sie die schlichte religiöse Architektur im Regen genießen.",
+                "hu": "Ez a kis kápolna tökéletes helyszín egy rövid, száraz pihenőhöz, miközben az eső elől menekülve megcsodálja az egyszerű vallási építészetet.",
+                "ro": "Această capelă mică este un loc ideal pentru o scurtă pauză uscată, în timp ce admirați arhitectura religioasă simplă ferit de ploaie.",
+                "en": "This small chapel is an ideal spot for a quick, dry break while you admire the simple religious architecture sheltered from the outside downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Santiago do Cacém",
+                "hu": "Museu Municipal de Santiago do Cacém",
+                "ro": "Museu Municipal de Santiago do Cacém",
+                "en": "Museu Municipal de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ultimative Rückzugsort bei Regen; planen Sie hier mehr Zeit ein, um die Ausstellungen ohne Eile im Trockenen zu sehen.",
+                "hu": "A múzeum a legjobb menedék esős időben; töltsön itt több időt, és fedezze fel a kiállításokat kényelmesen, száraz környezetben.",
+                "ro": "Muzeul este refugiul suprem pe timp de ploaie; alocați mai mult timp aici pentru a explora expozițiile pe îndelete într-un mediu uscat.",
+                "en": "The museum is the ultimate rainy-day retreat; plan to spend extra time here exploring the exhibits thoroughly while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Cerro da Inês",
+                "hu": "Miradouro do Cerro da Inês",
+                "ro": "Miradouro do Cerro da Inês",
+                "en": "Miradouro do Cerro da Inês"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet bei Regen eine dramatische Wolkenkulisse; halten Sie Ihre Kamera unter dem Schirm bereit für neblige Stadtfotos.",
+                "hu": "A kilátó esőben drámai felhőjátékot mutat; tartsa a fényképezőgépét az esernyő alatt a ködös, hangulatos városi fotók készítéséhez.",
+                "ro": "Belvederea oferă un decor dramatic cu nori pe timp de ploaie; țineți camera sub umbrelă pentru fotografii urbane memorabile în ceață.",
+                "en": "The viewpoint offers a dramatic cloudy backdrop during rain; keep your camera under your umbrella for moody, atmospheric shots of the town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft am Pelourinho erfordert warme Kleidung, während die Wintersonne die Fassaden sanft beleuchtet. Mittags wärmt die Stille der Kirche die Seele. Der Nachmittag im Museum bietet Schutz vor dem kalten Wind. Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; erreichen Sie den Aussichtspunkt Cerro da Inês rechtzeitig für das goldene Winterlicht.",
+            "hu": "A friss téli reggelen jól jön a réteges öltözet a Pelourinhónál, ahogy a halvány napfény megvilágítja a teret. Délben a templom hűvös, de nyugodt belső tere várja. A délutáni múzeumlátogatás segít felmelegedni a kinti szél után. A nap korán, 17:00 körül nyugszik, így időben érjen a Cerro da Inês kilátóhoz a téli alkonyért.",
+            "ro": "Aerul rece de iarnă de la Pelourinho necesită haine groase, în timp ce soarele palid luminează piețele. La prânz, liniștea bisericii oferă un moment de reflecție caldă. După-amiaza la muzeu este perfectă pentru a evita vântul tăios. Rețineți că soarele apune devreme, în jur de 17:00; ajungeți la Cerro da Inês la timp pentru lumina aurie.",
+            "en": "The crisp winter morning at the Pelourinho calls for warm layers as the low sun lights up the square. At noon, the quiet church interior offers a peaceful, chilly escape. An afternoon museum visit is perfect for dodging the cold breeze. Sunset is early at 17:00, so reach the Cerro da Inês viewpoint in time to catch the golden winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pelourinho de Santiago do Cacém",
+                "hu": "Pelourinho de Santiago do Cacém",
+                "ro": "Pelourinho de Santiago do Cacém",
+                "en": "Pelourinho de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Die offene Lage kann im Winter sehr windig sein; tragen Sie einen Schal, während Sie die Details dieses historischen Symbols bewundern.",
+                "hu": "A nyitott tér télen szeles lehet, ezért érdemes sálat viselni, miközben megcsodálja ennek a történelmi jelképnek a részleteit.",
+                "ro": "Locația deschisă poate fi foarte vântoasă iarna; purtați o eșarfă groasă în timp ce admirați detaliile acestui simbol istoric important.",
+                "en": "The open square can be quite windy in winter; wear a warm scarf while you admire the intricate details of this historic stone pillar."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Matriz de Santiago do Cacém",
+                "hu": "Igreja Matriz de Santiago do Cacém",
+                "ro": "Igreja Matriz de Santiago do Cacém",
+                "en": "Igreja Matriz de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Kirchenmauern speichern die Kälte; ein dicker Mantel ist notwendig, um die Ruhe und die sakrale Kunst auch im Winter zu genießen.",
+                "hu": "A templom falai tartják a hideget, így a vastag kabát elengedhetetlen, hogy nyugodtan élvezhesse a szakrális művészetet télen is.",
+                "ro": "Zidurile bisericii rețin frigul; o haină groasă este necesară pentru a vă bucura de liniștea și arta sacră în confort pe timpul iernii.",
+                "en": "The thick stone walls hold the winter chill; keep your coat buttoned up to comfortably enjoy the sacred art and peaceful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de São Pedro",
+                "hu": "Capela de São Pedro",
+                "ro": "Capela de São Pedro",
+                "en": "Capela de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Im Winter fängt die kleine Kapelle oft das späte Mittagslicht ein, was für eine besonders warme und friedliche Atmosphäre im Inneren sorgt.",
+                "hu": "Télen a kis kápolna gyakran befogja a kései déli napfényt, ami különlegesen meleg és békés hangulatot teremt a belső térben.",
+                "ro": "Iarna, capela mică surprinde adesea lumina caldă a prânzului, creând o atmosferă primitoare și liniștită în interiorul său modest.",
+                "en": "In winter, the small chapel often catches the low midday sun, creating a particularly warm and peaceful atmosphere inside the modest space."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Santiago do Cacém",
+                "hu": "Museu Municipal de Santiago do Cacém",
+                "ro": "Museu Municipal de Santiago do Cacém",
+                "en": "Museu Municipal de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als angenehme Aufwärmpause am Nachmittag, bevor die Temperaturen mit Einbruch der Dunkelheit sinken.",
+                "hu": "Használja a múzeumi látogatást délutáni felmelegedésre a fűtött termekben, mielőtt a napnyugta után hirtelen lehűlne a levegő.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire după-amiaza, înainte ca temperaturile să scadă brusc odată cu lăsarea întunericului.",
+                "en": "Use the museum visit as a pleasant warm-up break in the afternoon before the temperatures drop significantly after the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Cerro da Inês",
+                "hu": "Miradouro do Cerro da Inês",
+                "ro": "Miradouro do Cerro da Inês",
+                "en": "Miradouro do Cerro da Inês"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie diesen Punkt früh ansteuern, um die Stadt im sanften Winterzwielicht zu sehen.",
+                "hu": "Mivel a nap 17:00 körül nyugszik, érdemes korán ideérni, hogy még láthassa a várost a lágy téli alkonyati fényekben.",
+                "ro": "Deoarece soarele apune în jur de ora 17:00, planificați să ajungeți devreme pentru a vedea orașul în culorile blânde ale amurgului de iarnă.",
+                "en": "As the sun sets around 17:00, arrive early at this viewpoint to witness the town bathed in the soft, ethereal winter twilight glow."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpározzon ki a friss reggeli levegőn a központi pellengértől a festői dombtetőn lévő szélmalom felé. Délben egy bájos vidéki kápolna mellett halad el. Délután kövesse az ókori rómaiak útját Miróbriga történelmi hídjánál. Végül guruljon vissza a lenyűgöző főtemplomhoz, hogy egy elgondolkodtató estével zárja a túrát.",
         "ro": "Porniți cu bicicleta în aerul proaspăt al dimineții de la piața centrală spre moara de vânt pitorească. Amiaza vă poartă pe lângă o capelă rurală fermecătoare. După-amiaza, urmați calea romanilor antici la podul istoric din Miróbriga. La final, pedalați înapoi spre marea biserică mamă pentru un final de seară liniștit.",
         "en": "Pedal out in the fresh morning air from the central pillory towards the scenic hilltop windmill. Midday brings you past a charming rural chapel as you ride through open landscapes. In the afternoon, trace the path of ancient Romans at the historic bridge of Miróbriga. Finally, cruise back to the grand mother church for a reflective evening end to your ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt am Pelourinho mit Vorsicht bei nasser Fahrbahn. Mittags bietet die Windmühle eine kurze Unterstellmöglichkeit, während der Regen über die Hügel zieht. Die römische Brücke am Nachmittag wirkt im Regen besonders antik, erfordert aber gute Bremsen. Zum Abschluss bietet die Hauptkirche Schutz und Zeit, um die nasse Kleidung vor der Heimfahrt zu trocknen.",
+            "hu": "A kerékpáros nap óvatos indulást igényel a Pelourinhónál a csúszós út miatt. Délben a szélmalom mellett találhatunk rövid menedéket a záporok elől. A római híd délutáni látványa az esőben különösen archaikus, de a sárban figyeljünk a fékezésre. Végül a főtemplom fedett tereiben pihenhetünk meg és szárítkozhatunk a túra végén.",
+            "ro": "Ziua de ciclism începe cu prudență la Pelourinho din cauza carosabilului ud. La prânz, moara de vânt oferă un scurt adăpost în timp ce ploaia trece peste dealuri. Podul roman pare și mai vechi în ploaie, dar necesită frâne bune pe porțiunile umede. La final, biserica principală oferă un loc uscat pentru a vă odihni după traseu.",
+            "en": "Start your cycling day carefully at the Pelourinho, as wet cobblestones are slick. At noon, the windmill provides a brief shelter as rain sweeps across the hills. The Roman bridge looks strikingly ancient in the rain, but ensure your brakes are sharp for the wet descent. Finish at the main church, where you can find a dry spot to recover from the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pelourinho de Santiago do Cacém",
+                "hu": "Pelourinho de Santiago do Cacém",
+                "ro": "Pelourinho de Santiago do Cacém",
+                "en": "Pelourinho de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Anhalten am Pranger plötzliches Bremsen auf den nassen Steinen, um ein Wegrutschen der Reifen zu verhindern.",
+                "hu": "A Pelourinhónál való megálláskor kerülje a hirtelen fékezést a vizes köveken, hogy megelőzze a kerékpár abroncsainak megcsúszását.",
+                "ro": "Evitați frânarea bruscă pe pietrele ude când opriți la Pelourinho pentru a preveni deraparea anvelopelor bicicletei pe carosabilul alunecos.",
+                "en": "Avoid sudden braking on the wet stones when stopping at the Pelourinho to prevent your bike tires from sliding on the slick surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de Vento das Cumeadas",
+                "hu": "Moinho de Vento das Cumeadas",
+                "ro": "Moinho de Vento das Cumeadas",
+                "en": "Moinho de Vento das Cumeadas"
+              },
+              "tip_5lang": {
+                "de": "Die exponierte Lage der Mühle bedeutet starken Wind bei Regen; halten Sie Ihren Lenker fest und tragen Sie eine windfeste Regenjacke.",
+                "hu": "A malom kitett helyszíne miatt esőben erős szélre kell számítani; fogja szorosan a kormányt és viseljen szélálló esőkabátot.",
+                "ro": "Locația expusă a morii înseamnă vânt puternic pe ploaie; țineți bine ghidonul și purtați o jachetă de ploaie rezistentă la vânt.",
+                "en": "The windmill's exposed location means high winds during rain; grip your handlebars firmly and wear a windproof waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de São Brás",
+                "hu": "Capela de São Brás",
+                "ro": "Capela de São Brás",
+                "en": "Capela de São Brás"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach der Kapelle, um das Fahrrad kurz abzustellen und sich vor dem nächsten Anstieg im Trockenen zu sammeln.",
+                "hu": "Használja ki a kápolna előtti kis tetőt, hogy rövid időre szárazon hagyja a bringát és összeszedje magát a következő emelkedő előtt.",
+                "ro": "Folosiți streașina capelei pentru a lăsa bicicleta la uscat un moment și pentru a vă regrupa înainte de următoarea urcare prin ploaie.",
+                "en": "Take advantage of the chapel's small porch to keep your bike dry briefly and compose yourself before the next uphill section in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte Romana de Miróbriga",
+                "hu": "Ponte Romana de Miróbriga",
+                "ro": "Ponte Romana de Miróbriga",
+                "en": "Ponte Romana de Miróbriga"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Brücke kann schlammig sein; fahren Sie langsam und achten Sie auf Pfützen, die die unebenen römischen Steine verbergen.",
+                "hu": "A hídhoz vezető út sáros lehet; haladjon lassan és figyeljen a tócsákra, amelyek elrejthetik az egyenetlen római kori köveket.",
+                "ro": "Drumul spre pod poate fi noroios; pedalați încet și fiți atenți la bălțile care pot ascunde pietrele romane inegale și periculoase.",
+                "en": "The path to the bridge can get muddy; ride slowly and watch out for puddles that might hide uneven Roman stones along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Matriz de Santiago do Cacém",
+                "hu": "Igreja Matriz de Santiago do Cacém",
+                "ro": "Igreja Matriz de Santiago do Cacém",
+                "en": "Igreja Matriz de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Nach der nassen Tour ist die Kirche ein friedlicher Ort zum Aufwärmen; achten Sie darauf, mit Ihren nassen Schuhen nicht auszurutschen.",
+                "hu": "A vizes túra után a templom békés hely a megnyugvásra; ügyeljen rá, hogy vizes cipővel ne csússzon meg a belső kőpadlón.",
+                "ro": "După tura umedă, biserica este un loc liniștit pentru recuperare; aveți grijă să nu alunecați pe podeaua de piatră cu pantofii uzi.",
+                "en": "After the wet ride, the church is a peaceful place to warm up; be careful not to slip on the stone floors with your wet cycling shoes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wind begleitet den Start am Pelourinho; Handschuhe sind für Radfahrer heute Pflicht. Mittags bietet die Windmühle weite Sichten über die klare Winterlandschaft. Der Weg zur römischen Brücke am Nachmittag ist erfrischend, aber die Kälte zieht schnell an. Da es um 17:00 Uhr dunkel wird, beenden Sie die Tour an der Kirche, bevor die Sicht im Winterzwielicht abnimmt.",
+            "hu": "Hűvös szél kíséri az indulást a Pelourinhónál; a kesztyű ma kötelező a bringásoknak. Délben a szélmalomtól messzire ellátni a tiszta téli levegőben. A római hídhoz vezető út frissítő, de a hideg gyorsan fokozódik. Mivel 17:00-kor sötétedik, fejezze be a túrát a templomnál, mielőtt romlanának a látási viszonyok.",
+            "ro": "Un vânt rece însoțește startul de la Pelourinho; mănușile sunt obligatorii pentru bicicliști astăzi. La prânz, moara oferă vederi largi peste peisajul clar de iarnă. Drumul spre podul roman este revigorant, dar frigul se resimte rapid. Deoarece se întunecă la 17:00, încheiați tura la biserică înainte de lăsarea serii.",
+            "en": "A chilly breeze greets your start at the Pelourinho; cycling gloves are a must today. At noon, the windmill offers expansive views across the clear winter landscape. The ride to the Roman bridge is refreshing, but the cold sets in quickly. With sunset at 17:00, finish your tour at the church before visibility drops in the winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pelourinho de Santiago do Cacém",
+                "hu": "Pelourinho de Santiago do Cacém",
+                "ro": "Pelourinho de Santiago do Cacém",
+                "en": "Pelourinho de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Der Metalllenker kann im Winter sehr kalt werden; tragen Sie isolierte Handschuhe, um die Kontrolle bei der Besichtigung zu behalten.",
+                "hu": "A fém kormány télen nagyon lehűlhet; viseljen hőszigetelt kesztyűt, hogy kényelmesen irányíthassa a gépet a városnézés közben is.",
+                "ro": "Ghidonul metalic poate deveni foarte rece iarna; purtați mănuși izolate pentru a menține controlul în timp ce vizitați centrul istoric.",
+                "en": "Metal handlebars can get very cold in winter; wear insulated gloves to maintain control and comfort while exploring the historic center."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de Vento das Cumeadas",
+                "hu": "Moinho de Vento das Cumeadas",
+                "ro": "Moinho de Vento das Cumeadas",
+                "en": "Moinho de Vento das Cumeadas"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind auf dem Hügel ist bissig; halten Sie den Stopp kurz und genießen Sie die klare Fernsicht, bevor Sie sich wieder bewegen.",
+                "hu": "A dombtetőn a téli szél metsző lehet; tartsa rövidre a megállót, és élvezze a tiszta távlatokat, mielőtt újra mozgásba lendülne.",
+                "ro": "Vântul de iarnă de pe deal este tăios; faceți o oprire scurtă pentru a admira panorama clară înainte de a vă pune din nou în mișcare.",
+                "en": "The winter wind on the hill is biting; keep your stop brief and enjoy the crisp, long-distance views before you start moving again to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de São Brás",
+                "hu": "Capela de São Brás",
+                "ro": "Capela de São Brás",
+                "en": "Capela de São Brás"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz vor dem kalten Fahrtwind; ein idealer Moment, um einen Schluck warmen Tee aus der Thermoskanne zu trinken.",
+                "hu": "A kápolna falai felfogják a jeges szelet; tökéletes pillanat egy korty meleg tea elfogyasztására a termoszból a továbbhaladás előtt.",
+                "ro": "Capela oferă adăpost împotriva vântului rece; este momentul ideal pentru o gură de ceai cald din termos înainte de a continua drumul.",
+                "en": "The chapel provides shelter from the freezing headwind; it is the perfect moment for a sip of warm tea from your thermos before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte Romana de Miróbriga",
+                "hu": "Ponte Romana de Miróbriga",
+                "ro": "Ponte Romana de Miróbriga",
+                "en": "Ponte Romana de Miróbriga"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den römischen Steinen am frühen Nachmittag; fahren Sie vorsichtig über die Brücke, da sie glatt sein kann.",
+                "hu": "Figyeljen a kora délutáni zúzmarára a római köveken; óvatosan hajtson át a hídon, mert a felülete télen váratlanul csúszós lehet.",
+                "ro": "Atenție la bruma de pe pietrele romane la începutul după-amiezii; traversați podul cu prudență, deoarece poate fi alunecos iarna.",
+                "en": "Watch out for frost on the Roman stones in the early afternoon; cross the bridge cautiously as the surface can be unexpectedly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Matriz de Santiago do Cacém",
+                "hu": "Igreja Matriz de Santiago do Cacém",
+                "ro": "Igreja Matriz de Santiago do Cacém",
+                "en": "Igreja Matriz de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier vor 17:00 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die letzte Etappe im Dunkeln funktioniert.",
+                "hu": "Fejezze be a túrát 17:00 előtt; győződjön meg róla, hogy a kerékpár lámpái működnek az utolsó, sötétedés utáni szakaszhoz.",
+                "ro": "Încheiați tura aici înainte de ora 17:00; asigurați-vă că luminile bicicletei funcționează pentru ultima etapă parcursă pe întuneric.",
+                "en": "Finish your tour here before 17:00; make sure your bike lights are fully functional for the final stretch as the darkness sets in quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Reggel először vezessen fel a kilátóhoz, hogy fentről figyelje a város ébredését. A telet töltse a helyi múzeum néprajzi kiállításainak felfedezésével és a malom meglátogatásával. A délutánt a hatalmas miróbrigai római hippodrom felfedezésének szenteljük. Zárja a napot egy békés sétával a közeli ókori római hídnál.",
         "ro": "Conduceți la prima oră către punctul de belvedere pentru a vedea cum se trezește orașul de sus. Petreceți-vă amiaza scufundându-vă în expozițiile muzeului local și la o moară istorică. După-amiaza este dedicată explorării imensului hipodrom roman din Miróbriga. Încheiați-vă excursia cu o plimbare liniștită pe podul roman din apropiere.",
         "en": "Drive up to the viewpoint first thing to witness the town awakening from above. Spend your midday diving into rich ethnographic exhibits at the local museum and spotting a historic mill. The afternoon is dedicated to exploring the sprawling Roman hippodrome of Miróbriga. Wrap up your day trip with a peaceful walk across the ancient Roman bridge nearby."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto starten Sie trocken am nebligen Aussichtspunkt Cerro da Inês. Mittags ist das Stadtmuseum der perfekte Zufluchtsort vor dem Dauerregen. Die Fahrt zur Mühle und zum römischen Hippodrom bietet Komfort, während draußen der Wind peitscht. Den Abschluss bildet die römische Brücke, die Sie mit einem großen Regenschirm bewaffnet kurz besichtigen, bevor Sie die Heizung im Auto genießen.",
+            "hu": "Autóval szárazon indulhat a ködös Cerro da Inês kilátónál. Délben a Városi Múzeum a tökéletes menedék a kitartó eső elől. A malomhoz és a római hipodromhoz vezető út kényelmes, miközben odakint süvít a szél. A napot a római hídnál zárjuk, amit egy nagy esernyővel felfegyverkezve érdemes megnézni, mielőtt visszatérne a fűtött autóba.",
+            "ro": "Cu mașina, începeți confortabil la punctul de belvedere Cerro da Inês, ferit de ceață. La prânz, Muzeul Municipal este refugiul perfect împotriva ploii persistente. Drumul către moară și hipodromul roman este plăcut, în timp ce afară vântul suflă tare. Încheiați la podul roman, vizitându-l rapid cu o umbrelă mare înainte de a reveni la căldură.",
+            "en": "By car, you start dry at the misty Cerro da Inês viewpoint. At noon, the Municipal Museum is the perfect sanctuary from the persistent rain. The drive to the windmill and Roman ruins is comfortable while the wind howls outside. Finish at the Roman bridge; visit it briefly with a large umbrella before retreating back to the comfort of your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Cerro da Inês",
+                "hu": "Miradouro do Cerro da Inês",
+                "ro": "Miradouro do Cerro da Inês",
+                "en": "Miradouro do Cerro da Inês"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Panoramablick durch die Windschutzscheibe; die Sicht bleibt auch so beeindruckend.",
+                "hu": "Szakadó esőben maradjon az autóban, és élvezze a panorámát a szélvédőn keresztül; a kilátás így is lenyűgöző marad a városra.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și bucurați-vă de panoramă prin parbriz; vederea asupra orașului rămâne impresionantă.",
+                "en": "In heavy rain, stay inside the car and enjoy the panoramic view through the windshield; the sight of the town is still impressive from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Santiago do Cacém",
+                "hu": "Museu Municipal de Santiago do Cacém",
+                "ro": "Museu Municipal de Santiago do Cacém",
+                "en": "Museu Municipal de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen schnell zu überbrücken und die trockenen Ausstellungsräume zu erreichen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy gyorsan beérjen az eső elől a múzeum száraz és érdekes kiállítótermeibe.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge rapid în interiorul uscat al muzeului și a explora expozițiile fără a vă uda prea tare.",
+                "en": "Park as close to the entrance as possible to minimize your time in the rain and reach the dry, fascinating museum galleries quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho da Campa",
+                "hu": "Moinho da Campa",
+                "ro": "Moinho da Campa",
+                "en": "Moinho da Campa"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp direkt aus dem Autofenster ist ideal, wenn der Regen an der exponierten Mühle zu stark für einen Spaziergang ist.",
+                "hu": "Egy gyors fotómegálló közvetlenül az autó ablakából ideális, ha az eső a nyitott malomnál túl erős lenne egy gyalogos sétához.",
+                "ro": "O oprire rapidă pentru fotografii direct de pe geamul mașinii este ideală dacă ploaia la moară este prea puternică pentru o plimbare.",
+                "en": "A quick photo stop directly from your car window is ideal if the rain at the exposed windmill is too heavy for a short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruínas do Hipódromo Romano de Miróbriga",
+                "hu": "Ruínas do Hipódromo Romano de Miróbriga",
+                "ro": "Ruínas do Hipódromo Romano de Miróbriga",
+                "en": "Ruínas do Hipódromo Romano de Miróbriga"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Ruinen können schlammig sein; nutzen Sie feste Stiefel und einen stabilen Schirm für die Erkundung im Regen.",
+                "hu": "A romok közötti ösvények sárosak lehetnek; használjon vízálló bakancsot és egy stabil esernyőt a szabadtéri régészeti terület bejárásához.",
+                "ro": "Potecile dintre ruine pot fi noroioase; folosiți cizme rezistente și o umbrelă stabilă pentru a explora situl arheologic în siguranță.",
+                "en": "The paths between the ruins can get muddy; use sturdy boots and a strong umbrella to explore the archaeological site during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte Romana de Miróbriga",
+                "hu": "Ponte Romana de Miróbriga",
+                "ro": "Ponte Romana de Miróbriga",
+                "en": "Ponte Romana de Miróbriga"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie den Motor für eine schnelle Aufwärmpause bereit, nachdem Sie kurz die antike Brücke unter dem Regenschirm besichtigt haben.",
+                "hu": "Tartsa készenlétben az autó fűtését egy gyors felmelegedéshez, miután az esernyő alatt megcsodálta az antik római kori hidat.",
+                "ro": "Păstrați motorul pornit pentru o încălzire rapidă după ce ați vizitat scurt podul antic sub protecția umbrelei pe parcursul ploii.",
+                "en": "Keep the car heater ready for a quick warm-up after you briefly visit the ancient bridge under your umbrella during the downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt mit der Autoheizung auf dem Weg zum Aussichtspunkt Cerro da Inês. Mittags bietet das Museum angenehme Temperaturen für Kulturinteressierte. Die Fahrt zur Mühle und zum Hippodrom ermöglicht es, die Landschaft ohne den kalten Wind zu sehen. Planen Sie den Besuch der römischen Brücke vor dem Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen im Freien stark sinken.",
+            "hu": "A téli autós túra a fűtés felkapcsolásával indul a Cerro da Inês kilátó felé. Délben a múzeum kellemes hőmérsékletet biztosít a kultúra kedvelőinek. A malomhoz és a hipodromhoz vezető út során az autóból élvezheti a tájat a fagyos szél nélkül. A római hidat még a 17:00-ás napnyugta előtt nézze meg, mert utána hirtelen lehűl az idő.",
+            "ro": "Turul de iarnă începe cu încălzirea pornită în drum spre punctul de belvedere Cerro da Inês. La prânz, muzeul oferă temperaturi plăcute pentru iubitorii de cultură. Drumul către moară și hipodrom vă permite să vedeți peisajul fără vântul rece de afară. Vizitați podul roman înainte de apusul de la 17:00, când temperaturile scad brusc.",
+            "en": "Your winter car tour starts with the heater on high as you drive to the Cerro da Inês viewpoint. At noon, the museum offers a comfortably warm environment for history lovers. The drive to the windmill and ruins lets you enjoy the views without the biting wind. Plan your visit to the Roman bridge before the 17:00 sunset when the air turns very cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro do Cerro da Inês",
+                "hu": "Miradouro do Cerro da Inês",
+                "ro": "Miradouro do Cerro da Inês",
+                "en": "Miradouro do Cerro da Inês"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Luft oft sehr klar; nutzen Sie die Wärme des Autos für einen langen Blick auf das scharf gezeichnete Stadtpanorama.",
+                "hu": "Télen a levegő gyakran rendkívül tiszta; élvezze az autó melegéből a város éles kontúrú panorámáját a friss, hideg időben.",
+                "ro": "Iarna, aerul este adesea foarte clar; profitați de căldura mașinii pentru a admira panorama clară a orașului în zilele senine și reci.",
+                "en": "The winter air is often very clear; take advantage of the car's warmth to enjoy a long look at the sharply defined town panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Santiago do Cacém",
+                "hu": "Museu Municipal de Santiago do Cacém",
+                "ro": "Museu Municipal de Santiago do Cacém",
+                "en": "Museu Municipal de Santiago do Cacém"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ein idealer Ort zum Aufwärmen; lassen Sie Ihre schweren Mäntel an der Garderobe, um die Räume bequem zu erkunden.",
+                "hu": "A múzeum télen kiváló hely a felmelegedésre; hagyja a nehéz kabátokat a ruhatárban, hogy kényelmesen járhassa be a fűtött termeket.",
+                "ro": "Muzeul este un loc excelent pentru încălzire iarna; lăsați hainele groase la garderobă pentru a explora galeriile în confort termic.",
+                "en": "The museum is an excellent place to warm up in winter; leave your heavy coats at the cloakroom to explore the galleries comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho da Campa",
+                "hu": "Moinho da Campa",
+                "ro": "Moinho da Campa",
+                "en": "Moinho da Campa"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Besichtigung kurz, da der Wind an der Mühle im Winter sehr kalt sein kann; das Auto parkt direkt daneben für schnellen Schutz.",
+                "hu": "Tartsa rövidre a látogatást, mert a szél a malomnál télen nagyon metsző lehet; az autó közvetlenül mellette parkol a gyors védelemért.",
+                "ro": "Faceți o vizită scurtă, deoarece vântul la moară poate fi foarte rece iarna; mașina parcată chiar lângă oferă un refugiu rapid la nevoie.",
+                "en": "Keep your visit brief as the wind at the windmill can be very biting in winter; your car is parked right nearby for a quick warm escape."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruínas do Hipódromo Romano de Miróbriga",
+                "hu": "Ruínas do Hipódromo Romano de Miróbriga",
+                "ro": "Ruínas do Hipódromo Romano de Miróbriga",
+                "en": "Ruínas do Hipódromo Romano de Miróbriga"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen am frühen Nachmittag, um die maximale Wintersonne für Ihre Fotos der weitläufigen Anlage zu nutzen.",
+                "hu": "Látogassa meg a romokat kora délután, hogy a legtöbb téli napsütést használhassa ki a tágas régészeti terület fotózásához.",
+                "ro": "Vizitați ruinele la începutul după-amiezii pentru a profita de maximum de soare iarna pentru fotografiile sitului arheologic extins.",
+                "en": "Visit the ruins in the early afternoon to capture the best winter sunlight for your photos of the extensive archaeological grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte Romana de Miróbriga",
+                "hu": "Ponte Romana de Miróbriga",
+                "ro": "Ponte Romana de Miróbriga",
+                "en": "Ponte Romana de Miróbriga"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie vor 17:00 Uhr zurück am Auto sind, da es schnell dunkel wird und die Temperaturen auf dem Land stark fallen.",
+                "hu": "Ügyeljen rá, hogy 17:00 előtt érjen vissza az autóhoz, mert gyorsan sötétedik és a hőmérséklet hirtelen zuhan a vidéki környezetben.",
+                "ro": "Asigurați-vă că reveniți la mașină înainte de ora 17:00, deoarece se întunecă rapid și temperaturile scad brusc în zona rurală.",
+                "en": "Ensure you are back at your car before 17:00, as darkness falls quickly and the rural temperatures drop sharply after the winter sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

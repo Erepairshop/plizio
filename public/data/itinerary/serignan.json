@@ -137,6 +137,168 @@
         "hu": "Kezdje a Saint-Roch hídnál a folyóra nyíló kilátással, majd fedezze fel a gótikus társaskáptalani templomot. Délben a La Cigalière kínál kortárs művészetet, mielőtt dél felé venné az irányt. Délután a szabadtéri medence nyújt kellemes felfrissülést a hosszú séta után. Az estét a Les Orpellières Természetvédelmi Terület csendes dűnéi között zárja, a lenyugvó nap meleg fényében.",
         "ro": "Începeți la pasarela Saint-Roch cu vedere la râu, apoi explorați biserica gotică. La prânz, La Cigalière oferă artă contemporană, înainte de o plimbare mai lungă spre sud. După-amiaza, piscina în aer liber vă oferă o răcorire binevenită. Seara se încheie liniștit în dunele protejate ale rezervației naturale Les Orpellières, sub lumina caldă a soarelui la apus.",
         "en": "Start at the Saint-Roch Footbridge with river views, then explore the majestic Gothic Collegiate Church. Midday, La Cigalière offers contemporary culture before a longer stroll southwards. In the afternoon, the outdoor pool provides welcome refreshment after the walk. Conclude your day in the serene dunes of Les Orpellières Nature Reserve, bathed in warm late afternoon sunlight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen an der Fußgängerbrücke mit einem Regenschirm. Mittags bieten die Kirche und das Kulturzentrum einen trockenen Zufluchtsort. Der Nachmittagsspaziergang zum Naturschutzgebiet erfordert wasserdichte Schuhe. Beenden Sie den Regentag früh in einem gemütlichen Lokal.",
+            "hu": "Kezdje a reggelt a gyalogoshídnál, egy masszív esernyővel felszerelkezve. Délben a templom és a kulturális központ nyújt száraz menedéket. A délutáni séta a természetvédelmi területre vízálló cipőt igényel. Este térjen be egy fedett, meleg helyre pihenni.",
+            "ro": "Începeți dimineața la pasarelă, luând o umbrelă rezistentă. La prânz, biserica și centrul cultural oferă un refugiu uscat. Plimbarea de după-amiază spre rezervație necesită încălțăminte impermeabilă. Seara, relaxați-vă devreme într-un loc acoperit.",
+            "en": "Start your morning at the footbridge, bringing a sturdy umbrella. Midday offers dry refuge inside the church and the cultural center. The afternoon walk to the reserve requires waterproof boots. Conclude your rainy day early, resting indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Passerelle Saint-Roch",
+                "hu": "Saint-Roch gyalogoshíd",
+                "ro": "Pasarela Saint-Roch",
+                "en": "Saint-Roch Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke wird bei Nässe rutschig; tragen Sie wasserdichte Schuhe, während Sie den Fluss fotografieren.",
+                "hu": "A híd csúszóssá válhat esőben; viseljen jó vízálló cipőt, miközben a folyót fotózza.",
+                "ro": "Podul devine alunecos când plouă; purtați pantofi impermeabili în timp ce fotografiați râul.",
+                "en": "The bridge gets slippery when wet; wear good waterproof shoes while taking photos of the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-de-Grâce",
+                "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+                "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+                "en": "Collegiate Church of Notre-Dame-de-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckenden Buntglasfenster von innen, ein perfekter trockener Zufluchtsort bei plötzlichen Regengüssen.",
+                "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat belülről, tökéletes száraz menedék hirtelen záporok idején.",
+                "ro": "Admirați vitraliile uimitoare din interior, un refugiu uscat perfect în timpul ploilor bruște.",
+                "en": "Admire the stunning stained glass from inside, a perfect dry refuge during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cigalière",
+                "hu": "La Cigalière",
+                "ro": "La Cigalière",
+                "en": "La Cigalière"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im Innenbereich; ein großartiger kultureller Ort, um dem Regen zu entfliehen.",
+                "hu": "Élvezze a beltéri kiállításokat és előadásokat; nagyszerű kulturális helyszín az eső elől való menekülésre.",
+                "ro": "Bucurați-vă de expozițiile din interior; un loc cultural excelent pentru a scăpa complet de ploaie.",
+                "en": "Enjoy the indoor exhibitions and performances; a great cultural spot to escape the rain completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Freibad",
+                "hu": "Szabadtéri medence",
+                "ro": "Piscină în aer liber",
+                "en": "Piscine extérieure"
+              },
+              "tip_5lang": {
+                "de": "Auch bei Regen ist das Schwimmbad einladend, halten Sie jedoch ein großes trockenes Handtuch bereit.",
+                "hu": "Még esőben is hívogató a medence, ha nyitva van, de készítsen elő egy nagy száraz törölközőt a kijövetelhez.",
+                "ro": "Chiar și pe ploaie, piscina este tentantă dacă e deschisă, dar pregătiți un prosop mare uscat pentru ieșire.",
+                "en": "Even in the rain, the pool is inviting if open, but have a large dry towel ready for when you exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Les Orpellières",
+                "hu": "Les Orpellières Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Les Orpellières",
+                "en": "Les Orpellières Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die schlammigen Wege erfordern wasserdichte Stiefel; der Regen verleiht dem Naturschutzgebiet eine mystische Atmosphäre.",
+                "hu": "A sáros ösvények vízálló csizmát igényelnek; az eső misztikus hangulatot kölcsönöz a rezervátumnak.",
+                "ro": "Potecile noroioase necesită cizme impermeabile; ploaia oferă rezervației naturale o atmosferă mistică.",
+                "en": "The muddy paths require waterproof boots; the gentle rain gives the nature reserve a mystical vibe."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen an der Brücke erfordert warme Kleidung. Mittags bieten die Kirche und das Kulturzentrum eine gemütliche Pause. Der Nachmittagsspaziergang zum Naturschutzgebiet ist frisch und schön. Kehren Sie abends zurück, da die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "A hűvös reggel a hídnál meleg rétegeket követel. Délben a templom és a kulturális központ nyújt kellemes melegedési lehetőséget. A délutáni séta a természetvédelmi területen frissítő és szép. Este térjen vissza időben, mivel 17:00 körül korán sötétedik.",
+            "ro": "O dimineață răcoroasă la pasarelă necesită haine groase. La prânz, biserica și centrul cultural oferă o pauză caldă. Plimbarea de după-amiază spre rezervație este revigorantă. Seara, întoarceți-vă devreme, deoarece soarele apune în jur de 17:00.",
+            "en": "A chilly morning at the footbridge requires warm layers. Midday visits to the church and cultural center offer a cozy break. The afternoon walk to the nature reserve is brisk but beautiful. Return by evening as the sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Passerelle Saint-Roch",
+                "hu": "Saint-Roch gyalogoshíd",
+                "ro": "Pasarela Saint-Roch",
+                "en": "Saint-Roch Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenbrise auf der Brücke ist kalt; tragen Sie beim Überqueren eine Windjacke und einen Schal.",
+                "hu": "A reggeli szél a hídon meglehetősen hideg; viseljen széldzsekit és sálat az átkeléshez.",
+                "ro": "Briza dimineții pe pod este destul de rece; purtați o jachetă de vânt și un fular la traversare.",
+                "en": "The morning breeze on the bridge is quite cold; wear a windbreaker and scarf while crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-de-Grâce",
+                "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+                "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+                "en": "Collegiate Church of Notre-Dame-de-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere kann kühl sein, aber das Winterlicht durch die Fenster ist wunderschön; behalten Sie die Jacke an.",
+                "hu": "A kőbelső hűvös lehet, de a téli fény az ablakokon keresztül gyönyörű; tartsa magán a kabátját.",
+                "ro": "Interiorul din piatră poate fi răcoros, dar lumina de iarnă prin ferestre este superbă; păstrați haina.",
+                "en": "The stone interior can be chilly, but the winter light through the windows is beautiful; keep your coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cigalière",
+                "hu": "La Cigalière",
+                "ro": "La Cigalière",
+                "en": "La Cigalière"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort; erkunden Sie die zeitgenössische Kunst, ohne draußen in der Kälte zu frieren.",
+                "hu": "Meleg beltéri menedék; fedezze fel a kortárs művészetet, anélkül, hogy kint fagyoskodna.",
+                "ro": "Un refugiu cald la interior; explorați arta contemporană fără a îngheța afară în frigul iernii.",
+                "en": "A warm indoor haven; explore the contemporary art without freezing outside in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Freibad",
+                "hu": "Szabadtéri medence",
+                "ro": "Piscină în aer liber",
+                "en": "Piscine extérieure"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wahrscheinlich geschlossen, prüfen Sie die Innenanlagen oder betrachten Sie nur die Architektur.",
+                "hu": "Télen valószínűleg zárva van vagy nagyon hideg, ellenőrizze a beltéri medencéket vagy csak nézze meg az építészetet.",
+                "ro": "Probabil închisă sau foarte rece iarna, verificați facilitățile interioare sau doar admirați arhitectura.",
+                "en": "Likely closed or very cold in winter, check if the indoor facilities are open or just view the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Les Orpellières",
+                "hu": "Les Orpellières Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Les Orpellières",
+                "en": "Les Orpellières Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Kleiden Sie sich im Zwiebellook; die Winterlandschaft ist karg, aber beeindruckend vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Öltözzön rétegesen; a téli táj kopár, de lenyűgöző a korai, 17:00 órai naplemente előtt.",
+                "ro": "Îmbrăcați-vă în straturi; peisajul de iarnă este arid, dar izbitor înainte de apusul devreme la 17:00.",
+                "en": "Dress in layers; the winter landscape is barren but striking before the early 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Induljon a hangulatos Place de la Liberté térről, és tekerjen a La Cigalière kulturális központjához. Délben látogassa meg a történelmi templomot, majd induljon a part felé. Délután egy frissítő csobbanás várja a medencénél. Kora este fedezze fel a Les Orpellières dűnéit, majd fejezze be a napot a tengerpart aranyhomokján, hallgatva a hullámok játékát.",
         "ro": "Porniți din fermecătoarea Place de la Liberté și pedalați spre centrul cultural La Cigalière. La prânz, vizitați biserica istorică din centru, înainte de a vă îndrepta spre coastă. După-amiaza vă invită la o pauză răcoritoare la piscină. Seara, explorați natura în Les Orpellières și încheiați ziua relaxându-vă pe vasta plajă de nisip din Sérignan.",
         "en": "Start from the charming Place de la Liberté and cycle towards the modern cultural hub, La Cigalière. Midday, visit the historic Collegiate Church in the center before pedaling smoothly toward the coast. The afternoon invites a refreshing break at the outdoor pool. In the evening, explore the natural beauty of Les Orpellières and finish your day relaxing on the wide sandy beach of Sérignan."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die nasse Morgenfahrt beginnt am Platz; benutzen Sie Schutzbleche. Die mittäglichen Stopps bieten Schutz. Die Nachmittagsfahrt zum Reservat ist stimmungsvoll. Abends sind die Straßen rutschig, fahren Sie vorsichtig.",
+            "hu": "A nedves reggeli kerékpározás a téren indul; használjon sárvédőt. A déli megállók fedett menedéket nyújtanak. A délutáni tekerés a rezervátumba borongós, de szép. Este az utak csúszósak, óvatosan térjen vissza.",
+            "ro": "Plimbarea umedă de dimineață începe în piață; folosiți apărători de noroi. Opririle de la prânz oferă adăpost. Călătoria de după-amiază spre rezervație este superbă. Seara străzile sunt alunecoase, întoarceți-vă cu grijă.",
+            "en": "A wet morning ride starts at the square; use mudguards. Midday stops at the cultural center provide shelter. The afternoon ride to the reserve is moody but beautiful. Evening roads are slippery, so head back carefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Place de la Liberté",
+                "ro": "Place de la Liberté",
+                "en": "Place de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Kopfsteinpflaster kann für Fahrräder rutschig sein; ziehen Sie einen guten Regenmantel an.",
+                "hu": "A nedves macskakövek csúszósak lehetnek a kerékpárok számára; indulás előtt vegyen fel egy jó esőkabátot.",
+                "ro": "Piatra cubică umedă poate fi alunecoasă pentru biciclete; purtați o pelerină de ploaie bună.",
+                "en": "The wet cobblestones can be slippery for bikes; wear a good raincoat before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cigalière",
+                "hu": "La Cigalière",
+                "ro": "La Cigalière",
+                "en": "La Cigalière"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und trocknen Sie sich drinnen ab, während Sie die Ausstellungen genießen.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és száradjon meg bent, miközben élvezi a kiállításokat.",
+                "ro": "Parcați bicicleta în siguranță și uscați-vă înăuntru în timp ce vă bucurați de expozițiile culturale.",
+                "en": "Park your bike securely and dry off inside while enjoying the fascinating cultural exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-de-Grâce",
+                "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+                "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+                "en": "Collegiate Church of Notre-Dame-de-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger trockener Stopp, um sich aufzuwärmen und die Architektur zu bewundern, während der Regen fällt.",
+                "hu": "Remek száraz megálló, ahol felmelegedhet és megcsodálhatja az építészetet, miközben az eső mossa az utcákat.",
+                "ro": "O oprire uscată excelentă pentru a vă încălzi și admira arhitectura în timp ce ploaia spală străzile.",
+                "en": "A great dry stop to warm up and admire the historic architecture while the rain washes the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Freibad",
+                "hu": "Szabadtéri medence",
+                "ro": "Piscină în aer liber",
+                "en": "Piscine extérieure"
+              },
+              "tip_5lang": {
+                "de": "Nasse Ausrüstung macht dies schwierig; packen Sie Ihren Badeanzug in eine wasserdichte Tasche.",
+                "hu": "A nedves felszerelés megnehezíti ezt; csomagolja a fürdőruháját vízálló táskába, ha úszni tervez.",
+                "ro": "Echipamentul umed complică situația; puneți costumul de baie într-o geantă impermeabilă dacă înotați.",
+                "en": "Wet gear makes this tricky; pack your swimsuit in a waterproof bag if you still plan to swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Les Orpellières",
+                "hu": "Les Orpellières Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Les Orpellières",
+                "en": "Les Orpellières Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Wege werden bei Regen sehr schlammig; bleiben Sie auf den Hauptpfaden und bremsen Sie sanft.",
+                "hu": "Az ösvények rendkívül sárosak lesznek esőben; maradjon a főutakon, és fékezzen óvatosan.",
+                "ro": "Traseele devin foarte noroioase pe ploaie; rămâneți pe cărările principale și frânați ușor pentru a nu aluneca.",
+                "en": "Trails get extremely muddy in the rain; stick to the main paths and brake gently to avoid sliding."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Sérignan",
+                "hu": "Sérignan strand",
+                "ro": "Plaja Sérignan",
+                "en": "Plage Sérignan"
+              },
+              "tip_5lang": {
+                "de": "Das stürmische Meer ist wunderschön; lassen Sie Ihr Fahrrad auf befestigten Wegen, um nicht im Sand steckenzubleiben.",
+                "hu": "A viharos tenger gyönyörű, de tartsa a kerékpárt a burkolt részeken, nehogy elakadjon a nedves homokban.",
+                "ro": "Marea furtunoasă este frumoasă de privit, dar țineți bicicleta pe secțiunile pavate pentru a nu vă bloca în nisip.",
+                "en": "The stormy sea is beautiful to watch, but keep your bike on the paved sections to avoid getting stuck in wet sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgenstart erfordert dicke Handschuhe. Die kulturellen Stopps am Mittag bieten wichtige Wärme. Die Nachmittagsfahrt ist friedlich. Kehren Sie vor dem schnellen Sonnenuntergang um 17:00 Uhr zurück.",
+            "hu": "A csípős reggeli induláshoz vastag kesztyű kell. A déli kulturális megállók meleget nyújtanak. A délutáni tekerés a rezervátumba békés. Térjen vissza a gyors 17:00 órai naplemente és lehűlés előtt.",
+            "ro": "Dimineața geroasă necesită mănuși groase. Opririle culturale de la prânz oferă căldura necesară. Călătoria de după-amiază spre rezervație este pașnică. Întoarceți-vă înainte de apusul rapid de la 17:00.",
+            "en": "A crisp morning start requires thick gloves. Midday cultural stops offer essential warmth. The afternoon ride to the reserve is peaceful and stark. Return to base before the rapid sunset and temperature drop at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Place de la Liberté",
+                "ro": "Place de la Liberté",
+                "en": "Place de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger Morgen beginnt hier; tragen Sie dicke, winddichte Handschuhe für die ruhige Winteratmosphäre.",
+                "hu": "A fagyos reggel itt kezdődik; viseljen vastag szélálló kesztyűt, és élvezze a csendes téli hangulatot.",
+                "ro": "Dimineața geroasă începe aici; purtați mănuși groase rezistente la vânt și bucurați-vă de atmosfera de iarnă.",
+                "en": "Frosty morning starts here; wear thick windproof gloves for cycling and enjoy the quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cigalière",
+                "hu": "La Cigalière",
+                "ro": "La Cigalière",
+                "en": "La Cigalière"
+              },
+              "tip_5lang": {
+                "de": "Eine dringend benötigte warme Pause; parken Sie Ihr Fahrrad und genießen Sie die Kunst abseits der Kälte.",
+                "hu": "Nagy szükség van a meleg pihenőre; parkolja le a bringát, és élvezze a beltéri művészetet a hideg huzat elől.",
+                "ro": "O pauză caldă binevenită; parcați bicicleta și bucurați-vă de arta contemporană departe de curentul rece.",
+                "en": "A much-needed warm break; park your bike and enjoy the indoor contemporary art away from the cold draft."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-de-Grâce",
+                "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+                "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+                "en": "Collegiate Church of Notre-Dame-de-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet die Kirche wunderschön; machen Sie eine kurze, friedliche Pause im Inneren.",
+                "hu": "Az alacsony téli nap gyönyörűen megvilágítja a templomot; tartson egy rövid, békés szünetet bent, szélvédett helyen.",
+                "ro": "Soarele jos de iarnă iluminează frumos biserica; faceți o pauză scurtă și liniștită înăuntru, ferit de vânt.",
+                "en": "The low winter sun illuminates the church beautifully; take a short, peaceful break inside out of the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Freibad",
+                "hu": "Szabadtéri medence",
+                "ro": "Piscină în aer liber",
+                "en": "Piscine extérieure"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie weiter, wenn das Freibad geschlossen ist, und nutzen Sie den Ort zur Orientierung.",
+                "hu": "Tekerjen tovább, ha a szabadtéri medence zárva van, használja a helyszínt az útvonal követésére.",
+                "ro": "Continuați să pedalați dacă piscina e închisă, folosind locația doar pentru orientare pe traseu.",
+                "en": "Keep pedaling past if the outdoor pool is closed, using the location to track your progress."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Les Orpellières",
+                "hu": "Les Orpellières Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Les Orpellières",
+                "en": "Les Orpellières Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die kargen Winterdünen sind schön; radeln Sie vorsichtig auf dem harten Boden, bevor die Sonne verschwindet.",
+                "hu": "A kopár téli dűnék gyönyörűek; tekerjen óvatosan a kemény, hideg talajon, mielőtt a nap eltűnik.",
+                "ro": "Dunele aride de iarnă sunt superbe; pedalați cu atenție pe pământul rece și tare înainte să dispară soarele.",
+                "en": "The stark winter dunes are beautiful; cycle carefully on the hard, cold ground before the sun disappears."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Sérignan",
+                "hu": "Sérignan strand",
+                "ro": "Plaja Sérignan",
+                "en": "Plage Sérignan"
+              },
+              "tip_5lang": {
+                "de": "Leere Winterstrände bieten einen ruhigen Anblick; bringen Sie heißen Tee mit und kehren Sie vor 17:00 Uhr um.",
+                "hu": "Az üres téli strandok békés látványt nyújtanak; hozzon egy termosz forró teát, és induljon vissza 17:00 előtt.",
+                "ro": "Plajele goale de iarnă oferă o priveliște senină; aduceți un termos cu ceai fierbinte și întoarceți-vă înainte de 17:00.",
+                "en": "Empty winter beaches offer a serene view; bring a thermos of hot tea and head back before 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túra a Place de la Liberté téren indul, majd a La Cigalière meglátogatásával folytatódik. Délben a történelmi központ hídját és templomát fedezheti fel. Délután gyorsan elérheti a szabadtéri medencét egy kis kikapcsolódásra. Az estét a Les Orpellières idilli természetében töltheti, végül a Sérignan strandon zárva a napot a tengerparti nyugalomban.",
         "ro": "Traseul auto începe la Place de la Liberté, urmat de o vizită la La Cigalière. La prânz explorați biserica și pasarela Saint-Roch din centrul istoric. După-amiaza conduceți rapid spre piscină pentru a vă bucura de o pauză. Seara este dedicată naturii idilice din rezervația Les Orpellières și se încheie liniștit pe superba plajă din Sérignan.",
         "en": "Begin your drive at Place de la Liberté, followed by a visit to the cultural venue La Cigalière. Midday, explore the historic Collegiate Church and the Saint-Roch Footbridge in the center. In the afternoon, drive swiftly to the outdoor pool for a fun, relaxing break. Spend your evening enjoying the idyllic nature of Les Orpellières and unwind fully on the beautiful sands of Plage Sérignan."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Fahrt mit einem Regenschirm in Reichweite. Mittags parken Sie nah am Kulturzentrum und der Kirche. Die Nachmittagsfahrt bietet tolle Ausblicke aus dem Auto. Den Abend verbringt man am besten drinnen.",
+            "hu": "Indítsa a vezetést egy esernyővel a keze ügyében. A déli parkolás a kulturális központ és a templom közelében szárazon tartja. A délutáni autózás remek kilátást nyújt. Az estét a legjobb bent tölteni az eső elől.",
+            "ro": "Începeți condusul cu o umbrelă la îndemână. Parcarea de la prânz lângă centrul cultural vă menține uscat. Conducerea de după-amiază oferă priveliști din mașină. Seara este cel mai bine petrecută la interior.",
+            "en": "Start the drive with an umbrella handy. Midday parking near the cultural center and church keeps you mostly dry. The afternoon drive provides great views from the dry car. Evening is best spent indoors while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Place de la Liberté",
+                "ro": "Place de la Liberté",
+                "en": "Place de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie einen Regenschirm; der zentrale Platz ist auch bei Regen sehr stimmungsvoll.",
+                "hu": "Parkoljon a közelben és használjon esernyőt; a központi tér még a csendes esőben is csodálatosan hangulatos.",
+                "ro": "Parcați în apropiere și folosiți umbrela; piața centrală este frumos atmosferică chiar și pe ploaie.",
+                "en": "Park nearby and use an umbrella; the central square is beautifully atmospheric even in the gentle rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cigalière",
+                "hu": "La Cigalière",
+                "ro": "La Cigalière",
+                "en": "La Cigalière"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Regenschutz mit bequemen Parkplätzen direkt nebenan; genießen Sie die lokale Kunst völlig trocken.",
+                "hu": "Kiváló beltéri menedék kényelmes szomszédos parkolással; élvezze a helyi művészetet teljesen szárazon.",
+                "ro": "Adăpost excelent la interior cu parcare convenabilă; bucurați-vă de arta locală complet uscat.",
+                "en": "Excellent indoor shelter with convenient adjacent parking; enjoy the local arts and culture completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle Saint-Roch",
+                "hu": "Saint-Roch gyalogoshíd",
+                "ro": "Pasarela Saint-Roch",
+                "en": "Saint-Roch Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Fluss; steigen Sie kurz mit Regenschirm aus, da die moderne Brücke keine Überdachung hat.",
+                "hu": "Gyors megálló a folyónál; lépjen ki egy rövid időre esernyővel, mivel a modern gyalogoshíd nem fedett.",
+                "ro": "Oprire scurtă la râu; ieșiți scurt cu umbrela, deoarece pasarela modernă nu are acoperiș.",
+                "en": "Quick stop to see the river; step out briefly with an umbrella as the modern footbridge has no cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-de-Grâce",
+                "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+                "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+                "en": "Collegiate Church of Notre-Dame-de-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie vom Auto hinein, um das friedliche, trockene Innere der Kirche bei einem Regenguss zu bewundern.",
+                "hu": "Siessen be a parkoló autóból, hogy megcsodálja a templom békés, száraz belső terét egy zápor alatt.",
+                "ro": "Fugiți înăuntru din mașina parcată pentru a admira interiorul uscat al bisericii în timpul unei ploi torențiale.",
+                "en": "Dash inside from your parked car to admire the peaceful, dry interior of the church during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Freibad",
+                "hu": "Szabadtéri medence",
+                "ro": "Piscină în aer liber",
+                "en": "Piscine extérieure"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Wechsel vom Auto zur Umkleidekabine ist nötig; halten Sie einen großen Regenschirm bereit.",
+                "hu": "Gyors átmenet szükséges az autóból az öltözőbe; tartson kéznél egy nagy esernyőt a parkolóból való sétához.",
+                "ro": "Este necesară o trecere rapidă de la mașină la vestiar; țineți o umbrelă mare la îndemână din parcare.",
+                "en": "A quick transition from car to locker room is needed; keep a large umbrella handy for the walk from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Les Orpellières",
+                "hu": "Les Orpellières Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Les Orpellières",
+                "en": "Les Orpellières Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Feuchtgebiete direkt vom Auto aus oder machen Sie einen kurzen Spaziergang in Gummistiefeln.",
+                "hu": "Nézze meg a fenséges vizes élőhelyeket az autóból, vagy tegyen egy nagyon rövid sétát vízálló csizmában.",
+                "ro": "Priviți zonele umede direct din mașină sau faceți o plimbare foarte scurtă în cizme impermeabile.",
+                "en": "View the majestic wetlands directly from the car or take a very brief walk in sturdy waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Sérignan",
+                "hu": "Sérignan strand",
+                "ro": "Plaja Sérignan",
+                "en": "Plage Sérignan"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen, stürmischen Wellen sicher aus dem Komfort Ihres warmen Autos.",
+                "hu": "Nézze biztonságosan a drámai viharos hullámokat a meleg autó kényelméből, mielőtt visszaindul.",
+                "ro": "Priviți valurile furtunoase dramatice în siguranță din confortul mașinii calde înainte de a vă întoarce.",
+                "en": "Watch the dramatic stormy waves safely from the comfort of your warm car before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Fahrt beginnt in einem warmen Auto. Mittags hüpfen Sie schnell ins beheizte Kulturzentrum. Die nachmittägliche Küstenfahrt ist visuell beeindruckend. Beenden Sie die Tour vor Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A fagyos reggelt egy meleg autózás indítja. A déli parkolás gyors beugrást tesz lehetővé a fűtött központba. A délutáni tengerparti autózás vizuálisan lenyűgöző. Fejezze be az utat naplemente, 17:00 előtt.",
+            "ro": "Dimineața geroasă începe cu mașina încălzită. Parcarea de la prânz permite vizite rapide la centrul cultural. Condusul de după-amiază pe coastă este uimitor. Terminați traseul înainte de apusul de la 17:00.",
+            "en": "A warm car ride starts the frosty morning. Midday parking allows quick hops into the heated cultural center and church. The afternoon coastal drive is visually striking. Aim to finish the scenic routes before sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Liberté",
+                "hu": "Place de la Liberté",
+                "ro": "Place de la Liberté",
+                "en": "Place de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter friedlich; parken Sie nah und holen Sie sich einen heißen Kaffee, bevor Sie losziehen.",
+                "hu": "A tér télen békés; parkoljon közel, és igyon egy forró kávét egy közeli kávézóban, mielőtt felfedezi.",
+                "ro": "Piața este liniștită iarna; parcați aproape și luați o cafea fierbinte înainte de a explora.",
+                "en": "The square is peaceful in winter; park close and grab a hot coffee from a nearby cafe before exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cigalière",
+                "hu": "La Cigalière",
+                "ro": "La Cigalière",
+                "en": "La Cigalière"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter warmer Stopp; schätzen Sie die Kunstausstellungen, während das Auto direkt draußen parkt.",
+                "hu": "Tökéletes meleg beltéri megálló; szánjon időt a művészeti kiállításokra, miközben az autó kint parkol.",
+                "ro": "O oprire perfectă la căldură; apreciați expozițiile de artă în timp ce mașina rămâne parcată afară.",
+                "en": "A perfect warm indoor stop; spend time appreciating the art exhibits while the car stays parked right outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle Saint-Roch",
+                "hu": "Saint-Roch gyalogoshíd",
+                "ro": "Pasarela Saint-Roch",
+                "en": "Saint-Roch Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind auf der Brücke kann beißend sein; lassen Sie die Heizung im Auto für ein schnelles Aufwärmen an.",
+                "hu": "A téli szél a hídon csípős lehet; hagyja bekapcsolva a fűtést az autóban egy gyors felmelegedéshez utána.",
+                "ro": "Vântul de iarnă pe pod poate fi tăios; lăsați căldura pornită în mașină pentru a vă încălzi rapid după.",
+                "en": "The winter wind on the bridge can be biting; leave the heater on in the car for a quick warm-up afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-de-Grâce",
+                "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+                "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+                "en": "Collegiate Church of Notre-Dame-de-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Winterkälte, aber die Geschichte ist faszinierend; behalten Sie Ihren Wintermantel an.",
+                "hu": "A vastag kőfalak tartják a téli hideget, de a történelem lenyűgöző; tartsa magán a téli kabátját bent is.",
+                "ro": "Pereții groși de piatră mențin frigul, dar istoria este fascinantă; păstrați haina de iarnă și la interior.",
+                "en": "The thick stone walls hold the winter cold, but the history is fascinating; keep your winter coat on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Freibad",
+                "hu": "Szabadtéri medence",
+                "ro": "Piscină în aer liber",
+                "en": "Piscine extérieure"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten in der Nebensaison; ein kurzer architektonischer Stopp mit einfachen Parkmöglichkeiten.",
+                "hu": "Ellenőrizze a szezonon kívüli nyitvatartást; gyors építészeti megálló a vezetés során, egyszerű téli parkolással.",
+                "ro": "Verificați programul de extrasezon; o oprire arhitecturală scurtă, cu parcare de iarnă ușor accesibilă.",
+                "en": "Check off-season hours; it’s a quick architectural stop on your drive with easy winter parking available."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Les Orpellières",
+                "hu": "Les Orpellières Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Les Orpellières",
+                "en": "Les Orpellières Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht über den Dünen ist atemberaubend; machen Sie einen kurzen Spaziergang in der Nähe Ihres Autos.",
+                "hu": "A téli fény a dűnék felett lenyűgöző; tegyen egy rövid, frissítő sétát a parkoló autó közelében alkonyat előtt.",
+                "ro": "Lumina iernii peste dune este superbă; faceți o plimbare scurtă și vioaie lângă mașină înainte de lăsarea serii.",
+                "en": "The winter light over the dunes is stunning; take a short, brisk walk near your parked car before dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Sérignan",
+                "hu": "Sérignan strand",
+                "ro": "Plaja Sérignan",
+                "en": "Plage Sérignan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, leeren Winterstrand; beobachten Sie den Sonnenuntergang um 17:00 Uhr aus dem warmen Auto.",
+                "hu": "Élvezze a hatalmas, teljesen üres téli strandot; nézze meg a 17:00 órai naplementét a meleg autóból.",
+                "ro": "Bucurați-vă de plaja vastă și goală; priviți apusul de la 17:00 direct din căldura confortabilă a mașinii.",
+                "en": "Enjoy the vast, completely empty winter beach; watch the 17:00 sunset right from the warmth of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

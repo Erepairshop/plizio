@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a központi Église Saint-Privat-nál, majd látogasson el az érdekes Musée du Verre-be. Délben a Candou Park árnyas oázisa tökéletes hely egy békés piknikre és sétára. A délutánt a gyönyörű Sainte-Cécile templom felfedezésével folytatja, mielőtt a nap a bájos és meghitt Chapelle Saint-Roch kápolnánál érne véget, csodás emlékeket hagyva a város nyugodt hangulatáról.",
         "ro": "Începeți dimineața la centrala Église Saint-Privat, apoi descoperiți arta sticlăriei la fascinantul Musée du Verre. La prânz, parcul Candou vă invită la un picnic liniștit la umbră. După-amiaza continuă cu o vizită la superba biserică Sainte-Cécile. Ziua se încheie la intima capelă Saint-Roch, oferindu-vă o seară relaxantă și amintiri prețioase despre această localitate fermecătoare.",
         "en": "Start your morning exploring the central Église Saint-Privat before heading to the fascinating Musée du Verre to discover local glassmaking. Midday calls for a peaceful stroll and picnic in the shaded oasis of Candou Park. Your afternoon continues with a visit to the beautiful Sainte-Cécile Church. The day winds down at the intimate Chapelle Saint-Roch, leaving you with lasting memories."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der Saint-Privat Kirche, während draußen der Regen fällt. Mittags bietet das Glasmuseum den idealen Rückzugsort, um im Trockenen die Geschichte Carmaux' zu entdecken. Am Nachmittag sind die Wege im Candou Park etwas schlammig, doch die Kirchen bieten zwischendurch Schutz. Der Tag endet ruhig an der Kapelle Saint-Roch, wenn die Stadtlichter im nassen Asphalt funkeln.",
+            "hu": "A reggel a Saint-Privat templom hűvös, de száraz hajójában indul, míg kint kopog az eső. Délben az Üvegmúzeum nyújt tökéletes menedéket a csapadék elől, ahol elmerülhetünk a helyi ipartörténetben. Délután a Candou park ösvényei csúszósak lehetnek, így érdemes a templomok belső terét felfedezni. Az estét a Saint-Roch kápolna csendes magányában zárjuk, figyelve a városi fények tükröződését a vizes aszfalton.",
+            "ro": "Dimineața începe sub ocrotirea Bisericii Saint-Privat, feriți de ploaia de afară. La prânz, Muzeul Sticlei oferă refugiul ideal pentru a descoperi istoria locală la adăpost. După-amiaza, potecile din Parcul Candou pot fi noroioase, așa că interiorul bisericilor rămâne cea mai bună opțiune. Seara se încheie liniștit la Capela Saint-Roch, în timp ce luminile orașului se reflectă în asfaltul umed.",
+            "en": "Start your morning inside Saint-Privat Church, staying dry while the rain begins to fall outside. By noon, the Glass Museum provides the perfect indoor escape to explore local craftsmanship. Afternoon walks through Candou Park require caution on wet paths; luckily, the nearby churches offer shelter. End your day at Saint-Roch Chapel, where the soft sound of rain creates a contemplative atmosphere as city lights shimmer on the pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Privat",
+                "hu": "Saint-Privat templom",
+                "ro": "Biserica Saint-Privat",
+                "en": "Saint-Privat Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenarchitektur, während Sie Schutz vor dem Regenschauer suchen; nasse Steinböden können rutschig sein, seien Sie am Eingang vorsichtig.",
+                "hu": "Csodálja meg a belső építészetét, miközben elmenekül a kinti zápor elől; a vizes kövezet csúszós lehet, ezért óvatosan lépkedjen a bejáratnál.",
+                "ro": "Admirați arhitectura interioară în timp ce vă adăpostiți de aversă; podelele din piatră umedă pot fi alunecoase, pășiți cu grijă la intrare.",
+                "en": "Admire the interior architecture while finding shelter from the downpour; wet stone floors can be slippery, so walk carefully near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasmuseum",
+                "hu": "Üvegmúzeum",
+                "ro": "Muzeul Sticlei",
+                "en": "Glass Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist die perfekte Wahl für Regentage, da alle Ausstellungen überdacht sind; bringen Sie einen Regenschirm für den kurzen Weg zum Eingang mit.",
+                "hu": "Ez a múzeum tökéletes választás esős napokra, mivel minden kiállítás fedett; hozzon esernyőt a bejáratig tartó rövid szakaszra.",
+                "ro": "Acest muzeu este alegerea perfectă pentru zilele ploioase, deoarece toate expozițiile sunt acoperite; aduceți o umbrelă pentru drumul scurt până la intrare.",
+                "en": "This museum is the perfect choice for rainy days as all exhibits are indoor; bring an umbrella for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Candou",
+                "hu": "Candou Park",
+                "ro": "Parcul Candou",
+                "en": "Candou Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des regennassen Grüns von den Pavillons aus; tragen Sie wasserfeste Schuhe, da die unbefestigten Wege im Park weich werden können.",
+                "hu": "Élvezze az eső áztatta zöld környezetet a pavilonok alól; viseljen vízálló cipőt, mivel a park burkolatlan ösvényei felázhatnak.",
+                "ro": "Bucurați-vă de verdeața udă de ploaie de sub pavilioane; purtați încălțăminte impermeabilă, deoarece potecile neasfaltate din parc pot deveni moi.",
+                "en": "Enjoy the lush rain-soaked greenery from the shelter of the pavilions; wear waterproof shoes as the unpaved park paths can get muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche, um sich kurz abzutrocknen; die bunt bemalten Fenster wirken bei bewölktem Himmel besonders stimmungsvoll.",
+                "hu": "Használja ki a templom csendjét egy rövid száradásra; a színes ablakok borús égbolt mellett különleges hangulatot árasztanak.",
+                "ro": "Folosiți liniștea bisericii pentru a vă usca puțin; ferestrele colorate creează o atmosferă specială sub cerul înnorat.",
+                "en": "Take advantage of the church's silence to dry off briefly; the stained-glass windows create a unique atmosphere under overcast skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Roch",
+                "hu": "Saint-Roch kápolna",
+                "ro": "Capela Saint-Roch",
+                "en": "Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen intimen Rückzugsort vor dem Abendregen; achten Sie auf die Pfützen auf dem Vorplatz beim Verlassen des Gebäudes.",
+                "hu": "A kis kápolna meghitt menedéket nyújt az esti eső elől; ügyeljen a tócsákra az előtéren, amikor elhagyja az épületet.",
+                "ro": "Mica chapelă oferă un refugiu intim în fața ploii de seară; aveți grijă la bălțile din curte când părăsiți clădirea.",
+                "en": "The small chapel offers an intimate retreat from the evening rain; watch out for puddles in the courtyard as you exit the building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der Saint-Privat Kirche, deren dicke Mauern vor dem kalten Wind schützen. Mittags lädt das warme Glasmuseum zum Aufwärmen zwischen faszinierenden Exponaten ein. Der Nachmittag im Candou Park bietet klare Winterluft, doch man sollte den frühen Sonnenuntergang gegen 17:00 Uhr im Blick behalten. Der Abend klingt an der Kapelle Saint-Roch aus, während die Winterdämmerung Carmaux einhüllt.",
+            "hu": "A hideg reggelt a Saint-Privat templom vastag falai között indítjuk, jól bebugyolálva. Délben az Üvegmúzeum meleg kiállítótermei nyújtanak menedéket a csípős szél elől. Délután a zúzmarás Candou parkban sétálunk, ügyelve a korai, 17 óra körüli naplementére. Az estét a Saint-Roch kápolna környékén zárjuk, ahol a téli szürkület meghitt fényei világítják meg az utat.",
+            "ro": "O dimineață geroasă începe la Biserica Saint-Privat, ale cărei ziduri groase protejează de vântul rece. La prânz, Muzeul Sticlei vă invită la căldură printre exponate fascinante. După-amiaza în Parcul Candou oferă aer curat de iarnă, dar trebuie avut în vedere apusul devreme, în jur de ora 17:00. Seara se încheie la Capela Saint-Roch, în timp ce amurgul de iarnă învăluie orașul.",
+            "en": "A frosty morning starts at Saint-Privat Church, where thick walls protect you from the biting wind. By noon, the heated Glass Museum is the perfect place to warm up while exploring history. Enjoy the crisp winter air in Candou Park during the afternoon, but plan to finish by the 5 PM sunset. The day concludes at Saint-Roch Chapel as the winter twilight settles over Carmaux."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Privat",
+                "hu": "Saint-Privat templom",
+                "ro": "Biserica Saint-Privat",
+                "en": "Saint-Privat Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da Kirchen im Winter oft kühl sind; die ruhige Atmosphäre ist ideal, um den Tag besinnlich zu beginnen.",
+                "hu": "Öltözzön rétegesen, mert a templomok télen hűvösek lehetnek; a csendes belső tér ideális a nap nyugodt elindításához.",
+                "ro": "Purtați haine groase, deoarece bisericile sunt reci iarna; atmosfera liniștită este ideală pentru a începe ziua într-un mod meditativ.",
+                "en": "Wear warm layers as churches can be chilly in winter; the quiet interior is perfect for a peaceful start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasmuseum",
+                "hu": "Üvegmúzeum",
+                "ro": "Muzeul Sticlei",
+                "en": "Glass Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen in den beheizten Räumen; die gläsernen Kunstwerke funkeln im winterlichen Licht besonders schön.",
+                "hu": "Használja ki a múzeumlátogatást a fűtött termekben való felmelegedésre; az üvegművészeti alkotások különösen szépen csillognak a téli fényben.",
+                "ro": "Profitați de vizita la muzeu pentru a vă încălzi în sălile încălzite; operele de artă din sticlă strălucesc superb în lumina iernii.",
+                "en": "Use your museum visit to warm up in the heated galleries; the glass artworks sparkle beautifully in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Candou",
+                "hu": "Candou Park",
+                "ro": "Parcul Candou",
+                "en": "Candou Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen, oft mit Raureif bedeckten Bäume; achten Sie auf glatte Stellen auf den Wegen bei Frostgefahr.",
+                "hu": "Csodálja meg a kopár, gyakran zúzmarás fákat; vigyázzon a csúszós szakaszokra az ösvényeken, ha fagypont alá süllyed a hőmérséklet.",
+                "ro": "Admirați copacii desfrunziți, adesea acoperiți de chiciură; aveți grijă la porțiunile alunecoase de pe alei în caz de îngheț.",
+                "en": "Admire the bare trees often covered in frost; be careful of slippery patches on the paths if the temperature drops below freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Einbruch der Dunkelheit an, um die Details der Fassade zu sehen; im Inneren bietet die Stille Schutz vor dem eisigen Winterwind.",
+                "hu": "Érkezzen még sötétedés előtt, hogy lássa a homlokzat részleteit; belül a csend védelmet nyújt a jeges téli szél ellen.",
+                "ro": "Sosiți înainte de lăsarea întunericului pentru a vedea detaliile fațadei; în interior, liniștea oferă protecție împotriva vântului înghețat.",
+                "en": "Arrive before dark to see the facade details; inside, the silence provides a welcome break from the icy winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Roch",
+                "hu": "Saint-Roch kápolna",
+                "ro": "Capela Saint-Roch",
+                "en": "Saint-Roch Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch zum Sonnenuntergang gegen 17:00 Uhr ist magisch; stellen Sie sicher, dass Sie eine Taschenlampe oder ein Handy für den Rückweg haben.",
+                "hu": "A naplemente környéki látogatás 17 órakor varázslatos; győződjön meg róla, hogy van lámpája vagy telefonja a hazaúthoz a sötétben.",
+                "ro": "Vizita în jurul apusului de la ora 17:00 este magică; asigurați-vă că aveți o lanternă sau telefonul încărcat pentru drumul de întoarcere.",
+                "en": "Visiting around the 5 PM sunset is magical; make sure you have a flashlight or phone for the walk back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját az Église Saint-Benoît-nál, majd csodálja meg a Musée du Verre üvegművészetét. Dél körül tekerjen el a Candou Parkba, hogy a százéves fák között pihenjen. Délután a városközpontban található lenyűgöző Église Saint-Privat felé veszi az irányt. Aktív napját végül az Église Saint-Eugène-nél fejezi be, megörökítve annak késő délutáni napfényben fürdő keleti homlokzatát.",
         "ro": "Începeți turul cu bicicleta la Église Saint-Benoît, admirând apoi arta sticlei la Musée du Verre. La prânz, pedalați spre parcul Candou pentru a vă relaxa printre copacii seculari. După-amiaza, îndreptați-vă spre centrala Église Saint-Privat. În cele din urmă, încheiați ziua activă la biserica Saint-Eugène, capturând ultimele raze de soare pe fațada sa estică impunătoare.",
         "en": "Kick off your cycling tour at Église Saint-Benoît, enjoying the crisp morning air before admiring the glassworks at Musée du Verre. Around midday, ride to Candou Park to relax among century-old trees. In the afternoon, pedal towards the striking Église Saint-Privat in the city center. Finally, end your active day at Église Saint-Eugène, capturing the late sun on its proud eastern facade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen beginnt an der Saint-Benoît Kirche unter regnerischem Himmel. Mittags bietet das Glasmuseum eine willkommene Pause vom nassen Sattel. Am Nachmittag radeln wir vorsichtig durch den Park Candou, wobei wir auf rutschige Blätter achten. Die Tour führt weiter zur Saint-Privat Kirche und endet an der Saint-Eugène Kirche, während die Reifen auf dem nassen Asphalt singen.",
+            "hu": "A kerékpáros reggel a Saint-Benoît templomnál indul esős égbolt alatt. Délben az Üvegmúzeum kínál üdvözítő pihenőt a vizes nyereg után. Délután óvatosan tekerünk át a Candou parkon, figyelve a csúszós levelekre. A túra a Saint-Privat templomhoz vezet, majd a Saint-Eugène templomnál ér véget, miközben a gumik halkan zúgnak a vizes aszfalton.",
+            "ro": "Dimineața pe bicicletă începe la Biserica Saint-Benoît sub un cer ploios. La prânz, Muzeul Sticlei oferă o pauză binemeritată de la șaua umedă. După-amiaza pedalăm cu grijă prin Parcul Candou, atenți la frunzele alunecoase. Turul continuă spre Biserica Saint-Privat și se încheie la Biserica Saint-Eugène, în timp ce anvelopele șuieră pe asfaltul ud.",
+            "en": "Your cycling morning starts at Saint-Benoît Church under rainy skies. By noon, the Glass Museum offers a welcome break from the wet saddle. In the afternoon, cycle carefully through Candou Park, watching out for slippery leaves. The tour continues to Saint-Privat Church and ends at Saint-Eugène Church, with tires humming on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Benoît",
+                "hu": "Saint-Benoît templom",
+                "ro": "Biserica Saint-Benoît",
+                "en": "Saint-Benoît Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Kirche für eine kurze Regenpause; prüfen Sie Ihre Bremsen vor der Weiterfahrt.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja a templomot egy rövid esőszünetre; indulás előtt ellenőrizze a fékeket.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți biserica pentru o scurtă pauză de ploaie; verificați frânele înainte de plecare.",
+                "en": "Park your bike in a sheltered spot and use the church for a quick rain break; check your brakes before heading out again."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasmuseum",
+                "hu": "Üvegmúzeum",
+                "ro": "Muzeul Sticlei",
+                "en": "Glass Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Regenkleidung zu lüften, während Sie die Exponate besichtigen; nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Ideális megálló a lógó esőruházat szellőztetésére a kiállítás megtekintése közben; használja a bejárat közeli kerékpártárolókat.",
+                "ro": "O oprire ideală pentru a vă aerisi echipamentul de ploaie în timp ce vizitați exponatele; folosiți suporturile de biciclete de lângă intrare.",
+                "en": "An ideal stop to air out your rain gear while viewing the exhibits; use the bike racks located near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Candou",
+                "hu": "Candou Park",
+                "ro": "Parcul Candou",
+                "en": "Candou Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden; die nassen Kurven können tückisch sein, reduzieren Sie also Ihr Tempo.",
+                "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat; a vizes kanyarok csalókák lehetnek, ezért mérsékelje a sebességét.",
+                "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul; curbele umede pot fi înșelătoare, așa că reduceți viteza.",
+                "en": "Stick to the paved paths to avoid mud; wet corners can be tricky, so reduce your speed throughout the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Privat",
+                "hu": "Saint-Privat templom",
+                "ro": "Biserica Saint-Privat",
+                "en": "Saint-Privat Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einen Vorsprung, falls verfügbar; das Kircheninnere bietet einen ruhigen Ort, um die Route für das Finale zu planen.",
+                "hu": "Állítsa a kerékpárt egy eresz alá, ha lehetséges; a templom belseje nyugodt helyet kínál a záró szakasz megtervezéséhez.",
+                "ro": "Așezați bicicleta sub o streașină dacă este posibil; interiorul bisericii oferă un loc liniștit pentru a planifica etapa finală.",
+                "en": "Place your bike under an overhang if possible; the church interior offers a calm spot to plan the final leg of your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Eugène",
+                "hu": "Saint-Eugène templom",
+                "ro": "Biserica Saint-Eugène",
+                "en": "Saint-Eugène Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Ankunft auf Markierungen auf der Straße, die bei Nässe rutschig sein können; beenden Sie die Tour mit einem Moment der Stille.",
+                "hu": "Érkezéskor ügyeljen az útfestésekre, amelyek vizesen csúszhatnak; zárja a túrát egy pillanatnyi csendes pihenővel.",
+                "ro": "La sosire, aveți grijă la marcajele rutiere care pot fi alunecoase când sunt ude; încheiați turul cu un moment de odihnă silențioasă.",
+                "en": "Watch out for road markings upon arrival as they can be slippery when wet; end your tour with a moment of quiet rest."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet an der Saint-Benoît Kirche bei klarem, kaltem Wetter. Mittags bietet das Glasmuseum eine willkommene Aufwärmpause. Am Nachmittag führt der Weg durch den winterlichen Candou Park, wobei man die tiefstehende Sonne genießen kann. Über die Saint-Privat Kirche geht es zum Ziel, der Saint-Eugène Kirche, bevor es um 17:00 Uhr dunkel wird und die Temperaturen sinken.",
+            "hu": "A téli kerékpáros túra a Saint-Benoît templomnál indul tiszta, hideg időben. Délben az Üvegmúzeum kínál üdvözítő felmelegedést. Délután az út a téli Candou parkon keresztül vezet, ahol élvezhetjük az alacsonyan járó nap fényét. A Saint-Privat templomon keresztül haladunk a cél felé, a Saint-Eugène templomig, mielőtt 17 órakor besötétedik és lehűl a levegő.",
+            "ro": "Turul pe bicicletă de iarnă începe la Biserica Saint-Benoît pe o vreme rece și senină. La prânz, Muzeul Sticlei oferă o pauză de încălzire binevenită. După-amiaza, drumul trece prin Parcul Candou hibernal, unde vă puteți bucura de soarele jos. Continuăm spre Biserica Saint-Privat până la destinație, Biserica Saint-Eugène, înainte ca la ora 17:00 să se întunece.",
+            "en": "The winter bike tour starts at Saint-Benoît Church in crisp, cold weather. By noon, the Glass Museum provides a welcome warming break. The afternoon route takes you through wintery Candou Park, enjoying the low sun. Head via Saint-Privat Church to the final stop, Saint-Eugène Church, before darkness falls and temperatures drop at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Benoît",
+                "hu": "Saint-Benoît templom",
+                "ro": "Biserica Saint-Benoît",
+                "en": "Saint-Benoît Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die Kirche ist ein guter Ort, um sich kurz zu sammeln, bevor der Fahrtwind wieder kühlt.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a templom jó hely egy rövid pihenőre, mielőtt a menetszél újra lehűtené.",
+                "ro": "Purtați mănuși rezistente la vânt pentru pedalat; biserica este un loc bun pentru o scurtă reculegere înainte ca vântul să vă răcească din nou.",
+                "en": "Wear windproof gloves for the ride; the church is a good place for a quick gathering of warmth before the wind chills you again."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasmuseum",
+                "hu": "Üvegmúzeum",
+                "ro": "Muzeul Sticlei",
+                "en": "Glass Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre schwere Winterkleidung kurz abzulegen; die Wärme im Inneren ist perfekt, um die Finger wieder beweglich zu machen.",
+                "hu": "Használja a ruhatárat a nehéz téli ruházat rövid letételéhez; a benti meleg tökéletes arra, hogy az ujjai újra átmelegedjenek.",
+                "ro": "Folosiți garderoba pentru a vă lăsa hainele groase de iarnă; căldura din interior este perfectă pentru a vă dezmorți degetele.",
+                "en": "Use the cloakroom to shed your heavy winter layers briefly; the indoor warmth is perfect for getting your fingers moving again."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Candou",
+                "hu": "Candou Park",
+                "ro": "Parcul Candou",
+                "en": "Candou Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Brücken und Wegen; die tiefstehende Sonne kann blenden, tragen Sie eventuell eine Sportbrille.",
+                "hu": "Ügyeljen a fagyott részekre a hidakon és ösvényeken; az alacsony nap elvakíthatja, ezért érdemes sportnapszemüveget viselni.",
+                "ro": "Aveți grijă la porțiunile înghețate de pe poduri și alei; soarele jos vă poate orbi, așa că purtați ochelari de sport dacă este necesar.",
+                "en": "Watch out for frozen patches on bridges and paths; the low sun can be blinding, so consider wearing sports sunglasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Privat",
+                "hu": "Saint-Privat templom",
+                "ro": "Biserica Saint-Privat",
+                "en": "Saint-Privat Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um warme Getränke aus der Thermoskanne zu genießen; die Kälte zieht in den Standpausen schnell in den Körper.",
+                "hu": "Tartson egy rövid szünetet a termoszból hozott meleg ital elfogyasztására; a hideg gyorsan átjárja a testet az állásidő alatt.",
+                "ro": "Faceți o scurtă pauză pentru a savura băuturi calde din termos; frigul pătrunde repede în corp în timpul perioadelor de staționare.",
+                "en": "Take a short break to enjoy warm drinks from a thermos; the cold seeps into your body quickly during stationary periods."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Eugène",
+                "hu": "Saint-Eugène templom",
+                "ro": "Biserica Saint-Eugène",
+                "en": "Saint-Eugène Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es bei der Ankunft dämmern wird; beenden Sie den Tag zügig vor dem Frost.",
+                "hu": "Győződjön meg róla, hogy a világítás működik, mivel érkezéskor már szürkülni fog; fejezze be a napot gyorsan a fagy beállta előtt.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece la sosire va fi amurg; încheiați ziua rapid înainte de înghețul nopții.",
+                "en": "Ensure your bike lights are working as it will be twilight upon arrival; finish your day quickly before the night frost sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Indítsa a napot a Bányászati Múzeumban, elmerülve Carmaux ipari múltjában. Délben a hatalmas Cap'Découverte szabadidőpark kínál izgalmakat. Délután az Église Saint-Salvy templomnál csendesedik el, majd a Musée du Verre üvegművészetét csodálhatja meg. Az utazás kellemesen zárul a Sainte-Cécile templom és a jellegzetes Église Saint-Eugène békés atmoszférájának felfedezésével.",
         "ro": "Începeți dimineața la Muzeul Mineritului, explorând trecutul industrial bogat al regiunii Carmaux. La prânz, parcul de agrement Cap'Découverte oferă aventuri palpitante. După-amiaza, reflectați la Église Saint-Salvy înainte de a descoperi măiestria locală la Musée du Verre. Călătoria se încheie liniștit cu vizite la biserica Sainte-Cécile și distinctiva Église Saint-Eugène.",
         "en": "Embark on an insightful morning at the Mining Museum, delving into Carmaux's rich industrial past. Midday brings excitement at the sprawling Cap'Découverte leisure park. During the afternoon, reflect at Église Saint-Salvy before discovering local craftsmanship at the Musée du Verre. The journey smoothly wraps up with quiet visits to Sainte-Cécile Church and the distinctive Église Saint-Eugène."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt am Bergbaumuseum, das bei Regen ein perfektes, meist unterirdisches Ziel bietet. Mittags geht es weiter zu Cap'Découverte, wo man das Gelände bequem vom Wagen aus betrachten kann. Nachmittags besuchen wir die Saint-Salvy Kirche und das Glasmuseum, wobei das Auto uns trocken zwischen den Stationen transportiert. Der Tag endet an den Kirchen Sainte-Cécile und Saint-Eugène.",
+            "hu": "Az autós túra a Bányászati Múzeumnál indul, ami esőben tökéletes, többnyire föld alatti úticél. Délben a Cap'Découverte következik, ahol az autóból is kényelmesen szemlélhetjük a tájat. Délután a Saint-Salvy templomot és az Üvegmúzeumot keressük fel, miközben az autó szárazon juttat el minket egyik helytől a másikig. A napot a Sainte-Cécile és Saint-Eugène templomoknál zárjuk.",
+            "ro": "Călătoria cu mașina începe la Muzeul Mineritului, o destinație perfectă pe ploaie, fiind în mare parte subterană. La prânz continuăm spre Cap'Découverte, unde peisajul poate fi admirat confortabil din mașină. După-amiaza vizităm Biserica Saint-Salvy și Muzeul Sticlei, mașina ferindu-ne de ploaie între opriri. Ziua se încheie la bisericile Sainte-Cécile și Saint-Eugène.",
+            "en": "The car tour begins at the Mining Museum, a perfect rainy-day destination with its underground sections. By noon, head to Cap'Découverte, where you can view the site comfortably from your vehicle. In the afternoon, visit Saint-Salvy Church and the Glass Museum, with the car keeping you dry between stops. The day ends at the Sainte-Cécile and Saint-Eugène churches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz nahe dem Eingang; die unterirdischen Gänge sind völlig regenfest und bieten eine faszinierende Erfahrung.",
+                "hu": "Parkoljon a bejárathoz közeli aszfaltozott helyen; a föld alatti járatok teljesen esőállóak és lenyűgöző élményt nyújtanak.",
+                "ro": "Parcați în locul asfaltat de lângă intrare; galeriile subterane sunt complet protejate de ploaie și oferă o experiență fascinantă.",
+                "en": "Park in the paved area near the entrance; the underground tunnels are completely rainproof and offer a fascinating experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap'Découverte",
+                "hu": "Cap'Découverte",
+                "ro": "Cap'Découverte",
+                "en": "Cap'Découverte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Aussichtspunkte, die mit dem Auto erreichbar sind; bei starkem Regen ist die Sicht auf den Krater besonders dramatisch.",
+                "hu": "Használja az autóval elérhető kilátópontokat; heves esőben a kráter látványa különösen drámai és monumentális.",
+                "ro": "Folosiți punctele de observație accesibile cu mașina; în caz de ploaie torențială, vederea craterului este deosebit de dramatică.",
+                "en": "Use the viewpoints accessible by car; during heavy rain, the view into the crater is particularly dramatic and monumental."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Salvy",
+                "hu": "Saint-Salvy templom",
+                "ro": "Biserica Saint-Salvy",
+                "en": "Saint-Salvy Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche hält Sie trocken; genießen Sie die Ruhe im Inneren, während draußen der Regen prasselt.",
+                "hu": "Egy rövid futás a parkolótól a templomig szárazon tartja; élvezze a benti csendet, miközben kint dobol az eső.",
+                "ro": "O scurtă fugă de la parcare până la biserică vă va ține uscat; bucurați-vă de liniștea din interior în timp ce afară răpăie ploaia.",
+                "en": "A short dash from the parking spot to the church will keep you dry; enjoy the peace inside while the rain drums outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasmuseum",
+                "hu": "Üvegmúzeum",
+                "ro": "Muzeul Sticlei",
+                "en": "Glass Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum verfügt über gute Parkmöglichkeiten in der Nähe; nutzen Sie die Zeit im Trockenen, um die filigrane Glaskunst zu studieren.",
+                "hu": "A múzeumnak jó parkolási lehetőségei vannak a közelben; használja ki a szárazon töltött időt a finom üvegművészet tanulmányozására.",
+                "ro": "Muzeul are locuri bune de parcare în apropiere; profitați de timpul petrecut la adăpost pentru a studia arta delicată a sticlei.",
+                "en": "The museum has good parking facilities nearby; take advantage of the dry time to study the intricate glass art."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Pfützen; die Kirche bietet einen majestätischen Schutzraum vor dem grauen Regenwetter.",
+                "hu": "Kiszálláskor ügyeljen a tócsákra; a templom fenséges menedéket nyújt a szürke esős idő elől.",
+                "ro": "Aveți grijă la bălți când coborâți din mașină; biserica oferă un refugiu maiestuos în fața vremii gri și ploioase.",
+                "en": "Watch out for puddles when getting out of the car; the church provides a majestic sanctuary from the grey rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Eugène",
+                "hu": "Saint-Eugène templom",
+                "ro": "Biserica Saint-Eugène",
+                "en": "Saint-Eugène Church"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Regen unkompliziert; nutzen Sie die beheizte Lüftung Ihres Autos auf dem Weg zum Hotel, um die Kleidung zu trocknen.",
+                "hu": "Az idejutás esőben is egyszerű; használja az autó fűtését a hazaúton, hogy megszárítsa az esetlegesen nedves ruházatot.",
+                "ro": "Accesul este ușor chiar și pe ploaie; folosiți încălzirea mașinii la întoarcere pentru a vă usca hainele eventual umede.",
+                "en": "Getting here is easy even in the rain; use your car's heater on the way back to dry any damp clothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour startet am Bergbaumuseum, wo die unterirdischen Stollen eine konstante Temperatur bieten. Mittags besuchen wir das Cap'Découverte, wobei das beheizte Auto den nötigen Komfort bietet. Nachmittags geht es zur Saint-Salvy Kirche und zum warmen Glasmuseum. Der Tag endet an den Kirchen Sainte-Cécile und Saint-Eugène, gerade als um 17:00 Uhr die Dunkelheit einbricht.",
+            "hu": "A téli autós túra a Bányászati Múzeumnál indul, ahol a föld alatti járatok állandó hőmérsékletet biztosítanak. Délben a Cap'Découverte-et látogatjuk meg, miközben a fűtött autó kényelmet nyújt. Délután a Saint-Salvy templom és a meleg Üvegmúzeum következik. A nap a Sainte-Cécile és Saint-Eugène templomoknál zárul, éppen amikor 17 órakor beköszönt a sötétség.",
+            "ro": "Turul cu mașina de iarnă începe la Muzeul Mineritului, unde galeriile subterane au o temperatură constantă. La prânz vizităm Cap'Découverte, mașina încălzită oferind confortul necesar. După-amiaza urmează Biserica Saint-Salvy și căldurosul Muzeu al Sticlei. Ziua se încheie la bisericile Sainte-Cécile și Saint-Eugène, exact când la ora 17:00 se lasă întunericul.",
+            "en": "The winter car tour starts at the Mining Museum, where the underground tunnels maintain a constant temperature. By noon, visit Cap'Découverte with the heated car providing necessary comfort. The afternoon includes Saint-Salvy Church and the warm Glass Museum. The day concludes at Sainte-Cécile and Saint-Eugène churches just as darkness falls at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bergbaumuseum",
+                "hu": "Bányászati Múzeum",
+                "ro": "Muzeul Mineritului",
+                "en": "Mining Museum"
+              },
+              "tip_5lang": {
+                "de": "Unter Tage ist es im Winter oft wärmer als draußen; genießen Sie die konstante Temperatur während der Führung durch die Bergbaugeschichte.",
+                "hu": "A föld alatt télen gyakran melegebb van, mint kint; élvezze az állandó hőmérsékletet a bányászattörténeti vezetés során.",
+                "ro": "În subteran este adesea mai cald decât afară iarna; bucurați-vă de temperatura constantă în timpul turului istoriei mineritului.",
+                "en": "It's often warmer underground than outside in winter; enjoy the constant temperature during the guided tour of mining history."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap'Découverte",
+                "hu": "Cap'Découverte",
+                "ro": "Cap'Découverte",
+                "en": "Cap'Découverte"
+              },
+              "tip_5lang": {
+                "de": "Die weite Landschaft wirkt im Winterlicht besonders eindrucksvoll; bleiben Sie im Auto, um die Aussicht ohne den kalten Wind zu genießen.",
+                "hu": "A tágas táj különösen hatásos a téli fényben; maradjon az autóban, hogy élvezze a kilátást a hideg szél nélkül.",
+                "ro": "Peisajul vast este impresionant în lumina iernii; rămâneți în mașină pentru a vă bucura de priveliște fără vântul tăios.",
+                "en": "The vast landscape is particularly striking in the winter light; stay in the car to enjoy the view without the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Salvy",
+                "hu": "Saint-Salvy templom",
+                "ro": "Biserica Saint-Salvy",
+                "en": "Saint-Salvy Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Auto, um die frische Luft zu schnappen; die Kirche bietet danach einen windgeschützten Ort der Besinnung.",
+                "hu": "Használja ki a rövid sétát az autótól a friss levegőhöz; a templom ezután szélvédett helyet kínál az elmélyüléshez.",
+                "ro": "Profitați de scurta plimbare de la mașină pentru aer curat; biserica oferă apoi un loc protejat de vânt pentru reculegere.",
+                "en": "Take advantage of the short walk from the car for some fresh air; the church then offers a wind-sheltered spot for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasmuseum",
+                "hu": "Üvegmúzeum",
+                "ro": "Muzeul Sticlei",
+                "en": "Glass Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Winterkälte für eine Weile zu vergessen; die warmen Farben des Glases wirken an kalten Tagen besonders einladend.",
+                "hu": "Tökéletes hely, hogy egy időre elfelejtse a téli hideget; az üvegek meleg színei a hideg napokon különösen hívogatóak.",
+                "ro": "Un loc perfect pentru a uita de frigul iernii pentru o vreme; culorile calde ale sticlei sunt deosebit de primitoare în zilele reci.",
+                "en": "A perfect place to forget the winter cold for a while; the warm colors of the glass are especially inviting on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; bei der frühen Dämmerung um 17:00 Uhr ist die Beleuchtung der Kirche sehr stimmungsvoll.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a korai 17 órai szürkületben a templom kivilágítása nagyon hangulatos.",
+                "ro": "Parcați cât mai aproape de intrare; la amurgul devreme de la ora 17:00, iluminarea bisericii este foarte sugestivă.",
+                "en": "Park as close to the entrance as possible; in the early 5 PM twilight, the church lighting is very atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Eugène",
+                "hu": "Saint-Eugène templom",
+                "ro": "Biserica Saint-Eugène",
+                "en": "Saint-Eugène Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch, bevor die Temperaturen nach Sonnenuntergang stark fallen; die Heizung im Auto sorgt für einen gemütlichen Abschluss.",
+                "hu": "Fejezze be a látogatást, mielőtt a hőmérséklet naplemente után hirtelen leesne; az autó fűtése kellemes zárást biztosít.",
+                "ro": "Încheiați vizita înainte ca temperaturile să scadă brusc după apus; încălzirea din mașină asigură un final confortabil.",
+                "en": "Finish your visit before temperatures drop sharply after sunset; the car's heater ensures a cozy end to your tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

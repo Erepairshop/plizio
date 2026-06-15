@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a régió természettörténetének felfedezésével a látogatóközpontban.\n\nDél közeledtével kövesse a sziklás ösvényeket a jelzőállomás és az emlékmű felé.\n\nDélutánját töltse a sziklákon, ahonnan a legendás világítótornyot csodálhatja.\n\nZárja a napot egy festői sétával a drámai Baie des Trépassés öböl irányába.",
         "ro": "Începeți ziua descoperind istoria naturală a regiunii la centrul de vizitatori.\n\nLa prânz, urmați potecile abrupte către stația de semnalizare și monumentul marinarilor.\n\nPetreceți după-amiaza pe stâncile expuse, privind spre farul legendar oceanic.\n\nÎncheiați cu o plimbare pitorească spre spectaculoasa Baie des Trépassés la asfințit.",
         "en": "Start your day absorbing the natural history of the region at the visitor center.\n\nBy midday, follow the rugged paths toward the signaling station and the sailors' monument.\n\nSpend your afternoon on the exposed cliffs gazing at the legendary lighthouse.\n\nConclude with a scenic stroll over to the dramatic Baie des Trépassés."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Maison de Site, wo Ausstellungen über die Flora und Fauna der Bretagne informieren. Mittags bieten die nebligen Pfade dramatische Ausblicke auf die tosenden Wellen des Atlantiks. Am Nachmittag führt der Weg zum windgepeitschten Kap, wobei Regenkleidung hier unerlässlich ist. Der Abend klingt mit dem Rauschen der Brandung aus, während die Dämmerung früh einsetzt.",
+            "hu": "A reggelt a Maison de Site kiállításain kezdjük, védve a parti szitálástól. Délben a ködbe vesző sziklák és a Sémaphore misztikus látványt nyújtanak. Délután a szélfútta ösvényeken haladunk a sziklák szélén, ahol a vízálló öltözet kötelező. Este a viharos tenger morajlása festi alá a korai sötétedést, miközben visszatérünk a menedékbe.",
+            "ro": "Dimineața începe la Maison de Site, unde expozițiile oferă un refugiu perfect împotriva burniței atlantice. La prânz, potecile cețoase dezvăluie vederi dramatice asupra valurilor care se sparg de stânci. După-amiaza, plimbarea spre capătul peninsulei necesită echipament impermeabil din cauza vântului puternic. Seara se încheie cu sunetul hipnotic al mării în timp ce lumina scade rapid.",
+            "en": "The morning starts under cover at the Maison de Site, exploring Brittany's natural heritage. At noon, the misty paths offer dramatic views of the Atlantic waves crashing against the cliffs. In the afternoon, the walk to the headland is invigorating but requires full rain gear against the spray. The evening ends with the sound of the stormy sea as darkness falls early over the rugged coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de Site de la Pointe du Raz",
+                "hu": "Maison de Site de la Pointe du Raz",
+                "ro": "Maison de Site de la Pointe du Raz",
+                "en": "Maison de Site de la Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die interaktiven Ausstellungen als trockenen Unterschlupf und prüfen Sie hier die aktuellen Wetterwarnungen für das Kap.",
+                "hu": "Használja ki a fedett kiállítóteret menedékként az eső elől, és nézze meg a helyi élővilágról szóló filmet a látogatóközpontban.",
+                "ro": "Folosiți expozițiile interactive ca adăpost împotriva ploii și verificați aici alertele meteorologice actualizate pentru zona stâncoasă.",
+                "en": "Use the interactive exhibits as a dry shelter from the rain and check the latest weather warnings for the headland here."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de la pointe du Raz",
+                "hu": "Sémaphore de la pointe du Raz",
+                "ro": "Sémaphore de la pointe du Raz",
+                "en": "Sémaphore de la pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Das Signalgebäude wirkt im Nebel besonders imposant; halten Sie sich an die markierten Wege, da die Felsen bei Nässe sehr rutschig sind.",
+                "hu": "A jelzőállomás sziluettje lenyűgöző a párás időben; maradjon a kijelölt úton, mert a nedves kövek rendkívül csúszósak lehetnek.",
+                "ro": "Clădirea semaforului arată impunător prin ceață; rămâneți pe potecile marcate, deoarece pietrele devin foarte alunecoase când sunt ude.",
+                "en": "The signal station looks imposing through the mist; stick to the marked paths as the rocks become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des Naufragés",
+                "hu": "Notre-Dame des Naufragés",
+                "ro": "Notre-Dame des Naufragés",
+                "en": "Notre-Dame des Naufragés"
+              },
+              "tip_5lang": {
+                "de": "Die Statue der Schutzpatronin trotzt dem Regen; achten Sie auf starke Windböen, die hier oben oft peitschende Gischt mit sich bringen.",
+                "hu": "A tengerészek védőszentjének szobra dacol az elemekkel; számítson erős széllökésekre, amelyek sós permetet hordhatnak a levegőben.",
+                "ro": "Statuia patroanei marinarilor înfruntă ploaia; atenție la rafalele de vânt care pot aduce stropi de mare direct pe față aici sus.",
+                "en": "The statue of the sailors' patroness braves the rain; watch out for strong wind gusts that often carry stinging sea spray here."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Raz",
+                "hu": "Pointe du Raz",
+                "ro": "Pointe du Raz",
+                "en": "Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Urgewalt des Ozeans bei Regen am westlichsten Punkt; eine wasserfeste Kapuze ist wegen des starken Windes unerlässlich.",
+                "hu": "Élje át az óceán erejét az esőben a legnyugatibb ponton; a szél miatt a vízálló kapucni elengedhetetlen a nézelődéshez.",
+                "ro": "Experimentați forța brută a oceanului pe ploaie în cel mai vestic punct; o glugă impermeabilă este esențială din cauza vântului.",
+                "en": "Experience the raw power of the ocean in the rain at the westernmost point; a waterproof hood is essential due to the driving wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse la Vieille",
+                "hu": "Lighthouse la Vieille",
+                "ro": "Lighthouse la Vieille",
+                "en": "Lighthouse la Vieille"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm im grauen Meer bietet ein klassisches bretonisches Fotomotiv; schützen Sie Ihre Kameraausrüstung vor der Feuchtigkeit.",
+                "hu": "A szürke tengerben álló világítótorony klasszikus breton látvány; ügyeljen rá, hogy a fényképezőgépét ne érje közvetlen esővíz.",
+                "ro": "Farul din marea cenușie oferă o imagine clasică bretonă; protejați echipamentul foto de umiditatea ridicată și de stropi.",
+                "en": "The lighthouse in the grey sea offers a classic Breton photo opportunity; keep your camera gear protected from the persistent moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie des Trépassés",
+                "hu": "Baie des Trépassés",
+                "ro": "Baie des Trépassés",
+                "en": "Baie des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Surfer, die auch bei Regen die Wellen nutzen, und suchen Sie bei zu starkem Guss Schutz unter den Klippenvorsprüngen.",
+                "hu": "Figyelje meg a szörfösöket, akik esőben is uralják a hullámokat, hevesebb zápor esetén pedig keressen menedéket a sziklák tövében.",
+                "ro": "Observați surferii care profită de valuri chiar și pe ploaie și căutați adăpost sub proeminențele stâncilor în caz de aversă torențială.",
+                "en": "Watch the surfers taking on the waves even in the rain, and seek shelter under cliff overhangs if a heavy downpour starts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Pointe du Raz ist klar und frostig, ideal für eine Wanderung bei frischer Meeresluft. Mittags steht die Sonne tief und taucht die Granitfelsen in ein goldenes, kaltes Licht. Am Nachmittag sollte man den Rückweg antreten, da die Sonne bereits gegen 17:00 Uhr im Atlantik versinkt. Der Abend bringt eine schneidende Kälte, die man am besten in warmer Kleidung genießt.",
+            "hu": "A téli reggel tiszta és fagyos, tökéletes a sétához a friss sós levegőn. Délben az alacsonyan járó nap arany fénybe vonja a gránitsziklákat, de a szél hűvös marad. Délután érdemes elindulni visszafelé, mert 17:00 körül a nap már a tengerbe vész. Az este metsző hideget hoz, így a réteges, thermo öltözet elengedhetetlen a túrához.",
+            "ro": "Dimineața de iarnă la Pointe du Raz este senină și geroasă, ideală pentru o plimbare în aerul sărat și proaspăt. La prânz, soarele jos scaldă stâncile de granit într-o lumină aurie și rece. După-amiaza trebuie planificată întoarcerea, deoarece soarele apune în Atlantic în jurul orei 17:00. Seara aduce un frig tăios, deci hainele termice sunt obligatorii.",
+            "en": "A winter morning at Pointe du Raz is crisp and frosty, perfect for a hike in the fresh sea air. At noon, the low sun bathes the granite cliffs in a cold, golden light. In the afternoon, plan your return as the sun sets into the Atlantic around 17:00. The evening brings a biting chill, making thermal layers and windproof jackets essential for your safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de Site de la Pointe du Raz",
+                "hu": "Maison de Site de la Pointe du Raz",
+                "ro": "Maison de Site de la Pointe du Raz",
+                "en": "Maison de Site de la Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor Sie das windige Kap erkunden, und achten Sie auf die verkürzten Winteröffnungszeiten des Zentrums.",
+                "hu": "Melegedjen fel a belső térben, mielőtt kimegy a szeles sziklákhoz, és ügyeljen a látogatóközpont rövidebb téli nyitvatartására.",
+                "ro": "Încălziți-vă în interior înainte de a explora capul bătut de vânt și verificați programul de iarnă redus al centrului de vizitare.",
+                "en": "Warm up inside before heading out to the windy cliffs, and take note of the center's shortened winter operating hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de la pointe du Raz",
+                "hu": "Sémaphore de la pointe du Raz",
+                "ro": "Sémaphore de la pointe du Raz",
+                "en": "Sémaphore de la pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft hervorragend; tragen Sie eine winddichte Mütze, da der kalte Nordwind hier besonders stark weht.",
+                "hu": "Télen a látótávolság gyakran kiváló; viseljen szélálló sapkát, mert a hideg északi szél itt különösen erősen érezhető.",
+                "ro": "Vizibilitatea la distanță este adesea excelentă iarna; purtați o căciulă rezistentă la vânt, deoarece curentul rece este foarte puternic aici.",
+                "en": "Visibility is often excellent in winter; wear a windproof hat as the cold northern wind hits the signal station head-on."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des Naufragés",
+                "hu": "Notre-Dame des Naufragés",
+                "ro": "Notre-Dame des Naufragés",
+                "en": "Notre-Dame des Naufragés"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Statue hebt sich scharf vom klaren Winterhimmel ab; nutzen Sie das weiche Licht des Vormittags für eindrucksvolle Fotos.",
+                "hu": "A fehér szobor élesen elválik a tiszta téli égbolttól; használja ki a délelőtti lágy fényeket az igazán drámai fotókhoz.",
+                "ro": "Statuia albă se profilează clar pe cerul senin de iarnă; profitați de lumina blândă a dimineții pentru fotografii impresionante.",
+                "en": "The white statue stands out sharply against the clear winter sky; take advantage of the soft morning light for dramatic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Raz",
+                "hu": "Pointe du Raz",
+                "ro": "Pointe du Raz",
+                "en": "Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Der westlichste Punkt ist im Winter einsam und wild; achten Sie auf festes Schuhwerk gegen eventuelles Glatteis auf den Pfaden.",
+                "hu": "A legnyugatibb csücsök télen elhagyatott és vad; viseljen stabil túrabakancsot, mert az ösvényeken néhol jegesedés fordulhat elő.",
+                "ro": "Cel mai vestic punct este pustiu și sălbatic iarna; purtați bocanci stabili pentru a preveni alunecarea pe porțiunile eventual înghețate.",
+                "en": "The westernmost point is lonely and wild in winter; wear sturdy boots to prevent slipping on potentially icy patches on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse la Vieille",
+                "hu": "Lighthouse la Vieille",
+                "ro": "Lighthouse la Vieille",
+                "en": "Lighthouse la Vieille"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Winterwellen um den Leuchtturm; die tiefstehende Sonne sorgt für lange, dramatische Schatten auf dem Meer.",
+                "hu": "Figyelje meg a téli hullámok játékát a világítótorony körül; az alacsony napállás hosszú, drámai árnyékokat vet a vízre.",
+                "ro": "Observați jocul valurilor de iarnă în jurul farului; soarele jos creează umbre lungi și dramatice pe suprafața mării.",
+                "en": "Watch the interplay of winter waves around the lighthouse; the low sun creates long, dramatic shadows across the ocean surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie des Trépassés",
+                "hu": "Baie des Trépassés",
+                "ro": "Baie des Trépassés",
+                "en": "Baie des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Strand ist bei Winterkälte sehr erfrischend; kehren Sie vor 17:00 Uhr um, damit Sie nicht im Dunkeln wandern.",
+                "hu": "A parti séta a téli hidegben igazi felfrissülés; induljon vissza 17:00 előtt, hogy még világosban elérje a parkolót.",
+                "ro": "O plimbare pe plajă în frigul iernii este revigorantă; întoarceți-vă înainte de ora 17:00 pentru a nu merge prin întuneric.",
+                "en": "A beach walk in the winter chill is very refreshing; make sure to head back before 17:00 to avoid walking in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a csendes Saint-Michel kápolnánál, mielőtt a fő látogatóközpontba hajtana.\n\nEbédidőben tekerjen a félsziget csúcsa felé, hogy megnézze a tengeri jelzőállomást.\n\nÉlvezze a frissítő délutánt a Pointe du Raz peremén, ahol az óceáni szelek fújnak.\n\nAz útja a Trépassés strand széles partjainál ér véget, miközben a lemenő nap sugarai világítanak.",
         "ro": "Începeți turul cu bicicleta la liniștita capelă Saint-Michel înainte de a merge la vizitatori.\n\nLa prânz, pedalați spre vârful peninsulei pentru a vedea stația maritimă istorică.\n\nBucurați-vă de o după-amiază revigorantă explorând marginea extremă a Pointe du Raz.\n\nCursa dumneavoastră se termină de-a lungul malurilor plajei Trépassés la finalul zilei.",
         "en": "Kick off your cycling tour at the quiet chapel before heading to the visitor center.\n\nBy lunchtime, ride toward the tip of the peninsula to see the maritime semaphore.\n\nEnjoy an invigorating afternoon exploring the very edge of Pointe du Raz.\n\nYour ride ends along the sweeping shores of Trépassés beach as the sun descends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt an der Kapelle Saint-Michel, wobei die Straßen bei Regen glatt sein können. Mittags bietet das Maison de Site eine trockene Pause und Einblicke in die Küstenkultur. Am Nachmittag trotzen wir dem Wind auf dem Weg zum Kap, wo die Gischt bis auf die Wege spritzt. Der Abend endet mit einer vorsichtigen Abfahrt zurück zum Ausgangspunkt.",
+            "hu": "A reggeli kerékpározás a Saint-Michel kápolnánál indul, ahol az aszfalt esőben csúszós lehet. Délben a látogatóközpont nyújt száraz pihenőt és kulturális feltöltődést. Délután a széllel dacolva tekerünk a sziklák felé, ahol a sós permet az utat is elérheti. Az este óvatos ereszkedéssel zárul a kiindulópont felé a szürkületben.",
+            "ro": "Dimineața pe bicicletă începe la Capela Saint-Michel, unde drumurile pot fi alunecoase din cauza ploii. La prânz, Maison de Site oferă o pauză uscată și informații despre cultura de coastă. După-amiaza pedalăm împotriva vântului spre capăt, unde stropii de mare pot ajunge pe drum. Seara se încheie cu o coborâre prudentă spre punctul de plecare.",
+            "en": "The morning bike ride starts at Saint-Michel Chapel, where the roads can be slick in the rain. At noon, the Maison de Site provides a dry break and insights into coastal heritage. In the afternoon, we pedal against the wind toward the headland, where sea spray often reaches the paths. The evening ends with a careful descent back to the start as light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da der nasse Untergrund den Bremsweg verlängert; die Kapelle bietet kurzzeitig Schutz.",
+                "hu": "Ellenőrizze a fékeket indulás előtt, mert a nedves út megnöveli a féktávot; a kápolna fala mellett rövid menedéket találhat.",
+                "ro": "Verificați frânele înainte de plecare, deoarece carosabilul umed mărește distanța de frânare; capela oferă un scurt adăpost.",
+                "en": "Check your brakes before setting off, as the wet surface increases braking distance; the chapel provides a brief shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Site de la Pointe du Raz",
+                "hu": "Maison de Site de la Pointe du Raz",
+                "ro": "Maison de Site de la Pointe du Raz",
+                "en": "Maison de Site de la Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer am Eingang und wärmen Sie sich im Inneren auf, während Sie den Regenradar im Auge behalten.",
+                "hu": "Használja a bejáratnál lévő kerékpártárolókat, és melegedjen fel bent, miközben figyeli az esőfelhők vonulását a radaron.",
+                "ro": "Folosiți suporturile de biciclete de la intrare și încălziți-vă în interior în timp ce urmăriți radarul de precipitații.",
+                "en": "Use the bike racks at the entrance and warm up inside while keeping an eye on the rain radar for the next window of dry weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de la pointe du Raz",
+                "hu": "Sémaphore de la pointe du Raz",
+                "ro": "Sémaphore de la pointe du Raz",
+                "en": "Sémaphore de la pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben auf dem Rad sehr stark; halten Sie den Lenker fest und achten Sie auf plötzliche Böen von der Seeseite.",
+                "hu": "A szél itt nagyon erősen érheti a kerékpárost; tartsa szilárdan a kormányt, és figyeljen az oldalról érkező hirtelen széllökésekre.",
+                "ro": "Vântul bate foarte puternic aici sus pe bicicletă; țineți bine ghidonul și fiți atenți la rafalele bruște dinspre mare.",
+                "en": "The wind hits hard here while cycling; keep a firm grip on the handlebars and watch out for sudden gusts from the sea side."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Raz",
+                "hu": "Pointe du Raz",
+                "ro": "Pointe du Raz",
+                "en": "Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad zu nah an die Klippenkante zu fahren, da der Wind und die Nässe das Manövrieren erschweren.",
+                "hu": "Ne hajtson kerékpárral túl közel a sziklák széléhez, mert a szél és a nedvesség kiszámíthatatlanná teheti az irányítást.",
+                "ro": "Evitați să pedalați prea aproape de marginea stâncilor, deoarece vântul și umezeala fac manevrarea dificilă și riscantă.",
+                "en": "Avoid cycling too close to the cliff edge, as the wind and wet conditions make maneuvering more difficult and unpredictable."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie des Trépassés",
+                "hu": "Baie des Trépassés",
+                "ro": "Baie des Trépassés",
+                "en": "Baie des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zur Bucht ist steil; bremsen Sie frühzeitig ab, um auf dem nassen Asphalt nicht ins Rutschen zu kommen.",
+                "hu": "Az öbölhöz vezető lejtő meredek; fékezzen időben, hogy a nedves aszfalton elkerülje a kerekek megcsúszását.",
+                "ro": "Coborârea spre golf este abruptă; frânați din timp pentru a evita deraparea roților pe asfaltul ud și acoperit cu nisip.",
+                "en": "The descent to the bay is steep; brake early to avoid sliding on the wet asphalt which may be covered with sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Trépassés",
+                "hu": "Plage des Trépassés",
+                "ro": "Plage des Trépassés",
+                "en": "Plage des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen Schutz in der Nähe der Hotels an der Bucht und reinigen Sie Ihre Kette später vom salzigen Sand.",
+                "hu": "Heves esőben keressen menedéket az öböl melletti épületeknél, és később mindenképpen tisztítsa meg a láncot a sós homoktól.",
+                "ro": "Căutați adăpost lângă clădirile din golf în caz de ploaie torențială și curățați lanțul de nisipul sărat după tură.",
+                "en": "Seek shelter near the bay buildings during heavy rain, and remember to clean your bike chain of salty sand after the ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad erfordert warme Handschuhe, während wir die Kapelle Saint-Michel passieren. Mittags wärmt die tiefe Sonne die Küstenpfade leicht auf, doch der Wind bleibt eisig. Am Nachmittag erreichen wir das Kap, wobei das Licht für spektakuläre Kontraste sorgt. Da es bereits gegen 17:00 Uhr dunkel wird, planen wir die Rückkehr im hellen Restlicht des Tages.",
+            "hu": "A téli reggeli tekeréshez meleg kesztyű kell, miközben elhaladunk a Saint-Michel kápolna mellett. Délben az alacsony napfény kicsit felmelegíti az utat, de a szél metsző marad. Délután érjük el a sziklacsúcsot, ahol a fények drámai kontrasztot alkotnak. Mivel 17:00 körül sötétedik, a visszautat még a szürkület előtt megkezdjük.",
+            "ro": "O dimineață de iarnă pe bicicletă necesită mănuși groase în timp ce trecem pe lângă Capela Saint-Michel. La prânz, soarele jos încălzește ușor potecile, dar vântul rămâne înghețat. După-amiaza ajungem la capătul stâncos, unde lumina creează contraste spectaculoase. Deoarece se întunecă în jur de 17:00, planificăm revenirea din timp.",
+            "en": "A winter morning ride requires warm gloves as we pass the Saint-Michel Chapel in the crisp air. At noon, the low sun slightly warms the coastal paths, though the wind remains biting. In the afternoon, we reach the headland where the lighting creates spectacular contrasts. Since it gets dark around 17:00, we plan our return during the fading daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen am frühen Morgen; tragen Sie mehrere Schichten Kleidung, um gegen den Fahrtwind geschützt zu sein.",
+                "hu": "Kora reggel ügyeljen a zúzmarás útszakaszokra; öltözzön rétegesen, hogy megvédje magát a menetszél okozta lehűléstől.",
+                "ro": "Atenție la porțiunile cu chiciură dimineața devreme; purtați mai multe straturi de haine pentru a vă proteja de vântul tăios.",
+                "en": "Watch out for frost on the paths early in the morning; wear multiple layers of clothing to stay protected from the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Site de la Pointe du Raz",
+                "hu": "Maison de Site de la Pointe du Raz",
+                "ro": "Maison de Site de la Pointe du Raz",
+                "en": "Maison de Site de la Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause im Besucherzentrum, um die steifen Finger aufzuwärmen und heißen Tee aus Ihrer Thermoskanne zu trinken.",
+                "hu": "Használja ki a látogatóközponti szünetet elgémberedett ujjai felmelegítésére, és igyon forró teát a termoszhulából.",
+                "ro": "Folosiți pauza de la centrul de vizitare pentru a vă încălzi degetele amorțite și beți un ceai fierbinte din termos.",
+                "en": "Use the break at the visitor center to warm up stiff fingers and enjoy a hot drink from your thermos to maintain core temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de la pointe du Raz",
+                "hu": "Sémaphore de la pointe du Raz",
+                "ro": "Sémaphore de la pointe du Raz",
+                "en": "Sémaphore de la pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft sorgt für eine enorme Weitsicht bis zur Île de Sein; stellen Sie Ihr Rad sicher ab, da Böen es umwerfen könnten.",
+                "hu": "A téli levegő kiváló látótávolságot biztosít akár a Sein-szigetig is; támassza le stabilan a gépét, mert a szél feldöntheti.",
+                "ro": "Aerul de iarnă oferă o vizibilitate enormă până la Île de Sein; parcați bicicleta sigur, deoarece rafalele o pot răsturna ușor.",
+                "en": "The crisp winter air provides immense visibility reaching as far as Île de Sein; park your bike securely as gusts could knock it over."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Raz",
+                "hu": "Pointe du Raz",
+                "ro": "Pointe du Raz",
+                "en": "Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Kap ohne die Sommermassen, aber bleiben Sie wegen möglicher Glätte vorsichtig auf den Felsenpfaden.",
+                "hu": "Élvezze a sziklák nyugalmát a nyári tömeg nélkül, de legyen óvatos a köves utakon az esetleges lefagyások miatt.",
+                "ro": "Bucurați-vă de liniștea capului fără mulțimile de vară, dar rămâneți prudenți pe potecile stâncoase din cauza posibilei gheți.",
+                "en": "Enjoy the tranquility of the headland without the summer crowds, but remain cautious on rocky paths due to possible icy spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie des Trépassés",
+                "hu": "Baie des Trépassés",
+                "ro": "Baie des Trépassés",
+                "en": "Baie des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für Fotos der wilden Brandung; achten Sie auf die Zeit, um vor Sonnenuntergang zurück zu sein.",
+                "hu": "A délutáni fények tökéletesek a vad hullámverés fotózásához; figyelje az időt, hogy naplemente előtt visszaérjen a szálláshoz.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografierea valurilor sălbatice; urmăriți ceasul pentru a reveni înainte de apus.",
+                "en": "The afternoon light is ideal for photos of the wild surf; keep an eye on the time to ensure you return before the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Trépassés",
+                "hu": "Plage des Trépassés",
+                "ro": "Plage des Trépassés",
+                "en": "Plage des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Strand belebt die Geister; schalten Sie für den Rückweg Ihr Licht am Rad ein, falls es dämmrig wird.",
+                "hu": "Egy rövid megálló a parton felfrissíti a lelket; a visszaútra kapcsolja be a kerékpár lámpáit, ha kezdene sötétedni.",
+                "ro": "O scurtă oprire pe plajă vă va revigora; porniți luminile bicicletei pentru drumul de întoarcere dacă se lasă amurgul.",
+                "en": "A short beach stop is invigorating; make sure your bike lights are working for the return journey in case it gets dusky."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Induljon korán, hogy megörökítse a reggeli árnyékokat az ősi állóköveken.\n\nDél körül közeledjen a parthoz, tegyen egy sétát a drámai sziklaívhez és a központhoz.\n\nA délutánt a legnyugatibb csúcson, a hajótöröttek emlékműve melletti nézelődésnek szentelje.\n\nZárja a napot a tágas strand melletti parkolóban egy békés és csendes visszavonulással.",
         "ro": "Conduceți devreme pentru a surprinde umbrele dimineții peste pietrele preistorice.\n\nDeplasați-vă spre coastă la prânz, făcând o plimbare pentru a admira arcada de stâncă.\n\nDupă-amiaza este dedicată explorării celui mai vestic punct, lângă monumentul istoric.\n\nÎncheiați ziua parcând lângă plaja întinsă pentru o retragere liniștită de seară.",
         "en": "Drive out early to capture the morning shadows across the ancient standing stones.\n\nMove towards the coast by midday, admiring the dramatic rock arch and exhibits.\n\nThe afternoon is dedicated to standing at the westernmost tip next to the monument.\n\nWrap up the day parking near the expansive beach for a peaceful evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt mit einer Fahrt zum Menhir du Village, während die Scheibenwischer im Takt der Küste arbeiten. Mittags bietet die Fahrt zum Aussichtspunkt Schutz im Auto vor heftigen Böen. Am Nachmittag erkunden wir das Maison de Site, ein ideales Ziel für regnerische Stunden. Der Abend schließt mit einem Blick auf die Pointe du Raz, während wir sicher und trocken im Fahrzeug sitzen.",
+            "hu": "Az esős nap a Menhir du Village meglátogatásával indul, miközben az ablaktörlők a tenger ritmusára járnak. Délben az autó védelméből csodáljuk a sziklás partot a kilátópontnál. Délután a látogatóközpont belső kiállításai kínálnak remek programot a zuhé elől. Az este a sziklák látványával zárul, miközben mi biztonságban és szárazon pihenünk a kocsiban.",
+            "ro": "Ziua ploioasă începe cu o vizită la Menhir du Village, în timp ce ștergătoarele lucrează în ritmul coastei. La prânz, mașina oferă protecție împotriva rafalelor puternice la punctul de observație. După-amiaza explorăm Maison de Site, o destinație ideală pentru orele cu precipitații. Seara se încheie cu o vedere spre Pointe du Raz din confortul uscat al vehiculului.",
+            "en": "The rainy day begins with a drive to Menhir du Village as the wipers keep pace with the Atlantic rain. At noon, the car provides a safe shield from strong gusts at the scenic viewpoint. In the afternoon, we explore the Maison de Site, an ideal indoor destination for wet weather. The evening concludes with a view of the cliffs while staying warm and dry inside the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menhir du Village",
+                "hu": "Menhir du Village",
+                "ro": "Menhir du Village",
+                "en": "Menhir du Village"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Denkmal, um den kurzen Fußmarsch im Regen zu minimieren; der Stein wirkt nass besonders dunkel.",
+                "hu": "Parkoljon a lehető legközelebb az emlékműhöz, hogy lerövidítse az esőben megtett utat; a nedves kő színe ilyenkor mélyebb.",
+                "ro": "Parcați cât mai aproape de monument pentru a minimiza mersul prin ploaie; piatra umedă are o culoare mult mai intensă.",
+                "en": "Park as close as possible to the monument to minimize walking in the rain; the wet stone looks particularly dark and ancient."
+              }
+            },
+            {
+              "name": {
+                "de": "Vue sur Arche dans la roche",
+                "hu": "Vue sur Arche dans la roche",
+                "ro": "Vue sur Arche dans la roche",
+                "en": "Vue sur Arche dans la roche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick direkt aus dem Autofenster, um trocken zu bleiben; nutzen Sie den Zoom Ihrer Kamera für Details der Brandung.",
+                "hu": "Élvezze a kilátást közvetlenül az autó ablakából, hogy száraz maradjon; használja a kamera zoomját a hullámok megörökítéséhez.",
+                "ro": "Bucurați-vă de priveliște direct de pe fereastra mașinii pentru a rămâne uscați; folosiți zoom-ul camerei pentru detaliile valurilor.",
+                "en": "Enjoy the view directly from your car window to stay dry; use your camera's zoom to capture details of the surf through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Site de la Pointe du Raz",
+                "hu": "Maison de Site de la Pointe du Raz",
+                "ro": "Maison de Site de la Pointe du Raz",
+                "en": "Maison de Site de la Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz bietet ausreichend Platz; das Zentrum ist der beste Ort, um einen kräftigen Regenguss bei einer Ausstellung abzuwarten.",
+                "hu": "A nagy parkolóban bőséges hely van; a központ a legjobb hely egy hevesebb zápor átvészelésére a kiállítások megtekintése közben.",
+                "ro": "Parcarea mare oferă suficient spațiu; centrul este cel mai bun loc pentru a aștepta trecerea unei averse în timp ce vizitați expoziția.",
+                "en": "The large parking lot offers plenty of space; the center is the best place to wait out a heavy downpour while enjoying the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des Naufragés",
+                "hu": "Notre-Dame des Naufragés",
+                "ro": "Notre-Dame des Naufragés",
+                "en": "Notre-Dame des Naufragés"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; achten Sie beim Aussteigen auf Pfützen und den starken Wind, der die Autotüren aufreißen kann.",
+                "hu": "Csak egy gyors megálló egy fotóra; kiszálláskor ügyeljen a tócsákra és a szélre, amely hirtelen feltépheti a kocsiajtót.",
+                "ro": "O oprire rapidă pentru o fotografie; atenție la bălți și la vântul puternic care poate smulge portiera mașinii la deschidere.",
+                "en": "A quick stop for a photo; watch out for puddles and strong winds that can catch the car door when you open it."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Raz",
+                "hu": "Pointe du Raz",
+                "ro": "Pointe du Raz",
+                "en": "Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie gegen den Wind, um die Türen leichter öffnen zu können; die Aussicht auf die raue See ist vom Wagen aus spektakulär.",
+                "hu": "Széllel szemben parkoljon, hogy könnyebben nyithassa az ajtót; a vad tenger látványa az autóból is lenyűgöző élmény.",
+                "ro": "Parcați cu fața în vânt pentru a deschide portierele mai ușor; vederea mării agitate este spectaculoasă chiar și din mașină.",
+                "en": "Park facing the wind to make opening doors easier; the view of the rough sea is spectacular even from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Trépassés",
+                "hu": "Plage des Trépassés",
+                "ro": "Plage des Trépassés",
+                "en": "Plage des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an der Bucht ermöglicht es, die Brandung aus nächster Nähe zu beobachten, ohne nass zu werden.",
+                "hu": "Az öböl melletti parkolóból közvetlen rálátás nyílik a hullámverésre, így anélkül nézelődhet, hogy bőrig ázna az esőben.",
+                "ro": "Parcarea direct de lângă golf vă permite să observați valurile de aproape fără a vă uda în ploaia persistentă.",
+                "en": "The parking lot right by the bay allows you to watch the crashing surf up close without getting soaked in the persistent rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Wintermorgen bringt uns das Auto bequem zum Menhir du Village, während die Heizung für wohlige Wärme sorgt. Mittags steuern wir die Küstenpunkte an, um das klare Winterlicht für Fotos zu nutzen. Am Nachmittag besuchen wir das Maison de Site, bevor die Dämmerung einsetzt. Da die Sonne bereits um 17:00 Uhr untergeht, genießen wir das Abendrot sicher auf der Fahrt zurück zur Unterkunft.",
+            "hu": "A téli reggelen az autó kényelmében jutunk el a Menhir du Village-hoz, miközben a fűtés kellemes meleget ad. Délben a parti pontokat keressük fel, kihasználva a tiszta téli fényeket a fotózáshoz. Délután a látogatóközpontot látogatjuk meg, mielőtt leszállna az est. Mivel 17:00-kor már sötét van, a naplementét már a szállás felé vezető úton csodáljuk.",
+            "ro": "În dimineața de iarnă, mașina ne duce confortabil la Menhir du Village, în timp ce căldura din interior este foarte plăcută. La prânz, vizităm punctele de coastă pentru a folosi lumina clară de iarnă în fotografii. După-amiaza vizităm Maison de Site înainte de lăsarea serii. Deoarece soarele apune la 17:00, admirăm amurgul în drum spre cazare.",
+            "en": "On a winter morning, the car takes us comfortably to Menhir du Village while the heater keeps us warm. At noon, we drive to coastal viewpoints to capture the clear winter light in our photos. In the afternoon, we visit the Maison de Site before the early twilight sets in. Since the sun sets at 17:00, we enjoy the evening glow safely on the drive back to our stay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menhir du Village",
+                "hu": "Menhir du Village",
+                "ro": "Menhir du Village",
+                "en": "Menhir du Village"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem kurzen Fotostopp am Menhir; die kalte Winterluft ist erfrischend, aber schneidend.",
+                "hu": "Használja az ülésfűtést a rövid fotómegálló után a menhirnél; a téli levegő frissítő, de nagyon hamar áthűt.",
+                "ro": "Folosiți încălzirea în scaune după scurta oprire foto la menhir; aerul rece de iarnă este revigorant, dar tăios.",
+                "en": "Turn on the seat heaters after your brief photo stop at the menhir; the winter air is refreshing but will chill you quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Vue sur Arche dans la roche",
+                "hu": "Vue sur Arche dans la roche",
+                "ro": "Vue sur Arche dans la roche",
+                "en": "Vue sur Arche dans la roche"
+              },
+              "tip_5lang": {
+                "de": "Das klare Wetter im Winter bietet eine fantastische Sicht auf die Felsformationen; parken Sie sicher auf befestigtem Grund.",
+                "hu": "A tiszta téli időjárás fantasztikus kilátást nyújt a sziklaformációkra; parkoljon biztonságosan a kijelölt aszfaltozott részen.",
+                "ro": "Vremea senină de iarnă oferă o vizibilitate fantastică asupra formațiunilor stâncoase; parcați în siguranță pe teren stabil.",
+                "en": "The clear winter weather offers a fantastic view of the rock formations; ensure you park safely on firm, paved ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Site de la Pointe du Raz",
+                "hu": "Maison de Site de la Pointe du Raz",
+                "ro": "Maison de Site de la Pointe du Raz",
+                "en": "Maison de Site de la Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum ist im Winter weniger überlaufen; prüfen Sie die Ladestände Ihres E-Autos an den vorhandenen Stationen vor Ort.",
+                "hu": "A központ télen kevésbé zsúfolt; ha elektromos autóval érkezik, ellenőrizze a helyi töltőoszlopokat a továbbindulás előtt.",
+                "ro": "Centrul este mai puțin aglomerat iarna; verificați stațiile de încărcare pentru mașini electrice disponibile la fața locului.",
+                "en": "The center is less crowded in winter; check the available EV charging stations on-site if you are driving an electric vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des Naufragés",
+                "hu": "Notre-Dame des Naufragés",
+                "ro": "Notre-Dame des Naufragés",
+                "en": "Notre-Dame des Naufragés"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie längere Aufenthalte außerhalb des Wagens wegen des eisigen Windes; das Licht um 15:00 Uhr ist hier am schönsten.",
+                "hu": "A jeges szél miatt kerülje a hosszú kintlétet; 15:00 körül a legszebbek a fények a szobornál a téli időszakban.",
+                "ro": "Evitați staționarea lungă în afara mașinii din cauza vântului înghețat; lumina de la ora 15:00 este cea mai frumoasă aici.",
+                "en": "Avoid staying outside the car for too long due to the icy wind; the light around 15:00 is most beautiful here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe du Raz",
+                "hu": "Pointe du Raz",
+                "ro": "Pointe du Raz",
+                "en": "Pointe du Raz"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht direkt über dem Meer unter; kommen Sie frühzeitig an, um den besten Parkplatz für den Ausblick zu ergattern.",
+                "hu": "A téli nap közvetlenül a tenger felett nyugszik le; érkezzen időben, hogy a legjobb kilátást nyújtó parkolóhelyet foglalhassa el.",
+                "ro": "Soarele de iarnă apune direct peste mare; sosiți devreme pentru a ocupa cel mai bun loc de parcare pentru panoramă.",
+                "en": "The winter sun sets directly over the ocean; arrive early to secure the best parking spot for the sunset view."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Trépassés",
+                "hu": "Plage des Trépassés",
+                "ro": "Plage des Trépassés",
+                "en": "Plage des Trépassés"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Straßenglätte bei der Abfahrt zur Bucht in den späten Nachmittagsstunden, wenn die Temperaturen sinken.",
+                "hu": "A délutáni órákban, ahogy csökken a hőmérséklet, ügyeljen az úttest jegesedésére az öbölhöz vezető meredek úton.",
+                "ro": "Atenție la posibila gheață pe drumul spre golf în orele târzii ale după-amiezii, pe măsură ce temperaturile scad brusc.",
+                "en": "Watch out for potential ice on the road to the bay in the late afternoon as temperatures drop rapidly after sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

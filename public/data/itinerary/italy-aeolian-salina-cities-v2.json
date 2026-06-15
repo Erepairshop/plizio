@@ -137,6 +137,168 @@
         "hu": "A reggel a tengerparton, a Spiaggia di Rinella egyedi vulkáni homokjánál kezdődik. A dél az apró falun és a pasztellszínű Chiesa di San Gaetano-n át a csendes Spiaggia della Nonna felé vezet. A délután kulturális felfedezésre csábít a La Caveia-nál. Az este a Spiaggia di Prà Venezia szikláinál zárul egy felejthetetlen, vadregényes naplementével.",
         "ro": "Dimineața începe la malul mării pe nisipul vulcanic unic de la Spiaggia di Rinella. Amiaza te poartă prin sat pe lângă pastelata Chiesa di San Gaetano spre liniștita Spiaggia della Nonna. După-amiaza te invită la descoperiri culturale la La Caveia. Seara se încheie la Spiaggia di Prà Venezia cu un apus de coastă stâncos, absolut de neuitat.",
         "en": "Morning begins by the sea at the unique volcanic sands of Spiaggia di Rinella. Midday brings you through the local village past the pastel-colored Chiesa di San Gaetano towards the quiet Spiaggia della Nonna. Afternoon invites cultural discovery at La Caveia. Evening wraps up at Spiaggia di Prà Venezia for a rugged, unforgettable coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen mischt sich der Duft von Regen mit der Meeresbrise am Hafen. Mittags bietet die Stille der Kirche einen Rückzugsort vor dem prasselnden Regen. Am Nachmittag faszinieren der dunkle Vulkansand und der dramatische Himmel an der Küste. Am Abend legt sich Nebel über die Nachbarinseln, ideal für eine Pause in einem geschützten Lokal.",
+            "hu": "Reggel Rinella kikötőjében az eső illata keveredik a tengerével a vulkáni part mentén. Délben a templom csendje nyújt menedéket a kopogó eső elől. Délután a sötét homok és a drámai szürke égbolt látványa lenyűgöző a parton. Estére a köd beborítja a szomszédos szigeteket, ideális idő egy zárt helyen való megpihenéshez.",
+            "ro": "Dimineața, mirosul ploii se amestecă cu briza mării în portul Rinella. La prânz, liniștea bisericii oferă un refugiu în fața ploii bătânde. După-amiaza, nisipul vulcanic întunecat și cerul dramatic oferă un peisaj fascinant pe coastă. Seara, ceața acoperă insulele vecine, fiind momentul ideal pentru odihnă într-un loc acoperit.",
+            "en": "In the morning, the scent of rain mixes with the sea breeze at Rinella harbor. At noon, the silence of the church provides a sanctuary from the pattering rain. In the afternoon, the dark volcanic sand and dramatic grey sky create a stunning coastal view. By evening, mist covers the neighboring islands, perfect for relaxing in a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Rinella",
+                "hu": "Spiaggia di Rinella",
+                "ro": "Spiaggia di Rinella",
+                "en": "Spiaggia di Rinella"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen auf dem schwarzen Sand vom Schutz der Hafenarkaden aus; bringen Sie einen windfesten Regenschirm für die starken Böen an der Küste mit.",
+                "hu": "Figyelje a hullámok játékát a fekete homokon a kikötő árkádjai alól védve; hozzon szélálló esernyőt a part menti erős széllökések miatt.",
+                "ro": "Urmăriți jocul valurilor pe nisipul negru de la adăpostul arcadelor portului; aduceți o umbrelă rezistentă la vânt pentru rafalele puternice de pe coastă.",
+                "en": "Watch the waves play on the black sand while staying protected under the harbor arches; bring a windproof umbrella for the strong coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Gaetano",
+                "hu": "Chiesa di San Gaetano",
+                "ro": "Chiesa di San Gaetano",
+                "en": "Chiesa di San Gaetano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Architektur und finden Sie eine trockene Zuflucht vor dem Sturm; nutzen Sie die Zeit, um die kunstvollen Details des Altars zu betrachten.",
+                "hu": "Csodálja meg az egyszerű építészetet és találjon száraz menedéket a vihar elől; használja ki az időt az oltár bonyolult részleteinek megfigyelésére.",
+                "ro": "Admirați arhitectura simplă și găsiți un refugiu uscat în fața furtunii; profitați de timp pentru a observa detaliile complicate ale altarului.",
+                "en": "Admire the simple architecture and find a dry sanctuary from the storm; use the time to observe the intricate altar details in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia della Nonna",
+                "hu": "Spiaggia della Nonna",
+                "ro": "Spiaggia della Nonna",
+                "en": "Spiaggia della Nonna"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen bieten begrenzten natürlichen Schutz, aber Vorsicht vor den nassen Felsen; wasserfeste Stiefel sind für diesen Küstenabschnitt bei Regen unerlässlich.",
+                "hu": "A sziklák korlátozott természetes védelmet nyújtanak, de vigyázzon a nedves kövekre; a vízálló bakancs elengedhetetlen ezen a tengerparti szakaszon esőben.",
+                "ro": "Stâncile oferă o protecție naturală limitată, dar atenție la pietrele umede; ghetele impermeabile sunt esențiale pentru această porțiune de coastă pe ploaie.",
+                "en": "The cliffs offer limited natural shelter, but be careful of the wet rocks; waterproof boots are essential for this coastal stretch during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Caveia",
+                "hu": "La Caveia",
+                "ro": "La Caveia",
+                "en": "La Caveia"
+              },
+              "tip_5lang": {
+                "de": "Dieser überdachte Kulturstopp ist ideal, um mehr über die lokale Geschichte zu erfahren; prüfen Sie die Beleuchtung im Inneren, da es draußen schnell dunkler wird.",
+                "hu": "Ez a fedett kulturális megálló ideális a helyi történelem megismeréséhez; ellenőrizze a belső világítást, mivel kint ilyenkor gyorsan sötétedik.",
+                "ro": "Această oprire culturală acoperită este ideală pentru a învăța despre istoria locală; verificați iluminatul interior, deoarece afară se întunecă rapid.",
+                "en": "This covered cultural stop is ideal for learning about local history away from the rain; check the interior lighting as it gets dark quickly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Prà Venezia",
+                "hu": "Spiaggia di Prà Venezia",
+                "ro": "Spiaggia di Prà Venezia",
+                "en": "Spiaggia di Prà Venezia"
+              },
+              "tip_5lang": {
+                "de": "Der graue Himmel über dem Meer wirkt dramatisch, aber der Weg ist matschig; bewahren Sie Ihre Kamera unbedingt in einer wasserdichten Tasche auf.",
+                "hu": "A tenger feletti szürke égbolt drámai hatást kelt, de az út sáros; a fényképezőgépét mindenképpen tartsa vízálló táskában a séta alatt.",
+                "ro": "Cerul gri de deasupra mării creează un efect dramatic, dar drumul este noroios; păstrați aparatul foto într-o geantă impermeabilă în timpul plimbării.",
+                "en": "The grey sky over the sea looks dramatic, but the path is muddy; keep your camera in a waterproof bag at all times during this walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenbrise ist erfrischend und die Strände sind herrlich verlassen. Mittags beleuchtet die Wintersonne sanft die gelben Wände der Kirche. Am Nachmittag sollte man den Küstenspaziergang zügig beenden, da die Sonne früh untergeht. Der Abend ist ruhig, die Lichter der Dörfer glitzern im dunklen, friedlichen Meer.",
+            "hu": "A hűvös reggeli szél frissítő, a strandok ilyenkor teljesen elcsendesednek. Délben a téli napfény lágyan világítja meg a templom sárga falait. Délután sietni kell a parti sétával, mert ötkor már lemegy a nap a horizont mögé. Az este nyugodt, a falvak fényei csillognak a sötét, békés tenger tükrében.",
+            "ro": "Briza răcoroasă de dimineață este revigorantă, iar plajele sunt minunat de pustii. La prânz, soarele de iarnă luminează blând pereții galbeni ai bisericii. După-amiaza, grăbiți plimbarea pe coastă, deoarece soarele apune devreme. Seara este liniștită, iar luminile satelor sclipesc în marea întunecată și calmă.",
+            "en": "The cool morning breeze is refreshing, and the beaches are wonderfully deserted. At noon, the winter sun softly illuminates the yellow walls of the church. In the afternoon, wrap up your coastal walk early as the sun sets by 5 PM. The evening is quiet, with village lights glistening in the dark, peaceful sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Rinella",
+                "hu": "Spiaggia di Rinella",
+                "ro": "Spiaggia di Rinella",
+                "en": "Spiaggia di Rinella"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Ufer und die klare Winterluft; tragen Sie eine warme Windjacke, da die Meeresbrise im Schatten sehr kühl sein kann.",
+                "hu": "Élvezze a magányt a parton és a kristálytiszta téli levegőt; viseljen meleg szélkabátot, mert az árnyékban a tengeri szél nagyon hűvös lehet.",
+                "ro": "Bucurați-vă de singurătatea de pe țărm și de aerul curat de iarnă; purtați o jachetă groasă, deoarece briza mării poate fi foarte rece la umbră.",
+                "en": "Enjoy the solitude on the shore and the crisp winter air; wear a warm windbreaker as the sea breeze can feel very chilly in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Gaetano",
+                "hu": "Chiesa di San Gaetano",
+                "ro": "Chiesa di San Gaetano",
+                "en": "Chiesa di San Gaetano"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine angenehme Pause von der Kälte; bewundern Sie das Lichtspiel der tiefstehenden Sonne, das die Fresken im Inneren sanft hervorhebt.",
+                "hu": "A templom kellemes pihenőt nyújt a kinti hideg elől; csodálja meg az alacsonyan járó nap fényét, amely lágyan kiemeli a belső freskókat.",
+                "ro": "Biserica oferă un scurt popas plăcut ferit de frigul de afară; admirați lumina soarelui care pune în valoare frescele interioare.",
+                "en": "The church provides a pleasant break from the outside cold; admire the low winter sun that softly highlights the interior frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia della Nonna",
+                "hu": "Spiaggia della Nonna",
+                "ro": "Spiaggia della Nonna",
+                "en": "Spiaggia della Nonna"
+              },
+              "tip_5lang": {
+                "de": "Der Kiesstrand reflektiert das sanfte Winterlicht perfekt für Fotos; bringen Sie eine Thermoskanne mit Tee mit, um sich beim Blick aufs Meer aufzuwärmen.",
+                "hu": "A kavicsos part tökéletesen veri vissza a téli fényt a fotózáshoz; hozzon egy termosz teát, hogy felmelegedjen, miközben a tengert nézi.",
+                "ro": "Plaja cu pietriș reflectă perfect lumina blândă de iarnă pentru fotografii; aduceți un termos cu ceai pentru a vă încălzi în timp ce priviți marea.",
+                "en": "The pebble beach reflects the soft winter light perfectly for photos; bring a thermos of tea to stay warm while gazing at the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "La Caveia",
+                "hu": "La Caveia",
+                "ro": "La Caveia",
+                "en": "La Caveia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für einen Besuch im Inneren, bevor es draußen kühl wird; die geschützte Lage hilft, die Körperwärme nach dem Spaziergang zu halten.",
+                "hu": "Használja ki a délutánt a belső tér felfedezésére, mielőtt lehűl a levegő; a védett hely segít megőrizni a testhőt a hosszú séta után.",
+                "ro": "Profitați de după-amiază pentru a explora interiorul înainte să se răcească aerul; locația adăpostită ajută la menținerea căldurii corporale.",
+                "en": "Use the afternoon to explore the interior before the air chills; the sheltered location helps maintain body heat after your long walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Prà Venezia",
+                "hu": "Spiaggia di Prà Venezia",
+                "ro": "Spiaggia di Prà Venezia",
+                "en": "Spiaggia di Prà Venezia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr von diesem Aussichtspunkt; kehren Sie sofort danach um, da die Temperatur rasch sinkt.",
+                "hu": "Nézze meg a korai naplementét 17:00 körül erről a pontról; közvetlenül utána induljon vissza, mert a hőmérséklet ilyenkor gyorsan zuhan.",
+                "ro": "Urmăriți apusul devreme, în jurul orei 17:00, din acest punct; întoarceți-vă imediat după, deoarece temperatura scade brusc.",
+                "en": "Watch the early sunset around 5 PM from this vantage point; head back immediately after as the temperature drops rapidly once the sun is down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggel a déli parton indul, a Spiaggia di Rinella vulkáni szépségét élvezve. Délben fokozatot vált, miközben a Chiesa di San Gaetano mellett a központi szentély felé pedáloz. A délután fáradalmait a Monte del Porri kilátójának panorámája jutalmazza. Az este a Monte Fossa delle Felci buja ösvényeinek meghódításával közeleg.",
         "ro": "Dimineața începe de-a lungul coastei de sud, bucurându-te de frumusețea vulcanică de la Spiaggia di Rinella. La amiază schimbi ritmul pedalând pe lângă Chiesa di San Gaetano spre sanctuarul central. După-amiaza te răsplătește cu panorame de la View of Monte del Porri. Seara coboară în timp ce cucerești traseele luxuriante de pe Monte Fossa delle Felci.",
         "en": "Morning starts along the southern coast enjoying the volcanic beauty of Spiaggia di Rinella. Midday shifts gears as you pedal past Chiesa di San Gaetano toward the central sanctuary. Afternoon rewards your efforts with striking panoramas from the View of Monte del Porri. Evening descends as you conquer the lush trails of Monte Fossa delle Felci."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nebel am Morgen macht die Fahrt entlang der Küste atmosphärisch, erfordert aber Licht. Mittags ist der Aufstieg zum Heiligtum bei Regen anstrengend; prüfen Sie unbedingt Ihre Bremsen. Am Nachmittag hängen die Wolken tief über den Kratern und bieten mystische Ausblicke. Die Abfahrt am Abend muss auf den nassen, kurvigen Straßen langsam erfolgen.",
+            "hu": "A reggeli köd hangulatossá teszi a parti utat, de lámpákra szükség van. Délben a szentélyhez vezető emelkedő esőben megterhelő; ellenőrizze a fékeit. Délután a felhők alacsonyan szállnak a kráterek felett, misztikus hegyi kilátást nyújtva. Estére a leereszkedés csak lassan biztonságos a vizes, kanyargós utakon.",
+            "ro": "Ceața de dimineață face drumul de coastă atmosferic, dar necesită lumini. La prânz, urcarea spre sanctuar pe ploaie este solicitantă; verificați frânele. După-amiaza, norii plutesc jos peste cratere, oferind o vedere mistică spre munte. Seara, coborârea spre sat trebuie făcută lent pe drumurile ude.",
+            "en": "Morning mist makes the coastal ride atmospheric but requires lights for safety. At noon, the climb to the sanctuary is challenging in the rain; check your brakes. In the afternoon, clouds hang low over the craters, providing a mystical mountain view. By evening, the descent must be slow and careful on the wet, winding roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Rinella",
+                "hu": "Spiaggia di Rinella",
+                "ro": "Spiaggia di Rinella",
+                "en": "Spiaggia di Rinella"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour vorsichtig auf dem nassen Asphalt am Hafen; tragen Sie eine neongelbe Regenjacke, um bei schlechter Sicht besser gesehen zu werden.",
+                "hu": "Kezdje a túrát óvatosan a vizes aszfalton a kikötőnél; viseljen neon esőkabátot, hogy a rossz látási viszonyok között is jól észrevehető legyen.",
+                "ro": "Începeți turul cu prudență pe asfaltul ud de lângă port; purtați o pelerină neon pentru a fi vizibil în condiții de vizibilitate redusă.",
+                "en": "Start your tour cautiously on the wet asphalt by the harbor; wear a neon raincoat to stay visible in the poor lighting conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Gaetano",
+                "hu": "Chiesa di San Gaetano",
+                "ro": "Chiesa di San Gaetano",
+                "en": "Chiesa di San Gaetano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um die Reifen auf eingedrungene Steinchen zu prüfen; der überdachte Eingang bietet Platz, um kurz die Karte im Trockenen zu lesen.",
+                "hu": "Használja ki a megállót a gumik ellenőrzésére; a fedett bejáratnál van elég hely, hogy szárazon átnézze az útvonalat a következő szakasz előtt.",
+                "ro": "Folosiți oprirea pentru a verifica anvelopele; intrarea acoperită oferă spațiu pentru a consulta harta la adăpost de ploaie.",
+                "en": "Use this stop to check your tires for debris; the covered entrance provides space to check your map while staying dry before the next stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna del Terzito",
+                "hu": "Santuario Madonna del Terzito",
+                "ro": "Santuario Madonna del Terzito",
+                "en": "Santuario Madonna del Terzito"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hierher ist steil und bei Regen rutschig; treten Sie gleichmäßig in die Pedale und nutzen Sie den Vorraum der Kirche zum Aufwärmen.",
+                "hu": "Az idevezető út meredek és esőben csúszós; tekerjen egyenletesen, és használja a templom előterét az izmai átmozgatására és melegedésre.",
+                "ro": "Urcarea aici este abruptă și alunecoasă pe ploaie; pedalați constant și folosiți vestibulul bisericii pentru a vă încălzi puțin.",
+                "en": "The climb here is steep and slippery in the rain; pedal steadily and use the church porch to warm up and stretch your muscles."
+              }
+            },
+            {
+              "name": {
+                "de": "View of Monte del Porri",
+                "hu": "View of Monte del Porri",
+                "ro": "View of Monte del Porri",
+                "en": "View of Monte del Porri"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz an, da der Wind hier oben in nasser Kleidung auskühlt; genießen Sie den Anblick der Wolken, die um den Vulkangipfel ziehen.",
+                "hu": "Csak rövid ideig álljon meg, mert a szél a vizes ruhában hamar lehűti; élvezze a vulkáni csúcs körül kavargó felhők látványát.",
+                "ro": "Opriți doar scurt, deoarece vântul vă poate răci rapid în hainele ude; admirați norii care se mișcă în jurul vârfului vulcanic.",
+                "en": "Stop only briefly as the wind can quickly chill you in wet gear; enjoy the sight of clouds swirling around the volcanic peak."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Fossa delle Felci",
+                "hu": "Monte Fossa delle Felci",
+                "ro": "Monte Fossa delle Felci",
+                "en": "Monte Fossa delle Felci"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist bei Regen besonders satt, aber die Pfade sind tückisch; fahren Sie extrem vorsichtig bergab und nutzen Sie beide Bremsen dosiert.",
+                "hu": "A növényzet esőben különösen dús, de az utak csalókák; ereszkedjen rendkívül óvatosan, és mindkét féket adagolva használja a lejtőn.",
+                "ro": "Vegetația este foarte bogată pe ploaie, dar drumurile sunt înșelătoare; coborâți cu mare prudență și folosiți ambele frâne treptat.",
+                "en": "The vegetation is lush in the rain, but the paths are treacherous; descend extremely carefully and use both brakes gently on the slope."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Start in den Tag mit klarer Sicht auf das Meer. Mittags ist das milde Klima ideal für die anstrengenden Bergaufpassagen. Am Nachmittag sinken die Temperaturen in den höheren Lagen spürbar; warme Handschuhe sind nötig. Der Tag endet früh mit einem goldenen Sonnenuntergang über dem Tyrrhenischen Meer.",
+            "hu": "Friss kezdés tiszta kilátással a tengerre a hűvös reggelen. Délben az enyhe klíma ideális a megterhelő hegyi szakaszok leküzdéséhez. Délután a magasabban fekvő részeken érezhetően lehűl a levegő; meleg kesztyű szükséges. A nap korán ér véget aranyló naplementével a Tirrén-tenger felett.",
+            "ro": "Un început de zi revigorant, cu o vedere clară spre mare. La prânz, climatul blând este ideal pentru porțiunile solicitante de urcare. După-amiaza, temperaturile scad simțitor la altitudini mai mari; sunt necesare mănuși groase. Ziua se încheie devreme cu un apus auriu.",
+            "en": "A fresh start with clear views of the sea on a crisp morning. At noon, the mild winter climate is ideal for the strenuous uphill sections. In the afternoon, temperatures drop noticeably at higher altitudes; warm gloves are necessary. The day ends early with a golden sunset over the Tyrrhenian Sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Rinella",
+                "hu": "Spiaggia di Rinella",
+                "ro": "Spiaggia di Rinella",
+                "en": "Spiaggia di Rinella"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf; die Luft am Wasser ist feucht und kühl, wählen Sie daher Kleidung im Zwiebelprinzip.",
+                "hu": "Indulás előtt alaposan melegítse be az izmait; a vízparti levegő párás és hűvös, válasszon réteges öltözetet a kerékpározáshoz.",
+                "ro": "Încălziți-vă bine mușchii înainte de plecare; aerul de lângă apă este umed și rece, deci alegeți o ținută stratificată.",
+                "en": "Warm up your muscles thoroughly before starting; the seaside air is damp and chilly, so choose layered clothing for your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Gaetano",
+                "hu": "Chiesa di San Gaetano",
+                "ro": "Chiesa di San Gaetano",
+                "en": "Chiesa di San Gaetano"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne wärmt den kleinen Platz vor der Kirche am späten Vormittag; ein idealer Ort für einen schnellen Snack in der Wintersonne.",
+                "hu": "A nap délelőtt kellemesen felmelegíti a templom előtti kis teret; ideális hely egy gyors energiapótló falathoz a téli napsütésben.",
+                "ro": "Soarele încălzește plăcut mica piață din fața bisericii; este un loc ideal pentru o gustare rapidă sub razele soarelui de iarnă.",
+                "en": "The sun warms the small square in front of the church in the late morning; an ideal spot for a quick snack in the winter sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna del Terzito",
+                "hu": "Santuario Madonna del Terzito",
+                "ro": "Santuario Madonna del Terzito",
+                "en": "Santuario Madonna del Terzito"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist ein ruhiger Ort zum Aufwärmen nach der Fahrt bergauf; achten Sie darauf, beim Schwitzen nicht auszukühlen, wenn Sie wieder losfahren.",
+                "hu": "A belső tér csendes hely a felmelegedéshez a hegyi menet után; figyeljen rá, hogy ne hűljön ki az izzadságtól, amikor újra elindul.",
+                "ro": "Interiorul este un loc liniștit pentru a vă încălzi după urcare; aveți grijă să nu răciți din cauza transpirației când plecați din nou.",
+                "en": "The interior is a peaceful place to warm up after the uphill ride; be careful not to catch a chill from sweat when you start cycling again."
+              }
+            },
+            {
+              "name": {
+                "de": "View of Monte del Porri",
+                "hu": "View of Monte del Porri",
+                "ro": "View of Monte del Porri",
+                "en": "View of Monte del Porri"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft bietet eine außergewöhnliche Fernsicht bis zu den Nachbarinseln; halten Sie Ihr Handy für Fotos in einer Innentasche warm.",
+                "hu": "A téli levegő rendkívüli távláti kilátást biztosít a szomszédos szigetekre; tartsa a telefonját belső zsebben, hogy az akkumulátor ne merüljön le.",
+                "ro": "Aerul de iarnă oferă o vizibilitate extraordinară spre insulele vecine; păstrați telefonul într-un buzunar interior pentru a proteja bateria.",
+                "en": "The winter air provides extraordinary long-distance views of neighboring islands; keep your phone in an inner pocket to save the battery."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Fossa delle Felci",
+                "hu": "Monte Fossa delle Felci",
+                "ro": "Monte Fossa delle Felci",
+                "en": "Monte Fossa delle Felci"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Gipfel ist es deutlich kälter als am Meer; ziehen Sie für die lange Abfahrt eine zusätzliche winddichte Schicht über.",
+                "hu": "A csúcson jóval hidegebb van, mint a tengerparton; a hosszú lejtőhöz vegyen fel egy plusz szélálló réteget, hogy ne fázzon meg.",
+                "ro": "Pe vârf este mult mai frig decât la malul mării; pentru coborârea lungă, purtați un strat suplimentar rezistent la vânt.",
+                "en": "It is significantly colder at the summit than by the sea; put on an extra windproof layer for the long descent to stay warm."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A reggel békésen indul a Spiaggia di Rinella fekete homokjánál, mielőtt útnak indulna. A dél a sziget központjában lévő szentélyt köti össze a malfai templom történelmi bájával. A délután a kivándorlási múzeum megható helyi történeteibe merül. Az estét tökéletesen a víz mellett zárjuk a Spiaggia dello Scarico és a Pizzo Capo felfedezésével.",
         "ro": "Dimineața oferă un început senin la nisipurile negre ale Spiaggia di Rinella înaintea unei plimbări pitorești. Amiaza leagă centrul insulei cu farmecul istoric al bisericii din Malfa. După-amiaza se scufundă în istoria emoționantă la muzeul emigrării. Seara se încheie perfect lângă apă la Spiaggia dello Scarico și la frumosul Pizzo Capo.",
         "en": "Morning offers a serene start at the striking black sands of Spiaggia di Rinella before a scenic drive. Midday bridges the island's center at Madonna del Terzito with the historical charm of Malfa's church. Afternoon dives into moving local history at the emigration museum. Evening concludes perfectly by the water at Spiaggia dello Scarico and Pizzo Capo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt entlang der Küste, während der Regen gegen die Scheiben trommelt. Mittags bieten die Kirchen der Insel trockene und spirituelle Haltepunkte. Am Nachmittag ist das Auswanderermuseum das perfekte Ziel, um dem Wetter zu entfliehen. Der Tag endet sicher mit einer Fahrt durch die mystisch beleuchteten Dörfer bei Regen.",
+            "hu": "Kényelmes autózás a part mentén, miközben az eső kopog a szélvédőn. Délben a sziget templomai nyújtanak száraz és spirituális megállókat. Délután a kivándorlási múzeum tökéletes úti cél az időjárás elől való menekülésre. A nap biztonságos vezetéssel ér véget a misztikusan kivilágított falvak között.",
+            "ro": "O plimbare relaxantă cu mașina pe coastă, în timp ce ploaia bate în parbriz. La prânz, bisericile insulei oferă opriri uscate și spirituale. După-amiaza, muzeul emigrației este destinația perfectă pentru a scăpa de vremea rea. Ziua se încheie cu o condus în siguranță prin satele iluminate mistic.",
+            "en": "A comfortable drive along the coast while rain drum against the windshield. At noon, the island's churches provide dry and spiritual stopovers. In the afternoon, the emigration museum is the perfect destination to escape the wet weather. The day ends with a safe drive through the mystically lit villages in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Rinella",
+                "hu": "Spiaggia di Rinella",
+                "ro": "Spiaggia di Rinella",
+                "en": "Spiaggia di Rinella"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Hafen, um den Blick auf das aufgewühlte Meer trocken aus dem Auto zu genießen; halten Sie einen Schirm für den kurzen Weg bereit.",
+                "hu": "Parkoljon közel a kikötőhöz, hogy az autóban szárazon maradva élvezze a felkorbácsolt tenger látványát; tartson készenlétben esernyőt a rövid sétához.",
+                "ro": "Parcați aproape de port pentru a admira marea agitată stând la uscat în mașină; aveți o umbrelă la îndemână pentru scurta plimbare.",
+                "en": "Park close to the harbor to enjoy the view of the churning sea while staying dry in the car; keep an umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna del Terzito",
+                "hu": "Santuario Madonna del Terzito",
+                "ro": "Santuario Madonna del Terzito",
+                "en": "Santuario Madonna del Terzito"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet bei Regen tolle Ausblicke auf die grünen Hänge; nutzen Sie die Parkplätze direkt vor dem Eingang, um nicht nass zu werden.",
+                "hu": "Az idevezető út esőben is remek kilátást nyújt a zöldellő lejtőkre; használja a bejárat előtti parkolót, hogy elkerülje az elázást.",
+                "ro": "Drumul spre sanctuar oferă vederi frumoase spre versanții verzi chiar și pe ploaie; parcați chiar în fața intrării pentru a nu vă uda.",
+                "en": "The drive up offers great views of the lush green slopes even in the rain; use the parking spots right in front of the entrance to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell’Immacolata",
+                "hu": "Chiesa dell’Immacolata",
+                "ro": "Chiesa dell’Immacolata",
+                "en": "Chiesa dell’Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine besinnliche Pause vom Fahren; bewundern Sie die Architektur, während draußen der Regen die Vulkanlandschaft wäscht.",
+                "hu": "Szép hely egy elmélyült pihenőhöz vezetés közben; csodálja meg az építészetet, miközben odakint az eső mossa a vulkáni tájat.",
+                "ro": "Un loc frumos pentru o pauză de meditație în timpul condusului; admirați arhitectura în timp ce afară ploaia spală peisajul vulcanic.",
+                "en": "A beautiful spot for a reflective break from driving; admire the architecture while the rain washes the volcanic landscape outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo eoliano dell'emigrazione",
+                "hu": "Museo eoliano dell'emigrazione",
+                "ro": "Museo eoliano dell'emigrazione",
+                "en": "Museo eoliano dell'emigrazione"
+              },
+              "tip_5lang": {
+                "de": "Die beste Wahl für regnerische Nachmittage; nehmen Sie sich Zeit für die Exponate, während es draußen stürmt, und nutzen Sie den nahen Parkplatz.",
+                "hu": "A legjobb választás esős délutánokra; szánjon időt a kiállításokra, amíg odakint tombol az idő, és használja a közeli parkolót.",
+                "ro": "Cea mai bună alegere pentru după-amiezele ploioase; acordați-vă timp pentru expoziții în timp ce afară plouă și folosiți parcarea din apropiere.",
+                "en": "The best choice for rainy afternoons; take your time with the exhibits while it storms outside and utilize the nearby parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dello Scarico",
+                "hu": "Spiaggia dello Scarico",
+                "ro": "Spiaggia dello Scarico",
+                "en": "Spiaggia dello Scarico"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf Panarea ist bei Regen besonders mystisch; bleiben Sie im Auto und beobachten Sie den Wellengang an der zerklüfteten Küste.",
+                "hu": "A kilátás Panareára esőben különösen misztikus; maradjon az autóban, és figyelje a hullámverést a szaggatott partvonal mentén.",
+                "ro": "Vederea spre Panarea este deosebit de mistică pe ploaie; rămâneți în mașină și observați valurile care se sparg de coasta stâncoasă.",
+                "en": "The view of Panarea is particularly mystical in the rain; stay in the car and watch the waves crash against the rugged coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Pizzo Capo",
+                "hu": "Pizzo Capo",
+                "ro": "Pizzo Capo",
+                "en": "Pizzo Capo"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf der schmalen Straße bei Nässe; die Wolken können hier oben tief hängen, was eine ganz eigene, stille Atmosphäre schafft.",
+                "hu": "Legyen óvatos a szűk úton nedves időben; a felhők itt egészen alacsonyan szállhatnak, ami sajátos, csendes hangulatot áraszt.",
+                "ro": "Fiți atent pe drumul îngust în condiții de umiditate; norii pot coborî foarte jos aici, creând o atmosferă liniștită și aparte.",
+                "en": "Be careful on the narrow road in wet conditions; the clouds can hang very low here, creating a unique and quiet atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Start in den Wintermorgen mit einer warmen Heizung im Auto. Mittags führt die Route zu den ruhigen religiösen Stätten im Inselinneren. Am Nachmittag bietet das Museum eine angenehme Wärme und tiefe Einblicke in die Kultur. Der Tag gipfelt in einem spektakulären frühen Sonnenuntergang an einem der Aussichtspunkte.",
+            "hu": "Pihentető kezdés a téli reggelen az autó fűtésével. Délben az útvonal a sziget belső részén található csendes vallási helyszínekhez vezet. Délután a múzeum kellemes meleget és mély kulturális betekintést nyújt. A nap egy látványos korai naplementével zárul az egyik kilátópontnál.",
+            "ro": "Un început de zi relaxant cu încălzirea pornită în mașină. La prânz, traseul duce spre locațiile religioase liniștite din interiorul insulei. După-amiaza, muzeul oferă căldură și o perspectivă culturală profundă. Ziua se încheie cu un apus spectaculos la unul dintre punctele de belvedere.",
+            "en": "A relaxing start to a winter morning with the car's heater on. At noon, the route leads to quiet religious sites in the island's interior. In the afternoon, the museum offers pleasant warmth and deep cultural insights. The day culminates in a spectacular early sunset at one of the viewpoints."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Rinella",
+                "hu": "Spiaggia di Rinella",
+                "ro": "Spiaggia di Rinella",
+                "en": "Spiaggia di Rinella"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kaffee im Auto mit Blick auf das ruhige Wintermeer; der Wind am Ufer ist schneidig, also halten Sie die Jacke beim Aussteigen bereit.",
+                "hu": "Élvezze a kávéját az autóban a nyugodt téli tengerre nézve; a parti szél metsző lehet, így kiszálláskor tartsa készenlétben a kabátját.",
+                "ro": "Bucurați-vă de cafea în mașină privind marea calmă de iarnă; vântul de pe țărm poate fi tăios, așa că aveți haina pregătită când coborâți.",
+                "en": "Enjoy your coffee in the car while looking out at the calm winter sea; the shore wind is biting, so keep your coat ready when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna del Terzito",
+                "hu": "Santuario Madonna del Terzito",
+                "ro": "Santuario Madonna del Terzito",
+                "en": "Santuario Madonna del Terzito"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht die Fahrt hinauf zu einem visuellen Erlebnis; besuchen Sie das Heiligtum mittags, wenn die Sonne am höchsten steht.",
+                "hu": "A tiszta téli levegő vizuális élménnyé teszi a felfelé vezető utat; látogassa meg a szentélyt délben, amikor a nap a legmagasabban jár.",
+                "ro": "Aerul curat de iarnă face din drumul spre sanctuar o experiență vizuală; vizitați locația la prânz, când soarele este cel mai sus pe cer.",
+                "en": "The clear winter air makes the drive up a visual treat; visit the sanctuary at noon when the sun is at its highest for the best light."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell’Immacolata",
+                "hu": "Chiesa dell’Immacolata",
+                "ro": "Chiesa dell’Immacolata",
+                "en": "Chiesa dell’Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre im Winter ist ideal für einen besinnlichen Halt; prüfen Sie die Öffnungszeiten, da diese in der Nebensaison variieren können.",
+                "hu": "A téli nyugodt légkör ideális egy elmélyült megállóhoz; ellenőrizze a nyitvatartást, mivel a főszezonon kívül ez változhat.",
+                "ro": "Atmosfera liniștită de iarnă este ideală pentru o oprire de meditație; verificați programul, deoarece acesta poate varia în extrasezon.",
+                "en": "The quiet winter atmosphere is ideal for a reflective stop; check the opening hours as they may vary outside the peak tourist season."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo eoliano dell'emigrazione",
+                "hu": "Museo eoliano dell'emigrazione",
+                "ro": "Museo eoliano dell'emigrazione",
+                "en": "Museo eoliano dell'emigrazione"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter Zufluchtsort mit faszinierenden Geschichten; perfekt, um die kühlen Nachmittagsstunden im Warmen und kulturell bereichert zu verbringen.",
+                "hu": "Fűtött menedék lenyűgöző történetekkel; tökéletes, hogy a hűvös délutáni órákat melegben és kulturálisan feltöltődve töltse el.",
+                "ro": "Un refugiu încălzit cu povești fascinante; perfect pentru a petrece orele răcoroase de după-amiază la căldură și îmbogățit cultural.",
+                "en": "A heated sanctuary with fascinating stories; perfect for spending the chilly afternoon hours in warmth while being culturally enriched."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dello Scarico",
+                "hu": "Spiaggia dello Scarico",
+                "ro": "Spiaggia dello Scarico",
+                "en": "Spiaggia dello Scarico"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Liparischen Inseln ist im Winter oft am besten; bleiben Sie im Auto, um sich vor dem kalten Seewind zu schützen.",
+                "hu": "A távoli kilátás a Lipari-szigetekre télen gyakran a legjobb; maradjon az autóban, hogy megvédje magát a hideg tengeri széltől.",
+                "ro": "Vizibilitatea spre Insulele Eoliene este adesea cea mai bună iarna; rămâneți în mașină pentru a vă proteja de vântul rece al mării.",
+                "en": "The long-distance view of the Aeolian Islands is often best in winter; stay in the car to protect yourself from the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Pizzo Capo",
+                "hu": "Pizzo Capo",
+                "ro": "Pizzo Capo",
+                "en": "Pizzo Capo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:30 Uhr an, um den Sonnenuntergang zu sehen; die Farben im Winter sind intensiver, aber die Kälte nimmt danach rasch zu.",
+                "hu": "Érkezzen legkésőbb 16:30-ra a naplemente megtekintéséhez; a színek télen intenzívebbek, de a hideg utána rendkívül gyorsan fokozódik.",
+                "ro": "Sosiți cel târziu la 16:30 pentru a vedea apusul; culorile sunt mai intense iarna, dar frigul se accentuează rapid imediat după.",
+                "en": "Arrive by 4:30 PM at the latest to catch the sunset; the colors are more intense in winter, but the cold increases very rapidly afterward."
+              }
+            }
+          ]
+        }
       }
     }
   }

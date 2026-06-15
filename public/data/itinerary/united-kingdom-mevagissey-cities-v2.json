@@ -137,6 +137,168 @@
         "hu": "Kezdd a reggelt a miniatűr vonatok nosztalgikus bájával. Délben fedezd fel a helyi tengeri élővilágot, és merülj el Mevagissey gazdag csempészmúltjában. A délután egy békés történelmi templomba vezet, ahol feltöltődhetsz. Az este közeledtével élvezd a csendes naplementét egy eldugott kavicsos tengerparton.",
         "ro": "Începeți dimineața învăluiți în farmecul nostalgic al trenulețelor miniaturale. La prânz, descoperiți viața marină locală și pătrundeți în istoria contrabandiștilor. După-amiaza vă duce la o biserică istorică pașnică pentru a vă reîncărca. Seara, bucurați-vă de un apus liniștit pe o plajă retrasă cu pietriș.",
         "en": "Start your morning immersed in the nostalgic charm of miniature trains. By midday, discover local marine life and delve into Mevagissey's rich smuggling history. The afternoon takes you to a peaceful historic church to recharge your spirit. As evening approaches, enjoy a tranquil sunset on a secluded shingle beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt wettergeschützt bei den Modelleisenbahnen, ideal um dem Küstenregen zu entfliehen. Mittags bietet das Aquarium am Hafen einen trockenen Unterschlupf mit Blick auf die aufgewühlte See. Nachmittags vertiefen Sie sich im Museum in die lokale Geschichte. Am Abend beobachten Sie die Wellen hinter den dicken Mauern eines gemütlichen Pubs, während der Regen gegen die Scheiben peitscht.",
+            "hu": "A reggel fedett helyen, a modellvasutak között indul, így elkerülhető a tengerparti eső. Délben a kikötői akvárium nyújt menedéket, miközben az ablakon át figyelhetjük a felkorbácsolt hullámokat. Délután a múzeum falaiban mélyedhetünk el a helyi történelemben. Este egy hangulatos kikötői fogadó vastag falai mögül élvezhetjük a viharos tenger látványát, miközben az eső a kopog az üvegen.",
+            "ro": "Dimineața începe la adăpost, printre trenulețele miniaturale, ideal pentru a evita ploaia de coastă. La prânz, acvariul din port oferă refugiu în timp ce priviți marea agitată prin ferestre. După-amiaza, explorați istoria locală în incinta muzeului. Seara, urmăriți valurile din spatele zidurilor groase ale unui pub primitor, în timp ce ploaia bate în geamuri, creând o atmosferă autentică.",
+            "en": "The morning starts under cover at the model railways, perfect for escaping the coastal drizzle. At noon, the marine aquarium provides a dry haven with views of the choppy harbor waters. Spend the afternoon immersed in local history inside the museum. In the evening, watch the stormy sea from behind the thick walls of a cozy harbor pub while the rain lashes against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Welt der Modelleisenbahnen",
+                "hu": "Modellvasutak Világa",
+                "ro": "Lumea Căilor Ferate Miniaturale",
+                "en": "World of Model Railways"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die faszinierenden Miniaturlandschaften im Trockenen; nutzen Sie die Garderobe, um Ihre nassen Regenjacken bequem abzulegen.",
+                "hu": "Élvezze a lenyűgöző miniatűr tájakat fedett helyen; használja a ruhatárat, hogy kényelmesen letegye a vizes esőkabátokat.",
+                "ro": "Bucurați-vă de peisajele miniaturale fascinante la adăpost; folosiți garderoba pentru a vă lăsa pelerinele de ploaie umede în siguranță.",
+                "en": "Enjoy the fascinating miniature landscapes while staying completely dry; use the cloakroom to conveniently store your wet rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Meeresaquarium",
+                "hu": "Mevagissey Tengeri Akvárium",
+                "ro": "Acvariul Marin Mevagissey",
+                "en": "Mevagissey Marine Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Dieses kompakte Aquarium im alten Rettungsbootschuppen ist der perfekte Ort, um einen heftigen Regenschauer direkt am Kai auszusitzen.",
+                "hu": "A régi mentőhajó-garázsban kialakított akvárium tökéletes helyszín egy kiadós zápor átvészelésére, közvetlenül a móló partján.",
+                "ro": "Acest acvariu compact, situat în fosta magazie de bărci de salvare, este locul perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "This compact aquarium in the old lifeboat house is the ideal spot to sit out a heavy downpour right by the harbor quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Museum",
+                "hu": "Mevagissey Múzeum",
+                "ro": "Muzeul Mevagissey",
+                "en": "Mevagissey Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die drei Etagen voller Exponate; das solide Steingebäude schützt Sie zuverlässig vor dem stürmischen Wetter draußen.",
+                "hu": "Fedezze fel a kiállításokkal teli három emeletet; a masszív kőépület megbízhatóan védi Önt a kinti viharos időjárástól.",
+                "ro": "Explorați cele trei etaje pline de exponate; clădirea solidă din piatră vă protejează eficient de vremea furtunoasă de afară.",
+                "en": "Explore the three floors of exhibits; the sturdy stone building offers a reliable shield against the blustery weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Peter",
+                "hu": "Szent Péter",
+                "ro": "Sfântul Petru",
+                "en": "St Peter"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche, trockene Atmosphäre für eine Pause; achten Sie beim Verlassen auf die rutschigen Granitstufen.",
+                "hu": "A templom békés és száraz környezetet biztosít egy pihenőhöz; távozáskor ügyeljen a csúszóssá vált gránitlépcsőkre.",
+                "ro": "Biserica oferă o atmosferă liniștită și uscată pentru un popas; aveți grijă la treptele de granit care pot deveni alunecoase.",
+                "en": "The church provides a peaceful, dry atmosphere for a break; watch your step on the granite stairs which become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Polstreath Strand",
+                "hu": "Polstreath-part",
+                "ro": "Plaja Polstreath",
+                "en": "Polstreath"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg über die Stufen ist bei Regen rutschig; genießen Sie den dramatischen Blick auf die graue See lieber sicher von oben.",
+                "hu": "A lépcsőkön való lejutás esőben veszélyesen csúszós; élvezze inkább a szürke tenger drámai látványát biztonságosan, a sziklafal tetejéről.",
+                "ro": "Coborârea pe trepte este alunecoasă pe ploaie; admirați mai degrabă vederea dramatică a mării cenușii de sus, în siguranță.",
+                "en": "The descent via the steps is slippery in the rain; enjoy the dramatic views of the grey sea safely from the cliff top instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen glitzert der Frost auf den Dächern von Mevagissey. Die Modellbahnen bieten einen wärmenden Start in den Tag. Mittags sorgt die salzige Brise am Hafen für rote Wangen, bevor Sie sich im Museum aufwärmen. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung das Fischerdorf in ein magisches Licht, das Sie bei einem Heißgetränk genießen können.",
+            "hu": "A tiszta téli reggelen dér csillog Mevagissey tetőin. A modellvasutak világa melengető kezdést kínál a naphoz. Délben a sós tengeri szél kipirosítja az arcot a kikötőben, mielőtt a múzeumban felmelegedne. Mivel a nap 17:00 körül nyugszik, a korai szürkület mágikus fénybe öltözteti a falut, amit egy forró ital mellett a legélvezetesebb megcsodálni.",
+            "ro": "În dimineața senină de iarnă, bruma strălucește pe acoperișurile din Mevagissey. Trenulețele miniaturale oferă un început călduros al zilei. La prânz, briza sărată din port vă va îmbujora obrajii înainte de a vă încălzi în muzeu. Deoarece soarele apune în jur de ora 17:00, amurgul timpuriu scaldă satul într-o lumină magică, ideală de privit cu o băutură caldă.",
+            "en": "On a crisp winter morning, frost glistens on the rooftops of Mevagissey. The model railways offer a warming start to the day. At noon, the salty breeze at the harbor brings a flush to your cheeks before you warm up in the museum. With the sun setting around 17:00, early twilight casts a magical glow over the village, best enjoyed with a steaming hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Welt der Modelleisenbahnen",
+                "hu": "Modellvasutak Világa",
+                "ro": "Lumea Căilor Ferate Miniaturale",
+                "en": "World of Model Railways"
+              },
+              "tip_5lang": {
+                "de": "Die beheizte Ausstellung ist der ideale Ort, um die Winterkälte zu vergessen und die liebevollen Details in Ruhe zu betrachten.",
+                "hu": "A fűtött kiállítóterem ideális helyszín, hogy elfelejtse a téli hideget, és nyugodtan megcsodálja az apró, kedves részleteket.",
+                "ro": "Expoziția încălzită este locul ideal pentru a uita de frigul iernii și pentru a admira detaliile amuzante în liniște totală.",
+                "en": "The heated exhibition is the perfect place to escape the winter chill while admiring the charming miniature details in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Meeresaquarium",
+                "hu": "Mevagissey Tengeri Akvárium",
+                "ro": "Acvariul Marin Mevagissey",
+                "en": "Mevagissey Marine Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquarium am Mittag; das dicke Mauerwerk speichert etwas Restwärme und bietet Schutz vor dem schneidenden Seewind.",
+                "hu": "Látogasson el délben az akváriumba; a vastag falak némi hőt tartanak, és védelmet nyújtanak a metsző tengeri szél ellen.",
+                "ro": "Vizitați acvariul la prânz; zidăria groasă reține căldura și oferă o barieră excelentă împotriva vântului tăios de coastă.",
+                "en": "Visit the aquarium at midday; the thick stone walls retain some warmth and offer protection from the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Museum",
+                "hu": "Mevagissey Múzeum",
+                "ro": "Muzeul Mevagissey",
+                "en": "Mevagissey Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die gemütliche Atmosphäre des Museums; die Innenräume sind im Winter besonders einladend für eine lange Erkundung.",
+                "hu": "Merüljön el a múzeum barátságos légkörében; a belső terek télen különösen hívogatóak egy hosszú és alapos felfedezéshez.",
+                "ro": "Cufundați-vă în atmosfera primitoare a muzeului; interioarele sunt deosebit de plăcute iarna pentru o explorare detaliată.",
+                "en": "Immerse yourself in the museum's cozy atmosphere; the indoor galleries are especially inviting for a long exploration during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Peter",
+                "hu": "Szent Péter",
+                "ro": "Sfântul Petru",
+                "en": "St Peter"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche strahlt im Winter eine besondere Ruhe aus; ziehen Sie sich warm an, da die großen Steinbauten oft recht kühl sind.",
+                "hu": "A templom télen különleges nyugalmat áraszt; öltözzön rétegesen, mivel a nagy kőépületek ilyenkor gyakran hűvösek maradnak.",
+                "ro": "Biserica emană o liniște aparte iarna; îmbrăcați-vă bine, deoarece clădirile mari din piatră pot fi destul de răcoroase.",
+                "en": "The church radiates a special calm in winter; dress warmly as large stone buildings can be quite chilly during the colder months."
+              }
+            },
+            {
+              "name": {
+                "de": "Polstreath Strand",
+                "hu": "Polstreath-part",
+                "ro": "Plaja Polstreath",
+                "en": "Polstreath"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Wintersee; planen Sie Ihren Rückweg vor 16:30 Uhr ein, damit Sie die Stufen noch bei Tageslicht bewältigen.",
+                "hu": "Élje át a zord téli tenger látványát; tervezze a visszautat 16:30 előttre, hogy még természetes fénynél érjen fel a lépcsőkön.",
+                "ro": "Experimentați marea aspră de iarnă; planificați întoarcerea înainte de 16:30 pentru a urca treptele încă pe lumina zilei.",
+                "en": "Experience the raw beauty of the winter sea; plan your return before 16:30 to navigate the steps safely in daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsd a reggelt édes epres finomságokkal, mielőtt a bájos miniatűr vasúthoz kerekezel. A délidő a helyi tengerészeti történelem és egy frissítő tengerparti pihenő jegyében telik. Délután tekerj fel egy történelmi kilátópontra a lenyűgöző panorámáért. Zárásként kerékpározz át egy ősi erdei rezervátumon.",
         "ro": "Începeți dimineața cu delicii dulci cu căpșuni înainte de a merge la o fermecătoare cale ferată miniaturală. Prânzul vine cu o incursiune în istoria maritimă și o odihnă pe plajă. După-amiaza, pedalați către un punct de observație istoric. Încheiați ziua trecând printr-o rezervație forestieră antică.",
         "en": "Kick off the morning with sweet strawberry treats before heading to a charming miniature railway. Your midday unfolds with a deep dive into local maritime history and a refreshing beachside rest. In the afternoon, pedal up to a historic vantage point for stunning views. Conclude your day cycling through an ancient woodland reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Cornwall ihren eigenen Reiz. Morgens geht es vorsichtig zu den Beerenfeldern, wo der Boden aufgeweicht sein kann. Mittags bieten die Indoor-Attraktionen in Mevagissey willkommene Pausen. Am Nachmittag fordern die nassen Straßen volle Konzentration. Den Abend lassen Sie bei einem stärkenden Essen ausklingen, während die Ausrüstung im Trockenen lüftet.",
+            "hu": "Az eső ellenére a cornwalli kerékpározásnak sajátos bája van. Reggel óvatosan tekerjen a bogyós ültetvényekhez, ahol a talaj saras lehet. Délben Mevagissey fedett látnivalói kínálnak pihenőt. Délután a vizes utak teljes koncentrációt igényelnek. Az estét zárja egy laktató vacsorával, miközben a felszerelése a szálláson szárad.",
+            "ro": "În ciuda ploii, tura cu bicicleta prin Cornwall are farmecul ei. Dimineața, pedalați cu grijă spre plantațiile de fructe, unde solul poate fi noroios. La prânz, atracțiile interioare din Mevagissey oferă pauze binevenite. După-amiaza, drumurile ude necesită concentrare maximă. Încheiați seara cu o cină consistentă, în timp ce echipamentul se usucă la adăpost.",
+            "en": "Despite the rain, cycling through Cornwall has its own appeal. In the morning, ride carefully toward the berry fields where the ground may be soft. At noon, the indoor attractions in Mevagissey offer welcome breaks. In the afternoon, wet roads demand full concentration. End your evening with a hearty meal while your gear dries out safely indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Boddingtons Beeren",
+                "hu": "Boddington Bogyói",
+                "ro": "Fructele de Pădure Boddington",
+                "en": "Boddington’s Berries"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im Hofladen; die hausgemachten Marmeladen sind ein tolles Souvenir, das auch im nassen Rucksack sicher ist.",
+                "hu": "Keressen menedéket a farmboltban; a házi készítésű lekvárok kiváló szuvenírek, és a vizes hátizsákban is biztonságban vannak.",
+                "ro": "Adăpostiți-vă în magazinul fermei; gemurile de casă sunt suveniruri excelente care rămân în siguranță chiar și într-un rucsac ud.",
+                "en": "Take shelter in the farm shop; the homemade preserves make excellent souvenirs and are perfectly safe even in a damp backpack."
+              }
+            },
+            {
+              "name": {
+                "de": "Welt der Modelleisenbahnen",
+                "hu": "Modellvasutak Világa",
+                "ro": "Lumea Căilor Ferate Miniaturale",
+                "en": "World of Model Railways"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich aufzuwärmen; die Anlage bietet genug Abwechslung, um einen Schauer in Ruhe abzuwarten.",
+                "hu": "Használja ki ezt a megállót a felmelegedésre; a kiállítás bőven kínál látnivalót, amíg megvárja az eső elálltát.",
+                "ro": "Folosiți această oprire pentru a vă încălzi; expoziția oferă suficiente detalii pentru a aștepta trecerea ploii în liniște.",
+                "en": "Use this stop to dry off; the extensive display provides plenty of entertainment while waiting for a heavy shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Museum",
+                "hu": "Mevagissey Múzeum",
+                "ro": "Muzeul Mevagissey",
+                "en": "Mevagissey Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Fahrrad sicher abzustellen und eine lange Pause im Trockenen einzulegen, während es draußen regnet.",
+                "hu": "Ideális helyszín a kerékpár biztonságos leállításához és egy hosszú, fedett pihenőhöz, amíg kint esik az eső.",
+                "ro": "Locul ideal pentru a parca bicicleta în siguranță și pentru a face o pauză lungă la uscat în timp ce afară plouă torențial.",
+                "en": "An ideal location to park your bike securely and take a long, dry break while the rain continues to fall outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Polkirt Strand",
+                "hu": "Polkirt-part",
+                "ro": "Plaja Polkirt",
+                "en": "Polkirt Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Nässe rutschig sein; genießen Sie kurz die frische Meeresbrise und achten Sie auf sicheren Stand beim Bremsen.",
+                "hu": "A levezető út nedvesen csúszós lehet; élvezze a friss tengeri szellőt, és ügyeljen a stabil lábtartásra a fékezéskor.",
+                "ro": "Drumul de acces poate fi alunecos când este ud; bucurați-vă de briza mării și aveți grijă la stabilitate atunci când frânați.",
+                "en": "The access road can be slippery when wet; enjoy the fresh sea breeze briefly and ensure firm footing when applying your brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlosshügel",
+                "hu": "Kastély-hegy",
+                "ro": "Dealul Castelului",
+                "en": "Castle Hill"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; tragen Sie atmungsaktive Regenkleidung, um trotz der Feuchtigkeit nicht zu stark zu schwitzen.",
+                "hu": "A felfelé vezető út megterhelő; viseljen légáteresztő esőruházatot, hogy az eső ellenére se izzadjon bele a tekerésbe.",
+                "ro": "Urcarea este solicitantă; purtați haine de ploaie care permit pielii să respire pentru a evita supraîncălzirea în timpul efortului.",
+                "en": "The uphill climb is strenuous; wear breathable waterproof gear to stay comfortable and prevent overheating during the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet West Bodrugan Wood",
+                "hu": "West Bodrugan Wood Természetvédelmi Terület",
+                "ro": "Rezervația Naturală West Bodrugan Wood",
+                "en": "West Bodrugan Wood Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege sind schlammig; fahren Sie vorsichtig und nutzen Sie Schutzbleche, um sich vor aufwirbelndem Dreck zu schützen.",
+                "hu": "Az erdei utak sarasak; tekerjen óvatosan, és használjon sárvédőt, hogy megvédje magát a felcsapódó kosztól.",
+                "ro": "Potecile din pădure sunt noroioase; pedalați cu atenție și folosiți apărători pentru a vă proteja de noroiul împroșcat.",
+                "en": "The woodland paths will be muddy; ride cautiously and ensure your bike has mudguards to protect you from splashing dirt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad erfordert warme Schichten gegen den Fahrtwind. Morgens ist Vorsicht vor Froststellen geboten. Die Mittagsrast in Mevagissey bietet Wärme und neue Energie. Nachmittags führt die Tour durch die kahle, aber beeindruckende Hügellandschaft. Da es früh dunkel wird, sollten Sie spätestens um 16:30 Uhr zurück sein und unbedingt eine gute Beleuchtung verwenden.",
+            "hu": "A téli kerékpározáshoz elengedhetetlen a réteges öltözködés a menetszél ellen. Reggel vigyázzon a fagyos útszakaszokkal. A déli pihenő Mevagissey-ben meleget és új energiát ad. Délután a kopár, de lenyűgöző dombok között vezet az út. Mivel korán sötétedik, 16:30-ra érjen vissza, és mindenképpen használjon erős lámpákat.",
+            "ro": "O zi de iarnă pe bicicletă necesită straturi calde împotriva vântului. Dimineața, fiți atenți la porțiunile cu îngheț. Popasul de prânz în Mevagissey oferă căldură și energie. După-amiaza, traseul trece prin dealurile golașe, dar impresionante. Deoarece se întunecă devreme, reveniți până la 16:30 și folosiți neapărat lumini bune.",
+            "en": "A winter's day on the bike requires warm layers against the wind chill. In the morning, watch out for icy patches on shaded roads. Midday rest in Mevagissey provides warmth and renewed energy. The afternoon ride explores stark but stunning hills. As darkness falls early, aim to finish by 16:30 and ensure your bike lights are fully charged."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Boddingtons Beeren",
+                "hu": "Boddington Bogyói",
+                "ro": "Fructele de Pădure Boddington",
+                "en": "Boddington’s Berries"
+              },
+              "tip_5lang": {
+                "de": "Der Laden bietet im Winter herzhafte Konserven; ideal, um sich mit Energie für die kalte Weiterfahrt einzudecken.",
+                "hu": "A bolt télen tápláló tartósított termékeket kínál; ideális, hogy energiát gyűjtsön a hidegben való továbbhaladáshoz.",
+                "ro": "Magazinul oferă conserve consistente iarna; ideal pentru a vă reface rezervele de energie pentru drumul rece care urmează.",
+                "en": "The shop offers hearty preserves in winter; a great spot to stock up on energy for the chilly ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Welt der Modelleisenbahnen",
+                "hu": "Modellvasutak Világa",
+                "ro": "Lumea Căilor Ferate Miniaturale",
+                "en": "World of Model Railways"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um die tauben Finger aufzuwärmen und die aufwendigen Details der winterfesten Anlage zu bewundern.",
+                "hu": "Csodálatos helyszín az elgémberedett ujjak felmelegítésére, miközben az aprólékosan kidolgozott, fedett terepasztalokat csodálja.",
+                "ro": "Un loc minunat pentru a vă încălzi degetele amorțite și pentru a admira detaliile complexe ale machetelor feroviare.",
+                "en": "A wonderful place to thaw out frozen fingers while admiring the intricate details of the extensive indoor railway displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Museum",
+                "hu": "Mevagissey Múzeum",
+                "ro": "Muzeul Mevagissey",
+                "en": "Mevagissey Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine längere Aufwärmpause; die dicken Wände bieten hervorragenden Schutz vor der Winterbrise.",
+                "hu": "Használja ki a múzeumot egy hosszabb melegedő szünetre; a vastag falak kiváló védelmet nyújtanak a téli szél ellen.",
+                "ro": "Folosiți muzeul pentru o pauză lungă de încălzire; zidurile groase oferă o protecție excelentă împotriva brizei tăioase de iarnă.",
+                "en": "Use the museum for an extended warming break; the thick walls provide excellent protection from the cold winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Polkirt Strand",
+                "hu": "Polkirt-part",
+                "ro": "Plaja Polkirt",
+                "en": "Polkirt Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer; genießen Sie die Einsamkeit, aber behalten Sie Ihre warmen Handschuhe unbedingt an.",
+                "hu": "A strand télen gyakran teljesen üres; élvezze a magányt, de a meleg kesztyűket semmiképpen ne vegye le a parton sem.",
+                "ro": "Plaja este adesea pustie iarna; bucurați-vă de singurătate, dar nu vă scoateți mănușile groase sub nicio formă pe mal.",
+                "en": "The beach is often deserted in winter; enjoy the solitude but be sure to keep your warm gloves on even while exploring the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlosshügel",
+                "hu": "Kastély-hegy",
+                "ro": "Dealul Castelului",
+                "en": "Castle Hill"
+              },
+              "tip_5lang": {
+                "de": "Von hier oben ist der Blick auf das winterliche Meer fantastisch; achten Sie bei der Abfahrt auf mögliches Glatteis im Schatten.",
+                "hu": "Innen fentről fantasztikus a kilátás a téli tengerre; a lejtőn lefelé ügyeljen az árnyékos részeken előforduló jegesedésre.",
+                "ro": "De aici de sus, vederea asupra mării de iarnă este fantastică; la coborâre, fiți atenți la gheața care se poate forma la umbră.",
+                "en": "The view of the winter sea from up here is fantastic; be extra cautious of potential black ice in shaded spots during the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet West Bodrugan Wood",
+                "hu": "West Bodrugan Wood Természetvédelmi Terület",
+                "ro": "Rezervația Naturală West Bodrugan Wood",
+                "en": "West Bodrugan Wood Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen viel Licht durch; beenden Sie Ihren Besuch vor der frühen Dämmerung, um sicher aus dem Wald zu finden.",
+                "hu": "A kopasz fák sok fényt engednek át; fejezze be a látogatást a korai szürkület előtt, hogy biztonságban kijusson az erdőből.",
+                "ro": "Copacii golași lasă multă lumină să treacă; încheiați vizita înainte de amurgul timpuriu pentru a ieși în siguranță din pădure.",
+                "en": "The bare trees allow plenty of light through; finish your visit before early twilight to find your way out of the woods safely."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózz ki korán a világhírű romantikus kertekhez, majd látogass el egy festői templomba. A délidő kikapcsolódást kínál egy part menti központban és sétát az aranyhomokon. Délután fedezd fel a csempésztitkokat a falumúzeumban. Este parkolj le egy eldugott strand közelében, és nézd, ahogy feljönnek a csillagok.",
         "ro": "Conduceți devreme pentru a explora grădinile romantice faimoase, apoi vizitați o biserică istorică pitorească. Prânzul oferă relaxare la un centru de coastă urmată de o plimbare pe nisip. După-amiaza, descoperiți secretele contrabandei la muzeu. Seara, parcați lângă o plajă retrasă și priviți stelele pe cer.",
         "en": "Drive out early to explore world-famous romantic gardens, then visit a quaint historic church. Midday offers relaxation at a coastal recreation centre followed by a walk on golden sands. In the afternoon, uncover smuggling secrets at the village museum. As evening falls, park near a secluded beach and watch the stars appear."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Umgebung von Mevagissey ganz entspannt bei Regen. Morgens besuchen Sie die Gärten von Heligan, wo die tropische Vegetation im Regen besonders saftig wirkt. Mittags bieten die Kirchen und Museen trockene Zwischenstopps. Den Nachmittag verbringen Sie an der Küste und beobachten die Wellen vom warmen Auto aus, bevor Sie abends ein gemütliches Restaurant ansteuern.",
+            "hu": "Autóval kényelmesen felfedezheti Mevagissey környékét esőben is. Reggel látogasson el Heligan kertjeibe, ahol a növényzet ilyenkor különösen buja. Délben a templomok és múzeumok kínálnak száraz megállókat. A délutánt a parton töltheti, a hullámokat a meleg autóból csodálva, mielőtt este felkeresne egy barátságos éttermet.",
+            "ro": "Cu mașina, puteți explora împrejurimile orașului Mevagissey în confort total pe ploaie. Dimineața, vizitați grădinile Heligan, unde vegetația pare și mai luxuriantă. La prânz, bisericile și muzeele oferă opriri uscate. După-amiaza, puteți admira valurile de la malul mării din căldura mașinii, înainte de a merge la un restaurant primitor seara.",
+            "en": "By car, you can explore the area around Mevagissey in complete comfort despite the rain. In the morning, visit Heligan Gardens where the lush foliage looks even more vibrant. At noon, local churches and museums offer dry stops. Spend the afternoon by the coast watching the waves from the warmth of your car before heading to a cozy restaurant for dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die verlorenen Gärten von Heligan",
+                "hu": "Heligan Elveszett Kertjei",
+                "ro": "Grădinile Pierdute din Heligan",
+                "en": "The Lost Gardens of Heligan"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; bringen Sie Gummistiefel mit, um die dschungelartige Atmosphäre im Regen voll genießen zu können.",
+                "hu": "Az utak sarasak lehetnek; hozzon gumicsizmát, hogy az esőben is teljes mértékben élvezhesse a dzsungelszerű hangulatot.",
+                "ro": "Potecile pot fi noroioase; aduceți cizme de cauciuc pentru a vă bucura pe deplin de atmosfera de junglă chiar și pe ploaie.",
+                "en": "Paths can get muddy; bring wellington boots to fully enjoy the jungle-like atmosphere and vibrant foliage in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Allerheiligen",
+                "hu": "Mindenszentek",
+                "ro": "Toți Sfinții",
+                "en": "All Saints"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine stille, trockene Pause; nutzen Sie die Zeit, um die historische Architektur ohne Eile zu bewundern.",
+                "hu": "Tökéletes helyszín egy csendes, száraz pihenőhöz; szánjon időt a történelmi építészet megcsodálására, sietség nélkül.",
+                "ro": "Un loc perfect pentru un popas liniștit și uscat; profitați de timp pentru a admira arhitectura istorică fără nicio grabă.",
+                "en": "A perfect spot for a quiet, dry break; take your time to admire the historic architecture without feeling rushed by the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Seepferdchen",
+                "hu": "A Csikóhal",
+                "ro": "Căluțul de Mare",
+                "en": "The Seahorse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und genießen Sie den Blick auf die Bucht, während der Regen gegen die Scheiben des Autos oder des Gebäudes prallt.",
+                "hu": "Parkoljon közel a bejárathoz, és élvezze az öbölre nyíló kilátást, miközben az eső az autó vagy az épület ablakán kopog.",
+                "ro": "Parcați aproape de intrare și bucurați-vă de vederea spre golf, în timp ce ploaia bate în ferestrele mașinii sau ale clădirii.",
+                "en": "Park close to the entrance and enjoy the bay views while listening to the rain drumming against the car or building windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Pentewan Strand",
+                "hu": "Pentewan-part",
+                "ro": "Plaja Pentewan",
+                "en": "Pentewan Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer sicher vom Strandparkplatz aus; ideal für Fotos der Brandung ohne nass zu werden.",
+                "hu": "Figyelje a viharos tengert biztonságosan a strand parkolójából; ideális helyszín a hullámzás fotózására anélkül, hogy elázna.",
+                "ro": "Urmăriți marea furtunoasă în siguranță din parcarea plajei; locul este ideal pentru a fotografia valurile fără a vă uda.",
+                "en": "Watch the stormy sea safely from the beach car park; it's an ideal spot for taking photos of the surf without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Museum",
+                "hu": "Mevagissey Múzeum",
+                "ro": "Muzeul Mevagissey",
+                "en": "Mevagissey Museum"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur einen kurzen Fußweg entfernt; das Museum bietet stundenlangen Schutz und spannende Einblicke in die Fischerei.",
+                "hu": "A parkoló csak egy rövid sétára van; a múzeum órákig tartó menedéket és izgalmas betekintést kínál a halászat világába.",
+                "ro": "Parcarea este la doar o scurtă plimbare; muzeul oferă ore întregi de adăpost și perspective fascinante asupra pescuitului local.",
+                "en": "The car park is only a short walk away; the museum provides hours of shelter and fascinating insights into the local fishing history."
+              }
+            },
+            {
+              "name": {
+                "de": "Colona Strand",
+                "hu": "Colona-part",
+                "ro": "Plaja Colona",
+                "en": "Colona Beach"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie die dramatische Küstenlandschaft.",
+                "hu": "A keskeny bekötőutak esőben csúszósak lehetnek; vezessen óvatosan, és élvezze a drámai tengerparti táj látványát.",
+                "ro": "Drumurile de acces înguste pot fi alunecoase pe ploaie; conduceți cu atenție și admirați peisajul dramatic de coastă.",
+                "en": "The narrow access roads can be slippery in the rain; drive cautiously and enjoy the dramatic coastal scenery from your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto zeigt Mevagissey von seiner ruhigen Seite. Morgens sind die frostigen Gärten von Heligan ein Highlight. Mittags finden Sie in den Museen angenehme Wärme. Da die Sonne gegen 17:00 Uhr untergeht, bietet die Fahrt entlang der Küste im letzten Tageslicht spektakuläre Panoramen. Den Abend genießen Sie am besten bei einem Kaminfeuer in einer lokalen Herberge.",
+            "hu": "A téli autós túra Mevagissey nyugodt arcát mutatja meg. Reggel a zúzmarás Heligan kertek nyújtanak felejthetetlen látványt. Délben a múzeumokban találhat kellemes meleget. Mivel a nap 17:00 körül nyugszik, a tengerparti autózás az utolsó fényekben lenyűgöző panorámát kínál. Az estét érdemes egy helyi fogadó kandallója mellett tölteni.",
+            "ro": "Un tur cu mașina iarna dezvăluie latura liniștită a orașului Mevagissey. Dimineața, grădinile brumate din Heligan sunt un punct forte. La prânz, găsiți căldură plăcută în muzee. Deoarece soarele apune în jur de 17:00, drumul de coastă oferă panorame spectaculoase în ultima lumină a zilei. Seara este cel mai bine petrecută lângă un șemineu local.",
+            "en": "A winter car tour reveals the peaceful side of Mevagissey. In the morning, the frosty Heligan Gardens are a major highlight. Midday provides a chance to warm up in the local museums. As the sun sets around 17:00, driving along the coast in the fading light offers spectacular panoramas. Spend your evening by a roaring fire in a traditional local inn."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die verlorenen Gärten von Heligan",
+                "hu": "Heligan Elveszett Kertjei",
+                "ro": "Grădinile Pierdute din Heligan",
+                "en": "The Lost Gardens of Heligan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten früh, um den Reif auf den Skulpturen zu sehen; wärmen Sie sich danach im Café bei einem heißen Tee auf.",
+                "hu": "Látogasson el korán a kertekbe, hogy lássa a zúzmarát a szobrokon; utána melegedjen fel a kávézóban egy forró tea mellett.",
+                "ro": "Vizitați grădinile devreme pentru a vedea chiciura pe sculpturi; ulterior, încălziți-vă în cafenea cu un ceai fierbinte.",
+                "en": "Visit the gardens early to see the frost on the sculptures, then warm up with a hot tea in the onsite cafe afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Allerheiligen",
+                "hu": "Mindenszentek",
+                "ro": "Toți Sfinții",
+                "en": "All Saints"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern können im Winter kühl sein; ein kurzer Besuch zur Besichtigung der historischen Details lohnt sich dennoch.",
+                "hu": "A vastag kőfalak télen hűvösek lehetnek; egy rövid látogatás a történelmi részletek megtekintéséhez így is megéri.",
+                "ro": "Zidurile groase din piatră pot fi reci iarna; o vizită scurtă pentru a vedea detaliile istorice merită cu siguranță efortul.",
+                "en": "The thick stone walls can be quite chilly in winter; a brief visit to admire the historic details is still very much worthwhile."
+              }
+            },
+            {
+              "name": {
+                "de": "Seepferdchen",
+                "hu": "A Csikóhal",
+                "ro": "Căluțul de Mare",
+                "en": "The Seahorse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterliche Meer; im Auto ist es warm, während draußen die Gischt über die Felsen spritzt.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre; az autóban meleg van, miközben kint a tajték a szikláknak csapódik.",
+                "ro": "Bucurați-vă de vederea vastă asupra mării de iarnă; în mașină este cald, în timp ce afară valurile se sparg de stânci.",
+                "en": "Enjoy the expansive views of the winter sea; stay warm in your car while watching the spray crash against the rocks outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pentewan Strand",
+                "hu": "Pentewan-part",
+                "ro": "Plaja Pentewan",
+                "en": "Pentewan Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang am Flutsaum ist belebend; nutzen Sie die Sitzheizung im Auto für eine schnelle Aufwärmphase danach.",
+                "hu": "Egy rövid téli séta a parton felpezsdítő; használja az autó ülésfűtését a gyors felmelegedéshez a séta után.",
+                "ro": "O scurtă plimbare de iarnă pe mal este revigorantă; folosiți încălzirea în scaune din mașină pentru o revenire rapidă la căldură.",
+                "en": "A short winter stroll along the shoreline is invigorating; use the car's seat heaters for a quick warm-up session afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Museum",
+                "hu": "Mevagissey Múzeum",
+                "ro": "Muzeul Mevagissey",
+                "en": "Mevagissey Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp am Nachmittag; das Museum bietet eine interessante Flucht vor der Kälte, bevor die frühe Dunkelheit einsetzt.",
+                "hu": "Tökéletes délutáni megálló; a múzeum érdekes menekülést kínál a hideg elől, mielőtt beállna a korai sötétség.",
+                "ro": "O oprire perfectă după-amiaza; muzeul oferă o evadare interesantă din calea frigului înainte de instalarea întunericului.",
+                "en": "A perfect afternoon stop; the museum offers an interesting escape from the cold before the early winter darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Colona Strand",
+                "hu": "Colona-part",
+                "ro": "Plaja Colona",
+                "en": "Colona Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne beim Fahren; der Strand ist im Winterlicht besonders fotogen, aber der Wind ist hier oft sehr stark.",
+                "hu": "Vezetéskor ügyeljen az alacsonyan járó napra; a strand a téli fényekben rendkívül fotogén, de a szél gyakran igen erős itt.",
+                "ro": "Atenție la soarele jos când conduceți; plaja este extrem de fotogenică în lumina iernii, dar vântul este adesea foarte puternic.",
+                "en": "Watch out for low sun glare while driving; the beach is highly photogenic in winter light, but winds here can be very biting."
+              }
+            }
+          ]
+        }
       }
     }
   }

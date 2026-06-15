@@ -137,6 +137,168 @@
         "hu": "A reggel a világszínvonalú művészet felfedezésével indul a Barberini Múzeumban.\n\nEzután sétáljon át a nyüzsgő Holland negyedbe, hogy megcsodálja a téglaépítészetet.\n\nDélben áthalad a történelmi Brandenburgi kapun, mielőtt megérkezik a csodálatos Sanssouci-palotához.\n\nA délutánt a teraszos kertek és a hatalmas Sanssouci park felfedezésével töltheti.",
         "ro": "Dimineața începe cu o incursiune în arta de clasă mondială la Muzeul Barberini.\n\nApoi, faceți o scurtă plimbare până în vibrantul Cartier Olandez.\n\nLa prânz, veți trece prin istorica Poartă Brandenburg înainte de a ajunge la magnificul Palat Sanssouci.\n\nPetreceți după-amiaza explorând grădinile terasate și vastele întinderi ale Parcului Sanssouci.",
         "en": "Your morning starts with an immersion into world-class art at the Barberini Museum.\n\nAfterwards, enjoy a short walk to the vibrant Dutch Quarter to experience its unique brick architecture.\n\nBy midday, you'll pass through the historic Brandenburg Gate before arriving at the magnificent Sanssouci Palace.\n\nSpend the afternoon exploring the terraced gardens and the vast expanses of Sanssouci Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Museum Barberini, einem perfekten Zufluchtsort vor dem Regen mit erstklassiger Kunst. Mittags schlendern Sie durch das Holländische Viertel, wo die roten Backsteine im nassen Glanz besonders intensiv leuchten. Am Nachmittag erreichen Sie das Brandenburger Tor und das Schloss Sanssouci, dessen gelbe Fassade auch unter grauem Himmel strahlt. Den Abend lassen Sie im Park ausklingen, wenn der Regen die Statuen in eine mystische Atmosphäre taucht.",
+            "hu": "Kezdje a napot a Barberini Múzeumban, amely tökéletes menedék az eső elől a világszínvonalú művészet világában. Délben sétáljon át a Holland negyeden, ahol a vizes vörös téglák különleges fényt kapnak az esőben. Délután keresse fel a Brandenburgi kaput és a Sanssouci-palotát, amelynek sárga színe szürke égbolt alatt is ragyogó. Az estét a parkban zárja, ahol az eső illata és a ködös táj misztikus hangulatot áraszt.",
+            "ro": "Începeți ziua la Muzeul Barberini, un refugiu perfect împotriva ploii, plin de artă de clasă mondială. La prânz, plimbați-vă prin Cartierul Olandez, unde cărămizile roșii umede strălucesc intens. După-amiaza, vizitați Poarta Brandenburg și Palatul Sanssouci, a cărui fațadă galbenă luminează chiar și sub cerul gri. Seara se încheie în parcul unde ploaia oferă o atmosferă mistică printre statuile și havuzurile istorice.",
+            "en": "Start your day at the Barberini Museum, a perfect indoor refuge featuring world-class art. At noon, wander through the Dutch Quarter, where the wet red bricks glisten beautifully in the rain. In the afternoon, reach the Brandenburg Gate and Sanssouci Palace, whose yellow facade stands out even under grey skies. End your evening in the park, where the rain creates a mystical and serene atmosphere among the historic structures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Barberini",
+                "hu": "Barberini Múzeum",
+                "ro": "Muzeul Barberini",
+                "en": "Barberini Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Impressionisten-Sammlung in den prächtigen, trockenen Sälen und nutzen Sie die Schließfächer für Ihre nassen Regenschirme.",
+                "hu": "Élvezze az impresszionista gyűjteményt a pompás, száraz termekben, és használja a múzeum értékmegőrzőit a vizes esernyők tárolására.",
+                "ro": "Bucurați-vă de colecția impresionistă în sălile splendide și uscate, și folosiți dulapurile muzeului pentru a lăsa umbrelele ude la intrare.",
+                "en": "Enjoy the Impressionist collection in the grand, dry galleries and make use of the museum's lockers to store your wet umbrellas safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Holländisches Viertel",
+                "hu": "Holland negyed",
+                "ro": "Cartierul Olandez",
+                "en": "Dutch Quarter"
+              },
+              "tip_5lang": {
+                "de": "Die roten Ziegelhäuser wirken im Regen besonders fotogen; flüchten Sie bei einem Guss in eines der gemütlichen Cafés mit Innenplätzen.",
+                "hu": "A vörös téglás házak rendkívül fotogének az esőben; hirtelen zápor esetén meneküljön be a hangulatos kávézók egyikébe egy meleg italra.",
+                "ro": "Casele din cărămidă roșie sunt foarte fotogenice în ploaie; refugiați-vă într-una dintre cafenelele primitoare dacă începe să plouă torențial.",
+                "en": "The red brick houses look exceptionally photogenic in the rain; take cover in one of the cozy cafes for a warm drink if a downpour starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Brandenburger Tor",
+                "hu": "Brandenburgi kapu",
+                "ro": "Poarta Brandenburg",
+                "en": "Brandenburg Gate"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal bietet unter seinem Bogen einen kurzen Schutz vor Regen; bewundern Sie die Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "Ez az emlékmű rövid menedéket nyújt az ívei alatt; csodálja meg az építészetet közelebbről, amíg elvonul a nagyobb esőfelhő.",
+                "ro": "Acest monument oferă un scurt adăpost sub arcadele sale; admirați detaliile arhitecturale în timp ce așteptați să se domolească ploaia.",
+                "en": "This monument provides a brief shelter under its arches; admire the architectural details while waiting for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sanssouci",
+                "hu": "Sanssouci-palota",
+                "ro": "Palatul Sanssouci",
+                "en": "Schloss Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie eine Innenführung, um die prunkvollen Räume zu sehen und gleichzeitig den nassen Weinbergterrassen für eine Weile zu entkommen.",
+                "hu": "Foglaljon belső vezetést, hogy megtekinthesse a pompás termeket, és egyúttal elmenekülhessen a vizes, csúszós szőlőteraszok elől.",
+                "ro": "Rezervați un tur interior pentru a vedea sălile fastuoase și pentru a scăpa temporar de terasele cu viță de vie care devin alunecoase.",
+                "en": "Book an indoor tour to see the opulent rooms and stay dry while avoiding the slippery vineyard terraces during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Sanssouci",
+                "hu": "Sanssouci park",
+                "ro": "Parcul Sanssouci",
+                "en": "Park Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Wege können pfützig sein; tragen Sie wasserfestes Schuhwerk, um die melancholische Schönheit der nassen Gartenanlagen zu genießen.",
+                "hu": "A széles utak pocsolyásak lehetnek; viseljen vízálló cipőt, hogy kényelmesen élvezhesse a vizes kertek melankolikus szépségét.",
+                "ro": "Potecile largi pot avea bălți; purtați încălțăminte impermeabilă pentru a vă bucura de frumusețea melancolică a grădinilor sub ploaie.",
+                "en": "The wide paths can get puddly; wear waterproof footwear to fully enjoy the melancholic beauty of the gardens in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erwartet Sie die wohlige Wärme des Barberini Museums, während draußen der Frost klirrt. Mittags wärmen Sie sich im Holländischen Viertel bei heißem Kakao auf. Am frühen Nachmittag besuchen Sie das winterliche Schloss Sanssouci; die kahlen Bäume geben den Blick auf die Architektur frei. Da es gegen 17:00 Uhr dunkel wird, nutzen Sie das letzte Tageslicht für einen kurzen, erfrischenden Spaziergang durch den Park, bevor Sie in ein warmes Restaurant einkehren.",
+            "hu": "Reggel a Barberini Múzeum barátságos melege várja, miközben kint zúzmarás az idő. Délben a Holland negyed egyik kávézójában melegedjen fel egy forró csokoládéval. Kora délután látogasson el a téli Sanssouci-palotához; a kopasz fák között jobban látszanak az épület részletei. Mivel 17:00 körül sötétedik, az utolsó fényeket használja ki egy frissítő sétára a parkban, majd keressen egy meleg éttermet.",
+            "ro": "Dimineața vă așteaptă căldura primitoare a Muzeului Barberini, în timp ce afară este ger. La prânz, încălziți-vă în Cartierul Olandez cu o ciocolată caldă. După-amiaza devreme, vizitați Palatul Sanssouci; copacii desfrunziți permit o vedere mai clară asupra arhitecturii. Deoarece se întunecă în jurul orei 17:00, profitați de ultima lumină pentru o plimbare scurtă prin parc înainte de cină.",
+            "en": "In the morning, the cozy warmth of the Barberini Museum awaits while it's frosty outside. At noon, warm up in the Dutch Quarter with a hot chocolate. In the early afternoon, visit the wintry Sanssouci Palace; the bare trees offer unobstructed views of the architecture. Since it gets dark around 5 PM, use the remaining daylight for a refreshing stroll through the park before finding a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Barberini",
+                "hu": "Barberini Múzeum",
+                "ro": "Muzeul Barberini",
+                "en": "Barberini Museum"
+              },
+              "tip_5lang": {
+                "de": "Die klimatisierten Räume bieten Schutz vor der Winterkälte; nutzen Sie die Garderobe für Ihre dicken Mäntel, um die Kunst entspannt zu betrachten.",
+                "hu": "A klimatizált termek védelmet nyújtanak a téli hideg ellen; használja a ruhatárat a vastag kabátoknak, hogy kényelmesen nézhesse a kiállítást.",
+                "ro": "Sălile climatizate oferă protecție împotriva frigului de iarnă; lăsați hainele groase la garderobă pentru a vizita muzeul în confort.",
+                "en": "The climate-controlled galleries offer a shield from the winter cold; use the cloakroom for your heavy coats to browse the art comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Holländisches Viertel",
+                "hu": "Holland negyed",
+                "ro": "Cartierul Olandez",
+                "en": "Dutch Quarter"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine besonders gemütliche Atmosphäre; suchen Sie sich ein Fensterplätzchen in einem Café und genießen Sie die Aussicht.",
+                "hu": "Télen különösen meghitt itt a hangulat; keressen egy ablak melletti asztalt egy kávézóban, és élvezze a fűtött helyiség nyugalmát.",
+                "ro": "Iarna atmosfera este extrem de primitoare aici; căutați un loc la fereastră într-o cafenea și savurați o băutură caldă privind trecătorii.",
+                "en": "The atmosphere is especially cozy here in winter; find a window seat in a local cafe and enjoy a warm drink while watching the world go by."
+              }
+            },
+            {
+              "name": {
+                "de": "Brandenburger Tor",
+                "hu": "Brandenburgi kapu",
+                "ro": "Poarta Brandenburg",
+                "en": "Brandenburg Gate"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im klaren Winterlicht oft besonders scharf; achten Sie auf glatte Stellen auf dem Kopfsteinpflaster rund um den Platz.",
+                "hu": "Az emlékmű a tiszta téli fényben gyakran élesebben mutat; vigyázzon a tér körüli macskaköves utakon az esetleges jegesedés miatt.",
+                "ro": "Monumentul arată foarte clar în lumina rece de iarnă; atenție la porțiunile alunecoase de pe pavajul din jurul pieței.",
+                "en": "The monument often looks strikingly sharp in the clear winter light; watch out for icy patches on the cobblestones around the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sanssouci",
+                "hu": "Sanssouci-palota",
+                "ro": "Palatul Sanssouci",
+                "en": "Schloss Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Die Statuen im Außenbereich sind oft winterfest eingehaust, was dem Schloss einen ganz eigenen, schlafenden Charme verleiht.",
+                "hu": "A kültéri szobrokat télen gyakran védőburkolat fedi, ami a palotának egy sajátos, „alvó” kert hangulatot kölcsönöz.",
+                "ro": "Statuile exterioare sunt adesea protejate cu învelișuri de iarnă, ceea ce oferă palatului un farmec aparte de grădină „adormită”.",
+                "en": "The outdoor statues are often boxed for winter protection, giving the palace a unique, dormant garden charm that is quite poetic."
+              }
+            },
+            {
+              "name": {
+                "de": "Park Sanssouci",
+                "hu": "Sanssouci park",
+                "ro": "Parcul Sanssouci",
+                "en": "Park Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, um warm zu bleiben, und bewundern Sie die kahle Geometrie des Parks; ab 16:30 Uhr beginnt die Dämmerung.",
+                "hu": "Sétáljon tempósan, hogy melegen tartsa magát, és csodálja meg a park téli geometriáját; 16:30 után már számítson a szürkületre.",
+                "ro": "Mergeți vioi pentru a vă menține căldura și admirați geometria iernatică a parcului; amurgul începe deja după ora 16:30.",
+                "en": "Walk briskly to keep warm and admire the bare geometry of the park; be aware that twilight begins to set in as early as 4:30 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a Barberini Múzeumnál, majd tekerjen a Holland negyedbe.\n\nDélben a Brandenburgi kapu érintésével érkezik az ikonikus Sanssouci-palotához.\n\nDélután kerekezzen át a parkon az Új Palotához, majd észak felé a Cecilienhof-palotához.\n\nAz este egy festői tekeréssel zárul a történelmi Glienicke hídhoz naplementekor.",
         "ro": "Începeți turul cu bicicleta la Muzeul Barberini înainte de a pedala spre Cartierul Olandez.\n\nPrânzul vă aduce pe lângă Poarta Brandenburg până la emblematicul Palat Sanssouci.\n\nDupă-amiaza, mergeți prin parc până la Noul Palat, apoi spre nord către Palatul Cecilienhof.\n\nSeara se încheie cu o plimbare pitorească până la Podul Glienicke la apus.",
         "en": "Kick off your cycling tour with art at the Barberini Museum before pedaling to the Dutch Quarter.\n\nMidday brings you past the Brandenburg Gate and up to the iconic Sanssouci Palace.\n\nIn the afternoon, ride through the park to the impressive New Palace, then head north to Cecilienhof Palace.\n\nYour evening concludes with a scenic ride to the historic Glienicke Bridge at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Potsdam auf dem Rad gut befahrbar. Starten Sie beim Barberini Museum und nutzen Sie die kurzen Wege zum Holländischen Viertel. Mittags geht es zum Brandenburger Tor und Sanssouci, wobei die asphaltierten Wege im Park besseren Halt bieten. Nachmittags erreichen Sie das Neue Palais und Cecilienhof. Achten Sie auf der Glienicker Brücke auf den Wind, der den Regen peitschen kann, und tragen Sie unbedingt volle Regenmontur.",
+            "hu": "Esőben is jól bejárható Potsdam biciklivel. Kezdjen a Barberini Múzeumnál, majd tekerjen el a közeli Holland negyedbe. Délben a Brandenburgi kapu és Sanssouci a cél, a park aszfaltozott útjai stabilabbak ilyenkor. Délután az Új Palota és Cecilienhof következik. A Glienicke hídon számítson erős szélre, amely az esőt is befújhatja, ezért viseljen teljes esővédő ruházatot.",
+            "ro": "Potsdam este accesibil cu bicicleta chiar și pe ploaie. Începeți la Muzeul Barberini și folosiți distanțele scurte până în Cartierul Olandez. La prânz mergeți spre Poarta Brandenburg și Sanssouci, drumurile asfaltate din parc oferind aderență mai bună. După-amiaza ajungeți la Palatul Nou și Cecilienhof. Pe podul Glienicke atenție la vântul care poate intensifica ploaia; purtați echipament impermeabil complet.",
+            "en": "Potsdam remains bikeable even in the rain. Start at the Barberini Museum and enjoy the short ride to the Dutch Quarter. At noon, head to the Brandenburg Gate and Sanssouci; the paved paths in the park offer better grip. In the afternoon, visit the New Palace and Cecilienhof. Be careful on the Glienicke Bridge where the wind can whip the rain; wearing full rain gear is essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Barberini",
+                "hu": "Barberini Múzeum",
+                "ro": "Muzeul Barberini",
+                "en": "Barberini Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an den überdachten Ständern ab und nutzen Sie die Pause im Trockenen für die beeindruckende Kunstsammlung.",
+                "hu": "Hagyja a kerékpárját egy fedett tárolóban, és használja ki a száraz helyen töltött időt a lenyűgöző művészeti gyűjtemény megtekintésére.",
+                "ro": "Lăsați bicicleta la rastelele acoperite și folosiți pauza la adăpost pentru a vizita impresionanta colecție de artă.",
+                "en": "Park your bike at the covered racks nearby and use this dry break to explore the museum's impressive art collection indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Holländisches Viertel",
+                "hu": "Holland negyed",
+                "ro": "Cartierul Olandez",
+                "en": "Dutch Quarter"
+              },
+              "tip_5lang": {
+                "de": "Die Kopfsteinpflastergassen können bei Nässe sehr rutschig sein; fahren Sie langsam oder schieben Sie Ihr Rad für ein paar Meter.",
+                "hu": "A macskaköves utcák vizesen nagyon csúszósak lehetnek; tekerjen lassabban, vagy tolja a biciklit pár méteren keresztül a biztonságért.",
+                "ro": "Străzile cu piatră cubică pot fi foarte alunecoase când sunt ude; pedalați încet sau împingeți bicicleta pe câțiva metri.",
+                "en": "The cobblestone streets can be very slippery when wet; cycle slowly or consider walking your bike for a few meters to be safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Brandenburger Tor",
+                "hu": "Brandenburgi kapu",
+                "ro": "Poarta Brandenburg",
+                "en": "Brandenburg Gate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Platz für ein schnelles Foto und achten Sie auf Fußgänger, die mit ihren Regenschirmen weniger Sicht haben.",
+                "hu": "Használja ki a tágas teret egy gyors fotóra, és figyeljen a gyalogosokra, akik az esernyőik miatt nehezebben látják a bicikliseket.",
+                "ro": "Folosiți spațiul larg pentru o fotografie rapidă și fiți atenți la pietonii care au vizibilitate redusă din cauza umbrelelor.",
+                "en": "Take advantage of the wide square for a quick photo and watch out for pedestrians whose visibility is restricted by their umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sanssouci",
+                "hu": "Sanssouci-palota",
+                "ro": "Palatul Sanssouci",
+                "en": "Schloss Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Fahrräder sind auf den Hauptwegen des Parks erlaubt; achten Sie auf glattes Laub auf dem Boden während der Fahrt zum Schloss.",
+                "hu": "A kerékpárok megengedettek a park főútjain; ügyeljen a vizes levelekre az úton, miközben a palota felé teker.",
+                "ro": "Bicicletele sunt permise pe aleile principale ale parcului; atenție la frunzele ude de pe sol în timp ce pedalați spre palat.",
+                "en": "Bicycles are permitted on the main park paths; watch out for slippery wet leaves on the ground while heading toward the palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Neues Palais",
+                "hu": "Új Palota",
+                "ro": "Palatul Nou",
+                "en": "New Palace"
+              },
+              "tip_5lang": {
+                "de": "Dieses riesige Schloss bietet viel Platz im Inneren; eine perfekte Gelegenheit, das Rad stehen zu lassen und lange im Trockenen zu bleiben.",
+                "hu": "Ez a hatalmas palota rengeteg látnivalót kínál bent; tökéletes alkalom, hogy lezárja a gépet és hosszabb időt töltsön fedett helyen.",
+                "ro": "Acest palat imens oferă multe de văzut în interior; este ocazia perfectă să lăsați bicicleta și să stați mai mult timp la adăpost.",
+                "en": "This massive palace offers plenty to see inside; it’s a perfect opportunity to lock your bike and stay dry for an extended period."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cecilienhof",
+                "hu": "Cecilienhof-palota",
+                "ro": "Palatul Cecilienhof",
+                "en": "Cecilienhof Palace"
+              },
+              "tip_5lang": {
+                "de": "Der Weg durch den Neuen Garten kann matschig sein; Schutzbleche am Rad sind heute Ihr bester Freund auf dem Weg zu diesem historischen Ort.",
+                "hu": "Az Új Kerten átvezető út sáros lehet; a sárvédő ma a legjobb barátja lesz, miközben e történelmi helyszín felé teker.",
+                "ro": "Drumul prin Grădina Nouă poate fi noroios; aripile bicicletei sunt cel mai bun prieten astăzi în drum spre acest loc istoric.",
+                "en": "The path through the New Garden might be muddy; fenders on your bike are your best friend today on the way to this historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Glienicker Brücke",
+                "hu": "Glienicke híd",
+                "ro": "Podul Glienicke",
+                "en": "Glienicke Bridge"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei Seitenwind auf der Brücke; halten Sie den Lenker fest, wenn Sie die Grenze zwischen Potsdam und Berlin im Regen überqueren.",
+                "hu": "Vigyázzon az oldalszélre a hídon; fogja szorosan a kormányt, miközben az esőben átteker a Potsdam és Berlin közötti határon.",
+                "ro": "Atenție la vântul lateral pe pod; țineți bine ghidonul în timp ce traversați granița dintre Potsdam și Berlin prin ploaie.",
+                "en": "Watch out for crosswinds on the bridge; keep a firm grip on your handlebars as you cross the border between Potsdam and Berlin."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Potsdam erfordert warme Handschuhe gegen den Fahrtwind. Starten Sie beim Barberini und radeln Sie durch das frostige Holländische Viertel. Mittags erkunden Sie Sanssouci und das Neue Palais; die Wege sind meist gut geräumt. Nachmittags geht es zum Cecilienhof im Neuen Garten. Planen Sie die Glienicker Brücke zum Sonnenuntergang gegen 16:30 Uhr ein, wenn die Lichter der Stadt im kalten Wasser der Havel glitzern.",
+            "hu": "A téli kerékpározáshoz Potsdamban meleg kesztyűre lesz szüksége a menetszél ellen. Kezdjen a Barberininél, majd tekerjen át a fagyos Holland negyeden. Délben fedezze fel Sanssoucit és az Új Palotát; az utak általában jól takarítottak. Délután látogasson el a Cecilienhofhoz. A Glienicke hidat a 16:30 körüli naplementére időzítse, amikor a város fényei megcsillannak a Havel hideg vizén.",
+            "ro": "Ciclismul de iarnă în Potsdam necesită mănuși groase împotriva vântului. Începeți la Barberini și pedalați prin Cartierul Olandez înghețat. La prânz explorați Sanssouci și Palatul Nou; aleile sunt de obicei bine curățate. După-amiaza mergeți spre Cecilienhof în Grădina Nouă. Vizitați podul Glienicke la apus, în jur de ora 16:30, când luminile orașului sclipesc în apa rece.",
+            "en": "Winter cycling in Potsdam requires warm gloves to fight the wind chill. Start at the Barberini and ride through the frosty Dutch Quarter. At noon, explore Sanssouci and the New Palace; paths are usually well-cleared of snow. In the afternoon, head to Cecilienhof in the New Garden. Aim to reach the Glienicke Bridge by sunset around 4:30 PM, when city lights sparkle in the cold Havel water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Barberini",
+                "hu": "Barberini Múzeum",
+                "ro": "Muzeul Barberini",
+                "en": "Barberini Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Museum auf, bevor Sie die Fahrt fortsetzen; die Ausstellungen bieten eine wunderbare Pause von der Kälte.",
+                "hu": "Melegítse fel a kezeit a múzeumban, mielőtt folytatná az utat; a kiállítások remek alkalmat adnak a téli hideg kipihenésére.",
+                "ro": "Încălziți-vă mâinile în muzeu înainte de a continua drumul; expozițiile oferă o pauză minunată de la frigul de afară.",
+                "en": "Warm up your hands inside the museum before continuing your ride; the exhibitions provide a wonderful respite from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Holländisches Viertel",
+                "hu": "Holland negyed",
+                "ro": "Cartierul Olandez",
+                "en": "Dutch Quarter"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen zwischen den Kopfsteinpflastern; halten Sie kurz für einen warmen Punsch an einem der Außenstände.",
+                "hu": "Ügyeljen a megfagyott tócsákra a macskakövek között; álljon meg egy forró puncsra az egyik kültéri árusnál a felmelegedéshez.",
+                "ro": "Atenție la bălțile înghețate dintre pietrele cubice; opriți-vă pentru un punch cald la unul dintre standurile exterioare.",
+                "en": "Watch out for frozen puddles between the cobblestones; stop for a quick warm punch at one of the outdoor stalls to recharge."
+              }
+            },
+            {
+              "name": {
+                "de": "Brandenburger Tor",
+                "hu": "Brandenburgi kapu",
+                "ro": "Poarta Brandenburg",
+                "en": "Brandenburg Gate"
+              },
+              "tip_5lang": {
+                "de": "Das Tor ist ein tolles Fotomotiv im Winter; vermeiden Sie scharfes Bremsen auf dem Platz, falls es geschneit hat oder glatt ist.",
+                "hu": "A kapu remek fotótéma télen; kerülje a hirtelen fékezést a téren, ha esett a hó vagy jeges az aszfalt.",
+                "ro": "Poarta este un subiect foto excelent iarna; evitați frânarea bruscă în piață dacă a nins sau dacă este polei pe jos.",
+                "en": "The gate is a great photo spot in winter; avoid sharp braking in the square if it has snowed or if the ground is icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sanssouci",
+                "hu": "Sanssouci-palota",
+                "ro": "Palatul Sanssouci",
+                "en": "Schloss Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Die Weinbergterrassen können bei Frost gesperrt sein; nutzen Sie die flacheren Umgehungswege mit dem Fahrrad zum Schlossplateau.",
+                "hu": "A szőlőteraszok fagy esetén lezárhatók; használja a lankásabb kerülőutakat kerékpárral a kastély felső szintjének eléréséhez.",
+                "ro": "Terasele cu viță de vie pot fi închise în caz de îngheț; folosiți rutele ocolitoare mai line cu bicicleta pentru a ajunge la palat.",
+                "en": "The vineyard terraces might be closed during frost; use the flatter bypass routes with your bike to reach the palace plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Neues Palais",
+                "hu": "Új Palota",
+                "ro": "Palatul Nou",
+                "en": "New Palace"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche vor dem Palais ist oft windanfällig; treten Sie kräftig in die Pedale, um den kühlen Westwind zu trotzen.",
+                "hu": "A palota előtti hatalmas tér szeles lehet; tekerjen kitartóan, hogy leküzdje a nyugat felől érkező hűvös téli szelet.",
+                "ro": "Spațiul larg din fața palatului este expus vântului; pedalați cu energie pentru a înfrunta curentul rece de iarnă dinspre vest.",
+                "en": "The vast area in front of the palace is prone to wind; pedal hard to push through the chilly winter breeze coming from the west."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cecilienhof",
+                "hu": "Cecilienhof-palota",
+                "ro": "Palatul Cecilienhof",
+                "en": "Cecilienhof Palace"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den zugefrorenen oder nebligen Heiligen See ist vom Radweg aus wunderschön; tragen Sie eine Mütze unter dem Helm.",
+                "hu": "A befagyott vagy ködös Heiliger See látványa a kerékpárútról gyönyörű; viseljen vékony sapkát a sisak alatt a hideg ellen.",
+                "ro": "Vederea spre lacul Heiliger See înghețat sau cețos este superbă de pe pistă; purtați o căciulă subțire sub cască pentru protecție.",
+                "en": "The view of the frozen or misty Heiliger See from the bike path is stunning; wear a thin thermal cap under your helmet for warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Glienicker Brücke",
+                "hu": "Glienicke híd",
+                "ro": "Podul Glienicke",
+                "en": "Glienicke Bridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama der Schlösserlandschaft im Winterlicht; halten Sie die Fahrt kurz, da es auf der Brücke sehr ziehen kann.",
+                "hu": "Élvezze a kastélyvidék panorámáját a téli fényben; ne időzzön túl sokat, mert a hídon nagyon erős lehet a huzat és a hideg.",
+                "ro": "Bucurați-vă de panorama peisajului cu palate în lumina iernii; nu staționați mult, deoarece pe pod curentul poate fi foarte rece.",
+                "en": "Enjoy the panorama of the palace landscape in the winter light; keep your stay brief as the bridge can be very draughty and cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája a központban, a Barberini Múzeumnál és a hangulatos Holland negyednél kezdődik.\n\nDélben elhagyja a városközpontot, hogy megcsodálja a Sanssouci és az Új Palota pompáját.\n\nA délután a modern történelemé a Cecilienhof-palotában és a Glienicke hídnál.\n\nZárja a napot a vízparton pihenve a félreeső Waldbad Templin strandon.",
         "ro": "Traseul auto începe în centru la Muzeul Barberini și fermecătorul Cartier Olandez.\n\nLa prânz, veți părăsi zona urbană pentru a admira splendoarea Palatului Sanssouci și Palatului Nou.\n\nDupă-amiaza trece la istoria modernă la Palatul Cecilienhof și Podul Glienicke.\n\nÎncheiați-vă ziua relaxându-vă pe malul apei la izolatul Waldbad Templin.",
         "en": "Your driving route begins in the city center at the Barberini Museum and the charming Dutch Quarter.\n\nBy midday, you'll leave the urban core to marvel at the splendor of Sanssouci Palace and the monumental New Palace.\n\nThe afternoon shifts to modern history at Cecilienhof Palace and a quick stop at the Glienicke Bridge.\n\nEnd your day relaxing by the water at the secluded Waldbad Templin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Potsdam bei Regen ganz entspannt. Parken Sie am Barberini und genießen Sie die Kunst im Trockenen. Danach geht es zum Holländischen Viertel für einen gemütlichen Stopp. Mittags besuchen Sie Sanssouci und das Neue Palais; nutzen Sie die Parkplätze direkt an den Schlössern. Nachmittags fahren Sie zum Cecilienhof und zur Glienicker Brücke, bevor Sie den Tag am Templiner See ausklingen lassen, wo der Regen auf das Wasser trommelt.",
+            "hu": "Autóval kényelmesen felfedezheti Potsdamot esőben is. Parkoljon a Barberini közelében, és élvezze a művészetet szárazon. Ezután guruljon át a Holland negyedbe egy hangulatos megállóra. Délben Sanssouci és az Új Palota a cél, használja a közvetlenül mellettük lévő parkolókat. Délután látogasson el Cecilienhofhoz és a Glienicke hídhoz, majd zárja a napot a Templini-tónál az eső kopogását hallgatva.",
+            "ro": "Cu mașina puteți explora Potsdam pe ploaie în mod relaxat. Parcați la Barberini și bucurați-vă de artă la adăpost. Apoi mergeți spre Cartierul Olandez pentru o oprire primitoare. La prânz vizitați Sanssouci și Palatul Nou, folosind parcările de lângă ele. După-amiaza conduceți spre Cecilienhof și podul Glienicke, înainte de a încheia ziua la lacul Templin, ascultând ploaia pe apă.",
+            "en": "By car, you can explore Potsdam comfortably even in the rain. Park near the Barberini and enjoy the art indoors. Then drive to the Dutch Quarter for a cozy stop. At noon, visit Sanssouci and the New Palace, making use of the parking lots right next to them. In the afternoon, head to Cecilienhof and the Glienicke Bridge, ending your day at Lake Templin while listening to the rain on the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Barberini",
+                "hu": "Barberini Múzeum",
+                "ro": "Muzeul Barberini",
+                "en": "Barberini Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trockenen Fußes in das Museum zu gelangen und die Impressionisten in Ruhe zu bewundern.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson be a múzeumba, és nyugodtan megcsodálhassa az impresszionista műveket.",
+                "ro": "Folosiți parcarea supraetajată din apropiere pentru a ajunge uscat la muzeu și pentru a admira impresioniștii în liniște.",
+                "en": "Use the nearby parking garage to reach the museum without getting wet and take your time admiring the Impressionist masterpieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Holländisches Viertel",
+                "hu": "Holland negyed",
+                "ro": "Cartierul Olandez",
+                "en": "Dutch Quarter"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Bassinstraße; von dort sind es nur wenige Schritte zu den überdachten Eingängen der kleinen Läden und Cafés.",
+                "hu": "Parkoljon a Bassinstraße mentén; onnan csak pár lépés a kis boltok és kávézók fedett bejárata az esőben is.",
+                "ro": "Parcați de-a lungul Bassinstraße; de acolo sunt doar câțiva pași până la intrările acoperite ale micilor magazine și cafenele.",
+                "en": "Park along Bassinstraße; from there it's just a few steps to the sheltered entrances of the small shops and cozy cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sanssouci",
+                "hu": "Sanssouci-palota",
+                "ro": "Palatul Sanssouci",
+                "en": "Schloss Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Historischen Mühle liegt ideal, um bei Regen schnell zum Schlosseingang zu gelangen; Regenschirm nicht vergessen.",
+                "hu": "A történelmi malomnál lévő parkoló ideális, hogy esőben gyorsan elérje a palota bejáratát; az esernyőt ne hagyja a kocsiban.",
+                "ro": "Parcarea de la Moara Istorică este ideală pentru a ajunge rapid la intrarea palatului pe ploaie; nu uitați umbrela în mașină.",
+                "en": "The parking lot at the Historic Mill is ideally located for reaching the palace entrance quickly in the rain; don't forget your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Neues Palais",
+                "hu": "Új Palota",
+                "ro": "Palatul Nou",
+                "en": "New Palace"
+              },
+              "tip_5lang": {
+                "de": "Es gibt einen großen Parkplatz direkt gegenüber; ideal für einen Regentag, da man nur eine kurze Strecke ungeschützt laufen muss.",
+                "hu": "Közvetlenül szemben egy nagy parkoló található; ideális esős napokon, mert csak egy rövid szakaszt kell megtenni fedetlenül.",
+                "ro": "Există o parcare mare chiar vis-à-vis; este ideală pentru o zi ploioasă, deoarece aveți de mers doar puțin fără adăpost.",
+                "en": "There is a large parking lot directly opposite; ideal for a rainy day as you only have a short distance to walk without cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cecilienhof",
+                "hu": "Cecilienhof-palota",
+                "ro": "Palatul Cecilienhof",
+                "en": "Cecilienhof Palace"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz im Neuen Garten; von dort führt ein von Bäumen gesäumter Weg zum Schloss, der etwas Schutz vor Regen bietet.",
+                "hu": "Hajtson el az Új Kert parkolójáig; onnan egy fákkal övezett út vezet a palotához, amely némi védelmet nyújt a szemerkélő eső ellen.",
+                "ro": "Conduceți până la parcarea din Grădina Nouă; de acolo, o alee cu copaci duce la palat, oferind puțină protecție contra ploii.",
+                "en": "Drive to the parking lot in the New Garden; a tree-lined path leads to the palace, offering some natural shelter from light rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Glienicker Brücke",
+                "hu": "Glienicke híd",
+                "ro": "Podul Glienicke",
+                "en": "Glienicke Bridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss direkt aus dem trockenen Auto oder steigen Sie kurz für ein Foto an der berühmten Spionenbrücke aus.",
+                "hu": "Élvezze a folyóra nyíló kilátást közvetlenül a száraz autóból, vagy szálljon ki egy gyors fotóra a híres kémek hídjánál.",
+                "ro": "Bucurați-vă de vederea spre râu direct din mașină sau coborâți scurt pentru o fotografie la celebrul pod al spionilor.",
+                "en": "Enjoy the river view directly from the comfort of your dry car or hop out briefly for a photo at the famous Bridge of Spies."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldbad Templin",
+                "hu": "Templin erdei strand",
+                "ro": "Ștrandul forestier Templin",
+                "en": "Waldbad Templin"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die benachbarte Havelland-Therme, um den Regentag im warmen Wasser mit Blick auf den See entspannt ausklingen zu lassen.",
+                "hu": "Látogasson el a szomszédos Havelland-termálfürdőbe, hogy az esős napot a meleg vízben, a tóra nyíló kilátással zárja.",
+                "ro": "Vizitați centrul termal Havelland din vecinătate pentru a încheia ziua ploioasă în apa caldă cu vedere spre lac.",
+                "en": "Visit the neighboring Havelland thermal baths to end the rainy day relaxing in warm water with a nice view of the lake."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto in Potsdam perfekten Schutz vor der Kälte zwischen den Besichtigungen. Starten Sie beim Barberini Museum und genießen Sie die Wärme. Mittags geht es zum Holländischen Viertel, wo Sie direkt in der Nähe parken können. Besuchen Sie Sanssouci und das Neue Palais am Nachmittag. Da es gegen 17:00 Uhr dunkel wird, fahren Sie zur Glienicker Brücke für die beleuchtete Kulisse und beenden den Tag gemütlich am Templiner See.",
+            "hu": "Télen az autó tökéletes védelmet nyújt a hideg ellen a látnivalók között Potsdamban. Kezdjen a Barberini Múzeumban, élvezve a benti meleget. Délben guruljon el a Holland negyedbe, ahol a közelben parkolhat. Délután látogassa meg Sanssoucit és az Új Palotát. Mivel 17:00 körül sötétedik, a Glienicke híd kivilágított látványáért induljon időben, majd zárja a napot a Templini-tónál.",
+            "ro": "Iarna mașina oferă protecție perfectă împotriva frigului între vizitele la palatele din Potsdam. Începeți la Muzeul Barberini și bucurați-vă de căldură. La prânz mergeți spre Cartierul Olandez, unde puteți parca foarte aproape. Vizitați Sanssouci și Palatul Nou după-amiaza. Deoarece se întunecă la ora 17:00, mergeți la podul Glienicke pentru decorul iluminat și încheiați ziua la lacul Templin.",
+            "en": "In winter, the car provides perfect protection from the cold between sights in Potsdam. Start at the Barberini Museum and enjoy the warmth inside. At noon, drive to the Dutch Quarter, where you can park nearby. Visit Sanssouci and the New Palace in the afternoon. Since it gets dark around 5 PM, head to the Glienicke Bridge for the illuminated scenery and end the day cozily at Lake Templin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Barberini",
+                "hu": "Barberini Múzeum",
+                "ro": "Muzeul Barberini",
+                "en": "Barberini Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage und lassen Sie Ihre Winterjacken im Auto oder an der Garderobe, um die Kunst in leichter Kleidung zu genießen.",
+                "hu": "Használja a mélygarázst, és hagyja a télikabátokat a kocsiban vagy a ruhatárban, hogy könnyű öltözetben élvezhesse a művészetet.",
+                "ro": "Folosiți parcarea subterană și lăsați hainele de iarnă în mașină sau la garderobă pentru a vizita muzeul mai comod.",
+                "en": "Use the underground parking and leave your winter coats in the car or at the cloakroom to enjoy the art in lighter clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Holländisches Viertel",
+                "hu": "Holland negyed",
+                "ro": "Cartierul Olandez",
+                "en": "Dutch Quarter"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in den Seitenstraßen; das Viertel ist im Winter mit seiner Beleuchtung besonders stimmungsvoll für einen kurzen Gang.",
+                "hu": "Keressen parkolót a mellékutcákban; a negyed a téli kivilágítással különleges hangulatot áraszt egy rövid, frissítő sétához.",
+                "ro": "Căutați un loc de parcare pe străzile laterale; cartierul este foarte atmosferic iarna, cu iluminatul său specific, perfect pentru o plimbare.",
+                "en": "Look for a parking spot in the side streets; the quarter is very atmospheric in winter with its lights, perfect for a short stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sanssouci",
+                "hu": "Sanssouci-palota",
+                "ro": "Palatul Sanssouci",
+                "en": "Schloss Sanssouci"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Mühle ist auch im Winter geöffnet; genießen Sie die klare Sicht auf das Schloss ohne die üblichen Touristenmassen.",
+                "hu": "A malomnál lévő parkoló télen is üzemel; élvezze a tiszta kilátást a palotára a szokásos turistaáradat nélkül.",
+                "ro": "Parcarea de la moară este deschisă și iarna; bucurați-vă de vederea clară spre palat fără mulțimile obișnuite de turiști.",
+                "en": "The parking lot at the mill remains open in winter; enjoy the clear views of the palace without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Neues Palais",
+                "hu": "Új Palota",
+                "ro": "Palatul Nou",
+                "en": "New Palace"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Parkplatz auf Glätte; das Innere des Palais ist herrlich beheizt und bietet eine prachtvolle Flucht vor dem Frost.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban; a palota belseje kellemesen fűtött, és pompás menedéket nyújt a kinti fagy elől.",
+                "ro": "Atenție la polei în parcare; interiorul palatului este bine încălzit și oferă o evadare fastuoasă din gerul de afară.",
+                "en": "Watch out for icy spots in the parking lot; the palace interior is wonderfully heated and offers a grand escape from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cecilienhof",
+                "hu": "Cecilienhof-palota",
+                "ro": "Palatul Cecilienhof",
+                "en": "Cecilienhof Palace"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Schloss; der Tudor-Stil des Gebäudes wirkt im Winter mit Raureif auf den Dächern besonders märchenhaft.",
+                "hu": "A parkoló közel van a palotához; az épület Tudor-stílusa télen, a zúzmarás tetőkkel különösen mesébe illő látványt nyújt.",
+                "ro": "Parcarea este aproape de palat; stilul Tudor al clădirii arată ca în povești iarna, cu chiciură pe acoperișuri.",
+                "en": "The parking lot is close to the palace; the building's Tudor style looks like something from a fairytale with winter frost on the roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Glienicker Brücke",
+                "hu": "Glienicke híd",
+                "ro": "Podul Glienicke",
+                "en": "Glienicke Bridge"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz vor der Brücke; bei Dämmerung ist die Beleuchtung der Brücke und der umliegenden Schlösser am beeindruckendsten.",
+                "hu": "Parkoljon le közvetlenül a híd előtt; szürkületkor a híd és a környező kastélyok kivilágítása a leglátványosabb.",
+                "ro": "Parcați chiar înainte de pod; la amurg, iluminatul podului și al palatelor din jur este extrem de impresionant.",
+                "en": "Park just before the bridge; at twilight, the lighting of the bridge and surrounding palaces is at its most impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldbad Templin",
+                "hu": "Templin erdei strand",
+                "ro": "Ștrandul forestier Templin",
+                "en": "Waldbad Templin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz für einen kurzen, knackig-kalten Spaziergang am Seeufer, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "Használja a nagy parkolót egy rövid, frissítő téli sétára a tóparton, mielőtt újra felmelegedne a fűtött autóban.",
+                "ro": "Folosiți parcarea mare pentru o scurtă plimbare revigorantă pe malul lacului înainte de a vă reîncălzi în mașină.",
+                "en": "Use the large parking lot for a short, crisp winter walk along the lakeshore before warming up again in your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a buja Jardín Zenea, Querétaro szeretett központi terének történelmi hangulatában.\nDélre a mély gyarmati múltban és a fenséges közeli múzeumokban szétszórt, élénk kortárs művészetekben találja magát.\nDélután csodálja meg az impozáns querétarói katedrális szakrális művészetét és nagyszerű neoklasszikus homlokzatát.\nAz este a Santa Rosa de Viterboban csúcsosodik ki, ahol a drámai mexikói barokk belső terek felejthetetlen arany befejezést nyújtanak.",
         "ro": "Începeți-vă ziua respirând atmosfera istorică din luxuriantul Jardín Zenea, iubitului loc central al orașului Querétaro.\nPână la amiază, vă veți trezi cufundat în trecutul colonial profund și în artele contemporane vibrante din muzeele majestuoase din apropiere.\nPe măsură ce după-amiaza se desfășoară, minunați-vă de arta sacră și fațada neoclasică grandioasă a impunătoarei Catedrale.\nSeara dumneavoastră culminează la Santa Rosa de Viterbo, unde interioarele dramatice ale barocului mexican creează un final auriu de neuitat.",
         "en": "Begin your day breathing in the historic atmosphere of the lush Jardín Zenea, Querétaro’s beloved central plaza.\nBy midday, you will find yourself immersed in the deep colonial past and vibrant contemporary arts spread across the majestic nearby museums.\nAs the afternoon unfolds, marvel at the sacred art and the grand neoclassical facade of the imposing Catedral de Querétaro.\nYour evening culminates at Santa Rosa de Viterbo, where the dramatic Mexican Baroque interiors create an unforgettable golden finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im Jardín Zenea, wo der Musikpavillon Schutz vor Schauern bietet. Mittags und am frühen Nachmittag flüchten Sie in die prachtvollen Innenhöfe des Regionalmuseums und der Galería Libertad, um trocken zu bleiben. Später am Tag bieten die Kunstmuseen mit ihren überdachten Arkaden eine perfekte Zuflucht. Den Abend verbringen Sie in der festlichen Stille der Kirchen, während draußen der Regen auf das Kopfsteinpflaster prasselt.",
+            "hu": "Kezdje a reggelt a Jardín Zenea pavilonja alatt, amely menedéket nyújt az égi áldás elől. Délben vonuljon vissza a Regionális Múzeum és a Galería Libertad fedett kerengőibe, ahol szárazon csodálhatja a történelmet. Délután a Szakrális Művészeti Múzeum belső terei nyújtanak biztonságot a záporok elől. Az estét a Santa Rosa de Viterbo aranyozott falai között zárja, miközben kint az eső mossa le a város patinás utcáit.",
+            "ro": "Începeți dimineața în Jardín Zenea, unde chioșcul central oferă adăpost împotriva averselor trecătoare. La prânz, refugiați-vă în curțile interioare ale Muzeului Regional și ale Galeriei Libertad pentru a rămâne uscați. După-amiaza, muzeele de artă cu arcadele lor acoperite sunt refugiul perfect în timp ce plouă. Seara, admirați interiorul somptuos al bisericii Santa Rosa de Viterbo, protejați de pereții groși de piatră în timp ce orașul se răcorește.",
+            "en": "Start your morning at Jardín Zenea, where the central bandstand provides a quick shelter from passing showers. At midday, retreat into the covered cloisters of the Regional Museum and Galería Libertad to explore history while staying dry. In the afternoon, the art museums' indoor galleries offer a perfect escape from the rain. End your evening inside the golden glow of Santa Rosa de Viterbo, enjoying the spiritual atmosphere while the rain washes the historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jardín Zenea",
+                "hu": "Jardín Zenea",
+                "ro": "Jardín Zenea",
+                "en": "Jardín Zenea"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen Schutz unter dem zentralen Kiosk und beobachten Sie, wie die nassen Fliesen die Lichter der Stadt reflektieren; bringen Sie einen stabilen Schirm mit.",
+                "hu": "Heves esőzés esetén keressen menedéket a központi pavilon alatt, és csodálja meg, ahogy a vizes kövezet tükrözi a város fényeit; egy strapabíró esernyő elengedhetetlen.",
+                "ro": "În caz de ploaie torențială, adăpostiți-vă sub chioșcul central și observați cum pavajul umed reflectă luminile orașului; nu uitați să aveți la voi o umbrelă rezistentă.",
+                "en": "In case of heavy rain, seek shelter under the central bandstand and watch how the wet pavement reflects the city lights; make sure to carry a sturdy umbrella for the walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Querétaro",
+                "hu": "Querétaro Regionális Múzeuma",
+                "ro": "Muzeul Regional din Querétaro",
+                "en": "Museo Regional de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden des ehemaligen Klosters, um die Ausstellungen trocken zu genießen; die Akustik des Regens im Innenhof ist besonders beruhigend.",
+                "hu": "Használja ki az egykori kolostor fedett árkádjait, hogy szárazon élvezhesse a kiállításokat; az udvaron kopogó eső hangja különleges, megnyugtató atmoszférát teremt.",
+                "ro": "Profitați de arcadele acoperite ale fostei mănăstiri pentru a vizita expozițiile fără a vă uda; sunetul ploii în curtea interioară creează o atmosferă liniștitoare.",
+                "en": "Take advantage of the covered arches of the former convent to enjoy the exhibits while staying dry; the sound of rain in the courtyard creates a very peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería Libertad",
+                "hu": "Galería Libertad",
+                "ro": "Galeria Libertad",
+                "en": "Galería Libertad"
+              },
+              "tip_5lang": {
+                "de": "Dieser kompakte Innenraum ist ideal, um einen plötzlichen Schauer abzuwarten, während man zeitgenössische Kunst betrachtet; achten Sie auf rutschige Stufen am Eingang.",
+                "hu": "Ez a kompakt belső tér ideális egy hirtelen zápor kivárására a kortárs művészetek társaságában; ügyeljen a bejáratnál a csúszós lépcsőkre az esőben.",
+                "ro": "Acest spațiu interior compact este ideal pentru a aștepta trecerea unei averse în timp ce admirați arta contemporană; atenție la treptele alunecoase de la intrare.",
+                "en": "This compact indoor space is ideal for waiting out a sudden shower while browsing contemporary art; watch out for slippery steps at the entrance when it is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte Sacro",
+                "hu": "Szakrális Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Sacră",
+                "en": "Museo de Arte Sacro"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten perfekten Schutz vor Wind und Wetter; bewundern Sie die religiösen Schätze, während Sie im Trockenen auf das Ende des Regens warten.",
+                "hu": "A vastag falak tökéletes védelmet nyújtanak a szél és az eső ellen; csodálja meg a vallási kincseket, miközben szárazon várja a zápor elvonulását a csendes termekben.",
+                "ro": "Zidurile groase oferă protecție perfectă împotriva vântului și ploii; admirați comorile religioase în timp ce așteptați la adăpost oprirea averselor în sălile liniștite.",
+                "en": "The thick walls provide perfect protection from wind and rain; admire the religious treasures while waiting in the dry for the shower to pass in the quiet halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte",
+                "hu": "Művészeti Múzeum",
+                "ro": "Muzeul de Artă",
+                "en": "Museo de Arte"
+              },
+              "tip_5lang": {
+                "de": "Der spektakuläre Barock-Hof ist zwar offen, aber die breiten Gänge erlauben es, die Architektur zu bewundern, ohne nass zu werden; tragen Sie Schuhe mit gutem Profil.",
+                "hu": "A látványos barokk udvar ugyan nyitott, de a széles folyosók lehetővé teszik az építészet megcsodálását ázás nélkül; viseljen jó tapadású talpú cipőt a vizes kövön.",
+                "ro": "Curtea barocă spectaculoasă este deschisă, dar coridoarele largi vă permit să admirați arhitectura fără să vă udați; purtați încălțăminte cu talpă aderentă.",
+                "en": "The spectacular Baroque courtyard is open, but the wide corridors allow you to admire the architecture without getting wet; wear shoes with good grip on the wet stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de Querétaro",
+                "hu": "Querétaro Katedrálisa",
+                "ro": "Catedrala din Querétaro",
+                "en": "Catedral de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale ist ein herrlicher Ort, um sich aufzuwärmen und dem prasselnden Regen draußen zu entfliehen; nutzen Sie die Zeit für eine meditative Pause im Trockenen.",
+                "hu": "A katedrális kiváló hely a felmelegedésre és a kinti eső elöli menekülésre; használja ki az időt egy meditatív pihenőre a száraz és monumentális belső térben.",
+                "ro": "Catedrala este un loc excelent pentru a vă încălzi și a scăpa de ploaia de afară; profitați de timp pentru o pauză meditativă în interiorul uscat și monumental.",
+                "en": "The cathedral is an excellent place to warm up and escape the rain outside; use the time for a meditative break in the dry and monumental interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Rosa de Viterbo",
+                "hu": "Santa Rosa de Viterbo",
+                "ro": "Santa Rosa de Viterbo",
+                "en": "Santa Rosa de Viterbo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Inneren dieser prächtigen Kirche, wo die Goldaltäre im Kerzenlicht glänzen, während es draußen regnet; Vorsicht vor Pfützen auf dem Vorplatz.",
+                "hu": "Zárja a napot e pazar templom belsejében, ahol az aranyoltárok csillognak a gyertyafényben, miközben kint esik; ügyeljen a templom előtti téren kialakuló tócsákra.",
+                "ro": "Încheiați ziua în interiorul acestei biserici somptuoase, unde altarele aurite strălucesc la lumina lumânărilor în timp ce plouă; atenție la bălțile de pe esplanadă.",
+                "en": "End the day inside this lavish church where the gold altars glow in the candlelight while it rains; watch out for deep puddles forming on the plaza outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Wintermorgen im Jardín Zenea, wenn die Luft klar und die Sonne mild ist. Mittags wärmen Sie sich in den sonnendurchfluteten Patios der Museen auf, die die Wärme der Steine speichern. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Kathedrale am späten Nachmittag besuchen, um das goldene Licht zu erleben. Der Abend endet bei kühleren Temperaturen vor der prächtig beleuchteten Fassade von Santa Rosa.",
+            "hu": "Élvezze a friss téli reggelt a Jardín Zenea fái alatt, amikor a levegő tiszta és a napfény lágyan simogat. Napközben a múzeumok napsütötte udvarai kínálnak kellemes meleget, mivel a kövek elraktározzák a napsütést. Mivel a nap már 17:00 körül nyugszik, látogassa meg a katedrálist késő délután az aranyló fényekért. Az este hűvösében a Santa Rosa díszkivilágítása nyújt felejthetetlen látványt.",
+            "ro": "Bucurați-vă de dimineața proaspătă de iarnă în Jardín Zenea, când aerul este curat și soarele blând. La prânz, încălziți-vă în curțile însorite ale muzeelor, unde piatra reține căldura solară. Deoarece soarele apune în jurul orei 17:00, vizitați catedrala după-amiaza târziu pentru a prinde lumina aurie. Seara se încheie cu temperaturi mai scăzute în fața fațadei iluminate a bisericii Santa Rosa.",
+            "en": "Enjoy the crisp winter morning at Jardín Zenea when the air is clear and the sunlight is gentle. During midday, warm up in the sun-drenched museum patios where the stones trap the solar heat. Since the sun sets around 17:00, visit the cathedral in the late afternoon to catch the golden light. The evening ends in cooler temperatures before the beautifully illuminated facade of Santa Rosa de Viterbo."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jardín Zenea",
+                "hu": "Jardín Zenea",
+                "ro": "Jardín Zenea",
+                "en": "Jardín Zenea"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie am Morgen mehrere Schichten Kleidung, da es im Schatten der Bäume kühl sein kann; genießen Sie die klare Wintersonne auf den Bänken am Kiosk.",
+                "hu": "Öltözzön rétegesen a reggeli órákban, mert a fák árnyékában hűvös lehet; élvezze a tiszta téli napsütést a pavilon melletti padokon ülve.",
+                "ro": "Purtați haine în mai multe straturi dimineața, deoarece la umbra copacilor poate fi răcoare; bucurați-vă de soarele clar de iarnă pe băncile de lângă chioșc.",
+                "en": "Dress in layers during the morning as it can be chilly in the shade of the trees; enjoy the clear winter sun on the benches near the central bandstand."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Querétaro",
+                "hu": "Querétaro Regionális Múzeuma",
+                "ro": "Muzeul Regional din Querétaro",
+                "en": "Museo Regional de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Der Innenhof fängt die Mittagssonne perfekt ein und bietet einen warmen Rückzugsort; nutzen Sie die Mittagszeit für den Besuch der Außenbereiche des Museums.",
+                "hu": "Az udvar tökéletesen befogja a déli napsütést, meleg menedéket nyújtva; időzítse a múzeum kültéri részeinek megtekintését a legnaposabb órákra.",
+                "ro": "Curtea interioară captează perfect soarele de la prânz, oferind un refugiu cald; programați vizitarea zonelor exterioare ale muzeului în orele cele mai însorite.",
+                "en": "The courtyard captures the midday sun perfectly, offering a warm retreat; time your visit to the outdoor areas of the museum during the sunniest hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería Libertad",
+                "hu": "Galería Libertad",
+                "ro": "Galeria Libertad",
+                "en": "Galería Libertad"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich kurzzeitig aufzuwärmen, während man Kunst genießt; die Innenräume sind im Winter angenehm temperiert und windgeschützt.",
+                "hu": "Ideális hely egy rövid felmelegedésre a művészetek élvezete közben; a belső terek télen kellemes hőmérsékletűek és védettek a hideg széltől.",
+                "ro": "Un loc ideal pentru a vă încălzi scurt timp în timp ce savurați arta; spațiile interioare sunt temperate plăcut iarna și protejate de vântul rece.",
+                "en": "An ideal spot for a short warm-up while enjoying art; the indoor spaces are pleasantly tempered in winter and protected from the occasional cool wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte Sacro",
+                "hu": "Szakrális Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Sacră",
+                "en": "Museo de Arte Sacro"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern können im Winter recht kühl sein; behalten Sie Ihre Jacke an, während Sie die beeindruckenden religiösen Exponate bewundern.",
+                "hu": "A vastag kőfalak télen elég hűvösek lehetnek; tartsa magán a kabátját, miközben a lenyűgöző vallási kiállítási tárgyakat csodálja a termekben.",
+                "ro": "Zidurile groase de piatră pot fi destul de reci iarna; păstrați jacheta pe voi în timp ce admirați exponatele religioase impresionante în interior.",
+                "en": "The thick stone walls can be quite chilly in winter; keep your jacket on while admiring the impressive religious exhibits inside the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte",
+                "hu": "Művészeti Múzeum",
+                "ro": "Muzeul de Artă",
+                "en": "Museo de Arte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das warme Nachmittagslicht im Innenhof für Fotos der Barock-Details; die tiefe Wintersonne hebt die Steinmetzarbeiten besonders hervor.",
+                "hu": "Használja ki a délutáni meleg fényeket az udvaron a barokk részletek fotózásához; a laposan beeső téli nap sugarai kiemelik a kőfaragványok szépségét.",
+                "ro": "Profitați de lumina caldă a după-amiezii în curte pentru poze ale detaliilor baroce; soarele de iarnă scoate în evidență măiestria sculpturilor în piatră.",
+                "en": "Take advantage of the warm afternoon light in the courtyard for photos of Baroque details; the low winter sun highlights the intricate stonework beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de Querétaro",
+                "hu": "Querétaro Katedrálisa",
+                "ro": "Catedrala din Querétaro",
+                "en": "Catedral de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale vor 17:00 Uhr, um das letzte Tageslicht durch die Fenster zu sehen; nach Sonnenuntergang kühlt es in den Straßen schnell ab.",
+                "hu": "Látogassa meg a katedrálist 17:00 előtt, hogy lássa az utolsó fényeket az ablakokon át; naplemente után az utcákon gyorsan lehűl a levegő.",
+                "ro": "Vizitați catedrala înainte de ora 17:00 pentru a vedea ultima lumină prin ferestre; după apusul soarelui, temperatura scade rapid pe străzile orașului.",
+                "en": "Visit the cathedral before 17:00 to see the last daylight through the windows; after sunset, the temperature drops quickly in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Rosa de Viterbo",
+                "hu": "Santa Rosa de Viterbo",
+                "ro": "Santa Rosa de Viterbo",
+                "en": "Santa Rosa de Viterbo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beleuchtete Fassade in der frühen Dunkelheit; die winterliche Abendluft ist erfrischend, aber eine warme Mütze oder ein Schal sind ratsam.",
+                "hu": "Csodálja meg a kivilágított homlokzatot a korai sötétségben; a téli esti levegő frissítő, de egy meleg sapka vagy sál már ajánlott ilyenkor.",
+                "ro": "Admirați fațada iluminată în întunericul timpuriu; aerul serii de iarnă este revigorant, dar o căciulă caldă sau un fular sunt recomandate acum.",
+                "en": "Admire the illuminated facade in the early darkness; the winter evening air is refreshing, but a warm hat or scarf is advisable for the walk back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a reggelt egy sima tekeréssel a gyönyörűen megőrzött pályaudvarra, amely nosztalgikus biccentés az utazás aranykora felé.\nDélben térjen vissza a városközpontba, hogy felfedezze a lenyűgöző modern művészeti kiállításokat és a főkatedrális nagyszerűségét.\nA délután lenyűgöző időutazást kínál a naptármúzeumban, mielőtt megcsodálna még egy látványos barokk építészetet.\nZárja a túrát azzal, hogy elkerekezik a csendes történelmi szökőkúthoz, élvezve a kellemes esti szellőt a város utcáin.",
         "ro": "Începeți-vă dimineața cu o plimbare lină către gara frumos conservată, un semn nostalgic la epoca de aur a călătoriilor.\nAmiaza vă aduce înapoi spre centrul orașului pentru a explora expoziții uimitoare de artă modernă și grandoarea catedralei.\nDupă-amiaza oferă o călătorie fascinantă prin timp la muzeul calendarului înainte de a admira arhitectura barocă spectaculoasă.\nÎncheiați-vă plimbarea pedalând până la fântâna istorică liniștită, bucurându-vă de briza plăcută de seară pe străzile orașului.",
         "en": "Start your morning with a smooth ride to the beautifully preserved railway station, a nostalgic nod to the golden age of travel.\nMidday brings you back towards the city center to explore striking modern art exhibits and the grandeur of the main cathedral.\nThe afternoon offers a fascinating journey through time at the calendar museum before admiring more spectacular Baroque architecture.\nConclude your ride by pedaling out to the quiet historic fountain, enjoying the pleasant evening breeze along the city streets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag auf dem Rad beginnt an der Alten Bahnstation, wo die Innenräume Schutz bieten. Mittags navigieren Sie vorsichtig über das nasse Kopfsteinpflaster zum Stadtmuseum. Am Nachmittag pausieren Sie im Kalendermuseum, um den stärksten Schauern zu entgehen. Da die Sicht bei Regen eingeschränkt sein kann, beenden Sie Ihre Tour frühzeitig am Fuente de los Balones, bevor die Dämmerung und der nasse Asphalt die Fahrt erschweren.",
+            "hu": "A kerékpáros túra az esőben a Régi Vasútállomás fedett tereiben indul. Délben óvatosan hajtson a vizes macskakövön a Városi Múzeum felé, ügyelve a csúszós kanyarokra. Délután a Naptármúzeum kínál száraz pihenőt a nagyobb záporok idején. Mivel az esőben romlanak a látási viszonyok, fejezze be korán a napot a Fuente de los Balones-nál, mielőtt a szürkület és a csúszós aszfalt veszélyessé válna.",
+            "ro": "O zi ploioasă pe bicicletă începe la Vechea Gară, unde interioarele oferă protecție. La prânz, navigați cu grijă pe piatra cubică umedă spre Muzeul Orașului, fiind atenți la virajele alunecoase. După-amiaza, faceți o pauză la Muzeul Calendarului pentru a evita cele mai puternice averse. Deoarece vizibilitatea scade pe ploaie, încheiați turul devreme la Fuente de los Balones înainte ca amurgul să facă drumul periculos.",
+            "en": "A rainy day on a bike starts at the Old Railway Station, where indoor exhibits offer shelter. At midday, navigate carefully over the wet cobblestones towards the City Museum, watching out for slippery turns. In the afternoon, take a break at the Calendar Museum to avoid the heaviest showers. Since visibility decreases in the rain, finish your tour early at Fuente de los Balones before twilight and wet asphalt make riding difficult."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antigua Estación del Ferrocarril",
+                "hu": "Régi Vasútállomás",
+                "ro": "Vechea Gară de Tren",
+                "en": "Centro Cultural Antigua Estación del Ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich und erkunden Sie die Waggons und Hallen; achten Sie auf glatte Metallschienen auf dem Boden bei Nässe.",
+                "hu": "Parkolja le kerékpárját fedett helyen, és fedezze fel a vagonokat; ügyeljen a földön lévő nedves fém sínekre, mert rendkívül csúszósak lehetnek.",
+                "ro": "Parcați bicicleta într-un loc acoperit și explorați vagoanele; atenție la șinele de metal umede de pe sol, deoarece pot fi extrem de alunecoase.",
+                "en": "Park your bike in a covered area and explore the train cars; watch out for wet metal rails on the ground as they become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Ciudad",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Orașului",
+                "en": "Museo de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt über Kopfsteinpflaster, das bei Regen sehr rutschig ist; fahren Sie langsam und nutzen Sie die Museumsflure zum Trocknen.",
+                "hu": "Az idevezető út macskaköves, ami esőben nagyon csúszik; hajtson lassan, és használja a múzeum folyosóit a ruházata megszárítására.",
+                "ro": "Drumul până aici este pe piatră cubică, care alunecă mult pe ploaie; pedalați încet și folosiți coridoarele muzeului pentru a vă usca hainele.",
+                "en": "The ride here is over cobblestones which are very slippery when wet; ride slowly and use the museum's corridors to dry off your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de Querétaro",
+                "hu": "Querétaro Katedrálisa",
+                "ro": "Catedrala din Querétaro",
+                "en": "Catedral de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen hilft, die Akkus aufzuladen; stellen Sie sicher, dass Ihre Bremsen bei Nässe gut funktionieren, bevor Sie weiterfahren.",
+                "hu": "Egy rövid megálló a száraz belsőben segít feltöltődni; mielőtt tovább indulna, ellenőrizze, hogy a fékek megfelelően fognak-e a vizes abroncsokon.",
+                "ro": "O oprire scurtă în interiorul uscat vă ajută să vă reîncărcați; înainte de a pleca, verificați dacă frânele funcționează corect pe jantele umede.",
+                "en": "A short stop in the dry interior helps you recharge; before heading out again, double-check that your brakes are working properly on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Calendario",
+                "hu": "Naptármúzeum",
+                "ro": "Muzeul Calendarului",
+                "en": "Museo de Calendario"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen im Garten von den überdachten Balkonen aus; ein perfekter Ort, um eine Regenpause bei einer Tasse Kaffee einzulegen.",
+                "hu": "Élvezze a kertre néző esős kilátást a fedett erkélyekről; tökéletes hely egy kávéra és pihenőre, amíg elvonul a leghevesebb zápor.",
+                "ro": "Bucurați-vă de vederea ploii în grădină de la balcoanele acoperite; un loc perfect pentru o cafea și o pauză până trece cea mai grea aversă.",
+                "en": "Enjoy the rainy view of the garden from the covered balconies; it's a perfect spot for a coffee break while waiting for the heaviest rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Rosa de Viterbo",
+                "hu": "Santa Rosa de Viterbo",
+                "ro": "Santa Rosa de Viterbo",
+                "en": "Santa Rosa de Viterbo"
+              },
+              "tip_5lang": {
+                "de": "Der Vorplatz kann Pfützen bilden, die tiefer sind als sie aussehen; umfahren Sie diese vorsichtig und genießen Sie die kühle Luft nach dem Regen.",
+                "hu": "A templom előtti téren mélyebb tócsák alakulhatnak ki, mint amilyennek látszanak; kerülje el őket óvatosan, és élvezze az eső utáni friss levegőt.",
+                "ro": "În piața din fața bisericii se pot forma bălți mai adânci decât par; ocoliți-le cu grijă și bucurați-vă de aerul proaspăt de după ploaie.",
+                "en": "Deep puddles can form on the plaza that are deeper than they look; avoid them carefully and enjoy the crisp air that follows a rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fuente de los Balones",
+                "hu": "La Fuente de los Balones",
+                "ro": "Fântâna cu Baloane",
+                "en": "La Fuente de los Balones"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser der Fontäne vermischt sich mit dem Regen zu einem dynamischen Schauspiel; beenden Sie die Tour, bevor der Boden zu rutschig für die Heimfahrt wird.",
+                "hu": "A szökőkút vize az esővel keveredve dinamikus látványt nyújt; fejezze be a túrát, mielőtt az aszfalt túl csúszóssá válna a hazatekeréshez.",
+                "ro": "Apa fântânii amestecată cu ploaia oferă un spectacol dinamic; încheiați turul înainte ca asfaltul să devină prea alunecos pentru drumul de întoarcere.",
+                "en": "The fountain's water mixing with the rain creates a dynamic scene; finish your tour before the ground becomes too slick for the ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Fahrt zur Alten Bahnstation ein, doch die Luft ist schneidend kalt. Mittags wärmt die Sonne die Stadtmauer und die Museen, was das Radeln angenehmer macht. Besuchen Sie die Kathedrale und das Kalendermuseum am frühen Nachmittag, um die letzte Wärme des Tages zu nutzen. Da es ab 17:00 Uhr merklich abkühlt, sollten Sie Ihre Tour rechtzeitig am Fuente de los Balones beenden, bevor der eisige Abendwind aufkommt.",
+            "hu": "A tiszta téli reggel hívogató a kerékpározáshoz a Régi Vasútállomás felé, de a levegő csípősen hideg. Délben a nap felmelegíti a városfalakat és a múzeumokat, így a tekerés is kellemesebbé válik. Látogassa meg a katedrálist kora délután, hogy kihasználja a nap utolsó melegét. Mivel 17:00 után jelentősen hűl a levegő, fejezze be a túrát időben a Fuente de los Balones-nál a jeges szél előtt.",
+            "ro": "O dimineață senină de iarnă vă invită la o plimbare spre Vechea Gară, dar aerul este tăios de rece. La prânz, soarele încălzește zidurile orașului și muzeele, făcând pedalatul mai plăcut. Vizitați catedrala devreme după-amiaza pentru a profita de ultima căldură a zilei. Deoarece după ora 17:00 se răcește semnificativ, încheiați turul la timp la Fuente de los Balones înainte de vântul înghețat.",
+            "en": "A clear winter morning is inviting for a ride to the Old Railway Station, but the air is biting cold. At midday, the sun warms the city walls and museums, making cycling much more pleasant. Visit the cathedral and the Calendar Museum in the early afternoon to catch the day's remaining warmth. Since it cools down significantly after 17:00, finish your tour at Fuente de los Balones before the icy evening wind starts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antigua Estación del Ferrocarril",
+                "hu": "Régi Vasútállomás",
+                "ro": "Vechea Gară de Tren",
+                "en": "Centro Cultural Antigua Estación del Ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt hierher, da der Fahrtwind im Winter sehr kalt ist; erkunden Sie die Hallen, um Ihre Finger wieder aufzuwärmen.",
+                "hu": "Viseljen szélálló kesztyűt az idevezető úton, mert a menetszél télen nagyon hideg; fedezze fel a csarnokokat, hogy ujjai újra felmelegedjenek.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drumul până aici, deoarece curentul este rece iarna; explorați halele pentru a vă încălzi degetele.",
+                "en": "Wear windproof gloves for the ride here as the wind chill is significant in winter; explore the indoor halls to get your fingers warm again."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Ciudad",
+                "hu": "Városi Múzeum",
+                "ro": "Muzeul Orașului",
+                "en": "Museo de la Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Gassen zum Museum sind kühler als die Hauptplätze; halten Sie Ihr Tempo moderat, um nicht durch den kalten Schweiß auszukühlen.",
+                "hu": "A múzeumhoz vezető árnyékos utcák hűvösebbek a főtereknél; tartson közepes tempót, hogy elkerülje a hideg izzadás miatti megfázást.",
+                "ro": "Străzile umbrite spre muzeu sunt mai reci decât piețele principale; mențineți un ritm moderat pentru a evita răceala cauzată de transpirația rece.",
+                "en": "The shaded streets leading to the museum are cooler than the main plazas; keep a moderate pace to avoid getting chilled from cold sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de Querétaro",
+                "hu": "Querétaro Katedrálisa",
+                "ro": "Catedrala din Querétaro",
+                "en": "Catedral de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sonnenstrahlen auf dem Vorplatz, bevor Sie in das kühle Innere gehen; ein warmer Tee in einer Thermoskanne ist ein guter Begleiter.",
+                "hu": "Élvezze a napsugarakat a templom előtti téren, mielőtt belépne a hűvös belsőbe; egy termoszban vitt meleg tea kiváló társ a téli túrán.",
+                "ro": "Bucurați-vă de razele soarelui în piața din față înainte de a intra în interiorul răcoros; un ceai cald la termos este un companion bun iarna.",
+                "en": "Enjoy the sunbeams on the plaza before entering the cool interior; a warm tea in a thermos is a great companion for your winter bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Calendario",
+                "hu": "Naptármúzeum",
+                "ro": "Muzeul Calendarului",
+                "en": "Museo de Calendario"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter oft windgeschützt und ein schöner Ort für eine Pause in der Nachmittagssonne; achten Sie auf die Zeit, da es früh dunkel wird.",
+                "hu": "A kert télen gyakran szélvédett, és remek hely egy pihenőre a délutáni napsütésben; ügyeljen az időre, mert korán kezd sötétedni.",
+                "ro": "Grădina este adesea ferită de vânt iarna și este un loc minunat pentru o pauză la soare; atenție la timp, deoarece se întunecă devreme.",
+                "en": "The garden is often sheltered from the wind in winter and is a lovely spot for a break in the afternoon sun; keep track of time as it gets dark early."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Rosa de Viterbo",
+                "hu": "Santa Rosa de Viterbo",
+                "ro": "Santa Rosa de Viterbo",
+                "en": "Santa Rosa de Viterbo"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht im Inneren bildet einen warmen Kontrast zur sinkenden Außentemperatur; ziehen Sie Ihre Jacke für die letzte Etappe wieder fest an.",
+                "hu": "A belső arany fények meleg kontrasztot alkotnak a kinti süllyedő hőmérséklettel; húzza fel jól a kabátját az utolsó szakasz előtt.",
+                "ro": "Luminile aurii din interior oferă un contrast cald cu temperatura exterioară în scădere; închideți bine jacheta pentru ultima etapă a drumului.",
+                "en": "The golden light inside provides a warm contrast to the dropping outdoor temperature; zip up your jacket tightly for the final leg of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fuente de los Balones",
+                "hu": "La Fuente de los Balones",
+                "ro": "Fântâna cu Baloane",
+                "en": "La Fuente de los Balones"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier gegen 17:00 Uhr, um den Sonnenuntergang zu sehen; die kalte Abendluft erfordert eine warme Schicht für den Rückweg.",
+                "hu": "Fejezze be a túrát itt 17:00 körül, hogy lássa a naplementét; a hideg esti levegő miatt szüksége lesz egy plusz meleg rétegre hazafelé.",
+                "ro": "Încheiați turul aici în jurul orei 17:00 pentru a vedea apusul; aerul rece al serii va necesita un strat cald suplimentar pentru drumul de întoarcere.",
+                "en": "Finish your ride here around 17:00 to catch the sunset; the cold evening air will require an extra warm layer for the journey back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Vezessen ki korán az El Cimatario zord lejtőire, élvezve az ősi vulkán természeti tájait és friss reggeli levegőjét.\nDélben az útja történelmi emlékművekhez és pontosan arra a dombra vezet, ahol Miksa császár a tragikus sorsára jutott.\nDélután visszatér a városi magba, a régi vasútállomás közelében parkolva, hogy felfedezze kulturális kínálatát.\nZárja az utazást a történelmi központban, a hatalmas regionális múzeumban, elmélyedve a helyi történelem gazdag szövetében.",
         "ro": "Conduceți devreme către pantele accidentate ale El Cimatario, bucurându-vă de peisajele naturale și de aerul proaspăt de dimineață al vulcanului antic.\nPână la amiază, călătoria vă poartă către monumente istorice și chiar pe dealul unde împăratul Maximilian și-a găsit soarta tragică.\nDupă-amiaza, veți trece înapoi în nucleul urban, parcând lângă vechea gară pentru a-i explora ofertele culturale.\nÎncheiați-vă călătoria în centrul istoric, la masivul muzeu regional, aprofundând istoria bogată a zonei.",
         "en": "Drive out early to the rugged slopes of El Cimatario, enjoying the natural landscapes and fresh morning air of the ancient volcano.\nBy midday, your road trip takes you to historical monuments and the very hill where Emperor Maximilian met his tragic fate.\nIn the afternoon, you will transition back to the urban core, parking near the old train station to explore its cultural offerings.\nWrap up your journey in the historic center at the massive regional museum, delving deep into the rich tapestry of local history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag beginnt mit einer mystischen Fahrt zum El Cimatario, wo Nebel die Hügel einhüllt. Mittags parken Sie in der Nähe des Stadtzentrums, um kurze Wege zu den Denkmälern zu haben. Der Nachmittag gehört der Alten Bahnstation und dem Regionalmuseum, wo Sie das Prasseln des Regens im Trockenen genießen können. Beenden Sie den Tag entspannt, während die Scheibenwischer den Rhythmus der Stadt im Regen vorgeben.",
+            "hu": "Az esős nap egy misztikus autózással indul az El Cimatario felé, ahol köd borítja a dombokat. Délben parkoljon a városközponthoz közel, hogy minimalizálja az esőben töltött időt a látnivalók között. A délutánt töltse a Régi Vasútállomáson és a Regionális Múzeumban, ahol szárazon élvezheti a történelem hangulatát. Zárja a napot kényelmesen, miközben az ablaktörlők ütemére figyeli az ázó várost.",
+            "ro": "O zi ploioasă începe cu o călătorie mistică spre El Cimatario, unde ceața învăluie dealurile. La prânz, parcați aproape de centrul orașului pentru a scurta distanțele de mers prin ploaie. După-amiaza aparține Vechii Gări și Muzeului Regional, unde puteți savura atmosfera istorică la adăpost. Încheiați ziua relaxat, ascultând ritmul ștergătoarelor și observând orașul sub ploaie.",
+            "en": "A rainy day begins with a mystical drive to El Cimatario, where fog often blankets the hills. At midday, park near the city center to minimize walking time between landmarks in the rain. Spend the afternoon at the Old Railway Station and the Regional Museum, where you can enjoy the historic atmosphere while staying dry. End the day comfortably, watching the rain-soaked city from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Cimatario",
+                "hu": "El Cimatario",
+                "ro": "El Cimatario",
+                "en": "El Cimatario"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen im Park können bei Regen rutschig und neblig sein; fahren Sie langsam und genießen Sie die grüne Frische der Natur aus dem Auto.",
+                "hu": "A parkban az utak csúszósak és ködösek lehetnek esőben; hajtson lassan, és élvezze a természet zöld frissességét az autó ablakából.",
+                "ro": "Drumurile din parc pot fi alunecoase și cu ceață pe ploaie; conduceți încet și bucurați-vă de prospețimea verde a naturii din mașină.",
+                "en": "The roads in the park can be slippery and foggy in the rain; drive slowly and enjoy the lush green freshness of nature from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Andrés Balvanera Martínez",
+                "hu": "Andrés Balvanera Martínez Emlékmű",
+                "ro": "Monumentul Andrés Balvanera Martínez",
+                "en": "Monumento a Andrés Balvanera Martínez"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen kurzen Fotostopp, da der Bereich ungeschützt ist; das Denkmal wirkt im grauen Regenlicht besonders monumental und ernst.",
+                "hu": "Csak egy rövid fotómegállót tartson, mivel a terület nyitott; az emlékmű a szürke esős fényben különösen monumentálisnak és komolynak hat.",
+                "ro": "Faceți doar o scurtă oprire pentru poze, deoarece zona este expusă; monumentul pare deosebit de impunător și sobru în lumina gri a ploii.",
+                "en": "Make only a short photo stop as the area is unsheltered; the monument looks particularly monumental and solemn in the grey rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla a Maximiliano",
+                "hu": "Miksa-kápolna",
+                "ro": "Capela lui Maximilian",
+                "en": "Capilla a Maximiliano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die Kapelle bietet eine stille, trockene Zuflucht mit historischer Bedeutung.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást; a kápolna csendes, száraz menedéket nyújt történelmi jelentőségével.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; capela oferă un refugiu liniștit și uscat, plin de semnificație istorică.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the chapel offers a quiet, dry refuge with significant historical depth."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Estación del Ferrocarril",
+                "hu": "Régi Vasútállomás",
+                "ro": "Vechea Gară de Tren",
+                "en": "Centro Cultural Antigua Estación del Ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Bahnhof für einen trockenen Übergang in die Kulturhallen; das Geräusch des Regens auf den Blechdächern ist markant.",
+                "hu": "Használja a közvetlenül az állomás mellett található parkolót a száraz bejutáshoz; a bádogtetőkön dobogó eső hangja karakteres élményt ad.",
+                "ro": "Folosiți parcarea de lângă gară pentru a intra rapid la adăpost; sunetul ploii pe acoperișurile de tablă oferă o experiență auditivă aparte.",
+                "en": "Use the parking right next to the station for a dry transition into the halls; the sound of rain drumming on the tin roofs is very atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Querétaro",
+                "hu": "Querétaro Regionális Múzeuma",
+                "ro": "Muzeul Regional din Querétaro",
+                "en": "Museo Regional de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Parkhaus in der Nähe, um den restlichen Tag im trockenen Zentrum zu verbringen; das Museum ist perfekt für lange Regennachmittage.",
+                "hu": "Keressen egy közeli parkolóházat, hogy a nap hátralévő részét a száraz központban töltse; a múzeum tökéletes a hosszú esős délutánokra.",
+                "ro": "Căutați o parcare acoperită în apropiere pentru a petrece restul zilei în centru; muzeul este perfect pentru după-amiezi lungi cu ploaie.",
+                "en": "Find a parking garage nearby to spend the rest of the day in the dry city center; the museum is perfect for long, rainy afternoons."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen beginnt mit einer Fahrt zum El Cimatario, wo die Sicht auf die Stadt bei der klaren Luft atemberaubend ist. Mittags nutzen Sie die Bequemlichkeit des Autos, um schnell zwischen den historischen Denkmälern zu wechseln. Da es früh dunkel wird, sollten Sie die Alte Bahnstation am frühen Nachmittag besuchen. Der Tag endet im Regionalmuseum, während draußen die kühle Abendluft die Straßen von Querétaro übernimmt.",
+            "hu": "A ragyogó téli reggel egy autózással indul az El Cimatario felé, ahonnan a tiszta levegőben lélegzetelállító kilátás nyílik a városra. Délben használja ki az autó kényelmét, hogy gyorsan váltson a történelmi emlékművek között. Mivel korán sötétedik, a Régi Vasútállomást kora délután látogassa meg. A nap a Regionális Múzeumban ér véget, miközben kint a hűvös esti levegő átveszi az uralmat.",
+            "ro": "O dimineață strălucitoare de iarnă începe cu o călătorie spre El Cimatario, de unde priveliștea asupra orașului este uluitoare în aerul curat. La prânz, folosiți confortul mașinii pentru a ajunge rapid la monumentele istorice. Deoarece se întunecă devreme, vizitați Vechea Gară după-amiaza devreme. Ziua se încheie la Muzeul Regional, în timp ce afară aerul rece al serii cuprinde străzile.",
+            "en": "A brilliant winter morning starts with a drive to El Cimatario, where the views over the city are breathtaking in the clear air. At midday, use the comfort of your car to travel quickly between historical monuments. Since it gets dark early, visit the Old Railway Station in the early afternoon. The day concludes at the Regional Museum as the cool evening air settles over the streets of Querétaro."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Cimatario",
+                "hu": "El Cimatario",
+                "ro": "El Cimatario",
+                "en": "El Cimatario"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter durch die geringe Luftfeuchtigkeit am besten; bringen Sie eine warme Jacke für den kurzen Spaziergang zum Aussichtspunkt mit.",
+                "hu": "A kilátás télen a legjobb az alacsony páratartalom miatt; vigyen magával egy meleg kabátot a kilátóponthoz vezető rövid sétához.",
+                "ro": "Vizibilitatea este maximă iarna datorită umidității scăzute; luați o jachetă groasă pentru scurta plimbare până la punctul de belvedere.",
+                "en": "The long-distance views are best in winter due to low humidity; bring a warm jacket for the short walk to the lookout point from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Andrés Balvanera Martínez",
+                "hu": "Andrés Balvanera Martínez Emlékmű",
+                "ro": "Monumentul Andrés Balvanera Martínez",
+                "en": "Monumento a Andrés Balvanera Martínez"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Wintersonne am Denkmal; das Licht steht am Vormittag perfekt für beeindruckende Fotos der historischen Details.",
+                "hu": "Élvezze a meleg téli napsütést az emlékműnél; a fények délelőtt tökéletesek a történelmi részletek látványos fotózásához.",
+                "ro": "Bucurați-vă de soarele cald de iarnă la monument; lumina este perfectă dimineața pentru fotografii impresionante ale detaliilor istorice.",
+                "en": "Enjoy the warm winter sun at the monument; the morning light is perfect for taking impressive photos of the historical architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla a Maximiliano",
+                "hu": "Miksa-kápolna",
+                "ro": "Capela lui Maximilian",
+                "en": "Capilla a Maximiliano"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle kann im Winter innen kühl sein; nutzen Sie den Besuch für eine kurze, besinnliche Pause, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A kápolna belseje télen hűvös lehet; használja a látogatást egy rövid, elmélyült pihenőre, mielőtt az autóban újra felmelegedne.",
+                "ro": "Interiorul capelei poate fi răcoros iarna; folosiți vizita pentru o scurtă pauză de meditație înainte de a vă reîncălzi în mașină.",
+                "en": "The interior of the chapel can be cool in winter; use the visit for a brief, contemplative break before warming up again in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua Estación del Ferrocarril",
+                "hu": "Régi Vasútállomás",
+                "ro": "Vechea Gară de Tren",
+                "en": "Centro Cultural Antigua Estación del Ferrocarril"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Station am frühen Nachmittag, um das schönste Licht in den Hallen zu erleben; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Látogassa meg az állomást kora délután, hogy a legszebb fényeket lássa a csarnokokban; ügyeljen a korai, 17:00 körüli naplementére.",
+                "ro": "Vizitați gara după-amiaza devreme pentru a prinde cea mai frumoasă lumină în hale; atenție la apusul timpuriu, în jurul orei 17:00.",
+                "en": "Visit the station in the early afternoon to experience the best light in the halls; keep in mind the early sunset around 17:00 in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Querétaro",
+                "hu": "Querétaro Regionális Múzeuma",
+                "ro": "Muzeul Regional din Querétaro",
+                "en": "Museo Regional de Querétaro"
+              },
+              "tip_5lang": {
+                "de": "Die Patios speichern die Wärme des Tages; genießen Sie den späten Nachmittag in den Arkaden, bevor die winterliche Kälte am Abend einsetzt.",
+                "hu": "Az udvarok elraktározzák a nappali meleget; élvezze a késő délutánt az árkádok alatt, mielőtt a téli esti hideg leszállna a városra.",
+                "ro": "Curțile interioare rețin căldura zilei; bucurați-vă de după-amiaza târzie sub arcade înainte ca frigul serii de iarnă să cuprindă orașul.",
+                "en": "The patios store the day's warmth; enjoy the late afternoon under the arches before the winter evening cold sets in over the city."
+              }
+            }
+          ]
+        }
       }
     }
   }

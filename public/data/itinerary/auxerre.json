@@ -160,6 +160,196 @@
         "hu": "Indítsa a napot az ikonikus óratoronynál, majd merüljön el a helyi művészetekben a múzeumban. Délben csodálja meg a Saint-Eusèbe templomot és a fenséges gótikus katedrálist. Délután sétáljon át a folyón a legjobb fotópontokért, végül fedezze fel a történelmi Saint-Germain apátságot.",
         "ro": "Începeți dimineața la iconicul Turn cu Ceas, apoi descoperiți arta la muzeul local. La prânz, vizitați biserica Saint-Eusèbe și impresionanta catedrală gotică. După-amiaza, traversați pasarela pentru fotografii de neuitat și încheiați ziua explorând abația istorică Saint-Germain.",
         "en": "Start your morning at the iconic Clock Tower before diving into local art at the museum. Midday is perfect for admiring the Saint-Eusèbe church and the majestic Gothic cathedral. In the afternoon, cross the river bridge for stunning photos, and conclude your walking tour at the historic abbey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen unter dem Schirm nahe dem Uhrenturm und flüchten Sie dann ins Museum. Mittags bieten die Kirchen trockene Zuflucht. Nachmittags überqueren Sie vorsichtig die nasse Brücke. Beenden Sie den Tag geschützt in der alten Abtei.",
+            "hu": "Kezdje az esős reggelt esernyővel az óratoronynál, majd húzódjon be a múzeumba. Délben a templomok nyújtanak száraz és békés menedéket. Délután óvatosan keljen át a csúszós gyaloghídon. A napot az ősi apátság védett falai között zárja.",
+            "ro": "Începeți dimineața ploioasă sub umbrelă la turnul cu ceas, apoi refugiați-vă în muzeu. La prânz, bisericile oferă un sanctuar uscat și pașnic. După-amiaza, traversați cu grijă podul ud. Încheiați ziua la adăpostul zidurilor vechii abații.",
+            "en": "Start your wet morning under your umbrella near the clock tower, then escape the rain in the museum. By noon, the churches offer dry, peaceful sanctuaries. In the afternoon, cross the river carefully on wet surfaces. End your day inside the ancient abbey walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tour de l'Horloge",
+                "hu": "Tour de l'Horloge",
+                "ro": "Tour de l'Horloge",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Zifferblatt unter Ihrem Regenschirm, aber achten Sie auf die rutschigen nassen Pflastersteine.",
+                "hu": "Csodálja meg az óralapot az esernyő alól, de nagyon vigyázzon a vizes és csúszós macskaköveken lépkedve.",
+                "ro": "Admirați cadranul ceasului de sub umbrelă, dar fiți atenți la pașii pe pietrele cubice alunecoase și ude.",
+                "en": "Admire the intricate clock face from under your umbrella, but watch your step on the slick cobblestones below."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Leblanc-Duvernoy",
+                "hu": "Musée Leblanc-Duvernoy",
+                "ro": "Musée Leblanc-Duvernoy",
+                "en": "Musée Leblanc-Duvernoy"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie wunderschöne Wandteppiche im Inneren, die eine perfekte, trockene kulturelle Flucht vor dem Regen bieten.",
+                "hu": "Fedezze fel a gyönyörű falikárpitokat bent, amely tökéletes és száraz kulturális menedéket nyújt az eső elől.",
+                "ro": "Explorați tapiseriile frumoase înăuntru, oferind o evadare culturală uscată și perfectă din calea ploii.",
+                "en": "Explore the beautiful tapestries and ceramics inside, providing a perfect, dry cultural escape from the steady rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die markante Architektur in diesem trockenen Heiligtum, ideal um den Regen für einen Moment abzuschütteln.",
+                "hu": "Fedezze fel a lenyűgöző építészetet ebben a száraz szentélyben, amely ideális egy esőmentes, csendes pillanatra.",
+                "ro": "Descoperiți arhitectura impresionantă în acest sanctuar uscat, ideal pentru a scăpa de ploaie pentru un moment.",
+                "en": "Discover striking architecture and stained glass in this dry sanctuary, ideal for shaking off the rain for a quiet moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Étienne",
+                "hu": "Cathédrale Saint-Étienne",
+                "ro": "Cathédrale Saint-Étienne",
+                "en": "Cathédrale Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Das majestätische gotische Innere ist ein perfektes Regenrefugium; sehen Sie das Licht durch nasse Buntglasfenster.",
+                "hu": "A fenséges gótikus belső tér tökéletes menedék; figyelje meg, hogyan szűrődik be a fény a nedves ólomüveg ablakokon.",
+                "ro": "Interiorul gotic majestuos este un refugiu perfect pe ploaie; priviți lumina trecând prin vitraliile umede.",
+                "en": "The majestic Gothic interior is a perfect rainy-day refuge; watch how subdued light filters through damp stained glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle de l'Yonne",
+                "hu": "Passerelle de l'Yonne",
+                "ro": "Passerelle de l'Yonne",
+                "en": "Passerelle de l'Yonne"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom nebligen Fluss, aber halten Sie sich gut fest, da die nassen Holzplanken rutschig sind.",
+                "hu": "Készítsen egy gyors fotót a ködös folyóról, de kapaszkodjon erősen, mert a vizes fapallók nagyon csúszósak.",
+                "ro": "Faceți o poză rapidă cu râul cețos, dar țineți-vă bine de balustrade, deoarece scândurile umede sunt alunecoase.",
+                "en": "Take a quick photo of the misty river views, but hold onto the handrails tightly as the wet wooden planks get slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Germain",
+                "hu": "Abbaye Saint-Germain",
+                "ro": "Abbaye Saint-Germain",
+                "en": "Abbaye Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Krypten ein, eine hervorragende Möglichkeit, einen nassen Nachmittag völlig geschützt zu verbringen.",
+                "hu": "Merüljön el a lenyűgöző kriptákban, amely kiváló módja annak, hogy a vizes délutánt teljesen védett helyen töltse.",
+                "ro": "Pătrundeți în criptele fascinante, o modalitate excelentă de a petrece o după-amiază ploioasă complet protejat.",
+                "en": "Delve into the fascinating crypts and indoor exhibitions, an excellent way to spend a wet afternoon entirely shielded."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für den kalten Wintermorgen am Uhrenturm warm ein und wärmen Sie sich im Museum auf. Mittags bieten die kühlen Kirchen eine ruhige Atmosphäre. Da die Sonne früh untergeht, genießen Sie den Nachmittag beim zügigen Gang über den Fluss zur Abtei.",
+            "hu": "Öltözzön melegen a csípős téli reggelre az óratoronynál, majd melegedjen fel a múzeumban. Délben a fűtetlen történelmi templomok békések, de hűvösek. Mivel korán sötétedik, a délutáni folyóparti séta után még sötétedés előtt érjen az apátságba.",
+            "ro": "Îmbrăcați-vă gros pentru dimineața de iarnă la turnul cu ceas înainte de a vă încălzi în muzeu. La prânz, bisericile istorice sunt reci, așa că păstrați haina. Cum soarele apune devreme, bucurați-vă de plimbarea pe pod spre abație înainte de seară.",
+            "en": "Bundle up for a crisp winter morning at the clock tower before warming up in the museum. Midday brings a serene atmosphere to the unheated historic churches, so keep your coat on. As the sun sets early, enjoy a brisk afternoon walk over the river to the abbey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tour de l'Horloge",
+                "hu": "Tour de l'Horloge",
+                "ro": "Tour de l'Horloge",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die goldene Uhr vor dem grauen Winterhimmel; tragen Sie warme Handschuhe für Fotos im Freien.",
+                "hu": "Csodálja meg az arany csillagászati órát a szürke téli égbolt előtt; viseljen meleg kesztyűt a fotózáshoz.",
+                "ro": "Minunați-vă de ceasul astronomic de aur pe cerul gri de iarnă; purtați mănuși calde pentru a face poze afară.",
+                "en": "Marvel at the golden astronomical clock against the grey winter sky; wear warm gloves for taking outdoor photos here."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Leblanc-Duvernoy",
+                "hu": "Musée Leblanc-Duvernoy",
+                "ro": "Musée Leblanc-Duvernoy",
+                "en": "Musée Leblanc-Duvernoy"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume mit feinem Porzellan, die eine willkommene Pause vom eisigen Winterwind bieten.",
+                "hu": "Élvezze a fűtött szobákat, ahol finom porcelánokat állítanak ki, menedéket nyújtva a fagyos téli szelek elől.",
+                "ro": "Bucurați-vă de camerele încălzite cu porțelan fin, oferind o pauză binevenită de la vânturile înghețate de iarnă.",
+                "en": "Enjoy the cozy, heated rooms showcasing fine porcelain and art, offering a welcome break from the freezing winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Die Steinböden sind im Winter eiskalt, lassen Sie also Ihre Stiefel an, während Sie das ruhige Innere bewundern.",
+                "hu": "A kőpadló télen jéghideg, ezért tartsa magán a vastag csizmát, miközben a békés, történelmi belső teret csodálja.",
+                "ro": "Podelele din piatră sunt reci iarna, așa că păstrați cizmele groase în timp ce admirați interiorul istoric liniștit.",
+                "en": "The stone floors are freezing in winter, so keep your heavy boots on while admiring the serene, dimly lit historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Étienne",
+                "hu": "Cathédrale Saint-Étienne",
+                "ro": "Cathédrale Saint-Étienne",
+                "en": "Cathédrale Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die gotischen Bögen, aber lassen Sie den Wintermantel an, da die große Steinkathedrale sehr kühl ist.",
+                "hu": "Csodálja meg a gótikus íveket, de tartsa összehúzva a télikabátot, mert a hatalmas kőkatedrális nagyon hűvös lehet.",
+                "ro": "Minunați-vă de arcele gotice, dar țineți haina de iarnă închisă, deoarece vasta catedrală de piatră poate fi rece.",
+                "en": "Marvel at the stunning Gothic arches, but keep your winter coat zipped up as the vast stone cathedral can be very chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle de l'Yonne",
+                "hu": "Passerelle de l'Yonne",
+                "ro": "Passerelle de l'Yonne",
+                "en": "Passerelle de l'Yonne"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frostige Aussicht auf die Yonne, aber wickeln Sie Ihren Schal fest, um den eisigen Wind abzublocken.",
+                "hu": "Élvezze a fagyos kilátást a Yonne folyóra, de kösse meg jól a sálját, hogy kivédje a hídon átfújó csípős szelet.",
+                "ro": "Bucurați-vă de priveliștile geroase peste râul Yonne, dar înfășurați-vă fularul strâns contra vântului tăios pe pod.",
+                "en": "Enjoy the stark, frosty views over the river Yonne, but wrap your scarf tight to block the biting wind crossing the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Germain",
+                "hu": "Abbaye Saint-Germain",
+                "ro": "Abbaye Saint-Germain",
+                "en": "Abbaye Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alten Krypten vor dem frühen Sonnenuntergang gegen 17 Uhr; die Untergeschosse wirken gut isoliert.",
+                "hu": "Fedezze fel az ősi kriptákat a korai, 17 óra körüli sötétedés előtt; a föld alatti szintek meglepően jól szigeteltek.",
+                "ro": "Explorați vechile cripte înainte de apusul devreme în jur de ora 17:00; nivelurile subterane par surprinzător de izolate.",
+                "en": "Explore the ancient crypts before the early sunset around 5 PM; the subterranean levels feel surprisingly insulated."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpáros túra a történelmi Saint-Germain apátságnál kezdődik, ahonnan a fenséges katedrálishoz pedálozunk. Délben az óváros központjában az óratornyot és a templomot fedezzük fel. Délután átkelünk az Yonne folyón, és a L'Arbre-Sec park zöldjében pihenjük ki a napot.",
         "ro": "Turul pe bicicletă începe istoric la Abația Saint-Germain, continuând spre magnifica catedrală. La prânz, pedalați spre centrul vechi pentru a vedea Turnul cu Ceas și biserica. După-amiaza, traversați râul Yonne și relaxați-vă în atmosfera verde a parcului L'Arbre-Sec.",
         "en": "Your cycling adventure begins at the historic abbey and flows naturally toward the magnificent cathedral. Midday, pedal to the iconic Clock Tower and the nearby church. In the afternoon, cross the scenic river bridge to unwind in the expansive greenery of the L'Arbre-Sec park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie Regenkleidung für die nasse Fahrt zur Abtei und Kathedrale an. Mittags fahren Sie vorsichtig durch das rutschige Zentrum zum Uhrenturm. Nachmittags überqueren Sie die glatte Brücke und enden am Park, wo die Spielgeräte nass sein können.",
+            "hu": "Vegyen fel esőruhát a reggeli tekeréshez az apátságba. Délben óvatosan navigáljon a csúszós macskaköveken az óratoronyhoz. Délután keljen át a vizes gyaloghídon, és fejezze be a napot a parkban, bár a játszótér eszközei sárosak lehetnek.",
+            "ro": "Purtați haine de ploaie pentru o plimbare umedă spre abație și catedrală. La prânz, navigați cu atenție prin centrul alunecos. După-amiaza, traversați podul alunecos și încheiați la parc, deși zonele de joacă pot fi pline de noroi și ude.",
+            "en": "Put on your rain gear for a wet morning ride to the abbey and cathedral. By midday, navigate the slippery historic center towards the clock tower and church. In the afternoon, carefully cross the slick pedestrian bridge and end at the park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abbaye Saint-Germain",
+                "hu": "Abbaye Saint-Germain",
+                "ro": "Abbaye Saint-Germain",
+                "en": "Abbaye Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad sicher ab und betreten Sie die Krypten, um Schutz vor den starken Regengüssen zu suchen.",
+                "hu": "Zárja le biztonságosan kerékpárját, és lépjen be a kriptákba, hogy menedéket találjon a heves esőzések elől.",
+                "ro": "Blocați bicicleta în siguranță și intrați în cripte pentru a vă adăposti de ploile torențiale puternice.",
+                "en": "Keep your bike locked securely and step inside the crypts to shelter from the heavy morning downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Étienne",
+                "hu": "Cathédrale Saint-Étienne",
+                "ro": "Cathédrale Saint-Étienne",
+                "en": "Cathédrale Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und trocknen Sie sich in diesem massiven gotischen Bauwerk ab; achten Sie auf rutschige Stufen.",
+                "hu": "Parkolja le a biciklit, és száradjon meg ebben a masszív gótikus épületben; vigyázzon a csúszós lépcsőkre.",
+                "ro": "Parcați bicicleta și uscați-vă în această structură gotică masivă; aveți grijă la treptele alunecoase.",
+                "en": "Park your bike and dry off inside this massive Gothic structure; watch out for slippery wet steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de l'Horloge",
+                "hu": "Tour de l'Horloge",
+                "ro": "Tour de l'Horloge",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf den glatten Pflastersteinen rund um den Turm und genießen Sie die Aussicht unter Ihrer Regenkapuze.",
+                "hu": "Fékezzen óvatosan a csúszós macskaköveken a torony körül, és élvezze a kilátást az esőkabát kapucnija alól.",
+                "ro": "Frânați cu grijă pe pietrele cubice alunecoase din jurul turnului și bucurați-vă de priveliște sub gluga de ploaie.",
+                "en": "Brake carefully on the slick cobblestones around the tower and enjoy the view safely under your rain hood."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Stopp auf Ihrer nassen Fahrt; wischen Sie Ihren Fahrradsattel ab, bevor Sie weiterfahren.",
+                "hu": "Csendes, száraz megálló a vizes úton; törölje le a kerékpár nyergét, mielőtt folytatná az utat az esőben.",
+                "ro": "O oprire liniștită și uscată pe drumul umed; ștergeți șaua bicicletei înainte de a continua prin ploaie.",
+                "en": "A quiet, dry stop on your wet ride; wipe down your bike seat before continuing through the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle de l'Yonne",
+                "hu": "Passerelle de l'Yonne",
+                "ro": "Passerelle de l'Yonne",
+                "en": "Passerelle de l'Yonne"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie Ihr Fahrrad über diese Holzbrücke, da die nassen Planken extrem rutschig sind.",
+                "hu": "Szálljon le, és tolja át a kerékpárt ezen a fahídon, mivel a vizes deszkák rendkívül csúszósak tudnak lenni.",
+                "ro": "Descălecați și mergeți pe lângă bicicletă pe acest pod de lemn, deoarece scândurile umede sunt extrem de alunecoase.",
+                "en": "Dismount and walk your bike across this wooden bridge, as the wet planks are extremely slippery for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "hu": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "ro": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "en": "Aire de Jeux du stade nautique de l'Arbre-Sec"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege könnten schlammig sein, bleiben Sie auf den befestigten Pfaden und tragen Sie wasserdichte Radkleidung.",
+                "hu": "A park ösvényei sárosak lehetnek, így maradjon a burkolt utakon, és viseljen vízálló kerékpáros felszerelést.",
+                "ro": "Potecile parcului pot fi noroioase, așa că rămâneți pe cărările pavate și purtați echipament de ciclism impermeabil.",
+                "en": "The park trails might be muddy, so stick to the paved paths and wear your waterproof cycling gear here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tragen Sie Thermokleidung für die frostige Fahrt zur Abtei. Mittags radeln Sie durch die kalte Luft zum Uhrenturm. Da es früh dunkel wird, eilen Sie im eisigen Wind über den Fluss, um Ihre Tour vor Einbruch der Dunkelheit am Park zu beenden.",
+            "hu": "Öltözzön rétegesen a fagyos reggeli kerékpározáshoz az apátsághoz. Délben tekerjen a csípős levegőn az óratorony felé. Mivel 17 óra körül sötétedik, siessen át a folyón a hideg szélben, hogy még világosban érjen a parkba.",
+            "ro": "Purtați haine termice pentru o plimbare geroasă spre abație. La prânz, pedalați prin aerul rece către turnul cu ceas. Cum soarele apune devreme, grăbiți-vă peste râu în vântul înghețat pentru a termina traseul înainte de seară.",
+            "en": "Wear thermal layers for a frosty morning ride to the majestic abbey and cathedral. Around noon, pedal through the crisp air to the clock tower. With the sun setting early, rush across the river in the freezing wind to finish before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abbaye Saint-Germain",
+                "hu": "Abbaye Saint-Germain",
+                "ro": "Abbaye Saint-Germain",
+                "en": "Abbaye Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zügig zur Abtei, um sich aufzuwärmen; die alten Krypten sind erstaunlich gut vor dem Winterfrost geschützt.",
+                "hu": "Tekerjen fürgén az apátságba, hogy bemelegedjen; az ősi beltéri kripták meglepően jól védettek a téli fagytól.",
+                "ro": "Pedalați rapid spre abație pentru a vă încălzi; criptele antice interioare sunt surprinzător de protejate de ger.",
+                "en": "Pedal briskly to the abbey to warm up; the ancient indoor crypts are surprisingly shielded from the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Étienne",
+                "hu": "Cathédrale Saint-Étienne",
+                "ro": "Cathédrale Saint-Étienne",
+                "en": "Cathédrale Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Winde um den Platz sind beißend, parken Sie also schnell und suchen Sie Schutz in den Steinmauern.",
+                "hu": "A katedrális terén a jeges szél csípős, ezért gyorsan parkoljon le, és keressen menedéket a kőfalak között.",
+                "ro": "Vânturile înghețate din piață sunt tăioase, parcați rapid și căutați adăpost în interiorul zidurilor de piatră.",
+                "en": "The icy winds around the cathedral square are biting, so park quickly and seek shelter inside the stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de l'Horloge",
+                "hu": "Tour de l'Horloge",
+                "ro": "Tour de l'Horloge",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die goldene Uhr in der Wintersonne, aber behalten Sie die Radhandschuhe an, um nicht zu frieren.",
+                "hu": "Fotózza le az arany órát a téli napsütésben, de tartsa magán a kerékpáros kesztyűt, nehogy lefagyjanak az ujjai.",
+                "ro": "Fotografiați ceasul de aur în soarele de iarnă, dar păstrați mănușile de ciclism pentru a nu vă îngheța degetele.",
+                "en": "Snap a photo of the golden clock in the winter sun, but keep your cycling gloves on to prevent freezing fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese unbeheizte, aber friedliche Kirche, um dem beißenden Winterwind während Ihrer Tour zu entkommen.",
+                "hu": "Lépjen be ebbe a fűtetlen, de békés templomba, hogy elmeneküljön a csípős téli szél elől a hűvös biciklitúra során.",
+                "ro": "Intrați în această biserică neîncălzită, dar liniștită, pentru a scăpa de vântul de iarnă în timpul turului rece.",
+                "en": "Step inside this unheated but peaceful church to escape the biting winter wind during your chilly bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle de l'Yonne",
+                "hu": "Passerelle de l'Yonne",
+                "ro": "Passerelle de l'Yonne",
+                "en": "Passerelle de l'Yonne"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Brise vom Fluss ist eiskalt; überqueren Sie die Brücke schnell und vorsichtig vor dem Sonnenuntergang.",
+                "hu": "A folyó felől fújó fagyos szellő jéghideg; keljen át gyorsan és óvatosan a kerékpárral a korai naplemente előtt.",
+                "ro": "Briza geroasă de pe râu este înghețată; traversați rapid și cu grijă pe bicicletă înainte de apusul devreme.",
+                "en": "The frosty breeze off the river is freezing; cross quickly and carefully on your bike before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "hu": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "ro": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "en": "Aire de Jeux du stade nautique de l'Arbre-Sec"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre frostige Fahrt vor 17 Uhr, um nicht im Dunkeln zu radeln; der Park ist in der Winterkälte friedlich.",
+                "hu": "Fejezze be fagyos útját 17 óra előtt, hogy elkerülje a sötétben való tekerést; a park békés a téli hidegben.",
+                "ro": "Terminați cursa geroasă înainte de ora 17:00 pentru a evita ciclismul pe întuneric; parcul este pașnic iarna.",
+                "en": "Finish your frosty ride before 5 PM to avoid cycling in the dark; the park is peaceful in the winter cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap izgalmas kalózkalanddal indul, amely tökéletes a családoknak. Ezt követően vezessen az apátsághoz és a lenyűgöző katedrálishoz. Délben a központ óratornya és a helyi múzeum várja. A késő délutánt a folyóparti játszótéren töltheti, ahol kényelmesen levezetheti az élményeket.",
         "ro": "Ziua începe cu o aventură cu pirați, ideală pentru familii. Conduceți apoi spre Abația Saint-Germain și măreața catedrală. La prânz, explorați Turnul cu Ceas și muzeul din centrul orașului. După-amiaza târziu este perfectă pentru relaxare la locul de joacă extins de pe malul râului.",
         "en": "Begin the day with a fun pirate adventure perfect for families, then drive to the historic abbey and cathedral. Midday allows you to explore the Clock Tower and the museum in the city center. Late afternoon provides the perfect opportunity to relax at the large riverside playground."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie im Regen zum Indoor-Spielpark und parken Sie dann nahe der Abtei. Mittags huschen Sie unter dem Schirm zwischen Kathedrale und Uhrenturm. Verbringen Sie den Nachmittag trocken im Museum, bevor Sie den regnerischen Park besuchen.",
+            "hu": "Vezessen az esőben a fedett játszóházhoz, majd parkoljon le az apátságnál. Délben esernyővel siessen a katedrális és az óratorony között. Töltsön egy száraz délutánt a múzeumban, mielőtt tesz egy gyors, nedves sétát a szabadtéri parkban.",
+            "ro": "Conduceți prin ploaie dimineața la parcul de joacă acoperit, apoi parcați lângă abație. La prânz, fugiți între catedrală și turn sub umbrelă. Petreceți o după-amiază uscată în muzeu înainte de o vizită scurtă și umedă la parcul în aer liber.",
+            "en": "Drive through the rain for an indoor morning at the play park, then park near the abbey. By noon, dash between the cathedral and the clock tower under an umbrella. Spend a dry afternoon in the museum before a damp visit to the outdoor park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Corsaires et Pirates",
+                "hu": "Corsaires et Pirates",
+                "ro": "Corsaires et Pirates",
+                "en": "Corsaires et Pirates"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Vergnügungszentrum ist der perfekte Start in den regnerischen Morgen und hält die Familie trocken.",
+                "hu": "Ez a fedett vidámpark tökéletes esős reggeli kezdés, amely órákon át szárazon tartja és szórakoztatja a családot.",
+                "ro": "Acest centru de distracții interior este un început perfect de dimineață ploioasă, ținând familia uscată.",
+                "en": "This indoor amusement center is the perfect rainy morning start, keeping the whole family dry and entertained."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Germain",
+                "hu": "Abbaye Saint-Germain",
+                "ro": "Abbaye Saint-Germain",
+                "en": "Abbaye Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und eilen Sie in die Krypten, um den anhaltenden morgendlichen Regenschauern zu entgehen.",
+                "hu": "Parkoljon a közelben, és siessen be a védett kriptákba, hogy teljesen elkerülje a tartós reggeli esőzéseket.",
+                "ro": "Parcați aproape și grăbiți-vă în criptele adăpostite pentru a evita complet averselor persistente de dimineață.",
+                "en": "Park close by and rush inside the sheltered crypts to completely avoid the persistent morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Étienne",
+                "hu": "Cathédrale Saint-Étienne",
+                "ro": "Cathédrale Saint-Étienne",
+                "en": "Cathédrale Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm bereit für den kurzen Weg vom Auto zum trockenen, prächtigen gotischen Inneren.",
+                "hu": "Tartson kéznél egy esernyőt a rövid sétához az autótól a katedrális száraz, csodálatos gótikus belső teréig.",
+                "ro": "Păstrați o umbrelă la îndemână pentru scurta plimbare de la mașină la interiorul gotic uscat și magnific.",
+                "en": "Keep an umbrella handy for the short walk from your car to the cathedral's dry, magnificent Gothic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de l'Horloge",
+                "hu": "Tour de l'Horloge",
+                "ro": "Tour de l'Horloge",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Pflaster; bewundern Sie die Uhr aus dem Auto, wenn es zu stark regnet.",
+                "hu": "Vezessen lassan a vizes macskaköveken; csodálja meg az órát az autóból, ha kint túlságosan szakad az eső.",
+                "ro": "Conduceți încet pe pietrele cubice ude; admirați ceasul din mașină dacă plouă prea tare afară.",
+                "en": "Drive slowly on the wet cobblestones nearby; admire the clock from the car if the rain is coming down too hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Leblanc-Duvernoy",
+                "hu": "Musée Leblanc-Duvernoy",
+                "ro": "Musée Leblanc-Duvernoy",
+                "en": "Musée Leblanc-Duvernoy"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastische trockene Flucht; parken Sie in der Nähe und genießen Sie die Kunstsammlungen fernab der Pfützen.",
+                "hu": "Fantasztikus száraz menedék; parkoljon a közelben, és élvezze az elegáns beltéri művészeti gyűjteményeket.",
+                "ro": "O evadare uscată fantastică; parcați aproape și bucurați-vă de colecțiile de artă elegante departe de bălți.",
+                "en": "A fantastic dry afternoon escape; park nearby and enjoy the elegant indoor art collections away from the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "hu": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "ro": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "en": "Aire de Jeux du stade nautique de l'Arbre-Sec"
+              },
+              "tip_5lang": {
+                "de": "Es könnte schlammig sein, genießen Sie den kurzen Blick vom Parkplatz oder tragen Sie wasserdichte Stiefel.",
+                "hu": "Sáros és nedves lehet, így csak élvezze a gyors pillantást a parkolóból, vagy viseljen vízálló csizmát.",
+                "ro": "Ar putea fi noroios și umed, așa că bucurați-vă de o privire din parcare sau purtați cizme impermeabile.",
+                "en": "It might be muddy and wet, so just enjoy a quick look from the parking lot or wear your waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie das Auto für eine gemütliche Fahrt zum Familienzentrum vor. Mittags ist der Weg zwischen der kalten Kathedrale und dem Uhrenturm dank des nahen Autos leichter. Genießen Sie das beheizte Museum vor dem frühen Sonnenuntergang am Park.",
+            "hu": "Fűtse be az autót a reggeli induláshoz a játszóház és az apátság felé. Délben a hideg katedrális és az óratorony között könnyebb a közeli meleg autóval mozogni. Élvezze a fűtött múzeumot, majd nézze meg a korai naplementét a parkban.",
+            "ro": "Încălziți mașina pentru o călătorie plăcută spre centrul familial. La prânz, drumul între catedrala rece și turnul cu ceas este mai ușor cu mașina parcată aproape. Bucurați-vă de muzeul încălzit înainte de apusul devreme la parcul în aer liber.",
+            "en": "Warm up the car for a cozy morning drive to the family center and the abbey. At midday, braving the cold between the freezing cathedral and clock tower is easier with a nearby car. Enjoy the heated museum before the early winter sunset at the park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Corsaires et Pirates",
+                "hu": "Corsaires et Pirates",
+                "ro": "Corsaires et Pirates",
+                "en": "Corsaires et Pirates"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Wintertag in diesem beheizten Indoor-Spielplatz, ein idealer Ort zum Aufwärmen vor der kalten Stadt.",
+                "hu": "Kezdje a téli napot ezen a fűtött fedett játszótéren, amely kiváló hely a bemelegedésre a hideg városi séta előtt.",
+                "ro": "Începeți ziua de iarnă în acest spațiu de joacă încălzit, un loc excelent pentru a vă încălzi înainte de a ieși în frig.",
+                "en": "Start your winter day in this heated indoor play area, an excellent spot to warm up before heading out to the chilly city."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Germain",
+                "hu": "Abbaye Saint-Germain",
+                "ro": "Abbaye Saint-Germain",
+                "en": "Abbaye Saint-Germain"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist ein Segen vor den kalten Krypten; ziehen Sie sich für das historische Innere warm an.",
+                "hu": "Az autófűtés áldás a hideg, ősi kripták felfedezése előtt; öltözzön meleg rétegekbe a belső terekhez is.",
+                "ro": "Încălzirea mașinii este o binecuvântare înainte de criptele reci; îmbrăcați-vă în straturi calde pentru interior.",
+                "en": "The car heater is a blessing before exploring the cold, ancient crypts; dress in warm layers for the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathédrale Saint-Étienne",
+                "hu": "Cathédrale Saint-Étienne",
+                "ro": "Cathédrale Saint-Étienne",
+                "en": "Cathédrale Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Obwohl Sie mit dem Auto kamen, ist die große Steinkathedrale drinnen sehr kühl, lassen Sie den Mantel an.",
+                "hu": "Bár autóval érkezett, a hatalmas kőkatedrális belül nagyon hűvös, ezért tartsa magán a vastag télikabátot.",
+                "ro": "Deși ați sosit cu mașina, vasta catedrală de piatră este foarte rece înăuntru, așa că țineți haina groasă pe dvs.",
+                "en": "Though you arrived by car, the vast stone cathedral is very chilly inside, so keep your heavy coat zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de l'Horloge",
+                "hu": "Tour de l'Horloge",
+                "ro": "Tour de l'Horloge",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an, um die goldene Uhr vor dem Winterhimmel zu bewundern; das warme Auto schützt vor dem Wind.",
+                "hu": "Húzódjon félre, hogy megcsodálja az arany órát a téli égbolt előtt; a meleg autó remek menedék a szél elől.",
+                "ro": "Trageți pe dreapta pentru a admira ceasul de aur pe cerul de iarnă; mașina caldă oferă un refugiu excelent de vânt.",
+                "en": "Pull over to admire the golden clock against the winter sky; the warm car provides a great refuge from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Leblanc-Duvernoy",
+                "hu": "Musée Leblanc-Duvernoy",
+                "ro": "Musée Leblanc-Duvernoy",
+                "en": "Musée Leblanc-Duvernoy"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und betreten Sie die beheizten Museumsräume, ein toller Ort zum Auftauen auf Ihrem Winterausflug.",
+                "hu": "Parkoljon közel, és lépjen be a kényelmesen fűtött múzeumi termekbe, ami nagyszerű módja a felengedésnek télen.",
+                "ro": "Parcați aproape și intrați în sălile de muzeu încălzite confortabil, un mod minunat de a vă dezgheța iarna.",
+                "en": "Park close and step into the comfortably heated museum rooms, a great way to thaw out during your winter trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "hu": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "ro": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+                "en": "Aire de Jeux du stade nautique de l'Arbre-Sec"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang an; der Winterhimmel über dem Park ist schön, aber die Luft wird eiskalt.",
+                "hu": "Érkezzen a korai 17 órás sötétedés előtt; a téli naplemente a park felett gyönyörű, de a levegő nagyon lehűl.",
+                "ro": "Ajungeți înainte de apusul de la ora 17:00; apusul de iarnă peste parc este frumos, dar aerul devine înghețat.",
+                "en": "Arrive before the early 5 PM sunset; the winter sunset over the park is beautiful, but the air gets freezing."
+              }
+            }
+          ]
+        }
       }
     }
   }

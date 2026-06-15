@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a történelmi Városháza téren, majd sétáljon el a békés Couvent des Bernardins kolostorhoz.\nDélben fedezze fel a Plain-Château negyed varázslatos középkori utcáit és a lenyűgöző Tour des Comtes de Genève tornyot.\nDélután tekintse meg a Porte Saint-Martin erődítményt, majd pihenjen a Château de l'Echelle kastély parkjában.\nZárja a napot egy kellemes esti sétával a Le Parc Andrevetan területén, élvezve a friss alpesi levegőt.",
         "ro": "Începeți dimineața în istorica Piață a Primăriei, apoi mergeți spre pașnicul Couvent des Bernardins.\nLa amiază, explorați fermecătorul cartier Plain-Château, unde vă așteaptă străzile medievale și Tour des Comtes de Genève.\nDupă-amiază, descoperiți poarta fortificată Saint-Martin înainte de a vă relaxa pe domeniul Château de l'Echelle.\nÎncheiați ziua cu o plimbare liniștită de seară prin Parc Andrevetan, bucurându-vă de farmecul alpin.",
         "en": "Begin your morning at the historic Town Hall Square, then walk to the peaceful Couvent des Bernardins.\nMidday invites you into the enchanting Plain-Château District, where medieval streets and the Tour des Comtes de Genève await.\nIn the afternoon, discover the fortified Porte Saint-Martin before relaxing in the grand Château de l'Echelle grounds.\nConclude your day with a serene evening stroll through Le Parc Andrevetan, soaking in the alpine charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen am Platz und im ruhigen Kloster, den Regenschirm stets griffbereit. Mittags navigieren Sie vorsichtig über das rutschige Kopfsteinpflaster der Altstadt. Nachmittags erkunden Sie die Türme und das Schloss und suchen Schutz unter Torbögen. Beenden Sie den Tag mit einem Abendspaziergang im regennassen Park, wofür wasserfeste Schuhe unerlässlich sind.",
+            "hu": "Kezdje az esős reggelt a téren és a békés kolostornál, esernyővel a kézben. Délben óvatosan sétáljon a történelmi negyed csúszós macskakövein. Délután fedezze fel az ősi tornyokat és a kastélyt, menedéket keresve a boltívek alatt. Zárja a napot egy esti sétával az eső áztatta parkban, ahol a vízálló cipő elengedhetetlen a pocsolyák és a sár miatt.",
+            "ro": "Începeți dimineața ploioasă în piață și la mănăstirea liniștită, ținând umbrela la îndemână. La prânz, parcurgeți cu grijă pietrele cubice alunecoase din cartierul istoric. După-amiaza explorați turnurile vechi și castelul, căutând adăpost sub arcade. Încheiați cu o plimbare de seară prin parcul spălat de ploaie, purtând cizme impermeabile pentru a vă menține picioarele uscate.",
+            "en": "Start your wet morning at the square and the serene convent, keeping your umbrella handy. By noon, carefully navigate the historic district's slippery cobblestones. Spend the afternoon exploring the ancient towers and castle grounds, seeking shelter under archways. Conclude with an evening stroll in the rain-washed park, wearing sturdy waterproof boots to keep your feet completely dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Town Hall Square",
+                "hu": "Town Hall Square",
+                "ro": "Town Hall Square",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter den überdachten Arkaden mit griffbereitem Schirm.",
+                "hu": "Csodálja meg az építészetet a fedett árkádok alól, és tartsa kéznél az esernyőt.",
+                "ro": "Admirați arhitectura din arcadele acoperite și țineți umbrela la îndemână.",
+                "en": "Admire the architecture from the covered arcades and keep your umbrella handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Bernardins (ancien)",
+                "hu": "Couvent des Bernardins (ancien)",
+                "ro": "Couvent des Bernardins (ancien)",
+                "en": "Couvent des Bernardins (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten einen trockenen Rückzugsort für die religiöse Geschichte.",
+                "hu": "A vastag kőfalak száraz, békés menedéket nyújtanak a vallási történelem felfedezéséhez.",
+                "ro": "Zidurile groase de piatră oferă un refugiu uscat în timp ce admirați istoria religioasă.",
+                "en": "The heavy stone walls offer a serene, dry refuge while you admire its religious history."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-Château District",
+                "hu": "Plain-Château District",
+                "ro": "Plain-Château District",
+                "en": "Plain-Château District"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Straßen vorsichtig, da das Pflaster bei Regen rutschig wird.",
+                "hu": "Óvatosan fedezze fel a középkori utcákat, mert a régi macskakövek nagyon csúszósak esőben.",
+                "ro": "Explorați străzile medievale cu grijă, deoarece pietrele cubice devin alunecoase pe ploaie.",
+                "en": "Explore the medieval streets carefully, as the old cobblestones can get quite slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour des Comtes de Genève",
+                "hu": "Tour des Comtes de Genève",
+                "ro": "Tour des Comtes de Genève",
+                "en": "Tour des Comtes de Genève"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den beeindruckenden Turm von einem geschützten Ort, um dem Regen zu entgehen.",
+                "hu": "Keressen egy védett helyet, ahonnan az eső elkerülésével csodálhatja meg a lenyűgöző tornyot.",
+                "ro": "Priviți turnul impresionant dintr-un loc adăpostit pentru a evita ploaia torențială.",
+                "en": "Look up at the impressive tower from a sheltered spot to avoid the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Saint-Martin",
+                "hu": "Porte Saint-Martin",
+                "ro": "Porte Saint-Martin",
+                "en": "Porte Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie durch das historische Tor und genießen Sie kurzen Schutz vor dem Nieselregen.",
+                "hu": "Sétáljon át a történelmi kapun, élvezve a rövid menedéket a kitartó szitáló eső elől.",
+                "ro": "Treceți prin poarta istorică, bucurându-vă de un scurt moment de adăpost de ploaia persistentă.",
+                "en": "Walk through the historic gate, enjoying a brief moment of cover from the persistent drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Echelle",
+                "hu": "Château de l'Echelle",
+                "ro": "Château de l'Echelle",
+                "en": "Château de l'Echelle"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Schlossgelände zügig und suchen Sie bei starkem Regen drinnen Schutz.",
+                "hu": "Gyorsan járja be a kastély kertjét, és húzódjon be, ha az eső rázendít.",
+                "ro": "Vizitați rapid domeniul castelului și retrageți-vă în interior când ploaia se întețește.",
+                "en": "Tour the castle grounds quickly and retreat indoors or under balconies when the rain intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Parc Andrevetan",
+                "hu": "Le Parc Andrevetan",
+                "ro": "Le Parc Andrevetan",
+                "en": "Le Parc Andrevetan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das regennasse Grün des Parks mit robusten, wasserfesten Schuhen.",
+                "hu": "Élvezze a park eső áztatta, buja zöldjét egy strapabíró, vízálló cipőben.",
+                "ro": "Bucurați-vă de verdeața proaspătă a parcului purtând încălțăminte robustă și impermeabilă.",
+                "en": "Enjoy the lush, rain-washed greenery of the park while wearing sturdy, waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie einen klaren Wintermorgen am Rathaus und im alten Kloster. Mittags sind warme Schichten für die schattigen historischen Gassen unerlässlich. Nachmittags erkunden Sie die majestätischen Schlösser im schwindenden Tageslicht. Beenden Sie den Tag mit einem Parkspaziergang in der Dämmerung, idealerweise vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Éljen át egy fagyos téli reggelt a városházánál és az ősi kolostornál. Délben a meleg rétegek elengedhetetlenek a történelmi negyed árnyékos utcáin. Délután fedezze fel a fenséges kastélyokat, ahogy a nappali fény lassan halványulni kezd. Zárja a napot egy kora esti sétával a parkban, és végezzen 17:00 előtt, mielőtt a sötétedéssel a hőmérséklet is drasztikusan lecsökken.",
+            "ro": "Experimentați o dimineață geroasă de iarnă la primărie și la mănăstirea antică. La prânz, hainele groase sunt esențiale pe străzile umbrite ale cartierului istoric. După-amiaza explorați castelele maiestuoase pe măsură ce lumina scade. Încheiați cu o plimbare prin parc, planificând să terminați înainte de apusul de la 17:00, când temperaturile scad considerabil.",
+            "en": "Experience a crisp winter morning at the town hall and the ancient convent. By midday, warm layers are essential to wander the shadowy historic district's streets. Spend the afternoon exploring the majestic castles as the daylight begins to fade. Conclude with an early evening park stroll under the twilight, aiming to finish before the 17:00 sunset brings dropping temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Town Hall Square",
+                "hu": "Town Hall Square",
+                "ro": "Town Hall Square",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frostigen Morgenblick auf den Platz mit einem warmen Schal gegen die Kälte.",
+                "hu": "Élvezze a tér fagyos reggeli látványát, vastag sállal védekezve a hideg ellen.",
+                "ro": "Admirați priveliștea înghețată a pieței dimineața, purtând un fular gros împotriva frigului.",
+                "en": "Take in the frosty morning view of the square, wearing a warm scarf against the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Bernardins (ancien)",
+                "hu": "Couvent des Bernardins (ancien)",
+                "ro": "Couvent des Bernardins (ancien)",
+                "en": "Couvent des Bernardins (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern speichern die Winterkälte, behalten Sie Ihre Handschuhe bei der Erkundung an.",
+                "hu": "Az ősi falak tartják a téli hideget, így bent is érdemes magán tartani a kesztyűt.",
+                "ro": "Zidurile vechi mențin frigul iernii, așa că păstrați mănușile în timp ce explorați interiorul.",
+                "en": "The ancient walls hold the winter cold, so keep your gloves on while exploring inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-Château District",
+                "hu": "Plain-Château District",
+                "ro": "Plain-Château District",
+                "en": "Plain-Château District"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für diese schattigen Gassen, die die Wintersonne kaum erreicht.",
+                "hu": "Öltözzön fel melegen az árnyékos történelmi utcákhoz, ahová a téli nap ritkán süt be.",
+                "ro": "Îmbrăcați-vă bine pentru aceste străzi istorice umbrite, unde soarele de iarnă ajunge rar.",
+                "en": "Bundle up well to wander these shadowy historic streets where the winter sun rarely reaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour des Comtes de Genève",
+                "hu": "Tour des Comtes de Genève",
+                "ro": "Tour des Comtes de Genève",
+                "en": "Tour des Comtes de Genève"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die markante Silhouette des Turms vor dem blassen, klaren Winterhimmel.",
+                "hu": "Gyönyörködjön a torony lenyűgöző sziluettjében a sápadt, fagyos téli égbolt előtt.",
+                "ro": "Bucurați-vă de silueta impresionantă a turnului pe fundalul cerului palid de iarnă.",
+                "en": "Enjoy the striking silhouette of the tower against the pale, crisp winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Saint-Martin",
+                "hu": "Porte Saint-Martin",
+                "ro": "Porte Saint-Martin",
+                "en": "Porte Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie durch das alte Tor, während die tiefstehende Wintersonne lange Schatten wirft.",
+                "hu": "Sétáljon át az ősi kapun, miközben az alacsonyan járó téli nap hosszú, drámai árnyékokat vet.",
+                "ro": "Treceți prin poarta antică în timp ce soarele de iarnă aruncă umbre lungi și dramatice.",
+                "en": "Pass through the ancient gate as the low winter sun casts long, dramatic shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Echelle",
+                "hu": "Château de l'Echelle",
+                "ro": "Château de l'Echelle",
+                "en": "Château de l'Echelle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den winterlichen Charme des Schlosses, aber achten Sie auf eisige Wege.",
+                "hu": "Csodálja meg a kastély téli varázsát, de vigyázzon a potenciálisan jeges külső utakon.",
+                "ro": "Admirați farmecul de iarnă al castelului, dar aveți grijă la aleile exterioare înghețate.",
+                "en": "Admire the castle's winter charm, but watch your step on potentially icy exterior paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Parc Andrevetan",
+                "hu": "Le Parc Andrevetan",
+                "ro": "Le Parc Andrevetan",
+                "en": "Le Parc Andrevetan"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang vor 17:00 Uhr, da der Park nach Sonnenuntergang sehr dunkel wird.",
+                "hu": "Fejezze be a sétát 17:00 előtt, mivel a park napnyugta után nagyon sötét és hideg lesz.",
+                "ro": "Încheiați plimbarea înainte de ora 17:00, deoarece parcul devine întunecat și rece după apus.",
+                "en": "End your walk before 17:00, as the park gets very dark and cold after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Tekerjen a friss reggeli levegőn a Városháza térhez és a csendes Couvent des Bernardins kolostorhoz.\nDélben kerékpározzon fel a történelmi Plain-Château negyedbe, és csodálja meg a Tour des Comtes de Genève tornyát.\nDélután élvezze a könnyed utazást a Porte Saint-Martin és a lenyűgöző Château de l'Echelle között.\nKerékpáros kalandját naplemente idején fejezze be a Parc Andrevetan és a Château de St SIXT érintésével.",
         "ro": "Pedalați prin aerul curat al dimineții către Piața Primăriei și liniștitul Couvent des Bernardins.\nLa amiază, urcați spre cartierul istoric Plain-Château pentru a admira impunătorul Tour des Comtes de Genève.\nBucurați-vă de o după-amiază relaxantă pe bicicletă între Porte Saint-Martin și mărețul Château de l'Echelle.\nÎncheiați-vă aventura pedalând prin Parc Andrevetan spre magnificul Château de St SIXT la apus.",
         "en": "Pedal through the crisp morning air to the Town Hall Square and the quiet Couvent des Bernardins.\nCycle up to the historic Plain-Château District at midday to admire the towering Tour des Comtes de Genève.\nEnjoy a leisurely afternoon ride connecting Porte Saint-Martin with the grand Château de l'Echelle.\nEnd your cycling adventure passing through Le Parc Andrevetan toward the magnificent Château de St SIXT at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Radtour am Platz und Kloster mit funktionierenden Bremsen. Mittags fahren Sie vorsichtig über das rutschige Kopfsteinpflaster der Altstadt. Nachmittags erkunden Sie die Schlossanlagen in Ihrem Regenponcho. Beenden Sie den Tag mit einer Fahrt in der Dämmerung zum fernen Schloss, wobei gute Fahrradbeleuchtung unerlässlich ist.",
+            "hu": "Kezdje a nedves tekerést a téren és a kolostornál, figyelve a fékek megfelelő tapadására. Délben óvatosan haladjon át a történelmi negyed csúszós macskakövein. Délután esőköpenyben fedezze fel a kastélyt. Zárja a napot egy esős, szürkületi bringázással a távolabbi kastélyhoz, megbizonyosodva arról, hogy a lámpái megfelelően működnek a jó láthatóság érdekében.",
+            "ro": "Începeți plimbarea umedă cu bicicleta în piață și la mănăstire, verificând frânele. La prânz, mergeți cu grijă pe pietrele cubice alunecoase din centrul istoric. După-amiaza explorați castelul protejați de pelerina de ploaie. Încheiați ziua cu o cursă pe înserat spre castelul îndepărtat, asigurându-vă că luminile bicicletei sunt aprinse pentru vizibilitate.",
+            "en": "Start your wet cycle at the square and convent, ensuring your brakes are responsive. By midday, carefully ride through the historic district's slippery cobblestones. In the afternoon, explore the castle grounds while wrapped in your waterproof cape. Conclude the day with a damp, twilight ride to the distant castle, making sure your bike lights are fully charged for visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Town Hall Square",
+                "hu": "Town Hall Square",
+                "ro": "Town Hall Square",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt vorsichtig und achten Sie auf das glatte Pflaster am Platz.",
+                "hu": "Kezdje óvatosan az esős utat, figyelve a csúszós burkolatra a történelmi tér körül.",
+                "ro": "Începeți traseul umed cu atenție, ferindu-vă de pavajul alunecos din jurul pieței.",
+                "en": "Start your wet ride carefully, keeping an eye on slick paving around the historic square."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Bernardins (ancien)",
+                "hu": "Couvent des Bernardins (ancien)",
+                "ro": "Couvent des Bernardins (ancien)",
+                "en": "Couvent des Bernardins (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und betreten Sie die trockenen Hallen, um dem Dauerregen zu entkommen.",
+                "hu": "Parkolja le a kerékpárt, és lépjen be a száraz termekbe, hogy menedéket találjon az eső elől.",
+                "ro": "Parcați bicicleta și intrați în sălile uscate pentru a scăpa de ploaia necruțătoare.",
+                "en": "Park your bike and step inside the dry, quiet halls to escape the relentless rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-Château District",
+                "hu": "Plain-Château District",
+                "ro": "Plain-Château District",
+                "en": "Plain-Château District"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr langsam durch die Altstadt, da nasses Pflaster den Bremsweg stark verlängert.",
+                "hu": "Lassan tekerjen az óvárosban, mert a nedves macskaköveken jelentősen megnő a fékút.",
+                "ro": "Pedalați încet prin orașul vechi, deoarece pietrele cubice umede cresc distanța de frânare.",
+                "en": "Ride very slowly through the old town, as wet cobblestones significantly increase braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour des Comtes de Genève",
+                "hu": "Tour des Comtes de Genève",
+                "ro": "Tour des Comtes de Genève",
+                "en": "Tour des Comtes de Genève"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause am Turm, um den Sattel abzuwischen und das Regencape zu richten.",
+                "hu": "Tartson egy rövid szünetet a toronynál, hogy letörölje a nyerget és megigazítsa az esőköpenyt.",
+                "ro": "Faceți o pauză scurtă lângă turn pentru a șterge șaua bicicletei și a ajusta pelerina.",
+                "en": "Take a quick break near the tower to wipe your bike seat and adjust your rain cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Saint-Martin",
+                "hu": "Porte Saint-Martin",
+                "ro": "Porte Saint-Martin",
+                "en": "Porte Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch den imposanten Steinbogen und achten Sie auf Pfützen am Boden.",
+                "hu": "Tekerjen át az impozáns kőív alatt, ügyelve a lábánál felgyülemlő tócsákra.",
+                "ro": "Treceți pe sub arcada de piatră, fiind atenți la bălțile care se adună la baza ei.",
+                "en": "Cycle through the imposing stone arch, watching out for puddles gathering at the base."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Echelle",
+                "hu": "Château de l'Echelle",
+                "ro": "Château de l'Echelle",
+                "en": "Château de l'Echelle"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Fahrrad unter Bäumen ab und genießen Sie die neblige Atmosphäre des Schlosses.",
+                "hu": "Zárja le a bringát a fák alatt, és élvezze a kastély ködös, hangulatos látványát.",
+                "ro": "Legați bicicleta sub copaci și bucurați-vă de priveliștea cețoasă și plină de atmosferă.",
+                "en": "Lock your bike under the trees and enjoy the misty, atmospheric view of the castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Parc Andrevetan",
+                "hu": "Le Parc Andrevetan",
+                "ro": "Le Parc Andrevetan",
+                "en": "Le Parc Andrevetan"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege werden schlammig, bleiben Sie auf befestigten Wegen für ein sauberes Rad.",
+                "hu": "A parki utak sarasak lesznek, így maradjon a burkolt ösvényeken a tiszta kerékpár érdekében.",
+                "ro": "Aleile din parc devin noroioase, așa că rămâneți pe cărările pavate pentru a vă păstra bicicleta curată.",
+                "en": "The park paths turn muddy, so stick to the paved trails to keep your bike relatively clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de St SIXT",
+                "hu": "Château de St SIXT",
+                "ro": "Château de St SIXT",
+                "en": "Château de St SIXT"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Radtag am Schloss und stellen Sie sicher, dass Ihr Licht brennt.",
+                "hu": "Zárja az esős kerékpáros napot a kastélynál, ügyelve arra, hogy a lámpák fel legyenek kapcsolva.",
+                "ro": "Încheiați ziua ploioasă la castel, asigurându-vă că farurile bicicletei sunt aprinse.",
+                "en": "End your wet cycling day admiring the castle, making sure your bike lights are turned on."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für eine frostige Morgenfahrt ins Zentrum. Mittags sind Thermohandschuhe in den windigen historischen Gassen ein Muss. Nachmittags radeln Sie bei Tageslicht an den Schlössern vorbei. Beenden Sie den Tag am letzten Anwesen; da die Sonne um 17:00 Uhr untergeht, sind Reflektoren und starke Lichter entscheidend.",
+            "hu": "Öltözzön fel melegen a fagyos reggeli tekeréshez a központba. Délben a thermo kesztyű kötelező a történelmi utcák hideg szélcsatornáiban. Délután még világosban tekerjen el a kastélyok mellett. Zárja a napot a végső birtoknál; mivel 17:00 körül besötétedik, a fényvisszaverő ruházat és az erős kerékpáros lámpák elengedhetetlenek a biztonságos hazaúthoz.",
+            "ro": "Îmbrăcați-vă gros pentru o cursă matinală geroasă spre centru. La prânz, mănușile termice sunt obligatorii pe străzile istorice vântoase. După-amiaza pedalați pe lângă castele cât încă este soare. Încheiați la ultimul domeniu; cu apusul în jurul orei 17:00, echipamentul reflectorizant și farurile puternice sunt esențiale pentru siguranță.",
+            "en": "Bundle up for a frosty morning cycle to the town center. By midday, thermal gloves are a must while navigating the chilling winds of the historic streets. In the afternoon, cycle past the castles while the sun is still up. Conclude with an evening ride to the final estate; with sunset hitting around 17:00, reflective gear and powerful lights are essential for your safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Town Hall Square",
+                "hu": "Town Hall Square",
+                "ro": "Town Hall Square",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre Winterfahrt und prüfen Sie den Reifendruck für kalte Straßen.",
+                "hu": "Kezdje itt a fagyos téli utat, ellenőrizve, hogy a gumik megfelelően fel vannak-e fújva.",
+                "ro": "Începeți traseul de iarnă aici, asigurându-vă că anvelopele sunt umflate corect pentru frig.",
+                "en": "Begin your crisp winter ride here, making sure your tires are properly inflated for cold roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Bernardins (ancien)",
+                "hu": "Couvent des Bernardins (ancien)",
+                "ro": "Couvent des Bernardins (ancien)",
+                "en": "Couvent des Bernardins (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kühler Stopp am Kloster, wo Sie sich drinnen kurz die Hände wärmen können.",
+                "hu": "Gyors, hűvös megálló a kolostornál, ahol odabent egy kicsit felmelegítheti a kezét.",
+                "ro": "O oprire scurtă și rece la mănăstire, unde vă puteți încălzi scurt mâinile în interior.",
+                "en": "A quick, chilly stop at the convent where you can briefly warm your hands indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-Château District",
+                "hu": "Plain-Château District",
+                "ro": "Plain-Château District",
+                "en": "Plain-Château District"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch die mittelalterlichen Gassen und achten Sie auf verstecktes Eis.",
+                "hu": "Óvatosan navigáljon a középkori utcákon, figyelve a rejtett jégfoltokra az árnyékokban.",
+                "ro": "Navigați cu grijă pe străzile medievale, atenți la porțiunile ascunse de gheață din umbră.",
+                "en": "Navigate the medieval streets carefully, looking out for patches of hidden ice in the shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour des Comtes de Genève",
+                "hu": "Tour des Comtes de Genève",
+                "ro": "Tour des Comtes de Genève",
+                "en": "Tour des Comtes de Genève"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den frostigen Turm und ziehen Sie Ihre Mütze gegen den beißenden Wind tief.",
+                "hu": "Csodálja meg a fagyos tornyot, és húzza le a sapkáját a metsző szél ellen.",
+                "ro": "Admirați turnul înghețat, trăgând căciula bine pe urechi împotriva vântului tăios.",
+                "en": "Admire the frosty tower, keeping your cycling cap pulled down against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Saint-Martin",
+                "hu": "Porte Saint-Martin",
+                "ro": "Porte Saint-Martin",
+                "en": "Porte Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Der Zugwind durch das Tor ist eisig, treten Sie schnell durch den historischen Eingang.",
+                "hu": "A kapu alatt áthúzó szél fagyos, így tekerjen át gyorsan a történelmi bejáraton.",
+                "ro": "Curentul de sub poartă este înghețat, deci pedalați rapid prin intrarea istorică.",
+                "en": "The draft through the gate is freezing, so pedal quickly through the historic entryway."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Echelle",
+                "hu": "Château de l'Echelle",
+                "ro": "Château de l'Echelle",
+                "en": "Château de l'Echelle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht im Winter toll aus, steigen Sie aber ab, wenn die Wege gefroren sind.",
+                "hu": "A kastély lenyűgöző télen, de szálljon le a kerékpárról, ha a megközelítési utak csonttá fagytak.",
+                "ro": "Castelul arată uimitor iarna, dar descălecați dacă drumurile de acces sunt complet înghețate.",
+                "en": "The castle looks stunning in winter, but dismount if the approach paths are frozen solid."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Parc Andrevetan",
+                "hu": "Le Parc Andrevetan",
+                "ro": "Le Parc Andrevetan",
+                "en": "Le Parc Andrevetan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kahlen Bäume und prüfen Sie, ob Ihre Lichter einsatzbereit sind.",
+                "hu": "Élvezze a csupasz fákat, de ellenőrizze, hogy a dinamó vagy a lámpa akkumulátora készen áll-e.",
+                "ro": "Bucurați-vă de copacii golași, asigurându-vă că luminile bateriei sunt pregătite de funcționare.",
+                "en": "Enjoy the bare trees and quiet paths, ensuring your dynamo or battery lights are ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de St SIXT",
+                "hu": "Château de St SIXT",
+                "ro": "Château de St SIXT",
+                "en": "Château de St SIXT"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, da es schnell dunkel wird und Sie gutes Licht für den Rückweg brauchen.",
+                "hu": "Érkezzen 17:00 előtt a gyors sötétedés miatt, az erős lámpák kötelezőek a visszaúthoz.",
+                "ro": "Ajungeți înainte de 17:00 deoarece se întunecă repede, necesitând lumini puternice la întoarcere.",
+                "en": "Arrive before 17:00 as it gets dark quickly, requiring strong bike lights for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "Kezdje az autós túrát a csodálatos Château de St SIXT kastélynál, élvezve a reggeli vidéki levegőt.\nDélben parkoljon le a Parc Andrevetan közelében, és lépjen be a történelmi Plain-Château negyedbe.\nDélután fedezze fel a középkori csodákat, mint például a Tour des Comtes de Genève és a Château de l'Echelle.\nFejezze be az estét a városközpontban, megállva a Városháza téren és a régi kolostornál.",
         "ro": "Începeți turul cu mașina la magnificul Château de St SIXT, bucurându-vă de aerul proaspăt al dimineții.\nLa prânz, parcați lângă Parc Andrevetan și pășiți în cartierul istoric Plain-Château.\nPetreceți după-amiaza explorând minuni medievale precum Tour des Comtes de Genève și Château de l'Echelle.\nÎncheiați seara în centrul orașului, oprindu-vă la Piața Primăriei și la vechea mănăstire.",
         "en": "Start your driving tour at the magnificent Château de St SIXT, taking in the morning countryside air.\nBy midday, park near Le Parc Andrevetan to enjoy the greenery and step into the historic Plain-Château District.\nSpend the afternoon exploring the medieval marvels like Tour des Comtes de Genève and Château de l'Echelle.\nFinish your evening driving through the town center, stopping at the Town Hall Square and the old Convent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre verregnete Morgenfahrt zum St SIXT und dem feuchten Park. Mittags parken Sie sicher, um die Altstadt mit Regenschirm zu erkunden. Nachmittags machen Sie kurze Sprints vom warmen Auto zu den Schlössern. Beenden Sie den Abend mit einer Fahrt zum beleuchteten Rathausplatz und suchen Sie Zuflucht im alten Kloster.",
+            "hu": "Kezdje az esős reggeli vezetést a St SIXT és a nedves park felé. Délben parkoljon le óvatosan, hogy esernyővel járja be a történelmi negyedet. Délután tegyen rövid sprinteket a fűtött autótól a kastélyokig. Zárja az estét egy lassú autózással a kivilágított főtérre, majd találjon száraz menedéket a csendes, ősi kolostorban.",
+            "ro": "Începeți condusul în dimineața ploioasă spre St SIXT și parcul umed. La prânz, parcați cu grijă pentru a explora centrul istoric cu o umbrelă. După-amiaza faceți sprinturi scurte de la mașina încălzită la castele. Încheiați seara conducând încet spre piața luminată și găsind refugiu în interiorul liniștit al mănăstirii antice.",
+            "en": "Start your rainy morning drive heading to St SIXT and the damp park. By midday, park your car carefully to explore the historic district with an umbrella. Spend the afternoon taking short dashes from the warm car to the castles. Conclude the evening by driving slowly to the illuminated town square and finding indoor refuge at the quiet, ancient convent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de St SIXT",
+                "hu": "Château de St SIXT",
+                "ro": "Château de St SIXT",
+                "en": "Château de St SIXT"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Spaziergang im Regen zum Schloss zu minimieren.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minél kevesebbet kelljen az esőben sétálnia a kastélyig.",
+                "ro": "Parcați aproape de intrare pentru a minimiza mersul prin ploaie în timp ce admirați castelul.",
+                "en": "Park close to the entrance to minimize your walk in the rain while admiring the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Parc Andrevetan",
+                "hu": "Le Parc Andrevetan",
+                "ro": "Le Parc Andrevetan",
+                "en": "Le Parc Andrevetan"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Schirm für den nebligen Park und bleiben Sie auf befestigten Wegen.",
+                "hu": "Vigyen egy nagy esernyőt a ködös parkba tett rövid sétához, és maradjon a kövezett utakon.",
+                "ro": "Luați o umbrelă mare pentru o plimbare scurtă prin parcul cețos, rămânând pe aleile pavate.",
+                "en": "Bring a large umbrella for a quick walk in the misty park, sticking to the paved walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-Château District",
+                "hu": "Plain-Château District",
+                "ro": "Plain-Château District",
+                "en": "Plain-Château District"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Auto sicher und navigieren Sie vorsichtig über das nasse, rutschige Pflaster.",
+                "hu": "Hagyja biztonságos helyen az autót, és óvatosan lépkedjen a nedves, csúszós macskaköveken.",
+                "ro": "Lăsați mașina parcată în siguranță și navigați cu grijă pe pietrele cubice umede și alunecoase.",
+                "en": "Leave the car parked securely and navigate the wet, slippery medieval cobblestones with care."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour des Comtes de Genève",
+                "hu": "Tour des Comtes de Genève",
+                "ro": "Tour des Comtes de Genève",
+                "en": "Tour des Comtes de Genève"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm von einem geschützten Ort, um bei Ihrem Kurzbesuch trocken zu bleiben.",
+                "hu": "Nézze meg a tornyot egy közeli, védett helyről, hogy száraz maradjon a rövid látogatás alatt.",
+                "ro": "Priviți structura înaltă dintr-un loc adăpostit din apropiere pentru a rămâne uscați.",
+                "en": "View the towering structure from a nearby sheltered spot to keep dry during your brief visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Echelle",
+                "hu": "Château de l'Echelle",
+                "ro": "Château de l'Echelle",
+                "en": "Château de l'Echelle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie eine Regenjacke bereit für den Weg vom Parkplatz zum nebligen Schlossgelände.",
+                "hu": "Tartsa kéznél az esőkabátot, amíg a parkolóból a gyönyörű, ködös kastélykertbe sétál.",
+                "ro": "Țineți pelerina de ploaie la îndemână pe drumul de la parcare la frumosul domeniu cețos.",
+                "en": "Keep a raincoat handy as you walk from the parking lot to the beautiful, misty castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Saint-Martin",
+                "hu": "Porte Saint-Martin",
+                "ro": "Porte Saint-Martin",
+                "en": "Porte Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am alten Tor, da Fußgänger mit Schirmen Ihre Sicht behindern könnten.",
+                "hu": "Vezessen lassan a régi kapu közelében, mert az esernyős gyalogosok ronthatják a kilátást.",
+                "ro": "Conduceți încet lângă poarta veche, deoarece pietonii cu umbrele vă pot ascunde vizibilitatea.",
+                "en": "Drive slowly near the old gate, as pedestrians with umbrellas might obscure your vision."
+              }
+            },
+            {
+              "name": {
+                "de": "Town Hall Square",
+                "hu": "Town Hall Square",
+                "ro": "Town Hall Square",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Regenatmosphäre bequem vom Auto aus oder flüchten Sie in die Arkaden.",
+                "hu": "Élvezze az esős hangulatot az autó kényelméből, vagy fusson be egy közeli fedett árkád alá.",
+                "ro": "Bucurați-vă de atmosfera ploioasă din confortul mașinii sau alergați spre o arcadă acoperită.",
+                "en": "Enjoy the rainy atmosphere from the comfort of your car or dash to a nearby covered arcade."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Bernardins (ancien)",
+                "hu": "Couvent des Bernardins (ancien)",
+                "ro": "Couvent des Bernardins (ancien)",
+                "en": "Couvent des Bernardins (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den nassen Tag, indem Sie aus dem Auto in das trockene, alte Gebäude treten.",
+                "hu": "Zárja a nedves napot úgy, hogy kiszáll az autóból ebbe a csendes, száraz ősi épületbe.",
+                "ro": "Încheiați ziua ploioasă ieșind din mașină în interiorul liniștit și uscat al acestui loc antic.",
+                "en": "Finish your wet day by stepping out of the car into the quiet, dry interior of this ancient site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Wintermorgen mit der Fahrt zum St SIXT und dem kühlen Park. Mittags ziehen Sie sich warm an, um das geheizte Auto für die Altstadt zu verlassen. Nachmittags genießen Sie die Schlösser vor dem frühen Sonnenuntergang. Beenden Sie den Abend mit einer Fahrt am beleuchteten Platz und einem Stopp am alten Kloster.",
+            "hu": "Kezdje a fagyos téli reggelt a St SIXT és a friss park felé autózva. Délben öltözzön fel vastagon, mielőtt elhagyja a fűtött autót az óvárosért. Délután még világosban csodálja meg a kastélyokat. Zárja az estét egy hangulatos vezetéssel a kivilágított főtér mellett, és egy csendes megállóval a sötét égbolt alatti kolostornál.",
+            "ro": "Începeți dimineața geroasă conducând spre St SIXT și parcul rece. La prânz, îmbrăcați-vă gros pentru a părăsi mașina încălzită și a explora orașul vechi. După-amiaza bucurați-vă de castele înainte să scadă lumina. Încheiați seara cu o plimbare pitorească pe lângă piața luminată și o oprire liniștită la mănăstirea sub cerul întunecat.",
+            "en": "Start the frosty winter morning driving to St SIXT and the crisp park. By midday, bundle up heavily to leave the heated car and explore the old town. Spend the afternoon taking in the castle views before the light fades. Conclude the evening with a scenic drive past the illuminated town square and a quiet stop at the ancient convent under the dark sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de St SIXT",
+                "hu": "Château de St SIXT",
+                "ro": "Château de St SIXT",
+                "en": "Château de St SIXT"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost lässt das Schloss magisch wirken, aber sorgen Sie für eine gute Autoheizung.",
+                "hu": "A reggeli dér varázslatossá teszi a kastélyt, de gondoskodjon a jó autófűtésről a megérkezéshez.",
+                "ro": "Înghețul dimineții face castelul să pară magic, dar asigurați-vă că încălzirea mașinii funcționează.",
+                "en": "The morning frost makes the castle look magical, but ensure your car heater is working well."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Parc Andrevetan",
+                "hu": "Le Parc Andrevetan",
+                "ro": "Le Parc Andrevetan",
+                "en": "Le Parc Andrevetan"
+              },
+              "tip_5lang": {
+                "de": "Ein kalter Spaziergang durch den Park ist erfrischend, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "Egy frissítő, hideg séta a parkban nagyon jól esik, mielőtt visszaszállna a meleg járműbe.",
+                "ro": "O plimbare rece prin parc este foarte revigorantă înainte de a vă întoarce în vehiculul cald.",
+                "en": "A brisk, cold walk through the park is highly refreshing before getting back into your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-Château District",
+                "hu": "Plain-Château District",
+                "ro": "Plain-Château District",
+                "en": "Plain-Château District"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an vor dem Aussteigen, da die engen Gassen die Winterkälte festhalten.",
+                "hu": "Öltözzön fel melegen a kiszállás előtt, mert a szűk történelmi utcák megrekesztik a téli hideget.",
+                "ro": "Îmbrăcați-vă bine înainte de a ieși din mașină, deoarece străzile înguste rețin frigul iernii.",
+                "en": "Bundle up tightly before leaving the car, as the narrow historic streets trap the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour des Comtes de Genève",
+                "hu": "Tour des Comtes de Genève",
+                "ro": "Tour des Comtes de Genève",
+                "en": "Tour des Comtes de Genève"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Turm vor dem blassen Winterhimmel mit dickem Schal und Handschuhen.",
+                "hu": "Csodálja meg a tornyot a sápadt téli égen, odakint vastag sálat és kesztyűt viselve.",
+                "ro": "Admirați turnul impunător pe fundalul cerului palid de iarnă, purtând un fular gros afară.",
+                "en": "Admire the imposing tower against the pale winter sky, wearing a thick scarf and gloves outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Echelle",
+                "hu": "Château de l'Echelle",
+                "ro": "Château de l'Echelle",
+                "en": "Château de l'Echelle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss vor dem frühen Sonnenuntergang gegen 17:00 Uhr für seinen Wintercharme.",
+                "hu": "Látogasson el ide a korai, 17:00 körüli napnyugta előtt, hogy teljes mértékben élvezze a téli varázst.",
+                "ro": "Vizitați înainte de apusul de la 17:00 pentru a aprecia pe deplin farmecul de iarnă al castelului.",
+                "en": "Visit before the early sunset around 17:00 to fully appreciate the beautiful castle's winter charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Saint-Martin",
+                "hu": "Porte Saint-Martin",
+                "ro": "Porte Saint-Martin",
+                "en": "Porte Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis am Toreingang, wenn Sie von Ihrem Parkplatz dorthin gehen.",
+                "hu": "Figyeljen a fekete jégfoltokra a kapu bejárata közelében, miközben a parkolóból besétál.",
+                "ro": "Atenție la porțiunile de gheață neagră de lângă poartă în timp ce mergeți de la parcare.",
+                "en": "Watch for patches of black ice near the gate's entrance as you walk from your parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Town Hall Square",
+                "hu": "Town Hall Square",
+                "ro": "Town Hall Square",
+                "en": "Town Hall Square"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist am frühen Winterabend wunderschön beleuchtet, wenn Sie durchs Zentrum fahren.",
+                "hu": "A tér gyönyörű kivilágítva a kora téli estén, miközben lassan áthajt a központon.",
+                "ro": "Piața arată frumos luminată în seara de iarnă, în timp ce conduceți încet prin centru.",
+                "en": "The square looks beautiful lit up in the early winter evening as you drive slowly through the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Bernardins (ancien)",
+                "hu": "Couvent des Bernardins (ancien)",
+                "ro": "Couvent des Bernardins (ancien)",
+                "en": "Couvent des Bernardins (ancien)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in den kühlen, friedlichen Mauern und lassen Sie den Wintermantel an.",
+                "hu": "Zárja az utat a hűvös, de békés ősi falak között, szorosan összehúzva a téli kabátját.",
+                "ro": "Încheiați explorând zidurile antice reci, dar pașnice, păstrând paltonul de iarnă închis.",
+                "en": "End your trip exploring the chilly but peaceful ancient walls, keeping your winter coat zipped up."
+              }
+            }
+          ]
+        }
       }
     }
   }

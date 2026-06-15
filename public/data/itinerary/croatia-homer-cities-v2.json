@@ -160,6 +160,196 @@
         "hu": "Sétánkat a lélegzetelállító Lokve-tónál kezdjük, magunkba szívva a békés reggeli hangulatot, mielőtt felsétálnánk a festői kilátóhoz.\n\nDél közeledtével a helyi érdekességekre fókuszálunk a Békamúzeumban, majd egy elmélyült pillanat következik a Védők Kilátójánál.\n\nA délutánt egy földalatti kalandnak szenteljük a Lokvarka-barlangban, felfedezve annak lenyűgöző cseppkőképződményeit a hűvös mélyben.\n\nSétánkat a Golubinjak Parkerdő hatalmas fái között bolyongva zárjuk, átadva magunkat a horvát vadon békés szürkületi hangulatának.",
         "ro": "Începem turul la uluitorul Lac Lokve, bucurându-ne de atmosfera senină a dimineții, înainte de a urca la punctul de belvedere pitoresc.\n\nPe măsură ce se apropie prânzul, ne îndreptăm atenția spre Muzeul Broaștelor, urmat de un moment de reflecție la Punctul de belvedere al Apărătorilor.\n\nDupă-amiaza este rezervată unei aventuri subterane în Peștera Lokvarka, explorând formațiunile sale magnifice de stalactite și stalagmite.\n\nÎncheiem plimbarea rătăcind printre copacii înalți din Parcul Forestier Golubinjak, admirând amurgul pașnic al sălbăticiei croate.",
         "en": "We start our walking tour at the breathtaking Lokvarsko jezero, taking in the serene morning atmosphere before walking up to the scenic viewpoint.\n\nAs noon approaches, we shift our focus to local curiosities at the Frog Museum, followed by a reflective moment at the Defenders Viewpoint.\n\nThe afternoon is reserved for an underground adventure inside the Lokvarka Cave, exploring its magnificent stalactite and stalagmite formations.\n\nWe conclude our walk wandering through the towering trees of Golubinjak Forest Park, taking in the peaceful twilight of the Croatian wilderness."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem mystischen Nebel über dem Lokve-See, der im sanften Regen besonders ruhig wirkt. Mittags bietet das Froschmuseum einen trockenen und faszinierenden Rückzugsort. Am Nachmittag schützt die Lokvarka-Höhle vor dem Wetter, da sie unter der Erde stets trocken bleibt. Der Abend im Waldpark Golubinjak erfordert Vorsicht auf den rutschigen Pfaden zwischen den Felsen.",
+            "hu": "A reggel ködbe burkolózó Lokve-tóval indul, amely esőben különlegesen nyugodt arcát mutatja. Délben a Békamúzeum nyújt száraz és érdekes menedéket a csapadék elől. Délután a Lokvarka-barlang mélye tökéletes választás, hiszen a föld alatt az eső sem zavarja a felfedezést. Az este a Golubinjak parkerdőben ér véget, ahol a sziklák közötti ösvényeken a csúszós talaj miatt óvatosan haladjunk.",
+            "ro": "Dimineața începe cu o ceață mistică peste Lacul Lokve, care pare extrem de liniștit sub ploaia ușoară. La prânz, Muzeul Broaștelor oferă un refugiu uscat și fascinant. După-amiaza, Peștera Lokvarka este locul ideal pentru a scăpa de vremea rea, fiind protejată sub pământ. Seara în Parcul Golubinjak necesită atenție sporită pe potecile alunecoase dintre stânci.",
+            "en": "The morning starts with a mystical mist over Lake Lokve, which appears exceptionally peaceful in the gentle rain. At noon, the Frog Museum provides a dry and fascinating refuge from the weather. In the afternoon, Lokvarka Cave is the perfect place to escape the rain as it remains dry underground. The evening ends in Golubinjak Forest Park, where caution is needed on slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokvarsko-See",
+                "hu": "Lokve-tó",
+                "ro": "Lacul Lokve",
+                "en": "Lake Lokve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Ruhe des Sees im Regen; wasserfeste Wanderschuhe sind wegen des aufgeweichten Bodens am Ufer unbedingt erforderlich.",
+                "hu": "Élvezd a tó melankolikus nyugalmát az esőben; a felázott part menti talaj miatt vízálló túrabakancs viselete mindenképpen ajánlott a sétához.",
+                "ro": "Bucurați-vă de liniștea melancolică a lacului pe ploaie; încălțămintea impermeabilă este esențială din cauza solului moale de pe malul apei.",
+                "en": "Enjoy the melancholic peace of the lake in the rain; waterproof hiking boots are essential due to the softened ground along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Lokvarsko-See",
+                "hu": "Lokve-tó kilátó",
+                "ro": "Punct de belvedere Lacul Lokve",
+                "en": "Lokve Lake Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den nebligen See ist spektakulär; halten Sie einen Regenschirm bereit, da der Aussichtspunkt dem Wind und Wetter voll ausgesetzt ist.",
+                "hu": "A ködös tó látványa lenyűgöző a magasból; készülj esernyővel, mert a kilátó teljesen kitett a szélnek és az esőnek az erdő szélén.",
+                "ro": "Vederea lacului cețos este spectaculoasă de sus; pregătiți o umbrelă, deoarece punctul de belvedere este complet expus vântului și ploii.",
+                "en": "The view of the misty lake is spectacular from above; keep an umbrella ready as the viewpoint is fully exposed to the wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Froschmuseum",
+                "hu": "Békamúzeum",
+                "ro": "Muzeul Broaștelor",
+                "en": "Frog Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses einzigartige Museum ist die perfekte Indoor-Alternative bei starkem Regen; nehmen Sie sich Zeit, die kuriose Sammlung im Trockenen zu bewundern.",
+                "hu": "Ez az egyedülálló múzeum tökéletes fedett program heves esőzés esetén; szánj időt a különös gyűjtemény megtekintésére a száraz beltérben.",
+                "ro": "Acest muzeu unic este alternativa perfectă de interior în caz de ploaie torențială; acordați-vă timp pentru a admira colecția curioasă la adăpost.",
+                "en": "This unique museum is the perfect indoor alternative during heavy rain; take your time to admire the curious collection in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der kroatischen Verteidiger",
+                "hu": "Horvát Védők Kilátója",
+                "ro": "Punct de belvedere al apărătorilor croați",
+                "en": "Croatian Defenders Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein dramatisches Foto der wolkenverhangenen Berge; achten Sie auf den rutschigen Untergrund beim Aufstieg zur Gedenkstätte.",
+                "hu": "Rövid megálló a felhőkbe burkolózó hegyek drámai fotózásához; ügyelj a csúszós talajra, miközben felmész az emlékhelyhez az esőben.",
+                "ro": "Scurtă oprire pentru o fotografie dramatică a munților acoperiți de nori; atenție la solul alunecos în timp ce urcați spre monument.",
+                "en": "A short stop for a dramatic photo of the cloud-covered mountains; watch out for the slippery ground while walking up to the memorial site."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokvarka-Höhle",
+                "hu": "Lokvarka-barlang",
+                "ro": "Peștera Lokvarka",
+                "en": "Lokvarka Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet natürlichen Schutz vor Regen; die Luftfeuchtigkeit ist hoch, daher ist eine rutschfeste Sohle auf den Metallstufen sehr wichtig.",
+                "hu": "A barlang természetes védelmet nyújt az eső elől; a páratartalom magas, ezért a fém lépcsőkön a csúszásmentes talpú cipő elengedhetetlen.",
+                "ro": "Peștera oferă protecție naturală împotriva ploii; umiditatea este ridicată, deci o talpă antiderapantă pe treptele metalice este foarte importantă.",
+                "en": "The cave offers natural shelter from the rain; humidity is high, so non-slip soles are very important on the metal stairs inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Golubinjak",
+                "hu": "Golubinjak Parkerdő",
+                "ro": "Parcul Forestier Golubinjak",
+                "en": "Golubinjak Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach bietet etwas Schutz, doch die Felswege sind extrem glatt; bleiben Sie auf den Hauptpfaden und nutzen Sie Trekkingstöcke.",
+                "hu": "A sűrű lombozat nyújt némi védelmet, de a sziklás utak rendkívül síkosak; maradj a főösvényeken és használj túrabotot a stabilitásért.",
+                "ro": "Copacii deși oferă puțin adăpost, dar potecile stâncoase sunt extrem de alunecoase; rămâneți pe traseele principale și folosiți bețe de trekking.",
+                "en": "The dense canopy offers some shelter, but the rocky paths are extremely slippery; stay on the main trails and use trekking poles for stability."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Seeufer verspricht kristallklare Ausblicke auf die verschneite Umgebung. Mittags wärmt der Besuch im Museum Körper und Geist auf. Der Nachmittag führt durch die stille Winterlandschaft zur Höhle, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend wird im Waldpark Golubinjak verbracht, wo die Bäume oft in eine weiße Schneedecke gehüllt sind.",
+            "hu": "A fagyos reggel a tóparton kristálytiszta kilátást ígér a havas tájra. Délben a múzeumlátogatás segít felmelegedni a hideg után. A délután a csendes téli vidéken át vezet a barlanghoz, mielőtt a nap 17:00 körül lebukna a horizont alá. Az este a Golubinjak parkerdőben ér véget, ahol a fák gyakran fehér hótakaróba öltöznek.",
+            "ro": "O dimineață geroasă pe malul lacului promite vederi de cristal asupra peisajului înzăpezit. La prânz, vizita la muzeu ajută la încălzirea după frigul de afară. După-amiaza trece prin peisajul liniștit de iarnă spre peșteră, înainte ca soarele să apună în jurul orei 17:00. Seara se încheie în Parcul Golubinjak, unde copacii sunt adesea înzăpeziți.",
+            "en": "A frosty morning by the lake promises crystal-clear views of the snowy surroundings. At noon, a museum visit helps warm up after the cold. The afternoon leads through the quiet winter landscape to the cave before the sun sets around 17:00. The evening concludes in Golubinjak Forest Park, where trees are often draped in white snow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokvarsko-See",
+                "hu": "Lokve-tó",
+                "ro": "Lacul Lokve",
+                "en": "Lake Lokve"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Seeoberfläche bietet ein märchenhaftes Panorama; tragen Sie Thermo-Kleidung, da der Wind über das offene Wasser sehr schneidend sein kann.",
+                "hu": "A befagyott tófelület mesebeli panorámát nyújt; viselj termoruházatot, mert a nyílt víz felől érkező szél nagyon metsző lehet a hidegben.",
+                "ro": "Suprafața înghețată a lacului oferă o panoramă de basm; purtați haine termice, deoarece vântul de peste apa deschisă poate fi foarte tăios.",
+                "en": "The frozen lake surface offers a fairytale panorama; wear thermal clothing as the wind over the open water can be very biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Lokvarsko-See",
+                "hu": "Lokve-tó kilátó",
+                "ro": "Punct de belvedere Lacul Lokve",
+                "en": "Lokve Lake Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Hervorragende Fernsicht durch die laublosen Bäume; achten Sie auf vereiste Stellen am Wegrand und planen Sie den Rückweg vor der frühen Dämmerung ein.",
+                "hu": "Kiváló kilátás nyílik a lomb nélküli fákon keresztül; ügyelj az út menti jeges foltokra, és tervezd meg a visszautat a korai sötétedés előtt.",
+                "ro": "Vizibilitate excelentă prin copacii fără frunze; atenție la porțiunile înghețate de pe drum și planificați întoarcerea înainte de amurgul timpuriu.",
+                "en": "Excellent long-distance views through the leafless trees; watch out for icy patches on the path and plan your return before the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Froschmuseum",
+                "hu": "Békamúzeum",
+                "ro": "Muzeul Broaștelor",
+                "en": "Frog Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp zum Aufwärmen zwischen den Etappen; prüfen Sie die Winteröffnungszeiten vorab, da diese oft kürzer als im Sommer sind.",
+                "hu": "Kellemes megálló a felmelegedéshez a túra szakaszai között; ellenőrizd előre a téli nyitvatartást, mert gyakran rövidebb, mint nyáron.",
+                "ro": "O oprire confortabilă pentru încălzire între etape; verificați programul de iarnă în prealabil, deoarece este adesea mai scurt decât vara.",
+                "en": "A cozy stop to warm up between tour stages; check the winter opening hours in advance, as they are often shorter than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der kroatischen Verteidiger",
+                "hu": "Horvát Védők Kilátója",
+                "ro": "Punct de belvedere al apărătorilor croați",
+                "en": "Croatian Defenders Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schneebedeckten Gipfel von Gorski Kotar; Handschuhe sind beim Fotografieren Pflicht, da die Metallgeländer eiskalt sind.",
+                "hu": "Csodáld meg Gorski Kotar hófödte csúcsait a magasból; fotózáskor a kesztyű kötelező, mert a fémkorlátok jéghidegek a téli fagyban.",
+                "ro": "Admirați vârfurile înzăpezite din Gorski Kotar; mănușile sunt obligatorii la fotografiere, deoarece balustradele metalice sunt extrem de reci.",
+                "en": "Admire the snow-capped peaks of Gorski Kotar; gloves are a must for photography, as the metal railings are ice-cold in the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokvarka-Höhle",
+                "hu": "Lokvarka-barlang",
+                "ro": "Peștera Lokvarka",
+                "en": "Lokvarka Cave"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle ist es wärmer als draußen, da die Temperatur konstant bleibt; tragen Sie dennoch Schichten, um den Kälteschock beim Verlassen zu vermeiden.",
+                "hu": "A barlangban melegebb van, mint kint, mert a hőmérséklet állandó; viselj réteges öltözetet, hogy elkerüld a hidegsokkot a kilépéskor.",
+                "ro": "În peșteră este mai cald decât afară, temperatura fiind constantă; purtați haine în straturi pentru a evita șocul termic la ieșire.",
+                "en": "It is warmer inside the cave than outside due to constant temperatures; wear layers to avoid the cold shock when stepping back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Golubinjak",
+                "hu": "Golubinjak Parkerdő",
+                "ro": "Parcul Forestier Golubinjak",
+                "en": "Golubinjak Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie eine echte Winteridylle zwischen den hohen Tannen; eine Stirnlampe ist ratsam, falls Sie nach 16:30 Uhr noch im Wald unterwegs sind.",
+                "hu": "Élj át egy igazi téli idillt a hatalmas fenyők között; egy fejlámpa hasznos lehet, ha 16:30 után is az erdőben tartózkodsz a korai sötét miatt.",
+                "ro": "Experimentați o idilă de iarnă veritabilă printre brazi; o lanternă frontală este recomandată dacă vă aflați în pădure după ora 16:30.",
+                "en": "Experience a true winter idyll among the tall fir trees; a headlamp is advisable if you are still in the forest after 16:30 due to early darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpártúránk a Lokve-tó partjáról indul, ahol a friss reggeli levegőn csodálatos fotókat készítünk a közeli kilátóból a tájról.\n\nA falu központja felé tekerünk, hogy megnézzük a mókás Békamúzeumot, majd élvezzük a magaslati panorámát a közeli emlékhelyről.\n\nKerékpárjainkat rövid időre túracipőre cserélve leereszkedünk a hűvös Lokvarka-barlangba, majd a Golubinjak-erdő felé vesszük az irányt.\n\nA napot egy festői tekerés zárja a Bajer-tóhoz, amelynek csendes vize tökéletesen tükrözi a lemenő nap meleg árnyalatait az esti fényekben.",
         "ro": "Călătoria cu bicicleta începe pe malul Lacului Lokve, surprinzând fotografii frumoase de la punctul de belvedere în aerul proaspăt al dimineții.\n\nPedalăm spre centrul satului pentru a vizita ineditul Muzeu al Broaștelor, apoi admirăm panorama de la punctul de belvedere comemorativ.\n\nSchimbăm scurt bicicletele cu pantofi de drumeție pentru a coborî în Peștera Lokvarka, urmată de o plimbare spre Pădurea Golubinjak.\n\nZiua se încheie cu un traseu pitoresc spre Lacul Bajer, unde apele liniștite reflectă perfect nuanțele calde ale soarelui la apus.",
         "en": "Our cycling journey kicks off around the shores of Lokvarsko jezero, capturing beautiful photos from the nearby viewpoint in the crisp morning air.\n\nWe pedal towards the village center to visit the quirky Frog Museum and then enjoy the elevated panorama from the nearby memorial viewpoint.\n\nTrading our bikes for walking shoes momentarily, we descend into the chilly depths of Lokvarka Cave, followed by a ride to Golubinjak Forest.\n\nThe day ends with a scenic cycling stretch to Lake Bajer, where the calm waters perfectly reflect the warm hues of the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Lokve-See erfordert bei Regen volle Konzentration auf den unbefestigten Wegen. Mittags bietet das Museum eine willkommene Pause im Trockenen. Nachmittags erkunden wir die Höhle, während die Räder sicher geparkt sind. Der Tag endet mit einer Fahrt zum Bajer-See, wobei Schutzbleche und wasserfeste Kleidung für die nassen Straßen unerlässlich sind.",
+            "hu": "A Lokve-tó körüli kerékpározás esőben teljes koncentrációt igényel a burkolatlan utakon. Délben a múzeum szívesen látott száraz pihenőt kínál. Délután a barlangot fedezzük fel, amíg a biciklik biztonságban állnak. A nap a Bajer-tónál ér véget, ahol a sárvédő és a vízálló ruházat elengedhetetlen a vizes aszfalton.",
+            "ro": "Turul cu bicicleta în jurul lacului Lokve necesită concentrare maximă pe drumurile neasfaltate pe timp de ploaie. La prânz, muzeul oferă o pauză binemeritată la uscat. După-amiaza explorăm peștera, în timp ce bicicletele sunt parcate sigur. Ziua se încheie cu o plimbare spre Lacul Bajer, apărătorile de noroi și hainele impermeabile fiind esențiale.",
+            "en": "The cycling tour around Lake Lokve requires full concentration on unpaved paths in the rain. At noon, the museum offers a welcome dry break. In the afternoon, we explore the cave while bikes are safely parked. The day ends with a ride to Lake Bajer, where mudguards and waterproof gear are essential for the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokvarsko-See",
+                "hu": "Lokve-tó",
+                "ro": "Lacul Lokve",
+                "en": "Lake Lokve"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Wurzeln auf den Uferwegen; reduzieren Sie den Reifendruck leicht für besseren Grip auf dem nassen und weichen Untergrund.",
+                "hu": "Vigyázz a csúszós gyökerekre a tóparti utakon; csökkentsd kicsit a guminyomást a jobb tapadás érdekében a vizes, felázott talajon.",
+                "ro": "Atenție la rădăcinile alunecoase pe potecile de pe mal; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe solul ud.",
+                "en": "Watch out for slippery roots on the lakeside paths; slightly reduce tire pressure for better grip on the wet and soft terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Lokvarsko-See",
+                "hu": "Lokve-tó kilátó",
+                "ro": "Punct de belvedere Lacul Lokve",
+                "en": "Lokve Lake Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein steiler Anstieg, der bei Regen rutschig sein kann; nutzen Sie die Bremsen dosiert und genießen Sie den dramatischen Blick auf das graue Wasser.",
+                "hu": "Meredek emelkedő, amely esőben csúszós lehet; adagold óvatosan a féket ereszkedéskor, és élvezd a drámai kilátást a szürke víztükörre.",
+                "ro": "O urcare abruptă care poate fi alunecoasă pe ploaie; folosiți frânele cu moderație și bucurați-vă de vederea dramatică asupra apei gri.",
+                "en": "A steep climb that can be slippery in the rain; use your brakes sparingly on the way down and enjoy the dramatic view of the gray water."
+              }
+            },
+            {
+              "name": {
+                "de": "Froschmuseum",
+                "hu": "Békamúzeum",
+                "ro": "Muzeul Broaștelor",
+                "en": "Frog Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken der Räder; das Museum ist der ideale Ort, um die Regenkleidung kurz abzutrocknen.",
+                "hu": "Használd a fedett bejárati részt a kerékpárok tárolására; a múzeum ideális hely arra, hogy kicsit megszárítsd az esőruházatodat a pihenő alatt.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicletele; muzeul este locul ideal pentru a vă usca puțin hainele de ploaie în timpul pauzei.",
+                "en": "Use the covered entrance area to park your bikes; the museum is the ideal place to dry off your rain gear during the break."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der kroatischen Verteidiger",
+                "hu": "Horvát Védők Kilátója",
+                "ro": "Punct de belvedere al apărătorilor croați",
+                "en": "Croatian Defenders Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kurzer, windiger Halt für ein Panoramafoto; achten Sie darauf, dass Ihre Hände an den Bremsen durch die Nässe nicht auskühlen.",
+                "hu": "Rövid, szeles megálló egy panorámafotóhoz; ügyelj rá, hogy a kezeid a fékeken a nedvesség miatt ne hűljenek le túlságosan.",
+                "ro": "Scurtă oprire cu vânt pentru o fotografie panoramică; aveți grijă ca mâinile pe frâne să nu vă înghețe din cauza umezelii.",
+                "en": "A short, windy stop for a panoramic photo; make sure your hands don't get too cold on the brakes due to the wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokvarka-Höhle",
+                "hu": "Lokvarka-barlang",
+                "ro": "Peștera Lokvarka",
+                "en": "Lokvarka Cave"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Räder am Parkplatz fest und genießen Sie die einstündige Führung im Trockenen als Erholung von der nassen Fahrt.",
+                "hu": "Zárd le a bringákat a parkolóban, és élvezd az egyórás vezetett túrát a száraz barlangban, pihenésként a vizes tekerés után.",
+                "ro": "Încuiați bicicletele în parcare și bucurați-vă de turul ghidat de o oră în peștera uscată, ca relaxare după drumul ud.",
+                "en": "Lock your bikes at the parking lot and enjoy the one-hour guided tour in the dry cave as a break from the wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Golubinjak",
+                "hu": "Golubinjak Parkerdő",
+                "ro": "Parcul Forestier Golubinjak",
+                "en": "Golubinjak Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Schotterwegen im Wald; das Laub verdeckt oft tiefe Pfützen und lose Steine, die bei Nässe tückisch sind.",
+                "hu": "Tekerj óvatosan az erdei murvás utakon; a lehullott levelek gyakran mély tócsákat és laza köveket takarnak, amik nedvesen trükkösek.",
+                "ro": "Mergeți cu atenție pe drumurile cu pietriș din pădure; frunzele ascund adesea bălți adânci și pietre libere care sunt înșelătoare pe ud.",
+                "en": "Ride carefully on the forest gravel paths; fallen leaves often hide deep puddles and loose stones that are treacherous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bajer-See",
+                "hu": "Bajer-tó",
+                "ro": "Lacul Bajer",
+                "en": "Lake Bajer"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg um den See ist asphaltiert und bei Regen besser befahrbar; achten Sie dennoch auf die Gischt vorbeifahrender Autos in Seenähe.",
+                "hu": "A tó körüli kerékpárút aszfaltozott és esőben is jól járható; azért ügyelj az autók által felcsapott vízre a tóhoz közeli szakaszokon.",
+                "ro": "Pista de biciclete din jurul lacului este asfaltată și mai practicabilă pe ploaie; totuși, atenție la apa împroșcată de mașini lângă lac.",
+                "en": "The bike path around the lake is paved and easier to ride in the rain; still, watch out for road spray from passing cars near the lake."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch eine glitzernde Welt aus Eis und Frost. Morgens sind die Wege oft gefroren, was gute Reifen erfordert. Mittags bietet das Froschmuseum einen warmen Rückzugsort. Da es gegen 17:00 Uhr dunkel wird, planen wir die Route kompakt, um den Bajer-See noch vor Sonnenuntergang im letzten Licht zu erreichen.",
+            "hu": "A téli kerékpártúra jégből és zúzmarából álló csillogó világon vezet át. Reggel az utak gyakran fagyottak, ami jó gumikat igényel. Délben a Békamúzeum nyújt meleg menedéket. Mivel 17:00 körül sötétedik, az útvonalat kompaktra tervezzük, hogy a Bajer-tavat még naplemente előtt elérjük.",
+            "ro": "Turul de iarnă cu bicicleta trece printr-o lume sclipitoare de gheață și chiciură. Dimineața drumurile sunt adesea înghețate, necesitând anvelope bune. La prânz, muzeul oferă un refugiu cald. Deoarece se întunecă în jurul orei 17:00, planificăm traseul compact pentru a ajunge la Lacul Bajer înainte de apus.",
+            "en": "The winter cycling tour leads through a glittering world of ice and frost. In the morning, paths are often frozen, requiring good tires. At noon, the Frog Museum provides a warm retreat. As it gets dark around 17:00, we plan a compact route to reach Lake Bajer before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokvarsko-See",
+                "hu": "Lokve-tó",
+                "ro": "Lacul Lokve",
+                "en": "Lake Lokve"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung und Winter-Radhandschuhe; die Kälte am Seeufer wird durch die Geschwindigkeit beim Fahren deutlich verstärkt.",
+                "hu": "Viselj szélálló ruházatot és téli kerékpáros kesztyűt; a tóparti hideget a haladási sebesség miatti menetszél jelentősen felerősíti.",
+                "ro": "Purtați haine rezistente la vânt și mănuși de iarnă pentru ciclism; frigul de pe malul lacului este amplificat de viteza de deplasare.",
+                "en": "Wear windproof clothing and winter cycling gloves; the cold at the lakeshore is significantly amplified by the wind chill while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Lokvarsko-See",
+                "hu": "Lokve-tó kilátó",
+                "ro": "Punct de belvedere Lacul Lokve",
+                "en": "Lokve Lake Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Kurven bei der Abfahrt; die klare Winterluft ermöglicht einen unvergleichlichen Fernblick über das gesamte Tal.",
+                "hu": "Vigyázz a jeges kanyarokra az ereszkedésnél; a tiszta téli levegő páratlan távlatokat nyit az egész völgyre a kilátópontról.",
+                "ro": "Atenție la curbele înghețate la coborâre; aerul curat de iarnă permite o vedere panoramică de neegalat asupra întregii văi.",
+                "en": "Watch out for icy turns on the descent; the clear winter air allows for unparalleled long-distance views across the entire valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Froschmuseum",
+                "hu": "Békamúzeum",
+                "ro": "Muzeul Broaștelor",
+                "en": "Frog Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Glieder bei einem heißen Getränk aufzuwärmen; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den späten Nachmittag bereit ist.",
+                "hu": "Ideális hely a végtagok felmelegítéséhez; győződj meg róla, hogy a kerékpár-világításod készen áll a délutáni korai sötétedésre.",
+                "ro": "Un loc ideal pentru a vă încălzi cu o băutură caldă; asigurați-vă că luminile bicicletei sunt pregătite pentru după-amiaza târzie.",
+                "en": "An ideal place to warm up your limbs; make sure your bike lights are ready for the early darkness in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der kroatischen Verteidiger",
+                "hu": "Horvát Védők Kilátója",
+                "ro": "Punct de belvedere al apărătorilor croați",
+                "en": "Croatian Defenders Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm, aber oben am Denkmal pfeift der kalte Winterwind; halten Sie den Aufenthalt kurz, um nicht auszukühlen.",
+                "hu": "Az emelkedő melegen tart, de fent az emlékműnél süvít a hideg téli szél; tartsd röviden a megállót, hogy ne hűlj ki teljesen.",
+                "ro": "Urcarea vă ține cald, dar sus la monument suflă vântul rece de iarnă; mențineți oprirea scurtă pentru a nu vă răci prea tare.",
+                "en": "The climb keeps you warm, but at the memorial, the cold winter wind whistles; keep the stop short to avoid getting too chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokvarka-Höhle",
+                "hu": "Lokvarka-barlang",
+                "ro": "Peștera Lokvarka",
+                "en": "Lokvarka Cave"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle herrschen angenehme 8 Grad; nutzen Sie die Zeit, um die Muskulatur zu lockern, bevor es zurück in den Frost geht.",
+                "hu": "A barlangban kellemes 8 fok van; használd ki az időt az izmaid ellazítására a séta alatt, mielőtt visszatérnél a kinti fagyba.",
+                "ro": "În peșteră sunt 8 grade constante; folosiți timpul pentru a vă relaxa mușchii în timpul plimbării înainte de a reveni în ger.",
+                "en": "The cave maintains a constant 8 degrees; use the time to loosen your muscles during the walk before heading back out into the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Golubinjak",
+                "hu": "Golubinjak Parkerdő",
+                "ro": "Parcul Forestier Golubinjak",
+                "en": "Golubinjak Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf geräumten Wegen, da Tiefschnee die Fahrzeit extrem verlängert; die verschneiten Felsformationen sind ein tolles Fotomotiv.",
+                "hu": "Csak a letakarított utakon tekerj, mert a mély hó jelentősen lelassít; a havas sziklaformációk lenyűgöző fotótémát szolgáltatnak.",
+                "ro": "Mergeți doar pe drumurile curățate, deoarece zăpada adâncă încetinește mult; formațiunile stâncoase înzăpezite sunt un subiect foto excelent.",
+                "en": "Ride only on cleared paths, as deep snow will significantly increase travel time; the snowy rock formations are a great photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Bajer-See",
+                "hu": "Bajer-tó",
+                "ro": "Lacul Bajer",
+                "en": "Lake Bajer"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den See vor 17:00 Uhr, um das blaue Licht der Dämmerung auf dem Eis zu erleben; die Heimfahrt im Dunkeln erfordert gute Reflektoren.",
+                "hu": "Érj a tóhoz 17:00 előtt, hogy lásd a szürkület kék fényeit a jégen; a sötétben való hazatekeréshez jó fényvisszaverők szükségesek.",
+                "ro": "Ajungeți la lac înainte de ora 17:00 pentru a vedea luminile albastre ale amurgului pe gheață; drumul spre casă necesită reflectorizante bune.",
+                "en": "Reach the lake before 17:00 to see the blue light of dusk on the ice; cycling home in the dark requires high-quality reflectors."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "A festői Gorski Kotar régión átívelő autózás a Lokve-tónál kezdődik, ahonnan gyorsan felhajtunk a kilátóhoz egy átfogó reggeli panorámáért.\n\nLokve felé vesszük az irányt, hogy felfedezzük a Békamúzeumot, majd egy lenyűgöző vezetett túrán veszünk részt a Lokvarka-barlang mélyén.\n\nEgy rövid autóút a Golubinjak Parkerdő fenséges fáihoz visz, mielőtt legurulnánk a Bajer-tó élettel teli, varázslatos partjaihoz délutánra.\n\nAz utazás a Lepenica-tó és a félreeső Potkoš természetének felfedezésével ér véget, tökéletes, csendes környezetet biztosítva a naplementéhez.",
         "ro": "Conducerea prin pitoreasca regiune Gorski Kotar începe la Lacul Lokve, urcând rapid spre punctul de belvedere pentru o privire de ansamblu matinală.\n\nNe îndreptăm spre Lokve pentru a explora Muzeul Broaștelor, urmat de un tur ghidat fascinant în adâncurile remarcabile ale Peșterii Lokvarka.\n\nO scurtă plimbare ne aduce la coniferele maiestuoase din Parcul Forestier Golubinjak, înainte de a coborî spre țărmurile pline de viață ale Lacului Bajer.\n\nExcursia se încheie cu explorarea Lacului Lepenica și a naturii izolate din Potkoš, oferind un mediu perfect liniștit pentru a privi apusul.",
         "en": "Driving through the scenic Gorski Kotar region begins at Lokvarsko jezero, taking a quick drive up to the viewpoint for a sweeping morning overview.\n\nWe head into Lokve to explore the unique Frog Museum, followed by a fascinating guided tour into the remarkable depths of the Lokvarka Cave.\n\nA short drive brings us to the majestic conifers of Golubinjak Forest Park, before cruising down to the lively shores of Lake Bajer.\n\nThe road trip concludes by exploring Lake Lepenica and the secluded nature of Potkoš, offering a perfectly quiet environment to watch the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch Lokve bietet bei Regen maximalen Komfort zwischen den Zielen. Den Morgen verbringen wir am nebligen Seeufer, bevor wir mittags im Froschmuseum trockenes Wissen sammeln. Der Nachmittag führt in die Lokvarka-Höhle und den Waldpark Golubinjak. Den Abend lassen wir an den Seen Bajer und Lepenica sowie in Potkoš bei stimmungsvollem Regenwetter ausklingen.",
+            "hu": "Az autóút Lokve környékén esőben is kényelmes közlekedést biztosít a látnivalók között. A reggelt a ködös tóparton töltjük, majd délben a Békamúzeumban gyűjtünk ismereteket szárazon. A délután a barlanghoz és a Golubinjak parkerdőhöz vezet. Az estét a Bajer- és Lepenica-tavaknál, majd Potkošban zárjuk a hangulatos esőben.",
+            "ro": "Turul cu mașina prin Lokve oferă confort maxim între destinații pe timp de ploaie. Dimineața o petrecem pe malul cețos al lacului, apoi la prânz vizităm Muzeul Broaștelor. După-amiaza ne duce la peșteră și în Parcul Golubinjak. Seara se încheie la lacurile Bajer și Lepenica, apoi în Potkoš, sub ploaia atmosferică.",
+            "en": "The car tour through Lokve offers maximum comfort between destinations during the rain. Spend the morning at the misty lakeshore before gathering dry facts at the Frog Museum at noon. The afternoon leads to the cave and Golubinjak Park. End the evening at lakes Bajer and Lepenica and in Potkoš in the atmospheric rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokvarsko-See",
+                "hu": "Lokve-tó",
+                "ro": "Lacul Lokve",
+                "en": "Lake Lokve"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer und genießen Sie den Blick aus dem trockenen Auto; für kurze Spaziergänge ist ein stabiler Regenschirm wegen des Winds ratsam.",
+                "hu": "Parkolj közel a parthoz, és élvezd a kilátást a száraz autóból; a rövid sétákhoz a szél miatt egy strapabíró esernyő mindenképpen ajánlott.",
+                "ro": "Parcați aproape de mal și bucurați-vă de vedere din mașina uscată; pentru plimbări scurte, o umbrelă rezistentă este recomandată din cauza vântului.",
+                "en": "Park close to the shore and enjoy the view from your dry car; for short walks, a sturdy umbrella is advisable due to the lakeside wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Lokvarsko-See",
+                "hu": "Lokve-tó kilátó",
+                "ro": "Punct de belvedere Lacul Lokve",
+                "en": "Lokve Lake Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen etwas schlammig sein; parken Sie vorsichtig und nutzen Sie den Halt für ein schnelles Foto des wolkenverhangenen Sees.",
+                "hu": "A kilátóhoz vezető út heves esőzéskor sáros lehet; parkolj óvatosan, és használd ki a megállót a felhőkbe burkolózó tó gyors lefotózására.",
+                "ro": "Accesul poate fi noroios în caz de ploaie torențială; parcați cu atenție și profitați de oprire pentru o fotografie rapidă a lacului acoperit de nori.",
+                "en": "The access road can be muddy in heavy rain; park carefully and use the stop for a quick photo of the cloud-covered lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Froschmuseum",
+                "hu": "Békamúzeum",
+                "ro": "Muzeul Broaștelor",
+                "en": "Frog Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp; direkt vor dem Museum gibt es Parkplätze, sodass Sie nur wenige Schritte durch den Regen laufen müssen.",
+                "hu": "Ideális fedett megálló; közvetlenül a múzeum előtt vannak parkolóhelyek, így csak pár lépést kell megtenned az esőben a bejáratig.",
+                "ro": "O oprire ideală la interior; există locuri de parcare direct în fața muzeului, deci veți face doar câțiva pași prin ploaie până la intrare.",
+                "en": "An ideal indoor stop; there are parking spaces directly in front of the museum, so you only have to walk a few steps through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokvarka-Höhle",
+                "hu": "Lokvarka-barlang",
+                "ro": "Peștera Lokvarka",
+                "en": "Lokvarka Cave"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz; die Höhle ist die beste Wahl bei Regen, da sie komplett wetterunabhängig erkundet werden kann.",
+                "hu": "Parkolj a kövezett részen; a barlang a legjobb választás esőben, mivel az időjárástól teljesen függetlenül fedezhető fel a mélye.",
+                "ro": "Parcați pe locul amenajat; peștera este cea mai bună alegere pe ploaie, deoarece poate fi explorată complet independent de vreme.",
+                "en": "Park in the paved area; the cave is the best choice in the rain, as it can be explored completely independently of the weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Golubinjak",
+                "hu": "Golubinjak Parkerdő",
+                "ro": "Parcul Forestier Golubinjak",
+                "en": "Golubinjak Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Das Restaurant am Parkeingang bietet Schutz und lokale Küche, falls der Regen zu stark wird; die Felswege im Wald sind extrem rutschig.",
+                "hu": "A park bejáratánál lévő étterem menedéket és helyi ételeket kínál, ha túl erősen esne; az erdei sziklás utak rendkívül csúszósak.",
+                "ro": "Restaurantul de la intrarea în parc oferă adăpost și bucătărie locală dacă ploaia devine prea puternică; potecile stâncoase sunt foarte alunecoase.",
+                "en": "The restaurant at the park entrance offers shelter and local cuisine if the rain gets too heavy; the rocky paths in the forest are very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Bajer-See",
+                "hu": "Bajer-tó",
+                "ro": "Lacul Bajer",
+                "en": "Lake Bajer"
+              },
+              "tip_5lang": {
+                "de": "Die Uferstraße bietet tolle Ausblicke direkt aus dem Fenster; achten Sie beim Aussteigen auf Pfützen auf den unbefestigten Parkstreifen.",
+                "hu": "A tóparti út remek kilátást nyújt közvetlenül az autó ablakából; kiszálláskor ügyelj a tócsákra a burkolatlan út menti parkolóhelyeken.",
+                "ro": "Drumul de pe mal oferă vederi excelente direct de la fereastra mașinii; atenție la bălți la coborârea din mașină în parcările neamenajate.",
+                "en": "The lakeside road offers great views directly from the car window; watch out for puddles when getting out in unpaved parking strips."
+              }
+            },
+            {
+              "name": {
+                "de": "Lepenica-See",
+                "hu": "Lepenica-tó",
+                "ro": "Lacul Lepenica",
+                "en": "Lake Lepenica"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen auf die Wasseroberfläche prasseln zu sehen; die Zufahrtswege sind schmal, fahren Sie bei Nässe besonders vorsichtig.",
+                "hu": "Nyugodt hely, ahol nézheted a vízfelületre hulló esőt; a bekötőutak keskenyek, ezért nedves úton vezess különösen óvatosan a kanyarokban.",
+                "ro": "Un loc liniștit pentru a privi ploaia căzând pe suprafața apei; drumurile de acces sunt înguste, conduceți cu prudență pe carosabil ud.",
+                "en": "A peaceful spot to watch the rain fall on the water surface; the access roads are narrow, so drive especially carefully in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Potkoš",
+                "hu": "Potkoš",
+                "ro": "Potkoš",
+                "en": "Potkoš"
+              },
+              "tip_5lang": {
+                "de": "Ein verstecktes Juwel, das im Regen besonders grün leuchtet; nutzen Sie die kurzen Regenpausen für einen Spaziergang durch die Natur.",
+                "hu": "Egy rejtett ékszerdoboz, amely esőben különösen zölden ragyog; használd ki a rövid esőszüneteket egy frissítő természetjáráshoz.",
+                "ro": "O bijuterie ascunsă care strălucește intens în verde pe ploaie; profitați de scurtele pauze de ploaie pentru o plimbare în natură.",
+                "en": "A hidden gem that glows particularly green in the rain; take advantage of short breaks in the rain for a refreshing walk in nature."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die Freiheit, die weite Seenlandschaft von Lokve sicher zu erkunden. Morgens glänzt der Frost am See, während die Heizung im Wagen für Wärme sorgt. Mittags steht Kultur im Museum auf dem Programm. Am Nachmittag besuchen wir die Höhle und den Waldpark, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr die malerischen Ausblicke in Potkoš genießen.",
+            "hu": "Télen az autó szabadságot ad Lokve tágas tóvidékének biztonságos felfedezéséhez. Reggel a tóparton csillog a dér, miközben az autó fűtése meleget ad. Délben kulturális program vár a múzeumban. Délután meglátogatjuk a barlangot és a parkerdőt, majd pontban a 17:00-s naplementére Potkoš festői kilátóhelyére érünk.",
+            "ro": "Iarna, mașina oferă libertatea de a explora în siguranță peisajul lacustru din Lokve. Dimineața, promoroaca strălucește pe malul lacului, în timp ce căldura din mașină oferă confort. La prânz, vizităm muzeul. După-amiaza mergem la peșteră și în parc, ajungând exact pentru apusul de la ora 17:00 în Potkoš.",
+            "en": "In winter, the car provides the freedom to safely explore Lokve's vast lake district. In the morning, frost glitters by the lake while the car heater keeps you warm. At noon, enjoy a museum visit. The afternoon includes the cave and forest park, arriving at Potkoš just in time for the 15:00 sunset views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokvarsko-See",
+                "hu": "Lokve-tó",
+                "ro": "Lacul Lokve",
+                "en": "Lake Lokve"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Brücken und Schattenseiten der Uferstraße; der Blick auf den dampfenden See im Morgenfrost ist unvergleichlich.",
+                "hu": "Ügyelj a jegesedésre a hidakon és a tóparti út árnyékos részein; a reggeli fagyban gőzölgő tó látványa semmihez sem fogható élmény.",
+                "ro": "Atenție la polei pe poduri și pe zonele umbrite ale drumului de pe mal; vederea lacului aburind în gerul dimineții este incomparabilă.",
+                "en": "Watch out for black ice on bridges and shaded parts of the lakeside road; the view of the steaming lake in the morning frost is incomparable."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Lokvarsko-See",
+                "hu": "Lokve-tó kilátó",
+                "ro": "Punct de belvedere Lacul Lokve",
+                "en": "Lokve Lake Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Winterreifen sind für die steilen Abschnitte zwingend erforderlich; genießen Sie die klare Sicht auf die schneebedeckten Gipfel der Umgebung.",
+                "hu": "A téli gumi kötelező a meredek szakaszokon a biztonságos közlekedéshez; élvezd a tiszta kilátást a környék hófödte hegycsúcsaira.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru secțiunile abrupte; bucurați-vă de vederea clară asupra vârfurilor înzăpezite din jur.",
+                "en": "Winter tires are mandatory for the steep sections; enjoy the clear visibility and the view of the surrounding snow-capped peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Froschmuseum",
+                "hu": "Békamúzeum",
+                "ro": "Muzeul Broaștelor",
+                "en": "Frog Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp; parken Sie direkt davor und nutzen Sie die Zeit für eine Pause im beheizten Gebäude, bevor es weitergeht.",
+                "hu": "Meleg köztes megálló; parkolj közvetlenül előtte, és használd ki az időt egy pihenőre a fűtött épületben, mielőtt továbbindulnál a hidegbe.",
+                "ro": "O oprire caldă; parcați direct în față și profitați de timp pentru o pauză în clădirea încălzită înainte de a pleca mai departe.",
+                "en": "A warm stopover; park directly in front and use the time for a break in the heated building before heading back into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokvarka-Höhle",
+                "hu": "Lokvarka-barlang",
+                "ro": "Peștera Lokvarka",
+                "en": "Lokvarka Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur in der Höhle ist im Winter angenehmer als draußen; prüfen Sie vorab, ob die Zufahrtsstraße geräumt und befahrbar ist.",
+                "hu": "A barlang hőmérséklete télen kellemesebb, mint a kinti fagy; előre ellenőrizd, hogy a bekötőút le van-e takarítva és járható-e autóval.",
+                "ro": "Temperatura în peșteră este mai plăcută iarna decât afară; verificați în prealabil dacă drumul de acces este deszăpezit și practicabil.",
+                "en": "The cave temperature is more pleasant in winter than the frost outside; check in advance if the access road is cleared and driveable."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldpark Golubinjak",
+                "hu": "Golubinjak Parkerdő",
+                "ro": "Parcul Forestier Golubinjak",
+                "en": "Golubinjak Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den vereisten Waldwegen zum Parkplatz; die verschneite Felslandschaft wirkt wie aus einer anderen Welt.",
+                "hu": "Vezess óvatosan a jeges erdei utakon a parkolóig; a havas sziklavilág látványa olyan, mintha egy másik világba csöppentél volna.",
+                "ro": "Conduceți cu atenție pe drumurile forestiere înghețate până la parcare; peisajul stâncos înzăpezit pare desprins dintr-o altă lume.",
+                "en": "Drive carefully on the icy forest roads to the parking lot; the snowy rock landscape looks like it belongs to another world."
+              }
+            },
+            {
+              "name": {
+                "de": "Bajer-See",
+                "hu": "Bajer-tó",
+                "ro": "Lacul Bajer",
+                "en": "Lake Bajer"
+              },
+              "tip_5lang": {
+                "de": "Gute Parkmöglichkeiten direkt am Seeufer; beobachten Sie den Sonnenuntergang über dem Eis bequem vom beheizten Fahrersitz aus.",
+                "hu": "Jó parkolási lehetőség közvetlenül a tóparton; nézd végig a jég feletti naplementét kényelmesen, a fűtött autóülésből.",
+                "ro": "Posibilități bune de parcare chiar pe malul lacului; urmăriți apusul peste gheață confortabil, din scaunul încălzit al mașinii.",
+                "en": "Good parking options directly on the lakeshore; watch the sunset over the ice comfortably from your heated car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Lepenica-See",
+                "hu": "Lepenica-tó",
+                "ro": "Lacul Lepenica",
+                "en": "Lake Lepenica"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zum See kann im Winter tückisch sein; fahren Sie langsam und achten Sie auf Entgegenkommer in den engen Kurven.",
+                "hu": "A tóhoz vezető keskeny út télen trükkös lehet; vezess lassan és ügyelj a szembejövőkre a beláthatatlan, szűk kanyarokban.",
+                "ro": "Drumul îngust spre lac poate fi înșelător iarna; conduceți încet și fiți atenți la mașinile care vin din sens opus în curbele strânse.",
+                "en": "The narrow road to the lake can be treacherous in winter; drive slowly and watch out for oncoming traffic in the tight corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Potkoš",
+                "hu": "Potkoš",
+                "ro": "Potkoš",
+                "en": "Potkoš"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ort für Fotos in der blauen Stunde; da es früh dunkel wird, stellen Sie sicher, dass Ihre Autobeleuchtung einwandfrei funktioniert.",
+                "hu": "Ideális helyszín fotózáshoz a kék órában; mivel korán sötétedik, győződj meg róla, hogy az autó világítása megfelelően működik.",
+                "ro": "Locație ideală pentru fotografii în ora albastră; deoarece se întunecă devreme, asigurați-vă că luminile mașinii funcționează corect.",
+                "en": "Ideal location for photography during the blue hour; since it gets dark early, ensure your car's lighting is functioning perfectly."
+              }
+            }
+          ]
+        }
       }
     }
   }

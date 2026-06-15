@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az ősi római temető gazdag történelmének felfedezésével. A nap közepén tegyen időutazást a bazilika romjainál és a híres velencei világítótoronynál. Délután tegyen egy festői sétát a lenyűgöző Throni régészeti lelőhelyéhez. Zárja a napot a békés helyi tengerpart homokján pihenve, miközben a nap lassan lebukik a horizonton.",
         "ro": "Începeți dimineața descoperind istoria bogată la vechiul cimitir roman. La prânz, călătoriți în timp vizitând ruinele uimitoare ale Bazilicii și emblematicul far venețian. După-amiaza, faceți o plimbare pitorească până la minunea arheologică Throni. Încheiați ziua relaxându-vă pe nisipul liniștit al plajei locale, în timp ce soarele apune ușor.",
         "en": "Start your morning by delving into the rich history at the ancient Roman Cemetery. Midday takes you through time with visits to the striking ruins of the Basilica and the iconic Venetian Lighthouse. In the afternoon, enjoy a scenic stroll to the archaeological wonder of Throni. End your day relaxing on the peaceful sands of the local Beach as the sun gently sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem Regenschirm am römischen Friedhof. Mittags spazieren Sie vorsichtig über die nassen Wege zur Basilika und zum venezianischen Leuchtturm. Nachmittags ist auf dem Weg nach Throni wasserfestes Schuhwerk gefragt. Beenden Sie den Tag am Strand unter einer überdachten Terrasse und lauschen Sie dem Regen.",
+            "hu": "A reggelt esernyővel a római temető romjainál kezdjük. Délben óvatosan sétáljunk a bazilikához és a velencei világítótoronyhoz, a csúszós kövekre figyelve. Délután a Throni felé vezető úton vízálló cipő javasolt. Az estét a tengerpart közelében, egy fedett teraszon zárjuk, hallgatva az esőcseppeket.",
+            "ro": "Începeți dimineața la cimitirul roman cu o umbrelă robustă. La prânz, parcurgeți cu grijă cărările umede spre bazilică și farul venețian, adăpostindu-vă la nevoie. După-amiaza, drumul spre Throni necesită încălțăminte impermeabilă. Seara, relaxați-vă lângă plajă sub o terasă acoperită, ascultând sunetul ploii.",
+            "en": "Start your morning exploring the Roman Cemetery with an umbrella. By midday, carefully navigate the wet paths to the Basilica and Venetian Lighthouse, seeking brief shelter if rain intensifies. In the afternoon, the walk to Throni requires waterproof shoes. End the day listening to the rain on the beach, perhaps under a covered terrace nearby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römischer Friedhof",
+                "hu": "Római temető",
+                "ro": "Cimitirul Roman",
+                "en": "Roman Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm mit; die alten Steine können sehr rutschig sein, achten Sie auf Ihre Schritte.",
+                "hu": "Vigyél esernyőt az ősi sírok felfedezéséhez; a vizes kövek csúszósak lehetnek, így lépj nagyon óvatosan.",
+                "ro": "Luați o umbrelă pentru a explora mormintele antice; pietrele ude pot fi alunecoase, așa că pășiți cu atenție.",
+                "en": "Bring an umbrella to explore the ancient graves; the wet stones can be slippery, so watch your step closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Fiscardo",
+                "hu": "Fiskardói bazilika",
+                "ro": "Bazilica din Fiscardo",
+                "en": "Basilica of Fiscardo"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten kaum Schutz, tragen Sie eine Regenjacke, während Sie die neblige Atmosphäre genießen.",
+                "hu": "A romok nem adnak sok menedéket, viselj jó esőkabátot, miközben a borongós időben megcsodálod az építészetet.",
+                "ro": "Ruinele oferă puțin adăpost, deci purtați o pelerină de ploaie bună în timp ce admirați arhitectura istorică.",
+                "en": "The ruins offer little cover, so wear a good raincoat while admiring the architecture in the atmospheric rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Leuchtturm",
+                "hu": "Velencei világítótorony",
+                "ro": "Farul Venețian",
+                "en": "Venetian Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm wird matschig; wasserfeste Schuhe sind wichtig, um die dramatische Aussicht zu genießen.",
+                "hu": "A világítótoronyhoz vezető ösvény saras lehet; a vízálló cipő elengedhetetlen a drámai tengeri kilátás élvezetéhez.",
+                "ro": "Poteca spre far devine noroioasă; încălțămintea impermeabilă e esențială pentru a admira priveliștea dramatică.",
+                "en": "The path to the lighthouse gets muddy; waterproof shoes are essential to enjoy the dramatic, stormy sea views."
+              }
+            },
+            {
+              "name": {
+                "de": "Throni",
+                "hu": "Throni",
+                "ro": "Throni",
+                "en": "Throni"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen wirken im Regen mystisch; das Gelände ist uneben, gehen Sie langsam und vorsichtig.",
+                "hu": "Az ősi romok misztikusak az esőben, de a terep egyenetlen, haladj lassan és óvatosan a nedves aljnövényzetben.",
+                "ro": "Ruinele arată mistic în ploaie, dar terenul este denivelat, deci mergeți încet și cu multă prudență pe cărări.",
+                "en": "The ancient ruins look mystical in the rain, but the terrain is uneven, so take slow steps and use trekking poles if possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Tengerpart",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein überdachtes Café in der Nähe, um dem Regen auf der Meeresoberfläche zuzusehen.",
+                "hu": "Keress egy közeli fedett kávézót, és onnan nézd, ahogy az esőcseppek táncolnak a tenger felszínén a nedves homok helyett.",
+                "ro": "Căutați o cafenea acoperită în apropiere pentru a privi ploaia dansând pe mare, în loc să stați pe nisipul ud.",
+                "en": "Seek a nearby covered cafe to watch the rain dance on the sea surface instead of walking on the wet sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen frischen Morgenspaziergang zum römischen Friedhof in der kühlen Winterluft. Mittags besuchen Sie die Basilika und den Leuchtturm, warm angezogen gegen die Meeresbrise. Nachmittags ist Throni ideal vor der frühen Dämmerung. Beenden Sie den Tag gegen 17:00 Uhr am Strand bei einem frühen Sonnenuntergang.",
+            "hu": "Élvezd a friss reggeli sétát a római temetőhöz a hűvös téli levegőben. Dél körül látogasd meg a bazilikát és a világítótornyot, rétegesen öltözve a parti szél ellen. A délutáni Throni-túra tökéletes a korai szürkület előtt. A napot 17:00 körül a tengerpart közelében zárd, megcsodálva a korai naplementét.",
+            "ro": "Bucurați-vă de o plimbare matinală la cimitirul roman în aerul rece de iarnă. La prânz, vizitați bazilica și farul venețian, purtând straturi calde împotriva brizei. După-amiaza la Throni este perfectă înaintea amurgului. Încheiați ziua în jur de 17:00 pe plajă, admirând apusul timpuriu cu o băutură caldă.",
+            "en": "Enjoy a brisk morning walk to the Roman Cemetery in the cool winter air. Around noon, visit the Basilica and Venetian Lighthouse, dressing in warm layers against the coastal breeze. The afternoon walk to Throni is perfect before the early dusk. Wrap up the day by 17:00 near the beach, catching the early sunset with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römischer Friedhof",
+                "hu": "Római temető",
+                "ro": "Cimitirul Roman",
+                "en": "Roman Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenregen macht die alten Steine kühl; tragen Sie Mütze und Handschuhe bei der Erkundung der Stätte.",
+                "hu": "A reggeli dér hideggé teszi az ősi köveket; viselj meleg sapkát és kesztyűt, miközben bejárod a területet.",
+                "ro": "Gerul dimineții face pietrele antice reci; purtați o căciulă caldă și mănuși în timp ce explorați situl istoric.",
+                "en": "The morning frost can make the ancient stones chilly and crisp; wear a warm hat and gloves while exploring the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Fiscardo",
+                "hu": "Fiskardói bazilika",
+                "ro": "Bazilica din Fiscardo",
+                "en": "Basilica of Fiscardo"
+              },
+              "tip_5lang": {
+                "de": "Winterwinde vom Meer machen diesen offenen Ort kalt; wickeln Sie sich in einen dicken Schal, um warm zu bleiben.",
+                "hu": "A tenger felől fújó téli szél hideggé teszi ezt a nyílt helyet; burkolózz egy vastag sálba a kényelem érdekében.",
+                "ro": "Vânturile de iarnă dinspre mare fac acest loc expus să fie rece; înfășurați-vă într-un fular gros pentru confort.",
+                "en": "Winter winds blowing off the sea make this exposed site cold; wrap up in a thick scarf to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Leuchtturm",
+                "hu": "Velencei világítótorony",
+                "ro": "Farul Venețian",
+                "en": "Venetian Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg bietet tolle Wintersonne, aber die Winde sind beißend; tragen Sie entsprechende warme Kleidung.",
+                "hu": "A parti ösvényen remekül süt a téli nap, de a szél csípős, ezért mindenképpen öltözz rétegesen és melegen.",
+                "ro": "Poteca de coastă oferă un soare de iarnă plăcut, dar vânturile sunt tăioase, așa că îmbrăcați-vă în straturi.",
+                "en": "The coastal path is completely unshaded, offering great winter sun, but the winds are biting, so layer appropriately."
+              }
+            },
+            {
+              "name": {
+                "de": "Throni",
+                "hu": "Throni",
+                "ro": "Throni",
+                "en": "Throni"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 15:30 Uhr, da die Schatten im Wald an frühen Winternachmittagen schnell länger werden.",
+                "hu": "Tervezd ide a látogatást 15:30 előtt, mivel az árnyékok gyorsan megnőnek az erdőben a kora téli délutánokon.",
+                "ro": "Planificați vizita înainte de 15:30, deoarece umbrele se lungesc rapid în pădure în după-amiezile timpurii de iarnă.",
+                "en": "Plan your visit here before 15:30, as shadows lengthen quickly in the forest during the early winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Tengerpart",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Winterstrand um 16:30 Uhr für einen schönen frühen Sonnenuntergang, bevor es dunkel wird.",
+                "hu": "Élvezd a békés, üres téli tengerpartot 16:30-kor a gyönyörű korai naplementéért, mielőtt valami meleg helyre mennél.",
+                "ro": "Bucurați-vă de plaja goală de iarnă la 16:30 pentru un apus timpuriu superb, înainte de a merge într-un loc cald.",
+                "en": "Enjoy the peaceful, empty winter beach at 16:30 for a beautiful early sunset before heading somewhere warm."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a történelmi szélmalom klasszikus helyi építészetének megcsodálásával. Dél közeledtével tekerjen át a történelmen, felfedezve a Thronit és az út menti római temetőt. A délutáni túra a bazilika tengerparti romjaival és a magasodó velencei világítótoronnyal jutalmazza meg. Zárja aktív napját az Emblisi strand kristálytiszta vizénél lazítva.",
         "ro": "Începeți turul cu bicicleta admirând arhitectura clasică locală a morii de vânt istorice. La amiază, pedalați prin istorie explorând Throni și cimitirul roman de pe marginea drumului. Plimbarea de după-amiază vă răsplătește cu ruinele Bazilicii și farul venețian impunător. Încheiați-vă ziua plină de energie relaxându-vă lângă apele cristaline ale plajei Emblisi.",
         "en": "Kick off your cycling tour by admiring the classic local architecture of the historic Windmill. As midday approaches, pedal through history exploring Throni and the fascinating roadside Roman Cemetery. Afternoon riding rewards you with coastal ruins at the Basilica and the towering Venetian Lighthouse. End your energetic day unwinding by the crystal clear waters of Emblisi Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig zur Windmühle im Nieselregen. Mittags navigieren Sie sicher auf den nassen Wegen zu Throni und dem römischen Friedhof, da Reifen rutschen können. Nachmittags zu Basilika und Leuchtturm ist wasserfeste Kleidung nötig. Enden Sie am Emblisi Strand und meiden Sie tiefe Pfützen.",
+            "hu": "Reggel óvatosan tekerj a Szélmalomhoz a szitáló esőben. Délben a Throni és a római temető felé vezető nedves utakon vigyázz, a gumik könnyen megcsúszhatnak. Délután a bazilika és a világítótorony felé vízálló felszerelésre lesz szükséged. Zárj az Emblisi strandnál, kerülve a tengerparti mély tócsákat.",
+            "ro": "Pedalați cu grijă spre moara de vânt în burnița dimineții. La prânz, parcurgeți cu atenție traseele umede spre Throni și cimitirul roman, anvelopele pot aluneca. După-amiaza, drumul spre bazilică și far necesită echipament impermeabil. Terminați la plaja Emblisi, evitând bălțile adânci de pe drumul de coastă.",
+            "en": "Start cycling cautiously to the Windmill in the morning drizzle. By noon, carefully navigate the wet trails to Throni and the Roman Cemetery, as tires can easily slip. Afternoon biking to the Basilica and Lighthouse requires focused riding and waterproof gear. Finish by parking near Emblisi Beach, avoiding deep puddles along the coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moară de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Windmühle wird matschig; parken Sie sicher auf festem Untergrund und tragen Sie Regenkleidung.",
+                "hu": "A szélmalom körüli talaj sáros lehet; parkold le a bringát szilárd talajon, és viselj jó esőkabátot.",
+                "ro": "Terenul din jurul morii devine noroios; parcați bicicleta pe teren solid și purtați o pelerină de ploaie bună.",
+                "en": "The ground around the windmill gets muddy; park your bike safely on solid ground and wear a good raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Throni",
+                "hu": "Throni",
+                "ro": "Throni",
+                "en": "Throni"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg kann bei Nässe sehr rutschig sein; bremsen Sie sanft und fahren Sie langsam durch die Kurven.",
+                "hu": "Az itteni kerékpárút nedvesen nagyon csúszós lehet; fékezz óvatosan, és tartsd alacsonyan a sebességet a kanyarokban.",
+                "ro": "Pista de biciclete poate fi foarte alunecoasă pe ploaie; frânați ușor și reduceți viteza în viraje.",
+                "en": "The cycling path here can be very slippery when wet; brake gently and keep your speed low through the turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Friedhof",
+                "hu": "Római temető",
+                "ro": "Cimitirul Roman",
+                "en": "Roman Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad unter einem Baum ab, damit der Sattel trocken bleibt, während Sie die Ruinen erkunden.",
+                "hu": "Zárd le a biciklit egy közeli fa alatt, hogy az ülés száraz maradjon, amíg felfedezed az ősi, eső áztatta romokat.",
+                "ro": "Legați bicicleta sub un copac pentru a menține șaua uscată în timp ce explorați ruinele spălate de ploaie.",
+                "en": "Lock your bike under a nearby tree to keep the seat dry while you explore the ancient, rain-washed ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Fiscardo",
+                "hu": "Fiskardói bazilika",
+                "ro": "Bazilica din Fiscardo",
+                "en": "Basilica of Fiscardo"
+              },
+              "tip_5lang": {
+                "de": "Hier gibt es keinen Schutz, ein wasserfester Rucksacküberzug wird empfohlen, um Ihre Sachen zu schützen.",
+                "hu": "Itt nincs menedék, így egy vízálló hátizsákhuzat erősen ajánlott, hogy megvédje az értékeidet tekerés közben.",
+                "ro": "Aici nu există adăpost, deci o husă impermeabilă pentru rucsac este recomandată pentru a vă proteja bunurile.",
+                "en": "There is no shelter here, so a waterproof backpack cover is highly recommended to protect your belongings."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Leuchtturm",
+                "hu": "Velencei világítótorony",
+                "ro": "Farul Venețian",
+                "en": "Venetian Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Felsen am Leuchtturm; steigen Sie ab und schieben Sie das Rad die letzten Meter.",
+                "hu": "Különösen ügyelj a világítótorony körüli csúszós sziklákra; szállj le a bicikliről, és told az utolsó métereken.",
+                "ro": "Aveți mare grijă la stâncile alunecoase de lângă far; descălecați și împingeți bicicleta pe ultimii metri.",
+                "en": "Be extra careful of slippery rocks near the lighthouse edge; dismount your bike and walk it the last few meters."
+              }
+            },
+            {
+              "name": {
+                "de": "Emblisi Strand",
+                "hu": "Emblisi strand",
+                "ro": "Plaja Emblisi",
+                "en": "Emblisi Beach"
+              },
+              "tip_5lang": {
+                "de": "Starkregen kann Äste auf die Strandstraße spülen; achten Sie auf Hindernisse am Ende Ihrer regnerischen Fahrt.",
+                "hu": "A heves esőzés törmeléket moshat a strand útjára; figyelj a lehullott ágakra az esős tekerés befejezésekor.",
+                "ro": "Ploaia torențială poate aduce resturi pe drumul spre plajă; atenție la crengile căzute la finalul plimbării.",
+                "en": "Heavy rain can wash debris onto the beach road; watch out for fallen branches as you finish your rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens frisch zur Windmühle mit Handschuhen und Windjacke. Mittags hält Sie die Fahrt zu Throni und dem Friedhof unter der Wintersonne warm. Nachmittags geht es zu Basilika und Leuchtturm. Erreichen Sie den Emblisi Strand gegen 16:00 Uhr für die goldene Stunde vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdj egy frissítő reggeli tekeréssel a Szélmalomhoz kesztyűben és széldzsekiben. Délben a Throni és a temető felé vezető út melegen tart a téli napsütésben. Délután indulj a bazilika és a világítótorony felé. Érj az Emblisi strandhoz 16:00 körül, hogy élvezd az aranyórát, mielőtt a 17:00 órai naplemente elhozná a hideget.",
+            "ro": "Începeți dimineața cu o pedalare revigorantă spre moară, purtând mănuși și geacă de vânt. La prânz, drumul spre Throni și cimitir vă menține cald sub soarele de iarnă. După-amiaza, mergeți spre bazilică și far. Ajungeți la plaja Emblisi pe la 16:00, bucurându-vă de lumina aurie înainte de apusul de la 17:00.",
+            "en": "Kick off a brisk morning ride to the Windmill with gloves and a windbreaker. Midday, cycling to Throni and the Roman Cemetery is great exercise to stay warm under the winter sun. In the afternoon, head towards the Basilica and Lighthouse. Reach Emblisi Beach around 16:00, enjoying the golden hour before the 17:00 sunset brings a deep chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moară de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft auf dem Rad ist eiskalt; schützen Sie Hände und Ohren gut, bevor Sie die Tour beginnen.",
+                "hu": "A reggeli levegő kerékpározás közben fagyos; ügyelj rá, hogy a kezeid és a füleid jól védve legyenek indulás előtt.",
+                "ro": "Aerul dimineții pe bicicletă este înghețat; asigurați-vă că mâinile și urechile sunt bine protejate înainte de a porni.",
+                "en": "The morning air on the bike is freezing; make sure your hands and ears are well protected before starting the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Throni",
+                "hu": "Throni",
+                "ro": "Throni",
+                "en": "Throni"
+              },
+              "tip_5lang": {
+                "de": "Der Waldweg ist schön, aber schattig; halten Sie Ihr Tempo hoch, um in der Winterkälte die Körperwärme zu halten.",
+                "hu": "Az erdei ösvény gyönyörű, de nagyon árnyékos; tartsd a tempót, hogy megőrizd a testhőt a téli hidegben.",
+                "ro": "Traseul forestier este superb, dar umbrit; mențineți un ritm alert pentru a vă păstra căldura corpului în frigul iernii.",
+                "en": "The forest trail here is beautiful but heavily shaded; keep your pace up to maintain body heat in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Friedhof",
+                "hu": "Római temető",
+                "ro": "Cimitirul Roman",
+                "en": "Roman Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab und gehen Sie zu den alten Gräbern; genießen Sie dabei den klaren, frischen Winterhimmel.",
+                "hu": "Szállj le és sétálj az ősi sírok körül; a rövid fizikai szünet alatt élvezheted a tiszta, ropogós téli eget.",
+                "ro": "Descălecați și plimbați-vă printre mormintele antice; scurta pauză fizică vă lasă să admirați cerul clar de iarnă.",
+                "en": "Dismount and walk around the ancient graves; the brief physical break will let you enjoy the crisp, clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Fiscardo",
+                "hu": "Fiskardói bazilika",
+                "ro": "Bazilica din Fiscardo",
+                "en": "Basilica of Fiscardo"
+              },
+              "tip_5lang": {
+                "de": "Der Seewind weht stark an der Basilika; schließen Sie Ihre Windjacke gut, während Sie die Winterlandschaft bewundern.",
+                "hu": "A tengeri szél erősen fúj a bazilikánál; húzd fel a széldzsekid cipzárját, miközben a téli tájat csodálod.",
+                "ro": "Vântul mării lovește puternic la bazilică; închideți bine geaca de vânt admirând peisajul izolat de iarnă.",
+                "en": "Sea winds hit hard at the basilica; zip up your windbreaker tight while admiring the isolated winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Leuchtturm",
+                "hu": "Velencei világítótorony",
+                "ro": "Farul Venețian",
+                "en": "Venetian Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Thermoskanne mit heißem Tee mit, um ein wärmendes Getränk an diesem offenen Aussichtspunkt zu genießen.",
+                "hu": "Vigyél egy termosz forró teát a kulacstartóban, hogy egy melegítő italt fogyaszthass ezen a nyílt kilátóponton.",
+                "ro": "Luați un termos cu ceai cald pe bicicletă pentru a savura o băutură încălzitoare la acest punct de belvedere expus.",
+                "en": "Bring a thermos with hot tea in your bike cage to enjoy a warming drink at this exposed, scenic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Emblisi Strand",
+                "hu": "Emblisi strand",
+                "ro": "Plaja Emblisi",
+                "en": "Emblisi Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht früh um 17:00 Uhr unter und der Strand wird kalt; fahren Sie vor der Dunkelheit zurück.",
+                "hu": "A nap korán, 17:00-kor nyugszik, amitől a strand nagyon lehűl; indulj vissza sötétedés előtt az esti tekerés elkerülésére.",
+                "ro": "Soarele apune la 17:00, făcând plaja foarte rece; întoarceți-vă înainte de amurg pentru a evita pedalatul pe întuneric.",
+                "en": "The sun sets early at 17:00, making the beach very cold; turn back before dusk to avoid riding in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós kirándulása egy frissítő reggellel kezdődik a csendes Kimilia és Emblisi strandokon. A nap közepe kulturális felfedezésbe csap át a lenyűgöző bazilika és a nagy velencei világítótorony meglátogatásával. Délután fedezze fel az ősi titkokat a római temető és a Throni bejárásával. A nap gyönyörűen zárul egy festői autózással a történelmi szélmalomhoz naplementekor.",
         "ro": "Excursia dvs. cu mașina începe cu o dimineață răcoroasă la plajele liniștite Kimilia și Emblisi. Prânzul face tranziția către explorarea culturală la impresionanta Bazilică și marele far venețian. După-amiaza, descoperiți secrete antice vizitând cimitirul roman și Throni. Ziua se încheie frumos cu o plimbare pitorească spre moara de vânt istorică la apus.",
         "en": "Your road trip begins with a refreshing morning at the serene Kimilia and Emblisi beaches. Midday transitions to cultural exploration as you visit the striking Basilica and the grand Venetian Lighthouse. In the afternoon, discover ancient secrets by touring the Roman Cemetery and Throni. The day wraps up beautifully with a scenic drive to the historic Windmill at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig zum Kimilia Strand und lauschen Sie dem Regen. Mittags parken Sie nahe Emblisi und der Basilika und nutzen einen Schirm für kurze Wege. Nachmittags bieten Fahrten zu Leuchtturm, Friedhof und Throni sichere Ausblicke aus dem warmen Auto. Lassen Sie den regnerischen Abend nahe der Windmühle in einer gemütlichen Taverne ausklingen.",
+            "hu": "Reggel óvatosan vezess a Kimilia strandhoz, hallgatva az eső dobolását a tetőn. Délben parkolj le az Emblisinél és a bazilikánál, esernyőt használva a rövid sétákhoz. Délután a világítótoronyhoz, a temetőhöz és a Thronihoz vezető út során a meleg autóból is élvezheted a kilátást. Az esős estét a Szélmalom közelében egy hangulatos tavernában zárd.",
+            "ro": "Conduceți cu prudență dimineața spre plaja Kimilia, ascultând ploaia pe mașină. La prânz, parcați la Emblisi și la bazilică, folosind umbrela pentru ieșiri scurte. Drumul de după-amiază spre far, cimitir și Throni oferă priveliști sigure din mașina caldă. Încheiați seara ploioasă lângă moara de vânt, într-o tavernă locală primitoare.",
+            "en": "Drive carefully to Kimilia Beach in the morning, listening to the rain hit the roof. By midday, park near Emblisi Beach and the Basilica, using an umbrella for short outdoor dashes. The afternoon drive to the Lighthouse, Cemetery, and Throni offers safe, dry viewing from your warm car. Wrap up the rainy evening near the Windmill, stopping at a cozy local taverna."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kimilia Strand",
+                "hu": "Kimilia strand",
+                "ro": "Plaja Kimilia",
+                "en": "Kimilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; parken Sie sicher auf dem asphaltierten Teil und beobachten Sie die Wellen von drinnen.",
+                "hu": "A bekötőút sáros lehet; parkolj biztonságosan a burkolt részen, és bentről figyeld az eső áztatta hullámokat.",
+                "ro": "Drumul de acces poate fi noroios; parcați pe zona asfaltată și priviți valurile bătute de ploaie din interior.",
+                "en": "The access road can be muddy; park safely on the paved section and watch the rain-swept waves from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Emblisi Strand",
+                "hu": "Emblisi strand",
+                "ro": "Plaja Emblisi",
+                "en": "Emblisi Beach"
+              },
+              "tip_5lang": {
+                "de": "Starkregen kann tiefe Pfützen am Parkplatz verursachen; tragen Sie wasserfeste Schuhe für ein schnelles Foto.",
+                "hu": "A heves esőzések mély tócsákat okozhatnak a parkolóban; viselj vízálló csizmát, ha kiszállsz egy fotó erejéig.",
+                "ro": "Ploile abundente fac bălți adânci în parcare; purtați cizme impermeabile dacă ieșiți pentru o fotografie rapidă.",
+                "en": "Heavy rains might cause deep puddles in the parking lot; wear waterproof boots if you step out for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Fiscardo",
+                "hu": "Fiskardói bazilika",
+                "ro": "Bazilica din Fiscardo",
+                "en": "Basilica of Fiscardo"
+              },
+              "tip_5lang": {
+                "de": "Da die Ruinen offen sind, lassen Sie die Heizung an, um sich nach dem kurzen Besuch sofort aufzuwärmen.",
+                "hu": "Mivel a romok nyitottak, hagyd menni az autófűtést, hogy a gyors látogatás után azonnal felmelegedhess.",
+                "ro": "Deoarece ruinele sunt expuse, porniți căldura în mașină pentru a vă încălzi imediat după vizita scurtă.",
+                "en": "Since the ruins are exposed, keep the car heater running so you can warm up immediately after your quick visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Leuchtturm",
+                "hu": "Velencei világítótorony",
+                "ro": "Farul Venețian",
+                "en": "Venetian Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie das Fenster nur leicht, um ein Foto des stürmischen Leuchtturms zu machen, ohne nass zu werden.",
+                "hu": "Csak annyira húzd le az ablakot, hogy fotót készíthess a viharos világítótoronyról anélkül, hogy bőrig áznál.",
+                "ro": "Coborâți geamul doar cât să fotografiați farul pe furtună, fără să vă udați deloc în interior.",
+                "en": "Roll down the window just enough to snap a picture of the dramatic, stormy lighthouse without getting drenched."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Friedhof",
+                "hu": "Római temető",
+                "ro": "Cimitirul Roman",
+                "en": "Roman Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Schirm griffbereit, da der Weg vom Parkplatz zu den alten Gräbern ungeschützt ist.",
+                "hu": "Tarts egy esernyőt kéznél az ajtó mellett, mivel a parkolótól az ősi sírokig vezető út teljesen fedetlen.",
+                "ro": "Țineți o umbrelă la îndemână lângă portieră, deoarece drumul de la parcare la mormintele antice este neacoperit.",
+                "en": "Keep an umbrella handy right by the car door, as the path from the parking space to the ancient graves is uncovered."
+              }
+            },
+            {
+              "name": {
+                "de": "Throni",
+                "hu": "Throni",
+                "ro": "Throni",
+                "en": "Throni"
+              },
+              "tip_5lang": {
+                "de": "Der Feldweg wird sehr rutschig; betrachten Sie die Stätte aus sicherer Entfernung, wenn es stark regnet.",
+                "hu": "A földút nagyon csúszóssá válik; ha szakad az eső, érdemes a területet biztonságos távolságból megfigyelni.",
+                "ro": "Cărarea de pământ devine alunecoasă; priviți situl de la o distanță sigură dacă ploaia este torențială.",
+                "en": "The dirt path gets very slick; consider viewing the site from a safe distance if the rain is pouring heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moară de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier; rennen Sie schnell vom Auto in ein nahes überdachtes Café, um sich zu trocknen.",
+                "hu": "Fejezd be itt a napot; ugorj át gyorsan az autóból egy közeli fedett helyre vagy kávézóba, hogy megszáradj.",
+                "ro": "Încheiați ziua aici; fugiți rapid din mașină într-o cafenea acoperită din apropiere pentru a vă usca bine.",
+                "en": "Finish the day here; jump quickly from the car into a nearby covered shelter or cafe to dry off properly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie morgens die beheizte Fahrt zum Kimilia Strand. Mittags fahren Sie zu Emblisi und zur Basilika, packen Sie warme Mäntel für kurze Spaziergänge ein. Der Nachmittag bringt Sie zu Leuchtturm, Friedhof und Throni vor dem Sonnenuntergang. Erreichen Sie um 16:30 Uhr die Windmühle für spektakuläre frühe Dämmerungsfarben im Komfort.",
+            "hu": "Élvezd a fűtött autózást a ropogós téli reggelen a Kimilia strandnál. Délben haladj az Emblisi és a bazilika felé, vastag kabátban a rövid kinti sétákhoz. A délutáni útvonal része a világítótorony, a temető és a Throni, mielőtt a nap lemenne. 16:30-ra érj a Szélmalomhoz a látványos korai alkonyati színekért, teljes kényelemben.",
+            "ro": "Bucurați-vă de condusul la căldură în dimineața rece, începând cu plaja Kimilia. La prânz, mergeți spre Emblisi și bazilică, purtând paltoane calde afară. Drumul de după-amiază include farul, cimitirul și Throni înaintea apusului. La 16:30 ajungeți la moara de vânt pentru culorile spectaculoase ale crepusculului timpuriu, în confort total.",
+            "en": "Enjoy a cozy, heated drive starting with Kimilia Beach in the crisp winter morning. Midday, navigate to Emblisi Beach and the Basilica, packing warm coats for short walks outside. The afternoon drive includes the Lighthouse, Cemetery, and Throni before the sun drops. By 16:30, reach the Windmill for spectacular early twilight colors in complete comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kimilia Strand",
+                "hu": "Kimilia strand",
+                "ro": "Plaja Kimilia",
+                "en": "Kimilia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenkälte ist am Wasser spürbar; trinken Sie Ihren Kaffee im warmen Auto vor einem kurzen Spaziergang.",
+                "hu": "A reggeli hideg metsző a víz közelében; idd meg a kávédat a meleg autóban egy gyors kinti séta előtt.",
+                "ro": "Frigul dimineții este tăios lângă apă; savurați-vă cafeaua în mașina caldă înainte de o scurtă plimbare afară.",
+                "en": "The morning chill is sharp near the water; enjoy your coffee in the warm car before taking a quick stroll outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Emblisi Strand",
+                "hu": "Emblisi strand",
+                "ro": "Plaja Emblisi",
+                "en": "Emblisi Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterparkplatz ist leer, so können Sie direkt heranfahren, um den verlassenen Kieselstrand zu sehen.",
+                "hu": "A téli parkoló teljesen üres, így egészen közel hajthatsz, hogy megcsodáld a lenyűgöző, kihalt kavicsos partot.",
+                "ro": "Parcarea de iarnă este goală, permițându-vă să conduceți foarte aproape pentru a vedea țărmul pustiu cu pietriș.",
+                "en": "Winter parking is completely empty, allowing you to drive right up close to see the stunning, deserted pebble shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Fiscardo",
+                "hu": "Fiskardói bazilika",
+                "ro": "Bazilica din Fiscardo",
+                "en": "Basilica of Fiscardo"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie eine Decke im Kofferraum bereit; der kalte Seewind macht den kurzen Weg zu den alten Steinen eisig.",
+                "hu": "Tarts egy extra takarót a csomagtartóban; a csípős tengeri szél fagyossá teszi a rövid sétát az ősi kövekhez.",
+                "ro": "Păstrați o pătură în portbagaj; vânturile reci ale mării fac scurta plimbare către pietrele antice destul de înghețată.",
+                "en": "Keep an extra blanket in the trunk; the biting sea winds make the short walk to the ancient stones quite freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianischer Leuchtturm",
+                "hu": "Velencei világítótorony",
+                "ro": "Farul Venețian",
+                "en": "Venetian Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz für die Aussicht aus und bewundern Sie dann das dramatische Wintermeer vom beheizten Auto aus.",
+                "hu": "Lépj ki röviden a kilátásért, majd vonulj vissza a fűtött autóba, hogy a kényelmes ülésből csodáld a téli tengert.",
+                "ro": "Ieșiți scurt pentru priveliște, apoi retrageți-vă în mașina încălzită pentru a admira marea dramatică de iarnă.",
+                "en": "Step out briefly for the view, then retreat to the heated car to admire the dramatic winter sea from a cozy spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Friedhof",
+                "hu": "Római temető",
+                "ro": "Cimitirul Roman",
+                "en": "Roman Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet perfekte weiche Beleuchtung für Fotos; werfen Sie sich einen dicken Schal über, bevor Sie aussteigen.",
+                "hu": "A téli nappali fény tökéletes, lágy megvilágítást ad a fotókhoz; csak dobj fel egy vastag sálat, mielőtt kiszállsz.",
+                "ro": "Lumina de iarnă oferă o iluminare moale perfectă pentru fotografii; doar puneți-vă un fular gros înainte să ieșiți.",
+                "en": "The winter daylight provides perfect soft lighting for photos; just throw on a thick scarf before leaving the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Throni",
+                "hu": "Throni",
+                "ro": "Throni",
+                "en": "Throni"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht am Nachmittag schon tief, was lange Waldschatten wirft; besuchen Sie den Ort schnell vor der Kälte.",
+                "hu": "A nap már kora délután lejjebb ereszkedik, hosszú erdei árnyékokat vetve; látogasd meg gyorsan a hideg beállta előtt.",
+                "ro": "Soarele coboară pe la mijlocul după-amiezii, făcând umbrele pădurii lungi; vizitați rapid înainte să se lase frigul.",
+                "en": "The sun starts dipping low by mid-afternoon, making the forest shadows long; visit quickly before the chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moară de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie um 16:45 Uhr hier, um den frühen Wintersonnenuntergang direkt aus der wohligen Wärme des Autos zu beobachten.",
+                "hu": "Érkezz 16:45-re, hogy a korai téli naplementét egyenesen a vezetőülésből, az autód megnyugtató melegéből nézhesd.",
+                "ro": "Ajungeți la 16:45 pentru a privi apusul timpuriu de iarnă direct de pe scaunul șoferului, la căldura confortabilă a mașinii.",
+                "en": "Arrive by 16:45 to watch the early winter sunset directly from the driver's seat in the comforting warmth of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

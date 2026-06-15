@@ -137,6 +137,168 @@
         "hu": "A reggel Sallanches szívében, a festői városházánál indul, mielőtt meglátogatná a lenyűgöző Saint-Jacques templomot. Délben a Château de Rubins kiállításain merülhet el az alpesi természet történetében. Délután sétáljon az utcákon, és hagyja, hogy a város hangulata magával ragadja. Kora este a kulturális központban fejezheti be ezt a tartalmas és nyugodt gyalogos túrát.",
         "ro": "Dimineața începe în inima orașului Sallanches la primăria pitorească, înainte de a vizita magnifica biserică Saint-Jacques. La prânz, vă scufundați în istoria naturală alpină la Château de Rubins. După-amiaza, plimbați-vă pe străzi și lăsați atmosfera să vă captiveze. Spre seară, ajungeți la centrul cultural, unde ziua se încheie într-o notă artistică și relaxantă.",
         "en": "The morning begins in the heart of Sallanches at the picturesque town hall before visiting the magnificent Saint-Jacques Collegiate Church. At midday, dive into Alpine natural history at the Château de Rubins. In the afternoon, stroll through the charming streets and soak up the local atmosphere. By evening, arrive at the cultural center, wrapping up your day with artistic flair."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Rathaus, dessen Arkaden kurzen Schutz bieten. Mittags laden die Kirchen zur inneren Einkehr im Trockenen ein. Nachmittags ist das Schloss Rubins der ideale Ort, um dem Regen zu entfliehen und die Alpenwelt zu erkunden. Abends bietet das Kulturzentrum ein warmes Finale. Achten Sie auf rutschige Pflastersteine und halten Sie Ihren Regenschirm bereit.",
+            "hu": "Kezdje a napot a városházánál, melynek árkádjai rövid menedéket nyújtanak. Délben a templomok belső csendje óv meg az esőtől. Délután a Rubins Kastély interaktív kiállításai tökéletesek a záporok idejére. Este a kulturális központban zárja a napot. Ügyeljen a csúszós utcakövekre, és legyen kéznél egy erős esernyő.",
+            "ro": "Începeți la primărie, ale cărei arcade oferă un adăpost temporar. La prânz, bisericile vă invită la reflecție într-un spațiu uscat. După-amiaza, Castelul Rubins este refugiul ideal pentru a explora lumea alpină ferit de ploaie. Seara, centrul cultural oferă un final călduros. Atenție la pavajul alunecos și păstrați umbrela la îndemână.",
+            "en": "Start at the Town Hall, where the arcades offer brief shelter. At noon, the churches provide a dry sanctuary for quiet reflection. In the afternoon, Château de Rubins is the perfect indoor escape to explore Alpine nature. End your evening at the cultural center. Watch out for slippery cobblestones and keep a sturdy umbrella ready for the mountain rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Sallanches",
+                "hu": "Sallanches Városháza",
+                "ro": "Primăria din Sallanches",
+                "en": "Town Hall of Sallanches"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von den schützenden Arkaden aus; nutzen Sie diesen trockenen Punkt, um die Route für den restlichen regnerischen Vormittag zu planen.",
+                "hu": "Csodálja meg az épületet a védelmet nyújtó árkádok alól; használja ezt a száraz pontot a nap további, esős részének megtervezéséhez a főtéren.",
+                "ro": "Admirați arhitectura de sub arcadele protectoare; folosiți acest punct uscat pentru a vă planifica restul dimineții ploioase în piața centrală.",
+                "en": "Admire the architecture from the protective arcades; use this dry vantage point to plan your rainy morning route across the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Jacques",
+                "hu": "Saint-Jacques Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Jacques",
+                "en": "Saint-Jacques Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vor dem Nieselregen in das prachtvolle Barockinterieur; die vergoldeten Altäre leuchten auch an grauen Tagen besonders hell und einladend.",
+                "hu": "Meneküljön a szemerkélő eső elől a pompás barokk belsőbe; az aranyozott oltárok még a szürke napokon is különlegesen fényesen és hívogatóan ragyognak.",
+                "ro": "Refugiați-vă de burniță în interiorul baroc magnific; altarele aurite strălucesc deosebit de tare și primitor chiar și în zilele gri de munte.",
+                "en": "Escape the drizzle inside the magnificent Baroque interior; the gilded altars glow particularly brightly and welcomingly even on grey Alpine days."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Kápolna",
+                "ro": "Capela Imaculatei Concepții",
+                "en": "Chapelle de l'Immaculée-Conception"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine, ruhige Rückzugsort ist perfekt, um einen heftigen Schauer abzuwarten; genießen Sie die Stille und die kunstvollen Details im Trockenen.",
+                "hu": "Ez a kicsi, csendes menedék tökéletes egy hevesebb zápor kivárására; élvezze a nyugalmat és a művészi részleteket a belső tér biztonságában.",
+                "ro": "Acest refugiu mic și liniștit este perfect pentru a aștepta trecerea unei averse; bucurați-vă de tăcere și de detaliile artistice la adăpost.",
+                "en": "This small, quiet retreat is perfect for waiting out a heavy shower; enjoy the silence and the artistic details while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rubins - Alpenobservatorium",
+                "hu": "Rubins Kastély - Alpesi Obszervatórium",
+                "ro": "Castelul Rubins - Observatorul Alpilor",
+                "en": "Château de Rubins - Observatoire des Alpes"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier viel Zeit bei den interaktiven Exponaten; das Museum ist der beste Ort der Stadt, um einen regnerischen Nachmittag sinnvoll zu füllen.",
+                "hu": "Töltsön itt több időt az interaktív kiállítások között; a múzeum a város legjobb helyszíne egy esős délután tartalmas és száraz eltöltéséhez.",
+                "ro": "Petreceți mai mult timp aici printre exponatele interactive; muzeul este cel mai bun loc din oraș pentru a petrece o după-amiază ploioasă cu folos.",
+                "en": "Spend plenty of time exploring the interactive exhibits; this museum is the city's best indoor venue to fill a rainy afternoon with discovery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Léon Curral",
+                "hu": "Léon Curral Kulturális Központ",
+                "ro": "Centrul Cultural Léon Curral",
+                "en": "Centre Culturel Léon Curral"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im beheizten Foyer; prüfen Sie das aktuelle Programm für kurzfristige Indoor-Veranstaltungen als Abschluss Ihrer nassen Tour.",
+                "hu": "Zárja a napot a fűtött előcsarnokban; ellenőrizze az aktuális programot egy esti beltéri eseményért, amely tökéletes levezetése a vizes túrának.",
+                "ro": "Încheiați ziua în foierul încălzit; verificați programul actual pentru evenimente de interior care pot completa perfect turul dumneavoastră umed.",
+                "en": "End your day in the heated foyer; check the current schedule for any indoor events to provide a cozy conclusion to your wet walking tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Sallanches mit Blick auf die verschneiten Gipfel. Starten Sie früh am Rathaus, da die Sonne gegen 17:00 Uhr untergeht. Mittags bieten die Kirchen wohlige Wärme, und nachmittags lockt das Schloss Rubins mit spannender Geschichte im beheizten Ambiente. Kleiden Sie sich in Schichten und planen Sie Pausen in lokalen Cafés ein, um sich aufzuwärmen.",
+            "hu": "Fedezze fel a téli Sallanchest a havas csúcsok árnyékában. Kezdjen korán a városházánál, mert 17:00 körül már sötétedik. Délben a templomok nyújtanak meleg menedéket, délután pedig a Rubins Kastély várja fűtött termekkel. Öltözzön rétegesen, és tervezzen be pihenőket a helyi kávézókban, hogy felmelegedjen a hideg alpesi szélben.",
+            "ro": "Experimentați Sallanches în haine de iarnă, cu vedere la vârfurile înzăpezite. Începeți devreme la primărie, deoarece soarele apune în jurul orei 17:00. La prânz, bisericile oferă căldură, iar după-amiaza Castelul Rubins vă atrage cu istoria sa într-un mediu încălzit. Îmbrăcați-vă în straturi și planificați pauze în cafenele pentru a vă încălzi.",
+            "en": "Experience winter in Sallanches under the shadow of snowy peaks. Start early at the Town Hall, as sunset is around 5 PM. At noon, the churches offer a warm refuge, and in the afternoon, Château de Rubins provides fascinating history in a heated setting. Dress in warm layers and plan café stops to stay cozy as the Alpine temperatures drop in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Sallanches",
+                "hu": "Sallanches Városháza",
+                "ro": "Primăria din Sallanches",
+                "en": "Town Hall of Sallanches"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verschneiten Mont-Blanc vom Platz aus; starten Sie pünktlich um 9:00 Uhr, um das Maximum an Tageslicht auszunutzen.",
+                "hu": "Élvezze a kilátást a havas Mont-Blanc-ra a főtérről; kezdjen pontosan 9:00-kor, hogy a lehető legtöbb természetes fényt tudja kihasználni.",
+                "ro": "Bucurați-vă de vederea spre Mont-Blanc înzăpezit din piață; începeți fix la ora 9:00 pentru a profita la maximum de lumina scurtă a zilei.",
+                "en": "Enjoy the stunning view of the snowy Mont-Blanc from the square; start promptly at 9 AM to maximize the limited daylight of the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Jacques",
+                "hu": "Saint-Jacques Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Jacques",
+                "en": "Saint-Jacques Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab; bewundern Sie die weihnachtliche Dekoration oder die Krippe, die oft in den Wintermonaten aufgestellt wird.",
+                "hu": "A vastag falak jól távol tartják a fagyot; csodálja meg a téli időszakban gyakran látható ünnepi díszítést vagy a kiállított betlehemet.",
+                "ro": "Zidurile groase țin frigul la distanță; admirați decorațiunile festive sau ieslea care este adesea expusă în timpul lunilor de iarnă.",
+                "en": "The thick stone walls keep the biting cold at bay; admire the festive decorations or the nativity scene often displayed during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Kápolna",
+                "ro": "Capela Imaculatei Concepții",
+                "en": "Chapelle de l'Immaculée-Conception"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp zum Aufwärmen; die frostige Außenluft lässt die Kerzen im Inneren besonders gemütlich und warm wirken.",
+                "hu": "Egy rövid, elmélyült megálló a felmelegedéshez; a kinti fagyos levegő után a benti gyertyák fénye különösen meghitt és meleg hangulatot áraszt.",
+                "ro": "O oprire scurtă și meditativă pentru a vă încălzi; aerul înghețat de afară face ca lumina lumânărilor din interior să pară extrem de primitoare.",
+                "en": "A short, meditative stop to warm up; the frosty air outside makes the candlelit interior feel exceptionally cozy and spiritually warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rubins - Alpenobservatorium",
+                "hu": "Rubins Kastély - Alpesi Obszervatórium",
+                "ro": "Castelul Rubins - Observatorul Alpilor",
+                "en": "Château de Rubins - Observatoire des Alpes"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Schloss ist ideal für den kältesten Teil des Tages; lernen Sie alles über die winterliche Tierwelt der Alpen im Komfort des Museums.",
+                "hu": "A fűtött kastély ideális a nap leghidegebb részében; ismerje meg az Alpok téli élővilágát a múzeum kényelmes és meleg környezetében.",
+                "ro": "Castelul încălzit este ideal pentru cea mai rece parte a zilei; aflați totul despre fauna de iarnă a Alpilor în confortul acestui muzeu.",
+                "en": "The heated castle is ideal for the coldest part of the day; learn all about the winter wildlife of the Alps in total museum comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Léon Curral",
+                "hu": "Léon Curral Kulturális Központ",
+                "ro": "Centrul Cultural Léon Curral",
+                "en": "Centre Culturel Léon Curral"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour, bevor es dunkel wird; das Zentrum bietet einen sicheren Hafen, falls die Temperaturen nach Sonnenuntergang drastisch sinken.",
+                "hu": "Fejezze be a túrát, mielőtt besötétedik; a központ biztonságos menedéket nyújt, ha a naplemente után a hőmérséklet hirtelen és drasztikusan zuhanni kezdene.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; centrul oferă un refugiu sigur dacă temperaturile scad drastic după apusul soarelui.",
+                "en": "Finish your tour before the light fades; the center offers a safe haven if temperatures drop drastically after the early 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Induljon kényelmesen a városházától, és kerékpározzon a történelmi káptalani templomhoz. Dél körül fedezze fel a lenyűgöző alpesi múzeumot a Château de Rubins-ban. Délután tekerjen el a csendesebb Saint-Martin templomhoz, távolabb a nyüzsgéstől. A nap a festői tavaknál ér véget, ahol a Mont Blanc lenyűgöző masszívuma tükröződik a nyugodt vízfelszínen.",
         "ro": "Începeți confortabil la primărie și pedalați până la biserica istorică. În jurul prânzului, explorați fascinantul muzeu alpin din Château de Rubins. După-amiaza, mergeți cu bicicleta spre biserica mai liniștită Saint-Martin. Ziua se încheie relaxant la lacurile pitorești, unde masivul Mont Blanc se reflectă impresionant în apele liniștite de la marginea orașului.",
         "en": "Start comfortably at the town hall and pedal to the historic collegiate church. Around midday, explore the fascinating Alpine museum in the Château de Rubins. In the afternoon, cycle over to the quieter Saint-Martin Church away from the bustle. The day ends relaxingly at the picturesque lakes, where the Mont Blanc massif reflects beautifully in the still waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Radwegen. Starten Sie am Rathaus und nutzen Sie die Kirchen für trockene Pausen. Nachmittags bietet das Schloss Rubins einen längeren Aufenthalt im Warmen. Seien Sie vorsichtig bei der Fahrt zum See der Inseln, da die Wege rutschig sein können. Tragen Sie wasserfeste Kleidung und prüfen Sie Ihre Bremsen vorab.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a vizes utakon. Kezdjen a városházánál, és használja a templomokat száraz pihenőpontként. Délután a Rubins Kastély kínál hosszabb beltéri programot. A Szigetek Tava felé óvatosan hajtson, mert az ösvények csúszósak lehetnek. Viseljen vízálló ruházatot, és indulás előtt ellenőrizze a fékeket.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe piste. Începeți la primărie și folosiți bisericile pentru pauze uscate. După-amiaza, Castelul Rubins oferă un sejur prelungit la căldură. Fiți atenți la drumul spre Lacul Insulelor, deoarece potecile pot fi alunecoase. Purtați haine impermeabile și verificați frânele înainte de plecare.",
+            "en": "Cycling in the rain requires extra caution on the mountain paths. Start at the Town Hall and use the churches for dry breaks. In the afternoon, Château de Rubins offers a long indoor stay. Ride carefully toward the Lake of the Isles, as paths can be slippery when wet. Wear waterproof gear and ensure your brakes are in perfect condition before starting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Sallanches",
+                "hu": "Sallanches Városháza",
+                "ro": "Primăria din Sallanches",
+                "en": "Town Hall of Sallanches"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden, während Sie die Aussicht genießen; vergewissern Sie sich, dass Ihre Regenjacke für die Fahrt gut sitzt.",
+                "hu": "Parkolja le a kerékpárját az árkádok alá, amíg a kilátást élvezi; győződjön meg róla, hogy az esőkabátja jól rögzítve van az induláshoz.",
+                "ro": "Parcați bicicleta sub arcade în timp ce admirați vederea; asigurați-vă că jacheta de ploaie este bine fixată pentru drumul care urmează.",
+                "en": "Park your bike under the arcades while enjoying the view; make sure your rain jacket is properly fastened before heading out into the open."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Jacques",
+                "hu": "Saint-Jacques Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Jacques",
+                "en": "Saint-Jacques Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine längere Pause zum Abtrocknen; das prachtvolle Innere lenkt wunderbar vom trüben Wetter draußen ab.",
+                "hu": "Használja ezt a megállót egy hosszabb pihenőre, hogy megszáradjon; a pompás belső tér remekül eltereli a figyelmet a kinti barátságtalan időről.",
+                "ro": "Folosiți această oprire pentru o pauză mai lungă de uscare; interiorul magnific distrage atenția de la vremea mohorâtă de afară.",
+                "en": "Use this stop for a longer break to dry off; the magnificent interior provides a wonderful distraction from the dreary weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rubins - Alpenobservatorium",
+                "hu": "Rubins Kastély - Alpesi Obszervatórium",
+                "ro": "Castelul Rubins - Observatorul Alpilor",
+                "en": "Château de Rubins - Observatoire des Alpes"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad sicher abzustellen und sich im Museum aufzuwärmen; die Ausstellungen lassen Sie den Regen komplett vergessen.",
+                "hu": "Ideális hely a kerékpár biztonságos leállítására és a múzeumban való felmelegedésre; a kiállítások teljesen elfeledtetik az esőt.",
+                "ro": "Un loc ideal pentru a parca bicicleta în siguranță și pentru a vă încălzi în muzeu; expozițiile vă vor face să uitați complet de ploaie.",
+                "en": "An ideal place to safely park your bike and warm up inside; the fascinating exhibits will make you forget about the rain entirely."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf Pfützen; die Kirche bietet einen ruhigen, trockenen Moment, bevor es zum See weitergeht.",
+                "hu": "Idefelé menet ügyeljen a tócsákra; a templom csendes és száraz pillanatokat kínál, mielőtt továbbindulna a tó irányába.",
+                "ro": "Atenție la bălți pe drumul spre biserică; locația oferă un moment liniștit și uscat înainte de a continua spre lac.",
+                "en": "Watch out for puddles on the approach; the church offers a quiet, dry moment to catch your breath before continuing toward the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Inseln",
+                "hu": "Szigetek Tava",
+                "ro": "Lacul Insulelor",
+                "en": "Lake of the Isles"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im Nebel mystisch, aber die Wege sind schlammig; fahren Sie vorsichtig und vermeiden Sie abrupte Bremsmanöver auf nassem Kies.",
+                "hu": "A tó misztikus látványt nyújt a ködben, de az utak sárosak; hajtson óvatosan, és kerülje a hirtelen fékezést a nedves kavicson.",
+                "ro": "Lacul pare mistic în ceață, dar potecile sunt noroioase; pedalați cu atenție și evitați frânările bruște pe pietrișul ud.",
+                "en": "The lake looks mystical in the mist, but paths can be muddy; ride carefully and avoid abrupt braking on wet gravel surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in den Alpen bietet klare Luft und weiße Panoramen. Starten Sie bei Tagesanbruch am Rathaus und nutzen Sie die Kirchen als warme Zwischenstopps. Das Schloss Rubins ist mittags ein Muss für eine Aufwärmpause. Zum See der Inseln führt eine kühle Fahrt; achten Sie auf eisige Stellen. Tragen Sie Thermokleidung und Handschuhe, da der Fahrtwind sehr kalt sein kann.",
+            "hu": "A téli kerékpározás friss levegőt és fehér panorámát kínál. Kezdjen pirkadatkor a városházánál, és használja a templomokat meleg pihenőként. A Rubins Kastély délben kötelező állomás a felmelegedéshez. A Szigetek Tava felé vezető út hűvös lesz; ügyeljen a jeges foltokra. Viseljen hőszigetelő ruhát és kesztyűt a metsző menetszél ellen.",
+            "ro": "Ciclismul de iarnă în Alpi oferă aer curat și panorame albe. Începeți în zori la primărie și folosiți bisericile ca opriri calde. Castelul Rubins este obligatoriu la prânz pentru o pauză de încălzire. Drumul spre Lacul Insulelor este răcoros; atenție la gheață. Purtați haine termice și mănuși, deoarece vântul poate fi foarte rece.",
+            "en": "Winter cycling in the Alps offers crisp air and stunning white panoramas. Start at dawn at the Town Hall and use the churches as warm intermediate stops. Château de Rubins is a must-visit at noon for a heating break. The ride to Lake of the Isles is chilly; watch for icy patches. Wear thermal layers and gloves, as the wind chill can be intense in the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Sallanches",
+                "hu": "Sallanches Városháza",
+                "ro": "Primăria din Sallanches",
+                "en": "Town Hall of Sallanches"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Morgenlicht für Fotos der verschneiten Berge; stellen Sie sicher, dass Ihre Reifen für winterliche Straßenbedingungen geeignet sind.",
+                "hu": "Használja ki a reggeli fényeket a havas hegyek fotózásához; győződjön meg róla, hogy a gumiabroncsok alkalmasak a téli útviszonyokra.",
+                "ro": "Folosiți lumina dimineții pentru fotografii cu munții înzăpeziți; asigurați-vă că anvelopele sunt potrivite pentru condiții de iarnă.",
+                "en": "Utilize the early morning light for photos of the snowy peaks; ensure your tires are suitable for potentially frosty road conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Jacques",
+                "hu": "Saint-Jacques Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Jacques",
+                "en": "Saint-Jacques Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und die Architektur zu bewundern; die Stille des Winters passt perfekt zur Atmosphäre der Stiftskirche.",
+                "hu": "Ideális hely a kezek felmelegítésére és az építészet megcsodálására; a tél csendje tökéletesen illik a társaskáptalani templom hangulatához.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și a admira arhitectura; liniștea iernii se potrivește perfect cu atmosfera acestei biserici.",
+                "en": "An ideal spot to warm up your hands and admire the local architecture; the winter silence perfectly matches the church's solemn atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rubins - Alpenobservatorium",
+                "hu": "Rubins Kastély - Alpesi Obszervatórium",
+                "ro": "Castelul Rubins - Observatorul Alpilor",
+                "en": "Château de Rubins - Observatoire des Alpes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren und den Ausblick auf die verschneite Landschaft; das Museum bietet Schutz vor der kältesten Mittagsluft.",
+                "hu": "Élvezze a benti meleget és a kilátást a havas tájra; a múzeum remek védelmet nyújt a nap legfagyosabb déli óráiban.",
+                "ro": "Bucurați-vă de căldura din interior și de priveliștea asupra peisajului înzăpezit; muzeul oferă protecție împotriva aerului rece de la prânz.",
+                "en": "Enjoy the cozy warmth inside and the view of the snowy landscape; the museum provides a great escape from the freezing midday air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Verweilen im Trockenen; prüfen Sie Ihre Beleuchtung, da die Sicht im Winter oft früher schlechter wird.",
+                "hu": "Egy rövid megálló a száraz belsőben; ellenőrizze a világítást, mivel télen a látási viszonyok korábban és hirtelen romolhatnak.",
+                "ro": "O oprire scurtă în interiorul uscat; verificați luminile bicicletei, deoarece vizibilitatea scade adesea mult mai devreme în timpul iernii.",
+                "en": "A brief stop to rest in a dry space; check your bike lights now, as visibility often decreases earlier during the winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Inseln",
+                "hu": "Szigetek Tava",
+                "ro": "Lacul Insulelor",
+                "en": "Lake of the Isles"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Uferlandschaft ist wunderschön, aber die Wege können tückisch glatt sein; beenden Sie Ihre Fahrt vor Sonnenuntergang um 17:00 Uhr.",
+                "hu": "A fagyott tópart gyönyörű, de az utak csalókán csúszósak lehetnek; fejezze be a kerékpározást a 17:00 órai naplemente előtt.",
+                "ro": "Malul înghețat al lacului este superb, dar potecile pot fi înșelător de alunecoase; încheiați plimbarea înainte de apusul de la ora 17:00.",
+                "en": "The frozen lakeshore is beautiful, but the paths can be treacherously slippery; finish your ride well before the 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Az autós túra a központban indul a városházával és a lenyűgöző templommal. Délben a Château de Rubins-ban merülhet el az Alpok izgalmas hegyvidéki világában. Délután kényelmesen elautózhat a tavakhoz, hogy élvezze a csodálatos hegyi panorámát. A késő délutáni nagy finálét pedig a természet lágy ölén található fenséges Arpenaz vízesés jelenti.",
         "ro": "Turul cu mașina începe în centru cu primăria și biserica impresionantă. La prânz, vă cufundați în lumea montană la Château de Rubins. După-amiaza, conduceți confortabil spre lacuri pentru a vă bucura de priveliștile magnifice ale vârfurilor. Marele final din a doua parte a zilei este cascada maiestuoasă Arpenaz, care vă așteaptă în mijlocul naturii neîmblânzite.",
         "en": "Your car tour starts in the center with the town hall and the impressive collegiate church. At midday, immerse yourself in the Alpine mountain world at the Château de Rubins. In the afternoon, take a scenic drive to the lakes to enjoy the magnificent views of the snowy peaks. The grand finale later in the day is the majestic Arpenaz Waterfall amidst pure nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Sallanches bequem trotz Regen. Parken Sie zentral am Rathaus und besuchen Sie die Kirchen für kurze, trockene Aufenthalte. Das Schloss Rubins ist der perfekte Ort für einen längeren Stopp. Die Fahrt zum Wasserfall Arpenaz lohnt sich besonders, da er bei Regen mehr Wasser führt. Achten Sie auf die Fahrbahnbedingungen bei starkem Niederschlag.",
+            "hu": "Autóval kényelmesen felfedezheti Sallanchest az eső ellenére is. Parkoljon központilag a városházánál, és látogassa meg a templomokat. A Rubins Kastély tökéletes helyszín egy hosszabb megállóhoz. Az Arpenaz vízesés ilyenkor különösen látványos a bőséges víz miatt. Ügyeljen az útviszonyokra heves esőzés idején a hegyi szakaszokon.",
+            "ro": "Cu mașina puteți explora Sallanches confortabil în ciuda ploii. Parcați central lângă primărie și vizitați bisericile. Castelul Rubins este locul perfect pentru o oprire mai lungă. Drumul către cascada Arpenaz merită mai ales acum, deoarece are mai multă apă. Atenție la condițiile de drum în timpul precipitațiilor abundente.",
+            "en": "Explore Sallanches comfortably by car despite the rain. Park centrally near the Town Hall and visit the churches for short, dry excursions. Château de Rubins is the perfect venue for a longer indoor stop. A drive to the Arpenaz Waterfall is especially rewarding now as the rain increases its flow. Exercise caution on mountain roads during heavy downpours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Sallanches",
+                "hu": "Sallanches Városháza",
+                "ro": "Primăria din Sallanches",
+                "en": "Town Hall of Sallanches"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz; so kommen Sie mit minimalem Fußweg trocken zum historischen Gebäude und zum Marktplatz.",
+                "hu": "Használja a közeli parkolót; így minimális gyaloglással, szárazon juthat el a történelmi épülethez és a főtérre.",
+                "ro": "Folosiți parcarea din apropiere; astfel veți ajunge uscat la clădirea istorică și în piață, cu un efort minim de mers pe jos.",
+                "en": "Use the nearby parking lot to reach the historic building and the main square with minimal walking through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Jacques",
+                "hu": "Saint-Jacques Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Jacques",
+                "en": "Saint-Jacques Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Sprint vom Auto zur Kirche bewahrt Sie vor Nässe; genießen Sie das prunkvolle Innere als trockenen kulturellen Höhepunkt.",
+                "hu": "Egy gyors sprint az autótól a templomig megóvja az elázástól; élvezze a pompás belső teret, mint száraz kulturális fénypontot.",
+                "ro": "Un sprint rapid de la mașină la biserică vă va feri de umezeală; bucurați-vă de interiorul fastuos ca punct culminant cultural.",
+                "en": "A quick dash from the car to the church will keep you dry; enjoy the lavish interior as a perfect dry cultural highlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rubins - Alpenobservatorium",
+                "hu": "Rubins Kastély - Alpesi Obszervatórium",
+                "ro": "Castelul Rubins - Observatorul Alpilor",
+                "en": "Château de Rubins - Observatoire des Alpes"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet hervorragende Innenaktivitäten; parken Sie direkt davor, um den Aufenthalt ohne Regenschirm-Stress zu genießen.",
+                "hu": "A kastély kiváló beltéri elfoglaltságokat kínál; parkoljon közvetlenül előtte, hogy esernyővel való vesződség nélkül élvezhesse a látogatást.",
+                "ro": "Castelul oferă activități excelente de interior; parcați direct în față pentru a vă bucura de vizită fără stresul umbrelei.",
+                "en": "The castle offers excellent indoor activities; park directly in front to enjoy your visit without the hassle of a wet umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Inseln",
+                "hu": "Szigetek Tava",
+                "ro": "Lacul Insulelor",
+                "en": "Lake of the Isles"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über dem See gemütlich aus dem Auto heraus, bevor Sie einen kurzen Spaziergang am Ufer wagen.",
+                "hu": "Figyelje meg az esős tájat a tó felett kényelmesen az autóból, mielőtt tenne egy rövid, frissítő sétát a parton.",
+                "ro": "Observați peisajul ploios de deasupra lacului confortabil din mașină, înainte de a vă aventura într-o scurtă plimbare pe mal.",
+                "en": "Observe the rainy scenery over the lake comfortably from your car before venturing out for a quick, refreshing lakeside walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Arpenaz Wasserfall",
+                "hu": "Arpenaz Vízesés",
+                "ro": "Cascada Arpenaz",
+                "en": "Arpenaz Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist bei Regen am beeindruckendsten; bleiben Sie auf den befestigten Wegen, da der Boden nahe am Wasser sehr rutschig ist.",
+                "hu": "A vízesés esőben a leglátványosabb; maradjon a kijelölt ösvényeken, mivel a talaj a víz közelében rendkívül csúszóssá válik.",
+                "ro": "Cascada este cea mai impresionantă pe timp de ploaie; rămâneți pe potecile marcate, deoarece solul devine foarte alunecos lângă apă.",
+                "en": "The waterfall is most impressive during rain; stay on the paved paths as the ground near the base becomes extremely slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Sallanches bietet Panoramablicke auf die verschneiten Alpen. Starten Sie gemütlich am Rathaus und nutzen Sie die Wärme des Fahrzeugs zwischen den Stopps. Das Schloss Rubins bietet mittags ein beheiztes Erlebnis. Besuchen Sie den gefrorenen See der Inseln und den Wasserfall Arpenaz, der im Winter oft eisige Formationen zeigt. Winterreifen sind in dieser Region unerlässlich.",
+            "hu": "A téli autózás Sallanches-ban látványos panorámát nyújt a havas Alpokra. Kezdjen kényelmesen a városházánál, és élvezze az autó melegét a megállók között. A Rubins Kastély délben fűtött élményeket kínál. Látogassa meg a befagyott Szigetek Tavát és az Arpenaz vízesést, amely télen gyakran jégalakzatokat formál. A téli gumi alapfeltétel a régióban.",
+            "ro": "O călătorie cu mașina prin Sallanches iarna oferă vederi panoramice asupra Alpilor înzăpeziți. Începeți confortabil la primărie și bucurați-vă de căldura mașinii între opriri. Castelul Rubins oferă o experiență încălzită la prânz. Vizitați lacul înghețat și cascada Arpenaz, care iarna are adesea formațiuni de gheață. Anvelopele de iarnă sunt esențiale.",
+            "en": "A winter drive through Sallanches offers panoramic views of the snowy Alps. Start comfortably at the Town Hall and enjoy the car's warmth between stops. Château de Rubins provides a heated midday experience. Visit the frozen Lake of the Isles and Arpenaz Waterfall, which often features ice formations in winter. Winter tires are absolutely mandatory in this mountainous region."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Sallanches",
+                "hu": "Sallanches Városháza",
+                "ro": "Primăria din Sallanches",
+                "en": "Town Hall of Sallanches"
+              },
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto gut vor; der Blick auf die verschneiten Gipfel vom warmen Fahrzeug aus ist ein perfekter Start in den Tag.",
+                "hu": "Fűtse fel jól az autót; a havas csúcsokra nyíló kilátás a meleg járműből tökéletes kezdése a téli felfedezőútnak.",
+                "ro": "Încălziți bine mașina; vederea spre vârfurile înzăpezite din vehiculul cald este un început perfect pentru ziua dumneavoastră.",
+                "en": "Preheat your car well; viewing the snowy peaks from the warmth of your vehicle is a perfect way to start your winter journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Jacques",
+                "hu": "Saint-Jacques Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Jacques",
+                "en": "Saint-Jacques Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, warmer Stopp im prächtigen Kirchenschiff; die barocke Goldpracht wirkt im Winterlicht besonders warm und einladend.",
+                "hu": "Egy rövid, meleg megálló a pompás templomhajóban; a barokk aranyozás a téli fényben különösen melegnek és hívogatónak tűnik.",
+                "ro": "O oprire scurtă și caldă în naosul magnific; aurul baroc pare deosebit de cald și primitor în lumina iernii.",
+                "en": "A short, warm stop in the magnificent nave; the Baroque gold-leafing looks particularly warm and inviting in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rubins - Alpenobservatorium",
+                "hu": "Rubins Kastély - Alpesi Obszervatórium",
+                "ro": "Castelul Rubins - Observatorul Alpilor",
+                "en": "Château de Rubins - Observatoire des Alpes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Schloss; das beheizte Museum ist der ideale Rückzugsort während der kältesten Mittagsstunden.",
+                "hu": "Használja a közvetlenül a kastélynál lévő parkolót; a fűtött múzeum ideális menedék a nap legfagyosabb déli óráiban.",
+                "ro": "Folosiți parcarea direct de la castel; muzeul încălzit este refugiul ideal în timpul celor mai reci ore de la prânz.",
+                "en": "Utilize the parking lot directly at the castle; the heated museum is an ideal refuge during the coldest hours of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Inseln",
+                "hu": "Szigetek Tava",
+                "ro": "Lacul Insulelor",
+                "en": "Lake of the Isles"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Wasserfläche bietet tolle Fotomotive; bleiben Sie für die Aussicht im Auto, wenn der Wind zu schneidend kalt ist.",
+                "hu": "A befagyott vízfelület remek fotótéma; maradjon az autóban a kilátásért, ha a szél túl metszőnek és hidegnek bizonyulna.",
+                "ro": "Suprafața înghețată a apei oferă motive foto grozave; rămâneți în mașină pentru priveliște dacă vântul este prea tăios.",
+                "en": "The frozen lake surface offers great photo opportunities; stay in the car for the view if the Alpine wind is too biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Arpenaz Wasserfall",
+                "hu": "Arpenaz Vízesés",
+                "ro": "Cascada Arpenaz",
+                "en": "Arpenaz Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckenden Eiszapfen an den Felsen; kehren Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zum Auto zurück.",
+                "hu": "Csodálja meg a sziklákon lógó lenyűgöző jégcsapokat; térjen vissza az autóhoz a korai, 17:00 órai naplemente előtt.",
+                "ro": "Admirați țurțurii de gheață impresionanți de pe stânci; întoarceți-vă la mașină înainte de apusul devreme de la ora 17:00.",
+                "en": "Admire the impressive icicles hanging from the rocks; return to your car well before the early winter sunset at 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

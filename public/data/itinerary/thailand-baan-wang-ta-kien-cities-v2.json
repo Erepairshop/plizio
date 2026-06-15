@@ -160,6 +160,196 @@
         "hu": "A reggel a Haad Salad strandján kezdődik, ahol az aranyhomok és a nyugodt vizek békés indulást biztosítanak. Ezután a helyi tengerparti üdülőhelyek festői területein fog átsétálni.\n\nAhogy közeledik a dél, az út a Mae Haad öbölbe vezet. Itt a felszabadító légkör éles kontrasztot alkot a korábbi üdülőhelyi luxussal, és zökkenőmentesen beleolvad a környező természetbe.\n\nA délutánt az Ao Mae Hat egyedi földrajza és a Koh Ma szigetére vezető homokpad határozza meg. Ez a szakasz igazi menedék a sznorkelezés és a tengeri biológiai sokféleség szerelmeseinek.\n\nAhogy leszáll az este, egy fokozatos emelkedő elviszi önt egy híres dombtetői bárba. Ebből a magasságból a naplemente festi meg az eget, tökéletesen lezárva a tengerparti sétát.",
         "ro": "Dimineața începe la Haad Salad, unde nisipul auriu și apele calme creează un început de zi pașnic. Apoi vă veți plimba spre terenurile pitorești ale complexurilor balneare locale.\n\nLa apropierea prânzului, poteca duce la golful Mae Haad. Aici, o atmosferă eliberatoare oferă un contrast puternic față de luxul anterior, integrându-se perfect în natura înconjurătoare.\n\nDupă-amiaza este definită de geografia unică a Ao Mae Hat și traversarea bancului de nisip către Koh Ma. Această zonă este un refugiu pentru pasionații de snorkeling și biodiversitate marină.\n\nOdată cu lăsarea serii, o urcare treptată vă aduce la un renumit bar pe deal. Din acest punct de observație, apusul pictează cerul, încununând perfect aventura dvs. de coastă.",
         "en": "Morning begins at Haad Salad, where golden sands and calm waters create a peaceful start to the day. You will then meander towards the scenic grounds of local beach resorts.\n\nAs midday approaches, the path leads to Mae Haad Cove. Here, a liberating atmosphere offers a stark contrast to the earlier resort luxury, blending seamlessly with the surrounding nature.\n\nThe afternoon is defined by the unique geography of Ao Mae Hat and the iconic sandbar crossing to Koh Ma. This stretch is a haven for snorkelers and lovers of marine biodiversity.\n\nAs evening falls, a gradual ascent brings you to a renowned hilltop bar. From this elevated vantage point, the sunset paints the sky, perfectly capping off your coastal walking adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit warmem Tropenregen, der die Pfade etwas rutschig macht; eine Regenjacke ist Pflicht. Mittags suchen wir Schutz in den gemütlichen Strandresorts, während wir dem Rauschen des Meeres lauschen. Am Nachmittag nutzen wir die Regenpausen für kurze Spaziergänge am Ufer. Den Abend lassen wir in einer überdachten Bar ausklingen, wo wir das Lichtspiel auf dem Wasser genießen.",
+            "hu": "Reggel trópusi esőben indulunk a part mentén, így a vízálló felszerelés és a csúszásmentes cipő elengedhetetlen. Délben a közeli resortok fedett teraszain pihenünk, élvezve a párás, friss tengeri levegőt. Délután az esőcsendesebb időszakokban sétálunk a homokpad felé, ügyelve a vizes sziklákra. Az estét egy védett kilátónál zárjuk, figyelve a viharos tenger drámai látványát a sötétedő égbolt alatt.",
+            "ro": "Dimineața începe cu o ploaie tropicală caldă care face potecile alunecoase; o pelerină de ploaie este esențială pentru confort. La prânz căutăm adăpost în resorturile de pe plajă, ascultând sunetul ploii pe acoperișurile de stuf. După-amiaza profităm de pauzele dintre averse pentru a explora malul mării. Seara se încheie într-un bar acoperit, admirând reflexiile luminii pe apa agitată a golfului.",
+            "en": "The morning starts with warm tropical rain making the paths slightly slippery; a waterproof jacket is essential for the trek. At noon, we find shelter in cozy beach resorts while listening to the rhythmic sound of the waves. In the afternoon, we use the breaks in the rain for short walks along the shore. We end the evening in a covered bar, enjoying the light reflecting on the stormy water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haad Salad",
+                "hu": "Haad Salad",
+                "ro": "Haad Salad",
+                "en": "Haad Salad"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen mystisch und die Palmen bieten natürlichen Schutz; tragen Sie festes Schuhwerk wegen der rutschigen Wege zum Strand.",
+                "hu": "Az öböl esőben is lenyűgöző látványt nyújt a párás hegyekkel, a pálmák pedig védelmet adnak; viselj zárt cipőt a sár és a csúszós lejtők miatt.",
+                "ro": "Golful arată mistic în timpul ploii, iar palmierii oferă protecție naturală; purtați încălțăminte aderentă pentru potecile care coboară spre plajă.",
+                "en": "The bay looks mystical in the rain with misty hills, and palms provide natural shelter; wear sturdy shoes for the slippery paths down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Salad Beach Resort",
+                "hu": "Salad Beach Resort",
+                "ro": "Salad Beach Resort",
+                "en": "Salad Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Terrassen für eine Pause und beobachten Sie den Regen über dem Meer; ideal, um die Kamera im Trockenen zu verstauen.",
+                "hu": "Használd a fedett teraszokat egy rövid pihenőre és figyeld az esőfüggönyt a tenger felett; tökéletes hely az elektronikai eszközök szárazon tartására.",
+                "ro": "Folosiți terasele acoperite pentru o pauză și observați ploaia peste mare; este locul ideal pentru a vă păstra echipamentul electronic la uscat.",
+                "en": "Use the covered terraces for a break and watch the rain curtain over the sea; it's the perfect spot to keep your electronics dry and safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Mae Haad Cove (Nudist Beach)",
+                "hu": "Mae Haad Cove (Nudist Beach)",
+                "ro": "Mae Haad Cove (Nudist Beach)",
+                "en": "Mae Haad Cove (Nudist Beach)"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Bucht ist bei Regen oft menschenleer und bietet eine ruhige Atmosphäre; Vorsicht vor angespültem Treibgut am rutschigen Ufer.",
+                "hu": "Ez az eldugott öböl esőben nagyon csendes, különleges magányt kínálva a természetben; vigyázz a vizes sziklákra és a kimosott uszadékfákra.",
+                "ro": "Această faleză retrasă este foarte liniștită pe ploaie, oferind o atmosferă izolată; atenție la stâncile ude și la resturile aduse de valuri pe mal.",
+                "en": "This secluded cove is very quiet in the rain, offering a unique sense of solitude; watch out for wet rocks and debris washed up on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mae Hat",
+                "hu": "Ao Mae Hat",
+                "ro": "Ao Mae Hat",
+                "en": "Ao Mae Hat"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt ist ideal, um die Kraft der Gezeiten bei Regen zu beobachten; halten Sie einen wasserdichten Beutel für Ihre Wertsachen bereit.",
+                "hu": "Ez a partszakasz tökéletes az árapály és az eső erejének megfigyelésére; tarts kéznél egy vízálló tasakot az értékeid és a telefonod védelmére.",
+                "ro": "Această porțiune de plajă este ideală pentru a observa puterea mareelor în timpul ploii; păstrați obiectele de valoare într-o pungă impermeabilă.",
+                "en": "This beach stretch is ideal for observing the tide's power during the rain; keep a waterproof dry bag ready for your valuables and phone."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Ma",
+                "hu": "Koh Ma",
+                "ro": "Koh Ma",
+                "en": "Koh Ma"
+              },
+              "tip_5lang": {
+                "de": "Die Sandbank kann bei Regen und Wind schneller überspült werden, was den Übergang abenteuerlich macht; prüfen Sie vor der Überquerung den Wasserstand.",
+                "hu": "A homokpadot szélben és esőben gyorsabban elöntheti a víz, így az átjutás kalandos; ellenőrizd a vízállást, mielőtt elindulnál a sziget felé.",
+                "ro": "Bancul de nisip poate fi acoperit mai rapid de apă pe vânt și ploaie, făcând traversarea dificilă; verificați nivelul apei înainte de a porni.",
+                "en": "The sandbar can be flooded more quickly during rain and wind, making the crossing adventurous; check the water level before heading to the island."
+              }
+            },
+            {
+              "name": {
+                "de": "360 bar",
+                "hu": "360 bar",
+                "ro": "360 bar",
+                "en": "360 bar"
+              },
+              "tip_5lang": {
+                "de": "Das Panoramadeck ist überdacht und bietet einen spektakulären Blick auf vorbeiziehende Gewitterzellen; genießen Sie einen warmen Tee gegen die Feuchtigkeit.",
+                "hu": "A panorámaterasz fedett, így biztonságban nézheted a távolban vonuló viharcellákat; igyál egy meleg teát a párás és hűvösebb szél elleni védekezésül.",
+                "ro": "Terasa panoramică este acoperită, oferind o vedere spectaculoasă asupra celulelor de furtună; savurați un ceai cald pentru a contracara umiditatea.",
+                "en": "The panoramic deck is covered, allowing you to safely watch passing storm cells; enjoy a warm tea to stay comfortable against the humid breeze."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der kühleren Jahreszeit ist ideal für ausgedehnte Wanderungen ohne die extreme Hitze. Mittags genießen wir die Sonne am Strand, die nun deutlich angenehmer ist. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir unsere letzte Station frühzeitig ein. Den Abend verbringen wir gemütlich im Freien, da die Nächte nun erfrischend mild und weniger schwül sind.",
+            "hu": "A téli reggelek frissek és hűvösek, így ideálisak a hosszabb gyalogtúrákra a tűző nap nélkül. Napközben a tengerparton élvezzük a kellemes meleget, ami ilyenkor nem elviselhetetlen. Mivel a nap korán, 17:00 körül nyugszik, érdemes időben eljutni a kilátóponthoz. Az estét a szabadban töltjük, élvezve a szárazabb és enyhébb levegőt a csillagos ég alatt.",
+            "ro": "Diminețile de iarnă sunt răcoroase și plăcute, fiind ideale pentru drumeții lungi fără căldura extremă. La prânz ne bucurăm de soarele blând pe plajă, care acum este mult mai suportabil. Deoarece soarele apune devreme, în jur de ora 17:00, ne planificăm ultima oprire din timp. Seara o petrecem în aer liber, profitând de briza ușoară și de umiditatea scăzută.",
+            "en": "Winter mornings are crisp and cool, making them ideal for long hikes without the intense tropical heat. At noon, we enjoy the pleasant sun on the beach, which is much more comfortable now. Since the sun sets early around 17:00, we plan our final stop in advance. We spend the evening outdoors, enjoying the drier and milder air under the starlit sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haad Salad",
+                "hu": "Haad Salad",
+                "ro": "Haad Salad",
+                "en": "Haad Salad"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist in diesen Monaten besonders klar und ruhig, perfekt für frühes Schwimmen; bringen Sie ein Handtuch mit, da der Wind kühl sein kann.",
+                "hu": "A víz ezekben a hónapokban különösen tiszta és nyugodt, ideális a reggeli úszáshoz; vigyél törölközőt, mert a szél ilyenkor hűvösebb lehet.",
+                "ro": "Apa este deosebit de clară și calmă în aceste luni, perfectă pentru înot; aduceți un prosop mare, deoarece briza poate fi destul de răcoroasă.",
+                "en": "The water is exceptionally clear and calm during these months, perfect for early swimming; bring a large towel as the wind can be quite cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Salad Beach Resort",
+                "hu": "Salad Beach Resort",
+                "ro": "Salad Beach Resort",
+                "en": "Salad Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés am Strand bieten jetzt die perfekte Temperatur für ein Frühstück im Freien; eine leichte Weste schützt vor der morgendlichen Frische.",
+                "hu": "A tengerparti kávézók tökéletes hőmérsékletet kínálnak a reggelihez a szabadban; egy vékonyabb mellény megvéd a reggeli hűvösebb levegőtől.",
+                "ro": "Cafenelele de pe plajă oferă acum temperatura perfectă pentru micul dejun; o vestă ușoară vă va proteja de răcoarea matinală a iernii.",
+                "en": "Beachfront cafes offer the perfect temperature for outdoor breakfast now; a light vest or layer will protect you from the morning chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Mae Haad Cove (Nudist Beach)",
+                "hu": "Mae Haad Cove (Nudist Beach)",
+                "ro": "Mae Haad Cove (Nudist Beach)",
+                "en": "Mae Haad Cove (Nudist Beach)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Felsenpfade in der Mittagssonne, die im Winter weniger intensiv brennt; Sonnenschutz ist trotz der milden Luft weiterhin wichtig.",
+                "hu": "Fedezd fel a sziklás ösvényeket a déli napsütésben, ami télen kevésbé éget; a naptej használata a hűvösebb levegő ellenére is nagyon fontos.",
+                "ro": "Explorați potecile stâncoase sub soarele de la amiază, care este mai puțin intens iarna; protecția solară rămâne crucială în ciuda aerului blând.",
+                "en": "Explore the rocky paths during the midday sun, which is less intense in winter; sunscreen remains important despite the milder air temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mae Hat",
+                "hu": "Ao Mae Hat",
+                "ro": "Ao Mae Hat",
+                "en": "Ao Mae Hat"
+              },
+              "tip_5lang": {
+                "de": "Die flachen Gewässer sind ideal zum Waten, wenn die Lufttemperatur am Nachmittag am höchsten ist; achten Sie auf den frühen Schatten der Palmen.",
+                "hu": "A sekély víz ideális a gázoláshoz, amikor a délutáni hőmérséklet a legmagasabb; figyelj a pálmák korai árnyékára, ami hamarabb hűsítheti a partot.",
+                "ro": "Apele puțin adânci sunt ideale pentru plimbări când temperatura este maximă; atenție la umbra palmierilor care cuprinde plaja mult mai devreme.",
+                "en": "The shallow waters are ideal for wading when the afternoon temperature is highest; note that palm shadows cover the beach much earlier in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Ma",
+                "hu": "Koh Ma",
+                "ro": "Koh Ma",
+                "en": "Koh Ma"
+              },
+              "tip_5lang": {
+                "de": "Der Übergang zur Insel bietet im Winter oft die beste Sicht auf die Korallen bei Niedrigwasser; nutzen Sie das weiche Licht für Fotos.",
+                "hu": "A szigetre vezető út ilyenkor kínálja a legjobb kilátást a korallokra apálykor; használd ki a téli nap lágy fényeit a fotózáshoz az átkelés alatt.",
+                "ro": "Traversarea spre insulă oferă iarna cea mai bună vizibilitate asupra coralilor la reflux; folosiți lumina caldă a soarelui pentru fotografii reușite.",
+                "en": "The island crossing offers the best visibility of corals at low tide in winter; take advantage of the soft winter sunlight for beautiful photos."
+              }
+            },
+            {
+              "name": {
+                "de": "360 bar",
+                "hu": "360 bar",
+                "ro": "360 bar",
+                "en": "360 bar"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang nicht zu verpassen; ziehen Sie sich für den Abend warm an, wenn der Wind auf dem Hügel auffrischt.",
+                "hu": "Érkezz meg 16:30 előtt, hogy ne maradj le a korai naplementéről; öltözz rétegesen, mert a dombtetőn a szél este jelentősen lehűtheti a levegőt.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a nu rata apusul timpuriu; îmbrăcați-vă cu un strat suplimentar deoarece vântul pe deal se intensifică seara.",
+                "en": "Arrive before 16:30 to catch the early sunset; wear an extra layer as the wind on the hilltop can become quite chilly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A kerékpáros nap a lenyűgöző Hin Ngam sziklaalakzatoknál indul, mielőtt eltekerne egy izgalmas, természetközeli szafari élmény felé, amely felpezsdíti a korai órákat.\n\nDél körül az útvonal a szárazföld belsejébe, a frissítő Wang Sai vízeséshez vezet. A dzsungelösvények után egy gyönyörűen eldugott öbölben kereshet árnyékot és pihenést.\n\nA délután a partra való látványos visszatérést helyezi előtérbe. Felfedezi a vibráló Koh Ma rezervátumot, és elmerül a közeli korallzátonyok tiszta vizében.\n\nAlkonyatkor az utazás az Ao Mae Hat tágas partjainál ér véget. A lágy tengeri szellő és a puha homok tökéletes környezetet biztosít a hosszú út utáni pihenéshez.",
         "ro": "Ziua de ciclism începe la formațiunile stâncoase Hin Ngam, înainte de a pedala către o experiență captivantă de safari în natură, care animă primele ore.\n\nÎn jurul prânzului, traseul vă poartă spre interior către cascada răcoroasă Wang Sai. După potecile din junglă, veți căuta umbră și odihnă într-un golf retras și frumos.\n\nDupă-amiaza subliniază tranziția spectaculoasă înapoi spre coastă. Veți explora sanctuarul Koh Ma și vă veți scufunda în apele limpezi ale recifelor de corali din apropiere.\n\nOdată cu lăsarea întunericului, călătoria se încheie pe țărmurile vaste de la Ao Mae Hat. Briza mării și nisipul fin oferă cadrul ideal pentru a vă relaxa după o cursă lungă.",
         "en": "Your cycling day starts at the striking Hin Ngam rock formations before pedaling towards an exciting, nature-focused safari experience that invigorates the early hours.\n\nAround midday, the route steers inland to the refreshing Wang Sai Waterfall. After navigating the jungle trails, you will seek shade and rest at a beautifully secluded bay.\n\nThe afternoon highlights the spectacular transition back to the coast. You will explore the vibrant Koh Ma sanctuary and immerse yourself in the clear waters of nearby coral reefs.\n\nAs dusk approaches, your journey winds down on the expansive shores of Ao Mae Hat. The gentle sea breeze and soft sands provide the ultimate setting to relax after a long ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln wir vorsichtig auf den nassen Straßen, da der Regen den Asphalt rutschig macht; Bremsen sollten vorab geprüft werden. Mittags finden wir Unterschlupf in überdachten Cafés entlang der Route. Am Nachmittag erkunden wir die üppige Vegetation, die nach dem Regen besonders intensiv duftet. Abends stellen wir das Rad im Trockenen ab und genießen die kühle, saubere Luft.",
+            "hu": "Reggel óvatosan tekerünk a vizes utakon, mivel az eső csúszóssá teszi az aszfaltot; ellenőrizd a fékeket indulás előtt. Délben az út menti fedett kávézókban keresünk menedéket. Délután a burjánzó dzsungelt fedezzük fel, amely eső után különösen intenzív illatot áraszt. Este biztonságos, száraz helyre tesszük a biciklit, és élvezzük a tiszta, eső utáni friss levegőt.",
+            "ro": "Dimineața pedalăm cu atenție pe drumurile ude, deoarece ploaia face asfaltul alunecos; verificați frânele înainte de a pleca la drum. La prânz găsim adăpost în cafenelele acoperite de pe traseu. După-amiaza explorăm vegetația luxuriantă care are un miros intens după ploaie. Seara lăsăm bicicleta la loc uscat și ne bucurăm de aerul curat și răcoros de după furtună.",
+            "en": "In the morning, we cycle carefully on wet roads as the rain makes the asphalt slippery; check your brakes before starting the trip. At noon, we find shelter in covered cafes along the route. In the afternoon, we explore the lush jungle which smells especially intense after the rain. In the evening, we park the bike in a dry spot and enjoy the clean, fresh post-rain air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hin Ngam",
+                "hu": "Hin Ngam",
+                "ro": "Hin Ngam",
+                "en": "Hin Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steine glänzen bei Regen besonders schön, sind aber extrem rutschig; halten Sie beim Absteigen vom Rad genügend Abstand zum Wasser.",
+                "hu": "A sötét kövek esőben gyönyörűen csillognak, de rendkívül csúszósak; a bicikliről leszállva tarts biztonságos távolságot a vizes szikláktól.",
+                "ro": "Pietrele negre strălucesc frumos în ploaie, dar sunt extrem de alunecoase; păstrați distanța față de apă când coborâți de pe bicicletă.",
+                "en": "The dark stones shine beautifully in the rain but are extremely slippery; keep a safe distance from the wet rocks when getting off your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Safari",
+                "hu": "Phangan Safari",
+                "ro": "Phangan Safari",
+                "en": "Phangan Safari"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche bieten Schutz vor Güssen, während man die Tiere beobachtet; parken Sie das Rad unter einem Vordach, um den Sattel trocken zu halten.",
+                "hu": "A fedett részek védelmet nyújtanak az eső ellen az állatok megfigyelése közben; parkolj egy előtető alá, hogy a bicikli nyerge száraz maradjon.",
+                "ro": "Zonele acoperite oferă adăpost în timp ce observați animalele; parcați bicicleta sub un acoperiș pentru a păstra șaua uscată în timpul vizitei.",
+                "en": "The covered areas provide shelter from downpours while watching the animals; park your bike under an overhang to keep the seat dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Wang Sai Waterfall Entrance (50 ฿)",
+                "hu": "Wang Sai Waterfall Entrance (50 ฿)",
+                "ro": "Wang Sai Waterfall Entrance (50 ฿)",
+                "en": "Wang Sai Waterfall Entrance (50 ฿)"
+              },
+              "tip_5lang": {
+                "de": "Nach Regen ist der Wasserfall besonders kraftvoll und beeindruckend; der Pfad dorthin ist schlammig, also schieben Sie das Rad lieber ein Stück.",
+                "hu": "Eső után a vízesés különösen erőteljes és látványos; az oda vezető út sáros lehet, így érdemesebb egy szakaszon tolni a biciklit a biztonságért.",
+                "ro": "După ploaie, cascada este foarte puternică și impresionantă; poteca fiind noroioasă, este mai bine să împingeți bicicleta pe anumite porțiuni.",
+                "en": "After rain, the waterfall is powerful and impressive; the path is muddy, so it's better to push your bike for a stretch to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Thonglang",
+                "hu": "Ao Hat Thonglang",
+                "ro": "Ao Hat Thonglang",
+                "en": "Ao Hat Thonglang"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist bei Regen sehr ruhig, ideal für eine Pause in einer Strandhütte; achten Sie beim Fahren auf Pfützen, die tiefe Löcher verbergen können.",
+                "hu": "Az öböl esőben nagyon nyugodt, ideális egy pihenőre egy parti kunyhóban; tekerés közben kerüld a pocsolyákat, mert mély kátyúkat rejthetnek.",
+                "ro": "Golful este foarte liniștit pe ploaie, ideal pentru o pauză într-o colibă; evitați bălțile mari deoarece pot ascunde gropi adânci în drum.",
+                "en": "The bay is very quiet in the rain, ideal for a break in a beach hut; avoid deep puddles while cycling as they may hide dangerous potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Ma",
+                "hu": "Koh Ma",
+                "ro": "Koh Ma",
+                "en": "Koh Ma"
+              },
+              "tip_5lang": {
+                "de": "Starker Regen kann den Sand am Übergang instabil machen; lassen Sie das Rad sicher am Hauptstrand stehen, bevor Sie zu Fuß hinübergehen.",
+                "hu": "A heves esőzés instabillá teheti a homokot az átkelőnél; hagyd a biciklit biztonságos helyen a főparton, és gyalog menj át a szigetre.",
+                "ro": "Ploaia torențială poate face nisipul instabil la traversare; lăsați bicicleta în siguranță pe plaja principală înainte de a trece pe jos.",
+                "en": "Heavy rain can make the sand bar unstable; leave your bike in a secure spot on the main beach before crossing to the island on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Coral Reef",
+                "hu": "Coral Reef",
+                "ro": "Coral Reef",
+                "en": "Coral Reef"
+              },
+              "tip_5lang": {
+                "de": "Das Schnorcheln im Regen ist ein besonderes Erlebnis, aber die Sicht kann getrübt sein; wärmen Sie sich nach dem Wasser sofort gut auf.",
+                "hu": "Az esőben való sznorkelezés különleges élmény, de a látótávolság korlátozott lehet; a vízből kijőve azonnal törölközz meg a lehűlés ellen.",
+                "ro": "Snorkeling-ul pe ploaie este o experiență aparte, dar vizibilitatea poate fi redusă; încălziți-vă imediat ce ieșiți din apa mării.",
+                "en": "Snorkeling in the rain is a unique experience, but visibility may be reduced; warm up immediately after coming out of the water to stay healthy."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mae Hat",
+                "hu": "Ao Mae Hat",
+                "ro": "Ao Mae Hat",
+                "en": "Ao Mae Hat"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Strand bietet viele überdachte Restaurants zum Abschluss der Tour; prüfen Sie Ihre Kette auf Sand und Salz nach der Regenfahrt.",
+                "hu": "A tágas tengerpart számos fedett éttermet kínál a túra végén; a vizes út után ellenőrizd a láncot, és tisztítsd meg a homoktól és a sártól.",
+                "ro": "Plaja oferă multe restaurante acoperite pentru finalul turului; după drumul prin ploaie, curățați lanțul bicicletei de nisip și noroi.",
+                "en": "The wide beach offers many covered restaurants for the end of the tour; after the rainy ride, check your chain and clean it from sand and mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise, die das Radfahren auf den Hügeln sehr angenehm macht. Mittags nutzen wir die milderen Temperaturen für längere Strecken durch das Inselinnere. Da es früh dunkel wird, stellen wir sicher, dass die Fahrradbeleuchtung funktioniert. Den Abend verbringen wir entspannt an der Küste, wo die Luft nun trocken und angenehm kühl ist.",
+            "hu": "A reggeli friss szellő megkönnyíti a tekerést a dombos szakaszokon, nem izzadunk annyira. Napközben a mérsékeltebb melegben hosszabb utakat is bevállalhatunk a sziget belseje felé. Mivel hamar sötétedik, ellenőrizd a lámpákat a biciklin. Az estét a parton töltjük, ahol a levegő szárazabb és kellemesen hűvös a téli szezonban.",
+            "ro": "Briza matinală face pedalarea pe dealuri mult mai plăcută și mai puțin obositoare. La prânz profităm de temperaturile blânde pentru trasee mai lungi prin interiorul insulei. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei sunt funcționale. Seara este perfectă pe coastă, unde aerul este acum uscat și reconfortant.",
+            "en": "The morning breeze makes cycling on the hills much more pleasant and less exhausting. At noon, we take advantage of the milder temperatures for longer rides through the island's interior. Since it gets dark early, ensure your bike lights are working. We spend the evening relaxing by the coast where the air is dry and comfortably cool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hin Ngam",
+                "hu": "Hin Ngam",
+                "ro": "Hin Ngam",
+                "en": "Hin Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft an den Klippen ist erfrischend; tragen Sie beim Radfahren ein Langarmshirt gegen den Fahrtwind und die Sonne.",
+                "hu": "A sziklák melletti hűvös reggeli levegő frissítő; tekerés közben viselj hosszú ujjú felsőt a menetszél és az erős téli nap ellen.",
+                "ro": "Aerul răcoros de dimineață de lângă stânci este revigorant; purtați o bluză cu mânecă lungă împotriva vântului și a soarelui puternic.",
+                "en": "The cool morning air by the cliffs is refreshing; wear a long-sleeved shirt while cycling to protect against the wind and the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Safari",
+                "hu": "Phangan Safari",
+                "ro": "Phangan Safari",
+                "en": "Phangan Safari"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind in der kühleren Winterluft aktiver und besser zu beobachten; parken Sie das Rad im Schatten, damit die Griffe nicht heiß werden.",
+                "hu": "Az állatok a hűvösebb téli levegőben sokkal aktívabbak, így könnyebb megfigyelni őket; parkolj árnyékba, hogy a kormány ne forrósodjon fel.",
+                "ro": "Animalele sunt mai active în aerul răcoros de iarnă și pot fi observate mai bine; parcați bicicleta la umbră pentru a evita încingerea ghidonului.",
+                "en": "Animals are more active in the cooler winter air and easier to observe; park your bike in the shade to keep the handlebars from getting too hot."
+              }
+            },
+            {
+              "name": {
+                "de": "Wang Sai Waterfall Entrance (50 ฿)",
+                "hu": "Wang Sai Waterfall Entrance (50 ฿)",
+                "ro": "Wang Sai Waterfall Entrance (50 ฿)",
+                "en": "Wang Sai Waterfall Entrance (50 ฿)"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall führt im Winter weniger Wasser, bietet aber klare Naturbecken; nutzen Sie die Kühle des Waldes für eine längere Radpause.",
+                "hu": "A vízesés télen kevesebb vizet szállít, de a medencék kristálytiszták; használd ki az erdő hűvösét egy hosszabb pihenőre a tekerés után.",
+                "ro": "Cascada are mai puțin debit iarna, dar oferă bazine naturale limpezi; folosiți răcoarea pădurii pentru o pauză lungă de la pedalat.",
+                "en": "The waterfall has less flow in winter but offers clear natural pools; take advantage of the forest's cool shade for a longer cycling break."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hat Thonglang",
+                "hu": "Ao Hat Thonglang",
+                "ro": "Ao Hat Thonglang",
+                "en": "Ao Hat Thonglang"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wintermeer lädt zum Verweilen ein; achten Sie auf den frühen Schattenwurf der Berge, der die Bucht am Nachmittag abkühlt.",
+                "hu": "A nyugodt téli tenger hívogató a pihenésre; figyelj a hegyek korai árnyékára, ami délután gyorsan lehűtheti az öblöt a tekerés után.",
+                "ro": "Marea liniștită de iarnă vă invită la relaxare; atenție la umbra munților care cuprinde golful după-amiaza, răcorind rapid aerul.",
+                "en": "The calm winter sea is perfect for relaxing; be aware that mountain shadows cool the bay down early in the afternoon after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Ma",
+                "hu": "Koh Ma",
+                "ro": "Koh Ma",
+                "en": "Koh Ma"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Sandbank oft breiter und trockener, ideal für einen Spaziergang; sichern Sie Ihr Rad gut am Parkplatz vor dem Strand.",
+                "hu": "Télen a homokpad gyakran szélesebb és szárazabb, ami ideális a sétához; zárd le biztonságosan a biciklit a strand előtti parkolóban.",
+                "ro": "Iarna, bancul de nisip este adesea mai lat și uscat, ideal pentru o plimbare; asigurați bine bicicleta în parcarea de lângă plajă.",
+                "en": "In winter, the sandbar is often wider and drier, ideal for a walk; lock your bike securely in the parking area before heading to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Coral Reef",
+                "hu": "Coral Reef",
+                "ro": "Coral Reef",
+                "en": "Coral Reef"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate bieten die beste Unterwassersicht an diesem Riff; ein UV-Shirt schützt im kühlen Wasser vor dem Auskühlen und vor der Sonne.",
+                "hu": "A téli hónapok kínálják a legjobb víz alatti látótávolságot a zátonynál; egy UV-szűrős póló megvéd a kihűléstől a hűvösebb vízben.",
+                "ro": "Lunile de iarnă oferă cea mai bună vizibilitate sub apă la acest recif; un tricou UV vă va proteja de răceala apei și de soare.",
+                "en": "Winter months offer the best underwater visibility at this reef; a UV-shirt protects you from both the cool water and the strong sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mae Hat",
+                "hu": "Ao Mae Hat",
+                "ro": "Ao Mae Hat",
+                "en": "Ao Mae Hat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr, um im hellen zurückzufahren; genießen Sie die trockene, milde Abendluft bei einem Snack.",
+                "hu": "Fejezd be a túrát 17:00 előtt, hogy még világosban indulhass vissza; élvezd a száraz, enyhe esti levegőt a parton egy frissítő mellett.",
+                "ro": "Finalizați turul înainte de ora 17:00 pentru a vă întoarce pe lumină; savurați aerul uscat și blând de seară pe plajă la final.",
+                "en": "Finish your tour before 17:00 to ride back while it's still light; enjoy the dry, mild evening air at the beach with a refreshing snack."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Az autózás a Hin Ngam drámai természeti szépségével indul, majd zökkenőmentesen tér át a vadvilág interaktív felfedezésére a közeli dzsungelszafari parkban.\n\nA dél egy festői utat kínál a Haad Saladhoz egy pihentető tengerparti szünetre. Ezután a part menti üdülőhelyek magaslati kilátópontokat kínálnak a kék horizont megcsodálásához.\n\nA délután a víz alatti felfedezésnek van szentelve. Prémium sznorkelező helyekre navigál, és átkel a híres homokpadon, hogy megtapasztalja a Koh Ma tengeri ökoszisztémáját.\n\nAz este egy utazásra hív a környező dombok közé. Egy magasan fekvő bárba érve panorámás kilátás és lenyűgöző naplemente a jutalom a nap megkoronázásaként.",
         "ro": "Plimbarea cu mașina începe cu frumusețea naturală dramatică de la Hin Ngam, trecând lin într-o dimineață de descoperire interactivă a faunei la parcul de safari din apropiere.\n\nPrânzul invită la o plimbare pitorească până la Haad Salad pentru o pauză relaxantă pe plajă. Apoi, complexurile de coastă oferă puncte de belvedere pentru a admira orizontul azuriu.\n\nDupă-amiaza este dedicată explorării subacvatice. Veți naviga către locuri excelente de snorkeling și veți traversa faimosul banc de nisip pentru a experimenta ecosistemul de la Koh Ma.\n\nSeara atrage o plimbare cu mașina pe dealurile din jur. Ajungând la un bar la altitudine, sunteți răsplătit cu vederi panoramice și un apus uimitor pentru a încheia ziua.",
         "en": "The drive kicks off with the dramatic natural beauty of Hin Ngam, smoothly transitioning into a morning of interactive wildlife discovery at the nearby jungle safari park.\n\nMidday prompts a picturesque drive to Haad Salad for a relaxing beachside break. Afterwards, scenic coastal resorts offer elevated viewpoints to admire the azure horizon in absolute comfort.\n\nThe afternoon is dedicated to underwater exploration. You will navigate to premier snorkeling spots and cross the famous sandbar to experience the thriving marine ecosystem of Koh Ma.\n\nEvening beckons a drive up into the surrounding hills. Reaching a high-altitude bar, you are rewarded with panoramic views and a stunning sunset to conclude the day's road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen fahren wir entspannt durch den Regen, während die Scheibenwischer den Blick auf den dichten Dschungel freigeben. Mittags parken wir direkt vor überdachten Restaurants, um trocken zu bleiben. Am Nachmittag erkunden wir Aussichtspunkte, an denen man das Auto als Rückzugsort nutzen kann. Den Abend verbringen wir bei einer Fahrt entlang der Küste, während der Regen leise auf das Dach trommelt.",
+            "hu": "Reggel kényelmesen autózunk az esőben, miközben a dzsungel zöldje még élénkebbnek tűnik az ablakon át. Délben közvetlenül a fedett éttermek előtt parkolunk, hogy szárazon jussunk be. Délután olyan kilátókat keresünk, ahol az autóban maradva is élvezhetjük a tájat. Az estét egy tengerparti autózással zárjuk, hallgatva az eső kopogását a tetőn.",
+            "ro": "Dimineața conducem relaxați prin ploaie, admirând jungla care pare și mai verde prin parbrizul mașinii. La prânz parcăm chiar în fața restaurantelor acoperite pentru a rămâne uscați. După-amiaza explorăm puncte de belvedere unde mașina poate fi un refugiu confortabil. Seara o petrecem conducând de-a lungul coastei, ascultând ploaia care bate ușor în plafon.",
+            "en": "In the morning, we drive comfortably through the rain while the jungle looks even more vibrant through the window. At noon, we park directly in front of covered restaurants to stay dry. In the afternoon, we explore viewpoints where the car can serve as a cozy shelter from the bursts. We spend the evening driving along the coast, listening to the rain tapping on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hin Ngam",
+                "hu": "Hin Ngam",
+                "ro": "Hin Ngam",
+                "en": "Hin Ngam"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Wasser, um die Wellen bei Regen aus dem Auto zu beobachten; Vorsicht beim Aussteigen auf dem rutschigen Boden.",
+                "hu": "Használd a parthoz közeli parkolót, hogy az autóból figyeld a hullámverést az esőben; légy óvatos a kiszállásnál a csúszós útpadka miatt.",
+                "ro": "Folosiți parcarea de lângă apă pentru a observa valurile din mașină în timpul ploii; fiți atenți la coborâre din cauza terenului alunecos.",
+                "en": "Use the parking lot near the water to watch the waves from the car during the rain; be careful when getting out due to the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Safari",
+                "hu": "Phangan Safari",
+                "ro": "Phangan Safari",
+                "en": "Phangan Safari"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage bietet viele überdachte Wege, ideal für einen regnerischen Vormittag; lassen Sie keine Wertsachen sichtbar im geparkten Auto liegen.",
+                "hu": "A szafari területén sok a fedett folyosó, így esőben is jó program; ne hagyj látható helyen értéktárgyakat a lezárt autóban a parkolóban.",
+                "ro": "Locația are multe alei acoperite, fiind ideală pentru o dimineață ploioasă; nu lăsați obiecte de valoare la vedere în mașina parcată.",
+                "en": "The safari area has many covered paths, making it ideal for a rainy morning; do not leave any valuables visible in your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Salad",
+                "hu": "Haad Salad",
+                "ro": "Haad Salad",
+                "en": "Haad Salad"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist per Auto leicht erreichbar, sodass Sie bei Schauern schnell zurück ins Trockene können; nutzen Sie die Zeit für ein langes Mittagessen.",
+                "hu": "A strand autóval könnyen megközelíthető, így egy hirtelen zápor esetén gyorsan menedékbe juthatsz; töltsd az időt egy hosszú ebéddel a parton.",
+                "ro": "Plaja este ușor accesibilă cu mașina, permițându-vă să vă adăpostiți rapid în caz de aversă; profitați de timp pentru un prânz prelungit.",
+                "en": "The beach is easily accessible by car, allowing you to return to shelter quickly during a downpour; enjoy a long lunch at a beachfront spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Mae Haad Beach View Resort",
+                "hu": "Mae Haad Beach View Resort",
+                "ro": "Mae Haad Beach View Resort",
+                "en": "Mae Haad Beach View Resort"
+              },
+              "tip_5lang": {
+                "de": "Das Resort bietet exzellente überdachte Aussichtsplattformen für Fotos bei Regen; parken Sie auf befestigtem Untergrund, um nicht im Schlamm zu stecken.",
+                "hu": "A resort kiváló fedett kilátóteraszokat kínál a fotózáshoz esős időben is; parkolj szilárd talajon, hogy elkerüld az elakadást a sárban.",
+                "ro": "Complexul oferă platforme de observare acoperite, excelente pentru poze pe ploaie; parcați pe teren solid pentru a nu rămâne blocați în noroi.",
+                "en": "The resort offers excellent covered viewing decks for photos even in the rain; park on solid ground to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Snorkeling Spot",
+                "hu": "Snorkeling Spot",
+                "ro": "Snorkeling Spot",
+                "en": "Snorkeling Spot"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Gewittergefahr unbedingt aus dem Wasser; nutzen Sie das Auto, um zum nächsten wetterfesten Café zu fahren und abzuwarten.",
+                "hu": "Viharveszély esetén semmiképp ne menj a vízbe; használd az autót, hogy elhajts a legközelebbi időjárásálló kávézóba és megvárd az eső végét.",
+                "ro": "Nu intrați în apă dacă există risc de furtună cu fulgere; folosiți mașina pentru a merge la cea mai apropiată cafenea și a aștepta.",
+                "en": "Do not enter the water if there is a risk of lightning; use the car to drive to the nearest weather-proof cafe and wait for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Ma",
+                "hu": "Koh Ma",
+                "ro": "Koh Ma",
+                "en": "Koh Ma"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der Sandbank bequem vom befestigten Parkplatz aus; bei starkem Wind ist die Überquerung zu Fuß nicht ratsam.",
+                "hu": "Figyeld meg a homokpad látványát kényelmesen a szilárd burkolatú parkolóból; erős szélben és esőben a gyalogos átkelés nem javasolt.",
+                "ro": "Observați spectacolul natural al bancului de nisip din confortul parcării asfaltate; traversarea pe jos nu este recomandată pe vânt puternic.",
+                "en": "Watch the natural spectacle of the sandbar from the comfort of the paved parking lot; crossing on foot is not advised during heavy wind."
+              }
+            },
+            {
+              "name": {
+                "de": "360 bar",
+                "hu": "360 bar",
+                "ro": "360 bar",
+                "en": "360 bar"
+              },
+              "tip_5lang": {
+                "de": "Die steile Anfahrt ist bei Regen mit dem Auto am sichersten, erfordert aber Konzentration; genießen Sie den Panorama-Regenblick bei einem Cocktail.",
+                "hu": "A meredek feljáró esőben autóval a legbiztonságosabb, de fokozott figyelmet igényel; élvezd a panorámás kilátást egy koktél mellett.",
+                "ro": "Urcarea abruptă este mai sigură cu mașina pe ploaie, dar necesită concentrare; savurați vederea panoramică la un cocktail pe terasă.",
+                "en": "The steep access road is safest by car in the rain but requires focus; enjoy the panoramic view with a cocktail from the covered area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die kühle Luft bei offener Scheibe während der Fahrt nach Norden. Mittags bietet die angenehme Wintersonne perfekte Bedingungen für Erkundungen ohne Klimaanlage. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir unseren letzten Stopp rechtzeitig zum Farbschauspiel. Den Abend lassen wir bei einer Fahrt unter dem klaren Winterhimmel ausklingen.",
+            "hu": "Reggel élvezzük a hűvös levegőt lehúzott ablakkal az északi part felé autózva. Napközben a kellemes téli napsütésben légkondi nélkül is élvezet a városnézés és a parkolás. Mivel 17:00 körül lemegy a nap, időben érkezünk az utolsó helyszínre a színes alkonyatért. Az estét egy autózással zárjuk a tiszta téli égbolt alatt.",
+            "ro": "Dimineața savurăm aerul răcoros cu geamurile deschise în timp ce conducem spre nord. La prânz, soarele blând de iarnă permite explorarea fără a depinde de aerul condiționat. Deoarece soarele apune la ora 17:00, ajungem la ultima oprire la timp pentru spectacolul culorilor. Seara se încheie cu o plimbare sub cerul senin de iarnă.",
+            "en": "In the morning, we enjoy the cool air with the windows down while driving north. At noon, the pleasant winter sun allows for exploring without constant air conditioning. Since the sun sets around 17:00, we reach our final stop in time for the colorful twilight show. We end the evening with a drive under the clear winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hin Ngam",
+                "hu": "Hin Ngam",
+                "ro": "Hin Ngam",
+                "en": "Hin Ngam"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen sind am Morgen angenehm kühl zum Klettern und Erkunden; lassen Sie das Auto im Schatten, um die Aufheizung über Tag zu vermeiden.",
+                "hu": "A sziklák reggel kellemesen hűvösek a mászáshoz és felfedezéshez; parkolj árnyékba, hogy az autó belseje ne melegedjen fel túlságosan napközben.",
+                "ro": "Stâncile sunt plăcut de răcoroase dimineața pentru explorare; lăsați mașina la umbră pentru a evita supraîncălzirea interiorului pe parcursul zilei.",
+                "en": "The rocks are pleasantly cool in the morning for climbing and exploring; park your car in the shade to prevent the interior from heating up."
+              }
+            },
+            {
+              "name": {
+                "de": "Phangan Safari",
+                "hu": "Phangan Safari",
+                "ro": "Phangan Safari",
+                "en": "Phangan Safari"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Besuch am Vormittag besonders angenehm, da die Temperaturen moderat sind; im Auto ist es jetzt auch ohne volle Kühlung bequem.",
+                "hu": "Télen a délelőtti látogatás a legkellemesebb a mérsékelt hőmérséklet miatt; az autóban ilyenkor teljes hűtés nélkül is kényelmes az utazás.",
+                "ro": "Iarna, vizita de dimineață este foarte plăcută datorită temperaturilor moderate; în mașină este confortabil acum și fără aer condiționat maxim.",
+                "en": "In winter, a morning visit is particularly pleasant due to the moderate temperatures; driving is comfortable now even without full cooling."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Salad",
+                "hu": "Haad Salad",
+                "ro": "Haad Salad",
+                "en": "Haad Salad"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Winterwasser ist ideal für Fotos direkt vom Ufer aus; parken Sie am Rand, da der Strandzugang im Winter sehr beliebt sein kann.",
+                "hu": "A kristálytiszta téli tenger ideális a fotózáshoz közvetlenül a partról; parkolj a szélen, mert a strandbejárat télen nagyon népszerű lehet.",
+                "ro": "Apa cristalină de iarnă este ideală pentru fotografii direct de pe mal; parcați la margine, deoarece accesul la plajă este foarte căutat iarna.",
+                "en": "The crystal-clear winter water is ideal for photos right from the shore; park at the edge as beach access can be very popular in high season."
+              }
+            },
+            {
+              "name": {
+                "de": "Mae Haad Beach View Resort",
+                "hu": "Mae Haad Beach View Resort",
+                "ro": "Mae Haad Beach View Resort",
+                "en": "Mae Haad Beach View Resort"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist in der trockenen Winterluft am besten, oft sieht man Nachbarinseln; eine leichte Jacke im Auto ist für den Abend ratsam.",
+                "hu": "A látótávolság a száraz téli levegőben a legjobb, gyakran a szomszédos szigetek is látszanak; egy vékony dzseki jól jöhet az autóban estére.",
+                "ro": "Vizibilitatea este maximă în aerul uscat de iarnă, văzându-se des insulele vecine; o jachetă ușoară în mașină este utilă pentru seară.",
+                "en": "Visibility is best in the dry winter air, often showing neighboring islands; keeping a light jacket in the car is advisable for the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Snorkeling Spot",
+                "hu": "Snorkeling Spot",
+                "ro": "Snorkeling Spot",
+                "en": "Snorkeling Spot"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Meer ermöglicht einfaches Schnorcheln ohne starke Strömungen; halten Sie ein trockenes T-Shirt im Auto für die Fahrt bereit.",
+                "hu": "A nyugodt tenger lehetővé teszi a könnyű sznorkelezést erős áramlatok nélkül; tarts egy száraz pólót az autóban a víz utáni visszaútra.",
+                "ro": "Marea liniștită permite snorkeling ușor, fără curenți puternici; păstrați un tricou uscat în mașină pentru drumul de întoarcere.",
+                "en": "The calm sea allows for easy snorkeling without strong currents; keep a dry T-shirt in the car to change into after your time in the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Ma",
+                "hu": "Koh Ma",
+                "ro": "Koh Ma",
+                "en": "Koh Ma"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das späte Nachmittagslicht für den Übergang zur Insel; die Parkplatzsituation ist entspannter, wenn man etwas früher ankommt.",
+                "hu": "Használd ki a késő délutáni fényeket a szigetre való átkeléshez; a parkolás könnyebb, ha egy kicsit korábban érkezel a helyszínre.",
+                "ro": "Folosiți lumina de după-amiază târzie pentru traversarea spre insulă; parcarea este mai liberă dacă ajungeți cu puțin timp înainte de vârf.",
+                "en": "Take advantage of the late afternoon light for the island crossing; the parking situation is more relaxed if you arrive a bit early."
+              }
+            },
+            {
+              "name": {
+                "de": "360 bar",
+                "hu": "360 bar",
+                "ro": "360 bar",
+                "en": "360 bar"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie sich vor 16:30 Uhr einen Platz für den frühen Sonnenuntergang; die Rückfahrt im Dunkeln erfordert auf den Kurven Vorsicht.",
+                "hu": "Foglalj helyet 16:30 előtt a korai naplemente megtekintéséhez; a sötétben való visszavezetés fokozott óvatosságot igényel a kanyargós úton.",
+                "ro": "Ocupați un loc înainte de ora 16:30 pentru apusul timpuriu; condusul înapoi pe întuneric necesită atenție sporită pe drumul cu serpentine.",
+                "en": "Secure a spot before 16:30 for the early sunset view; driving back in the dark requires extra caution on the winding island roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

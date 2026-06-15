@@ -137,6 +137,168 @@
         "hu": "Sétánk reggel a történelmi St. Barahanes templom csendjében kezdődik. A délelőtt folyamán visszarepülünk az időben, és felfedezzük az ősi Lios Gyűrűerődöt. Délben a helyi kulturális gyökerekbe nyerünk betekintést a helynév-tábláknál és a közeli szent kútnál. A délutánt a Castle Haven-nél zárjuk, ahonnan gyönyörű kilátás nyílik az öbölre.",
         "ro": "Plimbarea noastră începe dimineața cu o vizită la biserica istorică Sf. Barahanes. În a doua parte a dimineții călătorim în timp explorând vechiul fort Lios. La prânz descoperim rădăcinile culturale locale prin plăcile cu nume de locuri și fântâna din apropiere. După-amiaza se încheie cu o vedere superbă asupra golfului la Castle Haven.",
         "en": "Our walking tour begins in the morning with a visit to the historic St. Barahanes Church. By mid-morning, we step back in time exploring the ancient Lios Ring Fort. Midday brings us to discover local cultural roots at the placenames landmark and nearby holy well. The afternoon concludes with a gorgeous view over the bay at Castle Haven."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Saint Barahanes Kirche, wo die berühmten Fenster bei Regen besonders leuchten. Mittags führt der Weg durch das satte Grün zum Ringfort, wobei festes Schuhwerk auf dem nassen Boden nötig ist. Am Nachmittag erkunden wir lokale Geschichten und den heiligen Brunnen unter dem Schutz der Bäume. Der Abend klingt mystisch im Nebel von Castle Haven am Wasser aus.",
+            "hu": "A reggelt a Saint Barahanes templom fedett belső terében indítjuk, ahol az esőben ragyognak az üvegablakok. Délben a dús növényzetű, de csúszós ösvényen kapaszkodunk fel a gyűrűerődhöz. Délután a helynevek titkait és a szent kutat keressük fel a fák oltalma alatt. Az este Castle Haven partján, a ködbe burkolózó öböl látványával zárul, ami különleges hangulatot áraszt.",
+            "ro": "Dimineața începe la adăpost în biserica Saint Barahanes, unde vitraliile strălucesc spectaculos pe timp de ploaie. La prânz, drumul duce prin vegetația luxuriantă spre fort, necesitând încălțăminte aderentă pe potecile umede. După-amiaza explorăm poveștile locale și fântâna sfântă sub protecția arborilor. Seara se încheie mistic în Castle Haven, unde ceața de pe apă creează o atmosferă de poveste.",
+            "en": "The morning starts sheltered inside Saint Barahanes, where the stained glass glows beautifully despite the rain. At noon, the path to the ringfort is lush but slippery, so sturdy boots are essential. Afternoon is spent uncovering local lore and visiting the holy well under the canopy of trees. The evening ends with a mystical atmosphere at Castle Haven as the sea mist rolls into the bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Barahanes",
+                "hu": "Szent Barahane templom",
+                "ro": "Biserica Saint Barahane",
+                "en": "Saint Barahanes"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Harry-Clarke-Fenster im trockenen Kirchenschiff; ein idealer Rückzugsort bei plötzlichen Regenschauern.",
+                "hu": "Csodálja meg a Harry Clarke üvegablakokat a száraz templomhajóban; ez a tökéletes menedék egy hirtelen zápor idején.",
+                "ro": "Admirați vitraliile Harry Clarke în nava uscată a bisericii; un refugiu ideal în timpul averselor bruște de ploaie.",
+                "en": "Admire the Harry Clarke stained glass windows in the dry nave; an ideal sanctuary to retreat to during sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios Ringfort",
+                "hu": "Lios Gyűrűerőd",
+                "ro": "Fortul Circular Lios",
+                "en": "Lios"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Erdwälle im Regenmantel; achten Sie auf den schlammigen Pfad, der bei Nässe sehr rutschig sein kann.",
+                "hu": "Fedezze fel az ősi sáncokat esőkabátban; ügyeljen a sáros ösvényre, amely nedves időben rendkívül csúszóssá válik.",
+                "ro": "Explorați valurile de pământ antice purtând o pelerină; atenție la poteca noroioasă care devine foarte alunecoasă la umezeală.",
+                "en": "Explore the ancient earthworks in a raincoat; watch your step on the muddy path, which becomes very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ortsnamen & ihre erstaunlichen Geschichten",
+                "hu": "Helynevek és elképesztő történeteik",
+                "ro": "Nume de locuri și poveștile lor uimitoare",
+                "en": "Placenames & Their Amazing Stories"
+              },
+              "tip_5lang": {
+                "de": "Lesen Sie die Informationstafeln unter einem Regenschirm; die Geschichten der Region sind bei grauem Himmel besonders packend.",
+                "hu": "Olvassa el az információs táblákat egy ernyő alatt; a régió történetei a szürke égbolt alatt még magával ragadóbbak.",
+                "ro": "Citiți panourile informative sub o umbrelă; poveștile regiunii sunt deosebit de captivante sub cerul gri de toamnă.",
+                "en": "Read the information boards under an umbrella; the stories of the region are especially gripping under a moody grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Toberbarrahane",
+                "hu": "Toberbarrahane",
+                "ro": "Toberbarrahane",
+                "en": "Toberbarrahane"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den heiligen Brunnen unter dem Blätterdach; das tropfende Wasser verstärkt die spirituelle Ruhe dieses Ortes.",
+                "hu": "Látogasson el a szent kúthoz a lombok védelmében; a csöpögő víz hangja felerősíti a hely spirituális nyugalmát.",
+                "ro": "Vizitați fântâna sfântă sub coronamentul arborilor; sunetul picăturilor de apă sporește liniștea spirituală a locului.",
+                "en": "Visit the holy well under the tree canopy; the sound of dripping water enhances the spiritual tranquility of this site."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Haven",
+                "hu": "Castle Haven",
+                "ro": "Castle Haven",
+                "en": "Castle Haven"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Meeresgischt von der Pier aus; der Blick auf die Bucht ist im Regen dramatisch und menschenleer.",
+                "hu": "Figyelje a tengeri párát a mólóról; az öböl látványa az esőben drámai és ilyenkor teljesen mentes a tömegtől.",
+                "ro": "Observați spuma mării de pe dig; priveliștea golfului este dramatică în ploaie și complet lipsită de aglomerație.",
+                "en": "Watch the sea spray from the pier; the view of the bay is dramatic in the rain and perfectly peaceful without crowds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen besichtigen wir die historische Kirche und genießen die Stille. Mittags führt eine belebende Wanderung zum Ringfort, wo der Blick über die kahle Küste weit reicht. Am Nachmittag nutzen wir das schwindende Licht für die Placenames-Tour und den heiligen Brunnen. Der Abend bricht gegen 17:00 Uhr früh herein und wir beenden den Tag bei Dämmerung in Castle Haven.",
+            "hu": "A tiszta téli reggelen a történelmi templom megtekintésével kezdünk, élvezve a csendet. Délben frissítő túra indul a gyűrűerődhöz, ahonnan messze ellátni a kopár partvonal felett. Délután kihasználjuk a maradék fényt a helynevek felfedezésére és a szent kútra. Az este korán, 17:00 körül köszönt be, így a napot már szürkületben zárjuk a Castle Haven öbölben.",
+            "ro": "Într-o dimineață clară de iarnă vizităm biserica istorică și ne bucurăm de liniște. La prânz, o drumeție revigorantă ne duce la fort, de unde priveliștea peste coasta golașă este vastă. După-amiaza profităm de lumina puțină pentru turul numelor de locuri și fântâna sfântă. Seara se lasă devreme, în jurul orei 17:00, încheind ziua la amurg în Castle Haven.",
+            "en": "On a crisp winter morning, we visit the historic church and enjoy the seasonal stillness. At noon, a brisk walk leads to the ringfort, offering clear views over the bare coastline. Afternoon light is brief, so we visit the local signs and the holy well before dusk. Evening sets in early around 17:00, so we wrap up our walk at Castle Haven as the twilight takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Barahanes",
+                "hu": "Szent Barahane templom",
+                "ro": "Biserica Saint Barahane",
+                "en": "Saint Barahanes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren; ziehen Sie sich warm an, da die alten Steine im Winter die Kälte speichern.",
+                "hu": "Élvezze a belső tér nyugalmát; öltözzön rétegesen, mert az ódon kőfalak télen erősen tartják a hideget.",
+                "ro": "Bucurați-vă de liniștea din interior; îmbrăcați-vă gros, deoarece zidurile vechi de piatră păstrează frigul iarna.",
+                "en": "Enjoy the peaceful interior; dress warmly in layers as the ancient stone walls hold the winter chill significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios Ringfort",
+                "hu": "Lios Gyűrűerőd",
+                "ro": "Fortul Circular Lios",
+                "en": "Lios"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos; der kalte Wind am Hügel erfordert eine winddichte Jacke für den Aufstieg.",
+                "hu": "Használja ki a tiszta téli fényeket a fotózáshoz; a dombtetőn fújó hideg szél miatt szélálló dzseki szükséges.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii; vântul rece de pe deal necesită o jachetă rezistentă la vânt.",
+                "en": "Take advantage of the crisp winter light for photos; the cold wind on the hill requires a windproof jacket for the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Ortsnamen & ihre erstaunlichen Geschichten",
+                "hu": "Helynevek és elképesztő történeteik",
+                "ro": "Nume de locuri și poveștile lor uimitoare",
+                "en": "Placenames & Their Amazing Stories"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp an den Tafeln; die klare Luft macht das Lesen der Informationen im Freien angenehm kühl.",
+                "hu": "Tegyen egy rövid megállót a tábláknál; a friss téli levegő kellemesen élénkítővé teszi a szabadtéri információsétát.",
+                "ro": "Faceți o scurtă oprire la panouri; aerul curat de iarnă face citirea informațiilor în aer liber foarte revigorantă.",
+                "en": "Make a quick stop at the boards; the crisp winter air makes reading the outdoor information pleasantly invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Toberbarrahane",
+                "hu": "Toberbarrahane",
+                "ro": "Toberbarrahane",
+                "en": "Toberbarrahane"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die magische Stille am Brunnen; besuchen Sie den Ort vor 16:00 Uhr, um das restliche Tageslicht zu nutzen.",
+                "hu": "Élje át a kút körüli mágikus csendet; érdemes 16:00 előtt ideérni, hogy még lásson valamit a természetes fényben.",
+                "ro": "Experimentați liniștea magică de la fântână; vizitați locul înainte de ora 16:00 pentru a prinde lumina zilei.",
+                "en": "Experience the magical silence at the well; visit before 16:00 to make the most of the remaining natural daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Haven",
+                "hu": "Castle Haven",
+                "ro": "Castle Haven",
+                "en": "Castle Haven"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Abendrot über dem Hafen; die Sonne geht hier gegen 17:00 Uhr spektakulär hinter den Hügeln unter.",
+                "hu": "Csodálja meg az alkonypírt a kikötő felett; a nap 17:00 körül látványosan bukik le a dombok mögött az öbölben.",
+                "ro": "Admirați culorile amurgului deasupra portului; soarele apune spectaculos după dealuri în jurul orei 17:00.",
+                "en": "Admire the winter sunset over the harbor; the sun dips behind the hills spectacularly here around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros reggel a történelmi templomnál indul, majd a helyi nevek izgalmas történetéhez vezet. Dél tájékán legurulunk a partra, és időt töltünk a homokos szakaszokon. Délután a déli gyűrűerődökhöz tekerünk, ahol élvezzük a természet nyugalmát. A napot az impozáns Somerville-toronynál zárjuk a tengerparton.",
         "ro": "Dimineața pe bicicletă începe sus la biserica istorică și ne conduce spre povestea numelor de locuri. Spre prânz coborâm spre coastă și petrecem timp pe plaje. După-amiaza pedalăm spre forturile circulare din sud și ne bucurăm de natură. Ziua se încheie cu impresionantul turn Somerville pe coastă.",
         "en": "The morning on the bike starts up at the historic church and leads us to the engaging history of local placenames. Around midday, we cruise down to the coast, spending relaxing time at the beaches. The afternoon has us pedaling to the southern ring forts and enjoying the natural landscape. The day finishes by the impressive Somerville Tower on the shoreline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet mit einer kurzen Besichtigung der Kirche als Regenschutz. Mittags fahren wir vorsichtig auf nassen Straßen zu den Aussichtspunkten und Stränden, wobei Regenkleidung unerlässlich ist. Am Nachmittag erkunden wir das Ringfort und die einsamen Buchten im rhythmischen Prasseln des Regens. Der Abend endet am Somerville Tower, der grau und trutzig im irischen Wetter steht.",
+            "hu": "A bringázás a templom rövid látogatásával indul, ami menedékül szolgál. Délben óvatosan tekerünk a vizes utakon a kilátókhoz és strandokhoz, az esőruha elengedhetetlen. Délután a gyűrűerődöt és az elhagyatott öblöket keressük fel az eső ritmikus kopogása közepette. Az este a Somerville toronynál zárul, amely szürkén és büszkén dacol az ír időjárással.",
+            "ro": "Turul cu bicicleta începe cu o scurtă vizită la biserică pentru adăpost. La prânz pedalăm cu grijă pe drumurile ude spre punctele de belvedere, echipamentul de ploaie fiind esențial. După-amiaza explorăm fortul și golful în sunetul ritmic al ploii. Seara se încheie la Turnul Somerville, care stă mândru și gri în fața vremii tipic irlandeze.",
+            "en": "The bike tour kicks off with a quick church visit to dodge the showers. At noon, we cycle carefully on wet roads towards the viewpoints and beaches; full rain gear is a must. Afternoon involves exploring the ringfort and secluded bays amidst the rhythmic Irish rain. The evening concludes at the Somerville Tower, standing grey and stoic against the Atlantic weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Barahanes",
+                "hu": "Szent Barahane templom",
+                "ro": "Biserica Saint Barahane",
+                "en": "Saint Barahanes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen; nutzen Sie den Stopp, um die Kleidung zu richten, bevor es weitergeht.",
+                "hu": "Parkolja le a biciklit a fák alatt; használja ki a megállót az esőfelszerelés igazítására a folytatás előtt.",
+                "ro": "Parcați bicicleta sub arbori; profitați de oprire pentru a vă ajusta echipamentul înainte de a porni din nou la drum.",
+                "en": "Park your bike under the trees; use this stop to adjust your rain gear comfortably before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Ortsnamen & ihre erstaunlichen Geschichten",
+                "hu": "Helynevek és elképesztő történeteik",
+                "ro": "Nume de locuri și poveștile lor uimitoare",
+                "en": "Placenames & Their Amazing Stories"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für die Tafeln an; achten Sie beim Absteigen auf rutschige Fahrbahnmarkierungen und nasses Laub.",
+                "hu": "Álljon meg egy pillanatra a tábláknál; leszálláskor ügyeljen a csúszós útburkolati jelekre és a nedves levelekre.",
+                "ro": "Opriți scurt pentru panouri; atenție la marcajele rutiere alunecoase și la frunzele ude când coborâți de pe bicicletă.",
+                "en": "Stop briefly for the signs; be careful of slippery road markings and wet leaves when dismounting your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Tráig Eilín",
+                "hu": "Tráig Eilín",
+                "ro": "Tráig Eilín",
+                "en": "Tráig Eilín"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue See am Strand; der Sand ist bei Regen fest, aber die Zufahrt kann kleine Pfützen bilden.",
+                "hu": "Élvezze a vad tengert a parton; az esőben a homok keményebb, de a levezető úton mélyebb tócsák alakulhatnak ki.",
+                "ro": "Bucurați-vă de marea agitată pe plajă; nisipul este compact la ploaie, dar drumul de acces poate avea bălți mari.",
+                "en": "Enjoy the wild sea at the beach; the sand is firm in the rain, but the access road may develop deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Ring Fort / Lios",
+                "hu": "Gyűrűerőd / Lios",
+                "ro": "Fortul Circular / Lios",
+                "en": "Ring Fort / Lios"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad am Zaun; der Pfad zum Wall ist grasbewachsen und erfordert beim Gehen erhöhte Vorsicht vor Rutschgefahr.",
+                "hu": "Rögzítse a bringát a kerítésnél; a sánchoz vezető füves ösvény vizesen csúszós, legyen nagyon óvatos gyalogláskor.",
+                "ro": "Asigurați bicicleta la gard; poteca spre fort este înierbată și necesită atenție sporită pentru a nu aluneca pe iarbă.",
+                "en": "Secure your bike at the fence; the grassy path to the ramparts is wet and requires extra care to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Tráigh Carta",
+                "hu": "Tráigh Carta",
+                "ro": "Tráigh Carta",
+                "en": "Tráigh Carta"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort bei Regen; der Blick auf die graue Bucht wirkt beruhigend, wenn man in wasserfester Kleidung fährt.",
+                "hu": "Magányos hely az esőben; a szürke öböl látványa megnyugtató, ha vízálló ruházatban teker az ember.",
+                "ro": "Un loc solitar pe ploaie; vederea golfului gri este relaxantă dacă pedalați echipat cu haine impermeabile.",
+                "en": "A solitary spot in the rain; the view of the grey bay is soothing when cycling in reliable waterproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm (Somerville)",
+                "hu": "Somerville Torony",
+                "ro": "Turnul Somerville",
+                "en": "Tower (Somerville C. 1770)"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet im Windschatten Schutz; die Straße hierher ist schmal, fahren Sie bei Regen besonders vorausschauend.",
+                "hu": "A torony szélárnyékos oldala védelmet nyújt; az idevezető út szűk, esőben vezessen különösen előrelátóan.",
+                "ro": "Turnul oferă adăpost în zona ferită de vânt; drumul spre el este îngust, pedalați cu prudență sporită pe ploaie.",
+                "en": "The tower's leeward side provides shelter; the road here is narrow, so cycle with extra foresight in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare, kalte Luft von Castletownshend. Vormittags besichtigen wir die Kirche, während die Sonne tief steht. Mittags radeln wir entlang der Küste zu den Stränden, wobei der kalte Gegenwind eine gute Ausrüstung erfordert. Nachmittags besuchen wir das Ringfort und die Bucht, bevor die Sonne gegen 17:00 Uhr untergeht. Der Tag endet am Somerville Tower in der frühen Dunkelheit.",
+            "hu": "A téli bringatúra Castletownshend tiszta, hideg levegőjében indul. Délelőtt a templomot nézzük meg, miközben a nap alacsonyan jár. Délben a part mentén tekerünk a strandok felé, a szembe fújó hideg szél miatt fontos a jó felszerelés. Délután a gyűrűerődöt és az öblöt látogatjuk meg, mielőtt 17:00 körül lemegy a nap. A nap a Somerville toronynál ér véget a korai sötétségben.",
+            "ro": "Turul de iarnă cu bicicleta trece prin aerul curat și rece din Castletownshend. Dimineața vizităm biserica în timp ce soarele este jos. La prânz pedalăm pe coastă spre plaje, vântul rece necesitând echipament adecvat. După-amiaza vizităm fortul și golful înainte ca soarele să apună la ora 17:00. Ziua se încheie la Turnul Somerville în întunericul timpuriu.",
+            "en": "The winter bike tour cuts through the crisp, cold air of Castletownshend. Morning starts with the church as the low sun glints on the bay. At noon, we cycle the coast to the beaches; be prepared for a biting headwind. Afternoon includes the ringfort and cove visits before the 17:00 sunset. The ride concludes at Somerville Tower just as the early winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Barahanes",
+                "hu": "Szent Barahane templom",
+                "ro": "Biserica Saint Barahane",
+                "en": "Saint Barahanes"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Kirchenschiff auf; tragen Sie warme Handschuhe, da der Lenker bei der Abfahrt sehr kalt wird.",
+                "hu": "Melegedjen fel kicsit a templomban; viseljen meleg kesztyűt, mert a kormány nagyon lehűl a lejtőkön gurulva.",
+                "ro": "Încălziți-vă puțin în biserică; purtați mănuși groase, deoarece ghidonul devine foarte rece în timpul coborârilor.",
+                "en": "Warm up briefly inside the church; wear thermal gloves as the handlebars will get very cold during the descents."
+              }
+            },
+            {
+              "name": {
+                "de": "Ortsnamen & ihre erstaunlichen Geschichten",
+                "hu": "Helynevek és elképesztő történeteik",
+                "ro": "Nume de locuri și poveștile lor uimitoare",
+                "en": "Placenames & Their Amazing Stories"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für die Geschichte; bewegen Sie sich regelmäßig, um bei den Pausen im kalten Wind nicht auszukühlen.",
+                "hu": "Gyors megálló a történelemért; mozogjon folyamatosan a pihenők alatt is, hogy ne hűljön ki a hideg szélben.",
+                "ro": "O oprire rapidă pentru istorie; mențineți-vă în mișcare în timpul pauzelor pentru a nu îngheța în vântul rece.",
+                "en": "A quick stop for history; keep moving during your breaks to prevent cooling down too much in the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tráig Eilín",
+                "hu": "Tráig Eilín",
+                "ro": "Tráig Eilín",
+                "en": "Tráig Eilín"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich herrlich im Wasser; der Strandweg ist meist trocken, aber oft sehr windanfällig.",
+                "hu": "A téli nap gyönyörűen csillog a vízen; a strandhoz vezető út általában száraz, de gyakran nagyon szeles.",
+                "ro": "Soarele de iarnă se reflectă superb în apă; drumul spre plajă este de obicei uscat, dar expus vântului puternic.",
+                "en": "The winter sun reflects beautifully on the water; the beach path is mostly dry but often very exposed to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ring Fort / Lios",
+                "hu": "Gyűrűerőd / Lios",
+                "ro": "Fortul Circular / Lios",
+                "en": "Ring Fort / Lios"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick ohne Laub an den Bäumen; der Boden am Fort kann gefroren und etwas uneben sein.",
+                "hu": "Élvezze a kilátást a lombmentes fák között; az erőd körüli talaj fagyott és egyenetlen lehet, vigyázzon a bokájára.",
+                "ro": "Bucurați-vă de priveliștea largă printre copacii golași; terenul de la fort poate fi înghețat și denivelat.",
+                "en": "Enjoy the expansive views through the leafless trees; the ground at the fort may be frozen and slightly uneven."
+              }
+            },
+            {
+              "name": {
+                "de": "Tráigh Carta",
+                "hu": "Tráigh Carta",
+                "ro": "Tráigh Carta",
+                "en": "Tráigh Carta"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für eine kurze Rast; achten Sie auf die Zeit, um vor Sonnenuntergang wieder im Dorf zu sein.",
+                "hu": "Magányos hely egy rövid pihenőhöz; ügyeljen az időre, hogy még a naplemente előtt visszaérjen a faluba.",
+                "ro": "Un loc solitar pentru un scurt popas; atenție la oră pentru a vă întoarce în sat înainte de apusul soarelui.",
+                "en": "A solitary spot for a short rest; keep an eye on the time to ensure you return to the village before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm (Somerville)",
+                "hu": "Somerville Torony",
+                "ro": "Turnul Somerville",
+                "en": "Tower (Somerville C. 1770)"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Winterlicht besonders markant; schalten Sie bei der Rückfahrt in der Dämmerung unbedingt Ihr Licht ein.",
+                "hu": "A torony téli fényben különösen karakteres; a szürkületi visszauton mindenképpen kapcsolja be a lámpáit.",
+                "ro": "Turnul pare foarte impunător în lumina iernii; porniți neapărat luminile bicicletei la întoarcerea prin amurg.",
+                "en": "The tower looks particularly striking in winter light; be sure to turn on your bike lights for the return trip at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túra lazán indul a festői Castle Haven-nél. Délelőtt felhajtunk az északi vallási és történelmi helyszínekhez, és ősi gyűrűerődöket fedezünk fel. Délben az útvonal a rejtett nevezetességekhez, a történelmi mise-sziklához és a déli Lioshoz vezet. A délutánt pihentetően a tengerparton töltjük, majd megnézzük a Somerville-tornyot.",
         "ro": "Turul cu mașina începe relaxant la pitorescul Castle Haven. Dimineața urcăm spre siturile religioase și istorice din nord și explorăm forturile antice. La prânz, traseul duce la repere ascunse precum vechea stâncă a liturghiei și fortul sudic Lios. După-amiaza se petrece relaxant pe plaja Island, urmată de turnul Somerville.",
         "en": "The driving tour begins easily by the scenic Castle Haven harbour. By mid-morning, we drive up to the northern religious and historical sites, exploring ancient ring forts. Midday routes us to hidden landmarks like the historical Mass Rock and the southern Lios fort. The afternoon is spent relaxing at Island Strand before wrapping up at the Somerville Tower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet bei Regen idealen Komfort. Morgens erkunden wir Castle Haven und die Kirche im Trockenen. Mittags fahren wir zu den Ringforts und Gedenkstätten, wobei wir die dramatischen Wolken aus dem warmen Auto beobachten. Nachmittags besuchen wir die Strände für kurze Spaziergänge zwischen den Schauern. Der Tag endet gemütlich am Somerville Tower mit Blick auf die graue See.",
+            "hu": "Az autós túra ideális kényelmet nyújt esős időben. Reggel Castle Havent és a templomot nézzük meg, szárazon maradva. Délben a gyűrűerődökhöz és emlékhelyekhez hajtunk, a drámai felhőket a meleg autóból figyelve. Délután a strandokat látogatjuk meg két zápor közötti rövid sétákra. A nap kényelmesen zárul a Somerville toronynál, kilátással a szürke tengerre.",
+            "ro": "Turul cu mașina oferă confortul ideal pe timp de ploaie. Dimineața explorăm Castle Haven și biserica, rămânând la uscat. La prânz conducem spre forturi și locuri memoriale, observând norii dramatici din mașina caldă. După-amiaza vizităm plajele pentru scurte plimbări între averse. Ziua se încheie confortabil la Turnul Somerville cu vedere spre marea gri.",
+            "en": "The car tour provides perfect comfort during rainy weather. In the morning, we explore Castle Haven and the church while staying dry. At noon, we drive to the ringforts and memorial stones, watching dramatic clouds from the warmth of the car. Afternoon includes quick beach stops between showers. The day ends comfortably at Somerville Tower with views of the misty grey sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle Haven",
+                "hu": "Castle Haven",
+                "ro": "Castle Haven",
+                "en": "Castle Haven"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser; genießen Sie den Blick auf die neblige Bucht direkt vom Fahrersitz aus.",
+                "hu": "Parkoljon közel a vízhez; élvezze a ködös öböl látványát közvetlenül a vezetőülés kényelméből.",
+                "ro": "Parcați aproape de apă; bucurați-vă de vederea golfului încețoșat direct din confortul mașinii.",
+                "en": "Park close to the water; enjoy the view of the misty bay directly from the comfort of your driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Barahanes",
+                "hu": "Szent Barahane templom",
+                "ro": "Biserica Saint Barahane",
+                "en": "Saint Barahanes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Kirche; der kurze Weg ins Innere schützt Sie vor dem stärksten Regen.",
+                "hu": "Használja a templom melletti parkolót; a rövid gyalogút a bejáratig megvédi Önt a hevesebb esőtől is.",
+                "ro": "Folosiți parcarea de lângă biserică; drumul scurt până la intrare vă va proteja de ploaia torențială.",
+                "en": "Use the parking area by the church; the short walk to the entrance keeps you protected from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios Ringfort (Nord)",
+                "hu": "Északi Lios Gyűrűerőd",
+                "ro": "Fortul Circular Lios (Nord)",
+                "en": "Lios"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp am Straßenrand; bei starkem Regen ist die historische Stätte auch gut vom Wagen aus zu sehen.",
+                "hu": "Gyors megálló az út szélén; heves esőben a történelmi helyszín az autóból is jól megfigyelhető.",
+                "ro": "O oprire rapidă pe marginea drumului; în caz de ploaie puternică, situl istoric se vede bine și din mașină.",
+                "en": "A quick roadside stop; during heavy rain, the historic site can still be appreciated from inside the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Carraig an Aifrinn",
+                "hu": "Carraig an Aifrinn (Mise-szikla)",
+                "ro": "Carraig an Aifrinn",
+                "en": "Carraig an Aifrinn"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein Foto kurz an; der Stein liegt nah an der Straße, ideal für eine Besichtigung bei Schmuddelwetter.",
+                "hu": "Álljon meg egy gyors fotóra; a szikla közel van az úthoz, így ideális látnivaló barátságtalan időben is.",
+                "ro": "Opriți pentru o fotografie rapidă; stânca este aproape de drum, fiind ideală de vizitat pe vreme urâtă.",
+                "en": "Stop for a quick photo; the rock is close to the road, making it an ideal sight for a visit in foul weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ring Fort / Lios (Süd)",
+                "hu": "Déli Gyűrűerőd / Lios",
+                "ro": "Fortul Circular / Lios (Sud)",
+                "en": "Ring Fort / Lios"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf weichen Boden am Rand; genießen Sie die grüne Hügellandschaft durch die Scheiben.",
+                "hu": "Parkoláskor ügyeljen a puha útpadkára; élvezze a zöld dombvidék látványát az autó ablakain keresztül.",
+                "ro": "Atenție la acostamentul moale când parcați; admirați peisajul deluros verde prin geamurile mașinii.",
+                "en": "Watch for soft road verges when parking; enjoy the green hilly landscape through the car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Island Strand",
+                "hu": "Sziget Strand (Island Strand)",
+                "ro": "Plaja Insulei (Island Strand)",
+                "en": "Island Strand"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie eine Regenpause für einen Strandgang ab; die Brandung ist bei stürmischem Wetter besonders beeindruckend.",
+                "hu": "Várjon meg egy esőszünetet a strandoláshoz; a hullámtörés viharos időben különösen lenyűgöző látvány.",
+                "ro": "Așteptați o pauză între averse pentru o plimbare; valurile sunt deosebit de impresionante pe vreme furtunoasă.",
+                "en": "Wait for a break in the rain for a beach walk; the surf is particularly impressive during stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm (Somerville)",
+                "hu": "Somerville Torony",
+                "ro": "Turnul Somerville",
+                "en": "Tower (Somerville C. 1770)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der engen Straße; der Turm bietet ein tolles Fotomotiv vor dem grauen Atlantikhimmel.",
+                "hu": "Vezessen óvatosan a szűk úton; a torony remek fotótéma a szürke atlanti égbolt háttere előtt.",
+                "ro": "Conduceți cu prudență pe drumul îngust; turnul este un subiect foto excelent pe fundalul cerului gri atlantic.",
+                "en": "Drive carefully on the narrow road; the tower makes for a great photo against the moody grey Atlantic sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour führt durch die malerische Küstenlandschaft von West Cork. Vormittags besuchen wir Castle Haven und die Kirche in der klaren Winterluft. Mittags erkunden wir die Ringforts und Gedenksteine, wobei die Heizung für Komfort sorgt. Nachmittags fahren wir zum Island Strand, bevor die Sonne gegen 17:00 Uhr untergeht. Der Tag endet stimmungsvoll am Somerville Tower in der Abenddämmerung.",
+            "hu": "A téli autós túra West Cork festői partvidékén vezet keresztül. Délelőtt Castle Havent és a templomot látogatjuk meg a tiszta téli levegőben. Délben a gyűrűerődöket és emlékhelyeket keressük fel, miközben az autó fűtése kényelmet ad. Délután az Island Strand felé vesszük az irányt, mielőtt 17:00 körül lemegy a nap. A nap hangulatosan zárul a Somerville toronynál a szürkületben.",
+            "ro": "Turul cu mașina trece prin peisajul de coastă pitoresc din West Cork. Dimineața vizităm Castle Haven și biserica în aerul curat de iarnă. La prânz explorăm forturile și pietrele memoriale, beneficiind de căldura din mașină. După-amiaza mergem spre Island Strand înainte de apusul soarelui de la ora 17:00. Ziua se încheie atmosferic la Turnul Somerville, la amurg.",
+            "en": "The winter car tour winds through the picturesque coastal scenery of West Cork. Morning starts with Castle Haven and the church in the crisp winter air. At noon, we visit the ringforts and memorial stones, enjoying the heated comfort of the car. Afternoon leads to Island Strand before the early 17:00 sunset. The day ends atmospherically at Somerville Tower during the winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle Haven",
+                "hu": "Castle Haven",
+                "ro": "Castle Haven",
+                "en": "Castle Haven"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Atlantik; im Winter ist die Bucht besonders ruhig und friedlich.",
+                "hu": "Élvezze a tágas kilátást az Atlanti-óceánra; télen az öböl különösen csendes és békés hangulatot áraszt.",
+                "ro": "Bucurați-vă de vederea largă spre Atlantic; iarna golful este deosebit de liniștit și pașnic.",
+                "en": "Enjoy the expansive views of the Atlantic; in winter, the bay is exceptionally quiet and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Barahanes",
+                "hu": "Szent Barahane templom",
+                "ro": "Biserica Saint Barahane",
+                "en": "Saint Barahanes"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Kirche bei tiefstehender Sonne; das Licht fällt im Winter in einem besonderen Winkel durch die Fenster.",
+                "hu": "Nézze meg a templomot alacsony napállásnál; a téli fény különleges szögben esik be az üvegablakokon.",
+                "ro": "Vizitați biserica când soarele este jos; lumina iernii cade într-un unghi special prin vitralii.",
+                "en": "Visit the church when the sun is low; the winter light hits the stained glass windows at a unique and beautiful angle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios Ringfort (Nord)",
+                "hu": "Északi Lios Gyűrűerőd",
+                "ro": "Fortul Circular Lios (Nord)",
+                "en": "Lios"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Rand; die kahle Vegetation gibt im Winter den Blick auf die Struktur der Wälle besser frei.",
+                "hu": "Parkoljon biztonságosan az út szélén; a ritkább növényzet télen jobban láthatóvá teszi a sáncok szerkezetét.",
+                "ro": "Parcați în siguranță pe margine; vegetația rară de iarnă permite o vizibilitate mai bună asupra structurii fortului.",
+                "en": "Park safely on the verge; the sparse winter vegetation allows for a much clearer view of the earthwork structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Carraig an Aifrinn",
+                "hu": "Carraig an Aifrinn (Mise-szikla)",
+                "ro": "Carraig an Aifrinn",
+                "en": "Carraig an Aifrinn"
+              },
+              "tip_5lang": {
+                "de": "Ein historischer Ort direkt an der Route; ideal für einen kurzen Ausstieg in der frischen Winterluft.",
+                "hu": "Történelmi helyszín közvetlenül az útvonal mentén; ideális egy rövid kiszállásra a friss téli levegőn.",
+                "ro": "Un sit istoric chiar pe traseu; ideal pentru o scurtă oprire în aerul curat și revigorant de iarnă.",
+                "en": "A historic site right on the route; ideal for a quick step out into the refreshing and crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ring Fort / Lios (Süd)",
+                "hu": "Déli Gyűrűerőd / Lios",
+                "ro": "Fortul Circular / Lios (Sud)",
+                "en": "Ring Fort / Lios"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama der Küste; die klare Luft im Winter sorgt für eine außergewöhnliche Fernsicht.",
+                "hu": "Élvezze a part menti panorámát; a tiszta téli levegő rendkívüli távolsági kilátást tesz lehetővé.",
+                "ro": "Bucurați-vă de panorama coastei; aerul curat de iarnă asigură o vizibilitate excepțională la distanță.",
+                "en": "Enjoy the coastal panorama; the crisp winter air provides exceptional long-distance visibility today."
+              }
+            },
+            {
+              "name": {
+                "de": "Island Strand",
+                "hu": "Sziget Strand (Island Strand)",
+                "ro": "Plaja Insulei (Island Strand)",
+                "en": "Island Strand"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang im Winter; kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht zu nutzen.",
+                "hu": "Magányos tengerparti séta télen; érkezzen meg 16:30 előtt, hogy még kihasználja az utolsó nappali fényeket.",
+                "ro": "O plimbare solitară pe plajă iarna; ajungeți înainte de 16:30 pentru a profita de ultima lumină a zilei.",
+                "en": "A solitary beach walk in winter; arrive before 16:30 to catch the final rays of natural daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm (Somerville)",
+                "hu": "Somerville Torony",
+                "ro": "Turnul Somerville",
+                "en": "Tower (Somerville C. 1770)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang gegen 17:00 Uhr; die schmale Straße erfordert bei Dämmerung erhöhte Vorsicht.",
+                "hu": "Figyelje a naplementét 17:00 körül; a szűk út a szürkületben fokozott óvatosságot igényel a vezetésnél.",
+                "ro": "Observați apusul soarelui în jurul orei 17:00; drumul îngust necesită prudență sporită la condus pe amurg.",
+                "en": "Watch the sunset around 17:00; the narrow road requires extra caution when driving in the fading twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

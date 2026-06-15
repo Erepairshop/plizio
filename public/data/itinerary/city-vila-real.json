@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Vila Real családbarát területein, mielőtt felfedezné a történelmi központot. Délben már a város kedvelt zöldterületei és szökőkútjai mellett fog sétálni. A délután a déli víztározó nyugodt ösvényei felé vezeti Önt. Zárja a napot a modern egyetemi kampuszon tett sétával, élvezve a gyönyörűen tükröződő tavak igazán békés és lenyűgöző látványát.",
         "ro": "Începeți dimineața explorând zonele familiale din centrul Vila Real înainte de a descoperi inima istorică. La prânz, vă veți plimba pe lângă spațiile verzi și jocurile de apă. După-amiaza vă duce spre traseele liniștite ale rezervorului sudic. Încheiați ziua plimbându-vă prin campusul universitar modern, bucurându-vă de lacurile care reflectă frumos lumina serii.",
         "en": "Start your morning exploring the family-friendly areas of central Vila Real before discovering the historic heart. By midday, you'll be wandering past the town's cherished water features and green spaces. The afternoon takes you towards the tranquil southern reservoir trails. Conclude your day walking through the modern university campus, enjoying the reflective lakes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt in einem Indoor-Spielbereich, während der Regen auf Vila Real prasselt. Mittags erkunden wir historische Brunnen unter dem Regenschirm, wobei die nassen Steinpfade glänzen. Am Nachmittag führt der Weg zu den Stauseen, wo die dunstige Atmosphäre eine mystische Stimmung erzeugt. Den Abschluss bildet der Universitätscampus, dessen Wasserflächen im Regen tanzen.",
+            "hu": "A napot egy fedett játszóházban kezdjük, miközben az eső veri Vila Real utcáit. Délben esernyővel járjuk be a történelmi kutakat, ahol a vizes kövek különleges fényt kapnak. Délután a víztározók felé vesszük az irányt, ahol a ködös táj misztikus hangulatot áraszt. A sétát az egyetemi kampuszon zárjuk, ahol a víztükrök látványa az esőben is lenyűgöző.",
+            "ro": "Ziua începe la adăpost într-un spațiu de joacă interior, în timp ce ploaia cade peste Vila Real. La prânz explorăm fântânile istorice cu umbrela, potecile umede de piatră strălucind sub cerul gri. După-amiaza mergem spre lacurile de acumulare, unde atmosfera cețoasă creează un decor mistic. Încheiem la campusul universitar, unde oglinzile de apă dansează în ploaie.",
+            "en": "The day begins sheltered in an indoor play area while rain patters down on Vila Real. At noon, we explore historic fountains under umbrellas, with wet stone paths gleaming. In the afternoon, the route leads to reservoirs where the misty atmosphere creates a mystical mood. We finish at the university campus, where the water surfaces dance in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kids Only",
+                "hu": "Kids Only",
+                "ro": "Kids Only",
+                "en": "Kids Only"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Indoor-Spielplatz als perfekten Zufluchtsort vor dem Morgenregen; die Kinder bleiben trocken und haben Spaß in einer sicheren, warmen Umgebung.",
+                "hu": "Használja ezt a fedett játszóteret tökéletes menedékként a reggeli eső elől; a gyerekek szárazon maradhatnak és jól szórakozhatnak biztonságos környezetben.",
+                "ro": "Folosiți acest loc de joacă interior ca refugiu perfect împotriva ploii de dimineață; copiii rămân uscați și se distrează într-un mediu sigur și cald.",
+                "en": "Use this indoor playground as the perfect sanctuary from the morning rain; kids stay dry and have fun in a safe, warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte da Nossa Senhora da Conceição",
+                "hu": "Fonte da Nossa Senhora da Conceição",
+                "ro": "Fonte da Nossa Senhora da Conceição",
+                "en": "Fonte da Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die glänzenden Granitsteine des Brunnens im Regen; tragen Sie rutschfeste Schuhe, da das Kopfsteinpflaster rund um die Quelle sehr glatt sein kann.",
+                "hu": "Csodálja meg a kút csillogó gránitköveit az esőben; viseljen csúszásmentes cipőt, mert a forrás körüli macskakő nagyon csúszós lehet ilyenkor.",
+                "ro": "Admirați pietrele de granit strălucitoare ale fântânii în ploaie; purtați încălțăminte antiderapantă, deoarece pavajul din jurul sursei poate fi foarte alunecos.",
+                "en": "Admire the gleaming granite stones of the fountain in the rain; wear non-slip shoes as the cobblestones around the spring can be very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil da Estação",
+                "hu": "Parque Infantil da Estação",
+                "ro": "Parque Infantil da Estação",
+                "en": "Parque Infantil da Estação"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bei den alten Zügen bietet etwas Schutz; prüfen Sie die Rutschen auf Nässe, bevor die Kinder spielen, oder genießen Sie einfach die Aussicht.",
+                "hu": "Egy rövid megálló a régi vonatoknál némi védelmet nyújt; ellenőrizze a csúszdákat, mielőtt a gyerekek játszanának, vagy csak élvezzék a kilátást.",
+                "ro": "O oprire scurtă la trenurile vechi oferă puțin adăpost; verificați dacă toboganele sunt ude înainte ca cei mici să se joace sau doar admirați peisajul.",
+                "en": "A short stop by the old trains offers some shelter; check the slides for wetness before the kids play, or simply enjoy the view from cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira do Terragido",
+                "hu": "Albufeira do Terragido",
+                "ro": "Albufeira do Terragido",
+                "en": "Albufeira do Terragido"
+              },
+              "tip_5lang": {
+                "de": "Der Stausee wirkt bei Regen besonders dramatisch; ein großer Regenschirm ist hier wichtig, da die Wege am Ufer kaum Unterstände bieten.",
+                "hu": "A víztározó különösen drámai látványt nyújt esőben; egy nagy esernyő elengedhetetlen itt, mivel a part menti ösvényeken alig van fedett rész.",
+                "ro": "Lacul de acumulare arată deosebit de dramatic în ploaie; o umbrelă mare este esențială aici, deoarece potecile de pe mal nu oferă adăpost.",
+                "en": "The reservoir looks particularly dramatic in the rain; a large umbrella is essential here as the paths along the shore offer little shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Espelho de Água da UTAD",
+                "hu": "Espelho de Água da UTAD",
+                "ro": "Espelho de Água da UTAD",
+                "en": "Espelho de Água da UTAD"
+              },
+              "tip_5lang": {
+                "de": "Die Reflexionen auf der Wasseroberfläche sind auch bei grauem Himmel wunderschön; achten Sie auf weichen Boden an den Rändern nach starken Regenfällen.",
+                "hu": "A vízfelszín tükröződései szürke égbolt mellett is gyönyörűek; ügyeljen a puha talajra a széleken a heves esőzések után.",
+                "ro": "Reflexiile de pe suprafața apei sunt superbe chiar și cu cer gri; atenție la solul moale de pe margini după ploi abundente.",
+                "en": "The reflections on the water surface are beautiful even under gray skies; watch out for soft ground at the edges after heavy rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen beginnt im warmen Spielzentrum. Die Mittagssonne taucht die historischen Brunnen in ein klares Licht, während die Luft frisch und belebend wirkt. Am Nachmittag genießen wir die Ruhe an den Stauseen, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Der Tag endet im sanften Abendlicht auf dem Universitätsgelände bei sinkenden Temperaturen.",
+            "hu": "Egy hűvös téli reggel a meleg játszóközpontban indul. A déli napsütés tiszta fénybe vonja a történelmi kutakat, miközben a levegő friss és életerővel teli. Délután a víztározók nyugalmát élvezzük, mielőtt 17:00 körül leszáll az alkonyat. A nap az egyetemi kampuszon zárul a lágy esti fényekben, hűvös időben.",
+            "ro": "O dimineață răcoroasă de iarnă începe în centrul de joacă încălzit. Soarele de la prânz scaldă fântânile istorice într-o lumină clară, aerul fiind proaspăt și revigorant. După-amiaza ne bucurăm de liniștea lacurilor înainte ca amurgul să se lase în jur de ora 17:00. Ziua se încheie în lumina blândă de seară la universitate.",
+            "en": "A cool winter morning starts in the warm play center. The midday sun bathes the historic fountains in clear light, while the air feels fresh and invigorating. In the afternoon, we enjoy the tranquility of the reservoirs before dusk sets in around 17:00. The day ends in the soft evening light at the university campus as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kids Only",
+                "hu": "Kids Only",
+                "ro": "Kids Only",
+                "en": "Kids Only"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich aufzuwärmen, während die Kinder spielen; dicke Socken sind im Winter für den Innenbereich besonders gemütlich.",
+                "hu": "Ideális hely a bemelegedésre, miközben a gyerekek játszanak; a vastag zokni télen különösen kényelmes a benti részhez.",
+                "ro": "Locul ideal pentru a vă încălzi în timp ce copiii se joacă; șosetele groase sunt deosebit de confortabile iarna în interior.",
+                "en": "The ideal place to warm up while the kids play; thick socks are especially cozy for the indoor area in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte da Nossa Senhora da Conceição",
+                "hu": "Fonte da Nossa Senhora da Conceição",
+                "ro": "Fonte da Nossa Senhora da Conceição",
+                "en": "Fonte da Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft lässt das Quellwasser dampfen; tragen Sie Handschuhe, da die Metallgeländer in der Nähe des Brunnens sehr kalt sein können.",
+                "hu": "A hideg téli levegőben párolog a forrásvíz; viseljen kesztyűt, mert a kút körüli fémkorlátok nagyon hidegek lehetnek.",
+                "ro": "Aerul rece de iarnă face ca apa izvorului să emane aburi; purtați mănuși, deoarece balustradele metalice de lângă fântână pot fi foarte reci.",
+                "en": "The cold winter air makes the spring water steam; wear gloves as the metal railings near the fountain can be very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil da Estação",
+                "hu": "Parque Infantil da Estação",
+                "ro": "Parque Infantil da Estação",
+                "en": "Parque Infantil da Estação"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine kurze Spielpause; ziehen Sie die Kinder schichtweise an, da es im Schatten der Bäume schnell kühl wird.",
+                "hu": "Használja ki a déli napsütést egy rövid játékra; öltöztesse a gyerekeket rétegesen, mert a fák árnyékában gyorsan lehűl a levegő.",
+                "ro": "Profită de soarele de la prânz pentru o scurtă pauză de joacă; îmbrăcați copiii în straturi, deoarece la umbra copacilor se face repede răcoare.",
+                "en": "Take advantage of the midday sun for a quick play break; dress the kids in layers as it cools down quickly in the shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira do Terragido",
+                "hu": "Albufeira do Terragido",
+                "ro": "Albufeira do Terragido",
+                "en": "Albufeira do Terragido"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille des winterlichen Sees; eine Thermoskanne mit warmem Tee ist perfekt für die kühle Brise, die hier oft weht.",
+                "hu": "Tapasztalja meg a téli tó csendjét; egy termosz meleg tea tökéletes a hűvös szellő ellen, amely itt gyakran fúj.",
+                "ro": "Experimentați liniștea lacului iarna; un termos cu ceai cald este perfect pentru briza răcoroasă care suflă adesea aici.",
+                "en": "Experience the silence of the winter lake; a thermos of warm tea is perfect for the cool breeze that often blows here."
+              }
+            },
+            {
+              "name": {
+                "de": "Espelho de Água da UTAD",
+                "hu": "Espelho de Água da UTAD",
+                "ro": "Espelho de Água da UTAD",
+                "en": "Espelho de Água da UTAD"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das klare Winterlicht auf der Wasserfläche; beenden Sie Ihren Besuch vor 17:00 Uhr, um den frühen Sonnenuntergang sicher zu erleben.",
+                "hu": "Csodálja meg a tiszta téli fényt a vízfelületen; fejezze be látogatását 17:00 előtt, hogy még világosban lássa a korai naplementét.",
+                "ro": "Admirați lumina clară de iarnă pe suprafața apei; terminați vizita înainte de ora 17:00 pentru a surprinde apusul timpuriu în siguranță.",
+                "en": "Admire the clear winter light on the water surface; finish your visit before 17:00 to catch the early sunset safely."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros útját a történelmi központban, megcsodálva a klasszikus szökőkutakat a friss reggeli levegőben. A déli útvonal kelet felé, elegáns birtokok és pihenőövezetek felé visz. A délutánt bájos, családoknak kialakított környékbeli parkok mellett elhaladva töltheti. Ahogy közeledik az este, pihenjen a buja növényzettel körülvett békés egyetemi tavaknál.",
         "ro": "Începeți călătoria cu bicicleta în centrul istoric, admirând fântânile clasice în aerul proaspăt al dimineții. Traseul de prânz vă duce spre est, către domenii elegante. Petreceți după-amiaza trecând pe lângă parcuri fermecătoare de cartier, perfecte pentru familii. Pe măsură ce se apropie seara, relaxați-vă lângă lacurile din campus, înconjurate de vegetație.",
         "en": "Kick off your cycling journey in the historic center, admiring the classical fountains in the fresh morning air. The midday route takes you eastwards towards elegant estates and recreational zones. Spend the afternoon gliding past charming neighborhood parks tailored for families. As evening approaches, relax by the serene campus lakes surrounded by lush vegetation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch das regnerische Vila Real beginnt an der historischen Quelle. Wir finden Schutz in der Game Zone, um uns aufzuwärmen und zu trocknen. Mittags radeln wir vorsichtig an den glatten Steinbecken vorbei, wobei wir die höhere Luftfeuchtigkeit genießen. Der Nachmittag führt uns durch den Universitätscampus, wo die herbstlichen Farben im Regen leuchten.",
+            "hu": "Frissítő kerékpártúra indul az esős Vila Realban a történelmi forrástól. A Game Zone-ban találunk menedéket, hogy felmelegedjünk és megszáradjunk. Délben óvatosan tekerünk a csúszós kőmedencék mellett, élvezve a párás levegőt. A délután az egyetemi kampuszon vezet keresztül, ahol az őszi színek ragyognak a csapadékos időben.",
+            "ro": "O tură revigorantă cu bicicleta prin Vila Real pe ploaie începe la izvorul istoric. Găsim adăpost la Game Zone pentru a ne încălzi și usca. La prânz pedalăm cu atenție pe lângă bazinele de piatră alunecoase, bucurându-ne de aerul umed. După-amiaza ne poartă prin campusul universitar, unde culorile tomnatice strălucesc în ploaie.",
+            "en": "A refreshing bike tour through rainy Vila Real starts at the historic spring. We find shelter at Game Zone to warm up and dry off. At noon, we pedal carefully past slippery stone basins, enjoying the humid air. The afternoon leads us through the university campus, where autumnal colors shine in the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fonte da Nossa Senhora da Conceição",
+                "hu": "Fonte da Nossa Senhora da Conceição",
+                "ro": "Fonte da Nossa Senhora da Conceição",
+                "en": "Fonte da Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Kopfsteinpflaster; das Wasser der Quelle wirkt im Regen besonders rein und die Umgebung ist sehr ruhig.",
+                "hu": "Fékezzen időben a vizes macskakövön; a forrás vize esőben különösen tisztának tűnik, és a környék ilyenkor nagyon csendes.",
+                "ro": "Frânați din timp pe pavajul umed; apa izvorului pare deosebit de curată în ploaie, iar zona este foarte liniștită.",
+                "en": "Brake early on the wet cobblestones; the spring water looks particularly pure in the rain, and the area is very quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Game Zone",
+                "hu": "Game Zone",
+                "ro": "Game Zone",
+                "en": "Game Zone"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Fahrrad sicher abzustellen und sich bei Videospielen aufzuwärmen, während draußen ein heftiger Schauer niedergeht.",
+                "hu": "Tökéletes hely a kerékpár biztonságos leállítására és a bemelegedésre videojátékok közben, amíg kint elvonul egy heves zápor.",
+                "ro": "Locul perfect pentru a lăsa bicicleta în siguranță și a vă încălzi cu jocuri video în timp ce afară trece o aversă puternică.",
+                "en": "The perfect spot to park your bike safely and warm up with video games while a heavy shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanque Oval",
+                "hu": "Tanque Oval",
+                "ro": "Tanque Oval",
+                "en": "Tanque Oval"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der weiten Wasserfläche; meiden Sie die Grasflächen mit dem Rad, da diese im Regen sehr matschig werden.",
+                "hu": "Figyelje a vízcseppeket a széles vízfelületen; kerülje a füves részeket a biciklivel, mert esőben nagyon sárosak lehetnek.",
+                "ro": "Urmăriți picăturile de ploaie pe suprafața largă a apei; evitați zonele cu iarbă cu bicicleta, deoarece devin foarte noroioase.",
+                "en": "Watch the raindrops on the wide water surface; avoid the grassy areas with your bike as they get very muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanque de Dona Leonor",
+                "hu": "Tanque de Dona Leonor",
+                "ro": "Tanque de Dona Leonor",
+                "en": "Tanque de Dona Leonor"
+              },
+              "tip_5lang": {
+                "de": "Die moosigen Steine leuchten bei Nässe intensiv grün; achten Sie beim Absteigen auf rutschige Kanten rund um das historische Becken.",
+                "hu": "A mohás kövek nedvesen intenzív zöld színben tündökölnek; ügyeljen a csúszós szélekre a történelmi medence körül, amikor leszáll a bicikliről.",
+                "ro": "Pietrele cu mușchi strălucesc într-un verde intens când sunt ude; atenție la marginile alunecoase din jurul bazinului istoric la coborâre.",
+                "en": "The mossy stones shine in intense green when wet; watch out for slippery edges around the historic basin when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil da Habutad",
+                "hu": "Parque Infantil da Habutad",
+                "ro": "Parque Infantil da Habutad",
+                "en": "Parque Infantil da Habutad"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause unter den Bäumen bietet Schutz; wischen Sie den Sattel nach dem Stopp gut ab, um die Fahrt trocken fortzusetzen.",
+                "hu": "Egy rövid szünet a fák alatt védelmet nyújt; törölje le jól a nyerget a megálló után, hogy szárazon folytathassa az utat.",
+                "ro": "O scurtă pauză sub copaci oferă adăpost; ștergeți bine șaua după oprire pentru a continua călătoria uscat.",
+                "en": "A short break under the trees offers shelter; wipe your saddle well after the stop to continue the journey dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago da ECHS - Pólo 1",
+                "hu": "Lago da ECHS - Pólo 1",
+                "ro": "Lago da ECHS - Pólo 1",
+                "en": "Lago da ECHS - Pólo 1"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour am stimmungsvollen Universitätsteich; tragen Sie eine helle Regenjacke, um in der Dämmerung für Autofahrer sichtbar zu sein.",
+                "hu": "Zárja a túrát a hangulatos egyetemi tónál; viseljen világos esőkabátot, hogy a szürkületben is jól látható maradjon az autósok számára.",
+                "ro": "Încheiați tura la lacul universitar atmosferic; purtați o pelerină de ploaie reflectorizantă pentru a fi vizibil șoferilor în amurg.",
+                "en": "End the tour at the atmospheric university lake; wear a bright raincoat to stay visible to drivers in the dusk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung und einen frühen Start. Mittags genießen wir die klare Sicht an den historischen Becken, während die Sonne kaum wärmt. In der Game Zone legen wir eine wichtige Pause zum Aufwärmen ein. Am Nachmittag radeln wir durch die frische Luft des Campus, bevor es um 17:00 Uhr dunkel und deutlich kälter wird.",
+            "hu": "A téli kerékpártúra meleg öltözetet és korai kezdést igényel. Délben a tiszta kilátást élvezzük a történelmi medencéknél, miközben a nap alig melegít. A Game Zone-ban tartunk egy fontos pihenőt a bemelegedésre. Délután a kampusz friss levegőjén tekerünk, mielőtt 17:00-kor besötétedik és jelentősen lehűl az idő.",
+            "ro": "O tură de iarnă cu bicicleta necesită haine groase și un start devreme. La prânz ne bucurăm de vizibilitatea clară la bazinele istorice, în timp ce soarele abia încălzește. La Game Zone facem o pauză importantă pentru încălzire. După-amiaza pedalăm prin aerul curat al campusului, înainte să se întunece la ora 17:00.",
+            "en": "A winter bike tour requires warm clothing and an early start. At noon, we enjoy the clear views at the historic basins while the sun barely warms. We take an important break to warm up at Game Zone. In the afternoon, we pedal through the fresh campus air before it gets dark and significantly colder at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fonte da Nossa Senhora da Conceição",
+                "hu": "Fonte da Nossa Senhora da Conceição",
+                "ro": "Fonte da Nossa Senhora da Conceição",
+                "en": "Fonte da Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Schichten; das Wasser ist eiskalt, also bewundern Sie die Quelle lieber aus der Ferne, ohne nass zu werden.",
+                "hu": "Kezdjen réteges öltözködéssel; a víz jéghideg, ezért inkább távolról csodálja a forrást, hogy ne legyen vizes.",
+                "ro": "Începeți cu haine în straturi; apa este înghețată, deci admirați izvorul de la distanță fără să vă udați.",
+                "en": "Start with layers; the water is ice-cold, so admire the spring from a distance without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Game Zone",
+                "hu": "Game Zone",
+                "ro": "Game Zone",
+                "en": "Game Zone"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Innenraum, um die Durchblutung Ihrer Finger zu fördern, bevor Sie die nächste Etappe der winterlichen Fahrt antreten.",
+                "hu": "Használja ezt a meleg belső teret, hogy felpezsdítse ujjai vérkeringését, mielőtt nekivágna a téli út következő szakaszának.",
+                "ro": "Folosiți acest spațiu interior cald pentru a vă stimula circulația la degete înainte de următoarea etapă a traseului de iarnă.",
+                "en": "Use this warm indoor space to boost circulation in your fingers before tackling the next leg of the winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanque Oval",
+                "hu": "Tanque Oval",
+                "ro": "Tanque Oval",
+                "en": "Tanque Oval"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wasser spiegelt den klaren Winterhimmel wider; achten Sie auf Raureif auf den Wegen, der die Fahrt mit dem Rad gefährlich machen kann.",
+                "hu": "A nyugodt víz visszatükrözi a tiszta téli eget; ügyeljen a zúzmarára az utakon, ami veszélyessé teheti a kerékpározást.",
+                "ro": "Apa liniștită reflectă cerul senin de iarnă; atenție la chiciura de pe drumuri, care poate face pedalatul periculos.",
+                "en": "The calm water reflects the clear winter sky; watch out for hoarfrost on the paths, which can make cycling dangerous."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanque de Dona Leonor",
+                "hu": "Tanque de Dona Leonor",
+                "ro": "Tanque de Dona Leonor",
+                "en": "Tanque de Dona Leonor"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne erzeugt lange Schatten am Becken; prüfen Sie den Reifendruck, da kalte Luft den Druck im Reifen verringert.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a medencénél; ellenőrizze a guminyomást, mert a hideg levegő csökkenti azt.",
+                "ro": "Soarele slab de iarnă creează umbre lungi la bazin; verificați presiunea în pneuri, deoarece aerul rece o reduce semnificativ.",
+                "en": "The low winter sun creates long shadows at the basin; check your tire pressure as cold air reduces the pressure in the tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil da Habutad",
+                "hu": "Parque Infantil da Habutad",
+                "ro": "Parque Infantil da Habutad",
+                "en": "Parque Infantil da Habutad"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt zum Beinevertreten; die Metallgeräte sind im Winter sehr kalt, daher sind Handschuhe beim Festhalten ein Muss.",
+                "hu": "Egy rövid megálló lábnyújtásra; a fém eszközök télen nagyon hidegek, ezért a kesztyű elengedhetetlen a kapaszkodáshoz.",
+                "ro": "O scurtă oprire pentru dezmorțire; aparatele metalice sunt foarte reci iarna, deci mănușile sunt obligatorii pentru prindere.",
+                "en": "A short stop to stretch your legs; the metal equipment is very cold in winter, so gloves are a must for holding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Lago da ECHS - Pólo 1",
+                "hu": "Lago da ECHS - Pólo 1",
+                "ro": "Lago da ECHS - Pólo 1",
+                "en": "Lago da ECHS - Pólo 1"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt zügig vor Sonnenuntergang um 17:00 Uhr; die Temperaturen sinken am Seeufer nach Anbruch der Dunkelheit extrem schnell.",
+                "hu": "Fejezze be a túrát gyorsan a 17:00-s naplemente előtt; a hőmérséklet a tóparton sötétedés után rendkívül gyorsan zuhan.",
+                "ro": "Încheiați tura rapid înainte de apusul de la ora 17:00; temperaturile scad extrem de repede pe malul lacului după lăsarea întunericului.",
+                "en": "Finish the ride promptly before sunset at 17:00; temperatures drop extremely fast by the lakeside after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Induljon korán a lélegzetelállító Alvão Nemzeti Parkba, ahol magasan fekvő víztározók várják a friss hegyi reggelen. A dél a városba hozza vissza, hogy felfedezze az elegáns nemesi birtokokat. A délután egy festői autózást tartogat a délnyugati vidéki gátakhoz. Zárja autós kalandját a város déli peremén, a nyitott esti égbolt alatt egy hatalmas és csendes lagúnánál.",
         "ro": "Plecați devreme spre uluitorul Parc Natural Alvão, unde rezervoarele de mare altitudine vă așteaptă în dimineața montană. Prânzul vă aduce înapoi pentru a explora domeniile nobile elegante. După-amiaza implică o plimbare pitorească cu mașina către barajele rurale din sud-vest. Încheiați aventura pe periferia sudică, sub cerul liber de seară, la o lagună deschisă.",
         "en": "Depart early for the breathtaking Alvão Natural Park, where high-altitude reservoirs await in the crisp mountain morning. Midday brings you back down to explore the elegant noble estates and central town highlights. The afternoon involves a scenic drive to the southwestern countryside dams. Wrap up your automotive adventure on the southern outskirts under the open evening sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die höher gelegenen Stauseen von Alvão, während Wolken tief über den Bergen hängen. Mittags bietet die Fahrt Schutz vor den Schauern, während wir historische Brunnen und Becken besuchen. Die Landschaft rund um die Albufeira do Sordo wirkt im Regen besonders kräftig grün. Den Tag beenden wir sicher im Wagen bei den Regenrückhaltebecken im Süden.",
+            "hu": "Autóval fedezzük fel az Alvão-hegység víztározóit, miközben az alacsonyan szálló felhők rátapadnak a csúcsokra. Délben a kocsi védelmet nyújt a záporok elől a kutak meglátogatása közben. Az Albufeira do Sordo körüli táj esőben különösen élénkzöldnek tűnik. A napot biztonságban, az autóban zárjuk a déli tározóknál.",
+            "ro": "Cu mașina explorăm lacurile de acumulare de pe Alvão, în timp ce norii plutesc jos deasupra munților. La prânz, mașina ne oferă adăpost împotriva averselor în timp ce vizităm fântânile istorice. Peisajul din jurul Albufeira do Sordo pare de un verde intens în ploaie. Încheiem ziua în siguranță la bazinele de retenție din sud.",
+            "en": "By car, we explore the high reservoirs of Alvão while clouds hang low over the mountains. At noon, the car provides shelter from showers while we visit historic fountains and basins. The landscape around Albufeira do Sordo looks particularly vibrant green in the rain. We end the day safely in the vehicle at the southern retention basins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albufeira Cimeira do Alvão",
+                "hu": "Albufeira Cimeira do Alvão",
+                "ro": "Albufeira Cimeira do Alvão",
+                "en": "Albufeira Cimeira do Alvão"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nebligen See direkt aus dem Auto; die Bergstraßen können bei starkem Regen rutschig und wolkenverhangen sein.",
+                "hu": "Élvezze a kilátást a ködös tóra közvetlenül az autóból; a hegyi utak heves esőzéskor csúszósak és felhőbe burkoltak lehetnek.",
+                "ro": "Bucurați-vă de vederea lacului cețos direct din mașină; drumurile montane pot fi alunecoase și acoperite de nori în timpul ploilor abundente.",
+                "en": "Enjoy the view of the misty lake directly from the car; mountain roads can be slippery and shrouded in clouds during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira Fundeira do Alvão",
+                "hu": "Albufeira Fundeira do Alvão",
+                "ro": "Albufeira Fundeira do Alvão",
+                "en": "Albufeira Fundeira do Alvão"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp lohnt sich trotz Regen; halten Sie die Kamera bereit, da das Lichtspiel zwischen den Wolken über dem Wasser faszinierend ist.",
+                "hu": "Egy rövid fotómegálló esőben is megéri; tartsa készenlétben a kamerát, mert a felhők közötti fényjáték a vízen lenyűgöző.",
+                "ro": "O scurtă oprire foto merită chiar și pe ploaie; țineți camera pregătită, deoarece jocul de lumini printre nori deasupra apei este fascinant.",
+                "en": "A short photo stop is worth it even in the rain; keep your camera ready as the play of light between the clouds over the water is fascinating."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte da Nossa Senhora da Conceição",
+                "hu": "Fonte da Nossa Senhora da Conceição",
+                "ro": "Fonte da Nossa Senhora da Conceição",
+                "en": "Fonte da Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Brunnen; nutzen Sie einen großen Schirm für den kurzen Weg zum Wasser, um nicht nass zu werden.",
+                "hu": "Parkoljon a lehető legközelebb a kúthoz; használjon nagy esernyőt a vízig tartó rövid útra, hogy ne ázzon el.",
+                "ro": "Parcați cât mai aproape de fântână; folosiți o umbrelă mare pentru drumul scurt până la apă ca să nu vă udați.",
+                "en": "Park as close to the fountain as possible; use a large umbrella for the short walk to the water to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanque Oval",
+                "hu": "Tanque Oval",
+                "ro": "Tanque Oval",
+                "en": "Tanque Oval"
+              },
+              "tip_5lang": {
+                "de": "Das Wasserbecken wirkt im Regen sehr friedlich; achten Sie beim Ein- und Aussteigen auf Pfützen auf den unbefestigten Parkflächen.",
+                "hu": "A vízmedence nagyon békésnek tűnik az esőben; ki- és beszálláskor ügyeljen a tócsákra a burkolatlan parkolóhelyeken.",
+                "ro": "Bazinul de apă pare foarte liniștit în ploaie; atenție la bălți când urcați sau coborâți din mașină în zonele de parcare neasfaltate.",
+                "en": "The water basin looks very peaceful in the rain; watch out for puddles when getting in and out of the car in unpaved parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira do Sordo",
+                "hu": "Albufeira do Sordo",
+                "ro": "Albufeira do Sordo",
+                "en": "Albufeira do Sordo"
+              },
+              "tip_5lang": {
+                "de": "Der hohe Wasserstand nach Regenfällen macht den Stausee beeindruckend; schalten Sie die Nebelscheinwerfer ein, falls die Sicht in den Tälern abnimmt.",
+                "hu": "Az esőzések utáni magas vízállás lenyűgözővé teszi a tározót; kapcsolja be a ködlámpát, ha a látótávolság csökken a völgyekben.",
+                "ro": "Nivelul ridicat al apei după ploi face lacul impresionant; aprindeți farurile de ceață dacă vizibilitatea scade în văi.",
+                "en": "The high water level after rainfall makes the reservoir impressive; turn on fog lights if visibility decreases in the valleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagoa de Arejamento/Regularização",
+                "hu": "Lagoa de Arejamento/Regularização",
+                "ro": "Lagoa de Arejamento/Regularização",
+                "en": "Lagoa de Arejamento/Regularização"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die weiten Wasserflächen im Prasseln des Regens; bleiben Sie im warmen Wagen und genießen Sie die Melancholie der Landschaft.",
+                "hu": "Figyelje a széles vízfelületeket az eső kopogása közben; maradjon a meleg autóban, és élvezze a táj melankóliáját.",
+                "ro": "Observați suprafețele largi de apă în ropotul ploii; rămâneți în mașina încălzită și bucurați-vă de melancolia peisajului.",
+                "en": "Watch the vast water surfaces in the pattering rain; stay in the warm car and enjoy the melancholy of the landscape."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip führt uns hoch hinaus zum Alvão-Gebirge, wo die Luft eiskalt und klar ist. Mittags besuchen wir die historischen Becken der Stadt, während die Wintersonne tief steht. Am Nachmittag genießen wir die weiten Ausblicke über die Stauseen unter einem stahlblauen Himmel. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir die Rückfahrt im Tageslicht.",
+            "hu": "A téli autós kirándulás az Alvão-hegységbe vezet, ahol a levegő jéghideg és tiszta. Délben a város történelmi medencéit keressük fel, miközben alacsonyan jár a téli nap. Délután a víztározók feletti tágas kilátást élvezzük az acélkék égbolt alatt. Mivel a nap már 17:00-kor lemegy, a visszautat még világosban tervezzük meg.",
+            "ro": "O excursie de iarnă cu mașina ne duce sus pe muntele Alvão, unde aerul este înghețat și clar. La prânz vizităm bazinele istorice ale orașului, soarele de iarnă fiind jos pe cer. După-amiaza ne bucurăm de vederile largi peste lacuri sub un cer albastru-oțel. Deoarece soarele apune deja la ora 17:00, planificăm întoarcerea pe lumină.",
+            "en": "A winter road trip leads us high up to the Alvão mountains, where the air is ice-cold and clear. At noon, we visit the city's historic basins while the winter sun is low. In the afternoon, we enjoy the vast views over the reservoirs under a steel-blue sky. As the sun sets already at 17:00, we plan the return journey in daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albufeira Cimeira do Alvão",
+                "hu": "Albufeira Cimeira do Alvão",
+                "ro": "Albufeira Cimeira do Alvão",
+                "en": "Albufeira Cimeira do Alvão"
+              },
+              "tip_5lang": {
+                "de": "Die Gipfel können im Winter mit Reif bedeckt sein; prüfen Sie die Wettervorhersage auf Frostwarnungen für die hohen Bergpässe.",
+                "hu": "A csúcsokat télen zúzmara boríthatja; ellenőrizze az időjárás-előrejelzést a hegyi hágókra vonatkozó fagyriasztások miatt.",
+                "ro": "Vârfurile pot fi acoperite de chiciură iarna; verificați prognoza meteo pentru avertizări de îngheț pe trecătorile montane înalte.",
+                "en": "The peaks may be covered in frost in winter; check the weather forecast for frost warnings on the high mountain passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira Fundeira do Alvão",
+                "hu": "Albufeira Fundeira do Alvão",
+                "ro": "Albufeira Fundeira do Alvão",
+                "en": "Albufeira Fundeira do Alvão"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Winterwasser bietet perfekte Spiegelungen; halten Sie die Autotüren nur kurz offen, um die Wärme im Innenraum zu bewahren.",
+                "hu": "A tükörsima téli víz tökéletes tükröződéseket kínál; csak rövid ideig tartsa nyitva az autó ajtaját, hogy megőrizze a benti meleget.",
+                "ro": "Apa cristalină de iarnă oferă reflexii perfecte; țineți ușile mașinii deschise doar scurt timp pentru a păstra căldura în interior.",
+                "en": "The crystal-clear winter water offers perfect reflections; keep car doors open only briefly to preserve the warmth inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte da Nossa Senhora da Conceição",
+                "hu": "Fonte da Nossa Senhora da Conceição",
+                "ro": "Fonte da Nossa Senhora da Conceição",
+                "en": "Fonte da Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen am Brunnen können vereist sein; parken Sie vorsichtig und steigen Sie achtsam aus, da der Boden hier oft gefriert.",
+                "hu": "A kút kőlépcsői jegesek lehetnek; parkoljon óvatosan és figyelmesen szálljon ki, mert a talaj itt gyakran megfagy.",
+                "ro": "Treptele de piatră de la fântână pot fi înghețate; parcați cu atenție și coborâți cu grijă, deoarece solul îngheață des aici.",
+                "en": "The stone steps at the fountain can be icy; park carefully and step out mindfully as the ground here often freezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Tanque Oval",
+                "hu": "Tanque Oval",
+                "ro": "Tanque Oval",
+                "en": "Tanque Oval"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für scharfe Landschaftsfotos; tragen Sie eine warme Jacke, da der Wind über der offenen Wasserfläche schneidend kalt ist.",
+                "hu": "Élvezze a tiszta fényt az éles tájképekhez; viseljen meleg kabátot, mert a szél a nyílt vízfelület felett metszően hideg.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii de peisaj reușite; purtați o jachetă groasă, vântul peste apa deschisă fiind tăios.",
+                "en": "Enjoy the clear light for sharp landscape photos; wear a warm jacket as the wind over the open water surface is biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira do Sordo",
+                "hu": "Albufeira do Sordo",
+                "ro": "Albufeira do Sordo",
+                "en": "Albufeira do Sordo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille des Stausees in der Winterruhe; stellen Sie sicher, dass Ihr Wagen über ausreichend Frostschutzmittel verfügt.",
+                "hu": "Tapasztalja meg a víztározó csendjét a téli nyugalomban; győződjön meg róla, hogy az autójában van elegendő fagyálló folyadék.",
+                "ro": "Experimentați liniștea lacului în repausul de iarnă; asigurați-vă că mașina are suficient lichid antigel.",
+                "en": "Experience the silence of the reservoir in winter rest; make sure your car has sufficient antifreeze liquid."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagoa de Arejamento/Regularização",
+                "hu": "Lagoa de Arejamento/Regularização",
+                "ro": "Lagoa de Arejamento/Regularização",
+                "en": "Lagoa de Arejamento/Regularização"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das glühende Licht des frühen Sonnenuntergangs um 17:00 Uhr; die weite Fläche verstärkt die winterliche Abendstimmung enorm.",
+                "hu": "Csodálja meg a korai, 17:00-s naplemente izzó fényeit; a tágas tér felerősíti a téli esti hangulatot a vízparton.",
+                "ro": "Admirați culorile apusului timpuriu de la ora 17:00; spațiul larg accentuează enorm atmosfera de seară de iarnă.",
+                "en": "Admire the glowing light of the early sunset at 17:00; the wide space enormously enhances the winter evening atmosphere."
+              }
+            }
+          ]
+        }
       }
     }
   }

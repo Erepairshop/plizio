@@ -137,6 +137,168 @@
         "hu": "A reggel a Plage de Porsmeur óceáni hullámainak nyugtató hangjaival indul, kellemes hangulatot teremtve. Délben visszautazik az időben, miközben felfedezi az Allée Couverte du Guinirvit-t és a gall sztélét. Délután megcsodálhatja a hatalmas Menhir de Prat Meur-t, átérezve az ősi történelem súlyát. Az este a menhir porz ar streat közelében ér véget, Porsmeur gazdag örökségén merengve.",
         "ro": "Dimineața începe cu sunetele relaxante ale oceanului la Plage de Porsmeur, setând un ton liniștit. La prânz, călătoriți înapoi în timp explorând Allée Couverte du Guinirvit și stela galică. După-amiaza veți admira impunătorul Menhir de Prat Meur, simțind greutatea istoriei antice. Seara se încheie lângă menhir porz ar streat, reflectând asupra moștenirii megalitice bogate a orașului.",
         "en": "Morning begins with the soothing sounds of the ocean at Plage de Porsmeur, setting a relaxed tone for the day. Midday takes you back in time as you explore the intriguing Allée Couverte du Guinirvit and the stèle gauloise. In the afternoon, you will marvel at the towering Menhir de Prat Meur, feeling the weight of ancient history. Your evening concludes near menhir porz ar streat, reflecting on Porsmeur's rich megalithic heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Strand mit dramatischen Wellen. Mittags erkunden Sie das alte Steingrab mit einem guten Regenschirm. Nachmittags führen die Wege zu beeindruckenden Menhiren; Vorsicht auf nassem Gras. Beenden Sie den Spaziergang am Abend in einer mystischen, nebligen Atmosphäre.",
+            "hu": "Kezdje a reggelt a tengerparton, ahol a hullámok drámai látványt nyújtanak. Délben egy esernyővel fedezze fel az ősi kősírt. Délután hatalmas menhirek várják; vigyázzon a csúszós, nedves füvön. Az est közeledtével a ködös, esős idő még misztikusabbá teszi ezt a történelmi sétát.",
+            "ro": "Începeți dimineața ploioasă la plajă, admirând valurile dramatice. La prânz, explorați mormântul antic cu o umbrelă robustă. După-amiaza vă duce la menhire impresionante; atenție la iarba alunecoasă. Încheiați plimbarea spre seară, bucurându-vă de atmosfera mistică și umedă printre pietre.",
+            "en": "Start your rainy morning at the beach watching the dramatic waves. By noon, explore the ancient covered alley with a good umbrella. The afternoon leads to impressive menhirs; watch your step on wet grass. Conclude your walk as twilight approaches, reflecting on these mystical stones in the coastal mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Porsmeur",
+                "hu": "Plage de Porsmeur",
+                "ro": "Plage de Porsmeur",
+                "en": "Plage de Porsmeur"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht auf den Strand, aber tragen Sie eine robuste Regenjacke gegen den Wind.",
+                "hu": "Élvezze a tengerpart drámai látványát, de viseljen erős esőkabátot a parti szél és az eső ellen.",
+                "ro": "Bucurați-vă de priveliștea dramatică a plajei, dar purtați o haină de ploaie rezistentă împotriva vântului.",
+                "en": "Enjoy the dramatic ocean views from the beach, but wear a sturdy raincoat against the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée Couverte du Guinirvit",
+                "hu": "Allée Couverte du Guinirvit",
+                "ro": "Allée Couverte du Guinirvit",
+                "en": "Allée Couverte du Guinirvit"
+              },
+              "tip_5lang": {
+                "de": "Diese alte Grabstätte ist im Regen eindrucksvoll; halten Sie einen Schirm bereit und achten Sie auf rutschige Steine.",
+                "hu": "Ez az ősi temetkezési hely lenyűgöző az esőben; tartson kéznél esernyőt és ügyeljen a csúszós kövekre.",
+                "ro": "Acest mormânt antic este evocator în ploaie; țineți o umbrelă la îndemână și atenție la pietrele alunecoase.",
+                "en": "This ancient burial site is evocative in the rain; keep an umbrella handy and watch for slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "stèle gauloise",
+                "hu": "stèle gauloise",
+                "ro": "stèle gauloise",
+                "en": "stèle gauloise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gallische Stele, die nass dunkler wirkt; wasserdichte Stiefel sind hier sehr zu empfehlen.",
+                "hu": "Csodálja meg a vizesen sötétebb árnyalatú gall sztélét; a vízálló csizma itt erősen ajánlott a sár miatt.",
+                "ro": "Admirați această stelă galică ce capătă o nuanță închisă la umezeală; cizmele impermeabile sunt recomandate.",
+                "en": "Admire this Gallic stele taking on a darker hue when wet; waterproof boots are highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Prat Meur",
+                "hu": "Menhir de Prat Meur",
+                "ro": "Menhir de Prat Meur",
+                "en": "Menhir de Prat Meur"
+              },
+              "tip_5lang": {
+                "de": "Der riesige Hinkelstein wirkt im Nebel mystisch, aber seien Sie vorsichtig, da der Boden schlammig wird.",
+                "hu": "A hatalmas állókő misztikusnak hat a ködben, de legyen óvatos, mert a környező talaj nagyon saras lehet.",
+                "ro": "Menhirul uriaș pare mistic în ceață, dar aveți grijă deoarece terenul din jur devine foarte noroios.",
+                "en": "The giant standing stone feels mystical in the mist, just be cautious as the surrounding ground gets muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "menhir porz ar streat",
+                "hu": "menhir porz ar streat",
+                "ro": "menhir porz ar streat",
+                "en": "menhir porz ar streat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang an diesem Monolithen; der Regen verstärkt seine Aura. Bleiben Sie unter dem Schirm trocken.",
+                "hu": "Fejezze be sétáját ennél a történelmi monolittól; az eső fokozza ősi auráját, maradjon szárazon egy esernyő alatt.",
+                "ro": "Încheiați plimbarea la acest monolit istoric; ploaia îi sporește aura antică, așa că stați sub o umbrelă mare.",
+                "en": "Finish your walk at this historic monolith; the rain enhances its ancient aura, so stay dry under a large umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Knackige Wintermorgen am Strand bieten klare Aussichten. Mittags bei den alten Ruinen ist ein warmer Mantel unerlässlich. Verbringen Sie den Nachmittag bei den Menhiren. Da die Sonne gegen 17:00 Uhr untergeht, werfen die Steine lange, dramatische Schatten in der Dämmerung.",
+            "hu": "A csípős téli reggel tiszta parti kilátást nyújt a strandon. Délben az ősi romoknál elengedhetetlen a meleg kabát. Délután fedezze fel a tornyosuló menhireket. Mivel a nap már 17:00 körül lenyugszik, a kövek hosszú, drámai esti árnyékokat vetnek a lemenő nap fényében.",
+            "ro": "Diminețile geroase la plajă oferă priveliști clare. La prânz, un palton călduros este esențial la ruinele antice. După-amiaza descoperiți menhirele impunătoare. Deoarece soarele apune în jur de 17:00, pietrele lasă umbre lungi și dramatice pe înserat.",
+            "en": "Crisp winter mornings at the beach offer clear coastal views. Midday brings you to ancient ruins where a warm coat is essential. Spend your afternoon discovering the towering menhirs. As the sun sets around 17:00, the stones cast long, dramatic evening shadows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Porsmeur",
+                "hu": "Plage de Porsmeur",
+                "ro": "Plage de Porsmeur",
+                "en": "Plage de Porsmeur"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die frische Winterluft am ruhigen Strand ein, aber tragen Sie unbedingt warme, winddichte Kleidung.",
+                "hu": "Szívja be a friss téli tengeri levegőt a csendes strandon, de feltétlenül viseljen meleg, szélálló rétegeket.",
+                "ro": "Respirați aerul proaspăt de iarnă pe plaja liniștită, dar asigurați-vă că purtați straturi calde și rezistente la vânt.",
+                "en": "Breathe in the crisp winter sea air on the quiet beach, but make sure to dress in warm, windproof layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée Couverte du Guinirvit",
+                "hu": "Allée Couverte du Guinirvit",
+                "ro": "Allée Couverte du Guinirvit",
+                "en": "Allée Couverte du Guinirvit"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses prähistorische Grab bei tiefem Winterlicht; eine warme Mütze ist hier ein Muss.",
+                "hu": "Fedezze fel ezt az ősi fedett sétányt, míg a téli fények árnyékokat vetnek; egy meleg sapka kötelező.",
+                "ro": "Explorați această alee preistorică în timp ce lumina de iarnă creează umbre izbitoare; o căciulă e obligatorie.",
+                "en": "Explore this prehistoric covered alley while the winter light creates striking shadows; a warm hat is a must."
+              }
+            },
+            {
+              "name": {
+                "de": "stèle gauloise",
+                "hu": "stèle gauloise",
+                "ro": "stèle gauloise",
+                "en": "stèle gauloise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Stele in der Kälte; Thermohandschuhe halten Ihre Hände beim Fotografieren warm.",
+                "hu": "Csodálja meg a történelmi sztélét a csendes hidegben; a termokesztyű melegen tartja kezét fotózás közben.",
+                "ro": "Minunați-vă de stela istorică în frigul liniștit; mănușile termice vă vor ține de cald când faceți poze.",
+                "en": "Marvel at the historic stele in the quiet cold; thermal gloves will keep your hands warm while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Prat Meur",
+                "hu": "Menhir de Prat Meur",
+                "ro": "Menhir de Prat Meur",
+                "en": "Menhir de Prat Meur"
+              },
+              "tip_5lang": {
+                "de": "Die Größe dieses Menhirs ist in der Winterkälte atemberaubend. Bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Ennek a menhirnek a puszta mérete lélegzetelállító a téli hidegben, ezért mozogjon folyamatosan a melegért.",
+                "ro": "Dimensiunea acestui menhir este uluitoare în frigul iernii, așa că mișcați-vă pentru a vă menține confortabil.",
+                "en": "The sheer size of this menhir is breathtaking in the winter chill, so keep moving to stay comfortably warm."
+              }
+            },
+            {
+              "name": {
+                "de": "menhir porz ar streat",
+                "hu": "menhir porz ar streat",
+                "ro": "menhir porz ar streat",
+                "en": "menhir porz ar streat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie diesen Stein, wenn die frühe Winterdämmerung naht; kommen Sie vor 17:00 Uhr für bestes Licht.",
+                "hu": "Figyelje meg ezt a lenyűgöző követ a korai téli szürkület közeledtével; érkezzen 17:00 előtt a legjobb fényekért.",
+                "ro": "Observați această piatră impresionantă la amurgul timpuriu; ajungeți înainte de 17:00 pentru cea mai bună lumină.",
+                "en": "Observe this impressive stone as the early winter dusk approaches; arrive before 17:00 for the best natural light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli tekerés a Rochers Baie du Kernic lenyűgöző természeti szépségével és az ősi pêcherie meglátogatásával indul. Délre eléri a misztikus Allée Couverte du Guinirvit-t a hűs tengeri szellőben. A délután tökéletes a Plage de Porsmeur homokján való pihenésre. Az este egy gyors fotózást kínál a csikóhalnál, mielőtt az ősi menhir porz ar streat közelében befejezné a túrát.",
         "ro": "Plimbarea matinală începe cu frumusețea naturală de la Rochers Baie du Kernic și o vizită la vechea pêcherie. La prânz ajungeți la mistica Allée Couverte du Guinirvit, bucurându-vă de briza mării. După-amiaza este perfectă pentru a vă relaxa pe Plage de Porsmeur. Seara aduce o scurtă oprire foto la hippocampe, înainte de a încheia la vechiul menhir porz ar streat.",
         "en": "Your morning ride starts with the breathtaking natural beauty of Rochers Baie du Kernic and a visit to the ancient pêcherie. By midday, you'll reach the mystical Allée Couverte du Guinirvit, enjoying the refreshing coastal breeze. The afternoon is perfect for unwinding on the sands of Plage de Porsmeur. Evening brings a quick photo at the hippocampe before concluding your journey at the ancient menhir porz ar streat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt an den Felsen und radeln Sie vorsichtig auf rutschigen Wegen. Mittags passieren Sie die alte Fischerei im Regen. Nachmittags fahren Sie am Strand und lokalen Monumenten vorbei. Schalten Sie das Licht ein, wenn der Abendnebel aufzieht.",
+            "hu": "Kezdje nedves utazását a parti szikláknál, óvatosan tekerve a csúszós utakon. Délben tekerjen el az öreg halászat és a romok mellett az esőben. Délután guruljon le a strandra. Kapcsolja be a lámpákat, ahogy a kora esti köd beborítja a partot.",
+            "ro": "Începeți plimbarea umedă la stâncile de coastă, pedalând cu grijă. La prânz, treceți pe lângă vechea pescărie și ruine pe ploaie. După-amiaza mergeți pe plajă. Țineți luminile aprinse deoarece se lasă ceața de seară pe drumurile de coastă.",
+            "en": "Begin your wet ride at the coastal rocks, cycling carefully on slick paths. Midday takes you past the old fishery and ruins under the rain. By afternoon, ride by the beach and ancient sites. Keep your lights on as the evening mist rolls in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rochers Baie du Kernic",
+                "hu": "Rochers Baie du Kernic",
+                "ro": "Rochers Baie du Kernic",
+                "en": "Rochers Baie du Kernic"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die nassen Felsen der Bucht; bremsen Sie früh, da die Küstenradwege ziemlich rutschig werden.",
+                "hu": "Nézze meg az öböl drámai, vizes szikláit; fékezzen korán, mert a parti kerékpárutak eléggé csúszósak.",
+                "ro": "Vedeți stâncile umede ale golfului; frânați devreme, deoarece pistele de biciclete devin foarte alunecoase.",
+                "en": "View the dramatic wet rocks of the bay; apply your brakes early as the coastal bike paths get quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "pêcherie",
+                "hu": "pêcherie",
+                "ro": "pêcherie",
+                "en": "pêcherie"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die alten Fischfallen im Regen an; tragen Sie eine helle, wasserdichte Radjacke zur Sichtbarkeit.",
+                "hu": "Nézze meg a régi kő halcsapdákat az esőben; viseljen élénk színű, vízálló kerékpáros kabátot a láthatóságért.",
+                "ro": "Vedeți vechile capcane de pești în ploaie; purtați o jachetă de ciclism impermeabilă și strălucitoare.",
+                "en": "See the old stone fish traps working with the rain; wear a bright, waterproof cycling jacket for visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée Couverte du Guinirvit",
+                "hu": "Allée Couverte du Guinirvit",
+                "ro": "Allée Couverte du Guinirvit",
+                "en": "Allée Couverte du Guinirvit"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad, um dieses alte Grab zu sehen; wasserdichte Taschen sind ideal, um Ihre Ausrüstung trocken zu halten.",
+                "hu": "Parkolja le a kerékpárt, hogy megnézze ezt az ősi sírt; a vízálló táskák ideálisak a felszerelés szárazon tartására.",
+                "ro": "Parcați bicicleta pentru a vedea acest mormânt; gențile impermeabile sunt ideale pentru a vă păstra echipamentul uscat.",
+                "en": "Park your bike to view this ancient tomb; waterproof panniers are ideal for keeping your gear dry here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Porsmeur",
+                "hu": "Plage de Porsmeur",
+                "ro": "Plage de Porsmeur",
+                "en": "Plage de Porsmeur"
+              },
+              "tip_5lang": {
+                "de": "Der leere, regnerische Strand bietet eine Pause; suchen Sie kurz Schutz, wenn die Schauer zu stark werden.",
+                "hu": "Az üres, esős strand békés szünetet kínál; keressen egy kis menedéket, ha a zápor túl heves lenne.",
+                "ro": "Plaja ploioasă oferă o pauză pașnică; adăpostiți-vă scurt timp dacă aversele de coastă devin prea abundente.",
+                "en": "The empty rainy beach offers a peaceful pause; take cover briefly if the coastal showers become too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "hippocampe",
+                "hu": "hippocampe",
+                "ro": "hippocampe",
+                "en": "hippocampe"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich dieses lokale Wahrzeichen kurz an; lassen Sie Ihr Licht an, da Regen die Sichtbarkeit verringert.",
+                "hu": "Gyorsan nézze meg ezt a helyi nevezetességet; hagyja bekapcsolva a lámpákat, mert az eső rontja a látási viszonyokat.",
+                "ro": "Vedeți rapid acest punct de reper local; țineți luminile aprinse deoarece ploaia reduce vizibilitatea.",
+                "en": "Check out this quirky local landmark quickly; keep your bike lights on since rain reduces daytime visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "menhir porz ar streat",
+                "hu": "menhir porz ar streat",
+                "ro": "menhir porz ar streat",
+                "en": "menhir porz ar streat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an diesem massiven Stein; nähern Sie sich vorsichtig auf dem nassen Boden.",
+                "hu": "Fejezze be a tekerést a masszív kőnél; óvatosan közelítse meg a nedves talajon, hogy értékelje ködös nagyságát.",
+                "ro": "Încheiați plimbarea la această piatră masivă; navigați cu grijă pe pământul ud pentru a-i aprecia măreția mistică.",
+                "en": "End your ride at this massive stone; carefully navigate the wet approach to appreciate its misty grandeur."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt an den Felsen in der Morgenluft. Mittags erkunden Sie die alte Fischerei und halten das Tempo, um warm zu bleiben. Der Nachmittag am Strand ist erfrischend. Beenden Sie die Tour am imposanten Menhir vor Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a téli bringázást az öböl szikláinak megtekintésével a hideg levegőn. Délben fedezze fel a halászatot, tempósan haladva a melegért. A délutáni parti tekerés frissítő. Fejezze be az utat a menhirnél, mielőtt 17:00-kor lemegy a nap a fagyos táj felett.",
+            "ro": "Începeți plimbarea de iarnă la stâncile golfului. La prânz, explorați pescăria și mențineți ritmul pentru a vă încălzi. Ciclismul de după-amiază pe plajă este revigorant. Terminați la menhir înainte de apusul de la 17:00, bucurându-vă de aerul curat.",
+            "en": "Start your winter ride viewing the bay's rocks in the crisp morning air. By noon, explore the fishery and ruins, keeping up pace to stay warm. The afternoon cycle along the beach is refreshing. Finish by the menhir before the sun drops at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rochers Baie du Kernic",
+                "hu": "Rochers Baie du Kernic",
+                "ro": "Rochers Baie du Kernic",
+                "en": "Rochers Baie du Kernic"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersicht auf die Bucht; Thermo-Radhandschuhe sind gegen den kalten Wind unerlässlich.",
+                "hu": "Élvezze az öböl tiszta téli látványát; a termo kerékpáros kesztyű elengedhetetlen a hideg szél ellen.",
+                "ro": "Bucurați-vă de priveliștile clare de iarnă; mănușile termice de ciclism sunt esențiale împotriva vântului rece.",
+                "en": "Enjoy the clear winter views of the bay rocks; thermal cycling gloves are essential against the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "pêcherie",
+                "hu": "pêcherie",
+                "ro": "pêcherie",
+                "en": "pêcherie"
+              },
+              "tip_5lang": {
+                "de": "Die historische Fischfalle fasziniert im Winterlicht; tragen Sie Schichten, um Ihre Körpertemperatur zu regulieren.",
+                "hu": "A történelmi halcsapda lenyűgöző a téli napfényben; viseljen réteges öltözéket a testhőmérséklet szabályozására.",
+                "ro": "Capcana istorică de pești este fascinantă în soarele de iarnă; îmbrăcați-vă în straturi pentru a vă regla temperatura.",
+                "en": "The historic fish trap is fascinating in the low winter sun; wear layers to regulate your body temperature while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée Couverte du Guinirvit",
+                "hu": "Allée Couverte du Guinirvit",
+                "ro": "Allée Couverte du Guinirvit",
+                "en": "Allée Couverte du Guinirvit"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an diesem prähistorischen Grab, um sich zu dehnen; ein warmes Stirnband unterm Helm verhindert Wärmeverlust.",
+                "hu": "Álljon meg ennél a történelem előtti sétánynál nyújtózkodni; a sisak alatti meleg fejpánt megakadályozza a hőveszteséget.",
+                "ro": "Opriți-vă la această alee pentru a vă întinde; o bentiță caldă sub cască previne pierderea căldurii.",
+                "en": "Stop at this prehistoric alley to stretch; a warm headband under your helmet prevents heat loss."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Porsmeur",
+                "hu": "Plage de Porsmeur",
+                "ro": "Plage de Porsmeur",
+                "en": "Plage de Porsmeur"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie am frostigen Strand vorbei; achten Sie auf gelegentliche Eisflächen auf den schattigen Küstenwegen.",
+                "hu": "Tekerjen el a fagyos tengerpart mellett; ügyeljen az árnyékos kerékpárutakon az alkalmankénti jeges foltokra.",
+                "ro": "Pedalați pe lângă plaja înghețată; atenție la petele ocazionale de gheață de pe potecile de coastă umbrite.",
+                "en": "Cycle past the serene, frosty beach; watch out for occasional icy patches on the shaded coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "hippocampe",
+                "hu": "hippocampe",
+                "ro": "hippocampe",
+                "en": "hippocampe"
+              },
+              "tip_5lang": {
+                "de": "Dieses einzigartige Wahrzeichen sieht im Nachmittagslicht toll aus; halten Sie Stopps kurz, um warm zu bleiben.",
+                "hu": "Ez az egyedi nevezetesség remekül mutat a délutáni fényben; tartsa rövidre a megállót a meleg megőrzése érdekében.",
+                "ro": "Acest reper arată excelent în lumina după-amiezii; faceți opriri scurte pentru a vă menține căldura corporală.",
+                "en": "This unique landmark looks great in the afternoon light; keep your stops brief to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "menhir porz ar streat",
+                "hu": "menhir porz ar streat",
+                "ro": "menhir porz ar streat",
+                "en": "menhir porz ar streat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Stein beim frühen Sonnenuntergang um 17:00 Uhr; stellen Sie sicher, dass Ihre Lichter geladen sind.",
+                "hu": "Csodálja meg a magas követ a 17:00 óra körüli naplementében; győződjön meg róla, hogy a biciklilámpák fel vannak töltve.",
+                "ro": "Admirați piatra înaltă odată cu apusul soarelui la 17:00; asigurați-vă că luminile bicicletei sunt complet încărcate.",
+                "en": "Admire the towering stone as the early winter sunset begins around 17:00; ensure your bike lights are fully charged."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a történelmi pêcherie-nél, majd csodálja meg a Rochers Baie du Kernic szikláit. Délben elmerülhet Porsmeur történelmében az Allée Couverte du Guinirvit és a gall sztélé felfedezésével. A délután fénypontjai az impozáns Menhir de Prat Meur és a menhir porz ar streat. Zárja a napot egy kellemes megállóval a mókás csikóhal emlékműnél, kilátással a partra.",
         "ro": "Începeți turul cu ingineria istorică de la pêcherie, urmată de stâncile abrupte de la Rochers Baie du Kernic. Prânzul vă ghidează prin istoria densă a Porsmeur cu vizite la Allée Couverte du Guinirvit și stela galică. Punctele forte ale după-amiezii includ impresionantul Menhir de Prat Meur și menhir porz ar streat. Încheiați ziua relaxant la excentricul hippocampe pe coastă.",
         "en": "Begin your driving tour with the historical engineering of the pêcherie, followed by the rugged cliffs at Rochers Baie du Kernic. Midday leads you through Porsmeur's dense history with visits to the Allée Couverte du Guinirvit and the stèle gauloise. Afternoon highlights include the imposing Menhir de Prat Meur and the menhir porz ar streat. Conclude your day gracefully at the quirky hippocampe overlooking the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zur alten Fischerei und genießen Sie die nasse Stimmung. Mittags bei den Felsen und Ruinen ist ein Schirm nötig. Verbringen Sie den Nachmittag fahrend bei den Menhiren. Der regnerische Abend macht die Rückfahrt im Auto besonders gemütlich.",
+            "hu": "Vezessen az öreg halászathoz egy nedves reggelen, élvezve a parti hangulatot. Délben az öbölnél és a romoknál esernyő kell. A délutánt a menhirek közötti autózással töltheti. Az esős este hangulatos légkört ad a meleg autóban tett hazautazásnak.",
+            "ro": "Conduceți la vechea pescărie într-o dimineață umedă. La prânz, la stânci și ruine aveți nevoie de umbrelă. După-amiaza treceți cu mașina de la un menhir la altul. Seara ploioasă adaugă o atmosferă confortabilă la întoarcerea dumneavoastră.",
+            "en": "Drive to the old fishery on a wet morning, enjoying the moody coastal vibe. Midday stops at the bay rocks and ruins require an umbrella. Spend the afternoon hopping between menhirs. The rainy evening adds a cozy vibe to your return drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "pêcherie",
+                "hu": "pêcherie",
+                "ro": "pêcherie",
+                "en": "pêcherie"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischfallen vom Ufer aus; halten Sie für den kurzen Spaziergang einen großen Regenschirm bereit.",
+                "hu": "Figyelje meg a kő halcsapdákat a partról; tartson egy nagy esernyőt a csomagtartóban a rövid sétához.",
+                "ro": "Observați capcanele de pești de pe mal; țineți o umbrelă mare în portbagaj pentru scurta plimbare.",
+                "en": "Observe the ancient stone fish traps from the shore; keep a large golf umbrella in the trunk for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Rochers Baie du Kernic",
+                "hu": "Rochers Baie du Kernic",
+                "ro": "Rochers Baie du Kernic",
+                "en": "Rochers Baie du Kernic"
+              },
+              "tip_5lang": {
+                "de": "Die gezackten Felsen wirken im Regen dramatisch; fahren Sie vorsichtig auf den nassen, engen Küstenstraßen.",
+                "hu": "A csipkézett sziklák drámaiak az esőben; vezessen nagyon óvatosan az ide vezető nedves, szűk parti utakon.",
+                "ro": "Stâncile sunt dramatice în ploaie; conduceți cu grijă pe drumurile de coastă umede și înguste.",
+                "en": "The jagged bay rocks look dramatic in the rain; drive carefully on the wet, narrow coastal roads leading here."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée Couverte du Guinirvit",
+                "hu": "Allée Couverte du Guinirvit",
+                "ro": "Allée Couverte du Guinirvit",
+                "en": "Allée Couverte du Guinirvit"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus, um dieses alte Grab zu sehen; tragen Sie wasserdichte Schuhe, da der Weg vom Parkplatz matschig wird.",
+                "hu": "Szálljon ki megnézni az ősi sétányt; viseljen vízálló cipőt, mert a parkolótól vezető út nagyon saras lehet.",
+                "ro": "Ieșiți pentru a vedea această alee antică; purtați pantofi impermeabili deoarece calea de la parcare devine noroioasă.",
+                "en": "Step out to see this prehistoric alley; wear waterproof shoes as the path from the parking spot gets muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "stèle gauloise",
+                "hu": "stèle gauloise",
+                "ro": "stèle gauloise",
+                "en": "stèle gauloise"
+              },
+              "tip_5lang": {
+                "de": "Diese alte Stele ist leicht zugänglich; springen Sie für ein Foto zwischen den Schauern schnell aus dem Auto.",
+                "hu": "Ez az ősi sztélé könnyen megközelíthető; ugorjon ki gyorsan a kocsiból egy fotó erejéig a heves záporok között.",
+                "ro": "Această stelă antică este ușor accesibilă; săriți rapid din mașină pentru o fotografie între averse grele.",
+                "en": "This ancient stele is easily accessible; jump out of the car quickly to snap a photo between heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Prat Meur",
+                "hu": "Menhir de Prat Meur",
+                "ro": "Menhir de Prat Meur",
+                "en": "Menhir de Prat Meur"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen imposanten Stein; nutzen Sie die Autoheizung, um nach dem Spaziergang im nassen Gras zu trocknen.",
+                "hu": "Csodálja meg a monumentális követ a ködben; használja az autó fűtését a nedves fűben tett séta utáni szárítkozáshoz.",
+                "ro": "Admirați această piatră impunătoare; folosiți încălzirea mașinii pentru a vă usca după explorarea ierbii umede.",
+                "en": "Admire this imposing stone in the misty weather; use the car's heater to dry off after exploring the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "menhir porz ar streat",
+                "hu": "menhir porz ar streat",
+                "ro": "menhir porz ar streat",
+                "en": "menhir porz ar streat"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den majestätischen Monolithen im Regen an; lassen Sie die Scheibenwischer für klare Sicht laufen.",
+                "hu": "Nézze meg az esőben magasan álló fenséges monolitot; járassa az ablaktörlőket a tiszta kilátás érdekében a kocsiból.",
+                "ro": "Vedeți monilitul maiestuos în ploaie; lăsați ștergătoarele de parbriz pornite pentru a-l vedea clar din mașină.",
+                "en": "View the majestic monolith standing tall in the rain; keep your windshield wipers on full to see it clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "hippocampe",
+                "hu": "hippocampe",
+                "ro": "hippocampe",
+                "en": "hippocampe"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an diesem Wahrzeichen; nutzen Sie Nebelscheinwerfer, da abends oft Küstennebel aufzieht.",
+                "hu": "Fejezze be az utat ennél az érdekes nevezetességnél; használjon ködlámpát, mert este a parton gyakori a sűrű köd.",
+                "ro": "Încheiați drumul la acest punct de reper; folosiți farurile de ceață, deoarece pe coastă ceața apare des seara.",
+                "en": "End your drive at this interesting landmark; use your fog lights as coastal mist often rolls in during rainy evenings."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Winterfahrt zur Fischerei bietet helle Aussichten. Mittags bei den Felsen können Sie sich im Auto aufwärmen. Der Nachmittag bringt Sie gemütlich zu den Menhiren. Beenden Sie die Tour bis 17:00 Uhr und genießen Sie den Sonnenuntergang aus der warmen Kabine.",
+            "hu": "A reggeli téli autózás a halászathoz fényes, fagyos kilátást nyújt. Délben látogassa meg az öblöt és a romokat, a kocsiban melegedve a megállók közt. Délután irány a menhirek. Zárja a túrát 17:00-ra, élvezve a gyönyörű naplementét a fűtött utastérből.",
+            "ro": "Conducerea de dimineață spre pescărie oferă priveliști luminoase. La prânz vizitați stâncile, folosind mașina pentru a vă încălzi între opriri. După-amiaza aduce menhirele. Încheiați turul la 17:00, bucurându-vă de apusul de iarnă din cabina caldă.",
+            "en": "A morning winter drive to the fishery offers bright, chilly views. By noon, visit the bay rocks and ruins, using your car to warm up between stops. Afternoon brings you to the menhirs. Wrap up your tour by 17:00, enjoying the beautiful winter sunset from the warm cabin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "pêcherie",
+                "hu": "pêcherie",
+                "ro": "pêcherie",
+                "en": "pêcherie"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die historische Fischerei in der klaren Morgenluft; lassen Sie die Heizung laufen, um sich schnell aufzuwärmen.",
+                "hu": "Nézze meg a történelmi halászatot a csípős reggeli levegőn; járassa a fűtést, hogy a látogatás után gyorsan felmelegedjen.",
+                "ro": "Vedeți pescăria istorică în aerul dimineții; lăsați încălzirea pornită pentru a vă încălzi rapid după vizită.",
+                "en": "See the historic fishery in the crisp morning air; keep the car heater running to warm up quickly after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Rochers Baie du Kernic",
+                "hu": "Rochers Baie du Kernic",
+                "ro": "Rochers Baie du Kernic",
+                "en": "Rochers Baie du Kernic"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Felsen funkeln in der Wintersonne; achten Sie auf den Straßen frühmorgens auf gefährliches Glatteis.",
+                "hu": "A fagyos sziklák ragyognak a téli napfényben; figyeljen a fekete jégre a kora reggeli utakon.",
+                "ro": "Stâncile înghețate strălucesc în soarele de iarnă; atenție la gheața neagră de pe drumuri la începutul zilei.",
+                "en": "The frozen bay rocks sparkle in the winter sun; watch for black ice on the roads early in the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée Couverte du Guinirvit",
+                "hu": "Allée Couverte du Guinirvit",
+                "ro": "Allée Couverte du Guinirvit",
+                "en": "Allée Couverte du Guinirvit"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alte Allee im klaren, kalten Licht; bringen Sie heißen Tee mit, den Sie im Auto genießen können.",
+                "hu": "Fedezze fel az ősi sétányt a tiszta, hideg fényben; hozzon egy termosz forró teát, amit utána az autóban megihat.",
+                "ro": "Explorați aleea în lumina clară și rece; aduceți un termos cu ceai fierbinte pe care să-l savurați apoi în mașină.",
+                "en": "Explore the ancient alley in the clear cold light; bring a thermos of hot tea to enjoy in the car afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "stèle gauloise",
+                "hu": "stèle gauloise",
+                "ro": "stèle gauloise",
+                "en": "stèle gauloise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Stele; ziehen Sie sich warm an, da der Wind selbst auf kurzen Wegen eisig ist.",
+                "hu": "Csodálja meg a történelmi sztélét; öltözzön fel melegen, mert a parti szél a rövid séták alatt is metsző lehet.",
+                "ro": "Minunați-vă de stela istorică; îmbrăcați-vă călduros, deoarece vânturile de coastă pot fi aspre și pe plimbări scurte.",
+                "en": "Marvel at the historic stele; dress warmly as the coastal winds can be piercing even on short walks from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Prat Meur",
+                "hu": "Menhir de Prat Meur",
+                "ro": "Menhir de Prat Meur",
+                "en": "Menhir de Prat Meur"
+              },
+              "tip_5lang": {
+                "de": "Dieser riesige Stein wirft im Winter lange Schatten; achten Sie auf eine gute Autobatterie für die Kaltstarts.",
+                "hu": "Ez az óriási kő hosszú, gyönyörű árnyékokat vet télen; gondoskodjon az akkumulátor jó állapotáról a hidegindításokhoz.",
+                "ro": "Această piatră aruncă umbre lungi iarna; asigurați-vă că bateria mașinii este sănătoasă pentru pornirile la rece.",
+                "en": "This giant stone casts long, beautiful shadows in winter; ensure your car battery is healthy for cold starts."
+              }
+            },
+            {
+              "name": {
+                "de": "menhir porz ar streat",
+                "hu": "menhir porz ar streat",
+                "ro": "menhir porz ar streat",
+                "en": "menhir porz ar streat"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal, wenn der Nachmittag schwindet; kommen Sie weit vor dem Sonnenuntergang um 17:00 Uhr an.",
+                "hu": "Látogassa meg ezt a lenyűgöző emlékművet délután; érkezzen jóval a 17:00 órai naplemente előtt a jó látási viszonyokért.",
+                "ro": "Vizitați acest monument impresionant după-amiaza; ajungeți cu mult înainte de apusul de la 17:00 pentru vizibilitate.",
+                "en": "Visit this impressive monument as the afternoon fades; arrive well before the 17:00 sunset for good visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "hippocampe",
+                "hu": "hippocampe",
+                "ro": "hippocampe",
+                "en": "hippocampe"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihren Winter-Roadtrip; schalten Sie das Licht früh ein, da die tiefe Wintersonne stark blendet.",
+                "hu": "Zárja itt a téli autós túráját; kapcsolja be korán a fényszórókat, mert az alacsony téli napfény vakító lehet.",
+                "ro": "Încheiați călătoria de iarnă aici; aprindeți farurile devreme, deoarece soarele de iarnă creează o strălucire provocatoare.",
+                "en": "Conclude your winter road trip here; turn on your headlights early as the low winter sun creates challenging glare."
+              }
+            }
+          ]
+        }
       }
     }
   }

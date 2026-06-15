@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a városközpont békés vallási építészetének felfedezésével, majd haladjon a világhírű édesgyökér-múzeum felé. A dél tökéletes az ipari örökség megismerésére, mielőtt a partra indulna. Délután fedezze fel a történelmi védőtornyokat és az autentikus halászházakat. Zárja a napot a tengerparti helyszínek egyikén, élvezve a nyüzsgő, mégis pihentető hangulatot.",
         "ro": "Începeți dimineața explorând arhitectura religioasă liniștită din centrul orașului, mergând apoi spre celebrul muzeu al lemnului dulce. Prânzul este perfect pentru a înțelege moștenirea industrială dulce înainte de a vă îndrepta spre coastă. După-amiaza, descoperiți turnuri defensive istorice și case autentice de pescari. Încheiați ziua relaxându-vă în locurile vibrante de pe coastă.",
         "en": "Start your morning exploring the serene religious architecture in the town center, gradually moving towards the world-famous licorice museum. Midday is perfect for understanding the sweet industrial heritage before heading towards the coastline. In the afternoon, discover historical defensive towers and authentic fishermen's dwellings. Conclude your day relaxing by the vibrant coastal spots."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der gemütlichen Kirche San Giuseppe und flüchten Sie dann ins Lakritzmuseum. Mittags bietet sich ein nasser Spaziergang zum Torre Sant'Angelo und den alten Fischerhäusern an. Nachmittags suchen Sie Schutz im La Balera und genießen die Wärme drinnen. Halten Sie Ihren Regenschirm bereit und tragen Sie wasserdichte Schuhe für die nassen Küstenwege.",
+            "hu": "Kezdje az esős reggelt a San Giuseppe templomban, majd meneküljön az Édesgyökér Múzeum fedett tereibe. Délben a Torre Sant'Angelo és a halászházak nedves, de hangulatos sétát kínálnak. Délután a La Balera nyújt menedéket, ahol a benti melegben pihenhet meg. Készítse elő az esernyőjét, és viseljen vízálló cipőt a csúszós parti utakon, hogy száraz maradjon az estére.",
+            "ro": "Începeți dimineața ploioasă la biserica San Giuseppe, apoi refugiați-vă în Muzeul Lemnului Dulce. La prânz, faceți o plimbare umedă pe lângă Torre Sant'Angelo și casele pescarilor. După-amiaza, adăpostiți-vă la La Balera, bucurându-vă de căldură. Păstrați umbrela la îndemână și purtați încălțăminte impermeabilă pentru a face față bălților de pe traseul de coastă.",
+            "en": "Start your rainy morning at the cozy San Giuseppe church, then head indoors to the Licorice Museum to escape the showers. Midday brings a wet stroll past Torre Sant'Angelo and the fishermen's houses. In the afternoon, take refuge at La Balera, enjoying the indoor warmth. Keep your umbrella handy and wear waterproof shoes for the puddles on the coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das friedliche Innere dieser Kirche, die einen perfekten, ruhigen Schutz vor dem starken Morgenregen bietet, bevor Sie Ihren nassen Spaziergang fortsetzen.",
+                "hu": "Csodálja meg a templom békés belső terét, amely tökéletes, csendes menedéket nyújt a heves reggeli eső elől, mielőtt folytatná nedves parti sétáját.",
+                "ro": "Admirați interiorul pașnic al acestei biserici, oferind un adăpost perfect și liniștit de ploaia puternică de dimineață înainte de a continua plimbarea.",
+                "en": "Admire the peaceful interiors of this local church, offering a perfect, quiet shelter from the heavy morning rain before continuing your wet coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Liquirizia",
+                "hu": "Museo della Liquirizia",
+                "ro": "Museo della Liquirizia",
+                "en": "Museo della Liquirizia"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie zusätzliche Zeit drinnen, um die süße Geschichte der Amarelli-Lakritze zu erkunden und komplett trocken zu bleiben, während es draußen schüttet.",
+                "hu": "Töltsön több időt a fedett belső terekben az Amarelli édesgyökér történetének felfedezésével, hogy teljesen száraz maradjon a kinti heves záporok idején.",
+                "ro": "Petreceți timp suplimentar în interior explorând istoria dulce a lemnului dulce Amarelli, rămânând complet uscat în timp ce plouă cu găleata afară.",
+                "en": "Spend extra time indoors exploring the sweet history of Amarelli licorice, staying completely dry while enjoying the guided exhibits during the heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Angelo",
+                "hu": "Torre Sant'Angelo",
+                "ro": "Torre Sant'Angelo",
+                "en": "Torre Sant'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen schnellen Blick unter Ihrem Regenschirm auf diesen historischen Wachturm, da der Küstenwind den Regen hier besonders unangenehm machen kann.",
+                "hu": "Vessen egy gyors pillantást a történelmi őrtoronyra az esernyő alól, mert a nyílt tengerparti szél miatt itt az eső még élesebbnek tűnik a sétálóknak.",
+                "ro": "Aruncați o privire rapidă sub umbrela dvs. la acest turn de veghe istoric, deoarece vântul de coastă poate face ca ploaia să se simtă destul de aspră aici.",
+                "en": "View this historic watchtower quickly from beneath your umbrella, as the strong coastal winds can make the falling rain feel quite sharp at this open location."
+              }
+            },
+            {
+              "name": {
+                "de": "Case dei pescatori",
+                "hu": "Case dei pescatori",
+                "ro": "Case dei pescatori",
+                "en": "Case dei pescatori"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig über die nassen, rutschigen Pfade zwischen diesen charmanten alten Fischerhäusern, die im Regen überraschend lebendig wirken.",
+                "hu": "Sétáljon nagyon óvatosan a nedves, csúszós utakon a bájos, régi halászházak között, amelyek meglepően élénknek és hangulatosnak hatnak az esős időben.",
+                "ro": "Mergeți cu atenție pe cărările umede și alunecoase dintre aceste fermecătoare case vechi de pescari, care par surprinzător de vii în ploaia măruntă.",
+                "en": "Walk carefully along the wet, slippery paths between these charming old fishermen's houses, which look surprisingly vivid and atmospheric in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La Balera",
+                "hu": "La Balera",
+                "ro": "La Balera",
+                "en": "La Balera"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang an diesem komfortablen Ort, trocknen Sie sich drinnen bei einem warmen Getränk ab und lauschen Sie dem Regen.",
+                "hu": "Fejezze be a sétát ebben a kényelmes pihenőhelyben, ahol a fedett térben, egy forró ital mellett megszáradhat, miközben a kinti esőt hallgatja.",
+                "ro": "Încheiați-vă plimbarea în acest loc confortabil, uscându-vă în interior cu o băutură caldă în timp ce ascultați ploaia căzând pe acoperiș și pe coastă.",
+                "en": "End your walk in this comfortable recreational spot, drying off completely indoors with a warm beverage while listening to the rain fall steadily outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren kalten Wintermorgen in der Kirche San Giuseppe, gefolgt von einem warmen Besuch im Lakritzmuseum. Mittags erfordert die steife Seebrise am Torre Sant'Angelo und den Fischerhäusern einen dicken Mantel. Der Nachmittag endet im La Balera, ideal zum Aufwärmen vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Kleiden Sie sich in warmen Schichten für diesen Küstenspaziergang.",
+            "hu": "A csípős téli reggelt a San Giuseppe templomnál kezdje, majd melegedjen fel a híres Édesgyökér Múzeumban. Délben a Torre Sant'Angelo és a halászházak környékén a tengeri szél miatt elkél a vastag kabát. Délután a La Balera kényelmes benti melege várja. Öltözzön rétegesen, és használja ki a nappali világosságot, hiszen télen már 17:00 óra körül sötétedik a tengerparton.",
+            "ro": "Începeți dimineața geroasă de iarnă la biserica San Giuseppe, urmată de o vizită caldă la Muzeul Lemnului Dulce. La prânz, briza mării la Torre Sant'Angelo și casele pescarilor necesită o haină groasă. După-amiaza se încheie la La Balera, un loc minunat pentru a vă încălzi înainte de apusul de la 17:00. Îmbrăcați-vă în straturi calde pentru a vă bucura de plimbare.",
+            "en": "Begin your crisp winter morning at the historic San Giuseppe church, followed by a warm visit to the Licorice Museum. By noon, the brisk sea breeze at Torre Sant'Angelo and the fishermen's houses requires a thick coat. The afternoon concludes at La Balera, a great spot to warm up before the sunset approaches at 17:00. Dress in warm layers to enjoy this coastal walk comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kühlen Tag in der ruhigen Wärme dieser historischen Kirche, ein friedlicher Ort zum Aufwärmen, bevor Sie auf die kalten Straßen gehen.",
+                "hu": "Kezdje a hűvös napot a történelmi templom csendes melegében, amely tökéletes hely a felmelegedésre, mielőtt nekivágna a hideg parti utcáknak.",
+                "ro": "Începeți ziua răcoroasă în căldura liniștită a acestei biserici istorice, un loc pașnic pentru a vă încălzi înainte de a ieși pe străzile reci.",
+                "en": "Start your chilly winter day in the quiet warmth of this historic church, a peaceful spot to gather your thoughts before hitting the cold coastal streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Liquirizia",
+                "hu": "Museo della Liquirizia",
+                "ro": "Museo della Liquirizia",
+                "en": "Museo della Liquirizia"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem faszinierenden Museum auf und genießen Sie die dunklen Aromen der kalabrischen Lakritze, ein perfekter winterlicher Genuss.",
+                "hu": "Melegedjen fel a belső terekben ebben a lenyűgöző múzeumban, és élvezze a calabriai édesgyökér gazdag ízvilágát, ami tökéletes téli csemege a hidegben.",
+                "ro": "Încălziți-vă în interiorul acestui muzeu fascinant și bucurați-vă de aromele bogate ale lemnului dulce, un răsfăț perfect și dulce pentru o zi de iarnă.",
+                "en": "Warm up inside this fascinating museum and enjoy the rich, dark flavors of Calabrian licorice, a perfectly comforting indoor winter treat on a brisk day."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Angelo",
+                "hu": "Torre Sant'Angelo",
+                "ro": "Torre Sant'Angelo",
+                "en": "Torre Sant'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Knöpfen Sie Ihren Mantel gegen die beißenden winterlichen Küstenwinde zu, während Sie diesen robusten steinernen Wachturm am Ufer bewundern.",
+                "hu": "Gombolja be jól a kabátját a metsző téli tengerparti szél ellen, miközben megcsodálja ezt a robusztus kőből épült őrtornyot a nyílt vízparton.",
+                "ro": "Închideți-vă bine haina împotriva vânturilor aspre de coastă de iarnă, în timp ce admirați acest turn de veghe robust din piatră care păzește țărmul.",
+                "en": "Button up your coat tightly against the biting coastal winter winds while admiring this robust, historic stone watchtower guarding the chilling shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Case dei pescatori",
+                "hu": "Case dei pescatori",
+                "ro": "Case dei pescatori",
+                "en": "Case dei pescatori"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch diese historischen Küstenwohnungen und tragen Sie feste Stiefel, um Ihre Füße auf dem kalten winterlichen Boden warm zu halten.",
+                "hu": "Sétáljon végig a történelmi halászházak között, és viseljen vastag talpú csizmát, hogy a fagyos téli talajon is melegen tartsa a lábát a tengerparton.",
+                "ro": "Plimbați-vă prin aceste locuințe de coastă, purtând cizme rezistente pentru a vă menține picioarele calde împotriva solului înghețat de iarnă.",
+                "en": "Wander through these historic coastal dwellings, wearing sturdy and insulated boots to keep your feet totally warm against the chilled winter ground."
+              }
+            },
+            {
+              "name": {
+                "de": "La Balera",
+                "hu": "La Balera",
+                "ro": "La Balera",
+                "en": "La Balera"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang drinnen, wo es gemütlich und warm ist, und entspannen Sie sich, bevor die frühe Dämmerung um 17:00 Uhr hereinbricht.",
+                "hu": "Zárja a gyalogos túrát egy barátságos belső térben, ahol felmelegedhet, és kipihenheti magát, éppen mielőtt a korai, 17:00 órás sötétedés beköszönt.",
+                "ro": "Terminați-vă turul în interior, unde este confortabil și cald, relaxându-vă exact la timp înainte ca amurgul timpuriu de iarnă să se instaleze la ora 17:00.",
+                "en": "Finish your walking tour indoors where it is cozy and completely warm, relaxing just in time before the early winter dusk fully sets in around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a városközpont békés vallási építészetének felfedezésével, majd haladjon a világhírű édesgyökér-múzeum felé. A dél tökéletes az ipari örökség megismerésére, mielőtt a partra indulna. Délután fedezze fel a történelmi védőtornyokat és az autentikus halászházakat. Zárja a napot a tengerparti helyszínek egyikén, élvezve a nyüzsgő, mégis pihentető hangulatot.",
         "ro": "Începeți dimineața explorând arhitectura religioasă liniștită din centrul orașului, mergând apoi spre celebrul muzeu al lemnului dulce. Prânzul este perfect pentru a înțelege moștenirea industrială dulce înainte de a vă îndrepta spre coastă. După-amiaza, descoperiți turnuri defensive istorice și case autentice de pescari. Încheiați ziua relaxându-vă în locurile vibrante de pe coastă.",
         "en": "Start your morning exploring the serene religious architecture in the town center, gradually moving towards the world-famous licorice museum. Midday is perfect for understanding the sweet industrial heritage before heading towards the coastline. In the afternoon, discover historical defensive towers and authentic fishermen's dwellings. Conclude your day relaxing by the vibrant coastal spots."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour beginnt an der Kirche San Giuseppe, bevor Sie dem Schauer im Lakritzmuseum entkommen. Mittags radeln Sie vorbei am Torre Sant'Angelo; achten Sie auf rutschige Küstenwege! Nachmittags trocknen Sie kurz im Lula Paluza und beenden die Tour im Baffo Bianco. Tragen Sie einen guten Regenponcho und bremsen Sie frühzeitig auf glatten Flächen.",
+            "hu": "Az esős bringázás a San Giuseppe templomnál indul, majd a múzeumban száradhat meg. Délben a parti utakon, a torony és a halászházak felé haladva vigyázzon a csúszós macskakövekre! Délután a Lula Paluza és a Baffo Bianco nyújt rövidebb fedett menedéket. Viseljen jó esőköpenyt, és fékezzen óvatosan a vizes aszfalton az est közeledtével.",
+            "ro": "O plimbare ploioasă cu bicicleta începe la San Giuseppe înainte de a scăpa de ploaie în Muzeul Lemnului Dulce. Pedalarea de prânz vă duce pe lângă Torre Sant'Angelo; atenție la cărările alunecoase! După-amiaza, uscați-vă la Lula Paluza și terminați cursa la Baffo Bianco. Purtați un poncho de ploaie și frânați devreme pe suprafețele umede.",
+            "en": "A rainy bike ride starts at San Giuseppe church before escaping the downpour inside the Licorice Museum. Midday pedaling takes you past Torre Sant'Angelo; watch out for slippery coastal paths! In the afternoon, dry off briefly at Lula Paluza, then finish your wet ride at Baffo Bianco. Wear a good rain poncho and brake early on slick surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und treten Sie in diese ruhige Kirche ein, um sich abzutrocknen und den heftigen Morgenschauern zu entkommen.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és lépjen be a nyugodt templomba, hogy megszáradjon és elmeneküljön a heves reggeli záporok elől.",
+                "ro": "Parcați bicicleta în siguranță și intrați în această biserică senină pentru a vă usca și a scăpa de ploile abundente și reci de dimineață.",
+                "en": "Park your bike safely and step inside this serene local church to partially dry off and quickly escape the heavy, persistent morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Liquirizia",
+                "hu": "Museo della Liquirizia",
+                "ro": "Museo della Liquirizia",
+                "en": "Museo della Liquirizia"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr nasses Fahrrad draußen und genießen Sie eine lange, trockene Erkundungstour der berühmten Lakritz-Geschichte in den Innenräumen.",
+                "hu": "Hagyja kint a vizes kerékpárját, és élvezze a régió híres édesgyökér-történetének hosszú, száraz és meleg fedett felfedezését a belső térben.",
+                "ro": "Lăsați bicicleta umedă afară și bucurați-vă de o explorare lungă, uscată, în interior a faimoasei moșteniri a lemnului dulce din regiune.",
+                "en": "Leave your wet bike outside securely and enjoy a long, dry, indoor exploration of the region's famous licorice heritage while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Angelo",
+                "hu": "Torre Sant'Angelo",
+                "ro": "Torre Sant'Angelo",
+                "en": "Torre Sant'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen kurzen Blick auf diesen Küstenturm, aber seien Sie extrem vorsichtig, da die nassen Wege für Reifen sehr rutschig sein können.",
+                "hu": "Vessen egy gyors pillantást a tengerparti toronyra, de legyen rendkívül óvatos, mivel a vizes, nedves utak nagyon csúszósak lehetnek a gumik számára.",
+                "ro": "Aruncați o privire rapidă la acest turn, dar fiți extrem de atenți, deoarece cărările înconjurătoare umede pot fi foarte alunecoase pentru anvelope.",
+                "en": "Take a quick look at this coastal tower, but be extremely careful as the wet surrounding stone paths can be quite slippery for your bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Case dei pescatori",
+                "hu": "Case dei pescatori",
+                "ro": "Case dei pescatori",
+                "en": "Case dei pescatori"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie langsam durch diesen historischen Bezirk; die regennassen Steine erfordern zusätzliche Vorsicht und sanftes Bremsen bei jeder Kurve.",
+                "hu": "Lassan tekerjen át ezen a történelmi negyeden; az esőtől csúszós kövek fokozott óvatosságot és finom fékezést igényelnek a balesetek elkerülése végett.",
+                "ro": "Ciclism lent prin acest cartier istoric; pietrele alunecoase de la ploaie necesită o precauție suplimentară și frânare foarte ușoară și atentă.",
+                "en": "Cycle slowly through this historic district; the rain-slicked stones require extra caution, gentle steering, and very careful braking at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Lula Paluza",
+                "hu": "Lula Paluza",
+                "ro": "Lula Paluza",
+                "en": "Lula Paluza"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine kurze, geschützte Pause, um Ihren Sattel abzuwischen und Ihre Hände vor der letzten Etappe der Radtour etwas aufzuwärmen.",
+                "hu": "Tartson egy rövid, fedett pihenőt itt, hogy letörölje a nedves nyerget, és felmelegítse a kezét a bringatúra utolsó szakasza előtt az esőben.",
+                "ro": "Faceți o scurtă pauză protejată aici pentru a vă șterge șaua și a vă încălzi mâinile înainte de ultima etapă a plimbării dumneavoastră umede.",
+                "en": "Take a short, sheltered break here to thoroughly wipe down your wet saddle and warm your cold hands before tackling the final leg of your rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Baffo Bianco",
+                "hu": "Baffo Bianco",
+                "ro": "Baffo Bianco",
+                "en": "Baffo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihr regnerisches Radabenteuer in diesem einladenden Lokal, das einen perfekten Ort bietet, um sich vollständig abzutrocknen und zu entspannen.",
+                "hu": "Fejezze be az esős kerékpáros kalandot ebben a barátságos helységben, amely tökéletes menedéket nyújt a teljes megszáradáshoz és az esti pihenéshez.",
+                "ro": "Încheiați-vă aventura cu bicicleta pe ploaie în acest loc primitor, oferind un loc perfect pentru a vă usca complet și a vă relaxa la final.",
+                "en": "End your rainy cycling adventure inside this highly welcoming spot, offering a perfect place to fully dry off, warm up, and relax your tired muscles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine frische Winterradtour ein, starten Sie bei San Giuseppe und wärmen Sie sich im Lakritzmuseum auf. Die Fahrt vorbei am Torre Sant'Angelo bietet eine beißende Seebrise, also sind Thermohandschuhe wichtig. Beenden Sie den Nachmittag gemütlich im Lula Paluza und Baffo Bianco, bevor die Sonne untergeht. Tragen Sie mehrere Schichten, um den kalten Küstenwind abzuwehren.",
+            "hu": "Öltözzön fel melegen a téli kerékpározáshoz: a San Giuseppe templomtól indulva a múzeumban melegedhet fel. Délben a parti szél a torony és a halászházak felé metsző lehet, így a termokesztyű kötelező. Zárja a fagyos délutánt a Lula Paluza és a Baffo Bianco melegében, még a korai sötétedés előtt. A réteges öltözködés létfontosságú a menetszél ellen.",
+            "ro": "Înfofoliți-vă pentru o plimbare rapidă de iarnă, începând de la San Giuseppe și încălzindu-vă în Muzeul Lemnului Dulce. Plimbarea de prânz pe lângă Torre Sant'Angelo are o briză aspră, deci mănușile termice sunt esențiale. Încheiați după-amiaza la Lula Paluza și Baffo Bianco înainte de apus. Purtați straturi pentru a bloca vânturile reci de coastă.",
+            "en": "Bundle up for a brisk winter cycle, starting at San Giuseppe and warming up inside the Licorice Museum. The midday ride past Torre Sant'Angelo features a biting sea breeze, so thermal gloves are essential. Conclude your crisp afternoon with cozy stops at Lula Paluza and Baffo Bianco before the sun sets early at 17:00. Layer up well to block the chilling coastal winds while riding."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese ruhige Kirche ein, um Ihre Finger nach der anfänglichen kalten Morgenfahrt durch die winterliche Stadt wieder aufzuwärmen.",
+                "hu": "Lépjen be ebbe a nyugodt templomba, hogy felmelegítse az ujjait a kezdeti, hideg reggeli kerékpározás után a fagyos téli városban.",
+                "ro": "Pășiți în această biserică liniștită pentru a vă încălzi degetele după plimbarea inițială și rece de dimineață prin orașul amorțit de iarnă.",
+                "en": "Step inside this tranquil church to briefly warm your freezing fingers after the initial cold morning bicycle ride through the chilled town streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Liquirizia",
+                "hu": "Museo della Liquirizia",
+                "ro": "Museo della Liquirizia",
+                "en": "Museo della Liquirizia"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie drinnen auf, während Sie die Geschichte der Lakritze entdecken, ein wunderbar warmes und süßes Museumserlebnis nach dem kalten Radeln.",
+                "hu": "Olvadjon ki a belső terekben az édesgyökér történetének felfedezése közben; ez egy csodálatosan meleg és édes élmény a hideg tekerés után.",
+                "ro": "Dezghețați-vă în interior în timp ce descoperiți istoria lemnului dulce, o experiență de muzeu minunat de caldă și dulce, perfectă iarna.",
+                "en": "Thaw out completely indoors while discovering the history of Amarelli licorice, a wonderfully warm and sweet museum experience perfect for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Angelo",
+                "hu": "Torre Sant'Angelo",
+                "ro": "Torre Sant'Angelo",
+                "en": "Torre Sant'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Küstenwind ist hier sehr stark, halten Sie Ihren Schal also eng, während Sie diesen historischen steinernen Wachturm bewundern.",
+                "hu": "A téli tengerparti szél itt rendkívül erős, ezért tartsa szorosan a sálját, miközben megcsodálja ezt a történelmi, vízparti kő őrtornyot.",
+                "ro": "Vântul de iarnă de coastă este puternic aici, deci țineți-vă eșarfa strâns în timp ce admirați acest turn de veghe istoric și pitoresc la mare.",
+                "en": "The coastal winter wind is absolutely fierce here, so keep your scarf tight while quickly admiring this historic seaside watchtower from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Case dei pescatori",
+                "hu": "Case dei pescatori",
+                "ro": "Case dei pescatori",
+                "en": "Case dei pescatori"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an diesen charmanten winterlich geprägten Häusern vorbei und halten Sie ein stetiges Tempo, um in der frischen Meeresluft warm zu bleiben.",
+                "hu": "Tekerjen el ezen a bájos, téli hangulatú halászházak mellett, egyenletes tempót tartva, hogy teste melegen maradjon a csípős tengeri levegőn.",
+                "ro": "Treceți cu bicicleta pe lângă aceste case fermecătoare bătute de iarnă, menținând un ritm constant pentru a vă încălzi în aerul proaspăt al mării.",
+                "en": "Cycle steadily past these charming winter-battered houses, keeping a good physical pace to ensure your body stays warm in the crisp seaside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Lula Paluza",
+                "hu": "Lula Paluza",
+                "ro": "Lula Paluza",
+                "en": "Lula Paluza"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein schnelles Heißgetränk an, um Ihre Körpertemperatur am frischen Winternachmittag wiederherzustellen, bevor Sie weiterfahren.",
+                "hu": "Álljon meg egy gyors forró italra, hogy helyreállítsa testhőmérsékletét a csípős téli délutánban, mielőtt továbbfolytatná a bringatúrát.",
+                "ro": "Opriți-vă pentru o băutură caldă rapidă pentru a vă restabili temperatura corpului în după-amiaza răcoroasă de iarnă înainte de a continua drumul.",
+                "en": "Stop for a quick hot drink here to effectively restore your core body temperature in the brisk winter afternoon before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Baffo Bianco",
+                "hu": "Baffo Bianco",
+                "ro": "Baffo Bianco",
+                "en": "Baffo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt bei kaltem Wetter an diesem gemütlichen Ort und entspannen Sie sich drinnen, bevor die frühe Winterdunkelheit hereinbricht.",
+                "hu": "Zárja a hideg időjárásos túrát ezen a barátságos, meleg helyen, és pihenjen a belső térben, mielőtt a korai, 17:00 órás téli sötétség leszáll.",
+                "ro": "Terminați-vă călătoria pe vreme rece în acest loc confortabil, relaxându-vă în interior înainte ca întunericul timpuriu al iernii să sosească.",
+                "en": "Finish your cold-weather ride in this cozy venue, relaxing indoors with a hot drink before the early winter darkness completely takes over by 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a reggelt a városközpont békés vallási építészetének felfedezésével, majd haladjon a világhírű édesgyökér-múzeum felé. A dél tökéletes az ipari örökség megismerésére, mielőtt a partra indulna. Délután fedezze fel a történelmi védőtornyokat és az autentikus halászházakat. Zárja a napot a tengerparti helyszínek egyikén, élvezve a nyüzsgő, mégis pihentető hangulatot.",
         "ro": "Începeți dimineața explorând arhitectura religioasă liniștită din centrul orașului, mergând apoi spre celebrul muzeu al lemnului dulce. Prânzul este perfect pentru a înțelege moștenirea industrială dulce înainte de a vă îndrepta spre coastă. După-amiaza, descoperiți turnuri defensive istorice și case autentice de pescari. Încheiați ziua relaxându-vă în locurile vibrante de pe coastă.",
         "en": "Start your morning exploring the serene religious architecture in the town center, gradually moving towards the world-famous licorice museum. Midday is perfect for understanding the sweet industrial heritage before heading towards the coastline. In the afternoon, discover historical defensive towers and authentic fishermen's dwellings. Conclude your day relaxing by the vibrant coastal spots."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zur Kirche San Giuseppe, parken Sie in der Nähe für einen trockenen Besuch im Lakritzmuseum. Mittags navigieren Sie vorsichtig auf nassen Küstenstraßen, um Torre Sant'Angelo und die Fischerhäuser vom Auto aus zu sehen. Der Nachmittag endet mit geschützten Stopps bei Gipsy und Baffo Bianco. Genießen Sie die Sitzheizung und halten Sie einen Regenschirm für kurze Wege bereit.",
+            "hu": "A fűtött autós túra az esős reggelen a templomnál indul, a múzeum pedig kellemes, száraz benti programot nyújt. Délben a vizes, csúszós parti utakon óvatosan vezetve az autóból is megcsodálhatja a tornyot és a régi halászházakat. Délután a Gipsy és a Baffo Bianco kényelmes, fedett lezárást biztosít. Készítse elő az esernyőjét a parkoló és a bejárat közötti rövid sétákhoz.",
+            "ro": "Conduceți spre biserica San Giuseppe, apoi parcați pentru o vizită uscată la Muzeul Lemnului Dulce. La prânz, navigați cu grijă pe drumurile umede pentru a vedea Torre Sant'Angelo din confortul mașinii. După-amiaza se încheie cu opriri adăpostite la Gipsy și Baffo Bianco. Bucurați-vă de scaunele încălzite și țineți o umbrelă la îndemână pentru scurte plimbări de la parcare.",
+            "en": "Drive through the rainy morning to San Giuseppe church, then park nearby for a dry visit to the Licorice Museum. By midday, carefully navigate the wet coastal roads to see Torre Sant'Angelo and the fishermen's houses from the comfort of your car. The afternoon wraps up with sheltered stops at Gipsy and Baffo Bianco. Enjoy the heated seats and keep an umbrella handy for short walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm bereit für den kurzen Sprint von Ihrem Auto zum einladenden, trockenen Inneren dieser lokalen Kirche.",
+                "hu": "Készítse elő az esernyőjét a rövid és gyors sprinthez az autója és a helyi templom hívogató, teljesen száraz és csendes belső tere között.",
+                "ro": "Țineți umbrela pregătită pentru sprintul scurt de la mașina dvs. la interiorul primitor și complet uscat al acestei frumoase biserici locale.",
+                "en": "Keep your umbrella fully ready for the quick, wet dash from your parked car to the welcoming and entirely dry interior of this local church."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Liquirizia",
+                "hu": "Museo della Liquirizia",
+                "ro": "Museo della Liquirizia",
+                "en": "Museo della Liquirizia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und verbringen Sie ausreichend Zeit in diesem faszinierenden Museum, eine perfekte Indoor-Aktivität für einen Regentag.",
+                "hu": "Parkoljon a közelben, és töltsön elegendő időt ebben a lenyűgöző múzeumban, amely tökéletes beltéri program egy esős, viharos napon.",
+                "ro": "Parcați aproape și petreceți timp suficient în interiorul acestui muzeu fascinant, o activitate indoor perfectă pentru a evita ploile abundente.",
+                "en": "Park close by and spend ample time inside this highly engaging museum, serving as a perfect indoor activity to completely avoid a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Angelo",
+                "hu": "Torre Sant'Angelo",
+                "ro": "Torre Sant'Angelo",
+                "en": "Torre Sant'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen robusten Küstenturm sicher durch Ihre Autofenster, wenn der Regen und die Seewinde für einen Spaziergang zu stark sind.",
+                "hu": "Csodálja meg ezt a robusztus parti tornyot biztonságosan a lehúzott ablakon keresztül, ha az eső és a tengeri szél túl erős lenne a sétához.",
+                "ro": "Admirați acest turn de coastă robust în siguranță prin geamurile mașinii dvs., dacă ploaia și vânturile mării sunt mult prea puternice.",
+                "en": "Admire this robust coastal tower safely through your car windows if the driving rain and intense sea winds are just too heavy to step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Case dei pescatori",
+                "hu": "Case dei pescatori",
+                "ro": "Case dei pescatori",
+                "en": "Case dei pescatori"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig an diesen Häusern vorbei; die nassen Küstenstraßen können glatt sein, aber die Aussicht ist stimmungsvoll und wunderschön.",
+                "hu": "Vezessen óvatosan a történelmi házak mellett; a nedves parti utak csúszósak lehetnek, de a kilátás borongós és egyben gyönyörű az autóból.",
+                "ro": "Conduceți cu atenție pe lângă aceste case; drumurile de coastă umede pot fi alunecoase, dar priveliștea este cu adevărat plină de atmosferă.",
+                "en": "Drive carefully past these historic houses; the wet coastal roads can be slick for tires, but the moody view is quite beautiful from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gipsy",
+                "hu": "Gipsy",
+                "ro": "Gipsy",
+                "en": "Gipsy"
+              },
+              "tip_5lang": {
+                "de": "Hasten Sie von Ihrem Auto zu diesem gemütlichen Ort, schütteln Sie Ihren Schirm ab und genießen Sie eine angenehme, trockene Pause drinnen.",
+                "hu": "Szaladjon át az autóból erre a hangulatos helyre, rázza le az esernyőjét, és élvezze a kellemes, száraz beltéri szünetet a heves eső elől.",
+                "ro": "Grăbiți-vă din mașină în acest loc confortabil, scuturați-vă umbrela și bucurați-vă de o pauză interioară plăcută și complet uscată.",
+                "en": "Make a quick dash from your car to this cozy recreational spot, shaking off your wet umbrella to enjoy a highly pleasant, dry indoor break."
+              }
+            },
+            {
+              "name": {
+                "de": "Baffo Bianco",
+                "hu": "Baffo Bianco",
+                "ro": "Baffo Bianco",
+                "en": "Baffo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre regnerische Fahrt an diesem komfortablen Ort, wo Sie drinnen entspannen und dem Regen an der Küste sicher zusehen können.",
+                "hu": "Zárja az esős autózást ezen a kényelmes helyen, ahol a belső térben pihenhet, és biztonságban nézheti az ablakból a parti záporokat.",
+                "ro": "Încheiați-vă plimbarea ploioasă în acest loc extrem de confortabil, unde vă puteți relaxa în interior și urmări ploaia spălând întreaga coastă.",
+                "en": "Conclude your rainy driving tour at this comfortable venue, where you can relax thoroughly indoors and watch the heavy rain wash over the coast."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine beheizte Winterfahrt zur Kirche San Giuseppe und eine warme Tour im Lakritzmuseum. Mittags bietet sich ein klarer Blick auf Torre Sant'Angelo und die Fischerhäuser an der kalten Küste. Beenden Sie den Nachmittag bei Gipsy und Baffo Bianco, perfekt getimt vor der frühen Dämmerung um 17:00 Uhr. Die Autoheizung ist Ihr bester Freund gegen die steife Seebrise heute.",
+            "hu": "Élvezze a fűtött téli autózást a San Giuseppe templomtól indulva, majd melegedjen fel az Édesgyökér Múzeumban. Délben tiszta, fagyos kilátás nyílik a toronyra és a halászházakra a csípős parton. Zárja a délutánt a Gipsy és a Baffo Bianco melegében, még a korai, 17:00 órás sötétedés előtt. Az autó fűtése lesz a legjobb barátja a metsző tengeri széllel szemben.",
+            "ro": "Bucurați-vă de o plimbare de iarnă încălzită începând la San Giuseppe, urmată de un tur cald la Muzeul Lemnului Dulce. Prânzul oferă vederi clare asupra Torre Sant'Angelo și a caselor pescarilor pe coasta rece. Încheiați la Gipsy și Baffo Bianco, perfect înainte de apusul de la 17:00. Încălzitorul mașinii este cel mai bun prieten împotriva brizei mării.",
+            "en": "Enjoy a heated winter drive starting at San Giuseppe church, followed by a warm tour at the Licorice Museum. Midday offers clear, crisp views of Torre Sant'Angelo and the fishermen's houses along the chilled coast. Conclude the afternoon at Gipsy and Baffo Bianco, perfectly timed before the early dusk at 17:00. The car's heater is your best friend against the biting sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie die Wärme Ihres Autos nur kurz, um die friedliche, historische Atmosphäre in dieser lokalen Kirche zu bewundern.",
+                "hu": "Csak röviden hagyja el az autó kellemes melegét, hogy megcsodálja a békés, történelmi atmoszférát ezen helyi templom falai között a hidegben.",
+                "ro": "Părăsiți căldura mașinii doar pentru scurt timp pentru a admira atmosfera pașnică și istorică din interiorul acestei biserici locale de iarnă.",
+                "en": "Leave the cozy warmth of your car only briefly to thoroughly admire the peaceful, historic atmosphere inside this traditional local church."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo della Liquirizia",
+                "hu": "Museo della Liquirizia",
+                "ro": "Museo della Liquirizia",
+                "en": "Museo della Liquirizia"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer winterlicher Stopp; verbringen Sie eine warme Stunde drinnen und lernen Sie die dunkle Geschichte der kalabrischen Lakritze kennen.",
+                "hu": "Fantasztikus téli megálló; töltsön el egy meleg órát bent, és ismerje meg a calabriai édesgyökér gazdag és sötét történelmét a hideg napon.",
+                "ro": "O oprire de iarnă fantastică; petreceți o oră caldă în interior învățând despre istoria bogată și întunecată a lemnului dulce calabrean.",
+                "en": "A simply fantastic winter stop; spend an hour completely indoors learning about the rich, dark history of Calabrian licorice in a heated space."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Angelo",
+                "hu": "Torre Sant'Angelo",
+                "ro": "Torre Sant'Angelo",
+                "en": "Torre Sant'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie nur für ein kurzes Foto des Turms aus und ziehen Sie sich dann schnell in Ihr beheiztes Auto zurück, um dem Wind zu entkommen.",
+                "hu": "Szálljon ki csak néhány percre a torony gyors lefotózásához, majd vonuljon vissza a fűtött autójába, hogy elmeneküljön a metsző parti széltől.",
+                "ro": "Ieșiți doar câteva minute pentru a fotografia turnul, apoi retrageți-vă rapid în mașina încălzită pentru a scăpa de vântul rece al mării.",
+                "en": "Step out for just a few brisk minutes to photograph the tower, then quickly retreat to your heated car to fully escape the freezing coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Case dei pescatori",
+                "hu": "Case dei pescatori",
+                "ro": "Case dei pescatori",
+                "en": "Case dei pescatori"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie an diesen historischen Fischerhäusern vorbei und schätzen Sie ihren winterlichen Charme aus der Gemütlichkeit Ihres Fahrzeugs.",
+                "hu": "Guruljon el ezen történelmi halászházak mellett, és élvezze azok különleges, téli báját a járműve fűtött és maximális kényelméből nézve.",
+                "ro": "Treceți cu mașina pe lângă aceste case istorice de pescari, apreciind farmecul lor de iarnă din confortul absolut al vehiculului dumneavoastră.",
+                "en": "Cruise comfortably past these historic fishermen's houses, easily appreciating their rustic wintery charm from the cozy, heated comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Gipsy",
+                "hu": "Gipsy",
+                "ro": "Gipsy",
+                "en": "Gipsy"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier am frischen Nachmittag einen kurzen Stopp und genießen Sie die warme Atmosphäre, wenn die Wintertemperaturen stark sinken.",
+                "hu": "Tegyen itt egy rövid kitérőt a csípős délutánon, és élvezze a meleg, benti légkört, ahogy a téli hőmérséklet drasztikusan csökkenni kezd.",
+                "ro": "Faceți o scurtă oprire aici în după-amiaza răcoroasă, bucurându-vă de o atmosferă caldă în interior pe măsură ce temperaturile de iarnă scad.",
+                "en": "Make a highly pleasant stop here in the brisk afternoon, enjoying a warm indoor atmosphere just as the outside winter temperatures visibly begin to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Baffo Bianco",
+                "hu": "Baffo Bianco",
+                "ro": "Baffo Bianco",
+                "en": "Baffo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt sicher drinnen an diesem entspannenden Ort und vermeiden Sie die Kälte, wenn die Wintersonne bis 17:00 Uhr untergeht.",
+                "hu": "Fejezze be az autózást biztonságos és meleg belső térben ezen a pihentető helyen, elkerülve a fagyot, ahogy a téli nap 17:00 körül teljesen lebukik.",
+                "ro": "Încheiați-vă conducerea în siguranță în interior în acest loc relaxant, evitând complet temperaturile scăzute pe măsură ce soarele de iarnă apune.",
+                "en": "End your drive safely indoors at this very relaxing spot, effectively avoiding the dropping temperatures as the winter sun ultimately sets by 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

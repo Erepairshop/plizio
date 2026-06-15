@@ -137,6 +137,168 @@
         "hu": "A Glencolmcille-i reggel a történelmi zarándokutak és misztikus állókövek felfedezésével indul. A zöldellő dombok között sétálva megtapasztaljuk a völgy ősi történetét és a kora keresztény örökséget. Délben meglátogatjuk a St. Faned kutat, mielőtt felfedeznénk az elmúlt évszázadok autentikus életét a lenyűgöző Folk Village Múzeumban. Délután a séta továbbvezet az idilli falun át, hogy élvezzük a békés part menti tájat az An Trá Bheag strandon. Nyugodt napunkat az óceánnál fejezzük be, ahol a friss ír tengeri levegő és a hullámok morajlása tökéletes lezárást nyújt.",
         "ro": "Dimineața în Glencolmcille începe cu explorarea traseelor istorice de pelerinaj și a pietrelor mistice. Ne plimbăm prin dealurile verzi, simțind istoria străveche a văii și moștenirea creștină timpurie. La prânz, vizităm fântâna St. Faned înainte de a descoperi viața autentică a secolelor trecute la fascinantul Folk Village Museum. După-amiaza, plimbarea ne conduce prin satul idilic pentru a ne bucura de peisajul de coastă liniștit la An Trá Bheag. Ne încheiem ziua relaxantă la ocean, unde aerul proaspăt al mării irlandeze și sunetul valurilor oferă un final perfect.",
         "en": "The morning in Glencolmcille begins with an exploration of historic pilgrimage routes and mystical standing stones. We wander through the rolling green hills, sensing the ancient history of the valley and diving deep into the region's early Christian heritage. By midday, we visit St. Faned's Well before discovering the authentic life of past centuries at the fascinating Folk Village Museum. In the afternoon, our walk leads us further through the idyllic village to enjoy the peaceful coastal scenery at An Trá Bheag. We end our relaxing day by the ocean, where the fresh Irish sea air and crashing waves provide a perfect conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit dem Turas-Pfad, wo der Nebel mystisch über den Steinen liegt; gute Regenbekleidung ist hier Pflicht. Mittags bieten die historischen Stätten wenig Schutz, planen Sie also kurze Stopps ein. Der Nachmittag gehört dem Folk Village Museum, dessen reetgedeckte Häuser perfekten Unterschlupf vor dem Guss bieten. Abends wirkt die Bucht bei Regen besonders dramatisch.",
+            "hu": "Reggel a ködös dombok között kezdjük a zarándokutat, ahol az eső misztikus hangulatot áraszt a régi kereszteknél. Délben a falut járva keressünk fedett helyet a szitáló eső elől a kőfalak mentén. Délután a Skanzen nádfedeles házai nyújtanak tökéletes menedéket és történelmi betekintést. Estére az öböl morajlása kíséri utunkat, érdemes vízhatlan öltözetben maradni a part menti szélben.",
+            "ro": "Începeți dimineața pe traseul Turas, unde ceața se așterne mistic peste pietre; îmbrăcămintea impermeabilă este esențială aici. La prânz, siturile istorice oferă puțin adăpost, așa că planificați opriri scurte. După-amiaza aparține Muzeului Folk Village, ale cărui căsuțe cu acoperiș de stuf oferă refugiul perfect. Seara, golful pare deosebit de dramatic sub ploaia deasă.",
+            "en": "Start the day on the Turas path, where the mist hangs mystically over the ancient stones; waterproof gear is essential here. At noon, the historic sites offer little shelter, so plan for quick visits between showers. The afternoon is best spent at the Folk Village Museum, where thatched cottages provide perfect cover. In the evening, the bay looks particularly dramatic under the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turas Ghleann Cholm Cille",
+                "hu": "Turas Ghleann Cholm Cille",
+                "ro": "Turas Ghleann Cholm Cille",
+                "en": "Turas Ghleann Cholm Cille"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Stationen trotz des Regens mit rutschfesten Wanderschuhen, da die grasbewachsenen Pfade zwischen den Steinen sehr schlammig werden können.",
+                "hu": "Fedezze fel az ősi állomásokat esőben is, de viseljen csúszásmentes bakancsot, mert a kövek közötti füves ösvények ilyenkor rendkívül sárossá és síkossá válnak.",
+                "ro": "Explorați stațiile antice chiar și pe ploaie cu ghete aderente, deoarece cărările de iarbă dintre pietre pot deveni extrem de noroioase și alunecoase acum.",
+                "en": "Explore the ancient stations even in the rain with sturdy boots, as the grassy paths between the stones can become extremely muddy and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Turas",
+                "hu": "Glencolumbkille Turas",
+                "ro": "Glencolumbkille Turas",
+                "en": "Glencolumbkille Turas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Guss Schutz unter den Bäumen nahe der Kirche, während Sie die eingravierten Kreuze auf den Steinplatten im weichen Regenlicht bewundern.",
+                "hu": "Heves zápor esetén keressen menedéket a templom melletti fák alatt, miközem a kőlapokba vésett kereszteket csodálja a lágy, esős fényviszonyok között.",
+                "ro": "În caz de aversă puternică, căutați adăpost sub copacii de lângă biserică în timp ce admirați crucea gravată pe plăcile de piatră în lumina difuză de ploaie.",
+                "en": "In case of heavy downpours, seek temporary shelter under the trees near the church while admiring the engraved crosses on the stone slabs in soft rain light."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Faned's Well",
+                "hu": "St. Faned's Well",
+                "ro": "St. Faned's Well",
+                "en": "St. Faned's Well"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Besuch an der Quelle kurz und nutzen Sie einen Regenschirm, da der Zugangsweg bei Nässe tückisch glatt sein kann, besonders an den Rändern.",
+                "hu": "Tartsa rövidre a látogatást a forrásnál és használjon esernyőt, mivel a hozzávezető út nedvesen csalókán csúszós lehet, különösen a köves széleken.",
+                "ro": "Vizitați scurt fântâna și folosiți o umbrelă, deoarece calea de acces poate fi înșelător de alunecoasă când este udă, mai ales pe marginile pietruite.",
+                "en": "Keep your visit to the well brief and use an umbrella, as the access path can be deceptively slippery when wet, especially along the stony edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Folk Village Museum",
+                "hu": "Folk Village Museum",
+                "ro": "Folk Village Museum",
+                "en": "Folk Village Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume der historischen Hütten als ideales Schlechtwetterprogramm und wärmen Sie sich im Teeraum bei einer Tasse heißen Tees auf.",
+                "hu": "Használja ki a történelmi kunyhók belső tereit ideális esőnapi programként, és melegedjen fel a teázóban egy csésze forró ital mellett a zápor alatt.",
+                "ro": "Profitați de interioarele colibelor istorice ca program ideal pentru zile ploioase și încălziți-vă în ceainărie cu o cană de ceai fierbinte în timpul ploii.",
+                "en": "Take advantage of the historic cottage interiors as an ideal rainy-day activity and warm up in the tea room with a hot drink while waiting out the shower."
+              }
+            },
+            {
+              "name": {
+                "de": "An Trá Bheag (Trá Bheag an Ghleanna)",
+                "hu": "An Trá Bheag (Trá Bheag an Ghleanna)",
+                "ro": "An Trá Bheag (Trá Bheag an Ghleanna)",
+                "en": "An Trá Bheag (Trá Bheag an Ghleanna)"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer von einem geschützten Punkt aus und meiden Sie die direkte Uferlinie, da die Gischt bei Wind weit nach oben spritzt.",
+                "hu": "Figyelje a felkorbácsolt tengert egy védettebb pontról, és kerülje a közvetlen vízpartot, mert a szélben a tajték messzire felcsaphat a homokos parton.",
+                "ro": "Observați marea agitată dintr-un punct protejat și evitați linia țărmului, deoarece spuma mării poate fi aruncată departe pe plajă de vântul puternic.",
+                "en": "Observe the churning sea from a sheltered vantage point and avoid the direct shoreline, as the wind can blow sea spray far up the sandy beach area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Turas-Pfad bietet klare Sicht und eine stille, spirituelle Atmosphäre. Mittags sollten Sie die hellen Stunden für die Wanderung zu den Quellen nutzen, bevor die Kälte anzieht. Der Nachmittag im Folk Village bietet gemütliche Wärme in den rekonstruierten Küchen. Da es gegen 17:00 Uhr dunkel wird, beenden Sie den Tag frühzeitig bei einem Kaminfeuer im Dorf.",
+            "hu": "A fagyos reggelen a zúzmarás táj különleges keretet ad a Turas állomásainak felfedezéséhez. Délben a halvány téli napsütésben sétálunk a szent kutak felé, réteges öltözetben dacolva a hideggel. Délután a Skanzen meleg belső terei hívogatnak, mielőtt a korai sötétedés leszállna. Este a tengerparti sziklák felett már a csillagok ragyognak, a falu fényei barátságos célpontot jelentenek.",
+            "ro": "O dimineață geroasă pe traseul Turas oferă vizibilitate clară și o atmosferă liniștită, spirituală. La prânz, profitați de orele cu lumină pentru drumeția spre fântâni. După-amiaza la Folk Village oferă căldură primitoare în bucătăriile reconstruite. Deoarece se întunecă în jurul orei 17:00, încheiați ziua devreme lângă un foc de șemineu în sat.",
+            "en": "A frosty morning on the Turas path offers clear views and a quiet, spiritual atmosphere. At noon, use the daylight hours for the hike to the wells before the chill sets in. The afternoon at the Folk Village provides cozy warmth in the reconstructed kitchens. As it gets dark by 5:00 PM, end your day early by a fireplace in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turas Ghleann Cholm Cille",
+                "hu": "Turas Ghleann Cholm Cille",
+                "ro": "Turas Ghleann Cholm Cille",
+                "en": "Turas Ghleann Cholm Cille"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei den Steinen, aber tragen Sie Thermokleidung, da der Wind ungehindert über die offenen Hügel pfeift.",
+                "hu": "Élvezze a tiszta téli levegőt a köveknél, de viseljen hőtartó aláöltözetet, mert a szél akadálytalanul süvít át a nyitott domboldalakon.",
+                "ro": "Bucurați-vă de aerul curat de iarnă lângă pietre, dar purtați haine termice, deoarece vântul suflă nestingherit peste dealurile deschise.",
+                "en": "Enjoy the crisp winter air by the stones, but wear thermal layers as the wind whistles unobstructed across the open hillsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Turas",
+                "hu": "Glencolumbkille Turas",
+                "ro": "Glencolumbkille Turas",
+                "en": "Glencolumbkille Turas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Steinplatten; die tiefstehende Wintersonne lässt die Inschriften oft besonders plastisch erscheinen.",
+                "hu": "Ügyeljen a fagyott tócsákra a kőlapokon; az alacsonyan járó téli nap gyakran különösen plasztikussá teszi a feliratok látványát.",
+                "ro": "Aveți grijă la bălțile înghețate de pe plăcile de piatră; soarele jos de iarnă face adesea ca inscripțiile să pară deosebit de clare.",
+                "en": "Watch out for frozen puddles on the stone slabs; the low winter sun often makes the inscriptions appear particularly sharp and vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Faned's Well",
+                "hu": "St. Faned's Well",
+                "ro": "St. Faned's Well",
+                "en": "St. Faned's Well"
+              },
+              "tip_5lang": {
+                "de": "Die Quelle friert selten ein, aber der Boden drumherum kann hartgefroren sein; gehen Sie vorsichtig, um nicht auf dem harten Untergrund auszurutschen.",
+                "hu": "A forrás ritkán fagy be, de a környékén a talaj keményre fagyhat; járjon óvatosan, nehogy megcsússzon a fagyos földön.",
+                "ro": "Fântâna îngheață rar, dar solul din jur poate fi înghețat bocnă; mergeți cu atenție pentru a nu aluneca pe terenul dur.",
+                "en": "The well rarely freezes, but the ground around it can be frozen hard; walk carefully to avoid slipping on the icy surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Folk Village Museum",
+                "hu": "Folk Village Museum",
+                "ro": "Folk Village Museum",
+                "en": "Folk Village Museum"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die authentische Winteratmosphäre der Highlands und genießen Sie die traditionelle Handwerkskunst in den beheizten Ausstellungsräumen.",
+                "hu": "Tapasztalja meg a felföldi tél hiteles hangulatát, és csodálja meg a hagyományos kézműves tárgyakat a fűtött kiállítóterekben.",
+                "ro": "Experimentați atmosfera autentică de iarnă din munți și admirați măiestria tradițională în spațiile de expoziție încălzite.",
+                "en": "Experience the authentic winter atmosphere of the Highlands and admire the traditional crafts in the heated exhibition spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "An Trá Bheag (Trá Bheag an Ghleanna)",
+                "hu": "An Trá Bheag (Trá Bheag an Ghleanna)",
+                "ro": "An Trá Bheag (Trá Bheag an Ghleanna)",
+                "en": "An Trá Bheag (Trá Bheag an Ghleanna)"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Strandspaziergang vor Sonnenuntergang (ca. 16:30 Uhr), um das violette Licht über den Winterwellen einzufangen.",
+                "hu": "Tegyen egy rövid tengerparti sétát naplemente előtt (kb. 16:30), hogy elcsípje a téli hullámok feletti lila fényeket.",
+                "ro": "Faceți o scurtă plimbare pe plajă înainte de apus (aprox. 16:30) pentru a surprinde lumina violetă peste valurile de iarnă.",
+                "en": "Take a short beach walk before sunset (around 4:30 PM) to catch the beautiful purple light over the winter waves."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpártúránk a lenyűgöző Farranmacbride Court Tomb-nál kezdődik, amely betekintést nyújt Írország őskorába. Ezután az ősi zarándokút szent köveihez tekerünk. A friss szél felélénkíti érzékeinket. Délben felfedezzük a Folk Village Múzeumot, ahol a vidéki élet története kézzelfoghatóvá válik. Később történelmi emlékek között pihenünk meg. Délután a parthoz, a pompás Trá an Ghleanna homokos strandjához tekerünk, ahol a vad hullámok megtörnek. Este végül feltekerünk a Glencolumbkille kilátóponthoz, hogy megcsodáljuk a naplemente nyújtotta drámai és látványos panorámát.",
         "ro": "Turul nostru cu bicicleta începe la mormântul Farranmacbride, oferind o perspectivă profundă asupra preistoriei Irlandei. Apoi pedalăm spre pietrele sacre ale vechiului traseu de pelerinaj. Briza proaspătă ne trezește simțurile. La prânz explorăm Folk Village Museum, unde istoria vieții rurale devine palpabilă. Mai târziu ne odihnim printre relicve istorice. După-amiaza, mergem pe coastă la frumoasa plajă de nisip Trá an Ghleanna, unde valurile sălbatice se sparg. Seara, pedalăm în cele din urmă la punctul de belvedere Glencolumbkille pentru a admira panorama spectaculoasă a apusului de soare.",
         "en": "Our bike ride starts at the impressive Farranmacbride Court Tomb, offering deep insights into Ireland's prehistory. We then cycle to the sacred stones of the ancient pilgrimage route. The fresh breeze awakens our senses. At midday, we explore the Folk Village Museum, where the history of rural life becomes wonderfully tangible. We then recharge amid historical relics. In the afternoon, we head to the coast to the magnificent sandy beach of Trá an Ghleanna, where wild waves crash against the shore. In the evening, we finally pedal up to the Glencolumbkille Viewpoint to admire the spectacular sunset panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert volle Aufmerksamkeit auf den schlüpfrigen Landstraßen; starten Sie vorsichtig Richtung Farranmacbride. Mittags bieten die historischen Turas-Stationen kaum Windschutz, bleiben Sie also in Bewegung. Der Nachmittag im Museum ist die ideale Pause zum Abtrocknen. Abends führen die nassen Straßen zurück ins Dorf, achten Sie auf schlechte Sicht durch den Sprühregen.",
+            "hu": "A biciklitúra esőben teljes figyelmet igényel a csúszós mellékutakon; induljunk óvatosan Farranmacbride felé. Délben a Turas állomásoknál alig van szélvédelem, maradjunk mozgásban a hűvös esőben. A délutáni múzeumlátogatás ideális szünet a száradáshoz. Este a nedves utakon guruljunk vissza a faluba, figyelve a szitáló eső okozta rossz látási viszonyokra.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție maximă pe drumurile alunecoase; porniți cu grijă spre Farranmacbride. La prânz, stațiile Turas oferă puțină protecție contra vântului, deci rămâneți în mișcare. După-amiaza la muzeu este pauza ideală pentru a vă usca. Seara, drumurile ude vă conduc înapoi în sat; atenție la vizibilitatea redusă.",
+            "en": "Cycling in the rain requires full attention on the slippery backroads; start carefully towards Farranmacbride. At noon, the Turas stations offer little wind protection, so keep moving. The afternoon museum visit is the ideal break to dry off. In the evening, the wet roads lead back to the village; watch out for poor visibility due to the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Farranmacbride Court Tomb",
+                "hu": "Farranmacbride Court Tomb",
+                "ro": "Farranmacbride Court Tomb",
+                "en": "Farranmacbride Court Tomb"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Straßenrand und achten Sie auf den aufgeweichten Boden beim Zugang zum Grabmal, um nicht auszurutschen.",
+                "hu": "Parkolja le biztonságosan a kerékpárt az út szélén, és ügyeljen a felázott talajra a sírhelyhez vezető úton, hogy elkerülje az elcsúszást.",
+                "ro": "Parcați bicicleta în siguranță pe marginea drumului și atenție la solul moale de la accesul spre mormânt pentru a nu aluneca.",
+                "en": "Park your bike safely by the roadside and watch out for the soft ground on the access path to the tomb to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Turas Ghleann Cholm Cille",
+                "hu": "Turas Ghleann Cholm Cille",
+                "ro": "Turas Ghleann Cholm Cille",
+                "en": "Turas Ghleann Cholm Cille"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Schutzbleche an Ihrem Fahrrad, um den Schlamm der ländlichen Wege fernzuhalten, während Sie die Stationen im Regen besuchen.",
+                "hu": "Használjon sárvédőt a biciklin, hogy távol tartsa a vidéki utak sarát, miközben esőben látogatja végig a zarándokút állomásait.",
+                "ro": "Folosiți apărători de noroi la bicicletă pentru a evita noroiul de pe drumurile rurale în timp ce vizitați stațiile pe ploaie.",
+                "en": "Use mudguards on your bike to keep the mud from rural roads at bay while visiting the stations in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Turas",
+                "hu": "Glencolumbkille Turas",
+                "ro": "Glencolumbkille Turas",
+                "en": "Glencolumbkille Turas"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor den Steinen, da nasse Felgen bei den Abfahrten zwischen den Standorten längere Bremswege verursachen.",
+                "hu": "Fékezzen időben a kövek előtt, mivel a nedves felnik miatt a megállás hosszabb időt vesz igénybe a helyszínek közötti lejtőkön.",
+                "ro": "Frânați din timp înainte de pietre, deoarece jantele ude cauzează distanțe mai mari de frânare pe coborârile dintre situri.",
+                "en": "Brake early before the stones, as wet rims cause longer braking distances on the descents between the various sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Donnchadh Mac Niallghuis",
+                "hu": "Donnchadh Mac Niallghuis",
+                "ro": "Donnchadh Mac Niallghuis",
+                "en": "Donnchadh Mac Niallghuis"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Besichtigung kurz, um nicht auszukühlen; wasserfeste Handschuhe sind beim Greifen der nassen Lenkergriffe sehr hilfreich.",
+                "hu": "Tartsa rövidre a nézelődést, hogy ne hűljön ki; a vízálló kesztyű nagy segítség a nedves kormányfogantyúk markolásakor.",
+                "ro": "Păstrați vizita scurtă pentru a nu vă răci; mănușile impermeabile sunt de mare ajutor când țineți ghidonul ud.",
+                "en": "Keep the sightseeing brief to avoid getting chilled; waterproof gloves are very helpful when gripping wet handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Folk Village Museum",
+                "hu": "Folk Village Museum",
+                "ro": "Folk Village Museum",
+                "en": "Folk Village Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenkleidung zu ordnen, bevor Sie die gemütlichen Innenräume der Ausstellungen erkunden.",
+                "hu": "Használja a fedett bejárati részt az esőruházat rendezésére, mielőtt felfedezné a kiállítások barátságos belső tereit.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă aranja hainele de ploaie înainte de a explora interioarele primitoare ale expozițiilor.",
+                "en": "Use the covered entrance area to sort out your rain gear before exploring the cozy interiors of the museum exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Trá an Ghleanna",
+                "hu": "Trá an Ghleanna",
+                "ro": "Trá an Ghleanna",
+                "en": "Trá an Ghleanna"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Parkplatz; nasser Asphalt und Sand können eine rutschige Mischung für schmale Fahrradreifen sein.",
+                "hu": "Guruljon óvatosan a parkolóba; a nedves aszfalt és a homok csúszós keveréket alkothat a vékony kerékpárgumik számára.",
+                "ro": "Mergeți cu grijă în parcare; asfaltul ud și nisipul pot fi o combinație alunecoasă pentru anvelopele înguste de bicicletă.",
+                "en": "Ride carefully into the parking area; wet asphalt and sand can create a slippery mix for narrow bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Viewpoint",
+                "hu": "Glencolumbkille Viewpoint",
+                "ro": "Glencolumbkille Viewpoint",
+                "en": "Glencolumbkille Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft eingeschränkt, aber die Wolkenformationen über den Klippen bieten dramatische Fotomotive für wasserdichte Kameras.",
+                "hu": "Esőben a kilátás gyakran korlátozott, de a sziklák feletti felhőformációk drámai fotótémát kínálnak a vízálló kamerák számára.",
+                "ro": "Pe ploaie, vederea este adesea limitată, dar formațiunile de nori de deasupra stâncilor oferă subiecte dramatice pentru camerele subacvatice.",
+                "en": "In the rain, views are often limited, but the cloud formations over the cliffs offer dramatic photo opportunities for waterproof cameras."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen ist perfekt für eine zügige Fahrt, um warm zu bleiben; achten Sie auf Reifglätte in den Schattenlagen. Mittags steht die Sonne tief und blendet auf den Landstraßen. Der Nachmittag im Folk Village bietet die nötige Aufwärmpause mit heißem Kaffee. Beenden Sie die Tour unbedingt vor Sonnenuntergang, da die Temperaturen bei Dunkelheit sofort fallen.",
+            "hu": "A tiszta, hideg téli reggel tökéletes a tempós haladáshoz, hogy melegen tartsuk magunkat; ügyeljünk a zúzmarás részekre az árnyékos kanyarokban. Délben az alacsonyan járó nap vakíthat a mellékutakon. A délutáni Skanzen-látogatás biztosítja a szükséges melegedőt egy kávé mellett. A túrát mindenképpen naplemente előtt fejezzük be, mert sötétedéskor a hőmérséklet hirtelen zuhan.",
+            "ro": "O dimineață de iarnă senină și rece este perfectă pentru o cursă rapidă pentru a vă încălzi; atenție la porțiunile cu polei din zonele umbrite. La prânz, soarele jos poate fi orbitor pe drumuri. După-amiaza la Folk Village oferă pauza necesară pentru încălzire cu o cafea. Încheiați tura înainte de apus, deoarece temperaturile scad brusc la lăsarea întunericului.",
+            "en": "A clear, cold winter morning is perfect for a brisk ride to keep warm; watch out for frosty patches in shaded corners. At noon, the low sun can be blinding on the backroads. The afternoon at the Folk Village provides a necessary warm-up break with hot coffee. Be sure to finish the tour before sunset, as temperatures drop sharply once it gets dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Farranmacbride Court Tomb",
+                "hu": "Farranmacbride Court Tomb",
+                "ro": "Farranmacbride Court Tomb",
+                "en": "Farranmacbride Court Tomb"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Überschuhe, da der Fahrtwind bei Minustemperaturen besonders an den Zehen bei der Fahrt zum Grabmal beißt.",
+                "hu": "Viseljen meleg kamáslit, mert a menetszél mínuszokban különösen a lábujjaknál harapós a sírhely felé vezető úton.",
+                "ro": "Purtați huse termice pentru pantofi, deoarece vântul de deplasare la temperaturi negative este tăios, mai ales la degete.",
+                "en": "Wear warm shoe covers, as the wind chill at sub-zero temperatures is particularly biting on your toes while riding to the tomb."
+              }
+            },
+            {
+              "name": {
+                "de": "Turas Ghleann Cholm Cille",
+                "hu": "Turas Ghleann Cholm Cille",
+                "ro": "Turas Ghleann Cholm Cille",
+                "en": "Turas Ghleann Cholm Cille"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne hebt die Texturen der alten Steine hervor; nutzen Sie die kurzen Pausen für Fotos, aber lassen Sie die Handschuhe an.",
+                "hu": "A téli nap kiemeli a régi kövek textúráját; használja ki a rövid szüneteket fotózásra, de hagyja magán a kesztyűt.",
+                "ro": "Soarele de iarnă evidențiază textura pietrelor vechi; profitați de scurte pauze pentru fotografii, dar păstrați-vă mănușile.",
+                "en": "The winter sun highlights the textures of the old stones; take advantage of short breaks for photos, but keep your gloves on."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Turas",
+                "hu": "Glencolumbkille Turas",
+                "ro": "Glencolumbkille Turas",
+                "en": "Glencolumbkille Turas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis auf den gepflasterten Abschnitten nahe der Steine, besonders wenn diese am frühen Morgen noch im Schatten liegen.",
+                "hu": "Ügyeljen a fekete jégre a kövek közeli kövezett szakaszokon, különösen ha azok kora reggel még árnyékban vannak.",
+                "ro": "Atenție la gheața neagră de pe secțiunile pavate de lângă pietre, mai ales dacă acestea sunt încă la umbră dimineața devreme.",
+                "en": "Watch out for black ice on the paved sections near the stones, especially if they are still in the shade during the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Donnchadh Mac Niallghuis",
+                "hu": "Donnchadh Mac Niallghuis",
+                "ro": "Donnchadh Mac Niallghuis",
+                "en": "Donnchadh Mac Niallghuis"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie Ihre Finger regelmäßig, um die Durchblutung während der Fahrt zu fördern; der kalte Wind in dieser offenen Lage ist sehr intensiv.",
+                "hu": "Mozgassa rendszeresen az ujjait, hogy serkentse a vérkeringést haladás közben; a hideg szél ezen a nyitott részen igen intenzív.",
+                "ro": "Mișcați-vă degetele regulat pentru a stimula circulația în timpul mersului; vântul rece în această zonă deschisă este foarte intens.",
+                "en": "Move your fingers regularly to stimulate circulation while riding; the cold wind in this open location is quite intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Folk Village Museum",
+                "hu": "Folk Village Museum",
+                "ro": "Folk Village Museum",
+                "en": "Folk Village Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein heißer Eintopf im Museumscafé ist die beste Belohnung für Winterradler, um den Körper vor der letzten Etappe wieder aufzuwärmen.",
+                "hu": "Egy forró egytálétel a múzeum kávézójában a legjobb jutalom a téli bringásoknak, hogy felmelegítsék testüket az utolsó szakasz előtt.",
+                "ro": "O tocană fierbinte la cafeneaua muzeului este cea mai bună recompensă pentru bicicliștii de iarnă, pentru a se încălzi înainte de ultima etapă.",
+                "en": "A hot stew at the museum cafe is the best reward for winter cyclists to warm up their bodies before the final leg of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Trá an Ghleanna",
+                "hu": "Trá an Ghleanna",
+                "ro": "Trá an Ghleanna",
+                "en": "Trá an Ghleanna"
+              },
+              "tip_5lang": {
+                "de": "Der Strandwind ist im Winter eisig; bleiben Sie nur kurz für einen Blick auf die Brandung und fahren Sie dann zügig weiter.",
+                "hu": "A tengerparti szél télen jeges; csak rövid időre álljon meg megnézni a hullámverést, majd folytassa gyorsan az utat.",
+                "ro": "Vântul de pe plajă este înghețat iarna; opriți-vă doar scurt pentru a vedea valurile, apoi continuați rapid drumul.",
+                "en": "The beach wind is icy in winter; stop only briefly to look at the surf and then quickly continue your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Viewpoint",
+                "hu": "Glencolumbkille Viewpoint",
+                "ro": "Glencolumbkille Viewpoint",
+                "en": "Glencolumbkille Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der „goldenen Stunde“ ist im Winter bereits gegen 15:30 Uhr; nutzen Sie dieses Zeitfenster für spektakuläre Panoramabilder.",
+                "hu": "Az aranyóra fénye télen már 15:30 körül jelentkezik; használja ki ezt az időablakot a látványos panorámaképek készítéséhez.",
+                "ro": "Lumina orei de aur apare iarna deja în jurul orei 15:30; folosiți acest interval pentru fotografii panoramice spectaculoase.",
+                "en": "The golden hour light occurs around 3:30 PM in winter; use this time window for spectacular panoramic photos."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós túránkat a Glencolumbkille kilátónál kezdjük, ahonnan madártávlatból láthatjuk a hatalmas völgyet. A reggeli fény lágy színekben fürdeti a sziklákat. Délben elmerülünk az elmúlt évezredek kultúrájában és vallásában a Folk Village Múzeumban és a történelmi Turas állomásokon. Az autó kényelmesen lerövidíti a völgy távolságait. Délután meglátogatjuk a távoli neolitikus sírt és egy bájos kis kápolnát a sziklákon. A nap végén a hatalmas Trá an Ghleanna strandon pihenünk, miközben az óceán hullámait és nyugtató hangját hallgatjuk.",
         "ro": "Începem călătoria cu mașina la punctul de belvedere Glencolumbkille, unde privim valea de sus. Lumina dimineții scaldă stâncile în culori blânde, oferind un peisaj minunat. La prânz, ne scufundăm în cultura și religia mileniilor trecute la Folk Village Museum și la stațiunile istorice Turas. Mașina scurtează confortabil distanțele din vale. După-amiaza, vizităm mormântul neolitic izolat și o capelă mică fermecătoare de pe stânci. Ne încheiem ziua relaxându-ne pe plaja vastă Trá an Ghleanna, ascultând oceanul și bucurându-ne de peisajul natural.",
         "en": "We start our road trip with ease at the Glencolumbkille Viewpoint, looking out over the expansive valley from a bird's-eye view. The morning light bathes the cliffs in soft, beautiful colors. At midday, we delve into the culture and religion of past millennia at the Folk Village Museum and the historic Turas stations. The car makes the valley distances pleasantly short. In the afternoon, we visit the remote Neolithic tomb and a charming little chapel perched on the cliffs. We wind down the day relaxing on the vast Trá an Ghleanna beach, listening to the roaring ocean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Viewpoint, wo Sie das Regenwetter bequem vom Auto aus beobachten können. Mittags bietet das Folk Village Museum eine perfekte Kombination aus Geschichte und Schutz vor den Güssen. Der Nachmittag führt Sie zu den antiken Steinen, wobei Sie die Fahrtzeiten zwischen den Stopps zum Aufwärmen nutzen. Abends ist die Fahrt zur Bucht sicher und bietet tolle Blicke auf die tosende See.",
+            "hu": "Kezdje a Viewpointnál, ahol az esős tájat kényelmesen, az autóból is megcsodálhatja. Délben a Skanzen tökéletes kombinációja a történelemnek és a záporok elleni védelemnek. A délután az ősi kövekhez vezet, ahol az egyes megállók közötti utazási időt melegedésre használhatja. Este az öbölhöz vezető út biztonságos, és nagyszerű kilátást nyújt a háborgó tengerre.",
+            "ro": "Începeți la Viewpoint, de unde puteți admira peisajul ploios confortabil, din mașină. La prânz, Muzeul Folk Village oferă o combinație perfectă de istorie și protecție contra averselor. După-amiaza vă conduce spre pietrele antice, folosind timpul dintre opriri pentru a vă încălzi. Seara, drumul spre golf este sigur și oferă vederi grozave spre marea agitată.",
+            "en": "Start at the Viewpoint, where you can admire the rainy landscape comfortably from the car. At noon, the Folk Village Museum offers a perfect combination of history and shelter from the showers. The afternoon leads to the ancient stones, using the travel time between stops to warm up. In the evening, the drive to the bay is safe and provides great views of the stormy sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Glencolumbkille Viewpoint",
+                "hu": "Glencolumbkille Viewpoint",
+                "ro": "Glencolumbkille Viewpoint",
+                "en": "Glencolumbkille Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt durch die Windschutzscheibe; so bleiben Sie trocken, während die Wolken dramatisch über die Klippen ziehen.",
+                "hu": "Élvezze a panorámát közvetlenül a szélvédőn keresztül; így szárazon maradhat, miközben a felhők drámai módon vonulnak át a sziklák felett.",
+                "ro": "Bucurați-vă de panoramă direct prin parbriz; astfel rămâneți uscat în timp ce norii trec dramatic peste stânci.",
+                "en": "Enjoy the panorama directly through your windshield; this way you stay dry while the clouds drift dramatically over the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Folk Village Museum",
+                "hu": "Folk Village Museum",
+                "ro": "Folk Village Museum",
+                "en": "Folk Village Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie die Schirme des Museums, um trocken zwischen den verschiedenen historischen Hütten zu wechseln.",
+                "hu": "Parkoljon közel a bejárathoz, és használja a múzeum esernyőit, hogy szárazon közlekedhessen a különböző történelmi kunyhók között.",
+                "ro": "Parcați aproape de intrare și folosiți umbrelele muzeului pentru a vă deplasa uscat între diferitele colibe istorice.",
+                "en": "Park close to the entrance and use the museum's umbrellas to move between the various historic cottages without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Faned's Well",
+                "hu": "St. Faned's Well",
+                "ro": "St. Faned's Well",
+                "en": "St. Faned's Well"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben zu entfrosten, da die hohe Luftfeuchtigkeit im Auto bei Regen schnell zu beschlagenen Scheiben führt.",
+                "hu": "Hagyja járni a motort rövid ideig a páramentesítéshez, mivel a magas páratartalom miatt az autó ablakai esőben gyorsan bepárásodhatnak.",
+                "ro": "Lăsați motorul pornit scurt timp pentru dezaburire, deoarece umiditatea ridicată face ca geamurile mașinii să se aburească rapid pe ploaie.",
+                "en": "Keep the engine running briefly for defrosting, as high humidity during rain can cause the car windows to fog up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Turas",
+                "hu": "Glencolumbkille Turas",
+                "ro": "Glencolumbkille Turas",
+                "en": "Glencolumbkille Turas"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Wege können bei Regen rutschig sein; fahren Sie langsam und achten Sie auf tiefe Pfützen am Straßenrand.",
+                "hu": "A keskeny utak esőben csúszósak lehetnek; vezessen lassan, és ügyeljen az út menti mély tócsákra.",
+                "ro": "Drumurile înguste pot fi alunecoase pe ploaie; conduceți încet și atenție la bălțile adânci de pe marginea carosabilului.",
+                "en": "The narrow roads can be slippery in the rain; drive slowly and watch out for deep puddles along the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Turas Ghleann Cholm Cille",
+                "hu": "Turas Ghleann Cholm Cille",
+                "ro": "Turas Ghleann Cholm Cille",
+                "en": "Turas Ghleann Cholm Cille"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für einen schnellen Gang zu den Steinen und halten Sie Ihre Regenjacke griffbereit auf dem Rücksitz.",
+                "hu": "Használja ki a rövid esőszüneteket a kövekhez való gyors kisétáláshoz, és tartsa az esőkabátját kéznél a hátsó ülésen.",
+                "ro": "Profitați de scurte pauze de ploaie pentru o plimbare rapidă la pietre și țineți jacheta de ploaie la îndemână pe bancheta din spate.",
+                "en": "Take advantage of short breaks in the rain for a quick walk to the stones and keep your raincoat handy on the back seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Farranmacbride Court Tomb",
+                "hu": "Farranmacbride Court Tomb",
+                "ro": "Farranmacbride Court Tomb",
+                "en": "Farranmacbride Court Tomb"
+              },
+              "tip_5lang": {
+                "de": "Wenden Sie Ihr Fahrzeug vorsichtig auf dem nassen Untergrund; der Boden neben der Straße kann bei Regen sehr weich und tückisch sein.",
+                "hu": "Forduljon óvatosan a nedves útfelületen; az út melletti talaj esőben nagyon puha és csalóka lehet.",
+                "ro": "Întoarceți vehiculul cu mare grijă pe suprafața udă; solul de lângă drum poate fi foarte moale și înșelător pe ploaie.",
+                "en": "Turn your vehicle very carefully on the wet surface; the ground next to the road can be very soft and treacherous when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Columban Chapel",
+                "hu": "St. Columban Chapel",
+                "ro": "St. Columban Chapel",
+                "en": "St. Columban Chapel"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kapelle bietet einen besinnlichen und trockenen Ort, um dem Prasseln des Regens auf das Dach zu lauschen.",
+                "hu": "A kápolna belseje meghitt és száraz helyet kínál, ahol hallgathatja az eső kopogását a tetőn.",
+                "ro": "Interiorul capelei oferă un loc liniștit și uscat unde puteți asculta ropotul ploii pe acoperiș.",
+                "en": "The interior of the chapel offers a peaceful and dry place where you can listen to the patter of rain on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Trá an Ghleanna",
+                "hu": "Trá an Ghleanna",
+                "ro": "Trá an Ghleanna",
+                "en": "Trá an Ghleanna"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer vom Parkplatz aus, während Sie die Heizung genießen; die Wellen peitschen bei Sturm imposant gegen die Felsen.",
+                "hu": "Figyelje a tengert a parkolóból a fűtést élvezve; a hullámok viharban impozánsan csapkodnak a szikláknak.",
+                "ro": "Observați marea din parcare bucurându-vă de căldură; valurile se izbesc impunător de stânci în timpul furtunii.",
+                "en": "Observe the sea from the parking lot while enjoying the car's heater; the waves crash imposingly against the rocks during a storm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen mit einer Fahrt zum Viewpoint, um das erste Licht über der frostigen Landschaft zu erleben. Mittags wärmen Sie sich im Folk Village bei einem Tee auf, während draußen der eisige Wind weht. Der Nachmittag führt Sie sicher zu den antiken Stätten, bevor die Dämmerung früh einsetzt. Beenden Sie den Tag an der Küste, wenn die Wintersonne spektakulär im Meer versinkt.",
+            "hu": "Kezdje a téli reggelt egy autózással a Viewpointig, hogy átélje az első fényeket a fagyos táj felett. Délben melegedjen fel a Skanzenben egy tea mellett, miközben odakint süvít a jeges szél. A délután biztonságosan elviszi az ősi helyszínekhez, mielőtt korán leszállna az alkonyat. Zárja a napot a parton, amikor a téli nap látványosan bukik a tengerbe.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare spre Viewpoint pentru a vedea primele raze de soare peste peisajul înghețat. La prânz, încălziți-vă la Folk Village cu un ceai, în timp ce afară vântul înghețat suflă cu putere. După-amiaza vă poartă în siguranță spre siturile antice înainte de lăsarea timpurie a serii. Încheiați ziua pe coastă, când soarele de iarnă apune spectaculos în mare.",
+            "en": "Start your winter morning with a drive to the Viewpoint to experience the first light over the frosty landscape. At noon, warm up at the Folk Village with some tea while the icy wind howls outside. The afternoon takes you safely to the ancient sites before dusk sets in early. End the day at the coast as the winter sun sets spectacularly into the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Glencolumbkille Viewpoint",
+                "hu": "Glencolumbkille Viewpoint",
+                "ro": "Glencolumbkille Viewpoint",
+                "en": "Glencolumbkille Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist an klaren Wintertagen unübertroffen; nutzen Sie das Zoomobjektiv Ihrer Kamera direkt vom warmen Beifahrersitz aus.",
+                "hu": "A látótávolság a tiszta téli napokon felülmúlhatatlan; használja a kamera zoomobjektívjét közvetlenül a meleg utasülésből.",
+                "ro": "Vizibilitatea în zilele senine de iarnă este de neegalat; folosiți zoom-ul camerei direct de pe scaunul călduros al pasagerului.",
+                "en": "Visibility on clear winter days is unsurpassed; use your camera's zoom lens directly from the warm passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Folk Village Museum",
+                "hu": "Folk Village Museum",
+                "ro": "Folk Village Museum",
+                "en": "Folk Village Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkundigen Sie sich nach den Winteröffnungszeiten und genießen Sie die Ruhe im Dorf, wenn kaum andere Besucher unterwegs sind.",
+                "hu": "Érdeklődjön a téli nyitvatartásról, és élvezze a falu nyugalmát, amikor alig akad más látogató a környéken.",
+                "ro": "Informați-vă despre programul de iarnă și bucurați-vă de liniștea satului când sunt foarte puțini vizitatori prin preajmă.",
+                "en": "Check for winter opening hours and enjoy the tranquility of the village when there are very few other visitors around."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Faned's Well",
+                "hu": "St. Faned's Well",
+                "ro": "St. Faned's Well",
+                "en": "St. Faned's Well"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Parkflächen; der Boden friert hier in Küstennähe durch die feuchte Luft oft unerwartet schnell ein.",
+                "hu": "Ügyeljen a jegesedésre a parkolóhelyeken; a talaj itt a part közelében a nedves levegő miatt váratlanul gyorsan megfagyhat.",
+                "ro": "Atenție la polei în zonele de parcare; solul de aici, de lângă coastă, poate îngheța neașteptat de repede din cauza aerului umed.",
+                "en": "Watch out for ice in the parking areas; the ground here near the coast can freeze unexpectedly quickly due to the damp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Glencolumbkille Turas",
+                "hu": "Glencolumbkille Turas",
+                "ro": "Glencolumbkille Turas",
+                "en": "Glencolumbkille Turas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das helle Licht der Mittagssonne für Fotos von den Kreuzen, bevor die Schatten am Nachmittag zu lang werden.",
+                "hu": "Használja ki a déli nap erős fényét a keresztek fotózásához, mielőtt az árnyékok túl hosszúra nyúlnának délután.",
+                "ro": "Profitați de lumina puternică a soarelui de la amiază pentru a fotografia crucea înainte ca umbrele să devină prea lungi după-amiaza.",
+                "en": "Take advantage of the bright midday sun for photos of the crosses before the shadows grow too long in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Turas Ghleann Cholm Cille",
+                "hu": "Turas Ghleann Cholm Cille",
+                "ro": "Turas Ghleann Cholm Cille",
+                "en": "Turas Ghleann Cholm Cille"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Autobatterie bei der Kälte fit ist, da die kurzen Fahrten zwischen den Steinen wenig Ladezeit bieten.",
+                "hu": "Győződjön meg róla, hogy az akkumulátor bírja a hideget, mivel a kövek közötti rövid utak kevés töltési időt hagynak.",
+                "ro": "Asigurați-vă că bateria mașinii este în stare bună pentru frig, deoarece drumurile scurte dintre pietre oferă puțin timp de încărcare.",
+                "en": "Ensure your car battery is in good condition for the cold, as the short drives between the stones offer little charging time."
+              }
+            },
+            {
+              "name": {
+                "de": "Farranmacbride Court Tomb",
+                "hu": "Farranmacbride Court Tomb",
+                "ro": "Farranmacbride Court Tomb",
+                "en": "Farranmacbride Court Tomb"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann steinhart gefroren sein; tragen Sie Schuhe mit gutem Profil für den kurzen Fußweg vom Auto zum Grab.",
+                "hu": "A hozzávezető út kőkeményre fagyhat; viseljen jó profilú cipőt az autótól a sírig tartó rövid sétához.",
+                "ro": "Calea de acces poate fi înghețată bocnă; purtați încălțăminte cu aderență bună pentru scurta plimbare de la mașină la mormânt.",
+                "en": "The access path can be frozen rock-hard; wear shoes with good tread for the short walk from the car to the tomb."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Columban Chapel",
+                "hu": "St. Columban Chapel",
+                "ro": "St. Columban Chapel",
+                "en": "St. Columban Chapel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am frühen Nachmittag, wenn das schräge Sonnenlicht durch die Fenster eine magische Winterstimmung erzeugt.",
+                "hu": "Látogassa meg a kápolnát kora délután, amikor az ablakokon besütő ferde napsugarak mágikus téli hangulatot árasztanak.",
+                "ro": "Vizitați capela după-amiaza devreme, când razele oblice ale soarelui prin ferestre creează o atmosferă magică de iarnă.",
+                "en": "Visit the chapel in the early afternoon when the slanted sunlight through the windows creates a magical winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Trá an Ghleanna",
+                "hu": "Trá an Ghleanna",
+                "ro": "Trá an Ghleanna",
+                "en": "Trá an Ghleanna"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Sonnenuntergang (ca. 16:30 Uhr) und genießen Sie das Farbspektrum des Winterhimmels im warmen Fahrzeug.",
+                "hu": "Parkoljon le a naplemente irányába (kb. 16:30), és élvezze a téli égbolt színeit a meleg gépjárműből.",
+                "ro": "Parcați cu vedere spre apus (aprox. 16:30) și bucurați-vă de spectrul de culori al cerului de iarnă din mașina călduroasă.",
+                "en": "Park facing the sunset (around 4:30 PM) and enjoy the color spectrum of the winter sky from inside your warm vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

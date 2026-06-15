@@ -160,6 +160,196 @@
         "hu": "A Pont-l'Abbé-i gyalogtúra a város történelmi központjában, a lenyűgöző Bárók Váránál kezdődik. Falai között található a Bigouden Múzeum, amely mély bepillantást nyújt a régió híres kulturális örökségébe.\n\nDélben egy rövid sétával eléri a lenyűgöző Bigouden Emlékművet, amely büszkén áll a Notre-Dame des Carmes templom gyönyörű ólomüveg ablakainak közelében.\n\nDélután látogasson el Pont-l'Abbé kikötőjébe egy békés sétára a torkolat mentén. A csendes vizek tökéletes kontrasztot nyújtanak a nyüzsgő városközponthoz képest a fákkal szegélyezett ösvényeken.\n\nA nap a lenyűgöző Saint-Jacques de Lambour templomnál ér véget. Ez a tető nélküli rom romantikus, szabadtéri befejezést kínál a város autentikus breton történelmén átívelő utazásának.",
         "ro": "Turul dumneavoastră pietonal în Pont-l'Abbé începe la impunătorul Castel al Baronilor, ancora istorică a orașului. Între zidurile sale veți găsi Muzeul Bigouden, care oferă o incursiune în patrimoniul local.\n\nLa prânz, o scurtă plimbare vă duce la impresionantul Monument al Bigoudenilor, stând mândru lângă vitraliile superbe ale Bisericii Notre-Dame des Carmes.\n\nDupă-amiaza, coborâți spre Portul din Pont-l'Abbé pentru o plimbare senină de-a lungul estuarului. Apele liniștite oferă un contrast perfect cu centrul plin de viață al orașului.\n\nZiua se încheie la remarcabila Biserică Saint-Jacques de Lambour. Această ruină fără acoperiș oferă un final romantic, în aer liber, călătoriei dumneavoastră prin istoria bretonă autentică a orașului.",
         "en": "Your walking tour of Pont-l'Abbé begins at the imposing Castle of the Barons, the town's historical anchor. Within its walls, you'll find the Bigouden Museum, offering a deep dive into the region's famous cultural heritage.\n\nBy midday, your short walk leads to the impressive Monument aux Bigoudens, standing proudly near the beautiful stained glass of the Notre-Dame des Carmes Church.\n\nIn the afternoon, head down to the Port of Pont-l'Abbé for a serene walk along the estuary. The tranquil waters provide a perfect contrast to the bustling town center, offering peaceful shaded paths.\n\nYour day concludes at the striking Saint-Jacques de Lambour Church. This roofless ruin offers a romantic, open-air finale to your journey through the authentic Breton history of the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Pont-l'Abbé beginnt im trockenen Schloss.\n\nMittags lockt das Museum als sicherer Zufluchtsort.\n\nNachmittags retten Sie sich vor den starken Schauern in die Kirchen.\n\nAbends klingt der nasse Tag gemütlich im Trockenen aus.",
+            "hu": "Az esős reggel a kastély száraz falai között indul.\n\nDélben a múzeum nyújt megbízható menedéket.\n\nDélután a templomok adnak védelmet a hirtelen záporok elől.\n\nEste meleg, fedett helyen pihenheti ki a sétát.",
+            "ro": "Dimineața ploioasă începe în castelul uscat.\n\nLa prânz, muzeul vă oferă un refugiu sigur.\n\nDupă-amiaza, bisericile vă protejează de aversele puternice.\n\nSeara se încheie confortabil și cald la adăpost.",
+            "en": "A rainy morning starts inside the completely dry castle.\n\nAt noon, the museum offers a reliable and dry shelter.\n\nIn the afternoon, historic churches protect you from showers.\n\nThe evening ends cozily indoors away from the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg der Barone von Pont",
+                "hu": "Pont báróinak vára",
+                "ro": "Castelul Baronilor de Pont",
+                "en": "Castle of the Barons of Pont"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Schirm für den Hof mit, aber die beeindruckenden Säle im Inneren halten Sie schön trocken.",
+                "hu": "Vigyen esernyőt az udvarra, de a belső termek száraz és lenyűgöző élményt nyújtanak az eső ellenére is.",
+                "ro": "Luați o umbrelă pentru curte, dar sălile interioare vă mențin uscat și complet protejat de ploaie.",
+                "en": "Bring an umbrella for the courtyard, but the impressive interior halls will keep you completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bigouden-Museum",
+                "hu": "Bigouden Múzeum",
+                "ro": "Muzeul Bigouden",
+                "en": "Bigouden Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort im Trockenen, um die traditionellen Kostüme zu bewundern, während es draußen gießt.",
+                "hu": "Tökéletes fedett menedék a hagyományos népviseletek megcsodálásához, miközben kint szakad az eső.",
+                "ro": "Un refugiu uscat perfect pentru a admira costumele tradiționale în timp ce plouă abundent afară.",
+                "en": "A perfect indoor escape to admire the traditional local costumes while it pours heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Bigoudens",
+                "hu": "Bigouden Emlékmű",
+                "ro": "Monumentul Bigoudenilor",
+                "en": "Monument aux Bigoudens"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Granitstatuen glänzen wunderbar im Regen, aber achten Sie auf Pfützen und sehr rutschige Steine.",
+                "hu": "A nedves gránitszobrok ragyognak az esőben, de feltétlenül vigyázzon a csúszós kövekre és a mély tócsákra.",
+                "ro": "Statuile de granit strălucesc în ploaie, dar atenție mare la pietrele alunecoase și bălțile adânci.",
+                "en": "The wet granite statues shine beautifully in the rain, but watch out for slippery stones and deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Carmes",
+                "hu": "Notre-Dame des Carmes templom",
+                "ro": "Biserica Notre-Dame des Carmes",
+                "en": "Notre-Dame des Carmes Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster und suchen Sie im ruhigen Kirchenschiff einen sicheren Schutz vor Schauern.",
+                "hu": "Csodálja meg az ólomüveg ablakokat, és keressen menedéket a csendes hajóban a hirtelen záporok elől.",
+                "ro": "Admirați vitraliile și căutați un adăpost sigur în nava liniștită a bisericii pentru a scăpa de averse.",
+                "en": "Admire the beautiful stained glass and seek shelter in the quiet nave to escape the passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pont-l'Abbé",
+                "hu": "Pont-l'Abbé kikötője",
+                "ro": "Portul din Pont-l'Abbé",
+                "en": "Port of Pont-l'Abbé"
+              },
+              "tip_5lang": {
+                "de": "Ein nasser Spaziergang an den Kais erfordert unbedingt einen guten Regenmantel und wasserfeste Schuhe.",
+                "hu": "A nedves parti séta egy jó esőkabátot és vízálló cipőt követel meg a zord időjárás miatt.",
+                "ro": "O plimbare umedă pe chei necesită neapărat o haină de ploaie bună și pantofi complet impermeabili.",
+                "en": "A wet stroll along the historic quays requires a reliable raincoat and sturdy waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques de Lambour",
+                "hu": "Saint-Jacques de Lambour templom",
+                "ro": "Biserica Saint-Jacques de Lambour",
+                "en": "Saint-Jacques de Lambour Church"
+              },
+              "tip_5lang": {
+                "de": "Da das Dach der historischen Ruine fehlt, brauchen Sie hier unbedingt einen stabilen Regenschirm.",
+                "hu": "Mivel ennek a lenyűgöző romnak egyáltalán nincs teteje, mindenképpen vigyen magával egy erős esernyőt.",
+                "ro": "Deoarece acestei superbe ruini îi lipsește acoperișul, veți avea nevoie clar de o umbrelă robustă.",
+                "en": "Since this beautiful and historic ruin is completely roofless, you will definitely need a sturdy umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen im Schloss der Barone.\n\nMittags wärmt Sie das Museum mit spannenden Ausstellungen auf.\n\nNachmittags locken die Kirchen, bevor es sehr früh dunkel wird.\n\nAbends genießen Sie die friedliche, winterliche Ruhe der Stadt.",
+            "hu": "Hűvös téli reggel a kastély ódon falai között.\n\nDélben a múzeum kiállításai melegítenek fel a fagyos séta után.\n\nDélután a templomokat csodálhatja meg a korai sötétedés előtt.\n\nEste a város csendes téli nyugalma várja Önt.",
+            "ro": "O dimineață rece de iarnă la castelul istoric.\n\nLa prânz, muzeul vă încălzește cu expozițiile sale fascinante.\n\nDupă-amiaza vizitați bisericile înainte de apusul foarte timpuriu.\n\nSeara, liniștea iernii vă așteaptă în orașul relaxat.",
+            "en": "A crisp winter morning begins at the historic castle.\n\nAt noon, the museum warms you up with fascinating local exhibits.\n\nIn the afternoon, admire the churches before the early sunset.\n\nEnjoy the peaceful and quiet winter evening in the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg der Barone von Pont",
+                "hu": "Pont báróinak vára",
+                "ro": "Castelul Baronilor de Pont",
+                "en": "Castle of the Barons of Pont"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern können extrem kühl sein, behalten Sie Ihre warme Winterjacke also auch drinnen an.",
+                "hu": "A vastag kőfalak nagyon hűvösek lehetnek, így odabent is érdemes magán tartani a vastag téli kabátot.",
+                "ro": "Zidurile groase de piatră pot fi extrem de reci, așa că păstrați haina de iarnă pe dumneavoastră și înăuntru.",
+                "en": "The thick stone walls can be quite chilly, so it is highly recommended to keep your winter coat on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bigouden-Museum",
+                "hu": "Bigouden Múzeum",
+                "ro": "Muzeul Bigouden",
+                "en": "Bigouden Museum"
+              },
+              "tip_5lang": {
+                "de": "Die gemütlichen Museumsräume bieten eine herrlich warme Pause von der frischen und eisigen Winterluft.",
+                "hu": "A barátságos múzeumi termek kellemesen meleg menedéket nyújtanak a csípős, hideg téli levegő elől.",
+                "ro": "Camerele primitoare ale muzeului oferă o pauză caldă și minunată de la aerul proaspăt și înghețat de iarnă.",
+                "en": "The cozy museum rooms offer a wonderful, warm respite from the crisp and freezing winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Bigoudens",
+                "hu": "Bigouden Emlékmű",
+                "ro": "Monumentul Bigoudenilor",
+                "en": "Monument aux Bigoudens"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Halt; packen Sie sich gut ein, um dem beißenden Winterwind auf diesem offenen Platz standzuhalten.",
+                "hu": "Rövid megálló; öltözzön fel nagyon melegen, hogy ellenálljon az itt gyakran fújó metsző téli szélnek.",
+                "ro": "O oprire foarte scurtă; îmbrăcați-vă bine pentru a rezista vântului tăios de iarnă din această piață deschisă.",
+                "en": "A very brief stop; bundle up tightly to withstand the biting winter winds in this exposed open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Carmes",
+                "hu": "Notre-Dame des Carmes templom",
+                "ro": "Biserica Notre-Dame des Carmes",
+                "en": "Notre-Dame des Carmes Church"
+              },
+              "tip_5lang": {
+                "de": "Der historische Innenraum ist friedlich, aber völlig unbeheizt, ziehen Sie sich also für die Besichtigung warm an.",
+                "hu": "A belső tér rendkívül békés, de teljesen fűtetlen, ezért rétegesen öltözzön fel a kényelmes látogatáshoz.",
+                "ro": "Interiorul istoric este pașnic, dar complet neîncălzit, așa că îmbrăcați-vă gros pentru a explora confortabil.",
+                "en": "The historic interior is remarkably peaceful but completely unheated, so dress warmly while you explore it."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pont-l'Abbé",
+                "hu": "Pont-l'Abbé kikötője",
+                "ro": "Portul din Pont-l'Abbé",
+                "en": "Port of Pont-l'Abbé"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frostigen Blick aufs Wasser, aber achten Sie auf den Wegen auf mögliche, gefährliche eisige Stellen.",
+                "hu": "Élvezze a fagyos vízparti kilátást, de séta közben mindenképpen figyeljen az esetleges csúszós, jeges foltokra.",
+                "ro": "Bucurați-vă de vederea înghețată a apei, dar fiți foarte atenți la posibilele petice de gheață alunecoase de pe drum.",
+                "en": "Enjoy the serene, frosty views over the water, but carefully watch your step for slippery and dangerous icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques de Lambour",
+                "hu": "Saint-Jacques de Lambour templom",
+                "ro": "Biserica Saint-Jacques de Lambour",
+                "en": "Saint-Jacques de Lambour Church"
+              },
+              "tip_5lang": {
+                "de": "Die dachlose Ruine ist im Winterlicht atemberaubend, aber der Kälte und den Elementen völlig schutzlos ausgeliefert.",
+                "hu": "A tető nélküli rom lenyűgöző a kora esti téli fényben, de teljesen ki van téve a hidegnek és az elemeknek.",
+                "ro": "Ruina fără acoperiș este uimitoare în lumina iernii, dar absolut complet expusă frigului și elementelor naturii.",
+                "en": "The roofless ruin is absolutely stunning in the winter light, but fully exposed to the freezing cold elements."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a biciklis napot a csendes Pont-l'Abbé kikötőjében, élvezve a víz feletti reggeli ködöt, mielőtt feltekerne a fenséges Bárók Várához, hogy felfedezze a helyi erődítményt.\n\nA déli órákat a várban található Bigouden Múzeumnak szenteljük, majd egy gyors tekerés következik, hogy megcsodálja a Bigouden Emlékművet és a közeli történelmi templomokat.\n\nEgy pihentető szünet után a Notre-Dame des Carmes közelében, tekerjen a Saint-Jacques de Lambour lenyűgöző romjaihoz, ahol gyönyörű fotókat készíthet a szabadtéri hajóról.\n\nFejezze be az aktív napot egy frissítő látogatással az Aqua Sudban. Ez a modern víziközpont tökéletes hely a meleg medencékben való kikapcsolódásra a központba való visszatérés előtt.",
         "ro": "Începeți ziua de ciclism în pașnicul Port din Pont-l'Abbé, bucurându-vă de ceața dimineții deasupra apei, înainte de a urca spre maiestuosul Castel al Baronilor pentru a explora fortăreața.\n\nOrele prânzului sunt dedicate Muzeului Bigouden din incinta castelului, urmate de o pedalare scurtă pentru a admira Monumentul Bigoudenilor și bisericile istorice din apropiere.\n\nDupă o pauză relaxantă lângă Notre-Dame des Carmes, pedalați spre ruinele fascinante ale Saint-Jacques de Lambour, surprinzând fotografii frumoase ale naosului său în aer liber.\n\nÎncheiați-vă ziua activă cu o plimbare revigorantă spre Aqua Sud. Acest centru acvatic modern este locul perfect pentru a vă relaxa în piscinele calde înainte de a vă întoarce în centru.",
         "en": "Kick off your cycling day at the peaceful Port of Pont-l'Abbé, enjoying the morning mist over the water before riding up to the majestic Castle of the Barons to explore the local fortress.\n\nThe midday hours are dedicated to the Bigouden Museum inside the castle keep, followed by a quick pedal to admire the intricate Monument aux Bigoudens and the nearby historic churches.\n\nAfter a restful break near Notre-Dame des Carmes, cycle towards the fascinating ruins of Saint-Jacques de Lambour, capturing beautiful photos of its open-air nave and intricate stonework.\n\nFinish your active day with a refreshing ride to Aqua Sud. This modern aquatic center is the perfect place to unwind in the warm pools or enjoy the fun slides before returning to the center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der nasse Morgen startet am Hafen, fahren Sie vorsichtig!\n\nMittags bieten Schloss und Museum sicheren Schutz.\n\nNachmittags geht es im Regen auf nassen Wegen zu den Kirchen.\n\nAbends wärmt das Aqua Sud nach der Tour herrlich auf.",
+            "hu": "Az esős reggel a kikötőben indul, óvatosan tekerjen a vizes kövön!\n\nDélben a kastély és múzeum ad száraz védelmet.\n\nDélután a nedves utakon a romtemplomhoz hajt.\n\nEste az Aqua Sud meleg vize várja a fárasztó nap után.",
+            "ro": "Dimineața umedă începe în port, pedalați cu prudență!\n\nLa prânz, castelul și muzeul oferă adăpost sigur.\n\nDupă-amiaza mergeți spre biserici pe ploaie și drum ud.\n\nSeara vă încălziți corpul obosit la bazinele Aqua Sud.",
+            "en": "A wet morning starts at the port, ride carefully on the stones!\n\nAt noon, the castle and museum offer dry shelter.\n\nIn the afternoon, cycle to the churches in the heavy rain.\n\nThe evening warms up beautifully at the Aqua Sud pools."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Pont-l'Abbé",
+                "hu": "Pont-l'Abbé kikötője",
+                "ro": "Portul din Pont-l'Abbé",
+                "en": "Port of Pont-l'Abbé"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das sehr rutschige Kopfsteinpflaster in Wassernähe, wenn Sie Ihre nasse Radtour beginnen.",
+                "hu": "Különösen ügyeljen a csúszós macskakövekre a víz közelében, amikor elkezdi az esős biciklitúrát.",
+                "ro": "Atenție la pietruiala foarte alunecoasă de lângă apă când vă începeți plimbarea umedă cu bicicleta.",
+                "en": "Watch out for very slippery cobblestones near the water as you carefully start your rainy bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg der Barone von Pont",
+                "hu": "Pont báróinak vára",
+                "ro": "Castelul Baronilor de Pont",
+                "en": "Castle of the Barons of Pont"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und trocknen Sie sich ab, während Sie die grandiosen Innenräume der Burg erkunden.",
+                "hu": "Parkolja le biztonságban a kerékpárt, és száradjon meg, miközben a vár lenyűgöző belső termeit fedezi fel.",
+                "ro": "Parcați bicicleta și uscați-vă în timp ce explorați interioarele grandioase și uscate ale castelului.",
+                "en": "Park your bike safely and dry off completely while you explore the grand interior halls of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bigouden-Museum",
+                "hu": "Bigouden Múzeum",
+                "ro": "Muzeul Bigouden",
+                "en": "Bigouden Museum"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre nasse Ausrüstung und genießen Sie die farbenfrohen traditionellen Kostüme in den trockenen Sälen.",
+                "hu": "Tegye le vizes felszerelését, és csodálja meg a színes hagyományos viseleteket a teljesen száraz termekben.",
+                "ro": "Depozitați echipamentul umed și bucurați-vă de costumele tradiționale vibrante în sălile complet uscate.",
+                "en": "Store your wet riding gear and enjoy the vibrant traditional costumes in the perfectly dry museum halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Bigoudens",
+                "hu": "Bigouden Emlékmű",
+                "ro": "Monumentul Bigoudenilor",
+                "en": "Monument aux Bigoudens"
+              },
+              "tip_5lang": {
+                "de": "Eine schnelle Pause auf der Fahrt; der Granit ist glatt, also bremsen Sie vorsichtig in der Nähe des Denkmals.",
+                "hu": "Egy gyors pihenő a tekerés közben; a gránit nedvesen rendkívül csúszós, ezért óvatosan fékezzen a közelben.",
+                "ro": "O pauză rapidă pe traseu; granitul este neted și ud, așa că frânați foarte ușor în apropierea monumentului.",
+                "en": "A quick pause on your ride; the granite is slick and wet, so apply your brakes very gently nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Carmes",
+                "hu": "Notre-Dame des Carmes templom",
+                "ro": "Biserica Notre-Dame des Carmes",
+                "en": "Notre-Dame des Carmes Church"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um eine Pause vom Radfahren im strömenden Regen einzulegen und die Architektur zu bewundern.",
+                "hu": "Kiváló helyszín, hogy egy kis szünetet tartson az esőben való tekerésben, és szárazon csodálja az építészetet.",
+                "ro": "Un loc excelent pentru a lua o pauză de la mersul pe bicicletă pe ploaie și a admira arhitectura impunătoare.",
+                "en": "A great spot to take a short break from cycling in the pouring rain and deeply admire the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques de Lambour",
+                "hu": "Saint-Jacques de Lambour templom",
+                "ro": "Biserica Saint-Jacques de Lambour",
+                "en": "Saint-Jacques de Lambour Church"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Regenjacke auf jeden Fall an, denn diese wunderschöne Kirchenruine hat überhaupt kein Dach mehr!",
+                "hu": "Mindenképpen tartsa magán a jó esőkabátot, mivel ennek a gyönyörű romtemplomnak egyáltalán nincsen teteje!",
+                "ro": "Păstrați jacheta de ploaie pe dumneavoastră, deoarece această frumoasă biserică ruinată nu are deloc acoperiș!",
+                "en": "Keep your rain jacket on securely, as this beautiful ruined historic church completely lacks a roof overhead!"
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua Sud",
+                "hu": "Aqua Sud",
+                "ro": "Aqua Sud",
+                "en": "Aqua Sud"
+              },
+              "tip_5lang": {
+                "de": "Die ultimative Belohnung an einem Regentag; tauchen Sie nach einer nassen Radtour in die warmen Innenbecken ein!",
+                "hu": "Az esős nap tökéletes megkoronázása; a nedves és fárasztó tekerés után csobbanjon egyet a meleg medencékbe!",
+                "ro": "Recompensa supremă într-o zi ploioasă; plonjați în bazinele calde interioare după o plimbare obositoare și umedă!",
+                "en": "The ultimate rainy day reward; dive straight into the warm indoor pools after a wet and tiring cycling route!"
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wind weht morgens am Hafen.\n\nMittags wärmen Sie sich im Schloss und Museum herrlich auf.\n\nNachmittags wird es auf dem Rad empfindlich kalt.\n\nAbends vor der Dunkelheit lockt das wärmende Schwimmbad.",
+            "hu": "Reggel friss, csípős szél fúj a kikötőben.\n\nDélben a kastélyban és múzeumban alaposan felmelegedhet.\n\nDélután hűvös lesz a nyeregben, öltözzön melegen.\n\nKora este, mielőtt besötétedik, a meleg uszoda hívogat.",
+            "ro": "Vânt rece și aspru în port în această dimineață.\n\nLa prânz vă încălziți excelent la castel și muzeu.\n\nDupă-amiaza devine de-a dreptul frig pe bicicletă.\n\nSeara, înainte de întuneric, piscina caldă este perfectă.",
+            "en": "Brisk and biting winds at the port this morning.\n\nAt noon, comfortably warm up inside the castle and museum.\n\nThe afternoon gets noticeably chilly on the moving bike.\n\nBefore the early dark, the warm indoor pool beckons."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Pont-l'Abbé",
+                "hu": "Pont-l'Abbé kikötője",
+                "ro": "Portul din Pont-l'Abbé",
+                "en": "Port of Pont-l'Abbé"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt winddichte Handschuhe für diese frühe Morgenfahrt entlang des frostigen, kühlen Hafens.",
+                "hu": "Feltétlenül viseljen szélálló kesztyűt a reggeli tekeréshez a fagyos, kimondottan hűvös kikötő mentén.",
+                "ro": "Purtați neapărat mănuși rezistente la vânt pentru această plimbare matinală de-a lungul portului înghețat și rece.",
+                "en": "Wear thick, windproof gloves for this brisk morning ride along the heavily frosted and freezing port area."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg der Barone von Pont",
+                "hu": "Pont báróinak vára",
+                "ro": "Castelul Baronilor de Pont",
+                "en": "Castle of the Barons of Pont"
+              },
+              "tip_5lang": {
+                "de": "Ein robuster Wintermantel ist absolut unerlässlich, wenn Sie vom Fahrrad in den steinernen Innenhof steigen.",
+                "hu": "Egy robusztus téli kabát elengedhetetlen, amikor leszáll a kerékpárról a rideg és fagyos kőudvaron.",
+                "ro": "Un palton robust de iarnă este absolut esențial când coborâți de pe bicicletă în curtea de piatră înghețată.",
+                "en": "A robust winter coat is absolutely essential when stepping off your bike into the freezing stone courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Bigouden-Museum",
+                "hu": "Bigouden Múzeum",
+                "ro": "Muzeul Bigouden",
+                "en": "Bigouden Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre Hände auf, während Sie vieles über die faszinierende lokale Bigouden-Kultur im Warmen lernen.",
+                "hu": "Olvassza ki a kezeit a fűtött termekben, miközben lenyűgöző dolgokat tanul a helyi bigouden kultúráról.",
+                "ro": "Dezghețați-vă mâinile înghețate în timp ce învățați despre fascinanta cultură locală Bigouden la căldură.",
+                "en": "Defrost your freezing hands inside while learning about the fascinating local Bigouden culture in warm comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Bigoudens",
+                "hu": "Bigouden Emlékmű",
+                "ro": "Monumentul Bigoudenilor",
+                "en": "Monument aux Bigoudens"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an und lassen Sie Ihre warmen Schichten zum Schutz vor der Kälte komplett fest geschlossen.",
+                "hu": "Tartson egy gyors pihenőt a nyeregben, és hagyja szorosan összezárva a meleg rétegeket a csípős hideg ellen.",
+                "ro": "Opriți-vă scurt pe bicicletă, păstrând straturile calde bine închise împotriva frigului tăios de afară.",
+                "en": "Pause briefly on your bike, keeping your warm layers securely zipped up against the harsh winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Carmes",
+                "hu": "Notre-Dame des Carmes templom",
+                "ro": "Biserica Notre-Dame des Carmes",
+                "en": "Notre-Dame des Carmes Church"
+              },
+              "tip_5lang": {
+                "de": "Der ruhige Innenraum ist ein sehr friedlicher, wenn auch knackig kalter Stopp auf Ihrer Winterradroute.",
+                "hu": "A csendes belső tér egy rendkívül békés, bár meglehetősen csípős, hűvös megálló a téli kerékpáros útvonalon.",
+                "ro": "Interiorul liniștit este o oprire foarte pașnică, deși destul de rece, pe traseul dumneavoastră de iarnă.",
+                "en": "The remarkably quiet interior is a peaceful, though crisp and unheated, stop on your winter cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques de Lambour",
+                "hu": "Saint-Jacques de Lambour templom",
+                "ro": "Biserica Saint-Jacques de Lambour",
+                "en": "Saint-Jacques de Lambour Church"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume rahmen diese dachlose Ruine perfekt ein, aber bleiben Sie unbedingt dick eingepackt.",
+                "hu": "A csupasz téli fák tökéletesen keretezik ezt a tető nélküli romot, de ne feledjen szorosan beöltözve maradni.",
+                "ro": "Copacii goi de iarnă încadrează perfect aceste ruine fără acoperiș, dar asigurați-vă că rămâneți bine înfofolit.",
+                "en": "The completely bare winter trees frame these roofless ruins perfectly, but stay tightly wrapped up against the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua Sud",
+                "hu": "Aqua Sud",
+                "ro": "Aqua Sud",
+                "en": "Aqua Sud"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre ausgekühlten Radfahrermuskeln in den beheizten Becken auf, bevor die Sonne ganz untergeht.",
+                "hu": "Melegítse fel a hidegtől elgémberedett kerékpáros izmait a fűtött medencékben, még mielőtt a nap teljesen lemegy.",
+                "ro": "Încălziți-vă mușchii de ciclist înghețați în bazinele încălzite înainte ca soarele să apună complet.",
+                "en": "Warm your chilled and tired cyclist muscles in the heavily heated pools just before the sun sets completely."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje autóstúráját a történelmi Saint-Jacques de Lambour templomnál, és élvezze a csendes reggeli hangulatot e lenyűgöző tető nélküli emlékmű körül, mielőtt a nyüzsgő központba indulna.\n\nDélben parkoljon le a Notre-Dame des Carmes templom közelében, hogy megnézze a híres rózsaablakot, majd tegyen egy rövid sétát a Bigouden Emlékműhöz és a Bárók Várához.\n\nA kora délutánt töltse a helyi történelem megismerésével a Bigouden Múzeumban. Ezután hajtson le Pont-l'Abbé kikötőjébe egy pihentető sétára, hogy megtörje a kulturális barangolást.\n\nAz este közeledtével tegyen egy rövid utat a Pop Corn Labyrinthe-hez. Ez a nagyszabású kukoricaútvesztő rendkívül szórakoztató és vidám befejezést kínál a breton vidéken.",
         "ro": "Începeți turul cu mașina la istorica Biserică Saint-Jacques de Lambour, bucurându-vă de atmosfera liniștită a dimineții în jurul acestui monument impresionant fără acoperiș.\n\nLa prânz, parcați lângă Biserica Notre-Dame des Carmes pentru a vedea celebra sa rozetă, apoi faceți o scurtă plimbare până la Monumentul Bigoudenilor și Castelul Baronilor din Pont.\n\nPetreceți-vă prima parte a după-amiezii cufundați în istoria locală la Muzeul Bigouden. După aceea, conduceți până la Portul din Pont-l'Abbé pentru o plimbare relaxantă.\n\nOdată cu lăsarea serii, conduceți scurt până la Pop Corn Labyrinthe. Acest labirint masiv din porumb oferă un final extrem de distractiv și plin de viață călătoriei prin peisajul breton.",
         "en": "Begin your driving tour at the historic Saint-Jacques de Lambour Church, enjoying the quiet morning atmosphere around this stunning roofless monument before heading towards the bustling center.\n\nBy midday, park near Notre-Dame des Carmes Church to see its famed rose window, then take a short stroll to the Monument aux Bigoudens and the impressive Castle of the Barons of Pont.\n\nSpend your early afternoon immersed in local history at the Bigouden Museum. Afterwards, drive down to the Port of Pont-l'Abbé for a relaxing walk to break up the day's cultural explorations.\n\nAs evening approaches, take a short drive to the Pop Corn Labyrinthe. This large-scale corn maze provides a highly entertaining, lighthearted end to your journey through the Breton countryside."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Trockenen fahren Sie morgens sicher zu den Kirchen.\n\nMittags warten Schloss und Museum als regensichere Ziele.\n\nNachmittags geht es im Regen zum stimmungsvollen Hafen.\n\nDas Labyrinth am Abend wird extrem matschig, gute Schuhe!",
+            "hu": "Autója fűtött, száraz belsejéből indul a reggeli templomnézés.\n\nDélben a kastély és a múzeum tökéletes esőprogram.\n\nDélután esőben csodálja a kikötő komor, de szép fényeit.\n\nEste az útvesztő saras lesz, gumicsizma kelleni fog!",
+            "ro": "Conduceți la uscat dimineața confortabil spre biserici.\n\nLa prânz, castelul și muzeul sunt destinații acoperite sigure.\n\nDupă-amiaza ajungeți în port cu mașina pe ploaie.\n\nSeara, labirintul este noroios, luați cizme impermeabile!",
+            "en": "Drive completely dry to the historic churches in the morning.\n\nAt noon, the castle and museum are perfect rainy spots.\n\nIn the afternoon, visit the moody port in the heavy rain.\n\nThe evening maze gets intensely muddy, wear boots!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques de Lambour",
+                "hu": "Saint-Jacques de Lambour templom",
+                "ro": "Biserica Saint-Jacques de Lambour",
+                "en": "Saint-Jacques de Lambour Church"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie mit einem großen Regenschirm aus dem warmen Auto, da diese historische Ruine leider kein Dach hat.",
+                "hu": "Nagy esernyővel lépjen ki a meleg autóból, mivel ennek a történelmi romnak sajnálatos módon nincs teteje.",
+                "ro": "Coborâți din mașina caldă cu o umbrelă mare, deoarece aceste ruine istorice superbe nu au deloc acoperiș.",
+                "en": "Step out of your comfortably warm car with an umbrella, as these historic ruins completely lack a roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Carmes",
+                "hu": "Notre-Dame des Carmes templom",
+                "ro": "Biserica Notre-Dame des Carmes",
+                "en": "Notre-Dame des Carmes Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und huschen Sie hinein, um die beeindruckende Fensterrosette abseits des Regens zu bewundern.",
+                "hu": "Parkoljon közel, és siessen be, hogy az esőtől védve, szárazon csodálhassa meg a lenyűgöző rózsaablakot.",
+                "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a admira rozeta impresionantă departe de ploaia rece de afară.",
+                "en": "Park closely and dash inside quickly to deeply admire the impressive rose window safely away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Bigoudens",
+                "hu": "Bigouden Emlékmű",
+                "ro": "Monumentul Bigoudenilor",
+                "en": "Monument aux Bigoudens"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Fotostopp aus oder direkt neben dem Auto; achten Sie auf die tiefen Pfützen rund um das Denkmal.",
+                "hu": "Egy nagyon gyors fotómegálló közvetlenül az autóból vagy mellőle; óvatosan figyeljen a mély tócsákra az emlékmű körül.",
+                "ro": "O oprire scurtă pentru poze din sau lângă mașină; fiți foarte atenți la bălțile adânci din jurul monumentului.",
+                "en": "A very quick photo stop from or right near the car; carefully watch out for the deep puddles around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg der Barone von Pont",
+                "hu": "Pont báróinak vára",
+                "ro": "Castelul Baronilor de Pont",
+                "en": "Castle of the Barons of Pont"
+              },
+              "tip_5lang": {
+                "de": "Das Museum im Inneren der Burg ist eine fantastische und vor allem völlig trockene Alternative für einen regnerischen Nachmittag.",
+                "hu": "A kastély belsejében található múzeum egy fantasztikus, és ami a legfontosabb, teljesen száraz alternatíva egy esős délutánon.",
+                "ro": "Muzeul din interiorul castelului este o alternativă fantastică și mai ales complet uscată pentru o după-amiază ploioasă.",
+                "en": "The museum directly inside the castle is a fantastic, perfectly dry alternative for spending a heavily rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bigouden-Museum",
+                "hu": "Bigouden Múzeum",
+                "ro": "Muzeul Bigouden",
+                "en": "Bigouden Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die reiche lokale Geschichte sicher im Trockenen, während Sie angenehm dem Regen an den Fenstern lauschen.",
+                "hu": "Élvezze a gazdag helyi történelmet biztonságosan a fedél alatt, miközben hallgatja, ahogy az eső veri az ablakokat.",
+                "ro": "Bucurați-vă de bogata istorie locală la adăpost, în timp ce ascultați plăcut ploaia care bate în ferestre.",
+                "en": "Enjoy the rich local history safely indoors while pleasantly listening to the heavy rain washing against the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pont-l'Abbé",
+                "hu": "Pont-l'Abbé kikötője",
+                "ro": "Portul din Pont-l'Abbé",
+                "en": "Port of Pont-l'Abbé"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle, regnerische Aussicht auf die kleinen Boote bequem und trocken direkt aus Ihrem Auto.",
+                "hu": "Élvezze a kis csónakok komor, esős, de hangulatos látványát kényelmesen és teljesen szárazon, egyenesen az autójából.",
+                "ro": "Bucurați-vă de vederea ploioasă și plină de atmosferă a bărcilor direct din confortul și căldura mașinii dumneavoastră.",
+                "en": "Enjoy the extremely moody, rainy views of the small boats directly from the total comfort and dryness of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pop Corn Labyrinthe",
+                "hu": "Pop Corn Útvesztő",
+                "ro": "Pop Corn Labyrinthe",
+                "en": "Pop Corn Labyrinthe"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade im Freien werden sehr matschig sein; Gummistiefel sind heute für dieses Labyrinth absolut und zwingend notwendig.",
+                "hu": "A szabadtéri ösvények rendkívül sarasak lesznek a sok víztől; a gumicsizma ma feltétlenül szükséges az útvesztő bejárásához.",
+                "ro": "Traseele în aer liber vor fi foarte noroioase de la atâta apă; cizmele de cauciuc sunt absolut esențiale pentru labirint astăzi.",
+                "en": "The outdoor dirt trails will be intensely muddy; proper rubber boots are absolutely essential for completing the maze today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen Sie die sehr kalten Kirchenruinen.\n\nMittags wärmen die dicken Schlossmauern spürbar.\n\nNachmittags lockt der Hafen kurz in der tiefen Wintersonne.\n\nDas Labyrinth schließt früh, perfekt für die kühle Dämmerung!",
+            "hu": "Reggel a hűvös templomromokat fedezi fel a hidegben.\n\nDélben a kastély vastag falai közt alaposan melegedhet.\n\nDélután a téli napfényes kikötő csendje várja.\n\nAz útvesztőnél számoljon a nagyon kora esti sötétedéssel!",
+            "ro": "Dimineața vizitați ruinele reci ale bisericii istorice.\n\nLa prânz, castelul impresionant vă ține bine de cald.\n\nDupă-amiaza portul strălucește în soarele blând de iarnă.\n\nLabirintul seara necesită atenție din cauza întunericului rapid!",
+            "en": "Explore the intensely chilly church ruins early in the morning.\n\nAt noon, warm up nicely inside the thick castle walls.\n\nIn the afternoon, see the port bathed in cold winter light.\n\nNote the very early sunset for navigating the evening maze!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques de Lambour",
+                "hu": "Saint-Jacques de Lambour templom",
+                "ro": "Biserica Saint-Jacques de Lambour",
+                "en": "Saint-Jacques de Lambour Church"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung wird nach der Erkundung dieser ungeschützten und kalten, wunderschönen Ruinen eine echte Wohltat sein.",
+                "hu": "Az autó meleg fűtése igazi áldás lesz, miután felfedezte ezeket a szélnek kitett, de nagyon gyönyörű romokat.",
+                "ro": "Încălzirea mașinii va fi o adevărată binecuvântare după explorarea acestor ruine superbe, dar expuse vântului rece.",
+                "en": "The powerful car heater will feel absolutely wonderful after deeply exploring these exposed and highly beautiful ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Carmes",
+                "hu": "Notre-Dame des Carmes templom",
+                "ro": "Biserica Notre-Dame des Carmes",
+                "en": "Notre-Dame des Carmes Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine sehr gelassene Atmosphäre, aber behalten Sie unbedingt Ihren Wintermantel drinnen an, es ist eiskalt.",
+                "hu": "A templom rendkívül békés és csendes atmoszférát kínál, de mindenképpen tartsa magán a téli kabátot odabent is.",
+                "ro": "Biserica oferă o atmosferă foarte senină, dar asigurați-vă că vă păstrați paltonul de iarnă pe dumneavoastră și înăuntru.",
+                "en": "The church offers a deeply serene atmosphere, but be absolutely sure to keep your heavy winter coat on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Bigoudens",
+                "hu": "Bigouden Emlékmű",
+                "ro": "Monumentul Bigoudenilor",
+                "en": "Monument aux Bigoudens"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stolzen Statuen bei einem schnellen Stopp, bevor Sie schnell wieder in Ihr wohlig geheiztes Fahrzeug steigen.",
+                "hu": "Csodálja meg a büszke szobrokat egy nagyon gyors megálló keretében, mielőtt visszapattan a kényelmesen fűtött járműbe.",
+                "ro": "Admirați statuile mândre într-o oprire rapidă înainte de a sări repede înapoi în vehiculul dumneavoastră confortabil și încălzit.",
+                "en": "Admire the proud statues very quickly before hopping rapidly back into your comfortably heated and cozy vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg der Barone von Pont",
+                "hu": "Pont báróinak vára",
+                "ro": "Castelul Baronilor de Pont",
+                "en": "Castle of the Barons of Pont"
+              },
+              "tip_5lang": {
+                "de": "Die sehr dicken Mauern der Burg speichern die Kälte des Winters, ziehen Sie sich also auch in den Innenräumen sehr warm an.",
+                "hu": "A kastély rendkívül vastag falai magukban tartják a tél hidegét, ezért bent, a termekben is mindenképpen öltözzön melegen.",
+                "ro": "Zidurile foarte groase ale castelului rețin mult frigul iernii, așa că îmbrăcați-vă foarte gros chiar și în interior.",
+                "en": "The extremely thick walls of the castle hold the winter chill tightly, so dress very warmly even when completely indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Bigouden-Museum",
+                "hu": "Bigouden Múzeum",
+                "ro": "Muzeul Bigouden",
+                "en": "Bigouden Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein äußerst gemütlicher Zwischenstopp im Innenbereich, bei dem Sie in wohliger Wärme vieles über die bretonische Kultur lernen.",
+                "hu": "Rendkívül barátságos, fűtött beltéri megálló, ahol kellemes melegben ismerkedhet meg a gazdag breton kultúrával.",
+                "ro": "O oprire interioară extrem de primitoare unde puteți învăța despre cultura bretonă într-un confort cald și relaxant.",
+                "en": "A highly cozy indoor stop where you can comfortably learn all about Breton culture in wonderful and relaxing warm comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pont-l'Abbé",
+                "hu": "Pont-l'Abbé kikötője",
+                "ro": "Portul din Pont-l'Abbé",
+                "en": "Port of Pont-l'Abbé"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang direkt am Wasser, und kehren Sie dann ganz schnell zur starken Heizung des Autos zurück.",
+                "hu": "Tegyen egy igazán tempós sétát közvetlenül a vízparton, majd siessen gyorsan vissza az autó áldásos fűtéséhez.",
+                "ro": "Faceți o plimbare rapidă chiar de-a lungul apei, apoi întoarceți-vă foarte repede la încălzirea puternică a mașinii.",
+                "en": "Take a very brisk walk right along the cold water, then quickly return to the powerful heating of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pop Corn Labyrinthe",
+                "hu": "Pop Corn Útvesztő",
+                "ro": "Pop Corn Labyrinthe",
+                "en": "Pop Corn Labyrinthe"
+              },
+              "tip_5lang": {
+                "de": "Der Park schließt im Winter sehr früh, reisen Sie also vor Sonnenuntergang an, um das Labyrinth bei Tag zu meistern.",
+                "hu": "Korán zár, így mindenképp naplemente előtt érkezzen, hogy még biztonságban, a friss téli világosságban járhassa be az útvesztőt!",
+                "ro": "Se închide foarte devreme, așa că ajungeți înainte de apus pentru a naviga în siguranță prin labirint în aerul de iarnă.",
+                "en": "It closes very early now, so arrive well before sunset to safely navigate the sprawling maze in the crisp winter air."
+              }
+            }
+          ]
+        }
       }
     }
   }

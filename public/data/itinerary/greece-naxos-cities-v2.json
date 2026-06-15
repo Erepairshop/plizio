@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Naxosz kreatív lüktetését bemutató Phos Galériában, mielőtt elmerülne a sziget velencei történelmében. A dél a nemesi családok által épített erődített tornyok közeli megismerését hozza. Délután békére lelhet a történelmi Agioi Apostoloi templomban. Az estét egy újabb, a szürkület meleg fényében fürdő monumentális torony látványa zárja le.",
         "ro": "Începeți dimineața explorând pulsul creativ din Naxos la Galeria Phos înainte de a pătrunde în istoria venețiană. La amiază veți admira de aproape turnurile fortificate construite de familiile nobile. După-amiaza veți găsi liniște la biserica istorică Agioi Apostoloi. Seara se încheie la un alt turn monumental, scăldat în lumina caldă a amurgului mediteranean.",
         "en": "Start your morning exploring the creative pulse of Naxos at the Phos Gallery before moving into the island's rich Venetian history. Midday brings a close-up look at impressive fortified towers built by noble families. In the afternoon, you will find peace at the historic Agioi Apostoloi church. The evening concludes gracefully at another monumental tower bathed in the warm light of dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Phos Gallery, wo Kunst den grauen Himmel vergessen lässt. Mittags führen die Wege zu den alten Wohntürmen, wobei Regenschirme in den engen Gassen unerlässlich sind. Am Nachmittag bietet die Agioi Apostoloi Kirche einen Ort der Stille und Trockenheit. Der Abend endet früh, während die nassen Steinmauern im fahlen Licht glänzen.",
+            "hu": "A napot a Phos Galéria fedett terében kezdjük, távol az esőtől. Délben a velencei tornyok között kalandozunk, ahol az esernyő kötelező kellék a szűk utcákban. Délután az Agioi Apostoloi templom belső békéje nyújt menedéket a zápor elől. Az este a fényesre ázott macskaköveken ér minket, miközben a város fényei megcsillannak a tócsákban.",
+            "ro": "Dimineața începe la Galeria Phos, un spațiu interior ideal pentru a evita ploaia. La prânz, explorăm turnurile venețiene sub protecția umbrelelor, admirând arhitectura robustă. După-amiaza, biserica Agioi Apostoloi devine un refugiu liniștit și uscat. Seara se încheie printre zidurile de piatră care strălucesc sub picăturile de ploaie în lumina difuză.",
+            "en": "Morning starts indoors at Phos Gallery, the perfect refuge from the coastal drizzle. By noon, we navigate the narrow alleys between Venetian towers, where an umbrella is a must-have. Afternoon brings us to the shelter of Agioi Apostoloi church for a moment of quiet reflection. The evening concludes with the wet cobblestones reflecting the soft city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phos Gallery",
+                "hu": "Phos Galéria",
+                "ro": "Galeria Phos",
+                "en": "Phos Gallery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fotokunst in diesem trockenen Innenraum und nutzen Sie die Zeit, um die Details ohne Regenhektik zu studieren.",
+                "hu": "Élvezze a fotóművészeti kiállítást ebben a védett beltéri galériában, ideális hely kivárni a reggeli záporok végét.",
+                "ro": "Bucurați-vă de arta fotografică în acest spațiu interior protejat, locul ideal pentru a aștepta trecerea ploii de dimineață.",
+                "en": "Enjoy the photography exhibition in this sheltered indoor gallery, the perfect spot to stay dry during morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Mparotsi-Gratsia",
+                "hu": "Purgos Mparotsi-Gratsia",
+                "ro": "Purgos Mparotsi-Gratsia",
+                "en": "Purgos Mparotsi-Gratsia"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die wehrhafte Architektur des Turms von einem überdachten Torweg aus und achten Sie auf die rutschigen Steine.",
+                "hu": "Csodálja meg a torony erődített falait egy közeli kapualj védelméből, és vigyázzon a csúszós macskaköveken.",
+                "ro": "Admirați arhitectura fortificată a turnului din adăpostul unei porți apropiate și aveți grijă la pietrele alunecoase.",
+                "en": "Admire the tower's fortified architecture from the safety of a nearby doorway and watch your step on the slick stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Markopolite-Papadakou",
+                "hu": "Purgos Markopolite-Papadakou",
+                "ro": "Purgos Markopolite-Papadakou",
+                "en": "Purgos Markopolite-Papadakou"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steinmauern wirken im Regen besonders imposant; tragen Sie wasserfeste Schuhe für den Aufstieg durch die Gassen.",
+                "hu": "A sötét kőfalak különösen impozánsak az esőben; viseljen vízálló cipőt a toronyhoz vezető meredek, vizes utcákon.",
+                "ro": "Zidurile întunecate de piatră par impunătoare în ploaie; purtați încălțăminte impermeabilă pe străzile ude spre turn.",
+                "en": "The dark stone walls look particularly imposing in the rain; wear waterproof shoes for the steep, wet walk to the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Agioi Apostoloi",
+                "hu": "Agioi Apostoloi",
+                "ro": "Agioi Apostoloi",
+                "en": "Agioi Apostoloi"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet einen wunderbaren, trockenen Ort für eine Pause, während man dem Trommeln des Regens lauscht.",
+                "hu": "Ez a kis templom kiváló száraz menedéket nyújt egy rövid pihenőhöz, miközben hallgathatja az eső kopogását a tetőn.",
+                "ro": "Această mică biserică oferă un refugiu uscat excelent pentru o pauză scurtă, ascultând ropotul ploii pe acoperiș.",
+                "en": "This small church provides an excellent dry sanctuary for a short break while listening to the rain on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Markopolite - Kalabrou",
+                "hu": "Purgos Markopolite - Kalabrou",
+                "ro": "Purgos Markopolite - Kalabrou",
+                "en": "Purgos Markopolite - Kalabrou"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Mauernischen als Schutz und bewundern Sie die dramatische Aussicht auf das wolkenverhangene Hinterland.",
+                "hu": "Használja ki a mély falfülkéket eső elleni védelemként, és csodálja meg a felhőbe burkolózott táj drámai látványát.",
+                "ro": "Folosiți nișele adânci ale zidurilor ca adăpost și admirați vederea dramatică asupra peisajului învăluit în nori.",
+                "en": "Use the deep wall niches as shelter from the rain and admire the dramatic view of the cloud-covered hinterland."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Naxos ist klar und kühl, perfekt für einen Besuch in der ruhigen Phos Gallery. Mittags wärmt die tiefstehende Sonne die venezianischen Türme, während die Touristenmassen fehlen. Am Nachmittag sinken die Temperaturen schnell, was die Kirchenbesuche besonders gemütlich macht. Um 17:00 Uhr geht die Sonne unter und taucht das Kastro in goldenes Licht.",
+            "hu": "A téli reggel friss és hűvös Naxoson, ideális a Phos Galéria nyugodt megtekintéséhez. Délben a laposan tűző nap melengeti a velencei tornyok falait, miközben nyoma sincs a tömegnek. Délután a gyorsan hűlő levegő a templomok felé terel minket. 17:00 körül a naplemente aranyba vonja a Kastro negyedet, mielőtt leszáll az éj.",
+            "ro": "Dimineața de iarnă în Naxos este proaspătă și răcoroasă, perfectă pentru o vizită liniștită la Galeria Phos. La prânz, soarele blând încălzește turnurile venețiene, în lipsa mulțimilor de turiști. După-amiaza, aerul rece ne îndeamnă spre interiorul bisericilor. În jurul orei 17:00, apusul îmbracă cartierul Kastro în nuanțe aurii.",
+            "en": "Winter mornings in Naxos are crisp and cool, ideal for a peaceful visit to Phos Gallery. By noon, the low sun warms the stone towers, offering a quiet experience without the crowds. Afternoon temperatures drop quickly, making church interiors feel cozy. Sunset arrives early around 17:00, painting the Kastro in golden hues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phos Gallery",
+                "hu": "Phos Galéria",
+                "ro": "Galeria Phos",
+                "en": "Phos Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist im Winter herrlich leer; nehmen Sie sich Zeit für die Kunst und genießen Sie die windgeschützte Atmosphäre.",
+                "hu": "A galéria télen csodásan üres; szánjon időt a művészetre, és élvezze a szélvédett, nyugodt belső teret.",
+                "ro": "Galeria este minunat de goală iarna; acordați-vă timp pentru artă și bucurați-vă de atmosfera ferită de vânt.",
+                "en": "The gallery is wonderfully quiet in winter; take your time with the art and enjoy the wind-sheltered atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Mparotsi-Gratsia",
+                "hu": "Purgos Mparotsi-Gratsia",
+                "ro": "Purgos Mparotsi-Gratsia",
+                "en": "Purgos Mparotsi-Gratsia"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne betont die Textur der alten Steine; kleiden Sie sich in Schichten gegen den kühlen Meereswind.",
+                "hu": "Az alacsonyan járó téli nap kiemeli a régi kövek textúráját; öltözzön rétegesen a hűvös tengeri szél ellen.",
+                "ro": "Soarele de iarnă scoate în evidență textura pietrelor vechi; îmbrăcați-vă în straturi împotriva vântului rece marin.",
+                "en": "The low winter sun highlights the texture of the old stones; dress in layers against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Markopolite-Papadakou",
+                "hu": "Purgos Markopolite-Papadakou",
+                "ro": "Purgos Markopolite-Papadakou",
+                "en": "Purgos Markopolite-Papadakou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Turm am frühen Nachmittag, wenn das Licht am weichsten ist, und nutzen Sie das Ende des Tageslichts.",
+                "hu": "Látogassa meg a tornyot kora délután, amikor a leglágyabbak a fények, és használja ki a hamarosan beköszöntő alkonyat előtti perceket.",
+                "ro": "Vizitați turnul după-amiaza devreme, când lumina este cea mai caldă, profitând de ultimele ore de zi.",
+                "en": "Visit this tower in the early afternoon when the light is softest, and make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Agioi Apostoloi",
+                "hu": "Agioi Apostoloi",
+                "ro": "Agioi Apostoloi",
+                "en": "Agioi Apostoloi"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren ist es oft wärmer als draußen; ein idealer Ort, um sich kurz aufzuwärmen, bevor die Sonne um 17 Uhr untergeht.",
+                "hu": "A templombelső gyakran melegebb a kinti levegőnél; ideális hely felmelegedni a 17 órai naplemente előtt.",
+                "ro": "Interiorul bisericii este adesea mai cald decât afară; un loc ideal pentru a vă încălzi înainte de apusul de la ora 17.",
+                "en": "The church interior is often warmer than the outside air; an ideal spot to warm up before the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Markopolite - Kalabrou",
+                "hu": "Purgos Markopolite - Kalabrou",
+                "ro": "Purgos Markopolite - Kalabrou",
+                "en": "Purgos Markopolite - Kalabrou"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht der frühen Dämmerung ist hier magisch; bringen Sie eine Taschenlampe für den Rückweg nach Sonnenuntergang mit.",
+                "hu": "A korai szürkület arany fényei varázslatosak itt; vigyen magával zseblámpát a naplemente utáni visszatéréshez.",
+                "ro": "Lumina aurie a amurgului timpuriu este magică aici; aduceți o lanternă pentru drumul de întoarcere după apus.",
+                "en": "The golden light of early dusk is magical here; bring a flashlight for the walk back after the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Tekerjen ki korán Tsikalario titokzatos ősi temetőjébe, még a hőség beállta előtt. Később kihívást jelenthet az Apano Kastro romjaihoz vezető út a lenyűgöző kilátásért. Ebéd után kerékpározzon le a Phos Galériához egy kis művészeti feltöltődésre. Az aktív nap a tájban megbúvó két gyönyörű helyi templom békés meglátogatásával ér véget kellemesen.",
         "ro": "Pedalați devreme spre cimitirul antic din Tsikalario pentru a evita căldura. Mai târziu, urcați spre ruinele de la Apano Kastro pentru vederi panoramice uluitoare. După prânz, coborâți spre Galeria Phos pentru a vă bucura de arta locală. Ziua activă se încheie cu vizite liniștite la două biserici locale frumoase, ascunse în peisajul rural pitoresc.",
         "en": "Pedal out early to the mysterious ancient cemetery of Tsikalario to beat the heat. As the day warms up, challenge yourself with a ride up to the ruins of Apano Kastro for sweeping island views. After lunch, cycle down to the cultural hub of Phos Gallery to enjoy some local art. Your active day winds down with tranquil visits to two beautiful local churches nestled in the landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad führt zum Nekrotapheio, wo der Regen eine andächtige Stille schafft. Mittags fordern die nassen Pfade zum Apano Kastro volle Konzentration auf dem rutschigen Untergrund. Nachmittags bietet die Phos Gallery eine willkommene Trockenpause. Der Tag endet an den Kirchen von Kaloxulos, während der Regen die Landschaft in sattes Grün taucht.",
+            "hu": "A reggeli kerékpározás a temetőhöz vezet, ahol az eső áhítatos csendet teremt. Délben az Apano Kastro felé vezető nedves ösvények nagy odafigyelést igényelnek a csúszós terepen. Délután a Phos Galéria nyújt menedéket a pihenéshez. A napot Kaloxulos templomainál zárjuk, miközben az eső élénkzöldre festi a tájat.",
+            "ro": "Dimineața pe bicicletă duce spre cimitir, unde ploaia creează o liniște profundă. La prânz, potecile ude spre Apano Kastro necesită atenție sporită pe terenul alunecos. După-amiaza, Galeria Phos oferă o pauză binemeritată la uscat. Ziua se încheie la bisericile din Kaloxulos, ploaia intensificând culorile naturii.",
+            "en": "The morning ride leads to the cemetery, where the rain creates a solemn atmosphere. By noon, the wet trails to Apano Kastro demand focus on the slippery ground. Afternoon brings a welcome dry break at Phos Gallery. The day concludes at the churches of Kaloxulos, with the rain turning the landscape a vibrant green."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nekrotapheio tou Tsikalariou",
+                "hu": "Nekrotapheio tou Tsikalariou",
+                "ro": "Nekrotapheio tou Tsikalariou",
+                "en": "Nekrotapheio tou Tsikalariou"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Wegen und genießen Sie die melancholische Schönheit des Ortes unter grauem Himmel.",
+                "hu": "Kerekezzen óvatosan a kimosott utakon, és élvezze a hely melankolikus szépségét a szürke égbolt alatt.",
+                "ro": "Pedalați cu atenție pe drumurile de pământ și bucurați-vă de frumusețea melancolică a locului sub cerul gri.",
+                "en": "Bike carefully on the dirt paths and enjoy the melancholy beauty of the site under the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Apano Kastro",
+                "hu": "Apano Kastro",
+                "ro": "Apano Kastro",
+                "en": "Apano Kastro"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen rutschig sein; lassen Sie das Rad unten stehen und tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Az esőben csúszós lehet a felmenet; hagyja a kerékpárt lent, és viseljen jó tapadású cipőt a vár megmászásához.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; lăsați bicicleta jos și purtați pantofi cu aderență bună pentru castel.",
+                "en": "The climb can be slippery in the rain; leave your bike below and wear high-traction shoes for the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Phos Gallery",
+                "hu": "Phos Galéria",
+                "ro": "Galeria Phos",
+                "en": "Phos Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Regenkleidung zu lüften und sich in der Galerie aufzuwärmen, bevor es weitergeht.",
+                "hu": "Tökéletes megálló a kerékpáros esőruházat szárítására és a galériában való felmelegedésre a folytatás előtt.",
+                "ro": "Un popas perfect pentru a vă usca echipamentul de ploaie și a vă încălzi în galerie înainte de a continua drumul.",
+                "en": "A perfect stop to dry off your rain gear and warm up in the gallery before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Triada Kaloxulou",
+                "hu": "Agia Triada Kaloxulou",
+                "ro": "Agia Triada Kaloxulou",
+                "en": "Agia Triada Kaloxulou"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor Wind und Wetter; prüfen Sie Ihre Bremsen, da die Straßen im Dorf bei Nässe glatt sind.",
+                "hu": "A templom védelmet nyújt a szél ellen; ellenőrizze a fékeket, mert a falu vizes utcái rendkívül csúszósak.",
+                "ro": "Biserica oferă adăpost împotriva vântului; verificați frânele, deoarece străzile din sat sunt alunecoase când sunt ude.",
+                "en": "The church offers shelter from the wind; check your brakes as the village streets are very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Damiotissa",
+                "hu": "Panagia Damiotissa",
+                "ro": "Panagia Damiotissa",
+                "en": "Panagia Damiotissa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die dampfende Natur von der Kirchenvorhalle aus und bereiten Sie sich auf eine nasse Rückfahrt vor.",
+                "hu": "Csodálja meg a párás tájat a templom előcsarnokából, és készüljön fel a vizes úton való lassabb visszatérésre.",
+                "ro": "Admirați peisajul cețos din pridvorul bisericii și pregătiți-vă pentru o întoarcere lentă pe drumul ud.",
+                "en": "Admire the misty landscape from the church porch and prepare for a slower ride back on the wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bietet leere Straßen und kühle, klare Luft. Der Morgen am Nekrotapheio ist friedlich und still. Mittags wärmt die Sonne beim Aufstieg zum Apano Kastro, wo die Aussicht im Winter besonders weit reicht. Nachmittags lockt die Phos Gallery mit Kultur, bevor die Schatten länger werden. Um 17:00 Uhr endet die Tour bei den Kirchen, wenn es merklich abkühlt.",
+            "hu": "A téli kerékpározás üres utakat és friss, tiszta levegőt ígér. A reggel a temetőnél békés és csendes. Délben a nap melenget az Apano Kastro felé vezető úton, ahonnan télen különösen tiszta a kilátás. Délután a Phos Galéria hívogat, mielőtt a fények megnyúlnának. 17:00-kor, a lehűléssel egy időben fejezzük be a túrát.",
+            "ro": "Ciclismul de iarnă oferă drumuri pustii și aer curat. Dimineața la cimitir este plină de pace și liniște. La prânz, soarele vă însoțește spre Apano Kastro, unde vizibilitatea este maximă iarna. După-amiaza, Galeria Phos oferă un popas cultural înainte ca umbrele să se lungească. Turul se încheie la ora 17:00, când frigul se instalează.",
+            "en": "Winter cycling offers empty roads and crisp, clear air. The morning at the cemetery is peaceful and silent. By noon, the sun warms your climb to Apano Kastro, where winter views are exceptionally clear. Afternoon brings culture at Phos Gallery before the shadows lengthen. At 17:00, the tour ends as the temperature drops sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nekrotapheio tou Tsikalariou",
+                "hu": "Nekrotapheio tou Tsikalariou",
+                "ro": "Nekrotapheio tou Tsikalariou",
+                "en": "Nekrotapheio tou Tsikalariou"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft ist erfrischend; tragen Sie Handschuhe, um Ihre Hände beim Radfahren warm zu halten.",
+                "hu": "A hűvös reggeli levegő frissítő; viseljen kesztyűt, hogy kezei melegen maradjanak a kerékpározás közben.",
+                "ro": "Aerul rece de dimineață este revigorant; purtați mănuși pentru a vă menține mâinile calde în timp ce pedalați.",
+                "en": "The cool morning air is refreshing; wear gloves to keep your hands warm while cycling between sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Apano Kastro",
+                "hu": "Apano Kastro",
+                "ro": "Apano Kastro",
+                "en": "Apano Kastro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für den Aufstieg; die klare Winterluft ermöglicht Sicht bis zu den Nachbarinseln.",
+                "hu": "Használja ki a déli napsütést a feljutáshoz; a tiszta téli levegőben akár a szomszédos szigetekig is ellátni.",
+                "ro": "Profită de soarele de la prânz pentru urcare; aerul clar de iarnă permite vederea până la insulele vecine.",
+                "en": "Take advantage of the midday sun for the climb; the clear winter air allows views as far as neighboring islands."
+              }
+            },
+            {
+              "name": {
+                "de": "Phos Gallery",
+                "hu": "Phos Galéria",
+                "ro": "Galeria Phos",
+                "en": "Phos Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Beine auszuruhen und sich aufzuwärmen, bevor die Temperaturen am späten Nachmittag sinken.",
+                "hu": "Ideális hely a lábak pihentetésére és felmelegedésre, mielőtt a hőmérséklet késő délután gyorsan zuhanni kezdene.",
+                "ro": "Un loc ideal pentru a vă odihni picioarele și a vă încălzi înainte ca temperaturile să scadă spre seară.",
+                "en": "An ideal spot to rest your legs and warm up before the temperature starts to drop in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Triada Kaloxulou",
+                "hu": "Agia Triada Kaloxulou",
+                "ro": "Agia Triada Kaloxulou",
+                "en": "Agia Triada Kaloxulou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor dem frühen Sonnenuntergang; das weiche Licht lässt die weißen Mauern sanft leuchten.",
+                "hu": "Látogassa meg a templomot a korai naplemente előtt; a lágy téli fényekben fehéren ragyognak a falak.",
+                "ro": "Vizitați biserica înainte de apusul timpuriu; lumina blândă de iarnă face zidurile albe să strălucească.",
+                "en": "Visit the church before the early sunset; the soft winter light makes the white walls glow gently."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Damiotissa",
+                "hu": "Panagia Damiotissa",
+                "ro": "Panagia Damiotissa",
+                "en": "Panagia Damiotissa"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie sich rechtzeitig vor 17:00 Uhr auf den Rückweg, um nicht in der winterlichen Dunkelheit radeln zu müssen.",
+                "hu": "Induljon vissza időben a 17:00 órai naplemente előtt, hogy elkerülje a téli sötétségben való kerékpározást.",
+                "ro": "Porniți înapoi la timp înainte de apusul de la ora 17:00, pentru a evita pedalatul prin întunericul de iarnă.",
+                "en": "Head back in time before the 17:00 sunset to avoid cycling in the winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Az autós túra délen, a Purgos Athalassas lenyűgöző parti erődjénél kezdődik. Késő délelőtt a szárazföld belseje felé veszi az irányt, a Purgos tou Massena és a Tsikalario temető felfedezésére. A délutáni út Naxosz középső részén kanyarog, megállva a Panagia Damiotissa templomnál. Naplementekor érkezik az utolsó történelmi toronyhoz a festői úton.",
         "ro": "Călătoria cu mașina începe în sud, la fortăreața de coastă Purgos Athalassas. Spre prânz vă îndreptați spre interior pentru a admira Purgos tou Massena și cimitirul antic Tsikalario. Drumul de după-amiază șerpuiește prin centrul Naxosului, oprindu-se la Panagia Damiotissa. La apus, ajungeți la ultimul turn istoric, bucurându-vă de peisaj.",
         "en": "Your road trip begins in the south at the imposing coastal fortress of Purgos Athalassas. Late morning takes you inland to admire the classic structure of Purgos tou Massena and the ancient Tsikalario cemetery. The afternoon drive weaves through central Naxos, stopping for quiet reflection at Panagia Damiotissa. As the sun sets, arrive at your final historic tower, enjoying the scenic drive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Naxos bequem trotz Regen. Der Morgen führt zum Purgos Athalassas, den wir trocken vom Wagen aus bewundern. Mittags geht es zum Purgos tou Massena, wobei die Scheibenwischer den Blick auf die dramatische Küste freihalten. Nachmittags bieten Friedhof und Kirche kurze, nasse Exkursionen. Der Tag endet sicher im Purgos Markopolite, während es draußen stürmt.",
+            "hu": "Autóval kényelmesen felfedezhetjük Naxos kincseit az eső ellenére is. Reggel az Athalassas toronyhoz hajtunk, amelyet az autóból is megcsodálhatunk. Délben a Massena torony felé vesszük az irányt, miközben az ablaktörlők mögül figyeljük a drámai tájat. Délután rövid, vizes sétákat teszünk a templomoknál. A napot a Markopolite toronynál zárjuk, biztonságban az odakinti vihartól.",
+            "ro": "Cu mașina, explorăm confortabil Naxos în ciuda ploii. Dimineața ne conduce la Turnul Athalassas, pe care îl admirăm din confortul vehiculului. La prânz, mergem spre Turnul Massena, observând peisajul dramatic prin parbrizul ud. După-amiaza facem scurte incursiuni la biserici. Ziua se încheie la Turnul Markopolite, la adăpost de furtuna de afară.",
+            "en": "By car, we comfortably explore Naxos despite the rain. The morning leads to Purgos Athalassas, easily viewed from the dry interior of the vehicle. By noon, we head to Purgos tou Massena, watching the dramatic coastline through the wipers. Afternoon brings quick, wet visits to the cemetery and church. The day ends safely at Purgos Markopolite while it storms outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Purgos Athalassas",
+                "hu": "Purgos Athalassas",
+                "ro": "Purgos Athalassas",
+                "en": "Purgos Athalassas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turm und genießen Sie den Anblick der mächtigen Mauern im Regen, ohne nass zu werden.",
+                "hu": "Parkoljon közvetlenül a torony mellé, így az autóból is megcsodálhatja a hatalmas falakat anélkül, hogy elázna.",
+                "ro": "Parcați aproape de turn și bucurați-vă de vederea zidurilor masive din mașină, fără a vă uda.",
+                "en": "Park close to the tower and enjoy the view of the massive walls from the car without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos tou Massena",
+                "hu": "Purgos tou Massena",
+                "ro": "Purgos tou Massena",
+                "en": "Purgos tou Massena"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen matschig sein; fahren Sie vorsichtig und nutzen Sie den Wagen als Basis für kurze Fotos.",
+                "hu": "Heves esőzéskor az út sáros lehet; vezessen óvatosan, és használja az autót bázisként a gyors fotózáshoz.",
+                "ro": "Drumul poate fi noroios în caz de ploaie torențială; conduceți cu prudență și folosiți mașina ca bază pentru fotografii.",
+                "en": "The access road can be muddy in heavy rain; drive carefully and use the car as a base for quick photo sessions."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekrotapheio tou Tsikalariou",
+                "hu": "Nekrotapheio tou Tsikalariou",
+                "ro": "Nekrotapheio tou Tsikalariou",
+                "en": "Nekrotapheio tou Tsikalariou"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm bereit für den kurzen Weg vom Parkplatz zum Friedhof; die Steine sind bei Nässe sehr glatt.",
+                "hu": "Tartsa készenlétben az esernyőt a parkolótól a temetőig tartó rövid útra; a kövek vizesen rendkívül csúszósak.",
+                "ro": "Țineți umbrela la îndemână pentru drumul scurt de la parcare la cimitir; pietrele sunt foarte alunecoase când sunt ude.",
+                "en": "Keep an umbrella ready for the short walk from the parking area; the stones are very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Damiotissa",
+                "hu": "Panagia Damiotissa",
+                "ro": "Panagia Damiotissa",
+                "en": "Panagia Damiotissa"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet einen geschützten Innenraum; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "A kis templom védett belső teret kínál; kiszálláskor ügyeljen az útmenti mélyebb tócsákra.",
+                "ro": "Mica biserică oferă un spațiu interior protejat; aveți grijă la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "The small church offers a sheltered interior; watch out for deep puddles at the roadside when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Markopolite - Kalabrou",
+                "hu": "Purgos Markopolite - Kalabrou",
+                "ro": "Purgos Markopolite - Kalabrou",
+                "en": "Purgos Markopolite - Kalabrou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die regnerische Insel von der Anhöhe aus, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "Élvezze a drámai kilátást az esős szigetre a dombtetőről, mielőtt visszatérne az autó kellemes melegébe.",
+                "ro": "Bucurați-vă de vederea dramatică asupra insulei ploioase de pe deal, înainte de a reveni la căldura din mașină.",
+                "en": "Enjoy the dramatic view of the rainy island from the hilltop before returning to the warmth of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten auf Naxos offenbaren die raue Schönheit der Insel. Der Morgen am Purgos Athalassas ist einsam und majestätisch. Mittags wärmt die Sonne den Wagen auf der Fahrt zum Purgos tou Massena. Nachmittags erkunden wir den Friedhof in der klaren Winterluft, bevor die Schatten der Türme länger werden. Um 17:00 Uhr erleben wir den Sonnenuntergang bequem vom Hügel aus.",
+            "hu": "A téli autózás Naxoson felfedi a sziget zord szépségét. A reggel az Athalassas toronynál magányos és fenséges. Délben a nap melengeti az autót a Massena torony felé vezető úton. Délután a temetőt fedezzük fel a friss téli levegőben, mielőtt a tornyok árnyéka megnyúlna. 17:00-kor a dombtetőről, kényelmesen nézzük végig a naplementét.",
+            "ro": "Călătoria cu mașina iarna dezvăluie frumusețea sălbatică a insulei Naxos. Dimineața la Turnul Athalassas este solitară și maiestuoasă. La prânz, soarele încălzește mașina în drum spre Turnul Massena. După-amiaza explorăm cimitirul în aerul curat, înainte ca umbrele turnurilor să se lungească. La ora 17:00 admirăm apusul confortabil de pe deal.",
+            "en": "Winter drives on Naxos reveal the island's rugged beauty. The morning at Purgos Athalassas is lonely and majestic. By noon, the sun warms the car on the way to Purgos tou Massena. Afternoon brings a visit to the cemetery in the crisp air before the tower shadows lengthen. At 17:00, we witness the sunset comfortably from the hilltop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Purgos Athalassas",
+                "hu": "Purgos Athalassas",
+                "ro": "Purgos Athalassas",
+                "en": "Purgos Athalassas"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht fantastische Fotos der Turmruine; halten Sie eine warme Jacke für den kurzen Aufenthalt draußen bereit.",
+                "hu": "A tiszta téli levegőben fantasztikus fotókat készíthet a toronyromról; tartson készenlétben meleg kabátot a rövid kinti tartózkodáshoz.",
+                "ro": "Aerul clar de iarnă permite fotografii fantastice ale ruinei turnului; aveți o jachetă groasă pregătită pentru scurta ieșire afară.",
+                "en": "The clear winter air allows for fantastic photos of the tower ruin; have a warm jacket ready for the short time spent outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos tou Massena",
+                "hu": "Purgos tou Massena",
+                "ro": "Purgos tou Massena",
+                "en": "Purgos tou Massena"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt entlang der einsamen Winterküste; die tiefe Sonne kann blenden, halten Sie eine Sonnenbrille bereit.",
+                "hu": "Élvezze az autózást a néptelen téli parton; az alacsonyan járó nap elvakíthatja, ezért tartsa kéznél a napszemüveget.",
+                "ro": "Bucurați-vă de drumul de-a lungul coastei pustii; soarele jos vă poate orbi, deci aveți ochelarii de soare la îndemână.",
+                "en": "Enjoy the drive along the deserted winter coast; the low sun can be dazzling, so keep your sunglasses handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekrotapheio tou Tsikalariou",
+                "hu": "Nekrotapheio tou Tsikalariou",
+                "ro": "Nekrotapheio tou Tsikalariou",
+                "en": "Nekrotapheio tou Tsikalariou"
+              },
+              "tip_5lang": {
+                "de": "Die Stille des Ortes ist im Winter besonders beeindruckend; nutzen Sie die Parkheizung, um nach dem Rundgang schnell wieder warm zu werden.",
+                "hu": "A hely csendje télen különösen lenyűgöző; használja az autó fűtését a gyors felmelegedéshez a séta után.",
+                "ro": "Liniștea locului este impresionantă iarna; folosiți încălzirea din mașină pentru a vă încălzi rapid după plimbare.",
+                "en": "The silence of the site is especially moving in winter; use the car heater to warm up quickly after your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Damiotissa",
+                "hu": "Panagia Damiotissa",
+                "ro": "Panagia Damiotissa",
+                "en": "Panagia Damiotissa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das Licht warm wird, und achten Sie auf die früh einsetzende Kühle.",
+                "hu": "Látogassa meg a templomot késő délután, amikor a fények melegebbé válnak, és ügyeljen a korán beköszöntő esti hűvösre.",
+                "ro": "Vizitați biserica după-amiaza târziu, când lumina devine caldă, și aveți grijă la răcoarea care se instalează rapid.",
+                "en": "Visit the church in the late afternoon as the light warms up, but be mindful of the rapid drop in temperature toward evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Markopolite - Kalabrou",
+                "hu": "Purgos Markopolite - Kalabrou",
+                "ro": "Purgos Markopolite - Kalabrou",
+                "en": "Purgos Markopolite - Kalabrou"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr ist der Höhepunkt; bleiben Sie für das Lichtspektakel im Auto sitzen, wenn es draußen zu windig ist.",
+                "hu": "A 17:00 órai naplemente a nap fénypontja; nézze végig az autóból a fényjátékot, ha kint túl erős lenne a szél.",
+                "ro": "Apusul de la ora 17:00 este punctul culminant; rămâneți în mașină pentru spectacolul de lumini dacă afară este prea vânt.",
+                "en": "The 17:00 sunset is the highlight of the day; stay inside the car for the light show if it's too windy outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

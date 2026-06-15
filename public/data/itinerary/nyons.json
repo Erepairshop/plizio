@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Nyons történelmi központjának felfedezésével az árkádok és a közeli templom körül. Délben feljut az ikonikus toronyhoz, majd átkel a lenyűgöző római hídon. Délután fedezze fel a helyi örökséget a szűrőgyárban és a levendulalepárlóban. Az estét egy izgalmas olívamúzeumi élmény zárja.",
         "ro": "Începeți dimineața explorând centrul istoric al orașului Nyons, în jurul arcadelor tradiționale și al bisericii din apropiere. La prânz, urcați spre turnul iconic înainte de a traversa remarcabilul pod roman. După-amiaza, descoperiți patrimoniul local la vechea fabrică de filtre și la distileria de lavandă. Seara se încheie cu o experiență la muzeul măslinului.",
         "en": "Start your morning exploring the historic heart of Nyons around the traditional arcades and the nearby church. Midday brings you up to the iconic tower before crossing the remarkable Roman bridge. In the afternoon, discover local heritage at the ancient filter factory and the lavender distillery. The evening concludes with an immersive olive museum experience."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Nyons beginnt geschützt unter den historischen Arkaden. Mittags führt der Weg durch schmale Gassen zur alten Brücke, wo das Wasser des Eygues rauscht. Nachmittags bieten die Museen und Destillerien trockene Zufluchtsorte voller Düfte. Der Abend klingt gemütlich in den beleuchteten Innenräumen der Altstadt aus, während der Regen sanft auf die Ziegeldächer trommelt.",
+            "hu": "A nyons-i esős nap a történelmi árkádok alatt indul, ahol védve maradunk az égi áldástól. Délben a szűk utcákon át a hídhoz sétálunk, figyelve a csúszós macskakövekre. A délután az illatos lepárlók és múzeumok fedett tereiben telik, távol a sártól. Este a város fényei megcsillannak a vizes aszfalton, meghitt hangulatot árasztva a régi városfalak között.",
+            "ro": "O zi ploioasă în Nyons începe sub arcadele istorice, oferind un adăpost perfect. La prânz, drumul duce spre podul vechi, unde sunetul râului devine mai intens. După-amiaza este dedicată muzeelor și distileriilor, locuri calde și uscate pline de arome. Seara se încheie plăcut în centrul vechi, unde luminile orașului se reflectă în bălțile de pe străzile pavate.",
+            "en": "A rainy day in Nyons starts under the shelter of the historic arcades. At noon, the walk continues through narrow streets to the Roman bridge, where the river's rush is amplified. The afternoon is best spent in the dry, aromatic interiors of local distilleries and museums. Evening settles in with a cozy atmosphere as city lights shimmer on the wet cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Arcades",
+                "hu": "Place des Arcades",
+                "ro": "Place des Arcades",
+                "en": "Place des Arcades"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Bogengänge als natürlichen Regenschirm, um die Architektur trocken zu bewundern; Vorsicht vor Pfützen auf dem unebenen Pflaster.",
+                "hu": "Használja ki a mély árkádok nyújtotta természetes ernyőt az építészet megcsodálásához; ügyeljen a tócsákra az egyenetlen történelmi kövezeten.",
+                "ro": "Folosiți arcadele adânci ca pe o umbrelă naturală pentru a admira arhitectura la adăpost; atenție la bălțile de pe pavajul istoric denivelat.",
+                "en": "Use the deep arcades as a natural umbrella to admire the architecture while staying dry; watch out for puddles on the uneven historic pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vincent",
+                "hu": "Saint-Vincent templom",
+                "ro": "Biserica Saint-Vincent",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, trockenen Rückzugsort vor dem prasselnden Regen; genießen Sie die sakrale Stille und die kunstvollen Details im Inneren.",
+                "hu": "A templom csendes és száraz menedéket nyújt a kopogó eső elől; élvezze a szakrális békét és a belső tér művészi részleteit a vihar alatt.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat în fața ploii; bucurați-vă de liniștea sacră și de detaliile artistice din interior în timpul furtunii.",
+                "en": "The church provides a quiet, dry sanctuary from the pattering rain; enjoy the sacred silence and the artistic interior details during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Randonne",
+                "hu": "Tour Randonne",
+                "ro": "Turnul Randonne",
+                "en": "Tour Randonne"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Kapelle kann bei Nässe rutschig sein, daher ist festes Schuhwerk ratsam; die kleine Kapelle oben bietet einen kurzen, trockenen Unterschlupf.",
+                "hu": "A kápolnához vezető út nedves időben csúszós lehet, ezért stabil lábbeli ajánlott; a fenti kis kápolna rövid, száraz menedéket kínál a látogatóknak.",
+                "ro": "Urcarea spre capelă poate fi alunecoasă pe timp de ploaie, deci se recomandă încălțăminte stabilă; mica capelă de sus oferă un scurt adăpost uscat.",
+                "en": "The climb to the chapel can be slippery when wet, so sturdy footwear is advised; the small chapel at the top offers a brief, dry shelter for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine der Brücke sind bei Regen extrem glatt, nutzen Sie unbedingt das Geländer für einen sicheren Blick auf den anschwellenden Fluss.",
+                "hu": "A híd történelmi kövei esőben rendkívül csúszósak, mindenképpen kapaszkodjon a korlátba, miközben a megáradt folyót figyeli a magasból.",
+                "ro": "Pietrele istorice ale podului sunt extrem de alunecoase pe ploaie, folosiți neapărat balustrada în timp ce observați râul umflat de sus.",
+                "en": "The bridge's historic stones are extremely slippery in the rain, so be sure to hold the railing while watching the swollen river from above."
+              }
+            },
+            {
+              "name": {
+                "de": "Scourtinerie",
+                "hu": "Scourtinerie",
+                "ro": "Scourtinerie",
+                "en": "Scourtinerie"
+              },
+              "tip_5lang": {
+                "de": "In dieser historischen Manufaktur bleiben Sie garantiert trocken und können den Kunsthandwerkern bei der Arbeit zusehen; ideal für eine längere Regenpause.",
+                "hu": "Ebben a történelmi manufaktúrában garantáltan szárazon maradhat, miközben figyeli a kézművesek munkáját; ideális helyszín egy hosszabb esőszünethez.",
+                "ro": "În această manufactură istorică veți rămâne cu siguranță uscat în timp ce urmăriți meșteșugarii la lucru; locație ideală pentru o pauză de ploaie.",
+                "en": "In this historic manufactory, you are guaranteed to stay dry while watching the artisans at work; an ideal location for a longer rain break."
+              }
+            },
+            {
+              "name": {
+                "de": "Distillerie Bleu Provence",
+                "hu": "Distillerie Bleu Provence",
+                "ro": "Distillerie Bleu Provence",
+                "en": "Distillerie Bleu Provence"
+              },
+              "tip_5lang": {
+                "de": "Der Duft von Lavendel wirkt bei Regen besonders beruhigend; nutzen Sie die Zeit für eine ausführliche Tour durch die überdachten Destillationsanlagen.",
+                "hu": "A levendula illata esőben különösen nyugtatóan hat; használja ki az időt egy alapos túrára a fedett lepárlóberendezések és a bolt között.",
+                "ro": "Parfumul de lavandă are un efect calmant pe timp de ploaie; profitați de timp pentru un tur detaliat al instalațiilor de distilare acoperite.",
+                "en": "The scent of lavender is particularly calming in the rain; take advantage of the time for a detailed tour of the covered distillation facilities."
+              }
+            },
+            {
+              "name": {
+                "de": "Olivenmuseum",
+                "hu": "Olívamúzeum",
+                "ro": "Muzeul Măslinului",
+                "en": "Musée de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Abschluss für einen nassen Tag, da alle Exponate im Inneren liegen; wärmen Sie sich bei einer Olivenölverkostung wieder auf.",
+                "hu": "A múzeum tökéletes zárása egy vizes napnak, mivel minden kiállítás beltéren van; melegedjen fel egy kellemes olívaolaj-kóstoló során.",
+                "ro": "Muzeul este finalul perfect pentru o zi umedă, deoarece toate expozițiile sunt la interior; încălziți-vă în timpul unei degustări de ulei de măsline.",
+                "en": "The museum is the perfect end to a wet day as all exhibits are indoors; warm up during a pleasant olive oil tasting session."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Nyons ist frisch und klar, ideal für einen Spaziergang durch das historische Zentrum. Mittags wärmt die tiefstehende Sonne die Fassaden der Place des Arcades. Da es bereits gegen 17:00 Uhr dunkel wird, verlagert sich das Geschehen am Nachmittag in die gemütlichen Museen. Der Abend endet früh bei Kerzenschein und lokaler Kulinarik in den beheizten Stuben der Stadt.",
+            "hu": "A téli reggel Nyons-ban friss és tiszta, tökéletes egy sétához a történelmi központban. Délben az alacsonyan járó nap sugarai megvilágítják az árkádos teret. Mivel 17:00 körül már sötétedik, a délutánt érdemes a múzeumok melegében tölteni. Az este korán kezdődik, gyertyafényes hangulattal és helyi finomságokkal a város fűtött vendéglőiben.",
+            "ro": "Dimineața de iarnă în Nyons este proaspătă și senină, ideală pentru o plimbare prin centrul istoric. La prânz, soarele blând încălzește fațadele din Place des Arcades. Deoarece se întunecă în jur de ora 17:00, după-amiaza este petrecută în căldura muzeelor. Seara începe devreme, cu o atmosferă primitoare în localurile încălzite ale orașului.",
+            "en": "The winter morning in Nyons is fresh and clear, ideal for a stroll through the historic center. At noon, the low sun warms the facades of Place des Arcades. Since it gets dark around 17:00, the afternoon is best spent in the warmth of the museums. The evening starts early with candlelight and local delicacies in the city's heated establishments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Arcades",
+                "hu": "Place des Arcades",
+                "ro": "Place des Arcades",
+                "en": "Place des Arcades"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den winterlichen Markt unter den Arkaden, die einen guten Windschutz bieten; ziehen Sie sich warm an, da der Stein die Kälte speichert.",
+                "hu": "Élvezze a téli piacot az árkádok alatt, amelyek jó szélvédelmet nyújtanak; öltözzön rétegesen, mert a kőfalak ontják magukból a hideget.",
+                "ro": "Bucurați-vă de piața de iarnă sub arcade, care oferă o bună protecție împotriva vântului; îmbrăcați-vă bine, deoarece piatra reține frigul.",
+                "en": "Enjoy the winter market under the arcades, which provide good wind protection; dress warmly as the stone walls radiate cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vincent",
+                "hu": "Saint-Vincent templom",
+                "ro": "Biserica Saint-Vincent",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten die Kälte draußen; nutzen Sie den Besuch für einen Moment der Besinnung in der friedlichen Winteratmosphäre.",
+                "hu": "A templom vastag falai távol tartják a kinti fagyot; használja ki a látogatást egy kis elcsendesedésre a békés téli hangulatban.",
+                "ro": "Zidurile groase ale bisericii țin frigul afară; profitați de vizită pentru un moment de reflecție în atmosfera pașnică de iarnă.",
+                "en": "The church's thick walls keep the outside frost away; take advantage of the visit for a moment of quiet reflection in the peaceful winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Randonne",
+                "hu": "Tour Randonne",
+                "ro": "Turnul Randonne",
+                "en": "Tour Randonne"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von oben ist im Winter besonders weit und klar, aber der Wind kann hier oben eisig sein; Mütze und Handschuhe sind absolut empfehlenswert.",
+                "hu": "A kilátás fentről télen különösen messzi és tiszta, de a szél itt metsző lehet; sapka és kesztyű használata mindenképpen javasolt.",
+                "ro": "Priveliștea de sus este deosebit de clară iarna, dar vântul poate fi tăios aici; căciula și mănușile sunt absolut recomandate pentru vizitatori.",
+                "en": "The view from the top is exceptionally clear in winter, but the wind can be biting up here; hat and gloves are strongly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke bietet im weichen Winterlicht ein tolles Fotomotiv; achten Sie auf eventuelle Reifglätte auf den Steinen am frühen Vormittag.",
+                "hu": "A híd a lágy téli fényekben remek fotótéma; ügyeljen a köveken kora délelőtt megjelenő zúzmarára, amely váratlanul csúszóssá teheti az utat.",
+                "ro": "Podul oferă un subiect foto excelent în lumina blândă de iarnă; atenție la chiciura de pe pietre dimineața devreme, care poate fi alunecoasă.",
+                "en": "The bridge is a great photo subject in the soft winter light; watch out for frost on the stones early in the morning, which can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Scourtinerie",
+                "hu": "Scourtinerie",
+                "ro": "Scourtinerie",
+                "en": "Scourtinerie"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstatt ist im Winter ein herrlich warmer Ort, an dem man das traditionelle Handwerk in gemütlicher Atmosphäre ganz nah erleben kann.",
+                "hu": "A műhely télen csodálatosan meleg helyszín, ahol a hagyományos mesterséget meghitt környezetben, testközelből ismerhetjük meg.",
+                "ro": "Atelierul este un loc minunat de cald iarna, unde puteți experimenta meșteșugul tradițional de aproape, într-o atmosferă primitoare.",
+                "en": "The workshop is a wonderfully warm place in winter, where you can experience the traditional craft up close in a cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Distillerie Bleu Provence",
+                "hu": "Distillerie Bleu Provence",
+                "ro": "Distillerie Bleu Provence",
+                "en": "Distillerie Bleu Provence"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den beheizten Shop und probieren Sie einen warmen Kräutertee, während Sie die Welt der ätherischen Öle im Schutz vor der Kälte erkunden.",
+                "hu": "Látogasson el a fűtött boltba, és kóstoljon meg egy meleg gyógyteát, miközben a hidegtől védve fedezi fel az illóolajok különleges világát.",
+                "ro": "Vizitați magazinul încălzit și gustați un ceai de plante cald în timp ce explorați lumea uleiurilor esențiale, la adăpost de frig.",
+                "en": "Visit the heated shop and try a warm herbal tea while exploring the world of essential oils, well protected from the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Olivenmuseum",
+                "hu": "Olívamúzeum",
+                "ro": "Muzeul Măslinului",
+                "en": "Musée de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, ist das Museum der ideale Ort, um den späten Nachmittag im Warmen zu verbringen und lokale Spezialitäten zu entdecken.",
+                "hu": "Mivel a nap korán nyugszik, a múzeum ideális hely a késő délután eltöltésére a melegben, miközben felfedezzük a helyi különlegességeket.",
+                "ro": "Deoarece soarele apune devreme, muzeul este locul ideal pentru a petrece după-amiaza la căldură și pentru a descoperi specialitățile locale.",
+                "en": "As the sun sets early, the museum is the ideal place to spend the late afternoon in the warm while discovering local specialties."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Induljon a reggel a festői toronynál, majd guruljon le a történelmi főtérre. Délben egy látványos kerékpározás következik a római hídhoz, mielőtt elmerülne a szövőgyár ipari múltjában. Délután élvezze a levendulalepárló és az olívamúzeum illatait. Zárja a napot egy pihentető sétával az aromás kertekben.",
         "ro": "Pedalați dimineața începând de la turnul pitoresc și coborâți apoi spre piața principală istorică. La prânz, bucurați-vă de o plimbare spre podul roman înainte de a explora fabrica de țesături. Petreceți după-amiaza bucurându-vă de parfumurile distileriei de lavandă și ale muzeului măslinului. Încheiați-vă ziua relaxându-vă în grădinile aromatice pline de farmec.",
         "en": "Pedal into the morning starting at the scenic tower and then coast down to the historic main square. Midday features a spectacular ride to the Roman bridge before diving into the town's industrial past at the weaving factory. Spend your afternoon enjoying the scents of the lavender distillery and the olive museum. Conclude your day relaxing in the aromatic gardens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen von Nyons. Morgens geht es zur Tour Randonne, mittags durch die Altstadt zur Brücke. Die Nachmittagsstunden verbringt man am besten bei längeren Pausen in den trockenen Museen. Abends führt der Weg durch die nassen Gärten zurück, wobei die Lichter der Stadt den Heimweg stimmungsvoll weisen.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel Nyons csúszós útjain. Reggel a toronyhoz tekerünk, délben az óvároson át a hídhoz. A délutáni órákat érdemes hosszabb pihenőkkel a száraz múzeumokban tölteni. Este a vizes kerteken át vezet az út vissza, miközben a város fényei hangulatosan mutatják az irányt a sötétedő esőben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile alunecoase din Nyons. Dimineața mergem spre turn, iar la prânz prin orașul vechi spre pod. După-amiaza este cel mai bine petrecută cu pauze lungi în muzeele uscate. Seara, drumul duce înapoi prin grădinile ude, luminile orașului ghidând calea prin ploaie.",
+            "en": "A bike tour in the rain requires caution on Nyons' slippery roads. In the morning, cycle to the tower, and at noon through the old town to the bridge. Spend the afternoon hours with longer breaks in the dry museums. In the evening, the path leads back through the wet gardens, with city lights guiding the way through the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tour Randonne",
+                "hu": "Tour Randonne",
+                "ro": "Turnul Randonne",
+                "en": "Tour Randonne"
+              },
+              "tip_5lang": {
+                "de": "Der steile Weg zur Tour ist bei Nässe rutschig; fahren Sie langsam und nutzen Sie die Kapelle als kurzen Unterstand vor dem nächsten Schauer.",
+                "hu": "A toronyhoz vezető meredek út nedvesen csúszik; tekerjen lassan, és használja a kápolnát rövid menedékként a következő zápor előtt.",
+                "ro": "Drumul abrupt spre turn este alunecos pe ud; pedalați încet și folosiți capela ca un scurt adăpost înainte de următoarea aversă.",
+                "en": "The steep path to the tower is slippery when wet; ride slowly and use the chapel as a brief shelter before the next rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Arcades",
+                "hu": "Place des Arcades",
+                "ro": "Place des Arcades",
+                "en": "Place des Arcades"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie die Arkaden für einen trockenen Spaziergang; achten Sie beim Wiederaufsteigen auf nasse Markierungen.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja az árkádokat egy száraz sétához; visszaszálláskor ügyeljen a nedves útburkolati jelekre.",
+                "ro": "Parcați bicicleta în siguranță și folosiți arcadele pentru o plimbare uscată; la plecare, atenție la marcajele rutiere umede și alunecoase.",
+                "en": "Park your bike safely and use the arcades for a dry stroll; when getting back on, watch out for wet and slippery road markings."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke bei Regen am besten schiebend, da das Kopfsteinpflaster extrem glatt wird; genießen Sie den dramatischen Blick auf den Fluss.",
+                "hu": "A hídon esőben a legjobb, ha tolja a kerékpárt, mert a macskakő rendkívül csúszós lesz; élvezze a folyóra nyíló drámai kilátást biztonságban.",
+                "ro": "Cel mai bine este să traversați podul pe lângă bicicletă, deoarece pavajul devine extrem de alunecos; bucurați-vă de vederea dramatică asupra râului.",
+                "en": "It's best to walk your bike across the bridge in the rain as the cobblestones get extremely slippery; enjoy the dramatic river view safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Scourtinerie",
+                "hu": "Scourtinerie",
+                "ro": "Scourtinerie",
+                "en": "Scourtinerie"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Räder im Trockenen stehen zu lassen und sich das Handwerk anzusehen; die Werkstatt bietet Schutz vor Wind und Wetter.",
+                "hu": "Ideális helyszín, hogy a bringákat szárazon hagyva megtekintsük a mesterséget; a műhely tökéletes védelmet nyújt a szél és az eső elől.",
+                "ro": "Locație ideală pentru a lăsa bicicletele la uscat în timp ce vizitați atelierul; locația oferă protecție excelentă împotriva vântului și ploii.",
+                "en": "An ideal location to leave the bikes dry while checking out the craft; the workshop provides excellent protection from wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Distillerie Bleu Provence",
+                "hu": "Distillerie Bleu Provence",
+                "ro": "Distillerie Bleu Provence",
+                "en": "Distillerie Bleu Provence"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder; im Inneren erwartet Sie eine warme, duftende Pause vom regnerischen Wetter.",
+                "hu": "Használja a fedett bejáratot a kerékpárok leállításához; odabent meleg, illatos pihenő várja, távol a barátságtalan, esős időjárástól.",
+                "ro": "Folosiți intrarea acoperită pentru a lăsa bicicletele; în interior vă așteaptă o pauză caldă și parfumată, departe de vremea ploioasă.",
+                "en": "Use the covered entrance area to park your bikes; inside, a warm, fragrant break awaits you, far from the unfriendly rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Olivenmuseum",
+                "hu": "Olívamúzeum",
+                "ro": "Muzeul Măslinului",
+                "en": "Musée de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie sich vor der letzten Etappe aufwärmen; das Museum bietet ausreichend Platz und Schutz für eine ausgiebige Besichtigung im Trockenen.",
+                "hu": "Itt felmelegedhet az utolsó szakasz előtt; a múzeum bőséges helyet és védelmet kínál egy alapos, szárazon eltöltött tárlatvezetéshez.",
+                "ro": "Aici vă puteți încălzi înainte de ultima etapă; muzeul oferă spațiu generos și protecție pentru o vizită detaliată la adăpost.",
+                "en": "Here you can warm up before the last leg; the museum offers ample space and protection for a thorough visit in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Garten der Aromen",
+                "hu": "Aromák kertje",
+                "ro": "Grădina Aromelor",
+                "en": "Jardin des Arômes"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Garten können bei Regen matschig sein, bleiben Sie mit dem Rad auf den festen Pfaden und genießen Sie die frischen, feuchten Düfte.",
+                "hu": "A kert útjai esőben sárosak lehetnek, maradjon a kerékpárral a szilárd ösvényeken, és élvezze a friss, nedves növényi illatokat a levegőben.",
+                "ro": "Potecile din grădină pot fi noroioase; rămâneți cu bicicleta pe cărările solide și bucurați-vă de aromele proaspete și umede din aer.",
+                "en": "The garden paths can be muddy in the rain; stay on the solid paths with your bike and enjoy the fresh, moist plant scents in the air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Nyons ist belebend, erfordert aber warme Kleidung gegen den Mistral-Wind. Der Morgen beginnt mit einem steilen Anstieg, der den Körper aufwärmt. Mittags genießt man die klare Sicht von der Römerbrücke. Da das Licht ab 16:30 Uhr schwindet, sollten Sie die Museen am späten Nachmittag besuchen. Die Tour endet bei Einbruch der Dunkelheit in den aromatischen Gärten.",
+            "hu": "A téli biciklizés Nyons-ban frissítő, de a Mistral szél miatt réteges öltözetet igényel. A reggel meredek emelkedővel indul, ami segít bemelegedni. Délben tiszta kilátás nyílik a római hídról. Mivel 16:30 után fogyni kezd a fény, a délutánt töltse a múzeumokban. A túra a sötétség beálltával ér véget az aromás kertekben.",
+            "ro": "Ciclismul de iarnă în Nyons este revigorant, dar necesită haine groase împotriva vântului Mistral. Dimineața începe cu o urcare abruptă care ajută la încălzire. La prânz, bucurați-vă de vederea clară de pe pod. Deoarece lumina scade după ora 16:30, vizitați muzeele după-amiaza târziu. Turul se încheie la lăsarea întunericului.",
+            "en": "Cycling in winter in Nyons is invigorating but requires warm layers against the Mistral wind. The morning starts with a steep climb to warm up. At noon, enjoy clear views from the Roman bridge. Since light fades after 16:30, spend the late afternoon in museums. The tour ends as darkness falls in the aromatic gardens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tour Randonne",
+                "hu": "Tour Randonne",
+                "ro": "Turnul Randonne",
+                "en": "Tour Randonne"
+              },
+              "tip_5lang": {
+                "de": "Der morgendliche Aufstieg bringt den Kreislauf in Schwung; oben angekommen schützt die Kapelle kurz vor dem kalten Wind bei der Abfahrt.",
+                "hu": "A reggeli emelkedő jól beindítja a keringést; felérve a kápolna rövid védelmet nyújt a hideg szél ellen a lejtmenet megkezdése előtt.",
+                "ro": "Urcarea de dimineață pune circulația în mișcare; odată ajuns sus, capela oferă o scurtă protecție împotriva vântului rece înainte de coborâre.",
+                "en": "The morning climb gets the circulation going; once at the top, the chapel provides a brief shield from the cold wind before starting the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Arcades",
+                "hu": "Place des Arcades",
+                "ro": "Place des Arcades",
+                "en": "Place des Arcades"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne auf dem Platz für eine kurze Pause; die Arkaden bieten Schutz vor dem oft eisigen Winterwind in den Gassen.",
+                "hu": "Használja ki a déli napsütést a téren egy rövid pihenőre; az árkádok védelmet nyújtanak a sikátorokban gyakran metsző téli szél elől.",
+                "ro": "Folosiți soarele de prânz pentru o scurtă pauză în piață; arcadele oferă protecție împotriva vântului de iarnă adesea tăios de pe străduțe.",
+                "en": "Take advantage of the midday sun in the square for a short break; the arcades offer protection from the often biting winter wind in the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Das Licht ist im Winter ideal für Fotos der Brücke; achten Sie bei der Fahrt über die Brücke auf Raureif, der die Steine glatt macht.",
+                "hu": "A fények télen ideálisak a hídról készült fotókhoz; a hídon való átkeléskor ügyeljen a zúzmarára, amely váratlanul csúszóssá teheti a köveket.",
+                "ro": "Lumina este ideală iarna pentru fotografii cu podul; atenție la chiciură când traversați podul pe bicicletă, deoarece pietrele pot fi alunecoase.",
+                "en": "The light is ideal in winter for photos of the bridge; watch out for frost when crossing the bridge on your bike as the stones can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Scourtinerie",
+                "hu": "Scourtinerie",
+                "ro": "Scourtinerie",
+                "en": "Scourtinerie"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Station, um die kalten Finger in der Werkstatt aufzuwärmen und den Handwerkern bei der traditionellen Arbeit zuzuschauen.",
+                "hu": "Tökéletes állomás, hogy felmelegítsük elgémberedett ujjainkat a műhelyben, miközben figyeljük a kézművesek hagyományos munkáját.",
+                "ro": "O oprire perfectă pentru a vă încălzi degetele amorțite în atelier în timp ce urmăriți meșteșugarii lucrând în stil tradițional.",
+                "en": "A perfect stop to warm up cold fingers in the workshop while watching the artisans work in their traditional style."
+              }
+            },
+            {
+              "name": {
+                "de": "Distillerie Bleu Provence",
+                "hu": "Distillerie Bleu Provence",
+                "ro": "Distillerie Bleu Provence",
+                "en": "Distillerie Bleu Provence"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine Pause im warmen Shop; das Aroma des Lavendels erinnert an den Sommer, während es draußen winterlich kühl bleibt.",
+                "hu": "Kényeztesse magát egy pihenővel a meleg boltban; a levendula aromája a nyarat idézi, miközben kint marad a barátságtalan téli hűvösség.",
+                "ro": "Răsfățați-vă cu o pauză în magazinul încălzit; aroma de lavandă evocă vara, în timp ce afară rămâne răcoarea iernii.",
+                "en": "Treat yourself to a break in the warm shop; the aroma of lavender evokes summer while the winter chill remains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Olivenmuseum",
+                "hu": "Olívamúzeum",
+                "ro": "Muzeul Măslinului",
+                "en": "Musée de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Aufwärmphase; am späten Nachmittag bietet das Innere eine wohlige Zuflucht vor der Dämmerung.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb bemelegedésre; késő délután a belső tér kellemes menedéket nyújt a hűvös szürkület elől.",
+                "ro": "Profitați de vizita la muzeu pentru o fază mai lungă de încălzire; după-amiaza târziu, interiorul oferă un refugiu plăcut împotriva amurgului.",
+                "en": "Take advantage of the museum visit for a longer warm-up phase; in the late afternoon, the interior offers a cozy refuge from the dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Garten der Aromen",
+                "hu": "Aromák kertje",
+                "ro": "Grădina Aromelor",
+                "en": "Jardin des Arômes"
+              },
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Winter ruhig und schlafend; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die Rückfahrt in der Dunkelheit funktioniert.",
+                "hu": "A kert télen csendes és alvó arcát mutatja; győződjön meg róla, hogy a kerékpár világítása jól működik a sötétben történő visszajutáshoz.",
+                "ro": "Grădina pare liniștită și adormită iarna; asigurați-vă că luminile bicicletei funcționează bine pentru drumul de întoarcere pe întuneric.",
+                "en": "The garden appears quiet and dormant in winter; make sure your bike lights are working well for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "A reggeli autózás az illatos kerteknél kezdődik, amelyet a híres olívamúzeum alapos megtekintése követ. Délben a központ középkori árkádjai és a dombtetőn álló vallási torony felfedezése vár. Délután csodálja meg az ősi római hidat, mielőtt ellátogatna a hagyományos szűrőgyárba. Zárja az estét a levendulalepárló lenyűgöző látványával és illataival.",
         "ro": "Plimbarea de dimineață începe la grădinile aromatice, urmată de o vizită cuprinzătoare la faimosul muzeu al măslinului. La prânz sunteți invitat să explorați arcadele medievale și turnul religios de pe deal. După-amiaza, minunați-vă de vechiul pod roman înainte de a explora fabrica tradițională de filtre. Încheiați seara liniștit la distileria de lavandă.",
         "en": "Your morning drive begins at the fragrant aromatic gardens followed by a comprehensive visit to the famous olive museum. Midday invites you to explore the town center's medieval arcades and the hilltop religious tower. In the afternoon, marvel at the ancient Roman bridge before exploring the traditional filter factory. Wrap up the evening at the lavender distillery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Nyons lässt sich bequem mit dem Auto meistern. Morgens starten Sie trocken im aromatischen Garten, mittags parken Sie nahe der Arkaden für kurze Wege. Die Museen und Werkstätten am Nachmittag sind perfekte Ziele, um dem Wetter zu entfliehen. Der Abend endet entspannt mit einer Fahrt durch die glitzernden, nassen Straßen der beleuchteten Altstadt.",
+            "hu": "Az esős nap Nyons-ban kényelmesen teljesíthető autóval. Reggel szárazon indul a program az aromás kertekben, délben pedig az árkádok közelében parkolva minimálisra csökkenthető a gyaloglás. A délutáni múzeumlátogatások tökéletes menedéket nyújtanak. Az este nyugodtan zárul egy autózással a kivilágított óváros csillogó, vizes utcáin.",
+            "ro": "O zi ploioasă în Nyons poate fi parcursă confortabil cu mașina. Dimineața începeți la adăpost în grădinile aromatice, iar la prânz parcați aproape de arcade pentru a evita ploaia. Vizitele la muzee sunt refugiul perfect după-amiaza. Seara se încheie relaxat cu o plimbare cu mașina pe străzile luminate și umede ale centrului vechi.",
+            "en": "A rainy day in Nyons can be comfortably managed by car. Start the morning dry in the aromatic gardens, and at noon, park near the arcades to minimize walking in the rain. Afternoon museum visits provide the perfect escape. The evening ends relaxingly with a drive through the glittering, wet streets of the illuminated old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Garten der Aromen",
+                "hu": "Aromák kertje",
+                "ro": "Grădina Aromelor",
+                "en": "Jardin des Arômes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die regenfeuchten Pflanzen vom Auto aus, bevor Sie für einen kurzen, erfrischenden Spaziergang mit dem Regenschirm aussteigen.",
+                "hu": "Élvezze az eső áztatta növények látványát az autóból, mielőtt kiszállna egy rövid, frissítő sétára az esernyőjével a kert ösvényein.",
+                "ro": "Bucurați-vă de vederea plantelor umede de ploaie din mașină, înainte de a coborî pentru o scurtă plimbare revigorantă cu umbrela prin grădină.",
+                "en": "Enjoy the view of the rain-soaked plants from the car before getting out for a short, refreshing walk with your umbrella through the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Olivenmuseum",
+                "hu": "Olívamúzeum",
+                "ro": "Muzeul Măslinului",
+                "en": "Musée de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie oft direkt am Museum; nutzen Sie die Gelegenheit für eine ausführliche Tour durch die trockenen Ausstellungsräume.",
+                "hu": "Gyakran közvetlenül a múzeumnál talál parkolóhelyet; használja ki az alkalmat egy alapos túrára a száraz és érdekes kiállítótermekben.",
+                "ro": "Veți găsi adesea locuri de parcare chiar lângă muzeu; profitați de ocazie pentru un tur detaliat în sălile de expoziție uscate și interesante.",
+                "en": "You can often find parking spaces directly at the museum; take the opportunity for a thorough tour of the dry and interesting exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Arcades",
+                "hu": "Place des Arcades",
+                "ro": "Place des Arcades",
+                "en": "Place des Arcades"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in unmittelbarer Nähe, um den Weg zum schützenden Bogengang bei Regen so kurz wie möglich zu halten.",
+                "hu": "Keressen parkolóhelyet a közvetlen közelben, hogy az esőben a lehető legrövidebb legyen az út a védelmet nyújtó árkádokig.",
+                "ro": "Căutați un loc de parcare în imediata apropiere pentru a scurta cât mai mult drumul prin ploaie până la arcadele protectoare.",
+                "en": "Look for a parking space in the immediate vicinity to keep the walk through the rain to the protective arcades as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Randonne",
+                "hu": "Tour Randonne",
+                "ro": "Turnul Randonne",
+                "en": "Tour Randonne"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen anspruchsvoll sein; parken Sie sicher und genießen Sie den wolkenverhangenen Blick von der Kapelle aus.",
+                "hu": "A felvezető út heves esőzésben nehezebb lehet; parkoljon le biztonságosan, és élvezze a kápolnából nyíló felhős, misztikus kilátást.",
+                "ro": "Drumul de acces poate fi mai dificil în caz de ploaie torențială; parcați în siguranță și bucurați-vă de vederea mistică de la capelă.",
+                "en": "The access road can be more difficult in heavy rain; park safely and enjoy the cloudy, mystical view from the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto kurz ab, um den dramatischen Anblick des Flusses zu bewundern; Vorsicht beim Aussteigen auf glatten Fahrbahnrändern.",
+                "hu": "Álljon meg az autóval egy közeli helyen, hogy megcsodálja a folyó drámai látványát; kiszálláskor ügyeljen a csúszós útszegélyekre.",
+                "ro": "Opriți mașina într-un loc apropiat pentru a admira vederea dramatică a râului; atenție la marginile alunecoase ale drumului când coborâți.",
+                "en": "Stop the car nearby to admire the dramatic view of the river; watch out for slippery road edges when getting out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Scourtinerie",
+                "hu": "Scourtinerie",
+                "ro": "Scourtinerie",
+                "en": "Scourtinerie"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstatt liegt gut erreichbar; verbringen Sie hier eine entspannte Zeit im Trockenen, während draußen der Regen auf das Dach trommelt.",
+                "hu": "A műhely könnyen megközelíthető; töltsön el itt egy nyugodt időszakot szárazon, miközben kint az eső dobol a tetőn.",
+                "ro": "Atelierul este ușor accesibil; petreceți aici un timp relaxat la uscat, în timp ce afară ploaia bate în acoperiș.",
+                "en": "The workshop is easily accessible; spend some relaxed time here in the dry while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Distillerie Bleu Provence",
+                "hu": "Distillerie Bleu Provence",
+                "ro": "Distillerie Bleu Provence",
+                "en": "Distillerie Bleu Provence"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Abschluss der Tour: Parken Sie direkt vor Ort und genießen Sie die aromatische Atmosphäre der Destillerie ohne nass zu werden.",
+                "hu": "Tökéletes zárása a túrának: parkoljon le közvetlenül a helyszínen, és élvezze a lepárló aromás hangulatát anélkül, hogy megázna.",
+                "ro": "Finalul perfect pentru tur: parcați direct la locație și bucurați-vă de atmosfera aromatică a distileriei fără a vă uda.",
+                "en": "The perfect end to the tour: park directly on-site and enjoy the aromatic atmosphere of the distillery without getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Nyons bietet maximalen Komfort bei kühlen Temperaturen. Morgens wärmt die Heizung auf dem Weg zu den Gärten vor. Mittags erreichen Sie alle Sehenswürdigkeiten bequem, während draußen der Mistral weht. Da die Sonne bereits um 17:00 Uhr untergeht, können Sie die beleuchtete Stadt am späten Nachmittag aus der Wärme des Autos bewundern.",
+            "hu": "A téli autós túra Nyons-ban maximális kényelmet nyújt a hűvös időben. Reggel a fűtés már bemelegíti az utat a kertek felé. Délben kényelmesen elérhető minden látnivaló, miközben kint fúj a Mistral. Mivel a nap már 17:00-kor lemegy, a kivilágított várost a késő délutáni órákban az autó melegéből csodálhatja meg.",
+            "ro": "Un tur cu mașina iarna în Nyons oferă confort maxim la temperaturi scăzute. Dimineața, căldura din mașină vă pregătește pentru vizita la grădini. La prânz, ajungeți confortabil la toate obiectivele, în timp ce afară suflă Mistralul. Deoarece soarele apune la 17:00, puteți admira orașul luminat din căldura mașinii.",
+            "en": "A winter car tour through Nyons offers maximum comfort in cool temperatures. In the morning, the heater warms you up on the way to the gardens. At noon, reach all sights comfortably while the Mistral blows outside. Since the sun sets by 17:00, you can admire the illuminated city from the warmth of your car in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Garten der Aromen",
+                "hu": "Aromák kertje",
+                "ro": "Grădina Aromelor",
+                "en": "Jardin des Arômes"
+              },
+              "tip_5lang": {
+                "de": "Dank des Autos müssen Sie nur kurz in die Winterkälte, um die schlafende Natur des Gartens und die klare Winterluft kurz zu genießen.",
+                "hu": "Az autónak köszönhetően csak rövid időre kell kimennie a téli hidegbe, hogy megcsodálja a kert alvó természetét és a friss téli levegőt.",
+                "ro": "Datorită mașinii, trebuie să ieșiți doar pentru scurt timp în frigul iernii pentru a admira natura adormită a grădinii și aerul proaspăt.",
+                "en": "Thanks to the car, you only have to step out into the winter cold for a short time to admire the garden's dormant nature and fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Olivenmuseum",
+                "hu": "Olívamúzeum",
+                "ro": "Muzeul Măslinului",
+                "en": "Musée de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine längere Pause im Warmen; Parkplätze in der Nähe machen den Übergang vom Auto ins Gebäude sehr angenehm.",
+                "hu": "Használja ki a múzeumot egy hosszabb, meleg pihenőre; a közeli parkolóhelyek nagyon kényelmessé teszik az átjutást az autóból az épületbe.",
+                "ro": "Folosiți muzeul pentru o pauză mai lungă la căldură; locurile de parcare din apropiere fac trecerea de la mașină în clădire foarte plăcută.",
+                "en": "Use the museum for a longer, warm break; nearby parking spaces make the transition from the car to the building very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Arcades",
+                "hu": "Place des Arcades",
+                "ro": "Place des Arcades",
+                "en": "Place des Arcades"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und genießen Sie den winterlichen Markt; die Arkaden schützen Sie vor dem kalten Wind, während Sie lokale Produkte entdecken.",
+                "hu": "Parkoljon központi helyen, és élvezze a téli piacot; az árkádok megvédik a hideg széltől, miközben felfedezi a helyi termékeket a téren.",
+                "ro": "Parcați central și bucurați-vă de piața de iarnă; arcadele vă protejează de vântul rece în timp ce descoperiți produsele locale în piață.",
+                "en": "Park centrally and enjoy the winter market; the arcades protect you from the cold wind while you discover local products in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Randonne",
+                "hu": "Tour Randonne",
+                "ro": "Turnul Randonne",
+                "en": "Tour Randonne"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt nach oben bietet tolle Ausblicke auf die verschneiten Gipfel der Ferne; parken Sie direkt an der Kapelle für einen schnellen Fotostopp.",
+                "hu": "Az út felfelé remek kilátást nyújt a távoli, havas hegycsúcsokra; parkoljon le közvetlenül a kápolnánál egy gyors és látványos fotómegállóhoz.",
+                "ro": "Drumul spre culme oferă priveliști grozave spre vârfurile înzăpezite din depărtare; parcați chiar la capelă pentru o oprire foto rapidă.",
+                "en": "The drive up offers great views of distant snowy peaks; park directly at the chapel for a quick and spectacular photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Römerbrücke",
+                "hu": "Római híd",
+                "ro": "Podul Roman",
+                "en": "Roman Bridge"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht der tiefstehenden Wintersonne ist perfekt für Fotos; achten Sie beim Aussteigen auf glatte Stellen durch morgendlichen Frost.",
+                "hu": "Az alacsonyan járó téli nap lágy fénye tökéletes a fotózáshoz; kiszálláskor ügyeljen a reggeli fagy okozta csúszós foltokra az út mentén.",
+                "ro": "Lumina blândă a soarelui de iarnă este perfectă pentru fotografii; atenție la petele alunecoase cauzate de înghețul de dimineață la coborâre.",
+                "en": "The soft light of the low winter sun is perfect for photos; watch out for slippery spots caused by morning frost when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Scourtinerie",
+                "hu": "Scourtinerie",
+                "ro": "Scourtinerie",
+                "en": "Scourtinerie"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstatt ist im Winter ein herrlich gemütlicher Ort; parken Sie in der Nähe, um schnell in die warme Atmosphäre des Handwerks zu gelangen.",
+                "hu": "A műhely télen csodálatosan meghitt helyszín; parkoljon a közelben, hogy gyorsan bejusson a mesterség barátságos, meleg világába.",
+                "ro": "Atelierul este o locație minunat de primitoare iarna; parcați în apropiere pentru a intra rapid în lumea caldă a meșteșugului tradițional.",
+                "en": "The workshop is a wonderfully cozy location in winter; park nearby to quickly enter the friendly, warm world of traditional craft."
+              }
+            },
+            {
+              "name": {
+                "de": "Distillerie Bleu Provence",
+                "hu": "Distillerie Bleu Provence",
+                "ro": "Distillerie Bleu Provence",
+                "en": "Distillerie Bleu Provence"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Shop bei einem Dufterlebnis; die kurzen Wege vom Parkplatz machen den Besuch auch bei klirrender Kälte angenehm.",
+                "hu": "Zárja a napot a meleg boltban egy illatos élménnyel; a parkolótól mért rövid távolság még metsző hidegben is kellemessé teszi a látogatást.",
+                "ro": "Încheiați ziua în magazinul încălzit cu o experiență parfumată; distanța scurtă de la parcare face vizita plăcută chiar și pe un ger tăios.",
+                "en": "End the day in the warm shop with a fragrant experience; the short distance from the parking lot makes the visit pleasant even in biting cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

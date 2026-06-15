@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt San José zöldterületeinek és bájos központjának nyugodt légkörében.\nA dél közeledtével élvezze a fő strand finom homokját és a történelmi parti kilátópontokat.\nA délután a rejtett öblök és a drámai sziklás kiszögellések mélyebb felfedezésére hív.\nZárja a napot egy látványos mediterrán naplemente megcsodálásával a zord déli hegyfokokról.",
         "ro": "Începeți dimineața absorbind atmosfera liniștită a spațiilor verzi și a centrului fermecător din San José.\nSpre prânz, bucurați-vă de nisipul fin al plajei principale și de punctele de observare istorice.\nDupă-amiaza vă invită la o explorare mai profundă a golfurilor ascunse și a aflorimentelor stâncoase.\nÎncheiați ziua admirând un apus mediteranean spectaculos de pe promontoriile sudice.",
         "en": "Start the morning absorbing the tranquil atmosphere of San José's green spaces and charming center.\nAs midday approaches, enjoy the pristine sands of the main beach and the historic coastal viewpoints.\nThe afternoon invites deeper exploration of the hidden coves and dramatic rocky outcrops.\nConclude your day admiring a spectacular Mediterranean sunset from the rugged southern headlands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start im Park, gefolgt von einem windigen Spaziergang entlang der Küste. Suchen Sie mittags Schutz in den Cafés von San José. Der Nachmittag bietet dramatische Ausblicke auf das aufgewühlte Meer vom Mirador. Den Abend verbringen Sie gemütlich in einer der Bars am Hafen, während der Regen gegen die Fenster peitscht.",
+            "hu": "Esős reggel a parkban, majd szeles séta a parton. Délben keressen menedéket San José kávézóiban, ahol a tenger morajlását hallgathatja. Délután a kilátóból figyelheti a viharos hullámokat a csúszós ösvényeken. Az estét töltse egy hangulatos kikötői bárban, meleg ital mellett, figyelve a kikötő fényeit.",
+            "ro": "O dimineață ploioasă în parc, urmată de o plimbare vântoasă pe coastă. La prânz, căutați adăpost în cafenelele din San José. După-amiaza oferă priveliști dramatice spre marea agitată de la Mirador. Seara se petrece confortabil într-un bar din port, ascultând ploaia care bate în ferestre și savurând o băutură caldă.",
+            "en": "A rainy start in the park, followed by a windy walk along the coast. At noon, seek shelter in the local cafes of San José. The afternoon offers dramatic views of the turbulent sea from the Mirador. Spend the evening comfortably in a harbor bar while the rain beats against the windows and enjoy the local atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque de \"La Molina\"",
+                "hu": "Parque de \"La Molina\"",
+                "ro": "Parque de \"La Molina\"",
+                "en": "Parque de \"La Molina\""
+              },
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten einen natürlichen Schirm gegen leichten Regen; nutzen Sie die überdachten Bänke für eine Pause und tragen Sie wasserfeste Schuhe für die Kieswege.",
+                "hu": "A sűrű fák természetes ernyőt nyújtanak az enyhe eső ellen; pihenjen a fedett padokon, és viseljen vízálló cipőt a murvás ösvények miatt.",
+                "ro": "Copacii deși oferă o umbrelă naturală împotriva ploii ușoare; folosiți băncile acoperite pentru odihnă și purtați încălțăminte impermeabilă pe potecile cu pietriș.",
+                "en": "The dense trees provide a natural umbrella against light rain; use the covered benches for a break and wear waterproof shoes for the gravel paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de San José",
+                "hu": "Playa de San José",
+                "ro": "Playa de San José",
+                "en": "Playa de San José"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das tosende Meer von der Uferpromenade aus; die Cafés direkt am Strand sind der perfekte Ort, um trocken zu bleiben und die Gischt zu bewundern.",
+                "hu": "Figyelje a morajló tengert a sétányról; a közvetlen tengerparti kávézók tökéletes helyszínt biztosítanak, hogy szárazon maradva csodálja a hullámverést.",
+                "ro": "Admirați marea agitată de pe faleză; cafenelele de pe plajă sunt locul perfect pentru a rămâne uscat în timp ce priviți valurile spectaculoase.",
+                "en": "Watch the roaring sea from the promenade; the beachfront cafes are the perfect spot to stay dry while admiring the spectacular spray of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Fondeadero de San José",
+                "hu": "Fondeadero de San José",
+                "ro": "Fondeadero de San José",
+                "en": "Fondeadero de San José"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenbereich bietet bei Regen eine raue, maritime Atmosphäre; suchen Sie Schutz unter den Vordächern der Nautikgeschäfte und achten Sie auf rutschige Steine am Kai.",
+                "hu": "A kikötő esőben is különleges tengeri hangulatot áraszt; húzódjon a hajósboltok előtetői alá, és vigyázzon a rakpart csúszós köveire.",
+                "ro": "Zona portului oferă o atmosferă maritimă autentică pe ploaie; adăpostiți-vă sub copertinele magazinelor nautice și atenție la pietrele alunecoase de pe chei.",
+                "en": "The harbor area offers an authentic maritime atmosphere in the rain; shelter under the awnings of the nautical shops and watch out for slippery quay stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Calilla",
+                "hu": "Playa de La Calilla",
+                "ro": "Playa de La Calilla",
+                "en": "Playa de La Calilla"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Bucht wirkt bei grauem Himmel mystisch; bleiben Sie auf dem befestigten Weg oberhalb des Strandes, um Matsch zu vermeiden und die Aussicht zu genießen.",
+                "hu": "Ez a kis öböl misztikus látványt nyújt szürke égbolt alatt; maradjon a strand feletti szilárd burkolatú úton, hogy elkerülje a sarat.",
+                "ro": "Această mică porțiune de plajă pare mistică sub cerul gri; rămâneți pe drumul pavat de deasupra plajei pentru a evita noroiul și a vă bucura de peisaj.",
+                "en": "This small beach cove looks mystical under grey skies; stay on the paved path above the beach to avoid the mud and still enjoy the coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Sollarete",
+                "hu": "Mirador del Sollarete",
+                "ro": "Mirador del Sollarete",
+                "en": "Mirador del Sollarete"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg belohnt Sie mit einer dramatischen Sicht auf Regenvorhänge über dem Meer; gehen Sie vorsichtig, da die Felsen extrem rutschig sind, und nutzen Sie eine Regenjacke.",
+                "hu": "A felkapaszkodás jutalma a tenger feletti esőfüggönyök látványa; haladjon óvatosan, mert a sziklák nagyon csúszósak, és használjon szélálló esőkabátot.",
+                "ro": "Urcarea vă răsplătește cu o vedere dramatică asupra perdelelor de ploaie de deasupra mării; urcați cu grijă deoarece stâncile sunt alunecoase și purtați o pelerină.",
+                "en": "The climb rewards you with a dramatic view of rain curtains over the sea; walk carefully as the rocks are extremely slippery and wear a windproof raincoat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen im Park, perfekt für einen strammen Marsch. Die Sonne wärmt mittags am Strand, aber der Wind bleibt kühl. Am Nachmittag genießen Sie die klare Sicht am Mirador, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend wird kühl, ideal für ein warmes Abendessen in den beleuchteten Gassen.",
+            "hu": "Friss téli reggel a parkban, tökéletes egy élénkítő sétához a tiszta levegőn. Délben a nap kellemesen melegít a strandon, de a szél hűvös marad. Délután élvezze a tökéletes kilátást a Sollaretéről, mielőtt 17:00 körül lemegy a nap. Az este gyorsan lehűl, irány egy fűtött étterem.",
+            "ro": "O dimineață răcoroasă de iarnă în parc, perfectă pentru o plimbare energică. Soarele încălzește plaja la prânz, dar vântul rămâne rece. După-amiaza, bucurați-vă de vizibilitatea clară de la Mirador înainte de apusul de la ora 17:00. Seara devine rece rapid, fiind momentul ideal pentru o cină caldă.",
+            "en": "A crisp winter morning in the park, perfect for an invigorating walk in the fresh air. The sun warms the beach at noon, but the wind remains cool. In the afternoon, enjoy the clear views from the Mirador before the early 17:00 sunset. The evening turns chilly quickly, so head for a warm local dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque de \"La Molina\"",
+                "hu": "Parque de \"La Molina\"",
+                "ro": "Parque de \"La Molina\"",
+                "en": "Parque de \"La Molina\""
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne dringt durch die lichteren Bäume; genießen Sie die Ruhe des fast leeren Parks und tragen Sie Zwiebelkleidung für die kühlen Schattenbereiche.",
+                "hu": "A téli nap átsüt a ritkább lombozaton; élvezze az üres park nyugalmát, és öltözzön rétegesen, mert az árnyékos részeken jóval hidegebb van.",
+                "ro": "Soarele de iarnă pătrunde printre copaci; bucurați-vă de liniștea parcului aproape gol și îmbrăcați-vă în straturi pentru zonele răcoroase cu umbră.",
+                "en": "The winter sun shines through the thinner foliage; enjoy the peace of the nearly empty park and dress in layers for the cooler shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de San José",
+                "hu": "Playa de San José",
+                "ro": "Playa de San José",
+                "en": "Playa de San José"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist im Winter besonders erholsam; der Sand ist fest, aber der Wind vom Meer kann beißend sein, ein Schal ist daher ratsam.",
+                "hu": "A magányos tengerparti séta télen különösen pihentető; a homok kemény, de a tenger felől fújó szél metsző lehet, így egy sál mindenképp ajánlott.",
+                "ro": "O plimbare solitară pe plajă este relaxantă iarna; nisipul este ferm, dar vântul dinspre mare poate fi tăios, așa că o eșarfă este recomandată.",
+                "en": "A solitary beach walk is especially relaxing in winter; the sand is firm, but the wind from the sea can be biting, so a warm scarf is advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Fondeadero de San José",
+                "hu": "Fondeadero de San José",
+                "ro": "Fondeadero de San José",
+                "en": "Fondeadero de San José"
+              },
+              "tip_5lang": {
+                "de": "Die Boote liegen still im Wasser und das Licht ist perfekt für Fotos; nutzen Sie die Mittagssonne an den Kaimauern, um Vitamin D zu tanken.",
+                "hu": "A hajók mozdulatlanul pihennek a vízen, a fények pedig tökéletesek a fotózáshoz; használja ki a déli napsütést a rakparton a D-vitamin gyűjtéséhez.",
+                "ro": "Bărcile stau nemișcate în apă, iar lumina este perfectă pentru fotografii; profitați de soarele de la prânz pe dig pentru a acumula vitamina D.",
+                "en": "The boats lie still in the water and the winter light is perfect for photos; use the midday sun on the quay walls to soak up some Vitamin D."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Calilla",
+                "hu": "Playa de La Calilla",
+                "ro": "Playa de La Calilla",
+                "en": "Playa de La Calilla"
+              },
+              "tip_5lang": {
+                "de": "Diese Bucht ist oft windgeschützter als der Hauptstrand; ideal für ein kurzes Picknick in der Sonne, bevor die Kälte am späten Nachmittag zurückkehrt.",
+                "hu": "Ez az öböl gyakran szélvédettebb, mint a főstrand; ideális egy rövid napsütéses piknikhez, mielőtt a késő délutáni lehűlés megérkezik.",
+                "ro": "Această plajă este adesea mai ferită de vânt decât plaja principală; este ideală pentru un picnic scurt la soare înainte de răcirea de după-amiază.",
+                "en": "This cove is often more sheltered from the wind than the main beach; ideal for a short picnic in the sun before the late afternoon chill returns."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Sollarete",
+                "hu": "Mirador del Sollarete",
+                "ro": "Mirador del Sollarete",
+                "en": "Mirador del Sollarete"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft sorgt für eine extreme Fernsicht bis zum Cabo de Gata; kommen Sie gegen 16:30 Uhr hierher, um den frühen Sonnenuntergang über den Bergen zu erleben.",
+                "hu": "A téli levegő rendkívül tiszta kilátást biztosít a távoli fokokig; érkezzen 16:30 körül, hogy átélje a hegyek mögötti korai naplementét.",
+                "ro": "Aerul de iarnă oferă o vizibilitate extremă până la Cabo de Gata; veniți aici în jurul orei 16:30 pentru a vedea apusul timpuriu peste munți.",
+                "en": "The winter air provides extreme visibility all the way to Cabo de Gata; arrive around 16:30 to experience the early sunset over the mountains."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a reggelt San José zöldterületeinek és bájos központjának nyugodt légkörében.\nA dél közeledtével élvezze a fő strand finom homokját és a történelmi parti kilátópontokat.\nA délután a rejtett öblök és a drámai sziklás kiszögellések mélyebb felfedezésére hív.\nZárja a napot egy látványos mediterrán naplemente megcsodálásával a zord déli hegyfokokról.",
         "ro": "Începeți dimineața absorbind atmosfera liniștită a spațiilor verzi și a centrului fermecător din San José.\nSpre prânz, bucurați-vă de nisipul fin al plajei principale și de punctele de observare istorice.\nDupă-amiaza vă invită la o explorare mai profundă a golfurilor ascunse și a aflorimentelor stâncoase.\nÎncheiați ziua admirând un apus mediteranean spectaculos de pe promontoriile sudice.",
         "en": "Start the morning absorbing the tranquil atmosphere of San José's green spaces and charming center.\nAs midday approaches, enjoy the pristine sands of the main beach and the historic coastal viewpoints.\nThe afternoon invites deeper exploration of the hidden coves and dramatic rocky outcrops.\nConclude your day admiring a spectacular Mediterranean sunset from the rugged southern headlands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine abenteuerliche Tour durch den Park, bei der Regenkleidung unerlässlich ist. Mittags bietet San José eine willkommene Pause im Trockenen. Der Weg zur Playa de los Genoveses wird am Nachmittag zur schlammigen Herausforderung. Der Abend endet entspannt im Dorf, während Sie Ihre Ausrüstung trocknen lassen.",
+            "hu": "Kalandos túra a parkon át, ahol az esőruházat elengedhetetlen. Délben San José kényelmes pihenőt kínál fedett helyen. A Genoveses felé vezető út délután sáros kihívássá válik a bicikliseknek. Az este nyugodtan telik a faluban, miközben a felszerelését szárítja.",
+            "ro": "O tură aventuroasă prin parc, unde echipamentul de ploaie este esențial. La prânz, San José oferă o pauză binemeritată la uscat. Drumul spre Genoveses devine o provocare noroioasă după-amiaza. Seara se încheie relaxat în sat, în timp ce vă puneți echipamentul la uscat.",
+            "en": "An adventurous tour through the park where waterproof gear is essential. At noon, San José offers a welcome dry break. The path to Genoveses becomes a muddy challenge for cyclists in the afternoon. The evening ends slowly in the village while you let your gear dry out."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Günter Kunkel",
+                "hu": "Parque Günter Kunkel",
+                "ro": "Parque Günter Kunkel",
+                "en": "Parque Günter Kunkel"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können nach Regen matschig sein; fahren Sie langsam, um Spritzer zu vermeiden, und genießen Sie den Duft der feuchten Wüstenflora.",
+                "hu": "Az utak eső után sárosak lehetnek; haladjon lassan, hogy elkerülje a felcsapódó sarat, és élvezze a nedves sivatagi növényzet illatát.",
+                "ro": "Potecile pot fi noroioase după ploaie; pedalați încet pentru a evita stropirea și bucurați-vă de mirosul florei deșertice umede.",
+                "en": "The paths can be muddy after rain; ride slowly to avoid splashes and enjoy the unique scent of the damp desert flora."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de San José",
+                "hu": "Playa de San José",
+                "ro": "Playa de San José",
+                "en": "Playa de San José"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Straßen im Dorf, um den Regenpfützen zu entgehen; stellen Sie Ihr Rad unter einem Vordach ab, während Sie die Aussicht genießen.",
+                "hu": "Használja a falu szilárd burkolatú útjait az esővíz elkerülésére; parkolja le a kerékpárt egy előtető alatt, amíg a tengeri kilátásban gyönyörködik.",
+                "ro": "Folosiți străzile pavate din sat pentru a evita bălțile mari; parcați bicicleta sub o copertină în timp ce admirați vederea spre mare.",
+                "en": "Use the paved roads in the village to avoid large puddles; park your bike under a canopy while you enjoy the coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Fondeadero de San José",
+                "hu": "Fondeadero de San José",
+                "ro": "Fondeadero de San José",
+                "en": "Fondeadero de San José"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren auf den nassen Kaimauern, sie können extrem rutschig sein; suchen Sie sich eine überdachte Ecke im Hafen für eine kurze Rast.",
+                "hu": "Vigyázzon a vizes rakparton való biciklizéssel, mert nagyon csúszós lehet; keressen egy fedett sarkot a kikötőben egy rövid pihenőhöz.",
+                "ro": "Atenție la pedalatul pe cheiul umed, poate fi extrem de alunecos; căutați un colț acoperit în port pentru o scurtă odihnă.",
+                "en": "Be careful cycling on the wet quay walls as they can be extremely slippery; find a sheltered corner in the harbor for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino del Collado de los Genoveses",
+                "hu": "Molino del Collado de los Genoveses",
+                "ro": "Molino del Collado de los Genoveses",
+                "en": "Molino del Collado de los Genoveses"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Molino ist auf nasser Erde anstrengend; prüfen Sie Ihren Reifendruck für besseren Grip auf dem schlüpfrigen Untergrund.",
+                "hu": "A malomhoz vezető emelkedő a nedves földön fárasztó; ellenőrizze a guminyomást a jobb tapadás érdekében a csúszós talajon.",
+                "ro": "Urcarea spre moară pe pământ umed este obositoare; verificați presiunea în anvelope pentru o aderență mai bună pe terenul alunecos.",
+                "en": "The climb to the mill is tiring on wet earth; check your tire pressure for better grip on the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Genoveses",
+                "hu": "Playa de los Genoveses",
+                "ro": "Playa de los Genoveses",
+                "en": "Playa de los Genoveses"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Piste zur Bucht kann große Schlammlöcher haben; fahren Sie vorausschauend und meiden Sie die tiefsten Stellen, um nicht steckenzubleiben.",
+                "hu": "Az öbölbe vezető földúton nagy sártócsák lehetnek; figyeljen előre és kerülje a legmélyebb részeket, nehogy elakadjon a biciklivel.",
+                "ro": "Pista neasfaltată spre golf poate avea bălți mari de noroi; pedalați cu atenție și evitați zonele cele mai adânci pentru a nu rămâne blocat.",
+                "en": "The unpaved track to the bay can have large mud holes; ride proactively and avoid the deepest spots to prevent getting stuck."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgenstart mit dem Rad, bei dem Handschuhe empfohlen werden. Die Sonne steht mittags tief und sorgt für tolle Schatten am Strand. Am Nachmittag führt die Tour zum windigen Molino und weiter zum weiten Strand. Gegen 17:00 Uhr endet der Ausflug im goldenen Licht des frühen Sonnenuntergangs.",
+            "hu": "Hűvös reggeli indulás kerékpárral, a kesztyű viselése ajánlott. Délben az alacsonyan járó nap hosszú árnyékokat vet a strandon. Délután a túra a szeles malomhoz, majd a tágas partra vezet. 17:00 körül a kirándulás a korai naplemente aranyló fényeiben ér véget.",
+            "ro": "Un start răcoros de dimineață cu bicicleta, mănușile fiind recomandate. Soarele este jos la prânz și creează umbre lungi pe plajă. După-amiaza, tura duce la moara vântoasă și apoi spre plaja largă. În jurul orei 17:00, excursia se încheie în lumina aurie a apusului.",
+            "en": "A cool morning start by bike, gloves are highly recommended. The sun is low at noon, creating long shadows on the beach. In the afternoon, the tour leads to the windy mill and onto the wide beach. Around 17:00, the trip ends in the golden light of the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Günter Kunkel",
+                "hu": "Parque Günter Kunkel",
+                "ro": "Parque Günter Kunkel",
+                "en": "Parque Günter Kunkel"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht das Atmen beim Radeln leicht; starten Sie zügig, um Ihren Körper auf Betriebstemperatur zu bringen, und tragen Sie eine Windjacke.",
+                "hu": "A tiszta téli levegő megkönnyíti a légzést tekerés közben; kezdjen tempósan, hogy bemelegedjen, és viseljen szélálló kabátot.",
+                "ro": "Aerul curat de iarnă face respirația mai ușoară în timp ce pedalați; porniți energic pentru a vă încălzi corpul și purtați o jachetă de vânt.",
+                "en": "The clear winter air makes breathing easy while cycling; start at a good pace to warm up your body and wear a windbreaker."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de San José",
+                "hu": "Playa de San José",
+                "ro": "Playa de San José",
+                "en": "Playa de San José"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Promenaden für eine entspannte Fahrt; die Sonne reflektiert stark im Wasser, vergessen Sie daher Ihre Sonnenbrille nicht.",
+                "hu": "Élvezze az üres sétányt a nyugodt tekeréshez; a nap erősen tükröződik a vízen, ezért ne felejtse el a napszemüvegét.",
+                "ro": "Bucurați-vă de faleza goală pentru o plimbare relaxată; soarele se reflectă puternic în apă, așa că nu vă uitați ochelarii de soare.",
+                "en": "Enjoy the empty promenade for a relaxed ride; the sun reflects strongly on the water, so do not forget your sunglasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Fondeadero de San José",
+                "hu": "Fondeadero de San José",
+                "ro": "Fondeadero de San José",
+                "en": "Fondeadero de San José"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter ein ruhiger Rückzugsort; machen Sie eine kurze Pause in der Sonne, bevor Sie den windigen Anstieg zu den Klippen wagen.",
+                "hu": "A kikötő télen csendes menedék; tartson egy rövid pihenőt a napon, mielőtt nekivágna a sziklák felé vezető szeles emelkedőnek.",
+                "ro": "Portul este un refugiu liniștit iarna; faceți o scurtă pauză la soare înainte de a înfrunta urcarea vântoasă spre stânci.",
+                "en": "The harbor is a quiet retreat in winter; take a short break in the sun before venturing on the windy climb towards the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino del Collado de los Genoveses",
+                "hu": "Molino del Collado de los Genoveses",
+                "ro": "Molino del Collado de los Genoveses",
+                "en": "Molino del Collado de los Genoveses"
+              },
+              "tip_5lang": {
+                "de": "Hier oben weht im Winter oft ein starker Nordwind; ziehen Sie Ihre Kapuze fest und genießen Sie den Panoramablick über die trockene Landschaft.",
+                "hu": "Itt fent télen gyakran fúj az erős északi szél; húzza szorosra a kapucnit, és élvezze a panorámát a száraz táj felett.",
+                "ro": "Aici sus bate adesea un vânt puternic de nord iarna; strângeți gluga și bucurați-vă de vederea panoramică asupra peisajului arid.",
+                "en": "Up here, a strong north wind often blows in winter; pull your hood tight and enjoy the panoramic view over the dry landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Genoveses",
+                "hu": "Playa de los Genoveses",
+                "ro": "Playa de los Genoveses",
+                "en": "Playa de los Genoveses"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich weit und leer; radeln Sie am Rand des harten Sandes entlang und achten Sie auf das nahende Ende des Tageslichts.",
+                "hu": "A strand télen csodálatosan tágas és üres; tekerjen a kemény homok szélén, és figyeljen a nappali fény közeli végére.",
+                "ro": "Plaja este minunat de largă și goală iarna; pedalați pe marginea nisipului tare și fiți atenți la apropierea sfârșitului zilei.",
+                "en": "The beach is wonderfully wide and empty in winter; cycle along the edge of the firm sand and be mindful of the approaching end of daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a reggelt San José zöldterületeinek és bájos központjának nyugodt légkörében.\nA dél közeledtével élvezze a fő strand finom homokját és a történelmi parti kilátópontokat.\nA délután a rejtett öblök és a drámai sziklás kiszögellések mélyebb felfedezésére hív.\nZárja a napot egy látványos mediterrán naplemente megcsodálásával a zord déli hegyfokokról.",
         "ro": "Începeți dimineața absorbind atmosfera liniștită a spațiilor verzi și a centrului fermecător din San José.\nSpre prânz, bucurați-vă de nisipul fin al plajei principale și de punctele de observare istorice.\nDupă-amiaza vă invită la o explorare mai profundă a golfurilor ascunse și a aflorimentelor stâncoase.\nÎncheiați ziua admirând un apus mediteranean spectaculos de pe promontoriile sudice.",
         "en": "Start the morning absorbing the tranquil atmosphere of San José's green spaces and charming center.\nAs midday approaches, enjoy the pristine sands of the main beach and the historic coastal viewpoints.\nThe afternoon invites deeper exploration of the hidden coves and dramatic rocky outcrops.\nConclude your day admiring a spectacular Mediterranean sunset from the rugged southern headlands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Vormittag im Auto mit Blick auf die nebligen Türme. Mittags bietet San José perfekte Parkplätze direkt an den besten Restaurants. Am Nachmittag führt die Fahrt zu den Miradors, wo Sie die Wellen sicher aus dem Fahrzeug beobachten können. Der Abend endet bei prasselndem Regen im Dorfzentrum.",
+            "hu": "Kényelmes délelőtt az autóban, kilátással a ködös tornyokra. Délben San José tökéletes parkolókat kínál a legjobb éttermek közelében. Délután a kilátókhoz vezet az út, ahol biztonságban, az autóból figyelheti a hullámokat. Az este esőkopogás mellett ér véget a falu központjában.",
+            "ro": "O dimineață confortabilă în mașină cu vedere la turnurile încețoșate. La prânz, San José oferă parcări excelente lângă cele mai bune restaurante. După-amiaza, drumul duce spre punctele de belvedere, unde puteți privi valurile din mașină. Seara se încheie cu sunetul ploii în centrul satului.",
+            "en": "A comfortable morning in the car with views of the misty towers. At noon, San José offers perfect parking near the best restaurants. In the afternoon, the drive leads to the viewpoints where you can safely watch the waves from your vehicle. The evening ends with the sound of rain in the village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Calahiguera",
+                "hu": "Torre de Calahiguera",
+                "ro": "Torre de Calahiguera",
+                "en": "Torre de Calahiguera"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen rutschig sein; parken Sie etwas unterhalb und genießen Sie den Blick auf den Turm kurz zwischen zwei Regenschauern.",
+                "hu": "Az odavezető út esőben csúszós lehet; parkoljon kicsit lejjebb, és élvezze a kilátást a toronyra két zápor között.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie; parcați puțin mai jos și bucurați-vă de vederea spre turn în pauzele dintre averse.",
+                "en": "The access road can be slippery in the rain; park a bit further down and enjoy the view of the tower during a break between showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Higuera",
+                "hu": "Cala Higuera",
+                "ro": "Cala Higuera",
+                "en": "Cala Higuera"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf der unbefestigten Küstenstraße, Regen spült oft Steine auf den Weg; bewundern Sie die wilde Bucht am besten direkt durch die Windschutzscheibe.",
+                "hu": "Vigyázzon a parti földúton, az eső gyakran köveket mos az útra; a vad öblöt leginkább közvetlenül a szélvédőn keresztül csodálja meg.",
+                "ro": "Atenție pe drumul de coastă neasfaltat, ploaia aduce adesea pietre pe drum; admirați golful sălbatic cel mai bine direct prin parbriz.",
+                "en": "Be careful on the unpaved coastal road as rain often washes stones onto the path; admire the wild bay best directly through your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de San José",
+                "hu": "Playa de San José",
+                "ro": "Playa de San José",
+                "en": "Playa de San José"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Promenade, um schnell in eines der überdachten Cafés zu gelangen; genießen Sie das Meeresrauschen bei einer heißen Tasse Kaffee.",
+                "hu": "Parkoljon közel a sétányhoz, hogy gyorsan bejuthasson egy fedett kávézóba; élvezze a tengerzúgást egy forró kávé mellett.",
+                "ro": "Parcați aproape de faleză pentru a ajunge rapid într-o cafenea acoperită; bucurați-vă de sunetul mării lângă o cafea fierbinte.",
+                "en": "Park close to the promenade to quickly reach a covered cafe; enjoy the sound of the sea over a hot cup of coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Sollarete",
+                "hu": "Mirador del Sollarete",
+                "ro": "Mirador del Sollarete",
+                "en": "Mirador del Sollarete"
+              },
+              "tip_5lang": {
+                "de": "Der Mirador ist mit dem Auto gut erreichbar; bleiben Sie im Wagen und nutzen Sie die erhöhte Position für spektakuläre Fotos der stürmischen Küste.",
+                "hu": "A kilátó autóval jól megközelíthető; maradjon a kocsiban, és használja a magaslati pontot a viharos partról készült látványos fotókhoz.",
+                "ro": "Punctul de belvedere este ușor accesibil cu mașina; rămâneți în vehicul și folosiți poziția înaltă pentru fotografii spectaculoase ale coastei furtunoase.",
+                "en": "The viewpoint is easily accessible by car; stay in the vehicle and use the elevated position for spectacular photos of the stormy coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Genoveses",
+                "hu": "Playa de los Genoveses",
+                "ro": "Playa de los Genoveses",
+                "en": "Playa de los Genoveses"
+              },
+              "tip_5lang": {
+                "de": "Die Piste kann sehr matschig sein, fahren Sie nur mit vorsichtiger Geschwindigkeit; meiden Sie tiefe Wasseransammlungen, um die Mechanik Ihres Wagens zu schonen.",
+                "hu": "Az út nagyon sáros lehet, csak óvatos sebességgel haladjon; kerülje a mély tócsákat, hogy kímélje az autója műszaki állapotát.",
+                "ro": "Pista poate fi foarte noroioasă, conduceți cu viteză redusă; evitați bălțile adânci pentru a proteja mecanica mașinii dumneavoastră.",
+                "en": "The track can be very muddy, drive at a cautious speed; avoid deep puddles to protect your vehicle's mechanics."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintermorgen für eine Spritztour zu den Türmen. Mittags wärmt die Sonne den Wagen angenehm auf. Am Nachmittag führt die Route zu den weiten Stränden des Naturparks. Beenden Sie den Tag pünktlich zum Sonnenuntergang um 17:00 Uhr an einem der Panoramapunkte.",
+            "hu": "Napsütéses, de hideg téli reggel egy autós kiránduláshoz a tornyokig. Délben a nap kellemesen felmelegíti az autót. Délután az út a natúrpark tágas strandjaihoz vezet. Zárja a napot pontosan a 17:00 órai naplementekor az egyik panorámaponton.",
+            "ro": "O dimineață de iarnă însorită, dar rece, pentru o plimbare cu mașina spre turnuri. La prânz, soarele încălzește plăcut interiorul mașinii. După-amiaza, traseul duce spre plajele largi ale parcului natural. Încheiați ziua exact la apusul de la ora 17:00 la un punct panoramic.",
+            "en": "A sunny but cold winter morning for a drive to the towers. At noon, the sun pleasantly warms up the car. In the afternoon, the route leads to the wide beaches of the natural park. End your day exactly at the 17:00 sunset at one of the panoramic points."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Calahiguera",
+                "hu": "Torre de Calahiguera",
+                "ro": "Torre de Calahiguera",
+                "en": "Torre de Calahiguera"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht betont die Textur der alten Steine; genießen Sie die Aussicht vom Parkplatz aus und tragen Sie eine Mütze gegen den kalten Küstenwind.",
+                "hu": "A tiszta téli fény kiemeli a régi kövek szerkezetét; élvezze a kilátást a parkolóból, és viseljen sapkát a hideg tengeri szél ellen.",
+                "ro": "Lumina clară de iarnă scoate în evidență textura pietrelor vechi; admirați vederea din parcare și purtați o căciulă împotriva vântului rece de coastă.",
+                "en": "The clear winter light emphasizes the texture of the old stones; enjoy the view from the parking area and wear a hat against the cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Higuera",
+                "hu": "Cala Higuera",
+                "ro": "Cala Higuera",
+                "en": "Cala Higuera"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zur Bucht ist im Winter fast leer; nutzen Sie die Parkmöglichkeiten direkt am Wasser für ein kurzes Sonnenbad im windgeschützten Auto.",
+                "hu": "Az öbölbe vezető út télen szinte üres; használja ki a vízparti parkolási lehetőséget egy rövid napfürdőzésre a szélvédett autóban.",
+                "ro": "Drumul spre golf este aproape gol iarna; profitați de locurile de parcare de lângă apă pentru o scurtă baie de soare în mașina ferită de vânt.",
+                "en": "The road to the bay is almost empty in winter; use the parking spots by the water for a brief sunbath inside your wind-sheltered car."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de San José",
+                "hu": "Playa de San José",
+                "ro": "Playa de San José",
+                "en": "Playa de San José"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit Blick auf das Meer; die Sonne steht tief und taucht den gesamten Ort in ein warmes, oranges Licht.",
+                "hu": "Keressen egy tengerre néző parkolóhelyet; a nap alacsonyan jár, és az egész települést meleg narancssárga fénybe vonja.",
+                "ro": "Căutați un loc de parcare cu vedere la mare; soarele este jos pe cer și scaldă întreaga localitate într-o lumină portocalie caldă.",
+                "en": "Look for a parking spot with a sea view; the sun is low and bathes the entire village in a warm, orange winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Sollarete",
+                "hu": "Mirador del Sollarete",
+                "ro": "Mirador del Sollarete",
+                "en": "Mirador del Sollarete"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär; bleiben Sie bis kurz nach Sonnenuntergang, um das Alpenglühen auf den fernen Berggipfeln zu sehen.",
+                "hu": "A téli távlati kilátás lenyűgöző; maradjon kint kicsivel naplemente után is, hogy lássa a távoli hegycsúcsok vöröses fényeit.",
+                "ro": "Vizibilitatea la distanță iarna este spectaculoasă; rămâneți puțin după apus pentru a vedea reflexiile roșiatice pe vârfurile munților îndepărtați.",
+                "en": "The visibility in winter is spectacular; stay until just after sunset to see the alpenglow on the distant mountain peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Genoveses",
+                "hu": "Playa de los Genoveses",
+                "ro": "Playa de los Genoveses",
+                "en": "Playa de los Genoveses"
+              },
+              "tip_5lang": {
+                "de": "Im Winter können Sie oft kostenlos bis nah an den Strand fahren; beachten Sie, dass es ab 17:00 Uhr stockfinster wird, planen Sie die Rückfahrt rechtzeitig.",
+                "hu": "Télen gyakran ingyen és egészen közel parkolhat a parthoz; vegye figyelembe, hogy 17:00 után gyorsan besötétedik, tervezze meg időben a visszautat.",
+                "ro": "Iarna puteți parca adesea gratuit foarte aproape de plajă; rețineți că se întunecă rapid după ora 17:00, deci planificați drumul de întoarcere din timp.",
+                "en": "In winter, you can often park for free close to the beach; note that it gets dark quickly after 17:00, so plan your return trip in time."
+              }
+            }
+          ]
+        }
       }
     }
   }

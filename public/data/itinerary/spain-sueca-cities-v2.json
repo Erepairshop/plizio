@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Joan Fuster életének felfedezésével, mielőtt bepillantást nyerne a modern színházba. Délben a helyi galériák felé vegye az irányt. A délután a helyi gazdaságot meghatározó rizskultúra mélyreható megismerését hozza. Zárja az estét a város történelmi zenei társaságainak csodálatos dallamaival.",
         "ro": "Începeți dimineața explorând viața lui Joan Fuster, înainte de a vedea teatrul modern. La prânz, mergeți spre galeriile municipale, absorbind patrimoniul bogat al orașului Sueca. După-amiaza aduce o scufundare în cultura orezului. Încheiați seara lăsându-vă fermecați de societățile muzicale istorice.",
         "en": "Start your morning exploring the life of Joan Fuster before catching a glimpse of modern theatre. Midday, transition towards the municipal archives and galleries, absorbing Sueca’s rich heritage. Afternoon brings a deep dive into the rice culture that shapes the local economy. Conclude the evening by letting the historic musical societies serenade you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in Museen, um Schauern auszuweichen. Mittags ist ein Schirm zwischen den Kulturzentren nötig. Der starke Nachmittagsregen ist ideal für das Reismuseum. Beenden Sie den Abend trocken in den musikalischen Gesellschaften.",
+            "hu": "Kezdje a reggelt a múzeumokban, elkerülve a záporokat. Délben esernyővel sétáljon a kulturális központok között. A délutáni heves esőzés alatt a rizsmúzeum tökéletes menedék. Az estét töltse biztonságosan, esőtől védve a zenei társaságoknál.",
+            "ro": "Începeți dimineața în muzee pentru a evita ploile. La prânz, umbrela este esențială între centrele culturale. Ploaia puternică de după-amiază e perfectă pentru muzeul orezului. Încheiați seara la adăpost, bucurându-vă de societățile muzicale.",
+            "en": "Start with indoor museums to avoid morning showers. Midday requires an umbrella between the cultural centers. Afternoon heavy rain is perfect for exploring the rice museum. End the evening safely indoors enjoying the local musical societies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Joan Fuster",
+                "hu": "Museu Joan Fuster",
+                "ro": "Muzeul Joan Fuster",
+                "en": "Museu Joan Fuster"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die reiche Literaturgeschichte vor Regen geschützt im Haus. Lassen Sie Ihren nassen Schirm am Eingang, um die Ausstellung zu genießen.",
+                "hu": "Fedezze fel a gazdag irodalmi történelmet esőtől védve. Hagyja a vizes esernyőt a bejáratnál, hogy biztonságosan és szárazon élvezze a kiállításokat.",
+                "ro": "Explorați istoria literară bogată la adăpost de ploaie. Lăsați umbrela udă la intrare pentru a vă bucura în siguranță și confort de expozițiile mari.",
+                "en": "Explore the rich literary history indoors while keeping dry from the rain. Leave your wet umbrella at the entrance to fully enjoy the exhibits safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Maduixa teatre",
+                "hu": "Maduixa teatre",
+                "ro": "Teatrul Maduixa",
+                "en": "Maduixa teatre"
+              },
+              "tip_5lang": {
+                "de": "Dieser innovative Theaterraum bietet perfekten Schutz vor den Mittagsschauern. Die kreativen Aufführungen erhellen jeden trüben, regnerischen Tag.",
+                "hu": "Ez az innovatív színházi tér tökéletes benti menedéket nyújt a déli záporok elől. A kreatív előadások minden borongós, esős délutánt feldobnak itt.",
+                "ro": "Acest spațiu teatral inovator oferă o evadare perfectă la interior din calea ploii. Reprezentațiile creative vor înveseli o după-amiază ploioasă.",
+                "en": "This innovative theater space offers a perfect indoor escape from midday showers. The creative performances will brighten up any gloomy rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Municipal d'Exposicions dels Porxets",
+                "hu": "Porxets Városi Kiállítóterem",
+                "ro": "Sala Municipală de Expoziții Porxets",
+                "en": "Sala Municipal d'Exposicions dels Porxets"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die städtischen Kunstausstellungen, geschützt vor dem Regen. Passen Sie auf, da der Eingangsbereich bei Nässe recht rutschig sein kann.",
+                "hu": "Csodálja meg a városi művészeti kiállításokat, miközben menedéket talál az eső elől. Vigyázzon a lépéseire, mert a bejárat padlója nedvesen csúszik.",
+                "ro": "Admirați expozițiile de artă municipală la adăpost de ploaia puternică. Aveți grijă la pași, deoarece podeaua de la intrare devine foarte alunecoasă.",
+                "en": "Admire the municipal art exhibitions while taking shelter from the heavy rain. Watch your step as the entrance floor can get quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Departamento del arroz",
+                "hu": "Rizs Tanszék / Múzeum",
+                "ro": "Departamentul Orezului",
+                "en": "Departamento del arroz"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie drinnen in die faszinierende lokale Reiskultur ein. Der perfekte Ort, um während eines langen Nachmittagsregens zu trocknen und zu lernen.",
+                "hu": "Merüljön el a lenyűgöző helyi rizskultúrában, teljesen benti környezetben. Ez a tökéletes hely a megszáradásra és tanulásra egy elhúzódó eső alatt.",
+                "ro": "Aprofundați fascinanta cultură locală a orezului la interior. Este locul perfect pentru a vă usca și a învăța în timpul unei ploi prelungite de zi.",
+                "en": "Delve into the fascinating local rice culture entirely indoors. It is the perfect place to dry off and learn during a prolonged heavy afternoon downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Societat Unió Musical",
+                "hu": "Zenei Unió Társasága",
+                "ro": "Societatea Unirea Muzicală",
+                "en": "Societat Unió Musical"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die musikalischen Traditionen der Stadt sicher vor dem Abendregen. Die lebendige Akustik drinnen übertönt die Geräusche des Sturms komplett.",
+                "hu": "Tapasztalja meg a város mély zenei hagyományait biztonságban az esti esőtől. Az élénk benti akusztika teljesen elnyomja a kinti vihar minden zaját.",
+                "ro": "Experimentați tradițiile muzicale ale orașului la adăpost de ploaie. Acustica interioară plină de viață acoperă complet sunetul puternic al furtunii.",
+                "en": "Experience the deep musical traditions of the city safe from the evening rain. The lively indoor acoustics completely drown out the sound of the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Musical de Sueca",
+                "hu": "Sueca Zenei Athenaeum",
+                "ro": "Ateneul Muzical din Sueca",
+                "en": "Ateneu Musical de Sueca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit reicher Musikkultur in trockener, gemütlicher Umgebung. Die perfekte geschützte Abendaktivität bei anhaltendem Nachtregen.",
+                "hu": "Zárja a napot gazdag zenei kultúrával egy száraz, kényelmes környezetben. A tökéletes, védett esti program a kitartó éjszakai esőzés elkerülésére.",
+                "ro": "Încheiați ziua cu muzică de calitate într-un cadru uscat și confortabil. Activitatea de seară perfectă la adăpost pentru a evita ploaia persistentă.",
+                "en": "Conclude your day with rich musical culture in a dry, comfortable setting. The perfect sheltered evening activity to avoid the persistent nighttime rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Knackige Wintermorgen eignen sich für stramme Spaziergänge zum Museum. Die Mittagssonne wärmt die Straßen am Ausstellungsraum. Da es gegen 17:00 Uhr dunkel wird, flüchten Sie ins beheizte Reismuseum. Verbringen Sie den kalten Abend drinnen.",
+            "hu": "A csípős téli reggel kiváló egy frissítő sétára a múzeumig. A déli napfény kissé felmelegíti a kiállítóterem környékét. Mivel 17:00 körül sötétedik, keressen menedéket a fűtött rizsmúzeumban. A hideg estét töltse bent, zenei programokkal.",
+            "ro": "Diminețile geroase de iarnă sunt ideale pentru plimbări spre muzeu. Soarele de prânz încălzește străzile pe lângă sala de expoziții. Cum apune devreme pe la 17:00, refugiați-vă în muzeul orezului. Petreceți seara rece la căldură, cu muzică.",
+            "en": "Crisp winter mornings are great for brisk walks to the museum. Midday sun slightly warms the streets near the exhibition hall. As the sun sets early around 17:00, seek refuge in the heated rice museum. Spend the cold evening indoors with music."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Joan Fuster",
+                "hu": "Museu Joan Fuster",
+                "ro": "Muzeul Joan Fuster",
+                "en": "Museu Joan Fuster"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das literarische Erbe in diesem warm beheizten Museum. Ein perfekter Rückzugsort vor der kalten Winterluft am Morgen für Ihre Tour.",
+                "hu": "Ismerje meg a helyi irodalmi örökséget ebben a melegre fűtött múzeumban. Tökéletes reggeli menedék a csípős téli levegő elől a túra folytatása előtt.",
+                "ro": "Descoperiți moștenirea literară locală în acest spațiu încălzit. Un refugiu matinal perfect din calea aerului tăios de iarnă, înainte de a continua.",
+                "en": "Discover local literary heritage in this warmly heated museum space. A perfect morning refuge from the crisp winter air before continuing your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Maduixa teatre",
+                "hu": "Maduixa teatre",
+                "ro": "Teatrul Maduixa",
+                "en": "Maduixa teatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhafte Theateratmosphäre in diesem gemütlichen Saal. Die Aufführungen sind eine fantastische Möglichkeit, sich im Winter aufzuwärmen.",
+                "hu": "Élvezze a vibráló színházi atmoszférát ebben a hangulatos, benti helyszínen. Az élénk előadások fantasztikus módja a felmelegedésnek a hűvös teleken.",
+                "ro": "Bucurați-vă de atmosfera teatrală vibrantă în acest loc confortabil. Spectacolele pline de viață sunt o modalitate fantastică de a vă încălzi iarna.",
+                "en": "Enjoy the vibrant theatrical atmosphere in this cozy indoor venue. The lively performances are a fantastic way to warm up during the chilly winter midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Municipal d'Exposicions dels Porxets",
+                "hu": "Porxets Városi Kiállítóterem",
+                "ro": "Sala Municipală de Expoziții Porxets",
+                "en": "Sala Municipal d'Exposicions dels Porxets"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die fesselnden Kunstwerke in dieser gemütlich beheizten Halle. Die Wärme drinnen bietet eine Pause, wenn der Winternachmittag abkühlt.",
+                "hu": "Böngéssze a magával ragadó művészeti alkotásokat ebben a fűtött teremben. A benti meleg kellemes szünetet biztosít, ahogy a téli délután egyre hűl.",
+                "ro": "Răsfoiți expozițiile de artă captivante în această sală încălzită. Căldura interioară oferă o pauză binevenită pe măsură ce după-amiaza se răcește.",
+                "en": "Browse the captivating art displays in this comfortably heated hall. The indoor warmth provides a welcome break as the winter afternoon cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Departamento del arroz",
+                "hu": "Rizs Tanszék / Múzeum",
+                "ro": "Departamentul Orezului",
+                "en": "Departamento del arroz"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie den Reisanbau in diesem gemütlichen, geschlossenen Raum kennen. Ein idealer Stopp, um der Kälte nach dem frühen Sonnenuntergang zu entkommen.",
+                "hu": "Tanuljon a hagyományos rizstermesztésről ebben a hangulatos, zárt térben. Ideális oktatási megálló, hogy elmeneküljön a hideg elől a korai sötétben.",
+                "ro": "Învățați despre cultivarea orezului în acest spațiu închis. O oprire educativă ideală pentru a scăpa de frigul pătrunzător la apusul devreme de la 17:00.",
+                "en": "Learn about traditional rice cultivation in this cozy, enclosed space. An ideal educational stop to escape the piercing cold as the sun sets at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Societat Unió Musical",
+                "hu": "Zenei Unió Társasága",
+                "ro": "Societatea Unirea Muzicală",
+                "en": "Societat Unió Musical"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem warmen Saal in das musikalische Erbe ein. Eine wunderbare Möglichkeit, den dunklen Winterabend in absolutem Komfort zu verbringen.",
+                "hu": "Merüljön el a helyi zenei örökségben ebben a meleg, hívogató teremben. Csodálatos módja a korán sötétedő téli este teljes kényelemben való eltöltésének.",
+                "ro": "Lăsați-vă captivat de moștenirea muzicală în această sală primitoare. Un mod minunat de a petrece seara întunecoasă de iarnă într-un confort absolut.",
+                "en": "Immerse yourself in the local musical heritage in this warm, inviting hall. A wonderful way to spend the early dark winter evening in absolute comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Musical de Sueca",
+                "hu": "Sueca Zenei Athenaeum",
+                "ro": "Ateneul Muzical din Sueca",
+                "en": "Ateneu Musical de Sueca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den kalten Wintertag mit schöner Musik in diesem beheizten Zentrum. Ein fantastischer Rückzugsort zum Entspannen nach frostigen Straßen.",
+                "hu": "Fejezze be a hideg téli napot csodás zenével ebben a fűtött központban. Fantasztikus benti menedék a fagyos utcákon való navigálás utáni relaxáláshoz.",
+                "ro": "Încheiați ziua rece de iarnă cu muzică în acest centru cultural încălzit. Un refugiu interior fantastic pentru a vă relaxa după străzile înghețate.",
+                "en": "End your cold winter day enjoying beautiful music in this heated cultural center. A fantastic indoor retreat to relax after navigating the frosty streets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Reggel tekerjen ki Riola történelmi központjába, élvezve a friss levegőt. Délben haladjon át a földeken Fortaleny bájos csarnokáig, mielőtt visszatérne Suecába. A délutáni kerékpározás az önkormányzati kiállítások és a rizsrészleg mellett visz el. Az este a neves zenei athenaeumban éri, kulturális elmélyüléssel.",
         "ro": "Pedalați până la centrul istoric din Riola pentru a vă bucura de aerul dimineții. La prânz, traversați câmpurile spre primăria din Fortaleny, înainte de a reveni în Sueca. Plimbarea de după-amiază vă poartă pe la expozițiile municipale și departamentul orezului. Seara coboară în timp ce pedalați spre renumitul ateneu muzical.",
         "en": "Pedal out to the historic civic center of Riola first thing, enjoying the morning air. Midday, cross the fields to Fortaleny's charming hall before returning to Sueca for literary history. Afternoon riding takes you past the municipal exhibitions and the unique rice department. Evening falls as you cycle to the renowned musical athenaeum for cultural reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgenregen erfordert Vorsicht auf rutschigen Straßen bei den Rathäusern. Mittagsschauer treiben Sie in die Museen. Nachmittags brauchen Sie gute wasserdichte Kleidung. Abends sollten Sie wegen der schlechten Sicht sehr langsam fahren.",
+            "hu": "A reggeli eső miatt óvatosan tekerjen a városházák csúszós útjain. A déli záporok alatt parkolja le a bringát és menjen múzeumba. Délután vízálló felszerelés szükséges. Az esti kerékpározás legyen lassú a rossz látási viszonyok miatt.",
+            "ro": "Ploaia de dimineață cere prudență pe drumurile alunecoase spre primării. Aversele de prânz vă trimit la muzee, lăsând bicicleta. După-amiaza necesită echipament impermeabil bun. Seara, pedalați încet și cu grijă, vizibilitatea scade mult.",
+            "en": "Morning rain means extra caution on slippery roads near the city halls. Midday showers push you to park the bike and visit museums. Afternoon cycling requires good waterproof gear. Evening rides should be slow and careful as visibility drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Riola",
+                "hu": "Riola Városháza",
+                "ro": "Primăria din Riola",
+                "en": "Ajuntament de Riola"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Architektur des Rathauses unter Ihrem Schirm. Nasses Kopfsteinpflaster rutscht, schieben Sie das Rad oder gehen Sie vorsichtig.",
+                "hu": "Nézze meg a történelmi városházát a masszív esernyője alól. A nedves macskakövek csúszósak lehetnek, így tolja a biciklit vagy lépkedjen nagyon óvatosan.",
+                "ro": "Priviți arhitectura primăriei istorice de sub umbrela dumneavoastră robustă. Pietrele ude alunecă, mergeți cu bicicleta la pas sau pășiți cu grijă.",
+                "en": "View the historic town hall architecture from under your sturdy umbrella. The wet cobblestones can be slippery, so walk your bike or step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Fortaleny",
+                "hu": "Fortaleny Városháza",
+                "ro": "Primăria din Fortaleny",
+                "en": "Ajuntament de Fortaleny"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie dieses charmante Gebäude während einer kurzen Regenpause. Halten Sie die wasserdichte Ausrüstung griffbereit, wenn Sie zurückkehren.",
+                "hu": "Csodálja meg ezt a bájos önkormányzati épületet egy rövid esőszünetben. Tartsa kéznél a vízálló felszerelését, amíg visszatér a járművéhez vagy biciklijéhez.",
+                "ro": "Admirați această clădire fermecătoare în timpul unei scurte pauze de ploaie. Țineți la îndemână echipamentul impermeabil când reveniți la vehicul.",
+                "en": "Admire this charming municipal building during a brief break in the rain. Keep your waterproof gear handy as you transition back to your vehicle or bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Joan Fuster",
+                "hu": "Museu Joan Fuster",
+                "ro": "Muzeul Joan Fuster",
+                "en": "Museu Joan Fuster"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die reiche Literaturgeschichte vor Regen geschützt im Haus. Lassen Sie Ihren nassen Schirm am Eingang, um die Ausstellung zu genießen.",
+                "hu": "Fedezze fel a gazdag irodalmi történelmet esőtől védve. Hagyja a vizes esernyőt a bejáratnál, hogy biztonságosan és szárazon élvezze a kiállításokat.",
+                "ro": "Explorați istoria literară bogată la adăpost de ploaie. Lăsați umbrela udă la intrare pentru a vă bucura în siguranță și confort de expozițiile mari.",
+                "en": "Explore the rich literary history indoors while keeping dry from the rain. Leave your wet umbrella at the entrance to fully enjoy the exhibits safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Maduixa teatre",
+                "hu": "Maduixa teatre",
+                "ro": "Teatrul Maduixa",
+                "en": "Maduixa teatre"
+              },
+              "tip_5lang": {
+                "de": "Dieser innovative Theaterraum bietet perfekten Schutz vor den Mittagsschauern. Die kreativen Aufführungen erhellen jeden trüben, regnerischen Tag.",
+                "hu": "Ez az innovatív színházi tér tökéletes benti menedéket nyújt a déli záporok elől. A kreatív előadások minden borongós, esős délutánt feldobnak itt.",
+                "ro": "Acest spațiu teatral inovator oferă o evadare perfectă la interior din calea ploii. Reprezentațiile creative vor înveseli o după-amiază ploioasă.",
+                "en": "This innovative theater space offers a perfect indoor escape from midday showers. The creative performances will brighten up any gloomy rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Municipal d'Exposicions dels Porxets",
+                "hu": "Porxets Városi Kiállítóterem",
+                "ro": "Sala Municipală de Expoziții Porxets",
+                "en": "Sala Municipal d'Exposicions dels Porxets"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die städtischen Kunstausstellungen, geschützt vor dem Regen. Passen Sie auf, da der Eingangsbereich bei Nässe recht rutschig sein kann.",
+                "hu": "Csodálja meg a városi művészeti kiállításokat, miközben menedéket talál az eső elől. Vigyázzon a lépéseire, mert a bejárat padlója nedvesen csúszik.",
+                "ro": "Admirați expozițiile de artă municipală la adăpost de ploaia puternică. Aveți grijă la pași, deoarece podeaua de la intrare devine foarte alunecoasă.",
+                "en": "Admire the municipal art exhibitions while taking shelter from the heavy rain. Watch your step as the entrance floor can get quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Departamento del arroz",
+                "hu": "Rizs Tanszék / Múzeum",
+                "ro": "Departamentul Orezului",
+                "en": "Departamento del arroz"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie drinnen in die faszinierende lokale Reiskultur ein. Der perfekte Ort, um während eines langen Nachmittagsregens zu trocknen und zu lernen.",
+                "hu": "Merüljön el a lenyűgöző helyi rizskultúrában, teljesen benti környezetben. Ez a tökéletes hely a megszáradásra és tanulásra egy elhúzódó eső alatt.",
+                "ro": "Aprofundați fascinanta cultură locală a orezului la interior. Este locul perfect pentru a vă usca și a învăța în timpul unei ploi prelungite de zi.",
+                "en": "Delve into the fascinating local rice culture entirely indoors. It is the perfect place to dry off and learn during a prolonged heavy afternoon downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Musical de Sueca",
+                "hu": "Sueca Zenei Athenaeum",
+                "ro": "Ateneul Muzical din Sueca",
+                "en": "Ateneu Musical de Sueca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit reicher Musikkultur in trockener, gemütlicher Umgebung. Die perfekte geschützte Abendaktivität bei anhaltendem Nachtregen.",
+                "hu": "Zárja a napot gazdag zenei kultúrával egy száraz, kényelmes környezetben. A tökéletes, védett esti program a kitartó éjszakai esőzés elkerülésére.",
+                "ro": "Încheiați ziua cu muzică de calitate într-un cadru uscat și confortabil. Activitatea de seară perfectă la adăpost pentru a evita ploaia persistentă.",
+                "en": "Conclude your day with rich musical culture in a dry, comfortable setting. The perfect sheltered evening activity to avoid the persistent nighttime rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für die kühle Morgenfahrt zu den Rathäusern. Die Wintersonne am Mittag macht das Radeln angenehm. Nachmittags wird es schnell kalt, da die Sonne früh untergeht. Beenden Sie den kalten Abend sicher bei der Kultur drinnen.",
+            "hu": "Öltözzön rétegesen a fagyos reggeli tekeréshez a városházák felé. A déli téli napfény kellemessé teszi a múzeumok közti utat. Délután gyorsan lehűl a levegő a korai sötétedéssel. A hideg estét töltse biztonságban, benti kulturális programokkal.",
+            "ro": "Îmbrăcați-vă gros pentru cursa matinală rece spre primării. Soarele de iarnă la prânz face plăcută pedalarea între muzee. Frigul după-amiezii se instalează rapid odată cu apusul devreme. Încheiați seara rece la adăpost, la evenimente culturale.",
+            "en": "Bundle up for a chilly morning ride to the town halls. The midday winter sun makes cycling pleasant between the local museums. Afternoon chill sets in quickly as the sun dips early. Finish the cold evening safely parked, enjoying indoor culture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Riola",
+                "hu": "Riola Városháza",
+                "ro": "Primăria din Riola",
+                "en": "Ajuntament de Riola"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische Fassade des Rathauses in der Morgenluft. Tragen Sie warme Schichten, um bei der Besichtigung von außen warm zu bleiben.",
+                "hu": "Csodálja meg a városháza klasszikus homlokzatát a friss reggeli levegőben. Viseljen termo rétegeket, hogy melegen maradjon a történelmi külső fotózásakor.",
+                "ro": "Admirați fațada clasică a primăriei în aerul proaspăt al dimineții. Asigurați-vă că purtați haine termice pentru a vă încălzi vizitând acest exterior.",
+                "en": "Marvel at the town hall's classic facade in the crisp morning air. Make sure to wear thermal layers to stay warm while viewing this historical exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Fortaleny",
+                "hu": "Fortaleny Városháza",
+                "ro": "Primăria din Fortaleny",
+                "en": "Ajuntament de Fortaleny"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das wunderschöne Verwaltungsgebäude unter dem klaren Winterhimmel. Behalten Sie Ihre Handschuhe an, während Sie im kalten Wind fotografieren.",
+                "hu": "Figyelje meg a helyi közigazgatás szép épületét a tiszta téli égbolt alatt. Tartsa a kezén a kesztyűt, miközben fotóz a fagyos reggeli szélben.",
+                "ro": "Observați frumoasa clădire a administrației locale sub cerul senin de iarnă. Păstrați-vă mănușile pe mâini când faceți poze în briza înghețată a dimineții.",
+                "en": "Observe the beautiful local administration building under the clear winter sky. Keep your gloves on while taking photos in the freezing morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Joan Fuster",
+                "hu": "Museu Joan Fuster",
+                "ro": "Muzeul Joan Fuster",
+                "en": "Museu Joan Fuster"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das literarische Erbe in diesem warm beheizten Museum. Ein perfekter Rückzugsort vor der kalten Winterluft am Morgen für Ihre Tour.",
+                "hu": "Ismerje meg a helyi irodalmi örökséget ebben a melegre fűtött múzeumban. Tökéletes reggeli menedék a csípős téli levegő elől a túra folytatása előtt.",
+                "ro": "Descoperiți moștenirea literară locală în acest spațiu încălzit. Un refugiu matinal perfect din calea aerului tăios de iarnă, înainte de a continua.",
+                "en": "Discover local literary heritage in this warmly heated museum space. A perfect morning refuge from the crisp winter air before continuing your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Maduixa teatre",
+                "hu": "Maduixa teatre",
+                "ro": "Teatrul Maduixa",
+                "en": "Maduixa teatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhafte Theateratmosphäre in diesem gemütlichen Saal. Die Aufführungen sind eine fantastische Möglichkeit, sich im Winter aufzuwärmen.",
+                "hu": "Élvezze a vibráló színházi atmoszférát ebben a hangulatos, benti helyszínen. Az élénk előadások fantasztikus módja a felmelegedésnek a hűvös teleken.",
+                "ro": "Bucurați-vă de atmosfera teatrală vibrantă în acest loc confortabil. Spectacolele pline de viață sunt o modalitate fantastică de a vă încălzi iarna.",
+                "en": "Enjoy the vibrant theatrical atmosphere in this cozy indoor venue. The lively performances are a fantastic way to warm up during the chilly winter midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Municipal d'Exposicions dels Porxets",
+                "hu": "Porxets Városi Kiállítóterem",
+                "ro": "Sala Municipală de Expoziții Porxets",
+                "en": "Sala Municipal d'Exposicions dels Porxets"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die fesselnden Kunstwerke in dieser gemütlich beheizten Halle. Die Wärme drinnen bietet eine Pause, wenn der Winternachmittag abkühlt.",
+                "hu": "Böngéssze a magával ragadó művészeti alkotásokat ebben a fűtött teremben. A benti meleg kellemes szünetet biztosít, ahogy a téli délután egyre hűl.",
+                "ro": "Răsfoiți expozițiile de artă captivante în această sală încălzită. Căldura interioară oferă o pauză binevenită pe măsură ce după-amiaza se răcește.",
+                "en": "Browse the captivating art displays in this comfortably heated hall. The indoor warmth provides a welcome break as the winter afternoon cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Departamento del arroz",
+                "hu": "Rizs Tanszék / Múzeum",
+                "ro": "Departamentul Orezului",
+                "en": "Departamento del arroz"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie den Reisanbau in diesem gemütlichen, geschlossenen Raum kennen. Ein idealer Stopp, um der Kälte nach dem frühen Sonnenuntergang zu entkommen.",
+                "hu": "Tanuljon a hagyományos rizstermesztésről ebben a hangulatos, zárt térben. Ideális oktatási megálló, hogy elmeneküljön a hideg elől a korai sötétben.",
+                "ro": "Învățați despre cultivarea orezului în acest spațiu închis. O oprire educativă ideală pentru a scăpa de frigul pătrunzător la apusul devreme de la 17:00.",
+                "en": "Learn about traditional rice cultivation in this cozy, enclosed space. An ideal educational stop to escape the piercing cold as the sun sets at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Musical de Sueca",
+                "hu": "Sueca Zenei Athenaeum",
+                "ro": "Ateneul Muzical din Sueca",
+                "en": "Ateneu Musical de Sueca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den kalten Wintertag mit schöner Musik in diesem beheizten Zentrum. Ein fantastischer Rückzugsort zum Entspannen nach frostigen Straßen.",
+                "hu": "Fejezze be a hideg téli napot csodás zenével ebben a fűtött központban. Fantasztikus benti menedék a fagyos utcákon való navigálás utáni relaxáláshoz.",
+                "ro": "Încheiați ziua rece de iarnă cu muzică în acest centru cultural încălzit. Un refugiu interior fantastic pentru a vă relaxa după străzile înghețate.",
+                "en": "End your cold winter day enjoying beautiful music in this heated cultural center. A fantastic indoor retreat to relax after navigating the frosty streets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Vezessen Fortalenybe a nap indításaként, és ismerje meg a regionális történelmet. Délben utazzon át Riola városházájához, mielőtt visszatérne Suecába. A délutánt gyalogosan töltheti a Joan Fuster múzeum és a rizsarchívumok között. Zárja az estét a nyüzsgő helyi zenei központok meglátogatásával.",
         "ro": "Conduceți spre Fortaleny pentru a vă începe ziua, apreciind istoria regională. La prânz, mergeți la primăria din Riola, înainte de a vă întoarce în Sueca. După-amiaza este petrecută pe jos, navigând între muzeul Joan Fuster și arhivele orezului. Terminați seara vizitând centrele muzicale vibrante din oraș.",
         "en": "Drive out to Fortaleny to start your day, appreciating the regional administrative history. Midday, cruise over to Riola's town hall before heading back into Sueca to walk the dense central cluster. The afternoon is spent on foot navigating between the Joan Fuster museum and the rice archives. Finish the evening by hopping between the vibrant musical hubs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig auf nassen Straßen zu den Rathäusern. Mittags rennen Sie kurz vom Auto zu den Museumseingängen. Nachmittagsregen ist mit dem Auto kein Problem. Genießen Sie eine trockene und bequeme Fahrt am regnerischen Abend.",
+            "hu": "Vezessen óvatosan a nedves reggeli utakon a városházákhoz. Délben csak egy gyors sprint a parkolóból a múzeumok bejáratáig. A délutáni eső nem gond, ha autóval köti össze a pontokat. Élvezze a száraz, kényelmes esti utazást a helyszínek között.",
+            "ro": "Conduceți prudent pe drumurile ude dimineața spre primării. La prânz, alergați scurt din mașină până la intrarea în muzee. Ploaia de după-amiază nu e o problemă cu o mașină. Bucurați-vă de o cursă uscată și confortabilă seara între locații.",
+            "en": "Drive carefully on wet morning roads to the town halls. Midday offers quick dashes from the parked car to the museum entrances. Afternoon rain is no problem with a car connecting the stops. Enjoy a dry, comfortable evening drive between venues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Fortaleny",
+                "hu": "Fortaleny Városháza",
+                "ro": "Primăria din Fortaleny",
+                "en": "Ajuntament de Fortaleny"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie dieses charmante Gebäude während einer kurzen Regenpause. Halten Sie die wasserdichte Ausrüstung griffbereit, wenn Sie zurückkehren.",
+                "hu": "Csodálja meg ezt a bájos önkormányzati épületet egy rövid esőszünetben. Tartsa kéznél a vízálló felszerelését, amíg visszatér a járművéhez vagy biciklijéhez.",
+                "ro": "Admirați această clădire fermecătoare în timpul unei scurte pauze de ploaie. Țineți la îndemână echipamentul impermeabil când reveniți la vehicul.",
+                "en": "Admire this charming municipal building during a brief break in the rain. Keep your waterproof gear handy as you transition back to your vehicle or bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Riola",
+                "hu": "Riola Városháza",
+                "ro": "Primăria din Riola",
+                "en": "Ajuntament de Riola"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Architektur des Rathauses unter Ihrem Schirm. Nasses Kopfsteinpflaster rutscht, schieben Sie das Rad oder gehen Sie vorsichtig.",
+                "hu": "Nézze meg a történelmi városházát a masszív esernyője alól. A nedves macskakövek csúszósak lehetnek, így tolja a biciklit vagy lépkedjen nagyon óvatosan.",
+                "ro": "Priviți arhitectura primăriei istorice de sub umbrela dumneavoastră robustă. Pietrele ude alunecă, mergeți cu bicicleta la pas sau pășiți cu grijă.",
+                "en": "View the historic town hall architecture from under your sturdy umbrella. The wet cobblestones can be slippery, so walk your bike or step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Joan Fuster",
+                "hu": "Museu Joan Fuster",
+                "ro": "Muzeul Joan Fuster",
+                "en": "Museu Joan Fuster"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die reiche Literaturgeschichte vor Regen geschützt im Haus. Lassen Sie Ihren nassen Schirm am Eingang, um die Ausstellung zu genießen.",
+                "hu": "Fedezze fel a gazdag irodalmi történelmet esőtől védve. Hagyja a vizes esernyőt a bejáratnál, hogy biztonságosan és szárazon élvezze a kiállításokat.",
+                "ro": "Explorați istoria literară bogată la adăpost de ploaie. Lăsați umbrela udă la intrare pentru a vă bucura în siguranță și confort de expozițiile mari.",
+                "en": "Explore the rich literary history indoors while keeping dry from the rain. Leave your wet umbrella at the entrance to fully enjoy the exhibits safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Maduixa teatre",
+                "hu": "Maduixa teatre",
+                "ro": "Teatrul Maduixa",
+                "en": "Maduixa teatre"
+              },
+              "tip_5lang": {
+                "de": "Dieser innovative Theaterraum bietet perfekten Schutz vor den Mittagsschauern. Die kreativen Aufführungen erhellen jeden trüben, regnerischen Tag.",
+                "hu": "Ez az innovatív színházi tér tökéletes benti menedéket nyújt a déli záporok elől. A kreatív előadások minden borongós, esős délutánt feldobnak itt.",
+                "ro": "Acest spațiu teatral inovator oferă o evadare perfectă la interior din calea ploii. Reprezentațiile creative vor înveseli o după-amiază ploioasă.",
+                "en": "This innovative theater space offers a perfect indoor escape from midday showers. The creative performances will brighten up any gloomy rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Municipal d'Exposicions dels Porxets",
+                "hu": "Porxets Városi Kiállítóterem",
+                "ro": "Sala Municipală de Expoziții Porxets",
+                "en": "Sala Municipal d'Exposicions dels Porxets"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die städtischen Kunstausstellungen, geschützt vor dem Regen. Passen Sie auf, da der Eingangsbereich bei Nässe recht rutschig sein kann.",
+                "hu": "Csodálja meg a városi művészeti kiállításokat, miközben menedéket talál az eső elől. Vigyázzon a lépéseire, mert a bejárat padlója nedvesen csúszik.",
+                "ro": "Admirați expozițiile de artă municipală la adăpost de ploaia puternică. Aveți grijă la pași, deoarece podeaua de la intrare devine foarte alunecoasă.",
+                "en": "Admire the municipal art exhibitions while taking shelter from the heavy rain. Watch your step as the entrance floor can get quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Departamento del arroz",
+                "hu": "Rizs Tanszék / Múzeum",
+                "ro": "Departamentul Orezului",
+                "en": "Departamento del arroz"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie drinnen in die faszinierende lokale Reiskultur ein. Der perfekte Ort, um während eines langen Nachmittagsregens zu trocknen und zu lernen.",
+                "hu": "Merüljön el a lenyűgöző helyi rizskultúrában, teljesen benti környezetben. Ez a tökéletes hely a megszáradásra és tanulásra egy elhúzódó eső alatt.",
+                "ro": "Aprofundați fascinanta cultură locală a orezului la interior. Este locul perfect pentru a vă usca și a învăța în timpul unei ploi prelungite de zi.",
+                "en": "Delve into the fascinating local rice culture entirely indoors. It is the perfect place to dry off and learn during a prolonged heavy afternoon downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Societat Unió Musical",
+                "hu": "Zenei Unió Társasága",
+                "ro": "Societatea Unirea Muzicală",
+                "en": "Societat Unió Musical"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die musikalischen Traditionen der Stadt sicher vor dem Abendregen. Die lebendige Akustik drinnen übertönt die Geräusche des Sturms komplett.",
+                "hu": "Tapasztalja meg a város mély zenei hagyományait biztonságban az esti esőtől. Az élénk benti akusztika teljesen elnyomja a kinti vihar minden zaját.",
+                "ro": "Experimentați tradițiile muzicale ale orașului la adăpost de ploaie. Acustica interioară plină de viață acoperă complet sunetul puternic al furtunii.",
+                "en": "Experience the deep musical traditions of the city safe from the evening rain. The lively indoor acoustics completely drown out the sound of the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Musical de Sueca",
+                "hu": "Sueca Zenei Athenaeum",
+                "ro": "Ateneul Muzical din Sueca",
+                "en": "Ateneu Musical de Sueca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit reicher Musikkultur in trockener, gemütlicher Umgebung. Die perfekte geschützte Abendaktivität bei anhaltendem Nachtregen.",
+                "hu": "Zárja a napot gazdag zenei kultúrával egy száraz, kényelmes környezetben. A tökéletes, védett esti program a kitartó éjszakai esőzés elkerülésére.",
+                "ro": "Încheiați ziua cu muzică de calitate într-un cadru uscat și confortabil. Activitatea de seară perfectă la adăpost pentru a evita ploaia persistentă.",
+                "en": "Conclude your day with rich musical culture in a dry, comfortable setting. The perfect sheltered evening activity to avoid the persistent nighttime rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein beheiztes Auto macht die frostige Morgenfahrt zu den Rathäusern gemütlich. Das Mittagslicht ist ideal für kurze Wege vom Parkplatz. Der frühe Sonnenuntergang um 17:00 Uhr verdunkelt die Fahrt. Verbringen Sie den dunklen Abend bei Musik drinnen.",
+            "hu": "A fűtött autó kényelmessé teszi a fagyos reggeli utat a városházákhoz. A déli fény tökéletes a rövid sétákhoz a parkolótól. A 17:00 órai korai naplemente miatt a délutáni út már sötét. Töltse a hideg estét benti zenei programok élvezetével.",
+            "ro": "Mașina încălzită face ca drumul matinal geros spre primării să fie confortabil. Lumina prânzului e perfectă pentru plimbări scurte din parcare. Apusul devreme la 17:00 aduce întunericul pe drum. Petreceți seara întunecoasă bucurându-vă de muzică.",
+            "en": "A heated car makes the frosty morning drive to the town halls quite cozy. Midday light is perfect for short walks from your parked car. The early sunset at 17:00 means the afternoon drive is dusky. Spend the dark evening enjoying indoor music."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Fortaleny",
+                "hu": "Fortaleny Városháza",
+                "ro": "Primăria din Fortaleny",
+                "en": "Ajuntament de Fortaleny"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das wunderschöne Verwaltungsgebäude unter dem klaren Winterhimmel. Behalten Sie Ihre Handschuhe an, während Sie im kalten Wind fotografieren.",
+                "hu": "Figyelje meg a helyi közigazgatás szép épületét a tiszta téli égbolt alatt. Tartsa a kezén a kesztyűt, miközben fotóz a fagyos reggeli szélben.",
+                "ro": "Observați frumoasa clădire a administrației locale sub cerul senin de iarnă. Păstrați-vă mănușile pe mâini când faceți poze în briza înghețată a dimineții.",
+                "en": "Observe the beautiful local administration building under the clear winter sky. Keep your gloves on while taking photos in the freezing morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Riola",
+                "hu": "Riola Városháza",
+                "ro": "Primăria din Riola",
+                "en": "Ajuntament de Riola"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische Fassade des Rathauses in der Morgenluft. Tragen Sie warme Schichten, um bei der Besichtigung von außen warm zu bleiben.",
+                "hu": "Csodálja meg a városháza klasszikus homlokzatát a friss reggeli levegőben. Viseljen termo rétegeket, hogy melegen maradjon a történelmi külső fotózásakor.",
+                "ro": "Admirați fațada clasică a primăriei în aerul proaspăt al dimineții. Asigurați-vă că purtați haine termice pentru a vă încălzi vizitând acest exterior.",
+                "en": "Marvel at the town hall's classic facade in the crisp morning air. Make sure to wear thermal layers to stay warm while viewing this historical exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Joan Fuster",
+                "hu": "Museu Joan Fuster",
+                "ro": "Muzeul Joan Fuster",
+                "en": "Museu Joan Fuster"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das literarische Erbe in diesem warm beheizten Museum. Ein perfekter Rückzugsort vor der kalten Winterluft am Morgen für Ihre Tour.",
+                "hu": "Ismerje meg a helyi irodalmi örökséget ebben a melegre fűtött múzeumban. Tökéletes reggeli menedék a csípős téli levegő elől a túra folytatása előtt.",
+                "ro": "Descoperiți moștenirea literară locală în acest spațiu încălzit. Un refugiu matinal perfect din calea aerului tăios de iarnă, înainte de a continua.",
+                "en": "Discover local literary heritage in this warmly heated museum space. A perfect morning refuge from the crisp winter air before continuing your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Maduixa teatre",
+                "hu": "Maduixa teatre",
+                "ro": "Teatrul Maduixa",
+                "en": "Maduixa teatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhafte Theateratmosphäre in diesem gemütlichen Saal. Die Aufführungen sind eine fantastische Möglichkeit, sich im Winter aufzuwärmen.",
+                "hu": "Élvezze a vibráló színházi atmoszférát ebben a hangulatos, benti helyszínen. Az élénk előadások fantasztikus módja a felmelegedésnek a hűvös teleken.",
+                "ro": "Bucurați-vă de atmosfera teatrală vibrantă în acest loc confortabil. Spectacolele pline de viață sunt o modalitate fantastică de a vă încălzi iarna.",
+                "en": "Enjoy the vibrant theatrical atmosphere in this cozy indoor venue. The lively performances are a fantastic way to warm up during the chilly winter midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Municipal d'Exposicions dels Porxets",
+                "hu": "Porxets Városi Kiállítóterem",
+                "ro": "Sala Municipală de Expoziții Porxets",
+                "en": "Sala Municipal d'Exposicions dels Porxets"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die fesselnden Kunstwerke in dieser gemütlich beheizten Halle. Die Wärme drinnen bietet eine Pause, wenn der Winternachmittag abkühlt.",
+                "hu": "Böngéssze a magával ragadó művészeti alkotásokat ebben a fűtött teremben. A benti meleg kellemes szünetet biztosít, ahogy a téli délután egyre hűl.",
+                "ro": "Răsfoiți expozițiile de artă captivante în această sală încălzită. Căldura interioară oferă o pauză binevenită pe măsură ce după-amiaza se răcește.",
+                "en": "Browse the captivating art displays in this comfortably heated hall. The indoor warmth provides a welcome break as the winter afternoon cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Departamento del arroz",
+                "hu": "Rizs Tanszék / Múzeum",
+                "ro": "Departamentul Orezului",
+                "en": "Departamento del arroz"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie den Reisanbau in diesem gemütlichen, geschlossenen Raum kennen. Ein idealer Stopp, um der Kälte nach dem frühen Sonnenuntergang zu entkommen.",
+                "hu": "Tanuljon a hagyományos rizstermesztésről ebben a hangulatos, zárt térben. Ideális oktatási megálló, hogy elmeneküljön a hideg elől a korai sötétben.",
+                "ro": "Învățați despre cultivarea orezului în acest spațiu închis. O oprire educativă ideală pentru a scăpa de frigul pătrunzător la apusul devreme de la 17:00.",
+                "en": "Learn about traditional rice cultivation in this cozy, enclosed space. An ideal educational stop to escape the piercing cold as the sun sets at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Societat Unió Musical",
+                "hu": "Zenei Unió Társasága",
+                "ro": "Societatea Unirea Muzicală",
+                "en": "Societat Unió Musical"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem warmen Saal in das musikalische Erbe ein. Eine wunderbare Möglichkeit, den dunklen Winterabend in absolutem Komfort zu verbringen.",
+                "hu": "Merüljön el a helyi zenei örökségben ebben a meleg, hívogató teremben. Csodálatos módja a korán sötétedő téli este teljes kényelemben való eltöltésének.",
+                "ro": "Lăsați-vă captivat de moștenirea muzicală în această sală primitoare. Un mod minunat de a petrece seara întunecoasă de iarnă într-un confort absolut.",
+                "en": "Immerse yourself in the local musical heritage in this warm, inviting hall. A wonderful way to spend the early dark winter evening in absolute comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Musical de Sueca",
+                "hu": "Sueca Zenei Athenaeum",
+                "ro": "Ateneul Muzical din Sueca",
+                "en": "Ateneu Musical de Sueca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den kalten Wintertag mit schöner Musik in diesem beheizten Zentrum. Ein fantastischer Rückzugsort zum Entspannen nach frostigen Straßen.",
+                "hu": "Fejezze be a hideg téli napot csodás zenével ebben a fűtött központban. Fantasztikus benti menedék a fagyos utcákon való navigálás utáni relaxáláshoz.",
+                "ro": "Încheiați ziua rece de iarnă cu muzică în acest centru cultural încălzit. Un refugiu interior fantastic pentru a vă relaxa după străzile înghețate.",
+                "en": "End your cold winter day enjoying beautiful music in this heated cultural center. A fantastic indoor retreat to relax after navigating the frosty streets."
+              }
+            }
+          ]
+        }
       }
     }
   }

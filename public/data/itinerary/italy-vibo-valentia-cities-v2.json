@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Valentianumban, elmerülve a helyi történelemben a déli hőség előtt.\n\nDélben sétáljon a Braille történelmi helyszíne felé, hogy elgondolkodjon a múlton.\n\nA délután elhozza a lenyűgöző Domus Nereide-hez és a szomszédos régészeti területhez.\n\nFejezze be sétáját a római fürdőknél, amikor az esti fény megvilágítja a lenyűgöző ókori romokat.",
         "ro": "Începeți dimineața la Valentianum, cufundându-vă în istoria locală înainte de căldura amiezii.\n\nLa prânz, plimbați-vă spre situl istoric Braille pentru reflecție.\n\nDupă-amiaza vă aduce la fascinanta Domus Nereide și la zona arheologică adiacentă pentru a explora.\n\nÎncheiați-vă plimbarea la Termele Romane în timp ce lumina serii atinge ruinele antice.",
         "en": "Start your morning at the Valentianum, immersing yourself in the rich local history before the midday heat.\n\nBy noon, wander towards the Braille site for a moment of quiet historical reflection.\n\nThe afternoon brings you to the fascinating Domus Nereide and adjacent archaeological area to explore.\n\nEnd your stroll at the Roman Baths as the evening light hits the ancient ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Valentianum Schutz vor dem Regen. Mittags erkunden wir die historischen Stätten mit Regenschirm, während die nassen Steine glänzen. Nachmittags bewundern wir die Mosaike unter grauem Himmel. Abends endet der Spaziergang bei den Thermen, wo die feuchte Luft die antike Atmosphäre verstärkt. Achten Sie auf rutschige Wege in der Altstadt.",
+            "hu": "Reggel a Valentianum termeiben találunk menedéket az eső elől. Délben a történelmi központban sétálunk esernyővel, miközben a nedves kövek csillognak. Délután az ókori mozaikokat csodáljuk a szürke égbolt alatt. Este a római termeknél zárjuk a napot, ahol a párás levegő felerősíti az antik hangulatot. Ügyeljen a csúszós utakra az óvárosban.",
+            "ro": "Dimineața, Valentianum oferă adăpost împotriva ploii. La prânz explorăm centrul istoric cu umbrela, în timp ce pietrele umede strălucesc. După-amiaza admirăm mozaicurile sub cerul gri. Seara se încheie la termele romane, unde aerul umed intensifică atmosfera antică. Aveți grijă la drumurile alunecoase din centrul vechi.",
+            "en": "In the morning, Valentianum provides shelter from the rain. At noon, we explore the historical center with umbrellas as the wet stones glisten. In the afternoon, we admire the mosaics under grey skies. The evening ends at the Roman baths, where the damp air enhances the ancient atmosphere. Watch out for slippery paths in the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Valentianum",
+                "hu": "Valentianum",
+                "ro": "Valentianum",
+                "en": "Valentianum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen im trockenen Innenraum; ein perfekter Zufluchtsort bei Regen, vergessen Sie aber nicht, Ihre wasserfeste Jacke am Eingang abzugeben.",
+                "hu": "Fedezze fel a kiállításokat a száraz belső terekben; tökéletes menedék eső esetén, de ne felejtse el a bejáratnál hagyni a vízhatlan kabátját.",
+                "ro": "Explorați expozițiile în interiorul uscat; un refugiu perfect în caz de ploaie, dar nu uitați să vă lăsați jacheta impermeabilă la intrare.",
+                "en": "Explore the exhibitions in the dry interior; a perfect refuge in case of rain, but don't forget to leave your waterproof jacket at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Braille",
+                "hu": "Braille",
+                "ro": "Braille",
+                "en": "Braille"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt im Freien, um das Denkmal zu sehen; halten Sie den Regenschirm bereit, da der Wind hier in den Gassen oft plötzlich auffrischen kann.",
+                "hu": "Rövid szabadtéri megálló az emlékműnél; tartsa készenlétben az esernyőt, mivel a szél a szűk utcákban gyakran hirtelen feltámadhat.",
+                "ro": "O scurtă oprire în aer liber pentru a vedea monumentul; țineți umbrela pregătită, deoarece vântul se poate intensifica brusc pe aceste străduțe.",
+                "en": "A short outdoor stop to see the monument; keep your umbrella ready as the wind can often pick up suddenly in these narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Domus Nereide",
+                "hu": "Domus Nereide",
+                "ro": "Domus Nereide",
+                "en": "Domus Nereide"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Strukturen wirken im Regen besonders mystisch; tragen Sie feste Schuhe, da die Ausgrabungsstätte bei Nässe sehr rutschig sein kann.",
+                "hu": "Az antik struktúrák különösen misztikusak az esőben; viseljen zárt cipőt, mivel az ásatási terület nedvesen nagyon csúszós lehet.",
+                "ro": "Structurile antice par deosebit de mistice în ploaie; purtați încălțăminte aderentă, deoarece situl arheologic poate fi foarte alunecos când este ud.",
+                "en": "The ancient structures look particularly mystical in the rain; wear sturdy shoes as the excavation site can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica S. Aloe",
+                "hu": "Area Archeologica S. Aloe",
+                "ro": "Area Archeologica S. Aloe",
+                "en": "Area Archeologica S. Aloe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mosaike, deren Farben durch das Regenwasser kräftiger leuchten; achten Sie auf Pfützen zwischen den historischen Überresten.",
+                "hu": "Csodálja meg a mozaikokat, melyek színei az esővíztől még élénkebben ragyognak; ügyeljen a tócsákra a történelmi romok között.",
+                "ro": "Admirați mozaicurile ale căror culori strălucesc mai intens datorită apei de ploaie; aveți grijă la bălțile dintre vestigiile istorice.",
+                "en": "Admire the mosaics whose colors glow more intensely due to the rainwater; watch out for puddles among the historical remains."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme romane",
+                "hu": "Terme romane",
+                "ro": "Terme romane",
+                "en": "Terme romane"
+              },
+              "tip_5lang": {
+                "de": "Ein passender Abschluss bei den alten Thermen; das prasselnde Geräusch des Regens auf den Steinen schafft eine meditative, zeitlose Ruhe.",
+                "hu": "Méltó befejezés a régi termeknél; az eső kopogása a köveken meditatív, időtlen nyugalmat áraszt a város felett.",
+                "ro": "Un final potrivit la vechile terme; sunetul ploii pe pietre creează o liniște meditativă și atemporală deasupra orașului.",
+                "en": "A fitting end at the old baths; the sound of rain pattering on the stones creates a meditative, timeless calm above the city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft in Vibo Valentia klar und frisch. Mittags wärmen wir uns in den Museen auf, während die Wintersonne tief steht. Nachmittags nutzen wir das letzte Tageslicht für die archäologischen Stätten. Da es gegen 17:00 Uhr dunkel wird, endet der Tag früh in gemütlicher Atmosphäre. Kleiden Sie sich in Schichten für den kühlen Abendwind.",
+            "hu": "Reggel tiszta és friss a levegő Vibo Valentiában. Délben a múzeumokban melegszünk fel, miközben a téli nap alacsonyan jár. Délután kihasználjuk az utolsó fényeket az archeológiai helyszíneken. Mivel 17:00 körül sötétedik, a nap korán, meghitt hangulatban ér véget. Öltözzön rétegesen a hűvös esti szél ellen.",
+            "ro": "Dimineața aerul este curat și proaspăt în Vibo Valentia. La prânz ne încălzim în muzee, în timp ce soarele de iarnă stă jos pe cer. După-amiaza profităm de ultima lumină la siturile arheologice. Deoarece se întunecă în jur de ora 17:00, ziua se încheie devreme într-o atmosferă primitoare. Îmbrăcați-vă în straturi contra vântului serii.",
+            "en": "In the morning, the air is crisp and fresh in Vibo Valentia. At noon, we warm up in the museums while the winter sun stays low. In the afternoon, we use the last daylight for the archaeological sites. As it gets dark around 17:00, the day ends early in a cozy atmosphere. Dress in layers against the cool evening wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Valentianum",
+                "hu": "Valentianum",
+                "ro": "Valentianum",
+                "en": "Valentianum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Innenräume und die ruhige Winterstimmung ohne die Touristenmassen des Sommers; ideal für eine intensive Besichtigung.",
+                "hu": "Élvezze a belső terek melegét és a nyugodt téli hangulatot a nyári tömeg nélkül; ideális egy alapos és zavartalan városnézéshez.",
+                "ro": "Bucurați-vă de căldura interioară și de atmosfera liniștită de iarnă fără aglomerația de vară; ideal pentru o vizită detaliată.",
+                "en": "Enjoy the indoor warmth and the quiet winter atmosphere without the summer crowds; ideal for an intensive and peaceful visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Braille",
+                "hu": "Braille",
+                "ro": "Braille",
+                "en": "Braille"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten auf das Denkmal; ein schneller Halt für Fotos, bevor die Kälte in die Gassen zieht.",
+                "hu": "A téli nap hosszú árnyékokat vet az emlékműre; gyors megálló fotózásra, mielőtt a hideg beférkőzne a szűk utcákba.",
+                "ro": "Soarele de iarnă aruncă umbre lungi asupra monumentului; o oprire rapidă pentru poze înainte ca frigul să pătrundă pe străduțe.",
+                "en": "The winter sun casts long shadows on the monument; a quick stop for photos before the cold sets into the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Domus Nereide",
+                "hu": "Domus Nereide",
+                "ro": "Domus Nereide",
+                "en": "Domus Nereide"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag, wenn das Licht am besten ist; tragen Sie einen Schal gegen den kühlen Luftzug zwischen den Mauern.",
+                "hu": "Látogasson el ide kora délután, amikor a legjobb a megvilágítás; viseljen sálat a falak között áramló hűvös fuvallat ellen.",
+                "ro": "Vizitați acest loc la începutul după-amiezii când lumina este optimă; purtați un fular contra curentului de aer rece dintre ziduri.",
+                "en": "Visit this spot in the early afternoon when the lighting is best; wear a scarf against the cool breeze flowing between the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica S. Aloe",
+                "hu": "Area Archeologica S. Aloe",
+                "ro": "Area Archeologica S. Aloe",
+                "en": "Area Archeologica S. Aloe"
+              },
+              "tip_5lang": {
+                "de": "Die Mosaike wirken im klaren Winterlicht besonders scharf; beeilen Sie sich, da die Sonne hier im Hügelland schnell hinter den Häusern verschwindet.",
+                "hu": "A mozaikok a tiszta téli fényben különösen élesnek tűnnek; igyekezzen, mert a nap a dombos vidéken gyorsan eltűnik a házak mögött.",
+                "ro": "Mozaicurile par deosebit de clare în lumina curată de iarnă; grăbiți-vă, deoarece soarele dispare repede după case în această zonă deluroasă.",
+                "en": "The mosaics appear particularly sharp in the clear winter light; hurry as the sun disappears quickly behind the houses in this hilly area."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme romane",
+                "hu": "Terme romane",
+                "ro": "Terme romane",
+                "en": "Terme romane"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die blaue Stunde bei den Ruinen; bringen Sie eine Taschenlampe mit, da die Beleuchtung in der Dämmerung spärlich sein kann.",
+                "hu": "Élje át a kék órát a romoknál; hozzon magával zseblámpát, mivel a megvilágítás a szürkületben néhol kevés lehet.",
+                "ro": "Experimentați ora albastră la ruine; aduceți o lanternă, deoarece iluminatul poate fi insuficient odată cu lăsarea serii.",
+                "en": "Experience the blue hour at the ruins; bring a flashlight as the lighting can be sparse during the early winter dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást a Nemzeti Régészeti Múzeumnál, megcsodálva az ősi leleteket.\n\nDélben tekerjen az Auditorium dello Spirito Santo és a Nicholas Green emléktábla felé.\n\nA délutáni útvonal enyhén emelkedik a Santuario del Còfino és a Valentianum irányába, feltárva a kultúra rétegeit.\n\nFejezze be kerékpáros napját a történelmi Leone emlékműnél, élvezve az alkonyatot.",
         "ro": "Începeți plimbarea la Muzeul Național de Arheologie, admirând artefactele antice.\n\nLa prânz, pedalați spre Auditorium dello Spirito Santo și placa Nicholas Green.\n\nTraseul de după-amiază urcă ușor spre Santuario del Còfino și Valentianum, dezvăluind straturile culturii locale.\n\nÎncheiați-vă ziua de ciclism la monumentul istoric Leone la amurg.",
         "en": "Kick off your ride at the National Archaeological Museum, absorbing the region's ancient artifacts.\n\nMidday, pedal to the Auditorium dello Spirito Santo and the Nicholas Green plaque.\n\nYour afternoon route climbs gently toward the Santuario del Còfino and Valentianum, revealing layers of culture.\n\nConclude your cycling day at the historic Leone monument at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Radtour durch Vibo. Morgens besuchen wir das Capialbi-Museum als sicheren Hafen. Mittags radeln wir vorsichtig über nasse Straßen zum Auditorium. Nachmittags erkunden wir das Heiligtum trotz Pfützen. Abends erreichen wir das Valentianum zur Erholung. Tragen Sie komplette Regenkleidung und achten Sie auf die Bremswege bei Nässe.",
+            "hu": "Esős kerékpártúra Vibo-ban. Reggel a Capialbi múzeumot látogatjuk meg, mint biztos menedéket. Délben óvatosan tekerünk a nedves utakon az Auditorium felé. Délután a szentélyt fedezzük fel a tócsák ellenére. Este a Valentianumhoz érünk pihenni. Viseljen teljes esőfelszerelést és ügyeljen a megnövekedett féktávra.",
+            "ro": "Tur cu bicicleta pe ploaie în Vibo. Dimineața vizităm muzeul Capialbi ca refugiu sigur. La prânz pedalăm cu atenție pe străzile umede spre Auditorium. După-amiaza explorăm sanctuarul în ciuda bălților. Seara ajungem la Valentianum pentru odihnă. Purtați echipament complet de ploaie și atenție la distanța de frânare.",
+            "en": "A rainy bike tour through Vibo. In the morning, we visit the Capialbi Museum as a safe haven. At noon, we cycle carefully over wet streets to the Auditorium. In the afternoon, we explore the sanctuary despite the puddles. The evening reaches Valentianum for relaxation. Wear full rain gear and watch your braking distance on wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo archeologico nazionale Vito Capialbi",
+                "hu": "Museo archeologico nazionale Vito Capialbi",
+                "ro": "Museo archeologico nazionale Vito Capialbi",
+                "en": "Museo archeologico nazionale Vito Capialbi"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im überdachten Bereich ab; das Schloss bietet perfekten Schutz vor dem ersten Regenschauer des Tages.",
+                "hu": "Parkolja le kerékpárját fedett helyen; a vár tökéletes védelmet nyújt a nap első esője elől a vastag falai között.",
+                "ro": "Parcați bicicleta într-o zonă acoperită; castelul oferă protecție perfectă împotriva primei ploi a zilei între zidurile sale groase.",
+                "en": "Park your bike in a covered area; the castle provides perfect protection from the day's first downpour within its thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium dello Spirito Santo",
+                "hu": "Auditorium dello Spirito Santo",
+                "ro": "Auditorium dello Spirito Santo",
+                "en": "Auditorium dello Spirito Santo"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause im Trockenen; genießen Sie die Akustik, während draußen der Regen gegen die Fenster trommelt.",
+                "hu": "Ideális hely egy száraz pihenőre; élvezze az akusztikát, miközben odakint az eső dobol az ablakokon a város szívében.",
+                "ro": "Un loc ideal pentru o pauză la uscat; bucurați-vă de acustică în timp ce afară ploaia bate în ferestre în inima orașului.",
+                "en": "An ideal place for a dry break; enjoy the acoustics while the rain drums against the windows outside in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Targa a Nicholas Green",
+                "hu": "Targa a Nicholas Green",
+                "ro": "Targa a Nicholas Green",
+                "en": "Targa a Nicholas Green"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Halt; achten Sie beim Absteigen auf die rutschigen Markierungen auf dem Asphalt in der Nähe der Gedenktafel.",
+                "hu": "Rövid, elmélyült megálló; leszálláskor ügyeljen az aszfalton lévő csúszós felfestésekre az emléktábla közelében.",
+                "ro": "O scurtă oprire pentru reflecție; la coborâre, aveți grijă la marcajele alunecoase de pe asfalt din apropierea plăcii comemorative.",
+                "en": "A short, reflective stop; when dismounting, watch out for slippery markings on the asphalt near the commemorative plaque."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Còfino",
+                "hu": "Santuario del Còfino",
+                "ro": "Santuario del Còfino",
+                "en": "Santuario del Còfino"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen anstrengend sein; oben angekommen, bietet das Vordach des Heiligtums Schutz für eine kurze Verschnaufpause.",
+                "hu": "Az emelkedő esőben fárasztó lehet; felérve a szentély előtetője védelmet nyújt egy rövid szusszanásnyi pihenőhöz.",
+                "ro": "Urcarea poate fi obositoare pe ploaie; odată ajunși sus, streașina sanctuarului oferă protecție pentru un scurt moment de răgaz.",
+                "en": "The climb can be tiring in the rain; once at the top, the sanctuary's overhang provides shelter for a short breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Valentianum",
+                "hu": "Valentianum",
+                "ro": "Valentianum",
+                "en": "Valentianum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung zu trocknen; die Innenräume sind gut beheizt und bieten eine willkommene Abwechslung zum Regen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházata megszárítására; a belső terek jól fűtöttek és kellemes felüdülést nyújtanak az eső után.",
+                "ro": "Profită de vizita la muzeu pentru a-ți usca hainele; interioarele sunt bine încălzite și oferă o relaxare binevenită după ploaie.",
+                "en": "Take advantage of the museum visit to dry your clothes; the interiors are well-heated and offer a welcome respite from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Leone",
+                "hu": "Leone",
+                "ro": "Leone",
+                "en": "Leone"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren auf Kopfsteinpflaster am Ende der Tour; die nasse Oberfläche kann extrem glatt sein, fahren Sie langsam zum Ziel.",
+                "hu": "Vigyázat a macskaköves utakon a túra végén; a nedves felület rendkívül csúszós lehet, hajtson lassan a célpont felé.",
+                "ro": "Atenție la condusul pe piatră cubică la finalul turului; suprafața umedă poate fi extrem de alunecoasă, pedalați încet spre destinație.",
+                "en": "Caution when riding on cobblestones at the end of the tour; the wet surface can be extremely slick, ride slowly to the destination."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radeln in Vibo erfordert gute Planung. Morgens starten wir frisch am Schlossmuseum. Mittags nutzen wir die wärmende Sonne für die Fahrt zum Auditorium. Nachmittags erreichen wir die Aussichtspunkte vor dem frühen Sonnenuntergang. Abends wärmen wir uns im Valentianum auf. Schützen Sie Hände und Gesicht vor dem kalten Fahrtwind.",
+            "hu": "A téli kerékpározás Vibo-ban alapos tervezést igényel. Reggel frissen indulunk a vármúzeumnál. Délben kihasználjuk a melegítő napsütést az Auditorium felé. Délután elérjük a kilátópontokat a korai naplemente előtt. Este a Valentianumban melegszünk fel. Védje kezeit és arcát a hideg menetszél ellen.",
+            "ro": "Ciclismul de iarnă în Vibo necesită planificare. Dimineața pornim vioi de la muzeul castelului. La prânz profităm de soarele blând spre Auditorium. După-amiaza ajungem la punctele de belvedere înainte de apusul devreme. Seara ne încălzim la Valentianum. Protejați-vă mâinile și fața de vântul rece.",
+            "en": "Winter cycling in Vibo requires careful planning. In the morning, we start fresh at the castle museum. At noon, we use the warming sun for the ride to the Auditorium. In the afternoon, we reach the viewpoints before the early sunset. The evening warms us up at Valentianum. Protect your hands and face from the cold wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo archeologico nazionale Vito Capialbi",
+                "hu": "Museo archeologico nazionale Vito Capialbi",
+                "ro": "Museo archeologico nazionale Vito Capialbi",
+                "en": "Museo archeologico nazionale Vito Capialbi"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie mit einer Besichtigung im Inneren, um die Muskeln aufzuwärmen, bevor Sie die erste Abfahrt in die kühle Stadtluft wagen.",
+                "hu": "Kezdje a belső terek bejárásával, hogy bemelegítse izmait, mielőtt nekivágna az első lejtőnek a hűvös városi levegőn.",
+                "ro": "Începeți cu o vizită în interior pentru a vă încălzi mușchii înainte de a porni la prima coborâre în aerul răcoros al orașului.",
+                "en": "Start with an indoor tour to warm up your muscles before tackling the first descent into the cool city air."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorium dello Spirito Santo",
+                "hu": "Auditorium dello Spirito Santo",
+                "ro": "Auditorium dello Spirito Santo",
+                "en": "Auditorium dello Spirito Santo"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne steht hier günstig; parken Sie das Rad in der Sonne, damit der Sattel für die Weiterfahrt nicht zu stark abkühlt.",
+                "hu": "A déli nap itt kedvezően süt; parkolja le a kerékpárt a napon, hogy a nyereg ne hűljön ki túlságosan a továbbindulásig.",
+                "ro": "Soarele de prânz strălucește bine aici; parcați bicicleta la soare pentru ca șaua să nu se răcească prea tare până la plecare.",
+                "en": "The midday sun shines favorably here; park your bike in the sun so the seat doesn't cool down too much for the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Targa a Nicholas Green",
+                "hu": "Targa a Nicholas Green",
+                "ro": "Targa a Nicholas Green",
+                "en": "Targa a Nicholas Green"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Ort im Winter; halten Sie den Stopp kurz, um nicht auszukühlen, und genießen Sie die klare Sicht auf die Details.",
+                "hu": "Árnyékos hely télen; tartsa röviden a megállót, hogy ne hűljön ki, és élvezze a tiszta látási viszonyokat a részleteknél.",
+                "ro": "Un loc umbros iarna; faceți o oprire scurtă pentru a nu vă răci și bucurați-vă de vizibilitatea clară asupra detaliilor.",
+                "en": "A shaded spot in winter; keep the stop short to avoid getting chilled, and enjoy the clear visibility of the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Còfino",
+                "hu": "Santuario del Còfino",
+                "ro": "Santuario del Còfino",
+                "en": "Santuario del Còfino"
+              },
+              "tip_5lang": {
+                "de": "Vom Hügel aus hat man im Winter oft die weiteste Fernsicht; ziehen Sie für die Abfahrt eine zusätzliche winddichte Schicht an.",
+                "hu": "A dombról télen gyakran a legtisztább a távoli kilátás; vegyen fel egy extra szélálló réteget a lefelé vezető útra.",
+                "ro": "De pe deal, iarna ai adesea cea mai clară vedere la distanță; puneți-vă un strat suplimentar rezistent la vânt pentru coborâre.",
+                "en": "From the hill, winter often offers the clearest long-distance views; put on an extra windproof layer for the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Valentianum",
+                "hu": "Valentianum",
+                "ro": "Valentianum",
+                "en": "Valentianum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Kälte des Nachmittags zu vertreiben; nehmen Sie sich Zeit für die Ausstellungen im gut temperierten Gebäude.",
+                "hu": "Tökéletes hely a délutáni hideg elűzésére; szánjon időt a kiállításokra a jól temperált, meleg épület falai között.",
+                "ro": "Locul perfect pentru a alunga frigul după-amiezii; acordați-vă timp pentru expoziții în clădirea bine încălzită.",
+                "en": "The perfect place to shake off the afternoon cold; take your time with the exhibitions inside the well-tempered building."
+              }
+            },
+            {
+              "name": {
+                "de": "Leone",
+                "hu": "Leone",
+                "ro": "Leone",
+                "en": "Leone"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei der Rückfahrt unbedingt das Licht ein; im Winter setzt die Dämmerung in den engen Gassen sehr schnell ein.",
+                "hu": "A visszaúton feltétlenül kapcsolja be a világítást; télen a szürkület a szűk utcákban nagyon gyorsan és váratlanul beköszönt.",
+                "ro": "La întoarcere, aprindeți neapărat luminile; iarna, amurgul se lasă foarte repede și neașteptat pe străduțele înguste.",
+                "en": "Be sure to turn on your lights for the ride back; in winter, dusk sets in very quickly and unexpectedly in the narrow alleys."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen először az E. Capialbi Kultúrházhoz, csendes reggeli elmerülésként a helyi művészetekben.\n\nEbédidőben látogassa meg a Maria SS. della Salute szentélyt és a Teatro Comunale-t.\n\nA délutánt a Vito Capialbi Múzeum kincseinek és a Háborús Emlékműnek szentelheti.\n\nFejezze be a festői utazást a Santuario del Còfino-nál, élvezve a békés esti kilátást.",
         "ro": "Conduceți mai întâi la Casa de Cultură E. Capialbi, bucurându-vă de o dimineață liniștită în artă.\n\nLa prânz, vizitați Sanctuarul Maria SS. della Salute și elegantul Teatro Comunale.\n\nDupă-amiaza este dedicată comorilor Muzeului Vito Capialbi și Monumentului Eroilor.\n\nÎncheiați-vă traseul pitoresc la Santuario del Còfino, admirând priveliștea liniștită de seară.",
         "en": "Drive first to the E. Capialbi House of Culture, enjoying a quiet morning immersion into local arts.\n\nBy lunchtime, visit the Sanctuary of Maria SS. della Salute and the elegant Teatro Comunale.\n\nThe afternoon is dedicated to the treasures of the Vito Capialbi Museum and the War Memorial.\n\nFinish your scenic drive at the Santuario del Còfino, enjoying peaceful evening views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Vibo auch bei Regen komfortabel. Morgens besuchen wir die Casa della Cultura. Mittags steuern wir das Heiligtum an, während wir trocken bleiben. Nachmittags besichtigen wir das Schloss Capialbi, das gute Parkmöglichkeiten bietet. Abends endet die Tour am Còfino mit Blick auf die verregnete Stadt. Achten Sie auf Aquaplaning auf den steilen Straßen.",
+            "hu": "Autóval Vibo esőben is kényelmesen felfedezhető. Reggel a Casa della Culturát látogatjuk meg. Délben a szentély felé vesszük az irányt, miközben szárazon maradunk. Délután a Capialbi várat nézzük meg, ahol jó a parkolás. Este a Còfino-nál zárjuk a túrát, kilátással az esős városra. Ügyeljen a vízátfolyásokra a meredek utakon.",
+            "ro": "Cu mașina, Vibo este confortabil de explorat chiar și pe ploaie. Dimineața vizităm Casa della Cultura. La prânz ne îndreptăm spre sanctuar, rămânând la uscat. După-amiaza vedem castelul Capialbi, unde parcarea este facilă. Seara încheiem turul la Còfino cu vedere spre orașul ploios. Atenție la acvaplanare pe străzile abrupte.",
+            "en": "By car, Vibo is comfortable to explore even in the rain. In the morning, we visit the Casa della Cultura. At noon, we head to the sanctuary while staying dry. In the afternoon, we see the Capialbi castle, where parking is convenient. The evening ends at Còfino with a view of the rainy city. Watch out for aquaplaning on the steep roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa della Cultura \"E. Capialbi\"",
+                "hu": "Casa della Cultura \"E. Capialbi\"",
+                "ro": "Casa della Cultura \"E. Capialbi\"",
+                "en": "Casa della Cultura \"E. Capialbi\""
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; das Kulturhaus ist eine ideale erste Station bei schlechtem Wetter.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást; a kultúrház ideális első állomás rossz idő esetén is.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; casa de cultură este o primă oprire ideală chiar și pe vreme rea.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the culture house is an ideal first stop even in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Maria SS. della Salute",
+                "hu": "Santuario Maria SS. della Salute",
+                "ro": "Santuario Maria SS. della Salute",
+                "en": "Santuario Maria SS. della Salute"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren, während der Regen draußen prasselt; die Anfahrt ist unkompliziert und es gibt meist freie Parkplätze.",
+                "hu": "Élvezze a belső csendet, miközben odakint kopog az eső; az odajutás egyszerű, és általában van szabad parkolóhely a közelben.",
+                "ro": "Bucurați-vă de liniștea interioară în timp ce afară plouă; accesul este simplu și de obicei există locuri de parcare libere în apropiere.",
+                "en": "Enjoy the inner silence while the rain patters outside; the drive is straightforward, and there are usually free parking spots nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Comunale di Vibo",
+                "hu": "Teatro Comunale di Vibo",
+                "ro": "Teatro Comunale di Vibo",
+                "en": "Teatro Comunale di Vibo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Theaters von innen; nutzen Sie die Zeit, um die Scheibenwischer zu prüfen, bevor es weitergeht.",
+                "hu": "Csodálja meg a színház építészetét belülről; használja ki az időt az ablaktörlők ellenőrzésére, mielőtt továbbhajtana a városban.",
+                "ro": "Admirați arhitectura teatrului din interior; profitați de timp pentru a verifica ștergătoarele înainte de a porni mai departe prin oraș.",
+                "en": "Admire the theater's architecture from the inside; take the time to check your windshield wipers before driving further through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico nazionale Vito Capialbi",
+                "hu": "Museo archeologico nazionale Vito Capialbi",
+                "ro": "Museo archeologico nazionale Vito Capialbi",
+                "en": "Museo archeologico nazionale Vito Capialbi"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz am Schloss ist im Regen oft weniger belegt; der kurze Weg zum Eingang ist durch die hohen Mauern etwas geschützt.",
+                "hu": "A várnál lévő parkoló esőben gyakran üresebb; a bejárathoz vezető rövid utat a magas falak némileg védik a széltől.",
+                "ro": "Parcarea de la castel este adesea mai liberă pe ploaie; drumul scurt spre intrare este parțial protejat de vânt de zidurile înalte.",
+                "en": "The castle parking lot is often emptier in the rain; the short path to the entrance is somewhat sheltered from the wind by the high walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai caduti",
+                "hu": "Monumento ai caduti",
+                "ro": "Monumento ai caduti",
+                "en": "Monumento ai caduti"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz vom warmen Auto aus oder machen Sie ein schnelles Foto; achten Sie beim Aussteigen auf tiefe Pfützen.",
+                "hu": "Tekintse meg az emlékművet a meleg autóból, vagy készítsen egy gyors fotót; kiszálláskor ügyeljen a mély tócsákra az út szélén.",
+                "ro": "Vedeți monumentul din mașina caldă sau faceți o poză rapidă; la coborâre, aveți grijă la bălțile adânci de la marginea drumului.",
+                "en": "View the monument from the warm car or take a quick photo; when getting out, watch out for deep puddles at the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Còfino",
+                "hu": "Santuario del Còfino",
+                "ro": "Santuario del Còfino",
+                "en": "Santuario del Còfino"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt bietet auch im Regen eine dramatische Aussicht; bleiben Sie im Wagen und genießen Sie das Panorama durch die Scheibe.",
+                "hu": "A legmagasabb pont esőben is drámai kilátást nyújt; maradjon a kocsiban, és élvezze a panorámát az ablakon keresztül.",
+                "ro": "Cel mai înalt punct oferă o vedere dramatică chiar și pe ploaie; rămâneți în mașină și bucurați-vă de panoramă prin parbriz.",
+                "en": "The highest point offers a dramatic view even in the rain; stay in the car and enjoy the panorama through the window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Tour mit dem Auto durch das hügelige Vibo. Morgens nutzen wir die Heizung auf dem Weg zur Casa della Cultura. Mittags besichtigen wir das Theater und das Capialbi-Museum im Warmen. Nachmittags besuchen wir die Denkmäler im klaren Winterlicht. Da es um 17:00 Uhr dunkel wird, bietet die Fahrt zum Còfino einen tollen Blick auf die Lichter der Stadt.",
+            "hu": "Téli autós túra a dombos Vibo-ban. Reggel kihasználjuk a fűtést a Casa della Cultura felé vezető úton. Délben a színházat és a Capialbi múzeumot nézzük meg melegben. Délután a műemlékeket látogatjuk meg a tiszta téli fényben. Mivel 17:00-kor sötétedik, a Còfino felé vezető út remek rálátást nyújt a város fényeire.",
+            "ro": "Tur de iarnă cu mașina prin Vibo deluros. Dimineața profităm de căldură spre Casa della Cultura. La prânz vizităm teatrul și muzeul Capialbi la adăpost. După-amiaza vedem monumentele în lumina clară de iarnă. Deoarece se întunecă la ora 17:00, drumul spre Còfino oferă o vedere excelentă spre luminile orașului.",
+            "en": "A winter car tour through hilly Vibo. In the morning, we use the heater on the way to Casa della Cultura. At noon, we visit the theater and Capialbi Museum in the warmth. In the afternoon, we see the monuments in the clear winter light. Since it gets dark at 17:00, the drive to Còfino offers a great view of the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa della Cultura \"E. Capialbi\"",
+                "hu": "Casa della Cultura \"E. Capialbi\"",
+                "ro": "Casa della Cultura \"E. Capialbi\"",
+                "en": "Casa della Cultura \"E. Capialbi\""
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start in den Tag; parken Sie direkt davor, um die kühle Morgenluft zu meiden, und genießen Sie die Kultur im Geheizten.",
+                "hu": "Meleg kezdés a naphoz; parkoljon közvetlenül előtte, hogy elkerülje a hűvös reggeli levegőt, és élvezze a kultúrát a fűtött falak között.",
+                "ro": "Un început de zi călduros; parcați direct în față pentru a evita aerul răcoros al dimineții și bucurați-vă de cultură în interior.",
+                "en": "A warm start to the day; park directly in front to avoid the cool morning air and enjoy the culture within heated walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Maria SS. della Salute",
+                "hu": "Santuario Maria SS. della Salute",
+                "ro": "Santuario Maria SS. della Salute",
+                "en": "Santuario Maria SS. della Salute"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders friedlich; die tiefstehende Sonne beleuchtet die Fassade wunderschön, ideal für Fotos vom Parkplatz aus.",
+                "hu": "Télen itt különösen békés a hangulat; az alacsonyan járó nap gyönyörűen megvilágítja a homlokzatot, ideális fotózáshoz a parkolóból.",
+                "ro": "Iarna atmosfera este deosebit de pașnică aici; soarele jos luminează superb fațada, ideal pentru fotografii chiar din parcare.",
+                "en": "It's especially peaceful here in winter; the low sun illuminates the facade beautifully, ideal for photos from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Comunale di Vibo",
+                "hu": "Teatro Comunale di Vibo",
+                "ro": "Teatro Comunale di Vibo",
+                "en": "Teatro Comunale di Vibo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für einen Aufwärmmoment im Inneren; achten Sie beim Fahren in den engen Gassen auf vereiste Stellen im Schatten.",
+                "hu": "Használja ki a megállót egy kis melegedésre bent; a szűk utcákban vezetéskor ügyeljen az árnyékos helyeken maradt jeges foltokra.",
+                "ro": "Profită de oprire pentru a te încălzi puțin în interior; atenție la porțiunile înghețate din zonele umbrite când conduci pe străduțe.",
+                "en": "Use the stop for a warming moment inside; when driving in the narrow alleys, watch out for icy patches in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico nazionale Vito Capialbi",
+                "hu": "Museo archeologico nazionale Vito Capialbi",
+                "ro": "Museo archeologico nazionale Vito Capialbi",
+                "en": "Museo archeologico nazionale Vito Capialbi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss vor 16:00 Uhr, um das natürliche Licht zu nutzen; die Heizung in den Ausstellungsräumen macht den Aufenthalt angenehm.",
+                "hu": "Látogasson el a várba 16:00 előtt, hogy kihasználja a természetes fényeket; a kiállítótermek fűtése kellemessé teszi az időtöltést.",
+                "ro": "Vizitați castelul înainte de ora 16:00 pentru a profita de lumina naturală; căldura din sălile de expoziție face vizita foarte plăcută.",
+                "en": "Visit the castle before 16:00 to make the most of the natural light; the heating in the exhibition rooms makes the stay very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai caduti",
+                "hu": "Monumento ai caduti",
+                "ro": "Monumento ai caduti",
+                "en": "Monumento ai caduti"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht vom Denkmal ist im Winter oft klarer; ein kurzer Halt für das Panorama, bevor es im Auto zum nächsten Ziel geht.",
+                "hu": "Az emlékműtől nyíló kilátás télen gyakran tisztább; rövid megálló a panoráma kedvéért, mielőtt az autóval a következő célponthoz hajtana.",
+                "ro": "Vederea de la monument este adesea mai clară iarna; o scurtă oprire pentru panoramă înainte de a porni cu mașina spre următoarea destinație.",
+                "en": "The view from the monument is often clearer in winter; a short stop for the panorama before driving to the next destination in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Còfino",
+                "hu": "Santuario del Còfino",
+                "ro": "Santuario del Còfino",
+                "en": "Santuario del Còfino"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie zur Dämmerung, um die beleuchtete Stadt zu sehen; die kurvenreiche Auffahrt ist gut befestigt, aber fahren Sie vorsichtig bei Kälte.",
+                "hu": "Érkezzen szürkületkor, hogy lássa a kivilágított várost; a kanyargós feljáró jól kiépített, de vezessen óvatosan a hidegben.",
+                "ro": "Sosiți la amurg pentru a vedea orașul luminat; urcarea sinuoasă este bine amenajată, dar conduceți cu atenție pe timp de frig.",
+                "en": "Arrive at dusk to see the city lights; the winding driveway is well-paved, but drive carefully in the cold weather."
+              }
+            }
+          ]
+        }
       }
     }
   }

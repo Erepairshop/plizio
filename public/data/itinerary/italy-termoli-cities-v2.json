@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Termoli tengeri örökségének felfedezésével a nyüzsgő kikötő és a vitorlásklub közelében. Ez a tökéletes alkalom, hogy élvezze a friss tengeri szellőt a hőség előtt.\nDélben merüljön el a központi strandok vibráló kultúrájában. A kristálytiszta Adriai-tenger frissítő úszásra és egy pihentető, vízparti ebédre csábítja az ide látogatókat.\nA délután folyamán haladjon tovább a part mentén, hogy felfedezze a csendesebb homokos szakaszokat. Ezek a békés helyek ideálisak napozáshoz vagy kényelmes sétákhoz.\nEste találjon egy kényelmes tengerparti helyet, és nézze végig a horizonton lemenő napot. A nyugodt hangulat tökéletes lezárása egy gyönyörű parti kirándulásnak.",
         "ro": "Începeți ziua explorând patrimoniul maritim al orașului Termoli lângă portul plin de viață și clubul de navigație. Dimineața este momentul perfect pentru a vă bucura de briza proaspătă.\nLa prânz, cufundați-vă în cultura vibrantă a plajelor centrale. Apele cristaline ale Mării Adriatice vă invită la o baie revigorantă și un prânz relaxant chiar pe malul mării.\nPe măsură ce după-amiaza avansează, mergeți mai departe pe coastă pentru a descoperi porțiuni de nisip mai liniștite. Aceste locuri pașnice sunt ideale pentru plajă și plimbări.\nSeara, găsiți un loc confortabil pe litoral pentru a privi apusul soarelui. Atmosfera liniștită a mării oferă o încheiere perfectă pentru o zi frumoasă petrecută pe coastă.",
         "en": "Start your day by exploring the maritime heritage of Termoli near the bustling port and sailing club. It is the perfect time to enjoy the fresh sea breeze before the sun gets too hot.\nBy midday, immerse yourself in the vibrant beach culture at the central lidos. The crystal-clear Adriatic waters invite you for a refreshing swim and a relaxed lunch by the shore.\nAs the afternoon progresses, move further along the coastline to discover quieter stretches of sand. These peaceful spots are ideal for sunbathing or leisurely strolls.\nIn the evening, find a comfortable seaside spot to watch the sun set over the horizon. The tranquil atmosphere provides a perfect close to a beautiful coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Segelclub, wo die Gischt gegen die Hafenmauer peitscht. Mittags suchen wir Schutz unter den Markisen der Strandbäder, während die Adria grau schimmert. Der Nachmittag führt uns entlang der glatten Promenade, bewaffnet mit Schirm und Regenmantel. Abends kehren wir durchnässt, aber erfrischt vom salzigen Wind in das schützende Stadtzentrum zurück.",
+            "hu": "Esős reggel a vitorlásklubnál, ahol a tenger illata felerősödik a párában. Délben a strandok fedett teraszai alatt figyeljük az esőcseppeket a homokon. Délután a csúszós parti sétányon haladunk, a szél ellen jól jön egy masszív esőkabát. Estére a város fényei visszatükröződnek a nedves aszfalton, a napot egy közeli védett helyen zárjuk a kikötő mellett.",
+            "ro": "O dimineață ploioasă la clubul de navigație, unde sunetul stropilor se amestecă cu cel al valurilor. La prânz căutăm adăpost sub terasele plajelor, admirând marea agitată. După-amiaza continuăm pe faleza alunecoasă, protejați de pelerine rezistente la vânt. Seara se încheie cu reflexii spectaculoase pe asfaltul ud, într-un loc primitor ferit de intemperii.",
+            "en": "A rainy morning starts at the sailing club, where the mist settles over the marina. At noon, we find shelter under beach club awnings while watching the Adriatic turn a deep grey. The afternoon walk along the slippery promenade requires sturdy umbrellas and waterproof gear. By evening, the wet streets of Termoli glow under the lights, offering a cozy end to a damp journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Circolo Vela Termoli",
+                "hu": "Circolo Vela Termoli",
+                "ro": "Circolo Vela Termoli",
+                "en": "Circolo Vela Termoli"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Segelboote im nebligen Hafen und achten Sie auf den rutschigen Holzsteg beim Eingang; wasserfeste Stiefel sind für diesen Abschnitt sehr zu empfehlen.",
+                "hu": "Figyeld a vitorlásokat a ködös kikötőben, de légy óvatos a bejáratnál a vizes fa pallókkal; egy vízálló bakancs ma a legjobb barátod lesz a csúszós felületeken.",
+                "ro": "Observă ambarcațiunile în portul cețos și ai mare grijă la puntea de lemn alunecoasă de la intrare; încălțămintea impermeabilă este esențială pentru această vizită.",
+                "en": "Observe the sailing boats in the misty harbor and be extremely careful on the slippery wooden deck at the entrance; waterproof boots are highly recommended today."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Panfilo",
+                "hu": "Lido Panfilo",
+                "ro": "Lido Panfilo",
+                "en": "Lido Panfilo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die Wellen von der überdachten Veranda aus; ein windfester Regenschirm schützt Sie auf dem Weg zwischen den Gebäuden.",
+                "hu": "Élvezd a hullámok drámai látványát a fedett veranda biztonságából; egy szélálló esernyő elengedhetetlen, amikor az épületek közötti nyitott részeken haladsz át.",
+                "ro": "Bucură-te de vederea dramatică a valurilor de pe terasa acoperită; o umbrelă rezistentă la vânt te va proteja în timp ce te deplasezi între diversele secțiuni.",
+                "en": "Enjoy the dramatic view of the waves from the safety of the covered veranda; a windproof umbrella is essential when moving between the open sections of the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Anna",
+                "hu": "Lido Anna",
+                "ro": "Lido Anna",
+                "en": "Lido Anna"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem breiten Vordach und beobachten Sie das Spiel der Tropfen auf dem Sand; ideal für ein kurzes Innehalten während eines starken Schauers.",
+                "hu": "Keress menedéket a széles előtető alatt, és figyeld, ahogy az esőcseppek mintákat rajzolnak a homokba; tökéletes hely egy rövid pihenőre a zuhé idején.",
+                "ro": "Caută adăpost sub streșina largă și observă cum picăturile de ploaie creează modele pe nisip; locul este ideal pentru o scurtă pauză în timpul unei averse.",
+                "en": "Find shelter under the wide awning and watch the rain droplets creating patterns on the sand; it is an ideal spot for a quick break during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Medusa",
+                "hu": "Lido La Medusa",
+                "ro": "Lido La Medusa",
+                "en": "Lido La Medusa"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Glasfront bietet eine hervorragende Aussicht auf das Meer, während Sie im Trockenen bleiben; achten Sie auf Pfützen auf dem Weg zur Promenade.",
+                "hu": "A védett üvegfalak mögül kiváló kilátás nyílik a tengerre, miközben te teljesen száraz maradsz; figyelj a mély tócsákra, amikor visszatérsz a sétányra.",
+                "ro": "Pereții de sticlă protejați oferă o vedere excelentă spre mare în timp ce rămâi uscat; ai grijă la bălțile adânci când te întorci pe drumul principal spre faleză.",
+                "en": "The sheltered glass front offers an excellent view of the sea while you stay perfectly dry; watch out for deep puddles when returning to the main promenade path."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Lampara",
+                "hu": "Lido La Lampara",
+                "ro": "Lido La Lampara",
+                "en": "Lido La Lampara"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour unter dem schützenden Dach und genießen Sie die maritime Atmosphäre; eine warme Regenjacke verhindert das Auskühlen durch die hohe Feuchtigkeit.",
+                "hu": "Zárd a túrádat a védelmet nyújtó tető alatt, élvezve a tengerparti hangulatot; egy meleg esőkabát megvéd a magas páratartalom miatti kellemetlen lehűléstől.",
+                "ro": "Încheie turul sub acoperișul protector, bucurându-te de atmosfera marină; o jachetă de ploaie groasă va preveni răceala cauzată de umiditatea ridicată a aerului.",
+                "en": "End your tour under the protective roof, enjoying the seaside atmosphere; a warm raincoat will prevent you from getting chilled by the high coastal humidity."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Segelclub bietet weite Sicht über das ruhige Meer. Zur Mittagszeit genießen wir die milde Wintersonne an der Promenade, gut eingepackt in warme Schichten. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das goldene Licht des Nachmittags intensiv. Der Abend bricht früh ein und führt uns in die wohlige Wärme der beleuchteten Altstadtgassen.",
+            "hu": "Tiszta téli reggel a vitorlásklubnál, a hűvös szélben a tenger végtelennek tűnik. Délben vastag rétegekbe bújva élvezzük a napsütést a néptelen strandon. Mivel a nap korán, délután 5 körül nyugszik, sietünk a parti sétánnyal. Estére a kivilágított óváros meleg fényei és barátságos helyiségei nyújtanak menedéket a csípős hideg elől.",
+            "ro": "O dimineață rece de iarnă la clubul nautic, cu aer curat și o vedere panoramică asupra mării. La prânz, soarele blând ne însoțește pe faleză, fiind bine echipați cu haine groase. Deoarece apusul vine devreme pe la ora 17:00, profităm de lumina aurie a după-amiezii. Seara ne retragem în căldura primitoare a centrului istoric, admirând luminile orașului.",
+            "en": "A crisp winter morning at the sailing club reveals a vast, calm horizon under a pale sky. At noon, wrapped in warm layers, we stroll along the quiet beaches enjoying the soft sunlight. Since sunset arrives early around 5 PM, we make the most of the afternoon's golden glow. Evening brings a sharp chill, guiding us toward the cozy, heated spaces of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Circolo Vela Termoli",
+                "hu": "Circolo Vela Termoli",
+                "ro": "Circolo Vela Termoli",
+                "en": "Circolo Vela Termoli"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind am Hafen ist sehr schneidend; tragen Sie eine winddichte Mütze und Handschuhe, um die Aussicht auf die stillgelegten Boote entspannt zu genießen.",
+                "hu": "A kikötői szél télen metszően hideg lehet; viselj szélálló sapkát és kesztyűt, hogy zavartalanul élvezhesd a pihenő hajók látványát a mólóról.",
+                "ro": "Vântul din port este foarte tăios iarna; poartă o căciulă și mănuși călduroase pentru a te bucura de vederea ambarcațiunilor ancorate fără a dârdâi de frig.",
+                "en": "The winter wind at the harbor can be very sharp; wear a windproof hat and gloves to comfortably enjoy the view of the resting boats from the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Panfilo",
+                "hu": "Lido Panfilo",
+                "ro": "Lido Panfilo",
+                "en": "Lido Panfilo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Mittagslicht für beeindruckende Küstenfotos; eine Thermoskanne mit heißem Tee ist der perfekte Begleiter für eine Pause am einsamen Strand.",
+                "hu": "Használd ki a tiszta déli fényeket lenyűgöző parti fotók készítéséhez; egy termosz forró teával tökéletes kiegészítője lesz a pihenőnek az üres homokos parton.",
+                "ro": "Profită de lumina clară a amiezii pentru fotografii spectaculoase; un termos cu ceai fierbinte este partenerul ideal pentru o scurtă pauză pe plaja pustie.",
+                "en": "Take advantage of the clear midday light for stunning coastal photos; a thermos with hot tea is the perfect companion for a break on the empty sandy beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Anna",
+                "hu": "Lido Anna",
+                "ro": "Lido Anna",
+                "en": "Lido Anna"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise ist im Winter sehr erfrischend; dicke Wollsocken in festen Wanderschuhen halten Ihre Füße bei diesem längeren Spaziergang angenehm warm.",
+                "hu": "A hűvös tengeri szellő télen rendkívül frissítő; egy vastag gyapjúzokni és egy stabil túrabakancs melegen tartja lábaidat a hosszú tengerparti séta során.",
+                "ro": "Briza rece a mării este foarte revigorantă iarna; șosetele groase de lână și bocancii solizi îți vor menține picioarele calde pe parcursul acestei plimbări lungi.",
+                "en": "The cool sea breeze is very refreshing in winter; thick wool socks and sturdy walking boots will keep your feet warm during this long seaside stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Medusa",
+                "hu": "Lido La Medusa",
+                "ro": "Lido La Medusa",
+                "en": "Lido La Medusa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das sanfte Winterlicht des Nachmittags; da es bald dämmert, sollten Sie diesen Ort als letzten hellen Punkt für Panoramaaufnahmen einplanen.",
+                "hu": "Élvezd a lágy téli délutáni fényeket; mivel hamarosan sötétedik, érdemes ezt a helyet választani az utolsó világos pillanatok és panorámaképek helyszínéül.",
+                "ro": "Bucură-te de lumina blândă a după-amiezii de iarnă; deoarece amurgul se apropie rapid, acesta este ultimul punct ideal pentru fotografii panoramice pe lumină.",
+                "en": "Enjoy the soft winter afternoon light; as dusk approaches quickly, make sure to use this spot as your final point for panoramic photos in daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Lampara",
+                "hu": "Lido La Lampara",
+                "ro": "Lido La Lampara",
+                "en": "Lido La Lampara"
+              },
+              "tip_5lang": {
+                "de": "Der Spaziergang endet hier bei Einbruch der Dunkelheit; reflektierende Streifen an Ihrer Kleidung erhöhen Ihre Sichtbarkeit auf dem Rückweg in die Stadt.",
+                "hu": "A séta itt ér véget a sötétség beálltakor; a ruházatodon elhelyezett fényvisszaverő elemek nagyban segítik a láthatóságodat a városba vezető visszaúton.",
+                "ro": "Plimbarea se termină aici odată cu lăsarea întunericului; elementele reflectorizante pe haine sunt necesare pentru a fi vizibil pe drumul de întoarcere spre oraș.",
+                "en": "The walk ends here as darkness falls; reflective strips on your clothing will greatly increase your visibility on the walk back towards the city center."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napot Termoli tengeri örökségének felfedezésével a nyüzsgő kikötő és a vitorlásklub közelében. Ez a tökéletes alkalom, hogy élvezze a friss tengeri szellőt a hőség előtt.\nDélben merüljön el a központi strandok vibráló kultúrájában. A kristálytiszta Adriai-tenger frissítő úszásra és egy pihentető, vízparti ebédre csábítja az ide látogatókat.\nA délután folyamán haladjon tovább a part mentén, hogy felfedezze a csendesebb homokos szakaszokat. Ezek a békés helyek ideálisak napozáshoz vagy kényelmes sétákhoz.\nEste találjon egy kényelmes tengerparti helyet, és nézze végig a horizonton lemenő napot. A nyugodt hangulat tökéletes lezárása egy gyönyörű parti kirándulásnak.",
         "ro": "Începeți ziua explorând patrimoniul maritim al orașului Termoli lângă portul plin de viață și clubul de navigație. Dimineața este momentul perfect pentru a vă bucura de briza proaspătă.\nLa prânz, cufundați-vă în cultura vibrantă a plajelor centrale. Apele cristaline ale Mării Adriatice vă invită la o baie revigorantă și un prânz relaxant chiar pe malul mării.\nPe măsură ce după-amiaza avansează, mergeți mai departe pe coastă pentru a descoperi porțiuni de nisip mai liniștite. Aceste locuri pașnice sunt ideale pentru plajă și plimbări.\nSeara, găsiți un loc confortabil pe litoral pentru a privi apusul soarelui. Atmosfera liniștită a mării oferă o încheiere perfectă pentru o zi frumoasă petrecută pe coastă.",
         "en": "Start your day by exploring the maritime heritage of Termoli near the bustling port and sailing club. It is the perfect time to enjoy the fresh sea breeze before the sun gets too hot.\nBy midday, immerse yourself in the vibrant beach culture at the central lidos. The crystal-clear Adriatic waters invite you for a refreshing swim and a relaxed lunch by the shore.\nAs the afternoon progresses, move further along the coastline to discover quieter stretches of sand. These peaceful spots are ideal for sunbathing or leisurely strolls.\nIn the evening, find a comfortable seaside spot to watch the sun set over the horizon. The tranquil atmosphere provides a perfect close to a beautiful coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Tag auf zwei Rädern beginnt am Segelclub. Die Reifen spritzen Wasser hoch, Schutzbleche sind heute Ihr bester Freund. Mittags radeln wir vorsichtig über glatte Radwege zu den Strandbädern. Der Nachmittag erfordert volle Konzentration bei eingeschränkter Sicht durch den Regen. Am Abend stellen wir das Rad im Trockenen ab und wärmen uns nach der Fahrt gegen den Wind auf.",
+            "hu": "Vizes kaland két keréken a vitorlásklubnál. A kerekek felverik a vizet, a sárvédő ma a legjobb barátod lesz. Délben óvatosan tekerünk a csúszós parti utakon a strandok felé. A délutáni szakasz teljes koncentrációt igényel a korlátozott látási viszonyok miatt. Estére biztonságban leparkoljuk a biciklit, és egy forró ital mellett pihenjük ki a szél elleni küzdelmet.",
+            "ro": "O aventură umedă pe două roți începe la clubul de navigație. Roțile stropesc apa, iar apărătorile de noroi sunt esențiale astăzi. La prânz pedalăm cu grijă pe pistele alunecoase spre plaje. După-amiaza necesită concentrare maximă din cauza vizibilității reduse. Seara parcăm bicicleta la loc uscat și ne încălzim după efortul depus împotriva vântului.",
+            "en": "A wet adventure on two wheels starts at the sailing club. Tires kick up spray, so mudguards are your best friend today. At noon, we cycle carefully along slippery coastal paths towards the beaches. The afternoon stretch requires full concentration due to limited visibility in the rain. By evening, we park the bike in a dry spot and warm up after the struggle against the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Circolo Vela Termoli",
+                "hu": "Circolo Vela Termoli",
+                "ro": "Circolo Vela Termoli",
+                "en": "Circolo Vela Termoli"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen; der Asphalt im Hafenbereich kann durch Öl und Wasser besonders rutschig sein, fahren Sie langsam an.",
+                "hu": "Indulás előtt ellenőrizd a fékeidet az esőben; a kikötői aszfalt az olaj és a víz miatt rendkívül csúszós lehet, ezért lassan és óvatosan indulj el.",
+                "ro": "Verifică frânele înainte de a porni prin ploaie; asfaltul din zona portului poate fi extrem de alunecos din cauza apei, așa că pedalează cu viteză redusă.",
+                "en": "Check your brakes before starting in the rain; the harbor asphalt can be particularly slippery due to oil and water mix, so accelerate and turn slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Anna",
+                "hu": "Lido Anna",
+                "ro": "Lido Anna",
+                "en": "Lido Anna"
+              },
+              "tip_5lang": {
+                "de": "Verwenden Sie ein wasserdichtes Gehäuse für Ihr Smartphone am Lenker; so können Sie die Route verfolgen, ohne dass die Elektronik durch den Regen Schaden nimmt.",
+                "hu": "Használj vízálló tokot a kormányra szerelt telefonodhoz; így biztonságban követheted az útvonalat anélkül, hogy az eső kárt tenne az elektronikus eszközödben.",
+                "ro": "Folosește o husă impermeabilă pentru telefonul montat pe ghidon; astfel vei putea urmări traseul fără ca ploaia să afecteze funcționarea dispozitivului tău.",
+                "en": "Use a waterproof case for your phone mounted on the handlebars; this allows you to follow the route without the rain damaging your electronic device."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Perla",
+                "hu": "Lido La Perla",
+                "ro": "Lido La Perla",
+                "en": "Lido La Perla"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen am Wegrand, da diese Schlaglöcher verbergen können; eine neongelbe Regenjacke macht Sie für Autofahrer bei diesem Wetter besser sichtbar.",
+                "hu": "Kerüld a mély tócsákat az út szélén, mert kátyúkat rejthetnek; egy neon sárga esőkabát viselése sokat segít abban, hogy az autósok időben észrevegyenek.",
+                "ro": "Evită bălțile adânci de pe marginea drumului deoarece pot ascunde gropi periculoase; o pelerină neon te va face mult mai vizibil pentru șoferi pe această vreme.",
+                "en": "Avoid deep puddles on the roadside as they may hide dangerous potholes; wearing a neon yellow raincoat will make you much more visible to car drivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Tartaruga",
+                "hu": "Lido Tartaruga",
+                "ro": "Lido Tartaruga",
+                "en": "Lido Tartaruga"
+              },
+              "tip_5lang": {
+                "de": "Die Kurven hier sind bei Nässe tückisch, lehnen Sie sich nicht zu weit hinein; eine kurze Pause unter dem Dach hilft, die Sicht wieder frei zu bekommen.",
+                "hu": "A kanyarok itt trükkösek lehetnek vizes úton, ne dőlj bele túlságosan; egy rövid pihenő a tető alatt segít megtisztítani a szemüvegedet a jobb kilátásért.",
+                "ro": "Curbele de aici sunt înșelătoare pe carosabil umed, nu te înclina prea mult; o scurtă pauză sub acoperiș te va ajuta să-ți cureți ochelarii pentru vizibilitate.",
+                "en": "The curves here are tricky on wet roads, so do not lean too much into them; a short break under the roof helps to clear your glasses for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Vela",
+                "hu": "Lido La Vela",
+                "ro": "Lido La Vela",
+                "en": "Lido La Vela"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Sand, der durch den Regen auf den Radweg gespült wurde; dieser wirkt wie Schmierseife und erfordert besonders vorsichtiges Lenken und Bremsen.",
+                "hu": "Figyelj az eső által az útra mosott homokra; ez olyan csúszós lehet, mint a szappan, ezért fokozott óvatossággal kormányozz és adagold a fékerőt.",
+                "ro": "Ai grijă la nisipul spălat de ploaie pe pistă; acesta poate deveni extrem de alunecos, necesitând manevre de virare și frânare foarte prudente astăzi.",
+                "en": "Watch out for sand washed onto the path by the rain; it can be as slippery as soap, requiring extra caution when steering and applying the brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Blutuff",
+                "hu": "Lido Blutuff",
+                "ro": "Lido Blutuff",
+                "en": "Lido Blutuff"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihre Kette nach der Ankunft ab und ölen Sie sie neu, um Rost vorzubeugen; verstauen Sie Ihre nasse Kleidung in einer separaten Plastiktüte.",
+                "hu": "Érkezés után töröld le a láncot és olajozd meg újra a rozsda megelőzése érdekében; a vizes ruháidat pedig külön műanyag zacskóban tárold a táskádban.",
+                "ro": "După sosire, șterge lanțul și unge-l din nou pentru a preveni rugina; depozitează hainele ude într-o pungă de plastic separată în interiorul rucsacului tău.",
+                "en": "After arrival, wipe down your chain and re-oil it to prevent rust; store your wet clothes in a separate plastic bag inside your backpack to keep things dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hafen verlangt nach warmen Handschuhen für die Fahrt. Die kalte Luft schneidet im Gesicht, während wir an der winterlichen Küste entlangrollen. Am Mittag wärmt die Sonne nur schwach, Thermokleidung ist für Radfahrer jetzt unerlässlich. Da es bereits gegen 17:00 Uhr dunkel wird, beenden wir unsere Tour frühzeitig und genießen die klare, kalte Abendluft.",
+            "hu": "Fagyos reggel a kikötőben, a tekeréshez ma elengedhetetlen a meleg kesztyű. A hideg levegő arcodba vág, miközben a téli tengerpart mentén haladsz. Délben a nap csak gyengén melegít, a réteges aláöltözet most életmentő. Mivel délután 5-kor már sötétedik, túránkat korán befejezzük, és élvezzük az Adria tiszta, fagyos esti levegőjét.",
+            "ro": "O dimineață geroasă în port necesită mănuși groase pentru pedalat. Aerul rece îți taie fața în timp ce rulezi de-a lungul coastei de iarnă. La prânz, soarele încălzește slab, hainele termice fiind acum indispensabile. Deoarece se întunecă deja în jur de ora 17:00, încheiem turul devreme și ne bucurăm de aerul curat și rece al serii.",
+            "en": "A frosty morning at the harbor calls for warm gloves for the ride. The cold air cuts against your face as you roll along the winter coast. At noon, the sun warms only weakly, making thermal layers essential for cyclists now. Since it gets dark by 5 PM, we finish our tour early and enjoy the crisp, freezing evening air of the Adriatic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Circolo Vela Termoli",
+                "hu": "Circolo Vela Termoli",
+                "ro": "Circolo Vela Termoli",
+                "en": "Circolo Vela Termoli"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine dünne Mütze unter dem Helm, um den Wärmeverlust über den Kopf zu minimieren; die kalte Hafenbrise kann bei der Fahrt sehr unangenehm werden.",
+                "hu": "Viselj egy vékony sapkát a sisak alatt, hogy minimalizáld a fejen keresztüli hőveszteséget; a hideg kikötői szél tekerés közben nagyon kellemetlen tud lenni.",
+                "ro": "Poartă o căciulă subțire sub cască pentru a minimiza pierderea de căldură; briza rece din port poate deveni foarte inconfortabilă în timpul deplasării pe bicicletă.",
+                "en": "Wear a thin hat under your helmet to minimize heat loss through your head; the cold harbor breeze can become very uncomfortable while cycling at speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Anna",
+                "hu": "Lido Anna",
+                "ro": "Lido Anna",
+                "en": "Lido Anna"
+              },
+              "tip_5lang": {
+                "de": "Verwenden Sie Überschuhe gegen den kalten Fahrtwind; Ihre Füße bewegen sich beim Radeln weniger als beim Gehen und kühlen daher viel schneller aus.",
+                "hu": "Használj kamáslit a hideg menetszél ellen; a lábaid tekerés közben kevésbé mozognak, mint sétánál, ezért sokkal gyorsabban kihűlhetnek a téli időben.",
+                "ro": "Folosește protecții pentru pantofi împotriva vântului rece; picioarele tale se mișcă mai puțin decât la mers și se vor răci mult mai repede în timpul iernii.",
+                "en": "Use shoe covers against the cold headwind; your feet move less when cycling than when walking and will therefore cool down much faster in winter conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Perla",
+                "hu": "Lido La Perla",
+                "ro": "Lido La Perla",
+                "en": "Lido La Perla"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne bietet ein kurzes Zeitfenster für Wärme; eine winddichte Softshelljacke schützt Ihren Oberkörper vor dem Auskühlen auf den offenen Abschnitten.",
+                "hu": "A déli napsütés rövid ideig tartó meleget ad; egy szélálló softshell kabát megvédi a felsőtestedet a kihűléstől a nyitott tengerparti szakaszokon.",
+                "ro": "Soarele amiezii oferă o fereastră scurtă de căldură; o jachetă softshell rezistentă la vânt îți va proteja trunchiul de frig pe secțiunile deschise ale coastei.",
+                "en": "The midday sun provides a short window of warmth; a windproof softshell jacket will protect your upper body from cooling down on the open coastal sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Tartaruga",
+                "hu": "Lido Tartaruga",
+                "ro": "Lido Tartaruga",
+                "en": "Lido Tartaruga"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte in schattigen Bereichen; verringern Sie den Reifendruck minimal für etwas mehr Grip auf den kalten und harten Fahrbahnoberflächen.",
+                "hu": "Figyelj a zúzmarás, csúszós szakaszokra az árnyékos részeken; csökkentsd minimálisan a guminyomást a jobb tapadás érdekében a hideg és kemény aszfalton.",
+                "ro": "Ai grijă la porțiunile cu polei în zonele umbrite; scade ușor presiunea în pneuri pentru o aderență mai bună pe suprafețele de drum reci și rigide.",
+                "en": "Watch out for frosty, slippery patches in shaded areas; slightly lower your tire pressure for better grip on the cold and hard road surfaces during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Vela",
+                "hu": "Lido La Vela",
+                "ro": "Lido La Vela",
+                "en": "Lido La Vela"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne tief steht, kann sie blenden; eine Sportbrille mit hellen Gläsern schützt Ihre Augen vor dem Fahrtwind und verbessert die Kontraste im Schatten.",
+                "hu": "Az alacsonyan járó nap elvakíthat; egy világos lencséjű sport szemüveg megvédi a szemedet a menetszéltől és javítja a kontrasztot az árnyékos részeken.",
+                "ro": "Soarele jos poate fi orbitor; o pereche de ochelari sport cu lentile deschise îți va proteja ochii de vânt și va îmbunătăți contrastul în zonele cu umbră.",
+                "en": "The low-hanging sun can be blinding; a pair of sports glasses with light lenses will protect your eyes from the wind and improve contrast in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Blutuff",
+                "hu": "Lido Blutuff",
+                "ro": "Lido Blutuff",
+                "en": "Lido Blutuff"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung voll geladen ist; nach 16:30 Uhr nimmt das Licht rapide ab und Sie benötigen volle Sichtbarkeit für den Rückweg.",
+                "hu": "Győződj meg róla, hogy a kerékpár lámpáid teljesen fel vannak töltve; 16:30 után a fény gyorsan fogy, és szükséged lesz a teljes láthatóságra a hazavezető úton.",
+                "ro": "Asigură-te că luminile bicicletelei sunt complet încărcate; după ora 16:30 lumina scade rapid și vei avea nevoie de vizibilitate maximă pentru drumul înapoi.",
+                "en": "Make sure your bike lights are fully charged; after 4:30 PM, the light fades rapidly and you will need full visibility for the journey back to the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a napot Termoli tengeri örökségének felfedezésével a nyüzsgő kikötő és a vitorlásklub közelében. Ez a tökéletes alkalom, hogy élvezze a friss tengeri szellőt a hőség előtt.\nDélben merüljön el a központi strandok vibráló kultúrájában. A kristálytiszta Adriai-tenger frissítő úszásra és egy pihentető, vízparti ebédre csábítja az ide látogatókat.\nA délután folyamán haladjon tovább a part mentén, hogy felfedezze a csendesebb homokos szakaszokat. Ezek a békés helyek ideálisak napozáshoz vagy kényelmes sétákhoz.\nEste találjon egy kényelmes tengerparti helyet, és nézze végig a horizonton lemenő napot. A nyugodt hangulat tökéletes lezárása egy gyönyörű parti kirándulásnak.",
         "ro": "Începeți ziua explorând patrimoniul maritim al orașului Termoli lângă portul plin de viață și clubul de navigație. Dimineața este momentul perfect pentru a vă bucura de briza proaspătă.\nLa prânz, cufundați-vă în cultura vibrantă a plajelor centrale. Apele cristaline ale Mării Adriatice vă invită la o baie revigorantă și un prânz relaxant chiar pe malul mării.\nPe măsură ce după-amiaza avansează, mergeți mai departe pe coastă pentru a descoperi porțiuni de nisip mai liniștite. Aceste locuri pașnice sunt ideale pentru plajă și plimbări.\nSeara, găsiți un loc confortabil pe litoral pentru a privi apusul soarelui. Atmosfera liniștită a mării oferă o încheiere perfectă pentru o zi frumoasă petrecută pe coastă.",
         "en": "Start your day by exploring the maritime heritage of Termoli near the bustling port and sailing club. It is the perfect time to enjoy the fresh sea breeze before the sun gets too hot.\nBy midday, immerse yourself in the vibrant beach culture at the central lidos. The crystal-clear Adriatic waters invite you for a refreshing swim and a relaxed lunch by the shore.\nAs the afternoon progresses, move further along the coastline to discover quieter stretches of sand. These peaceful spots are ideal for sunbathing or leisurely strolls.\nIn the evening, find a comfortable seaside spot to watch the sun set over the horizon. The tranquil atmosphere provides a perfect close to a beautiful coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich im Auto am besten am Segelclub starten, während die Scheibenwischer im Takt schlagen. Mittags fahren wir sicher von Strand zu Strand, geschützt vor den heftigen Schauern. Der Nachmittag bietet trotz des grauen Himmels weite Blicke auf die aufgewühlte See durch die Autoscheiben. Am Abend glitzern die Lichter der Stadt in den Pfützen auf den Parkplätzen.",
+            "hu": "Egy esős napot a legjobb autóban kezdeni a vitorlásklubnál, miközben az ablaktörlők ütemesen járnak. Délben biztonságban gurulunk strandról strandra, védve a heves záporoktól. A délután a szürke ég ellenére is tágas kilátást nyújt a felkavart tengerre az autóablakokon keresztül. Estére a város fényei csillognak a parti parkolók mély tócsáiban.",
+            "ro": "O zi ploioasă este cel mai bine începută în mașină la clubul nautic, în timp ce ștergătoarele bat în ritm constant. La prânz conducem în siguranță de la o plajă la alta, protejați de aversele puternice. După-amiaza oferă, în ciuda cerului gri, vederi ample spre marea agitată prin geamurile mașinii. Seara, luminile orașului sclipesc în bălțile din parcări.",
+            "en": "A rainy day is best started in the car at the sailing club, with wipers beating rhythmically. At noon, we drive safely from beach to beach, shielded from the heavy downpours. The afternoon offers wide views of the churning sea through the car windows despite the grey sky. By evening, the city lights glisten in the deep puddles of the coastal parking lots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Circolo Vela Termoli",
+                "hu": "Circolo Vela Termoli",
+                "ro": "Circolo Vela Termoli",
+                "en": "Circolo Vela Termoli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Hafen; so können Sie die Boote im Regen beobachten, ohne das Auto für längere Zeit verlassen zu müssen.",
+                "hu": "Használd a közvetlenül a kikötő mellett található parkolót; így az autóból is megfigyelheted a hajókat az esőben, anélkül, hogy hosszú időre ki kellene szállnod.",
+                "ro": "Folosește parcarea situată direct lângă port; astfel poți observa ambarcațiunile prin ploaie fără a fi nevoie să părăsești mașina pentru mult timp.",
+                "en": "Use the parking lot located directly next to the harbor; this allows you to watch the boats in the rain without having to leave the car for long periods."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Panfilo",
+                "hu": "Lido Panfilo",
+                "ro": "Lido Panfilo",
+                "en": "Lido Panfilo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie rückwärts ein, um einen direkten Blick auf das aufgewühlte Meer zu haben; die Heizung hält den Innenraum beim Warten auf eine Regenpause gemütlich.",
+                "hu": "Parkolj háttal, hogy közvetlen kilátásod legyen a felkorbácsolt tengerre; a fűtés kellemesen melegen tartja az utasteret, amíg vársz az eső csendesedésére.",
+                "ro": "Parchează cu spatele pentru a avea o vedere directă spre marea agitată; încălzirea va menține interiorul confortabil în timp ce aștepți o pauză între averse.",
+                "en": "Park backwards to have a direct view of the turbulent sea; the heater will keep the interior cozy while you wait for a break in the rain to step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Perla",
+                "hu": "Lido La Perla",
+                "ro": "Lido La Perla",
+                "en": "Lido La Perla"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Aquaplaning in den Zufahrtsstraßen; ein großer Stockschirm im Kofferraum ist heute das wichtigste Utensil für kurze Wege.",
+                "hu": "Kiszálláskor ügyelj a felgyülemlett vízre a bekötőutakon; egy nagy családi esernyő a csomagtartóban a legfontosabb kellék a mai rövid sétákhoz.",
+                "ro": "Ai grijă la acvaplanare pe drumurile de acces când oprești; o umbrelă mare în portbagaj este cel mai important accesoriu pentru scurte distanțe parcurse pe jos.",
+                "en": "Watch out for aquaplaning on the access roads when stopping; a large umbrella in the trunk is the most important tool for short walks today."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Il Gabbiano",
+                "hu": "Lido Il Gabbiano",
+                "ro": "Lido Il Gabbiano",
+                "en": "Lido Il Gabbiano"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein; nutzen Sie die Klimaanlage zur Entfeuchtung, während Sie die Aussicht auf die Küste genießen.",
+                "hu": "A látási viszonyok a párás ablakok miatt romolhatnak; használd a légkondicionálót a páramentesítésre, miközben a tengerparti kilátásban gyönyörködsz.",
+                "ro": "Vizibilitatea poate fi redusă din cauza geamurilor aburite; folosește aerul condiționat pentru dezaburire în timp ce admiri panorama coastei din mașină.",
+                "en": "Visibility can be reduced due to fogged windows; use the air conditioning for dehumidifying while you enjoy the coastal view from the comfort of your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Alcione",
+                "hu": "Lido Alcione",
+                "ro": "Lido Alcione",
+                "en": "Lido Alcione"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch überflutete Bereiche am Straßenrand; das Spritzwasser anderer Fahrzeuge kann Ihre Sicht kurzzeitig komplett unterbrechen.",
+                "hu": "Vezess óvatosan az út szélén kialakult vízátfolyásokon keresztül; a szembejövő autók által felvert víz hirtelen teljesen elveheti a kilátást.",
+                "ro": "Condu cu prudență prin zonele inundate de pe marginea drumului; apa împroșcată de alte vehicule îți poate bloca vizibilitatea complet pentru câteva secunde.",
+                "en": "Drive carefully through flooded areas on the roadside; spray from other vehicles can temporarily block your visibility completely, so maintain a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Le Dune",
+                "hu": "Lido Le Dune",
+                "ro": "Lido Le Dune",
+                "en": "Lido Le Dune"
+              },
+              "tip_5lang": {
+                "de": "Der Sand auf dem Parkplatz kann durch den Regen schlammig und rutschig sein; vermeiden Sie abruptes Bremsen auf unbefestigten Flächen nahe der Dünen.",
+                "hu": "A parkoló homokja az esőtől sáros és csúszós lehet; kerüld a hirtelen fékezést a dűnék közeli, nem aszfaltozott területeken a megállás során.",
+                "ro": "Nisipul din parcare poate deveni noroios și alunecos din cauza ploii; evită frânarea bruscă pe suprafețele neasfaltate din apropierea dunelor de nisip.",
+                "en": "The sand in the parking lot can become muddy and slippery from the rain; avoid abrupt braking on unpaved surfaces near the dunes when coming to a stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Aloha Beach",
+                "hu": "Aloha Beach",
+                "ro": "Aloha Beach",
+                "en": "Aloha Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Auto mit Blick auf das stürmische Meer; prüfen Sie die Wetter-App für den Rückweg, da Starkregen die Fahrtzeit verlängern kann.",
+                "hu": "Zárd a napot az autóban, nézve a viharos tengert; ellenőrizd az időjárás-jelentést a visszaúthoz, mert a heves esőzés jelentősen lassíthatja a haladást.",
+                "ro": "Încheie ziua în mașină privind marea furtunoasă; verifică aplicația meteo pentru drumul de întoarcere, deoarece ploaia torențială poate prelungi timpul de condus.",
+                "en": "End the day in the car watching the stormy sea; check your weather app for the drive back, as heavy rain can significantly increase travel time through the city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintertag beginnt mit einer Panoramafahrt zum Segelclub, die Heizung sorgt für wohlige Wärme. Mittags erkunden wir die einsamen Strände, wobei das Auto als mobiler Rückzugsort dient. Da die Sonne schon um 17:00 Uhr untergeht, genießen wir das magische Licht der blauen Stunde während der Fahrt. Der Abend endet komfortabel in der Stadt, fernab der eisigen Meeresbrise.",
+            "hu": "Hideg téli nap egy panorámaúttal indul a vitorlásklubhoz, a fűtés pedig gondoskodik a melegről. Délben az üres strandokat fedezzük fel, az autó pedig mobil menedékként szolgál a szünetekben. Mivel a nap már délután 5-kor lemegy, útközben élvezzük a kék óra varázslatos fényeit. Az este kényelmesen, a városban ér véget, távol a jeges tengeri széltől.",
+            "ro": "O zi rece de iarnă începe cu o plimbare panoramică spre clubul nautic, încălzirea oferind tot confortul necesar. La prânz explorăm plajele pustii, mașina servind ca refugiu mobil între opriri. Deoarece soarele apune deja la ora 17:00, ne bucurăm de lumina magică a amurgului din mers. Seara se încheie confortabil în oraș, feriți de briza înghețată.",
+            "en": "A cold winter day starts with a scenic drive to the sailing club, the heater providing cozy warmth. At noon, we explore the empty beaches, using the car as a mobile refuge between stops. Since the sun sets as early as 5 PM, we enjoy the magical light of the blue hour during the drive. The evening ends comfortably in the city, far from the icy sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Circolo Vela Termoli",
+                "hu": "Circolo Vela Termoli",
+                "ro": "Circolo Vela Termoli",
+                "en": "Circolo Vela Termoli"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben vollständig zu enteisen; das glitzernde Eis auf den Hafenkränen ist ein tolles Motiv für ein erstes Winterfoto.",
+                "hu": "Járasd a motort egy rövid ideig, hogy az ablakok teljesen jégmentesek legyenek; a kikötői darukon csillogó jég remek téma az első téli fotóhoz.",
+                "ro": "Lasă motorul pornit puțin pentru a dezgheța complet geamurile; gheața sclipitoare de pe macaralele din port este un subiect excelent pentru prima fotografie de iarnă.",
+                "en": "Let the engine run for a short time to completely defrost the windows; the sparkling ice on the harbor cranes is a great subject for your first winter photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Panfilo",
+                "hu": "Lido Panfilo",
+                "ro": "Lido Panfilo",
+                "en": "Lido Panfilo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach einem kurzen Fotostopp am Strand; die klare Winterluft am Meer ist gesund, entzieht dem Körper aber auch schnell Wärme.",
+                "hu": "Használd az ülésfűtést a tengerparti fotózás után; a tiszta téli tengeri levegő egészséges, de a hideg szél miatt a tested gyorsan veszíthet a hőjéből.",
+                "ro": "Folosește încălzirea în scaune după o scurtă oprire pentru poze pe plajă; aerul curat de iarnă este sănătos, dar vântul rece îți poate răci corpul rapid.",
+                "en": "Use the seat heating after a quick photo stop on the beach; the clear winter sea air is healthy, but the cold wind can quickly draw warmth from your body."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido La Perla",
+                "hu": "Lido La Perla",
+                "ro": "Lido La Perla",
+                "en": "Lido La Perla"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei Frost glatt sein, fahren Sie vorausschauend; warme Decken im Auto machen kurze Pausen mit Blick auf die winterliche Adria viel gemütlicher.",
+                "hu": "A bekötőutak fagy esetén csúszósak lehetnek, vezess előrelátóan; a kocsiban tartott meleg takarók sokkal hangulatosabbá teszik a rövid parti pihenőket.",
+                "ro": "Drumurile de acces pot fi alunecoase în caz de îngheț, condu cu prudență; păturile calde din mașină vor face pauzele scurte la malul mării mult mai plăcute.",
+                "en": "The access roads can be slippery during frost, so drive cautiously; warm blankets in the car make short breaks with a view of the winter Adriatic much cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Il Gabbiano",
+                "hu": "Lido Il Gabbiano",
+                "ro": "Lido Il Gabbiano",
+                "en": "Lido Il Gabbiano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das intensive Blau des Meeres zur Mittagszeit durch die Panoramafenster; ein heißer Kaffee aus der Thermoskanne wärmt Sie nach einem Spaziergang.",
+                "hu": "Élvezd a tenger mélykék színét délidőben a kocsi ablakaiból; egy termoszban vitt forró kávé pedig gyorsan felmelegít egy rövid parti séta után.",
+                "ro": "Bucură-te de albastrul intens al mării la amiază prin geamurile panoramice; o cafea fierbinte dintr-un termos te va încălzi rapid după o plimbare scurtă.",
+                "en": "Enjoy the intense blue of the sea at midday through the panoramic windows; a hot coffee from a thermos will quickly warm you up after a short beach stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Alcione",
+                "hu": "Lido Alcione",
+                "ro": "Lido Alcione",
+                "en": "Lido Alcione"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne, die beim Fahren entlang der Küste blenden kann; eine Sonnenbrille ist auch im Winter ein wichtiges Accessoire im Auto.",
+                "hu": "Figyelj az alacsonyan járó napra, amely elvakíthat a tengerparti úton; a napszemüveg télen is fontos kellék az autóban a biztonságos vezetéshez.",
+                "ro": "Ai grijă la soarele jos care te poate orbi în timp ce conduci pe coastă; ochelarii de soare sunt un accesoriu important în mașină chiar și pe timpul iernii.",
+                "en": "Watch out for the low sun which can be blinding while driving along the coast; sunglasses remain an important accessory in the car even during winter time."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Le Dune",
+                "hu": "Lido Le Dune",
+                "ro": "Lido Le Dune",
+                "en": "Lido Le Dune"
+              },
+              "tip_5lang": {
+                "de": "Die Dünenlandschaft wirkt im Winterlicht besonders malerisch; bleiben Sie im Auto, um das Panorama zu genießen, falls der Wind am Nachmittag zu stark wird.",
+                "hu": "A dűnék látványa a téli fényekben különösen festői; maradj az autóban élvezni a panorámát, ha a délutáni szél túl erőssé válna a kinti tartózkodáshoz.",
+                "ro": "Peisajul dunelor arată deosebit de pitoresc în lumina iernii; rămâi în mașină pentru a admira panorama dacă vântul de după-amiază devine prea puternic.",
+                "en": "The dunes look particularly picturesque in the winter light; stay inside the car to enjoy the panorama if the afternoon wind becomes too strong for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Aloha Beach",
+                "hu": "Aloha Beach",
+                "ro": "Aloha Beach",
+                "en": "Aloha Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr bequem vom Fahrersitz aus; die Farben am Horizont sind an klaren Wintertagen oft besonders intensiv.",
+                "hu": "Figyeld a korai, délután 5 órai naplementét kényelmesen a vezetőülésből; a színek a látóhatáron a tiszta téli napokon gyakran rendkívül intenzívek.",
+                "ro": "Observă apusul devreme de la ora 17:00 confortabil din scaunul șoferului; culorile de la orizont sunt adesea foarte intense în zilele senine de iarnă.",
+                "en": "Watch the early sunset around 5 PM comfortably from the driver's seat; the colors on the horizon are often extremely intense on clear winter days."
+              }
+            }
+          ]
+        }
       }
     }
   }

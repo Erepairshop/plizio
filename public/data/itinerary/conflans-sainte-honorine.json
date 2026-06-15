@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a festői Szajna-parton, ahol a tengerészeti hangulat megadja az alaphangot. A horgonyzó uszályok melletti békés séta felkészít a történelmi Tour Montjoie megmászására.\nA 11. századi torony romjai fenséges kilátást nyújtanak, mielőtt felfedezné a díszes Église Saint-Maclou-t. Az óváros szűk utcái hangulatos helyeket kínálnak egy gyors helyi ebédhez.\nMerüljön el a lenyűgöző Musée de la Batellerie-ben, megismerve a régió gazdag folyami hajózási örökségét. A modellek és leletek kiterjedt gyűjteménye igazán lenyűgöző élményt nyújt.\nFejezze be gyalogos túráját a békés Parc du Prieuré-ben. A Szajna völgyére nyíló panoráma tökéletes hely a pihenésre és a nap átgondolására, ahogy a naplemente aranyba borítja a vizet.",
         "ro": "Începeți-vă ziua pe cheiurile pitorești ale Senei, unde atmosfera maritimă dă tonul. O plimbare liniștită pe lângă barje vă pregătește pentru ascensiunea istorică spre Tour Montjoie.\nRuinele turnului din secolul al XI-lea oferă o priveliște maiestuoasă înainte de a explora Église Saint-Maclou. Străzile înguste din orașul vechi sunt perfecte pentru un prânz local.\nCufundați-vă în captivantul Musée de la Batellerie, învățând despre bogata moștenire a navigației fluviale. Colecția extinsă de modele și artefacte este cu adevărat impresionantă pentru toți.\nÎncheiați-vă turul pietonal în liniștitul Parc du Prieuré. Priveliștea vastă asupra văii Senei face din acest loc punctul perfect pentru a vă relaxa în timp ce soarele apune peste apă.",
         "en": "Morning: Start your day along the picturesque Seine Quays, where the maritime atmosphere sets the tone. A peaceful walk by the moored barges prepares you for the historical ascent to the Tour Montjoie.\nMidday: The ruins of the 11th-century tower provide a majestic view before you explore the ornate Église Saint-Maclou. The narrow streets of the old town offer charming spots to grab a quick local lunch.\nAfternoon: Immerse yourself in the captivating Musée de la Batellerie, learning about the region's rich river shipping heritage. The extensive collection of models and artifacts is truly impressive.\nEvening: Conclude your walking tour in the tranquil Parc du Prieuré. The sweeping views over the Seine valley make it a perfect spot to relax and reflect on the day as the sun sets over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen an der nebligen Seine mit einem Regenschirm gegen die Flussbrise. Erkunden Sie mittags die historischen Turmruinen mit Vorsicht auf nassen Steinen und suchen Sie Schutz in der Kirche. Der Nachmittag lässt sich wunderbar im trockenen Schifffahrtsmuseum verbringen. Beenden Sie den Spaziergang mit einer Runde durch den regennassen Park.",
+            "hu": "Kezdje a reggelt a ködös Szajna partján, esernyővel védekezve a folyami szél ellen. Délben óvatosan lépkedjen a történelmi torony vizes kövein, majd keressen menedéket a fenséges templomban. A délutánt tökéletesen eltöltheti a hajózási múzeum fedett termeiben. Zárja sétáját a felfrissült, eső áztatta park csendes ösvényein.",
+            "ro": "Începeți dimineața pe malurile cețoase ale Senei, având la îndemână o umbrelă. La prânz, explorați ruinele turnului cu grijă pe pietrele ude, apoi găsiți adăpost în biserica impunătoare. După-amiaza este perfectă pentru a descoperi istoria navigației în muzeul acoperit. Încheiați plimbarea pe aleile parcului proaspăt spălat de ploaie.",
+            "en": "Start your morning along the misty Seine, keeping an umbrella handy for the river breeze. By midday, explore the historic tower ruins with caution on wet stones, then find shelter in the majestic church. The afternoon is perfectly spent indoors discovering river trade history at the museum. Conclude your walk with a refreshing, rain-kissed stroll through the park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seine Quays",
+                "hu": "Seine Quays",
+                "ro": "Seine Quays",
+                "en": "Seine Quays"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Fluss, aber tragen Sie wasserdichte Schuhe, um Pfützen zu vermeiden.",
+                "hu": "Figyelje az esőcseppeket a folyó felszínén a rakparton sétálva, de viseljen vízálló cipőt a tócsák ellen.",
+                "ro": "Priviți ploaia dansând pe râu în timp ce vă plimbați pe chei, purtând încălțăminte impermeabilă.",
+                "en": "Watch the rain dance on the river surface while walking the quays, but wear waterproof shoes to avoid puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Montjoie",
+                "hu": "Tour Montjoie",
+                "ro": "Tour Montjoie",
+                "en": "Tour Montjoie"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterliche Turmruine in dramatischer Regenstimmung und achten Sie auf rutschige Wege.",
+                "hu": "Csodálja meg a drámai esős hangulatba burkolózó középkori tornyot, óvatosan lépkedve a csúszós utakon.",
+                "ro": "Admirați ruinele turnului medieval învăluite într-o atmosferă dramatică, pășind cu grijă pe potecile alunecoase.",
+                "en": "Admire the medieval tower ruins wrapped in a dramatic rainy atmosphere, stepping carefully on the slippery paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maclou",
+                "hu": "Église Saint-Maclou",
+                "ro": "Église Saint-Maclou",
+                "en": "Église Saint-Maclou"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser beeindruckenden Kirche Schutz vor dem Regen und bewundern Sie die Buntglasfenster.",
+                "hu": "Keressen menedéket a záporok elől ebben a lenyűgöző templomban, megcsodálva a színes üvegablakokat.",
+                "ro": "Refugiați-vă de ploaie în această biserică uimitoare, admirând vitraliile sale complexe la adăpost.",
+                "en": "Seek refuge from the showers inside this stunning church, appreciating its intricate stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Batellerie",
+                "hu": "Musée de la Batellerie",
+                "ro": "Musée de la Batellerie",
+                "en": "Musée de la Batellerie"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die faszinierende Geschichte der Binnenschifffahrt ein und bleiben Sie dabei im Museum trocken.",
+                "hu": "Merüljön el a belvízi hajózás lenyűgöző történetében, miközben teljesen száraz marad ebben a múzeumban.",
+                "ro": "Explorați istoria fascinantă a transportului fluvial în timp ce rămâneți complet uscat în acest muzeu acoperit.",
+                "en": "Dive into the fascinating history of inland water transport while staying completely dry in this indoor museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Prieuré",
+                "hu": "Parc du Prieuré",
+                "ro": "Parc du Prieuré",
+                "en": "Parc du Prieuré"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das satte Grün der Parkflora und bringen Sie einen kompakten Regenschirm für Nieselregen mit.",
+                "hu": "Élvezze a park növényvilágának élénk, telt zöld színeit, egy kompakt esernyővel a hirtelen szitálások ellen.",
+                "ro": "Bucurați-vă de culorile verzi saturate ale florei parcului, având o umbrelă compactă pentru burnițe.",
+                "en": "Enjoy the vibrant, saturated green colors of the park flora, bringing a compact umbrella for sudden drizzles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen flotten Morgenspaziergang an der frostigen Seine. Erkunden Sie mittags den Turm und fliehen Sie in der Kirche vor der Winterkälte. Da die Sonne früh untergeht, bietet das Schifffahrtsmuseum nachmittags einen beheizten Rückzugsort. Beenden Sie den Tag vor der Dämmerung im winterlichen Park.",
+            "hu": "Öltözzön melegen a fagyos Szajna parti reggeli sétához. Délben fedezze fel a történelmi tornyot, majd térjen be a templomba a téli hideg elől. Mivel a nap kora délután nyugszik, a hajózási múzeum fűtött, lenyűgöző menedéket nyújt. Zárja a napot még sötétedés előtt egy békés sétával a télies parkban.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală pe malurile înghețate ale Senei. La prânz, explorați turnul și intrați în biserică pentru a scăpa de frigul iernii. Deoarece soarele apune devreme, muzeul navigației oferă un refugiu încălzit după-amiaza. Încheiați ziua înainte de lăsarea întunericului cu o plimbare prin parcul de iarnă.",
+            "en": "Wrap up warmly for a brisk morning walk along the frosty Seine quays. By midday, explore the historical tower and step into the church to escape the winter chill. As the sun sets early in the afternoon, the riverboat museum offers a heated, fascinating retreat. Conclude your day before dusk with a peaceful stroll through the winter-bare park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seine Quays",
+                "hu": "Seine Quays",
+                "ro": "Seine Quays",
+                "en": "Seine Quays"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die frostige Aussicht, eingepackt in eine winddichte Jacke und Handschuhe.",
+                "hu": "Szívja magába a friss téli levegőt és a fagyos folyóparti látványt, szélálló kabátban és kesztyűben.",
+                "ro": "Respirați aerul proaspăt de iarnă și admirați râul înghețat, purtând o jachetă rezistentă la vânt și mănuși.",
+                "en": "Take in the crisp winter air and frosty river views, making sure to wear a windproof jacket and gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Montjoie",
+                "hu": "Tour Montjoie",
+                "ro": "Tour Montjoie",
+                "en": "Tour Montjoie"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die markanten Steinruinen vor dem kahlen Winterhimmel und halten Sie Ihre Hände warm.",
+                "hu": "Tekintse meg a kopár téli égbolt előtt magasodó kőromokat, zsebre dugott kézzel melegedve.",
+                "ro": "Priviți ruinele de piatră care se înalță pe cerul aspru de iarnă, ținându-vă mâinile la căldură în buzunare.",
+                "en": "View the striking stone ruins standing against the stark winter sky, keeping your hands warm in your pockets."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maclou",
+                "hu": "Église Saint-Maclou",
+                "ro": "Église Saint-Maclou",
+                "en": "Église Saint-Maclou"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im ruhigen, historischen Inneren der Kirche auf und bewundern Sie die Architektur fernab der Kälte.",
+                "hu": "Melegedjen fel a templom csendes, történelmi belső terében, távol a csípős hidegtől csodálva az építészetet.",
+                "ro": "Încălziți-vă în interiorul liniștit al bisericii în timp ce admirați arhitectura, departe de frigul pătrunzător.",
+                "en": "Warm up in the quiet, historic interior of the church while admiring the architecture away from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Batellerie",
+                "hu": "Musée de la Batellerie",
+                "ro": "Musée de la Batellerie",
+                "en": "Musée de la Batellerie"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den kältesten Teil des Nachmittags mit den spannenden Ausstellungen in diesem beheizten Gebäude.",
+                "hu": "Töltse a délután leghidegebb részét a folyami hajók kiállításának felfedezésével ebben a kellemesen fűtött épületben.",
+                "ro": "Petreceți cea mai rece parte a după-amiezii explorând expozițiile navale în această clădire confortabil încălzită.",
+                "en": "Spend the coldest part of the afternoon exploring fascinating riverboat exhibits in this comfortably heated building."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Prieuré",
+                "hu": "Parc du Prieuré",
+                "ro": "Parc du Prieuré",
+                "en": "Parc du Prieuré"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Schönheit der kahlen Bäume vor dem Sonnenuntergang um 17 Uhr mit wärmender Thermokleidung.",
+                "hu": "Élvezze a csupasz fák csendes szépségét a délután 5 órás naplemente előtt, termóruházatban a hűlő levegő miatt.",
+                "ro": "Bucurați-vă de frumusețea copacilor desfrunziți înainte de apusul de la ora 17:00, purtând straturi termice.",
+                "en": "Enjoy the quiet beauty of bare trees before the 5 PM sunset, wearing thermal layers for the dropping temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros utazása a Szajna-parti sima utakon kezdődik. A folyóparti varázs befogadása után kissé felfelé teker, hogy megcsodálja az ősi Tour Montjoie lenyűgöző romjait.\nA Musée de la Batellerie mélyreható bepillantást nyújt a folyami hajózás történetébe. Ezután egy rövid utazás a Parc du Prieuré-be tökéletes alkalmat ad egy festői piknikhez.\nHagyja maga mögött a történelmi központot, miközben a Parc des Femmes Savantes felé lovagol. Ez egy fantasztikus zöldterület, amely meghívja Önt egy kis pihenésre a természetben.\nAz utolsó szakasz az Aire de jeux des Alouettes-hez vezet. Akár gyerekekkel utazik, akár csak élvezi a nyitott teret, ez egy nyugodt és kellemes módja a kerékpáros kaland befejezésének.",
         "ro": "Călătoria cu bicicleta începe pe potecile netede de-a lungul Senei. După ce ați absorbit farmecul râului, veți pedala ușor la deal pentru a admira vechiul Tour Montjoie.\nMusée de la Batellerie oferă o incursiune profundă în istoria navigației. Apoi, faceți o scurtă plimbare până la Parc du Prieuré pentru un picnic pitoresc cu vedere la oraș.\nLăsați în urmă centrul istoric în timp ce vă îndreptați spre Parc des Femmes Savantes. Este un spațiu verde fantastic care vă invită să faceți o pauză relaxantă în natură.\nUltima etapă vă duce la Aire de jeux des Alouettes. Fie că sunteți cu copii sau doar vă bucurați de spațiul deschis, este un mod plăcut de a încheia aventura.",
         "en": "Morning: Your cycling journey starts on the smooth paths along the Seine Quays. After absorbing the riverside charm, you'll pedal slightly uphill to admire the ancient Tour Montjoie.\nMidday: The fascinating Musée de la Batellerie offers a deep dive into river navigation history. Afterward, take a short ride to the Parc du Prieuré for a scenic picnic overlooking the town.\nAfternoon: Leave the historic center behind as you ride out to the Parc des Femmes Savantes. It's a fantastic green space that invites you to stretch your legs and enjoy a break in nature.\nEvening: The final leg takes you to the Aire de jeux des Alouettes. Whether traveling with kids or just enjoying the open space, it's a calm and pleasant way to finish your biking adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens an der nebligen Seine entlang, ausgestattet mit Schutzblechen und wasserfester Kleidung. Mittags erkunden Sie historische Ruinen und trocknen sich im Museum auf. Die Nachmittagsfahrt durch die Parks erfordert auf den rutschigen Wegen besondere Vorsicht. Beenden Sie die nasse Fahrt an den Spielplätzen.",
+            "hu": "Bringázzon a ködös Szajna parton ezen a reggelen, sárvédővel és vízálló felszereléssel indulva útnak. A dél történelmi romokat és egy száraz, fedett múzeumi pihenőt tartogat. A délutáni tekerés zöld parkokat köt össze, ami extra óvatosságot igényel a csúszós utakon. Zárja a vizes kalandot a játszótereknél.",
+            "ro": "Pedalați dimineața pe malurile cețoase ale Senei, echipat cu apărători de noroi și haine impermeabile. Prânzul aduce o combinație de ruine și o pauză uscată în muzeu. Plimbarea de după-amiază prin parcuri necesită o atenție sporită pe potecile alunecoase. Încheiați călătoria umedă devreme la locurile de joacă.",
+            "en": "Cycle along the misty Seine quays this morning, equipped with good mudguards and waterproof gear. Midday brings a mix of historical ruins and an indoor museum break to dry off completely. The afternoon ride connects green parks, demanding extra caution on slick paths. Conclude the wet journey early at the playgrounds, embracing the adventurous weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seine Quays",
+                "hu": "Seine Quays",
+                "ro": "Seine Quays",
+                "en": "Seine Quays"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie den frischen Regen beim Radeln am Ufer und schalten Sie das Licht für bessere Sichtbarkeit ein.",
+                "hu": "Élvezze a friss esőt az arcán a rakparton tekerve, és kapcsolja be a kerékpárlámpákat a jobb láthatóságért.",
+                "ro": "Bucurați-vă de ploaia proaspătă pe față în timp ce pedalați pe chei, având luminile aprinse pentru vizibilitate.",
+                "en": "Enjoy the fresh rain on your face as you pedal the quays, ensuring your bike lights are on for visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Montjoie",
+                "hu": "Tour Montjoie",
+                "ro": "Tour Montjoie",
+                "en": "Tour Montjoie"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad, um den alten Turm zu sehen, und achten Sie auf die schlammigen, rutschigen Steine.",
+                "hu": "Parkolja le a bringát az ősi torony megtekintéséhez, ügyelve a sáros és csúszós kövekre a környéken.",
+                "ro": "Parcați bicicleta pentru a vedea vechiul turn, pășind cu atenție pe pietrele noroioase și alunecoase din jur.",
+                "en": "Park your bike to view the ancient keep, stepping mindfully around the muddy and slick perimeter stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Batellerie",
+                "hu": "Musée de la Batellerie",
+                "ro": "Musée de la Batellerie",
+                "en": "Musée de la Batellerie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange, trockene Pause im Schifffahrtsmuseum, während Ihre nasse Ausrüstung abtropft.",
+                "hu": "Tartson egy hosszú, száraz szünetet a tengerészeti múzeumban, míg vizes kerékpáros felszerelése lecsöpög.",
+                "ro": "Luați o pauză lungă și uscată în acest muzeu maritim în timp ce echipamentul ud se scurge la garderobă.",
+                "en": "Take a long, dry break inside this maritime museum while your wet cycling gear drips off in the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Prieuré",
+                "hu": "Parc du Prieuré",
+                "ro": "Parc du Prieuré",
+                "en": "Parc du Prieuré"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den befestigten Wegen durch die nassen Bäume und bremsen Sie sanft auf dem nassen Boden.",
+                "hu": "Tekerjen lassan a fák alatti aszfaltozott utakon, finoman használva a fékeket a vizes felületeken.",
+                "ro": "Pedalați încet pe aleile pavate printre copacii uzi, folosind frânele cu blândețe pe suprafețele umede.",
+                "en": "Cycle slowly on the paved paths through the dripping trees, using your brakes gently on the wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Femmes Savantes",
+                "hu": "Parc des Femmes Savantes",
+                "ro": "Parc des Femmes Savantes",
+                "en": "Parc des Femmes Savantes"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig auf den feuchten Wegen, da nasses Laub die Kurven sehr rutschig machen kann.",
+                "hu": "Óvatosan navigáljon a park nedves ösvényein, mivel a vizes falevelek nagyon csúszóssá tehetik a kanyarokat.",
+                "ro": "Navigați cu atenție pe potecile umede ale parcului, deoarece frunzele ude pot face curbele foarte alunecoase.",
+                "en": "Navigate the damp trails of this serene park with caution, as wet leaves can make tight turns quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux des Alouettes",
+                "hu": "Aire de jeux des Alouettes",
+                "ro": "Aire de jeux des Alouettes",
+                "en": "Aire de jeux des Alouettes"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihre nasse Fahrt; die Spielgeräte könnten feucht sein, tragen Sie also eine Regenhose.",
+                "hu": "Itt zárja a nedves túrát; a játékok vizesek lehetnek, így viseljen vízálló nadrágot, ha le szeretne ülni.",
+                "ro": "Încheiați cursa umedă aici; jocurile ar putea fi ude, așa că purtați pantaloni impermeabili dacă vă așezați.",
+                "en": "Conclude your wet ride here; the play structures might be damp, so wear waterproof over-trousers if sitting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für eine erfrischende Morgenfahrt an der gefrorenen Seine. Mittags gibt es einen historischen Stopp, bevor es in das beheizte Schifffahrtsmuseum geht. Die nachmittäglichen Parks sind kahl und kühl, ständige Bewegung hält Sie warm. Beenden Sie die Fahrt bis 17 Uhr, wenn es dunkel und eiskalt wird.",
+            "hu": "Öltözzön be alaposan egy frissítő reggeli tekeréshez a fagyos Szajna mentén. Délben egy gyors történelmi megálló után irány a hajómúzeum fűtött csarnoka. A délutáni parkok gyönyörűek, de hidegek, folyamatos mozgást igényelnek a felmelegedéshez. Próbálja meg befejezni a túrát délután 5-ig, amikor a nap lemegy és lehűl az idő.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală energizantă pe lângă Sena înghețată. Prânzul oferă o oprire istorică înainte de a intra în sălile încălzite ale muzeului. Secțiunile de parc de după-amiază sunt frumoase, dar reci, necesitând mișcare continuă. Încercați să terminați cursa până la ora 17:00, când soarele apune.",
+            "en": "Bundle up for a crisp, energizing morning ride along the frozen Seine. Midday offers a quick historical stop before diving into the beautifully heated halls of the boat museum. The afternoon park sections are stunningly bare but chilly, requiring continuous movement to stay warm. Aim to finish your ride by 5 PM when the sun dips and temperatures plummet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seine Quays",
+                "hu": "Seine Quays",
+                "ro": "Seine Quays",
+                "en": "Seine Quays"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale gegen den eisigen Flusswind und tragen Sie dicke Handschuhe und eine Sturmhaube.",
+                "hu": "Tekerjen erősen, hogy hőt termeljen a jeges folyami széllel szemben, vastag kesztyűt és csősálat viselve.",
+                "ro": "Pedalați puternic pentru a vă încălzi împotriva vântului tăios de pe râu, purtând mănuși groase și o cagulă termică.",
+                "en": "Pedal hard to generate body heat against the icy river winds, wearing thick gloves and a thermal balaclava."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Montjoie",
+                "hu": "Tour Montjoie",
+                "ro": "Tour Montjoie",
+                "en": "Tour Montjoie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang um den alten Turm, um sich die Beine zu vertreten, ohne auszukühlen.",
+                "hu": "Tegyen egy tempós sétát az ősi torony körül, hogy kinyújtsa a lábát anélkül, hogy elveszítené a kerékpározás melegét.",
+                "ro": "Faceți o plimbare rapidă în jurul turnului antic pentru a vă dezmorți picioarele fără a pierde căldura pedalatului.",
+                "en": "Take a brisk walk around the ancient tower to stretch your legs without losing the warmth from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Batellerie",
+                "hu": "Musée de la Batellerie",
+                "ro": "Musée de la Batellerie",
+                "en": "Musée de la Batellerie"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre eisigen Finger im beheizten Museum auf und entdecken Sie die Flussgeschichte der Region.",
+                "hu": "Olvassza fel fagyos ujjait ebben a melegen fűtött múzeumban, miközben felfedezi a régió folyami történelmét.",
+                "ro": "Încălziți-vă degetele înghețate în acest muzeu călduros în timp ce descoperiți istoria fluvială a regiunii.",
+                "en": "Thaw your freezing fingers in this warmly heated museum while discovering the region's fascinating river history."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Prieuré",
+                "hu": "Parc du Prieuré",
+                "ro": "Parc du Prieuré",
+                "en": "Parc du Prieuré"
+              },
+              "tip_5lang": {
+                "de": "Rollen Sie durch die frostige Landschaft und achten Sie auf eisige Stellen, die in den Winterschatten verborgen sind.",
+                "hu": "Guruljon át a deres tájon, figyelve a téli árnyékokban megbújó jeges foltokra az ösvényeken.",
+                "ro": "Rulați prin peisajul înghețat, fiind atent la peticele de gheață ascunse în umbrele iernii pe poteci.",
+                "en": "Roll through the frosted landscape, keeping an eye out for icy patches on the paths hidden in the winter shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Femmes Savantes",
+                "hu": "Parc des Femmes Savantes",
+                "ro": "Parc des Femmes Savantes",
+                "en": "Parc des Femmes Savantes"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie ein gleichmäßiges Tempo, um warm zu bleiben, während Sie an den schlafenden Bäumen des Parks vorbeifahren.",
+                "hu": "Tartson egyenletes tempót a hőmérséklet megtartásához, miközben a helyi park csendes, alvó fái között navigál.",
+                "ro": "Mențineți un ritm constant pentru a vă păstra căldura în timp ce navigați printre copacii adormiți ai parcului.",
+                "en": "Keep a steady pace to maintain warmth while navigating the quiet, dormant trees of this lovely local park."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux des Alouettes",
+                "hu": "Aire de jeux des Alouettes",
+                "ro": "Aire de jeux des Alouettes",
+                "en": "Aire de jeux des Alouettes"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Radtag hier kurz vor Sonnenuntergang und genießen Sie einen heißen Tee aus der Thermoskanne.",
+                "hu": "Fejezze be a kerékpáros napot itt, közvetlenül naplemente előtt, és hozzon magával egy termosz forró teát.",
+                "ro": "Terminați ziua de ciclism aici chiar înainte de apus, aducând un termos cu ceai fierbinte pentru a vă bucura de el.",
+                "en": "Finish your cycling day here just before sunset, bringing a thermos of hot tea to enjoy while resting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autózás lehetővé teszi, hogy távolabb kezdjen a Le Dragon Rouge játszóházban. Innen csak egy rövid út a Parc des Femmes Savantes, hogy egy kis friss levegőt szívjon.\nAz Aire de jeux des Alouettes nyílt terei nagyszerű átmenetet biztosítanak, mielőtt a történelmi központba hajtana. Parkoljon le a Szajna-part közelében a gyalogos felfedezéshez.\nA parkolótól egy kényelmes séta elviszi az impozáns Tour Montjoie-hoz és a békés Église Saint-Maclou-hoz, lehetővé téve, hogy teljesen magába szívja Conflans gazdag örökségét.\nZárja átfogó túráját a Musée de la Batellerie-ben. Merüljön el a folyami szállítás lenyűgöző világában, mielőtt tenne egy utolsó esti sétát vissza az autójához.",
         "ro": "Conducerea vă permite să începeți mai departe la Le Dragon Rouge. De acolo, este un scurt drum cu mașina până la Parc des Femmes Savantes pentru a respira aer curat.\nSpațiile deschise de la Aire de jeux des Alouettes oferă o tranziție excelentă înainte de a conduce în centrul istoric. Parcați lângă Sena pentru a explora totul pe jos.\nO plimbare ușoară de la parcare vă aduce la impunătorul Tour Montjoie și la liniștita Église Saint-Maclou, permițându-vă să absorbiți moștenirea istorică a orașului.\nÎncheiați-vă turul la Musée de la Batellerie. Pătrundeți în lumea captivantă a transportului fluvial înainte de a vă bucura de o plimbare finală înapoi la mașina dumneavoastră.",
         "en": "Morning: Driving allows you to start further out at Le Dragon Rouge, a fantastic indoor playground. From there, it's a short drive to the Parc des Femmes Savantes for some fresh air.\nMidday: The wide open spaces of Aire de jeux des Alouettes provide a great transition before you drive into the historical core of the city. Park near the Seine Quays to explore on foot.\nAfternoon: A gentle walk from your parking spot brings you to the imposing Tour Montjoie and the peaceful Église Saint-Maclou, letting you fully absorb the rich heritage of Conflans.\nEvening: Conclude your comprehensive tour at the Musée de la Batellerie. Delve into the captivating world of river transport before enjoying a final evening stroll back to your car."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit einem Regenschirm in den Parks. Mittags machen Sie eine landschaftlich reizvolle Fahrt zu den Flussufern und beobachten den Regen. Der Nachmittag ist der Geschichte gewidmet, mit nassem Kopfsteinpflaster bei den Ruinen. Beenden Sie den Tag völlig geschützt im Schifffahrtsmuseum.",
+            "hu": "Kezdje az esős reggelt beltéri játékokkal, majd irány a park hatalmas esernyőkkel felszerelkezve. Délben festői autózás a folyóparton, figyelve az esőcseppeket a szélvédőn. A délután a történelemé, nedves macskaköveken lépkedve a romoknál és a templomnál. Zárja a napot a fenséges hajózási múzeum teljes védelmében.",
+            "ro": "Începeți dimineața ploioasă în parcuri, înarmați cu umbrele mari. La prânz, bucurați-vă de o plimbare pitorească spre chei, privind ploaia pe parbriz. După-amiaza se concentrează pe istorie, navigând pe pietrele umede la ruine și biserică. Încheiați cu o explorare complet protejată a muzeului de navigație.",
+            "en": "Start your rainy morning at the indoor play areas before moving to the parks, armed with large umbrellas. Midday brings a scenic drive down to the river quays, watching the rain hit the windshield. The afternoon focuses on history, navigating damp cobblestones at the ruins and church. Conclude with a fully sheltered dive into the magnificent riverboat museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Dragon Rouge",
+                "hu": "Le Dragon Rouge",
+                "ro": "Le Dragon Rouge",
+                "en": "Le Dragon Rouge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie diesen Ort, während es draußen regnet, und achten Sie auf die nassen Parkplatzflächen.",
+                "hu": "Élvezze ezt a remek helyet, miközben kint esik az eső, óvatosan kilépve a vizes parkoló felületeire.",
+                "ro": "Bucurați-vă de acest loc captivant în timp ce plouă afară, pășind cu grijă pe suprafețele umede ale parcării.",
+                "en": "Enjoy this engaging spot while the rain falls outside, stepping out carefully across wet parking surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Femmes Savantes",
+                "hu": "Parc des Femmes Savantes",
+                "ro": "Parc des Femmes Savantes",
+                "en": "Parc des Femmes Savantes"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen, schirmgeschützten Spaziergang auf gepflasterten Wegen, um schlammige Schuhe zu vermeiden.",
+                "hu": "Tegyen egy rövid, esernyővel védett sétát a burkolt részeken a sáros cipők elkerülése végett.",
+                "ro": "Faceți o scurtă plimbare protejată de umbrelă pe secțiunile pavate pentru a evita încălțămintea noroioasă.",
+                "en": "Take a short, umbrella-shielded walk on the paved sections to avoid muddy shoes before returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux des Alouettes",
+                "hu": "Aire de jeux des Alouettes",
+                "ro": "Aire de jeux des Alouettes",
+                "en": "Aire de jeux des Alouettes"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie den Kindern bunte Gummistiefel an, wenn sie hier kurz in den Pfützen spielen möchten.",
+                "hu": "Adjon a gyerekekre színes gumicsizmát és esőkabátot, ha egy gyors, sarazós játékra vágynak itt.",
+                "ro": "Puneți copiilor cizme de cauciuc dacă doresc o sesiune rapidă de joacă prin bălți aici.",
+                "en": "Have the kids wear their colorful rainboots and raincoats if they want a quick, splashy play session here."
+              }
+            },
+            {
+              "name": {
+                "de": "Seine Quays",
+                "hu": "Seine Quays",
+                "ro": "Seine Quays",
+                "en": "Seine Quays"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Fluss entlang, um das stimmungsvolle Wetter zu genießen, und parken Sie in der Nähe.",
+                "hu": "Vezessen lassan a festői folyó mentén a borongós időben, parkoljon közel, hogy elkerülje a hosszú vizes sétát.",
+                "ro": "Conduceți încet de-a lungul râului pitoresc în vremea posomorâtă, parcând aproape pentru a evita ploaia.",
+                "en": "Drive along the scenic river slowly to appreciate the moody weather, parking close to avoid a long wet walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Montjoie",
+                "hu": "Tour Montjoie",
+                "ro": "Tour Montjoie",
+                "en": "Tour Montjoie"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Besuch bei starkem Regen kurz, aber die nassen Steine bieten ein tolles Fotomotiv.",
+                "hu": "Tartsa röviden a látogatást felhőszakadáskor, de a nedves ősi kövek fantasztikus, drámai fotótémát nyújtanak.",
+                "ro": "Scurtați vizita în caz de ploi abundente, deși pietrele antice ude oferă o oportunitate fotografică dramatică.",
+                "en": "Keep your visit brief in heavy downpours, but the wet ancient stones offer a fantastically dramatic photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maclou",
+                "hu": "Église Saint-Maclou",
+                "ro": "Église Saint-Maclou",
+                "en": "Église Saint-Maclou"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie vom Auto in das trockene, beeindruckende Kirchenschiff und schütteln Sie Ihren Schirm im Vorbau aus.",
+                "hu": "Szaladjon be a parkoló autóból a száraz, lenyűgöző főhajóba, lerázva az esernyőt a fedett tornácon.",
+                "ro": "Fugiți din mașina parcată în naosul uscat și impresionant, scuturând umbrela pe verandă.",
+                "en": "Dash from your parked car into the dry, awe-inspiring nave, shaking off your umbrella in the covered porch."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Batellerie",
+                "hu": "Musée de la Batellerie",
+                "ro": "Musée de la Batellerie",
+                "en": "Musée de la Batellerie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Ausflug bequem in diesem wasserdichten Hafen und erkunden Sie die Flussgeschichte im Trockenen.",
+                "hu": "Zárja útját kényelmesen ebben a masszív, vízálló menedékben, az időjárás miatti aggodalom nélkül.",
+                "ro": "Încheiați-vă călătoria confortabil în acest refugiu impermeabil, explorând istoria fără grija vremii.",
+                "en": "Conclude your trip comfortably in this massive, waterproof haven, exploring river history without checking the weather app."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie an diesem Wintermorgen eine gemütlich beheizte Fahrt zwischen den familienfreundlichen Zonen. Mittags fahren Sie an den frostigen Seine-Ufern vorbei zu den eiskalten, aber beeindruckenden Ruinen. Am späten Nachmittag wärmen Sie sich im herrlichen Schifffahrtsmuseum auf. Beenden Sie den Tag, wenn es gegen 17 Uhr dunkel wird.",
+            "hu": "Élvezze a kényelmes, fűtött autózást a megállók között ezen a téli reggelen, a családbarát zónáknál kezdve. Délben a deres Szajna-part várja, majd a fagyos, de lenyűgöző történelmi romok következnek. Késő délután melegedjen fel teljesen a csodálatos hajómúzeumban. Zárja a napot, amint délután 5 körül leszáll a korai sötétség.",
+            "ro": "Bucurați-vă de o călătorie confortabilă și încălzită între opriri în această dimineață de iarnă, începând din zonele de familie. Prânzul vă poartă pe lângă cheiurile înghețate ale Senei înainte de a explora ruinele istorice. Spre sfârșitul după-amiezii, încălziți-vă complet în muzeul navelor. Încheiați ziua când întunericul cade în jurul orei 17:00.",
+            "en": "Enjoy a cozy, heated drive between stops on this winter morning, starting at family-friendly zones. Midday takes you past the frost-covered Seine quays before exploring the freezing yet stunning historical ruins. In the late afternoon, warm up completely inside the magnificent riverboat museum. Wrap up your day as the early darkness falls around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Dragon Rouge",
+                "hu": "Le Dragon Rouge",
+                "ro": "Le Dragon Rouge",
+                "en": "Le Dragon Rouge"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Autoheizung laufen, bevor Sie in die frische Morgenluft treten, um diesen Ort zu genießen.",
+                "hu": "Járassa az autó fűtését, mielőtt kilép a csípős reggeli levegőre, hogy élvezze ezt a szórakoztató családi helyet.",
+                "ro": "Păstrați încălzirea mașinii pornită înainte de a ieși în aerul rece al dimineții pentru a vă bucura de această locație.",
+                "en": "Keep the car heater running before stepping out into the brisk morning air to enjoy this fun family location."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Femmes Savantes",
+                "hu": "Parc des Femmes Savantes",
+                "ro": "Parc des Femmes Savantes",
+                "en": "Parc des Femmes Savantes"
+              },
+              "tip_5lang": {
+                "de": "Knöpfen Sie die Wintermäntel zu; ein kurzer Spaziergang durch die frostigen Bäume ist ein toller Kontrast zum warmen Auto.",
+                "hu": "Gombolja be a télikabátot; egy gyors séta a deres fák között szép, frissítő kontrasztot ad a meleg autó után.",
+                "ro": "Închideți gecile de iarnă; o scurtă plimbare printre copacii înghețați oferă un contrast răcoritor față de mașina caldă.",
+                "en": "Button up your winter coats; a quick stroll through the frost-bitten trees provides a lovely, refreshing contrast to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux des Alouettes",
+                "hu": "Aire de jeux des Alouettes",
+                "ro": "Aire de jeux des Alouettes",
+                "en": "Aire de jeux des Alouettes"
+              },
+              "tip_5lang": {
+                "de": "Begrenzen Sie das Spielen im Freien, damit kleine Hände nicht frieren, und bringen Sie heißen Kakao im Auto mit.",
+                "hu": "Korlátozza a szabadtéri játékot, nehogy a kis kezek megfagyjanak, és tartson egy termosz forró kakaót a csomagtartóban.",
+                "ro": "Limitați joaca afară pentru a preveni înghețarea mâinilor mici, aducând un termos cu cacao fierbinte în portbagaj.",
+                "en": "Limit outdoor play to keep little hands from freezing, bringing along a thermos of hot cocoa in the trunk."
+              }
+            },
+            {
+              "name": {
+                "de": "Seine Quays",
+                "hu": "Seine Quays",
+                "ro": "Seine Quays",
+                "en": "Seine Quays"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto, um bequem zwischen Aussichtspunkten zu wechseln und die eisige Aussicht zu fotografieren.",
+                "hu": "Használja az autót a festői folyami kilátók közötti ugrálásra, csak röviden kiszállva a jeges táj megörökítéséhez.",
+                "ro": "Folosiți mașina pentru a sări ușor între punctele de belvedere, ieșind scurt pentru a fotografia peisajul înghețat.",
+                "en": "Use the car to easily hop between scenic river viewpoints, stepping out briefly to capture the icy river views."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Montjoie",
+                "hu": "Tour Montjoie",
+                "ro": "Tour Montjoie",
+                "en": "Tour Montjoie"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahle Silhouette der Ruinen vor dem blassen Winterhimmel mit dicken Schals gegen den Wind.",
+                "hu": "Csodálja meg a romok zord sziluettjét a halvány téli égbolt előtt, vastag sállal védekezve a szél ellen.",
+                "ro": "Admirați silueta aspră a ruinelor pe cerul palid de iarnă, purtând fulare groase împotriva vântului.",
+                "en": "Admire the stark silhouette of the ruins against the pale winter sky, wearing thick scarves against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maclou",
+                "hu": "Église Saint-Maclou",
+                "ro": "Église Saint-Maclou",
+                "en": "Église Saint-Maclou"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die Kirche, um dem beißenden Wind zu entkommen; ihr ruhiges Inneres wirkt im Winter besonders friedlich.",
+                "hu": "Lépjen be a templomba a csípős téli szél elől; csendes belseje különösen békésnek hat a téli hónapokban.",
+                "ro": "Intrați în biserică pentru a scăpa de vântul tăios de iarnă; interiorul său liniștit este deosebit de pașnic iarna.",
+                "en": "Step into the church to escape the biting winter wind; its quiet interior feels particularly peaceful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Batellerie",
+                "hu": "Musée de la Batellerie",
+                "ro": "Musée de la Batellerie",
+                "en": "Musée de la Batellerie"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den dunklen, eiskalten späten Nachmittag in den beheizten, gut beleuchteten Museumshallen.",
+                "hu": "Töltse a sötét, fagyos késő délutánt a történelemben elmerülve a gyönyörűen fűtött, kivilágított múzeumban.",
+                "ro": "Petreceți sfârșitul după-amiezii întunecat și înghețat cufundat în istorie, în sălile muzeului frumos încălzite.",
+                "en": "Spend the dark, freezing late afternoon immersed in history within these beautifully heated, well-lit museum halls."
+              }
+            }
+          ]
+        }
       }
     }
   }

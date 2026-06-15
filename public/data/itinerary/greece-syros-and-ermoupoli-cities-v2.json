@@ -160,6 +160,196 @@
         "hu": "Kezdje sétáját a kikötő közelében, és fedezze fel a Kükládok Művészeti Galériát, hogy azonnal átérezze Szírosz művészi lüktetését.\nSétáljon a történelmi központ felé, látogassa meg a Régészeti Múzeumot és a Kulturális Központot a helyi örökség alapos megismeréséhez.\nÉlvezze a városi zenei központ élénk atmoszféráját, mielőtt megtekintené a csendes Egyházi Múzeum ritka kincseit.\nZárja a napot egy frissítő csobbanással egy sziklás városi fürdőhelyen, és nézze, ahogy a naplemente befesteni az égei vizeket.",
         "ro": "Începeți plimbarea lângă port, explorând Galeria de Artă a Cicladelor pentru a simți imediat pulsul artistic al insulei Syros.\nPlimbați-vă spre centrul istoric, vizitând Muzeul Arheologic și Centrul Cultural pentru o scufundare profundă în moștenirea locală.\nBucurați-vă de atmosfera plină de viață a muzicii municipale înainte de a vedea obiectele rare la liniștitul Muzeu Ecleziastic.\nÎncheiați-vă ziua cu o baie răcoritoare la un loc de înot stâncos din oraș, privind apusul pictând cerul deasupra apelor Mării Egee.",
         "en": "Begin your walk near the harbor, exploring the Cyclades Art Gallery to feel the artistic pulse of Syros right away.\nStroll towards the historic center, visiting the Archaeological Museum and the Cultural Center for a deep dive into local heritage.\nEnjoy the lively atmosphere of the Municipal Music hub before viewing the rare items at the tranquil Ecclesiastical Museum.\nConclude your day with a refreshing dip at a rocky urban swim spot, watching the sunset paint the sky over the Aegean waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der Kunstgalerie. Mittags führt der Weg durch schmale Gassen zum Archäologischen Museum, wo Sie dem Regen entfliehen. Nachmittags bieten kulturelle Zentren trockene Zufluchtsorte. Abends wirkt die Küste bei Regen melancholisch und schön; achten Sie auf den glatten Marmorboden auf der Plateia, der bei Nässe sehr rutschig sein kann.",
+            "hu": "Kezdje a napot a galéria védelmében. Délben a szűk utcákon át az Archeológiai Múzeumba vezet az út, ahol elrejtőzhet az eső elől. Délután a kulturális központok és múzeumok kínálnak száraz menedéket. Este a tengerpart borongósan is látványos; vigyázzon a főtér márványburkolatára, mert esőben rendkívül csúszóssá válik.",
+            "ro": "Începeți ziua la adăpost în galeria de artă. La prânz, drumul prin străduțele înguste vă duce la Muzeul de Arheologie, evitând ploaia. După-amiaza, centrele culturale oferă refugii uscate. Seara, malul mării are un farmec melancolic; atenție la pavajul de marmură din piață, care devine foarte alunecos când este ud.",
+            "en": "Start your day sheltered in the art gallery. At noon, the path through narrow streets leads to the Archaeological Museum, escaping the rain. In the afternoon, cultural centers provide dry havens. In the evening, the coast looks moody and beautiful; watch your step on the marble pavement of the main square, as it gets very slippery when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pinakotheke Kukladon",
+                "hu": "Pinakotheke Kukladon",
+                "ro": "Pinakotheke Kukladon",
+                "en": "Pinakotheke Kukladon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie kykladische Kunstwerke in diesem historischen Gebäude, das perfekten Schutz vor Regenschauern bietet; nutzen Sie die Zeit für eine ausführliche Betrachtung.",
+                "hu": "Csodálja meg a kükládi műalkotásokat ebben a történelmi épületben, amely tökéletes menedéket nyújt a záporok elől; szánjon időt a részletes szemlélődésre.",
+                "ro": "Admirați operele de artă cicladice în această clădire istorică, ce oferă adăpost perfect împotriva ploii; profitați de timp pentru o examinare detaliată.",
+                "en": "Admire Cycladic artworks in this historic building, which offers perfect shelter from rain showers; use the time for a detailed observation of the collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Surou",
+                "hu": "Arkhaiologiko Mouseio Surou",
+                "ro": "Arkhaiologiko Mouseio Surou",
+                "en": "Arkhaiologiko Mouseio Surou"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die antike Geschichte von Syros in den trockenen Hallen des Museums; die Marmortreppen zum Eingang können bei Regen rutschig sein, halten Sie sich fest.",
+                "hu": "Fedezze fel Szírosz ókori történelmét a múzeum száraz csarnokaiban; a bejárathoz vezető márványlépcsők esőben csúszósak lehetnek, kapaszkodjon erősen.",
+                "ro": "Descoperiți istoria antică a insulei Syros în sălile uscate ale muzeului; treptele de marmură de la intrare pot fi alunecoase pe ploaie, folosiți balustrada.",
+                "en": "Explore the ancient history of Syros in the dry halls of the museum; the marble steps to the entrance can be slippery in the rain, so hold onto the railing."
+              }
+            },
+            {
+              "name": {
+                "de": "Pneumatiko Kentro Ermoupoles",
+                "hu": "Pneumatiko Kentro Ermoupoles",
+                "ro": "Pneumatiko Kentro Ermoupoles",
+                "en": "Pneumatiko Kentro Ermoupoles"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Kulturzentrum für einen Einblick in das lokale Leben; der überdachte Eingangsbereich ist ideal, um kurz den Schirm zu schütteln und abzutrocknen.",
+                "hu": "Látogasson el ebbe a kulturális központba a helyi élet megismeréséhez; a fedett bejárat ideális az esernyő lerázására és a rövid felfrissülésre.",
+                "ro": "Vizitați acest centru cultural pentru o perspectivă asupra vieții locale; intrarea acoperită este ideală pentru a scutura umbrela și a vă usca puțin.",
+                "en": "Visit this cultural center for insight into local life; the covered entrance area is ideal for shaking off your umbrella and drying off briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotike mousike Ermoupoles",
+                "hu": "Demotike mousike Ermoupoles",
+                "ro": "Demotike mousike Ermoupoles",
+                "en": "Demotike mousike Ermoupoles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Atmosphäre in diesem Innenraum, während draußen der Regen prasselt; die Akustik des Gebäudes ist bei Regenwetter besonders stimmungsvoll.",
+                "hu": "Élvezze a kulturális atmoszférát ebben a beltéri helyszínben, miközben kint dobol az eső; az épület akusztikája esős időben különösen hangulatos.",
+                "ro": "Bucurați-vă de atmosfera culturală în acest spațiu interior în timp ce afară plouă; acustica clădirii este deosebit de sugestivă pe vreme ploioasă.",
+                "en": "Enjoy the cultural atmosphere in this indoor setting while the rain drums outside; the building's acoustics are particularly atmospheric during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekklesiastiko Mouseio",
+                "hu": "Ekklesiastiko Mouseio",
+                "ro": "Ekklesiastiko Mouseio",
+                "en": "Ekklesiastiko Mouseio"
+              },
+              "tip_5lang": {
+                "de": "Die sakralen Schätze sind sicher im Inneren untergebracht; nutzen Sie den Besuch, um in der ruhigen, trockenen Atmosphäre des Museums zu verweilen.",
+                "hu": "A szakrális kincseket biztonságban, bent őrizik; használja ki a látogatást, hogy a múzeum csendes, száraz atmoszférájában megpihenjen.",
+                "ro": "Comorile sacre sunt adăpostite în siguranță în interior; profitați de vizită pentru a zăbovi în atmosfera liniștită și uscată a muzeului.",
+                "en": "The sacred treasures are safely housed indoors; use the visit to linger in the quiet, dry atmosphere of the museum while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Swim spot",
+                "hu": "Swim spot",
+                "ro": "Swim spot",
+                "en": "Swim spot"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer von einem geschützten Punkt aus; die Felsen sind extrem rutschig, bleiben Sie daher in sicherer Entfernung zum Wasser.",
+                "hu": "Figyelje a felkorbácsolt tengert egy védett pontról; a sziklák rendkívül csúszósak, ezért maradjon biztonságos távolságban a víztől.",
+                "ro": "Observați marea agitată dintr-un punct protejat; stâncile sunt extrem de alunecoase, așa că rămâneți la o distanță sigură de apă.",
+                "en": "Watch the churning sea from a sheltered vantage point; the rocks are extremely slippery, so stay at a safe distance from the water's edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die kühle Winterbrise in den neoklassizistischen Straßen. Vormittags wärmen Sie sich in Galerien auf. Mittags steht Kultur im Vordergrund, während die Wintersonne tief steht. Nachmittags besuchen Sie die Museen, bevor gegen 17:00 Uhr die frühe Dämmerung einsetzt. Abends kühlt es merklich ab; ein warmer Mantel ist für den Spaziergang am Hafen unerlässlich.",
+            "hu": "Élje át a hűvös téli szellőt a neoklasszicista utcákon. Délelőtt melegedjen fel a galériákban. Délben a kultúráé a főszerep, miközben a téli nap alacsonyan jár. Délután látogassa meg a múzeumokat, mielőtt 17:00 körül leszáll a korai szürkület. Estére jelentősen lehűl a levegő; a kikötői sétához elengedhetetlen a meleg kabát.",
+            "ro": "Experimentați briza răcoroasă de iarnă pe străzile neoclasice. Dimineața, încălziți-vă în galerii. La prânz, cultura este în prim-plan în timp ce soarele de iarnă stă jos. După-amiaza, vizitați muzeele înainte de amurgul timpuriu de la ora 17:00. Seara se răcește considerabil; o haină groasă este esențială pentru plimbarea în port.",
+            "en": "Experience the cool winter breeze in the neoclassical streets. In the morning, warm up in the galleries. At noon, culture takes center stage while the winter sun stays low. In the afternoon, visit the museums before the early dusk sets in around 17:00. In the evening, it cools down significantly; a warm coat is essential for the harbor walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pinakotheke Kukladon",
+                "hu": "Pinakotheke Kukladon",
+                "ro": "Pinakotheke Kukladon",
+                "en": "Pinakotheke Kukladon"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine angenehm temperierte Umgebung an kalten Wintertagen; betrachten Sie die Kunstwerke ohne den sommerlichen Besucherandrang.",
+                "hu": "A galéria kellemes hőmérsékletű környezetet biztosít a hideg téli napokon; csodálja meg a műveket a nyári tömeg nélkül.",
+                "ro": "Galeria oferă un mediu plăcut încălzit în zilele reci de iarnă; priviți operele de artă fără aglomerația specifică verii.",
+                "en": "The gallery provides a pleasantly tempered environment on cold winter days; admire the artworks without the typical summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Surou",
+                "hu": "Arkhaiologiko Mouseio Surou",
+                "ro": "Arkhaiologiko Mouseio Surou",
+                "en": "Arkhaiologiko Mouseio Surou"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für diesen beheizten Rückzugsort; die antiken Exponate lassen sich in der winterlichen Ruhe besonders intensiv erleben.",
+                "hu": "Használja ki a délidőt ebben a fűtött menedékben; az ókori kiállítási tárgyak a téli nyugalomban különösen intenzíven élvezhetők.",
+                "ro": "Folosiți timpul amiezii pentru acest refugiu încălzit; exponatele antice pot fi experimentate mult mai intens în liniștea iernii.",
+                "en": "Use the midday hours for this heated retreat; the ancient exhibits can be experienced more intensely in the winter tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Pneumatiko Kentro Ermoupoles",
+                "hu": "Pneumatiko Kentro Ermoupoles",
+                "ro": "Pneumatiko Kentro Ermoupoles",
+                "en": "Pneumatiko Kentro Ermoupoles"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen kurz aufzuwärmen; informieren Sie sich über kulturelle Winterveranstaltungen der Stadt.",
+                "hu": "Ideális hely a séták közötti rövid felmelegedéshez; tájékozódjon a város kulturális téli eseményeiről és programjairól.",
+                "ro": "Un loc ideal pentru a vă încălzi scurt între plimbări; informați-vă despre evenimentele culturale de iarnă ale orașului.",
+                "en": "An ideal spot to warm up briefly between walks; check for local cultural winter events taking place in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotike mousike Ermoupoles",
+                "hu": "Demotike mousike Ermoupoles",
+                "ro": "Demotike mousike Ermoupoles",
+                "en": "Demotike mousike Ermoupoles"
+              },
+              "tip_5lang": {
+                "de": "Die geschlossenen Räume schützen vor dem kühlen Wind; genießen Sie die kulturelle Atmosphäre fernab der winterlichen Kälte draußen.",
+                "hu": "A zárt terek védelmet nyújtanak a hűvös szél ellen; élvezze a kulturális atmoszférát távol a kinti téli hidegtől.",
+                "ro": "Spațiile închise vă protejează de vântul rece; bucurați-vă de atmosfera culturală departe de frigul iernii de afară.",
+                "en": "The enclosed spaces protect you from the cool wind; enjoy the cultural atmosphere far from the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekklesiastiko Mouseio",
+                "hu": "Ekklesiastiko Mouseio",
+                "ro": "Ekklesiastiko Mouseio",
+                "en": "Ekklesiastiko Mouseio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag, um der Kälte zu entkommen; die gedimmte Beleuchtung schafft eine besonders warme Winterstimmung.",
+                "hu": "Látogassa meg a múzeumot késő délután, hogy elkerülje a hideget; a tompa világítás különleges, meleg téli hangulatot áraszt.",
+                "ro": "Vizitați muzeul spre seară pentru a scăpa de frig; iluminarea discretă creează o atmosferă de iarnă deosebit de caldă.",
+                "en": "Visit the museum in the late afternoon to escape the chill; the dim lighting creates a particularly warm winter ambiance inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Swim spot",
+                "hu": "Swim spot",
+                "ro": "Swim spot",
+                "en": "Swim spot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das winterlich-blaue Meer; zum Schwimmen ist es zu kalt, aber die klare Luft bietet fantastische Fernsicht.",
+                "hu": "Élvezze a kilátást a télies kék tengerre; az úszáshoz túl hideg van, de a tiszta levegő fantasztikus távoli kilátást biztosít.",
+                "ro": "Bucurați-vă de vederea spre marea albastră de iarnă; este prea frig pentru înot, dar aerul curat oferă o vizibilitate fantastică la distanță.",
+                "en": "Enjoy the view of the wintry blue sea; it's too cold for swimming, but the clear air offers fantastic long-distance visibility."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros kalandját a lenyűgöző Ipari Múzeumban, megfejtve a modern Ermoupoli alakító gazdag gyártási történelmét.\nTekerjen kelet felé a nyüzsgő városközpontba, hogy megcsodálja a Kükládok Művészeti Galériáját, majd tekerjen el az emlékmű mellett.\nParkolja le a kerékpárt a Régészeti Múzeum felfedezéséhez, mielőtt felmászna a kanyargós utcákon a lenyűgöző Feltámadás templomához.\nFejezze be az utazást a bájos Ano Syrosban, ünnepelve a helyi rebetiko kultúrát a Markos Vamvakaris Múzeumban, ahogy leszáll az est.",
         "ro": "Începeți aventura cu bicicleta la impresionantul Muzeu Industrial, descoperind istoria bogată a producției care a modelat orașul Ermoupoli.\nMergeți spre est către centrul vibrant al orașului pentru a admira Galeria de Artă, apoi pedalați pe lângă memorialul Asiei Mici.\nParcați bicicleta pentru a explora Muzeul Arheologic înainte de a urca străzile șerpuite spre uluitoarea Biserică a Învierii.\nTerminați plimbarea în fermecătorul Ano Syros, sărbătorind cultura rebetiko locală la Muzeul Markos Vamvakaris odată cu lăsarea serii.",
         "en": "Start your cycling adventure at the impressive Industrial Museum, unraveling the rich manufacturing history that shaped modern Ermoupoli.\nRide east towards the lively city center to admire the Cyclades Art Gallery, then pedal past the thoughtful Asia Minor memorial.\nPark your bike to explore the Archaeological Museum before climbing up the winding streets to the striking Church of Resurrection.\nFinish your ride in charming Ano Syros, celebrating the local rebetiko culture at the Markos Vamvakaris Museum as evening falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den gepflasterten Wegen. Starten Sie im Industriemuseum, wo Sie lange im Trockenen bleiben können. Mittags nutzen Sie kurze Regenpausen für den Wechsel zwischen den Museen. Achten Sie besonders auf rutschige Kurven und tragen Sie wasserfeste Kleidung. Abends ist die Sicht bei Regen eingeschränkt, fahren Sie daher langsam und beleuchtet.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a kövezett utakon. Kezdjen az Ipari Múzeumban, ahol hosszan fedett helyen maradhat. Délben használja ki a rövid esőszüneteket a múzeumok közötti váltáshoz. Figyeljen a csúszós kanyarokra és viseljen vízhatlan ruházatot. Este a látási viszonyok korlátozottak, ezért haladjon lassan és használjon lámpát.",
+            "ro": "Mersul pe bicicletă pe ploaie necesită prudență pe drumurile pavate. Începeți la Muzeul Industrial, unde puteți sta mult timp la adăpost. La prânz, folosiți scurte pauze de ploaie pentru a vă deplasa între muzee. Atenție sporită la curbele alunecoase și purtați haine impermeabile. Seara, vizibilitatea este redusă, deci circulați încet și cu luminile aprinse.",
+            "en": "Cycling in the rain requires caution on the paved paths. Start at the Industrial Museum, where you can stay dry for a long time. At noon, use short breaks in the rain to move between museums. Pay extra attention to slippery corners and wear waterproof clothing. In the evening, visibility is limited, so ride slowly and use your lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Industrial Museum",
+                "hu": "Industrial Museum",
+                "ro": "Industrial Museum",
+                "en": "Industrial Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein weitläufiger Innenraum, perfekt um den ersten Regen abzuwarten; parken Sie Ihr Rad an einem geschützten Ort nahe dem Eingang.",
+                "hu": "Tágas belső tér, tökéletes az első esők kivárásához; parkolja le a kerékpárt egy védett helyen a bejárat közelében.",
+                "ro": "Un spațiu interior vast, perfect pentru a aștepta trecerea primei ploi; parcați bicicleta într-un loc protejat lângă intrare.",
+                "en": "A spacious indoor area, perfect for waiting out the first rain; park your bike in a sheltered spot near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinakotheke Kukladon",
+                "hu": "Pinakotheke Kukladon",
+                "ro": "Pinakotheke Kukladon",
+                "en": "Pinakotheke Kukladon"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt über Marmorflächen; bremsen Sie frühzeitig und vorsichtig, da die Reifen auf nassem Stein leicht wegrutschen.",
+                "hu": "Az idevezető út márványfelületeken át halad; fékezzen időben és óvatosan, mert a gumi könnyen megcsúszik a nedves kövön.",
+                "ro": "Drumul până aici trece peste suprafețe de marmură; frânați din timp și cu grijă, deoarece anvelopele alunecă ușor pe piatra udă.",
+                "en": "The ride here involves crossing marble surfaces; brake early and carefully, as tires slip easily on wet stone."
+              }
+            },
+            {
+              "name": {
+                "de": "mnemeio mikrasiatikes katastrophes",
+                "hu": "mnemeio mikrasiatikes katastrophes",
+                "ro": "mnemeio mikrasiatikes katastrophes",
+                "en": "mnemeio mikrasiatikes katastrophes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien; halten Sie bei starkem Regen nur kurz inne und achten Sie beim Aufsteigen auf den nassen Untergrund.",
+                "hu": "Rövid szabadtéri megálló; erős esőben csak rövid ideig maradjon, és ügyeljen a vizes talajra a kerékpárra való felszálláskor.",
+                "ro": "O scurtă oprire în aer liber; în caz de ploaie torențială, zăboviți puțin și atenție la solul ud când vă urcați pe bicicletă.",
+                "en": "A short outdoor stop; in heavy rain, pause only briefly and be careful of the wet ground when mounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Surou",
+                "hu": "Arkhaiologiko Mouseio Surou",
+                "ro": "Arkhaiologiko Mouseio Surou",
+                "en": "Arkhaiologiko Mouseio Surou"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet trockenen Schutz für Sie, während Ihr Rad draußen steht; nehmen Sie empfindliches Zubehör oder Taschen mit hinein.",
+                "hu": "A múzeum száraz menedéket nyújt Önnek, miközben a kerékpár kint áll; vigye be magával az érzékeny kiegészítőket vagy táskákat.",
+                "ro": "Muzeul vă oferă adăpost uscat în timp ce bicicleta stă afară; luați cu voi accesoriile sensibile sau gențile în interior.",
+                "en": "The museum offers dry shelter for you while your bike is outside; bring sensitive accessories or bags inside with you."
+              }
+            },
+            {
+              "name": {
+                "de": "Anastaseos tou Soteros",
+                "hu": "Anastaseos tou Soteros",
+                "ro": "Anastaseos tou Soteros",
+                "en": "Anastaseos tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kirche kann bei Regen anstrengend und rutschig sein; schalten Sie in einen niedrigen Gang und fahren Sie konzentriert.",
+                "hu": "A templomhoz vezető emelkedő esőben fárasztó és csúszós lehet; váltson alacsony fokozatba és haladjon koncentráltan.",
+                "ro": "Urcarea spre biserică poate fi obositoare și alunecoasă pe ploaie; schimbați într-o viteză inferioară și conduceți concentrat.",
+                "en": "The climb to the church can be tiring and slippery in the rain; switch to a low gear and ride with focus."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekthese Markou Bambakare Enthumemata",
+                "hu": "Ekthese Markou Bambakare Enthumemata",
+                "ro": "Ekthese Markou Bambakare Enthumemata",
+                "en": "Ekthese Markou Bambakare Enthumemata"
+              },
+              "tip_5lang": {
+                "de": "Das Museum in Ano Syros ist ein toller Endpunkt im Trockenen; die engen Gassen dorthin sind bei Regen sehr glatt, schieben Sie das Rad lieber.",
+                "hu": "Az Ano Szírosz-i múzeum remek végpont fedett helyen; az oda vezető szűk utcák esőben nagyon csúszósak, inkább tolja a kerékpárt.",
+                "ro": "Muzeul din Ano Syros este un punct final excelent la adăpost; străduțele înguste sunt foarte alunecoase pe ploaie, mai bine împingeți bicicleta.",
+                "en": "The museum in Ano Syros is a great indoor end point; the narrow streets there are very slippery in the rain, so it's safer to push your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft auf dem Fahrrad. Starten Sie beim Industriemuseum, um sich mit Technikgeschichte aufzuwärmen. Mittags sind die Steigungen angenehmer als im Sommer, da es kühler ist. Denken Sie an Handschuhe gegen den Fahrtwind. Nachmittags erreichen Sie die Museen in der Oberstadt vor dem frühen Sonnenuntergang um 17:00 Uhr. Abends kühlt es schnell ab, beenden Sie die Tour zeitnah.",
+            "hu": "Élvezze a tiszta téli levegőt a kerékpáron. Kezdjen az Ipari Múzeumnál, hogy technikai történelemmel melegedjen be. Délben az emelkedők kellemesebbek a nyárinál a hűvösebb idő miatt. Ne feledkezzen meg a kesztyűről a menetszél ellen. Délután érje el a felsővárosi múzeumokat a korai, 17:00-s naplemente előtt. Estére gyorsan lehűl az idő, fejezze be időben a túrát.",
+            "ro": "Bucurați-vă de aerul curat de iarnă pe bicicletă. Începeți la Muzeul Industrial pentru a vă încălzi cu istoria tehnicii. La prânz, urcușurile sunt mai plăcute decât vara datorită vremii răcoroase. Nu uitați mănușile împotriva vântului. După-amiaza, ajungeți la muzeele din orașul de sus înainte de apusul devreme de la ora 17:00. Seara se răcește rapid, terminați turul la timp.",
+            "en": "Enjoy the clear winter air on your bike. Start at the Industrial Museum to warm up with technical history. At noon, the climbs are more pleasant than in summer due to the cooler weather. Remember gloves against the wind chill. In the afternoon, reach the upper town museums before the early sunset at 17:00. In the evening, it cools down quickly, so finish your tour promptly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Industrial Museum",
+                "hu": "Industrial Museum",
+                "ro": "Industrial Museum",
+                "en": "Industrial Museum"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, um der morgendlichen Kälte zu entkommen; das Museum bietet viel Platz und interessante Exponate im windgeschützten Innenbereich.",
+                "hu": "Kezdjen itt, hogy elkerülje a reggeli hideget; a múzeum tágas és érdekes kiállításokat kínál a széltől védett belső térben.",
+                "ro": "Începeți aici pentru a scăpa de frigul dimineții; muzeul oferă mult spațiu și exponate interesante în interiorul protejat de vânt.",
+                "en": "Start here to escape the morning chill; the museum offers plenty of space and interesting exhibits in its wind-protected interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinakotheke Kukladon",
+                "hu": "Pinakotheke Kukladon",
+                "ro": "Pinakotheke Kukladon",
+                "en": "Pinakotheke Kukladon"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine Pause vom Radfahren im Warmen; nutzen Sie das weiche Winterlicht, das durch die Fenster der Galerie fällt.",
+                "hu": "Remek hely egy kis pihenőre a kerékpározás után a melegben; használja ki a galéria ablakain beszűrődő lágy téli fényt.",
+                "ro": "Un loc frumos pentru o pauză de la pedalat, la căldură; profitați de lumina slabă a iernii care pătrunde prin ferestrele galeriei.",
+                "en": "A lovely place for a warm break from cycling; take advantage of the soft winter light streaming through the gallery windows."
+              }
+            },
+            {
+              "name": {
+                "de": "mnemeio mikrasiatikes katastrophes",
+                "hu": "mnemeio mikrasiatikes katastrophes",
+                "ro": "mnemeio mikrasiatikes katastrophes",
+                "en": "mnemeio mikrasiatikes katastrophes"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht diesen historischen Ort besonders eindringlich; halten Sie kurz an, um die Stille der Nebensaison zu genießen.",
+                "hu": "A tiszta téli levegő különösen áthatóvá teszi ezt a történelmi helyet; álljon meg egy pillanatra, hogy élvezze a holtszezon csendjét.",
+                "ro": "Aerul curat de iarnă face acest loc istoric deosebit de impresionant; opriți-vă scurt pentru a savura liniștea din afara sezonului.",
+                "en": "The clear winter air makes this historic site particularly poignant; stop briefly to enjoy the silence of the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Surou",
+                "hu": "Arkhaiologiko Mouseio Surou",
+                "ro": "Arkhaiologiko Mouseio Surou",
+                "en": "Arkhaiologiko Mouseio Surou"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und wärmen Sie sich bei den antiken Funden auf; im Winter ist das Museum herrlich leer und ruhig.",
+                "hu": "Parkolja le a gépet és melegedjen fel az ókori leletek között; télen a múzeum csodálatosan üres és csendes.",
+                "ro": "Parcați bicicleta și încălziți-vă printre descoperirile antice; iarna, muzeul este minunat de liber și liniștit.",
+                "en": "Park your bike and warm up among the ancient finds; in winter, the museum is wonderfully empty and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Anastaseos tou Soteros",
+                "hu": "Anastaseos tou Soteros",
+                "ro": "Anastaseos tou Soteros",
+                "en": "Anastaseos tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von hier oben auf das winterliche Ägäis-Meer ist atemberaubend; ziehen Sie sich nach dem Aufstieg eine Weste über, um nicht auszukühlen.",
+                "hu": "A kilátás innen a téli Égei-tengerre lélegzetelállító; az emelkedő után vegyen fel egy mellényt, hogy ne fázzon meg a szélben.",
+                "ro": "Priveliștea de aici asupra mării Egee pe timp de iarnă este uluitoare; puneți-vă o vestă după urcare pentru a nu răci în vânt.",
+                "en": "The view from up here over the wintry Aegean Sea is breathtaking; put on a vest after the climb to avoid catching a chill in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekthese Markou Bambakare Enthumemata",
+                "hu": "Ekthese Markou Bambakare Enthumemata",
+                "ro": "Ekthese Markou Bambakare Enthumemata",
+                "en": "Ekthese Markou Bambakare Enthumemata"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss in Ano Syros; beenden Sie den Besuch rechtzeitig vor 17:00 Uhr, um im letzten Tageslicht abzufahren.",
+                "hu": "Hangulatos befejezés Ano Szíroszban; fejezze be a látogatást időben 17:00 előtt, hogy az utolsó nappali fénynél indulhasson vissza.",
+                "ro": "Un final primitor în Ano Syros; terminați vizita la timp înainte de ora 17:00, pentru a pleca pe ultima lumină a zilei.",
+                "en": "A cozy conclusion in Ano Syros; finish your visit well before 17:00 to ride back during the last rays of daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autózzon el Bathu Gialoudi felé egy békés tengerparti sétára a reggeli fényben, és érezze a sziget déli peremének nyugodt hangulatát.\nInduljon vissza a városba, merüljön el a hatalmas Ipari Múzeumban és a Művészeti Galériában, mielőtt egy időre letenné az autót.\nNézze meg a központi Régészeti Múzeumot, majd vezessen fel a meredek dombokra, hogy megcsodálja a lenyűgöző Feltámadás templomát.\nNavigáljon a történelmi felső negyedekbe, látogasson el a Vamvakaris Múzeumba, és fejezze be a napot a hangulatos Angyalok Temetőjében.",
         "ro": "Conduceți spre Bathu Gialoudi pentru o plimbare liniștită pe coastă în lumina dimineții, simțind vibrația senină a marginii sudice a insulei.\nÎntoarceți-vă în oraș, scufundându-vă în Muzeul Industrial și Galeria de Artă a Cicladelor înainte de a lăsa mașina pentru un timp.\nVizitați Muzeul Arheologic central, apoi conduceți pe dealurile abrupte pentru a privi impresionanta Biserică a Învierii.\nNavigați către cartierele superioare istorice, vizitând Muzeul Vamvakaris și terminând ziua la evocatorul Cimitir al Îngerilor.",
         "en": "Drive out to Bathu Gialoudi for a peaceful coastal walk in the morning light, feeling the serene vibe of the island's southern edge.\nHead back into town, diving into the extensive Industrial Museum and the Cyclades Art Gallery before leaving your car for a while.\nCheck out the central Archaeological Museum, then drive up the steep hills to gaze upon the impressive Church of Resurrection.\nNavigate to the historical upper quarters, visiting the Vamvakaris Museum and ending the day at the evocative Cemetery of Angels."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Syros auch bei Regen komfortabel zu erkunden. Beginnen Sie an der Küste und nutzen Sie das Fahrzeug als Basis. Mittags bieten Museen in Ermoupoli trockenes Programm. Achten Sie auf Wasseransammlungen in tiefer gelegenen Straßen. Nachmittags ist die Fahrt nach Ano Syros sicher, parken Sie jedoch nah am Eingang. Abends ist die Sicht bei Regen oft schlecht, fahren Sie defensiv.",
+            "hu": "Autóval Szírosz esőben is kényelmesen felfedezhető. Kezdjen a parton, és használja a járművet bázisként. Délben az ermoupoli múzeumok kínálnak száraz programot. Ügyeljen a vízátfolyásokra az alacsonyabban fekvő utcákban. Délután az Ano Szírosz-i út biztonságos, de parkoljon közel a bejárathoz. Este a látási viszonyok rosszak lehetnek, vezessen óvatosan.",
+            "ro": "Cu mașina, Syros este confortabil de explorat chiar și pe ploaie. Începeți pe coastă și folosiți vehiculul ca bază. La prânz, muzeele din Ermoupoli oferă program uscat. Atenție la acumulările de apă pe străzile joase. După-amiaza, drumul spre Ano Syros este sigur, dar parcați aproape de intrare. Seara, vizibilitatea este adesea redusă, conduceți defensiv.",
+            "en": "Exploring Syros by car is comfortable even in the rain. Start at the coast and use the vehicle as your base. At noon, museums in Ermoupoli offer a dry itinerary. Watch out for water pooling in lower-lying streets. In the afternoon, the drive to Ano Syros is safe, but park close to the entrance. In the evening, visibility is often poor, so drive defensively."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bathu Gialoudi",
+                "hu": "Bathu Gialoudi",
+                "ro": "Bathu Gialoudi",
+                "en": "Bathu Gialoudi"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über dem Meer gemütlich vom Auto aus; die unbefestigten Wege am Rand können bei Nässe schlammig sein.",
+                "hu": "Figyelje az esős időt a tenger felett kényelmesen az autóból; a szélső, burkolatlan utak nedvesen sárosak lehetnek.",
+                "ro": "Observați ploaia deasupra mării confortabil din mașină; drumurile neasfaltate de pe margine pot fi noroioase când sunt ude.",
+                "en": "Watch the rainy weather over the sea comfortably from your car; the unpaved paths at the edge can get muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Industrial Museum",
+                "hu": "Industrial Museum",
+                "ro": "Industrial Museum",
+                "en": "Industrial Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen, da fast alles überdacht ist; es gibt ausreichend Parkplätze direkt vor dem Museumseingang.",
+                "hu": "Tökéletes megálló esőben, mivel szinte minden fedett; a múzeum bejárata előtt bőséges parkolóhely áll rendelkezésre.",
+                "ro": "O oprire perfectă pe ploaie, deoarece aproape totul este acoperit; există locuri de parcare suficiente chiar în fața intrării în muzeu.",
+                "en": "A perfect stop in the rain as almost everything is covered; there is ample parking available directly in front of the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinakotheke Kukladon",
+                "hu": "Pinakotheke Kukladon",
+                "ro": "Pinakotheke Kukladon",
+                "en": "Pinakotheke Kukladon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Hafenbereich und gehen Sie das kurze Stück zur Galerie; ein Regenschirm ist für diesen kurzen Fußweg unerlässlich.",
+                "hu": "Parkoljon a kikötői részen, és tegye meg a rövid utat a galériáig; ehhez a rövid sétához elengedhetetlen egy esernyő.",
+                "ro": "Parcați în zona portului și mergeți pe jos distanța scurtă până la galerie; o umbrelă este esențială pentru această scurtă plimbare.",
+                "en": "Park in the harbor area and walk the short distance to the gallery; an umbrella is essential for this brief walk in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Surou",
+                "hu": "Arkhaiologiko Mouseio Surou",
+                "ro": "Arkhaiologiko Mouseio Surou",
+                "en": "Arkhaiologiko Mouseio Surou"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein sicherer Hafen vor dem Regen; nutzen Sie die Parkplätze in den Nebenstraßen, um den Fußweg zu minimieren.",
+                "hu": "A múzeum biztos menedék az eső elől; használja a mellékutcák parkolóit, hogy minimálisra csökkentse a gyaloglást.",
+                "ro": "Muzeul este un port sigur împotriva ploii; folosiți parcările de pe străzile laterale pentru a minimiza mersul pe jos.",
+                "en": "The museum is a safe haven from the rain; use the parking spots in the side streets to minimize the distance you need to walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Anastaseos tou Soteros",
+                "hu": "Anastaseos tou Soteros",
+                "ro": "Anastaseos tou Soteros",
+                "en": "Anastaseos tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Die kurvige Straße hinauf ist bei Regen gut befahrbar; parken Sie direkt oben, um die Aussicht geschützt genießen zu können.",
+                "hu": "A felfelé vezető kanyargós út esőben is jól járható; parkoljon közvetlenül fent, hogy védett helyről élvezhesse a kilátást.",
+                "ro": "Drumul sinuos spre vârf este ușor practicabil pe ploaie; parcați chiar sus pentru a vă bucura de priveliște la adăpost.",
+                "en": "The winding road up is easily navigable in the rain; park directly at the top to enjoy the view while remaining sheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekthese Markou Bambakare Enthumemata",
+                "hu": "Ekthese Markou Bambakare Enthumemata",
+                "ro": "Ekthese Markou Bambakare Enthumemata",
+                "en": "Ekthese Markou Bambakare Enthumemata"
+              },
+              "tip_5lang": {
+                "de": "Ano Syros ist eng, parken Sie auf dem großen Platz vor dem Stadttor; der Weg zum Museum ist kurz, aber bei Regen etwas rutschig.",
+                "hu": "Ano Szírosz szűk, parkoljon a városkapu előtti nagy téren; az út a múzeumhoz rövid, de esőben kissé csúszós lehet.",
+                "ro": "Ano Syros este îngust, parcați în piața mare din fața porții orașului; drumul spre muzeu este scurt, dar puțin alunecos pe ploaie.",
+                "en": "Ano Syros is narrow, so park in the large square before the city gate; the walk to the museum is short but can be a bit slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "KOIMETERIO TON AGGELON",
+                "hu": "KOIMETERIO TON AGGELON",
+                "ro": "KOIMETERIO TON AGGELON",
+                "en": "KOIMETERIO TON AGGELON"
+              },
+              "tip_5lang": {
+                "de": "Ein atmosphärischer Ort bei Regen; bleiben Sie auf den Hauptwegen des Friedhofs, da die Pfade zwischen den Gräbern schlammig sein können.",
+                "hu": "Hangulatos hely esőben; maradjon a temető főútjain, mivel a sírok közötti ösvények sárosak és csúszósak lehetnek.",
+                "ro": "Un loc plin de atmosferă pe ploaie; rămâneți pe aleile principale ale cimitirului, deoarece cărările dintre morminte pot fi noroioase.",
+                "en": "An atmospheric place in the rain; stay on the main paths of the cemetery, as the tracks between the graves can get muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter auf Syros bietet klare Sicht und leere Straßen. Vormittags erkunden Sie die Küste mit dem Auto. Mittags wärmen Sie sich in den neoklassizistischen Gebäuden von Ermoupoli auf. Nachmittags fahren Sie nach Ano Syros, um das goldene Winterlicht vor dem Sonnenuntergang um 17:00 Uhr zu erleben. Abends nutzen Sie das Auto für den komfortablen Transfer zwischen den beleuchteten Sehenswürdigkeiten.",
+            "hu": "A téli Szírosz tiszta kilátást és üres utakat kínál. Délelőtt fedezze fel a partot autóval. Délben melegedjen fel Ermoupoli neoklasszicista épületeiben. Délután hajtson Ano Szíroszba, hogy átélje az aranybarna téli fényeket a 17:00-s naplemente előtt. Este használja az autót a kényelmes közlekedéshez a kivilágított látnivalók között.",
+            "ro": "Iarna în Syros oferă vizibilitate clară și străzi libere. Dimineața, explorați coasta cu mașina. La prânz, încălziți-vă în clădirile neoclasice din Ermoupoli. După-amiaza, mergeți spre Ano Syros pentru a surprinde lumina aurie a iernii înainte de apusul de la ora 17:00. Seara, folosiți mașina pentru un transfer confortabil între obiectivele iluminate.",
+            "en": "Winter on Syros offers clear views and empty roads. In the morning, explore the coast by car. At noon, warm up in the neoclassical buildings of Ermoupoli. In the afternoon, drive to Ano Syros to experience the golden winter light before sunset at 17:00. In the evening, use the car for a comfortable transfer between the illuminated sights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bathu Gialoudi",
+                "hu": "Bathu Gialoudi",
+                "ro": "Bathu Gialoudi",
+                "en": "Bathu Gialoudi"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe am Meer ist herrlich; genießen Sie die klare Sicht bis zu den Nachbarinseln bequem vom warmen Fahrzeug aus.",
+                "hu": "A tengerparti téli nyugalom csodálatos; élvezze a tiszta kilátást a szomszédos szigetekre kényelmesen, a meleg járműből.",
+                "ro": "Liniștea iernii la malul mării este minunată; bucurați-vă de vederea clară spre insulele vecine confortabil, din vehiculul încălzit.",
+                "en": "The wintry peace by the sea is wonderful; enjoy the clear views of neighboring islands comfortably from your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Industrial Museum",
+                "hu": "Industrial Museum",
+                "ro": "Industrial Museum",
+                "en": "Industrial Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen interessanten Rückzugsort vor dem kühlen Winterwind; parken Sie direkt davor und nutzen Sie die windstille Zeit drinnen.",
+                "hu": "A múzeum érdekes menedéket nyújt a hűvös téli szél elől; parkoljon közvetlenül előtte, és használja ki a szélcsendes időt bent.",
+                "ro": "Muzeul oferă un refugiu interesant împotriva vântului rece de iarnă; parcați chiar în față și profitați de timpul fără vânt din interior.",
+                "en": "The museum offers an interesting retreat from the cool winter wind; park directly in front and enjoy the wind-free time inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinakotheke Kukladon",
+                "hu": "Pinakotheke Kukladon",
+                "ro": "Pinakotheke Kukladon",
+                "en": "Pinakotheke Kukladon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie in der Mittagssonne; die Parkplatzsuche im Winterhafen ist viel einfacher als in der Hochsaison.",
+                "hu": "Látogassa meg a galériát a déli napsütésben; télen a kikötőben sokkal egyszerűbb parkolóhelyet találni, mint főszezonban.",
+                "ro": "Vizitați galeria sub soarele amiezii; găsirea unui loc de parcare în port iarna este mult mai ușoară decât în plin sezon.",
+                "en": "Visit the gallery under the midday sun; finding a parking spot in the harbor during winter is much easier than in peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Surou",
+                "hu": "Arkhaiologiko Mouseio Surou",
+                "ro": "Arkhaiologiko Mouseio Surou",
+                "en": "Arkhaiologiko Mouseio Surou"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter Kulturstopp am Nachmittag; das Auto können Sie meist in unmittelbarer Nähe des prachtvollen Rathauses abstellen.",
+                "hu": "Fűtött kulturális megálló délután; az autót általában közvetlenül a pompás városháza közelében le tudja tenni.",
+                "ro": "O oprire culturală încălzită după-amiaza; de obicei, puteți lăsa mașina în imediata apropiere a primăriei impunătoare.",
+                "en": "A heated cultural stop in the afternoon; you can usually park your car in the immediate vicinity of the magnificent town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Anastaseos tou Soteros",
+                "hu": "Anastaseos tou Soteros",
+                "ro": "Anastaseos tou Soteros",
+                "en": "Anastaseos tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie kurz vor 17:00 Uhr hierher, um den Winter-Sonnenuntergang über der Stadt zu bewundern; die Luft ist im Winter besonders klar.",
+                "hu": "Hajtson ide röviddel 17:00 előtt, hogy megcsodálja a város feletti téli naplementét; a levegő télen különösen tiszta és áttetsző.",
+                "ro": "Conduceți până aici puțin înainte de ora 17:00 pentru a admira apusul de iarnă peste oraș; aerul este deosebit de clar iarna.",
+                "en": "Drive here shortly before 17:00 to admire the winter sunset over the city; the air is particularly clear and crisp in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekthese Markou Bambakare Enthumemata",
+                "hu": "Ekthese Markou Bambakare Enthumemata",
+                "ro": "Ekthese Markou Bambakare Enthumemata",
+                "en": "Ekthese Markou Bambakare Enthumemata"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein warmer Rückzugsort vor dem Abendfrost; genießen Sie die authentische Atmosphäre von Ano Syros ohne Touristenströme.",
+                "hu": "A múzeum meleg menedéket nyújt az esti fagyok előtt; élvezze Ano Szírosz autentikus atmoszféráját a turistatömegek nélkül.",
+                "ro": "Muzeul este un refugiu cald înainte de înghețul serii; bucurați-vă de atmosfera autentică din Ano Syros fără puhoaiele de turiști.",
+                "en": "The museum is a warm retreat before the evening frost; enjoy the authentic atmosphere of Ano Syros without the tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "KOIMETERIO TON AGGELON",
+                "hu": "KOIMETERIO TON AGGELON",
+                "ro": "KOIMETERIO TON AGGELON",
+                "en": "KOIMETERIO TON AGGELON"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im letzten Tageslicht; das Winterlicht verleiht den weißen Marmorskulpturen eine fast mystische Aura.",
+                "hu": "Látogassa meg ezt a helyet az utolsó nappali fénynél; a téli világítás szinte misztikus aurát kölcsönöz a fehér márványszobroknak.",
+                "ro": "Vizitați acest loc pe ultima lumină a zilei; lumina iernii conferă sculpturilor de marmură albă o aură aproape mistică.",
+                "en": "Visit this site during the last daylight hours; the winter light lends an almost mystical aura to the white marble sculptures."
+              }
+            }
+          ]
+        }
       }
     }
   }

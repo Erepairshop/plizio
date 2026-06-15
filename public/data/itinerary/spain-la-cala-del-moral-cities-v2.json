@@ -137,6 +137,168 @@
         "hu": "Kezdje a gyalogos kalandot egy sétával a lélegzetelállító Paseo sobre las rocas mentén, élvezve a parti kilátást. Később merüljön el a titokzatos Cueva del Tesoro barlangban. Délben fedezze fel a helyi hagyományokat az Almazarában. Délután ismerje meg a Casa Fuerte de Bezmiliana katonai történetét. Zárja a napot egy kellemes pihenéssel a homokos Playa Victoria tengerpartján.",
         "ro": "Începeți-vă aventura la pas plimbându-vă pe uluitorul Paseo sobre las rocas, admirând priveliștile coastei. Pe măsură ce dimineața avansează, coborâți în mistica Cueva del Tesoro. La prânz, descoperiți tradițiile locale de la Almazara. După-amiaza, explorați istoria fascinantă la Casa Fuerte de Bezmiliana. Încheiați-vă ziua relaxându-vă pe nisipurile calde de la Playa Victoria.",
         "en": "Begin your walking adventure by strolling along the breathtaking Paseo sobre las rocas, taking in the serene coastal views. As the morning progresses, delve into the mystical Cueva del Tesoro, a true geological wonder. Midday invites you to explore the local traditions at Almazara. In the afternoon, discover history at the Casa Fuerte de Bezmiliana. Conclude your day relaxing at Playa Victoria."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Meer hat seinen eigenen Charme, wenn die Wellen gegen die Klippen peitschen. Mittags bietet die Höhle perfekten Schutz vor dem Guss. Am Nachmittag laden die Museen zum Verweilen im Trockenen ein, während der Regen draußen an die Fenster klopft. Der Abend klingt gemütlich in den beleuchteten Gassen aus, wo sich die Lichter in den Pfützen spiegeln.",
+            "hu": "A reggeli esőben a tenger morajlása még drámaibb a sziklák mentén. Délben a barlang mélye nyújt tökéletes, száraz menedéket a csapadék elől. Délután a kiállítótermek falai között böngészhetünk, amíg kint eláll az égi áldás. Az este a városka fényeivel zárul, amelyek megcsillannak a nedves aszfalton, különleges hangulatot árasztva a parti sétányon.",
+            "ro": "O dimineață ploioasă la malul mării are propriul farmec, cu valurile care se sparg de stânci. La prânz, peștera oferă adăpostul perfect împotriva ploii. După-amiaza, muzeele vă invită să rămâneți la adăpost, în timp ce ploaia bate în ferestre. Seara se încheie plăcut pe străzile luminate, unde luminile se reflectă în bălți, creând o atmosferă intimă.",
+            "en": "A rainy morning by the sea has its own charm as waves crash against the cliffs. At noon, the cave provides perfect shelter from the downpour. In the afternoon, the museums invite you to stay dry while the rain drums outside. The evening ends cozily in the illuminated streets, where lights reflect in the puddles, creating a unique coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paseo sobre las rocas",
+                "hu": "Paseo sobre las rocas",
+                "ro": "Paseo sobre las rocas",
+                "en": "Paseo sobre las rocas"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Kraft des Meeres von den Klippen aus; tragen Sie rutschfeste Schuhe, da die Felsen bei Regen sehr glatt sein können.",
+                "hu": "Élje át a tenger erejét a sziklákról; viseljen csúszásmentes talpú cipőt, mert az ösvény esőben igen ingoványos és csúszós lehet.",
+                "ro": "Experimentați forța mării de pe stânci; purtați încălțăminte antiderapantă, deoarece poteca poate fi foarte alunecoasă când plouă.",
+                "en": "Experience the power of the sea from the cliffs; wear non-slip shoes as the path can become very slippery during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva del Tesoro",
+                "hu": "Cueva del Tesoro",
+                "ro": "Cueva del Tesoro",
+                "en": "Cueva del Tesoro"
+              },
+              "tip_5lang": {
+                "de": "Diese Unterwasserhöhle ist der ideale Zufluchtsort bei Regen, da sie komplett überdacht ist und eine konstante Temperatur bietet.",
+                "hu": "Ez a víz alatti barlang az ideális menedék esőben, mivel teljesen fedett és állandó, kellemes belső hőmérsékletet biztosít.",
+                "ro": "Această peșteră subacvatică este refugiul ideal pe ploaie, fiind complet acoperită și oferind o temperatură interioară constantă.",
+                "en": "This underwater cave is the ideal refuge during rain, as it is completely covered and offers a constant, pleasant temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Almazara",
+                "hu": "Almazara",
+                "ro": "Almazara",
+                "en": "Almazara"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ölmühle, um im Trockenen etwas über die lokale Geschichte zu lernen; ein Regenschirm ist für den kurzen Weg nötig.",
+                "hu": "Látogasson el az olajmalomba, hogy szárazon ismerje meg a helyi történelmet; egy esernyő szükséges lesz a bejáratig tartó úton.",
+                "ro": "Vizitați moara de ulei pentru a învăța despre istoria locală la adăpost; o umbrelă este necesară pentru drumul scurt până la intrare.",
+                "en": "Visit the oil mill to learn about local history while staying dry; an umbrella will be needed for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fuerte de Bezmiliana",
+                "hu": "Casa Fuerte de Bezmiliana",
+                "ro": "Casa Fuerte de Bezmiliana",
+                "en": "Casa Fuerte de Bezmiliana"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern dieser Festung schützen Sie vor dem Wind; genießen Sie die Kunstausstellungen im Inneren, während es regnet.",
+                "hu": "A várkastély vastag falai megvédik a széltől; élvezze a benti művészeti kiállításokat, amíg odakint vigasztalanul esik az eső.",
+                "ro": "Zidurile groase ale acestei cetăți vă protejează de vânt; bucurați-vă de expozițiile de artă din interior în timp ce plouă afară.",
+                "en": "The thick walls of this fortress protect you from the wind; enjoy the art exhibitions inside while it rains heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Victoria",
+                "hu": "Playa Victoria",
+                "ro": "Playa Victoria",
+                "en": "Playa Victoria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf den stürmischen Strand reicht heute aus; suchen Sie danach schnell Schutz in einem der nahen Strandcafés.",
+                "hu": "Ma egy rövid pillantás is elég a viharos tengerpartra; utána keressen gyorsan menedéket a közeli vízparti kávézók egyikében.",
+                "ro": "O privire scurtă la plaja învolburată este suficientă astăzi; căutați repede adăpost într-una dintre cafenelele de pe malul mării.",
+                "en": "A brief look at the stormy beach is enough today; afterwards, quickly seek shelter in one of the nearby seaside cafes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, ideal für einen zügigen Spaziergang an der Küste. Mittags wärmt die tiefstehende Sonne angenehm bei der Besichtigung der Sehenswürdigkeiten. Am Nachmittag spürt man die kühle Brise, bevor gegen 17:00 Uhr die Dämmerung einsetzt. Der frühe Abend lädt zu einem heißen Getränk in der Altstadt ein, wenn die Winterlichter angehen.",
+            "hu": "A téli reggel friss és tiszta, ideális egy élénk sétához a tengerparton. Délben az alacsonyan járó nap kellemesen melenget a látnivalók felfedezése közben. Délután már érezni a hűvös szellőt, mielőtt 17 óra körül leszállna az alkonyat. A korai este hívogató egy forró italra az óvárosban, ahogy kigyúlnak a téli fények.",
+            "ro": "Dimineața de iarnă este proaspătă și senină, ideală pentru o plimbare revigorantă pe coastă. La prânz, soarele blând vă încălzește în timp ce vizitați obiectivele. După-amiaza se simte briza răcoroasă înainte ca amurgul să se lase în jur de ora 17:00. Seara devreme vă invită la o băutură caldă în centrul vechi.",
+            "en": "The winter morning is fresh and clear, ideal for a brisk walk along the coast. At noon, the low sun warms you pleasantly while exploring the sights. In the afternoon, feel the cool breeze before dusk sets in around 17:00. The early evening invites you for a hot drink in the old town as the winter lights come on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paseo sobre las rocas",
+                "hu": "Paseo sobre las rocas",
+                "ro": "Paseo sobre las rocas",
+                "en": "Paseo sobre las rocas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht über das Mittelmeer; eine windfeste Jacke ist wegen der kühlen Meeresbrise unbedingt ratsam.",
+                "hu": "Élvezze a tiszta kilátást a Földközi-tengerre; a hűvös tengeri szél miatt egy szélálló dzseki viselése mindenképpen tanácsos.",
+                "ro": "Bucurați-vă de vederea clară asupra Mediteranei; o jachetă rezistentă la vânt este neapărat recomandată din cauza brizei răcoroase.",
+                "en": "Enjoy the clear views over the Mediterranean; a windproof jacket is highly recommended due to the cool winter sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva del Tesoro",
+                "hu": "Cueva del Tesoro",
+                "ro": "Cueva del Tesoro",
+                "en": "Cueva del Tesoro"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet eine angenehme Wärme im Vergleich zur Außenluft; ideal, um sich während der Tour kurz aufzuwärmen.",
+                "hu": "A barlang kellemes meleget áraszt a kinti hűvös levegőhöz képest; ideális helyszín, hogy a túra során kicsit átmelegedjen.",
+                "ro": "Peștera oferă o căldură plăcută comparativ cu aerul rece de afară; este locul ideal pentru a vă încălzi puțin în timpul turului.",
+                "en": "The cave offers pleasant warmth compared to the cool outside air; it is the ideal spot to warm up a bit during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Almazara",
+                "hu": "Almazara",
+                "ro": "Almazara",
+                "en": "Almazara"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein gemütlicher Ort für den Mittag; nutzen Sie das helle Tageslicht für Fotos der historischen Gerätschaften.",
+                "hu": "A múzeum barátságos helyszín a déli órákra; használja ki a világos nappali fényeket a történelmi eszközök fotózásához.",
+                "ro": "Muzeul este un loc primitor pentru orele prânzului; profitați de lumina naturală pentru a fotografia utilajele istorice.",
+                "en": "The museum is a cozy spot for the noon hours; take advantage of the bright daylight to photograph the historical equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fuerte de Bezmiliana",
+                "hu": "Casa Fuerte de Bezmiliana",
+                "ro": "Casa Fuerte de Bezmiliana",
+                "en": "Casa Fuerte de Bezmiliana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung vor 17:00 Uhr, um den Sonnenuntergang über den Gärten bei den letzten warmen Lichtstrahlen zu erleben.",
+                "hu": "Látogasson el az erődbe 17:00 előtt, hogy az utolsó meleg fénysugaraknál nézhesse végig a naplementét a várkert felett.",
+                "ro": "Vizitați cetatea înainte de ora 17:00 pentru a surprinde apusul peste grădini în ultimele raze calde ale soarelui.",
+                "en": "Visit the fortress before 17:00 to experience the sunset over the gardens in the last warm rays of the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Victoria",
+                "hu": "Playa Victoria",
+                "ro": "Playa Victoria",
+                "en": "Playa Victoria"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast leer und sehr friedlich; bringen Sie eine Thermoskanne mit Tee für den kühlen Abendspaziergang mit.",
+                "hu": "A strand télen szinte üres és nagyon békés; hozzon magával egy termosz meleg teát a hűvös esti sétához a parton.",
+                "ro": "Plaja este aproape goală și foarte liniștită iarna; aduceți un termos cu ceai cald pentru plimbarea răcoroasă de seară.",
+                "en": "The beach is almost empty and very peaceful in winter; bring a thermos with hot tea for the cool evening stroll."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a kerékpártúrát a festői Paseo sobre las rocasnál, majd tekerjen a lenyűgöző Cueva del Tesoro felé. Délben a helyi történelemmel átitatott Casa Fuerte de Bezmiliana várja. Délután tartson egy frissítő szünetet a Playa Victorián, majd csodálja meg a Villa romana Antiopa mozaikjait. Zárja az utat az ókori Ruinas Termas Romanas és a parti őrtorony felfedezésével.",
         "ro": "Începeți turul cu bicicleta la pitorescul Paseo sobre las rocas înainte de a pedala spre Cueva del Tesoro. Prânzul vă aduce la impunătoarea Casa Fuerte de Bezmiliana, plină de istorie. După-amiaza, faceți o pauză la Playa Victoria și admirați mozaicurile vilei romane Antiopa. Încheiați călătoria explorând anticele Ruinas Termas Romanas și turnul de veghe istoric.",
         "en": "Kick off your biking tour at the scenic Paseo sobre las rocas before pedaling towards the fascinating Cueva del Tesoro. Midday brings you to the imposing Casa Fuerte de Bezmiliana, steeped in local history. In the afternoon, take a refreshing break at Playa Victoria and then marvel at the mosaics of Villa romana Antiopa. End your journey exploring the ancient Ruinas Termas Romanas and watchtower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenwegen, bietet aber eine erfrischende Perspektive. Mittags finden Sie in der Höhle einen sicheren, trockenen Platz für eine Pause. Am Nachmittag führen die befestigten Wege zu überdachten Monumenten, die vor Schauern schützen. Der Tag endet zügig, wenn Sie im Schutze der Dämmerung zu Ihrem Ausgangspunkt zurückkehren.",
+            "hu": "A kerékpározás az esőben óvatosságot igényel a parti utakon, de frissítő élményt nyújt. Délben a barlang biztonságos, száraz helyet kínál a pihenőhöz. Délután a kiépített utak fedett műemlékekhez vezetnek, amelyek megvédenek a záporoktól. A nap gyorsan véget ér, ahogy az alkonyat leple alatt visszatér a szálláshelyére.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile de coastă, dar oferă o perspectivă revigorantă. La prânz, peștera oferă un loc sigur și uscat pentru o pauză. După-amiaza, drumurile asfaltate duc spre monumente acoperite care vă protejează de averse. Ziua se încheie rapid la adăpostul serii.",
+            "en": "Cycling in the rain requires caution on coastal paths but offers a refreshing perspective. At noon, you will find a safe, dry place for a break inside the cave. In the afternoon, paved paths lead to covered monuments that protect against showers. The day ends quickly as you return to your starting point under the cover of dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paseo sobre las rocas",
+                "hu": "Paseo sobre las rocas",
+                "ro": "Paseo sobre las rocas",
+                "en": "Paseo sobre las rocas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Asphalt; die Aussicht auf das Meer ist dramatisch, aber der Boden kann rutschig sein.",
+                "hu": "Hajtson óvatosan a nedves aszfalton; a kilátás a tengerre drámai, de az útburkolat csúszós lehet az eső miatt.",
+                "ro": "Mergeți cu grijă pe asfaltul ud; vederea spre mare este dramatică, dar suprafața drumului poate fi alunecoasă din cauza ploii.",
+                "en": "Cycle carefully on the wet asphalt; the sea view is dramatic, but the road surface can be slippery due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva del Tesoro",
+                "hu": "Cueva del Tesoro",
+                "ro": "Cueva del Tesoro",
+                "en": "Cueva del Tesoro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie die Höhle als langen, trockenen Stopp, um dem stärksten Regen zu entgehen.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és használja a barlangot hosszú, száraz pihenőként, hogy elkerülje a legerősebb esőt.",
+                "ro": "Parcați bicicleta în siguranță și folosiți peștera ca un popas lung și uscat pentru a evita ploaia cea mai puternică.",
+                "en": "Park your bike safely and use the cave as a long, dry stop to escape the heaviest part of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fuerte de Bezmiliana",
+                "hu": "Casa Fuerte de Bezmiliana",
+                "ro": "Casa Fuerte de Bezmiliana",
+                "en": "Casa Fuerte de Bezmiliana"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um das Rad kurz abzustellen und im Inneren der Festung die Kunstgalerie trocken zu erkunden.",
+                "hu": "Kiváló helyszín a kerékpár rövid leállítására, és a várkastély belsejében található művészeti galéria száraz felfedezésére.",
+                "ro": "Un loc excelent pentru a lăsa bicicleta scurt timp și pentru a explora galeria de artă din interiorul cetății la uscat.",
+                "en": "An excellent place to park your bike briefly and explore the art gallery inside the fortress while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Victoria",
+                "hu": "Playa Victoria",
+                "ro": "Playa Victoria",
+                "en": "Playa Victoria"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Radweg am Strand; eine Regenjacke schützt Sie vor dem kühlen, feuchten Wind vom Meer.",
+                "hu": "Ügyeljen a tócsákra a strand melletti kerékpárúton; egy esőkabát megvédi Önt a tenger felől érkező hűvös, nedves széltől.",
+                "ro": "Atenție la bălțile de pe pista de biciclete de lângă plajă; o pelerină de ploaie vă protejează de vântul rece și umed dinspre mare.",
+                "en": "Watch out for puddles on the bike path by the beach; a raincoat will protect you from the cool, damp sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana Antiopa",
+                "hu": "Villa romana Antiopa",
+                "ro": "Villa romana Antiopa",
+                "en": "Villa romana Antiopa"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Museum ist komplett überdacht; ideal, um die römischen Mosaike zu bewundern, während es draußen schüttet.",
+                "hu": "Ez a modern múzeum teljesen fedett; ideális a római mozaikok megcsodálására, miközben odakint szakad az eső.",
+                "ro": "Acest muzeu modern este complet acoperit; ideal pentru a admira mozaicurile romane în timp ce afară toarnă cu găleata.",
+                "en": "This modern museum is completely covered; ideal for admiring Roman mosaics while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinas Termas Romanas",
+                "hu": "Ruinas Termas Romanas",
+                "ro": "Ruinas Termas Romanas",
+                "en": "Ruinas Termas Romanas"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen liegen im Freien; machen Sie nur einen schnellen Stopp für Fotos und tragen Sie dabei Ihre Kapuze.",
+                "hu": "A romok a szabad ég alatt találhatók; csak egy gyors fotóra álljon meg, és közben viselje az esőkabátja kapucniját.",
+                "ro": "Ruinele sunt în aer liber; faceți doar o oprire rapidă pentru fotografii și purtați gluga pelerinei între timp.",
+                "en": "The ruins are in the open air; just make a quick stop for photos and keep your hood up during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Benagalbón",
+                "hu": "Torre Vigía Benagalbón",
+                "ro": "Torre Vigía Benagalbón",
+                "en": "Torre Vigía Benagalbón"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet keinen Schutz; betrachten Sie ihn kurz und fahren Sie dann schnell weiter zu einem warmen Ziel.",
+                "hu": "A torony nem kínál védelmet; tekintse meg röviden, majd hajtson tovább gyorsan egy melegebb úticél felé.",
+                "ro": "Turnul nu oferă adăpost; priviți-l scurt, apoi pedalați rapid mai departe spre o destinație mai călduroasă.",
+                "en": "The tower offers no shelter; view it briefly and then cycle on quickly to a warmer destination."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag ist perfekt für eine Radtour, da die Temperaturen angenehm mild bleiben. Mittags genießen Sie die historischen Stätten im klaren Licht der Nebensaison. Am Nachmittag sollten Sie die Rückfahrt planen, bevor die Sonne gegen 17:00 Uhr sinkt. Sobald es dunkel wird, kühlt es schnell ab, sodass warme Kleidung für den Abend unerlässlich ist.",
+            "hu": "Egy napsütéses téli nap tökéletes a biciklizéshez, mivel a hőmérséklet kellemesen enyhe marad. Délben a holtszezon tiszta fényeiben élvezheti a történelmi helyszíneket. Délután tervezze meg a visszautat, mielőtt 17 óra körül lemegy a nap. Amint besötétedik, a levegő gyorsan lehűl, így a meleg ruházat elengedhetetlen.",
+            "ro": "O zi însorită de iarnă este perfectă pentru bicicletă, deoarece temperaturile rămân plăcut de blânde. La prânz, vă bucurați de siturile istorice în lumina clară a extrasezonului. După-amiaza planificați drumul de întoarcere înainte de apusul de la ora 17:00. Odată cu întunericul, se răcește rapid.",
+            "en": "A sunny winter day is perfect for cycling as temperatures remain pleasantly mild. At noon, enjoy the historical sites in the clear light of the off-season. In the afternoon, plan your return trip before the sun sets around 17:00. Once it gets dark, it cools down quickly, so warm clothing is essential for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paseo sobre las rocas",
+                "hu": "Paseo sobre las rocas",
+                "ro": "Paseo sobre las rocas",
+                "en": "Paseo sobre las rocas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Fotos vom Meer; Handschuhe sind für die Fahrt im kühlen Wind empfehlenswert.",
+                "hu": "Használja ki a tiszta téli fényeket fantasztikus tengeri fotókhoz; a hűvös szélben való tekeréshez kesztyű ajánlott.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii fantastice cu marea; mănușile sunt recomandate pentru vântul răcoros.",
+                "en": "Take advantage of the clear winter light for fantastic sea photos; gloves are recommended for riding in the cool wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva del Tesoro",
+                "hu": "Cueva del Tesoro",
+                "ro": "Cueva del Tesoro",
+                "en": "Cueva del Tesoro"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur im Inneren der Höhle wirkt im Winter angenehm warm; ein perfekter Ort für eine längere Pause.",
+                "hu": "A barlang belsejének állandó hőmérséklete télen kellemesen melegnek hat; tökéletes helyszín egy hosszabb pihenőhöz.",
+                "ro": "Temperatura constantă din interiorul peșterii pare plăcut de caldă iarna; un loc perfect pentru o pauză mai lungă.",
+                "en": "The constant temperature inside the cave feels pleasantly warm in winter; it is a perfect spot for a longer break."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fuerte de Bezmiliana",
+                "hu": "Casa Fuerte de Bezmiliana",
+                "ro": "Casa Fuerte de Bezmiliana",
+                "en": "Casa Fuerte de Bezmiliana"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ausstellungen im hellen Mittagslicht; die Festung ist im Winter deutlich weniger besucht und sehr ruhig.",
+                "hu": "Tekintse meg a kiállításokat a világos déli fényben; az erőd télen sokkal kevésbé látogatott és nagyon csendes.",
+                "ro": "Vizitați expozițiile în lumina clară a prânzului; cetatea este mult mai puțin vizitată iarna și este foarte liniște.",
+                "en": "View the exhibitions in the bright noon light; the fortress is much less crowded in winter and very peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Victoria",
+                "hu": "Playa Victoria",
+                "ro": "Playa Victoria",
+                "en": "Playa Victoria"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise ist erfrischend; halten Sie hier nur kurz an, um die Wintersonne auf dem Wasser zu bewundern.",
+                "hu": "A hűvös tengeri szellő frissítő; álljon meg itt csak rövid időre, hogy megcsodálja a téli napfény csillogását a vízen.",
+                "ro": "Briza răcoroasă a mării este revigorantă; opriți-vă aici doar pentru scurt timp ca să admirați soarele de iarnă pe apă.",
+                "en": "The cool sea breeze is refreshing; stop here only briefly to admire the winter sun sparkling on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana Antiopa",
+                "hu": "Villa romana Antiopa",
+                "ro": "Villa romana Antiopa",
+                "en": "Villa romana Antiopa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp am späten Nachmittag, da das Museum gut beheizt ist und Schutz vor der aufziehenden Abendkühle bietet.",
+                "hu": "Ideális megálló késő délután, mivel a múzeum jól fűtött, és védelmet nyújt a közelgő esti hűvös levegő ellen.",
+                "ro": "O oprire ideală după-amiaza târziu, deoarece muzeul este bine încălzit și oferă protecție împotriva răcorii serii.",
+                "en": "An ideal late afternoon stop, as the museum is well-heated and provides protection against the approaching evening chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinas Termas Romanas",
+                "hu": "Ruinas Termas Romanas",
+                "ro": "Ruinas Termas Romanas",
+                "en": "Ruinas Termas Romanas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen, solange die Sonne noch hoch genug steht; das goldene Licht des Winters betont die Textur der Steine.",
+                "hu": "Látogassa meg a romokat, amíg a nap még magasan áll; a téli arany fények kiemelik a kövek textúráját.",
+                "ro": "Vizitați ruinele cât timp soarele este încă sus; lumina aurie a iernii subliniază textura pietrelor vechi.",
+                "en": "Visit the ruins while the sun is still high enough; the golden winter light emphasizes the texture of the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Benagalbón",
+                "hu": "Torre Vigía Benagalbón",
+                "ro": "Torre Vigía Benagalbón",
+                "en": "Torre Vigía Benagalbón"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Turm kurz vor Sonnenuntergang um 17:00 Uhr für einen spektakulären Panoramablick im letzten Tageslicht.",
+                "hu": "Érkezzen a toronyhoz röviddel a 17:00 órai naplemente előtt a látványos panorámáért az utolsó nappali fényben.",
+                "ro": "Ajungeți la turn cu puțin înainte de apusul de la ora 17:00 pentru o panoramă spectaculoasă în ultima lumină a zilei.",
+                "en": "Reach the tower shortly before the 17:00 sunset for a spectacular panoramic view in the last daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje kényelmes autós útját egy reggeli csobbanással a Piscina Ribeiróban, majd látogasson el a hihetetlen Cueva del Tesoro barlangba. A dél tökéletes a Casa Fuerte de Bezmiliana felfedezésére. Töltse a délutánt a Playa Victorián, majd csodálja meg az ősi Villa romana Antiopát. Fejezze be a napot a történelmi Torre Vigía őrtoronynál és a békés Playa Los Claros strandon.",
         "ro": "Începeți plimbarea cu mașina cu o baie la Piscina Ribeiro, urmată de o vizită la incredibila Cueva del Tesoro. Prânzul este perfect pentru a descoperi trecutul la Casa Fuerte de Bezmiliana. Petreceți-vă după-amiaza la soare la Playa Victoria, apoi admirați antica Villa romana Antiopa. Finalizați ziua la istoricul Torre Vigía și la liniștita Playa Los Claros.",
         "en": "Start your comfortable drive with a morning splash at Piscina Ribeiro, followed by a visit to the incredible underground Cueva del Tesoro. Midday is perfect for uncovering the past at the coastal Casa Fuerte de Bezmiliana. Spend your afternoon enjoying the sun at Playa Victoria, then admire the ancient Villa romana Antiopa. Finish the day at the historic Torre Vigía and the tranquil Playa Los Claros."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie heute bestens für die Regenschauer gewappnet und bleiben zwischen den Stopps trocken. Mittags bietet die Höhle eine faszinierende Welt unter Tage, weit weg vom nassen Wetter. Am Nachmittag können Sie die historischen Orte bequem anfahren und direkt vor den Eingängen parken. Der Abend im warmen Fahrzeuginneren erlaubt einen entspannten Blick auf das regnerische Meer.",
+            "hu": "Autóval ma a lehető legjobban felkészült az esőre, hiszen a megállók között szárazon maradhat a járműben. Délben a barlang lenyűgöző földalatti világa várja, messze a vizes időjárástól. Délután kényelmesen felkeresheti a történelmi helyszíneket, és közvetlenül a bejáratoknál parkolhat. Az este a meleg autóban ülve pihentető kilátást nyújt az esős tengerre.",
+            "ro": "Cu mașina sunteți cel mai bine pregătit pentru ploaie astăzi, rămânând uscat între opriri. La prânz, peștera oferă o lume subterană fascinantă, departe de vremea umedă. După-amiaza puteți vizita locurile istorice confortabil, parcând direct la intrări. Seara în interiorul cald al mașinii permite o vedere relaxantă spre marea ploioasă.",
+            "en": "By car, you are best prepared for the rain today, staying dry between stops. At noon, the cave offers a fascinating underground world, far from the wet weather. In the afternoon, you can comfortably visit historical sites and park directly near the entrances. The evening inside the warm vehicle allows for a relaxed view of the rainy sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Ribeiro",
+                "hu": "Piscina Ribeiro",
+                "ro": "Piscina Ribeiro",
+                "en": "Piscina Ribeiro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das satte Grün des Parks im Regen; bleiben Sie für Fotos kurz im Auto, falls der Schauer zu stark wird.",
+                "hu": "Élvezze a park üde zöld színeit az esőben; maradjon rövid ideig az autóban a fotózáshoz, ha túl erőssé válna a zápor.",
+                "ro": "Bucurați-vă de verdele crud al parcului în ploaie; rămâneți scurt timp în mașină pentru poze dacă ploaia devine prea puternică.",
+                "en": "Enjoy the lush green colors of the park in the rain; stay in the car briefly for photos if the shower becomes too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva del Tesoro",
+                "hu": "Cueva del Tesoro",
+                "ro": "Cueva del Tesoro",
+                "en": "Cueva del Tesoro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahen Parkplatz und verbringen Sie hier viel Zeit; im Inneren sind Sie sicher vor jedem Unwetter geschützt.",
+                "hu": "Parkoljon a közeli parkolóban, és töltsön itt bátran több időt; odabent teljesen védve van mindenféle ítéletidőtől.",
+                "ro": "Parcați în parcarea apropiată și petreceți aici mai mult timp; în interior sunteți protejat de orice vreme rea.",
+                "en": "Park in the nearby lot and spend plenty of time here; inside, you are completely protected from any bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fuerte de Bezmiliana",
+                "hu": "Casa Fuerte de Bezmiliana",
+                "ro": "Casa Fuerte de Bezmiliana",
+                "en": "Casa Fuerte de Bezmiliana"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Eingang der Festung hält Sie trocken; drinnen wartet eine ruhige Kunstgalerie auf Sie.",
+                "hu": "Egy rövid sprint a parkolótól az erőd bejáratáig szárazon tartja Önt; odabent egy csendes művészeti galéria várja a látogatókat.",
+                "ro": "Un sprint scurt de la parcare la intrarea în cetate vă ține uscat; în interior vă așteaptă o galerie de artă liniștită.",
+                "en": "A short sprint from the parking lot to the fortress entrance keeps you dry; inside, a quiet art gallery awaits visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Victoria",
+                "hu": "Playa Victoria",
+                "ro": "Playa Victoria",
+                "en": "Playa Victoria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als mobilen Aussichtspunkt, um die stürmische See zu bewundern, ohne dabei nass oder kalt zu werden.",
+                "hu": "Használja az autót mobil kilátópontként, hogy megcsodálja a viharos tengert anélkül, hogy elázna vagy megfázna a szélben.",
+                "ro": "Folosiți mașina ca punct de observație mobil pentru a admira marea învolburată fără a vă uda sau a vă fi frig.",
+                "en": "Use the car as a mobile viewpoint to admire the stormy sea without getting wet or catching a cold in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana Antiopa",
+                "hu": "Villa romana Antiopa",
+                "ro": "Villa romana Antiopa",
+                "en": "Villa romana Antiopa"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch dieses modernen Museums ist die beste Strategie bei Dauerregen; Parkplätze befinden sich meist in unmittelbarer Nähe.",
+                "hu": "Ennek a modern múzeumnak a felkeresése a legjobb stratégia tartós esőben; a parkolóhelyek általában a közvetlen közelben vannak.",
+                "ro": "Vizitarea acestui muzeu modern este cea mai bună strategie pe ploaie; locurile de parcare sunt de obicei în imediata apropiere.",
+                "en": "Visiting this modern museum is the best strategy during persistent rain; parking spaces are usually in the immediate vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Benagalbón",
+                "hu": "Torre Vigía Benagalbón",
+                "ro": "Torre Vigía Benagalbón",
+                "en": "Torre Vigía Benagalbón"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den historischen Turm bequem vom Fahrersitz aus, während der Scheibenwischer den Regen beiseite schiebt.",
+                "hu": "Tekintse meg a történelmi tornyot kényelmesen a vezetőülésből, miközben az ablaktörlő félre söpri az esőcseppeket.",
+                "ro": "Priviți turnul istoric confortabil de pe scaunul șoferului, în timp ce ștergătoarele îndepărtează picăturile de ploaie.",
+                "en": "View the historical tower comfortably from the driver's seat while the wipers sweep the raindrops aside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Los Claros",
+                "hu": "Playa Los Claros",
+                "ro": "Playa Los Claros",
+                "en": "Playa Los Claros"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den Horizont vom trockenen Auto aus; die Atmosphäre am regnerischen Strand ist sehr poetisch.",
+                "hu": "Zárja a napot a látóhatár figyelésével a száraz autóból; az esős tengerpart hangulata ilyenkor rendkívül költői és megnyugtató.",
+                "ro": "Încheiați ziua privind orizontul din mașina uscată; atmosfera plajei ploioase este extrem de poetică și liniștitoare.",
+                "en": "End the day watching the horizon from the dry car; the atmosphere of the rainy beach is extremely poetic and calming."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag lädt zu einer entspannten Spritztour entlang der Küste ein, bei der Sie die milde Sonne genießen. Mittags erreichen Sie mühelos die höher gelegene Höhle und andere Sehenswürdigkeiten. Am Nachmittag sinken die Temperaturen schnell, doch im Auto bleibt es wohlig warm. Da es gegen 17:00 Uhr dunkel wird, bietet die Rückfahrt bei Dämmerung schöne Lichtspiele am Meer.",
+            "hu": "Egy tiszta téli nap hívogató egy pihentető autózásra a part mentén, élvezve az enyhe napsütést. Délben könnyedén elérheti a magasabban fekvő barlangot és más látnivalókat. Délután a hőmérséklet gyorsan csökken, de az autóban kellemes meleg marad. Mivel 17:00 körül sötétedik, a szürkületi visszavezető út szép fényjátékot kínál a tengernél.",
+            "ro": "O zi senină de iarnă vă invită la o plimbare relaxantă cu mașina pe coastă, bucurându-vă de soarele blând. La prânz ajungeți ușor la peștera situată mai sus și la alte atracții. După-amiaza temperaturile scad rapid, dar în mașină rămâne cald. Apusul de la ora 17:00 oferă jocuri de lumină frumoase.",
+            "en": "A clear winter day invites you for a relaxed drive along the coast, enjoying the mild sun. At noon, you can easily reach the higher-situated cave and other sights. In the afternoon, temperatures drop quickly, but it stays cozy inside the car. As it gets dark around 17:00, the drive back at dusk offers beautiful light displays by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Ribeiro",
+                "hu": "Piscina Ribeiro",
+                "ro": "Piscina Ribeiro",
+                "en": "Piscina Ribeiro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Vormittagslicht für einen kurzen Spaziergang im Park; die kühle Luft wirkt sehr belebend.",
+                "hu": "Használja ki a tiszta délelőtti fényeket egy rövid sétára a parkban; a hűvös levegő rendkívül élénkítően hat.",
+                "ro": "Profitați de lumina clară a dimineții pentru o scurtă plimbare în parc; aerul răcoros este foarte revigorant.",
+                "en": "Take advantage of the clear morning light for a short walk in the park; the cool air is very invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva del Tesoro",
+                "hu": "Cueva del Tesoro",
+                "ro": "Cueva del Tesoro",
+                "en": "Cueva del Tesoro"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlentour ist im Winter ideal, da die Innentemperatur oft höher ist als draußen; wärmen Sie sich hier gemütlich auf.",
+                "hu": "A barlangtúra télen ideális, mivel a belső hőmérséklet gyakran magasabb, mint kint; kényelmesen átmelegedhet a látogatás alatt.",
+                "ro": "Turul peșterii este ideal iarna, deoarece temperatura interioară este adesea mai mare decât afară; încălziți-vă confortabil aici.",
+                "en": "The cave tour is ideal in winter as the inside temperature is often higher than outside; warm up comfortably during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fuerte de Bezmiliana",
+                "hu": "Casa Fuerte de Bezmiliana",
+                "ro": "Casa Fuerte de Bezmiliana",
+                "en": "Casa Fuerte de Bezmiliana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Festung und genießen Sie die Ausstellungen; im Winter ist es hier wunderbar ruhig für Kunstliebhaber.",
+                "hu": "Parkoljon közvetlenül az erőd mellett, és élvezze a kiállításokat; télen csodálatos nyugalom várja itt a művészetkedvelőket.",
+                "ro": "Parcați direct lângă cetate și bucurați-vă de expoziții; iarna este o liniște minunată aici pentru iubitorii de artă.",
+                "en": "Park right by the fortress and enjoy the exhibitions; in winter, it is wonderfully quiet here for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Victoria",
+                "hu": "Playa Victoria",
+                "ro": "Playa Victoria",
+                "en": "Playa Victoria"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang am leeren Strand bietet tolle Fotomotive; halten Sie eine warme Jacke für den Aufenthalt im Wind bereit.",
+                "hu": "Egy téli séta az üres strandon remek fotótémákat kínál; tartson készenlétben egy meleg dzsekit a szeles parthoz.",
+                "ro": "O plimbare de iarnă pe plaja goală oferă subiecte deosebite pentru poze; aveți pregătită o jachetă groasă pentru vânt.",
+                "en": "A winter stroll on the empty beach offers great photo opportunities; have a warm jacket ready for the windy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana Antiopa",
+                "hu": "Villa romana Antiopa",
+                "ro": "Villa romana Antiopa",
+                "en": "Villa romana Antiopa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag, um der Kälte zu entkommen; die modernen Hallen sind angenehm temperiert.",
+                "hu": "Látogassa meg a múzeumot késő délután, hogy elmeneküljön a hideg elől; a modern csarnokok hőmérséklete nagyon kellemes.",
+                "ro": "Vizitați muzeul după-amiaza târziu pentru a scăpa de frig; halele moderne au o temperatură interioară foarte plăcută.",
+                "en": "Visit the museum in the late afternoon to escape the cold; the modern halls are kept at a very pleasant temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vigía Benagalbón",
+                "hu": "Torre Vigía Benagalbón",
+                "ro": "Torre Vigía Benagalbón",
+                "en": "Torre Vigía Benagalbón"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang um 17:00 Uhr hier sein; das Auto bietet danach sofortige Wärme für die Weiterfahrt.",
+                "hu": "Érkezzen ide pontosan a 17:00 órai naplementére; az autó ezután azonnali meleget nyújt a továbbutazáshoz.",
+                "ro": "Ajungeți aici exact pentru apusul de la ora 17:00; mașina vă oferă apoi căldură imediată pentru continuarea drumului.",
+                "en": "Arrive here exactly for the 17:00 sunset; the car provides immediate warmth afterwards for your onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Los Claros",
+                "hu": "Playa Los Claros",
+                "ro": "Playa Los Claros",
+                "en": "Playa Los Claros"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Verblassen des Tageslichts über dem Meer; bringen Sie Decken ins Auto mit, um den Abend gemütlich ausklingen zu lassen.",
+                "hu": "Figyelje meg a nappali fények halványulását a tenger felett; vigyen takarókat az autóba, hogy a napot meghitten zárhassa le.",
+                "ro": "Observați cum lumina zilei palidizează deasupra mării; aduceți pături în mașină pentru a încheia ziua într-un mod confortabil.",
+                "en": "Watch the daylight fading over the sea; bring blankets into the car to end the day in a cozy and comfortable way."
+              }
+            }
+          ]
+        }
       }
     }
   }

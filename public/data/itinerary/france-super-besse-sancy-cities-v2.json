@@ -137,6 +137,168 @@
         "hu": "A reggel egy izgalmas nyári bobozással kezdődik, majd benti szórakozás vár a sportközpontban. A dél egy gokartos ereszkedéssel fokozza az adrenalint a lejtőkön. Délután próbálja ki a Super Coaster-t, ahonnan látványos erdei kilátás nyílik. Ahogy közeledik az este, fejezze be ezt az aktív napot a történelmi és festői Croix de Seignavoux kereszt csendes és megnyugtató környezetében.",
         "ro": "Dimineața începe cu o cursă pe sania de vară, urmată de distracție la Centre ludo sportif. Prânzul aduce adrenalină în timp ce navigați pe pârtii cu Deval'kart. După-amiaza, încercați Super Coaster pentru priveliști spectaculoase din pădure. Pe măsură ce se apropie seara, încheiați ziua activă relaxându-vă lângă monumentala și pitoreasca cruce istorică Croix de Seignavoux.",
         "en": "Your morning starts with an exhilarating ride on the summer luge, followed by indoor fun at the lively Centre ludo sportif. Midday brings more adrenaline as you navigate the slopes with Deval'kart. In the afternoon, brave the Super Coaster for spectacular woodland sights. As evening approaches, conclude your active day by unwinding near the historic and scenic Croix de Seignavoux."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt neblig am Hang. Wir nutzen die überdachten Bereiche der Station, um trocken zu bleiben. Mittags bietet das Sportzentrum Schutz vor den schwersten Schauern. Am Nachmittag wagen wir uns mit Regenkleidung kurz ins Freie, wenn der Wind nachlässt. Den Abend lassen wir gemütlich ausklingen, während die Wolken tief über dem Sancy hängen.",
+            "hu": "A reggel ködösen indul a lejtőkön, így az állomás fedett részeit keressük fel. Délben a sportközpont nyújt menedéket a leghevesebb záporok elől. Délután vízálló öltözetben teszünk egy rövid sétát a friss, esőáztatta hegyi levegőn. Az estét kényelmesen, a szálláson töltjük, miközben a felhők ráülnek a Sancy csúcsaira.",
+            "ro": "Dimineața începe cu ceață pe versanți. Folosim zonele acoperite ale stațiunii pentru a rămâne uscați. La prânz, centrul sportiv oferă adăpost împotriva celor mai grele averse. După-amiază ne aventurăm afară cu haine impermeabile când vântul se domolește. Seara se încheie liniștit, în timp ce norii coboară peste masivul Sancy.",
+            "en": "The morning begins misty on the slopes. we use the resort's covered areas to stay dry. At noon, the sports center provides shelter from the heaviest showers. In the afternoon, we venture out briefly with rain gear when the wind dies down. The evening ends cozily as the clouds hang low over the Sancy peaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luge d'été",
+                "hu": "Luge d'été",
+                "ro": "Luge d'été",
+                "en": "Luge d'été"
+              },
+              "tip_5lang": {
+                "de": "Die Bahn kann bei Nässe rutschig sein; tragen Sie eine Regenjacke und genießen Sie die rasante Fahrt durch den Nebel.",
+                "hu": "A pálya nedvesen csúszós lehet; viselj esőkabátot és élvezd a ködös tájon átvezető gyors, izgalmas lesiklást a hegyoldalban.",
+                "ro": "Pista poate fi alunecoasă pe ploaie; purtați o pelerină și bucurați-vă de coborârea rapidă prin atmosfera misterioasă a ceții.",
+                "en": "The track can be slippery when wet; wear a rain jacket and enjoy the fast-paced descent through the atmospheric mountain mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre ludo sportif: les hermines",
+                "hu": "Centre ludo sportif: les hermines",
+                "ro": "Centre ludo sportif: les hermines",
+                "en": "Centre ludo sportif: les hermines"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Rückzugsort bei Regen; nutzen Sie die Kletterwände oder das Schwimmbad, während es draußen stürmt.",
+                "hu": "Ez a tökéletes menedék esőben; próbáld ki a mászófalakat vagy a medencét, amíg odakint tombol a viharos hegyi időjárás.",
+                "ro": "Acesta este refugiul perfect pe ploaie; profitați de pereții de escaladă sau de piscină în timp ce afară este furtună.",
+                "en": "This is the perfect retreat during rain; use the climbing walls or the pool while the mountain storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Deval'kart",
+                "hu": "Deval'kart",
+                "ro": "Deval'kart",
+                "en": "Deval'kart"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie Schlamm auf der Strecke; feste Wanderschuhe und eine Schutzbrille helfen, trotz Spritzwasser die Spur zu halten.",
+                "hu": "Saras pályára számíts; az erős túrabakancs és egy védőszemüveg segít a helyes irányban maradni a felfröccsenő víz ellenére.",
+                "ro": "Așteptați-vă la noroi pe traseu; bocancii solizi și ochelarii de protecție vă ajută să rămâneți pe pistă în ciuda stropilor.",
+                "en": "Expect mud on the course; sturdy hiking boots and protective goggles will help you stay on track despite the splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Super Coaster",
+                "hu": "Super Coaster",
+                "ro": "Super Coaster",
+                "en": "Super Coaster"
+              },
+              "tip_5lang": {
+                "de": "Die Schienen glänzen im Regen und die Fahrt wirkt schneller; halten Sie die Kapuze fest, um trocken unten anzukommen.",
+                "hu": "A sínek csillognak az esőben, és a száguldás gyorsabbnak tűnik; szorítsd meg a kapucnidat, hogy szárazon érj le a célba.",
+                "ro": "Șinele strălucesc în ploaie, iar cursa pare mai rapidă; țineți bine gluga pentru a ajunge jos cât mai uscați posibil.",
+                "en": "The rails glisten in the rain and the ride feels faster; hold your hood tight to arrive at the bottom as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Croix de Seignavoux",
+                "hu": "Croix de Seignavoux",
+                "ro": "Croix de Seignavoux",
+                "en": "Croix de Seignavoux"
+              },
+              "tip_5lang": {
+                "de": "Das Gipfelkreuz erscheint oft dramatisch zwischen den Wolken; achten Sie auf den rutschigen Boden beim kurzen Aufstieg.",
+                "hu": "A kereszt gyakran drámai módon bukkan elő a felhők közül; figyelj a csúszós talajra a rövid, de meredek emelkedőn.",
+                "ro": "Crucea apare adesea dramatic printre nori; aveți grijă la solul alunecos în timpul scurtei ascensiuni spre vârf.",
+                "en": "The cross often appears dramatically between the clouds; watch out for slippery ground during the short uphill climb."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen in der weißen Pracht. Wir genießen die frische Luft bei kurzen Spaziergängen zwischen den warmen Stationen. Mittags wärmen wir uns im Sportzentrum auf, während der Schnee draußen leise fällt. Nachmittags nutzen wir das letzte Tageslicht für Panoramafotos. Da die Sonne gegen 17:00 Uhr sinkt, kehren wir früh zurück.",
+            "hu": "Jéghideg reggel a fehér hótakaróban. Friss levegőt szívunk a meleg pihenőhelyek közötti rövid sétákon. Délben a sportközpontban melegszünk fel, miközben kint csendben hull a hó. Délután kihasználjuk az utolsó fényeket a panorámafotókhoz. Mivel 17:00 körül lemegy a nap, korán visszatérünk a szállásra.",
+            "ro": "O dimineață geroasă în splendoarea albă. Ne bucurăm de aerul curat în plimbări scurte între stațiile călduroase. La prânz ne încălzim la centrul sportiv, în timp ce zăpada cade încet afară. După-amiază profităm de ultima lumină pentru fotografii. Deoarece soarele apune pe la 17:00, ne întoarcem devreme.",
+            "en": "A freezing morning in the white winter splendor. We enjoy the fresh air during short walks between warm indoor stations. At noon, we warm up at the sports center while snow falls silently outside. In the afternoon, we use the last daylight for photos. As the sun sets around 17:00, we head back early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luge d'été",
+                "hu": "Luge d'été",
+                "ro": "Luge d'été",
+                "en": "Luge d'été"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier oft buntes Schneetreiben; tragen Sie dicke Handschuhe, um den Schlitten sicher durch den Schnee zu steuern.",
+                "hu": "Télen itt gyakran pezseg a havas élet; viselj vastag kesztyűt, hogy biztonságosan irányíthasd a szánkót a hidegben.",
+                "ro": "Iarna aici este adesea o atmosferă de basm; purtați mănuși groase pentru a manevra sania în siguranță prin zăpadă.",
+                "en": "In winter, there's often a lively snowy atmosphere; wear thick gloves to steer your sled safely through the cold snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre ludo sportif: les hermines",
+                "hu": "Centre ludo sportif: les hermines",
+                "ro": "Centre ludo sportif: les hermines",
+                "en": "Centre ludo sportif: les hermines"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Ort zum Aufwärmen; springen Sie ins beheizte Wasser, während Sie durch die Fenster das Schneetreiben beobachten.",
+                "hu": "A végső hely a felmelegedésre; ugorj a fűtött vízbe, miközben az ablakon keresztül figyeled a kinti hófúvást.",
+                "ro": "Locul suprem pentru încălzire; săriți în apa încălzită în timp ce priviți ninsoarea de afară prin ferestrele mari.",
+                "en": "The ultimate spot for warming up; jump into the heated water while watching the snowfall outside through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Deval'kart",
+                "hu": "Deval'kart",
+                "ro": "Deval'kart",
+                "en": "Deval'kart"
+              },
+              "tip_5lang": {
+                "de": "Die Hänge sind nun weiß; genießen Sie die winterliche Landschaft, aber achten Sie auf winddichte Kleidung gegen den Fahrtwind.",
+                "hu": "A lejtők most fehérek; élvezd a téli tájat, de ügyelj a szélálló ruházatra a szembe fújó hideg menetszél ellen.",
+                "ro": "Pantele sunt acum albe; bucurați-vă de peisajul de iarnă, dar asigurați-vă că aveți haine rezistente la vântul tăios.",
+                "en": "The slopes are white now; enjoy the winter landscape, but ensure you wear windproof clothing against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Super Coaster",
+                "hu": "Super Coaster",
+                "ro": "Super Coaster",
+                "en": "Super Coaster"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiges Vergnügen; ein Schal oder ein Schlauchtuch ist bei den winterlichen Temperaturen auf der Bahn unerlässlich.",
+                "hu": "Fagyos élmény; egy sál vagy egy csősál elengedhetetlen a téli hőmérséklet mellett ezen a gyors hegyi pályán.",
+                "ro": "O plăcere înghețată; un fular sau o protecție pentru gât este esențială la temperaturile de iarnă de pe pistă.",
+                "en": "A frosty thrill; a scarf or a neck gaiter is essential given the winter temperatures on this fast mountain track."
+              }
+            },
+            {
+              "name": {
+                "de": "Croix de Seignavoux",
+                "hu": "Croix de Seignavoux",
+                "ro": "Croix de Seignavoux",
+                "en": "Croix de Seignavoux"
+              },
+              "tip_5lang": {
+                "de": "Ein verschneites Panorama erwartet Sie; der Aufstieg ist anstrengender im Schnee, bietet aber eine makellose weiße Aussicht.",
+                "hu": "Havas panoráma vár; a felkapaszkodás fárasztóbb a hóban, de a szeplőtelen fehér kilátás minden fáradozást megér.",
+                "ro": "Vă așteaptă o panoramă înzăpezită; urcarea este mai obositoare prin zăpadă, dar oferă o vedere albă impecabilă.",
+                "en": "A snowy panorama awaits you; the climb is more tiring in the snow, but it offers a pristine, white winter view."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napot a sportközpont programjaival, majd élvezze a gyors nyári bobozást. Délben tekerjen el a Chaudefour-völgy lélegzetelállító természeti rezervátumába. A délutánt a Cascade de la Biche vízesés nyugtató hangjainak és a Croix de Seignavoux panorámájának szentelje. Az este a szent Notre-Dame de Vassivière kápolnához vezeti, hogy elmélyedjen a békés környezetben.",
         "ro": "Începeți cu activități la centrul sportiv înainte de o tură cu sania de vară. La prânz, pedalați spre rezervația naturală uluitoare a văii Chaudefour. După-amiaza este petrecută ascultând sunetele cascadei de la Biche și admirând panoramele de la Croix de Seignavoux. Seara vă conduce la sacra capelă Notre-Dame de Vassivière pentru a vă bucura de o reflexie liniștită.",
         "en": "Start with engaging activities at the sports center before enjoying a quick summer luge ride. At midday, cycle towards the breathtaking nature reserve of the Chaudefour valley. Your afternoon is spent listening to the soothing sounds of the Cascade de la Biche and admiring panoramas at Croix de Seignavoux. Evening leads you to the sacred Chapelle Notre-Dame de Vassivière for reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Tag auf zwei Rädern im Regen. Wir starten vorsichtig auf befestigten Wegen. Mittags suchen wir Schutz in den Hallen der Station, um die Ausrüstung zu trocknen. Am Nachmittag radeln wir durch die neblige Natur, wo die Wasserfälle besonders kräftig fließen. Vor Einbruch der Dunkelheit kehren wir über nasse Straßen zurück.",
+            "hu": "Kihívást jelentő nap két keréken az esőben. Óvatosan indulunk a burkolt utakon. Délben a központ fedett részein keressük a száradási lehetőséget. Délután a ködös természetben tekerünk, ahol a vízesések most különösen bővizűek. Sötétedés előtt a vizes aszfalton óvatosan térünk vissza a bázisra.",
+            "ro": "O zi provocatoare pe două roți în ploaie. Pornim cu prudență pe drumuri pavate. La prânz căutăm adăpost în zonele acoperite pentru a ne usca echipamentul. După-amiază pedalăm prin natura cețoasă, unde cascadele sunt deosebit de bogate. Înainte de lăsarea întunericului, revenim pe drumurile ude.",
+            "en": "A challenging day on two wheels in the rain. We start cautiously on paved paths. At noon, we seek shelter in the resort's halls to dry our gear. In the afternoon, we cycle through the misty nature, where the waterfalls flow with extra power. We return over wet roads before darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centre ludo sportif: les hermines",
+                "hu": "Centre ludo sportif: les hermines",
+                "ro": "Centre ludo sportif: les hermines",
+                "en": "Centre ludo sportif: les hermines"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad trocken und nutzen Sie die Pause für ein paar Indoor-Aktivitäten, um die Motivation hochzuhalten.",
+                "hu": "Parkold le a bringát száraz helyen, és használd ki a szünetet benti mozgásra, hogy fenntartsd a motivációdat.",
+                "ro": "Parcați bicicleta la loc uscat și folosiți pauza pentru activități de interior, menținându-vă motivația ridicată.",
+                "en": "Park your bike in a dry spot and use the break for some indoor activities to keep your motivation levels high."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge d'été",
+                "hu": "Luge d'été",
+                "ro": "Luge d'été",
+                "en": "Luge d'été"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft eingeschränkt; eine gute Brille schützt Ihre Augen beim Radeln vor Spritzwasser und Schlamm.",
+                "hu": "Esőben a látótávolság gyakran korlátozott; egy jó szemüveg megvédi a szemedet tekerés közben a felfröccsenő sártól.",
+                "ro": "Pe ploaie vizibilitatea este adesea limitată; o pereche bună de ochelari vă protejează ochii de stropi și noroi.",
+                "en": "Visibility is often limited in the rain; good goggles will protect your eyes from splashing water and mud while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la vallée de Chaudefour",
+                "hu": "Réserve naturelle de la vallée de Chaudefour",
+                "ro": "Réserve naturelle de la valea de Chaudefour",
+                "en": "Réserve naturelle de la vallée de Chaudefour"
+              },
+              "tip_5lang": {
+                "de": "Das Tal wirkt im Regen mystisch; bleiben Sie auf den Hauptwegen, da die schmalen Pfade extrem rutschig und schlammig sind.",
+                "hu": "A völgy misztikusnak tűnik az esőben; maradj a főúton, mivel a keskeny ösvények rendkívül csúszósak és sarasak most.",
+                "ro": "Valea pare mistică în ploaie; rămâneți pe drumurile principale, deoarece potecile înguste sunt extrem de alunecoase.",
+                "en": "The valley looks mystical in the rain; stay on the main paths, as the narrow trails are extremely slippery and muddy now."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade de la Biche",
+                "hu": "Cascade de la Biche",
+                "ro": "Cascade de la Biche",
+                "en": "Cascade de la Biche"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach dem Regen imposant; stellen Sie Ihr Rad sicher ab und gehen Sie das letzte Stück zu Fuß.",
+                "hu": "A vízesés az eső után lenyűgöző; támaszd le biztonságosan a bringát, és az utolsó szakaszt gyalog tedd meg a sárban.",
+                "ro": "Cascada este impunătoare după ploaie; parcați bicicleta în siguranță și parcurgeți ultima porțiune pe jos cu grijă.",
+                "en": "The waterfall is impressive after the rain; park your bike securely and walk the last section carefully on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Croix de Seignavoux",
+                "hu": "Croix de Seignavoux",
+                "ro": "Croix de Seignavoux",
+                "en": "Croix de Seignavoux"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Wind am Gipfel; die nassen Felsen am Fuß des Kreuzes erfordern beim Absteigen höchste Vorsicht.",
+                "hu": "Ügyelj a szélre a csúcson; a kereszt lábánál lévő nedves sziklák fokozott óvatosságot igényelnek a leszálláskor.",
+                "ro": "Atenție la vântul de pe vârf; stâncile ude de la baza crucii necesită prudență maximă atunci când coborâți.",
+                "en": "Watch out for the wind at the peak; the wet rocks at the base of the cross require maximum caution when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de Vassivière",
+                "hu": "Chapelle Notre-Dame de Vassivière",
+                "ro": "Chapelle Notre-Dame de Vassivière",
+                "en": "Chapelle Notre-Dame de Vassivière"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet eine friedliche, trockene Pause; nutzen Sie die Stille im Inneren, um sich vor der Rückfahrt kurz zu sammeln.",
+                "hu": "A kápolna békés, száraz pihenőt kínál; használd ki a benti csendet, hogy kicsit összeszedd magad a hazatekerés előtt.",
+                "ro": "Capela oferă o pauză liniștită și uscată; profitați de liniștea din interior pentru a vă reculege înainte de drumul de întoarcere.",
+                "en": "The chapel offers a peaceful, dry break; use the silence inside to gather yourself briefly before the return cycle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biking auf den gefrorenen Straßen des Sancy. Wir starten mit mehreren Schichten Kleidung gegen den beißenden Wind. Mittags wärmen wir uns in der Station auf, während die Fahrräder kurz ruhen. Nachmittags genießen wir die glitzernde Schneelandschaft auf geräumten Wegen. Gegen 17:00 Uhr endet die Tour wegen der früh einsetzenden Dunkelheit.",
+            "hu": "Téli kerékpározás a Sancy fagyos útjain. Réteges öltözetben indulunk a csípős szél ellen. Délben a központban melegszünk fel, miközben a bringákat is pihentetjük. Délután a csillogó havas tájat élvezzük a letakarított utakon. 17:00 körül a korai sötétedés miatt befejezzük a túrát.",
+            "ro": "Ciclism de iarnă pe drumurile înghețate din Sancy. Pornim cu mai multe straturi de haine împotriva vântului tăios. La prânz ne încălzim în stațiune, lăsând bicicletele să se odihnească. După-amiază ne bucurăm de peisajul strălucitor pe drumurile curățate. În jurul orei 17:00 încheiem turul.",
+            "en": "Winter biking on the frozen roads of Sancy. We start with multiple layers of clothing against the biting wind. At noon, we warm up at the resort while the bikes rest briefly. In the afternoon, we enjoy the sparkling snow landscape on cleared paths. Around 17:00, the tour ends due to early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centre ludo sportif: les hermines",
+                "hu": "Centre ludo sportif: les hermines",
+                "ro": "Centre ludo sportif: les hermines",
+                "en": "Centre ludo sportif: les hermines"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die tauben Finger aufzuwärmen; genießen Sie die warme Atmosphäre, bevor es wieder in die Kälte geht.",
+                "hu": "Ideális hely az elgémberedett ujjak felmelegítésére; élvezd a benti meleg levegőt, mielőtt újra kimennél a fagyba.",
+                "ro": "Un loc ideal pentru a vă încălzi degetele amorțite; bucurați-vă de atmosfera caldă înainte de a ieși din nou în frig.",
+                "en": "An ideal place to warm up numb fingers; enjoy the warm indoor atmosphere before heading back out into the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge d'été",
+                "hu": "Luge d'été",
+                "ro": "Luge d'été",
+                "en": "Luge d'été"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz; auch im Winter ist dieser Bereich ein belebter Treffpunkt für Schneeliebhaber.",
+                "hu": "Ügyelj a jeges foltokra a parkolóban; ez a rész télen is nyüzsgő találkozóhely a hó szerelmesei számára.",
+                "ro": "Aveți grijă la gheața din parcare; chiar și iarna, această zonă este un punct de întâlnire plin de viață pentru iubitorii de zăpadă.",
+                "en": "Watch out for black ice in the parking area; even in winter, this spot is a lively meeting point for snow enthusiasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la vallée de Chaudefour",
+                "hu": "Réserve naturelle de la vallée de Chaudefour",
+                "ro": "Réserve naturelle de la valea de Chaudefour",
+                "en": "Réserve naturelle de la vallée de Chaudefour"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe des verschneiten Tals ist einmalig; fahren Sie langsam, um keine Tiere in ihrem Winterquartier aufzuscheuchen.",
+                "hu": "A havas völgy csendje páratlan; tekerj lassan, hogy ne zavard meg a téli álmukra készülő vagy pihenő állatokat.",
+                "ro": "Liniștea văii înzăpezite este unică; pedalați încet pentru a nu speria animalele în habitatele lor de iarnă.",
+                "en": "The silence of the snowy valley is unique; cycle slowly to avoid startling animals in their winter resting spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade de la Biche",
+                "hu": "Cascade de la Biche",
+                "ro": "Cascade de la Biche",
+                "en": "Cascade de la Biche"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach Eiszapfen an den Felsen; der Pfad zum Wasserfall kann tief verschneit sein, gute Reifen sind ein Muss.",
+                "hu": "Keress jégcsapokat a sziklákon; a vízeséshez vezető ösvényt mély hó boríthatja, a jó tapadású gumi elengedhetetlen.",
+                "ro": "Căutați țurțurii de gheață de pe stânci; poteca spre cascadă poate fi înzăpezită, anvelopele bune sunt obligatorii.",
+                "en": "Look for icicles on the rocks; the path to the waterfall might be buried in snow, so tires with good grip are a must."
+              }
+            },
+            {
+              "name": {
+                "de": "Croix de Seignavoux",
+                "hu": "Croix de Seignavoux",
+                "ro": "Croix de Seignavoux",
+                "en": "Croix de Seignavoux"
+              },
+              "tip_5lang": {
+                "de": "Vom eisigen Wind am Kreuz fernhalten; genießen Sie den weiten Blick über die schneebedeckten Gipfel nur kurz und intensiv.",
+                "hu": "A keresztnél süvítő jeges széltől óvakodj; csak rövid ideig élvezd a hóval borított csúcsok feletti végtelen kilátást.",
+                "ro": "Feriți-vă de vântul înghețat de lângă cruce; bucurați-vă de vederea panoramică peste vârfurile înzăpezite doar pentru scurt timp.",
+                "en": "Beware of the icy wind at the cross; enjoy the wide view over the snow-covered peaks only briefly but intensely."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de Vassivière",
+                "hu": "Chapelle Notre-Dame de Vassivière",
+                "ro": "Chapelle Notre-Dame de Vassivière",
+                "en": "Chapelle Notre-Dame de Vassivière"
+              },
+              "tip_5lang": {
+                "de": "Eine einsame Kapelle in der weißen Einöde; das historische Gebäude wirkt im Schnee wie aus einem Märchen entsprungen.",
+                "hu": "Magányos kápolna a fehér pusztaságban; a történelmi épület a hóban olyan, mintha egy mesekönyvből lépett volna elő.",
+                "ro": "O capelă solitară în pustietatea albă; clădirea istorică în zăpadă pare desprinsă dintr-o carte de povești.",
+                "en": "A lonely chapel in the white wasteland; the historic building in the snow looks like it stepped out of a fairy tale."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje egy csendes reggeli látogatással a történelmi kápolnában, majd próbálja ki a Super Coaster-t. Délre a Deval'kart és a nyári bobpálya izgalmai várják. A délután a magasba vezet a Puy Ferrand csúcsára, majd a fenséges Cascade de la Biche vízeséshez. Fejezze be az estét a Chaudefour-völgy természeti rezervátumának nyugalmat árasztó, lenyűgöző és érintetlen szépségében.",
         "ro": "Începeți cu o vizită matinală la capela istorică, urmată de o cursă plină de adrenalină pe Super Coaster. La prânz, veți coborî pe munte cu un Deval'kart și sania de vară. După-amiaza vă duce la Puy Ferrand pentru priveliști ample, apoi la Cascade de la Biche. Încheiați seara înconjurați de frumusețea senină și liniștită a rezervației naturale din valea Chaudefour.",
         "en": "Begin with a quiet morning visit to the historic chapel, followed by an adrenaline-pumping ride on the Super Coaster. By midday, you'll race down the mountain on a Deval'kart and the summer luge. The afternoon takes you higher to Puy Ferrand for sweeping views, then to the majestic Cascade de la Biche. Finish your evening surrounded by the serene beauty of the Chaudefour valley nature reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Panoramafahrt trotz Regenwolken. Am Vormittag steuern wir die kulturellen Highlights an, während die Scheibenwischer im Takt schlagen. Mittags genießen wir die Aussicht aus dem Auto bei einer Pause. Nachmittags besuchen wir die Naturwunder, die bei Regen eine besondere Kraft ausstrahlen. Der Abend endet entspannt bei der Rückfahrt durch die nasse Bergwelt.",
+            "hu": "Kényelmes panorámaautózás az esőfelhők ellenére. Délelőtt a kulturális látnivalókat keressük fel, miközben az ablaktörlő ütemesen jár. Délben az autóból élvezzük a kilátást egy rövid pihenő alatt. Délután a természeti csodákat látogatjuk meg, amelyek esőben különleges erőt árasztanak. Az este nyugodt autózással zárul a vizes hegyi utakon.",
+            "ro": "O plimbare panoramică confortabilă în ciuda norilor de ploaie. Dimineața vizităm punctele culturale importante. La prânz ne bucurăm de priveliște din mașină în timpul unei pauze. După-amiază vizităm minunile naturii care emană o forță deosebită pe ploaie. Seara se încheie relaxat cu un drum prin munții umezi.",
+            "en": "A comfortable scenic drive despite the rain clouds. In the morning, we head to cultural highlights while the wipers beat in rhythm. At noon, we enjoy the view from the car during a break. In the afternoon, we visit natural wonders that radiate special power in the rain. The evening ends with a relaxed drive through the wet mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de Vassivière",
+                "hu": "Chapelle Notre-Dame de Vassivière",
+                "ro": "Chapelle Notre-Dame de Vassivière",
+                "en": "Chapelle Notre-Dame de Vassivière"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz; der kurze Weg zur Kapelle ist bei Regen gut machbar und bietet einen trockenen Rückzugsort.",
+                "hu": "Használd a közeli parkolót; a kápolnához vezető rövid út esőben is könnyen teljesíthető, bent pedig száraz menedéket találsz.",
+                "ro": "Folosiți parcarea din apropiere; drumul scurt până la capelă este ușor de parcurs pe ploaie și oferă un refugiu uscat.",
+                "en": "Use the nearby parking lot; the short walk to the chapel is easily manageable in the rain and provides a dry sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Super Coaster",
+                "hu": "Super Coaster",
+                "ro": "Super Coaster",
+                "en": "Super Coaster"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie im Auto auf ein kurzes Regenloch; die Fahrt auf der nassen Bahn ist ein ganz besonderes, spritziges Erlebnis.",
+                "hu": "Várd meg az autóban a felhőszakadás végét; a nedves pályán való száguldás különleges, vizes kalandot ígér.",
+                "ro": "Așteptați în mașină o pauză de ploaie; cursa pe pista udă este o experiență deosebită și plină de adrenalină.",
+                "en": "Wait in the car for a short break in the rain; riding on the wet track is a unique and splashing mountain experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Deval'kart",
+                "hu": "Deval'kart",
+                "ro": "Deval'kart",
+                "en": "Deval'kart"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich auf rutschige Kurven ein; auch wenn Sie mit dem Auto anreisen, sollten Sie für den Spaß vor Ort Wechselkleidung dabei haben.",
+                "hu": "Készülj fel a csúszós kanyarokra; még ha autóval is érkezel, érdemes váltóruhát vinni a vizes és saras szórakozáshoz.",
+                "ro": "Pregătiți-vă pentru viraje alunecoase; chiar dacă veniți cu mașina, ar trebui să aveți haine de schimb pentru distracția de aici.",
+                "en": "Prepare for slippery turns; even if arriving by car, you should have a change of clothes ready for the wet and muddy fun."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge d'été",
+                "hu": "Luge d'été",
+                "ro": "Luge d'été",
+                "en": "Luge d'été"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die Station im Nebel; nutzen Sie Regenpausen für eine schnelle Abfahrt.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a ködbe burkolózó állomásra; használd ki az esőszüneteket egy gyors lesiklásra.",
+                "ro": "Din parcare aveți o vedere excelentă asupra stațiunii în ceață; profitați de pauzele de ploaie pentru o coborâre rapidă.",
+                "en": "The parking lot offers a great view of the resort in the mist; take advantage of breaks in the rain for a quick ride down."
+              }
+            },
+            {
+              "name": {
+                "de": "Puy Ferrand",
+                "hu": "Puy Ferrand",
+                "ro": "Puy Ferrand",
+                "en": "Puy Ferrand"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt erfordert bei Nässe volle Konzentration; genießen Sie die Wolkenspiele über den Gipfeln sicher aus dem Fahrzeug.",
+                "hu": "A felfelé vezető út nagy koncentrációt igényel nedves időben; élvezd a csúcsok feletti felhőjátékot biztonságban, az autóból.",
+                "ro": "Urcarea necesită concentrare maximă pe carosabil ud; bucurați-vă de jocul norilor peste vârfuri din siguranța vehiculului.",
+                "en": "The drive up requires full concentration in wet conditions; enjoy the play of clouds over the peaks safely from your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade de la Biche",
+                "hu": "Cascade de la Biche",
+                "ro": "Cascade de la Biche",
+                "en": "Cascade de la Biche"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Pfützen getarnt sind; der Wasserfall ist nach dem Regen besonders fotogen und laut.",
+                "hu": "Ügyelj a tócsák által álcázott kátyúkra; a vízesés az eső után különösen fotogén és harsogóan hangos.",
+                "ro": "Atenție la gropile mascate de bălți; cascada este deosebit de fotogenică și zgomotoasă după ploaie.",
+                "en": "Watch out for potholes hidden by puddles; the waterfall is particularly photogenic and roaring loudly after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la vallée de Chaudefour",
+                "hu": "Réserve naturelle de la vallée de Chaudefour",
+                "ro": "Réserve naturelle de la valea de Chaudefour",
+                "en": "Réserve naturelle de la vallée de Chaudefour"
+              },
+              "tip_5lang": {
+                "de": "Ein mystischer Ort bei Regen; bleiben Sie im Auto, um die steilen Felswände zu bestaunen, bevor Sie eine kleine Wanderung wagen.",
+                "hu": "Misztikus hely esőben; csodáld meg a meredek sziklafalakat az autóból, mielőtt bevállalnál egy rövidebb túrát.",
+                "ro": "Un loc mistic pe ploaie; rămâneți în mașină pentru a admira pereții de stâncă înainte de a încerca o scurtă drumeție.",
+                "en": "A mystical place in the rain; admire the steep rock walls from the car before venturing out for a small hike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine beeindruckende Winterreise durch das Herz der Auvergne. Wir starten morgens mit Schneeketten im Gepäck auf die schneebedeckten Pässe. Mittags nutzen wir die Heizung im Auto für eine gemütliche Pause zwischen den Stationen. Nachmittags erleben wir das Sancy-Massiv in strahlendem Weiß. Da es um 17:00 Uhr dunkel wird, planen wir die Rückkehr im letzten Licht ein.",
+            "hu": "Lenyűgöző téli utazás az Auvergne szívében. Reggel hólánccal felszerelkezve indulunk a hóval borított hágókra. Délben az autó fűtését kihasználva tartunk pihenőt a látnivalók között. Délután a Sancy-masszívumot ragyogó fehérben csodálhatjuk meg. Mivel 17:00-kor sötétedik, a visszautat az utolsó fényekre időzítjük.",
+            "ro": "O călătorie de iarnă impresionantă prin inima regiunii Auvergne. Pornim dimineața spre trecătorile înzăpezite cu lanțuri în portbagaj. La prânz folosim căldura din mașină pentru o pauză între opriri. După-amiază vedem masivul Sancy în alb strălucitor. Deoarece se întunecă la 17:00, planificăm revenirea.",
+            "en": "An impressive winter journey through the heart of Auvergne. We start in the morning on snow-covered passes with snow chains ready. At noon, we use the car's heater for a cozy break between stops. In the afternoon, we experience the Sancy massif in brilliant white. Since it gets dark at 17:00, we plan our return in the last light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de Vassivière",
+                "hu": "Chapelle Notre-Dame de Vassivière",
+                "ro": "Chapelle Notre-Dame de Vassivière",
+                "en": "Chapelle Notre-Dame de Vassivière"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle im Schnee ist ein magischer Anblick; achten Sie auf die Schneeräumung auf der Zufahrtsstraße für eine sichere Ankunft.",
+                "hu": "A kápolna a hóban varázslatos látvány; a biztonságos érkezés érdekében figyeld az útmenti hókotrást a bekötőúton.",
+                "ro": "Capela în zăpadă este o priveliște magică; atenție la deszăpezirea de pe drumul de acces pentru o sosire în siguranță.",
+                "en": "The chapel in the snow is a magical sight; watch for snow clearance on the access road to ensure a safe arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Super Coaster",
+                "hu": "Super Coaster",
+                "ro": "Super Coaster",
+                "en": "Super Coaster"
+              },
+              "tip_5lang": {
+                "de": "Auch im Winter ein Riesenspaß; bringen Sie Ihre Winterausrüstung direkt aus dem warmen Auto mit zur Bahn für maximalen Komfort.",
+                "hu": "Télen is hatalmas móka; vidd magaddal a téli felszerelésedet közvetlenül a meleg autóból a pályára a maximális kényelemért.",
+                "ro": "O distracție mare chiar și iarna; aduceți echipamentul de iarnă direct din mașina caldă la pistă pentru confort maxim.",
+                "en": "Great fun even in winter; bring your winter gear directly from the warm car to the track for maximum comfort during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Deval'kart",
+                "hu": "Deval'kart",
+                "ro": "Deval'kart",
+                "en": "Deval'kart"
+              },
+              "tip_5lang": {
+                "de": "Die winterlichen Hänge bieten eine tolle Kulisse; parken Sie sicher und genießen Sie die klare, kalte Bergluft bei einer Abfahrt.",
+                "hu": "A téli lejtők nagyszerű hátteret biztosítanak; parkolj le biztonságosan, és élvezd a tiszta, hideg hegyi levegőt egy lesiklás közben.",
+                "ro": "Pantele de iarnă oferă un cadru minunat; parcați în siguranță și bucurați-vă de aerul curat și rece de munte la o coborâre.",
+                "en": "The winter slopes provide a great backdrop; park safely and enjoy the crisp, cold mountain air during a thrilling descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge d'été",
+                "hu": "Luge d'été",
+                "ro": "Luge d'été",
+                "en": "Luge d'été"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier reger Betrieb; nutzen Sie den Komfort Ihres Autos für Pausen zwischen den Fahrten im Schnee.",
+                "hu": "Télen nagy itt a nyüzsgés; használd ki az autód kényelmét a havas kalandok közötti rövid pihenőkre a melegben.",
+                "ro": "Iarna este multă activitate aici; folosiți confortul mașinii pentru pauze între turele prin zăpadă.",
+                "en": "It's busy here in winter; use the comfort of your car for warm breaks between your adventures in the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Puy Ferrand",
+                "hu": "Puy Ferrand",
+                "ro": "Puy Ferrand",
+                "en": "Puy Ferrand"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubende alpine Aussichten; stellen Sie sicher, dass Ihr Auto wintertauglich ist, bevor Sie diese exponierte Höhe ansteuern.",
+                "hu": "Lélegzetelállító alpesi kilátás; győződj meg róla, hogy az autód téliesítve van, mielőtt erre a kitett magasságra indulnál.",
+                "ro": "Vederi alpine uluitoare; asigurați-vă că mașina este echipată corespunzător de iarnă înainte de a urca la această altitudine.",
+                "en": "Breathtaking alpine views; ensure your car is fully winter-ready before heading up to this exposed high altitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade de la Biche",
+                "hu": "Cascade de la Biche",
+                "ro": "Cascade de la Biche",
+                "en": "Cascade de la Biche"
+              },
+              "tip_5lang": {
+                "de": "Eisformationen schmücken den Wasserfall; die Zufahrt kann vereist sein, fahren Sie extrem vorsichtig und nutzen Sie die Motorbremse.",
+                "hu": "Jégképződmények díszítik a vízesést; a bekötőút jeges lehet, vezess rendkívül óvatosan és használd a motorféket.",
+                "ro": "Formațiunile de gheață decorează cascada; drumul poate fi înghețat, conduceți extrem de prudent și folosiți frâna de motor.",
+                "en": "Ice formations decorate the waterfall; the access road may be icy, so drive extremely cautiously and use engine braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Réserve naturelle de la vallée de Chaudefour",
+                "hu": "Réserve naturelle de la vallée de Chaudefour",
+                "ro": "Réserve naturelle de la valea de Chaudefour",
+                "en": "Réserve naturelle de la vallée de Chaudefour"
+              },
+              "tip_5lang": {
+                "de": "Ein weißes Wunderland direkt vor dem Autofenster; genießen Sie die verschneite Pracht des Tals, ohne das warme Fahrzeug zu verlassen.",
+                "hu": "Fehér csodaország közvetlenül az autóablak előtt; élvezd a völgy havas pompáját anélkül, hogy elhagynád a meleg járművet.",
+                "ro": "O țară a minunilor albă chiar în fața ferestrei mașinii; bucurați-vă de splendoarea înzăpezită a văii din interiorul cald.",
+                "en": "A white wonderland right outside the car window; enjoy the valley's snowy splendor without leaving your warm vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

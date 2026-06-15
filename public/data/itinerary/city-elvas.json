@@ -137,6 +137,168 @@
         "hu": "A reggel enyhe emelkedővel indul a történelmi Fernandina-falhoz, ahol Elvas felfedi középkori alaprajzát. A dél környéke a helyi fotótörténeté. A délután a modern művészetet és a hatalmas csillag alakú falakat fedezi fel. Az este végül egy igazán csendes és megnyugtató elvonulást kínál a lenyűgöző történelmi kolostor közelében a teljes nyugalom jegyében.",
         "ro": "Dimineața aduce o urcare ușoară spre Zidul Fernandina, unde Elvas își dezvăluie structura medievală. La prânz explorăm istoria artei fotografice locale. După-amiaza este dedicată artei moderne portugheze și zidurilor vaste în formă de stea. Seara oferă o retragere deosebit de liniștită și relaxantă lângă Mănăstirea istorică, perfectă pentru meditație.",
         "en": "Morning brings a gentle climb to the Fernandina Wall, where Elvas unveils its medieval layout. Midday moves toward local arts and photographic history. The afternoon explores modern Portuguese art and the vast star-shaped walls that protect the city. Evening offers a very quiet and reflective retreat near the historic Convent, ending the walking tour peacefully."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regen auf den historischen Mauern, was die alten Pflastersteine rutschig macht; festes Schuhwerk ist ratsam. Mittags bieten die Museen von Elvas den perfekten trockenen Zufluchtsort für Kulturinteressierte. Am Nachmittag erfordert der Weg zwischen den Bastionen einen stabilen Regenschirm gegen den Wind. Der Abend endet mit dem stimmungsvollen Glanz der nassen Gassen, während Sie in die Wärme Ihrer Unterkunft zurückkehren.",
+            "hu": "Reggel az eső áztatja a történelmi falakat, a macskakövek csúszósak, így vízálló lábbeli és óvatosság szükséges az induláshoz. Délben a város múzeumai nyújtanak tökéletes, száraz menedéket a kultúra kedvelőinek. Délután az erődítmények közötti séta szeles lehet, egy stabil esernyő elengedhetetlen a bástyák felfedezéséhez. Este a városi fények megcsillannak a vizes köveken, különleges hangulatot árasztva a falak között.",
+            "ro": "Dimineața începe cu ploaie pe zidurile istorice, făcând pietrele cubice alunecoase; se recomandă încălțăminte impermeabilă și atenție sporită. La prânz, muzeele din Elvas oferă refugiul uscat perfect pentru iubitorii de cultură. După-amiaza, plimbarea între bastioane necesită o umbrelă rezistentă împotriva vântului de pe deal. Seara se încheie cu strălucirea atmosferică a străzilor ude, în timp ce vă retrageți la căldură.",
+            "en": "The morning begins with rain hitting the historic walls, making the ancient cobblestones slippery; waterproof footwear and caution are advised. At noon, the museums of Elvas provide the perfect dry sanctuary for culture enthusiasts. In the afternoon, the walk between the fortifications requires a sturdy umbrella against the wind. The evening concludes with the atmospheric glow of wet streets reflecting the city lights as you return to your stay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fernandina-Mauer",
+                "hu": "Fernandina-fal",
+                "ro": "Zidul Fernandina",
+                "en": "Fernandina Wall"
+              },
+              "tip_5lang": {
+                "de": "Die Mauer bietet bei Regen eine dramatische Kulisse, doch die Pfade sind rutschig; tragen Sie unbedingt griffige Wanderschuhe und eine Regenjacke.",
+                "hu": "A fal drámai látványt nyújt esőben is, de az ösvények csúszósak lehetnek; viselj tapadós talpú cipőt és vigyél magaddal egy jó esőkabátot.",
+                "ro": "Zidul oferă un decor dramatic pe ploaie, dar potecile sunt alunecoase; purtați neapărat încălțăminte aderentă și o pelerină de ploaie pentru siguranță.",
+                "en": "The wall offers a dramatic backdrop even in the rain, but the paths can be slippery; be sure to wear grippy shoes and bring a quality raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Fotomuseum João Carpinteiro",
+                "hu": "João Carpinteiro Városi Fotómúzeum",
+                "ro": "Muzeul Municipal de Fotografie João Carpinteiro",
+                "en": "João Carpinteiro Municipal Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses Museum als trockenen Stopp; bewundern Sie die Kamerasammlung im Inneren, während draußen der Regen gegen die Fenster prasselt.",
+                "hu": "Használd a múzeumot száraz pihenőként; csodáld meg a régi kamerákat odabent, miközben kint az eső dobol az ablakokon a városnézés közben.",
+                "ro": "Folosiți acest muzeu ca un popas uscat; admirați colecția de aparate foto în interior, în timp ce afară ploaia bate în ferestrele clădirii.",
+                "en": "Use this museum as a dry pitstop; admire the vintage camera collection inside while the rain drums against the windows during your city tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst von Elvas",
+                "hu": "Elvasi Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană din Elvas",
+                "en": "Elvas Contemporary Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen heftigen Regenschauer auszusitzen; die weitläufigen Galerien bieten stundenlangen Schutz und inspirierende moderne Kunst.",
+                "hu": "Ideális hely egy nagyobb zápor átvészelésére; a tágas galériák órákig tartó védelmet és inspiráló modern művészeti élményt kínálnak a látogatónak.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse; galeriile spațioase oferă ore de adăpost și artă modernă inspiratoare în centrul orașului.",
+                "en": "An ideal place to wait out a heavy downpour; the spacious galleries offer hours of shelter and inspiring modern art in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Mauern aus dem 17. Jahrhundert",
+                "hu": "17. századi városfalak",
+                "ro": "Zidurile din secolul al XVII-lea",
+                "en": "17th-century Walls"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den massiven Torbögen, wenn es zu stark regnet, und genießen Sie den Blick auf die neblige Landschaft um Elvas.",
+                "hu": "Keress menedéket a masszív kapuboltozatok alatt, ha túl erősen esne, és élvezd a kilátást Elvas ködös tájaira a bástyák biztonságából.",
+                "ro": "Căutați adăpost sub arcadele masive ale porților dacă plouă prea tare și bucurați-vă de priveliștea peisajului cețos din jurul orașului Elvas.",
+                "en": "Seek shelter under the massive gate arches if the rain gets too heavy, and enjoy the view of the misty landscape surrounding Elvas from the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster São Francisco von Elvas",
+                "hu": "Elvasi São Francisco Kolostor",
+                "ro": "Mănăstirea São Francisco din Elvas",
+                "en": "Convent of São Francisco of Elvas"
+              },
+              "tip_5lang": {
+                "de": "Das Innere des Klosters ist ein friedlicher und trockener Ort zum Abschluss; achten Sie auf den feuchten Boden im Eingangsbereich des Klosters.",
+                "hu": "A kolostor belső tere békés és száraz hely a túra befejezéséhez; ügyelj a nedves padlóra a bejárati részen a látogatásod kezdetén.",
+                "ro": "Interiorul mănăstirii este un loc liniștit și uscat pentru a încheia turul; atenție la podeaua umedă din zona de intrare a complexului religios.",
+                "en": "The interior of the convent is a peaceful and dry place to end your tour; watch out for damp floors in the entrance area of the religious complex."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Elvas ist frisch und oft windig, was warme Schichten und Handschuhe für den Mauerspaziergang unerlässlich macht. Mittags laden die gemütlichen Innenräume der Museen dazu ein, sich bei Kunst und Geschichte aufzuwärmen. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenanlagen am frühen Nachmittag besuchen. Der Abend bringt eine frostige Kälte, die zum Verweilen in den beleuchteten Gassen einlädt.",
+            "hu": "A téli reggel Elvasban friss és gyakran szeles, így a réteges öltözet és a kesztyű elengedhetetlen a várfalakon tett sétához. Délben a múzeumok barátságos belső terei hívogatnak, hogy a művészetek mellett melegedj fel kicsit. Mivel a nap már 17:00 körül lemegy, a kültéri részeket érdemes kora délután bejárni. Az este fagyos hideget hoz, de az kivilágított óváros látványa kárpótol mindenért.",
+            "ro": "Dimineața de iarnă în Elvas este răcoroasă și adesea vântoasă, făcând straturile calde și mănușile esențiale pentru plimbarea pe ziduri. La prânz, interioarele primitoare ale muzeelor vă invită să vă încălziți printre exponate. Deoarece soarele apune în jurul orei 17:00, vizitați zonele exterioare la începutul după-amiezii. Seara aduce un frig pătrunzător, perfect pentru a admira orașul iluminat.",
+            "en": "The winter morning in Elvas is crisp and often windy, making warm layers and gloves essential for your walk along the historic walls. At noon, the cozy museum interiors invite you to warm up while exploring art and history. Since the sun sets early around 17:00, aim to visit the outdoor sites in the early afternoon. The evening brings a frosty chill, making the lit-up old town streets look magical."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fernandina-Mauer",
+                "hu": "Fernandina-fal",
+                "ro": "Zidul Fernandina",
+                "en": "Fernandina Wall"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben im Winter kräftig; tragen Sie eine winddichte Jacke, um die Aussicht auf die Ebene ungestört genießen zu können.",
+                "hu": "A szél télen erősen fújhat itt fent; viselj szélálló kabátot, hogy zavartalanul élvezhesd a síkságra nyíló panorámát a bástyákról.",
+                "ro": "Vântul suflă cu putere aici sus în timpul iernii; purtați o jachetă rezistentă la vânt pentru a admira panorama câmpiei fără disconfort.",
+                "en": "The wind can be biting up here in winter; wear a windproof jacket to enjoy the panoramic views over the plains without getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Fotomuseum João Carpinteiro",
+                "hu": "João Carpinteiro Városi Fotómúzeum",
+                "ro": "Muzeul Municipal de Fotografie João Carpinteiro",
+                "en": "João Carpinteiro Municipal Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um sich aufzuwärmen; die kleinen Ausstellungsräume sind im Winter angenehm temperiert und bieten viel zu entdecken.",
+                "hu": "Kiváló megálló a felmelegedéshez; a kis kiállítótermek télen kellemes hőmérsékletűek és rengeteg érdekességet tartogatnak a látogatóknak.",
+                "ro": "Un popas excelent pentru a vă încălzi; micile săli de expoziție sunt menținute la o temperatură plăcută iarna și oferă multe de descoperit.",
+                "en": "An excellent stop to warm up; the small exhibition rooms are kept at a pleasant temperature in winter and offer plenty of history to discover."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst von Elvas",
+                "hu": "Elvasi Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană din Elvas",
+                "en": "Elvas Contemporary Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden hier im Warmen; das moderne Gebäude ist gut beheizt und bietet eine willkommene Pause von der Winterkälte.",
+                "hu": "Használd ki a déli órákat a melegben; a modern épület jól fűtött, és kellemes pihenőt nyújt a téli hideg elleni védekezés gyanánt.",
+                "ro": "Profitați de orele amiezii înăuntru la căldură; clădirea modernă este bine încălzită și oferă o pauză binemeritată de la frigul iernii.",
+                "en": "Take advantage of the noon hours inside the warmth; the modern building is well-heated and offers a welcome break from the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mauern aus dem 17. Jahrhundert",
+                "hu": "17. századi városfalak",
+                "ro": "Zidurile din secolul al XVII-lea",
+                "en": "17th-century Walls"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um das letzte Tageslicht auf den Steinen zu sehen, bevor die winterliche Dunkelheit Elvas einhüllt.",
+                "hu": "Látogass el ide 16:30 előtt, hogy még lásd az utolsó fényeket a köveken, mielőtt a téli sötétség korán leszállna az elvasi várfalakra.",
+                "ro": "Vizitați acest loc înainte de ora 16:30 pentru a vedea ultima lumină a zilei pe ziduri, înainte ca întunericul de iarnă să cuprindă orașul.",
+                "en": "Visit this spot before 16:30 to catch the last daylight on the stones before the winter darkness quickly envelops the fortifications of Elvas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster São Francisco von Elvas",
+                "hu": "Elvasi São Francisco Kolostor",
+                "ro": "Mănăstirea São Francisco din Elvas",
+                "en": "Convent of São Francisco of Elvas"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich am Ende des Tages warm an, da die Steinmauern des Klosters im Winter kühle Luft speichern; ein Schal ist hier sehr nützlich.",
+                "hu": "A nap végén öltözz fel jól, mert a kolostor vastag kőfalai télen tárolják a hideget; egy meleg sál nagyon hasznos lesz a látogatás során.",
+                "ro": "Îmbrăcați-vă bine la finalul zilei, deoarece zidurile de piatră ale mănăstirii rețin frigul iarna; un fular gros vă va fi de mare folos aici.",
+                "en": "Dress warmly at the end of the day as the stone walls of the convent retain the chill in winter; a warm scarf is very useful for this visit."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Fortim de São Domingosnál a friss reggeli levegőn. Dél körül tekerjen el a kolostor mellett, és merüljön el a nagyszerű erődítményekben. A délutáni pedálozás a régi falakhoz és a déli erődökhöz viszi a látogatót. Az este békésen ér véget a történelmi São Pedro erőd környékén, ahol megpihenhet a fárasztó út után.",
         "ro": "Începeți turul cu bicicleta la Fortim de São Domingos în aerul proaspăt al dimineții. În jurul prânzului, treceți pe lângă mănăstire și marile ziduri. Pedalarea de după-amiază vă duce la vechile ziduri Fernandina și la forturile sudice uimitoare. Seara se încheie deosebit de liniștit și relaxant la faimosul fort istoric São Pedro.",
         "en": "Kick off your cycling tour at Fortim de São Domingos in the fresh morning air. Around noon, ride past the convent and dive into the majestic 17th-century fortifications. Afternoon pedaling takes you to the old Fernandina walls and the impressive southern forts. Evening ends very peacefully at São Pedro, concluding an active and highly rewarding day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen auf dem Fahrrad erfordert Vorsicht auf den rutschigen Kopfsteinpflasterstraßen zu den Forts. Mittags bieten die massiven Mauern des Klosters einen kurzen Schutz vor dem gröbsten Schauer. Am Nachmittag können die unbefestigten Wege um die Außenforts schlammig sein, planen Sie mehr Zeit ein. Der Abend endet früh, da die Sicht bei Regen schnell abnimmt; beenden Sie die Tour vor der Dunkelheit.",
+            "hu": "Az esős reggel a kerékpáron óvatosságot igényel a csúszós macskaköves utakon az erődök felé vezető úton. Délben a kolostor masszív falai nyújtanak rövid menedéket a leghevesebb záporok elől. Délután az erődök körüli föutak sárosak lehetnek, így lassabb haladásra számíts. Az este hamar véget ér, mert a látási viszonyok esőben romlanak; fejezd be a tekerést sötétedés előtt.",
+            "ro": "O dimineață ploioasă pe bicicletă necesită prudență pe drumurile alunecoase cu pietre cubice spre forturi. La prânz, zidurile masive ale mănăstirii oferă un scurt adăpost împotriva celor mai grele averse. După-amiaza, drumurile neasfaltate din jurul forturilor pot fi noroioase; acordați-vă mai mult timp. Seara se încheie devreme, deoarece vizibilitatea scade rapid pe ploaie.",
+            "en": "A rainy morning on the bike requires extra caution on the slippery cobblestone roads leading to the forts. At noon, the massive walls of the convent offer a brief shield from the heaviest showers. In the afternoon, unpaved tracks around the outer forts might be muddy, so expect slower progress. The evening ends early as visibility drops during rainfall; finish your ride before dark for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort São Domingos",
+                "hu": "São Domingos Erőd",
+                "ro": "Fortul São Domingos",
+                "en": "São Domingos Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang zum Fort kann bei Regen schlammig sein; fahren Sie langsam und prüfen Sie Ihre Bremsen, bevor Sie die Rampe hinunterfahren.",
+                "hu": "Az erőd bejárata esőben sáros lehet; haladj lassan és ellenőrizd a fékeket, mielőtt legurulnál a lejtős részeken a bástyák mellett.",
+                "ro": "Accesul la fort poate fi noroios pe ploaie; conduceți încet și verificați frânele înainte de a coborî rampa spre zidurile exterioare.",
+                "en": "The access to the fort can be muddy during rain; ride slowly and check your brakes before descending any ramps near the outer walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster São Francisco von Elvas",
+                "hu": "Elvasi São Francisco Kolostor",
+                "ro": "Mănăstirea São Francisco din Elvas",
+                "en": "Convent of São Francisco of Elvas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Eingang, um Ihr Fahrrad kurz unterzustellen und sich trocken die Fassade des Klosters anzusehen.",
+                "hu": "Használd a bejáratnál lévő fedett részt a bicikli rövid tárolására, és nézd meg szárazon a kolostor homlokzatát a pihenő alatt.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a parca scurt bicicleta și pentru a privi fațada mănăstirii fără a vă uda prea tare.",
+                "en": "Use the covered area at the entrance to briefly park your bike and view the convent's facade while staying dry during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Mauern aus dem 17. Jahrhundert",
+                "hu": "17. századi városfalak",
+                "ro": "Zidurile din secolul al XVII-lea",
+                "en": "17th-century Walls"
+              },
+              "tip_5lang": {
+                "de": "Die Steine an den Stadttoren sind extrem glatt, wenn sie nass sind; steigen Sie im Zweifelsfall kurz ab, um sicher durch die Tore zu kommen.",
+                "hu": "A városkapuknál a kövek rendkívül síkosak, ha nedvesek; kétség esetén inkább szállj le a bringáról a kapukon való biztonságos áthaladáshoz.",
+                "ro": "Pietrele de la porțile orașului sunt extrem de alunecoase când sunt ude; dacă aveți dubii, coborâți de pe bicicletă pentru a trece în siguranță.",
+                "en": "The stones at the city gates are extremely slick when wet; if in doubt, dismount briefly to pass through the gates safely on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Fernandina-Mauer",
+                "hu": "Fernandina-fal",
+                "ro": "Zidul Fernandina",
+                "en": "Fernandina Wall"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig entlang der Mauer, da Pfützen tiefe Schlaglöcher verbergen können; eine gute Regenbrille hilft bei der Sichtwahl der Spur.",
+                "hu": "Óvatosan tekerj a fal mentén, mert a tócsák mély kátyúkat rejthetnek; egy jó szemüveg sokat segít az optimális nyomvonal kiválasztásában.",
+                "ro": "Conduceți cu atenție de-a lungul zidului, deoarece bălțile pot ascunde gropi adânci; o pereche de ochelari de protecție ajută la vizibilitate.",
+                "en": "Ride carefully along the wall as puddles can hide deep potholes; a good pair of cycling glasses helps in choosing the best line in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Mamede",
+                "hu": "São Mamede Erőd",
+                "ro": "Fortul São Mamede",
+                "en": "São Mamede Fort"
+              },
+              "tip_5lang": {
+                "de": "Dieses Fort liegt exponiert; bei starkem Regen und Wind sollten Sie die Fahrzeit minimieren und nur kurz für ein Foto anhalten.",
+                "hu": "Ez az erőd nyitott területen van; heves esőben és szélben érdemes minimalizálni az itt töltött időt és csak egy gyors fotóra megállni.",
+                "ro": "Acest fort este expus; în caz de ploaie torențială și vânt, minimizați timpul petrecut aici și opriți-vă doar scurt pentru o fotografie.",
+                "en": "This fort is quite exposed; during heavy rain and wind, minimize your time here and stop only briefly for a quick photo before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Pedro",
+                "hu": "São Pedro Erőd",
+                "ro": "Fortul São Pedro",
+                "en": "São Pedro Fort"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour zügig ab, da nasse Kleidung auf dem Fahrrad schnell auskühlt; achten Sie auf glatte Kurven am Ende der Strecke.",
+                "hu": "Fejezd be gyorsan a túrát, mert a nedves ruhában hamar áthűlhetsz a bringán; figyelj a csúszós kanyarokra az útvonal végső szakaszán.",
+                "ro": "Încheiați turul rapid, deoarece hainele ude pe bicicletă vă pot răci rapid; atenție la curbele alunecoase de la finalul traseului.",
+                "en": "Finish the tour promptly as wet clothes can lead to a quick chill while cycling; watch out for slick corners at the end of the route."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen auf dem Rad erfordert warme Handschuhe und eine Thermo-Lage, um die zugigen Hügel zu den Forts zu bezwingen. Mittags dient das Kloster als geschützter Ort für eine Pause vom beißenden Wind. Am Nachmittag müssen Sie zügig fahren, da das Tageslicht um 17:00 Uhr schwindet und die Temperaturen dann stark fallen. Der Abend endet in der blauen Stunde mit einem kühlen Ritt zurück ins Zentrum.",
+            "hu": "A hideg téli reggel a kerékpáron meleg kesztyűt és aláöltözetet igényel a huzatos dombok megmászásához az erődök felé. Délben a kolostor védett helyszínként szolgál egy rövid pihenőre a metsző szél elől. Délután tempósan kell haladnod, mert a fények 17:00 körül elfogynak, és a hőmérséklet hirtelen leesik. Az este a kék órában ér véget egy hűvös tekeréssel a központba.",
+            "ro": "O dimineață rece de iarnă pe bicicletă necesită mănuși groase și straturi termice pentru a urca dealurile vântoase spre forturi. La prânz, mănăstirea servește ca loc protejat pentru o pauză de vântul tăios. După-amiaza trebuie să pedalați rapid, deoarece lumina scade la ora 17:00, iar temperaturile coboară brusc. Seara se încheie cu o cursă răcoroasă spre centru.",
+            "en": "A cold winter morning on the bike requires warm gloves and thermal layers to conquer the drafty hills leading to the forts. At noon, the convent serves as a sheltered spot for a break from the biting wind. In the afternoon, you must ride efficiently as daylight fades by 17:00 and temperatures drop sharply then. The evening ends in the blue hour with a brisk ride back to the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort São Domingos",
+                "hu": "São Domingos Erőd",
+                "ro": "Fortul São Domingos",
+                "en": "São Domingos Fort"
+              },
+              "tip_5lang": {
+                "de": "In der Morgensonne ist es hier am kältesten; halten Sie sich in Bewegung, um die Blutzirkulation beim Erkunden der Außenmauern anzuregen.",
+                "hu": "A reggeli órákban itt a leghidegebb; maradj mozgásban, hogy serkentsd a vérkeringésed, miközben felfedezed a külső várfalak környékét.",
+                "ro": "Este cel mai frig aici în orele dimineții; rămâneți în mișcare pentru a stimula circulația în timp ce explorați zidurile exterioare.",
+                "en": "It is coldest here in the morning hours; keep moving to stimulate circulation while exploring the outer walls and the fort's perimeter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster São Francisco von Elvas",
+                "hu": "Elvasi São Francisco Kolostor",
+                "ro": "Mănăstirea São Francisco din Elvas",
+                "en": "Convent of São Francisco of Elvas"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern halten die Kälte; machen Sie nur eine kurze Pause und nutzen Sie die sonnigen Stellen im Hof, um sich ein wenig aufzuwärmen.",
+                "hu": "A kőfalak tartják a hideget; tarts csak rövid pihenőt, és keresd az udvar napsütötte részeit, hogy egy kicsit felmelegedhess a bringázás közben.",
+                "ro": "Zidurile de piatră rețin frigul; faceți doar o pauză scurtă și căutați locurile însorite din curte pentru a vă încălzi puțin înainte de plecare.",
+                "en": "The stone walls retain the cold; take only a short break and look for sunny spots in the courtyard to warm up a bit during your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mauern aus dem 17. Jahrhundert",
+                "hu": "17. századi városfalak",
+                "ro": "Zidurile din secolul al XVII-lea",
+                "en": "17th-century Walls"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet beim Fahren durch die Tore; eine Sonnenbrille ist trotz Kälte für die Sicherheit auf dem Rad wichtig.",
+                "hu": "A lágy téli napsütés vakíthat a kapukon való áthaladáskor; a napszemüveg a hideg ellenére is fontos a biztonságos kerékpározáshoz.",
+                "ro": "Soarele jos de iarnă poate fi orbitor la trecerea prin porți; ochelarii de soare sunt importanți pentru siguranță, în ciuda temperaturilor scăzute.",
+                "en": "The low winter sun can be blinding when riding through the city gates; sunglasses are important for safety despite the cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Fernandina-Mauer",
+                "hu": "Fernandina-fal",
+                "ro": "Zidul Fernandina",
+                "en": "Fernandina Wall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht, die es oft nur im Winter gibt, aber achten Sie auf gefrorene Stellen in den schattigen Bereichen der Mauer.",
+                "hu": "Élvezd a tiszta kilátást, ami gyakran csak télen ilyen szép, de ügyelj a fagyos foltokra a várfal árnyékosabb, északra néző részein.",
+                "ro": "Bucurați-vă de vizibilitatea clară specifică iernii, dar fiți atenți la porțiunile înghețate din zonele umbrite ale zidului Fernandina.",
+                "en": "Enjoy the clear views often only possible in winter, but watch out for frosty patches in the shaded areas along the Fernandina wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Mamede",
+                "hu": "São Mamede Erőd",
+                "ro": "Fortul São Mamede",
+                "en": "São Mamede Fort"
+              },
+              "tip_5lang": {
+                "de": "Hier oben ist es sehr windig; stellen Sie sicher, dass Ihre Ohren und Ihr Hals gut geschützt sind, wenn Sie gegen den Winterwind radeln.",
+                "hu": "Itt fent nagyon szeles az idő; győződj meg róla, hogy a füleid és a nyakad jól védve vannak, amikor a téli szélben tekersz az erőd felé.",
+                "ro": "Este foarte vânt aici sus; asigurați-vă că urechile și gâtul sunt bine protejate când pedalați împotriva vântului rece de iarnă.",
+                "en": "It is very windy up here; make sure your ears and neck are well-protected when cycling against the cold winter wind towards the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Pedro",
+                "hu": "São Pedro Erőd",
+                "ro": "Fortul São Pedro",
+                "en": "São Pedro Fort"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich, die Tour vor 17:00 Uhr zu beenden, da die Temperaturen rapide sinken, sobald die Sonne hinter dem Horizont verschwindet.",
+                "hu": "Igyekezz 17:00 előtt befejezni a túrát, mert a hőmérséklet gyorsan zuhan, amint a nap eltűnik a látóhatár mögött az Alentejo-síkságon.",
+                "ro": "Grăbiți-vă să terminați turul înainte de ora 17:00, deoarece temperaturile scad rapid imediat ce soarele dispare după orizont.",
+                "en": "Hurry to finish the tour before 17:00, as temperatures drop rapidly as soon as the sun disappears behind the horizon on the plains."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autózás a nagyszerű 17. századi falaknál kezdődik, majd a stratégiai São Domingos erőd felé veszi az irányt. A dél tökéletes a medencénél való hűsölésre. A délután további izgalmas katonai történelmet tár fel a masszív São Mamede erődítményben. Az este végül a város kiváló kortárs művészeti múzeumában ér véget kulturális feltöltődéssel.",
         "ro": "Plimbarea cu mașina începe la zidurile grandioase înainte de a ajunge rapid la fortul strategic São Domingos. Prânzul este absolut perfect pentru a vă răcori la piscina locală. După-amiaza descoperă mai multă istorie militară fascinantă la impresionantul fort São Mamede. Seara se încheie cultural la muzeul de artă contemporană din centrul orașului.",
         "en": "Your drive begins at the grand 17th-century walls before hopping directly to the strategic São Domingos fort. Midday is perfect for visiting the southern forts and cooling off at the family pool. The afternoon uncovers more incredible military history at São Mamede. Evening concludes wonderfully at the contemporary art museum, full of inspiration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen im Auto bietet Komfort, während Sie die weitläufigen Befestigungsanlagen von Elvas erkunden. Mittags minimieren kurze Wege von den Parkplätzen zu den Museen den Kontakt mit dem Regen. Am Nachmittag genießen Sie die Panoramafahrt entlang der Außenmauern, wobei die Wischer im Takt der historischen Entdeckungen arbeiten. Der Abend endet sicher bei vorsichtiger Fahrt auf den nassen, abschüssigen Straßen.",
+            "hu": "Az esős reggel az autóban kényelmet nyújt, miközben Elvas kiterjedt erődrendszerét fedezed fel. Délben a parkolóktól a múzeumokig tartó rövid séták minimalizálják az esővel való érintkezést. Délután élvezd a panorámautat a külső falak mentén, miközben az ablaktörlők a történelmi felfedezések ütemére dolgoznak. Az este biztonságosan ér véget, ha óvatosan vezetsz a vizes, lejtős utcákon.",
+            "ro": "O dimineață ploioasă în mașină oferă confort în timp ce explorați sistemul extins de fortificații din Elvas. La prânz, distanțele scurte de la parcări la muzee minimizează contactul cu ploaia. După-amiaza, bucurați-vă de drumul panoramic de-a lungul zidurilor exterioare, cu ștergătoarele lucrând în ritmul descoperirilor. Seara se încheie în siguranță cu o condus atent pe străzile ude.",
+            "en": "A rainy morning in the car provides comfort while you explore the extensive fortification system of Elvas. At noon, short walks from parking lots to the museums minimize contact with the rain. In the afternoon, enjoy the panoramic drive along the outer walls, with wipers working to the rhythm of your discoveries. The evening ends safely with careful driving on the wet, sloping streets of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mauern aus dem 17. Jahrhundert",
+                "hu": "17. századi városfalak",
+                "ro": "Zidurile din secolul al XVII-lea",
+                "en": "17th-century Walls"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an den Stadttoren, um die Architektur der Mauern bei Regen aus der Nähe zu bewundern, ohne durchnässt zu werden.",
+                "hu": "Parkolj közvetlenül a városkapuknál, hogy esőben is közelről megcsodálhasd a falak építészetét anélkül, hogy teljesen eláznál a séta közben.",
+                "ro": "Parcați direct lângă porțile orașului pentru a admira arhitectura zidurilor pe ploaie de aproape, fără a vă uda excesiv în timpul vizitei.",
+                "en": "Park directly near the city gates to admire the architecture of the walls up close in the rain without getting soaked during your short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Domingos",
+                "hu": "São Domingos Erőd",
+                "ro": "Fortul São Domingos",
+                "en": "São Domingos Fort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Aussichtspunkt; bei starkem Regen bietet das Fenster einen gerahmten Blick auf die nebligen Bastionen des Forts.",
+                "hu": "Használd az autót kilátópontként; heves esőben az ablak keretezett kilátást nyújt az erőd ködbe burkolózó bástyáira a dombtetőn.",
+                "ro": "Folosiți mașina ca punct de observație; în caz de ploaie torențială, fereastra oferă o vedere înrămată asupra bastioanelor cețoase ale fortului.",
+                "en": "Use your car as a lookout point; during heavy rain, the window provides a framed view of the fort's misty bastions on the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Pedro",
+                "hu": "São Pedro Erőd",
+                "ro": "Fortul São Pedro",
+                "en": "Fort São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen rutschig sein; achten Sie beim Aussteigen auf Pfützen und festen Stand auf dem unebenen Festungsgrund.",
+                "hu": "A parkoló esőben csúszós lehet; kiszálláskor ügyelj a tócsákra és a stabil léptekre az erődítmény egyenetlen talaján a bástyák mellett.",
+                "ro": "Parcarea poate fi alunecoasă pe ploaie; la coborâre, atenție la bălți și asigurați-vă un sprijin stabil pe terenul denivelat al fortului.",
+                "en": "The parking area can be slick in the rain; watch out for puddles and ensure firm footing on the uneven ground near the fortification walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad José Vicente Abreu",
+                "hu": "José Vicente Abreu Uszoda",
+                "ro": "Piscina José Vicente Abreu",
+                "en": "José Vicente Abreu Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze Pause im Warmen; genießen Sie das feuchte Element lieber kontrolliert im Innenbereich, statt draußen im Regen.",
+                "hu": "Jó hely egy rövid szünetre a melegben; élvezd a vizes elemet inkább kontrolláltan a beltérben, ahelyett, hogy kint áznál az esőben.",
+                "ro": "Un loc bun pentru o scurtă pauză la căldură; bucurați-vă de apă mai degrabă în interior, în mod controlat, decât afară în ploaia rece.",
+                "en": "A good spot for a brief break in the warmth; enjoy the water element in a controlled indoor environment instead of out in the cold rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Mamede",
+                "hu": "São Mamede Erőd",
+                "ro": "Fortul São Mamede",
+                "en": "São Mamede Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Fort kann bei Regen anspruchsvoll sein; fahren Sie langsam und achten Sie auf abfließendes Wasser auf der Fahrbahn.",
+                "hu": "Az erődhöz vezető felhajtó esőben tartogathat kihívásokat; vezess lassan és figyelj az úttesten átfolyó esővízre a kanyarokban.",
+                "ro": "Urcarea spre fort poate fi dificilă pe ploaie; conduceți încet și fiți atenți la șuvoaiele de apă de pe carosabil în timpul urcării.",
+                "en": "The drive up to the fort can be challenging in the rain; drive slowly and watch out for runoff water crossing the road during the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst von Elvas",
+                "hu": "Elvasi Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană din Elvas",
+                "en": "Elvas Contemporary Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, da es in der Nähe gute Parkmöglichkeiten gibt, die einen fast trockenen Zugang zum Museum ermöglichen.",
+                "hu": "Itt fejezd be a napot, mert a közelben jó parkolási lehetőségek vannak, amik szinte teljesen száraz bejutást tesznek lehetővé a múzeumba.",
+                "ro": "Încheiați ziua aici, deoarece există opțiuni bune de parcare în apropiere, permițând un acces aproape uscat în clădirea muzeului.",
+                "en": "End your day here, as there are good parking options nearby that allow for almost dry access to the museum building during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen im beheizten Auto ist der beste Weg, um die frische Brise von Elvas zu genießen. Mittags sorgen kurze Wege von geschützten Parkplätzen dafür, dass Sie die Kälte kaum spüren, während Sie die historischen Stätten besuchen. Das goldene Licht am frühen Nachmittag ist perfekt für Fotos, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend lädt zu einer gemütlichen Fahrt durch die festlich beleuchteten Straßen ein.",
+            "hu": "A téli reggel a fűtött autóban a legjobb módja annak, hogy élvezd Elvas friss levegőjét a hideg szél ellenére. Délben a védett parkolóktól mért rövid távolságok biztosítják, hogy alig érezd a hideget a történelmi helyszínek látogatása közben. A kora délutáni aranyfények tökéletesek a fotózáshoz, mielőtt a nap 17:00 körül lemegy. Az este hívogató egy hangulatos autózásra a kivilágított utcákon.",
+            "ro": "O dimineață de iarnă în mașina încălzită este cea mai bună modalitate de a vă bucura de aerul proaspăt din Elvas fără a dârdâi de frig. La prânz, distanțele scurte de la parcările protejate asigură un confort termic sporit în timpul vizitelor. Lumina aurie de după-amiază este perfectă pentru fotografii înainte de apusul de la ora 17:00. Seara vă invită la o plimbare cu mașina pe străzile iluminate.",
+            "en": "A winter morning in a heated car is the best way to enjoy the crisp Elvas breeze without catching a chill. At noon, short distances from sheltered parking spots ensure you stay warm while visiting the historic sites. The golden early afternoon light is perfect for photography before the sun sets around 17:00. The evening invites you for a cozy drive through the beautifully lit historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mauern aus dem 17. Jahrhundert",
+                "hu": "17. századi városfalak",
+                "ro": "Zidurile din secolul al XVII-lea",
+                "en": "17th-century Walls"
+              },
+              "tip_5lang": {
+                "de": "Die Mauern sind im tiefen Licht der Wintersonne besonders fotogen; nutzen Sie den Parkplatz direkt an den Befestigungen für einen schnellen Halt.",
+                "hu": "A falak különösen fotogének a téli nap alacsony állásánál; használd a közvetlenül az erődítmények mellett lévő parkolót egy gyors megállóhoz.",
+                "ro": "Zidurile sunt extrem de fotogenice în lumina joasă a soarelui de iarnă; folosiți parcarea direct lângă fortificații pentru o oprire rapidă.",
+                "en": "The walls are especially photogenic in the low winter sun; use the parking area directly by the fortifications for a quick and warm stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Domingos",
+                "hu": "São Domingos Erőd",
+                "ro": "Fortul São Domingos",
+                "en": "Fort São Domingos"
+              },
+              "tip_5lang": {
+                "de": "Hier oben ist es im Winter oft sehr windig; genießen Sie den weiten Blick auf die Alentejo-Ebene am besten direkt aus dem warmen Fahrzeug.",
+                "hu": "Itt fent télen gyakran szeles az idő; élvezd az Alentejo-síkságra nyíló pazar kilátást leginkább közvetlenül a meleg autóból a dombtetőn.",
+                "ro": "Este adesea vânt aici sus iarna; bucurați-vă de vederea largă asupra câmpiei Alentejo cel mai bine direct din vehiculul încălzit.",
+                "en": "It is often very windy up here in winter; enjoy the wide view over the Alentejo plains best directly from the warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Pedro",
+                "hu": "Fort São Pedro",
+                "ro": "Fortul São Pedro",
+                "en": "Fort São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für klare Kontraste an den Bastionen; parken Sie nah am Eingang, um die Kältezeit außerhalb des Wagens kurz zu halten.",
+                "hu": "A téli nap éles kontrasztokat fest a bástyákra; parkolj közel a bejárathoz, hogy minimalizáld az autón kívül töltött időt a hidegben.",
+                "ro": "Soarele de iarnă creează contraste clare pe bastioane; parcați aproape de intrare pentru a minimiza timpul petrecut afară în frig.",
+                "en": "The winter sun creates sharp contrasts on the bastions; park close to the entrance to keep your time outside in the cold minimal."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad José Vicente Abreu",
+                "hu": "José Vicente Abreu Uszoda",
+                "ro": "Piscina José Vicente Abreu",
+                "en": "José Vicente Abreu Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich kurz aufzuwärmen; die feuchte Wärme im Inneren ist im Winter eine willkommene Abwechslung zur trockenen Heizungsluft.",
+                "hu": "Ideális hely egy kis felmelegedéshez; a benti párás meleg télen kellemes felüdülés a kinti hideg szél után a városnézés közben.",
+                "ro": "Un loc ideal pentru o scurtă încălzire; căldura umedă din interior este o schimbare binevenită față de frigul de afară în timpul iernii.",
+                "en": "An ideal place for a quick warm-up; the humid warmth inside is a welcome change from the cold winter wind during your sightseeing tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort São Mamede",
+                "hu": "São Mamede Erőd",
+                "ro": "Fortul São Mamede",
+                "en": "São Mamede Fort"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort vor 16:30 Uhr, um die Schatten der Bastionen im letzten Tageslicht zu sehen, bevor die Kälte der Dämmerung einsetzt.",
+                "hu": "Látogass el az erődhöz 16:30 előtt, hogy lásd a bástyák árnyékait az utolsó fényben, mielőtt a szürkületi hideg beállna az Alentejo-síkságon.",
+                "ro": "Vizitați fortul înainte de 16:30 pentru a vedea umbrele bastioanelor în ultima lumină, înainte de instalarea frigului de la amurg.",
+                "en": "Visit the fort before 16:30 to see the shadows of the bastions in the last daylight before the twilight chill sets in over the plains."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst von Elvas",
+                "hu": "Elvasi Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană din Elvas",
+                "en": "Elvas Contemporary Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im gut beheizten Museum; der Kontrast zwischen moderner Kunst und winterlicher Kälte draußen ist besonders reizvoll.",
+                "hu": "Fejezd be a túrát a jól fűtött múzeumban; a modern művészet és a kinti téli hideg közötti kontraszt különösen élvezetes élményt nyújt.",
+                "ro": "Încheiați turul în muzeul bine încălzit; contrastul dintre arta modernă și frigul de afară este o experiență deosebit de plăcută.",
+                "en": "Finish your tour in the well-heated museum; the contrast between modern art and the winter cold outside makes for a very pleasant experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

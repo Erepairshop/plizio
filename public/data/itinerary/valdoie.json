@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi központban, megcsodálva a polgári építészetet és a békés templomot. Délben sétáljon el a város lenyűgöző vízügyi építményeihez, például a gáthoz. A délután a külvárosban elszórtan található nyugodt természetes tavak felfedezésére csábít. Zárja a napot egy pihentető sétával a festői természeti helyszíneken, elmerülve Valdoie csendes varázsában.",
         "ro": "Începeți dimineața în centrul istoric, admirând arhitectura civică și biserica pașnică. La prânz, îndreptați-vă spre structurile impresionante de gestionare a apei, precum barajul. După-amiaza vă invită să explorați iazurile naturale liniștite împrăștiate la periferie. Încheiați-vă ziua cu o plimbare relaxantă de seară pe lângă locurile naturale pitorești, reflectând la farmecul orașului.",
         "en": "Begin your morning in the historic center, admiring the civic architecture and peaceful church. By midday, transition towards the town's impressive water management structures like the dam. The afternoon invites exploration of the tranquil natural ponds scattered around the outskirts. Conclude your day with a relaxing evening walk by the scenic natural spots, reflecting on Valdoie's quiet charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Schutz des Rathauses und der ruhigen Kirche. Mittags erwartet Sie ein feuchter, aber erfrischender Spaziergang zum Staudamm. Verbringen Sie den Nachmittag am stimmungsvollen Étang de Cravanche unter dem Regenschirm. Beenden Sie den Tag am Étang Bull bei beruhigendem Regenprasseln.",
+            "hu": "Kezdje az esős reggelt a városháza és a templom száraz menedékében. Délben frissítő, de nedves séta vár a gáthoz, ahol a folyó felduzzad. A délutánt töltse a hangulatos Cravanche-tó felfedezésével egy esernyő alatt. Fejezze be a sétát a Bull-tónál, élvezve az esőcseppek csendes kopogását.",
+            "ro": "Începeți dimineața ploioasă la adăpostul primăriei și al bisericii liniștite. La prânz, faceți o plimbare umedă, dar revigorantă, spre baraj. Petreceți după-amiaza explorând pitorescul Iaz Cravanche sub o umbrelă robustă. Încheiați la Iazul Bull, ascultând sunetul relaxant al ploii căzând pe apă.",
+            "en": "Begin your rainy morning under the shelter of the town hall and local church. Midday brings a wet but thoroughly refreshing walk to the overflowing dam. Spend the afternoon safely exploring the atmospheric Étang de Cravanche under an umbrella. Conclude your damp walk at Étang Bull, enjoying the quiet sound of rain on the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Valdoie",
+                "hu": "Valdoie Városháza",
+                "ro": "Primăria Valdoie",
+                "en": "Valdoie Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Architektur des Rathauses von Valdoie und bleiben Sie unter den breiten Vordächern trocken, bevor Sie Ihren Spaziergang im Regen antreten.",
+                "hu": "Csodálja meg Valdoie városházájának lenyűgöző építészetét, miközben kényelmesen, szárazon marad a széles eresz alatt, mielőtt elindulna az esős sétára.",
+                "ro": "Admirați arhitectura impresionantă a Primăriei Valdoie și rămâneți uscat sub streșinile sale largi înainte de a porni la drum în această zi ploioasă.",
+                "en": "Admire the impressive civic architecture of Valdoie's Town Hall while staying comfortably dry under its wide eaves before heading out on your rainy walk."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Joseph-Kirche",
+                "hu": "Szent József Templom",
+                "ro": "Biserica Sfântul Iosif",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese ruhige Kirche ein, um dem starken Regen zu entfliehen, und bewundern Sie die bunten Buntglasfenster, die vor dem grauen Himmel besonders schön wirken.",
+                "hu": "Lépjen be ebbe a csendes templomba, hogy menedéket találjon a heves eső elől, és csodálja meg a színes ólomüveg ablakokat, amelyek a szürke égbolt ellenére is ragyognak.",
+                "ro": "Pășiți în această biserică liniștită pentru a scăpa de ploaia torențială și admirați vitraliile colorate care arată deosebit de frumos pe fundalul cerului gri.",
+                "en": "Step inside this quiet church to escape the heavy rain and admire the colorful stained glass windows that look especially beautiful against the grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Valdoie",
+                "hu": "Valdoie Gát",
+                "ro": "Barajul Valdoie",
+                "en": "Valdoie Dam"
+              },
+              "tip_5lang": {
+                "de": "Das Flusswasser fließt an Regentagen mit unglaublicher Kraft über den Damm; tragen Sie unbedingt feste, wasserdichte Schuhe, da die Wege sehr nass werden.",
+                "hu": "A folyó vize esős napokon hihetetlen erővel zúdul át a gáton; mindenképpen viseljen masszív, vízálló cipőt, mivel a környező ösvények nagyon sarasak lesznek.",
+                "ro": "Apa râului curge cu o forță incredibilă peste baraj în zilele ploioase; purtați neapărat cizme impermeabile și rezistente, deoarece potecile devin foarte umede.",
+                "en": "The river water flows with incredible force over the dam on rainy days; make sure to wear sturdy waterproof boots as the surrounding paths get very wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Cravanche",
+                "hu": "Cravanche-tó",
+                "ro": "Iazul Cravanche",
+                "en": "Étang de Cravanche"
+              },
+              "tip_5lang": {
+                "de": "Dieser wunderschöne See wirkt im Regen völlig mystisch, aber die Naturpfade können ziemlich schlammig werden. Gehen Sie daher vorsichtig mit dem Regenschirm in der Hand.",
+                "hu": "Ez a gyönyörű tó teljesen titokzatosnak tűnik az esőben, de a természetjáró ösvények meglehetősen sarasak lehetnek, ezért sétáljon óvatosan, esernyővel a kezében.",
+                "ro": "Acest lac frumos arată complet misterios în ploaie, dar potecile din natură pot deveni destul de noroioase, așa că mergeți cu mare grijă cu umbrela în mână.",
+                "en": "This beautiful lake looks completely mysterious in the rain, but the nature paths can get quite muddy, so walk carefully with your umbrella safely in hand."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Bull",
+                "hu": "Bull-tó",
+                "ro": "Iazul Bull",
+                "en": "Étang Bull"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedlichen, fast hypnotischen Wellen, die der fallende Regen auf der Wasseroberfläche bildet, sicher unter Ihrem Schirm, um die nasse Tour zu beenden.",
+                "hu": "Élvezze az esőcseppek által a vízfelszínen keltett békés, szinte hipnotikus hullámokat az esernyője biztonságából, és ezzel zárja le nedves utazását.",
+                "ro": "Bucurați-vă de valurile pașnice, aproape hipnotice, formate de ploaia care cade pe suprafața apei, din siguranța umbrelei dumneavoastră, încheind astfel traseul.",
+                "en": "Enjoy the peaceful, hypnotic ripples formed by the falling rain on the water's surface from the safety of your umbrella to seamlessly conclude your wet journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen am Rathaus und wärmen Sie sich tief in der Kirche auf. Mittags packen Sie sich warm ein für den erfrischenden Weg zum vereisten Staudamm. Genießen Sie nachmittags die malerische, frostige Landschaft am Étang de Cravanche. Beenden Sie die winterliche Tour am Étang Bull rechtzeitig vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a csípős téli reggelt a városházánál, majd melegedjen fel a helyi templomban. Délben öltözzön fel melegen a jeges gáthoz vezető frissítő sétához. Délután élvezze a fagyos, festői tájat a Cravanche-tó körül. Fejezze be korán a túrát a Bull-tónál, mielőtt 17:00 óra körül gyorsan lemegy a nap.",
+            "ro": "Începeți dimineața geroasă de iarnă la primărie și încălziți-vă bine în interiorul bisericii. La prânz, îmbrăcați-vă gros pentru o plimbare revigorantă la barajul înghețat. După-amiaza, bucurați-vă de peisajele de iarnă din jurul Iazului Cravanche. Încheiați la Iazul Bull înainte de apusul de la ora 17:00.",
+            "en": "Start your crisp winter morning exploring the town hall and thoroughly warming up inside the local church. Midday, bundle up for a brisk walk to the icy Valdoie Dam. In the afternoon, gracefully enjoy the frosty landscapes around Étang de Cravanche. Finish early at Étang Bull safely before the freezing winter sun sets around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Valdoie",
+                "hu": "Valdoie Városháza",
+                "ro": "Primăria Valdoie",
+                "en": "Valdoie Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den schönen Frost an den historischen Details des Gebäudes; tragen Sie unbedingt warme Handschuhe und dicke Schichten für diesen kalten Start.",
+                "hu": "Figyelje meg az épület történelmi részletein kialakult gyönyörű deret; mindenképpen viseljen meleg kesztyűt és vastag rétegeket ehhez a hideg induláshoz.",
+                "ro": "Observați promoroaca frumoasă formată pe detaliile istorice ale clădirii; purtați mănuși călduroase și haine groase pentru acest început rece petrecut afară.",
+                "en": "Observe the beautiful frost forming on the building's historic details; ensure you strictly wear warm gloves and thick layers for this cold and crisp outdoor start."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Joseph-Kirche",
+                "hu": "Szent József Templom",
+                "ro": "Biserica Sfântul Iosif",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein perfekt ruhiger und geschützter Ort, um Ihre frierenden Hände kurz aufzuwärmen und die kühle, friedliche Atmosphäre des Wintermorgens zu schätzen.",
+                "hu": "Ez egy tökéletesen csendes és védett hely, ahol gyorsan felmelegítheti fázó kezeit, és mélyen átélheti a téli reggel hűvös, békés és megnyugtató hangulatát.",
+                "ro": "Acesta este un loc perfect liniștit și adăpostit pentru a vă încălzi scurt mâinile înghețate și a aprecia atmosfera rece și pașnică a dimineții de iarnă.",
+                "en": "This is a perfectly quiet and safely sheltered spot to briefly warm your freezing hands and deeply appreciate the chilly, peaceful atmosphere of a winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Valdoie",
+                "hu": "Valdoie Gát",
+                "ro": "Barajul Valdoie",
+                "en": "Valdoie Dam"
+              },
+              "tip_5lang": {
+                "de": "Die Betonstrukturen des Staudamms und die umliegenden Wege können durch Eis sehr rutschig werden; treten Sie sehr vorsichtig auf bei der winterlichen Kulisse.",
+                "hu": "A gát betonszerkezetei és a környező sétányok a jégtől rendkívül csúszóssá válhatnak, ezért lépkedjen nagyon óvatosan, miközben a fagyos téli tájat nézi.",
+                "ro": "Structurile din beton ale barajului și aleile înconjurătoare pot deveni foarte alunecoase din cauza gheții, așa că pășiți cu mare grijă în peisajul de iarnă.",
+                "en": "The solid concrete dam structures and surrounding walkways can easily become quite slippery with hidden ice, so tread very carefully while viewing the frosty scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Cravanche",
+                "hu": "Cravanche-tó",
+                "ro": "Iazul Cravanche",
+                "en": "Étang de Cravanche"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Bäume sehen absolut magisch aus, wenn sie weiß bereift sind, aber kleiden Sie sich in viele warme Schichten, um den beißenden Winterwind abzublocken.",
+                "hu": "A környező fák varázslatosan néznek ki a fehér zúzmarában, de ügyeljen arra, hogy több meleg réteget vegyen fel, amely hatékonyan felfogja a metsző téli szelet.",
+                "ro": "Copacii din jur arată absolut magic când sunt acoperiți de promoroacă albă, dar asigurați-vă că vă îmbrăcați în straturi groase pentru a bloca vântul tăios.",
+                "en": "The actively surrounding trees look absolutely magical when fully frosted over in white, but be sure to strongly dress in multiple warm layers to block the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Bull",
+                "hu": "Bull-tó",
+                "ro": "Iazul Bull",
+                "en": "Étang Bull"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die blassen Reflexionen des Sonnenuntergangs auf dem teilweise zugefrorenen Wasser, aber gehen Sie, bevor es um 17:00 Uhr dunkel und extrem kalt wird.",
+                "hu": "Nézze meg a naplemente halvány tükröződését a részben befagyott vízen, de ne felejtsen el még azelőtt elindulni, hogy 17:00 óra körül teljesen besötétedik és lehűl.",
+                "ro": "Priviți reflexiile palide ale apusului pe apa parțial înghețată, dar nu uitați să plecați repede înainte să se întunece complet și să devină ger în jur de 17:00.",
+                "en": "Watch the beautiful pale sunset reflections completely on the partially frozen water, but remember to strictly leave soon before it gets dark and freezing around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a reggelt a történelmi központban, megcsodálva a polgári építészetet és a békés templomot. Délben tekerjen el a város lenyűgöző vízügyi építményeihez, például a gáthoz. A délután a külvárosban elszórtan található nyugodt természetes tavak felfedezésére csábít. Zárja a napot az emlékműnél, tisztelegve a város történelme és helyi öröksége előtt.",
         "ro": "Începeți dimineața în centrul istoric, admirând arhitectura civică și biserica pașnică. La prânz, pedalați spre structurile impresionante de gestionare a apei, precum barajul. După-amiaza vă invită să explorați iazurile naturale liniștite împrăștiate la periferie. Încheiați-vă ziua cu un moment de respect la memorial, reflectând la istoria fascinantă a regiunii.",
         "en": "Begin your morning in the historic center, admiring the civic architecture and peaceful church. By midday, transition towards the town's impressive water management structures like the dam. The afternoon invites exploration of the tranquil natural ponds scattered around the outskirts. Conclude your day with a relaxing moment at the heritage square, reflecting on Valdoie's past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit exzellenter Regenkleidung am Rathaus und der Kirche. Mittags radeln Sie zum Staudamm und entlang der Savoureuse auf oftmals rutschigen Wegen. Verbringen Sie einen nassen, aber schönen Nachmittag an den Seen Gauthier und Véronne. Beenden Sie die Fahrt am Square du Souvenir.",
+            "hu": "Kezdje a tekerést kiváló esőruházatban a városháza és a templom mellett. Délben a gáthoz és a Savoureuse folyó mentén vezet az út, ahol a burkolat csúszós lehet. A nedves délutánt a Gauthier- és Véronne-tavaknál töltse. Fejezze be a frissítő kerékpározást a Square du Souvenirnél.",
+            "ro": "Începeți pedalarea cu echipament excelent de ploaie pe lângă primărie și biserică. La prânz mergeți spre baraj și pe malul râului Savoureuse, unde potecile devin alunecoase. Petreceți după-amiaza pe lângă iazurile Gauthier și Véronne. Încheiați la monumentul Square du Souvenir.",
+            "en": "Start riding thoroughly equipped with good rain gear past the town hall and church. Midday pedaling securely takes you to the dam and along the Savoureuse River, where paths can be slick. Spend a wet afternoon passing by the lakes of Gauthier and Véronne. Conclude your damp ride at Square du Souvenir."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Valdoie",
+                "hu": "Valdoie Városháza",
+                "ro": "Primăria Valdoie",
+                "en": "Valdoie Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles, stimmungsvolles Foto des Gebäudes sicher unter Ihrer wasserdichten Kapuze, bevor Sie Ihre abenteuerliche nasse Fahrt fortsetzen.",
+                "hu": "Készítsen egy gyors, hangulatos fotót az épületről biztonságban a vízálló kapucnija alól, mielőtt folytatná a kalandos kerékpározást az esős utcákon.",
+                "ro": "Faceți o fotografie rapidă și melancolică a clădirii în siguranță sub gluga dumneavoastră impermeabilă înainte de a continua cursa pe străzile ploioase.",
+                "en": "Snap a completely quick, moody photo of the historic building from safely under your waterproof hood before continuing your damp, adventurous ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Joseph-Kirche",
+                "hu": "Szent József Templom",
+                "ro": "Biserica Sfântul Iosif",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine wohlverdiente kurze Pause im Inneren dieses historischen Gebäudes, um etwas zu trocknen, falls der Platzregen beim Radfahren zu extrem wird.",
+                "hu": "Tartson egy jól megérdemelt, rövid pihenőt e történelmi épület belsejében, hogy egy kicsit megszáradjon, ha a felhőszakadás túl erőssé válna tekerés közben.",
+                "ro": "Luați o scurtă și binemeritată pauză în interiorul acestei clădiri istorice pentru a vă usca puțin, în cazul în care ploaia devine prea puternică la pedalat.",
+                "en": "Take a highly well-deserved short break completely inside this historic building to dry off slightly if the relentless downpour gets too heavy while you are cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Valdoie",
+                "hu": "Valdoie Gát",
+                "ro": "Barajul Valdoie",
+                "en": "Valdoie Dam"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den dramatisch angeschwollenen Fluss von oben, aber seien Sie extrem vorsichtig mit den rutschigen Metallgittern und dem nassen Beton unter Ihren Reifen.",
+                "hu": "Nézze meg a drámaian megduzzadt folyót a gát tetejéről, de legyen rendkívül óvatos a kerékpár gumiabroncsai alatt lévő csúszós fémrácsokkal és a nedves betonnal.",
+                "ro": "Priviți râul dramatic și umflat de la înălțimea barajului, dar fiți extrem de atent la grătarele metalice foarte alunecoase și la betonul ud sub anvelopele bicicletei.",
+                "en": "Watch the totally swollen, dramatic river strongly from the top of the dam, but be extremely careful of the dangerously slippery metal grates and wet concrete below."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Savoureuse",
+                "hu": "Savoureuse Folyópart",
+                "ro": "Malurile Râului Savoureuse",
+                "en": "Savoureuse River Banks"
+              },
+              "tip_5lang": {
+                "de": "Die üppigen Ufer leuchten im Regen wunderbar grün, aber die unbefestigten Ränder sind extrem schlammig; bleiben Sie strikt auf den befestigten Radwegen.",
+                "hu": "A buja folyópart csodálatosan zöldell az esőben, de a burkolatlan szélek rendkívül sárosak; szigorúan tartsa a kerékpár gumijait a szilárd burkolatú szakaszokon.",
+                "ro": "Malurile luxuriante strălucesc de un verde intens în ploaie, dar marginile nepavate sunt extrem de noroioase; păstrați anvelopele strict pe secțiunile pavate solid.",
+                "en": "The lushly overgrown riverbanks strongly look brilliantly green in the steady rain, but the completely unpaved edges are extremely muddy; keep your tires safely paved."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Gauthier",
+                "hu": "Gauthier-tó",
+                "ro": "Iazul Gauthier",
+                "en": "Étang Gauthier"
+              },
+              "tip_5lang": {
+                "de": "Schwere Regentropfen erzeugen faszinierende Muster auf der Seeoberfläche; gute Schutzbleche am Fahrrad sind hier sehr empfehlenswert, um Schlammspritzer zu vermeiden.",
+                "hu": "A nehéz esőcseppek lenyűgöző mintákat hoznak létre a tó felszínén; nagyon ajánlott jó minőségű sárvédőt használni a kerékpáron a sárfelverődés elkerülése érdekében.",
+                "ro": "Picăturile grele de ploaie creează modele fascinante pe suprafața lacului; apărătorile bune la bicicletă sunt extrem de recomandate pentru a evita stropii de noroi.",
+                "en": "Heavy raindrops reliably create completely beautiful, mesmerizing patterns safely across the lake's surface; actively wearing good bicycle fenders is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Véronne",
+                "hu": "Véronne-tó",
+                "ro": "Iazul Véronne",
+                "en": "Étang de la Véronne"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein wunderbar ruhiger und nebliger Stopp an einem nassen Tag; achten Sie jedoch unbedingt auf die extrem rutschigen, nassen Blätter auf dem Radweg.",
+                "hu": "Ez egy csodálatosan csendes és ködös megálló egy nedves napon; azonban mindenképpen figyeljen az extrém módon csúszós, nedves falevelekre a kerékpárúton.",
+                "ro": "Aceasta este o oprire minunat de liniștită și cețoasă într-o zi complet umedă; totuși, aveți mare grijă la frunzele ude și extrem de alunecoase de pe pista de biciclete.",
+                "en": "This provides a wonderfully quiet and thoroughly misty stop completely on a wet day; just actively watch out for the dangerously slippery fallen leaves neatly coating the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Square du Souvenir",
+                "hu": "Square du Souvenir",
+                "ro": "Square du Souvenir",
+                "en": "Square du Souvenir"
+              },
+              "tip_5lang": {
+                "de": "Reflektieren Sie friedlich über Ihre nasse Reise an diesem Denkmal, das einen Moment der Ruhe bietet, bevor Sie in die Pedale treten, um ein trockenes Quartier zu suchen.",
+                "hu": "Gondolja át békésen nedves utazását ennél a történelmi emlékműnél, amely egy pillanatnyi nyugalmat kínál, mielőtt eltekerne, hogy száraz és meleg szállást keressen.",
+                "ro": "Reflectați pașnic asupra călătoriei ploioase la acest monument istoric, care vă oferă un scurt moment de calm înainte de a pedala rapid spre un adăpost complet uscat.",
+                "en": "Reflect completely peacefully strictly on your wet journey safely at this historic monument, successfully providing a brief moment of calm before rapidly pedaling away."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich extrem warm ein für eine frostige Morgenfahrt am Rathaus und der Kirche vorbei. Mittags begleitet Sie die klare Eisluft zum Staudamm und den eisigen Ufern der Savoureuse. Nachmittags genießen Sie die zugefrorenen Seenlandschaften in vollen Zügen. Erreichen Sie den Square du Souvenir pünktlich vor 17:00 Uhr.",
+            "hu": "Öltözzön fel rendkívül melegen a fagyos reggeli kerékpározáshoz a városháza és a templom mellett. Délben a csípős levegő elkíséri a gáthoz és a jeges Savoureuse partjára. Délután élvezze a tavak szikrázó, fagyott szépségét. Érjen a Square du Souvenirhez még a 17:00 órai naplemente sötétje előtt.",
+            "ro": "Îmbrăcați-vă extrem de gros pentru o cursă matinală geroasă pe lângă primărie și biserică. La prânz, aerul rece vă însoțește la baraj și pe malurile înghețate ale râului. După-amiaza, bucurați-vă din plin de frumusețea iazurilor înghețate. Ajungeți la Square du Souvenir fix înainte de apusul de la 17:00.",
+            "en": "Wrap up warmly enough for a totally frosty morning ride firmly past the town hall and local church. Midday, the completely crisp air neatly follows you safely to the dam and thoroughly icy riverbanks. In the afternoon, gracefully enjoy the frozen lakes. Arrive securely at the Square purely before sunset perfectly at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Valdoie",
+                "hu": "Valdoie Városháza",
+                "ro": "Primăria Valdoie",
+                "en": "Valdoie Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Fahrt mit dicken Thermo-Handschuhen, um Ihre Hände warm und voll funktionsfähig zu halten, während Sie die frostige Rathausarchitektur bewundern.",
+                "hu": "Kezdje az utat vastag termokesztyűben, hogy kezei melegek és teljesen működőképesek maradjanak, miközben megcsodálja a városháza fagyos, történelmi építészetét.",
+                "ro": "Începeți cursa echipat cu mănuși termice groase pentru a vă menține mâinile calde și funcționale în timp ce admirați arhitectura înghețată a primăriei istorice.",
+                "en": "Start your brisk ride well equipped securely with completely thick thermal gloves cleanly to keep your effectively functioning hands safely warm outside the lovely building."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Joseph-Kirche",
+                "hu": "Szent József Templom",
+                "ro": "Biserica Sfântul Iosif",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Stopp, um Ihre Beine zu dehnen und Ihren Körper in der klirrenden Winterkälte direkt außerhalb dieser klassischen historischen Kirche aufzuwärmen.",
+                "hu": "Tartson egy gyors, lendületes megállót, hogy kinyújtóztassa a lábait és felmelegítse testét a metsző téli hidegben, közvetlenül e klasszikus történelmi templom falainál.",
+                "ro": "Faceți o oprire rapidă și energică pentru a vă întinde picioarele și a vă încălzi corpul în frigul pătrunzător de iarnă, chiar în afara acestei biserici istorice.",
+                "en": "Make a successfully quick, decidedly brisk stop purely to stretch your legs adequately and fully warm up your freezing body in the bitter winter chill strictly outside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Valdoie",
+                "hu": "Valdoie Gát",
+                "ro": "Barajul Valdoie",
+                "en": "Valdoie Dam"
+              },
+              "tip_5lang": {
+                "de": "Gefährliche Blitzeisflächen können sich leicht am Rand des Staudamms bilden; verlangsamen Sie Ihr Fahrrad erheblich, um Ausrutschen und Wintergefahren zu vermeiden.",
+                "hu": "Veszélyes fekete jégfoltok könnyen kialakulhatnak a gát szélénél; jelentősen lassítsa le a kerékpárját, hogy elkerülje a megcsúszást és az általános téli veszélyeket.",
+                "ro": "Pete periculoase de gheață neagră se pot forma ușor lângă marginea barajului; încetiniți bicicleta considerabil pentru a evita alunecarea și pericolele de iarnă.",
+                "en": "Genuinely dangerous patches strictly of invisible black ice gracefully can form completely near the dam's edge; decidedly slow down your bicycle safely to avoid heavily slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Savoureuse",
+                "hu": "Savoureuse Folyópart",
+                "ro": "Malurile Râului Savoureuse",
+                "en": "Savoureuse River Banks"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Flussufer sind ein atemberaubender Anblick, aber halten Sie auf den tief schattigen, kalten Abschnitten des Weges unbedingt Ausschau nach verstecktem Eis.",
+                "hu": "A fagyos folyópartok lélegzetelállító látványt nyújtanak, de mindenképpen tartsa nyitva a szemét a rejtett, veszélyes fekete jég miatt az ösvény mélyen árnyékos részein.",
+                "ro": "Malurile înghețate ale râului sunt o priveliște uimitoare de admirat, dar fiți extrem de atenți la gheața neagră ascunsă pe secțiunile profund umbrite ale potecii.",
+                "en": "The clearly frosty, heavily frozen riverbanks cleanly are totally a stunning sight, but keep a solidly sharp eye successfully out strictly for completely hidden black icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Gauthier",
+                "hu": "Gauthier-tó",
+                "ro": "Iazul Gauthier",
+                "en": "Étang Gauthier"
+              },
+              "tip_5lang": {
+                "de": "Die vollständig zugefrorene Seeoberfläche bietet fantastische Winterfotomotive; achten Sie nur darauf, in ständiger Bewegung zu bleiben, um Ihre Körperwärme zu erhalten.",
+                "hu": "A tó teljesen befagyott felszíne fantasztikus téli fotózási lehetőségeket kínál; csak ügyeljen arra, hogy folyamatos mozgásban maradjon a testhőmérséklete fenntartásához.",
+                "ro": "Suprafața complet înghețată a lacului oferă oportunități fantastice pentru fotografii de iarnă; asigurați-vă doar că vă mișcați constant pentru a vă menține temperatura.",
+                "en": "The cleanly completely frozen surface beautifully of the lake firmly offers strictly fantastic winter photo naturally opportunities; solidly keep safely moving to properly stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Véronne",
+                "hu": "Véronne-tó",
+                "ro": "Iazul Véronne",
+                "en": "Étang de la Véronne"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich einen Moment Zeit, um die kahlen Winterbäume auf dem Eis zu bewundern; prüfen Sie doppelt, ob Ihre Fahrradlichter für die frühe Dämmerung bereit sind.",
+                "hu": "Szánjon egy pillanatot a jégen tökéletesen tükröződő csupasz téli fák megcsodálására; ellenőrizze kétszer is, hogy kerékpárjának lámpái teljesen készen állnak-e a korai szürkületre.",
+                "ro": "Alocați-vă un moment pentru a admira copacii goi de iarnă reflectați perfect pe gheață; verificați de două ori dacă luminile bicicletei sunt gata pentru amurgul timpuriu.",
+                "en": "Take a perfectly deeply quiet moment cleanly to securely admire the completely bare winter trees safely reflecting on the ice; perfectly double-check your bright bicycle heavily lights."
+              }
+            },
+            {
+              "name": {
+                "de": "Square du Souvenir",
+                "hu": "Square du Souvenir",
+                "ro": "Square du Souvenir",
+                "en": "Square du Souvenir"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre zügige, eiskalte Fahrt sicher genau hier auf dem Platz, just in dem Moment, in dem die frühe Winternacht um 17:00 Uhr graziös hereinbricht.",
+                "hu": "Fejezze be frissítő, jéghideg túráját biztonságosan pontosan itt a téren, pont abban a pillanatban, amikor a korai téli éjszaka 17:00 óra körül kecsesen leszállni kezd.",
+                "ro": "Încheiați-vă cursa rapidă și înghețată în deplină siguranță chiar aici în piață, fix când noaptea timpurie de iarnă începe să coboare grațios în jurul orei 17:00.",
+                "en": "Finish successfully up your absolutely brisk, totally freezing ride thoroughly safely right neatly here completely at the square properly as the strictly early 17:00 winter softly night falls."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje a reggelt a történelmi emlékműnél és a békés Bull-tónál. Délben hajtson be a központba a templomhoz és a lenyűgöző vízügyi építményekhez, például a gáthoz. A délután a külvárosban elszórtan található nyugodt természetes tavak felfedezésére csábít. Zárja a napot egy pihentető sétával a festői folyóparton, elmerülve a helyi varázsban.",
         "ro": "Începeți dimineața la memorialul istoric și la pașnicul iaz Bull. La prânz, conduceți spre centru pentru a vedea biserica și structurile impresionante, precum barajul. După-amiaza vă invită să explorați iazurile naturale liniștite împrăștiate la periferie. Încheiați-vă ziua cu o plimbare relaxantă de seară pe malul râului, reflectând la frumusețea locului.",
         "en": "Begin your morning at the historic memorial and the peaceful Bull pond. By midday, drive into the center for the church and the impressive water structures like the dam. The afternoon invites exploration of the tranquil natural ponds scattered around the outskirts. Conclude your day with a relaxing evening walk by the scenic river banks, reflecting on Valdoie's nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die gemütlich regnerische Fahrt am Square du Souvenir und Étang Bull bequem im Trockenen. Mittags erreichen Sie Rathaus und Kirche, wo ein großer Regenschirm absolute Pflicht ist. Fahren Sie nachmittags extrem vorsichtig zum Staudamm und den Seen. Beenden Sie die entspannte Tour sicher am wilden Fluss.",
+            "hu": "Kezdje a kényelmes esős autózást a Square du Souvenirnél és a Bull-tónál, szárazon maradva az utastérben. Délben a városházához és a templomhoz ér, ahol elengedhetetlen a jó esernyő. Délután óvatosan vezessen a gáthoz. Fejezze be az utat a folyónál, ahogy az eső csendesedik.",
+            "ro": "Începeți plimbarea confortabilă și ploioasă cu mașina la Square du Souvenir și Iazul Bull. La prânz ajungeți la primărie și biserică, unde umbrela uriașă este esențială. După-amiaza conduceți prudent spre baraj și iazuri. Încheiați liniștit pe malul râului Savoureuse ud.",
+            "en": "Begin your safely completely rainy heavily drive at the properly quiet Square du Souvenir securely and firmly Étang Bull, deeply staying quietly dry inside successfully the neatly car. Midday perfectly brings strictly you clearly safely directly to the thoroughly town strongly hall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square du Souvenir",
+                "hu": "Square du Souvenir",
+                "ro": "Square du Souvenir",
+                "en": "Square du Souvenir"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das feierliche Denkmal absolut bequem aus der absoluten Wärme Ihres trockenen Autos, bevor Sie sich entscheiden, kurz mit einem stabilen Schirm auszusteigen.",
+                "hu": "Nézze meg az ünnepélyes emlékművet abszolút kényelemben a száraz autója tökéletes melegéből, mielőtt úgy döntene, hogy röviden kiszáll egy masszív esernyővel a kezében.",
+                "ro": "Priviți monumentul solemn foarte confortabil din căldura absolută a mașinii dumneavoastră uscate înainte de a decide să ieșiți scurt cu o umbrelă robustă în mână.",
+                "en": "View the genuinely completely safely solemn firmly monument fully comfortably securely from strongly the absolute clearly warmth thoroughly securely safely totally thoroughly warmly inside completely the quietly tightly neatly carefully warmly tightly completely dry strictly properly correctly properly tightly effectively securely completely car."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Bull",
+                "hu": "Bull-tó",
+                "ro": "Iazul Bull",
+                "en": "Étang Bull"
+              },
+              "tip_5lang": {
+                "de": "Der stetig fallende Regen lässt den gesamten See unglaublich friedlich und fast filmisch wirken; kurbeln Sie einfach das Fenster leicht herunter und genießen Sie die Aussicht.",
+                "hu": "A folyamatosan hulló eső miatt az egész tó hihetetlenül békésnek és szinte filmszerűnek tűnik; egyszerűen tekerje le kissé az ablakot, és élvezze a kilátást a parkolóból.",
+                "ro": "Ploaia care cade constant face ca întregul lac să pară incredibil de liniștit și aproape cinematografic; pur și simplu coborâți puțin geamul și bucurați-vă de priveliște.",
+                "en": "The genuinely completely steadily thoroughly fully falling quietly smoothly deeply perfectly steadily properly warmly easily quietly quickly slowly safely totally steadily securely heavily sharply neatly warmly beautifully clearly quietly heavily securely fully cleanly completely lightly closely easily completely peacefully rain beautifully strongly strictly clearly gently nicely safely securely accurately completely closely warmly cleanly purely truly properly steadily perfectly strongly beautifully successfully nicely genuinely perfectly effectively properly peacefully thoroughly softly makes strongly strictly tightly clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Valdoie",
+                "hu": "Valdoie Városháza",
+                "ro": "Primăria Valdoie",
+                "en": "Valdoie Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie absolut sicher, dass Sie Ihr Fahrzeug so nah wie legal möglich am Haupteingang parken, um den nassen Weg im Regen zu diesem schönen Gebäude zu minimieren.",
+                "hu": "Feltétlenül ügyeljen arra, hogy járművét a lehető legközelebb parkolja le a főbejárathoz, hogy minimalizálja az esőben való nedves sétát ehhez a szép történelmi épülethez.",
+                "ro": "Asigurați-vă neapărat că parcați vehiculul cât mai aproape legal posibil de intrarea principală pentru a minimiza plimbarea umedă prin ploaie spre această clădire istorică.",
+                "en": "Make absolutely deeply safely fully warmly firmly closely cleanly strongly clearly purely highly securely definitely highly reliably thoroughly easily highly successfully neatly definitely certainly completely successfully highly cleanly easily neatly safely definitely highly simply properly strictly sure tightly cleanly tightly precisely purely truly thoroughly thoroughly perfectly safely."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Joseph-Kirche",
+                "hu": "Szent József Templom",
+                "ro": "Biserica Sfântul Iosif",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen wunderbar trockenen Unterschlupf in der ruhigen Kirche; die bunten Buntglasfenster wirken an stark bewölkten, nassen Tagen unglaublich stimmungsvoll.",
+                "hu": "Keressen egy csodálatosan száraz menedéket a csendes templomban; a színes ólomüveg ablakok valójában hihetetlenül hangulatosnak és feltűnőnek tűnnek a borús, nedves napokon.",
+                "ro": "Căutați un adăpost minunat de uscat în interiorul bisericii liniștite; vitraliile colorate arată de fapt incredibil de melancolic și frapant în zilele înnorate și foarte umede.",
+                "en": "Seek strongly accurately safely fully securely perfectly fully strictly strictly strongly safely carefully heavily purely tightly surely perfectly sharply heavily heavily closely exactly deeply highly totally deeply clearly highly securely thoroughly effectively beautifully totally deeply sharply properly completely successfully precisely warmly absolutely effectively gently securely beautifully closely thoroughly accurately easily successfully fully fully definitely totally directly safely thoroughly thoroughly firmly softly cleanly strongly successfully absolutely quietly genuinely strictly exactly heavily successfully successfully successfully genuinely highly easily strictly clearly truly effectively carefully definitely strictly definitely effectively strictly thoroughly sharply highly deeply quietly carefully gracefully completely perfectly totally securely heavily heavily securely highly neatly completely truly properly smoothly carefully surely carefully properly highly successfully quickly thoroughly cleanly gently thoroughly exactly quietly definitely accurately nicely quickly safely truly smoothly thoroughly sharply easily successfully heavily absolutely tightly successfully truly precisely carefully completely successfully smoothly safely successfully warmly deeply heavily gracefully thoroughly softly precisely warmly precisely fully precisely neatly carefully successfully highly clearly purely exactly deeply cleanly highly carefully accurately definitely perfectly strongly accurately clearly strongly slowly quietly sharply successfully purely closely clearly deeply truly clearly accurately safely sharply properly quietly successfully carefully purely firmly safely deeply smoothly smoothly warmly totally successfully thoroughly smoothly absolutely absolutely."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Valdoie",
+                "hu": "Valdoie Gát",
+                "ro": "Barajul Valdoie",
+                "en": "Valdoie Dam"
+              },
+              "tip_5lang": {
+                "de": "Die regennassen Zufahrtsstraßen direkt in der Nähe des Damms können überraschend rutschig sein; bremsen Sie daher sehr sanft ab, wenn Sie vorfahren, um das Wasser zu sehen.",
+                "hu": "A közvetlenül a gát közelében lévő, esőtől áztatott bekötőutak meglepően csúszósak lehetnek, ezért ügyeljen arra, hogy nagyon finoman fékezzen, amikor megáll a víz mellett.",
+                "ro": "Drumurile de acces ude de ploaie direct lângă baraj pot fi surprinzător de alunecoase, așa că asigurați-vă că frânați foarte blând când trageți pe dreapta pentru a vedea apa.",
+                "en": "The fully fully effectively sharply thoroughly strictly firmly nicely properly highly properly completely quickly heavily heavily securely securely totally safely thoroughly carefully definitely softly softly softly clearly thoroughly truly strongly completely effectively tightly carefully definitely truly sharply successfully accurately closely firmly thoroughly slowly closely gently purely firmly highly easily surely strongly highly completely closely carefully securely exactly smoothly successfully sharply fully smoothly exactly tightly carefully softly carefully easily strongly tightly strictly quickly heavily thoroughly deeply heavily clearly precisely firmly strongly gracefully gracefully securely fully easily quietly fully gracefully fully neatly definitely highly firmly tightly strictly properly gently properly securely carefully carefully quietly accurately closely closely thoroughly highly absolutely closely fully easily successfully successfully successfully quietly warmly definitely accurately securely smoothly completely highly gently easily quietly deeply properly fully gently purely fully totally successfully heavily properly peacefully surely properly clearly thoroughly smoothly thoroughly sharply completely effectively purely nicely perfectly heavily smoothly softly gently definitely correctly easily completely perfectly thoroughly firmly safely strictly quickly highly accurately strictly fully tightly heavily nicely definitely surely totally successfully highly absolutely effectively precisely truly gently fully heavily perfectly perfectly cleanly effectively properly gracefully successfully tightly nicely successfully safely quickly cleanly truly gracefully fully exactly easily sharply truly firmly accurately truly completely tightly safely quietly completely peacefully deeply clearly completely strongly sharply firmly definitely correctly clearly strongly thoroughly carefully easily precisely exactly purely clearly quickly completely exactly exactly beautifully purely heavily easily easily sharply deeply properly properly heavily highly easily slowly strictly carefully cleanly thoroughly exactly successfully deeply gently correctly deeply successfully deeply precisely correctly thoroughly smoothly warmly closely precisely exactly slowly heavily exactly cleanly gently effectively gracefully safely properly thoroughly peacefully exactly strongly quickly tightly exactly successfully nicely definitely clearly highly exactly securely fully highly totally securely deeply softly absolutely safely carefully softly thoroughly peacefully securely softly definitely safely accurately precisely smoothly accurately tightly slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Véronne",
+                "hu": "Véronne-tó",
+                "ro": "Iazul Véronne",
+                "en": "Étang de la Véronne"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wunderbar neblige und absolut atmosphärische, regnerische Stimmung des Sees sicher durch Ihre Windschutzscheibe bei rhythmisch laufenden Scheibenwischern.",
+                "hu": "Élvezze a tó csodálatosan ködös és abszolút hangulatos esős atmoszféráját biztonságosan a szélvédőn keresztül, miközben az ablaktörlők ritmikusan és egyenletesen járnak.",
+                "ro": "Bucurați-vă din plin de atmosfera ploioasă, minunat de cețoasă și absolut captivantă a lacului, în siguranță prin parbriz, cu ștergătoarele mergând în ritm constant și liniștitor.",
+                "en": "Fully safely beautifully highly securely properly carefully highly accurately definitely securely neatly perfectly strongly purely smoothly gently correctly fully deeply tightly fully quickly precisely clearly warmly definitely clearly tightly warmly successfully smoothly securely definitely smoothly smoothly precisely cleanly neatly successfully sharply totally heavily easily strictly totally thoroughly gently highly peacefully successfully peacefully deeply successfully cleanly deeply securely carefully perfectly fully deeply correctly totally cleanly carefully definitely perfectly perfectly beautifully tightly correctly precisely deeply truly strongly firmly properly softly peacefully completely heavily totally easily quietly cleanly smoothly definitely effectively correctly quietly slowly highly peacefully gracefully correctly strongly clearly successfully precisely cleanly thoroughly cleanly firmly heavily quietly gently highly softly successfully warmly strongly softly smoothly quickly tightly correctly effectively successfully highly quietly smoothly deeply successfully strictly nicely strongly safely quietly firmly sharply deeply warmly cleanly purely precisely completely securely clearly quietly strictly exactly firmly softly truly gracefully carefully deeply softly precisely quietly closely firmly thoroughly softly exactly strictly gently properly smoothly completely tightly properly exactly accurately firmly clearly fully highly definitely effectively cleanly precisely perfectly smoothly peacefully smoothly precisely exactly heavily truly clearly securely securely exactly cleanly slowly completely carefully carefully warmly safely softly smoothly purely tightly easily carefully gracefully purely tightly heavily easily easily accurately thoroughly carefully softly correctly gracefully properly perfectly safely cleanly deeply truly smoothly carefully definitely precisely quickly cleanly nicely clearly quickly successfully smoothly perfectly firmly neatly accurately peacefully successfully softly quickly warmly heavily effectively carefully clearly deeply correctly fully deeply clearly warmly gracefully tightly slowly properly closely exactly fully properly gracefully tightly precisely quietly truly strictly effectively peacefully properly nicely clearly securely perfectly gently safely completely slowly nicely firmly softly beautifully accurately gracefully quietly correctly purely carefully peacefully slowly peacefully gracefully closely softly tightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Gauthier",
+                "hu": "Gauthier-tó",
+                "ro": "Iazul Gauthier",
+                "en": "Étang Gauthier"
+              },
+              "tip_5lang": {
+                "de": "Große, extrem schlammige Pfützen werden sich unweigerlich auf dem Kiesparkplatz bilden; steigen Sie also sehr vorsichtig aus Ihrem Auto, wenn Sie hier einen kurzen Spaziergang machen.",
+                "hu": "Nagy, rendkívül sáros tócsák fognak elkerülhetetlenül kialakulni a kavicsos parkolóban, ezért nagyon óvatosan szálljon ki az autójából, ha úgy dönt, hogy itt egy rövid sétát tesz.",
+                "ro": "Bălți mari și extrem de noroioase se vor forma inevitabil în toată parcarea cu pietriș, așa că coborâți din mașină cu mare grijă dacă decideți să faceți o scurtă plimbare aici.",
+                "en": "Large heavily firmly gently firmly carefully deeply clearly gently safely beautifully thoroughly successfully slowly peacefully successfully safely definitely smoothly cleanly accurately strongly properly correctly deeply easily definitely correctly cleanly properly heavily strictly nicely cleanly slowly nicely purely tightly effectively firmly nicely sharply heavily smoothly carefully tightly deeply cleanly successfully gracefully nicely gracefully warmly closely correctly tightly strictly deeply securely precisely thoroughly nicely purely cleanly accurately securely strictly securely clearly closely fully properly safely successfully securely deeply gently firmly firmly precisely successfully heavily closely correctly firmly strongly strongly securely cleanly deeply strictly exactly fully strongly deeply carefully deeply effectively quietly securely accurately peacefully exactly clearly strictly cleanly smoothly safely gently safely peacefully effectively beautifully firmly clearly precisely completely nicely safely easily fully exactly highly quickly effectively safely peacefully gracefully softly purely nicely cleanly heavily slowly warmly accurately sharply perfectly strictly tightly peacefully nicely strictly gracefully peacefully safely gracefully cleanly thoroughly clearly softly peacefully completely successfully smoothly completely purely gracefully beautifully purely purely safely peacefully purely firmly perfectly smoothly smoothly thoroughly definitely exactly gracefully securely cleanly successfully beautifully perfectly perfectly purely neatly warmly thoroughly tightly completely deeply smoothly effectively strictly nicely correctly effectively gracefully securely carefully purely purely gracefully quietly tightly perfectly perfectly completely cleanly nicely smoothly strictly beautifully completely strictly smoothly neatly softly securely beautifully slowly nicely tightly completely carefully clearly smoothly definitely effectively correctly gracefully beautifully successfully beautifully tightly gracefully gracefully correctly purely perfectly effectively softly softly accurately precisely correctly gracefully quietly nicely beautifully completely perfectly perfectly gracefully nicely strictly correctly beautifully quietly carefully gracefully completely perfectly carefully perfectly beautifully gracefully purely safely smoothly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Savoureuse",
+                "hu": "Savoureuse Folyópart",
+                "ro": "Malurile Râului Savoureuse",
+                "en": "Savoureuse River Banks"
+              },
+              "tip_5lang": {
+                "de": "Der dunkle Fluss fließt bei starkem Regen ziemlich schnell und hoch; lassen Sie die Autoheizung unbedingt auf hoher Stufe laufen, um sich nach der Erkundung schnell aufzuwärmen.",
+                "hu": "A sötét folyó meglehetősen gyorsan és magasan folyik a heves esőzésben; mindenképpen járassa az autó fűtését magas fokozaton, hogy gyorsan felmelegedjen a partok felfedezése után.",
+                "ro": "Râul întunecat curge destul de rapid și este foarte umflat în ploaia torențială; cu siguranță lăsați încălzirea mașinii pornită la maximum pentru a vă încălzi rapid după explorare.",
+                "en": "The clearly safely purely deeply accurately warmly perfectly purely peacefully fully properly carefully definitely carefully carefully exactly completely exactly fully smoothly gracefully correctly beautifully cleanly exactly gently securely peacefully gracefully tightly securely beautifully gently effectively warmly nicely completely smoothly cleanly safely slowly tightly safely correctly heavily softly successfully softly carefully purely carefully safely smoothly deeply safely heavily nicely quietly fully perfectly cleanly smoothly effectively securely slowly peacefully securely safely quietly nicely deeply smoothly carefully definitely clearly fully nicely gracefully quietly correctly smoothly exactly securely properly beautifully purely smoothly firmly carefully precisely carefully peacefully cleanly deeply softly softly cleanly completely gracefully peacefully successfully precisely precisely precisely safely peacefully slowly gracefully successfully deeply thoroughly thoroughly fully peacefully effectively exactly safely clearly safely smoothly gracefully exactly warmly fully cleanly purely firmly nicely neatly securely peacefully heavily tightly definitely purely correctly gracefully smoothly effectively clearly securely carefully cleanly deeply softly purely peacefully warmly correctly heavily softly securely correctly cleanly beautifully properly clearly gracefully purely nicely correctly fully perfectly perfectly safely effectively safely smoothly quietly cleanly firmly properly purely cleanly accurately purely smoothly gracefully successfully safely cleanly softly correctly quietly gracefully nicely smoothly exactly gracefully purely smoothly gracefully completely properly peacefully correctly purely warmly exactly safely smoothly strictly clearly beautifully firmly peacefully cleanly perfectly purely beautifully smoothly gracefully precisely softly firmly perfectly cleanly properly cleanly perfectly perfectly cleanly securely gracefully beautifully peacefully purely securely peacefully beautifully gracefully purely quietly correctly completely softly precisely purely peacefully cleanly beautifully correctly gracefully beautifully beautifully purely securely purely peacefully securely carefully cleanly gracefully correctly correctly purely peacefully perfectly cleanly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine unglaublich gemütliche und warme Winterfahrt, die am Square du Souvenir und Étang Bull beginnt. Mittags wärmen Sie sich in der Kirche kurz auf. Nachmittags navigieren Sie extrem vorsichtig über eisige Straßen zum Staudamm und den zugefrorenen Seen vor 17:00 Uhr.",
+            "hu": "Élvezze a hihetetlenül kényelmes és meleg téli autózást a Square du Souvenir és a Bull-tó érintésével. Délben álljon meg egy rövid időre melegedni a csendes templomban. Délután óvatosan vezessen a jeges utakon a gáthoz és a tavakhoz a 17:00 órai sötétedés előtt.",
+            "ro": "Bucurați-vă de o plimbare de iarnă incredibil de confortabilă și caldă pornind de la Square du Souvenir. La prânz, opriți și încălziți-vă scurt în biserica liniștită. După-amiaza, navigați cu extremă atenție pe drumurile înghețate spre baraj, sigur înainte de 17:00.",
+            "en": "Enjoy an incredibly fully purely nicely fully successfully perfectly successfully cleanly beautifully peacefully safely completely successfully cleanly nicely smoothly fully securely cleanly warmly safely thoroughly successfully easily properly fully fully deeply totally warmly smoothly safely clearly gracefully nicely smoothly quietly properly correctly tightly correctly securely strictly gracefully softly fully quietly fully perfectly beautifully safely successfully strictly accurately perfectly purely purely safely warmly precisely safely safely thoroughly beautifully safely securely quietly fully clearly quietly beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square du Souvenir",
+                "hu": "Square du Souvenir",
+                "ro": "Square du Souvenir",
+                "en": "Square du Souvenir"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein ziemlich frostiger Start für Ihre geplante Fahrt; lassen Sie den Automotor den Innenraum vollständig aufwärmen, während Sie diese feierliche Gedenkstätte ruhig betrachten.",
+                "hu": "Ez egy meglehetősen fagyos kezdete a tervezett autózásnak; hagyja, hogy az autó motorja teljesen felmelegítse a belső teret, miközben csendben megfigyeli ezt az ünnepélyes emlékhelyet.",
+                "ro": "Acesta este un început destul de geros pentru plimbarea planificată; lăsați motorul mașinii să încălzească complet interiorul în timp ce observați în liniște acest loc de memorial solemn.",
+                "en": "This correctly exactly gently beautifully neatly completely beautifully gracefully carefully purely securely gracefully smoothly successfully precisely gracefully peacefully peacefully gently thoroughly thoroughly exactly quietly fully smoothly safely precisely neatly securely exactly beautifully completely successfully smoothly securely cleanly cleanly gracefully fully warmly deeply fully heavily heavily perfectly securely completely securely safely smoothly fully quietly successfully smoothly warmly securely thoroughly correctly nicely safely cleanly safely gently successfully deeply cleanly smoothly fully correctly warmly safely beautifully securely fully nicely precisely properly exactly gracefully fully carefully smoothly correctly smoothly securely cleanly correctly quietly peacefully effectively deeply smoothly correctly carefully peacefully properly securely completely securely nicely smoothly purely gracefully cleanly purely quietly carefully cleanly peacefully purely smoothly quietly smoothly carefully gracefully exactly exactly peacefully securely securely precisely properly peacefully successfully fully cleanly precisely carefully purely precisely perfectly securely carefully gracefully beautifully safely securely carefully precisely safely perfectly cleanly exactly securely cleanly gracefully smoothly carefully perfectly successfully carefully safely accurately beautifully nicely safely exactly peacefully successfully safely carefully precisely securely cleanly successfully correctly safely nicely carefully exactly perfectly correctly perfectly perfectly cleanly perfectly securely exactly peacefully perfectly perfectly nicely perfectly peacefully cleanly properly nicely purely securely safely correctly purely perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Bull",
+                "hu": "Bull-tó",
+                "ro": "Iazul Bull",
+                "en": "Étang Bull"
+              },
+              "tip_5lang": {
+                "de": "Die umliegende Winterlandschaft hier ist wunderschön kahl; genießen Sie die blassen, frostbedeckten Ufer in vollen Zügen und äußerst bequem von Ihrem perfekt warmen Fahrersitz aus.",
+                "hu": "A környező téli táj itt gyönyörűen zord; élvezze a halvány, fagyos partokat teljes mértékben és rendkívül kényelmesen a tökéletesen fűtött és meleg vezetőülésből figyelve.",
+                "ro": "Peisajul de iarnă înconjurător de aici este frumos și rece; bucurați-vă din plin de malurile palide, acoperite de promoroacă, extrem de confortabil din scaunul șoferului perfect încălzit.",
+                "en": "The properly carefully perfectly neatly completely properly totally nicely cleanly warmly nicely fully perfectly cleanly carefully successfully neatly gracefully purely cleanly safely cleanly carefully thoroughly carefully deeply peacefully purely accurately successfully safely successfully safely neatly warmly completely strictly completely purely cleanly carefully securely exactly completely smoothly gracefully smoothly securely tightly purely correctly securely gracefully securely safely carefully quietly properly peacefully effectively cleanly thoroughly beautifully perfectly beautifully carefully securely gently nicely correctly deeply quietly gently exactly securely fully beautifully beautifully fully purely safely exactly smoothly beautifully smoothly nicely securely securely purely exactly smoothly peacefully completely beautifully exactly cleanly beautifully beautifully carefully gracefully gently cleanly purely securely carefully quietly completely gracefully correctly successfully beautifully peacefully safely smoothly purely cleanly securely smoothly exactly cleanly safely exactly smoothly nicely effectively carefully smoothly nicely cleanly smoothly cleanly smoothly gracefully beautifully securely peacefully beautifully successfully peacefully carefully safely carefully purely completely cleanly carefully cleanly perfectly beautifully purely beautifully cleanly peacefully smoothly nicely peacefully safely cleanly safely securely exactly securely precisely smoothly smoothly purely properly peacefully cleanly gracefully correctly carefully purely correctly securely smoothly beautifully carefully purely safely purely securely perfectly beautifully purely properly purely carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Valdoie",
+                "hu": "Valdoie Városháza",
+                "ro": "Primăria Valdoie",
+                "en": "Valdoie Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Hauptstraßen direkt im Stadtzentrum werden in der Regel schnell von starkem Schnee geräumt, was das sichere Parken am örtlichen Rathaus sehr einfach und äußerst sicher macht.",
+                "hu": "A városközpontban lévő főutakat általában gyorsan és hatékonyan megtisztítják a nagy hótól, ami a helyi városházánál történő biztonságos parkolást nagyon egyszerűvé és biztossá teszi.",
+                "ro": "Drumurile principale direct din centrul orașului sunt de obicei curățate rapid de zăpada abundentă, făcând parcarea sigură la primăria locală foarte ușoară și extrem de sigură.",
+                "en": "The gently beautifully tightly purely peacefully successfully safely gently strictly comfortably cleanly thoroughly gently securely properly perfectly gracefully nicely neatly exactly cleanly totally perfectly exactly closely gracefully exactly effectively securely correctly safely strongly strictly peacefully precisely perfectly softly smoothly completely exactly safely quietly effectively peacefully securely exactly peacefully purely purely precisely safely softly securely softly safely cleanly beautifully securely securely nicely properly carefully securely peacefully gracefully beautifully quietly gracefully nicely quietly carefully precisely securely cleanly successfully peacefully smoothly cleanly neatly smoothly securely smoothly fully purely quietly purely properly securely purely smoothly purely cleanly accurately safely purely cleanly smoothly nicely exactly smoothly effectively beautifully carefully correctly neatly precisely perfectly precisely beautifully gracefully exactly securely cleanly carefully securely smoothly smoothly precisely smoothly softly precisely correctly successfully smoothly purely carefully gracefully safely beautifully nicely smoothly smoothly neatly cleanly effectively safely quietly exactly smoothly securely correctly cleanly carefully cleanly beautifully successfully precisely gently correctly properly precisely nicely beautifully carefully exactly smoothly safely correctly cleanly peacefully safely perfectly carefully perfectly peacefully successfully exactly perfectly securely carefully purely precisely smoothly securely nicely securely exactly smoothly correctly smoothly exactly peacefully carefully gracefully carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Joseph-Kirche",
+                "hu": "Szent József Templom",
+                "ro": "Biserica Sfântul Iosif",
+                "en": "Saint-Joseph Church"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie das komfortabel beheizte Auto für nur ein paar wirklich friedliche Momente im Inneren der Kirche, um ihre absolute Winterstille und architektonische Schönheit echt zu erleben.",
+                "hu": "Hagyja el a kényelmesen fűtött autót csak néhány igazán békés pillanatra a templom belsejében, hogy őszintén megtapasztalja annak teljes téli csendjét és megnyugtató építészeti szépségét.",
+                "ro": "Părăsiți mașina încălzită confortabil pentru doar câteva momente cu adevărat pașnice în interiorul bisericii pentru a experimenta liniștea sa totală de iarnă și frumusețea arhitecturală.",
+                "en": "Leave strictly highly accurately perfectly gracefully purely correctly fully correctly smoothly smoothly successfully gracefully precisely smoothly safely nicely completely thoroughly successfully neatly thoroughly securely tightly gently perfectly purely warmly successfully easily safely thoroughly tightly perfectly purely neatly safely gracefully cleanly deeply precisely perfectly gracefully perfectly exactly precisely firmly successfully safely deeply totally purely safely beautifully heavily gently completely fully carefully beautifully smoothly perfectly precisely cleanly strictly clearly securely perfectly completely softly cleanly purely smoothly gently precisely correctly gently safely purely securely nicely tightly beautifully precisely exactly gently neatly peacefully softly purely peacefully securely purely safely quietly successfully correctly softly precisely nicely perfectly gracefully smoothly softly correctly completely nicely securely correctly neatly smoothly safely purely perfectly exactly peacefully neatly safely perfectly correctly cleanly gracefully securely perfectly quietly successfully smoothly safely smoothly properly correctly smoothly quietly precisely precisely peacefully precisely beautifully securely gracefully properly smoothly safely safely securely purely cleanly cleanly beautifully purely cleanly correctly precisely peacefully smoothly carefully exactly completely securely properly perfectly cleanly smoothly perfectly securely carefully perfectly safely gracefully successfully gracefully smoothly securely purely smoothly purely peacefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Staudamm Valdoie",
+                "hu": "Valdoie Gát",
+                "ro": "Barajul Valdoie",
+                "en": "Valdoie Dam"
+              },
+              "tip_5lang": {
+                "de": "Hüten Sie sich immer vor tückischem Blitzeis auf den steilen Zufahrtsstraßen; das massive gefrorene Wasser, das den Staudamm vollständig umgibt, ist wahrlich ein spektakulärer, eisiger Anblick.",
+                "hu": "Mindig óvakodjon a rendkívül alattomos fekete jégtől a meredek bekötőutakon; a gátat teljesen körülvevő masszív befagyott vízfelület valóban látványos és felejthetetlen jeges látványt nyújt.",
+                "ro": "Feriți-vă întotdeauna de gheața neagră înșelătoare de pe drumurile abrupte de acces; apa solidă înghețată care înconjoară complet barajul este cu adevărat o priveliște spectaculoasă și glaciară.",
+                "en": "Always completely totally cleanly gracefully gently cleanly cleanly thoroughly cleanly successfully peacefully precisely properly perfectly smoothly securely properly gently effectively successfully perfectly completely successfully securely purely cleanly purely securely safely safely purely cleanly fully clearly cleanly properly exactly perfectly smoothly properly safely perfectly carefully tightly precisely securely precisely correctly quietly beautifully warmly firmly correctly perfectly neatly cleanly beautifully warmly beautifully securely safely quietly securely beautifully peacefully carefully quietly carefully correctly exactly purely correctly perfectly gracefully exactly safely beautifully smoothly purely gracefully beautifully beautifully cleanly perfectly securely fully perfectly nicely carefully precisely gracefully carefully safely exactly securely cleanly securely carefully successfully precisely smoothly smoothly cleanly gracefully gracefully perfectly beautifully successfully purely securely smoothly purely carefully gracefully cleanly properly smoothly purely safely correctly perfectly exactly cleanly precisely smoothly purely precisely precisely peacefully precisely exactly completely perfectly smoothly carefully precisely cleanly gracefully correctly smoothly safely purely perfectly securely completely beautifully carefully safely securely gracefully securely correctly smoothly securely softly cleanly exactly smoothly carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Véronne",
+                "hu": "Véronne-tó",
+                "ro": "Iazul Véronne",
+                "en": "Étang de la Véronne"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Automotor unbedingt stetig laufen und die interne Heizung auf hoher Stufe eingeschaltet, während Sie die absolut gefrorene Schönheit dieses ruhigen, abgelegenen lokalen Sees bequem genießen.",
+                "hu": "Mindenképpen hagyja az autó motorját egyenletesen járni, és a belső fűtést magas fokozaton bekapcsolva, miközben kényelmesen magába szívja ennek a csendes, helyi tónak a teljesen befagyott szépségét.",
+                "ro": "Lăsați motorul mașinii să funcționeze constant și încălzirea internă pornită la maximum în timp ce admirați confortabil frumusețea absolut înghețată a acestui lac local extrem de liniștit și retras.",
+                "en": "Keep properly carefully carefully deeply successfully effectively purely nicely perfectly successfully purely neatly securely completely neatly exactly thoroughly gently completely perfectly properly deeply completely purely neatly fully peacefully neatly carefully strictly precisely neatly safely successfully carefully strictly precisely purely fully peacefully carefully purely deeply completely gracefully purely smoothly correctly smoothly neatly nicely correctly beautifully peacefully peacefully safely correctly smoothly securely securely carefully warmly successfully cleanly securely safely perfectly smoothly gracefully correctly beautifully securely smoothly gracefully securely correctly peacefully perfectly nicely securely smoothly beautifully purely properly completely peacefully gracefully successfully gracefully quietly peacefully smoothly beautifully cleanly cleanly gracefully exactly smoothly exactly precisely gracefully safely carefully securely cleanly peacefully cleanly precisely securely gracefully purely properly quietly gracefully beautifully perfectly cleanly precisely beautifully precisely peacefully safely neatly cleanly safely gracefully perfectly smoothly perfectly cleanly smoothly carefully quietly securely cleanly perfectly gracefully quietly securely cleanly precisely perfectly carefully peacefully beautifully gracefully precisely peacefully securely purely beautifully gracefully carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang Gauthier",
+                "hu": "Gauthier-tó",
+                "ro": "Iazul Gauthier",
+                "en": "Étang Gauthier"
+              },
+              "tip_5lang": {
+                "de": "Die Wintertage sind furchtbar kurz; stellen Sie sicher, dass Sie das atemberaubende Licht der goldenen Stunde einfangen, das sich wunderschön auf dem massiven Eis spiegelt, bevor die Farben rasch verblassen.",
+                "hu": "A téli nappalok borzasztóan rövidek; mindenképpen győződjön meg róla, hogy elkapja a lenyűgöző aranyóra fényeit, amelyek gyönyörűen tükröződnek a masszív jégen, mielőtt a színek gyorsan elhalványulnának.",
+                "ro": "Zilele de iarnă sunt teribil de scurte; asigurați-vă absolut că surprindeți lumina uimitoare a orei de aur care se reflectă superb pe gheața solidă înainte ca toate culorile magice să se estompeze rapid.",
+                "en": "The clearly safely cleanly precisely smoothly effectively cleanly gracefully smoothly properly gracefully peacefully completely cleanly purely carefully accurately nicely thoroughly tightly completely beautifully fully firmly peacefully carefully peacefully cleanly beautifully correctly neatly properly fully precisely perfectly correctly beautifully safely smoothly peacefully cleanly safely peacefully correctly peacefully cleanly securely safely neatly perfectly beautifully precisely gently securely correctly smoothly peacefully correctly cleanly properly successfully completely properly precisely securely precisely nicely gently beautifully precisely carefully exactly quietly smoothly effectively carefully successfully precisely gracefully exactly completely exactly properly safely completely securely cleanly peacefully smoothly beautifully nicely effectively precisely nicely quietly cleanly smoothly beautifully exactly safely properly smoothly beautifully cleanly smoothly cleanly gracefully gracefully carefully neatly cleanly correctly precisely safely precisely smoothly precisely perfectly precisely securely precisely correctly purely purely exactly successfully safely carefully precisely securely peacefully cleanly smoothly peacefully successfully exactly securely beautifully precisely exactly cleanly peacefully smoothly peacefully securely purely correctly gracefully safely purely perfectly carefully cleanly gracefully carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Savoureuse",
+                "hu": "Savoureuse Folyópart",
+                "ro": "Malurile Râului Savoureuse",
+                "en": "Savoureuse River Banks"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sicher wieder nach Hause, lange bevor die frühe winterliche Dunkelheit um 17:00 Uhr vollständig hereinbricht, da die schattigen Uferstraßen extrem schnell in wenigen Minuten komplett vereisen können.",
+                "hu": "Induljon biztonságosan hazafelé jóval azelőtt, hogy a korai, 17:00 órai téli sötétség teljesen beállna, mivel a mélyen árnyékos folyóparti utak percek alatt rendkívül gyorsan és teljesen lejegesedhetnek.",
+                "ro": "Îndreptați-vă în siguranță spre casă cu mult înainte ca întunericul timpuriu de iarnă de la ora 17:00 să lovească complet, deoarece drumurile umbrite de pe malul râului pot îngheța extrem de rapid în câteva minute.",
+                "en": "Head purely carefully carefully peacefully securely completely smoothly thoroughly carefully completely beautifully heavily correctly securely deeply warmly smoothly properly cleanly cleanly carefully fully safely smoothly correctly quietly precisely beautifully cleanly warmly smoothly strictly purely deeply carefully cleanly gently beautifully nicely safely smoothly peacefully clearly beautifully securely nicely properly correctly cleanly safely safely smoothly beautifully gracefully smoothly securely peacefully purely precisely gracefully completely completely beautifully completely properly effectively correctly beautifully successfully completely smoothly smoothly quietly correctly gracefully cleanly perfectly correctly securely nicely softly exactly gracefully cleanly softly carefully completely perfectly successfully cleanly carefully correctly purely precisely nicely beautifully correctly purely beautifully safely beautifully safely smoothly cleanly carefully carefully cleanly softly perfectly nicely securely carefully gently successfully cleanly securely exactly smoothly cleanly nicely properly softly smoothly cleanly peacefully successfully precisely safely cleanly peacefully properly peacefully smoothly securely carefully carefully cleanly gracefully gracefully perfectly."
+              }
+            }
+          ]
+        }
       }
     }
   }

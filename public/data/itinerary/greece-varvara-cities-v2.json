@@ -137,6 +137,168 @@
         "hu": "A nap az Askos Kőparkban kezdődik, egy lenyűgöző vadasparkban és botanikus kertben, ahol kapcsolatba léphet Zakynthos természetével. A növény- és állatvilág ráérős felfedezése után egy rövid sétával eléri a hűsítő parti tengeri szellőt.\nDélben eléri az Agios Nikolaos-Volimes strandot, amely tökéletes hely a kavicsokon való pihenésre és a Jón-tengerben való megmártózásra. Egy frissítő úszás után egy rövid séta elviszi a félreesőbb Madrakia strandra egy nyugodt pihenőre.\nA séta a festői partvidék mentén folytatódik fel az Agios Nikolaos Vardiola felé. Ez a történelmi velencei őrtorony visszarepíti az időben, és lenyűgöző panorámás kilátást kínál a horizont felé nyúló végtelen óceánra.\nA séta a hagyományos szélmalomnál ér véget, amely a sziget mezőgazdasági múltjának gyönyörű emléke. Az esti égbolt hátterében elegánsan magasodva romantikus és nyugodt lezárást nyújt a régió gyalogos felfedezésének.",
         "ro": "Ziua începe la Askos Stone Park, o rezervație botanică și de animale sălbatice impresionantă. Aici vă puteți conecta cu peisajul natural din Zakynthos. După o explorare relaxantă a florei și faunei, veți merge la scurtă distanță spre briza coastei.\nLa prânz, ajungeți la plaja Agios Nikolaos-Volimes, un loc perfect pentru a vă relaxa pe pietriș și a face o baie în Marea Ionică. După o înotare revigorantă, o scurtă plimbare vă duce la plaja Madrakia, mai retrasă, pentru o pauză liniștită.\nPlimbarea continuă de-a lungul coastei pitorești până la Vardiola din Agios Nikolaos. Acest turn de veghe venețian istoric vă invită să faceți un pas înapoi în timp și să admirați priveliștile panoramice ale oceanului spre orizont.\nTurul de plimbare se încheie la Moara de vânt tradițională, o rămășiță frumoasă a trecutului agricol al insulei. Profilându-se elegant pe cerul de seară, oferă un final romantic și liniștit unei zile minunate de explorare la pas.",
         "en": "Your day begins at the Askos Stone Park, an impressive wildlife and botanical reserve where you can connect with the natural landscape of Zakynthos. After a leisurely exploration of the flora and fauna, you'll walk a short distance down toward the coastal breeze.\nBy noon, you arrive at Agios Nikolaos-Volimes beach, a perfect spot to relax on the pebbles and dive into the refreshing Ionian Sea. Following a reviving swim, a short stroll takes you to the more secluded Madrakia Beach for a peaceful afternoon break.\nThe walk continues along the scenic coastline up towards the Vardiola of Agios Nikolaos. This historic Venetian watchtower invites you to step back in time and marvel at the panoramic ocean vistas stretching out toward the horizon.\nYour walking tour concludes at the traditional Wind mill, a beautiful remnant of the island's agricultural past. Standing elegantly against the evening sky, it offers a romantic and tranquil ending to a wonderful day exploring the region on foot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag im Askos Stone Park bietet trotz Regen Schutz unter dichten Bäumen und Vordächern. Mittags wirken die Strände von Agios Nikolaos und Madrakia bei grauem Himmel mystisch; feste Wanderschuhe sind auf den nassen Pfaden Pflicht. Am Nachmittag erkunden wir die Vardiola und die Windmühle, wobei kurze Schauer die Sicht auf das Meer klären. Der Abend endet gemütlich in einer Taverne.",
+            "hu": "A délelőtti Askos Kőpark esőben is élvezhető a sűrű növényzet és a fedett pihenők alatt. Délben az Agios Nikolaos és Madrakia strandok vadregényes arcukat mutatják; a csúszós ösvényeken elengedhetetlen a túrabakancs. Délután a Vardiola és a szélmalom látogatása során a friss eső illata kísér, a látótávolság pedig kitisztul. Az este egy közeli fedett helyen, a tenger morajlását hallgatva ér véget.",
+            "ro": "Dimineața în Askos Stone Park oferă adăpost sub copacii deși și zonele acoperite. La prânz, plajele Agios Nikolaos și Madrakia au un aspect dramatic sub cerul gri; încălțămintea aderentă este esențială pe potecile ude. După-amiaza, vizităm Vardiola și moara de vânt, unde ploile scurte curăță orizontul. Seara se încheie confortabil într-o tavernă locală, ascultând sunetul ploii pe mare.",
+            "en": "Morning at Askos Stone Park remains pleasant under dense trees and shelters despite the drizzle. At noon, the beaches of Agios Nikolaos and Madrakia look mystical under grey skies; sturdy boots are vital for the slippery paths. Afternoon visits to the Vardiola and wind mill offer crisp sea air. The evening ends cozily in a local tavern while the rain clears the atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Askos Stone Park",
+                "hu": "Askos Kőpark",
+                "ro": "Askos Stone Park",
+                "en": "Askos Stone Park"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere in ihren überdachten Unterständen. Nutzen Sie die dichte Vegetation als natürlichen Regenschutz und tragen Sie unbedingt rutschfestes Schuhwerk.",
+                "hu": "Figyeld meg az állatokat a fedett etetők alatt. Használd a sűrű növényzetet természetes esernyőként, és viselj csúszásmentes talpú túrabakancsot a vizes köveken.",
+                "ro": "Observați animalele în adăposturile lor acoperite. Folosiți vegetația deasă ca protecție naturală împotriva ploii și purtați neapărat încălțăminte antiderapantă.",
+                "en": "Watch the animals in their covered shelters. Use the dense vegetation as natural rain protection and ensure you wear non-slip boots on the wet stone paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos-Volimes Strand",
+                "hu": "Agios Nikolaos-Volimes strand",
+                "ro": "Plaja Agios Nikolaos-Volimes",
+                "en": "Agios Nikolaos-Volimes beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das tosende Meer von den erhöhten Felsen aus. Ein stabiler Regenmantel schützt vor der Gischt, während Sie die dramatische Brandung beobachten können.",
+                "hu": "Élvezd a háborgó tenger látványát a magasabb sziklákról. Egy stabil esőkabát megvéd a permettől, miközben a drámai hullámtörést fotózod a part mentén.",
+                "ro": "Bucurați-vă de spectacolul mării de pe stâncile înalte. O pelerină de ploaie solidă vă va proteja de spray-ul mării în timp ce admirați valurile dramatice.",
+                "en": "Enjoy the roaring sea from the elevated rocks. A sturdy raincoat protects against the sea spray while you watch the dramatic breaking waves along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Madrakia Strand",
+                "hu": "Madrakia strand",
+                "ro": "Plaja Madrakia",
+                "en": "Madrakia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Fischerboote bieten ein malerisches Motiv im Regen. Suchen Sie kurz Unterschlupf unter den Felsvorsprüngen und achten Sie auf den glitschigen Untergrund am Ufer.",
+                "hu": "A halászcsónakok festői látványt nyújtanak az esőben. Keress rövid menedéket a sziklakiszögellések alatt, és vigyázz a csúszós partmenti kövekre a sétányon.",
+                "ro": "Bărcile de pescuit oferă un peisaj pitoresc în ploaie. Căutați adăpost sub proeminențele stâncoase și aveți grijă la terenul alunecos de pe mal.",
+                "en": "The fishing boats offer a picturesque scene in the rain. Seek brief shelter under the rock overhangs and be careful with the slippery ground near the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Agios Nikolaos",
+                "hu": "Agios Nikolaos Vardiola",
+                "ro": "Vardiola din Agios Nikolaos",
+                "en": "Vardiola of Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten wenig Schutz, aber eine tolle Aussicht auf Blitze über dem Meer. Bleiben Sie kurz für ein Foto und halten Sie sich an den Griffen fest.",
+                "hu": "A történelmi falak kevés védelmet nyújtanak, de pazar kilátást a tenger feletti villámokra. Maradj csak egy fotóra, és kapaszkodj meg a vizes korlátokba.",
+                "ro": "Zidurile istorice oferă puțin adăpost, dar o vedere excelentă asupra mării. Stați doar pentru o fotografie și țineți-vă bine de balustradele ude.",
+                "en": "The historical walls offer little shelter but great views of lightning over the sea. Stay just for a quick photo and hold onto the wet railings firmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Wind mill"
+              },
+              "tip_5lang": {
+                "de": "Die Windmühle ist der perfekte Ort, um den Regen im Inneren abzuwarten. Genießen Sie einen heißen Kaffee im Café, während draußen der Sturm über die Klippen fegt.",
+                "hu": "A szélmalom tökéletes hely az eső kivárására. Élvezz egy forró kávét a kávézóban, miközben odakint a vihar végigsöpör a meredek sziklafalak felett.",
+                "ro": "Moara de vânt este locul perfect pentru a aștepta oprirea ploii. Savurați o cafea fierbinte în cafenea în timp ce furtuna mătură stâncile de afară.",
+                "en": "The windmill is the perfect spot to wait out the rain inside. Enjoy a hot coffee in the cafe while the storm sweeps across the cliffs outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im Askos Park ist ideal, um die Tiere in der kühlen Brise zu beobachten. Mittags führt der Küstenweg an einsamen Stränden vorbei; die tiefstehende Sonne glitzert auf dem Wasser. Am Nachmittag erreichen wir die Vardiola, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend bricht früh herein und lädt zu einem Wein am Kamin einer lokalen Taverne ein.",
+            "hu": "A tiszta téli reggel az Askos Parkban ideális az állatok megfigyelésére a hűvös szélben. Délben a parti ösvény elhagyatott strandok mellett vezet; az alacsonyan járó nap csillog a vízen. Délután még a sötétedés előtt érjük el a Vardiolát és a szélmalmot. Az este korán, 17:00 körül köszönt be, hívogatva egy pohár borra egy kandallós helyi tavernába.",
+            "ro": "O dimineață senină de iarnă în Parcul Askos este ideală pentru a vedea animalele în briza rece. La prânz, poteca de coastă trece pe lângă plaje pustii; soarele strălucește pe apă. După-amiaza ajungem la Vardiola înainte de apusul de la ora 17:00. Seara se lasă devreme, invitându-vă la un vin lângă șemineul unei taverne locale.",
+            "en": "A crisp winter morning in Askos Park is perfect for spotting animals in the cool breeze. At noon, the coastal path leads past deserted beaches with sun glittering on the waves. In the afternoon, we reach the Vardiola before the 5 PM sunset. Evening falls early, perfect for enjoying local wine by a fireplace in a cozy village tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Askos Stone Park",
+                "hu": "Askos Kőpark",
+                "ro": "Askos Stone Park",
+                "en": "Askos Stone Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park früh am Morgen, wenn die Hirsche besonders aktiv sind. Tragen Sie Zwiebelkleidung, da es im Schatten der Steinmauern sehr kühl sein kann.",
+                "hu": "Látogasd meg a parkot kora reggel, amikor a szarvasok a legaktívabbak. Öltözz rétegesen, mert a kőfalak árnyékában télen kifejezetten hűvös lehet a levegő.",
+                "ro": "Vizitați parcul dimineața devreme, când cerbii sunt foarte activi. Îmbrăcați-vă în straturi, deoarece la umbra zidurilor de piatră poate fi destul de frig.",
+                "en": "Visit the park early in the morning when the deer are most active. Dress in layers as it can be quite chilly in the shadows of the historic stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos-Volimes Strand",
+                "hu": "Agios Nikolaos-Volimes strand",
+                "ro": "Plaja Agios Nikolaos-Volimes",
+                "en": "Agios Nikolaos-Volimes beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille am leeren Hafen. Die Wintersonne wärmt die Kieselsteine; ideal für eine kurze Rast mit Thermoskanne und Blick auf das tiefblaue Meer.",
+                "hu": "Élvezd a csendet az üres kikötőben. A téli nap felmelegíti a kavicsokat; ideális egy rövid pihenőre egy termosz teával a mélykék tengerre tekintve.",
+                "ro": "Bucurați-vă de liniștea din portul gol. Soarele de iarnă încălzește pietrele; ideal pentru o scurtă pauză cu un termos și vedere la marea albastru închis.",
+                "en": "Enjoy the silence at the empty harbor. The winter sun warms the pebbles; ideal for a brief rest with a thermos while gazing at the deep blue sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Madrakia Strand",
+                "hu": "Madrakia strand",
+                "ro": "Plaja Madrakia",
+                "en": "Madrakia Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und wirkt sehr weitläufig. Ein winddichter Parka ist bei der starken Meeresbrise an der Nordküste sehr zu empfehlen.",
+                "hu": "A strand télen szinte teljesen néptelen és tágasnak tűnik. Egy szélálló parka erősen ajánlott az északi parton tapasztalható erős tengeri szél miatt.",
+                "ro": "Plaja este aproape pustie iarna și pare foarte vastă. O parca rezistentă la vânt este recomandată din cauza brizelor puternice de pe coasta de nord.",
+                "en": "The beach is almost deserted in winter and feels very expansive. A windproof parka is highly recommended due to the strong sea breezes on the north coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Agios Nikolaos",
+                "hu": "Agios Nikolaos Vardiola",
+                "ro": "Vardiola din Agios Nikolaos",
+                "en": "Vardiola of Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Nachbarinseln. Schützen Sie Ihre Ohren vor dem kalten Wind, der hier oben an der Küste besonders kräftig weht.",
+                "hu": "Használd ki a tiszta téli fényeket a szomszédos szigetek fotózásához. Védd a füleidet a hideg széltől, ami itt a parton különösen erősen fújhat ilyenkor.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu insulele vecine. Protejați-vă urechile de vântul rece care bate puternic aici pe coastă.",
+                "en": "Take advantage of the clear winter light for photos of neighboring islands. Protect your ears from the cold wind that blows especially hard here on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Wind mill"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr direkt an der Windmühle. Die tiefstehende Sonne färbt die Klippen in magisches Gold; perfekt für den Tagesabschluss.",
+                "hu": "Nézd meg a naplementét 17:00 körül közvetlenül a szélmalomnál. Az alacsonyan járó nap aranyba öltözteti a sziklákat; tökéletes zárása a téli napnak.",
+                "ro": "Priviți apusul de soare în jurul orei 17:00 chiar lângă moara de vânt. Soarele colorează stâncile în auriu magic; finalul perfect pentru o zi de iarnă.",
+                "en": "Watch the sunset around 5 PM directly by the windmill. The low sun paints the cliffs in a magical golden hue; a perfect end to your winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a kiterjedt Askos Kőparkban, és szívja magába a friss reggeli levegőt a helyi vadvilág körében. Innen pattanjon nyeregbe, és navigáljon a festői ösvényeken a Kremidi strand lélegzetelállító, rejtett partjaihoz.\nA déli napsütés tovább vezeti a part mentén a Vathi Lagadi strandhoz, egy idilli öbölhöz, amely tökéletes egy hűsítő úszáshoz. A sziklaalakzatoknál való pihenés után a déli csücsök felé teker, hogy felfedezze a Mikro Nisi Vardiola romjait.\nAhogy észak felé teker vissza a gyönyörű parti utakon, rátalál a nyüzsgő Agios Nikolaos-Volimes strandra. Kiváló hely arra, hogy megfigyelje a helyi halászhajókat, miközben élvezi a kikötő élénk, napfényes hangulatát.\nAz aktív nap az Agios Nikolaos Vardiolánál zárul. Ez az ősi tengeri kilátó kivételes kilátást nyújt a naplementére, felejthetetlen, aranyba hajló látvánnyal jutalmazva kerékpáros erőfeszítéseit a végtelen Jón-tenger felett.",
         "ro": "Începeți călătoria cu bicicleta la vastul Askos Stone Park, respirând aerul proaspăt al dimineții printre animalele sălbatice. De acolo, urcați pe bicicletă și navigați pe traseele pitorești până la țărmurile ascunse și uluitoare ale plajei Kremidi.\nSoarele amiezii vă ghidează mai departe de-a lungul coastei spre plaja Vathi Lagadi, un golf idilic perfect pentru o baie răcoroasă. După relaxare, veți pedala spre vârful sudic pentru a explora ruinele Vardiolei din Mikro Nisi.\nPedalând înapoi spre nord pe frumoasele drumuri de coastă, veți găsi plaja animată Agios Nikolaos-Volimes. Este un loc excelent pentru a urmări bărcile de pescuit locale bucurându-vă de atmosfera vibrantă a portului.\nZiua activă se încheie la Vardiola din Agios Nikolaos. Acest vechi punct de observație maritim oferă un unghi excepțional pentru apusul soarelui, recompensându-vă eforturile cu priveliști aurii de neuitat asupra apelor ionice.",
         "en": "Kick off your cycling journey at the expansive Askos Stone Park, breathing in the fresh morning air among native wildlife. From there, hop on your bike and navigate the scenic trails down to the breathtaking, hidden shores of Kremidi beach.\nThe midday sun guides you further along the coast to Vathi Lagadi beach, an idyllic cove perfect for a cooling swim. After relaxing by the dramatic rock formations, you will ride toward the southern tip to explore the ruins of Vardiola of Mikro Nisi.\nPedaling back north along the beautiful coastal roads, you'll find the bustling Agios Nikolaos-Volimes beach. It is an excellent spot to watch the local fishing boats come and go while enjoying the vibrant, sunny atmosphere of the harbor.\nYour active day wraps up at the Vardiola of Agios Nikolaos. This ancient maritime lookout provides an exceptional vantage point for the sunset, rewarding your cycling efforts with unforgettable, golden-hued views of the endless Ionian waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag auf dem Rad erfordert Vorsicht auf den Küstenstraßen Richtung Askos. Mittags bieten die Buchten Kremidi und Vathi Lagadi dramatische Aussichten, auch wenn die Pfade schlammig sein können. Am Nachmittag radeln wir zu den Vardiolas, wobei der Wind den Regen peitschen kann. Der Tag endet mit der Rückkehr nach Agios Nikolaos, wo trockene Kleidung wartet.",
+            "hu": "Az esős délelőtt óvatosságot igényel a kerékpáron az Askos felé vezető utakon. Délben Kremidi és Vathi Lagadi öblök drámai látványt nyújtanak, bár az utak sarasak lehetnek. Délután a Vardiolákhoz tekerünk, ahol a szél és az eső ereje próbára tesz. A nap Agios Nikolaosban ér véget, ahol végre száraz ruhába bújhatunk egy meleg ital mellett.",
+            "ro": "O dimineață ploioasă pe bicicletă necesită prudență pe drumurile de coastă spre Askos. La prânz, golful Kremidi și Vathi Lagadi oferă vederi dramatice, deși potecile pot fi noroioase. După-amiaza pedalăm spre Vardiolas, unde vântul poate intensifica ploaia. Ziua se termină cu întoarcerea în Agios Nikolaos, unde ne așteaptă haine uscate.",
+            "en": "A rainy morning on the bike requires extra caution on the coastal roads toward Askos. At noon, Kremidi and Vathi Lagadi bays offer dramatic views, though trails may be muddy. In the afternoon, we cycle to the Vardiolas, facing wind and driving rain. The day concludes back in Agios Nikolaos, where dry clothes and a warm drink await."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Askos Stone Park",
+                "hu": "Askos Kőpark",
+                "ro": "Askos Stone Park",
+                "en": "Askos Stone Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach am Eingang. Tragen Sie eine wasserfeste Regenhose, da das Spritzwasser auf den Wegen Ihre Beine schnell auskühlen lässt.",
+                "hu": "Parkold le a bringát a bejáratnál lévő előtető alatt. Viselj vízálló nadrágot, mert az utakról felcsapódó víz gyorsan lehűtheti a lábaidat a tekerés közben.",
+                "ro": "Parcați bicicleta sub copertina de la intrare. Purtați pantaloni impermeabili, deoarece apa împroșcată de pe drum vă poate răci rapid picioarele în timpul mersului.",
+                "en": "Park your bike under the canopy at the entrance. Wear waterproof trousers as the spray from the roads can quickly cool down your legs during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremidi Strand",
+                "hu": "Kremidi strand",
+                "ro": "Plaja Kremidi",
+                "en": "Kremidi beach"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zum Strand ist bei Regen sehr rutschig. Lassen Sie das Rad oben an der Straße und gehen Sie vorsichtig zu Fuß, um die graue Brandung zu bestaunen.",
+                "hu": "A strandhoz vezető lejtő esőben nagyon csúszós. Hagyd a biciklit fent az úton, és menj gyalog óvatosan, hogy megcsodáld a szürke habokat a parton.",
+                "ro": "Coborârea spre plajă este foarte alunecoasă pe ploaie. Lăsați bicicleta sus la drum și mergeți pe jos cu atenție pentru a admira valurile cenușii de pe mal.",
+                "en": "The descent to the beach is very slippery in the rain. Leave your bike up at the road and walk down carefully to admire the grey surf on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Vathi Lagadi Strand",
+                "hu": "Vathi Lagadi strand",
+                "ro": "Plaja Vathi Lagadi",
+                "en": "Vathi Lagadi beach"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Bucht bietet kaum Schutz vor Regen. Nutzen Sie die kurzen Pausen zwischen den Schauern für ein Foto und prüfen Sie Ihre Bremsen vor der Weiterfahrt.",
+                "hu": "A kis öböl alig nyújt védelmet az eső elől. Használd ki a záporok közötti szüneteket egy fotóra, és ellenőrizd a fékeket a továbbindulás előtt.",
+                "ro": "Micul golf oferă puțin adăpost împotriva ploii. Folosiți pauzele scurte între averse pentru o fotografie și verificați frânele înainte de a pleca mai departe.",
+                "en": "The small bay offers little rain shelter. Use the short breaks between showers for a photo and check your brakes thoroughly before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Mikro Nisi",
+                "hu": "Mikro Nisi Vardiola",
+                "ro": "Vardiola din Mikro Nisi",
+                "en": "Vardiola of Mikro Nisi"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher ist steinig und bei Nässe tückisch. Fahren Sie langsam und achten Sie auf Pfützen, die tiefe Schlaglöcher auf dem Küstenweg verbergen könnten.",
+                "hu": "Az idevezető út köves és nedvesen csalóka. Tekerj lassan, és ügyelj a tócsákra, amik mély kátyúkat rejthetnek a parti ösvényen a ködös időben.",
+                "ro": "Drumul până aici este pietros și înșelător pe umezeală. Mergeți încet și atenție la bălți, care pot ascunde gropi adânci pe poteca de coastă.",
+                "en": "The path here is stony and treacherous when wet. Cycle slowly and watch out for puddles that might hide deep potholes on the coastal trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos-Volimes Strand",
+                "hu": "Agios Nikolaos-Volimes strand",
+                "ro": "Plaja Agios Nikolaos-Volimes",
+                "en": "Agios Nikolaos-Volimes beach"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen sind ideal für eine Pause im Trockenen. Reinigen Sie Ihre Kette nach der Fahrt, um sie vor dem aggressiven Salzwasserregen zu schützen.",
+                "hu": "A kikötő kávézói ideálisak egy száraz szünetre. Tisztítsd meg a láncot a tekerés után, hogy megvédd az agresszív sós esővíztől és a kosztól.",
+                "ro": "Cafenelele din port sunt ideale pentru o pauză la uscat. Curățați lanțul după cursă pentru a-l proteja de ploaia cu apă sărată și murdărie.",
+                "en": "The port's cafes are ideal for a dry break. Clean your bike chain after the ride to protect it from the aggressive salt-water rain and road grit."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Agios Nikolaos",
+                "hu": "Agios Nikolaos Vardiola",
+                "ro": "Vardiola din Agios Nikolaos",
+                "en": "Vardiola of Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster nahe der Vardiola ist extrem glatt. Schieben Sie das Rad das letzte Stück und genießen Sie den Blick auf das aufgewühlte Ionische Meer.",
+                "hu": "A Vardiola közeli köves út rendkívül csúszós ilyenkor. Toljad a bringát az utolsó szakaszon, és élvezd a felkavart Jón-tenger látványát a bástyáról.",
+                "ro": "Drumul pietruit de lângă Vardiola este extrem de alunecos. Împingeți bicicleta pe ultima porțiune și admirați marea Ionică agitată de pe bastion.",
+                "en": "The cobblestones near the Vardiola are extremely slick. Push your bike for the last section and enjoy the view of the churning Ionian Sea from the bastion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen auf dem Bike beginnt mit der Fahrt zum Askos Park; die frische Luft belebt die Sinne. Mittags erkunden wir die abgelegenen Buchten im glasklaren Licht, wobei wir uns durch das Treten warm halten. Der Nachmittag führt uns zu den alten Vardiolas, während der Sonnenuntergang gegen 17:00 Uhr die Küste vergoldet. Ein zügiges Tempo bringt uns vor der Dunkelheit zurück.",
+            "hu": "A hűvös téli reggel a kerékpáron az Askos Parkba való tekeréssel kezdődik; a friss levegő élénkítő. Délben a távoli öblöket fedezzük fel a kristálytiszta fényben, a mozgás melegen tart minket. Délután a régi Vardiolákhoz látogatunk, miközben a 17:00-kor kezdődő naplemente aranyba vonja a partot. Tempósan tekerjünk vissza a sötétség előtt.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă începe cu drumul spre Parcul Askos; aerul proaspăt este revigorant. La prânz explorăm golful izolat în lumină clară, mișcarea menținându-ne calzi. După-amiaza vizităm vechile Vardiolas, în timp ce apusul de la ora 17:00 colorează coasta. Pedalați rapid înapoi înainte de lăsarea întunericului.",
+            "en": "A cool winter morning on the bike starts with a ride to Askos Park; the crisp air is truly invigorating. At noon, explore remote bays in crystal-clear light, staying warm through steady movement. In the afternoon, visit the old Vardiolas as the 5 PM sunset gilds the coastline. Maintain a brisk pace to return safely before darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Askos Stone Park",
+                "hu": "Askos Kőpark",
+                "ro": "Askos Stone Park",
+                "en": "Askos Stone Park"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind bei den Abfahrten zum Park sehr beißend sein kann. Genießen Sie die Ruhe im Park ohne die sommerlichen Besuchermassen.",
+                "hu": "Viselj meleg kesztyűt, mert a menetszél a park felé tartó lejtőkön nagyon harapós lehet. Élvezd a park csendjét a nyári tömeg és a hőség nélkül.",
+                "ro": "Purtați mănuși groase, deoarece vântul poate fi foarte tăios în timpul coborârilor spre parc. Bucurați-vă de liniștea parcului fără aglomerația de vară.",
+                "en": "Wear warm gloves as the wind chill during descents to the park can be biting. Enjoy the park's tranquility without the summer crowds and heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremidi Strand",
+                "hu": "Kremidi strand",
+                "ro": "Plaja Kremidi",
+                "en": "Kremidi beach"
+              },
+              "tip_5lang": {
+                "de": "Die steile Anfahrt wärmt die Muskeln auf. Machen Sie oben eine kurze Pause und genießen Sie das tiefblaue, ruhige Wintermeer, bevor Sie zum nächsten Halt radeln.",
+                "hu": "A meredek út jól bemelegíti az izmaidat. Tarts egy rövid szünetet fent, és élvezd a mélykék, nyugodt téli tengert, mielőtt a következő megállóhoz tekernél.",
+                "ro": "Drumul abrupt vă va încălzi mușchii. Faceți o scurtă pauză sus și admirați marea de iarnă calmă și albastru închis înainte de a pleca mai departe.",
+                "en": "The steep approach will warm up your muscles nicely. Take a short break at the top and enjoy the deep blue, calm winter sea before cycling to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Vathi Lagadi Strand",
+                "hu": "Vathi Lagadi strand",
+                "ro": "Plaja Vathi Lagadi",
+                "en": "Vathi Lagadi beach"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dieser Ort ein Juwel der Einsamkeit. Achten Sie auf trockene Kleidung für die Abfahrt, damit Sie durch den Schweiß nicht zu schnell auskühlen.",
+                "hu": "Télen ez a hely a magány ékköve. Figyelj rá, hogy ne izzadj le túlságosan a lejtő előtt, mert a menetszélben gyorsan megfázhatsz a hűvös levegőn.",
+                "ro": "Iarna, acest loc este o bijuterie a singurătății. Aveți grijă să nu transpirați prea mult înainte de coborâre, pentru a nu răci rapid în briza rece.",
+                "en": "In winter, this place is a jewel of solitude. Ensure you stay dry before the descent so the wind chill doesn't cause you to catch a cold in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Mikro Nisi",
+                "hu": "Mikro Nisi Vardiola",
+                "ro": "Vardiola din Mikro Nisi",
+                "en": "Vardiola of Mikro Nisi"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für Panoramabilder. Halten Sie Ihr Handy oder Ihre Kamera warm, da Akkus bei Kälte schneller an Leistung verlieren.",
+                "hu": "A délutáni fények ideálisak a panorámaképekhez. Tartsd melegen a telefonodat vagy a kamerádat, mert az akkumulátorok gyorsabban merülnek a hidegben.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii panoramice. Păstrați telefonul sau camera la căldură, deoarece bateriile se descarcă mai repede la frig.",
+                "en": "The afternoon light is ideal for panoramic photos. Keep your phone or camera warm as batteries tend to drain much faster in the cold coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos-Volimes Strand",
+                "hu": "Agios Nikolaos-Volimes strand",
+                "ro": "Plaja Agios Nikolaos-Volimes",
+                "en": "Agios Nikolaos-Volimes beach"
+              },
+              "tip_5lang": {
+                "de": "Tanken Sie Energie mit einem warmen Snack im Dorf. Da die Sonne früh sinkt, sollten Sie prüfen, ob Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Töltsd fel az energiatartalékaidat egy meleg étellel a faluban. Mivel a nap korán nyugszik, ellenőrizd, hogy a biciklilámpák jól működnek-e a hazatéréshez.",
+                "ro": "Reîncărcați-vă bateriile cu o gustare caldă în sat. Deoarece soarele apune devreme, verificați dacă luminile bicicletei funcționează corect pentru retur.",
+                "en": "Refuel your energy with a warm snack in the village. As the sun sets early, double-check that your bike lights are working for the final leg back home."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Agios Nikolaos",
+                "hu": "Agios Nikolaos Vardiola",
+                "ro": "Vardiola din Agios Nikolaos",
+                "en": "Vardiola of Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Ort für den Sonnenuntergang. Ziehen Sie eine zusätzliche Schicht an, sobald die Sonne weg ist, da die Temperaturen sofort spürbar sinken.",
+                "hu": "Látványos hely a naplemente megtekintéséhez. Vegyél fel egy plusz réteget, amint lemegy a nap, mert a hőmérséklet ilyenkor azonnal és érezhetően zuhan.",
+                "ro": "Un loc spectaculos pentru apus. Puneți-vă un strat suplimentar de haine imediat ce soarele apune, deoarece temperatura scade brusc și simțitor.",
+                "en": "A spectacular spot for the sunset. Put on an extra layer as soon as the sun goes down, as the temperature drops immediately and noticeably here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós kalandját a békés Ag. Nikolaos kolostorban, ahol elmerülhet a gazdag bizánci történelemben. Egy rövid vezetés után a nyüzsgő Askos Kőparkba ér, amely csodálatos interakciót kínál a helyi vadvilággal.\nFolytassa útját a lenyűgöző partvidék felé, először a csendes Kremidi strandon megállva egy kis pihenésre. Csak egy rövid autóútra van a Vathi Lagadi strand, ahol a drámai sziklák közötti kristálytiszta vízben fürödhet.\nDélután autózzon át a Mikro Nisi Vardiolához, hogy felfedezze a tengerre néző történelmi velencei romokat. A parti kanyarokat észak felé követve hamarosan megérkezik egy másik történelmi gyöngyszemhez, az Agios Nikolaos Vardiolához.\nA kirándulás az ikonikus szélmalomnál ér véget, amely gyönyörűen megőrizve áll a falu közelében. Élvezze, ahogy az aranyóra napfénye lefesti a kőszerkezetet, mint tökéletes befejezést a vacsora előtt egy helyi tavernában.",
         "ro": "Începeți aventura la volan la mănăstirea pașnică Ag. Nikolaos, absorbind atmosfera senină și istoria bizantină. Un scurt drum cu mașina vă aduce apoi la Askos Stone Park, oferind o interacțiune minunată cu fauna locală.\nContinuați excursia spre coasta impresionantă, oprind mai întâi la liniștita plajă Kremidi pentru relaxare. La o scurtă distanță se află plaja Vathi Lagadi, unde puteți înota în apele cristaline flancate de stânci.\nDupă-amiază, mergeți spre Vardiola din Mikro Nisi pentru a descoperi ruinele venețiene cu vedere la mare. Urmând curbele coastei spre nord, veți ajunge rapid la Vardiola din Agios Nikolaos, cu priveliști uimitoare.\nExcursia se încheie la iconica Moară de vânt, frumos conservată. Bucurați-vă de lumina soarelui de la ora de aur care pictează structura de piatră, un final perfect înainte de a merge la o tavernă locală pentru cină.",
         "en": "Start your driving adventure at the peaceful Ag. Nikolaos monastery, soaking in the serene atmosphere and rich Byzantine history. A short drive then brings you to the vibrant Askos Stone Park, offering a wonderful interaction with the local wildlife.\nContinue your road trip to the striking coastline, stopping first at the quiet Kremidi beach for a moment of relaxation. Just a short drive away lies Vathi Lagadi beach, where you can swim in crystal-clear waters flanked by dramatic coastal cliffs.\nIn the afternoon, cruise over to the Vardiola of Mikro Nisi to discover historical Venetian ruins overlooking the sea. Following the coastal bends north, you'll quickly arrive at another historic gem, the Vardiola of Agios Nikolaos, with stunning views.\nYour day trip concludes at the iconic Wind mill, beautifully preserved and standing proudly near the village. Enjoy the golden hour sunlight painting the stone structure, a picture-perfect finale before heading to a local taverna for dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt besinnlich im Kloster Ag. Nikolaos, das Schutz bietet. Mittags fahren wir gemütlich zum Askos Park und zu den Stränden, wobei wir die dramatische Küste sicher vom Auto aus bewundern können. Am Nachmittag erkunden wir die Vardiolas bei kurzen Regenpausen. Der Tag endet an der Windmühle, wo wir im Café den Sturm bei einem warmen Getränk beobachten können.",
+            "hu": "Az esős nap az Ag. Nikolaos kolostorban kezdődik, mely békés menedéket nyújt. Délben kényelmesen autózunk az Askos Parkhoz és a strandokhoz, a drámai partvonalat az autó ablakából csodálva. Délután a Vardiolákat keressük fel a záporok közötti szünetekben. A nap a szélmalomnál zárul, ahol a kávézóból nézhetjük a vihart egy forró ital és a tenger morajlása mellett.",
+            "ro": "Ziua ploioasă începe liniștit la mănăstirea Ag. Nikolaos, care oferă adăpost. La prânz, conducem confortabil spre Parcul Askos și plaje, admirând coasta dramatică din interiorul mașinii. După-amiaza explorăm Vardiolas în pauzele dintre averse. Ziua se încheie la moara de vânt, unde putem privi furtuna din cafenea cu o băutură caldă în mână.",
+            "en": "The rainy day begins peacefully at the Ag. Nikolaos monastery, providing a dry sanctuary. At noon, enjoy a comfortable drive to Askos Park and the beaches, admiring the dramatic coast from your car window. In the afternoon, visit the Vardiolas during breaks in the rain. The day ends at the windmill, watching the storm from the cafe with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Ag. Nikolaos",
+                "hu": "Ag. Nikolaos kolostor",
+                "ro": "Mănăstirea Ag. Nikolaos",
+                "en": "Ag. Nikolaos monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume des Klosters sind perfekt, um den ersten Guss abzuwarten. Bewundern Sie die Ikonen und genießen Sie die spirituelle Stille bei Kerzenschein.",
+                "hu": "A kolostor belső terei tökéletesek az első nagyobb zápor kivárására. Csodáld meg az ikonokat, és élvezd a spirituális csendet a gyertyák fénye mellett.",
+                "ro": "Interiorul mănăstirii este perfect pentru a aștepta trecerea primei averse. Admirați icoanele și bucurați-vă de liniștea spirituală la lumina lumânărilor.",
+                "en": "The monastery's interiors are perfect for waiting out the first heavy downpour. Admire the icons and enjoy the spiritual silence by the soft candlelight."
+              }
+            },
+            {
+              "name": {
+                "de": "Askos Stone Park",
+                "hu": "Askos Kőpark",
+                "ro": "Askos Stone Park",
+                "en": "Askos Stone Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um schnell ins Trockene zu kommen. Ein Regenschirm ist im Park nützlicher als ein Poncho, da man unter Bäumen oft stehen bleibt.",
+                "hu": "Parkolj közel a bejárathoz, hogy gyorsan fedett helyre érj. Egy esernyő itt hasznosabb lehet, mint egy peleriné, mivel a fák alatt gyakran megállsz nézelődni.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid la adăpost. O umbrelă este mai utilă aici decât o pelerină, deoarece vă veți opri des sub copaci.",
+                "en": "Park close to the entrance to reach shelter quickly. An umbrella might be more useful here than a poncho since you'll often stop to watch animals under trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremidi Strand",
+                "hu": "Kremidi strand",
+                "ro": "Plaja Kremidi",
+                "en": "Kremidi beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aussichtspunkt an der Straße für Fotos. Die Fahrt hinunter ist bei Regen wegen loser Steine riskant; bleiben Sie lieber oben und genießen den Blick.",
+                "hu": "Használd az út menti kilátópontot a fotózáshoz. A levezető út esőben a lehulló kövek miatt kockázatos lehet; maradj inkább fent, és onnan csodáld a kilátást.",
+                "ro": "Folosiți punctul de belvedere de la drum pentru fotografii. Drumul de coborâre este riscant pe ploaie din cauza pietrelor; rămâneți sus pentru siguranță.",
+                "en": "Use the roadside viewpoint for photos. The drive down can be risky in the rain due to loose stones; stay up top and enjoy the view from the safety of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Vathi Lagadi Strand",
+                "hu": "Vathi Lagadi strand",
+                "ro": "Plaja Vathi Lagadi",
+                "en": "Vathi Lagadi beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Farbe des Meeres im Regen zu sehen. Achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am unbefestigten Straßenrand.",
+                "hu": "Egy rövid megálló elég, hogy lásd a tenger különleges színét esőben. Ki- és beszálláskor ügyelj a mély tócsákra a burkolatlan útpadka mentén.",
+                "ro": "O scurtă oprire este suficientă pentru a vedea culoarea mării pe ploaie. Atenție la bălțile adânci de pe marginea drumului neasfaltat când coborâți din mașină.",
+                "en": "A short stop is enough to see the sea's unique color in the rain. Watch out for deep puddles on the unpaved roadside when getting in and out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Mikro Nisi",
+                "hu": "Mikro Nisi Vardiola",
+                "ro": "Vardiola din Mikro Nisi",
+                "en": "Vardiola of Mikro Nisi"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das aufgewühlte Meer ist vom Auto aus spektakulär. Die schmale Zufahrt kann bei Starkregen rutschig sein; fahren Sie besonders vorsichtig.",
+                "hu": "A felkorbácsolt tenger látványa az autóból is látványos. A keskeny bekötőút heves esőzéskor csúszós lehet; vezess különösen óvatosan a kanyarokban.",
+                "ro": "Vederea mării agitate este spectaculoasă chiar și din mașină. Drumul îngust poate fi alunecos în timpul ploilor abundente; conduceți cu maximă prudență.",
+                "en": "The view of the churning sea is spectacular even from the car. The narrow access road can be slippery during heavy rain; drive with extra caution in the bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Agios Nikolaos",
+                "hu": "Agios Nikolaos Vardiola",
+                "ro": "Vardiola din Agios Nikolaos",
+                "en": "Vardiola of Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen und sprinten Sie kurz zur Vardiola. Der Wind ist hier oft sehr stark, halten Sie Ihre Autotür beim Öffnen gut fest, damit sie nicht umschlägt.",
+                "hu": "Parkolj a kikötőben, és fuss el egy percre a Vardiolához. A szél itt gyakran nagyon erős; fogd erősen az autó ajtaját kiszálláskor, nehogy kikapja a kezedből.",
+                "ro": "Parcați în port și mergeți rapid până la Vardiola. Vântul este adesea foarte puternic aici; țineți bine ușa mașinii la deschidere pentru a nu fi smulsă.",
+                "en": "Park at the harbor and take a quick dash to the Vardiola. The wind is often very strong here; hold your car door firmly when opening so it doesn't swing back."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Wind mill"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus den großen Fenstern des Cafés. Das Prasseln des Regens gegen die Windmühle schafft eine sehr gemütliche Atmosphäre.",
+                "hu": "Élvezd a panorámát a kávézó nagy ablakai mögül. Az eső kopogása a szélmalom falán rendkívül hangulatos légkört teremt a nap végére a melegben.",
+                "ro": "Bucurați-vă de panorama oferită de ferestrele mari ale cafenelei. Sunetul ploii bătând în moara de vânt creează o atmosferă foarte primitoare la final de zi.",
+                "en": "Enjoy the panorama from behind the cafe's large windows. The sound of rain drumming against the windmill creates a very cozy atmosphere to end your day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit einer Panoramafahrt zum Kloster Ag. Nikolaos. Mittags besuchen wir den Askos Park und die einsamen Nordstrände, wobei die Sitzheizung den Komfort erhöht. Am Nachmittag erreichen wir die Vardiolas im goldenen Licht der tiefstehenden Sonne. Vor dem Sonnenuntergang um 17:00 Uhr genießen wir den Blick von der Windmühle, bevor wir im Dunkeln zurückkehren.",
+            "hu": "A tiszta téli nap egy panorámás autózással kezdődik az Ag. Nikolaos kolostorhoz. Délben az Askos Parkot és az elhagyatott északi strandokat keressük fel; az ülésfűtés sokat javít a komfortérzeten. Délután az alacsony nap aranyló fényében érjük el a Vardiolákat. A 17:00-s naplemente előtt még körülnézünk a szélmalomnál, majd sötétben térünk vissza.",
+            "ro": "O zi senină de iarnă începe cu o cursă panoramică spre mănăstirea Ag. Nikolaos. La prânz vizităm Parcul Askos și plajele pustii din nord; încălzirea în scaune sporește confortul. După-amiaza ajungem la Vardiolas în lumina aurie a soarelui. Înainte de apusul de la ora 17:00, admirăm vederea de la moara de vânt, apoi ne întoarcem pe întuneric.",
+            "en": "A clear winter day starts with a scenic drive to the Ag. Nikolaos monastery. At noon, visit Askos Park and the deserted northern beaches; seat heating adds to the comfort. In the afternoon, reach the Vardiolas in the golden light of the low sun. Before the 5 PM sunset, enjoy the view from the windmill, returning home safely in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Ag. Nikolaos",
+                "hu": "Ag. Nikolaos kolostor",
+                "ro": "Mănăstirea Ag. Nikolaos",
+                "en": "Ag. Nikolaos monastery"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster ist im Winter wunderbar ruhig. Nutzen Sie die kühle Morgenluft für einen kurzen Spaziergang im Garten, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A kolostor télen csodálatosan csendes. Használd ki a hűvös reggeli levegőt egy rövid sétára a kertben, mielőtt továbbfolytatnád az utadat az autóval.",
+                "ro": "Mănăstirea este minunat de liniștită iarna. Profitați de aerul răcoros al dimineții pentru o scurtă plimbare în grădină înainte de a pleca mai departe.",
+                "en": "The monastery is wonderfully quiet in winter. Take advantage of the crisp morning air for a short walk in the garden before continuing your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Askos Stone Park",
+                "hu": "Askos Kőpark",
+                "ro": "Askos Stone Park",
+                "en": "Askos Stone Park"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Wege trocken und gut befahrbar. Nehmen Sie sich Zeit für die Tiere, da der Park fast leer ist und man eine sehr persönliche Erfahrung macht.",
+                "hu": "Télen az utak szárazak és jól járhatóak. Szánj időt az állatokra, mivel a park szinte üres, így sokkal személyesebb élményben lehet részed, mint nyáron.",
+                "ro": "Iarna, potecile sunt uscate și ușor de parcurs. Acordați timp animalelor, deoarece parcul este aproape gol, oferind o experiență mult mai personală.",
+                "en": "In winter, the paths are dry and easy to walk. Take your time with the animals, as the park is almost empty, offering a much more personal experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremidi Strand",
+                "hu": "Kremidi strand",
+                "ro": "Plaja Kremidi",
+                "en": "Kremidi beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos der Bucht. Da es am Strand windig sein kann, lassen Sie den Motor kurz laufen, um das Auto für die Rückkehr vorzuwärmen.",
+                "hu": "A téli napállás tökéletes az öböl fotózásához. Mivel a parton szeles lehet az idő, tarts egy rövid pihenőt, majd élvezd az autó melegét a következő szakaszig.",
+                "ro": "Poziția soarelui de iarnă este perfectă pentru fotografii. Deoarece pe plajă poate fi vânt, bucurați-vă de căldura mașinii între opririle de pe traseu.",
+                "en": "The winter sun's position is perfect for bay photography. Since it can be windy on the beach, enjoy the warmth of your car between the scenic photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Vathi Lagadi Strand",
+                "hu": "Vathi Lagadi strand",
+                "ro": "Plaja Vathi Lagadi",
+                "en": "Vathi Lagadi beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem versteckten Juwel. Im Winter ist das Wasser besonders klar; ideal für Landschaftsaufnahmen ohne störende Badegäste.",
+                "hu": "Élvezd a magányt ennél a rejtett ékszernél. Télen a víz különösen tiszta; ideális tájképek készítéséhez, mivel nincsenek zavaró fürdőzők a háttérben.",
+                "ro": "Bucurați-vă de singurătate la această bijuterie ascunsă. Iarna apa este foarte clară; ideal pentru peisaje fără turiștii care vin de obicei la scăldat.",
+                "en": "Enjoy the solitude at this hidden gem. In winter, the water is exceptionally clear; ideal for landscape shots without any bathers in the background."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Mikro Nisi",
+                "hu": "Mikro Nisi Vardiola",
+                "ro": "Vardiola din Mikro Nisi",
+                "en": "Vardiola of Mikro Nisi"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag färbt die Steine rötlich. Prüfen Sie Ihren Reifendruck, da die Temperaturunterschiede im Winter die Haftung beeinflussen können.",
+                "hu": "A késő délutáni fények vörösesre festik a köveket. Ellenőrizd a guminyomást, mert a téli hőmérséklet-ingadozás befolyásolhatja a tapadást az utakon.",
+                "ro": "Lumina de după-amiază târzie colorează pietrele în roșiatic. Verificați presiunea în pneuri, deoarece variațiile de temperatură pot afecta aderența pe drum.",
+                "en": "Late afternoon light paints the stones in reddish hues. Check your tire pressure, as winter temperature fluctuations can affect grip on the coastal roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Vardiola von Agios Nikolaos",
+                "hu": "Agios Nikolaos Vardiola",
+                "ro": "Vardiola din Agios Nikolaos",
+                "en": "Vardiola of Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt kurz vor dem Sonnenuntergang. Halten Sie eine warme Jacke griffbereit, da es hier oben bei Sonnenuntergang sofort empfindlich kalt wird.",
+                "hu": "Pompás kilátópont közvetlenül a naplemente előtt. Tarts egy meleg kabátot kéznél, mert amint lemegy a nap, itt a bástyánál azonnal metsző hideg lesz.",
+                "ro": "Un punct de belvedere superb chiar înainte de apus. Aveți o jachetă groasă la îndemână, deoarece se face foarte frig imediat ce soarele dispare dincolo de deal.",
+                "en": "A superb viewpoint just before sunset. Keep a warm jacket handy, as it gets freezing here at the bastion the moment the sun disappears behind the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Wind mill"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr bequem vom Parkplatz oder Café aus. Das goldene Licht auf den Klippen ist im Winter besonders intensiv und klar.",
+                "hu": "Nézd a naplementét 17:00-kor kényelmesen a parkolóból vagy a kávézóból. Az aranyló fények a sziklákon télen sokkal intenzívebbek és tisztábbak, mint nyáron.",
+                "ro": "Priviți apusul de la ora 17:00 confortabil din parcare sau din cafenea. Lumina aurie de pe stânci este mult mai intensă și mai clară iarna decât vara.",
+                "en": "Watch the 5 PM sunset comfortably from the parking lot or the cafe. The golden light on the cliffs is much more intense and clear in winter than in summer."
+              }
+            }
+          ]
+        }
       }
     }
   }

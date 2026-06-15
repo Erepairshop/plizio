@@ -137,6 +137,168 @@
         "hu": "Egy kellemes séta a külvárosban, amely az ásványmúzeumból indul. Délben felfedezi a lenyűgöző Mina el Nopal bányát. A délután a Casa de los Lamentos sötét legendáinak van szentelve. Az este egy történelmi benyomásokkal teli nap után ér véget.",
         "ro": "O plimbare plăcută prin periferie, începând de la muzeul de minerale. La prânz, explorați impresionanta mină El Nopal. După-amiaza este dedicată legendelor întunecate de la Casa de los Lamentos. Seara se încheie după o zi plină de impresii istorice.",
         "en": "A pleasant walk through the outskirts, starting at the mineral museum. At midday, you will explore the impressive Mina el Nopal. The afternoon is dedicated to the fascinating, dark legends at Casa de los Lamentos. The evening ends after a day full of historical impressions."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in trockenen, faszinierenden Museen. Mittags navigieren Sie vorsichtig über die nassen Straßen zu den nahen historischen Stätten. Der Nachmittag bietet spannende Indoor-Ausstellungen. Beenden Sie den Tag in geheimnisvollen Gebäuden, während es draußen regnet.",
+            "hu": "Kezdje a kora reggelt egy izgalmas, fedett ásványtani múzeumban, védve az esőtől. Délben óvatosan sétáljon át a közeli történelmi bányaszakaszhoz a vizes macskaköveken. Délután száraz körülmények között fedezheti fel a különleges múzeumokat. Az estét pedig rejtélyes, zárt terekben zárja.",
+            "ro": "Începeți dimineața ploioasă explorând expoziții interioare fascinante. La prânz, navigați cu atenție pe străzile umede spre atracțiile istorice. După-amiaza continuă cu muzee captivante unde rămâneți la adăpost. Încheiați seara explorând locații misterioase interioare, în timp ce afară plouă.",
+            "en": "Start your rainy morning exploring fascinating indoor museum collections. By midday, navigate the wet streets carefully between nearby historical sites. The afternoon continues with intriguing indoor exhibits where you stay dry. Finish the evening exploring mysterious indoor locations as the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de mineralogía",
+                "hu": "Museo de mineralogía",
+                "ro": "Museo de mineralogía",
+                "en": "Museo de mineralogía"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die riesige Mineraliensammlung komplett im Trockenen; halten Sie Ihren Regenschirm für den Ausgang bereit.",
+                "hu": "Csodálja meg a hatalmas ásványgyűjteményt a száraz épületben; kifelé tartsa kéznél az esernyőt a záporok ellen.",
+                "ro": "Admirați vasta colecție de minerale în interiorul perfect uscat; păstrați umbrela la îndemână pentru ieșire.",
+                "en": "Admire the extensive mineral collection indoors and completely dry; keep your umbrella handy for the exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Acuatico",
+                "hu": "Centro Acuatico",
+                "ro": "Centro Acuatico",
+                "en": "Centro Acuatico"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wassersportarten unter dem Dach; tragen Sie rutschfeste Schuhe, da der Eingangsbereich sehr nass wird.",
+                "hu": "Nézze meg a vizes sportokat biztonságos fedett helyen; viseljen csúszásgátló cipőt, mert a bejárat nedves és csúszik.",
+                "ro": "Priviți activitățile acvatice la adăpost sub acoperiș; purtați încălțăminte antiderapantă la intrarea umedă.",
+                "en": "Watch the aquatic activities safely under the roof; wear non-slip shoes as the entrance gets very wet and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mina el Nopal",
+                "hu": "Mina el Nopal",
+                "ro": "Mina el Nopal",
+                "en": "Mina el Nopal"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die trockenen Minenschächte als tolles Regenversteck, aber achten Sie auf den feuchten Abstieg am Eingang.",
+                "hu": "Fedezze fel a történelmi bányajáratokat, amelyek szárazak maradnak, de nagyon vigyázzon a csúszós, vizes lejtőkön.",
+                "ro": "Explorați puțurile istorice care rămân uscate, o evadare bună de ploaie, dar fiți atenți la coborârea umedă.",
+                "en": "Explore the historic mine shafts which stay perfectly dry, but watch your step closely on the damp, slippery descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda del Cochero",
+                "hu": "Hacienda del Cochero",
+                "ro": "Hacienda del Cochero",
+                "en": "Hacienda del Cochero"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Geschichte im Museum; schütteln Sie Ihren Regenmantel in der Lobby ab und bleiben Sie trocken.",
+                "hu": "Ismerje meg a helyi történelmet ebben az izgalmas múzeumban; rázza le az esőkabátját az előtérben a kényelmes sétához.",
+                "ro": "Descoperiți istoria locală în acest muzeu; scuturați-vă haina de ploaie în hol și bucurați-vă de confortul interior.",
+                "en": "Discover the rich local history inside this museum; properly shake off your raincoat in the lobby for a comfortable stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Lamentos",
+                "hu": "Casa de los Lamentos",
+                "ro": "Casa de los Lamentos",
+                "en": "Casa de los Lamentos"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie dunkle Geschichten in diesen geschützten Mauern; eine perfekte Flucht vor dem Regen am Nachmittag.",
+                "hu": "Fedezze fel a sötét történeteket e védett falak között; tökéletes, esőmentes menedék egy viharos délutánon.",
+                "ro": "Descoperiți povești întunecate între aceste ziduri protejate; o evadare perfectă și uscată într-o după-amiază ploioasă.",
+                "en": "Uncover dark tales within these sheltered walls; it serves as a perfect and dry escape on a rainy afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen drinnen mit einzigartigen geologischen Schätzen. Mittags wärmen Sie sich auf, bevor Sie die Mine erkunden. Nachmittags ziehen Sie sich warm an für den Weg zwischen den Museen. Beenden Sie den Tag mit mysteriösen Geschichten, wenn die Sonne gegen 17 Uhr untergeht.",
+            "hu": "Indítsa a fagyos téli reggelt egy meleg ásványtani múzeumban. Délben igyon egy forró teát, mielőtt leereszkedik a történelmi bányába. Délután öltözzön rétegesen, miközben a múzeumok között sétál. Kora este, ahogy 17:00 körül leereszkedik a sötétség, merüljön el a rejtélyes történetekben.",
+            "ro": "Începeți dimineața răcoroasă de iarnă admirând comori geologice la căldură. La prânz, luați o băutură caldă înainte de a explora mina istorică. După-amiaza, îmbrăcați-vă gros în timp ce treceți între muzee. Încheiați seara devreme cu povești misterioase la interior, deoarece soarele apune în jur de 17:00.",
+            "en": "Kick off a crisp winter morning admiring unique geological treasures indoors. Around noon, grab a warm drink before exploring the historic mine. In the afternoon, bundle up as you transition between intriguing local museums. Conclude your early evening with mysterious indoor stories as the sun sets around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de mineralogía",
+                "hu": "Museo de mineralogía",
+                "ro": "Museo de mineralogía",
+                "en": "Museo de mineralogía"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie leuchtende Mineralien im beheizten Raum; lassen Sie Ihren schweren Mantel bequem an der Garderobe.",
+                "hu": "Csodálja meg a ragyogó ásványokat ebben a fűtött, kényelmes térben; a nehéz télikabátot hagyja a ruhatárban.",
+                "ro": "Minunați-vă de mineralele strălucitoare în acest spațiu încălzit; lăsați paltonul greu și incomod la garderobă.",
+                "en": "Marvel at glowing minerals in this comfortably heated space; safely leave your heavy winter coat in the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Acuatico",
+                "hu": "Centro Acuatico",
+                "ro": "Centro Acuatico",
+                "en": "Centro Acuatico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhafte Atmosphäre des Hallenbads; ein toller Ort mit feuchter Luft, um kalte Hände aufzuwärmen.",
+                "hu": "Élvezze a benti medence élénk hangulatát; remek hely a fagyos kezek felmelegítésére a párás, meleg levegőn.",
+                "ro": "Bucurați-vă de atmosfera plină de viață a piscinei interioare; un loc minunat cu aer cald pentru a vă încălzi mâinile.",
+                "en": "Enjoy the lively atmosphere of the indoor pool area; it is a great spot with humid air to warm up your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Mina el Nopal",
+                "hu": "Mina el Nopal",
+                "ro": "Mina el Nopal",
+                "en": "Mina el Nopal"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie in die Mine hinab, wo die Temperaturen deutlich kühler werden; lassen Sie Ihren Winterpullover geschlossen.",
+                "hu": "Ereszkedjen le a bányába, ahol sokkal hűvösebb van, így feltétlenül tartsa cipzározva a meleg téli pulóverét.",
+                "ro": "Coborâți în mină unde temperaturile devin vizibil mai reci, așa că păstrați-vă puloverul de iarnă bine închis.",
+                "en": "Descend into the mine where temperatures noticeably drop, so be sure to keep your warm winter sweater zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda del Cochero",
+                "hu": "Hacienda del Cochero",
+                "ro": "Hacienda del Cochero",
+                "en": "Hacienda del Cochero"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie historische Kutschen drinnen; die dicken Mauern halten die Winterkälte perfekt von Ihnen fern.",
+                "hu": "Nézzen meg lenyűgöző történelmi hintókat; a múzeum vastag falai tökéletesen kint tartják a csípős téli hideget.",
+                "ro": "Vedeți trăsuri istorice fascinante în interior; pereții groși ai muzeului țin frigul iernii departe de dumneavoastră.",
+                "en": "View fascinating historical carriages completely indoors; the museum's thick walls perfectly keep the winter chill away."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Lamentos",
+                "hu": "Casa de los Lamentos",
+                "ro": "Casa de los Lamentos",
+                "en": "Casa de los Lamentos"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in dunkle Legenden ein, bevor der frühe Sonnenuntergang um 17 Uhr die Stimmung draußen noch gruseliger macht.",
+                "hu": "Merüljön el a kísérteties legendákban, mielőtt az 17:00 órás korai sötétedés még ijesztőbbé teszi a kinti hangulatot.",
+                "ro": "Scufundați-vă în legende înfricoșătoare înainte ca apusul devreme de la 17:00 să facă atmosfera de afară mai fantomatică.",
+                "en": "Dive into eerie legends before the early sunset around 5 PM makes the atmosphere outside even spookier and colder."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon el az ásványmúzeumból, és élvezze a lágy szellőt. Délben merüljön el a bányászati kultúrában a Mina el Nopal bányában. Délután tekerjen el a Hacienda del Cochero és az Inkvizíció Múzeumához. Fejezze be a túrát egy lenyűgöző és történelmileg gazdag nap után.",
         "ro": "Pedalați de la muzeul de minerale și bucurați-vă de briza ușoară. La prânz, aprofundați cultura minieră la Mina el Nopal. După-amiaza, mergeți la Hacienda del Cochero și la Muzeul Inchiziției pentru povești întunecate. Încheiați turul după o zi fascinantă plină de istorie.",
         "en": "Cycle from the mineral museum and enjoy the gentle breeze. At midday, dive deep into the mining culture at Mina el Nopal. In the afternoon, ride to Hacienda del Cochero and the Inquisition Museum where dark tales await. End the tour after a fascinating and historically rich day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an diesem regnerischen Morgen zu einem faszinierenden Geologiemuseum. Fahren Sie mittags vorsichtig auf rutschigem Kopfsteinpflaster zur Mine. Verbringen Sie den nassen Nachmittag mit Ausstellungen, während Ihr Rad pausiert. Beenden Sie den Abend sicher vor Regen im Inquisitionsmuseum.",
+            "hu": "Esős reggelen tekerjen el a száraz ásványtani múzeumba. Délben óvatosan biciklizzen a csúszós macskaköveken a történelmi bányához. A nedves délutánt izgalmas beltéri kiállításokon töltse, amíg a bicikli pihen. Az estét az Inkvizíció Múzeumában zárja, védve a heves esőzésektől.",
+            "ro": "Pedalați în dimineața ploioasă către un muzeu de geologie pentru a rămâne uscat. La prânz, mergeți cu grijă pe piatra cubică alunecoasă. Petreceți după-amiaza umedă explorând expoziții interioare în timp ce bicicleta se odihnește. Încheiați seara la Muzeul Inchiziției, adăpostit în siguranță de ploaie.",
+            "en": "Cycle through your rainy morning to an intriguing geology museum to stay dry. By noon, ride carefully on slippery cobbles to reach the historic mine safely. Spend the wet afternoon exploring fascinating indoor exhibits while your bike rests. Conclude your evening at the Inquisition Museum, safely sheltered."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de mineralogía",
+                "hu": "Museo de mineralogía",
+                "ro": "Museo de mineralogía",
+                "en": "Museo de mineralogía"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad regengeschützt unter dem Vordach und genießen Sie die trockenen, riesigen Mineralienausstellungen.",
+                "hu": "Parkolja le a biciklit az eresz alatt az eső elől, és élvezze a száraz, hatalmas beltéri ásványkiállítást.",
+                "ro": "Parcați bicicleta la adăpost sub streașină și bucurați-vă de vastele expoziții de minerale la interiorul uscat.",
+                "en": "Park your bike safely under the eaves away from rain, and deeply enjoy the dry, expansive mineral exhibits inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Acuatico",
+                "hu": "Centro Acuatico",
+                "ro": "Centro Acuatico",
+                "en": "Centro Acuatico"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp beim Hallenbad; vergessen Sie nicht, Ihren Fahrradsitz trocken zu wischen, bevor Sie weiterfahren.",
+                "hu": "Egy gyors megálló a benti úszás megtekintésére; mindenképp törölje szárazra a vizes nyerget indulás előtt.",
+                "ro": "O oprire rapidă pentru a privi activitatea acvatică; ștergeți șaua bicicletei de ploaie înainte de a continua.",
+                "en": "A quick indoor stop to watch swimming; make sure to thoroughly dry your bike seat before continuing your wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Mina el Nopal",
+                "hu": "Mina el Nopal",
+                "ro": "Mina el Nopal",
+                "en": "Mina el Nopal"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Mine bietet Flucht vor Schauern; bremsen Sie sehr früh, da die Kopfsteinpflaster hier extrem rutschen.",
+                "hu": "A föld alatti bánya tökéletes menedék a záporok elől; fékezzen jóval időben, mert az itteni utak nagyon csúsznak.",
+                "ro": "Mina subterană oferă evadare din ploaie; frânați foarte devreme, deoarece piatra cubică de aici este extrem de alunecoasă.",
+                "en": "The deep underground mine offers a perfect escape from showers; brake very early on the extremely slippery wet cobbles here."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda del Cochero",
+                "hu": "Hacienda del Cochero",
+                "ro": "Hacienda del Cochero",
+                "en": "Hacienda del Cochero"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad gut ab und betreten Sie das trockene Anwesen, um sich von der nassen und anstrengenden Fahrt zu erholen.",
+                "hu": "Zárja le a bringát, és lépjen be a száraz történelmi birtokra, hogy kipihenje és felmelegítse magát a nedves út után.",
+                "ro": "Legați bicicleta bine și pășiți în această proprietate istorică uscată pentru a vă recupera după cursa umedă.",
+                "en": "Lock up securely outside and step into this completely dry historical estate to warm up from the damp, rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Lamentos",
+                "hu": "Casa de los Lamentos",
+                "ro": "Casa de los Lamentos",
+                "en": "Casa de los Lamentos"
+              },
+              "tip_5lang": {
+                "de": "Die gruseligen Geschichten lenken perfekt vom Regen ab; tragen Sie beim Verlassen unbedingt auffällige Warnkleidung.",
+                "hu": "A dermesztő történetek elterelik a figyelmét a kinti esőről; távozáskor a rossz látási viszonyok miatt vegyen fel láthatósági mellényt.",
+                "ro": "Poveștile înfiorătoare vă distrag atenția de la ploaie; purtați echipament reflectorizant la plecare din cauza vizibilității reduse.",
+                "en": "Let the chilling stories entirely distract you from the rain; wear high-visibility gear when leaving due to poor wet weather sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Inquisición",
+                "hu": "Museo de la Inquisición",
+                "ro": "Museo de la Inquisición",
+                "en": "Museo de la Inquisición"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dunkle Artefakte trocken drinnen; prüfen Sie Ihre Fahrradlichter sorgfältig für die dunkle, regnerische Heimfahrt.",
+                "hu": "Fedezze fel a sötét leleteket beltérben; gondosan ellenőrizze a biciklilámpák működését a sötét, vizes hazaútra.",
+                "ro": "Explorați artefacte întunecate la interior uscat; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul ploios spre casă.",
+                "en": "Explore dark historical artifacts fully indoors; double-check that your bike lights work perfectly for the dark, rainy ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an einem frischen Wintermorgen zu einer erstaunlichen Geologie-Ausstellung drinnen. Mittags wärmen Sie Ihre Beine auf dem Weg zur historischen Mine auf. Verbringen Sie den Nachmittag warm eingepackt in den Museen. Beenden Sie die Fahrt vor 17 Uhr, um der Kälte zu entgehen.",
+            "hu": "Tekerjen fürgén a fagyos téli reggelen egy csodálatos ásványtani kiállításhoz. Délben melegítse be lábait a történelmi bányához vezető úton. A délutánt töltse melegen öltözve a lenyűgöző múzeumok között. Fejezze be a túrát 17:00 előtt, hogy elkerülje a kora esti fagyokat.",
+            "ro": "Pedalați vioi într-o dimineață geroasă de iarnă către o expoziție uimitoare de geologie. La prânz, încălziți-vă picioarele mergând spre mina istorică. Petreceți după-amiaza bine îmbrăcat, trecând între muzee. Finalizați cursa înainte de 17:00 pentru a evita temperaturile de îngheț.",
+            "en": "Cycle briskly on a crisp winter morning to an amazing indoor geology display. By midday, warm your legs riding to the historic underground mine. Spend your afternoon bundled up, transitioning between captivating indoor museums. Finish your ride before 5 PM to avoid freezing early evening temps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de mineralogía",
+                "hu": "Museo de mineralogía",
+                "ro": "Museo de mineralogía",
+                "en": "Museo de mineralogía"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre kalten Finger auf, während Sie leuchtende Steine bewundern; tragen Sie zum Radeln stets atmungsaktive Winterschichten.",
+                "hu": "Melegítse fel fagyos ujjait a ragyogó kövek között; a tekeréshez feltétlenül viseljen légáteresztő téli rétegeket.",
+                "ro": "Dezghețați-vă degetele înghețate admirând pietrele luminoase; purtați mereu straturi de iarnă respirabile pentru pedalat.",
+                "en": "Thaw your cold fingers while admiring the glowing stones; make sure to dress in highly breathable winter layers for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Acuatico",
+                "hu": "Centro Acuatico",
+                "ro": "Centro Acuatico",
+                "en": "Centro Acuatico"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die feuchte, warme Luft am Pool zu spüren, bevor Sie sich wieder auf den eiskalten Sattel schwingen.",
+                "hu": "Lépjen be egy percre, hogy érezze a medence meleg, párás levegőjét, mielőtt visszapattan a jéghideg nyeregbe.",
+                "ro": "Intrați pentru a simți aerul cald și umed de la piscină înainte de a urca din nou pe șaua rece ca gheața.",
+                "en": "Step inside just to feel the humid, warm air by the pool before hopping bravely back onto the freezing cold bike saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mina el Nopal",
+                "hu": "Mina el Nopal",
+                "ro": "Mina el Nopal",
+                "en": "Mina el Nopal"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Mine ist natürlich isoliert und schützt vor Wind, aber behalten Sie beim Abstieg eine geschlossene Windjacke an.",
+                "hu": "A mély bánya természetes szigetelést nyújt a szél ellen, de a belső leereszkedéshez mindenképp vegyen fel egy széldzsekit.",
+                "ro": "Mina adâncă oferă izolație naturală împotriva vântului, dar păstrați o jachetă de vânt închisă pentru coborârea interioară.",
+                "en": "The deep mine stays naturally insulated from the wind, but definitely keep a good windbreaker on for the chilly descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda del Cochero",
+                "hu": "Hacienda del Cochero",
+                "ro": "Hacienda del Cochero",
+                "en": "Hacienda del Cochero"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet tollen Schutz und Geschichte; trinken Sie draußen im Innenhof einen heißen Tee aus Ihrer Thermoskanne.",
+                "hu": "Ez a múzeum menedéket és történelmet kínál; tekerés után igyon egy forró teát a termoszából a csendes udvaron.",
+                "ro": "Acest muzeu oferă un adăpost excelent și istorie; beți un ceai cald din termosul dumneavoastră în curtea liniștită.",
+                "en": "This museum offers great shelter and history; take a moment to sip a hot tea from your thermos in the quiet courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Lamentos",
+                "hu": "Casa de los Lamentos",
+                "ro": "Casa de los Lamentos",
+                "en": "Casa de los Lamentos"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich physisch auf, während Sie gruselige Legenden hören; bringen Sie Thermohandschuhe für die nächste Etappe mit.",
+                "hu": "Melegedjen fel fizikailag, miközben a rémtörténetek borzongatják; a következő tekeréshez húzzon fel vastag termokesztyűt.",
+                "ro": "Încălziți-vă fizic ascultând legende de groază; aduceți neapărat mănuși termice groase pentru următoarea etapă de pedalat.",
+                "en": "Warm up physically while feeling the chills of scary legends; bring high-quality thermal gloves for the next riding leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Inquisición",
+                "hu": "Museo de la Inquisición",
+                "ro": "Museo de la Inquisición",
+                "en": "Museo de la Inquisición"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Ausflug mit dunkler Geschichte drinnen, genau wenn draußen um 17 Uhr die beißend kalte Dämmerung einsetzt.",
+                "hu": "Zárja a túrát a sötét történelem felfedezésével beltérben, pontosan akkor, amikor 17 órakor leszáll a fagyos, csípős alkonyat.",
+                "ro": "Încheiați excursia explorând istoria la interior, exact când afară se lasă amurgul de la ora 17 cu un frig pătrunzător.",
+                "en": "Conclude your trip exploring dark history completely indoors just as the biting cold 5 PM twilight aggressively sets in outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen kényelmesen múzeumról múzeumra, a történelmi ásványokkal kezdve. Délben látogasson el a régi bányaaknákhoz. Délután az inkvizíció sötét kiállításai várják, majd a napot egy pihentető autózással fejezheti be a csendes természetvédelmi területre a hegyekben.",
         "ro": "Conduceți confortabil de la un muzeu la altul, începând cu minerale istorice. La prânz, vizitați vechile puțuri de mină. După-amiaza vă așteaptă expozițiile întunecate ale Inchiziției. Încheiați ziua cu o plimbare relaxantă cu mașina spre rezervația naturală liniștită.",
         "en": "Drive comfortably from museum to museum, starting with historic minerals. At midday, visit old mine shafts and learn about the harsh past. In the afternoon, the dark exhibits of the Inquisition await. End the day with a relaxing drive to the peaceful nature reserve in the hills."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem regnerischen Morgen bequem zu einem faszinierenden Mineralienmuseum. Navigieren Sie mittags langsam über nasse Bergstraßen zur Mine. Verbringen Sie einen gemütlichen Nachmittag in Museen, fernab der Schauer. Beenden Sie den regnerischen Abend mit einer Fahrt zum Naturreservat.",
+            "hu": "Vezessen kényelmesen az esős reggelen egy lenyűgöző ásványtani múzeumhoz. Délben óvatosan navigáljon a nedves hegyi utakon a bányához. A délutánt töltse hangulatos, zárt múzeumokban, távol a záporoktól. Az esős estét zárja egy biztonságos autózással a természetvédelmi terület látogatóközpontjába.",
+            "ro": "Conduceți confortabil în dimineața ploioasă pentru a vizita un muzeu de minerale fascinant. La prânz, navigați încet pe drumurile montane umede spre mină. Petreceți o după-amiază confortabilă explorând muzee interioare, departe de ploaie. Încheiați seara conducând în siguranță către rezervația naturală.",
+            "en": "Drive comfortably through the rainy morning to visit a fascinating mineral museum. Around midday, navigate wet mountain roads slowly toward the historic mine. Spend a cozy afternoon exploring intriguing indoor museums away from the showers. Wrap up your rainy evening safely driving to a nature reserve."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de mineralogía",
+                "hu": "Museo de mineralogía",
+                "ro": "Museo de mineralogía",
+                "en": "Museo de mineralogía"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich am Eingang, um den Regen zu vermeiden, während Sie diese riesige Indoor-Ausstellung betreten.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt, miközben belép ebbe a hatalmas, száraz kiállításra.",
+                "ro": "Parcați mașina cât mai aproape de intrare pentru a evita ploaia în timp ce pășiți în această vastă expoziție complet interioară.",
+                "en": "Park your car as close to the entrance as possible to cleverly avoid the rain while stepping inside this expansive indoor exhibit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mina el Nopal",
+                "hu": "Mina el Nopal",
+                "ro": "Mina el Nopal",
+                "en": "Mina el Nopal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr vorsichtig auf den rutschigen Hängen; im Inneren der Mine sind Sie dann jedoch perfekt vor dem Dauerregen geschützt.",
+                "hu": "Vezessen extrém óvatosan a csúszós hegyi lejtőkön; a bányában aztán már tökéletes védelmet élvezhet a makacs eső ellen.",
+                "ro": "Conduceți cu mare atenție pe pantele alunecoase; în interiorul minei, însă, veți fi perfect adăpostit de ploaia continuă.",
+                "en": "Drive very carefully on the dangerously slippery slopes; once inside the mine, you will be perfectly sheltered from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda del Cochero",
+                "hu": "Hacienda del Cochero",
+                "ro": "Hacienda del Cochero",
+                "en": "Hacienda del Cochero"
+              },
+              "tip_5lang": {
+                "de": "Sie können Ihren nassen Regenschirm getrost im Auto lassen und die wunderbaren historischen Artefakte komplett drinnen erkunden.",
+                "hu": "Nyugodtan hagyja a vizes esernyőt az autóban, és fedezze fel a lenyűgöző történelmi leleteket teljesen, kényelmesen beltérben.",
+                "ro": "Puteți lăsa umbrela udă în mașină fără griji și să explorați minunatele artefacte istorice complet în interiorul uscat.",
+                "en": "You can safely leave your wet umbrella in the car and explore the wonderful historical artifacts completely indoors and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Lamentos",
+                "hu": "Casa de los Lamentos",
+                "ro": "Casa de los Lamentos",
+                "en": "Casa de los Lamentos"
+              },
+              "tip_5lang": {
+                "de": "Das düstere Regenwetter schafft die perfekte Stimmung für diese dunklen Märchen; sprinten Sie einfach fix vom Auto zur Tür.",
+                "hu": "A borús, esős időjárás tökéletes hangulatot teremt a sötét mesékhez; csak szaladjon át gyorsan a meleg autótól a bejáratig.",
+                "ro": "Vremea ploioasă și posomorâtă creează atmosfera perfectă pentru aceste povești; doar alergați rapid de la mașină la ușă.",
+                "en": "The gloomy, wet weather beautifully sets the perfect mood for these dark tales; just make a quick dash from your car to the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Inquisición",
+                "hu": "Museo de la Inquisición",
+                "ro": "Museo de la Inquisición",
+                "en": "Museo de la Inquisición"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie völlig trocken, während Sie gruselige Geschichte in diesem großen Komplex entdecken; ein ideales Regenwetter-Ziel.",
+                "hu": "Maradjon teljesen szárazon, miközben dermesztő történelmet fedez fel ebben a zárt komplexumban; ideális esős napi program.",
+                "ro": "Rămâneți complet uscat în timp ce descoperiți o istorie înfricoșătoare în acest complex mare; o destinație ideală pe ploaie.",
+                "en": "Stay completely dry as you comfortably uncover chilling history in this multi-room indoor complex; an ideal rainy weather stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Boca Mina San Román",
+                "hu": "Boca Mina San Román",
+                "ro": "Boca Mina San Román",
+                "en": "Boca Mina San Román"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint durch den Regen vom Parkplatz bringt Sie schnell zu einer weiteren faszinierenden, trockenen unterirdischen Erkundung.",
+                "hu": "Egy nagyon rövid futás az esőben a parkolóból eljuttatja egy újabb lenyűgöző, garantáltan száraz föld alatti kalandhoz.",
+                "ro": "Un scurt sprint prin ploaie din parcare vă duce rapid la o altă explorare subterană fascinantă și complet uscată.",
+                "en": "A very short dash through the rain from parking gets you quickly to another fascinating, completely dry underground exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Reserva de Conservación Cuenca de la Esperanza",
+                "hu": "Reserva de Conservación Cuenca de la Esperanza",
+                "ro": "Reserva de Conservación Cuenca de la Esperanza",
+                "en": "Reserva de Conservación Cuenca de la Esperanza"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den dramatischen Regen über den Hügeln ganz gemütlich vom Auto oder den überdachten Aussichtspunkten aus.",
+                "hu": "Nézze a drámai esőfelhőket a dombok felett az autó melegéből, vagy a látogatóközpont fedett kilátópontjainak kényelméből.",
+                "ro": "Priviți ploaia dramatică peste dealuri foarte confortabil din mașină sau din zonele de observație complet acoperite.",
+                "en": "Watch the dramatic rain sweeping across the hills comfortably from your car or the safety of the covered observation areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen mit eingeschalteter Heizung auf dem Weg zu einem warmen Museum. Mittags folgt eine malerische Fahrt zur historischen Mine. Verbringen Sie den Nachmittag in gemütlichen, geschlossenen Museen. Gegen 17 Uhr navigieren Sie sicher durch die Berge zum Naturreservat.",
+            "hu": "Indítsa a fagyos téli reggelt bekapcsolt fűtéssel, úton a meleg ásványtani múzeum felé. Délben egy festői, bár hűvös autózás következik a történelmi bányához. A rövid délutánt töltse zárt múzeumokban. Este 5-kor, ahogy sötétedik, óvatosan vezessen a hegyeken át a természetvédelmi területre.",
+            "ro": "Începeți dimineața de iarnă conducând cu căldura pornită spre un muzeu de minerale cald. Prânzul aduce o plimbare pitorească spre o mină istorică. Petreceți după-amiaza scurtă descoperind muzee primitoare. Până la 17:00, când se lasă întunericul, navigați în siguranță pe drumurile montane.",
+            "en": "Start your brisk winter morning driving with the heater on to a warm, indoor mineral museum. Midday brings a scenic, albeit chilly, drive to an incredible historic mine. Spend the short afternoon discovering cozy, enclosed museums. By 5 PM, when darkness falls, safely navigate the mountain roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de mineralogía",
+                "hu": "Museo de mineralogía",
+                "ro": "Museo de mineralogía",
+                "en": "Museo de mineralogía"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre schwersten, unhandlichen Mäntel im warmen Auto, während Sie die hellen, beheizten Ausstellungen bequem erkunden.",
+                "hu": "Hagyja a legvastagabb, kényelmetlen kabátját a meleg autóban, amíg felfedezi a fűtött, világos beltéri kiállítást.",
+                "ro": "Lăsați cele mai groase și incomode paltoane în mașina caldă în timp ce explorați confortabil expozițiile luminoase și încălzite.",
+                "en": "Leave your heaviest, bulky coats locked safely in the warm car while you comfortably explore the bright, heated indoor displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Mina el Nopal",
+                "hu": "Mina el Nopal",
+                "ro": "Mina el Nopal",
+                "en": "Mina el Nopal"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Temperatur ist wunderbar stabil, aber tragen Sie unbedingt einen dicken Pullover für den eisigen Weg zum Eingang.",
+                "hu": "A föld alatti hőmérséklet stabil marad, de vegyen fel egy jó vastag pulóvert a parkolótól a bejáratig tartó fagyos sétához.",
+                "ro": "Temperatura subterană este minunat de stabilă, dar purtați neapărat un pulover gros pentru plimbarea înghețată spre intrare.",
+                "en": "The underground temperature is wonderfully stable, but strictly wear a thick sweater for the freezing short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda del Cochero",
+                "hu": "Hacienda del Cochero",
+                "ro": "Hacienda del Cochero",
+                "en": "Hacienda del Cochero"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich vor der eisigen Winterbrise in diesen alten Räumen auf; am Auto draußen bildet sich nachmittags manchmal schon Frost.",
+                "hu": "Melegedjen fel a csípős téli szélből ezekben a vastag falú szobákban; a kint hagyott autón késő délután már fagy is kialakulhat.",
+                "ro": "Încălziți-vă de la briza înghețată în aceste camere vechi; pe mașina lăsată afară se formează uneori îngheț spre după-amiază.",
+                "en": "Warm up from the freezing winter breeze in these historical rooms; frost occasionally starts forming on your parked car outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Lamentos",
+                "hu": "Casa de los Lamentos",
+                "ro": "Casa de los Lamentos",
+                "en": "Casa de los Lamentos"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie es sich drinnen gemütlich, während das Winterlicht schnell schwindet und die dunklen Märchen noch viel gruseliger werden.",
+                "hu": "Húzódjon be a melegbe, ahogy a téli nappal nagyon gyorsan halványul, amitől a helyi mesék még ijesztőbbé és sötétebbé válnak.",
+                "ro": "Cuibăriți-vă la căldură înăuntru pe măsură ce lumina de iarnă dispare rapid, făcând poveștile întunecate mult mai înfricoșătoare.",
+                "en": "Cozy up inside the warm walls as the winter daylight starts fading remarkably fast, making the dark tales feel much spookier."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Inquisición",
+                "hu": "Museo de la Inquisición",
+                "ro": "Museo de la Inquisición",
+                "en": "Museo de la Inquisición"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungen; schalten Sie beim Verlassen unbedingt früh die Scheinwerfer ein, da es um 17 Uhr dunkel ist.",
+                "hu": "Élvezze a fűtött kiállítást; távozáskor a parkolóban azonnal kapcsolja fel az autó fényszóróit, mert 17:00 körül teljesen besötétedik.",
+                "ro": "Bucurați-vă de expozițiile încălzite; aprindeți farurile mașinii devreme la plecare, deoarece la ora 17:00 este deja întuneric.",
+                "en": "Enjoy the fully heated indoor exhibits; make sure to turn on your car headlights early when leaving, as it gets pitch dark by 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Boca Mina San Román",
+                "hu": "Boca Mina San Román",
+                "ro": "Boca Mina San Román",
+                "en": "Boca Mina San Román"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem beißend kalten Wind rasch in die geschützten Tunnel; eine warme Thermoskanne mit Kaffee aus dem Auto hilft hier enorm.",
+                "hu": "Lépjen be a metszően hideg szélből a védett, csendes alagutakba; egy autóból hozott meleg kávé itt egyenesen csodákat tesz.",
+                "ro": "Ieșiți din vântul rece și tăios rapid în tunelurile protejate; o cafea caldă din termos adusă din mașină ajută enorm aici.",
+                "en": "Step out of the biting cold wind quickly into the sheltered tunnels; having a warm coffee from your car thermos helps immensely here."
+              }
+            },
+            {
+              "name": {
+                "de": "Reserva de Conservación Cuenca de la Esperanza",
+                "hu": "Reserva de Conservación Cuenca de la Esperanza",
+                "ro": "Reserva de Conservación Cuenca de la Esperanza",
+                "en": "Reserva de Conservación Cuenca de la Esperanza"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt vor dem Sonnenuntergang um 17 Uhr an; die eisige Winterdämmerung über der malerischen Landschaft ist spektakulär.",
+                "hu": "Érkezzen mindenképp a 17:00 órás naplemente előtt; a fagyos, csendes táj feletti téli alkonyat az autóból nézve is lenyűgöző.",
+                "ro": "Ajungeți neapărat înainte de apusul de la 17:00; amurgul înghețat de iarnă peste peisajul pitoresc este de-a dreptul spectaculos.",
+                "en": "Arrive safely before the very early 5 PM sunset; the freezing winter twilight over the frosty landscape is absolutely spectacular."
+              }
+            }
+          ]
+        }
       }
     }
   }

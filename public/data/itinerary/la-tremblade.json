@@ -137,6 +137,168 @@
         "hu": "A nap a történelmi La Tremblade szívében indul, a békés Sacré-Cœur templomnál. Egy frissítő reggeli séta után a játékos Pop Corn Labyrinthe várja a látogatókat.\nKésőbb sétáljon tovább a Parc d'attraction de La Cité de l'Huitre felé, ahol megismerheti a régió híres osztrigatenyésztési hagyományait és tengeri kultúráját.\nA délután folyamán a Le Mus du Loup kínál kellemes, part menti barangolást, ahol a finom hullámok és a természet békéje vár mindenkit.\nA túra a nyüzsgő Ronce-les-Bains üdülőhelyen ér véget. Zárja a sétát egy lenyűgöző naplemente megtekintésével a vízparton, finom ital kíséretében.",
         "ro": "Ziua începe în inima istorică a orașului La Tremblade, la liniștita biserică Sacré-Cœur. O scurtă plimbare vă duce apoi către amuzantul Pop Corn Labyrinthe.\nApoi, îndreptați-vă spre Parc d'attraction de La Cité de l'Huitre. Aici vă veți cufunda în moștenirea celebră a cultivării stridiilor din această regiune minunată.\nDupă-amiaza vă invită la o plimbare pașnică pe coastă până la Le Mus du Loup, unde valurile blânde și natura oferă un decor deosebit de pitoresc.\nCălătoria se încheie în stațiunea animată Ronce-les-Bains. Finalizați aventura pietonală cu un apus superb și o băutură răcoritoare chiar pe malul apei.",
         "en": "Your day begins in the historic heart of La Tremblade at the serene Sacré-Cœur Church. From there, a morning walk takes you through the charming streets down to the playful Pop Corn Labyrinthe.\nAfter working up an appetite, continue towards the Parc d'attraction de La Cité de l'Huitre. Here, you will dive deep into the region's famous oyster farming heritage and enjoy the maritime sights.\nThe afternoon invites a peaceful stroll along the coast to Le Mus du Loup, where the gentle waves and local wildlife provide a picturesque backdrop.\nYour journey concludes in the bustling Ronce-les-Bains Resort. End your walking adventure with a beautiful sunset view and a refreshing local beverage right by the water's edge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt in der Sacré-Cœur-Kirche. Mittags bietet die Cité de l'Huitre hervorragende überdachte Ausstellungen über die Austernzucht. Nachmittags erkunden Sie die lokale Geschichte im Mus du Loup, bevor Sie den Abend bei einem regnerischen Spaziergang an der Küste von Ronce-les-Bains ausklingen lassen. Ein robuster Regenschirm und wasserfeste Schuhe sind heute unerlässlich.",
+            "hu": "Kezdje a napot a Sacré-Cœur templom védelmében. Délben a Cité de l'Huitre fedett kiállításai kínálnak menedéket és tudást az osztrigatenyésztésről. Délután látogasson el a Mus du Loup múzeumba, majd zárja az estét Ronce-les-Bains partján egy esernyős séta keretében. A tengerparti szélben egy jó esőkabát és vízálló cipő ma a legjobb barátja lesz.",
+            "ro": "Începeți ziua la adăpost în Biserica Sacré-Cœur. La prânz, Cité de l'Huitre oferă expoziții interioare excelente despre stridii. După-amiaza, descoperiți istoria locală la Mus du Loup, iar seara încheiați-o cu o plimbare sub umbrelă în Ronce-les-Bains. O pelerină de ploaie și încălțăminte impermeabilă sunt esențiale pentru a vă bucura de peisajul umed.",
+            "en": "Start your day sheltered inside the Sacré-Cœur Church. At noon, the Cité de l'Huitre provides excellent indoor exhibits about oyster farming. In the afternoon, explore local history at Mus du Loup, then finish the evening with a rainy stroll along the coast of Ronce-les-Bains. A sturdy umbrella and waterproof shoes are your best companions today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sacré-Cœur-Kirche",
+                "hu": "Sacré-Cœur templom",
+                "ro": "Biserica Sacré-Cœur",
+                "en": "Sacré-Cœur Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im trockenen Kirchenschiff; die Stille während des Regens bietet eine besondere Atmosphäre für Besinnung.",
+                "hu": "Csodálja meg az építészetet a száraz hajóban; az eső kopogása a tetőn különleges, megnyugtató hangulatot áraszt a látogatás alatt.",
+                "ro": "Admirați arhitectura în nava uscată a bisericii; liniștea din timpul ploii oferă o atmosferă specială pentru reflecție și liniște.",
+                "en": "Admire the architecture inside the dry nave; the sound of rain on the roof creates a peaceful atmosphere for quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Pop Corn Labyrinthe",
+                "hu": "Pop Corn Labyrinthe",
+                "ro": "Pop Corn Labyrinthe",
+                "en": "Pop Corn Labyrinthe"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade können schlammig sein; tragen Sie Gummistiefel, um das Labyrinth als spielerische Herausforderung gegen die Elemente zu meistern.",
+                "hu": "Az ösvények sárosak lehetnek; viseljen gumicsizmát, hogy a labirintust az elemek elleni játékos kihívásként élhesse meg.",
+                "ro": "Potecile pot fi noroioase; purtați cizme de cauciuc pentru a parcurge labirintul ca pe o provocare distractivă împotriva elementelor.",
+                "en": "The paths can be muddy; wear rubber boots to enjoy the maze as a playful challenge against the elements during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Cité de l'Huitre",
+                "hu": "Cité de l'Huitre Élménypark",
+                "ro": "Parcul Tematic Cité de l'Huitre",
+                "en": "Cité de l'Huitre Theme Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Pavillons, um alles über die Austern zu lernen, ohne nass zu werden; idealer Zufluchtsort bei Schauern.",
+                "hu": "Használja ki a fedett pavilonokat, hogy mindent megtudjon az osztrigákról anélkül, hogy elázna; tökéletes menedék az eső elől.",
+                "ro": "Folosiți pavilioanele acoperite pentru a învăța totul despre stridii fără a vă uda; este refugiul ideal în timpul averselor de ploaie.",
+                "en": "Utilize the covered pavilions to learn everything about oysters without getting wet; it is the perfect refuge during passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Mus du Loup",
+                "hu": "Le Mus du Loup",
+                "ro": "Le Mus du Loup",
+                "en": "Le Mus du Loup"
+              },
+              "tip_5lang": {
+                "de": "Dieser Innenraum ist perfekt, um die lokale Geschichte kennenzulernen, während es draußen stürmt; prüfen Sie die Öffnungszeiten bei Regen.",
+                "hu": "Ez a belső tér tökéletes a helyi történelem megismeréséhez, miközben kint tombol a vihar; esőben is kényelmesen látogatható helyszín.",
+                "ro": "Acest spațiu interior este perfect pentru a cunoaște istoria locală în timp ce afară plouă; verificați programul de vizitare.",
+                "en": "This indoor space is perfect for discovering local history while it storms outside; stay dry while exploring the traditional exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferienort Ronce-les-Bains",
+                "hu": "Ronce-les-Bains üdülőhely",
+                "ro": "Stațiunea Ronce-les-Bains",
+                "en": "Ronce-les-Bains Resort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer von einer überdachten Café-Terrasse aus; ein heißes Getränk wärmt Sie nach dem Marsch auf.",
+                "hu": "Élvezze a szürke tenger látványát egy fedett kávézó teraszáról; egy forró ital jól esik a vizes séta után a kikötő közelében.",
+                "ro": "Bucurați-vă de vederea mării cenușii de pe o terasă acoperită a unei cafenele; o băutură caldă vă va încălzi după plimbare.",
+                "en": "Enjoy the view of the grey sea from a covered café terrace; a hot drink will warm you up after your walk along the promenade."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen beginnt in der Kirche. Mittags wärmt Sie die salzige Luft in der Cité de l'Huitre, gefolgt von einem Museumsbesuch. Beenden Sie Ihre Tour in Ronce-les-Bains vor Einbruch der Dunkelheit um 17:00 Uhr. Die Wintersonne steht tief und taucht die Marschen in ein goldenes Licht. Warme Schichten und Handschuhe sind für den Küstenwind unerlässlich.",
+            "hu": "Frissítő téli reggel a templomnál. Délben az osztrigapark sós levegője várja, majd egy múzeumi látogatás következik. Fejezze be a túrát Ronce-les-Bains-ben a korai, 17:00-s sötétedés előtt. A téli nap alacsonyan jár, arany fénybe vonva a mocsarakat. A réteges öltözködés és a kesztyű elengedhetetlen a tengeri szélben.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserică. La prânz, aerul sărat de la Cité de l'Huitre vă înviorează, urmat de o vizită la muzeu. Încheiați turul în Ronce-les-Bains înainte de apusul de la ora 17:00. Soarele de iarnă luminează mlaștinile într-o culoare aurie. Hainele groase și mănușile sunt vitale contra vântului.",
+            "en": "A refreshing winter morning starts at the church. At noon, the salty air at Cité de l'Huitre invigorates you, followed by a museum visit. Finish your tour in Ronce-les-Bains before the early sunset at 5 PM. The winter sun stays low, bathing the marshes in golden light. Warm layers and gloves are essential for the coastal wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sacré-Cœur-Kirche",
+                "hu": "Sacré-Cœur templom",
+                "ro": "Biserica Sacré-Cœur",
+                "en": "Sacré-Cœur Church"
+              },
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm für das kühle Innere der Kirche; genießen Sie die friedliche Stille abseits der sommerlichen Touristenmassen.",
+                "hu": "Öltözzön melegen a templom hűvös belső teréhez; élvezze a békés csendet, távol a nyári turistaáradattól és a zajtól.",
+                "ro": "Îmbrăcați-vă gros pentru interiorul răcoros al bisericii; bucurați-vă de liniștea deplină, departe de aglomerația turistică de vară.",
+                "en": "Dress warmly for the cool interior of the church; enjoy the peaceful silence away from the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Pop Corn Labyrinthe",
+                "hu": "Pop Corn Labyrinthe",
+                "ro": "Pop Corn Labyrinthe",
+                "en": "Pop Corn Labyrinthe"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Labyrinth oft kahl; nutzen Sie die freien Flächen für einen weiten Blick über die Winterlandschaft der Küste.",
+                "hu": "Télen a labirintus gyakran kopár; használja ki a nyílt terepet a parti táj és a befagyott barázdák különleges látványáért.",
+                "ro": "Iarna, labirintul este adesea pustiu; profitați de spațiile deschise pentru o vedere largă asupra peisajului de coastă hibernal.",
+                "en": "The maze is often bare in winter; use the open areas for a wide view over the coastal landscape in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Cité de l'Huitre",
+                "hu": "Cité de l'Huitre Élménypark",
+                "ro": "Parcul Tematic Cité de l'Huitre",
+                "en": "Cité de l'Huitre Theme Park"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie frische Austern; die kalte Winterluft macht die Meeresfrüchte noch knackiger und authentischer im Geschmack.",
+                "hu": "Kóstolja meg a friss osztrigát; a hideg téli levegő még frissebbé és hitelesebbé teszi a tenger gyümölcseinek ízét a kunyhóknál.",
+                "ro": "Gustați stridii proaspete; aerul rece de iarnă face fructele de mare și mai crocante și autentice ca gust în cabanele pescarilor.",
+                "en": "Taste fresh oysters; the cold winter air makes the seafood even crisper and more authentic in flavor at the local stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Mus du Loup",
+                "hu": "Le Mus du Loup",
+                "ro": "Le Mus du Loup",
+                "en": "Le Mus du Loup"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag, um die Exponate im natürlichen Licht vor dem frühen Sonnenuntergang zu sehen.",
+                "hu": "Látogassa meg a múzeumot kora délután, hogy a kiállításokat még természetes fénynél láthassa a korai sötétedés előtt.",
+                "ro": "Vizitați muzeul după-amiaza devreme pentru a vedea exponatele în lumină naturală înainte de apusul soarelui timpuriu.",
+                "en": "Visit the museum in the early afternoon to see the exhibits in natural light before the winter dusk sets in at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferienort Ronce-les-Bains",
+                "hu": "Ronce-les-Bains üdülőhely",
+                "ro": "Stațiunea Ronce-les-Bains",
+                "en": "Ronce-les-Bains Resort"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Einsamkeit des Winters am Meer; die leere Promenade bietet eine melancholische, aber wunderschöne Kulisse.",
+                "hu": "Tapasztalja meg a téli tengerparti magányt; az üres sétány melankolikus, de gyönyörű hátteret biztosít a kora esti sétához.",
+                "ro": "Experimentați singurătatea iernii la malul mării; promenada goală oferă un cadru melancolic, dar superb pentru o plimbare.",
+                "en": "Experience the solitude of winter by the sea; the empty promenade offers a melancholic but beautiful backdrop for your walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a kerékpártúrát a fenséges Sacré-Cœur templomnál, mielőtt a part felé venné az irányt, hogy felfedezze az osztrigatenyésztés titkait a Cité de l'Huitre-ben.\nA déli órák a nyüzsgő Ronce-les-Bains üdülőhelyre vezetik, ahol a hangulatos tengerparti építészet közepette megpihenhet és falatozhat egy kicsit.\nDélután tekerjen végig a parton a Plage de La Cèpe-hez egy frissítő fürdőzésre, majd fedezze fel a La Coubre erdő illatos, árnyékos ösvényeit.\nAz aktív nap lezárásaként kerekezzen vissza a város felé a Pop Corn Labyrinthe-hez, amely igazán játékos befejezése lesz a La Tremblade-i kalandnak.",
         "ro": "Începeți turul cu bicicleta la biserica Sacré-Cœur înainte de a pedala spre coastă pentru a explora Cité de l'Huitre și expozițiile sale fascinante.\nLa prânz veți ajunge în animata stațiune Ronce-les-Bains, locul perfect pentru a vă odihni și a savura o gustare printre clădirile cochete.\nDupă-amiaza, pedalați spre Plage de La Cèpe pentru o scurtă baie, apoi aventurați-vă pe traseele umbrite și parfumate din pădurea La Coubre.\nÎncheiați ziua activă întorcându-vă spre oraș pentru a cuceri labirintul Pop Corn, o modalitate minunat de relaxantă de a termina turul.",
         "en": "Kick off your cycling tour at the majestic Sacré-Cœur Church before riding towards the coast to explore the fascinating Cité de l'Huitre and its oyster farming exhibits.\nMidday brings you to the lively Ronce-les-Bains Resort, offering a perfect spot to rest and grab a quick bite amidst the charming seaside architecture.\nIn the afternoon, pedal along the coast to Plage de La Cèpe for a quick swim, then venture into the fragrant and shady trails of La Coubre Forest.\nWrap up your active day by cycling back towards town to conquer the Pop Corn Labyrinthe, a wonderfully playful way to finish your tour in La Tremblade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig auf nassen Wegen zur Cité de l'Huitre. Der Regen macht die Küstenlandschaft mystisch, erfordert aber gute Bremsen. Verbringen Sie Zeit in den überdachten Bereichen der Austernfarm und Ronce-les-Bains. Die Strände sind windig, also bleiben Sie in Küstennähe geschützt. Tragen Sie eine vollflächige Regenjacke und achten Sie auf rutschige Kiefernadeln im Wald.",
+            "hu": "Tekerjen óvatosan a vizes utakon az osztrigapark felé. Az eső misztikussá teszi a parti tájat, de jó fékeket igényel. Töltsön több időt a Cité de l'Huitre fedett részein és Ronce-les-Bains kávézóiban. A strandok szelesek, keressen szélvédett szakaszokat. Viseljen teljes esőruházatot, és vigyázzon a csúszós fenyőtűkre az erdei utakon.",
+            "ro": "Pedalați cu grijă pe drumurile ude spre Cité de l'Huitre. Ploaia face peisajul de coastă mistic, dar necesită frâne bune. Petreceți timp în zonele acoperite ale fermei de stridii și în Ronce-les-Bains. Plajele sunt vântoase, deci rămâneți protejați. Purtați haine de ploaie complete și atenție la acele de pin alunecoase în pădure.",
+            "en": "Cycle carefully on wet paths towards Cité de l'Huitre. The rain makes the coastal landscape mystical but requires good brakes. Spend time in the covered areas of the oyster farm and Ronce-les-Bains cafes. Beaches are windy, so stay sheltered near the coast. Wear full rain gear and watch out for slippery pine needles in the forest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sacré-Cœur-Kirche",
+                "hu": "Sacré-Cœur templom",
+                "ro": "Biserica Sacré-Cœur",
+                "en": "Sacré-Cœur Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und nutzen Sie die Kirche als trockenen Startpunkt für Ihre Tour durch das regnerische La Tremblade.",
+                "hu": "Támassza le a kerékpárt egy védett helyen, és használja a templomot száraz indópontként az esős La Tremblade-i túrához.",
+                "ro": "Parcați bicicleta la adăpost și folosiți biserica ca punct de plecare uscat pentru turul prin La Tremblade pe ploaie.",
+                "en": "Park your bike under cover and use the church as a dry starting point for your tour through rainy La Tremblade."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Cité de l'Huitre",
+                "hu": "Cité de l'Huitre Élménypark",
+                "ro": "Parcul Tematic Cité de l'Huitre",
+                "en": "Cité de l'Huitre Theme Park"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zwischenstopp zum Aufwärmen; die Ausstellungsräume bieten Schutz vor den Schauern, während Sie über den Kanal radeln.",
+                "hu": "Ideális megálló a bemelegítéshez; a kiállítótermek védelmet nyújtanak a záporok elől, miközben a csatorna mentén kerekezik.",
+                "ro": "O oprire ideală pentru încălzire; sălile de expoziție oferă protecție împotriva averselor în timp ce pedalați de-a lungul canalului.",
+                "en": "An ideal stop to warm up; the exhibition rooms provide shelter from showers while you cycle along the canal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferienort Ronce-les-Bains",
+                "hu": "Ronce-les-Bains üdülőhely",
+                "ro": "Stațiunea Ronce-les-Bains",
+                "en": "Ronce-les-Bains Resort"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Straßen im Ort; parken Sie das Rad und suchen Sie Schutz in einer der vielen kleinen Galerien.",
+                "hu": "Vigyázzon a csúszós utakra a városban; tegye le a bringát, és keressen menedéket a számos kis galéria egyikében.",
+                "ro": "Atenție la drumurile alunecoase din oraș; parcați bicicleta și căutați adăpost într-una dintre numeroasele galerii mici.",
+                "en": "Watch out for slippery roads in town; park your bike and seek shelter in one of the many small local galleries or shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Cèpe",
+                "hu": "La Cèpe strand",
+                "ro": "Plaja La Cèpe",
+                "en": "La Cèpe Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer kurz vom Ufer aus, bevor Sie schnell weiterfahren, um nicht auszukühlen.",
+                "hu": "Figyelje meg a viharos tengert rövid ideig a partról, mielőtt gyorsan továbbhajtana, hogy ne hűljön ki a vizes ruhában.",
+                "ro": "Observați marea agitată scurt timp de pe mal, înainte de a pleca rapid mai departe pentru a nu răci în hainele ude.",
+                "en": "Observe the stormy sea briefly from the shore before cycling on quickly to avoid getting too cold in the wet wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von La Coubre",
+                "hu": "La Coubre erdő",
+                "ro": "Pădurea La Coubre",
+                "en": "La Coubre Forest"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach bietet etwas Schutz, aber die Radwege können durch nasses Laub und Nadeln rutschig sein.",
+                "hu": "A sűrű lombozat ad némi védelmet az eső ellen, de a kerékpárutak a vizes levelek és tűlevelek miatt csúszósak lehetnek.",
+                "ro": "Coronamentul des oferă puțină protecție, dar pistele de biciclete pot fi alunecoase din cauza frunzelor și acelor ude.",
+                "en": "The dense canopy provides some shelter from the rain, but cycle paths can be slippery due to wet leaves and pine needles."
+              }
+            },
+            {
+              "name": {
+                "de": "Pop Corn Labyrinthe",
+                "hu": "Pop Corn Labyrinthe",
+                "ro": "Pop Corn Labyrinthe",
+                "en": "Pop Corn Labyrinthe"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie tiefe Pfützen; das Radfahren hierher ist ein Abenteuer, also sichern Sie Ihr Gepäck mit wasserdichten Taschen.",
+                "hu": "Számítson mély tócsákra; az idevezető út igazi kaland, ezért rögzítse csomagjait vízhatlan táskákban a kerékpáron.",
+                "ro": "Așteptați-vă la bălți adânci; drumul până aici este o aventură, așa că asigurați-vă bagajele în genți impermeabile.",
+                "en": "Expect deep puddles; cycling here is an adventure, so secure your belongings in waterproof bags on your bike rack."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert Thermobekleidung gegen den beißenden Atlantikwind. Die Wege durch die Marschen sind leer und friedlich. Planen Sie Ihre Rückkehr vor 16:30 Uhr ein, da es im Wald von La Coubre schnell dunkel wird. Die Cité de l'Huitre bietet einen herzhaften Zwischenstopp. Genießen Sie die klare Sicht und die frische Luft, die den Kopf frei macht.",
+            "hu": "A téli kerékpározás hőtartó ruházatot igényel a metsző atlanti szél ellen. A mocsarakon átvezető utak üresek és békések. Tervezze meg a visszatérést 16:30 előtt, mert a La Coubre erdőben gyorsan sötétedik. Az osztrigapark tartalmas pihenőt kínál. Élvezze a tiszta kilátást és a friss levegőt, ami teljesen kikapcsolja.",
+            "ro": "O tură de iarnă cu bicicleta necesită haine termice contra vântului tăios al Atlanticului. Drumurile prin mlaștini sunt pustii și liniștite. Planificați întoarcerea înainte de 16:30, deoarece în pădure se întunecă repede. Cité de l'Huitre oferă un popas revigorant. Bucurați-vă de vizibilitatea clară și aerul proaspăt.",
+            "en": "A winter bike ride requires thermal clothing against the biting Atlantic wind. The paths through the marshes are empty and peaceful. Plan your return before 4:30 PM as it gets dark quickly in La Coubre Forest. Cité de l'Huitre offers a hearty stop. Enjoy the clear views and the crisp air that clears your mind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sacré-Cœur-Kirche",
+                "hu": "Sacré-Cœur templom",
+                "ro": "Biserica Sacré-Cœur",
+                "en": "Sacré-Cœur Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie ruhig; die Kirche bietet einen windgeschützten Ort, um Ihre Route auf der Karte zu prüfen, bevor Sie losfahren.",
+                "hu": "Kezdjen nyugodtan; a templom szélvédett helyet kínál az útvonal ellenőrzéséhez a térképen, mielőtt nekivágna a hidegnek.",
+                "ro": "Începeți în liniște; biserica oferă un loc ferit de vânt pentru a vă verifica traseul pe hartă înainte de a pleca la drum.",
+                "en": "Start calmly; the church offers a wind-sheltered spot to check your route on the map before heading out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Cité de l'Huitre",
+                "hu": "Cité de l'Huitre Élménypark",
+                "ro": "Parcul Tematic Cité de l'Huitre",
+                "en": "Cité de l'Huitre Theme Park"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände bei einer Austernverkostung; die Bewegung beim Radfahren hält Sie warm, aber kleine Pausen sind nötig.",
+                "hu": "Melegítse fel kezeit egy osztrigakóstoló közben; a tekerés melegen tartja, de a kis szünetek szükségesek a regenerálódáshoz.",
+                "ro": "Încălziți-vă mâinile în timpul unei degustări de stridii; mișcarea vă ține cald, dar micile pauze sunt necesare pentru odihnă.",
+                "en": "Warm your hands during an oyster tasting; the movement of cycling keeps you warm, but small indoor breaks are necessary."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferienort Ronce-les-Bains",
+                "hu": "Ronce-les-Bains üdülőhely",
+                "ro": "Stațiunea Ronce-les-Bains",
+                "en": "Ronce-les-Bains Resort"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind an der Küste ist stark; nutzen Sie die Gebäude im Ort als Windschatten beim Radeln entlang der Promenade.",
+                "hu": "A téli szél erős a parton; használja a város épületeit szélárnyékként, miközben a sétány mentén kerekezik a hidegben.",
+                "ro": "Vântul de iarnă la malul mării este puternic; folosiți clădirile din oraș ca paravan împotriva vântului în timp ce pedalați.",
+                "en": "The winter wind on the coast is strong; use the town buildings as a windbreak while cycling along the empty promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Cèpe",
+                "hu": "La Cèpe strand",
+                "ro": "Plaja La Cèpe",
+                "en": "La Cèpe Beach"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie eine Thermoskanne mit Tee ein; ein heißes Getränk am winterlichen Strand ist ein Highlight Ihrer Radtour.",
+                "hu": "Csomagoljon teát egy termoszházba; egy forró ital a téli strandon a kerékpártúra egyik fénypontja lesz a hidegben.",
+                "ro": "Luați un termos cu ceai; o băutură caldă pe plaja hibernală este un punct culminant al turei dumneavoastră cu bicicleta.",
+                "en": "Pack a thermos with tea; a hot drink on the winter beach is a highlight of your bike tour in the freezing Atlantic air."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von La Coubre",
+                "hu": "La Coubre erdő",
+                "ro": "Pădurea La Coubre",
+                "en": "La Coubre Forest"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit; die Sonne sinkt tief und die Temperaturen fallen im Wald am späten Nachmittag spürbar.",
+                "hu": "Figyeljen az időre; a nap alacsonyan jár, és az erdőben a hőmérséklet érezhetően visszaesik a késő délutáni órákban.",
+                "ro": "Atenție la timp; soarele coboară, iar temperaturile în pădure scad vizibil în orele târzii ale după-amiezii.",
+                "en": "Watch the time; the sun sinks low and temperatures in the forest drop significantly in the late afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Pop Corn Labyrinthe",
+                "hu": "Pop Corn Labyrinthe",
+                "ro": "Pop Corn Labyrinthe",
+                "en": "Pop Corn Labyrinthe"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren sein; radeln Sie vorsichtig über Unebenheiten und genießen Sie die Stille des Winters auf dem Land.",
+                "hu": "A talaj fagyott lehet; tekerjen óvatosan az egyenetlenségeken, és élvezze a téli vidék csendjét és nyugalmát.",
+                "ro": "Solul poate fi înghețat; pedalați cu atenție peste denivelări și bucurați-vă de liniștea iernii la țară.",
+                "en": "The ground might be frozen; cycle carefully over bumps and enjoy the silence of the winter countryside on your way back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A festői autózás a történelmi Sacré-Cœur templomnál indul, ahonnan gyorsan elérheti a partvidéki Cité de l'Huitre parkot és az osztrigatenyésztést.\nVezessen át a népszerű Ronce-les-Bains üdülőhelyre egy déli pihenőre, ahol élvezheti a tengeri szellőt és a klasszikus francia tengerparti hangulatot.\nA délutáni program egy gyönyörű útvonal a La Coubre erdő magas fenyői között, amely egyenesen a lenyűgöző La Bouverie Beach óceáni szakaszához vezet.\nAz utazást az ikonikus La Coubre világítótorony megmászásával zárja, amely felejthetetlen, panorámás naplementével jutalmazza meg az egész partszakasz felett.",
         "ro": "Plimbarea pitorească cu mașina începe la biserica Sacré-Cœur, ducându-vă rapid către parcul de atracții Cité de l'Huitre pentru a învăța despre stridii.\nConduceți până la populara stațiune Ronce-les-Bains pentru o pauză de prânz relaxantă, bucurându-vă de briza și atmosfera clasică franceză.\nDupă-amiaza, un traseu frumos prin pinii înalți din pădurea La Coubre vă va conduce direct spre plaja uluitoare cu ieșire la ocean, La Bouverie.\nÎncheiați călătoria urcând în farul emblematic La Coubre, unde un apus panoramic de neuitat peste întreaga regiune vă va recompensa efortul.",
         "en": "Your scenic drive begins at the historic Sacré-Cœur Church, quickly bringing you to the coastal charm of the Parc d'attraction de La Cité de l'Huitre to learn about oysters.\nDrive over to the popular Ronce-les-Bains Resort for a refreshing midday break, enjoying the coastal breeze and the classic French seaside atmosphere.\nThe afternoon features a scenic route through the towering pines of La Coubre Forest, leading directly to the stunning oceanic stretches of La Bouverie Beach.\nConclude your road trip by ascending the iconic La Coubre Lighthouse, rewarding you with an unforgettable panoramic sunset view over the entire coastal region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto bleiben Sie zwischen den Highlights trocken. Besuchen Sie die Cité de l'Huitre und den Leuchtturm La Coubre, der bei Sturm besonders beeindruckend wirkt. Der Regen peitscht gegen die Scheiben, während Sie sicher die Küstenstraße entlangfahren. Nutzen Sie die Flexibilität, um schnell zwischen überdachten Zielen zu wechseln. Ein Tag voller dramatischer Meeresansichten.",
+            "hu": "Autóval szárazon maradhat a látnivalók között. Látogasson el az osztrigaparkba és a La Coubre világítótoronyhoz, amely viharban különösen lenyűgöző. Az eső az ablakon kopog, miközben Ön biztonságban halad a parti úton. Használja ki a rugalmasságot, hogy gyorsan váltson a fedett helyszínek között. Drámai tengeri kilátások várják ma.",
+            "ro": "Cu mașina rămâneți uscat între punctele de interes. Vizitați Cité de l'Huitre și farul La Coubre, care arată impresionant pe furtună. Ploaia bate în geamuri în timp ce conduceți în siguranță pe drumul de coastă. Profitați de flexibilitate pentru a schimba rapid între destinațiile acoperite. O zi plină de vederi marine dramatice.",
+            "en": "By car, you stay dry between the highlights. Visit Cité de l'Huitre and the La Coubre Lighthouse, which looks especially impressive during a storm. Rain lashes against the windows while you drive safely along the coastal road. Use the flexibility to switch quickly between sheltered destinations for a day of dramatic sea views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sacré-Cœur-Kirche",
+                "hu": "Sacré-Cœur templom",
+                "ro": "Biserica Sacré-Cœur",
+                "en": "Sacré-Cœur Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe; die Kirche ist ein idealer Startpunkt, um den Regen im historischen Ambiente kurz zu vergessen.",
+                "hu": "Parkoljon közvetlenül a közelben; a templom ideális kezdőpont, hogy a történelmi környezetben rövid időre elfelejtse az esőt.",
+                "ro": "Parcați chiar în apropiere; biserica este un punct de plecare ideal pentru a uita scurt de ploaie în ambianța istorică.",
+                "en": "Park directly nearby; the church is an ideal starting point to briefly forget the rain in a historic indoor setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Cité de l'Huitre",
+                "hu": "Cité de l'Huitre Élménypark",
+                "ro": "Parcul Tematic Cité de l'Huitre",
+                "en": "Cité de l'Huitre Theme Park"
+              },
+              "tip_5lang": {
+                "de": "Hinterlassen Sie die nassen Schirme im Auto und genießen Sie die trockenen Ausstellungsbereiche über die lokale Austernkultur.",
+                "hu": "Hagyja a vizes esernyőket az autóban, és élvezze a száraz kiállítótereket, ahol megismerheti a helyi osztrigakultúrát.",
+                "ro": "Lăsați umbrelele ude în mașină și bucurați-vă de zonele de expoziție uscate despre cultura locală a stridiilor.",
+                "en": "Leave wet umbrellas in the car and enjoy the dry exhibition areas to learn about the local oyster culture in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferienort Ronce-les-Bains",
+                "hu": "Ronce-les-Bains üdülőhely",
+                "ro": "Stațiunea Ronce-les-Bains",
+                "en": "Ronce-les-Bains Resort"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Promenade entlang und machen Sie Fotos aus dem Auto; die Architektur wirkt bei Regen besonders stimmungsvoll.",
+                "hu": "Hajtson végig a sétányon, és készítsen fotókat az autóból; az építészet esőben különlegesen hangulatos látványt nyújt.",
+                "ro": "Conduceți de-a lungul promenadei și faceți fotografii din mașină; arhitectura pare deosebit de sugestivă pe ploaie.",
+                "en": "Drive along the promenade and take photos from the car; the architecture looks especially atmospheric in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von La Coubre",
+                "hu": "La Coubre erdő",
+                "ro": "Pădurea La Coubre",
+                "en": "La Coubre Forest"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze im Wald für kurze Wege zu Aussichtspunkten; der Regen macht den Duft der Kiefern besonders intensiv.",
+                "hu": "Használja az erdei parkolókat a kilátópontok gyors eléréséhez; az eső miatt a fenyők illata különösen intenzívvé válik.",
+                "ro": "Folosiți parcările din pădure pentru acces rapid la punctele de belvedere; ploaia face mirosul pinilor deosebit de intens.",
+                "en": "Use the forest parking lots for short walks to viewpoints; the rain makes the scent of the pines especially intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Bouverie",
+                "hu": "La Bouverie strand",
+                "ro": "Plaja La Bouverie",
+                "en": "La Bouverie Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung sicher aus dem warmen Auto; der wilde Atlantik bietet bei Sturm ein spektakuläres Naturschauspiel.",
+                "hu": "Figyelje a hullámtörést biztonságban a meleg autóból; a vad Atlanti-óceán viharban látványos természeti jelenséget produkál.",
+                "ro": "Observați valurile în siguranță din mașina caldă; Atlanticul sălbatic oferă un spectacol natural spectaculos pe furtună.",
+                "en": "Watch the surf safely from your warm car; the wild Atlantic offers a spectacular natural spectacle during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm La Coubre",
+                "hu": "La Coubre világítótorony",
+                "ro": "Farul La Coubre",
+                "en": "La Coubre Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich für den Blick auf die graue See; die Treppen können feucht sein, halten Sie sich gut an den Handläufen fest.",
+                "hu": "A feljutás megéri a szürke tenger látványáért; a lépcsők nedvesek lehetnek, kapaszkodjon erősen a korlátba mászás közben.",
+                "ro": "Urcarea merită pentru vederea mării cenușii; treptele pot fi umede, așa că țineți-vă bine de balustrade în timpul urcării.",
+                "en": "The climb is worth it for the view of the grey sea; stairs may be damp, so hold firmly to the handrails while ascending."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres geheizten Wagens bei einer winterlichen Tour. Die Küstenstraße bietet atemberaubende Panoramen ohne Touristenstau. Besuchen Sie den Leuchtturm La Coubre für einen frühen Sonnenuntergang über dem Ozean um 17:00 Uhr. Die klare Winterluft ermöglicht weite Sichten. Parken Sie nah an den Sehenswürdigkeiten, um die Kältephasen kurz zu halten.",
+            "hu": "Élvezze fűtött autója kényelmét a téli túra során. A parti út lélegzetelállító panorámát kínál turisták nélkül. Látogasson el a La Coubre világítótoronyhoz a korai, 17:00-s naplementére az óceán felett. A tiszta téli levegő messzi kilátást tesz lehetővé. Parkoljon közel a látnivalókhoz, hogy minimalizálja a kinti hidegben töltött időt.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite în timpul turului de iarnă. Drumul de coastă oferă panorame uluitoare fără turiști. Vizitați farul La Coubre pentru un apus timpuriu peste ocean la ora 17:00. Aerul clar de iarnă permite vederi la distanță. Parcați aproape de obiective pentru a scurta timpul petrecut în frig.",
+            "en": "Enjoy the comfort of your heated car during this winter tour. The coastal road offers breathtaking panoramas without tourist traffic. Visit the La Coubre Lighthouse for an early sunset over the ocean at 5 PM. The clear winter air allows for long-distance views. Park close to the sights to keep outdoor cold exposures short."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sacré-Cœur-Kirche",
+                "hu": "Sacré-Cœur templom",
+                "ro": "Biserica Sacré-Cœur",
+                "en": "Sacré-Cœur Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf; die Ruhe des Winters lässt Sie die historischen Details der Kirche ohne Ablenkung genießen.",
+                "hu": "Melegedjen fel a belső térben; a téli nyugalom lehetővé teszi, hogy zavaró tényezők nélkül csodálja meg a templom részleteit.",
+                "ro": "Încălziți-vă în interior; liniștea iernii vă permite să savurați detaliile istorice ale bisericii fără nicio distragere.",
+                "en": "Warm up inside; the silence of winter allows you to enjoy the historic details of the church without any distractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Cité de l'Huitre",
+                "hu": "Cité de l'Huitre Élménypark",
+                "ro": "Parcul Tematic Cité de l'Huitre",
+                "en": "Cité de l'Huitre Theme Park"
+              },
+              "tip_5lang": {
+                "de": "Die Austernhütten sind im Winter weniger besucht; parken Sie direkt davor und genießen Sie die authentische Atmosphäre am Kanal.",
+                "hu": "Az osztrigás kunyhók télen kevésbé látogatottak; parkoljon közvetlenül előttük, és élvezze a csatorna menti hiteles hangulatot.",
+                "ro": "Cabanele de stridii sunt mai puțin vizitate iarna; parcați chiar în față și bucurați-vă de atmosfera autentică de-a lungul canalului.",
+                "en": "The oyster huts are less crowded in winter; park directly in front and enjoy the authentic atmosphere along the canal."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferienort Ronce-les-Bains",
+                "hu": "Ronce-les-Bains üdülőhely",
+                "ro": "Stațiunea Ronce-les-Bains",
+                "en": "Ronce-les-Bains Resort"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis für kurze Spaziergänge zur Promenade; die kalte Meeresbrise ist erfrischend, aber man braucht Wärme.",
+                "hu": "Használja az autót bázisként a sétányhoz tett rövid kiruccanásokhoz; a hideg tengeri szellő frissítő, de hamar visszavágyik a melegbe.",
+                "ro": "Folosiți mașina ca bază pentru scurte plimbări pe faleză; briza rece a mării este revigorantă, dar veți avea nevoie de căldură.",
+                "en": "Use the car as a base for short strolls to the promenade; the cold sea breeze is refreshing, but you will soon want the heater."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von La Coubre",
+                "hu": "La Coubre erdő",
+                "ro": "Pădurea La Coubre",
+                "en": "La Coubre Forest"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Wald; im Winterlicht wirken die Pinien fast silbern, ein perfektes Motiv für Naturfotografie.",
+                "hu": "Hajtson lassan az erdőn át; a téli fényben a fenyők szinte ezüstösnek tűnnek, tökéletes téma a természetfotózáshoz.",
+                "ro": "Conduceți încet prin pădure; în lumina iernii, pinii par aproape argintii, un subiect perfect pentru fotografia de natură.",
+                "en": "Drive slowly through the forest; in the winter light, the pines look almost silvery, a perfect subject for nature photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Bouverie",
+                "hu": "La Bouverie strand",
+                "ro": "Plaja La Bouverie",
+                "en": "La Bouverie Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft leer; genießen Sie die Einsamkeit am wilden Strand, bevor die Sonne am Horizont versinkt.",
+                "hu": "A parkoló télen gyakran üres; élvezze a magányt a vad tengerparton, mielőtt a nap korán a horizont alá bukna.",
+                "ro": "Parcarea este adesea goală iarna; bucurați-vă de singurătatea pe plaja sălbatică înainte ca soarele să apună devreme.",
+                "en": "The parking lot is often empty in winter; enjoy the solitude on the wild beach before the sun sinks early below the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm La Coubre",
+                "hu": "La Coubre világítótorony",
+                "ro": "Farul La Coubre",
+                "en": "La Coubre Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine windfeste Jacke für den Aufstieg; der Ausblick auf den winterlichen Ozean bei Sonnenuntergang ist unvergleichlich.",
+                "hu": "Viseljen szélálló kabátot a mászáshoz; a kilátás a téli óceánra naplementekor semmihez sem fogható élményt nyújt.",
+                "ro": "Purtați o jachetă rezistentă la vânt pentru urcare; vederea oceanului hibernal la apus este o experiență de neegalat.",
+                "en": "Wear a windproof jacket for the climb; the view of the winter ocean at sunset is an incomparable and dramatic experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

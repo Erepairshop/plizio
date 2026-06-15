@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az elegáns Casa de Doña Pepita és a Néprajzi Múzeum kiállításainak felfedezésével. Délben a régi Arco de San Roque alatt áthaladva érje el a nyüzsgő Plaza de Arriba teret. Délután ismerje meg a Santa María templom öreg tornyát. Ahogy közeledik az este, másszon fel a Castillo de Jumilla erődhöz, és csodálja meg a szőlőültetvények felett lemenő napot.",
         "ro": "Începeți dimineața explorând eleganta Casa de Doña Pepita și fascinantul Muzeu Etnografic. La prânz, treceți prin vechiul Arco de San Roque spre vibranta Plaza de Arriba. După-amiaza, descoperiți frumusețea turnului vechii biserici Santa María. Spre seară, urcați la Castillo de Jumilla pentru a vă bucura de un apus spectaculos peste nesfârșitele podgorii ale regiunii.",
         "en": "Start your morning exploring the elegant Casa de Doña Pepita and the fascinating exhibits at the Ethnographic Museum. Midday takes you through the ancient Arco de San Roque towards the vibrant Plaza de Arriba. In the afternoon, discover the Renaissance beauty of the old Santa María church tower. As evening approaches, hike up to the Castillo de Jumilla for a spectacular sunset over the vineyards."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz der Casa de Doña Pepita, während der Regen auf die alten Dächer trommelt. Mittags bietet das Jerónimo Molina Museum den perfekten trockenen Rückzugsort, um tief in die lokale Geschichte einzutauchen. Nachmittags nutzen Sie Regenpausen für kurze Wege zwischen den historischen Toren. Der Abend endet am Schloss, wo die nassen Steine im Scheinwerferlicht glänzen.",
+            "hu": "Kezdje a napot a Casa de Doña Pepita védelmében, miközben az eső kopog a régi tetőkön. Délben a Jerónimo Molina Múzeum nyújt tökéletes száraz menedéket a helyi történelem felfedezéséhez. Délután használja ki az esőszüneteket a történelmi kapuk közötti rövid sétákra. Az este a várnál ér véget, ahol a vizes kövek csillognak a lámpafényben; vigyázzon a csúszós felületeken.",
+            "ro": "Începeți ziua sub protecția Casei de Doña Pepita, în timp ce ploaia bate în acoperișurile vechi. La prânz, Muzeul Jerónimo Molina oferă refugiul uscat perfect pentru a explora istoria locală. După-amiaza, profitați de pauzele de ploaie pentru scurte plimbări între porțile istorice. Seara se încheie la castel, unde pietrele umede strălucesc sub luminile reflectoarelor.",
+            "en": "Start your day under the cover of Casa de Doña Pepita as rain taps on the ancient roofs. At noon, the Jerónimo Molina Museum provides the perfect dry refuge to dive into local history. In the afternoon, use breaks in the rain for short walks between the historic gates. The evening ends at the castle, where the wet stones glisten under the spotlights; be careful on slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Doña Pepita",
+                "hu": "Casa de Doña Pepita",
+                "ro": "Casa de Doña Pepita",
+                "en": "Casa de Doña Pepita"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade vom gegenüberliegenden Arkadengang aus; nutzen Sie den überdachten Eingangsbereich, um Ihre Kamera vor den Regentropfen zu schützen.",
+                "hu": "Csodálja meg a homlokzatot a szemközti árkádok alól; használja a fedett bejáratot, hogy megóvja fényképezőgépét az esőcseppektől a fotózás közben.",
+                "ro": "Admirați fațada de sub arcadele de vis-à-vis; folosiți zona de intrare acoperită pentru a vă proteja camera de picăturile de ploaie în timp ce fotografiați.",
+                "en": "Admire the facade from the opposite arcades; use the covered entrance area to protect your camera from raindrops while capturing the historic details."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnografisches Museum Jerónimo Molina",
+                "hu": "Jerónimo Molina Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Jerónimo Molina",
+                "en": "Jerónimo Molina Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Zufluchtsort bei Starkregen; verbringen Sie Zeit bei den archäologischen Funden, während es draußen stürmt.",
+                "hu": "Ez a múzeum az ideális menedék heves esőzés esetén; töltsön több időt a régészeti leletek között, amíg kint tombol a vihar.",
+                "ro": "Acest muzeu este refugiul ideal în caz de ploaie torențială; petreceți mai mult timp printre vestigiile arheologice în timp ce afară plouă.",
+                "en": "This museum is the ideal refuge during heavy rain; spend extra time among the archaeological finds while the storm passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de San Roque",
+                "hu": "Arco de San Roque",
+                "ro": "Arco de San Roque",
+                "en": "Arco de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Der Bogen bietet einen kurzen Moment Schutz; beobachten Sie den Regenfall in den engen Gassen unter dem sicheren Dach des historischen Tores.",
+                "hu": "A boltív rövid ideig védelmet nyújt; figyelje az eső áztatotta szűk utcákat a történelmi kapu biztonságos fedele alól.",
+                "ro": "Arcul oferă un scurt moment de protecție; observați ploaia de pe străzile înguste de sub acoperișul sigur al porții istorice.",
+                "en": "The arch offers a brief moment of protection; watch the rain wash over the narrow streets from under the safe cover of the historic gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Arriba",
+                "hu": "Plaza de Arriba",
+                "ro": "Plaza de Arriba",
+                "en": "Plaza de Arriba"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Cafés bieten tolle Ausblicke auf den nassen Platz; genießen Sie einen Kaffee, während Sie auf eine Aufheiterung des Himmels warten.",
+                "hu": "A környező kávézók remek kilátást nyújtanak a vizes térre; élvezzen egy forró italt, amíg az égbolt kiderülésére vár a fedél alatt.",
+                "ro": "Cafenelele din jur oferă vederi minunate asupra pieței umede; savurați o cafea în timp ce așteptați ca cerul să se însenineze.",
+                "en": "The surrounding cafes offer great views of the wet square; enjoy a coffee while waiting for a break in the clouds under their awnings."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Turm der Kirche Santa María",
+                "hu": "Santa María templom régi tornya",
+                "ro": "Vechiul turn al bisericii Santa María",
+                "en": "Old Tower of Santa María Church"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstruktur wirkt bei Regen besonders dramatisch; halten Sie sich nah an den Kirchenwänden, um den schlimmsten Güssen zu entgehen.",
+                "hu": "A kőszerkezet esőben különösen drámainak hat; maradjon a templomfalak közelében, hogy elkerülje a legerősebb záporokat a séta alatt.",
+                "ro": "Structura de piatră pare deosebit de dramatică în ploaie; stați aproape de pereții bisericii pentru a evita cele mai puternice averse.",
+                "en": "The stone structure looks particularly dramatic in the rain; stay close to the church walls to avoid the heaviest downpours during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Jumilla",
+                "hu": "Jumilla vára",
+                "ro": "Castelul din Jumilla",
+                "en": "Jumilla Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann rutschig sein, tragen Sie festes Profil; die Aussicht auf das neblige Tal ist jedoch ein mystisches Erlebnis.",
+                "hu": "A felfelé vezető út csúszós lehet, viseljen tapadós talpú cipőt; a ködös völgyre nyíló kilátás azonban misztikus élményt nyújt az esőben.",
+                "ro": "Urcarea poate fi alunecoasă, purtați încălțăminte cu aderență; vederea asupra văii cețoase este însă o experiență mistică sub ploaie.",
+                "en": "The climb can be slippery, wear shoes with good grip; however, the view of the misty valley is a truly mystical experience in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei der Casa de Doña Pepita am Morgen. Da es im Winter kühler ist, sind die Museumsbesuche um die Mittagszeit perfekt zum Aufwärmen. Der Nachmittag bietet goldenes Licht auf den historischen Plätzen, bevor die Sonne gegen 17:00 Uhr untergeht. Schließen Sie den Tag am Schloss ab, wenn die Lichter der Stadt in der frühen Dunkelheit funkeln.",
+            "hu": "Élvezze a friss téli levegőt reggel a Casa de Doña Pepitánál. Mivel télen hűvösebb van, a múzeumlátogatás délidőben tökéletes a felmelegedéshez. A délután aranyló fényeket kínál a történelmi tereken, mielőtt a nap 17:00 körül lebukna. Zárja a napot a várnál, amikor a város fényei felgyúlnak a korai sötétségben.",
+            "ro": "Bucurați-vă de aerul curat de iarnă la Casa de Doña Pepita dimineața. Deoarece iarna este mai răcoare, vizita la muzeu la prânz este perfectă pentru încălzire. După-amiaza oferă o lumină aurie în piețele istorice, înainte ca soarele să apună în jurul orei 17:00. Încheiați ziua la castel, când luminile orașului strălucesc în întunericul timpuriu.",
+            "en": "Enjoy the crisp winter air at Casa de Doña Pepita in the morning. As it is cooler in winter, museum visits at midday are perfect for warming up. The afternoon offers golden light on the historic squares before the sun sets around 5:00 PM. End the day at the castle when the city lights sparkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Doña Pepita",
+                "hu": "Casa de Doña Pepita",
+                "ro": "Casa de Doña Pepita",
+                "en": "Casa de Doña Pepita"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt die Fassade wunderschön auf; tragen Sie eine warme Jacke, da die Schatten in den Gassen noch recht kühl sind.",
+                "hu": "A reggeli nap szépen felmelegíti a homlokzatot; viseljen meleg kabátot, mivel a szűk utcák árnyékos részei ilyenkor még hűvösek.",
+                "ro": "Soarele de dimineață încălzește frumos fațada; purtați o jachetă groasă, deoarece umbrele de pe străzi sunt încă destul de reci.",
+                "en": "The morning sun warms the facade beautifully; wear a warm jacket as the shadows in the narrow streets remain quite chilly at this hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnografisches Museum Jerónimo Molina",
+                "hu": "Jerónimo Molina Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Jerónimo Molina",
+                "en": "Jerónimo Molina Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenräume, um sich nach dem Spaziergang aufzuwärmen; die Exponate erzählen die Geschichte des winterlichen Landlebens.",
+                "hu": "Használja ki a fűtött belső tereket a bemelegedésre a séta után; a kiállítások bemutatják a téli vidéki élet hagyományos eszközeit is.",
+                "ro": "Profitați de interioarele încălzite pentru a vă încălzi după plimbare; exponatele spun povestea vieții rurale în timpul iernii.",
+                "en": "Take advantage of the heated interiors to warm up after your walk; the exhibits showcase the history of winter rural life in the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de San Roque",
+                "hu": "Arco de San Roque",
+                "ro": "Arco de San Roque",
+                "en": "Arco de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Winterneigung sorgt für fantastische Schattenwürfe am Bogen; ideal für kontrastreiche Fotos ohne die Hitze des Sommers.",
+                "hu": "Az alacsonyan járó téli nap fantasztikus árnyékokat vet a boltívnél; ideális kontrasztos fotókhoz a nyári hőség zavaró hatása nélkül.",
+                "ro": "Soarele jos de iarnă creează umbre fantastice la arc; ideal pentru fotografii contrastante fără căldura verii.",
+                "en": "The low winter sun creates fantastic shadows at the arch; ideal for high-contrast photos without the oppressive heat of summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Arriba",
+                "hu": "Plaza de Arriba",
+                "ro": "Plaza de Arriba",
+                "en": "Plaza de Arriba"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz auf einer Bank; die Wintersonne ist hier oft stark genug für eine kurze Pause im Freien.",
+                "hu": "Keressen egy napsütötte padot a téren; a téli nap ereje itt gyakran elég egy rövid szabadtéri pihenőhöz a történelmi falak között.",
+                "ro": "Căutați o bancă însorită în piață; puterea soarelui de iarnă este adesea suficientă aici pentru o scurtă pauză în aer liber.",
+                "en": "Find a sunny bench in the square; the winter sun's strength here is often enough for a short outdoor break among the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Turm der Kirche Santa María",
+                "hu": "Santa María templom régi tornya",
+                "ro": "Vechiul turn al bisericii Santa María",
+                "en": "Old Tower of Santa María Church"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das sanfte Nachmittagslicht auf dem Turm; im Winter wirkt der Stein besonders hell und rein gegen den blauen Himmel.",
+                "hu": "Figyelje meg a toronyra eső lágy délutáni fényt; télen a kő különösen világosnak és tisztának tűnik a mélykék égbolt előtt.",
+                "ro": "Observați lumina blândă de după-amiază pe turn; iarna, piatra pare deosebit de luminoasă și pură pe fundalul cerului albastru.",
+                "en": "Observe the soft afternoon light hitting the tower; in winter, the stone looks particularly bright and clean against the deep blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Jumilla",
+                "hu": "Jumilla vára",
+                "ro": "Castelul din Jumilla",
+                "en": "Jumilla Castle"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17:00 Uhr, um den Sonnenuntergang zu sehen; oben auf dem Berg kann es bei Wind sehr frostig werden.",
+                "hu": "Tervezze érkezését 17:00 előtt, hogy lássa a naplementét; a hegytetőn a szél miatt nagyon hideg lehet, készüljön extra réteggel.",
+                "ro": "Planificați-vă sosirea înainte de ora 17:00 pentru a vedea apusul; pe vârful muntelui poate fi foarte ger din cauza vântului.",
+                "en": "Plan to arrive before 5:00 PM to catch the sunset; it can get very frosty on the hilltop when the wind picks up, so dress warmly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Indítsa kerékpártúráját a késő római kori temetkezési emlékműnél, elmerülve az ókorban. Délben a Casa de Doña Pepita érintésével tekerjen a központba, a Plaza de Arriba térre. Délután a régi templomtorony mellett haladva küzdje le a várhoz vezető emelkedőt. Az aktív napot egy pihentető estével zárja a Jardín Botánico békés tavacskája mellett, a természet lágy ölén.",
         "ro": "Începeți turul cu bicicleta la monumentul funerar roman târziu, explorând istoria antică. La prânz, pedalați spre centrul orașului, trecând pe la Casa de Doña Pepita și Plaza de Arriba. După-amiaza, drumul vă poartă pe lângă vechiul turn spre impresionantul castel. Încheiați o zi activă cu o seară relaxantă lângă iazul liniștit din minunatul Jardín Botánico.",
         "en": "Kick off your cycling tour at the Late Roman funerary monument, diving deep into antiquity. Midday brings you to the heart of the city via Casa de Doña Pepita and the grand Plaza de Arriba. Afternoon pedaling leads you past the historic church tower up the challenging path to the castle. Conclude your active day with a relaxing evening by the peaceful pond in the Jardín Botánico."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Monument, wo der Regen die römischen Steine dunkler färbt. In der Stadt bieten Museen und Arkaden Schutz vor den Schauern. Achten Sie auf den nassen Asphalt und radeln Sie vorsichtig durch die Kurven. Der Tag endet im botanischen Garten, wo die Regentropfen auf den Blättern eine beruhigende Atmosphäre schaffen.",
+            "hu": "A kerékpártúra az emlékműnél kezdődik, ahol az eső sötétebbre festi a római köveket. A városban a múzeumok és árkádok nyújtanak menedéket a záporok elől. Ügyeljen a nedves aszfaltra, és óvatosan kanyarodjon a kerékpárral. A nap a botanikus kertben ér véget, ahol az esőcseppek a leveleken megnyugtató hangulatot árasztanak.",
+            "ro": "Turul cu bicicleta începe la monument, unde ploaia colorează pietrele romane în nuanțe mai închise. În oraș, muzeele și arcadele oferă adăpost de averse. Atenție la asfaltul umed și pedalați cu grijă în curbe. Ziua se încheie în grădina botanică, unde picăturile de ploaie pe frunze creează o atmosferă liniștitoare.",
+            "en": "The bike tour starts at the monument, where rain paints the Roman stones in darker hues. In town, museums and arcades provide shelter from the showers. Watch out for wet asphalt and cycle carefully through turns. The day ends in the botanical garden, where raindrops on the leaves create a soothing atmosphere in the damp air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spätrömisches Grabmal",
+                "hu": "Késő római temetkezési emlékmű",
+                "ro": "Monumentul funerar roman târziu",
+                "en": "Late Roman Funerary Monument"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um das nasse Mauerwerk zu fotografieren; die Farben des Steins sind bei Regen viel kräftiger als in der Sonne.",
+                "hu": "Álljon meg egy pillanatra, hogy lefotózza a nedves falazatot; a kő színei esőben sokkal élénkebbek, mint a tűző napsütésben.",
+                "ro": "Opriți-vă puțin pentru a fotografia zidăria umedă; culorile pietrei sunt mult mai intense în ploaie decât în plin soare.",
+                "en": "Stop for a moment to photograph the wet masonry; the stone's colors are much more vibrant in the rain than in harsh sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Doña Pepita",
+                "hu": "Casa de Doña Pepita",
+                "ro": "Casa de Doña Pepita",
+                "en": "Casa de Doña Pepita"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Dachvorsprung; nutzen Sie den Besuch, um die Regenkleidung für die Weiterfahrt kurz zu richten.",
+                "hu": "Állítsa a kerékpárját az eresz alá; használja ki a látogatást, hogy megigazítsa esőfelszerelését a túra következő szakaszára.",
+                "ro": "Parcați bicicleta sub streașină; folosiți vizita pentru a vă aranja echipamentul de ploaie pentru continuarea drumului.",
+                "en": "Park your bike under the eaves; use the stop to adjust your rain gear before heading to the next destination in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnografisches Museum Jerónimo Molina",
+                "hu": "Jerónimo Molina Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Jerónimo Molina",
+                "en": "Jerónimo Molina Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Trockenen; parken Sie das Rad sicher und genießen Sie die Wärme der Ausstellungsräume.",
+                "hu": "A tökéletes hely egy hosszabb szünetre a szárazban; parkolja le biztonságosan a biciklit, és élvezze a kiállítótermek melegét.",
+                "ro": "Locul perfect pentru o pauză mai lungă la uscat; parcați bicicleta în siguranță și bucurați-vă de căldura sălilor de expoziție.",
+                "en": "The perfect spot for a longer break in the dry; park your bike securely and enjoy the warmth of the museum's exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Arriba",
+                "hu": "Plaza de Arriba",
+                "ro": "Plaza de Arriba",
+                "en": "Plaza de Arriba"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das glatte Kopfsteinpflaster beim Überqueren des Platzes; die nassen Steine können für Reifen sehr rutschig sein.",
+                "hu": "Ügyeljen a síkos macskakövekre a téren való áthaladáskor; a nedves kövek nagyon csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Atenție la pavajul alunecos când traversați piața; pietrele umede pot fi foarte periculoase pentru anvelopele bicicletei.",
+                "en": "Be careful on the smooth cobblestones when crossing the square; wet stones can be very slippery for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Turm der Kirche Santa María",
+                "hu": "Santa María templom régi tornya",
+                "ro": "Vechiul turn al bisericii Santa María",
+                "en": "Old Tower of Santa María Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirchturmspitze verschwindet manchmal in den Wolken; ein mystischer Anblick, den man am besten aus einer geschützten Ecke genießt.",
+                "hu": "A templomtorony csúcsa néha eltűnik a felhőkben; misztikus látvány, amelyet a legjobb egy védett sarokból megfigyelni.",
+                "ro": "Vârful turnului bisericii dispare uneori în nori; o priveliște mistică, cel mai bine savurată dintr-un colț protejat.",
+                "en": "The church tower's tip sometimes disappears into the clouds; a mystical sight best enjoyed from a sheltered corner nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Jumilla",
+                "hu": "Jumilla vára",
+                "ro": "Castelul din Jumilla",
+                "en": "Jumilla Castle"
+              },
+              "tip_5lang": {
+                "de": "Die steile Auffahrt erfordert bei Nässe volle Konzentration; schalten Sie in einen niedrigen Gang und bremsen Sie vorsichtig ab.",
+                "hu": "A meredek feljáró nedves időben teljes koncentrációt igényel; váltson alacsony fokozatba, és óvatosan használja a fékeket lefelé.",
+                "ro": "Urcarea abruptă necesită concentrare maximă pe timp umed; treceți într-o treaptă inferioară și folosiți frânele cu atenție la coborâre.",
+                "en": "The steep approach requires full concentration in wet weather; shift to a low gear and use your brakes carefully on the way down."
+              }
+            },
+            {
+              "name": {
+                "de": "Teich im Botanischen Garten",
+                "hu": "Botanikus kert tava",
+                "ro": "Iazul Grădinii Botanice",
+                "en": "Botanical Garden Pond"
+              },
+              "tip_5lang": {
+                "de": "Der Regen belebt die Vegetation und füllt den Teich; genießen Sie die frische, feuchte Luft unter den schützenden Kronen der Bäume.",
+                "hu": "Az eső életre kelti a növényzetet és táplálja a tavat; élvezze a friss, párás levegőt a fák védelmező lombkoronája alatt.",
+                "ro": "Ploaia revigorează vegetația și umple iazul; bucurați-vă de aerul proaspăt și umed sub coroanele protectoare ale arborilor.",
+                "en": "The rain invigorates the vegetation and fills the pond; enjoy the fresh, damp air under the protective canopy of the trees."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour bei kühlem, sonnigem Wetter am römischen Grabmal. Die Fahrt durch Jumilla belebt den Geist, besonders wenn Sie sich mittags im Museum aufwärmen. Das Nachmittagslicht zaubert eine besondere Stimmung auf den Plaza de Arriba. Beenden Sie Ihre Tour frühzeitig im botanischen Garten, da es nach 17:00 Uhr schnell empfindlich kalt wird.",
+            "hu": "Indítsa téli túráját hűvös, de napos időben a római emlékműnél. A tekerés Jumillán keresztül felfrissíti a szellemet, főleg ha délben a múzeumban melegszik fel. A délutáni fény különleges hangulatot varázsol a Plaza de Arribára. Zárja túráját időben a botanikus kertben, mivel 17:00 után gyorsan lehűl a levegő.",
+            "ro": "Începeți turul de iarnă pe vreme răcoroasă, dar însorită, la monumentul roman. Plimbarea prin Jumilla revigorează spiritul, mai ales dacă vă încălziți la prânz în muzeu. Lumina de după-amiază creează o atmosferă specială în Plaza de Arriba. Încheiați turul devreme în grădina botanică, deoarece după ora 17:00 se răcește rapid.",
+            "en": "Start your winter tour in crisp, sunny weather at the Roman monument. Cycling through Jumilla invigorates the spirit, especially when warming up in the museum at midday. Afternoon light creates a special mood in Plaza de Arriba. Finish your tour early at the botanical garden, as it gets chilly quickly after 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spätrömisches Grabmal",
+                "hu": "Késő római temetkezési emlékmű",
+                "ro": "Monumentul funerar roman târziu",
+                "en": "Late Roman Funerary Monument"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet die Details des Monuments perfekt; tragen Sie Handschuhe gegen den kühlen Fahrtwind.",
+                "hu": "A téli nap alacsonyan jár, és tökéletesen megvilágítja az emlékmű részleteit; viseljen kesztyűt a hűvös menetszél ellen.",
+                "ro": "Soarele de iarnă este jos și luminează perfect detaliile monumentului; purtați mănuși împotriva vântului rece de pedalare.",
+                "en": "The winter sun is low and illuminates the monument's details perfectly; wear gloves against the cool wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Doña Pepita",
+                "hu": "Casa de Doña Pepita",
+                "ro": "Casa de Doña Pepita",
+                "en": "Casa de Doña Pepita"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Stopp in der Sonne; die hellen Wände reflektieren das Winterlicht und wärmen die Umgebung leicht auf.",
+                "hu": "Szép hely egy rövid megállóra a napon; a világos falak visszaverik a téli fényt, és kissé felmelegítik a közvetlen környezetet.",
+                "ro": "Un loc frumos pentru o scurtă oprire la soare; pereții luminoși reflectă lumina de iarnă și încălzesc ușor mediul înconjurător.",
+                "en": "A beautiful spot for a quick stop in the sun; the light walls reflect the winter light and slightly warm up the immediate area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnografisches Museum Jerónimo Molina",
+                "hu": "Jerónimo Molina Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Jerónimo Molina",
+                "en": "Jerónimo Molina Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet den idealen Schutz vor der winterlichen Kälte; nehmen Sie sich Zeit, um die Finger beim Betrachten der Kunst aufzuwärmen.",
+                "hu": "A múzeum ideális védelmet nyújt a téli hideg ellen; szánjon időt arra, hogy felmelegítse ujjait a műalkotások megtekintése közben.",
+                "ro": "Muzeul oferă protecția ideală împotriva frigului de iarnă; acordați-vă timp pentru a vă încălzi degetele în timp ce admirați arta.",
+                "en": "The museum offers ideal protection from the winter cold; take your time to warm your fingers while admiring the local history and art."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Arriba",
+                "hu": "Plaza de Arriba",
+                "ro": "Plaza de Arriba",
+                "en": "Plaza de Arriba"
+              },
+              "tip_5lang": {
+                "de": "In der Mittagssonne ist der Platz ein toller Ort zum Verweilen; die historische Architektur schützt ein wenig vor dem kühlen Wind.",
+                "hu": "A déli napsütésben a tér remek hely a pihenésre; a történelmi építészet némileg megvéd a hűvös téli szelektől a biciklizés közben.",
+                "ro": "În soarele de la prânz, piața este un loc minunat de popas; arhitectura istorică protejează puțin de vântul rece de iarnă.",
+                "en": "In the midday sun, the square is a great place to linger; the historic architecture provides some protection from the cool winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Turm der Kirche Santa María",
+                "hu": "Santa María templom régi tornya",
+                "ro": "Vechiul turn al bisericii Santa María",
+                "en": "Old Tower of Santa María Church"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sichtverhältnisse; bewundern Sie den Turm vor dem stahlblauen Himmel dieser Jahreszeit.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít; csodálja meg a tornyot az évszakra jellemző acélkék égbolt előtt.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate la distanță; admirați turnul pe fundalul cerului albastru de oțel al acestui anotimp.",
+                "en": "The clear winter air provides long-range visibility; admire the tower against the steel-blue sky typical of this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Jumilla",
+                "hu": "Jumilla vára",
+                "ro": "Castelul din Jumilla",
+                "en": "Jumilla Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt kann sehr kalt sein, ziehen Sie sich winddicht an; der Blick auf die schneebedeckten Berge in der Ferne lohnt die Mühe.",
+                "hu": "A lefelé vezető út nagyon hideg lehet, öltözzön szélállóan; a távolban látszódó hófödte hegyek látványa megéri a fáradtságot.",
+                "ro": "Coborârea poate fi foarte rece, îmbrăcați-vă cu haine rezistente la vânt; vederea munților înzăpeziți în depărtare merită efortul.",
+                "en": "The downhill ride can be very cold, wear windproof clothing; the view of snow-capped mountains in the distance is well worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Teich im Botanischen Garten",
+                "hu": "Botanikus kert tava",
+                "ro": "Iazul Grădinii Botanice",
+                "en": "Botanical Garden Pond"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen viel Licht durch, ideal für Fotos am Wasser; beachten Sie, dass es im Schatten der Pflanzen sehr kühl ist.",
+                "hu": "A kopasz fák sok fényt engednek át, ideális a vízparti fotózáshoz; vegye figyelembe, hogy a növények árnyékában ilyenkor nagyon hűvös van.",
+                "ro": "Copacii golași lasă multă lumină să treacă, ideal pentru fotografii lângă apă; rețineți că la umbra plantelor este foarte răcoare.",
+                "en": "The bare trees let a lot of light through, ideal for photos by the water; note that it is very cool in the shadows of the plants."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós napját a zöldellő Jardín Botánico és az ókori római temetkezési emlékmű felkeresésével. Délben a központban a Casa de Doña Pepita és a Néprajzi Múzeum várja. Délután sétáljon át a Plaza de Arriba térről az ikonikus Arco de San Roque boltívhez. Utazása lezárásaként vezessen fel a fenséges Castillo de Jumilla erődhöz a lenyűgöző esti alkonyatban.",
         "ro": "Începeți ziua la volan în verdele Jardín Botánico și la anticul monument funerar roman. La prânz, vizitați centrul cu Casa de Doña Pepita și Muzeul Etnografic. După-amiaza, plimbați-vă de la Plaza de Arriba până la emblematicul Arco de San Roque. Finalizați excursia conducând spre maiestuosul Castillo de Jumilla, admirând orașul scăldat în lumina fermecătoare a crepusculului.",
         "en": "Begin your driving day at the lush Jardín Botánico, followed by the ancient Roman funerary monument. Midday shifts to the bustling town center, visiting Casa de Doña Pepita and the vast Ethnographic Museum. In the afternoon, stroll from Plaza de Arriba to the iconic Arco de San Roque. Finish your trip by driving up to the majestic Castillo de Jumilla as twilight bathes the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Jumilla heute bequem und trocken. Starten Sie im botanischen Garten, wenn der Regen die Natur auffrischt. In der Altstadt parken Sie nah an den Sehenswürdigkeiten, um kurze Wege im Freien zu haben. Die Museen bieten stundenlangen Schutz. Am Abend ist die Fahrt zum beleuchteten Schloss besonders sicher und komfortabel trotz des nassen Wetters.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Jumillát ma. Kezdjen a botanikus kertben, amikor az eső felfrissíti a természetet. Az óvárosban parkoljon közel a látnivalókhoz, hogy lerövidítse a kinti tartózkodást. A múzeumok órákon át védelmet nyújtanak. Este a kivilágított várhoz vezető út különösen biztonságos és kényelmes a nedves idő ellenére is.",
+            "ro": "Cu mașina, explorați Jumilla astăzi confortabil și la uscat. Începeți în grădina botanică, când ploaia împrospătează natura. În orașul vechi, parcați aproape de atracții pentru a avea scurte plimbări în aer liber. Muzeele oferă protecție ore în șir. Seara, drumul către castelul iluminat este deosebit de sigur și confortabil, în ciuda vremii umede.",
+            "en": "By car, you can explore Jumilla comfortably and dry today. Start in the botanical garden when the rain refreshes nature. In the old town, park close to the sights to keep outdoor walking to a minimum. The museums provide hours of shelter. In the evening, the drive to the illuminated castle is particularly safe and comfortable despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teich im Botanischen Garten",
+                "hu": "Botanikus kert tava",
+                "ro": "Iazul Grădinii Botanice",
+                "en": "Botanical Garden Pond"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um schnell ins Grüne zu gelangen; der Regen auf der Wasseroberfläche bietet ein beruhigendes Schauspiel.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy gyorsan a zöldbe jusson; a vízfelszínen kopogó eső megnyugtató látványt nyújt az autó ablakából.",
+                "ro": "Parcați chiar la intrare pentru a ajunge rapid în zona verde; ploaia pe suprafața apei oferă un spectacol liniștitor din geamul mașinii.",
+                "en": "Park right at the entrance for quick access to the greenery; the rain on the water's surface offers a soothing spectacle from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Spätrömisches Grabmal",
+                "hu": "Késő római temetkezési emlékmű",
+                "ro": "Monumentul funerar roman târziu",
+                "en": "Late Roman Funerary Monument"
+              },
+              "tip_5lang": {
+                "de": "Sie können das Monument fast direkt vom Auto aus sehen; ein kurzer Sprint reicht aus, um die römischen Inschriften im Regen zu betrachten.",
+                "hu": "Az emlékművet szinte közvetlenül az autóból is láthatja; egy rövid futás is elég, hogy megtekintse a római feliratokat az esőben.",
+                "ro": "Puteți vedea monumentul aproape direct din mașină; un scurt sprint este suficient pentru a vedea inscripțiile romane prin ploaie.",
+                "en": "You can see the monument almost directly from your car; a short sprint is enough to view the Roman inscriptions despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Doña Pepita",
+                "hu": "Casa de Doña Pepita",
+                "ro": "Casa de Doña Pepita",
+                "en": "Casa de Doña Pepita"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nahegelegene Parkplätze, um trocken ins Haus zu gelangen; die Details der Fassade wirken bei Bewölkung besonders plastisch.",
+                "hu": "Használja a közeli parkolóhelyeket, hogy szárazon jusson be; a homlokzat részletei felhős időben különösen plasztikusnak hatnak.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a ajunge la uscat; detaliile fațadei par deosebit de plastice pe timp înnorat.",
+                "en": "Use nearby parking spaces to get indoors dry; the facade's details look particularly three-dimensional under overcast skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnografisches Museum Jerónimo Molina",
+                "hu": "Jerónimo Molina Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Jerónimo Molina",
+                "en": "Jerónimo Molina Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus oder in einer Seitenstraße; das Museum ist der beste Ort, um einen Regenschauer bei Kultur zu überbrücken.",
+                "hu": "Parkoljon parkolóházban vagy egy mellékutcában; a múzeum a legjobb hely, hogy kultúrával tölthesse el az időt egy zápor alatt.",
+                "ro": "Parcați într-o parcare subterană sau pe o stradă laterală; muzeul este cel mai bun loc pentru a trece peste o aversă cu cultură.",
+                "en": "Park in a garage or side street; the museum is the best place to bridge a downpour while immersing yourself in local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Arriba",
+                "hu": "Plaza de Arriba",
+                "ro": "Plaza de Arriba",
+                "en": "Plaza de Arriba"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und erkunden Sie die Umgebung mit Schirm; die nassen Gebäude spiegeln die Lichter der Stadt wunderschön wider.",
+                "hu": "Hagyja az autót, és esernyővel fedezze fel a környéket; a nedves épületek gyönyörűen tükrözik vissza a város fényeit az esőben.",
+                "ro": "Lăsați mașina și explorați zona cu umbrela; clădirile umede reflectă frumos luminile orașului în timpul ploii.",
+                "en": "Leave the car and explore the area with an umbrella; the wet buildings reflect the city lights beautifully during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de San Roque",
+                "hu": "Arco de San Roque",
+                "ro": "Arco de San Roque",
+                "en": "Arco de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die engen Gassen; der Bogen rahmt die regennassen Straßen perfekt für ein Foto aus dem Beifahrerfenster ein.",
+                "hu": "Hajtson lassan a szűk utcákban; a boltív tökéletesen keretezi az esőáztatta utcákat egy fotóhoz az autó ablakából nézve.",
+                "ro": "Conduceți încet pe străzile înguste; arcul încadrează perfect străzile ude de ploaie pentru o fotografie de pe fereastra mașinii.",
+                "en": "Drive slowly through the narrow streets; the arch perfectly frames the rain-soaked roads for a photo from the passenger window."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Turm der Kirche Santa María",
+                "hu": "Santa María templom régi tornya",
+                "ro": "Vechiul turn al bisericii Santa María",
+                "en": "Old Tower of Santa María Church"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im grauen Regenlicht sehr majestätisch; ein kurzer Halt in der Nähe erlaubt tolle Bilder ohne nass zu werden.",
+                "hu": "A torony a szürke esőben nagyon fenségesnek tűnik; egy rövid megálló a közelben remek képeket tesz lehetővé anélkül, hogy megázna.",
+                "ro": "Turnul pare foarte maiestuos în lumina gri a ploii; o scurtă oprire în apropiere permite fotografii grozave fără a vă uda.",
+                "en": "The tower looks very majestic in the grey rain light; a short stop nearby allows for great pictures without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Jumilla",
+                "hu": "Jumilla vára",
+                "ro": "Castelul din Jumilla",
+                "en": "Jumilla Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bergauf ist bei Regen im Auto am sichersten; genießen Sie den Panoramablick auf das neblige Jumilla aus dem warmen Inneren.",
+                "hu": "A felfelé vezető út esőben autóval a legbiztonságosabb; élvezze a ködös Jumillára nyíló panorámát a meleg utastérből.",
+                "ro": "Drumul spre culme este cel mai sigur cu mașina pe ploaie; bucurați-vă de panorama asupra Jumillei cețoase din interiorul cald.",
+                "en": "The drive up is safest by car in the rain; enjoy the panoramic view of misty Jumilla from the warm interior of your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Jumilla im Winter mit dem Komfort Ihres Fahrzeugs. Beginnen Sie morgens im botanischen Garten, wenn der Reif auf den Pflanzen glitzert. Nutzen Sie die Heizung zwischen den Stopps in der Altstadt und im Museum. Das klare Winterlicht am Nachmittag ist ideal für Fotos der Architektur. Beenden Sie den Tag am Schloss pünktlich zum Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Fedezze fel Jumillát télen autója kényelméből. Kezdjen reggel a botanikus kertben, amikor a dér csillog a növényeken. Használja a fűtést az óvárosi megállók és a múzeum között. A délutáni tiszta téli fény ideális az építészeti fotókhoz. Zárja a napot a várnál, pontosan a 17:00 körüli naplementére érkezve.",
+            "ro": "Explorați Jumilla iarna cu confortul vehiculului dumneavoastră. Începeți dimineața în grădina botanică, când bruma strălucește pe plante. Folosiți încălzirea între opririle din orașul vechi și muzeu. Lumina clară de iarnă de după-amiază este ideală pentru fotografii. Încheiați ziua la castel, exact la timp pentru apusul soarelui în jurul orei 17:00.",
+            "en": "Discover Jumilla in winter with the comfort of your vehicle. Start in the morning at the botanical garden when frost glitters on the plants. Use the car's heater between stops in the old town and the museum. The clear winter light in the afternoon is ideal for architectural photography. End the day at the castle, arriving just in time for the sunset around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teich im Botanischen Garten",
+                "hu": "Botanikus kert tava",
+                "ro": "Iazul Grădinii Botanice",
+                "en": "Botanical Garden Pond"
+              },
+              "tip_5lang": {
+                "de": "Die frische Wintermorgenluft am Wasser ist belebend; ein kurzer Spaziergang vom Auto aus reicht, um die Ruhe der Natur zu genießen.",
+                "hu": "A friss téli reggeli levegő a vízparton élénkítő; egy rövid séta az autótól elég, hogy kiélvezze a természet nyugalmát ilyenkor.",
+                "ro": "Aerul proaspăt de iarnă de lângă apă este revigorant; o scurtă plimbare de la mașină este suficientă pentru a savura liniștea naturii.",
+                "en": "The fresh winter morning air by the water is invigorating; a short walk from the car is enough to enjoy the peace of nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Spätrömisches Grabmal",
+                "hu": "Késő római temetkezési emlékmű",
+                "ro": "Monumentul funerar roman târziu",
+                "en": "Late Roman Funerary Monument"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Details des Steins hervorragend zur Geltung; Sie können direkt davor parken und die Geschichte hautnah erleben.",
+                "hu": "A téli nap kiválóan kiemeli a kő részleteit; közvetlenül előtte parkolhat, és kényelmesen megtekintheti ezt a történelmi emléket.",
+                "ro": "Soarele de iarnă evidențiază excelent detaliile pietrei; puteți parca direct în față și puteți vedea îndeaproape acest monument istoric.",
+                "en": "The winter sun brings out the stone's details excellently; you can park directly in front and experience history up close in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Doña Pepita",
+                "hu": "Casa de Doña Pepita",
+                "ro": "Casa de Doña Pepita",
+                "en": "Casa de Doña Pepita"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und bewundern Sie das winterliche Stadtbild; die Architektur wirkt bei der klaren Luft dieser Jahreszeit besonders scharf.",
+                "hu": "Parkoljon a közelben, és csodálja meg a téli városképet; az építészet különösen élesnek tűnik az évszakra jellemző tiszta levegőben.",
+                "ro": "Parcați în apropiere și admirați peisajul urban de iarnă; arhitectura pare deosebit de clară în aerul curat al acestui anotimp.",
+                "en": "Park nearby and admire the winter cityscape; the architecture looks particularly sharp in the clear air typical of this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnografisches Museum Jerónimo Molina",
+                "hu": "Jerónimo Molina Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic Jerónimo Molina",
+                "en": "Jerónimo Molina Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Stopp, um die Kälte draußen zu lassen; genießen Sie die wohltemperierten Räume und die faszinierenden archäologischen Funde.",
+                "hu": "Az ideális megálló, hogy kint hagyja a hideget; élvezze a kellemes hőmérsékletű termeket és a lenyűgöző régészeti leleteket.",
+                "ro": "Oprirea ideală pentru a lăsa frigul afară; bucurați-vă de sălile bine temperate și de vestigiile arheologice fascinante.",
+                "en": "The ideal stop to leave the cold outside; enjoy the well-tempered rooms and the fascinating archaeological finds on display."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Arriba",
+                "hu": "Plaza de Arriba",
+                "ro": "Plaza de Arriba",
+                "en": "Plaza de Arriba"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne auf dem Platz lädt zu einer kurzen Pause ein; die umliegenden historischen Gebäude bieten Schutz vor dem Wind.",
+                "hu": "A téli napsütés a téren rövid pihenőre csábít; a környező történelmi épületek jó védelmet nyújtanak a hideg szelek ellen.",
+                "ro": "Soarele de iarnă din piață vă invită la o scurtă pauză; clădirile istorice din jur oferă protecție împotriva vântului rece.",
+                "en": "The winter sun in the square invites a short break; the surrounding historic buildings provide good protection from the winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de San Roque",
+                "hu": "Arco de San Roque",
+                "ro": "Arco de San Roque",
+                "en": "Arco de San Roque"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp lohnt sich; das Winterlicht erzeugt lange Schatten unter dem Bogen, was für dramatische Bilder sorgt.",
+                "hu": "Érdemes egy rövid fotómegállót tartani; a téli fény hosszú árnyékokat vet a boltív alatt, ami drámai képeket eredményez.",
+                "ro": "Merită o scurtă oprire pentru fotografii; lumina de iarnă creează umbre lungi sub arc, ceea ce asigură imagini dramatice.",
+                "en": "A quick photo stop is worth it; the winter light creates long shadows under the arch, making for dramatic and clear pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Turm der Kirche Santa María",
+                "hu": "Santa María templom régi tornya",
+                "ro": "Vechiul turn al bisericii Santa María",
+                "en": "Old Tower of Santa María Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Turm im sanften Licht des späten Nachmittags; die kühle Luft lässt die Details des Gesteins besonders klar erscheinen.",
+                "hu": "Csodálja meg a tornyot a késő délutáni lágy fényben; a hűvös levegő miatt a kőzet részletei különösen tisztán látszanak.",
+                "ro": "Admirați turnul în lumina blândă a după-amiezii târzii; aerul rece face ca detaliile pietrei să pară deosebit de clare.",
+                "en": "Admire the tower in the soft late afternoon light; the cool air makes the details of the stone appear particularly sharp and clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Jumilla",
+                "hu": "Jumilla vára",
+                "ro": "Castelul din Jumilla",
+                "en": "Jumilla Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung auf dem Weg nach oben; der Sonnenuntergang über dem winterlichen Umland ist vom Auto aus ein warmes Vergnügen.",
+                "hu": "Használja a fűtést felfelé menet; a téli táj feletti naplemente az autó melegéből nézve is felejthetetlen élményt nyújt.",
+                "ro": "Folosiți încălzirea în timp ce urcați; apusul peste zona rurală de iarnă este o plăcere caldă privită din interiorul mașinii.",
+                "en": "Use the car heater on the way up; watching the sunset over the winter countryside from the warmth of your car is a true joy."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a napot a történelmi Saint-Sour apátság felfedezésével és az ősi szarkofágok megtekintésével a festői sziklaösvények mentén.\nDélben: Folytassa útját az óvárosban a Saint-Sour templom meglátogatásával, és szívja magába az egyedülálló középkori hangulatot.\nDélután: Keljen át a történelmi Ancien Pont-on, hogy megcsodálja a folyóra nyíló kilátást, mielőtt felkapaszkodna a kertekhez.\nEste: Fejezze be sétáját a Képzelet Kertjeiben pihenve, és élvezze a Terrassonra nyíló panorámát a kora esti órákban.",
         "ro": "Dimineața: Începeți ziua explorând Abația istorică Saint-Sour și descoperind sarcofage antice de-a lungul potecilor pitorești de pe stânci.\nPrânz: Continuați-vă călătoria prin orașul vechi cu o vizită la Biserica Saint-Sour, absorbind atmosfera medievală autentică.\nDupă-amiaza: Traversați istoricul Ancien Pont pentru a admira priveliștile râului înainte de a urca spre Grădinile Imaginației.\nSeara: Încheiați-vă plimbarea relaxându-vă în grădinile terasate, bucurându-vă de vederea panoramică asupra orașului Terrasson.",
         "en": "Morning: Start the day exploring the historic Saint Sour Abbey and discovering beautifully preserved ancient sarcophagi along the scenic cliff paths.\nMidday: Continue your journey through the heart of the old town with a visit to the Saint-Sour Church, soaking in the medieval atmosphere.\nAfternoon: Cross the historic Ancien Pont to admire the sweeping river views before ascending to the remarkable Gardens of the Imagination.\nEvening: Conclude your walk by relaxing in the terraced gardens, enjoying the stunning panoramic views of Terrasson as the light softens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Abtei, die hervorragenden Schutz vor dem Regen bietet. Überquere mittags vorsichtig die rutschige alte Brücke. Verbringe den Nachmittag in den nassen Gärten der Vorstellungskraft. Der Abend bringt eine ruhige, regnerische Stimmung in die historischen Gassen.",
+            "hu": "A reggel az apátságban indul, mely remek menedéket nyújt a záporok elől. Délben óvatosan kelj át a csúszós, vizes öreg hídon. A délutánt a buja, eső áztatta kertekben töltsd, ami ilyenkor is varázslatos. Az este csendes, esős hangulattal zárul a városban.",
+            "ro": "Dimineața începe la abație, care oferă un adăpost excelent împotriva ploii. La prânz, traversează cu grijă podul vechi și alunecos. Petrece după-amiaza în grădinile luxuriante și ude. Seara aduce o atmosferă liniștită și ploioasă pe străzile istorice.",
+            "en": "Your morning begins at the historic abbey, offering perfect shelter from the drizzle. By noon, cross the wet, slippery bridge with care. Spend the afternoon in the lush, rain-soaked gardens. The evening brings a quiet, reflective rainy mood to the old streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Saint-Sour",
+                "hu": "Saint-Sour Apátság",
+                "ro": "Abația Saint-Sour",
+                "en": "Saint Sour Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bewundere die beeindruckende Innenarchitektur und nutze das Innere als Schutz vor dem Regen; ein Regenschirm ist für den Weg nach draußen wichtig.",
+                "hu": "Csodáld meg a belső építészetet, mely remek esővédőként is szolgál; a kinti részek és a bejárat megközelítéséhez viszont mindenképp kell az esernyő.",
+                "ro": "Admiră arhitectura interioară impresionantă și folosește interiorul ca refugiu perfect de ploaie; o umbrelă este esențială pentru exterior.",
+                "en": "Admire the impressive architecture and use the spacious interior as a perfect rain shelter; an umbrella is absolutely essential for the outside sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarkophage aus dem frühen Mittelalter",
+                "hu": "Kora középkori szarkofágok",
+                "ro": "Sarcofage din Evul Mediu timpuriu",
+                "en": "Sarcophages du haut Moyen-Age"
+              },
+              "tip_5lang": {
+                "de": "Betrachte die historischen Gräber aus der Nähe, aber trage unbedingt rutschfestes und wasserdichtes Schuhwerk, da die nassen Steine tückisch sind.",
+                "hu": "Nézd meg közelről a történelmi sírokat, de feltétlenül viselj csúszásmentes, vízálló cipőt, mert a nedves kövek és a talaj nagyon csúszósak lehetnek.",
+                "ro": "Privește de aproape mormintele istorice, dar asigură-te că porți încălțăminte impermeabilă și antiderapantă pe pietrele ude și periculoase.",
+                "en": "View the historic tombs up close, but be sure to wear slip-resistant, waterproof shoes as the wet ancient stones can be quite treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sour",
+                "hu": "Saint-Sour-templom",
+                "ro": "Biserica Saint-Sour",
+                "en": "Église Saint-Sour"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger, überdachter Ort, um im Trockenen zu bleiben und die schönen Buntglasfenster im weichen, regnerischen Licht zu bewundern.",
+                "hu": "Egy nagyszerű, fedett hely arra, hogy teljesen szárazon maradj, és nyugodtan megcsodáld a csodás ólomüveg ablakokat a szűrt esős fényben.",
+                "ro": "Un loc acoperit minunat pentru a sta la uscat și a admira vitraliile frumoase în lumina moale și ploioasă a zilei.",
+                "en": "A great, sheltered place to stay completely dry and peacefully admire the beautiful stained glass windows in the soft, rainy daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Ancien Pont"
+              },
+              "tip_5lang": {
+                "de": "Beobachte den wilden Fluss von oben, aber pass auf dem nassen Kopfsteinpflaster auf, das bei starkem Regen extrem rutschig wird.",
+                "hu": "Figyeld meg a megduzzadt, vad folyót, de nagyon vigyázz a vizes macskaköveken lépkedve, mert esőben rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Observă râul învolburat de sus, dar ai mare grijă pe pietrele cubice ude, care devin extrem de alunecoase în timpul ploilor abundente.",
+                "en": "Watch the swollen, wild river from above, but be very careful on the wet cobblestones which become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten der Vorstellungskraft",
+                "hu": "A Képzelet Kertjei",
+                "ro": "Grădinile Imaginației",
+                "en": "Gardens of the Imagination"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserspiele wirken im Regen geradezu magisch, packe dich aber gut in Regenkleidung ein, da die gesamte Anlage unter freiem Himmel liegt.",
+                "hu": "A vízi játékok varázslatosak az esőben is, de öltözz fel teljesen vízálló ruházatba, mivel a látványosságok mind a szabad ég alatt vannak.",
+                "ro": "Jocurile de apă sunt de-a dreptul magice pe ploaie, dar îmbracă-te cu haine complet impermeabile, deoarece totul este în aer liber.",
+                "en": "The water features look absolutely magical in the rain, but wrap up well in waterproof gear as everything is located fully outdoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der alten Abtei. Trotze mittags dem kalten Wind auf der Brücke. Der Nachmittag in den Gärten ist friedlich, aber denke an den frühen Sonnenuntergang um 17:00 Uhr, der einen kühlen Abend bringt.",
+            "hu": "Csípős téli reggel vár az ősi apátságban. Délben daccolj a hideg széllel az öreg hídon sétálva. A délután a nyugalmas kertekben telik, de ne feledd, hogy 17:00 körül korán sötétedik, így az este fagyosan és gyorsan érkezik.",
+            "ro": "O dimineață geroasă începe la vechea abație. La prânz, înfruntă vântul rece pe podul vechi. După-amiaza în grădini este pașnică, dar amintește-ți că apune soarele devreme în jur de 17:00, aducând o seară foarte răcoroasă.",
+            "en": "A crisp, frosty morning starts at the ancient abbey. By midday, brave the cold winds on the old bridge. The afternoon in the dormant gardens is peaceful, but remember the sun sets early around 17:00, bringing a chilly evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abtei Saint-Sour",
+                "hu": "Saint-Sour Apátság",
+                "ro": "Abația Saint-Sour",
+                "en": "Saint Sour Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steinböden sind in den Wintermonaten eisig kalt, ziehe dich also in warmen Schichten an, um den schönen mittelalterlichen Chor zu bewundern.",
+                "hu": "Az ősi kőpadlók télen jéghidegek tudnak lenni, ezért mindenképp öltözz meleg rétegekbe, hogy kényelmesen megcsodálhasd a gyönyörű középkori kórust.",
+                "ro": "Podelele vechi de piatră sunt înghețate în lunile de iarnă, așa că îmbracă-te în straturi calde pentru a admira confortabil frumosul cor medieval.",
+                "en": "The ancient stone floors are freezing in the winter months, so make sure to dress in warm layers to comfortably admire the beautiful medieval choir."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarkophage aus dem frühen Mittelalter",
+                "hu": "Kora középkori szarkofágok",
+                "ro": "Sarcofage din Evul Mediu timpuriu",
+                "en": "Sarcophages du haut Moyen-Age"
+              },
+              "tip_5lang": {
+                "de": "Der Frost verleiht der historischen Stätte eine mystische Atmosphäre, aber achte beim Gehen auf tückische Eisflächen zwischen den Steinen.",
+                "hu": "A fagy misztikus hangulatot kölcsönöz a történelmi helyszínnek, de séta közben nagyon figyelj a kövek között megbújó csúszós jégfoltokra.",
+                "ro": "Înghețul conferă sitului istoric o atmosferă mistică, dar ai grijă la peticele periculoase de gheață dintre pietre în timp ce mergi.",
+                "en": "The winter frost gives the historical site a mystical atmosphere, but watch your step carefully for treacherous icy patches between the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sour",
+                "hu": "Saint-Sour-templom",
+                "ro": "Biserica Saint-Sour",
+                "en": "Église Saint-Sour"
+              },
+              "tip_5lang": {
+                "de": "Suche drinnen Schutz vor dem kalten Wind und genieße die absolut ruhige, besinnliche Winteratmosphäre in den alten Gemäuern.",
+                "hu": "Keress menedéket bent a metsző hideg szél elől, és élvezd az ősi falak között uralkodó abszolút csendes, elmélyült téli atmoszférát.",
+                "ro": "Caută adăpost înăuntru de vântul rece și bucură-te de atmosfera de iarnă absolut liniștită și contemplativă din interiorul zidurilor vechi.",
+                "en": "Seek shelter inside from the biting cold wind and deeply enjoy the absolutely quiet, contemplative winter atmosphere within the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Ancien Pont"
+              },
+              "tip_5lang": {
+                "de": "Eisige Winde wehen oft stark vom Fluss herauf; wickle dich fest in einen dicken Schal ein für die malerische, aber kalte Überquerung.",
+                "hu": "A folyó felől gyakran erős, jeges szelek fújnak; burkolózz be jó alaposan egy vastag sálba a festői, ám rendkívül hideg átkeléshez.",
+                "ro": "Vânturile înghețate suflă adesea puternic de pe râu; înfofolește-te bine cu un fular gros pentru traversarea pitorească, dar foarte rece.",
+                "en": "Icy winds often blow strongly up from the river; bundle up tightly with a thick scarf for the picturesque but freezing crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Gärten der Vorstellungskraft",
+                "hu": "A Képzelet Kertjei",
+                "ro": "Grădinile Imaginației",
+                "en": "Gardens of the Imagination"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Struktur der Gärten ist sehr markant, besuche sie jedoch zügig, da die Sonne früh untergeht und es schnell sehr kalt wird.",
+                "hu": "A kertek téli szerkezete is lenyűgöző látványt nyújt, de időzítsd korábbra a látogatást, mert hamar sötétedik és utána nagyon lehűl a levegő.",
+                "ro": "Structura de iarnă a grădinilor este impresionantă, dar vizitează-le devreme, deoarece soarele apune repede și se face foarte frig.",
+                "en": "The dormant winter structure of the gardens is striking, but visit promptly as the sun sets early and the temperature drops rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Délelőtt: Kerekezzen el először a lenyűgöző Képzelet Kertjeibe, élvezve a friss levegőt és a lélegzetelállító, modern tájépítészeti megoldásokat.\nDélben: Hajtson át az Ancien Pont-on, és álljon meg a fenséges Fraysse-kastélynál, hogy megcsodálja a vidék kiemelkedő történelmi építészetét.\nDélután: Lepje meg magát egy édes pihenővel a Bovetti Csokoládémúzeumban, ahol finom helyi alkotásokkal nyerheti vissza energiáját a nap folytatásához.\nEste: Fejezze be kerékpártúráját egy festői utazással a Saint-Barthélémy templomhoz, élvezve a békés vidéki naplementét a fák ölelésében.",
         "ro": "Dimineața: Pedalați mai întâi către uimitoarele Grădini ale Imaginației, bucurându-vă de aerul proaspăt și de arhitectura peisagistică care îți taie respirația.\nPrânz: Mergeți peste Ancien Pont și opriți-vă la maiestuosul Château du Fraysse pentru a admira în detaliu arhitectura sa istorică impresionantă.\nDupă-amiaza: Răsfățați-vă cu o oprire dulce la Muzeul Ciocolatei Bovetti, recuperându-vă energia cu creații locale delicioase și pline de savoare.\nSeara: Încheiați turul de ciclism cu o plimbare pitorească până la Biserica Saint-Barthélémy, bucurându-vă de apusul liniștit, în mijlocul naturii.",
         "en": "Morning: Pedal out to the stunning Gardens of the Imagination first thing in the morning, enjoying the fresh air and breathtaking modern landscape architecture.\nMidday: Ride across the historic Ancien Pont and stop by the majestic Château du Fraysse to thoroughly admire its grand historic stone architecture.\nAfternoon: Treat yourself to a highly anticipated sweet stop at the Bovetti Chocolate Museum, recovering your cycling energy with delicious local creations.\nEvening: Finish your cycling tour with a wonderfully scenic ride out to the Église Saint-Barthélémy, enjoying the deeply peaceful countryside sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginne deine regnerische Fahrt in wasserdichter Kleidung bei den Gärten. Mittags fährst du vorsichtig über die alte, rutschige Brücke. Das Schokoladenmuseum am Nachmittag bietet den perfekten Schutz vor dem Regenguss. Beende den nassen Abend sicher.",
+            "hu": "Kezdd a reggelt vízálló felszerelésben a kerteknél. Délben óvatosan tekerj át a csúszós macskaköves hídon. A délutáni csokoládémúzeum tökéletes, meleg beltéri menedék a zápor elől. Az esős estét óvatos hazautazással zárd le.",
+            "ro": "Începe plimbarea de dimineață în echipament impermeabil la grădini. La prânz, pedalează atent pe podul alunecos. Muzeul de ciocolată de după-amiază oferă un refugiu perfect din calea ploii. Încheie seara ploioasă cu multă grijă.",
+            "en": "Start your wet morning ride at the gardens in fully waterproof gear. Midday brings you over the slippery ancient bridge. The afternoon museum stop provides a perfect indoor escape from the downpour. End your damp evening safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gärten der Vorstellungskraft",
+                "hu": "A Képzelet Kertjei",
+                "ro": "Grădinile Imaginației",
+                "en": "Gardens of the Imagination"
+              },
+              "tip_5lang": {
+                "de": "Fahre vorsichtig auf den nassen Wegen und genieße das üppige Grün; ein guter Regenponcho macht diesen morgendlichen Halt angenehmer.",
+                "hu": "Tekerj nagyon óvatosan a nedves ösvényeken, és élvezd a buja zöldet; egy minőségi esőponcsó sokkal kellemesebbé teszi ezt a reggeli megállót.",
+                "ro": "Condu cu grijă pe cărările umede și bucură-te de verdeața luxuriantă; un poncho bun de ploaie face această oprire matinală mult mai plăcută.",
+                "en": "Ride carefully on the wet paths and enjoy the lush greenery; wearing a high-quality rain poncho makes this morning stop much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Ancien Pont"
+              },
+              "tip_5lang": {
+                "de": "Nasses Kopfsteinpflaster lässt Fahrradreifen leicht wegrutschen, steige lieber ab, um die Brücke sicher zu überqueren und den Fluss zu sehen.",
+                "hu": "A vizes macskaköveken a kerékpárgumik könnyen megcsúsznak, így érdemes leszállni és áttolni a biciklit, hogy biztonságban csodáld a folyót.",
+                "ro": "Anvelopele de bicicletă alunecă ușor pe pietrele cubice ude, ia în considerare să descaleci pentru a traversa în siguranță și a vedea râul.",
+                "en": "Wet cobblestones mean bike tires can slip very easily here, so consider dismounting to cross safely and comfortably enjoy the dramatic river."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fraysse",
+                "hu": "Fraysse-kastély",
+                "ro": "Castelul Fraysse",
+                "en": "Château du Fraysse"
+              },
+              "tip_5lang": {
+                "de": "Betrachte die dunkle, nasse Fassade des Schlosses; stelle sicher, dass deine Fahrradtaschen absolut wasserdicht verschlossen sind.",
+                "hu": "Vedd szemügyre a kastély sötét, esőtől ázó homlokzatát; mindenképpen ellenőrizd, hogy a kerékpáros táskáid teljesen vízállóan zárnak-e.",
+                "ro": "Privește fațada întunecată și udă a castelului; asigură-te că gențile tale de bicicletă sunt închise și complet impermeabile.",
+                "en": "View the dark, rain-soaked facade of the castle; double-check that your bike bags are securely closed and entirely waterproof."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum Bovetti",
+                "hu": "Bovetti Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei Bovetti",
+                "en": "Musée du Chocolat Bovetti"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte trockene Pause; wärme dich mit heißer Schokolade auf, während der Regen draußen ungemütlich weiter prasselt.",
+                "hu": "A tökéletes, száraz pihenőhely; melegedj fel egy forró csokoládéval odabent, miközben kint vigasztalanul zuhog az eső.",
+                "ro": "Pauza uscată perfectă; încălzește-te cu o ciocolată caldă înăuntru, în timp ce ploaia continuă să toarne neîncetat afară.",
+                "en": "The absolutely perfect dry break; warm up inside with hot chocolate while the rain continues to pour uncomfortably outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Saint-Barthélémy-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter, schneller Unterschlupf am Ende der Fahrt; achte beim Parken deines Fahrrads auf die tiefen Pfützen vor dem Eingang.",
+                "hu": "Egy utolsó, gyors menedék az út végén; nagyon ügyelj a bejárat előtti mély tócsákra, amikor leparkolod a kerékpárodat.",
+                "ro": "Un ultim refugiu rapid la sfârșitul cursei; fii atent la bălțile adânci din fața intrării atunci când îți parchezi bicicleta.",
+                "en": "A final, quick shelter at the end of your ride; be mindful of the deep puddles near the entrance when parking your bicycle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Fahrt beginnt an den Gärten. Die mittägliche Brückenüberquerung erfordert warme Kleidung gegen den Wind. Das Schokoladenmuseum wärmt dich gut auf, bevor um 17:00 Uhr die frühe, eisige Dunkelheit einbricht.",
+            "hu": "Fagyos reggeli tekerés indul a téli kerteknél. A déli hídátkeléshez vastag rétegekre lesz szükség a metsző szél ellen. A csokoládémúzeum felmelegít, mielőtt 17:00 órakor leszállna a korai és hideg téli sötétség.",
+            "ro": "O plimbare geroasă de dimineață începe la grădini. Traversarea podului la prânz necesită haine groase împotriva vântului. Muzeul de ciocolată te încălzește fix înainte ca întunericul înghețat să se lase la 17:00.",
+            "en": "A frosty morning ride starts at the dormant gardens. Midday crossing of the old bridge requires thermal layers against the wind. The chocolate museum warms you up before the early, icy 17:00 darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gärten der Vorstellungskraft",
+                "hu": "A Képzelet Kertjei",
+                "ro": "Grădinile Imaginației",
+                "en": "Gardens of the Imagination"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft ist erfrischend, aber trage unbedingt thermische Fahrradhandschuhe für das Lenken auf den gefrorenen, kalten Wegen.",
+                "hu": "A tiszta levegő frissítő, de feltétlenül viselj hőszigetelt kerékpáros kesztyűt, miközben a fagyott, jéghideg utakon navigálsz.",
+                "ro": "Aerul proaspăt este revigorant, dar poartă neapărat mănuși termice de ciclism pentru a ghida bicicleta pe cărările înghețate.",
+                "en": "The crisp air is highly refreshing, but make absolutely sure to wear thermal cycling gloves to steer safely on the frozen paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Ancien Pont"
+              },
+              "tip_5lang": {
+                "de": "Achte besonders auf unsichtbares Glatteis auf der historischen Brücke und trage mehrere Schichten gegen den beißenden Gegenwind.",
+                "hu": "Különösen ügyelj a történelmi hídon megbúvó láthatatlan tükörjégre, és viselj több réteget a metsző ellenszéllel szemben.",
+                "ro": "Ai mare grijă la gheața neagră invizibilă de pe podul istoric și poartă mai multe straturi împotriva vântului tăios din față.",
+                "en": "Watch out carefully for invisible black ice on the historic bridge and wear multiple layers against the biting, freezing headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fraysse",
+                "hu": "Fraysse-kastély",
+                "ro": "Castelul Fraysse",
+                "en": "Château du Fraysse"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine bessere, freie Sicht auf das Schloss; trete kräftig weiter in die Pedale, um deine Körperwärme zu erhalten.",
+                "hu": "A kopasz fák sokkal jobb, szabad kilátást biztosítanak a kastélyra; tekerj tovább lendületesen, hogy megőrizd a testhődet a hidegben.",
+                "ro": "Copacii goi oferă o vedere mult mai bună și clară asupra castelului; continuă să pedalezi viguros pentru a-ți menține căldura corporală.",
+                "en": "The bare winter trees offer a much better, clear view of the castle; keep pedaling vigorously to maintain your core body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum Bovetti",
+                "hu": "Bovetti Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei Bovetti",
+                "en": "Musée du Chocolat Bovetti"
+              },
+              "tip_5lang": {
+                "de": "Taua deine gefrorenen Hände hier auf und genieße ein warmes Getränk an diesem ansonsten sehr kühlen und windigen Nachmittag.",
+                "hu": "Olvaszd fel a fagyott kezeidet ezen a helyen, és fogyassz el egy forró italt ezen az egyébként nagyon hűvös és szeles délutánon.",
+                "ro": "Dezgheață-ți mâinile înghețate aici și bucură-te de o băutură caldă în această după-amiază care altfel este foarte rece și vântoasă.",
+                "en": "Thaw your frozen hands inside here and thoroughly enjoy a warm drink on this otherwise very chilly and wind-swept afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Saint-Barthélémy-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Schalte unbedingt deine Fahrradlichter ein; es wird im Winter schon um 17:00 Uhr sehr dunkel, wenn du diese Kirche besuchst.",
+                "hu": "Feltétlenül kapcsold be a kerékpárlámpákat; télen már 17:00 órakor is koromsötét van, amikor ehhez a templomhoz látogatsz.",
+                "ro": "Asigură-te că aprinzi luminile bicicletei; se face foarte întuneric iarna încă de la ora 17:00 când vizitezi această biserică.",
+                "en": "Make absolutely sure to turn on your bike lights; it gets very dark by 17:00 in the winter when you are visiting this final church."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Délelőtt: Vezessen el a bájos Nagyboldogasszony-templomhoz és a Saint-Barthélémy templomhoz, hogy kényelmesen felfedezze a tágabb régió gazdag örökségét.\nDélben: Térjen vissza a központba, parkoljon le az Ancien Pont közelében, és sétáljon fel a történelmi Saint-Sour apátsághoz, megcsodálva annak építészetét.\nDélután: Látogasson el az elegáns Fraysse-kastélyhoz autójával, mielőtt elmerülne a Bovetti Csokoládémúzeum lenyűgöző és ízletes világában egy vezetésen.\nEste: Fejezze be autós utazását egy nyugodt estével az óvárosban sétálva, esetleg kézműves csokoládékat kóstolgatva, felkészülve a hazautazásra.",
         "ro": "Dimineața: Conduceți spre fermecătoarea Biserică Adormirea Maicii Domnului și Biserica Saint-Barthélémy pentru a explora confortabil moștenirea regiunii mai largi.\nPrânz: Întoarceți-vă în centru, parcați lângă Ancien Pont și urcați pe jos până la Abația istorică Saint-Sour pentru a-i admira detaliile arhitecturale uimitoare.\nDupă-amiaza: Îndreptați-vă spre elegantul Château du Fraysse înainte de a vă scufunda în lumea fascinantă și delicioasă a Muzeului Ciocolatei Bovetti din apropiere.\nSeara: Încheiați călătoria cu mașina cu o seară relaxată plimbându-vă prin orașul vechi, luând cu dumneavoastră câteva ciocolate artizanale fine pentru drumul spre casă.",
         "en": "Morning: Take a pleasant scenic drive out to the charming Église Notre-Dame-de-l'Assomption and the Église Saint-Barthélémy to explore the wider region's heritage.\nMidday: Return to the center, easily park near the Ancien Pont, and walk up the stone streets to the historic Saint Sour Abbey to admire its architecture.\nAfternoon: Head over to the remarkably elegant Château du Fraysse before fully diving into the fascinating, delicious world of the Bovetti Chocolate Museum.\nEvening: End your relaxing road trip with a quiet evening walking through the glowing old town, perhaps picking up some artisan chocolates for the ride home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Deine morgendlichen Fahrten halten dich bequem trocken. Die mittägliche Aussicht aus dem Auto ist praktisch. Das Schokoladenmuseum am Nachmittag ist ein süßer Zufluchtsort. Die abendliche Fahrt erfordert Vorsicht auf nassen, spiegelnden Straßen.",
+            "hu": "A reggeli autózás kényelmesen szárazon tart a templomok között. A déli kilátás a kocsiból is kiváló. A délutáni múzeum édes menedék a záporban. Az esti vezetés fokozott óvatosságot igényel a nedves, csillogó utakon.",
+            "ro": "Condusul de dimineață te ține confortabil uscat între biserici. Priveliștea de la prânz din mașină este practică. Muzeul de după-amiază este un adăpost dulce. Condusul de seară necesită prudență pe drumurile umede.",
+            "en": "Your morning drives keep you comfortably dry between churches. Midday views from the car are very convenient. The afternoon chocolate museum is a sweet shelter. Evening driving requires caution on the wet, reflective roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mariä-Himmelfahrt-Kirche",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Parke möglichst nah und sprinte schnell hinein, um das Altarbild völlig trocken und geschützt vor dem Regen bewundern zu können.",
+                "hu": "Parkolj a lehető legközelebb, és siess be gyorsan, hogy teljesen szárazon, az esőtől védve csodálhasd meg az oltárképet.",
+                "ro": "Parchează cât mai aproape și fugi repede înăuntru pentru a putea admira altarul complet uscat și ferit de ploaia de afară.",
+                "en": "Park as close as possible and dash quickly inside to fully admire the beautiful altarpiece completely dry and sheltered from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Saint-Barthélémy-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Halte immer einen Regenschirm im Auto griffbereit für den zwar kurzen, aber oft sehr nassen Weg vom Parkplatz bis zum Eingang.",
+                "hu": "Mindig tarts egy esernyőt készenlétben az autóban a parkolótól a bejáratig tartó rövid, de gyakran rendkívül vizes sétához.",
+                "ro": "Ține mereu o umbrelă la îndemână în mașină pentru drumul scurt, dar adesea foarte ud, de la parcarea mașinii până la intrare.",
+                "en": "Always keep an umbrella handy in the car for the short, but often very wet and splashy walk from the parking area to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Ancien Pont"
+              },
+              "tip_5lang": {
+                "de": "Genieße die dramatische Sicht auf den Fluss aus der warmen, trockenen Bequemlichkeit deines Autos, anstatt im Regen auszusteigen.",
+                "hu": "Élvezd a folyóra nyíló drámai kilátást a meleg, száraz autód kényelméből, ahelyett, hogy kiszállnál a szakadó esőben.",
+                "ro": "Bucură-te de priveliștea dramatică a râului din confortul cald și uscat al mașinii tale, în loc să ieși afară în ploaia abundentă.",
+                "en": "Enjoy the dramatic river view safely from the warm, dry comfort of your car, rather than stepping out into the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Saint-Sour",
+                "hu": "Saint-Sour Apátság",
+                "ro": "Abația Saint-Sour",
+                "en": "Saint Sour Abbey"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist eine trockene Oase; bringe jedoch Gummistiefel mit, falls du das feuchte Gelände um die Abtei herum erkunden willst.",
+                "hu": "A belső tér igazi száraz oázis; hozz magaddal gumicsizmát, ha fel szeretnéd fedezni az apátság körüli nedves, saras területet is.",
+                "ro": "Interiorul este o oază uscată; adu însă cizme de cauciuc dacă vrei să explorezi terenul umed și noroios din jurul abației.",
+                "en": "The interior is a dry haven; however, bring rain boots if you plan to explore the damp, muddy grounds surrounding the historic abbey."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fraysse",
+                "hu": "Fraysse-kastély",
+                "ro": "Castelul Fraysse",
+                "en": "Château du Fraysse"
+              },
+              "tip_5lang": {
+                "de": "Wird bei starken Schauern am besten durch die Windschutzscheibe mit eingeschalteten Scheibenwischern vom Straßenrand aus bewundert.",
+                "hu": "Erős záporok idején a legjobb, ha az út széléről, a szélvédőn és a bekapcsolt ablaktörlőkön keresztül csodálod meg az épületet.",
+                "ro": "În timpul averselor puternice, se admiră cel mai bine prin parbriz, cu ștergătoarele pornite, de pe marginea drumului în siguranță.",
+                "en": "Best admired safely through the windshield with the wipers running from the edge of the road during particularly heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum Bovetti",
+                "hu": "Bovetti Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei Bovetti",
+                "en": "Musée du Chocolat Bovetti"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastische, komplett trockene Indoor-Aktivität, um deinen verregneten Roadtrip komfortabel und genussvoll abzuschließen.",
+                "hu": "Fantasztikus, teljesen száraz beltéri program, amellyel kényelmesen és élvezetesen zárhatod le ezt az esős autós kirándulást.",
+                "ro": "O activitate de interior fantastică, complet uscată, pentru a încheia confortabil și delicios această excursie ploioasă cu mașina.",
+                "en": "A fantastic, completely dry indoor activity to comfortably and deliciously conclude your otherwise rainy and wet road trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmes Auto macht den kalten Wintermorgen angenehm. Mittags ist der Blick auf das Schloss durch kahle Bäume atemberaubend. Beende den Nachmittag warm im Museum, bevor du nach 17:00 Uhr vorsichtig im Dunkeln fährst.",
+            "hu": "A meleg autó kellemessé teszi a fagyos téli reggelt. Délben a kopasz fákon át lenyűgöző a kastély látványa. A délutánt melegben, a múzeumban zárd, mielőtt 17:00 után a sötét, jeges utakon navigálnál a korai éjszakában.",
+            "ro": "Mașina caldă face dimineața de iarnă plăcută. La prânz, priveliștea castelului prin copacii goi este uimitoare. Încheie după-amiaza la căldură în muzeu înainte de a naviga atent pe drumurile întunecate după 17:00.",
+            "en": "A warm car makes the crisp winter morning pleasant. Midday castle views through bare trees are stunning. Conclude the afternoon warmly at the museum before navigating the dark, icy roads after the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mariä-Himmelfahrt-Kirche",
+                "hu": "Nagyboldogasszony-templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche kann sehr kühl sein, behalte also deinen Wintermantel an, während du die kunstvollen Fresken im Inneren erkundest.",
+                "hu": "Az öreg templom nagyon hűvös lehet, ezért tartsd magadon a télikabátot, miközben odabent a művészi freskókat tanulmányozod.",
+                "ro": "Biserica veche poate fi foarte răcoroasă, așa că ține-ți paltonul de iarnă pe tine în timp ce explorezi frescele artistice din interior.",
+                "en": "The old church can be quite chilly inside, so keep your winter coat on while taking your time to explore the artistic frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Saint-Barthélémy-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Sprint vom Auto; genieße danach das wunderschöne, tiefstehende Wintersonnenlicht, das durch die Fenster fällt.",
+                "hu": "Rövid, hideg sprint az autótól; utána viszont élvezd a gyönyörű, alacsonyan járó téli napfényt, ami az ablakokon át besüt.",
+                "ro": "Un sprint scurt și rece de la mașină; apoi bucură-te de frumoasa lumină a soarelui de iarnă de joasă altitudine prin ferestre.",
+                "en": "A short, cold sprint from the warm car; afterward, enjoy the beautiful, low-angle winter sunlight streaming through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Ancien Pont"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Winterlandschaft ist atemberaubend schön, aber packe dich dick ein, falls du für ein Foto aus dem Auto aussteigst.",
+                "hu": "A befagyott téli táj lélegzetelállítóan szép, de burkolózz be jó vastagon, ha esetleg egy fotó erejéig kiszállnál a meleg autóból.",
+                "ro": "Peisajul de iarnă înghețat este uimitor de frumos, dar înfofolește-te bine dacă te decizi să ieși din mașină pentru o fotografie.",
+                "en": "The frozen winter landscape is stunningly beautiful, but bundle up thickly if you decide to step out of the warm car for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Saint-Sour",
+                "hu": "Saint-Sour Apátság",
+                "ro": "Abația Saint-Sour",
+                "en": "Saint Sour Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist im Winterlicht sehr beeindruckend; achte jedoch auf vereiste Stufen auf dem Weg vom Parkplatz zur Abtei.",
+                "hu": "Az építészet nagyon lenyűgöző a téli fényben; de nagyon ügyelj a parkolótól az apátságig vezető esetlegesen eljegesedett lépcsőkre.",
+                "ro": "Arhitectura este foarte impresionantă în lumina iernii; ai grijă însă la treptele înghețate de pe drumul de la parcare la abație.",
+                "en": "The architecture is highly impressive in the clear winter light; however, watch out for icy steps on the path from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fraysse",
+                "hu": "Fraysse-kastély",
+                "ro": "Castelul Fraysse",
+                "en": "Château du Fraysse"
+              },
+              "tip_5lang": {
+                "de": "Die völlig blätterlosen Bäume offenbaren das Schloss an einem klaren Wintertag perfekt direkt von der bequemen Straße aus.",
+                "hu": "A teljesen lombtalan fák egy tiszta téli napon tökéletesen láttatni engedik a kastélyt közvetlenül a kényelmes út széléről is.",
+                "ro": "Copacii complet lipsiți de frunze dezvăluie castelul perfect într-o zi senină de iarnă chiar de pe drumul confortabil de vizavi.",
+                "en": "The completely leafless trees perfectly reveal the stunning castle on a clear winter day right from the comfort of the adjacent road."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum Bovetti",
+                "hu": "Bovetti Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei Bovetti",
+                "en": "Musée du Chocolat Bovetti"
+              },
+              "tip_5lang": {
+                "de": "Wärme dich hier bei einem heißen Getränk gründlich auf, bevor du in der frühen Dunkelheit ab 17:00 Uhr vorsichtig weiterfährst.",
+                "hu": "Melegedj fel itt alaposan egy forró ital kíséretében, mielőtt a korai, 17:00 óra utáni sötétségben óvatosan továbbvezetnél.",
+                "ro": "Încălzește-te bine aici cu o băutură caldă înainte de a conduce cu multă prudență mai departe în întunericul devreme de la 17:00.",
+                "en": "Warm yourself up thoroughly here with a hot drink before driving very carefully in the early evening darkness sets in by 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "A séta a tengerparton kezdődik a festői Szent Miklós-kápolna meglátogatásával, majd megfigyelheti a jachtkikötő életét. Dél körül a Folklórmúzeumban és a közeli templomban elmerülhet a helyi kultúrában. Délután pihenjen Avra környékén, és fedezzen fel ősi kincseket a Régészeti Múzeumban. A nap fenségesen zárul Kolona történelmi romjainál, kilátással a tengerre.",
         "ro": "Plimbarea începe pe coastă cu o vizită la capela pitorească Sf. Nicolae, înainte de a observa viața din port. În jurul prânzului, pătrundeți în cultura locală la Muzeul de Folclor și biserica din apropiere. După-amiaza vă relaxați în zona Avra și descoperiți comori antice la Muzeul Arheologic. Ziua se încheie maiestuos la ruinele istorice din Kolona, cu vedere spre mare.",
         "en": "The walk starts on the coast with a visit to the picturesque St. Nicholas Chapel before you observe life at the marina. Around noon, you delve deeply into local culture at the Folklore Museum and the nearby church. In the afternoon, relax in the Avra area and discover ancient treasures at the Archaeological Museum. The day ends majestically at the historical ruins of Kolona overlooking the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Hafen, wo die kleine Kapelle bei Schauern schnellen Schutz bietet. Das Volkskundemuseum ist das ideale Ziel für den Vormittag, um trocken zu bleiben. Am Nachmittag lockt das Archäologische Museum mit seinen Innenausstellungen. Den Abend lassen Sie gemütlich in einer der vielen überdachten Tavernen direkt am Hafen ausklingen, während der Regen auf das Meer peitscht.",
+            "hu": "Kezdje a napot a kikötőben, ahol a kis kápolna gyors menedéket nyújt az záporok elől. Délelőtt a Néprajzi Múzeum ideális célpont, hogy szárazon maradjon. Délután a Régészeti Múzeum belső kiállításai várják. Az estét töltse a kikötő számos fedett tavernájának egyikében, miközben az eső a tengert mossa, és élvezze a helyi specialitásokat a melegben.",
+            "ro": "Începeți ziua în port, unde mica capelă oferă un adăpost rapid în caz de averse. Muzeul de Folclor este destinația ideală pentru dimineață pentru a rămâne uscat. După-amiaza, expozițiile interioare ale Muzeului Arheologic vă așteaptă. Încheiați seara confortabil într-una dintre numeroasele taverne acoperite direct din port, în timp ce ploaia bate peste mare.",
+            "en": "Start your day at the harbor, where the small chapel offers quick shelter from showers. The Folklore Museum is the ideal morning destination to stay dry. In the afternoon, the indoor exhibits of the Archaeological Museum await. End the evening cozily in one of the many covered tavernas right by the harbor, watching the rain fall over the sea while enjoying local treats."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "hu": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "ro": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "en": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese winzige Kapelle am Hafenrand; sie bietet einen kurzen Unterstand vor Regen, aber Vorsicht auf den extrem rutschigen Steinplatten direkt am Wasser.",
+                "hu": "Látogassa meg ezt a parányi kápolnát a kikötő szélén; rövid menedéket nyújt az eső elől, de vigyázzon a vízparti kövekkel, mert ilyenkor rendkívül csúszósak.",
+                "ro": "Vizitați această mică capelă de la marginea portului; oferă un scurt adăpost împotriva ploii, dar aveți grijă pe pietrele de la malul apei, care devin foarte alunecoase.",
+                "en": "Visit this tiny chapel at the harbor's edge; it offers a brief shelter from rain, but be very careful on the stone tiles near the water as they become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Aegina Marina mooring",
+                "hu": "Aegina Marina mooring",
+                "ro": "Aegina Marina mooring",
+                "en": "Aegina Marina mooring"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf die schaukelnden Boote im Regen ist reizvoll; suchen Sie danach schnell Schutz unter den Markisen der nahegelegenen Cafés für einen heißen Tee.",
+                "hu": "A ringatózó hajók látványa az esőben igen hangulatos; utána keressen gyorsan menedéket a közeli kávézók napellenzői alatt egy forró teára vagy kávéra.",
+                "ro": "Vederea bărcilor legănate în ploaie este fermecătoare; după aceea, căutați rapid adăpost sub copertinele cafenelelor din apropiere pentru un ceai fierbinte.",
+                "en": "The sight of swaying boats in the rain is quite atmospheric; afterwards, quickly seek shelter under the awnings of nearby cafes for a warming hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Folklore Museum Aegina",
+                "hu": "Folklore Museum Aegina",
+                "ro": "Folklore Museum Aegina",
+                "en": "Folklore Museum Aegina"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum in einem alten Herrenhaus ist der perfekte Zufluchtsort; erkunden Sie die Exponate in aller Ruhe, während draußen der Regen gegen die Fenster prasselt.",
+                "hu": "Ez a régi kúriában található múzeum tökéletes búvóhely; fedezze fel nyugodtan a kiállítási tárgyakat, miközben kint az eső kopog az ablakokon.",
+                "ro": "Acest muzeu situat într-un conac vechi este refugiul perfect; explorați exponatele pe îndelete în timp ce ploaia bate în ferestre afară.",
+                "en": "This museum housed in an old mansion is the perfect rainy hideout; explore the exhibits at your own pace while the rain drums against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Saint Nicholas",
+                "hu": "Church of Saint Nicholas",
+                "ro": "Church of Saint Nicholas",
+                "en": "Church of Saint Nicholas"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Kirche bietet Schutz und Stille; nutzen Sie die Zeit für eine meditative Pause im trockenen Innenraum, bevor Sie zum nächsten Ziel weitergehen.",
+                "hu": "A pompás templom menedéket és csendet kínál; használja ki az időt egy meditatív szünetre a száraz belső térben, mielőtt továbbindulna a következő állomáshoz.",
+                "ro": "Biserica magnifică oferă adăpost și liniște; folosiți timpul pentru o pauză meditativă în interiorul uscat înainte de a merge mai departe spre următoarea oprire.",
+                "en": "The magnificent church offers shelter and silence; use the time for a meditative break in the dry interior before heading out to your next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Avra",
+                "hu": "Avra",
+                "ro": "Avra",
+                "en": "Avra"
+              },
+              "tip_5lang": {
+                "de": "An diesem Uferabschnitt peitscht der Regen oft horizontal; halten Sie Ihren Regenschirm gut fest und genießen Sie die dramatische Aussicht auf das graue Meer.",
+                "hu": "Ezen a parton az eső gyakran vízszintesen ver; tartsa erősen az esernyőjét, és élvezze a drámai kilátást a viharos, szürke tengerre.",
+                "ro": "Pe această porțiune de coastă, ploaia bate adesea orizontal; țineți bine umbrela și bucurați-vă de vederea dramatică a mării cenușii și agitate.",
+                "en": "On this stretch of shore, rain often blows horizontally; hold your umbrella tightly and enjoy the dramatic view of the stormy, grey sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Aiginas",
+                "hu": "Arkhaiologiko Mouseio Aiginas",
+                "ro": "Arkhaiologiko Mouseio Aiginas",
+                "en": "Arkhaiologiko Mouseio Aiginas"
+              },
+              "tip_5lang": {
+                "de": "Ein absolutes Muss an Regentagen; die umfangreiche Sammlung im Inneren lässt Sie das schlechte Wetter vergessen, während Sie tief in die Geschichte eintauchen.",
+                "hu": "Esős napokon kötelező program; a gazdag belső gyűjtemény elfeledteti Önnel a rossz időt, miközben elmélyül a sziget ókori történelmében.",
+                "ro": "O vizită obligatorie în zilele ploioase; bogata colecție interioară vă va face să uitați de vremea rea în timp ce vă cufundați în istorie.",
+                "en": "A must-visit on rainy days; the extensive indoor collection will make you forget the bad weather as you dive deep into the island's ancient history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona",
+                "hu": "Kolona",
+                "ro": "Kolona",
+                "en": "Kolona"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungsstätte ist im Regen schlammig; bleiben Sie auf den befestigten Wegen und bewundern Sie die einsame Säule vor dem wolkenverhangenen Horizont.",
+                "hu": "Az ásatási terület esőben saras lehet; maradjon a kijelölt utakon, és csodálja meg a magányos oszlopot a felhős, borús horizont előtt.",
+                "ro": "Situl arheologic poate fi noroios pe ploaie; rămâneți pe potecile marcate și admirați coloana singuratică pe fundalul orizontului înnorat.",
+                "en": "The excavation site can be muddy in the rain; stay on the paved paths and admire the solitary column against the backdrop of the cloudy horizon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Ägina in der klaren Winterluft ohne die sommerlichen Menschenmassen. Der Vormittag gehört den kulturellen Schätzen der Stadt. Mittags wärmen Sie sich bei einem kräftigen Kaffee auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen Sie die Ruinen von Kolona für das frühe Goldene Licht ein. Der Abend ist perfekt für ein herzhaftes Essen in einer beheizten Taverne.",
+            "hu": "Fedezze fel Éginát a tiszta téli levegőben, a nyári tömeg nélkül. A délelőtt a város kulturális kincseié. Délben melegedjen fel egy erős görög kávéval. Mivel a nap már 17:00 körül lemegy, tervezze a Kolona romjait a kora délutáni aranyfényekre. Az este tökéletes egy kiadós vacsorához egy fűtött tavernákban, ahol élvezheti a sziget téli nyugalmát.",
+            "ro": "Descoperiți Aegina în aerul curat de iarnă, fără mulțimile de vară. Dimineața este dedicată comorilor culturale ale orașului. La prânz, încălziți-vă cu o cafea grecească tare. Deoarece soarele apune deja în jurul orei 17:00, planificați ruinele din Kolona pentru lumina aurie de devreme. Seara este perfectă pentru o cină copioasă într-o tavernă încălzită.",
+            "en": "Discover Aegina in the crisp winter air, free from summer crowds. The morning belongs to the town's cultural treasures. At noon, warm up with a strong Greek coffee. Since the sun sets around 17:00, plan the Kolona ruins for the early golden light. The evening is perfect for a hearty meal in a heated tavern, enjoying the island's peaceful winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "hu": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "ro": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "en": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise ist hier im Winter erfrischend; tragen Sie eine windfeste Jacke, während Sie die klare Sicht auf die benachbarten Inseln genießen.",
+                "hu": "A hűvös tengeri szellő télen felfrissítő; viseljen szélálló kabátot, miközben élvezi a tiszta kilátást a szomszédos szigetekre a kikötőből.",
+                "ro": "Briza rece a mării este revigorantă iarna; purtați o jachetă rezistentă la vânt în timp ce vă bucurați de vederea clară spre insulele vecine.",
+                "en": "The cool sea breeze is refreshing in winter; wear a windproof jacket while enjoying the clear view of neighboring islands from the harbor edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Aegina Marina mooring",
+                "hu": "Aegina Marina mooring",
+                "ro": "Aegina Marina mooring",
+                "en": "Aegina Marina mooring"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine friedliche Stille; beobachten Sie die Fischer bei ihrer Arbeit und genießen Sie die authentische Atmosphäre ohne die Touristenströme.",
+                "hu": "Télen békés csend honol itt; figyelje meg a halászokat munka közben, és élvezze az autentikus hangulatot a turistaáradat nélkül.",
+                "ro": "Iarna domnește aici o liniște pașnică; observați pescarii la lucru și bucurați-vă de atmosfera autentică, fără șuvoiul de turiști.",
+                "en": "Peaceful silence reigns here in winter; observe the fishermen at work and enjoy the authentic atmosphere without the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Folklore Museum Aegina",
+                "hu": "Folklore Museum Aegina",
+                "ro": "Folklore Museum Aegina",
+                "en": "Folklore Museum Aegina"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmer Ort, um etwas über das Inselleben zu erfahren; die dicken Mauern halten die Kälte draußen, während Sie die Kostüme bewundern.",
+                "hu": "Csodálatosan meleg hely, ahol megismerheti a szigeti életet; a vastag falak kint tartják a hideget, miközben Ön a népviseleteket csodálja.",
+                "ro": "Un loc minunat de cald pentru a învăța despre viața insulară; pereții groși țin frigul afară în timp ce admirați costumele populare.",
+                "en": "A wonderfully warm place to learn about island life; the thick walls keep the cold out while you admire the traditional costumes and tools."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Saint Nicholas",
+                "hu": "Church of Saint Nicholas",
+                "ro": "Church of Saint Nicholas",
+                "en": "Church of Saint Nicholas"
+              },
+              "tip_5lang": {
+                "de": "Das sanfte Winterlicht, das durch die Fenster fällt, erzeugt eine besondere Stimmung; ideal für einen ruhigen Moment der Besinnung fernab der Kälte.",
+                "hu": "Az ablakokon beszűrődő lágy téli fény különleges hangulatot áraszt; ideális egy csendes pillanatra a hideg elől behúzódva.",
+                "ro": "Lumina blândă de iarnă care trece prin ferestre creează o atmosferă deosebită; ideal pentru un moment de liniște, departe de frigul de afară.",
+                "en": "The soft winter light streaming through the windows creates a special mood; ideal for a quiet moment of reflection away from the outside chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Avra",
+                "hu": "Avra",
+                "ro": "Avra",
+                "en": "Avra"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Winterspaziergang am Meer; die Luft ist unglaublich rein, aber vergessen Sie Ihre Mütze gegen den kalten Wind nicht.",
+                "hu": "Tökéletes hely egy tempós téli sétához a tengerparton; a levegő hihetetlenül tiszta, de ne felejtse otthon a sapkáját a hideg szél miatt.",
+                "ro": "Perfect pentru o plimbare rapidă de iarnă pe malul mării; aerul este incredibil de curat, dar nu vă uitați căciula împotriva vântului rece.",
+                "en": "Perfect for a brisk winter walk by the sea; the air is incredibly pure, but don't forget your hat to protect against the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaiologiko Mouseio Aiginas",
+                "hu": "Arkhaiologiko Mouseio Aiginas",
+                "ro": "Arkhaiologiko Mouseio Aiginas",
+                "en": "Arkhaiologiko Mouseio Aiginas"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Wintersaison ist ideal, um die Statuen ohne Drängeln zu studieren; nehmen Sie sich Zeit für die Details in der geheizten Galerie.",
+                "hu": "A csendes téli szezon ideális a szobrok tolongás nélküli tanulmányozására; szánjon időt a részletekre a fűtött galériában.",
+                "ro": "Sezonul liniștit de iarnă este ideal pentru a studia statuile fără aglomerație; acordați-vă timp pentru detalii în galeria încălzită.",
+                "en": "The quiet winter season is ideal for studying the statues without crowds; take your time with the details inside the heated gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona",
+                "hu": "Kolona",
+                "ro": "Kolona",
+                "en": "Kolona"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor 17:00 Uhr; der Sonnenuntergang über dem Saronischen Golf ist im Winter durch die klare Luft besonders spektakulär.",
+                "hu": "Látogasson el ide röviddel 17:00 előtt; a Szaroniki-öböl feletti naplemente télen a tiszta levegő miatt különösen látványos.",
+                "ro": "Vizitați acest loc cu puțin timp înainte de ora 17:00; apusul peste Golful Saronic este spectaculos iarna datorită aerului curat.",
+                "en": "Visit this site shortly before 17:00; the winter sunset over the Saronic Gulf is particularly spectacular due to the crisp, clear air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpártúráját a tengeri kápolnánál, majd tekerjen a csodálatos Fővárosi Katedrálishoz. Ebédidőben a Kormányzói Ház izgalmas bepillantást nyújt Aegina görög fővárosként eltöltött idejébe. Délután fedezze fel Kolona lenyűgöző oszlopait, majd hűsöljön a közeli strandon. A napot a kicsit kijjebb található Kapralos Múzeum zárja, amely kerékpárral tökéletesen elérhető.",
         "ro": "Începeți turul cu bicicleta la capela de pe mare și apoi pedalați spre magnifica Catedrală Metropolitană. La prânz, Casa Guvernatorului oferă informații fascinante despre perioada Aeginei ca capitală. După-amiaza explorați coloanele impresionante de la Kolona și vă răcoriți la plaja din apropiere. Ziua se încheie cu Muzeul Kapralos, puțin în afara orașului, perfect accesibil cu bicicleta.",
         "en": "Start your bike ride at the sea chapel and then cycle to the magnificent Metropolitan Cathedral. At lunchtime, the Governor's House offers fascinating insights into Aegina's time as the Greek capital. In the afternoon, you explore the impressive columns of Kolona and then cool off at the nearby beach. The day concludes at the Kapralos Museum just outside town, perfectly accessible by bike."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, besonders auf den glatten Hafenstraßen. Nutzen Sie die Kirchen als trockene Pausenstopps. Am Nachmittag bietet das Kapralos-Museum einen perfekten, weitläufigen Rückzugsort. Tragen Sie wasserfeste Kleidung und achten Sie auf Pfützen in den Gassen. Der Tag endet am besten in der Nähe des Hafens, wo Sie Ihr Rad sicher im Trockenen abstellen können.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel, különösen a síkos kikötői utakon. Használja a templomokat száraz pihenőhelyként. Délután a Kapralos Múzeum tökéletes, tágas menedéket nyújt. Viseljen vízálló ruházatot és figyeljen a tócsákra a szűk utcákban. A napot legjobb a kikötő közelében zárni, ahol biztonságos, fedett helyen hagyhatja a kerékpárt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, mai ales pe străzile alunecoase din port. Folosiți bisericile ca opriri uscate pentru pauză. După-amiaza, Muzeul Kapralos oferă un refugiu spațios perfect. Purtați haine impermeabile și aveți grijă la bălțile de pe străzile înguste. Ziua se încheie cel mai bine lângă port, unde puteți lăsa bicicleta la loc uscat.",
+            "en": "Cycling in the rain requires caution, especially on slippery harbor roads. Use the churches as dry break stops along the way. In the afternoon, the Kapralos Museum offers a perfect, spacious indoor retreat. Wear waterproof gear and watch out for deep puddles in the narrow alleys. The day ends best near the harbor, where you can park your bike safely under cover."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "hu": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "ro": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "en": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad kurz unter dem Dachvorsprung ab; der Blick auf den grauen Hafen ist vom trockenen Eingangsbereich aus am schönsten.",
+                "hu": "Állítsa le a biciklit rövid időre az eresz alá; a szürke kikötő látványa a száraz bejárati részből a legélvezetesebb.",
+                "ro": "Parcați bicicleta scurt sub streșină; vederea portului cenușiu este cea mai frumoasă din zona de intrare uscată.",
+                "en": "Park your bike briefly under the eaves; the view of the grey harbor is most enjoyable from the dry entrance area of the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Metropolitan Cathedral of Aegina",
+                "hu": "Metropolitan Cathedral of Aegina",
+                "ro": "Metropolitan Cathedral of Aegina",
+                "en": "Metropolitan Cathedral of Aegina"
+              },
+              "tip_5lang": {
+                "de": "Die große Kathedrale bietet viel Platz zum Aufwärmen; achten Sie beim Absteigen auf den rutschigen Marmor vor dem Haupteingang.",
+                "hu": "A hatalmas székesegyház bőven kínál helyet a felmelegedéshez; leszálláskor ügyeljen a főbejárat előtti csúszós márványburkolatra.",
+                "ro": "Catedrala mare oferă mult spațiu pentru a vă încălzi; aveți grijă la coborâre pe marmura alunecoasă din fața intrării principale.",
+                "en": "The large cathedral offers plenty of space to warm up; watch out for slippery marble in front of the main entrance when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "The Governor’s House",
+                "hu": "The Governor’s House",
+                "ro": "The Governor’s House",
+                "en": "The Governor’s House"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Gebäude ist ein idealer Stopp, um die Regenkleidung kurz zu lüften und dabei in die Geschichte der ersten griechischen Hauptstadt einzutauchen.",
+                "hu": "Ez a történelmi épület ideális megálló, hogy rövid időre megszárítsa esővédőjét, miközben elmerül az első görög főváros történelmében.",
+                "ro": "Această clădire istorică este o oprire ideală pentru a vă aerisi puțin hainele de ploaie în timp ce vă cufundați în istoria primei capitale grecești.",
+                "en": "This historic building is an ideal stop to briefly air out your rain gear while diving into the history of the first Greek capital."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona",
+                "hu": "Kolona",
+                "ro": "Kolona",
+                "en": "Kolona"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem schlammigen Untergrund der Zufahrt; der Regen lässt die antiken Steine glänzen, was ein tolles Fotomotiv bietet.",
+                "hu": "Tekerjen óvatosan a sárral borított feljárón; az esőtől csillognak az ókori kövek, ami remek fotótémát kínál a vállalkozó kedvűeknek.",
+                "ro": "Pedalați cu atenție pe suprafața noroioasă a accesului; ploaia face ca pietrele antice să strălucească, oferind un motiv fotografic excelent.",
+                "en": "Cycle carefully on the muddy access path; the rain makes the ancient stones glisten, providing a great photo opportunity for the brave."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona Beach",
+                "hu": "Kolona Beach",
+                "ro": "Kolona Beach",
+                "en": "Kolona Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen kurzen Halt am Meer; der Wind kann hier im Regen stark sein, suchen Sie danach schnell den Schutz des nächsten Museums.",
+                "hu": "Csak egy rövid megállót tartsanak a tengerparton; esőben erős lehet a szél, utána keressék fel gyorsan a következő múzeum oltalmát.",
+                "ro": "Faceți doar o scurtă oprire la malul mării; vântul poate fi puternic aici pe ploaie, apoi căutați rapid protecția următorului muzeu.",
+                "en": "Make only a brief stop by the shore; winds can be strong here in the rain, so head quickly to the shelter of the next museum afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Christos Kapralos Museum",
+                "hu": "Christos Kapralos Museum",
+                "ro": "Christos Kapralos Museum",
+                "en": "Christos Kapralos Museum"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss: Viel Platz im Inneren, um die Skulpturen zu bewundern, während Sie draußen Ihr Fahrrad unter dem Vordach parken können.",
+                "hu": "A nap fénypontja: tágas belső tér a szobrok megcsodálásához, miközben a biciklit kint, az előtető alatt hagyhatja szárazon.",
+                "ro": "Finalul perfect: mult spațiu în interior pentru a admira sculpturile, în timp ce vă puteți lăsa bicicleta afară, sub copertină, la uscat.",
+                "en": "The perfect finale: plenty of indoor space to admire the sculptures, while you can park your bike outside under the canopy to keep it dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne ist perfekt für eine Radtour entlang der Küste. Am Vormittag erkunden Sie die prächtigen Gebäude der Stadt. Mittags stärken Sie sich für die Weiterfahrt Richtung Norden. Beachten Sie, dass es nach Sonnenuntergang um 17:00 Uhr schnell empfindlich kalt wird. Planen Sie Ihre Rückkehr zum Hafen vor Einbruch der Dunkelheit ein, um die kühlen Abendwinde zu vermeiden.",
+            "hu": "A téli napsütés tökéletes egy tengerparti kerékpártúrához. Délelőtt a város pompás épületeit fedezze fel. Délben gyűjtsön erőt a folytatáshoz észak felé. Ügyeljen rá, hogy naplemente után, 17:00 körül hirtelen lehűl a levegő. Tervezze a visszaérkezést a kikötőbe sötétedés előtt, hogy elkerülje a csípős esti szeleket.",
+            "ro": "Soarele de iarnă este perfect pentru o plimbare cu bicicleta de-a lungul coastei. Dimineața, explorați clădirile magnifice ale orașului. La prânz, prindeți puteri pentru continuarea drumului spre nord. Rețineți că după apusul soarelui, în jurul orei 17:00, se răcește brusc. Planificați întoarcerea în port înainte de lăsarea întunericului.",
+            "en": "The winter sun is perfect for a coastal bike ride. In the morning, explore the town's magnificent historic buildings. At noon, refuel for the ride further north. Be aware that it gets noticeably cold very quickly after sunset at 17:00. Plan your return to the harbor before dark to avoid the biting evening sea winds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "hu": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "ro": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)",
+                "en": "The chapel of Agios Nikolaos Thalassinos (St Nicholas)"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier mit dem Rad; die klare Wintermorgenluft bietet eine unglaubliche Fernsicht auf die Berge des Peloponnes am Horizont.",
+                "hu": "Innen induljon a túrára; a tiszta téli reggeli levegő hihetetlen kilátást nyújt a távoli Peloponnészosz-hegység vonulataira.",
+                "ro": "Începeți tura de aici; aerul limpede al dimineții de iarnă oferă o vizibilitate incredibilă spre munții Peloponezului de la orizont.",
+                "en": "Start your ride here; the clear winter morning air offers incredible visibility towards the mountains of the Peloponnese on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Metropolitan Cathedral of Aegina",
+                "hu": "Metropolitan Cathedral of Aegina",
+                "ro": "Metropolitan Cathedral of Aegina",
+                "en": "Metropolitan Cathedral of Aegina"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Rast im Windschatten der hohen Mauern; ziehen Sie Ihre Handschuhe wieder an, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Kellemlmes hely egy rövid pihenőre a magas falak szélárnyékában; húzza vissza a kesztyűjét, mielőtt folytatná az utat észak felé.",
+                "ro": "Un loc plăcut pentru o scurtă odihnă la adăpostul zidurilor înalte; puneți-vă mănușile înapoi înainte de a continua drumul.",
+                "en": "A lovely spot for a short rest in the wind shadow of the high walls; put your gloves back on before continuing your coastal ride."
+              }
+            },
+            {
+              "name": {
+                "de": "The Governor’s House",
+                "hu": "The Governor’s House",
+                "ro": "The Governor’s House",
+                "en": "The Governor’s House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad draußen und wärmen Sie sich im Inneren auf; die historische Bedeutung dieses Ortes wird Sie während der Pause fesseln.",
+                "hu": "Hagyja kint a biciklit, és melegedjen fel a belső térben; a hely történelmi jelentősége biztosan leköti majd a pihenő alatt.",
+                "ro": "Lăsați bicicleta afară și încălziți-vă în interior; semnificația istorică a acestui loc vă va captiva cu siguranță în timpul pauzei.",
+                "en": "Park your bike outside and warm up inside; the historical significance of this place will surely captivate you during your rest stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona",
+                "hu": "Kolona",
+                "ro": "Kolona",
+                "en": "Kolona"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise auf dem Hügel ist erfrischend; genießen Sie das Panorama ohne die Hitze des Sommers, bevor die Sonne tiefer sinkt.",
+                "hu": "A dombon fújó hűvös szellő felfrissítő; élvezze a panorámát a nyári hőség nélkül, mielőtt a nap még lejjebb ereszkedne az égen.",
+                "ro": "Briza rece de pe deal este revigorantă; bucurați-vă de panoramă fără căldura verii, înainte ca soarele să coboare mai jos.",
+                "en": "The cool breeze on the hill is refreshing; enjoy the panorama without the summer heat before the sun sinks lower in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona Beach",
+                "hu": "Kolona Beach",
+                "ro": "Kolona Beach",
+                "en": "Kolona Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am verlassenen Winterstrand ist magisch; hören Sie dem Rauschen der Wellen zu, bevor Sie die letzte Etappe antreten.",
+                "hu": "Egy rövid megálló az elhagyatott téli strandon varázslatos; hallgassa a hullámok zúgását, mielőtt nekivágna a túra utolsó szakaszának.",
+                "ro": "O scurtă oprire pe plaja pustie de iarnă este magică; ascultați susurul valurilor înainte de a porni în ultima etapă a traseului.",
+                "en": "A short stop at the deserted winter beach is magical; listen to the crashing waves before embarking on the final stage of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Christos Kapralos Museum",
+                "hu": "Christos Kapralos Museum",
+                "ro": "Christos Kapralos Museum",
+                "en": "Christos Kapralos Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum vor 17:00 Uhr; das Licht im Atelier ist im Winterlicht besonders stimmungsvoll für die Betrachtung der Skulpturen.",
+                "hu": "Látogasson el a múzeumba 17:00 előtt; a műteremben beszűrődő téli fény különleges hangulatot ad a szobrok megtekintéséhez.",
+                "ro": "Vizitați muzeul înainte de ora 17:00; lumina de iarnă din atelier oferă o atmosferă deosebită pentru vizionarea sculpturilor.",
+                "en": "Visit the museum before 17:00; the light in the studio is particularly atmospheric in winter for viewing the bronze sculptures."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Autóval kényelmesen elérheti a történelmi Kapodistrias árvaházat és Melokudono bájos negyedét reggel. Dél körül meglátogatja a fenséges Fővárosi Katedrálist, amely gazdag nemzeti történelemmel rendelkezik. Délután a híres koloniai régészeti ásatásokhoz vezet. A túra késő délután ér véget Christos Kapralos múzeumában, amelyet művészi szobrok vesznek körül.",
         "ro": "Cu mașina puteți ajunge cu ușurință dimineața la orfelinatul istoric Kapodistrias și la fermecătorul cartier Melokudono. În jurul prânzului veți vizita maiestuoasa Catedrală Metropolitană, cu o bogată istorie națională. După-amiaza conduceți către faimoasele săpături arheologice de la Kolona. Turul se termină la sfârșitul după-amiezii la muzeul lui Christos Kapralos, înconjurat de sculpturi artistice.",
         "en": "By car, you can easily reach the historical Kapodistrias Orphanage and the charming Melokudono neighborhood in the morning. Around noon, you visit the majestic Metropolitan Cathedral with its rich national history. In the afternoon, you drive to the famous archaeological excavations of Kolona. The tour ends in the late afternoon at the museum of Christos Kapralos, surrounded by artistic sculptures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund. Beginnen Sie entspannt am Waisenhaus und nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten. Am Nachmittag bietet das Kapralos-Museum einen weitläufigen, trockenen Ort für Kunstgenuss. Parken Sie stets nah an den Eingängen und genießen Sie die Fahrt entlang der Küste, während die Regentropfen gegen die Scheibe trommeln.",
+            "hu": "Az autó ma a legjobb barátja lesz. Kezdjen nyugodtan az árvaháznál, és használja ki a látnivalók közötti rövid távolságokat. Délután a Kapralos Múzeum tágas, száraz helyszínt kínál a művészet élvezetéhez. Mindig parkoljon közel a bejáratokhoz, és élvezze a tengerparti autózást, miközben az esőcseppek dobolnak a szélvédőn.",
+            "ro": "Mașina este cel mai bun prieten al tău astăzi. Începeți relaxat la orfelinat și profitați de distanțele scurte dintre obiectivele turistice. După-amiaza, Muzeul Kapralos oferă un loc spațios și uscat pentru a vă bucura de artă. Parcați întotdeauna aproape de intrări și bucurați-vă de drumul pe coastă în timp ce picăturile de ploaie bat în geam.",
+            "en": "The car is your best friend today. Start relaxed at the Orphanage and take advantage of the short distances between the sights. In the afternoon, the Kapralos Museum offers a spacious, dry location for enjoying art. Always park close to the entrances and enjoy the drive along the coast while the raindrops drum against the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapodistriako Orphanotropheio",
+                "hu": "Kapodistriako Orphanotropheio",
+                "ro": "Kapodistriako Orphanotropheio",
+                "en": "Kapodistriako Orphanotropheio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; bewundern Sie das monumentale Gebäude vom Auto aus oder machen Sie einen kurzen, trockenen Rundgang durch die Geschichte.",
+                "hu": "Parkoljon közvetlenül az épület előtt; csodálja meg a monumentális építményt az autóból, vagy tegyen egy gyors, száraz kört a történelemben.",
+                "ro": "Parcați direct în față; admirați clădirea monumentală din mașină sau faceți un tur scurt și uscat prin istorie.",
+                "en": "Park directly in front; admire the monumental building from the car or take a quick, dry tour through its significant history."
+              }
+            },
+            {
+              "name": {
+                "de": "Melokudono",
+                "hu": "Melokudono",
+                "ro": "Melokudono",
+                "en": "Melokudono"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um sich mit lokalen Köstlichkeiten einzudecken; der kurze Weg vom Parkplatz ins Innere hält Sie garantiert trocken.",
+                "hu": "Tökéletes megálló, hogy helyi finomságokkal tankoljon fel; a rövid út a parkolótól a belső térig garantáltan szárazon tartja Önt.",
+                "ro": "O oprire perfectă pentru a vă aproviziona cu delicii locale; drumul scurt de la parcare până în interior vă va menține cu siguranță uscat.",
+                "en": "A perfect stop to stock up on local delicacies; the short walk from the parking area to the interior is guaranteed to keep you dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Metropolitan Cathedral of Aegina",
+                "hu": "Metropolitan Cathedral of Aegina",
+                "ro": "Metropolitan Cathedral of Aegina",
+                "en": "Metropolitan Cathedral of Aegina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz in der Nähe; der prunkvolle Innenraum ist eine warme Oase der Ruhe, während draußen der Regen auf die Stadt fällt.",
+                "hu": "Használja a közeli parkolót; a pompás belső tér a nyugalom meleg oázisa, miközben kint az eső mossa a város utcáit.",
+                "ro": "Folosiți parcarea din apropiere; interiorul somptuos este o oază caldă de liniște în timp ce afară ploaia cade peste oraș.",
+                "en": "Use the parking nearby; the magnificent interior is a warm oasis of calm while the rain falls over the town's busy streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona",
+                "hu": "Kolona",
+                "ro": "Kolona",
+                "en": "Kolona"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Eingangsbereich; die antiken Ruinen wirken im Regen besonders mystisch, aber Vorsicht beim Aussteigen auf dem aufgeweichten Boden.",
+                "hu": "Hajtson egészen a bejáratig; az ókori romok esőben különösen misztikusnak tűnnek, de vigyázzon kiszálláskor a felázott talajon.",
+                "ro": "Conduceți până la intrare; ruinele antice par deosebit de mistice în ploaie, dar aveți grijă la coborâre pe solul înmuiat.",
+                "en": "Drive all the way to the entrance; the ancient ruins seem especially mystical in the rain, but watch your step on the soft ground when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Christos Kapralos Museum",
+                "hu": "Christos Kapralos Museum",
+                "ro": "Christos Kapralos Museum",
+                "en": "Christos Kapralos Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss: Parken Sie bequem auf dem Gelände und genießen Sie die beeindruckenden Skulpturen in der trockenen und weitläufigen Galerie.",
+                "hu": "Az ideális zárás: parkoljon kényelmesen a területen, és élvezze a lenyűgöző szobrokat a száraz és tágas galériában.",
+                "ro": "Finalul ideal: parcați confortabil în incintă și bucurați-vă de sculpturile impresionante în galeria uscată și spațioasă.",
+                "en": "The ideal ending: park conveniently on-site and enjoy the impressive sculptures in the dry and spacious gallery environment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt auf Ägina ist entspannt und stressfrei. Besuchen Sie am Vormittag die historischen Monumente. Mittags genießen Sie die Fahrt entlang der malerischen Küstenstraße. Da es bereits gegen 17:00 Uhr dunkel wird, planen Sie Ihre Highlights für den frühen Nachmittag. Der Abend endet in der lebendigen Hafenstadt bei einem Glas Wein in gemütlicher Wärme.",
+            "hu": "A téli autózás Éginán nyugodt és stresszmentes. Délelőtt látogassa meg a történelmi emlékműveket. Délben élvezze az autózást a festői tengerparti úton. Mivel 17:00 körül már sötétedik, tervezze a főbb látnivalókat kora délutánra. Az este a nyüzsgő kikötővárosban ér véget egy pohár bor mellett, kellemes melegben.",
+            "ro": "O plimbare cu mașina iarna în Aegina este relaxată și fără stres. Dimineața, vizitați monumentele istorice. La prânz, bucurați-vă de drumul pe șoseaua de coastă pitorească. Deoarece se întunecă deja în jurul orei 17:00, planificați atracțiile principale pentru după-amiaza devreme.",
+            "en": "A winter car tour on Aegina is relaxed and stress-free. Visit the historic monuments in the morning. At noon, enjoy the drive along the scenic coastal road. Since it gets dark around 17:00, plan your main highlights for the early afternoon. The evening ends in the lively harbor town with a glass of wine in cozy warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapodistriako Orphanotropheio",
+                "hu": "Kapodistriako Orphanotropheio",
+                "ro": "Kapodistriako Orphanotropheio",
+                "en": "Kapodistriako Orphanotropheio"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch am Morgen ist ideal; die klare Wintersonne lässt das Gebäude in hellem Licht erstrahlen, perfekt für stimmungsvolle Fotos.",
+                "hu": "A reggeli látogatás ideális; a tiszta téli napfény ragyogóvá teszi az épületet, ami tökéletes a hangulatos fotók készítéséhez.",
+                "ro": "Vizita de dimineață este ideală; soarele clar de iarnă face clădirea să strălucească în lumină puternică, perfect pentru fotografii de atmosferă.",
+                "en": "A morning visit is ideal; the clear winter sun makes the building shine in bright light, perfect for capturing atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Melokudono",
+                "hu": "Melokudono",
+                "ro": "Melokudono",
+                "en": "Melokudono"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich hier traditionelle Pistazienprodukte für Ihre Weiterfahrt; der Laden ist ein warmer und einladender Stopp an kühlen Tagen.",
+                "hu": "Vásároljon itt hagyományos pisztáciás termékeket az útra; az üzlet meleg és hívogató állomás a hűvös téli napokon.",
+                "ro": "Cumpărați de aici produse tradiționale cu fistic pentru drum; magazinul este o oprire caldă și primitoare în zilele răcoroase.",
+                "en": "Pick up some traditional pistachio products here for your drive; the shop is a warm and inviting stop on chilly winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Metropolitan Cathedral of Aegina",
+                "hu": "Metropolitan Cathedral of Aegina",
+                "ro": "Metropolitan Cathedral of Aegina",
+                "en": "Metropolitan Cathedral of Aegina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und wärmen Sie sich in der prachtvollen Kirche auf, während Sie die religiöse Kunst in Stille genießen.",
+                "hu": "Parkoljon kényelmesen a közelben, és melegedjen fel a pompás templomban, miközben csendben élvezi a vallásos művészeti alkotásokat.",
+                "ro": "Parcați confortabil în apropiere și încălziți-vă în biserica somptuoasă în timp ce vă bucurați de arta religioasă în liniște.",
+                "en": "Park conveniently nearby and warm up in the magnificent church while enjoying the religious art in a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolona",
+                "hu": "Kolona",
+                "ro": "Kolona",
+                "en": "Kolona"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Hügel; im Winter ist die Luft so klar, dass Sie fast bis nach Athen sehen können – aber ziehen Sie sich warm an.",
+                "hu": "Élvezze a kilátást a dombról; télen olyan tiszta a levegő, hogy szinte Athénig ellátni – de öltözzön fel melegen a szél ellen.",
+                "ro": "Bucurați-vă de priveliștea de pe deal; iarna aerul este atât de clar încât puteți vedea aproape până la Atena – dar îmbrăcați-vă bine.",
+                "en": "Enjoy the view from the hill; in winter, the air is so clear you can almost see all the way to Athens – but dress warmly against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Christos Kapralos Museum",
+                "hu": "Christos Kapralos Museum",
+                "ro": "Christos Kapralos Museum",
+                "en": "Christos Kapralos Museum"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um das letzte Tageslicht in der Galerie zu nutzen; das Auto bringt Sie danach schnell zurück in die warme Stadt.",
+                "hu": "Érkezzen 17:00 előtt, hogy kihasználja az utolsó nappali fényeket a galériában; az autó ezután gyorsan visszarepíti a meleg városba.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a profita de ultima lumină a zilei în galerie; mașina vă va duce rapid înapoi în orașul cald după aceea.",
+                "en": "Arrive before 17:00 to catch the last daylight in the gallery; your car will take you back quickly to the warmth of the town afterwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel egy csendes sétával indul Sopela hangulatos központjában, megcsodálva a helyi építészetet. Délben a fenséges tengerpart felé vesszük az irányt, élvezve a sós levegőt és a sziklás panorámát. A délután a strandokról szól, fürdőzve a napfényben Atxabiribil partjainál. Az este egy pihentető naplemente-nézéssel zárul Arrietara hullámai felett.",
         "ro": "Dimineața începe cu o plimbare liniștită prin centrul pitoresc al orașului Sopela, admirând arhitectura locală. La amiază ne îndreptăm spre coasta maiestuoasă, bucurându-ne de aerul sărat și de priveliștile stâncilor. După-amiaza este dedicată plajelor, absorbind soarele la Atxabiribil. Seara se încheie cu un apus de soare relaxant peste valurile învolburate de la Arrietara.",
         "en": "Morning begins with a quiet stroll through Sopela’s charming center, admiring local architecture and a quirky rock monument. Midday shifts towards the majestic coastline, embracing the salty air and scenic cliff views. Afternoon is all about the beaches, soaking in the sun at Atxabiribil. Evening concludes with a relaxing sunset watch over the crashing waves at Arrietara."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche San Pedro einen trockenen Zufluchtsort vor dem baskischen Nieselregen. Mittags spazieren wir unter dem Schutz von Regenschirmen zur Statue von Angus Young. Am Nachmittag erleben wir die raue Schönheit der stürmischen Küste bei Atxabiribil, wo die Wellen eindrucksvoll gegen die Klippen schlagen. Abends wärmen wir uns in den Cafés im Ortskern auf, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Reggel a San Pedro templom nyújt menedéket a baszk szemerkélés elől. Délben esernyők alatt sétálunk Angus Young szobrához, élvezve a városi hangulatot. Délután az Atxabiribil tengerpartnál a viharos hullámok látványában gyönyörködünk, ahol az eső még drámaibbá teszi a tájat. Este a falu központjának barátságos kávézóiban pihenünk meg, hallgatva az eső kopogását az ablakon.",
+            "ro": "Dimineața, biserica San Pedro oferă un refugiu uscat împotriva burniței basce. La prânz, ne plimbăm sub protecția umbrelelor către statuia lui Angus Young. După-amiaza, admirăm frumusețea sălbatică a coastei la Atxabiribil, unde valurile se sparg spectaculos de stânci sub ploaie. Seara, ne încălzim în cafenelele din centrul satului, în timp ce ploaia bate ritmic în ferestre.",
+            "en": "In the morning, San Pedro Church provides a dry sanctuary from the Basque drizzle. At noon, we walk under umbrellas to the Angus Young statue, enjoying the moody atmosphere. In the afternoon, we witness the raw beauty of the stormy coast at Atxabiribil, where waves crash dramatically against the cliffs. In the evening, we warm up in the town center's cozy cafes as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Pedro",
+                "hu": "San Pedro",
+                "ro": "San Pedro",
+                "en": "San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum der Kirche als trockenen Rückzugsort, um die religiöse Kunst zu bewundern; feste Schuhe sind für den nassen Vorplatz heute sehr ratsam.",
+                "hu": "Használja ki a templom belső terét száraz menedékként a vallási művészet megcsodálásához; a vizes előtér miatt ma mindenképpen csúszásmentes talpú cipőt viseljen.",
+                "ro": "Folosiți interiorul bisericii ca refugiu uscat pentru a admira arta religioasă; pantofii cu talpă aderentă sunt recomandați astăzi pentru curtea exterioară udă.",
+                "en": "Use the church interior as a dry retreat to admire the religious art; sturdy shoes are highly recommended today for the wet outdoor pavement in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Angus Young AC/DC",
+                "hu": "Estatua Angus Young AC/DC",
+                "ro": "Estatua Angus Young AC/DC",
+                "en": "Estatua Angus Young AC/DC"
+              },
+              "tip_5lang": {
+                "de": "Ein schnelles Foto mit der Rocklegende ist auch im Regen ein Muss; achten Sie auf die Pfützen rund um den Sockel und halten Sie den Schirm gut fest.",
+                "hu": "Egy gyors fotó a rocklegendával esőben is kötelező program; ügyeljen a talapzat körüli tócsákra, és tartsa erősen az esernyőjét az erősödő szélben.",
+                "ro": "O fotografie rapidă cu legenda rock este obligatorie chiar și pe ploaie; atenție la bălțile din jurul soclului și țineți bine umbrela dacă vântul se întețește.",
+                "en": "A quick photo with the rock legend is a must even in the rain; watch out for puddles around the base and hold your umbrella firmly against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "El Sitio",
+                "hu": "El Sitio",
+                "ro": "El Sitio",
+                "en": "El Sitio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das graue Meer von den überdachten Bereichen der nahen Lokale; eine windfeste Regenjacke ist hier an der Küste unerlässlich.",
+                "hu": "Élvezze a drámai kilátást a szürke tengerre a közeli helyek fedett teraszairól; egy szélálló esőkabát itt a parton elengedhetetlen a vízszintes eső ellen.",
+                "ro": "Bucurați-vă de vederea dramatică a mării cenușii din zonele acoperite ale localurilor din apropiere; o jachetă de ploaie rezistentă la vânt este esențială aici.",
+                "en": "Enjoy the dramatic view of the grey sea from the sheltered areas of nearby establishments; a windproof raincoat is essential here on the exposed coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Atxabiribil",
+                "hu": "Atxabiribil",
+                "ro": "Atxabiribil",
+                "en": "Atxabiribil"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Felsen wirken bei Regen besonders imposant, aber die Pfade sind sehr rutschig; bleiben Sie auf den befestigten Wegen und nutzen Sie wasserfeste Schuhe.",
+                "hu": "A sötét sziklák esőben különösen impozánsak, de az ösvények csúszósak; maradjon a kiépített úton, és viseljen vízálló, jól tapadó talpú túracipőt a biztonságért.",
+                "ro": "Stâncile întunecate par deosebit de impunătoare pe ploaie, dar potecile sunt alunecoase; rămâneți pe drumul principal și purtați încălțăminte impermeabilă cu aderență.",
+                "en": "The dark rocks look particularly imposing in the rain, but the paths are very slippery; stay on the paved walkways and wear waterproof shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Arrietara",
+                "hu": "Arrietara",
+                "ro": "Arrietara",
+                "en": "Arrietara"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Surfer, die dem Regen trotzen, von einem geschützten Aussichtspunkt aus; ein großer Schirm bietet hier Schutz vor dem salzigen Gischtregen.",
+                "hu": "Figyelje meg az esővel dacoló szörfösöket egy védett kilátópontról; egy nagyobb esernyő vagy esőponcsó megvédi Önt a sós permettől és a szitálástól.",
+                "ro": "Observați surferii care înfruntă ploaia dintr-un punct de observație protejat; o umbrelă mare vă va feri de burnița sărată și de vântul de pe faleză.",
+                "en": "Watch the surfers braving the rain from a sheltered viewpoint; a large umbrella will protect you from the salty sea spray and the steady coastal drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Kirche San Pedro, wo die klare Luft die Sinne belebt. Mittags wärmt uns die tiefstehende Sonne beim Besuch der AC/DC-Statue. Am Nachmittag wandern wir entlang der Klippen von Atxabiribil und genießen das goldene Licht vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Den Abend lassen wir bei einem heißen Getränk ausklingen, während die Winterkälte draußen zunimmt.",
+            "hu": "Friss téli reggel indul a San Pedro templomnál, ahol a tiszta levegő élénkítően hat. Délben az alacsonyan járó nap sugarai melengetnek minket az Angus Young szobornál. Délután az Atxabiribil sziklái mentén sétálunk, kihasználva az aranyló fényeket a korai, 17:00 körüli naplemente előtt. Az estét egy forró itallal zárjuk, ahogy a téli hideg odakint egyre fokozódik.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserica San Pedro, unde aerul curat revigorează simțurile. La prânz, soarele blând ne încălzește în timpul vizitei la statuia lui Angus Young. După-amiaza, ne plimbăm pe lângă faleza Atxabiribil, admirând lumina aurie înainte de apusul devreme de la ora 17:00. Seara se încheie plăcut cu o băutură fierbinte.",
+            "en": "A crisp winter morning begins at San Pedro Church, where the clear air invigorates the senses. At noon, the low winter sun warms us during our visit to the AC/DC statue. In the afternoon, we hike along the Atxabiribil cliffs, enjoying the golden light before the early sunset around 5:00 PM. The evening ends with a hot drink as the winter chill sets in outdoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Pedro",
+                "hu": "San Pedro",
+                "ro": "San Pedro",
+                "en": "San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Stille der Kirche ist im Winter besonders friedlich; ziehen Sie sich warm an, da die alten Steinmauern die Kälte lange speichern können.",
+                "hu": "A templom hűvös csendje télen különösen békés; öltözzön rétegesen, mivel a vastag kőfalak bent tartják a hideget még napsütéses időben is.",
+                "ro": "Liniștea răcoroasă a bisericii este deosebit de pașnică iarna; îmbrăcați-vă bine, deoarece zidurile vechi de piatră păstrează frigul la interior.",
+                "en": "The cool silence of the church is especially peaceful in winter; dress in warm layers as the thick stone walls can hold the chill even on sunny days."
+              }
+            },
+            {
+              "name": {
+                "de": "Estatua Angus Young AC/DC",
+                "hu": "Estatua Angus Young AC/DC",
+                "ro": "Estatua Angus Young AC/DC",
+                "en": "Estatua Angus Young AC/DC"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für Fotos ohne harte Schatten; ein warmer Schal schützt Sie vor dem oft beißenden Wind in den Straßen Sopelas.",
+                "hu": "A téli fények kiválóak a fotózáshoz, mivel nincsenek erős árnyékok; egy meleg sál megvédi Önt a Sopela utcáin ilyenkor gyakran fújó metsző széltől.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografii fără umbre dure; o eșarfă groasă vă va proteja de vântul tăios care suflă adesea pe străzile din Sopela.",
+                "en": "The winter light is excellent for photos without harsh shadows; a warm scarf will protect you from the biting wind that often blows through Sopela's streets."
+              }
+            },
+            {
+              "name": {
+                "de": "El Sitio",
+                "hu": "El Sitio",
+                "ro": "El Sitio",
+                "en": "El Sitio"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Atlantikküste ist bei klarer Winterluft fantastisch; tragen Sie eine winddichte Mütze, da es hier oben auf den Klippen sehr zugig ist.",
+                "hu": "Az atlanti partvidék látványa fantasztikus a tiszta téli levegőben; viseljen szélálló sapkát, mivel itt a sziklák tetején a szél ereje sokszor megtöbbszöröződik.",
+                "ro": "Vederea asupra coastei atlantice este fantastică în aerul curat de iarnă; purtați o căciulă rezistentă la vânt, deoarece aici pe faleză curentul este puternic.",
+                "en": "The view of the Atlantic coast is fantastic in the clear winter air; wear a windproof hat as it can get very breezy here on top of the coastal cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Atxabiribil",
+                "hu": "Atxabiribil",
+                "ro": "Atxabiribil",
+                "en": "Atxabiribil"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr für einen Strandspaziergang; die Brandung ist im Winter oft kraftvoller und bietet ein tolles Naturschauspiel.",
+                "hu": "Használja ki az utolsó fényeket 17:00 előtt egy tengerparti sétához; a hullámverés télen gyakran erőteljesebb, lenyűgöző természeti látványt nyújtva.",
+                "ro": "Profită de ultima lumină a zilei înainte de ora 17:00 pentru o plimbare pe plajă; valurile sunt adesea mai puternice iarna, oferind un spectacol grozav.",
+                "en": "Make the most of the remaining daylight before 5:00 PM for a beach walk; the surf is often more powerful in winter, creating a stunning natural display."
+              }
+            },
+            {
+              "name": {
+                "de": "Arrietara",
+                "hu": "Arrietara",
+                "ro": "Arrietara",
+                "en": "Arrietara"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem Meer ist im Winter besonders farbenfroh; bringen Sie Thermoskleidung mit, da die Temperatur sofort sinkt, sobald die Sonne weg ist.",
+                "hu": "A tenger feletti naplemente télen különösen színpompás; viseljen hőtartó ruházatot, mert a hőmérséklet azonnal zuhanni kezd, amint a nap eltűnik a horizonton.",
+                "ro": "Apusul peste mare este deosebit de colorat iarna; aduceți haine termice, deoarece temperatura scade brusc imediat ce soarele dispare de pe cer.",
+                "en": "The sunset over the ocean is particularly colorful in winter; wear thermal clothing as the temperature drops instantly once the sun disappears below the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel a Történelmi Múzeumban és az ősi sírhalmoknál fedi fel a múltat a zöldellő külvárosban. Délben visszatérünk a nyüzsgő városközpontba a San Pedro templomhoz. A délután a partvidék felfedezésébe csap át, rejtett háborús bunkereket kutatva a sziklák mentén. Az este a Barinatxe és Arrietara strandokon ér véget egy frissítő óceáni szellő kíséretében.",
         "ro": "Dimineața descoperă istoria profundă la Muzeul Memorial și tumulii antici de la periferia verde. La amiază vă întoarceți în centrul vibrant al orașului pentru a vedea biserica istorică San Pedro. După-amiaza face tranziția către explorarea coastei, descoperind buncăre ascunse pe stânci. Seara se estompează la Barinatxe și Arrietara cu o briză răcoroasă a oceanului.",
         "en": "The morning uncovers deep history at the Memorial Museum and ancient burial mounds in the lush outskirts. Midday brings you back to the vibrant town center to see the historic San Pedro church. Afternoon transitions into coastal exploration, discovering hidden wartime bunkers along the cliffs. Evening fades away at Barinatxe and Arrietara with a refreshing ocean breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das Museo Memorial, ein perfekter Startpunkt im Trockenen. Mittags radeln wir vorsichtig auf nassen Wegen zum Túmulo Saierri. Am Nachmittag führt uns die Tour trotz Regens zu den Küstenbunkern und dem Barinatxe-Strand, wo der Wind den Regen peitscht. Den Tag beenden wir zügig bei Arrietara, bevor wir uns in eine warme Unterkunft zurückziehen.",
+            "hu": "Reggel a Museo Memorial látogatásával kezdünk, ami tökéletes fedett program az esőben. Délben óvatosan tekerünk a vizes utakon a Túmulo Saierri felé. Délután a túra a tengerparti bunkerekhez és a Barinatxe strandhoz vezet, ahol a szél és az eső ereje próbára tesz minket. A napot Arrietaránál zárjuk, majd gyorsan száraz helyre vonulunk.",
+            "ro": "Dimineața explorăm Museo Memorial, un punct de plecare perfect la adăpost de ploaie. La prânz, pedalăm cu atenție pe drumurile ude spre Túmulo Saierri. După-amiaza, turul ne duce la buncărele de pe coastă și la plaja Barinatxe, unde vântul biciuiește ploaia. Încheiem ziua rapid la Arrietara înainte de a ne retrage la căldură.",
+            "en": "In the morning, we explore the Museo Memorial, a perfect indoor start to a rainy day. At noon, we cycle carefully on wet paths towards Túmulo Saierri. In the afternoon, the tour takes us to the coastal bunkers and Barinatxe beach, where the wind whips the rain. We finish the day quickly at Arrietara before retreating to a warm, dry place."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Memorial del Cinturòn de Hierro",
+                "hu": "Museo Memorial del Cinturòn de Hierro",
+                "ro": "Museo Memorial del Cinturòn de Hierro",
+                "en": "Museo Memorial del Cinturòn de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet den idealen Schutz vor starkem Regen, während man etwas über die lokale Geschichte lernt; parken Sie Ihr Rad an einem geschützten Ort.",
+                "hu": "Ez a múzeum ideális védelmet nyújt a heves esőzés elől, miközben a helyi történelemről tanul; próbálja meg fedett helyen lelakatolni a kerékpárját.",
+                "ro": "Acest muzeu oferă protecție ideală împotriva ploii abundente în timp ce învățați despre istoria locală; parcați bicicleta într-un loc cât mai ferit.",
+                "en": "This museum provides ideal shelter from heavy rain while you learn about local history; try to park your bike in a sheltered spot if possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Túmulo Saierri",
+                "hu": "Túmulo Saierri",
+                "ro": "Túmulo Saierri",
+                "en": "Túmulo Saierri"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Stätten sind im Freien, daher ist eine gute Regenmontur Pflicht; achten Sie beim Absteigen auf rutschiges Gras und nassen Schlamm.",
+                "hu": "A történelmi helyszínek szabadtéren vannak, így a jó esőruha kötelező; leszálláskor ügyeljen a csúszós fűre és a felázott, sáros talajra a domboldalon.",
+                "ro": "Situl istoric este în aer liber, deci echipamentul de ploaie este obligatoriu; atenție la iarba alunecoasă și noroi când coborâți de pe bicicletă.",
+                "en": "The historical sites are outdoors, so good rain gear is mandatory; watch out for slippery grass and wet mud when dismounting your bike near the mound."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pedro",
+                "hu": "San Pedro",
+                "ro": "San Pedro",
+                "en": "San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Trockenpause im Inneren der Kirche; prüfen Sie vor der Weiterfahrt den Bremsweg auf dem nassen Kopfsteinpflaster.",
+                "hu": "Használja ki ezt a megállót egy rövid száradásra a templom belsejében; továbbindulás előtt ellenőrizze a fékutat a vizes macskaköves burkolaton.",
+                "ro": "Folosiți această oprire pentru o scurtă pauză de uscare în interiorul bisericii; verificați distanța de frânare pe pavajul ud înainte de a pleca mai departe.",
+                "en": "Use this stop for a short drying break inside the church; check your braking distance on the wet cobblestones before heading back out on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker",
+                "hu": "Bunker",
+                "ro": "Bunker",
+                "en": "Bunker"
+              },
+              "tip_5lang": {
+                "de": "Die Bunker bieten kurzzeitig Unterstand, falls der Regen zu stark wird; Vorsicht beim Betreten, die Betonböden können bei Nässe extrem glatt sein.",
+                "hu": "A bunkerek rövid ideig menedéket nyújtanak, ha túl erőssé válna az eső; óvatosan lépjen be, mert a betonfelületek nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Buncărele oferă un adăpost temporar dacă ploaia devine prea puternică; atenție la intrare, podelele de beton pot fi extrem de alunecoase când sunt ude.",
+                "en": "The bunkers provide brief shelter if the rain becomes too heavy; be careful when entering, as the concrete floors can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Barinatxe",
+                "hu": "Barinatxe",
+                "ro": "Barinatxe",
+                "en": "Barinatxe"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die tosende Brandung ist lohnenswert, aber der Wind ist stark; halten Sie den Lenker bei Böen fest und meiden Sie sandige, nasse Flächen.",
+                "hu": "A zúgó hullámverés látványa megéri a fáradtságot, de a szél erős; tartsa erősen a kormányt a széllökéseknés, és kerülje a homokos, vizes felületeket.",
+                "ro": "Vederea valurilor învolburate merită efortul, dar vântul este puternic; țineți bine ghidonul la rafale și evitați zonele nisipoase și ude.",
+                "en": "The view of the roaring surf is worthwhile, but the wind is strong; grip your handlebars firmly during gusts and avoid sandy, wet patches on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Arrietara",
+                "hu": "Arrietara",
+                "ro": "Arrietara",
+                "en": "Arrietara"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig und suchen Sie ein warmes Lokal auf; achten Sie beim Abstellen des Rades auf stabilen Halt auf dem durchnässten Boden.",
+                "hu": "Zárja le gyorsan a túrát, és keressen egy meleg helyet; a kerékpár leállításakor ügyeljen arra, hogy a kitámasztó ne süllyedjen bele a felázott talajba.",
+                "ro": "Încheiați turul rapid și căutați un local călduros; când parcați bicicleta, asigurați-vă că are un sprijin stabil pe solul îmbibat cu apă.",
+                "en": "Finish your tour promptly and find a warm local spot; when parking your bike, ensure the kickstand has a stable footing on the waterlogged ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag mit dem Rad beginnt beim Museo Memorial. Mittags führt die Route durch die frische Luft zum Túmulo Saierri, wo die Wintersonne die Hügel beleuchtet. Am Nachmittag genießen wir die weiten Ausblicke bei den Bunkern und am Barinatxe-Strand, wobei wir die Zeit vor 17:00 Uhr im Auge behalten. Die Tour endet bei Arrietara, genau wenn die Kälte nach Sonnenuntergang spürbar wird.",
+            "hu": "Tiszta téli nap indul a Museo Memorialnál kerékpárral. Délben az útvonal a friss levegőn vezet a Túmulo Saierri felé, ahol a téli nap megvilágítja a dombokat. Délután a bunkereknél és a Barinatxe strandnál élvezzük a tágas kilátást, figyelve a 17:00-s naplementére. A túra Arrietaránál ér véget, épp amikor a hideg beáll.",
+            "ro": "O zi senină de iarnă cu bicicleta începe la Museo Memorial. La prânz, ruta trece prin aerul curat spre Túmulo Saierri. După-amiaza, ne bucurăm de vederile largi de la buncăre și plaja Barinatxe, având în vedere ora apusului, 17:00. Turul se încheie la Arrietara, exact când frigul devine pătrunzător după apus.",
+            "en": "A clear winter day on bike starts at the Museo Memorial. At noon, the route leads through crisp air to Túmulo Saierri, where the winter sun lights up the hills. In the afternoon, we enjoy expansive views at the bunkers and Barinatxe beach, keeping an eye on the 5:00 PM sunset. The tour ends at Arrietara, just as the chill sets in after dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Memorial del Cinturòn de Hierro",
+                "hu": "Museo Memorial del Cinturòn de Hierro",
+                "ro": "Museo Memorial del Cinturòn de Hierro",
+                "en": "Museo Memorial del Cinturòn de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um sich vor der Abfahrt aufzuwärmen; tragen Sie beim Radfahren im Winter unbedingt winddichte Handschuhe für warme Finger beim Bremsen.",
+                "hu": "Kezdje itt a napot, hogy jól bemelegedjen az indulás előtt; téli tekeréshez mindenképpen viseljen szélálló kesztyűt, hogy ujjai ne gémberedjenek el fékezéskor.",
+                "ro": "Începeți aici pentru a vă încălzi înainte de plecare; purtați neapărat mănuși rezistente la vânt pentru a avea degetele calde când folosiți frânele.",
+                "en": "Start here to warm up before setting off; be sure to wear windproof gloves while cycling in winter to keep your fingers warm for safe braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Túmulo Saierri",
+                "hu": "Túmulo Saierri",
+                "ro": "Túmulo Saierri",
+                "en": "Túmulo Saierri"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei klarer Winterluft hervorragend; achten Sie auf den kalten Gegenwind auf den offenen Hügeln und schützen Sie Ihr Gesicht mit einer Creme.",
+                "hu": "A kilátás kiváló a tiszta téli levegőben; ügyeljen a hideg szembe szélre a nyitott dombtetőkön, és védje arcát zsíros krémmel a kiszáradás ellen.",
+                "ro": "Priveliștea este excelentă în aerul curat de iarnă; atenție la vântul rece de față pe dealurile deschise și protejați-vă fața cu o cremă hidratantă.",
+                "en": "The view is excellent in the clear winter air; watch out for cold headwinds on the open hills and protect your face with cream against the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pedro",
+                "hu": "San Pedro",
+                "ro": "San Pedro",
+                "en": "San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren; da es im Winter früh dunkel wird, prüfen Sie unbedingt die Funktion Ihrer Fahrradbeleuchtung für die Weiterfahrt.",
+                "hu": "Rövid megálló a benti felmelegedéshez; mivel télen korán sötétedik, mindenképpen ellenőrizze a kerékpáros világítás működését a továbbindulás előtt.",
+                "ro": "O scurtă oprire pentru a vă încălzi la interior; deoarece iarna se întunecă devreme, verificați funcționarea luminilor bicicletei înainte de a pleca.",
+                "en": "A brief stop to warm up inside; since it gets dark early in winter, make sure to check that your bike lights are functioning properly before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker",
+                "hu": "Bunker",
+                "ro": "Bunker",
+                "en": "Bunker"
+              },
+              "tip_5lang": {
+                "de": "Das kalte Licht verleiht den Betonbauten eine besondere Atmosphäre; seien Sie vorsichtig, da sich in den schattigen Bereichen Reif oder Eis bilden kann.",
+                "hu": "A hideg fény különleges atmoszférát kölcsönöz a betonépítményeknek; legyen óvatos, mert az árnyékos részeken dér vagy jégfoltok képződhetnek az utakon.",
+                "ro": "Lumina rece oferă clădirilor de beton o atmosferă deosebită; fiți atenți, deoarece în zonele umbrite se poate forma brumă sau gheață pe asfalt.",
+                "en": "The cold light gives the concrete structures a unique atmosphere; be careful as frost or ice patches can form in shaded areas on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Barinatxe",
+                "hu": "Barinatxe",
+                "ro": "Barinatxe",
+                "en": "Barinatxe"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast leer und sehr idyllisch; bewegen Sie sich regelmäßig, um nicht auszukühlen, und genießen Sie die klare Sicht bis zum Horizont.",
+                "hu": "A strand télen szinte üres és nagyon idilli; mozogjon folyamatosan, hogy ne hűljön ki a teste, és élvezze a tiszta kilátást egészen a horizontig.",
+                "ro": "Plaja este aproape goală iarna și foarte idilică; mișcați-vă constant pentru a nu vă răci și bucurați-vă de vizibilitatea clară până la orizont.",
+                "en": "The beach is almost empty in winter and very idyllic; keep moving to maintain body heat and enjoy the clear visibility all the way to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Arrietara",
+                "hu": "Arrietara",
+                "ro": "Arrietara",
+                "en": "Arrietara"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor dem frühen Sonnenuntergang gegen 17:00 Uhr; die Kälte zieht nach dem Verschwinden der Sonne sehr schnell durch die Kleidung.",
+                "hu": "Tervezze meg érkezését a korai, 17:00 körüli naplemente előtt; a nap eltűnése után a hideg pillanatok alatt átjárja a ruházatot a nyílt parton.",
+                "ro": "Planificați sosirea înainte de apusul devreme de la ora 17:00; frigul pătrunde foarte repede prin haine după ce soarele dispare de pe cerul coastei.",
+                "en": "Plan to arrive before the early sunset around 5:00 PM; the cold penetrates clothing very quickly once the sun disappears on the open coast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Egy festői reggeli autózás elvisz a békés Andra Maria templomhoz és a lenyűgöző régészeti ásatásokhoz. A dél egy frissítő tengerparti megállót kínál, mielőtt visszatérnénk a történelmi városközpontba. A délután történelem előtti rejtélyekbe nyúlik az ősi dolmeneknél. Az este a Polgárháborús Emlékmúzeum elgondolkodtató látogatásával zárul a nap végén.",
         "ro": "O plimbare pitorească de dimineață vă duce la liniștita biserică Andra Maria și la săpăturile arheologice fascinante. Amiaza oferă o oprire revigorantă pe coastă înainte de a reveni în centrul istoric. După-amiaza pătrunde în misterele preistorice la dolmenele antice înconjurate de pădure. Seara se încheie cu o vizită reflexivă la Muzeul Memorial al Războiului Civil.",
         "en": "A scenic morning drive takes you to the serene Andra Maria church and the fascinating archaeological digs of Aranbaltza. Midday offers a refreshing coastal stop before returning to the historic town center. Afternoon delves into prehistoric mysteries at the ancient dolmens surrounded by deep forest. Evening wraps up with a reflective visit to the Civil War Memorial Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag bietet das Auto den besten Komfort für Sopelas Umgebung. Wir starten bei Andra Maria und fahren sicher im Trockenen zum historischen Aranbaltza. Mittags beobachten wir den Regen über dem Meer bei Atxabiribil vom Auto aus. Nachmittags besuchen wir San Pedro und die Dolmen, wobei das Auto uns zwischen den Stopps warm hält. Der Tag endet gemütlich im Museo Memorial.",
+            "hu": "Esős napon az autó nyújtja a legnagyobb kényelmet Sopela környékén. Az Andra Maria templomnál kezdünk, majd szárazon utazunk a történelmi Aranbaltza felé. Délben az autóból figyeljük az esőt a tenger felett Atxabiribilnél. Délután meglátogatjuk San Pedrót és a dolmeneket, az autó pedig melegen tart az állomások között. A nap a Museo Memorialban zárul.",
+            "ro": "Într-o zi ploioasă, mașina oferă cel mai bun confort pentru împrejurimile orașului Sopela. Începem la Andra Maria și călătorim la adăpost spre zona istorică Aranbaltza. La prânz, privim ploaia peste mare la Atxabiribil din confortul mașinii. După-amiaza vizităm San Pedro și dolmenii, mașina menținându-ne uscați între opriri. Ziua se încheie la Museo Memorial.",
+            "en": "On a rainy day, the car provides the best comfort for exploring Sopela's surroundings. We start at Andra Maria and travel in the dry to historical Aranbaltza. At noon, we watch the rain over the sea at Atxabiribil from the car. In the afternoon, we visit San Pedro and the dolmens, with the car keeping us warm between stops. The day ends comfortably at the Museo Memorial."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Andra Maria",
+                "hu": "Andra Maria",
+                "ro": "Andra Maria",
+                "en": "Andra Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um den Weg im Regen kurz zu halten; im Inneren finden Sie eine ruhige Atmosphäre und Schutz vor dem Wetter.",
+                "hu": "Használja a közeli parkolót, hogy az esőben megtett séta a lehető legrövidebb legyen; bent nyugodt légkör és védelem várja az időjárás viszontagságaitól.",
+                "ro": "Folosiți parcarea din apropiere pentru a scurta drumul prin ploaie; în interior veți găsi o atmosferă liniștită și protecție împotriva vremii rele.",
+                "en": "Use the nearby parking to keep your walk in the rain as short as possible; inside, you will find a peaceful atmosphere and protection from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Aranbaltza III",
+                "hu": "Aranbaltza III",
+                "ro": "Aranbaltza III",
+                "en": "Aranbaltza III"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei Regen schlammig sein; parken Sie auf befestigtem Untergrund und achten Sie beim Aussteigen auf tiefe Pfützen am Wegrand.",
+                "hu": "A bekötőutak esőben sárosak lehetnek; parkoljon szilárd burkolaton, és kiszálláskor ügyeljen az út menti mély tócsákra és a csúszós útpadkára.",
+                "ro": "Drumurile de acces pot fi noroioase pe ploaie; parcați pe o suprafață solidă și aveți grijă la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "Access roads can be muddy in the rain; park on solid ground and watch out for deep puddles and slippery road edges when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Atxabiribil",
+                "hu": "Atxabiribil",
+                "ro": "Atxabiribil",
+                "en": "Atxabiribil"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See direkt vom Parkplatz aus; beschlagene Scheiben lassen sich mit der Klimaanlage schnell für eine klare Sicht beheben.",
+                "hu": "Élvezze a zord tenger látványát közvetlenül a parkolóból; a bepárásodott szélvédőt a klímaberendezéssel gyorsan páramentesítheti a tiszta kilátásért.",
+                "ro": "Bucurați-vă de vederea mării agitate direct din parcare; parbrizele aburite pot fi curățate rapid cu aerul condiționat pentru o vizibilitate clară.",
+                "en": "Enjoy the view of the rough sea directly from the parking lot; fogged-up windows can be quickly cleared with the AC for a better view of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pedro",
+                "hu": "San Pedro",
+                "ro": "San Pedro",
+                "en": "San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Im Stadtzentrum ist das Parken bei Regen oft schwierig; nutzen Sie die Parkhäuser, um trockenen Fußes zur Kirche und den nahen Geschäften zu gelangen.",
+                "hu": "A városközpontban esőben nehéz lehet a parkolás; használja a parkolóházakat, hogy száraz lábbal érje el a templomot és a közeli üzleteket.",
+                "ro": "Parcarea în centrul orașului poate fi dificilă pe ploaie; folosiți parcările etajate pentru a ajunge cu picioarele uscate la biserică și la magazine.",
+                "en": "Parking in the town center can be difficult in the rain; use parking garages to reach the church and nearby shops without getting your feet wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen Saierrikolanda I",
+                "hu": "Dolmen Saierrikolanda I",
+                "ro": "Dolmen Saierrikolanda I",
+                "en": "Dolmen Saierrikolanda I"
+              },
+              "tip_5lang": {
+                "de": "Da die Stätte etwas abgelegen ist, prüfen Sie die Befahrbarkeit der Feldwege; bei starkem Regen ist ein kurzer Blick aus dem Auto oft die sicherere Wahl.",
+                "hu": "Mivel a helyszín félreeső, ellenőrizze a dűlőutak járhatóságát; heves esőzéskor gyakran biztonságosabb választás egy rövid pillantás az autóból.",
+                "ro": "Deoarece situl este retras, verificați starea drumurilor de pământ; în caz de ploaie torențială, o scurtă privire din mașină este adesea alegerea sigură.",
+                "en": "As the site is somewhat remote, check the condition of the dirt tracks; during heavy rain, a quick look from the car is often the safer choice."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Memorial del Cinturòn de Hierro",
+                "hu": "Museo Memorial del Cinturòn de Hierro",
+                "ro": "Museo Memorial del Cinturòn de Hierro",
+                "en": "Museo Memorial del Cinturòn de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Trockenen; nutzen Sie die Zeit im Museum, während draußen der Regen fällt, und genießen Sie die Heizung auf der Rückfahrt.",
+                "hu": "Tökéletes befejezés száraz helyen; töltse az időt a múzeumban, amíg odakint esik, és élvezze az autó fűtését a hazafelé vezető úton.",
+                "ro": "Finalul perfect la adăpost; petreceți timpul în muzeu în timp ce afară plouă și bucurați-vă de căldura din mașină pe drumul de întoarcere.",
+                "en": "The perfect end to a rainy day indoors; enjoy your time in the museum while the rain falls outside, then appreciate the car's heater on the drive back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto startet morgens bei Andra Maria. Mittags fahren wir durch die klare, kalte Landschaft nach Aranbaltza. Am Nachmittag genießen wir den Blick auf die Klippen von Atxabiribil, warm eingepackt im Auto. Wir besuchen San Pedro und die Dolmen im schwindenden Tageslicht vor 17:00 Uhr. Der Tag endet im Museo Memorial, wo wir uns vor der Heimfahrt aufwärmen.",
+            "hu": "Téli autós túra indul reggel az Andra Maria templomnál. Délben a tiszta, hideg tájon keresztül autózunk Aranbaltza felé. Délután az autó melegéből csodáljuk az Atxabiribil szikláit. Meglátogatjuk San Pedrót és a dolmeneket a fogyatkozó fényben 17:00 előtt. A nap a Museo Memorialban zárul, ahol jól átmelegszünk a hazatérés előtt.",
+            "ro": "Un tur de iarnă cu mașina începe dimineața la Andra Maria. La prânz, conducem prin peisajul rece și senin spre Aranbaltza. După-amiaza admirăm faleza Atxabiribil din căldura mașinii. Vizităm San Pedro și dolmenii în lumina slabă de dinainte de ora 17:00. Ziua se încheie la Museo Memorial, unde ne încălzim bine.",
+            "en": "A winter car tour starts in the morning at Andra Maria. At noon, we drive through the clear, cold landscape to Aranbaltza. In the afternoon, we enjoy the view of the Atxabiribil cliffs from the warmth of the car. We visit San Pedro and the dolmens in the fading daylight before 5:00 PM. The day ends at the Museo Memorial, where we warm up before the drive home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Andra Maria",
+                "hu": "Andra Maria",
+                "ro": "Andra Maria",
+                "en": "Andra Maria"
+              },
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor der Abfahrt gut auf; in der klaren Wintermorgenluft bietet die Kirche einen stimmungsvollen und stillen Start in den Tag.",
+                "hu": "Melegítse be jól az autót indulás előtt; a tiszta téli reggeli levegőben a templom hangulatos és csendes kezdést biztosít a mai naphoz.",
+                "ro": "Încălziți bine mașina înainte de plecare; în aerul curat al dimineții de iarnă, biserica oferă un început de zi atmosferic și liniștit.",
+                "en": "Warm up the car thoroughly before setting off; in the clear winter morning air, the church offers an atmospheric and quiet start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Aranbaltza III",
+                "hu": "Aranbaltza III",
+                "ro": "Aranbaltza III",
+                "en": "Aranbaltza III"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann beim Fahren blenden; halten Sie eine Sonnenbrille bereit und achten Sie auf mögliche Glätte in schattigen Waldstücken.",
+                "hu": "A téli nap alacsonyan jár és vezetés közben vakíthat; tartsa kéznél napszemüvegét, és ügyeljen az esetleges jegesedésre az árnyékos erdőszéli utakon.",
+                "ro": "Soarele de iarnă este jos pe cer și poate fi orbitor la volan; țineți ochelarii de soare la îndemână și atenție la gheață în zonele umbrite de pădure.",
+                "en": "The winter sun is low and can be blinding while driving; keep your sunglasses handy and watch out for potential icy patches in shaded wooded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Atxabiribil",
+                "hu": "Atxabiribil",
+                "ro": "Atxabiribil",
+                "en": "Atxabiribil"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Gang zum Strand ist erfrischend, aber kehren Sie schnell ins warme Auto zurück; der Wind vom Atlantik ist im Winter besonders schneidend.",
+                "hu": "Egy rövid séta a parton frissítő, de térjen vissza gyorsan a meleg autóba; az Atlanti-óceán felől fújó szél télen különösen metsző és hideg tud lenni.",
+                "ro": "O scurtă plimbare pe plajă este revigorantă, dar reveniți repede în mașina caldă; vântul dinspre Atlantic este deosebit de tăios în timpul iernii.",
+                "en": "A short walk on the beach is refreshing, but return quickly to the warm car; the wind from the Atlantic is particularly piercing and cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pedro",
+                "hu": "San Pedro",
+                "ro": "San Pedro",
+                "en": "San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für einen heißen Kaffee in den umliegenden Bars; achten Sie darauf, dass die Batterie Ihres Wagens bei der Kälte gut funktioniert.",
+                "hu": "Használja ki a megállót egy forró kávéra a környékbeli bárokban; ügyeljen arra, hogy autója akkumulátora jól bírja a téli hideget a sok indítás mellett.",
+                "ro": "Folosiți oprirea pentru o cafea fierbinte în barurile din jur; asigurați-vă că bateria mașinii funcționează bine la temperaturile scăzute de iarnă.",
+                "en": "Use this stop for a hot coffee in the surrounding bars; make sure your car's battery is in good condition for the cold winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen Saierrikolanda I",
+                "hu": "Dolmen Saierrikolanda I",
+                "ro": "Dolmen Saierrikolanda I",
+                "en": "Dolmen Saierrikolanda I"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht am Nachmittag ist perfekt für Fotos der Dolmen; da es um 17:00 Uhr dunkel wird, sollten Sie diesen Stopp rechtzeitig einplanen.",
+                "hu": "A délutáni aranyló fények tökéletesek a dolmenek fotózásához; mivel 17:00-kor sötétedik, ezt a megállót mindenképpen tervezze be időben a naprendbe.",
+                "ro": "Lumina aurie a după-amiezii este perfectă pentru a fotografia dolmenii; deoarece se întunecă la ora 17:00, planificați această oprire din timp.",
+                "en": "The golden afternoon light is perfect for photographing the dolmens; as it gets dark at 5:00 PM, be sure to schedule this stop early enough in the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Memorial del Cinturòn de Hierro",
+                "hu": "Museo Memorial del Cinturòn de Hierro",
+                "ro": "Museo Memorial del Cinturòn de Hierro",
+                "en": "Museo Memorial del Cinturòn de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer, kultureller Abschluss des Tages; prüfen Sie vor der Heimfahrt im Dunkeln, ob alle Lichter und der Frostschutz am Auto einwandfrei sind.",
+                "hu": "Meleg, kulturális befejezése a napnak; a sötétben való hazatérés előtt ellenőrizze a fényszórókat és a fagyálló folyadék szintjét az autóban.",
+                "ro": "Un final de zi călduros și cultural; înainte de a pleca spre casă pe întuneric, verificați farurile și nivelul lichidului antigel al mașinii.",
+                "en": "A warm, cultural end to your day; before driving home in the dark, check that your headlights and antifreeze levels are all in good working order."
+              }
+            }
+          ]
+        }
       }
     }
   }

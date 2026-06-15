@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot egy pihentető fürdőzéssel az Alipa strand kristálytiszta vizeinél.\n\nFolytassa útját egy rövid sétával a festői és nyugodt Ampelaki strand felé.\n\nDélután fedezze fel a Korfu Akvárium tengeri élőlényeit, majd sétáljon végig a nyugati partvonalon.\n\nZárja gyalogtúráját a dombtetőn álló történelmi kolostorban, ahonnan lenyűgöző kilátás nyílik a tengerre.",
         "ro": "Începeți-vă ziua relaxându-vă lângă apele limpezi ale plajei Alipa.\n\nContinuați cu o scurtă plimbare către plaja Ampelaki pentru mai multă liniște pe coastă.\n\nDupă-amiază, explorați viața marină la Acvariul din Corfu înainte de a admira golful vestic.\n\nÎncheiați turul pietonal urcând la mănăstirea istorică, unde veți avea parte de o panoramă superbă la apus.",
         "en": "Begin your day relaxing by the clear waters of Alipa beach.\n\nContinue with a short walk to Ampelaki Beach for more coastal tranquility.\n\nIn the afternoon, explore marine life at the Corfu Aquarium before admiring the bays from Paleokastritsa West.\n\nConclude your walking tour ascending to the historic hilltop monastery, taking in the magnificent sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt bewölkt, doch der Blick aufs Meer ist dramatisch. Mittags bietet das Aquarium Schutz vor den Schauern. Am Nachmittag lädt das Klostermuseum zu einem ruhigen, überdachten Aufenthalt ein. Abends genießt man das tosende Meer bei einem Spaziergang an der Küste, wenn die Wellen gegen die Felsen schlagen.",
+            "hu": "A reggel borús, de a tenger látványa így is lenyűgöző. Délben az akvárium nyújt fedett menedéket a záporok elől. Délután a kolostor múzeuma várja a látogatókat csendes, meghitt hangulattal. Este a parti sziklák között sétálva hallgathatjuk a viharos hullámverést, vízálló cipőben és esernyővel.",
+            "ro": "Dimineața începe cu cer înnorat, dar vederea mării rămâne spectaculoasă. La prânz, acvariul oferă un refugiu uscat împotriva ploii. După-amiaza, muzeul mănăstirii este ideal pentru o vizită la adăpost. Seara, plimbarea pe țărm vă permite să simțiți forța valurilor sub ploaie, ascultând sunetul naturii.",
+            "en": "Morning starts with gray skies, but the sea views remain dramatic. At noon, the aquarium provides a dry refuge from the showers. In the afternoon, the monastery museum offers a peaceful indoor retreat. Evening walks along the shore allow you to experience the powerful waves under the rain, with proper gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alipa Strand",
+                "hu": "Alipa strand",
+                "ro": "Plaja Alipa",
+                "en": "Alipa beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer geschützt unter einem Schirm; die Farben des Wassers sind bei Regen besonders intensiv und tiefblau.",
+                "hu": "Figyelje a viharos tengert egy esernyő alól; a víz színei esőben különösen intenzívek és mélykékek, a kikötő pedig ilyenkor nagyon nyugodt.",
+                "ro": "Admirați marea agitată de sub o umbrelă; culorile apei sunt deosebit de intense și de un albastru închis în timpul ploii.",
+                "en": "Watch the stormy sea from under an umbrella; the water colors are particularly intense and deep blue during the rain, showing a different face of the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Ampelaki Strand",
+                "hu": "Ampelaki strand",
+                "ro": "Plaja Ampelaki",
+                "en": "Ampelaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Felsen beim Zugang zum Strand; die kleinen Höhlen bieten bei einem plötzlichen Schauer einen natürlichen Unterschlupf.",
+                "hu": "Vigyázzon a csúszós sziklákkal a strand megközelítésekor; a kisebb barlangok természetes menedéket nyújtanak egy hirtelen zápor esetén.",
+                "ro": "Atenție la stâncile alunecoase când mergeți spre plajă; micile peșteri oferă un adăpost natural în cazul unei averse bruște.",
+                "en": "Be careful with the slippery rocks when accessing the beach; the small caves provide a natural shelter in case of a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Korfu Aquarium",
+                "hu": "Korfu Akvárium",
+                "ro": "Acvariul din Corfu",
+                "en": "Corfu Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um trocken zu bleiben; erkunden Sie die lokale Meeresfauna in den klimatisierten und überdachten Räumen.",
+                "hu": "Ez a legtökéletesebb hely a szárazon maradáshoz; fedezze fel a helyi tengeri élővilágot a fedett és jól felszerelt belső termekben.",
+                "ro": "Acesta este locul perfect pentru a rămâne uscat; explorați fauna marină locală în încăperile acoperite și bine dotate.",
+                "en": "This is the perfect place to stay dry; explore the local marine life in the covered and well-equipped indoor rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Paleokastritsa West",
+                "hu": "Paleokasztríca Nyugat",
+                "ro": "Paleokastritsa Vest",
+                "en": "Paleokastritsa West"
+              },
+              "tip_5lang": {
+                "de": "Die westlichen Klippen bieten einen dramatischen Blick auf die Brandung; halten Sie Abstand zum Rand, da der Boden aufgeweicht sein kann.",
+                "hu": "A nyugati sziklák drámai kilátást nyújtanak a hullámverésre; tartson távolságot a peremtől, mert a talaj esőben felázhat és csúszóssá válhat.",
+                "ro": "Stâncile vestice oferă o vedere dramatică asupra valurilor; păstrați distanța de margine, deoarece solul poate fi moale și alunecos.",
+                "en": "The western cliffs offer a dramatic view of the surf; keep your distance from the edge as the ground can become soft and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Paleokastritsa",
+                "hu": "Paleokasztríca Kolostor Múzeum",
+                "ro": "Muzeul Mănăstirii Paleokastritsa",
+                "en": "Mouseio Ieras Mones Palaiokastritsas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden und das Museum, um die religiöse Kunst zu bewundern, während der Regen sanft auf die Ziegel klopft.",
+                "hu": "Használja ki a fedett árkádokat és a múzeumot a vallási művészet megcsodálására, miközben az eső lágyan kopog a régi cserepeken.",
+                "ro": "Profitați de arcadele acoperite și de muzeu pentru a admira arta religioasă, în timp ce ploaia bate ușor în țiglele vechi.",
+                "en": "Take advantage of the covered arcades and the museum to admire the religious art while the rain taps gently on the old tiles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen sind kühl und ruhig, ideal um die Buchten ohne Menschenmassen zu erkunden. Mittags bieten Innenräume wie das Aquarium Wärme. Am Nachmittag spürt man in den Klostermauern die tiefe Zeitlosigkeit. Wegen der frühen Dunkelheit gegen 17 Uhr sollte der Abend in gemütlicher Wärme ausklingen.",
+            "hu": "A téli reggel friss és csendes, a turisták tömege nélkül fedezhetjük fel az öblöket. Délben a belső terek, mint az akvárium, adnak meleget. Délután a kolostor falai között érezhetjük az időtlenséget. A korai sötétedés miatt az estét már egy barátságos, fűtött helyen érdemes zárni 17 óra után.",
+            "ro": "Diminețile de iarnă sunt crocante și liniștite, perfecte pentru a explora golful fără mulțime. La prânz, locurile interioare precum acvariul oferă căldură. După-amiaza, mănăstirea emană o liniște atemporală. Având în vedere apusul timpuriu în jur de ora 17:00, încheiați ziua într-un loc încălzit.",
+            "en": "Winter mornings are crisp and quiet, perfect for exploring the bays without crowds. At noon, indoor spots like the aquarium offer warmth. In the afternoon, the monastery walls evoke a sense of timelessness. With the early sunset around 5 PM, plan to finish your outdoor activities by late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alipa Strand",
+                "hu": "Alipa strand",
+                "ro": "Plaja Alipa",
+                "en": "Alipa beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Hafen; die klare Winterluft bietet eine unglaubliche Sichtweite über das glitzernde, kalte Wasser.",
+                "hu": "Élvezze a kikötő magányát; a tiszta téli levegő hihetetlen látótávolságot biztosít a csillogó, hideg tenger felett.",
+                "ro": "Bucurați-vă de singurătatea portului; aerul curat de iarnă oferă o vizibilitate incredibilă peste apa sclipitoare și rece.",
+                "en": "Enjoy the solitude of the harbor; the crisp winter air provides incredible visibility over the sparkling, cold water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ampelaki Strand",
+                "hu": "Ampelaki strand",
+                "ro": "Plaja Ampelaki",
+                "en": "Ampelaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein Picknick mit einer Thermoskanne Tee; der Strand ist im Winter menschenleer und bietet vollkommene Ruhe.",
+                "hu": "Ideális hely egy teás termosszal való pihenéshez; a strand télen teljesen néptelen, így zavartalanul élvezheti a természet csendjét.",
+                "ro": "Un loc ideal pentru un picnic cu un termos de ceai; plaja este pustie iarna, oferindu-vă liniște deplină în mijlocul naturii.",
+                "en": "An ideal spot for a picnic with a thermos of tea; the beach is deserted in winter, offering complete peace and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Korfu Aquarium",
+                "hu": "Korfu Akvárium",
+                "ro": "Acvariul din Corfu",
+                "en": "Corfu Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen, um sich aufzuwärmen; die Reptilien und Fische sind auch im Winter aktiv und bieten eine tolle Abwechslung.",
+                "hu": "Látogasson el a kiállításokra, hogy kicsit átmelegedjen; a hüllők és halak télen is aktívak, és remek beltéri elfoglaltságot kínálnak.",
+                "ro": "Vizitați expozițiile pentru a vă încălzi puțin; reptilele și peștii sunt activi și iarna, oferind o activitate excelentă în interior.",
+                "en": "Visit the exhibits to warm up a bit; the reptiles and fish are active even in winter, providing a great indoor activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Paleokastritsa West",
+                "hu": "Paleokasztríca Nyugat",
+                "ro": "Paleokastritsa Vest",
+                "en": "Paleokastritsa West"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und taucht die Westküste in ein goldenes Licht; tragen Sie eine windfeste Jacke gegen die kühle Brise.",
+                "hu": "A téli nap alacsonyan jár, és arany fénybe vonja a nyugati partot; viseljen szélálló dzsekit a hűvös tengeri szellő ellen.",
+                "ro": "Soarele de iarnă apune devreme, scăldând coasta de vest într-o lumină aurie; purtați o jachetă rezistentă la vânt împotriva brizelor reci.",
+                "en": "The winter sun hangs low, bathing the west coast in golden light; wear a windproof jacket against the cool sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Paleokastritsa",
+                "hu": "Paleokasztríca Kolostor Múzeum",
+                "ro": "Muzeul Mănăstirii Paleokastritsa",
+                "en": "Mouseio Ieras Mones Palaiokastritsas"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Atmosphäre ist im Winter besonders intensiv; besuchen Sie die Kapelle bei Kerzenschein für einen Moment der inneren Einkehr.",
+                "hu": "A spirituális atmoszféra télen a legintenzívebb; látogassa meg a kápolnát gyertyafénynél egy pillanatnyi belső elcsendesedéshez.",
+                "ro": "Atmosfera spirituală este deosebit de intensă iarna; vizitați capela la lumina lumânărilor pentru un moment de liniște interioară.",
+                "en": "The spiritual atmosphere is especially intense in winter; visit the chapel by candlelight for a moment of inner peace."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napot északon, egy lenyűgöző túrával az Enotis Múzeum olajfaligeteiben.\n\nGuruljon le a Bella Vistához és a félreeső Szent Kiriaki kápolnához, hogy megcsodálja a drámai tengerparti panorámát.\n\nHűsöljön a Korfu Akváriumban a délutáni hőségben, és ismerkedjen meg a helyi tengeri élőlényekkel.\n\nZárja a napot pihentető fürdőzéssel Ampelaki és Alipa gyönyörű kavicsos strandjain.",
         "ro": "Începeți în nord cu un tur fascinant prin plantațiile de măslini ale Muzeului Enotis.\n\nCoborâți cu bicicleta spre Bella Vista și Capela retrasă Sfânta Kyriaki pentru a vă bucura de panorame de coastă dramatice.\n\nRăcoriți-vă cu o vizită la Acvariul din Corfu în timpul orelor fierbinți ale după-amiezii.\n\nÎncheiați ziua relaxându-vă pe plajele superbe cu pietriș din Ampelaki și Alipa.",
         "en": "Start in the north with a fascinating tour through the olive groves of the Enotis Museum.\n\nRide down to Bella Vista and the secluded Chapel of Saint Kyriaki to take in dramatic coastal panoramas.\n\nCool off with a visit to the Corfu Aquarium during the hottest hours of the afternoon.\n\nEnd your day relaxing on the gorgeous pebble shores of Ampelaki and Alipa beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln Sie vorsichtig durch die Olivenhaine, achten Sie auf glatten Asphalt. Mittags bietet Bella Vista einen mystischen Blick durch den Nebel. Nachmittags sind das Aquarium und das Museum ideale Haltepunkte im Trockenen. Abends leuchten die Lichter des Hafens durch den Nieselregen.",
+            "hu": "Reggel az olajfaligetek között biciklizhetünk, ügyelve a vizes aszfaltra és a sárvédőkre. Délben a Bella Vista kilátó párás, misztikus látványt nyújt az esőben. Délután a fedett akvárium és múzeumok kínálnak pihenőt. Este a kikötő fényeit nézhetjük meg a szitáló esőben, vízálló ruházatban.",
+            "ro": "Dimineața pedalați cu atenție prin livezile de măslini, având grijă la asfaltul ud. La prânz, Bella Vista oferă o vedere mistică prin ceață. După-amiaza, acvariul și muzeele sunt puncte de oprire ideale la adăpost. Seara, luminile portului strălucesc prin ploaia măruntă.",
+            "en": "In the morning, cycle carefully through the olive groves, watching out for wet asphalt. At noon, Bella Vista offers a mystical view through the mist. In the afternoon, the aquarium and museums are ideal stops to stay dry. In the evening, the harbor lights shine through the drizzling rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enotis Olivenöl-Museum",
+                "hu": "Enotis Olívaolaj Múzeum",
+                "ro": "Muzeul Enotis",
+                "en": "Enotis - Olive Groves & Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und genießen Sie die interaktive Ausstellung im Trockenen; perfekt, um einen Regenschauer abzuwarten.",
+                "hu": "Parkoljon le fedett helyen, és élvezze az interaktív kiállítást a szárazban; tökéletes helyszín egy nagyobb zápor átvészelésére.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de expoziția interactivă la uscat; este locul perfect pentru a aștepta trecerea ploii.",
+                "en": "Park your bike under cover and enjoy the interactive exhibit in the dry; it is a perfect place to wait out a rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Bella Vista",
+                "hu": "Bella Vista",
+                "ro": "Bella Vista",
+                "en": "Bella Vista"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe rutschig sein; oben angekommen, belohnt Sie ein dramatischer Blick auf die wolkenverhangenen Buchten.",
+                "hu": "A felfelé vezető út nedvesen csúszós lehet; felérve drámai kilátás tárul elénk a felhőkbe burkolózó, párás öblökre.",
+                "ro": "Drumul în urcare poate fi alunecos pe timp de ploaie; odată ajunși sus, veți fi răsplătiți cu o vedere dramatică asupra golfului înnorat.",
+                "en": "The uphill road can be slippery when wet; once at the top, you will be rewarded with a dramatic view of the mist-covered bays."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Kyriaki",
+                "hu": "Szent Kiriaki kápolna",
+                "ro": "Capela Sfânta Kyriaki",
+                "en": "Chapel of Saint Kyriaki"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet kurzzeitig Schutz; genießen Sie die Stille und den Geruch von nassem Pinienwald in der Umgebung.",
+                "hu": "A kis kápolna rövid ideig menedéket nyújt; élvezze a csendet és a környező fenyőerdő friss, eső utáni illatát.",
+                "ro": "Mica capelă oferă un scurt adăpost; bucurați-vă de liniște și de mirosul proaspăt al pădurii de pini după ploaie.",
+                "en": "The small chapel offers a brief shelter; enjoy the silence and the fresh scent of the surrounding pine forest in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Korfu Aquarium",
+                "hu": "Korfu Akvárium",
+                "ro": "Acvariul din Corfu",
+                "en": "Corfu Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Radfahrer bei Regen; wärmen Sie sich in den Innenräumen auf, während Ihr Rad sicher am Eingang geparkt ist.",
+                "hu": "Bicikliseknek kötelező megálló esőben; melegedjen fel a belső terekben, amíg a bringája biztonságban pihen a bejáratnál.",
+                "ro": "O oprire obligatorie pentru bicicliști pe ploaie; încălziți-vă în interior în timp ce bicicleta stă în siguranță la intrare.",
+                "en": "A must-stop for cyclists in the rain; warm up in the indoor areas while your bike rests safely at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ampelaki Strand",
+                "hu": "Ampelaki strand",
+                "ro": "Plaja Ampelaki",
+                "en": "Ampelaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Der sandige Boden kann weich werden; genießen Sie die Sicht auf das graue Meer, bevor Sie Ihre Tour in wasserfester Kleidung fortsetzen.",
+                "hu": "A homokos talaj felázhat; csodálja meg a szürke tenger látványát, mielőtt vízálló ruházatban folytatná a kerékpáros túrát.",
+                "ro": "Solul nisipos poate deveni moale; admirați vederea mării gri înainte de a continua turul cu bicicleta în haine impermeabile.",
+                "en": "The sandy ground can become soft; admire the view of the gray sea before continuing your cycling tour in waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Alipa Strand",
+                "hu": "Alipa strand",
+                "ro": "Plaja Alipa",
+                "en": "Alipa beach"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour am Hafen ab; die feuchten Steine glänzen im Licht, und die Atmosphäre ist wunderbar melancholisch.",
+                "hu": "Zárja a túrát a kikötőben; a nedves kövek csillognak a fényben, a hangulat pedig csodálatosan melankolikus az esőben.",
+                "ro": "Încheiați turul în port; pietrele umede strălucesc în lumină, iar atmosfera este minunat de melancolică sub ploaie.",
+                "en": "End your tour at the harbor; the wet stones glisten in the light, and the atmosphere is wonderfully melancholic in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft macht das Radfahren auf den leeren Straßen belebend. Mittags bieten die hohen Aussichtspunkte bei klarem Licht weite Panoramablicke. Nachmittags empfiehlt es sich, die wärmeren Innenräume aufzusuchen. Kehren Sie vor dem frühen Sonnenuntergang gegen 17 Uhr zurück und wärmen Sie sich auf.",
+            "hu": "A friss reggeli levegőben élénkítő a tekerés a kihalt utakon. Délben a magaslati kilátópontokról belátni az egész partvidéket a tiszta téli fényben. Délután érdemes meglátogatni a melegebb belső tereket. Este a korai sötétedés előtt érjünk vissza a bázisunkra 17 óra körül, meleg teával zárva a napot.",
+            "ro": "Aerul proaspăt de iarnă face pedalatul pe drumurile pustii foarte revigorant. La prânz, punctele de observație oferă panorame largi în lumina clară. După-amiaza, se recomandă vizitarea spațiilor interioare mai calde. Reveniți înainte de apusul devreme, în jur de ora 17:00, și încălziți-vă.",
+            "en": "The fresh winter air makes cycling on the empty roads invigorating. At noon, the high viewpoints offer wide panoramic views in the clear winter light. In the afternoon, it is recommended to visit warmer indoor spaces. Return before the early sunset around 5 PM and warm up with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enotis Olivenöl-Museum",
+                "hu": "Enotis Olívaolaj Múzeum",
+                "ro": "Muzeul Enotis",
+                "en": "Enotis - Olive Groves & Museum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die Traditionen der Olivenölherstellung im Warmen kennen; probieren Sie das frische Öl, das im Winter am besten schmeckt.",
+                "hu": "Ismerje meg az olívaolaj-készítés hagyományait bent a melegben; kóstolja meg a friss olajat, ami télen a legízletesebb.",
+                "ro": "Aflați despre tradițiile producerii uleiului de măsline la căldură; gustați uleiul proaspăt, care are cel mai bun gust iarna.",
+                "en": "Learn about the traditions of olive oil production indoors; taste the fresh oil, which has the best flavor in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bella Vista",
+                "hu": "Bella Vista",
+                "ro": "Bella Vista",
+                "en": "Bella Vista"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben weht ein kalter Wind; die Fernsicht im Winter reicht oft bis zu den fernen Inseln.",
+                "hu": "A felfelé tekerés melegen tart, de fent hideg szél fúj; a téli látótávolság miatt gyakran a távoli szigetekig is ellátni innen.",
+                "ro": "Urcarea vă va menține cald, dar sus bate un vânt rece; vizibilitatea de iarnă permite adesea să vedeți până la insulele îndepărtate.",
+                "en": "The climb will keep you warm, but a cold wind blows at the top; winter visibility often allows you to see as far as the distant islands."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Kyriaki",
+                "hu": "Szent Kiriaki kápolna",
+                "ro": "Capela Sfânta Kyriaki",
+                "en": "Chapel of Saint Kyriaki"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe an diesem abgeschiedenen Ort; die Kapelle ist im Winter ein friedlicher Rückzugsort ohne jegliche Touristen.",
+                "hu": "Élvezze a nyugalmat ezen az eldugott helyen; a kápolna télen békés menedék, ahol egyáltalán nincsenek turisták.",
+                "ro": "Bucurați-vă de liniște în acest loc izolat; capela este un refugiu pașnic iarna, fără turiști în jur.",
+                "en": "Enjoy the tranquility in this secluded spot; the chapel is a peaceful retreat in winter, with no tourists around."
+              }
+            },
+            {
+              "name": {
+                "de": "Korfu Aquarium",
+                "hu": "Korfu Akvárium",
+                "ro": "Acvariul din Corfu",
+                "en": "Corfu Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine Aufwärmpause; die bunte Unterwelt ist ein toller Kontrast zur grauen Winterlandschaft draußen.",
+                "hu": "Használja ki a megállót egy kis melegedésre; a színes vízi világ remek kontrasztot alkot a kinti szürke téli tájjal.",
+                "ro": "Profitați de oprire pentru a vă încălzi; lumea acvatică colorată oferă un contrast excelent cu peisajul gri de iarnă de afară.",
+                "en": "Take advantage of the stop to warm up; the colorful underwater world is a great contrast to the gray winter landscape outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ampelaki Strand",
+                "hu": "Ampelaki strand",
+                "ro": "Plaja Ampelaki",
+                "en": "Ampelaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom kristallklaren Winterwasser; die Bucht wirkt ohne Boote und Liegestühle viel wilder und natürlicher.",
+                "hu": "Készítsen fotót a kristálytiszta téli vízről; az öböl hajók és napágyak nélkül sokkal vadregényesebb és természetesebb arcát mutatja.",
+                "ro": "Faceți o poză apei cristaline de iarnă; golful pare mult mai sălbatic și natural fără bărci și șezlonguri.",
+                "en": "Take a photo of the crystal-clear winter water; the bay looks much wilder and more natural without boats and sunbeds."
+              }
+            },
+            {
+              "name": {
+                "de": "Alipa Strand",
+                "hu": "Alipa strand",
+                "ro": "Plaja Alipa",
+                "en": "Alipa beach"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter sehr ruhig; ideal, um den Fischern zuzusehen und die klare Seeluft tief einzuatmen.",
+                "hu": "A kikötő télen nagyon csendes; ideális hely a halászok megfigyelésére és a tiszta tengeri levegő mély beszippantására.",
+                "ro": "Portul este foarte liniștit iarna; este locul ideal pentru a observa pescarii și pentru a respira aerul curat de mare.",
+                "en": "The harbor is very quiet in winter; it is an ideal spot to watch the fishermen and take deep breaths of the clean sea air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Meneküljön el a reggeli nyüzsgés elől, és fedezze fel a délkeleti, nyugodt és érintetlen Liniodoros strandot.\n\nVezessen végig a part mentén, érintve Limni egyedi öbleit és Akra Kosteri lenyűgöző tengeri szikláit.\n\nDélután látogasson el a fenséges dombtetői kolostorba, majd gyönyörködjön a Bella Vista híres panorámájában.\n\nZárja utazását egy autentikus élménnyel a helyi olajfaligetek között az Enotis Múzeumban.",
         "ro": "Scăpați de agitația matinală explorând în sud-est plaja liniștită și neatinsă Liniodoros.\n\nConduceți de-a lungul coastei admirând golfurile unice și stâncile dramatice de la Limni și Akra Kosteri.\n\nDupă-amiaza, vizitați mănăstirea maiestuoasă de pe deal și admirați faimoasa panoramă de la Bella Vista.\n\nÎncheiați-vă călătoria cu o experiență autentică printre plantațiile de măslini de la Muzeul Enotis.",
         "en": "Escape the morning crowds by discovering the quiet, pristine Liniodoros beach in the southeast.\n\nDrive along the coast, taking in the unique bays and dramatic sea cliffs at Limni and Akra Kosteri.\n\nIn the afternoon, visit the majestic hilltop monastery and take in the famous panorama from Bella Vista.\n\nConclude your road trip with an authentic local experience among the olive groves at the Enotis Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie bequem entlegenere Buchten, ohne nass zu werden. Mittags bieten die grauen Farben der Liapades-Bucht besondere Fotomotive aus dem Fenster. Nachmittags verbringen Sie Zeit im Kloster und im Olivenmuseum. Abends beobachten Sie vom beheizten Auto aus die Kraft des Meeres.",
+            "hu": "Autóval kényelmesen elérhetjük a távolabbi öblöket is, elkerülve az elázást. Délben a Liapades-öböl szürke színei különleges fotótémát kínálnak az ablakból. Délután a kolostor és az olajmúzeum belső tereiben tölthetjük az időt. Este a fűtött autóban ülve figyelhetjük a tengeri vihar erejét.",
+            "ro": "Cu mașina puteți ajunge confortabil la golful îndepărtat fără să vă udați. La prânz, culorile gri ale golfului Liapades oferă motive foto speciale de la fereastră. După-amiaza, petreceți timp în mănăstire și în muzeul măslinului. Seara, observați forța mării din mașina încălzită.",
+            "en": "By car, you can comfortably reach remote bays without getting wet. At noon, the gray hues of Liapades Bay offer special photo opportunities from the window. In the afternoon, spend time inside the monastery and olive museum. In the evening, watch the power of the sea from the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liniodoros Strand",
+                "hu": "Liniodoros strand",
+                "ro": "Plaja Liniodoros",
+                "en": "Liniodoros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die einsame Bucht vom warmen Wagen aus; die wolkenverhangenen Berge im Hintergrund wirken sehr majestätisch.",
+                "hu": "Élvezze a kilátást az elhagyatott öbölre a meleg autóból; a felhőkbe burkolózó hegyek a háttérben fenséges látványt nyújtanak.",
+                "ro": "Bucurați-vă de vederea golfului pustiu din mașina caldă; munții acoperiți de nori în fundal oferă o priveliște maiestuoasă.",
+                "en": "Enjoy the view of the deserted bay from the warm car; the cloud-covered mountains in the background look truly majestic."
+              }
+            },
+            {
+              "name": {
+                "de": "Limni Strand",
+                "hu": "Limni strand",
+                "ro": "Plaja Limni",
+                "en": "Limni"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strand, um die dramatische Brandung zu beobachten; der Regen verstärkt die raue Schönheit dieser Küste.",
+                "hu": "Parkoljon közel a parthoz, hogy megfigyelhesse a drámai hullámverést; az eső felerősíti a tengerpart nyers és vad szépségét.",
+                "ro": "Parcați aproape de plajă pentru a observa valurile dramatice; ploaia intensifică frumusețea brută și sălbatică a coastei.",
+                "en": "Park close to the beach to observe the dramatic surf; the rain intensifies the raw and wild beauty of this coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Liapades Bucht",
+                "hu": "Liapades-öböl",
+                "ro": "Golful Liapades",
+                "en": "Liapades Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, um die stürmische See zu fotografieren; die Farben des Wassers wechseln bei Regen zu einem tiefen Smaragdgrün.",
+                "hu": "Egy rövid megálló is elég a viharos tenger fotózásához; a víz színei esőben mély smaragdzöldre váltanak az öbölben.",
+                "ro": "O scurtă oprire este suficientă pentru a fotografia marea agitată; culorile apei se schimbă într-un verde smarald profund în timpul ploii.",
+                "en": "A short stop is enough to photograph the stormy sea; the water colors change to a deep emerald green in the bay during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Akra Kosteri",
+                "hu": "Akra Kosteri",
+                "ro": "Akra Kosteri",
+                "en": "Akra Kosteri"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Ausblick im Auto; die Klippen von Kosteri sind bei grauem Himmel ein beeindruckendes und düsteres Motiv.",
+                "hu": "Maradjon a kocsiban a kilátásért; Kosteri sziklái a szürke ég alatt lenyűgöző és komor látványt nyújtanak a tenger felett.",
+                "ro": "Rămâneți în mașină pentru priveliște; stâncile din Kosteri sub cerul gri oferă o vedere impresionantă și sumbră deasupra mării.",
+                "en": "Stay in the car for the view; the cliffs of Kosteri under the gray sky provide an impressive and somber sight over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Paleokastritsa",
+                "hu": "Paleokasztríca Kolostor Múzeum",
+                "ro": "Muzeul Mănăstirii Paleokastritsa",
+                "en": "Mouseio Ieras Mones Palaiokastritsas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum, um dem Regen zu entfliehen; die alten Ikonen und das Gebäude strahlen bei schlechtem Wetter viel Ruhe aus.",
+                "hu": "Látogasson el a múzeumba az eső elől; a régi ikonok és az épület a borús időben különleges nyugalmat árasztanak.",
+                "ro": "Vizitați muzeul pentru a scăpa de ploaie; icoanele vechi și clădirea emană o liniște deosebită în timpul vremii înnorate.",
+                "en": "Visit the museum to escape the rain; the old icons and the building radiate a special sense of peace during gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bella Vista",
+                "hu": "Bella Vista",
+                "ro": "Bella Vista",
+                "en": "Bella Vista"
+              },
+              "tip_5lang": {
+                "de": "Die Serpentinen erfordern bei Nässe Vorsicht; der Panoramablick auf Paleokastritsa im Nebel ist auch vom Parkplatz aus grandios.",
+                "hu": "A szerpentinek nedvesen óvatosságot igényelnek; a párás Paleokastritsa látványa a parkolóból is lenyűgöző az esőfüggönyön át.",
+                "ro": "Serpentinele necesită atenție pe timp de ploaie; vederea panoramică asupra stațiunii Paleokastritsa prin ceață este grandioasă.",
+                "en": "The serpentines require caution when wet; the panoramic view of Paleokastritsa through the mist is magnificent even from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Enotis Olivenöl-Museum",
+                "hu": "Enotis Olívaolaj Múzeum",
+                "ro": "Muzeul Enotis",
+                "en": "Enotis - Olive Groves & Museum"
+              },
+              "tip_5lang": {
+                "de": "Ideal als letzter Halt, um im Trockenen Souvenirs zu kaufen; genießen Sie eine Olivenöl-Verkostung, während es draußen regnet.",
+                "hu": "Ideális utolsó állomás ajándékok vásárlásához a szárazban; élvezze az olívaolaj-kóstolót, amíg odakint esik az eső.",
+                "ro": "Oprire finală ideală pentru cumpărături la adăpost; bucurați-vă de o degustare de ulei de măsline în timp ce afară plouă.",
+                "en": "Ideal final stop for shopping in the dry; enjoy an olive oil tasting while it rains outside, perfect for ending the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterruhe ist ideal für Erkundungen mit dem Auto, Parkplätze sind überall leicht zu finden. Mittags genießen Sie auf den Panoramastraßen die Sonne und den windgeschützten Blick. Nachmittags bieten kulturelle Stopps ein gehaltvolles Programm. Am Abend bewundern Sie das Licht der Dämmerung.",
+            "hu": "A téli nyugalom ideális az autós felfedezéshez, könnyen találunk parkolót mindenhol. Délben a panorámautakon autózva élvezhetjük a napsütést és a szélvédett kilátást. Délután a kulturális megállók nyújtanak tartalmas programot. Este a korai alkonyat fényeiben gyönyörködhetünk a Bella Vista szerpentinjein.",
+            "ro": "Liniștea iernii este ideală pentru explorarea cu mașina, locurile de parcare fiind ușor de găsit peste tot. La prânz, bucurați-vă de soare și de vederea ferită de vânt de pe drumurile panoramice. După-amiaza, opririle culturale oferă un program bogat. Seara, admirați luminile amurgului.",
+            "en": "The winter quiet is ideal for car exploration, with parking easily found everywhere. At noon, enjoy the sun and wind-protected views while driving along scenic roads. In the afternoon, cultural stops provide a rich program. In the evening, admire the twilight lights from the high serpentines."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liniodoros Strand",
+                "hu": "Liniodoros strand",
+                "ro": "Plaja Liniodoros",
+                "en": "Liniodoros"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen abgelegenen Ort ohne Sommerhitze; die unberührte Natur wirkt im klaren Winterlicht besonders eindrucksvoll.",
+                "hu": "Látogassa meg ezt az eldugott helyet a nyári hőség nélkül; az érintetlen természet a tiszta téli fényben különösen hatásos látvány.",
+                "ro": "Vizitați acest loc izolat fără căldura verii; natura virgină pare deosebit de impresionantă în lumina clară a iernii.",
+                "en": "Visit this secluded spot without the summer heat; the untouched nature looks especially striking in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Limni Strand",
+                "hu": "Limni strand",
+                "ro": "Plaja Limni",
+                "en": "Limni"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am leeren Strand ist im Winter sehr erholsam; die Wellen klingen in der Stille der Nebensaison viel lauter.",
+                "hu": "Egy rövid séta az üres tengerparton télen nagyon pihentető; a hullámok zúgása sokkal hangosabbnak tűnik a szezonon kívüli csendben.",
+                "ro": "O scurtă plimbare pe plaja pustie iarna este foarte relaxantă; sunetul valurilor pare mult mai puternic în liniștea extrasezonului.",
+                "en": "A short walk on the empty beach in winter is very relaxing; the sound of the waves seems much louder in the off-season silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Liapades Bucht",
+                "hu": "Liapades-öböl",
+                "ro": "Golful Liapades",
+                "en": "Liapades Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das ruhige Dorf und die Bucht; im Winter ist die Atmosphäre hier sehr authentisch und friedlich.",
+                "hu": "Élvezze a kilátást a nyugodt falura és az öbölre; télen az atmoszféra itt nagyon autentikus és békés, nincsenek tömegek.",
+                "ro": "Bucurați-vă de vederea satului liniștit și a golfului; iarna, atmosfera aici este foarte autentică și pașnică, fără mulțimi.",
+                "en": "Enjoy the view of the quiet village and the bay; in winter, the atmosphere here is very authentic and peaceful without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Akra Kosteri",
+                "hu": "Akra Kosteri",
+                "ro": "Akra Kosteri",
+                "en": "Akra Kosteri"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Klippen ist bei Wintersonne perfekt für Fotos; das Licht ist weicher und betont die Textur der Felsen.",
+                "hu": "A sziklákra nyíló kilátás téli napsütésben tökéletes a fotózáshoz; a lágyabb fények kiemelik a part menti sziklák textúráját.",
+                "ro": "Vederea asupra stâncilor în soarele de iarnă este perfectă pentru fotografii; lumina blândă subliniază textura stâncilor de pe coastă.",
+                "en": "The view of the cliffs in the winter sun is perfect for photography; the softer light highlights the texture of the coastal rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Paleokastritsa",
+                "hu": "Paleokasztríca Kolostor Múzeum",
+                "ro": "Muzeul Mănăstirii Paleokastritsa",
+                "en": "Mouseio Ieras Mones Palaiokastritsas"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster ist im Winter ein Ort der absoluten Ruhe; nutzen Sie die Zeit für eine ausführliche Besichtigung ohne Drängelei.",
+                "hu": "A kolostor télen az abszolút nyugalom helyszíne; használja ki az időt egy részletes megtekintésre a nyári tolongás nélkül.",
+                "ro": "Mănăstirea este un loc de liniște absolută iarna; profitați de timp pentru o vizită detaliată fără aglomerația de vară.",
+                "en": "The monastery is a place of absolute peace in winter; use the time for a detailed visit without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Bella Vista",
+                "hu": "Bella Vista",
+                "ro": "Bella Vista",
+                "en": "Bella Vista"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser als im Sommer; man kann die gesamte Westküste von Korfu in ihrer vollen Pracht sehen.",
+                "hu": "A látótávolság télen gyakran jobb, mint nyáron; Korfu egész nyugati partvidékét láthatjuk a maga teljes pompájában innen.",
+                "ro": "Vizibilitatea iarna este adesea mai bună decât vara; puteți vedea întreaga coastă de vest a insulei Corfu în toată splendoarea sa.",
+                "en": "Visibility in winter is often better than in summer; you can see the entire west coast of Corfu in its full glory from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Enotis Olivenöl-Museum",
+                "hu": "Enotis Olívaolaj Múzeum",
+                "ro": "Muzeul Enotis",
+                "en": "Enotis - Olive Groves & Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Ölverkostung auf; es ist die beste Zeit, um die lokalen Produzenten persönlich kennenzulernen.",
+                "hu": "Melegedjen fel egy olajkóstoló közben; ez a legjobb időszak arra, hogy személyesen is megismerkedjen a helyi termelőkkel.",
+                "ro": "Încălziți-vă în timpul unei degustări de ulei; este cea mai bună perioadă pentru a cunoaște personal producătorii locali.",
+                "en": "Warm up during an oil tasting; it is the best time to personally meet the local producers and learn about their winter work."
+              }
+            }
+          ]
+        }
       }
     }
   }

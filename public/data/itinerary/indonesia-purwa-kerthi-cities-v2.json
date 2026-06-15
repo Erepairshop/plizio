@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Purwa Kerthi gyönyörű partvidékén, készítsen emlékezetes fotókat a tengerparti szelfiponton, majd sétáljon a pihentető tengerparti üdülőhelyek felé, hogy élvezze az óceáni szellőt.\n\nAhogy közeledik a dél, túrázzon fel az Amed kilátóhoz az öböl lenyűgöző panorámájáért, majd ereszkedjen le a Piramisokhoz, hogy felfedezze a part közeli egyedi mesterséges zátonyokat.\n\nTöltse a délutánt a hagyományos tengerparti bungalók körüli pihenéssel, élvezve a nyugodt légkört és figyelve a hullámokon lágyan ringatózó színes, hagyományos halászhajókat.\n\nZárja sétáját a tengerpart szélén, találjon egy csendes helyet a változó égbolt megfigyelésére, és gondoljon vissza a napra, amelyet a békés balinéz partvidéki ritmusokban tölthetett el.",
         "ro": "Începeți dimineața de-a lungul coastei frumoase din Purwa Kerthi, făcând fotografii memorabile la punctul de selfie înainte de a vă plimba spre stațiunile relaxante pentru a vă bucura de briza oceanului.\n\nPe măsură ce se apropie prânzul, urcați la punctul de belvedere Amed pentru o panoramă vastă a golfului, apoi îndreptați-vă spre Piramide pentru a explora recifele artificiale unice de lângă țărm.\n\nPetreceți după-amiaza relaxându-vă în jurul bungalourilor tradiționale de pe plajă, îmbrățișând atmosfera liniștită și privind bărcile de pescuit colorate legănându-se ușor pe valuri.\n\nÎncheiați-vă plimbarea ajungând la marginea coastei, găsind un loc liniștit pentru a observa cerul schimbător și reflectând la o zi petrecută perfect în ritmurile serene ale coastei balineze.",
         "en": "Begin your morning along the beautiful coastline of Purwa Kerthi, snapping memorable photos at the seaside selfie point before strolling toward the relaxing beach resorts to soak in the ocean breeze.\n\nAs midday approaches, hike up to the Amed viewpoint for a sweeping panorama of the bay, then head down towards the Pyramids to explore the unique artificial reefs near the shore.\n\nSpend your afternoon unwinding around traditional beach bungalows, embracing the tranquil atmosphere and watching the colorful traditional fishing boats bobbing gently on the tide.\n\nConclude your walk by reaching the coastal edge, finding a quiet spot to observe the changing sky and reflecting on a day spent perfectly immersed in the serene Balinese coastal rhythms."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens sammeln sich dramatische Wolken über der Küste. Mittags bietet das Resort einen sicheren Unterschlupf vor dem Tropenregen auf der überdachten Terrasse. Nachmittags wirkt der Aussichtspunkt im Nebel besonders mystisch. Abends lauschen Sie von der Veranda der Bungalows dem Rhythmus des Regens und dem Tosen der Wellen, während die kühle Brise den Tag entspannt ausklingen lässt.",
+            "hu": "Reggel drámai felhők gyülekeznek az Amed Selfie Point felett. Délben a resort fedett terasza nyújt menedéket a trópusi zápor elől, ahol kényelemben figyelhetjük a vihart. Délután a ködös kilátó misztikus és különleges látványt nyújt. Este a bungalók verandáján pihenve hallgathatjuk az eső megnyugtató kopogását a tetőn, miközben a tenger morajlása tölti be a párás, hűvös éjszakai levegőt.",
+            "ro": "Dimineața, norii dramatici se adună deasupra punctului de selfie din Amed. La prânz, terasa acoperită a complexului oferă un refugiu sigur împotriva ploii tropicale torențiale. După-amiaza, punctul de belvedere învăluit în ceață capătă o atmosferă mistică. Seara, de pe veranda bungalourilor, puteți asculta ritmul ploii și sunetul valurilor, savurând liniștea momentului în aerul proaspăt.",
+            "en": "In the morning, dramatic clouds gather over the Amed Selfie Point. At noon, the resort's covered terrace provides a safe shelter from the tropical downpour. In the afternoon, the misty viewpoint offers a mystical and unique atmosphere. In the evening, relax on the bungalow porch listening to the soothing rhythm of the rain and the roaring ocean while enjoying the cool, humid night air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "AMED SELFIE POINT",
+                "hu": "AMED SELFIE POINT",
+                "ro": "Punctul de selfie Amed",
+                "en": "AMED SELFIE POINT"
+              },
+              "tip_5lang": {
+                "de": "Dramatische Gewitterwolken bieten einen einzigartigen Hintergrund für Fotos; nutzen Sie eine wasserdichte Hülle, um Ihr Handy vor dem plötzlichen Tropenregen zu schützen.",
+                "hu": "A drámai viharfelhők különleges hátteret adnak a fotóknak; vigyél vízálló tokot a telefonodhoz, hogy megvédd a készüléket a hirtelen lezúduló trópusi esőtől.",
+                "ro": "Norii dramatici de furtună oferă un fundal unic pentru fotografii; folosește o husă impermeabilă pentru telefon ca să-l protejezi de ploaia tropicală neașteptată.",
+                "en": "Dramatic storm clouds provide a unique backdrop for photos; use a waterproof phone case to protect your device from sudden tropical downpours during your shoot."
+              }
+            },
+            {
+              "name": {
+                "de": "Amed Beach Resort",
+                "hu": "Amed Beach Resort",
+                "ro": "Stațiunea Amed Beach",
+                "en": "Amed Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosenden Wellen von der gemütlichen, überdachten Bar aus; ein warmer Ingwertee hilft perfekt gegen die feuchte Kühle des Regentages.",
+                "hu": "Élvezd a tajtékzó hullámok látványát a kényelmes, fedett bárból; egy meleg gyömbértea tökéletes választás az esős nap párás hűvössége ellen a pihenő alatt.",
+                "ro": "Bucură-te de vederea valurilor înspumate de la barul acoperit și confortabil; un ceai cald de ghimbir este perfect împotriva răcorii umede a unei zile ploioase.",
+                "en": "Enjoy the view of the crashing waves from the cozy, covered bar; a warm ginger tea is the perfect choice against the damp chill of a rainy tropical day."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt auf Amed",
+                "hu": "Amed kilátó",
+                "ro": "Punct de belvedere în Amed",
+                "en": "Viewpoint on Amed"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Küste wirkt fast unwirklich schön; tragen Sie feste Wanderschuhe, da der Pfad bei Regen sehr schlammig und rutschig sein kann, und gehen Sie vorsichtig.",
+                "hu": "A ködös tengerpart szinte már-már valószerűtlenül szép; viselj túracipőt, mert az ösvény esőben sárossá és csúszóssá válhat, ezért haladj fokozott figyelemmel.",
+                "ro": "Coasta cețoasă pare ireal de frumoasă; poartă bocanci de munte, deoarece poteca poate deveni noroioasă și alunecoasă pe ploaie, deci mergi cu mare atenție.",
+                "en": "The misty coastline looks almost unrealistically beautiful; wear hiking boots as the path can become muddy and slippery in the rain, so walk with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramiden",
+                "hu": "Piramisok",
+                "ro": "Piramide",
+                "en": "Pyramids"
+              },
+              "tip_5lang": {
+                "de": "Die schwarzen Steine glänzen im Regen und wirken besonders geheimnisvoll; meiden Sie das Klettern auf nassen Felsen am Ufer, um Unfälle durch Ausrutschen zu verhindern.",
+                "hu": "A fekete kövek csillognak az esőben, ami különösen titokzatossá teszi a helyet; kerülj a nedves sziklákon való mászást a parton a csúszásveszély és a balesetek elkerülése végett.",
+                "ro": "Pietrele negre strălucesc în ploaie, făcând locul să pară misterios; evită să te urci pe stâncile ude de pe țărm pentru a preveni accidentele prin alunecare.",
+                "en": "The black stones glisten in the rain, making the place look especially mysterious; avoid climbing on wet rocks on the shore to prevent accidents from slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Jukung Bali Bungalows",
+                "hu": "Jukung Bali Bungalows",
+                "ro": "Jukung Bali Bungalows",
+                "en": "Jukung Bali Bungalows"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie auf der privaten Veranda und beobachten Sie das Wetter; halten Sie Moskitospray bereit, da die Insekten bei feuchtem Regenwetter oft aktiver sind.",
+                "hu": "Pihenj meg a saját verandádon és figyeld az elemek játékát; legyen nálad szúnyogriasztó, mert a rovarok esős időben gyakran aktívabbá válnak a dús növényzetben.",
+                "ro": "Relaxează-te pe propria verandă și observă jocul elementelor; folosește spray împotriva insectelor, deoarece acestea devin mai active pe vreme ploioasă.",
+                "en": "Relax on your private porch and watch the weather unfold; keep mosquito repellent handy as insects often become more active during rainy weather in the tropics."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenaufgangspunkt",
+                "hu": "Napkelte pont",
+                "ro": "Punctul de răsărit",
+                "en": "Sunrise point"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne Sonne ist die Aussicht auf das graue Meer beeindruckend; bringen Sie eine robuste Regenjacke mit Kapuze mit, um den starken Wind am Ufer zu trotzen.",
+                "hu": "Napfény nélkül is lenyűgöző a szürke tenger látványa; vigyél magaddal egy strapabíró kapucnis esőkabátot, hogy ellenállj a parton fújó erős szélnek és a vízpermetnek.",
+                "ro": "Chiar și fără soare, vederea mării cenușii este impresionantă; adu o pelerină de ploaie rezistentă cu glugă pentru a face față vântului puternic de pe țărm.",
+                "en": "Even without the sun, the view of the grey sea is impressive; bring a durable hooded raincoat to withstand the strong winds and spray on the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgen lädt zum Strandspaziergang ein, die Luft ist klarer als im Sommer. Mittags genießen Sie die milde Sonne im Resort bei einem leichten Lunch. Nachmittags erreichen die Schatten die Pyramiden früher, da der Sonnenuntergang bereits gegen 17:00 Uhr beginnt. Abends kühlt es merklich ab, was die Bungalows zu einem gemütlichen Rückzugsort unter dem funkelnden Sternenhimmel macht.",
+            "hu": "A friss, hűvösebb reggeli levegő ideális egy hosszabb tengerparti sétához. Délben a nap ereje kellemes, de nem tikkasztó a resort pihenőjében. Délután a naplemente már 17:00 körül elkezdődik, így a piramisoknál korán megnyúlnak az árnyékok. Este a levegő gyorsan lehűl, így jól esik egy meleg fűszeres leves vagy tea a csillagos égbolt alatt a bungalók kertjében.",
+            "ro": "O dimineață răcoroasă este perfectă pentru o plimbare lungă pe plajă, aerul fiind mai curat. La prânz, bucură-te de soarele blând la complex în timpul unui prânz ușor. După-amiaza, umbrele ajung mai devreme la piramide, deoarece apusul începe deja în jurul orei 17:00. Seara, temperatura scade simțitor, transformând bungalourile într-un refugiu primitor sub cerul înstelat.",
+            "en": "A fresh, cool morning is perfect for a long beach walk, as the air is much clearer. At noon, enjoy the mild sun at the resort during a light lunch. In the afternoon, shadows reach the pyramids earlier since the sunset starts around 5 PM. In the evening, the air cools down quickly, making the bungalows a cozy retreat under the sparkling, clear starry sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "AMED SELFIE POINT",
+                "hu": "AMED SELFIE POINT",
+                "ro": "Punctul de selfie Amed",
+                "en": "AMED SELFIE POINT"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für schärfere Kontraste in Ihren Bildern; tragen Sie eine leichte Jacke, da der Wind am frühen Morgen an der Küste recht kühl sein kann.",
+                "hu": "A tiszta téli fények élesebb kontrasztokat adnak a képeknek; viselj egy könnyű dzsekit, mert a reggeli szél a parton ilyenkor meglepően hűvös lehet a fotózás alatt.",
+                "ro": "Lumina clară de iarnă oferă contraste mai puternice fotografiilor tale; poartă o jachetă ușoară, deoarece vântul de dimineață de pe coastă poate fi destul de răcoros.",
+                "en": "The clear winter light provides sharper contrasts for your photos; wear a light jacket as the morning breeze on the coast can be quite chilly during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Amed Beach Resort",
+                "hu": "Amed Beach Resort",
+                "ro": "Stațiunea Amed Beach",
+                "en": "Amed Beach Resort"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne ist mittags sehr angenehm, perfekt zum Sonnenbaden ohne Hitze; wählen Sie einen Platz im Windschatten, um die milde Wärme in vollen Zügen zu genießen.",
+                "hu": "A nap ereje délben nagyon kellemes, tökéletes a napozáshoz a tikkasztó hőség nélkül; válassz egy szélvédett helyet, hogy zavartalanul élvezhesd a lágy téli meleget.",
+                "ro": "Soarele de la prânz este foarte plăcut, perfect pentru plajă fără caniculă; alege un loc ferit de vânt pentru a te bucura din plin de căldura blândă a iernii.",
+                "en": "The noon sun is very pleasant, perfect for sunbathing without the scorching heat; choose a spot sheltered from the wind to fully enjoy the mild winter warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt auf Amed",
+                "hu": "Amed kilátó",
+                "ro": "Punct de belvedere în Amed",
+                "en": "Viewpoint on Amed"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf den Mount Agung ist jetzt oft am besten; bringen Sie ein Fernglas mit, um die Details des Vulkans in der klaren, trockenen Luft zu bewundern.",
+                "hu": "A Mount Agungra nyíló kilátás most a legtisztább; hozz magaddal távcsövet, hogy megcsodálhasd a vulkán részleteit a száraz és kristálytiszta téli levegőben.",
+                "ro": "Vederea spre Muntele Agung este adesea cea mai bună acum; adu un binoclu pentru a admira detaliile vulcanului în aerul uscat și clar al iernii.",
+                "en": "The visibility towards Mount Agung is often at its best now; bring binoculars to admire the volcano's details in the dry and crystal-clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramiden",
+                "hu": "Piramisok",
+                "ro": "Piramide",
+                "en": "Pyramids"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das goldene Licht vor dem frühen Sonnenuntergang zu fangen; die Temperaturen sinken rasch, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "Érkezz meg 16:30 előtt, hogy elkapd az arany óra fényeit a korai naplemente előtt; a hőmérséklet gyorsan süllyed, amint a nap eltűnik a távoli hegyek mögött.",
+                "ro": "Sosește înainte de 16:30 pentru a surprinde lumina aurie înainte de apusul timpuriu; temperatura scade rapid imediat ce soarele dispare după munți.",
+                "en": "Arrive before 4:30 PM to catch the golden hour light before the early sunset; temperatures drop quickly as soon as the sun disappears behind the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Jukung Bali Bungalows",
+                "hu": "Jukung Bali Bungalows",
+                "ro": "Jukung Bali Bungalows",
+                "en": "Jukung Bali Bungalows"
+              },
+              "tip_5lang": {
+                "de": "Abends ist es ideal für eine wärmende Mahlzeit unter freiem Himmel; legen Sie sich eine Decke oder einen Sarong bereit, um auf der Veranda nicht zu frösteln.",
+                "hu": "Az este ideális egy melegítő vacsorához a szabad ég alatt; készíts ki egy takarót vagy sarongot, hogy ne fázz a verandán a hűvös éjszakai szellőben.",
+                "ro": "Seara este ideală pentru o masă caldă sub cerul liber; pregătește o pătură sau un sarong ca să nu-ți fie frig pe verandă în briza răcoroasă a nopții.",
+                "en": "The evening is ideal for a warming meal under the open sky; have a blanket or sarong ready so you don't get chilly on the porch in the cool night breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenaufgangspunkt",
+                "hu": "Napkelte pont",
+                "ro": "Punctul de răsărit",
+                "en": "Sunrise point"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Nächte bieten eine fantastische Sicht auf die Milchstraße; bringen Sie ein Stativ für Astrofotografie mit und genießen Sie die kühle Stille am Meer.",
+                "hu": "A tiszta éjszakák fantasztikus kilátást nyújtanak a Tejútra; hozz állványt az asztrofotózáshoz, és élvezd a hűvös csendet a tengerparti csillagnézés alatt.",
+                "ro": "Nopțile clare oferă o vedere fantastică spre Calea Lactee; adu un trepied pentru astrofotografie și bucură-te de liniștea răcoroasă de la malul mării.",
+                "en": "The clear nights offer a fantastic view of the Milky Way; bring a tripod for astrophotography and enjoy the cool silence during seaside stargazing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros útvonalát enyhén felfelé a fő kilátónál, szívja magába a friss reggeli levegőt, miközben gyönyörködik az óceán és a vulkáni táj találkozásának lenyűgöző látványában.\n\nTekerjen végig a nyüzsgő parti úton, hogy felfedezze a bonyolult Amed-falat és a Piramisokat, gyakran megállva, hogy értékelje a pezsgő helyi búváréletet és a drámai tengeri letöréseket.\n\nPedálozzon tovább a szárazföld belseje felé a zord dombokhoz, érezze a terep változását, ahogy a csendes földutakon navigál a buja völgyekre és hegyekre nyíló látványos magaslati kilátások felé.\n\nTérjen vissza a part felé, hogy kerékpáros kalandját egy hagyományos bungalósor közelében fejezze be, megjutalmazva magát egy frissítő óceáni csobbanással és egy hideg itallal naplemente közben.",
         "ro": "Începeți traseul de ciclism ușor în urcare la punctul principal de belvedere, respirând aerul proaspăt al dimineții în timp ce admirați priveliștea uimitoare a oceanului întâlnind peisajul vulcanic.\n\nMergeți pe drumul de coastă plin de viață pentru a descoperi Zidul Amed și Piramidele, făcând pauze frecvente pentru a aprecia scena locală de scufundări și versanții marini dramatici.\n\nPedalați mai departe în interior spre dealurile stâncoase, simțind schimbarea terenului în timp ce navigați pe potecile de pământ liniștite care duc la priveliști spectaculoase peste văile luxuriante.\n\nÎntoarceți-vă spre țărm pentru a vă încheia aventura cu bicicleta lângă o colecție de bungalouri tradiționale, recompensându-vă cu o baie răcoritoare în ocean și o băutură rece la apus.",
         "en": "Start your cycling route slightly uphill at the main viewpoint, breathing in the fresh morning air while taking in the stunning sight of the ocean meeting the volcanic landscape.\n\nRide along the bustling coastal road to discover the intricate Amed Wall and Pyramids, pausing frequently to appreciate the bustling local diving scene and dramatic marine drop-offs.\n\nPedal further inland towards the rugged hills, feeling the change in terrain as you navigate the quiet dirt paths leading to spectacular elevated views over lush valleys and mountains.\n\nReturn towards the shore to end your cycling adventure near a collection of traditional bungalows, rewarding yourself with a refreshing ocean dip and a cool drink as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die nasse Straße volle Konzentration beim Aufstieg zum Aussichtspunkt. Mittags suchen wir Schutz unter einem Vordach an der Mauer, während der Regen prasselt. Nachmittags erschwert der Schlamm die Fahrt durch die Hügel, doch das intensive Grün entschädigt für alles. Abends erreichen wir durchnässt die Bungalows, wo eine heiße Dusche und wohlverdiente Ruhe warten.",
+            "hu": "Reggel a vizes aszfalt és a párás levegő teljes koncentrációt igényel a kilátó felé vezető emelkedőn. Délben az Amed-falnál keresünk menedéket a szakadó eső elől. Délután a sár megnehezíti a haladást a dombok között, de a táj ilyenkor a legzöldebb és legfrissebb. Estére átázva érünk a bungalókhoz, ahol a meleg zuhany és a nyugodt pihenés várja a megfáradt kerékpárosokat.",
+            "ro": "Dimineața, drumul ud și aerul umed necesită concentrare maximă pe urcarea spre punctul de belvedere. La prânz, căutăm adăpost lângă zidul Amed în timp ce ploaia toarnă. După-amiaza, noroiul îngreunează înaintarea printre dealuri, dar peisajul este acum cel mai verde. Seara, ajungem uzi la bungalouri, unde un duș fierbinte și odihna binemeritată ne așteaptă după efort.",
+            "en": "In the morning, the wet asphalt and humid air require full concentration on the climb toward the viewpoint. At noon, we seek shelter near the Amed wall while the rain pours down. In the afternoon, mud makes the ride through the hills challenging, but the landscape is at its greenest and freshest. By evening, we arrive soaked at the bungalows, where a hot shower and rest await."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aussichtspunkt auf Amed",
+                "hu": "Amed kilátó",
+                "ro": "Punct de belvedere în Amed",
+                "en": "Viewpoint on Amed"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf nasser Fahrbahn; die tief hängenden Wolken über der Bucht bieten ein dramatisches Motiv für schnelle Fotos.",
+                "hu": "Ellenőrizd a fékeidet a vizes úton való leereszkedés előtt; az öböl felett alacsonyan szálló felhők drámai és különleges témát kínálnak a gyors fotókhoz.",
+                "ro": "Verifică-ți frânele înainte de coborârea pe drumul ud; norii care plutesc jos deasupra golfului oferă un subiect dramatic pentru fotografii rapide.",
+                "en": "Check your brakes before descending on the wet road; the low-hanging clouds over the bay provide a dramatic and unique subject for quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramiden",
+                "hu": "Piramisok",
+                "ro": "Piramide",
+                "en": "Pyramids"
+              },
+              "tip_5lang": {
+                "de": "Der Sand am Strand ist durch den Regen fester, was das Abstellen des Fahrrads erleichtert; genießen Sie die mystische Stimmung der dunklen Küste im Regen.",
+                "hu": "A tengerparti homok az esőtől tömörebb, ami megkönnyíti a kerékpár leállítását; élvezd a sötét part és a tenger misztikus hangulatát az esőben.",
+                "ro": "Nisipul de pe plajă este mai compact din cauza ploii, ceea ce ușurează parcarea bicicletei; bucură-te de atmosfera mistică a țărmului întunecat sub ploaie.",
+                "en": "The beach sand is firmer from the rain, making it easier to park your bike; enjoy the mystical atmosphere of the dark shore and sea during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Amed-Mauer",
+                "hu": "Amed-fal",
+                "ro": "Zidul Amed",
+                "en": "Amed wall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine Schutzbrille gegen spritzendes Regenwasser und Gischt; nutzen Sie die Mauer als Windschutz, während Sie auf das Abklingen des Schauers warten.",
+                "hu": "Viselj védőszemüveget a felcsapódó esővíz és a sós pára ellen; használd a falat szélvédőként, miközben várod, hogy csendesedjen a trópusi zápor.",
+                "ro": "Poartă ochelari de protecție împotriva apei de ploaie și a vaporilor sărați; folosește zidul ca paravan împotriva vântului în timp ce aștepți oprirea ploii.",
+                "en": "Wear protective eyewear against splashing rainwater and salt spray; use the wall as a windbreak while waiting for the tropical shower to subside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Keresek",
+                "hu": "Bukit Keresek",
+                "ro": "Bukit Keresek",
+                "en": "Bukit Keresek"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann sehr rutschig sein, schieben Sie das Rad bei Bedarf lieber; die smaragdgrünen Hügel wirken im Regen unglaublich lebendig und intensiv.",
+                "hu": "Az emelkedő nagyon csúszós lehet, szükség esetén inkább told a kerékpárt; a smaragdzöld dombok az esőben hihetetlenül élénknek és élettelinek tűnnek.",
+                "ro": "Urcarea poate fi foarte alunecoasă, deci mai bine împinge bicicleta dacă e nevoie; dealurile de smarald par incredibil de vii și pline de viață pe ploaie.",
+                "en": "The climb can be very slippery, so prefer to push the bike if needed; the emerald green hills look incredibly vibrant and alive during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal- und Agung-Aussichtspunkt",
+                "hu": "Völgy és Agung kilátó",
+                "ro": "Punct de belvedere spre vale și Agung",
+                "en": "Valley and Agung view point"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der kleinen Hütten, falls der Regen stärker wird; der Blick in das neblige Tal bietet eine fast spirituelle Ruhe abseits der Straße.",
+                "hu": "Keress menedéket az egyik kis kunyhóban, ha felerősödik az eső; a ködös völgyre nyíló kilátás szinte spirituális nyugalmat áraszt távol az úttól.",
+                "ro": "Caută adăpost într-una dintre micile colibe dacă ploaia se întețește; vederea spre valea cețoasă oferă o liniște aproape spirituală, departe de drum.",
+                "en": "Seek shelter in one of the small huts if the rain intensifies; the view of the misty valley offers an almost spiritual tranquility away from the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Jukung Bali Bungalows",
+                "hu": "Jukung Bali Bungalows",
+                "ro": "Jukung Bali Bungalows",
+                "en": "Jukung Bali Bungalows"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Fahrradausrüstung sofort ab, um Korrosion durch das Salzwasser zu vermeiden; genießen Sie eine warme Mahlzeit zur Regeneration nach der Tour.",
+                "hu": "Azonnal szárítsd meg a kerékpáros felszerelésedet, hogy elkerüld a sós víz okozta korróziót; élvezz egy forró ételt a regenerálódáshoz a vizes túra után.",
+                "ro": "Usucă-ți imediat echipamentul de ciclism pentru a evita coroziunea cauzată de apa sărată; savurează o masă caldă pentru regenerare după tura udă.",
+                "en": "Dry your cycling gear immediately to avoid corrosion from the salt water; enjoy a hot meal to regenerate after your wet and challenging ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenbrise macht das Treten auf den steilen Wegen viel angenehmer als im Sommer. Mittags bietet die klare Luft eine fantastische Sicht auf den Vulkan Agung. Nachmittags sinkt die Sonne früh, was zu langen Schatten und kühleren Temperaturen führt. Abends genießen wir die Ruhe in den Bungalows, während der Wind vom Meer her auffrischt und die Nacht einläutet.",
+            "hu": "A hűvös reggeli szellő sokkal kellemesebbé teszi a tekerést a meredek szakaszokon. Délben a kristálytiszta levegő miatt a Mount Agung látványa lenyűgözően éles a horizonton. Délután a nap korán nyugovóra tér, így a völgyben gyorsan hűlni kezd a levegő 17:00 után. Este a bungalók nyugalmában pihenhetünk, miközben a tenger felől érkező friss szél jelzi az éjszakát.",
+            "ro": "Briza răcoroasă de dimineață face pedalatul pe porțiunile abrupte mult mai plăcut. La prânz, aerul cristalin oferă o vedere uluitor de clară spre Muntele Agung. După-amiaza, soarele apune devreme, așa că temperatura din vale scade rapid după ora 17:00. Seara, ne odihnim în liniștea bungalourilor, în timp ce vântul proaspăt dinspre mare anunță noaptea.",
+            "en": "The cool morning breeze makes pedaling on steep sections much more pleasant. At noon, the crystal-clear air makes the view of Mount Agung stunningly sharp on the horizon. In the afternoon, the sun sets early, causing the temperature in the valley to drop quickly after 5 PM. In the evening, rest in the peace of the bungalows as the fresh sea breeze signals the night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aussichtspunkt auf Amed",
+                "hu": "Amed kilátó",
+                "ro": "Punct de belvedere în Amed",
+                "en": "Viewpoint on Amed"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter unschlagbar; nutzen Sie den kühlen Morgen für den anstrengenden Aufstieg, bevor die Mittagssonne ihre volle Kraft entfaltet.",
+                "hu": "A távoli kilátás télen verhetetlen; használd ki a hűvös reggelt a megerőltető felfelé tekeréshez, mielőtt a déli nap ereje teljesen kiteljesedne a dombon.",
+                "ro": "Vizibilitatea la distanță este imbatabilă iarna; profită de dimineața răcoroasă pentru urcarea obositoare, înainte ca soarele de la prânz să devină puternic.",
+                "en": "The long-distance visibility is unbeatable in winter; take advantage of the cool morning for the strenuous climb before the midday sun reaches its full strength."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramiden",
+                "hu": "Piramisok",
+                "ro": "Piramide",
+                "en": "Pyramids"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am Nachmittag ist ideal für Detailaufnahmen der Fischerboote; bringen Sie eine leichte Windjacke für die Pausen am windigen Strand mit.",
+                "hu": "A lágy délutáni fények ideálisak a halászhajók részleteinek fotózásához; vigyél egy könnyű széldzsekit a szeles tengerparton tartott pihenők idejére.",
+                "ro": "Lumina blândă de după-amiază este ideală pentru fotografierea bărcilor de pescuit; adu o jachetă ușoară de vânt pentru pauzele de pe plaja vântoasă.",
+                "en": "The soft afternoon light is ideal for photographing the details of the fishing boats; bring a light windbreaker for breaks on the windy beach during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Amed-Mauer",
+                "hu": "Amed-fal",
+                "ro": "Zidul Amed",
+                "en": "Amed wall"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist im Winter trockener, was die Fahrt entlang der Küste weniger schweißtreibend macht; genießen Sie die frische Meeresbrise ohne die sommerliche Hitze.",
+                "hu": "A levegő télen szárazabb, így a parton való tekerés sokkal kevésbé izzasztó; élvezd a friss tengeri szellőt a nyári tikkasztó hőség és pára nélkül.",
+                "ro": "Aerul este mai uscat iarna, făcând pedalatul pe coastă mult mai puțin obositor; bucură-te de briza mării fără căldura sufocantă și umiditatea verii.",
+                "en": "The air is drier in winter, making the ride along the coast much less sweaty; enjoy the fresh sea breeze without the scorching summer heat and humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Keresek",
+                "hu": "Bukit Keresek",
+                "ro": "Bukit Keresek",
+                "en": "Bukit Keresek"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit, da es im Schatten der Hügel bereits ab 16:30 Uhr dämmrig wird; schalten Sie frühzeitig Ihre Fahrradbeleuchtung für die Rückfahrt ein.",
+                "hu": "Figyelj az időre, mert a dombok árnyékában már 16:30 után szürkülni kezd; kapcsold be időben a kerékpáros lámpákat a biztonságos visszaút érdekében.",
+                "ro": "Fii atent la timp, deoarece în umbra dealurilor începe să se însereze după ora 16:30; aprinde din timp luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Watch the time, as it starts to get dark in the shadow of the hills after 4:30 PM; turn on your bike lights in time for a safe return journey from the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal- und Agung-Aussichtspunkt",
+                "hu": "Völgy és Agung kilátó",
+                "ro": "Punct de belvedere spre vale și Agung",
+                "en": "Valley and Agung view point"
+              },
+              "tip_5lang": {
+                "de": "Der Gipfel des Agung ist in der klaren Winterluft oft wolkenfrei; verweilen Sie hier für den Sonnenuntergang, aber halten Sie warme Kleidung für die Abfahrt bereit.",
+                "hu": "Az Agung csúcsa a tiszta téli levegőben gyakran felhőtlen; maradj itt a naplementéig, de készülj meleg ruhával a hűvös völgybe való leereszkedéshez.",
+                "ro": "Vârful Agung este adesea senin în aerul curat de iarnă; rămâi aici pentru apus, dar pregătește haine groase pentru coborârea în valea răcoroasă.",
+                "en": "Mount Agung's peak is often cloudless in the clear winter air; stay here for the sunset, but have warm clothes ready for the descent into the cool valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Jukung Bali Bungalows",
+                "hu": "Jukung Bali Bungalows",
+                "ro": "Jukung Bali Bungalows",
+                "en": "Jukung Bali Bungalows"
+              },
+              "tip_5lang": {
+                "de": "Nach der Ankunft kühlt der Körper schnell ab, ein heißes Getränk ist nun sehr wohltuend; genießen Sie den klaren Sternenhimmel weit weg von künstlichem Licht.",
+                "hu": "Megérkezés után a test gyorsan lehűl, egy forró ital ilyenkor nagyon jólesik; élvezd a kristálytiszta csillagos eget távol a mesterséges fényektől.",
+                "ro": "După sosire, corpul se răcește rapid, așa că o băutură fierbinte este binevenită; bucură-te de cerul înstelat, departe de luminile artificiale.",
+                "en": "After arrival, your body cools down quickly, so a hot drink is very welcome now; enjoy the crystal-clear starry sky far from artificial city lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen kényelmesen a szárazföldi csúcsoktól a partvidék északi része felé, kezdd a napot nagyszerű domborzati kilátásokkal, mielőtt elérné a nyüzsgő tengerpartot az ikonikus fotózási pillanatokhoz.\n\nUgráljon a legfontosabb tengerparti látnivalók között, hogy megtapasztalja a magas kilátókat és a tengeri rezervátumokat, kihasználva a járművet a dramatikus megállókon töltött idő maximalizálására.\n\nHaladjon dél felé a kanyargós utakon, felkapaszkodva a monumentális völgykilátóhoz, ahol az Agung-hegy látszólag az egész eget uralja a természet lenyűgöző léptékének igazi megnyilvánulásaként.\n\nFejezze be a festői utazást úgy, hogy visszagurul Purwa Kerthi bájos falusi atmoszférájába, élvezve a hűsítő esti szellőt, miközben visszagondol egy hihetetlenül gazdag és változatos túranapra.",
         "ro": "Conduceți confortabil de la vârfurile interioare până la linia țărmului nordic, începând ziua cu perspective topografice mărețe înainte de a ajunge la plaja plină de viață pentru fotografii emblematice.\n\nCălătoriți între atracțiile cheie de pe coastă pentru a experimenta atât punctele înalte de belvedere, cât și sanctuarele marine accesibile, profitând de vehicul pentru a vă maximiza timpul.\n\nÎndreptați-vă spre sud pe drumurile șerpuite, urcând către impresionantul punct de belvedere al văii, unde Muntele Agung domină aparent întregul cer într-o afișare cu adevărat uluitoare a naturii.\n\nFinalizați-vă călătoria pitorească întorcându-vă în atmosfera fermecătoare a satului Purwa Kerthi, bucurându-vă de briza răcoroasă a serii în timp ce reflectați la o zi de explorare incredibil de bogată.",
         "en": "Drive comfortably from the inland peaks down to the northern shoreline, starting the day with grand topographical perspectives before reaching the lively beachside for iconic photo moments.\n\nHop between key coastal attractions to experience both the high viewpoints and the accessible marine sanctuaries, taking advantage of the vehicle to maximize your time at each dramatic stop.\n\nHead south along the twisting roads, ascending toward the monumental valley lookout where Mount Agung seemingly dominates the entire sky in a truly breathtaking display of nature's scale.\n\nComplete your scenic drive by cruising back into the charming village atmosphere of Purwa Kerthi, enjoying the cooling evening breeze as you reflect on an incredibly rich and diverse touring day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bahnen sich die Scheibenwischer den Weg durch den dichten Küstennebel auf den Serpentinen. Mittags beobachten wir den tosenden Ozean sicher vom Fahrersitz aus. Nachmittags hüllen Wolken das Tal ein und bieten einen dramatischen Anblick direkt vor dem Fenster. Abends lauschen wir im Auto dem Prasseln des Regens, während wir gemütlich und trocken zurück zur Unterkunft fahren.",
+            "hu": "Reggel az ablaktörlők ütemére vágunk neki a szerpentineknek a sűrű parti ködben. Délben a biztonságos utastérből figyeljük a tajtékzó óceánt a parton. Délután a völgyben a felhők egészen az autóig ereszkednek, drámai és misztikus látványt nyújtva az utasoknak. Este a kocsiban ülve hallgatjuk az eső dobolását, miközben kényelemben és szárazon érünk vissza a szálláshelyünkre.",
+            "ro": "Dimineața, ștergătoarele își croiesc drum prin ceața densă de coastă pe drumurile șerpuite. La prânz, observăm oceanul înfuriat în siguranță de pe scaunul șoferului. După-amiaza, norii coboară în vale până la mașină, oferind o vedere dramatică chiar în fața geamului. Seara, ascultăm ropotul ploii în mașină, în timp ce ne întoarcem confortabil și uscați la cazare.",
+            "en": "In the morning, wipers beat a rhythm through dense coastal mist on the winding roads. At noon, we observe the raging ocean safely from the driver's seat. In the afternoon, clouds descend into the valley right up to the car, offering a dramatic and mystical view through the window. In the evening, listen to the drumming rain while returning comfortably and dry to your accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bukit Culik",
+                "hu": "Bukit Culik",
+                "ro": "Bukit Culik",
+                "en": "Bukit Culik"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei Regen besonders vorsichtig auf den kurvigen Straßen; genießen Sie den Blick auf die saftig grünen Reisfelder, die im Regen förmlich leuchten.",
+                "hu": "Vezess fokozott óvatossággal az esőben a kanyargós utakon; élvezd a smaragdzöld rizsföldek látványát, amelyek szinte világítanak a párás, szürke időben.",
+                "ro": "Condu cu mare atenție pe drumurile virajate când plouă; bucură-te de vederea orezăriilor verzi, care par să strălucească în lumina difuză a ploii.",
+                "en": "Drive with extra caution on the winding roads during the rain; enjoy the view of the lush green rice fields that seem to glow in the misty, grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "AMED SELFIE POINT",
+                "hu": "AMED SELFIE POINT",
+                "ro": "Punctul de selfie Amed",
+                "en": "AMED SELFIE POINT"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein schnelles Foto direkt am Straßenrand und nutzen Sie einen Regenschirm; die stürmische See im Hintergrund wirkt auf Bildern sehr kraftvoll.",
+                "hu": "Állj meg egy gyors fotóra közvetlenül az út szélén, és használj esernyőt; a viharos tenger a háttérben rendkívül erőteljes és látványos hangulatot áraszt a képeken.",
+                "ro": "Oprește pentru o fotografie rapidă chiar pe marginea drumului și folosește o umbrelă; marea înfuriată din fundal oferă o atmosferă puternică în fotografii.",
+                "en": "Stop for a quick photo right by the roadside and use an umbrella; the stormy sea in the background creates an incredibly powerful and dramatic mood in your pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt auf Amed",
+                "hu": "Amed kilátó",
+                "ro": "Punct de belvedere în Amed",
+                "en": "Viewpoint on Amed"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie das Panorama durch das Fenster; die Gischt der Wellen vermischt sich mit dem Regen zu einem beeindruckenden Naturschauspiel.",
+                "hu": "Maradj az autóban, és élvezd a panorámát az ablakon keresztül; a hullámok permete és az eső lenyűgöző természeti jelenséggé olvad össze az öböl felett.",
+                "ro": "Rămâi în mașină și bucură-te de panoramă prin geam; vaporii valurilor se amestecă cu ploaia într-un spectacol natural impresionant deasupra golfului.",
+                "en": "Stay inside the car and enjoy the panoramic view through the window; the sea spray and rain blend into an impressive natural spectacle over the bay area."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramiden",
+                "hu": "Piramisok",
+                "ro": "Piramide",
+                "en": "Pyramids"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote am Ufer vom gemütlichen Fahrzeuginneren aus; die dunkle Küstenlinie wirkt im Regen besonders geheimnisvoll und wild.",
+                "hu": "Figyeld meg a parton sorakozó halászhajókat a kocsi kényelmes belsejéből; a sötét tengerpart az esőben különösen titokzatosnak és vadnak tűnik.",
+                "ro": "Observă bărcile de pescuit de pe țărm din interiorul confortabil al mașinii; coasta întunecată pare deosebit de misterioasă și sălbatică sub ploaie.",
+                "en": "Watch the fishing boats lined up on the shore from the comfort of your car; the dark coastline appears especially mysterious and wild during the tropical rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Amed-Mauer",
+                "hu": "Amed-fal",
+                "ro": "Zidul Amed",
+                "en": "Amed wall"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei schlechter Sicht das Licht ein, um von anderen Verkehrsteilnehmern gesehen zu werden; die Mauer schützt die Straße hier vor den stärksten Böen.",
+                "hu": "Kapcsold be a fényszórókat a rossz látási viszonyok miatt, hogy észrevegyenek; a fal itt hatékonyan védi az utat a tenger felől érkező legerősebb széllökésektől.",
+                "ro": "Aprinde farurile din cauza vizibilității reduse pentru a fi observat; zidul protejează eficient drumul aici împotriva celor mai puternice rafale de vânt.",
+                "en": "Turn on your headlights due to low visibility so others can see you; the wall effectively protects the road here from the strongest wind gusts from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal- und Agung-Aussichtspunkt",
+                "hu": "Völgy és Agung kilátó",
+                "ro": "Punct de belvedere spre vale și Agung",
+                "en": "Valley and Agung view point"
+              },
+              "tip_5lang": {
+                "de": "Die Wolken im Tal bieten ein großartiges Motiv für Zeitrafferaufnahmen aus dem Auto heraus; genießen Sie die Ruhe des nebligen Berges vor der Rückfahrt.",
+                "hu": "A völgyben kavargó felhők nagyszerű témát adnak egy time-lapse videóhoz az autóból; élvezd a ködös hegyvidék nyugalmát a visszaút megkezdése előtt.",
+                "ro": "Norii care se mișcă în vale oferă un subiect excelent pentru un video time-lapse din mașină; bucură-te de liniștea muntelui cețos înainte de plecare.",
+                "en": "The swirling clouds in the valley provide a great subject for a time-lapse video from the car; enjoy the tranquility of the misty mountain before driving back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen bietet beste Sichtverhältnisse auf den gewundenen Straßen. Mittags sorgt die milde Sonne für perfekte Lichtverhältnisse für Panoramafotos direkt aus dem Wagen. Nachmittags taucht der frühe Sonnenuntergang gegen 17:00 Uhr die Berge in tiefes Orange. Abends genießen wir die Fahrt unter einem spektakulären Sternenhimmel, während die Klimaanlage auf eine angenehme Temperatur eingestellt ist.",
+            "hu": "A tiszta téli reggel kiváló látási viszonyokat kínál a kanyargós szerpentineken. Délben a lágy napsütés tökéletes fényeket ad a panorámafotókhoz közvetlenül az autóból. Délután a korai naplemente már 17:00 körül narancssárgába borítja a hegyeket. Este a látványos és tiszta csillagos égbolt alatt autózhatunk vissza, miközben a kocsiban kellemes, meleg hőmérsékletet tarthatunk.",
+            "ro": "Dimineața senină de iarnă oferă condiții excelente de vizibilitate pe drumurile șerpuite. La prânz, soarele blând oferă lumina perfectă pentru fotografii panoramice direct din mașină. După-amiaza, apusul timpuriu în jurul orei 17:00 scaldă munții în portocaliu intens. Seara, conducem sub un cer înstelat spectaculos, menținând o temperatură plăcută în interiorul mașinii.",
+            "en": "The clear winter morning offers excellent visibility on the winding coastal roads. At noon, the mild sun provides perfect lighting for panoramic photos directly from the car. In the afternoon, the early sunset around 5 PM bathes the mountains in deep orange hues. In the evening, drive back under a spectacular starry sky while maintaining a cozy, warm temperature inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bukit Culik",
+                "hu": "Bukit Culik",
+                "ro": "Bukit Culik",
+                "en": "Bukit Culik"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt die fernen Berge zum Greifen nah erscheinen; nutzen Sie die Parkbuchten für einen kurzen Stopp, um die Aussicht ohne Dunst zu genießen.",
+                "hu": "A tiszta téli levegőben a távoli hegyek szinte karnyújtásnyira tűnnek; használd ki a parkolókat egy rövid megállóra, hogy párásodás nélkül élvezhesd a kilátást.",
+                "ro": "În aerul curat de iarnă, munții îndepărtați par foarte aproape; folosește locurile de parcare pentru o scurtă oprire și bucură-te de vedere fără nicio negură.",
+                "en": "In the clear winter air, distant mountains seem almost within reach; take advantage of the parking spots for a short stop to enjoy the haze-free view."
+              }
+            },
+            {
+              "name": {
+                "de": "AMED SELFIE POINT",
+                "hu": "AMED SELFIE POINT",
+                "ro": "Punctul de selfie Amed",
+                "en": "AMED SELFIE POINT"
+              },
+              "tip_5lang": {
+                "de": "Der tiefe Sonnenstand im Winter verhindert harte Schatten in Ihrem Gesicht; ideal für Porträts am Straßenrand, bevor Sie schnell wieder ins warme Auto steigen.",
+                "hu": "A téli nap alacsony állása megakadályozza az éles árnyékokat az arcodon; ideális portrékhoz az út szélén, mielőtt visszaszállnál a kocsi melegébe.",
+                "ro": "Poziția joasă a soarelui iarna previne umbrele dure pe față; este ideal pentru portrete la marginea drumului înainte de a te întoarce în mașina caldă.",
+                "en": "The low winter sun prevents harsh shadows on your face; it's ideal for portraits by the roadside before quickly hopping back into the warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt auf Amed",
+                "hu": "Amed kilátó",
+                "ro": "Punct de belvedere în Amed",
+                "en": "Viewpoint on Amed"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt im Winterlicht tiefblau und ruhig; parken Sie so, dass Sie die Aussicht direkt durch die Windschutzscheibe genießen können, ohne aussteigen zu müssen.",
+                "hu": "A tenger a téli fényben mélykéknek és nyugodtnak tűnik; parkolj úgy, hogy közvetlenül a szélvédőn keresztül élvezhesd a kilátást anélkül, hogy ki kellene szállnod.",
+                "ro": "Marea pare de un albastru profund și liniștită în lumina iernii; parchează astfel încât să poți admira vederea direct prin parbriz, fără a fi nevoie să cobori.",
+                "en": "The sea appears deep blue and calm in the winter light; park so you can enjoy the view directly through the windshield without needing to step out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramiden",
+                "hu": "Piramisok",
+                "ro": "Piramide",
+                "en": "Pyramids"
+              },
+              "tip_5lang": {
+                "de": "Die langen Schatten am Nachmittag verleihen der Küste Tiefe; kommen Sie rechtzeitig an, da es nach 17:00 Uhr schnell dunkel wird und die Temperaturen sinken.",
+                "hu": "A hosszú délutáni árnyékok mélységet adnak a tengerpartnak; érkezz időben, mert 17:00 után gyorsan besötétedik és a levegő is hamar lehűl a parton.",
+                "ro": "Umbrele lungi de după-amiază oferă profunzime coastei; sosește la timp, deoarece după ora 17:00 se întunecă rapid și temperatura scade brusc pe țărm.",
+                "en": "Long afternoon shadows give depth to the coastline; arrive early as it gets dark quickly after 5 PM and the temperatures drop fast on the shore during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Amed-Mauer",
+                "hu": "Amed-fal",
+                "ro": "Zidul Amed",
+                "en": "Amed wall"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier im Winter sehr böig sein; genießen Sie die Aussicht aus dem Auto, um sich vor der kühlen Meeresbrise zu schützen, die vom Ozean herweht.",
+                "hu": "A szél itt télen nagyon lökéses lehet; élvezd a kilátást az autóból, hogy megvédd magad az óceán felől érkező hűvös és erős tengeri fuvallatoktól.",
+                "ro": "Vântul poate fi foarte puternic aici iarna; bucură-te de vedere din mașină pentru a te proteja de briza răcoroasă și intensă care vine dinspre ocean.",
+                "en": "The wind can be very gusty here in winter; enjoy the view from the car to protect yourself from the cool and strong sea breezes blowing in from the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Tal- und Agung-Aussichtspunkt",
+                "hu": "Völgy és Agung kilátó",
+                "ro": "Punct de belvedere spre vale și Agung",
+                "en": "Valley and Agung view point"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung über dem Agung ist im Winter besonders spektakulär; nutzen Sie die Heizung Ihres Wagens für eine gemütliche Atmosphäre während des Sonnenuntergangs.",
+                "hu": "Az alkonyat az Agung felett télen különösen látványos; használd a kocsi fűtését a barátságos hangulathoz, miközben a lemenő nap fényeit csodálod a völgy felett.",
+                "ro": "Amurgul deasupra muntelui Agung este spectaculos iarna; folosește căldura mașinii pentru o atmosferă primitoare în timp ce admiri culorile apusului peste vale.",
+                "en": "The twilight over Mount Agung is particularly spectacular in winter; use your car's heater for a cozy atmosphere while admiring the sunset colors over the valley."
+              }
+            }
+          ]
+        }
       }
     }
   }

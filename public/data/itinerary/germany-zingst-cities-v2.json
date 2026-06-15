@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot Zingst történelmi szívében, és érezze a spirituális nyugalmat a Peter-Pauls-Kirche és a St. Michael kápolnában. Délután a Heimatmuseum várja, ahol megelevenedik a tengerész történelem. Egy séta a tengerparthoz a Schule des Sehens művészetéhez vezet. Zárja a napot izgalmasan a Tauchgondel és az Experimentarium felfedezésével.",
         "ro": "Începeți ziua în inima istorică a orașului Zingst și simțiți liniștea spirituală în Biserica Peter-Pauls și Capela St. Michael. După-amiaza vă așteaptă Muzeul Heimatmuseum, unde prinde viață istoria maritimă. O plimbare spre coastă vă duce la arta de la Schule des Sehens. Încheiați ziua captivant la Tauchgondel și la Experimentarium.",
         "en": "Start the day in the historic heart of Zingst and feel the spiritual tranquility in the Peter-Pauls-Kirche and St. Michael's chapel. In the afternoon, the Heimatmuseum awaits you, where maritime history comes alive. A walk to the coast leads you to the art at the Schule des Sehens. End the day with an exciting dive in the Tauchgondel and fun at the Experimentarium."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in den Kirchen, wo Sie dem Regen entfliehen und die Stille genießen können. Mittags bieten das Heimatmuseum und die Villa Ruh ideale Rückzugsorte im Trockenen. Am Nachmittag ermöglichen die Schule des Sehens und die Tauchgondel spannende Einblicke, ohne nass zu werden. Der Abend klingt im Experimentarium aus, das großzügige Innenräume für Entdeckungen bietet.",
+            "hu": "A reggel a templomok falai között indul, ahol menedéket találunk a szemerkélő eső elől és élvezhetjük a csendet. Délben a helytörténeti múzeum és a Villa Ruh kiváló beltéri helyszínek a szárazon maradáshoz. Délután a látás iskolája és a búvárgondola zárt terei várják a látogatókat. Az estét az Experimentarium interaktív termeiben zárhatjuk, ahol az eső sem zavarja a felfedezést.",
+            "ro": "Dimineața începe la adăpost în biserici, unde puteți scăpa de ploaie și vă puteți bucura de liniște. La prânz, muzeul de istorie și Villa Ruh oferă refugii ideale la uscat. După-amiaza, școala vederii și telegondola de scufundări permit vizite interesante fără a vă uda. Seara se încheie la Experimentarium, care oferă spații interioare generoase pentru descoperiri interactive.",
+            "en": "The morning starts sheltered in the churches, where you can escape the rain and enjoy the silence. At noon, the local history museum and Villa Ruh provide ideal dry retreats. In the afternoon, the school of seeing and the diving gondola allow for exciting insights without getting wet. The evening concludes at the Experimentarium, which offers spacious indoor areas for discoveries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Peter-Pauls-Kirche",
+                "hu": "Peter-Pauls-Kirche",
+                "ro": "Biserica Peter-Pauls",
+                "en": "Peter-Pauls-Kirche"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Innenraums und nutzen Sie die Kirchenbänke für eine kurze Pause im Trockenen; achten Sie beim Betreten auf rutschige Böden durch die Feuchtigkeit.",
+                "hu": "Csodálja meg a belső tér építészetét és használja a padokat egy rövid száraz pihenőre; belépéskor ügyeljen a nedvesség miatt esetlegesen csúszós padlóburkolatra.",
+                "ro": "Admirați arhitectura interiorului și folosiți băncile pentru o scurtă pauză la uscat; aveți grijă la podelele alunecoase din cauza umidității atunci când intrați.",
+                "en": "Admire the architecture of the interior and use the pews for a short dry break; watch out for slippery floors due to moisture when entering the building."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael",
+                "hu": "St. Michael",
+                "ro": "Sf. Michael",
+                "en": "St. Michael"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine wunderbare Akustik bei Regenprasseln und ist der perfekte Ort, um den nächsten Schauer in einer friedlichen Atmosphäre gemütlich abzuwarten.",
+                "hu": "Ez a templom csodálatos akusztikát kínál az eső kopogása közben, és tökéletes helyszín a következő zápor békés környezetben való megvárásához.",
+                "ro": "Această biserică oferă o acustică minunată în timpul ploii și este locul perfect pentru a aștepta următoarea aversă într-o atmosferă liniștită și plăcută.",
+                "en": "This church offers wonderful acoustics during the patter of rain and is the perfect place to peacefully wait out the next shower in a serene atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum",
+                "hu": "Helytörténeti Múzeum",
+                "ro": "Muzeul de Istorie Locală",
+                "en": "Local History Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die umfangreichen Ausstellungsräume, um stundenlang im Trockenen zu verweilen und mehr über die Region zu erfahren; Schirmständer finden Sie direkt im Eingangsbereich.",
+                "hu": "Használja ki a kiterjedt kiállítótereket, hogy órákig a szárazban maradva ismerje meg a régiót; esernyőtartókat közvetlenül a bejárati részen találhat a látogatáshoz.",
+                "ro": "Profitați de spațiile expoziționale extinse pentru a petrece ore întregi la uscat învățând despre regiune; veți găsi suporturi pentru umbrele chiar la intrare.",
+                "en": "Take advantage of the extensive exhibition spaces to spend hours in the dry learning about the region; you will find umbrella stands directly in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ruh",
+                "hu": "Villa Ruh",
+                "ro": "Villa Ruh",
+                "en": "Villa Ruh"
+              },
+              "tip_5lang": {
+                "de": "Die elegante Villa bietet Schutz vor dem Wind und lässt Sie die kulturellen Schätze Zingsts bestaunen, während der Regen draußen an die historischen Fensterscheiben klopft.",
+                "hu": "Az elegáns villa védelmet nyújt a szél ellen és lehetővé teszi Zingst kulturális kincseinek megcsodálását, miközben az eső odakint a történelmi ablaküvegeken kopog.",
+                "ro": "Vila elegantă oferă protecție împotriva vântului și vă permite să admirați comorile culturale ale orașului Zingst în timp ce ploaia bate în geamurile istorice.",
+                "en": "The elegant villa offers protection from the wind and allows you to admire the cultural treasures of Zingst while the rain taps against the historical window panes."
+              }
+            },
+            {
+              "name": {
+                "de": "Schule des Sehens",
+                "hu": "A Látás Iskolája",
+                "ro": "Școala Vederii",
+                "en": "School of Seeing"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für Fotografie-Liebhaber, um die Zeit bei schlechtem Wetter sinnvoll zu nutzen und die wechselnden Indoor-Ausstellungen ganz ohne Regenjacke zu erkunden.",
+                "hu": "Ideális hely a fotózás szerelmeseinek a rossz idő hasznos eltöltésére, ahol esőkabát nélkül fedezhetik fel a folyamatosan változó beltéri művészeti kiállításokat.",
+                "ro": "Un loc ideal pentru iubitorii de fotografie pentru a petrece timpul util pe vreme rea și pentru a explora expozițiile interioare schimbătoare fără haina de ploaie.",
+                "en": "An ideal place for photography enthusiasts to spend time usefully during bad weather and explore the changing indoor exhibitions without needing a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchgondel Zingst",
+                "hu": "Búvárgondola Zingst",
+                "ro": "Telegondola de scufundări",
+                "en": "Diving Gondola Zingst"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Ostsee von unten in der geschlossenen Kabine, die Sie völlig trocken in die Tiefe führt; genießen Sie das Schauspiel der Wellen über Ihrem Kopf.",
+                "hu": "Tapasztalja meg a Balti-tengert alulról a zárt kabinban, amely teljesen szárazon viszi a mélybe; élvezze a feje felett hullámzó tenger látványát az esőben is.",
+                "ro": "Experimentați Marea Baltică de dedesubt în cabina închisă care vă duce în adâncuri complet uscat; bucurați-vă de spectacolul valurilor deasupra capului dumneavoastră.",
+                "en": "Experience the Baltic Sea from below in the enclosed cabin that takes you to the depths completely dry; enjoy the spectacle of the waves above your head."
+              }
+            },
+            {
+              "name": {
+                "de": "Experimentarium",
+                "hu": "Experimentarium",
+                "ro": "Experimentarium",
+                "en": "Experimentarium"
+              },
+              "tip_5lang": {
+                "de": "Das große Areal bietet unzählige Experimente unter einem schützenden Dach, was es zum perfekten Abschluss eines regnerischen Tages für Entdecker jeden Alters macht.",
+                "hu": "A nagy terület számtalan kísérletet kínál védelmező tető alatt, ami tökéletes lezárássá teszi az esős napot minden korosztályú felfedező számára a szárazban.",
+                "ro": "Zona mare oferă nenumărate experimente sub un acoperiș protector, ceea ce o face încheierea perfectă a unei zile ploioase pentru exploratorii de toate vârstele.",
+                "en": "The large area offers countless experiments under a protective roof, making it the perfect conclusion to a rainy day for explorers of all ages in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im kalten Morgen bieten die beheizten Kirchen einen warmen und besinnlichen Start in den Tag. Mittags laden das Museum und die Villa Ruh zum Verweilen in gemütlichen Innenräumen ein, während der Frost draußen klirrt. Da die Sonne bereits gegen 17 Uhr untergeht, ist der Nachmittag ideal für die Tauchgondel. Der Abend endet spielerisch im wohltemperierten Experimentarium.",
+            "hu": "A hideg reggelen a fűtött templomok meleg és meghitt kezdést biztosítanak a naphoz a téli tájban. Délben a múzeum és a Villa Ruh hívogat a barátságos belső terekbe, miközben odakint csikorog a fagy. Mivel a nap már 17 óra körül lenyugszik, a délután ideális a búvárgondolához. Az este játékosan zárul a kellemes hőmérsékletű Experimentariumban.",
+            "ro": "În dimineața rece, bisericile încălzite oferă un început cald și contemplativ al zilei. La prânz, muzeul și Villa Ruh vă invită să zăboviți în interioare primitoare în timp ce afară e ger. Deoarece soarele apune deja în jurul orei 17, după-amiaza este ideală pentru telegondolă. Seara se încheie jucăuș în Experimentarium, la o temperatură plăcută.",
+            "en": "In the cold morning, the heated churches offer a warm and contemplative start to the day. At noon, the museum and Villa Ruh invite you to stay in cozy interiors while the frost bites outside. As the sun sets around 5 PM, the afternoon is ideal for the diving gondola. The evening ends playfully in the well-tempered Experimentarium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Peter-Pauls-Kirche",
+                "hu": "Peter-Pauls-Kirche",
+                "ro": "Biserica Peter-Pauls",
+                "en": "Peter-Pauls-Kirche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der wärmenden Atmosphäre der Kirche und lassen Sie die winterliche Kälte für einen Moment draußen vor den schweren Türen zurück.",
+                "hu": "Élvezze a nyugalmat a templom melengető légkörében, és hagyja kint a téli hideget egy pillanatra a súlyos bejárati ajtók mögött a látogatás során.",
+                "ro": "Bucurați-vă de liniște în atmosfera caldă a bisericii și lăsați frigul iernii afară, în spatele ușilor grele, pentru un moment în timpul vizitei.",
+                "en": "Enjoy the peace in the warming atmosphere of the church and leave the winter cold outside behind the heavy doors for a moment during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael",
+                "hu": "St. Michael",
+                "ro": "Sf. Michael",
+                "en": "St. Michael"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein wunderbarer Ort zum Aufwärmen zwischen den Spaziergängen; tragen Sie dennoch mehrere Schichten Kleidung für den Weg dorthin.",
+                "hu": "Ez a kis templom csodálatos hely a felmelegedéshez a séták között; ennek ellenére viseljen több réteg ruhát az odafelé vezető hideg úton a városban.",
+                "ro": "Această mică biserică este un loc minunat pentru a vă încălzi între plimbări; totuși, purtați mai multe straturi de haine pentru drumul până acolo.",
+                "en": "This small church is a wonderful place to warm up between walks; nevertheless, wear multiple layers of clothing for the cold journey through the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum",
+                "hu": "Helytörténeti Múzeum",
+                "ro": "Muzeul de Istorie Locală",
+                "en": "Local History Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Geschichte und genießen Sie die behagliche Wärme des Museums, während Sie historische Exponate der Region im Schutz der Mauern bewundern.",
+                "hu": "Merüljön el a történelemben és élvezze a múzeum otthonos melegét, miközben a régió történelmi tárgyait csodálja meg a falak védelmében a téli napon.",
+                "ro": "Cufundați-vă în istorie și bucurați-vă de căldura primitoare a muzeului în timp ce admirați exponatele istorice ale regiunii la adăpostul zidurilor.",
+                "en": "Immerse yourself in history and enjoy the cozy warmth of the museum while admiring historical exhibits of the region protected by the walls on a winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ruh",
+                "hu": "Villa Ruh",
+                "ro": "Villa Ruh",
+                "en": "Villa Ruh"
+              },
+              "tip_5lang": {
+                "de": "Die Villa strahlt im Winter eine ganz besondere Eleganz aus; nutzen Sie den Aufenthalt für eine kulturelle Pause in den angenehm temperierten Räumlichkeiten.",
+                "hu": "A villa télen különleges eleganciát áraszt; használja ki a tartózkodást egy kulturális pihenőre a kellemesen temperált helyiségekben a fagy elől menekülve.",
+                "ro": "Vila emană o eleganță aparte iarna; profitați de ședere pentru o pauză culturală în încăperile cu temperatură plăcută, ferite de gerul de afară.",
+                "en": "The villa radiates a special elegance in winter; use your stay for a cultural break in the pleasantly tempered rooms while escaping the frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schule des Sehens",
+                "hu": "A Látás Iskolája",
+                "ro": "Școala Vederii",
+                "en": "School of Seeing"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die visuelle Kunst im Warmen und beachten Sie die frühen Schließzeiten im Winter, damit Sie den Weg zurück im restlichen Tageslicht finden.",
+                "hu": "Fedezze fel a vizuális művészeteket a melegben, és ügyeljen a korai téli zárórákra, hogy még a maradék nappali fénynél találjon vissza a szállására.",
+                "ro": "Descoperiți arta vizuală la căldură și țineți cont de orele de închidere timpurii iarna, astfel încât să găsiți drumul înapoi în lumina rămasă a zilei.",
+                "en": "Discover visual arts in the warm and note the early closing times in winter so that you can find your way back in the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchgondel Zingst",
+                "hu": "Búvárgondola Zingst",
+                "ro": "Telegondola de scufundări",
+                "en": "Diving Gondola Zingst"
+              },
+              "tip_5lang": {
+                "de": "Die Gondel ist im Winter beheizt und bietet einen faszinierenden Blick auf die eisige Ostsee, kurz bevor die frühe Dämmerung gegen 17 Uhr einsetzt.",
+                "hu": "A gondola télen fűtött, és lenyűgöző kilátást nyújt a jeges Balti-tengertre, éppen mielőtt a korai szürkület 17 óra körül beállna a parton.",
+                "ro": "Gondola este încălzită iarna și oferă o vedere fascinantă asupra mării înghețate, chiar înainte de amurgul timpuriu care se lasă în jur de ora 17.",
+                "en": "The gondola is heated in winter and offers a fascinating view of the icy Baltic Sea, just before the early twilight sets in around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Experimentarium",
+                "hu": "Experimentarium",
+                "ro": "Experimentarium",
+                "en": "Experimentarium"
+              },
+              "tip_5lang": {
+                "de": "Ideal für den späten Nachmittag, da Sie hier im Warmen experimentieren können, wenn es draußen bereits dunkel und ungemütlich kalt geworden ist.",
+                "hu": "Ideális a késő délutánra, mivel itt a melegben kísérletezhet, amikor odakint már sötét és kellemetlenül hideg van a téli estéhez közeledve.",
+                "ro": "Ideal pentru după-amiaza târzie, deoarece puteți experimenta aici la căldură, când afară s-a întunecat deja și s-a făcut neplăcut de frig.",
+                "en": "Ideal for the late afternoon, as you can experiment here in the warm when it has already become dark and uncomfortably cold outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Reggel biciklizzen el az Altes Gehöft-hez, és élvezze a vidéki hagyományokat, mielőtt megcsodálja a nyugodt Bodden-tájat a Zingster Stromnál. A déli napsütést a legjobb a hűvös Heimatmuseumban tölteni. Délután az út az Experimentarium és a nyüzsgő Hundestrand felé vezet. Az este nyugodtan ér véget az erdőben, végül a nyugati FKK strandon.",
         "ro": "Mergeți cu bicicleta dimineața la Altes Gehöft și bucurați-vă de tradiția rurală înainte de a admira peisajul liniștit Bodden la Zingster Strom. Cel mai bine este să petreceți soarele amiezii în răcoarea Muzeului Heimatmuseum. După-amiaza traseul duce la Experimentarium și la plaja animată pentru câini. Seara se termină relaxant în pădure și la plaja de nudiști.",
         "en": "Cycle in the morning to the Altes Gehöft and enjoy the rural tradition before admiring the quiet Bodden landscape at the Zingster Strom. The midday sun is best spent in the cool Heimatmuseum. In the afternoon, the route continues to the Experimentarium and the lively dog beach. The evening ends relaxed in the forest and finally at the nudist beach in the west."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Kleidung, bietet aber eine mystische Sicht auf das Gehöft. Mittags finden Sie am Strom und im Museum trockene Rastplätze. Der Nachmittag führt zum Experimentarium, wo Sie die Fahrräder im Unterstand lassen können. Die Strandbesuche sind kurz, bieten aber bei Nebel und Regen eine ganz besondere, herbe Küstenatmosphäre.",
+            "hu": "Az esős biciklitúra jó ruházatot igényel, de misztikus látványt nyújt az öreg tanyánál. Délben a Strom partján és a múzeumban találunk száraz pihenőhelyeket. Délután az Experimentariumba tekerünk, ahol a bicikliket fedett tárolóban hagyhatjuk. A strandlátogatások rövidek, de a ködös, esős időben különleges, zord tengerparti hangulatot árasztanak.",
+            "ro": "O tură cu bicicleta prin ploaie necesită haine bune, dar oferă o vedere mistică asupra fermei. La prânz, veți găsi locuri de odihnă uscate la Strom și la muzeu. După-amiaza duce la Experimentarium, unde puteți lăsa bicicletele sub adăpost. Vizitele la plajă sunt scurte, dar oferă o atmosferă de coastă deosebită pe timp de ceață și ploaie.",
+            "en": "A bike tour in the rain requires good clothing but offers a mystical view of the farmstead. At noon, you will find dry resting spots by the stream and at the museum. The afternoon leads to the Experimentarium, where you can leave your bikes under cover. The beach visits are brief but offer a unique, rugged coastal atmosphere in the mist and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altes Gehöft",
+                "hu": "Öreg Tanya",
+                "ro": "Vechea Fermă",
+                "en": "Old Farmstead"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg zum Gehöft auf matschige Wege und nutzen Sie das Vordach für eine kurze Verschnaufpause im Schutze der historischen Gebäude.",
+                "hu": "A tanyához vezető úton ügyeljen a sáros szakaszokra, és használja az ereszek alatti részeket egy rövid pihenőre a történelmi épületek védelmében.",
+                "ro": "Aveți grijă la drumurile noroioase în drum spre fermă și folosiți streașina pentru o scurtă pauză la adăpostul clădirilor istorice.",
+                "en": "Watch out for muddy paths on the way to the farmstead and use the overhangs for a short breather protected by the historical buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Zingster Strom",
+                "hu": "Zingster Strom",
+                "ro": "Zingster Strom",
+                "en": "Zingster Strom"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das Wasser ist bei Regen besonders dramatisch; tragen Sie eine windfeste Regenjacke, da es hier an der offenen Wasserfläche sehr zugig sein kann.",
+                "hu": "A víz látványa esőben különösen drámai; viseljen szélálló esőkabátot, mivel itt a nyílt vízfelületnél nagyon huzatos és hűvös lehet az időjárás.",
+                "ro": "Vederea apei este deosebit de dramatică în timpul ploii; purtați o haină de ploaie rezistentă la vânt, deoarece aici la apă poate fi foarte curent.",
+                "en": "The view of the water is particularly dramatic in the rain; wear a windproof raincoat as it can be very drafty here by the open water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum",
+                "hu": "Helytörténeti Múzeum",
+                "ro": "Muzeul de Istorie Locală",
+                "en": "Local History Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad gesichert ab und genießen Sie die trockene Atmosphäre im Inneren, um sich für die Weiterfahrt durch den Regen wieder aufzuwärmen.",
+                "hu": "Állítsa le biztonságosan a biciklijét, és élvezze a benti száraz környezetet, hogy kicsit felmelegedjen az esőben való további tekerés előtt a városban.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de atmosfera uscată din interior pentru a vă încălzi înainte de a continua drumul prin ploaie.",
+                "en": "Park your bike securely and enjoy the dry atmosphere inside to warm up again before continuing your ride through the rain in the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Experimentarium",
+                "hu": "Experimentarium",
+                "ro": "Experimentarium",
+                "en": "Experimentarium"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer vor dem Eingang und verbringen Sie viel Zeit bei den Indoor-Exponaten, um dem schlimmsten Regen zu entgehen.",
+                "hu": "Használja a bejárat előtti fedett biciklitárolókat, és töltsön sok időt a benti kiállításoknál, hogy elkerülje a leghevesebb esőzéseket az útja során.",
+                "ro": "Folosiți suporturile pentru biciclete acoperite de la intrare și petreceți mult timp la exponatele interioare pentru a evita cea mai rea ploaie.",
+                "en": "Use the covered bike racks in front of the entrance and spend plenty of time at the indoor exhibits to escape the worst of the rain during your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Hundestrand",
+                "hu": "Kutyás Strand",
+                "ro": "Plajă pentru câini",
+                "en": "Dog Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Holzstegen zum Strand und genießen Sie die Einsamkeit der Küste, die bei Regen eine ganz eigene Ruhe ausstrahlt.",
+                "hu": "Óvatosan közlekedjen a nedves fapallókon a strand felé, és élvezze a part magányát, amely esőben egy teljesen egyedi nyugalmat és csendet áraszt.",
+                "ro": "Mergeți cu grijă pe podurile de lemn umede spre plajă și bucurați-vă de singurătatea coastei, care emană o liniște aparte pe timp de ploaie.",
+                "en": "Ride carefully on the wet wooden walkways to the beach and enjoy the solitude of the coast, which radiates a unique tranquility in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hinter dem Wald",
+                "hu": "Az erdőn túl",
+                "ro": "Dincolo de pădure",
+                "en": "Beyond the forest"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten zwar etwas Schutz vor leichtem Regen, aber achten Sie auf rutschiges Laub und Äste auf dem Radweg durch den nassen Küstenwald.",
+                "hu": "A fák némi védelmet nyújtanak az enyhe eső ellen, de ügyeljen a csúszós levelekre és ágakra a nedves partmenti erdőn átvezető kerékpárúton.",
+                "ro": "Copacii oferă o oarecare protecție împotriva ploii ușoare, dar aveți grijă la frunzele și ramurile alunecoase de pe pista de biciclete prin pădurea umedă.",
+                "en": "The trees offer some protection from light rain, but watch out for slippery leaves and branches on the bike path through the wet coastal forest."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Nudista Strand",
+                "ro": "Plajă de nudiști",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Stopp am Meer bei Regen ist belebend; stellen Sie sicher, dass Ihre Bremsen auf dem nassen Untergrund zuverlässig funktionieren.",
+                "hu": "Egy rövid, frissítő megálló a tengernél esőben élénkítő hatású; győződjön meg róla, hogy a fékjei megbízhatóan működnek a nedves talajon a megálláskor.",
+                "ro": "O scurtă oprire revigorantă la mare în timpul ploii este tonifiantă; asigurați-vă că frânele funcționează fiabil pe solul umed la oprire.",
+                "en": "A short, refreshing stop at the sea in the rain is invigorating; make sure your brakes work reliably on the wet ground when coming to a halt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Morgenluft am Gehöft ist belebend, erfordert aber warme Handschuhe am Lenker. Mittags bietet das Museum eine willkommene Aufwärmpause. Am Nachmittag ist das Experimentarium der ideale Ort, bevor die Dämmerung gegen 17 Uhr einsetzt. Die Fahrt entlang der Strände im Winterlicht ist traumhaft, sollte aber wegen der Kälte zügig absolviert werden.",
+            "hu": "A fagyos reggeli levegő a tanyánál élénkítő, de meleg kesztyűt igényel a kormányon. Délben a múzeum kínál szívesen látott felmelegedési lehetőséget. Délután az Experimentarium az ideális helyszín, mielőtt a szürkület 17 óra körül beállna. A téli fényben úszó strandok menti tekerés álomszerű, de a hideg miatt érdemes tempósan haladni.",
+            "ro": "Aerul înghețat de dimineață la fermă este revigorant, dar necesită mănuși calde pe ghidon. La prânz, muzeul oferă o pauză de încălzire binevenită. După-amiaza, Experimentarium este locul ideal înainte ca amurgul să se lase în jur de ora 17. Plimbarea de-a lungul plajelor în lumina iernii este de vis, dar trebuie făcută rapid din cauza frigului.",
+            "en": "The frosty morning air at the farmstead is invigorating but requires warm gloves on the handlebars. At noon, the museum offers a welcome warming break. In the afternoon, the Experimentarium is the ideal place before twilight sets in around 5 PM. Riding along the beaches in the winter light is dreamlike but should be done briskly due to the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altes Gehöft",
+                "hu": "Öreg Tanya",
+                "ro": "Vechea Fermă",
+                "en": "Old Farmstead"
+              },
+              "tip_5lang": {
+                "de": "Das Gehöft wirkt im Frost wie verzaubert; achten Sie auf vereiste Stellen auf den Feldwegen und halten Sie für Fotos die Hände nur kurz ohne Handschuhe.",
+                "hu": "A tanya a fagyban varázslatosnak tűnik; ügyeljen a jeges foltokra a mezei utakon, és a fotózáshoz is csak rövid időre vegye le a kesztyűjét.",
+                "ro": "Ferma pare fermecată în îngheț; aveți grijă la porțiunile înghețate de pe drumurile de câmp și scoateți mănușile doar scurt pentru fotografii.",
+                "en": "The farmstead looks enchanted in the frost; watch out for icy patches on the field paths and only take off your gloves briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Zingster Strom",
+                "hu": "Zingster Strom",
+                "ro": "Zingster Strom",
+                "en": "Zingster Strom"
+              },
+              "tip_5lang": {
+                "de": "Am Wasser weht im Winter oft ein eisiger Wind; schützen Sie Ihr Gesicht mit einem Schal und genießen Sie den Blick auf das vielleicht teils gefrorene Ufer.",
+                "hu": "A víznél télen gyakran fúj jeges szél; védje arcát sállal, és élvezze a látványt a part mentén, amely ilyenkor gyakran részben be is fagyhat.",
+                "ro": "La apă bate adesea un vânt înghețat iarna; protejați-vă fața cu un fular și bucurați-vă de vederea malului care poate fi parțial înghețat.",
+                "en": "An icy wind often blows by the water in winter; protect your face with a scarf and enjoy the view of the shore, which may be partially frozen."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum",
+                "hu": "Helytörténeti Múzeum",
+                "ro": "Muzeul de Istorie Locală",
+                "en": "Local History Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die klammen Finger an den Heizkörpern zu wärmen, während Sie die gemütliche Atmosphäre des winterlichen Museums in Ruhe aufsaugen.",
+                "hu": "Használja ki a megállót, hogy átmelegítse elgémberedett ujjait, miközben nyugodtan beszippantja a téli múzeum barátságos és békés hangulatát.",
+                "ro": "Profitați de oprire pentru a vă încălzi degetele amorțite la calorifere în timp ce absorbiți în liniște atmosfera primitoare a muzeului pe timp de iarnă.",
+                "en": "Take advantage of the stop to warm your numb fingers on the radiators while quietly soaking up the cozy atmosphere of the winter museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Experimentarium",
+                "hu": "Experimentarium",
+                "ro": "Experimentarium",
+                "en": "Experimentarium"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier den Großteil des Nachmittags im Warmen; der Weg zurück sollte gut beleuchtet sein, da es im Winter schon sehr früh dunkel wird.",
+                "hu": "Töltse itt a délután nagy részét a melegben; a visszaút legyen jól kivilágítva, mivel télen már nagyon korán sötétedik a tengerparti vidéken.",
+                "ro": "Petreceți aici cea mai mare parte a după-amiezii la căldură; drumul înapoi ar trebui să fie bine iluminat, deoarece iarna se întunecă foarte devreme.",
+                "en": "Spend most of the afternoon here in the warm; the way back should be well-lit as it gets dark very early in winter in the coastal region."
+              }
+            },
+            {
+              "name": {
+                "de": "Hundestrand",
+                "hu": "Kutyás Strand",
+                "ro": "Plajă pentru câini",
+                "en": "Dog Beach"
+              },
+              "tip_5lang": {
+                "de": "Die leere Winterlandschaft am Strand ist herrlich ruhig; tragen Sie festes Schuhwerk gegen die Bodenkälte und halten Sie sich bei der steifen Brise in Bewegung.",
+                "hu": "Az üres téli táj a strandon csodálatosan nyugodt; viseljen vastag talpú cipőt a talajhideg ellen, és maradjon mozgásban az erős szélben.",
+                "ro": "Peisajul gol de iarnă de pe plajă este minunat de liniștit; purtați încălțăminte solidă împotriva frigului de la sol și rămâneți în mișcare în briza puternică.",
+                "en": "The empty winter landscape at the beach is wonderfully quiet; wear sturdy footwear against the ground cold and keep moving in the stiff breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Hinter dem Wald",
+                "hu": "Az erdőn túl",
+                "ro": "Dincolo de pădure",
+                "en": "Beyond the forest"
+              },
+              "tip_5lang": {
+                "de": "Im Wald ist es oft etwas windgeschützter, aber die Temperaturen bleiben niedrig; achten Sie auf gefrorene Pfützen, die auf dem Radweg tückisch sein können.",
+                "hu": "Az erdőben gyakran szélvédettebb az idő, de a hőmérséklet alacsony marad; ügyeljen a fagyott tócsákra, amelyek trükkösek lehetnek a kerékpárúton.",
+                "ro": "În pădure este adesea mai ferit de vânt, dar temperaturile rămân scăzute; aveți grijă la bălțile înghețate care pot fi înșelătoare pe pista de biciclete.",
+                "en": "In the forest it is often more sheltered from the wind, but temperatures remain low; watch out for frozen puddles which can be tricky on the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Nudista Strand",
+                "ro": "Plajă de nudiști",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das besondere Licht der blauen Stunde am winterlichen Meer; sorgen Sie für eine funktionierende Fahrradbeleuchtung für den nun dunklen Heimweg.",
+                "hu": "Tapasztalja meg a kék óra különleges fényeit a téli tengernél; gondoskodjon a működő kerékpár-világításról a most már sötét hazaúthoz a parton.",
+                "ro": "Experimentați lumina deosebită a orei albastre la marea de iarnă; asigurați-vă că aveți iluminarea bicicletei funcțională pentru drumul spre casă acum întunecat.",
+                "en": "Experience the special light of the blue hour at the winter sea; ensure you have functioning bike lights for the now dark ride home along the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +927,168 @@
         "hu": "Kezdje lazán a Mona Lisánál, majd hajtson a Zingster Stromhoz, hogy élvezze a békés vízi tájat. Egy kiadós ebéd után az autó közvetlenül a partra viszi a Schule des Sehenshöz. Ezután éljen át egy lenyűgöző merülést a Tauchgondelben. Végül kimerítheti magát a hatalmas sportstrandon, és megnézheti a gyönyörű naplementét a tenger felett.",
         "ro": "Începeți relaxat la Mona Lisa și apoi conduceți la Zingster Strom pentru a vă bucura de peisajul liniștit al apei. După un prânz revigorant, mașina vă duce direct pe coastă la Schule des Sehens. Apoi experimentați o scufundare fascinantă în Tauchgondel. La final, vă puteți consuma energia pe plaja vastă de sport și puteți privi apusul.",
         "en": "Start relaxed at the Mona Lisa and then drive to the Zingster Strom to enjoy the peaceful water landscape. After a refreshing lunch, the car takes you straight to the coast to the Schule des Sehens. Then experience a fascinating dive in the Tauchgondel. Finally, you can burn off some energy at the vast sports beach and watch the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto bleiben Sie zwischen den Stationen Mona Lisa und dem Strom angenehm trocken. Mittags bieten die Schule des Sehens und die Tauchgondel ideale Indoor-Erlebnisse, während der Regen auf das Autodach trommelt. Der Nachmittag am Sportstrand lässt sich wunderbar aus dem Fahrzeug beobachten oder bei einem kurzen, windgeschützten Spaziergang genießen.",
+            "hu": "Az autóban ülve kellemesen szárazon maradhatunk a Mona Lisa és a Strom megállók között. Délben a látás iskolája és a búvárgondola ideális beltéri élményeket nyújtanak, miközben az eső a kocsi tetején kopog. A délutáni sportstrandi látogatás alkalmával a járműből is gyönyörködhetünk a tájban vagy tehetünk egy rövid, szélvédett sétát.",
+            "ro": "În mașină veți rămâne plăcut uscați între stațiile Mona Lisa și Strom. La prânz, școala vederii și telegondola de scufundări oferă experiențe interioare ideale în timp ce ploaia bate pe plafonul mașinii. După-amiaza la plaja sportivă poate fi observată minunat din vehicul sau savurată în timpul unei scurte plimbări ferite de vânt.",
+            "en": "In the car you will stay pleasantly dry between the Mona Lisa and the stream stops. At noon, the school of seeing and the diving gondola offer ideal indoor experiences while the rain drums on the car roof. The afternoon at the sports beach can be wonderfully observed from the vehicle or enjoyed during a short, wind-sheltered walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mona Lisa",
+                "hu": "Mona Lisa",
+                "ro": "Mona Lisa",
+                "en": "Mona Lisa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um den Weg durch den Regen kurz zu halten, und genießen Sie die Kunstwerke in der gemütlichen Atmosphäre der Galerie.",
+                "hu": "Parkoljon közvetlenül a közelben, hogy az esőben megtett utat lerövidítse, és élvezze a műalkotásokat a galéria barátságos és száraz belső terében.",
+                "ro": "Parcați chiar în apropiere pentru a scurta drumul prin ploaie și bucurați-vă de operele de artă în atmosfera primitoare a galeriei.",
+                "en": "Park directly nearby to keep the walk through the rain short and enjoy the artworks in the cozy atmosphere of the gallery's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Zingster Strom",
+                "hu": "Zingster Strom",
+                "ro": "Zingster Strom",
+                "en": "Zingster Strom"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie oft einen guten Blick auf den Strom; nutzen Sie das Auto als warmen Aussichtspunkt, falls der Regenschauer gerade zu stark ist.",
+                "hu": "A parkolóból gyakran jó kilátás nyílik a Stromra; használja az autót meleg kilátópontként, ha az eső éppen túl hevesen esne a kiszálláshoz.",
+                "ro": "Din parcare aveți adesea o vedere bună asupra Strom; folosiți mașina ca punct de observație cald dacă aversa de ploaie este prea puternică în acel moment.",
+                "en": "From the parking lot, you often have a good view of the stream; use the car as a warm observation point if the rain shower is too heavy at the moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Schule des Sehens",
+                "hu": "A Látás Iskolája",
+                "ro": "Școala Vederii",
+                "en": "School of Seeing"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen, da Sie hier viel Zeit drinnen verbringen können; prüfen Sie die Parkmöglichkeiten vorab, um die Laufwege im Nassen zu minimieren.",
+                "hu": "Tökéletes megálló esőben, mivel itt sok időt tölthet bent; ellenőrizze előre a parkolási lehetőségeket, hogy minimalizálja a vizes úton való gyaloglást.",
+                "ro": "O oprire perfectă pe timp de ploaie, deoarece puteți petrece mult timp în interior aici; verificați opțiunile de parcare în avans pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "A perfect stop in the rain as you can spend a lot of time indoors here; check the parking options in advance to minimize walking in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchgondel Zingst",
+                "hu": "Búvárgondola Zingst",
+                "ro": "Telegondola de scufundări",
+                "en": "Diving Gondola Zingst"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Seebrücke kann bei Regen windig sein; nehmen Sie einen stabilen Schirm mit und freuen Sie sich auf die trockene und geschützte Fahrt in die Tiefe.",
+                "hu": "A mólóhoz vezető út esőben szeles lehet; vigyen magával egy stabil esernyőt, és örüljön a száraz és védett merülésnek a tenger mélyére a gondolával.",
+                "ro": "Drumul spre dig poate fi vântos pe timp de ploaie; luați o umbrelă stabilă și bucurați-vă de călătoria uscată și protejată în adâncuri.",
+                "en": "The way to the pier can be windy in the rain; take a sturdy umbrella with you and look forward to the dry and protected ride into the depths with the gondola."
+              }
+            },
+            {
+              "name": {
+                "de": "Sportstrand",
+                "hu": "Sportstrand",
+                "ro": "Plaja sportivă",
+                "en": "Sports Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Ostsee aus der Sicherheit Ihres Autos heraus oder wagen Sie einen kurzen Sprint zum Ufer, um die frische, feuchte Meeresluft zu atmen.",
+                "hu": "Élvezze a vad Balti-tengert autója biztonságából, vagy tegyen egy rövid sprintet a partig, hogy belélegezze a friss, párás és sós tengeri levegőt.",
+                "ro": "Bucurați-vă de Marea Baltică sălbatică din siguranța mașinii dumneavoastră sau aventurați-vă într-un scurt sprint până la mal pentru a respira aerul proaspăt și umed al mării.",
+                "en": "Enjoy the wild Baltic Sea from the safety of your car or venture a short sprint to the shore to breathe in the fresh, moist, and salty sea air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Standheizung ist die Fahrt zum Mona Lisa am frostigen Morgen besonders angenehm. Mittags bieten die kulturellen Stopps eine wunderbare Gelegenheit, sich in schönem Ambiente aufzuwärmen. Da es gegen 17 Uhr dunkel wird, ist die Tauchgondel am Nachmittag ein Highlight. Den Tag schließen wir am winterlichen Sportstrand ab, dessen weite Sicht im Winterlicht fasziniert.",
+            "hu": "Az autó fűtésének köszönhetően a Mona Lisa felé vezető út a fagyos reggelen különösen kellemes. Délben a kulturális megállók remek alkalmat kínálnak a felmelegedésre szép környezetben. Mivel 17 óra körül sötétedik, a délutáni búvárgondola igazi fénypont. A napot a téli sportstrandon zárjuk, melynek tágas látványa lenyűgöző a téli fényekben.",
+            "ro": "Datorită încălzirii mașinii, drumul spre Mona Lisa în dimineața geroasă este deosebit de plăcut. La prânz, opririle culturale oferă o ocazie minunată de a vă încălzi într-un ambient frumos. Deoarece se întunecă în jur de ora 17, telegondola de după-amiază este un punct culminant. Încheiem ziua la plaja sportivă de iarnă, a cărei vedere largă fascinează în lumina iernii.",
+            "en": "Thanks to the car heating, the ride to Mona Lisa on a frosty morning is particularly pleasant. At noon, the cultural stops offer a wonderful opportunity to warm up in a beautiful ambience. Since it gets dark around 5 PM, the afternoon diving gondola is a highlight. We conclude the day at the winter sports beach, whose wide view fascinates in the winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mona Lisa",
+                "hu": "Mona Lisa",
+                "ro": "Mona Lisa",
+                "en": "Mona Lisa"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Kälte draußen und genießen Sie die Wärme der Ausstellung; prüfen Sie vor der Abfahrt den Reifendruck für die winterlichen Straßenverhältnisse.",
+                "hu": "Hagyja kint a hideget és élvezze a kiállítás melegét; indulás előtt ellenőrizze a guminyomást a biztonságos téli útviszonyok érdekében a városban.",
+                "ro": "Lăsați frigul afară și bucurați-vă de căldura expoziției; verificați presiunea în anvelope înainte de plecare pentru condițiile de drum de iarnă.",
+                "en": "Leave the cold outside and enjoy the warmth of the exhibition; check the tire pressure before departure for safe winter road conditions in the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Zingster Strom",
+                "hu": "Zingster Strom",
+                "ro": "Zingster Strom",
+                "en": "Zingster Strom"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den Strom ist im Winterlicht besonders klar; nutzen Sie die Parkplätze direkt am Wasser für Fotos, ohne lange in der Kälte stehen zu müssen.",
+                "hu": "A kilátás a Stromra a téli fényben különösen tiszta; használja a közvetlenül a víznél lévő parkolókat a fotózáshoz, hogy ne kelljen sokáig a hidegben állnia.",
+                "ro": "Vederea asupra Strom este deosebit de clară în lumina iernii; folosiți locurile de parcare chiar lângă apă pentru fotografii, fără a fi nevoie să stați mult în frig.",
+                "en": "The view of the stream is particularly clear in the winter light; use the parking spaces directly by the water for photos without having to stand in the cold for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Schule des Sehens",
+                "hu": "A Látás Iskolája",
+                "ro": "Școala Vederii",
+                "en": "School of Seeing"
+              },
+              "tip_5lang": {
+                "de": "Ein behaglicher Ort, um dem Frost zu entkommen; achten Sie beim Parken auf geräumte Flächen, da ungeräumte Seitenstreifen im Winter tückisch sein können.",
+                "hu": "Meghitt hely a fagy elől való meneküléshez; parkoláskor ügyeljen a letakarított felületekre, mivel a hóval borított padkák télen csalókák lehetnek az autósoknak.",
+                "ro": "Un loc primitor pentru a scăpa de ger; la parcare, aveți grijă la suprafețele curățate, deoarece marginile drumului necurățate pot fi înșelătoare iarna.",
+                "en": "A cozy place to escape the frost; when parking, look for cleared surfaces, as uncleared roadsides can be treacherous for drivers in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchgondel Zingst",
+                "hu": "Búvárgondola Zingst",
+                "ro": "Telegondola de scufundări",
+                "en": "Diving Gondola Zingst"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt in der beheizten Gondel ist im Winter besonders gemütlich; denken Sie daran, die Parkuhr im Auge zu behalten, damit Sie entspannt abtauchen können.",
+                "hu": "A fűtött gondolában való utazás télen különösen otthonos; ne felejtse el ellenőrizni a parkolóórát, hogy nyugodtan merülhessen a tengeri látványba.",
+                "ro": "Călătoria în gondola încălzită este deosebit de confortabilă iarna; nu uitați să verificați parcometrul pentru a vă putea scufunda relaxat în peisajul marin.",
+                "en": "The ride in the heated gondola is particularly cozy in winter; remember to keep an eye on the parking meter so you can relax and dive into the sea views."
+              }
+            },
+            {
+              "name": {
+                "de": "Sportstrand",
+                "hu": "Sportstrand",
+                "ro": "Plaja sportivă",
+                "en": "Sports Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das eisige Meer kurz vor Sonnenuntergang um 17 Uhr; die Heizung im Auto sorgt nach einem kurzen Strandspaziergang schnell wieder für Wohlbefinden.",
+                "hu": "Csodálja meg a jeges tengert közvetlenül a 17 órai naplemente előtt; az autó fűtése a rövid strandséta után gyorsan újra gondoskodik a jó közérzetről.",
+                "ro": "Admirați marea înghețată chiar înainte de apusul soarelui la ora 17; încălzirea mașinii vă va reda rapid starea de bine după o scurtă plimbare pe plajă.",
+                "en": "Admire the icy sea just before sunset at 5 PM; the car heating will quickly restore your comfort after a short walk on the wintry beach."
+              }
+            }
+          ]
+        }
       }
     }
   }

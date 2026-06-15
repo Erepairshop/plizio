@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Playa de Charrana finom homokos partján, ahol a lágy hullámok tökéletes kikapcsolódást nyújtanak. Ezután sétáljon át a lenyűgöző szépségű Charranes Beach-re egy kis pihenésre. Délután az Embarcadero mólójáról csodálhatja meg a tengert, majd a Plage Salmonette napfényes strandja következik. A séta a festői Cala Bonita öbölben ér véget, ahol gyönyörű naplemente várja.",
         "ro": "Începeți ziua pe nisipul fin al Playa de Charrana, unde valurile blânde vă invită la relaxare totală. Plimbați-vă apoi spre Charranes Beach, faimoasă pentru frumusețea sa naturală absolut intactă. După-amiaza oferă priveliști superbe la Embarcadero, urmate de o baie de soare pe Plage Salmonette. Această rută pitorească se încheie idilic la Cala Bonita, locul perfect pentru apus.",
         "en": "Start your morning at Playa de Charrana, where the gentle waves and fine sand create a perfect relaxing vibe. Stroll down to Charranes Beach, well known for its completely unspoiled natural beauty. In the afternoon, the Embarcadero offers great maritime views before you soak up the sun at Plage Salmonette. Your coastal walking tour concludes peacefully at the idyllic Cala Bonita cove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Morgen an der Playa de Charrana erfordert wasserdichte Kleidung.\n\nMittags erfordert die Erkundung der felsigen Buchten Vorsicht auf rutschigen Wegen.\n\nNachmittags bieten Spaziergänge zur Plage Salmonette dramatische Meeresblicke.\n\nDer Abend bricht unter dichten Wolken schnell herein und beendet die Tour.",
+            "hu": "A nedves reggel a Charrana strandon vízálló felszerelést igényel.\n\nDélben a sziklás öblök felfedezése fokozott óvatosságot kér a csúszós ösvényeken.\n\nDélután a Plage Salmonette felé a séta drámai, ködös tengeri kilátást nyújt.\n\nAz este gyorsan leszáll a felhők alatt, lezárva a borongós parti túrát.",
+            "ro": "O dimineață umedă la Playa de Charrana cere echipament impermeabil solid.\n\nLa prânz, explorarea golfurilor stâncoase necesită atenție pe potecile alunecoase.\n\nDupă-amiaza, plimbările spre Plage Salmonette oferă vederi marine dramatice.\n\nSeara cade repede sub norii grei, încheind o călătorie de coastă mohorâtă.",
+            "en": "A wet morning at Playa de Charrana demands sturdy waterproof gear.\n\nMidday explorations of the rocky coves require extra caution on slippery trails.\n\nAfternoon walks to Plage Salmonette offer dramatic, misty sea views despite the rain.\n\nEvening falls quickly under heavy clouds, wrapping up a moody coastal journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Charrana",
+                "hu": "Playa de Charrana",
+                "ro": "Playa de Charrana",
+                "en": "Playa de Charrana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatischen Wellen im Regen, aber bleiben Sie vom Wasserufer fern und tragen Sie wasserdichte Stiefel.",
+                "hu": "Élvezd a drámai hullámzást az esőben, de maradj távol a víz szélétől, és viselj vízálló bakancsot.",
+                "ro": "Admirați valurile dramatice în ploaie, dar stați departe de marginea apei și purtați cizme impermeabile.",
+                "en": "Enjoy the dramatic crashing waves in the rain, but stay away from the water's edge and wear waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Charranes Beach",
+                "hu": "Charranes Beach",
+                "ro": "Charranes Beach",
+                "en": "Charranes Beach"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand spiegelt den dunklen Himmel wider; suchen Sie beim Erkunden Schutz unter einem soliden Regenschirm.",
+                "hu": "A nedves homok visszatükrözi a sötét eget; a felfedezéshez használj erős, szélálló esernyőt menedékként.",
+                "ro": "Nisipul umed reflectă cerul întunecat; adăpostiți-vă sub o umbrelă solidă în timp ce explorați zona.",
+                "en": "The wet sand offers a moody reflection of the dark sky; take shelter under a solid umbrella while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Embarcadero",
+                "hu": "Embarcadero",
+                "ro": "Embarcadero",
+                "en": "Embarcadero"
+              },
+              "tip_5lang": {
+                "de": "Die alte Pierstruktur wirkt im Nebel mystisch, aber seien Sie vorsichtig, da Holz und Stein sehr rutschig sind.",
+                "hu": "A régi móló misztikusan fest a ködben, de lépj óvatosan, mert a fa és kő részek rendkívül csúszósak.",
+                "ro": "Structurile vechi ale debarcaderului arată mistic în ceață, dar pășiți cu grijă, deoarece piatra este alunecoasă.",
+                "en": "The old pier structures look mystical in the mist, but step carefully as the wooden and stone parts are very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Salmonette",
+                "hu": "Plage Salmonette",
+                "ro": "Plage Salmonette",
+                "en": "Plage Salmonette"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie aus sicherer Entfernung, wie der Regen auf das Meer trifft; eine gute Regenjacke ist hier unerlässlich.",
+                "hu": "Nézd biztonságos távolból, ahogy az eső veri a tenger felszínét; egy jó minőségű esőkabát elengedhetetlen ide.",
+                "ro": "Priviți cum ploaia lovește suprafața mării de la distanță; o jachetă de ploaie de calitate este esențială aici.",
+                "en": "Watch the rain dimple the sea surface from a safe distance; a quality rain jacket is essential to enjoy this view."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Bonita",
+                "hu": "Cala Bonita",
+                "ro": "Cala Bonita",
+                "en": "Cala Bonita"
+              },
+              "tip_5lang": {
+                "de": "Diese schöne Bucht verwandelt sich bei Stürmen in eine wilde Meereslandschaft; suchen Sie unter Felsen Schutz.",
+                "hu": "Ez a gyönyörű öböl viharok idején vad tengeri tájjá változik; keress egy természetes sziklaperemet menedéknek.",
+                "ro": "Acest golf frumos devine un peisaj sălbatic în timpul furtunilor; găsiți un adăpost natural sub stânci.",
+                "en": "This beautiful cove transforms into a wild seascape during storms; find a natural overhang for temporary shelter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Strand erfordert warme Schichten gegen die Brise.\n\nDie Mittagssonne wärmt die Küstenwege angenehm für einen Spaziergang.\n\nNachmittags werden die Schatten auf dem Weg zur Cala Bonita schnell länger.\n\nDer Abend bricht früh gegen 17:00 Uhr an, was wärmere Kleidung erforderlich macht.",
+            "hu": "A csípős téli reggel a strandon meleg rétegeket kíván a tengeri szél ellen.\n\nA déli napsütés kellemesen felmelegíti a parti ösvényeket a sétához.\n\nDélután az árnyékok gyorsan megnyúlnak, ahogy a hűvös levegőben haladsz.\n\nAz este korán, 17:00 körül érkezik, extra ruházatot igényelve a lehűlés miatt.",
+            "ro": "O dimineață de iarnă geroasă la plajă cere haine groase contra brizei.\n\nSoarele amiezii încălzește plăcut potecile de coastă pentru o plimbare.\n\nDupă-amiaza umbrele se lungesc rapid pe măsură ce te apropii de Cala Bonita.\n\nSeara sosește devreme, în jur de 17:00, necesitând haine suplimentare.",
+            "en": "A crisp winter morning at the beach requires warm layers against the sea breeze.\n\nThe midday sun nicely warms the coastal paths for a pleasant stroll.\n\nAfternoon shadows lengthen quickly as you approach Cala Bonita in the cool air.\n\nEvening arrives early around 17:00, calling for extra clothing as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Charrana",
+                "hu": "Playa de Charrana",
+                "ro": "Playa de Charrana",
+                "en": "Playa de Charrana"
+              },
+              "tip_5lang": {
+                "de": "Die unberührte Winterküste ist friedlich; ziehen Sie sich warm an, um den kühlen Meereswind abzuwehren.",
+                "hu": "Az érintetlen téli part elhagyatott és békés; öltözz vastag rétegekbe a csípős óceáni szellő ellen.",
+                "ro": "Țărmul curat de iarnă este pustiu și pașnic; purtați straturi groase pentru a bloca briza rece a oceanului.",
+                "en": "The pristine winter shore is deserted and peaceful; dress in thick layers to block the chilly ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Charranes Beach",
+                "hu": "Charranes Beach",
+                "ro": "Charranes Beach",
+                "en": "Charranes Beach"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie an der kühlen Küste entlang, wo die Wintersonne lange Schatten wirft, perfekt für dramatische Fotos.",
+                "hu": "Sétálj a hűvös parton, ahol a téli nap hosszú árnyékokat vet, ami tökéletes a drámai fotózáshoz.",
+                "ro": "Plimbați-vă pe țărmul răcoros unde soarele de iarnă aruncă umbre lungi, perfect pentru fotografii dramatice.",
+                "en": "Stroll along the cool shoreline where the winter sun casts long shadows, making it perfect for dramatic photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Embarcadero",
+                "hu": "Embarcadero",
+                "ro": "Embarcadero",
+                "en": "Embarcadero"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich auf den Pier, um die Winterluft einzuatmen; bringen Sie eine Thermoskanne mit heißem Tee mit.",
+                "hu": "Állj meg a mólón, és szívd be a friss téli levegőt; hozz egy termosz forró teát, hogy melegen tartsd magad.",
+                "ro": "Stați pe debarcader pentru a respira aerul proaspăt de iarnă; aduceți un termos cu ceai fierbinte.",
+                "en": "Stand on the pier to inhale the crisp winter air; bring a thermos of hot tea to keep yourself warm while resting."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Salmonette",
+                "hu": "Plage Salmonette",
+                "ro": "Plage Salmonette",
+                "en": "Plage Salmonette"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht beleuchtet die Klippen wunderschön; eine warme Mütze und Handschuhe sind hier sehr zu empfehlen.",
+                "hu": "Az alacsony téli fény gyönyörűen megvilágítja a sziklás falakat; meleg sapka és kesztyű viselése erősen ajánlott.",
+                "ro": "Lumina joasă de iarnă iluminează frumos stâncile; purtarea unei căciuli și a mănușilor este foarte recomandată.",
+                "en": "The low winter light illuminates the rocky cliffs beautifully; wearing a warm hat and gloves is highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Bonita",
+                "hu": "Cala Bonita",
+                "ro": "Cala Bonita",
+                "en": "Cala Bonita"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang vor dem Sonnenuntergang um 17:00 Uhr, da die Temperaturen hier stark fallen.",
+                "hu": "Fejezd be a sétát a korai, 17:00 órai naplemente előtt, mivel a hőmérséklet hirtelen lecsökken ebben az öbölben.",
+                "ro": "Încheiați plimbarea înainte de apusul de la ora 17:00, deoarece temperaturile scad brusc în acest golf izolat.",
+                "en": "Conclude your walk before the early 17:00 sunset, as temperatures drop sharply in this picturesque, secluded cove."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a kerékpártúrát a félreeső Cala Cañaveral 2 partján, és élvezze a friss, sós tengeri levegőt. Tekerjen dél felé a Cala Cañaveralhoz, majd a festői Tramontana Beach felé. Délben a pezsgő Playa de Charrana tökéletes helyszín egy hosszabb pihenőre. Délután guruljon el az Embarcadero mellett, és zárja a napot a békés Cala Cazón öböl hűsítő vizénél.",
         "ro": "Începeți traseul cu bicicleta la retrasa Cala Cañaveral 2, bucurându-vă de briza sărată a mării. Pedalați spre sud către Cala Cañaveral și apoi la pitoreasca plajă Tramontana. La prânz, animata Playa de Charrana este locul ideal pentru o pauză relaxantă. După-amiaza treceți pe lângă Embarcadero și încheiați ziua perfect la apele liniștite din Cala Cazón.",
         "en": "Kick off your cycling journey at the secluded Cala Cañaveral 2, breathing in the fresh morning sea breeze. Ride southwards to the neighboring Cala Cañaveral and the scenic Tramontana Beach. At midday, the lively Playa de Charrana provides an ideal spot for a longer rest. In the afternoon, cycle past the Embarcadero and finish your day smoothly at the peaceful Cala Cazón."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die nasse Morgenfahrt vorsichtig, da die Wege rutschig sind.\n\nMittags ist die Küstenfahrt dramatisch, aber die Bremswege verlängern sich.\n\nNachmittags bei Schauern am Embarcadero ist eine gute Regenjacke Pflicht.\n\nDer Abend bringt Nebel; schalten Sie unbedingt Ihre Fahrradlichter ein.",
+            "hu": "Kezdd óvatosan a nedves reggeli tekerést, mert az öblök felé vezető utak csúszósak.\n\nDélben a parti kerékpározás drámai, de a fékút jelentősen megnő.\n\nDélutáni záporok idején az Embarcadero felé elengedhetetlen egy jó esőkabát.\n\nAz este ködöt és rossz látási viszonyokat hoz, ezért kapcsold be a lámpákat.",
+            "ro": "Începeți plimbarea umedă de dimineață cu grijă, potecile sunt alunecoase.\n\nLa prânz, pedalarea pe coastă este dramatică, dar distanța de frânare crește.\n\nDupă-amiaza, ploile de la Embarcadero necesită o pelerină de ploaie bună.\n\nSeara aduce ceață și vizibilitate redusă, așa că aprindeți luminile bicicletei.",
+            "en": "Start your wet morning ride carefully, as paths to the coves are slippery.\n\nMidday pedaling along the coast is dramatic, but braking distances increase.\n\nAfternoon showers at Embarcadero mean you should wear a good rain jacket.\n\nEvening brings mist and low visibility, so keep your bike lights flashing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cala Cañaveral 2",
+                "hu": "Cala Cañaveral 2",
+                "ro": "Cala Cañaveral 2",
+                "en": "Cala Cañaveral 2"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt mit tollen grauen Meereslandschaften, aber prüfen Sie Ihre Bremsen im rutschigen Schlamm.",
+                "hu": "Kezdd a nedves utat a lenyűgöző szürke tengeri tájjal, de korán ellenőrizd a fékeket a csúszós parti sár miatt.",
+                "ro": "Începeți plimbarea umedă aici cu peisaje marine gri, dar verificați frânele devreme din cauza noroiului alunecos.",
+                "en": "Begin your wet ride here with stunning gray seascapes, but check your brakes early as the coastal mud is slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cañaveral",
+                "hu": "Cala Cañaveral",
+                "ro": "Cala Cañaveral",
+                "en": "Cala Cañaveral"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die wilde Schönheit dieser Bucht; bewahren Sie Ihre Elektronik in einer wasserdichten Tasche auf.",
+                "hu": "Az eső felerősíti az öböl vad szépségét; tartsd az elektronikát száraz táskában, amíg megállsz gyönyörködni.",
+                "ro": "Ploaia amplifică frumusețea sălbatică a golfului; păstrați electronicele într-o pungă uscată cât timp admirați.",
+                "en": "The rain amplifies the wild beauty of this cove; keep your electronics in a dry bag while you pause to admire it."
+              }
+            },
+            {
+              "name": {
+                "de": "Tramontana Beach",
+                "hu": "Tramontana Beach",
+                "ro": "Tramontana Beach",
+                "en": "Tramontana Beach"
+              },
+              "tip_5lang": {
+                "de": "Der riesige Strand wirkt unter Regenwolken endlos; steigen Sie ab, wenn die Sandwege zu stark unter Wasser stehen.",
+                "hu": "A hatalmas strand végtelennek tűnik az esőfelhők alatt; szállj le a bringáról, ha a homokos utak túlságosan vizesek.",
+                "ro": "Plaja vastă pare nesfârșită sub norii de ploaie; coborâți de pe bicicletă dacă potecile de nisip devin prea inundate.",
+                "en": "The vast beach looks endless under rain clouds; dismount and walk your bike if the sandy paths become too waterlogged."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Charrana",
+                "hu": "Playa de Charrana",
+                "ro": "Playa de Charrana",
+                "en": "Playa de Charrana"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Mittelpunkt, um die stürmischen Wellen zu beobachten; gut sichtbare, wasserdichte Radkleidung ist wichtig.",
+                "hu": "Remek felezőpont a viharos hullámok megfigyelésére; a jól látható, vízálló kerékpáros felszerelés létfontosságú.",
+                "ro": "Un punct excelent pentru a privi valurile furtunoase; echipamentul de ciclism vizibil și impermeabil este vital.",
+                "en": "A great mid-point to watch the stormy waves; wearing highly visible, waterproof cycling gear is vital for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Embarcadero",
+                "hu": "Embarcadero",
+                "ro": "Embarcadero",
+                "en": "Embarcadero"
+              },
+              "tip_5lang": {
+                "de": "Nasses Holz und Stein an diesem Pier bieten Reifen keine Bodenhaftung, also parken Sie Ihr Rad und gehen Sie zu Fuß.",
+                "hu": "A régi móló nedves fája és köve nulla tapadást ad a gumiknak, ezért parkold le a bringát és gyalog nézz szét.",
+                "ro": "Lemnul și piatra umedă de aici nu oferă tracțiune, așa că parcați bicicleta în siguranță și explorați pe jos.",
+                "en": "Wet wood and stone at this old pier offer zero traction for tires, so park your bike safely and explore on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cazón",
+                "hu": "Cala Cazón",
+                "ro": "Cala Cazón",
+                "en": "Cala Cazón"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihr nasses Abenteuer an diesem geschützten Ort; holen Sie eine trockene Schicht aus Ihrem Rucksack.",
+                "hu": "Fejezd be a nedves kalandot ezen a védett helyen; vegyél elő egy meleg, száraz réteget a hátizsákból a visszaindulás előtt.",
+                "ro": "Terminați aventura umedă în acest loc adăpostit; luați un strat cald și uscat din rucsac înainte de a vă întoarce.",
+                "en": "Finish your wet adventure at this sheltered spot; grab a warm, dry layer from your backpack before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische morgendliche Winterfahrt erfordert winddichte Kleidung.\n\nMittags bietet sich ein kristallklarer Blick aufs Mittelmeer zum Radfahren.\n\nNachmittags sinken die Temperaturen, also in Bewegung bleiben, um warm zu bleiben.\n\nDer frühe Sonnenuntergang gegen 17:00 Uhr bedeutet, dass Sie rechtzeitig zurück sein müssen.",
+            "hu": "A friss téli reggeli tekerés szélálló rétegeket kíván a nap indításához.\n\nDélben kristálytiszta mediterrán kilátás nyílik, tökéletes a parti kerékpározáshoz.\n\nDélután a hőmérséklet csökken, folyamatosan mozogj, hogy melegen tartsd magad.\n\nA 17:00 körüli naplemente miatt még a teljes sötétség előtt fejezd be az utat.",
+            "ro": "O pedalare alertă de iarnă dimineața necesită straturi rezistente la vânt.\n\nLa prânz aveți vederi clare spre Mediterană, perfecte pentru ciclismul de coastă.\n\nDupă-amiaza temperaturile scad, așa că mișcați-vă pentru a vă încălzi.\n\nApusul în jurul orei 17:00 înseamnă că trebuie să terminați cursa înainte de întuneric.",
+            "en": "A brisk winter morning pedal demands windproof layers to start your day.\n\nMidday offers crystal-clear Mediterranean views perfect for coastal cycling.\n\nAfternoon temperatures drop near Cala Cazón, so keep moving to stay warm.\n\nEvening sunset around 17:00 means you must finish your ride before it gets pitch dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cala Cañaveral 2",
+                "hu": "Cala Cañaveral 2",
+                "ro": "Cala Cañaveral 2",
+                "en": "Cala Cañaveral 2"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie in der frischen Morgenluft; tragen Sie eine thermische Basisschicht für die Küstensteigungen.",
+                "hu": "Kezdd a tekerést a csípős reggeli levegőben; viselj termo aláöltözetet, hogy szabályozd a testhőd a parti emelkedőkön.",
+                "ro": "Începeți ciclismul în aerul proaspăt al dimineții; purtați un strat termic pentru a vă regla temperatura pe pante.",
+                "en": "Start cycling in the crisp morning air; wear a thermal base layer to regulate your body heat on the coastal inclines."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cañaveral",
+                "hu": "Cala Cañaveral",
+                "ro": "Cala Cañaveral",
+                "en": "Cala Cañaveral"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um die winterliche Klarheit des Wassers zu genießen; halten Sie Ihren Hals mit einem Tuch warm.",
+                "hu": "Tarts egy rövid pihenőt a Földközi-tenger éles téli tisztaságának élvezetéhez, egy csősállal melegen tartva a nyakad.",
+                "ro": "Faceți o scurtă pauză pentru a admira claritatea apei de iarnă, ținându-vă gâtul cald cu o eșarfă tubulară.",
+                "en": "Take a brief rest to enjoy the sharp winter clarity of the Mediterranean water, keeping your neck warm with a buff."
+              }
+            },
+            {
+              "name": {
+                "de": "Tramontana Beach",
+                "hu": "Tramontana Beach",
+                "ro": "Tramontana Beach",
+                "en": "Tramontana Beach"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Winterstrand ist perfekt für Fatbikes; der feste, kühle Sand bietet hervorragenden Halt und Tempo.",
+                "hu": "Az elhagyatott téli strand tökéletes a vastag kerekű kerékpározáshoz; a tömör, hűvös homok kiváló tapadást nyújt.",
+                "ro": "Plaja pustie de iarnă este perfectă pentru biciclete cu roți groase; nisipul rece și compact oferă aderență excelentă.",
+                "en": "The deserted winter beach is perfect for fat-tire cycling; the packed, cool sand offers excellent grip and speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Charrana",
+                "hu": "Playa de Charrana",
+                "ro": "Playa de Charrana",
+                "en": "Playa de Charrana"
+              },
+              "tip_5lang": {
+                "de": "Das kühle Wetter verhindert Überhitzung; halten Sie hier für einen Energieriegel und heißen Tee aus der Thermosflasche.",
+                "hu": "A hűvös idő megakadályozza a túlmelegedést tekerés közben; állj meg itt egy energiaszeletre és forró teára a termoszodból.",
+                "ro": "Vremea rece previne supraîncălzirea în timpul cursei; opriți aici pentru un baton energizant și ceai fierbinte.",
+                "en": "The cool weather prevents overheating during the ride; stop here for a quick energy bar and some hot tea from a flask."
+              }
+            },
+            {
+              "name": {
+                "de": "Embarcadero",
+                "hu": "Embarcadero",
+                "ro": "Embarcadero",
+                "en": "Embarcadero"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne unterstreicht den rustikalen Charme des Piers; der Küstenwind kann beißend sein, also Windjacke schließen.",
+                "hu": "A téli nap kiemeli a móló rusztikus varázsát; a parti szél metsző lehet, ezért húzd fel a széldzsekid cipzárját.",
+                "ro": "Soarele de iarnă evidențiază farmecul rustic al debarcaderului; vântul de coastă poate fi tăios, așa că închideți jacheta.",
+                "en": "The winter sun highlights the rustic charm of the pier; the coastal wind can be biting, so zip up your windbreaker."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cazón",
+                "hu": "Cala Cazón",
+                "ro": "Cala Cazón",
+                "en": "Cala Cazón"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor dem frühen Sonnenuntergang (17:00 Uhr) hier an; stellen Sie sicher, dass Ihre Fahrradlichter geladen sind.",
+                "hu": "Érkezz ide közvetlenül a korai, 17:00 órai naplemente előtt; ellenőrizd, hogy a bringa lámpái fel vannak-e töltve.",
+                "ro": "Ajungeți aici chiar înainte de apusul de la ora 17:00; asigurați-vă că luminile bicicletei sunt complet încărcate.",
+                "en": "Arrive here just before the early 17:00 sunset; ensure your bike's front and rear lights are fully charged for the return."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Festői autózása az északi Cala Cañaveral lenyűgöző partjánál kezdődik, mely tökéletes a csendes reggelekhez. Vezessen kényelmesen a népszerű Tramontana Beach felé egy kis napozásra. Délben a nyüzsgő Playa de Charrana és a közeli Charranes Beach nyújt felejthetetlen élményt. Délután folytassa útját a Plage Salmonette felé, végül pedig pihenjen meg a Cala Bonita partján.",
         "ro": "Plimbarea pitorească cu mașina începe la frumoasa Cala Cañaveral din nord, perfectă pentru dimineți liniștite. Conduceți apoi confortabil către populara Tramontana Beach pentru a vă bucura de soare. La prânz, Playa de Charrana și Charranes Beach vă așteaptă cu peisaje vii. După-amiaza vizitați Plage Salmonette, înainte de a încheia ziua într-o atmosferă relaxantă la Cala Bonita.",
         "en": "Your scenic coastal drive begins at the stunning Cala Cañaveral in the north, perfect for a quiet morning. Drive comfortably down to the popular Tramontana Beach to soak up some beautiful rays. By midday, the vibrant Playa de Charrana and nearby Charranes Beach await. In the afternoon, cruise down to Plage Salmonette before winding down your day completely at Cala Bonita."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Regenfahrt zur Cala Cañaveral hält Sie trocken im Auto.\n\nMittags können Sie kurze Spaziergänge an den felsigen Stränden wagen.\n\nNachmittags werden die Straßen schlammig, fahren Sie also langsam und vorsichtig.\n\nDer Abend naht mit dunklen Wolken; genießen Sie die Wellen aus dem warmen Auto.",
+            "hu": "Az esős reggeli vezetés a Cala Cañaveral felé szárazon tart a volán mögött.\n\nDélben tegyél rövid sétákat a sziklás strandokon a záporok közötti szünetekben.\n\nDélután az öblök körüli utak sarasak lehetnek, ezért vezess lassan és óvatosan.\n\nAz este sűrű fellegekkel közeledik; élvezd a morajló hullámokat a meleg autóból.",
+            "ro": "O plimbare matinală pe ploaie spre Cala Cañaveral vă ține uscat la volan.\n\nLa prânz, faceți scurte ieșiri pe plajele stâncoase între aversele de coastă.\n\nDupă-amiaza, drumurile devin noroioase, deci conduceți încet și cu atenție.\n\nSeara se apropie cu nori grei; admirați valurile din confortul mașinii calde.",
+            "en": "A morning rain drive to Cala Cañaveral keeps you dry behind the wheel.\n\nMidday, take quick dashes out to the rocky beaches between the coastal showers.\n\nAfternoon roads near the coves get muddy, so drive slowly and carefully.\n\nEvening approaches with heavy skies; enjoy the crashing waves from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cala Cañaveral",
+                "hu": "Cala Cañaveral",
+                "ro": "Cala Cañaveral",
+                "en": "Cala Cañaveral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Meer, um die stürmische, regnerische Aussicht auf die Bucht gemütlich aus dem Auto zu genießen.",
+                "hu": "Parkolj a tenger felé, hogy közvetlenül az autód kényelmes belsejéből élvezhesd az öböl viharos, eső áztatta látványát.",
+                "ro": "Parcați cu fața la mare pentru a vă bucura de priveliștile furtunoase ale golfului direct din interiorul confortabil al mașinii.",
+                "en": "Park facing the sea to enjoy the stormy, rain-swept views of the cove directly from the cozy interior of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tramontana Beach",
+                "hu": "Tramontana Beach",
+                "ro": "Tramontana Beach",
+                "en": "Tramontana Beach"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie mit einem robusten Regenschirm kurz hinaus, um den Regen auf dem Sand zu sehen, bevor Sie sich im Auto aufwärmen.",
+                "hu": "Ugorj ki egy erős esernyővel, hogy megnézd, ahogy az eső veri a hatalmas homokos partot, majd térj vissza a melegbe.",
+                "ro": "Ieșiți cu o umbrelă robustă pentru a vedea ploaia lovind nisipul vast înainte de a vă întoarce la căldura vehiculului.",
+                "en": "Dash out with a sturdy umbrella to see the rain hitting the vast stretch of sand before returning to the vehicle's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Charrana",
+                "hu": "Playa de Charrana",
+                "ro": "Playa de Charrana",
+                "en": "Playa de Charrana"
+              },
+              "tip_5lang": {
+                "de": "Der bewölkte Himmel erzeugt intensive Farben im Wasser; achten Sie beim Parken in der Nähe der Kante auf rutschigen Schlamm.",
+                "hu": "A drámai borult égbolt intenzív színeket teremt a vízben; ügyelj a csúszós sárra, ha a perem közelében parkolsz.",
+                "ro": "Cerul noros dramatic creează culori intense în apă; atenție la noroiul alunecos când parcați aproape de margine.",
+                "en": "The dramatic overcast sky creates intense colors in the water; be careful of slippery mud when parking near the edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Charranes Beach",
+                "hu": "Charranes Beach",
+                "ro": "Charranes Beach",
+                "en": "Charranes Beach"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Zufahrtsstraßen können bei starkem Regen tief ausgefahren sein, fahren Sie also langsam.",
+                "hu": "A földutak heves esőzéskor mélyen barázdáltak lehetnek, ezért haladj lassan, és értékeld a vad, nedves tájat.",
+                "ro": "Drumurile de acces din pământ pot deveni noroioase în ploaie abundentă, deci mergeți încet și apreciați peisajul.",
+                "en": "The dirt access roads can get deeply rutted in heavy rain, so proceed slowly and appreciate the wild, wet scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Salmonette",
+                "hu": "Plage Salmonette",
+                "ro": "Plage Salmonette",
+                "en": "Plage Salmonette"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster leicht herunter, um dem rhythmischen Klang des Regens auf dem Meer zuzuhören.",
+                "hu": "Húzd le kissé az ablakot, hogy hallgasd az óceánra hulló eső ritmikus hangját anélkül, hogy kilépnél a hidegbe.",
+                "ro": "Lăsați puțin geamul în jos pentru a auzi sunetul ploii căzând pe ocean fără a ieși afară în frig.",
+                "en": "Roll down the window slightly to hear the rhythmic sound of rain falling on the ocean without stepping out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Bonita",
+                "hu": "Cala Bonita",
+                "ro": "Cala Bonita",
+                "en": "Cala Bonita"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Regenfahrt und beobachten Sie die nebligen Klippen; achten Sie auf gute Reifenprofile für die Rückfahrt.",
+                "hu": "Fejezd be az esős utat a ködös sziklák megfigyelésével; ellenőrizd, hogy a gumik állapota megfelelő a biztonságos hazajutáshoz.",
+                "ro": "Terminați plimbarea ploioasă privind stâncile cețoase; asigurați-vă că anvelopele au un profil bun pentru drumul ud înapoi.",
+                "en": "End your rainy drive watching the misty cliffs; ensure your car's tires have good tread to safely navigate wet paths home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen mit einer Fahrt und nutzen Sie die Heizung.\n\nDie Mittagssonne macht das Aussteigen am Tramontana Beach sehr erfrischend.\n\nNachmittags gibt es fantastisches Licht für Fotos in den Küstenbuchten.\n\nDer Abend bricht schnell gegen 17:00 Uhr an, ideal für eine sichere Rückfahrt.",
+            "hu": "Kezdd a téli reggelt egy festői vezetéssel, használd a fűtést a kényelemért.\n\nA déli napsütésben a Tramontana strandon tett séta csípős, de nagyon frissítő.\n\nDélután lenyűgöző aranyórai fények várnak a parti öblök fotózásához.\n\nAz este 17:00-ra gyorsan leszáll, ideális alkalom a biztonságos visszaindulásra.",
+            "ro": "Începeți dimineața de iarnă cu un drum pitoresc, folosind căldura mașinii.\n\nSoarele amiezii face ca ieșirea la plaja Tramontana să fie rece, dar revigorantă.\n\nDupă-amiaza oferă o lumină aurie uimitoare pentru fotografiile de pe coastă.\n\nSeara cade rapid la ora 17:00, fiind momentul perfect pentru a conduce înapoi.",
+            "en": "Start the winter morning with a scenic drive, using the heater to stay cozy.\n\nMidday sunshine makes stepping out at Tramontana Beach brisk but very refreshing.\n\nAfternoon provides stunning golden-hour light for photos across the coastal coves.\n\nEvening falls quickly by 17:00, making it a perfect time to drive back safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cala Cañaveral",
+                "hu": "Cala Cañaveral",
+                "ro": "Cala Cañaveral",
+                "en": "Cala Cañaveral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Autoheizung, um sich aufzuwärmen, nachdem Sie die kühle Morgenluft an dieser Bucht genossen haben.",
+                "hu": "Használd az autófűtést, hogy felmelegedj, miután felfedezted a csípős, hűvös reggeli levegőt e lenyűgöző öböl körül.",
+                "ro": "Utilizați încălzirea mașinii pentru a vă încălzi după ce ați explorat aerul rece de dimineață în acest golf uimitor.",
+                "en": "Utilize the car heater to warm up after exploring the crisp, cool morning air around this stunning, quiet cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Tramontana Beach",
+                "hu": "Tramontana Beach",
+                "ro": "Tramontana Beach",
+                "en": "Tramontana Beach"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft unglaubliche Schatten über den Sand und bietet perfektes Licht für Fotos vom Straßenrand aus.",
+                "hu": "Az alacsony téli nap elképesztő árnyékokat vet a homokra, tökéletes megvilágítást nyújtva a fotókhoz közvetlenül az út széléről.",
+                "ro": "Soarele de iarnă aruncă umbre incredibile pe nisip, oferind lumina perfectă pentru fotografii chiar de la marginea drumului.",
+                "en": "The low winter sun casts incredible shadows across the sand, providing perfect lighting for photos right from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Charrana",
+                "hu": "Playa de Charrana",
+                "ro": "Playa de Charrana",
+                "en": "Playa de Charrana"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie für einen kurzen Spaziergang aus; ohne Menschenmassen können Sie das friedliche Rauschen der Wellen allein genießen.",
+                "hu": "Lépj ki egy rövid, frissítő sétára; a téli tömeg hiánya miatt teljesen egyedül élvezheted a hullámok békés hangját.",
+                "ro": "Ieșiți pentru o scurtă plimbare vioaie; lipsa aglomerației vă permite să vă bucurați complet singuri de sunetul valurilor.",
+                "en": "Step out for a short, brisk walk; the lack of winter crowds means you can enjoy the peaceful sound of the waves entirely alone."
+              }
+            },
+            {
+              "name": {
+                "de": "Charranes Beach",
+                "hu": "Charranes Beach",
+                "ro": "Charranes Beach",
+                "en": "Charranes Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Halt, um ein heißes Getränk aus der Thermoskanne zu genießen und den Möwen beim Tauchen zuzusehen.",
+                "hu": "Remek megálló, hogy élvezz egy forró italt az utazó termoszodból, miközben nézed, ahogy a sirályok a hideg vízbe vetődnek.",
+                "ro": "Un loc excelent pentru a savura o băutură caldă din termos în timp ce priviți pescărușii plonjând în apele reci de iarnă.",
+                "en": "A great stop to enjoy a hot drink from your travel thermos while watching the seagulls dive into the chilly winter waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Salmonette",
+                "hu": "Plage Salmonette",
+                "ro": "Plage Salmonette",
+                "en": "Plage Salmonette"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie eine dicke Jacke auf dem Beifahrersitz für schnelle Fotostopps bereit, da die Küstenbrise hier scharf ist.",
+                "hu": "Tarts egy vastag kabátot az anyósülésen a gyors fotós megállókhoz, mivel a parti szél itt különösen metsző.",
+                "ro": "Păstrați o jachetă groasă pe scaunul pasagerului pentru opriri rapide, deoarece briza de coastă este deosebit de tăioasă.",
+                "en": "Keep a thick jacket handy on the passenger seat for quick photo stops, as the coastal breeze here is particularly sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Bonita",
+                "hu": "Cala Bonita",
+                "ro": "Cala Bonita",
+                "en": "Cala Bonita"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht gegen 17:00 Uhr unter; planen Sie Ihren Besuch so, dass Sie den feurigen Winterhimmel vor der Kälte sehen.",
+                "hu": "A nap 17:00 körül kezd lenyugodni; időzítsd úgy a látogatást, hogy elkapd a tüzes téli eget, mielőtt erősen lehűl a levegő.",
+                "ro": "Soarele începe să apună în jur de 17:00; sincronizați-vă vizita pentru a prinde cerul de iarnă înainte ca temperatura să scadă.",
+                "en": "The sun begins to set around 17:00; time your visit to catch the fiery winter sky before the temperature drops significantly."
+              }
+            }
+          ]
+        }
       }
     }
   }

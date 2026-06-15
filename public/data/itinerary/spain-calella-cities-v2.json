@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az egyedülálló Turisztikai Múzeumban, majd csodálja meg a Casa del 1905 modernista homlokzatát. Délben pihenjen meg a Platja de Garbí aranyló homokján, amely tökéletes a feltöltődésre. Délután látogasson el az ikonikus Far de Calella világítótoronyhoz a lenyűgöző kilátásért. Az estét a félreeső Platja de les Roques csendes öblében zárhatja.",
         "ro": "Începeți dimineața descoperind unicul Muzeu al Turismului, apoi admirați fațada modernistă a Casei din 1905. La prânz, relaxați-vă pe nisipul auriu al plajei Platja de Garbí pentru a vă reîncărca bateriile. După-amiaza vă poartă la emblematicul far Far de Calella pentru vederi panoramice. Încheiați seara liniștit, în golful retras Platja de les Roques.",
         "en": "Start your morning discovering the unique Tourism Museum before strolling south to admire the modernist facade of Casa del 1905. By midday, relax on the golden sands of Platja de Garbí, a perfect spot to recharge. The afternoon brings you up to the iconic Far de Calella for sweeping Mediterranean views. Conclude your evening unwinding at the secluded Platja de les Roques."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Tourismusmuseum, ideal bei Regen. Mittags bewundern wir die Fassade der Casa del 1905 unter dem Schirm. Nachmittags beobachten wir die stürmische See am Platja de Garbí von einem geschützten Platz aus. Der Tag endet am Leuchtturm, wobei der Aufstieg bei Nässe Vorsicht erfordert. Die Stadt wirkt im Regen besonders ruhig und melancholisch schön.",
+            "hu": "A reggelt a Turisztikai Múzeumban kezdjük, amely kiváló fedett program esőben. Délben az 1905-ös ház díszes homlokzatát csodáljuk meg egy esernyő alól. Délután a Platja de Garbí hullámait nézzük a sétány védettebb pontjairól. Az estét a világítótoronynál zárjuk; a felvezető út ilyenkor csúszós lehet, így csak lassan haladjunk a párás, tengeri levegőben.",
+            "ro": "Dimineața începe la Muzeul Turismului, un refugiu perfect împotriva ploii. La prânz admirăm arhitectura Casei din 1905 protejați de umbrelă. După-amiaza privim marea agitată de pe Platja de Garbí dintr-un punct acoperit. Seara se încheie la far, unde drumul de acces poate fi alunecos; marea în ceață oferă un peisaj dramatic și memorabil sub lumina intermitentă a farului.",
+            "en": "Start the morning at the Tourism Museum, a perfect indoor sanctuary. At noon, admire the 1905 House facade from beneath your umbrella. In the afternoon, watch the crashing waves at Platja de Garbí from a sheltered spot. End the day at the lighthouse; the path can be slippery when wet, so walk carefully while enjoying the moody, misty coastal atmosphere before the evening sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu del Turisme de Calella",
+                "hu": "Museu del Turisme de Calella",
+                "ro": "Museu del Turisme de Calella",
+                "en": "Museu del Turisme de Calella"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die umfassende Ausstellung als idealen Regenschutz und erfahren Sie alles über die lokale Geschichte; bringen Sie eine Jacke für die Klimaanlage mit.",
+                "hu": "Használja ki a múzeum fedett tereit az eső elől, és merüljön el a turizmus történetében; a ruhatárban leadhatja vizes esernyőjét a kényelmes nézelődéshez.",
+                "ro": "Profită de spațiul interior generos pentru a te adăposti de ploaie în timp ce explorezi istoria turismului; poți lăsa umbrela la intrare pentru o vizită relaxantă.",
+                "en": "Use the extensive indoor exhibits as a perfect escape from the rain while learning about local history; check the cloakroom to leave your wet umbrella behind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del 1905",
+                "hu": "Casa del 1905",
+                "ro": "Casa del 1905",
+                "en": "Casa del 1905"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernistische Architektur von der gegenüberliegenden Straßenseite unter einem Vordach, um die Details der Fassade trotz Regen gut zu sehen.",
+                "hu": "Csodálja meg a modernista épület részleteit a szemközti oldal védettebb erereszei alól, így az eső ellenére is kényelmesen fotózhatja a különleges homlokzatot.",
+                "ro": "Admiră detaliile arhitecturii moderniste de sub un acoperiș de pe partea opusă a străzii pentru a vedea fațada clar, chiar și în timpul unei ploi torențiale.",
+                "en": "Admire the modernist architectural details from a sheltered doorway across the street to get a clear view of the facade without getting your camera lens wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Garbí",
+                "hu": "Platja de Garbí",
+                "ro": "Platja de Garbí",
+                "en": "Platja de Garbí"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Ufer ist bei Regen erfrischend; tragen Sie wasserfeste Schuhe, da der Sand nass schwer passierbar ist und Pfützen auf der Promenade entstehen.",
+                "hu": "Az esős tengerparti séta frissítő élmény; viseljen vízálló cipőt, mert a homok ilyenkor mélyebb, és a sétányon nagyobb tócsák alakulhatnak ki a szél miatt.",
+                "ro": "O plimbare pe malul mării în ploaie este revigorantă; poartă încălțăminte impermeabilă deoarece nisipul ud este greu de parcurs și se formează bălți mari.",
+                "en": "A rainy walk along the shore is refreshing; wear waterproof shoes as the wet sand is heavy and puddles often form quickly on the main promenade area."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Calella",
+                "hu": "Far de Calella",
+                "ro": "Far de Calella",
+                "en": "Far de Calella"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das neblige Meer ist vom Leuchtturm aus mystisch; halten Sie sich an den Geländern fest, da die Steinstufen bei Nässe extrem rutschig sind.",
+                "hu": "A ködös tenger látványa misztikus a világítótoronytól; kapaszkodjon a korlátokba, mert a kőlépcsők rendkívül csúszóssá válnak a párás, esős időben.",
+                "ro": "Vederea mării în ceață este mistică de la far; ține-te de balustrade deoarece treptele de piatră devin extrem de alunecoase din cauza umidității ridicate.",
+                "en": "The view of the misty sea is mystical from the lighthouse; hold onto the railings as the stone steps become extremely slippery in the humid, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de les Roques",
+                "hu": "Platja de les Roques",
+                "ro": "Platja de les Roques",
+                "en": "Platja de les Roques"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen bieten einen dramatischen Anblick bei Regen; bleiben Sie auf den befestigten Wegen, um nicht auf den nassen Klippen den Halt zu verlieren.",
+                "hu": "A sziklák drámai látványt nyújtanak az esőben; maradjon a kijelölt ösvényeken, és kerülje a közvetlen sziklákra mászást, mert azok ilyenkor életveszélyesen csúsznak.",
+                "ro": "Stâncile oferă o priveliște dramatică în ploaie; rămâi pe potecile pavate pentru a nu aluneca pe pietrele ude și evită apropierea prea mare de marginea apei.",
+                "en": "The rocks offer a dramatic sight in the rain; stay on the paved paths to avoid slipping on the wet stones and keep a safe distance from the crashing waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt im Museum, wo es angenehm warm ist. Mittags nutzen wir die milde spanische Wintersonne für einen Stadtbummel zur Casa del 1905. Nachmittags weht eine frische Brise am Strand von Garbí, ideal für einen zügigen Spaziergang. Der Sonnenuntergang am Leuchtturm gegen 17:00 Uhr ist das Highlight, bevor es schnell abkühlt. Warme Schichten sind hierbei unerlässlich.",
+            "hu": "A tiszta téli reggelt a fűtött múzeumban indítjuk, elkerülve a reggeli csípős levegőt. Délben a lágy téli napsütésben sétálunk el az 1905-ös házig. Délután a Garbí strandon a friss tengeri szélben teszünk egy élénkítő kört. A naplemente a világítótoronynál 17 óra körül a legszebb; utána a hőmérséklet gyorsan esik, így érdemes rétegesen öltözködni és sapkát vinni.",
+            "ro": "O dimineață senină de iarnă începe la muzeu, unde este cald și bine. La prânz profităm de soarele blând pentru o plimbare spre Casa din 1905. După-amiaza briza rece de pe plaja Garbí este perfectă pentru o plimbare energică. Apusul de la far, în jurul orei 17:00, este momentul culminant înainte ca temperatura să scadă brusc. Hainele groase în straturi sunt obligatorii.",
+            "en": "Start a clear winter morning in the cozy warmth of the museum. At noon, enjoy the mild Spanish winter sun with a stroll to the 1905 House. In the afternoon, the brisk sea breeze at Garbí beach is perfect for an invigorating walk. The sunset at the lighthouse around 5:00 PM is the day's highlight; prepare for the temperature to drop quickly afterwards by wearing warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu del Turisme de Calella",
+                "hu": "Museu del Turisme de Calella",
+                "ro": "Museu del Turisme de Calella",
+                "en": "Museu del Turisme de Calella"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren und nehmen Sie sich Zeit für die Exponate; die Wintermonate sind ideal, um den Massen zu entgehen.",
+                "hu": "Élvezze a belső terek kellemes melegét, és szánjon időt a kiállításokra; a téli hónapok ideálisak a tömeg elkerülésére és a nyugodt nézelődésre.",
+                "ro": "Bucură-te de căldura din interior și acordă-ți timp pentru exponate; lunile de iarnă sunt ideale pentru a evita aglomerația și a vizita în liniște.",
+                "en": "Enjoy the cozy indoor warmth and take your time with the exhibits; winter months are perfect for avoiding crowds and exploring the museum in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del 1905",
+                "hu": "Casa del 1905",
+                "ro": "Casa del 1905",
+                "en": "Casa del 1905"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht im Winter betont die Texturen der modernistischen Fassade besonders schön; ideal für Fotografen am späten Vormittag.",
+                "hu": "A téli nap alacsony állása gyönyörűen kiemeli a modernista homlokzat textúráit; a késő délelőtti órák a legalkalmasabbak a részletek fotózására.",
+                "ro": "Lumina joasă a soarelui de iarnă evidențiază superb texturile fațadei moderniste; este momentul ideal pentru fotografii la sfârșitul dimineții.",
+                "en": "The low winter sun beautifully highlights the textures of the modernist facade; late morning is the perfect time for photographers to capture the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Garbí",
+                "hu": "Platja de Garbí",
+                "ro": "Platja de Garbí",
+                "en": "Platja de Garbí"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast leer und friedlich; tragen Sie eine winddichte Jacke, da der Tramuntana-Wind hier recht kräftig wehen kann.",
+                "hu": "A strand télen szinte üres és békés; viseljen szélálló kabátot, mert a Tramuntana szél ilyenkor felerősödhet, és a homok hidegebbnek érződik.",
+                "ro": "Plaja este aproape goală și liniștită iarna; poartă o jachetă rezistentă la vânt deoarece briza poate fi destul de tăioasă pe malul mării.",
+                "en": "The beach is almost empty and peaceful in winter; wear a windbreaker as the Tramuntana wind can be quite strong and the air feels much cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Calella",
+                "hu": "Far de Calella",
+                "ro": "Far de Calella",
+                "en": "Far de Calella"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr für den Sonnenuntergang; oben ist es deutlich kühler als im Ort, daher sind Handschuhe und Schal sehr empfehlenswert.",
+                "hu": "Érkezzen 17:00 óra előtt a naplemente megtekintéséhez; a toronynál sokkal hűvösebb van, mint a városban, így a sál és kesztyű erősen ajánlott.",
+                "ro": "Sosește înainte de ora 17:00 pentru apus; sus este mult mai frig decât în oraș, așa că eșarfa și mănușile sunt foarte recomandate pentru confort.",
+                "en": "Arrive before 5:00 PM to catch the sunset; it is significantly colder at the lighthouse than in town, so a scarf and gloves are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de les Roques",
+                "hu": "Platja de les Roques",
+                "ro": "Platja de les Roques",
+                "en": "Platja de les Roques"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern im Winter kaum Wärme; genießen Sie die klare Sicht bis zum Horizont, aber kehren Sie vor Einbruch der frühen Dunkelheit um.",
+                "hu": "A sziklák télen nem tartják meg a hőt; élvezze a tiszta kilátást a horizontig, de induljon vissza a korai sötétedés előtt a biztonságos úton.",
+                "ro": "Stâncile nu rețin căldura iarna; bucură-te de vizibilitatea clară până la orizont, dar întoarce-te înainte de lăsarea întunericului, care vine devreme.",
+                "en": "The rocks don't hold any heat in winter; enjoy the crystal-clear views to the horizon, but head back before the early darkness sets in for safety."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros napot a történelmi Teatre Orfeó Calellencnél, majd fedezze fel a Turisztikai Múzeumot. Délben tekerjen a tengerparton az ikonikus Far de Calella világítótoronyhoz, ahonnan lélegzetelállító a kilátás. Délután fedezze fel a Torretes de telegrafia òptica történelmi romjait. Az estét a festői és nyugodt Cala de la Vinyeta öbölben pihenheti ki.",
         "ro": "Începeți ziua de ciclism la istoricul Teatre Orfeó Calellenc înainte de a explora istoria vacanțelor la Muzeul Turismului. Pedalați la prânz pe coastă pentru a ajunge la Far de Calella și a admira oceanul. După-amiaza, urcați pentru a explora ruinele istorice ale Torretes de telegrafia òptica. Relaxați-vă seara în peisajul liniștit oferit de Cala de la Vinyeta.",
         "en": "Kick off your cycling day at the historic Teatre Orfeó Calellenc before diving into the town's holiday history at the Tourism Museum. Ride along the breezy coast at midday to reach the iconic Far de Calella for breathtaking ocean vistas. In the afternoon, pedal further up to explore the historic Torretes de telegrafia òptica ruins. Wind down your evening at the tranquil Cala de la Vinyeta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Theater, wo wir das Fahrrad im Trockenen abstellen. Weiter geht es zum Museum für eine ausgiebige Pause. Die Fahrt zum Leuchtturm erfordert bei Regen wegen der Steigung und rutschiger Wege volle Konzentration. Nachmittags erkunden wir die Telegrafentürme im Nieselregen, bevor wir den Tag an der Cala de la Vinyeta ausklingen lassen. Schutzbleche sind heute Pflicht.",
+            "hu": "A napot a színháznál kezdjük, ahol fedett helyen parkolhatunk. Ezután a múzeumba tekerünk egy hosszabb látogatásra. A világítótoronyhoz vezető emelkedő esőben nagyobb figyelmet igényel a csúszós aszfalt miatt. Délután a távírótornyokat keressük fel a szemerkélő esőben, végül a Cala de la Vinyeta öbölnél zárunk. Sárvédő és vízálló nadrág használata erősen ajánlott.",
+            "ro": "Ziua începe la teatru, unde putem lăsa bicicleta la adăpost. Continuăm spre muzeu pentru o pauză lungă de explorare. Drumul spre far necesită concentrare maximă pe ploaie din cauza pantei și a asfaltului umed. După-amiaza vizităm turnurile de telegrafie în burniță, terminând la Cala de la Vinyeta. Apărătorile de noroi sunt esențiale pentru a rămâne uscat.",
+            "en": "Start at the theater, where you can park your bike in a dry spot. Pedal to the museum for an extended indoor break. The ride to the lighthouse requires full concentration in the rain due to the incline and slippery roads. In the afternoon, explore the telegraph towers in the drizzle before finishing at Cala de la Vinyeta. Mudguards and waterproof gear are essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatre Orfeó Calellenc",
+                "hu": "Teatre Orfeó Calellenc",
+                "ro": "Teatre Orfeó Calellenc",
+                "en": "Teatre Orfeó Calellenc"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Nähe des Eingangs unter einem Dach; das Theater bietet einen hervorragenden kulturellen Start in einen verregneten Tag.",
+                "hu": "Parkoljon a bejárat közeli fedett részen; a színház kiváló kulturális menedéket nyújt az esős reggelen, amíg várunk az idő jobbra fordulására.",
+                "ro": "Parchează bicicleta sub un acoperiș lângă intrare; teatrul oferă un refugiu cultural excelent în diminețile ploioase până când se mai oprește ploaia.",
+                "en": "Park your bike under a nearby shelter; the theater provides an excellent cultural refuge during a rainy morning while waiting for a break in the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu del Turisme de Calella",
+                "hu": "Museu del Turisme de Calella",
+                "ro": "Museu del Turisme de Calella",
+                "en": "Museu del Turisme de Calella"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Trockenpause; prüfen Sie Ihre Bremsen, bevor Sie die Weiterfahrt auf den nassen Straßen antreten.",
+                "hu": "Használja ki a múzeumi látogatást egy hosszabb pihenőre; ellenőrizze a fékeket indulás előtt, mert a vizes úton hosszabb lesz a féktávolság.",
+                "ro": "Folosește vizita la muzeu pentru o pauză lungă de uscare; verifică frânele înainte de a pleca din nou la drum pe străzile umede și alunecoase.",
+                "en": "Use the museum visit for a long dry break; check your brakes before heading out again, as stopping distances increase significantly on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Calella",
+                "hu": "Far de Calella",
+                "ro": "Far de Calella",
+                "en": "Far de Calella"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bergauf besonders vorsichtig, da das Hinterrad auf nassem Asphalt durchdrehen kann; die Aussicht auf die stürmische Küste lohnt die Mühe.",
+                "hu": "Tekerjen óvatosan felfelé, mert a hátsó kerék kipöröghet a vizes aszfalton; a viharos tenger látványa a toronytól kárpótolja majd a fáradozásért.",
+                "ro": "Urcă panta cu atenție deoarece roata din spate poate patina pe asfaltul ud; vederea mării agitate de lângă far merită tot efortul depus pe ploaie.",
+                "en": "Pedal uphill carefully as the rear wheel might slip on wet asphalt; the view of the stormy coastline from the lighthouse is well worth the wet climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretes de telegrafia òptica",
+                "hu": "Torretes de telegrafia òptica",
+                "ro": "Torretes de telegrafia òptica",
+                "en": "Torretes de telegrafia òptica"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Türmen kann schlammig sein; meiden Sie Pfützen, um die Mechanik Ihres Fahrrads vor Schmutz und Korrosion durch Salzwasser zu schützen.",
+                "hu": "A tornyokhoz vezető út saras lehet; kerülje a mély tócsákat, hogy megvédje a kerékpár láncát és váltóját a sós permettől és a sártól.",
+                "ro": "Drumul spre turnuri poate fi noroios; evită bălțile adânci pentru a proteja transmisia bicicletei de noroi și de coroziunea cauzată de sarea marină.",
+                "en": "The path to the towers can be muddy; avoid deep puddles to protect your bike's drivetrain from mud and potential corrosion from the salty sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de la Vinyeta",
+                "hu": "Cala de la Vinyeta",
+                "ro": "Cala de la Vinyeta",
+                "en": "Cala de la Vinyeta"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht ist bei Regen tückisch; bremsen Sie frühzeitig und genießen Sie die Einsamkeit an diesem normalerweise belebten Ort.",
+                "hu": "Az öbölhöz vezető lejtő trükkös lehet esőben; fékezzen időben, és élvezze a magányos tengerparti pillanatokat, mielőtt teljesen elázna.",
+                "ro": "Coborârea spre golf este înșelătoare pe ploaie; frânează din timp și bucură-te de singurătatea plajei înainte de a te întoarce spre oraș.",
+                "en": "The descent to the cove is tricky in the rain; brake early and enjoy the rare solitude of the beach before the early evening rain intensifies."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt kulturell im Theater. Nach dem Museumsbesuch nutzen wir die Mittagssonne für die Fahrt zum Leuchtturm, wo der Wind kräftig wehen kann. Die Telegrafentürme bieten eine tolle Aussicht in der klaren Winterluft. Der Tag endet an der Cala de la Vinyeta kurz vor Sonnenuntergang um 17:00 Uhr. Handschuhe sind für die Abfahrten ein absolutes Muss.",
+            "hu": "A friss téli reggelt kulturális programmal indítjuk a színházban. A múzeumi látogatás után kihasználjuk a déli napsütést a világítótoronyhoz való tekeréshez, ahol ilyenkor erős szél fújhat. A távírótornyok tiszta téli levegőben nyújtanak legjobb kilátást. A napot a Cala de la Vinyeta öbölnél zárjuk a 17 órai naplemente előtt. Kesztyű viselése a lejtőkön kötelező.",
+            "ro": "O dimineață răcoroasă de iarnă începe cultural la teatru. După vizita la muzeu, profităm de soarele de la prânz pentru a urca la far, unde vântul poate fi puternic. Turnurile de telegrafie oferă cea mai clară panoramă în aerul rece de iarnă. Ziua se încheie la Cala de la Vinyeta înainte de apusul de la ora 17:00. Mănușile sunt obligatorii pentru coborâri.",
+            "en": "Start a crisp winter morning with a cultural visit to the theater. After the museum, use the midday sun for the ride up to the lighthouse, where it can be quite windy. The telegraph towers offer the clearest views in the cold winter air. Finish at Cala de la Vinyeta just before the 5:00 PM sunset. Gloves are an absolute must for the chilly downhill sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatre Orfeó Calellenc",
+                "hu": "Teatre Orfeó Calellenc",
+                "ro": "Teatre Orfeó Calellenc",
+                "en": "Teatre Orfeó Calellenc"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor Sie die Radtour starten; die Morgenstunden im Winter sind perfekt für kulturelle Aktivitäten ohne Hitze.",
+                "hu": "Melegedjen fel a belső térben a bringázás megkezdése előtt; a téli reggelek kiválóak a kulturális programokhoz, amíg kint még csípős a levegő.",
+                "ro": "Încălzește-te în interior înainte de a începe tura cu bicicleta; diminețile de iarnă sunt perfecte pentru cultură până se mai încălzește afară.",
+                "en": "Warm up inside before starting your ride; winter mornings are excellent for cultural activities while the outside air is still quite nippy."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu del Turisme de Calella",
+                "hu": "Museu del Turisme de Calella",
+                "ro": "Museu del Turisme de Calella",
+                "en": "Museu del Turisme de Calella"
+              },
+              "tip_5lang": {
+                "de": "Der Museumsbesuch bietet eine willkommene Pause vom kalten Fahrtwind; nutzen Sie die Zeit, um sich für die Bergauffahrt zum Leuchtturm zu stärken.",
+                "hu": "A múzeumi látogatás kellemes pihenő a hideg menetszél után; használja ki az időt a felkészülésre a világítótoronyhoz vezető szeles emelkedőre.",
+                "ro": "Vizita la muzeu oferă o pauză binevenită de la vântul rece de pe bicicletă; profită de timpul petrecut aici pentru a te reîncărca cu energie.",
+                "en": "The museum visit provides a welcome break from the cold wind; use this time to recharge before the windy uphill climb to the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Calella",
+                "hu": "Far de Calella",
+                "ro": "Far de Calella",
+                "en": "Far de Calella"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Leuchtturm ist im Winter oft sehr schneidig; eine Ohrenbedeckung unter dem Helm hilft gegen das Auskühlen während der Rast.",
+                "hu": "A szél a világítótoronynál télen gyakran metsző; egy vékony sapka vagy fülvédő a sisak alatt segít elkerülni a kihűlést a kilátás élvezete közben.",
+                "ro": "Vântul de la far este adesea tăios iarna; o protecție pentru urechi sub cască te va ajuta să nu răcești în timp ce admiri panorama costieră.",
+                "en": "The wind at the lighthouse is often biting in winter; a thin cap or ear warmers under your helmet will prevent chills while you enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Torretes de telegrafia òptica",
+                "hu": "Torretes de telegrafia òptica",
+                "ro": "Torretes de telegrafia òptica",
+                "en": "Torretes de telegrafia òptica"
+              },
+              "tip_5lang": {
+                "de": "Die Sichtweite ist an klaren Wintertagen am besten; achten Sie auf den Untergrund, da gefrorener Tau auf schattigen Wegen glatt sein kann.",
+                "hu": "A látótávolság tiszta téli napokon a legjobb; figyeljen az útra, mert az árnyékos részeken a zúzmara vagy dér csúszóssá teheti az ösvényt.",
+                "ro": "Vizibilitatea este maximă în zilele senine de iarnă; atenție la drum, deoarece chiciura din zonele umbrite poate face poteca alunecoasă.",
+                "en": "Visibility is best on clear winter days; watch the ground as frozen dew or frost in shaded areas can make the path surprisingly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de la Vinyeta",
+                "hu": "Cala de la Vinyeta",
+                "ro": "Cala de la Vinyeta",
+                "en": "Cala de la Vinyeta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die letzten Sonnenstrahlen vor 17:00 Uhr; ziehen Sie für die Rückfahrt in die Stadt eine zusätzliche Schicht über, da es rasch abkühlt.",
+                "hu": "Élvezze az utolsó napsugarakat 17:00 előtt; vegyen fel még egy réteget a városba való visszatekeréshez, mert naplemente után hirtelen lehűl.",
+                "ro": "Bucură-te de ultimele raze de soare înainte de ora 17:00; pune o haină în plus pentru drumul de întoarcere deoarece temperatura scade brusc.",
+                "en": "Enjoy the last rays of sun before 5:00 PM; put on an extra layer for the ride back to town as the temperature drops sharply after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autózzon fel korán a Turó d'en Maresme-re, majd a Puig de Popa felé, hogy megismerje a vidék vadregényes tájait. Délben ereszkedjen le a városba, és csodálja meg a Casa del 1905 lenyűgöző modernista építészetét. Délután pihenjen a Platja del Morer csendes és családbarát partjainál. A napot a békés la Platjola strandon zárhatja a naplemente kíséretében.",
         "ro": "Conduceți dimineața devreme spre Turó d'en Maresme, apoi spre Puig de Popa pentru a explora peisajele naturale accidentate. La prânz, coborâți în oraș pentru a admira arhitectura modernistă uluitoare a Casei din 1905. Petreceți după-amiaza relaxându-vă pe malurile liniștite de la Platja del Morer. Încheiați ziua admirând apusul pe plaja retrasă la Platjola.",
         "en": "Drive up early to Turó d'en Maresme for fresh morning air, then navigate to Puig de Popa to experience the area's rugged natural landscape. By midday, head down into town to admire the stunning modernist architecture of Casa del 1905. Spend your afternoon relaxing by the calm, family-friendly waters of Platja del Morer. Finish your day watching the sunset at the serene la Platjola."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt in die nebligen Hügel zum Turó d'en Maresme. Die Aussicht vom Puig de Popa ist bei Regen besonders dramatisch. Mittags besuchen wir die Casa del 1905, wo wir direkt vor der Tür parken können. Nachmittags genießen wir die Küstenfahrt zum Platja del Morer und la Platjola, wobei wir das Meer gemütlich aus dem trockenen Auto beobachten. Scheibenwischer auf Maximum!",
+            "hu": "A napot ködös dombok közötti autózással indítjuk a Turó d'en Maresme felé. A Puig de Popa kilátása esőben különösen drámai képet fest a partról. Délben az 1905-ös házat keressük fel, ahol kényelmesen, az épület közelében parkolhatunk. Délután a Platja del Morer és la Platjola partján autózunk, a viharos tengert a fűtött, száraz utastérből csodálva. Figyeljünk a vízátfolyásokra!",
+            "ro": "Ziua începe cu o călătorie prin dealurile înceoșate spre Turó d'en Maresme. Panorama de la Puig de Popa este dramatică pe ploaie. La prânz vizităm Casa din 1905, unde putem parca aproape de intrare. După-amiaza ne bucurăm de drumul de coastă spre Platja del Morer și la Platjola, admirând marea din confortul mașinii. Atenție sporită la acvaplanare pe drumurile umede.",
+            "en": "Start the day with a drive into the misty hills towards Turó d'en Maresme. The view from Puig de Popa is especially dramatic in the rain. At noon, visit the 1905 House, parking conveniently close to the entrance. In the afternoon, enjoy the coastal drive to Platja del Morer and la Platjola, watching the stormy sea from the dry comfort of your car. Keep your wipers on high speed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turó d'en Maresme",
+                "hu": "Turó d'en Maresme",
+                "ro": "Turó d'en Maresme",
+                "en": "Turó d'en Maresme"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick durch die Scheibe; die Wolken hängen hier oft tief und wirken sehr imposant.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a kilátást a szélvédőn keresztül; a felhők itt gyakran alacsonyan szállnak, ami lenyűgöző látvány.",
+                "ro": "Rămâi în mașină în caz de ploaie torențială și admiră peisajul prin parbriz; norii joși de pe dealuri creează o atmosferă foarte impunătoare.",
+                "en": "Stay in your car during heavy downpours and enjoy the view through the windshield; the low-hanging clouds here create a very imposing atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Popa",
+                "hu": "Puig de Popa",
+                "ro": "Puig de Popa",
+                "en": "Puig de Popa"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Nässe rutschig sein; parken Sie sicher am Rand und nutzen Sie eine Regenpause für ein schnelles Foto der nebligen Küste.",
+                "hu": "A felvezető út vizesen csúszós lehet; parkoljon biztonságosan, és használja ki az esőmentes perceket a ködös partvidék gyors lefotózására.",
+                "ro": "Drumul de acces poate fi alunecos; parchează în siguranță și profită de o pauză de ploaie pentru o fotografie rapidă a coastei pline de ceață.",
+                "en": "The access road can be slippery when wet; park safely and take advantage of any break in the rain for a quick photo of the misty coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del 1905",
+                "hu": "Casa del 1905",
+                "ro": "Casa del 1905",
+                "en": "Casa del 1905"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der blauen Zone direkt davor, um den Weg im Regen kurzzuhalten; das Haus ist ein tolles Motiv für „Moody“-Aufnahmen.",
+                "hu": "Keressen parkolóhelyet a kék zónában közvetlenül az épület előtt, hogy ne kelljen sokat áznia; a ház kiváló téma a hangulatos, esős fotókhoz.",
+                "ro": "Caută un loc de parcare în zona albastră chiar în față pentru a minimiza timpul petrecut în ploaie; casa este un subiect perfect pentru poze cu atmosferă.",
+                "en": "Look for a parking spot in the blue zone right in front to minimize time spent in the rain; the house is a great subject for moody, rainy photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Morer",
+                "hu": "Platja del Morer",
+                "ro": "Platja del Morer",
+                "en": "Platja del Morer"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer und lassen Sie die Heizung laufen, während Sie die Wellen beobachten; ideal, um trocken die Natur zu erleben.",
+                "hu": "Parkoljon a tengerre néző helyen, és hagyja menni a fűtést, miközben a hullámokat figyeli; ideális módja a természet élvezetének beázás nélkül.",
+                "ro": "Parchează cu fața spre mare și lasă căldura pornită în timp ce privești valurile; este modul ideal de a experimenta natura fără a te uda deloc.",
+                "en": "Park facing the sea and keep the heater running while watching the waves; it's the ideal way to experience nature without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "la Platjola",
+                "hu": "la Platjola",
+                "ro": "la Platjola",
+                "en": "la Platjola"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Platjola kann Pfützen aufweisen; fahren Sie langsam, um Aquaplaning zu vermeiden und das Auto nicht unnötig mit Salzwasser zu bespritzen.",
+                "hu": "A Platjolához vezető úton nagyobb tócsák lehetnek; hajtson lassan az aquaplaning elkerülése érdekében, és hogy ne verje fel a sós vizet az autóra.",
+                "ro": "Drumul spre Platjola poate avea bălți mari; condu încet pentru a evita acvaplanarea și pentru a nu stropi excesiv mașina cu apă sărată.",
+                "en": "The road to Platjola may have large puddles; drive slowly to avoid hydroplaning and to prevent splashing salty water all over the car's underbody."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns hinauf zum Turó d'en Maresme, wo die Fernsicht im Winter fantastisch ist. Nach dem Puig de Popa besuchen wir mittags die Casa del 1905. Die Nachmittagsstunden am Platja del Morer und la Platjola bieten goldenes Winterlicht für perfekte Fotos. Der Tag endet mit einem spektakulären Sonnenuntergang über dem Meer gegen 17:00 Uhr, bevor wir die Heizung im Auto hochdrehen.",
+            "hu": "A tiszta téli reggelen felautózunk a Turó d'en Maresme csúcsára, ahol a látótávolság ilyenkor a legnagyobb. A Puig de Popa után délben az 1905-ös házat látogatjuk meg. A délutáni órák a Platja del Morer és la Platjola partján aranybarna téli fényeket kínálnak a fotózáshoz. A nap 17 óra körül látványos naplementével zárul, mielőtt a hideg elől visszahúzódnánk a fűtött autóba.",
+            "ro": "O dimineață senină de iarnă ne duce pe Turó d'en Maresme, unde vizibilitatea este maximă în acest sezon. După Puig de Popa, vizităm la prânz Casa din 1905. Orele după-amiezii pe Platja del Morer și la Platjola oferă o lumină aurie de iarnă, perfectă pentru fotografii. Ziua se încheie cu un apus spectaculos peste mare în jurul orei 17:00, înainte de a porni căldura în mașină.",
+            "en": "Start a clear winter morning with a drive to Turó d'en Maresme, where the views are most extensive in this season. After Puig de Popa, visit the 1905 House at noon. The afternoon hours at Platja del Morer and la Platjola offer golden winter light, perfect for photography. The day ends with a spectacular sunset over the sea around 5:00 PM, just before you'll want to crank up the car's heater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turó d'en Maresme",
+                "hu": "Turó d'en Maresme",
+                "ro": "Turó d'en Maresme",
+                "en": "Turó d'en Maresme"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft sorgt für eine extreme Weitsicht; bringen Sie ein Fernglas mit, um die schneebedeckten Pyrenäen im Hintergrund zu entdecken.",
+                "hu": "A hideg téli levegő rendkívüli látótávolságot biztosít; hozzon távcsövet, hogy felfedezhesse a háttérben megbújó hófödte Pireneusi csúcsokat is.",
+                "ro": "Aerul rece de iarnă asigură o vizibilitate extremă; adu un binoclu pentru a descoperi vârfurile înzăpezite ale Pirineilor care se văd în depărtare.",
+                "en": "The cold winter air ensures extreme visibility; bring binoculars to spot the snow-capped Pyrenees mountains visible in the far distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Popa",
+                "hu": "Puig de Popa",
+                "ro": "Puig de Popa",
+                "en": "Puig de Popa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Mittagssonne im Auto genießen können; der Wind am Gipfel ist im Winter oft sehr bissig, also bleiben Sie warm.",
+                "hu": "Parkoljon úgy, hogy élvezhesse a déli napsütést az autóban; a szél a csúcson télen gyakran metsző, ezért csak rövid időre hagyja el a fűtött utasteret.",
+                "ro": "Parchează astfel încât să te bucuri de soarele de la prânz în mașină; vântul de pe vârf este tăios iarna, deci nu sta mult timp afară.",
+                "en": "Park so you can enjoy the midday sun inside the car; the wind at the peak is often biting in winter, so keep your outside excursions brief."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del 1905",
+                "hu": "Casa del 1905",
+                "ro": "Casa del 1905",
+                "en": "Casa del 1905"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus am frühen Nachmittag, wenn die Sonne die Fassade am besten beleuchtet; die Wintersonne steht tief und wirft lange, schöne Schatten.",
+                "hu": "Kora délután látogassa meg a házat, amikor a nap a legjobban megvilágítja a homlokzatot; a téli nap alacsony állása hosszú, szép árnyékokat vet.",
+                "ro": "Vizitează casa la începutul după-amiezii când soarele luminează cel mai bine fațada; soarele de iarnă stă jos și proiectează umbre lungi și estetice.",
+                "en": "Visit the house in the early afternoon when the sun hits the facade best; the low winter sun casts long, beautiful shadows that enhance the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Morer",
+                "hu": "Platja del Morer",
+                "ro": "Platja del Morer",
+                "en": "Platja del Morer"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz für ein kurzes Picknick im Auto mit Blick auf das Meer; die Ruhe der Nebensaison macht diesen Ort im Winter besonders.",
+                "hu": "Használja ki a parkolót egy rövid autós piknikhez a tengerre nézve; az előszezon csendje télen különlegessé és békéssé teszi ezt a partszakaszt.",
+                "ro": "Profită de parcare pentru un scurt picnic în mașină cu vedere la mare; liniștea extrasezonului face ca acest loc să fie foarte special iarna.",
+                "en": "Use the parking area for a short car picnic with a sea view; the silence of the off-season makes this spot especially peaceful and unique in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "la Platjola",
+                "hu": "la Platjola",
+                "ro": "la Platjola",
+                "en": "la Platjola"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vor 17:00 Uhr hier, um den frühen Sonnenuntergang zu sehen; die Farben am Horizont sind im Winter oft intensiver und klarer als im Sommer.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a korai naplementét; a horizont színei télen gyakran intenzívebbek és tisztábbak, mint a nyári párás időben.",
+                "ro": "Fii aici înainte de ora 17:00 pentru a vedea apusul devreme; culorile orizontului sunt adesea mai intense și mai clare iarna decât vara.",
+                "en": "Be here before 5:00 PM to catch the early sunset; winter colors on the horizon are often more intense and clear than during the humid summer months."
+              }
+            }
+          ]
+        }
       }
     }
   }

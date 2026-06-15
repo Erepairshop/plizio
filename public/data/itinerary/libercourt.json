@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Libercourt hangulatos vasútállomásánál, elmerülve a város gazdag történetében. Délelőtt látogasson el a történelmi Saint-Henri templomba, majd tegyen egy pihentető sétát a buja Bois d'Épinoy parkban. Délután fedezze fel a Notre-Dame templom elegáns építészetét. A napot a Saint-Barthélémy templomnál fejezze be egy békés, nyugodt környezetben.",
         "ro": "Începeți ziua la fermecătoarea gară din Libercourt și scufundați-vă în istoria bogată a orașului. Dimineața, vizitați istorica biserică Saint-Henri, urmată de o plimbare relaxantă prin parcul luxuriant Bois d'Épinoy. După-amiaza, descoperiți arhitectura elegantă a bisericii Notre-Dame. Încheiați ziua la biserica Saint-Barthélémy într-o atmosferă pașnică.",
         "en": "Begin your day at the charming Libercourt railway station and dive into the city's rich history. In the morning, visit the historic Saint-Henri church, followed by a relaxing stroll through the lush Bois d'Épinoy park. In the afternoon, discover the elegant architecture of the Notre-Dame church. End your day at the Saint-Barthélémy church in a peaceful setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz des Bahnhofs, während der Regen auf die Gleise prasselt. Die historischen Kirchen von Libercourt bieten ideale Rückzugsorte, um trocken zu bleiben und die Architektur zu bewundern. Der Waldabschnitt erfordert heute festes, wasserdichtes Schuhwerk für die aufgeweichten Pfade. Am Abend genießen Sie die ruhige, regnerische Atmosphäre unter den Vordächern der Stadt.",
+            "hu": "Kezdje a napot az állomás fedett peronján, figyelve az eső kopogását. Libercourt történelmi templomai kiváló menedéket nyújtanak a záporok elől, miközben elmerülhet a belső terek nyugalmában. Az erdei ösvényeken ma vízhatlan lábbeli és óvatosság szükséges a sár miatt. Az este a városi fények tükröződését hozza el a vizes aszfalton, egy esernyő alatt sétálva.",
+            "ro": "Începeți ziua la adăpostul gării, plănuind traseul în timp ce ploaia cade afară. Bisericile istorice din Libercourt sunt refugii perfecte pentru a rămâne uscat și a admira detaliile arhitecturale. Porțiunea prin pădure necesită astăzi încălțăminte impermeabilă din cauza potecilor noroioase. Seara, bucurați-vă de atmosfera melancolică a orașului reflectată în bălțile de pe trotuar.",
+            "en": "Start your day under the shelter of the station as the rain falls on the tracks. Libercourt's historic churches provide ideal retreats to stay dry while admiring the architecture. The forest section requires waterproof footwear today for the muddy paths. In the evening, enjoy the quiet, rainy atmosphere of the town reflecting on the wet pavement under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Libercourt",
+                "hu": "Gare de Libercourt",
+                "ro": "Gare de Libercourt",
+                "en": "Gare de Libercourt"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Wartehalle des Bahnhofs, um Ihren Regenschutz zu sortieren und die Route wetterfest zu planen, bevor Sie ins Freie treten.",
+                "hu": "Használja ki az állomás várótermét az esőfelszerelés igazítására és az útvonal áttekintésére, mielőtt kimerészkedne a csapadékos időbe.",
+                "ro": "Folosiți sala de așteptare a gării pentru a vă organiza echipamentul de ploaie și pentru a verifica traseul înainte de a pleca la drum.",
+                "en": "Use the station's waiting area to organize your rain gear and review the route in a dry environment before heading out into the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Henri",
+                "hu": "Église Saint-Henri",
+                "ro": "Église Saint-Henri",
+                "en": "Église Saint-Henri"
+              },
+              "tip_4lang": {
+                "de": "Diese Kirche bietet perfekten Schutz vor einem plötzlichen Schauer; bewundern Sie die Glasfenster, während Sie auf eine Regenpause warten.",
+                "hu": "Ez a templom tökéletes menedéket nyújt egy hirtelen zápor elől; csodálja meg az üvegablakokat, amíg eláll az eső vagy csendesedik az idő.",
+                "ro": "Această biserică oferă un adăpost perfect împotriva unei averse bruște; admirați vitraliile în timp ce așteptați să se domolească ploaia.",
+                "en": "This church offers perfect shelter from a sudden downpour; admire the stained glass windows while waiting for the rain to ease up."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois d'Épinoy",
+                "hu": "Bois d'Épinoy",
+                "ro": "Bois d'Épinoy",
+                "en": "Bois d'Épinoy"
+              },
+              "tip_4lang": {
+                "de": "Das dichte Blätterdach dämpft den Regen etwas, aber achten Sie auf rutschige Wurzeln und wählen Sie nur die befestigten Hauptwege im Wald.",
+                "hu": "A sűrű lombozat valamennyire felfogja az esőt, de ügyeljen a csúszós gyökerekre, és csak a szilárdabb főutakat válassza az erdőben.",
+                "ro": "Coronamentul des al copacilor atenuează ploaia, dar aveți grijă la rădăcinile alunecoase și alegeți doar potecile principale marcate.",
+                "en": "The dense canopy provides some cover from the rain, but watch out for slippery roots and stick to the main paved or firm paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_4lang": {
+                "de": "Trocknen Sie Ihre Kleidung in der Stille des Kirchenschiffs und nutzen Sie die Zeit für eine kontemplative Pause fernab vom nassen Wetter.",
+                "hu": "Szárítsa meg ruháit a templomhajó csendjében, és használja ki az időt egy békés pihenőre, távol a barátságtalan, esős kinti időjárástól.",
+                "ro": "Uscați-vă hainele în liniștea naosului și profitați de timp pentru o pauză contemplativă departe de vremea umedă de afară.",
+                "en": "Dry off in the quiet of the nave and take advantage of the time for a contemplative break away from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélémy",
+                "hu": "Église Saint-Barthélémy",
+                "ro": "Église Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour hier im Trockenen und wischen Sie Ihre Schuhe am Eingang gut ab, um auf den glatten Steinböden nicht auszurutschen.",
+                "hu": "Zárja a túrát itt, száraz helyen, és alaposan törölje meg a lábát a bejáratnál, hogy ne csússzon meg a templom fényes kőpadlóján.",
+                "ro": "Încheiați turul aici, la adăpost, și ștergeți-vă bine încălțămintea la intrare pentru a nu aluneca pe podelele de piatră lucioase.",
+                "en": "Finish your tour here in the dry, and be sure to wipe your shoes well at the entrance to avoid slipping on the polished stone floors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Bahnhof, wo die warme Wartehalle willkommen ist. Die Route führt Sie durch das historische Zentrum, wobei die Kirchen als beheizte Etappenziele dienen. Im Wald glitzert der Frost auf den Ästen, bevor die Sonne gegen 17:00 Uhr früh untergeht. Am Abend leuchten die Straßenlaternen den Weg durch die winterliche Kälte von Libercourt.",
+            "hu": "A téli reggel frissen indul az állomáson, ahol a fűtött váróterem várja a látogatókat. Az útvonal a történelmi központon vezet át, a templomok pedig meleg pihenőhelyként szolgálnak. Az erdőben dér csillog az ágakon, mielőtt a nap korán, 17:00 körül lebukna. Este az utcai lámpák fénye mutatja az utat a hidegben, réteges öltözetben minden élvezhető.",
+            "ro": "Dimineața de iarnă începe cu aer rece la gară, unde sala de așteptare încălzită este binevenită. Traseul vă poartă prin centrul istoric, bisericile servind ca puncte de oprire calde. În pădure, chiciura strălucește pe ramuri înainte ca soarele să apună devreme, în jur de ora 17:00. Seara, felinarele luminează drumul prin frigul iernii.",
+            "en": "The winter morning starts fresh at the station, where the heated waiting area is welcome. The route leads through the historic center, with churches serving as warm stopovers. In the forest, frost glitters on the branches before the sun sets early around 5:00 PM. In the evening, street lamps light the way through the winter chill of Libercourt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Libercourt",
+                "hu": "Gare de Libercourt",
+                "ro": "Gare de Libercourt",
+                "en": "Gare de Libercourt"
+              },
+              "tip_4lang": {
+                "de": "Wärmen Sie sich kurz im Innenbereich auf, bevor Sie den Marsch beginnen, und stellen Sie sicher, dass Ihre Handschuhe griffbereit sind.",
+                "hu": "Melegedjen fel a belső térben a séta megkezdése előtt, és győződjön meg róla, hogy a kesztyűje és a sálja is könnyen elérhető helyen van.",
+                "ro": "Încălziți-vă în interior înainte de a începe mersul și asigurați-vă că aveți mănușile la îndemână pentru temperaturile scăzute de afară.",
+                "en": "Warm up indoors before starting your walk, and make sure your gloves and scarf are easily accessible for the cold outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Henri",
+                "hu": "Église Saint-Henri",
+                "ro": "Église Saint-Henri",
+                "en": "Église Saint-Henri"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern schützen vor dem eisigen Wind; nutzen Sie die Stille für eine kurze Aufwärmpause in der spirituellen Atmosphäre.",
+                "hu": "A vastag falak megvédenek a jeges széltől; használja ki a csendet egy rövid melegedőre ebben a meghitt, spirituális környezetben.",
+                "ro": "Zidurile groase vă protejează de vântul înghețat; folosiți liniștea pentru o scurtă pauză de încălzire în atmosfera spirituală.",
+                "en": "The thick walls protect against the icy wind; use the silence for a short warming break in the spiritual atmosphere of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois d'Épinoy",
+                "hu": "Bois d'Épinoy",
+                "ro": "Bois d'Épinoy",
+                "en": "Bois d'Épinoy"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die kahle Winterlandschaft, aber verlassen Sie den Wald rechtzeitig vor 16:30 Uhr, da es zwischen den Bäumen sehr früh dunkel wird.",
+                "hu": "Csodálja meg a kopár téli tájat, de hagyja el az erdőt 16:30 előtt, mivel a fák között sokkal hamarabb sötétedik, mint a nyílt terepen.",
+                "ro": "Admirați peisajul golaș de iarnă, dar părăsiți pădurea înainte de ora 16:30, deoarece între copaci se întunecă mult mai devreme.",
+                "en": "Admire the stark winter landscape, but aim to leave the forest before 4:30 PM, as it gets dark much earlier among the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie das gedämpfte Licht des Winternachmittags im Inneren und ruhen Sie Ihre Füße auf den Holzbänken aus, bevor es weitergeht.",
+                "hu": "Élvezze a téli délután tompa fényeit a belső térben, és pihentesse meg lábait a fapadokon, mielőtt folytatná az utat a hidegben.",
+                "ro": "Bucurați-vă de lumina difuză a după-amiezii de iarnă în interior și odihniți-vă picioarele pe băncile de lemn înainte de a pleca mai departe.",
+                "en": "Enjoy the muted light of the winter afternoon inside and rest your feet on the wooden benches before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélémy",
+                "hu": "Église Saint-Barthélémy",
+                "ro": "Église Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_4lang": {
+                "de": "Da die Sonne nun fast untergegangen ist, bietet die Kirche einen festlichen Abschluss; achten Sie auf glatte Stellen auf dem Vorplatz.",
+                "hu": "Mivel a nap már majdnem lement, a templom ünnepi zárást kínál; ügyeljen a jeges, csúszós foltokra a templom előtti téren.",
+                "ro": "Deoarece soarele aproape a apus, biserica oferă un final festiv; aveți grijă la porțiunile înghețate de pe esplanada din față.",
+                "en": "With the sun almost set, the church offers a festive conclusion; watch out for icy or slippery spots on the plaza in front."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Biciklizzen az állomástól a lenyűgöző Saint-Henri templomig, megcsodálva a központot. Élvezze a friss levegőt a Bois d'Épinoy fái alatt, mielőtt a történelmi Hősi emlékműhöz pedálozna. Folytassa pihentető túráját a történelméről híres Saint-Blaise templom felé, amely lenyűgöző látványt nyújt. Zárja kalandját a festői Saint-Barthélémy templomnál, élvezve a nyugalom pillanatait.",
         "ro": "Ciclism de la gară până la impresionanta biserică Saint-Henri, admirând centrul orașului. Bucurați-vă de aerul proaspăt din Bois d'Épinoy înainte de a pedala spre istoricul Monument aux Morts. Continuați turul relaxant cu bicicleta către biserica Saint-Blaise, cunoscută pentru istoria sa. Încheiați-vă aventura la pitoreasca biserică Saint-Barthélémy într-o liniște deplină.",
         "en": "Cycle from the station to the impressive Saint-Henri church, taking in the center's charm. Enjoy the fresh air in the Bois d'Épinoy before pedaling to the historic Monument aux Morts. Continue your relaxing bike tour to the Saint-Blaise church, renowned for its architectural history. Conclude your adventure at the picturesque Saint-Barthélémy church in perfect tranquility."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen durch Libercourt erfordert Konzentration auf den nassen Straßen. Beginnen Sie am Bahnhof und nutzen Sie die Kirchen als trockene Stopps, um die Bremsen zu prüfen. Die Waldwege können rutschig sein, fahren Sie dort besonders vorsichtig. Am späten Nachmittag glitzern die Pfützen auf den Wegen, während Sie Libercourts sakrale Bauten erkunden.",
+            "hu": "Az esőben való biciklizés Libercourt utcáin fokozott figyelmet igényel a vizes aszfalton. Kezdje az állomásnál, és használja a templomokat száraz pihenőként. Az erdei utak csúszósak lehetnek, ott közlekedjen különösen óvatosan. Késő délután a tócsák csillognak az utakon, miközben Libercourt szakrális épületeit fedezi fel két keréken.",
+            "ro": "Mersul cu bicicleta pe ploaie prin Libercourt necesită concentrare pe străzile umede. Începeți de la gară și folosiți bisericile ca opriri uscate pentru a verifica frânele. Potecile din pădure pot fi alunecoase, conduceți cu prudență sporită. După-amiaza târziu, bălțile strălucesc pe drumuri în timp ce explorați clădirile sacre.",
+            "en": "Cycling in the rain through Libercourt requires focus on the wet streets. Start at the station and use the churches as dry stops to check your brakes. Forest paths can be slippery, so ride with extra caution there. In the late afternoon, puddles glisten on the roads as you explore Libercourt's sacred buildings on two wheels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Libercourt",
+                "hu": "Gare de Libercourt",
+                "ro": "Gare de Libercourt",
+                "en": "Gare de Libercourt"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Fahrradbeleuchtung im Schutz des Bahnhofsdachs, da die Sicht bei Regen deutlich schlechter ist.",
+                "hu": "Ellenőrizze a kerékpár lámpáit az állomás tetejének védelmében, mivel esőben a látási viszonyok jelentősen romlanak.",
+                "ro": "Verificați luminile bicicletei sub protecția acoperișului gării, deoarece vizibilitatea scade semnificativ pe timp de ploaie.",
+                "en": "Check your bike lights under the shelter of the station roof, as visibility is significantly reduced during rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Henri",
+                "hu": "Église Saint-Henri",
+                "ro": "Église Saint-Henri",
+                "en": "Église Saint-Henri"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad nah an der Wand, um den Sattel trocken zu halten, während Sie das prachtvolle Kircheninnere besichtigen.",
+                "hu": "Parkolja le kerékpárját közel a falhoz, hogy az ülés száraz maradjon, amíg Ön a templom pompás belső terét csodálja.",
+                "ro": "Parcați bicicleta aproape de perete pentru a păstra șaua uscată în timp ce vizitați interiorul splendid al bisericii.",
+                "en": "Park your bike close to the wall to keep the seat dry while you admire the magnificent interior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois d'Épinoy",
+                "hu": "Bois d'Épinoy",
+                "ro": "Bois d'Épinoy",
+                "en": "Bois d'Épinoy"
+              },
+              "tip_4lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Waldboden und achten Sie auf tiefe Pfützen, die Schlaglöcher verbergen könnten.",
+                "hu": "Kerülje az erős fékezést a nedves erdei talajon, és figyeljen a mély tócsákra, amelyek kátyúkat rejthetnek az út mentén.",
+                "ro": "Evitați frânările bruște pe solul umed din pădure și fiți atenți la bălțile adânci care pot ascunde gropi periculoase.",
+                "en": "Avoid sharp braking on the wet forest ground and watch out for deep puddles that might hide potholes along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Morts",
+                "hu": "Monument aux Morts",
+                "ro": "Monument aux Morts",
+                "en": "Monument aux Morts"
+              },
+              "tip_4lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Pflastersteinen rund um das Denkmal; diese werden bei Regen oft sehr rutschig.",
+                "hu": "Vigyázzon a leszálláskor a monumentum körüli nedves macskakövön; ezek esőben gyakran rendkívül csúszóssá válnak.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed din jurul monumentului; acesta devine adesea foarte alunecos pe ploaie.",
+                "en": "Be careful when dismounting on the wet cobblestones around the monument; these often become very slippery when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie diesen Stopp für eine kurze Pause vom Fahrtwind und wischen Sie die Kette Ihres Rads kurz trocken, falls möglich.",
+                "hu": "Használja ki ezt a megállót egy rövid pihenőre a menetszél elől, és ha lehet, törölje szárazra a kerékpár láncát.",
+                "ro": "Folosiți această oprire pentru o scurtă pauză de vânt și ștergeți lanțul bicicletei dacă aveți posibilitatea.",
+                "en": "Use this stop for a short break from the wind and wipe your bike chain dry if possible to prevent rusting later."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélémy",
+                "hu": "Église Saint-Barthélémy",
+                "ro": "Église Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_4lang": {
+                "de": "Ein sicherer Hafen nach der nassen Fahrt; stellen Sie sicher, dass Ihr Rad gut gesichert ist und genießen Sie die Wärme im Inneren.",
+                "hu": "Biztonságos kikötő a vizes tekerés után; győződjön meg róla, hogy a bicikli rögzítve van, és élvezze a benti meleget.",
+                "ro": "Un refugiu sigur după cursa prin ploaie; asigurați-vă că bicicleta este bine fixată și bucurați-vă de căldura din interior.",
+                "en": "A safe haven after a wet ride; make sure your bike is securely locked and enjoy the warmth inside the building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung gegen den Fahrtwind. Starten Sie am Bahnhof und folgen Sie den historischen Wegen, die oft vom Frost gezeichnet sind. Die Kirchen bieten die nötige Wärme für kurze Zwischenstopps. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die Waldpassage am frühen Nachmittag planen. Beenden Sie den Tag bei einsetzender Dämmerung.",
+            "hu": "A téli kerékpározás meleg öltözetet igényel a hideg menetszél ellen. Kezdje az állomásnál, és kövesse a gyakran dérlepte történelmi utakat. A templomok biztosítják a szükséges meleget a rövid megállókhoz. Mivel a nap 17:00 körül lemegy, az erdei szakaszt kora délutánra időzítse. Zárja a napot a szürkület beálltakor a kivilágított városban.",
+            "ro": "O tură cu bicicleta iarna necesită haine groase împotriva vântului rece. Începeți de la gară și urmați drumurile istorice, adesea acoperite de chiciură. Bisericile oferă căldura necesară pentru scurte opriri. Deoarece soarele apune în jur de ora 17:00, planificați segmentul prin pădure devreme. Încheiați ziua odată cu lăsarea serii.",
+            "en": "A winter bike tour requires warm clothing against the cold headwind. Start at the station and follow the historic paths, often dusted with frost. Churches provide necessary warmth for short stops. Since the sun sets around 5:00 PM, time your forest section for early afternoon. Finish the day as dusk falls in the illuminated town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Libercourt",
+                "hu": "Gare de Libercourt",
+                "ro": "Gare de Libercourt",
+                "en": "Gare de Libercourt"
+              },
+              "tip_4lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung; der Fahrtwind bei winterlichen Temperaturen kühlt den Körper sehr schnell aus.",
+                "hu": "Öltözzön rétegesen; a téli hőmérséklet mellett a menetszél rendkívül gyorsan lehűtheti a testet tekerés közben.",
+                "ro": "Îmbrăcați-vă în straturi; vântul tăios la temperaturi de iarnă poate răci corpul foarte rapid în timpul mersului.",
+                "en": "Dress in layers; the wind chill at winter temperatures can cool down your body very quickly while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Henri",
+                "hu": "Église Saint-Henri",
+                "ro": "Église Saint-Henri",
+                "en": "Église Saint-Henri"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und die Architektur zu bewundern, während das Rad draußen in der Kälte wartet.",
+                "hu": "Ideális hely a kezek felmelegítésére és az építészet megcsodálására, miközben a kerékpár odakint vár a hidegben.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și a admira arhitectura, în timp ce bicicleta așteaptă afară în frig.",
+                "en": "An ideal place to warm up your hands and admire the architecture while your bike waits outside in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois d'Épinoy",
+                "hu": "Bois d'Épinoy",
+                "ro": "Bois d'Épinoy",
+                "en": "Bois d'Épinoy"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf den Wegen, das unter den Reifen wegrutschen kann; fahren Sie in Kurven besonders langsam.",
+                "hu": "Ügyeljen a fagyott levelekre az utakon, amelyek kicsúszhatnak a gumi alatt; a kanyarokban közlekedjen különösen lassan.",
+                "ro": "Aveți grijă la frunzele înghețate de pe poteci, care pot aluneca sub cauciucuri; circulați cu viteză redusă în curbe.",
+                "en": "Watch out for frozen leaves on the paths, which can slide under your tires; take corners especially slowly today."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Morts",
+                "hu": "Monument aux Morts",
+                "ro": "Monument aux Morts",
+                "en": "Monument aux Morts"
+              },
+              "tip_4lang": {
+                "de": "Kurzer Stopp für ein Foto; halten Sie die Pause kurz, damit Ihre Muskeln bei den kalten Temperaturen nicht steif werden.",
+                "hu": "Rövid megálló egy fotóra; ne időzzön sokat, hogy az izmai ne hűljenek le és ne merevedjenek meg a hidegben.",
+                "ro": "Oprire scurtă pentru o fotografie; nu zăboviți mult pentru ca mușchii să nu vă înțepenească din cauza temperaturilor scăzute.",
+                "en": "Brief stop for a photo; keep the break short so your muscles don't get stiff in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe und Wärme; prüfen Sie vor der Weiterfahrt, ob Ihre Lichter für die nahende Dämmerung einsatzbereit sind.",
+                "hu": "Élvezze a csendet és a meleget; indulás előtt ellenőrizze, hogy a lámpák készen állnak-e a közelgő szürkületre.",
+                "ro": "Bucurați-vă de liniște și căldură; înainte de plecare, verificați dacă luminile sunt gata pentru amurgul ce se apropie.",
+                "en": "Enjoy the peace and warmth; before moving on, check if your lights are ready for the approaching twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélémy",
+                "hu": "Église Saint-Barthélémy",
+                "ro": "Église Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_4lang": {
+                "de": "Das Ziel Ihrer Tour; wärmen Sie sich gründlich auf und genießen Sie die abendliche Beleuchtung des historischen Bauwerks.",
+                "hu": "A túra végállomása; melegedjen fel alaposan, és élvezze a történelmi épület esti díszkivilágítását a hidegben.",
+                "ro": "Destinația finală a turului; încălziți-vă bine și bucurați-vă de iluminarea nocturnă a clădirii istorice.",
+                "en": "The final destination of your tour; warm up thoroughly and enjoy the evening lighting of this historic structure."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Indítsa autós túráját a vasútállomáson, majd vezessen a város szélén található Hősi emlékműhöz. Fedezze fel a pompás Château de l'Ermitage kastélyt, amely a régió igazi építészeti gyöngyszeme. Haladjon tovább a lenyűgöző Château blanc felé, amely elegáns homlokzatával lenyűgözi a látogatókat. Fejezze be utazását a közeli Saint-André templomnál néhány csendes pillanattal.",
         "ro": "Începeți turul auto la gară și apoi conduceți către Monument aux Morts de la periferie. Explorați magnificul Château de l'Ermitage, o adevărată bijuterie arhitecturală a regiunii. Continuați drumul către impresionantul Château blanc, care fascinează prin fațada sa elegantă. Încheiați-vă călătoria la biserica din apropiere, Saint-André, pentru un moment de contemplare.",
         "en": "Start your driving tour at the station and then head to the Monument aux Morts on the outskirts. Explore the magnificent Château de l'Ermitage, a true architectural jewel of the region. Continue your drive to the impressive Château blanc, which fascinates visitors with its elegant facade. Conclude your journey at the nearby Saint-André church for a moment of quiet reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden Sie Libercourt heute geschützt vor den Regenschauern. Die Route verbindet die Schlösser und Kirchen der Umgebung, wobei Sie direkt vor den Eingängen parken können. Genießen Sie den Blick auf die regenverhangene Landschaft aus dem trockenen Innenraum. Am Abend bieten die beleuchteten Sehenswürdigkeiten trotz des grauen Wetters ein prächtiges Bild.",
+            "hu": "Autóval ma az esőzésektől védve fedezheti fel Libercourt környékét. Az útvonal összeköti a kastélyokat és templomokat, ahol közvetlenül a bejáratok közelében parkolhat. Élvezze az eső áztatta táj látványát a száraz utastérből. Este a kivilágított látnivalók a szürke idő ellenére is pompás látványt nyújtanak a vizes utakon.",
+            "ro": "Cu mașina, explorați astăzi Libercourt protejat de aversele de ploaie. Traseul leagă castelele și bisericile din zonă, permițându-vă să parcați chiar lângă intrări. Bucurați-vă de peisajul ploios din confortul habitaclului uscat. Seara, obiectivele iluminate oferă o imagine splendidă în ciuda vremii gri.",
+            "en": "By car, you can explore Libercourt today protected from the rain showers. The route connects the castles and churches in the area, allowing you to park directly near the entrances. Enjoy the view of the rainy landscape from the dry interior. In the evening, the illuminated sights provide a magnificent view despite the gray weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Libercourt",
+                "hu": "Gare de Libercourt",
+                "ro": "Gare de Libercourt",
+                "en": "Gare de Libercourt"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie auf den markierten Flächen am Bahnhof und nutzen Sie den kurzen Weg zum Gebäude, um trocken zu bleiben.",
+                "hu": "Parkoljon az állomás kijelölt helyein, és használja a rövid utat az épületig, hogy a lehető legkevesebb eső érje.",
+                "ro": "Parcați în spațiile amenajate de la gară și profitați de distanța scurtă până la clădire pentru a rămâne uscat.",
+                "en": "Park in the designated spots at the station and take advantage of the short walk to the building to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Morts",
+                "hu": "Monument aux Morts",
+                "ro": "Monument aux Morts",
+                "en": "Monument aux Morts"
+              },
+              "tip_4lang": {
+                "de": "Betrachten Sie das Denkmal aus dem Fenster oder steigen Sie kurz aus; achten Sie beim Fahren auf Aquaplaning auf den Dorfstraßen.",
+                "hu": "Tekintse meg a műemléket az ablakból, vagy szálljon ki egy pillanatra; vezetés közben ügyeljen a vízenfutás veszélyére a falusi utakon.",
+                "ro": "Admirați monumentul de la fereastră sau coborâți pentru scurt timp; atenție la acvaplanare pe străzile din sat în timpul condusului.",
+                "en": "View the monument from the car window or step out briefly; be careful of aquaplaning on village roads while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ermitage",
+                "hu": "Château de l'Ermitage",
+                "ro": "Château de l'Ermitage",
+                "en": "Château de l'Ermitage"
+              },
+              "tip_4lang": {
+                "de": "Das Schloss wirkt im Regen besonders mystisch; nutzen Sie den Schirm für den Weg vom Parkplatz zum Haupteingang.",
+                "hu": "A kastély az esőben különösen misztikusnak tűnik; használjon esernyőt a parkolótól a főbejáratig tartó rövid úton.",
+                "ro": "Castelul pare deosebit de mistic pe ploaie; folosiți umbrela pentru drumul scurt de la parcare până la intrarea principală.",
+                "en": "The castle looks particularly mystical in the rain; use an umbrella for the short walk from the parking area to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Le château blanc",
+                "hu": "Le château blanc",
+                "ro": "Le château blanc",
+                "en": "Le château blanc"
+              },
+              "tip_4lang": {
+                "de": "Ein schöner Anblick auch durch die nasse Windschutzscheibe; parken Sie so, dass Sie die Fassade im Sitzen bewundern können.",
+                "hu": "Szép látvány a vizes szélvédőn keresztül is; parkoljon úgy, hogy az autóban ülve is megcsodálhassa a fehér homlokzatot.",
+                "ro": "O priveliște frumoasă chiar și prin parbrizul umed; parcați astfel încât să puteți admira fațada albă din interiorul mașinii.",
+                "en": "A beautiful sight even through a wet windshield; park so that you can admire the white facade while sitting comfortably inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie die Fahrt hier und genießen Sie die Akustik des Regens auf dem Kirchendach, während Sie das stille Innere erkunden.",
+                "hu": "Zárja itt az utat, és élvezze az eső kopogását a templomtetőn, miközben felfedezi a csendes és hűvös belső teret.",
+                "ro": "Încheiați călătoria aici și bucurați-vă de sunetul ploii pe acoperișul bisericii în timp ce explorați interiorul liniștit.",
+                "en": "Finish your trip here and enjoy the acoustics of the rain on the church roof while you explore the quiet interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch Libercourt bietet maximalen Komfort in der Kälte. Besuchen Sie die Schlösser und Kirchen, während die Heizung für Wohlbefinden sorgt. Die frostige Landschaft zieht an Ihnen vorbei, und die kurzen Wege vom Auto zu den Sehenswürdigkeiten sind auch bei Minusgraden angenehm. Beachten Sie den frühen Sonnenuntergang um 17:00 Uhr und die eventuelle Straßenglätte.",
+            "hu": "A téli autózás Libercourt környékén maximális kényelmet nyújt a hidegben. Látogassa meg a kastélyokat és templomokat, miközben a fűtés biztosítja a kellemes hőérzetet. A fagyos táj elsuhan Ön mellett, a rövid séták az autótól a látnivalókig fagypont alatt is elviselhetőek. Ügyeljen a korai, 17:00-s naplementére és az utakon előforduló jegesedésre.",
+            "ro": "Călătoria de iarnă prin Libercourt oferă confort maxim în ciuda frigului. Vizitați castelele și bisericile în timp ce căldura din mașină vă asigură confortul. Peisajul înghețat trece pe lângă voi, iar distanțele scurte de la mașină la obiective sunt plăcute. Atenție la apusul devreme de la ora 17:00 și la posibila polei pe carosabil.",
+            "en": "A winter drive through Libercourt offers maximum comfort in the cold. Visit the castles and churches while the car's heater keeps you cozy. The frosty landscape passes you by, and the short walks from the car to the sights are manageable even in freezing temperatures. Be mindful of the early 5:00 PM sunset and potential icy patches on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gare de Libercourt",
+                "hu": "Gare de Libercourt",
+                "ro": "Gare de Libercourt",
+                "en": "Gare de Libercourt"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Bahnhof und lassen Sie den Motor kurz laufen, um die Scheiben vor der Abfahrt vollständig zu enteisen.",
+                "hu": "Használja az állomás melletti parkolókat, és várja meg, amíg a fűtés teljesen jégteleníti a szélvédőt az indulás előtt.",
+                "ro": "Folosiți parcarea gării și lăsați motorul pornit puțin pentru a dezgheța complet parbrizul înainte de a pleca la drum.",
+                "en": "Use the parking directly at the station and allow enough time for the car to defrost completely before you start driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux Morts",
+                "hu": "Monument aux Morts",
+                "ro": "Monument aux Morts",
+                "en": "Monument aux Morts"
+              },
+              "tip_4lang": {
+                "de": "Vorsicht bei überfrierender Nässe auf den Nebenstraßen zum Denkmal; fahren Sie vorausschauend und halten Sie Abstand.",
+                "hu": "Vigyázzon a lefagyott nedvességre az emlékműhöz vezető mellékutakon; vezessen előrelátóan és tartson nagyobb követési távolságot.",
+                "ro": "Atenție la porțiunile cu gheață pe drumurile secundare către monument; conduceți prudent și păstrați o distanță sigură.",
+                "en": "Watch out for black ice on the side roads leading to the monument; drive cautiously and maintain a safe following distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ermitage",
+                "hu": "Château de l'Ermitage",
+                "ro": "Château de l'Ermitage",
+                "en": "Château de l'Ermitage"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Anblick des Schlosses in der klaren Winterluft und kehren Sie schnell in das vorgewärmte Auto zurück.",
+                "hu": "Élvezze a kastély látványát a tiszta téli levegőben, majd térjen vissza gyorsan az előmelegített utastérbe.",
+                "ro": "Bucurați-vă de vederea castelului în aerul curat de iarnă și reveniți rapid în mașina preîncălzită după vizită.",
+                "en": "Enjoy the view of the castle in the crisp winter air, then quickly return to the pre-warmed comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Le château blanc",
+                "hu": "Le château blanc",
+                "ro": "Le château blanc",
+                "en": "Le château blanc"
+              },
+              "tip_4lang": {
+                "de": "Die weiße Fassade bildet einen herrlichen Kontrast zum eventuellen Schnee oder Raureif; ideal für Fotos aus dem warmen Wagen.",
+                "hu": "A fehér homlokzat csodás kontrasztot alkot az esetleges hóval vagy zúzmarával; ideális fotótéma a meleg autóból is.",
+                "ro": "Fațada albă creează un contrast superb cu eventuala zăpadă sau chiciură; un subiect ideal pentru fotografii din mașină.",
+                "en": "The white facade creates a wonderful contrast with any snow or frost; an ideal subject for photos from the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-André",
+                "hu": "Église Saint-André",
+                "ro": "Église Saint-André",
+                "en": "Église Saint-André"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie den Tag hier; achten Sie beim Parken in der Dämmerung auf festgefahrene Schneereste am Straßenrand.",
+                "hu": "Zárja itt a napot; a szürkületben való parkoláskor ügyeljen az út mentén megmaradt jeges hóbuckákra.",
+                "ro": "Încheiați ziua aici; aveți grijă la parcarea pe înserat la grămezile de zăpadă înghețată de la marginea drumului.",
+                "en": "End your day here; when parking at dusk, watch out for frozen snow piles or icy ridges along the roadside."
+              }
+            }
+          ]
+        }
       }
     }
   }

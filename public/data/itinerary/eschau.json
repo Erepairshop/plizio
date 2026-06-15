@@ -137,6 +137,168 @@
         "hu": "A reggel a Ballastière békés környezetében indul, ahol a víz halk csobogása nyugodt alaphangot ad a napnak. Egy hosszú séta után a Forêt d'Eschau ősfáinak árnyékában pihenhet. Délben felfedezheti a Langensand egykori kavicsbányájának újjászületett vad szépségét. A délután a Plobsheim-tó hatalmas víztükrének látványával várja. Végül a nap az Ancienne Gravière nyugodt környezetében zárul.",
         "ro": "Dimineața începe în decorul liniștit de la Ballastière, unde susurul apei dă tonul zilei. O plimbare lungă vă poartă apoi în inima pădurii Forêt d'Eschau. La prânz, veți descoperi frumusețea sălbatică a fostei cariere Langensand. După-amiaza oferă priveliștile vaste ale lacului Plan d'eau de Plobsheim, perfecte pentru relaxare. În cele din urmă, ziua se încheie la senina Ancienne Gravière.",
         "en": "Your morning starts in the tranquil setting of Ballastière, where the gentle lapping of water sets a calming tone for the day. A long walk then brings you into the heart of Forêt d'Eschau, shaded by ancient trees. By midday, you'll uncover the rugged beauty of Ancienne Gravière du Langensand, a former industrial site reborn. The afternoon offers the expansive vistas of Plan d'eau de Plobsheim, perfect for unwinding. Finally, the day concludes at the serene Ancienne Gravière."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem sanften Regen über der Ballastière, was die Wasserfläche in eine mystische Stille hüllt. Mittags bietet der Wald von Eschau teilweisen Schutz vor den Tropfen, doch die Pfade sind schlammig und erfordern festes, wasserdichtes Schuhwerk. Am Nachmittag wirken die alten Kiesgruben unter dem grauen Himmel melancholisch und ruhig. Den Abend lassen wir bei zunehmendem Nebel ausklingen, während die Tropfen auf das Wasser trommeln.",
+            "hu": "A reggel csendes esővel indul a Ballastière partján, ami misztikus nyugalmat áraszt a vízfelületen. Délben az eschaui erdő lombjai némi fedezéket nyújtanak, de az utak sárosak, így vízálló bakancs kötelező. Délután az öreg kavicsbányák melankolikus képet festenek a szürke ég alatt. Az estét a felszálló köd és a vízparti eső kopogása teszi teljessé, mielőtt visszatérnénk a városba.",
+            "ro": "Dimineața începe cu o ploaie ușoară peste Ballastière, învăluind suprafața apei într-o liniște mistică. La prânz, pădurea din Eschau oferă adăpost parțial, dar potecile sunt noroioase și necesită încălțăminte impermeabilă. După-amiaza, vechile balastiere arată melancolic sub cerul gri. Seara se încheie cu ceață densă și sunetul picăturilor pe apă, creând o atmosferă intimă de reflecție.",
+            "en": "The morning starts with a gentle rain over Ballastière, shrouding the water in a mystical silence. At noon, the Eschau forest provides some canopy cover, but paths are muddy and require waterproof boots. In the afternoon, the old gravel pits look melancholic and still under the grey skies. The evening winds down with rising mist and the sound of rain on the water, perfect for a contemplative walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ballastière",
+                "hu": "Ballastière",
+                "ro": "Ballastière",
+                "en": "Ballastière"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der glatten Wasserfläche; die kleinen Wellenringe wirken sehr beruhigend. Tragen Sie eine Kapuze gegen den Wind.",
+                "hu": "Figyeld a víztükrön szétgyűrűző esőcseppeket, a látvány rendkívül nyugtató. Viselj kapucnis esőkabátot a feltámadó szél ellen.",
+                "ro": "Observați cercurile formate de picăturile de ploaie pe suprafața netedă a apei; este un spectacol relaxant. Purtați o glugă împotriva vântului.",
+                "en": "Watch the ripples formed by raindrops on the still water; the visual is incredibly calming. Wear a hooded jacket to shield from the lakeside breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Forêt d'Eschau",
+                "hu": "Forêt d'Eschau",
+                "ro": "Forêt d'Eschau",
+                "en": "Forêt d'Eschau"
+              },
+              "tip_5lang": {
+                "de": "Der Duft der nassen Erde ist im Wald besonders intensiv; suchen Sie unter dichten Buchen Schutz. Achten Sie auf rutschige Wurzeln auf dem Weg.",
+                "hu": "A nedves föld illata az erdőben ilyenkor a legintenzívebb; keress menedéket a sűrű bükkfák alatt. Vigyázz a csúszós gyökerekre a gyalogúton.",
+                "ro": "Mirosul pământului umed este intens în pădure; căutați adăpost sub fagi deși. Aveți grijă la rădăcinile alunecoase de pe cărare.",
+                "en": "The scent of damp earth is most intense in the forest; seek shelter under dense beech trees. Watch out for slippery roots on the hiking trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Gravière du Langensand",
+                "hu": "Ancienne Gravière du Langensand",
+                "ro": "Ancienne Gravière du Langensand",
+                "en": "Ancienne Gravière du Langensand"
+              },
+              "tip_5lang": {
+                "de": "Die Kieswege können bei Regen weich werden, bieten aber eine dramatische Aussicht auf das trübe Wasser. Ein stabiler Regenschirm ist hier unverzichtbar.",
+                "hu": "A kavicsos utak felázhatnak, de drámai kilátást nyújtanak a sötét vízre. Egy masszív esernyő ezen a nyílt terepen elengedhetetlen.",
+                "ro": "Drumurile de pietriș pot deveni moi, dar oferă o vedere dramatică asupra apei tulburi. O umbrelă rezistentă este indispensabilă aici.",
+                "en": "The gravel paths may soften, but they offer dramatic views of the murky water. A sturdy umbrella is essential on this open stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de Plobsheim",
+                "hu": "Plan d'eau de Plobsheim",
+                "ro": "Plan d'eau de Plobsheim",
+                "en": "Plan d'eau de Plobsheim"
+              },
+              "tip_5lang": {
+                "de": "Das weite Wasserbecken wirkt bei Regen fast wie ein Meer; nutzen Sie die Beobachtungshütten als Unterstand. Winddichte Kleidung schützt vor der Gischt.",
+                "hu": "A hatalmas vízfelület esőben szinte tengernek tűnik; használd a madárfigyelő kunyhókat fedett pihenőként. Szélálló ruha véd a vízpermet ellen.",
+                "ro": "Bazinul vast de apă pare aproape ca o mare în ploaie; folosiți foișoarele de observare ca adăpost. Hainele rezistente la vânt vă protejează.",
+                "en": "The vast water basin feels almost like a sea in the rain; use the birdwatching huts as dry shelters. Windproof gear protects from the spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Gravière",
+                "hu": "Ancienne Gravière",
+                "ro": "Ancienne Gravière",
+                "en": "Ancienne Gravière"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Wanderung mit einem Blick auf den dunstigen See; die Atmosphäre ist purer Frieden. Wischen Sie Ihre Kameraoptik regelmäßig trocken.",
+                "hu": "Zárd a túrát a párás tó látványával; az atmoszféra ilyenkor a legnyugodtabb. Rendszeresen töröld szárazra a fényképezőgép lencséjét.",
+                "ro": "Încheiați drumeția cu vederea lacului cețos; atmosfera este de o pace pură. Ștergeți periodic lentila camerei pentru fotografii clare.",
+                "en": "End the hike with a view of the misty lake; the atmosphere is one of pure peace. Regularly wipe your camera lens for clear shots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Raureif glitzert am Morgen auf den Schilfhalmen der Ballastière. Mittags führt der Weg durch den kahlen Wald, wo die klare Winterluft die Sinne schärft, aber warme Schichten nötig macht. Am Nachmittag spiegeln die gefrorenen Ufer das schwache Sonnenlicht wider, bevor die Dämmerung gegen 17:00 Uhr die Landschaft in Blau taucht. Der Abend endet früh bei sinkenden Temperaturen in der gemütlichen Wärme der Stadt.",
+            "hu": "Zúzmarás nádas csillog reggel a Ballastière partján, a fagyos levegő belemar az arcba. Délben a kopár erdőben sétálunk, ahol a tiszta téli levegő frissítő, de a réteges öltözet elengedhetetlen. Délután a befagyott partok visszaverik a gyenge fényt, mielőtt 17:00 körül leszállna a kék szürkület. Az este korán ér véget a gyorsan hűlő levegő miatt, így irány a fűtött beltér.",
+            "ro": "Chiciura strălucește dimineața pe trestiile de la Ballastière sub un cer rece. La prânz, drumul prin pădurea golașă împrospătează simțurile, dar necesită straturi groase de haine. După-amiaza, malurile înghețate reflectă lumina slabă a soarelui, înainte ca amurgul să apară la ora 17:00. Seara se încheie devreme odată cu scăderea temperaturilor, căutând confortul interior.",
+            "en": "Frosty rime glistens on the reeds of Ballastière in the cold morning air. At noon, the path through the bare forest sharpens the senses, but warm layers are a must. In the afternoon, frozen shores reflect the low winter sun before twilight sets in around 17:00. The evening ends early as temperatures drop sharply; head back for a warm drink in the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ballastière",
+                "hu": "Ballastière",
+                "ro": "Ballastière",
+                "en": "Ballastière"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Uferzonen sind wunderschön, aber betreten Sie niemals dünnes Eis. Ein heißer Tee aus der Thermoskanne wärmt Sie hier wunderbar auf.",
+                "hu": "A befagyott partmenti részek csodásak, de soha ne lépj a vékony jégre. Egy termosznyi forró tea itt életmentő és átmelegít.",
+                "ro": "Zonele de mal înghețate sunt superbe, dar nu pășiți niciodată pe gheața subțire. Un ceai fierbinte din termos vă va încălzi de minune aici.",
+                "en": "The frozen shorelines are beautiful, but never step onto thin ice. A thermos of hot tea will keep you warm and cozy during this first stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Forêt d'Eschau",
+                "hu": "Forêt d'Eschau",
+                "ro": "Forêt d'Eschau",
+                "en": "Forêt d'Eschau"
+              },
+              "tip_5lang": {
+                "de": "Ohne Laub ist die Sicht im Wald weiter; halten Sie Ausschau nach Rehen im Unterholz. Tragen Sie dicke Socken gegen die Bodenkälte beim Gehen.",
+                "hu": "Lombok nélkül messzebbre látni az erdőben; figyeld az őzeket az aljnövényzetben. Viselj vastag zoknit a talaj felől érkező hideg ellen.",
+                "ro": "Fără frunziș, vizibilitatea în pădure este mai mare; căutați căprioare prin tufișuri. Purtați șosete groase împotriva frigului de la sol.",
+                "en": "Without leaves, visibility in the forest is better; watch for deer in the undergrowth. Wear thick socks to combat the creeping cold from the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Gravière du Langensand",
+                "hu": "Ancienne Gravière du Langensand",
+                "ro": "Ancienne Gravière du Langensand",
+                "en": "Ancienne Gravière du Langensand"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier über die offene Fläche; eine winddichte Jacke ist extrem wichtig. Genießen Sie die winterliche Stille fernab der Straßen.",
+                "hu": "A szél élesen fúj a nyílt terepen; a szélálló kabát itt a legfontosabb. Élvezd a téli csendet, ami ilyenkor messze elnyomja az utak zaját.",
+                "ro": "Vântul suflă cu putere peste spațiul deschis; o jachetă impermeabilă la vânt e vitală. Bucurați-vă de liniștea iernii departe de șosele.",
+                "en": "The wind bites across the open area; a windproof jacket is extremely important here. Enjoy the profound winter silence far from the roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de Plobsheim",
+                "hu": "Plan d'eau de Plobsheim",
+                "ro": "Plan d'eau de Plobsheim",
+                "en": "Plan d'eau de Plobsheim"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie arktische Wasservögel, die hier überwintern; bringen Sie ein Fernglas mit. Die tiefstehende Sonne blendet stark über dem Wasser.",
+                "hu": "Figyeld meg az itt telelő északi vízimadarakat; hozz magaddal távcsövet. Az alacsonyan járó nap erősen vakíthat a víz felett.",
+                "ro": "Observați păsările de apă arctice care iernează aici; aduceți un binoclu. Soarele jos poate fi foarte orbitor deasupra apei înghețate.",
+                "en": "Observe arctic water birds that winter here; bring binoculars for a better view. The low sun can be very blinding over the reflective water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Gravière",
+                "hu": "Ancienne Gravière",
+                "ro": "Ancienne Gravière",
+                "en": "Ancienne Gravière"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt früh; stellen Sie sicher, dass Sie vor 17 Uhr den Rückweg antreten. Das blaue Licht kurz vor Sonnenuntergang ist magisch.",
+                "hu": "A szürkület korán kezdődik; ügyelj rá, hogy 17 óra előtt elindulj visszafelé. A naplemente előtti kék fények varázslatosak a tavon.",
+                "ro": "Amurgul începe devreme; asigurați-vă că porniți înapoi înainte de ora 17:00. Lumina albastră de dinaintea apusului este pur și simplu magică.",
+                "en": "Twilight starts early; make sure to start your return journey before 17:00. The blue light just before sunset is truly magical on the ice."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a Forêt d'Eschau hűvös árnyékában, mielőtt a Ballastière békés vizeihez tekerne. Délben a Langensand kavicsbánya és a Plobsheim-tó felé veszi az irányt. Délután az Uhlenloch buja, rejtett ösvényein halad keresztül. Az utazás a Wacholderrain egyedülálló, gondozott terepén ér véget, ahol a szürkület arany árnyalatba öltözteti a tájat.",
         "ro": "Începeți turul cu bicicleta în umbra răcoroasă a Forêt d'Eschau înainte de a aluneca spre apele pașnice de la Ballastière. La prânz, pedalați spre peisajele reabilitate de la Langensand și întinderea masivă a Plan d'eau de Plobsheim. După-amiaza, veți traversa spre traseele ascunse din Uhlenloch. Călătoria se încheie cu terenurile unice din Wacholderrain, la lumina aurie a amurgului.",
         "en": "Kick off your cycling tour in the cool shade of Forêt d'Eschau before gliding over to the peaceful waters of Ballastière. By midday, pedal towards the rehabilitated landscapes of Ancienne Gravière du Langensand and the massive expanse of Plan d'eau de Plobsheim. In the afternoon, you'll cross towards the lush, hidden trails of Uhlenloch. The journey wraps up with the uniquely managed terrains of Wacholderrain, where twilight bathes the meadows in a golden hue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet erfrischend im Regen durch den Eschauer Wald, wo der Duft von Kiefernnadeln aufsteigt. Mittags erfordert die Fahrt zur Ballastière Vorsicht auf rutschigen Wegen und eine gute Regenponcho-Ausrüstung. Am Nachmittag radeln wir entlang der Kanäle, während der Himmel in dramatischem Grau leuchtet. Der Abend endet mit einer zügigen Fahrt zurück, während das Licht in den Pfützen auf dem Asphalt tanzt.",
+            "hu": "A bringás nap frissítő esőben indul az eschaui erdőben, ahol a fenyő illata kísér minket. Délben a Ballastière felé vezető úton óvatosan hajts a csúszós kanyarokban, és viselj jó esőponchót. Délután a csatornák mentén tekerünk a drámai szürke ég alatt. Az este egy gyors vágtával zárul a város felé, miközben a lámpák fénye megcsillan az aszfalt tócsáiban.",
+            "ro": "Ziua pe bicicletă începe revigorant prin pădurea Eschau, unde mirosul acelor de pin se intensifică la ploaie. La prânz, drumul spre Ballastière necesită prudență pe porțiunile alunecoase și un pelerină bună. După-amiaza pedalăm de-a lungul canalelor sub un cer gri dramatic. Seara se încheie cu o cursă rapidă înapoi, în timp ce luminile se reflectă în bălțile de pe asfalt.",
+            "en": "The cycling day starts refreshingly in the rain through the Eschau forest, where pine scents fill the air. At noon, the ride to Ballastière requires caution on slippery paths and a quality rain poncho. In the afternoon, we pedal along the canals under dramatic grey skies. The evening concludes with a brisk ride back, watching the streetlights dance in the puddles on the asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forêt d'Eschau",
+                "hu": "Forêt d'Eschau",
+                "ro": "Forêt d'Eschau",
+                "en": "Forêt d'Eschau"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege sind schlammig; reduzieren Sie den Reifendruck leicht für besseren Grip. Ein Schutzblech verhindert nasse Streifen auf dem Rücken.",
+                "hu": "Az erdei utak sárosak; engedj le kicsit a guminyomásból a jobb tapadásért. A sárvédő kötelező, ha nem akarsz vizes csíkot a hátadra.",
+                "ro": "Potecile din pădure sunt noroioase; reduceți puțin presiunea în pneuri pentru aderență. O aripă de protecție previne murdária pe spate.",
+                "en": "Forest paths are muddy; slightly reduce tire pressure for better grip. A mudguard is essential to prevent a wet stripe up your back."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballastière",
+                "hu": "Ballastière",
+                "ro": "Ballastière",
+                "en": "Ballastière"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen, um den Sattel trocken zu halten. Die feuchte Luft macht das Atmen beim Treten angenehm frisch.",
+                "hu": "Parkolj a fák alá, hogy a nyereg száraz maradjon, amíg nézelődsz. A párás levegőben a tekerés közbeni légzés kellemesen frissítő.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată. Aerul umed face respirația în timpul efortului de pedalare foarte revigorantă.",
+                "en": "Park your bike under the trees to keep the saddle dry while you explore. The humid air makes breathing during the uphill climb very fresh."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Gravière du Langensand",
+                "hu": "Ancienne Gravière du Langensand",
+                "ro": "Ancienne Gravière du Langensand",
+                "en": "Ancienne Gravière du Langensand"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf nassem Kies, da der Bremsweg deutlich länger ist. Das Wasser glänzt silbern zwischen den dunklen Steinen.",
+                "hu": "Fékezz időben a vizes kavicson, mert a fékút jelentősen meghosszabbodik. A víz ezüstösen csillog a sötét kövek és medrek között.",
+                "ro": "Frânați din timp pe pietrișul umed, deoarece distanța de oprire crește. Apa strălucește argintiu printre pietrele întunecate ale malului.",
+                "en": "Brake early on wet gravel as the stopping distance is significantly longer. The water gleams silvery between the dark shoreline stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de Plobsheim",
+                "hu": "Plan d'eau de Plobsheim",
+                "ro": "Plan d'eau de Plobsheim",
+                "en": "Plan d'eau de Plobsheim"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Deich kann stark sein; lehnen Sie sich beim Treten leicht nach vorne. Ein regendichter Helmüberzug hält den Kopf warm.",
+                "hu": "A szél a gáton erős lehet; dőlj kicsit előre tekerés közben a kisebb ellenállásért. Egy vízálló sisakhuzat melegen tartja a fejedet.",
+                "ro": "Vântul pe dig poate fi puternic; aplecați-vă ușor în față în timp ce pedalați. O husă de cască impermeabilă vă va menține capul cald.",
+                "en": "The wind on the dike can be strong; lean forward slightly while pedaling. A waterproof helmet cover will keep your head dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhlenloch",
+                "hu": "Uhlenloch",
+                "ro": "Uhlenloch",
+                "en": "Uhlenloch"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten; umfahren Sie diese großräumig. Die Natur wirkt hier besonders wild und unberührt.",
+                "hu": "Vigyázz a tócsákkal, amik mély gödröket rejthetnek; kerüld ki őket nagy ívben. A természet itt különösen vadnak és érintetlennek tűnik.",
+                "ro": "Atenție la bălțile care pot ascunde gropi adânci; ocoliți-le pe cât posibil. Natura pare aici deosebit de sălbatică și neatinsă.",
+                "en": "Watch out for puddles that might hide deep holes; steer around them widely. Nature here feels particularly wild and untouched in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderrain",
+                "hu": "Wacholderrain",
+                "ro": "Wacholderrain",
+                "en": "Wacholderrain"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung für die Rückfahrt im Regen; Sichtbarkeit ist alles. Wischen Sie Ihre Kette nach der Tour kurz mit einem Lappen trocken.",
+                "hu": "Ellenőrizd a lámpáidat az esős visszatéréshez; a láthatóság életmentő. A túra után töröld szárazra a láncot egy ronggyal a rozsda ellen.",
+                "ro": "Verificați luminile pentru drumul de întoarcere prin ploaie; vizibilitatea este esențială. Ștergeți lanțul cu o cârpă după terminarea turei.",
+                "en": "Check your lights for the rainy ride back; visibility is paramount. Briefly wipe your chain dry with a rag after finishing the tour today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dicken Handschuhen geht es am frostigen Morgen durch den Wald von Eschau, während die Reifen auf dem gefrorenen Boden knirschen. Mittags reflektiert die Ballastière das kalte Licht der Wintersonne; die klare Luft macht das Atmen leicht. Am Nachmittag radeln wir zügig, um die Körperwärme gegen den Fahrtwind zu halten. Die Dämmerung setzt früh ein, und gegen 17:00 Uhr müssen die Lichter für den sicheren Rückweg eingeschaltet werden.",
+            "hu": "Vastag kesztyűben indulunk a fagyos reggelen az eschaui erdőn át, miközben a gumik csikorognak a kemény talajon. Délben a Ballastière a téli nap hideg fényét tükrözi; a tiszta levegő frissítővé teszi a tekerést. Délután tempósabban haladunk, hogy megőrizzük a testhőt a menetszél ellen. A szürkület korán jön, 17:00-kor már kapcsolni kell a lámpákat a biztonságos hazatéréshez.",
+            "ro": "Cu mănuși groase pornim în dimineața geroasă prin pădurea Eschau, în timp ce pneurile scârțâie pe solul înghețat. La prânz, Ballastière reflectă lumina rece a soarelui de iarnă. După-amiaza pedalăm energic pentru a menține căldura corpului împotriva curentului de aer. Amurgul se instalează devreme, iar la ora 17:00 luminile trebuie aprinse pentru siguranță.",
+            "en": "With thick gloves, we set off on a frosty morning through the Eschau forest, tires crunching on the frozen ground. At noon, Ballastière reflects the cold winter sunlight; the crisp air makes pedaling invigorating. In the afternoon, we ride briskly to keep body heat up against the wind chill. Twilight arrives early, and by 17:00, lights must be on for a safe journey back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forêt d'Eschau",
+                "hu": "Forêt d'Eschau",
+                "ro": "Forêt d'Eschau",
+                "en": "Forêt d'Eschau"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei schattigen Kurven, dort kann sich Reifglätte halten. Tragen Sie eine winddichte Mütze unter dem Helm gegen den eisigen Fahrtwind.",
+                "hu": "Vigyázz az árnyékos kanyarokban, ahol megmaradhat a zúzmarás csúszósság. Viselj szélálló sapkát a sisak alatt a jeges menetszél ellen.",
+                "ro": "Atenție la curbele umbrite, unde chiciura poate face drumul alunecos. Purtați o căciulă sub cască împotriva curentului de aer înghețat.",
+                "en": "Be careful in shaded curves where frost might linger and cause slips. Wear a windproof thin cap under your helmet to block the icy wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballastière",
+                "hu": "Ballastière",
+                "ro": "Ballastière",
+                "en": "Ballastière"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Schilfhalme sind ein tolles Fotomotiv; halten Sie kurz inne. Bewegen Sie Ihre Finger regelmäßig, um die Durchblutung zu fördern.",
+                "hu": "A fagyott nádszálak remek fotótémát szolgáltatnak; állj meg egy pillanatra. Mozgasd az ujjaidat rendszeresen a jobb vérkeringés érdekében.",
+                "ro": "Trestiile înghețate sunt un subiect foto excelent; faceți o scurtă pauză. Mișcați-vă degetele periodic pentru a menține circulația sângelui.",
+                "en": "The frozen reeds make for a great photo opportunity; stop briefly to capture it. Wiggle your fingers regularly to keep circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Gravière du Langensand",
+                "hu": "Ancienne Gravière du Langensand",
+                "ro": "Ancienne Gravière du Langensand",
+                "en": "Ancienne Gravière du Langensand"
+              },
+              "tip_5lang": {
+                "de": "Der Wind über dem Wasser kann hier sehr schneidig sein; ziehen Sie den Kragen hoch. Die weite Sicht ist im Winter bei klarer Luft fantastisch.",
+                "hu": "A víz feletti szél itt nagyon metsző lehet; húzd fel a gallérod. A tiszta téli levegőben a kilátás fantasztikusan messzire nyúlik.",
+                "ro": "Vântul deasupra apei poate fi tăios aici; ridicați gulerul jachetei. Vizibilitatea largă este fantastică în aerul curat de iarnă.",
+                "en": "The wind over the water can be very biting here; pull up your collar. The wide views are fantastic in the clear, crisp winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de Plobsheim",
+                "hu": "Plan d'eau de Plobsheim",
+                "ro": "Plan d'eau de Plobsheim",
+                "en": "Plan d'eau de Plobsheim"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg auf dem Deich ist im Winter oft windgepeitscht; nutzen Sie Windschatten, wenn möglich. Ein Buff-Tuch schützt das Gesicht vor Kälte.",
+                "hu": "A gáton vezető kerékpárút télen szeles; próbálj szélárnyékba húzódni, ahol lehet. Egy csősál kiválóan védi az arcodat a hideg ellen.",
+                "ro": "Pista de biciclete de pe dig este adesea bântuită de vânt; folosiți adăpostul dacă e posibil. Un fular tip tub protejează fața de ger.",
+                "en": "The bike path on the dike is often windswept in winter; seek drafting if possible. A neck gaiter is excellent for protecting your face from cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhlenloch",
+                "hu": "Uhlenloch",
+                "ro": "Uhlenloch",
+                "en": "Uhlenloch"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können hier teilweise vereist sein; fahren Sie extrem vorsichtig. Die winterliche Einsamkeit an diesem Ort ist tief beeindruckend.",
+                "hu": "Az utak itt néhol jegesek lehetnek; hajts rendkívül óvatosan. A hely téli magánya és csendje mélyen lenyűgöző élményt nyújt.",
+                "ro": "Drumurile pot fi parțial înghețate aici; pedalați cu extremă prudență. Singurătatea iernatică a acestui loc este profund impresionantă.",
+                "en": "The paths here can be icy in patches; ride with extreme caution. The winter solitude of this spot is deeply impressive and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderrain",
+                "hu": "Wacholderrain",
+                "ro": "Wacholderrain",
+                "en": "Wacholderrain"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Lichter frühzeitig ein, da die Dämmerung schnell kommt. Ein warmes Getränk am Ende der Tour verhindert das Auskühlen.",
+                "hu": "Kapcsold be korán a lámpákat, mert a szürkület hirtelen sötétedik. Egy meleg ital a túra végén segít megakadályozni a test lehűlését.",
+                "ro": "Aprindeți luminile din timp, deoarece amurgul se instalează rapid. O băutură caldă la finalul turei previne răceala după efort.",
+                "en": "Turn on your lights early, as twilight turns to darkness very quickly. A warm drink at the end of the tour will help prevent post-ride chills."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje az autózást a festői Ballastière-nél, majd hamarosan merüljön el a Forêt d'Eschau mélyzöldjében. A déli útvonal a Plobsheim-tó lenyűgöző partjaihoz, majd az Uhlenloch sűrű erdejébe vezet. Kora délután haladjon el a Dreibauerngrund nyílt mezőgazdasági területei mellett. Az utazás a határon túli Goldscheuerer Baggersee-nél ér véget, amely tökéletes naplemente-visszaverődést kínál.",
         "ro": "Începeți traseul la pitorescul Ballastière, apoi treceți rapid la verdeața profundă din Forêt d'Eschau. Traseul de prânz duce la malurile impresionante ale Plan d'eau de Plobsheim, urmat de pădurile dense din Uhlenloch. După-amiaza, treceți pe lângă întinderile agricole deschise din Dreibauerngrund. Excursia se încheie peste graniță, la Goldscheuerer Baggersee, perfect pentru un apus de soare.",
         "en": "Begin your drive at the scenic Ballastière, taking in the morning stillness, then quickly hop over to the deep greenery of Forêt d'Eschau. Your midday route leads to the impressive shores of Plan d'eau de Plobsheim, followed by the dense, mysterious woods of Uhlenloch. As afternoon sets in, cruise past the open agricultural stretches of Dreibauerngrund. Your road trip concludes across the border at Goldscheuerer Baggersee, offering a perfect sunset reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt entspannt im warmen Auto, während draußen der Regen auf das Dach trommelt. Mittags steuern wir den Wald von Eschau an, wo wir von geschützten Parkplätzen aus kurze Spaziergänge unter die Bäume unternehmen. Am Nachmittag bietet das Plan d'eau de Plobsheim eine weite Aussicht auf das stürmische Wasser, die man gemütlich vom Fahrersitz aus genießen kann. Der Abend endet trocken und sicher bei der Rückfahrt durch die beleuchteten Straßen.",
+            "hu": "Az út kényelmesen indul a fűtött autóban, miközben kint az eső dobol a tetőn. Délben az eschaui erdő felé vesszük az irányt, ahol a védett parkolókból rövid sétákat teszünk a fák alá. Délután a Plobsheim-víztározó hatalmas felülete kínál látványos, viharos kilátást, amit akár az autóból is élvezhetsz. Az este szárazon és biztonságban ér véget a kivilágított utakon keresztül.",
+            "ro": "Călătoria începe relaxat în mașina caldă, în timp ce ploaia bate în plafon. La prânz ne îndreptăm spre pădurea Eschau, unde facem scurte plimbări sub copaci pornind din parcări protejate. După-amiaza, Plan d'eau de Plobsheim oferă o vedere largă asupra apei agitate, ce poate fi admirată din confortul mașinii. Seara se încheie la adăpost, pe drumurile iluminate spre oraș.",
+            "en": "The trip begins comfortably in a warm car while rain drums on the roof outside. At noon, we head to the Eschau forest, taking short walks under the canopy from sheltered parking spots. In the afternoon, Plan d'eau de Plobsheim offers vast views of the stormy water, enjoyable even from the driver's seat. The evening ends dry and safe as we drive through the well-lit streets back to the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ballastière",
+                "hu": "Ballastière",
+                "ro": "Ballastière",
+                "en": "Ballastière"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasserzugang, um den Weg im Regen kurz zu halten. Die Aussicht durch die nasse Windschutzscheibe hat ihren ganz eigenen Reiz.",
+                "hu": "Parkolj közel a vízparti lejáróhoz, hogy ne kelljen sokat áznod a gyalogúton. A vizes szélvédőn át nézve a tájnak különleges bája van.",
+                "ro": "Parcați aproape de accesul la apă pentru a scurta drumul prin ploaie. Vederea prin parbrizul umed are un farmec aparte, foarte pitoresc.",
+                "en": "Park close to the water access to keep your walk in the rain as short as possible. The view through a rainy windshield has its own unique charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Forêt d'Eschau",
+                "hu": "Forêt d'Eschau",
+                "ro": "Forêt d'Eschau",
+                "en": "Forêt d'Eschau"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie befestigte Waldparkplätze, um nicht im Schlamm steckenzubleiben. Ein kurzes Durchlüften des Autos vertreibt die Feuchtigkeit von den Kleidern.",
+                "hu": "Használd a kövezett erdei parkolókat, hogy ne ragadj bele a sárba. Egy rövid szellőztetés segít elűzni a ruhákból eredő párát az autóban.",
+                "ro": "Folosiți parcările forestiere pavate pentru a nu rămâne blocați în noroi. O scurtă aerisire a mașinii elimină umiditatea adusă de haine.",
+                "en": "Use paved forest parking lots to avoid getting stuck in the mud. Briefly airing out the car will help clear humidity brought in by wet clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de Plobsheim",
+                "hu": "Plan d'eau de Plobsheim",
+                "ro": "Plan d'eau de Plobsheim",
+                "en": "Plan d'eau de Plobsheim"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Deich haben Sie eine tolle Panoramasicht, ohne nass zu werden. Achten Sie auf starke Windböen beim Öffnen der Autotüren.",
+                "hu": "A gát melletti parkolóból nagyszerű panoráma nyílik anélkül, hogy megáznál. Vigyázz az erős széllökésekre az autóajtó nyitásakor.",
+                "ro": "Din parcarea de lângă dig aveți o panoramă excelentă fără să vă udați. Atenție la rafalele de vânt când deschideți portierele mașinii.",
+                "en": "From the parking lot by the dike, you have a great panorama without getting wet. Watch out for strong wind gusts when opening the car doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhlenloch",
+                "hu": "Uhlenloch",
+                "ro": "Uhlenloch",
+                "en": "Uhlenloch"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können schmal und rutschig sein; fahren Sie langsam. Die Regentropfen auf den Fenstern bilden einen natürlichen Rahmen für Fotos.",
+                "hu": "A bekötőutak keskenyek és csúszósak lehetnek; hajts lassan. Az ablaküvegen lévő esőcseppek természetes keretet adnak a fotóidnak.",
+                "ro": "Drumurile de acces pot fi înguste și alunecoase; conduceți încet. Picăturile de pe geamuri formează un cadru natural pentru fotografii.",
+                "en": "The access roads can be narrow and slippery; drive slowly and carefully. Raindrops on the windows create a natural frame for your scenery photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreibauerngrund",
+                "hu": "Dreibauerngrund",
+                "ro": "Dreibauerngrund",
+                "en": "Dreibauerngrund"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für die Aussicht im Fahrzeug, wenn es heftig regnet; es ist ein sicherer Hafen. Die graue Stimmung über den Feldern wirkt sehr beruhigend.",
+                "hu": "Maradj az autóban, ha nagyon zuhog az eső; az utastér ilyenkor biztonságos menedék. A mezők feletti szürke hangulat rendkívül nyugtató.",
+                "ro": "Rămâneți în vehicul dacă plouă torențial; este un refugiu sigur. Atmosfera gri de deasupra câmpurilor are un efect foarte calmant.",
+                "en": "Stay inside the vehicle if it's pouring; it's a perfect dry haven for viewing. The grey mood over the fields is very soothing and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Goldscheuerer Baggersee",
+                "hu": "Goldscheuerer Baggersee",
+                "ro": "Goldscheuerer Baggersee",
+                "en": "Goldscheuerer Baggersee"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Losfahren Ihre Scheibenwischerblätter für beste Sicht. Das Prasseln des Regens auf das Autodach ist die perfekte Kulisse zum Entspannen.",
+                "hu": "Indulás előtt ellenőrizd az ablaktörlőket a lehető legjobb látási viszonyokért. Az autótetőn kopogó eső tökéletes háttérzaj a lazításhoz.",
+                "ro": "Verificați ștergătoarele înainte de plecare pentru o vizibilitate optimă. Târâitul ploii pe plafonul mașinii este fundalul perfect pentru relaxare.",
+                "en": "Check your wiper blades before setting off for the best possible visibility. The drumming of rain on the roof is the perfect soundtrack for relaxing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet mit einer beheizten Fahrt zur Ballastière, wo der Frost die Bäume weiß gefärbt hat. Mittags erkunden wir den Wald von Eschau, wobei das Auto als Basis dient, um sich zwischendurch aufzuwärmen. Am Nachmittag genießen wir das goldene Licht der tiefstehenden Sonne am Plan d'eau, bevor die Temperatur gegen 16:30 Uhr rapide sinkt. Die Tour endet bei Einbruch der Dunkelheit um 17:00 Uhr mit einer gemütlichen Rückfahrt.",
+            "hu": "A téli autós túra fűtött utastérben indul a Ballastière felé, ahol a zúzmara fehérre festette a fákat. Délben az eschaui erdőt járjuk be, az autó pedig remek bázis a séták közötti felmelegedéshez. Délután a lemenő nap arany fényeit élvezzük a víztározónál, mielőtt 16:30 után hirtelen zuhanni kezdene a hőmérséklet. A túra 17:00 körül, a sötétség beálltával ér véget.",
+            "ro": "Turul de iarnă începe cu o călătorie încălzită spre Ballastière, unde gerul a albit copacii. La prânz explorăm pădurea Eschau, mașina fiind baza ideală pentru a ne încălzi între scurte plimbări. După-amiaza admirăm lumina aurie a soarelui la Plan d'eau, înainte ca gerul să se intensifice după ora 16:30. Turul se încheie la ora 17:00, odată cu lăsarea întunericului.",
+            "en": "The winter tour begins with a heated drive to Ballastière, where frost has turned the trees white. At noon, we explore the Eschau forest, using the car as a cozy base to warm up between walks. In the afternoon, enjoy the golden light of the low sun at the reservoir before temperatures drop sharply after 16:30. The tour concludes as darkness falls at 17:00 with a warm ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ballastière",
+                "hu": "Ballastière",
+                "ro": "Ballastière",
+                "en": "Ballastière"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Standheizung laufen, falls vorhanden, für einen warmen Wiedereinstieg. Das Eis am Seeufer bietet fantastische Nahaufnahmen.",
+                "hu": "Hagyd menni a fűtést, ha van állófűtésed, a kellemes visszatérés érdekében. A tóparti jégképződmények fantasztikus közeli fotótémák.",
+                "ro": "Lăsați căldura pornită pentru o reîntoarcere plăcută în habitaclu. Gheața de pe malul lacului oferă oportunități excelente pentru fotografii macro.",
+                "en": "Keep the heater running for a warm re-entry after your lakeside walk. The ice formations along the shore offer fantastic close-up photo shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Forêt d'Eschau",
+                "hu": "Forêt d'Eschau",
+                "ro": "Forêt d'Eschau",
+                "en": "Forêt d'Eschau"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Parkplätzen; streuen Sie gegebenenfalls etwas Sand. Die klare Luft im Winterwald ist sehr gesund und belebend.",
+                "hu": "Vigyázz a jeges foltokra a parkolókban; lépj óvatosan kiszálláskor. A téli erdő tiszta levegője rendkívül egészséges és frissítő hatású.",
+                "ro": "Atenție la porțiunile înghețate din parcări; pășiți cu grijă la coborâre. Aerul curat din pădurea de iarnă este foarte sănătos și revigorant.",
+                "en": "Watch out for icy patches in the parking lots; step carefully when exiting. The crisp air in the winter forest is very healthy and invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau de Plobsheim",
+                "hu": "Plan d'eau de Plobsheim",
+                "ro": "Plan d'eau de Plobsheim",
+                "en": "Plan d'eau de Plobsheim"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Windschutz bei der Vogelbeobachtung am Deich. Die tiefstehende Wintersonne zaubert lange Schatten auf das Wasser.",
+                "hu": "Használd az autót szélfogóként a gáton történő madármegfigyelés közben. Az alacsony téli nap hosszú, drámai árnyékokat vet a vízfelületre.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului când observați păsările de pe dig. Soarele jos de iarnă creează umbre lungi și spectaculoase pe apă.",
+                "en": "Use the car as a windbreak while birdwatching from the dike area. The low winter sun casts long, dramatic shadows across the frozen water."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhlenloch",
+                "hu": "Uhlenloch",
+                "ro": "Uhlenloch",
+                "en": "Uhlenloch"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab den Straßenzustand, da Nebenwege oft nicht geräumt sind. Die schneebedeckte Landschaft wirkt hier wie aus einem Märchen.",
+                "hu": "Indulás előtt ellenőrizd az útviszonyokat, a mellékutakat télen ritkábban takarítják. A havas táj itt olyan, mintha egy mesekönyvbe csöppentél volna.",
+                "ro": "Verificați starea drumurilor, deoarece căile secundare pot fi necurățate. Peisajul înzăpezit de aici pare desprins dintr-o poveste de iarnă.",
+                "en": "Check road conditions beforehand, as side roads may not be cleared of snow. The snow-covered landscape here feels like something out of a fairytale."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreibauerngrund",
+                "hu": "Dreibauerngrund",
+                "ro": "Dreibauerngrund",
+                "en": "Dreibauerngrund"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie genügend Frostschutzmittel in der Scheibenwaschanlage haben. Die gefrorenen Felder strahlen eine tiefe Ruhe aus.",
+                "hu": "Ügyelj rá, hogy legyen elég fagyálló a szélvédőmosóban a jó kilátásért. A befagyott szántóföldek látványa mély nyugalmat és csendet áraszt.",
+                "ro": "Asigurați-vă că aveți suficient lichid de parbriz antigel pentru o vizibilitate bună. Câmpurile înghețate emană o liniște profundă și odihnitoare.",
+                "en": "Ensure you have enough antifreeze in your windshield washer fluid. The sight of the frozen fields radiates a deep sense of calm and stillness."
+              }
+            },
+            {
+              "name": {
+                "de": "Goldscheuerer Baggersee",
+                "hu": "Goldscheuerer Baggersee",
+                "ro": "Goldscheuerer Baggersee",
+                "en": "Goldscheuerer Baggersee"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17 Uhr vom beheizten Innenraum aus. Ein warmer Kaffee macht das Wintererlebnis im Auto perfekt.",
+                "hu": "Élvezd a naplementét 17 óra körül a fűtött utastér kényelméből. Egy pohár forró kávé teszi teljessé a téli autós élményt ezen a ponton.",
+                "ro": "Bucurați-vă de apusul soarelui în jurul orei 17:00 din interiorul încălzit. O cafea fierbinte completează perfect experiența de iarnă în mașină.",
+                "en": "Enjoy the sunset around 17:00 from the comfort of your heated car. A hot cup of coffee makes this winter lakeside experience truly perfect."
+              }
+            }
+          ]
+        }
       }
     }
   }

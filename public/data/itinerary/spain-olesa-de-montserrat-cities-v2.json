@@ -137,6 +137,168 @@
         "hu": "A reggel Olesa központjában indul, az El Casal és a híres Gran Teatre de la Passió kulturális örökségének megcsodálásával. Délben a vidékies külváros felé vesszük az irányt, felfedezve a hagyományos szárazkő kunyhókat. A délutánt a természetes forrásoknál töltjük, megpihenve a békés Font del Frare Pau mellett. Az estét a varázslatos Font dels Encantats környékén zárjuk.",
         "ro": "Dimineața începe în centrul localității Olesa, admirând patrimoniul cultural de la El Casal și faimosul Gran Teatre. La prânz, tranziția se face spre periferia rustică, descoperind colibele tradiționale din piatră seacă. După-amiaza este dedicată izvoarelor naturale, cu un popas la liniștitul Font del Frare Pau. Seara se încheie la fermecătorul izvor Font dels Encantats.",
         "en": "Morning starts in Olesa's center, admiring the rich cultural heritage at El Casal and the renowned Gran Teatre de la Passió. Midday transitions towards the rustic outskirts, discovering the traditional dry stone huts that mark the landscape. Afternoon is spent enjoying the natural springs, resting by the peaceful Font del Frare Pau. Evening concludes at the enchanting Font dels Encantats."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt im El Casal, wo Kultur Vorrang vor dem Regen hat. Mittags bietet das große Theater eine trockene Zuflucht voller Geschichte. Nachmittags führt der Weg zu den Steinhütten; festes Schuhwerk ist auf den matschigen Pfaden ein Muss. Den Abend lassen wir im Ortskern ausklingen, während die Lichter sich in den Pfützen spiegeln.",
+            "hu": "A reggel az El Casal védett falai között indul, ahol a kultúra fontosabb az esőnél. Délben a nagyszínház nyújt száraz menedéket és lenyűgöző látványt. Délután a szárazkő kunyhók felé vesszük az irányt; a saras ösvényeken a vízálló bakancs elengedhetetlen. Az estét a városközpontban zárjuk, élvezve a vizes aszfalton megcsillanó fényeket.",
+            "ro": "Dimineața începe la adăpost în El Casal, unde cultura primează în fața ploii. La prânz, marele teatru oferă un refugiu uscat și plin de istorie. După-amiaza mergem spre colibele de piatră; încălțămintea impermeabilă este obligatorie pe potecile noroioase. Seara se încheie în centrul orașului, admirând reflexiile luminilor în bălțile de pe străzi.",
+            "en": "The morning starts sheltered at El Casal, where culture takes precedence over the rain. At noon, the grand theater provides a dry refuge full of history. In the afternoon, head towards the dry stone huts; waterproof boots are essential on the muddy paths. The evening concludes in the town center, enjoying the city lights reflecting on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Casal",
+                "hu": "El Casal",
+                "ro": "El Casal",
+                "en": "El Casal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume dieses Kulturzentrums, um dem Regen zu entfliehen; bewundern Sie die Details der Architektur und nutzen Sie die Garderobe für nasse Kleidung.",
+                "hu": "Használja ki a kulturális központ belső tereit az eső elől; csodálja meg az építészeti részleteket, és vegye igénybe a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Profitați de spațiile interioare ale acestui centru cultural pentru a scăpa de ploaie; admirați detaliile arhitecturale și folosiți garderoba pentru hainele ude.",
+                "en": "Take advantage of the interior spaces of this cultural center to escape the rain; admire the architectural details and use the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Teatre de la Passió d'Olesa",
+                "hu": "Gran Teatre de la Passió d'Olesa",
+                "ro": "Gran Teatre de la Passió d'Olesa",
+                "en": "Gran Teatre de la Passió d'Olesa"
+              },
+              "tip_5lang": {
+                "de": "Dieses monumentale Theater ist der perfekte Ort für einen regnerischen Mittag; erkunden Sie die beeindruckenden Säle und bringen Sie eine wetterfeste Taschenlampe mit.",
+                "hu": "Ez a monumentális színház tökéletes helyszín egy esős délutánhoz; fedezze fel a lenyűgöző termeket, és vigyen magával egy vízálló elemlámpát a sötétebb sarkokhoz.",
+                "ro": "Acest teatru monumental este locul perfect pentru o amiază ploioasă; explorați sălile impresionante și aduceți o lanternă rezistentă la apă pentru colțurile obscure.",
+                "en": "This monumental theater is the perfect place for a rainy afternoon; explore the impressive halls and bring a waterproof flashlight for the darker corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Dry Stone Hut (Olesa Typology)",
+                "hu": "Szárazkő kunyhó (Olesa típus)",
+                "ro": "Colibă din piatră seacă (tipologia Olesa)",
+                "en": "Dry Stone Hut (Olesa Typology)"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Hütten bieten einen rustikalen Schutz, aber der Zugangsweg ist bei Nässe sehr rutschig; treten Sie vorsichtig auf und tragen Sie griffige Wanderschuhe.",
+                "hu": "A történelmi kunyhók rusztikus menedéket nyújtanak, de az út esőben rendkívül csúszós; lépjen óvatosan, és viseljen jó tapadású, vízálló túrabakancsot.",
+                "ro": "Colibele istorice oferă un adăpost rustic, dar drumul de acces este foarte alunecos pe ploaie; pășiți cu grijă și purtați bocanci de munte cu aderență bună.",
+                "en": "The historical huts offer rustic shelter, but the access path is very slippery in the rain; step carefully and wear hiking boots with excellent grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Frare Pau",
+                "hu": "Font del Frare Pau",
+                "ro": "Font del Frare Pau",
+                "en": "Font del Frare Pau"
+              },
+              "tip_5lang": {
+                "de": "Die Quelle wirkt im Regen besonders atmosphärisch, doch die Steine rundherum sind glatt; halten Sie Abstand zum Beckenrand und tragen Sie ein Regenponcho gegen den Wind.",
+                "hu": "A forrás esőben különleges hangulatot áraszt, de a kövek környéke csúszós; tartson távolságot a medence szélétől, és viseljen esőpelerint a szél ellen.",
+                "ro": "Fântâna are o atmosferă deosebită pe ploaie, dar pietrele din jur sunt netede; păstrați distanța de marginea bazinului și purtați o pelerină de ploaie.",
+                "en": "The fountain has a special atmosphere in the rain, but the stones around it are smooth; keep your distance from the edge and wear a rain poncho against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Font dels Encantats",
+                "hu": "Font dels Encantats",
+                "ro": "Font dels Encantats",
+                "en": "Font dels Encantats"
+              },
+              "tip_5lang": {
+                "de": "Ein mystischer Ort im Wald, der bei Regen zum Leben erwacht; achten Sie auf tiefhängende Äste und beenden Sie den Besuch zügig, bevor die Wege zu schlammig werden.",
+                "hu": "Misztikus hely az erdőben, amely esőben kel igazán életre; ügyeljen a belógó ágakra, és fejezze be gyorsan a látogatást, mielőtt az utak túl sarassá válnak.",
+                "ro": "Un loc mistic în pădure care prinde viață pe ploaie; atenție la crengile joase și finalizați vizita rapid înainte ca drumurile să devină prea noroioase.",
+                "en": "A mystical place in the forest that truly comes alive in the rain; watch out for low-hanging branches and finish your visit quickly before paths get too muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen wärmen wir uns im El Casal auf. Mittags bestaunen wir das Theater, bevor wir uns für die Wanderung dick einpacken. Die Steinhütten in der kühlen Luft wirken fast zeitlos. Da die Sonne gegen 17:00 Uhr untergeht, besuchen wir die Brunnen am frühen Nachmittag. Der Abend endet gemütlich bei einem heißen Getränk im Dorf.",
+            "hu": "Egy tiszta téli reggelen az El Casalban melegszünk fel. Délben megcsodáljuk a színházat, mielőtt vastagon felöltöznénk a túrához. A kőkunyhók a hűvös levegőben szinte időtlennek tűnnek. Mivel a nap 17:00 körül nyugszik, a forrásokat kora délután keressük fel. Az este a faluban zárul egy forró ital mellett.",
+            "ro": "Într-o dimineață senină de iarnă ne încălzim la El Casal. La prânz admirăm teatrul înainte de a ne îmbrăca gros pentru drumeție. Colibele de piatră par atemporale în aerul rece. Deoarece soarele apune în jur de ora 17:00, vizităm fântânile devreme. Seara se încheie confortabil cu o băutură caldă în sat.",
+            "en": "On a clear winter morning, we warm up at El Casal. At noon, we admire the theater before layering up for the hike. The stone huts look almost timeless in the cool air. Since the sun sets around 17:00, we visit the fountains in the early afternoon. The evening ends cozily with a hot drink in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Casal",
+                "hu": "El Casal",
+                "ro": "El Casal",
+                "en": "El Casal"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, um die morgendliche Kälte zu meiden; das beheizte Gebäude bietet eine ideale Umgebung für Kultur und Sie können Ihre schwere Winterjacke kurz ablegen.",
+                "hu": "Kezdje itt a napot, hogy elkerülje a reggeli fagyot; a fűtött épület ideális környezet a kultúrához, és rövid időre leveheti a nehéz téli kabátját is.",
+                "ro": "Începeți ziua aici pentru a evita frigul dimineții; clădirea încălzită oferă un mediu ideal pentru cultură și vă puteți da jos haina groasă pentru scurt timp.",
+                "en": "Start your day here to avoid the morning frost; the heated building offers an ideal environment for culture, and you can briefly take off your heavy winter coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Teatre de la Passió d'Olesa",
+                "hu": "Gran Teatre de la Passió d'Olesa",
+                "ro": "Gran Teatre de la Passió d'Olesa",
+                "en": "Gran Teatre de la Passió d'Olesa"
+              },
+              "tip_5lang": {
+                "de": "Das Theaterinnere ist im Winter angenehm temperiert; nutzen Sie die Zeit für eine ausführliche Besichtigung und wärmen Sie sich auf, bevor es wieder nach draußen geht.",
+                "hu": "A színház belső tere télen is kellemes hőmérsékletű; szánjon időt a részletes látogatásra, és melegedjen fel alaposan, mielőtt újra a szabadba indulna.",
+                "ro": "Interiorul teatrului are o temperatură plăcută iarna; acordați timp unei vizite detaliate și încălziți-vă bine înainte de a ieși din nou în aer liber.",
+                "en": "The theater interior maintains a pleasant temperature in winter; take your time for a detailed visit and warm up thoroughly before heading back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dry Stone Hut (Olesa Typology)",
+                "hu": "Szárazkő kunyhó (Olesa típus)",
+                "ro": "Colibă din piatră seacă (tipologia Olesa)",
+                "en": "Dry Stone Hut (Olesa Typology)"
+              },
+              "tip_5lang": {
+                "de": "In den Hütten zieht es im Winter stark; tragen Sie Thermounterwäsche und eine winddichte Jacke, um die historische Architektur ohne Frieren genießen zu können.",
+                "hu": "A kunyhókban télen erősen jár a szél; viseljen hőtartó aláöltözetet és szélálló kabátot, hogy fagyoskodás nélkül élvezhesse a történelmi építészetet.",
+                "ro": "În colibe trage curentul iarna; purtați lenjerie termică și o jachetă rezistentă la vânt pentru a vă bucura de arhitectura istorică fără a tremura de frig.",
+                "en": "The huts can be very drafty in winter; wear thermal layers and a windproof jacket to enjoy the historical architecture without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Frare Pau",
+                "hu": "Font del Frare Pau",
+                "ro": "Font del Frare Pau",
+                "en": "Font del Frare Pau"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann an den Rändern gefroren sein; achten Sie auf Glatteis auf den umliegenden Wegen und tragen Sie Handschuhe beim Fotografieren der eisigen Details.",
+                "hu": "A víz szélei befagyhatnak; ügyeljen a jegesedésre a környező utakon, és viseljen kesztyűt, miközben a téli táj jeges részleteit fotózza.",
+                "ro": "Apa poate fi înghețată la margini; atenție la gheața de pe drumurile din jur și purtați mănuși în timp ce fotografiați detaliile înghețate ale peisajului.",
+                "en": "The water edges might be frozen; watch out for ice on the surrounding paths and wear gloves while photographing the icy details of the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Font dels Encantats",
+                "hu": "Font dels Encantats",
+                "ro": "Font dels Encantats",
+                "en": "Font dels Encantats"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die tiefstehende Winternebel verleiht dem Wald eine magische, aber kalte Aura.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy kihasználja az utolsó fényeket; az alacsonyan szálló téli köd mágikus, de hideg aurát kölcsönöz az erdőnek.",
+                "ro": "Vizitați acest loc înainte de 16:30 pentru a profita de ultima lumină; ceața joasă de iarnă conferă pădurii o aură magică, dar foarte rece.",
+                "en": "Visit this spot before 16:30 to catch the last daylight; the low winter mist gives the forest a magical but very cold aura."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggelt Olesa lenyűgöző színházánál kezdjük, majd áttekerünk a folyón Esparreguerába. A delet a történelmi Santa Eulàlia templom és a nyüzsgő központban található Városháza felfedezésével töltjük. Délután a helyi hagyományokban gyökerező Teatre la Passió d'Esparreguera-hoz kerékpározunk. Az estét a várromok és a Santa Maria látványos megközelítése koronázza meg.",
         "ro": "Începeți dimineața la impresionantul teatru din Olesa, apoi pedalați peste râu spre Esparreguera. Prânzul este dedicat explorării bisericii istorice Santa Eulàlia și a Primăriei din centrul animat. Plimbările de după-amiază vă poartă la remarcabilul Teatre la Passió d'Esparreguera. Seara aduce o urcare pitorească spre ruinele castelului și biserica Santa Maria.",
         "en": "Kick off the morning at Olesa's impressive theater before pedaling across the river to Esparreguera. Midday is spent exploring the historic Santa Eulàlia church and the grand Town Hall in the bustling center. Afternoon rides take you to the remarkable Teatre la Passió d'Esparreguera, deeply rooted in local tradition. Evening brings a scenic climb to the castle ruins and Santa Maria."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet vorsichtig auf den nassen Straßen von Olesa. Vormittags bietet das Theater eine lange, trockene Pause. Mittags radeln wir nach Esparreguera; Achtung bei den Bremswegen! Die Nachmittage verbringen wir in den dortigen Theatern und Kirchen, um dem schlimmsten Guss zu entgehen. Die Rückfahrt erfolgt bei Dämmerung mit eingeschaltetem Licht und voller Regenmontur.",
+            "hu": "A biciklitúra óvatosan indul Olesa vizes utcáin. Délelőtt a színház kínál hosszú, száraz pihenőt. Délben áttekerünk Esparreguerába; ügyeljen a megnövekedett fékútra! A délutánt a helyi színházakban és templomokban töltjük, elkerülve a nagyobb felhőszakadást. A hazautat szürkületben, bekapcsolt lámpákkal és teljes esőfelszerelésben tesszük meg.",
+            "ro": "Turul cu bicicleta începe cu prudență pe străzile umede din Olesa. Dimineața, teatrul oferă o pauză lungă și uscată. La prânz pedalăm spre Esparreguera; atenție la distanța de frânare! Petrecem după-amiaza în teatrele și bisericile locale pentru a evita ploaia torențială. Întoarcerea se face la amurg, cu luminile aprinse și echipament complet de ploaie.",
+            "en": "The bike tour starts cautiously on the wet streets of Olesa. In the morning, the theater offers a long, dry break. At noon, we cycle to Esparreguera; watch your braking distance! We spend the afternoon in local theaters and churches to avoid the heaviest downpours. The return trip is at dusk, with lights on and full rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gran Teatre de la Passió d'Olesa",
+                "hu": "Gran Teatre de la Passió d'Olesa",
+                "ro": "Gran Teatre de la Passió d'Olesa",
+                "en": "Gran Teatre de la Passió d'Olesa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad sicher abzustellen und die Kleidung zu trocknen; nutzen Sie die Zeit, um die monumentale Bühne ohne Zeitdruck im Trockenen zu bewundern.",
+                "hu": "Ideális hely a bicikli biztonságos leállításához és a ruhák megszárításához; szánjon időt a monumentális színpad megcsodálására, miközben kint esik.",
+                "ro": "Un loc ideal pentru a lăsa bicicleta în siguranță și pentru a vă usca hainele; profitați de timp pentru a admira scena monumentală fără grabă, la adăpost.",
+                "en": "An ideal place to safely park your bike and dry your clothes; take the time to admire the monumental stage without pressure while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Eulàlia",
+                "hu": "Santa Eulàlia",
+                "ro": "Santa Eulàlia",
+                "en": "Santa Eulàlia"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Regen rutschig, aber die Kirche bietet einen stillen, trockenen Rückzugsort; prüfen Sie Ihre Bremsen vor dem Abstieg zur Kapelle genau.",
+                "hu": "Az idevezető út esőben csúszós, de a templom csendes, száraz menedéket nyújt; alaposan ellenőrizze a fékeit, mielőtt legurulna a kápolnához.",
+                "ro": "Drumul până aici este alunecos pe ploaie, dar biserica oferă un refugiu liniștit și uscat; verificați frânele cu atenție înainte de a coborî spre capelă.",
+                "en": "The ride here is slippery in the rain, but the church offers a quiet, dry retreat; check your brakes thoroughly before descending to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Esparraguera",
+                "hu": "Esparraguera Városháza",
+                "ro": "Primăria din Esparraguera",
+                "en": "Ajuntament d'Esparraguera"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden des Rathauses; das historische Gebäude ist ein markanter Orientierungspunkt, wenn die Sicht durch Regen eingeschränkt ist.",
+                "hu": "Keressen menedéket a városháza árkádjai alatt; a történelmi épület kiváló tájékozódási pont marad akkor is, ha az eső miatt korlátozottak a látási viszonyok.",
+                "ro": "Căutați adăpost sub arcadele primăriei; clădirea istorică este un punct de reper excelent chiar și atunci când vizibilitatea este redusă din cauza ploii.",
+                "en": "Seek shelter under the town hall arches; the historical building is an excellent landmark even when visibility is limited by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre la Passió d'Esparreguera",
+                "hu": "Teatre la Passió d'Esparreguera",
+                "ro": "Teatre la Passió d'Esparreguera",
+                "en": "Teatre la Passió d'Esparreguera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Pause im trockenen Innenraum; bringen Sie ein Handtuch mit, um den Sattel Ihres Rads nach dem Stopp wieder trocken zu wischen.",
+                "hu": "Élvezze a kulturális szünetet a száraz belső térben; vigyen magával egy törölközőt, hogy a látogatás után szárazra törölhesse a bicikli nyergét.",
+                "ro": "Bucurați-vă de pauza culturală în interiorul uscat; aduceți un prosop pentru a șterge șaua bicicletei după ce ieșiți din nou în ploaie.",
+                "en": "Enjoy the cultural break in the dry interior; bring a towel to wipe your bike seat dry after the visit before heading out again."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Esparreguera",
+                "hu": "Castell d'Esparreguera",
+                "ro": "Castell d'Esparreguera",
+                "en": "Castell d'Esparreguera"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Schloss ist bei Regen anstrengend und rutschig; nutzen Sie die Mauervorsprünge als kurzen Unterstand und tragen Sie eine helle Warnweste.",
+                "hu": "A várba vezető emelkedő esőben fárasztó és csúszós; használja a falak kiszöggeléseit rövid pihenőre, és viseljen jól látható esődzsekit.",
+                "ro": "Urcarea spre castel este obositoare și alunecoasă pe ploaie; folosiți proeminențele zidurilor pentru un scurt adăpost și purtați o vestă reflectorizantă.",
+                "en": "The climb to the castle is tiring and slippery in the rain; use the wall overhangs for a quick shelter and wear a high-visibility rain jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria del Puig",
+                "hu": "Església de Santa Maria del Puig",
+                "ro": "Església de Santa Maria del Puig",
+                "en": "Església de Santa Maria del Puig"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und trocknen Sie sich im Portal ab; achten Sie auf tief hängende Wolken, die die Aussicht vom Hügel heute verhüllen könnten.",
+                "hu": "Zárja itt a túrát, és szárítkozzon meg a kapualjban; számítson rá, hogy az alacsony felhőzet ma elfedheti a dombról nyíló panorámát.",
+                "ro": "Încheiați turul aici și uscați-vă în portal; rețineți că norii joși pot ascunde astăzi panorama de pe deal.",
+                "en": "End the tour here and dry off in the portal; be aware that low clouds might hide the panorama from the hill today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Tag erfordert warme Handschuhe auf dem Rad. Vormittags wärmen wir uns in den Theatern von Olesa auf. Mittags geht es zügig nach Esparreguera, solange die Sonne noch etwas Kraft hat. Nachmittags besuchen wir die historischen Gebäude, bevor die Kälte gegen 16:30 Uhr merklich anzieht. Die Tour endet pünktlich zum Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A fagyos reggeli kezdéshez meleg kesztyűre lesz szükség a bringán. Délelőtt az olesai színházakban melegszünk fel. Délben tempósan tekerünk át Esparreguerába, amíg még ereje van a napnak. Délután a történelmi épületeket látogatjuk meg, mielőtt 16:30 körül érezhetően lehűlne a levegő. A túra pontosan a 17:00-ás naplementekor ér véget.",
+            "ro": "Un început de zi înghețat necesită mănuși calde pe bicicletă. Dimineața ne încălzim în teatrele din Olesa. La prânz pedalăm rapid spre Esparreguera cât timp soarele încă are putere. După-amiaza vizităm clădirile istorice înainte ca frigul să se lase simțitor în jur de 16:30. Turul se încheie exact la apusul soarelui de la ora 17:00.",
+            "en": "A frosty start to the day requires warm gloves on the bike. In the morning, we warm up in the theaters of Olesa. At noon, we cycle quickly to Esparreguera while the sun still has some strength. In the afternoon, we visit the historical buildings before the cold sets in noticeably around 16:30. The tour ends exactly at sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gran Teatre de la Passió d'Olesa",
+                "hu": "Gran Teatre de la Passió d'Olesa",
+                "ro": "Gran Teatre de la Passió d'Olesa",
+                "en": "Gran Teatre de la Passió d'Olesa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum, um Ihre Finger für die Weiterfahrt aufzuwärmen; die Akustik ist im Winter bei geschlossenen Türen besonders klar.",
+                "hu": "Használja a fűtött belső teret, hogy felmelegítse ujjait a továbbindulás előtt; az akusztika télen, zárt ajtók mellett különösen tiszta és lenyűgöző.",
+                "ro": "Folosiți interiorul încălzit pentru a vă încălzi degetele înainte de a porni din nou la drum; acustica este deosebit de clară iarna, cu ușile închise.",
+                "en": "Use the heated interior to warm up your fingers before riding on; the acoustics are particularly clear in winter with all doors closed."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Eulàlia",
+                "hu": "Santa Eulàlia",
+                "ro": "Santa Eulàlia",
+                "en": "Santa Eulàlia"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter ein kühler Ort, aber windgeschützt; tragen Sie eine Mütze unter dem Helm, um den Wärmeverlust bei der Anfahrt zu minimieren.",
+                "hu": "A kápolna télen hűvös, de szélvédett hely; viseljen sapkát a sisak alatt, hogy minimalizálja a hőveszteséget az idevezető út során.",
+                "ro": "Capela este un loc răcoros iarna, dar ferit de vânt; purtați o căciulă sub cască pentru a minimiza pierderea de căldură în timpul deplasării.",
+                "en": "The chapel is cool in winter but protected from the wind; wear a thin hat under your helmet to minimize heat loss during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Esparraguera",
+                "hu": "Esparraguera Városháza",
+                "ro": "Primăria din Esparraguera",
+                "en": "Ajuntament d'Esparraguera"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus liegt oft im Schatten der umliegenden Gassen; halten Sie sich für eine kurze Pause in den sonnigen Bereichen des Platzes auf, um nicht auszukühlen.",
+                "hu": "A városháza gyakran a környező utcák árnyékában fekszik; a rövid pihenőhöz keressen napos részt a téren, hogy ne hűljön ki túlságosan.",
+                "ro": "Primăria este adesea în umbra străzilor din jur; pentru o scurtă pauză, stați în zonele însorite ale pieței ca să nu vă răcească frigul.",
+                "en": "The town hall is often in the shade of surrounding streets; for a short break, stay in the sunny areas of the square to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre la Passió d'Esparreguera",
+                "hu": "Teatre la Passió d'Esparreguera",
+                "ro": "Teatre la Passió d'Esparreguera",
+                "en": "Teatre la Passió d'Esparreguera"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um der Winterkälte für eine Stunde zu entkommen; prüfen Sie den Reifendruck Ihres Rads, da dieser bei niedrigen Temperaturen sinken kann.",
+                "hu": "Csodálatos hely, hogy egy órára elmeneküljön a téli hideg elől; ellenőrizze a keréknyomást, mivel az alacsony hőmérsékleten hajlamos csökkenni.",
+                "ro": "Un loc minunat pentru a scăpa de frigul iernii timp de o oră; verificați presiunea în pneuri, deoarece aceasta tinde să scadă la temperaturi joase.",
+                "en": "A wonderful place to escape the winter cold for an hour; check your tire pressure, as it tends to drop in low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Esparreguera",
+                "hu": "Castell d'Esparreguera",
+                "ro": "Castell d'Esparreguera",
+                "en": "Castell d'Esparreguera"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die alten Mauern zum Leuchten; bringen Sie eine Thermoskanne mit warmem Tee mit, um den Ausblick vom windigen Schlossberg zu genießen.",
+                "hu": "A téli napfény gyönyörűen világítja meg a régi falakat; vigyen magával termoszban meleg teát, hogy élvezhesse a kilátást a szeles várhegyről.",
+                "ro": "Soarele de iarnă luminează frumos zidurile vechi; aduceți un termos cu ceai cald pentru a vă bucura de priveliștea de pe dealul vântos al castelului.",
+                "en": "The winter sun illuminates the old walls beautifully; bring a thermos with warm tea to enjoy the view from the windy castle hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria del Puig",
+                "hu": "Església de Santa Maria del Puig",
+                "ro": "Església de Santa Maria del Puig",
+                "en": "Església de Santa Maria del Puig"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang über dem Tal zu erleben; ziehen Sie für die anschließende Abfahrt eine zusätzliche Schicht Kleidung an.",
+                "hu": "Érkezzen 16:45 előtt, hogy elcsípje a naplementét a völgy felett; az ezt követő lejtmenethez vegyen fel még egy réteg ruhát a menetszél ellen.",
+                "ro": "Sosiți înainte de 16:45 pentru a prinde apusul peste vale; pentru coborârea care urmează, puneți-vă un strat suplimentar de haine contra vântului.",
+                "en": "Arrive before 16:45 to catch the sunset over the valley; put on an extra layer of clothing for the subsequent descent against the wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggel Esparreguera Városházájának történelmi építészetével és a közeli várromokkal indul. Délben a békés Santa Victorina felé vesszük az irányt, mielőtt a természetbe hajtanánk a régi szárazkő kunyhókhoz. A délután ezen egyedülálló mezőgazdasági építmények autós felfedezésével telik. Este visszatérünk Olesába, hogy a pezsgő El Casalban pihenjük ki a napot.",
         "ro": "Dimineața începe cu arhitectura istorică a Primăriei din Esparreguera și ruinele castelului. La prânz vizitați liniștita Santa Victorina, înainte de a conduce în natură pentru a găsi colibe antice din piatră seacă. După-amiaza este un tur cu mașina al acestor structuri agricole unice. Seara vă întoarceți în Olesa pentru a vă relaxa și a vă bucura de vibrantul El Casal.",
         "en": "Morning begins with the historic architecture of Esparreguera's Town Hall and the nearby castle remains. Midday takes you to the serene Santa Victorina before driving into the natural landscape to find ancient dry stone huts. Afternoon is a driving tour of these unique agricultural structures, stepping back in time. Evening returns to Olesa to relax and enjoy the vibrant El Casal."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir bequem die Gegend, während draußen der Regen prasselt. Vormittags besuchen wir Esparreguera. Mittags steuern wir die abgelegenen Steinhütten an; das Auto dient als trockene Basis zwischen den kurzen Sprints zu den Ruinen. Nachmittags geht es zurück nach Olesa ins El Casal. Parken Sie nahe an den Eingängen, um nicht nass zu werden.",
+            "hu": "Autóval kényelmesen felfedezzük a környéket, miközben kint dobol az eső. Délelőtt Esparreguerát járjuk be. Délben a távoli kőkunyhók felé vesszük az irányt; az autó száraz bázisként szolgál a romokhoz tett rövid sprintek között. Délután visszatérünk Olesába az El Casalba. Parkoljon közel a bejáratokhoz, hogy ne ázzon el.",
+            "ro": "Cu mașina explorăm confortabil împrejurimile în timp ce afară plouă. Dimineața vizităm Esparreguera. La prânz ne îndreptăm spre colibele de piatră izolate; mașina servește ca bază uscată între scurtele reprize de vizitare. După-amiaza revenim în Olesa la El Casal. Parcați aproape de intrări pentru a nu vă uda.",
+            "en": "By car, we comfortably explore the area while the rain drums outside. In the morning, we tour Esparreguera. At noon, we head to the remote stone huts; the car serves as a dry base between short sprints to the ruins. In the afternoon, we return to Olesa to El Casal. Park close to the entrances to avoid getting wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Esparraguera",
+                "hu": "Esparraguera Városháza",
+                "ro": "Primăria din Esparraguera",
+                "en": "Ajuntament d'Esparraguera"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums, um lange Fußwege im Regen zu vermeiden; das Rathaus bietet Schutz, während Sie die weiteren Schritte planen.",
+                "hu": "Parkoljon a központ közelében, hogy elkerülje a hosszú gyaloglást az esőben; a városháza épülete védelmet nyújt, amíg megtervezi a következő lépéseket.",
+                "ro": "Parcați aproape de centru pentru a evita mersul lung pe jos prin ploaie; clădirea primăriei oferă protecție în timp ce planificați următorii pași.",
+                "en": "Park near the center to avoid long walks in the rain; the town hall building provides shelter while you plan your next moves."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Esparreguera",
+                "hu": "Castell d'Esparreguera",
+                "ro": "Castell d'Esparreguera",
+                "en": "Castell d'Esparreguera"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Schloss kann matschig sein; lassen Sie das Auto auf befestigtem Grund stehen und nehmen Sie einen stabilen Regenschirm für den kurzen Aufstieg mit.",
+                "hu": "A várhoz vezető út saras lehet; hagyja az autót szilárd burkolaton, és vigyen magával egy stabil esernyőt a rövid emelkedőhöz.",
+                "ro": "Drumul spre castel poate fi noroios; lăsați mașina pe teren stabil și luați o umbrelă rezistentă pentru scurta urcare.",
+                "en": "The path to the castle can be muddy; leave the car on solid ground and take a sturdy umbrella for the short climb up."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Victorina",
+                "hu": "Santa Victorina",
+                "ro": "Santa Victorina",
+                "en": "Santa Victorina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Kapelle; so können Sie die religiöse Stätte auch bei starkem Regen fast trocken erreichen und besichtigen.",
+                "hu": "Használja a közvetlenül a kápolna előtti parkolót; így heves esőzés esetén is szinte szárazon érheti el és látogathatja meg a vallási helyszínt.",
+                "ro": "Folosiți parcarea direct din fața capelei; astfel puteți ajunge și vizita locul religios aproape uscat chiar și în caz de ploaie torențială.",
+                "en": "Use the parking lot directly in front of the chapel; this allows you to reach and visit the religious site almost dry even during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 21068",
+                "hu": "Szárazkő kunyhó 21068",
+                "ro": "Colibă din piatră seacă 21068",
+                "en": "Dry Stone Hut 21068"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto sicher am Wegrand ab und achten Sie auf weichen Boden; die Hütte bietet nur minimalen Schutz vor seitlich peitschendem Regen.",
+                "hu": "Állítsa le az autót biztonságosan az út szélén, és ügyeljen a felázott talajra; a kunyhó csak minimális védelmet nyújt az oldalról verő eső ellen.",
+                "ro": "Opriți mașina în siguranță pe marginea drumului și atenție la solul moale; coliba oferă doar o protecție minimă împotriva ploii bătute de vânt.",
+                "en": "Park the car safely on the roadside and watch out for soft ground; the hut offers only minimal protection against wind-driven rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 13499",
+                "hu": "Szárazkő kunyhó 13499",
+                "ro": "Colibă din piatră seacă 13499",
+                "en": "Dry Stone Hut 13499"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier ideal; bleiben Sie im Auto, bis der schlimmste Schauer vorbei ist, und tragen Sie Gummistiefel für das kurze Stück zur Hütte.",
+                "hu": "Egy gyors megálló itt ideális; várja meg az autóban, amíg a legnagyobb zápor elvonul, és viseljen gumicsizmát a kunyhóhoz vezető rövid szakaszon.",
+                "ro": "O oprire rapidă aici este ideală; așteptați în mașină până trece aversa cea mai puternică și purtați cizme de cauciuc pentru porțiunea scurtă până la colibă.",
+                "en": "A quick stop here is ideal; wait in the car until the heaviest shower passes, and wear rubber boots for the short walk to the hut."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 19217",
+                "hu": "Szárazkő kunyhó 19217",
+                "ro": "Colibă din piatră seacă 19217",
+                "en": "Dry Stone Hut 19217"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand; nutzen Sie das Fernlicht Ihres Autos, um den Pfad zur Hütte besser auszuleuchten.",
+                "hu": "Kiszálláskor ügyeljen az út szélén lévő mély tócsákra; használja az autó távolsági fényszóróját, hogy jobban megvilágítsa a kunyhóhoz vezető ösvényt.",
+                "ro": "La coborâre, atenție la bălțile adânci de pe marginea drumului; folosiți faza lungă a mașinii pentru a ilumina mai bine poteca spre colibă.",
+                "en": "Watch out for deep puddles on the roadside when getting out; use your car's high beams to better illuminate the path to the hut."
+              }
+            },
+            {
+              "name": {
+                "de": "El Casal",
+                "hu": "El Casal",
+                "ro": "El Casal",
+                "en": "El Casal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Kulturzentrum; es gibt ausreichend Parkplätze in der Nähe, sodass Sie kaum Zeit im Regen verbringen müssen.",
+                "hu": "Zárja a napot a meleg kulturális központban; a közelben elegendő parkolóhely található, így alig kell időt töltenie kint az esőben.",
+                "ro": "Încheiați ziua în centrul cultural călduros; există suficiente locuri de parcare în apropiere, astfel încât va trebui să petreceți foarte puțin timp în ploaie.",
+                "en": "End your day in the warm cultural center; there is plenty of parking nearby, so you'll spend very little time out in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour im Winter ist ideal, um die weiten Landschaften ohne Kältestress zu sehen. Vormittags besichtigen wir Esparreguera mit voll aufgedrehter Heizung zwischen den Stopps. Mittags besuchen wir die Steinhütten; die tiefstehende Sonne bietet fantastisches Licht für Fotos. Nachmittags kehren wir nach Olesa zurück, bevor es um 17:00 Uhr dunkel wird. Der Tag endet gemütlich im El Casal.",
+            "hu": "A téli autós túra ideális a táj felfedezéséhez a hideg okozta stressz nélkül. Délelőtt Esparreguerát nézzük meg, a megállók között feltekert fűtéssel. Délben a kőkunyhókat látogatjuk meg; az alacsony napállás fantasztikus fényeket kínál a fotózáshoz. Délután visszatérünk Olesába, mielőtt 17:00-kor besötétedne. A nap az El Casalban zárul.",
+            "ro": "Turul cu mașina iarna este ideal pentru a vedea peisajele vaste fără stresul frigului. Dimineața vizităm Esparreguera cu încălzirea la maxim între opriri. La prânz vizităm colibele de piatră; soarele jos oferă o lumină fantastică pentru fotografii. După-amiaza revenim în Olesa înainte de a se întuneca la ora 17:00. Ziua se încheie confortabil la El Casal.",
+            "en": "A winter car tour is ideal for seeing the vast landscapes without the stress of the cold. In the morning, we tour Esparreguera with the heater on full between stops. At noon, we visit the stone huts; the low sun offers fantastic light for photos. In the afternoon, we return to Olesa before it gets dark at 17:00. The day ends cozily at El Casal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Esparraguera",
+                "hu": "Esparraguera Városháza",
+                "ro": "Primăria din Esparraguera",
+                "en": "Ajuntament d'Esparraguera"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, aber genießen Sie die Wärme des Autos vor dem Stadtrundgang; tragen Sie eine warme Mütze gegen den Wind in den Gassen.",
+                "hu": "Ne járassa feleslegesen a motort, de élvezze az autó melegét a városnézés előtt; viseljen meleg sapkát a szűk utcákban feltámadó szél ellen.",
+                "ro": "Nu lăsați motorul pornit inutil, dar bucurați-vă de căldura mașinii înainte de turul orașului; purtați o căciulă caldă contra vântului de pe străzi.",
+                "en": "Don't idle the engine unnecessarily, but enjoy the warmth of the car before your city walk; wear a warm hat against the wind in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell d'Esparreguera",
+                "hu": "Castell d'Esparreguera",
+                "ro": "Castell d'Esparreguera",
+                "en": "Castell d'Esparreguera"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Schloss kann im Winter vereist sein; prüfen Sie die Straßenverhältnisse und genießen Sie den klaren Weitblick, den nur die Winterluft bietet.",
+                "hu": "A várhoz vezető út télen jeges lehet; ellenőrizze az útviszonyokat, és élvezze a tiszta kilátást, amelyet csak a hideg téli levegő tesz lehetővé.",
+                "ro": "Drumul spre castel poate fi înghețat iarna; verificați starea drumului și bucurați-vă de vizibilitatea clară pe care o oferă doar aerul rece de iarnă.",
+                "en": "The access road to the castle might be icy in winter; check road conditions and enjoy the clear, long-distance views that only winter air provides."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Victorina",
+                "hu": "Santa Victorina",
+                "ro": "Santa Victorina",
+                "en": "Santa Victorina"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft menschenleer und friedlich; ziehen Sie sich für die kurze Besichtigung warm an, da die alten Mauern die Kälte speichern.",
+                "hu": "A kápolna télen gyakran néptelen és békés; öltözzön fel melegen a rövid látogatáshoz, mivel a régi falak erősen tartják a hideget.",
+                "ro": "Capela este adesea pustie și liniștită iarna; îmbrăcați-vă gros pentru vizita scurtă, deoarece zidurile vechi rețin puternic frigul.",
+                "en": "The chapel is often deserted and peaceful in winter; dress warmly for the short visit, as the old walls retain the cold significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 21068",
+                "hu": "Szárazkő kunyhó 21068",
+                "ro": "Colibă din piatră seacă 21068",
+                "en": "Dry Stone Hut 21068"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Hütte im Blick haben; die karge Winterlandschaft rundherum ist ein tolles Motiv, aber bleiben Sie wegen der Kälte nicht zu lange draußen.",
+                "hu": "Parkoljon úgy, hogy rálásson a kunyhóra; a kopár téli táj remek fotótéma, de a hideg miatt ne maradjon túl sokáig a szabadban.",
+                "ro": "Parcați astfel încât să aveți coliba în vedere; peisajul arid de iarnă este un subiect foto excelent, dar nu stați prea mult afară din cauza frigului.",
+                "en": "Park so you can see the hut from the car; the stark winter landscape is a great photo subject, but don't stay outside too long due to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 13499",
+                "hu": "Szárazkő kunyhó 13499",
+                "ro": "Colibă din piatră seacă 13499",
+                "en": "Dry Stone Hut 13499"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Licht des frühen Nachmittags; im Winter treten die Texturen der Steine besonders hervor, wenn die Sonne tief am Horizont steht.",
+                "hu": "Használja ki a kora délutáni utolsó fényeket; télen a kövek textúrája különösen hangsúlyos, amikor a nap alacsonyan jár a horizont felett.",
+                "ro": "Profitați de ultima lumină a amiezii; iarna textura pietrelor este deosebit de pronunțată atunci când soarele este jos la orizont.",
+                "en": "Take advantage of the early afternoon light; in winter, the textures of the stones stand out especially when the sun is low on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 19217",
+                "hu": "Szárazkő kunyhó 19217",
+                "ro": "Colibă din piatră seacă 19217",
+                "en": "Dry Stone Hut 19217"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Stopp bei sinkenden Temperaturen; vergewissern Sie sich, dass Ihre Autobatterie für die Kälte bereit ist, bevor Sie in abgelegene Gebiete fahren.",
+                "hu": "Rövid, frissítő megálló a süllyedő hőmérsékletben; győződjön meg róla, hogy az autó akkumulátora bírja a hideget, mielőtt távoli területre indulna.",
+                "ro": "O oprire scurtă și revigorantă pe măsură ce temperatura scade; asigurați-vă că bateria mașinii rezistă la frig înainte de a porni spre zone izolate.",
+                "en": "A short, crisp stop as temperatures drop; make sure your car battery is ready for the cold before heading into remote areas."
+              }
+            },
+            {
+              "name": {
+                "de": "El Casal",
+                "hu": "El Casal",
+                "ro": "El Casal",
+                "en": "El Casal"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag vor der Dunkelheit ab 17:00 Uhr zu beenden; genießen Sie die warme Atmosphäre und die weihnachtliche Dekoration im Inneren.",
+                "hu": "Tökéletes hely a nap lezárásához a 17:00-ás sötétedés előtt; élvezze a meleg légkört és a belső tér esetleges ünnepi díszítését.",
+                "ro": "Locul perfect pentru a încheia ziua înainte de lăsarea întunericului de la ora 17:00; bucurați-vă de atmosfera caldă și de decorațiunile festive din interior.",
+                "en": "The perfect place to end the day before the 17:00 darkness; enjoy the warm atmosphere and any festive decorations inside the cultural center."
+              }
+            }
+          ]
+        }
       }
     }
   }

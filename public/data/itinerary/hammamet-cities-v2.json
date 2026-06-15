@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Hammameti-öböl nyugodt partvidéki atmoszférájának magába szívásával. A délben élénk tengeri hangulat várja a helyi hajósklubban és a történelmi világítótoronynál. A délutánt a művészeteknek és a kultúrának szenteljük a tengerparti szabadtéri színházban. Zárja könnyed gyalogtúráját a Hammamet Beach aranyló homokján pihenve.",
         "ro": "Începeți dimineața absorbind atmosfera senină de coastă de-a lungul frumosului Golf Hammamet. La prânz, treceți la vibrații maritime pline de viață explorând clubul nautic local și farul istoric. După-amiaza este dedicată artei și culturii la teatrul în aer liber de la malul mării. Încheiați turul de plimbare relaxându-vă pe nisipurile aurii ale plajei Hammamet.",
         "en": "Start your morning absorbing the serene coastal atmosphere along the beautiful Gulf of Al Hammamat. Midday transitions to lively maritime vibes as you explore the local nautical club and historic lighthouse. The afternoon is dedicated to art and culture at the open-air theater by the sea. Conclude your leisurely walking tour relaxing on the golden sands of Hammamet Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer frischen Brise und leichtem Regen am Golf. Mittags suchen wir Schutz im Jachtclub und beobachten die Boote. Am Nachmittag erleben wir die dramatische Atmosphäre am Leuchtturm und am Strand im Regen. Der Abend endet mit dem Glanz der Lichter auf dem nassen Pflaster der Promenade; achten Sie auf rutschige Stellen in der Nähe der alten Mauern.",
+            "hu": "A reggel frissítő záporral indul az öbölnél, a sós pára átjárja a ruhát. Délben a kikötőben keresünk menedéket a hajók között. Délután a világítótorony és a színház látványa drámai a szürke égbolt alatt. Estére a vizes kövek csillogása teszi romantikussá a parti sétát; figyeljünk a csúszós burkolatra a medina melletti részeken.",
+            "ro": "Dimineața începe cu o briză proaspătă și o ploaie ușoară în golf. La prânz căutăm adăpost în clubul nautic, observând bărcile. După-amiaza experimentăm atmosfera dramatică la far și pe plajă sub ploaie. Seara se încheie cu strălucirea luminilor pe pavajul umed al promenadei; atenție la porțiunile alunecoase din apropierea zidurilor vechi.",
+            "en": "The morning begins with a fresh breeze and light rain by the gulf. At noon, we seek shelter in the yacht club, watching the boats. In the afternoon, we experience the dramatic atmosphere at the lighthouse and the beach in the rain. The evening ends with the glow of lights on the wet pavement of the promenade; watch out for slippery spots near the old walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gulf of Al Hammamat",
+                "hu": "Gulf of Al Hammamat",
+                "ro": "Gulf of Al Hammamat",
+                "en": "Gulf of Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufpeitschenden Wellen von einem der überdachten Cafés aus und bringen Sie eine windfeste Regenjacke für den Uferspaziergang mit.",
+                "hu": "Figyelje meg a felkorbácsolt hullámokat valamelyik fedett tengerparti kávézóból, és viseljen szélálló esőkabátot a parton való rövid sétához.",
+                "ro": "Observați valurile agitate de la una dintre cafenelele acoperite de pe mal și purtați o jachetă de ploaie rezistentă la vânt pentru plimbarea pe țărm.",
+                "en": "Observe the churning waves from one of the covered seaside cafes and wear a windproof raincoat for a short walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Club nautique hammamet C.N.H",
+                "hu": "Club nautique hammamet C.N.H",
+                "ro": "Club nautique hammamet C.N.H",
+                "en": "Club nautique hammamet C.N.H"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Clubs, um das Anlegen der Fischerboote im Regen zu beobachten, und genießen Sie einen warmen Minztee im Trockenen.",
+                "hu": "Használja ki a klub fedett részeit a halászhajók esőben való kikötésének megfigyelésére, és fogyasszon el egy meleg mentateát a szárazon.",
+                "ro": "Profitați de zonele acoperite ale clubului pentru a observa ancorarea bărcilor de pescuit în ploaie și savurați un ceai cald de mentă la adăpost.",
+                "en": "Take advantage of the club's covered areas to watch the fishing boats dock in the rain and enjoy a warm mint tea while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Hammamet",
+                "hu": "Phare d'Hammamet",
+                "ro": "Phare d'Hammamet",
+                "en": "Phare d'Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Turm bildet einen starken Kontrast zum grauen Himmel; tragen Sie rutschfestes Schuhwerk, da die Steinstufen bei Nässe sehr glatt werden können.",
+                "hu": "A fehér torony éles kontrasztot alkot a szürke égbolttal; viseljen csúszásmentes lábbelit, mert a kőlépcsők nedvesen nagyon síkosak lehetnek.",
+                "ro": "Turnul alb creează un contrast puternic cu cerul gri; purtați încălțăminte antiderapantă, deoarece treptele de piatră pot deveni foarte alunecoase când sunt ude.",
+                "en": "The white tower creates a sharp contrast with the grey sky; wear non-slip footwear as the stone steps can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre Plein Air de Hammamet",
+                "hu": "Théatre Plein Air de Hammamet",
+                "ro": "Théatre Plein Air de Hammamet",
+                "en": "Théatre Plein Air de Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die beeindruckende Architektur kurz zwischen den Schauern und suchen Sie Schutz unter den Torbögen, wenn der Regen wieder stärker wird.",
+                "hu": "Tekintse meg a lenyűgöző építészetet két zápor között, és keressen menedéket a boltívek alatt, ha az eső ismét eleredne.",
+                "ro": "Vizitați arhitectura impresionantă între două reprize de ploaie și căutați adăpost sub arcade dacă ploaia începe din nou.",
+                "en": "View the impressive architecture between showers and seek shelter under the archways if the rain starts to pour again."
+              }
+            },
+            {
+              "name": {
+                "de": "Hammamet Beach",
+                "hu": "Hammamet Beach",
+                "ro": "Hammamet Beach",
+                "en": "Hammamet Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren, regnerischen Strand bietet eine melancholische Schönheit; nehmen Sie einen großen Schirm mit, um die salzige Luft geschützt zu genießen.",
+                "hu": "Egy séta az üres, esős tengerparton melankolikus szépséget áraszt; vigyen egy nagy esernyőt, hogy védve élvezhesse a sós tengeri levegőt.",
+                "ro": "O plimbare pe plaja goală și ploioasă oferă o frumusețe melancolică; luați o umbrelă mare pentru a vă bucura de aerul sărat în siguranță.",
+                "en": "A walk on the empty, rainy beach exudes a melancholic beauty; take a large umbrella to enjoy the salty sea air while staying protected."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und klar am Golf. Mittags genießen wir die ruhige Atmosphäre im Jachtclub ohne die sommerlichen Menschenmassen. Der Nachmittag am Leuchtturm bietet das schönste Licht für Fotos vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Der Abend ist kühl, ideal für einen Spaziergang in warmer Kleidung entlang der beleuchteten Küste.",
+            "hu": "A téli reggel enyhe és tiszta az öböl mentén. Délben a kikötő nyugodt hangulatát élvezzük a nyári tömeg nélkül. A délutáni órák a világítótoronynál kínálják a legszebb fényeket a fotózáshoz a korai, 17:00 körüli naplemente előtt. Az este hűvös, ideális egy sétához meleg öltözetben a kivilágított parton.",
+            "ro": "Dimineața de iarnă este blândă și senină de-a lungul golfului. La prânz ne bucurăm de atmosfera liniștită din port, fără mulțimile de vară. Orele după-amiezii la far oferă cele mai frumoase lumini pentru fotografii înainte de apusul timpuriu de la ora 17:00. Seara este răcoroasă, ideală pentru o plimbare în haine groase pe malul iluminat.",
+            "en": "The winter morning is mild and clear along the gulf. At noon, we enjoy the peaceful atmosphere of the harbor without the summer crowds. Afternoon hours at the lighthouse offer the most beautiful lights for photography before the early sunset around 5:00 PM. The evening is cool, ideal for a walk in warm clothing along the illuminated coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gulf of Al Hammamat",
+                "hu": "Gulf of Al Hammamat",
+                "ro": "Gulf of Al Hammamat",
+                "en": "Gulf of Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht über das tiefblaue Wintermeer und tragen Sie eine winddichte Jacke gegen die kühle Meeresbrise.",
+                "hu": "Élvezze a tiszta kilátást a mélykék téli tengerre, és viseljen szélálló kabátot a hűvös tengeri szellő ellen.",
+                "ro": "Bucurați-vă de vederea clară asupra mării albastre de iarnă și purtați o jachetă rezistentă la vânt împotriva brizei răcoroase.",
+                "en": "Enjoy the clear view of the deep blue winter sea and wear a windproof jacket against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Club nautique hammamet C.N.H",
+                "hu": "Club nautique hammamet C.N.H",
+                "ro": "Club nautique hammamet C.N.H",
+                "en": "Club nautique hammamet C.N.H"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Club ein ruhiger Ort; beobachten Sie die Fischer bei der Netzinstandsetzung und tragen Sie eine zusätzliche Schicht Kleidung.",
+                "hu": "Télen a klub csendes pihenőhely; figyelje meg a halászokat hálójavítás közben, és viseljen egy extra réteg ruhát a hűvösben.",
+                "ro": "Iarna, clubul este un loc liniștit; observați pescarii reparând plasele și purtați un strat suplimentar de haine în răcoarea serii.",
+                "en": "In winter, the club is a quiet resting place; watch the fishermen mending nets and wear an extra layer of clothing in the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Hammamet",
+                "hu": "Phare d'Hammamet",
+                "ro": "Phare d'Hammamet",
+                "en": "Phare d'Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie gegen 16:30 Uhr hierher, um das goldene Licht auf dem Turm kurz vor dem Sonnenuntergang um 17:00 Uhr einzufangen.",
+                "hu": "Érkezzen 16:30 körül, hogy elkapja az aranyló fényeket a tornyon közvetlenül a 17:00 órai naplemente előtt.",
+                "ro": "Sosiți în jur de 16:30 pentru a surprinde luminile aurii de pe turn chiar înainte de apusul de la ora 17:00.",
+                "en": "Arrive around 4:30 PM to catch the golden lights on the tower just before the sunset at 5:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre Plein Air de Hammamet",
+                "hu": "Théatre Plein Air de Hammamet",
+                "ro": "Théatre Plein Air de Hammamet",
+                "en": "Théatre Plein Air de Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt in der tiefstehenden Wintersonne besonders plastisch; nutzen Sie die leeren Ränge für ungestörte Panoramafotos der Umgebung.",
+                "hu": "Az építészet különösen látványos az alacsonyan járó téli napfényben; használja ki az üres nézőteret a környék zavartalan panorámafotózásához.",
+                "ro": "Arhitectura este deosebit de spectaculoasă în lumina joasă a soarelui de iarnă; profitați de tribunele goale pentru fotografii panoramice neîntrerupte.",
+                "en": "The architecture is particularly striking in the low winter sunlight; take advantage of the empty stands for undisturbed panoramic photos of the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Hammamet Beach",
+                "hu": "Hammamet Beach",
+                "ro": "Hammamet Beach",
+                "en": "Hammamet Beach"
+              },
+              "tip_5lang": {
+                "de": "Lange Strandspaziergänge sind im Winter sehr erholsam; bringen Sie eine Thermoskanne mit warmem Tee mit, da es nach Sonnenuntergang schnell abkühlt.",
+                "hu": "A hosszú tengerparti séták télen nagyon pihentetőek; vigyen magával egy termosz meleg teát, mert naplemente után gyorsan lehűl a levegő.",
+                "ro": "Plimbările lungi pe plajă sunt foarte relaxante iarna; luați un termos cu ceai cald, deoarece aerul se răcește rapid după apus.",
+                "en": "Long walks on the beach are very relaxing in winter; bring a thermos of warm tea, as the air cools down quickly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpáros kalandja a rangos Nemzetközi Kulturális Központnál kezdődik, egy lélegzetelállító történelmi villában. Délre tekerjen a Hammameti-öböl felé, és élvezze a tengeri hangulatot a hajósklubnál és a világítótoronynál. A délutáni túra a tengerparti színházhoz és a Hammamet Beach hívogató homokjához vezet. Zárja a napot a megható mártír szobornál egy csendes pillanattal.",
         "ro": "Aventura cu bicicleta începe la prestigiosul Centru Cultural Internațional, situat într-o vilă istorică. La prânz, pedalați spre uimitorul Golf Hammamet și bucurați-vă de spiritul maritim la clubul nautic și la farul iconic. Plimbările de după-amiază vă duc la teatrul de pe litoral și la plaja Hammamet. Încheiați ziua la emoționanta Statuie a Martirului pentru un moment de reflecție.",
         "en": "Your cycling adventure begins at the prestigious International Culture Center, set in a breathtaking historical villa. By midday, pedal towards the stunning Gulf of Al Hammamat and soak in the vibrant maritime spirit at the nautical club and iconic lighthouse. Afternoon rides take you to the magnificent seaside theater and the inviting sands of Hammamet Beach. Wind down your day at the poignant Martyr's Statue for a moment of quiet reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei Regen am Kulturzentrum, wo die Gärten besonders duften. Mittags radeln wir vorsichtig am Golf entlang zum Jachtclub. Der Nachmittag führt uns zum Leuchtturm und Theater auf nassen Wegen. Am Abend erreichen wir das Denkmal; achten Sie auf glatte Straßen und tragen Sie wasserfeste Kleidung mit Reflektoren für bessere Sichtbarkeit.",
+            "hu": "A kerékpártúra esőben indul a kulturális központnál, ahol a kertek ilyenkor különösen illatosak. Délben óvatosan tekerünk az öböl mentén a kikötő felé. Délután a világítótoronyhoz és a színházhoz vezet az utunk vizes aszfalton. Estére érjük el az emlékművet; ügyeljen a csúszós utakra és viseljen vízálló, fényvisszaverő ruházatot.",
+            "ro": "Turul cu bicicleta începe pe ploaie la centrul cultural, unde grădinile sunt deosebit de parfumate. La prânz pedalăm cu atenție de-a lungul golfului spre port. După-amiaza drumul ne duce la far și teatru pe asfalt umed. Seara ajungem la monument; atenție la drumurile alunecoase și purtați haine impermeabile reflectorizante.",
+            "en": "The bike tour starts in the rain at the cultural center, where the gardens are especially fragrant. At noon, we cycle carefully along the gulf towards the harbor. In the afternoon, our path leads to the lighthouse and theater on wet asphalt. We reach the monument by evening; watch out for slippery roads and wear waterproof, reflective clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "International Culture Center of Hammamet",
+                "hu": "International Culture Center of Hammamet",
+                "ro": "International Culture Center of Hammamet",
+                "en": "International Culture Center of Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren der Villa Sebastian, um dem Regen zu entgehen, und stellen Sie Ihr Fahrrad unter dem Vordach ab.",
+                "hu": "Látogassa meg a Sebastian-villa belső kiállításait, hogy elkerülje az esőt, és parkolja le a kerékpárját az előtető alatt.",
+                "ro": "Vizitați expozițiile din interiorul vilei Sebastian pentru a evita ploaia și parcați bicicleta sub copertină.",
+                "en": "Visit the indoor exhibitions at Villa Sebastian to avoid the rain and park your bike under the overhang."
+              }
+            },
+            {
+              "name": {
+                "de": "Gulf of Al Hammamat",
+                "hu": "Gulf of Al Hammamat",
+                "ro": "Gulf of Al Hammamat",
+                "en": "Gulf of Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Uferpromenade, da Spritzwasser die Sicht einschränken kann, und nutzen Sie kurze Regenpausen für Fotos vom Meer.",
+                "hu": "Tekerjen lassan a parti sétányon, mert a felcsapódó víz ronthatja a látási viszonyokat, és használja ki a rövid szüneteket fotózáshoz.",
+                "ro": "Pedalați încet pe promenadă, deoarece apa împroșcată poate reduce vizibilitatea, și profitați de scurtele pauze de ploaie pentru fotografii.",
+                "en": "Cycle slowly on the promenade as splashing water can reduce visibility, and take advantage of short rain breaks for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Club nautique hammamet C.N.H",
+                "hu": "Club nautique hammamet C.N.H",
+                "ro": "Club nautique hammamet C.N.H",
+                "en": "Club nautique hammamet C.N.H"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Nähe des Clubs und prüfen Sie Ihre Bremsen, bevor Sie die Tour auf dem nassen Untergrund fortsetzen.",
+                "hu": "Keressen menedéket a klub közelében, és ellenőrizze a fékeket, mielőtt folytatná a túrát a vizes talajon.",
+                "ro": "Căutați adăpost lângă club și verificați frânele înainte de a continua turul pe suprafața umedă.",
+                "en": "Seek shelter near the club and check your brakes before continuing the tour on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Hammamet",
+                "hu": "Phare d'Hammamet",
+                "ro": "Phare d'Hammamet",
+                "en": "Phare d'Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad gesichert ab und genießen Sie den Blick auf das regnerische Meer; die weißen Kacheln können bei Nässe extrem rutschig sein.",
+                "hu": "Parkolja le biztonságosan a biciklit, és élvezze az esős tenger látványát; a fehér burkolat nedvesen rendkívül csúszós lehet.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de vederea mării ploioase; pavajul alb poate fi extrem de alunecos când este ud.",
+                "en": "Park your bike securely and enjoy the view of the rainy sea; the white tiles can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre Plein Air de Hammamet",
+                "hu": "Théatre Plein Air de Hammamet",
+                "ro": "Théatre Plein Air de Hammamet",
+                "en": "Théatre Plein Air de Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die architektonischen Strukturen als Regenschutz für eine kurze Pause und achten Sie auf Pfützen in den tiefer gelegenen Bereichen.",
+                "hu": "Használja az építészeti elemeket eső elleni védelemre egy rövid pihenő erejéig, és ügyeljen a tócsákra az alacsonyabban fekvő részeken.",
+                "ro": "Folosiți structurile arhitecturale ca protecție împotriva ploii pentru o scurtă pauză și atenție la bălțile din zonele joase.",
+                "en": "Use the architectural structures as rain protection for a short break and watch out for puddles in the lower-lying areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Hammamet Beach",
+                "hu": "Hammamet Beach",
+                "ro": "Hammamet Beach",
+                "en": "Hammamet Beach"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie das Befahren von sandigen Abschnitten im Regen, da der Boden nachgeben kann; bleiben Sie auf den befestigten Wegen oberhalb des Strandes.",
+                "hu": "Kerülje a homokos szakaszokon való biciklizést esőben, mert a talaj megsüllyedhet; maradjon a strand feletti szilárd burkolatú utakon.",
+                "ro": "Evitați pedalatul pe secțiunile cu nisip în timpul ploii, deoarece solul se poate lăsa; rămâneți pe drumurile pavate de deasupra plajei.",
+                "en": "Avoid cycling on sandy sections in the rain as the ground can give way; stay on the paved paths above the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue d'un Soldat Martyr",
+                "hu": "Statue d'un Soldat Martyr",
+                "ro": "Statue d'un Soldat Martyr",
+                "en": "Statue d'un Soldat Martyr"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig am Denkmal; die Sicht kann durch den Regen eingeschränkt sein, achten Sie daher besonders auf den Verkehr.",
+                "hu": "Fejezze be óvatosan a túrát az emlékműnél; az eső miatt korlátozott lehet a látótávolság, ezért fokozottan ügyeljen a forgalomra.",
+                "ro": "Încheiați turul cu atenție la monument; vizibilitatea poate fi redusă din cauza ploii, deci fiți foarte atenți la trafic.",
+                "en": "Finish the tour carefully at the monument; visibility may be limited due to rain, so pay extra attention to traffic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Radtour ab dem Kulturzentrum ein. Mittags radeln wir bei angenehmen Temperaturen am Golf entlang zum Club. Der Nachmittag bietet am Leuchtturm und Strand eine ruhige Kulisse vor dem frühen Lichtwechsel. Der Abend endet am Denkmal; da es ab 17:00 Uhr dunkel wird, stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+            "hu": "A tiszta téli reggel kiváló a kerékpártúrához a kulturális központtól indulva. Délben kellemes hőmérsékletben tekerünk az öböl mentén a klubig. A délután a világítótoronynál és a strandon nyugodt hátteret kínál a korai fényváltás előtt. Az este az emlékműnél ér véget; mivel 17:00 után sötétedik, ellenőrizze a világítást.",
+            "ro": "O dimineață senină de iarnă este excelentă pentru un tur cu bicicleta pornind de la centrul cultural. La prânz pedalăm de-a lungul golfului spre club. După-amiaza la far și pe plajă oferă un cadru liniștit înainte de apus. Seara se încheie la monument; deoarece se întunecă după ora 17:00, verificați luminile bicicletei.",
+            "en": "A clear winter morning is excellent for a bike tour starting from the cultural center. At noon, we cycle in pleasant temperatures along the gulf to the club. The afternoon at the lighthouse and beach offers a peaceful backdrop before the early light change. The evening ends at the monument; since it gets dark after 5:00 PM, check your bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "International Culture Center of Hammamet",
+                "hu": "International Culture Center of Hammamet",
+                "ro": "International Culture Center of Hammamet",
+                "en": "International Culture Center of Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den Gärten der Villa Sebastian ohne Sommertouristen und tragen Sie Handschuhe für die kühle Abfahrt.",
+                "hu": "Élvezze a nyugalmat a Sebastian-villa kertjeiben a nyári turisták nélkül, és viseljen kesztyűt a hűvös lejtőkön való guruláshoz.",
+                "ro": "Bucurați-vă de liniștea din grădinile vilei Sebastian fără turiștii de vară și purtați mănuși pentru coborârile răcoroase.",
+                "en": "Enjoy the peace in the gardens of Villa Sebastian without the summer tourists and wear gloves for the cool downhill rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Gulf of Al Hammamat",
+                "hu": "Gulf of Al Hammamat",
+                "ro": "Gulf of Al Hammamat",
+                "en": "Gulf of Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Das tiefblaue Meer bietet im Winter tolle Fotomotive; halten Sie kurz an, aber bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "A mélykék tenger télen remek fotótéma; álljon meg egy rövid időre, de maradjon mozgásban, hogy ne hűljön ki.",
+                "ro": "Marea albastră oferă subiecte excelente pentru fotografii iarna; opriți-vă pentru scurt timp, dar rămâneți în mișcare pentru a nu vă răci.",
+                "en": "The deep blue sea offers great photo opportunities in winter; stop briefly but stay in motion to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Club nautique hammamet C.N.H",
+                "hu": "Club nautique hammamet C.N.H",
+                "ro": "Club nautique hammamet C.N.H",
+                "en": "Club nautique hammamet C.N.H"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein warmes Getränk im Club und prüfen Sie Ihre Schutzkleidung für die Weiterfahrt in der kühlen Winterluft.",
+                "hu": "Használja ki a pihenőt egy meleg italra a klubban, és ellenőrizze a védőruházatát a hűvös téli levegőben való továbbhaladáshoz.",
+                "ro": "Profitați de pauză pentru o băutură caldă la club și verificați îmbrăcămintea de protecție pentru continuarea drumului în aerul rece.",
+                "en": "Take advantage of the break for a warm drink at the club and check your protective clothing for continuing in the cool winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Hammamet",
+                "hu": "Phare d'Hammamet",
+                "ro": "Phare d'Hammamet",
+                "en": "Phare d'Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist ideal; befestigen Sie Ihr Rad sicher und machen Sie einen kurzen Spaziergang zur Aufwärmung.",
+                "hu": "A késő délutáni fények ideálisak; rögzítse biztonságosan a biciklit, és tegyen egy rövid sétát a bemelegítéshez.",
+                "ro": "Luminile de după-amiază târziu sunt ideale; fixați bicicleta în siguranță și faceți o scurtă plimbare pentru încălzire.",
+                "en": "Late afternoon lights are ideal; secure your bike safely and take a short walk to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre Plein Air de Hammamet",
+                "hu": "Théatre Plein Air de Hammamet",
+                "ro": "Théatre Plein Air de Hammamet",
+                "en": "Théatre Plein Air de Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das leere Theater in der milden Wintersonne; die kühle Luft macht die körperliche Aktivität beim Radeln sehr angenehm.",
+                "hu": "Tekintse meg az üres színházat az enyhe téli napsütésben; a hűvös levegő kifejezetten kellemessé teszi a kerékpározást.",
+                "ro": "Vizitați teatrul gol în soarele blând de iarnă; aerul rece face activitatea fizică a pedalatului foarte plăcută.",
+                "en": "View the empty theater in the mild winter sun; the cool air makes the physical activity of cycling very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Hammamet Beach",
+                "hu": "Hammamet Beach",
+                "ro": "Hammamet Beach",
+                "en": "Hammamet Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wege am Strand sind im Winter fest; genießen Sie die Ruhe der Natur, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "A tengerparti utak télen keményebbek; élvezze a természet nyugalmát, mielőtt megkezdené a túra utolsó szakaszát.",
+                "ro": "Drumurile de pe plajă sunt ferme iarna; bucurați-vă de liniștea naturii înainte de a începe ultima etapă a turului.",
+                "en": "The paths by the beach are firm in winter; enjoy the tranquility of nature before starting the final leg of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue d'un Soldat Martyr",
+                "hu": "Statue d'un Soldat Martyr",
+                "ro": "Statue d'un Soldat Martyr",
+                "en": "Statue d'un Soldat Martyr"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ist zum Sonnenuntergang um 17:00 Uhr schön beleuchtet; schalten Sie für die Rückfahrt unbedingt Ihr Licht ein.",
+                "hu": "Az emlékmű a 17:00 órai naplementekor szépen ki van világítva; a visszaúthoz mindenképpen kapcsolja be a kerékpárlámpát.",
+                "ro": "Monumentul este frumos iluminat la apusul de la ora 17:00; asigurați-vă că porniți luminile bicicletei pentru drumul de întoarcere.",
+                "en": "The monument is beautifully lit at the 5:00 PM sunset; make sure to turn on your bike lights for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Induljon el festői autós útjára a Nemzetközi Kulturális Központtól, megcsodálva annak kertjeit és építészetét. A déli útvonal lenyűgöző tengerparti panorámát kínál a Hammameti-öbölnél, a világítótoronynál és a Hammamet Beach napfényes partjainál. Délután fedezze fel a város örökségét a Mártír szobornál és a Boussetta rendezvényteremnél. A túra a Jabal Al Hammamat fenséges természeti tájainál ér véget.",
         "ro": "Porniți la drum de la Centrul Cultural Internațional, admirând grădinile sale deosebite. Traseul de la prânz oferă panorame de coastă uluitoare, cu opriri la Golful Hammamet, farul istoric și țărmurile însorite ale plajei Hammamet. După-amiaza, explorați moștenirea orașului la Statuia Martirului și Sala Festivă Boussetta. Turul se încheie cu o vizită impresionantă la peisajele naturale mărețe din Jabal Al Hammamat.",
         "en": "Set off on your scenic drive from the International Culture Center, admiring its exquisite gardens and architecture. The midday route offers stunning coastal panoramas as you pause by the Gulf of Al Hammamat, the historic lighthouse, and the sunny shores of Hammamet Beach. In the afternoon, explore the town's heritage at the Martyr's Statue and the festive Boussetta Hall. The tour concludes with an awe-inspiring visit to the majestic natural landscapes of Jabal Al Hammamat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt entspannt am Kulturzentrum trotz Regen. Mittags fahren wir zum Golf und Leuchtturm, wobei wir die Aussicht aus dem trockenen Fahrzeug genießen. Der Nachmittag führt uns zum Strand und Denkmal bei grauer Kulisse. Der Abend endet an der Festhalle und am Berg; achten Sie auf Aquaplaning auf den Küstenstraßen und halten Sie Abstand.",
+            "hu": "Az autós túra kényelmesen indul a kulturális központnál az eső ellenére. Délben az öbölhöz és a világítótoronyhoz hajtunk, élvezve a kilátást a száraz utastérből. A délután a strandhoz és az emlékműhöz vezet a szürke tájban. Az este a rendezvényháznál és a hegynél ér véget; ügyeljen a vízenfutásra a parti utakon.",
+            "ro": "Turul cu mașina începe relaxat la centrul cultural în ciuda ploii. La prânz conducem spre golf și far, bucurându-ne de vedere din interiorul uscat. După-amiaza ne duce la plajă și monument în peisajul gri. Seara se încheie la sala de festivități și la munte; atenție la acvaplanare pe drumurile de coastă.",
+            "en": "The car tour starts comfortably at the cultural center despite the rain. At noon, we drive to the gulf and lighthouse, enjoying the view from the dry interior. The afternoon leads to the beach and monument in the grey landscape. The evening ends at the festive hall and the mountain; watch out for aquaplaning on the coastal roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "International Culture Center of Hammamet",
+                "hu": "International Culture Center of Hammamet",
+                "ro": "International Culture Center of Hammamet",
+                "en": "International Culture Center of Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken in die Villa Sebastian zu gelangen, und besichtigen Sie die überdachten Innenhöfe.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be a Sebastian-villába, és tekintse meg a fedett belső udvarokat.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în vila Sebastian și vizitați curțile interioare acoperite.",
+                "en": "Park close to the entrance to get into Villa Sebastian dry and visit the covered interior courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Gulf of Al Hammamat",
+                "hu": "Gulf of Al Hammamat",
+                "ro": "Gulf of Al Hammamat",
+                "en": "Gulf of Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das stürmische Meer direkt aus dem Auto und nutzen Sie die Parkbuchten für kurze Fotostopps.",
+                "hu": "Élvezze a panorámát a viharos tengerre közvetlenül az autóból, és használja a parkolóöblöket rövid fotómegállókhoz.",
+                "ro": "Bucurați-vă de panorama mării furtunoase direct din mașină și folosiți locurile de parcare pentru scurte opriri foto.",
+                "en": "Enjoy the panorama of the stormy sea directly from the car and use the parking bays for short photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Hammamet",
+                "hu": "Phare d'Hammamet",
+                "ro": "Phare d'Hammamet",
+                "en": "Phare d'Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Sicht auf den Leuchtturm; halten Sie einen Schirm für den kurzen Weg zur Basis bereit.",
+                "hu": "A parkoló jó kilátást nyújt a világítótoronyra; tartson készenlétben egy esernyőt a torony tövéhez vezető rövid útra.",
+                "ro": "Parcarea oferă o vedere bună spre far; țineți o umbrelă pregătită pentru drumul scurt până la baza turnului.",
+                "en": "The parking lot offers a good view of the lighthouse; have an umbrella ready for the short walk to the base of the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Hammamet Beach",
+                "hu": "Hammamet Beach",
+                "ro": "Hammamet Beach",
+                "en": "Hammamet Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wettergeschehen über dem Meer vom ufernahen Parkplatz aus und achten Sie beim Aussteigen auf tiefe Pfützen.",
+                "hu": "Figyelje meg az időjárás változását a tenger felett a parthoz közeli parkolóból, és kiszálláskor ügyeljen a mély tócsákra.",
+                "ro": "Observați schimbările vremii deasupra mării din parcarea apropiată de țărm și atenție la bălțile adânci când coborâți.",
+                "en": "Watch the weather patterns over the sea from the parking lot near the shore and watch out for deep puddles when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue d'un Soldat Martyr",
+                "hu": "Statue d'un Soldat Martyr",
+                "ro": "Statue d'un Soldat Martyr",
+                "en": "Statue d'un Soldat Martyr"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Regen besonders ehrwürdig; nutzen Sie die beheizten Scheiben Ihres Autos für eine klare Sicht auf die Statue.",
+                "hu": "Az emlékmű különösen tiszteletet parancsoló az esőben; használja az autó páramentesítőjét a szoborra nyíló tiszta kilátáshoz.",
+                "ro": "Monumentul pare deosebit de solemn în ploaie; folosiți dezaburirea mașinii pentru o vedere clară asupra statuii.",
+                "en": "The monument looks particularly solemn in the rain; use your car's defroster for a clear view of the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Des Fêtes Boussetta",
+                "hu": "Salle Des Fêtes Boussetta",
+                "ro": "Salle Des Fêtes Boussetta",
+                "en": "Salle Des Fêtes Boussetta"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regen im Trockenen abzuwarten; prüfen Sie lokale Aushänge für kulturelle Veranstaltungen im Innenraum.",
+                "hu": "Ideális hely az eső kivárására szárazon; ellenőrizze a helyi hirdetményeket a beltéri kulturális eseményekről.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii la adăpost; verificați anunțurile locale pentru evenimente culturale în interior.",
+                "en": "An ideal place to wait out the rain while staying dry; check local announcements for indoor cultural events."
+              }
+            },
+            {
+              "name": {
+                "de": "Jabal Al Hammamat",
+                "hu": "Jabal Al Hammamat",
+                "ro": "Jabal Al Hammamat",
+                "en": "Jabal Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Berg kann bei Regen rutschig sein; fahren Sie langsam und genießen Sie die mystische Aussicht über die verregnete Bucht.",
+                "hu": "A hegymenet esőben csúszós lehet; hajtson lassan, és élvezze a misztikus kilátást az eső áztatta öbölre.",
+                "ro": "Urcarea pe munte poate fi alunecoasă pe ploaie; conduceți încet și bucurați-vă de vederea mistică asupra golfului ploios.",
+                "en": "The mountain drive can be slippery in the rain; drive slowly and enjoy the mystical view over the rainy bay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag beginnt perfekt am Kulturzentrum. Mittags fahren wir entlang der klaren Küste zum Golf und Leuchtturm. Der Nachmittag am Strand bietet ruhige Momente in der milden Sonne. Der Abend endet an der Festhalle und auf dem Berg; genießen Sie den Sonnenuntergang gegen 17:00 Uhr und nehmen Sie eine warme Jacke für Fotostopps im Freien mit.",
+            "hu": "A napsütéses téli nap tökéletesen indul a kulturális központnál. Délben a tiszta part mentén hajtunk az öbölhöz és a világítótoronyhoz. A délután a strandon nyugodt pillanatokat kínál az enyhe napsütésben. Az este a rendezvényháznál és a hegynél ér véget; élvezze a 17:00 körüli naplementét a csúcsról.",
+            "ro": "O zi însorită de iarnă începe perfect la centrul cultural. La prânz conducem de-a lungul coastei spre golf și far. După-amiaza pe plajă oferă momente liniștite în soarele blând. Seara se încheie la sala de festivități și pe munte; bucurați-vă de apusul de la ora 17:00 de pe vârf.",
+            "en": "A sunny winter day starts perfectly at the cultural center. At noon, we drive along the clear coast to the gulf and lighthouse. The afternoon at the beach offers quiet moments in the mild sun. The evening ends at the festive hall and the mountain; enjoy the 5:00 PM sunset from the peak."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "International Culture Center of Hammamet",
+                "hu": "International Culture Center of Hammamet",
+                "ro": "International Culture Center of Hammamet",
+                "en": "International Culture Center of Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Architektur der Villa Sebastian wunderschön; genießen Sie einen Spaziergang durch die ruhigen, kühlen Gärten.",
+                "hu": "A téli napfény gyönyörűen világítja meg a Sebastian-villa építészetét; élvezze a sétát a csendes, hűvös kertekben.",
+                "ro": "Soarele de iarnă luminează superb arhitectura vilei Sebastian; bucurați-vă de o plimbare prin grădinile liniștite și răcoroase.",
+                "en": "The winter sun illuminates the architecture of Villa Sebastian beautifully; enjoy a walk through the quiet, cool gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "Gulf of Al Hammamat",
+                "hu": "Gulf of Al Hammamat",
+                "ro": "Gulf of Al Hammamat",
+                "en": "Gulf of Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist im Winter besonders klar, was eine weite Sicht über den Golf ermöglicht; ideal für Landschaftsfotografien aus dem Auto.",
+                "hu": "A levegő télen különösen tiszta, ami messzire nyúló kilátást tesz lehetővé az öbölre; ideális tájfotózáshoz az autóból.",
+                "ro": "Aerul este deosebit de clar iarna, permițând o vedere panoramică asupra golfului; ideal pentru fotografii de peisaj din mașină.",
+                "en": "The air is particularly clear in winter, allowing for long-range views over the gulf; ideal for landscape photography from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Hammamet",
+                "hu": "Phare d'Hammamet",
+                "ro": "Phare d'Hammamet",
+                "en": "Phare d'Hammamet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so, dass Sie das warme Licht der späten Nachmittagssonne auf dem Leuchtturm ohne Windzug genießen können.",
+                "hu": "Parkoljon úgy, hogy a késő délutáni nap meleg fényeit a világítótorony falain a szélvédő mögül is élvezhesse.",
+                "ro": "Parcați mașina astfel încât să vă bucurați de luminile calde ale soarelui de după-amiază pe zidurile farului, ferit de vânt.",
+                "en": "Park your car so you can enjoy the warm lights of the late afternoon sun on the lighthouse walls while shielded from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Hammamet Beach",
+                "hu": "Hammamet Beach",
+                "ro": "Hammamet Beach",
+                "en": "Hammamet Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze am Strand sind im Winter leicht zu finden; genießen Sie die leere Küste bei einem kurzen, erfrischenden Spaziergang.",
+                "hu": "A tengerparti parkolók télen könnyen elérhetőek; élvezze az üres partot egy rövid, frissítő séta erejéig.",
+                "ro": "Parcările de pe plajă sunt ușor de găsit iarna; bucurați-vă de malul gol într-o scurtă plimbare revigorantă.",
+                "en": "Beach parking is easy to find in winter; enjoy the empty shore during a short, refreshing walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue d'un Soldat Martyr",
+                "hu": "Statue d'un Soldat Martyr",
+                "ro": "Statue d'un Soldat Martyr",
+                "en": "Statue d'un Soldat Martyr"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal bietet im klaren Winterlicht tolle Details; nutzen Sie die Parkmöglichkeit direkt davor für einen schnellen Fotostopp.",
+                "hu": "Az emlékmű a tiszta téli fényben remek részleteket mutat; használja a közvetlenül előtte lévő parkolót egy gyors fotómegállóhoz.",
+                "ro": "Monumentul arată detalii excelente în lumina clară de iarnă; folosiți parcarea direct din față pentru o oprire foto rapidă.",
+                "en": "The monument shows great detail in the clear winter light; use the parking directly in front for a quick photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Des Fêtes Boussetta",
+                "hu": "Salle Des Fêtes Boussetta",
+                "ro": "Salle Des Fêtes Boussetta",
+                "en": "Salle Des Fêtes Boussetta"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft lokale Feste statt; parken Sie bequem in der Nähe und erleben Sie tunisische Kultur im Warmen.",
+                "hu": "Télen gyakran tartanak itt helyi ünnepségeket; parkoljon kényelmesen a közelben, és ismerje meg a tunéziai kultúrát a melegben.",
+                "ro": "Iarna se organizează des sărbători locale aici; parcați confortabil în apropiere și experimentați cultura tunisiană la căldură.",
+                "en": "Local festivals are often held here in winter; park conveniently nearby and experience Tunisian culture in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Jabal Al Hammamat",
+                "hu": "Jabal Al Hammamat",
+                "ro": "Jabal Al Hammamat",
+                "en": "Jabal Al Hammamat"
+              },
+              "tip_5lang": {
+                "de": "Der Berg bietet die beste Sicht auf den Sonnenuntergang um 17:00 Uhr; bringen Sie eine Decke mit, falls Sie den Ausblick im Freien genießen möchten.",
+                "hu": "A hegy kínálja a legjobb kilátást a 17:00 órai naplementéhez; vigyen magával egy takarót, ha a szabadban élvezné a látványt.",
+                "ro": "Muntele oferă cea mai bună vedere pentru apusul de la ora 17:00; luați o pătură dacă doriți să vă bucurați de peisaj în aer liber.",
+                "en": "The mountain offers the best view for the 5:00 PM sunset; bring a blanket if you wish to enjoy the view outdoors."
+              }
+            }
+          ]
+        }
       }
     }
   }

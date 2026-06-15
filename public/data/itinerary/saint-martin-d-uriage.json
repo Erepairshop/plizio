@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a falu szívében, a bájos Saint-Martin templomnál, majd próbáljon szerencsét az elegáns Uriage Kaszinóban. Sétáljon le a lenyűgöző Uriage Kastélyhoz, és merüljön el a középkori történelemben. Csodálja meg a Grand Hôtel d'Uriage lenyűgöző építészetét, mielőtt a napot egy pihentető fürdőzéssel zárná a híres Uriage-les-Bains termálfürdőben.",
         "ro": "Începeți în inima satului la fermecătoarea Biserică Saint-Martin, apoi admirați elegantul Cazino Uriage din apropiere. Plimbați-vă spre impunătorul Castel Uriage, absorbind istoria medievală și priveliștile impresionante. Admirați arhitectura Grand Hôtel d'Uriage, înainte de a încheia ziua relaxându-vă complet în faimoasele Băi Termale Uriage-les-Bains.",
         "en": "Start in the heart of the village at the charming Saint-Martin Church, then try your luck at the elegant Uriage Casino nearby. Stroll down towards the commanding Uriage Castle, absorbing the medieval history and dramatic views. Admire the striking architecture of the Grand Hôtel d'Uriage before concluding your day with ultimate relaxation at the famous Uriage-les-Bains Thermal Baths."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen verleihen Bergnebel und Regen der Kirche eine mystische Aura. Mittags bieten die eleganten Säle des Casinos den idealen Zufluchtsort vor den Schauern. Am Nachmittag taucht das Schloss im Dunst auf, während man geschützt unter den Parkbäumen spaziert. Am Abend lässt man das nasse Wetter in den dampfenden Thermalbecken der Bäder einfach hinter sich.",
+            "hu": "Reggel a hegyi köd és az eső misztikus hangulatot áraszt a templom körül. Délben a kaszinó elegáns termei nyújtanak menedéket a záporok elől. Délután a kastély sziluettje dereng a párában, míg a park fái alatt sétálunk. Este a termálfürdő gőzölgő medencéiben felejtjük el a kinti nedves időt, élvezve a meleg ásványvizet.",
+            "ro": "Dimineața, ceața montană și ploaia creează o atmosferă mistică în jurul bisericii. La prânz, sălile elegante ale cazinoului oferă un refugiu perfect împotriva averselor trecătoare. După-amiază, silueta castelului se zărește prin boarea de ploaie în timp ce ne plimbăm sub protecția copacilor. Seara, bazinele aburinde ale băilor termale vă fac să uitați de vremea umedă de afară.",
+            "en": "The mountain mist and rain create a mystical atmosphere around the church this morning. At noon, the casino's elegant halls provide a perfect refuge from the passing showers. In the afternoon, the castle's silhouette looms through the haze as we walk under the protection of the park trees. In the evening, the steaming pools of the thermal baths make you forget the damp weather outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das stille Innere, während Sie auf das Ende des Regens warten, und halten Sie Ihren Schirm im Wind auf dem Hügel besonders gut fest.",
+                "hu": "Csodálja meg a csendes belső teret, amíg eláll az eső, és ügyeljen az ernyőjére a dombtetőn feltámadó hirtelen szélben; a köves út ilyenkor csúszós lehet.",
+                "ro": "Admirați interiorul liniștit în timp ce așteptați să se oprească ploaia și țineți bine umbrela împotriva vântului de pe deal care poate fi destul de puternic.",
+                "en": "Admire the quiet interior while waiting for the rain to stop, and hold your umbrella firmly against the hilltop wind; the stone path can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Uriage Casino",
+                "hu": "Uriage Kaszinó",
+                "ro": "Cazino Uriage",
+                "en": "Uriage Casino"
+              },
+              "tip_5lang": {
+                "de": "Ein eleganter Zufluchtsort im Innenbereich, wo Sie die Grand-Siècle-Atmosphäre genießen können, während Sie den Regen abwarten; nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Elegáns fedett menedék, ahol a történelmi falak között várakozva is élvezheti a Grand Siècle hangulatát; használja a ruhatárat a vizes kabátoknak a kényelemért.",
+                "ro": "Un refugiu elegant în interior, unde vă puteți bucura de atmosfera Grand Siècle în timp ce așteptați trecerea ploii; folosiți garderoba pentru hainele ude.",
+                "en": "An elegant indoor refuge where you can enjoy the Grand Siècle atmosphere while waiting out the rain; use the cloakroom for your wet coats to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Uriage",
+                "hu": "Uriage Kastély",
+                "ro": "Castelul Uriage",
+                "en": "Uriage Castle"
+              },
+              "tip_5lang": {
+                "de": "Das neblige Wetter verleiht dem Schloss einen besonderen mittelalterlichen Charme, aber Vorsicht auf dem rutschigen Kopfsteinpflaster an den Toren; tragen Sie wasserfeste Schuhe.",
+                "hu": "A ködös idő különleges, középkori bájt kölcsönöz a várnak, de vigyázzon a csúszós macskaköveken a kapuknál; viseljen vízálló cipőt a sár elkerülése érdekében.",
+                "ro": "Vremea ceațoasă conferă castelului un farmec medieval deosebit, dar aveți grijă pe pietrele cubice alunecoase de lângă porți; purtați încălțăminte impermeabilă.",
+                "en": "The misty weather gives the castle a special medieval charm, but be careful on the slippery cobblestones near the gates; wear waterproof shoes for the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Hôtel d'Uriage",
+                "hu": "Grand Hôtel d'Uriage",
+                "ro": "Grand Hôtel d'Uriage",
+                "en": "Grand Hôtel d'Uriage"
+              },
+              "tip_5lang": {
+                "de": "Die klassischen Linien der Fassade bleiben auch unter grauem Himmel imposant, und das Vordach am Eingang bietet kurzen Schutz vor den herabfallenden Tropfen.",
+                "hu": "A homlokzat klasszikus vonalai még szürke ég alatt is impozánsak, a bejárat feletti tető pedig rövid védelmet nyújt a záporok elől egy gyors fotó erejéig.",
+                "ro": "Liniile clasice ale fațadei rămân impunătoare chiar și sub cerul gri, iar copertina de la intrare oferă un scurt adăpost împotriva picăturilor de ploaie.",
+                "en": "The classical lines of the facade remain imposing even under gray skies, and the canopy over the entrance offers brief shelter for a quick atmospheric photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbäder von Uriage-les-Bains",
+                "hu": "Uriage-les-Bains Termálfürdő",
+                "ro": "Băile Termale Uriage-les-Bains",
+                "en": "Uriage-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Die beste Wahl bei Regen ist die Entspannung im heißen Mineralwasser, während man die Tropfen auf das Glasdach trommeln hört; bringen Sie Ersatzkleidung mit.",
+                "hu": "A legjobb választás esőben a forró ásványvízben lazítani, miközben hallgatja a cseppek kopogását az üvegtetőn; készítsen be száraz ruhát a fürdőzés utánra.",
+                "ro": "Cea mai bună alegere pe ploaie este relaxarea în apa minerală fierbinte în timp ce ascultați picăturile bătând în acoperiș; aduceți haine de schimb uscate.",
+                "en": "The best choice in the rain is to relax in the hot mineral water while listening to the drops drumming on the glass roof; bring dry clothes for afterwards."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen wirkt die frostige Bergluft im Kirchgarten erfrischend. Mittags laden die warmen Innenräume des Casinos zur Pause vom beißenden Wind ein. Am Nachmittag erreicht uns das goldene Licht des frühen Sonnenuntergangs an den Schlossmauern. Am Abend krönen das beleuchtete Grand Hôtel und das heiße Thermalwasser den Winterausflug.",
+            "hu": "Reggel a fagyos hegyi levegő frissítően hat a templomkertben. Délben a kaszinó meleg belső terei hívogatnak a csípős szél elől. Délután a kastély falai közt ér minket a korai naplemente aranyló fénye. Este a kivilágított Grand Hôtel látványa és a forró termálvíz teszi teljessé a téli kirándulást a sötétedő völgyben.",
+            "ro": "Dimineața, aerul înghețat de munte este revigorant în grădina bisericii. La prânz, interioarele calde ale cazinoului vă invită să vă adăpostiți de vântul tăios. După-amiaza, lumina aurie a apusului timpuriu atinge zidurile castelului. Seara, Grand Hôtel iluminat și apa termală fierbinte completează perfect excursia de iarnă.",
+            "en": "The frosty mountain air is refreshing in the church garden this morning. At noon, the warm interiors of the casino invite a break from the biting wind. In the afternoon, the golden light of the early sunset reaches us by the castle walls. In the evening, the illuminated Grand Hôtel and hot thermal waters crown the winter trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten Schutz vor dem kalten Winterwind; tragen Sie warme Socken, da der Boden in der Kirche zur Winterzeit recht kühl sein kann.",
+                "hu": "A vastag kőfalak védelmet nyújtanak a jeges téli szél ellen; viseljen vastag zoknit, mert a templom padlója ilyenkor nagyon hideg lehet a látogatás alatt.",
+                "ro": "Zidurile groase de piatră oferă protecție împotriva vântului rece de iarnă; purtați șosete groase, deoarece podeaua bisericii poate fi destul de rece iarna.",
+                "en": "The thick stone walls offer protection from the biting winter wind; wear thick socks as the church floor can be quite cold during your visit in December."
+              }
+            },
+            {
+              "name": {
+                "de": "Uriage Casino",
+                "hu": "Uriage Kaszinó",
+                "ro": "Cazino Uriage",
+                "en": "Uriage Casino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Wärme der prachtvollen Säle, während draußen der Frost klirrt; die festliche Beleuchtung sorgt für eine magische Winterstimmung.",
+                "hu": "Élvezze a pompás termek barátságos melegét, miközben odakint csikorog a fagy; az ünnepi világítás varázslatos téli hangulatot áraszt a történelmi épületben.",
+                "ro": "Bucurați-vă de căldura primitoare a sălilor somptuoase în timp ce afară e ger; iluminatul festiv creează o atmosferă magică de iarnă în clădirea istorică.",
+                "en": "Enjoy the cozy warmth of the grand halls while the frost bites outside; the festive lighting creates a magical winter atmosphere inside the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Uriage",
+                "hu": "Uriage Kastély",
+                "ro": "Castelul Uriage",
+                "en": "Uriage Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss vor 16:30 Uhr, um das letzte Tageslicht auf den Türmen zu sehen; Vorsicht vor Eisplatten auf den steilen Zugangswegen zum Tor.",
+                "hu": "Látogassa meg a kastélyt 16:30 előtt, hogy lássa az utolsó napsugarakat a tornyokon; vigyázzon a jeges foltokra a kapuhoz vezető meredekebb útszakaszokon.",
+                "ro": "Vizitați castelul înainte de ora 16:30 pentru a vedea ultimele raze de soare pe turnuri; atenție la porțiunile înghețate de pe drumul de acces spre poartă.",
+                "en": "Visit the castle before 16:30 to catch the last light reflecting off the towers; watch out for icy patches on the steep access paths leading to the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Hôtel d'Uriage",
+                "hu": "Grand Hôtel d'Uriage",
+                "ro": "Grand Hôtel d'Uriage",
+                "en": "Grand Hôtel d'Uriage"
+              },
+              "tip_5lang": {
+                "de": "Das beleuchtete Hotel sieht in der Winterdämmerung wie ein Palast aus; wärmen Sie sich in der Nähe auf, bevor Sie zum Thermalbad weitergehen.",
+                "hu": "A kivilágított hotel úgy fest a téli szürkületben, mint egy elvarázsolt palota; melegedjen fel a közelben, mielőtt továbbsétálna a gőzölgő termálfürdőhöz.",
+                "ro": "Hotelul iluminat arată ca un palat fermecat în amurgul de iarnă; încălziți-vă în apropiere înainte de a continua spre băile termale aburinde.",
+                "en": "The illuminated hotel looks like an enchanted palace in the winter twilight; warm up nearby before continuing your walk to the steaming thermal baths."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbäder von Uriage-les-Bains",
+                "hu": "Uriage-les-Bains Termálfürdő",
+                "ro": "Băile Termale Uriage-les-Bains",
+                "en": "Uriage-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen kalter Luft und heißem Wasser ist im Winter am besten; trocknen Sie sich gut ab, bevor Sie in die Abendkälte hinausgehen.",
+                "hu": "A hideg levegő és a forró víz kontrasztja télen a legélvezetesebb; alaposan szárítkozzon meg, mielőtt kilépne a sötétedés utáni metsző éjszakai hidegbe.",
+                "ro": "Contrastul dintre aerul rece și apa fierbinte este cel mai plăcut iarna; uscați-vă bine înainte de a ieși în frigul tăios al nopții de după apus.",
+                "en": "The contrast between the cold air and the hot water is most enjoyable in winter; dry yourself thoroughly before stepping out into the biting night cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tegyen egy frissítő reggeli kerékpártúrát a Bonafond körüli természetben, majd térjen vissza a történelmi Saint-Martin templomhoz. Guruljon el az ikonikus Kaszinóhoz, majd tekerjen fel a lenyűgöző Uriage Kastélyhoz. Ereszkedjen le a klasszikus Grand Hôtel d'Uriage-hez a központban, és zárja aktív napját a jól megérdemelt pihenéssel az Uriage-les-Bains termálfürdőben.",
         "ro": "Pedalați spre natura luxuriantă din jurul Bonafond pentru un început revigorant, înainte de a vă întoarce la Biserica Saint-Martin. Mergeți spre Cazinoul iconic și urcați la formidabilul Castel Uriage, bucurându-vă de aerul de munte. Coborâți pentru a vedea clasicul Grand Hôtel d'Uriage și încheiați ziua activă relaxându-vă mușchii în apele termale de la Uriage-les-Bains.",
         "en": "Pedal out to the lush nature surrounding Bonafond for a refreshing start, before rolling back to see the historic Saint-Martin Church. Cruise over to the iconic Uriage Casino and take a scenic ride up to the formidable Uriage Castle. Descend into the center to view the classic Grand Hôtel d'Uriage, and end your active day soothing your muscles at the Uriage-les-Bains Thermal Baths."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer erfrischenden Fahrt durch den nassen Wald bei Bonafond. Mittags bieten die Steingebäude von Saint-Martin und das Casino Schutz für eine kurze Pause. Am Nachmittag gleiten wir auf glatten Straßen am Schloss vorbei. Der Tag endet sicher mit der Entspannung in den warmen Thermalbädern nach der regnerischen Tour.",
+            "hu": "A nap frissítő tekeréssel indul a vizes erdőben Bonafond felé. Délben Saint-Martin kőépületei és a kaszinó nyújtanak menedéket a rövid pihenőkhöz. Délután óvatosan suhanunk a kastély melletti vizes utakon. A nap a termálfürdő melegében ér véget, ami tökéletes lezárása az esős, de aktív bringázásnak.",
+            "ro": "Ziua începe cu o tură revigorantă prin pădurea umedă spre Bonafond. La prânz, clădirile de piatră din Saint-Martin și cazinoul oferă adăpost pentru scurte pauze. După-amiaza, pedalăm cu grijă pe drumurile umede de lângă castel. Ziua se încheie cu relaxare la băile termale calde după tura ploioasă.",
+            "en": "The day begins with a refreshing ride through the wet woods towards Bonafond. At noon, the stone buildings of Saint-Martin and the casino offer shelter for short breaks. In the afternoon, we glide carefully along the wet roads by the castle. The day ends with relaxation in the warm thermal baths after the rainy tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bonafond",
+                "hu": "Bonafond",
+                "ro": "Bonafond",
+                "en": "Bonafond"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können bei Regen schlammig sein; achten Sie auf eine gute Bereifung mit Grip, um auf den nassen Pfaden sicher bergauf zu kommen.",
+                "hu": "Az erdei utak esőben sarasak lehetnek; ügyeljen a megfelelő gumiabroncs-tapadásra, hogy biztonságosan tekerhessen felfelé a vizes, csúszós ösvényeken.",
+                "ro": "Potecile din pădure pot fi noroioase pe ploaie; asigurați-vă că aveți anvelope cu aderență bună pentru a urca în siguranță pe potecile umede.",
+                "en": "The forest paths can be muddy in the rain; ensure your tires have good grip to safely pedal uphill on the wet and slippery sections through the woods."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab und nutzen Sie das Kircheninnere für eine trockene Pause vor der Weiterfahrt ins Tal.",
+                "hu": "Parkoljon a sűrűbb lombozatú fák alatt, és használja a templom belső terét egy száraz pihenőre, mielőtt továbbindulna a völgy felé vezető lejtőn.",
+                "ro": "Parcați bicicleta sub copacii cu frunziș des și folosiți interiorul bisericii pentru o pauză uscată înainte de a continua spre vale.",
+                "en": "Park your bike under the thick trees and use the church interior for a dry break before continuing your ride down the slope toward the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Uriage Casino",
+                "hu": "Uriage Kaszinó",
+                "ro": "Cazino Uriage",
+                "en": "Uriage Casino"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche in der Nähe sind ideal, um das Fahrrad kurz abzustellen, während Sie sich im warmen Foyer kurz aufwärmen.",
+                "hu": "A közeli fedett részek ideálisak a kerékpár rövid tárolására, amíg Ön a meleg előtérben kicsit megszárítkozik a következő szakasz előtt.",
+                "ro": "Zonele acoperite din apropiere sunt ideale pentru a lăsa bicicleta scurt timp în timp ce vă uscați puțin în holul cald înainte de următoarea etapă.",
+                "en": "The nearby covered areas are ideal for short bike parking while you dry off briefly in the warm foyer before the next stage of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Uriage",
+                "hu": "Uriage Kastély",
+                "ro": "Castelul Uriage",
+                "en": "Uriage Castle"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf dem nassen Asphalt in der Nähe des Schlosses; bremsen Sie frühzeitig vor den Kurven auf dem glatten Untergrund.",
+                "hu": "Vigyázzon a kastély környéki vizes aszfalton a lejtmenetben; fékezzen időben a kanyarok előtt, mert az útburkolat ilyenkor rendkívül csúszóssá válik.",
+                "ro": "Atenție la coborârea pe asfaltul umed din jurul castelului; frânați din timp înainte de curbe, deoarece carosabilul devine foarte alunecos.",
+                "en": "Be careful on the wet asphalt around the castle during the descent; brake early before the curves as the road surface becomes extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Hôtel d'Uriage",
+                "hu": "Grand Hôtel d'Uriage",
+                "ro": "Grand Hôtel d'Uriage",
+                "en": "Grand Hôtel d'Uriage"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Halt für einen Kleidercheck; wasserdichte Handschuhe sind bei Regen wichtig, um den Lenker sicher im Griff zu behalten.",
+                "hu": "Használja ki a rövid megállót a ruházat ellenőrzésére; a vízálló kesztyű elengedhetetlen, hogy biztosan tartsa a kormányt a vizes úton is.",
+                "ro": "Profită de scurta oprire pentru a-ți verifica echipamentul; mănușile impermeabile sunt esențiale pentru a ține bine ghidonul pe drumul umed.",
+                "en": "Use this short stop to check your gear; waterproof gloves are essential for maintaining a secure grip on the handlebars during rainy rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbäder von Uriage-les-Bains",
+                "hu": "Uriage-les-Bains Termálfürdő",
+                "ro": "Băile Termale Uriage-les-Bains",
+                "en": "Uriage-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihr Fahrrad sicher und genießen Sie die Wärme; die heißen Quellen sind die perfekte Belohnung für eine anstrengende Regenfahrt.",
+                "hu": "Zárja le biztonságosan a bringát és élvezze a megérdemelt meleget; a forró termálvíz a legjobb jutalom egy kimerítő esős tekerés után.",
+                "ro": "Încuiați bicicleta în siguranță și bucurați-vă de căldura binemeritată; apa termală fierbinte este cea mai bună recompensă după o tură obositoare pe ploaie.",
+                "en": "Lock your bike securely and enjoy the well-deserved warmth; the hot thermal water is the perfect reward after an exhausting rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Tour beginnt am Morgen auf den Höhen von Bonafond. Mittags wärmen wir uns in den historischen Gebäuden von Saint-Martin auf. Am Nachmittag nutzen wir das letzte Tageslicht beim Schloss, bevor die Sonne um 17:00 Uhr untergeht. Der Tag endet entspannt im warmen Wasser, während die Winterkälte draußen bleibt.",
+            "hu": "A fagyos túra reggel indul Bonafond magaslatain a csípős levegőben. Délben Saint-Martin történelmi falai között melegszünk fel egy kicsit. Délután kihasználjuk az utolsó fényeket a kastélynál, mielőtt 17:00-kor lebukik a nap. A napot a forró vízben zárjuk, miközben a kinti téli hideg már nem ér el minket.",
+            "ro": "Tura geroasă începe dimineața pe înălțimile din Bonafond în aerul tăios. La prânz, ne încălzim puțin între zidurile istorice din Saint-Martin. După-amiaza profităm de ultimele raze la castel înainte ca soarele să apună la ora 17:00. Încheiem ziua în apa fierbinte, departe de gerul de afară.",
+            "en": "The frosty ride starts this morning on the heights of Bonafond in the crisp air. At noon, we warm up briefly within the historic walls of Saint-Martin. In the afternoon, we catch the last light at the castle before sunset at 17:00. The day ends in the hot water, while the winter cold stays outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bonafond",
+                "hu": "Bonafond",
+                "ro": "Bonafond",
+                "en": "Bonafond"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten der Bäume; tragen Sie mehrere Schichten Thermo-Kleidung, um bei der kühlen Auffahrt nicht auszukühlen.",
+                "hu": "Ügyeljen a jeges foltokra a fák árnyékos oldalán; viseljen több réteg termo-ruházatot, hogy ne fázzon meg a hűvös erdei emelkedőkön.",
+                "ro": "Atenție la porțiunile înghețate la umbra copacilor; purtați mai multe straturi de haine termice pentru a nu răci pe urcările răcoroase din pădure.",
+                "en": "Watch out for icy patches in the shadows of the trees; wear multiple layers of thermal clothing to stay warm during the chilly forest climbs."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Kirche hilft, die Hände aufzuwärmen; Windschutz-Handschuhe sind für die folgende Abfahrt ins Tal unbedingt ratsam.",
+                "hu": "Egy rövid megálló a templomban segít felmelegíteni a kezeket; a szélálló kesztyű elengedhetetlen a völgybe vezető következő jeges lejtőhöz.",
+                "ro": "O scurtă oprire în biserică ajută la încălzirea mâinilor; mănușile rezistente la vânt sunt esențiale pentru următoarea coborâre spre vale.",
+                "en": "A short stop in the church helps warm up your hands; windproof gloves are essential for the upcoming freezing descent back into the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Uriage Casino",
+                "hu": "Uriage Kaszinó",
+                "ro": "Cazino Uriage",
+                "en": "Uriage Casino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Foyers für eine Pause; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang bereit ist.",
+                "hu": "Használja ki az előtér melegét egy pihenőre; ellenőrizze, hogy a kerékpár lámpái készen állnak-e a korai, 17:00 körüli sötétedésre.",
+                "ro": "Folosiți căldura holului pentru o pauză; verificați dacă luminile bicicletei sunt pregătite pentru apusul timpuriu de la ora 17:00.",
+                "en": "Take advantage of the foyer's warmth for a break; check that your bike lights are ready for the early sunset around 17:00 this afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Uriage",
+                "hu": "Uriage Kastély",
+                "ro": "Castelul Uriage",
+                "en": "Uriage Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet eine tolle Kulisse im Abendlicht; bewegen Sie sich regelmäßig, um bei den kühleren Temperaturen am späten Nachmittag warm zu bleiben.",
+                "hu": "A kastély lenyűgöző látvány az alkonyi fényekben; mozogjon folyamatosan, hogy testhőmérséklete ne essen le a késő délutáni fagyos időben.",
+                "ro": "Castelul oferă un cadru spectaculos în lumina amurgului; mișcați-vă constant pentru a vă menține temperatura corpului în gerul de după-amiază.",
+                "en": "The castle provides a stunning backdrop in the twilight light; keep moving regularly to maintain your body heat in the freezing late afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Hôtel d'Uriage",
+                "hu": "Grand Hôtel d'Uriage",
+                "ro": "Grand Hôtel d'Uriage",
+                "en": "Grand Hôtel d'Uriage"
+              },
+              "tip_5lang": {
+                "de": "Die Lichter des Hotels leuchten hell in der Kälte; ziehen Sie eine zusätzliche Schicht an, bevor Sie die letzte Strecke zum Thermalbad antreten.",
+                "hu": "A hotel fényei élesen ragyognak a hidegben; vegyen fel egy extra réteget, mielőtt megtenné az utolsó szakaszt a gőzölgő fürdőig.",
+                "ro": "Luminile hotelului strălucesc puternic în ger; puneți-vă un strat suplimentar de haine înainte de ultima etapă spre băile aburinde.",
+                "en": "The hotel lights shine brightly in the cold; put on an extra layer of clothing before completing the last stretch to the steaming baths."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbäder von Uriage-les-Bains",
+                "hu": "Uriage-les-Bains Termálfürdő",
+                "ro": "Băile Termale Uriage-les-Bains",
+                "en": "Uriage-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln im heißen Thermalwasser auf; denken Sie an eine Mütze für den Weg nach draußen, um den Kopf nach dem Bad warm zu halten.",
+                "hu": "Melegítse át átfagyott izmait a forró termálvízben; ne feledkezzen meg a sapkáról a távozáskor, hogy óvja fejét a kinti fagyos éjszakai szélben.",
+                "ro": "Încălziți-vă mușchii înghețați în apa termală fierbinte; nu uitați căciula la plecare pentru a vă proteja capul de vântul rece al nopții.",
+                "en": "Warm up your frozen muscles in the hot thermal water; don't forget your hat when leaving to protect your head from the freezing night wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a napot kényeztető pihenéssel az Uriage-les-Bains termálfürdőben, majd vezessen fel a fenséges Uriage Kastélyhoz. Tegyen egy rövid megállót a Saint-Martin templomnál, mielőtt elindulna a lenyűgöző Belledonne-hegységbe. Túrázzon a Lac de la Grenouillère és a Lac des Pourettes körül, végül pedig élvezze a naplementét a békés Lac Bernard partján.",
         "ro": "Începeți cu o dimineață răsfățată la Băile Termale Uriage-les-Bains, apoi conduceți până la maiestuosul Castel Uriage. Faceți o scurtă oprire la Biserica Saint-Martin înainte de a urca în uimitorii munți Belledonne. Faceți o drumeție de la Lac de la Grenouillère la Lac des Pourettes și ajungeți la pașnicul Lac Bernard odată cu lăsarea serii pentru o retragere perfectă.",
         "en": "Begin with an indulgent morning at the Uriage-les-Bains Thermal Baths, then drive up to the majestic Uriage Castle. Make a quick stop at the Saint-Martin Church before driving up into the stunning Belledonne mountain range. Hike the scenic trails linking Lac de la Grenouillère to Lac des Pourettes, and reach the peaceful Lac Bernard as the sun begins to set for a serene retreat."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag entspannt im warmen Thermalbad, während der Regen gegen die Scheiben prasselt. Mittags besuchen wir das Schloss und die Kirche im Schutz des Autos. Am Nachmittag bieten die Bergseen im Regen einen dramatischen Anblick. Der Abend endet gemütlich bei einer Fahrt durch die neblige, aber stimmungsvolle Landschaft.",
+            "hu": "A napot pihentetően indítjuk a forró termálvízben, miközben az eső kopog az üvegen. Délben a kastélyt és a templomot látogatjuk meg az autó kényelméből kiszállva. Délután a hegyi tavak drámai látványt nyújtanak a felhők alatt. Az este a ködös, de hangulatos tájon való autózással ér véget.",
+            "ro": "Începem ziua relaxați în apa termală fierbinte în timp ce ploaia bate în geamuri. La prânz vizităm castelul și biserica, profitând de confortul mașinii. După-amiaza, lacurile montane oferă o priveliște dramatică sub nori. Seara se încheie cu o plimbare cu mașina prin peisajul cețos, dar plin de atmosferă.",
+            "en": "We start the day relaxed in the hot thermal water while rain drums against the glass. At noon, we visit the castle and church, enjoying the comfort of the car. In the afternoon, the mountain lakes offer a dramatic sight under the heavy clouds. The evening ends with a drive through the misty but atmospheric landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thermalbäder von Uriage-les-Bains",
+                "hu": "Uriage-les-Bains Termálfürdő",
+                "ro": "Băile Termale Uriage-les-Bains",
+                "en": "Uriage-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Start bei Regen; nutzen Sie den Parkplatz direkt vor dem Eingang, um trocken ins Gebäude zu gelangen.",
+                "hu": "Tökéletes kezdés esős időben; használja a közvetlenül a bejárat melletti parkolót, hogy minél kevesebbet kelljen a szabadban áznia.",
+                "ro": "Un început perfect pe vreme ploioasă; folosiți parcarea de lângă intrare pentru a ajunge rapid și uscat în interiorul clădirii.",
+                "en": "A perfect start for a rainy day; use the parking lot right next to the entrance to minimize your time spent outside in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Uriage",
+                "hu": "Uriage Kastély",
+                "ro": "Castelul Uriage",
+                "en": "Uriage Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposante Festung im Nebel; es gibt gute Haltepunkte in der Nähe für Fotos aus dem trockenen Fahrzeug.",
+                "hu": "Csodálja meg a ködbe burkolózó erődöt; a közelben kiváló megállók vannak, ahonnan az autó száraz belsejéből is készíthet hangulatos fotókat.",
+                "ro": "Admirați fortăreața impunătoare învăluită în ceață; există locuri de oprire în apropiere pentru fotografii din interiorul uscat al mașinii.",
+                "en": "Admire the imposing fortress shrouded in mist; there are excellent stopping points nearby for taking atmospheric photos from the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Fuße des Hügels; der kurze Aufstieg lohnt sich für die spirituelle Ruhe im Inneren während eines Regenschauers.",
+                "hu": "Parkoljon a domb alján; a rövid felfelé út megéri a benti spirituális nyugalomért, ami kiváló menedéket nyújt egy hirtelen zápor elől.",
+                "ro": "Parcați la baza dealului; scurta urcare merită pentru liniștea spirituală din interior, care oferă un adăpost excelent împotriva averselor.",
+                "en": "Park at the base of the hill; the short climb is worth it for the spiritual peace inside, providing an excellent refuge during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Grenouillère",
+                "hu": "Lac de la Grenouillère",
+                "ro": "Lac de la Grenouillère",
+                "en": "Lac de la Grenouillère"
+              },
+              "tip_5lang": {
+                "de": "Die im Regen kräuselnde Wasseroberfläche bietet einen dramatischen Anblick, den Sie bequem vom Auto aus am Ufer bewundern können.",
+                "hu": "Az esőben fodrozódó víztükör drámai látványt nyújt, amit a kocsi kényelméből is megcsodálhat a tóparti úton végigautózva.",
+                "ro": "Suprafața apei unduindu-se în ploaie oferă o priveliște dramatică, pe care o puteți admira din confortul mașinii de-a lungul malului lacului.",
+                "en": "The water surface rippling in the rain offers a dramatic sight, which you can admire from the comfort of your car while driving along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pourettes",
+                "hu": "Lac des Pourettes",
+                "ro": "Lac des Pourettes",
+                "en": "Lac des Pourettes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die mystische Atmosphäre des Sees unter grauen Wolken; halten Sie an den Aussichtspunkten für einen Blick auf die Bergspitzen.",
+                "hu": "Élvezze a tó misztikus hangulatát a szürke felhők alatt; álljon meg a kilátópontoknál egy pillantásra a felhőkbe vesző hegycsúcsok felé.",
+                "ro": "Bucurați-vă de atmosfera mistică a lacului sub norii gri; opriți la punctele de belvedere pentru o privire spre vârfurile muntoase.",
+                "en": "Enjoy the mystical atmosphere of the lake under gray clouds; stop at the viewpoints for a glimpse of the mountain peaks hidden in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Bernard",
+                "hu": "Lac Bernard",
+                "ro": "Lac Bernard",
+                "en": "Lac Bernard"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser wirkt im Regen fast schwarz und geheimnisvoll; bleiben Sie im Auto und lassen Sie die ruhige Regenlandschaft auf sich wirken.",
+                "hu": "A víz az esőben szinte feketének és titokzatosnak tűnik; maradjon az autóban és hagyja, hogy a csendes esős táj nyugtatóan hasson Önre.",
+                "ro": "Apa pare aproape neagră și misterioasă în ploaie; rămâneți în mașină și lăsați peisajul ploios și liniștit să vă relaxeze simțurile.",
+                "en": "The water appears almost black and mysterious in the rain; stay in the car and let the quiet rainy landscape exert its calming effect on you."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im dampfenden Thermalbad in den frostigen Tag. Mittags besuchen wir das Schloss und die historische Kirche, die im Winterlicht besonders edel wirken. Am Nachmittag fahren wir zu den zugefrorenen Bergseen, bevor die Sonne um 17:00 Uhr untergeht. Der Tag endet mit einer warmen Rückfahrt durch das verschneite Tal.",
+            "hu": "Kellemesen indítjuk a fagyos napot a gőzölgő termálfürdőben. Délben ellátogatunk a kastélyhoz és a templomhoz, melyek a téli fényekben különösen előkelőnek festenek. Délután felautózunk a jeges hegyi tavakhoz, mielőtt 17:00-kor leszáll az éj. A nap az ünnepi fényekben úszó völgyön át való hazautazással zárul.",
+            "ro": "Începem ziua geroasă în mod plăcut la băile termale aburinde. La prânz vizităm castelul și biserica, care arată deosebit de nobil în lumina iernii. După-amiaza urcăm cu mașina spre lacurile montane înghețate înainte de apusul de la ora 17:00. Ziua se încheie cu drumul spre casă prin valea înzăpezită.",
+            "en": "We start the frosty day comfortably in the steaming thermal baths. At noon, we visit the castle and historic church, which look particularly noble in the winter light. In the afternoon, we drive up to the frozen mountain lakes before sunset at 17:00. The day ends with a warm drive back through the snowy valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thermalbäder von Uriage-les-Bains",
+                "hu": "Uriage-les-Bains Termálfürdő",
+                "ro": "Băile Termale Uriage-les-Bains",
+                "en": "Uriage-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme des Wassers ist im Winter ein herrlicher Kontrast zur Frostluft; heizen Sie Ihr Auto vor der Abfahrt gut auf.",
+                "hu": "A víz melege télen csodálatos kontrasztot alkot a fagyos levegővel; fűtse fel jól az autót, mielőtt továbbindulna a következő állomásra.",
+                "ro": "Căldura apei este un contrast minunat cu aerul înghețat iarna; încălziți bine mașina înainte de a pleca spre următoarea oprire.",
+                "en": "The warmth of the water provides a wonderful contrast to the freezing air in winter; warm up your car well before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Uriage",
+                "hu": "Uriage Kastély",
+                "ro": "Castelul Uriage",
+                "en": "Uriage Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht wie aus einem Märchen; parken Sie sicher und achten Sie beim kurzen Rundgang auf glatte Stellen.",
+                "hu": "A kastély a téli fényekben olyan, mintha egy tündérmeséből lépett volna elő; parkoljon le biztonságosan, és figyeljen a jeges útra a séta során.",
+                "ro": "Castelul arată ca într-un basm în lumina iernii; parcați în siguranță și fiți atenți la porțiunile înghețate în timpul scurtei plimbări.",
+                "en": "The castle looks like something out of a fairy tale in the winter light; park safely and watch out for icy spots during your short walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen Ort zum Aufwärmen und Besinnen; achten Sie auf die Schneeräumung auf der Zufahrt zum Parkplatz.",
+                "hu": "A templom csendes helyet kínál a felmelegedésre és az elmélyülésre; ellenőrizze a hóeltakarítást a parkolóhoz vezető meredekebb bekötőúton.",
+                "ro": "Biserica oferă un loc liniștit pentru încălzire și reflecție; verificați starea drumului de acces spre parcare în caz de ninsoare proaspătă.",
+                "en": "The church offers a quiet place for warming up and reflection; check the snow clearance on the access road leading to the hilltop parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Grenouillère",
+                "hu": "Lac de la Grenouillère",
+                "ro": "Lac de la Grenouillère",
+                "en": "Lac de la Grenouillère"
+              },
+              "tip_5lang": {
+                "de": "Der See kann im Winter teilweise zugefroren sein; genießen Sie das Panorama durch das Fenster Ihres gut beheizten Autos am Ufer.",
+                "hu": "A tó télen részben befagyhat; élvezze a havas panorámát a jól fűtött autó ablakán keresztül a tóparti úton lassan haladva.",
+                "ro": "Lacul poate fi parțial înghețat iarna; bucurați-vă de panorama înzăpezită prin geamul mașinii bine încălzite în timp ce mergeți pe mal.",
+                "en": "The lake may be partially frozen in winter; enjoy the snowy panorama through the window of your well-heated car while driving along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pourettes",
+                "hu": "Lac des Pourettes",
+                "ro": "Lac des Pourettes",
+                "en": "Lac des Pourettes"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Stopp für Winterfotos der schneebedeckten Gipfel; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "Pompás állomás a havas csúcsok téli fotózásához; ne járassa feleslegesen a motort, miközben kiszáll egy pillanatra a kristálytiszta hegyi levegőre.",
+                "ro": "O oprire superbă pentru fotografii de iarnă ale vârfurilor înzăpezite; nu lăsați motorul pornit inutil în timp ce admirați priveliștea montană.",
+                "en": "A magnificent stop for winter photos of the snow-capped peaks; don't leave the engine running unnecessarily while you step out for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Bernard",
+                "hu": "Lac Bernard",
+                "ro": "Lac Bernard",
+                "en": "Lac Bernard"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung verwandelt sich in ein wahres Eisreich; die klare Winterluft bietet hier eine der besten Fernsichten der gesamten Region.",
+                "hu": "A környék igazi jégbirodalommá változik; a kristálytiszta téli levegő az egyik legjobb kilátást nyújtja itt az egész régióra a naplemente előtt.",
+                "ro": "Împrejurimile se transformă într-un adevărat regat de gheață; aerul curat de iarnă oferă aici una dintre cele mai bune priveliști din întreaga regiune.",
+                "en": "The surroundings transform into a true ice kingdom; the clear winter air offers one of the best views of the entire region before the sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

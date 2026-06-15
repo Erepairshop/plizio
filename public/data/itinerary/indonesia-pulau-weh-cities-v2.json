@@ -137,6 +137,168 @@
         "hu": "Kezdje a gyalogtúrát az északi buja dombokon, és élvezze a Cot Labubau érintetlen természeti szépségét a reggeli napfényben.\n\nDél közeledtével folytassa útját a Cot Teupin Panah és a Cot Drien Klah felé, ahol a hűsítő tengeri szellő kíséri a túrát.\n\nDélután ereszkedjen le a Teluk Teupin Krueng nyugati öbléhez, ahol a kristálytiszta, nyugodt víz tökéletes pihenést kínál.\n\nZárja a napot a lenyűgöző víz alatti vulkánnál, amelynek geotermikus jelenségei a naplemente fényeiben felejthetetlen élményt nyújtanak.",
         "ro": "Începeți turul de mers pe jos traversând dealurile nordice luxuriante, admirând frumusețea naturală virgină de la Cot Labubau.\n\nSpre prânz, continuați-vă drumeția spre Cot Teupin Panah și Cot Drien Klah, unde briza de coastă oferă o ușurare binevenită.\n\nDupă-amiaza, coborâți spre golful vestic Teluk Teupin Krueng, ale cărui ape calme vă invită să vă odihniți picioarele obosite.\n\nÎncheiați-vă ziua la incredibilul Vulcan Subacvatic, o minune geotermală care oferă un final de zi cu adevărat dramatic și de neuitat.",
         "en": "Begin your walking tour traversing the lush northern hills, taking in the serene natural beauty of Cot Labubau in the morning light.\n\nAs midday approaches, continue your trek towards Cot Teupin Panah and Cot Drien Klah, where the coastal breeze provides welcome relief.\n\nIn the afternoon, descend towards the western bay of Teluk Teupin Krueng, where calm waters invite you to rest your feet.\n\nConclude your day at the incredible Underwater Volcano, a geothermal marvel that provides an unforgettable and dramatic end to your island adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit tief hängenden Wolken über den Hügeln von Cot Labubau. Mittags suchen wir Schutz unter dichten Blätterdächern, während der Regen auf den Dschungel trommelt. Am Nachmittag führt der Weg über rutschige Pfade zur Küste. Den Abend lassen wir in einer überdachten Hütte mit Blick auf die aufgewühlte See ausklingen.",
+            "hu": "A reggel ködbe burkolózó dombok között indul Cot Labubau környékén. Délben a sűrű lombkoronák alatt keresünk menedéket az intenzív trópusi eső elől. Délután a csúszóssá vált ösvényeken óvatosan ereszkedünk a tengerpart felé. Az estét egy fedett teraszon töltjük, hallgatva a tenger és az eső megnyugtató morajlását.",
+            "ro": "Dimineața începe cu nori joși deasupra dealurilor din Cot Labubau. La prânz căutăm adăpost sub coronamentul des al junglei în timp ce ploaia tobează pe frunze. După-amiaza continuăm pe poteci alunecoase spre coastă. Seara ne retragem într-un foișor acoperit, admirând marea agitată în lumina difuză a amurgului.",
+            "en": "The morning starts with low-hanging clouds over the hills of Cot Labubau. At noon, we find shelter under dense canopies as tropical rain drums on the jungle. In the afternoon, the path leads over slippery trails toward the coast. We end the evening in a sheltered hut, watching the restless sea in the fading light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cot Labubau",
+                "hu": "Cot Labubau",
+                "ro": "Cot Labubau",
+                "en": "Cot Labubau"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei Regen mystisch, aber der Aufstieg ist schlammig; tragen Sie unbedingt griffige Wanderschuhe für den rutschigen Hang.",
+                "hu": "A kilátás esőben misztikus a gomolygó felhőkkel, de az út sáros; viselj tapadós talpú bakancsot a meredek, csúszós szakaszokon.",
+                "ro": "Priveliștea este mistică prin norii de ploaie, dar urcarea e noroioasă; purtați bocanci cu talpă aderentă pentru pantele alunecoase.",
+                "en": "The view is mystical through the rain clouds, but the path is muddy; wear high-grip hiking boots for the steep, slippery sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Teupin Panah",
+                "hu": "Cot Teupin Panah",
+                "ro": "Cot Teupin Panah",
+                "en": "Cot Teupin Panah"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Bäume als natürlichen Regenschutz und achten Sie auf exponierte Wurzeln, die bei Nässe extrem glatt sind.",
+                "hu": "Használd a sűrű lombozatot természetes esernyőként, és ügyelj a nedves gyökerekre, amelyek ilyenkor rendkívül csúszósak.",
+                "ro": "Folosiți arborii deși ca protecție naturală împotriva ploii și atenție la rădăcinile expuse care devin extrem de alunecoase.",
+                "en": "Use the dense trees as natural rain cover and watch out for exposed roots which become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Drien Klah",
+                "hu": "Cot Drien Klah",
+                "ro": "Cot Drien Klah",
+                "en": "Cot Drien Klah"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um die Wolkenformationen über dem Ozean zu beobachten; halten Sie Ihre Kamera in einer wasserdichten Tasche bereit.",
+                "hu": "Kiváló hely az óceán feletti viharfelhők megfigyelésére; tartsd a fényképezőt vízálló tokban a hirtelen lezúduló záporok miatt.",
+                "ro": "Un loc excelent pentru a observa formațiunile de nori deasupra oceanului; păstrați aparatul foto într-o geantă impermeabilă.",
+                "en": "A great spot to observe cloud formations over the ocean; keep your camera in a waterproof bag due to sudden tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Krueng",
+                "hu": "Teluk Teupin Krueng",
+                "ro": "Teluk Teupin Krueng",
+                "en": "Teluk Teupin Krueng"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen dramatisch; suchen Sie Schutz in den nahen Fischerhütten, um das graue Meer sicher zu bewundern.",
+                "hu": "Az öböl drámai látványt nyújt esőben; keress menedéket a közeli halászkunyhók alatt, hogy szárazon csodálhasd a szürke víztükröt.",
+                "ro": "Golful arată dramatic pe ploaie; căutați adăpost în colibele pescarilor din apropiere pentru a admira marea în siguranță.",
+                "en": "The bay looks dramatic in the rain; seek shelter in nearby fishing huts to admire the grey sea while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Unterwasservulkan",
+                "hu": "Víz alatti vulkán",
+                "ro": "Vulcanul Subacvatic",
+                "en": "Underwater Volcano"
+              },
+              "tip_5lang": {
+                "de": "Da man ohnehin nass wird, stört der Regen beim Schnorcheln kaum; achten Sie jedoch auf die Strömung bei stürmischem Wetter.",
+                "hu": "Mivel úgyis vizes leszel, az eső nem zavarja a sznorkelezést; figyelj viszont az erősödő áramlatokra a viharosabb időben.",
+                "ro": "Deoarece oricum vă veți uda, ploaia nu deranjează la snorkeling; atenție însă la curenții mai puternici pe vreme furtunoasă.",
+                "en": "Since you'll get wet anyway, rain doesn't ruin snorkeling; however, be mindful of stronger currents during stormy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenbrise macht den Aufstieg zum Cot Labubau angenehm. Mittags genießen wir die milde Sonne, die nicht zu heiß brennt. Am Nachmittag eilen wir zu den Aussichtspunkten, da das Licht bereits golden wird. Gegen 17:00 Uhr sinkt die Sonne schnell, und wir suchen ein warmes Plätzchen für den frühen Abend.",
+            "hu": "A friss reggeli szellő kellemessé teszi a kapaszkodót Cot Labubau felé. Délben élvezzük a lágyabb napsütést, amely ilyenkor nem éget annyira. Délután már a korai naplementére készülünk, sietve az utolsó pontok felé. 17:00 körül hirtelen sötétedik, így korán behúzódunk egy barátságos, meleg helyre.",
+            "ro": "Briza răcoroasă de dimineață face urcarea spre Cot Labubau foarte plăcută. La prânz ne bucurăm de soarele blând care nu arde tare. După-amiaza grăbim pasul spre punctele de belvedere pentru lumina aurie. În jurul orei 17:00 soarele apune rapid, așa că ne retragem devreme la căldură.",
+            "en": "The cool morning breeze makes the climb to Cot Labubau pleasant. At noon, we enjoy the milder sun that isn't too scorching. In the afternoon, we hurry toward the viewpoints for the golden hour light. Around 17:00, the sun sets rapidly, leading us to find a cozy spot for an early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cot Labubau",
+                "hu": "Cot Labubau",
+                "ro": "Cot Labubau",
+                "en": "Cot Labubau"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Wetter für den Aufstieg; die Luft ist klarer als im Sommer, was eine weite Sicht über die gesamte Insel ermöglicht.",
+                "hu": "Tökéletes idő a túrázáshoz; a levegő tisztább, mint nyáron, így messzebbre ellátsz az egész sziget felett a csúcsról.",
+                "ro": "Vreme perfectă pentru urcare; aerul este mai clar decât vara, oferind o vizibilitate extinsă peste întreaga insulă.",
+                "en": "Perfect weather for the climb; the air is clearer than in summer, allowing for expansive views over the entire island."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Teupin Panah",
+                "hu": "Cot Teupin Panah",
+                "ro": "Cot Teupin Panah",
+                "en": "Cot Teupin Panah"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Temperaturen locken mehr Vögel an; bringen Sie ein Fernglas mit, um die Tierwelt in den Baumkronen zu beobachten.",
+                "hu": "A hűvösebb idő több madarat csalogat elő; hozz távcsövet, mert ilyenkor aktívabb az élővilág a lombkoronák között.",
+                "ro": "Temperaturile mai scăzute atrag mai multe păsări; aduceți un binoclu pentru a observa fauna activă printre copaci.",
+                "en": "Cooler temperatures attract more birds; bring binoculars to observe the active wildlife in the canopy during mid-day."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Drien Klah",
+                "hu": "Cot Drien Klah",
+                "ro": "Cot Drien Klah",
+                "en": "Cot Drien Klah"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist ideal für Fotos; tragen Sie eine leichte Jacke gegen den frischen Wind am Bergrücken.",
+                "hu": "A kora délutáni fények ideálisak a fotózáshoz; viselj vékony széldzsekit a hegygerincen fújó hűvösebb szél ellen.",
+                "ro": "Lumina de după-amiază devreme este ideală pentru fotografii; purtați o jachetă ușoară împotriva vântului de pe creastă.",
+                "en": "Early afternoon light is ideal for photography; wear a light windbreaker against the fresh breeze on the mountain ridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Krueng",
+                "hu": "Teluk Teupin Krueng",
+                "ro": "Teluk Teupin Krueng",
+                "en": "Teluk Teupin Krueng"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Bucht spätestens um 14:00 Uhr, um das Wasser noch im vollen Tageslicht zu erleben, bevor die Schatten länger werden.",
+                "hu": "Látogasd meg az öblöt legkésőbb 14:00-ig, hogy még teljes fényében lásd a vizet, mielőtt a dombok árnyékba borítják a partot.",
+                "ro": "Vizitați golful cel târziu la ora 14:00 pentru a vedea apa în plină lumină, înainte ca umbrele dealurilor să acopere plaja.",
+                "en": "Visit the bay by 14:00 at the latest to see the water in full light before the hills cast long shadows over the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Unterwasservulkan",
+                "hu": "Víz alatti vulkán",
+                "ro": "Vulcanul Subacvatic",
+                "en": "Underwater Volcano"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie das Schnorcheln vor 16:30 Uhr; die sinkende Sonne macht die Navigation zwischen den Felsen im Wasser schwierig.",
+                "hu": "Fejezd be a búvárkodást 16:30-ig; a gyorsan lemenő nap miatt a sziklák közötti navigáció veszélyessé válhat a vízben.",
+                "ro": "Terminați snorkelingul înainte de 16:30; apusul rapid face navigarea printre stâncile din apă dificilă și riscantă.",
+                "en": "Finish snorkeling before 16:30; the rapidly setting sun makes navigating between rocks in the water difficult and risky."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a délkeleti magaslatokon, a Cot Abe Ukee és a Cot Mapadon környékén, ahol friss reggeli levegő és lenyűgöző panoráma várja.\n\nDélben tekerjen el a Cot Lueng Angen békés dombjához, ahol a tengerparti szellő kiváló felfrissülést nyújt az ebédidőben.\n\nDélután fedezze fel az északi rész buja természeti pontjait, mint a Cot Labubau, a Cot Teupin Panah és a Cot Drien Klah, amelyek mind érintetlen csodák.\n\nTúrája a Teluk Teupin Krueng nyugodt öblében ér véget, ahol a naplementét csodálva pihenheti ki a nap kellemes fáradalmait.",
         "ro": "Începeți turul cu bicicleta în zonele înalte de sud-est, la Cot Abe Ukee și Cot Mapadon, unde vă așteaptă aerul proaspăt și panorame fantastice.\n\nLa prânz, pedalați ușor spre Cot Lueng Angen, unde briza răcoroasă a oceanului oferă o împrospătare perfectă înaintea următoarei etape.\n\nDupă-amiaza, traseul vă duce spre nordul luxuriant la Cot Labubau, Cot Teupin Panah și Cot Drien Klah, toate fiind paradisuri naturale liniștite.\n\nTurul se încheie relaxant în golful Teluk Teupin Krueng, unde puteți admira apusul soarelui reflectat în apele blânde și calme.",
         "en": "Start your cycling tour in the southeastern heights at Cot Abe Ukee and Cot Mapadon, enjoying fresh morning air and sweeping island panoramas.\n\nBy midday, pedal your way to the peaceful Cot Lueng Angen, where the cool ocean breeze provides the perfect setting for a restful break.\n\nIn the afternoon, your route leads north to Cot Labubau, Cot Teupin Panah, and Cot Drien Klah, uncovering the island's untouched natural havens.\n\nYour ride gracefully concludes at the calm bay of Teluk Teupin Krueng, an idyllic spot to unwind and watch the sun dip below the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig auf nassen Straßen am Cot Abe Ukee. Mittags zwingt uns ein kräftiger Schauer zu einer Pause in einem Café. Nachmittags radeln wir durch die dampfende Tropenlandschaft, während die Reifen auf dem Asphalt zischen. Den Abend verbringen wir bei heißem Tee, während das Fahrrad sicher untergestellt ist.",
+            "hu": "Óvatosan indulunk a vizes aszfalton Cot Abe Ukee irányába. Délben egy heves zápor megállásra kényszerít egy útmenti kávézóban. Délután a párás, gőzölgő trópusi tájon tekerünk tovább, figyelve a csúszós kanyarokra. Az estét forró teával zárjuk, miközben a bringák fedett helyen pihennek.",
+            "ro": "Pornim cu prudență pe șoseaua udă spre Cot Abe Ukee. La prânz, o ploaie torențială ne obligă să luăm o pauză la o cafenea. După-amiaza pedalăm prin peisajul tropical aburind, atenți la curbele alunecoase. Seara se încheie cu un ceai fierbinte, cu bicicletele la adăpost.",
+            "en": "We start cautiously on wet roads towards Cot Abe Ukee. At noon, a heavy downpour forces a break in a roadside cafe. In the afternoon, we cycle through the steaming tropical landscape, wary of slippery corners. The evening ends with hot tea while the bikes are safely tucked under cover."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cot Abe Ukee",
+                "hu": "Cot Abe Ukee",
+                "ro": "Cot Abe Ukee",
+                "en": "Cot Abe Ukee"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die steilen Straßen sind bei Regen extrem rutschig und erfordern volle Konzentration.",
+                "hu": "Ellenőrizd a fékeidet indulás előtt; a meredek utak esőben rendkívül csúszósak, és teljes koncentrációt igényelnek a lejtőkön.",
+                "ro": "Verificați frânele înainte de plecare; drumurile abrupte sunt extrem de alunecoase pe ploaie și necesită concentrare maximă.",
+                "en": "Check your brakes before starting; the steep roads are extremely slippery in the rain and require full concentration on descents."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Mapadon",
+                "hu": "Cot Mapadon",
+                "ro": "Cot Mapadon",
+                "en": "Cot Mapadon"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in Kurven besonders langsam; oft sammeln sich Schlamm und Blätter auf der Fahrbahn, die wie Schmierseife wirken.",
+                "hu": "A kanyarokban tekerj különösen lassan; a sár és a nedves levelek úgy csúsznak az aszfalton, mint a jég.",
+                "ro": "Pedalați foarte încet în curbe; noroiul și frunzele ude de pe carosabil pot fi la fel de alunecoase ca gheața.",
+                "en": "Cycle extra slowly in curves; mud and wet leaves on the asphalt can be as slippery as ice during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Lueng Angen",
+                "hu": "Cot Lueng Angen",
+                "ro": "Cot Lueng Angen",
+                "en": "Cot Lueng Angen"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei Starkregen Schutz unter den Veranden der Anwohner; die Menschen hier sind freundlich und bieten oft Unterschlupf an.",
+                "hu": "Heves esőzéskor keress menedéket a helyiek háza előtt; a környékbeliek barátságosak, és szívesen hellyel kínálnak a fedett részen.",
+                "ro": "În caz de ploaie torențială, căutați adăpost sub verandele localnicilor; oamenii sunt prietenoși și oferă adesea un loc uscat.",
+                "en": "In case of heavy rain, seek shelter under local porches; people are friendly and often offer a dry spot to wait out the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Labubau",
+                "hu": "Cot Labubau",
+                "ro": "Cot Labubau",
+                "en": "Cot Labubau"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad stabil ab, da der Boden aufgeweicht sein kann; ein improvisierter Untersetzer verhindert das Einsinken.",
+                "hu": "Stabilan állítsd le a bringát, mert a talaj felázhatott; egy lapos kő a támasztó alá segít, hogy ne süllyedjen el a sárban.",
+                "ro": "Parcați bicicleta pe o suprafață stabilă, deoarece solul poate fi moale; o piatră sub cric va preveni scufundarea în noroi.",
+                "en": "Park your bike on a stable surface as the ground may be soft; a flat stone under the kickstand prevents it from sinking into mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Teupin Panah",
+                "hu": "Cot Teupin Panah",
+                "ro": "Cot Teupin Panah",
+                "en": "Cot Teupin Panah"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine neongelbe Regenjacke; die Sichtweite für Autofahrer ist bei Starkregen stark eingeschränkt.",
+                "hu": "Viselj feltűnő esődzsekit; a látótávolság az autósok számára drasztikusan lecsökken a szakadó trópusi esőben.",
+                "ro": "Purtați o pelerină de ploaie în culori stridente; vizibilitatea pentru șoferi scade drastic în timpul averselor torențiale.",
+                "en": "Wear a bright rain jacket; visibility for car drivers decreases drastically during heavy tropical downpours on narrow roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Drien Klah",
+                "hu": "Cot Drien Klah",
+                "ro": "Cot Drien Klah",
+                "en": "Cot Drien Klah"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt von hier ist lang; halten Sie Abstand zu anderen Radfahrern, da der Bremsweg auf nassem Untergrund viel länger ist.",
+                "hu": "Innen hosszú lejtő következik; tarts nagyobb követési távolságot, mert a fékút vizes aszfalton jelentősen meghosszabbodik.",
+                "ro": "Urmează o coborâre lungă; păstrați o distanță mai mare între biciclete, deoarece distanța de frânare crește pe asfalt ud.",
+                "en": "A long descent follows; keep a larger distance from other cyclists as braking distance increases significantly on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Krueng",
+                "hu": "Teluk Teupin Krueng",
+                "ro": "Teluk Teupin Krueng",
+                "en": "Teluk Teupin Krueng"
+              },
+              "tip_5lang": {
+                "de": "Nach der Tour das Fahrrad kurz mit Süßwasser abspülen; Regenwasser in Küstennähe ist oft salzhaltig und fördert Korrosion.",
+                "hu": "A túra után öblítsd le a bringát édesvízzel; a tengerparti esővíz sós lehet, ami gyorsítja az alkatrészek rozsdásodását.",
+                "ro": "După tură, clătiți bicicleta cu apă dulce; apa de ploaie de lângă coastă este adesea sărată și favorizează coroziunea.",
+                "en": "After the tour, rinse your bike with fresh water; rain near the coast often contains salt which accelerates corrosion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Cot Abe Ukee ist ideal zum Treten. Mittags genießen wir die Sonne ohne die extreme Hitze des Sommers. Nachmittags radeln wir zügig, um vor dem frühen Sonnenuntergang am Ziel zu sein. Ab 17:00 Uhr wird es frisch, und wir freuen uns auf eine warme Unterkunft.",
+            "hu": "A hűvös reggel Cot Abe Ukee-nél ideális a tekeréshez. Délben élvezzük a napsütést a nyári hőség perzselése nélkül. Délután tempósabban haladunk, hogy a korai naplemente előtt elérjük az utolsó megállót. 17:00 után lehűl a levegő, így jól esik behúzódni a szállásra.",
+            "ro": "O dimineață răcoroasă la Cot Abe Ukee este ideală pentru pedalat. La prânz ne bucurăm de soare fără arșița extremă a verii. După-amiaza pedalăm susținut pentru a ajunge înainte de apusul devreme. După ora 17:00 se lasă răcoarea și ne retragem la căldură.",
+            "en": "A cool morning at Cot Abe Ukee is ideal for cycling. At noon, we enjoy the sun without the extreme scorching heat of summer. In the afternoon, we pedal steadily to reach the final stop before the early sunset. After 17:00, it gets chilly, making us look forward to a cozy stay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cot Abe Ukee",
+                "hu": "Cot Abe Ukee",
+                "ro": "Cot Abe Ukee",
+                "en": "Cot Abe Ukee"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den ersten Anstieg; die Herzbelastung ist bei diesen Temperaturen deutlich geringer.",
+                "hu": "Használd ki a hűvös reggelt az első nagy emelkedőhöz; a szívre nehezedő terhelés sokkal kisebb ilyen hőmérséklet mellett.",
+                "ro": "Profitați de dimineața răcoroasă pentru prima urcare; efortul cardiovascular este mult mai redus la aceste temperaturi.",
+                "en": "Take advantage of the cool morning for the first big climb; cardiovascular strain is much lower at these temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Mapadon",
+                "hu": "Cot Mapadon",
+                "ro": "Cot Mapadon",
+                "en": "Cot Mapadon"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft besser; halten Sie am Rand an, um das Panorama der Insel Pulau Weh in voller Klarheit zu genießen.",
+                "hu": "A látási viszonyok télen gyakran jobbak; állj meg az út szélén, hogy teljes tisztaságában élvezhesd Pulau Weh panorámáját.",
+                "ro": "Vizibilitatea este adesea mai bună iarna; opriți pe marginea drumului pentru a admira panorama insulei Pulau Weh în toată claritatea.",
+                "en": "Visibility is often better in winter; stop at the roadside to enjoy the panorama of Pulau Weh in full clarity."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Lueng Angen",
+                "hu": "Cot Lueng Angen",
+                "ro": "Cot Lueng Angen",
+                "en": "Cot Lueng Angen"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es angenehm warm; ideal für ein Picknick im Freien, bevor der Wind am Nachmittag merklich auffrischt.",
+                "hu": "Délben kellemesen meleg van; ideális idő egy szabadtéri piknikhez, mielőtt a szél délután érezhetően felerősödne.",
+                "ro": "La prânz este plăcut și cald; timp ideal pentru un picnic în aer liber înainte ca vântul să se intensifice după-amiaza.",
+                "en": "It’s pleasantly warm at noon; ideal for an outdoor picnic before the wind picks up noticeably in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Labubau",
+                "hu": "Cot Labubau",
+                "ro": "Cot Labubau",
+                "en": "Cot Labubau"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit; im Winter steht die Sonne tief und blendet beim Fahren in Richtung Norden stärker als gewohnt.",
+                "hu": "Ügyelj az időre; télen alacsonyabban jár a nap, és északi irányba tekerve jobban elvakíthat az úton a megszokottnál.",
+                "ro": "Atenție la timp; iarna soarele este jos pe cer și vă poate orbi mai tare când pedalați spre nord decât de obicei.",
+                "en": "Watch the time; in winter the sun is lower and can blind you more than usual when cycling northward on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Teupin Panah",
+                "hu": "Cot Teupin Panah",
+                "ro": "Cot Teupin Panah",
+                "en": "Cot Teupin Panah"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten; während des Tretens ist es warm, aber bei den Abfahrten kühlt der Fahrtwind im Winter stark ab.",
+                "hu": "Öltözz rétegesen; tekerés közben meleged lesz, de a lejtőkön a menetszél télen hamar áthűtheti a testedet.",
+                "ro": "Purtați haine în straturi; în timp ce pedalați vă va fi cald, dar pe coborâri vântul vă poate răci rapid corpul.",
+                "en": "Dress in layers; you'll get warm while pedaling, but on the descents, the wind can quickly chill your body in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Drien Klah",
+                "hu": "Cot Drien Klah",
+                "ro": "Cot Drien Klah",
+                "en": "Cot Drien Klah"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich zum nächsten Stopp; die goldenen Farben am Himmel signalisieren, dass der Sonnenuntergang kurz bevorsteht.",
+                "hu": "Igyekezz a következő megállóhoz; az égbolt aranyló színei már jelzik, hogy a naplemente hamarosan bekövetkezik.",
+                "ro": "Grăbiți-vă spre următoarea oprire; culorile aurii ale cerului semnalează că apusul soarelui se apropie rapid.",
+                "en": "Hurry to the next stop; the golden colors of the sky signal that the sunset is approaching very soon."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Krueng",
+                "hu": "Teluk Teupin Krueng",
+                "ro": "Teluk Teupin Krueng",
+                "en": "Teluk Teupin Krueng"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das frühe Zwielicht am Wasser und stellen Sie sicher, dass Ihre Fahrradlichter für die Heimfahrt im Dunkeln funktionieren.",
+                "hu": "Élvezd a korai szürkületet a víznél, és győződj meg róla, hogy a lámpáid működnek a sötétben való hazatekeréshez.",
+                "ro": "Bucurați-vă de amurgul devreme lângă apă și asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Enjoy the early twilight by the water and make sure your bike lights are working for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Autós túrája drámai módon a Cot Leumo Mate déli szikláinál indul, mielőtt befelé, a Cot Mapadon és a Cot Abe Ukee dombok felé venné az irányt.\n\nDélben a szigetet átszelve a Cot Lueng Angen és a Cot Labubau felé halad, élvezve a kényelmes utazást ezen érintetlen természeti csodák között.\n\nA délutánt az északi öblöknek szentelheti a Cot Teupin Panah és a Cot Drien Klah mentén, kényelmesen felfedezve a sziget gazdag növényvilágát.\n\nEstefelé haladjon a nyugati part felé, ahol a Teluk Teupin Krueng nyugalma várja, és zárja a napot a lenyűgöző víz alatti vulkán látványával.",
         "ro": "Excursia cu mașina începe dramatic la stâncile sudice impresionante de la Cot Leumo Mate, înainte de a vă îndrepta spre interior la Cot Mapadon și Cot Abe Ukee.\n\nLa amiază, traversați insula spre Cot Lueng Angen și Cot Labubau, mașina permițând transferuri confortabile între aceste minuni naturale virgine.\n\nDupă-amiaza este dedicată capurilor nordice pitorești de la Cot Teupin Panah și Cot Drien Klah, unde puteți explora confortabil flora bogată a insulei.\n\nSpre seară, conduceți pe coasta de vest la apele liniștite din Teluk Teupin Krueng, încheind ziua la fascinantul Vulcan Subacvatic.",
         "en": "Your road trip begins dramatically at the impressive southern cliffs of Cot Leumo Mate before heading inland towards Cot Mapadon and Cot Abe Ukee.\n\nBy midday, cross the island towards Cot Lueng Angen and Cot Labubau, allowing the car to provide comfortable hops between these pristine natural wonders.\n\nThe afternoon is dedicated to the scenic northern capes at Cot Teupin Panah and Cot Drien Klah, where you can comfortably explore the island's rich flora.\n\nAs evening approaches, drive to the western coast to enjoy the tranquil waters of Teluk Teupin Krueng, ending your day at the fascinating Underwater Volcano."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit Scheibenwischern im Dauereinsatz am Cot Leumo Mate. Mittags genießen wir die Aussicht aus dem trockenen Auto bei einem warmen Snack. Nachmittags fahren wir vorsichtig über die durch Regen aufgeweichten Straßen. Den Abend lassen wir in einem gemütlichen Restaurant mit Blick auf das stürmische Meer ausklingen.",
+            "hu": "A nap folyamatos ablaktörlő-használattal indul Cot Leumo Mate dombjainál. Délben a száraz autó biztonságából csodáljuk a tájat egy meleg harapnivaló mellett. Délután óvatosan navigálunk az eső áztatta, kanyargós hegyi utakon. Az estét egy hangulatos étteremben zárjuk, nézve a viharos óceánt.",
+            "ro": "Ziua începe cu ștergătoarele în funcțiune la Cot Leumo Mate. La prânz admirăm peisajul din confortul mașinii cu o gustare caldă. După-amiaza conducem cu prudență pe drumurile șerpuite de munte afectate de ploaie. Seara se încheie într-un restaurant primitor, privind oceanul furtunos.",
+            "en": "The day begins with wipers on constant duty at Cot Leumo Mate. At noon, we admire the view from the dry comfort of the car with a warm snack. In the afternoon, we navigate carefully through the rain-soaked, winding mountain roads. We end the evening in a cozy restaurant, watching the stormy ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cot Leumo Mate",
+                "hu": "Cot Leumo Mate",
+                "ro": "Cot Leumo Mate",
+                "en": "Cot Leumo Mate"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nur auf befestigten Flächen; der unbefestigte Randstreifen kann bei Regen aufweichen und Ihr Auto feststecken lassen.",
+                "hu": "Csak szilárd burkolaton parkolj; a padka esőben felázhat, és az autó könnyen elakadhat a puha sárban.",
+                "ro": "Parcați doar pe suprafețe pavate; acostamentul neamenajat se poate înmuia și mașina poate rămâne blocată în noroi.",
+                "en": "Park only on paved surfaces; the unpaved roadside can soften in the rain, and your car might get stuck easily."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Mapadon",
+                "hu": "Cot Mapadon",
+                "ro": "Cot Mapadon",
+                "en": "Cot Mapadon"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning in den Senken; fahren Sie langsam, da das Wasser auf diesen Straßen oft nur schlecht abfließt.",
+                "hu": "Vigyázz a vízenfutásra a mélyedésekben; vezess lassan, mert a víz gyakran megáll az úton a rossz vízelvezetés miatt.",
+                "ro": "Atenție la acvaplanare în zonele joase; conduceți încet, deoarece apa stagnează adesea pe carosabil pe timp de ploaie.",
+                "en": "Watch out for aquaplaning in low spots; drive slowly as water often collects on the road due to poor drainage."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Abe Ukee",
+                "hu": "Cot Abe Ukee",
+                "ro": "Cot Abe Ukee",
+                "en": "Cot Abe Ukee"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie das Abblendlicht ein; die Sichtweite ist durch den Sprühregen der Reifen anderer Fahrzeuge stark eingeschränkt.",
+                "hu": "Kapcsold be a tompított fényszórót; a látótávolság a többi autó által felcsapott vízpermet miatt jelentősen lecsökken.",
+                "ro": "Aprindeți faza scurtă; vizibilitatea este redusă semnificativ din cauza norului de apă ridicat de celelalte vehicule.",
+                "en": "Turn on your low-beam headlights; visibility is significantly reduced by the water spray kicked up by other vehicles."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Lueng Angen",
+                "hu": "Cot Lueng Angen",
+                "ro": "Cot Lueng Angen",
+                "en": "Cot Lueng Angen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Steinschlag an den Felswänden; starker Regen kann kleine Geröllabgänge auf die Fahrbahn verursachen.",
+                "hu": "Figyelj a kőomlásokra a sziklafalak mentén; a heves esőzés kisebb törmelékeket moshat az útra a meredek szakaszokon.",
+                "ro": "Atenție la căderile de pietre de-a lungul stâncilor; ploaia torențială poate spăla resturi de rocă pe carosabil.",
+                "en": "Watch out for rockfalls along the cliffs; heavy rain can wash small debris onto the road in steep sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Labubau",
+                "hu": "Cot Labubau",
+                "ro": "Cot Labubau",
+                "en": "Cot Labubau"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für die Aussicht im Auto, wenn es zu stark regnet; die erhöhte Sitzposition bietet trotzdem ein tolles Panorama.",
+                "hu": "Maradj az autóban, ha túl erősen esik; a magasabb üléspozícióból is nagyszerű panoráma nyílik a ködös tájra.",
+                "ro": "Rămâneți în mașină dacă plouă prea tare; poziția înaltă de condus oferă totuși o panoramă excelentă asupra văii.",
+                "en": "Stay in the car if it rains too hard; the elevated seating position still offers a great panorama of the misty landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Teupin Panah",
+                "hu": "Cot Teupin Panah",
+                "ro": "Cot Teupin Panah",
+                "en": "Cot Teupin Panah"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie hastige Lenkmanöver; die Straßenoberfläche ist bei Nässe tückisch und bietet wenig Grip in engen Kurven.",
+                "hu": "Kerüld a hirtelen kormánymozdulatokat; az aszfalt nedvesen csalóka, és kevés tapadást biztosít a szűk kanyarokban.",
+                "ro": "Evitați manevrele bruște de direcție; asfaltul ud este înșelător și oferă puțină aderență în curbele strânse.",
+                "en": "Avoid sudden steering maneuvers; the asphalt is treacherous when wet and provides little grip in tight corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Drien Klah",
+                "hu": "Cot Drien Klah",
+                "ro": "Cot Drien Klah",
+                "en": "Cot Drien Klah"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Motorbremse bei der Abfahrt; langes Bremsen auf nasser Fahrbahn kann zum Blockieren der Räder führen.",
+                "hu": "Használd a motorféket az ereszkedésnél; a hosszas fékezés vizes úton a kerekek megcsúszásához vezethet.",
+                "ro": "Folosiți frâna de motor la coborâre; frânarea prelungită pe drum ud poate duce la blocarea sau deraparea roților.",
+                "en": "Use engine braking during the descent; prolonged braking on wet roads can lead to wheel lock-up or skidding."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Krueng",
+                "hu": "Teluk Teupin Krueng",
+                "ro": "Teluk Teupin Krueng",
+                "en": "Teluk Teupin Krueng"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zur Bucht kann matschig sein; prüfen Sie den Untergrund, bevor Sie den asphaltierten Weg verlassen.",
+                "hu": "Az öbölhöz vezető bekötőút sáros lehet; ellenőrizd a talajt, mielőtt lehajtanál az aszfaltozott útról.",
+                "ro": "Drumul de acces spre golf poate fi noroios; verificați solul înainte de a părăsi drumul asfaltat cu mașina.",
+                "en": "The access road to the bay can be muddy; check the ground before leaving the paved road with your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Unterwasservulkan",
+                "hu": "Víz alatti vulkán",
+                "ro": "Vulcanul Subacvatic",
+                "en": "Underwater Volcano"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie keine nassen Sachen im Auto liegen; die hohe Luftfeuchtigkeit bei Regen führt schnell zu beschlagenen Scheiben.",
+                "hu": "Ne hagyj vizes holmit az utastérben; a magas páratartalom miatt az ablakok pillanatok alatt belülről is bepárásodnak.",
+                "ro": "Nu lăsați lucruri ude în mașină; umiditatea ridicată va face ca geamurile să se aburească instantaneu pe interior.",
+                "en": "Don't leave wet gear in the car; high humidity will cause the windows to fog up instantly from the inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen am Cot Leumo Mate beginnt erfrischend. Mittags genießen wir die milde Sonne durch das Schiebedach. Nachmittags nutzen wir das klare Licht für Panoramafotos, bevor wir uns beeilen. Gegen 17:00 Uhr verschwindet die Sonne, und wir suchen eine gemütliche Lodge für den frühen Abend.",
+            "hu": "A hűvös téli reggel frissítően indul Cot Leumo Mate dombjainál. Délben élvezzük a lágy napsütést a nyitott tetőablakon keresztül. Délután kihasználjuk a tiszta fényeket a fotózáshoz, mielőtt elindulnánk az utolsó pontra. 17:00-kor lebukik a nap, így korán behúzódunk egy meleg helyre.",
+            "ro": "Dimineața răcoroasă de iarnă la Cot Leumo Mate începe revigorant. La prânz ne bucurăm de soarele blând prin trapa mașinii. După-amiaza profităm de lumina clară pentru fotografii panoramice. La ora 17:00 soarele dispare, așa că ne retragem devreme într-o pensiune primitoare.",
+            "en": "The cool winter morning at Cot Leumo Mate starts refreshingly. At noon, we enjoy the mild sun through the sunroof. In the afternoon, we take advantage of the clear light for panoramic photos before rushing. By 17:00, the sun disappears, leading us to find a cozy lodge for the early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cot Leumo Mate",
+                "hu": "Cot Leumo Mate",
+                "ro": "Cot Leumo Mate",
+                "en": "Cot Leumo Mate"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet hier die beste Fernsicht des Jahres; halten Sie kurz an, um den Horizont ohne Dunst zu sehen.",
+                "hu": "A tiszta téli levegő biztosítja az év legjobb távoli kilátását; állj meg egy pillanatra, hogy lásd a horizontot pára nélkül.",
+                "ro": "Aerul clar de iarnă oferă cea mai bună vizibilitate la distanță; opriți scurt pentru a vedea orizontul fără pâclă.",
+                "en": "The clear winter air provides the best long-distance views of the year; stop briefly to see the horizon without haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Mapadon",
+                "hu": "Cot Mapadon",
+                "ro": "Cot Mapadon",
+                "en": "Cot Mapadon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milden Temperaturen für eine kurze Pause außerhalb des Wagens; die Hitze ist im Winter weitaus erträglicher.",
+                "hu": "Használd ki az enyhe hőmérsékletet egy rövid sétára az autó körül; a hőség télen sokkal elviselhetőbb ezen a szakaszon.",
+                "ro": "Profitați de temperaturile blânde pentru o scurtă pauză în afara mașinii; căldura este mult mai suportabilă iarna.",
+                "en": "Take advantage of the mild temperatures for a short walk outside the car; the heat is much more bearable in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Abe Ukee",
+                "hu": "Cot Abe Ukee",
+                "ro": "Cot Abe Ukee",
+                "en": "Cot Abe Ukee"
+              },
+              "tip_5lang": {
+                "de": "Mittags steht die Sonne im Winter perfekt für Fotos der Küstenlinie; parken Sie sicher in den dafür vorgesehenen Buchten.",
+                "hu": "Délben a napállás télen tökéletes a partvonal fotózásához; parkolj le biztonságosan az erre kijelölt öblökben.",
+                "ro": "La prânz, poziția soarelui iarna este perfectă pentru fotografierea coastei; parcați în siguranță în alveolele special amenajate.",
+                "en": "At noon, the sun's position in winter is perfect for photographing the coastline; park safely in the designated bays."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Lueng Angen",
+                "hu": "Cot Lueng Angen",
+                "ro": "Cot Lueng Angen",
+                "en": "Cot Lueng Angen"
+              },
+              "tip_5lang": {
+                "de": "Die Passatwinde können im Winter stark sein; halten Sie die Türen beim Aussteigen fest, damit sie nicht vom Wind aufgeschlagen werden.",
+                "hu": "A passzátszél télen felerősödhet; fogd erősen az autó ajtaját kiszálláskor, nehogy a hirtelen széllökés kicsavarja a kezedből.",
+                "ro": "Vânturile alizee pot fi puternice iarna; țineți bine portierele când coborâți pentru a nu fi smulse de rafalele de vânt.",
+                "en": "Trade winds can be strong in winter; hold the car doors firmly when getting out so the wind doesn't blow them wide open."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Labubau",
+                "hu": "Cot Labubau",
+                "ro": "Cot Labubau",
+                "en": "Cot Labubau"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den Nachmittagskaffee im Auto; genießen Sie das Panorama, während es draußen durch den Wind kühler wird.",
+                "hu": "Ideális hely egy délutáni kávéhoz az autóban; élvezd a panorámát, miközben odakint a szél miatt hűvösebbre fordul az idő.",
+                "ro": "Locul ideal pentru o cafea de după-amiază în mașină; admirați panorama în timp ce afară se răcește din cauza vântului.",
+                "en": "An ideal spot for afternoon coffee in the car; enjoy the panorama while it gets cooler outside due to the rising wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Teupin Panah",
+                "hu": "Cot Teupin Panah",
+                "ro": "Cot Teupin Panah",
+                "en": "Cot Teupin Panah"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die tiefstehende Sonne; eine Sonnenbrille ist im Winter beim Fahren am Nachmittag unerlässlich.",
+                "hu": "Ügyelj az alacsonyan járó napra; a napszemüveg télen, a délutáni vezetésnél elengedhetetlen a biztonságos közlekedéshez.",
+                "ro": "Atenție la soarele jos; ochelarii de soare sunt esențiali iarna pentru condusul de după-amiază în siguranță.",
+                "en": "Watch out for the low-hanging sun; sunglasses are essential for safe afternoon driving in winter on these winding roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Drien Klah",
+                "hu": "Cot Drien Klah",
+                "ro": "Cot Drien Klah",
+                "en": "Cot Drien Klah"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig weiter, um den Sonnenuntergang am Wasser zu erleben; die Schatten werden im Tal bereits sehr lang.",
+                "hu": "Haladj tempósabban tovább, hogy a vízparton érd el a naplementét; a völgyben az árnyékok már nagyon hosszúra nyúlnak.",
+                "ro": "Continuați drumul susținut pentru a prinde apusul lângă apă; în vale umbrele sunt deja foarte lungi la această oră.",
+                "en": "Continue driving steadily to catch the sunset by the water; shadows in the valley are already getting very long."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Krueng",
+                "hu": "Teluk Teupin Krueng",
+                "ro": "Teluk Teupin Krueng",
+                "en": "Teluk Teupin Krueng"
+              },
+              "tip_5lang": {
+                "de": "Das Licht um 16:30 Uhr ist magisch für Küstenaufnahmen; stellen Sie sicher, dass Sie bis 17:00 Uhr wieder abfahrbereit sind.",
+                "hu": "A fények 16:30 körül mágikusak a tengerparti fotókhoz; ügyelj rá, hogy 17:00-ra már indulásra kész állapotban legyél.",
+                "ro": "Lumina în jurul orei 16:30 este magică pentru fotografii pe coastă; asigurați-vă că sunteți gata de plecare până la ora 17:00.",
+                "en": "The light around 16:30 is magical for coastal shots; make sure you are ready to depart by 17:00 as darkness falls fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Unterwasservulkan",
+                "hu": "Víz alatti vulkán",
+                "ro": "Vulcanul Subacvatic",
+                "en": "Underwater Volcano"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Schnorcheln sofort warme Kleidung im Auto anziehen; sobald die Sonne weg ist, kühlt es im Winter merklich ab.",
+                "hu": "Sznorkelezés után azonnal vegyél fel meleg ruhát az autóban; amint lemegy a nap, télen hirtelen lehűl a levegő.",
+                "ro": "După snorkeling, îmbrăcați imediat haine calde în mașină; odată ce soarele apune, temperatura scade simțitor iarna.",
+                "en": "Put on warm clothes in the car immediately after snorkeling; once the sun is down, the temperature drops noticeably in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -206,6 +206,252 @@
         "hu": "Camaiore frissítő kezdettel várja Önt. A város nyugati része finom bevezetést kínál a mindennapi életbe és a vallásos áhítatba, gyönyörű történelmi homlokzatokkal, amelyek a kora reggeli napsütésben ébredeznek.\n\nA dél közeledtével a történelmi szív hívogat. Sétáljon el az elegáns közigazgatási épületek és a város építészeti arculatát meghatározó bájos kis szentélyek mellett. Ez a tökéletes időszak a gyönyörű városközpont felfedezésére.\n\nA délután a mély művészeti és kulturális elmélyülésé. A szakrális művészeti múzeum és a lenyűgöző középkori épületek feltárják azt a gazdag szellemi örökséget, amely oly sok évszázadon át formálta ezt a toszkán várost.\n\nZárja a napot békés elmélkedéssel. Akár egy fenséges apátság ősi kőpadlóját fedezi fel, akár az aranyórát élvezi egy vidéki plébánián, az este mélységes történelmi nyugalmat hoz majd a lenyűgöző és emlékezetes utazásába.",
         "ro": "Camaiore vă întâmpină cu un început revigorant. Părțile vestice ale orașului oferă o introducere blândă în viața de zi cu zi și devotamentul religios, cu fațade istorice frumoase care se trezesc sub lumina soarelui de dimineață.\n\nPe măsură ce se apropie prânzul, inima istorică vă cheamă. Plimbați-vă pe lângă clădirile administrative elegante și micile sanctuare fermecătoare care definesc caracterul arhitectural. Este timpul perfect pentru centrul civic.\n\nDupă-amiaza este rezervată unei imersiuni artistice și culturale profunde. Muzeul de artă sacră și structurile religioase medievale dezvăluie bogata moștenire spirituală care a modelat acest oraș toscan de-a lungul secolelor.\n\nÎncheiați-vă ziua într-o contemplare pașnică. Indiferent dacă explorați podelele vechi de piatră ale abațiilor maiestuoase sau vă bucurați de ora de aur la o parohie rurală, seara aduce un sentiment profund de liniște istorică.",
         "en": "Camaiore welcomes you with a refreshing start. The western parts of the city offer a gentle introduction to its daily life and religious devotion, with beautiful historic facades and lively recreational spots waking up in the morning sun.\n\nAs midday approaches, the historical heart calls. Wander past elegant administrative buildings and charming small sanctuaries that define the town's architectural character. It is the perfect time to explore the civic center.\n\nThe afternoon is reserved for deep artistic and cultural immersion. The museum of sacred art and grand medieval religious structures reveal the rich spiritual heritage that has shaped this Tuscan town for countless centuries.\n\nEnd your day in peaceful contemplation. Whether exploring the ancient stone floors of majestic abbeys or enjoying the golden hour at a countryside parish, the evening brings a profound sense of historical tranquility to your journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den nebligen Gassen von Camaiore, wo die Kirchen kühle Zuflucht bieten. Mittags spazieren wir unter Regenschirmen zum Rathaus, während die Regentropfen auf das Pflaster trommeln. Den Nachmittag verbringen wir im trockenen Kunstmuseum, umgeben von sakralen Schätzen. Der Tag endet ruhig in der Badia di San Pietro, während der Regen draußen sanft die alten Klostermauern wäscht.",
+            "hu": "A reggel párás ködben indul Camaiore utcáin, ahol a templomok belső terei nyújtanak elsőként menedéket. Délben az esernyők alatt sietünk a városháza felé, figyelve a macskaköveken megcsillanó tócsákat. A délutánt a múzeum fedett tárlatai között töltjük, teljesen kizárva a külvilágot. Az estét a Badia falai között zárjuk, ahol az eső kopogása meditatív hangulatot áraszt a történelmi környezetben.",
+            "ro": "Dimineața începe pe străzile cețoase din Camaiore, unde interioarele bisericilor oferă primul refugiu împotriva ploii. La prânz ne plimbăm cu umbrelele spre primărie, admirând reflexiile pe pavajul ud. După-amiaza este dedicată muzeului, un loc perfect uscat pentru a explora arta sacră. Seara se încheie liniștit la Badia di San Pietro, în timp ce ploaia spală ușor zidurile vechii mănăstiri.",
+            "en": "The morning begins in the misty streets of Camaiore, where church interiors offer the first refuge from the drizzle. At noon, we stroll under umbrellas towards the town hall, watching reflections in the puddles. The afternoon is spent inside the dry art museum, surrounded by sacred treasures. The day ends peacefully at the Badia, as the rain creates a rhythmic soundtrack against the ancient stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "hu": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "ro": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "en": "Chiesa dell'Immacolata Concezione e di San Lazzaro"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Altäre im trockenen Inneren; lassen Sie Ihren nassen Regenschirm am Eingang im Ständer stehen, um den Boden nicht rutschig zu machen.",
+                "hu": "Csodálja meg az oltárokat a száraz belső térben; a vizes esernyőt hagyja a bejáratnál lévő tartóban, hogy elkerülje a padló csúszóssá válását.",
+                "ro": "Admirați altarele în interiorul uscat; lăsați umbrela udă în suportul de la intrare pentru a evita ca podeaua să devină alunecoasă.",
+                "en": "Admire the altars in the dry interior; leave your wet umbrella in the stand at the entrance to prevent the floor from becoming slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Comunale Camaiore",
+                "hu": "Piscina Comunale Camaiore",
+                "ro": "Piscina Comunale Camaiore",
+                "en": "Piscina Comunale Camaiore"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Regenalternative: Genießen Sie ein paar Bahnen im warmen Hallenbad und nutzen Sie die Haartrockner vor dem Hinausgehen in die Kühle.",
+                "hu": "Tökéletes esős program: ússzon pár hosszt a meleg vizű fedett medencében, és távozás előtt alaposan szárítsa meg a haját a hűvös levegő miatt.",
+                "ro": "Alternativa perfectă pentru ploaie: bucurați-vă de câteva lungimi în piscina interioară caldă și folosiți uscătoarele de păr înainte de a ieși în frig.",
+                "en": "The perfect rainy alternative: enjoy a few laps in the warm indoor pool and make sure to use the hair dryers before heading back out into the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Stella",
+                "hu": "Chiesa di Santa Maria della Stella",
+                "ro": "Chiesa di Santa Maria della Stella",
+                "en": "Chiesa di Santa Maria della Stella"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet eine intime Atmosphäre bei Regen; nutzen Sie die Stille für eine kurze Meditation, während es draußen schüttet.",
+                "hu": "Ez a kis templom meghitt hangulatot áraszt esőben; használja ki a csendet egy rövid meditációra, amíg kint szakad az eső.",
+                "ro": "Această biserică mică oferă o atmosferă intimă pe timp de ploaie; profitați de liniște pentru o scurtă meditație în timp ce afară toarnă.",
+                "en": "This small church offers an intimate atmosphere during rain; take advantage of the silence for a short meditation while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio",
+                "hu": "Municipio",
+                "ro": "Municipio",
+                "en": "Municipio"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden des Gebäudes und bewundern Sie die Architektur, ohne nass zu werden; ein idealer Ort für ein Foto.",
+                "hu": "Keressen menedéket az épület árkádjai alatt, és csodálja meg az építészetet anélkül, hogy megázna; ideális helyszín egy gyors fotóhoz.",
+                "ro": "Căutați adăpost sub arcadele clădirii și admirați arhitectura fără a vă uda; un loc ideal pentru o fotografie rapidă la adăpost.",
+                "en": "Seek shelter under the building's arcades and admire the architecture without getting wet; an ideal spot for a quick photo while sheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Suffragio",
+                "hu": "Chiesa del Suffragio",
+                "ro": "Chiesa del Suffragio",
+                "en": "Chiesa del Suffragio"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer trockener Zufluchtsort mit beeindruckender Akustik; achten Sie auf die Tropfgeräusche an den alten Fensterscheiben.",
+                "hu": "Egy újabb száraz menedék lenyűgöző akusztikával; figyelje az esőcseppek koppanását a régi üvegablakokon a belső csendben.",
+                "ro": "Un alt refugiu uscat cu o acustică impresionantă; ascultați sunetul picăturilor pe ferestrele vechi în liniștea interiorului.",
+                "en": "Another dry sanctuary with impressive acoustics; listen to the sound of raindrops hitting the old windows in the inner silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte sacra",
+                "hu": "Museo d'arte sacra",
+                "ro": "Museo d'arte sacra",
+                "en": "Museo d'arte sacra"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier viel Zeit, da es der beste Ort ist, um dem Regen zu entkommen; die Textilien und Teppiche sind im Halbdunkel faszinierend.",
+                "hu": "Töltsön itt több időt, mivel ez a legjobb hely az eső elől való menekülésre; a falikárpitok és textíliák lenyűgözőek a félhomályban.",
+                "ro": "Petreceți mai mult timp aici, fiind cel mai bun loc pentru a scăpa de ploaie; tapiseriile și textilele sunt fascinante în semiobscuritate.",
+                "en": "Spend more time here as it is the best place to escape the rain; the tapestries and textiles are fascinating in the dim museum lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vincenzo",
+                "hu": "Chiesa di San Vincenzo",
+                "ro": "Chiesa di San Vincenzo",
+                "en": "Chiesa di San Vincenzo"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist ein schneller, trockener Stopp; wischen Sie Ihre Schuhe gründlich ab, um auf dem Marmorboden nicht auszurutschen.",
+                "hu": "A kis kápolna gyors és száraz megálló; alaposan törölje le a cipőjét a lábtörlőn, hogy ne csússzon meg a márványpadlón.",
+                "ro": "Mica capelă este un popas rapid și uscat; ștergeți-vă bine încălțămintea pe covoraș pentru a nu aluneca pe podeaua de marmură.",
+                "en": "The small chapel is a quick, dry stop; wipe your shoes thoroughly on the mat to avoid slipping on the marble floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia di San Pietro",
+                "hu": "Badia di San Pietro",
+                "ro": "Badia di San Pietro",
+                "en": "Badia di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen überdachten Weg, um den Garten auch bei Regen zu genießen; achten Sie auf Pfützen auf dem Weg zum Haupteingang.",
+                "hu": "A kolostorkeringő fedett sétát tesz lehetővé a kert megtekintéséhez esőben is; ügyeljen a tócsákra a főbejárathoz vezető úton.",
+                "ro": "Claustrul permite o plimbare acoperită pentru a vedea grădina chiar și pe ploaie; atenție la bălți pe drumul spre intrarea principală.",
+                "en": "The cloister allows for a sheltered walk to view the garden even in the rain; watch out for puddles on the path to the main entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen macht den Spaziergang durch Camaiore belebend. Die Kirchen bieten eine willkommene Wärme gegen den leichten Frost. Mittags genießen wir die tiefstehende Sonne auf dem Rathausplatz, bevor die Kälte am Nachmittag zunimmt. Da die Sonne gegen 17:00 Uhr untergeht, endet unsere Tour bei der Badia im stimmungsvollen dämmrigen Zwielicht.",
+            "hu": "A friss téli reggel élénkítően hat a városi sétára, ahol a templomok vastag falai őrzik a belső meleget. Délben a városháza terén még élvezhetjük a gyenge napsütést, de délután már érezhető a lehűlés a múzeumi látogatás során. Mivel a nap korán, 17:00 körül nyugszik, a Badia környékét már hangulatos szürkületben fedezzük fel.",
+            "ro": "Aerul proaspăt de iarnă face plimbarea prin Camaiore revigorantă, în timp ce bisericile oferă o căldură binevenită. La prânz ne bucurăm de soarele slab în piața primăriei, înainte ca frigul să se intensifice după-amiaza. Deoarece soarele apune în jur de ora 17:00, turul nostru la Badia se încheie în lumina atmosferică a amurgului.",
+            "en": "The crisp winter air makes the morning walk through Camaiore invigorating, with churches providing a warm escape from the chill. At noon, we catch the pale sun in the main square before the temperature drops during the afternoon museum visit. As the sun sets around 17:00, we reach the Badia in the atmospheric twilight, ending the day in peace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "hu": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "ro": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "en": "Chiesa dell'Immacolata Concezione e di San Lazzaro"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da es im Inneren der Kirche kühl sein kann; die Lichtstimmung am Wintermorgen ist hier besonders friedlich.",
+                "hu": "Öltözzön rétegesen, mert a templom belseje hűvös lehet; a téli reggeli fények különlegesen békés hangulatot árasztanak a főoltárnál.",
+                "ro": "Îmbrăcați-vă în straturi, deoarece interiorul bisericii poate fi răcoros; lumina matinală de iarnă oferă o atmosferă foarte liniștită aici.",
+                "en": "Dress in warm layers as the church interior can be chilly; the winter morning light creates a particularly peaceful atmosphere by the altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Comunale Camaiore",
+                "hu": "Piscina Comunale Camaiore",
+                "ro": "Piscina Comunale Camaiore",
+                "en": "Piscina Comunale Camaiore"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im geheizten Schwimmbad ist im Winter ideal, um die Muskeln aufzuwärmen; vergessen Sie nicht, Ihren Schal beim Verlassen fest umzubinden.",
+                "hu": "A fűtött uszoda látogatása télen ideális az izmok bemelegítésére; távozáskor ne felejtse el szorosan megkötni a sálat a hideg ellen.",
+                "ro": "O vizită la piscina încălzită este ideală iarna pentru a vă încălzi mușchii; nu uitați să vă puneți fularul strâns la plecare.",
+                "en": "A visit to the heated pool is ideal in winter to warm up your muscles; don't forget to wrap your scarf tightly when leaving the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Stella",
+                "hu": "Chiesa di Santa Maria della Stella",
+                "ro": "Chiesa di Santa Maria della Stella",
+                "en": "Chiesa di Santa Maria della Stella"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche hält die Wärme besser; bewundern Sie die weihnachtlichen Dekorationen, die oft bis in den späten Januar zu sehen sind.",
+                "hu": "A kis templom jobban tartja a meleget; csodálja meg a karácsonyi díszítéseket, amelyek gyakran január végéig láthatóak a mellékoltárokon.",
+                "ro": "Biserica mică păstrează mai bine căldura; admirați decorațiunile de Crăciun care sunt adesea vizibile până la sfârșitul lunii ianuarie.",
+                "en": "The small church holds warmth better; admire the Christmas decorations that are often visible on the side altars until late January."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio",
+                "hu": "Municipio",
+                "ro": "Municipio",
+                "en": "Municipio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne auf dem Vorplatz für ein wenig Vitamin D, bevor der Schatten der umliegenden Berge die Stadt früh abkühlt.",
+                "hu": "Használja ki a déli napsütést az előtéren egy kis D-vitaminért, mielőtt a környező hegyek árnyéka korán lehűtené a várost.",
+                "ro": "Profitați de soarele de la prânz în piața din față pentru puțină vitamina D, înainte ca umbra munților să răcească orașul devreme.",
+                "en": "Take advantage of the midday sun in the square for some Vitamin D before the shadow of the surrounding mountains cools the city early."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Suffragio",
+                "hu": "Chiesa del Suffragio",
+                "ro": "Chiesa del Suffragio",
+                "en": "Chiesa del Suffragio"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders still; die hölzernen Details im Inneren verströmen eine warme, behagliche Atmosphäre trotz der Außentemperatur.",
+                "hu": "Télen itt különleges csend honol; a belső fafelületek meleg, otthonos hangulatot árasztanak a kinti alacsony hőmérséklet ellenére.",
+                "ro": "Iarna aici domină o liniște aparte; detaliile din lemn ale interiorului emană o atmosferă caldă, în ciuda frigului de afară.",
+                "en": "In winter, a special silence reigns here; the wooden interior details give off a warm, cozy vibe despite the cold outside temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte sacra",
+                "hu": "Museo d'arte sacra",
+                "ro": "Museo d'arte sacra",
+                "en": "Museo d'arte sacra"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut temperiert und bieten eine perfekte Flucht vor dem Winterwind; planen Sie 90 Minuten für die Sammlung ein.",
+                "hu": "A kiállítótermek kellemes hőmérsékletűek, tökéletes menedéket nyújtva a téli szél elől; szánjon legalább 90 percet a gyűjteményre.",
+                "ro": "Sălile de expoziție au o temperatură plăcută, oferind un refugiu perfect contra vântului; alocați 90 de minute pentru colecție.",
+                "en": "The exhibition rooms are well-tempered, offering a perfect escape from the winter wind; plan at least 90 minutes for the collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vincenzo",
+                "hu": "Chiesa di San Vincenzo",
+                "ro": "Chiesa di San Vincenzo",
+                "en": "Chiesa di San Vincenzo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen; achten Sie auf die tiefstehende Nachmittagssonne, die durch die Fenster ein goldenes Licht wirft.",
+                "hu": "Rövid megálló a bemelegedéshez; figyelje a délutáni alacsony napállást, amely arany fényt vet az ablakokon keresztül a padsorokra.",
+                "ro": "Un scurt popas pentru a vă încălzi; observați soarele de după-amiază care proiectează o lumină aurie prin ferestre spre bănci.",
+                "en": "A quick stop to warm up; watch the low afternoon sun casting a golden light through the windows onto the pews."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia di San Pietro",
+                "hu": "Badia di San Pietro",
+                "ro": "Badia di San Pietro",
+                "en": "Badia di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Anlage noch im Resthimmelblau zu sehen; danach sorgen die winterlichen Schatten für eine mystische Aura.",
+                "hu": "Érkezzen 17:00 előtt, hogy még láthassa a kertet a szürkület előtt; utána a téli árnyékok misztikus aurát kölcsönöznek az épületnek.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea grădina înainte de amurg; apoi, umbrele iernii conferă clădirii o aură mistică.",
+                "en": "Arrive before 17:00 to see the grounds before dusk; afterwards, the winter shadows lend a mystical aura to the ancient building."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "Camaiore frissítő kezdettel várja Önt. A város nyugati része finom bevezetést kínál a mindennapi életbe és a vallásos áhítatba, gyönyörű történelmi homlokzatokkal, amelyek a kora reggeli napsütésben ébredeznek.\n\nA dél közeledtével a történelmi szív hívogat. Sétáljon el az elegáns közigazgatási épületek és a város építészeti arculatát meghatározó bájos kis szentélyek mellett. Ez a tökéletes időszak a gyönyörű városközpont felfedezésére.\n\nA délután a mély művészeti és kulturális elmélyülésé. A szakrális művészeti múzeum és a lenyűgöző középkori épületek feltárják azt a gazdag szellemi örökséget, amely oly sok évszázadon át formálta ezt a toszkán várost.\n\nZárja a napot békés elmélkedéssel. Akár egy fenséges apátság ősi kőpadlóját fedezi fel, akár az aranyórát élvezi egy vidéki plébánián, az este mélységes történelmi nyugalmat hoz majd a lenyűgöző és emlékezetes utazásába.",
         "ro": "Camaiore vă întâmpină cu un început revigorant. Părțile vestice ale orașului oferă o introducere blândă în viața de zi cu zi și devotamentul religios, cu fațade istorice frumoase care se trezesc sub lumina soarelui de dimineață.\n\nPe măsură ce se apropie prânzul, inima istorică vă cheamă. Plimbați-vă pe lângă clădirile administrative elegante și micile sanctuare fermecătoare care definesc caracterul arhitectural. Este timpul perfect pentru centrul civic.\n\nDupă-amiaza este rezervată unei imersiuni artistice și culturale profunde. Muzeul de artă sacră și structurile religioase medievale dezvăluie bogata moștenire spirituală care a modelat acest oraș toscan de-a lungul secolelor.\n\nÎncheiați-vă ziua într-o contemplare pașnică. Indiferent dacă explorați podelele vechi de piatră ale abațiilor maiestuoase sau vă bucurați de ora de aur la o parohie rurală, seara aduce un sentiment profund de liniște istorică.",
         "en": "Camaiore welcomes you with a refreshing start. The western parts of the city offer a gentle introduction to its daily life and religious devotion, with beautiful historic facades and lively recreational spots waking up in the morning sun.\n\nAs midday approaches, the historical heart calls. Wander past elegant administrative buildings and charming small sanctuaries that define the town's architectural character. It is the perfect time to explore the civic center.\n\nThe afternoon is reserved for deep artistic and cultural immersion. The museum of sacred art and grand medieval religious structures reveal the rich spiritual heritage that has shaped this Tuscan town for countless centuries.\n\nEnd your day in peaceful contemplation. Whether exploring the ancient stone floors of majestic abbeys or enjoying the golden hour at a countryside parish, the evening brings a profound sense of historical tranquility to your journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den glatten Straßen von Camaiore. Wir starten bei den Kirchen im Norden und nutzen die langen Museumsbesuche als Trockenpausen. Mittags bietet das Rathaus Schutz, bevor wir am Nachmittag zur Pieve radeln. Die wasserfeste Kleidung ist heute Ihr bester Freund, während die Landschaft in sattem Grün unter den Wolken leuchtet.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel Camaiore csúszós útjain. Északról indulunk, és a hosszú múzeumlátogatást használjuk ki szárítkozásra. Délben a városháza árkádjai alatt pihenünk, majd délután a Pieve felé vesszük az irányt. A vízálló öltözet ma a legjobb barátja lesz, miközben a táj mélyzöld színei ragyognak a felhők alatt.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe străzile alunecoase din Camaiore. Începem de la bisericile din nord și folosim vizita la muzeu pentru a ne usca. La prânz ne odihnim sub arcadele primăriei, iar după-amiaza pedalăm spre Pieve. Echipamentul impermeabil este esențial astăzi, în timp ce peisajul strălucește în verde intens sub nori.",
+            "en": "Cycling in the rain requires caution on the slippery roads of Camaiore. We start from the northern churches and use the long museum visit as a chance to dry off. At noon, we rest under the town hall arcades before heading to the Pieve in the afternoon. Waterproof gear is your best friend today, while the landscape glows in deep green under the clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Ansano e Vincenzo",
+                "hu": "Chiesa dei Santi Ansano e Vincenzo",
+                "ro": "Chiesa dei Santi Ansano e Vincenzo",
+                "en": "Chiesa dei Santi Ansano e Vincenzo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und prüfen Sie Ihre Bremsen auf dem nassen Asphalt, bevor Sie die Abfahrt ins Zentrum wagen.",
+                "hu": "Parkolja le kerékpárját védett helyen, és ellenőrizze a fékeit a vizes aszfalton, mielőtt nekivágna a központba vezető lejtőnek.",
+                "ro": "Parcați bicicleta într-un loc protejat și verificați frânele pe asfaltul ud înainte de a începe coborârea spre centru.",
+                "en": "Park your bike in a sheltered spot and check your brakes on the wet asphalt before starting the descent towards the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia di San Pietro",
+                "hu": "Badia di San Pietro",
+                "ro": "Badia di San Pietro",
+                "en": "Badia di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Der Kiesweg kann rutschig sein; schieben Sie Ihr Rad das letzte Stück zum Eingang, um sicher zu gehen und die Ruhe nicht zu stören.",
+                "hu": "A kavicsos út csúszós lehet; tolja a kerékpárját az utolsó szakaszon a bejáratig a biztonság és a kolostori nyugalom érdekében.",
+                "ro": "Drumul cu pietriș poate fi alunecos; împingeți bicicleta pe ultima porțiune până la intrare pentru siguranță și pentru a nu deranja liniștea.",
+                "en": "The gravel path can be slippery; push your bike for the last stretch to the entrance for safety and to maintain the monastic quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte sacra",
+                "hu": "Museo d'arte sacra",
+                "ro": "Museo d'arte sacra",
+                "en": "Museo d'arte sacra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt, um Ihre Regenjacke auszuschütteln; das Museum bietet eine perfekte, trockene Pause für Radfahrer.",
+                "hu": "Használja ki a hosszú megállót az esőkabát lerázására; a múzeum tökéletes, száraz pihenőt kínál a kerékpárosoknak a város szívében.",
+                "ro": "Profitați de oprirea lungă pentru a vă scutura pelerina; muzeul oferă o pauză perfectă și uscată pentru bicicliști în inima orașului.",
+                "en": "Take advantage of the long stop to shake off your raincoat; the museum offers a perfect, dry break for cyclists in the heart of town."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio",
+                "hu": "Municipio",
+                "ro": "Municipio",
+                "en": "Municipio"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter die Vorsprünge des Platzes; das Rathaus ist ein guter Orientierungspunkt, um die Route bei Regen kurz zu prüfen.",
+                "hu": "Állítsa le kerékpárját a tér árkádjai alá; a városháza jó tájékozódási pont az útvonal ellenőrzéséhez az esőben való továbbindulás előtt.",
+                "ro": "Parcați bicicleta sub arcadele pieței; primăria este un punct bun de orientare pentru a verifica traseul înainte de a pleca prin ploaie.",
+                "en": "Park your bike under the square's arcades; the town hall is a good landmark to re-check your route before continuing through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "hu": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "ro": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "en": "Chiesa dell'Immacolata Concezione e di San Lazzaro"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf nasse Fahrbahnmarkierungen; die Kirche bietet einen kurzen Moment der Stille und Schutz vor einem Guss.",
+                "hu": "Vigyázzon a vizes útburkolati jelekre leszálláskor; a templom rövid csendet és védelmet nyújt egy-egy hirtelen zápor elől.",
+                "ro": "Atenție la marcajele rutiere ude când coborâți; biserica oferă un moment de liniște și protecție împotriva unei averse bruște.",
+                "en": "Watch out for wet road markings when dismounting; the church provides a brief moment of silence and protection from a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Rocco",
+                "hu": "Oratorio di San Rocco",
+                "ro": "Oratorio di San Rocco",
+                "en": "Oratorio di San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle liegt direkt an der Straße; halten Sie kurz an, um den Regenradar zu checken, bevor Sie zur Pieve weiterfahren.",
+                "hu": "A kis kápolna közvetlenül az út mentén fekszik; álljon meg egy pillanatra csekkolni az esőradart, mielőtt továbbtekerne a Pieve felé.",
+                "ro": "Mica capelă este chiar lângă drum; opriți-vă o secundă să verificați radarul de ploaie înainte de a pedala mai departe spre Pieve.",
+                "en": "The small chapel is right by the road; stop for a second to check the rain radar before cycling further towards the Pieve."
+              }
+            },
+            {
+              "name": {
+                "de": "Pieve di Santo Stefano",
+                "hu": "Pieve di Santo Stefano",
+                "ro": "Pieve di Santo Stefano",
+                "en": "Pieve di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird bei Regen anstrengender; genießen Sie die mystische Aussicht auf die wolkenverhangenen Hügel nach der Ankunft im Trockenen.",
+                "hu": "Az emelkedő esőben fárasztóbb; élvezze a felhőkbe burkolózó dombok misztikus látványát, miután megérkezett a templom száraz belső terébe.",
+                "ro": "Urcarea este mai obositoare pe ploaie; bucurați-vă de vederea mistică a dealurilor înnorate după ce ajungeți în interiorul uscat.",
+                "en": "The climb is more tiring in the rain; enjoy the mystical view of the cloud-covered hills once you arrive in the dry church interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad durch Camaiore erfordert gute Handschuhe gegen den Fahrtwind. Wir starten im kühlen Morgenlicht im Norden und arbeiten uns durch die historischen Stätten vor. Mittags nutzen wir die wärmenden Sonnenstrahlen im Zentrum für eine Pause. Da die Dämmerung früh einsetzt, planen wir die Ankunft an der Pieve rechtzeitig, um die weite Sicht im klaren Winterlicht zu genießen.",
+            "hu": "A téli kerékpártúra Camaiore környékén jó kesztyűt és réteges öltözetet igényel a menetszél miatt. Északról indulunk a hűvös reggeli fényben, és fokozatosan fedezzük fel a város kincseit. Délben a központ napsütötte részein pihenünk. Mivel a sötétedés korán érkezik, időben érünk a Pieve-hez, hogy még lássuk a téli táj tiszta panorámáját.",
+            "ro": "O tură de iarnă cu bicicleta prin Camaiore necesită mănuși bune contra vântului. Începem în lumina rece a dimineții din nord și explorăm treptat comorile orașului. La prânz ne odihnim în zonele însorite din centru. Deoarece întunericul vine devreme, ajungem la Pieve la timp pentru a vedea panorama clară a peisajului de iarnă.",
+            "en": "A winter bike tour around Camaiore requires good gloves and layers against the wind chill. We start in the cool morning light from the north, gradually exploring the town's treasures. At noon, we take a break in the sunny parts of the center. Since darkness falls early, we time our arrival at the Pieve to enjoy the clear winter panorama before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Ansano e Vincenzo",
+                "hu": "Chiesa dei Santi Ansano e Vincenzo",
+                "ro": "Chiesa dei Santi Ansano e Vincenzo",
+                "en": "Chiesa dei Santi Ansano e Vincenzo"
+              },
+              "tip_5lang": {
+                "de": "Der frostige Morgen erfordert warme Kleidung; genießen Sie die klare Luft und die weite Sicht über das Tal, bevor Sie losfahren.",
+                "hu": "A fagyos reggel meleg ruházatot kíván; élvezze a tiszta levegőt és a völgyre nyíló távoli kilátást, mielőtt elindulna a központ felé.",
+                "ro": "Dimineața geroasă necesită haine groase; bucurați-vă de aerul curat și de vederea panoramică asupra văii înainte de a pleca spre centru.",
+                "en": "The frosty morning calls for warm clothing; enjoy the crisp air and the distant views over the valley before setting off towards the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia di San Pietro",
+                "hu": "Badia di San Pietro",
+                "ro": "Badia di San Pietro",
+                "en": "Badia di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Winter karg, aber friedlich; die tiefstehende Sonne wirft lange Schatten durch die Bögen des Kreuzgangs.",
+                "hu": "A kert télen kopár, de békés; az alacsony napállás hosszú árnyékokat vet a kolostorkeringő ívein keresztül a belső udvarra.",
+                "ro": "Grădina pare austeră iarna, dar liniștită; soarele jos proiectează umbre lungi prin arcadele claustrului spre curtea interioară.",
+                "en": "The garden looks stark in winter but peaceful; the low sun casts long shadows through the cloister arches onto the inner courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte sacra",
+                "hu": "Museo d'arte sacra",
+                "ro": "Museo d'arte sacra",
+                "en": "Museo d'arte sacra"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich in den klimatisierten Räumen auf; das Museum ist der perfekte Ort für eine längere Pause.",
+                "hu": "Parkolja le biztonságosan kerékpárját, és melegedjen fel a temperált termekben; a múzeum tökéletes helyszín egy hosszabb téli pihenőhöz.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în sălile climatizate; muzeul este locul perfect pentru o pauză mai lungă de iarnă.",
+                "en": "Park your bike securely and warm up in the climate-controlled rooms; the museum is the perfect spot for a longer winter break."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio",
+                "hu": "Municipio",
+                "ro": "Municipio",
+                "en": "Municipio"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Platz weniger belebt; nutzen Sie die sonnigen Bänke für einen kurzen Energieriegel, bevor es weitergeht.",
+                "hu": "Télen a tér kevésbé nyüzsgő; használja ki a napsütötte padokat egy gyors energiaszelet elfogyasztására, mielőtt folytatná az utat.",
+                "ro": "Iarna piața este mai puțin aglomerată; profitați de băncile însorite pentru a mânca un baton energizant înainte de a continua drumul.",
+                "en": "The square is less busy in winter; take advantage of the sunny benches for a quick energy bar before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "hu": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "ro": "Chiesa dell'Immacolata Concezione e di San Lazzaro",
+                "en": "Chiesa dell'Immacolata Concezione e di San Lazzaro"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe hier ist im Winter besonders spürbar; wärmen Sie Ihre Hände kurz an den Kerzenständern, bevor Sie wieder auf das Rad steigen.",
+                "hu": "A nyugalom télen még inkább érezhető itt; melegítse meg egy pillanatra a kezét a gyertyatartóknál, mielőtt újra nyeregbe szállna.",
+                "ro": "Liniștea este și mai accentuată aici iarna; încălziți-vă mâinile o clipă la suporturile de lumânări înainte de a pleca din nou.",
+                "en": "The tranquility is even more palpable here in winter; warm your hands for a moment by the candle stands before getting back on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Rocco",
+                "hu": "Oratorio di San Rocco",
+                "ro": "Oratorio di San Rocco",
+                "en": "Oratorio di San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, windgeschützter Stopp; prüfen Sie Ihre Beleuchtung, da die Dämmerung in den Hügeln bald einsetzt.",
+                "hu": "Egy apró, szélvédett megálló; ellenőrizze a kerékpár világítását, mert a dombok között hamarosan megkezdődik a szürkület.",
+                "ro": "Un mic popas ferit de vânt; verificați luminile bicicletei, deoarece amurgul începe curând între dealuri.",
+                "en": "A tiny, wind-sheltered stop; check your bike lights as twilight will soon begin among the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Pieve di Santo Stefano",
+                "hu": "Pieve di Santo Stefano",
+                "ro": "Pieve di Santo Stefano",
+                "en": "Pieve di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht auf der Fassade zu sehen; der Rückweg sollte bei voller Dunkelheit vermieden werden.",
+                "hu": "Érkezzen 16:30 előtt, hogy lássa az utolsó fényeket a homlokzaton; a sötétben való visszautat a szerpentineken jobb elkerülni.",
+                "ro": "Sosiți înainte de 16:30 pentru a vedea ultimele lumini pe fațadă; întoarcerea pe întuneric pe serpentine ar trebui evitată.",
+                "en": "Arrive before 16:30 to see the last light on the facade; returning in total darkness on the winding roads should be avoided."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Camaiore frissítő kezdettel várja Önt. A város nyugati része finom bevezetést kínál a mindennapi életbe és a vallásos áhítatba, gyönyörű történelmi homlokzatokkal, amelyek a kora reggeli napsütésben ébredeznek.\n\nA dél közeledtével a történelmi szív hívogat. Sétáljon el az elegáns közigazgatási épületek és a város építészeti arculatát meghatározó bájos kis szentélyek mellett. Ez a tökéletes időszak a gyönyörű városközpont felfedezésére.\n\nA délután a mély művészeti és kulturális elmélyülésé. A szakrális művészeti múzeum és a lenyűgöző középkori épületek feltárják azt a gazdag szellemi örökséget, amely oly sok évszázadon át formálta ezt a toszkán várost.\n\nZárja a napot békés elmélkedéssel. Akár egy fenséges apátság ősi kőpadlóját fedezi fel, akár az aranyórát élvezi egy vidéki plébánián, az este mélységes történelmi nyugalmat hoz majd a lenyűgöző és emlékezetes utazásába.",
         "ro": "Camaiore vă întâmpină cu un început revigorant. Părțile vestice ale orașului oferă o introducere blândă în viața de zi cu zi și devotamentul religios, cu fațade istorice frumoase care se trezesc sub lumina soarelui de dimineață.\n\nPe măsură ce se apropie prânzul, inima istorică vă cheamă. Plimbați-vă pe lângă clădirile administrative elegante și micile sanctuare fermecătoare care definesc caracterul arhitectural. Este timpul perfect pentru centrul civic.\n\nDupă-amiaza este rezervată unei imersiuni artistice și culturale profunde. Muzeul de artă sacră și structurile religioase medievale dezvăluie bogata moștenire spirituală care a modelat acest oraș toscan de-a lungul secolelor.\n\nÎncheiați-vă ziua într-o contemplare pașnică. Indiferent dacă explorați podelele vechi de piatră ale abațiilor maiestuoase sau vă bucurați de ora de aur la o parohie rurală, seara aduce un sentiment profund de liniște istorică.",
         "en": "Camaiore welcomes you with a refreshing start. The western parts of the city offer a gentle introduction to its daily life and religious devotion, with beautiful historic facades and lively recreational spots waking up in the morning sun.\n\nAs midday approaches, the historical heart calls. Wander past elegant administrative buildings and charming small sanctuaries that define the town's architectural character. It is the perfect time to explore the civic center.\n\nThe afternoon is reserved for deep artistic and cultural immersion. The museum of sacred art and grand medieval religious structures reveal the rich spiritual heritage that has shaped this Tuscan town for countless centuries.\n\nEnd your day in peaceful contemplation. Whether exploring the ancient stone floors of majestic abbeys or enjoying the golden hour at a countryside parish, the evening brings a profound sense of historical tranquility to your journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt bei Regen ist die komfortabelste Art, die Umgebung von Camaiore zu erkunden. Wir starten bei der Pieve im Osten, wo Parkplätze direkt vor der Tür den Regenweg verkürzen. Mittags besuchen wir das Stadtzentrum und das Museum, während das Auto als trockener Rückzugsort dient. Der Nachmittag führt uns zu den nördlichen Kapellen, wobei die Scheibenwischer den Blick auf die grünen Hügel freihalten.",
+            "hu": "Az esős autós túra a legkényelmesebb módja Camaiore felfedezésének. Keleten, a Pieve-nél kezdünk, ahol a közvetlen parkolás lerövidíti az esőben való gyaloglást. Napközben a központot és a múzeumot látogatjuk meg, az autó pedig száraz bázisként szolgál. Délután az északi kápolnák felé autózunk, miközben az ablaktörlők mögül figyeljük a ködös domboldalakat.",
+            "ro": "O excursie cu mașina pe ploaie este cel mai confortabil mod de a explora Camaiore. Începem la Pieve în est, unde parcarea directă scurtează mersul prin ploaie. În timpul zilei vizităm centrul și muzeul, mașina servind drept bază uscată. După-amiaza conducem spre capelele din nord, observând versanții cețoși prin parbrizul măturat de ștergătoare.",
+            "en": "A rainy car tour is the most comfortable way to explore Camaiore's surroundings. We start at the Pieve in the east, where nearby parking minimizes walking in the rain. During the day, we visit the center and the museum, using the car as a dry base. The afternoon takes us to the northern chapels, watching the misty hillsides through the rhythmic sweep of the wipers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pieve di Santo Stefano",
+                "hu": "Pieve di Santo Stefano",
+                "ro": "Pieve di Santo Stefano",
+                "en": "Pieve di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der kurze Weg zur Kirche ist bei starkem Regen ohne Schirm machbar, wenn man schnell ist.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a templomhoz vezető rövid út heves esőben is gyorsan megtehető akár esernyő nélkül is.",
+                "ro": "Parcați cât mai aproape de intrare; drumul scurt spre biserică poate fi parcurs rapid chiar și fără umbrelă în caz de ploaie torențială.",
+                "en": "Park as close to the entrance as possible; the short path to the church can be covered quickly even without an umbrella if it's pouring."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Rocco",
+                "hu": "Oratorio di San Rocco",
+                "ro": "Oratorio di San Rocco",
+                "en": "Oratorio di San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Ein einfacher Stopp am Straßenrand; lassen Sie den Motor kurz laufen, um die Scheiben vor dem Beschlagen zu schützen, während Sie aussteigen.",
+                "hu": "Egyszerű megálló az út mentén; hagyja járni a motort egy pillanatra, hogy a páramentesítő tisztán tartsa az ablakokat, amíg kiszáll.",
+                "ro": "Oprire ușoară la marginea drumului; lăsați motorul pornit o secundă pentru ca dezaburirea să mențină geamurile curate cât timp coborâți.",
+                "en": "Easy roadside stop; leave the engine running for a moment so the defogger keeps the windows clear while you step out briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte sacra",
+                "hu": "Museo d'arte sacra",
+                "ro": "Museo d'arte sacra",
+                "en": "Museo d'arte sacra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser im Zentrum; das Museum ist der ideale Ort, um das Auto für eine längere Zeit im Trockenen zu verlassen.",
+                "hu": "Használja a központi parkolókat; a múzeum ideális helyszín arra, hogy az autót hosszabb időre hátrahagyva teljesen elmerüljön a kultúrában.",
+                "ro": "Utilizați parcările centrale; muzeul este locul ideal pentru a lăsa mașina o perioadă mai lungă și a vă cufunda în cultură.",
+                "en": "Use the central parking lots; the museum is the ideal place to leave the car for a longer period and fully immerse yourself in culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio",
+                "hu": "Municipio",
+                "ro": "Municipio",
+                "en": "Municipio"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist bei Regen oft einfacher; bewundern Sie den Platz vom Auto aus, bevor Sie für ein Foto unter die Arkaden huschen.",
+                "hu": "Esőben gyakran könnyebb parkolót találni; csodálja meg a teret az autóból, mielőtt az árkádok alá surranna egy gyors fotóért.",
+                "ro": "Pe ploaie e adesea mai ușor de găsit parcare; admirați piața din mașină înainte de a fugi sub arcade pentru o fotografie rapidă.",
+                "en": "Finding parking is often easier in the rain; admire the square from the car before slipping under the arcades for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia di San Pietro",
+                "hu": "Badia di San Pietro",
+                "ro": "Badia di San Pietro",
+                "en": "Badia di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Pfützen auf dem unbefestigten Parkplatz; der überdachte Kreuzgang bietet Schutz, sobald Sie das Gebäude erreichen.",
+                "hu": "Ügyeljen a mélyebb tócsákra a burkolatlan parkolóban; a fedett kolostorkeringő védelmet nyújt, amint eléri az épületet.",
+                "ro": "Atenție la bălțile adânci din parcarea neasfaltată; claustrul acoperit oferă protecție imediat ce ajungeți la clădire.",
+                "en": "Watch out for deeper puddles in the unpaved parking area; the sheltered cloister provides protection as soon as you reach the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Ansano e Vincenzo",
+                "hu": "Chiesa dei Santi Ansano e Vincenzo",
+                "ro": "Chiesa dei Santi Ansano e Vincenzo",
+                "en": "Chiesa dei Santi Ansano e Vincenzo"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße nach oben kann bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie den Blick auf das verregnete Tal.",
+                "hu": "A felfelé vezető keskeny út esőben csúszós lehet; vezessen óvatosan, és élvezze az eső áztatta völgy látványát a parkolóból.",
+                "ro": "Drumul îngust spre vârf poate fi alunecos pe ploaie; conduceți cu atenție și admirați valea plină de ploaie din parcare.",
+                "en": "The narrow road to the top can be slippery in the rain; drive carefully and enjoy the view of the rain-soaked valley from the parking spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Camaiore kombiniert die Wärme des Autos mit der klaren Schönheit der toskanischen Landschaft. Wir starten im Osten bei der Pieve, während die Morgensonne die Hügel beleuchtet. Im Zentrum genießen wir die Museen und historischen Gebäude, stets mit der Heizung in Reichweite. Die Tour endet im Norden, rechtzeitig zum Sonnenuntergang um 17:00 Uhr, wenn die Lichter der Stadt im Tal zu funkeln beginnen.",
+            "hu": "A téli autós túra Camaiore környékén ötvözi az autó melegét a toszkán táj tiszta szépségével. Keleten, a Pieve-nél kezdünk, miközben a reggeli nap megvilágítja a dombokat. A központban a múzeumokat és történelmi épületeket élvezzük, mindig közel maradva a fűtéshez. A túra északon ér véget 17:00 körül, amikor a város fényei elkezdenek csillogni a völgyben.",
+            "ro": "O plimbare de iarnă cu mașina prin Camaiore combină căldura vehiculului cu frumusețea peisajului toscan. Începem în est la Pieve, în timp ce soarele dimineții luminează dealurile. În centru ne bucurăm de muzee și clădiri istorice, având mereu încălzirea la îndemână. Turul se încheie în nord în jur de ora 17:00, când luminile orașului încep să sclipească în vale.",
+            "en": "A winter car trip around Camaiore combines the warmth of the vehicle with the crisp beauty of the Tuscan landscape. We start in the east at the Pieve as the morning sun lights up the hills. In the center, we enjoy museums and historic buildings, always with the heater nearby. The tour ends in the north around 17:00, just as the city lights begin to twinkle in the valley below."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pieve di Santo Stefano",
+                "hu": "Pieve di Santo Stefano",
+                "ro": "Pieve di Santo Stefano",
+                "en": "Pieve di Santo Stefano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem warmen Auto, bevor Sie für einen kurzen Rundgang in die kühle, aber prachtvolle Kirche aussteigen.",
+                "hu": "Élvezze a panorámát a fűtött autóból, mielőtt kiszállna egy rövid sétára a hűvös, de pompás belső terű templomba.",
+                "ro": "Bucurați-vă de panoramă din mașina încălzită înainte de a coborî pentru o scurtă plimbare în biserica răcoroasă, dar splendidă.",
+                "en": "Enjoy the panorama from the warm car before stepping out for a short walk into the cool but magnificent church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Rocco",
+                "hu": "Oratorio di San Rocco",
+                "ro": "Oratorio di San Rocco",
+                "en": "Oratorio di San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist im Winter schnell besichtigt; achten Sie auf glatte Stellen im Schatten der Gebäude beim Aussteigen.",
+                "hu": "A kis kápolna télen gyorsan megtekinthető; kiszálláskor ügyeljen az épületek árnyékában maradt jeges vagy csúszós foltokra.",
+                "ro": "Mica capelă poate fi vizitată rapid iarna; la coborâre, atenție la porțiunile înghețate sau alunecoase din umbra clădirilor.",
+                "en": "The small chapel can be visited quickly in winter; watch out for icy or slippery spots in the shadows of the buildings when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte sacra",
+                "hu": "Museo d'arte sacra",
+                "ro": "Museo d'arte sacra",
+                "en": "Museo d'arte sacra"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Zentrum und nutzen Sie das Museum als langes Aufwärm-Stopp; die Innentemperatur ist ideal für einen gemütlichen Rundgang.",
+                "hu": "Parkoljon a központban, és használja a múzeumot hosszú melegedőhelyként; a belső hőmérséklet ideális egy kényelmes sétához.",
+                "ro": "Parcați în centru și folosiți muzeul ca loc de încălzire prelungit; temperatura interioară este ideală pentru o plimbare relaxată.",
+                "en": "Park in the center and use the museum as a long warm-up stop; the indoor temperature is ideal for a leisurely stroll through the collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio",
+                "hu": "Municipio",
+                "ro": "Municipio",
+                "en": "Municipio"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto; im Winter ist der Platz oft herrlich leer, was die Architektur noch monumentaler wirken lässt.",
+                "hu": "Gyors megálló egy fotóra; télen a tér gyakran gyönyörűen üres, ami az építészetet még monumentálisabbá teszi a tiszta téli fényben.",
+                "ro": "O oprire rapidă pentru o poză; iarna piața este adesea splendid de goală, făcând arhitectura să pară și mai monumentală.",
+                "en": "A quick stop for a photo; in winter, the square is often beautifully empty, making the architecture look even more monumental."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia di San Pietro",
+                "hu": "Badia di San Pietro",
+                "ro": "Badia di San Pietro",
+                "en": "Badia di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft weniger belegt; genießen Sie die Ruhe des alten Klosters, bevor die Sonne hinter den Bergen verschwindet.",
+                "hu": "A parkoló télen kevésbé foglalt; élvezze a régi kolostor nyugalmát, mielőtt a nap végleg eltűnne a hegyek mögött.",
+                "ro": "Parcarea este mai liberă iarna; bucurați-vă de liniștea vechii mănăstiri înainte ca soarele să dispară definitiv după munți.",
+                "en": "The parking lot is often less crowded in winter; enjoy the silence of the old monastery before the sun finally vanishes behind the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Ansano e Vincenzo",
+                "hu": "Chiesa dei Santi Ansano e Vincenzo",
+                "ro": "Chiesa dei Santi Ansano e Vincenzo",
+                "en": "Chiesa dei Santi Ansano e Vincenzo"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den Sonnenuntergang; bleiben Sie im Auto sitzen, um das Alpenglühen auf den Gipfeln in voller Wärme zu beobachten.",
+                "hu": "Ideális helyszín a naplementéhez; maradjon az autóban, és élvezze a csúcsok izzását a lemenő nap fényében a fűtött utastérből.",
+                "ro": "Locul ideal pentru apus; rămâneți în mașină și bucurați-vă de strălucirea culmilor în lumina soarelui care apune, din interiorul cald.",
+                "en": "The ideal spot for sunset; stay in the car and enjoy the glow of the peaks in the setting sun from the comfort of the heated interior."
+              }
+            }
+          ]
+        }
       }
     }
   }

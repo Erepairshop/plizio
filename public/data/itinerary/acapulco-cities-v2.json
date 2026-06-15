@@ -160,6 +160,196 @@
         "hu": "Acapulcói sétánk a Playa Tamarindos homokján indul, ahol a tenger lágy zúgása tökéletes kezdést biztosít a napnak, mielőtt felsétálunk a kilátóhoz. / Délben elérjük a történelmi Playa Las Hamacas partját, ahol számos étterem vár ránk a friss fogásokkal. / A délután a történelemé, amikor felfedezzük a lenyűgöző San Diego erődöt és az izgalmas Hét Régió Múzeumát. / Az estét a városi Színház közelében zárjuk, ahol gyakran kínálnak változatos kulturális programokat az érdeklődőknek.",
         "ro": "Plimbarea noastră prin Acapulco începe pe Playa Tamarindos, unde sunetul blând al mării promite un început relaxant înainte de a urca la punctul de belvedere. / La prânz ajungem la istorica Playa Las Hamacas, unde numeroase restaurante ne așteaptă cu pește proaspăt prins. / După-amiaza este dedicată istoriei, explorând impresionanta Fortăreață San Diego și fascinantul Muzeu al celor 7 Regiuni. / Seara încheiem ziua la Teatrul municipal, unde se oferă adesea o gamă variată de evenimente culturale interesante.",
         "en": "Our walking tour of Acapulco begins at Playa Tamarindos, where the gentle sound of the sea promises a relaxing start to the day before heading to the viewpoint. / At midday, we reach the historic Playa Las Hamacas, where numerous waterfront restaurants await us with freshly caught seafood. / The afternoon belongs to history as we explore the imposing Fort of San Diego and the fascinating Museum of the 7 Regions. / In the evening, we wind down at the municipal Theater, a vibrant hub that frequently hosts a diverse range of cultural events."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Tamarindos-Strand bieten die Palapas schnellen Schutz vor plötzlichen Schauern. Mittags wandern wir vorsichtig auf rutschigen Pfaden zum Aussichtspunkt und weiter zum Las Hamacas Strand. Der Nachmittag gehört den Museen und dem Fort San Diego, die ideale trockene Rückzugsorte bieten. Den Abend verbringen wir geschützt im Theater, während der tropische Regen draußen die Stadt kühlt.",
+            "hu": "Reggel a Tamarindos strandnál a parti kunyhók nyújtanak menedéket a hirtelen zivatarok elől. Délben a kilátó és a Las Hamacas felé vezető úton ügyeljünk a csúszós kövezetre. Délután a San Diego-erőd és a Hét Régió Múzeuma tökéletes fedett menedék a trópusi esőben. Az estét a színház falai között, biztonságban és szárazon zárjuk, miközben az eső felfrissíti a fülledt acapulcói levegőt.",
+            "ro": "Dimineața la Playa Tamarindos, terasele acoperite oferă adăpost rapid împotriva ploilor tropicale bruște. La prânz, mergeți cu atenție pe trotuarele alunecoase spre punctul de observație și Las Hamacas. După-amiaza este dedicată muzeelor și Fortului San Diego, care sunt refugii ideale și uscate. Seara ne găsește protejați în teatru, în timp ce ploaia de afară răcorește atmosfera orașului.",
+            "en": "In the morning at Tamarindos Beach, beachfront palapas provide quick shelter from sudden tropical showers. At noon, walk carefully on slippery paths toward the viewpoint and Las Hamacas. The afternoon is best spent inside the museums and Fort San Diego, offering ideal dry retreats from the rain. We end the evening protected inside the theater while the tropical rain cools down the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Tamarindos",
+                "hu": "Tamarindos Strand",
+                "ro": "Playa Tamarindos",
+                "en": "Tamarindos Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Rauschen des Regens unter einem festen Strohdach und bewahren Sie Ihre Elektronik in einer wasserdichten Tasche auf, da Schauer hier sehr heftig sein können.",
+                "hu": "Élvezze az eső kopogását a nádtetők alatt, de az értékeit tartsa vízhatlan táskában, mert a trópusi záporok pillanatok alatt eláztathatnak mindent a parton.",
+                "ro": "Bucurați-vă de sunetul ploii sub un acoperiș de paie solid și păstrați electronicele într-o geantă impermeabilă, deoarece aversele pot fi extrem de intense aici.",
+                "en": "Enjoy the sound of rain under a sturdy thatched roof and keep your electronics in a waterproof bag, as tropical showers here can become very intense in seconds."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía Kilátó",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft mystisch verhangen; tragen Sie rutschfeste Schuhe, da die Treppen zum Aussichtspunkt bei Nässe sehr glatt und gefährlich werden können.",
+                "hu": "Esőben a látvány misztikus a ködös öböl felett; viseljen csúszásmentes talpú cipőt, mert a kilátóhoz vezető lépcsők ilyenkor rendkívül síkossá és veszélyessé válnak.",
+                "ro": "În timpul ploii, vizibilitatea este adesea mistică; purtați încălțăminte antiderapantă, deoarece treptele spre punctul de observare devin foarte alunecoase când sunt ude.",
+                "en": "In the rain, the view is often mistily mystical; wear non-slip shoes as the steps leading to the viewpoint can become very slick and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Hamacas",
+                "hu": "Las Hamacas Strand",
+                "ro": "Playa Las Hamacas",
+                "en": "Las Hamacas Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den kleinen Restaurants am Strand und probieren Sie eine heiße Meeresfrüchtesuppe, während Sie das graue Meer beobachten und auf das Ende des Regens warten.",
+                "hu": "Keressen menedéket a parti kis éttermekben és kóstoljon meg egy forró tengeri levest, miközben a szürke tengert figyeli és várja a trópusi zivatar elvonulását.",
+                "ro": "Căutați adăpost în micile restaurante de pe plajă și încercați o supă caldă de fructe de mare în timp ce priviți marea cenușie și așteptați să treacă ploaia.",
+                "en": "Seek shelter in the small beachfront restaurants and try a hot seafood soup while watching the grey sea and waiting for the tropical storm to pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+                "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+                "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+                "en": "Acapulco Historical Museum Fort of San Diego"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Festung bieten perfekten Schutz; nutzen Sie die Regenzeit, um die Ausstellungen im Inneren ohne Eile zu erkunden und die Geschichte zu vertiefen.",
+                "hu": "Az erőd vastag falai tökéletes védelmet nyújtanak; használja ki az esős időt a belső kiállítások alapos felfedezésére és a történelemben való elmélyülésre.",
+                "ro": "Zidurile groase ale cetății oferă protecție perfectă; profitați de ploaie pentru a explora expozițiile interioare pe îndelete și pentru a aprofunda istoria locală.",
+                "en": "The thick walls of the fortress offer perfect protection; use the rainy period to explore the interior exhibitions thoroughly and delve deep into local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las 7 regiones",
+                "hu": "Hét Régió Múzeuma",
+                "ro": "Muzeul celor 7 Regiuni",
+                "en": "Museum of the 7 Regions"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ein idealer Ort, um trocken zu bleiben; konzentrieren Sie sich auf die bunten Trachten und Kunstwerke, während es draußen ununterbrochen weiterregnet.",
+                "hu": "Ez a múzeum ideális hely a szárazon maradáshoz; koncentráljon a színes népviseletekre és műalkotásokra, miközben odakint szakad az eső a trópusi délutánon.",
+                "ro": "Acest muzeu este locul ideal pentru a rămâne uscat; concentrați-vă pe costumele populare și operele de artă în timp ce afară plouă torențial în această după-amiază.",
+                "en": "This museum is an ideal place to stay dry; focus on the colorful folk costumes and artworks while it pours outside during the humid tropical afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro",
+                "hu": "Színház",
+                "ro": "Teatrul",
+                "en": "Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein Theaterbesuch ist der beste Weg, den Abend trocken zu beenden; nehmen Sie eine leichte Jacke mit, da die Klimaanlage im Inneren bei Feuchtigkeit sehr kühl sein kann.",
+                "hu": "A színházlátogatás a legjobb módja az este száraz befejezésének; vigyen egy könnyű kardigánt, mert a belső klíma az esős időben nagyon hűvösnek tűnhet.",
+                "ro": "O vizită la teatru este cel mai bun mod de a încheia seara la uscat; luați o jachetă ușoară, deoarece aerul condiționat interior poate fi foarte rece când e umiditate.",
+                "en": "A theater visit is the best way to end the evening dry; bring a light jacket as the indoor air conditioning can feel very chilly during the humid rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Tamarindos-Strand ist herrlich mild und perfekt für einen langen Spaziergang. Mittags genießen wir die Aussicht, bevor die Sonne bereits gegen 17:00 Uhr untergeht. Der Nachmittag im Fort San Diego ist bei kühlerer Brise besonders angenehm. Da es früh dunkel wird, planen wir den Theaterbesuch direkt nach dem farbenfrohen Sonnenuntergang an der Pazifikküste ein.",
+            "hu": "A téli reggel a Tamarindos strandon kellemesen enyhe, tökéletes egy hosszú sétához. Délben élvezzük a kilátást, mielőtt a nap korán, délután öt körül lebukna a horizont alá. A San Diego-erődben a hűvösebb szellő miatt ilyenkor a legkellemesebb a séta. Mivel hamar sötétedik, a színházi előadást közvetlenül a parthoz közeli naplemente utánra időzítjük.",
+            "ro": "Dimineața de iarnă la Playa Tamarindos este minunat de blândă, perfectă pentru o plimbare lungă. La prânz admirăm priveliștea, înainte ca soarele să apună devreme, în jur de ora 17:00. După-amiaza la Fortul San Diego este foarte plăcută datorită brizelor răcoroase. Deoarece se întunecă repede, programăm vizita la teatru imediat după apusul spectaculos.",
+            "en": "The winter morning at Tamarindos Beach is wonderfully mild and perfect for a long walk. At noon, we enjoy the views before the sun sets early, around 5:00 PM. The afternoon at Fort San Diego is especially pleasant with the cooler sea breezes. Since it gets dark early, we schedule the theater visit right after the colorful Pacific sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Tamarindos",
+                "hu": "Tamarindos Strand",
+                "ro": "Playa Tamarindos",
+                "en": "Tamarindos Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milden Morgentemperaturen für einen Strandlauf, bevor die Mittagssonne stärker wird, und genießen Sie das klare Winterlicht für perfekte Urlaubsfotos.",
+                "hu": "Használja ki az enyhe reggeli hőmérsékletet egy tengerparti sétára, mielőtt a déli nap felerősödne; a tiszta téli fények tökéletesek a fotózáshoz az öbölparton.",
+                "ro": "Profită de temperaturile blânde de dimineață pentru o plimbare pe plajă înainte ca soarele de prânz să devină puternic; lumina clară de iarnă este perfectă pentru fotografii.",
+                "en": "Take advantage of the mild morning temperatures for a beach walk before the midday sun intensifies; the clear winter light is perfect for photos along the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía Kilátó",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor dem frühen Sonnenuntergang gegen 17:00 Uhr hierher, um das spektakuläre Lichtspiel über dem Pazifik in der kühleren Winterluft zu erleben.",
+                "hu": "Érkezzen ide időben a korai, 17:00 körüli naplemente előtt, hogy a hűvösebb téli levegőben élvezhesse a Csendes-óceán feletti látványos fényjátékot a magasból.",
+                "ro": "Vino aici din timp pentru apusul devreme de la ora 17:00, pentru a experimenta jocul spectaculos de lumini peste Pacific în aerul mai răcoros de iarnă.",
+                "en": "Arrive here in time for the early sunset around 5:00 PM to experience the spectacular play of lights over the Pacific in the cooler and crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Hamacas",
+                "hu": "Las Hamacas Strand",
+                "ro": "Playa Las Hamacas",
+                "en": "Las Hamacas Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist auch im Winter angenehm, aber bringen Sie ein trockenes Shirt zum Wechseln mit, da die Brise am Nachmittag deutlich auffrischen kann.",
+                "hu": "A víz hőmérséklete télen is kellemes, de hozzon magával száraz váltópólót, mert a délutáni tengeri szél ilyenkor érezhetően hűvösebbé válik a parton.",
+                "ro": "Temperatura apei este plăcută și iarna, dar aduceți un tricou uscat de schimb, deoarece briza de după-amiază poate deveni considerabil mai rece la mal.",
+                "en": "The water temperature remains pleasant in winter, but bring a dry shirt to change into, as the afternoon sea breeze can feel noticeably cooler on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+                "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+                "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+                "en": "Acapulco Historical Museum Fort of San Diego"
+              },
+              "tip_5lang": {
+                "de": "Die Erkundung der Außenanlagen der Festung ist im Winter viel angenehmer als im Sommer; tragen Sie einen Sonnenhut, da die UV-Strahlung trotz Kühle hoch ist.",
+                "hu": "Az erőd külső falainak bejárása télen sokkal kellemesebb a nyári hőségnél; viseljen kalapot, mert az UV-sugárzás a hűvösebb idő ellenére is erős maradhat.",
+                "ro": "Explorarea zonelor exterioare ale cetății este mult mai plăcută iarna decât vara; purtați o pălărie, deoarece radiația UV rămâne ridicată chiar dacă e mai răcoare.",
+                "en": "Exploring the outer areas of the fortress is much more pleasant in winter than in summer; wear a hat as UV radiation remains high despite the cooler breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las 7 regions",
+                "hu": "Hét Régió Múzeuma",
+                "ro": "Muzeul celor 7 Regiuni",
+                "en": "Museum of the 7 Regions"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag, um die Exponate zu sehen, bevor es draußen früh dunkel wird; die Innenbeleuchtung schafft eine gemütliche Winterstimmung.",
+                "hu": "Látogasson el a múzeumba késő délután, hogy még a korai sötétedés előtt lássa a kiállítást; a belső világítás ilyenkor meghitt, téli hangulatot áraszt a termekben.",
+                "ro": "Vizitați muzeul târziu după-amiaza pentru a vedea exponatele înainte de lăsarea întunericului; iluminatul interior creează o atmosferă de iarnă primitoare.",
+                "en": "Visit the museum in the late afternoon to see the exhibits before it gets dark early outside; the indoor lighting creates a cozy winter atmosphere in the halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro",
+                "hu": "Színház",
+                "ro": "Teatrul",
+                "en": "Theater"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kühlt es schnell ab; eine leichte Jacke oder ein Schal ist für den Abendweg zum Theater in der winterlichen Meeresluft unbedingt ratsam.",
+                "hu": "Naplemente után gyorsan lehűl a levegő; egy könnyű dzseki vagy sál feltétlenül ajánlott az esti színházba menet a téli tengerparti szélben.",
+                "ro": "După apus, aerul se răcește rapid; o jachetă ușoară sau un fular este neapărat recomandat pentru drumul spre teatru în briza de iarnă a mării.",
+                "en": "After sunset, the air cools down quickly; a light jacket or scarf is definitely recommended for the evening walk to the theater in the winter sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpártúra energikusan indul a tágas Playa Papagayón, ahol a reggeli hűvös szellő tökéletes feltételeket teremt egy laza parti tekeréshez. / Dél körül a nyugodt Playa Hornoson keresztül a Playa Las Hamacas felé vesszük az irányt, amely ideális egy ízletes ebédszünethez. / Délután a San Diego erődben elmerülünk a gyarmati múltban, majd folytatjuk utunkat a nyüzsgő Playa Tlacopanocha partjára. / A napot az idillikus Playa La Aguadán zárjuk, ahol az esti fényekben élvezhetjük a nagy nyüzsgéstől távolabbi, békés és csendes légkört.",
         "ro": "Turul cu bicicleta începe plin de energie pe întinsa Playa Papagayo, unde briza răcoroasă a dimineții creează condiții perfecte pentru o primă plimbare pe coastă. / În jurul prânzului pedalăm pe liniștita Playa Hornos spre Playa Las Hamacas, care oferă oportunitatea perfectă pentru o pauză delicioasă. / După-amiaza ne cufundăm în trecutul colonial la Fortul San Diego și ne continuăm traseul spre animata Playa Tlacopanocha. / Turul se încheie pe idilica Playa La Aguada, unde putem savura atmosfera liniștită departe de agitație în lumina caldă a serii.",
         "en": "The bike tour kicks off energetically at the expansive Playa Papagayo, where the cool morning breeze creates perfect conditions for a relaxed coastal ride. / Around midday, we pedal past the tranquil Playa Hornos to Playa Las Hamacas, offering a well-deserved break filled with delicious local delicacies. / In the afternoon, we delve into the colonial past at the Fort of San Diego and continue our journey to the lively Playa Tlacopanocha. / The tour concludes at the idyllic Playa La Aguada, where we can enjoy the peaceful atmosphere away from the crowds in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Papagayo-Strand erfordert Vorsicht auf dem Fahrrad. Mittags radeln wir vorsichtig über nasse Straßen zum Fort San Diego, wo wir eine lange, trockene Pause einlegen. Am Nachmittag steuern wir die Strände Tlacopanocha und La Aguada an, wobei wir Pfützen meiden. Der Tag endet mit einer feuchten, aber erfrischenden Fahrt zurück durch das tropische Acapulco.",
+            "hu": "A reggeli eső a Papagayo strandnál óvatosságot igényel a kerékpáron a csúszós utak miatt. Délben nedves aszfalton tekerünk a San Diego-erődhöz, ahol hosszú, száraz pihenőt tartunk a múzeumban. Délután a Tlacopanocha és La Aguada strandokat vesszük célba, kerülgetve a pocsolyákat. A nap egy vizes, de frissítő tekeréssel zárul a trópusi eső áztatta városban.",
+            "ro": "O dimineață ploioasă la Playa Papagayo necesită prudență pe bicicletă din cauza drumurilor ude. La prânz pedalăm spre Fortul San Diego, unde facem o pauză lungă și uscată. După-amiaza vizităm plajele Tlacopanocha și La Aguada, evitând bălțile formate pe faleză. Ziua se încheie cu o plimbare umedă, dar revigorantă, prin Acapulco-ul tropical.",
+            "en": "A rainy morning at Papagayo Beach requires caution on the bike due to slippery roads. At noon, we pedal over wet asphalt to Fort San Diego, where we take a long, dry break in the museum. In the afternoon, we head to Tlacopanocha and La Aguada beaches, avoiding the puddles. The day ends with a wet but refreshing ride through the rain-soaked tropical city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Papagayo",
+                "hu": "Papagayo Strand",
+                "ro": "Playa Papagayo",
+                "en": "Papagayo Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da nasse Felgen länger brauchen, um das Rad zu stoppen; parken Sie das Rad an einem überdachten Ort, um den Sattel trocken zu halten.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a vizes felniken lassabb a megállás; parkolja a biciklit fedett helyre, hogy az ülés száraz maradjon, amíg ön a parton pihen.",
+                "ro": "Verificați frânele înainte de plecare, deoarece jantele ude opresc bicicleta mai greu; parcați bicicleta într-un loc acoperit pentru a menține șaua uscată.",
+                "en": "Check your brakes before starting, as wet rims take longer to stop the bike; park your bicycle in a covered spot to keep the seat dry while you relax on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Hornos",
+                "hu": "Hornos Strand",
+                "ro": "Playa Hornos",
+                "en": "Hornos Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Fahren Fahrbahnmarkierungen, da diese bei Regen extrem glatt werden; nutzen Sie einen Regenponcho, der auch Ihren Rucksack beim Radeln schützt.",
+                "hu": "Kerülje az útburkolati jeleket tekerés közben, mert esőben rendkívül csúszósak; használjon esőponcsót, amely a hátizsákját is védi a biciklizés alatt.",
+                "ro": "Evitați marcajele rutiere în timp ce pedalați, deoarece devin extrem de alunecoase; folosiți un poncho de ploaie care să vă protejeze și rucsacul în timpul mersului.",
+                "en": "Avoid riding on road markings as they become extremely slippery in the rain; use a rain poncho that also covers your backpack while cycling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Hamacas",
+                "hu": "Las Hamacas Strand",
+                "ro": "Playa Las Hamacas",
+                "en": "Las Hamacas Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich bei starkem Regen unter eine Palme oder ein Vordach; die salzige Luft und der Regen können die Kette rosten lassen, wischen Sie sie später trocken.",
+                "hu": "Heves eső esetén húzódjon egy előtető alá; a sós levegő és az eső kikezdheti a láncot, ezért később érdemes szárazra törölni a kerékpár fém alkatrészeit.",
+                "ro": "În caz de ploaie torențială, adăpostiți-vă sub o copertină; aerul sărat și ploaia pot rugini lanțul, deci ștergeți componentele metalice mai târziu.",
+                "en": "During heavy rain, pull over under a canopy; the salty air combined with rain can rust the chain, so remember to wipe the bike's metal parts dry later."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+                "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+                "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+                "en": "Acapulco Historical Museum Fort of San Diego"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer in der Nähe des Eingangs und genießen Sie die trockene Umgebung der Festung, während draußen ein kurzer tropischer Sturm tobt.",
+                "hu": "Használja a bejárat közeli kerékpártárolót és élvezze az erőd száraz termeit, amíg odakint egy rövid, de intenzív trópusi vihar tombol az öböl felett.",
+                "ro": "Folosiți suportul de biciclete de lângă intrare și bucurați-vă de interiorul uscat al cetății în timp ce afară trece o furtună tropicală scurtă și intensă.",
+                "en": "Use the bike rack near the entrance and enjoy the dry fortress interior while a short but intense tropical storm rages outside over the bay area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tlacopanocha",
+                "hu": "Tlacopanocha Strand",
+                "ro": "Playa Tlacopanocha",
+                "en": "Tlacopanocha Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Pfützen, die Schlaglöcher verbergen könnten; parken Sie das Rad sicher und genießen Sie einen Snack in einer der überdachten Garküchen.",
+                "hu": "Ügyeljen a mélyebb pocsolyákra, amelyek kátyúkat rejthetnek az úton; parkoljon le biztonságosan és egyen valamit az egyik fedett utcai kifőzdében.",
+                "ro": "Atenție la bălțile adânci care pot ascunde gropi în asfalt; parcați bicicleta în siguranță și savurați o gustare la una dintre tonetele acoperite de pe marginea drumului.",
+                "en": "Watch out for deeper puddles that might hide potholes in the road; park securely and grab a snack at one of the covered street food stalls nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Aguada",
+                "hu": "La Aguada Strand",
+                "ro": "Playa La Aguada",
+                "en": "La Aguada Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Rückweg im Regen kann bei Dämmerung dunkel sein; stellen Sie sicher, dass Ihr Fahrradlicht funktioniert, und tragen Sie helle Kleidung für bessere Sichtbarkeit.",
+                "hu": "A hazafelé út az esőben és a szürkületben sötét lehet; győződjön meg róla, hogy működik a lámpája, és viseljen világos ruhát a jobb láthatóság érdekében.",
+                "ro": "Drumul de întoarcere prin ploaie și amurg poate fi întunecat; asigurați-vă că luminile bicicletei funcționează și purtați haine deschise pentru vizibilitate.",
+                "en": "The ride back in the rain and twilight can be dark; ensure your bike lights are working and wear bright clothing for better visibility on the wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Fahrrad beginnt kühl und erfrischend am Papagayo-Strand. Die Mittagshitze ist moderat, sodass das Radeln entlang der Küste zum Fort San Diego ein pures Vergnügen ist. Am Nachmittag erreichen wir die südlichen Strände, während die Sonne bereits tief steht. Da es gegen 17:00 Uhr dunkel wird, beenden wir unsere Tour bei La Aguada pünktlich zum Sonnenuntergang.",
+            "hu": "A téli kerékpáros nap hűvösen és frissítően indul a Papagayo strandnál. A déli hőség ilyenkor mérsékelt, így a parton való tekerés a San Diego-erőd felé valódi élvezet. Délután elérjük a déli strandokat, miközben a nap már alacsonyan jár. Mivel 17:00 körül sötétedik, a túrát La Aguadánál zárjuk, épp a naplemente idején.",
+            "ro": "O zi de iarnă pe bicicletă începe răcoros și revigorant la Playa Papagayo. Căldura de la prânz este moderată, făcând pedalarea spre Fortul San Diego o adevărată plăcere. După-amiaza ajungem la plajele din sud, în timp ce soarele este deja jos pe cer. Deoarece se întunecă în jur de ora 17:00, încheiem turul la La Aguada fix la apus.",
+            "en": "A winter day on the bike starts cool and refreshing at Papagayo Beach. The midday heat is moderate, making the ride along the coast to Fort San Diego a pure pleasure. In the afternoon, we reach the southern beaches while the sun is already low. Since it gets dark around 5:00 PM, we finish our tour at La Aguada right at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Papagayo",
+                "hu": "Papagayo Strand",
+                "ro": "Playa Papagayo",
+                "en": "Papagayo Beach"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Luft ist perfekt für eine schnelle Fahrt; tragen Sie eine Sonnenbrille, um Ihre Augen vor dem hellen, tiefstehenden Winterlicht zu schützen.",
+                "hu": "A reggeli levegő tökéletes egy tempósabb tekeréshez; viseljen napszemüveget, hogy megvédje szemét az ilyenkor alacsonyan járó, éles téli napsugaraktól.",
+                "ro": "Aerul dimineții este perfect pentru o cursă rapidă; purtați ochelari de soare pentru a vă proteja ochii de lumina puternică a soarelui de iarnă care e jos pe cer.",
+                "en": "The morning air is perfect for a brisk ride; wear sunglasses to protect your eyes from the bright, low-angled winter sun reflecting off the Pacific waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Hornos",
+                "hu": "Hornos Strand",
+                "ro": "Playa Hornos",
+                "en": "Hornos Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die geringere Luftfeuchtigkeit im Winter beim Treten; trinken Sie trotzdem ausreichend Wasser, da der kühle Wind die Dehydration verschleiern kann.",
+                "hu": "Élvezze a téli alacsonyabb páratartalmat tekerés közben; igyon elegendő vizet, mert a hűvös szél elfedheti a kiszáradás jeleit a fizikai aktivitás során.",
+                "ro": "Bucurați-vă de umiditatea scăzută de iarnă în timp ce pedalați; beți suficientă apă, deoarece vântul răcoros poate masca semnele deshidratării în timpul efortului.",
+                "en": "Enjoy the lower humidity of winter while pedaling; stay hydrated, as the cool breeze can mask signs of dehydration during your physical activity on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Hamacas",
+                "hu": "Las Hamacas Strand",
+                "ro": "Playa Las Hamacas",
+                "en": "Las Hamacas Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Mittagspause im Schatten der Palmen; die Wintersonne ist trügerisch, tragen Sie also auch bei kühlerem Wind ausreichend Sonnenschutz auf.",
+                "hu": "Ideális hely egy déli pihenőhöz a pálmák árnyékában; a téli nap csalóka, ezért a hűvösebb szél ellenére is használjon naptejet a kerékpározás alatt.",
+                "ro": "Locul ideal pentru o pauză de prânz la umbra palmierilor; soarele de iarnă este înșelător, așa că folosiți protecție solară chiar dacă briza pare răcoroasă.",
+                "en": "An ideal spot for a midday break in the shade of palms; the winter sun is deceptive, so apply sunscreen even if the breeze feels cool while you're riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+                "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+                "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+                "en": "Acapulco Historical Museum Fort of San Diego"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise auf den Festungsmauern ist im Winter herrlich; planen Sie hier mehr Zeit ein, da das Gehen in der Festung weniger anstrengend ist als im Sommer.",
+                "hu": "A bástyákon fújó hűvös szellő télen csodálatos; szánjon több időt a felfedezésre, mert az erőd bejárása ilyenkor sokkal kevésbé fárasztó, mint nyáron.",
+                "ro": "Briza răcoroasă pe bastioanele cetății este minunată iarna; alocați mai mult timp explorării, deoarece plimbarea prin fort este mult mai puțin obositoare acum.",
+                "en": "The cool breeze on the ramparts is wonderful in winter; plan more time here, as walking through the fortress is much less tiring than during the humid summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tlacopanocha",
+                "hu": "Tlacopanocha Strand",
+                "ro": "Playa Tlacopanocha",
+                "en": "Tlacopanocha Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote im goldenen Nachmittagslicht; machen Sie sich bereit für die letzte Etappe, bevor die Sonne in etwa einer Stunde untergeht.",
+                "hu": "Figyelje a halászhajókat az aranyló délutáni fényben; készüljön fel az utolsó szakaszra, mert a nap körülbelül egy óra múlva már lebukik az óceánba.",
+                "ro": "Priviți bărcile de pescuit în lumina aurie a după-amiezii; pregătiți-vă pentru ultima etapă a traseului, deoarece soarele va apune în aproximativ o oră.",
+                "en": "Watch the fishing boats in the golden afternoon light; get ready for the last leg of your trip, as the sun will set into the ocean in about an hour from now."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Aguada",
+                "hu": "La Aguada Strand",
+                "ro": "Playa La Aguada",
+                "en": "La Aguada Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour pünktlich zum Sonnenuntergang gegen 17:00 Uhr und nehmen Sie eine leichte Jacke für die Rückfahrt in der nun kühlen Abendluft mit.",
+                "hu": "Zárja a túrát pontosan a 17:00 körüli naplementére érkezve, és vigyen magával egy könnyű dzsekit a visszaútra a hirtelen lehűlő esti tengerparti levegőben.",
+                "ro": "Încheiați turul fix la apusul de la ora 17:00 și luați o jachetă ușoară pentru drumul de întoarcere în aerul serii care devine rapid răcoros lângă mare.",
+                "en": "Finish your tour right at the 5:00 PM sunset and bring a light jacket for the ride back in the evening air, which cools down rapidly near the shore in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autóstúránk a magasan az öböl felett fekvő Palma Sola régészeti lelőhelyen kezdődik, ahol az ősi sziklarajzok a reggeli fényben mutatnak a legjobban. / Délben végigkocsikázunk a parton a népszerű Condesa és Icacos strandokig, amelyek kiváló éttermekkel és vízisportokkal csábítanak. / A délután visszavezet minket a központba, a masszív San Diego erődhöz, majd egy rövid kitérőt teszünk az autentikus Playa La Aguadára. / Naplementekor felhajtunk a Mirador de la Bahía kilátóhoz, hogy egy látványos, az egész kivilágított várost átfogó panorámával zárjuk a napot.",
         "ro": "Turul nostru auto începe sus deasupra golfului la situl arheologic Palma Sola, unde petroglifele antice sunt cel mai bine vizibile în lumina rece a dimineții. / La prânz conducem de-a lungul coastei către popularele plaje Condesa și Icacos, care atrag cu restaurante excelente și sporturi nautice. / După-amiaza ne întoarcem în centru la masiva Fortăreață San Diego și facem o scurtă oprire la autentica plajă La Aguada. / La apus urcăm la Mirador de la Bahía pentru a încheia ziua cu o priveliște panoramică spectaculoasă asupra mării de lumini din Acapulco.",
         "en": "Our driving tour begins high above the bay at the Palma Sola archaeological site, where ancient petroglyphs are best appreciated in the cool morning light. / At midday, we cruise along the coast to the popular Condesa and Icacos beaches, which tempt visitors with excellent restaurants and water sports. / The afternoon leads us back downtown to the massive Fort of San Diego and a brief detour to the authentic Playa La Aguada. / At sunset, we drive up to the Mirador de la Bahía to cap off the day with a spectacular panoramic view over Acapulco's sea of lights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt mit der Fahrt zur archäologischen Zone Palma Sola, wo die Pfade schlammig sein können. Mittags bietet das Auto Schutz, während wir die Küste entlang zu den Stränden Condesa und Icacos fahren. Der Nachmittag im Fort San Diego ist perfekt, um dem Regen zu entgehen. Den Tag beenden wir sicher im Wagen am Aussichtspunkt, wobei wir die mystische, verregnete Bucht betrachten.",
+            "hu": "A reggel esőben indul a Palma Sola régészeti zónánál, ahol az ösvények sarasak lehetnek. Délben az autó biztonságát élvezzük, miközben a Condesa és Icacos strandok felé autózunk a part mentén. A délután a San Diego-erődben telik, ami kiváló menedék az eső elől. A napot a kilátónál zárjuk az autóban ülve, figyelve a ködös, eső áztatta öböl misztikus látványát.",
+            "ro": "O dimineață ploioasă începe cu vizita la Palma Sola, unde potecile pot fi noroioase. La prânz ne bucurăm de confortul mașinii în timp ce conducem de-a lungul coastei spre Condesa și Icacos. După-amiaza la Fortul San Diego este perfectă pentru a evita ploaia. Încheiem ziua în siguranță în mașină la punctul de observație, privind golful mistic învăluit în nori.",
+            "en": "A rainy morning starts with a drive to Palma Sola, where the paths might be muddy. At noon, we enjoy the comfort of the car while driving along the coast toward Condesa and Icacos beaches. The afternoon at Fort San Diego is perfect for escaping the heavy rain. We end the day safely in the car at the viewpoint, watching the mystical, rain-soaked bay under the clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologische Zone Palma Sola",
+                "hu": "Palma Sola Régészeti Zóna",
+                "ro": "Zona Arheologică Palma Sola",
+                "en": "Palma Sola Archaeological Zone"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Regen sehr rutschig und schlammig sein; tragen Sie feste Wanderschuhe und lassen Sie den Regenschirm griffbereit im Auto.",
+                "hu": "A föutak esőben nagyon csúszósak és sárosak lehetnek a domboldalon; viseljen túrabakancsot és tartsa az esernyőt könnyen elérhető helyen az autóban.",
+                "ro": "Potecile neasfaltate pot fi foarte alunecoase și noroioase pe ploaie; purtați bocanci de drumeție și păstrați umbrela la îndemână în mașină.",
+                "en": "The unpaved paths can be very slippery and muddy in the rain on the hillside; wear hiking boots and keep your umbrella easily accessible in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Condesa",
+                "hu": "Condesa Strand",
+                "ro": "Playa Condesa",
+                "en": "Condesa Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe eines Strandrestaurants mit Dach, um die Wellen im Regen zu beobachten; achten Sie beim Fahren auf Aquaplaning auf der Küstenstraße.",
+                "hu": "Parkoljon egy fedett parti étterem közelében, hogy onnan figyelhesse a hullámokat az esőben; vezetés közben ügyeljen a parti úton kialakuló vízátfolyásokra.",
+                "ro": "Parcați lângă un restaurant acoperit de pe plajă pentru a observa valurile în ploaie; atenție la acvaplanare pe șoseaua de coastă în timp ce conduceți.",
+                "en": "Park near a covered beachfront restaurant to watch the waves in the rain; be careful of aquaplaning on the coastal road while driving between the beaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Icacos",
+                "hu": "Icacos Strand",
+                "ro": "Playa Icacos",
+                "en": "Icacos Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist das Schwimmen gefährlich; bleiben Sie lieber im Auto oder in einem Café und genießen Sie die kühleren Temperaturen, die der Regen bringt.",
+                "hu": "Heves esőben a fürdőzés veszélyes lehet; maradjon inkább az autóban vagy egy kávézóban, és élvezze az eső által hozott hűvösebb, frissebb levegőt a parton.",
+                "ro": "Înotul poate fi periculos în timpul ploilor torențiale; mai bine rămâneți în mașină sau într-o cafenea și bucurați-vă de aerul mai răcoros adus de ploaie.",
+                "en": "Swimming can be dangerous during heavy tropical rain; stay in the car or a cafe and enjoy the cooler, fresher air brought by the rain to the coastal area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+                "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+                "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+                "en": "Acapulco Historical Museum Fort of San Diego"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist der beste Ort, um einen verregneten Nachmittag zu verbringen; parken Sie direkt am Eingang, um beim Ein- und Aussteigen nicht nass zu werden.",
+                "hu": "Az erőd a legjobb hely egy esős délután eltöltésére; parkoljon közvetlenül a bejáratnál, hogy elkerülje az elázást az autóból való kiszálláskor.",
+                "ro": "Cetatea este cel mai bun loc pentru a petrece o după-amiază ploioasă; parcați chiar la intrare pentru a evita să vă udați când coborâți din mașină.",
+                "en": "The fortress is the best place to spend a rainy afternoon; park right at the entrance to avoid getting soaked when getting in and out of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Aguada",
+                "hu": "La Aguada Strand",
+                "ro": "Playa La Aguada",
+                "en": "La Aguada Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallende Äste oder Steine auf den kleineren Zufahrtsstraßen; genießen Sie den Blick auf das stürmische Meer aus der Sicherheit Ihres Wagens.",
+                "hu": "Ügyeljen a lehulló ágakra vagy kövekre a kisebb bekötőutakon az esőben; élvezze a viharos tenger látványát az autója biztonságos és száraz utasteréből.",
+                "ro": "Atenție la crengile sau pietrele căzute pe drumurile secundare din cauza ploii; admirați marea învolburată din siguranța și confortul mașinii dumneavoastră.",
+                "en": "Watch out for falling branches or rocks on the smaller access roads during the rain; enjoy the view of the stormy sea from the safety of your car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía Kilátó",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht eingeschränkt, aber die Wolkenformationen sind beeindruckend; halten Sie die Scheibenwischer bereit für den besten Blick aus dem Auto.",
+                "hu": "Esőben a kilátás korlátozott lehet, de a felhők játéka lenyűgöző; tartsa készenlétben az ablaktörlőket a legjobb autómból nyíló panoráma érdekében az öböl felett.",
+                "ro": "Vizibilitatea poate fi limitată pe ploaie, dar mișcarea norilor este fascinantă; folosiți ștergătoarele pentru a avea cea mai bună vedere din mașină asupra golfului.",
+                "en": "Visibility may be limited in the rain, but the cloud formations are impressive; keep your wipers ready for the best view from the car over the misty bay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns zur archäologischen Zone Palma Sola, wo die Luft angenehm frisch ist. Mittags genießen wir die Fahrt entlang der Strände Condesa und Icacos bei weit geöffneten Fenstern. Der Nachmittag im Fort San Diego bietet bei milder Brise beste Erkundungsmöglichkeiten. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir den Aussichtspunkt pünktlich zum goldenen Finale.",
+            "hu": "A tiszta téli reggel a Palma Sola régészeti zónához vezet, ahol a levegő kellemesen friss. Délben a Condesa és Icacos strandok mentén autózunk, élvezve a lehúzott ablakokon beáramló tengeri szellőt. A délután a San Diego-erődben a legkellemesebb a mérsékelt hőség miatt. Mivel a nap 17:00 körül nyugszik, pontosan érkezünk a kilátóhoz az aranyló záróakkordra.",
+            "ro": "O dimineață senină de iarnă ne duce la Palma Sola, unde aerul este plăcut și proaspăt. La prânz conducem de-a lungul plajelor Condesa și Icacos cu geamurile deschise pentru briză. După-amiaza la Fortul San Diego este ideală datorită căldurii moderate. Deoarece soarele apune în jur de ora 17:00, ajungem la punctul de observație fix pentru finalul auriu.",
+            "en": "A clear winter morning takes us to Palma Sola, where the air is pleasantly fresh and crisp. At noon, we drive along Condesa and Icacos beaches, enjoying the sea breeze through open windows. The afternoon at Fort San Diego is ideal due to the moderate heat. Since the sun sets around 5:00 PM, we arrive at the viewpoint just in time for the golden finale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologische Zone Palma Sola",
+                "hu": "Palma Sola Régészeti Zóna",
+                "ro": "Zona Arheologică Palma Sola",
+                "en": "Palma Sola Archaeological Zone"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort früh am Morgen, um das klare Winterlicht auf den Felszeichnungen zu sehen; die Auffahrt mit dem Auto ist bei trockenem Winterwetter ideal.",
+                "hu": "Látogasson el ide kora reggel, hogy lássa a tiszta téli fényt a sziklarajzokon; az autóval való felkapaszkodás a száraz téli időben ideális a meredek úton.",
+                "ro": "Vizitați acest loc dimineața devreme pentru a vedea lumina clară de iarnă pe petroglife; urcarea cu mașina este ideală pe vremea uscată de iarnă.",
+                "en": "Visit this site early in the morning to see the clear winter light on the petroglyphs; the drive up the hill is ideal during the dry and stable winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Condesa",
+                "hu": "Condesa Strand",
+                "ro": "Playa Condesa",
+                "en": "Condesa Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten, da die Wintersonne die Autooberflächen immer noch stark aufheizen kann; nutzen Sie die milden Temperaturen für ein kurzes Bad im Meer.",
+                "hu": "Parkoljon árnyékban, mert a téli nap még mindig erősen felmelegítheti az autó karosszériáját; használja ki az enyhe hőmérsékletet egy rövid mártózásra a tengerben.",
+                "ro": "Parcați la umbră, deoarece soarele de iarnă poate încă încălzi puternic caroseria mașinii; profitați de temperaturile blânde pentru o scurtă baie în mare.",
+                "en": "Park in the shade as the winter sun can still heat up the car's exterior significantly; take advantage of the mild temperatures for a quick dip in the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Icacos",
+                "hu": "Icacos Strand",
+                "ro": "Playa Icacos",
+                "en": "Icacos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Luftfeuchtigkeit ist im Winter niedriger, was die Fahrt entlang des Strandes sehr angenehm macht; halten Sie die Klimaanlage moderat eingestellt für den Komfort.",
+                "hu": "A páratartalom télen alacsonyabb, ami nagyon kellemessé teszi a part menti autózást; tartsa a légkondicionálót mérsékelt fokozaton a maximális komfort érdekében.",
+                "ro": "Umiditatea este mai scăzută iarna, ceea ce face condusul pe faleză foarte plăcut; păstrați aerul condiționat la o treaptă moderată pentru un confort optim.",
+                "en": "The humidity is lower in winter, making the drive along the beach very pleasant; keep the air conditioning on a moderate setting for maximum comfort in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Acapulco Fuerte de San Diego",
+                "hu": "Acapulcói Történeti Múzeum, San Diego-erőd",
+                "ro": "Muzeul de Istorie din Acapulco Fortul San Diego",
+                "en": "Acapulco Historical Museum Fort of San Diego"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bequemen Parkplatz und erkunden Sie die Festung bei der erfrischenden Winterbrise; die Sicht auf die Bucht ist im Winter oft klarer als im Sommer.",
+                "hu": "Használja a kényelmes parkolót és fedezze fel az erődöt a frissítő téli szélben; az öbölre nyíló kilátás télen gyakran sokkal tisztább, mint a párás nyári napokon.",
+                "ro": "Folosiți parcarea convenabilă și explorați cetatea în briza revigorantă de iarnă; vederea spre golf este adesea mai clară iarna decât în timpul verii umede.",
+                "en": "Use the convenient parking and explore the fortress in the refreshing winter breeze; the view over the bay is often much clearer in winter than in the humid summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Aguada",
+                "hu": "La Aguada Strand",
+                "ro": "Playa La Aguada",
+                "en": "La Aguada Beach"
+              },
+              "tip_5lang": {
+                "de": "Da es früher dunkel wird, planen Sie diesen Stopp rechtzeitig vor 16:30 Uhr ein, um das letzte Tageslicht an diesem etwas abgelegeneren Strandabschnitt zu genießen.",
+                "hu": "Mivel korábban sötétedik, tervezze ezt a megállót 16:30 elé, hogy kiélvezhesse az utolsó nappali fényeket ezen a távolabb eső, nyugodt tengerparti szakaszon.",
+                "ro": "Deoarece se întunecă mai devreme, planificați această oprire înainte de ora 16:30 pentru a vă bucura de ultima lumină a zilei pe această porțiune mai izolată.",
+                "en": "Since it gets dark earlier, plan this stop before 4:30 PM to enjoy the last daylight on this more remote and tranquil stretch of the Pacific beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía Kilátó",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist gegen 17:00 Uhr; genießen Sie ihn direkt aus dem Auto, falls die Winterbrise am Aussichtspunkt für Ihren Geschmack zu kühl weht.",
+                "hu": "A naplemente 17:00 körül várható; nézze végig az autóból, ha a téli tengeri szél a kilátónál túl hűvösnek bizonyulna az ön ízlésének a nap végén.",
+                "ro": "Apusul este în jur de ora 17:00; admirați-l direct din mașină dacă briza de iarnă la punctul de observație este prea rece pentru gustul dumneavoastră.",
+                "en": "Sunset is expected around 5:00 PM; watch it directly from the car if the winter sea breeze at the viewpoint feels too chilly for your taste at the day's end."
+              }
+            }
+          ]
+        }
       }
     }
   }

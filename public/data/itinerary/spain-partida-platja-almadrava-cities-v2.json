@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy utazással a római korba az Almadrava romjainál. Sétáljon kényelmesen a pihentető Platja de l'Amadrava felé. Délben élvezze a friss tengeri szellőt a történelmi Torre de l’Almadrava mellett. Délután tapasztalja meg a helyi kulturális hangulatot az Auditori dels Poblets-nél. Fejezze be a napot a Torre Mira Rosa-nál a varázslatos arany órában.",
         "ro": "Începeți dimineața cu o călătorie în epoca romană la ruinele din Almadrava. Plimbați-vă apoi spre relaxanta plajă Amadrava. La amiază, bucurați-vă de briza proaspătă a mării la istoricul turn Almadrava. După-amiaza, descoperiți farmecul cultural local la Auditori dels Poblets. Încheiați ziua admirând Torre Mira Rosa în lumina caldă a soarelui de apus, plină de liniște.",
         "en": "Start your morning with a journey into the Roman era at the Almadrava ruins. Stroll comfortably to the relaxing Platja de l'Amadrava. By midday, enjoy the fresh sea breeze at the historic Torre de l’Almadrava. In the afternoon, experience the local cultural flair at the Auditori dels Poblets. End your day at Torre Mira Rosa, taking in its rustic beauty during the golden hour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die römischen Ruinen unter dem Schutz Ihres Regenschirms, während die nassen Steine in kräftigen Farben leuchten. Mittags bietet der Strand einen dramatischen Anblick der aufgewühlten See. Nachmittags finden Sie im Auditori trockenen Unterschlupf und genießen die lokale Kultur. Den Abend lassen Sie bei einem kurzen Spaziergang zu den historischen Türmen ausklingen.",
+            "hu": "A reggelt az esernyő alól csodált római romok között kezdi, ahol a vizes kövek különleges textúrát mutatnak. Délben a tengerpart a viharos hullámokkal nyújt vadregényes látványt. Délután az auditórium fedett épülete nyújt menedéket a csapadék elől. Az estét a városi tornyok felé tett rövid, frissítő séta zárja, figyelve a csúszós útburkolatokra a történelmi központban.",
+            "ro": "Dimineața începe printre ruinele romane, unde umbrela vă protejează în timp ce admirați pietrele umede. La prânz, plaja oferă un spectacol dramatic al valurilor sub ploaie. După-amiaza, auditoriul este refugiul perfect și uscat pentru o pauză culturală. Seara se încheie cu o plimbare scurtă spre turnurile istorice, profitând de atmosfera liniștită de după ploaie.",
+            "en": "Morning starts at the Roman ruins where an umbrella is essential, as the rain brings out the deep colors of the ancient stones. At noon, the beach offers a dramatic view of the grey sea. In the afternoon, the auditorium provides a welcome dry shelter for a cultural break. The evening concludes with a brisk walk toward the towers, enjoying the fresh air after the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment Romà de l'Almadrava",
+                "hu": "Jaciment Romà de l'Almadrava",
+                "ro": "Jaciment Romà de l'Almadrava",
+                "en": "Jaciment Romà de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die antiken Fundamente der römischen Villa; bei Regen glänzen die Mosaikreste besonders schön, aber tragen Sie rutschfeste Schuhe auf dem nassen Pfad.",
+                "hu": "Fedezze fel a római villa alapjait, melyek esőben sötétebb árnyalatot kapnak; viseljen csúszásmentes talpú cipőt, mert a nedves kövek és a sár nehezítheti a közlekedést.",
+                "ro": "Explorați fundațiile antice ale vilei romane; mozaicurile strălucesc sub ploaie, dar purtați încălțăminte aderentă deoarece potecile devin alunecoase când sunt ude.",
+                "en": "Explore the ancient foundations of the Roman villa; the rain makes the stone patterns stand out beautifully, but wear non-slip shoes as the wet site can be tricky."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de l'Amadrava",
+                "hu": "Platja de l'Amadrava",
+                "ro": "Platja de l'Amadrava",
+                "en": "Platja de l'Amadrava"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das beeindruckende Spiel der Wellen an diesem Kiesstrand; die nahegelegenen Cafés bieten Schutz, während Sie den stürmischen Blick auf das Meer genießen.",
+                "hu": "Csodálja meg a viharos tenger látványát erről a kavicsos partról; keressen menedéket a közeli teraszok fedett részein, miközben a hullámok morajlását hallgatja a szélben.",
+                "ro": "Admirați spectacolul mării învolburate de pe această plajă cu pietriș; cafenelele din apropiere oferă adăpost excelent în timp ce priviți valurile izbindu-se de țărm.",
+                "en": "Watch the impressive waves from this pebble beach; nearby covered terraces offer a great vantage point to stay dry while experiencing the raw power of the stormy sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de l’Almadrava",
+                "hu": "Torre de l’Almadrava",
+                "ro": "Torre de l’Almadrava",
+                "en": "Torre de l’Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Wachturm trotzt seit Jahrhunderten dem Wetter; nutzen Sie die massiven Mauern als Windschutz für ein schnelles Foto der regnerischen Küstenlinie.",
+                "hu": "Ez a történelmi őrtorony évszázadok óta dacol az elemekkel; használja a vaskos falakat szélfogóként egy gyors fotóhoz a borongós, eső áztatta tengerparti panorámáról.",
+                "ro": "Acest turn de veghe istoric a înfruntat secole de intemperii; folosiți zidurile masive ca protecție împotriva vântului pentru o fotografie rapidă a coastei plouate.",
+                "en": "This historic watchtower has faced the elements for centuries; use its thick walls as a windbreak for a quick photo of the dramatic, rain-swept coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori dels Poblets",
+                "hu": "Auditori dels Poblets",
+                "ro": "Auditori dels Poblets",
+                "en": "Auditori dels Poblets"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Auditorium ist der ideale Ort, um dem starken Regen zu entfliehen; prüfen Sie das lokale Programm für eine kurze kulturelle Pause im trockenen Innenraum.",
+                "hu": "A modern auditórium épülete a legjobb hely az intenzív eső elöli menekülésre; nézze meg a helyi programot egy száraz, kulturális kitérőhöz a belső tér kényelmében.",
+                "ro": "Auditoriul modern este locul ideal pentru a scăpa de ploaia torențială; verificați programul local pentru o scurtă pauză culturală în interiorul primitor și uscat.",
+                "en": "The modern auditorium is the perfect spot to escape heavy rain; check the local schedule for a quick cultural visit while enjoying the comfort of its dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mira Rosa",
+                "hu": "Torre Mira Rosa",
+                "ro": "Torre Mira Rosa",
+                "en": "Torre Mira Rosa"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur dieses Wehrturms in der Siedlung; achten Sie auf tiefe Pfützen in den Gassen und nutzen Sie die schmalen Dachvorsprünge der Nachbarhäuser.",
+                "hu": "Csodálja meg a lakónegyedben álló védőtorony építészetét; ügyeljen a mélyebb tócsákra a szűk utcákban, és használja a szomszédos házak ereszeit az eső elleni védelemhez.",
+                "ro": "Admirați arhitectura acestui turn defensiv din zona rezidențială; atenție la bălțile adânci de pe străzi și folosiți streșinile caselor vecine pentru scurte momente de adăpost.",
+                "en": "Admire the architecture of this defensive tower within the village; watch out for deep puddles in the narrow streets and use nearby eaves for quick shelter from showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen lädt zu einem zügigen Marsch zu den Ausgrabungen ein. Mittags genießen Sie die milde Sonne am fast menschenleeren Strand. Nachmittags besichtigen Sie die historischen Türme im goldenen Licht der tiefstehenden Sonne. Da es gegen 17:00 Uhr dunkel wird, bietet das beheizte Auditorium einen gemütlichen Abschluss für Ihren winterlichen Kulturtag.",
+            "hu": "A hűvös téli reggel frissítő gyaloglásra hív a római romok felé. Délben a téli napsütésben fürdő, szinte néptelen tengerparton pihenhet meg egy kicsit. Délután a történelmi tornyokat a lemenő nap súroló fényében fotózhatja. Mivel ötkor sötétedik, az auditórium fűtött tere biztosítja a nap meleg és kulturális lezárását a rövid téli délután után.",
+            "ro": "Dimineața răcoroasă de iarnă este perfectă pentru o plimbare energică spre situl arheologic. La prânz, bucurați-vă de soarele blând pe plaja aproape pustie. După-amiaza, turnurile istorice capătă o nuanță aurie în lumina apusului timpuriu. Deoarece se întunecă în jur de ora 17:00, auditoriul încălzit oferă un final confortabil și cultural zilei.",
+            "en": "A crisp winter morning is ideal for a brisk walk to the ruins. At noon, enjoy the mild Mediterranean sun on the quiet, nearly empty beach. In the afternoon, visit the historic towers during the golden hour as the sun sits low. Since it gets dark by 17:00, the heated auditorium provides a cozy and warm cultural finale to your winter day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment Romà de l'Almadrava",
+                "hu": "Jaciment Romà de l'Almadrava",
+                "ro": "Jaciment Romà de l'Almadrava",
+                "en": "Jaciment Romà de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antike Fischsaucen-Fabrik ohne die Sommerhitze; die tiefstehende Wintersonne betont die Strukturen der Mauern, aber tragen Sie eine warme winddichte Jacke.",
+                "hu": "Fedezze fel az antik halszósz-készítő műhelyt a nyári hőség nélkül; a téli nap súroló fénye jól kiemeli a falak szerkezetét, de készüljön meleg, szélálló kabáttal.",
+                "ro": "Explorați antica fabrică de sos de pește fără arșița verii; soarele jos de iarnă scoate în evidență textura zidurilor, dar purtați o jachetă groasă împotriva vântului.",
+                "en": "Explore the ancient fish sauce factory without the summer heat; the low winter sun highlights the wall structures perfectly, but bring a warm windproof jacket for the open site."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de l'Amadrava",
+                "hu": "Platja de l'Amadrava",
+                "ro": "Platja de l'Amadrava",
+                "en": "Platja de l'Amadrava"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Meer, die nur der Winter bietet; die klare Luft sorgt für weite Sichtweiten, ideal für Fotos, auch wenn es für ein Bad zu kalt ist.",
+                "hu": "Élvezze a tengerparti nyugalmat, amit csak a tél adhat meg; a tiszta levegő miatt a látótávolság kiváló, tökéletes fotózáshoz, még ha a fürdéshez túl hideg is az idő.",
+                "ro": "Bucurați-vă de liniștea mării pe care doar iarna o poate oferi; aerul curat asigură o vizibilitate excelentă, ideală pentru fotografii, chiar dacă e prea frig pentru baie.",
+                "en": "Enjoy the seaside serenity that only winter provides; the crisp air ensures incredible visibility for photos of the horizon, even if it is too cold for a swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de l’Almadrava",
+                "hu": "Torre de l’Almadrava",
+                "ro": "Torre de l’Almadrava",
+                "en": "Torre de l’Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Dieser Turm steht markant an der Küste; im Winter peitscht der Wind hier stärker, also ziehen Sie Mütze und Schal an, bevor Sie den Panoramablick genießen.",
+                "hu": "Ez a torony markánsan emelkedik a part fölé; télen itt erősebben fújhat a szél, ezért vegyen sapkát és sálat, mielőtt elmerülne a panoráma látványában.",
+                "ro": "Acest turn veghează coasta cu mândrie; iarna vântul bate mai cu putere aici, deci puneți-vă căciula și fularul înainte de a admira panorama spectaculoasă.",
+                "en": "This tower stands boldly by the shore; winter winds can be quite strong here, so wrap up with a scarf and hat before enjoying the sweeping coastal views."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori dels Poblets",
+                "hu": "Auditori dels Poblets",
+                "ro": "Auditori dels Poblets",
+                "en": "Auditori dels Poblets"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am späten Nachmittag ist ideal, um sich aufzuwärmen; die moderne Architektur bietet im Inneren Schutz vor der kühler werdenden Abendluft nach Sonnenuntergang.",
+                "hu": "A késő délutáni látogatás ideális a felmelegedéshez; a modern épület belső tere védelmet nyújt a naplemente után gyorsan hűlő esti levegő elől.",
+                "ro": "O vizită după-amiaza târziu este ideală pentru a vă încălzi; arhitectura modernă oferă adăpost în interior împotriva aerului rece care se lasă după apusul soarelui.",
+                "en": "A late afternoon visit is perfect for warming up; the modern interior offers a great escape from the chilling evening air that arrives quickly after the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mira Rosa",
+                "hu": "Torre Mira Rosa",
+                "ro": "Torre Mira Rosa",
+                "en": "Torre Mira Rosa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Turm kurz vor 17:00 Uhr; das sanfte Winterlicht lässt das Mauerwerk warm leuchten, bevor die Dämmerung und die Kälte der Nacht einsetzen.",
+                "hu": "Látogassa meg ezt a tornyot röviddel 17 óra előtt; a lágy téli fényben melegen izzik a kőfal, mielőtt leszállna az alkonyat és a vele járó éjszakai hideg.",
+                "ro": "Vizitați acest turn cu puțin timp înainte de ora 17:00; lumina blândă de iarnă face ca zidăria să strălucească cald înainte de lăsarea serii și a frigului.",
+                "en": "Visit this tower shortly before 17:00; the soft winter light gives the stonework a warm glow just before dusk and the nighttime chill set in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a tágas Platja de l'Almadrava-nál, mielőtt felfedezné a római romokat. Késő délelőtt pedálozzon az impozáns Torre de l’Almadrava felé. Délben a Platja dels Molins csodálatos hátteret biztosít a pihenéshez. Délután tekerjen el a kulturális Auditori dels Poblets-hez. Az estét a történelmi Casa del Trapig-nál töltheti el, élvezve a békés környezetet.",
         "ro": "Începeți turul cu bicicleta la întinsa plajă Almadrava, înainte de a explora ruinele romane. Spre sfârșitul dimineții, pedalați către impunătorul turn Almadrava. La amiază, Platja dels Molins oferă un fundal minunat pentru o pauză. După-amiaza, mergeți la Auditori dels Poblets. Seara se încheie la istorica Casa del Trapig, reflectând asupra zilei în mijlocul istoriei tăcute.",
         "en": "Kick off your bike tour at the expansive Platja de l'Almadrava before exploring the ancient Roman ruins. Late morning takes you pedaling to the imposing Torre de l’Almadrava. At midday, Platja dels Molins provides a wonderful backdrop for a relaxing break. In the afternoon, cycle over to the cultural Auditori dels Poblets. Your evening winds down at the historic Casa del Trapig."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Radtour startet am regnerischen Strand, wo die frische Brise das Fahren belebt. Vormittags erkunden Sie die römischen Ruinen, wobei Sie auf nassen Kurven vorsichtig sein sollten. Mittags bietet der Turm einen kurzen Stopp, gefolgt von einer Fahrt zum schützenden Auditorium. Der Nachmittag endet entspannt in der historischen Casa del Trapig, die ausreichend Platz zum Trocknen bietet.",
+            "hu": "Kerékpártúrája az esős tengerparton indul, ahol a friss szél élénkítően hat a tekerésre. Délelőtt a római romokat érinti, de a vizes kanyarokban legyen óvatos. Délben a toronynál tarthat egy rövid szünetet, majd irány a védelmet nyújtó auditórium. A délután a történelmi Casa del Trapig falai között zárul, ahol bőven van hely megszárítkozni és megpihenni.",
+            "ro": "Turul cu bicicleta începe pe plaja plouată, unde briza proaspătă vă înviorează. Dimineața explorați ruinele romane, fiind atenți la curbele umede și alunecoase. La prânz turnul oferă un popas scurt, urmat de o cursă spre auditoriul protector. După-amiaza se încheie relaxat la Casa del Trapig, unde aveți spațiu suficient pentru a vă usca hainele.",
+            "en": "Your bike tour starts at the rainy beach where the fresh breeze makes for an invigorating ride. Spend the morning at the Roman ruins, taking care on wet corners. At noon, the tower offers a brief stop before heading to the sheltering auditorium. The afternoon ends peacefully at Casa del Trapig, which provides plenty of indoor space to dry off and relax."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platja de l'Almadrava",
+                "hu": "Platja de l'Almadrava",
+                "ro": "Platja de l'Almadrava",
+                "en": "Platja de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour am Strand mit voller Regenmontur; der sandige Boden kann rutschig sein, halten Sie also Abstand zum Wasser und prüfen Sie Ihre Bremsen.",
+                "hu": "Kezdje a túrát teljes esőfelszerelésben; a homokos-kavicsos talaj csúszós lehet, ezért tartson távolságot a víztől és ellenőrizze a fékek hatékonyságát.",
+                "ro": "Începeți turul pe plajă echipat complet pentru ploaie; solul nisipos poate fi alunecos, deci păstrați distanța față de apă și verificați funcționarea frânelor.",
+                "en": "Start your tour in full rain gear; the sandy ground can be slippery when wet, so keep a safe distance from the shoreline and check your brakes before setting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Romà de l'Almadrava",
+                "hu": "Jaciment Romà de l'Almadrava",
+                "ro": "Jaciment Romà de l'Almadrava",
+                "en": "Jaciment Romà de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem festen Untergrund und erkunden Sie die Ruinen zu Fuß; die nassen Mosaike sind sehenswert, aber der Boden ist uneben und matschig.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, és gyalogosan járja be a romokat; a vizes mozaikok látványosak, de a talaj egyenetlen és sáros lehet az esőtől.",
+                "ro": "Parcați bicicleta pe un teren solid și explorați ruinele pe jos; mozaicurile umede sunt superbe, dar solul este denivelat și poate deveni noroios din cauza ploii.",
+                "en": "Park your bike on solid ground and explore the ruins on foot; the wet mosaics look stunning, but the uneven ground can be muddy and tricky to navigate."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de l’Almadrava",
+                "hu": "Torre de l’Almadrava",
+                "ro": "Torre de l’Almadrava",
+                "en": "Torre de l’Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter Orientierungspunkt für Radfahrer; nutzen Sie die Zeit für einen kurzen Riegelstopp im Windschatten des Turms, bevor Sie zum nächsten trockenen Ziel weiterfahren.",
+                "hu": "Jellegzetes tájékozódási pont a bicikliseknek; használja ki az időt egy rövid frissítőre a torony szélárnyékában, mielőtt továbbtekerne a következő fedett állomásig.",
+                "ro": "Un punct de reper important pentru bicicliști; profitați de ocazie pentru o scurtă gustare la adăpostul turnului înainte de a pedala spre următoarea destinație uscată.",
+                "en": "A prominent landmark for cyclists; use the tower's wind shadow for a quick energy snack before pedaling to your next indoor destination to escape the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Molins",
+                "hu": "Platja dels Molins",
+                "ro": "Platja dels Molins",
+                "en": "Platja dels Molins"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Küstenwegen, da Pfützen die Tiefe von Schlaglöchern verbergen können; genießen Sie den Blick auf die Molins-Küste trotz der grauen Wolken.",
+                "hu": "Tekerjen óvatosan a parti utakon, mivel a tócsák elrejthetik az úthibák mélységét; élvezze a kilátást a Molins-partra a szürke fellegek és az eső ellenére is.",
+                "ro": "Pedalați cu atenție pe drumurile de coastă, deoarece bălțile pot ascunde gropi adânci; admirați vederea spre plaja Molins în ciuda norilor gri și a ploii.",
+                "en": "Ride carefully on coastal paths as puddles may hide deep potholes; enjoy the view of the Molins coast despite the grey clouds and persistent drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori dels Poblets",
+                "hu": "Auditori dels Poblets",
+                "ro": "Auditori dels Poblets",
+                "en": "Auditori dels Poblets"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und nutzen Sie das Auditorium für eine längere Pause; hier können Sie sich aufwärmen und Ihre Regenkleidung für den letzten Abschnitt ordnen.",
+                "hu": "Helyezze el biciklijét fedett helyen, és használja az auditóriumot egy hosszabb pihenőre; itt felmelegedhet és rendezheti esőfelszerelését az utolsó szakasz előtt.",
+                "ro": "Lăsați bicicleta la adăpost și folosiți auditoriul pentru o pauză mai lungă; aici vă puteți încălzi și vă puteți rearanja echipamentul de ploaie pentru ultima etapă.",
+                "en": "Secure your bike under cover and use the auditorium for a longer rest; it is the perfect place to warm up and adjust your gear before the final leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Trapig",
+                "hu": "Casa del Trapig",
+                "ro": "Casa del Trapig",
+                "en": "Casa del Trapig"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight zum Abschluss: Dieses historische Gebäude bietet viel Platz im Inneren, um die alte Zuckermühle zu erkunden, während es draußen weiter regnet.",
+                "hu": "A túra méltó lezárása: ez a történelmi épület bőséges belső teret kínál a régi cukormalom felfedezéséhez, miközben kint zavartalanul eshet az eső.",
+                "ro": "Finalul perfect: această clădire istorică oferă un spațiu interior generos pentru a explora vechea moară de zahăr în timp ce afară plouă neîncetat.",
+                "en": "A grand finale: this historic building offers plenty of indoor space to explore the old sugar mill while staying completely shielded from the ongoing rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie dick eingepackt am sonnigen, aber kühlen Strand entlang. Die römischen Ruinen besichtigen Sie vormittags bei klarer Luft. Mittags führt der Weg an der Küste entlang zu den Wehrtürmen. Nachmittags erreichen Sie das Auditorium, bevor die Kälte des frühen Abends einsetzt. Die Tour endet bei Einbruch der Dunkelheit an der beeindruckenden Casa del Trapig.",
+            "hu": "Reggel vastagon felöltözve tekerhet a napos, de hűvös tengerparton. A római romokat délelőtt, a tiszta és friss levegőben látogathatja meg. Délben az út a part mentén vezet a védőtornyokhoz. Délután érkezik az auditóriumhoz, még mielőtt a korai este hidege beállna. A túra a sötétedés kezdetén ér véget a lenyűgöző Casa del Trapig épületénél.",
+            "ro": "Dimineața pedalați bine echipat de-a lungul plajei însorite, dar răcoroase. Vizitați ruinele romane înainte de prânz, profitând de aerul curat. La amiază, traseul urmează coasta spre turnurile defensive. După-amiaza ajungeți la auditoriu înainte de lăsarea frigului de seară. Turul se încheie la lăsarea întunericului lângă impresionanta Casa del Trapig.",
+            "en": "In the morning, cycle along the sunny but chilly beach, layered up for the breeze. Visit the Roman ruins before lunch while the air is crisp and clear. At noon, the coastal path leads you to the defensive towers. Reach the auditorium in the afternoon before the early evening chill sets in. The tour finishes just as dusk falls at the impressive Casa del Trapig."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platja de l'Almadrava",
+                "hu": "Platja de l'Almadrava",
+                "ro": "Platja de l'Almadrava",
+                "en": "Platja de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Start im Winterlicht; tragen Sie winddichte Handschuhe, da der Fahrtwind am Meer im Dezember besonders beißend sein kann.",
+                "hu": "Csodálatos kezdés a téli fényekben; viseljen szélálló kesztyűt, mivel a tengerparti menetszél decemberben különösen metsző tud lenni tekerés közben.",
+                "ro": "Un început superb în lumina iernii; purtați mănuși rezistente la vânt, deoarece curentul de aer de pe malul mării poate fi tăios în timpul pedalării.",
+                "en": "A wonderful start in the crisp winter light; wear windproof gloves as the sea breeze can feel particularly biting while cycling along the coast in December."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Romà de l'Almadrava",
+                "hu": "Jaciment Romà de l'Almadrava",
+                "ro": "Jaciment Romà de l'Almadrava",
+                "en": "Jaciment Romà de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Die antike Stätte ist im Winter angenehm leer; die Sonne steht tief und wirft lange Schatten auf die Mauern, was hervorragende Fotomotive für Radler bietet.",
+                "hu": "Az antik lelőhely télen kellemesen néptelen; a nap alacsonyan jár és hosszú árnyékokat vet a falakra, ami kiváló fotótémát nyújt a megálló bicikliseknek.",
+                "ro": "Situl antic este plăcut de liber iarna; soarele jos proiectează umbre lungi pe ziduri, oferind ocazii fotografice excelente pentru bicicliștii care poposesc aici.",
+                "en": "The ancient site is pleasantly quiet in winter; the low sun casts long shadows across the walls, providing excellent photo opportunities for visiting cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de l’Almadrava",
+                "hu": "Torre de l’Almadrava",
+                "ro": "Torre de l’Almadrava",
+                "en": "Torre de l’Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Turm lohnt sich für den Ausblick; beachten Sie, dass die Wintersonne bereits gegen 16:30 Uhr an Kraft verliert und es kühl wird.",
+                "hu": "Érdemes megállni a toronynál a kilátásért; ügyeljen rá, hogy a téli nap ereje már 16:30 körül fogyni kezd, és a levegő gyorsan hűlni kezd a parton.",
+                "ro": "O scurtă oprire la turn merită pentru panoramă; rețineți că soarele de iarnă începe să piardă din putere în jur de 16:30, iar aerul devine rapid mai rece.",
+                "en": "A quick stop at the tower is worth it for the view; keep in mind that the winter sun loses its warmth by 16:30, causing the temperature to drop rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Molins",
+                "hu": "Platja dels Molins",
+                "ro": "Platja dels Molins",
+                "en": "Platja dels Molins"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet freie Fahrt ohne Touristenströme; genießen Sie die klare Sicht bis zum Horizont, aber achten Sie auf Sandverwehungen auf dem Asphalt.",
+                "hu": "A parti út szabad haladást biztosít turistatömegek nélkül; élvezze a tiszta kilátást a horizontig, de ügyeljen az aszfaltra fújt homokfoltokra.",
+                "ro": "Drumul de coastă oferă o deplasare lină fără mulțimi de turiști; admirați vizibilitatea clară până la orizont, dar atenție la nisipul suflat pe asfalt.",
+                "en": "The coastal road offers easy riding without the tourist crowds; enjoy the clear views to the horizon, but be mindful of sand patches blown onto the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori dels Poblets",
+                "hu": "Auditori dels Poblets",
+                "ro": "Auditori dels Poblets",
+                "en": "Auditori dels Poblets"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Beine im Warmen auszuruhen; nutzen Sie die Pause, um sich für die letzte Etappe der Tour bei schwindendem Licht zu stärken.",
+                "hu": "Ideális hely a lábak pihentetésére a melegben; használja ki a szünetet a felfrissülésre, mielőtt nekivágna a túra utolsó szakaszának a fogyatkozó fényben.",
+                "ro": "Locul ideal pentru a vă odihni picioarele la căldură; profitați de pauză pentru a vă recupera forțele înainte de ultima etapă a turului pe lumină puțină.",
+                "en": "The perfect place to rest your legs in the warmth; use this break to recharge before heading out for the final leg of the tour as the daylight fades away."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Trapig",
+                "hu": "Casa del Trapig",
+                "ro": "Casa del Trapig",
+                "en": "Casa del Trapig"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel Ihrer Wintertour: Besichtigen Sie das historische Gebäude gründlich, bevor Sie die Rückfahrt im Schutz der Dämmerung und bei kühler Nachtluft antreten.",
+                "hu": "A téli túra célpontja: járja be alaposan a történelmi épületet, mielőtt nekivágna a hazaútnak az alkonyat és a hűvös éjszakai levegő beállta előtt.",
+                "ro": "Destinația turului de iarnă: vizitați pe îndelete clădirea istorică înainte de a porni spre casă în amurg, când aerul nopții devine din ce în ce mai rece.",
+                "en": "The finish line of your winter tour: explore this historic building thoroughly before starting your return trip as dusk falls and the cold night air sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós utazása lenyűgözően indul a kezdő délkörnél, majd a Torre del Blanch építészetével folytatódik. A délelőtt a zenei lélekhez, az Auditori del Verger-hez viszi. Élvezze a déli órákat az idilli Torre Mira Rosa-nál, majd merüljön el a történelemben a Casa del Trapig-ban. A délután a római romoké, mielőtt az estét a Platja dels Molins partján pihenné ki kényelmesen.",
         "ro": "Călătoria cu mașina începe fascinant la Primul Meridian, urmat de arhitectura Torre del Blanch. Dimineața vă aduce la sufletul muzical de la Auditori del Verger. Bucurați-vă de prânz la idilicul turn Mira Rosa și pătrundeți în istorie la Casa del Trapig. După-amiaza aparține ruinelor romane, înainte de a vă relaxa seara pe nisipurile aurii și fine ale plajei Molins.",
         "en": "Your drive begins fascinatingly at the Prime Meridian line, followed by the sturdy architecture of Torre del Blanch. The morning brings you to the musical soul of Auditori del Verger. Enjoy midday at the idyllic Torre Mira Rosa and dive into deep history at Casa del Trapig. The afternoon belongs to the Roman ruins before spending a relaxing evening along the shores of Platja dels Molins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Region bequem und trocken trotz des Regens. Den Vormittag verbringen Sie bei den Meridianen und Türmen, wobei Sie den Wagen als Basis nutzen. Mittags bietet das Auditorium eine längere kulturelle Pause im Trockenen. Nachmittags besuchen Sie die römischen Ruinen und den Strand, bevor Sie den Tag entspannt in der historischen Casa del Trapig ausklingen lassen.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel a környéket az eső ellenére is. A délelőttöt a meridiánnál és a tornyoknál tölti, az autót bázisként használva a megállók között. Délben az auditórium hosszabb kulturális kikapcsolódást nyújt fedett helyen. Délután a római romokat és a tengerpartot érinti, majd a napot a történelmi Casa del Trapig falai között zárja.",
+            "ro": "Cu mașina puteți explora regiunea confortabil și fără a vă uda, în ciuda ploii. Petreceți dimineața la meridiane și turnuri, folosind vehiculul ca bază între opriri. La prânz, auditoriul oferă o pauză culturală prelungită la adăpost. După-amiaza vizitați ruinele romane și plaja, încheind ziua relaxat la istorica Casa del Trapig.",
+            "en": "Exploring by car allows you to stay comfortable and dry despite the rain. Spend the morning visiting the meridians and towers, using the car as a base. At noon, the auditorium offers a long cultural break indoors. In the afternoon, visit the Roman ruins and the beach, concluding your day peacefully inside the historic walls of Casa del Trapig."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meridians de Greenwich",
+                "hu": "Meridians de Greenwich",
+                "ro": "Meridians de Greenwich",
+                "en": "Meridians de Greenwich"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp am berühmten Meridian; Sie können direkt daneben parken, sodass Sie nur für einen Moment in den Regen hinausmüssen.",
+                "hu": "Rövid fotómegálló a híres meridiánnál; közvetlenül mellette parkolhat, így csak egy pillanatra kell kiszállnia az esőbe a látvány megörökítéséhez.",
+                "ro": "O scurtă oprire foto la celebrul meridian; puteți parca chiar lângă el, astfel încât va trebui să ieșiți în ploaie doar pentru un moment rapid.",
+                "en": "A quick photo stop at the famous meridian marker; you can park right next to it, so you only need to step out into the rain for a brief moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Blanch de Morell",
+                "hu": "Torre del Blanch de Morell",
+                "ro": "Torre del Blanch de Morell",
+                "en": "Torre del Blanch de Morell"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen historischen Turm vom Fenster aus oder steigen Sie kurz aus; die nassen Steinwände wirken unter dem grauen Himmel besonders geschichtsträchtig.",
+                "hu": "Csodálja meg ezt a történelmi tornyot akár az autó ablakából is; a vizes kőfalak a szürke égbolt alatt különösen patinás és történelmi hatást keltenek.",
+                "ro": "Admirați acest turn istoric de la fereastra mașinii sau coborâți scurt; zidurile de piatră umede par și mai vechi sub cerul plumburiu de ploaie.",
+                "en": "Admire this historic tower from your car window or step out briefly; the wet stone walls look particularly ancient and atmospheric under the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori de l’Associació Musical del Verger",
+                "hu": "Auditori de l’Associació Musical del Verger",
+                "ro": "Auditori de l’Associació Musical del Verger",
+                "en": "Auditori de l’Associació Musical del Verger"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine Regenpause; parken Sie in der Nähe und genießen Sie die Akustik und das kulturelle Ambiente in diesem modernen, trockenen Gebäude.",
+                "hu": "Tökéletes helyszín egy esőszünethez; parkoljon a közelben, és élvezze az akusztikát és a kulturális miliőt ebben a modern, teljesen fedett épületben.",
+                "ro": "Locul perfect pentru o pauză de ploaie; parcați în apropiere și bucurați-vă de acustică și ambianța culturală în această clădire modernă și uscată.",
+                "en": "The ideal spot for a break from the rain; park nearby and enjoy the acoustics and cultural ambiance within this modern, fully sheltered building."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mira Rosa",
+                "hu": "Torre Mira Rosa",
+                "ro": "Torre Mira Rosa",
+                "en": "Torre Mira Rosa"
+              },
+              "tip_5lang": {
+                "de": "Dieser Wehrturm liegt mitten im Ort; nutzen Sie die Parkmöglichkeiten in den Seitenstraßen für einen kurzen Blick auf das gut erhaltene Bauwerk im Regen.",
+                "hu": "Ez a védőtorony a település központjában található; használja ki az oldalsó utcák parkolóit egy rövid pillantásra az esőben is jól konzervált építményre.",
+                "ro": "Acest turn defensiv este situat chiar în localitate; folosiți parcările de pe străzile laterale pentru o privire scurtă asupra structurii bine conservate.",
+                "en": "This defensive tower is located right in the village; use the side street parking for a quick look at this well-preserved structure even in the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Trapig",
+                "hu": "Casa del Trapig",
+                "ro": "Casa del Trapig",
+                "en": "Casa del Trapig"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiges Ziel für Regentage; die weitläufigen Innenräume der ehemaligen Fabrik bieten Schutz und viel Spannendes über die regionale Industriegeschichte.",
+                "hu": "Nagyszerű úticél esős napokra; az egykori gyár tágas belső terei védelmet nyújtanak, és sok érdekességet tartogatnak a régió ipari múltjáról.",
+                "ro": "O destinație excelentă pentru zilele ploioase; spațiile interioare vaste ale fostei fabrici oferă adăpost și multe informații despre istoria industrială locală.",
+                "en": "A great destination for rainy days; the vast interior spaces of the former factory provide shelter and many insights into the region's industrial history."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Romà de l'Almadrava",
+                "hu": "Jaciment Romà de l'Almadrava",
+                "ro": "Jaciment Romà de l'Almadrava",
+                "en": "Jaciment Romà de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ausgrabungen am Nachmittag; da Sie mit dem Auto flexibel sind, können Sie eine Regenpause abwarten, bevor Sie über das Gelände gehen.",
+                "hu": "Látogassa meg a feltárásokat délután; mivel autóval rugalmas, megvárhat egy esőmentesebb időszakot, mielőtt végigjárná a szabadtéri romterületet.",
+                "ro": "Vizitați excavațiile după-amiaza; fiind flexibil cu mașina, puteți aștepta o pauză între reprizele de ploaie înainte de a parcurge situl arheologic.",
+                "en": "Visit the excavations in the afternoon; being flexible by car allows you to wait for a break in the rain before walking through the outdoor site."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Molins",
+                "hu": "Platja dels Molins",
+                "ro": "Platja dels Molins",
+                "en": "Platja dels Molins"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf das Meer vom Auto aus; die Atmosphäre der regnerischen Küste ist besonders beruhigend, wenn man im Trockenen sitzt.",
+                "hu": "Zárja a napot a tenger látványával az autó kényelméből; az esős tengerpart hangulata különösen nyugtató, ha az ember száraz, meleg utastérben ül.",
+                "ro": "Încheiați ziua admirând marea din confortul mașinii; atmosfera coastei plouate este deosebit de liniștitoare atunci când stați la adăpost și uscat.",
+                "en": "Finish the day watching the sea from the comfort of your car; the atmosphere of the rainy coast is remarkably soothing when viewed from a warm, dry cabin."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Auf Ihrer winterlichen Autotour genießen Sie die weite Sicht bei klarer Luft. Vormittags besuchen Sie die Meridiane und Türme, während die Heizung für Komfort sorgt. Mittags lädt der sonnige Strand zu einem kurzen Spaziergang ein. Nachmittags erkunden Sie die römischen Ruinen und das Auditorium, bevor Sie den Tag bei Einbruch der frühen Dunkelheit an der Casa del Trapig beenden.",
+            "hu": "Téli autóútján élvezheti a tiszta levegőnek köszönhető távoli kilátást. Délelőtt a meridiánt és a tornyokat látogatja meg, miközben az autó fűtése gondoskodik a kényelemről. Délben a napos part hívogat egy rövid sétára. Délután a római romokat és az auditóriumot keresi fel, majd a napot a korai sötétedéskor zárja a Casa del Trapig épületénél.",
+            "ro": "În turul cu mașina pe timp de iarnă, profitați de vizibilitatea excelentă datorată aerului curat. Dimineața vizitați meridianele și turnurile, în timp ce căldura din mașină vă asigură confortul. La prânz, plaja însorită vă invită la o scurtă plimbare. După-amiaza explorați ruinele și auditoriul, încheind ziua la Casa del Trapig odată cu apusul timpuriu.",
+            "en": "On your winter car tour, enjoy the expansive views provided by the clear air. Visit the meridians and towers in the morning while staying cozy with the car heater. At noon, the sunny beach is perfect for a short stroll. Spend the afternoon exploring the ruins and the auditorium, ending your day at Casa del Trapig as the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meridians de Greenwich",
+                "hu": "Meridians de Greenwich",
+                "ro": "Meridians de Greenwich",
+                "en": "Meridians de Greenwich"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp in der frischen Wintermorgenluft; das Denkmal ist im Winter leicht zugänglich und bietet ein klares Fotomotiv ohne Hitzeflimmern.",
+                "hu": "Gyors megálló a friss téli reggeli levegőben; az emlékmű télen könnyen megközelíthető, és tiszta fotótémát kínál a nyári hőség okozta vibrálás nélkül.",
+                "ro": "O oprire rapidă în aerul proaspăt al dimineții de iarnă; monumentul este ușor accesibil și oferă o imagine clară, fără distorsiunile provocate de căldura verii.",
+                "en": "A quick stop in the fresh winter morning air; the marker is easily accessible in winter and offers a sharp photo opportunity without any summer heat haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Blanch de Morell",
+                "hu": "Torre del Blanch de Morell",
+                "ro": "Torre del Blanch de Morell",
+                "en": "Torre del Blanch de Morell"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für diesen historischen Turm; die tiefstehende Wintersonne leuchtet die alten Steine wunderbar aus, ideal für Architekturfotos.",
+                "hu": "Álljon meg rövid időre az út mentén ennél a történelmi toronynál; az alacsonyan járó téli nap gyönyörűen világítja meg a régi köveket, ideális fotózáshoz.",
+                "ro": "Parcați scurt pe marginea drumului pentru acest turn istoric; soarele jos de iarnă luminează superb pietrele vechi, fiind momentul ideal pentru fotografii.",
+                "en": "Park briefly at the roadside for this historic tower; the low winter sun illuminates the old stones beautifully, making it an ideal time for architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori de l’Associació Musical del Verger",
+                "hu": "Auditori de l’Associació Musical del Verger",
+                "ro": "Auditori de l’Associació Musical del Verger",
+                "en": "Auditori de l’Associació Musical del Verger"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Innenraum für eine Pause von der kühlen Außenluft; das moderne Gebäude ist im Winter ein angenehmer Treffpunkt für Kulturinteressierte.",
+                "hu": "Használja ki a klimatizált belső teret egy pihenőre a hűvös kinti levegő után; a modern épület télen is kellemes találkozóhely a kultúra kedvelőinek.",
+                "ro": "Profitați de interiorul climatizat pentru o pauză de la aerul rece de afară; clădirea modernă este un loc de întâlnire plăcut iarna pentru iubitorii de cultură.",
+                "en": "Take advantage of the climate-controlled interior for a break from the chilly outdoor air; the modern building is a pleasant winter venue for cultural enthusiasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mira Rosa",
+                "hu": "Torre Mira Rosa",
+                "ro": "Torre Mira Rosa",
+                "en": "Torre Mira Rosa"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Abstecher in die Siedlung; im Winter finden Sie hier leichter einen Parkplatz direkt in der Nähe des Turms für einen entspannten Rundgang.",
+                "hu": "Rövid kitérő a lakónegyedbe; télen sokkal könnyebben talál parkolóhelyet közvetlenül a torony közelében egy kényelmes, rövid körbejáráshoz.",
+                "ro": "O scurtă abatere în zona rezidențială; iarna veți găsi mult mai ușor un loc de parcare chiar lângă turn pentru o scurtă plimbare relaxată în jur.",
+                "en": "A quick detour into the residential area; in winter, you will find it much easier to park directly near the tower for a relaxed walk around the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Trapig",
+                "hu": "Casa del Trapig",
+                "ro": "Casa del Trapig",
+                "en": "Casa del Trapig"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag; die historischen Exponate sind im Winter gut geschützt und bieten eine faszinierende Reise in die Vergangenheit.",
+                "hu": "Látogassa meg a múzeumot kora délután; a történelmi kiállítási tárgyak télen is jól megtekinthetők, és izgalmas utazást kínálnak a régió múltjába.",
+                "ro": "Vizitați muzeul după-amiaza devreme; exponatele istorice sunt bine protejate iarna și oferă o călătorie fascinantă în trecutul industrial al regiunii.",
+                "en": "Visit the museum in the early afternoon; the historic exhibits are well-protected in winter and offer a fascinating journey into the region's industrial past."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment Romà de l'Almadrava",
+                "hu": "Jaciment Romà de l'Almadrava",
+                "ro": "Jaciment Romà de l'Almadrava",
+                "en": "Jaciment Romà de l'Almadrava"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungsstätte ist im Winter ein Ort der Stille; genießen Sie die antike Atmosphäre ohne die Hitze, aber halten Sie Ihre Jacke für den Küstenwind bereit.",
+                "hu": "A régészeti lelőhely télen a nyugalom szigete; élvezze az antik hangulatot a hőség nélkül, de tartson készenlétben egy meleg kabátot a tengeri szél miatt.",
+                "ro": "Situl arheologic este o oază de liniște iarna; bucurați-vă de atmosfera antică fără căldura verii, dar aveți jacheta pregătită pentru vântul de coastă.",
+                "en": "The archaeological site is a haven of peace in winter; enjoy the ancient atmosphere without the heat, but keep your jacket ready for the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Molins",
+                "hu": "Platja dels Molins",
+                "ro": "Platja dels Molins",
+                "en": "Platja dels Molins"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag kurz vor 17:00 Uhr am Strand; erleben Sie den winterlichen Sonnenuntergang über dem Meer bequem von Ihrem warmen Auto aus.",
+                "hu": "Zárja a napot 17 óra körül a tengerparton; nézze végig a téli naplementét a horizont felett kényelmesen, a meleg autó utasteréből figyelve a színeket.",
+                "ro": "Încheiați ziua pe plajă în jurul orei 17:00; priviți apusul de iarnă peste mare confortabil, din interiorul cald al mașinii dumneavoastră.",
+                "en": "Finish the day at the beach around 17:00; witness the winter sunset over the sea comfortably from your warm car as the colors fade into the night."
+              }
+            }
+          ]
+        }
       }
     }
   }

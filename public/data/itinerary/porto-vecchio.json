@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az óváros hangulatos utcáin, megcsodálva a gyönyörű Keresztelő Szent János-templomot és a Citadellát. Délben irány a Bastion de France, hogy elmerüljön a történelemben. Délután ereszkedjen le a kikötőbe egy kényelmes sétára a jachtok között. Zárja a napot a La Plage Casadelmar strandhoz sétálva, egy pihentető este eltöltésével a türkizkék tenger partján.",
         "ro": "Începeți dimineața explorând străzile fermecătoare ale orașului vechi, admirând frumoasa Biserică Sfântul Ioan Botezătorul și formidabila Citadelă. La prânz, mergeți la Bastion de France pentru istorie. După-amiaza, coborâți spre portul plin de viață pentru o plimbare relaxantă printre iahturi. Încheiați ziua mergând la La Plage Casadelmar pentru o seară relaxantă pe țărmul mării turcoaz.",
         "en": "Start your morning exploring the charming streets of the old town, admiring the beautiful Saint-Jean-Baptiste Church and the formidable Citadel. Midday, head to the Bastion de France to dive into the rich history. In the afternoon, descend to the bustling marina for a leisurely stroll among the yachts. Conclude your day walking up to La Plage Casadelmar for a relaxing evening by the turquoise sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz der Kirche, um den ersten Regenschauern zu entgehen. Mittags bieten die engen Gassen der Zitadelle begrenzten Schutz, aber Vorsicht auf dem rutschigen Pflaster. Der Nachmittag am Hafen zeigt ein dramatisches, graues Meer, das man am besten unter einem Schirm genießt. Abends ziehen Sie sich in die beleuchtete Oberstadt zurück, wo warme Lichter den Regen vergessen lassen.",
+            "hu": "Kezdje a napot a templom vastag falai között, elkerülve a reggeli záporokat. Délben a citadella szűk utcái némi védelmet nyújtanak a szél ellen, de a macskaköveken vigyázzon a csúszásveszélyre. A délutánt a kikötőben tölthetjük, figyelve a szürke tengert egy esernyő alól. Este az óváros fényeiben gyönyörködhetünk, mielőtt egy fedett helyen keresnénk menedéket a nyirkos idő elől.",
+            "ro": "Începeți ziua sub adăpostul bisericii pentru a evita primele reprize de ploaie. La prânz, străzile înguste ale cetății oferă protecție împotriva vântului, însă atenție la pavajul alunecos. După-amiaza în port oferă o priveliște dramatică asupra mării gri, ideală de observat sub o umbrelă. Seara, retrageți-vă în orașul de sus, unde luminile calde fac atmosfera ploioasă mult mai primitoare.",
+            "en": "Start your day inside the church to stay dry while admiring the historic interior. By noon, the citadel's narrow streets offer some shelter from the wind, though the cobblestones become very slippery. Spend the afternoon watching the dramatic gray sea from the marina under an umbrella. In the evening, retreat to the upper town where the warm streetlights make the rain feel much more atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als trockenen Rückzugsort vor dem Regen; tragen Sie Schuhe mit Profil für die nassen Steinstufen am Eingang.",
+                "hu": "Használja ki a templom belső terét száraz menedékként a zápor elől; viseljen tapadós talpú cipőt a vizes és csúszós kőküszöbök miatt.",
+                "ro": "Folosiți interiorul impunător ca refugiu uscat împotriva ploii; purtați încălțăminte cu aderență bună pentru treptele de piatră umede de la intrare.",
+                "en": "Take advantage of the grand interior as a dry refuge from the rain; wear shoes with good grip for the wet and slippery stone steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Porto-Vecchio",
+                "hu": "Porto-Vecchio Citadella",
+                "ro": "Citadela din Porto-Vecchio",
+                "en": "Citadel of Porto-Vecchio"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsmauern zwischen den Schauern für dramatische Ausblicke; ein stabiler Windschutzschirm ist bei den Böen auf den Wällen unerlässlich.",
+                "hu": "A záporok közti szünetekben fedezze fel a falakat a drámai kilátásért; a bástyákon tapasztalható széllökések miatt egy masszív esernyő kötelező.",
+                "ro": "Explorați zidurile între reprizele de ploaie pentru vederi dramatice; o umbrelă rezistentă la vânt este esențială din cauza rafalelor de pe bastioane.",
+                "en": "Explore the fortifications between showers for dramatic views; a sturdy windproof umbrella is essential due to the gusts on the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion de France",
+                "hu": "Bastion de France",
+                "ro": "Bastion de France",
+                "en": "Bastion de France"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um trocken zu bleiben; die Dachterrasse bietet auch bei Regen einen tollen Blick, wenn man wetterfeste Kleidung trägt.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy szárazon maradjon; a tetőterasz esőben is szép kilátást nyújt, ha van Önön vízhatlan kabát.",
+                "ro": "Vizitați expozițiile interioare pentru a rămâne uscat; terasa de pe acoperiș oferă o vedere excelentă chiar și pe ploaie dacă aveți haine impermeabile.",
+                "en": "Visit the indoor exhibitions to stay dry; the roof terrace offers a great view even in the rain if you are wearing proper waterproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Porto-Vecchio",
+                "hu": "Porto-Vecchio Kikötő",
+                "ro": "Portul Porto-Vecchio",
+                "en": "Porto-Vecchio Marina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben der Boote von einem der überdachten Cafés aus; achten Sie auf die Pfützen auf den Holzstegen am Wasser.",
+                "hu": "Figyelje a hajók ringatózását valamelyik fedett teraszos kávézóból; vigyázzon a mély tócsákra és a csúszós fafelületekre a mólók mentén.",
+                "ro": "Observați mișcarea bărcilor de la adăpostul unei cafenele cu terasă acoperită; atenție la bălțile mari și la lemnul alunecos de pe pontoane.",
+                "en": "Watch the boats from the shelter of a covered cafe terrace; watch out for large puddles and slippery wooden surfaces along the piers."
+              }
+            },
+            {
+              "name": {
+                "de": "La Plage Casadelmar",
+                "hu": "La Plage Casadelmar",
+                "ro": "La Plage Casadelmar",
+                "en": "La Plage Casadelmar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stimmung des leeren Strandes unter einem Vordach; ein warmer Regenmantel schützt Sie vor der feuchten Meeresbrise.",
+                "hu": "Élvezze az üres tengerpart melankolikus hangulatát egy tető alól; egy meleg esőkabát megvédi Önt a tenger felől érkező nyirkos széltől.",
+                "ro": "Bucurați-vă de atmosfera melancolică a plajei pustii de sub un acoperiș; o pelerină de ploaie groasă vă va proteja de briza umedă a mării.",
+                "en": "Enjoy the melancholic atmosphere of the empty beach from under a canopy; a warm raincoat will protect you from the damp sea breeze."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den morgendlichen Spaziergang durch die Altstadt besonders erfrischend. Mittags steht die Sonne tief und beleuchtet die Zitadelle in sanften Goldtönen. Am Nachmittag sinken die Temperaturen schnell, wenn der Schatten über den Hafen fällt. Da es gegen 17:00 Uhr dunkel wird, endet der Tag früh in einem gemütlichen Restaurant bei korsischen Spezialitäten.",
+            "hu": "A friss téli levegő különösen felüdítővé teszi a reggeli sétát az óvárosban. Délben a nap alacsonyan jár, és lágy arany tónusokkal világítja meg a citadellát. Délután a hőmérséklet gyorsan süllyed, ahogy az árnyékok elérik a kikötőt. Mivel 17:00 körül sötétedik, a nap korán ér véget egy hangulatos étteremben, korzikai finomságok mellett.",
+            "ro": "Aerul proaspăt de iarnă face plimbarea de dimineață prin orașul vechi deosebit de revigorantă. La prânz, soarele stă jos pe cer, luminând cetatea în nuanțe aurii blânde. După-amiaza, temperaturile scad rapid odată cu lăsarea umbrelor peste port. Deoarece se întunecă în jurul orei 17:00, ziua se încheie devreme într-un restaurant primitor.",
+            "en": "The crisp winter air makes the morning walk through the old town particularly refreshing. At noon, the low sun illuminates the citadel in soft golden tones. In the afternoon, temperatures drop quickly as shadows stretch across the marina. Since it gets dark around 17:00, the day ends early in a cozy restaurant with Corsican specialties."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren ohne die Touristenströme; die dicken Mauern speichern die Kälte, tragen Sie also unbedingt eine warme Jacke.",
+                "hu": "Élvezze a belső tér nyugalmát a turisták tömege nélkül; a vastag falak tartják a hideget, ezért mindenképpen viseljen meleg kabátot.",
+                "ro": "Bucurați-vă de liniștea interiorului fără mulțimile de turiști; zidurile groase mențin frigul, deci asigurați-vă că purtați o jachetă groasă.",
+                "en": "Enjoy the peaceful interior without the tourist crowds; the thick stone walls hold the cold, so make sure to wear a warm jacket inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitadelle von Porto-Vecchio",
+                "hu": "Porto-Vecchio Citadella",
+                "ro": "Citadela din Porto-Vecchio",
+                "en": "Citadel of Porto-Vecchio"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterfernansicht von den Mauern ist spektakulär; ziehen Sie sich windfest an, da es auf den Höhen der Festung ziehen kann.",
+                "hu": "A tiszta téli időben a kilátás a falakról egészen messzire ellátszik; öltözzön szélállóan, mert a vár bástyáin ilyenkor metsző lehet a szél.",
+                "ro": "Vederea clară de iarnă de pe ziduri este spectaculoasă; îmbrăcați-vă cu haine rezistente la vânt, deoarece pe bastioane curentul este puternic.",
+                "en": "The clear winter long-distance views from the walls are spectacular; dress in windproof layers as it can be very drafty on the fortifications."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion de France",
+                "hu": "Bastion de France",
+                "ro": "Bastion de France",
+                "en": "Bastion de France"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Mittagslicht auf der Terrasse für Fotos; beachten Sie die kürzeren Winteröffnungszeiten für den Zugang zum Gebäude.",
+                "hu": "Használja ki az enyhe déli fényt a teraszon a fotózáshoz; figyeljen a rövidebb téli nyitvatartásra az épületbe való bejutáshoz.",
+                "ro": "Aprofitați de lumina blândă de la prânz pe terasă pentru fotografii; verificați programul scurt de iarnă pentru accesul în clădire.",
+                "en": "Take advantage of the mild midday light on the terrace for photos; check the shorter winter opening hours for access to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Porto-Vecchio",
+                "hu": "Porto-Vecchio Kikötő",
+                "ro": "Portul Porto-Vecchio",
+                "en": "Porto-Vecchio Marina"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am späten Nachmittag am Kai entlang, wenn das Licht golden wird; eine Thermoskanne mit heißem Tee macht die Pause am Wasser perfekt.",
+                "hu": "Sétáljon a rakparton késő délután, amikor a fények aranyszínűvé válnak; egy termosz forró tea tökéletessé teszi a pihenőt a vízparton.",
+                "ro": "Plimbați-vă pe chei spre sfârșitul amiezii când lumina devine aurie; un termos cu ceai fierbinte va face pauza lângă apă mult mai plăcută.",
+                "en": "Stroll along the quay in the late afternoon when the light turns golden; a thermos of hot tea makes the break by the water perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "La Plage Casadelmar",
+                "hu": "La Plage Casadelmar",
+                "ro": "La Plage Casadelmar",
+                "en": "La Plage Casadelmar"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Sonnenuntergang gegen 17:00 Uhr direkt am Meer; bringen Sie eine Decke mit, wenn Sie länger im Sand verweilen möchten.",
+                "hu": "Csodálja meg a 17:00 óra körüli naplementét közvetlenül a tengerparton; hozzon magával egy pokrócot, ha hosszabb időt töltene a homokban.",
+                "ro": "Admirați apusul de soare în jurul orei 17:00 direct pe malul mării; aduceți o pătură dacă doriți să stați mai mult timp pe nisip.",
+                "en": "Admire the sunset around 17:00 directly on the beach; bring a blanket if you wish to linger longer on the sand in the cool air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja Porto-Vecchio történelmi szívében kezdődik a Citadellánál és a Bastion de France-nál. Délben tekerjen le a nyüzsgő kikötőbe egy frissítő megállóra. Délután kövesse a festői tengerparti utat a Golfo di Sogno és a Grande Plage de Cala Rossa strandokhoz. Zárja az estét a Petite Plage de Cala Rossa strandnál, amely egy rejtett gyöngyszem, tökéletes a levezetéshez.",
         "ro": "Aventura ta pe bicicletă începe în inima istorică a orașului, la Citadelă și Bastion de France. La prânz, pedalați spre portul plin de viață. După-amiaza, urmați traseul pitoresc de coastă până la Plage de Golfo di Sogno și Grande Plage de Cala Rossa, unde apa vă cheamă. Încheiați seara la Petite Plage de Cala Rossa, o bijuterie ascunsă, perfectă pentru a vă relaxa.",
         "en": "Your cycling adventure begins in the historic heart of Porto-Vecchio at the Citadel and Bastion de France. Midday, pedal down to the lively Marina for a refreshing stop. In the afternoon, follow the scenic coastal route to Plage de Golfo di Sogno and Grande Plage de Cala Rossa, where the water beckons. End your evening at Petite Plage de Cala Rossa, a hidden gem perfect for winding down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, besonders auf den abfallenden Wegen zum Hafen. Vormittags nutzen wir die Zitadelle als Startpunkt mit vielen Unterstellmöglichkeiten. Mittags fahren wir vorsichtig entlang der Küste, wobei die Gischt und der Regen das Meer eins werden lassen. Nachmittags erreichen wir die Strände, die nun verlassen und wild wirken. Beenden Sie die Tour vor Einbruch der Dunkelheit.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, különösen a kikötő felé vezető lejtőkön. Délelőtt a citadella környékét használjuk bázisnak a sok fedett rész miatt. Délben óvatosan tekerünk a part mentén, ahol a tengeri permet és az eső összeolvad. Délutánra érjük el a strandokat, amik ilyenkor vadnak és elhagyatottnak tűnnek. A sötétedés előtt fejezze be a túrát.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență, mai ales pe pantele care coboară spre port. Dimineața folosim cetatea ca punct de plecare datorită numeroaselor adăposturi. La prânz pedalăm cu grijă pe coastă, unde spray-ul marin se îmbină cu ploaia. După-amiaza ajungem la plaje, care par sălbatice și pustii. Finalizați turul înainte de lăsarea întunericului.",
+            "en": "Cycling in the rain requires caution, especially on the slopes leading down to the marina. In the morning, use the citadel area as a base with its many sheltered spots. At noon, ride carefully along the coast where sea spray and rain merge. By afternoon, you reach the beaches, which look wild and deserted now. Make sure to finish your ride before it gets dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zitadelle von Porto-Vecchio",
+                "hu": "Porto-Vecchio Citadella",
+                "ro": "Citadela din Porto-Vecchio",
+                "en": "Citadel of Porto-Vecchio"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf den nassen Pflastersteinen; die Torbögen bieten guten Schutz bei plötzlichen Güssen.",
+                "hu": "Ellenőrizze a fékeket a vizes macskaköveken való indulás előtt; a várkapuk és boltívek jó védelmet nyújtanak a hirtelen záporok idején.",
+                "ro": "Verificați frânele înainte de a porni pe piatra cubică umedă; arcadele porților oferă protecție bună în timpul averselor bruște.",
+                "en": "Check your brakes before starting on the wet cobblestones; the gate arches provide good shelter during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion de France",
+                "hu": "Bastion de France",
+                "ro": "Bastion de France",
+                "en": "Bastion de France"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem überdachten Ort ab, während Sie die Aussicht genießen; tragen Sie eine helle Regenjacke für bessere Sichtbarkeit.",
+                "hu": "Támassza le kerékpárját egy fedett helyen, amíg a kilátást élvezi; viseljen élénk színű esőkabátot a jobb láthatóság érdekében.",
+                "ro": "Parcați bicicleta într-un loc acoperit în timp ce admirați vederea; purtați o pelerină reflectorizantă pentru o vizibilitate mai bună.",
+                "en": "Park your bike in a sheltered spot while enjoying the view; wear a bright-colored raincoat for better visibility in the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Porto-Vecchio",
+                "hu": "Porto-Vecchio Kikötő",
+                "ro": "Portul Porto-Vecchio",
+                "en": "Porto-Vecchio Marina"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Kurven auf den glatten Metallschienen am Hafenbecken; wärmen Sie sich kurz in einer Bar bei einem Kaffee auf.",
+                "hu": "Kerülje az éles kanyarokat a kikötő környéki csúszós fémfelületeken; melegedjen fel egy rövid kávészünettel valamelyik kikötői bárban.",
+                "ro": "Evitați virajele strânse pe suprafețele metalice alunecoase din port; încălziți-vă cu o pauză scurtă de cafea într-un bar din apropiere.",
+                "en": "Avoid sharp turns on the slippery metal surfaces near the harbor; warm up with a quick coffee break in one of the marina bars."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Golfo di Sogno",
+                "hu": "Golfo di Sogno Strand",
+                "ro": "Plaja Golfo di Sogno",
+                "en": "Plage de Golfo di Sogno"
+              },
+              "tip_5lang": {
+                "de": "Der sandige Boden kann bei Regen matschig werden, bleiben Sie auf den befestigten Wegen; die Bucht wirkt bei grauem Himmel sehr mystisch.",
+                "hu": "A homokos talaj esőben sárossá válhat, maradjon a szilárd burkolatú utakon; az öböl nagyon misztikus látványt nyújt szürke égbolt mellett.",
+                "ro": "Solul nisipos poate deveni noroios pe ploaie, rămâneți pe drumurile pavate; golful oferă o priveliște mistică sub cerul gri.",
+                "en": "The sandy ground can become muddy in the rain, stay on the paved paths; the bay looks very mystical under a grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage de Cala Rossa",
+                "hu": "Grande Plage de Cala Rossa",
+                "ro": "Marea Plajă Cala Rossa",
+                "en": "Grande Plage de Cala Rossa"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie Ihr Gepäck mit einer wasserdichten Hülle vor der Gischt; nutzen Sie die Zeit für einen kurzen, erfrischenden Spaziergang am Wasser.",
+                "hu": "Védje csomagjait vízhatlan huzattal a tengeri permet ellen; használja ki az időt egy rövid, frissítő sétára közvetlenül a vízparton.",
+                "ro": "Protejați-vă bagajele cu o husă impermeabilă împotriva spray-ului marin; profitați de moment pentru o scurtă plimbare revigorantă pe mal.",
+                "en": "Protect your belongings with a waterproof cover against the sea spray; take a short, refreshing walk along the water while it's empty."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite Plage de Cala Rossa",
+                "hu": "Petite Plage de Cala Rossa",
+                "ro": "Mica Plajă Cala Rossa",
+                "en": "Petite Plage de Cala Rossa"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können bei Nässe extrem rutschig sein, bleiben Sie vorsichtig; beenden Sie die Tour frühzeitig, da die Sicht im Regen abnimmt.",
+                "hu": "A sziklák nedvesen rendkívül csúszósak lehetnek, maradjon óvatos; fejezze be korán a túrát, mert esőben gyorsabban romlik a láthatóság.",
+                "ro": "Stâncile pot fi extrem de alunecoase când sunt ude, fiți prudenți; finalizați turul devreme, deoarece vizibilitatea scade rapid pe ploaie.",
+                "en": "The rocks can be extremely slippery when wet, so please stay cautious; finish the tour early as visibility decreases quickly in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise im Winter ist perfekt für eine aktive Radtour ohne die Hitze. Morgens erkunden wir die leeren Gassen der Zitadelle im weichen Licht. Mittags führt der Weg entlang der Küste, wobei die klare Luft eine fantastische Sicht ermöglicht. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir die Rückkehr für den frühen Nachmittag ein, bevor es empfindlich kalt wird.",
+            "hu": "A hűvös téli szellő tökéletes egy aktív kerékpártúrához a nyári hőség nélkül. Reggel az üres citadellát fedezzük fel a lágy fényekben. Délben az út a part mentén vezet, ahol a tiszta levegő fantasztikus kilátást biztosít. Mivel a nap már 17:00 körül lemegy, a visszatérést kora délutánra tervezzük, mielőtt igazán lehűlne az idő.",
+            "ro": "Briza răcoroasă de iarnă este perfectă pentru o tură activă cu bicicleta fără arșița verii. Dimineața explorăm străzile pustii ale cetății în lumina blândă. La prânz drumul ne poartă pe coastă, unde aerul curat permite o vizibilitate fantastică. Deoarece soarele apune deja în jur de 17:00, planificăm întoarcerea devreme, înainte de a se face frig.",
+            "en": "The cool winter breeze is perfect for an active bike ride without the summer heat. In the morning, explore the empty citadel streets in the soft light. At noon, the path leads along the coast where the clear air allows for fantastic views. Since the sun sets around 17:00, plan to head back by early afternoon before the temperature drops significantly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zitadelle von Porto-Vecchio",
+                "hu": "Porto-Vecchio Citadella",
+                "ro": "Citadela din Porto-Vecchio",
+                "en": "Citadel of Porto-Vecchio"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kühlen Fahrtwind in den schattigen Gassen; genießen Sie die freie Fahrt ohne Fußgängermassen.",
+                "hu": "Viseljen kesztyűt a hűvös menetszél ellen az árnyékos sikátorokban; élvezze a szabad haladást a gyalogos tömeg hiánya miatt.",
+                "ro": "Purtați mănuși împotriva vântului rece în zonele umbrite; bucurați-vă de drumul liber datorită absenței mulțimilor de pietoni.",
+                "en": "Wear gloves against the cool wind while riding in the shaded alleys; enjoy the clear paths without the summer pedestrian crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion de France",
+                "hu": "Bastion de France",
+                "ro": "Bastion de France",
+                "en": "Bastion de France"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne auf der Bastion wärmt angenehm bei einer kurzen Rast; nutzen Sie die klare Sicht für Panoramabilder der Bucht.",
+                "hu": "A bástyán megcsillanó téli napfény kellemesen melegít egy rövid pihenő alatt; használja ki a tiszta időt az öbölről készített panorámaképekhez.",
+                "ro": "Soarele de iarnă pe bastion vă va încălzi plăcut în timpul unei scurte pauze; profitați de vizibilitate pentru poze panoramice cu golful.",
+                "en": "The winter sun on the bastion warms you up during a short break; take advantage of the clear air for panoramic photos of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Porto-Vecchio",
+                "hu": "Porto-Vecchio Kikötő",
+                "ro": "Portul Porto-Vecchio",
+                "en": "Porto-Vecchio Marina"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter sehr ruhig, ideal für eine entspannte Fahrt am Kai; ziehen Sie eine winddichte Schicht über Ihre Kleidung.",
+                "hu": "A kikötő télen nagyon csendes, ideális egy nyugodt tekeréshez a rakparton; vegyen fel egy szélálló réteget a ruházata fölé.",
+                "ro": "Portul este foarte liniștit iarna, ideal pentru o plimbare relaxată pe chei; purtați un strat rezistent la vânt peste haine.",
+                "en": "The marina is very quiet in winter, ideal for a relaxed ride along the quay; wear a windproof outer layer to stay warm near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Golfo di Sogno",
+                "hu": "Golfo di Sogno Strand",
+                "ro": "Plaja Golfo di Sogno",
+                "en": "Plage de Golfo di Sogno"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und machen Sie einen Strandspaziergang; die Wintersonne spiegelt sich wunderschön im flachen Wasser der Bucht.",
+                "hu": "Parkolja le a bringát és tegyen egy sétát a parton; a téli napfény gyönyörűen csillan meg az öböl sekély vizén.",
+                "ro": "Parcați bicicleta și faceți o plimbare pe plajă; soarele de iarnă se reflectă superb în apa puțin adâncă a golfului.",
+                "en": "Park your bike and take a short walk on the beach; the winter sun reflects beautifully on the shallow waters of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage de Cala Rossa",
+                "hu": "Grande Plage de Cala Rossa",
+                "ro": "Marea Plajă Cala Rossa",
+                "en": "Grande Plage de Cala Rossa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem berühmten Strand; da die Schatten länger werden, halten Sie sich durch Bewegung warm.",
+                "hu": "Élvezze a magányt ezen a híres strandon; ahogy az árnyékok nyúlnak, maradjon mozgásban, hogy ne fázzon meg a hűvösödő időben.",
+                "ro": "Bucurați-vă de singurătate pe această plajă faimoasă; pe măsură ce umbrele se lungesc, mențineți-vă activ pentru a nu vă fi frig.",
+                "en": "Enjoy the solitude on this famous beach; as the shadows grow longer, keep moving to stay warm in the cooling air."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite Plage de Cala Rossa",
+                "hu": "Petite Plage de Cala Rossa",
+                "ro": "Mica Plajă Cala Rossa",
+                "en": "Petite Plage de Cala Rossa"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie sich vor 16:30 Uhr auf den Rückweg, um nicht im Dunkeln zu fahren; prüfen Sie Ihre Fahrradbeleuchtung für den Heimweg.",
+                "hu": "Induljon vissza 16:30 előtt, hogy ne kelljen sötétben tekernie; ellenőrizze a kerékpár világítását a hazafelé vezető útra.",
+                "ro": "Porniți înapoi înainte de ora 16:30 pentru a nu pedala pe întuneric; verificați luminile bicicletei pentru drumul spre casă.",
+                "en": "Start your return journey before 16:30 to avoid cycling in the dark; check your bike lights before heading back to the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen végig Korzika legjaván, az óvárosban található történelmi templomtól és a Bastion de France-tól indulva. Délben délre indul a lélegzetelállító Santa Giulia és Palombaggia strandokhoz. Délután autózzon északra a nyüzsgő Saint-Cyprien strandhoz. Fejezze be az estét a félreeső Lavu Santu strandon, megtapasztalva a tiszta mediterrán nyugalmat.",
         "ro": "Conduceți prin cele mai bune locuri din Corsica, începând de la Biserica istorică și Bastionul din centru. Prânzul vă duce spre sud, către plajele uluitoare Santa Giulia și Palombaggia. După-amiaza, conduceți spre nord către plaja vibrantă Saint-Cyprien. Încheiați seara la plaja retrasă Lavu Santu, experimentând pură liniște mediteraneană într-un peisaj de vis.",
         "en": "Drive through the best of Corsica, starting at the historic Church and Bastion de France in Porto-Vecchio's center. Midday takes you south to the breathtaking Santa Giulia and Palombaggia beaches, famed for their red rocks. In the afternoon, drive north to the vibrant Plage de Saint-Cyprien. Finish the evening at the secluded Plage de Lavu Santu, experiencing pure Mediterranean tranquility."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist bei Regen die komfortabelste Option, um die Küste zu erkunden. Morgens besichtigen wir die Sehenswürdigkeiten im Zentrum und nutzen das Auto als trockene Basis. Mittags fahren wir zu den berühmten Stränden, die bei Regen eine ganz eigene, mystische Aura besitzen. Nachmittags genießen wir die Aussicht aus dem warmen Fahrzeug, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "Az autós túra a legkényelmesebb opció esőben a partvidék felfedezéséhez. Reggel a központ látnivalóit nézzük meg, az autót száraz bázisként használva. Délben a híres strandok felé vesszük az irányt, amik esőben egészen sajátos, misztikus aurával rendelkeznek. Délután a meleg autóból élvezzük a kilátást, miközben kint az eső veri az ablakokat.",
+            "ro": "O excursie cu mașina este cea mai confortabilă opțiune pe ploaie pentru a explora coasta. Dimineața vizităm obiectivele din centru, folosind mașina ca bază uscată. La prânz ne îndreptăm spre plajele faimoase, care au o aură mistică sub ploaie. După-amiaza ne bucurăm de priveliște din interiorul cald al vehiculului, în timp ce afară plouă torențial.",
+            "en": "A car tour is the most comfortable option in the rain to explore the coastline. In the morning, visit the sights in the center, using the car as a dry base. At noon, head towards the famous beaches, which have a very special, mystical aura in the rain. In the afternoon, enjoy the views from the warm vehicle while the rain drums against the windows outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahen Parkhaus, um den Weg im Regen kurzzuhalten; genießen Sie die trockene, spirituelle Atmosphäre im Inneren.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy lerövidítse az esőben megtett utat; élvezze a belső tér száraz, spirituális hangulatát.",
+                "ro": "Parcați în garajul din apropiere pentru a scurta drumul prin ploaie; bucurați-vă de atmosfera spirituală și uscată din interior.",
+                "en": "Park in the nearby parking garage to keep the walk in the rain short; enjoy the dry, spiritual atmosphere inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion de France",
+                "hu": "Bastion de France",
+                "ro": "Bastion de France",
+                "en": "Bastion de France"
+              },
+              "tip_5lang": {
+                "de": "Die Bastion bietet innen Schutz; nutzen Sie die kurzen Regenpausen für einen schnellen Blick von der Terrasse auf das graue Meer.",
+                "hu": "A bástya belső tere védelmet nyújt; használja ki a rövid esőszüneteket egy gyors pillantásra a teraszról a szürke tengerre.",
+                "ro": "Bastionul oferă adăpost în interior; profitați de scurtele pauze de ploaie pentru o privire rapidă de pe terasă spre marea gri.",
+                "en": "The bastion provides shelter inside; use short breaks in the rain for a quick look from the terrace at the dramatic grey sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Santa Giulia",
+                "hu": "Santa Giulia Strand",
+                "ro": "Plaja Santa Giulia",
+                "en": "Santa Giulia Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und bewundern Sie die Bucht; die Farben des Wassers wirken auch bei grauem Himmel faszinierend.",
+                "hu": "Heves esőzés esetén maradjon az autóban és csodálja az öblöt; a víz színei még szürke égbolt mellett is lenyűgözőek maradnak.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați golful; culorile apei rămân fascinante chiar și sub cerul gri.",
+                "en": "In case of heavy rain, stay in the car and admire the bay; the water's colors remain fascinating even under a grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Palombaggia",
+                "hu": "Palombaggia Strand",
+                "ro": "Plaja Palombaggia",
+                "en": "Palombaggia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die roten Felsen leuchten bei Nässe besonders intensiv; ein kurzer Spaziergang mit Gummistiefeln ist hier ein Erlebnis.",
+                "hu": "A vörös sziklák nedvesen különösen intenzív színben pompáznak; egy rövid séta gumicsizmában ilyenkor igazi élmény a parton.",
+                "ro": "Stâncile roșii strălucesc intens când sunt ude; o scurtă plimbare cu cizme de cauciuc pe plajă este o experiență deosebită.",
+                "en": "The red rocks glow with particular intensity when wet; a short walk in rubber boots on the beach is quite an experience now."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Saint-Cyprien",
+                "hu": "Saint-Cyprien Strand",
+                "ro": "Plaja Saint-Cyprien",
+                "en": "Plage de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob eines der Strandrestaurants geöffnet ist, um den Blick trocken zu genießen; die Brandung ist bei Regen oft spektakulär.",
+                "hu": "Ellenőrizze, hogy nyitva van-e valamelyik parti étterem a kilátáshoz; a hullámtörés esőben gyakran látványosabb a megszokottnál.",
+                "ro": "Verificați dacă restaurantele de pe plajă sunt deschise pentru a vedea marea la adăpost; valurile sunt adesea spectaculoase pe ploaie.",
+                "en": "Check if any beach restaurants are open to enjoy the view while dry; the surf is often more spectacular than usual during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Lavu Santu",
+                "hu": "Lavu Santu Strand",
+                "ro": "Plaja Lavu Santu",
+                "en": "Plage de Lavu Santu"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen rutschig sein, fahren Sie vorsichtig; genießen Sie die Einsamkeit am Ende der Welt im Schutze Ihres Wagens.",
+                "hu": "Az odavezető út esőben csúszós lehet, vezessen óvatosan; élvezze a „világ vége” hangulatot az autója biztonságából.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie, conduceți cu prudență; bucurați-vă de atmosfera de izolare din siguranța mașinii.",
+                "en": "The access road can be slippery in the rain, drive carefully; enjoy the 'end of the world' feeling from the safety of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenfahrten bieten leere Straßen und glasklare Panoramen. Vormittags erkunden wir Porto-Vecchio ohne Parkplatzsorgen. Mittags fahren wir zu den südlichen Buchten, wo das türkisfarbene Wasser im harten Winterlicht fast unwirklich leuchtet. Da die Sonne gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht am Nachmittag für die Fahrt entlang der malerischen Küstenstraße.",
+            "hu": "A téli tengerparti autózás üres utakat és kristálytiszta panorámát kínál. Reggel Porto-Vecchiót fedezzük fel parkolási gondok nélkül. Délben a déli öblök felé tartunk, ahol a türkizkék víz szinte valószerűtlenül ragyog a téli fényben. Mivel a nap 17:00 körül lemegy, a délutáni aranyló fényeket a festői part menti úton töltjük.",
+            "ro": "Plimbările cu mașina pe coastă iarna oferă drumuri libere și panorame clare. Dimineața explorăm Porto-Vecchio fără grija parcării. La prânz ne îndreptăm spre golfurile din sud, unde apa turcoaz strălucește ireal în lumina iernii. Deoarece soarele apune în jur de 17:00, profităm de lumina aurie de după-amiază pe drumul de coastă.",
+            "en": "Winter coastal drives offer empty roads and crystal-clear panoramas. In the morning, explore Porto-Vecchio without any parking worries. At noon, head to the southern bays where the turquoise water glows almost unreal in the winter light. Since the sun sets around 17:00, use the golden afternoon light for a scenic drive along the coast road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die einfache Parkplatzsuche direkt im Zentrum; die Kirche ist im Winter ein Ort der absoluten Ruhe und Besinnung.",
+                "hu": "Használja ki az egyszerű parkolási lehetőséget közvetlenül a központban; a templom télen az abszolút nyugalom és elmélyülés helyszíne.",
+                "ro": "Profitați de parcarea ușoară chiar în centrul orașului; biserica este un loc de liniște absolută și meditație în timpul iernii.",
+                "en": "Take advantage of the easy parking right in the city center; the church is a place of absolute peace and reflection in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion de France",
+                "hu": "Bastion de France",
+                "ro": "Bastion de France",
+                "en": "Bastion de France"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter reicht oft bis nach Sardinien; kleiden Sie sich warm, da der Wind auf der Bastion im Winter beißend sein kann.",
+                "hu": "A téli látótávolság gyakran Szardíniáig is elér; öltözzön melegen, mert a bástyán a szél télen metszően hideg lehet.",
+                "ro": "Vizibilitatea iarna ajunge adesea până în Sardinia; îmbrăcați-vă gros, deoarece vântul de pe bastion poate fi tăios iarna.",
+                "en": "Winter visibility often extends all the way to Sardinia; dress warmly as the wind on the bastion can be biting in the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Santa Giulia",
+                "hu": "Santa Giulia Strand",
+                "ro": "Plaja Santa Giulia",
+                "en": "Santa Giulia Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand bei Wintersonne ist traumhaft; bringen Sie eine Thermoskanne mit warmem Kakao für die Pause mit.",
+                "hu": "Egy séta az üres strandon a téli napsütésben álomszerű; hozzon magával egy termosz forró kakaót a parton töltött pihenőhöz.",
+                "ro": "O plimbare pe plaja pustie sub soarele de iarnă este de vis; aduceți un termos cu cacao caldă pentru pauza de pe malul mării.",
+                "en": "A walk on the empty beach in the winter sun is dreamlike; bring a thermos with hot cocoa for your break on the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Palombaggia",
+                "hu": "Palombaggia Strand",
+                "ro": "Plaja Palombaggia",
+                "en": "Palombaggia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien bieten Schutz vor dem kühlen Wind; genießen Sie das fast menschenleere Naturparadies in der klaren Winterluft.",
+                "hu": "A fenyőfák védelmet nyújtanak a hűvös szél ellen; élvezze a szinte néptelen paradicsomot a tiszta téli levegőben.",
+                "ro": "Pinii oferă protecție împotriva vântului rece; bucurați-vă de paradisul natural aproape pustiu în aerul curat de iarnă.",
+                "en": "The pine trees offer protection from the cool wind; enjoy this natural paradise almost entirely to yourself in the clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Saint-Cyprien",
+                "hu": "Saint-Cyprien Strand",
+                "ro": "Plaja Saint-Cyprien",
+                "en": "Plage de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am späten Nachmittag ist ideal für Landschaftsfotos; achten Sie auf die Temperatur, die nach Sonnenuntergang stark fällt.",
+                "hu": "A késő délutáni lágy fények ideálisak tájképfotózáshoz; figyeljen a hőmérsékletre, ami naplemente után hirtelen süllyedni kezd.",
+                "ro": "Lumina blândă de la sfârșitul amiezii este ideală pentru fotografii; atenție la temperatură, care scade brusc după apus.",
+                "en": "The soft late afternoon light is ideal for landscape photography; keep an eye on the temperature, which drops sharply after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Lavu Santu",
+                "hu": "Lavu Santu Strand",
+                "ro": "Plaja Lavu Santu",
+                "en": "Plage de Lavu Santu"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den einsamsten Ort der Tour kurz vor der Dämmerung; schalten Sie das Autolicht frühzeitig ein für den Weg zurück in die Stadt.",
+                "hu": "Élje át a túra legmagányosabb helyszínét közvetlenül szürkület előtt; kapcsolja fel időben az autó lámpáit a városba vezető úton.",
+                "ro": "Experimentați cel mai izolat loc al turului chiar înainte de amurg; aprindeți luminile mașinii din timp pentru drumul spre oraș.",
+                "en": "Experience the most solitary spot of the tour just before dusk; turn on your car lights early for the drive back to the city."
+              }
+            }
+          ]
+        }
       }
     }
   }

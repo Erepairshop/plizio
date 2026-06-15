@@ -137,6 +137,168 @@
         "hu": "A reggel a Museumsschiff Luise tengeri hangulatával indul, majd a nyugodt déli strandra vezet. Délben Lobber Ort érintetlen szikláit fedezheti fel. Délután a kutyabarát partszakaszhoz sétálva élvezheti a tengeri szellőt. Az este a végtelen Großer Strand finom homokján, egy csendes sétával zárul a naplemente fényeiben.",
         "ro": "Dimineața începe maritim la Museumsschiff Luise și vă poartă spre relaxanta plajă din sud. La amiază explorați stâncile aspre de la pitorescul Lobber Ort. După-amiaza vă plimbați agale spre plaja câinilor, unde savurați briza proaspătă. Seara se încheie liniștit cu o plimbare lungă pe nisipul nesfârșit de la Großer Strand.",
         "en": "The morning begins with a maritime touch at Museumsschiff Luise, leading to the relaxing south beach. At midday, you will explore the rugged cliffs at the natural Lobber Ort. The afternoon invites you for a stroll to the dog-friendly beach to enjoy the fresh breeze. Your evening concludes peacefully along the seemingly endless Great Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Museumsschiff Luise perfekten Schutz vor dem Küstenregen. Mittags wandern wir am Südstrand entlang, wo die aufgewühlte Ostsee eine dramatische Kulisse bildet. Nachmittags führen die Wege zum Lobber Ort durch mystischen Nebel. Abends lassen wir den Tag am Großen Strand ausklingen, während der Regen sanft auf die Dünen prasselt und die Luft erfrischt.",
+            "hu": "Reggel a Luise múzeumhajó belső terei nyújtanak menedéket a tengerparti eső elől. Délben a Südstrand dűnéi mentén sétálunk, ahol a párás levegőben felerősödik a sós víz illata. Délután a Lobber Ort felé vezető ösvények ködbe burkolóznak. Este a Großer Strand partján zárjuk a napot, figyelve a hullámok játékát a szürke égbolt alatt, vízálló cipőben.",
+            "ro": "Dimineața, nava-muzeu Luise oferă adăpostul perfect împotriva ploii de pe coastă. La prânz, ne plimbăm de-a lungul Südstrand, unde marea agitată creează un decor dramatic. După-amiaza, potecile spre Lobber Ort sunt învăluite într-o ceață mistică. Seara, încheiem ziua la Großer Strand, în timp ce ploaia cade ușor peste dune, împrospătând aerul curat al mării.",
+            "en": "In the morning, the museum ship Luise provides perfect shelter from the coastal rain. At noon, we walk along Südstrand, where the churning Baltic Sea creates a dramatic backdrop. In the afternoon, the paths to Lobber Ort are shrouded in mystical mist. In the evening, we end the day at Großer Strand, watching the rain hit the dunes and breathing in the fresh salt air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museumsschiff Luise",
+                "hu": "Museumsschiff Luise",
+                "ro": "Museumsschiff Luise",
+                "en": "Museumsschiff Luise"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause unter Deck, um die maritime Geschichte der Insel Rügen hautnah zu erleben; ein stabiler Regenschirm ist für den Weg zum Schiff unerlässlich.",
+                "hu": "Használja ki az esőszünetet a fedélzet alatt, hogy felfedezze Rügen tengerészeti múltját; egy masszív esernyő nélkülözhetetlen a hajóhoz vezető rövid úton.",
+                "ro": "Profită de pauza de ploaie sub punte pentru a descoperi istoria maritimă a insulei Rügen; o umbrelă rezistentă este esențială pentru drumul spre navă.",
+                "en": "Take advantage of the rain break below deck to experience the maritime history of Rügen island; a sturdy umbrella is essential for the walk to the ship."
+              }
+            },
+            {
+              "name": {
+                "de": "Südstrand",
+                "hu": "Südstrand",
+                "ro": "Südstrand",
+                "en": "Südstrand"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das faszinierende Spiel der Regenwolken über der offenen See von einer geschützten Düne aus; wasserfeste Wanderschuhe schützen vor nassem Sand.",
+                "hu": "Figyelje meg az esőfelhők lenyűgöző játékát a nyílt tenger felett egy védett dűne mögül; a vízálló bakancs megvéd a nedves homoktól és a tócsáktól.",
+                "ro": "Observați jocul fascinant al norilor de ploaie deasupra mării deschise de pe o dună protejată; bocancii impermeabili vă vor proteja de nisipul ud.",
+                "en": "Watch the fascinating play of rain clouds over the open sea from a sheltered dune; waterproof hiking boots will protect you from the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Lobber Ort",
+                "hu": "Lobber Ort",
+                "ro": "Lobber Ort",
+                "en": "Lobber Ort"
+              },
+              "tip_5lang": {
+                "de": "Die Steilküste wirkt im Regen besonders wild, doch Vorsicht auf den rutschigen Pfaden; halten Sie Ihre Kamera unter der Regenjacke trocken für Nebelaufnahmen.",
+                "hu": "A meredek part esőben különösen vadnak tűnik, de ügyeljen a csúszós ösvényekre; tartsa fényképezőgépét a kabát alatt, hogy megvédje a sós párától.",
+                "ro": "Coasta abruptă pare deosebit de sălbatică în ploaie, dar atenție la potecile alunecoase; țineți camera sub jachetă pentru a o proteja de umezeală.",
+                "en": "The steep coast looks particularly wild in the rain, but be careful on the slippery paths; keep your camera dry under your jacket for misty shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Hundestrand",
+                "hu": "Hundestrand",
+                "ro": "Hundestrand",
+                "en": "Hundestrand"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang am Wasser, bei dem das Trommeln des Regens die Wellen übertönt; eine winddichte Regenjacke ist bei auflandigem Wind ein Muss.",
+                "hu": "Magányos séta a vízparton, ahol az eső kopogása elnyomja a hullámokat; a szélálló esőkabát kötelező, ha a tenger felől fúj a hűvös szél.",
+                "ro": "O plimbare solitară pe malul apei, unde sunetul ploii acoperă zgomotul valurilor; o jachetă de ploaie rezistentă la vânt este obligatorie pe coastă.",
+                "en": "A lonely walk by the water where the drumming of the rain drowns out the waves; a windproof raincoat is a must when the wind blows from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand",
+                "hu": "Großer Strand",
+                "ro": "Großer Strand",
+                "en": "Großer Strand"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit dem Blick auf den verregneten Horizont; suchen Sie bei starkem Schauer schnell Schutz in den nahen Strandzugangshütten.",
+                "hu": "Zárja a túrát az esős horizont látványával; heves zápor esetén keressen gyorsan menedéket a közeli strandbejárati bódék fedele alatt.",
+                "ro": "Încheiați turul cu o privire spre orizontul ploios; în caz de aversă puternică, căutați rapid adăpost în cabinele de la intrarea pe plajă.",
+                "en": "Finish the tour with a view of the rainy horizon; in case of heavy showers, quickly seek shelter in the nearby beach access huts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frostig am Hafen, wo Eiskristalle das Museumsschiff zieren. Mittags wandern wir durch die klare, kalte Luft der Dünenlandschaft. Am Nachmittag genießen wir die karge Schönheit am Lobber Ort, bevor die Sonne früh sinkt. Gegen 17:00 Uhr hüllt die Dämmerung den Großen Strand in ein friedliches Blau, perfekt für einen ruhigen Abschluss.",
+            "hu": "A téli reggel fagyosan indul a kikötőben, jégkristályok díszítik a múzeumhajót. Délben a dűnék tiszta, hideg levegőjében túrázunk. Délután a Lobber Ort kopár szépségét élvezzük a korai naplemente előtt. 17:00 óra körül a szürkület békés kékbe öltözteti a Großer Strand partját, ideális a nap csendes lezárásához.",
+            "ro": "Dimineața de iarnă începe cu îngheț în port, unde cristale de gheață decorează nava-muzeu. La prânz, mergem prin aerul rece și curat al dunelor. După-amiaza, ne bucurăm de frumusețea austeră de la Lobber Ort înainte de apusul devreme. În jurul orei 17:00, amurgul îmbracă Großer Strand în albastru liniștit, perfect pentru un final calm.",
+            "en": "The winter morning starts frosty at the harbor, with ice crystals decorating the museum ship. At noon, we hike through the crisp, cold air of the dunes. In the afternoon, we enjoy the stark beauty of Lobber Ort before the early sunset. Around 17:00, twilight wraps Großer Strand in a peaceful blue, perfect for a quiet conclusion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museumsschiff Luise",
+                "hu": "Museumsschiff Luise",
+                "ro": "Museumsschiff Luise",
+                "en": "Museumsschiff Luise"
+              },
+              "tip_5lang": {
+                "de": "Das Schiff wirkt im Winter wie eine eiserne Zeitkapsel; tragen Sie dicke Wollsocken, da die Metallböden im Inneren sehr kalt werden können.",
+                "hu": "A hajó télen olyan, mint egy vasból készült időkapszula; viseljen vastag gyapjúzoknit, mert a belső fémpadló nagyon hideg lehet ilyenkor.",
+                "ro": "Nava arată iarna ca o capsulă a timpului din fier; purtați șosete groase de lână, deoarece podelele metalice pot fi foarte reci în interior.",
+                "en": "The ship feels like an iron time capsule in winter; wear thick wool socks as the metal floors inside can get very cold during the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Südstrand",
+                "hu": "Südstrand",
+                "ro": "Südstrand",
+                "en": "Südstrand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am gefrorenen Ufersaum; die trockene Kälte macht das Atmen leicht, erfordert aber einen warmen Schal für das Gesicht.",
+                "hu": "Élvezze a magányt a fagyos partvonalon; a száraz hideg megkönnyíti a légzést, de a szél miatt egy meleg sál elengedhetetlen az arc védelmére.",
+                "ro": "Bucurați-vă de singurătate pe malul înghețat; frigul uscat face respirația ușoară, dar necesită o eșarfă caldă pentru protecția feței.",
+                "en": "Enjoy the solitude along the frozen shoreline; the dry cold makes breathing easy, but requires a warm scarf to protect your face from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Lobber Ort",
+                "hu": "Lobber Ort",
+                "ro": "Lobber Ort",
+                "en": "Lobber Ort"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von der Klippe ist bei klarer Winterluft besonders weit; achten Sie auf den frühen Sonnenuntergang gegen 16:30 Uhr für den Rückweg.",
+                "hu": "A kilátás a szikláról a tiszta téli levegőben különösen messzire nyúlik; figyeljen a korai, 16:30 körüli naplementére a visszatéréshez.",
+                "ro": "Vederea de pe faleză este deosebit de clară în aerul rece de iarnă; aveți grijă la apusul devreme, în jurul orei 16:30, pentru drumul de întoarcere.",
+                "en": "The view from the cliff is particularly far-reaching in the clear winter air; mind the early sunset around 16:30 for your return journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Hundestrand",
+                "hu": "Hundestrand",
+                "ro": "Hundestrand",
+                "en": "Hundestrand"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Wintermeditation am Meer; Thermounterwäsche ist bei den beißenden Ostwinden auf der freien Fläche unerlässlich.",
+                "hu": "Csendes hely egy téli tengerparti meditációhoz; a metsző keleti szél miatt a thermo fehérnemű elengedhetetlen ezen a nyitott területen.",
+                "ro": "Un loc liniștit pentru o meditație de iarnă pe malul mării; lenjeria termică este esențială din cauza vântului tăios de est pe câmp deschis.",
+                "en": "A quiet spot for a winter meditation by the sea; thermal underwear is essential against the biting east winds on this open stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand",
+                "hu": "Großer Strand",
+                "ro": "Großer Strand",
+                "en": "Großer Strand"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die blaue Stunde am Strand; die reflektierenden Eiskristalle im Sand bieten ein magisches Fotomotiv kurz vor der Dunkelheit.",
+                "hu": "Élje át a kék órát a parton; a homokban megcsillanó jégkristályok mágikus fotótémát kínálnak közvetlenül a sötétedés beállta előtt.",
+                "ro": "Experimentați ora albastră pe plajă; cristalele de gheață care reflectă lumina în nisip oferă un subiect foto magic înainte de întuneric.",
+                "en": "Experience the blue hour on the beach; the reflective ice crystals in the sand offer a magical photo motive just before darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Reggel a Schafberg lankáitól a csendes Strand Kleinhagen felé teker, élvezve a természet nyugalmát. Délben a helyi Schulmuseum történelmébe és a különleges sós mocsarak világába merül. Délután a Museumsschiff Luise hajójához és Lobber Ort szikláihoz kerekezik. Este a Großer Strand végtelen partján pihenheti ki a nap fáradalmait.",
         "ro": "Dimineața pedalați relaxat de la Schafberg la Strand Kleinhagen, savurând liniștea naturii. La amiază descoperiți istoria locală la Schulmuseum și explorați mlaștinile sărate. După-amiaza, traseul vă duce la nava istorică Luise și la stâncile de la Lobber Ort. Seara vă relaxați pe întinderea vastă de la Großer Strand, privind apusul.",
         "en": "In the morning, you will cycle from Schafberg to Strand Kleinhagen, enjoying the natural tranquility. Midday immerses you in local history at the Schulmuseum and the unique salt marshes. The afternoon route leads to the historic museum ship Luise and the rugged cliffs of Lobber Ort. The evening is spent relaxing on the expansive Great Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet am Schafberg, wo der Regen die Wiesen tiefgrün färbt. Mittags radeln wir vorsichtig über nasse Wege zum Schulmuseum. Am Nachmittag trotzen wir dem Wind bei den Salzwiesen und dem Museumsschiff. Abends erreichen wir den Großen Strand, während die Reifen leise durch die Pfützen gleiten und die salzige Gischt das Gesicht erfrischt.",
+            "hu": "A kerékpáros nap a Schafbergnél indul, ahol az eső mélyzöldre festi a réteket. Délben óvatosan tekerünk a vizes utakon a Schulmuseum felé. Délután dacolunk a széllel a sós mocsaraknál és a múzeumhajónál. Este érjük el a Großer Strandot, miközben a kerekek halkan suhannak a tócsákban a sós permetben.",
+            "ro": "Ziua de ciclism începe la Schafberg, unde ploaia colorează pajiștile în verde intens. La prânz, pedalăm cu grijă pe drumurile ude spre Schulmuseum. După-amiaza, sfidăm vântul la mlaștinile sărate și la nava-muzeu. Seara, ajungem la Großer Strand, în timp ce anvelopele alunecă silențios prin bălți.",
+            "en": "The cycling day starts at Schafberg, where rain turns the meadows deep green. At noon, we cycle carefully over wet paths towards the Schulmuseum. In the afternoon, we brave the wind at the salt marshes and the museum ship. In the evening, we reach Großer Strand, with tires gliding quietly through puddles and salt spray on our faces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schafberg bei Mariendorf",
+                "hu": "Schafberg bei Mariendorf",
+                "ro": "Schafberg bei Mariendorf",
+                "en": "Schafberg bei Mariendorf"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die verregnete Boddenlandschaft; tragen Sie eine Regenhose, da das Hinterrad viel Wasser aufwirbeln kann.",
+                "hu": "Élvezze a kilátást az esős Bodden-táj felett; viseljen esőnadrágot, mert a hátsó kerék sok vizet verhet fel a vizes füvön és úton.",
+                "ro": "Bucurați-vă de priveliștea largă peste peisajul plouat; purtați pantaloni de ploaie, deoarece roata din spate poate arunca multă apă.",
+                "en": "Enjoy the wide view over the rainy Bodden landscape; wear rain pants as the rear wheel can kick up a lot of water on wet paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Kleinhagen",
+                "hu": "Strand Kleinhagen",
+                "ro": "Strand Kleinhagen",
+                "en": "Strand Kleinhagen"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt an der Küste, wo die Regentropfen im Sand versickern; Parken Sie das Rad sicher auf befestigtem Grund, um Einsinken zu vermeiden.",
+                "hu": "Rövid megálló a parton, ahol az esőcseppek elnyelődnek a homokban; parkolja le a bringát szilárd talajon, hogy elkerülje az elsüllyedést.",
+                "ro": "O scurtă oprire pe coastă, unde picăturile de ploaie se scurg în nisip; parcați bicicleta pe teren solid pentru a evita scufundarea.",
+                "en": "A short stop on the coast where raindrops disappear into the sand; park your bike on firm ground to avoid it sinking into the wet mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Schulmuseum",
+                "hu": "Schulmuseum",
+                "ro": "Schulmuseum",
+                "en": "Schulmuseum"
+              },
+              "tip_5lang": {
+                "de": "Das gemütliche Museum ist der ideale Ort, um sich aufzuwärmen und abzutrocknen; nutzen Sie den überdachten Eingang für Ihre Fahrradtaschen.",
+                "hu": "A barátságos múzeum ideális hely a felmelegedésre és a száradásra; használja a fedett bejáratot a kerékpáros táskák tárolására.",
+                "ro": "Muzeul primitor este locul ideal pentru a vă încălzi și usca; folosiți intrarea acoperită pentru a vă lăsa gențile de bicicletă.",
+                "en": "The cozy museum is the ideal place to warm up and dry off; use the sheltered entrance area to keep your bike bags dry during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Salzwiesen bei Middelhagen",
+                "hu": "Salzwiesen bei Middelhagen",
+                "ro": "Salzwiesen bei Middelhagen",
+                "en": "Salzwiesen bei Middelhagen"
+              },
+              "tip_5lang": {
+                "de": "Die Wiesen duften im Regen intensiv nach Meer und Kräutern; fahren Sie langsam, da Holzstege in der Nähe bei Nässe extrem glatt sind.",
+                "hu": "A rétek esőben intenzív tenger- és gyógynövényillatot árasztanak; tekerjen lassan, mert a közeli fapadlók nedvesen rendkívül csúszósak.",
+                "ro": "Pajiștile miros intens a mare și ierburi în ploaie; pedalați încet, deoarece platformele de lemn din apropiere sunt extrem de alunecoase.",
+                "en": "The marshes smell intensely of sea and herbs in the rain; cycle slowly as wooden paths nearby become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Luise",
+                "hu": "Museumsschiff Luise",
+                "ro": "Museumsschiff Luise",
+                "en": "Museumsschiff Luise"
+              },
+              "tip_5lang": {
+                "de": "Ein maritimer Zufluchtsort vor dem Küstenwind; wischen Sie den Sattel vor dem Weiterfahren gründlich ab, um bequem im Regen zu radeln.",
+                "hu": "Tengeri menedék a parti szél elől; továbbindulás előtt alaposan törölje le a nyerget, hogy kényelmesen tekerhessen tovább az esőben.",
+                "ro": "Un refugiu maritim împotriva vântului de coastă; ștergeți bine șaua înainte de a pleca mai departe pentru a pedala confortabil prin ploaie.",
+                "en": "A maritime refuge from the coastal wind; wipe your saddle thoroughly before continuing to cycle comfortably through the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lobber Ort",
+                "hu": "Lobber Ort",
+                "ro": "Lobber Ort",
+                "en": "Lobber Ort"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch bei bewölktem Himmel spektakulär; stellen Sie sicher, dass Ihre Bremsen bei Nässe voll funktionsfähig sind.",
+                "hu": "A kilátás borús égbolt mellett is látványos; győződjön meg róla, hogy a fékek megfelelően fognak a nedves felnin és a csúszós terepen.",
+                "ro": "Priveliștea este spectaculoasă chiar și cu cerul înnorat; asigurați-vă că frânele funcționează corect pe carosabil ud și alunecos.",
+                "en": "The view is spectacular even under cloudy skies; ensure your brakes are fully functional as the terrain becomes slippery in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand",
+                "hu": "Großer Strand",
+                "ro": "Großer Strand",
+                "en": "Großer Strand"
+              },
+              "tip_5lang": {
+                "de": "Ein krönender Abschluss an der wilden Ostsee; ziehen Sie nach der Tour schnell trockene Kleidung an, um eine Erkältung zu vermeiden.",
+                "hu": "Méltó lezárás a vad Keleti-tenger partján; a túra után gyorsan öltözzön át száraz ruhába, hogy elkerülje a megfázást a szeles időben.",
+                "ro": "Un final pe măsură la malul mării agitate; după tur, schimbați-vă rapid în haine uscate pentru a evita răceala în vântul tăios.",
+                "en": "A grand finale by the wild Baltic Sea; change into dry clothes immediately after the tour to avoid catching a cold in the windy air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt mit klarer Sicht am Schafberg. Mittags radeln wir durch die stille, frostige Landschaft zum warmen Schulmuseum. Am Nachmittag erleben wir die raue Küstenluft am Museumsschiff und Lobber Ort. Da die Sonne gegen 16:30 Uhr untergeht, erreichen wir den Großen Strand pünktlich zur blauen Stunde, wenn die Kälte den Sand fest werden lässt.",
+            "hu": "A téli kerékpártúra tiszta kilátással indul a Schafbergnél. Délben a csendes, fagyos tájon át tekerünk a fűtött Schulmuseum felé. Délután a nyers tengerparti levegőt élvezzük a múzeumhajónál és a Lobber Ortnál. Mivel a nap 16:30 körül nyugszik, a Großer Strandot a kék órában érjük el, amikor a hideg megkeményíti a homokot.",
+            "ro": "Turul de iarnă cu bicicleta începe cu o vizibilitate clară la Schafberg. La prânz, pedalăm prin peisajul liniștit și înghețat spre Schulmuseum. După-amiaza, simțim aerul aspru de coastă la nava-muzeu și Lobber Ort. Deoarece soarele apune pe la 16:30, ajungem la Großer Strand exact la ora albastră.",
+            "en": "The winter bike tour begins with clear views at Schafberg. At noon, we cycle through the silent, frosty landscape towards the warm Schulmuseum. In the afternoon, we experience the raw coastal air at the museum ship and Lobber Ort. As the sun sets around 16:30, we reach Großer Strand just in time for the blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schafberg bei Mariendorf",
+                "hu": "Schafberg bei Mariendorf",
+                "ro": "Schafberg bei Mariendorf",
+                "en": "Schafberg bei Mariendorf"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Wiesen glitzern im Morgenlicht; tragen Sie windfeste Handschuhe, da der Fahrtwind bei Minusgraden sehr beißend sein kann.",
+                "hu": "A fagyos rétek csillognak a reggeli fényben; viseljen szélálló kesztyűt, mert a menetszél fagypont alatt nagyon metsző tud lenni.",
+                "ro": "Pajiștile înghețate sclipesc în lumina dimineții; purtați mănuși rezistente la vânt, deoarece curentul de aer poate fi tăios la temperaturi scăzute.",
+                "en": "The frosty meadows sparkle in the morning light; wear windproof gloves as the headwind can be very biting at sub-zero temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Kleinhagen",
+                "hu": "Strand Kleinhagen",
+                "ro": "Strand Kleinhagen",
+                "en": "Strand Kleinhagen"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am eisigen Strand für klare Gedanken; achten Sie auf gefrorene Pfützen auf dem Radweg, die unter dem Schnee verborgen sein können.",
+                "hu": "Rövid megálló a jeges parton a tiszta gondolatokért; figyeljen a kerékpárúton a fagyott tócsákra, amelyeket vékony hóréteg takarhat.",
+                "ro": "O scurtă oprire pe plaja înghețată; atenție la bălțile înghețate de pe pista de biciclete, care pot fi ascunse sub un strat subțire de zăpadă.",
+                "en": "A short stop on the icy beach for clear thoughts; watch out for frozen puddles on the bike path that might be hidden under a layer of snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Schulmuseum",
+                "hu": "Schulmuseum",
+                "ro": "Schulmuseum",
+                "en": "Schulmuseum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der historischen Schulstube auf; planen Sie hier eine längere Pause ein, um die Kälte aus den Gliedern zu vertreiben.",
+                "hu": "Melegedjen fel a történelmi iskolaszobában; tervezzen ide hosszabb szünetet, hogy kiűzze a hideget a tagjaiból a következő szakasz előtt.",
+                "ro": "Încălziți-vă în sala de clasă istorică; planificați o pauză mai lungă aici pentru a alunga frigul din oase înainte de următoarea etapă.",
+                "en": "Warm up in the historical schoolroom; plan a longer break here to drive the cold out of your limbs before the next cycling segment."
+              }
+            },
+            {
+              "name": {
+                "de": "Salzwiesen bei Middelhagen",
+                "hu": "Salzwiesen bei Middelhagen",
+                "ro": "Salzwiesen bei Middelhagen",
+                "en": "Salzwiesen bei Middelhagen"
+              },
+              "tip_5lang": {
+                "de": "Die Salzwiesen wirken im Winterkleid fast surreal; achten Sie auf Ihr Gleichgewicht, falls der Boden durch Frost uneben geworden ist.",
+                "hu": "A sós mocsarak téli köntösben szinte sürreálisnak tűnnek; ügyeljen az egyensúlyára, ha a talaj a fagy miatt egyenetlenné vált.",
+                "ro": "Mlaștinile sărate par aproape ireale în straie de iarnă; atenție la echilibru în cazul în care solul a devenit denivelat din cauza înghețului.",
+                "en": "The salt marshes look almost surreal in their winter dress; keep your balance in case the ground has become uneven due to the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Luise",
+                "hu": "Museumsschiff Luise",
+                "ro": "Museumsschiff Luise",
+                "en": "Museumsschiff Luise"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Luise im kühlen Winterlicht; tragen Sie mehrere Schichten Kleidung (Zwiebelprinzip), um auf dem Rad und im Museum flexibel zu sein.",
+                "hu": "Fedezze fel a Luisét a hűvös téli fényben; viseljen több réteg ruhát, hogy a biciklin és a múzeumban is kényelmesen érezze magát.",
+                "ro": "Explorați nava Luise în lumina rece de iarnă; purtați mai multe straturi de haine pentru a fi flexibil atât pe bicicletă, cât și în muzeu.",
+                "en": "Explore the Luise in the cool winter light; wear multiple layers (onion principle) to stay flexible between cycling and museum visits."
+              }
+            },
+            {
+              "name": {
+                "de": "Lobber Ort",
+                "hu": "Lobber Ort",
+                "ro": "Lobber Ort",
+                "en": "Lobber Ort"
+              },
+              "tip_5lang": {
+                "de": "Ein windiger Ort mit atemberaubender Fernsicht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die bald einsetzende Dunkelheit bereit ist.",
+                "hu": "Szeles pont lélegzetelállító távlati kilátással; győződjön meg róla, hogy a kerékpár világítása készen áll a hamarosan beálló sötétségre.",
+                "ro": "Un loc vântos cu o vedere spectaculoasă la distanță; asigurați-vă că luminile bicicletei sunt gata pentru întunericul care se va lăsa curând.",
+                "en": "A windy spot with breathtaking long-distance views; ensure your bike lights are ready for the darkness that will set in very shortly."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand",
+                "hu": "Großer Strand",
+                "ro": "Großer Strand",
+                "en": "Großer Strand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der gefrorenen Natur; eine Thermoskanne mit heißem Tee in der Packtasche ist jetzt der ideale Begleiter.",
+                "hu": "Élvezze a megfagyott természet csendjét; egy termosz forró teával a táskájában most a legjobb társ a túra végén.",
+                "ro": "Bucurați-vă de liniștea naturii înghețate; un termos cu ceai fierbinte în geanta de bicicletă este acum tovarășul ideal.",
+                "en": "Enjoy the silence of the frozen nature; a thermos with hot tea in your bike bag is the ideal companion at the end of this cold tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap egy kirándulással indul a Schafberghez, majd megáll a történelmi iskola múzeumánál. Délben rövid sétát tehet a védett sós mocsarakban, mielőtt a part felé venné az irányt. Délután a Museumsschiff Luise tengeri világa és Lobber Ort vad természete várja. Az esti tengerparti sétához a Großer Strand közelében érdemes parkolni.",
         "ro": "Ziua începe cu o excursie la Schafberg, înainte de a opri la muzeul istoric al școlii. La amiază faceți o scurtă plimbare prin mlaștinile sărate protejate și apoi conduceți spre coastă. După-amiaza vă așteaptă lumea maritimă la Museumsschiff Luise și natura sălbatică de la Lobber Ort. Seara, parcați pentru o plimbare la Großer Strand.",
         "en": "The day starts with a drive to Schafberg before stopping at the historic school museum. At midday, take a short walk through the protected salt marshes and drive towards the coast. The afternoon awaits with the maritime world of Museumsschiff Luise and the wild nature at Lobber Ort. For an evening stroll, park right by the Great Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Lobbe trocken und bequem. Morgens genießen wir den Blick vom Schafberg durch das Panoramafenster. Mittags bietet das Schulmuseum kulturelle Tiefe bei Regen. Nachmittags besuchen wir die Salzwiesen und die Luise, geschützt vor dem Küstenwind. Den Tag beschließen wir am Großen Strand, wobei das Auto als warmer Rückzugsort zwischen den Fotostopps dient.",
+            "hu": "Autóval szárazon és kényelmesen fedezhetjük fel Lobbét. Reggel a Schafberg kilátását az ablakon keresztül élvezzük. Délben a Schulmuseum nyújt kulturális élményt az esőben. Délután a sós mocsarakat és a Luisét látogatjuk meg, védve a parti széltől. A napot a Großer Strandnál zárjuk, ahol az autó meleg menedékként szolgál a fotózások között.",
+            "ro": "Cu mașina, explorăm Lobbe confortabil și fără să ne udăm. Dimineața, ne bucurăm de vederea de la Schafberg prin geam. La prânz, Schulmuseum oferă profunzime culturală pe timp de ploaie. După-amiaza, vizităm mlaștinile sărate și nava Luise. Încheiem ziua la Großer Strand, mașina fiind un refugiu cald între opriri.",
+            "en": "By car, we explore Lobbe dry and comfortably. In the morning, we enjoy the view from Schafberg through the window. At noon, the Schulmuseum offers cultural depth during the rain. In the afternoon, we visit the salt marshes and the Luise, protected from the coastal wind. We end the day at Großer Strand, with the car serving as a warm retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schafberg bei Mariendorf",
+                "hu": "Schafberg bei Mariendorf",
+                "ro": "Schafberg bei Mariendorf",
+                "en": "Schafberg bei Mariendorf"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt, den man auch bei Regen kurz genießen kann; parken Sie auf dem offiziellen Parkplatz und nutzen Sie feste Schuhe für den kurzen Weg.",
+                "hu": "Nagyszerű kilátópont, amely esőben is élvezhető; parkoljon a hivatalos helyen, és viseljen zárt cipőt a kilátóhoz vezető rövid, vizes úton.",
+                "ro": "Un punct de observație excelent, care poate fi savurat scurt și pe ploaie; parcați în locul oficial și folosiți încălțăminte solidă pentru drumul scurt.",
+                "en": "A great viewpoint that can be enjoyed briefly even in the rain; park in the official lot and use sturdy shoes for the short, wet path to the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Schulmuseum",
+                "hu": "Schulmuseum",
+                "ro": "Schulmuseum",
+                "en": "Schulmuseum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen längeren Aufenthalt während eines Schauers; lassen Sie nasse Mäntel im Eingangsbereich, um die Exponate zu schützen.",
+                "hu": "Tökéletes hely egy hosszabb időtöltésre egy zápor idején; hagyja a vizes kabátokat a bejáratnál, hogy óvja a múzeumi kiállítási tárgyakat.",
+                "ro": "Locul perfect pentru o ședere mai lungă în timpul unei averse; lăsați haina udă la intrare pentru a proteja obiectele de expoziție.",
+                "en": "The perfect place for a longer stay during a heavy shower; leave wet coats at the entrance to protect the museum exhibits from humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Salzwiesen bei Middelhagen",
+                "hu": "Salzwiesen bei Middelhagen",
+                "ro": "Salzwiesen bei Middelhagen",
+                "en": "Salzwiesen bei Middelhagen"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die einzigartige Flora der Boddenküste; bleiben Sie auf befestigten Wegen, da der Boden in den Wiesen bei Regen sehr tiefgründig wird.",
+                "hu": "Fedezze fel a Bodden-part egyedülálló flóráját; maradjon a kijelölt utakon, mert a mocsaras talaj esőben nagyon mély és ingoványos lesz.",
+                "ro": "Descoperiți flora unică a coastei Bodden; rămâneți pe potecile amenajate, deoarece solul din mlaștini devine foarte moale în timpul ploii.",
+                "en": "Experience the unique flora of the Bodden coast; stay on the paved paths as the ground in the marshes becomes very soft and muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Luise",
+                "hu": "Museumsschiff Luise",
+                "ro": "Museumsschiff Luise",
+                "en": "Museumsschiff Luise"
+              },
+              "tip_5lang": {
+                "de": "Ein absolutes Muss für maritime Fans, besonders bei schlechtem Wetter; parken Sie nah am Hafen, um den Weg durch den Regen kurz zu halten.",
+                "hu": "Abszolút kötelező a tengeri rajongóknak, különösen rossz időben; parkoljon közel a kikötőhöz, hogy lerövidítse az esőben való gyaloglást.",
+                "ro": "O vizită obligatorie pentru fanii maritimi, mai ales pe vreme rea; parcați aproape de port pentru a scurta drumul prin ploaie.",
+                "en": "An absolute must for maritime fans, especially in bad weather; park close to the harbor to keep the walk through the rain as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Lobber Ort",
+                "hu": "Lobber Ort",
+                "ro": "Lobber Ort",
+                "en": "Lobber Ort"
+              },
+              "tip_5lang": {
+                "de": "Die dramatische Steilküste ist ein tolles Fotomotiv bei Regen; achten Sie auf freie Sicht durch die Windschutzscheibe vor dem Aussteigen.",
+                "hu": "A drámai sziklapart nagyszerű fotótéma esőben; mielőtt kiszállna, győződjön meg a jó látási viszonyokról a szélvédőn keresztül.",
+                "ro": "Faleza dramatică este un subiect foto excelent pe ploaie; asigurați-vă că aveți vizibilitate bună prin parbriz înainte de a coborî din mașină.",
+                "en": "The dramatic cliffs are a great photo motive in the rain; check the visibility through your windshield before getting out for a quick shot."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand",
+                "hu": "Großer Strand",
+                "ro": "Großer Strand",
+                "en": "Großer Strand"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss der Tour; nutzen Sie die Sitzheizung nach dem Strandspaziergang, um sich schnell wieder aufzuwärmen.",
+                "hu": "Hangulatos lezárása a túrának; a tengerparti séta után használja az ülésfűtést, hogy gyorsan felmelegedjen a szeles idő után.",
+                "ro": "Un final atmosferic al turului; folosiți încălzirea în scaune după plimbarea pe plajă pentru a vă încălzi rapid după vântul umed.",
+                "en": "An atmospheric end to the tour; use the seat heating after your beach walk to warm up quickly from the damp coastal air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto eine komfortable Basis für die Erkundung von Lobbe. Morgens genießen wir die frostige Aussicht am Schafberg. Mittags wärmen wir uns im gemütlichen Schulmuseum auf. Am Nachmittag besuchen wir die kühle Luise und den windigen Lobber Ort. Da es früh dunkel wird, erleben wir den Sonnenuntergang am Großen Strand bequem vom Auto aus, bevor die Nacht einbricht.",
+            "hu": "Télen az autó kényelmes bázist nyújt Lobbe felfedezéséhez. Reggel a fagyos kilátást élvezzük a Schafbergnél. Délben a barátságos Schulmuseum melegében pihenünk. Délután a hűvös Luisét és a szeles Lobber Ortot látogatjuk meg. Mivel hamar sötétedik, a naplementét a Großer Strandnál kényelmesen az autóból nézzük végig.",
+            "ro": "Iarna, mașina oferă o bază confortabilă pentru explorarea localității Lobbe. Dimineața, ne bucurăm de vederea înghețată de la Schafberg. La prânz, ne încălzim în primitorul Schulmuseum. După-amiaza, vizităm nava Luise și Lobber Ort. Deoarece se întunecă devreme, privim apusul la Großer Strand din mașină.",
+            "en": "In winter, the car provides a comfortable base for exploring Lobbe. In the morning, we enjoy the frosty views at Schafberg. At noon, we warm up in the cozy Schulmuseum. In the afternoon, we visit the cool Luise and the windy Lobber Ort. As it gets dark early, we experience the sunset at Großer Strand comfortably from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schafberg bei Mariendorf",
+                "hu": "Schafberg bei Mariendorf",
+                "ro": "Schafberg bei Mariendorf",
+                "en": "Schafberg bei Mariendorf"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich für den Blick über die glitzernde Winterlandschaft; achten Sie auf Glatteis auf den Parkplatzflächen und Gehwegen.",
+                "hu": "A feljutás megéri a csillogó téli táj látványáért; ügyeljen a jegesedésre a parkolókban és a gyalogutakon a kiszállás után.",
+                "ro": "Urcarea merită pentru vederea peste peisajul sclipitor de iarnă; atenție la polei în parcări și pe trotuare după ce coborâți.",
+                "en": "The climb is worth it for the view over the sparkling winter landscape; watch out for black ice in the parking lots and on the footpaths."
+              }
+            },
+            {
+              "name": {
+                "de": "Schulmuseum",
+                "hu": "Schulmuseum",
+                "ro": "Schulmuseum",
+                "en": "Schulmuseum"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Rückzugsort mit viel Geschichte; nutzen Sie die Zeit für eine ausführliche Besichtigung der alten Schulstube.",
+                "hu": "Csodálatosan fűtött menedék gazdag történelemmel; használja ki az időt a régi iskolaterem alapos megtekintésére a melegben.",
+                "ro": "Un refugiu încălzit minunat, cu multă istorie; profitați de timp pentru o vizită detaliată a vechii săli de clasă în confortul termic.",
+                "en": "A wonderfully heated retreat with plenty of history; take your time for a detailed tour of the old schoolroom in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Salzwiesen bei Middelhagen",
+                "hu": "Salzwiesen bei Middelhagen",
+                "ro": "Salzwiesen bei Middelhagen",
+                "en": "Salzwiesen bei Middelhagen"
+              },
+              "tip_5lang": {
+                "de": "Die Salzwiesen wirken im Winter kahl und weit; ein kurzer Spaziergang an der frischen Luft ist gesund, danach wartet das warme Auto.",
+                "hu": "A sós mocsarak télen kopárnak és végtelennek tűnnek; egy rövid séta a friss levegőn egészséges, utána várja Önt a fűtött autó.",
+                "ro": "Pajiștile sărate par pustii și vaste iarna; o scurtă plimbare în aer liber este sănătoasă, iar apoi vă așteaptă mașina caldă.",
+                "en": "The salt marshes look stark and vast in winter; a short walk in the fresh air is healthy, and the warm car will be waiting for you afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Luise",
+                "hu": "Museumsschiff Luise",
+                "ro": "Museumsschiff Luise",
+                "en": "Museumsschiff Luise"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schiff im klaren Winterlicht für tolle Fotos; da es im Inneren kühl ist, sollten Sie Ihre Winterjacke während der Besichtigung anlassen.",
+                "hu": "Látogassa meg a hajót a tiszta téli fényben a remek fotókért; mivel bent hűvös van, tartsa magán a télikabátot a megtekintés alatt.",
+                "ro": "Vizitați nava în lumina clară de iarnă pentru fotografii grozave; fiindcă în interior este răcoare, păstrați jacheta de iarnă pe dvs.",
+                "en": "Visit the ship in the clear winter light for great photos; as it is cool inside, you should keep your winter jacket on during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Lobber Ort",
+                "hu": "Lobber Ort",
+                "ro": "Lobber Ort",
+                "en": "Lobber Ort"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Klippe kann im Winter sehr heftig sein; genießen Sie die Aussicht kurz und kehren Sie dann in die Wärme des Wagens zurück.",
+                "hu": "A szél a sziklánál télen nagyon erős lehet; élvezze a kilátást rövid ideig, majd térjen vissza az autó melengető kényelmébe.",
+                "ro": "Vântul pe faleză poate fi foarte puternic iarna; bucurați-vă scurt de priveliște și apoi reveniți la căldura mașinii.",
+                "en": "The wind at the cliff can be very fierce in winter; enjoy the view briefly and then return to the comforting warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand",
+                "hu": "Großer Strand",
+                "ro": "Großer Strand",
+                "en": "Großer Strand"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den Sonnenuntergang gegen 16:30 Uhr; bleiben Sie im Auto sitzen, um das Farbspiel am Himmel windgeschützt zu beobachten.",
+                "hu": "Tökéletes hely a 16:30 körüli naplementéhez; maradjon az autóban, hogy a széltől védve nézhesse végig az égbolt színjátékát.",
+                "ro": "Locul perfect pentru apusul soarelui în jurul orei 16:30; rămâneți în mașină pentru a urmări jocul de culori de pe cer, protejat de vânt.",
+                "en": "The perfect spot for the sunset around 16:30; stay in the car to watch the colors change in the sky while being protected from the wind."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -206,6 +206,252 @@
         "hu": "A reggel a nyüzsgő központban, a Városháza és az elegáns Városi Színház felfedezésével indul.\nDélben látogassa meg a Joseph Déchelette Múzeumot és az ősi vártornyot.\nA délután békés menedéket kínál a Sainte-Anne templomban és a zöldellő Parc des Promenades területén.\nEste kóstolja meg a Halles Diderot finomságait, majd sétáljon egyet az alkonyati kikötőben.",
         "ro": "Dimineața începe în centrul civic vibrant, lângă Primărie și elegantul Teatru Municipal.\nLa amiază, explorați renumitul Muzeu Joseph Déchelette și vechiul Donjon al castelului.\nDupă-amiaza oferă un refugiu liniștit la Biserica Sainte-Anne și în înverzitul Parc des Promenades.\nSeara aduce delicatese locale la piața Halles Diderot și o plimbare crepusculară pe faleză.",
         "en": "Morning begins in the vibrant civic center by the City Hall and elegant Municipal Theatre.\nBy midday, explore the renowned Joseph Déchelette Museum and the ancient Castle Keep.\nThe afternoon offers a peaceful retreat at Sainte-Anne Church and the verdant Parc des Promenades.\nEvening brings local delicacies at Halles Diderot Market and a twilight walk along the marina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Rathaus, wo die Steine im nassen Glanz leuchten. Mittags bietet das Museum den perfekten Schutz vor starken Schauern. Am Nachmittag laden die Kirche und die Markthalle zu trockenen Aufenthalten ein. Der Abend klingt am Hafen aus, wo der Regen eine mystische, neblige Atmosphäre über dem Wasser schafft und die Lichter der Stadt im Hafenbecken reflektieren.",
+            "hu": "A szitáló reggel a Városházánál kezdődik, ahol a kőhomlokzat ragyog a párás levegőben. Délben keressen menedéket a múzeumban a hevesebb záporok elől. A délutánt a templomban és a piacon töltheti, mindkettő száraz menedéket nyújt. Az este a kikötőben zárul, ahol az eső költői, ködös hangulatot áraszt a víz felett, a város fényei pedig megcsillannak a vizes aszfalton.",
+            "ro": "O dimineață ploioasă începe la Primărie, unde fațada de piatră strălucește în aerul umed. La prânz, găsiți adăpost în muzeu pentru a scăpa de aversele cele mai puternice. După-amiaza este petrecută la biserică și în piață, ambele oferind un refugiu uscat. Seara se încheie în port, unde ploaia creează o atmosferă mistică și poetică deasupra apei, reflectând luminile orașului.",
+            "en": "A drizzly morning starts at the City Hall, where the stone facade glows in the damp air. By midday, find shelter in the museum to escape the heaviest showers. Afternoon is spent at the church and market, both offering a dry refuge. Evening concludes at the port, where the rain creates a misty, poetic atmosphere over the water, with city lights shimmering on the wet surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Hôtel de Ville (City Hall)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem Schutz der Arkaden; die Stufen können bei Nässe rutschig sein, tragen Sie daher Schuhe mit gutem Profil.",
+                "hu": "Csodálja meg a homlokzatot az árkádok védelméből; a lépcsők nedvesen csúszósak lehetnek, ezért viseljen tapadós talpú cipőt.",
+                "ro": "Admirați fațada de la adăpostul arcadelor; treptele pot fi alunecoase când sunt ude, așa că purtați încălțăminte cu talpă aderentă.",
+                "en": "Admire the facade from the shelter of the nearby arcades; the steps can be slippery when wet, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um das Programm zu studieren; ein Regenschirm ist für den kurzen Weg zum nächsten Halt unerlässlich.",
+                "hu": "Használja a fedett bejárati részt a műsorfüzet áttanulmányozására; egy esernyő elengedhetetlen a következő megállóig tartó rövid úthoz.",
+                "ro": "Folosiți zona de intrare acoperită pentru a studia programul; o umbrelă este esențială pentru drumul scurt până la următoarea oprire.",
+                "en": "Use the covered entrance area to study the program; an umbrella is essential for the short walk to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Joseph-Déchelette-Museum",
+                "hu": "Joseph Déchelette Múzeum",
+                "ro": "Muzeul Joseph Déchelette",
+                "en": "Joseph Déchelette Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um einen starken Guss abzuwarten; die weitläufigen Galerien bieten stundenlangen trockenen Kulturgenuss.",
+                "hu": "Ideális hely egy heves zápor átvészelésére; a tágas galériák órákon át tartó száraz kulturális élvezetet nyújtanak.",
+                "ro": "Locul ideal pentru a aștepta trecerea unei ploi torențiale; galeriile spațioase oferă ore de plăcere culturală la uscat.",
+                "en": "The ideal place to wait out a heavy downpour; the spacious galleries offer hours of dry cultural enjoyment."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgfried von Roanne",
+                "hu": "Roanne-i Vártorony",
+                "ro": "Donjonul Castelului Roanne",
+                "en": "Roanne Castle Keep"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz; achten Sie auf den unebenen Boden rund um den Turm, der bei Regen Pfützen bilden kann.",
+                "hu": "A vastag falak menedéket nyújtanak; ügyeljen a torony körüli egyenetlen talajra, ahol esőben tócsák alakulhatnak ki.",
+                "ro": "Zidurile groase oferă adăpost; atenție la terenul denivelat din jurul turnului, unde se pot forma bălți când plouă.",
+                "en": "The thick walls provide shelter; watch out for uneven ground around the tower, which can form puddles during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Anne-Kirche",
+                "hu": "Sainte-Anne templom",
+                "ro": "Biserica Sainte-Anne",
+                "en": "Sainte-Anne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher, trockener Rückzugsort; genießen Sie die Akustik des Regens, der sanft gegen die Buntglasfenster prasselt.",
+                "hu": "Békés, száraz búvóhely; élvezze az eső kopogását, amint lágyan veri a színes üvegablakokat.",
+                "ro": "Un refugiu liniștit și uscat; bucurați-vă de acustica ploii care bate ușor în vitralii.",
+                "en": "A peaceful, dry retreat; enjoy the acoustics of the rain drumming gently against the stained-glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Promenades",
+                "hu": "Parc des Promenades",
+                "ro": "Parc des Promenades",
+                "en": "Parc des Promenades"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen; der Park wirkt im Regen besonders grün und die Wege sind gut befestigt.",
+                "hu": "Keressen menedéket a sűrű lombkoronák alatt; a park esőben különösen zöldnek tűnik, és az utak jól karbantartottak.",
+                "ro": "Căutați adăpost sub coronamentul des al copacilor; parcul pare deosebit de verde pe ploaie, iar aleile sunt bine amenajate.",
+                "en": "Seek shelter under the dense tree canopies; the park looks especially green in the rain and the paths are well-paved."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Halles Diderot",
+                "hu": "Halles Diderot Piac",
+                "ro": "Piața Halles Diderot",
+                "en": "Halles Diderot Market"
+              },
+              "tip_5lang": {
+                "de": "Vollständig überdacht und perfekt für eine trockene Pause; probieren Sie lokale Spezialitäten, während es draußen regnet.",
+                "hu": "Teljesen fedett és tökéletes egy száraz pihenőre; kóstoljon helyi különlegességeket, miközben kint esik az eső.",
+                "ro": "Complet acoperită și perfectă pentru o pauză uscată; gustați specialități locale în timp ce afară plouă.",
+                "en": "Completely covered and perfect for a dry break; taste local specialties while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Roanne",
+                "hu": "Roanne-i kikötő",
+                "ro": "Portul din Roanne",
+                "en": "Port of Roanne"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf dem Wasser von einem der Cafés aus; wasserfeste Kleidung ist für den Kai-Spaziergang ratsam.",
+                "hu": "Figyelje a vízen táncoló esőcseppeket valamelyik kávézóból; a rakparti sétához vízálló ruházat ajánlott.",
+                "ro": "Observați picăturile de ploaie pe apă de la una dintre cafenele; îmbrăcămintea impermeabilă este recomandată pentru plimbarea pe chei.",
+                "en": "Watch the raindrops on the water from one of the cafes; waterproof clothing is advisable for the quay walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt in der Innenstadt, wo die Luft klar und kalt ist. Mittags bieten die beheizten Galerien des Museums wohlige Wärme. Wenn gegen 17:00 Uhr die Sonne früh untergeht, hüllen sich der Park und der Hafen in eine ruhige, friedliche Winterstimmung. Beenden Sie Ihren Spaziergang früh, wenn die Dämmerung über den Fluss hereinbricht, und suchen Sie die gemütlich beleuchteten Straßen auf.",
+            "hu": "A friss téli reggel a városközpontban kezdődik, élvezve a tiszta, hideg levegőt. A délidő melegséget kínál a múzeum lenyűgöző és fűtött galériáiban. Ahogy közeledik a korai, 17:00-ás naplemente, a park és a kikötő csendes, békés téli bájt áraszt. Fejezze be korán a sétát, ahogy az alkony leszáll a folyóra, és élvezze a város ünnepi fényeit.",
+            "ro": "O dimineață geroasă de iarnă începe în centrul orașului, unde aerul este limpede și rece. La prânz, galeriile încălzite ale muzeului oferă o căldură primitoare. Pe măsură ce apusul devreme se apropie la ora 17:00, parcul și portul capătă un farmec de iarnă liniștit. Încheiați plimbarea devreme, când amurgul coboară peste râu, și căutați străzile luminate primitor.",
+            "en": "A crisp winter morning starts in the town center, enjoying the clear, cold air. Midday offers warmth inside the museum's heated galleries. As the early sunset approaches at 17:00, the park and port take on a quiet, serene winter charm. End your walk early as the twilight settles over the river, seeking out the city's cozy lit streets and festive displays."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria (Hôtel de Ville)",
+                "en": "Hôtel de Ville (City Hall)"
+              },
+              "tip_5lang": {
+                "de": "Der Rathausplatz wirkt im Winterlicht besonders edel; starten Sie früh, um das Beste aus dem kurzen Tageslicht zu machen.",
+                "hu": "A Városháza tér téli fényben különösen elegáns; induljon korán, hogy a legtöbbet hozza ki a rövid nappali fényből.",
+                "ro": "Piața Primăriei pare deosebit de elegantă în lumina iernii; porniți devreme pentru a profita la maximum de lumina scurtă a zilei.",
+                "en": "The City Hall square looks especially elegant in winter light; start early to make the most of the short daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttheater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Theaters ist in der frühen Dämmerung wunderschön; tragen Sie einen warmen Schal gegen den kalten Wind.",
+                "hu": "A színház kivilágítása csodálatos a korai szürkületben; viseljen meleg sálat a hideg szél ellen.",
+                "ro": "Iluminatul teatrului este superb în amurgul timpuriu; purtați un fular gros împotriva vântului rece.",
+                "en": "The theater's lighting is beautiful in the early twilight; wear a warm scarf against the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Joseph-Déchelette-Museum",
+                "hu": "Joseph Déchelette Múzeum",
+                "ro": "Muzeul Joseph Déchelette",
+                "en": "Joseph Déchelette Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um sich aufzuwärmen; die Innentemperatur ist ideal, um die Kunstwerke ohne Wintermantel zu genießen.",
+                "hu": "Tökéletes hely a felmelegedésre; a belső hőmérséklet ideális ahhoz, hogy télikabát nélkül élvezze a műalkotásokat.",
+                "ro": "Perfect pentru a vă încălzi; temperatura interioară este ideală pentru a savura operele de artă fără haina de iarnă.",
+                "en": "Perfect for warming up; the indoor temperature is ideal for enjoying the artworks without your heavy winter coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgfried von Roanne",
+                "hu": "Roanne-i Vártorony",
+                "ro": "Donjonul Castelului Roanne",
+                "en": "Roanne Castle Keep"
+              },
+              "tip_5lang": {
+                "de": "Das alte Mauerwerk speichert die Kälte; festes Schuhwerk ist wichtig, da die Steine bei Frost glatt sein können.",
+                "hu": "A régi falak tárolják a hideget; a masszív lábbeli fontos, mivel a kövek fagyban csúszósak lehetnek.",
+                "ro": "Zidăria veche reține frigul; încălțămintea solidă este importantă, deoarece pietrele pot fi alunecoase pe ger.",
+                "en": "The old stonework retains the cold; sturdy footwear is important as the stones can be slippery during frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Anne-Kirche",
+                "hu": "Sainte-Anne templom",
+                "ro": "Biserica Sainte-Anne",
+                "en": "Sainte-Anne Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort der Ruhe; achten Sie auf die stimmungsvolle Winterbeleuchtung im Inneren.",
+                "hu": "A templom szélvédett, nyugodt hely; ügyeljen a belső tér hangulatos téli megvilágítására.",
+                "ro": "Biserica oferă un loc liniștit și ferit de vânt; admirați iluminarea interioară primitoare de iarnă.",
+                "en": "The church offers a wind-sheltered place of peace; look out for the atmospheric winter lighting inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Promenades",
+                "hu": "Parc des Promenades",
+                "ro": "Parc des Promenades",
+                "en": "Parc des Promenades"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine klare Sicht auf die Architektur; kleiden Sie sich im Zwiebelprinzip für den Spaziergang.",
+                "hu": "A kopasz fák tiszta kilátást nyújtanak a környező építészetre; öltözzön rétegesen a parkbéli sétához.",
+                "ro": "Copacii desfrunziți oferă o vedere clară asupra arhitecturii; îmbrăcați-vă în straturi pentru plimbarea prin parc.",
+                "en": "The bare trees offer a clear view of the surrounding architecture; dress in layers for your winter park stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Halles Diderot",
+                "hu": "Halles Diderot Piac",
+                "ro": "Piața Halles Diderot",
+                "en": "Halles Diderot Market"
+              },
+              "tip_5lang": {
+                "de": "Ein belebter Ort, um sich mit heißen Köstlichkeiten aufzuwärmen; ideal vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Nyüzsgő hely, ahol forró finomságokkal melegedhet fel; ideális a korai, 17:00-ás naplemente előtt.",
+                "ro": "Un loc plin de viață pentru a vă încălzi cu delicatese calde; ideal înainte de apusul devreme de la ora 17:00.",
+                "en": "A lively spot to warm up with hot delicacies; ideal before the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Roanne",
+                "hu": "Roanne-i kikötő",
+                "ro": "Portul din Roanne",
+                "en": "Port of Roanne"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winterschlaf besonders ruhig; die Kälte vom Wasser ist intensiv, Handschuhe sind sehr empfohlen.",
+                "hu": "A kikötő téli álomban különösen csendes; a víz felőli hideg intenzív, a kesztyű használata erősen ajánlott.",
+                "ro": "Portul pare deosebit de liniștit în somnul de iarnă; frigul de pe apă este intens, mănușile sunt recomandate.",
+                "en": "The port looks especially quiet in its winter sleep; the cold from the water is intense, gloves are highly recommended."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "A reggel a békés roanne-i kikötőben és a tengerészeti kápolnánál indul, frissítő hangulatot adva.\nDélben a nyüzsgő piacra teker, mielőtt elmerülne a vártorony lenyűgöző középkori történetében.\nDélután a nagy múzeumban és a helyi park árnyékos ösvényein folytatódik a kulturális kaland.\nA nap egy izgalmas kerékpározással zárul a fenséges Château de Neubourg kastély felé.",
         "ro": "Dimineața începe la portul liniștit din Roanne și capela sa maritimă, oferind un aer proaspăt.\nLa amiază pedalați spre piața plină de viață, înainte de a descoperi istoria vechiului Donjon.\nDupă-amiaza continuă cu vizitarea grandiosului muzeu și a aleilor umbrite din parcul local.\nZiua se încheie cu o plimbare antrenantă pe bicicletă spre maiestuosul Château de Neubourg.",
         "en": "Morning kicks off at the serene Port of Roanne and its maritime chapel, setting a breezy tone.\nMidday takes you to the bustling market stalls before diving into the history of the Castle Keep.\nAfternoon exploration continues at the grand museum and along the shaded paths of the local park.\nThe day concludes with an exhilarating cycle out to the majestic Château de Neubourg."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen, wo der Regen auf die Boote trommelt. Mittags führt die Fahrt zur Markthalle, die ein trockenes Ziel bietet. Am Nachmittag geht es vorsichtig zum Museum; die Radwege können bei Nässe rutschig sein. Den Tag beenden Sie am Schloss, wobei die Regentropfen auf den Blättern eine beruhigende Kulisse für Ihre Rückfahrt schaffen.",
+            "hu": "Kezdjen a kikötőben, ahol az eső dobol a hajókon. Délben az út a piachoz vezet, amely száraz úti célt kínál. Délután óvatosan tekerjen a múzeum felé; a kerékpárutak nedvesen csúszósak lehetnek. A napot a kastélynál zárja, ahol a leveleken koppanó esőcseppek megnyugtató hátteret biztosítanak a visszautazáshoz.",
+            "ro": "Începeți în port, unde ploaia bate în bărci. La prânz, drumul duce la piață, care oferă o destinație uscată. După-amiaza, pedalați cu atenție spre muzeu; pistele pot fi alunecoase când sunt ude. Încheiați ziua la castel, unde picăturile de ploaie pe frunze creează un fundal relaxant pentru întoarcere.",
+            "en": "Start at the port, where the rain drums on the boats. Midday leads to the market, offering a dry destination. In the afternoon, cycle carefully to the museum; the bike paths can be slippery when wet. End the day at the castle, where raindrops on the leaves create a soothing backdrop for your return journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Roanne",
+                "hu": "Roanne-i kikötő",
+                "ro": "Portul din Roanne",
+                "en": "Port of Roanne"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; der Kai kann bei Regen sehr rutschig sein, fahren Sie langsam und vorausschauend.",
+                "hu": "Indulás előtt ellenőrizze a fékeit; a rakpart esőben nagyon csúszós lehet, tekerjen lassan és előrelátóan.",
+                "ro": "Verificați frânele înainte de plecare; cheiul poate fi foarte alunecos pe ploaie, pedalați încet și cu atenție.",
+                "en": "Check your brakes before starting; the quay can be very slippery in the rain, so ride slowly and cautiously."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Nicolas du Port",
+                "hu": "Saint-Nicolas du Port kápolna",
+                "ro": "Capela Saint-Nicolas du Port",
+                "en": "Saint-Nicolas du Port Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Stopp für Radfahrer; lehnen Sie Ihr Rad sicher an, da der Bodenbelag draußen glatt ist.",
+                "hu": "Egy apró, száraz megálló kerékpárosoknak; támassza le biztonságosan a biciklit, mert kint a burkolat csúszik.",
+                "ro": "O mică oprire uscată pentru bicicliști; sprijiniți bicicleta în siguranță, deoarece pavajul exterior este alunecos.",
+                "en": "A tiny, dry stop for cyclists; lean your bike securely as the outside pavement is slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Halles Diderot",
+                "hu": "Halles Diderot Piac",
+                "ro": "Piața Halles Diderot",
+                "en": "Halles Diderot Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer; drinnen können Sie Ihre Regenjacke ausschütteln und sich stärken.",
+                "hu": "Használja a fedett kerékpártárolót; odabent kirázhatja az esőkabátját és felfrissülhet a helyi ízekkel.",
+                "ro": "Folosiți suportul de biciclete acoperit; în interior vă puteți scutura pelerina de ploaie și vă puteți delecta.",
+                "en": "Use the covered bike rack; inside you can shake off your rain jacket and refresh yourself with local treats."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgfried von Roanne",
+                "hu": "Roanne-i Vártorony",
+                "ro": "Donjonul Castelului Roanne",
+                "en": "Roanne Castle Keep"
+              },
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster rund um den Turm erfordert volle Konzentration; tragen Sie eine wasserfeste Hose für die Weiterfahrt.",
+                "hu": "A torony körüli macskakő teljes koncentrációt igényel; viseljen vízálló nadrágot a továbbutazáshoz.",
+                "ro": "Pavelele din jurul turnului necesită concentrare maximă; purtați pantaloni impermeabili pentru continuarea drumului.",
+                "en": "The cobblestones around the tower require full concentration; wear waterproof trousers for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Joseph-Déchelette-Museum",
+                "hu": "Joseph Déchelette Múzeum",
+                "ro": "Muzeul Joseph Déchelette",
+                "en": "Joseph Déchelette Museum"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Pause, um trocken zu werden; nutzen Sie die Zeit für die Ausstellungen, während draußen ein Schauer vorbeizieht.",
+                "hu": "Ideális szünet a megszáradáshoz; használja ki az időt a kiállításokra, amíg kint elvonul egy zápor.",
+                "ro": "Pauza ideală pentru a vă usca; profitați de timp pentru expoziții în timp ce afară trece o aversă.",
+                "en": "The ideal break to get dry; use the time for the exhibitions while a rain shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Promenades",
+                "hu": "Parc des Promenades",
+                "ro": "Parc des Promenades",
+                "en": "Parc des Promenades"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren auf dem nassen Gras; die asphaltierten Wege im Park sind auch bei Regen gut befahrbar.",
+                "hu": "Kerülje a nedves fűvön való biciklizést; a park aszfaltozott útjai esőben is jól járhatóak.",
+                "ro": "Evitați să pedalați pe iarba udă; aleile asfaltate din parc sunt ușor de parcurs chiar și pe ploaie.",
+                "en": "Avoid riding on the wet grass; the paved paths in the park are easily navigable even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Neubourg",
+                "hu": "Neubourg kastély",
+                "ro": "Castelul de Neubourg",
+                "en": "Château de Neubourg"
+              },
+              "tip_5lang": {
+                "de": "Die ländliche Strecke kann schlammig sein; Schutzbleche am Rad schützen Ihre Kleidung vor aufspritzendem Wasser.",
+                "hu": "A vidéki szakasz sáros lehet; a sárvédő megvédi ruházatát a felcsapódó víztől és sártól.",
+                "ro": "Traseul rural poate fi noroios; aripile la bicicletă vă protejează hainele de apa și noroiul împroșcat.",
+                "en": "The rural section can be muddy; mudguards on your bike will protect your clothes from splashing water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Hafen, wo die kalte Luft vom Fluss aufsteigt. Mittags führt die Tour durch die Stadt zur Markthalle, die ein warmer Treffpunkt ist. Am Nachmittag bietet das Museum eine willkommene Aufwärmpause. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie Ihre Ankunft am Schloss Neubourg frühzeitig ein, um die Anlage im letzten Tageslicht zu bewundern.",
+            "hu": "A fagyos reggel a kikötőben indul, ahol a folyó felől hideg levegő áramlik. Délben a túra a városon át a piachoz vezet, amely meleg találkozóhely. Délután a múzeum szívesen látott melegedő szünetet kínál. Mivel a nap 17:00 körül nyugszik, tervezze korábbra az érkezést a Neubourg kastélyhoz, hogy még az utolsó fénynél láthassa.",
+            "ro": "O dimineață geroasă începe în port, unde aerul rece se ridică de pe râu. La prânz, turul prin oraș duce la piață, un punct de întâlnire cald. După-amiaza, muzeul oferă o pauză de încălzire binevenită. Deoarece soarele apune în jur de 17:00, planificați sosirea la castel devreme pentru a-l vedea în ultima lumină a zilei.",
+            "en": "A frosty morning begins at the port, where cold air rises from the river. Midday leads you through town to the market, a warm meeting point. In the afternoon, the museum offers a welcome warm-up break. As the sun sets around 17:00, plan an early arrival at Château de Neubourg to see the grounds in the last bit of daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Roanne",
+                "hu": "Roanne-i kikötő",
+                "ro": "Portul din Roanne",
+                "en": "Port of Roanne"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Wasser sehr beißend sein kann; achten Sie auf überfrorene Stellen.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél a vízparton nagyon csípős lehet; ügyeljen a fagyott útszakaszokra.",
+                "ro": "Purtați mănuși groase, deoarece curentul de aer pe malul apei poate fi tăios; atenție la porțiunile înghețate.",
+                "en": "Wear warm gloves as the wind chill by the water can be very biting; watch out for any patches of black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Nicolas du Port",
+                "hu": "Saint-Nicolas du Port kápolna",
+                "ro": "Capela Saint-Nicolas du Port",
+                "en": "Saint-Nicolas du Port Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille und Kälteschutz; die Kapelle wirkt im Winterlicht besonders andächtig.",
+                "hu": "A csend és a hideg elleni védelem rövid pillanata; a kápolna a téli fényben különösen áhítatosnak tűnik.",
+                "ro": "Un scurt moment de liniște și protecție împotriva frigului; capela pare deosebit de pioasă în lumina iernii.",
+                "en": "A short moment of silence and protection from the cold; the chapel looks especially solemn in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Halles Diderot",
+                "hu": "Halles Diderot Piac",
+                "ro": "Piața Halles Diderot",
+                "en": "Halles Diderot Market"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Getränk auf; der Markt ist im Winter ein gemütlicher Ort voller Düfte.",
+                "hu": "Melegedjen fel egy forró itallal; a piac télen meghitt, illatokkal teli hely.",
+                "ro": "Încălziți-vă cu o băutură fierbinte; piața este un loc primitor și plin de arome în timpul iernii.",
+                "en": "Warm yourself up with a hot drink; the market is a cozy place full of aromas during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgfried von Roanne",
+                "hu": "Roanne-i Vártorony",
+                "ro": "Donjonul Castelului Roanne",
+                "en": "Roanne Castle Keep"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei klarer Winterluft hervorragend; steigen Sie vorsichtig ab, da das Metallschloss des Rades sehr kalt sein kann.",
+                "hu": "A kilátás kiváló a tiszta téli levegőben; szálljon le óvatosan, mert a biciklizár fémrésze nagyon hideg lehet.",
+                "ro": "Priveliștea este excelentă în aerul curat de iarnă; coborâți cu grijă, metalul antifurtului poate fi foarte rece.",
+                "en": "The view is excellent in the clear winter air; dismount carefully as the metal of your bike lock can be very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Joseph-Déchelette-Museum",
+                "hu": "Joseph Déchelette Múzeum",
+                "ro": "Muzeul Joseph Déchelette",
+                "en": "Joseph Déchelette Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung; genießen Sie die geheizten Räume und die Kunst.",
+                "hu": "Használja a ruhatárat a nehéz téli ruházatához; élvezze a fűtött termeket és a művészetet.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă; bucurați-vă de sălile încălzite și de artă.",
+                "en": "Use the cloakroom for your heavy winter gear; enjoy the heated rooms and the fascinating art collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Promenades",
+                "hu": "Parc des Promenades",
+                "ro": "Parc des Promenades",
+                "en": "Parc des Promenades"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Wegen; die tiefstehende Wintersonne kann beim Fahren blenden, nutzen Sie eine Sonnenbrille.",
+                "hu": "Ügyeljen a nedves levelekre az utakon; az alacsonyan járó téli nap elvakíthat tekerés közben, viseljen napszemüveget.",
+                "ro": "Atenție la frunzele ude de pe alei; soarele de iarnă jos vă poate orbi în timp ce pedalați, folosiți ochelari de soare.",
+                "en": "Watch out for wet leaves on the paths; the low winter sun can be blinding while riding, so use sunglasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Neubourg",
+                "hu": "Neubourg kastély",
+                "ro": "Castelul de Neubourg",
+                "en": "Château de Neubourg"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit um 17:00 Uhr; eine gute Beleuchtung am Fahrrad ist im Winter lebenswichtig.",
+                "hu": "Tervezze meg a visszautat a sötétedés előtt, 17:00-ig; a jó kerékpárvilágítás télen életfontosságú.",
+                "ro": "Planificați întoarcerea înainte de lăsarea întunericului, la ora 17:00; un sistem de iluminat bun este vital iarna.",
+                "en": "Plan your return trip before darkness falls at 17:00; good bike lighting is vital during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "A reggel a történelmi vasútállomáson kezdődik, majd a dzsungelpark kínál családi szórakozást.\nDélben a nyüzsgő kikötőre és a lenyűgöző ősi vártoronyra helyeződik a kirándulás fő fókusza.\nDélután autózzon el a Le Scarabée épületéhez, hogy megcsodálja merész, modern építészetét.\nAz este a lenyűgöző Château de Neubourg kastélynál ér véget, melyet a lemenő nap fénye fürdet.",
         "ro": "Dimineața începe la gara istorică, urmată de o vizită plină de distracție la Jungle park.\nLa amiază, focusul se mută spre portul vibrant, urmat de o oprire la fascinantul Donjon antic.\nDupă-amiaza, conduceți spre Le Scarabée pentru a admira arhitectura sa modernă și curajoasă.\nSeara se încheie elegant la impresionantul Château de Neubourg, scăldat în lumina amurgului.",
         "en": "Morning starts at the historic railway station before heading to Jungle park for family fun.\nMidday shifts focus towards the vibrant port, followed by a fascinating stop at the ancient Keep.\nDuring the afternoon, cruise out to Le Scarabée to admire its bold, modern architectural design.\nEvening wraps up gracefully at the stunning Château de Neubourg bathed in fading daylight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt bequem am Bahnhof. Mittags bietet der Jungle Park überdachten Familienspaß, während es draußen stürmt. Am Nachmittag fahren Sie zum Hafen und zum Burgfried, wobei das Auto als trockener Rückzugsort dient. Der Abend klingt im Le Scarabée oder am Schloss aus, wo Sie die beleuchtete Szenerie gemütlich aus dem trockenen Fahrzeug bewundern können.",
+            "hu": "A reggel kényelmesen indul az állomáson. Délben a Jungle Park fedett családi szórakozást kínál, miközben kint tombol az eső. Délután autózzon a kikötőhöz és a vártoronyhoz, ahol az autó száraz menedékként szolgál. Az este a Le Scarabée-nél vagy a kastélynál zárul, ahol a kivilágított látványt kényelmesen, a száraz járműből is megcsodálhatja.",
+            "ro": "O zi ploioasă începe confortabil la gară. La prânz, Jungle Park oferă distracție acoperită pentru familie în timp ce afară plouă. După-amiaza, conduceți spre port și donjon, mașina fiind un refugiu uscat între opriri. Seara se încheie la Le Scarabée sau la castel, unde puteți admira decorul iluminat din confortul vehiculului uscat.",
+            "en": "A rainy day starts comfortably at the station. Midday offers covered family fun at Jungle Park while it pours outside. In the afternoon, drive to the port and the keep, using the car as a dry retreat between stops. The evening concludes at Le Scarabée or the castle, where you can admire the illuminated scenery from the dry comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Roanne",
+                "hu": "Roanne-i vasútállomás",
+                "ro": "Gara din Roanne",
+                "en": "Roanne Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um trocken ins Gebäude zu gelangen; halten Sie Schirme für den Weg zum Auto bereit.",
+                "hu": "Használja a parkolóházat, hogy szárazon jusson az épületbe; tartsa készenlétben az esernyőket az autóhoz vezető úthoz.",
+                "ro": "Folosiți parcarea acoperită pentru a intra uscat în clădire; pregătiți umbrelele pentru drumul spre mașină.",
+                "en": "Use the covered parking area to enter the building dry; keep umbrellas ready for the walk back to your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Dschungelpark",
+                "hu": "Dzsungelpark",
+                "ro": "Jungle park",
+                "en": "Jungle park"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Regentage, da viele Aktivitäten überdacht sind; parken Sie nah am Eingang, um Nässe zu vermeiden.",
+                "hu": "Ideális esős napokra, mivel sok tevékenység fedett; parkoljon közel a bejárathoz, hogy elkerülje az ázást.",
+                "ro": "Ideal pentru zilele ploioase, deoarece multe activități sunt acoperite; parcați aproape de intrare pentru a evita ploaia.",
+                "en": "Ideal for rainy days as many activities are indoor; park close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Roanne",
+                "hu": "Roanne-i kikötő",
+                "ro": "Portul din Roanne",
+                "en": "Port of Roanne"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen aus dem Auto; kurze Wege zu den Cafés minimieren den Kontakt mit dem Regen.",
+                "hu": "Élvezze a kikötőre nyíló kilátást az autóból; a kávézókhoz vezető rövid utak minimalizálják az esővel való érintkezést.",
+                "ro": "Bucurați-vă de vederea spre port din mașină; distanțele scurte până la cafenele minimizează contactul cu ploaia.",
+                "en": "Enjoy the view of the port from your car; short walks to the nearby cafes will minimize your exposure to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgfried von Roanne",
+                "hu": "Roanne-i Vártorony",
+                "ro": "Donjonul Castelului Roanne",
+                "en": "Roanne Castle Keep"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den Parkplätzen; die historischen Mauern wirken im Regen besonders markant.",
+                "hu": "Ügyeljen a parkolókban lévő tócsákra; a történelmi falak esőben különösen markánsak és látványosak.",
+                "ro": "Atenție la bălțile din parcări; zidurile istorice par deosebit de impunătoare pe ploaie.",
+                "en": "Watch out for puddles in the parking areas; the historical walls look particularly striking in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Scarabée",
+                "hu": "Le Scarabée",
+                "ro": "Le Scarabée",
+                "en": "Le Scarabée"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort für Kultur im Trockenen; der große Parkplatz ermöglicht einen schnellen Zugang zum Gebäude.",
+                "hu": "Kiváló helyszín száraz kulturális élményekhez; a nagy parkoló gyors bejutást tesz lehetővé az épületbe.",
+                "ro": "Un loc excelent pentru cultură la adăpost; parcarea mare permite accesul rapid în clădire.",
+                "en": "An excellent venue for culture while staying dry; the large parking lot allows for quick access to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Neubourg",
+                "hu": "Neubourg kastély",
+                "ro": "Castelul de Neubourg",
+                "en": "Château de Neubourg"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Landstraßen; das Schloss bietet im Regen eine fast mystische Fotokulisse.",
+                "hu": "Vezessen óvatosan a nedves országutakon; a kastély esőben szinte misztikus fotóhátteret kínál.",
+                "ro": "Conduceți cu atenție pe drumurile ude; castelul oferă un decor aproape mistic pentru fotografii pe ploaie.",
+                "en": "Drive carefully on the wet country roads; the castle offers an almost mystical backdrop for photos in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Bahnhof, wo Sie die beheizte Komfortzone Ihres Autos genießen. Mittags bietet der Jungle Park Wärme für die ganze Familie. Am Nachmittag führt die Fahrt zum Hafen und Burgfried, ideal, um die Stadt ohne langes Gehen in der Kälte zu erkunden. Da die Sonne gegen 17:00 Uhr untergeht, ist die Ankunft am Schloss Neubourg der perfekte Abschluss im magischen Zwielicht.",
+            "hu": "A tiszta téli reggel az állomáson indul, élvezve az autó fűtött kényelmét. Délben a Jungle Park kínál melegséget az egész családnak. Délután az út a kikötőhöz és a vártoronyhoz vezet, ideális a város felfedezéséhez a hidegben való hosszú séta nélkül. Mivel a nap 17:00 körül nyugszik, a Neubourg kastélyhoz való érkezés tökéletes zárás a varázslatos alkonyatban.",
+            "ro": "O dimineață senină de iarnă începe la gară, profitând de confortul încălzit al mașinii. La prânz, Jungle Park oferă căldură pentru întreaga familie. După-amiaza, drumul spre port și donjon este ideal pentru a vedea orașul fără a merge mult prin frig. Deoarece soarele apune în jur de 17:00, sosirea la castel este finalul perfect în amurgul magic.",
+            "en": "A clear winter morning starts at the station, where you can enjoy the heated comfort of your car. Midday brings warmth for the whole family at Jungle Park. In the afternoon, driving to the port and keep is ideal for seeing the city without long walks in the cold. As the sun sets around 17:00, arriving at Château de Neubourg is the perfect finish in the magical twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Roanne",
+                "hu": "Roanne-i vasútállomás",
+                "ro": "Gara din Roanne",
+                "en": "Roanne Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warmlaufen; der Bahnhofsvorplatz kann morgens bei Frost sehr glatt sein.",
+                "hu": "Hagyja az autót kicsit bemelegedni; az állomás előtti tér reggel fagyos időben nagyon csúszós lehet.",
+                "ro": "Lăsați mașina să se încălzească puțin; piața gării poate fi foarte alunecoasă dimineața pe ger.",
+                "en": "Let the car warm up for a moment; the station square can be very icy and slippery in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Dschungelpark",
+                "hu": "Dzsungelpark",
+                "ro": "Jungle park",
+                "en": "Jungle park"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für Kinder; nutzen Sie die Parkplätze direkt vor dem Eingang, um die Kältebrücke kurz zu halten.",
+                "hu": "Meleg hely a gyerekeknek; használja a közvetlenül a bejárat előtti parkolókat, hogy lerövidítse a hidegben töltött időt.",
+                "ro": "Un loc cald pentru copii; folosiți parcarea de lângă intrare pentru a minimiza timpul petrecut în frig.",
+                "en": "A warm indoor place for kids; use the parking spots right in front of the entrance to stay in the cold for as little as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Roanne",
+                "hu": "Roanne-i kikötő",
+                "ro": "Portul din Roanne",
+                "en": "Port of Roanne"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die winterlichen Boote ist vom Kai-Parkplatz aus wunderschön; eine Thermoskanne mit Tee im Auto ist ideal.",
+                "hu": "A téli hajókra nyíló kilátás gyönyörű a rakparti parkolóból; egy termosz meleg tea az autóban kiváló ötlet.",
+                "ro": "Vederea bărcii în peisajul de iarnă este superbă din parcarea cheiului; un termos cu ceai cald în mașină este ideal.",
+                "en": "The view of the boats in winter is beautiful from the quay parking; keeping a thermos of hot tea in the car is a great idea."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgfried von Roanne",
+                "hu": "Roanne-i Vártorony",
+                "ro": "Donjonul Castelului Roanne",
+                "en": "Roanne Castle Keep"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet tolle Lichtverhältnisse für Fotos; achten Sie beim Parken auf gefrorenes Kopfsteinpflaster.",
+                "hu": "Az alacsonyan járó nap kiváló fényviszonyokat biztosít a fotókhoz; parkoláskor ügyeljen a fagyott macskakőre.",
+                "ro": "Soarele jos oferă condiții de lumină excelente pentru fotografii; atenție la pavajul înghețat când parcați.",
+                "en": "The low winter sun provides great lighting for photos; watch out for frozen cobblestones when parking your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Scarabée",
+                "hu": "Le Scarabée",
+                "ro": "Le Scarabée",
+                "en": "Le Scarabée"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre bei Veranstaltungen; der gut beleuchtete Parkplatz ist sicher bei früher Dunkelheit.",
+                "hu": "Élvezze a meleg hangulatot a rendezvényeken; a jól kivilágított parkoló biztonságos a korai sötétedéskor.",
+                "ro": "Bucurați-vă de atmosfera caldă la evenimente; parcarea bine iluminată este sigură la lăsarea timpurie a întunericului.",
+                "en": "Enjoy the warm atmosphere at events; the well-lit parking lot is safe during the early winter darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Neubourg",
+                "hu": "Neubourg kastély",
+                "ro": "Castelul de Neubourg",
+                "en": "Château de Neubourg"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um das Schloss im Abendrot zu sehen; prüfen Sie den Reifendruck für die winterlichen Straßen.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a kastélyt az alkonyi fényben; ellenőrizze a guminyomást a téli utakra.",
+                "ro": "Sosiți înainte de 17:00 pentru a vedea castelul în lumina amurgului; verificați presiunea pneurilor pentru drumurile de iarnă.",
+                "en": "Arrive before 17:00 to see the castle in the sunset glow; check your tire pressure for the cold winter roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az Église Sainte-Anne környékének felfedezésével. Délben másszon fel a genovai Citadelle-hez a kikötői panorámáért, majd sétáljon el a Tourelle-hez. A délután az Église Sainte-Marie ősi köveihez vezet. Zárja a napot egy kellemes pihenéssel és kavicskacsázással a festői Plage de Tettola kristálytiszta vizénél.",
         "ro": "Începeți dimineața explorând inima pitorească a orașului în jurul Église Sainte-Anne. La prânz, urcați la Citadelle pentru vederi uimitoare și plimbați-vă spre Tourelle. După-amiaza vă poartă spre pietrele antice de la Église Sainte-Marie. Încheiați ziua relaxându-vă lângă apele strălucitoare ale Plage de Tettola.",
         "en": "Start your morning exploring the quaint core of Saint-Florent around Église Sainte-Anne. Midday brings a climb to the Genoese Citadelle for stunning marina views and a stroll past the maritime Tourelle. Afternoon leads you to the ancient stones of Église Sainte-Marie. Conclude the day skipping stones and relaxing by the shimmering waters of Plage de Tettola."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Sainte-Anne-Kirche, während der Regen sanft gegen die alten Mauern trommelt. Mittags bieten die massiven Steinstrukturen der Zitadelle einen willkommenen Unterschlupf vor den Schauern. Am Nachmittag führt der Weg entlang der Küste, wo die raue See unter dem grauen Himmel eine dramatische Kulisse bildet. Der Abend klingt gemütlich in den überdachten Gassen der Altstadt aus, wo die nassen Pflastersteine das warme Licht der Laternen reflektieren.",
+            "hu": "A reggel a Szent Anna templom csendjében indul, ahol az eső kopogása a tetőn békés hangulatot áraszt. Délben a fellegvár falai közé húzódunk, a masszív kőépítmények menedéket nyújtanak a zápor elől. Délután a tenger morajlása kísér minket a szürke horizont mentén, a partmenti ösvények vizesek, de látványosak. Este a kikötő fényeit egy fedett teraszról csodáljuk, élvezve a párás, sós levegőt, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața începe sub acoperișul protector al Bisericii Sainte-Anne, în timp ce ploaia bate ușor în zidurile vechi. La prânz, structurile masive de piatră ale Citadelei oferă un adăpost binevenit împotriva averselor. După-amiaza, drumul continuă de-a lungul coastei, unde marea agitată sub cerul cenușiu creează un decor dramatic. Seara se încheie plăcut pe străzile acoperite ale orașului vechi, unde pavajul umed reflectă lumina caldă a felinarelor.",
+            "en": "The morning begins under the protective roof of Sainte-Anne Church, while the rain gently drums against the ancient walls. At noon, the massive stone structures of the Citadel provide a welcome shelter from the showers. In the afternoon, the path leads along the coast, where the rough sea under the gray sky creates a dramatic backdrop. The evening concludes comfortably in the covered alleys of the old town, where the wet cobblestones reflect the warm light of the lanterns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Anne",
+                "hu": "Église Sainte-Anne",
+                "ro": "Église Sainte-Anne",
+                "en": "Église Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Interieur, das einen trockenen Rückzugsort bietet; schütteln Sie Ihren Regenschirm am Eingang gründlich aus.",
+                "hu": "A barokk belső tér tökéletes menedék a reggeli zápor elől, csodálja meg a díszes oltárt; vigyen magával esernyőt a bejárathoz.",
+                "ro": "Admirați interiorul baroc care oferă un refugiu uscat; scuturați bine umbrela la intrare pentru a păstra podeaua curată.",
+                "en": "Admire the baroque interior which provides a dry sanctuary from the morning rain; shake your umbrella thoroughly at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadelle de Saint-Florent",
+                "hu": "Citadelle de Saint-Florent",
+                "ro": "Citadelle de Saint-Florent",
+                "en": "Citadelle de Saint-Florent"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten Schutz vor dem Wind, doch die Steinstufen können rutschig sein; tragen Sie festes Schuhwerk mit Profil.",
+                "hu": "A történelmi falak között sétálva felfedezheti a genovai építészetet, miközben a bástyák némi védelmet nyújtanak; vigyázzon, a kövek csúszósak.",
+                "ro": "Zidurile istorice oferă protecție împotriva vântului, dar treptele de piatră pot fi alunecoase; purtați încălțăminte cu talpă aderentă.",
+                "en": "The historical walls offer protection from the wind, but the stone steps can be slippery; wear sturdy shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourelle de Tignosu",
+                "hu": "Tourelle de Tignosu",
+                "ro": "Tourelle de Tignosu",
+                "en": "Tourelle de Tignosu"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit des Meeres an diesem exponierten Punkt; halten Sie Ihre Regenjacke geschlossen, da es hier sehr windig ist.",
+                "hu": "Ez a kis torony a tenger partján drámai látványt nyújt a szürke égbolt alatt; a szél ilyenkor erős, rögzítse jól az esőkabátját.",
+                "ro": "Experimentați frumusețea brută a mării în acest punct expus; țineți pelerina de ploaie închisă, deoarece vântul este foarte puternic aici.",
+                "en": "Experience the raw beauty of the sea at this exposed point; keep your raincoat fastened as it can be very windy here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie",
+                "hu": "Église Sainte-Marie",
+                "ro": "Église Sainte-Marie",
+                "en": "Église Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik der Kathedrale bei Regen ist besonders eindrucksvoll; nutzen Sie die Zeit für eine meditative Pause im trockenen Kirchenschiff.",
+                "hu": "A katedrális tágas belső tere és akusztikája lenyűgöző esős időben is, remek hely a lelki feltöltődésre; a bejáratnál rázza le a vizet.",
+                "ro": "Acustica catedralei în timpul ploii este deosebit de impresionantă; folosiți timpul pentru o pauză meditativă în naosul uscat.",
+                "en": "The acoustics of the cathedral during rain are particularly impressive; use the time for a meditative break in the dry nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Tettola",
+                "hu": "Plage de Tettola",
+                "ro": "Plage de Tettola",
+                "en": "Plage de Tettola"
+              },
+              "tip_5lang": {
+                "de": "Die Kieselsteine leuchten im Regen besonders farbenfroh; tragen Sie wasserdichte Wanderstiefel, da der Zugangspfad schlammig sein kann.",
+                "hu": "A vadregényes part és a kavicsok különlegesen fénylenek a nedvességtől, a hullámzás pedig erőteljes; viseljen vízálló cipőt a sár elkerülésére.",
+                "ro": "Pietrele strălucesc colorat în ploaie; purtați bocanci impermeabili, deoarece poteca de acces poate deveni noroioasă.",
+                "en": "The pebbles glow colorfully in the rain; wear waterproof hiking boots as the access path can be muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einem erfrischenden Spaziergang zur Sainte-Anne-Kirche ein. Mittags wärmt die tiefstehende Sonne die Zitadelle, während der Blick über den leeren Golf schweift. Am Nachmittag sorgt die kühle Meeresbrise für rote Wangen auf dem Weg nach Tettola. Der frühe Sonnenuntergang gegen 17:00 Uhr taucht den Hafen in ein sanftes, goldenes Licht, bevor die winterliche Stille einkehrt.",
+            "hu": "A friss téli reggelen a Sainte-Anne templom szakrális nyugalma fogad, a levegő csípős, de tiszta. Délben a citadella falai között sétálunk, ahol a téli nap alacsony szöge különleges árnyékokat vet a kövekre. Délután a tengerparti szélben gyorsabb tempót diktálunk, a táj ilyenkor a legnyugodtabb. Az este korán köszönt be, a városka fényei már öt órakor kigyúlnak, meghitt hangulatot teremtve.",
+            "ro": "O dimineață senină de iarnă vă invită la o plimbare revigorantă către Biserica Sainte-Anne. La prânz, soarele blând încălzește Citadela, în timp ce privirea alunecă peste golful pustiu. După-amiaza, briza răcoroasă a mării vă înroșește obrajii pe drumul spre Tettola. Apusul devreme, în jurul orei 17:00, scaldă portul într-o lumină aurie, înainte ca liniștea iernii să se instaleze.",
+            "en": "A clear winter morning invites you for a refreshing walk to Sainte-Anne Church. At noon, the low sun warms the Citadel while the view sweeps across the empty gulf. In the afternoon, the cool sea breeze brings color to your cheeks on the way to Tettola. The early sunset around 5:00 PM bathes the harbor in a soft golden light before the winter silence settles in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Anne",
+                "hu": "Église Sainte-Anne",
+                "ro": "Église Sainte-Anne",
+                "en": "Église Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Touristenströme; tragen Sie eine warme Mütze, da die alten Kirchenschiffe im Winter recht kühl sind.",
+                "hu": "A templom csendje és a gyertyák fénye barátságos meleget áraszt a hűvös téli délelőttön; viseljen réteges öltözetet a benti hideg ellen.",
+                "ro": "Bucurați-vă de liniște fără fluxul de turiști; purtați o căciulă călduroasă, deoarece navele vechi ale bisericii sunt destul de reci iarna.",
+                "en": "Enjoy the peace without the tourist crowds; wear a warm hat as the old church naves are quite cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadelle de Saint-Florent",
+                "hu": "Citadelle de Saint-Florent",
+                "ro": "Citadelle de Saint-Florent",
+                "en": "Citadelle de Saint-Florent"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht über den Golf von Saint-Florent ist im klaren Winterlicht am schärfsten; ein winddichter Mantel schützt vor der Brise.",
+                "hu": "A kilátás az öbölre télen a legtisztább, ilyenkor nincsenek turistahadak a panoráma élvezetéhez; a szélálló kabát elengedhetetlen.",
+                "ro": "Vederea peste Golful Saint-Florent este cea mai clară în lumina rece de iarnă; o haină rezistentă la vânt vă va proteja de briză.",
+                "en": "The view over the Gulf of Saint-Florent is sharpest in the clear winter light; a windproof coat will protect you from the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourelle de Tignosu",
+                "hu": "Tourelle de Tignosu",
+                "ro": "Tourelle de Tignosu",
+                "en": "Tourelle de Tignosu"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für Fotos in der goldenen Stunde vor 17:00 Uhr; achten Sie auf die Zeit, da es nach Sonnenuntergang schnell abkühlt.",
+                "hu": "A magányos torony a téli napfényben méltóságteljesen őrzi a partot, a fotózáshoz ilyenkor a legjobbak a fények; siessen, mert korán sötétedik.",
+                "ro": "Un loc perfect pentru fotografii în ora de aur înainte de 17:00; fiți atenți la timp, deoarece se răcește rapid după apus.",
+                "en": "A perfect spot for photos in the golden hour before 5:00 PM; watch the time, as it cools down quickly after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie",
+                "hu": "Église Sainte-Marie",
+                "ro": "Église Sainte-Marie",
+                "en": "Église Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit der Kathedrale wirkt in der winterlichen Abgeschiedenheit besonders spirituell; dicke Socken halten Ihre Füße warm.",
+                "hu": "A katedrális román stílusú puritánsága télen érvényesül a legjobban; a köves padló ilyenkor nagyon hideg, vastag zokni ajánlott.",
+                "ro": "Frumusețea simplă a catedralei pare deosebit de spirituală în izolarea de iarnă; șosetele groase vă vor menține picioarele calde pe podeaua rece.",
+                "en": "The simple beauty of the cathedral feels especially spiritual in the winter seclusion; thick socks will keep your feet warm on the stone floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Tettola",
+                "hu": "Plage de Tettola",
+                "ro": "Plage de Tettola",
+                "en": "Plage de Tettola"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den verlassenen Strand für eine intensive Naturbegegnung; tragen Sie einen Schal gegen den ständigen Küstenwind.",
+                "hu": "A téli séta a kihalt parton segít a teljes kikapcsolódásban, a tenger illata ilyenkor a legintenzívebb; fejezze be a túrát sötétedés előtt.",
+                "ro": "Folosiți plaja pustie pentru o întâlnire intensă cu natura; purtați un fular pentru a vă proteja de vântul constant de coastă.",
+                "en": "Use the deserted beach for an intense encounter with nature; wear a scarf to protect yourself from the constant coastal wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját az Église Sainte-Anne-nál, majd tekerjen fel a történelmi Citadelle-hez. Délben élvezze a Plage de Tettola és a csendes Plage d'Olzo strandjait. Délután fedezze fel az Église Sainte-Marie lenyűgöző középkori épületét. Zárja a programot egy hangulatos naplemente-nézéssel a homokos Plage de la Roya partján.",
         "ro": "Începeți turul cu bicicleta la Église Sainte-Anne înainte de a urca spre Citadelle. La prânz, pedalați spre pietrișul răcoritor de la Plage de Tettola și nisipul liniștit de la Plage d'Olzo. După-amiaza, descoperiți istorica Église Sainte-Marie. Încheiați cu o plimbare pitorească la apus și relaxare la întinsa Plage de la Roya.",
         "en": "Kick off your cycling tour at Église Sainte-Anne before conquering the slight incline to the Citadelle. Midday allows a brisk ride to the refreshing pebbles of Plage de Tettola and the quiet sands of Plage d'Olzo. In the afternoon, discover the historical Église Sainte-Marie. Wrap up with a scenic sunset ride and relaxation at the expansive Plage de la Roya."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet vorsichtig auf den nassen Straßen zur Sainte-Anne-Kirche. Mittags bietet die Zitadelle Schutz vor heftigen Güssen, während Sie Ihre Ausrüstung prüfen. Die Fahrt zu den Stränden am Nachmittag erfordert Konzentration auf den rutschigen Wegen zwischen Tettola und Olzo. Am Abend kehren Sie mit frischem Elan in den Hafen zurück, begleitet vom Duft des Regens auf warmem Asphalt.",
+            "hu": "A kerékpáros nap óvatosan indul a vizes aszfalton a Szent Anna templom felé. Délben a citadella falai alatt várunk ki egy-egy záport, ellenőrizve a felszerelést. A délutáni tekerés a Tettola és Olzo strandok között nagy koncentrációt igényel a csúszós ösvényeken. Este frissen érünk vissza a kikötőbe, miközben az eső illata keveredik a sós tengeri levegővel.",
+            "ro": "Ziua de ciclism începe cu prudență pe drumurile umede spre Biserica Sainte-Anne. La prânz, Cetatea oferă protecție împotriva averselor abundente în timp ce vă verificați echipamentul. Drumul spre plaje după-amiaza necesită concentrare pe potecile alunecoase dintre Tettola și Olzo. Seara, vă întoarceți cu forțe proaspete în port, însoțiți de mirosul ploii pe asfaltul cald.",
+            "en": "The cycling day starts cautiously on the wet roads to Sainte-Anne Church. At noon, the Citadel offers protection from heavy downpours while you check your gear. The ride to the beaches in the afternoon requires concentration on the slippery paths between Tettola and Olzo. In the evening, you return to the harbor with fresh energy, accompanied by the scent of rain on warm asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Anne",
+                "hu": "Église Sainte-Anne",
+                "ro": "Église Sainte-Anne",
+                "en": "Église Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die barocke Pracht; prüfen Sie Ihre Bremsbeläge vor der Abfahrt im Regen.",
+                "hu": "Parkoljon fedett helyen és élvezze a barokk pompát; indulás előtt ellenőrizze a fékeket a vizes útszakaszok miatt.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de splendoarea barocă; verificați plăcuțele de frână înainte de a pleca pe ploaie.",
+                "en": "Park your bike in a sheltered spot and enjoy the baroque splendor; check your brake pads before setting off in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadelle de Saint-Florent",
+                "hu": "Citadelle de Saint-Florent",
+                "ro": "Citadelle de Saint-Florent",
+                "en": "Citadelle de Saint-Florent"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Zitadelle kann bei Nässe anstrengend sein; nutzen Sie die überdachten Bereiche der Festung für eine kurze Verschnaufpause.",
+                "hu": "A fellegvárba vezető út meredek és vizesen nehézkes lehet; használja a fedett részeket egy rövid pihenőre és szárítkozásra.",
+                "ro": "Urcarea spre cetate poate fi obositoare pe umezeală; folosiți zonele acoperite ale fortăreței pentru o scurtă pauză de respirație.",
+                "en": "The climb to the citadel can be strenuous in the wet; use the covered areas of the fortress for a short breathing space."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Tettola",
+                "hu": "Plage de Tettola",
+                "ro": "Plage de Tettola",
+                "en": "Plage de Tettola"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg ist bei Regen oft matschig; reduzieren Sie den Reifendruck leicht für besseren Grip auf den feuchten Kieselwegen.",
+                "hu": "A tengerparti ösvény esőben gyakran sáros; csökkentse kissé a guminyomást a jobb tapadás érdekében a nedves kavicsokon.",
+                "ro": "Poteca de coastă este adesea noroioasă în ploaie; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe pietrișul umed.",
+                "en": "The coastal path is often muddy in the rain; reduce tire pressure slightly for better grip on the damp pebble paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Olzo",
+                "hu": "Plage d'Olzo",
+                "ro": "Plage d'Olzo",
+                "en": "Plage d'Olzo"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen abgelegenen Strand trotz Regens für die absolute Stille; tragen Sie eine wasserdichte Helmüberziehung gegen Nässe.",
+                "hu": "Érje el ezt az eldugott strandot az eső ellenére a teljes nyugalomért; viseljen vízálló sisakhuzatot a beázás ellen.",
+                "ro": "Ajungeți la această plajă retrasă în ciuda ploii pentru o liniște absolută; purtați o protecție impermeabilă pentru cască.",
+                "en": "Reach this secluded beach despite the rain for absolute silence; wear a waterproof helmet cover against the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie",
+                "hu": "Église Sainte-Marie",
+                "ro": "Église Sainte-Marie",
+                "en": "Église Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich vor der Weiterfahrt aufzuwärmen; stellen Sie sicher, dass Ihre Rücklichter bei schlechter Sicht eingeschaltet sind.",
+                "hu": "Ideális hely a felmelegedésre a továbbhaladás előtt; győződjön meg róla, hogy a hátsó lámpák működnek a rossz látási viszonyok között.",
+                "ro": "Un loc ideal pentru a vă încălzi înainte de a continua drumul; asigurați-vă că luminile din spate sunt aprinse în condiții de vizibilitate redusă.",
+                "en": "An ideal place to warm up before continuing; ensure your rear lights are on in poor visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roya",
+                "hu": "Plage de la Roya",
+                "ro": "Plage de la Roya",
+                "en": "Plage de la Roya"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist fest und lässt sich gut befahren, wenn er nass ist; reinigen Sie Ihre Kette nach der Tour gründlich von Sand und Salz.",
+                "hu": "A homok nedvesen kemény és jól tekerhető; a túra után alaposan tisztítsa meg a láncot a homoktól és a sós víztől.",
+                "ro": "Nisipul este ferm și ușor de parcurs când este umed; curățați bine lanțul după tură pentru a îndepărta nisipul și sarea.",
+                "en": "The sand is firm and easy to ride on when wet; clean your chain thoroughly after the tour to remove sand and salt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, aber sonniger Morgen beginnt an der Sainte-Anne-Kirche. Die Mittagsstunden an der Zitadelle bieten die beste Gelegenheit, Vitamine unter der korsischen Wintersonne zu tanken. Nachmittags führt die Route zu den einsamen Stränden von Olzo, wo die kühle Luft die Sinne schärft. Da es um 17:00 Uhr dunkel wird, planen Sie die Rückkehr rechtzeitig ein, um die beleuchtete Promenade zu genießen.",
+            "hu": "Fagyos, de napos reggel indul a Szent Anna templomnál. A déli órák a citadellánál kínálják a legjobb alkalmat a korzikai téli napfény élvezetére. Délután az út Olzo magányos strandjaihoz vezet, ahol a hűvös levegő felfrissíti az érzékeket. Mivel 17:00-kor sötétedik, tervezze meg időben a visszatérést, hogy még lássa a kivilágított sétányt.",
+            "ro": "O dimineață geroasă, dar însorită, începe la Biserica Sainte-Anne. Orele prânzului la Citadelă oferă cea mai bună ocazie de a vă reîncărca cu vitamine sub soarele de iarnă corsican. După-amiaza, traseul duce la plajele solitare din Olzo, unde aerul rece vă ascute simțurile. Deoarece se întunecă la ora 17:00, planificați întoarcerea din timp pentru a vă bucura de faleza iluminată.",
+            "en": "A frosty but sunny morning begins at Sainte-Anne Church. The midday hours at the Citadel offer the best opportunity to soak up vitamins under the Corsican winter sun. In the afternoon, the route leads to the lonely beaches of Olzo, where the cool air sharpens the senses. As it gets dark at 5:00 PM, plan your return in time to enjoy the illuminated promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Anne",
+                "hu": "Église Sainte-Anne",
+                "ro": "Église Sainte-Anne",
+                "en": "Église Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für einen energiegeladenen Start; tragen Sie Handschuhe, da der Fahrtwind die Finger schnell auskühlt.",
+                "hu": "Használja ki a hűvös reggeli levegőt az energikus kezdéshez; viseljen kesztyűt, mert a menetszél hamar lehűti az ujjait.",
+                "ro": "Profitați de aerul răcoros al dimineții pentru un început plin de energie; purtați mănuși, deoarece vântul vă răcește rapid degetele.",
+                "en": "Take advantage of the cool morning air for an energetic start; wear gloves as the wind chills your fingers quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadelle de Saint-Florent",
+                "hu": "Citadelle de Saint-Florent",
+                "ro": "Citadelle de Saint-Florent",
+                "en": "Citadelle de Saint-Florent"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und bietet fantastische Lichtverhältnisse für Panoramafotos; parken Sie das Rad in der Sonne, um den Sattel warm zu halten.",
+                "hu": "A nap alacsonyan jár, fantasztikus fényeket kínálva a panorámaképekhez; parkolja a bringát a napon, hogy melegen tartsa a nyerget.",
+                "ro": "Soarele este jos și oferă condiții de lumină fantastice pentru fotografii panoramice; parcați bicicleta la soare pentru a menține șaua caldă.",
+                "en": "The sun is low, offering fantastic light conditions for panoramic photos; park the bike in the sun to keep the saddle warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Tettola",
+                "hu": "Plage de Tettola",
+                "ro": "Plage de Tettola",
+                "en": "Plage de Tettola"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das offene Meer in der klaren Winterluft; tragen Sie Thermo-Überschuhe gegen den kalten Wind.",
+                "hu": "Élvezze a tágas kilátást a nyílt tengerre a tiszta téli levegőben; viseljen thermo kamáslit a hideg szél ellen.",
+                "ro": "Bucurați-vă de vederea largă a mării deschise în aerul curat de iarnă; purtați protecții termice pentru încălțăminte împotriva vântului rece.",
+                "en": "Enjoy the wide view of the open sea in the clear winter air; wear thermal shoe covers against the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Olzo",
+                "hu": "Plage d'Olzo",
+                "ro": "Plage d'Olzo",
+                "en": "Plage d'Olzo"
+              },
+              "tip_5lang": {
+                "de": "Die Einsamkeit des Winters lässt diesen Strand fast magisch erscheinen; packen Sie eine Thermoskanne mit warmem Tee in Ihre Fahrradtasche.",
+                "hu": "A téli magány szinte varázslatossá teszi ezt a strandot; tegyen egy termoszt meleg teával a kerékpáros táskájába.",
+                "ro": "Singurătatea iernii face ca această plajă să pară aproape magică; puneți un termos cu ceai cald în geanta de bicicletă.",
+                "en": "The winter solitude makes this beach appear almost magical; pack a thermos with warm tea in your bike bag."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie",
+                "hu": "Église Sainte-Marie",
+                "ro": "Église Sainte-Marie",
+                "en": "Église Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale für einen Moment der inneren Einkehr; achten Sie auf die Zeit, da die Dämmerung im Winter früh einsetzt.",
+                "hu": "Látogassa meg a katedrálist a belső elcsendesedésért; figyeljen az időre, mert télen korán beköszönt a szürkület.",
+                "ro": "Vizitați catedrala pentru un moment de reflecție interioară; fiți atenți la timp, deoarece amurgul se instalează devreme iarna.",
+                "en": "Visit the cathedral for a moment of inner contemplation; watch the time, as dusk sets in early in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roya",
+                "hu": "Plage de la Roya",
+                "ro": "Plage de la Roya",
+                "en": "Plage de la Roya"
+              },
+              "tip_5lang": {
+                "de": "Das flache Wasser reflektiert das winterliche Blau des Himmels wunderschön; tragen Sie reflektierende Kleidung für den Rückweg im Dunkeln.",
+                "hu": "A sekély víz csodásan tükrözi vissza az ég téli kékjét; viseljen fényvisszaverő ruházatot a sötétben való visszatéréshez.",
+                "ro": "Apa puțin adâncă reflectă frumos albastrul hibernal al cerului; purtați haine reflectorizante pentru drumul de întoarcere pe întuneric.",
+                "en": "The shallow water reflects the wintry blue of the sky beautifully; wear reflective clothing for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon ki korán a elszigetelt Phare de Fornali világítótoronyhoz a drámai parti kilátásért. Délben süttesse magát a Plage de la Roya homokján, mielőtt megnézi a Tourelle-t és felhajt a Citadelle-hez. A délutánt az Église Sainte-Marie ősi akusztikájának szentelje. A nap a csendes Plage d'Olzo strandjánál, egy békés naplementével ér véget.",
         "ro": "Conduceți devreme spre izolatul Phare de Fornali pentru vederi de coastă dramatice. La prânz, bucurați-vă de soare la Plage de la Roya, înainte de a vizita Tourelle și a urca la majestuoasa Citadelle. După-amiaza este dedicată acusticii medievale de la Église Sainte-Marie. Ziua se încheie la Plage d'Olzo pentru un apus liniștit.",
         "en": "Drive out early to the isolated Phare de Fornali for dramatic coastal views. Midday finds you soaking up the sun at Plage de la Roya before checking out the Tourelle and ascending to the majestic Citadelle. Afternoon is devoted to the medieval acoustics of Église Sainte-Marie. The day ends with a peaceful drive to Plage d'Olzo for a quiet sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt mit einer Fahrt zum Leuchtturm von Fornali, wo die Gischt gegen die Scheiben peitscht. Mittags bietet das Auto einen trockenen Rückzugsort zwischen den Stopps an der Zitadelle und der Roya. Am Nachmittag erkunden wir die Nebbio-Region, während die Wolken tief über den Bergen hängen. Der Abend endet entspannt bei der Beobachtung des Hafengeschehens aus dem trockenen Innenraum des Wagens.",
+            "hu": "Esős reggel indul a Fornali világítótoronyhoz tett kirándulással, ahol a tengeri permet az ablakra tapad. Délben az autó száraz menedéket nyújt a citadella és a Roya strand közötti megállók alatt. Délután a Nebbio régiót fedezzük fel, miközben a felhők alacsonyan úsznak a hegyek felett. Az este a kikötői élet megfigyelésével zárul a kocsi kényelmes, száraz belső teréből.",
+            "ro": "O dimineață ploioasă începe cu o călătorie la farul Fornali, unde stropii de apă bat în geamuri. La prânz, mașina oferă un refugiu uscat între opririle la Citadelă și plaja Roya. După-amiaza explorăm regiunea Nebbio, în timp ce norii plutesc jos deasupra munților. Seara se încheie relaxat urmărind activitatea din port din interiorul uscat al mașinii.",
+            "en": "A rainy morning starts with a drive to the Fornali lighthouse, where the sea spray lashes against the windows. At noon, the car provides a dry retreat between stops at the Citadel and Roya beach. In the afternoon, we explore the Nebbio region while clouds hang low over the mountains. The evening ends relaxedly observing the harbor activity from the dry interior of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Fornali",
+                "hu": "Phare de Fornali",
+                "ro": "Phare de Fornali",
+                "en": "Phare de Fornali"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer aus der Sicherheit Ihres Wagens; parken Sie so, dass Sie die beste Sicht auf die Brandung haben.",
+                "hu": "Figyelje meg a viharos tengert az autó biztonságából; úgy parkoljon, hogy a legjobb rálátása legyen a tajtékzó hullámokra.",
+                "ro": "Observați marea înfuriată din siguranța mașinii; parcați astfel încât să aveți cea mai bună vedere asupra valurilor.",
+                "en": "Observe the stormy sea from the safety of your car; park so that you have the best view of the crashing surf."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roya",
+                "hu": "Plage de la Roya",
+                "ro": "Plage de la Roya",
+                "en": "Plage de la Roya"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Sandes wirken im Regen gesättigter und dunkler; nutzen Sie die Parkplätze direkt am Strand für einen kurzen, trockenen Blick.",
+                "hu": "A homok színei esőben telítettebbek és sötétebbek; használja a közvetlen tengerparti parkolókat egy rövid, száraz kitekintéshez.",
+                "ro": "Culorile nisipului par mai saturate și mai închise în ploaie; folosiți parcările direct pe plajă pentru o vedere scurtă și uscată.",
+                "en": "The colors of the sand appear more saturated and darker in the rain; use the parking spots directly on the beach for a short, dry look."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourelle de Tignosu",
+                "hu": "Tourelle de Tignosu",
+                "ro": "Tourelle de Tignosu",
+                "en": "Tourelle de Tignosu"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Fotostopp, wenn der Himmel grau in grau ist; schalten Sie das Abblendlicht ein, da die Sicht an der Küstenstraße eingeschränkt ist.",
+                "hu": "Drámai fotómegálló, amikor az ég teljesen szürke; kapcsolja be a tompított fényszórót a partmenti út korlátozott látási viszonyai miatt.",
+                "ro": "O oprire dramatică pentru fotografii când cerul este complet gri; porniți luminile de întâlnire, deoarece vizibilitatea este redusă pe drumul de coastă.",
+                "en": "A dramatic photo stop when the sky is gray on gray; turn on your low beams as visibility on the coastal road is restricted."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadelle de Saint-Florent",
+                "hu": "Citadelle de Saint-Florent",
+                "ro": "Citadelle de Saint-Florent",
+                "en": "Citadelle de Saint-Florent"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festung und nutzen Sie die kurzen Regenpausen für den Außenbereich; ein Schirm im Kofferraum ist für den Weg zum Eingang Gold wert.",
+                "hu": "Fedezze fel az erődöt, és használja ki a rövid esőszüneteket a külső részekhez; a csomagtartóban lévő esernyő aranyat ér a bejáratig.",
+                "ro": "Explorați fortăreața și profitați de scurtele pauze de ploaie pentru exterior; o umbrelă în portbagaj este esențială pentru drumul spre intrare.",
+                "en": "Explore the fortress and take advantage of short breaks in the rain for the outdoor areas; an umbrella in the trunk is worth its weight in gold for the walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie",
+                "hu": "Église Sainte-Marie",
+                "ro": "Église Sainte-Marie",
+                "en": "Église Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet einen imposanten und trockenen Ort für Kulturgenuss; parken Sie nah am Tor, um den Regenpfützen zu entgehen.",
+                "hu": "A katedrális impozáns és száraz helyszínt kínál a kulturális élvezetekhez; parkoljon közel a kapuhoz, hogy elkerülje a pocsolyákat.",
+                "ro": "Catedrala oferă un loc impunător și uscat pentru cultură; parcați aproape de poartă pentru a evita bălțile mari de ploaie.",
+                "en": "The cathedral offers an imposing and dry location for cultural enjoyment; park close to the gate to avoid the rain puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Olzo",
+                "hu": "Plage d'Olzo",
+                "ro": "Plage d'Olzo",
+                "en": "Plage d'Olzo"
+              },
+              "tip_5lang": {
+                "de": "Die schroffe Küste wirkt im Regen besonders urwüchsig; lassen Sie die Fenster für einen Moment einen Spalt offen, um das Meer zu hören.",
+                "hu": "A zord partvidék esőben különösen vadregényes; hagyja résnyire nyitva az ablakot egy pillanatra, hogy hallja a tenger zúgását.",
+                "ro": "Coasta accidentată pare deosebit de sălbatică în ploaie; lăsați geamurile întredeschise pentru un moment pentru a auzi marea.",
+                "en": "The rugged coastline looks particularly wild in the rain; leave the windows cracked for a moment to hear the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintermorgen beginnt mit einer Fahrt zum Leuchtturm von Fornali, die Heizung sorgt für behagliche Wärme. Mittags bietet die Zitadelle einen weiten Blick über den schneebedeckten Gipfeln Korsikas in der Ferne. Am Nachmittag genießen wir die klare Sicht an den Stränden von Olzo. Da die Sonne früh untergeht, nutzen wir das warme Licht für eine Panoramafahrt entlang des Golfs, bevor es dunkel wird.",
+            "hu": "Napsütéses téli reggel indul a Fornali világítótoronyhoz, a fűtés kellemes meleget ad. Délben a citadelláról messzire ellátni a távoli, hófödte korzikai hegycsúcsokig. Délután Olzo strandjainál élvezzük a kristálytiszta látási viszonyokat. Mivel a nap korán nyugszik, kihasználjuk a meleg fényeket egy panorámaúthoz az öböl mentén, még sötétedés előtt.",
+            "ro": "O dimineață însorită de iarnă începe cu o călătorie la farul Fornali, încălzirea oferind un confort plăcut. La prânz, Citadela oferă o vedere largă spre vârfurile înzăpezite ale Corsicii în depărtare. După-amiaza ne bucurăm de vizibilitatea clară la plajele din Olzo. Deoarece soarele apune devreme, profităm de lumina caldă pentru o călătorie panoramică de-a lungul golfului înainte de întuneric.",
+            "en": "A sunny winter morning starts with a drive to the Fornali lighthouse, with the heater providing cozy warmth. At noon, the Citadel offers a wide view of Corsica's snow-capped peaks in the distance. In the afternoon, we enjoy the clear visibility at the beaches of Olzo. As the sun sets early, we take advantage of the warm light for a scenic drive along the gulf before it gets dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Fornali",
+                "hu": "Phare de Fornali",
+                "ro": "Phare de Fornali",
+                "en": "Phare de Fornali"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ermöglicht Sichtweiten bis zum Horizont; nutzen Sie die Standheizung, während Sie den Ausblick genießen.",
+                "hu": "A tiszta téli fények lehetővé teszik a látótávolságot egészen a horizontig; használja az állófűtést, miközben a kilátást élvezi.",
+                "ro": "Lumina clară de iarnă permite o vizibilitate până la orizont; folosiți încălzirea auxiliară în timp ce admirați priveliștea.",
+                "en": "The clear winter light allows for visibility all the way to the horizon; use the auxiliary heater while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roya",
+                "hu": "Plage de la Roya",
+                "ro": "Plage de la Roya",
+                "en": "Plage de la Roya"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und strahlt Ruhe aus; ein kurzer Spaziergang im Sand erfordert warme Winterschuhe.",
+                "hu": "A strand télen szinte teljesen néptelen és nyugalmat áraszt; egy rövid homoki sétához meleg téli lábbeli szükséges.",
+                "ro": "Plaja este aproape pustie iarna și radiază liniște; o scurtă plimbare prin nisip necesită încălțăminte caldă de iarnă.",
+                "en": "The beach is almost deserted in winter and radiates peace; a short walk in the sand requires warm winter shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourelle de Tignosu",
+                "hu": "Tourelle de Tignosu",
+                "ro": "Tourelle de Tignosu",
+                "en": "Tourelle de Tignosu"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne taucht den Turm in ein wunderschönes Licht; parken Sie kurz für ein schnelles Foto, bevor es zu kalt wird.",
+                "hu": "Az alacsony téli nap gyönyörű fénybe vonja a tornyot; parkoljon le egy gyors fotóra, mielőtt túl hidegre fordulna az idő.",
+                "ro": "Soarele jos de iarnă scaldă turnul într-o lumină frumoasă; parcați pentru o fotografie rapidă înainte să se facă prea frig.",
+                "en": "The low winter sun bathes the tower in beautiful light; park briefly for a quick photo before it gets too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Citadelle de Saint-Florent",
+                "hu": "Citadelle de Saint-Florent",
+                "ro": "Citadelle de Saint-Florent",
+                "en": "Citadelle de Saint-Florent"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus sind es nur wenige Schritte zur Geschichte; achten Sie auf glatte Stellen im Schatten der Festungsmauern.",
+                "hu": "A parkolótól csak pár lépés a történelem; figyeljen a jeges foltokra az erőd falainak árnyékos részeinél.",
+                "ro": "De la parcare sunt doar câțiva pași până la istorie; fiți atenți la porțiunile alunecoase din umbra zidurilor cetății.",
+                "en": "From the parking lot, it's just a few steps to history; watch out for slippery spots in the shadows of the fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie",
+                "hu": "Église Sainte-Marie",
+                "ro": "Église Sainte-Marie",
+                "en": "Église Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight, das im Winter besonders würdevoll wirkt; prüfen Sie die Winteröffnungszeiten, da diese oft verkürzt sind.",
+                "hu": "Kulturális fénypont, amely télen különösen méltóságteljes; ellenőrizze a téli nyitvatartást, mert gyakran rövidebb a szezonon kívül.",
+                "ro": "Un punct culminant cultural care pare deosebit de demn iarna; verificați programul de iarnă, deoarece este adesea scurtat.",
+                "en": "A cultural highlight that feels especially dignified in winter; check the winter opening hours as they are often shortened."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Olzo",
+                "hu": "Plage d'Olzo",
+                "ro": "Plage d'Olzo",
+                "en": "Plage d'Olzo"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für den Abschluss des Tages im winterlichen Abendlicht; starten Sie den Rückweg vor 17:00 Uhr wegen der Dunkelheit.",
+                "hu": "Nagyszerű hely a nap zárásához a téli alkonyati fényekben; induljon vissza 17:00 előtt a korai sötétedés miatt.",
+                "ro": "Un loc minunat pentru încheierea zilei în lumina amurgului de iarnă; începeți drumul de întoarcere înainte de 17:00 din cauza întunericului.",
+                "en": "A great spot to end the day in the winter twilight; start your return journey before 5:00 PM because of the darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a sziget déli részén, ahol a történelmi üvegművesség és a Grand Guerzido homokos partjai várják. Délben a központi templomnál fedezheti fel a sziget spirituális szívét, majd rusztikus malomromokat csodálhat meg. Délután a restaurált árapály-malom mutatja be a sziget leleményességét. Zárja a napot a Saint-Michel kápolna fantasztikus panorámájával.",
         "ro": "Începeți dimineața în partea de sud, unde vă așteaptă sticla istorică și plajele nisipoase de la Grand Guerzido. La prânz, explorați inima spirituală a insulei la biserica centrală, înainte de a admira ruinele morilor rustice. După-amiaza, moara de maree restaurată demonstrează ingeniozitatea insulei. Încheiați cu o vedere panoramică absolut uimitoare de la capela Saint-Michel.",
         "en": "Begin your morning in the southern part of the island, where the historic glassmakers and the sandy shores of Grand Guerzido wait. Midday leads you through the spiritual heart at the central church before admiring the rustic ruins of local mills. In the afternoon, the restored tidal mill of Birlot showcases the island's ingenuity. Conclude with panoramic views from the Saint-Michel chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Glashütte, wo die Hitze der Öfen den Regen vergessen lässt. Mittags suchen wir Zuflucht in der Dorfkirche, während die Wolken über die Insel ziehen. Am Nachmittag erkunden wir die Mühlen auf den etwas rutschigen, aber charmanten Pfaden. Den Abend lassen wir an der Kapelle ausklingen, wenn der Nebel der Küste eine mystische Atmosphäre verleiht.",
+            "hu": "A reggelt a látványos üvegfúvó műhely fedett terében kezdjük, távol a szemerkélő esőtől. Délben a sziget templomának vastag falai között találunk csendes menedéket. Délután a történelmi malmokat keressük fel, az eső áztatta köves utakon óvatosan haladva. Az estét a Szent Mihály kápolnánál zárjuk, ahol a párás levegőben a tenger morajlása még intenzívebbé teszi a látványt.",
+            "ro": "Dimineața începe la adăpost în atelierul de sticlărie, unde căldura cuptoarelor ne face să uităm de ploaie. La prânz, căutăm refugiu în biserica satului, în timp ce norii trec peste insulă. După-amiaza explorăm morile pe potecile puțin alunecoase, dar pline de farmec. Seara se încheie la capelă, unde ceața de coastă oferă peisajului o atmosferă mistică și liniștită.",
+            "en": "The morning starts under cover at the glassworks, where the heat of the kilns makes you forget the rain. At noon, we find shelter within the thick walls of the village church as clouds sweep across the island. In the afternoon, we explore the mills on slightly slippery but charming paths. The evening ends at the chapel, where the coastal mist lends a mystical atmosphere to the island."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Verreries de Bréhat",
+                "hu": "Verreries de Bréhat",
+                "ro": "Verreries de Bréhat",
+                "en": "Verreries de Bréhat"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstatt ist der perfekte Zufluchtsort vor dem Regen; beobachten Sie die Glasbläser im Trockenen und achten Sie beim Verlassen auf die nassen Stufen.",
+                "hu": "A műhely kiváló menedék az eső elől; figyelje meg az üvegfúvókat munka közben a fedett térben, de kilépéskor ügyeljen a vizes és csúszós lépcsőkre.",
+                "ro": "Atelierul este refugiul perfect împotriva ploii; observați sticlarii la lucru în interior și aveți grijă la treptele umede când ieșiți afară.",
+                "en": "The workshop is the perfect refuge from the rain; watch the glassblowers at work in the dry and be careful of wet steps when leaving the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Guerzido",
+                "hu": "Grand Guerzido",
+                "ro": "Grand Guerzido",
+                "en": "Grand Guerzido"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen dramatisch; suchen Sie unter den Felsvorsprüngen Schutz und genießen Sie den Anblick der grauen, aufgewühlten See.",
+                "hu": "A strand drámai látványt nyújt esőben; keressen menedéket a sziklák alatt, és élvezze a szürke, felkorbácsolt tenger látványát a biztonságos partról.",
+                "ro": "Plaja arată dramatic în ploaie; căutați adăpost sub stânci și bucurați-vă de priveliștea mării cenușii și agitate de pe malul sigur.",
+                "en": "The beach looks dramatic in the rain; seek shelter under the rock overhangs and enjoy the view of the grey, turbulent sea from the safety of the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Bonne Nouvelle",
+                "hu": "Église Notre-Dame de Bonne Nouvelle",
+                "ro": "Église Notre-Dame de Bonne Nouvelle",
+                "en": "Église Notre-Dame de Bonne Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille des Kirchenschiffs für eine trockene Pause und bewundern Sie die Votivschiffe, während draußen der bretonische Regen prasselt.",
+                "hu": "Használja ki a templomhajó csendjét egy száraz pihenőre, és csodálja meg a fogadalmi hajókat, miközben odakint kopog a jellegzetes breton eső.",
+                "ro": "Folosiți liniștea bisericii pentru o pauză uscată și admirați navele votive în timp ce ploaia bretonă bate în ferestrele vechi.",
+                "en": "Use the silence of the nave for a dry break and admire the votive ships while the typical Breton rain patters against the ancient windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Crech Tarek",
+                "hu": "Moulin de Crech Tarek",
+                "ro": "Moulin de Crech Tarek",
+                "en": "Moulin de Crech Tarek"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle bietet auf der Leeseite Schutz vor dem Wind; tragen Sie eine gute Regenjacke, da der Weg dorthin über offenes Gelände führt.",
+                "hu": "A malom szélárnyékos oldala védelmet nyújt a széllökések ellen; viseljen strapabíró esőkabátot, mert az odavezető út nyílt terepen halad át.",
+                "ro": "Partea ferită de vânt a morii oferă protecție; purtați o jachetă de ploaie rezistentă, deoarece drumul până acolo trece prin teren deschis.",
+                "en": "The leeward side of the mill offers protection from wind gusts; wear a sturdy raincoat as the path there crosses open, exposed terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin à marée du Birlot",
+                "hu": "Moulin à marée du Birlot",
+                "ro": "Moulin à marée du Birlot",
+                "en": "Moulin à marée du Birlot"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wasser im geschützten Eingangsbereich der Mühle; die Algen auf den umliegenden Felsen sind bei Nässe extrem rutschig.",
+                "hu": "Figyelje a vizet a malom védett bejárati részéről; a környező sziklákon lévő algák nedvesen rendkívül csúszósak, kerülje a kövekre lépést.",
+                "ro": "Observați apa din zona protejată a intrării morii; algele de pe stâncile din jur sunt extrem de alunecoase când sunt ude, evitați pietrele.",
+                "en": "Observe the water from the protected entrance area of the mill; the algae on the surrounding rocks are extremely slippery when wet, stay on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg lohnt sich für den Blick auf das neblige Archipel; halten Sie sich am Geländer fest, da die Steinstufen bei Regen glatt sind.",
+                "hu": "A feljutás megéri a ködös szigetvilág látványáért; kapaszkodjon erősen a korlátba, mert a kőlépcsők esőben nagyon csúszóssá válnak.",
+                "ro": "Urcarea merită pentru vederea asupra arhipelagului cețos; țineți-vă bine de balustradă, deoarece treptele de piatră sunt foarte alunecoase.",
+                "en": "The climb is worth it for the view of the misty archipelago; hold onto the railing firmly as the stone steps become very slick in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns zur warmen Glashütte. Die kühle Brise am Strand von Guerzido weckt die Lebensgeister, bevor wir uns in der Kirche aufwärmen. Am Nachmittag leuchten die Mühlen im tiefstehenden Sonnenlicht. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir die Kapelle Saint-Michel rechtzeitig für ein spektakuläres, frostiges Abendrot über dem Meer.",
+            "hu": "A tiszta téli reggelen az üvegfúvók meleg műhelye az első állomásunk. A Guerzido strand hűvös szellője felfrissít, mielőtt a templom csendjében kicsit felmelegednénk. Délután a malmok különleges fényben tündökölnek az alacsony napállásnál. Mivel a nap 17:00 körül nyugszik, időben felérünk a kápolnához a fagyos, de látványos alkonyat megcsodálására.",
+            "ro": "O dimineață senină de iarnă ne duce la atelierul cald de sticlărie. Briza rece de pe plaja Guerzido ne revigorează înainte de a ne încălzi în biserică. După-amiaza, morile strălucesc în lumina joasă a soarelui. Deoarece soarele apune în jurul orei 17:00, ajungem la capelă la timp pentru un apus spectaculos și înghețat peste mare.",
+            "en": "A clear winter morning leads us to the warm glassworks. The cool breeze at Guerzido beach invigorates the soul before we warm up in the church. In the afternoon, the mills glow in the low sunlight. As the sun sets around 17:00, we reach Saint-Michel chapel just in time for a spectacular, frosty sunset over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Verreries de Bréhat",
+                "hu": "Verreries de Bréhat",
+                "ro": "Verreries de Bréhat",
+                "en": "Verreries de Bréhat"
+              },
+              "tip_5lang": {
+                "de": "Die Hitze der Glasöfen ist im Winter eine Wohltat; nutzen Sie den Besuch, um sich aufzuwärmen, bevor Sie die Wanderung im Freien fortsetzen.",
+                "hu": "Az üvegfúvó kemencék melege télen valóságos áldás; használja ki a látogatást a felmelegedésre, mielőtt folytatná a túrát a csípős hidegben.",
+                "ro": "Căldura cuptoarelor de sticlă este o binecuvântare iarna; folosiți vizita pentru a vă încălzi înainte de a continua drumeția în aerul rece.",
+                "en": "The heat from the glass furnaces is a blessing in winter; use your visit to warm up thoroughly before continuing your walk in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Guerzido",
+                "hu": "Grand Guerzido",
+                "ro": "Grand Guerzido",
+                "en": "Grand Guerzido"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des winterlichen Strandes; tragen Sie winddichte Kleidung, da die Meeresbrise im Winter deutlich kühler weht.",
+                "hu": "Élvezze a téli tengerpart magányát és nyugalmát; viseljen szélálló ruházatot, mert a tengeri szellő ilyenkor sokkal hűvösebb és metszőbb.",
+                "ro": "Bucurați-vă de singurătatea plajei de iarnă; purtați haine rezistente la vânt, deoarece briza mării este mult mai rece în acest sezon.",
+                "en": "Enjoy the solitude and peace of the winter beach; wear windproof clothing as the sea breeze blows significantly colder during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Bonne Nouvelle",
+                "hu": "Église Notre-Dame de Bonne Nouvelle",
+                "ro": "Église Notre-Dame de Bonne Nouvelle",
+                "en": "Église Notre-Dame de Bonne Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft wärmer als draußen; bewundern Sie die architektonischen Details in aller Ruhe, weit weg von den Touristenmassen.",
+                "hu": "A templom belsejében gyakran melegebb van, mint odakint; csodálja meg nyugodtan az építészeti részleteket, távol a nyári turistatömegtől.",
+                "ro": "În interiorul bisericii este adesea mai cald decât afară; admirați detaliile arhitecturale în liniște, departe de mulțimile de turiști.",
+                "en": "It is often warmer inside the church than outside; take your time to admire the architectural details, far from the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Crech Tarek",
+                "hu": "Moulin de Crech Tarek",
+                "ro": "Moulin de Crech Tarek",
+                "en": "Moulin de Crech Tarek"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle wirkt gegen den klaren Winterhimmel besonders markant; bringen Sie eine Thermoskanne mit einem heißen Getränk für eine kurze Pause mit.",
+                "hu": "A malom sziluettje különösen élesen rajzolódik ki a tiszta téli égbolton; hozzon magával termoszt forró itallal egy rövid, melegítő pihenőhöz.",
+                "ro": "Moara arată deosebit de marcantă pe fundalul cerului senin de iarnă; aduceți un termos cu o băutură caldă pentru o scurtă pauză de încălzire.",
+                "en": "The mill looks particularly striking against the clear winter sky; bring a thermos with a hot drink for a short, warming break on the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin à marée du Birlot",
+                "hu": "Moulin à marée du Birlot",
+                "ro": "Moulin à marée du Birlot",
+                "en": "Moulin à marée du Birlot"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht reflektiert wunderschön im Gezeitenbecken; tragen Sie festes Schuhwerk, da die Wege durch Bodenfrost glatt sein können.",
+                "hu": "A téli fény gyönyörűen tükröződik az árapály-medencében; viseljen stabil cipőt, mert az ösvények a talajmenti fagy miatt csúszósak lehetnek.",
+                "ro": "Lumina de iarnă se reflectă frumos în bazinul mareic; purtați încălțăminte solidă, deoarece potecile pot fi alunecoase din cauza înghețului.",
+                "en": "The winter light reflects beautifully in the tidal pool; wear sturdy boots as the paths can be slippery due to ground frost in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hierher, um den Sonnenuntergang zu sehen; die kalte Luft macht die Sicht auf die Nachbarinseln extrem scharf.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a naplementét; a hideg levegő miatt a kilátás a szomszédos szigetekre ilyenkor rendkívül tiszta és éles.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul; aerul rece face ca vederea spre insulele vecine să fie extrem de clară și detaliată.",
+                "en": "Arrive before 17:00 to catch the sunset; the cold winter air makes the view of the neighboring islands extremely sharp and clear."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a napot egy kerékpártúrával a híres árapály-malomhoz, érezve a friss tengeri szellőt. Délben az északi féltekén bájos kápolnákat és az ikonikus északi szélmalmot látogatja meg. A délutánt a tömegtől távol, a félreeső Aod ar Ouis öbölben pihenve töltheti. Az este a Phare du Paon világítótorony látványos, rózsaszín gránitszikláival jutalmazza meg a túra végén.",
         "ro": "Începeți ziua cu o plimbare cu bicicleta la faimoasa moară de maree, simțind briza mării. La prânz ajungeți în jumătatea nordică, vizitând capele fermecătoare și iconica moară de vânt. Petreceți după-amiaza relaxându-vă în golful retras Aod ar Ouis, departe de mulțimi. Seara vă răsplătește cu stâncile spectaculoase de granit roz de la farul emblematic Phare du Paon.",
         "en": "Start the day with a cycling trip to the famous Birlot tidal mill, feeling the fresh sea breeze. Midday brings you to the northern half, visiting charming chapels and the iconic northern windmill. Spend the afternoon relaxing at the secluded Aod ar Ouis bay, far from the crowds. The evening rewards you with the spectacular pink granite rocks at the Phare du Paon lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den Küstenwegen. Wir starten an der Gezeitenmühle, wo das Wasser dramatisch steigt. Mittags radeln wir zur kleinen Kapelle, um kurz im Trockenen zu verweilen. Der Nachmittag führt uns zu den Leuchttürmen im Norden, wobei der Wind den Regen peitscht. Am Abend erreichen wir den Phare du Paon, wo die Wellen spektakulär gegen die Granitfelsen schlagen.",
+            "hu": "A biciklizés esőben óvatosságot igényel a parti utakon. Az árapály-malomnál kezdünk, ahol a víz drámai módon emelkedik. Délben a kis kápolnához tekerünk, hogy rövid időre száraz helyen pihenjünk. A délután az északi világítótornyokhoz vezet a szélben és esőben. Estére érjük el a Paon világítótornyot, ahol a hullámok látványosan csapkodják a vörös gránitsziklákat.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile de coastă. Începem la moara mareică, unde apa crește dramatic. La prânz, pedalăm spre mica capelă pentru un scurt popas la uscat. După-amiaza ne duce la farurile din nord, în timp ce vântul biciuiește ploaia. Seara ajungem la Phare du Paon, unde valurile se lovesc spectaculos de stâncile de granit.",
+            "en": "Cycling in the rain requires caution on the coastal paths. We start at the tide mill, where the water rises dramatically. At noon, we cycle to the small chapel for a brief rest in the dry. The afternoon leads us to the northern lighthouses as the wind whips the rain. In the evening, we reach Phare du Paon, where the waves crash spectacularly against the granite rocks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin à marée du Birlot",
+                "hu": "Moulin à marée du Birlot",
+                "ro": "Moulin à marée du Birlot",
+                "en": "Moulin à marée du Birlot"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Grund; der Schlamm in der Nähe der Mühle kann bei Regen tückisch sein und die Reifen blockieren.",
+                "hu": "Parkolja le a biciklit szilárd talajon; a malom környéki sár esőben csalóka lehet, és könnyen eltömítheti a kerékpár sárvédőit.",
+                "ro": "Parcați bicicleta pe teren solid; noroiul din apropierea morii poate fi înșelător în ploaie și poate bloca roțile bicicletei.",
+                "en": "Park your bike on solid ground; the mud near the mill can be treacherous in the rain and may clog your bicycle's mudguards."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame",
+                "hu": "Chapelle Notre-Dame",
+                "ro": "Chapelle Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach der Kapelle, um die Karte zu prüfen; der Boden rund um den Eingang kann durch gesammeltes Regenwasser rutschig sein.",
+                "hu": "Használja a kápolna előtetőjét a térkép ellenőrzésére; a bejárat körüli talaj a felgyülemlett esővíz miatt csúszós lehet, óvatosan lépjen.",
+                "ro": "Folosiți streașina capelei pentru a verifica harta; terenul din jurul intrării poate fi alunecos din cauza apei de ploaie acumulate.",
+                "en": "Use the chapel's overhang to check your map; the ground around the entrance can be slippery due to accumulated rainwater, watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin du nord",
+                "hu": "Moulin du nord",
+                "ro": "Moulin du nord",
+                "en": "Moulin du nord"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Ort ist sehr windig; halten Sie den Lenker gut fest und achten Sie auf Pfützen, die tiefer sein könnten, als sie scheinen.",
+                "hu": "Ez a nyílt terület nagyon szeles; fogja erősen a kormányt, és ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek látszanak.",
+                "ro": "Acest loc expus este foarte vântos; țineți bine ghidonul și aveți grijă la bălțile care pot fi mai adânci decât par la prima vedere.",
+                "en": "This exposed spot is very windy; keep a firm grip on the handlebars and watch out for puddles that might be deeper than they look."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Rosédo",
+                "hu": "Phare du Rosédo",
+                "ro": "Phare du Rosédo",
+                "en": "Phare du Rosédo"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm im Nebel ist ein tolles Fotomotiv; wischen Sie Ihre Kameralinse regelmäßig ab und prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "A ködbe burkolózó világítótorony nagyszerű fotótéma; törölje le rendszeresen a lencsét, és indulás előtt ellenőrizze a fékek hatékonyságát.",
+                "ro": "Farul în ceață este un subiect foto excelent; ștergeți regulat lentila camerei și verificați frânele înainte de a pleca mai departe.",
+                "en": "The lighthouse shrouded in mist is a great photo subject; wipe your lens regularly and test your brakes before heading back down the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Aod ar Ouis",
+                "hu": "Aod ar Ouis",
+                "ro": "Aod ar Ouis",
+                "en": "Aod ar Ouis"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen menschenleer und wild; bleiben Sie auf den befestigten Wegen, um nicht im nassen Sand mit dem Rad stecken zu bleiben.",
+                "hu": "A strand esőben teljesen elhagyatott és vad; maradjon a kijelölt utakon, hogy ne akadjon el a kerékpárral a vizes, mély homokban.",
+                "ro": "Plaja este pustie și sălbatică în ploaie; rămâneți pe drumurile pavate pentru a nu rămâne blocați cu bicicleta în nisipul ud și greu.",
+                "en": "The beach is deserted and wild in the rain; stay on the paved paths to avoid getting your bike stuck in the wet, heavy sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Paon",
+                "hu": "Phare du Paon",
+                "ro": "Phare du Paon",
+                "en": "Phare du Paon"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Paon sind bei Nässe lebensgefährlich glatt; genießen Sie das Getöse der Wellen aus sicherer Entfernung von Ihrem Rad aus.",
+                "hu": "A Paon körüli sziklák nedvesen életveszélyesen csúszósak; élvezze a hullámok morajlását biztonságos távolságból, a kerékpár mellett állva.",
+                "ro": "Stâncile de la Paon sunt extrem de alunecoase când sunt ude; bucurați-vă de vuietul valurilor de la o distanță sigură, lângă bicicletă.",
+                "en": "The rocks at Paon are dangerously slippery when wet; enjoy the roar of the waves from a safe distance while standing by your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour bietet weite Ausblicke ohne Laub an den Hecken. Wir starten frisch an der Mühle und radeln durch das ruhige Dorf nach Norden. Die Luft ist kalt, aber die Bewegung hält warm. Vorbei an einsamen Stränden erreichen wir die Nordspitze. Da es früh dunkel wird, nutzen wir das goldene Licht des Nachmittags am Phare du Paon, bevor wir bei einsetzender Dämmerung zurückkehren.",
+            "hu": "A téli biciklitúra tiszta kilátást kínál a kopár sövények között. Frissen kezdünk a malomnál, majd a csendes falun át észak felé tekerünk. A levegő hideg, de a mozgás melegen tart. Magányos strandok mellett elhaladva érjük el az északi csücsköt. A korai sötétedés miatt kihasználjuk a délutáni arany fényeket a Paon toronynál, majd szürkületkor indulunk vissza.",
+            "ro": "O tură cu bicicleta iarna oferă vederi largi printre gardurile vii fără frunze. Începem energic la moară și pedalăm spre nord prin satul liniștit. Aerul este rece, dar mișcarea ne ține de cald. Trecând pe lângă plaje pustii, ajungem în vârful nordic. Deoarece se întunecă devreme, profităm de lumina aurie la farul Paon înainte de a ne întoarce la amurg.",
+            "en": "A winter bike tour offers wide views through the leafless hedges. We start fresh at the mill and cycle north through the quiet village. The air is cold, but the movement keeps you warm. Passing lonely beaches, we reach the northern tip. Since it gets dark early, we use the afternoon's golden light at Phare du Paon before returning at dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin à marée du Birlot",
+                "hu": "Moulin à marée du Birlot",
+                "ro": "Moulin à marée du Birlot",
+                "en": "Moulin à marée du Birlot"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor dem Start; kalte Luft kann den Druck senken, was das Treten auf den winterlichen Wegen mühsamer macht.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást; a hideg levegő miatt csökkenhet a nyomás, ami nehezebbé teszi a tekerést a téli utakon.",
+                "ro": "Verificați presiunea în anvelope înainte de start; aerul rece poate scădea presiunea, făcând pedalarea mai grea pe drumurile de iarnă.",
+                "en": "Check your tire pressure before starting; cold air can cause it to drop, making pedaling more strenuous on the winter paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame",
+                "hu": "Chapelle Notre-Dame",
+                "ro": "Chapelle Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind die Finger schnell auskühlt; die Kapelle bietet einen kurzen Schutz vor dem kalten Nordwind.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél hamar lehűti az ujjait; a kápolna rövid védelmet nyújt a metsző északi szél ellen.",
+                "ro": "Purtați mănuși groase, deoarece curentul de aer răcește rapid degetele; capela oferă un scurt adăpost împotriva vântului rece de nord.",
+                "en": "Wear warm gloves as the wind chill will cool your fingers quickly; the chapel provides a brief shield from the biting northern wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin du nord",
+                "hu": "Moulin du nord",
+                "ro": "Moulin du nord",
+                "en": "Moulin du nord"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Morgen ist hier besonders klar; bringen Sie Ohrenschützer oder ein Stirnband unter dem Helm mit, um sich vor dem Frost zu schützen.",
+                "hu": "A reggeli fények itt különösen tiszták; viseljen fülvédőt vagy fejpántot a sisak alatt, hogy megvédje magát a csípős fagyos szél ellen.",
+                "ro": "Lumina dimineții este extrem de clară aici; purtați protecții pentru urechi sub cască pentru a vă proteja de vântul înghețat de iarnă.",
+                "en": "The morning light is exceptionally clear here; bring ear warmers or a headband under your helmet to protect yourself from the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Rosédo",
+                "hu": "Phare du Rosédo",
+                "ro": "Phare du Rosédo",
+                "en": "Phare du Rosédo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen zum Leuchtturm; bremsen Sie vorsichtig und vorausschauend, da schattige Stellen glatt sein können.",
+                "hu": "Ügyeljen a zúzmarára a világítótoronyhoz vezető úton; fékezzen óvatosan és időben, mert az árnyékos részeken csúszós maradhat a talaj.",
+                "ro": "Aveți grijă la chiciură pe drumurile spre far; frânați cu prudență, deoarece porțiunile umbrite pot rămâne alunecoase toată ziua.",
+                "en": "Watch out for hoarfrost on the paths to the lighthouse; brake gently and early, as shaded areas can remain slippery throughout the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Aod ar Ouis",
+                "hu": "Aod ar Ouis",
+                "ro": "Aod ar Ouis",
+                "en": "Aod ar Ouis"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über dem Meer und glitzert im Wasser; machen Sie eine kurze Pause, um die totale Stille der Insel zu genießen.",
+                "hu": "A téli nap alacsonyan jár a tenger felett, csillogva a vízen; tartson egy rövid szünetet, és élvezze a sziget ilyenkor tapasztalható teljes csendjét.",
+                "ro": "Soarele de iarnă stă jos deasupra mării și sclipeste în apă; faceți o scurtă pauză pentru a vă bucura de liniștea totală a insulei.",
+                "en": "The winter sun hangs low over the sea, sparkling in the water; take a short break to enjoy the absolute silence of the island in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Paon",
+                "hu": "Phare du Paon",
+                "ro": "Phare du Paon",
+                "en": "Phare du Paon"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier, um das letzte Tageslicht zu nutzen; die Granitfelsen leuchten im Winterrot besonders intensiv und warm.",
+                "hu": "Legyen itt 16:30 körül, hogy kihasználja az utolsó fényeket; a gránitsziklák a téli alkonyatban különösen intenzív vörös színben izzanak.",
+                "ro": "Fiți aici în jurul orei 16:30 pentru a profita de ultima lumină; stâncile de granit strălucesc într-un roșu intens în amurgul de iarnă.",
+                "en": "Be here around 16:30 to make the most of the last light; the granite rocks glow in an intense, warm red during the winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Szálljon fel a szigeti transzferre, és kezdje a déli üvegműhelyeknél. Dél körül utazzon át a történelmi faluközponton, és csodálja meg a lenyűgöző árapály-malmot. A délután folyamán kényelmesen megállhat a Pors Ar Men és az Ot ar Tres pihenőöbleinél. Fejezze be utazását a legészakibb ponton, figyelve a hullámokat, ahogy a Phare du Paon szikláinak csapódnak a nap végén.",
         "ro": "Luați naveta insulei pentru a începe la atelierele de sticlă din sud. În jurul prânzului, călătoriți prin centrul istoric al satului și admirați impresionanta moară de maree. După-amiaza permite opriri relaxante în golfurile Pors Ar Men și Ot ar Tres. Încheiați-vă călătoria în cel mai nordic punct, urmărind valurile care se sparg dramatic de stâncile farului Phare du Paon.",
         "en": "Hop on the island shuttle to start at the fascinating glass workshops in the south. Around midday, travel through the historical village center and admire the impressive tidal mill at Birlot. The afternoon allows for leisurely stops at the recreational bays of Pors Ar Men and Ot ar Tres. End your journey at the northernmost point, watching the waves crash against the Phare du Paon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Inselfahrzeug erkunden wir Bréhat geschützt vor den Regengüssen. Wir starten trocken bei der Glashütte und fahren durch die engen Gassen zur Kirche. Die Mühlen am Wasser bieten ein dramatisches Schauspiel bei grauem Himmel. Am Nachmittag erreichen wir die Strände, wo wir die Aussicht aus dem Fenster genießen können. Den Tag beschließen wir am Phare du Paon, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Az elektromos kisautóval (vagy traktorral) esőben is kényelmesen felfedezhetjük Bréhat-t. Szárazon kezdünk az üvegfúvóknál, majd a szűk utcákon át a templomhoz hajtunk. A vízparti malmok drámai látványt nyújtanak a szürke ég alatt. Délután a strandokat érintjük, ahol az ablakból csodálhatjuk a kilátást. A napot a Paon világítótoronynál zárjuk, miközben az eső a szélvédőn kopog.",
+            "ro": "Cu vehiculul insulei explorăm Bréhat protejați de aversele de ploaie. Începem la adăpost la sticlărie și mergem prin străzile înguste spre biserică. Morile de pe malul apei oferă un spectacol dramatic sub cerul cenușiu. După-amiaza ajungem la plaje, unde ne putem bucura de priveliște de la fereastră. Încheiem ziua la farul Paon, în timp ce ploaia bate în parbriz.",
+            "en": "With the island vehicle, we explore Bréhat protected from the heavy downpours. We start dry at the glassworks and drive through the narrow lanes to the church. The mills by the water offer a dramatic spectacle under grey skies. In the afternoon, we reach the beaches where we can enjoy the view from the window. We end the day at Phare du Paon while the rain drums against the glass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Verreries de Bréhat",
+                "hu": "Verreries de Bréhat",
+                "ro": "Verreries de Bréhat",
+                "en": "Verreries de Bréhat"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist bei Regen matschig; steigen Sie vorsichtig aus und nutzen Sie den überdachten Eingang der Glashütte für einen trockenen Start.",
+                "hu": "A parkoló esőben sáros lehet; szálljon ki óvatosan, és használja az üvegfúvó műhely fedett bejáratát a száraz kezdéshez.",
+                "ro": "Parcarea este noroioasă în ploaie; coborâți cu atenție și folosiți intrarea acoperită a sticlăriei pentru un start uscat.",
+                "en": "The parking area can be muddy in the rain; exit the vehicle carefully and use the glassworks' covered entrance for a dry start."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Bonne Nouvelle",
+                "hu": "Église Notre-Dame de Bonne Nouvelle",
+                "ro": "Église Notre-Dame de Bonne Nouvelle",
+                "en": "Église Notre-Dame de Bonne Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet den perfekten Stopp für eine längere Regenpause; die Architektur ist im weichen, grauen Licht besonders stimmungsvoll.",
+                "hu": "A templom tökéletes megálló egy hosszabb esőpause idejére; az építészet a lágy, szürke fényben különösen hangulatos látványt nyújt.",
+                "ro": "Biserica oferă oprirea perfectă pentru o pauză mai lungă de ploaie; arhitectura este deosebit de sugestivă în lumina moale și cenușie.",
+                "en": "The church offers the perfect stop for a longer rain break; the architecture is particularly atmospheric in the soft, grey light of a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin à marée du Birlot",
+                "hu": "Moulin à marée du Birlot",
+                "ro": "Moulin à marée du Birlot",
+                "en": "Moulin à marée du Birlot"
+              },
+              "tip_5lang": {
+                "de": "Vom Fahrzeug aus haben Sie einen tollen Blick auf die Mühle; vermeiden Sie es, auf die unbefestigten Randstreifen zu fahren, da diese aufgeweicht sind.",
+                "hu": "A járműből remek kilátás nyílik a malomra; ne hajtson a rögzítetlen útpadkára, mert az esőtől felázott talajon könnyen elakadhat.",
+                "ro": "Aveți o vedere excelentă spre moară din vehicul; evitați să conduceți pe marginile neasfaltate, deoarece sunt înmuiate de ploaie.",
+                "en": "You have a great view of the mill from the vehicle; avoid driving onto unpaved road edges as they are softened by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pors Ar Men",
+                "hu": "Pors Ar Men",
+                "ro": "Pors Ar Men",
+                "en": "Pors Ar Men"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht sieht im Regen wild aus; bleiben Sie im Auto, wenn der Schauer zu stark wird, und beobachten Sie das Spiel der Wellen im Hafen.",
+                "hu": "Az öböl esőben vadul fest; maradjon a kocsiban, ha túl erős a zápor, és figyelje a hullámok játékát a védett kikötőben.",
+                "ro": "Golful arată sălbatic în ploaie; rămâneți în mașină dacă aversa devine prea puternică și observați jocul valurilor în port.",
+                "en": "The bay looks wild in the rain; stay in the vehicle if the shower becomes too heavy and watch the play of waves in the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Ot ar Tres",
+                "hu": "Ot ar Tres",
+                "ro": "Ot ar Tres",
+                "en": "Ot ar Tres"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier aus; der Wind kann Regen direkt ins Innere des Fahrzeugs drücken, halten Sie die Fenster oder Planen geschlossen.",
+                "hu": "Egy rövid megálló is elég itt; a szél az esőt közvetlenül a jármű belsejébe fújhatja, ezért tartsa zárva az ablakokat vagy a ponyvát.",
+                "ro": "O scurtă oprire este suficientă aici; vântul poate sufla ploaia direct în interiorul vehiculului, țineți ferestrele sau prelatele închise.",
+                "en": "A short stop is enough here; the wind can blow rain directly into the vehicle, so keep windows or covers closed tightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Paon",
+                "hu": "Phare du Paon",
+                "ro": "Phare du Paon",
+                "en": "Phare du Paon"
+              },
+              "tip_5lang": {
+                "de": "Das dramatische Finale der Tour; parken Sie so, dass Sie die Wellenfront sehen können, ohne das Fahrzeug verlassen zu müssen.",
+                "hu": "A túra drámai befejezése; parkoljon úgy, hogy láthassa a hullámokat anélkül, hogy ki kellene szállnia a szakadó esőbe.",
+                "ro": "Finalul dramatic al turului; parcați astfel încât să puteți vedea frontul valurilor fără a fi nevoie să părăsiți vehiculul în ploaie.",
+                "en": "The dramatic finale of the tour; park in a position that allows you to see the wave front without having to leave the dry vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Fahrzeug den nötigen Komfort, um die ganze Insel ohne Auskühlung zu sehen. Wir besuchen die Glashütte und die Kirche am Vormittag. Die Fahrt durch das fast menschenleere Bréhat ist ein besonderes Erlebnis. Das tiefstehende Licht des Winters zaubert lange Schatten auf die Wege. Wir planen unsere Route so, dass wir den Phare du Paon pünktlich zum frühen Sonnenuntergang gegen 17:00 Uhr erreichen.",
+            "hu": "Télen a jármű biztosítja a szükséges kényelmet, hogy a lehűlés veszélye nélkül bejárjuk a szigetet. Délelőtt az üvegfúvókat és a templomot látogatjuk meg. Az elhagyatott szigeten való kocsikázás különleges élmény. Az alacsony téli nap hosszú árnyékokat vet az utakra. Úgy tervezzük az utat, hogy 17:00 körül érjünk a Paon világítótoronyhoz a korai naplementére.",
+            "ro": "Iarna, vehiculul oferă confortul necesar pentru a vedea întreaga insulă fără a îngheța. Vizităm sticlăria și biserica în cursul dimineții. Plimbarea prin Bréhat-ul aproape pustiu este o experiență specială. Lumina joasă a iernii creează umbre lungi pe drumuri. Ne planificăm ruta pentru a ajunge la farul Paon la timp pentru apusul devreme, în jurul orei 17:00.",
+            "en": "In winter, the vehicle provides the necessary comfort to see the entire island without getting chilled. We visit the glassworks and the church in the morning. Driving through the almost deserted Bréhat is a special experience. The low winter light casts long shadows across the paths. We plan our route to reach Phare du Paon just in time for the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Verreries de Bréhat",
+                "hu": "Verreries de Bréhat",
+                "ro": "Verreries de Bréhat",
+                "en": "Verreries de Bréhat"
+              },
+              "tip_5lang": {
+                "de": "Die Glashütte ist der wärmste Ort der Insel; ideal, um die Batterien des Elektroautos bei der Kälte zu schonen und selbst aufzutauen.",
+                "hu": "Az üvegfúvó műhely a sziget legmelegebb pontja; ideális hely a felmelegedésre és az elektromos jármű akkumulátorainak kímélésére a hidegben.",
+                "ro": "Sticlăria este cel mai cald loc de pe insulă; ideal pentru a vă încălzi și pentru a proteja bateriile vehiculului electric în frig.",
+                "en": "The glassworks is the warmest place on the island; ideal for warming up yourself and conserving the electric vehicle's battery in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Bonne Nouvelle",
+                "hu": "Église Notre-Dame de Bonne Nouvelle",
+                "ro": "Église Notre-Dame de Bonne Nouvelle",
+                "en": "Église Notre-Dame de Bonne Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt in der Nähe der Mauer; das Innere der Kirche ist im Winter ein Ort der absoluten Ruhe und Besinnlichkeit.",
+                "hu": "Parkoljon szélvédett helyen a fal közelében; a templom belseje télen az abszolút béke és az elcsendesedés helyszíne.",
+                "ro": "Parcați într-un loc ferit de vânt lângă zid; interiorul bisericii este iarna un loc de liniște absolută și meditație.",
+                "en": "Park in a wind-sheltered spot near the wall; the interior of the church in winter is a place of absolute peace and contemplation."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin à marée du Birlot",
+                "hu": "Moulin à marée du Birlot",
+                "ro": "Moulin à marée du Birlot",
+                "en": "Moulin à marée du Birlot"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser des Teiches kann am Rand gefroren sein; genießen Sie den Anblick der glitzernden Eiskristalle bequem aus Ihrem warmen Fahrzeug.",
+                "hu": "A tó vize a széleken befagyhat; élvezze a csillogó jégkristályok látványát kényelmesen, a meleg jármű belsejéből.",
+                "ro": "Apa iazului poate fi înghețată la margini; bucurați-vă de vederea cristalelor de gheață sclipitoare confortabil din vehiculul dumneavoastră.",
+                "en": "The water of the pond may be frozen at the edges; enjoy the sight of shimmering ice crystals comfortably from inside your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pors Ar Men",
+                "hu": "Pors Ar Men",
+                "ro": "Pors Ar Men",
+                "en": "Pors Ar Men"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter fast leer; nutzen Sie den freien Platz zum Wenden und genießen Sie die klare Sicht bis zum Festland hinüber.",
+                "hu": "A kikötő télen szinte teljesen üres; használja ki a szabad teret a forduláshoz, és élvezze a tiszta kilátást egészen a szárazföldig.",
+                "ro": "Portul este aproape gol iarna; folosiți spațiul liber pentru a întoarce și bucurați-vă de vederea clară până la continent.",
+                "en": "The harbor is almost empty in winter; use the extra space to turn around and enjoy the crystal-clear view across to the mainland."
+              }
+            },
+            {
+              "name": {
+                "de": "Ot ar Tres",
+                "hu": "Ot ar Tres",
+                "ro": "Ot ar Tres",
+                "en": "Ot ar Tres"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne verwandelt den Strand in eine glitzernde Fläche; bleiben Sie für ein Foto kurz stehen, aber lassen Sie den Motor nicht zu lange im Stand laufen.",
+                "hu": "A téli nap csillogó felületté varázsolja a strandot; álljon meg egy fotóra, de ne hagyja túl sokáig járni a motort álló helyzetben.",
+                "ro": "Soarele de iarnă transformă plaja într-o suprafață sclipitoare; opriți-vă scurt pentru o fotografie, dar nu lăsați motorul pornit prea mult timp.",
+                "en": "The winter sun transforms the beach into a glittering surface; stop briefly for a photo, but don't leave the vehicle running too long in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare du Paon",
+                "hu": "Phare du Paon",
+                "ro": "Phare du Paon",
+                "en": "Phare du Paon"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight bei Sonnenuntergang gegen 17:00 Uhr; die Heizung des Fahrzeugs macht das Warten auf das perfekte Licht sehr angenehm.",
+                "hu": "A naplemente csúcspontja 17:00 körül; a jármű fűtése nagyon kellemessé teszi a várakozást a tökéletes esti fényekre.",
+                "ro": "Punctul culminant la apus, în jurul orei 17:00; încălzirea vehiculului face așteptarea luminii perfecte foarte plăcută.",
+                "en": "The highlight at sunset around 17:00; the vehicle's heating makes waiting for the perfect light very comfortable and pleasant."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a lenyűgöző Chiesa Madre-nál, elmerülve a vallási örökségben, majd fedezze fel a Museo Regionale gazdag gyűjteményeit. Délben sétáljon el az Anfiteatro Villa a Mare felé, élvezve a tengerparti hangulatot és a gyönyörű építészetet. Délután gyönyörködjön a tengeri kilátásban a Torre Alba-tól, és pihenjen meg a romantikus Piazzetta padjain. A túrát a homokos Spiaggia di Magaggiari strandon fejezze be, élvezve a meleg esti tengeri szellőt a hullámok közelében.",
         "ro": "Începeți dimineața la grandioasa Chiesa Madre, descoperind moștenirea religioasă înainte de a explora colecțiile de la Museo Regionale. La prânz, plimbați-vă spre Anfiteatro Villa a Mare, bucurându-vă de briza mării și de arhitectura deosebită a zonei. Petreceți după-amiaza admirând priveliștile dramatice de la Torre Alba și relaxându-vă în Piazzetta romantică. Încheiați-vă turul pe nisipul de la Spiaggia di Magaggiari, savurând atmosfera caldă a serilor liniștite de lângă valuri.",
         "en": "Start your morning at the grand Chiesa Madre, immersing yourself in local religious heritage before exploring the vast collections at the Museo Regionale. As midday approaches, stroll towards the cultural Anfiteatro Villa a Mare, soaking in the coastal atmosphere and historical architecture. Spend the afternoon marveling at the dramatic sea views from Torre Alba and relaxing at the romantic Piazzetta. Conclude your walking tour on the sandy shores of Spiaggia di Magaggiari, enjoying the warm evening breeze by the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der prächtigen Kathedrale, während der Regen gegen die alten Mauern peitscht. Mittags bietet das Regionalmuseum einen trockenen Zufluchtsort voller Kultur. Am Nachmittag führt der Weg entlang der Küste, wo die stürmische See unter grauem Himmel eine dramatische Kulisse bildet. Den Abend lassen Sie in den gemütlichen Gassen des Zentrums bei prasselndem Regen ausklingen.",
+            "hu": "A reggel a fenséges székesegyház védelmében indul, miközben az eső a régi falakat veri. Délben a regionális múzeum kínál száraz menedéket és gazdag kulturális élményeket. Délután a tengerparti sétányon a viharos tenger és a szürke égbolt drámai látványt nyújt az esernyő alatt. Az estét a központ meghitt, esőáztatta utcáin, egy barátságos fedett helyen zárhatja.",
+            "ro": "Dimineața începe la adăpost în catedrala splendidă, în timp ce ploaia bate în zidurile vechi. La prânz, muzeul regional oferă un refugiu uscat și plin de cultură. După-amiaza, drumul de-a lungul coastei oferă un peisaj dramatic cu marea agitată sub cerul gri. Seara se încheie pe străzile primitoare din centru, ascultând ropotele ploii la un ceai cald.",
+            "en": "The morning begins sheltered in the magnificent cathedral while rain lashes against the ancient walls. At noon, the regional museum provides a dry sanctuary filled with culture. In the afternoon, the coastal path offers a dramatic backdrop with the stormy sea under grey skies. Spend the evening in the cozy, rain-slicked streets of the center, enjoying the atmosphere from a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+                "hu": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+                "ro": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+                "en": "Chiesa Madre e Parrocchia Santa Maria delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvollen Deckenfresken im trockenen Innenraum und nutzen Sie die Zeit, um den Regenschauer in aller Stille abzuwarten.",
+                "hu": "Csodálja meg a pompás mennyezeti freskókat a száraz belső térben, és használja ki az időt a hirtelen zápor csendes kivárására.",
+                "ro": "Admirați frescele superbe de pe tavan în interiorul uscat și profitați de timp pentru a aștepta trecerea ploii în liniște deplină.",
+                "en": "Admire the magnificent ceiling frescoes in the dry interior and use the time to wait out the rain shower in peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo regionale di Terrasini",
+                "hu": "Museo regionale di Terrasini",
+                "ro": "Museo regionale di Terrasini",
+                "en": "Museo regionale di Terrasini"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die umfangreiche Vogelsammlung und die kunstvollen Kutschen; ein idealer Ort, um mehrere Stunden lang dem Wetter zu entfliehen.",
+                "hu": "Fedezze fel a kiterjedt madárgyűjteményt és a díszes kocsikat; ez az ideális hely, hogy több órára elmeneküljön a barátságtalan idő elől.",
+                "ro": "Explorați colecția vastă de păsări și trăsurile ornamentate; un loc ideal pentru a evada din calea vremii nefavorabile timp de câteva ore.",
+                "en": "Explore the extensive bird collection and ornate carriages; an ideal place to escape the bad weather for several hours indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Villa a Mare",
+                "hu": "Anfiteatro Villa a Mare",
+                "ro": "Anfiteatro Villa a Mare",
+                "en": "Anfiteatro Villa a Mare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See von den überdachten Bereichen aus und achten Sie auf die rutschigen Stufen bei Nässe.",
+                "hu": "Élvezze a zord tenger látványát a fedettebb részekről, de ügyeljen a csúszós lépcsőkre az esős időben a biztonsága érdekében.",
+                "ro": "Bucurați-vă de vederea mării agitate din zonele acoperite și aveți grijă la treptele alunecoase cauzate de umiditate.",
+                "en": "Enjoy the view of the rough sea from the sheltered areas and be careful of slippery steps in the wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Alba",
+                "hu": "Torre Alba",
+                "ro": "Torre Alba",
+                "en": "Torre Alba"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm wirkt bei Regen besonders mystisch; halten Sie sich unter dem Dachvorsprung auf, um das Panorama trocken zu genießen.",
+                "hu": "A történelmi torony esőben különösen misztikus látványt nyújt; húzódjon az eresz alá, hogy szárazon élvezhesse a panorámát.",
+                "ro": "Turnul istoric arată deosebit de mistic în ploaie; stați sub streașină pentru a vă bucura de panoramă fără a vă uda.",
+                "en": "The historical tower looks particularly mystical in the rain; stay under the eaves to enjoy the panorama while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazzetta degli Innamorati",
+                "hu": "Piazzetta degli Innamorati",
+                "ro": "Piazzetta degli Innamorati",
+                "en": "Piazzetta degli Innamorati"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, romantischer Stopp mit Regenschirm; die nassen Klippen glänzen wunderschön im diffusen Licht der regenverhangenen Küste.",
+                "hu": "Egy rövid, romantikus megálló esernyővel; a nedves sziklák gyönyörűen csillognak az esőfelhős tengerpart szórt fényében.",
+                "ro": "O scurtă oprire romantică cu umbrela; stâncile umede strălucesc frumos în lumina difuză a coastei acoperite de nori.",
+                "en": "A short, romantic stop with an umbrella; the wet cliffs shine beautifully in the diffused light of the rain-shrouded coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Magaggiari",
+                "hu": "Spiaggia di Magaggiari",
+                "ro": "Spiaggia di Magaggiari",
+                "en": "Spiaggia di Magaggiari"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung von einem der Cafés am Strandrand aus und genießen Sie die kühle Meeresbrise bei einem warmen Getränk.",
+                "hu": "Figyelje a hullámtörést a strand szélén lévő kávézók egyikéből, és élvezze a hűvös tengeri szellőt egy forró ital társaságában.",
+                "ro": "Observați valurile care se sparg de la una dintre cafenelele de pe marginea plajei și savurați briza mării cu o băutură caldă.",
+                "en": "Watch the surf from one of the cafes at the edge of the beach and enjoy the cool sea breeze with a warm drink."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Terrasini ist mild und erfrischend bei einem Besuch der Chiesa Madre. Mittags wärmen Sie sich im Museum auf und tauchen in die lokale Geschichte ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das goldene Nachmittagslicht an den Küstentürmen. Der Abend wird in den beleuchteten Straßen bei einem Glas Wein in einer warmen Trattoria verbracht.",
+            "hu": "A téli reggel Terrasiniben enyhe és frissítő a Chiesa Madre meglátogatásakor. Napközben a múzeumban melegedhet fel, miközben elmélyed a helyi történelemben. Mivel a nap már 17:00 körül lemegy, használja ki a délutáni arany órákat a tengerparti tornyoknál. Az estét a kivilágított utcákon és egy meleg trattoria barátságos asztalánál érdemes tölteni.",
+            "ro": "Dimineața de iarnă în Terrasini este blândă și revigorantă în timpul vizitei la Chiesa Madre. La prânz, vă încălziți în muzeu explorând istoria locală. Deoarece soarele apune deja în jur de ora 17:00, profitați de lumina aurie a după-amiezii la turnurile de pe coastă. Seara se petrece pe străzile luminate, într-o trattoria caldă cu un pahar de vin.",
+            "en": "A winter morning in Terrasini is mild and refreshing during a visit to the Chiesa Madre. At noon, warm up in the museum while diving into local history. Since the sun sets around 5:00 PM, take advantage of the golden afternoon light at the coastal towers. Spend the evening in the illuminated streets at a cozy table in a warm trattoria."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+                "hu": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+                "ro": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+                "en": "Chiesa Madre e Parrocchia Santa Maria delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine angenehme Wärme; besuchen Sie die Messe am Morgen, um die lokale Winteratmosphäre authentisch zu erleben.",
+                "hu": "A templom kellemes meleget áraszt; látogasson el a reggeli misére, hogy autentikus módon tapasztalja meg a helyi téli hangulatot.",
+                "ro": "Biserica oferă o căldură plăcută; vizitați slujba de dimineață pentru a experimenta atmosfera locală de iarnă în mod autentic.",
+                "en": "The church offers a pleasant warmth; attend the morning mass to authentically experience the local winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo regionale di Terrasini",
+                "hu": "Museo regionale di Terrasini",
+                "ro": "Museo regionale di Terrasini",
+                "en": "Museo regionale di Terrasini"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume sind perfekt temperiert; nehmen Sie sich Zeit für die völkerkundliche Abteilung ohne die üblichen Touristenmassen des Sommers.",
+                "hu": "A belső terek tökéletesen temperáltak; szánjon időt a néprajzi részlegre a nyári hónapokra jellemző turistaáradat nélkül.",
+                "ro": "Interioarele sunt perfect climatizate; acordați-vă timp pentru secțiunea etnografică fără mulțimile de turiști specifice verii.",
+                "en": "The interiors are perfectly tempered; take your time in the ethnographic section without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Villa a Mare",
+                "hu": "Anfiteatro Villa a Mare",
+                "ro": "Anfiteatro Villa a Mare",
+                "en": "Anfiteatro Villa a Mare"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Kleidung, da die Meeresbrise im Winter kühl ist; der Blick auf die Klippen ist bei klarem Winterhimmel am schärfsten.",
+                "hu": "Viseljen szélálló ruházatot, mivel a tengeri szellő télen hűvös; a sziklákra nyíló kilátás tiszta téli égbolt mellett a legélesebb.",
+                "ro": "Purtați haine rezistente la vânt, deoarece briza mării este rece iarna; vederea spre stânci este cea mai clară sub cerul senin de iarnă.",
+                "en": "Wear windproof clothing as the sea breeze is cool in winter; the view of the cliffs is sharpest under clear winter skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Alba",
+                "hu": "Torre Alba",
+                "ro": "Torre Alba",
+                "en": "Torre Alba"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht betont die Textur des alten Gesteins; ideal für Fotos kurz vor dem frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Az alacsonyan járó nap kiemeli a régi kövek textúráját; ideális fotózáshoz közvetlenül a korai, 16:30 körüli naplemente előtt.",
+                "ro": "Lumina soarelui la apus subliniază textura pietrei vechi; ideal pentru fotografii chiar înainte de apusul devreme de la ora 16:30.",
+                "en": "The low sunlight emphasizes the texture of the old stone; ideal for photos just before the early sunset around 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazzetta degli Innamorati",
+                "hu": "Piazzetta degli Innamorati",
+                "ro": "Piazzetta degli Innamorati",
+                "en": "Piazzetta degli Innamorati"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Ortes im Winter; die kühle Luft lässt das Meer in einem tiefen, klaren Blau erscheinen.",
+                "hu": "Élvezze a hely magányát télen; a hűvös levegő miatt a tenger mély, tiszta kék színben pompázik ilyenkor.",
+                "ro": "Bucurați-vă de singurătatea locului iarna; aerul rece face ca marea să pară de un albastru profund și clar.",
+                "en": "Enjoy the solitude of the place in winter; the cool air makes the sea appear in a deep, clear blue color."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Magaggiari",
+                "hu": "Spiaggia di Magaggiari",
+                "ro": "Spiaggia di Magaggiari",
+                "en": "Spiaggia di Magaggiari"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang im Sand ist sehr belebend; kehren Sie danach in eine Bar für eine heiße Schokolade oder einen Espresso ein.",
+                "hu": "Egy téli séta a homokban nagyon élénkítő; utána térjen be egy bárba egy forró csokoládéra vagy egy erős eszpresszóra.",
+                "ro": "O plimbare de iarnă pe nisip este foarte revigorantă; după aceea, intrați într-un bar pentru o ciocolată caldă sau un espresso.",
+                "en": "A winter walk in the sand is very invigorating; afterwards, stop by a bar for a hot chocolate or a strong espresso."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa kerékpártúráját a romantikus Piazzetta degli Innamorati téren, majd tekerjen a történelmi Torre Alba tengerparti kilátópontjához. Délben a nyüzsgő Spiaggia di Magaggiari és a békés San Leonardo templom nyújt tökéletes egyensúlyt. Délután kerekezzen végig a festői tengerparton a magányos Torre Mulinazzo felé a látványos panorámáért. Zárja a napot egy elgondolkodtató látogatással a Casa Memoriában, megismerve Peppino Impastato bátor életének történelmi hagyatékát.",
         "ro": "Începeți plimbarea cu bicicleta la Piazzetta degli Innamorati, bucurându-vă de soare înainte de a merge la istoricul Torre Alba. La prânz ajungeți la animata Spiaggia di Magaggiari și la liniștitul San Leonardo, combinând plaja cu spiritul cultural. După-amiaza, pedalați de-a lungul coastei pitorești până la Torre Mulinazzo pentru panorame spectaculoase. Încheiați ziua cu o vizită profundă la Casa Memoria, reflectând asupra istoriei curajoase a lui Peppino Impastato.",
         "en": "Kick off your cycling journey at the romantic Piazzetta degli Innamorati, soaking in the morning sun before riding to the historic Torre Alba. Midday brings you to the lively Spiaggia di Magaggiari and the serene San Leonardo, offering a perfect blend of beach and culture. In the afternoon, pedal along the scenic coastline to reach the solitary Torre Mulinazzo for spectacular panoramas. Wind down the day with a profound visit to Casa Memoria, reflecting on the courageous history of Peppino Impastato."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour entlang der Küste von Terrasini einen rauen Charme. Am Vormittag erkunden Sie die Klippen mit entsprechender Regenkleidung. Mittags ist das Museum in Cinisi der perfekte Ort, um sich aufzuwärmen und das Fahrrad sicher abzustellen. Der Nachmittag führt durch die nassen, glänzenden Straßen zurück, während der Abend entspannt in einem trockenen Café endet.",
+            "hu": "Az eső ellenére a Terrasini partjai mentén tett kerékpártúra nyers bájt áraszt. Délelőtt a sziklákat fedezheti fel megfelelő esővédő ruházatban. Délben a cinisi múzeum a tökéletes hely a felmelegedésre és a kerékpár biztonságos leállítására. A délután a nedvesen csillogó utcákon vezet vissza, az este pedig egy száraz kávézóban zárul.",
+            "ro": "În ciuda ploii, turul cu bicicleta de-a lungul coastei are un farmec aparte. Dimineața explorați stâncile cu echipament de ploaie adecvat. La prânz, muzeul din Cinisi este locul perfect pentru a vă încălzi și a lăsa bicicleta în siguranță. După-amiaza vă poartă înapoi pe străzile umede și strălucitoare, iar seara se încheie relaxat într-o cafenea.",
+            "en": "Despite the rain, the bike tour along the coast of Terrasini offers a raw charm. In the morning, explore the cliffs with appropriate rain gear. At noon, the museum in Cinisi is the perfect place to warm up and park your bike safely. The afternoon leads back through wet, glistening streets, while the evening ends relaxingly in a dry cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazzetta degli Innamorati",
+                "hu": "Piazzetta degli Innamorati",
+                "ro": "Piazzetta degli Innamorati",
+                "en": "Piazzetta degli Innamorati"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Klippenpfaden; der Blick auf die tosende Gischt unter Regenwolken ist jedoch unvergleichlich.",
+                "hu": "Vigyázzon a leszállásnál a nedves sziklaösvényeken; a viharos tengerparti látvány az esőfelhők alatt azonban páratlan élmény.",
+                "ro": "Atenție la coborârea de pe bicicletă pe potecile umede de pe stânci; vederea spumei mării sub norii de ploaie este însă inegalabilă.",
+                "en": "Be careful when dismounting on the wet cliff paths; however, the view of the crashing surf under rain clouds is incomparable."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Alba",
+                "hu": "Torre Alba",
+                "ro": "Torre Alba",
+                "en": "Torre Alba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Turm als kurzen Unterstand bei einem Schauer und prüfen Sie Ihre Bremsen vor der Weiterfahrt auf nasser Fahrbahn.",
+                "hu": "Használja a tornyot rövid menedékként egy zápor esetén, és ellenőrizze a fékeit a vizes úton való továbbhaladás előtt.",
+                "ro": "Folosiți turnul ca un scurt adăpost în caz de aversă și verificați frânele înainte de a continua drumul pe carosabilul umed.",
+                "en": "Use the tower as a quick shelter during a shower and check your brakes before continuing on the wet road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Magaggiari",
+                "hu": "Spiaggia di Magaggiari",
+                "ro": "Spiaggia di Magaggiari",
+                "en": "Spiaggia di Magaggiari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem festen Untergrund und genießen Sie den dramatischen Anblick des grauen Meeres von einer überdachten Terrasse.",
+                "hu": "Parkolja le a kerékpárját szilárd talajon, és élvezze a szürke tenger drámai látványát egy fedett teraszról.",
+                "ro": "Parcați bicicleta pe un teren solid și bucurați-vă de vederea dramatică a mării gri de pe o terasă acoperită.",
+                "en": "Park your bike on solid ground and enjoy the dramatic sight of the grey sea from a covered terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "San Leonardo",
+                "hu": "San Leonardo",
+                "ro": "San Leonardo",
+                "en": "San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Dieser ruhige Ort bietet Schutz vor dem Wind; treten Sie kurz ein, um die Stille zu genießen, während es draußen regnet.",
+                "hu": "Ez a nyugodt hely védelmet nyújt a szél ellen; térjen be egy rövid időre, hogy élvezze a csendet, miközben kint esik.",
+                "ro": "Acest loc liniștit oferă protecție împotriva vântului; intrați pentru scurt timp să vă bucurați de liniște în timp ce afară plouă.",
+                "en": "This quiet spot offers protection from the wind; step inside for a moment to enjoy the silence while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mulinazzo",
+                "hu": "Torre Mulinazzo",
+                "ro": "Torre Mulinazzo",
+                "en": "Torre Mulinazzo"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen schlammig sein; bleiben Sie auf den asphaltierten Wegen und bewundern Sie den Turm aus der Ferne.",
+                "hu": "Az idevezető út esőben sáros lehet; maradjon az aszfaltozott utakon, és csodálja meg a tornyot biztonságos távolságból.",
+                "ro": "Drumul până aici poate fi noroios când plouă; rămâneți pe potecile asfaltate și admirați turnul de la distanță.",
+                "en": "The path here can be muddy in the rain; stay on the paved paths and admire the tower from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Memoria Peppino e Felicia Impastato",
+                "hu": "Casa Memoria Peppino e Felicia Impastato",
+                "ro": "Casa Memoria Peppino e Felicia Impastato",
+                "en": "Casa Memoria Peppino e Felicia Impastato"
+              },
+              "tip_5lang": {
+                "de": "Ein tief bewegendes Museumserlebnis im Trockenen; ideal, um die Kleidung zu lüften, während Sie etwas über die lokale Geschichte lernen.",
+                "hu": "Mélyen megható múzeumi élmény száraz helyen; ideális a ruházat szellőztetésére, miközben a helyi történelemről tanul.",
+                "ro": "O experiență muzeală profund mișcătoare la adăpost; ideal pentru a vă aerisi hainele în timp ce învățați despre istoria locală.",
+                "en": "A deeply moving museum experience in the dry; ideal for airing out your gear while learning about local history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterluft ist perfekt für eine aktive Radtour ohne die Sommerhitze. Starten Sie morgens an der Küste, wo die Brise erfrischend wirkt. Mittags erreichen Sie Cinisi und wärmen sich bei einem herzhaften Mittagessen auf. Da die Tage kurz sind, planen Sie die Rückfahrt gegen 16:30 Uhr ein, um den Sonnenuntergang sicher zu erreichen. Der Abend endet warm eingepackt bei einem Espresso.",
+            "hu": "A téli levegő tökéletes egy aktív kerékpártúrához a nyári hőség nélkül. Induljon reggel a tengerparton, ahol a szellő frissítően hat. Délben érje el Cinisit, és melegedjen fel egy kiadós ebéddel. Mivel a nappalok rövidek, a visszautat 16:30-ra tervezze be a biztonságos érkezés érdekében. Az este melegen felöltözve, egy eszpresszó mellett zárul.",
+            "ro": "Aerul de iarnă este perfect pentru un tur activ cu bicicleta, fără căldura verii. Începeți dimineața pe coastă, unde briza este revigorantă. La prânz ajungeți în Cinisi și vă încălziți cu un prânz copios. Deoarece zilele sunt scurte, planificați drumul de întoarcere în jur de ora 16:30 pentru a ajunge în siguranță. Seara se încheie cu un espresso, bine înfofoliți.",
+            "en": "The winter air is perfect for an active bike tour without the summer heat. Start in the morning on the coast where the breeze is refreshing. Reach Cinisi at noon and warm up with a hearty lunch. Since the days are short, plan your return trip around 4:30 PM to arrive safely. The evening ends wrapped up warmly with an espresso."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piazzetta degli Innamorati",
+                "hu": "Piazzetta degli Innamorati",
+                "ro": "Piazzetta degli Innamorati",
+                "en": "Piazzetta degli Innamorati"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kühlen Fahrtwind; die klare Winterluft bietet eine weite Sicht bis zum Horizont.",
+                "hu": "Viseljen kesztyűt a hűvös menetszél ellen; a tiszta téli levegő messzi kilátást biztosít egészen a horizontig.",
+                "ro": "Purtați mănuși împotriva vântului rece; aerul clar de iarnă oferă o vizibilitate vastă până la orizont.",
+                "en": "Wear gloves against the cool wind while riding; the clear winter air provides a far-reaching view to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Alba",
+                "hu": "Torre Alba",
+                "ro": "Torre Alba",
+                "en": "Torre Alba"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen durch Bewegung; das Mauerwerk strahlt in der Wintersonne eine angenehme Ruhe aus.",
+                "hu": "Egy rövid megálló a mozgással való felmelegedéshez; a falak a téli napsütésben kellemes nyugalmat árasztanak.",
+                "ro": "O scurtă oprire pentru a vă încălzi prin mișcare; zidăria emană o liniște plăcută în soarele de iarnă.",
+                "en": "A short stop to warm up through movement; the masonry radiates a pleasant tranquility in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Magaggiari",
+                "hu": "Spiaggia di Magaggiari",
+                "ro": "Spiaggia di Magaggiari",
+                "en": "Spiaggia di Magaggiari"
+              },
+              "tip_5lang": {
+                "de": "Der leere Strand lädt zum Durchatmen ein; nutzen Sie den festen Sand am Rand für eine kurze, spaßige Fahrt am Ufer.",
+                "hu": "Az üres strand hívogató a tiszta levegőhöz; használja a kemény homokot a parton egy rövid, szórakoztató tekeréshez.",
+                "ro": "Plaja goală vă invită la o gură de aer proaspăt; folosiți nisipul întărit de la margine pentru o scurtă plimbare distractivă.",
+                "en": "The empty beach invites you for a breath of fresh air; use the firm sand at the edge for a short, fun ride along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "San Leonardo",
+                "hu": "San Leonardo",
+                "ro": "San Leonardo",
+                "en": "San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort für eine Trinkpause; die milde Wintersonne wärmt hier besonders gut an der Südwand.",
+                "hu": "Szélvédett hely egy frissítő szünethez; az enyhe téli nap itt különösen jól melenget a déli fal mentén.",
+                "ro": "Un loc ferit de vânt pentru o pauză de hidratare; soarele blând de iarnă încălzește foarte bine aici, lângă peretele sudic.",
+                "en": "A wind-sheltered spot for a drink break; the mild winter sun warms especially well here along the south wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mulinazzo",
+                "hu": "Torre Mulinazzo",
+                "ro": "Torre Mulinazzo",
+                "en": "Torre Mulinazzo"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresluft ist hier sehr präsent; halten Sie den Stopp kurz und bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "A hűvös tengeri levegő itt erősen érződik; tartsa röviden a megállót és maradjon mozgásban, hogy ne hűljön ki.",
+                "ro": "Aerul rece al mării este foarte prezent aici; faceți o oprire scurtă și rămâneți în mișcare pentru a nu vă răci.",
+                "en": "The cool sea air is very present here; keep the stop short and stay in motion to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Memoria Peppino e Felicia Impastato",
+                "hu": "Casa Memoria Peppino e Felicia Impastato",
+                "ro": "Casa Memoria Peppino e Felicia Impastato",
+                "en": "Casa Memoria Peppino e Felicia Impastato"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Rad zu parken und sich im beheizten Innenraum lange aufzuwärmen, während man Geschichte erlebt.",
+                "hu": "Tökéletes hely a kerékpár leállítására és a fűtött belső térben való hosszú felmelegedésre a történelem megismerése közben.",
+                "ro": "Locul perfect pentru a parca bicicleta și a vă încălzi pe îndelete în interiorul încălzit, în timp ce descoperiți istoria.",
+                "en": "The perfect place to park your bike and warm up for a long time in the heated interior while experiencing history."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje az autós utat az exkluzív SeaClubnál, majd látogasson el az impozáns Museo Regionale kiállításaira a délelőtt folyamán. Délben vezessen a sziklás parthoz, a Torre Mulinazzo-hoz, majd haladjon a békés Santuario Santissimo Ecce Homo felé. Délután Cinisi központjában csodálja meg a fenséges Chiesa Madre Santa Fara részletgazdag építészetét. Zárja az utazást egy megható esti látogatással a Casa Memoriában, tisztelegve a maffiaellenes mozgalom fontos alakjai előtt.",
         "ro": "Începeți traseul cu mașina la exclusivistul SeaClub, relaxându-vă lângă apă înainte de a vizita impresionantul Museo Regionale. La prânz, conduceți spre coasta stâncoasă la Torre Mulinazzo, apoi spre liniștitul Santuario Santissimo Ecce Homo. După-amiaza explorați centrul Cinisi cu vizita la impunătoarea Chiesa Madre Santa Fara. Încheiați excursia cu o vizită emoționantă la Casa Memoria în timpul serii, onorând o bucată vitală din istoria antimafia locală.",
         "en": "Start your drive at the exclusive SeaClub, enjoying the morning tranquility by the water before visiting the impressive Museo Regionale. By midday, drive out to the rugged coast to see Torre Mulinazzo, then head inland to the peaceful Santuario Santissimo Ecce Homo. Your afternoon explores Cinisi's core with the majestic Chiesa Madre Santa Fara, admiring its detailed architecture. Conclude your road trip with a moving evening visit to Casa Memoria, honoring a vital piece of anti-mafia history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Terrasini auch bei Regen komfortabel und trocken. Den Vormittag verbringen Sie an der Küste und genießen die Aussicht aus dem warmen Fahrzeug. Mittags bieten die Museen und Kirchen perfekte Indoor-Ziele mit nahen Parkmöglichkeiten. Am Nachmittag fahren Sie zu den Küstentürmen, während der Regen auf das Dach prasselt, und lassen den Tag im gemütlichen Zentrum ausklingen.",
+            "hu": "Autóval Terrasinit esőben is kényelmesen és szárazon fedezheti fel. A délelőttöt a tengerparton töltheti, élvezve a kilátást a meleg járműből. Napközben a múzeumok és templomok tökéletes fedett célpontok közeli parkolással. Délután a tengerparti tornyokhoz autózhat, miközben az eső kopog a tetőn, az estét pedig a hangulatos központban zárhatja.",
+            "ro": "Cu mașina, explorați Terrasini confortabil și fără să vă udați chiar și pe ploaie. Petreceți dimineața pe coastă, admirând priveliștea din vehiculul cald. La prânz, muzeele și bisericile oferă destinații ideale de interior cu parcare în apropiere. După-amiaza conduceți spre turnurile de pe coastă, în sunetul ploii, și încheiați ziua în centrul primitor.",
+            "en": "By car, you can explore Terrasini comfortably and dry even in the rain. Spend the morning on the coast, enjoying the view from the warm vehicle. At noon, museums and churches offer perfect indoor destinations with nearby parking. In the afternoon, drive to the coastal towers while the rain drums on the roof, and end the day in the cozy center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "SeaClub",
+                "hu": "SeaClub",
+                "ro": "SeaClub",
+                "en": "SeaClub"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen vom Auto oder einem überdachten Bereich aus; ideal, um das Meer ohne Nässe zu erleben.",
+                "hu": "Élvezze a hullámok látványát az autóból vagy egy fedett részről; ideális a tenger megfigyelésére anélkül, hogy elázna.",
+                "ro": "Bucurați-vă de vederea valurilor din mașină sau dintr-o zonă acoperită; ideal pentru a experimenta marea fără a vă uda.",
+                "en": "Enjoy the view of the waves from the car or a sheltered area; ideal for experiencing the sea without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo regionale di Terrasini",
+                "hu": "Museo regionale di Terrasini",
+                "ro": "Museo regionale di Terrasini",
+                "en": "Museo regionale di Terrasini"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um trocken ins Museum zu gelangen, und verbringen Sie hier die regenreichsten Stunden des Tages.",
+                "hu": "Használja a közeli parkolót, hogy szárazon jusson be a múzeumba, és itt töltse a nap legesősebb óráit a kiállítások között.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge uscat în muzeu și petreceți aici cele mai ploioase ore ale zilei.",
+                "en": "Use the nearby parking to get to the museum dry and spend the rainiest hours of the day here among the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mulinazzo",
+                "hu": "Torre Mulinazzo",
+                "ro": "Torre Mulinazzo",
+                "en": "Torre Mulinazzo"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie direkt am Aussichtspunkt; das Auto bietet den perfekten Schutz, um den Turm und das graue Panorama zu bewundern.",
+                "hu": "Álljon meg közvetlenül a kilátópontnál; az autó tökéletes védelmet nyújt a torony és a szürke panoráma megcsodálásához.",
+                "ro": "Opriți direct la punctul de belvedere; mașina oferă protecția perfectă pentru a admira turnul și panorama gri.",
+                "en": "Stop directly at the viewpoint; the car provides the perfect shelter to admire the tower and the grey panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Santissimo Ecce Homo",
+                "hu": "Santuario Santissimo Ecce Homo",
+                "ro": "Santuario Santissimo Ecce Homo",
+                "en": "Santuario Santissimo Ecce Homo"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Lage des Heiligtums ist bei Regen besonders friedlich; der kurze Weg vom Auto ins Innere hält Sie weitgehend trocken.",
+                "hu": "A szentély csendes elhelyezkedése esőben különösen békés; az autótól a bejáratig tartó rövid út alatt alig fog elázni.",
+                "ro": "Locația liniștită a sanctuarului este deosebit de pașnică pe ploaie; drumul scurt de la mașină la interior vă va menține uscat.",
+                "en": "The quiet location of the sanctuary is particularly peaceful in the rain; the short walk from the car inside will keep you mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madre Santa Fara",
+                "hu": "Chiesa Madre Santa Fara",
+                "ro": "Chiesa Madre Santa Fara",
+                "en": "Chiesa Madre Santa Fara"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Zwischenstopp im Trockenen; parken Sie direkt am Platz, um die barocke Pracht ohne Regenschirm-Stress zu besichtigen.",
+                "hu": "Szép köztes megálló száraz helyen; parkoljon közvetlenül a téren, hogy esernyővel való vesződség nélkül láthassa a barokk pompát.",
+                "ro": "O oprire frumoasă la adăpost; parcați chiar în piață pentru a vizita splendoarea barocă fără stresul umbrelei.",
+                "en": "A beautiful intermediate stop in the dry; park right in the square to see the baroque splendor without umbrella stress."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Memoria Peppino e Felicia Impastato",
+                "hu": "Casa Memoria Peppino e Felicia Impastato",
+                "ro": "Casa Memoria Peppino e Felicia Impastato",
+                "en": "Casa Memoria Peppino e Felicia Impastato"
+              },
+              "tip_5lang": {
+                "de": "Ideales Ziel für das Ende eines Regentages; das Museum ist gut beheizt und bietet eine tiefgründige, trockene Erfahrung.",
+                "hu": "Ideális célpont egy esős nap végén; a múzeum jól fűtött, és mélyreható, száraz élményt nyújt a látogatóknak.",
+                "ro": "Destinație ideală pentru sfârșitul unei zile ploioase; muzeul este bine încălzit și oferă o experiență profundă și uscată.",
+                "en": "Ideal destination for the end of a rainy day; the museum is well-heated and offers a profound, dry experience for visitors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Sizilien ist ideal für eine Autotour durch Terrasini und Umgebung. Morgens genießen Sie die frische Meeresbrise am SeaClub bei angenehmen Temperaturen im Wagen. Mittags erkunden Sie die kulturellen Schätze ohne Hitze. Planen Sie Ihre Stopps so, dass Sie den frühen Sonnenuntergang gegen 17:00 Uhr von einem schönen Aussichtspunkt aus dem Auto erleben können, bevor es zum Abendessen geht.",
+            "hu": "A szicíliai tél ideális egy autós túrához Terrasiniben és környékén. Reggel a SeaClubnál élvezheti a friss tengeri szellőt a kocsiban lévő kellemes hőmérséklet mellett. Napközben a kulturális kincseket fedezheti fel hőség nélkül. Tervezze úgy a megállókat, hogy a korai, 17:00-es naplementét egy szép kilátópontról, az autóból láthassa vacsora előtt.",
+            "ro": "Iarna siciliană este ideală pentru un tur cu mașina în Terrasini și împrejurimi. Dimineața vă bucurați de briza mării la SeaClub la temperaturi plăcute în mașină. La prânz explorați comorile culturale fără caniculă. Planificați opririle astfel încât să vedeți apusul devreme de la ora 17:00 dintr-un punct de belvedere, direct din mașină.",
+            "en": "The Sicilian winter is ideal for a car tour through Terrasini and its surroundings. In the morning, enjoy the fresh sea breeze at SeaClub with pleasant temperatures inside the vehicle. At noon, explore cultural treasures without the heat. Plan your stops to witness the early sunset around 5:00 PM from a nice viewpoint in your car before dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "SeaClub",
+                "hu": "SeaClub",
+                "ro": "SeaClub",
+                "en": "SeaClub"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto bei offenem Fenster, um die frische Meeresluft ohne zu frieren direkt am Ufer zu genießen.",
+                "hu": "Használja az autó fűtését lehúzott ablak mellett, hogy fázás nélkül élvezhesse a friss tengeri levegőt közvetlenül a parton.",
+                "ro": "Folosiți încălzirea din mașină cu fereastra deschisă pentru a vă bucura de aerul proaspăt al mării fără a vă fi frig, chiar pe mal.",
+                "en": "Use the car heater with the window open to enjoy the fresh sea air directly at the shore without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo regionale di Terrasini",
+                "hu": "Museo regionale di Terrasini",
+                "ro": "Museo regionale di Terrasini",
+                "en": "Museo regionale di Terrasini"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum in der Mittagszeit; es ist angenehm klimatisiert und bietet eine willkommene Abwechslung zum kühlen Wind draußen.",
+                "hu": "Látogasson el a múzeumba a déli órákban; kellemesen klimatizált, és üdvözlendő kikapcsolódást nyújt a kinti hűvös szél után.",
+                "ro": "Vizitați muzeul la prânz; este climatizat plăcut și oferă o relaxare binevenită după vântul rece de afară.",
+                "en": "Visit the museum during the midday hours; it is pleasantly climate-controlled and offers a welcome break from the cool wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Mulinazzo",
+                "hu": "Torre Mulinazzo",
+                "ro": "Torre Mulinazzo",
+                "en": "Torre Mulinazzo"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Fernsicht; bleiben Sie im Auto, um das Panorama windgeschützt zu bewundern.",
+                "hu": "A tiszta téli fény fantasztikus távoli kilátást biztosít; maradjon az autóban, hogy szélvédett helyen csodálhassa meg a panorámát.",
+                "ro": "Lumina clară de iarnă oferă o vizibilitate fantastică la distanță; rămâneți în mașină pentru a admira panorama feriți de vânt.",
+                "en": "The clear winter light ensures fantastic long-distance views; stay in the car to admire the panorama protected from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Santissimo Ecce Homo",
+                "hu": "Santuario Santissimo Ecce Homo",
+                "ro": "Santuario Santissimo Ecce Homo",
+                "en": "Santuario Santissimo Ecce Homo"
+              },
+              "tip_5lang": {
+                "de": "Ein besinnlicher Ort für die kühle Jahreszeit; die Parkmöglichkeiten sind im Winter sehr gut, sodass Sie kaum laufen müssen.",
+                "hu": "Meghitt hely a hűvös évszakban; a parkolási lehetőségek télen kiválóak, így alig kell gyalogolnia a bejáratig.",
+                "ro": "Un loc liniștit pentru sezonul rece; opțiunile de parcare sunt foarte bune iarna, așa că aproape nu va trebui să mergeți pe jos.",
+                "en": "A contemplative place for the cool season; parking options are very good in winter, so you hardly have to walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madre Santa Fara",
+                "hu": "Chiesa Madre Santa Fara",
+                "ro": "Chiesa Madre Santa Fara",
+                "en": "Chiesa Madre Santa Fara"
+              },
+              "tip_5lang": {
+                "de": "Die prunkvolle Innenausstattung ist im Winterlicht besonders stimmungsvoll; nutzen Sie die kurzen Wege vom Parkplatz zur Kirche.",
+                "hu": "A pompás belső tér a téli fényben különösen hangulatos; használja ki a parkolótól a templomig tartó rövid távolságot.",
+                "ro": "Interiorul fastuos este deosebit de atmosferic în lumina iernii; profitați de distanța scurtă de la parcare până la biserică.",
+                "en": "The magnificent interior is particularly atmospheric in the winter light; take advantage of the short distance from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Memoria Peppino e Felicia Impastato",
+                "hu": "Casa Memoria Peppino e Felicia Impastato",
+                "ro": "Casa Memoria Peppino e Felicia Impastato",
+                "en": "Casa Memoria Peppino e Felicia Impastato"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier, bevor es draußen dunkel wird; der warme Empfang im Museum lässt die Winterkälte sofort vergessen.",
+                "hu": "Fejezze be itt a túráját, mielőtt odakint besötétedik; a múzeum meleg fogadtatása azonnal elfeledteti a téli hideget.",
+                "ro": "Încheiați turul aici înainte de a se întuneca; primirea călduroasă din muzeu vă va face să uitați imediat de frigul iernii.",
+                "en": "End your tour here before it gets dark outside; the warm welcome in the museum will make you immediately forget the winter cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Luxeuil-les-Bains ősi kolostori központjának felfedezésével a Saint-Colomban apátságban. Ezután merüljön el a helyi történelemben a múzeumban. Délben lazítson a híres római termálfürdőkben, hogy felfrissüljön. Délután csodálja meg a Château Grammont külsejét, és fedezze fel a helyi kézművességet a fazekasműhelyben.",
         "ro": "Începeți dimineața explorând inima monastică a orașului Luxeuil-les-Bains la Abația Saint-Colomban. Apoi, scufundați-vă în istoria locală la Muzeul Tour des échevins. La amiază, relaxați-vă în faimoasele băi termale romane. Petreceți după-amiaza admirând exteriorul Château Grammont și finalizați prin a descoperi meșteșugurile la atelierul de olărit.",
         "en": "Start your morning exploring the ancient monastic heart of Luxeuil-les-Bains at the Saint-Colomban Abbey. Afterward, dive into local history at the Tour des échevins. Midday, relax in the famous Roman thermal baths to rejuvenate. Spend your afternoon admiring the exterior of Château Grammont and finish by discovering local craftsmanship at the pottery workshop."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem Regenschirm in der alten Abtei. Suchen Sie mittags Schutz im Museum und den Thermalbädern. Trotzen Sie am Nachmittag dem Nieselregen beim Schloss und der Töpferwerkstatt. Der regnerische Abend lädt zu einem gemütlichen, trockenen Rückzugsort im Stadtzentrum ein.",
+            "hu": "Kezdje a reggelt az ősi apátságban egy stabil esernyővel. Délben keressen menedéket a múzeumban és a híres termálfürdőben. Délután dacoljon a szitáló esővel a kastélynál és a fazekasműhelynél. Az esős este egy hangulatos, száraz pihenőt kíván a városközpontban.",
+            "ro": "Începeți dimineața explorând vechea abație cu o umbrelă rezistentă. La prânz, adăpostiți-vă în muzeu și în faimoasele băi termale. După-amiaza, înfruntați burnița pentru a admira castelul și atelierul de ceramică. Seara ploioasă cere o retragere confortabilă și uscată în centru.",
+            "en": "Start the morning exploring the ancient abbey with a sturdy umbrella. By midday, take shelter in the museum and the famous thermal baths. In the afternoon, brave the drizzle to admire the castle and pottery workshop. The rainy evening calls for a cozy, dry retreat in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Colomban Abbey",
+                "hu": "Saint-Colomban Abbey",
+                "ro": "Saint-Colomban Abbey",
+                "en": "Saint-Colomban Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur aus dem Schutz des Kirchenschiffs; halten Sie Ihren Regenschirm für den Weg zum Eingang bereit.",
+                "hu": "Csodálja meg az építészetet a főhajó menedékéből; tartsa kéznél esernyőjét a bejáratig tartó rövid sétához az esőben.",
+                "ro": "Admirați arhitectura impresionantă din adăpostul naosului său; țineți umbrela la îndemână pentru scurta plimbare până la intrare.",
+                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Tour des échevins",
+                "hu": "Musée de la Tour des échevins",
+                "ro": "Musée de la Tour des échevins",
+                "en": "Musée de la Tour des échevins"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort mit lokaler Geschichte. Legen Sie nasse Sachen am Eingang ab und genießen Sie die trockenen Ausstellungen.",
+                "hu": "Tökéletes beltéri menedék a helyi történelemmel; tegye le vizes holmiját a bejáratnál, és élvezze a száraz, lenyűgöző kiállításokat.",
+                "ro": "Un refugiu perfect ce prezintă istoria locală; lăsați echipamentul ud la intrare și bucurați-vă de exponatele uscate și fascinante.",
+                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxeuil-les-Bains Thermal Baths",
+                "hu": "Luxeuil-les-Bains Thermal Baths",
+                "ro": "Luxeuil-les-Bains Thermal Baths",
+                "en": "Luxeuil-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Es gibt an einem Regentag nichts Besseres, als in die dampfenden Mineralwässer einzutauchen und dem Regen zuzuhören.",
+                "hu": "Esős napokon nincs is jobb, mint elmerülni a gőzölgő ásványvízben, miközben hallgatja, ahogy az eső dobol a tetőn.",
+                "ro": "Nu este nimic mai bun într-o zi ploioasă decât să te scufunzi în apele minerale aburinde ascultând ploaia afară.",
+                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside."
+              }
+            },
+            {
+              "name": {
+                "de": "EHPAD Château Grammont",
+                "hu": "EHPAD Château Grammont",
+                "ro": "EHPAD Château Grammont",
+                "en": "EHPAD Château Grammont"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Schlossfassade unter Ihrem Regenschirm; die Wege können schlammig sein, wasserdichtes Schuhwerk wird empfohlen.",
+                "hu": "Csodálja meg a kastély homlokzatát esernyője alól; az ösvények sarasak lehetnek, ezért strapabíró, vízálló lábbeli viselése ajánlott.",
+                "ro": "Priviți fațada castelului de sub umbrelă; aleile pot deveni noroioase, așa că se recomandă încălțăminte impermeabilă și rezistentă.",
+                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier de potiers du Chatigny",
+                "hu": "Atelier de potiers du Chatigny",
+                "ro": "Atelier de potiers du Chatigny",
+                "en": "Atelier de potiers du Chatigny"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Töpferscheibe in dieser trockenen Werkstatt, ein wunderbarer Rückzugsort, wenn das Wetter draußen ungemütlich ist.",
+                "hu": "Nézze meg a fazekaskorong forgását ebben a hangulatos műhelyben, amely csodálatos beltéri menedék, ha kint zordra fordul az idő.",
+                "ro": "Urmăriți roata olarului în acest atelier uscat și confortabil, fiind o evadare minunată în interior când vremea este urâtă.",
+                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für einen Spaziergang um die Abtei. Mittags können Sie sich im Museum und den Thermalbädern aufwärmen. Der Nachmittagsspaziergang zum Schloss und zur Töpferwerkstatt ist erfrischend. Rechnen Sie mit früher Dämmerung gegen 17:00 Uhr für einen ruhigen Abend.",
+            "hu": "Öltözzön melegen a csípős reggeli sétához a történelmi apátság körül. A dél tökéletes alkalmat kínál a felmelegedésre a múzeumban és a termálfürdőben. A délutáni séta a kastélyhoz frissítő lesz. Számítson korai sötétedésre 17:00 körül, ami gyönyörűvé teszi az estét.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală pe lângă abația istorică. Prânzul oferă șansa perfectă de a vă încălzi în muzeu și în băile termale. Plimbarea de după-amiază spre castel este revigorantă. Așteptați-vă la un amurg devreme, pe la 17:00, lăsând o seară senină.",
+            "en": "Wrap up warmly for a crisp morning walk around the historic abbey. Midday offers a perfect chance to thaw out in the museum and the soothing thermal baths. The afternoon stroll to the castle and pottery workshop is brisk. Expect early twilight by 17:00, making the evening beautifully serene."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Colomban Abbey",
+                "hu": "Saint-Colomban Abbey",
+                "ro": "Saint-Colomban Abbey",
+                "en": "Saint-Colomban Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinwände können eiskalt sein. Tragen Sie eine zusätzliche Schicht, während Sie die historischen Ruinen in der Winterluft erkunden.",
+                "hu": "A masszív kőfalak jéghidegek lehetnek, így viseljen extra réteget, miközben felfedezi a történelmi romokat a csípős téli levegőben.",
+                "ro": "Zidurile de piatră pot fi înghețate, purtați un strat în plus explorând ruinele istorice în aerul rece de iarnă.",
+                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Tour des échevins",
+                "hu": "Musée de la Tour des échevins",
+                "ro": "Musée de la Tour des échevins",
+                "en": "Musée de la Tour des échevins"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte in diesem historischen Turm. Das Museum bietet ein gemütliches Eintauchen in die Vergangenheit.",
+                "hu": "Meneküljön a téli hideg elől ebbe a lenyűgöző történelmi toronyba; a múzeum hangulatos elmerülést kínál a régió múltjában.",
+                "ro": "Scăpați de frigul iernii în acest turn istoric fascinant; muzeul oferă o incursiune confortabilă în trecutul bogat al regiunii.",
+                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxeuil-les-Bains Thermal Baths",
+                "hu": "Luxeuil-les-Bains Thermal Baths",
+                "ro": "Luxeuil-les-Bains Thermal Baths",
+                "en": "Luxeuil-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Knochen in den heißen Quellen auf, ein perfekter und entspannender Kontrast zu den eisigen Wintertemperaturen draußen.",
+                "hu": "Melegítse fel csontjait a híres hőforrásokban, amely tökéletes és pihentető kontrasztot nyújt a kinti fagyos téli hőmérséklettel szemben.",
+                "ro": "Încălziți-vă oasele în renumitele izvoare termale, oferind un contrast perfect și relaxant cu temperaturile scăzute de iarnă de afară.",
+                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "EHPAD Château Grammont",
+                "hu": "EHPAD Château Grammont",
+                "ro": "EHPAD Château Grammont",
+                "en": "EHPAD Château Grammont"
+              },
+              "tip_5lang": {
+                "de": "Die Schlossanlage ist atemberaubend unter Frost; kleiden Sie sich warm, da der offene Innenhof die kalten Winterwinde einfängt.",
+                "hu": "A történelmi kastély kertje lenyűgöző a fagyban; öltözzön melegen, mivel a nyitott udvar felfogja a hideg, metsző téli szeleket.",
+                "ro": "Terenurile castelului sunt uimitoare sub îngheț; îmbrăcați-vă gros, deoarece curtea deschisă prinde vânturile reci de iarnă.",
+                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier de potiers du Chatigny",
+                "hu": "Atelier de potiers du Chatigny",
+                "ro": "Atelier de potiers du Chatigny",
+                "en": "Atelier de potiers du Chatigny"
+              },
+              "tip_5lang": {
+                "de": "Die laufenden Öfen sorgen in diesem Laden für eine angenehme Wärme; ein toller Halt, um sich am Winternachmittag aufzuwärmen.",
+                "hu": "A működő kemencék kellemes meleget árasztanak ebben a bájos boltban; nagyszerű megálló a téli délutáni felmelegedéshez.",
+                "ro": "Cuptoarele de lucru oferă o căldură plăcută în acest magazin fermecător; o oprire excelentă pentru a vă încălzi după-amiaza.",
+                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon át a történelmi központon, az apátságtól indulva, majd látogasson el a helyi múzeumba. Délben tartson pihenőt a híres termálfürdőben, amelyet a Château Grammont követ. Délután tekerjen el a fazekasműhely mellett a csendes Chapelle du Messier-hez, végül pedig fejezze be a napot az impozáns Église Sainte-Trinité templomnál.",
         "ro": "Pedalați prin centrul istoric, începând de la abație înainte de a vizita muzeul local. Faceți o pauză la amiază la renumitele băi termale, urmată de o oprire la elegantul Château Grammont. După-amiaza, mergeți pe lângă atelierul de olărit până la liniștita Chapelle du Messier, terminând la grandioasa Église Sainte-Trinité.",
         "en": "Pedal through the historic center, beginning at the majestic Abbey before visiting the local museum for panoramic views. Take a midday pause at the renowned thermal baths, followed by a quick stop at the elegant Château Grammont. In the afternoon, cycle past the pottery workshop out to the serene Chapelle du Messier, finishing at the grand Église Sainte-Trinité."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig zur Abtei und tragen Sie gute Regenkleidung. Mittags finden Sie Schutz im Museum und im Thermalbad. Die Nachmittagsfahrt zu den Kapellen erfordert Vorsicht auf rutschigen Wegen. Beenden Sie die nasse Fahrt sicher vor dem Abend.",
+            "hu": "Óvatosan tekerjen a reggeli esőben az apátsághoz, viseljen jó vízálló felszerelést. A dél beltéri felüdülést hoz a múzeumban és a fürdőben. A délutáni bringázás a kápolnákhoz óvatosságot igényel a csúszós utakon. Fejezze be a nedves utat még sötétedés előtt.",
+            "ro": "Bicicliți cu grijă prin ploaia matinală spre abație, purtând echipament impermeabil. Prânzul aduce alinare în muzeu și la băi. Mersul de după-amiază spre castel și capele necesită prudență pe frunzele umede. Încheiați călătoria în siguranță înainte de lăsarea serii.",
+            "en": "Cycle carefully through the morning rain to the abbey, wearing good waterproof gear. Midday brings indoor relief at the museum and thermal baths. Afternoon riding to the castle and chapels requires caution on slippery wet leaves. Conclude the wet journey safely before evening falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Colomban Abbey",
+                "hu": "Saint-Colomban Abbey",
+                "ro": "Saint-Colomban Abbey",
+                "en": "Saint-Colomban Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur aus dem Schutz des Kirchenschiffs; halten Sie Ihren Regenschirm für den Weg zum Eingang bereit.",
+                "hu": "Csodálja meg az építészetet a főhajó menedékéből; tartsa kéznél esernyőjét a bejáratig tartó rövid sétához az esőben.",
+                "ro": "Admirați arhitectura impresionantă din adăpostul naosului său; țineți umbrela la îndemână pentru scurta plimbare până la intrare.",
+                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Tour des échevins",
+                "hu": "Musée de la Tour des échevins",
+                "ro": "Musée de la Tour des échevins",
+                "en": "Musée de la Tour des échevins"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort mit lokaler Geschichte. Legen Sie nasse Sachen am Eingang ab und genießen Sie die trockenen Ausstellungen.",
+                "hu": "Tökéletes beltéri menedék a helyi történelemmel; tegye le vizes holmiját a bejáratnál, és élvezze a száraz, lenyűgöző kiállításokat.",
+                "ro": "Un refugiu perfect ce prezintă istoria locală; lăsați echipamentul ud la intrare și bucurați-vă de exponatele uscate și fascinante.",
+                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxeuil-les-Bains Thermal Baths",
+                "hu": "Luxeuil-les-Bains Thermal Baths",
+                "ro": "Luxeuil-les-Bains Thermal Baths",
+                "en": "Luxeuil-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Es gibt an einem Regentag nichts Besseres, als in die dampfenden Mineralwässer einzutauchen und dem Regen zuzuhören.",
+                "hu": "Esős napokon nincs is jobb, mint elmerülni a gőzölgő ásványvízben, miközben hallgatja, ahogy az eső dobol a tetőn.",
+                "ro": "Nu este nimic mai bun într-o zi ploioasă decât să te scufunzi în apele minerale aburinde ascultând ploaia afară.",
+                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside."
+              }
+            },
+            {
+              "name": {
+                "de": "EHPAD Château Grammont",
+                "hu": "EHPAD Château Grammont",
+                "ro": "EHPAD Château Grammont",
+                "en": "EHPAD Château Grammont"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Schlossfassade unter Ihrem Regenschirm; die Wege können schlammig sein, wasserdichtes Schuhwerk wird empfohlen.",
+                "hu": "Csodálja meg a kastély homlokzatát esernyője alól; az ösvények sarasak lehetnek, ezért strapabíró, vízálló lábbeli viselése ajánlott.",
+                "ro": "Priviți fațada castelului de sub umbrelă; aleile pot deveni noroioase, așa că se recomandă încălțăminte impermeabilă și rezistentă.",
+                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier de potiers du Chatigny",
+                "hu": "Atelier de potiers du Chatigny",
+                "ro": "Atelier de potiers du Chatigny",
+                "en": "Atelier de potiers du Chatigny"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Töpferscheibe in dieser trockenen Werkstatt, ein wunderbarer Rückzugsort, wenn das Wetter draußen ungemütlich ist.",
+                "hu": "Nézze meg a fazekaskorong forgását ebben a hangulatos műhelyben, amely csodálatos beltéri menedék, ha kint zordra fordul az idő.",
+                "ro": "Urmăriți roata olarului în acest atelier uscat și confortabil, fiind o evadare minunată în interior când vremea este urâtă.",
+                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Messier",
+                "hu": "Chapelle du Messier",
+                "ro": "Chapelle du Messier",
+                "en": "Chapelle du Messier"
+              },
+              "tip_5lang": {
+                "de": "Diese Kapelle bietet ein kurzes Heiligtum. Achten Sie beim Abstellen Ihres Fahrrads auf rutschige Stufen am Eingang.",
+                "hu": "Ez a furcsa kápolna rövid menedéket nyújt; vigyázzon a bejárathoz vezető csúszós lépcsőkkel a kerékpár parkolásakor.",
+                "ro": "Această capelă oferă un scurt sanctuar; atenție la treptele alunecoase de la intrare când parcați bicicleta.",
+                "en": "This quaint chapel offers a brief sanctuary; beware of slippery steps leading to the entrance when parking your bike or walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Trinité",
+                "hu": "Église Sainte-Trinité",
+                "ro": "Église Sainte-Trinité",
+                "en": "Église Sainte-Trinité"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Regen zu entkommen und das Innere zu bewundern. Das umliegende Steinpflaster kann bei Nässe rutschig sein.",
+                "hu": "Lépjen be, hogy megcsodálja a gyönyörű belső teret, miközben menekül az eső elől; a környező kőburkolat nedvesen elég csúszós lehet.",
+                "ro": "Intrați pentru a admira interioarele frumoase în timp ce scăpați de ploaie; pavajul de piatră din jur poate fi alunecos când e ud.",
+                "en": "Step inside to admire the beautiful interiors while escaping the rain; the surrounding stone pavement can be quite slick when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie der frostigen Morgenluft und radeln Sie mit dicken Handschuhen zur Abtei. Wärmen Sie Ihre Hände mittags im Museum und in den Thermalbädern. Die Fahrt zu den Kapellen am Nachmittag hält Sie aktiv. Beenden Sie die Route, wenn die Wintersonne früh gegen 17:00 Uhr untergeht.",
+            "hu": "Dacoljon a fagyos reggeli levegővel vastag kesztyűben az apátság felé. Melegítse fel kezeit délben a múzeumban és a termálfürdőben. A délutáni tekerés a kastély és a kápolnák felé aktívan tartja. Fejezze be az utat, ahogy a téli nap korán, 17:00 körül lenyugszik.",
+            "ro": "Înfruntați aerul geros al dimineții pedalând spre abație cu mănuși groase. Încălziți-vă mâinile la prânz în muzeu și la băile termale. Cursa de după-amiază pe lângă capele vă menține activ. Terminați traseul când soarele de iarnă apune devreme, în jur de 17:00.",
+            "en": "Brave the frosty morning air cycling to the grand abbey with thick gloves. Thaw your hands at midday inside the museum and the welcoming thermal baths. The brisk afternoon ride past the castle and chapels keeps you active. Finish the route as the winter sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Colomban Abbey",
+                "hu": "Saint-Colomban Abbey",
+                "ro": "Saint-Colomban Abbey",
+                "en": "Saint-Colomban Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinwände können eiskalt sein. Tragen Sie eine zusätzliche Schicht, während Sie die historischen Ruinen in der Winterluft erkunden.",
+                "hu": "A masszív kőfalak jéghidegek lehetnek, így viseljen extra réteget, miközben felfedezi a történelmi romokat a csípős téli levegőben.",
+                "ro": "Zidurile de piatră pot fi înghețate, purtați un strat în plus explorând ruinele istorice în aerul rece de iarnă.",
+                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Tour des échevins",
+                "hu": "Musée de la Tour des échevins",
+                "ro": "Musée de la Tour des échevins",
+                "en": "Musée de la Tour des échevins"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte in diesem historischen Turm. Das Museum bietet ein gemütliches Eintauchen in die Vergangenheit.",
+                "hu": "Meneküljön a téli hideg elől ebbe a lenyűgöző történelmi toronyba; a múzeum hangulatos elmerülést kínál a régió múltjában.",
+                "ro": "Scăpați de frigul iernii în acest turn istoric fascinant; muzeul oferă o incursiune confortabilă în trecutul bogat al regiunii.",
+                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxeuil-les-Bains Thermal Baths",
+                "hu": "Luxeuil-les-Bains Thermal Baths",
+                "ro": "Luxeuil-les-Bains Thermal Baths",
+                "en": "Luxeuil-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Knochen in den heißen Quellen auf, ein perfekter und entspannender Kontrast zu den eisigen Wintertemperaturen draußen.",
+                "hu": "Melegítse fel csontjait a híres hőforrásokban, amely tökéletes és pihentető kontrasztot nyújt a kinti fagyos téli hőmérséklettel szemben.",
+                "ro": "Încălziți-vă oasele în renumitele izvoare termale, oferind un contrast perfect și relaxant cu temperaturile scăzute de iarnă de afară.",
+                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "EHPAD Château Grammont",
+                "hu": "EHPAD Château Grammont",
+                "ro": "EHPAD Château Grammont",
+                "en": "EHPAD Château Grammont"
+              },
+              "tip_5lang": {
+                "de": "Die Schlossanlage ist atemberaubend unter Frost; kleiden Sie sich warm, da der offene Innenhof die kalten Winterwinde einfängt.",
+                "hu": "A történelmi kastély kertje lenyűgöző a fagyban; öltözzön melegen, mivel a nyitott udvar felfogja a hideg, metsző téli szeleket.",
+                "ro": "Terenurile castelului sunt uimitoare sub îngheț; îmbrăcați-vă gros, deoarece curtea deschisă prinde vânturile reci de iarnă.",
+                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier de potiers du Chatigny",
+                "hu": "Atelier de potiers du Chatigny",
+                "ro": "Atelier de potiers du Chatigny",
+                "en": "Atelier de potiers du Chatigny"
+              },
+              "tip_5lang": {
+                "de": "Die laufenden Öfen sorgen in diesem Laden für eine angenehme Wärme; ein toller Halt, um sich am Winternachmittag aufzuwärmen.",
+                "hu": "A működő kemencék kellemes meleget árasztanak ebben a bájos boltban; nagyszerű megálló a téli délutáni felmelegedéshez.",
+                "ro": "Cuptoarele de lucru oferă o căldură plăcută în acest magazin fermecător; o oprire excelentă pentru a vă încălzi după-amiaza.",
+                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Messier",
+                "hu": "Chapelle du Messier",
+                "ro": "Chapelle du Messier",
+                "en": "Chapelle du Messier"
+              },
+              "tip_5lang": {
+                "de": "In der kleinen Kapelle wird es früh dunkel. Besuchen Sie sie bei Tageslicht, bevor um 17:00 Uhr der Sonnenuntergang beginnt.",
+                "hu": "A kis kápolnában korán sötétedik; mindenképpen látogassa meg, amíg még van nappali fény a 17:00 órás téli naplemente előtt.",
+                "ro": "Capela se întunecă devreme; vizitați cât încă mai este lumină de zi, înainte să înceapă apusul de iarnă la ora 17:00.",
+                "en": "The small chapel gets dark early; make sure to visit while there is still daylight before the 17:00 winter sunset begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Trinité",
+                "hu": "Église Sainte-Trinité",
+                "ro": "Église Sainte-Trinité",
+                "en": "Église Sainte-Trinité"
+              },
+              "tip_5lang": {
+                "de": "Die feierliche Atmosphäre wird durch die Winterstille verstärkt. Ziehen Sie sich warm an, da das alte Steininnere kaum beheizt wird.",
+                "hu": "Az ünnepélyes hangulatot felerősíti a téli csend; öltözzön be jól, mivel az ősi kőbelső nincs erősen fűtve.",
+                "ro": "Atmosfera solemnă e amplificată de tăcerea iernii; îmbrăcați-vă gros, interiorul antic din piatră nefiind foarte încălzit.",
+                "en": "The solemn atmosphere is amplified by the winter silence; bundle up as the ancient stone interior isn't heavily heated."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Vezessen könnyedén Luxeuil látnivalói között, kezdve a központi apátsággal és a Tour des échevins múzeummal. Délben pihenjen a termálfürdőben, majd ugorjon át a Château Grammont-hoz. Az autója megkönnyíti a külső vallási helyszínek meglátogatását a késő délutáni órákban, és a napot a két Szentháromság-templommal zárhatja.",
         "ro": "Conduceți fără efort între atracțiile din Luxeuil, începând cu Abația centrală și fascinantul Tour des échevins. Petreceți amiaza relaxându-vă la băile termale, apoi vizitați Château Grammont. Mașina vă permite să vizitați cu ușurință siturile religioase periferice spre seară, încheind turul cu ambele biserici ale Sfintei Treimi.",
         "en": "Drive effortlessly between Luxeuil's top sights, starting with the central Abbey and the fascinating Tour des échevins. Spend midday relaxing in the thermal baths, then easily hop to the Château Grammont and local pottery workshop. Your car makes it simple to visit the outer religious sites in the late afternoon, concluding with both Holy Trinity churches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem regnerischen Morgen zur Abtei, halten Sie einen Regenschirm bereit. Der Mittag ist ideal, um das trockene Museum und die Thermalbäder zu erkunden. Fahren Sie nachmittags sicher im Regen zu den Kapellen. Die abendliche Rückfahrt ist komfortabel.",
+            "hu": "Vezessen az ősi apátsághoz egy esős reggelen, tartson kéznél esernyőt a rövid sétákhoz. A dél tökéletes a száraz múzeum felfedezésére és a termálfürdőre. Vezessen óvatosan a kastélyhoz és a kápolnákhoz a délutáni esőben. Az esti visszaút kényelmes és védett.",
+            "ro": "Conduceți spre vechea abație într-o dimineață ploioasă, ținând o umbrelă la îndemână. Prânzul este perfect pentru muzeul uscat și băile termale. Conduceți în siguranță spre castel și capele în ploaia de după-amiază. Drumul de seară înapoi este confortabil și protejat.",
+            "en": "Drive to the ancient abbey on a rainy morning, keeping an umbrella handy for short walks. Midday is perfect for exploring the dry museum and soaking in the thermal baths. Drive safely to the castle and chapels in the afternoon rain. The evening drive back is comfortable and sheltered."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Colomban Abbey",
+                "hu": "Saint-Colomban Abbey",
+                "ro": "Saint-Colomban Abbey",
+                "en": "Saint-Colomban Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur aus dem Schutz des Kirchenschiffs; halten Sie Ihren Regenschirm für den Weg zum Eingang bereit.",
+                "hu": "Csodálja meg az építészetet a főhajó menedékéből; tartsa kéznél esernyőjét a bejáratig tartó rövid sétához az esőben.",
+                "ro": "Admirați arhitectura impresionantă din adăpostul naosului său; țineți umbrela la îndemână pentru scurta plimbare până la intrare.",
+                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Tour des échevins",
+                "hu": "Musée de la Tour des échevins",
+                "ro": "Musée de la Tour des échevins",
+                "en": "Musée de la Tour des échevins"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort mit lokaler Geschichte. Legen Sie nasse Sachen am Eingang ab und genießen Sie die trockenen Ausstellungen.",
+                "hu": "Tökéletes beltéri menedék a helyi történelemmel; tegye le vizes holmiját a bejáratnál, és élvezze a száraz, lenyűgöző kiállításokat.",
+                "ro": "Un refugiu perfect ce prezintă istoria locală; lăsați echipamentul ud la intrare și bucurați-vă de exponatele uscate și fascinante.",
+                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxeuil-les-Bains Thermal Baths",
+                "hu": "Luxeuil-les-Bains Thermal Baths",
+                "ro": "Luxeuil-les-Bains Thermal Baths",
+                "en": "Luxeuil-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Es gibt an einem Regentag nichts Besseres, als in die dampfenden Mineralwässer einzutauchen und dem Regen zuzuhören.",
+                "hu": "Esős napokon nincs is jobb, mint elmerülni a gőzölgő ásványvízben, miközben hallgatja, ahogy az eső dobol a tetőn.",
+                "ro": "Nu este nimic mai bun într-o zi ploioasă decât să te scufunzi în apele minerale aburinde ascultând ploaia afară.",
+                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside."
+              }
+            },
+            {
+              "name": {
+                "de": "EHPAD Château Grammont",
+                "hu": "EHPAD Château Grammont",
+                "ro": "EHPAD Château Grammont",
+                "en": "EHPAD Château Grammont"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Schlossfassade unter Ihrem Regenschirm; die Wege können schlammig sein, wasserdichtes Schuhwerk wird empfohlen.",
+                "hu": "Csodálja meg a kastély homlokzatát esernyője alól; az ösvények sarasak lehetnek, ezért strapabíró, vízálló lábbeli viselése ajánlott.",
+                "ro": "Priviți fațada castelului de sub umbrelă; aleile pot deveni noroioase, așa că se recomandă încălțăminte impermeabilă și rezistentă.",
+                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier de potiers du Chatigny",
+                "hu": "Atelier de potiers du Chatigny",
+                "ro": "Atelier de potiers du Chatigny",
+                "en": "Atelier de potiers du Chatigny"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Töpferscheibe in dieser trockenen Werkstatt, ein wunderbarer Rückzugsort, wenn das Wetter draußen ungemütlich ist.",
+                "hu": "Nézze meg a fazekaskorong forgását ebben a hangulatos műhelyben, amely csodálatos beltéri menedék, ha kint zordra fordul az idő.",
+                "ro": "Urmăriți roata olarului în acest atelier uscat și confortabil, fiind o evadare minunată în interior când vremea este urâtă.",
+                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Messier",
+                "hu": "Chapelle du Messier",
+                "ro": "Chapelle du Messier",
+                "en": "Chapelle du Messier"
+              },
+              "tip_5lang": {
+                "de": "Diese Kapelle bietet ein kurzes Heiligtum. Achten Sie beim Abstellen Ihres Fahrrads auf rutschige Stufen am Eingang.",
+                "hu": "Ez a furcsa kápolna rövid menedéket nyújt; vigyázzon a bejárathoz vezető csúszós lépcsőkkel a kerékpár parkolásakor.",
+                "ro": "Această capelă oferă un scurt sanctuar; atenție la treptele alunecoase de la intrare când parcați bicicleta.",
+                "en": "This quaint chapel offers a brief sanctuary; beware of slippery steps leading to the entrance when parking your bike or walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Trinité",
+                "hu": "Église Sainte-Trinité",
+                "ro": "Église Sainte-Trinité",
+                "en": "Église Sainte-Trinité"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Regen zu entkommen und das Innere zu bewundern. Das umliegende Steinpflaster kann bei Nässe rutschig sein.",
+                "hu": "Lépjen be, hogy megcsodálja a gyönyörű belső teret, miközben menekül az eső elől; a környező kőburkolat nedvesen elég csúszós lehet.",
+                "ro": "Intrați pentru a admira interioarele frumoase în timp ce scăpați de ploaie; pavajul de piatră din jur poate fi alunecos când e ud.",
+                "en": "Step inside to admire the beautiful interiors while escaping the rain; the surrounding stone pavement can be quite slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Sainte-Trinité",
+                "hu": "Église de la Sainte-Trinité",
+                "ro": "Église de la Sainte-Trinité",
+                "en": "Église de la Sainte-Trinité"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um dem Regenguss zu entgehen. Die Buntglasfenster wirken vor dem grauen Himmel wunderbar stimmungsvoll.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a felhőszakadást; az ólomüveg csodálatosan hangulatos a szürke esős éggel szemben.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; vitraliile complexe arată minunat pe fundalul cerului cenușiu și ploios.",
+                "en": "Park close to the entrance to avoid the downpour; the intricate stained glass looks wonderfully moody against the gray, rainy skies."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen mit einer Fahrt zur Abtei und genießen Sie die Heizung. Mittags laden das warme Museum und die dampfenden Thermalbäder ein. Die Fahrt zwischen Schloss und Kirchen ist gemütlich. Um 17:00 Uhr wird Ihre Fahrt durch die Dämmerung wunderschön.",
+            "hu": "Kezdje a téli reggelt az apátsághoz hajtva, élvezve az autó fűtését. A dél a meleg múzeumba és a gőzölgő termálfürdőbe csábít. A délutáni autózás a kastély és a templomok között hangulatos. 17:00 órára a korai szürkület gyönyörű esti autózássá változtatja az utat.",
+            "ro": "Începeți dimineața de iarnă conducând spre abație, bucurându-vă de căldura mașinii. Prânzul vă invită în muzeul cald și în băile termale aburinde. Plimbarea cu mașina printre biserici este confortabilă. Pe la 17:00, amurgul transformă călătoria într-o seară frumoasă.",
+            "en": "Start your winter morning driving to the abbey, enjoying the car's heater. Midday invites you into the warm museum and the steaming thermal baths. The afternoon drive between the castle and multiple churches is cozy. By 17:00, early twilight turns your journey into a beautiful evening drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Colomban Abbey",
+                "hu": "Saint-Colomban Abbey",
+                "ro": "Saint-Colomban Abbey",
+                "en": "Saint-Colomban Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinwände können eiskalt sein. Tragen Sie eine zusätzliche Schicht, während Sie die historischen Ruinen in der Winterluft erkunden.",
+                "hu": "A masszív kőfalak jéghidegek lehetnek, így viseljen extra réteget, miközben felfedezi a történelmi romokat a csípős téli levegőben.",
+                "ro": "Zidurile de piatră pot fi înghețate, purtați un strat în plus explorând ruinele istorice în aerul rece de iarnă.",
+                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Tour des échevins",
+                "hu": "Musée de la Tour des échevins",
+                "ro": "Musée de la Tour des échevins",
+                "en": "Musée de la Tour des échevins"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte in diesem historischen Turm. Das Museum bietet ein gemütliches Eintauchen in die Vergangenheit.",
+                "hu": "Meneküljön a téli hideg elől ebbe a lenyűgöző történelmi toronyba; a múzeum hangulatos elmerülést kínál a régió múltjában.",
+                "ro": "Scăpați de frigul iernii în acest turn istoric fascinant; muzeul oferă o incursiune confortabilă în trecutul bogat al regiunii.",
+                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxeuil-les-Bains Thermal Baths",
+                "hu": "Luxeuil-les-Bains Thermal Baths",
+                "ro": "Luxeuil-les-Bains Thermal Baths",
+                "en": "Luxeuil-les-Bains Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Knochen in den heißen Quellen auf, ein perfekter und entspannender Kontrast zu den eisigen Wintertemperaturen draußen.",
+                "hu": "Melegítse fel csontjait a híres hőforrásokban, amely tökéletes és pihentető kontrasztot nyújt a kinti fagyos téli hőmérséklettel szemben.",
+                "ro": "Încălziți-vă oasele în renumitele izvoare termale, oferind un contrast perfect și relaxant cu temperaturile scăzute de iarnă de afară.",
+                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "EHPAD Château Grammont",
+                "hu": "EHPAD Château Grammont",
+                "ro": "EHPAD Château Grammont",
+                "en": "EHPAD Château Grammont"
+              },
+              "tip_5lang": {
+                "de": "Die Schlossanlage ist atemberaubend unter Frost; kleiden Sie sich warm, da der offene Innenhof die kalten Winterwinde einfängt.",
+                "hu": "A történelmi kastély kertje lenyűgöző a fagyban; öltözzön melegen, mivel a nyitott udvar felfogja a hideg, metsző téli szeleket.",
+                "ro": "Terenurile castelului sunt uimitoare sub îngheț; îmbrăcați-vă gros, deoarece curtea deschisă prinde vânturile reci de iarnă.",
+                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier de potiers du Chatigny",
+                "hu": "Atelier de potiers du Chatigny",
+                "ro": "Atelier de potiers du Chatigny",
+                "en": "Atelier de potiers du Chatigny"
+              },
+              "tip_5lang": {
+                "de": "Die laufenden Öfen sorgen in diesem Laden für eine angenehme Wärme; ein toller Halt, um sich am Winternachmittag aufzuwärmen.",
+                "hu": "A működő kemencék kellemes meleget árasztanak ebben a bájos boltban; nagyszerű megálló a téli délutáni felmelegedéshez.",
+                "ro": "Cuptoarele de lucru oferă o căldură plăcută în acest magazin fermecător; o oprire excelentă pentru a vă încălzi după-amiaza.",
+                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Messier",
+                "hu": "Chapelle du Messier",
+                "ro": "Chapelle du Messier",
+                "en": "Chapelle du Messier"
+              },
+              "tip_5lang": {
+                "de": "In der kleinen Kapelle wird es früh dunkel. Besuchen Sie sie bei Tageslicht, bevor um 17:00 Uhr der Sonnenuntergang beginnt.",
+                "hu": "A kis kápolnában korán sötétedik; mindenképpen látogassa meg, amíg még van nappali fény a 17:00 órás téli naplemente előtt.",
+                "ro": "Capela se întunecă devreme; vizitați cât încă mai este lumină de zi, înainte să înceapă apusul de iarnă la ora 17:00.",
+                "en": "The small chapel gets dark early; make sure to visit while there is still daylight before the 17:00 winter sunset begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Trinité",
+                "hu": "Église Sainte-Trinité",
+                "ro": "Église Sainte-Trinité",
+                "en": "Église Sainte-Trinité"
+              },
+              "tip_5lang": {
+                "de": "Die feierliche Atmosphäre wird durch die Winterstille verstärkt. Ziehen Sie sich warm an, da das alte Steininnere kaum beheizt wird.",
+                "hu": "Az ünnepélyes hangulatot felerősíti a téli csend; öltözzön be jól, mivel az ősi kőbelső nincs erősen fűtve.",
+                "ro": "Atmosfera solemnă e amplificată de tăcerea iernii; îmbrăcați-vă gros, interiorul antic din piatră nefiind foarte încălzit.",
+                "en": "The solemn atmosphere is amplified by the winter silence; bundle up as the ancient stone interior isn't heavily heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Sainte-Trinité",
+                "hu": "Église de la Sainte-Trinité",
+                "ro": "Église de la Sainte-Trinité",
+                "en": "Église de la Sainte-Trinité"
+              },
+              "tip_5lang": {
+                "de": "Wenn Sie diese letzte Kirche mit dem Auto erreichen, bleiben Sie warm. Bewundern Sie die Architektur vor dem Einbruch der Dunkelheit um 17:00.",
+                "hu": "Kényelmesen, az autóban melegedve érheti el ezt az utolsó templomot; csodálja meg az építészetet a 17:00 órás sötétedés előtt.",
+                "ro": "Ajungând cu mașina vă mențineți la căldură; admirați arhitectura exterioară chiar înainte ca noaptea de iarnă să se lase la 17:00.",
+                "en": "Reaching this final church by car keeps you warm; admire the architecture from outside just before the 17:00 winter night fully sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

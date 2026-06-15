@@ -160,6 +160,196 @@
         "hu": "A nap a kikötőben található történelmi Roundhouse galériában indul. Később Sennen Cove festői, fehér homokos partjain sétálhat. Délután fedezze fel a lenyűgöző sziklákat és Maen Castle ősi romjait. Naplemente közeledtével pedig elérheti Anglia legnyugatibb pontját és a tengeri mentések hősies történetét bemutató múzeumot.",
         "ro": "Ziua începe relaxant la galeria istorică Roundhouse din port. Mai târziu, vă veți plimba pe plajele cu nisip alb din Sennen Cove. După-amiaza este dedicată explorării stâncilor impresionante și a ruinelor antice de la Maen Castle. La apus, veți ajunge în cel mai vestic punct al Angliei și la muzeul salvărilor maritime.",
         "en": "The day begins gently at the historic Roundhouse gallery by the harbor. Later, take a stroll along the pristine white sands of Sennen Cove. The afternoon is dedicated to exploring the dramatic cliffs and the ancient ruins of Maen Castle. As sunset approaches, you'll reach England's westernmost edge and the maritime rescue museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Galerie, während der Regen gegen die alten Mauern peitscht. Mittags bietet der Strandspaziergang trotz Nässe eine dramatische Kulisse mit tosender Gischt. Am Nachmittag erfordern die Klippenpfade bei Maen Castle wegen des schlammigen Bodens Vorsicht. Der Tag endet im Air Sea Rescue Museum, einem idealen Zufluchtsort vor dem unbeständigen Küstenwetter.",
+            "hu": "A reggel a galéria védett falai között indul, miközben az eső a vastag kőfalakon kopog. Délben a tengerparti séta a viharos tenger látványával kárpótol a nedvességért. Délután a sziklaösvények Maen Castle felé csúszósak lehetnek, így figyelmes lépteket igényelnek. Az este a mentőmúzeum fedett kiállításai között telik, biztonságban az atlanti szél és a szakadó eső elől.",
+            "ro": "Dimineața începe la adăpost în galerie, în timp ce ploaia bate în zidurile vechi de piatră. La prânz, plimbarea pe plajă oferă un decor dramatic cu valuri spumoase, în ciuda vremii umede. După-amiaza, potecile de pe faleză spre Maen Castle necesită prudență din cauza noroiului. Ziua se încheie la muzeul Air Sea Rescue, un refugiu ideal împotriva vântului năprasnic și a ploii de pe coastă.",
+            "en": "The morning starts sheltered inside the gallery as rain drums against the historic stone walls. At noon, the beach walk offers a dramatic backdrop of crashing waves despite the damp conditions. In the afternoon, the cliff paths toward Maen Castle require careful footing due to slippery mud. The day concludes at the Air Sea Rescue museum, a perfect sanctuary from the wild Atlantic weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Roundhouse and Capstan Gallery",
+                "hu": "The Roundhouse and Capstan Gallery",
+                "ro": "The Roundhouse and Capstan Gallery",
+                "en": "The Roundhouse and Capstan Gallery"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie lokale Kunst in diesem runden Gebäude, das perfekten Schutz vor Regenschauern bietet; prüfen Sie Ihre Regenjacke vor dem Verlassen des Hauses.",
+                "hu": "Csodálja meg a helyi művészetet ebben a kerek épületben, amely tökéletes menedék a záporok elől; indulás előtt ellenőrizze esőkabátja vízállóságát.",
+                "ro": "Admirați arta locală în această clădire circulară care oferă adăpost perfect împotriva ploii; verificați etanșeitatea pelerinei înainte de a pleca mai departe.",
+                "en": "Admire local art inside this circular building which provides perfect shelter from passing showers; check your waterproofs before heading back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sennen Cove",
+                "hu": "Sennen Cove",
+                "ro": "Sennen Cove",
+                "en": "Sennen Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die gewaltige Brandung von der Ufermauer aus, wo der salzige Nebel den Regen überlagert; tragen Sie rutschfeste Schuhe auf dem nassen Asphalt.",
+                "hu": "Figyelje a hatalmas hullámokat a partfal mellől, ahol a sós pára keveredik az esővel; viseljen csúszásmentes talpú cipőt a vizes aszfalton a parton.",
+                "ro": "Priviți valurile uriașe de lângă zidul falezei, unde briza sărată se contopește cu ploaia; purtați încălțăminte cu talpă aderentă pe asfaltul ud.",
+                "en": "Watch the powerful surf from the sea wall where salty spray mixes with the rain; wear non-slip footwear on the wet pavement along the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Maen Castle",
+                "hu": "Maen Castle",
+                "ro": "Maen Castle",
+                "en": "Maen Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Ruinen auf den Klippen, die im Nebel besonders mystisch wirken; halten Sie wegen des Windes und Regens Abstand zur Abbruchkante.",
+                "hu": "Fedezze fel a sziklákon álló ősi romokat, amelyek ködben különösen misztikusak; az erős szél és eső miatt tartson biztonságos távolságot a szikla szélétől.",
+                "ro": "Explorați ruinele antice de pe stânci, care par mistice în ceață; din cauza vântului și a ploii, păstrați o distanță de siguranță față de marginea falezei.",
+                "en": "Explore the ancient cliffside ruins that look particularly mystical in the mist; keep a safe distance from the edge due to high winds and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "First and Last House",
+                "hu": "First and Last House",
+                "ro": "First and Last House",
+                "en": "First and Last House"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses ikonische weiße Haus, das dem Wetter seit Jahrhunderten trotzt; nutzen Sie den überdachten Eingangsbereich für einen kurzen Kleidercheck.",
+                "hu": "Látogasson el ehhez az ikonikus fehér házhoz, amely évszázadok óta dacol az idővel; használja a fedett bejáratot egy gyors ruházatellenőrzésre.",
+                "ro": "Vizitați această casă albă iconică ce înfruntă vremea de secole; folosiți zona de intrare acoperită pentru o scurtă verificare a echipamentului.",
+                "en": "Visit this iconic white house that has braved the weather for centuries; use the sheltered doorway for a quick adjustment of your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Land's End",
+                "hu": "Land's End",
+                "ro": "Land's End",
+                "en": "Land's End"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Ende Englands bei stürmischem Wetter im Besucherzentrum; die dramatischen Wolkenformationen über dem Meer sind ein großartiges Fotomotiv.",
+                "hu": "Tapasztalja meg Anglia végét viharos időben a látogatóközpont védelmében; a tenger feletti drámai felhők látványa kiváló fotótémát kínál az esőben.",
+                "ro": "Experimentați capătul Angliei pe vreme furtunoasă din centrul de vizitare; formațiunile dramatice de nori de deasupra mării sunt perfecte pentru poze.",
+                "en": "Experience the end of England in stormy weather from the visitor center; the dramatic cloud formations over the ocean make for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Sea Rescue",
+                "hu": "Air Sea Rescue",
+                "ro": "Air Sea Rescue",
+                "en": "Air Sea Rescue"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Geschichte der Seenotrettung ein, während draußen der Regen fällt; es ist der ideale Ort, um sich nach der Wanderung aufzuwärmen.",
+                "hu": "Merüljön el a tengeri mentés történetében, miközben odakint esik az eső; ez a helyszín tökéletes a felmelegedésre és a száradásra a túra után.",
+                "ro": "Descoperiți istoria salvării maritime în timp ce afară plouă; este locația ideală pentru a vă încălzi și usca după drumeția pe faleză.",
+                "en": "Dive into the history of sea rescue while the rain falls outside; this indoor museum is the ideal spot to warm up and dry off after your walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Küste ist frisch und klar, ideal für einen Besuch in der Roundhouse Gallery. Mittags glitzert der Frost am Strand von Sennen Cove unter der tiefstehenden Sonne. Am Nachmittag führt der Weg zu den Klippen, wo der eisige Wind den Blick auf das raue Meer schärft. Da die Sonne gegen 17:00 Uhr untergeht, bieten die Museen am späten Nachmittag einen warmen Abschluss des Tages.",
+            "hu": "A téli reggel friss és tiszta a parton, ideális a Roundhouse galéria felfedezéséhez. Délben a dér csillog a Sennen Cove homokján az alacsonyan járó nap fényében. Délután a sziklák mentén az északi szél élesíti ki a kilátást a haragos tengerre. Mivel a nap 17:00 körül lenyugszik, a múzeumok belső terei nyújtanak meleg menedéket a sötétedő kora estére.",
+            "ro": "Dimineața de iarnă este rece și senină, perfectă pentru o vizită la galeria Roundhouse. La prânz, chiciura strălucește pe nisipul din Sennen Cove sub soarele palid. După-amiaza, drumul spre stânci oferă o perspectivă clară asupra mării agitate în vântul tăios. Deoarece soarele apune în jur de ora 17:00, muzeele oferă un final călduros zilei în prag de seară.",
+            "en": "The winter morning is crisp and clear, ideal for exploring the Roundhouse Gallery. At noon, frost glistens on Sennen Cove's sand under the low winter sun. In the afternoon, the cliff path offers sharp views of the angry sea in the biting wind. Since the sun sets around 17:00, the indoor museums provide a warm conclusion to the day as darkness falls early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Roundhouse and Capstan Gallery",
+                "hu": "The Roundhouse and Capstan Gallery",
+                "ro": "The Roundhouse and Capstan Gallery",
+                "en": "The Roundhouse and Capstan Gallery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in diesem historischen Gebäude; die dicken Steinmauern halten die winterliche Kälte draußen wunderbar ab.",
+                "hu": "Élvezze a történelmi épület meghitt hangulatát; a vastag kőfalak kiválóan kizárják a téli hideget, miközben a helyi alkotásokat nézi.",
+                "ro": "Bucurați-vă de atmosfera primitoare din această clădire istorică; zidurile groase de piatră izolează perfect frigul iernii de afară.",
+                "en": "Enjoy the cozy atmosphere inside this historic building; the thick stone walls do a great job of keeping the winter chill at bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Sennen Cove",
+                "hu": "Sennen Cove",
+                "ro": "Sennen Cove",
+                "en": "Sennen Cove"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am einsamen Winterstrand und beobachten Sie die kräftigen Wellen; tragen Sie Schichten, da der Wind hier besonders kalt wehen kann.",
+                "hu": "Sétáljon az elhagyatott téli parton és figyelje az erős hullámzást; öltözzön rétegesen, mert a tenger felől érkező szél metszően hideg lehet.",
+                "ro": "Plimbați-vă pe plaja pustie de iarnă și admirați valurile puternice; îmbrăcați-vă în straturi, deoarece vântul poate fi extrem de tăios.",
+                "en": "Walk along the deserted winter beach and watch the powerful swells; wear multiple layers as the wind off the sea can be biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Maen Castle",
+                "hu": "Maen Castle",
+                "ro": "Maen Castle",
+                "en": "Maen Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Eisenzeit-Festung bei klarer Wintersicht; halten Sie sich in Bewegung, um warm zu bleiben, und achten Sie auf gefrorene Pfade.",
+                "hu": "Látogassa meg a vaskori erődöt a tiszta téli kilátás mellett; maradjon mozgásban a testhő megőrzéséhez és ügyeljen a fagyott ösvényekre.",
+                "ro": "Vizitați fortăreața din epoca fierului profitând de vizibilitatea clară; rămâneți în mișcare pentru a vă încălzi și atenție la potecile înghețate.",
+                "en": "Visit the Iron Age fort during clear winter visibility; keep moving to stay warm and watch out for icy patches on the exposed cliff paths."
+              }
+            },
+            {
+              "name": {
+                "de": "First and Last House",
+                "hu": "First and Last House",
+                "ro": "First and Last House",
+                "en": "First and Last House"
+              },
+              "tip_5lang": {
+                "de": "Dieses berühmte Haus wirkt in der kargen Winterlandschaft besonders markant; machen Sie Ihr Foto schnell, bevor die Kälte die Hände steif macht.",
+                "hu": "Ez a híres ház különösen markáns a kopár téli tájban; készítse el gyorsan a fotót, mielőtt a hideg szél elzsibbasztaná az ujjait.",
+                "ro": "Această casă celebră pare și mai impunătoare în peisajul auster de iarnă; faceți poza rapid înainte ca mâinile să vă înghețe de la vânt.",
+                "en": "This famous house looks particularly striking in the stark winter landscape; take your photo quickly before the cold wind numbs your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Land's End",
+                "hu": "Land's End",
+                "ro": "Land's End",
+                "en": "Land's End"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den dramatischen Sonnenuntergang über dem Atlantik gegen 17:00 Uhr; bringen Sie eine Thermoskanne mit einem warmen Getränk für die Klippen mit.",
+                "hu": "Csodálja meg a drámai atlanti naplementét 17:00 körül; vigyen magával termoszban meleg italt a sziklaperemen való várakozáshoz.",
+                "ro": "Admirați apusul dramatic peste Atlantic în jurul orei 17:00; aduceți un termos cu băutură caldă pentru momentul petrecut pe faleză.",
+                "en": "Witness the dramatic Atlantic sunset around 17:00; bring a thermos with a hot drink to enjoy while taking in the views from the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Sea Rescue",
+                "hu": "Air Sea Rescue",
+                "ro": "Air Sea Rescue",
+                "en": "Air Sea Rescue"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf und lernen Sie heldenhafte Geschichten kennen; der Besuch ist ideal, wenn es draußen früh dunkel wird.",
+                "hu": "Melegedjen fel a kiállítótermekben, miközben hősies történeteket ismer meg; ideális program, amikor odakint már korán sötétedni kezd.",
+                "ro": "Încălziți-vă în sălile de expoziție în timp ce aflați povești eroice; vizita este ideală când afară începe să se întunece devreme.",
+                "en": "Warm up in the exhibition rooms while learning about heroic rescues; it is the perfect indoor activity as the daylight begins to fade."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a napot az eldugott Gwynver Beach-en, hogy élvezze a nyugodt reggeli hangulatot. Tekerjen át Sennen Cove-ba, majd látogasson el a Capstan galériába. Délután zord ösvényeken juthat el Maen Castle-höz és a híres Első és Utolsó Házhoz. A nap egy békés látogatással zárul az idilli Greeb Farmon, a tenger közelében.",
         "ro": "Începeți la plaja retrasă Gwynver pentru o atmosferă liniștită de dimineață. Pedalați spre Sennen Cove și vizitați Galeria Capstan. După-amiaza vă poartă pe cărări stâncoase spre Maen Castle și faimoasa First and Last House. Ziua se încheie pașnic cu o vizită la idilica fermă Greeb.",
         "en": "Start at the secluded Gwynver Beach for a tranquil morning atmosphere before cycling over to Sennen Cove and the Capstan Gallery. The afternoon takes you along rugged coastal paths to Maen Castle and the iconic First and Last House. Your journey concludes peacefully with a visit to the idyllic and historic Greeb Farm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Morgen startet erfrischend nass in Richtung Gwynver. Mittags gleiten Sie vorsichtig über den glitschigen Asphalt von Sennen Cove zur Galerie. Der Nachmittag führt bergauf zu den Ruinen von Maen Castle, wobei wasserdichte Kleidung unerlässlich ist. Den Abend verbringen Sie entspannt bei Greeb Farm, wo die überdachten Bereiche Schutz vor dem anhaltenden Nieselregen bieten.",
+            "hu": "A bringás reggel frissítően vizesen indul Gwynver irányába. Délben óvatosan gurulunk a csúszós aszfalton Sennen Cove-tól a galériáig. A délutáni kaptató a Maen Castle romjaihoz vízálló ruházatot igényel a folyamatos esőben. Az este a Greeb Farmnál ér véget, ahol a fedett részek menedéket nyújtanak a szemerkélő eső és a sár elől.",
+            "ro": "Dimineața pe bicicletă începe răcoros și umed spre Gwynver. La prânz, rulați cu atenție pe asfaltul alunecos din Sennen Cove spre galerie. Urcarea de după-amiază spre Maen Castle necesită echipament impermeabil din cauza ploii constante. Seara se încheie relaxat la Greeb Farm, unde zonele acoperite oferă protecție împotriva burniței persistente.",
+            "en": "The cycling morning starts refreshingly wet towards Gwynver. At noon, glide carefully over the slippery pavement from Sennen Cove to the gallery. The afternoon climb to Maen Castle's ruins requires full waterproof gear in the steady rain. The evening concludes at Greeb Farm, where sheltered areas provide a dry escape from the persistent coastal drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gwynver Beach",
+                "hu": "Gwynver Beach",
+                "ro": "Gwynver Beach",
+                "en": "Gwynver Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verregneten Strand von oben; achten Sie auf den steilen und bei Nässe sehr rutschigen Zufahrtsweg für Fahrräder.",
+                "hu": "Élvezze az esős part látványát felülről; legyen nagyon óvatos a lejtős és vizesen rendkívül csúszós bekötőúton a kerékpárral.",
+                "ro": "Admirați vederea spre plaja ploioasă de sus; fiți foarte atenți pe drumul de acces în pantă, care devine extrem de alunecos când este ud.",
+                "en": "Enjoy the view of the rainy beach from above; be very cautious on the steep access road which becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sennen Cove",
+                "hu": "Sennen Cove",
+                "ro": "Sennen Cove",
+                "en": "Sennen Cove"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Ort, da sich Pfützen bilden können; parken Sie Ihr Rad unter einem Vordach, um den Sattel trocken zu halten.",
+                "hu": "Haladjon lassan a faluban a kialakuló tócsák miatt; parkolja a bringát egy előtető alá, hogy az ülése száraz maradjon a pihenő alatt.",
+                "ro": "Mergeți încet prin sat din cauza bălților care se formează; parcați bicicleta sub un acoperiș pentru a păstra șaua uscată în timpul pauzei.",
+                "en": "Ride slowly through the village due to forming puddles; park your bike under an overhang to keep the saddle dry while you take a break."
+              }
+            },
+            {
+              "name": {
+                "de": "The Roundhouse and Capstan Gallery",
+                "hu": "The Roundhouse and Capstan Gallery",
+                "ro": "The Roundhouse and Capstan Gallery",
+                "en": "The Roundhouse and Capstan Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich kurz aufzuwärmen und Kunst zu genießen; stellen Sie sicher, dass Ihre Bremsen bei der Nässe gut funktionieren.",
+                "hu": "Használja ki a megállót a felmelegedésre és a művészetre; ellenőrizze, hogy a fékek megfelelően fognak-e a vizes keréktárcsákon induláskor.",
+                "ro": "Folosiți oprirea pentru a vă încălzi și a vedea arta locală; asigurați-vă că frânele funcționează corect pe jantele ude la plecare.",
+                "en": "Use this stop to warm up and enjoy local art; ensure your brakes are working effectively on wet rims before descending back to the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Maen Castle",
+                "hu": "Maen Castle",
+                "ro": "Maen Castle",
+                "en": "Maen Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen zu Fuß, nachdem Sie die Räder gesichert haben; die Pfade sind schlammig, also schieben Sie das Rad im Zweifel lieber.",
+                "hu": "Fedezze fel a romokat gyalog, miután lezárta a bringákat; az utak sárosak, így kétséges helyeken inkább tolja a kerékpárt a biztonságért.",
+                "ro": "Explorați ruinele pe jos după ce ați asigurat bicicletele; potecile sunt noroioase, deci împingeți bicicleta dacă terenul pare nesigur.",
+                "en": "Explore the ruins on foot after locking your bikes; the paths are muddy, so it's safer to push your bike if the terrain becomes unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "First and Last House",
+                "hu": "First and Last House",
+                "ro": "First and Last House",
+                "en": "First and Last House"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto am westlichsten Punkt bei Regen lohnt sich; wischen Sie die Kameralinse oft ab, um klare Aufnahmen der Küste zu machen.",
+                "hu": "Egy gyors fotó a legnyugatibb ponton esőben is megéri; törölje meg gyakran a lencsét a tiszta felvételekért a párás, vizes időben.",
+                "ro": "O poză rapidă în cel mai vestic punct merită chiar și pe ploaie; ștergeți lentila camerei des pentru cadre clare în condiții de umiditate.",
+                "en": "A quick photo at the westernmost point is worth it even in rain; wipe your camera lens frequently for clear shots in the damp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Land's End",
+                "hu": "Land's End",
+                "ro": "Land's End",
+                "en": "Land's End"
+              },
+              "tip_5lang": {
+                "de": "Im Besucherzentrum finden Sie trockene Abstellmöglichkeiten und Wärme; meiden Sie bei starkem Wind mit dem Fahrrad die ungeschützten Klippenränder.",
+                "hu": "A látogatóközpontnál száraz parkolót és meleget talál; erős szélben kerülje a kerékpárral a sziklák szélén futó, nyitott szakaszokat.",
+                "ro": "La centrul de vizitare găsiți parcare uscată și căldură; în caz de vânt puternic, evitați porțiunile deschise de pe marginea stâncilor.",
+                "en": "The visitor center offers dry parking and warmth; avoid cycling on exposed cliff edges if the winds become too strong during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Greeb Farm",
+                "hu": "Greeb Farm",
+                "ro": "Greeb Farm",
+                "en": "Greeb Farm"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie bei den Tieren in den überdachten Ställen; reinigen Sie Ihre Kette nach der Fahrt, um sie vor dem korrosiven Salzwasser zu schützen.",
+                "hu": "Pihenjen az állatok közelében a fedett istállókban; a túra után tisztítsa meg a láncot, hogy megvédje a sós esővíz okozta korróziótól.",
+                "ro": "Relaxați-vă lângă animale în grajdurile acoperite; după tură, curățați lanțul bicicletei pentru a-l proteja de coroziunea apei sărate.",
+                "en": "Relax near the animals in the sheltered barns; clean your bike chain after the ride to protect it from the corrosive salty rainwater."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen begrüßt die Radfahrer auf dem Weg nach Gwynver. Mittags reflektiert die tiefstehende Sonne das Licht auf den nassen Straßen von Sennen Cove. Am Nachmittag erfordert der Aufstieg zu Maen Castle Ausdauer gegen den kalten Gegenwind. Der frühe Sonnenuntergang gegen 17:00 Uhr markiert das Ende der Tour bei Greeb Farm, wo die Stallungen eine rustikale Wärme ausstrahlen.",
+            "hu": "Deres téli reggel köszönti a bringásokat a Gwynver felé vezető úton. Délben az alacsonyan járó nap fénye megcsillan Sennen Cove nedves aszfaltján. Délután a Maen Castle-hoz vezető kaptató kitartást igényel a fagyos szembeszélben. A 17:00 körüli korai naplemente jelzi a túra végét a Greeb Farmnál, ahol az istállók rusztikus melege fogadja a látogatót.",
+            "ro": "O dimineață geroasă de iarnă întâmpină bicicliștii pe drumul spre Gwynver. La prânz, soarele palid se reflectă în asfaltul umed din Sennen Cove. După-amiaza, urcarea spre Maen Castle necesită anduranță împotriva vântului înghețat. Apusul timpuriu de la ora 17:00 marchează finalul turei la Greeb Farm, unde grajdurile oferă o căldură rustică.",
+            "en": "A frosty winter morning greets cyclists on the coastal road to Gwynver. At noon, the low sun reflects off the damp surfaces in Sennen Cove. The afternoon climb to Maen Castle demands stamina against the freezing headwind. The early sunset around 17:00 marks the end of the ride at Greeb Farm, where the farm buildings provide a welcome rustic shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gwynver Beach",
+                "hu": "Gwynver Beach",
+                "ro": "Gwynver Beach",
+                "en": "Gwynver Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das winterliche Meer ist atemberaubend; tragen Sie winddichte Handschuhe, um Ihre Finger bei der Abfahrt warm zu halten.",
+                "hu": "A kilátás a téli tengerre lélegzetelállító; viseljen szélálló kesztyűt, hogy ujjai ne gémberedjenek el a lejtős szakaszokon a hidegben.",
+                "ro": "Vederea mării iarna este spectaculoasă; purtați mănuși rezistente la vânt pentru a vă proteja mâinile de frig pe porțiunile de coborâre.",
+                "en": "The view of the winter sea is breathtaking; wear windproof gloves to keep your fingers warm during the descent towards the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Sennen Cove",
+                "hu": "Sennen Cove",
+                "ro": "Sennen Cove",
+                "en": "Sennen Cove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Ort außerhalb der Saison; achten Sie auf glatte Stellen im Schatten der Gebäude, wo der Frost länger hält.",
+                "hu": "Élvezze a falu nyugalmát a szezonon kívül; ügyeljen a jeges foltokra az épületek árnyékában, ahol a dér napközben is megmaradhat.",
+                "ro": "Bucurați-vă de liniștea satului în afara sezonului; atenție la petele de gheață din umbra clădirilor, unde bruma persistă toată ziua.",
+                "en": "Enjoy the tranquility of the village out of season; watch out for icy patches in the shadows of buildings where frost lingers longer."
+              }
+            },
+            {
+              "name": {
+                "de": "The Roundhouse and Capstan Gallery",
+                "hu": "The Roundhouse and Capstan Gallery",
+                "ro": "The Roundhouse and Capstan Gallery",
+                "en": "The Roundhouse and Capstan Gallery"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause im Inneren, um die Kälte abzuschütteln; die Galerie ist beheizt und bietet eine wunderbare Abwechslung zum Fahrtwind.",
+                "hu": "Tartson szünetet odabent, hogy lerázza magáról a hideget; a galéria fűtött és csodálatos kontrasztot nyújt a metsző menetszélhez képest.",
+                "ro": "Faceți o pauză în interior pentru a scăpa de frig; galeria este încălzită și oferă un contrast plăcut față de vântul tăios de afară.",
+                "en": "Take a break inside to shake off the cold; the gallery is heated and offers a wonderful contrast to the biting wind from your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Maen Castle",
+                "hu": "Maen Castle",
+                "ro": "Maen Castle",
+                "en": "Maen Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historische Stätte zügig zu Fuß; die exponierte Lage macht es sehr windig, also ziehen Sie eine warme Mütze unter den Helm.",
+                "hu": "Fedezze fel a történelmi helyszínt tempósan; a nyitott sziklafalon nagyon fúj a szél, érdemes vékony, meleg sapkát venni a sisak alá.",
+                "ro": "Explorați situl istoric într-un ritm alert; locația expusă este foarte vântoasă, deci purtați o căciulă subțire și caldă sub cască.",
+                "en": "Explore the historical site at a brisk pace; the exposed location is very windy, so wear a thin, warm beanie under your cycling helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "First and Last House",
+                "hu": "First and Last House",
+                "ro": "First and Last House",
+                "en": "First and Last House"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Beweisfoto am westlichsten Punkt; die tiefstehende Sonne sorgt für lange Schatten und eine tolle Lichtstimmung.",
+                "hu": "Álljon meg egy pillanatra a legnyugatibb ponton; az alacsonyan járó téli nap hosszú árnyékokat és különleges fényeket vet a fehér házra.",
+                "ro": "Opriți-vă scurt pentru o poză în cel mai vestic punct; soarele palid creează umbre lungi și o lumină specială pe pereții casei albe.",
+                "en": "Stop briefly for a photo at the westernmost point; the low winter sun creates long shadows and a unique light on the white building."
+              }
+            },
+            {
+              "name": {
+                "de": "Land's End",
+                "hu": "Land's End",
+                "ro": "Land's End",
+                "en": "Land's End"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Besucherzentrum auf, bevor Sie die letzte Etappe antreten; achten Sie auf die Zeit, da es ab 16:30 Uhr schnell dämmert.",
+                "hu": "Melegedjen fel a látogatóközpontban az utolsó szakasz előtt; ügyeljen az időre, mert 16:30 után már gyorsan szürkül az égbolt.",
+                "ro": "Încălziți-vă în centrul de vizitare înainte de ultima etapă; fiți atenți la timp, deoarece după ora 16:30 începe să se întunece rapid.",
+                "en": "Warm up in the visitor center before starting the final leg; keep an eye on the time as it begins to get dark quickly after 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Greeb Farm",
+                "hu": "Greeb Farm",
+                "ro": "Greeb Farm",
+                "en": "Greeb Farm"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch bei den Tieren ist ein gemütlicher Ausklang; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
+                "hu": "Az állatok látogatása hangulatos lezárása a napnak; győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a hazaútra a sötétben.",
+                "ro": "Vizitarea animalelor este o încheiere plăcută a zilei; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere.",
+                "en": "Visiting the animals is a cozy way to end the day; make sure your bike lights are working perfectly for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A festői autózás a 199-es kilátópontnál kezdődik, majd a történelmi Szent Sennen-templom nyugalmával folytatódik. Délben tekintse meg a tengerészeti művészetet a Roundhouse-ban. Délután látogasson el a Maen Castle és a Land's End látványos szikláihoz. A kirándulás a helyi történelem megismerésével zárul a múzeumban és a Greeb Farmon.",
         "ro": "Excursia panoramică începe la punctul de observație 199, urmat de liniștea bisericii istorice St Sennen. La prânz, vizitați arta maritimă de la Roundhouse. După-amiaza conduceți spre stâncile spectaculoase de la Maen Castle și Land's End. Turul se termină cu istoria locală la muzeu și o oprire la fermecătoarea fermă Greeb.",
         "en": "Your scenic drive begins at the spectacular 199 promontory, followed by the tranquility of historic St Sennen's Church. By midday, take in maritime art at the Roundhouse. The afternoon takes you down the coast to the dramatic cliffs of Maen Castle and Land's End. Conclude your tour uncovering local history at the museum and Greeb Farm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im Auto mit Kurs auf den Küstenabschnitt 199. Mittags bietet St Sennen's Church einen andächtigen und trockenen Rückzugsort. Am Nachmittag steuern Sie die Galerie und Maen Castle an, wobei Sie die kurzen Wege zwischen Parkplatz und Sehenswürdigkeit schätzen werden. Der Abend endet bei Greeb Farm, wo Sie den Regen entspannt aus dem Fenster oder unter Unterständen beobachten können.",
+            "hu": "Az autós túra biztonságban indul a 199-es ponthoz a parti úton. Délben a St Sennen templom nyújt meghitt és száraz menedéket a látogatóknak. Délután a galéria és Maen Castle felé vesszük az irányt, élvezve a parkolók és a látnivalók közötti rövid távolságot. Az este a Greeb Farmnál zárul, ahol az esőt az autóból vagy a fedett karámok mellől figyelhetjük.",
+            "ro": "Turul auto începe în siguranță spre punctul 199 de pe drumul de coastă. La prânz, biserica St Sennen oferă un refugiu liniștit și uscat. După-amiaza vă îndreptați spre galerie și Maen Castle, profitând de distanța scurtă dintre parcare și obiective. Seara se încheie la Greeb Farm, unde puteți privi ploaia din mașină sau de lângă adăposturile acoperite.",
+            "en": "The drive starts safely towards point 199 along the coastal road. At noon, St Sennen's Church offers a peaceful and dry sanctuary for visitors. In the afternoon, head to the gallery and Maen Castle, appreciating the short distances between car parks and sights. The evening concludes at Greeb Farm, where you can watch the rain from your car or the sheltered farm areas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "199",
+                "hu": "199",
+                "ro": "199",
+                "en": "199"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto, wenn der Regen zu stark wird; parken Sie so, dass die Frontscheibe nicht beschlägt.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha az eső túl erőssé válik; parkoljon úgy, hogy a szélvédő ne párásodjon be a kilátás előtt.",
+                "ro": "Admirați panorama direct din mașină dacă ploaia devine prea puternică; parcați astfel încât parbrizul să nu se aburească în timpul staționării.",
+                "en": "Enjoy the panoramic view directly from your car if the rain gets too heavy; park so that the windshield doesn't fog up while you watch."
+              }
+            },
+            {
+              "name": {
+                "de": "St Sennen's Church",
+                "hu": "St Sennen's Church",
+                "ro": "St Sennen's Church",
+                "en": "St Sennen's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere dieser alten Kirche für einen Moment der Stille; lassen Sie nasse Regenschirme im Vorbau, um den Boden trocken zu halten.",
+                "hu": "Látogassa meg az ősi templom belső terét egy csendes percre; hagyja a vizes esernyőket az előtérben, hogy a benti padló száraz maradjon.",
+                "ro": "Vizitați interiorul acestei biserici vechi pentru un moment de liniște; lăsați umbrelele ude în pridvor pentru a menține podeaua uscată.",
+                "en": "Visit the interior of this ancient church for a quiet moment; leave wet umbrellas in the porch to keep the historic floor dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "The Roundhouse and Capstan Gallery",
+                "hu": "The Roundhouse and Capstan Gallery",
+                "ro": "The Roundhouse and Capstan Gallery",
+                "en": "The Roundhouse and Capstan Gallery"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen und schlüpfen Sie schnell in die Galerie; das runde Gebäude ist ein toller Ort, um den Regen draußen zu vergessen.",
+                "hu": "Parkoljon a kikötőben és szaladjon be a galériába; a kerek épület kiváló helyszín arra, hogy elfelejtse a kinti barátságtalan időt.",
+                "ro": "Parcați în port și intrați rapid în galerie; clădirea circulară este un loc excelent pentru a uita de vremea urâtă de afară.",
+                "en": "Park at the harbor and dash into the gallery; the circular building is a great place to forget about the unpleasant weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Maen Castle",
+                "hu": "Maen Castle",
+                "ro": "Maen Castle",
+                "en": "Maen Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen kurzen Abstecher zu den Ruinen; bei starkem Regen bietet das Auto eine gute Basis für den Kleidungswechsel.",
+                "hu": "Használja a közeli parkolót a romok rövid megtekintéséhez; szakadó esőben az autó jó bázis a vizes ruházat gyors lecseréléséhez.",
+                "ro": "Folosiți parcarea din apropiere pentru o vizită scurtă la ruine; în caz de ploaie torențială, mașina este baza ideală pentru schimbat hainele.",
+                "en": "Use the nearby parking lot for a quick visit to the ruins; in heavy rain, the car serves as a good base for changing out of wet gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Land's End",
+                "hu": "Land's End",
+                "ro": "Land's End",
+                "en": "Land's End"
+              },
+              "tip_5lang": {
+                "de": "Das große Besucherzentrum ist perfekt für Regentage geeignet; alle Hauptattraktionen sind über kurze, befestigte Wege schnell erreichbar.",
+                "hu": "A nagy látogatóközpont tökéletes választás esős napokon; minden főbb látnivaló elérhető rövid, szilárd burkolatú utakon keresztül.",
+                "ro": "Centrul mare de vizitare este perfect pentru zilele ploioase; toate atracțiile principale sunt accesibile prin alei scurte și pavate.",
+                "en": "The large visitor center is perfect for rainy days; all main attractions are reachable via short, paved paths from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Sea Rescue",
+                "hu": "Air Sea Rescue",
+                "ro": "Air Sea Rescue",
+                "en": "Air Sea Rescue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museum und genießen Sie die maritime Ausstellung; es ist der ideale Ort, um die Zeit bis zum Ende des Regenschauers zu überbrücken.",
+                "hu": "Parkoljon közvetlenül a múzeumnál és élvezze a tengeri kiállítást; ideális hely az időtöltésre, amíg elvonul az aktuális esőfelhő.",
+                "ro": "Parcați chiar lângă muzeu și bucurați-vă de expoziția maritimă; este locul ideal pentru a aștepta până trece următoarea rafală de ploaie.",
+                "en": "Park right by the museum and enjoy the maritime exhibits; it's the ideal spot to spend time until the current rain shower passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Greeb Farm",
+                "hu": "Greeb Farm",
+                "ro": "Greeb Farm",
+                "en": "Greeb Farm"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Tiere in den Ställen, die auch bei Regen gut zugänglich sind; nutzen Sie die Sitzheizung auf der Rückfahrt zum Aufwärmen.",
+                "hu": "Látogassa meg az állatokat az istállókban, amelyek esőben is jól megközelíthetők; használja az ülésfűtést a hazaúton a teljes felmelegedéshez.",
+                "ro": "Vizitați animalele în grajduri, care sunt accesibile și pe ploaie; folosiți încălzirea în scaune la întoarcere pentru a vă încălzi complet.",
+                "en": "Visit the animals in the barns, which are accessible even in rain; use your car's seat heating on the way back to warm up completely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt am Wintermorgen beginnt in einem vorgewärmten Auto mit Blick auf die gefrorene Küste bei 199. Mittags bietet die St Sennen Kirche eine andächtige Stille und Schutz vor dem schneidenden Wind. Am Nachmittag steuern Sie die kulturellen Highlights an, wobei Sie die kurzen Wege in der Kälte schätzen. Da es gegen 17:00 Uhr dunkel wird, bietet Greeb Farm einen gemütlichen Abschluss, bevor die frostige Heimreise beginnt.",
+            "hu": "A téli reggeli autózás a fűtött utastérben kezdődik, kilátással a 199-es pont fagyos partjára. Délben a St Sennen templom áhítatos csendet és menedéket nyújt a metsző szél ellen. Délután a kulturális helyszíneket látogatjuk meg, élvezve a hidegben a rövid sétákat az autóig. Mivel 17:00 körül sötétedik, a Greeb Farm nyújt hangulatos zárást a fagyos hazautazás előtt.",
+            "ro": "Călătoria de iarnă începe în confortul mașinii încălzite spre coasta înghețată la punctul 199. La prânz, biserica St Sennen oferă liniște și adăpost împotriva vântului tăios. După-amiaza vizitați punctele culturale, profitând de drumurile scurte prin frig până la mașină. Deoarece se întunecă în jur de ora 17:00, Greeb Farm oferă o încheiere plăcută înainte de drumul spre casă.",
+            "en": "The winter drive starts in a pre-heated car with views of the frozen coast at point 199. At noon, St Sennen's Church provides a peaceful silence and shelter from the biting wind. In the afternoon, visit the cultural highlights, appreciating the short walks in the cold back to the car. As darkness falls around 17:00, Greeb Farm offers a cozy end to the day before the frosty drive home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "199",
+                "hu": "199",
+                "ro": "199",
+                "en": "199"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das raue Wintermeer bequem durch das Autofenster; achten Sie auf glatte Straßenabschnitte auf den schattigen Küstenstraßen.",
+                "hu": "Csodálja meg a haragos téli tengert kényelmesen az autó ablakából; ügyeljen a jeges útszakaszokra az árnyékos parti kanyarokban.",
+                "ro": "Admirați marea agitată de iarnă confortabil prin geamul mașinii; atenție la porțiunile de drum înghețate în curbele umbrite de pe coastă.",
+                "en": "Admire the angry winter sea comfortably through the car window; watch out for icy road patches in the shaded coastal bends."
+              }
+            },
+            {
+              "name": {
+                "de": "St Sennen's Church",
+                "hu": "St Sennen's Church",
+                "ro": "St Sennen's Church",
+                "en": "St Sennen's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre abseits der Winterkälte; ziehen Sie Ihre Handschuhe erst im Auto wieder aus, um die Wärme zu speichern.",
+                "hu": "A templom békés hangulatot áraszt a téli hidegben; csak az autóba visszaérve vegye le a kesztyűit, hogy megőrizze ujjai melegét.",
+                "ro": "Biserica oferă o atmosferă pașnică departe de frigul iernii; scoateți-vă mănușile abia după ce ați urcat înapoi în mașina încălzită.",
+                "en": "The church offers a peaceful atmosphere away from the winter cold; keep your gloves on until you return to the warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "The Roundhouse and Capstan Gallery",
+                "hu": "The Roundhouse and Capstan Gallery",
+                "ro": "The Roundhouse and Capstan Gallery",
+                "en": "The Roundhouse and Capstan Gallery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Beleuchtung und die Kunst im Inneren; parken Sie so nah wie möglich, um die Zeit im kalten Wind zu minimieren.",
+                "hu": "Élvezze a meleg világítást és a benti művészetet; parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja a hideg szélben töltött időt.",
+                "ro": "Bucurați-vă de lumina caldă și de arta din interior; parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în vântul rece.",
+                "en": "Enjoy the warm lighting and the art inside the gallery; park as close as possible to minimize your exposure to the freezing coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Maen Castle",
+                "hu": "Maen Castle",
+                "ro": "Maen Castle",
+                "en": "Maen Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Spaziergang zu den Ruinen belebt den Kreislauf; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "Egy gyors séta a romokhoz élénkíti a vérkeringést a hidegben; ne járassa feleslegesen a motort a parkolóban a kilátás megcsodálása közben.",
+                "ro": "O plimbare scurtă spre ruine vă va revigora circulația; nu lăsați motorul pornit inutil în parcare în timp ce admirați peisajul.",
+                "en": "A brisk walk to the ruins will invigorate your circulation; avoid idling your engine in the parking lot while you take in the cliffside view."
+              }
+            },
+            {
+              "name": {
+                "de": "Land's End",
+                "hu": "Land's End",
+                "ro": "Land's End",
+                "en": "Land's End"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das beleuchtete Besucherzentrum vor dem Sonnenuntergang um 17:00 Uhr; die Parkplatzgebühren sind im Winter oft reduziert.",
+                "hu": "Látogassa meg a kivilágított központot a 17:00-kor esedékes naplemente előtt; a parkolási díjak télen gyakran kedvezőbbek a főszezonhoz képest.",
+                "ro": "Vizitați centrul iluminat înainte de apusul de la ora 17:00; taxele de parcare sunt adesea reduse pe timp de iarnă în afara sezonului.",
+                "en": "Visit the illuminated visitor center before the 17:00 sunset; parking fees are often reduced during the winter months out of season."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Sea Rescue",
+                "hu": "Air Sea Rescue",
+                "ro": "Air Sea Rescue",
+                "en": "Air Sea Rescue"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die warmen Ausstellungsräume ab, wenn es draußen dämmert; prüfen Sie die Frostschutzmittel Ihres Autos nach einem langen Tag.",
+                "hu": "Merüljön el a meleg kiállítótermekben, amikor odakint sötétedni kezd; ellenőrizze autója fagyálló szintjét egy hosszú, hideg nap után.",
+                "ro": "Explorați sălile calde de expoziție pe măsură ce se înserează; verificați nivelul antigelului mașinii după o zi lungă de iarnă pe coastă.",
+                "en": "Explore the warm exhibition rooms as twilight falls outside; check your car's antifreeze levels after a long day in the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Greeb Farm",
+                "hu": "Greeb Farm",
+                "ro": "Greeb Farm",
+                "en": "Greeb Farm"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere im Schutz der Scheunen vor der Heimfahrt; stellen Sie sicher, dass Ihre Scheinwerfer frei von Salz und Eis sind.",
+                "hu": "Nézze meg az állatokat a védett pajtákban a hazaindulás előtt; győződjön meg róla, hogy a fényszórók tiszták, jég- és sómentesek.",
+                "ro": "Vedeți animalele în grajdurile protejate înainte de plecare; asigurați-vă că farurile sunt curate, fără gheață sau depuneri de sare de pe drum.",
+                "en": "See the animals in the protected barns before heading home; ensure your headlights are clear of ice and road salt before starting the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

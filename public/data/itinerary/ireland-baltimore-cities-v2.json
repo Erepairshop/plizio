@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Dún na Station kőfalainál és a helyi kikötő tengeri élőlényeinek megfigyelésével.\n\nDélben a nyüzsgő baltimore-i kikötő várja, ahol beszívhatja a friss atlanti szellőt.\n\nDélután élvezze a drámai sziklákat és a Beacon Point körüli ikonikus látnivalókat.\n\nZárja a napot a történelmi Tullagh templom romjainál, elmerülve a békés esti hangulatban.",
         "ro": "Începeți dimineața la zidurile de piatră de la Dún na Station și urmăriți viața marină la docuri.\n\nAmiaza vă invită în portul vibrant Baltimore, respirând briza proaspătă a Atlanticului.\n\nDupă-amiaza, bucurați-vă de stâncile dramatice și de priveliștile iconice din jurul Beacon Point.\n\nÎncheiați ziua la ruinele istorice ale Bisericii Tullagh, absorbind atmosfera pașnică de seară.",
         "en": "Begin the morning exploring the stone walls of Dún na Station and watching marine life at the local docks.\n\nMidday invites you to the vibrant Baltimore Harbour, breathing in the fresh Atlantic breeze.\n\nIn the afternoon, enjoy the dramatic cliffs and iconic sights surrounding Beacon Point.\n\nConclude your day at the historic Tullagh Church ruins, soaking in the peaceful evening atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht Baltimore eine mystische Atmosphäre. Der Vormittag beginnt geschützt in der Burg, während der Blick auf das graue Meer schweift. Mittags suchen wir Schutz in den Gebäuden am Hafen. Am Nachmittag trotzen wir dem Wetter am Beacon Point, wo die Wellen dramatisch gegen die Felsen schlagen. Der Abend endet gemütlich in einem der warmen, trockenen Pubs im Dorfzentrum.",
+            "hu": "Az eső misztikus hangulatot kölcsönöz Baltimore-nak. A reggel a kastély védelmében indul, miközben a szürke tenger látványában gyönyörködünk. Délben a kikötő épületei között keresünk menedéket. Délután dacolunk az elemekkel a Beacon Pointnál, ahol a hullámok drámai módon csapkodják a sziklákat. Az este egy meleg, száraz pubban ér véget a falu központjában.",
+            "ro": "Ploaia oferă Baltimore-ului o atmosferă mistică. Dimineața începe la adăpostul castelului, admirând marea cenușie. La prânz căutăm refugiu în clădirile din port. După-amiaza înfruntăm intemperiile la Beacon Point, unde valurile se lovesc dramatic de stânci. Seara se încheie confortabil într-un pub cald și uscat din centrul satului, departe de umezeala de afară.",
+            "en": "The rain brings a mystical atmosphere to Baltimore. The morning starts sheltered within the castle walls, overlooking the grey Atlantic. At noon, we find cover near the harbour buildings. In the afternoon, we brave the elements at Beacon Point for a dramatic view of the crashing waves. The evening ends cozily in a warm, dry pub in the village centre, escaping the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg Dún na Station",
+                "hu": "Dún na Station kastély",
+                "ro": "Castelul Dún na Station",
+                "en": "Dún na Station castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen im Inneren der Burg, um dem Regen zu entgehen, und genießen Sie den Blick auf die Bucht von einem überdachten Fensterplatz aus.",
+                "hu": "Fedezze fel a belső kiállításokat, hogy elkerülje a záport, és élvezze az öbölre nyíló kilátást az egyik fedett ablakfülkéből, ahol szárazon maradhat.",
+                "ro": "Explorați expozițiile din interiorul castelului pentru a evita ploaia și bucurați-vă de priveliștea golfului de la o fereastră acoperită, stând la adăpost.",
+                "en": "Explore the indoor exhibitions to escape the downpour and enjoy the bay views from a sheltered window niche where you can stay dry while admiring the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Walbeobachtung Wave Chieftain",
+                "hu": "Wave Chieftain Bálnales",
+                "ro": "Observarea balenelor Wave Chieftain",
+                "en": "Wave Chieftain Whale Watching"
+              },
+              "tip_5lang": {
+                "de": "Fragen Sie nach den überdachten Bereichen auf dem Boot und tragen Sie unbedingt eine wasserfeste Regenjacke, da die Gischt bei Regen deutlich stärker sein kann.",
+                "hu": "Érdeklődjön a hajó fedett részei felől, és mindenképpen viseljen vízálló esőkabátot, mert esős időben a tengeri permet sokkal intenzívebb lehet a fedélzeten.",
+                "ro": "Întrebați despre zonele acoperite ale bărcii și purtați neapărat o jachetă impermeabilă, deoarece spray-ul marin poate fi mult mai puternic pe timp de ploaie.",
+                "en": "Inquire about the boat's sheltered areas and be sure to wear a heavy waterproof jacket, as sea spray combined with rain can be quite intense on deck."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Baltimore",
+                "hu": "Baltimore-i kikötő",
+                "ro": "Portul Baltimore",
+                "en": "Baltimore Harbour"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben im Hafen von einem der gemütlichen Cafés am Pier aus, um trocken zu bleiben und gleichzeitig das maritime Flair zu genießen.",
+                "hu": "Figyelje a kikötői nyüzsgést a móló menti hangulatos kávézók egyikéből, így szárazon maradhat, miközben élvezi a hamisítatlan tengerparti életérzést.",
+                "ro": "Observați agitația din port de la una dintre cafenelele primitoare de pe debarcader, pentru a rămâne uscat în timp ce savurați atmosfera maritimă locală.",
+                "en": "Watch the harbour activity from one of the cozy cafes along the pier to stay dry while still soaking in the authentic maritime atmosphere of West Cork."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Beacon Point",
+                "hu": "Beacon Point kilátó",
+                "ro": "Punctul de belvedere Beacon Point",
+                "en": "Beacon Point"
+              },
+              "tip_5lang": {
+                "de": "Der Weg kann bei Regen sehr rutschig sein; tragen Sie Wanderschuhe mit gutem Profil und halten Sie sich von den ungesicherten Klippenkanten fern.",
+                "hu": "Az ösvény esőben nagyon csúszós lehet; viseljen bordázott talpú túrabakancsot, és maradjon távol a meredek, védtelen sziklaszélektől a biztonsága érdekében.",
+                "ro": "Poteca poate fi foarte alunecoasă pe ploaie; purtați bocanci de trekking cu talpă aderentă și stați departe de marginile stâncoase neprotejate ale falezei.",
+                "en": "The trail can be very slippery in the rain; wear sturdy hiking boots with good grip and stay well back from the unprotected cliff edges for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Tullagh-Kirche",
+                "hu": "Tullagh templom",
+                "ro": "Biserica Tullagh",
+                "en": "Tullagh Church"
+              },
+              "tip_5lang": {
+                "de": "Die alten Ruinen bieten nur begrenzten Schutz; nutzen Sie die Zeit zwischen den Schauern für Fotos und achten Sie auf unebenen, nassen Untergrund im Kirchhof.",
+                "hu": "A romok kevés védelmet nyújtanak; használja ki a záporok közötti szüneteket a fotózáshoz, és ügyeljen a nedves, egyenetlen talajra a templomkertben.",
+                "ro": "Ruinele oferă puțin adăpost; profitați de pauzele dintre averse pentru fotografii și aveți grijă la terenul umed și denivelat din curtea vechii biserici.",
+                "en": "The ruins offer limited shelter; use the breaks between showers for photos and watch your step on the wet, uneven ground within the historic churchyard."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Baltimore ist erfrischend und ruhig. Der Morgen beginnt kühl in den historischen Mauern von Dún na Station. Mittags genießen wir die tiefstehende Sonne am Hafen. Da es gegen 17:00 Uhr dunkel wird, wandern wir früh zum Beacon Point, um das goldene Licht zu nutzen. Der Abend gehört der Wärme des Kamins in einem lokalen Gasthaus, während die Kälte draußen bleibt.",
+            "hu": "Egy tiszta téli nap Baltimore-ban frissítő és csendes. A reggel hűvösen indul a Dún na Station történelmi falai között. Délben a kikötőben élvezzük az alacsonyan járó nap fényét. Mivel 17:00 körül sötétedik, korán kisétálunk a Beacon Point-hoz az arany óra fényeiért. Az este a helyi fogadó kandallójának melegéé, miközben a kinti hideg elcsendesül.",
+            "ro": "O zi senină de iarnă în Baltimore este revigorantă și liniștită. Dimineața începe în răcoarea zidurilor istorice de la Dún na Station. La prânz ne bucurăm de soarele blând în port. Deoarece se întunecă în jur de ora 17:00, mergem devreme la Beacon Point pentru lumina aurie. Seara aparține căldurii șemineului dintr-un han local.",
+            "en": "A crisp winter day in Baltimore is refreshing and peaceful. The morning starts cool within the historic walls of Dún na Station. At noon, we enjoy the low winter sun by the harbour. As darkness falls around 5:00 PM, we head early to Beacon Point for the golden light. The evening belongs to the warmth of a fireplace in a local inn as the frost settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg Dún na Station",
+                "hu": "Dún na Station kastély",
+                "ro": "Castelul Dún na Station",
+                "en": "Dún na Station castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da die dicken Steinmauern im Winter die Kälte speichern; die Aussicht auf die winterliche Bucht ist dafür besonders klar.",
+                "hu": "Öltözzön rétegesen, mivel a vastag kőfalak télen tartják a hideget; a kilátás a téli öbölre viszont ilyenkor a legtisztább és leglátványosabb.",
+                "ro": "Purtați haine groase, deoarece zidurile de piatră rețin frigul iarna; în schimb, priveliștea asupra golfului înghețat este extrem de clară și frumoasă.",
+                "en": "Wear warm layers as the thick stone walls retain the cold in winter; however, the views of the winter bay are exceptionally clear and crisp today."
+              }
+            },
+            {
+              "name": {
+                "de": "Walbeobachtung Wave Chieftain",
+                "hu": "Wave Chieftain Bálnales",
+                "ro": "Observarea balenelor Wave Chieftain",
+                "en": "Wave Chieftain Whale Watching"
+              },
+              "tip_5lang": {
+                "de": "Die Seeluft ist im Winter eisig; bringen Sie eine Thermoskanne mit einem heißen Getränk und Handschuhe mit, um die Fahrt auf dem Wasser zu genießen.",
+                "hu": "A tengeri levegő télen jéghideg; hozzon magával termoszt forró itallal és meleg kesztyűt, hogy kényelmesen élvezhesse a hajózást a vízen.",
+                "ro": "Aerul marin este înghețat iarna; aduceți un termos cu băutură caldă și mănuși groase pentru a vă bucura de călătoria pe apa rece a Atlanticului.",
+                "en": "The sea air is freezing in winter; bring a thermos with a hot drink and thick gloves to stay comfortable while searching for marine life on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Baltimore",
+                "hu": "Baltimore-i kikötő",
+                "ro": "Portul Baltimore",
+                "en": "Baltimore Harbour"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe im Hafen ohne die Sommermassen und wärmen Sie sich nach dem Spaziergang in einem der nahegelegenen Pubs auf.",
+                "hu": "Élvezze a téli nyugalmat a kikötőben a nyári tömeg nélkül, majd a séta után melegedjen fel a közeli pubok egyikében egy forró ital mellett.",
+                "ro": "Bucurați-vă de liniștea iernii în port fără mulțimile de vară și încălziți-vă după plimbare într-unul dintre pub-urile primitoare din apropiere.",
+                "en": "Enjoy the peaceful winter atmosphere in the harbour without the summer crowds, and warm up after your walk in one of the nearby traditional pubs."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Beacon Point",
+                "hu": "Beacon Point kilátó",
+                "ro": "Punctul de belvedere Beacon Point",
+                "en": "Beacon Point"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 16:30 Uhr ein, um den Sonnenuntergang über dem Atlantik zu erleben, bevor es im Winter schnell dunkel und sehr kalt wird.",
+                "hu": "Tervezze látogatását 16:30 előttre, hogy láthassa a naplementét az Atlanti-óceán felett, mielőtt télen hirtelen besötétedik és lehűl a levegő.",
+                "ro": "Planificați vizita înainte de ora 16:30 pentru a vedea apusul peste Atlantic, înainte ca întunericul și frigul să se lase rapid în lunile de iarnă.",
+                "en": "Plan your visit before 4:30 PM to catch the spectacular sunset over the Atlantic before the winter darkness and cold set in very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Tullagh-Kirche",
+                "hu": "Tullagh templom",
+                "ro": "Biserica Tullagh",
+                "en": "Tullagh Church"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten durch die Ruinen, was ideal für Fotos ist; achten Sie auf Frost auf den alten Grabsteinen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a romok között, ami tökéletes a fotózáshoz; ügyeljen a zúzmarára a régi sírkövek környékén.",
+                "ro": "Soarele de iarnă proiectează umbre lungi prin ruine, fiind ideal pentru fotografii; aveți grijă la bruma de pe pietrele funerare vechi și alunecoase.",
+                "en": "The low winter sun casts long shadows through the ruins, perfect for photography; watch out for frost on the old gravestones and uneven paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napot az óceáni levegővel a festői baltimore-i kikötőben, mielőtt nyugat felé indulna.\n\nDélben fedezze fel a Dún na Long kastélyt és a közeli egyházi romokat.\n\nA délutáni kerékpározás az Apátság mellett a Beacon Point lenyűgöző kilátásához vezet.\n\nZárja az estét egy pihentető utazással a Church Strand Bay felé, ahogy a nap lemenőben van.",
         "ro": "Începeți ziua respirând aerul oceanului în pitorescul port Baltimore înainte de a pedala spre vest.\n\nLa amiază, explorați fortăreața Dún na Long și ruinele ecleziastice din apropiere.\n\nPlimbarea de după-amiază vă poartă pe lângă Abație către priveliștile de la Beacon Point.\n\nÎncheiați seara cu o plimbare relaxantă spre Church Strand Bay, în timp ce soarele apune.",
         "en": "Kick off your day breathing in the ocean air at the scenic Baltimore Harbour before cycling westward.\n\nBy midday, explore the medieval stronghold of Dún na Long Castle and nearby ecclesiastical ruins.\n\nAfternoon riding takes you past The Abbey to the sweeping vistas of the iconic Beacon Point.\n\nWrap up the evening with a relaxing ride towards Church Strand Bay as the sun sets over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber einsame Küstenwege. Morgens radeln wir vorsichtig zum Hafen. Mittags erkunden wir die historischen Ruinen unter grauem Himmel. Die Fahrt zum Beacon Point am Nachmittag ist windig und nass, belohnt aber mit wilder Natur. Abends kehren wir erschöpft, aber zufrieden, für eine heiße Dusche und ein warmes Essen zurück.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de magányos parti utakat kínál. Reggel óvatosan tekerünk a kikötőbe. Délben a történelmi romokat fedezzük fel a szürke égbolt alatt. A délutáni menet a Beacon Point-hoz szeles és nedves, de a vad természet látványa kárpótol. Este fáradtan, de elégedetten térünk vissza egy forró zuhanyra és meleg ételre.",
+            "ro": "O plimbare cu bicicleta prin ploaie necesită prudență, dar oferă drumuri de coastă pustii. Dimineața pedalăm cu grijă spre port. La prânz explorăm ruinele istorice sub cerul gri. Drumul spre Beacon Point este vântos și umed, dar natura sălbatică merită efortul. Seara ne întoarcem obosiți pentru un duș fierbinte și o masă caldă.",
+            "en": "Cycling in the rain requires caution but offers solitary coastal routes. In the morning, we cycle carefully to the harbour. At noon, we explore historic ruins under grey skies. The afternoon ride to Beacon Point is windy and wet, but rewarded by wild nature. In the evening, we return exhausted but satisfied for a hot shower and a warm meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Baltimore",
+                "hu": "Baltimore-i kikötő",
+                "ro": "Portul Baltimore",
+                "en": "Baltimore Harbour"
+              },
+              "tip_5lang": {
+                "de": "Der Boden am Hafen kann rutschig sein; parken Sie Ihr Rad an einem sicheren Ort und tragen Sie beim Gehen auf den nassen Steinen Schuhe mit gutem Halt.",
+                "hu": "A kikötő talaja csúszós lehet; parkolja le a kerékpárt biztonságos helyen, és viseljen jó tapadású cipőt a nedves köveken való sétához.",
+                "ro": "Pavementul din port poate fi alunecos; parcați bicicleta într-un loc sigur și purtați încălțăminte aderentă când mergeți pe pietrele ude.",
+                "en": "The harbour ground can be slippery; park your bike securely and wear shoes with good grip when walking on the wet stones near the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Long",
+                "hu": "Dún na Long kastély",
+                "ro": "Castelul Dún na Long",
+                "en": "Dún na Long Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mauern der Burgruine als Windschutz und achten Sie beim Radfahren auf den nassen, unbefestigten Wegen in der Umgebung auf Matsch.",
+                "hu": "Használja a várfalakat szélvédelemnek, és ügyeljen a sárra a környékbeli nedves, burkolatlan utakon való kerékpározás közben.",
+                "ro": "Folosiți zidurile castelului ca protecție împotriva vântului și aveți grijă la noroi pe drumurile neasfaltate din apropiere în timp ce pedalați.",
+                "en": "Use the castle ruins as a windbreak and watch out for mud on the wet, unpaved paths in the surrounding area while cycling today."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Abtei",
+                "hu": "Az Apátság",
+                "ro": "Abația",
+                "en": "The Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Abtei bietet wenig Schutz vor Regen; planen Sie einen kurzen Aufenthalt ein und stellen Sie sicher, dass Ihre Bremsen auf nassen Straßen gut funktionieren.",
+                "hu": "Az apátság kevés védelmet nyújt az eső ellen; tervezzen rövid megállót, és győződjön meg róla, hogy a fékek jól fognak a nedves úton.",
+                "ro": "Abația oferă puțin adăpost împotriva ploii; planificați o vizită scurtă și asigurați-vă că frânele bicicletei funcționează bine pe asfaltul ud.",
+                "en": "The Abbey offers little shelter from the rain; plan for a brief stop and ensure your bike brakes are working perfectly on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Beacon Point",
+                "hu": "Beacon Point kilátó",
+                "ro": "Punctul de belvedere Beacon Point",
+                "en": "Beacon Point"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor starken Windböen an den Klippen; steigen Sie bei Regen lieber vom Rad ab und gehen Sie das letzte Stück zu Fuß zum Aussichtspunkt.",
+                "hu": "Vigyázzon az erős széllökésekkel a szikláknál; esőben inkább szálljon le a bicikliről, és gyalog tegye meg az utolsó szakaszt a kilátóig.",
+                "ro": "Atenție la rafalele puternice de vânt de pe faleze; pe ploaie, este mai sigur să coborâți de pe bicicletă și să mergeți pe jos ultima porțiune.",
+                "en": "Beware of strong wind gusts at the cliffs; it is safer to dismount your bike and walk the final stretch to the viewpoint in rainy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Station",
+                "hu": "Dún na Station kastély",
+                "ro": "Castelul Dún na Station",
+                "en": "Dún na Station castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Burgbesichtigung für eine längere Pause im Trockenen, bevor Sie die Tour fortsetzen.",
+                "hu": "Támassza le a biciklit fedett helyre, és használja ki a várnézést egy hosszabb száraz pihenőre, mielőtt folytatná a kerékpártúrát.",
+                "ro": "Lăsați bicicleta la adăpost și profitați de vizitarea castelului pentru o pauză prelungită la uscat înainte de a continua traseul.",
+                "en": "Park your bike in a sheltered spot and use the castle visit for a long break in the dry before continuing your cycling tour of the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Church Strand Bucht",
+                "hu": "Church Strand öböl",
+                "ro": "Golful Church Strand",
+                "en": "Church Strand Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen überschwemmt sein; tragen Sie reflektierende Kleidung, um bei schlechter Sicht für Autofahrer sichtbar zu bleiben.",
+                "hu": "A parti út esőben víz alatt lehet; viseljen fényvisszaverő ruházatot, hogy a rossz látási viszonyok között is látható maradjon az autósoknak.",
+                "ro": "Drumul de coastă poate fi parțial inundat; purtați haine reflectorizante pentru a fi vizibil șoferilor în condiții de vizibilitate redusă.",
+                "en": "The coastal road may have large puddles; wear reflective gear to ensure you remain visible to drivers during periods of heavy rain and poor light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Baltimore ist belebend, erfordert aber gute Vorbereitung. Morgens starten wir warm eingepackt am Hafen. Mittags erkunden wir die historischen Stätten im klaren Winterlicht. Da die Sonne früh untergeht, radeln wir zügig zum Beacon Point für das Panorama. Abends genießen wir die gemütliche Atmosphäre im Dorf, während die Räder für den nächsten Tag bereitstehen.",
+            "hu": "A téli kerékpározás Baltimore-ban élénkítő, de jó felkészülést igényel. Reggel melegen felöltözve indulunk a kikötőtől. Délben tiszta téli fényben fedezzük fel a történelmi helyszíneket. Mivel a nap korán nyugszik, tempósan tekerünk a Beacon Point-hoz a panorámáért. Este a falu meghitt hangulatát élvezzük, miközben a bringák pihennek.",
+            "ro": "Ciclismul de iarnă în Baltimore este revigorant, dar necesită pregătire. Dimineața pornim bine înfofoliți din port. La prânz explorăm siturile istorice în lumina clară a iernii. Deoarece soarele apune devreme, pedalăm susținut spre Beacon Point pentru panoramă. Seara ne bucurăm de atmosfera caldă a satului.",
+            "en": "Winter cycling in Baltimore is invigorating but requires good preparation. In the morning, we start bundled up warmly from the harbour. At noon, we explore historic sites in the clear winter light. Since the sun sets early, we cycle briskly to Beacon Point for the panorama. In the evening, we enjoy the village's cozy vibe as the bikes rest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Baltimore",
+                "hu": "Baltimore-i kikötő",
+                "ro": "Portul Baltimore",
+                "en": "Baltimore Harbour"
+              },
+              "tip_5lang": {
+                "de": "Die Metalloberflächen am Pier können im Winter vereist sein; seien Sie beim Schieben Ihres Rades besonders vorsichtig, um nicht auszurutschen.",
+                "hu": "A móló fémfelületei télen jegesek lehetnek; legyen különösen óvatos a kerékpár tolásakor, hogy elkerülje az elcsúszást a fagyos részeken.",
+                "ro": "Suprafețele metalice de pe debarcader pot fi înghețate; fiți foarte atent când împingeți bicicleta pentru a evita alunecarea pe porțiunile cu gheață.",
+                "en": "Metal surfaces on the pier can be icy in winter; be extra careful when wheeling your bike to avoid slipping on frosty patches near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Long",
+                "hu": "Dún na Long kastély",
+                "ro": "Castelul Dún na Long",
+                "en": "Dún na Long Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Sicht im Winter schnell abnimmt und die Wege zur Burg unbeleuchtet sind.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái működnek, mivel a látótávolság télen gyorsan csökken, és a várhoz vezető utak nincsenek kivilágítva.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece vizibilitatea scade rapid iarna, iar drumurile spre castel nu sunt iluminate public.",
+                "en": "Ensure your bike lights are working properly, as visibility drops quickly in winter and the paths to the castle are not illuminated at night."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Abtei",
+                "hu": "Az Apátság",
+                "ro": "Abația",
+                "en": "The Abbey"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um die historische Ruhe zu genießen, aber bleiben Sie in Bewegung, um bei den kühlen Temperaturen nicht auszukühlen.",
+                "hu": "Tartson egy rövid szünetet a történelmi nyugalom élvezetéhez, de maradjon mozgásban, hogy a hűvös téli hőmérsékletben ne hűljön le a teste.",
+                "ro": "Faceți o pauză scurtă pentru a vă bucura de liniștea istorică, dar rămâneți în mișcare pentru a nu vă răci corpul în temperaturile scăzute de iarnă.",
+                "en": "Take a short break to enjoy the historic peace, but keep moving to prevent your body temperature from dropping in the chilly winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Beacon Point",
+                "hu": "Beacon Point kilátó",
+                "ro": "Punctul de belvedere Beacon Point",
+                "en": "Beacon Point"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt vom Beacon Point, da der Fahrtwind bei Wintertemperaturen besonders beißend sein kann.",
+                "hu": "Viseljen szélálló kesztyűt a Beacon Point-tól való leguruláshoz, mivel a menetszél téli hőmérsékletnél különösen metsző és hideg lehet.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborârea de la Beacon Point, deoarece curentul de aer poate fi tăios la temperaturile de iarnă.",
+                "en": "Wear windproof gloves for the descent from Beacon Point, as the wind chill at winter temperatures can be particularly biting while cycling fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Station",
+                "hu": "Dún na Station kastély",
+                "ro": "Castelul Dún na Station",
+                "en": "Dún na Station castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgbesichtigung ist eine gute Gelegenheit, sich aufzuwärmen; parken Sie Ihr Rad so, dass es den Weg für andere Besucher nicht behindert.",
+                "hu": "A várnézés remek alkalom a felmelegedésre; parkolja le a kerékpárt úgy, hogy ne akadályozza a többi látogatót a szűkebb bejáratoknál.",
+                "ro": "Vizitarea castelului este o ocazie bună pentru a vă încălzi; parcați bicicleta astfel încât să nu blocheze accesul celorlalți vizitatori.",
+                "en": "The castle visit is a great opportunity to warm up indoors; park your bike where it won't obstruct other winter visitors at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Church Strand Bucht",
+                "hu": "Church Strand öböl",
+                "ro": "Golful Church Strand",
+                "en": "Church Strand Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue Wintersee, aber achten Sie auf vereiste Pfützen auf der Küstenstraße, die für Radfahrer gefährlich sein können.",
+                "hu": "Élvezze a zord téli tenger látványát, de ügyeljen a jeges tócsákra a parti úton, amelyek veszélyesek lehetnek a kerékpárosok számára.",
+                "ro": "Admirați marea agitată de iarnă, dar fiți atent la bălțile înghețate de pe drumul de coastă, care pot fi periculoase pentru bicicliști.",
+                "en": "Enjoy the view of the rough winter sea, but watch out for icy puddles on the coastal road, which can be very hazardous for cyclists today."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggel a történelmi Ballylinchy Signal Towernél kezdődik, mielőtt a Tullagh templomhoz vezetne.\n\nDélben tartson pihenőt a Church Strand Baynél, és fedezze fel a Dún na Station erődítményt.\n\nDélután kövesse a nyugati partokat a Dún na Long kastélyhoz és az Apátság békés romjaihoz.\n\nFejezze be az utat a Beacon Pointhoz autózva, egy felejthetetlen atlanti naplemente reményében.",
         "ro": "Dimineața începe cu Turnul de Semnalizare Ballylinchy, înainte de a conduce la Biserica Tullagh.\n\nLa amiază, opriți-vă la Church Strand Bay și explorați fortăreața Dún na Station.\n\nDupă-amiaza, urmați țărmurile către Castelul Dún na Long și ruinele senine ale Abației.\n\nÎncheiați călătoria conducând spre Beacon Point pentru un apus de soare de neuitat.",
         "en": "Your morning starts with the historic Ballylinchy Signal Tower before driving to ancient Tullagh Church.\n\nAt midday, pause by the tranquil Church Strand Bay and explore the Dún na Station fortress.\n\nIn the afternoon, trace the rugged western shores to Dún na Long Castle and the serene ruins of The Abbey.\n\nFinish the journey driving to Beacon Point for an unforgettable sunset view over the Atlantic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für einen regnerischen Tag in Baltimore. Morgens fahren wir bequem zum Signalturm. Mittags besuchen wir die historische Kirche und die Bucht, während wir im trockenen Fahrzeug bleiben. Am Nachmittag erkunden wir die Burgen der Region ohne nass zu werden. Der Abend endet mit einer kurzen Fahrt zu einem gemütlichen Restaurant mit Blick auf den regnerischen Hafen.",
+            "hu": "Az autó a legjobb választás egy esős napon Baltimore-ban. Reggel kényelmesen autózunk a jelzőtoronyhoz. Délben a történelmi templomot és az öblöt látogatjuk meg, miközben a száraz járműben maradunk. Délután a régió várait fedezzük fel anélkül, hogy bőrig áznánk. Az este egy rövid autózással zárul egy hangulatos étterembe, ahonnan rálátni az esős kikötőre.",
+            "ro": "Mașina este cea mai bună alegere pentru o zi ploioasă în Baltimore. Dimineața conducem confortabil spre turnul de semnalizare. La prânz vizităm biserica istorică și golful, rămânând la adăpost în vehicul. După-amiaza explorăm castelele din regiune fără a ne uda. Seara se încheie cu o scurtă plimbare spre un restaurant primitor cu vedere la portul plouat.",
+            "en": "A car is the best choice for a rainy day in Baltimore. In the morning, we drive comfortably to the signal tower. At noon, we visit the historic church and bay while staying dry inside the vehicle. In the afternoon, we explore the local castles without getting soaked. The evening ends with a short drive to a cozy restaurant overlooking the rainy harbour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Signalturm Ballylinchy",
+                "hu": "Ballylinchy jelzőtorony",
+                "ro": "Turnul de semnalizare Ballylinchy",
+                "en": "Ballylinchy Signal Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen matschig sein; parken Sie vorsichtig und genießen Sie den dramatischen Blick auf die Küste direkt aus dem Fenster.",
+                "hu": "A parkoló esőben sáros lehet; parkoljon óvatosan, és élvezze a drámai parti kilátást közvetlenül az autó ablakából, ha elered az eső.",
+                "ro": "Parcarea poate fi noroioasă pe ploaie; parcați cu atenție și bucurați-vă de vederea dramatică a coastei direct de la fereastra mașinii.",
+                "en": "The parking area can be muddy in the rain; park carefully and enjoy the dramatic coastal views directly from your car window if it pours."
+              }
+            },
+            {
+              "name": {
+                "de": "Tullagh-Kirche",
+                "hu": "Tullagh templom",
+                "ro": "Biserica Tullagh",
+                "en": "Tullagh Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um die Ruinen in kurzen Regenpausen zu besichtigen; halten Sie einen Regenschirm für den kurzen Fußweg bereit.",
+                "hu": "Használja az autót bázisként a romok megtekintéséhez az esőszünetekben; tartson kéznél esernyőt a parkolótól vezető rövid sétához.",
+                "ro": "Folosiți mașina ca bază pentru a vizita ruinele în pauzele dintre ploi; aveți la îndemână o umbrelă pentru scurta plimbare de la parcare.",
+                "en": "Use the car as your base to visit the ruins during breaks in the rain; keep an umbrella handy for the short walk from the parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Church Strand Bucht",
+                "hu": "Church Strand öböl",
+                "ro": "Golful Church Strand",
+                "en": "Church Strand Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht lässt sich hervorragend vom Auto aus beobachten; achten Sie beim Fahren auf der schmalen Küstenstraße auf Aquaplaning durch Pfützen.",
+                "hu": "Az öböl kiválóan megfigyelhető az autóból is; a keskeny parti úton vezessen lassabban, hogy elkerülje az aquaplaningot a mélyebb tócsákban.",
+                "ro": "Golful poate fi admirat excelent din mașină; pe drumul îngust de coastă, conduceți încet pentru a evita acvaplanarea în bălțile adânci.",
+                "en": "The bay can be viewed perfectly from the car; drive slowly on the narrow coastal road to avoid aquaplaning in deep puddles during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Station",
+                "hu": "Dún na Station kastély",
+                "ro": "Castelul Dún na Station",
+                "en": "Dún na Station castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen und nutzen Sie die Burg als sicheren, trockenen Ort für eine ausgiebige Besichtigung, während es draußen regnet.",
+                "hu": "Parkoljon a kikötőben, és használja a kastélyt biztonságos, száraz helyszínként egy alapos látogatáshoz, amíg odakint szakad az eső.",
+                "ro": "Parcați în port și folosiți castelul ca loc sigur și uscat pentru o vizită detaliată în timp ce afară plouă torențial.",
+                "en": "Park at the harbour and use the castle as a secure, dry location for an extensive visit while the rain falls heavily outside today."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Long",
+                "hu": "Dún na Long kastély",
+                "ro": "Castelul Dún na Long",
+                "en": "Dún na Long Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt kann über schmale, nasse Wege führen; achten Sie auf entgegenkommende Fahrzeuge und nutzen Sie die Ausweichstellen vorsichtig.",
+                "hu": "A várhoz vezető út szűk és nedves lehet; figyeljen a szembejövő forgalomra, és óvatosan használja a félreálló helyeket a keskenyebb szakaszokon.",
+                "ro": "Accesul se face pe drumuri înguste și ude; fiți atent la traficul din sens opus și folosiți cu prudență refugiile de pe marginea drumului.",
+                "en": "The approach may be via narrow, wet roads; watch out for oncoming traffic and use the passing places carefully on the slim sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Abtei",
+                "hu": "Az Apátság",
+                "ro": "Abația",
+                "en": "The Abbey"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Aufenthalt im Freien kurz zu halten; die Ruinen wirken im Regen besonders stimmungsvoll und geschichtsträchtig.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja a kinti tartózkodást; a romok esőben különösen hangulatosak és történelmi hatást keltenek.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut afară; ruinele par extrem de atmosferice și pline de istorie pe timp de ploaie.",
+                "en": "Park close to the entrance to minimize your time outdoors; the ruins appear especially atmospheric and historical through the mist and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Beacon Point",
+                "hu": "Beacon Point kilátó",
+                "ro": "Punctul de belvedere Beacon Point",
+                "en": "Beacon Point"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto, da der Wind am Beacon Point extrem peitschen kann; die Aussicht ist auch durch die Windschutzscheibe grandios.",
+                "hu": "Heves esőzéskor maradjon az autóban, mivel a szél a Beacon Pointnál váratlanul felerősödhet; a kilátás a szélvédőn keresztül is lenyűgöző.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină, deoarece vântul la Beacon Point poate fi tăios; vederea este grandioasă chiar și prin parbriz.",
+                "en": "During heavy downpours, stay in the car as the wind at Beacon Point can be extremely strong; the view is still magnificent through the windshield."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Baltimore ist komfortabel und malerisch. Morgens genießen wir die klare Luft am Signalturm. Mittags besuchen wir die historischen Ruinen, wobei das Auto uns zwischen den Stopps warm hält. Da es früh dunkel wird, fahren wir rechtzeitig zum Beacon Point für den Sonnenuntergang. Der Abend wird bei einem heißen Getränk in der Wärme des Dorfes verbracht.",
+            "hu": "Egy téli autós kirándulás Baltimore környékén kényelmes és festői. Reggel a tiszta levegőt élvezzük a jelzőtoronynál. Délben a történelmi romokat látogatjuk meg, miközben az autó melegen tart minket a megállók között. Mivel korán sötétedik, időben a Beacon Point-hoz hajtunk a naplementére. Az este egy forró ital mellett telik a falu melegében.",
+            "ro": "O plimbare cu mașina prin Baltimore iarna este confortabilă și pitorească. Dimineața ne bucurăm de aerul curat la turnul de semnalizare. La prânz vizităm ruinele istorice, mașina menținându-ne calzi între opriri. Deoarece se întunecă devreme, conducem spre Beacon Point pentru apus. Seara se petrece la căldură.",
+            "en": "A winter driving tour of Baltimore is comfortable and scenic. In the morning, we enjoy the crisp air at the signal tower. At noon, we visit the historic ruins, with the car keeping us warm between stops. Since it gets dark early, we drive to Beacon Point in time for the sunset. The evening is spent with a hot drink in the village's warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Signalturm Ballylinchy",
+                "hu": "Ballylinchy jelzőtorony",
+                "ro": "Turnul de semnalizare Ballylinchy",
+                "en": "Ballylinchy Signal Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem exponierten Parkplatz am Turm; die winterliche Fernsicht über den Atlantik ist an klaren Tagen unübertroffen.",
+                "hu": "Ügyeljen a jegesedésre a toronynál lévő kitett parkolóban; a téli kilátás az Atlanti-óceánra tiszta napokon felülmúlhatatlan élményt nyújt.",
+                "ro": "Atenție la polei în parcarea expusă de la turn; vizibilitatea de iarnă peste Atlantic este de neegalat în zilele senine și reci.",
+                "en": "Watch out for black ice in the exposed parking area by the tower; the winter visibility over the Atlantic is unsurpassed on clear days."
+              }
+            },
+            {
+              "name": {
+                "de": "Tullagh-Kirche",
+                "hu": "Tullagh templom",
+                "ro": "Biserica Tullagh",
+                "en": "Tullagh Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Straßenrand und genießen Sie die friedliche Winteratmosphäre der Ruinen, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "Parkoljon biztonságosan az út szélén, és élvezze a romok békés téli hangulatát, mielőtt visszaülne az autóba felmelegedni a következő megállóig.",
+                "ro": "Parcați în siguranță pe marginea drumului și bucurați-vă de atmosfera liniștită de iarnă a ruinelor înainte de a vă reîncălzi în mașină.",
+                "en": "Park safely on the roadside and enjoy the peaceful winter atmosphere of the ruins before warming up again in your car for the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Church Strand Bucht",
+                "hu": "Church Strand öböl",
+                "ro": "Golful Church Strand",
+                "en": "Church Strand Bay"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders weich und ideal für Fotos von der Bucht direkt vom Parkplatz aus, ohne lange in der Kälte zu stehen.",
+                "hu": "A délutáni fények télen különösen lágyak, így az öböl fotózása a parkolóból is tökéletes, anélkül, hogy sokáig a hidegben kellene várakoznia.",
+                "ro": "Lumina de după-amiază este extrem de blândă iarna, fiind ideală pentru fotografii din parcare, fără a sta mult timp în frigul de afară.",
+                "en": "The afternoon light is particularly soft in winter, making it ideal for photos of the bay directly from the parking area without staying out in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Station",
+                "hu": "Dún na Station kastély",
+                "ro": "Castelul Dún na Station",
+                "en": "Dún na Station castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten im Dorf und verbinden Sie den Burgbesuch mit einem kurzen Gang zum Hafen, bevor die Wintersonne untergeht.",
+                "hu": "Használja ki a falu parkolási lehetőségeit, és kösse össze a várnézést egy rövid kikötői sétával, mielőtt a téli nap végleg lenyugszik az öböl felett.",
+                "ro": "Profitați de parcările din sat și combinați vizitarea castelului cu o scurtă plimbare în port înainte ca soarele de iarnă să apună definitiv.",
+                "en": "Take advantage of the village parking and combine the castle visit with a short stroll to the harbour before the winter sun sets over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Dún na Long",
+                "hu": "Dún na Long kastély",
+                "ro": "Castelul Dún na Long",
+                "en": "Dún na Long Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Laub auf den Zufahrtswegen zur Burg; das Auto bietet den nötigen Komfort, um die abgelegenen historischen Stätten zu erreichen.",
+                "hu": "Ügyeljen a fagyott levelekre a várhoz vezető utakon; az autó biztosítja a kényelmet a távolabb eső történelmi helyszínek biztonságos eléréséhez.",
+                "ro": "Atenție la frunzele înghețate de pe drumurile spre castel; mașina oferă confortul necesar pentru a ajunge la siturile istorice mai izolate.",
+                "en": "Watch out for frozen leaves on the access roads to the castle; the car provides the comfort needed to reach these remote historic sites safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Abtei",
+                "hu": "Az Apátság",
+                "ro": "Abația",
+                "en": "The Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Abtei wirkt im fahlen Winterlicht besonders geheimnisvoll; halten Sie die Heizung im Auto bereit, um sich nach dem Rundgang schnell aufzuwärmen.",
+                "hu": "Az apátság a bágyadt téli fényben különösen titokzatosnak tűnik; készítse elő a fűtést az autóban, hogy a séta után gyorsan felmelegedhessen.",
+                "ro": "Abația pare extrem de misterioasă în lumina palidă a iernii; pregătiți căldura în mașină pentru a vă încălzi rapid după vizitarea ruinelor.",
+                "en": "The Abbey looks especially mysterious in the pale winter light; have the car's heater ready to warm up quickly after your walk through the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Beacon Point",
+                "hu": "Beacon Point kilátó",
+                "ro": "Punctul de belvedere Beacon Point",
+                "en": "Beacon Point"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum Sonnenuntergang gegen 16:30 Uhr; der Parkplatz bietet Schutz vor dem eisigen Winterwind, während Sie die Aussicht genießen.",
+                "hu": "Érkezzen időben a 16:30 körüli naplementére; a parkoló védelmet nyújt a jeges téli szél ellen, miközben az Atlanti-óceán panorámájában gyönyörködik.",
+                "ro": "Sosiți la timp pentru apusul de la ora 16:30; parcarea oferă protecție împotriva vântului înghețat în timp ce admirați panorama Atlanticului.",
+                "en": "Arrive in time for the 4:30 PM sunset; the parking spot provides shelter from the icy winter wind while you enjoy the Atlantic panorama."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Wergelandsparken zöldjében, felszívva a központ élénk hangulatát. Délben fedezze fel Kristiansand örökségét a feltűnő városházánál és a Posebyen faházainál. Délután merüljön el a tengerészeti történelemben a hatalmas Christiansholm erődnél tett látogatással. Zárja a napot a tengerparton pihenve, a lenyűgöző és nyugodt Bystranda homokján, élvezve a kora esti friss levegőt.",
         "ro": "Începe dimineața în împrejurimile luxuriante din Wergelandsparken, bucurându-te de atmosfera vibrantă a centrului. La prânz, descoperă patrimoniul la Primărie și printre casele de lemn impecabile din Posebyen. După-amiaza, pătrunde în istoria maritimă la masiva fortăreață Christiansholm. Încheie-ți ziua relaxându-te la malul mării la Bystranda, ascultând valurile și admirând orizontul.",
         "en": "Start your morning in the lush surroundings of Wergelandsparken, absorbing the vibrant atmosphere of the city center. Midday invites you to uncover Kristiansand’s heritage at the striking City Hall and the perfectly preserved wooden homes of Posebyen. In the afternoon, dive into maritime history exploring the massive Christiansholm festning. Conclude your day relaxing by the sea at Bystranda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem Spaziergang im Wergelandsparken, wo die dichten Baumkronen den ersten Regen abfangen. Mittags erkunden wir die historischen Gassen von Posebyen unter dem Schutz von Regenschirmen, während das Kopfsteinpflaster glänzt. Am Nachmittag bietet die Festung Christiansholm eine dramatische Aussicht auf das stürmische Meer. Den Abend lassen wir trotz des grauen Wetters ruhig an der Bystranda ausklingen.",
+            "hu": "A reggel frissítő záporral indul a parkban, ahol az óriási fák lombjai nyújtanak némi menedéket a látogatóknak. Délben a városháza és Posebyen fehér faházai között barangolunk, miközben az eső kopogása ritmust ad a sétának. Délután az erőd falai mellől figyeljük a szürke, viharos tengert, végül a városi strand homokján fejezzük be a napot a ködös, sötétedő kikötő látványával és a sós pára illatával.",
+            "ro": "Dimineața începe cu o plimbare în Wergelandsparken, unde coroanele bogate ale copacilor oferă un adăpost natural împotriva ploii. La prânz, explorăm străzile istorice din Posebyen sub protecția umbrelelor, admirând casele albe. După-amiaza, fortăreața Christiansholm oferă o vedere dramatică asupra mării agitate. Seara se încheie liniștit pe plaja Bystranda, unde sunetul ploii se împletește cu cel al valurilor.",
+            "en": "The morning starts with a refreshing shower in the park, where the dense canopy provides natural shelter. At noon, we wander between the white wooden houses of Posebyen, the rain adding a rhythmic tap to our stroll. In the afternoon, the fortress walls offer a dramatic view of the stormy sea. We end the day at the city beach, watching the misty harbor as the gray sky meets the dark North Sea waters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wergelandsparken",
+                "hu": "Wergelandsparken",
+                "ro": "Wergelandsparken",
+                "en": "Wergelandsparken"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Wergeland-Denkmal unter den großen Bäumen, die guten Schutz vor leichtem Regen bieten, aber achten Sie auf die rutschigen Wege in Parknähe.",
+                "hu": "Nézze meg a Wergeland-emlékművet a hatalmas fák alatt, amelyek jó védelmet nyújtanak az eső ellen, de vigyázzon a park körüli csúszós utakra a sár miatt.",
+                "ro": "Vizitați monumentul Wergeland sub copacii mari care oferă protecție bună împotriva ploii ușoare, dar atenție la potecile alunecoase din apropierea parcului.",
+                "en": "Visit the Wergeland monument under the large trees that provide good protection from light rain, but watch out for slippery paths around the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Kristiansand",
+                "hu": "Kristiansand Városháza",
+                "ro": "Primăria Kristiansand",
+                "en": "Kristiansand City Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für eine kurze Pause und bewundern Sie die Architektur, während Sie sich kurz vor dem Regen ins Trockene retten.",
+                "hu": "Használja a fedett bejárati részt egy rövid pihenőre és csodálja meg az építészetet, miközben rövid időre menedéket talál az eső elől a központi téren.",
+                "ro": "Folosiți zona de intrare acoperită pentru o scurtă pauză și admirați arhitectura în timp ce vă adăpostiți pentru scurt timp de ploaia din piața centrală.",
+                "en": "Use the covered entrance area for a short break and admire the architecture while taking a brief shelter from the rain in the central square area."
+              }
+            },
+            {
+              "name": {
+                "de": "Posebyen",
+                "hu": "Posebyen",
+                "ro": "Posebyen",
+                "en": "Posebyen"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Holzhäuser wirken bei Regen besonders atmosphärisch; tragen Sie wasserfeste Schuhe für das glänzende, aber teils rutschige historische Kopfsteinpflaster.",
+                "hu": "A fehér faházak esőben különösen hangulatosak; viseljen vízálló cipőt a fénylő, de néhol csúszós történelmi macskaköves burkolat miatt a séta során.",
+                "ro": "Casele albe de lemn par extrem de atmosferice în ploaie; purtați încălțăminte impermeabilă pentru pavajul istoric lucios, dar uneori alunecos, din cartier.",
+                "en": "The white wooden houses look especially atmospheric in the rain; wear waterproof shoes for the shining but sometimes slippery historic cobblestone pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm Fortress"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Nischen zum Unterstellen; genießen Sie den Blick auf den grauen Fjord, aber halten Sie Ihren Regenschirm bei starkem Wind gut fest.",
+                "hu": "A vastag falak fülkéi menedéket nyújtanak; élvezze a kilátást a szürke fjordra, de szélben fogja erősen az esernyőjét a bástyák nyitott részein.",
+                "ro": "Zidurile groase oferă nișe pentru adăpost; bucurați-vă de priveliștea spre fjordul cenușiu, dar țineți bine umbrela în cazul vântului puternic pe bastioane.",
+                "en": "The thick walls offer niches for shelter; enjoy the view of the gray fjord, but hold your umbrella firmly if it gets windy on the open bastions."
+              }
+            },
+            {
+              "name": {
+                "de": "Bystranda",
+                "hu": "Bystranda",
+                "ro": "Bystranda",
+                "en": "Bystranda"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand bei Regen ist sehr beruhigend; die nahen Cafés bieten danach einen warmen, trockenen Platz mit Blick auf das Wasser.",
+                "hu": "A sétány esőben is nyugodt hely; a közeli kávézók meleg és száraz menedéket nyújtanak a tengerparti séta után, nagyszerű kilátással a kikötőre.",
+                "ro": "O plimbare pe plajă în ploaie este foarte relaxantă; cafenelele din apropiere oferă un loc cald și uscat după plimbare, cu vedere spre apă.",
+                "en": "A walk on the beach in the rain is very calming; nearby cafes offer a warm, dry spot after your stroll with a great view of the misty waterfront."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Wergelandsparken ist von Raureif und klarer Luft geprägt. Vormittags wärmen wir uns in der Nähe des Rathauses auf, bevor wir durch das verschneite Posebyen schlendern, das wie ein Weihnachtsdorf wirkt. Die Festung Christiansholm bietet in der frühen Dämmerung gegen 16 Uhr ein magisches Panorama. Der Tag endet mit einem erfrischenden Spaziergang an der beleuchteten Bystranda, während die Kälte vom Meer her weht.",
+            "hu": "A park zúzmarás fái között kezdjük a napot a csípős norvég hidegben. A városháza és Posebyen történelmi utcái különleges hangulatot árasztanak a téli fényekben és a friss hóesésben. Délután az erőd bástyáiról csodáljuk a korai naplementét, amely már 16 óra körül elkezdődik. Az este sötétjében a Bystranda kivilágított sétányán élvezzük a csendes tengerparti nyugalmat és a friss téli levegőt.",
+            "ro": "Dimineața de iarnă în Wergelandsparken este marcată de chiciură și aer curat. Înainte de prânz ne încălzim lângă primărie, apoi ne plimbăm prin Posebyen înzăpezit, care arată ca un sat de Crăciun. Fortăreața Christiansholm oferă o panoramă magică la crepusculul timpuriu de la ora 16:00. Ziua se încheie cu o plimbare revigorantă pe faleza iluminată Bystranda, în timp ce gerul suflă dinspre mare.",
+            "en": "The winter morning in the park is marked by frost and crisp air. Before noon, we find warmth near the city hall before strolling through snowy Posebyen, which looks like a Christmas village. Christiansholm Fortress offers a magical panorama during the early sunset around 4 PM. The day ends with a refreshing walk along the illuminated Bystranda as the winter chill blows in from the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wergelandsparken",
+                "hu": "Wergelandsparken",
+                "ro": "Wergelandsparken",
+                "en": "Wergelandsparken"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gefrorenen Skulpturen und die winterliche Stille; achten Sie auf vereiste Stellen auf den Hauptwegen und tragen Sie unbedingt warme Schichten.",
+                "hu": "Csodálja meg a fagyott szobrokat és a téli csendet; ügyeljen a jeges foltokra a főutakon, és mindenképpen viseljen meleg, réteges ruházatot a séta alatt.",
+                "ro": "Admirați sculpturile înghețate și liniștea iernii; atenție la porțiunile înghețate de pe aleile principale și purtați neapărat haine groase în straturi.",
+                "en": "Admire the frozen sculptures and the winter silence; watch out for icy patches on the main paths and be sure to wear warm layers during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Kristiansand",
+                "hu": "Kristiansand Városháza",
+                "ro": "Primăria Kristiansand",
+                "en": "Kristiansand City Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Kontrast zum weißen Schnee besonders imposant; nutzen Sie die beheizten Innenräume öffentlicher Gebäude in der Nähe zum Aufwärmen.",
+                "hu": "Az építészet különösen impozáns a fehér hóval való kontrasztban; használja a közeli nyilvános épületek fűtött belső tereit egy rövid felmelegedésre.",
+                "ro": "Arhitectura pare deosebit de impunătoare în contrast cu zăpada albă; folosiți spațiile interioare încălzite ale clădirilor publice din apropiere pentru încălzire.",
+                "en": "The architecture looks particularly imposing in contrast with the white snow; use heated interiors of nearby public buildings for a quick warm-up."
+              }
+            },
+            {
+              "name": {
+                "de": "Posebyen",
+                "hu": "Posebyen",
+                "ro": "Posebyen",
+                "en": "Posebyen"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchteten Fenster der Holzhäuser schaffen eine gemütliche Atmosphäre; gehen Sie vorsichtig auf dem oft schneebedeckten und glatten Kopfsteinpflaster.",
+                "hu": "A faházak kivilágított ablakai barátságos hangulatot árasztanak; járjon óvatosan a gyakran hóval borított és csúszós macskaköves burkolaton a negyedben.",
+                "ro": "Ferestrele luminate ale caselor de lemn creează o atmosferă primitoare; mergeți cu atenție pe pavajul de piatră adesea acoperit de zăpadă și alunecos.",
+                "en": "The lit windows of the wooden houses create a cozy atmosphere; walk carefully on the often snow-covered and slippery cobblestone streets in the district."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm Fortress"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das blaue Licht der Dämmerung über dem Hafen; die Kanonen sind oft mit Schnee bedeckt, was ein tolles Fotomotiv bietet, aber der Wind ist eisig.",
+                "hu": "Élvezze a szürkület kék fényeit a kikötő felett; a hóval borított ágyúk nagyszerű fotótémát nyújtanak, de a bástyákon a tengeri szél rendkívül metsző.",
+                "ro": "Bucurați-vă de lumina albastră a amurgului peste port; tunurile acoperite de zăpadă oferă un decor foto excelent, dar vântul de pe bastioane este tăios.",
+                "en": "Enjoy the blue twilight light over the harbor; the snow-covered cannons make a great photo subject, but the sea wind on the bastions is extremely biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Bystranda",
+                "hu": "Bystranda",
+                "ro": "Bystranda",
+                "en": "Bystranda"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter fast surreal und friedlich; nach 16 Uhr ist es dunkel, also genießen Sie die stimmungsvolle Beleuchtung entlang der Uferpromenade.",
+                "hu": "A strand télen szinte szürreális és békés; 16 óra után már sötét van, így élvezze a part menti sétány hangulatos díszkivilágítását a tenger morajlása mellett.",
+                "ro": "Plaja pare aproape ireală și pașnică iarna; după ora 16:00 este deja întuneric, deci bucurați-vă de iluminarea ambientală de-a lungul falezei orașului.",
+                "en": "The beach looks almost surreal and peaceful in winter; it gets dark after 4 PM, so enjoy the atmospheric lighting along the promenade by the roaring sea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a kerékpártúrát a Stener Heyerdahls parkban, majd guruljon át Posebyen történelmi, fehérre meszelt utcáin. Délben tekerjen északra a botanikus kerthez és az Oddernes-templom ősi rúnakövéhez. A délután építészeti kontrasztokkal folytatódik a modernista Lund-templomnál. Fejezze be az utazást a Bystranda homokján, élvezve a frissítő, sós esti tengeri szellőt és a megnyugtató hullámokat.",
         "ro": "Începe turul pe bicicletă la parcul Stener Heyerdahls înainte de a pedala prin străzile istorice din Posebyen. La prânz, mergi spre nord pentru a admira grădina botanică și piatra runică de la biserica Oddernes. După-amiaza continuă cu contrastul arhitectural al modernistei biserici Lund. Încheie plimbarea cu o briză răcoroasă de seară pe nisipul fin al plajei urbane Bystranda.",
         "en": "Kick off your cycling tour at Stener Heyerdahls park before gliding into the historic, whitewashed streets of Posebyen. At midday, ride north to marvel at regional wonders in the botanical gardens and the ancient runestone of Oddernes kirke. Your afternoon continues with architectural contrast at the modernist Lund kirke. Finish the ride with a refreshing evening breeze on the sands of Bystranda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour im Stener Heyerdahls Park, wo asphaltierte Wege auch bei Nässe gut befahrbar sind. Durch Posebyen radeln wir vorsichtig über glattes Kopfsteinpflaster. Mittags bietet das Naturmuseum eine ideale trockene Pause. Die Fahrt zur Oddernes- und Lund-Kirche führt über Radwege mit Pfützen, bevor wir den Tag an der windgepeitschten Bystranda mit Blick aufs Meer beenden.",
+            "hu": "Kerékpáros túránkat a Stener Heyerdahls parkban kezdjük, ahol az aszfaltozott utak esőben is jól járhatóak. Posebyen történelmi negyedében óvatosan haladunk a csúszós köveken. Délben a Természettudományi Múzeum tökéletes fedett menedéket nyújt. A templomok felé vezető úton figyeljünk a tócsákra, végül a Bystranda szeles partján, a sós pára közepette zárjuk a vizes, de frissítő napot.",
+            "ro": "Începem turul cu bicicleta în parcul Stener Heyerdahls, unde potecile asfaltate sunt practicabile și pe ploaie. Pedalam cu atenție prin Posebyen pe pavajul umed. La prânz, Muzeul de Istorie Naturală oferă popasul ideal la uscat. Traseul spre bisericile Oddernes și Lund trece prin bălți, înainte de a încheia ziua pe faleza Bystranda, unde vântul aduce mirosul sărat al mării.",
+            "en": "We start our bike tour in Stener Heyerdahls Park, where paved paths remain accessible even in the rain. We cycle carefully through Posebyen over the slippery cobblestones. At noon, the Natural History Museum provides the perfect indoor break. The ride towards the churches involves dodging puddles on the bike lanes, ending the day at the windswept Bystranda with a view of the gray waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stener Heyerdahls Park",
+                "hu": "Stener Heyerdahls Park",
+                "ro": "Parcul Stener Heyerdahls",
+                "en": "Stener Heyerdahls Park"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Radwege sind sicher, aber bremsen Sie vor Kurven vorsichtig ab, da nasses Laub auf dem Boden die Wege rutschig machen kann.",
+                "hu": "Az aszfaltozott kerékpárutak biztonságosak, de a kanyarok előtt óvatosan fékezzen, mert a nedves levelek csúszóssá tehetik az utat a parkban.",
+                "ro": "Pistele de biciclete asfaltate sunt sigure, dar frânați cu atenție înainte de curbe, deoarece frunzele ude pot face drumul alunecos în parc.",
+                "en": "The paved bike paths are safe, but brake carefully before curves as wet leaves on the ground can make the paths slippery throughout the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Posebyen",
+                "hu": "Posebyen",
+                "ro": "Posebyen",
+                "en": "Posebyen"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in diesem Viertel langsam; das historische Kopfsteinpflaster ist bei Regen sehr glatt und erfordert volle Konzentration beim Lenken.",
+                "hu": "Haladjon lassan ebben a negyedben; a történelmi macskaköves burkolat esőben nagyon csúszós, és teljes koncentrációt igényel a kormányzásnál.",
+                "ro": "Mergeți încet în acest cartier; pavajul istoric este foarte alunecos pe ploaie și necesită concentrare maximă la manevrarea bicicletei.",
+                "en": "Ride slowly in this district; the historic cobblestone pavement is very slippery in the rain and requires full concentration when steering your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum Universität in Agder",
+                "hu": "Agderi Egyetem Természettudományi Múzeuma",
+                "ro": "Muzeul de Istorie Naturală Universitatea Agder",
+                "en": "Natural History Museum University of Agder"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer am Eingang und trocknen Sie sich im Museum auf, während Sie die botanischen Ausstellungen im Inneren bewundern.",
+                "hu": "Használja a bejáratnál lévő fedett kerékpártárolókat, és szárítkozzon meg a múzeumban, miközben megcsodálja a belső botanikai kiállításokat.",
+                "ro": "Folosiți suporturile de biciclete acoperite de la intrare și uscați-vă în muzeu în timp ce admirați expozițiile botanice din interior.",
+                "en": "Use the covered bike racks at the entrance and dry off inside the museum while admiring the botanical exhibitions in the warm indoor galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Oddernes-Kirche",
+                "hu": "Oddernes Templom",
+                "ro": "Biserica Oddernes",
+                "en": "Oddernes Church"
+              },
+              "tip_5lang": {
+                "de": "Die Wege rund um die Kirche können schlammig sein; stellen Sie Ihr Rad auf festem Untergrund ab und genießen Sie die mystische Ruhe im Regen.",
+                "hu": "A templom körüli utak sarasak lehetnek; állítsa le kerékpárját szilárd talajon, és élvezze a régi kőfalak közötti misztikus nyugalmat az esőben.",
+                "ro": "Drumurile din jurul bisericii pot fi noroioase; parcați bicicleta pe teren solid și bucurați-vă de liniștea mistică printre zidurile vechi de piatră.",
+                "en": "The paths around the church can be muddy; park your bike on solid ground and enjoy the mystical peace among the old stone walls in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lund-Kirche",
+                "hu": "Lund Templom",
+                "ro": "Biserica Lund",
+                "en": "Lund Church"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Stopp bietet Schutz unter den Dachvorsprüngen; achten Sie auf den Verkehr, da die Sicht für Autofahrer bei Regen stark eingeschränkt ist.",
+                "hu": "A rövid megálló alatt az eresz alatt találhat védelmet; figyeljen a forgalomra, mert esőben az autósok látási viszonyai korlátozottabbak.",
+                "ro": "Scurta oprire oferă protecție sub streșini; atenție la trafic, deoarece vizibilitatea șoferilor este mult limitată pe timp de ploaie în zonă.",
+                "en": "The short stop offers protection under the eaves; pay attention to traffic, as visibility for drivers is more limited during heavy rain in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bystranda",
+                "hu": "Bystranda",
+                "ro": "Bystranda",
+                "en": "Bystranda"
+              },
+              "tip_5lang": {
+                "de": "Die Uferpromenade ist windig; halten Sie den Lenker gut fest und freuen Sie sich auf eine heiße Dusche nach dieser erfrischend nassen Küstenfahrt.",
+                "hu": "A tengerparti sétány szeles; fogja erősen a kormányt, és készüljön fel egy forró zuhanyra ezen frissítően vizes tengerparti tekerés után.",
+                "ro": "Faleza este vântoasă; țineți bine ghidonul și pregătiți-vă pentru un duș fierbinte după această plimbare revigorant de umedă pe malul mării.",
+                "en": "The waterfront promenade is windy; hold your handlebars firmly and look forward to a hot shower after this refreshingly wet coastal ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt im frostigen Stener Heyerdahls Park. Wir radeln vorsichtig durch Posebyen, wo die verschneiten Holzhäuser eine zauberhafte Kulisse bilden. Das Naturmuseum bietet mittags eine wohlverdiente Aufwärmpause. Vorbei an den historischen Kirchen führt der Weg durch die klare Winterluft zur Bystranda, wo wir die beleuchtete Küste in der frühen Dunkelheit gegen 17 Uhr erreichen.",
+            "hu": "A téli kerékpártúra a fagyos Stener Heyerdahls parkban indul. Óvatosan tekerünk át Posebyen negyedén, ahol a havas faházak varázslatos hátteret nyújtanak. A Természettudományi Múzeum délben jól megérdemelt meleg pihenőt kínál. A történelmi templomok érintésével a friss téli levegőn haladunk a Bystranda felé, ahol 17 óra körül már sötétben érjük el a kivilágított partot.",
+            "ro": "Turul de iarnă cu bicicleta începe în parcul înghețat Stener Heyerdahls. Pedalam cu grijă prin Posebyen, unde casele de lemn înzăpezite creează un decor magic. Muzeul de Istorie Naturală oferă la prânz o pauză de încălzire binemeritată. Trecând pe lângă bisericile istorice, drumul prin aerul curat duce spre Bystranda, unde ajungem pe faleza luminată în jurul orei 17:00.",
+            "en": "The winter bike tour begins in the frosty Stener Heyerdahls Park. We cycle carefully through Posebyen, where the snowy wooden houses provide a magical backdrop. The Natural History Museum offers a well-deserved warming break at noon. Passing the historic churches, the path leads through the crisp air to Bystranda, reaching the illuminated coast in the dark by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stener Heyerdahls Park",
+                "hu": "Stener Heyerdahls Park",
+                "ro": "Parcul Stener Heyerdahls",
+                "en": "Stener Heyerdahls Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis auf den Wegen; tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm, um sich gegen den kalten Fahrtwind zu schützen.",
+                "hu": "Ügyeljen a fekete jégre az utakon; viseljen szélálló kesztyűt és sapkát a sisak alatt, hogy védekezzen a metsző téli menetszél ellen a parkban.",
+                "ro": "Atenție la gheața neagră de pe drumuri; purtați mănuși rezistente la vânt și o căciulă sub cască pentru a vă proteja de vântul tăios de iarnă.",
+                "en": "Watch out for black ice on the paths; wear windproof gloves and a hat under your helmet to protect yourself from the biting winter wind in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Posebyen",
+                "hu": "Posebyen",
+                "ro": "Posebyen",
+                "en": "Posebyen"
+              },
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster kann unter dem Schnee sehr glatt sein; fahren Sie langsam und genießen Sie die weihnachtliche Beleuchtung in den Fenstern der Häuser.",
+                "hu": "A macskaköves burkolat a hó alatt nagyon csúszós lehet; haladjon lassan, és élvezze a házak ablakaiban tündöklő karácsonyi díszkivilágítást.",
+                "ro": "Pavajul poate fi foarte alunecos sub zăpadă; pedalați încet și bucurați-vă de luminile de Crăciun din ferestrele caselor vechi din acest cartier.",
+                "en": "The cobblestones can be very slippery under the snow; ride slowly and enjoy the festive Christmas lights shining in the windows of the wooden houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum Universität in Agder",
+                "hu": "Agderi Egyetem Természettudományi Múzeuma",
+                "ro": "Muzeul de Istorie Naturală Universitatea Agder",
+                "en": "Natural History Museum University of Agder"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um steif gefrorene Finger wieder aufzuwärmen; parken Sie Ihr Rad in Sichtweite und tauchen Sie in die warme Welt der Naturkunde ein.",
+                "hu": "Tökéletes hely az elgémberedett ujjak felmelegítésére; parkolja le kerékpárját látható helyen, és merüljön el a természettudomány meleg világában.",
+                "ro": "Locul perfect pentru a vă încălzi degetele înghețate; parcați bicicleta la vedere și scufundați-vă în lumea caldă a istoriei naturale înăuntru.",
+                "en": "The perfect place to warm up frozen fingers; park your bike in sight and immerse yourself in the warm world of natural history in the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Oddernes-Kirche",
+                "hu": "Oddernes Templom",
+                "ro": "Biserica Oddernes",
+                "en": "Oddernes Church"
+              },
+              "tip_5lang": {
+                "de": "Die alte Steinkirche wirkt im Schnee besonders ehrwürdig; achten Sie beim Absteigen auf glatte Stellen auf dem Vorplatz und den Friedhofswegen.",
+                "hu": "A régi kőtemplom különösen tiszteletet parancsoló a hóban; leszálláskor ügyeljen a jeges foltokra a templomkertben és a bejárati utaknál.",
+                "ro": "Vechea biserică de piatră pare deosebit de venerabilă în zăpadă; la coborârea de pe bicicletă, atenție la porțiunile înghețate din curte.",
+                "en": "The old stone church looks especially venerable in the snow; when dismounting, watch out for icy patches in the churchyard and the entrance paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Lund-Kirche",
+                "hu": "Lund Templom",
+                "ro": "Biserica Lund",
+                "en": "Lund Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kalter Halt; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es am Nachmittag im Winter sehr schnell dunkel wird.",
+                "hu": "Rövid, hideg megálló; győződjön meg róla, hogy a kerékpáros világítása megfelelően működik, mert télen délután nagyon gyorsan besötétedik.",
+                "ro": "O oprire scurtă și rece; asigurați-vă că luminile bicicletei funcționează corect, deoarece iarna se întunecă foarte repede după-amiaza în Norvegia.",
+                "en": "A short, cold stop; make sure your bike lights are working properly, as it gets dark very quickly in the winter afternoons here in Norway."
+              }
+            },
+            {
+              "name": {
+                "de": "Bystranda",
+                "hu": "Bystranda",
+                "ro": "Bystranda",
+                "en": "Bystranda"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel der Tour in der Dunkelheit; die kalte Meeresbrise ist belebend, aber suchen Sie danach schnell ein warmes Café in der Stadt auf.",
+                "hu": "A túra célpontja a sötétben; a hideg tengeri szellő élénkítő, de a séta után keressen gyorsan egy meleg kávézót a város központjában.",
+                "ro": "Destinația turului pe întuneric; briza rece a mării este revigorantă, dar după plimbare căutați repede o cafenea caldă în centrul orașului.",
+                "en": "The tour destination in the dark; the cold sea breeze is invigorating, but look for a warm cafe in the city center immediately after your ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon be Kristiansandba, a Wergelandsparkenben kezdve, majd egy séta után irány az egyetem természettudományi kiállítása. A delet egy lenyűgöző időutazással töltheti a szabadtéri Kristiansand Múzeumban. A délután a természet szerelmeseit a Gillsvannet nyugodt partjaihoz hívja. Az este közeledtével fedezze fel Kuholmen partvédelmét, mielőtt megpihen a Christiansholm erődnél a tengerparton.",
         "ro": "Conduci spre Kristiansand pornind de la Wergelandsparken, apoi îndreaptă-te spre expozițiile de istorie naturală ale universității. Petrece prânzul întorcându-te în timp la impresionantul muzeu în aer liber. După-amiaza invită iubitorii de natură pe malurile liniștite ale lacului Gillsvannet. Spre seară, explorează apărările de coastă la Kuholmen înainte de a te opri la Christiansholm.",
         "en": "Drive into Kristiansand starting at Wergelandsparken, taking a short stroll before heading to the university’s natural history exhibits. Spend your midday stepping back in time at the impressive open-air Kristiansand Museum. The afternoon invites nature lovers to the tranquil shores of Gillsvannet. As evening approaches, trace coastal defenses at Kuholmen before resting at Christiansholm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bequem im trockenen Auto am Wergelandsparken. Die Fahrt geht weiter zum Naturmuseum und zum Kristiansand Museum, wo wir den Regen im Inneren der Ausstellungen vergessen können. Nach einem kurzen Blick auf das neblige Gillsvannet besuchen wir die Batterie Kuholmen und die Festung Christiansholm, wo wir die Nähe zum Parkplatz für kurze Besichtigungen nutzen.",
+            "hu": "Kényelmesen, a száraz autóban kezdjük a napot a Wergelandsparkennél. Az út a Természettudományi Múzeumba és a Kristiansand Múzeumba vezet, ahol a benti kiállítások között elfelejthetjük a kinti esőt. A ködös Gillsvannet-tó után meglátogatjuk a Kuholmen üteget és a Christiansholm erődöt, kihasználva a közeli parkolók nyújtotta gyors menedéket a záporok között.",
+            "ro": "Începem confortabil în mașina uscată la Wergelandsparken. Drumul continuă spre Muzeul de Istorie Naturală și Muzeul Kristiansand, unde putem uita de ploaie vizitând expozițiile interioare. După o scurtă privire spre lacul Gillsvannet învăluit în ceață, vizităm Bateria Kuholmen și Fortăreața Christiansholm, folosind proximitatea parcărilor pentru vizite scurte.",
+            "en": "We start comfortably in a dry car at Wergelandsparken. The drive continues to the Natural History Museum and the Kristiansand Museum, where indoor exhibitions help us forget the rain. After a quick look at the misty Gillsvannet, we visit the Kuholmen Battery and Christiansholm Fortress, utilizing nearby parking spots for quick sightseeing between the showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wergelandsparken",
+                "hu": "Wergelandsparken",
+                "ro": "Wergelandsparken",
+                "en": "Wergelandsparken"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Straßenrand für einen schnellen Blick auf den Park; ein Regenschirm ist für den kurzen Weg zum Denkmal dennoch unerlässlich.",
+                "hu": "Parkoljon közvetlenül az út szélén egy gyors pillantásra a parkra; az emlékműhöz vezető rövid úton is feltétlenül szükség lesz az esernyőre.",
+                "ro": "Parcați direct la marginea drumului pentru o privire rapidă asupra parcului; umbrela este totuși indispensabilă pentru drumul scurt spre monument.",
+                "en": "Park directly at the roadside for a quick look at the park; an umbrella is still essential even for the short path leading to the central monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum Universität in Agder",
+                "hu": "Agderi Egyetem Természettudományi Múzeuma",
+                "ro": "Muzeul de Istorie Naturală Universitatea Agder",
+                "en": "Natural History Museum University of Agder"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei starkem Regen; das Parken am Museum ist einfach und der kurze Weg zum Eingang schützt Sie vor dem Nasswerden.",
+                "hu": "Ideális megálló heves esőzéskor; a múzeumnál a parkolás egyszerű, és a bejárathoz vezető rövid út megvédi Önt a teljes elázástól.",
+                "ro": "O oprire ideală în caz de ploaie torențială; parcarea la muzeu este ușoară, iar drumul scurt spre intrare vă protejează de umezeală.",
+                "en": "An ideal stop during heavy rain; parking at the museum is easy, and the short path to the entrance protects you from getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristiansand Museum",
+                "hu": "Kristiansand Múzeum",
+                "ro": "Muzeul Kristiansand",
+                "en": "Kristiansand Museum"
+              },
+              "tip_5lang": {
+                "de": "Einige Teile sind im Freien, aber die Haupthalle ist überdacht; tragen Sie wasserfeste Kleidung für den Weg zwischen den historischen Gebäuden.",
+                "hu": "Néhány rész szabadtéri, de a főcsarnok fedett; viseljen vízálló ruházatot a történelmi épületek közötti rövid séta során az esős időben.",
+                "ro": "Unele secțiuni sunt în aer liber, dar holul principal este acoperit; purtați haine impermeabile pentru drumul între clădirile istorice în ploaie.",
+                "en": "Some parts are outdoors, but the main hall is covered; wear waterproof clothing for the short walk between the historic buildings in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Gillsvannet",
+                "hu": "Gillsvannet",
+                "ro": "Gillsvannet",
+                "en": "Gillsvannet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nebligen See direkt aus dem Auto heraus; die Parkplätze am Ufer bieten eine tolle Aussicht ohne nass zu werden.",
+                "hu": "Élvezze a ködös tó látványát közvetlenül az autóból; a part menti parkolók nagyszerű kilátást nyújtanak anélkül, hogy ki kellene szállnia az esőbe.",
+                "ro": "Bucurați-vă de vederea lacului învăluit în ceață direct din mașină; parcările de pe mal oferă o priveliște excelentă fără a fi nevoie să coborâți.",
+                "en": "Enjoy the view of the misty lake directly from your car; the lakeside parking spots offer a great view without the need to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie Kuholmen",
+                "hu": "Kuholmen Üteg",
+                "ro": "Bateria Kuholmen",
+                "en": "Kuholmen Battery"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen schlammig und rutschig sein; parken Sie nah am Zugang und achten Sie auf festen Tritt auf den grasbewachsenen Flächen.",
+                "hu": "Az utak esőben sárosak és csúszósak lehetnek; parkoljon közel a bejárathoz, és ügyeljen a stabil léptekre a füves, vizes területeken.",
+                "ro": "Drumurile pot fi noroioase și alunecoase pe ploaie; parcați aproape de acces și atenție la pașii pe suprafețele înierbate și umede.",
+                "en": "The paths can be muddy and slippery in the rain; park close to the entrance and watch your step on the grassy and wet areas during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm Fortress"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahe Parkhaus und besichtigen Sie die Festung bei Regenpause; die Aussicht auf den grauen Fjord ist auch bei schlechtem Wetter beeindruckend.",
+                "hu": "Használja a közeli parkolóházat, és látogassa meg az erődöt egy esőszünetben; a szürke fjord látványa rossz időben is lenyűgöző a bástyákról.",
+                "ro": "Folosiți parcarea acoperită din apropiere și vizitați fortăreața în pauzele dintre ploi; vederea spre fjord este impresionantă și pe vreme rea.",
+                "en": "Use the nearby parking garage and visit the fortress during a rain break; the view of the gray fjord is impressive even in poor weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Wintertag am Wergelandsparken, während die Autoheizung für wohlige Wärme sorgt. Die Fahrt führt uns zum Naturmuseum und zum Kristiansand Museum, wo wir die Kälte draußen lassen. Nach einem Blick auf das vereiste Gillsvannet besuchen wir die Batterie Kuholmen und beenden den Tag bei Einbruch der Dunkelheit an der Festung Christiansholm, die im Winterlicht besonders stimmungsvoll wirkt.",
+            "hu": "A téli napot a Wergelandsparkennél kezdjük, miközben az autó fűtése gondoskodik a kellemes melegről. Az út a Természettudományi Múzeumba és a Kristiansand Múzeumba vezet, ahol magunk mögött hagyjuk a kinti fagyot. A jeges Gillsvannet-tó megtekintése után ellátogatunk a Kuholmen üteghez, majd a Christiansholm erődnél zárjuk a napot, amely a téli fényekben és a korai sötétben különösen hangulatos.",
+            "ro": "Începem ziua de iarnă la Wergelandsparken, în timp ce încălzirea mașinii asigură un confort plăcut. Drumul ne duce la Muzeul de Istorie Naturală și la Muzeul Kristiansand, unde lăsăm gerul afară. După o privire spre lacul înghețat Gillsvannet, vizităm Bateria Kuholmen și încheiem ziua la Fortăreața Christiansholm, care pare deosebit de atmosferică în lumina iernii.",
+            "en": "We begin the winter day at Wergelandsparken, with the car heater providing cozy warmth. The drive takes us to the Natural History Museum and the Kristiansand Museum, leaving the frost outside. After a look at the icy Gillsvannet lake, we visit the Kuholmen Battery and end the day at Christiansholm Fortress, which looks especially atmospheric in the winter lights and early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wergelandsparken",
+                "hu": "Wergelandsparken",
+                "ro": "Wergelandsparken",
+                "en": "Wergelandsparken"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den schneebedeckten Park vom warmen Auto aus; stellen Sie sicher, dass Ihre Reifen für winterliche, teils glatte Straßenverhältnisse geeignet sind.",
+                "hu": "Csodálja meg a hóval borított parkot a meleg autóból; győződjön meg róla, hogy gumiabroncsai alkalmasak a téli, néhol jeges útviszonyokra.",
+                "ro": "Admirați parcul acoperit de zăpadă din mașina caldă; asigurați-vă că anvelopele sunt potrivite pentru condiții de iarnă și drumuri alunecoase.",
+                "en": "Admire the snow-covered park from the warm car; ensure your tires are suitable for winter and sometimes icy road conditions in the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum Universität in Agder",
+                "hu": "Agderi Egyetem Természettudományi Múzeuma",
+                "ro": "Muzeul de Istorie Naturală Universitatea Agder",
+                "en": "Natural History Museum University of Agder"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem geräumten Museumsparkplatz und genießen Sie die Wärme im Inneren; ein toller Ort, um der klirrenden Winterkälte für eine Weile zu entfliehen.",
+                "hu": "Parkoljon a múzeum letakarított parkolójában, és élvezze a benti meleget; nagyszerű hely, hogy egy időre elmeneküljön a metsző téli hideg elől.",
+                "ro": "Parcați în parcarea deszăpezită a muzeului și bucurați-vă de căldura din interior; un loc excelent pentru a scăpa de gerul de afară pentru o vreme.",
+                "en": "Park in the cleared museum parking lot and enjoy the warmth inside; a great place to escape the biting winter cold for a while in the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristiansand Museum",
+                "hu": "Kristiansand Múzeum",
+                "ro": "Muzeul Kristiansand",
+                "en": "Kristiansand Museum"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gebäude im Schnee sind ein Muss für Fotografen; tragen Sie feste Winterstiefel für die kurzen, teils rutschigen Wege zwischen den Häusern.",
+                "hu": "A hóban álló történelmi épületek kötelező látványt nyújtanak a fotósoknak; viseljen stabil téli bakancsot a házak közötti rövid, néhol csúszós utakon.",
+                "ro": "Clădirile istorice în zăpadă sunt obligatorii pentru fotografi; purtați ghete de iarnă solide pentru drumurile scurte și alunecoase dintre case.",
+                "en": "The historic buildings in the snow are a must-see for photographers; wear sturdy winter boots for the short, sometimes slippery paths between the houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Gillsvannet",
+                "hu": "Gillsvannet",
+                "ro": "Gillsvannet",
+                "en": "Gillsvannet"
+              },
+              "tip_5lang": {
+                "de": "Der vereiste See bietet eine stille Winterkulisse; bleiben Sie im Auto und genießen Sie die Aussicht, da die Uferwege oft tief verschneit und schwer passierbar sind.",
+                "hu": "A jeges tó csendes téli látványt nyújt; maradjon az autóban, és élvezze a kilátást, mert a part menti utak gyakran mély hóval borítottak és nehezen járhatók.",
+                "ro": "Lacul înghețat oferă un decor de iarnă liniștit; rămâneți în mașină și admirați priveliștea, deoarece potecile de pe mal sunt adesea înzăpezite.",
+                "en": "The frozen lake offers a quiet winter backdrop; stay in the car and enjoy the view, as the lakeside paths are often deeply snow-covered and hard to walk on."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie Kuholmen",
+                "hu": "Kuholmen Üteg",
+                "ro": "Bateria Kuholmen",
+                "en": "Kuholmen Battery"
+              },
+              "tip_5lang": {
+                "de": "Die erhöhte Lage bietet einen weiten Blick auf den winterlichen Fjord; achten Sie beim Parken auf Schneehaufen und gehen Sie vorsichtig auf den glatten Felsen.",
+                "hu": "A magaslati helyről tágas kilátás nyílik a téli fjordra; parkoláskor ügyeljen a hókupacokra, és járjon óvatosan a csúszós sziklákon és füves részeken.",
+                "ro": "Locația elevată oferă o vedere largă asupra fjordului iarna; atenție la mormanele de zăpadă la parcare și mergeți cu grijă pe stâncile alunecoase.",
+                "en": "The elevated location offers a wide view of the winter fjord; watch out for snow piles when parking and walk carefully on the slippery rocks and grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm Fortress"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wird es schon gegen 16 Uhr dunkel; genießen Sie die festliche Beleuchtung der Festung und die stimmungsvolle Atmosphäre am Hafenbecken.",
+                "hu": "Télen már 16 óra körül besötétedik; élvezze az erőd ünnepi díszkivilágítását és a kikötő medencéje körüli hangulatos téli atmoszférát az este során.",
+                "ro": "Iarna se întunecă deja în jurul orei 16:00; bucurați-vă de iluminarea festivă a fortăreței și de atmosfera ambientală din jurul portului seara.",
+                "en": "In winter it gets dark around 4 PM; enjoy the festive lighting of the fortress and the atmospheric winter ambiance around the harbor basin in the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

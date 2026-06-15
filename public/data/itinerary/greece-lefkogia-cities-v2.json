@@ -137,6 +137,168 @@
         "hu": "A reggel Lefkogiában egy kedves szamármenedék meglátogatásával indul, majd a történelmi mosóházat csodálhatja meg. Dél körül a part felé sétál, és megpihen a Timios Stavros kilátópontnál. A délután folyamán a gyönyörű Ammoudi strandon frissülhet fel. A napot végül a Mikro Ammoudi békés és természetközeli öblében zárja, ahol zavartalanul pihenhet a naplementében.",
         "ro": "Dimineața în Lefkogia începe cu o vizită la sanctuarul măgarilor, urmată de vechea spălătorie a satului. La prânz, vă îndreptați spre coastă, admirând priveliștea de la Timios Stavros. După-amiaza este dedicată relaxării depline pe frumoasa plajă Ammoudi. Seara se încheie liniștit pe plaja retrasă Mikro Ammoudi, ascultând valurile mării sub lumina caldă a apusului.",
         "en": "Your morning in Lefkogia starts by meeting the gentle residents of the donkey sanctuary, followed by a glimpse into local history at the old washhouse. Around midday, you will hike towards the scenic coast, taking in the panoramic views at Timios Stavros. The afternoon is dedicated to soaking up the sun at Ammoudi Beach, before winding down peacefully at Mikro Ammoudi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen besuchen wir die Esel, deren Ställe Schutz bieten. Mittags dient das alte Waschhaus als perfekter Unterstand vor dem Regen. Am Nachmittag sind die Küstenwege dramatisch, aber die Felsen können durch die Feuchtigkeit rutschig sein. Am Abend, wenn die Dämmerung einsetzt, kehren wir ins Dorf zurück, um bei einem heißen Getränk dem Prasseln des Regens auf den Dächern zu lauschen.",
+            "hu": "Reggel a szamaraknál kezdünk, ahol az istállók némi védelmet nyújtanak. Délben a régi mosóház fedett kőépülete tökéletes menedék a zápor elől. Délután a tengerparti ösvények vadregényesek, de a sziklák csúszósak lehetnek a pára miatt. Este, a szürkület beálltával érdemes visszatérni a faluba egy forró italra, miközben hallgatjuk az eső kopogását a háztetőkön.",
+            "ro": "Dimineața începe la măgăruși, unde grajdurile oferă adăpost. La prânz, vechea spălătorie este refugiul perfect împotriva ploii. După-amiaza, potecile de pe coastă sunt spectaculoase, dar stâncile pot fi alunecoase din cauza umidității. Seara, pe măsură ce se lasă amurgul, ne întoarcem în sat pentru o băutură caldă, ascultând ropotul ploii pe acoperișuri.",
+            "en": "Morning starts with the donkeys, where the stables provide some cover. At noon, the old washhouse offers a perfect stone shelter from the showers. Afternoon coastal paths are wild and dramatic, though rocks may be slippery from the mist. In the evening, as dusk falls, return to the village for a warm drink while listening to the rhythmic sound of rain on the rooftops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esel-Rettungsstation",
+                "hu": "Szamármenedék",
+                "ro": "Sanctuarul Măgarilor",
+                "en": "Donkey Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Esel in ihren trockenen Ställen; es ist ein gemütlicher Weg, den Tieren trotz Regen nah zu sein. Tragen Sie wasserfeste Stiefel für die schlammigen Wege.",
+                "hu": "Látogasd meg a szamarakat a száraz istállókban; ez egy meghitt módja az állatokkal való ismerkedésnek az eső ellenére is. Viselj vízálló bakancsot a sáros részek miatt.",
+                "ro": "Vizitați măgărușii în grajdurile lor uscate; este un mod plăcut de a interacționa cu animalele în ciuda ploii. Purtați cizme impermeabile pentru porțiunile cu noroi.",
+                "en": "Visit the donkeys in their dry stables; it is a cozy way to interact with the animals despite the rain. Wear waterproof boots for the muddy patches on the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Waschhaus",
+                "hu": "Régi Mosóház",
+                "ro": "Vechea Spălătorie",
+                "en": "Old Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Das dicke Steindach bietet exzellenten Schutz; bewundern Sie das historische Mauerwerk während eines Schauers. Achten Sie auf rutschiges Moos auf dem Steinboden.",
+                "hu": "A vastag kőtető kiváló menedéket nyújt; csodáld meg a történelmi falazatot, miközben szárazon maradsz a zápor alatt. Figyelj a csúszós mohára a kőpadlón.",
+                "ro": "Acoperișul gros de piatră oferă un adăpost excelent; admirați zidăria istorică în timp ce rămâneți uscați. Atenție la mușchiul alunecos de pe podeaua de piatră.",
+                "en": "The thick stone roof provides excellent shelter; admire the historical masonry while staying dry during a downpour. Watch for slippery moss on the stone floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros",
+                "hu": "Timios Stavros",
+                "ro": "Timios Stavros",
+                "en": "Timios Stavros"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet einen stimmungsvollen Blick auf das stürmische Meer unter grauen Wolken. Nutzen Sie Wanderstöcke für besseren Halt auf dem nassen, felsigen Pfad.",
+                "hu": "A kapaszkodó hangulatos kilátást nyújt a viharos tengerre a szürke felhők alatt. Használj túrabotot a jobb egyensúly érdekében a nedves, sziklás ösvényen.",
+                "ro": "Urcarea oferă o vedere atmosferică asupra mării înfuriate sub norii cenușii. Folosiți bețe de trekking pentru un echilibru mai bun pe poteca stâncoasă și umedă.",
+                "en": "The climb offers a moody view of the stormy sea under grey clouds. Use hiking poles for extra balance and safety on the wet, rocky coastal trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi Strand",
+                "hu": "Ammoudi Strand",
+                "ro": "Plaja Ammoudi",
+                "en": "Ammoudi Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen aus sicherer Entfernung; der Strand wirkt im Regen rau und schön. Halten Sie Ihre Regenjacke wegen der Gischt fest geschlossen.",
+                "hu": "Figyeld a drámai hullámokat biztonságos távolságból; a strand nyers szépséget mutat az esőben. Tartsd szorosan zárva az esőkabátodat a sós tengeri permet miatt.",
+                "ro": "Observați valurile dramatice de la o distanță sigură; plaja capătă o frumusețe brută în ploaie. Păstrați jacheta de ploaie închisă bine împotriva spray-ului marin.",
+                "en": "Watch the dramatic waves from a safe distance; the beach takes on a rugged beauty in the rain. Keep your waterproof jacket zipped tight against the salty sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikro Ammoudi FKK-Strand",
+                "hu": "Mikro Ammoudi Nudista Strand",
+                "ro": "Plaja de Nudiști Mikro Ammoudi",
+                "en": "Mikro Ammoudi Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Dieser abgelegene Ort fühlt sich bei Regen noch privater an; lauschen Sie den Tropfen auf dem Meer. Bleiben Sie nicht zu lange, falls der Wind aus Süden auffrischt.",
+                "hu": "Ez az eldugott hely még privátabbnak tűnik esőben; hallgasd a tenger felszínén koppanó cseppeket. Ne maradj túl sokáig, ha a szél felerősödne déli irányból.",
+                "ro": "Acest loc retras pare și mai privat când plouă; ascultați picăturile lovind suprafața mării. Nu zăboviți prea mult dacă vântul începe să bată dinspre sud.",
+                "en": "This secluded spot feels even more private when it rains; listen to the raindrops hitting the sea surface. Don't stay too long if the wind starts to pick up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Morgenluft macht das Füttern der Esel zu einem wärmenden Erlebnis. Mittags spazieren wir durch die stillen Gassen des Dorfes und genießen die milde Wintersonne. Am Nachmittag wandern wir zum Timios Stavros, von wo aus die Sicht auf das Meer kristallklar ist. Da es bereits gegen 17:00 Uhr dunkel wird, kehren wir früh in eine gemütliche Unterkunft zurück.",
+            "hu": "A friss reggeli levegőben a szamarak etetése melengető élmény. Délben a falu csendes utcáit járjuk át, élvezve a téli napsütés gyenge erejét. Délután a Timios Stavros felé vesszük az irányt, ahonnan tiszta a kilátás a tengerre. Este korán, már öt órakor leszáll az éj, így érdemes időben behúzódni egy barátságos szállásra.",
+            "ro": "Aerul proaspăt de dimineață face ca hrănirea măgărușilor să fie o experiență caldă. La prânz, parcurgem străzile liniștite ale satului, bucurându-ne de soarele blând de iarnă. După-amiaza urcăm spre Timios Stavros, de unde vizibilitatea spre mare este perfectă. Seara, deoarece se întunecă la ora 17:00, ne retragem devreme într-o gazdă primitoare.",
+            "en": "The crisp morning air makes feeding the donkeys a heartwarming experience. At noon, we stroll through the quiet village streets, enjoying the mild winter sun. In the afternoon, we head to Timios Stavros, where the clear air offers panoramic sea views. Since it gets dark by 17:00, it is best to find a cozy indoor spot early in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esel-Rettungsstation",
+                "hu": "Szamármenedék",
+                "ro": "Sanctuarul Măgarilor",
+                "en": "Donkey Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Helfen Sie bei der Winterfütterung; die Esel sind bei kühlerem Wetter viel aktiver. Kleiden Sie sich in Schichten, da der Wind im Winter beißend sein kann.",
+                "hu": "Segíts a téli etetésben; a szamarak sokkal aktívabbak a hűvösebb időben. Öltözz rétegesen, mert a téli szél néha metsző lehet a nyílt terepen.",
+                "ro": "Ajutați la hrănirea de iarnă; măgărușii sunt mult mai activi pe vreme răcoroasă. Îmbrăcați-vă în straturi, deoarece vântul de iarnă poate fi tăios.",
+                "en": "Help with the winter feeding routine; the donkeys are much more active in the cooler weather. Dress in warm layers as the wind can be quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Waschhaus",
+                "hu": "Régi Mosóház",
+                "ro": "Vechea Spălătorie",
+                "en": "Old Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Dorfgeschichte abseits der Sommermassen zu spüren. Bringen Sie eine Thermoskanne mit heißem Tee mit, um ihn in dieser Steinnische zu genießen.",
+                "hu": "Csendes hely a falu történetének felfedezéséhez a nyári tömeg nélkül. Vigyél magaddal egy termosz forró teát, és élvezd a nyugalmat ebben a kőfülkében.",
+                "ro": "Un loc liniștit pentru a simți istoria satului departe de mulțimile de vară. Aduceți un termos cu ceai fierbinte pentru a-l savura în această nișă de piatră.",
+                "en": "A quiet spot to appreciate village history away from the summer crowds. Bring a thermos of hot tea to enjoy in the peaceful atmosphere of this stone alcove."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros",
+                "hu": "Timios Stavros",
+                "ro": "Timios Stavros",
+                "en": "Timios Stavros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die weite Sicht über die Küste. Steigen Sie unbedingt vor dem Sonnenuntergang um 17:00 Uhr ab, um die Dunkelheit zu vermeiden.",
+                "hu": "Élvezd a friss téli levegőt és a tiszta kilátást a partvidékre. Mindenképpen ereszkedj le az ötkor kezdődő naplemente előtt, hogy elkerüld a sötétben botorkálást.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă și de vizibilitatea clară asupra coastei. Coborâți neapărat înainte de apusul de la ora 17:00 pentru a evita întunericul.",
+                "en": "Enjoy the crisp air and clear winter horizons that allow you to see far across the coast. Be sure to descend before the 17:00 sunset to avoid the darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi Strand",
+                "hu": "Ammoudi Strand",
+                "ro": "Plaja Ammoudi",
+                "en": "Ammoudi Beach"
+              },
+              "tip_5lang": {
+                "de": "Der menschenleere Strand ist perfekt für einen ruhigen Spaziergang; der Sand ist im Winter kalt, lassen Sie Ihre Schuhe also unbedingt an.",
+                "hu": "A kihalt tengerpart tökéletes egy békés sétához; a homok télen hideg, így mindenképpen hagyd magadon a bakancsodat a séta közben.",
+                "ro": "Plaja pustie este perfectă pentru o plimbare liniștită; nisipul este rece iarna, așa că păstrați neapărat încălțămintea în picioare.",
+                "en": "The deserted beach is perfect for a peaceful stroll; the sand is very cold in winter, so keep your boots on while walking along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikro Ammoudi FKK-Strand",
+                "hu": "Mikro Ammoudi Nudista Strand",
+                "ro": "Plaja de Nudiști Mikro Ammoudi",
+                "en": "Mikro Ammoudi Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein verstecktes Juwel für stille Momente; im Januar haben Sie die Bucht ganz für sich. Planen Sie den Rückweg bis 16:30 Uhr ein, bevor es dunkel wird.",
+                "hu": "Rejtett drágakő a csendes elmélkedéshez; januárban valószínűleg egyedül leszel az egész öbölben. Indulj vissza legkésőbb fél ötkor a sötétedés előtt.",
+                "ro": "O bijuterie ascunsă pentru momente de liniște; în ianuarie veți avea întregul golf doar pentru voi. Planificați întoarcerea până la 16:30, înainte de amurg.",
+                "en": "A hidden gem for quiet reflection; in January you will likely have the entire cove to yourself. Plan to head back by 16:30 before the early darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A napot a történelmi mosóháznál kezdi, majd átteker a helyi szamármenedékhez. Délben felfedezi a lenyűgöző Preveli kőhidat és a közeli alsó kolostort, elmerülve a sziget gazdag múltjában. Délután a Timios Stavros kilátóhoz kerékpározik, ahonnan pazar tengerparti panoráma fogadja. A nap fáradalmait végül a festői Skinaria strandon, a kristálytiszta habok között pihenheti ki.",
         "ro": "Începeți ziua la vechea spălătorie, apoi pedalați spre sanctuarul de măgari. La prânz, explorați podul istoric Preveli și mănăstirea inferioară din apropiere, o adevărată comoară arhitecturală. După-amiaza vă duce la Timios Stavros pentru priveliști panoramice spectaculoase. Vă veți încheia ziua relaxându-vă complet pe nisipul fin al minunatei plaje Skinaria.",
         "en": "Start your day cycling to the historic washhouse and the heartwarming donkey sanctuary. Midday brings you to the fascinating Preveli Bridge and the historically significant Lower Monastery. In the afternoon, you will pedal towards the rugged coast to enjoy the views at Timios Stavros, before finishing your active day with a well-deserved swim at beautiful Skinaria Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen radeln wir vorsichtig auf dem nassen Asphalt und achten auf die Kurven. Mittags suchen wir an der Preveli-Brücke und dem Kloster Schutz vor intensiven Schauern. Am Nachmittag kann der Wind an der Küste auffrischen, halten Sie den Lenker gut fest. Am Abend, nach den schlammigen Wegen, warten eine Reinigung des Rads und ein heißes Bad im Dorf.",
+            "hu": "Reggel óvatosan vágunk bele a kerékpározásba a nedves aszfalton, figyelve a kanyarokra. Délben a Preveli hídnál és a kolostornál keresünk fedezéket, ha eleredne az intenzív eső. Délután a szél felerősödhet a tengerparton, így érdemes stabilan fogni a kormányt. Este, a sáros utak után alapos tisztítás és egy forró fürdő vár ránk a faluban.",
+            "ro": "Dimineața pedalăm cu atenție pe asfaltul umed, fiind atenți la curbe. La prânz căutăm adăpost la podul Preveli și la mănăstire dacă începe o ploaie intensă. După-amiaza vântul se poate intensifica pe coastă, deci țineți bine ghidonul. Seara, după drumurile noroioase, ne așteaptă curățarea bicicletei și o baie fierbinte în sat.",
+            "en": "Morning cycling requires caution on wet asphalt, especially on the bends. At noon, seek shelter at Preveli Bridge or the monastery during heavy showers. In the afternoon, winds may pick up along the coast, so keep a firm grip on the handlebars. In the evening, after the muddy trails, clean your bike and enjoy a hot bath in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altes Waschhaus",
+                "hu": "Régi Mosóház",
+                "ro": "Vechea Spălătorie",
+                "en": "Old Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab; das Waschhaus ist ein großartiger Ort, um einen Regenschauer trocken abzuwarten. Vorsicht vor rutschigen Pflastersteinen.",
+                "hu": "Támaszd le a bringát az eresz alá; a mosóház remek hely a záporok száraz átvészeléséhez. Vigyázz a kerékpárral a vizes, csúszós macskaköveken.",
+                "ro": "Parcați bicicleta sub streașină; spălătoria este un loc excelent pentru a aștepta trecerea ploii la adăpost. Atenție la pietrele umede și alunecoase.",
+                "en": "Park your bike under the overhang; the washhouse is a great spot to wait out a shower while staying dry. Be careful with your bike on the slippery wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Esel-Rettungsstation",
+                "hu": "Szamármenedék",
+                "ro": "Sanctuarul Măgarilor",
+                "en": "Donkey Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Die Esel freuen sich auch bei Regen über Besuch; die Ställe bieten trockenen Raum für Interaktion. Achten Sie auf matschige Reifen beim Verlassen des Geländes.",
+                "hu": "A szamarak esőben is örülnek a látogatásnak; az istállók száraz helyet biztosítanak az ismerkedéshez. Figyelj a sáros gumikra a terület elhagyásakor.",
+                "ro": "Măgărușii se bucură de vizite și pe ploaie; grajdurile oferă un spațiu uscat pentru interacțiune. Atenție la anvelopele pline de noroi la plecare.",
+                "en": "The donkeys appreciate visitors even in the rain; the stables provide a dry area for interaction. Watch out for muddy tires when leaving the sanctuary grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Preveli Brücke",
+                "hu": "Preveli Híd",
+                "ro": "Podul Preveli",
+                "en": "Preveli Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die alte Steinbrücke sieht bei Regen majestätisch aus; ideal für Fotos. Überqueren Sie die Brücke zu Fuß, da die nassen Steine für Reifen extrem rutschig sind.",
+                "hu": "Az ősi kőhíd méltóságteljesen fest az esőben; ideális fotótéma. Gyalog kelj át rajta, mert a nedves kövek a kerékpárguminak rendkívül csúszósak.",
+                "ro": "Podul vechi de piatră arată maiestuos în ploaie; ideal pentru fotografii. Traversați podul pe lângă bicicletă, deoarece pietrele ude sunt foarte alunecoase.",
+                "en": "The ancient stone bridge looks majestic in the rain; perfect for moody photos. Cross the bridge on foot as the wet stones are extremely slick for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Unteres Preveli-Kloster",
+                "hu": "Alsó Preveli Kolostor",
+                "ro": "Mănăstirea Inferioară Preveli",
+                "en": "Lower Preveli Monastery"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen; die dicken Mauern schützen gut vor Wind und Regen. Ein Poncho ist beim Bewegen zwischen den Gebäuden auf dem Rad sehr praktisch.",
+                "hu": "Fedezd fel a romokat; a vastag falak jól védenek a szél és az eső ellen. Egy esőponcsó nagyon praktikus a bringán az épületek közötti mozgáshoz.",
+                "ro": "Explorați ruinele; zidurile groase protejează bine de vânt și ploaie. O pelerină de ploaie este foarte practică pentru deplasarea între clădiri.",
+                "en": "Explore the ruins; the thick stone walls offer good protection from wind and rain. A rain poncho is very practical for moving between buildings on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros",
+                "hu": "Timios Stavros",
+                "ro": "Timios Stavros",
+                "en": "Timios Stavros"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das stürmische Libysche Meer ist von hier oben beeindruckend. Seien Sie vorsichtig bei der Abfahrt auf dem nassen Schotter; bremsen Sie frühzeitig.",
+                "hu": "A viharos Líbiai-tenger látványa innen fentről lenyűgöző. Légy óvatos a leereszkedésnél a nedves murvás úton; fékezz időben a kanyarok előtt.",
+                "ro": "Vederea asupra mării învolburate este impresionantă de aici de sus. Atenție la coborâre pe pietrișul umed; frânați din timp înaintea curbelor.",
+                "en": "The view of the stormy Libyan Sea from up here is stunning. Be extra cautious during the descent on wet gravel roads; start braking early before turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Skinaria Strand",
+                "hu": "Skinaria Strand",
+                "ro": "Plaja Skinaria",
+                "en": "Skinaria Beach"
+              },
+              "tip_5lang": {
+                "de": "Das türkisfarbene Wasser bildet einen tollen Kontrast zum grauen Himmel. Sichern Sie Ihr Rad gut gegen den Wind, bevor Sie einen kurzen Strandgang machen.",
+                "hu": "A türkizkék víz nagyszerű kontrasztot alkot a szürke égbolttal. Rögzítsd stabilan a bringát a szél ellen, mielőtt egy rövid sétát tennél a parton.",
+                "ro": "Apa turcoaz creează un contrast superb cu cerul cenușiu. Fixați bine bicicleta împotriva vântului înainte de a face o scurtă plimbare pe plajă.",
+                "en": "The turquoise water creates a great contrast with the grey sky. Secure your bike firmly against the wind before taking a short walk on the empty beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im kühlen Morgenwind ist beim Treten eine Schichtkleidung unerlässlich. Mittags ruhen wir uns im Kloster aus, wo die Steinmauern vor dem Durchzug schützen. Am Nachmittag radeln wir zur Skinaria-Bucht und genießen die leeren Straßen. Da es um 17:00 Uhr dunkel wird, kehren wir bereits mit eingeschaltetem Licht nach Lefkogia zurück.",
+            "hu": "A hűvös reggeli szélben jól jön a réteges öltözet a pedálozás közben. Délben a kolostor falai között pihenünk meg, ahol a kőfalak védenek a huzattól. Délután a Skinaria öböl felé tekerünk, élvezve a kihalt utakat és a tiszta panorámát. Este, mivel ötkor sötétedik, már lámpákkal felszerelve érünk vissza Lefkogiába.",
+            "ro": "În vântul răcoros de dimineață, îmbrăcămintea în straturi este esențială la pedalat. La prânz ne odihnim între zidurile mănăstirii, care ne protejează de curent. După-amiaza pedalăm spre golful Skinaria, bucurându-ne de drumurile pustii. Seara, deoarece se întunecă la ora 17:00, ne întoarcem în Lefkogia cu luminile aprinse.",
+            "en": "In the cool morning wind, layered clothing is essential while pedaling. At noon, we rest within the monastery walls, where the stone protects us from drafts. In the afternoon, we cycle towards Skinaria Bay, enjoying the empty roads. Since it gets dark by 17:00, we return to Lefkogia with our lights already turned on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altes Waschhaus",
+                "hu": "Régi Mosóház",
+                "ro": "Vechea Spălătorie",
+                "en": "Old Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Eine windgeschützte Ecke für eine kurze Pause im Winter; die kühle Steinarchitektur ist sehr fotogen. Trinken Sie einen warmen Tee aus Ihrer Thermoskanne.",
+                "hu": "Szélvédett sarok egy rövid téli pihenőhöz; a hűvös kőépítészet nagyon fotogén ilyenkor. Igyál egy forró teát a termoszodból a pihenő alatt.",
+                "ro": "Un colț ferit de vânt pentru o scurtă pauză de iarnă; arhitectura de piatră este foarte fotogenică. Beți un ceai cald din termos în timpul popasului.",
+                "en": "A wind-sheltered corner for a short winter break; the cool stone architecture is very photogenic. Sip some hot tea from your thermos during your stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Esel-Rettungsstation",
+                "hu": "Szamármenedék",
+                "ro": "Sanctuarul Măgarilor",
+                "en": "Donkey Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Die Esel sind im Winter aktiver und freuen sich über Zuwendung; das Füttern hält auch Sie warm. Achten Sie auf den kalten Fahrtwind bei der Anfahrt.",
+                "hu": "A szamarak télen aktívabbak és örülnek a figyelemnek; az etetés téged is melegen tart. Figyelj a hideg menetszélre a menedékhely felé tekerve.",
+                "ro": "Măgărușii sunt mai activi iarna și se bucură de atenție; hrănirea vă va ține și pe voi de cald. Atenție la vântul rece în timpul deplasării.",
+                "en": "The donkeys are more active in winter and enjoy the attention; feeding them will keep you warm too. Watch out for the cold headwind while cycling here."
+              }
+            },
+            {
+              "name": {
+                "de": "Preveli Brücke",
+                "hu": "Preveli Híd",
+                "ro": "Podul Preveli",
+                "en": "Preveli Bridge"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den hohen Wasserstand des Flusses, ein seltener Anblick im Vergleich zum Sommer. Tragen Sie eine winddichte Jacke für die exponierte Brücke.",
+                "hu": "Figyeld meg a folyó magas vízállását, ami ritka látvány a száraz nyárhoz képest. Viselj szélálló kabátot, mert a hídon erősen fújhat a téli szél.",
+                "ro": "Observați nivelul ridicat al râului, o priveliște rară față de vara secetoasă. Purtați o jachetă rezistentă la vânt pentru trecerea peste pod.",
+                "en": "Observe the river's high water levels, a sight rarely seen in the dry summer months. Wear a windbreaker jacket as the bridge is very exposed to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Unteres Preveli-Kloster",
+                "hu": "Alsó Preveli Kolostor",
+                "ro": "Mănăstirea Inferioară Preveli",
+                "en": "Lower Preveli Monastery"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die spirituelle Stille ohne den Sommertrubel; das Winterlicht betont die Steinstrukturen. Ein toller Ort für eine meditative Pause im Sattel.",
+                "hu": "Éld át a spirituális csendet a nyári nyüzsgés nélkül; a téli fény kiemeli a kövek textúráját. Remek hely egy meditatív pihenőre a nyeregben.",
+                "ro": "Experimentați liniștea spirituală fără agitația verii; lumina de iarnă scoate în evidență textura pietrei. Un loc excelent pentru o pauză meditativă.",
+                "en": "Experience the spiritual silence without the summer bustle; the winter light highlights the stone textures. A great place for a meditative break from the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros",
+                "hu": "Timios Stavros",
+                "ro": "Timios Stavros",
+                "en": "Timios Stavros"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Fernsichten bis zum Horizont. Planen Sie Ihre Abfahrt vor 16:30 Uhr, damit Sie nicht im Dunkeln bergab radeln müssen.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé egészen a horizontig. Tervezd a visszaindulást fél öt előtt, hogy ne sötétben kelljen lefelé tekerned.",
+                "ro": "Aerul curat de iarnă permite vederi panoramice până la orizont. Planificați coborârea înainte de 16:30 pentru a nu pedala la vale pe întuneric.",
+                "en": "The clear winter air allows for expansive views all the way to the horizon. Plan to head back by 16:30 so you don't have to cycle downhill in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Skinaria Strand",
+                "hu": "Skinaria Strand",
+                "ro": "Plaja Skinaria",
+                "en": "Skinaria Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an der Küste; das Wasser ist zu kalt zum Schwimmen, aber herrlich klar. Der winterliche Sonnenuntergang hier ist besonders farbenfroh.",
+                "hu": "Élvezd a tengerparti magányt; a víz túl hideg az úszáshoz, de gyönyörűen tiszta. A téli naplemente itt különösen színes és megéri a fázást.",
+                "ro": "Bucurați-vă de singurătatea coastei; apa este prea rece pentru înot, dar superb de clară. Apusul de iarnă aici este deosebit de colorat și merită frigul.",
+                "en": "Enjoy the solitude of the coast; the water is too cold for swimming but remains beautifully clear. The winter sunset here is particularly colorful and vibrant."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az utazás a kedves szamármenedék és a történelmi falu központi mosóházának meglátogatásával indul. Dél körül a velencei Preveli hídhoz és a lenyűgöző alsó kolostorhoz autózik, ahol megismerheti Kréta múltját. Délután a Timios Stavros kilátópont felé veszi az irányt, majd megérkezik a mesés partvidékre. A nap végét az Ammoudi és Skinaria strandok kristálytiszta vizénél élvezheti.",
         "ro": "Călătoria începe liniștit la sanctuarul de măgari și la spălătoria istorică din Lefkogia. La prânz, conduceți spre podul venețian Preveli și impresionanta mănăstire inferioară. După-amiaza, mașina vă duce la punctul de belvedere Timios Stavros și apoi coborâți pe coasta idilică. Încheiați ziua perfect relaxându-vă la plajele spectaculoase Ammoudi și Skinaria.",
         "en": "Your drive begins with visits to the charming donkey sanctuary and the traditional village washhouse. Midday takes you inland to discover the Venetian Preveli Bridge and the solemn Lower Monastery. In the afternoon, you will cruise towards the scenic coast, stopping at Timios Stavros for sweeping vistas, before spending your evening relaxing at Ammoudi and Skinaria beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen erreichen wir mit dem Auto bequem die Esel-Rettungsstation und vermeiden Pfützen. Mittags bietet das Auto während des Klosterbesuchs trockenen Schutz vor plötzlichen Schauern. Am Nachmittag steigen wir an den Küstenaussichtspunkten nur kurz für die frische Regenluft aus. Am Abend beobachten wir den Regen aus dem Fenster einer Taverne und wissen das Auto sicher geparkt.",
+            "hu": "Reggel autóval kényelmesen közelítjük meg a szamármenedéket, elkerülve a nagyobb pocsolyákat. Délben a kolostor látogatása közben az autó száraz menedéket nyújt a hirtelen záporok alatt. Délután a tengerparti kilátópontokon csak rövid időre szállunk ki a friss, esőillatú levegőre. Este a falusi taverna ablakából nézzük az esőt, biztonságban tudva a járművet.",
+            "ro": "Dimineața ajungem confortabil cu mașina la sanctuarul măgărușilor, evitând bălțile mari. La prânz, în timpul vizitei la mănăstire, mașina oferă un adăpost uscat împotriva ploilor bruște. După-amiaza coborâm doar scurt la punctele de belvedere pentru aerul proaspăt de după ploaie. Seara privim ploaia de la fereastra unei taverne, cu mașina parcată în siguranță.",
+            "en": "In the morning, drive comfortably to the donkey sanctuary, easily avoiding large puddles. At noon, your car provides a dry haven during sudden showers while visiting the monastery. In the afternoon, step out only briefly at coastal viewpoints to enjoy the fresh, rain-scented air. In the evening, watch the rain from a cozy tavern window, knowing your car is parked safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esel-Rettungsstation",
+                "hu": "Szamármenedék",
+                "ro": "Sanctuarul Măgarilor",
+                "en": "Donkey Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Grund, um Matsch zu vermeiden; die Esel freuen sich in den trockenen Ställen über Besuch. Ein Regenschirm ist für den Weg vom Auto nützlich.",
+                "hu": "Parkolj szilárd talajon, hogy elkerüld a sarat; a szamarak a száraz istállókban várják a látogatókat. Egy esernyő hasznos lesz az autótól a bejáratig.",
+                "ro": "Parcați pe teren solid pentru a evita noroiul; măgărușii vă așteaptă în grajdurile uscate. O umbrelă este utilă pentru drumul de la mașină la intrare.",
+                "en": "Park on firm ground to avoid the mud; the donkeys await visitors in their dry stables. An umbrella is very useful for the short walk from your car to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Waschhaus",
+                "hu": "Régi Mosóház",
+                "ro": "Vechea Spălătorie",
+                "en": "Old Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Das massive Steindach bietet perfekten Schutz vor Regen; parken Sie nah am Eingang. Genießen Sie die kühle, feuchte Atmosphäre der historischen Anlage.",
+                "hu": "A masszív kőtető tökéletes védelmet nyújt az eső ellen; parkolj minél közelebb a bejárathoz. Élvezd a történelmi helyszín hűvös, párás hangulatát.",
+                "ro": "Acoperișul masiv de piatră oferă protecție perfectă împotriva ploii; parcați aproape de intrare. Bucurați-vă de atmosfera umedă și istorică a locului.",
+                "en": "The massive stone roof provides perfect protection from the rain; park as close to the entrance as possible. Enjoy the cool, damp atmosphere of this historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Preveli Brücke",
+                "hu": "Preveli Híd",
+                "ro": "Podul Preveli",
+                "en": "Preveli Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Steinbrücke wirkt bei Regen besonders alt und mystisch; perfekt für Fotos direkt vom Parkplatz aus. Achten Sie auf rutschige Stellen beim kurzen Aussteigen.",
+                "hu": "A kőhíd esőben különösen réginek és misztikusnak tűnik; a parkolóból is remekül fotózható. Figyelj a csúszós részekre, amikor kiszállsz körülnézni.",
+                "ro": "Podul de piatră pare deosebit de vechi și mistic în ploaie; se poate fotografia excelent chiar din parcare. Atenție la zonele alunecoase când coborâți.",
+                "en": "The stone bridge looks especially ancient and mystical in the rain; it's great for photos right from the parking area. Watch for slippery spots when you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Unteres Preveli-Kloster",
+                "hu": "Alsó Preveli Kolostor",
+                "ro": "Mănăstirea Inferioară Preveli",
+                "en": "Lower Preveli Monastery"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Kapelle, während es draußen regnet; die dicken Mauern dämpfen das Geräusch der Tropfen. Halten Sie die Autotüren bei Windstößen fest.",
+                "hu": "Fedezd fel a kápolnát, miközben kint esik; a vastag falak tompítják az esőcseppek kopogását. Erős széllökések esetén kapaszkodj meg az autóajtóba.",
+                "ro": "Explorați capela în timp ce afară plouă; zidurile groase atenuează sunetul picăturilor. țineți bine de portierele mașinii în caz de rafale de vânt.",
+                "en": "Explore the chapel while it rains outside; the thick walls dampen the sound of the raindrops. Hold onto your car doors firmly during sudden gusts of wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros",
+                "hu": "Timios Stavros",
+                "ro": "Timios Stavros",
+                "en": "Timios Stavros"
+              },
+              "tip_5lang": {
+                "de": "Die stürmische Aussicht auf das Meer ist dramatisch; nutzen Sie das Auto als Beobachtungspunkt. Gehen Sie nur mit gutem Schuhwerk auf den nassen Felsen.",
+                "hu": "A viharos kilátás a tengerre drámai; használd az autót megfigyelőpontként a záporok alatt. Csak megfelelő cipőben merészkedj a nedves sziklákra.",
+                "ro": "Vederea învolburată asupra mării este dramatică; folosiți mașina ca punct de observație. Aventurați-vă pe stâncile umede doar cu încălțăminte adecvată.",
+                "en": "The stormy view of the sea is dramatic; use your car as a sheltered observation point. Only venture onto the wet rocks if you have sturdy, grippy footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi Strand",
+                "hu": "Ammoudi Strand",
+                "ro": "Plaja Ammoudi",
+                "en": "Ammoudi Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen bequem von Ihrem Sitz aus; der Strand ist im Regen menschenleer. Lüften Sie das Auto kurz, um beschlagene Scheiben zu vermeiden.",
+                "hu": "Figyeld a hullámokat kényelmesen az ülésedből; a strand esőben teljesen kihalt. Szellőztesd át az autót rövid időre, hogy elkerüld a szélvédő párásodását.",
+                "ro": "Observați valurile confortabil din scaunul mașinii; plaja este complet pustie pe ploaie. Aerisiți scurt mașina pentru a evita aburirea geamurilor.",
+                "en": "Watch the crashing waves comfortably from your seat; the beach is completely deserted in the rain. Briefly vent the car to prevent the windows from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Skinaria Strand",
+                "hu": "Skinaria Strand",
+                "ro": "Plaja Skinaria",
+                "en": "Skinaria Beach"
+              },
+              "tip_5lang": {
+                "de": "Das türkisfarbene Wasser leuchtet auch unter grauem Himmel; ein faszinierender Anblick. Bleiben Sie für die besten Fotos im Schutz der offenen Heckklappe.",
+                "hu": "A türkizkék víz szinte világít a szürke ég alatt; lenyűgöző látvány esőben is. Maradj a nyitott csomagtartó védelmében a legjobb fotók elkészítéséhez.",
+                "ro": "Apa turcoaz strălucește chiar și sub cerul gri; o priveliște fascinantă. Rămâneți sub protecția hayonului deschis pentru a face cele mai bune fotografii.",
+                "en": "The turquoise water almost glows under the grey sky; a fascinating sight in the rain. Stay under the cover of the open trunk to take the best scenic photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Autoheizung ist die Morgenkälte kein Hindernis, und wir kommen frisch bei den Eseln an. Mittags spazieren wir an der Preveli-Brücke und genießen die Stille des Klosters. Am Nachmittag fahren wir die Küstenserpentinen entlang und genießen das warme Licht der frühen Wintersonne. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag gemütlich im beleuchteten Lefkogia.",
+            "hu": "A fűtött autóban ülve a reggeli hideg nem akadály, így frissen érkezünk az állatokhoz. Délben a Preveli híd környékén sétálunk, majd a kolostor csendjében merülünk el. Délután a part menti szerpentineken autózunk a lemenő nap fényében, ami télen korán érkezik. Este, a sötétedés után Lefkogia kivilágított házai között zárjuk a napot.",
+            "ro": "Datorită încălzirii din mașină, frigul dimineții nu este un obstacol și ajungem proaspeți la măgăruși. La prânz ne plimbăm pe lângă podul Preveli și ne bucurăm de liniștea mănăstirii. După-amiaza conducem pe serpentinele de pe coastă în lumina caldă a soarelui de iarnă. Seara, după ora 17:00, încheiem ziua în Lefkogia luminată.",
+            "en": "With the car heater on, the morning chill is no obstacle as we arrive fresh at the sanctuary. At noon, we stroll around Preveli Bridge and soak in the monastery's silence. In the afternoon, we drive along the coastal serpentines in the early winter golden hour. Since it gets dark by 17:00, we end the day among the lit houses of Lefkogia."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Esel-Rettungsstation",
+                "hu": "Szamármenedék",
+                "ro": "Sanctuarul Măgarilor",
+                "en": "Donkey Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Helfen Sie bei der Winterfütterung; die Esel sind in der kühlen Luft sehr lebhaft. Parken Sie so, dass Sie schnell wieder ins warme Auto schlüpfen können.",
+                "hu": "Segíts a téli etetésben; a szamarak nagyon élénkek a hűvös levegőn. Parkolj úgy, hogy a látogatás után gyorsan vissza tudj bújni a fűtött autóba.",
+                "ro": "Ajutați la hrănirea de iarnă; măgărușii sunt foarte vioi în aerul răcoros. Parcați astfel încât să puteți reveni rapid în căldura mașinii după vizită.",
+                "en": "Help with the winter feeding; the donkeys are very lively in the cool air. Park in a way that allows you to quickly hop back into your warm car after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Waschhaus",
+                "hu": "Régi Mosóház",
+                "ro": "Vechea Spălătorie",
+                "en": "Old Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Winterkälte; ein kurzer, stimmungsvoller Stopp. Nehmen Sie einen heißen Kaffee im Auto mit, um ihn hier zu genießen.",
+                "hu": "A vastag kőfalak tartják a téli hideget; egy rövid, hangulatos megálló a falu szélén. Vigyél magaddal forró kávét az autóban, és élvezd itt a nyugalmat.",
+                "ro": "Zidurile groase de piatră mențin frigul iernii; o oprire scurtă și atmosferică. Luați o cafea fierbinte în mașină pentru a o savura în liniște aici.",
+                "en": "The thick stone walls hold the winter chill; it's a short but atmospheric stop. Bring a hot coffee in the car to enjoy while soaking in the local history here."
+              }
+            },
+            {
+              "name": {
+                "de": "Preveli Brücke",
+                "hu": "Preveli Híd",
+                "ro": "Podul Preveli",
+                "en": "Preveli Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss führt im Winter viel Wasser; ein toller Anblick direkt von der Straße aus. Nutzen Sie das klare Winterlicht für gestochen scharfe Landschaftsfotos.",
+                "hu": "A folyó télen sok vizet szállít; remek látvány közvetlenül az út mellől is. Használd ki a tiszta téli fényeket a tűéles tájképek készítéséhez.",
+                "ro": "Râul are un debit mare iarna; o priveliște excelentă chiar de lângă drum. Profitați de lumina clară de iarnă pentru fotografii de peisaj foarte clare.",
+                "en": "The river carries a lot of water in winter; a great sight right from the roadside. Take advantage of the clear winter light for sharp landscape photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Unteres Preveli-Kloster",
+                "hu": "Alsó Preveli Kolostor",
+                "ro": "Mănăstirea Inferioară Preveli",
+                "en": "Lower Preveli Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Stille ist im Winter ohne Touristen fast greifbar; die Anlage wirkt zeitlos. Genießen Sie die Einsamkeit, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "A spirituális csend télen, turisták nélkül szinte tapintható; a helyszín időtlennek tűnik. Élvezd a magányt, mielőtt újra feltekernéd a fűtést az autóban.",
+                "ro": "Liniștea spirituală este aproape palpabilă iarna, fără turiști; locul pare atemporal. Bucurați-vă de singurătate înainte de a porni iar căldura în mașină.",
+                "en": "The spiritual silence is almost palpable in winter without the crowds; the site feels timeless. Enjoy the solitude before turning up the heater in your car again."
+              }
+            },
+            {
+              "name": {
+                "de": "Timios Stavros",
+                "hu": "Timios Stavros",
+                "ro": "Timios Stavros",
+                "en": "Timios Stavros"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht über das Libysche Meer ist im Winter unschlagbar klar. Planen Sie, vor dem frühen Sonnenuntergang um 17:00 Uhr wieder im Auto zu sein.",
+                "hu": "A kilátás a Líbiai-tengerre télen verhetetlenül tiszta és messzire nyúló. Tervezd úgy, hogy a korai, öt órai naplemente előtt már újra az autóban ülj.",
+                "ro": "Vederea panoramică asupra mării este incredibil de clară iarna. Planificați să fiți înapoi la mașină înainte de apusul timpuriu de la ora 17:00.",
+                "en": "The panoramic view over the Libyan Sea is unbeatably clear in winter. Plan to be back in your car before the early sunset at 17:00 to avoid driving in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammoudi Strand",
+                "hu": "Ammoudi Strand",
+                "ro": "Plaja Ammoudi",
+                "en": "Ammoudi Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist im Winter sehr erfrischend; lassen Sie Ihre festen Schuhe an. Das Auto bleibt am leeren Parkplatz angenehm kühl.",
+                "hu": "Egy magányos tengerparti séta télen nagyon frissítő; hagyd magadon a zárt cipődet. Az autó a kihalt parkolóban biztonságos és hűvös menedék marad.",
+                "ro": "O plimbare solitară pe plajă este foarte revigorantă iarna; păstrați încălțămintea închisă. Mașina rămâne un refugiu sigur în parcarea pustie.",
+                "en": "A solitary walk on the beach is very refreshing in winter; keep your sturdy shoes on. The car remains a safe and cool haven in the deserted parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Skinaria Strand",
+                "hu": "Skinaria Strand",
+                "ro": "Plaja Skinaria",
+                "en": "Skinaria Beach"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Wasser ist im Winter wunderschön anzusehen, auch ohne Badegang. Der frühe Sonnenuntergang färbt den Himmel hier spektakulär ein.",
+                "hu": "A kristálytiszta vizet télen is gyönyörű nézni, még fürdés nélkül is. A korai naplemente látványosan színezi át az eget a horizont felett.",
+                "ro": "Apa cristalină este minunată de privit iarna, chiar și fără a înota. Apusul timpuriu colorează cerul spectaculos deasupra orizontului.",
+                "en": "The crystal clear water is beautiful to look at in winter, even without a swim. The early sunset colors the sky spectacularly over the horizon here."
+              }
+            }
+          ]
+        }
       }
     }
   }

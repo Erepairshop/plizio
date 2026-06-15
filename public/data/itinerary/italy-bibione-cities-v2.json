@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a frissítő szellővel Bibione arany partjain, az Adriai-tenger lágy hangjára ébredve. Délben szívja magába a központi strandszektorok pezsgő hangulatát, ahol az animátorok és a napozók élénk nyüzsgést teremtenek. Délután sétáljon végig a vízparton, és fogyasszon el egy gyors fagylaltot vagy eszpresszót. Zárja a napot, amikor a nap lemenni készül, meleg arany árnyalatot vetve a tengerpartra.",
         "ro": "Începeți dimineața cu briza răcoroasă de pe țărmurile aurii din Bibione, trezindu-vă la sunetul blând al Mării Adriatice. La prânz, absorbiți atmosfera vibrantă a sectoarelor centrale, unde echipele de animație creează un zumzet plin de viață. După-amiaza, plimbați-vă de-a lungul apei și luați o înghețată sau un espresso de la un chioșc de pe plajă. Încheiați ziua admirând culorile aurii ale apusului pe plajă.",
         "en": "Start your morning with a refreshing breeze on Bibione's golden shores, waking up to the gentle sound of the Adriatic Sea. By midday, soak up the vibrant atmosphere of the central beach sectors, where animation teams and sun-seekers create a lively buzz. In the afternoon, stroll along the water's edge, grabbing a quick gelato or an espresso from a beachfront kiosk. Conclude your day as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem Spaziergang unter dem Regenschirm, während die salzige Gischt sich mit dem Regen vermischt. Mittags bieten die Arkaden des Corso del Sole Schutz vor dem Guss, während die Stadt ihr stilles Gesicht zeigt. Nachmittags dominiert bei Zenith der Duft von nassem Sand und das Tosen des Meeres. Der Abend endet in der Wärme eines Cafés, während die Lichter im Regen funkeln.",
+            "hu": "Reggel az esernyők alatt indul a séta, ahol a sós permet keveredik az esővel a parton. Délben a Corso del Sole árkádjai nyújtanak menedéket a zuhé elől, miközben a város csendesebb arcát mutatja. Délután a Zenith térségében a vizes homok illata és a tenger morajlása dominál. Este egy közeli kávézó melegében zárul a nap, figyelve az ablaküvegen lefolyó vízcseppeket és a fények tükröződését a vizes aszfalton.",
+            "ro": "Dimineața începe cu o plimbare sub umbrelă, în timp ce vaporii sărați se amestecă cu ploaia pe mal. La prânz, arcadele de pe Corso del Sole oferă adăpost împotriva aversei, în timp ce orașul își arată fața liniștită. După-amiaza, în zona Zenith, domină mirosul de nisip ud și vuietul mării. Seara se încheie în căldura unei cafenele, urmărind picăturile de apă de pe geam și reflexia luminilor pe asfaltul ud.",
+            "en": "The morning starts with a walk under umbrellas, where the salty spray mixes with the rain on the shore. At noon, the arcades of Corso del Sole provide shelter from the downpour, while the town shows its quieter side. In the afternoon, the scent of wet sand and the roar of the sea dominate the Zenith area. The evening ends in the warmth of a nearby café, watching raindrops fall and lights reflect on wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auriga B",
+                "hu": "Auriga B",
+                "ro": "Auriga B",
+                "en": "Auriga B"
+              },
+              "tip_5lang": {
+                "de": "Auriga B: Bewundern Sie das stürmische Meer vom Ufer aus; tragen Sie wasserfeste Schuhe, da sich bei Regen tiefe Pfützen in den sandigen Abschnitten bilden können.",
+                "hu": "Auriga B: Csodálja meg a viharos tenger látványát a partról; viseljen vízálló cipőt, mert a homokos szakaszokon mély tócsák alakulhatnak ki az esőben.",
+                "ro": "Auriga B: Admirați marea furtunoasă de pe mal; purtați încălțăminte impermeabilă, deoarece pe secțiunile de nisip se pot forma bălți adânci din cauza ploii.",
+                "en": "Auriga B: Marvel at the sight of the stormy sea from the shore; wear waterproof shoes as deep puddles can form on the sandy sections during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole E",
+                "hu": "Corso del Sole E",
+                "ro": "Corso del Sole E",
+                "en": "Corso del Sole E"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole E: Nutzen Sie die Vordächer der Geschäfte als natürlichen Regenschutz; die glänzenden Oberflächen bieten tolle Fotomotive bei grauem Wetter.",
+                "hu": "Corso del Sole E: Használja az üzletek előtetőit természetes esővédőként; a vizes aszfalton megcsillanó fények remek fotótémát kínálnak szürke időben is.",
+                "ro": "Corso del Sole E: Folosiți copertinele magazinelor ca protecție naturală împotriva ploii; luminile reflectate pe asfaltul ud oferă subiecte foto excelente.",
+                "en": "Corso del Sole E: Use the shop overhangs as natural rain protection; the lights reflecting on the wet pavement offer great photo opportunities in gray weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole C",
+                "hu": "Corso del Sole C",
+                "ro": "Corso del Sole C",
+                "en": "Corso del Sole C"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole C: Ein Spaziergang auf dem gepflasterten Gehweg verhindert nasse Füße; achten Sie auf rutschige Markierungen beim Überqueren der Straße im Regen.",
+                "hu": "Corso del Sole C: A kövezett járdán való haladás megkíméli a lábát a sártól; ügyeljen a csúszós útburkolati jelekre az úttesten való átkeléskor az esőben.",
+                "ro": "Corso del Sole C: Mersul pe trotuarul pavat vă va feri picioarele de noroi; atenție la marcajele rutiere alunecoase când traversați strada prin ploaie.",
+                "en": "Corso del Sole C: Walking on the paved sidewalk will keep your feet away from mud; watch out for slippery road markings when crossing the street in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Zenith E",
+                "hu": "Zenith E",
+                "ro": "Zenith E",
+                "en": "Zenith E"
+              },
+              "tip_5lang": {
+                "de": "Zenith E: Suchen Sie Schutz unter dem großen Pavillon, um die Wellen zu beobachten; eine windfeste Regenjacke ist hier wegen der exponierten Lage am Strand wichtig.",
+                "hu": "Zenith E: Keressen menedéket a nagy pavilon alatt a hullámok megfigyeléséhez; a szélálló esőkabát itt alapvető a nyitott, tengerparti szakasz miatt.",
+                "ro": "Zenith E: Căutați adăpost sub pavilionul mare pentru a observa valurile; o pelerină de ploaie rezistentă la vânt este esențială aici datorită locației deschise.",
+                "en": "Zenith E: Seek shelter under the large pavilion to watch the waves; a windproof raincoat is essential here due to the exposed beachfront location."
+              }
+            },
+            {
+              "name": {
+                "de": "Zenith C",
+                "hu": "Zenith C",
+                "ro": "Zenith C",
+                "en": "Zenith C"
+              },
+              "tip_5lang": {
+                "de": "Zenith C: Beenden Sie die Tour in der Nähe der überdachten Kioske; genießen Sie die mystische Atmosphäre der verregneten Küste mit einer warmen Kapuze.",
+                "hu": "Zenith C: Zárja a túrát a fedett pavilonok közelében; élvezze az esős tengerpart misztikus hangulatát egy jól záródó kapucni védelmében.",
+                "ro": "Zenith C: Încheiați turul în apropierea chioșcurilor acoperite; bucurați-vă de atmosfera mistică a coastei ploioase sub protecția unei glugi bune.",
+                "en": "Zenith C: End the tour near the covered kiosks; enjoy the mystical atmosphere of the rainy coast under the protection of a sturdy hood."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen weckt die frische, frostige Meeresluft die Sinne am Strand. Mittags lädt der sonnendurchflutete Corso del Sole zu einem Spaziergang zwischen den ruhigen Geschäften ein. Nachmittags färbt der frühe Sonnenuntergang bei Zenith den Himmel rosa, wofür warme Kleidung und Schal Pflicht sind. Der Abend endet mit der mystischen Atmosphäre des winterlichen Bibione unter hellen Laternen.",
+            "hu": "Reggel a ködös tengerparton indul a nap, ahol a friss, fagyos levegő azonnal felébreszti az érzékeket. Délben a téli napsütésben fürdő Corso del Sole hívogat egy sétára a csendes üzletek között. Délután a Zenithnél a korai naplemente festi rózsaszínre az eget, amihez réteges öltözet és sál kötelező. Este a kihalt Bibione misztikus hangulata és a lámpafényes utcák adják meg a túra méltó lezárását.",
+            "ro": "Dimineața începe pe malul mării cețos, unde aerul proaspăt și înghețat trezește instantaneu simțurile. La prânz, Corso del Sole scăldat în soarele de iarnă vă invită la o plimbare printre magazinele liniștite. După-amiaza, la Zenith, apusul devreme colorează cerul în roz, pentru care îmbrăcămintea stratificată este obligatorie. Seara, atmosfera mistică a Bibione-ului pustiu încheie turul.",
+            "en": "In the morning, the fresh, frosty sea air instantly awakens the senses on the beach. At noon, Corso del Sole bathed in winter sunshine invites you for a stroll among the quiet shops. In the afternoon, the early sunset at Zenith paints the sky pink, for which layered clothing and a scarf are mandatory. The evening ends with the mystical atmosphere of deserted Bibione under bright streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Auriga B",
+                "hu": "Auriga B",
+                "ro": "Auriga B",
+                "en": "Auriga B"
+              },
+              "tip_5lang": {
+                "de": "Auriga B: Genießen Sie die Einsamkeit des Strandes; tragen Sie eine winddichte Jacke, da die Brise im Winter besonders schneidend und kalt sein kann.",
+                "hu": "Auriga B: Élvezze a tengerpart magányát; viseljen szélálló kabátot, mert a téli tengeri szél metszően hideg lehet a nyitott partszakaszon.",
+                "ro": "Auriga B: Bucurați-vă de singurătatea plajei; purtați o jachetă rezistentă la vânt, deoarece briza mării pe timp de iarnă poate fi extrem de tăioasă.",
+                "en": "Auriga B: Enjoy the solitude of the beach; wear a windproof jacket as the sea breeze in winter can be bitingly cold on the open coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole E",
+                "hu": "Corso del Sole E",
+                "ro": "Corso del Sole E",
+                "en": "Corso del Sole E"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole E: Bewundern Sie die winterliche Dekoration der Straße; nutzen Sie das klare Licht für scharfe Fotos der Architektur ohne Touristenmassen.",
+                "hu": "Corso del Sole E: Csodálja meg az utca téli díszítését; használja ki a tiszta fényeket az épületek fotózásához a turistaáradat hiányában.",
+                "ro": "Corso del Sole E: Admirați decorațiunile de iarnă ale străzii; profitați de lumina clară pentru fotografii clare ale arhitecturii, fără mulțimi de turiști.",
+                "en": "Corso del Sole E: Admire the winter decorations of the street; take advantage of the clear light for sharp photos of the architecture without tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole C",
+                "hu": "Corso del Sole C",
+                "ro": "Corso del Sole C",
+                "en": "Corso del Sole C"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole C: Ein zügiger Spaziergang hält den Kreislauf in Schwung; die kühle Nachmittagsluft erfordert eine Mütze, um die Körperwärme zu halten.",
+                "hu": "Corso del Sole C: A tempós séta segít melegen tartani a testét; a hűvös délutáni levegőben egy sapka elengedhetetlen a hőérzet megőrzéséhez.",
+                "ro": "Corso del Sole C: O plimbare vioaie vă va ajuta să vă mențineți temperatura corpului; aerul răcoros de după-amiază necesită o căciulă pentru confort.",
+                "en": "Corso del Sole C: A brisk walk will help keep your body warm; the cool afternoon air requires a hat to maintain your body heat and comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Zenith E",
+                "hu": "Zenith E",
+                "ro": "Zenith E",
+                "en": "Zenith E"
+              },
+              "tip_5lang": {
+                "de": "Zenith E: Seien Sie gegen 16:30 Uhr hier, um den Sonnenuntergang nicht zu verpassen; die tiefstehende Wintersonne bietet ein einzigartiges Farbschauspiel.",
+                "hu": "Zenith E: Érkezzen meg fél 5 körül, hogy ne maradjon le a naplementéről; az alacsonyan járó téli nap egyedülálló színjátékot nyújt a horizonton.",
+                "ro": "Zenith E: Ajungeți în jur de ora 16:30 pentru a nu rata apusul; soarele de iarnă aflat jos pe cer oferă un spectacol de culori unic pe orizont.",
+                "en": "Zenith E: Arrive around 4:30 PM so you don't miss the sunset; the low-hanging winter sun offers a unique spectacle of colors on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Zenith C",
+                "hu": "Zenith C",
+                "ro": "Zenith C",
+                "en": "Zenith C"
+              },
+              "tip_5lang": {
+                "de": "Zenith C: Der Strand ist im Winter ideal für weite Panoramablicke; bringen Sie Thermosocken mit, da der Sand die Kälte stark abstrahlt.",
+                "hu": "Zenith C: A tengerpart télen ideális a tágas panoráma élvezetéhez; viseljen vastag zoknit, mert a homok erősen sugározza a hideget ilyenkor.",
+                "ro": "Zenith C: Plaja este ideală iarna pentru a te bucura de panorama vastă; purtați șosete groase, deoarece nisipul emană un frig puternic în acest sezon.",
+                "en": "Zenith C: The beach is ideal in winter for enjoying the vast panorama; wear thick socks as the sand radiates intense cold during this season."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját Bibione arany partja mentén, ahol a friss tengeri szellő és az Adriai-tenger lágy zúgása kíséri. Délben élvezze a központi strandszektorok pezsgő hangulatát az Ariete és az Auriga közelében. Délután tekerjen kényelmesen a vízparton, és álljon meg egy frissítő italra vagy fagylaltra egy helyi kioszknál. Zárja a napot csodálatos kilátással és békés pihenéssel a csendesebb keleti strandokon.",
         "ro": "Începeți turul cu bicicleta de-a lungul coastei de aur din Bibione, unde vă va însoți briza proaspătă și sunetul blând al Adriaticii. La prânz, bucurați-vă de atmosfera plină de viață a sectoarelor centrale ale plajei, pline de energie de vară. După-amiaza, pedalați relaxat pe malul apei și opriți-vă pentru o băutură răcoritoare sau o înghețată. Încheiați ziua cu o priveliște magnifică pe plajele estice mai liniștite.",
         "en": "Start your cycling tour along the golden coast of Bibione, where the fresh sea breeze and the gentle sound of the Adriatic will accompany you. At noon, enjoy the lively atmosphere of the central beach sectors around Ariete and Auriga, buzzing with summer energy. In the afternoon, pedal relaxingly along the waterfront and stop for a refreshing drink or ice cream. End the day with a magnificent view and peaceful relaxation on the quieter eastern beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt erfrischend im Regen, geschützt durch Funktionskleidung. Mittags bieten die Pinienwälder bei den Termen etwas natürlichen Schutz vor dem Nieselregen. Nachmittags gleitet man über die glänzenden Radwege entlang der Küste. Der Abend endet mit dem beruhigenden Geräusch der Reifen auf dem nassen Asphalt, während man schnell ins Trockene fährt.",
+            "hu": "A reggeli tekerés frissítően indul az esőben, funkcionális öltözetben védve. Délben a termálfürdő környéki fenyvesek természetes oltalmat nyújtanak a szemerkélő eső elől. Délután a tengerpart menti csillogó kerékpárutakon suhanhat végig a látogató. Az este a vizes aszfalton surrogó kerekek megnyugtató hangjával zárul, miközben gyorsan száraz helyre igyekszünk.",
+            "ro": "Plimbarea de dimineață cu bicicleta începe revigorant prin ploaie, protejat de haine funcționale. La prânz, pini de lângă terme oferă un adăpost natural împotriva burniței. După-amiaza, puteți aluneca pe pistele de biciclete strălucitoare de-a lungul coastei. Seara se încheie cu sunetul liniștitor al rotilor pe asfaltul ud, în timp ce vă grăbiți spre un loc uscat.",
+            "en": "The morning ride starts refreshingly in the rain, protected by functional gear. At noon, the pine forests near the thermal baths offer some natural shelter from the drizzle. In the afternoon, glide along the glistening bike paths by the coast. The evening ends with the soothing sound of tires humming on wet asphalt as you head quickly to a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Terme 3 C",
+                "hu": "Terme 3 C",
+                "ro": "Terme 3 C",
+                "en": "Terme 3 C"
+              },
+              "tip_5lang": {
+                "de": "Terme 3 C: Prüfen Sie Ihre Bremsen vor dem Start; der nasse Asphalt in der Nähe des Thermalbereichs kann besonders bei Kurvenfahrten rutschig sein.",
+                "hu": "Terme 3 C: Ellenőrizze a fékeket indulás előtt; a vizes aszfalt a termálfürdő környékén különösen a kanyarokban lehet csúszós az eső miatt.",
+                "ro": "Terme 3 C: Verificați frânele înainte de plecare; asfaltul ud din apropierea zonei termale poate fi alunecos, mai ales în curbe, din cauza ploii.",
+                "en": "Terme 3 C: Check your brakes before starting; the wet asphalt near the thermal area can be particularly slippery in curves due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme 1 A",
+                "hu": "Terme 1 A",
+                "ro": "Terme 1 A",
+                "en": "Terme 1 A"
+              },
+              "tip_5lang": {
+                "de": "Terme 1 A: Nutzen Sie die Kiefern als Schutz vor Wind und leichtem Regen; fahren Sie auf befestigten Wegen, um Schlamm auf der Kette zu vermeiden.",
+                "hu": "Terme 1 A: Használja a fenyőket szél- és esővédelemként; maradjon a szilárd burkolatú utakon, hogy elkerülje a sár felverődését a kerékpár láncára.",
+                "ro": "Terme 1 A: Folosiți pinii ca protecție împotriva vântului și ploii ușoare; rămâneți pe drumurile pavate pentru a evita noroiul pe lanțul bicicletei.",
+                "en": "Terme 1 A: Use the pines as protection against wind and light rain; stay on paved paths to avoid getting mud on your bike chain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ariete B",
+                "hu": "Ariete B",
+                "ro": "Ariete B",
+                "en": "Ariete B"
+              },
+              "tip_5lang": {
+                "de": "Ariete B: Ein Schutzblech ist hier sehr nützlich gegen Spritzwasser; genießen Sie den dramatischen, nebligen Blick auf die Adriaküste beim Treten.",
+                "hu": "Ariete B: Egy sárvédő nagyon hasznos itt a felverődő víz ellen; élvezze a drámai, ködös kilátást az Adriai-tengerre tekerés közben.",
+                "ro": "Ariete B: O apărătoare de noroi este foarte utilă aici împotriva apei împroșcate; bucurați-vă de vederea dramatică și cețoasă spre Marea Adriatică.",
+                "en": "Ariete B: A mudguard is very useful here against splashing water; enjoy the dramatic, misty view of the Adriatic coast while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Auriga D",
+                "hu": "Auriga D",
+                "ro": "Auriga D",
+                "en": "Auriga D"
+              },
+              "tip_5lang": {
+                "de": "Auriga D: Halten Sie ein gleichmäßiges Tempo auf dem nassen Radweg; die Regentropfen auf dem Meer erzeugen eine einzigartige, meditative Stimmung.",
+                "hu": "Auriga D: Tartson egyenletes tempót a vizes kerékpárúton; a tengerre hulló esőcseppek látványa egyedülálló, meditatív hangulatot áraszt.",
+                "ro": "Auriga D: Mențineți un ritm constant pe pista de biciclete udă; imaginea picăturilor de ploaie care cad în mare creează o atmosferă meditativă.",
+                "en": "Auriga D: Keep a steady pace on the wet bike path; the sight of raindrops falling into the sea creates a unique, meditative mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole D",
+                "hu": "Corso del Sole D",
+                "ro": "Corso del Sole D",
+                "en": "Corso del Sole D"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole D: Achten Sie auf Wasserfontänen von passierenden Autos; tragen Sie eine helle Regenjacke, um bei schlechter Sicht besser gesehen zu werden.",
+                "hu": "Corso del Sole D: Ügyeljen az elhaladó autók által felvert vízre; viseljen élénk színű esőkabátot, hogy rossz látási viszonyok között is észrevehető maradjon.",
+                "ro": "Corso del Sole D: Atenție la apa împroșcată de mașinile care trec; purtați o pelerină de ploaie în culori vii pentru a fi vizibil în condiții de vizibilitate redusă.",
+                "en": "Corso del Sole D: Watch out for water sprayed by passing cars; wear a bright-colored raincoat to stay visible in poor visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Regolo A",
+                "hu": "Regolo A",
+                "ro": "Regolo A",
+                "en": "Regolo A"
+              },
+              "tip_5lang": {
+                "de": "Regolo A: Beenden Sie die Fahrt an diesem offenen Platz und trocknen Sie Ihre Ausrüstung sofort ab; die salzige Feuchtigkeit schadet dem Fahrradrahmen.",
+                "hu": "Regolo A: Fejezze be a tekerést ezen a nyitott téren, és azonnal szárítsa meg felszerelését; a sós pára és a víz károsíthatja a kerékpár vázát.",
+                "ro": "Regolo A: Încheiați plimbarea în această piață deschisă și uscați-vă imediat echipamentul; umezeala sărată poate deteriora cadrul bicicletei.",
+                "en": "Regolo A: End your ride at this open square and dry your equipment immediately; the salty moisture can damage the bike frame if left wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radtour beginnt mit klarer Winterluft, Handschuhe sind ein Muss. Mittags leuchtet der Pinienwald in sattem Grün gegen den blauen Winterhimmel. Nachmittags genießt man die Ruhe auf der Promenade, wenn die Sonne tief über der Adria steht. Der Abend kommt früh und bringt eine kühle Brise, die zur schnellen Rückkehr in die gemütliche Unterkunft einlädt.",
+            "hu": "A reggeli kerékpártúra tiszta téli levegővel indul, a kesztyű viselete kötelező. Délben a fenyvesek mélyzöldje éles kontrasztot alkot a kék téli éggel. Délután a sétány csendje élvezhető, miközben a nap alacsonyan jár az Adria felett. Az este korán érkezik, hűvös szellőt hozva, amely gyors visszatérésre ösztönöz a meleg szálláshelyre.",
+            "ro": "Turul de dimineață cu bicicleta începe cu aer curat de iarnă, purtarea mănușilor fiind obligatorie. La prânz, verdele pinilor contrastează puternic cu cerul albastru de iarnă. După-amiaza, vă puteți bucura de liniștea falezei, în timp ce soarele se află jos deasupra Adriaticii. Seara vine devreme, aducând o briză răcoroasă care vă îndeamnă să vă întoarceți la căldură.",
+            "en": "The morning bike tour starts with clear winter air, making gloves a must. At noon, the deep green of the pines contrasts sharply with the blue winter sky. In the afternoon, enjoy the silence of the promenade as the sun hangs low over the Adriatic. Evening arrives early, bringing a cool breeze that encourages a quick return to your warm accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Terme 3 C",
+                "hu": "Terme 3 C",
+                "ro": "Terme 3 C",
+                "en": "Terme 3 C"
+              },
+              "tip_5lang": {
+                "de": "Terme 3 C: Starten Sie mit einer warmen Mütze unter dem Helm; die Luft ist morgens besonders frisch und belebend in der Nähe des Meeres.",
+                "hu": "Terme 3 C: Kezdje a túrát a sisak alatt viselt meleg sapkával; a tenger közelsége miatt a reggeli levegő különösen friss és élénkítő.",
+                "ro": "Terme 3 C: Începeți turul cu o căciulă caldă sub cască; datorită proximității mării, aerul dimineții este deosebit de proaspăt și revigorant.",
+                "en": "Terme 3 C: Start your tour with a warm hat under your helmet; due to the proximity of the sea, the morning air is especially fresh and invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme 1 A",
+                "hu": "Terme 1 A",
+                "ro": "Terme 1 A",
+                "en": "Terme 1 A"
+              },
+              "tip_5lang": {
+                "de": "Terme 1 A: Der Pinienwald schützt vor dem kalten Winterwind; bleiben Sie in Bewegung, um Ihre Körpertemperatur bei den niedrigen Graden stabil zu halten.",
+                "hu": "Terme 1 A: A fenyves megvédi a hideg téli széltől; maradjon mozgásban, hogy testhőmérsékletét stabilan tartsa az alacsony fokok mellett is.",
+                "ro": "Terme 1 A: Pădurea de pini vă protejează de vântul rece de iarnă; rămâneți în mișcare pentru a vă menține temperatura corpului stabilă la grade scăzute.",
+                "en": "Terme 1 A: The pine forest protects you from the cold winter wind; stay in motion to keep your body temperature stable despite the low degrees."
+              }
+            },
+            {
+              "name": {
+                "de": "Ariete B",
+                "hu": "Ariete B",
+                "ro": "Ariete B",
+                "en": "Ariete B"
+              },
+              "tip_5lang": {
+                "de": "Ariete B: Das Winterlicht lässt den Sand fast weiß erscheinen; halten Sie kurz für ein Foto an, aber kühlen Sie nicht zu sehr aus.",
+                "hu": "Ariete B: A téli fényekben a homok szinte fehérnek tűnik; álljon meg egy rövid fotóra, de ne hagyja, hogy a teste túlságosan lehűljön a szélben.",
+                "ro": "Ariete B: În lumina iernii, nisipul pare aproape alb; opriți-vă pentru o scurtă fotografie, dar nu lăsați corpul să se răcească prea tare în vânt.",
+                "en": "Ariete B: In the winter light, the sand appears almost white; stop for a quick photo, but don't let your body cool down too much in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Auriga D",
+                "hu": "Auriga D",
+                "ro": "Auriga D",
+                "en": "Auriga D"
+              },
+              "tip_5lang": {
+                "de": "Auriga D: Treten Sie gemütlich am Ufer entlang; die Abwesenheit von Sommermassen macht diesen Radweg im Winter besonders entspannend.",
+                "hu": "Auriga D: Tekerjen kényelmesen a part mentén; a nyári tömeg hiánya ezt a kerékpárutat télen különösen pihentetővé és békéssé teszi.",
+                "ro": "Auriga D: Pedalați relaxat de-a lungul țărmului; absența mulțimilor de vară face ca această pistă de biciclete să fie extrem de relaxantă iarna.",
+                "en": "Auriga D: Pedal comfortably along the shore; the absence of summer crowds makes this bike path particularly relaxing and peaceful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole D",
+                "hu": "Corso del Sole D",
+                "ro": "Corso del Sole D",
+                "en": "Corso del Sole D"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole D: Die Wintersonne steht tief; tragen Sie eine Sonnenbrille, um Blendungen durch die Reflexion auf dem Asphalt zu vermeiden.",
+                "hu": "Corso del Sole D: A téli nap alacsonyan jár; viseljen napszemüveget, hogy elkerülje az aszfaltról visszaverődő fény vakítását tekerés közben.",
+                "ro": "Corso del Sole D: Soarele de iarnă este jos; purtați ochelari de soare pentru a evita strălucirea luminii reflectate de asfalt în timp ce pedalați.",
+                "en": "Corso del Sole D: The winter sun is low; wear sunglasses to avoid the glare of light reflecting off the asphalt while you are pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Regolo A",
+                "hu": "Regolo A",
+                "ro": "Regolo A",
+                "en": "Regolo A"
+              },
+              "tip_5lang": {
+                "de": "Regolo A: Beenden Sie die Tour, bevor die Temperatur bei Dämmerung stark sinkt; der Sonnenuntergang über der Lagune ist im Winter spektakulär.",
+                "hu": "Regolo A: Fejezze be a túrát, mielőtt a hőmérséklet sötétedéskor hirtelen leesne; a lagúna feletti naplemente télen különösen látványos.",
+                "ro": "Regolo A: Încheiați turul înainte ca temperatura să scadă brusc la lăsarea serii; apusul peste lagună este spectaculos pe timp de iarnă.",
+                "en": "Regolo A: Finish the tour before the temperature drops sharply at dusk; the sunset over the lagoon is particularly spectacular in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Használja ki az autója nyújtotta rugalmasságot, hogy egyetlen nap alatt felfedezze Bibione partvidékének különböző arcait. Kezdje a csendes nyugati részen, majd haladjon át a nyüzsgő központi zónákon, ahol a nyári energia a legerősebben érezhető. Délután könnyedén átválthat az elegánsabb keleti szektorokra. Fejezze be élményekkel teli napját egy nyugodt pillanattal és az égbolt lenyűgöző színjátékával a parton.",
         "ro": "Folosiți flexibilitatea mașinii pentru a explora diferitele fețe ale coastei din Bibione într-o singură zi. Începeți în vestul liniștit și navigați prin zonele centrale animate, unde energia verii se simte cel mai puternic. După-amiaza, puteți trece fără efort la sectoarele estice mai elegante. Încheiați ziua plină de evenimente cu un moment de liniște și jocul uluitor de culori al cerului pe plajă.",
         "en": "Use the flexibility of your car to explore the different faces of Bibione's coastline in one single day. Start in the quiet west and work your way through the bustling central zones where the summer energy is felt most strongly. In the afternoon, you can effortlessly switch to the more elegant eastern sectors. End your eventful day with a quiet moment and the breathtaking play of colors in the sky over the beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt entspannt im warmen Auto, während Regentropfen auf das Dach trommeln. Mittags gleitet man bequem zwischen den Strandpunkten hin und her, ohne nass zu werden. Nachmittags bietet die Fahrt entlang der Küste einen dramatischen Blick auf das stürmische Meer durch die Wischerblätter. Der Abend endet trocken und gemütlich, während man die Regenreflexionen genießt.",
+            "hu": "A reggel kényelmesen indul a fűtött autóban, miközben az esőcseppek kopognak a tetőn. Délben kényelmesen közlekedhet a strand különböző pontjai között anélkül, hogy elázna a zuhéban. Délután a tengerparti autózás drámai kilátást nyújt a viharos tengerre az ablaktörlők mögül. Az este szárazon és meghitten zárul, élvezve az esőben tükröződő városi fények látványát.",
+            "ro": "Dimineața începe relaxat în mașina încălzită, în timp ce picăturile de ploaie bat în plafon. La prânz, vă puteți deplasa confortabil între punctele de pe plajă fără a vă uda. După-amiaza, condusul de-a lungul coastei oferă o vedere dramatică spre marea furtunoasă prin parbriz. Seara se încheie la adăpost și plăcut, admirând luminile orașului reflectate în ploaie.",
+            "en": "The morning starts relaxedly in the warm car, while raindrops drum on the roof. At noon, you can comfortably travel between beach spots without getting wet in the downpour. In the afternoon, driving along the coast offers a dramatic view of the stormy sea through the wiper blades. The evening ends dry and cozy, enjoying the sight of city lights reflected in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Adriatico C",
+                "hu": "Adriatico C",
+                "ro": "Adriatico C",
+                "en": "Adriatico C"
+              },
+              "tip_5lang": {
+                "de": "Adriatico C: Parken Sie nah am Aussichtspunkt; bleiben Sie im Auto, um das stürmische Meer ohne nasse Kleidung durch die Scheiben zu beobachten.",
+                "hu": "Adriatico C: Parkoljon közel a kilátóponthoz; maradjon az autóban, hogy az ablakon keresztül figyelhesse a viharos tengert anélkül, hogy elázna.",
+                "ro": "Adriatico C: Parcați aproape de punctul de observație; rămâneți în mașină pentru a urmări marea furtunoasă prin geamuri fără a vă uda hainele.",
+                "en": "Adriatico C: Park close to the viewpoint; stay inside the car to watch the stormy sea through the windows without getting your clothes wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme 2 B",
+                "hu": "Terme 2 B",
+                "ro": "Terme 2 B",
+                "en": "Terme 2 B"
+              },
+              "tip_5lang": {
+                "de": "Terme 2 B: Nutzen Sie die nahegelegenen Parkplätze für einen kurzen Sprint zum Ziel; lassen Sie die Heizung laufen, damit die Scheiben nicht beschlagen.",
+                "hu": "Terme 2 B: Használja a közeli parkolóhelyeket a célponthoz való rövid sprinthez; járassa a fűtést, hogy megakadályozza az ablakok bepárásodását.",
+                "ro": "Terme 2 B: Folosiți locurile de parcare din apropiere pentru un scurt sprint spre obiectiv; lăsați căldura pornită pentru a preveni aburirea geamurilor.",
+                "en": "Terme 2 B: Use nearby parking spots for a short sprint to the target; keep the heater running to prevent the windows from fogging up in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole E",
+                "hu": "Corso del Sole E",
+                "ro": "Corso del Sole E",
+                "en": "Corso del Sole E"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole E: Fahren Sie langsam durch das Zentrum; der nasse Asphalt reflektiert die Straßenlaternen wunderschön für eine stimmungsvolle Fahrt.",
+                "hu": "Corso del Sole E: Hajtson lassan a központon keresztül; a vizes aszfalt gyönyörűen tükrözi a lámpafényeket a hangulatos autózáshoz az esőben.",
+                "ro": "Corso del Sole E: Conduceți încet prin centru; asfaltul ud reflectă minunat luminile stradale pentru o plimbare atmosferică prin ploaie.",
+                "en": "Corso del Sole E: Drive slowly through the center; the wet pavement reflects the streetlights beautifully for an atmospheric drive in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Zenith C",
+                "hu": "Zenith C",
+                "ro": "Zenith C",
+                "en": "Zenith C"
+              },
+              "tip_5lang": {
+                "de": "Zenith C: Der große Parkplatz ist bei Regen leicht zu befahren; stellen Sie die Wischer auf die höchste Stufe, um Gischt und Regen abzuwehren.",
+                "hu": "Zenith C: A nagy parkoló esőben is könnyen használható; állítsa az ablaktörlőt a legmagasabb fokozatra a tengeri permet és az eső ellen.",
+                "ro": "Zenith C: Parcarea mare este ușor de utilizat chiar și pe ploaie; setați ștergătoarele pe treapta maximă pentru a face față stropilor și ploii.",
+                "en": "Zenith C: The large parking lot is easy to use even in the rain; set your wipers to the highest speed to cope with the sea spray and heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Regolo A",
+                "hu": "Regolo A",
+                "ro": "Regolo A",
+                "en": "Regolo A"
+              },
+              "tip_5lang": {
+                "de": "Regolo A: Beenden Sie den Ausflug mit Blick auf den stürmischen Horizont; ein stabiler Regenschirm ist für den kurzen Ausstieg hier zwingend nötig.",
+                "hu": "Regolo A: Zárja a kirándulást a viharos horizont látványával; egy stabil esernyő elengedhetetlen, ha rövid időre ki szeretne szállni az autóból.",
+                "ro": "Regolo A: Încheiați excursia cu vederea spre orizontul furtunos; o umbrelă stabilă este obligatorie dacă doriți să coborâți scurt din mașină.",
+                "en": "Regolo A: Conclude the trip with a view of the stormy horizon; a sturdy umbrella is mandatory if you wish to step out of the car briefly here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt entspannt im geheizten Wagen, während man den frostigen Strand betrachtet. Mittags ermöglicht das Auto einen schnellen Wechsel zwischen den ruhigen Sehenswürdigkeiten, ohne der Kälte zu lange ausgesetzt zu sein. Nachmittags fängt man die goldene Wintersonne bequem vom Fahrersitz aus ein. Der Abend bringt den Zauber der beleuchteten Winterstadt Bibione direkt vor das Fenster.",
+            "hu": "A reggel pihentetően indul a fűtött utastérben, miközben a deres tengerpartot szemléli. Délben az autó lehetővé teszi a gyors váltást a csendes látnivalók között, anélkül, hogy sokáig ki lenne téve a hidegnek. Délután az aranyló téli napsütést kényelmesen, a vezetőülésből élvezheti. Az este Bibione kivilágított téli városának varázsát hozza el közvetlenül az autóablak elé.",
+            "ro": "Dimineața începe relaxant în interiorul încălzit, în timp ce admirați plaja înghețată. La prânz, mașina permite schimbarea rapidă între obiectivele liniștite fără a vă expune prea mult la frig. După-amiaza, vă puteți bucura de soarele auriu de iarnă direct de la volan. Seara aduce magia orașului Bibione iluminat iarna direct în fața ferestrei mașinii.",
+            "en": "The morning starts relaxedly in the heated cabin while you admire the frosty beach. At noon, the car allows for a quick switch between quiet sights without being exposed to the cold for too long. In the afternoon, you can enjoy the golden winter sun comfortably from the driver's seat. The evening brings the magic of illuminated winter Bibione directly to the car window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Adriatico C",
+                "hu": "Adriatico C",
+                "ro": "Adriatico C",
+                "en": "Adriatico C"
+              },
+              "tip_5lang": {
+                "de": "Adriatico C: Genießen Sie die Sitzheizung bei frostigem Strandblick; die Sicht auf die winterliche Adria ist durch die kalte Luft oft kristallklar.",
+                "hu": "Adriatico C: Élvezze az ülésfűtést a fagyos tengerparti kilátás mellett; a téli Adria látványa a hideg levegő miatt gyakran kristálytiszta és éles.",
+                "ro": "Adriatico C: Bucurați-vă de încălzirea în scaune cu vederea spre plaja înghețată; vederea spre Adria iarna este adesea cristalină datorită aerului rece.",
+                "en": "Adriatico C: Enjoy the heated seats with a view of the frosty beach; the view of the winter Adriatic is often crystal clear due to the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme 2 B",
+                "hu": "Terme 2 B",
+                "ro": "Terme 2 B",
+                "en": "Terme 2 B"
+              },
+              "tip_5lang": {
+                "de": "Terme 2 B: Die Stadt ist sehr ruhig; nutzen Sie die einfachen Parkmöglichkeiten direkt am Meer, um die winterliche Stille kurz im Freien zu spüren.",
+                "hu": "Terme 2 B: A város ilyenkor nagyon csendes; használja ki a közvetlen tengerparti parkolási lehetőségeket, hogy a szabadban is érezze a téli csendet.",
+                "ro": "Terme 2 B: Orașul este foarte liniștit acum; profitați de locurile de parcare de pe malul mării pentru a simți scurt liniștea iernii în aer liber.",
+                "en": "Terme 2 B: The town is very quiet now; take advantage of the easy parking right by the sea to briefly feel the winter silence in the open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Corso del Sole E",
+                "hu": "Corso del Sole E",
+                "ro": "Corso del Sole E",
+                "en": "Corso del Sole E"
+              },
+              "tip_5lang": {
+                "de": "Corso del Sole E: Fahren Sie durch die beleuchtete Hauptstraße; die winterliche Atmosphäre ist friedlich und ohne jegliche sommerliche Hektik.",
+                "hu": "Corso del Sole E: Hajtson végig a kivilágított főutcán; a téli hangulat békés és mentes minden nyári szezontól megszokott nyüzsgéstől és zajtól.",
+                "ro": "Corso del Sole E: Conduceți pe strada principală iluminată; atmosfera de iarnă este pașnică și lipsită de agitația obișnuită a sezonului de vară.",
+                "en": "Corso del Sole E: Drive along the illuminated main street; the winter atmosphere is peaceful and free from the usual summer season hustle and bustle."
+              }
+            },
+            {
+              "name": {
+                "de": "Zenith C",
+                "hu": "Zenith C",
+                "ro": "Zenith C",
+                "en": "Zenith C"
+              },
+              "tip_5lang": {
+                "de": "Zenith C: Halten Sie kurz an, um die Wintervögel am Ufer zu beobachten; bleiben Sie im Auto, um bei der sinkenden Sonne warm zu bleiben.",
+                "hu": "Zenith C: Álljon meg egy pillanatra, hogy megfigyelje a parton tanyázó téli madarakat; maradjon az autóban, hogy melegen tartsa magát a lemenő napnál.",
+                "ro": "Zenith C: Opriți-vă pentru un moment pentru a observa păsările de iarnă de pe mal; rămâneți în mașină pentru a vă menține căldura la apusul soarelui.",
+                "en": "Zenith C: Stop for a moment to observe the winter birds on the shore; stay inside the car to keep warm as the sun begins to set over the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Regolo A",
+                "hu": "Regolo A",
+                "ro": "Regolo A",
+                "en": "Regolo A"
+              },
+              "tip_5lang": {
+                "de": "Regolo A: Perfekt für den frühen Sonnenuntergang; beobachten Sie das Farbspiel am Himmel bequem von Ihrem Sitz aus, bevor es draußen frostig wird.",
+                "hu": "Regolo A: Tökéletes helyszín a korai naplementéhez; figyelje meg az ég színjátékát kényelmesen az üléséből, mielőtt odakint fagyossá válna az idő.",
+                "ro": "Regolo A: Locație perfectă pentru apusul devreme; observați spectacolul de culori al cerului confortabil din scaun, înainte de a se lăsa gerul afară.",
+                "en": "Regolo A: Perfect spot for the early sunset; observe the display of colors in the sky comfortably from your seat before it gets frosty outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

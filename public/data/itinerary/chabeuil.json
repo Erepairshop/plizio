@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi művészetek felfedezésével a kulturális központban, majd sétáljon el a békés Canal de la Véore-hoz. Délben a Refuge de la colline des Gontardes frissítő természeti élményt nyújt. Délután csodálja meg a Château de Rozier klasszikus építészetét, és zárja a napot a Château Saint-Pierre történelmi varázsának felfedezésével.",
         "ro": "Începeți dimineața cu arta locală la Centrul cultural, înainte de a vă plimba spre pașnicul Canal de la Véore. La prânz, refugiul colinei Gontardes oferă o evadare revigorantă în natură. După-amiaza, admirați arhitectura clasică a Château de Rozier, iar seara încheiați ziua explorând farmecul istoric de la Château Saint-Pierre.",
         "en": "Start your morning absorbing local arts at the Centre culturel before wandering to the peaceful Canal de la Véore. Midday offers a refreshing escape into nature at the Refuge de la colline des Gontardes, perfect for a relaxing stroll. In the afternoon, marvel at the classic architecture of Château de Rozier. Conclude your day exploring the historic charm of Château Saint-Pierre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang im trockenen Kulturzentrum. Mittags schlendern Sie mit einem großen Regenschirm am Véore-Kanal entlang. Der Nachmittag führt zum Refugium Gontardes und Schloss Rozier, wo wasserfeste Schuhe wichtig sind. Beenden Sie den nassen Tag im imposanten Schloss Saint-Pierre und suchen Sie unter den alten Torbögen Schutz vor dem Abendregen.",
+            "hu": "Esős sétánkat kezdjük a Kulturális Központ száraz és meleg kiállításainál. Délben esernyővel a kézben sétáljunk a Véore-csatorna mentén. Délután a Gontardes menedékhely és a Rozier kastély következik, ide mindenképpen vízálló cipő ajánlott. A nedves napot a hatalmas Saint-Pierre kastély fedett, védett boltívei alatt zárjuk, elbújva az esti záporok elől.",
+            "ro": "Începeți plimbarea ploioasă la Centrul Cultural pentru a rămâne uscați. La prânz, plimbați-vă de-a lungul Canalului Véore cu o umbrelă robustă. După-amiaza vă duce la Refugiul Gontardes și Castelul Rozier, unde bocancii impermeabili sunt esențiali pe noroi. Terminați ziua ploioasă căutând adăpost sub arcadele impunătoare ale Castelului Saint-Pierre.",
+            "en": "Start your rainy walk indoors at the Cultural Center to stay completely dry. By noon, stroll along the Véore Canal with a sturdy umbrella. The afternoon takes you to the Gontardes Refuge and Rozier Castle, where waterproof boots are essential for the muddy paths. Finish your wet day seeking shelter under the imposing stone archways of Saint-Pierre Castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Innenausstellungen, um völlig trocken zu bleiben und bequem in die Geschichte einzutauchen, während es draußen in Strömen regnet.",
+                "hu": "Fedezze fel a lenyűgöző beltéri kiállításokat, hogy teljesen száraz maradjon, miközben kényelmesen elmerül a történelemben a kinti felhőszakadás alatt.",
+                "ro": "Explorați expozițiile interioare captivante pentru a rămâne perfect uscați, permițându-vă să pătrundeți în istorie în timp ce ploaia de dimineață continuă afară.",
+                "en": "Explore the engaging indoor exhibits to stay perfectly dry, allowing you to comfortably delve into local history while the morning downpour continues outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Véore-Kanal",
+                "hu": "Véore-csatorna",
+                "ro": "Canalul Véore",
+                "en": "Véore Canal"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf dem Wasser des ruhigen Kanals, aber seien Sie extrem vorsichtig, da die gepflasterten Wege bei Nässe sehr rutschig werden.",
+                "hu": "Nézze, ahogy az esőcseppek a békés csatorna vizébe hullanak, de legyen rendkívül óvatos, mivel a kövezett utak meglehetősen csúszóssá válhatnak a nedvességtől.",
+                "ro": "Priviți picăturile de ploaie lovind apa acestui canal liniștit, dar fiți extrem de precauți, deoarece cărările pavate pot deveni foarte alunecoase la umezeală.",
+                "en": "Watch the raindrops hit the water along this peaceful canal, but be extremely careful as the paved pathways can get quite slippery and treacherous during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Refugium Gontardes",
+                "hu": "Gontardes menedékhely",
+                "ro": "Refugiul Gontardes",
+                "en": "Gontardes Refuge"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier vorübergehend Schutz unter den Bäumen; das Tragen einer soliden Regenjacke ist an diesem naturnahen Ort bei schlechtem Wetter absolut unerlässlich.",
+                "hu": "Keressen ideiglenes menedéket a fák alatt; egy megbízható esőkabát viselése ezen a természetközeli helyen rossz időben és sárban is elengedhetetlen feltétel.",
+                "ro": "Căutați adăpost temporar sub copacii de aici; purtarea unei pelerine de ploaie solide este absolut crucială pentru a explora acest loc natural pe vreme rea.",
+                "en": "Seek temporary shelter under the dense trees or structures here; wearing a solid raincoat is absolutely crucial for exploring this natural spot during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rozier",
+                "hu": "Rozier kastély",
+                "ro": "Castelul Rozier",
+                "en": "Rozier Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stimmungsvolle Architektur des Schlosses im Regen, aber achten Sie auf Ihre Schritte auf dem nassen Kopfsteinpflaster rund um das Anwesen.",
+                "hu": "Csodálja meg a kastély hangulatos építészetét az esőn keresztül, de nagyon vigyázzon a lépéseire a birtok körüli nedves és csúszós macskaköveken lépkedve.",
+                "ro": "Admirați arhitectura melancolică a castelului prin ploaie, dar aveți mare grijă la pași pe pietrele de pavaj umede și alunecoase din jurul întregii proprietăți.",
+                "en": "Admire the castle's moody architecture through the pouring rain, but watch your step carefully on the extremely wet cobblestones surrounding the entire historic estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Saint-Pierre",
+                "hu": "Saint-Pierre kastély",
+                "ro": "Castelul Saint-Pierre",
+                "en": "Saint-Pierre Castle"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang durch die geschützten Innenhöfe des Schlosses, die eine großartige Flucht vor den unerbittlichen Nachmittagsschauern bieten.",
+                "hu": "Zárja le sétáját a kastély védett belső udvarainak felfedezésével, amelyek nagyszerű menedéket nyújtanak a könyörtelen késő délutáni záporok és szelek elől.",
+                "ro": "Încheiați-vă plimbarea explorând curțile adăpostite ale castelului, care oferă o evadare excelentă din calea averselor neiertătoare de la sfârșitul după-amiezii.",
+                "en": "Conclude your wet walk by exploring the castle's safely sheltered courtyards, offering a truly great escape from the relentless late afternoon rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen klaren Wintermorgen im Kulturzentrum. Mittags genießen Sie einen flotten Spaziergang am frostigen Véore-Kanal. Der Nachmittag bringt Sie zum Refugium Gontardes und Schloss Rozier, bevor die Sonne früh untergeht. Beenden Sie Ihren kühlen Spaziergang und bewundern Sie das Schloss Saint-Pierre in der Abenddämmerung gegen 17:00 Uhr.",
+            "hu": "Öltözzön melegen a csípős téli reggelre a Kulturális Központban. Délben tegyen egy frissítő sétát a dértől csillogó Véore-csatorna mellett. Délután a Gontardes menedékhely és a Rozier kastély várja, mielőtt a nap korán lemenne. Fejezze be a fagyos sétát a kivilágított Saint-Pierre kastély csodálatával a korai, délután 5 órás sötétedésben.",
+            "ro": "Îmbrăcați-vă gros pentru o dimineață rece de iarnă la Centrul Cultural. La prânz, bucurați-vă de o plimbare rapidă pe lângă Canalul Véore înghețat. După-amiaza vă aduce la Refugiul Gontardes și Castelul Rozier înainte ca soarele să apună devreme. Terminați plimbarea răcoroasă admirând Castelul Saint-Pierre în amurgul de la ora 17:00.",
+            "en": "Wrap up in thermal layers for a crisp winter morning at the Cultural Center. Around noon, enjoy a brisk walk by the frosty Véore Canal. The afternoon brings you to the Gontardes Refuge and Rozier Castle before the sun sets early. Wrap up your chilly walk admiring the beautifully illuminated Saint-Pierre Castle in the 5 PM dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Galerien auf und genießen Sie die Kunst, bevor Sie in die frische Winterluft und den beißenden Wind der Stadt hinausgehen.",
+                "hu": "Melegedjen fel a központ fűtött galériáiban, élvezve a helyi művészetet, mielőtt nekivágna a város csípős, fagyos téli levegőjének és a hideg szélnek.",
+                "ro": "Încălziți-vă în galeriile centrului în timp ce vă bucurați de artă înainte de a ieși în aerul rece și tăios de iarnă al străzilor pitorești ale orașului.",
+                "en": "Warm up inside the center's heated galleries while enjoying the local arts before heading out into the crisp, biting winter air of the city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Véore-Kanal",
+                "hu": "Véore-csatorna",
+                "ro": "Canalul Véore",
+                "en": "Véore Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Kanal wirkt mit einem Hauch von Winterfrost magisch; stellen Sie nur sicher, dass Sie Thermohandschuhe gegen den kalten Wind am Wasser tragen.",
+                "hu": "A csatorna varázslatosan fest a téli zúzmarában; csak gondoskodjon vastag termo kesztyűről a vízparton fújó kellemetlenül hideg és csípős szél ellen.",
+                "ro": "Canalul arată magic cu o notă de îngheț de iarnă, trebuie doar să vă asigurați că purtați mănuși termice împotriva vântului tăios de lângă apa rece.",
+                "en": "The canal looks absolutely magical with a touch of winter frost, just ensure you wear high-quality thermal gloves against the biting wind near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Refugium Gontardes",
+                "hu": "Gontardes menedékhely",
+                "ro": "Refugiul Gontardes",
+                "en": "Gontardes Refuge"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter ruhiger Ort für eine Winterpause, obwohl Sie in Bewegung bleiben sollten, um in der offenen, schneebedeckten Landschaft warm zu bleiben.",
+                "hu": "Tökéletes csendes hely egy téli pihenőre, bár folyamatosan mozgásban kell maradnia, hogy ne fázzon át a nyílt, széljárta és hideg természeti tájon.",
+                "ro": "Un loc liniștit perfect pentru o pauză de iarnă, deși ar trebui să continuați să vă mișcați pentru a vă menține cald în peisajul natural deschis și rece.",
+                "en": "A perfect quiet spot for a short winter pause, though you should definitely keep moving your body to stay warm in the open, chilly natural landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rozier",
+                "hu": "Rozier kastély",
+                "ro": "Castelul Rozier",
+                "en": "Rozier Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgmauern sehen vor dem blassen Winterhimmel atemberaubend aus; kommen Sie früh an, bevor die Dunkelheit um 17:00 Uhr die Sicht einschränkt.",
+                "hu": "A kastély falai lenyűgözően mutatnak a sápadt téli égbolt előtt; érkezzen időben, mielőtt a délután 5 órai sötétség teljesen elrejti a gyönyörű kilátást.",
+                "ro": "Zidurile castelului arată uimitor pe cerul palid de iarnă; ajungeți devreme înainte ca întunericul de la ora 17:00 să se lase complet peste zonă.",
+                "en": "The rugged castle walls look stunning against the pale winter sky; ensure you arrive early before the 5 PM darkness sets in and obscures the views completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Saint-Pierre",
+                "hu": "Saint-Pierre kastély",
+                "ro": "Castelul Saint-Pierre",
+                "en": "Saint-Pierre Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Abenddämmerung des wunderschön beleuchteten Schlosses und lassen Sie den Tag ausklingen, während die kalte Winternacht hereinbricht.",
+                "hu": "Élvezze a gyönyörűen kivilágított kastély alkonyati látványát, kellemesen lezárva a napot, éppen amikor a fagyos téli éjszaka sötétsége leereszkedik.",
+                "ro": "Bucurați-vă de priveliștile crepusculare ale castelului iluminat frumos, încheind ziua exact în momentul în care noaptea rece de iarnă se lasă.",
+                "en": "Enjoy the twilight views of the beautifully illuminated castle, wrapping up your day perfectly just as the freezing winter night falls over the quiet town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpártúrája a kulturális központnál indul, majd a Véore csatorna csendes partjaira vezet. Délben a Gontardes menedékhely természeti szépsége és a lenyűgöző Château de Rozier várja. Délután tekerjen el a Circa'Parc-hoz és a fenséges Château Saint-Pierre-hez. Az estét a rusztikus Vieux Moulin felé gurulva zárhatja.",
         "ro": "Turul cu bicicleta începe la centrul cultural, continuând ușor spre malurile liniștite ale canalului Véore. La prânz, ajungeți la refugiul natural Gontardes și la grandiosul Château de Rozier. După-amiaza pedalați spre Circa'Parc și impunătorul Château Saint-Pierre. Seara vă surprinde pedalând spre rusticul Vieux Moulin.",
         "en": "Your cycling tour begins at the cultural center, smoothly transitioning to the serene banks of the Véore canal. Midday brings you to the elevated natural haven of the Gontardes refuge and the grand Château de Rozier. Afternoon pedaling leads to family fun at Circa'Parc and the stately Château Saint-Pierre. Evening sets in as you glide towards the rustic Vieux Moulin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour erfordert gute Ausrüstung; beginnen Sie am trockenen Kulturzentrum. Radeln Sie mittags vorsichtig am nassen Véore-Kanal. Der Nachmittag umfasst das Refugium Gontardes, Schloss Rozier und den Circa'Parc; Vorsicht vor schlammigen Wegen. Beenden Sie Ihre nasse Fahrt am Schloss Saint-Pierre und der Alten Mühle.",
+            "hu": "Egy esős biciklitúra jó felszerelést igényel; kezdjen a száraz Kulturális Központban. Délben óvatosan tekerjen a nedves Véore-csatornánál. A délután a Gontardes menedékhelyet, a Rozier kastélyt és a Circa'Parc-ot érinti; vigyázzon a sáros, csúszós ösvényeken! Fejezze be nedves útját a Saint-Pierre kastélynál és az Öreg Malomnál.",
+            "ro": "O plimbare ploioasă cu bicicleta necesită echipament bun; începeți la Centrul Cultural uscat. Pedați cu grijă de-a lungul Canalului Véore ud la prânz. După-amiaza acoperă Refugiul Gontardes, Castelul Rozier și Circa'Parc; atenție la traseele noroioase. Terminați plimbarea udă trecând de Castelul Saint-Pierre spre Moara Veche.",
+            "en": "A rainy bike ride requires waterproof gear; start smoothly at the dry Cultural Center. Pedal carefully along the wet Véore Canal at noon. The afternoon covers the Gontardes Refuge, Rozier Castle, and Circa'Parc; beware of very muddy, slippery trails. Finish your wet ride gliding past Saint-Pierre Castle down to the Old Mill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad regensicher und genießen Sie die trockenen Innenausstellungen, um Ihre Ausrüstung für die nasse Fahrt vorzubereiten.",
+                "hu": "Parkolja le a kerékpárt esőtől védett helyen, és élvezze a száraz kiállításokat, miközben felkészíti a vízálló felszerelését a további nedves útra.",
+                "ro": "Parcați bicicleta la adăpost de ploaie și bucurați-vă de expozițiile interioare uscate pentru a vă pregăti echipamentul pentru plimbarea udă.",
+                "en": "Park your bike out of the rain and enjoy the dry indoor exhibits, taking this time to fully prepare your waterproof gear for the wet ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Véore-Kanal",
+                "hu": "Véore-csatorna",
+                "ro": "Canalul Véore",
+                "en": "Véore Canal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam, da der glatte Radweg neben dem Kanal bei starkem Regenfall extrem rutschig und gefährlich werden kann.",
+                "hu": "Itt különösen lassan és óvatosan tekerjen, mivel a csatorna melletti sima kerékpárút heves esőzések idején rendkívül csúszóssá és veszélyessé válhat.",
+                "ro": "Mergeți deosebit de încet aici, deoarece pista de biciclete netedă de lângă canal poate deveni extrem de alunecoasă și periculoasă în timpul ploilor abundente.",
+                "en": "Ride extremely slowly along this section, as the smooth bike path next to the canal can become exceptionally slippery and treacherous during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Refugium Gontardes",
+                "hu": "Gontardes menedékhely",
+                "ro": "Refugiul Gontardes",
+                "en": "Gontardes Refuge"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den dichten Baumbestand als natürlichen Regenschirm, aber achten Sie auf tiefe Pfützen und nasses Laub auf den unbefestigten Pfaden.",
+                "hu": "Használja a sűrű lombkoronát természetes esernyőként, de nagyon figyeljen a mély tócsákra és a nedves falevelekre a burkolatlan, sáros ösvényeken.",
+                "ro": "Folosiți copacii deși ca umbrelă naturală, dar fiți foarte atenți la bălțile adânci și la frunzele umede de pe potecile neasfaltate și noroioase.",
+                "en": "Use the dense tree cover here as a natural umbrella, but watch your tires closely for deep puddles and wet leaves on the unpaved, muddy nature trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rozier",
+                "hu": "Rozier kastély",
+                "ro": "Castelul Rozier",
+                "en": "Rozier Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht im Sturm dramatisch aus; schieben Sie Ihr Rad am besten über das nasse Kopfsteinpflaster, um schmerzhafte Stürze zu vermeiden.",
+                "hu": "A kastély drámaian fest a viharban; a legjobb, ha a kerékpárt tolja a nedves macskaköveken, hogy elkerülje a fájdalmas csúszásokat és eséseket.",
+                "ro": "Castelul arată dramatic în furtună; cel mai bine este să vă împingeți bicicleta peste pietrele de pavaj umede pentru a evita căzăturile dureroase.",
+                "en": "The castle looks incredibly dramatic in the storm; it is highly recommended to walk your bike over the wet cobblestones to prevent painful slips and falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Circa'Parc",
+                "hu": "Circa'Parc",
+                "ro": "Circa'Parc",
+                "en": "Circa'Parc"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch den Park, da nasse Erde und Schlamm das Radfahren hier bei strömendem Regen ziemlich herausfordernd machen können.",
+                "hu": "Óvatosan haladjon át a parkon, mivel a nedves föld és a sár a kerékpározást itt meglehetősen kihívásossá és csúszóssá teheti a szakadó esőben.",
+                "ro": "Mergeți cu grijă prin parc, deoarece pământul umed și noroiul pot face ca mersul pe bicicletă aici să fie destul de provocator în ploaia torențială.",
+                "en": "Ride very carefully through the park areas, as wet soil and mud can make biking here quite challenging and slippery while the pouring rain persists."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Saint-Pierre",
+                "hu": "Saint-Pierre kastély",
+                "ro": "Castelul Saint-Pierre",
+                "en": "Saint-Pierre Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter und vertreten Sie sich die Beine in den überdachten Bereichen des Schlosses als willkommene Pause vom Dauerregen.",
+                "hu": "Tegye le a kerékpárt fedett helyre, és nyújtsa ki a lábát a kastély védett területein, ami igazi megváltás lesz a folyamatos, könyörtelen esőzésből.",
+                "ro": "Parcați bicicleta la adăpost și dezmorțiți-vă picioarele în zonele acoperite ale castelului, o pauză binevenită de la ploaia continuă și neiertătoare.",
+                "en": "Park your bike under cover and stretch your legs in the castle's sheltered areas, providing a very welcome break from the relentless, continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Öreg Malom",
+                "ro": "Moara Veche",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle ist bei Hochwasser besonders atmosphärisch, aber achten Sie mit dem Rad unbedingt auf die rutschigen Holzbrücken in der Nähe.",
+                "hu": "A régi malom különösen hangulatos a megáradt folyóval, de a kerékpárral mindenképpen ügyeljen a közelben lévő, rendkívül csúszós fahidakra.",
+                "ro": "Moara veche este deosebit de atmosferică cu râul umflat de ploaie, dar fiți atenți la podurile de lemn foarte alunecoase cu bicicleta.",
+                "en": "The old mill is especially atmospheric with the river swelling from the rain, just mind the dangerously slippery wooden bridges carefully with your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich ein für eine kalte Morgenfahrt am Kulturzentrum. Mittags radeln Sie über die frostigen Wege des Véore-Kanals. Die Nachmittagsstopps umfassen das Refugium Gontardes, Schloss Rozier und den Circa'Parc vor der Dämmerung. Erreichen Sie das Schloss Saint-Pierre und die Alte Mühle sicher vor der frühen Winterdunkelheit.",
+            "hu": "Öltözzön be alaposan a hideg reggeli tekeréshez a Kulturális Központnál. Délben a Véore-csatorna fagyos ösvényein halad. A délutáni megállók: Gontardes menedékhely, Rozier kastély és Circa'Parc az alkonyat előtt. Érje el a Saint-Pierre kastélyt és az Öreg Malmot a korai, hideg téli sötétség beállta előtt.",
+            "ro": "Înfofoliți-vă pentru o plimbare matinală rece la Centrul Cultural. La prânz, pedalați pe cărările înghețate ale Canalului Véore. Opririle de după-amiază includ Refugiul Gontardes, Castelul Rozier și Circa'Parc înainte de amurg. Ajungeți la Castelul Saint-Pierre și Moara Veche înainte de întunericul timpuriu de iarnă.",
+            "en": "Bundle up securely for a freezing morning ride starting at the Cultural Center. By noon, cycle the frosty paths of the Véore Canal. Afternoon stops include Gontardes Refuge, Rozier Castle, and Circa'Parc before twilight. Reach Saint-Pierre Castle and the Old Mill safely before the early, biting winter darkness hits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier im Warmen, um Ihre Finger aufzuwärmen, bevor Sie den Lenker in der eiskalten und stechenden Winterluft der Stadt greifen.",
+                "hu": "Kezdje itt a fűtött belső térben, hogy felmelegítse az ujjait, mielőtt ráfogna a jéghideg kormányra a város csípős, fagyos téli levegőjében.",
+                "ro": "Începeți aici la căldură pentru a vă încălzi degetele înainte de a apuca ghidonul înghețat în aerul de iarnă tăios și extrem de rece al orașului.",
+                "en": "Start inside the warm building here to thoroughly heat up your fingers before gripping the freezing handlebars in the biting, icy winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Véore-Kanal",
+                "hu": "Véore-csatorna",
+                "ro": "Canalul Véore",
+                "en": "Véore Canal"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Ufer sind wunderschön, aber Glatteis auf dem Radweg erfordert höchste Konzentration und warme Thermokleidung gegen den Fahrtwind.",
+                "hu": "A deres partok gyönyörűek, de a kerékpárúton lévő fekete jég maximális koncentrációt és meleg termo ruházatot igényel a menetszél ellen.",
+                "ro": "Malurile înghețate sunt frumoase, dar gheața neagră de pe pista de biciclete necesită concentrare maximă și haine termice calde împotriva vântului.",
+                "en": "The frosted banks are gorgeous, but hidden black ice on the bike path requires extreme concentration and excellent thermal gear against the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Refugium Gontardes",
+                "hu": "Gontardes menedékhely",
+                "ro": "Refugiul Gontardes",
+                "en": "Gontardes Refuge"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale, um sich in dieser offenen, windigen Naturlandschaft warm zu halten, in der die Winterkälte besonders spürbar ist.",
+                "hu": "Tekerjen erőteljesen, hogy melegen tartsa a testét ezen a nyílt, széljárta természeti tájon, ahol a téli hideg különösen érezhető és kellemetlen.",
+                "ro": "Pedați puternic pentru a vă menține corpul cald în acest peisaj natural deschis și bătut de vânt, unde frigul iernii este vizibil mai accentuat.",
+                "en": "Pedal vigorously to keep your body heat up in this open, wind-swept natural landscape where the biting winter cold is noticeably more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rozier",
+                "hu": "Rozier kastély",
+                "ro": "Castelul Rozier",
+                "en": "Rozier Castle"
+              },
+              "tip_5lang": {
+                "de": "Im Winterlicht wirkt die Burgruine fantastisch; achten Sie darauf, dass Ihre Fahrradlichter für die früh einsetzende Dunkelheit voll aufgeladen sind.",
+                "hu": "A téli fényben a kastélyrom fantasztikusan hat; ügyeljen arra, hogy a kerékpárlámpái teljesen fel legyenek töltve a korán ráereszkedő sötétséghez.",
+                "ro": "În lumina iernii, castelul arată fantastic; asigurați-vă că luminile bicicletei sunt complet încărcate pentru întunericul care se lasă devreme.",
+                "en": "In the pale winter light, the castle looks fantastic; please ensure your bike lights are fully charged in preparation for the early approaching darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Circa'Parc",
+                "hu": "Circa'Parc",
+                "ro": "Circa'Parc",
+                "en": "Circa'Parc"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Blicke durch den Park; halten Sie das Tempo hoch, um bei den eisigen Temperaturen nicht auszukühlen.",
+                "hu": "A kopasz fák széles kilátást nyújtanak a parkon keresztül; tartsa magasan a tempót, hogy a fagyos hőmérsékleten ne hűljön ki túlságosan.",
+                "ro": "Copacii goi oferă priveliști largi prin parc; mențineți un ritm alert pentru a nu vă răci corpul în temperaturile înghețate de afară.",
+                "en": "The barren trees offer completely clear views across the park; keep your riding pace up to firmly maintain body heat in these freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Saint-Pierre",
+                "hu": "Saint-Pierre kastély",
+                "ro": "Castelul Saint-Pierre",
+                "en": "Saint-Pierre Castle"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad an und erkunden Sie das frostige Schlossgelände, bevor das kalte Nachmittagslicht gegen 16:30 Uhr vollständig verschwindet.",
+                "hu": "Zárja le a kerékpárt, és fedezze fel a fagyos kastélykertet, mielőtt a hideg délutáni fény délután 4:30 körül teljesen és végleg eltűnik.",
+                "ro": "Legați-vă bicicleta și explorați domeniul înghețat al castelului înainte ca lumina rece a după-amiezii să dispară complet în jurul orei 16:30.",
+                "en": "Lock your bike securely and explore the frosty castle grounds briefly before the cold afternoon light completely fades away around 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Öreg Malom",
+                "ro": "Moara Veche",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Wasser um die alte Mühle schafft eine tolle Winterszene; fahren Sie im schwachen Abendlicht mit eingeschalteter Beleuchtung sehr sicher.",
+                "hu": "Az öreg malom körüli befagyott víz lenyűgöző téli jelenetet alkot; a gyenge esti fényben bekapcsolt világítással, nagyon biztonságosan tekerjen.",
+                "ro": "Apa înghețată din jurul vechii mori creează o scenă uimitoare de iarnă; mergeți foarte sigur cu luminile aprinse în lumina slabă a serii.",
+                "en": "The frozen water around the old mill creates a stunning winter scene; make sure to ride extremely safely with bright lights on in the low evening light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje autós utazását a városházánál, majd vezessen délre a történelmi Vieux Moulin-hoz. A dél tökéletes a Château Saint-Pierre és a kulturális központ felfedezésére. Délután a csatorna és a Gontardes menedékhely természeti szépségei várják, végül az estét a Rozier kastélynál és a Circa'Parc-ban zárhatja.",
         "ro": "Începeți excursia cu mașina la primărie, apoi conduceți spre sud la istoricul Vieux Moulin. Prânzul este perfect pentru a explora nobilul Château Saint-Pierre și centrul cultural. După-amiaza vă conectează cu frumusețea naturală a canalului și a refugiului Gontardes, încheind seara la Rozier și la Circa'Parc.",
         "en": "Kick off your road trip at the civic heart of the Hôtel de Ville, then drive south to the historic Vieux Moulin. Midday is perfect for exploring the noble Château Saint-Pierre and engaging with local arts at the cultural center. Afternoon driving connects you to the natural beauty of the canal and the Gontardes refuge, wrapping up the evening at Rozier and Circa'Parc."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt am Rathaus und bleiben Sie trocken. Verbringen Sie den nassen Morgen an der Alten Mühle und Schloss Saint-Pierre. Mittags besuchen Sie das Kulturzentrum und fahren am Véore-Kanal vorbei. Der regnerische Nachmittag führt Sie zum Refugium Gontardes, Schloss Rozier und schließlich zum Circa'Parc.",
+            "hu": "Kezdje esős autózását a Városházánál, kényelmesen szárazon maradva. Töltse a nedves délelőttöt az Öreg Malomnál és a Saint-Pierre kastélynál. Délben látogasson el a Kulturális Központba, majd hajtson el a Véore-csatorna mellett. Az esős délután a Gontardes menedékhelyhez, a Rozier kastélyhoz és a Circa'Parc-hoz visz.",
+            "ro": "Începeți traseul ploios la Primărie, rămânând confortabil și uscat. Petreceți dimineața udă la Moara Veche și Castelul Saint-Pierre. La prânz, vizitați Centrul Cultural și conduceți pe lângă Canalul Véore. După-amiaza ploioasă vă duce la Refugiul Gontardes, Castelul Rozier și, în final, Circa'Parc.",
+            "en": "Start your rainy drive at the Town Hall, keeping comfortably completely dry inside. Spend the wet morning at the Old Mill and Saint-Pierre Castle. At noon, comfortably visit the Cultural Center and slowly drive by the Véore Canal. The rainy afternoon safely takes you to Gontardes Refuge, Rozier Castle, and Circa'Parc."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie schnell vom Auto in das historische Rathaus, um die Architektur zu bewundern und dabei dem strömenden Regen komplett zu entgehen.",
+                "hu": "Szaladjon be gyorsan az autóból a történelmi városházára, hogy megcsodálja az építészetet, miközben teljesen elkerüli a kinti szakadó esőt.",
+                "ro": "Fugiți repede din mașină în Primăria istorică pentru a-i admira arhitectura, rămânând în același timp complet în afara ploii torențiale.",
+                "en": "Dash quickly from your warm car into the historic Town Hall to admire its fine architecture while staying completely out of the heavy pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Öreg Malom",
+                "ro": "Moara Veche",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah, um das schnell fließende Wasser zu sehen, aber hüten Sie sich vor den extrem nassen und rutschigen Stufen in der Nähe des Flussufers.",
+                "hu": "Parkoljon közel, hogy lássa a gyorsan folyó vizet, de nagyon óvakodjon a folyópart melletti rendkívül nedves és csúszós, veszélyes lépcsőktől.",
+                "ro": "Parcați aproape pentru a vedea apa cu debit rapid, dar feriți-vă de treptele extrem de umede și alunecoase din imediata apropiere a malului râului.",
+                "en": "Park very close to easily view the fast-flowing water, but be highly cautious of the extremely wet and slippery stone steps near the flooded riverbank."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Saint-Pierre",
+                "hu": "Saint-Pierre kastély",
+                "ro": "Castelul Saint-Pierre",
+                "en": "Saint-Pierre Castle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm griffbereit, wenn Sie vom sicheren Parkplatz gehen, um das imposante, vom Regen gewaschene Schlossgelände zu erkunden.",
+                "hu": "Tartsa kéznél az esernyőjét, amikor elsétál a biztonságos parkolóból, hogy felfedezze az impozáns, eső áztatta hatalmas kastélyterületet.",
+                "ro": "Țineți umbrela la îndemână în timp ce mergeți din parcare pentru a explora terenurile impunătoare ale castelului spălate de aversa de ploaie.",
+                "en": "Keep your large umbrella very handy as you walk from the parking area to effectively explore the imposing, beautifully rain-washed castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie hier einen absolut trockenen Stopp und tauchen Sie in die lokale Kultur ein, während der unerbittliche Regen draußen weiterfällt.",
+                "hu": "Élvezze itt a teljesen száraz és kényelmes megállót, elmerülve a helyi kultúrában, miközben a könyörtelen esőzés odakint megállás nélkül folytatódik.",
+                "ro": "Bucurați-vă de o oprire absolut uscată aici, scufundându-vă în cultura locală, în timp ce ploaia neiertătoare continuă să cadă abundent afară.",
+                "en": "Enjoy a perfectly dry and educational stop here indoors, happily diving into local culture while the relentless rain continues to fall heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Véore-Kanal",
+                "hu": "Véore-csatorna",
+                "ro": "Canalul Véore",
+                "en": "Véore Canal"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den malerischen Kanal bequem aus dem beheizten Auto heraus oder steigen Sie nur kurz mit einem stabilen Schirm in den Regen.",
+                "hu": "Csodálja meg a festői csatornát a fűtött autó kényelméből, vagy csak egy rövid időre szálljon ki egy masszív esernyővel a szemerkélő esőbe.",
+                "ro": "Admirați canalul pitoresc din confortul mașinii încălzite sau ieșiți doar pentru scurt timp cu o umbrelă solidă pentru a asculta ploaia.",
+                "en": "Admire the scenic canal comfortably directly from your heated car, or optionally step out just briefly with a sturdy umbrella to hear the raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Refugium Gontardes",
+                "hu": "Gontardes menedékhely",
+                "ro": "Refugiul Gontardes",
+                "en": "Gontardes Refuge"
+              },
+              "tip_5lang": {
+                "de": "Die Wege hier sind bei Regen extrem schlammig; genießen Sie die Aussicht besser vom Straßenrand oder tragen Sie wirklich dicke wasserfeste Stiefel.",
+                "hu": "Az itteni ösvények rendkívül sárosak esőben; inkább az út széléről élvezze a kilátást, vagy viseljen igazán vastag és magas vízálló csizmát.",
+                "ro": "Traseele de aici sunt extrem de noroioase pe ploaie; mai bine bucurați-vă de priveliște de pe marginea drumului sau purtați cizme impermeabile groase.",
+                "en": "The dirt trails here become incredibly muddy; it's best to enjoy the view safely from the road or definitively wear thick waterproof boots if exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rozier",
+                "hu": "Rozier kastély",
+                "ro": "Castelul Rozier",
+                "en": "Rozier Castle"
+              },
+              "tip_5lang": {
+                "de": "Der stürmische Himmel verleiht dem Schloss ein dramatisches Flair; seien Sie nur vorsichtig beim Fahren auf den schmalen, sehr nassen Zufahrtsstraßen.",
+                "hu": "A viharos égbolt drámai hangulatot kölcsönöz a kastélynak; csak legyen rendkívül óvatos, amikor a keskeny, nagyon vizes és csúszós bekötőutakon vezet.",
+                "ro": "Cerul furtunos adaugă un fler dramatic castelului; fiți foarte atenți când conduceți pe drumurile de acces înguste, curbate și extrem de umede.",
+                "en": "The dark stormy sky adds a dramatic flair to the castle; just be exceptionally careful driving up the narrow, very wet winding roads leading to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Circa'Parc",
+                "hu": "Circa'Parc",
+                "ro": "Circa'Parc",
+                "en": "Circa'Parc"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt mit einem schnellen Blick in den Park, aber es ist am besten, im Auto zu bleiben, wenn die starken Schauer noch anhalten.",
+                "hu": "Fejezze be autózását egy gyors pillantással a parkra, de a legjobb, ha biztonságban a meleg autóban marad, ha a heves záporok még mindig tartanak.",
+                "ro": "Încheiați-vă plimbarea cu o privire rapidă asupra parcului, deși este mult mai bine să rămâneți în mașină dacă aversele puternice continuă.",
+                "en": "Conclude your rainy drive with a quick look around the park, though staying comfortably inside the car is highly advised if the heavy showers persist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre winterliche Fahrt beginnt angenehm warm am Rathaus. Verbringen Sie einen frostigen Morgen an der Alten Mühle und Schloss Saint-Pierre. Nach einem gemütlichen Stopp mittags im Kulturzentrum fahren Sie am Véore-Kanal vorbei. Beenden Sie den kühlen Nachmittag am Refugium Gontardes, Schloss Rozier und Circa'Parc vor 17 Uhr.",
+            "hu": "A téli autózás kellemesen melegen indul a Városházánál. Töltsön egy fagyos, szép délelőttöt az Öreg Malomnál és a Saint-Pierre kastélynál. A Kulturális Központ déli, fűtött megállója után hajtson el a Véore-csatorna mellett. Fejezze be a hideg délutánt a Gontardes menedéknél, a Rozier kastélynál és a Circa'Parcnál 17 óra előtt.",
+            "ro": "Plimbarea de iarnă cu mașina începe la cald la Primărie. Petreceți o dimineață geroasă la Moara Veche și Castelul Saint-Pierre. După o oprire confortabilă la prânz la Centrul Cultural, conduceți pe lângă Canalul Véore. Terminați după-amiaza rece la Refugiul Gontardes, Castelul Rozier și Circa'Parc înainte de ora 17:00.",
+            "en": "Your winter drive begins warmly at the Town Hall. Spend a beautifully frosty morning at the Old Mill and Saint-Pierre Castle. After a cozy heated noon stop at the Cultural Center, drive past the scenic Véore Canal. Finish the chilly afternoon at Gontardes Refuge, Rozier Castle, and Circa'Parc well before 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kühlen Morgen am Rathaus, wo Sie schnell hineinschlüpfen können, um dem beißenden, eisigen Winterwind sofort zu entkommen.",
+                "hu": "Kezdje a hűvös reggelt a Városházánál, ahová gyorsan be tud surranni, hogy azonnal elmeneküljön a csípős, jeges, kényelmetlen téli szél elől.",
+                "ro": "Începeți-vă dimineața răcoroasă la Primărie, unde vă puteți adăposti rapid înăuntru pentru a scăpa imediat de vântul tăios și înghețat de iarnă.",
+                "en": "Start your chilly winter morning at the Town Hall, where you can very quickly duck inside to escape the painfully biting and icy morning winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Mühle",
+                "hu": "Öreg Malom",
+                "ro": "Moara Veche",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Umgebung der Mühle bietet tolle Fotomotive, aber achten Sie auf unsichtbare Eisflächen auf dem Parkplatz und nahe am kalten Wasser.",
+                "hu": "A malom fagyos környezete remek fotótémát kínál, de nagyon ügyeljen a láthatatlan jégfoltokra a parkolóban és a jéghideg víz közvetlen közelében.",
+                "ro": "Împrejurimile înghețate ale morii oferă oportunități foto grozave, dar aveți mare grijă la peticele de gheață invizibile din parcare și lângă apă.",
+                "en": "The frosty surroundings of the mill offer great winter photography, but carefully watch out for slick black ice patches in the lot and near the cold water."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Saint-Pierre",
+                "hu": "Saint-Pierre kastély",
+                "ro": "Castelul Saint-Pierre",
+                "en": "Saint-Pierre Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht unter der fahlen Wintersonne majestätisch aus; parken Sie sicher, da der große Parkplatz morgens extrem rutschig durch Eis sein kann.",
+                "hu": "A kastély fenségesen mutat a sápadt téli napfényben; parkoljon biztonságosan, mivel a nagy parkoló reggelente rendkívül csúszós és jeges lehet.",
+                "ro": "Castelul arată maiestuos sub soarele palid de iarnă; parcați în siguranță, deoarece parcarea mare poate fi extrem de alunecoasă din cauza gheții de dimineață.",
+                "en": "The castle looks majestic under the pale winter sun; park securely and slowly, as the large parking lot might be dangerously slick with morning ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem Veranstaltungsort gründlich auf und machen Sie eine entspannte Pause, bevor Sie wieder in die kalte Nachmittagsluft hinausfahren.",
+                "hu": "Melegedjen fel alaposan ebben a belső térben, tartva egy igazán pihentető szünetet, mielőtt újra nekivágna a hideg és fagyos délutáni levegőnek.",
+                "ro": "Încălziți-vă temeinic în această locație interioară, luând o pauză relaxantă înainte de a ieși din nou în aerul foarte rece al după-amiezii târzii.",
+                "en": "Warm up thoroughly in this highly heated indoor venue, taking a relaxed break before courageously heading back out into the freezing cold afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Véore-Kanal",
+                "hu": "Véore-csatorna",
+                "ro": "Canalul Véore",
+                "en": "Véore Canal"
+              },
+              "tip_5lang": {
+                "de": "Ein landschaftlich reizvoller Stopp am frostigen Kanal ist herrlich, aber lassen Sie den Motor besser laufen, um eine warme Rückkehr ins Auto zu gewährleisten.",
+                "hu": "Egy festői megálló a fagyos csatornánál gyönyörű, de jobb, ha járatja a motort, hogy biztosítsa a jólesően meleg visszatérést az autójába.",
+                "ro": "O oprire pitorească la canalul înghețat este încântătoare, dar mai bine lăsați motorul pornit pentru a vă asigura o întoarcere caldă în mașină.",
+                "en": "A quick scenic stop by the frosty canal is quite delightful, but keep the car engine running steadily to ensure a wonderfully warm return to your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Refugium Gontardes",
+                "hu": "Gontardes menedékhely",
+                "ro": "Refugiul Gontardes",
+                "en": "Gontardes Refuge"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine karge Winterästhetik; tragen Sie dicke Thermokleidung, wenn Sie sich entscheiden, das warme Auto für einen Spaziergang zu verlassen.",
+                "hu": "A kopasz fák zord téli esztétikát nyújtanak; viseljen rendkívül vastag termo rétegeket, ha úgy dönt, hogy elhagyja a meleg autót egy rövid sétára.",
+                "ro": "Copacii goi oferă o estetică aspră de iarnă; purtați straturi termice foarte groase dacă decideți să ieșiți din mașina caldă pentru o scurtă plimbare.",
+                "en": "The bare trees definitively offer stark winter beauty; wear very thick thermal layers if you bravely decide to step out of the warm car for a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rozier",
+                "hu": "Rozier kastély",
+                "ro": "Castelul Rozier",
+                "en": "Rozier Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Wintersonnenuntergang beleuchtet die Mauern wunderschön; planen Sie Ihre Ankunft früh, um die schnell nahende Dunkelheit um 17:00 Uhr zu überlisten.",
+                "hu": "A téli naplemente gyönyörűen megvilágítja a falakat; tervezze a korai érkezést, hogy biztosan megelőzze a gyorsan közeledő, 17:00 órai teljes sötétséget.",
+                "ro": "Apusul de iarnă iluminează frumos zidurile castelului; planificați să ajungeți devreme pentru a învinge întunericul care se apropie rapid la ora 17:00.",
+                "en": "The early winter sunset beautifully illuminates the castle walls; aim to arrive quite early to completely beat the fast-approaching 5 PM utter darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Circa'Parc",
+                "hu": "Circa'Parc",
+                "ro": "Circa'Parc",
+                "en": "Circa'Parc"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Winterfahrt hier direkt bei Einbruch der Dunkelheit und nutzen Sie die Autoscheinwerfer, da der Park schnell sehr dunkel und eiskalt wird.",
+                "hu": "Fejezze be a téli autózást itt az alkonyat beálltakor, kihasználva az autó fényszóróit, mivel a park rendkívül gyorsan sötétedik és dermesztően hideg lesz.",
+                "ro": "Încheiați-vă plimbarea de iarnă aici chiar la lăsarea întunericului, folosind farurile mașinii, deoarece parcul devine rapid foarte întunecat și rece.",
+                "en": "End your winter drive here just as dusk falls completely, strongly utilizing your car's headlights as the open park quickly gets very dark and freezing cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

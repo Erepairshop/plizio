@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt azzal, hogy elmélyül Ubrique gazdag bőrműves történelmében a Cuna de la Pielnél.\n\nDélben sétáljon el a békés San Pedro-kápolna mellett, és fedezze fel a történelmi Májusi Kereszteket.\n\nDélután kapaszkodjon fel az Urique Alto és Calvario kilátópontokhoz a lenyűgöző panorámákért.\n\nZárja a túrát a Bőrmúzeumban, amely a város legendás helyi kézművességét ünnepli és mutatja be.",
         "ro": "Începeți dimineața explorând istoria bogată a pielăriei din Ubrique la Cuna de la Piel.\n\nLa prânz, plimbați-vă pe lângă liniștita Ermita de San Pedro și descoperiți istoricele Cruci de Mai.\n\nDupă-amiaza, urcați la punctele de belvedere Urique Alto și Calvario pentru panorame uimitoare.\n\nÎncheiați turul la Muzeul Pielii, celebrând meșteșugul local legendar care a definit acest oraș minunat.",
         "en": "Start your morning delving into Ubrique's rich leatherworking history at Cuna de la Piel.\n\nBy midday, stroll past the tranquil Ermita de San Pedro and explore the historic Cruces de Mayo.\n\nIn the afternoon, ascend to the viewpoints of Urique Alto and Calvario for stunning panoramas.\n\nConclude your walking tour at the Leather Museum, celebrating the town's legendary local craftsmanship."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tage in Ubrique verleihen den weißen Gassen einen besonderen Glanz. Starten Sie morgens in den historischen Werkstätten, wo Sie im Trockenen die Handwerkskunst bewundern können. Mittags bieten die Kapellen Schutz vor Schauern. Nachmittags ist das Ledermuseum der ideale Ort, um dem Wetter zu entfliehen. Abends spiegeln sich die Lichter malerisch im nassen Kopfsteinpflaster.",
+            "hu": "Az esős napok Ubrique-ban különleges csillogást adnak a fehér utcáknak. Kezdje a reggelt a történelmi műhelyekben, ahol fedett helyen csodálhatja meg a kézművességet. Délben a kápolnák nyújtanak menedéket a záporok elől. Délután a Bőrmúzeum ideális hely a behúzódásra. Este a város fényei festőien tükröződnek a vizes macskaköveken, vigyázzon a csúszós lépcsőkön.",
+            "ro": "Zilele ploioase în Ubrique oferă o strălucire deosebită străzilor albe. Începeți dimineața în atelierele istorice, unde puteți admira meșteșugul la adăpost. La prânz, capelele oferă refugiu împotriva averselor. După-amiaza, Muzeul Pielii este locul ideal pentru a scăpa de vremea rea. Seara, luminile se reflectă pitoresc pe pavajul ud; atenție la treptele alunecoase.",
+            "en": "Rainy days in Ubrique lend a special luster to the white streets. Start your morning in the historical workshops, where you can admire the craftsmanship indoors. At noon, the small chapels provide shelter from the showers. In the afternoon, the Leather Museum is the perfect indoor refuge. In the evening, the city lights reflect beautifully on the wet cobblestones; watch your step."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wiege des Leders",
+                "hu": "A Bőr Bölcsője",
+                "ro": "Leagănul Pielii",
+                "en": "Cradle of Leather"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese historische Werkstatt, um das Herz der lokalen Industrie im Trockenen zu erleben; ideal, um dem Regen bei einem Workshop zu entkommen.",
+                "hu": "Látogasson el ebbe a történelmi műhelybe, hogy szárazon ismerje meg a helyi ipar szívét; ideális hely az eső elöli menekülésre egy bemutató közben.",
+                "ro": "Vizitați acest atelier istoric pentru a descoperi inima industriei locale la adăpost; este locul ideal pentru a evita ploaia în timpul unei demonstrații.",
+                "en": "Visit this historical workshop to experience the heart of local industry while staying dry; it is a perfect spot to escape the rain during a demo."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei San Pedro",
+                "hu": "Szent Péter-kápolna",
+                "ro": "Schitul Sfântul Petru",
+                "en": "St. Peter's Hermitage"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen ruhigen, überdachten Rückzugsort; bewundern Sie die religiöse Kunst, während Sie auf das Ende eines Regenschauers warten.",
+                "hu": "Ez a kis kápolna csendes, fedett menedéket nyújt; csodálja meg a vallási művészetet, miközben megvárja, amíg eláll a hirtelen andalúz zápor.",
+                "ro": "Această mică capelă oferă un refugiu liniștit și acoperit; admirați arta religioasă în timp ce așteptați să treacă o aversă trecătoare.",
+                "en": "This small chapel offers a quiet, covered retreat; admire the religious art while waiting for a passing Andalusian rain shower to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mai-Kreuze",
+                "hu": "Májusi Keresztek",
+                "ro": "Crucile de Mai",
+                "en": "May Crosses"
+              },
+              "tip_5lang": {
+                "de": "Die Kreuze sind oft unter kleinen Vordächern geschützt; nutzen Sie einen Regenschirm, um die floralen Details trotz des grauen Himmels zu bewundern.",
+                "hu": "A keresztek gyakran kis előtetők alatt állnak; használjon esernyőt, hogy a szürke égbolt ellenére is megcsodálhassa a virágos részleteket.",
+                "ro": "Crucile sunt adesea protejate sub mici streșini; folosiți o umbrelă pentru a admira detaliile florale în ciuda cerului gri de deasupra.",
+                "en": "The crosses are often protected under small eaves; use an umbrella to admire the floral details despite the grey sky overhead."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Urique Alto",
+                "hu": "Urique Alto Kilátó",
+                "ro": "Punctul de belvedere Urique Alto",
+                "en": "Urique Alto Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über den Bergen kann mystisch wirken; achten Sie auf den rutschigen Aufstieg und tragen Sie unbedingt Schuhe mit gutem Profil.",
+                "hu": "A hegyek feletti köd misztikus látványt nyújt; ügyeljen a csúszós emelkedőre, és mindenképpen jó tapadású talpú cipőt viseljen a sétához.",
+                "ro": "Ceața de deasupra munților poate părea mistică; atenție la urcușul alunecos și purtați neapărat încălțăminte cu talpă aderentă.",
+                "en": "The mist over the mountains can look mystical; be careful on the slippery ascent and definitely wear shoes with good grip for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Ermita del Calvario",
+                "hu": "Kálvária-kápolna Kilátó",
+                "ro": "Punct de belvedere Ermita del Calvario",
+                "en": "Calvary Hermitage Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das nasse Ubrique ist dramatisch; suchen Sie Schutz unter den Bäumen oder am Kapelleneingang, falls der Regen wieder stärker wird.",
+                "hu": "A vizes Ubrique látványa drámai erről a pontról; keressen menedéket a fák alatt vagy a kápolna bejáratánál, ha felerősödne az eső.",
+                "ro": "Vederea asupra orașului Ubrique ud este dramatică; căutați adăpost sub copaci sau la intrarea capelei dacă ploaia se intensifică din nou.",
+                "en": "The view of wet Ubrique is dramatic from here; seek shelter under the trees or at the chapel entrance if the rain intensifies again."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledermuseum",
+                "hu": "Bőrmúzeum",
+                "ro": "Muzeul Pielii",
+                "en": "Leather Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das ultimative Indoor-Ziel; verbringen Sie hier viel Zeit, um die Maschinen und Produkte zu bestaunen, während es draußen stürmt.",
+                "hu": "Ez a legjobb fedett úti cél a városban; töltsön itt több időt a gépek és termékek megtekintésével, amíg kint tombol a viharos időjárás.",
+                "ro": "Aceasta este cea mai bună destinație interioară; petreceți mai mult timp aici admirând utilajele și produsele în timp ce afară plouă.",
+                "en": "This is the ultimate indoor destination; spend plenty of time here admiring the machines and products while it storms outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in der Sierra de Grazalema ist mild, aber frisch. Morgens liegt oft ein kühler Tau auf den Dächern. Mittags wärmt die Wintersonne die historischen Plätze angenehm auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Aussichtspunkte am frühen Nachmittag besuchen. Abends lockt die gemütliche Atmosphäre der Altstadt mit beleuchteten Fassaden.",
+            "hu": "A tél a Sierra de Grazalema vidékén enyhe, de friss. Reggelente gyakran hűvös harmat borítja a háztetőket. Délben a téli napsütés kellemesen felmelegíti a történelmi tereket. Mivel a nap már 17:00 körül lemegy, a kilátókat kora délután érdemes felkeresni. Este az óváros meghitt hangulata és a kivilágított homlokzatok várják a sétálókat.",
+            "ro": "Iarna în Sierra de Grazalema este blândă, dar răcoroasă. Dimineața, roua rece acoperă adesea acoperișurile. La prânz, soarele de iarnă încălzește plăcut piețele istorice. Deoarece soarele apune deja în jur de ora 17:00, vizitați punctele de belvedere la începutul după-amiezii. Seara, atmosfera primitoare a centrului vechi vă atrage.",
+            "en": "Winter in the Sierra de Grazalema is mild but fresh. In the mornings, a cool dew often covers the rooftops. At noon, the winter sun pleasantly warms the historical squares. Since the sun sets around 17:00, visit the viewpoints in the early afternoon. In the evening, the cozy atmosphere of the old town and illuminated facades await."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wiege des Leders",
+                "hu": "A Bőr Bölcsője",
+                "ro": "Leagănul Pielii",
+                "en": "Cradle of Leather"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstatt ist im Winter ein warmer und einladender Ort; erfahren Sie mehr über die traditionelle Lederverarbeitung in einer gemütlichen Umgebung.",
+                "hu": "A műhely télen meleg és barátságos hely; ismerje meg a hagyományos bőrfeldolgozást ebben a meghitt környezetben, távol a kinti hideg széltől.",
+                "ro": "Atelierul este un loc cald și primitor iarna; aflați mai multe despre prelucrarea tradițională a pielii într-un cadru primitor și plăcut.",
+                "en": "The workshop is a warm and welcoming place in winter; learn about traditional leather processing in a cozy setting away from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei San Pedro",
+                "hu": "Szent Péter-kápolna",
+                "ro": "Schitul Sfântul Petru",
+                "en": "St. Peter's Hermitage"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; tragen Sie eine zusätzliche Schicht Kleidung, wenn Sie das kühle Innere dieser historischen Kapelle besuchen.",
+                "hu": "A vastag falak tartják a hideget; viseljen egy extra réteg ruhát, amikor meglátogatja e történelmi kápolna hűvös, de lenyűgöző belső terét.",
+                "ro": "Zidurile groase păstrează frigul; purtați un strat suplimentar de haine când vizitați interiorul răcoros al acestei capele istorice.",
+                "en": "The thick walls retain the cold; wear an extra layer of clothing when visiting the cool interior of this historical and impressive chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Mai-Kreuze",
+                "hu": "Májusi Keresztek",
+                "ro": "Crucile de Mai",
+                "en": "May Crosses"
+              },
+              "tip_5lang": {
+                "de": "Auch im Winter sind die Kreuze geschmückt; das klare Winterlicht bringt die Farben der Keramik und der Steine besonders gut zur Geltung.",
+                "hu": "A keresztek télen is díszesek; a tiszta téli fényben a kerámiák és kövek színei különösen jól érvényesülnek a fehér falak előtt.",
+                "ro": "Crucile sunt decorate și iarna; lumina clară de iarnă evidențiază culorile ceramicii și ale pietrelor în mod deosebit pe fundalul alb.",
+                "en": "The crosses are decorated even in winter; the clear winter light makes the colors of the ceramics and stones stand out against the white."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Urique Alto",
+                "hu": "Urique Alto Kilátó",
+                "ro": "Punctul de belvedere Urique Alto",
+                "en": "Urique Alto Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Fernsicht, die im Winter oft klarer ist; bringen Sie eine Thermoskanne mit, um die Aussicht mit einem warmen Getränk zu genießen.",
+                "hu": "Élvezze a távoli kilátást, amely télen gyakran tisztább; hozzon magával termoszt, hogy egy meleg ital mellett gyönyörködhessen a tájban.",
+                "ro": "Bucurați-vă de vizibilitatea la distanță, care este adesea mai clară iarna; aduceți un termos pentru a admira peisajul cu o băutură caldă.",
+                "en": "Enjoy the distant views, which are often clearer in winter; bring a thermos to enjoy the landscape with a warm drink at this high point."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Ermita del Calvario",
+                "hu": "Kálvária-kápolna Kilátó",
+                "ro": "Punct de belvedere Ermita del Calvario",
+                "en": "Calvary Hermitage Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter gegen 17:00 Uhr spektakulär; ziehen Sie sich warm an, da es nach dem Verschwinden der Sonne schnell abkühlt.",
+                "hu": "A naplemente itt télen 17:00 körül látványos; öltözzön rétegesen, mert a nap eltűnése után a hőmérséklet hirtelen és jelentősen lecsökken.",
+                "ro": "Apusul este spectaculos aici iarna în jur de ora 17:00; îmbrăcați-vă bine, deoarece temperatura scade rapid după ce soarele dispare.",
+                "en": "The sunset is spectacular here in winter around 17:00; dress warmly as the temperature drops quickly and significantly after the sun disappears."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledermuseum",
+                "hu": "Bőrmúzeum",
+                "ro": "Muzeul Pielii",
+                "en": "Leather Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag; nutzen Sie die beheizten Ausstellungsräume, um sich vor dem Abendspaziergang aufzuwärmen.",
+                "hu": "Ideális hely a késő délutáni órákra; használja ki a fűtött kiállítótermeket, hogy bemelegedjen az esti séta megkezdése előtt.",
+                "ro": "Un loc ideal pentru sfârșitul după-amiezii; profitați de sălile de expoziție încălzite pentru a vă încălzi înainte de plimbarea de seară.",
+                "en": "An ideal spot for the late afternoon; take advantage of the heated exhibition rooms to warm up before starting your evening walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpáros utazást friss reggeli kilátással a gyönyörű Antigua Viña del Perro-ról.\n\nA dél a hit és a történelem keverékét hozza, miközben a Jézus-templom mellett elhaladva a Cuna de la Pielhez teker.\n\nDélután a Las Cumbres kilátóhoz vezet az út, mielőtt felfedezné a kiterjedt Bőrmúzeumot.\n\nZárja a napot azzal, hogy északra kerékpározik, és megcsodálja a lenyűgöző Ocuri ókori római csodáit.",
         "ro": "Începeți călătoria cu bicicleta cu priveliști proaspete de dimineață de la frumoasa Antigua Viña del Perro.\n\nPrânzul aduce un amestec de credință și istorie, trecând pe lângă Biserica lui Iisus spre istoricul Cuna de la Piel.\n\nPedalarea de după-amiază vă duce la punctul de belvedere Las Cumbres înainte de a explora vastul Muzeul Pielii.\n\nÎncheiați ziua mergând spre nord, pentru a descoperi minunile romane antice la impresionantele situri Ocuri.",
         "en": "Begin your cycling journey with fresh morning views from the beautiful Antigua Viña del Perro.\n\nMidday brings a mix of faith and history, riding past the Jesus Church to the historic Cuna de la Piel.\n\nAfternoon pedaling takes you to Las Cumbres viewpoint before exploring the extensive Leather Museum.\n\nEnd the day riding north to admire the ancient Roman wonders at the impressive Ocuri sites."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Ubrique bei Regen erfordert Vorsicht auf den steilen Straßen. Morgens ist die Fahrt zum Weinberg bei leichtem Nieselregen besonders atmosphärisch. Mittags bieten Kirchen und Werkstätten trockene Pausenstopps. Nachmittags fordern die nassen Wege zu den Ruinen von Ocuri Ihre Geschicklichkeit. Abends kehren Sie am besten frühzeitig in den Schutz der Stadt zurück.",
+            "hu": "A kerékpározás Ubrique-ban esőben óvatosságot igényel a meredek utcákon. Reggel a szőlőskerthez vezető út enyhe szitálásban különösen hangulatos. Délben a templomok és műhelyek száraz pihenőket kínálnak. Délután az Ocuri romjaihoz vezető vizes utak próbára teszik ügyességét. Este érdemes időben visszatérni a város védettebb részeibe.",
+            "ro": "Ciclismul în Ubrique pe ploaie necesită prudență pe străzile abrupte. Dimineața, drumul spre podgorie este deosebit de atmosferic pe o burniță ușoară. La prânz, bisericile și atelierele oferă pauze uscate. După-amiaza, drumurile ude spre ruinele Ocuri vă testează abilitățile. Seara, cel mai bine este să reveniți devreme în oraș.",
+            "en": "Cycling in Ubrique in the rain requires caution on the steep streets. In the morning, the ride to the vineyard is particularly atmospheric in light drizzle. At noon, churches and workshops offer dry rest stops. In the afternoon, the wet paths to the Ocuri ruins will test your skills. In the evening, it is best to return early to the shelter of the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aussichtspunkt Antigua Viña del Perro",
+                "hu": "Öreg Kutya Szőlője Kilátó",
+                "ro": "Punct de belvedere Antigua Viña del Perro",
+                "en": "Old Dog Vineyard Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt kann bei Regen rutschig sein; prüfen Sie Ihre Bremsen gründlich, bevor Sie den Panoramablick auf die neblige Sierra genießen.",
+                "hu": "Az ereszkedés esőben csúszós lehet; alaposan ellenőrizze a fékeket, mielőtt gyönyörködne a ködös Sierra panorámájában erről a pontról.",
+                "ro": "Coborârea poate fi alunecoasă pe ploaie; verificați bine frânele înainte de a admira panorama asupra munților înălbiți de ceață.",
+                "en": "The descent can be slippery in the rain; check your brakes thoroughly before enjoying the panoramic view of the misty Sierra from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Jesus-Kirche",
+                "hu": "Jézus Temploma",
+                "ro": "Biserica lui Iisus",
+                "en": "Church of Jesus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Unterstand; parken Sie Ihr Rad sicher und trocknen Sie sich im Inneren dieses religiösen Wahrzeichens ab.",
+                "hu": "Használja a templom bejáratát esővédőként; parkolja le biztonságosan a biciklit, és szárítkozzon meg e vallási nevezetesség belsejében.",
+                "ro": "Folosiți intrarea bisericii ca adăpost; parcați bicicleta în siguranță și uscați-vă în interiorul acestui reper religios important.",
+                "en": "Use the church entrance as a rain shelter; park your bike securely and dry off inside this significant local religious landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Wiege des Leders",
+                "hu": "A Bőr Bölcsője",
+                "ro": "Leagănul Pielii",
+                "en": "Cradle of Leather"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Rad kurz stehen zu lassen; die Werkstatt bietet Schutz und faszinierende Einblicke in die Lederkunst bei jedem Wetter.",
+                "hu": "Tökéletes hely a bicikli rövid leállítására; a műhely védelmet és lenyűgöző betekintést nyújt a bőrművességbe bármilyen időjárás esetén.",
+                "ro": "Un loc perfect pentru a lăsa bicicleta puțin; atelierul oferă protecție și perspective fascinante asupra artei pielăriei pe orice vreme.",
+                "en": "A perfect place to leave your bike for a bit; the workshop offers protection and fascinating insights into leather art in any weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Las Cumbres",
+                "hu": "Las Cumbres Kilátó",
+                "ro": "Punct de belvedere Las Cumbres",
+                "en": "Las Cumbres Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie helle Regenkleidung für bessere Sichtbarkeit; der Blick auf die wolkenverhangenen Gipfel lohnt die Anstrengung trotz der Nässe.",
+                "hu": "Viseljen világos esőruházatot a jobb láthatóságért; a felhőkbe burkolózó csúcsok látványa megéri az erőfeszítést a nedves út ellenére is.",
+                "ro": "Purtați haine de ploaie luminoase pentru vizibilitate; vederea spre vârfurile acoperite de nori merită efortul în ciuda carosabilului ud.",
+                "en": "Wear bright rain gear for better visibility; the view of the cloud-covered peaks is worth the effort despite the wet road conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledermuseum",
+                "hu": "Bőrmúzeum",
+                "ro": "Muzeul Pielii",
+                "en": "Leather Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Pause ein, um dem stärksten Regen zu entgehen; die Ausstellungen sind komplett überdacht und sehr informativ.",
+                "hu": "Tervezzen ide hosszabb pihenőt, hogy elkerülje a leghevesebb esőt; a kiállítások teljesen fedettek és rendkívül informatívak a látogatóknak.",
+                "ro": "Planificați o pauză mai lungă aici pentru a evita ploaia torențială; expozițiile sunt complet acoperite și foarte informative pentru turiști.",
+                "en": "Plan a longer break here to avoid the heaviest rain; the exhibitions are completely covered and very informative for all visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Palatinstadt Ocuri",
+                "hu": "Ocuri Palotaváros",
+                "ro": "Orașul Palatin Ocuri",
+                "en": "Palatine City of Ocuri"
+              },
+              "tip_5lang": {
+                "de": "Die archäologische Stätte kann bei Regen matschig sein; stellen Sie sicher, dass Ihr Fahrrad über Schutzbleche verfügt, um sich trocken zu halten.",
+                "hu": "A régészeti lelőhely esőben sáros lehet; győződjön meg róla, hogy a kerékpár rendelkezik sárvédővel, hogy szárazon tartsa ruházatát.",
+                "ro": "Situl arheologic poate fi noroios pe ploaie; asigurați-vă că bicicleta are aripi de protecție pentru a vă menține hainele uscate.",
+                "en": "The archaeological site can be muddy in the rain; make sure your bike has mudguards to keep your clothes dry while exploring the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum von Ocuri",
+                "hu": "Ocuri Mauzóleuma",
+                "ro": "Mausoleul Ocuri",
+                "en": "Mausoleum of Ocuri"
+              },
+              "tip_5lang": {
+                "de": "Der antike Stein wird bei Nässe extrem glatt; steigen Sie vom Rad ab und gehen Sie das letzte Stück zu Fuß, um Stürze zu vermeiden.",
+                "hu": "Az ősi kő nedvesen rendkívül csúszóssá válik; szálljon le a bicikliről, és az utolsó szakaszt tegye meg gyalog az esések elkerülése érdekében.",
+                "ro": "Piatra antică devine extrem de alunecoasă când este udă; coborâți de pe bicicletă și parcurgeți ultima porțiune pe jos pentru a evita căzăturile.",
+                "en": "The ancient stone becomes extremely slippery when wet; get off your bike and walk the last stretch to avoid any potential falls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Ubrique bietet klare Luft und einsame Wege. Morgens sind Handschuhe und eine windfeste Jacke für die kühle Abfahrt zum Weinberg unerlässlich. Mittags ist das Wetter ideal für die Anstiege zu den Aussichtspunkten. Da es ab 17:00 Uhr dunkel wird, sollten Sie die Ruinen von Ocuri früh besuchen. Abends glänzen die Lichter der Stadt in der kalten Luft.",
+            "hu": "A téli kerékpározás Ubrique-ban tiszta levegőt és néptelen utakat kínál. Reggel a kesztyű és a szélálló kabát elengedhetetlen a szőlőskerthez vezető hűvös lejtőhöz. Délben az időjárás ideális a kilátókhoz vezető emelkedőkhöz. Mivel 17:00-tól sötétedik, az Ocuri romjait korán látogassa meg. Este a város fényei ragyognak a hideg levegőben.",
+            "ro": "Ciclismul de iarnă în Ubrique oferă aer curat și drumuri libere. Dimineața, mănușile și o jachetă antivânt sunt esențiale pentru coborârea răcoroasă. La prânz, vremea este ideală pentru urcușurile spre punctele de belvedere. Deoarece se întunecă de la ora 17:00, vizitați ruinele Ocuri devreme. Seara, luminile strălucesc în aerul rece.",
+            "en": "Winter cycling in Ubrique offers crisp air and empty roads. In the morning, gloves and a windproof jacket are essential for the cool descent to the vineyard. At noon, the weather is ideal for the climbs to the viewpoints. Since it gets dark from 17:00, visit the Ocuri ruins early. In the evening, the town lights sparkle in the cold air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aussichtspunkt Antigua Viña del Perro",
+                "hu": "Öreg Kutya Szőlője Kilátó",
+                "ro": "Punct de belvedere Antigua Viña del Perro",
+                "en": "Old Dog Vineyard Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "In den Schattenlagen kann es am Morgen frostig sein; halten Sie Ihre Muskeln durch kontinuierliches Treten warm, während Sie die Aussicht genießen.",
+                "hu": "Az árnyékos részeken reggelente fagyos lehet az idő; tartsa melegen az izmait folyamatos tekeréssel, miközben a kilátásban gyönyörködik.",
+                "ro": "În zonele umbrite poate fi înghețat dimineața; mențineți-vă mușchii calzi pedalând continuu în timp ce admirați priveliștea de aici.",
+                "en": "In shaded areas, it can be frosty in the morning; keep your muscles warm by pedaling continuously while enjoying the view from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Jesus-Kirche",
+                "hu": "Jézus Temploma",
+                "ro": "Biserica lui Iisus",
+                "en": "Church of Jesus"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, sich aufzuwärmen; die friedliche Stille der Kirche ist im Winter besonders einladend für eine kleine Pause.",
+                "hu": "Egy rövid megálló bent segít felmelegedni; a templom békés csendje télen különösen hívogató egy kis pihenőre a biciklizés közben.",
+                "ro": "O scurtă oprire în interior vă ajută să vă încălziți; liniștea bisericii este deosebit de primitoare iarna pentru o mică pauză de odihnă.",
+                "en": "A short stop inside helps you warm up; the peaceful silence of the church is especially inviting in winter for a short rest from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Wiege des Leders",
+                "hu": "A Bőr Bölcsője",
+                "ro": "Leagănul Pielii",
+                "en": "Cradle of Leather"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um Ihre Hände in der warmen Werkstatt zu lockern; die Handwerkskunst lässt sich bei kühleren Temperaturen entspannter bewundern.",
+                "hu": "Használja ki a látogatást, hogy felmelegítse kezeit a műhelyben; a kézművességet hűvösebb időben nyugodtabban lehet megcsodálni bent.",
+                "ro": "Profitați de vizită pentru a vă încălzi mâinile în atelier; meșteșugul poate fi admirat mai relaxat în interior la temperaturi scăzute.",
+                "en": "Take advantage of the visit to warm your hands in the workshop; the craftsmanship can be admired more relaxedly indoors in cool weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Las Cumbres",
+                "hu": "Las Cumbres Kilátó",
+                "ro": "Punct de belvedere Las Cumbres",
+                "en": "Las Cumbres Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und bietet hervorragendes Licht für Fotos; tragen Sie ein Stirnband unter dem Helm gegen den kalten Fahrtwind.",
+                "hu": "A téli nap alacsonyan jár, kiváló fényt biztosítva a fotókhoz; viseljen fejpántot a sisak alatt a hideg menetszél elleni védekezésként.",
+                "ro": "Soarele de iarnă este jos, oferind o lumină excelentă pentru fotografii; purtați o bentiță sub cască împotriva vântului rece de la rulare.",
+                "en": "The winter sun is low, providing excellent light for photos; wear a headband under your helmet to protect against the cold wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledermuseum",
+                "hu": "Bőrmúzeum",
+                "ro": "Muzeul Pielii",
+                "en": "Leather Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für die Mittagszeit; die Innenräume sind angenehm temperiert und bieten eine perfekte Flucht vor der winterlichen Frische draußen.",
+                "hu": "Ideális helyszín a déli órákra; a belső terek kellemes hőmérsékletűek, tökéletes menekülést nyújtva a kinti téli frissesség elől.",
+                "ro": "Locul ideal pentru ora prânzului; interioarele au o temperatură plăcută, oferind o evadare perfectă de prospețimea iernii de afară.",
+                "en": "The ideal location for the noon hours; the interiors are pleasantly tempered, offering a perfect escape from the winter freshness outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palatinstadt Ocuri",
+                "hu": "Ocuri Palotaváros",
+                "ro": "Orașul Palatin Ocuri",
+                "en": "Palatine City of Ocuri"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang vor 16:30 Uhr; in der Höhe sinken die Temperaturen schnell, sobald die Sonne hinter den Felsen verschwindet.",
+                "hu": "Fejezze be a bejárást 16:30 előtt; a magasságban a hőmérséklet gyorsan süllyed, amint a nap eltűnik a sziklák mögött a délután végén.",
+                "ro": "Încheiați turul înainte de ora 16:30; la înălțime, temperaturile scad rapid imediat ce soarele dispare după stânci la finalul zilei.",
+                "en": "Finish your tour before 16:30; at this altitude, temperatures drop rapidly as soon as the sun disappears behind the rocks in late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum von Ocuri",
+                "hu": "Ocuri Mauzóleuma",
+                "ro": "Mausoleul Ocuri",
+                "en": "Mausoleum of Ocuri"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Fahrradbeleuchtung für die Rückfahrt; nach dem Besuch des Mausoleums wird es im Winter sehr schnell dunkel in den Bergen.",
+                "hu": "Ellenőrizze a kerékpár világítását a visszatéréshez; a mauzóleum meglátogatása után télen nagyon gyorsan sötétedik a hegyi utakon.",
+                "ro": "Verificați luminile bicicletei pentru întoarcere; după vizitarea mausoleului, se întunecă foarte repede pe drumurile de munte iarna.",
+                "en": "Check your bike lights for the return journey; after visiting the mausoleum, it gets dark very quickly on the mountain roads in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje az autós túrát egy nagyszerű fotóval az ikonikus 'Üdvözöljük Ubrique-ben' táblánál.\n\nDélben pihenjen az Amarguillo medencénél, mielőtt elmerülne a város lenyűgöző bőrműves történelmében.\n\nDélután kényelmesen autózhat a Bőrmúzeum és a fenséges Ocuri római romok között.\n\nZárja az autós utazást egy frissítő késő délutáni fürdőzéssel a Benaocaz városi medencében.",
         "ro": "Începeți turul cu mașina făcând o fotografie la emblematicul punct de reper 'Bun venit în Ubrique'.\n\nPetreceți prânzul relaxându-vă la piscina Amarguillo înainte de a vă scufunda în istoria pielii din oraș.\n\nDupă-amiaza, conduceți cu ușurință între Muzeul Pielii și ruinele romane maiestuoase din Ocuri.\n\nÎncheiați călătoria cu o baie răcoritoare după-amiaza târziu la piscina municipală din Benaocaz.",
         "en": "Kick off your driving tour by taking a photo at the iconic 'Welcome to Ubrique' roadside landmark.\n\nSpend your midday relaxing at the Amarguillo pool before diving into the town's legendary leather history.\n\nIn the afternoon, easily drive between the immersive Leather Museum and the majestic Roman ruins of Ocuri.\n\nWrap up your road trip with a refreshing late afternoon dip at the beautiful municipal pool in Benaocaz."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Ubrique bei Regen bietet dramatische Ausblicke auf die wolkenverhangene Sierra. Morgens begrüßt Sie das Monument im Nebel. Da die Außenpools bei Regen geschlossen sind, konzentrieren Sie sich mittags auf die überdachten Lederstandorte. Nachmittags ist die Fahrt nach Benaocaz zwar kurvig, aber sicher. Abends parken Sie zentral und genießen das nasse Treiben aus dem Auto.",
+            "hu": "Az autóút Ubrique-ban esőben drámai kilátást nyújt a felhőkbe burkolózott Sierrára. Reggel az emlékmű ködben üdvözli Önt. Mivel a kültéri medencék esőben zárva vannak, délben koncentráljon a fedett bőrkiállításokra. Délután a Benaocazba vezető út kanyargós, de biztonságos. Este parkoljon a központban, és élvezze a vizes város látványát.",
+            "ro": "O călătorie cu mașina prin Ubrique pe ploaie oferă vederi dramatice asupra munților acoperiți de nori. Dimineața, monumentul vă întâmpină în ceață. Deoarece piscinele exterioare sunt închise, concentrați-vă pe locațiile acoperite dedicate pielăriei. După-amiaza, drumul spre Benaocaz este virajat, dar sigur. Seara, parcați central și admirați orașul.",
+            "en": "A car trip through Ubrique in the rain offers dramatic views of the cloud-shrouded Sierra. In the morning, the monument greets you in the mist. Since outdoor pools are closed in the rain, focus on the covered leather sites at noon. In the afternoon, the drive to Benaocaz is winding but safe. In the evening, park centrally and enjoy the wet city views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Willkommen in Ubrique Denkmal",
+                "hu": "Üdvözöljük Ubrique-ben Emlékmű",
+                "ro": "Monumentul Bun venit în Ubrique",
+                "en": "Welcome to Ubrique Monument"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto aus dem Fenster; der Nebel um das Monument verleiht der Ankunft in der Stadt eine geheimnisvolle Note.",
+                "hu": "Álljon meg egy gyors fotóra az ablakból; az emlékmű körüli köd titokzatos hangulatot kölcsönöz a városba való megérkezésnek esős időben.",
+                "ro": "Opriți scurt pentru o fotografie de la fereastră; ceața din jurul monumentului oferă o notă misterioasă sosirii în oraș pe timp de ploaie.",
+                "en": "Stop briefly for a photo from the window; the mist around the monument adds a mysterious touch to your arrival in the city in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Amarguillo-Schwimmbad",
+                "hu": "Amarguillo Medence",
+                "ro": "Piscina Amarguillo",
+                "en": "Amarguillo Pool"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist das Bad geschlossen; bewundern Sie stattdessen die umliegende Natur vom Parkplatz aus, während die Regentropfen auf das Autodach trommeln.",
+                "hu": "Esőben a strand zárva tart; csodálja meg inkább a környező természetet a parkolóból, miközben az esőcseppek az autó tetején kopognak.",
+                "ro": "Pe ploaie, piscina este închisă; admirați în schimb natura înconjurătoare din parcare, în timp ce stropii de ploaie bat în plafonul mașinii.",
+                "en": "In the rain, the pool is closed; admire the surrounding nature from the parking lot instead, while raindrops drum on the roof of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wiege des Leders",
+                "hu": "A Bőr Bölcsője",
+                "ro": "Leagănul Pielii",
+                "en": "Cradle of Leather"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; diese historische Stätte ist der ideale trockene Ort, um tiefer in die Stadtgeschichte einzutauchen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; ez a történelmi helyszín ideális száraz pont, hogy elmerüljön a város gazdag bőripari múltjában.",
+                "ro": "Parcați cât mai aproape de intrare; acest sit istoric este locul uscat ideal pentru a aprofunda istoria bogată a pielăriei din oraș.",
+                "en": "Park as close to the entrance as possible; this historical site is the ideal dry spot to delve deeper into the city's rich leather history."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledermuseum",
+                "hu": "Bőrmúzeum",
+                "ro": "Muzeul Pielii",
+                "en": "Leather Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum verfügt über gute Parkmöglichkeiten in der Nähe; genießen Sie die umfassende Ausstellung als perfekten Schutz vor einem Regenguss.",
+                "hu": "A múzeum közelében jó parkolási lehetőségek vannak; élvezze az átfogó kiállítást, amely tökéletes védelmet nyújt a kinti heves záporok elől.",
+                "ro": "Muzeul are locuri de parcare bune în apropiere; bucurați-vă de expoziția cuprinzătoare ca protecție perfectă împotriva averselor de afară.",
+                "en": "The museum has good parking facilities nearby; enjoy the comprehensive exhibition as a perfect protection from the heavy showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palatinstadt Ocuri",
+                "hu": "Ocuri Palotaváros",
+                "ro": "Orașul Palatin Ocuri",
+                "en": "Palatine City of Ocuri"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Auffahrt die Sichtverhältnisse; bei starkem Regen kann die Straße zur Stätte durch die steile Lage etwas anspruchsvoll sein.",
+                "hu": "A felfelé út előtt ellenőrizze a látási viszonyokat; heves esőben a helyszínhez vezető meredek út nagyobb odafigyelést igényel a sofőrtől.",
+                "ro": "Verificați vizibilitatea înainte de a urca; pe ploaie torențială, drumul abrupt către sit necesită mai multă atenție din partea șoferului.",
+                "en": "Check visibility before driving up; in heavy rain, the steep road leading to the site requires more attention from the driver."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Schwimmbad Benaocaz",
+                "hu": "Benaocaz Városi Medence",
+                "ro": "Piscina Municipală Benaocaz",
+                "en": "Benaocaz Municipal Pool"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt nach Benaocaz bietet tolle Ausblicke im Regen; nutzen Sie die Zeit für Panoramafotos direkt aus dem geschützten Fahrzeuginneren.",
+                "hu": "A Benaocazba vezető út remek kilátást nyújt esőben is; használja ki az időt panorámafotók készítésére közvetlenül a védett utastérből.",
+                "ro": "Drumul spre Benaocaz oferă priveliști grozave chiar și pe ploaie; profitați de timp pentru fotografii panoramice direct din mașina protejată.",
+                "en": "The drive to Benaocaz offers great views even in the rain; use the time for panoramic photos directly from the protected interior of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten rund um Ubrique offenbaren die schroffe Schönheit der Kalksteinfelsen. Morgens glänzt das Welcome Monument im klaren Licht. Mittags ist das Ledermuseum ein warmer Fixpunkt Ihrer Tour. Die Fahrt nach Benaocaz bietet am Nachmittag spektakuläre Tiefblicke, bevor gegen 17:00 Uhr die Dämmerung einsetzt. Abends sind die kurvigen Bergstraßen bei Tageslicht am sichersten.",
+            "hu": "A téli autózás Ubrique körül feltárja a mészkősziklák zord szépségét. Reggel az üdvözlő emlékmű ragyog a tiszta fényben. Délben a Bőrmúzeum a túra meleg fix pontja. A Benaocazba vezető út délután látványos kilátást kínál, mielőtt 17:00 körül beáll az alkonyat. Este a kanyargós hegyi utak még nappali fényben a legbiztonságosabbak.",
+            "ro": "Călătoriile cu mașina iarna în jurul Ubrique dezvăluie frumusețea aspră a stâncilor de calcar. Dimineața, monumentul strălucește în lumina clară. La prânz, Muzeul Pielii este punctul cald al turului. Drumul spre Benaocaz oferă vederi spectaculoase înainte de amurgul de la ora 17:00. Seara, drumurile montane sunt mai sigure la lumina zilei.",
+            "en": "Winter driving around Ubrique reveals the rugged beauty of the limestone cliffs. In the morning, the welcome monument shines in the clear light. At noon, the Leather Museum is a warm fixture of your tour. The drive to Benaocaz offers spectacular views in the afternoon before dusk sets in around 17:00. In the evening, mountain roads are safest in daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Willkommen in Ubrique Denkmal",
+                "hu": "Üdvözöljük Ubrique-ben Emlékmű",
+                "ro": "Monumentul Bun venit în Ubrique",
+                "en": "Welcome to Ubrique Monument"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für scharfe Kontraste am Denkmal; nutzen Sie den Parkplatz für ein schnelles Foto, bevor Sie in die Stadt fahren.",
+                "hu": "A tiszta téli fény éles kontrasztokat teremt az emlékműnél; használja a parkolót egy gyors fotóra, mielőtt továbbhajtana a városközpont felé.",
+                "ro": "Lumina clară de iarnă creează contraste puternice la monument; folosiți parcarea pentru o fotografie rapidă înainte de a intra în oraș.",
+                "en": "The clear winter light creates sharp contrasts at the monument; use the parking lot for a quick photo before driving on towards the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Amarguillo-Schwimmbad",
+                "hu": "Amarguillo Medence",
+                "ro": "Piscina Amarguillo",
+                "en": "Amarguillo Pool"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Bad geschlossen, aber die umliegende Berglandschaft ist atemberaubend; genießen Sie die Ruhe des Ortes kurz vom Wagen aus.",
+                "hu": "Télen a strand zárva van, de a környező hegyi táj lélegzetelállító; élvezze a hely nyugalmát egy rövid ideig az autó kényelméből.",
+                "ro": "Iarna piscina este închisă, dar peisajul montan din jur este uluitor; bucurați-vă de liniștea locului pentru scurt timp din mașină.",
+                "en": "In winter the pool is closed, but the surrounding mountain landscape is breathtaking; enjoy the tranquility of the place briefly from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wiege des Leders",
+                "hu": "A Bőr Bölcsője",
+                "ro": "Leagănul Pielii",
+                "en": "Cradle of Leather"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie die Heizung Ihres Autos so ein, dass Sie beim Aussteigen für den Werkstattbesuch nicht zu sehr unter dem Temperaturwechsel leiden.",
+                "hu": "Állítsa be úgy az autó fűtését, hogy a műhelylátogatáshoz kiszállva ne érje túl nagy hőmérsékleti sokk a kinti friss, téli levegőn.",
+                "ro": "Reglați încălzirea mașinii astfel încât să nu resimțiți prea tare schimbarea de temperatură când coborâți pentru vizita la atelier.",
+                "en": "Adjust your car's heating so that you don't suffer too much from the temperature change when getting out for the workshop visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ledermuseum",
+                "hu": "Bőrmúzeum",
+                "ro": "Muzeul Pielii",
+                "en": "Leather Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp als Aufwärmpause; das Museum ist gut beheizt und bietet eine willkommene Abwechslung zur kühleren Außenluft.",
+                "hu": "Használja ezt a megállót melegedési szünetként; a múzeum jól fűtött, és kellemes kikapcsolódást nyújt a kinti hűvösebb téli levegő után.",
+                "ro": "Folosiți această oprire ca o pauză de încălzire; muzeul este bine încălzit și oferă o relaxare plăcută după aerul rece de afară.",
+                "en": "Use this stop as a warm-up break; the museum is well heated and offers a welcome change from the cooler winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palatinstadt Ocuri",
+                "hu": "Ocuri Palotaváros",
+                "ro": "Orașul Palatin Ocuri",
+                "en": "Palatine City of Ocuri"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne im Winter früh untergeht, sollten Sie diesen Stopp auf den Mittag legen, um das beste Licht für die Ruinen zu haben.",
+                "hu": "Mivel télen korán megy le a nap, ezt a megállót érdemes délidőre tervezni, hogy a legjobb fényviszonyok mellett láthassa a romokat.",
+                "ro": "Deoarece soarele apune devreme iarna, planificați această oprire la amiază pentru a avea cea mai bună lumină asupra ruinelor antice.",
+                "en": "Since the sun sets early in winter, you should schedule this stop for noon to have the best lighting for viewing the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Schwimmbad Benaocaz",
+                "hu": "Benaocaz Városi Medence",
+                "ro": "Piscina Municipală Benaocaz",
+                "en": "Benaocaz Municipal Pool"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Bergstraßen auf Reifglätte in schattigen Kurven; die Aussicht auf die verschneite Ferne ist von hier aus grandios.",
+                "hu": "Ügyeljen a hegyi utakon a zúzmarás, csúszós kanyarokra az árnyékos részeken; a kilátás a havas távolba innen egyszerűen grandiózus.",
+                "ro": "Atenție pe drumurile de munte la curbele umbrite care pot fi alunecoase; vederea spre depărtările înzăpezite este grandioasă de aici.",
+                "en": "Watch out for frosty, slippery curves in shaded areas on mountain roads; the view into the snowy distance is simply grandiose from here."
+              }
+            }
+          ]
+        }
       }
     }
   }

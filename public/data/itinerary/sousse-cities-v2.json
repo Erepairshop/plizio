@@ -183,6 +183,224 @@
         "hu": "A séta a Bab el Finga ősi erődfalainál kezdődik, mélyen a város kultúrtörténetébe vezetve önt. Délben hagyományos múzeumokat fedez fel, amelyek közelebb hozzák Tunézia színes életét és kézművességét. Délután merüljön el az ókori történelemben a Régészeti Múzeumban és a lenyűgöző Kasbahban. A nap a Római Oszlopnál ér véget, ahol nyugodtan elmélkedhet Sousse gazdag múltjáról a modern nyüzsgés közepette.",
         "ro": "Plimbarea începe la vechile ziduri ale fortăreței Bab el Finga și vă poartă adânc în istoria culturală a orașului. La prânz explorați muzee tradiționale care vă apropie de viața colorată și de meșteșugurile din Tunisia. După-amiaza vă scufundați în istoria antică la Muzeul Arheologic și la impresionanta Kasbah. Ziua se încheie liniștit la Coloana Romană, unde puteți reflecta la trecutul bogat al orașului Sousse în mijlocul agitației moderne.",
         "en": "Your walk begins at the ancient fortress walls of Bab el Finga, leading you deep into the city's cultural history. Around midday, explore traditional museums that bring Tunisia's colorful life and craftsmanship closer to you. In the afternoon, immerse yourself in ancient history at the Archeological Museum and the massive Kasbah. The day ends peacefully at the Roman column, where you can reflect on the rich past of Sousse amidst the modern bustle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie morgens an den Toren, achten Sie auf rutschige Steine. Der Mittag ist perfekt für überdachte Museen, um Regenschauern zu entgehen. Nachmittags bieten Kasbah und Museen tollen Schutz. Abends bei den römischen Ruinen ist ein guter Regenmantel unerlässlich.",
+            "hu": "Kezdje a reggelt a kapuknál, ügyelve a csúszós, nedves kövekre. A dél tökéletes a beltéri múzeumok felfedezésére, menedéket nyújtva a záporok elől. Délután a kasba és a múzeumok adnak jó védelmet. Este a római romoknál tett sétához vízálló kabát szükséges.",
+            "ro": "Începeți dimineața la porți, având grijă la pietrele umede și alunecoase. Amiaza este perfectă pentru muzee interioare, scăpând de ploi. După-amiaza, kasbah-ul oferă un adăpost excelent. Seara, plimbarea pe lângă ruinele romane necesită o pelerină de ploaie bună.",
+            "en": "Start your morning at the gates, minding the slippery wet stones. Midday is perfect for exploring indoor museums, safely escaping the showers. Afternoon walks to the kasbah and museums offer great shelter. By evening, navigating the Roman ruins requires a good raincoat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab el Finga",
+                "hu": "Bab el Finga",
+                "ro": "Bab el Finga",
+                "en": "Bab el Finga"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die massiven alten Tore und ihre Architektur, aber tragen Sie rutschfeste Schuhe, da das historische Kopfsteinpflaster bei Nässe sehr glatt wird.",
+                "hu": "Csodálja meg a hatalmas ősi kapukat, de viseljen csúszásmentes cipőt, mert a történelmi macskakövek esőben rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Admirați porțile antice masive și arhitectura lor, dar purtați încălțăminte antiderapantă, deoarece pietruirea istorică devine alunecoasă când este udă.",
+                "en": "Admire the massive ancient gates and their impressive architecture, but be sure to wear non-slip shoes as the historical cobblestones get slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Dar Essid",
+                "hu": "Dar Essid Múzeum",
+                "ro": "Muzeul Dar Essid",
+                "en": "Museum Dar Essid"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in dieses wunderschön erhaltene traditionelle Haus ein, um dem starken Regen zu entfliehen und die historischen Artefakte unter einem festen Dach zu bewundern.",
+                "hu": "Lépjen be ebbe a gyönyörűen megőrzött hagyományos házba, hogy elmeneküljön a heves eső elől, és szilárd tető alatt csodálja meg a történelmi tárgyakat.",
+                "ro": "Pășiți în această casă tradițională frumos conservată pentru a scăpa de ploaia puternică și a admira artefactele istorice sub un acoperiș solid.",
+                "en": "Step inside this beautifully preserved traditional house to escape the heavy rain and marvel at the rich historical artifacts under a solid, comforting roof."
+              }
+            },
+            {
+              "name": {
+                "de": "El Kobba Museum",
+                "hu": "El Kobba Múzeum",
+                "ro": "Muzeul El Kobba",
+                "en": "El Kobba Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein perfekter Halt an einem Regentag, um lokale Traditionen und Architektur drinnen zu erkunden und völlig trocken zu bleiben, während Sie den Schauer abwarten.",
+                "hu": "Tökéletes megálló esős napokon, hogy fedett helyen fedezze fel a helyi hagyományokat és építészetet, teljesen szárazon maradva a záporok idején.",
+                "ro": "Aceasta este o oprire perfectă într-o zi ploioasă pentru a explora tradițiile locale în interior, rămânând complet uscat în timp ce așteptați trecerea ploii.",
+                "en": "This is a perfect rainy day stop to explore vibrant local traditions and architecture indoors, keeping you completely dry while you wait out the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El-Gharbi",
+                "hu": "Bab El-Gharbi",
+                "ro": "Bab El-Gharbi",
+                "en": "Bab El-Gharbi"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die massiven Verteidigungsmauern an, aber seien Sie vorsichtig auf dem nassen, unebenen Boden rund um die Festung, der bei Regen tückisch sein kann.",
+                "hu": "Tekintse meg a város hatalmas védőfalait, de legyen óvatos az erőd körüli nedves, egyenetlen talajon, mivel esőben könnyen megcsúszhat a köveken.",
+                "ro": "Verificați zidurile masive de apărare, dar aveți grijă pe terenul umed și denivelat din jurul cetății, deoarece poate deveni periculos pe ploaie.",
+                "en": "Check out the massive defensive walls of the city, but please be careful on the wet, uneven ground around the fortress as it can get treacherous in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Sousse",
+                "hu": "Sousse Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Sousse",
+                "en": "Sousse Archeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie einige Stunden drinnen und bewundern Sie die römischen Mosaike; es bietet einen fantastischen Schutz, während der starke Küstenregen vorüberzieht.",
+                "hu": "Töltsön el néhány órát a lenyűgöző római mozaikok megcsodálásával; fantasztikus és oktató menedéket nyújt, amíg a heves parti esőzés kint elvonul.",
+                "ro": "Petreceți câteva ore în interior admirând uimitoarele mozaicuri romane; oferă un adăpost fantastic în timp ce ploaia puternică de coastă trece pe afară.",
+                "en": "Spend a few hours indoors admiring the stunning Roman mosaics; it provides a fantastic and educational shelter while the heavy coastal rain passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah von Sousse",
+                "hu": "Sousse Kasbah",
+                "ro": "Kasbah din Sousse",
+                "en": "Sousse Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Die alte Festung sieht im Regen unglaublich dramatisch aus, aber Sie müssen bei Ihrem Besuch auf rutschige Steintreppen und große Pfützen achten.",
+                "hu": "Az ősi erődítmény esőben is hihetetlenül drámai látványt nyújt, de a látogatás során nagyon kell ügyelnie a csúszós kőlépcsőkre és a nagy tócsákra.",
+                "ro": "Cetatea antică arată incredibil de dramatic în ploaie, dar trebuie să aveți grijă la scările de piatră alunecoase și la bălțile mari în timpul vizitei.",
+                "en": "The ancient fortress looks incredibly dramatic in the rain, but you must watch out for slippery stone stairs and large puddles during your careful visit here."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Säule",
+                "hu": "Római oszlop",
+                "ro": "Coloana romană",
+                "en": "Roman column"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen großen, stabilen Regenschirm mit, um diese beeindruckende historische Säule auch bei plötzlichen Schauern im Freien sicher zu betrachten.",
+                "hu": "Vigyen magával egy nagy, masszív esernyőt, hogy biztonságosan és szárazon megtekinthesse ezt a lenyűgöző szabadtéri történelmi oszlopot a hirtelen záporok idején.",
+                "ro": "Aduceți o umbrelă mare și rezistentă pentru a vizualiza în siguranță acest stâlp istoric în aer liber în timpul averselor bruște, fără a vă uda complet.",
+                "en": "Bring a large, sturdy umbrella to view this impressive outdoor historical pillar safely during sudden passing showers without getting completely soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit einem frischen Morgenspaziergang in der Medina, warm eingepackt gegen die Kälte. Der Mittag ist hell und angenehm für Museen. Nachmittags schwindet das Licht an der Kasbah. Abends ist es bei den Ruinen dunkel und kühl, ziehen Sie sich warm an.",
+            "hu": "Kezdje egy frissítő reggeli sétával a medinában, melegen felöltözve a parti szél ellen. A dél világos és kellemes a múzeumokhoz. Délután a fény gyorsan halványul a kasba körül. Estére sötét és hideg lesz a római romoknál, így a réteges öltözködés fontos.",
+            "ro": "Începeți cu o plimbare matinală prin medina, bine îmbrăcați împotriva frigului de coastă. Amiaza este senină și plăcută pentru muzee. Lumina scade rapid la kasbah. Seara este întuneric și frig lângă ruinele romane, așa că îmbrăcați-vă călduros.",
+            "en": "Begin with a brisk morning walk at the medina, wrapped up against the coastal chill. Midday is bright and comfortable for museum hopping. Afternoon light fades fast around the kasbah. By evening, it is dark and quite chilly near the Roman ruins, so dress warmly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab el Finga",
+                "hu": "Bab el Finga",
+                "ro": "Bab el Finga",
+                "en": "Bab el Finga"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihren Winterspaziergang; packen Sie sich in einen warmen Schal, da die morgendliche Küstenbrise an diesem Ort ziemlich kühl sein kann.",
+                "hu": "Kezdje itt a téli sétát a magasodó kapuk megcsodálásával; feltétlenül viseljen meleg sálat, mivel a reggeli tengerparti szellő itt meglehetősen hideg lehet.",
+                "ro": "Începeți plimbarea de iarnă aici admirând porțile înalte; asigurați-vă că vă înfășurați într-un fular cald, deoarece briza de coastă poate fi destul de rece.",
+                "en": "Start your winter walk here by admiring the towering gates; make sure to wrap up in a warm scarf as the morning coastal breeze can be quite chilly at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Dar Essid",
+                "hu": "Dar Essid Múzeum",
+                "ro": "Muzeul Dar Essid",
+                "en": "Museum Dar Essid"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das reiche Innere dieses historischen Hauses, das einen gemütlichen und faszinierenden Rückzugsort vor den kalten Winterwinden draußen bietet.",
+                "hu": "Élvezze a történelmi ház gazdag belső terét, amely hangulatos és lenyűgöző menedéket nyújt a kinti hideg téli szelekkel és alacsony hőmérséklettel szemben.",
+                "ro": "Bucurați-vă de interiorul bogat al acestei case istorice, care oferă un refugiu confortabil și fascinant de vânturile reci de iarnă de afară.",
+                "en": "Enjoy the rich interior of this historical home, which offers a cozy and fascinating retreat from the cold winter winds and dropping temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "El Kobba Museum",
+                "hu": "El Kobba Múzeum",
+                "ro": "Muzeul El Kobba",
+                "en": "El Kobba Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort im Innenbereich, wo Sie bequem etwas über die lebhafte Geschichte von Sousse lernen können, ohne in der Winterluft zu frieren.",
+                "hu": "Meleg, beltéri menedék, ahol kényelmesen tanulmányozhatja Sousse pezsgő történelmét, anélkül, hogy fagyoskodna a hűvös téli levegőn a séta során.",
+                "ro": "Un refugiu cald în interior unde puteți afla confortabil despre istoria vibrantă a orașului Sousse, fără a îngheța în aerul rece de iarnă.",
+                "en": "A warm indoor haven where you can comfortably learn about Sousse's vibrant history and traditional life without freezing in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El-Gharbi",
+                "hu": "Bab El-Gharbi",
+                "ro": "Bab El-Gharbi",
+                "en": "Bab El-Gharbi"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne sorgt für eine großartige Beleuchtung für Fotos dieser Festungsmauern; tragen Sie einfach warme Schichten, um den Wind abzuhalten.",
+                "hu": "Az alacsony téli napfény nagyszerű megvilágítást biztosít az erőd falainak fotózásához, de mindenképp viseljen meleg, szélálló rétegeket a nyitott téren.",
+                "ro": "Soarele de iarnă oferă o iluminare excelentă pentru fotografiile acestor ziduri, purtați doar straturi calde pentru a vă proteja de vântul de coastă.",
+                "en": "The low winter sun provides great lighting for photos of these massive fortress walls, just wear warm layers to block the open coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Sousse",
+                "hu": "Sousse Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Sousse",
+                "en": "Sousse Archeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den kühlen Nachmittag drinnen und erkunden Sie die prächtigen Mosaike in einer komfortablen Umgebung, fernab der winterlichen Temperaturen.",
+                "hu": "Töltse a hűvös délutánt bent, és fedezze fel a csodálatos mozaikokat kényelmes környezetben, távol a kinti téli hőmérséklettől és a hideg szelektől.",
+                "ro": "Petreceți după-amiaza răcoroasă în interior, explorând mozaicurile magnifice într-un mediu confortabil, departe de temperaturile de iarnă.",
+                "en": "Spend the cool afternoon indoors exploring the magnificent ancient mosaics in a comfortable environment, away from the dropping winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah von Sousse",
+                "hu": "Sousse Kasbah",
+                "ro": "Kasbah din Sousse",
+                "en": "Sousse Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie uns unbedingt vor 17:00 Uhr, um das schwindende Tageslicht über den Festungsmauern zu erleben, und bringen Sie eine warme Jacke für den Abend mit.",
+                "hu": "Mindenképpen 17:00 óra előtt érkezzen, hogy még láthassa a halványuló napfényt az erőd falain, és hozzon magával meleg kabátot a gyorsan hűlő estéhez.",
+                "ro": "Vizitați înainte de ora 17:00 pentru a prinde lumina zilei peste zidurile impresionante și aduceți o jachetă caldă pentru seara care se răcește rapid.",
+                "en": "Make sure to visit before 17:00 to catch the fading daylight over the impressive fortress walls, and bring a heavy jacket as the evening cools rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Säule",
+                "hu": "Római oszlop",
+                "ro": "Coloana romană",
+                "en": "Roman column"
+              },
+              "tip_5lang": {
+                "de": "Der Abend bricht im Winter früh herein. Bringen Sie daher einen warmen Mantel mit, wenn Sie diese antike römische Säule in der kühlen Dämmerung betrachten.",
+                "hu": "Télen korán sötétedik, ezért mindenképpen viseljen vastag kabátot, amikor ezt az ősi római oszlopot a meglehetősen hűvös szürkületben tekinti meg.",
+                "ro": "Seara cade devreme iarna, așa că aduceți o haină caldă când vizualizați acest pilon roman antic sub lumina rece a amurgului.",
+                "en": "Evening falls early in winter, so bring a very warm coat when viewing this ancient Roman historical pillar under the noticeably chilly twilight sky."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Két keréken a Dar Essid Múzeumban kezd, majd a hagyományos múzeumok kanyargós utcáin teker tovább. Dél körül nyugodtan halad a nyugati erődfalak mentén, amíg el nem éri a Régészeti Múzeumot. A délután a lenyűgöző Kasbahhoz és a Római Maszkok Házához vezet, ahol mélyebben elmerülhet az ókorban. Végül elbiciklizik a Pun-római Nekropoliszba, ahol évezredes történelemmel körülvéve fejezheti be a napot.",
         "ro": "Pe două roți începeți la Muzeul Dar Essid și explorați străzile șerpuite ale muzeelor tradiționale. La prânz pedalați relaxat de-a lungul zidurilor vestice ale fortăreței și ajungeți la Muzeul Arheologic. După-amiaza vă poartă spre impresionanta Kasbah și mai departe către Casa Romană a Măștilor, unde vă adânciți în antichitate. La final, pedalați spre Necropola Punico-Romană, unde încheiați ziua înconjurați de istorie milenară.",
         "en": "On two wheels, start at the Museum Dar Essid and explore the winding streets of the traditional museums. Around noon, cycle smoothly along the western fortress walls, reaching the Archeological Museum. The afternoon brings you to the impressive Kasbah and the Roman House of Masks, delving deeper into antiquity. Finally, ride to the Punico-Roman Necropolis to conclude your day surrounded by millennia of ancient history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig und achten Sie auf glatte Straßen. Mittags können Sie sich in Museen komplett abtrocknen. Fahren Sie nachmittags behutsam zur Kasbah. Abends zur Nekropole benötigen Sie helle Fahrradlichter und gute Regenkleidung.",
+            "hu": "Kezdje óvatosan a nedves utazást, figyelve a csúszós városi utakra. A déli múzeumi megállók során teljesen megszáradhat. Délután a kasbához esőben fokozott figyelemmel tekerjen. Az esti kerékpározás a nekropoliszhoz erős lámpákat igényel.",
+            "ro": "Începeți cu atenție călătoria umedă, cu ochii pe drumurile alunecoase. Opririle la muzee vă permit să vă uscați. Pedalați prudent spre kasbah după-amiaza. Călătoria de seară la necropolă necesită lumini bune și echipament impermeabil.",
+            "en": "Start your wet ride carefully, keeping a close eye on slick city roads. Midday museum stops let you dry off completely. Ride cautiously to the kasbah in the afternoon rain. An evening ride to the necropolis requires bright lights and waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Dar Essid",
+                "hu": "Dar Essid Múzeum",
+                "ro": "Muzeul Dar Essid",
+                "en": "Museum Dar Essid"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und treten Sie ein, um sich abzutrocknen, während Sie die Exponate dieses erhaltenen tunesischen Hauses genießen.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és lépjen be megszáradni, miközben élvezi ennek a gyönyörűen megőrzött tunéziai otthonnak a lenyűgöző kiállításait.",
+                "ro": "Parcați bicicleta în siguranță și intrați pentru a vă usca în timp ce vă bucurați de expozițiile fascinante ale acestei case tradiționale tunisiene.",
+                "en": "Park your bike safely and step inside to dry off completely while enjoying the fascinating exhibits of this beautifully preserved traditional Tunisian home."
+              }
+            },
+            {
+              "name": {
+                "de": "El Kobba Museum",
+                "hu": "El Kobba Múzeum",
+                "ro": "Muzeul El Kobba",
+                "en": "El Kobba Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Rückzugsort im Innenbereich, um sich aufzuwärmen und den Schauern auszuweichen, während Sie etwas über das lokale Leben lernen.",
+                "hu": "Kiváló beltéri menedék, ahol felmelegedhet és elkerülheti a záporokat, miközben sokat tanulhat a hagyományos helyi életről és építészetről.",
+                "ro": "O evadare excelentă în interior pentru a vă încălzi și a evita averselor de ploaie în timp ce aflați despre viața tradițională locală.",
+                "en": "A great indoor escape to warm up and avoid the rain showers while learning about traditional local life and admiring the historical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El-Gharbi",
+                "hu": "Bab El-Gharbi",
+                "ro": "Bab El-Gharbi",
+                "en": "Bab El-Gharbi"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie hier auf Ihre Reifen; die alten Steine rund um das westliche Tor werden bei Nässe extrem rutschig und gefährlich für Radfahrer.",
+                "hu": "Itt nagyon figyeljen a gumiabroncsokra; a nyugati kapu körüli régi kövek nedvesen rendkívül csúszóssá és veszélyessé válnak a kerékpárosok számára.",
+                "ro": "Fiți atenți la anvelope aici; pietrele vechi din jurul porții vestice devin extrem de alunecoase și periculoase când sunt ude pentru bicicliști.",
+                "en": "Be very mindful of your tires here; the old historical stones around the western gate get extremely slippery and hazardous for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Sousse",
+                "hu": "Sousse Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Sousse",
+                "en": "Sousse Archeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte lange Pause im Innenbereich, um die Mosaike zu genießen und starke Regengüsse sicher und im Trockenen abzuwarten.",
+                "hu": "Tökéletes, hosszú beltéri pihenő a mozaikok megcsodálására, ahol biztonságosan és szárazon átvészelheti az esetleges heves esőzéseket is.",
+                "ro": "O pauză lungă și perfectă în interior pentru a vă bucura de mozaicuri și a aștepta trecerea oricăror ploi torențiale în siguranță.",
+                "en": "A perfect long indoor break off the saddle to enjoy the world-class mosaics and wait out any heavy passing downpours safely and completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah von Sousse",
+                "hu": "Sousse Kasbah",
+                "ro": "Kasbah din Sousse",
+                "en": "Sousse Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie beim Radfahren zur Festung hinauf vorsichtig, da die nassen Hänge und Pfützen zusätzliche Aufmerksamkeit beim Bremsen erfordern.",
+                "hu": "Legyen nagyon óvatos, amikor felteker az erődítményhez, mivel a nedves lejtők, macskakövek és tócsák fokozott figyelmet igényelnek a fékezésnél.",
+                "ro": "Aveți grijă când pedalați spre cetate, deoarece pantele umede și bălțile mari necesită o atenție suplimentară la frânare.",
+                "en": "Take immense care cycling up to the fortress, as the wet slopes, uneven historical cobblestones, and deep puddles require extra caution when braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Haus der Masken",
+                "hu": "Római maszkok háza",
+                "ro": "Casa Romană a Măștilor",
+                "en": "Roman House of Masks"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie gute Regenkleidung mit, um diese faszinierenden römischen Ruinen auch bei unerwarteten Schauern an der Küste bequem betrachten zu können.",
+                "hu": "Hozzon magával jó vízálló felszerelést, hogy kényelmesen megtekinthesse ezeket a lenyűgöző romokat a váratlan parti záporok idején is.",
+                "ro": "Aduceți echipament impermeabil bun pentru a vizualiza confortabil aceste ruine romane chiar și în timpul averselor de coastă neașteptate.",
+                "en": "Bring good waterproof gear to comfortably view these fascinating Roman ruins, ensuring you stay warm and dry even during unexpected coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisch-Römische Nekropole",
+                "hu": "Pun-római nekropolisz",
+                "ro": "Necropola Punico-Romană",
+                "en": "Punico-Roman Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Der Boden wird hier sehr schlammig, ziehen Sie also wasserdichte Schuhe an, wenn Sie von Ihrem Fahrrad absteigen, um das Gelände zu erkunden.",
+                "hu": "A talaj itt nagyon sárossá és csúszóssá válik, ezért viseljen vízálló cipőt, amikor leszáll a kerékpárról, hogy gyalog fedezze fel a területet.",
+                "ro": "Terenul devine foarte noroios aici, așa că purtați încălțăminte impermeabilă când coborâți de pe bicicletă pentru a explora zona.",
+                "en": "The ground gets extremely muddy here in the rain, so ensure you wear waterproof shoes when stepping off your bike to explore the historical site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frisches Winterradeln beginnt an den Museen. Die Mittagssonne wärmt die Fahrt schön auf. Nachmittags wird die Fahrt zur Kasbah kühler. Beenden Sie die Tour vor Einbruch der Dunkelheit gegen 17:00 Uhr, tragen Sie Thermokleidung.",
+            "hu": "A frissítő téli kerékpározás a múzeumoknál indul. A déli napsütés kellemesen felmelegíti az utat. Délután a kasba felé egyre hűvösebb lesz. Fejezze be az utat sötétedés előtt, 17:00 körül, és viseljen termo rétegeket.",
+            "ro": "Ciclismul de iarnă începe proaspăt la muzee. Soarele de amiază încălzește frumos plimbarea. După-amiaza spre kasbah devine mai rece. Terminați înainte de întuneric în jurul orei 17:00 la necropolă, purtați haine termice.",
+            "en": "Crisp winter cycling starts fresh at the museums. The midday sun warms up the ride nicely. Afternoon cycling to the kasbah is beautiful but getting cooler. Finish before dark around 17:00 at the necropolis, wear thermal layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Dar Essid",
+                "hu": "Dar Essid Múzeum",
+                "ro": "Muzeul Dar Essid",
+                "en": "Museum Dar Essid"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre zügige Winterfahrt und wärmen Sie sich drinnen auf, während Sie traditionelle tunesische Artefakte bewundern.",
+                "hu": "Kezdje itt a lendületes téli kerékpározást, és melegedjen fel bent, miközben a hagyományos tunéziai történelmi tárgyakat csodálja.",
+                "ro": "Începeți aici plimbarea rapidă de iarnă, îndreptându-vă înăuntru pentru a vă încălzi în timp ce admirați artefactele tradiționale tunisiene.",
+                "en": "Start your brisk winter ride here, heading inside to warm up your hands while admiring beautifully preserved traditional Tunisian artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "El Kobba Museum",
+                "hu": "El Kobba Múzeum",
+                "ro": "Muzeul El Kobba",
+                "en": "El Kobba Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Innenausstellungen bieten eine gemütliche Pause von den kalten Küstenwinden, während Sie mit dem Rad durch die kühle Stadt fahren.",
+                "hu": "A beltéri kiállítások hangulatos és meleg pihenőt kínálnak a hideg parti szelek elől a hűvös városban tett kerékpározás során.",
+                "ro": "Expozițiile interioare oferă o pauză confortabilă de la vânturile reci de coastă în timp ce pedalați prin orașul răcoros.",
+                "en": "The indoor exhibits provide a cozy, warm break from the biting cold coastal winds while you are cycling actively through the chilly city."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El-Gharbi",
+                "hu": "Bab El-Gharbi",
+                "ro": "Bab El-Gharbi",
+                "en": "Bab El-Gharbi"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren um diese massiven Mauern ist in der tiefen Wintersonne wunderschön, tragen Sie aber unbedingt winddichte Schichten.",
+                "hu": "Ezek körül a hatalmas falak körül tekerni gyönyörű az alacsony téli napsütésben, de mindenképpen viseljen vastag, szélálló rétegeket.",
+                "ro": "Ciclismul în jurul acestor ziduri este frumos în soarele de iarnă, asigurați-vă doar că purtați straturi rezistente la vânt.",
+                "en": "Cycling around these massive historical walls is beautiful in the low winter sun, just ensure you wear strong windproof layers for the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Sousse",
+                "hu": "Sousse Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Sousse",
+                "en": "Sousse Archeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie einen kühlen Nachmittag fernab des Fahrradsattels und bewundern Sie die Mosaike im Komfort dieses überdachten Museums.",
+                "hu": "Töltsön el egy hűvös délutánt a kerékpárnyeregtől távol, és csodálja meg a mozaikokat ennek a fedett, fűtött múzeumnak a kényelmében.",
+                "ro": "Petreceți o după-amiază răcoroasă departe de șaua bicicletei, admirând mozaicurile în confortul acestui muzeu interior cald.",
+                "en": "Spend a chilly afternoon off the bike saddle admiring the world-class mosaics in the complete comfort of this expansive indoor museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah von Sousse",
+                "hu": "Sousse Kasbah",
+                "ro": "Kasbah din Sousse",
+                "en": "Sousse Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonnenuntergänge von der Festung, aber seien Sie bei der Abfahrt auf schnell sinkende Temperaturen vorbereitet.",
+                "hu": "Élvezze a lenyűgöző naplementét az erődből, de készüljön fel a gyorsan csökkenő hőmérsékletre a visszafelé vezető kerékpárúton.",
+                "ro": "Bucurați-vă de apusul uimitor de la cetate, dar fiți pregătiți pentru temperaturi care scad rapid la coborârea cu bicicleta.",
+                "en": "Enjoy the stunning sunset views from the high fortress, but be fully prepared for rapidly dropping temperatures on your cycling descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Haus der Masken",
+                "hu": "Római maszkok háza",
+                "ro": "Casa Romană a Măștilor",
+                "en": "Roman House of Masks"
+              },
+              "tip_5lang": {
+                "de": "Das Nachmittagslicht ist perfekt, um die Ruinen zu betrachten. Stellen Sie sicher, dass Sie Thermokleidung für das kalte Radfahren tragen.",
+                "hu": "A délutáni fény tökéletes a romok megtekintéséhez. Győződjön meg róla, hogy megfelelő termo ruházatot visel a hideg kerékpározáshoz.",
+                "ro": "Lumina de după-amiază este perfectă pentru vizualizarea ruinelor, asigurați-vă că purtați haine termice pentru ciclismul la rece.",
+                "en": "The late afternoon light is perfect for viewing the ruins, just make sure you wear thermal clothing to stay warm while standing by the bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisch-Römische Nekropole",
+                "hu": "Pun-római nekropolisz",
+                "ro": "Necropola Punico-Romană",
+                "en": "Punico-Roman Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang gegen 17 Uhr an und bringen Sie eine warme Jacke für den deutlich kühleren Abend mit.",
+                "hu": "Érkezzen a korai, délután 5 óra körüli naplemente előtt, és hozzon magával meleg dzsekit a jelentősen hűlő esti kerékpározáshoz.",
+                "ro": "Ajungeți înainte de apusul timpuriu în jurul orei 17:00 și aduceți o jachetă caldă pentru seara care se răcește semnificativ.",
+                "en": "Arrive before the early sunset around 5 PM to see the site, and definitely bring a warm jacket for the cooling evening ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kényelmes utazása a hagyományos El Kobba Múzeumban kezdődik, mielőtt a Bab el Finga ősi kapujához hajtana. Délben a híres Régészeti Múzeumot látogatja meg, ahol fantasztikus mozaikok várják. A délutánt a masszív Kasbah és az ókori Római Oszlop fémjelzi, mindkettő könnyen megközelíthető autóval. Este kényelmesen elautózik a Pun-római Nekropoliszba, hogy a központtól távol merüljön el Sousse gazdag történelmében.",
         "ro": "Călătoria dumneavoastră confortabilă începe la muzeul tradițional El Kobba, înainte de a vă îndrepta spre poarta antică Bab el Finga. La prânz vizitați renumitul Muzeu Arheologic, unde vă așteaptă mozaicuri fantastice. După-amiaza este marcată de masiva Kasbah și de antica Coloană Romană, ambele ușor accesibile. Seara conduceți relaxat spre Necropola Punico-Romană pentru a vă scufunda în bogata istorie a orașului Sousse, departe de centru.",
         "en": "Your comfortable drive begins at the traditional El Kobba museum before heading to the ancient Bab el Finga gate. At midday, visit the renowned Archeological Museum, where fantastic mosaics await you. The afternoon features the massive Kasbah and the ancient Roman column, both easily accessible. In the evening, drive smoothly to the Punico-Roman Necropolis to immerse yourself in Sousse's rich history away from the center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig bei Nieselregen. Mittags bieten sich trockene Pausen drinnen an. Die Nachmittagsfahrt zur Kasbah ist im Auto sehr komfortabel. Beim abendlichen Parken an den Ruinen könnte es matschig sein, halten Sie einen Schirm bereit.",
+            "hu": "Vezessen óvatosan a reggeli szitáló esőben. A dél száraz beltéri szüneteket kínál. A délutáni autózás a kasbához rendkívül kényelmes. Az esti parkolás a romoknál sáros lehet, tartson kéznél egy esernyőt az autóban.",
+            "ro": "Conduceți cu grijă în dimineața ploioasă. Amiaza oferă pauze uscate în interior. Condusul de după-amiază spre kasbah vă menține confortabil. Parcarea de seară la ruine ar putea fi noroioasă, țineți o umbrelă la îndemână.",
+            "en": "Drive carefully in the morning drizzle to the museums. Midday offers dry indoor breaks between short drives. The afternoon drive to the kasbah keeps you comfortable. Evening parking at the ruins might be muddy, keep an umbrella handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Kobba Museum",
+                "hu": "El Kobba Múzeum",
+                "ro": "Muzeul El Kobba",
+                "en": "El Kobba Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und eilen Sie hinein, um dem Regen zu entgehen, während Sie das reiche lokale Erbe erkunden.",
+                "hu": "Parkoljon le a közelben, és siessen be az épületbe, hogy elkerülje az esőt, miközben a gazdag helyi örökséget kutatja.",
+                "ro": "Parcați în apropiere și grăbiți-vă înăuntru pentru a evita ploaia în timp ce explorați bogata moștenire locală expusă.",
+                "en": "Park nearby and dash safely inside to avoid the heavy rain while exploring the rich local heritage on display in this dry museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab el Finga",
+                "hu": "Bab el Finga",
+                "ro": "Bab el Finga",
+                "en": "Bab el Finga"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Tore bequem von Ihrem Auto aus oder nutzen Sie einen stabilen Regenschirm für einen kurzen Spaziergang im Nieselregen.",
+                "hu": "Tekintse meg a lenyűgöző kapukat kényelmesen az autójából, vagy használjon erős esernyőt egy rövid sétához a szitáló esőben.",
+                "ro": "Vizualizați porțile impunătoare din confortul mașinii dvs. sau utilizați o umbrelă robustă pentru o scurtă plimbare afară în ploaie.",
+                "en": "View the imposing historical gates from the dry comfort of your car or use a sturdy umbrella for a quick, careful walk outside in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Sousse",
+                "hu": "Sousse Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Sousse",
+                "en": "Sousse Archeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Das große überdachte Museum ist ideal für einen Regentag und bietet riesige Mosaiksammlungen abseits des nassen Wetters.",
+                "hu": "A nagy beltéri múzeum ideális egy esős napra, hatalmas mozaikgyűjteményeket kínálva, teljesen védve a nedves időjárástól.",
+                "ro": "Marele muzeu interior este ideal pentru o zi ploioasă, oferind colecții extinse de mozaicuri departe de vremea umedă.",
+                "en": "The large indoor museum is absolutely ideal for a rainy day, offering extensive and dry mosaic collections safely away from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah von Sousse",
+                "hu": "Sousse Kasbah",
+                "ro": "Kasbah din Sousse",
+                "en": "Sousse Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie äußerst vorsichtig auf den nassen, rutschigen Straßen, die hinauf zu dieser beeindruckenden historischen Festung führen.",
+                "hu": "Vezessen rendkívül óvatosan azokon a nedves, csúszós utakon és köveken, amelyek ehhez a lenyűgöző történelmi erődhöz vezetnek.",
+                "ro": "Conduceți cu mare atenție pe drumurile umede și alunecoase care duc spre această cetate istorică impresionantă.",
+                "en": "Drive extremely carefully on the wet, highly slippery cobblestone roads leading up to the entrance of this impressive historical fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Säule",
+                "hu": "Római oszlop",
+                "ro": "Coloana romană",
+                "en": "Roman column"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie einen Regenmantel griffbereit im Auto auf, wenn Sie aussteigen, um dieses römische Denkmal bei Nieselregen zu bewundern.",
+                "hu": "Tartson egy esőkabátot könnyen elérhető helyen az autóban, amikor kiszáll, hogy megcsodálja ezt a szabadtéri római emlékművet.",
+                "ro": "Păstrați o pelerină de ploaie în mașină când ieșiți pentru a admira acest monument roman în aer liber în burniță.",
+                "en": "Keep a large raincoat handy in the car when stepping out briefly to admire this outdoor Roman monument in the passing drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisch-Römische Nekropole",
+                "hu": "Pun-római nekropolisz",
+                "ro": "Necropola Punico-Romană",
+                "en": "Punico-Roman Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz und die Wege können sehr schlammig sein; tragen Sie wasserdichte Stiefel, wenn Sie das Auto verlassen.",
+                "hu": "A parkoló és a történelmi ösvények nagyon sárosak lehetnek; mindenképpen viseljen vízálló csizmát, amikor elhagyja az autót.",
+                "ro": "Zona de parcare și cărările pot fi foarte noroioase, purtați cizme impermeabile când ieșiți din mașină pentru a explora.",
+                "en": "The unpaved parking area and paths can become very muddy in the rain, so wear reliable waterproof boots when stepping out of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine beheizte Fahrt zu den Museen der Medina. Die Mittagssonne macht kurze Spaziergänge angenehm. Fahren Sie zur Kasbah, wenn der Nachmittag abkühlt. Erreichen Sie die Nekropole vor 17 Uhr, um dem frühen Sonnenuntergang zuvorzukommen.",
+            "hu": "Élvezze a fűtött reggeli autózást a medina múzeumaihoz. A téli napsütés kellemessé teszi a sétát. Kora délután vezessen a kasbához, mielőtt lehűl a levegő. Érjen a nekropoliszhoz délután 5 előtt, hogy elkerülje a sötétedést.",
+            "ro": "Bucurați-vă de un drum încălzit spre muzee. Soarele de amiază face plimbările scurte plăcute. Conduceți spre kasbah pe măsură ce după-amiaza se răcește. Ajungeți la necropolă înainte de ora 17:00 pentru a evita apusul devreme.",
+            "en": "Enjoy a heated morning drive to the medina museums. The midday winter sun makes the short walks between stops quite pleasant. Drive to the kasbah as the afternoon quickly cools down. Reach the necropolis before 5 PM to beat the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Kobba Museum",
+                "hu": "El Kobba Múzeum",
+                "ro": "Muzeul El Kobba",
+                "en": "El Kobba Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizte Autofahrt hierher und treten Sie in das gemütliche Museum ein, um abseits der Winterkälte zu lernen.",
+                "hu": "Élvezze a fűtött autóutat idáig, majd lépjen be a hangulatos múzeumba, hogy a téli hidegtől távol tanulmányozza a történelmet.",
+                "ro": "Bucurați-vă de plimbarea cu mașina încălzită aici și pășiți în muzeul confortabil pentru a învăța departe de frigul iernii.",
+                "en": "Enjoy the heated car ride here and step immediately inside the cozy museum to learn about local history away from the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab el Finga",
+                "hu": "Bab el Finga",
+                "ro": "Bab el Finga",
+                "en": "Bab el Finga"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist erfrischend; parken Sie in der Nähe und ziehen Sie einen warmen Mantel an, um das alte Tor zu bewundern.",
+                "hu": "A téli levegő frissítő; parkoljon le a közelben, és vegyen fel egy vastag, meleg kabátot, hogy kényelmesen megcsodálja a kaput.",
+                "ro": "Aerul de iarnă este revigorant; parcați aproape și purtați o haină caldă pentru a admira poarta antică fără a îngheța.",
+                "en": "The crisp winter air is invigorating; park close by and make sure to wear a warm coat to admire the ancient gate comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Sousse",
+                "hu": "Sousse Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Sousse",
+                "en": "Sousse Archeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie komfortable Stunden drinnen, fernab der Kälte, und betrachten Sie die antiken Mosaike in den großen, warmen Sälen.",
+                "hu": "Töltsön el néhány kényelmes órát bent, távol a hidegtől, és tekintse meg az ősi mozaikokat a hatalmas, fűtött termekben.",
+                "ro": "Petreceți câteva ore confortabile în interior, vizionând mozaicuri antice departe de frigul de iarnă din afară.",
+                "en": "Spend a few very comfortable hours indoors viewing ancient mosaics completely shielded from the biting winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasbah von Sousse",
+                "hu": "Sousse Kasbah",
+                "ro": "Kasbah din Sousse",
+                "en": "Sousse Kasbah"
+              },
+              "tip_5lang": {
+                "de": "Das Nachmittagslicht auf der Festung ist atemberaubend, aber der Wind kann vom Parkplatz aus scharf sein, kleiden Sie sich also warm.",
+                "hu": "A délutáni fény az erődön lenyűgöző, de a szél a parkolótól nagyon éles és hideg lehet, ezért öltözzön melegen a sétához.",
+                "ro": "Lumina de după-amiază pe cetate este uimitoare, dar vântul dinspre parcare poate fi tăios, așa că îmbrăcați-vă călduros.",
+                "en": "The afternoon light on the fortress is stunning, but the wind walking from the parking spot can be sharp, so dress warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Säule",
+                "hu": "Római oszlop",
+                "ro": "Coloana romană",
+                "en": "Roman column"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus Ihrem warmen Auto aus, um die Säule zu sehen, aber behalten Sie Ihren Schal gegen die kühle Abendbrise an.",
+                "hu": "Szálljon ki a meleg autóból, hogy közelről is lássa az oszlopot, de tartsa magán a sálat a hűvös kora esti szellő ellen.",
+                "ro": "Ieșiți din mașina caldă pentru a vedea pilonul, dar păstrați fularul pe dumneavoastră împotriva brizei reci de seară.",
+                "en": "Step out of your warm heated car to see the pillar, but be sure to keep your scarf on against the notably chilly evening breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Punisch-Römische Nekropole",
+                "hu": "Pun-római nekropolisz",
+                "ro": "Necropola Punico-Romană",
+                "en": "Punico-Roman Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, vor dem frühen Sonnenuntergang um 17:00 Uhr anzukommen, um diese Ruinen bei Tageslicht vollständig würdigen zu können.",
+                "hu": "Próbáljon meg a korai, 17:00 órai sötétedés előtt megérkezni, hogy még a természetes nappali fényben értékelhesse a romokat.",
+                "ro": "Încercați să ajungeți înainte de apusul devreme de la ora 17:00 pentru a aprecia pe deplin aceste ruine în lumina zilei.",
+                "en": "Try to arrive and park before the early 5 PM sunset to fully appreciate these fascinating ruins in the natural daylight."
+              }
+            }
+          ]
+        }
       }
     }
   }

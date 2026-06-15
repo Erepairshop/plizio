@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a történelmi központban tett sétával és a templom megtekintésével.\n\nA friss parti szél felfrissíti az érzékeket a délelőtt folyamán.\n\nDélben a gyerekek játszhatnak egy nagyot a parkban.\n\nA délután a hatalmas világítótornyok jegyében telik, tengerészeti kiállítással zárva a túrát.",
         "ro": "Începeți ziua cu o plimbare în centrul istoric și admirați biserica.\n\nBriza proaspătă de pe coastă vă revigorează simțurile dimineața.\n\nLa prânz, familia se poate bucura de un loc de joacă.\n\nDupă-amiaza este dedicată farurilor impunătoare, turul încheindu-se la vechiul turn maritim.",
         "en": "Start your day strolling through the historic center and admiring the local church.\n\nThe coastal breeze invigorates the senses along the rugged point.\n\nBy midday, a fun playground break awaits the family.\n\nSpend your afternoon marveling at the towering lighthouses, finishing at the maritime museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Spaziergang beginnt in der ruhigen Kirche, gefolgt von der rauen Landspitze. Mittags am Spielplatz sollten Sie nach überdachten Pausenplätzen Ausschau halten. Der Nachmittag bietet Zuflucht in den majestätischen Leuchttürmen, wo Sie dem Regen entkommen. Beenden Sie den Tag beim alten Leuchtturm mit dramatischen Sturmkulissen.",
+            "hu": "Az esős séta a csendes templomnál kezdődik, majd a drámai foknál folytatódik. Délben a játszótérnél keressen fedett menedéket a záporok elől. A délutánt a lenyűgöző világítótornyok belsejében töltheti, védve az esőtől. Az estét a régi világítótoronynál zárja, figyelve a viharos tengert.",
+            "ro": "O plimbare ploioasă începe la biserica liniștită, urmată de promontoriul sălbatic. La prânz, lângă locul de joacă, căutați adăpost de ploaie. După-amiaza oferă refugiu în interiorul farurilor maiestuoase, departe de umezeală. Încheiați ziua la vechiul far, admirând marea furtunoasă.",
+            "en": "A rainy walk starts at the quiet church, followed by the dramatic point. At noon near the playground, look for sheltered spots to pause. The afternoon offers refuge inside the majestic lighthouses, keeping you dry. End your day at the old lighthouse, watching the stormy sea crash against the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Nonna",
+                "hu": "Saint-Nonna templom",
+                "ro": "Biserica Saint-Nonna",
+                "en": "Saint-Nonna Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen, nehmen Sie aber einen Regenschirm mit.",
+                "hu": "Csodálja meg a belső építészetet szárazon, de vigyen magával esernyőt.",
+                "ro": "Admirați arhitectura la adăpost, dar asigurați-vă că aveți o umbrelă.",
+                "en": "Admire the architecture staying dry, but bring an umbrella for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Landspitze Pointe de Penmarc'h",
+                "hu": "Penmarc'h-fok",
+                "ro": "Promontoriul Penmarc'h",
+                "en": "Penmarc'h Point"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde See; wasserfeste Schuhe sind hier bei Regen Pflicht.",
+                "hu": "Nézze meg a vad tengert; esőben a vízálló cipő itt kötelező.",
+                "ro": "Experimentați marea sălbatică; încălțămintea impermeabilă este obligatorie.",
+                "en": "Experience the wild sea; waterproof shoes are a must here in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderspielplatz",
+                "hu": "Gyermekjátszótér",
+                "ro": "Loc de joacă pentru copii",
+                "en": "Jeux Enfants"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt für Kinder; suchen Sie bei starkem Regen das nahegelegene Café auf.",
+                "hu": "Rövid megálló; heves esőzés esetén keressenek menedéket a közeli kávézóban.",
+                "ro": "Oprire scurtă; căutați adăpost la o cafenea din apropiere dacă plouă tare.",
+                "en": "Short stop for kids; seek shelter at a nearby cafe if it rains heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Eckmühl",
+                "hu": "Eckmühl világítótorony",
+                "ro": "Farul Eckmühl",
+                "en": "Eckmühl Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie die Stufen im Trockenen hinauf und genießen Sie die stürmische Aussicht.",
+                "hu": "Mássza meg a lépcsőket szárazon, és élvezze a viharos kilátást odafentről.",
+                "ro": "Urcați treptele la uscat și bucurați-vă de priveliștea furtunoasă de sus.",
+                "en": "Climb the steps in the dry interior and enjoy the stormy coastal views."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Leuchtturm von Penmarc'h",
+                "hu": "Régi Penmarc'h világítótorony",
+                "ro": "Vechiul far Penmarc'h",
+                "en": "Old Penmarc'h Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die maritime Geschichte drinnen, während der Regen draußen prasselt.",
+                "hu": "Fedezze fel a tengerészeti történelmet bent, miközben kint esik az eső.",
+                "ro": "Explorați istoria maritimă înăuntru, în timp ce afară plouă torențial.",
+                "en": "Explore the maritime history indoors while the rain pours down outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Kirche und der windigen Landspitze. Bleiben Sie mittags am Spielplatz in Bewegung, um sich warm zu halten. Am Nachmittag bieten die Leuchttürme spektakuläre Ausblicke auf das winterliche Meer. Beenden Sie die Tour rechtzeitig am alten Leuchtturm, da die Sonne schon gegen 17:00 Uhr untergeht.",
+            "hu": "Egy csípős téli reggel a templomnál és a szeles foknál indul. Délben a játszótéren maradjon mozgásban, hogy melegen tartsa magát. Délután a világítótornyok lenyűgöző kilátást nyújtanak a téli óceánra. Fejezze be a túrát a régi világítótoronynál, mivel a nap már 17:00 óra körül lemegy.",
+            "ro": "O dimineață de iarnă începe la biserică și pe promontoriul vânturos. La prânz, rămâneți activi la locul de joacă pentru a vă încălzi. După-amiaza, farurile oferă priveliști spectaculoase ale mării de iarnă. Încheiați la vechiul far devreme, deoarece soarele apune în jur de ora 17:00.",
+            "en": "A brisk winter morning starts at the church and the windy point. At noon, stay active at the playground to keep warm. The afternoon lighthouses offer spectacular views of the winter ocean. Finish your tour at the old lighthouse early, as the sun sets around 17:00 in this season."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Nonna",
+                "hu": "Saint-Nonna templom",
+                "ro": "Biserica Saint-Nonna",
+                "en": "Saint-Nonna Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille; ziehen Sie sich warm an für die kühle Kirche.",
+                "hu": "Élvezze a téli csendet; öltözzön melegen a hűvös templomhoz.",
+                "ro": "Bucurați-vă de liniștea iernii; îmbrăcați-vă gros pentru biserica răcoroasă.",
+                "en": "Enjoy the winter silence; dress warmly for the cool church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Landspitze Pointe de Penmarc'h",
+                "hu": "Penmarc'h-fok",
+                "ro": "Promontoriul Penmarc'h",
+                "en": "Penmarc'h Point"
+              },
+              "tip_5lang": {
+                "de": "Tolle Winterwellen; tragen Sie winddichte Kleidung gegen die steife Brise.",
+                "hu": "Hatalmas téli hullámok; viseljen szélálló ruházatot a hideg szél ellen.",
+                "ro": "Valuri mari de iarnă; purtați haine rezistente la vânt.",
+                "en": "Massive winter waves; wear windproof clothing against the stiff ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderspielplatz",
+                "hu": "Gyermekjátszótér",
+                "ro": "Loc de joacă pentru copii",
+                "en": "Jeux Enfants"
+              },
+              "tip_5lang": {
+                "de": "Spielen hält im Winter warm, aber achten Sie auf gefrorene und rutschige Geräte.",
+                "hu": "A játék melegen tart, de vigyázzon a fagyott és csúszós eszközökre.",
+                "ro": "Joaca ține de cald, dar aveți grijă la echipamentele înghețate.",
+                "en": "Playing keeps you warm, but watch out for frozen and slippery equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Eckmühl",
+                "hu": "Eckmühl világítótorony",
+                "ro": "Farul Eckmühl",
+                "en": "Eckmühl Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet weite Sicht; der Aufstieg wärmt Sie ordentlich auf.",
+                "hu": "A tiszta téli levegő távoli kilátást nyújt; a mászás jól felmelegít.",
+                "ro": "Aerul clar de iarnă oferă vizibilitate; urcarea vă va încălzi.",
+                "en": "Clear winter air offers vast views; the climb will definitely warm you up."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Leuchtturm von Penmarc'h",
+                "hu": "Régi Penmarc'h világítótorony",
+                "ro": "Vechiul far Penmarc'h",
+                "en": "Old Penmarc'h Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Historischer Abschluss vor Einbruch der Dunkelheit gegen 17 Uhr.",
+                "hu": "Történelmi lezárás a sötétedés előtt, ami már 17 óra körül beáll.",
+                "ro": "Final istoric înainte de lăsarea întunericului în jur de ora 17:00.",
+                "en": "Historical conclusion before the early winter dusk falls around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája egy békés kápolnánál kezdődik, távol a nyüzsgéstől.\n\nDélelőtt a központba teker a lenyűgöző templomhoz.\n\nDélidőben a régió őskori történelmét fedezheti fel.\n\nDélután a világítótornyok nyújtanak lenyűgöző látványt, a napot pedig egy vízparti játszótér közelében zárja.",
         "ro": "Turul cu bicicleta începe la o capelă liniștită, departe de agitație.\n\nDimineața pedalați spre centru pentru a vedea biserica impunătoare.\n\nLa prânz explorați istoria preistorică a regiunii.\n\nDupă-amiaza farurile vă vor impresiona, ziua încheindu-se la un loc de joacă maritim pitoresc.",
         "en": "Your cycling tour begins at a peaceful chapel tucked away from the crowds.\n\nMid-morning takes you pedaling into the center to see the striking church.\n\nBy lunchtime, explore the region's rich prehistoric past.\n\nThe afternoon is dominated by majestic lighthouses, ending near a scenic nautical play area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert Vorsicht auf rutschigen Wegen zwischen den Kapellen. Der Vormittag führt Sie ins warme Museum. Nachmittags bieten die Leuchttürme perfekten Schutz vor den Schauern. Der Tag endet am Spielplatz, wo Sie je nach Wetterlage flexibel Schutz suchen sollten.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a csúszós utakon a kápolnák között. A délelőtt a meleg múzeumba vezet. Délután a világítótornyok nyújtanak tökéletes védelmet a záporok elől. A nap a játszótéren ér véget, ahol az időjárástól függően érdemes menedéket keresni.",
+            "ro": "O zi ploioasă cu bicicleta necesită prudență pe drumurile alunecoase. Dimineața vă duce la muzeul cald. După-amiaza, farurile oferă protecție perfectă împotriva ploii. Ziua se termină la locul de joacă, unde ar trebui să căutați adăpost flexibil în funcție de vreme.",
+            "en": "A rainy cycling day requires caution on slippery paths between the chapels. The morning leads you into the warm museum. In the afternoon, the lighthouses offer perfect protection from the showers. The day ends at the playground, where you should flexibly seek shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Magdalenenkapelle",
+                "hu": "Madeleine-kápolna",
+                "ro": "Capela Madeleine",
+                "en": "Madeleine Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ruhiger Start im Trockenen; Vorsicht auf nassem Laub beim Radfahren.",
+                "hu": "Nyugodt kezdés szárazon; kerékpározáskor vigyázzon a nedves falevelekre.",
+                "ro": "Început liniștit la adăpost; atenție la frunzele ude pe bicicletă.",
+                "en": "Quiet dry start; be careful on wet leaves when cycling around."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nonna",
+                "hu": "Saint-Nonna templom",
+                "ro": "Biserica Saint-Nonna",
+                "en": "Saint-Nonna Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Kircheninnere und trocknen Sie sich kurz vom Regen ab.",
+                "hu": "Csodálja meg a templombelsőt és szárítkozzon meg egy kicsit az esőtől.",
+                "ro": "Admirați interiorul bisericii și uscați-vă puțin de ploaie.",
+                "en": "Admire the church interior and dry off briefly from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorisches Museum",
+                "hu": "Őstörténeti Múzeum",
+                "ro": "Muzeul de Preistorie",
+                "en": "Museum of Prehistory"
+              },
+              "tip_5lang": {
+                "de": "Perfekte überdachte Aktivität bei Regen; entdecken Sie prähistorische Funde.",
+                "hu": "Tökéletes fedett program esőben; fedezze fel az őskori leleteket.",
+                "ro": "Activitate perfectă la adăpost; descoperiți artefacte preistorice.",
+                "en": "Perfect indoor activity during rain; discover prehistoric artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Eckmühl",
+                "hu": "Eckmühl világítótorony",
+                "ro": "Farul Eckmühl",
+                "en": "Eckmühl Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie den Turm im Trockenen, aber Vorsicht auf dem rutschigen Vorplatz.",
+                "hu": "Mássza meg a tornyot szárazon, de vigyázzon a csúszós előtéren.",
+                "ro": "Urcați turnul la uscat, dar atenție la curtea alunecoasă.",
+                "en": "Climb the tower in the dry, but beware of the slippery forecourt."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Leuchtturm von Penmarc'h",
+                "hu": "Régi Penmarc'h világítótorony",
+                "ro": "Vechiul far Penmarc'h",
+                "en": "Old Penmarc'h Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer trockener Rückzugsort, um die stürmische Küste sicher zu beobachten.",
+                "hu": "Újabb száraz menedék, ahonnan biztonságosan figyelheti a viharos partot.",
+                "ro": "Un alt refugiu uscat pentru a observa în siguranță coasta furtunoasă.",
+                "en": "Another dry retreat to safely watch the stormy coastline outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz Blaues Boot",
+                "hu": "Kék hajó játszótér",
+                "ro": "Loc de joacă Barca Albastră",
+                "en": "Aire de jeux du bateau bleu"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen den Stopp abkürzen und nach Unterständen Ausschau halten.",
+                "hu": "Szakadó esőben rövidítse le a megállót, és keressen menedéket.",
+                "ro": "Scurtați oprirea dacă plouă tare și căutați adăposturi.",
+                "en": "Cut the stop short in heavy rain and look for nearby shelters."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Winterluft begleitet Ihre Radtour vorbei an historischen Kapellen. Mittags wärmen Sie sich im prähistorischen Museum auf. Der Nachmittag belohnt mit kristallklarer Sicht von den Leuchttürmen. Beenden Sie die Fahrt rechtzeitig am Boot-Spielplatz, bevor es gegen 17 Uhr dunkel wird.",
+            "hu": "Hűvös téli levegő kíséri a kerékpártúrát a történelmi kápolnák mellett. Délben felmelegedhet az őstörténeti múzeumban. A délután kristálytiszta kilátással jutalmaz a világítótornyokból. Fejezze be az utat a hajós játszótéren, mielőtt 17 óra körül besötétedik.",
+            "ro": "Aerul rece de iarnă vă însoțește plimbarea pe lângă capelele istorice. La prânz vă încălziți la muzeul preistoric. După-amiaza vă răsplătește cu vederi clare de la faruri. Terminați călătoria la locul de joacă înainte să se întunece în jur de ora 17:00.",
+            "en": "Cool winter air accompanies your cycling tour past historic chapels. At noon, you can warm up in the prehistoric museum. The afternoon rewards with crystal clear views from the lighthouses. Finish the ride at the boat playground in time before it gets dark around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Magdalenenkapelle",
+                "hu": "Madeleine-kápolna",
+                "ro": "Capela Madeleine",
+                "en": "Madeleine Chapel"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe zum Radfahren; die Kapelle ist kühl.",
+                "hu": "Viseljen meleg kesztyűt a tekeréshez; a kápolna hűvös.",
+                "ro": "Purtați mănuși calde pentru ciclism; capela este răcoroasă.",
+                "en": "Wear warm gloves for cycling; the chapel itself is cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nonna",
+                "hu": "Saint-Nonna templom",
+                "ro": "Biserica Saint-Nonna",
+                "en": "Saint-Nonna Church"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Glasfenster; ein kurzer Stopp, um die Beine aufzuwärmen.",
+                "hu": "Lenyűgöző üvegablakok; rövid megálló, hogy felmelegítse a lábait.",
+                "ro": "Vitralii impresionante; o scurtă oprire pentru a vă încălzi picioarele.",
+                "en": "Impressive stained glass; a short stop to warm up your legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorisches Museum",
+                "hu": "Őstörténeti Múzeum",
+                "ro": "Muzeul de Preistorie",
+                "en": "Museum of Prehistory"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte in angenehm beheizten Räumen.",
+                "hu": "Fedezze fel a történelmet kellemesen fűtött termekben.",
+                "ro": "Descoperiți istoria în camere plăcut încălzite.",
+                "en": "Discover local history inside pleasantly heated rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Eckmühl",
+                "hu": "Eckmühl világítótorony",
+                "ro": "Farul Eckmühl",
+                "en": "Eckmühl Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf; packen Sie sich oben gegen den Wind ein.",
+                "hu": "A mászás felmelegít; odafent öltözzön fel a szél ellen.",
+                "ro": "Urcușul vă încălzește; îmbrăcați-vă gros sus împotriva vântului.",
+                "en": "The climb warms you up; bundle up against the wind at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Leuchtturm von Penmarc'h",
+                "hu": "Régi Penmarc'h világítótorony",
+                "ro": "Vechiul far Penmarc'h",
+                "en": "Old Penmarc'h Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Tolles Winterlicht für Fotos; nutzen Sie die Nachmittagssonne.",
+                "hu": "Remek téli fények fotózáshoz; használja ki a délutáni napsütést.",
+                "ro": "Lumină grozavă de iarnă pentru fotografii; profitați de soare.",
+                "en": "Great winter light for photos; take advantage of the afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz Blaues Boot",
+                "hu": "Kék hajó játszótér",
+                "ro": "Loc de joacă Barca Albastră",
+                "en": "Aire de jeux du bateau bleu"
+              },
+              "tip_5lang": {
+                "de": "Letzter Halt vor Einbruch der Dunkelheit gegen 17:00 Uhr.",
+                "hu": "Utolsó megálló a sötétedés előtt, ami 17:00 körül várható.",
+                "ro": "Ultima oprire înainte de lăsarea întunericului în jur de ora 17:00.",
+                "en": "Last stop before darkness falls around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A nap egy kék hajós játszótéren indul kényelmesen.\n\nDélelőtt a zord hegyfokhoz és a központi templomhoz hajt.\n\nDélben elmerülhet egy ősi kőkápolna csendjében.\n\nDélután egy időutazás várja a múzeumban, majd a fenséges világítótornyok látványa teszi teljessé a kirándulást.",
         "ro": "Ziua începe relaxant la un loc de joacă cu barca albastră.\n\nDimineața conduceți spre promontoriul accidentat și biserica centrală.\n\nLa prânz, vă bucurați de liniștea unei vechi capele de piatră.\n\nDupă-amiaza vă așteaptă o călătorie în timp, farurile maiestuoase completând excursia.",
         "en": "The day starts smoothly at a blue boat-themed playground.\n\nMid-morning involves driving to the rugged point and visiting the central church.\n\nAround noon, soak in the quiet atmosphere of an ancient stone chapel.\n\nAfternoon brings a fascinating journey back in time, concluding at the majestic lighthouses."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Autofahrt beginnt gemütlich am Spielplatz und der rauen Landspitze. Mittags bieten die Kirchen und das Museum trockene Zufluchtsorte. Nachmittags erkunden Sie die majestätischen Leuchttürme von innen. Fahren Sie bei Nässe besonders vorsichtig auf den Küstenstraßen.",
+            "hu": "Egy esős autóút kényelmesen indul a játszótérnél és a zord foknál. Délben a templomok és a múzeum száraz menedéket nyújtanak. Délután fedezze fel a fenséges világítótornyokat belülről. Nedves időben vezessen különösen óvatosan a parti utakon.",
+            "ro": "O plimbare ploioasă cu mașina începe confortabil la locul de joacă și promontoriu. La prânz, bisericile și muzeul oferă refugii uscate. După-amiaza explorați farurile maiestuoase din interior. Conduceți cu mare prudență pe drumurile umede de coastă.",
+            "en": "A rainy drive starts comfortably at the playground and the rugged point. At noon, the churches and museum offer dry sanctuaries. In the afternoon, explore the majestic lighthouses from the inside. Drive with extra caution on the wet coastal roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spielplatz Blaues Boot",
+                "hu": "Kék hajó játszótér",
+                "ro": "Loc de joacă Barca Albastră",
+                "en": "Aire de jeux du bateau bleu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah; bei starkem Regen besser nur aus dem Auto beobachten.",
+                "hu": "Parkoljon közel; heves esőben jobb csak az autóból figyelni.",
+                "ro": "Parcați aproape; pe ploaie puternică priviți din mașină.",
+                "en": "Park close by; in heavy rain, it's better to just watch from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Landspitze Pointe de Penmarc'h",
+                "hu": "Penmarc'h-fok",
+                "ro": "Promontoriul Penmarc'h",
+                "en": "Penmarc'h Point"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre Wellen; steigen Sie nur mit regenfester Kleidung kurz aus.",
+                "hu": "Látványos hullámok; csak esőálló ruhában szálljon ki rövid időre.",
+                "ro": "Valuri spectaculoase; ieșiți scurt doar cu haine de ploaie.",
+                "en": "Spectacular waves; only step out briefly with rainproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nonna",
+                "hu": "Saint-Nonna templom",
+                "ro": "Biserica Saint-Nonna",
+                "en": "Saint-Nonna Church"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Zufluchtsort mit faszinierender lokaler Geschichte.",
+                "hu": "Száraz menedékhely lenyűgöző helyi történelemmel.",
+                "ro": "Un refugiu uscat cu o istorie locală fascinantă.",
+                "en": "A dry sanctuary filled with fascinating local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Magdalenenkapelle",
+                "hu": "Madeleine-kápolna",
+                "ro": "Capela Madeleine",
+                "en": "Madeleine Chapel"
+              },
+              "tip_5lang": {
+                "de": "Kurzer historischer Stopp; achten Sie auf Pfützen am Eingang.",
+                "hu": "Rövid történelmi megálló; figyeljen a tócsákra a bejáratnál.",
+                "ro": "Scurtă oprire istorică; atenție la bălțile de la intrare.",
+                "en": "Short historical stop; watch out for puddles near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorisches Museum",
+                "hu": "Őstörténeti Múzeum",
+                "ro": "Muzeul de Preistorie",
+                "en": "Museum of Prehistory"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Regentage; verbringen Sie hier ausgiebig Zeit im Warmen.",
+                "hu": "Ideális esős napokra; töltsön itt bőséges időt a melegben.",
+                "ro": "Ideal pentru zile ploioase; petreceți timp la căldură aici.",
+                "en": "Ideal for rainy days; spend plenty of time here in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Eckmühl",
+                "hu": "Eckmühl világítótorony",
+                "ro": "Farul Eckmühl",
+                "en": "Eckmühl Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Wasserdichte Jacke für den Weg vom Parkplatz zum trockenen Turm.",
+                "hu": "Vízálló dzseki a parkolótól a száraz toronyig vezető útra.",
+                "ro": "Jachetă impermeabilă de la parcare până la turnul uscat.",
+                "en": "Waterproof jacket for the walk from the car park to the dry tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Leuchtturm von Penmarc'h",
+                "hu": "Régi Penmarc'h világítótorony",
+                "ro": "Vechiul far Penmarc'h",
+                "en": "Old Penmarc'h Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte letzte Stopp im Trockenen, um die Naturgewalten zu sehen.",
+                "hu": "A tökéletes utolsó száraz megálló a természeti erők megfigyelésére.",
+                "ro": "Ultima oprire uscată perfectă pentru a vedea forțele naturii.",
+                "en": "The perfect last dry stop to safely watch the forces of nature."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour startet am Spielplatz und der frostigen Küste. Mittags erwärmen Sie sich bei kulturellen Stopps in Kirchen und dem Museum. Der späte Nachmittag an den Leuchttürmen bietet atemberaubende Wintersonnenuntergänge. Planen Sie das Ende gegen 17 Uhr ein.",
+            "hu": "A téli autós túra a játszótérnél és a fagyos partnál indul. Délben felmelegedhet a templomok és a múzeum kulturális állomásainál. A késő délután a világítótornyoknál lélegzetelállító téli naplementéket kínál. Tervezze a befejezést 17 óra környékére.",
+            "ro": "Turul de iarnă cu mașina începe la locul de joacă și coasta geroasă. La prânz vă încălziți la opririle culturale și muzeu. După-amiaza târziu la faruri oferă apusuri de iarnă uluitoare. Planificați finalul în jur de ora 17:00.",
+            "en": "The winter road trip starts at the playground and the frosty coast. At noon, warm up with cultural stops at churches and the museum. The late afternoon at the lighthouses offers breathtaking winter sunsets. Plan to finish up around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spielplatz Blaues Boot",
+                "hu": "Kék hajó játszótér",
+                "ro": "Loc de joacă Barca Albastră",
+                "en": "Aire de jeux du bateau bleu"
+              },
+              "tip_5lang": {
+                "de": "Frische Küstenluft; Kinder sollten Mützen und warme Jacken tragen.",
+                "hu": "Friss tengerparti levegő; a gyerekek viseljenek sapkát és meleg kabátot.",
+                "ro": "Aer proaspăt de coastă; copiii trebuie să poarte căciuli.",
+                "en": "Fresh coastal air; kids should wear beanies and warm jackets."
+              }
+            },
+            {
+              "name": {
+                "de": "Landspitze Pointe de Penmarc'h",
+                "hu": "Penmarc'h-fok",
+                "ro": "Promontoriul Penmarc'h",
+                "en": "Penmarc'h Point"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Brandung; das Auto bietet danach schnelles Aufwärmen.",
+                "hu": "Lenyűgöző hullámverés; az autó ezután gyors felmelegedést nyújt.",
+                "ro": "Surf impresionant; mașina oferă încălzire rapidă apoi.",
+                "en": "Impressive surf; the car offers quick warming up afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nonna",
+                "hu": "Saint-Nonna templom",
+                "ro": "Biserica Saint-Nonna",
+                "en": "Saint-Nonna Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur; ziehen Sie sich warm an.",
+                "hu": "Csodálja meg az építészetet; öltözzön melegen a benti hűvös miatt.",
+                "ro": "Admirați arhitectura; îmbrăcați-vă gros pentru interior.",
+                "en": "Admire the architecture; dress warmly for the cool interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Magdalenenkapelle",
+                "hu": "Madeleine-kápolna",
+                "ro": "Capela Madeleine",
+                "en": "Madeleine Chapel"
+              },
+              "tip_5lang": {
+                "de": "Idyllisch im Winter; die Heizung im Auto wartet gleich nebenan.",
+                "hu": "Idilli télen; a fűtés az autóban rögtön a közelben vár.",
+                "ro": "Idilic iarna; căldura din mașină vă așteaptă aproape.",
+                "en": "Idyllic in winter; the car heater is waiting right nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorisches Museum",
+                "hu": "Őstörténeti Múzeum",
+                "ro": "Muzeul de Preistorie",
+                "en": "Museum of Prehistory"
+              },
+              "tip_5lang": {
+                "de": "Eine gemütliche, beheizte Pause am Mittag mit viel Geschichte.",
+                "hu": "Kellemes, fűtött pihenő délben, sok érdekességgel.",
+                "ro": "O pauză confortabilă, încălzită la prânz, plină de istorie.",
+                "en": "A cozy, heated break at noon filled with local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare d'Eckmühl",
+                "hu": "Eckmühl világítótorony",
+                "ro": "Farul Eckmühl",
+                "en": "Eckmühl Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Klare Wintertage bieten die beste Sicht; 307 Stufen wärmen auf.",
+                "hu": "A tiszta téli napok nyújtják a legjobb kilátást; a lépcsőzés felmelegít.",
+                "ro": "Zilele clare de iarnă oferă cea mai bună vizibilitate.",
+                "en": "Clear winter days offer the best views; climbing warms you up."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Leuchtturm von Penmarc'h",
+                "hu": "Régi Penmarc'h világítótorony",
+                "ro": "Vechiul far Penmarc'h",
+                "en": "Old Penmarc'h Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das goldene Winterlicht vor Sonnenuntergang um 17 Uhr ein.",
+                "hu": "Kapja el az aranyló téli fényeket a 17 órai naplemente előtt.",
+                "ro": "Prindeți lumina aurie de iarnă înainte de apusul de la ora 17.",
+                "en": "Catch the golden winter light before the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

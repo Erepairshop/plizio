@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a CICA központban, és ismerje meg a helyi történelmet. Délben fedezze fel a hagyományos kő szélmalmot. A délután pihenésre csábít a városi medencékben. Zárja a napot a történelem előtti helyszínek és emlékművek megtekintésével.",
         "ro": "Începeți ziua la CICA pentru a învăța despre istoria locală. La prânz, explorați moara de vânt tradițională din piatră. După-amiaza vă invită să vă relaxați la piscinele municipale. Încheiați ziua admirând siturile preistorice și monumentele.",
         "en": "Start your day at the CICA to learn about the local medieval history. By midday, explore the traditional stone windmill. The afternoon invites you to relax at the municipal swimming pools. Conclude your walk by discovering the prehistoric sites and local monuments."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im trockenen Museum. Mittags folgt ein nasser, aber stimmungsvoller Spaziergang zur Windmühle und den Schwimmbädern. Nachmittags erkunden Sie das alte Grabmal und das Denkmal mit festen, wasserdichten Schuhen. Mit einer guten Regenjacke und einem Regenschirm wird auch dieses nasse Abenteuer zu einem tollen und sicheren Erlebnis.",
+            "hu": "Kezdje az esős reggelt a múzeum fedett, száraz kiállításán. Délben egy nedves, de hangulatos séta vár a szélmalomhoz és a medencékhez. Délután masszív, vízálló cipőben fedezze fel az ősi kősírt és az emlékművet. Egy jó esőkabáttal és esernyővel felszerelkezve ez a csapadékos kaland is biztonságos és rendkívül élvezetes marad.",
+            "ro": "Începeți dimineața ploioasă la muzeul uscat și cald. La prânz, urmează o plimbare umedă, dar plină de atmosferă, spre moara de vânt și piscine. După-amiaza, explorați mormântul antic și monumentul cu încălțăminte robustă și impermeabilă. Cu o pelerină bună și o umbrelă, această aventură umedă devine o experiență foarte plăcută și sigură.",
+            "en": "Start your rainy morning indoors at the dry, informative museum. Midday brings a wet but atmospheric walk to the windmill and pool area. By afternoon, explore the ancient dolmen and the monument wearing sturdy, waterproof boots. Armed with a high-quality rain jacket and an umbrella, this damp adventure remains perfectly safe and highly enjoyable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CICA - Ansiães Castle Interpretive Center",
+                "hu": "CICA - Ansiães Castle Interpretive Center",
+                "ro": "CICA - Ansiães Castle Interpretive Center",
+                "en": "CICA - Ansiães Castle Interpretive Center"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Start an einem Regentag; lernen Sie die Geschichte der Burg kennen und bleiben Sie dabei unter dem sicheren Dach völlig trocken.",
+                "hu": "Tökéletes fedett kezdés esős napon; ismerje meg a vár történetét, miközben a biztonságos tető alatt teljesen száraz és meleg marad.",
+                "ro": "Început perfect pentru o zi ploioasă; aflați istoria castelului rămânând complet uscat sub acoperișul sigur și protector.",
+                "en": "Perfect indoor start for a rainy day; learn the castle's history while staying completely dry and comfortable under a secure roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Moínho de Vento",
+                "hu": "Moínho de Vento",
+                "ro": "Moínho de Vento",
+                "en": "Moínho de Vento"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Mühle wird schnell schlammig. Tragen Sie rutschfeste, wasserdichte Schuhe, um die historische Stätte sicher zu bewundern.",
+                "hu": "A malom körüli talaj hamar sárossá válik. Viseljen csúszásmentes, vízálló cipőt, hogy biztonságosan megcsodálhassa a történelmi helyszínt.",
+                "ro": "Terenul din jurul morii devine rapid noroios. Purtați încălțăminte impermeabilă și antiderapantă pentru a admira în siguranță situl.",
+                "en": "The ground around the mill gets muddy quickly. Wear slip-resistant, waterproof shoes to safely admire this historical elevated site."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas Municipais de Carrazeda de Ansiães",
+                "hu": "Piscinas Municipais de Carrazeda de Ansiães",
+                "ro": "Piscinas Municipais de Carrazeda de Ansiães",
+                "en": "Piscinas Municipais de Carrazeda de Ansiães"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Außenbecken ruhig und menschenleer. Nutzen Sie Ihren Regenschirm für einen kurzen, stimmungsvollen Blick auf das Gelände.",
+                "hu": "Esőben a szabadtéri medencék csendesek és elhagyatottak. Használja az esernyőjét egy rövid, hangulatos pillantásra a vízfelületre.",
+                "ro": "Pe ploaie, piscinele exterioare sunt liniștite. Folosiți umbrela pentru a vă bucura de o scurtă privire plină de atmosferă asupra apei.",
+                "en": "In the rain, the outdoor pools are quiet and deserted. Use your umbrella to enjoy a brief, atmospheric look at the water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Samotinha",
+                "hu": "Anta da Samotinha",
+                "ro": "Anta da Samotinha",
+                "en": "Anta da Samotinha"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Gras rund um das alte Grabmal ist sehr rutschig. Gehen Sie vorsichtig und halten Sie Ihre Regenjacke fest geschlossen.",
+                "hu": "A nedves fű az ősi síremlék körül nagyon csúszós lehet. Lépjen óvatosan, és tartsa szorosan összezárva a vízálló esőkabátját.",
+                "ro": "Iarba umedă din jurul mormântului antic este foarte alunecoasă. Pășiți cu grijă și țineți pelerina de ploaie bine închisă.",
+                "en": "The wet grass around this ancient tomb is very slippery. Step carefully and keep your waterproof rain jacket tightly zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento aos Resineiros",
+                "hu": "Monumento aos Resineiros",
+                "ro": "Monumento aos Resineiros",
+                "en": "Monumento aos Resineiros"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Stopp beim Denkmal. Bewundern Sie die Statue unter dem Schirm, bevor Sie sich einen gemütlichen, trockenen Ort suchen.",
+                "hu": "Rövid, nedves megálló az emlékműnél. Csodálja meg a szobrot az esernyő alól, mielőtt egy hangulatos, száraz helyet keresne magának.",
+                "ro": "O scurtă oprire umedă la monument. Admirați statuia sub umbrelă înainte de a vă retrage într-un loc uscat și confortabil.",
+                "en": "A brief, wet stop at the monument. Admire the statue from beneath your umbrella before heading off to find a cozy, dry spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt im Infozentrum. Gehen Sie danach zügig zur Windmühle und den Schwimmbädern, um der Kälte zu trotzen. Nachmittags warten das alte Grabmal und das Denkmal in der tiefstehenden Sonne. Beenden Sie Ihre Tour unbedingt bis 17:00 Uhr, da die Sonne früh untergeht und es danach sehr schnell frostig dunkel wird.",
+            "hu": "A csípős téli reggel a múzeumban indul. Tegyen egy tempós sétát a szélmalomhoz és a medencékhez a déli hidegben. Délután a lenyűgöző ősi kősír és a gyantászok emlékműve várja az alacsony napfényben. Fejezze be a túrát 17:00 körül, mert a korai naplemente után fagyos, sötét este ereszkedik a városra.",
+            "ro": "Dimineața de iarnă începe la centrul de interpretare. Mergeți vioi spre moara de vânt și piscine pentru a învinge frigul amiezii. După-amiaza aduce mormântul antic și monumentul în lumina soarelui de apus. Terminați până la 17:00, deoarece soarele apune devreme, aducând o seară geroasă și întunecată.",
+            "en": "A crisp winter morning starts at the interpretive center. Walk briskly to the windmill and pools to beat the chill. The afternoon features the striking ancient tomb and monument in the low winter light. Wrap up your walking tour by 17:00 as the early sunset quickly plunges the town into a frosty, dark evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CICA - Ansiães Castle Interpretive Center",
+                "hu": "CICA - Ansiães Castle Interpretive Center",
+                "ro": "CICA - Ansiães Castle Interpretive Center",
+                "en": "CICA - Ansiães Castle Interpretive Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich morgens drinnen auf und erkunden Sie die Ausstellungen, bevor Sie in die winterliche Kälte nach draußen treten.",
+                "hu": "Melegedjen fel a benti térben reggel, és fedezze fel a kiállításokat, mielőtt kilépne a fagyos téli levegőre sétálni.",
+                "ro": "Încălziți-vă la interior dimineața și explorați expozițiile interactive înainte de a ieși în frigul tăios al iernii.",
+                "en": "Warm up indoors first thing in the morning and explore the exhibits before stepping out into the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Moínho de Vento",
+                "hu": "Moínho de Vento",
+                "ro": "Moínho de Vento",
+                "en": "Moínho de Vento"
+              },
+              "tip_5lang": {
+                "de": "An diesem erhöhten Punkt weht ein eisiger Winterwind. Ein dicker Schal und warme Handschuhe sind hier absolut unverzichtbar.",
+                "hu": "Ezen a magaslati ponton jeges téli szél fúj. Egy vastag sál és meleg kesztyű itt abszolút elengedhetetlen a kényelemhez.",
+                "ro": "Vântul înghețat de iarnă suflă puternic în acest punct înalt. Un fular gros și mănuși călduroase sunt absolut esențiale aici.",
+                "en": "Icy winter winds whip around this elevated spot. A thick scarf and warm gloves are absolutely essential for your comfort here."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas Municipais de Carrazeda de Ansiães",
+                "hu": "Piscinas Municipais de Carrazeda de Ansiães",
+                "ro": "Piscinas Municipais de Carrazeda de Ansiães",
+                "en": "Piscinas Municipais de Carrazeda de Ansiães"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang an den ruhenden, eisigen Außenbecken vorbei. Genießen Sie die winterliche, ruhige Atmosphäre dick eingepackt.",
+                "hu": "Tempós séta a pihenő, fagyos szabadtéri medencék mellett. Vastagon felöltözve élvezze a csendes, téli atmoszférát a víz körül.",
+                "ro": "O plimbare vioaie pe lângă piscinele exterioare înghețate. Bucurați-vă de atmosfera liniștită de iarnă, bine înfofolit.",
+                "en": "A brisk walk past the dormant, frosty outdoor pools. Bundle up tightly to enjoy the peaceful, quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Samotinha",
+                "hu": "Anta da Samotinha",
+                "ro": "Anta da Samotinha",
+                "en": "Anta da Samotinha"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine wirken im tiefen Winterlicht mystisch. Tragen Sie Thermokleidung, da das offene Feld extrem kalt sein kann.",
+                "hu": "Az ősi kövek misztikusak az alacsony téli fényben. Viseljen termo ruházatot, mivel a nyílt mezőn rendkívül hideg lehet.",
+                "ro": "Pietrele antice par mistice în lumina joasă de iarnă. Purtați haine termice, deoarece câmpul deschis poate fi extrem de rece.",
+                "en": "The ancient stones look mystical in the low winter light. Wear thermal layers, as this open field can be bitterly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento aos Resineiros",
+                "hu": "Monumento aos Resineiros",
+                "ro": "Monumento aos Resineiros",
+                "en": "Monumento aos Resineiros"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang hier, während die Wintersonne um 17:00 Uhr untergeht. Gehen Sie danach zügig ins Warme zurück.",
+                "hu": "Fejezze be sétáját itt, ahogy a téli nap 17:00 körül lenyugszik. Utána siessen vissza a melegbe, mielőtt a fagy beállna.",
+                "ro": "Terminați plimbarea aici în timp ce soarele de iarnă apune la 17:00. După aceea, întoarceți-vă rapid la un loc călduros.",
+                "en": "Conclude your walk here as the winter sun sets around 17:00. Head back to a warm, indoor location immediately afterwards."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel kerékpározzon el a lenyűgöző Anta de Zedes-hez még a hőség beállta előtt. Dél körül érje el a Solar dos Marizes impozáns udvarházát. Délután látogasson el a történelmi megalitikus sírokhoz és a CICA központhoz. Az estét a cserépmúzeumban zárja.",
         "ro": "Pedalați dimineața către impresionanta Anta de Zedes înainte de căldura amiezii. În jurul prânzului ajungeți la impunătorul conac Solar dos Marizes. După-amiaza vizitați dolmenele istorice și centrul CICA. Seara se încheie fascinant la muzeul țiglelor.",
         "en": "Cycle in the morning to the impressive Anta de Zedes before the midday heat. By noon, reach the stately Solar dos Marizes manor house. The afternoon is spent visiting historic megalithic tombs and the CICA center. Your evening concludes fascinatingly at the tile museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum Dolmen erfordert Vorsicht, da die Wege im Regen schlammig sind. Mittags bieten die historischen Stätten kurze, nasse Stopps; fahren Sie langsam auf den rutschigen Straßen. Der Nachmittag bringt Erleichterung: Sie verbringen ihn geschützt in zwei faszinierenden Museen. Wasserdichte Kleidung und gute Bremsen sind heute Pflicht.",
+            "hu": "A reggeli tekerés a kősírhoz óvatosságot igényel, az utak esőben sárosak. Délben a történelmi helyszíneken rövid, nedves megállók várnak; haladjon lassan a csúszós aszfalton. A délután megkönnyebbülést hoz: védett, száraz múzeumokban töltheti. Vízálló kerékpáros ruházat és jól fogó fék ma kötelező.",
+            "ro": "Traseul de dimineață spre dolmen necesită prudență, drumurile fiind noroioase pe ploaie. La prânz, siturile istorice oferă opriri scurte și umede; mergeți încet pe străzile alunecoase. După-amiaza aduce ușurare: vă adăpostiți în două muzee fascinante. Echipamentul impermeabil și frânele bune sunt obligatorii.",
+            "en": "The morning ride to the dolmen demands caution, as trails get muddy in the rain. Midday historical stops are brief and wet; cycle slowly on slippery roads. The afternoon brings relief as you spend it sheltered inside two fascinating museums. High-visibility waterproof gear and responsive brakes are mandatory today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anta de Zedes",
+                "hu": "Anta de Zedes",
+                "ro": "Anta de Zedes",
+                "en": "Anta de Zedes"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände am Grabmal ist bei Nässe sehr rutschig. Schieben Sie das Rad das letzte Stück und tragen Sie wasserdichte Überschuhe.",
+                "hu": "A kősír körüli terep nedvesen nagyon csúszós. Tolja a kerékpárt az utolsó szakaszon, és viseljen vízálló cipővédőt.",
+                "ro": "Terenul de la mormânt este foarte alunecos când e ud. Împingeți bicicleta pe ultima porțiune și purtați protecții impermeabile.",
+                "en": "The terrain near the tomb is very slippery when wet. Walk your bike the last stretch and wear waterproof shoe covers."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Marizes",
+                "hu": "Solar dos Marizes",
+                "ro": "Solar dos Marizes",
+                "en": "Solar dos Marizes"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade des Herrenhauses vom Sattel aus. Achten Sie auf nasse Blätter und rutschiges Kopfsteinpflaster davor.",
+                "hu": "Csodálja meg a kúria homlokzatát a nyeregből. Ügyeljen a nedves falevelekre és a csúszós macskaköves burkolatra előtte.",
+                "ro": "Admirați fațada conacului din șa. Fiți atenți la frunzele umede și la piatra cubică alunecoasă din fața clădirii.",
+                "en": "Admire the manor's facade right from your saddle. Watch out for wet leaves and slippery cobblestones directly in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento aos Resineiros",
+                "hu": "Monumento aos Resineiros",
+                "ro": "Monumento aos Resineiros",
+                "en": "Monumento aos Resineiros"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie im Regen kurz an, um dieses Denkmal zu sehen. Bremsen Sie rechtzeitig, da der Bremsweg bei Nässe deutlich länger ist.",
+                "hu": "Álljon meg röviden az esőben ennél az emlékműnél. Fékezzen időben, mivel a fékút nedves körülmények között jelentősen megnő.",
+                "ro": "Opriți scurt în ploaie pentru a vedea acest monument. Frânați din timp, deoarece distanța de frânare crește pe carosabil ud.",
+                "en": "Pause briefly in the rain to see this monument. Brake early, as your stopping distance is significantly longer in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Samotinha",
+                "hu": "Anta da Samotinha",
+                "ro": "Anta da Samotinha",
+                "en": "Anta da Samotinha"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad hierher kann extrem matschig sein. Ein Rad mit breiten Reifen ist ideal, ansonsten fahren Sie im Schritttempo.",
+                "hu": "Az ide vezető ösvény rendkívül sáros lehet. A széles gumijú kerékpár ideális, különben haladjon lépésben, hogy elkerülje a bukást.",
+                "ro": "Poteca de aici poate fi extrem de noroioasă. O bicicletă cu anvelope late este ideală, altfel mergeți cu viteza pasului.",
+                "en": "The path here can be extremely muddy. A bike with wide tires is ideal, otherwise ride at a walking pace to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "CICA - Ansiães Castle Interpretive Center",
+                "hu": "CICA - Ansiães Castle Interpretive Center",
+                "ro": "CICA - Ansiães Castle Interpretive Center",
+                "en": "CICA - Ansiães Castle Interpretive Center"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und genießen Sie die trockene, warme Umgebung im Museum. Eine perfekte Pause vom ständigen Regen.",
+                "hu": "Tegye le a kerékpárt, és élvezze a múzeum száraz, meleg környezetét. Tökéletes menedék a folyamatos esőzés elől.",
+                "ro": "Parcați bicicleta și bucurați-vă de mediul uscat și cald din muzeu. O pauză perfectă de la ploaia continuă.",
+                "en": "Park your bike and enjoy the dry, warm environment inside the museum. A perfect, sheltered break from the continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "hu": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "ro": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "en": "Núcleo Museológico da Telha - Telheira de Luzelos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die regnerische Tour im Trockenen bei dieser Ziegelei-Ausstellung. Die schützenden Wände sind am späten Nachmittag sehr willkommen.",
+                "hu": "Fejezze be az esős túrát szárazon ennél a téglaipari kiállításnál. Az oltalmazó falak késő délután nagyon jól jönnek.",
+                "ro": "Încheiați turul ploios la adăpost la această expoziție de țiglărie. Pereții protectori sunt foarte bineveniți la finalul zilei.",
+                "en": "End the wet ride indoors learning about traditional tiles. The sheltered walls are incredibly welcome by late afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Tag am alten Dolmen erfordert warme Handschuhe. Mittags radeln Sie durch die klare Kälte an Herrenhäusern und Denkmälern vorbei. Der Nachmittag bietet die Chance, sich in den Museen vor der hereinbrechenden Abendkälte aufzuwärmen. Beenden Sie die Fahrt spätestens um 17:00 Uhr und schalten Sie das Fahrradlicht frühzeitig ein.",
+            "hu": "A fagyos napindítás az ősi kősírnál meleg kesztyűt követel. Délben a tiszta, hideg levegőn teker el a kúriák és emlékművek mellett. A délután esélyt ad a múzeumokban való felmelegedésre a közelgő esti fagy előtt. Fejezze be az utat legkésőbb 17:00-kor, és időben kapcsolja be a kerékpárlámpát a korai sötétedés miatt.",
+            "ro": "Startul geros la vechiul dolmen necesită mănuși groase. La prânz pedalați prin aerul rece pe lângă conace și monumente. După-amiaza oferă șansa de a vă încălzi în muzee înainte de frigul serii. Încheiați cursa cel târziu la 17:00 și porniți din timp luminile bicicletei din cauza întunericului timpuriu.",
+            "en": "A frosty start at the ancient dolmen demands thick gloves. Midday riding takes you through clear cold past manors and monuments. The afternoon offers a chance to thaw out in museums before the evening chill sets in. Finish riding by 17:00 and ensure your bike lights are switched on early for the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anta de Zedes",
+                "hu": "Anta de Zedes",
+                "ro": "Anta de Zedes",
+                "en": "Anta de Zedes"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost macht die Landschaft wunderschön. Tragen Sie gut isolierte Radhandschuhe, da der Fahrtwind eisig ist.",
+                "hu": "A reggeli dér gyönyörűvé teszi a tájat. Viseljen jól szigetelt kerékpáros kesztyűt, mert a menetszél jéghideg ezen a ponton.",
+                "ro": "Bruma dimineții face peisajul superb. Purtați mănuși de ciclism bine izolate, deoarece vântul de la rulare este înghețat.",
+                "en": "The morning frost makes the landscape beautiful. Wear well-insulated cycling gloves, as the biting wind chill is severe."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Marizes",
+                "hu": "Solar dos Marizes",
+                "ro": "Solar dos Marizes",
+                "en": "Solar dos Marizes"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintersonne lässt die Architektur erstrahlen. Ein toller kurzer Stopp, um sich zu bewegen und warm zu bleiben.",
+                "hu": "A tiszta téli napsütésben ragyog az építészet. Remek rövid megálló, hogy mozgásban maradjon és megőrizze testhőjét.",
+                "ro": "Soarele clar de iarnă luminează arhitectura. O oprire scurtă excelentă pentru a vă mișca și a vă păstra căldura.",
+                "en": "The clear winter sun highlights the architecture nicely. A great quick stop to stretch your legs and keep your body warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento aos Resineiros",
+                "hu": "Monumento aos Resineiros",
+                "ro": "Monumento aos Resineiros",
+                "en": "Monumento aos Resineiros"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich bei diesem kurzen Halt in Bewegung, um nicht auszukühlen. Die winterliche Luft hier ist extrem frisch und beißend.",
+                "hu": "Mozogjon folyamatosan ennél a rövid megállónál, hogy ne hűljön ki. A téli levegő itt rendkívül friss és csípős.",
+                "ro": "Rămâneți în mișcare la această oprire scurtă pentru a nu vă răci. Aerul de iarnă de aici este extrem de proaspăt și tăios.",
+                "en": "Keep your body moving during this brief stop to avoid cooling down. The winter air here is extremely crisp and biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Samotinha",
+                "hu": "Anta da Samotinha",
+                "ro": "Anta da Samotinha",
+                "en": "Anta da Samotinha"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagssonne wirft im Winter lange Schatten. Ziehen Sie sich vor der Weiterfahrt eine extra Schicht Kleidung über.",
+                "hu": "A délutáni nap télen hosszú árnyékokat vet. Indulás előtt vegyen fel egy extra réteg ruhát, hogy védje magát a hidegtől.",
+                "ro": "Soarele de după-amiază aruncă umbre lungi iarna. Puneți-vă un strat suplimentar de haine înainte de a continua drumul.",
+                "en": "The afternoon sun casts long shadows in winter. Pull on an extra thermal layer before you jump back onto the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "CICA - Ansiães Castle Interpretive Center",
+                "hu": "CICA - Ansiães Castle Interpretive Center",
+                "ro": "CICA - Ansiães Castle Interpretive Center",
+                "en": "CICA - Ansiães Castle Interpretive Center"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp am Nachmittag, um sich im geheizten Innenraum bei der spannenden Ausstellung wieder richtig aufzuwärmen.",
+                "hu": "Tökéletes délutáni megálló, hogy az izgalmas kiállítás megtekintése közben a fűtött belső térben rendesen felmelegedjen.",
+                "ro": "O oprire perfectă după-amiaza pentru a vă încălzi bine în spațiul interior încălzit, vizitând expoziția captivantă.",
+                "en": "A perfect mid-afternoon stop to completely thaw out in the heated indoor space while enjoying the fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "hu": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "ro": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "en": "Núcleo Museológico da Telha - Telheira de Luzelos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Warmen, während draußen gegen 17:00 Uhr die Dämmerung einsetzt. Überprüfen Sie Ihre Fahrradbeleuchtung.",
+                "hu": "Fejezze be a túrát a melegben, miközben kint 17:00 körül elkezdődik a sötétedés. Indulás előtt ellenőrizze a kerékpárlámpát.",
+                "ro": "Încheiați turul la căldură, în timp ce afară se înserează pe la 17:00. Verificați luminile bicicletei înainte de a pleca.",
+                "en": "Finish the tour in the warmth as twilight approaches outside around 17:00. Check your bike lights before riding home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós utazását a történelem előtti Anta de Zedes-nél a hűvös reggeli levegőben. Délben vezessen elegáns udvarházakhoz és történelmi emlékművekhez. A délutánt a helyi kézművességet és történelmet bemutató múzeumlátogatások határozzák meg. Este pihenjen a szabadtéri medencékben.",
         "ro": "Începeți călătoria cu mașina la situl preistoric Anta de Zedes în aerul răcoros al dimineții. La prânz, conduceți către conace elegante și monumente istorice. După-amiaza este dedicată vizitelor la muzee despre meșteșugurile locale. Seara, relaxați-vă la piscinele în aer liber.",
         "en": "Start your drive at the prehistoric Anta de Zedes in the cool morning air. By midday, drive to elegant manor houses and historical monuments. The afternoon is filled with museum visits highlighting local crafts and history. Unwind in the evening at the open-air swimming pools."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens durch die neblige Landschaft zu den alten Monumenten; halten Sie den Regenschirm bereit. Mittags gibt es schnelle Fotostopps aus dem trockenen Auto heraus. Den nassen Nachmittag verbringen Sie gemütlich in zwei spannenden Museen. Zum Abschluss fahren Sie an den verregneten, stimmungsvollen Freibädern vorbei – das Auto bleibt Ihr trockener Zufluchtsort.",
+            "hu": "Vezessen reggel a ködös tájon át az ősi műemlékekhez; tartsa kéznél az esernyőt. Délben gyors fotózások következnek a száraz autóból. A nedves délutánt kényelmesen, két izgalmas múzeumban töltheti el. Zárásként hajtson el az esős, hangulatos szabadtéri medencék mellett – az autó végig biztosítja a száraz menedéket.",
+            "ro": "Conduceți dimineața prin peisajul cețos spre monumentele antice; țineți umbrela la îndemână. La prânz faceți opriri rapide pentru poze din mașina uscată. După-amiaza umedă o petreceți confortabil în două muzee captivante. La final, treceți pe lângă piscinele exterioare ploioase – mașina rămâne refugiul dumneavoastră uscat.",
+            "en": "Drive through the misty countryside to ancient monuments in the morning; keep your umbrella handy. Midday features quick photo stops from the dry car. Spend the wet afternoon comfortably indoors at two engaging museums. Finally, drive past the atmospheric, rainy outdoor pools—your car remains a perfectly dry refuge all day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anta de Zedes",
+                "hu": "Anta de Zedes",
+                "ro": "Anta de Zedes",
+                "en": "Anta de Zedes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und nehmen Sie den Schirm mit. Der kurze Weg zu den Steinen kann bei Regen sehr durchnässt und pfützig sein.",
+                "hu": "Parkoljon közel, és vigye magával az esernyőt. A kövekhez vezető rövid út esőben nagyon vizenyős és pocsolyás lehet.",
+                "ro": "Parcați aproape și luați umbrela. Scurtul drum spre pietre poate fi foarte îmbibat cu apă și plin de bălți pe ploaie.",
+                "en": "Park close and grab your umbrella. The short walk to the stones can be extremely soggy and full of puddles in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Marizes",
+                "hu": "Solar dos Marizes",
+                "ro": "Solar dos Marizes",
+                "en": "Solar dos Marizes"
+              },
+              "tip_5lang": {
+                "de": "Sie können die architektonischen Details dieses Herrenhauses bequem aus dem trockenen Auto heraus bei laufendem Scheibenwischer betrachten.",
+                "hu": "A kúria építészeti részleteit kényelmesen, a száraz autóból is megfigyelheti a működő ablaktörlők mögül.",
+                "ro": "Puteți admira detaliile arhitecturale ale acestui conac confortabil, din mașina uscată, cu ștergătoarele pornite.",
+                "en": "You can comfortably admire the architectural details of this manor from the dry car with the windshield wipers running."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento aos Resineiros",
+                "hu": "Monumento aos Resineiros",
+                "ro": "Monumento aos Resineiros",
+                "en": "Monumento aos Resineiros"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Sprint aus dem Auto zum Denkmal. Halten Sie ein Handtuch auf dem Autositz bereit, falls Sie etwas nass werden.",
+                "hu": "Egy gyors sprint az autóból az emlékműhöz. Tartson egy törölközőt az autóülésen arra az esetre, ha kissé vizes lenne.",
+                "ro": "Un sprint rapid din mașină până la monument. Păstrați un prosop pe scaunul mașinii în caz că vă udați puțin.",
+                "en": "A quick dash from the car to the monument. Keep a towel handy on the car seat just in case you get a little wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Samotinha",
+                "hu": "Anta da Samotinha",
+                "ro": "Anta da Samotinha",
+                "en": "Anta da Samotinha"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Schuhe, da der Weg vom Parkplatz zum Dolmen heute matschig ist. Der Regenschirm schützt vor dem Wind.",
+                "hu": "Viseljen vízálló cipőt, mivel a parkolóból a kősírhoz vezető út ma sáros. Az esernyő jól véd a szitáló eső és a szél ellen.",
+                "ro": "Purtați încălțăminte impermeabilă, deoarece drumul de la parcare la dolmen este noroios azi. Umbrela protejează de vânt.",
+                "en": "Wear waterproof shoes, as the path from the parking spot to the dolmen is muddy today. Use an umbrella against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "CICA - Ansiães Castle Interpretive Center",
+                "hu": "CICA - Ansiães Castle Interpretive Center",
+                "ro": "CICA - Ansiães Castle Interpretive Center",
+                "en": "CICA - Ansiães Castle Interpretive Center"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zufluchtsort an einem Regentag. Verbringen Sie ausgiebig Zeit in den trockenen Ausstellungsräumen.",
+                "hu": "Kiváló menedékhely egy esős napon. Töltsön bőséges időt a száraz, fűtött kiállítótermekben, elfeledve a kinti időt.",
+                "ro": "Un refugiu excelent într-o zi ploioasă. Petreceți timp din belșug în sălile de expoziție uscate și interesante.",
+                "en": "An excellent refuge on a rainy day. Spend ample time enjoying the dry, informative exhibition halls away from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "hu": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "ro": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "en": "Núcleo Museológico da Telha - Telheira de Luzelos"
+              },
+              "tip_5lang": {
+                "de": "Eine tolle Indoor-Aktivität. Lauschen Sie dem Regen auf dem Dach, während Sie drinnen alles über historische Ziegel lernen.",
+                "hu": "Remek beltéri program. Hallgassa az eső kopogását a tetőn, miközben bent mindent megtud a történelmi téglagyártásról.",
+                "ro": "O activitate de interior grozavă. Ascultați ploaia pe acoperiș în timp ce învățați totul despre țiglele istorice la interior.",
+                "en": "A superb indoor activity. Listen to the rain drumming on the roof while you learn all about historical tiles inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas municipais descobertas",
+                "hu": "Piscinas municipais descobertas",
+                "ro": "Piscinas municipais descobertas",
+                "en": "Piscinas municipais descobertas"
+              },
+              "tip_5lang": {
+                "de": "Eine letzte landschaftliche Vorbeifahrt im Auto. Die Außenbecken wirken durch den Regen sehr dramatisch und ruhig.",
+                "hu": "Egy utolsó festői autós elhaladás. A szabadtéri medencék az eső miatt nagyon drámainak és elhagyatottan békésnek hatnak.",
+                "ro": "O ultimă trecere pitorească cu mașina. Piscinele exterioare par foarte dramatice și liniștite în ploaie.",
+                "en": "A final scenic drive-by in the car. The outdoor pools look incredibly dramatic and peaceful enveloped in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte, klare Fahrten zwischen den prähistorischen Stätten am Vormittag; die Autoheizung ist Ihr bester Freund. Nachmittags entfliehen Sie dem eisigen Wind in gemütliche, beheizte Museen. Die Tour endet landschaftlich an den Schwimmbädern, genau wenn die Sonne gegen 17:00 Uhr untergeht und die Region in eine dunkle, frostige Nacht taucht.",
+            "hu": "Hideg, tiszta autózások az ősi helyszínek között délelőtt; az autófűtés lesz a legjobb barátja. Délután a jeges szél elől hangulatos, fűtött múzeumokba menekülhet. A túra a medencéknél ér véget, pont amikor a nap 17:00 körül lenyugszik, és sötét, fagyos éjszakába burkolja a régiót.",
+            "ro": "Drumuri reci și clare între siturile preistorice dimineața; încălzirea mașinii este cel mai bun prieten. După-amiaza scăpați de vântul înghețat în muzee încălzite și confortabile. Turul se termină la piscine, exact când soarele apune pe la 17:00, lăsând regiunea într-o noapte geroasă.",
+            "en": "Cold, crisp drives between prehistoric sites in the morning; the car heater is your best friend. In the afternoon, escape the icy wind into cozy, heated museums. The tour finishes scenically at the pools just as the sun sets around 17:00, plunging the region into a dark, frosty night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anta de Zedes",
+                "hu": "Anta de Zedes",
+                "ro": "Anta de Zedes",
+                "en": "Anta de Zedes"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost verleiht dem Ort Magie. Genießen Sie nach dem eisigen Rundgang die warme Heizung im Auto.",
+                "hu": "A reggeli dér varázslatossá teszi a helyet. A fagyos séta után élvezze a meleg fűtést a visszatérő autóban.",
+                "ro": "Bruma dimineții dă un aer magic locului. După plimbarea geroasă, bucurați-vă de căldura din mașină.",
+                "en": "The morning frost adds magic to the site. Enjoy blasting the car heater as soon as you finish your icy walk around the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Solar dos Marizes",
+                "hu": "Solar dos Marizes",
+                "ro": "Solar dos Marizes",
+                "en": "Solar dos Marizes"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Fotolicht für das Herrenhaus in der klaren Winterluft. Kurbeln Sie das Fenster kurz runter und bleiben Sie im Warmen.",
+                "hu": "Tökéletes fotófény a kúriához a tiszta téli levegőben. Tekerje le az ablakot egy pillanatra, és maradjon a melegben.",
+                "ro": "Lumină perfectă pentru poze cu conacul în aerul clar de iarnă. Deschideți puțin geamul și rămâneți la căldură.",
+                "en": "Perfect lighting for photos of the manor in the clear winter air. Roll down the window briefly while staying warm inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento aos Resineiros",
+                "hu": "Monumento aos Resineiros",
+                "ro": "Monumento aos Resineiros",
+                "en": "Monumento aos Resineiros"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz in die frische, beißende Kälte hinaus, um dieses Denkmal zu würdigen. Ziehen Sie den Schal eng zusammen.",
+                "hu": "Lépjen ki röviden a friss, csípős hidegbe, hogy megcsodálja ezt az emlékművet. Húzza össze szorosan a sálját.",
+                "ro": "Ieșiți scurt în frigul proaspăt și tăios pentru a aprecia acest monument. Strângeți bine fularul la gât.",
+                "en": "Step out into the crisp, biting cold briefly to appreciate this monument. Pull your winter scarf tight around your neck."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Samotinha",
+                "hu": "Anta da Samotinha",
+                "ro": "Anta da Samotinha",
+                "en": "Anta da Samotinha"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Schichten für den kurzen, extrem kühlen Fußweg vom Parkplatz zum beeindruckenden Dolmen.",
+                "hu": "Viseljen vastag rétegeket a parkolótól a lenyűgöző kősírhoz vezető rövid, de rendkívül hűvös sétához.",
+                "ro": "Purtați straturi groase pentru scurta plimbare, extrem de rece, de la parcare la impresionantul dolmen.",
+                "en": "Bundle up in thick layers for the short, extremely chilly walk from the parking area to the impressive dolmen."
+              }
+            },
+            {
+              "name": {
+                "de": "CICA - Ansiães Castle Interpretive Center",
+                "hu": "CICA - Ansiães Castle Interpretive Center",
+                "ro": "CICA - Ansiães Castle Interpretive Center",
+                "en": "CICA - Ansiães Castle Interpretive Center"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp drinnen, um tief in die Geschichte einzutauchen und dem eisigen Winterwind vollständig zu entkommen.",
+                "hu": "Hangulatos benti megálló, ahol elmélyülhet a történelemben, és teljesen elmenekülhet a fagyos téli szél elől.",
+                "ro": "O oprire confortabilă la interior pentru a vă cufunda în istorie și a scăpa complet de vântul înghețat de iarnă.",
+                "en": "A cozy indoor stop to delve deeply into local history and completely escape the biting, icy winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "hu": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "ro": "Núcleo Museológico da Telha - Telheira de Luzelos",
+                "en": "Núcleo Museológico da Telha - Telheira de Luzelos"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem faszinierenden Ziegelmuseum auf, während die Außentemperaturen am späten Nachmittag stark fallen.",
+                "hu": "Melegedjen fel ebben a lenyűgöző téglamúzeumban, miközben a kinti hőmérséklet késő délután meredeken zuhanni kezd.",
+                "ro": "Încălziți-vă în acest fascinant muzeu al țiglei, în timp ce temperaturile exterioare scad drastic după-amiaza târziu.",
+                "en": "Thaw out completely inside this fascinating tile museum as the outside temperatures start dropping sharply in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas municipais descobertas",
+                "hu": "Piscinas municipais descobertas",
+                "ro": "Piscinas municipais descobertas",
+                "en": "Piscinas municipais descobertas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zum Abschluss, wenn die Sonne um 17:00 Uhr untergeht. Die winterliche Dämmerung über dem Wasser ist wunderschön.",
+                "hu": "Látogassa meg ezt a helyet zárásként, amikor a nap 17:00-kor lenyugszik. A téli szürkület a víz felett igazán gyönyörű.",
+                "ro": "Vizitați acest loc la final, când soarele apune la 17:00. Amurgul de iarnă deasupra apei este de-a dreptul superb.",
+                "en": "Visit this area as a final stop when the sun sets around 17:00. The winter twilight reflecting over the water is beautiful."
+              }
+            }
+          ]
+        }
       }
     }
   }

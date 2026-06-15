@@ -137,6 +137,168 @@
         "hu": "A délelőtt a tengerészeti múzeumban indul, ahol megismerheti a helyi kultúrát. Délben felkapaszkodik egy történelmi őrtoronyhoz és egy ősi kőkunyhóhoz az öböl panorámájáért. A délután a Senieta strand pihenéséről szól. Az este egy lágy sétát hoz a helyi világítótorony közelében.",
         "ro": "Dimineața începe la muzeul maritim pentru a înțelege cultura locală. La prânz, urcați la un turn istoric de veghe și la ruine vechi de piatră pentru a vedea golful. După-amiaza vă relaxați pe plaja urbană Senieta. Seara aduce o plimbare liniștită pe coastă lângă far.",
         "en": "Morning starts at the maritime museum to understand local culture. Midday takes you up to a historic watchtower and old stone ruins for bay views. Afternoon is for relaxing at the Senieta urban beach. Evening brings a gentle coastal stroll near the local lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Meeresmuseum. Mittags führt der Weg zum Guardiola-Turm, wo die Stufen bei Regen rutschig sein können. Am Nachmittag erreichen wir die Steinhütte über teils schlammige Pfade. Der Abend an den Stränden bietet trotz Regen eine dramatische Aussicht auf das aufgewühlte Meer, wobei ein fester Regenschutz heute unerlässlich ist.",
+            "hu": "A reggel a tengerészeti múzeumban indul, védve az esőtől. Délben a Guardiola-toronyhoz sétálunk, de ügyeljünk a csúszós kövekre. Délután a kőkunyhót közelítjük meg, ahol az ösvény sáros lehet. Az este a tengerparton zárul, ahol az esőfüggöny mögött a tenger morajlása különleges hangulatot áraszt; egy jó esernyő sokat ér.",
+            "ro": "Dimineața începe la adăpost în Muzeul Mării. La prânz urcăm spre Turnul Guardiola, atenție la treptele alunecoase pe ploaie. După-amiaza explorăm coliba de piatră pe poteci care pot fi noroioase. Seara se încheie pe plajă, unde spectacolul mării sub ploaie este impresionant; nu uitați pelerina de ploaie pentru o experiență confortabilă.",
+            "en": "Start your morning sheltered in the maritime museum. At noon, head to the Guardiola Tower, but watch your step as the stones get slippery. Afternoon leads to the dry-stone hut where paths might be muddy. The evening ends at the beaches with a dramatic view of the grey sea; a sturdy umbrella or raincoat is essential for today's walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meeresmuseum des Ebro",
+                "hu": "Ebro Tengerészeti Múzeum",
+                "ro": "Muzeul Mării Ebrului",
+                "en": "Museum of the Sea of the Ebro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für die Indoor-Exponate, um dem Regen zu entgehen; die Sammlung zur Fischerei ist auch bei schlechtem Wetter faszinierend.",
+                "hu": "Használja ki a délelőttöt a fedett kiállítások megtekintésére, így szárazon ismerheti meg a halászat történetét; tökéletes menedék esős időben.",
+                "ro": "Profită de dimineață pentru a vedea exponatele de interior, ferit de ploaie; colecția despre pescuit este fascinantă indiferent de vreme.",
+                "en": "Take advantage of the indoor exhibits this morning to stay dry; the collection on local fishing history is fascinating even in grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardiola Turm",
+                "hu": "Guardiola Őrtorony",
+                "ro": "Turnul Guardiola",
+                "en": "Guardiola Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Delta ist auch bei Regen mystisch, aber seien Sie vorsichtig auf den glatten Steinflächen rund um den Turm.",
+                "hu": "A kilátás a Deltára esőben is misztikus, de legyen nagyon óvatos a torony körüli köves talajon, mert rendkívül csúszóssá válik.",
+                "ro": "Panorama asupra deltei este mistică și pe ploaie, dar aveți mare grijă pe suprafețele de piatră din jurul turnului, care devin alunecoase.",
+                "en": "The delta views are mystical even in the rain, but be very careful on the stone surfaces around the tower as they become quite slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 10097",
+                "hu": "10097-es szárazkő kunyhó",
+                "ro": "Coliba de piatră seacă 10097",
+                "en": "Dry-stone hut 10097"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Hütte bietet kurzzeitig Schutz vor einem Schauer; achten Sie auf festes, wasserdichtes Schuhwerk für den Weg dorthin.",
+                "hu": "Ez a történelmi kunyhó rövid ideig menedéket nyújthat egy zápor elől; az odavezető úton viseljen vízálló és tapadós talpú cipőt.",
+                "ro": "Această colibă istorică poate oferi un scurt adăpost împotriva unei averse; purtați încălțăminte impermeabilă cu aderență bună pe potecă.",
+                "en": "This historic hut can provide brief shelter from a downpour; ensure you wear waterproof shoes with good grip for the walk there."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Senieta",
+                "hu": "Senieta Strand",
+                "ro": "Plaja Senieta",
+                "en": "Senieta Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische, salzige Brise am Ufer; der Regen wäscht den Sand fest, was das Laufen am Wasser trotz Nässe erleichtert.",
+                "hu": "Élvezze a friss, sós szellőt a parton; az eső keményre döngöli a homokot, így a vizes idő ellenére is könnyebb a séta a víz mentén.",
+                "ro": "Bucurați-vă de briza proaspătă și sărată; ploaia compactează nisipul, făcând plimbarea pe mal mai ușoară în ciuda vremii umede.",
+                "en": "Enjoy the fresh, salty breeze at the shore; the rain packs the sand down, making it easier to walk along the water despite the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturmstrand",
+                "hu": "Világítótorony Strand",
+                "ro": "Plaja Farului",
+                "en": "Lighthouse Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im Regen besonders atmosphärisch; suchen Sie nach dem Spaziergang ein nahes Café auf, um sich wieder aufzuwärmen.",
+                "hu": "A világítótorony látványa esőben különösen hangulatos; a séta után keressen egy közeli kávézót, hogy megszárítkozzon és felmelegedjen.",
+                "ro": "Farul pare deosebit de atmosferic sub ploaie; după plimbare, căutați o cafenea în apropiere pentru a vă încălzi și usca.",
+                "en": "The lighthouse looks particularly atmospheric in the rain; seek out a nearby cafe after your walk to dry off and warm up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen im warmen Museum ist der ideale Start. Mittags genießen wir die frische Brise am Turm, wobei die tiefstehende Sonne das Delta golden färbt. Der Nachmittag bei der Steinhütte ist kurz, da es ab 17:00 Uhr dunkel wird. Der Abendspaziergang am Strand erfordert warme Kleidung, bietet aber eine unvergleichliche winterliche Ruhe ohne Touristenmassen.",
+            "hu": "A téli reggelt a múzeum melegében indítjuk. Délben a Guardiola-toronynál a csípős szél ellenére csodás a kilátás az alacsonyan járó nap fényében. Délután a kőkunyhót keressük fel, de sietnünk kell, mert 17:00 után gyorsan sötétedik. Az estét a kihalt strandon zárjuk; a réteges öltözködés kötelező a tengerparti hidegben.",
+            "ro": "Începem dimineața de iarnă în căldura muzeului. La prânz, briza rece de la turn este compensată de lumina aurie a soarelui de iarnă peste deltă. După-amiaza la coliba de piatră este scurtă, căci se întunecă devreme, în jur de ora 17:00. Plimbarea de seară pe plaja pustie necesită haine groase, dar oferă o liniște rară.",
+            "en": "Start a crisp winter morning in the warmth of the museum. At noon, the Guardiola Tower offers golden delta views under the low sun, though the wind can be biting. Afternoon at the stone hut must be timed well as darkness falls by 5 PM. The evening beach walk is chilly but peaceful without the crowds; dress in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meeresmuseum des Ebro",
+                "hu": "Ebro Tengerészeti Múzeum",
+                "ro": "Muzeul Mării Ebrului",
+                "en": "Museum of the Sea of the Ebro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das beheizte Museum, um die Geschichte der Region zu erkunden, bevor Sie sich der kühlen Meeresbrise draußen aussetzen.",
+                "hu": "Élvezze a fűtött múzeumot és a régió történelmét, mielőtt kimerészkedne a hűvös és szeles tengerparti levegőre.",
+                "ro": "Bucurați-vă de interiorul încălzit al muzeului pentru a explora istoria locală înainte de a înfrunta briza rece de afară.",
+                "en": "Enjoy the heated museum and explore local history thoroughly before heading out into the cool and breezy coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardiola Turm",
+                "hu": "Guardiola Őrtorony",
+                "ro": "Turnul Guardiola",
+                "en": "Guardiola Tower"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke, da der Winterwind hier oben sehr stark sein kann, auch wenn die Sonne herrlich scheint.",
+                "hu": "Viseljen szélálló kabátot, mert a téli szél itt fent nagyon erős lehet, még akkor is, ha a nap szikrázóan süt a Deltára.",
+                "ro": "Purtați o jachetă rezistentă la vânt, deoarece rafalele de iarnă pot fi puternice aici sus, chiar dacă soarele strălucește.",
+                "en": "Wear a windproof jacket as the winter wind can be quite strong up here, even if the sun is shining brightly over the delta."
+              }
+            },
+            {
+              "name": {
+                "de": "Trockensteinhütte 10097",
+                "hu": "10097-es szárazkő kunyhó",
+                "ro": "Coliba de piatră seacă 10097",
+                "en": "Dry-stone hut 10097"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Textur der Steine wunderbar hervor; machen Sie Ihre Fotos früh, bevor die Schatten am Nachmittag zu lang werden.",
+                "hu": "A téli fények gyönyörűen kiemelik a kövek textúráját; készítse el a fotókat korán, mielőtt a délutáni árnyékok túl hosszúra nyúlnának.",
+                "ro": "Lumina de iarnă scoate frumos în evidență textura pietrelor; faceți fotografii devreme, înainte ca umbrele să devină prea lungi.",
+                "en": "The winter light highlights the stone textures beautifully; take your photos early before the afternoon shadows get too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Senieta",
+                "hu": "Senieta Strand",
+                "ro": "Plaja Senieta",
+                "en": "Senieta Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang am Wasser regt den Kreislauf an; genießen Sie die Einsamkeit des Strandes in der Nebensaison.",
+                "hu": "Egy tempós téli séta a vízparton felpezsdíti a keringést; élvezze a tengerpart különleges magányát és nyugalmát a főszezonon kívül.",
+                "ro": "O plimbare vioaie de iarnă pe malul apei vă va revigora; bucurați-vă de singurătatea plajei în afara sezonului turistic.",
+                "en": "A brisk winter walk along the shore will invigorate your senses; enjoy the unique solitude of the beach during the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturmstrand",
+                "hu": "Világítótorony Strand",
+                "ro": "Plaja Farului",
+                "en": "Lighthouse Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt am Meer; die Farben sind im Winter oft intensiver als im Sommer.",
+                "hu": "Nézze meg a korai naplementét 17:00 körül közvetlenül a tengerparton; a téli színek gyakran sokkal intenzívebbek, mint nyáron.",
+                "ro": "Urmăriți apusul devreme, în jur de ora 17:00, direct de pe plajă; culorile iernii sunt adesea mai intense decât cele de vară.",
+                "en": "Watch the early sunset around 5 PM directly from the beach; winter colors are often more intense than those in the summer."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a tengeri történelem felfedezésével a múzeumban. Délben tekerjen a Guardiola kilátóponthoz és az aktív világítótoronyhoz. A délután a lenyűgöző Delícies és Suís strandok mentén telik. Az este tökéletesen zárul a Figueres strand puha homokján.",
         "ro": "Începeți turul cu bicicleta explorând istoria mării la muzeu. La prânz, pedalați spre punctul de belvedere Guardiola și farul activ din apropiere. După-amiaza se desfășoară de-a lungul plajelor superbe Delícies și Suís. Seara se încheie perfect pe nisipul moale al plajei Figueres.",
         "en": "Kick off your cycling tour diving into sea history at the museum. Midday moves towards the towering Guardiola viewpoint and the nearby active lighthouse. Afternoon rolls along the stunning Delícies and Suís beaches. Evening concludes perfectly on the soft sands of Figueres."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Museum, wo wir den ersten Schauer abwarten. Mittags radeln wir vorsichtig zum Turm und weiter zum Leuchtturm, wobei nasse Straßen erhöhte Aufmerksamkeit erfordern. Die Nachmittagsroute entlang der Strände bietet eine kühle Brise; Schutzbleche am Rad sind heute ein Muss gegen das Spritzwasser.",
+            "hu": "A bringatúra a múzeumnál indul, ahol kivárhatjuk az első záport. Délben óvatosan tekerünk a toronyhoz és a világítótoronyhoz, a vizes aszfalton lassabban haladva. A délutáni szakasz a strandok mentén vizes, de frissítő; a sárvédő ma elengedhetetlen a felcsapódó víz ellen.",
+            "ro": "Turul cu bicicleta începe la muzeu, unde putem aștepta trecerea primei averse. La prânz pedalăm cu grijă spre turn și far, atenție sporită la carosabilul umed. Traseul de după-amiază pe lângă plaje este răcoros; aripile la bicicletă sunt obligatorii astăzi împotriva stropilor.",
+            "en": "Start your ride at the museum while waiting out the first showers. At noon, pedal cautiously to the tower and lighthouse, taking extra care on wet roads. The afternoon route along the beaches is refreshing but damp; mudguards on your bike are a must today to stay reasonably dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meeresmuseum des Ebro",
+                "hu": "Ebro Tengerészeti Múzeum",
+                "ro": "Muzeul Mării Ebrului",
+                "en": "Museum of the Sea of the Ebro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz und nehmen Sie sich Zeit für die Ausstellungen, bis der stärkste Regen nachlässt.",
+                "hu": "Parkolja le a biciklit egy fedett helyen, és szánjon időt a kiállításokra, amíg a leghevesebb eső alábbhagy odakint.",
+                "ro": "Parcați bicicleta într-un loc acoperit și acordați timp expozițiilor până când ploaia cea mai densă se domolește afară.",
+                "en": "Park your bike in a sheltered spot and take your time exploring the exhibits until the heaviest rain subsides outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardiola Turm",
+                "hu": "Guardiola Őrtorony",
+                "ro": "Turnul Guardiola",
+                "en": "Guardiola Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein; schalten Sie in einen niedrigen Gang und bremsen Sie frühzeitig vor Kurven ab.",
+                "hu": "Az emelkedő nedves időben csúszós lehet; váltson alacsonyabb sebességfokozatba, és fékezzen időben a kanyarok előtt.",
+                "ro": "Urcarea poate fi alunecoasă pe umiditate; folosiți o viteză inferioară și frânați din timp înainte de curbe pentru siguranță.",
+                "en": "The climb can be slippery when wet; use a lower gear and brake well in advance of turns for safety on the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von La Ràpita",
+                "hu": "La Ràpita Világítótorony",
+                "ro": "Farul din La Ràpita",
+                "en": "La Ràpita Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am markanten Turm lohnt sich auch bei Regen; achten Sie auf den Wind, der hier Böen verursachen kann.",
+                "hu": "Egy gyors fotómegálló a jellegzetes toronynál esőben is megéri; ügyeljen az erős széllökésekre, amelyek kibillenthetik a biciklit.",
+                "ro": "O oprire rapidă pentru poze la far merită și pe ploaie; atenție la rafalele de vânt care pot destabiliza bicicleta pe faleză.",
+                "en": "A quick photo stop at the iconic lighthouse is worth it even in rain; watch out for wind gusts that can destabilize your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Delícies",
+                "hu": "Delícies Strand",
+                "ro": "Plaja Delícies",
+                "en": "Delícies Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Strand ist bei Regen meist leer; genießen Sie die freie Fahrt, aber achten Sie auf Pfützen und Sand auf dem Asphalt.",
+                "hu": "A strand menti kerékpárút esőben többnyire üres; élvezze a szabad utat, de figyeljen a tócsákra és az útra mosott homokra.",
+                "ro": "Pista de biciclete de lângă plajă este liberă pe ploaie; bucurați-vă de drum, dar atenție la bălți și la nisipul de pe asfalt.",
+                "en": "The bike path by the beach is mostly empty in the rain; enjoy the open road but watch for puddles and sand washed onto the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Suís",
+                "hu": "Suís Strand",
+                "ro": "Plaja Suís",
+                "en": "Suís Beach"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Seeluft ist sehr gesund; atmen Sie tief durch, während Sie die Küste entlanggleiten, und halten Sie den Lenker fest.",
+                "hu": "A párás tengeri levegő nagyon egészséges; lélegezzen mélyeket tekerés közben, de tartsa erősen a kormányt a vizes úton.",
+                "ro": "Aerul umed de mare este foarte sănătos; respirați adânc în timp ce pedalați, dar țineți bine ghidonul pe drumul ud.",
+                "en": "The damp sea air is very healthy; breathe deeply while you glide along, but keep a firm grip on the handlebars on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Figueres",
+                "hu": "Figueres Strand",
+                "ro": "Plaja Figueres",
+                "en": "Figueres Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig und suchen Sie eine warme Dusche auf; nasse Kleidung kühlt beim Radfahren im Wind schnell aus.",
+                "hu": "Fejezze be gyorsan a túrát és keressen egy meleg zuhanyt; a vizes ruha a szélben tekerés közben nagyon hamar lehűti a testet.",
+                "ro": "Încheiați rapid turul și căutați un duș cald; hainele ude vă pot răci rapid în timp ce pedalați prin vânt și ploaie.",
+                "en": "Finish your tour promptly and seek a warm shower; wet clothes while cycling in the wind will chill your body very quickly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kühler Wintertag ist perfekt für das Rad. Wir starten am Museum und nutzen die Mittagssonne für den Guardiola-Turm und den Leuchtturm. Der Nachmittag führt uns an den ruhigen Stränden entlang. Da es früh dunkel wird, planen wir die Rückkehr bis 16:30 Uhr ein; Handschuhe sind für die Abfahrten im kühlen Wind ratsam.",
+            "hu": "A napsütéses, de hűvös téli nap ideális a biciklizéshez. A múzeumnál kezdünk, majd kihasználjuk a déli napfényt a torony és a világítótorony felkereséséhez. A délutáni tekerés a csendes strandok mentén zajlik. Mivel korán sötétedik, 16:30-ra fejezzük be a túrát; egy jó kesztyű sokat segít a menetszélben.",
+            "ro": "O zi de iarnă însorită dar rece este perfectă pentru bicicletă. Începem la muzeu și profităm de soarele de prânz pentru turn și far. După-amiaza pedalăm pe lângă plajele liniștite. Deoarece se întunecă devreme, planificăm întoarcerea până la 16:30; mănușile sunt recomandate pentru vântul rece.",
+            "en": "A sunny but cool winter day is ideal for cycling. Start at the museum, then use the midday sun to visit the tower and lighthouse. The afternoon takes us along the quiet beaches. Since it gets dark early, aim to finish by 4:30 PM; gloves are highly recommended against the biting wind while riding."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meeresmuseum des Ebro",
+                "hu": "Ebro Tengerészeti Múzeum",
+                "ro": "Muzeul Mării Ebrului",
+                "en": "Museum of the Sea of the Ebro"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, bevor Sie die Radtour starten; die Innenräume bieten eine angenehme Pause vom kühlen Winterwind.",
+                "hu": "Melegedjen fel a múzeumban a túra előtt; a belső terek kellemes pihenőt nyújtanak a hűvös téli szél elől indulás előtt.",
+                "ro": "Încălziți-vă în muzeu înainte de a porni la drum; interioarele oferă o pauză plăcută de la vântul rece de iarnă.",
+                "en": "Warm up inside the museum before starting your ride; the interiors offer a pleasant break from the cool winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardiola Turm",
+                "hu": "Guardiola Őrtorony",
+                "ro": "Turnul Guardiola",
+                "en": "Guardiola Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie aufwärmen, aber oben angekommen sollten Sie sofort die Jacke schließen, um im kalten Wind nicht auszukühlen.",
+                "hu": "Az emelkedő segít bemelegedni, de a toronyhoz érve azonnal húzza fel a cipzárt, hogy ne hűljön ki a metsző téli szélben.",
+                "ro": "Urcarea vă va încălzi, dar odată ajunși sus, închideți imediat jacheta pentru a nu răci în vântul tăios de iarnă.",
+                "en": "The climb will warm you up, but once at the top, zip up your jacket immediately to avoid chilling in the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von La Ràpita",
+                "hu": "La Ràpita Világítótorony",
+                "ro": "Farul din La Ràpita",
+                "en": "La Ràpita Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht für Fotos vom Leuchtturm; die Sicht ist an kalten Tagen oft besser als bei sommerlichem Dunst.",
+                "hu": "Élvezze a tiszta téli fényeket a világítótoronynál; a látótávolság hideg napokon gyakran sokkal jobb, mint a nyári párában.",
+                "ro": "Bucurați-vă de lumina clară de iarnă pentru poze la far; vizibilitatea în zilele reci este adesea mai bună decât în pâcla verii.",
+                "en": "Enjoy the clear winter light for photos at the lighthouse; visibility on cold days is often much better than in summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Delícies",
+                "hu": "Delícies Strand",
+                "ro": "Plaja Delícies",
+                "en": "Delícies Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig, um warm zu bleiben, und bewundern Sie das glitzernde Wintermeer, das jetzt besonders ruhig und klar wirkt.",
+                "hu": "Tekerjen tempósan, hogy megőrizze testhőjét, és csodálja meg a csillogó téli tengert, amely most különösen nyugodtnak és tisztának tűnik.",
+                "ro": "Pedalați vioi pentru a vă menține căldura și admirați marea sclipitoare, care acum pare deosebit de liniștită și limpede.",
+                "en": "Ride at a steady pace to keep warm and admire the sparkling winter sea, which appears especially calm and clear right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Suís",
+                "hu": "Suís Strand",
+                "ro": "Plaja Suís",
+                "en": "Suís Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne, die blenden kann; eine Sonnenbrille ist auch im Winter auf dem Fahrrad sehr hilfreich.",
+                "hu": "Ügyeljen az alacsonyan járó napra, amely elvakíthat; a napszemüveg télen is nagyon hasznos segítőtárs a kerékpáron.",
+                "ro": "Atenție la soarele care stă jos pe cer și vă poate orbi; ochelarii de soare sunt utili pe bicicletă și în timpul iernii.",
+                "en": "Watch out for the low sun which can be blinding; sunglasses are very helpful on the bike even during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Figueres",
+                "hu": "Figueres Strand",
+                "ro": "Plaja Figueres",
+                "en": "Figueres Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Sonnenuntergang, da die Temperaturen rapide sinken, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "Fejezze be a túrát időben a naplemente előtt, mert a hőmérséklet hirtelen leesik, amint a nap eltűnik a hegyek mögött.",
+                "ro": "Încheiați turul la timp înainte de apus, deoarece temperatura scade brusc imediat ce soarele dispare după munți.",
+                "en": "Finish your tour well before sunset, as temperatures drop rapidly as soon as the sun disappears behind the mountains."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Utazzon először a tengerészeti múzeumba a delta megismeréséhez. A dél fénypontja a vadabb belterületi táj, a Racó Mamadits és a Mola de Telles felfedezése. A délután a történelemé egy mészégetőnél és egy panorámatoronynál. Az este lazításra csábít a nyüzsgő Platja dels Tontosnál.",
         "ro": "Conduceți mai întâi la muzeul maritim pentru informații despre deltă. Prânzul este pentru explorarea frumuseții sălbatice interioare la Racó Mamadits și Mola de Telles. După-amiaza treceți pe la un cuptor de var și un turn cu panoramă. Seara vă invită să vă relaxați la Platja dels Tontos.",
         "en": "Drive first to the maritime museum for early insights into the delta. Midday is for exploring the wilder inland beauty at Racó Mamadits and Mola de Telles. Afternoon shifts back to history at a lime kiln and a panoramic tower. Evening invites you to relax by the lively Platja dels Tontos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet heute den perfekten Schutz vor den Schauern. Wir starten am Museum und fahren dann zu den Aussichtspunkten Racó Mamadits und Mola de Telles, wo wir das Delta bequem trocken bewundern können. Der Nachmittag beim Kalkofen und dem Turm ist kurz gehalten, bevor wir den Abend am Strand bei einer stürmischen Meereskulisse aus dem warmen Wagen genießen.",
+            "hu": "Az autó ma tökéletes menedéket nyújt a záporok elől. A múzeumnál kezdünk, majd a Racó Mamadits és Mola de Telles kilátópontokhoz hajtunk, ahonran szárazon csodálhatjuk a Deltát. A délutáni mészégető és torony után az estét a viharos tenger látványával zárjuk a meleg autó biztonságából.",
+            "ro": "Mașina oferă astăzi adăpostul perfect împotriva averselor. Începem la muzeu, apoi conducem spre punctele de belvedere Racó Mamadits și Mola de Telles pentru a admira delta la uscat. După-amiaza la cuptorul de var și turn este scurtă, încheind seara admirând marea agitată din confortul mașinii.",
+            "en": "The car provides perfect shelter from today's showers. Start at the museum, then drive to Racó Mamadits and Mola de Telles viewpoints to admire the delta while staying dry. The afternoon at the lime kiln and tower is brief, ending the evening with a view of the stormy sea from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meeresmuseum des Ebro",
+                "hu": "Ebro Tengerészeti Múzeum",
+                "ro": "Muzeul Mării Ebrului",
+                "en": "Museum of the Sea of the Ebro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um nicht nass zu werden; drinnen können Sie in aller Ruhe die maritime Geschichte studieren.",
+                "hu": "Parkoljon közvetlenül a bejárat közelében, hogy elkerülje az esőt; bent nyugodtan elmerülhet a tengerészeti történelemben.",
+                "ro": "Parcați chiar lângă intrare pentru a evita ploaia; în interior puteți studia în liniște istoria maritimă a regiunii.",
+                "en": "Park right near the entrance to avoid the rain; inside, you can study maritime history in peace while the weather passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Racó Mamadits",
+                "hu": "Racó Mamadits",
+                "ro": "Racó Mamadits",
+                "en": "Racó Mamadits"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto; die Wolkenformationen über dem Delta sind bei Regen besonders fotogen.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból; az esőfelhők játéka a Delta felett különösen látványos fotótéma ilyenkor.",
+                "ro": "Bucurați-vă de panoramă direct din mașină; formațiunile de nori peste deltă sunt deosebit de fotogenice pe ploaie.",
+                "en": "Enjoy the panoramic view directly from your car; the cloud formations over the delta are especially photogenic during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mola de Telles",
+                "hu": "Mola de Telles",
+                "ro": "Mola de Telles",
+                "en": "Mola de Telles"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen etwas rutschig sein; fahren Sie vorsichtig und nutzen Sie die natürlichen Aussichtspunkte als Fotostopp.",
+                "hu": "Az emelkedő heves esőben csúszós lehet; vezessen óvatosan, és használja a természetes kilátópontokat egy gyors fotómegállóra.",
+                "ro": "Urcarea poate fi puțin alunecoasă pe ploaie torențială; conduceți cu grijă și folosiți punctele de belvedere pentru poze rapide.",
+                "en": "The climb can be a bit slippery in heavy rain; drive carefully and use the natural viewpoints as quick photo stops from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkofen 436",
+                "hu": "436-os Mészégető",
+                "ro": "Cuptorul de var 436",
+                "en": "Lime kiln 436"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am historischen Ofen ist auch bei Regen möglich; achten Sie auf den Untergrund, der neben der Straße aufweichen kann.",
+                "hu": "Egy rövid megálló a történelmi kemencénél esőben is lehetséges; ügyeljen a talajra az út mentén, mert könnyen felázhat.",
+                "ro": "O scurtă oprire la cuptorul istoric este posibilă și pe ploaie; atenție la terenul de lângă drum, care se poate înmuia.",
+                "en": "A short stop at the historic kiln is possible even in rain; watch the ground next to the road as it can get quite soft and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardiola Turm",
+                "hu": "Guardiola Őrtorony",
+                "ro": "Turnul Guardiola",
+                "en": "Guardiola Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turm und springen Sie für ein kurzes Foto raus; der Wind kann hier oben bei Regen sehr kräftig wehen.",
+                "hu": "Parkoljon a torony közelében és csak egy gyors fotó erejéig szálljon ki; a szél esős időben itt fent rendkívül erős lehet.",
+                "ro": "Parcați aproape de turn și coborâți doar pentru o poză rapidă; vântul poate sufla foarte puternic aici sus când plouă.",
+                "en": "Park near the tower and hop out for a quick photo; the wind can blow very strongly up here during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Tontos",
+                "hu": "Tontos Strand",
+                "ro": "Plaja Tontos",
+                "en": "Tontos Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer durch die Windschutzscheibe; die raue Brandung bei Regen hat eine fast meditative Wirkung vom warmen Auto aus.",
+                "hu": "Figyelje a tengert a szélvédőn keresztül; a zord hullámverés látványa esőben szinte meditatív élmény a meleg autóból nézve.",
+                "ro": "Priviți marea prin parbriz; spectacolul valurilor pe ploaie are un efect aproape meditativ din mașina încălzită.",
+                "en": "Watch the sea through the windshield; the sight of the rough surf during rain has an almost meditative effect from your warm car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto erlaubt es uns, alle Ziele ohne Frieren zu erreichen. Vormittags besuchen wir das Meeresmuseum, mittags genießen wir die Bergpanoramen vom Racó Mamadits und der Mola de Telles. Am Nachmittag besichtigen wir den Kalkofen und den Turm im klaren Winterlicht, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr am Strand ankommen.",
+            "hu": "A téli autós túra lehetővé teszi, hogy fázás nélkül bejárjuk a környéket. Délelőtt a múzeumot látogatjuk meg, délben pedig a Racó Mamadits és Mola de Telles hegyi panorámáit élvezzük. Délután a mészégető és a torony következik a tiszta téli fényekben, végül 17:00-kor a tengerparton érjük el a naplementét.",
+            "ro": "Turul cu mașina iarna ne permite să vedem totul fără a ne fi frig. Dimineața vizităm muzeul, iar la prânz admirăm panoramele montane de la Racó Mamadits și Mola de Telles. După-amiaza vedem cuptorul de var și turnul în lumina clară de iarnă, ajungând la plajă fix pentru apusul de la ora 17:00.",
+            "en": "A winter car trip allows us to see all sights without catching a chill. Visit the museum in the morning, then enjoy mountain panoramas from Racó Mamadits and Mola de Telles at noon. Afternoon features the lime kiln and tower in crisp winter light, arriving at the beach just in time for the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Meeresmuseum des Ebro",
+                "hu": "Ebro Tengerészeti Múzeum",
+                "ro": "Muzeul Mării Ebrului",
+                "en": "Museum of the Sea of the Ebro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps; das Museum bietet einen angenehm warmen Start in den Tag.",
+                "hu": "Használja az autó fűtését a megállók között; a múzeum kellemesen meleg belső tere tökéletes kezdés egy téli napon.",
+                "ro": "Folosiți căldura din mașină între opriri; interiorul muzeului oferă un început de zi plăcut și călduros.",
+                "en": "Make use of the car's heater between stops; the museum's interior provides a pleasantly warm start to your winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Racó Mamadits",
+                "hu": "Racó Mamadits",
+                "ro": "Racó Mamadits",
+                "en": "Racó Mamadits"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter bei klarer Luft oft phänomenal; bringen Sie ein Fernglas mit, um die Vögel im Delta besser zu beobachten.",
+                "hu": "A téli tiszta levegőben a távoli kilátás gyakran fenomenális; vigyen távcsövet, hogy jobban megfigyelhesse a Delta madárvilágát.",
+                "ro": "Vizibilitatea la distanță este adesea fenomenală iarna; aduceți un binoclu pentru a observa mai bine păsările din deltă.",
+                "en": "The long-distance visibility is often phenomenal in the clear winter air; bring binoculars to better observe the birds in the delta."
+              }
+            },
+            {
+              "name": {
+                "de": "Mola de Telles",
+                "hu": "Mola de Telles",
+                "ro": "Mola de Telles",
+                "en": "Mola de Telles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Fotografieren; die kühlen Bergwinde können hier oben auch bei Sonnenschein sehr schneidend sein.",
+                "hu": "Használja az autót szélfogóként fotózáskor; a hűvös hegyi szél itt fent még napsütésben is nagyon metsző lehet.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului când faceți poze; rafalele reci de munte pot fi tăioase aici sus chiar și cu soare.",
+                "en": "Use your car as a windbreak while taking photos; the cool mountain winds can be quite biting up here even in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkofen 436",
+                "hu": "436-os Mészégető",
+                "ro": "Cuptorul de var 436",
+                "en": "Lime kiln 436"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Winter-Sonne lässt die alten Steine des Ofens in wunderschönen Farben leuchten.",
+                "hu": "Az alacsonyan járó téli nap meleg fénye gyönyörű színekbe öltözteti a mészégető régi köveit a délutáni órákban.",
+                "ro": "Lumina caldă a soarelui de iarnă care apune face ca pietrele vechi ale cuptorului să strălucească în culori superbe.",
+                "en": "The warm light of the low winter sun makes the old stones of the kiln glow in beautiful colors during the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardiola Turm",
+                "hu": "Guardiola Őrtorony",
+                "ro": "Turnul Guardiola",
+                "en": "Guardiola Tower"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie den Turm rechtzeitig, bevor es um 17:00 Uhr dunkel wird; die kurvige Straße fährt sich im Hellen sicherer.",
+                "hu": "Hagyja el a tornyot időben, mielőtt 17:00 körül besötétedik; a kanyargós úton világosban sokkal biztonságosabb a vezetés.",
+                "ro": "Părăsiți turnul la timp, înainte de a se întuneca la ora 17:00; drumul sinuos este mult mai sigur de parcurs pe lumină.",
+                "en": "Leave the tower in good time before it gets dark around 5 PM; the winding road is much safer to drive in daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Tontos",
+                "hu": "Tontos Strand",
+                "ro": "Plaja Tontos",
+                "en": "Tontos Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den winterlichen Sonnenuntergang im Sitzen bei laufender Heizung; ein perfekter, entspannter Abschluss des Tages.",
+                "hu": "Élvezze a téli naplementét az autóban ülve, járó fűtés mellett; tökéletes és pihentető lezárása a napnak a parton.",
+                "ro": "Bucurați-vă de apusul de iarnă stând în mașină cu căldura pornită; un final de zi perfect și relaxant pe malul mării.",
+                "en": "Enjoy the winter sunset from the comfort of your heated car; it is a perfect and relaxed way to end your day at the beach."
+              }
+            }
+          ]
+        }
       }
     }
   }

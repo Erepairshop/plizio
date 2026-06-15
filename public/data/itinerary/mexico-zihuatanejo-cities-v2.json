@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot a helyi régészeti múzeumban, felfedezve a régió gazdag történelmét.\n\nMidday: Élvezze a központi strandok nyüzsgő hangulatát, ahol a finom homok pihenésre csábít.\n\nAfternoon: Fedezze fel a tengeröbölre néző Parthenon romjait, amelyek bepillantást engednek a múltba.\n\nEvening: Zárja a napot egy békés naplementével a déli strandokon, egy nyugodt séta kíséretében.",
         "ro": "Morning: Începeți ziua explorând istoria și cultura de coastă la muzeul arheologic local.\n\nMidday: Bucurați-vă de atmosfera plajelor centrale, unde nisipul fin vă invită la relaxare.\n\nAfternoon: Descoperiți ruinele intrigante ale Partenonului care domină golful magnific.\n\nEvening: Încheiați cu un apus de soare liniștit pe plajele sudice, perfect pentru o baie răcoritoare.",
         "en": "Morning: Explore the rich history and coastal culture at the local archaeological museum.\n\nMidday: Enjoy the vibrant atmosphere of the central beaches, where soft sand invites relaxation.\n\nAfternoon: Discover the intriguing ruins of the Parthenon overlooking the bay, revealing a colorful past.\n\nEvening: Conclude with a serene sunset at the southern beaches, perfect for a refreshing evening swim."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im Museum, um dem Regen zu entkommen. Mittags schlendern Sie mit dem Regenschirm an der Uferpromenade entlang, wo die Meeresluft besonders frisch duftet. Nachmittags bietet der Partenón Schutz vor den tropischen Güssen, während Sie die graue Bucht beobachten. Abends lauschen Sie am Playa la Ropa dem Prasseln der Tropfen auf das warme Meerwasser.",
+            "hu": "Reggel a múzeumban kezdünk, ahol a fedett termek megvédenek az esőtől. Délben esernyővel sétálunk a parton, élvezve a friss, sós levegőt a záporok között. Délután a Partenón oszlopai között várakozunk, amíg a sűrű felhők elvonulnak az öböl felett. Az estét a Playa la Ropa homokján zárjuk, ahol a tenger morajlása elnyomja a lágy eső kopogását.",
+            "ro": "Începeți dimineața în muzeu pentru a evita ploaia tropicală. La prânz, plimbați-vă cu umbrela pe faleză, bucurându-vă de mirosul proaspăt al oceanului. După-amiaza, adăpostiți-vă la Partenón în timp ce norii grei trec peste golf. Seara se încheie la Playa la Ropa, ascultând ritmul picăturilor de ploaie care cad pe suprafața caldă a mării.",
+            "en": "Start the morning inside the museum to escape the tropical downpour. At noon, stroll along the promenade with an umbrella, enjoying the fresh, salty air between showers. In the afternoon, seek shelter at the Parthenon while watching heavy clouds pass over the bay. End the evening at Playa la Ropa, listening to the rhythmic sound of rain hitting the warm ocean water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Arqueológico",
+                "hu": "Museo de Arqueológico",
+                "ro": "Museo de Arqueológico",
+                "en": "Museo de Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um die lokale Geschichte trocken zu erkunden; die Ausstellungen bieten perfekten Schutz vor den morgendlichen Güssen.",
+                "hu": "Használja ki a fedett kiállítótereket a helyi történelem felfedezésére; a termek tökéletes menedéket nyújtanak a reggeli záporok elől.",
+                "ro": "Explorați istoria locală în spațiile interioare; expozițiile oferă un adăpost perfect împotriva ploilor torențiale de dimineață.",
+                "en": "Explore local history in the indoor galleries; the exhibits provide perfect shelter from the morning tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Principal",
+                "hu": "Playa Principal",
+                "ro": "Playa Principal",
+                "en": "Playa Principal"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand ist fest und ideal zum Laufen, aber meiden Sie die rutschigen Felsen an der Hafenmauer bei Regen.",
+                "hu": "A vizes homok kemény és jól járható, de esőben kerülje a kikötőfal menti csúszós köveket a biztonságos séta érdekében.",
+                "ro": "Nisipul ud este compact și ideal pentru mers, dar evitați pietrele alunecoase de lângă dig în timpul ploii.",
+                "en": "The wet sand is firm and easy to walk on, but avoid the slippery rocks near the pier wall during the rain for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Madera",
+                "hu": "Playa la Madera",
+                "ro": "Playa la Madera",
+                "en": "Playa la Madera"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Stege können bei Nässe sehr rutschig sein; gehen Sie vorsichtig und genießen Sie den Blick auf die regenverhangene Bucht.",
+                "hu": "A fa pallók nedvesen rendkívül csúszósak lehetnek; lépjen óvatosan, és csodálja meg az esőfüggönybe burkolózó öböl látványát.",
+                "ro": "Podețele de lemn pot fi foarte alunecoase când sunt ude; pășiți cu grijă și admirați golful învăluit în perdeaua de ploaie.",
+                "en": "The wooden walkways can be very slippery when wet; walk carefully and enjoy the view of the bay shrouded in rain curtains."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenón de Zihuatanejo",
+                "hu": "Partenón de Zihuatanejo",
+                "ro": "Partenón de Zihuatanejo",
+                "en": "Partenón de Zihuatanejo"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Säulen bieten guten Schutz vor Wind und Regen; ein idealer Ort, um das Wetterphänomen über dem Pazifik abzuwarten.",
+                "hu": "A masszív oszlopok jó védelmet nyújtanak a szél és az eső ellen; ideális hely kivárni, amíg elvonul a vihar a Csendes-óceán felett.",
+                "ro": "Coloanele masive oferă o protecție bună împotriva vântului și ploii; este locul ideal pentru a aștepta trecerea furtunii peste Pacific.",
+                "en": "The massive columns offer good protection from wind and rain; an ideal spot to wait out the storm over the Pacific Ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Ropa",
+                "hu": "Playa la Ropa",
+                "ro": "Playa la Ropa",
+                "en": "Playa la Ropa"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Palapa-Dächern der Strandrestaurants Schutz und beobachten Sie die Wellen bei einem warmen Getränk im Regen.",
+                "hu": "Keressen menedéket a parti éttermek nádtetői alatt, és figyelje a hullámokat egy meleg ital mellett a szemerkélő esőben.",
+                "ro": "Adăpostiți-vă sub acoperișurile de stuf ale restaurantelor de pe plajă și observați valurile cu o băutură caldă în mână.",
+                "en": "Seek shelter under the thatched roofs of beach restaurants and watch the waves with a warm drink during the drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und perfekt für einen Stadtbummel ohne Hitze. Mittags genießen Sie die sanfte Sonne am Strand, die nun deutlich angenehmer ist. Da die Sonne gegen 17:00 Uhr untergeht, erreichen Sie den Partenón genau zur goldenen Stunde. Der Abend am Playa la Ropa wird kühl; eine leichte Jacke ist für den Strandspaziergang unter den Sternen ratsam.",
+            "hu": "A téli reggel enyhe, tökéletes a városi sétához a rekkenő hőség nélkül. Délben a tengerparton élvezzük a lágy napsütést, ami ilyenkor a legkellemesebb. Mivel a nap korán, 17:00 körül nyugszik, a Partenónhoz már az aranyórában érünk. Az este a Playa la Ropa parton hűvösebb lesz, érdemes vékony pulóvert vinni a csillagos séta mellé.",
+            "ro": "Dimineața de iarnă este blândă, perfectă pentru o plimbare prin oraș fără arșiță. La prânz, bucurați-vă de soarele blând pe plajă, care acum este mult mai plăcut. Deoarece soarele apune devreme, în jur de ora 17:00, veți ajunge la Partenón chiar la ora de aur. Seara la Playa la Ropa devine răcoroasă; o jachetă subțire este recomandată pentru plimbarea sub stele.",
+            "en": "The winter morning is mild, perfect for a city stroll without the intense heat. At noon, enjoy the gentle sun on the beach, which is much more pleasant now. Since the sun sets early around 17:00, you will reach the Parthenon during the golden hour. The evening at Playa la Ropa gets cool; a light sweater is recommended for a walk under the stars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Arqueológico",
+                "hu": "Museo de Arqueológico",
+                "ro": "Museo de Arqueológico",
+                "en": "Museo de Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Morgentemperaturen machen den Aufenthalt im Museum sehr angenehm; nutzen Sie das weiche Winterlicht für Fotos im Innenhof.",
+                "hu": "A hűvösebb reggeli hőmérséklet nagyon kellemessé teszi a múzeumlátogatást; használja ki a lágy téli fényeket a belső udvari fotózáshoz.",
+                "ro": "Temperaturile mai scăzute de dimineață fac vizita la muzeu foarte plăcută; profitați de lumina slabă de iarnă pentru fotografii în curte.",
+                "en": "The cooler morning temperatures make the museum visit very pleasant; take advantage of the soft winter light for photos in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Principal",
+                "hu": "Playa Principal",
+                "ro": "Playa Principal",
+                "en": "Playa Principal"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne im Winter brennt nicht so stark, ideal für einen längeren Aufenthalt am Wasser ohne die typische Sommerhitze.",
+                "hu": "A téli déli napsütés nem éget annyira, így ideális a hosszabb parti időtöltéshez a megszokott nyári forróság nélkül.",
+                "ro": "Soarele de iarnă de la prânz nu arde atât de tare, fiind ideal pentru o ședere prelungită pe malul mării fără căldura verii.",
+                "en": "The winter noon sun isn't too intense, making it ideal for spending longer by the water without the typical summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Madera",
+                "hu": "Playa la Madera",
+                "ro": "Playa la Madera",
+                "en": "Playa la Madera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Strandspaziergang im milden Klima; das Wasser ist im Winter oft klarer, perfekt zum Beobachten der Fische vom Steg.",
+                "hu": "Élvezze a parti sétát az enyhe klímában; a víz télen gyakran tisztább, így a mólóról is jól látszanak a halak.",
+                "ro": "Bucurați-vă de plimbarea pe plajă în climatul blând; apa este adesea mai limpede iarna, perfectă pentru a observa peștii de pe dig.",
+                "en": "Enjoy the beach walk in the mild climate; the water is often clearer in winter, perfect for spotting fish from the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenón de Zihuatanejo",
+                "hu": "Partenón de Zihuatanejo",
+                "ro": "Partenón de Zihuatanejo",
+                "en": "Partenón de Zihuatanejo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hierher, um den Sonnenuntergang über dem Pazifik zu erleben, bevor es im Winter schlagartig dunkel wird.",
+                "hu": "Érkezzen 17:00 előtt, hogy elcsípje a naplementét a Csendes-óceán felett, mielőtt télen hirtelen besötétedik.",
+                "ro": "Arribați înainte de ora 17:00 pentru a surprinde apusul peste Pacific, înainte ca întunericul să se lase brusc în timpul iernii.",
+                "en": "Arrive before 17:00 to catch the sunset over the Pacific before it gets dark quickly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Ropa",
+                "hu": "Playa la Ropa",
+                "ro": "Playa la Ropa",
+                "en": "Playa la Ropa"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kühlt es am Strand merklich ab; suchen Sie sich einen Platz in einem windgeschützten Restaurant für das Abendessen.",
+                "hu": "Naplemente után érezhetően lehűl a levegő a parton; keressen szélvédett helyet az egyik étteremben a vacsorához.",
+                "ro": "După apus, aerul se răcește considerabil pe plajă; căutați un loc ferit de vânt într-un restaurant pentru cină.",
+                "en": "After sunset, the air cools down noticeably on the beach; find a spot in a wind-sheltered restaurant for your dinner."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Kezdje a napot a helyi régészeti múzeumban, felfedezve a régió gazdag történelmét.\n\nMidday: Élvezze a központi strandok nyüzsgő hangulatát, ahol a finom homok pihenésre csábít.\n\nAfternoon: Fedezze fel a tengeröbölre néző Parthenon romjait, amelyek bepillantást engednek a múltba.\n\nEvening: Zárja a napot egy békés naplementével a déli strandokon, egy nyugodt séta kíséretében.",
         "ro": "Morning: Începeți ziua explorând istoria și cultura de coastă la muzeul arheologic local.\n\nMidday: Bucurați-vă de atmosfera plajelor centrale, unde nisipul fin vă invită la relaxare.\n\nAfternoon: Descoperiți ruinele intrigante ale Partenonului care domină golful magnific.\n\nEvening: Încheiați cu un apus de soare liniștit pe plajele sudice, perfect pentru o baie răcoritoare.",
         "en": "Morning: Explore the rich history and coastal culture at the local archaeological museum.\n\nMidday: Enjoy the vibrant atmosphere of the central beaches, where soft sand invites relaxation.\n\nAfternoon: Discover the intriguing ruins of the Parthenon overlooking the bay, revealing a colorful past.\n\nEvening: Conclude with a serene sunset at the southern beaches, perfect for a refreshing evening swim."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Waldwegen im El Limón. Mittags bietet die Schwimmhalle ein trockenes Refugium für Sportbegeisterte. Den Nachmittag verbringen Sie im Museum, während die Räder sicher untergestellt sind. Trotz Pfützen auf der Promenade bleibt die Fahrt zum Partenón ein Erlebnis, das abends mit dem Rauschen der Brandung im Regen am Playa la Ropa endet.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel az El Limón erdei útjain a sár miatt. Délben az uszoda épülete nyújt száraz menedéket a sportoláshoz. A délutánt a múzeumban töltjük, amíg a gépek fedett helyen pihennek. A parti sétány tócsái ellenére a Partenón látványa lenyűgöző, az este pedig a Playa la Ropa esőáztatta partján ér véget.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe potecile din El Limón din cauza noroiului. La prânz, bazinul olimpic oferă un refugiu uscat. După-amiaza este dedicată muzeului, în timp ce bicicletele sunt parcate la adăpost. În ciuda bălților, drumul spre Partenón merită efortul, terminând seara pe plaja udă de la Playa la Ropa.",
+            "en": "Cycling in the rain requires caution on the forest paths of El Limón due to mud. At noon, the municipal pool building offers a dry sanctuary for exercise. Spend the afternoon at the museum while the bikes are safely parked under cover. Despite puddles on the promenade, the ride to the Parthenon is rewarding, ending the evening at the rain-soaked Playa la Ropa."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Estatal El Limón",
+                "hu": "Parque Estatal El Limón",
+                "ro": "Parque Estatal El Limón",
+                "en": "Parque Estatal El Limón"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können sehr matschig und rutschig sein; fahren Sie langsam und nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+                "hu": "Az utak sarasak és csúszósak lehetnek; tekerjen lassan, és használjon sárvédőt a felcsapódó víz és sár ellen.",
+                "ro": "Potecile pot fi noroioase și alunecoase; pedalați încet și folosiți apărători pentru a vă proteja de stropii de apă.",
+                "en": "The trails can be very muddy and slippery; ride slowly and use fenders to protect yourself from splashing water and mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Olimpica municipal",
+                "hu": "Alberca Olimpica municipal",
+                "ro": "Alberca Olimpica municipal",
+                "en": "Alberca Olimpica municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um im Wasser aktiv zu bleiben, ohne nassgeregnet zu werden; parken Sie Ihr Fahrrad im überdachten Eingangsbereich.",
+                "hu": "Tökéletes hely az aktív kikapcsolódáshoz anélkül, hogy elázna; parkolja le a kerékpárt a fedett bejáratnál.",
+                "ro": "Locul perfect pentru a rămâne activ fără a fi udat de ploaie; parcați bicicleta în zona acoperită de la intrare.",
+                "en": "A perfect spot to stay active without getting soaked by rain; park your bike in the covered area at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueológico",
+                "hu": "Museo de Arqueológico",
+                "ro": "Museo de Arqueológico",
+                "en": "Museo de Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Trockenen, um Ihre Regenbekleidung auszuschütteln; das Museum bietet eine willkommene Pause vom nassen Sattel.",
+                "hu": "Használja ki a száraz időt a ruházat rendbetételére; a múzeum kellemes pihenőt nyújt a vizes nyereg után.",
+                "ro": "Folosiți timpul petrecut la adăpost pentru a vă scutura pelerina; muzeul oferă o pauză binemeritată de la șaua udă.",
+                "en": "Use the time indoors to dry off your gear; the museum offers a welcome break from the wet bike saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Principal",
+                "hu": "Playa Principal",
+                "ro": "Playa Principal",
+                "en": "Playa Principal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das Kopfsteinpflaster in der Nähe, da es bei Regen extrem glatt wird; halten Sie Abstand zu Fußgängern mit Schirmen.",
+                "hu": "Vigyázzon a közeli macskaköves utakon, mert esőben rendkívül csúsznak; tartson távolságot az esernyős gyalogosoktól.",
+                "ro": "Atenție pe porțiunile cu piatră cubică din apropiere, care devin foarte alunecoase; păstrați distanța față de pietonii cu umbrele.",
+                "en": "Be careful on the nearby cobblestone streets as they become extremely slick in the rain; keep distance from pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenón de Zihuatanejo",
+                "hu": "Partenón de Zihuatanejo",
+                "ro": "Partenón de Zihuatanejo",
+                "en": "Partenón de Zihuatanejo"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengender; nutzen Sie die überdachten Bereiche oben, um sich auszuruhen und den Panoramablick zu genießen.",
+                "hu": "Az emelkedő esőben fárasztóbb; használja a fenti fedett részeket a pihenésre, miközben a panorámában gyönyörködik.",
+                "ro": "Urcarea este mai solicitantă pe ploaie; folosiți zonele acoperite de sus pentru a vă odihni și a admira panorama.",
+                "en": "The climb is more strenuous in the rain; use the covered areas at the top to rest while enjoying the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Ropa",
+                "hu": "Playa la Ropa",
+                "ro": "Playa la Ropa",
+                "en": "Playa la Ropa"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihr Fahrrad nach der Tour gründlich ab, um Korrosion durch das Salzwasser-Regen-Gemisch am Strand zu vermeiden.",
+                "hu": "A túra után alaposan törölje le a kerékpárt, hogy elkerülje a sós esővíz okozta korróziót a tengerparti tekerés után.",
+                "ro": "Ștergeți bine bicicleta după tură pentru a evita coroziunea cauzată de amestecul de apă sărată și ploaie de pe plajă.",
+                "en": "Wipe down your bike thoroughly after the ride to prevent corrosion from the saltwater and rain mix at the beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterklima ist ideal für lange Radtouren ohne Überhitzung. Morgens erkunden Sie die Wege im El Limón bei erfrischender Luft. Mittags bietet die Schwimmhalle Abkühlung in der Sonne. Nachmittags radeln Sie zum Partenón, wo das Licht der frühen Dämmerung gegen 17:00 Uhr die Bucht verzaubert. Denken Sie für den Rückweg vom Playa la Ropa an Beleuchtung, da es früh dunkel wird.",
+            "hu": "A téli időjárás ideális a hosszú biciklitúrákhoz a hőség nélkül. Reggel friss levegőn fedezzük fel az El Limón ösvényeit. Délben az uszoda hűvösebb vize felfrissít. Délután a Partenónhoz tekerünk, ahol a 17:00 körüli korai sötétedés előtt az aranyló fények fogadnak. A Playa la Ropa partjáról hazafelé már szükség lesz a lámpákra.",
+            "ro": "Clima de iarnă este ideală pentru ture lungi cu bicicleta fără supraîncălzire. Dimineața, explorați potecile din El Limón în aerul revigorant. La prânz, bazinul oferă o răcorire plăcută. După-amiaza, pedalați spre Partenón, unde lumina crepusculului de la ora 17:00 transformă golful. Nu uitați luminile pentru drumul de întoarcere.",
+            "en": "The winter climate is ideal for long bike rides without overheating. In the morning, explore El Limón trails in the refreshing air. At noon, the pool offers a cool break. In the afternoon, cycle to the Parthenon where the early 17:00 twilight light enchants the bay. Remember lights for the ride back from Playa la Ropa as it gets dark early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Estatal El Limón",
+                "hu": "Parque Estatal El Limón",
+                "ro": "Parque Estatal El Limón",
+                "en": "Parque Estatal El Limón"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für anspruchsvolle Trails; im Winter ist die Luftfeuchtigkeit niedriger und das Atmen fällt leichter.",
+                "hu": "Használja ki a hűvös reggelt a nehezebb ösvényekhez; télen alacsonyabb a páratartalom, így könnyebb a sportolás.",
+                "ro": "Profitați de dimineața răcoroasă pentru traseele dificile; iarna umiditatea este mai scăzută și efortul fizic este mai ușor.",
+                "en": "Take advantage of the cool morning for challenging trails; humidity is lower in winter, making physical exertion much easier."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Olimpica municipal",
+                "hu": "Alberca Olimpica municipal",
+                "ro": "Alberca Olimpica municipal",
+                "en": "Alberca Olimpica municipal"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser fühlt sich im Winter erfrischend an; ein idealer Stopp, um die Beine nach der ersten Etappe der Radtour zu lockern.",
+                "hu": "A víz télen is kellemesen frissítő; ideális megálló a lábak átmozgatására a biciklitúra első szakasza után.",
+                "ro": "Apa este revigorantă iarna; un popas ideal pentru a vă relaxa picioarele după prima etapă a traseului cu bicicleta.",
+                "en": "The water feels refreshingly cool in winter; an ideal stop to loosen your legs after the first stage of the bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueológico",
+                "hu": "Museo de Arqueológico",
+                "ro": "Museo de Arqueológico",
+                "en": "Museo de Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Bäume vor dem Museum; das sanfte Winterlicht ist perfekt, um die archäologischen Details im Freien zu sehen.",
+                "hu": "Parkoljon a múzeum előtti fák árnyékában; a lágy téli fény tökéletes a szabadtéri régészeti részletek megfigyeléséhez.",
+                "ro": "Parcați la umbra copacilor din fața muzeului; lumina blândă de iarnă este perfectă pentru a vedea detaliile arheologice în aer liber.",
+                "en": "Park in the shade of the trees in front of the museum; the soft winter light is perfect for seeing outdoor archaeological details."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Principal",
+                "hu": "Playa Principal",
+                "ro": "Playa Principal",
+                "en": "Playa Principal"
+              },
+              "tip_5lang": {
+                "de": "Die Promenade ist im Winter belebter; fahren Sie vorausschauend und genießen Sie die angenehme Meeresbrise beim Treten.",
+                "hu": "A parti sétány télen forgalmasabb; tekerjen előrelátóan, és élvezze a kellemes tengeri szellőt mozgás közben.",
+                "ro": "Faleza este mai animată iarna; pedalați cu atenție și bucurați-vă de briza plăcută a mării în timp ce vă deplasați.",
+                "en": "The promenade is busier in winter; ride cautiously and enjoy the pleasant sea breeze while pedaling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenón de Zihuatanejo",
+                "hu": "Partenón de Zihuatanejo",
+                "ro": "Partenón de Zihuatanejo",
+                "en": "Partenón de Zihuatanejo"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den steilen Anstieg so, dass Sie die Aussicht im goldenen Winterlicht genießen können, bevor es nach 17:00 Uhr dämmert.",
+                "hu": "Úgy tervezze a meredek emelkedőt, hogy még az arany fényekben lássa a panorámát, mielőtt 17:00 után gyorsan alkonyodni kezd.",
+                "ro": "Planificați urcarea abruptă astfel încât să vă bucurați de panoramă în lumina aurie, înainte de amurgul rapid de după ora 17:00.",
+                "en": "Plan the steep climb to enjoy the view in the golden winter light before the rapid dusk sets in after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa la Ropa",
+                "hu": "Playa la Ropa",
+                "ro": "Playa la Ropa",
+                "en": "Playa la Ropa"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter funktionieren; nach dem frühen Sonnenuntergang ist der Rückweg in der kühlen Abendluft dunkel.",
+                "hu": "Ellenőrizze, hogy működnek-e a lámpái; a korai naplemente után a hazaút sötétben és hűvösebb levegőben telik majd.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează; după apusul devreme, drumul de întoarcere va fi pe întuneric și în aer răcoros.",
+                "en": "Make sure your bike lights are working; after the early sunset, the ride back will be in the dark and cooler evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Morning: Kezdje a napot a helyi régészeti múzeumban, felfedezve a régió gazdag történelmét.\n\nMidday: Élvezze a központi strandok nyüzsgő hangulatát, ahol a finom homok pihenésre csábít.\n\nAfternoon: Fedezze fel a tengeröbölre néző Parthenon romjait, amelyek bepillantást engednek a múltba.\n\nEvening: Zárja a napot egy békés naplementével a déli strandokon, egy nyugodt séta kíséretében.",
         "ro": "Morning: Începeți ziua explorând istoria și cultura de coastă la muzeul arheologic local.\n\nMidday: Bucurați-vă de atmosfera plajelor centrale, unde nisipul fin vă invită la relaxare.\n\nAfternoon: Descoperiți ruinele intrigante ale Partenonului care domină golful magnific.\n\nEvening: Încheiați cu un apus de soare liniștit pe plajele sudice, perfect pentru o baie răcoritoare.",
         "en": "Morning: Explore the rich history and coastal culture at the local archaeological museum.\n\nMidday: Enjoy the vibrant atmosphere of the central beaches, where soft sand invites relaxation.\n\nAfternoon: Discover the intriguing ruins of the Parthenon overlooking the bay, revealing a colorful past.\n\nEvening: Conclude with a serene sunset at the southern beaches, perfect for a refreshing evening swim."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Zihuatanejo auch bei starkem Regen komfortabel. Der Morgen beginnt am Playa Majahua, wo Sie den Regen aus dem trockenen Wagen beobachten können. Mittags bietet das Museum Schutz, während der Wagen sicher parkt. Nachmittags geht es zum Partenón und zur Schildkrötenstation, wo kurze Wege das Nass minimieren. Den Abend genießen Sie am Playa las Gatas, sicher vor den Güssen.",
+            "hu": "Autóval a legnagyobb esőben is kényelmesen felfedezhetjük a várost. A reggel a Playa Majahua parton kezdődik, ahol a kocsiból figyelhetjük a vihart. Délben a múzeum fedett termei nyújtanak menedéket. Délután a Partenón és a teknősnevelde meglátogatása után a Playa las Gatas következik, ahol a parti éttermek tetői alatt élvezhetjük az esős, trópusi estét.",
+            "ro": "Cu mașina, puteți explora orașul confortabil chiar și pe ploaie torențială. Dimineața începe la Playa Majahua, admirând ploaia din confortul vehiculului. La prânz, muzeul oferă adăpost, iar după-amiaza vizităm Partenón și țarcul țestoaselor. Seara se încheie la Playa las Gatas, unde acoperișurile restaurantelor ne protejează de ploile tropicale.",
+            "en": "By car, you can explore the city comfortably even during heavy rain. The morning starts at Playa Majahua, watching the storm from the dry cabin. At noon, the museum provides shelter while the car stays parked. In the afternoon, visit the Parthenon and the turtle pen with minimal exposure to the wet. End the evening at Playa las Gatas under a sturdy restaurant roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Majahua",
+                "hu": "Playa Majahua",
+                "ro": "Playa Majahua",
+                "en": "Playa Majahua"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Strandzugang; der Regen verwandelt die Bucht in eine mystische, neblige Landschaft, die man toll vom Auto sieht.",
+                "hu": "Parkoljon a lehető legközelebb a parthoz; az eső misztikus, ködös tájjá változtatja az öblöt, ami az autóból nézve is lenyűgöző.",
+                "ro": "Parcați cât mai aproape de plajă; ploaia transformă golful într-un peisaj mistic, care se vede minunat din mașină.",
+                "en": "Park as close to the beach access as possible; the rain turns the bay into a misty, mystical landscape that looks great from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Estatal El Limón",
+                "hu": "Parque Estatal El Limón",
+                "ro": "Parque Estatal El Limón",
+                "en": "Parque Estatal El Limón"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Zufahrtswege können schlammig sein; fahren Sie vorsichtig und meiden Sie tiefe Pfützen, um nicht steckenzubleiben.",
+                "hu": "A burkolatlan bekötőutak sárosak lehetnek; vezessen óvatosan, és kerülje a mély tócsákat, hogy ne akadjon el a sárban.",
+                "ro": "Drumurile de acces neasfaltate pot fi noroioase; conduceți cu atenție și evitați bălțile adânci pentru a nu rămâne blocați.",
+                "en": "The unpaved access roads can be muddy; drive carefully and avoid deep puddles to ensure you don't get stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueológico",
+                "hu": "Museo de Arqueológico",
+                "ro": "Museo de Arqueológico",
+                "en": "Museo de Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgedehnte Regenpause; im Inneren sind Sie sicher vor den oft heftigen Mittagsschauern.",
+                "hu": "Használja a múzeumlátogatást hosszabb esőszünetnek; bent biztonságban lesz a gyakran heves déli záporok elől.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă de ploaie; în interior sunteți protejați de averselen de prânz adesea violente.",
+                "en": "Use the museum visit as an extended rain break; inside you are safe from the often heavy noon tropical showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenón de Zihuatanejo",
+                "hu": "Partenón de Zihuatanejo",
+                "ro": "Partenón de Zihuatanejo",
+                "en": "Partenón de Zihuatanejo"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Partenón bietet tolle Ausblicke im Regen; parken Sie direkt am Eingang, um den Weg durch den Guss zu verkürzen.",
+                "hu": "A Partenónhoz vezető út esőben is látványos; parkoljon közvetlenül a bejáratnál, hogy lerövidítse az utat a szakadó esőben.",
+                "ro": "Drumul spre Partenón oferă vederi spectaculoase pe ploaie; parcați chiar la intrare pentru a scurta drumul prin ploaie.",
+                "en": "The drive up to the Parthenon offers great views in the rain; park right at the entrance to shorten your walk through the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle pen",
+                "hu": "Turtle pen",
+                "ro": "Turtle pen",
+                "en": "Turtle pen"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, der auch bei Regen machbar ist; beobachten Sie die Schildkröten unter den Vordächern, bevor Sie schnell ins Auto zurückkehren.",
+                "hu": "Gyors megálló, ami esőben is teljesíthető; figyelje a teknősöket az eresz alól, mielőtt gyorsan visszaszállna az autóba.",
+                "ro": "O oprire rapidă care poate fi făcută și pe ploaie; observați țestoasele de sub streșini înainte de a reveni rapid în mașină.",
+                "en": "A quick stop feasible even in rain; observe the turtles from under the eaves before quickly returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa las Gatas",
+                "hu": "Playa las Gatas",
+                "ro": "Playa las Gatas",
+                "en": "Playa las Gatas"
+              },
+              "tip_5lang": {
+                "de": "Das Wassertaxi bringt Sie trocken zum Strand, wo die überdachten Restaurants Schutz bieten, während der Regen auf die Bucht peitscht.",
+                "hu": "A vízitaxi gyorsan átviszi a partra, ahol a fedett éttermek védelmet nyújtanak, miközben az eső a tengerre hullik.",
+                "ro": "Taxiul pe apă vă duce rapid la plajă, unde restaurantele acoperite oferă protecție în timp ce ploaia cade peste golf.",
+                "en": "The water taxi takes you quickly to the beach, where covered restaurants offer protection while rain lashes the bay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten sind dank der milden Temperaturen und klaren Luft besonders angenehm. Der Morgen am Playa Majahua bietet sanftes Licht für Fotos. Mittags erkunden Sie den Park El Limón ohne die drückende Sommerhitze. Nachmittags erreichen Sie den Partenón pünktlich zum frühen Sonnenuntergang um 17:00 Uhr. Der Abend am Playa las Gatas wird in der kühleren Meeresbrise herrlich erfrischend.",
+            "hu": "A téli autózás a kellemes hőmérséklet és a tiszta levegő miatt különösen élvezetes. A reggel a Playa Majahua parton lágy fényeket kínál a fotózáshoz. Délben az El Limón parkot fedezzük fel a tikkasztó hőség nélkül. Délután pontosan a 17:00-s korai naplementére érünk a Partenónhoz. Az este a Playa las Gatas parton a hűvösebb tengeri szellőben frissítő lesz.",
+            "ro": "Călătoriile cu mașina iarna sunt plăcute datorită temperaturilor blânde. Dimineața la Playa Majahua oferă o lumină caldă pentru fotografii. La prânz, explorăm parcul El Limón fără căldura sufocantă. După-amiaza ajungem la Partenón la timp pentru apusul devreme de la ora 17:00. Seara la Playa las Gatas va fi revigorantă în briza mării.",
+            "en": "Winter drives are especially pleasant thanks to mild temperatures and clear air. The morning at Playa Majahua offers soft light for photos. At noon, explore El Limón park without the oppressive summer heat. In the afternoon, reach the Parthenon in time for the early 17:00 sunset. The evening at Playa las Gatas will be refreshingly cool in the sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Majahua",
+                "hu": "Playa Majahua",
+                "ro": "Playa Majahua",
+                "en": "Playa Majahua"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht im Winter; die Parkplätze am Strand sind in der Nebensaison leichter zu finden und weniger staubig.",
+                "hu": "Élvezze a tiszta téli kilátást; a tengerparti parkolók a főszezon ellenére is könnyen megközelíthetők és kevésbé porosak.",
+                "ro": "Bucurați-vă de vizibilitatea clară de iarnă; parcările de pe plajă sunt mai ușor de găsit și mai puțin prăfuite acum.",
+                "en": "Enjoy the clear winter views; beach parking is easier to find and less dusty than during the humid summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Estatal El Limón",
+                "hu": "Parque Estatal El Limón",
+                "ro": "Parque Estatal El Limón",
+                "en": "Parque Estatal El Limón"
+              },
+              "tip_5lang": {
+                "de": "Das Fahren auf den Staubpisten ist im Winter angenehmer, da die Wege trocken und die Temperaturen für kurze Spaziergänge ideal sind.",
+                "hu": "A poros utakon való vezetés télen kellemesebb, mivel az utak szárazak, a hőmérséklet pedig ideális a rövid sétákhoz.",
+                "ro": "Condusul pe drumurile prăfuite este mai plăcut iarna, deoarece potecile sunt uscate și temperaturile sunt ideale pentru plimbări.",
+                "en": "Driving on dusty paths is more pleasant in winter as the trails are dry and temperatures are ideal for short walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueológico",
+                "hu": "Museo de Arqueológico",
+                "ro": "Museo de Arqueológico",
+                "en": "Museo de Arqueológico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten, um das Auto kühl zu halten; das milde Winterlicht lässt die Farben der Ausstellungsstücke im Patio strahlen.",
+                "hu": "Parkoljon árnyékban, hogy hűvösen tartsa az autót; a lágy téli fény kiemeli a belső udvar kiállítási tárgyainak színeit.",
+                "ro": "Parcați la umbră pentru a menține mașina răcoroasă; lumina blândă de iarnă face culorile exponatelor din curte să strălucească.",
+                "en": "Park in the shade to keep the car cool; the mild winter light makes the colors of the courtyard exhibits pop beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenón de Zihuatanejo",
+                "hu": "Partenón de Zihuatanejo",
+                "ro": "Partenón de Zihuatanejo",
+                "en": "Partenón de Zihuatanejo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor der frühen Dämmerung; das Parken oben ermöglicht einen schnellen Aufbruch, wenn es nach 17:00 Uhr abkühlt.",
+                "hu": "Érkezzen időben a korai szürkület előtt; a fenti parkolás lehetővé teszi a gyors távozást, amikor 17:00 után hűlni kezd az idő.",
+                "ro": "Arribați la timp înainte de amurg; parcarea de sus vă permite o plecare rapidă când se răcește după ora 17:00.",
+                "en": "Arrive well before the early twilight; parking at the top allows for a quick departure when it cools down after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle pen",
+                "hu": "Turtle pen",
+                "ro": "Turtle pen",
+                "en": "Turtle pen"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Aktivitäten an der Station oft zahlreicher; nutzen Sie die Zeit vor Sonnenuntergang für einen informativen Stopp.",
+                "hu": "Télen gyakran aktívabb az élet a teknősneveldében; használja ki a naplemente előtti időt egy informatív megállóra.",
+                "ro": "Iarna, activitățile de la țarc sunt adesea mai numeroase; profitați de timpul înainte de apus pentru o oprire informativă.",
+                "en": "In winter, activities at the turtle pen are often more frequent; use the time before sunset for an informative stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa las Gatas",
+                "hu": "Playa las Gatas",
+                "ro": "Playa las Gatas",
+                "en": "Playa las Gatas"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Jacke mit ins Boot; die Überfahrt zurück zum Festland nach Sonnenuntergang kann in der Winterbrise kühl sein.",
+                "hu": "Vigyen magával pulóvert a csónakba; a naplemente utáni visszaút a szárazföldre hűvös lehet a téli tengeri szélben.",
+                "ro": "Luați o jachetă în barcă; drumul de întoarcere spre continent după apus poate fi răcoros în briza de iarnă.",
+                "en": "Take a jacket with you on the boat; the trip back to the mainland after sunset can be chilly in the winter sea breeze."
+              }
+            }
+          ]
+        }
       }
     }
   }

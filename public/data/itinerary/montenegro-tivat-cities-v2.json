@@ -160,6 +160,196 @@
         "hu": "A reggel a Ljetnja pozornica kulturális élményeivel kezdődik, majd a tengerészeti hősök előtt tisztelgünk. Délben sétáljon el a luxus Regent Pool Residences mellett, mielőtt felfedezné a tengerészeti múzeumot. A délután lenyűgöző kilátást kínál a Lighthouse Plaza Ponta területéről. Az estét a népszerű Waikiki strandon töltheti teljes kikapcsolódással, megcsodálva a csodás naplementét.",
         "ro": "Dimineața începe cu o imersiune culturală la Ljetnja pozornica, urmată de un omagiu adus eroilor navali. La prânz, treceți pe lângă luxoasele Regent Pool Residences înainte de a explora Muzeul Patrimoniului Naval. După-amiaza continuă cu vederi uimitoare ale golfului de la Lighthouse Plaza Ponta. Seara este rezervată relaxării complete la plaja populară Waikiki, privind apusul soarelui.",
         "en": "Morning begins with a cultural immersion at the Ljetnja pozornica, followed by a tribute to naval heroes. Midday invites you to stroll past the luxurious Regent Pool Residences before diving into maritime history at the Naval Heritage Museum. Afternoon continues with breathtaking bay views at the Lighthouse Plaza Ponta. Evening is reserved for complete relaxation at the popular Waikiki beach, watching the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Tivat beginnt grau, doch die Regentropfen auf den Palmen verleihen dem Park eine mystische Ruhe. Mittags suchen wir Schutz im Marinemuseum, wo die Schifffahrtsgeschichte trocken und faszinierend bleibt. Am Nachmittag glänzen die Promenaden von Porto Montenegro im Regen, was die luxuriöse Atmosphäre noch verstärkt. Den Abend lassen wir bei einem Kaffee mit Blick auf die aufgewühlte Adria ausklingen.",
+            "hu": "A reggeli Tivat szürke színei ellenére is elegáns, az esőcseppek a pálmaleveleken különleges ritmust adnak a sétának. Délben a Tengerészeti Múzeum belső terei nyújtanak tökéletes menedéket és kulturális feltöltődést. Délután az esőáztatta Porto Montenegro márványán csillogó fények között sétálunk, élvezve a csendesebb luxust. Az estét egy fedett teraszon, a tenger illatával zárjuk.",
+            "ro": "Dimineața în Tivat începe sub un cer gri, dar picăturile de ploaie pe palmieri oferă parcului o liniște mistică. La prânz, căutăm adăpost în Muzeul Patrimoniului Naval, unde istoria maritimă rămâne uscată și fascinantă. După-amiaza, faleza din Porto Montenegro strălucește în ploaie, accentuând atmosfera luxoasă. Seara se încheie la o cafea caldă, admirând marea agitată de sub o copertină.",
+            "en": "Morning in Tivat begins with a soft drizzle, turning the city parks into a lush, aromatic escape. By noon, the Naval Heritage Museum provides a perfect dry sanctuary to explore the local maritime legacy. In the afternoon, the rain-slicked streets of Porto Montenegro reflect the luxury yachts in a beautiful way. We conclude the evening in a cozy waterfront cafe, listening to the rain on the Adriatic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sommerbühne",
+                "hu": "Nyári Színpad",
+                "ro": "Scenă de Vară",
+                "en": "Ljetnja pozornica"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der Bühne auch im Regen, suchen Sie aber bei starkem Guss Schutz unter den Arkaden des nahegelegenen Kulturzentrums.",
+                "hu": "Csodáld meg a színpad építészetét esőben is, de heves felhőszakadás esetén keress menedéket a közeli kulturális központ árkádjai alatt.",
+                "ro": "Admirați arhitectura scenei chiar și pe ploaie, dar în caz de aversă puternică, căutați adăpost sub arcadele centrului cultural din apropiere.",
+                "en": "Admire the open-air theater's architecture even in the rain, but seek shelter under the nearby cultural center's arches if the downpour intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für Spasić und Mašera",
+                "hu": "Spasić és Mašera Emlékmű",
+                "ro": "Monumentul lui Spasić și Mašera",
+                "en": "Spomenik Spasiću i Mašeri"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, respektvoller Stopp unter dem Regenschirm; die bronzenen Statuen wirken bei düsterem Wetter besonders heldenhaft und eindrucksvoll.",
+                "hu": "Egy rövid, tiszteletteljes megálló esernyő alatt; a bronzszobrok borús időben különösen hősiesnek és hatásosnak tűnnek a park mélyén.",
+                "ro": "O oprire scurtă și respectuoasă sub umbrelă; statuile de bronz par deosebit de eroice și impresionante pe vreme mohorâtă în mijlocul parcului.",
+                "en": "A brief, respectful stop under your umbrella; the bronze statues look particularly heroic and atmospheric against the moody, overcast sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Regent Pool Residences",
+                "hu": "Regent Pool Residences",
+                "ro": "Regent Pool Residences",
+                "en": "Regent Pool Residences"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die luxuriöse Architektur von den überdachten Gehwegen aus und achten Sie auf den rutschigen Marmorboden in der Marina.",
+                "hu": "Élvezd a luxusépítészet látványát a fedett folyosókról, és vigyázz a marina márványburkolatára, amely esőben rendkívül csúszóssá válik.",
+                "ro": "Bucurați-vă de arhitectura de lux de pe coridoarele acoperite și aveți grijă la pavajul de marmură din marină, care devine foarte alunecos.",
+                "en": "Enjoy the view of the luxury architecture from the covered walkways, and be careful on the marina's marble floors, which become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Marinemuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Patrimoniului Naval",
+                "en": "Naval Heritage Collection Museum"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel an Regentagen; verbringen Sie mehr Zeit im Inneren der U-Boote, wo das Wetter draußen keine Rolle spielt.",
+                "hu": "A tökéletes úti cél esős napokon; tölts több időt a tengeralattjárók belsejében, ahol a kinti időjárás egyáltalán nem számít.",
+                "ro": "Destinația ideală pentru zilele ploioase; petreceți mai mult timp în interiorul submarinelor, unde vremea de afară nu contează deloc.",
+                "en": "The perfect destination for rainy days; spend extra time exploring the interior of the submarines where the weather outside doesn't matter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Plaza Ponta",
+                "hu": "Lighthouse Plaza Ponta",
+                "ro": "Lighthouse Plaza Ponta",
+                "en": "Lighthouse Plaza Ponta"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im Nebel fast mystisch; tragen Sie eine windfeste Jacke, da der Regen hier oft von starken Meeresböen begleitet wird.",
+                "hu": "A világítótorony szinte misztikus a ködben; viselj szélálló kabátot, mert itt az esőt gyakran erős tengeri széllökések kísérik.",
+                "ro": "Farul pare aproape mistic în ceață; purtați o jachetă rezistentă la vânt, deoarece ploaia este adesea însoțită de rafale puternice aici.",
+                "en": "The lighthouse looks almost mystical in the mist; wear a windproof jacket as the rain is often accompanied by strong sea gusts at this point."
+              }
+            },
+            {
+              "name": {
+                "de": "Waikiki",
+                "hu": "Waikiki",
+                "ro": "Waikiki",
+                "en": "Waikiki"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz im überdachten Restaurantbereich, um das Rauschen des Regens auf dem Meer bei einem warmen Getränk zu genießen.",
+                "hu": "Válassz asztalt a fedett éttermi részben, hogy egy meleg ital mellett élvezhesd az eső kopogását a tengerfelszínen.",
+                "ro": "Alegeți o masă în zona acoperită a restaurantului pentru a savura o băutură caldă în timp ce ascultați ploaia căzând peste mare.",
+                "en": "Choose a table in the covered restaurant area to enjoy a warm drink while listening to the sound of rain hitting the sea surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tivat im Winter ist herrlich ruhig und die Luft kristallklar. Morgens glitzert der Frost auf den Yachten in der Marina. Mittags wärmt die milde Mittelmeersonne die Promenade, ideal für einen entspannten Spaziergang ohne Touristenmassen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht des Nachmittags am Leuchtturm. Den Abend verbringen wir in einem gemütlich beheizten Bistro.",
+            "hu": "A téli Tivat csodálatosan csendes, a levegő pedig kristálytiszta. Reggel a dér csillog a marina jachtjain. Napközben a szelíd mediterrán napsütés melengeti a sétányt, ami tökéletes a tömegmentes felfedezéshez. Mivel a nap már 17:00 körül lemegy, a délutáni aranyórákat a világítótoronynál töltjük. Az estét egy kellemesen fűtött bisztróban, helyi borokkal zárjuk.",
+            "ro": "Tivat iarna este minunat de liniștit, iar aerul este cristalinc. Dimineața, bruma strălucește pe iahturile din marină. La prânz, soarele blând mediteranean încălzește faleza, fiind ideal pentru o plimbare fără mulțimi. Deoarece soarele apune în jurul orei 17:00, profităm de lumina aurie a după-amiezii la far. Seara ne retragem într-un bistro încălzit.",
+            "en": "Winter in Tivat is wonderfully quiet and the air is crystal clear. In the morning, frost sparkles on the yachts in the marina. At noon, the mild Mediterranean sun warms the promenade, perfect for a peaceful stroll. Since the sun sets around 17:00, we catch the golden afternoon light by the lighthouse. We end the evening in a cozy, heated bistro with local comfort food."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sommerbühne",
+                "hu": "Nyári Színpad",
+                "ro": "Scenă de Vară",
+                "en": "Ljetnja pozornica"
+              },
+              "tip_5lang": {
+                "de": "Die leere Bühne strahlt eine melancholische Schönheit aus; ziehen Sie sich warm an, da der Stein im Schatten der Bäume sehr kühl bleibt.",
+                "hu": "Az üres színpad melankolikus szépséget áraszt; öltözz rétegesen, mert a fák árnyékában a kőburkolat télen nagyon hideg marad.",
+                "ro": "Scena goală emană o frumusețe melancolică; îmbrăcați-vă bine, deoarece piatra rămâne foarte rece la umbra copacilor în timpul iernii.",
+                "en": "The empty stage has a melancholic beauty in winter; dress in layers as the stone remains very cold in the shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für Spasić und Mašera",
+                "hu": "Spasić és Mašera Emlékmű",
+                "ro": "Monumentul lui Spasić și Mašera",
+                "en": "Spomenik Spasiću i Mašeri"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen zügigen Winterspaziergang durch den Stadtpark; die immergrünen Pflanzen bieten auch jetzt eine schöne Kulisse.",
+                "hu": "Ideális helyszín egy élénk téli sétához a városi parkban; az örökzöld növények ilyenkor is szép hátteret adnak az emlékműnek.",
+                "ro": "Un loc ideal pentru o plimbare revigorantă de iarnă prin parcul orașului; plantele perene oferă un decor frumos chiar și acum.",
+                "en": "A perfect spot for a brisk winter walk through the city park; the evergreen plants provide a lush backdrop even in the colder months."
+              }
+            },
+            {
+              "name": {
+                "de": "Regent Pool Residences",
+                "hu": "Regent Pool Residences",
+                "ro": "Regent Pool Residences",
+                "en": "Regent Pool Residences"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die weihnachtliche Dekoration der Marina; die Architektur wirkt im klaren Winterlicht besonders scharf und elegant.",
+                "hu": "Csodáld meg a kikötő ünnepi díszítését; az építészet a tiszta téli fényben különösen élesnek és elegánsnak mutatkozik.",
+                "ro": "Admirați decorațiunile festive din marină; arhitectura pare deosebit de clară și elegantă în lumina curată a iernii.",
+                "en": "Admire the festive decorations of the marina; the architecture looks particularly sharp and elegant in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Marinemuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Patrimoniului Naval",
+                "en": "Naval Heritage Collection Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume für eine aufwärmende Pause und erkunden Sie die U-Boote ohne die sommerliche Hitze im Inneren.",
+                "hu": "Használd ki a fűtött kiállítótereket egy kis melegedésre, és fedezd fel a tengeralattjárókat a nyári hőség okozta fülledtség nélkül.",
+                "ro": "Folosiți sălile de expoziție încălzite pentru o pauză de încălzire și explorați submarinele fără zăpușeala din timpul verii.",
+                "en": "Take advantage of the heated exhibition rooms for a warm break, and explore the submarines without the oppressive summer heat inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Plaza Ponta",
+                "hu": "Lighthouse Plaza Ponta",
+                "ro": "Lighthouse Plaza Ponta",
+                "en": "Lighthouse Plaza Ponta"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr hierher, um den spektakulären Wintersonnenuntergang über der Bucht von Kotor in absoluter Ruhe zu erleben.",
+                "hu": "Érkezz ide 16:30 előtt, hogy teljes nyugalomban éld át a Kotori-öböl feletti látványos téli naplementét.",
+                "ro": "Veniți aici înainte de ora 16:30 pentru a experimenta apusul spectaculos de iarnă peste Golful Kotor în liniște deplină.",
+                "en": "Arrive here before 16:30 to experience the spectacular winter sunset over the Bay of Kotor in absolute tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Waikiki",
+                "hu": "Waikiki",
+                "ro": "Waikiki",
+                "en": "Waikiki"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es zu kalt zum Baden ist, bietet die Terrasse mit Heizstrahlern einen fantastischen Blick auf die verschneiten Gipfel der umliegenden Berge.",
+                "hu": "Bár fürdéshez túl hideg van, a hősugárzókkal felszerelt teraszról fantasztikus kilátás nyílik a környező hegyek havas csúcsaira.",
+                "ro": "Deși e prea frig pentru baie, terasa dotată cu încălzitoare oferă o priveliște fantastică spre vârfurile înzăpezite ale munților din jur.",
+                "en": "Though it's too cold for a swim, the heated terrace offers a fantastic view of the snow-capped peaks of the surrounding mountains."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje a reggelt a nyári színpad fenyőillatú levegőjében biciklizve, majd tekerjen a hatalmas tengerészeti múzeumhoz. A dél tökéletes a Lighthouse Plaza Ponta felfedezésére és egy hosszú pihenőre a Waikiki strandon. A délután kalandos emelkedőt tartogat a dombok felé, hogy felkutassa a rejtélyes kör alakú katonai romokat. Az este pedig sima és jól megérdemelt gurulást jelent visszafelé.",
         "ro": "Începeți dimineața pedalând prin aerul cu parfum de pin la scena de vară, apoi mergeți spre extinsul Muzeu al Patrimoniului Naval. Prânzul este perfect pentru a explora coasta către Lighthouse Plaza Ponta și a face o pauză la Waikiki. După-amiaza oferă o urcare plină de aventură spre dealuri pentru a localiza enigmaticele ruine militare circulare. Seara aduce o plimbare lină și relaxantă înapoi.",
         "en": "Kick off your morning riding through the pine-scented air at the summer stage, then pedal swiftly to the extensive Naval Heritage Collection. Midday is perfect for exploring the coastal path toward Lighthouse Plaza Ponta and taking a long break at Waikiki beach. Afternoon presents an adventurous climb toward the hills to locate the enigmatic circular military ruins. Evening brings a smooth, rewarding ride back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Tivat Vorsicht, bietet aber leere Wege. Morgens radeln wir entlang der Küste, wobei wir Pfützen auf den glatten Steinen meiden. Mittags ist das Marinemuseum der perfekte Stopp, um das Fahrrad sicher abzustellen und sich aufzuwärmen. Am Nachmittag geht es zu den Ruinen, die im Regen besonders urig wirken. Achten Sie stets auf die Bremswirkung bei Nässe.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Tivatban, de cserébe üres utakat kapsz. Reggel a parton tekerünk, kerülgetve a tócsákat a csúszós köveken. Délben a Tengerészeti Múzeum a tökéletes megálló a bringák biztonságos leállításához és a száradáshoz. Délután a romok felé vesszük az irányt, amelyek esőben még vadregényesebbek. Mindig figyelj a megnövekedett fékútra.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în Tivat, dar oferă drumuri libere. Dimineața pedalăm de-a lungul coastei, evitând bălțile de pe pietrele alunecoase. La prânz, Muzeul Naval este locul perfect pentru a parca bicicleta și a te încălzi. După-amiaza mergem spre ruine, care par deosebit de pitorești în ploaie. Atenție sporită la frânare pe carosabil umed.",
+            "en": "Cycling in the rain requires caution in Tivat but offers empty paths. In the morning, we ride along the coast, dodging puddles on the slick stones. At noon, the Naval Museum is the perfect stop to park the bike and dry off. In the afternoon, we head to the ruins, which look extra atmospheric in the rain. Always be mindful of longer braking distances on wet surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sommerbühne",
+                "hu": "Nyári Színpad",
+                "ro": "Scenă de Vară",
+                "en": "Ljetnja pozornica"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Baum ab und nutzen Sie Regenkleidung; die glatten Gehwege rund um die Bühne können tückisch sein.",
+                "hu": "Állítsd a bringát egy fa alá, és használj esővédő ruházatot; a színpad körüli sima burkolat nagyon csalóka lehet esőben.",
+                "ro": "Parcați bicicleta sub un copac și folosiți pelerina de ploaie; pavajul neted din jurul scenei poate fi înșelător pe vreme umedă.",
+                "en": "Park your bike under a tree and wear waterproof gear; the smooth pavement around the stage can be treacherous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Marinemuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Patrimoniului Naval",
+                "en": "Naval Heritage Collection Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Regenpause; es gibt meist überdachte Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Használd ki a múzeumlátogatást egy hosszabb esőszünetre; a bejárat közelében általában találsz fedett kerékpártárolót.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de ploaie; există de obicei suporturi de biciclete acoperite lângă intrare.",
+                "en": "Use the museum visit as an extended rain break; there are usually covered bike racks near the entrance to keep your seat dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Plaza Ponta",
+                "hu": "Lighthouse Plaza Ponta",
+                "ro": "Lighthouse Plaza Ponta",
+                "en": "Lighthouse Plaza Ponta"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam, da der Wind das Radfahren erschweren kann und die Gischt die Sicht beeinträchtigt.",
+                "hu": "Itt tekerj különösen lassan, mert a szél megnehezítheti a haladást, a felverődő tengeri permet pedig rontja a látási viszonyokat.",
+                "ro": "Pedalați foarte încet aici, deoarece vântul poate îngreuna înaintarea, iar stropii de apă de mare pot reduce vizibilitatea.",
+                "en": "Cycle extra slowly here as the wind can make riding difficult and the sea spray might impair your visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Waikiki",
+                "hu": "Waikiki",
+                "ro": "Waikiki",
+                "en": "Waikiki"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die nasse Kleidung bei einem heißen Tee zu trocknen, während das Rad draußen unter einem Vordach steht.",
+                "hu": "Jó hely a vizes ruhák megszárítására egy forró tea mellett, miközben a bringa kint egy előtető alatt pihenhet.",
+                "ro": "Un loc bun pentru a vă usca hainele umede la un ceai fierbinte, în timp ce bicicleta stă afară sub o copertină.",
+                "en": "A great spot to dry your wet gear over a hot tea while your bike rests outside under a protective overhang."
+              }
+            },
+            {
+              "name": {
+                "de": "Runde Ruinen",
+                "hu": "Kör alakú romok",
+                "ro": "Ruine circulare",
+                "en": "Round shape ruins"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Ruinen kann matschig sein; achten Sie auf Ihr Profil und meiden Sie tiefes Wasser in den Schlaglöchern.",
+                "hu": "A romokhoz vezető út sáros lehet; ügyelj a gumi tapadására, és kerüld a mély vizet a kátyúkban.",
+                "ro": "Drumul spre ruine poate fi noroios; atenție la aderența anvelopelor și evitați bălțile adânci din gropi.",
+                "en": "The path to the ruins might be muddy; check your tire grip and avoid riding through deep water in any potholes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Tivat ist dank des milden Klimas angenehm, solange man in Bewegung bleibt. Morgens starten wir bei frischer Luft entlang der Marina. Mittags genießen wir die Sonne auf dem Weg zum Marinemuseum. Am Nachmittag radeln wir zu den Ruinen, wobei wir das Tageslicht optimal nutzen müssen, bevor es um 17:00 Uhr dämmert. Den Abschluss bildet eine gemütliche Fahrt zurück ins Stadtzentrum.",
+            "hu": "A téli biciklizés Tivatban a szelíd klímának köszönhetően kellemes, amíg mozgásban maradsz. Reggel friss levegőn indulunk a marina mentén. Napközben élvezzük a napsütést a Tengerészeti Múzeum felé vezető úton. Délután a romokhoz tekerünk, jól beosztva a nappali fényt a 17:00 órai sötétedés előtt. A napot egy kényelmes városközponti tekeréssel zárjuk.",
+            "ro": "Mersul pe bicicletă iarna în Tivat este plăcut datorită climei blânde, atâta timp cât rămâneți în mișcare. Dimineața pornim în aerul proaspăt de-a lungul marinei. La prânz ne bucurăm de soare în drum spre Muzeul Naval. După-amiaza pedalăm spre ruine, profitând de lumina zilei înainte de lăsarea întunericului la ora 17:00. Încheiem cu o tură relaxată spre centru.",
+            "en": "Winter cycling in Tivat is pleasant thanks to the mild climate, as long as you keep moving. We start in the crisp morning air along the marina. At noon, we soak up the sun on the way to the Naval Museum. In the afternoon, we ride to the ruins, carefully timing our return before the 17:00 sunset. We finish with a leisurely ride back to the cozy city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sommerbühne",
+                "hu": "Nyári Színpad",
+                "ro": "Scenă de Vară",
+                "en": "Ljetnja pozornica"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, da der Fahrtwind am Morgen recht kühl sein kann, auch wenn die Sonne scheint.",
+                "hu": "Viselj kesztyűt, mert a menetszél reggelente elég hűvös lehet, még akkor is, ha egyébként süt a nap.",
+                "ro": "Purtați mănuși, deoarece curentul de aer poate fi destul de rece dimineața, chiar dacă soarele strălucește.",
+                "en": "Wear gloves, as the wind chill while riding can be quite biting in the morning, even on sunny winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Marinemuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Patrimoniului Naval",
+                "en": "Naval Heritage Collection Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause, um die Finger in den beheizten Innenräumen wieder aufzuwärmen.",
+                "hu": "Ideális helyszín egy pihenőhöz, ahol a fűtött belső terekben újra felmelegítheted az ujjaidat.",
+                "ro": "Un loc ideal pentru o pauză, unde vă puteți reîncălzi degetele în spațiile interioare încălzite.",
+                "en": "A perfect spot for a break where you can warm up your hands in the heated indoor exhibition areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Plaza Ponta",
+                "hu": "Lighthouse Plaza Ponta",
+                "ro": "Lighthouse Plaza Ponta",
+                "en": "Lighthouse Plaza Ponta"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Meer ist im Winter deutlich kälter; eine winddichte Weste ist für diesen Stopp am Wasser unerlässlich.",
+                "hu": "A tengerparti szél télen jóval hidegebb; egy szélálló mellény elengedhetetlen ehhez a vízparti megállóhoz.",
+                "ro": "Vântul de pe malul mării este mult mai rece iarna; o vestă rezistentă la vânt este esențială pentru această oprire la apă.",
+                "en": "The coastal wind is significantly colder in winter; a windproof vest is essential for this stop by the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Waikiki",
+                "hu": "Waikiki",
+                "ro": "Waikiki",
+                "en": "Waikiki"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen heißen Kakao, bevor Sie die letzte Etappe antreten; das Licht am späten Nachmittag ist hier fantastisch.",
+                "hu": "Kényeztesd magad egy forró kakaóval, mielőtt elindulsz az utolsó szakaszra; a késő délutáni fények itt fantasztikusak.",
+                "ro": "Răsfățați-vă cu o ciocolată caldă înainte de ultima etapă; lumina de după-amiază târzie este fantastică aici.",
+                "en": "Treat yourself to a hot cocoa before starting the final leg of your ride; the late afternoon light here is stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Runde Ruinen",
+                "hu": "Kör alakú romok",
+                "ro": "Ruine circulare",
+                "en": "Round shape ruins"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhrzeit; nach 16:30 Uhr sinken die Temperaturen schnell und es wird rasch dunkel auf dem Rückweg.",
+                "hu": "Ügyelj az időre; 16:30 után a hőmérséklet gyorsan süllyed, és hirtelen sötét lesz a visszaúton.",
+                "ro": "Atenție la oră; după 16:30 temperaturile scad rapid și se întunecă repede pe drumul de întoarcere.",
+                "en": "Keep an eye on the time; after 16:30, temperatures drop rapidly and it gets dark very quickly on the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A reggel a Spasić és Mašera emlékműnél kezdődik, majd elmélyed a lenyűgöző tengerészeti múzeum kiállításában. Délben egy festői autózás következik a parti dombokon, hogy felfedezze a titokzatos kör alakú osztrák romokat. A délután egy mélyreható történelmi utazássá válik az első világháborús légvédelmi és tábori erődítmények között. Az este a 9 cm-es ágyúállás megtekintésével zárul.",
         "ro": "Dimineața începe la monumentul Spasić și Mašera înainte de a explora Muzeul Patrimoniului Naval. La prânz, faceți o plimbare pitorească pe dealurile de coastă pentru a descoperi misterioasele ruine austriece rotunde. După-amiaza se transformă într-o călătorie istorică profundă explorând fortificațiile antiaeriene și de câmp din Primul Război Mondial. Seara se încheie admirând uimitoarea poziție a tunului de 9 cm.",
         "en": "Your morning starts with a brief stop at the Spasić and Mašera monument before diving deep into the massive Naval Heritage Collection. Midday involves a scenic drive up the coastal hills to uncover the mysterious round Austrian ruins. Afternoon turns into a profound historical journey exploring WWI anti-aircraft and field fortifications scattered across the landscape. Evening concludes admiring the 9cm cannon position."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für Tivat bei Regen. Morgens besuchen wir das Denkmal und das Museum, wobei wir trocken von Tür zu Tür gelangen. Mittags erkunden wir die höher gelegenen österreichischen Befestigungen, die in den Wolken fast mystisch wirken. Die Straßen können bei Nässe rutschig sein, daher fahren wir vorsichtig. Am Nachmittag genießen wir den Ausblick aus dem warmen Auto, bevor wir den Tag in der Marina beenden.",
+            "hu": "Az autó a legjobb választás esős időben Tivat környékén. Reggel az emlékművet és a múzeumot látogatjuk meg, szárazon jutva el ajtótól ajtóig. Napközben a magasabban fekvő osztrák erődítményeket fedezzük fel, amelyek a felhők között szinte misztikusak. Az utak esőben csúszósak lehetnek, így óvatosan vezetünk. Délután a meleg autóból csodáljuk a tájat, majd a marinában zárjuk a napot.",
+            "ro": "Mașina este cea mai bună alegere pentru Tivat pe ploaie. Dimineața vizităm monumentul și muzeul, ajungând uscați de la o destinație la alta. La prânz explorăm fortificațiile austriece mai înalte, care par mistice printre nori. Drumurile pot fi alunecoase, așa că conducem cu grijă. După-amiaza admirăm peisajul din confortul mașinii înainte de a încheia ziua în marină.",
+            "en": "A car is the ultimate way to explore Tivat during the rain. In the morning, we hit the monument and museum, staying dry from door to door. At noon, we head up to the Austrian fortifications, which look mystical shrouded in clouds. Roads can be slick, so we drive carefully. In the afternoon, we enjoy the sweeping views from the warm car before finishing the day at the marina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Denkmal für Spasić und Mašera",
+                "hu": "Spasić és Mašera Emlékmű",
+                "ro": "Monumentul lui Spasić și Mašera",
+                "en": "Spomenik Spasiću i Mašeri"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Parkeingang, um den kurzen Fußweg zum Denkmal bei Regen zu minimieren.",
+                "hu": "Parkolj a lehető legközelebb a park bejáratához, hogy minimálisra csökkentsd az emlékműhöz vezető gyalogutat az esőben.",
+                "ro": "Parcați cât mai aproape de intrarea în parc pentru a minimiza mersul pe jos până la monument pe ploaie.",
+                "en": "Park as close to the park entrance as possible to minimize the short walk to the monument in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Marinemuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Patrimoniului Naval",
+                "en": "Naval Heritage Collection Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; nutzen Sie das Parkhaus in Porto Montenegro für einen völlig trockenen Zugang zum Museumsbereich.",
+                "hu": "Tökéletes megálló esőben; használd Porto Montenegro parkolóházát, hogy teljesen szárazon juss el a múzeum környékére.",
+                "ro": "O oprire perfectă pe ploaie; folosiți parcarea etajată din Porto Montenegro pentru un acces complet uscat spre zona muzeului.",
+                "en": "A perfect rainy day stop; use the Porto Montenegro parking garage for completely dry access to the museum area."
+              }
+            },
+            {
+              "name": {
+                "de": "Runde Ruinen",
+                "hu": "Kör alakú romok",
+                "ro": "Ruine circulare",
+                "en": "Round shape ruins"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Regen matschig sein; parken Sie auf festem Grund und achten Sie auf die Sichtverhältnisse in den Kurven.",
+                "hu": "A keskeny bekötőút sáros lehet esőben; parkolj szilárd talajon, és ügyelj a látási viszonyokra a kanyarokban.",
+                "ro": "Drumul îngust de acces poate fi noroios pe ploaie; parcați pe teren solid și atenție la vizibilitate în curbe.",
+                "en": "The narrow access road can be muddy in the rain; park on firm ground and watch your visibility in the sharp turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Österreichische Flak-Ausrüstung",
+                "hu": "Osztrák légvédelmi felszerelés",
+                "ro": "Echipament antiaerian austriac",
+                "en": "Austrian anti-aircraft equipment"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und betrachten Sie die historischen Überreste aus dem Fenster; die Aussicht ist auch so beeindruckend.",
+                "hu": "Heves esőben maradj az autóban, és az ablakból nézd meg a történelmi maradványokat; a kilátás így is lenyűgöző.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și observați vestigiile istorice pe geam; priveliștea este impresionantă oricum.",
+                "en": "During heavy rain, stay in the car and view the historical remains through the window; the vista remains impressive regardless."
+              }
+            },
+            {
+              "name": {
+                "de": "Österreichische Feldbefestigungen",
+                "hu": "Osztrák tábori erődítmények",
+                "ro": "Fortificații de câmp austriece",
+                "en": "Ruins of Austrian field fortifications"
+              },
+              "tip_5lang": {
+                "de": "Die Steine an den Ruinen sind extrem rutschig; tragen Sie festes Schuhwerk mit gutem Profil für den kurzen Weg vom Parkplatz.",
+                "hu": "A romok kövei rendkívül csúszósak; viselj jó tapadású, túrázásra alkalmas cipőt a parkolótól vezető rövid úton.",
+                "ro": "Pietrele ruinelor sunt extrem de alunecoase; purtați încălțăminte cu aderență bună pentru drumul scurt de la parcare.",
+                "en": "The stones at the ruins are extremely slippery; wear sturdy shoes with good grip for the short walk from the parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Österreichische Artilleriestellung",
+                "hu": "Osztrák tüzérségi állás",
+                "ro": "Poziție de artilerie austriacă",
+                "en": "Austrian artillery position"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Wolken oft tief hängen; die dramatische Atmosphäre bei Regen macht diesen Ort besonders fotogen.",
+                "hu": "Vezess óvatosan, mert a felhők gyakran alacsonyan szállnak; az esős időben kialakuló drámai hangulat különösen fotogénné teszi a helyet.",
+                "ro": "Conduceți cu grijă deoarece norii sunt adesea joși; atmosfera dramatică pe ploaie face acest loc deosebit de fotogenic.",
+                "en": "Drive carefully as clouds often hang low here; the dramatic rainy atmosphere makes this location especially photogenic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Tivat bietet Komfort und Flexibilität. Morgens erkunden wir die Museen im Tal. Mittags fahren wir hinauf zu den österreichischen Festungen, wo die Wintersonne die Bucht in ein magisches Licht taucht. Die Sicht ist im Winter oft besser als im Sommer. Da es ab 17:00 Uhr dunkel wird, planen wir die Rückfahrt über die Serpentinen rechtzeitig ein, um den Sonnenuntergang sicher zu erleben.",
+            "hu": "A téli autós túra Tivat környékén kényelmet és rugalmasságot nyújt. Reggel a völgyben lévő múzeumokat látogatjuk meg. Napközben felhajtunk az osztrák erődökhöz, ahol a téli napfény mágikus fénybe öltözteti az öblöt. A látótávolság télen gyakran sokkal jobb. Mivel 17:00-kor sötétedik, a szerpentineken való visszautat időben megkezdjük, hogy biztonságban lássuk a naplementét.",
+            "ro": "Un tur de iarnă cu mașina prin Tivat oferă confort și flexibilitate. Dimineața explorăm muzeele din vale. La prânz urcăm spre fortărețele austriece, unde soarele de iarnă scaldă golful într-o lumină magică. Vizibilitatea este adesea mai bună iarna. Deoarece se întunecă la 17:00, planificăm coborârea pe serpentine din timp pentru a vedea apusul în siguranță.",
+            "en": "A winter car tour of Tivat offers both comfort and flexibility. In the morning, we explore the museums on the coast. At noon, we drive up to the Austrian forts where the winter sun casts a magical glow over the bay. Visibility is often superior in winter. Since it gets dark by 17:00, we time our descent down the serpentines to catch the sunset safely from a good vantage point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Denkmal für Spasić und Mašera",
+                "hu": "Spasić és Mašera Emlékmű",
+                "ro": "Monumentul lui Spasić și Mašera",
+                "en": "Spomenik Spasiću i Mašeri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung Ihres Autos, um nach dem kurzen Spaziergang im kühlen Park schnell wieder aufzuwärmen.",
+                "hu": "Használd az autó fűtését, hogy a hűvös parkban tett rövid séta után gyorsan újra felmelegedj.",
+                "ro": "Folosiți încălzirea mașinii pentru a vă reîncălzi rapid după scurta plimbare prin parcul răcoros.",
+                "en": "Use your car's heater to warm up quickly after the short, brisk walk through the cool winter park."
+              }
+            },
+            {
+              "name": {
+                "de": "Marinemuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Patrimoniului Naval",
+                "en": "Naval Heritage Collection Museum"
+              },
+              "tip_5lang": {
+                "de": "Im Winter gibt es meist genügend freie Parkplätze direkt vor dem Museum, was den Weg durch die Kälte verkürzt.",
+                "hu": "Télen általában rengeteg szabad parkolóhely van közvetlenül a múzeum előtt, így lerövidítheted a hidegben való gyaloglást.",
+                "ro": "Iarna există de obicei suficiente locuri de parcare libere chiar în fața muzeului, scurtând drumul prin frig.",
+                "en": "In winter, there are usually plenty of free parking spots right in front of the museum, shortening your walk through the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Runde Ruinen",
+                "hu": "Kör alakú romok",
+                "ro": "Ruine circulare",
+                "en": "Round shape ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die verschneiten Berge im Norden ist im Winter von hier aus oft atemberaubend klar.",
+                "hu": "A távoli kilátás az északi havas hegyekre télen gyakran lélegzetelállítóan tiszta erről a pontról.",
+                "ro": "Priveliștea spre munții înzăpeziți din nord este adesea uluitor de clară de aici în timpul iernii.",
+                "en": "The long-distance view of the snow-covered mountains to the north is often breathtakingly clear from here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Österreichische Flak-Ausrüstung",
+                "hu": "Osztrák légvédelmi felszerelés",
+                "ro": "Echipament antiaerian austriac",
+                "en": "Austrian anti-aircraft equipment"
+              },
+              "tip_5lang": {
+                "de": "Die Höhenluft ist hier oben deutlich kälter; lassen Sie den Motor nicht zu lange im Leerlauf laufen, wenn Sie die Aussicht genießen.",
+                "hu": "A hegyi levegő itt jóval hidegebb; ne hagyd túl sokáig alapjáraton a motort, miközben a kilátásban gyönyörködsz.",
+                "ro": "Aerul de munte este mult mai rece aici; nu lăsați motorul pornit la relanti prea mult timp în timp ce admirați peisajul.",
+                "en": "The mountain air is much colder up here; don't leave the engine idling too long while you stop to admire the winter scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Österreichische Feldbefestigungen",
+                "hu": "Osztrák tábori erődítmények",
+                "ro": "Fortificații de câmp austriece",
+                "en": "Ruins of Austrian field fortifications"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn die Sonne am höchsten steht, um die maximale Wärme für die Erkundung der Ruinen zu nutzen.",
+                "hu": "Délidőben látogass ide, amikor a legmagasabban jár a nap, hogy kihasználd a maximális meleget a romok felfedezéséhez.",
+                "ro": "Vizitați acest loc la prânz, când soarele este cel mai sus, pentru a profita de căldura maximă în timp ce explorați ruinele.",
+                "en": "Visit this spot at midday when the sun is at its peak to take advantage of the maximum warmth while exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Österreichische Artilleriestellung",
+                "hu": "Osztrák tüzérségi állás",
+                "ro": "Poziție de artilerie austriacă",
+                "en": "Austrian artillery position"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisbildung auf den Schattenseiten der Bergstraße; treten Sie den Rückweg spätestens um 16:30 Uhr an.",
+                "hu": "Ügyelj az esetleges jegesedésre a hegyi út árnyékos részein; legkésőbb 16:30-kor indulj vissza a városba.",
+                "ro": "Atenție la posibila gheață pe porțiunile umbrite ale drumului montan; începeți coborârea cel târziu la ora 16:30.",
+                "en": "Watch out for potential ice on shaded parts of the mountain road; start your return journey by 16:30 at the latest."
+              }
+            }
+          ]
+        }
       }
     }
   }

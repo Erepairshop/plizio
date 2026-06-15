@@ -137,6 +137,168 @@
         "hu": "Egy kényelmes sétával indítjuk a napot Les Gets történelmi városházájánál. Ezt követően a művészetek kedvelői az Art'n Chéry galériát fedezhetik fel. Ebéd után a mechanikus hangszerek különleges múzeuma vár mindenkit egy varázslatos zenei időutazásra. A délutánt a tónál töltjük, ahol a Wibit vízi kalandpark és az Altalumina fényes élményei nyújtanak tökéletes befejezést.",
         "ro": "O plimbare relaxantă prin Les Gets începe dimineața cu explorarea primăriei istorice. Apoi vizităm galeria Art'n Chéry pentru o incursiune culturală locală. După prânz, Muzeul de muzică mecanică vă va încânta cu colecția sa sonoră fascinantă. După-amiaza târzie se încheie la lac, bucurându-vă de distracția din parcul acvatic Wibit și atracțiile de la Altalumina.",
         "en": "A relaxing stroll through Les Gets begins in the morning exploring the historic town hall. Afterwards, we visit the Art'n Chéry gallery for local cultural insights. Following lunch, the mechanical music museum offers a fascinating audible journey back in time. The late afternoon concludes playfully by the lake, enjoying the Wibit water park and the illuminated fun at Altalumina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Rathausplatz, wo man unter den Arkaden Schutz suchen kann. Mittags bieten die Museen im Ortskern eine wunderbare Flucht vor dem Regen in die Welt der Kunst und Musik. Am Nachmittag führt der Weg zum Lac des Écoles; der Wald verströmt bei Regen einen intensiven Duft. Der Abend endet gemütlich in einer warmen Brasserie bei lokalem Käsefondue, während es draußen regnet.",
+            "hu": "A reggel a városháza környékén indul, ahol a fedett részeken várakozhatunk. Délben a galériák és múzeumok nyújtanak menedéket a záporok elől, elmerülve a mechanikus hangszerek világában. Délután a Lac des Écoles környéki erdő misztikus párájában sétálunk, vízálló cipőben. Az este egy hangulatos helyi étteremben ér véget, ahol a kopogó eső mellett élvezhetjük a forró francia specialitásokat.",
+            "ro": "Dimineața începe la primărie, un loc bun pentru a verifica prognoza sub adăpost. La prânz, muzeele din centru oferă o evadare perfectă din calea ploii, explorând arta și muzica locală. După-amiaza, plimbarea spre lac dezvăluie o pădure plină de prospețime și arome intense. Seara se încheie într-o atmosferă caldă, la un restaurant local, ascultând ploaia de afară cu un pahar de vin în mână.",
+            "en": "The morning starts at the town hall square, where you can find shelter under the eaves. Midday is spent in the village museums, a perfect dry escape into the world of mechanical music and art. In the afternoon, the walk to the lake offers a moody forest atmosphere; waterproof gear is essential. The evening concludes in a cozy local eatery, enjoying warm Savoyard dishes while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Les Gets",
+                "hu": "Les Gets Városháza",
+                "ro": "Primăria Les Gets",
+                "en": "Les Gets Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um den Ortsplan zu studieren; halten Sie Ihren Regenschirm bereit für den kurzen Weg zur Hauptstraße.",
+                "hu": "Használd a bejárat feletti előtetőt a térkép böngészéséhez; készítsd elő az esernyőt a főutca felé tartó rövid, de vizes sétához.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a studia harta orașului; pregătiți umbrela pentru scurta plimbare spre strada principală.",
+                "en": "Use the sheltered entrance area to study the town map; keep your umbrella ready for the short but wet walk toward the main street."
+              }
+            },
+            {
+              "name": {
+                "de": "Art'n Chéry",
+                "hu": "Art'n Chéry",
+                "ro": "Art'n Chéry",
+                "en": "Art'n Chéry"
+              },
+              "tip_4lang": {
+                "de": "Diese Galerie ist der perfekte Ort, um moderne Kunst im Trockenen zu genießen; nutzen Sie den Schirmständer am Eingang für Ihre nasse Ausrüstung.",
+                "hu": "Ez a galéria tökéletes hely a modern művészet élvezetére szárazon; használd a bejáratnál lévő esernyőtartót a vizes felszerelésednek.",
+                "ro": "Această galerie este locul perfect pentru a savura arta modernă la adăpost; folosiți suportul de umbrele de la intrare pentru echipamentul ud.",
+                "en": "This gallery is the perfect spot to enjoy modern art while staying dry; use the umbrella stand at the entrance for your wet gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für mechanische Musik",
+                "hu": "Mechanikus Zene Múzeuma",
+                "ro": "Muzeul de muzică mecanică",
+                "en": "Mechanical Music Museum"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Zufluchtsort bei Dauerregen; die mechanischen Melodien lassen Sie das trübe Wetter draußen schnell vergessen.",
+                "hu": "Ideális menedék tartós eső esetén; a mechanikus dallamok gyorsan elfeledtetik veled a kinti borús és barátságtalan időjárást.",
+                "ro": "Un refugiu ideal în caz de ploaie persistentă; melodiile mecanice vă vor face să uitați rapid de vremea mohorâtă de afară.",
+                "en": "An ideal sanctuary during persistent rain; the mechanical melodies will make you quickly forget the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wibit Les Gets",
+                "hu": "Wibit Les Gets",
+                "ro": "Wibit Les Gets",
+                "en": "Wibit Les Gets"
+              },
+              "tip_4lang": {
+                "de": "Bei Regen ist der Parkplatz oft schlammig; bleiben Sie auf den befestigten Wegen rund um den See und tragen Sie wasserfeste Schuhe.",
+                "hu": "Esőben a parkoló gyakran sáros; maradj a tó körüli kövezett utakon és viselj vízálló bakancsot a kényelmes haladás érdekében.",
+                "ro": "În caz de ploaie, parcarea este adesea noroioasă; rămâneți pe potecile pavate din jurul lacului și purtați încălțăminte impermeabilă.",
+                "en": "In the rain, the parking area is often muddy; stay on the paved paths around the lake and wear waterproof boots for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Altalumina",
+                "hu": "Altalumina",
+                "ro": "Altalumina",
+                "en": "Altalumina"
+              },
+              "tip_4lang": {
+                "de": "Der Waldweg kann rutschig sein; gehen Sie vorsichtig und genießen Sie die mystische Atmosphäre, die der Regen zwischen den Lichtern erzeugt.",
+                "hu": "Az erdei út csúszós lehet; járj óvatosan, és élvezd a misztikus hangulatot, amit az eső kelt a fények között az éjszakában.",
+                "ro": "Poteca prin pădure poate fi alunecoasă; mergeți cu atenție și bucurați-vă de atmosfera mistică creată de ploaie printre lumini.",
+                "en": "The forest path can be slippery; walk carefully and enjoy the mystical atmosphere that the rain creates among the lights at night."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Rathaus, umgeben von schneebedeckten Gipfeln. Mittags wärmen wir uns in den Museen auf, während draußen die Flocken tanzen. Am Nachmittag bietet der gefrorene See eine märchenhafte Kulisse für einen Spaziergang im Schnee. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den Abend bei Kerzenschein und heißer Schokolade im beleuchteten Bergdorf.",
+            "hu": "A téli reggel frissen indul a városházánál, hófödte csúcsok ölelésében. Délben a múzeumok melegében engedünk fel, miközben odakint sűrűn esik a hó. Délután a befagyott tó és a havas fenyvesek mesebeli díszletet adnak a sétához. Mivel a nap már 17:00 körül lemegy, az estét gyertyafény és forró csokoládé mellett töltjük a kivilágított alpesi faluban.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la primărie, înconjurată de vârfuri înzăpezite. La prânz ne încălzim în muzee, în timp ce afară fulgii dansează. După-amiaza, lacul înghețat oferă un decor de basm pentru o plimbare prin zăpadă. Deoarece soarele apune deja în jur de ora 17:00, savurăm seara la lumina lumânărilor cu o ciocolată caldă în satul iluminat.",
+            "en": "The winter morning starts crisp at the town hall, surrounded by snow-capped peaks. Midday is for warming up in the museums while snowflakes dance outside. In the afternoon, the frozen lake and snowy pines provide a fairytale backdrop for a walk. As the sun sets around 17:00, we enjoy the evening by candlelight with hot chocolate in the glowing alpine village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Les Gets",
+                "hu": "Les Gets Városháza",
+                "ro": "Primăria Les Gets",
+                "en": "Les Gets Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf Glatteis auf den Gehwegen; die Treppen zum Rathaus werden zwar geräumt, können aber dennoch tückisch glatt sein.",
+                "hu": "Vigyázz a jeges szakaszokra a járdákon; a városházához vezető lépcsőket takarítják, de még így is csalókán csúszósak lehetnek.",
+                "ro": "Atenție la porțiunile cu gheață de pe trotuare; treptele primăriei sunt curățate, dar pot rămâne înșelător de alunecoase.",
+                "en": "Watch out for icy patches on the sidewalks; the town hall steps are cleared but can still be deceptively slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Art'n Chéry",
+                "hu": "Art'n Chéry",
+                "ro": "Art'n Chéry",
+                "en": "Art'n Chéry"
+              },
+              "tip_4lang": {
+                "de": "Ein herrlich beheizter Ort, um der Kälte zu entfliehen; bewundern Sie die Kunstwerke, während Sie Ihre Hände und Füße aufwärmen.",
+                "hu": "Pompásan fűtött hely, ahol elmenekülhetsz a hideg elől; csodáld meg a műalkotásokat, miközben felmelegíted a kezedet és a lábadat.",
+                "ro": "Un loc minunat de încălzit pentru a scăpa de frig; admirați operele de artă în timp ce vă încălziți mâinile și picioarele.",
+                "en": "A wonderfully heated place to escape the cold; admire the artworks while warming up your hands and feet inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für mechanische Musik",
+                "hu": "Mechanikus Zene Múzeuma",
+                "ro": "Muzeul de muzică mecanică",
+                "en": "Mechanical Music Museum"
+              },
+              "tip_4lang": {
+                "de": "Lassen Sie Ihre schweren Winterjacken an der Garderobe, damit Sie den Rundgang durch die warme Ausstellung entspannt genießen können.",
+                "hu": "Hagyd a nehéz télikabátodat a ruhatárban, hogy kényelmesen élvezhesd a sétát a meleg kiállítótermekben a hangszerek között.",
+                "ro": "Lăsați hainele groase de iarnă la garderobă pentru a vă bucura relaxat de turul prin expoziția călduroasă și primitoare.",
+                "en": "Leave your heavy winter coats at the cloakroom so you can relax and enjoy the tour through the warm exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Wibit Les Gets",
+                "hu": "Wibit Les Gets",
+                "ro": "Wibit Les Gets",
+                "en": "Wibit Les Gets"
+              },
+              "tip_4lang": {
+                "de": "Der See ist im Winter oft zugefroren; betreten Sie die Eisfläche nicht, sondern genießen Sie den Anblick vom sicheren Uferweg aus.",
+                "hu": "A tó télen gyakran befagy; ne lépj a jégfelületre, inkább élvezd a látványt a biztonságos part menti sétányról maradva.",
+                "ro": "Lacul este adesea înghețat iarna; nu pășiți pe suprafața gheții, ci bucurați-vă de priveliște de pe poteca sigură de pe mal.",
+                "en": "The lake is often frozen in winter; do not step onto the ice surface, but enjoy the view from the safe shoreline path instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Altalumina",
+                "hu": "Altalumina",
+                "ro": "Altalumina",
+                "en": "Altalumina"
+              },
+              "tip_4lang": {
+                "de": "In der Kälte entladen sich Akkus schneller; halten Sie Ihr Handy nah am Körper, um die magischen Lichter im Schnee fotografieren zu können.",
+                "hu": "Hidegben az akkumulátorok gyorsabban merülnek; tartsd a telefonodat a tested közelében, hogy lefotózhasd a mágikus fényeket a hóban.",
+                "ro": "Bateriile se descarcă mai repede la frig; țineți telefonul aproape de corp pentru a putea fotografia luminile magice din zăpadă.",
+                "en": "Batteries drain faster in the cold; keep your phone close to your body to ensure you can photograph the magical lights in the snow."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpárra pattanva még intenzívebben élhetjük át Les Gets alpesi hangulatát, kezdve a városházánál. A páratlan zenei múzeum után feltekerünk a Le Pleney magaslataira, ahonnan csodás panoráma tárul elénk. A délután felfrissülést ígér a tónál található Wibit víziparkban. A napot egy izgalmas és felejthetetlen száguldás zárja a négyévszakos szánkópályán.",
         "ro": "Pe bicicletă, satul alpin Les Gets se dezvăluie dimineața la primărie și la fascinantul muzeu de muzică. Ne continuăm drumul pedalând spre Le Pleney pentru a admira peisajele montane absolut spectaculoase. După-amiaza promite o împrospătare la lacul unde se află parcul acvatic Wibit. Traseul se încheie perfect cu o cursă plină de adrenalină pe sania de vară Luge 4 saisons.",
         "en": "By bike, the alpine village of Les Gets is experienced even more intensely, starting morning at the town hall. After the unique mechanical music museum, we pedal up to Le Pleney for spectacular mountain panoramas. The afternoon promises refreshment by the lake at the Wibit water park. A perfect conclusion is provided by a thrilling ride on the Luge 4 saisons alpine coaster."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert Vorsicht auf den asphaltierten Wegen im Dorf. Wir starten am Rathaus und nutzen die Museen für trockene Pausen. Mittags geht es bergauf Richtung Le Pleney, wo die Wolken tief in den Tälern hängen. Die Abfahrt erfordert volle Konzentration bei nasser Fahrbahn. Der Nachmittag endet mit einer rasanten, aber feuchten Fahrt auf der Sommerrodelbahn.",
+            "hu": "Az esős kerékpáros nap óvatosságot igényel a falu aszfaltozott útjain. A városházától indulunk, a múzeumokat használva száraz pihenőkre. Délben a Le Pleney felé vesszük az irányt, ahol a felhők mélyen ülnek a völgyekben. A lejtmenet teljes koncentrációt igényel a vizes úton. A délután egy gyors, de nedves bobozással zárul a szabadban.",
+            "ro": "O zi de bicicletă pe ploaie necesită prudență pe drumurile asfaltate din sat. Pornim de la primărie, folosind muzeele pentru pauze uscate. La prânz urcăm spre Le Pleney, unde norii stau jos în văi. Coborârea necesită concentrare maximă pe carosabilul umed. După-amiaza se încheie cu o cursă rapidă, dar umedă, pe pista de bob.",
+            "en": "A rainy bike day requires caution on the village's paved roads. We start at the town hall, using museums for dry breaks. At midday, we head toward Le Pleney, where clouds hang low in the valleys. The descent requires full concentration on the wet surface. The afternoon ends with a fast but damp ride on the four-season luge track."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Les Gets",
+                "hu": "Les Gets Városháza",
+                "ro": "Primăria Les Gets",
+                "en": "Les Gets Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; nasse Felgen verlängern den Bremsweg auf den steilen Dorfstraßen erheblich.",
+                "hu": "Ellenőrizd a fékeidet indulás előtt; a vizes felnik jelentősen meghosszabbítják a féktávot a meredek falusi utcákon.",
+                "ro": "Verificați frânele înainte de plecare; jantele umede prelungesc considerabil distanța de frânare pe străzile abrupte din sat.",
+                "en": "Check your brakes before setting off; wet rims significantly lengthen the braking distance on the steep village streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für mechanische Musik",
+                "hu": "Mechanikus Zene Múzeuma",
+                "ro": "Muzeul de muzică mecanică",
+                "en": "Mechanical Music Museum"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Pause, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Állítsd a kerékpárodat az előtető alá, és használd ki a szünetet, hogy röviden lerázd a vizet az esőruházatodról.",
+                "ro": "Parcați bicicleta sub copertină și profitați de pauză pentru a scutura scurt echipamentul de ploaie înainte de vizită.",
+                "en": "Park your bike under the overhang and use the break to briefly shake the water off your rain gear before heading inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pleney",
+                "hu": "Le Pleney",
+                "ro": "Le Pleney",
+                "en": "Le Pleney"
+              },
+              "tip_4lang": {
+                "de": "Die Sicht kann eingeschränkt sein; fahren Sie mit Licht und achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "A látótávolság korlátozott lehet; használj lámpát és vigyázz a tócsákra, amelyek mély kátyúkat rejthetnek az út mentén.",
+                "ro": "Vizibilitatea poate fi redusă; folosiți luminile și atenție la bălțile care pot ascunde gropi adânci pe marginea drumului.",
+                "en": "Visibility may be limited; use your lights and watch out for puddles that could hide deep potholes along the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Wibit Les Gets",
+                "hu": "Wibit Les Gets",
+                "ro": "Wibit Les Gets",
+                "en": "Wibit Les Gets"
+              },
+              "tip_4lang": {
+                "de": "Der Boden ist hier oft rutschig; steigen Sie vom Rad ab und schieben Sie es auf den Grasflächen, um Stürze zu vermeiden.",
+                "hu": "A talaj itt gyakran csúszós; szállj le a bicikliről és told a füves részeken, hogy elkerüld az eséseket a vizes füvön.",
+                "ro": "Terenul este adesea alunecos aici; coborâți de pe bicicletă și împingeți-o pe iarbă pentru a evita căzăturile pe porțiunile umede.",
+                "en": "The ground is often slippery here; get off your bike and push it on the grassy areas to avoid falls on the wet turf."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge 4 saisons",
+                "hu": "Luge 4 saisons",
+                "ro": "Luge 4 saisons",
+                "en": "Luge 4 saisons"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie bei Regen das Plexiglas-Verdeck des Bobs; so bleiben Sie während der rasanten Fahrt trocken und geschützt.",
+                "hu": "Használd a bob plexi tetőjét esőben; így száraz és védett maradsz a gyors lejtmenet során a csapadéktól.",
+                "ro": "Folosiți copertina de plexiglas a bobului pe ploaie; astfel veți rămâne uscat și protejat în timpul coborârii rapide.",
+                "en": "Use the bob's plexiglass cover in the rain; this way you'll stay dry and protected during the fast-paced descent."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Biken im Winter ist ein echtes Abenteuer auf den geräumten Wegen. Wir starten am Rathaus und genießen die kalte, klare Luft. Mittags bietet das Museum eine willkommene Aufwärmpause. Die Fahrt hoch zum Le Pleney belohnt mit Panoramablicken auf die Skipisten. Am Nachmittag sausen wir auf der Rodelbahn ins Tal, bevor die Dämmerung gegen 17:00 Uhr das Dorf in warmes Licht taucht.",
+            "hu": "A téli bringázás valódi kaland a letakarított utakon. A városházától indulunk, élvezve a hideg, tiszta hegyi levegőt. Délben a múzeum nyújt szívesen látott melegedőt. A Le Pleney-hez vezető út panorámás kilátással jutalmaz a sípályákra. Délután a bobpályán suhanunk a völgybe, mielőtt a 17:00 körüli szürkület meleg fénybe öltözteti a falut.",
+            "ro": "Mersul cu bicicleta iarna este o adevărată aventură pe drumurile curățate. Pornim de la primărie și ne bucurăm de aerul rece și curat. La prânz, muzeul oferă o pauză binemeritată de încălzire. Drumul spre Le Pleney recompensează cu vederi panoramice asupra pârtiilor. După-amiaza coborâm cu bobul în vale, înainte ca amurgul de la ora 17:00 să scalde satul în lumină.",
+            "en": "Biking in winter is a true adventure on the cleared paths. We start at the town hall, enjoying the cold, clear mountain air. Midday offers a welcome warming break in the museum. The ride up to Le Pleney rewards with panoramic views of the ski slopes. In the afternoon, we whiz down the luge track before twilight at 17:00 bathes the village in warm light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Les Gets",
+                "hu": "Les Gets Városháza",
+                "ro": "Primăria Les Gets",
+                "en": "Les Gets Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Tragen Sie winddichte Handschuhe; der Fahrtwind bei Minustemperaturen lässt Ihre Finger sonst extrem schnell auskühlen.",
+                "hu": "Viselj szélálló kesztyűt; a menetszél mínuszokban rendkívül gyorsan lehűti az ujjaidat a kormányon tartva.",
+                "ro": "Purtați mănuși rezistente la vânt; curentul de aer la temperaturi negative vă va îngheța degetele extrem de repede.",
+                "en": "Wear windproof gloves; the wind chill at sub-zero temperatures will freeze your fingers extremely quickly on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für mechanische Musik",
+                "hu": "Mechanikus Zene Múzeuma",
+                "ro": "Muzeul de muzică mecanică",
+                "en": "Mechanical Music Museum"
+              },
+              "tip_4lang": {
+                "de": "Die Wärme im Inneren ist herrlich, aber achten Sie auf den Temperaturunterschied beim Verlassen; schließen Sie Ihre Jacke rechtzeitig.",
+                "hu": "A benti meleg remek, de figyelj a hőmérséklet-különbségre távozáskor; húzd fel a kabátodat időben az ajtóhoz érve.",
+                "ro": "Căldura din interior este minunată, dar atenție la diferența de temperatură la plecare; închideți jacheta din timp.",
+                "en": "The warmth inside is wonderful, but watch out for the temperature drop when leaving; zip up your jacket well in advance."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pleney",
+                "hu": "Le Pleney",
+                "ro": "Le Pleney",
+                "en": "Le Pleney"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf Skifahrer, die die Wege kreuzen könnten; die Wege in der Nähe der Pisten können sehr vereist sein.",
+                "hu": "Figyelj a síelőkre, akik keresztezhetik az utat; a sípályák közeli szakaszok nagyon jegesek és csúszósak lehetnek.",
+                "ro": "Atenție la schiorii care ar putea traversa drumul; porțiunile de lângă pârtii pot fi foarte înghețate și alunecoase.",
+                "en": "Watch out for skiers who might cross the path; the sections near the slopes can be very icy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Wibit Les Gets",
+                "hu": "Wibit Les Gets",
+                "ro": "Wibit Les Gets",
+                "en": "Wibit Les Gets"
+              },
+              "tip_4lang": {
+                "de": "Halten Sie kurz an, um das Bergpanorama im Schnee zu bewundern; bewegen Sie Ihre Zehen regelmäßig, um die Durchblutung zu fördern.",
+                "hu": "Állj meg egy pillanatra megcsodálni a havas panorámát; mozgasd a lábujjaidat rendszeresen a keringés fenntartása érdekében.",
+                "ro": "Opriți-vă scurt pentru a admira panorama montană înzăpezită; mișcați degetele de la picioare regulat pentru circulație.",
+                "en": "Stop briefly to admire the snowy mountain panorama; wiggle your toes regularly to maintain circulation in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge 4 saisons",
+                "hu": "Luge 4 saisons",
+                "ro": "Luge 4 saisons",
+                "en": "Luge 4 saisons"
+              },
+              "tip_4lang": {
+                "de": "Der Fahrtwind ist im Winter eisig; ziehen Sie Ihren Schal hoch über die Nase, um das Gesicht vor der Kälte zu schützen.",
+                "hu": "A menetszél télen jeges; húzd fel a sáladat az orrodig, hogy megvédd az arcodat a fagyos levegőtől a száguldás alatt.",
+                "ro": "Curentul de aer este înghețat iarna; ridicați fularul peste nas pentru a vă proteja fața de frig în timpul coborârii.",
+                "en": "The wind chill is icy in winter; pull your scarf up over your nose to protect your face from the freezing air while racing down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Egy átfogó autós túra a Mont Chéry lélegzetelállító hegyi panorámájával veszi kezdetét. Ezután a központba hajtunk a városházához, és belehallgatunk a zenei múzeum varázslatos dallamaiba. A pancsoló melletti pihenő után a hegyi bobpálya kínál némi adrenalint. A nap békésen, a Pointe de la Turche festői természeti környezetében zárul.",
         "ro": "Un tur auto extins începe cu peisaje montane uluitoare la Mont Chéry. Apoi coborâm în centru spre primărie și ne bucurăm de melodiile din muzeul de muzică mecanică. După o pauză la fermecătoarea zonă de recreere, aventura prinde viteză la pista de sanie alpină. Ziua se încheie pașnic în mijlocul naturii pitorești de la Pointe de la Turche.",
         "en": "An extensive driving tour begins with breathtaking mountain panoramas at Mont Chéry. We then head to the town hall and listen to the magical melodies in the mechanical music museum. After a break at the charming paddling area, the adventure speeds up at the alpine coaster. The day concludes peacefully surrounded by the picturesque nature of Pointe de la Turche."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Les Gets auch bei Regen komfortabel. Wir starten mit dem Panorama am Mont Chéry, wo die Wolken tief hängen. Mittags bieten das Rathaus und die Museen trockene Zwischenstopps. Am Nachmittag führt die Fahrt zum Kinderbecken, das bei Regen eine ruhige Atmosphäre ausstrahlt. Den Tag beenden wir an der Pointe de la Turche mit Blick auf das vernebelte Tal.",
+            "hu": "Autóval esőben is kényelmesen felfedezhetjük Les Gets környékét. A Mont Chéry panorámájával kezdünk, ahol a felhők mélyen ülnek. Délben a városháza és a múzeumok nyújtanak száraz megállókat. Délután a gyerekmedencéhez hajtunk, amely esőben nyugodt hangulatot áraszt. A napot a Pointe de la Turche-nál zárjuk, kilátással a ködös völgyre.",
+            "ro": "Cu mașina explorăm Les Gets confortabil chiar și pe ploaie. Începem cu panorama de la Mont Chéry, unde norii stau jos. La prânz, primăria și muzeele oferă opriri uscate. După-amiaza mergem la piscina pentru copii, care pe ploaie emană o atmosferă liniștită. Încheiem ziua la Pointe de la Turche, cu vedere spre valea cețoasă.",
+            "en": "By car, we explore Les Gets comfortably even in the rain. We start with the panorama at Mont Chéry, where clouds hang low. At midday, the town hall and museums provide dry stops. In the afternoon, we drive to the children's pool, which has a calm atmosphere in the rain. We end the day at Pointe de la Turche with a view over the misty valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mont Chéry",
+                "hu": "Mont Chéry",
+                "ro": "Mont Chéry",
+                "en": "Mont Chéry"
+              },
+              "tip_4lang": {
+                "de": "Die Bergstraße kann bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie den Blick auf das vernebelte Massiv direkt aus dem Auto.",
+                "hu": "A hegyi út esőben csúszós lehet; vezess óvatosan, és élvezd a kilátást a ködös hegyekre közvetlenül az autóból, ha kint túl vizes az idő.",
+                "ro": "Drumul montan poate fi alunecos pe ploaie; conduceți cu atenție și savurați vederea spre masivul cețos direct din mașină.",
+                "en": "The mountain road can be slippery in the rain; drive carefully and enjoy the view of the misty massif directly from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Les Gets",
+                "hu": "Les Gets Városháza",
+                "ro": "Primăria Les Gets",
+                "en": "Les Gets Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um schnell ins Trockene zu kommen; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Használd a közeli parkolót, hogy gyorsan száraz helyre érj; kiszálláskor ügyelj a mély tócsákra az út szélén és a járdánál.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; atenție la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "Use the nearby parking to get to shelter quickly; watch out for deep puddles at the roadside when stepping out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für mechanische Musik",
+                "hu": "Mechanikus Zene Múzeuma",
+                "ro": "Muzeul de muzică mecanică",
+                "en": "Mechanical Music Museum"
+              },
+              "tip_4lang": {
+                "de": "Ein perfekter Stopp bei Regen; parken Sie direkt davor und lassen Sie sich von der Wärme und den Klängen im Inneren verzaubern.",
+                "hu": "Tökéletes megálló esőben; parkolj közvetlenül előtte, és hagyd, hogy a benti meleg és a dallamok elvarázsoljanak a látogatás alatt.",
+                "ro": "O oprire perfectă pe ploaie; parcați direct în față și lăsați-vă fermecat de căldura și sunetele din interior pe durata vizitei.",
+                "en": "A perfect stop in the rain; park directly in front and let the warmth and melodies inside enchant you during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinder-Planschbecken",
+                "hu": "Gyermek Pancsolómedence",
+                "ro": "Piscina de mică adâncime",
+                "en": "Children's Paddling Pool"
+              },
+              "tip_4lang": {
+                "de": "Der Außenbereich ist bei Regen verlassen, bietet aber eine mystische Fotokulisse; bleiben Sie für kurze Fotos in der Nähe des Autos.",
+                "hu": "A kültéri rész esőben elhagyatott, de misztikus fotótémát nyújt; maradj az autó közelében a rövid fotózás idejére a vizes fűben.",
+                "ro": "Zona exterioară este pustie pe ploaie, dar oferă un cadru mistic pentru poze; rămâneți aproape de mașină pentru fotografii scurte.",
+                "en": "The outdoor area is deserted in the rain but offers a mystical photo backdrop; stay near the car for quick photos in the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge 4 saisons",
+                "hu": "Luge 4 saisons",
+                "ro": "Luge 4 saisons",
+                "en": "Luge 4 saisons"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie am Fuße des Lifts; die Bobs sind mit Regenhauben ausgestattet, sodass der Fahrspaß auch bei Schauern garantiert ist.",
+                "hu": "Parkolj a lift lábánál; a bobok esővédővel vannak felszerelve, így a szórakozás záporok idején is garantált a pályán.",
+                "ro": "Parcați la baza liftului; boburile sunt dotate cu protecție pentru ploaie, astfel încât distracția este garantată și pe timp de aversă.",
+                "en": "Park at the base of the lift; the bobs are equipped with rain covers, so fun is guaranteed even during showers on the track."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de la Turche",
+                "hu": "Pointe de la Turche",
+                "ro": "Pointe de la Turche",
+                "en": "Pointe de la Turche"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Tal aus dem geschützten Fahrzeug; die Wolkenformationen bieten ein dramatisches Schauspiel.",
+                "hu": "Élvezd a kilátást az esős völgyre a védett járműből; a felhőalakzatok drámai látványt nyújtanak a ködös hegycsúcsok között.",
+                "ro": "Bucurați-vă de vederea spre valea ploioasă din vehiculul protejat; formațiunile noroase oferă un spectacol dramatic printre culmi.",
+                "en": "Enjoy the view of the rainy valley from the protected vehicle; the cloud formations offer a dramatic spectacle among the peaks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour führt uns durch das verschneite Les Gets. Wir beginnen am Mont Chéry mit weitem Blick über die Skipisten. Mittags wärmen wir uns im Dorfzentrum auf. Am Nachmittag führt die Route am schneebedeckten See vorbei zur Rodelbahn. Gegen 17:00 Uhr erleben wir den Sonnenuntergang von der Pointe de la Turche aus, bevor wir im Licht der Scheinwerfer ins Dorf zurückkehren.",
+            "hu": "A téli autós körút a havas Les Gets-en vezet keresztül. A Mont Chéry-nél kezdünk, tágas kilátással a sípályákra. Délben a faluközpontban melegedünk fel a múzeumokban. Délután az útvonal a hófödte tó mellett vezet a bobpályához. 17:00 körül a Pointe de la Turche-ról nézzük a naplementét, mielőtt a fényszórók fényében visszatérünk a faluba.",
+            "ro": "Un tur hibernal cu mașina ne poartă prin Les Gets înzăpezit. Începem la Mont Chéry cu o vedere largă asupra pârtiilor. La prânz ne încălzim în centrul satului la muzee. După-amiaza traseul trece pe lângă lacul înzăpezit spre pista de bob. În jur de ora 17:00 admirăm apusul de la Pointe de la Turche, înainte de a reveni în sat la lumina farurilor.",
+            "en": "A winter car tour takes us through snowy Les Gets. We start at Mont Chéry with wide views over the ski slopes. At midday, we warm up in the village center museums. In the afternoon, the route leads past the snow-covered lake to the luge track. Around 17:00, we watch the sunset from Pointe de la Turche before returning to the village by headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mont Chéry",
+                "hu": "Mont Chéry",
+                "ro": "Mont Chéry",
+                "en": "Mont Chéry"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto wintertauglich ist; die Auffahrt kann vereist sein. Genießen Sie das Alpenpanorama direkt vom Parkplatz aus.",
+                "hu": "Győződj meg róla, hogy az autód téliesítve van; a felfelé vezető út jeges lehet. Élvezd az alpesi panorámát közvetlenül a parkolóból.",
+                "ro": "Asigurați-vă că mașina este pregătită de iarnă; urcarea poate fi înghețată. Savurați panorama alpină direct din parcare.",
+                "en": "Ensure your car is winter-ready; the drive up can be icy. Enjoy the alpine panorama directly from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Les Gets",
+                "hu": "Les Gets Városháza",
+                "ro": "Primăria Les Gets",
+                "en": "Les Gets Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf Schneehaufen beim Parken; der Bereich wird geräumt, aber die Bordsteine können unter dem Schnee verborgen sein.",
+                "hu": "Vigyázz a hóbuckákra parkoláskor; a területet takarítják, de a padkák rejtve maradhatnak a hó alatt az út szélén.",
+                "ro": "Atenție la mormanele de zăpadă când parcați; zona este curățată, dar bordurile pot rămâne ascunse sub zăpadă la marginea drumului.",
+                "en": "Watch out for snow piles when parking; the area is cleared, but curbs may be hidden under the snow at the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für mechanische Musik",
+                "hu": "Mechanikus Zene Múzeuma",
+                "ro": "Muzeul de muzică mecanică",
+                "en": "Mechanical Music Museum"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Zeit zu vergessen, während draußen der Winterwind weht; nutzen Sie die Wärme für eine ausgiebige Besichtigung.",
+                "hu": "Ideális hely feledni az időt, miközben kint fúj a téli szél; használd ki a benti meleget egy alapos és kényelmes múzeumlátogatáshoz.",
+                "ro": "Un loc ideal pentru a uita de timp în timp ce afară suflă vântul de iarnă; profitați de căldura din interior pentru o vizită lungă.",
+                "en": "An ideal place to forget time while the winter wind blows outside; take advantage of the warmth for a thorough museum tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinder-Planschbecken",
+                "hu": "Gyermek Pancsolómedence",
+                "ro": "Piscina de mică adâncime",
+                "en": "Children's Paddling Pool"
+              },
+              "tip_4lang": {
+                "de": "Das Becken ist im Winter unter Schnee verborgen; genießen Sie die winterliche Stille und den Blick auf die verschneite Umgebung vom Auto aus.",
+                "hu": "A medence télen hó alatt rejtőzik; élvezd a téli csendet és a havas környezet látványát az autóból a parkolóban maradva.",
+                "ro": "Piscina este ascunsă sub zăpadă iarna; bucurați-vă de liniștea hibernală și de vederea asupra împrejurimilor înzăpezite din mașină.",
+                "en": "The pool is hidden under snow in winter; enjoy the winter silence and the view of the snowy surroundings from the car park."
+              }
+            },
+            {
+              "name": {
+                "de": "Luge 4 saisons",
+                "hu": "Luge 4 saisons",
+                "ro": "Luge 4 saisons",
+                "en": "Luge 4 saisons"
+              },
+              "tip_4lang": {
+                "de": "Die Rodelbahn ist auch im Schnee in Betrieb; kleiden Sie sich sehr warm, da der Fahrtwind bei Minustemperaturen besonders eisig ist.",
+                "hu": "A bobpálya hóban is üzemel; öltözz fel nagyon melegen, mivel a menetszél mínuszokban különösen fagyos a száguldás közben.",
+                "ro": "Pista de bob funcționează și pe zăpadă; îmbrăcați-vă foarte gros, deoarece curentul de aer la temperaturi negative este extrem de rece.",
+                "en": "The luge track operates even in snow; dress very warmly as the wind chill at sub-zero temperatures is especially icy during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de la Turche",
+                "hu": "Pointe de la Turche",
+                "ro": "Pointe de la Turche",
+                "en": "Pointe de la Turche"
+              },
+              "tip_4lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang im Schnee zu erleben; die Straße ist geräumt, erfordert aber Winterreifen.",
+                "hu": "Érkezz 16:45 előtt, hogy átéld a naplementét a hóban; az utat takarítják, de téli gumi és óvatosság elengedhetetlen a feljutáshoz.",
+                "ro": "Sosiți înainte de 16:45 pentru a vedea apusul în zăpadă; drumul este curățat, dar anvelopele de iarnă sunt obligatorii pentru siguranță.",
+                "en": "Arrive before 16:45 to catch the sunset in the snow; the road is cleared, but winter tires and caution are essential for the ascent."
+              }
+            }
+          ]
+        }
       }
     }
   }

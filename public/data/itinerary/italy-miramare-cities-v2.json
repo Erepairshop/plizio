@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi Scuderie-nél kezdődik, megalapozva a Miramare-kastély nagyszerűségének felfedezését. A délben a kastély festői kilátóponjaihoz és emlékműveihez érkezünk. Délután merüljön el a tudomány lenyűgöző világában, mielőtt a part felé venné az irányt. Az este a történelmi Bagno Sticco tengerpartján való pihenésre invitálja Önt a sós tengeri levegő élvezetével.",
         "ro": "Dimineața începe la istoricele Scuderie, pregătind terenul pentru explorarea grandorii Castelului Miramare. Prânzul face tranziția către punctele de belvedere pitorești și monumentele castelului. După-amiaza, pătrundeți în lumea fascinantă a științei înainte de a vă îndrepta spre coastă. Seara vă invită să vă relaxați la istoricul Bagno Sticco, respirând aerul mării.",
         "en": "Morning begins at the historic Scuderie, setting the stage for exploring the grandeur of Miramare Castle. Midday transitions to the castle's scenic viewpoints and monuments, offering spectacular photo opportunities. In the afternoon, dive into the fascinating world of science before heading towards the coast. Evening invites you to relax at the historic Bagno Sticco, breathing in the sea air."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in den Scuderie, die idealen Schutz bieten. Mittags laden die prunkvollen Säle von Schloss Miramare zum Verweilen im Trockenen ein. Nachmittags ist Vorsicht auf den rutschigen Wegen am Belvedere geboten, bevor das Science Centre mit Exponaten lockt. Den Abend lassen wir am Bagno Sticco ausklingen, wo die aufgewühlte Adria eine dramatische Kulisse bei Regen bietet.",
+            "hu": "A reggelt a Scuderie fedett kiállítóterében kezdjük, távol az esőtől. Délben a Miramare-kastély pazar belső terei nyújtanak menedéket a zord idő elől. Délután a Belvedere szikláinál vigyázzunk a csúszós kövekre, majd a Tudományos Központ interaktív termeiben töltődünk fel. Az estét a Bagno Sticco partszakaszán zárjuk, ahol a felkorbácsolt tenger látványa esőben is lenyűgöző.",
+            "ro": "Începeți dimineața la Scuderie, un spațiu expozițional ideal pentru a evita ploaia. La prânz, Castelul Miramare oferă un adăpost elegant în camerele sale istorice. După-amiaza, atenție la treptele alunecoase de la Belvedere, apoi vizitați Centrul de Știință pentru activități interactive. Seara se încheie la Bagno Sticco, unde marea agitată oferă un spectacol vizual dramatic sub ploaie.",
+            "en": "Start your morning at the Scuderie, where indoor exhibitions keep you dry. At noon, the opulent rooms of Miramare Castle provide a perfect sanctuary from the weather. In the afternoon, watch your step on the slippery paths near the Belvedere before heading to the Science Centre's indoor exhibits. End the day at Bagno Sticco, admiring the dramatic, rain-swept Adriatic coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scuderie",
+                "hu": "Scuderie",
+                "ro": "Scuderie",
+                "en": "Scuderie"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im ehemaligen Stallgebäude, das dicke Mauern und Schutz bietet; buchen Sie Tickets im Voraus, um Wartezeiten im Regen zu vermeiden.",
+                "hu": "Csodáljuk meg a kortárs kiállításokat az egykori istálló épületében, ahol a vastag falak között szárazon maradhatunk; érdemes előre jegyet váltani a sorban állás elkerülésére.",
+                "ro": "Admirați expozițiile contemporane în fosta clădire a grajdurilor, unde zidurile groase oferă protecție; cumpărați bilete în avans pentru a evita așteptarea în ploaie.",
+                "en": "Enjoy the contemporary art exhibitions in the former stable building, where thick walls keep you dry; booking tickets in advance is recommended to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Miramare",
+                "hu": "Miramare-kastély",
+                "ro": "Castelul Miramare",
+                "en": "Miramare Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die luxuriösen Gemächer von Erzherzog Maximilian, die perfekten Schutz bieten; das Trommeln des Regens verstärkt die romantische Atmosphäre im Schlossinneren.",
+                "hu": "Fedezzük fel Miksa főherceg fényűző lakosztályait, melyek tökéletes menedéket nyújtanak; a belső termekben az eső kopogása csak fokozza a kastély romantikus hangulatát.",
+                "ro": "Explorați apartamentele luxoase ale Arhiducelui Maximilian, care oferă adăpostul perfect; sunetul ploii pe ferestre sporește atmosfera romantică din interiorul castelului.",
+                "en": "Explore the luxurious apartments of Archduke Maximilian, which provide the perfect shelter; the sound of rain against the windows enhances the castle's romantic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere dei Cannoni",
+                "hu": "Belvedere dei Cannoni",
+                "ro": "Belvedere dei Cannoni",
+                "en": "Belvedere dei Cannoni"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den Hafen ist auch bei grauem Himmel großartig, aber der nasse Kalkstein ist rutschig; halten Sie sich an den Geländern fest, während Sie Fotos machen.",
+                "hu": "A kilátás szürke égbolt mellett is pazar, de a vizes mészkő rendkívül csúszós; fotózás közben is kapaszkodjunk erősen a korlátba a biztonságunk érdekében.",
+                "ro": "Vederea spre port este superbă chiar și sub cerul gri, dar calcarul ud este alunecos; țineți-vă bine de balustrade în timp ce faceți fotografii pentru siguranță.",
+                "en": "The view of the harbor is superb even under grey skies, but the wet limestone is very slippery; hold onto the railings firmly while taking photos for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Duca D'Aosta",
+                "hu": "Monumento al Duca D'Aosta",
+                "ro": "Monumento al Duca D'Aosta",
+                "en": "Monumento al Duca D'Aosta"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Runde mit dem Regenschirm um dieses Denkmal und suchen Sie dann Schutz unter den dichten Bäumen des Parks bis zum nächsten Regenschauer.",
+                "hu": "Tegyünk egy rövid kört az esernyők alatt az emlékműnél, majd keressünk oltalmat a park dús lombú fái alatt a következő nagyobb felhőszakadásig.",
+                "ro": "Faceți o scurtă plimbare sub umbrelă în jurul acestui monument și apoi căutați adăpost sub copacii densi ai parcului până la următoarea aversă de ploaie.",
+                "en": "Take a quick walk under your umbrella around this monument and then seek shelter under the park's dense trees until the next heavy rain shower passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Science Centre",
+                "hu": "Tudományos Központ",
+                "ro": "Science Centre",
+                "en": "Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Interaktive Experimente lassen das schlechte Wetter draußen vergessen, da alles überdacht ist; für Familien ist dies die beste Wahl an einem regnerischen Nachmittag.",
+                "hu": "Az interaktív kísérletek feledtetik a kinti rossz időt, hiszen minden eszköz fedett helyen van; családok számára ez a legjobb választás egy esős délutánon.",
+                "ro": "Experimentele interactive vă fac să uitați de vremea rea de afară, deoarece totul este acoperit; pentru familii, aceasta este cea mai bună alegere într-o după-amiază ploioasă.",
+                "en": "Interactive experiments make you forget the bad weather outside, as everything is indoors; for families, this is the best choice on a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Sticco",
+                "hu": "Bagno Sticco",
+                "ro": "Bagno Sticco",
+                "en": "Bagno Sticco"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die schäumenden Wellen von der überdachten Terrasse aus; tragen Sie eine warme, wasserfeste Jacke, um den salzigen Geruch der Adria zu genießen.",
+                "hu": "Figyeljük a habzó hullámokat a fedett teraszról; viseljünk meleg, vízhatlan kabátot, hogy kényelmesen élvezhessük az Adria sós illatát az esőben.",
+                "ro": "Observați valurile înspumate de pe terasa acoperită; purtați o jachetă caldă și impermeabilă pentru a vă bucura de mirosul sărat al Adriaticii în ploaie.",
+                "en": "Watch the foaming waves from the covered terrace; wear a warm, waterproof jacket to comfortably enjoy the salty scent of the Adriatic in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit frischer Meeresluft bei den Scuderie. Mittags wärmen wir uns in den beheizten Sälen des Schlosses auf und genießen den Besuch ohne Massen. Nachmittags spazieren wir bei frühem Sonnenuntergang durch den Park, bevor wir ins Science Centre flüchten. Den Abend lassen wir an der Küste ausklingen, wo die Dämmerung mystisches Licht auf das Wasser wirft.",
+            "hu": "A reggel friss tengeri levegővel indul a Scuderie környékén. Délben a kastély fűtött termeiben melegszünk fel, élvezve a tömegmentes látogatást. Délután a park szobrai között sétálunk a korai naplementében, majd a Tudományos Központba vonulunk be. Az estét a kihalt tengerparton zárjuk, ahol a téli szürkület misztikus fényeket fest a vízre a korai sötétedés előtt.",
+            "ro": "Dimineața începe cu aer marin proaspăt lângă Scuderie. La prânz, ne încălzim în sălile încălzite ale castelului, bucurându-ne de o vizită fără aglomerație. După-amiaza ne plimbăm prin parc la apusul timpuriu, apoi intrăm în Centrul de Știință. Seara se încheie pe malul mării, unde amurgul de iarnă pictează lumini mistice pe apă înainte de întuneric.",
+            "en": "Morning starts with fresh sea air near the Scuderie. At noon, warm up in the heated halls of the castle, enjoying a crowd-free visit. In the afternoon, stroll through the park during the early sunset before retreating to the Science Centre. End the day at the deserted beach, where winter twilight paints mystical lights on the water before the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scuderie",
+                "hu": "Scuderie",
+                "ro": "Scuderie",
+                "en": "Scuderie"
+              },
+              "tip_5lang": {
+                "de": "Die Ställe beherbergen oft warme Wechselausstellungen; prüfen Sie den Zeitplan, um der morgendlichen Kälte draußen zu entgehen und Kunst in Ruhe zu genießen.",
+                "hu": "Az istálló gyakran ad otthont fűtött időszaki kiállításoknak; nézzük meg a menetrendet, hogy elkerüljük a reggeli kinti hideget és nyugodtan válogassunk.",
+                "ro": "Grajdurile găzduiesc adesea expoziții temporare încălzite; verificați programul pentru a evita frigul de dimineață de afară și pentru a vă bucura de artă.",
+                "en": "The stables often host heated temporary exhibitions; check the schedule to avoid the morning cold outside and enjoy the art in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Miramare",
+                "hu": "Miramare-kastély",
+                "ro": "Castelul Miramare",
+                "en": "Miramare Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Innere des Schlosses ist im Winter gemütlich und weniger überfüllt als im Sommer, was eine friedliche historische Tour durch die warmen Räume ermöglicht.",
+                "hu": "A kastély belső terei télen hangulatosak és sokkal kevésbé zsúfoltak, mint nyáron, így nyugodtan bejárhatjuk a fűtött történelmi szobákat.",
+                "ro": "Interiorul castelului este primitor iarna și mult mai puțin aglomerat decât vara, permițând un tur istoric liniștit prin camerele calde.",
+                "en": "The castle interior is cozy in winter and much less crowded than in summer, allowing for a peaceful historical tour through the warm rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere dei Cannoni",
+                "hu": "Belvedere dei Cannoni",
+                "ro": "Belvedere dei Cannoni",
+                "en": "Belvedere dei Cannoni"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das goldene Winterlicht über dem Golf von Triest ein, bevor die Sonne gegen 17:00 Uhr untergeht; tragen Sie Handschuhe gegen die kalte Meeresbrise.",
+                "hu": "Örökítsük meg az aranyló téli fényeket a Trieszti-öböl felett, mielőtt 17:00 körül lemegy a nap; viseljünk kesztyűt a metsző tengeri szél ellen.",
+                "ro": "Surprindeți lumina aurie de iarnă peste Golful Trieste înainte ca soarele să apună în jur de ora 17:00; purtați mănuși împotriva brizelor reci marine.",
+                "en": "Capture the golden winter light over the Gulf of Trieste before the sun sets around 17:00; wear gloves against the biting sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Duca D'Aosta",
+                "hu": "Monumento al Duca D'Aosta",
+                "ro": "Monumento al Duca D'Aosta",
+                "en": "Monumento al Duca D'Aosta"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Stein leuchtet in der tiefstehenden Wintersonne; tragen Sie eine windfeste Jacke, da der Bora-Wind in dieser offenen Parkanlage sehr beißen kann.",
+                "hu": "A fehér kő ragyog az alacsonyan járó téli napsütésben; viseljünk szélálló kabátot, mert a bóra szél nagyon csípős lehet ezen a nyitott parkrészen.",
+                "ro": "Piatra albă strălucește în soarele jos de iarnă; purtați o jachetă rezistentă la vânt, deoarece vântul Bora poate fi foarte tăios în acest parc deschis.",
+                "en": "The white stone glows in the low winter sun; wear a windproof jacket as the Bora wind can be very biting in this open area of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Science Centre",
+                "hu": "Tudományos Központ",
+                "ro": "Science Centre",
+                "en": "Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der kalten Nachmittagsluft in diesem modernen Gebäude und genießen Sie die physikalischen Experimente in einer angenehm temperierten Umgebung.",
+                "hu": "Meneküljünk a hideg délutáni levegő elől ebbe a modern épületbe, és élvezzük a fizikai kísérleteket a kellemesen temperált belső környezetben.",
+                "ro": "Evadați de aerul rece de după-amiază în această clădire modernă și bucurați-vă de experimentele de fizică într-un mediu interior plăcut.",
+                "en": "Escape the cold afternoon air in this modern building and enjoy the physics experiments in a pleasantly warm indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Sticco",
+                "hu": "Bagno Sticco",
+                "ro": "Bagno Sticco",
+                "en": "Bagno Sticco"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ruhig und stimmungsvoll; genießen Sie die Einsamkeit der Küste mit einem warmen Getränk, bevor die Abendkälte richtig einsetzt.",
+                "hu": "A strand télen csendes és hangulatos; élvezzük a part magányát egy termosz meleg teával, mielőtt az esti lehűlés miatt visszavonulnánk a városba.",
+                "ro": "Plaja este liniștită și plină de atmosferă iarna; bucurați-vă de singurătatea coastei cu o băutură caldă înainte ca frigul serii să se instaleze.",
+                "en": "The beach is quiet and atmospheric in winter; enjoy the solitude of the coast with a warm drink before the evening chill fully sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen el reggel a grignanói kikötőbe, magába szívva a tengerparti hangulatot. Délre ismerkedjen meg a Tudományos Központtal, majd fedezze fel az ikonikus Miramare-kastélyt. A délutáni biciklizés a gyönyörű istállók mellett a történelmi katonai fürdők felé vezet. Zárja aktív napját a különleges Topolini teraszokon pihenve, miközben az adriai nap lassan nyugovóra tér.",
         "ro": "Pedalați dimineața spre portul din Grignano, bucurându-vă de atmosfera de coastă autentică. La prânz, vizitați expozițiile de la Centrul de Știință înainte de a explora Castelul Miramare. Călătoria de după-amiază vă duce pe lângă grajdurile frumoase către băile militare istorice. Încheiați ziua activă relaxându-vă pe terasele unice Topolini, în timp ce soarele apune.",
         "en": "Pedal out in the morning to Grignano's marina, soaking in the genuine coastal vibe. By midday, engage with the educational exhibits at the Science Centre before exploring the iconic Miramare Castle. Afternoon riding takes you past the beautiful stables to the historic military baths. Wrap up your active day relaxing on the unique Topolini terraces as the Adriatic sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das morgendliche Radeln in Grignano beginnt auf nassem Asphalt, fahren Sie also vorsichtig. Mittags ist das Science Centre der beste Halt, um trocken zu werden. Nachmittags fahren wir auf den asphaltierten Wegen des Schlossparks und meiden schlammige Pfade. Der Abend endet auf der Küstenstraße, wo wetterfeste Kleidung gegen aufspritzenden Schlamm unerlässlich ist.",
+            "hu": "A reggeli tekerés Grignanóban vizes aszfalton indul, ezért óvatosan kanyarodjunk. Délben a Tudományos Központ fedett kiállítása a legjobb megálló, hogy megszáradjunk. Délután a kastélypark aszfaltozott útjain haladunk, kerülve a saras ösvényeket. Az estét a part menti úton zárjuk, ahol a vízhatlan öltözet kötelező a felverődő sár és víz ellen.",
+            "ro": "Plimbarea de dimineață în Grignano începe pe asfalt ud, așa că pedalați cu atenție. La prânz, Centrul de Știință este cea mai bună oprire pentru a vă usca. După-amiaza mergem pe drumurile asfaltate ale parcului castelului, evitând potecile noroioase. Seara se încheie pe drumul de coastă, unde hainele impermeabile sunt esențiale.",
+            "en": "The morning ride in Grignano starts on wet asphalt, so pedal carefully. At noon, the Science Centre is the best stop to get dry and rest. In the afternoon, we ride on the paved paths of the castle park, avoiding muddy trails. The day ends on the coastal road, where waterproof clothing is essential against splashing mud and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grignano1",
+                "hu": "Grignano1",
+                "ro": "Grignano1",
+                "en": "Grignano1"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steine des Hafens können rutschig sein; fahren Sie langsam auf dem Pier und tragen Sie eine Regenhose gegen das Spritzwasser von den Reifen.",
+                "hu": "A kikötő vizes kövei csúszósak lehetnek, ezért lassan tekerjünk a mólón; a vízhatlan nadrág elengedhetetlen a kerekek felől érkező felverődések ellen.",
+                "ro": "Pietrele ude ale portului pot fi alunecoase, așa că pedalați încet pe debarcader; pantalonii impermeabili sunt esențiali împotriva stropilor de la roți.",
+                "en": "The wet stones of the harbor can be slippery, so bike slowly on the pier; waterproof trousers are essential against splashes from the bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Science Centre",
+                "hu": "Tudományos Központ",
+                "ro": "Science Centre",
+                "en": "Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradabstellplatz und verbringen Sie die regnerische Zeit bei den Experimenten, während Ihre Ausrüstung im Inneren trocknen kann.",
+                "hu": "Használjuk a fedett kerékpártárolót, és töltsük az esős időt a kísérletek között, amíg a felszerelésünk a belső térben egy kicsit megszáradhat.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete și petreceți timpul ploios printre experimente, în timp ce echipamentul se poate usca puțin la interior.",
+                "en": "Of course! Use the covered bike parking and spend the rainy time among the experiments while your gear can dry off a bit in the indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Miramare",
+                "hu": "Miramare-kastély",
+                "ro": "Castelul Miramare",
+                "en": "Miramare Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Eingang und erkunden Sie das Schloss zu Fuß, um sich aufzuwärmen; die asphaltierten Wege im Park sind auch bei Regen sicher befahrbar.",
+                "hu": "Parkoljunk le a bejáratnál, és fedezzük fel a kastélyt gyalogosan, hogy felmelegedjünk; a park aszfaltozott útjai esőben is biztonságosan járhatóak.",
+                "ro": "Parcați bicicleta la intrare și explorați castelul la pas pentru a vă încălzi; drumurile asfaltate din parc sunt sigure pentru pedalat chiar și pe ploaie.",
+                "en": "Park your bike at the entrance and explore the castle on foot to warm up; the paved paths in the park are safe for cycling even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Scuderie",
+                "hu": "Scuderie",
+                "ro": "Scuderie",
+                "en": "Scuderie"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der ehemaligen Ställe bieten perfekten Schutz vor Windböen; prüfen Sie Ihre Bremsen, bevor Sie die leicht abfallenden Wege fortsetzen.",
+                "hu": "Az egykori istálló vastag falai tökéletes védelmet nyújtanak a szél ellen; ellenőrizzük a fékeket, mielőtt a lejtős utakon folytatnánk az utunkat.",
+                "ro": "Zidurile groase ale fostelor grajduri oferă protecție perfectă împotriva vântului; verificați frânele înainte de a continua pe drumurile în pantă.",
+                "en": "The thick walls of the former stables offer perfect protection from wind gusts; check your brakes before continuing on the sloping paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Militare",
+                "hu": "Bagno Militare",
+                "ro": "Bagno Militare",
+                "en": "Bagno Militare"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt wirkt im Regen verlassen und poetisch; achten Sie auf Pfützen auf dem Radweg und tragen Sie helle Kleidung für bessere Sichtbarkeit.",
+                "hu": "A strandrész esőben elhagyatott és költői; ügyeljünk a tócsákra a kerékpárúton, és viseljünk világos színeket a jobb láthatóság érdekében.",
+                "ro": "Secțiunea de plajă pare pustie și poetică în ploaie; atenție la bălțile de pe pista de biciclete și purtați culori deschise pentru vizibilitate.",
+                "en": "The beach area looks deserted and poetic in the rain; watch out for puddles on the bike path and wear bright colors for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Topolini",
+                "hu": "Topolini",
+                "ro": "Topolini",
+                "en": "Topolini"
+              },
+              "tip_5lang": {
+                "de": "Die Betonplattformen können extrem glatt sein; steigen Sie vom Rad ab und genießen Sie den Blick auf die stürmische See aus sicherer Entfernung.",
+                "hu": "A betonstégek rendkívül csúszósak lehetnek; szálljunk le a bicikliről, és biztonságos távolságból csodáljuk a viharos tenger hullámait.",
+                "ro": "Platformele de beton pot fi extrem de alunecoase; coborâți de pe bicicletă și admirați marea înfuriată de la o distanță sigură.",
+                "en": "The concrete platforms can be extremely slippery; get off your bike and admire the stormy sea from a safe distance to avoid any accidents."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Start in Grignano ist bei Winterwind kalt, aber die Sicht ist klar. Mittags können Sie sich in den warmen Räumen des Science Centre nach der frostigen Fahrt ausruhen. Nachmittags radeln wir in der frühen Dämmerung um das Schloss und achten auf den Sonnenuntergang gegen 17:00 Uhr. Der Abend endet bei den Topolini, wo Schichtkleidung gegen den Eiswind ratsam ist.",
+            "hu": "A téli szélben a reggeli indulás Grignanóból hideg, de a látvány tiszta. Délben a Tudományos Központ meleg belső tereiben pihenhetünk meg a fagyos tekerés után. Délután a kastély környékén biciklizünk a korai szürkületben, figyelve az 17:00 körüli naplementére. Az estét a Topolini stégeinél zárjuk, ahol a jeges szél ellen réteges öltözet kötelező.",
+            "ro": "Pornirea de dimineață din Grignano este rece în vântul de iarnă, dar vizibilitatea este clară. La prânz vă puteți odihni în spațiile calde ale Centrului de Știință. După-amiaza pedalăm în jurul castelului în amurgul timpuriu, urmărind apusul de la ora 17:00. Seara se încheie la Topolini, unde hainele în straturi sunt necesare.",
+            "en": "The morning start in Grignano is cold in the winter wind, but the view is clear. At noon, rest in the warm rooms of the Science Centre after the frosty ride. In the afternoon, we cycle around the castle in the early twilight, watching the sunset around 17:00. The day ends at Topolini, where layered clothing is advised against the icy sea wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grignano1",
+                "hu": "Grignano1",
+                "ro": "Grignano1",
+                "en": "Grignano1"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter ruhig; tragen Sie warme Handschuhe und eine Mütze unter dem Helm, da der kalte Wind am Meer besonders intensiv weht.",
+                "hu": "A kikötő télen csendes; viseljünk meleg kesztyűt és sisak alá való sapkát, mert a tenger felől érkező hideg szél itt különösen intenzíven fúj.",
+                "ro": "Portul este liniștit iarna; purtați mănuși calde și o căciulă sub cască, deoarece vântul rece de la mare suflă aici deosebit de intens.",
+                "en": "The harbor is quiet in winter; wear warm gloves and a liner under your helmet, as the cold sea wind blows particularly intensely here."
+              }
+            },
+            {
+              "name": {
+                "de": "Science Centre",
+                "hu": "Tudományos Központ",
+                "ro": "Science Centre",
+                "en": "Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um die Körpertemperatur nach dem Radfahren wiederherzustellen; genießen Sie die interaktiven Stationen im gut beheizten Gebäude.",
+                "hu": "Ez a tökéletes hely a testhőmérséklet visszaállítására a biciklizés után; élvezzük az interaktív állomásokat a jól fűtött épületben.",
+                "ro": "Acesta este locul perfect pentru a vă recupera temperatura corpului după pedalat; bucurați-vă de stațiile interactive în clădirea bine încălzită.",
+                "en": "This is the perfect place to restore your body temperature after cycling; enjoy the interactive stations in the well-heated building."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Miramare",
+                "hu": "Miramare-kastély",
+                "ro": "Castelul Miramare",
+                "en": "Miramare Castle"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Mauern reflektieren die schwache Wintersonne wunderschön; sichern Sie Ihr Rad gut und machen Sie einen kurzen, aufwärmenden Spaziergang im Park.",
+                "hu": "A fehér falak gyönyörűen verik vissza a gyenge téli napfényt; zárjuk le biztonságosan a bringát, és tegyünk egy rövid, bemelegítő sétát a parkban.",
+                "ro": "Zidurile albe reflectă frumos lumina slabă a soarelui de iarnă; încuiați bicicleta în siguranță și faceți o scurtă plimbare de încălzire în parc.",
+                "en": "The white walls reflect the weak winter sun beautifully; lock your bike securely and take a short, warming walk in the park's scenic grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Scuderie",
+                "hu": "Scuderie",
+                "ro": "Scuderie",
+                "en": "Scuderie"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten eine willkommene Pause von der Kälte; achten Sie bei der Weiterfahrt auf eventuelle Eisflächen in schattigen Bereichen des Weges.",
+                "hu": "A kiállítások üdvözlendő szünetet jelentenek a hidegben; a továbbinduláskor ügyeljünk az esetleges jeges foltokra az út árnyékosabb részein.",
+                "ro": "Expozițiile oferă o pauză binevenită de frig; la plecare, atenție la eventualele porțiuni de gheață în zonele umbrite ale drumului.",
+                "en": "The exhibitions offer a welcome break from the cold; when continuing, watch out for potential icy patches in shaded areas of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Militare",
+                "hu": "Bagno Militare",
+                "ro": "Bagno Militare",
+                "en": "Bagno Militare"
+              },
+              "tip_5lang": {
+                "de": "Das Meer hat im Winter ein tiefes Blau; halten Sie sich in Bewegung, um warm zu bleiben, und tragen Sie windfeste Kleidung gegen die Bora-Böen.",
+                "hu": "A tengernek télen mélykék színe van; maradjunk mozgásban, hogy melegen tartsuk magunkat, és viseljünk szélálló ruházatot a bóra széllökései ellen.",
+                "ro": "Marea are o culoare albastru închis iarna; rămâneți în mișcare pentru a vă menține căldura și purtați haine rezistente la vânt contra rafalelor Bora.",
+                "en": "The sea has a deep blue color in winter; keep moving to stay warm and wear windproof clothing against the strong Bora wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Topolini",
+                "hu": "Topolini",
+                "ro": "Topolini",
+                "en": "Topolini"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Sonnenuntergang schnell, da es nach 17:00 Uhr rapide abkühlt; Licht am Fahrrad ist für die Rückfahrt in der Dunkelheit Pflicht.",
+                "hu": "Csodáljuk meg gyorsan a naplementét, mert 17:00 után gyorsan hűl a levegő; a kerékpáros lámpa kötelező a sötétben való visszatéréshez.",
+                "ro": "Admirați apusul rapid, deoarece se răcește brusc după ora 17:00; luminile la bicicletă sunt obligatorii pentru drumul de întoarcere pe întuneric.",
+                "en": "Admire the sunset quickly as it cools down rapidly after 17:00; bike lights are mandatory for the return journey in the winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a festői autózást a Monte San Paolo tetején, tekintetével a hatalmas öblön. Délben leereszkedik az érdekes Tudományos Központba és a Miramare-kastély építészeti csodájához. A délutánt a festői belső dombokon elszórtan található csendes történelmi emlékek felfedezésének szentelheti. Zárja a tökéletes utat a ragyogó alkonyat megtekintésével a Belvedere Enzo Cozzolinóból.",
         "ro": "Începeți plimbarea panoramică pe Monte San Paolo, privind peste vastul golf. Prânzul vă aduce la Centrul de Știință și la minunea arhitecturală a Castelului Miramare. După-amiaza este dedicată explorării monumentelor istorice liniștite răspândite pe dealurile interioare pitorești. Încheiați călătoria perfectă fiind martorii crepusculului de la Belvedere Enzo Cozzolino.",
         "en": "Start your scenic drive atop Monte San Paolo, gazing out over the vast gulf. Midday brings you down to the engaging Science Centre and the architectural wonder of Miramare Castle. The afternoon is dedicated to exploring quiet historical monuments scattered along the picturesque inland hills. End the perfect road trip witnessing the glowing twilight from Belvedere Enzo Cozzolino."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt auf dem nebligen Monte San Paolo. Mittags gelangen Sie vom Parkplatz des Science Centre schnell in die trockenen Ausstellungsräume. Nach dem Schlossbesuch steuern wir das Denkmal Spomenik padlim an und bleiben auf asphaltierten Straßen. Den Abend verbringen wir auf Panoramastraßen, um die stürmische Adria sicher vom Auto aus zu beobachten.",
+            "hu": "Az autós túra a ködös Monte San Paolo-n indul. Délben a Tudományos Központ parkolójából pillanatok alatt bejutunk a száraz kiállítótérbe. Délután a kastély látogatása után a Spomenik padlim emlékművét érintjük, végig aszfaltozott utakon haladva. Az estét a panorámautakon zárjuk, ahol az autó ablakából nézhetjük a viharos Adria hullámait.",
+            "ro": "Turul auto începe pe Monte San Paolo cețos. La prânz, ajungeți rapid în sălile uscate de la Centrul de Știință din parcare. După vizitarea castelului, mergem la monumentul Spomenik padlim, pe drumuri asfaltate. Seara se încheie pe drumurile panoramice, unde puteți observa valurile Adriaticii în siguranță din mașină.",
+            "en": "The car tour starts on the misty Monte San Paolo. At noon, you can quickly reach the dry exhibition halls from the Science Centre parking. After visiting the castle, we head to the Spomenik padlim monument, staying on paved roads. The day ends on scenic roads where you can safely watch the stormy Adriatic waves from your car window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monte San Paolo",
+                "hu": "Monte San Paolo",
+                "ro": "Monte San Paolo",
+                "en": "Monte San Paolo / Pavlji vrh"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Nebel auf den Gipfel; die Aussicht auf die Wolken ist magisch, aber achten Sie auf die rutschigen Kurven auf der Bergstraße.",
+                "hu": "Köd esetén vezessünk óvatosan a csúcs felé; a látvány a felhők felett mágikus, de figyeljünk a csúszós kanyarokra a hegyi utakon.",
+                "ro": "Conduceți cu atenție spre vârf pe timp de ceață; vederea deasupra norilor este magică, dar atenție la curbele alunecoase pe drumul montan.",
+                "en": "Drive carefully towards the summit in case of fog; the view above the clouds is magical, but watch out for slippery curves on the mountain road."
+              }
+            },
+            {
+              "name": {
+                "de": "Science Centre",
+                "hu": "Tudományos Központ",
+                "ro": "Science Centre",
+                "en": "Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nächstgelegenen Parkplatz, um den Regen zu minimieren; die interaktiven Stationen bieten eine perfekte trockene Aktivität für alle Altersgruppen.",
+                "hu": "Használjuk a legközelebbi parkolót, hogy minél kevesebbet kelljen az esőben gyalogolni; az interaktív állomások tökéletes száraz programot nyújtanak.",
+                "ro": "Folosiți cea mai apropiată parcare pentru a minimiza mersul prin ploaie; stațiile interactive oferă o activitate perfectă la interior pentru toate vârstele.",
+                "en": "Use the nearest parking lot to minimize walking in the rain; the interactive stations provide a perfect dry activity for all ages."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Miramare",
+                "hu": "Miramare-kastély",
+                "ro": "Castelul Miramare",
+                "en": "Miramare Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur einen kurzen Spaziergang vom Eingang entfernt; genießen Sie die historischen Räume, während draußen der Regen auf die Adria fällt.",
+                "hu": "A parkoló csak egy rövid sétára van a bejárattól; élvezzük a történelmi szobákat, miközben kint az eső veri az Adriai-tenger hullámait.",
+                "ro": "Parcarea este la doar o scurtă plimbare de intrare; bucurați-vă de camerele istorice în timp ce afară ploaia cade peste valurile Adriaticii.",
+                "en": "The parking lot is just a short walk from the entrance; enjoy the historical rooms while the rain falls over the Adriatic waves outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Spomenik padlim",
+                "hu": "Spomenik padlim",
+                "ro": "Spomenik padlim",
+                "en": "Spomenik padlim"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto an und bleiben Sie auf den festen Wegen; der umliegende Boden kann nach starken Regenfällen sehr weich und schlammig sein.",
+                "hu": "Álljunk meg egy rövid fotóra és maradjunk a szilárd burkolatú utakon; a környező talaj a nagy esőzések után nagyon puha és saras lehet.",
+                "ro": "Opriți-vă scurt pentru o fotografie și rămâneți pe drumurile pavate; solul din jur poate fi foarte moale și noroios după ploi abundente.",
+                "en": "Stop briefly for a photo and stay on the paved paths; the surrounding ground can be very soft and muddy after heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Vedetta Giubileare Francesco Giuseppe I",
+                "hu": "Vedetta Giubileare Francesco Giuseppe I",
+                "ro": "Vedetta Giubileare Francesco Giuseppe I",
+                "en": "Vedetta Giubileare Francesco Giuseppe I"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht von diesem Aussichtspunkt ist bei Sturm dramatisch; achten Sie beim Aussteigen auf starke Windböen und halten Sie die Autotüren gut fest.",
+                "hu": "A kilátás erről a pontról viharos időben drámai; kiszálláskor ügyeljünk az erős széllökésekre, és tartsuk erősen az autó ajtaját.",
+                "ro": "Vederea de aici este dramatică pe timp de furtună; atenție la rafalele puternice de vânt când coborâți și țineți bine portierele mașinii.",
+                "en": "The view from this point is dramatic during stormy weather; watch out for strong wind gusts when getting out and hold the car doors firmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Enzo Cozzolino",
+                "hu": "Belvedere Enzo Cozzolino",
+                "ro": "Belvedere Enzo Cozzolino",
+                "en": "Belvedere Enzo Cozzolino"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Lichtermeer von Triest direkt aus dem Auto, wenn es zu stark regnet; die Scheibenwischer bieten Ihnen ein ständig neues Panorama.",
+                "hu": "Nézzük Trieszt fényeit közvetlenül az autóból, ha túl erősen esne az eső; az ablaktörlők folyamatosan új és tiszta panorámát biztosítanak.",
+                "ro": "Priviți luminile orașului Trieste direct din mașină dacă plouă prea tare; ștergătoarele vă vor oferi o panoramă mereu curată și nouă.",
+                "en": "Watch the lights of Trieste directly from your car if it rains too hard; the windshield wipers will provide you with a constantly clear panorama."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterpanorama vom Monte San Paolo ist kristallklar. Mittags bieten das Science Centre und das Schloss geheizte Räume als Schutz vor der Kälte. Nachmittags besuchen wir die Denkmäler und Aussichtspunkte vor dem Dunkelwerden um 17:00 Uhr und genießen die leeren Straßen. Der Abend endet am Belvedere Enzo Cozzolino, wo man im Auto die Lichter von Triest bewundern kann.",
+            "hu": "A téli panoráma a Monte San Paolo-ról kristálytiszta. Délben a Tudományos Központ és a kastély fűtött belső terei kínálnak kényelmet a hideg ellen. Délután a közeli emlékműveket és kilátókat keressük fel az 17:00-s sötétedés előtt, élvezve az üres utakat. Az estét a Belvedere Enzo Cozzolino ponton zárjuk az autó melegében.",
+            "ro": "Panorama de iarnă de pe Monte San Paolo este extrem de clară. La prânz, Centrul de Știință și castelul oferă spații încălzite contra frigului. După-amiaza vizităm monumentele și punctele de belvedere înainte de întunericul de la ora 17:00. Seara se încheie la Belvedere Enzo Cozzolino, admirând luminile orașului.",
+            "en": "The winter panorama from Monte San Paolo is crystal clear. At noon, the Science Centre and the castle offer heated interiors for comfort against the cold. In the afternoon, we visit nearby monuments and viewpoints before the 17:00 darkness, enjoying empty roads. The day ends at Belvedere Enzo Cozzolino, admiring Trieste's lights from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monte San Paolo",
+                "hu": "Monte San Paolo",
+                "ro": "Monte San Paolo",
+                "en": "Monte San Paolo / Pavlji vrh"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft sorgt für die beste Fernsicht des Jahres; prüfen Sie vor der Abfahrt den Straßenzustand auf eventuelle Glätte in den Morgenstunden.",
+                "hu": "A hideg téli levegő biztosítja az év legjobb távoli kilátását; indulás előtt ellenőrizzük az útviszonyokat az esetleges reggeli lefagyások miatt.",
+                "ro": "Aerul rece de iarnă oferă cea mai bună vizibilitate la distanță din an; verificați starea drumului înainte de plecare pentru eventualul polei de dimineață.",
+                "en": "The cold winter air provides the best long-distance visibility of the year; check road conditions before departure for any potential morning ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Science Centre",
+                "hu": "Tudományos Központ",
+                "ro": "Science Centre",
+                "en": "Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude ist hervorragend beheizt und bietet eine willkommene Aufwärmpause; nutzen Sie die Zeit für die Exponate, bevor die Sonne früh untergeht.",
+                "hu": "Az épület kiválóan fűtött, így üdvözlendő melegedőhelyet kínál; használjuk ki az időt a kísérletekre, mielőtt a nap korán, 17:00 körül lenyugodna.",
+                "ro": "Clădirea este excelent încălzită, oferind un loc de încălzire binevenit; profitați de timp pentru experimente înainte ca soarele să apună devreme.",
+                "en": "The building is excellently heated, offering a welcome place to warm up; take advantage of the time for experiments before the sun sets early."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Miramare",
+                "hu": "Miramare-kastély",
+                "ro": "Castelul Miramare",
+                "en": "Miramare Castle"
+              },
+              "tip_5lang": {
+                "de": "Im Winter können Sie oft direkt am Schloss parken; die Räume sind angenehm temperiert und bieten eine friedliche Atmosphäre ohne die sommerlichen Touristen.",
+                "hu": "Télen gyakran közvetlenül a kastélynál is találunk parkolót; a szobák kellemesen melegek és békés hangulatot árasztanak a nyári tömeg nélkül.",
+                "ro": "Iarna puteți găsi adesea parcare direct la castel; camerele sunt plăcut încălzite și oferă o atmosferă liniștită, fără mulțimile de turiști din vară.",
+                "en": "In winter, you can often find parking directly at the castle; the rooms are pleasantly warm and offer a peaceful atmosphere without summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Spomenik padlim",
+                "hu": "Spomenik padlim",
+                "ro": "Spomenik padlim",
+                "en": "Spomenik padlim"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag, um das Denkmal im vollen Tageslicht zu sehen; tragen Sie eine warme Jacke für den kurzen Weg vom Auto.",
+                "hu": "Látogassuk meg ezt a helyet kora délután, hogy teljes nappali fényben láthassuk; viseljünk meleg kabátot az autótól való rövid séta idejére is.",
+                "ro": "Vizitați acest loc la începutul după-amiezii pentru a vedea monumentul în plină lumină; purtați o jachetă caldă pentru scurta plimbare de la mașină.",
+                "en": "Visit this place in the early afternoon to see the monument in full daylight; wear a warm jacket even for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Vedetta Giubileare Francesco Giuseppe I",
+                "hu": "Vedetta Giubileare Francesco Giuseppe I",
+                "ro": "Vedetta Giubileare Francesco Giuseppe I",
+                "en": "Vedetta Giubileare Francesco Giuseppe I"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick auf die schneebedeckten Alpen in der Ferne ist im Winter am besten; bleiben Sie für den Sonnenuntergang gegen 17:00 Uhr warm im Auto sitzen.",
+                "hu": "A távoli, hófödte Alpok látványa télen a legszebb; maradjunk az autó melegében az 17:00 körüli naplementéig, hogy kényelmesen élvezhessük a látványt.",
+                "ro": "Vederea Alpilor înzăpeziți în depărtare este cea mai frumoasă iarna; rămâneți în căldura mașinii pentru apusul de la ora 17:00 pentru confort.",
+                "en": "The view of the snow-capped Alps in the distance is best in winter; stay in the warmth of your car for the 17:00 sunset to enjoy it comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Enzo Cozzolino",
+                "hu": "Belvedere Enzo Cozzolino",
+                "ro": "Belvedere Enzo Cozzolino",
+                "en": "Belvedere Enzo Cozzolino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das beleuchtete Triest im Schutz Ihres Autos; bringen Sie eine Thermoskanne mit heißem Tee mit, um den Winterabend zu krönen.",
+                "hu": "Élvezzük a kivilágított Trieszt látványát az autó védelmében; hozzunk magunkkal egy termosz forró teát, hogy megkoronázzuk ezt a téli estét.",
+                "ro": "Bucurați-vă de vederea orașului Trieste iluminat sub protecția mașinii; aduceți un termos cu ceai fierbinte pentru a încununa această seară de iarnă.",
+                "en": "Enjoy the view of illuminated Trieste from the safety of your car; bring a thermos of hot tea to crown this winter evening in comfort."
+              }
+            }
+          ]
+        }
       }
     }
   }

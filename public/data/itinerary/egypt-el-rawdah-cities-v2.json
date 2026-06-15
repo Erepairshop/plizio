@@ -137,6 +137,168 @@
         "hu": "A reggel frissítő tengeri szellőt hoz az északi partra, amely New Maamoura nyugodt felfedezésével veszi kezdetét. Ahogy a nap egyre magasabbra hág, a kellemes parti séta természetes módon vezet át El Rawdah szívébe, hogy átadja magát a ráérős helyi életstílusnak.\nDélben a Marseilia Beach 3 aranyló homokja ideális hátteret nyújt a pihenéshez. A csillogó Földközi-tenger kiegészíti a környék nyüzsgő hangulatát, így a part menti megállók mindegyike a nyugalom és az öröm festői pillanatát kínálja az utazóknak.\nA délután során egy olyan szépen rendezett enklávét látogathat meg, mint az Academic Engineers. Ez a hely tökéletes a meleg egyiptomi nap alatti feltöltődéshez, miközben megcsodálhatja e kedvelt nyári menedékhely jellegzetes stílusát.\nA nap vége felé közeledve a part menti hullámok lágy morajlása megnyugtató befejezést nyújt, és biztosítja, hogy tengerparti kalandja maradandó, békés emlékekkel gazdagodjon a sós levegőjű vidéken.",
         "ro": "Dimineața aduce o briză răcoroasă pe Coasta de Nord, începând cu o explorare liniștită a zonei New Maamoura. Pe măsură ce soarele urcă pe cer, plimbarea plăcută de pe coastă vă conduce natural în inima El Rawdah, invitându-vă să îmbrățișați stilul de viață local lipsit de grabă.\nLa amiază, nisipurile aurii de la Marseilia Beach 3 oferă un fundal ideal pentru relaxare. Marea Mediterană strălucitoare completează atmosfera vibrantă a zonei, transformând fiecare oprire de-a lungul țărmului într-un moment pitoresc de liniște și bucurie pură.\nDupă-amiaza se desfășoară cu o vizită la enclava frumos amenajată Academic Engineers. Acest loc este perfect pentru a vă relaxa sub soarele cald egiptean, în timp ce vă bucurați de stilul arhitectural distinct al acestui refugiu de vară foarte îndrăgit.\nOdată cu lăsarea după-amiezii târzii, sunetul blând al valurilor creează un final liniștitor al zilei de plimbare, asigurându-vă că aventura dumneavoastră pe coastă vă lasă amintiri pașnice și de neuitat.",
         "en": "Morning brings a refreshing breeze to the North Coast, starting with a serene exploration of New Maamoura. As the sun climbs higher, the pleasant coastal walk leads naturally into the heart of El Rawdah, inviting you to embrace the unhurried local lifestyle.\nBy midday, the golden sands of Marseilia Beach 3 provide an ideal backdrop for relaxation. The sparkling Mediterranean Sea complements the vibrant atmosphere of the area, making every stop along the shoreline a picturesque moment of tranquility and joy.\nThe afternoon unfolds with a visit to the neatly arranged enclave of Academic Engineers. This spot is perfect for unwinding under the warm Egyptian sun while enjoying the distinct architectural style that characterizes this beloved summer retreat.\nAs your day winds down, the gentle sound of waves creates a soothing end to the afternoon walking tour, ensuring your coastal adventure leaves you with lasting, peaceful memories of the sea and the lively seaside communities."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit sanftem Regen über El Rawdah, was der Wüstenlandschaft eine seltene Frische verleiht. Mittags suchen wir Schutz in den Gassen des Dorfes, wo die Lehmziegelhäuser im Regen dunkler leuchten. Am Nachmittag spazieren wir am Seeufer entlang, während der Wind die Tropfen tanzt. Der Abend endet gemütlich in einer trockenen Ecke, während die Natur sich regeneriert.",
+            "hu": "A reggel lágy esővel indul El Rawdah felett, ami ritka frissességet kölcsönöz a sivatagi tájnak. Délben a falu szűk utcáin keresünk menedéket, ahol a házak színei mélyebbé válnak a nyirkos időben. Délután a tóparton sétálunk, figyelve a vízen táncoló cseppeket. Az este egy száraz, fedett helyen ér minket, miközben a természet csendesen felfrissül a szomjas vidéken.",
+            "ro": "Dimineața începe cu o ploaie ușoară peste El Rawdah, oferind peisajului deșertic o prospețime rară. La prânz, căutăm adăpost pe străzile satului, unde culorile caselor devin mai intense sub stropii de apă. După-amiaza ne plimbăm pe malul lacului, admirând dansul ploii pe suprafața apei. Seara se încheie confortabil într-un loc uscat, în timp ce natura se regenerează sub cerul cenușiu.",
+            "en": "The morning begins with a gentle rain over El Rawdah, bringing a rare freshness to the desert landscape. At noon, we seek shelter in the village alleys, where the earth tones of the houses deepen in the damp air. In the afternoon, we walk along the lakeshore, watching the rain dance on the water. The evening ends cozily in a dry spot while nature quietly refreshes the thirsty land."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "New Maamoura",
+                "hu": "New Maamoura",
+                "ro": "New Maamoura",
+                "en": "New Maamoura"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Nieselregen und nutzen Sie die Dachvorsprünge als Schutz; wasserfeste Schuhe sind wegen der Pfützen auf den Wegen wichtig.",
+                "hu": "Csodálja meg az épületeket a szemerkélő esőben, és használja az ereszeket menedékként; a vízálló cipő elengedhetetlen a burkolatlan utak pocsolyái miatt.",
+                "ro": "Admirați arhitectura în ploaia ușoară și folosiți streșinile ca adăpost; încălțămintea impermeabilă este esențială din cauza bălților de pe drumurile neasfaltate.",
+                "en": "Admire the architecture in the light drizzle and use the eaves as shelter; waterproof shoes are essential due to the puddles on the unpaved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rawdah",
+                "hu": "El Rawdah",
+                "ro": "El Rawdah",
+                "en": "El Rawdah"
+              },
+              "tip_5lang": {
+                "de": "Das Dorfzentrum bietet viele Vordächer; beobachten Sie das lokale Leben im Regen und tragen Sie eine leichte Regenjacke gegen den feuchten Wind.",
+                "hu": "A falu központja sok előtetőt kínál; figyelje meg a helyi életet az esőben, és viseljen könnyű esőkabátot a nyirkos szél ellen.",
+                "ro": "Centrul satului oferă multe copertine; observați viața locală prin ploaie și purtați o jachetă impermeabilă ușoară împotriva vântului umed.",
+                "en": "The village center offers many awnings; observe local life through the rain and wear a light raincoat against the damp, chilly wind."
+              }
+            },
+            {
+              "name": {
+                "de": "قرية الروضة",
+                "hu": "قرية الروضة",
+                "ro": "قرية الروضة",
+                "en": "قرية الروضة"
+              },
+              "tip_5lang": {
+                "de": "Die ländliche Szenerie wirkt im Regen mystisch; halten Sie sich an die festen Pfade, da der Boden auf den Feldern sehr schlammig und rutschig werden kann.",
+                "hu": "A vidéki táj misztikusnak tűnik az esőben; maradjon a kitaposott ösvényeken, mert a szántóföldek melletti talaj nagyon sáros és csúszós lehet.",
+                "ro": "Peisajul rural pare mistic în ploaie; rămâneți pe căile bătătorite, deoarece solul de lângă câmpuri poate deveni foarte noroios și alunecos.",
+                "en": "The rural scenery looks mystical in the rain; stick to the firm paths as the ground near the fields can become very muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Marseilia Beach 3",
+                "hu": "Marseilia Beach 3",
+                "ro": "Marseilia Beach 3",
+                "en": "Marseilia Beach 3"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den stürmischen See von einer überdachten Terrasse aus; der Wind am Ufer kann bei Regen sehr kräftig und kühl sein.",
+                "hu": "Élvezze a viharos tó látványát egy fedett teraszról; a parti szél esőben nagyon erős és hűvös lehet, így egy sál jól jöhet a séta alatt.",
+                "ro": "Bucurați-vă de vederea lacului agitat de pe o terasă acoperită; vântul de pe mal poate fi foarte puternic și rece în timpul ploii, deci purtați un fular.",
+                "en": "Enjoy the view of the stormy lake from a covered terrace; the coastal wind can be very strong and cool during rain, so bring a warm scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Academic Engineers",
+                "hu": "Academic Engineers",
+                "ro": "Academic Engineers",
+                "en": "Academic Engineers"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie das Hauptgebäude für trockene Aussichten auf; die Architektur bietet geometrische Schutzräume, perfekt um den Regen über den Gärten zu beobachten.",
+                "hu": "Keresse fel a főépületet a száraz kilátásért; az építészet geometriai védelmet nyújt, ami tökéletes az esőben ázó kertek megfigyeléséhez.",
+                "ro": "Vizitați clădirea principală pentru vederi uscate; arhitectura oferă protecție geometrică, perfectă pentru a observa grădinile sub ploaie.",
+                "en": "Visit the main building for dry views; the architecture provides geometric shelter, perfect for watching the rain fall over the gardens."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen in El Rawdah verlangt nach Schichten. Das Licht ist kristallklar, ideal für weite Sichten über das Qarun-Becken. Mittags wärmt die Sonne angenehm, perfekt für einen strammen Marsch durch das Dorf. Am Nachmittag sinken die Temperaturen schnell, wenn die Sonne sich dem Horizont nähert. Um 17:00 Uhr ist es bereits dämmrig und wir suchen gemütliche Wärme.",
+            "hu": "A hűvös téli reggel El Rawdahban réteges öltözködést igényel. A fény kristálytiszta, ideális a Qarun-medence távoli látképéhez. Délben a nap kellemesen melegít, ami tökéletes egy tempós falusi sétához. Délután a hőmérséklet gyorsan süllyed, ahogy a nap közelít a horizonthoz. 17:00-kor már szürkül, így korán érdemes meleg, belső helyszínt keresni.",
+            "ro": "O dimineață răcoroasă de iarnă în El Rawdah necesită haine în straturi. Lumina este de cristal, ideală pentru vederi panoramice peste bazinul Qarun. La prânz, soarele încălzește plăcut, fiind perfect pentru o plimbare alertă prin sat. După-amiaza, temperaturile scad rapid pe măsură ce soarele apune. La ora 17:00 este deja amurg, așa că ne retragem la căldură.",
+            "en": "A cool winter morning in El Rawdah calls for layers. The light is crystal clear, ideal for distant views across the Qarun basin. At noon, the sun warms pleasantly, perfect for a brisk walk through the village. In the afternoon, temperatures drop rapidly as the sun nears the horizon. By 17:00, it's already twilight, so we look for cozy indoor warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "New Maamoura",
+                "hu": "New Maamoura",
+                "ro": "New Maamoura",
+                "en": "New Maamoura"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Fassaden; tragen Sie eine Mütze, da der morgendliche Wüstenwind oft sehr schneidend und kalt ist.",
+                "hu": "Használja ki a tiszta téli fényt a homlokzatok fotózásához; viseljen sapkát, mert a reggeli sivatagi szél gyakran metsző és igen hideg.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii ale fațadelor; purtați o căciulă, deoarece vântul deșertic de dimineață este adesea tăios și rece.",
+                "en": "Take advantage of the clear winter light for photos of the facades; wear a hat as the morning desert wind is often biting and very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rawdah",
+                "hu": "El Rawdah",
+                "ro": "El Rawdah",
+                "en": "El Rawdah"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die sonnigen Straßenseiten auf, um warm zu bleiben; ein heißer lokaler Tee an einem Marktstand ist das perfekte Mittel gegen den Winterfrost.",
+                "hu": "Maradjon az utca napos oldalán, hogy melegen tartsa magát; egy forró helyi tea egy piaci árusnál a legjobb ellenszer a téli fagyos szél ellen.",
+                "ro": "Stați pe partea însorită a străzii pentru a vă menține căldura; un ceai local fierbinte la o tarabă din piață este remediul perfect împotriva frigului.",
+                "en": "Stay on the sunny side of the street to keep warm; a hot local tea at a market stall is the perfect remedy against the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "قرية الروضة",
+                "hu": "قرية الروضة",
+                "ro": "قرية الروضة",
+                "en": "قرية الروضة"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Bauern bei der Winterernte in den goldenen Feldern; feste Wanderschuhe schützen Ihre Füße vor dem kalten, oft feuchten Boden.",
+                "hu": "Figyelje meg a gazdákat a téli betakarítás közben az aranyló mezőkön; a bakancs megvédi lábát a hideg és gyakran nyirkos reggeli talajtól.",
+                "ro": "Observați fermierii în timpul recoltei de iarnă pe câmpurile aurii; bocancii vă vor proteja picioarele de solul rece și adesea umed de dimineață.",
+                "en": "Observe the farmers during the winter harvest in the golden fields; sturdy boots will protect your feet from the cold and often damp morning soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Marseilia Beach 3",
+                "hu": "Marseilia Beach 3",
+                "ro": "Marseilia Beach 3",
+                "en": "Marseilia Beach 3"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den See ist im Winter ruhig und weit; bringen Sie eine dicke Jacke mit, da die Kälte vom Wasser her ohne Sonne sofort spürbar wird.",
+                "hu": "A tó látványa télen nyugodt és tiszta; hozzon magával vastag kabátot, mert a víz felőli hideg napfény nélkül azonnal érezhetővé válik.",
+                "ro": "Vederea lacului este calmă și clară iarna; aduceți o jachetă groasă, deoarece frigul de pe apă devine imediat resimțibil fără lumina soarelui.",
+                "en": "The view of the lake is calm and clear in winter; bring a thick jacket as the cold from the water is felt immediately without direct sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Academic Engineers",
+                "hu": "Academic Engineers",
+                "ro": "Academic Engineers",
+                "en": "Academic Engineers"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor 16:30 Uhr, um das Tageslicht zu nutzen; die Temperatur fällt rapide, sobald die Sonne hinter den Palmen verschwindet.",
+                "hu": "Fejezze be a látogatást 16:30 előtt, hogy kihasználja a nappali fényt; a hőmérséklet hirtelen zuhan, amint a nap eltűnik a pálmák mögött.",
+                "ro": "Încheiați vizita înainte de ora 16:30 pentru a profita de lumină; temperatura scade brusc imediat ce soarele dispare după palmieri.",
+                "en": "Finish your visit before 16:30 to make the most of the daylight; the temperature drops sharply as soon as the sun vanishes behind the palms."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A reggel frissítő tengeri szellőt hoz az északi partra, amely egy kellemes biciklitúrával veszi kezdetét New Maamoura területén. Ahogy a nap egyre magasabbra hág, az út El Rawdah szívébe vezet, hogy átadja magát a ráérős helyi életstílusnak a nyeregben ülve.\nDélben a Marseilia Beach 3 és az Academic Engineers aranyló partszakaszai ideális hátteret nyújtanak a pihenéshez. A csillogó Földközi-tenger kiegészíti a környék nyüzsgő hangulatát, festői állomásokat kínálva a bringázás során.\nA délután során olyan hangulatos enklávékat érint, mint a Casabianca és a Ramatan. Ezek a helyek tökéletesek a meleg egyiptomi nap alatti feltöltődéshez, miközben megcsodálhatja az üdülőhelyek jellegzetes építészeti megoldásait.\nAz est közeledtével az Arab Liga üdülőkomplexuma elegáns környezettel várja a lemenő nap fényében. A hullámok lágy morajlása megnyugtató befejezést nyújt a napnak, békés emlékekkel gazdagítva a kerékpáros túrát.",
         "ro": "Dimineața aduce o briză răcoroasă pe Coasta de Nord, începând cu o plimbare cu bicicleta prin New Maamoura. Pe măsură ce soarele urcă pe cer, traseul vă conduce natural în inima El Rawdah, invitându-vă să îmbrățișați stilul de viață local lipsit de grabă.\nLa amiază, zonele de coastă de la Marseilia Beach 3 și Academic Engineers oferă un fundal ideal pentru relaxare. Marea Mediterană strălucitoare completează atmosfera vibrantă a zonei, transformând fiecare oprire într-un moment de bucurie pură.\nDupă-amiaza se desfășoară pedalând spre enclavele Casabianca și Ramatan. Aceste locuri sunt perfecte pentru a vă relaxa sub soarele cald, în timp ce vă bucurați de stilurile arhitecturale distincte ale acestor refugii de vară foarte îndrăgite.\nOdată cu lăsarea serii, zona Ligii Statelor Arabe oferă un decor elegant în lumina apusului. Sunetul blând al valurilor creează un final liniștitor al zilei pe două roți, asigurându-vă că aventura vă lasă amintiri de neuitat.",
         "en": "Morning brings a refreshing breeze to the North Coast, starting with a serene cycling exploration of New Maamoura. As the sun climbs higher, the pleasant coastal path leads naturally into the heart of El Rawdah, inviting you to embrace the unhurried local lifestyle on two wheels.\nBy midday, the scenic stretches of Marseilia Beach 3 and Academic Engineers provide an ideal backdrop for relaxation. The sparkling Mediterranean Sea complements the vibrant atmosphere of the area, making every pedal stroke along the shoreline a picturesque moment of tranquility.\nThe afternoon unfolds with visits to vibrant enclaves like Casabianca and the peaceful Ramatan. These spots are perfect for unwinding under the warm Egyptian sun while enjoying the distinct architectural styles that characterize these beloved summer retreats.\nAs evening approaches, the League of Arab States resort area offers an elegant setting in the fading light. The gentle sound of waves creates a soothing end to the active day, ensuring your coastal biking adventure leaves you with lasting, peaceful memories."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen durch El Rawdah ist ein Abenteuer für Mutige. Der Morgen beginnt mit feuchten Wegen und dem Duft von nasser Erde. Mittags navigieren wir vorsichtig durch das Dorf, um Pfützen zu meiden. Am Nachmittag bietet die Fahrt am Seeufer entlang dramatische Ausblicke auf graue Wellen. Vor dem schweren Abendregen kehren wir erschöpft, aber erfrischt zurück.",
+            "hu": "Az esőben biciklizés El Rawdah-ban igazi kaland a bátraknak. A reggel nyirkos utakkal és a vizes föld illatával indul. Délben óvatosan navigálunk a faluban, kerülgetve a mélyebb pocsolyákat. Délután a tóparti tekerés drámai kilátást nyújt a szürke hullámokra. A hevesebb esti eső előtt fáradtan, de felfrissülve térünk pihenőre.",
+            "ro": "Ciclismul prin ploaie în El Rawdah este o aventură pentru cei curajoși. Dimineața începe cu drumuri umede și mirosul pământului reavăn. La prânz, navigăm cu atenție prin sat pentru a evita bălțile adânci. După-amiaza, plimbarea pe malul lacului oferă vederi dramatice asupra valurilor cenușii. Ne întoarcem obosiți, dar revigorați înainte de ploaia grea de seară.",
+            "en": "Cycling through the rain in El Rawdah is an adventure for the brave. The morning starts with damp roads and the scent of wet earth. At noon, we navigate carefully through the village to avoid deep puddles. In the afternoon, the ride along the lakeshore offers dramatic views of grey waves. We return tired but refreshed before the heavy evening downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "New Maamoura",
+                "hu": "New Maamoura",
+                "ro": "New Maamoura",
+                "en": "New Maamoura"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; der nasse Sand auf den Außenwegen kann die Reifen rutschig machen und den Bremsweg deutlich verlängern.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a vizes homok a külső utakon csúszóssá teheti a gumikat, és jelentősen meghosszabbíthatja a féktávot.",
+                "ro": "Verificați frânele înainte de plecare; nisipul umed de pe drumurile exterioare poate face anvelopele alunecoase și poate prelungi distanța de frânare.",
+                "en": "Check your brakes before setting off; wet sand on the outer roads can make tires slippery and significantly increase braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rawdah",
+                "hu": "El Rawdah",
+                "ro": "El Rawdah",
+                "en": "El Rawdah"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Dorfzentrum langsam, um Passanten nicht nass zu spritzen; Schutzbleche sind heute Ihr bester Freund gegen aufgewirbelten Schlamm.",
+                "hu": "Hajtson lassan a falu központjában, hogy ne fröcskölje le a gyalogosokat; a sárvédő ma a legjobb barátja lesz a felverődő sár ellen.",
+                "ro": "Conduceți încet în centrul satului pentru a nu stropi pietonii; aripile bicicletei sunt astăzi cel mai bun prieten împotriva noroiului împroșcat.",
+                "en": "Ride slowly in the village center to avoid splashing pedestrians; mudguards are your best friend today against the kicked-up sludge."
+              }
+            },
+            {
+              "name": {
+                "de": "Marseilia Beach 3",
+                "hu": "Marseilia Beach 3",
+                "ro": "Marseilia Beach 3",
+                "en": "Marseilia Beach 3"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am See drückt den Regen oft von der Seite; tragen Sie eine eng anliegende Kapuze, damit Ihre Sicht beim Treten nicht eingeschränkt wird.",
+                "hu": "A tavi szél gyakran oldalról fújja az esőt; viseljen szűk kapucnit, hogy a látása ne legyen korlátozott tekerés közben az erős szélben.",
+                "ro": "Vântul de pe lac suflă adesea ploaia din lateral; purtați o glugă strânsă pentru ca vizibilitatea să nu fie limitată în timp ce pedalați.",
+                "en": "The lake wind often blows the rain from the side; wear a snug hood so your vision isn't restricted while pedaling in the gusty conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Academic Engineers",
+                "hu": "Academic Engineers",
+                "ro": "Academic Engineers",
+                "en": "Academic Engineers"
+              },
+              "tip_5lang": {
+                "de": "Die offenen Straßen sind hier windanfällig; nutzen Sie Reflektoren an Ihrer Kleidung, da die Sichtbarkeit bei starkem Regen für Autos geringer ist.",
+                "hu": "A nyílt utak itt szelesek; használjon fényvisszaverőket a ruháján, mivel erős esőben az autósok nehezebben veszik észre a kerékpárosokat.",
+                "ro": "Drumurile deschise sunt vântoase aici; folosiți reflectorizante pe haine, deoarece vizibilitatea este redusă pentru mașini în timpul ploii torențiale.",
+                "en": "The open roads are windy here; use reflectors on your clothing as visibility is reduced for cars during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Casabianca",
+                "hu": "Casabianca",
+                "ro": "Casabianca",
+                "en": "Casabianca"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier unter festen Gebäuden Unterschlupf für eine Pause; wischen Sie den Sattel trocken, bevor Sie Ihre Fahrt zum nächsten Ziel fortsetzen.",
+                "hu": "Keressen itt menedéket a szilárd épületek alatt egy pihenőre; törölje szárazra a nyerget, mielőtt folytatná az utat a következő állomás felé.",
+                "ro": "Căutați adăpost sub clădirile solide pentru o pauză; ștergeți șaua înainte de a continua drumul spre următoarea destinație.",
+                "en": "Seek shelter under the solid buildings here for a break; wipe your saddle dry before continuing your ride to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramatan",
+                "hu": "Ramatan",
+                "ro": "Ramatan",
+                "en": "Ramatan"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie gleichmäßig weiter, um warm zu bleiben; die graue Seenlandschaft wirkt im Regen sehr stimmungsvoll, achten Sie aber auf rutschige Bordsteine.",
+                "hu": "Tekerjen egyenletesen, hogy melegen tartsa magát; a szürke tóparti táj nagyon hangulatos az esőben, de ügyeljen a csúszós útpadkákra.",
+                "ro": "Pedalați constant pentru a vă menține căldura; peisajul cenușiu al lacului este foarte atmosferic în ploaie, dar atenție la marginile alunecoase.",
+                "en": "Keep pedaling steadily to stay warm; the grey lakeside landscape is very atmospheric in the rain, but watch out for slippery curbs."
+              }
+            },
+            {
+              "name": {
+                "de": "League of Arab States",
+                "hu": "League of Arab States",
+                "ro": "League of Arab States",
+                "en": "League of Arab States"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihr Fahrrad nach der Ankunft ab, um Rost zu vermeiden; suchen Sie sofort einen beheizten Innenraum auf, um die Unterkühlung zu stoppen.",
+                "hu": "Érkezés után szárítsa meg a kerékpárt a rozsda megelőzése érdekében; keressen egy fűtött belső teret, hogy elejét vegye a lehűlésnek.",
+                "ro": "Uscați bicicleta după sosire pentru a preveni rugina; căutați imediat un spațiu interior încălzit pentru a opri răceala de după drum.",
+                "en": "Dry your bike after arrival to prevent rust; immediately find a heated indoor space to ward off the chill from the wet ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert in El Rawdah Ausdauer gegen den Wind. Der Morgen ist frostig und die Luft beißt in die Wangen. Mittags genießen wir die milde Sonne auf den weiten Feldern, was das Treten erleichtert. Nachmittags wird die Luft spürbar kühler, je tiefer die Sonne sinkt. Wir beenden die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr, um der Dunkelheit zu entgehen.",
+            "hu": "A téli kerékpározás El Rawdah-ban kitartást igényel a széllel szemben. A reggel fagyos, a levegő csípi az arcot. Délben a mezők feletti enyhe napsütés megkönnyíti a tekerést. Délután a levegő érezhetően hűvösebb lesz, ahogy a nap egyre lejjebb süllyed. A túrát pontosan a 17:00-s naplemente előtt fejezzük be, elkerülve a sötétet.",
+            "ro": "Ciclismul de iarnă necesită rezistență împotriva vântului în El Rawdah. Dimineața este geroasă, iar aerul ciupește obrajii. La prânz, soarele blând peste câmpuri ușurează pedalarea. După-amiaza, aerul devine vizibil mai rece pe măsură ce soarele coboară. Încheiem turul fix înainte de apusul de la ora 17:00, pentru a evita întunericul.",
+            "en": "Winter cycling requires endurance against the wind in El Rawdah. The morning is frosty, and the air bites at your cheeks. At noon, the mild sun over the fields makes pedaling easier. In the afternoon, the air grows noticeably cooler as the sun dips lower. We finish the tour right before the 17:00 sunset to avoid the sudden darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "New Maamoura",
+                "hu": "New Maamoura",
+                "ro": "New Maamoura",
+                "en": "New Maamoura"
+              },
+              "tip_5lang": {
+                "de": "Handschuhe sind für die morgendliche Fahrt unerlässlich; der Fahrtwind kühlt die Finger schnell aus, was das Bremsen und Schalten erschweren kann.",
+                "hu": "A kesztyű elengedhetetlen a reggeli tekeréshez; a menetszél gyorsan lehűti az ujjakat, ami nehezítheti a fékezést és a váltást a hidegben.",
+                "ro": "Mănușile sunt esențiale pentru plimbarea de dimineață; vântul răcește rapid degetele, ceea ce poate îngreuna frânarea și schimbarea vitezelor.",
+                "en": "Gloves are essential for the morning ride; the wind chill cools fingers quickly, which can make braking and shifting difficult in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rawdah",
+                "hu": "El Rawdah",
+                "ro": "El Rawdah",
+                "en": "El Rawdah"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause für ein warmes Getränk, um Körperwärme zu tanken; nutzen Sie die kurzen Stopps, um Ihre Muskeln warm und beweglich zu halten.",
+                "hu": "Tartson szünetet egy meleg italra, hogy visszanyerje testhőjét; használja ki a rövid megállókat, hogy izmait melegen és mozgékonyan tartsa.",
+                "ro": "Faceți o pauză pentru o băutură caldă pentru a vă recupera căldura corpului; profitați de opririle scurte pentru a vă menține mușchii calzi.",
+                "en": "Take a break for a warm drink to regain body heat; use the short stops to keep your muscles warm and limber against the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Marseilia Beach 3",
+                "hu": "Marseilia Beach 3",
+                "ro": "Marseilia Beach 3",
+                "en": "Marseilia Beach 3"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie Ihre Ohren vor dem eisigen Uferwind; das Licht auf dem See ist im Winter wunderschön, aber die Brise kann sehr unangenehm werden.",
+                "hu": "Védje füleit a jeges parti széltől; a tó feletti fények gyönyörűek télen, de a szél nagyon kellemetlen lehet védelem nélkül.",
+                "ro": "Protejați-vă urechile de vântul înghețat de pe mal; lumina de pe lac este superbă iarna, dar briza poate fi foarte neplăcută fără protecție.",
+                "en": "Protect your ears from the icy coastal wind; the winter light on the lake is beautiful, but the breeze can be very uncomfortable without protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Academic Engineers",
+                "hu": "Academic Engineers",
+                "ro": "Academic Engineers",
+                "en": "Academic Engineers"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren blenden; tragen Sie eine Sonnenbrille, um den Kontrast auf der Fahrbahn besser zu erkennen.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; viseljen napszemüveget, hogy jobban lássa az út egyenetlenségeit a vakító fényben.",
+                "ro": "Soarele jos de iarnă vă poate orbi în timp ce pedalați; purtați ochelari de soare pentru a vedea mai bine denivelările drumului în lumina orbitoare.",
+                "en": "The low winter sun can blind you while riding; wear sunglasses to better see road hazards in the dazzling glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Casabianca",
+                "hu": "Casabianca",
+                "ro": "Casabianca",
+                "en": "Casabianca"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht scharf und klar; nutzen Sie den Ort für eine kurze Rast an einem windgeschützten, sonnigen Mauervorsprung.",
+                "hu": "Az építészet élesnek és tisztának tűnik a téli fényben; használja a helyet egy rövid pihenőre egy szélvédett, napos falfelületnél.",
+                "ro": "Arhitectura pare clară în lumina iernii; folosiți locul pentru o scurtă odihnă lângă un perete însorit și ferit de vânt.",
+                "en": "The architecture looks sharp and clear in the winter light; use this spot for a short rest near a sun-drenched, wind-sheltered wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramatan",
+                "hu": "Ramatan",
+                "ro": "Ramatan",
+                "en": "Ramatan"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit; nach 15:00 Uhr sinkt die Temperatur rapide, also halten Sie ein höheres Tempo bei, um Ihre Zirkulation zu fördern.",
+                "hu": "Ügyeljen az időre; 15:00 után a hőmérséklet gyorsan süllyed, ezért tartson fenn magasabb tempót a vérkeringés frissítéséhez.",
+                "ro": "Atenție la timp; după ora 15:00 temperatura scade rapid, așa că mențineți un ritm mai alert pentru a vă stimula circulația.",
+                "en": "Watch the time; after 15:00 the temperature drops rapidly, so maintain a higher pace to keep your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "League of Arab States",
+                "hu": "League of Arab States",
+                "ro": "League of Arab States",
+                "en": "League of Arab States"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor Einbruch der Dunkelheit; ein warmes Fleece nach der Tour verhindert, dass Sie durch den kalten Schweiß auskühlen.",
+                "hu": "Fejezze be a tekerést sötétedés előtt; egy meleg polár felső a túra után megakadályozza, hogy a hideg izzadtságtól megfázzon.",
+                "ro": "Încheiați plimbarea înainte de lăsarea întunericului; un polar cald după tur va preveni răceala cauzată de transpirația rece.",
+                "en": "Finish the ride before dark; a warm fleece after the tour will prevent you from catching a cold from the chilly damp sweat."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A reggel frissítő tengeri szellőt hoz az északi partra, amely egy autós megállóval veszi kezdetét New Maamoura nyugodt környezetében. Ahogy a nap egyre magasabbra hág, a rövid utazás természetes módon vezet át El Rawdah szívébe.\nDélben az Academic Engineers rendezett partszakasza ideális hátteret nyújt a pihenéshez. A csillogó Földközi-tenger kiegészíti a környék nyüzsgő hangulatát, így az autós utazás minden egyes állomása festői élményt garantál a part mentén.\nA délután során a Casabianca és a Ramatan üdülőhelyeit keresheti fel autójával. Ezek a helyek tökéletesek a meleg egyiptomi nap alatti feltöltődéshez, miközben kényelmesen felfedezheti e kedvelt nyári menedékhelyek jellegzetes építészeti megoldásait.\nAz est közeledtével az El Karawan lenyűgöző naplementét kínál a víz felett. A hullámok lágy morajlása megnyugtató befejezést nyújt a napnak, és biztosítja, hogy tengerparti kocsikázása békés emlékekkel gazdagodjon.",
         "ro": "Dimineața aduce o briză răcoroasă pe Coasta de Nord, începând cu o explorare confortabilă a zonei New Maamoura. Pe măsură ce soarele urcă pe cer, drumul plăcut cu mașina vă conduce natural în inima El Rawdah, invitându-vă să îmbrățișați stilul de viață relaxat.\nLa amiază, plaja din zona Academic Engineers oferă un fundal ideal pentru relaxare. Marea Mediterană strălucitoare completează atmosfera vibrantă, transformând fiecare oprire de-a lungul rutei costiere într-un moment pitoresc de liniște și bucurie.\nDupă-amiaza se desfășoară cu o scurtă deplasare spre Casabianca și Ramatan. Aceste locuri sunt perfecte pentru a vă relaxa sub soarele cald egiptean, în timp ce explorați cu mașina stilurile arhitecturale distincte ale acestor refugii de vară foarte îndrăgite.\nOdată cu lăsarea serii, complexul El Karawan oferă priveliști spectaculoase ale apusului. Sunetul blând al valurilor creează un final liniștitor al zilei, asigurându-vă că excursia rutieră pe coastă vă lasă amintiri pașnice și de neuitat.",
         "en": "Morning brings a refreshing breeze to the North Coast, starting with a comfortable drive to New Maamoura. As the sun climbs higher, the pleasant coastal route leads naturally into the heart of El Rawdah, inviting you to embrace the unhurried local lifestyle with ease.\nBy midday, the relaxing enclave of Academic Engineers provides an ideal backdrop for beachside lounging. The sparkling Mediterranean Sea complements the vibrant atmosphere of the area, making every driving stop along the shoreline a picturesque moment of tranquility.\nThe afternoon unfolds with visits to neatly arranged complexes like Casabianca and Ramatan. These spots are perfect for unwinding under the warm Egyptian sun while easily driving between the distinct architectural styles that characterize these beloved summer retreats.\nAs evening approaches, El Karawan offers spectacular sunset views over the water. The gentle sound of waves creates a soothing end to the day's road trip, ensuring your coastal adventure leaves you with lasting, peaceful memories of the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch El Rawdah ist die bequemste Art, den Regen zu genießen. Der Morgen bietet Panoramafensterblicke auf das graue Qarun-Becken. Mittags fahren wir gemütlich durch die nassen Dorfstraßen, während die Scheibenwischer den Rhythmus angeben. Nachmittags erkunden wir die Uferstraße ohne nass zu werden. Der Abend endet trocken und sicher an unserem Zielort.",
+            "hu": "Az autós túra El Rawdah-ban a legkényelmesebb módja az eső élvezetének. A reggel panorámás kilátást kínál a szürke Qarun-medencére a szélvédő mögül. Délben kényelmesen hajtunk át a vizes falusi utcákon. Délután a tóparti utat fedezzük fel anélkül, hogy megáznánk a szeles időben. Az este szárazon és biztonságban ér minket a végállomáson.",
+            "ro": "O călătorie cu mașina prin El Rawdah este cel mai confortabil mod de a te bucura de ploaie. Dimineața oferă vederi panoramice asupra bazinului Qarun prin parbriz. La prânz, conducem relaxat prin străzile ude ale satului. După-amiaza, explorăm drumul de pe mal fără a ne uda în vântul tăios. Seara ne găsește uscați și în siguranță la destinație.",
+            "en": "A car trip through El Rawdah is the most comfortable way to enjoy the rain. The morning offers panoramic views of the grey Qarun basin from behind the windshield. At noon, we drive leisurely through the wet village streets. In the afternoon, we explore the lakeside road without getting wet in the windy weather. The evening finds us dry and safe at our destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "New Maamoura",
+                "hu": "New Maamoura",
+                "ro": "New Maamoura",
+                "en": "New Maamoura"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um Regenschauer zu umgehen; genießen Sie die Architektur bequem von Ihrem trockenen Fahrersitz aus.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje a záporokat; élvezze az építészet látványát kényelmesen, a száraz autóból.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita aversele; bucurați-vă de arhitectură confortabil, din interiorul mașinii uscate.",
+                "en": "Park as close to the entrance as possible to avoid the showers; enjoy the architecture comfortably from your dry car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rawdah",
+                "hu": "El Rawdah",
+                "ro": "El Rawdah",
+                "en": "El Rawdah"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen in den Seitenstraßen des Dorfes; das Fahren durch das Zentrum ist der beste Weg, das lokale Treiben im Regen zu sehen.",
+                "hu": "Ügyeljen a mély pocsolyákra a falu mellékutcáiban; a központon való áthajtás a legjobb módja a helyi nyüzsgés megfigyelésének esőben.",
+                "ro": "Atenție la bălțile adânci de pe străzile laterale ale satului; traversarea centrului este cea mai bună cale de a vedea agitația locală pe ploaie.",
+                "en": "Watch out for deep puddles in the village side streets; driving through the center is the best way to see the local bustle during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Academic Engineers",
+                "hu": "Academic Engineers",
+                "ro": "Academic Engineers",
+                "en": "Academic Engineers"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die landwirtschaftliche Aussicht aus dem Fenster; die grünen Felder leuchten im Regen besonders intensiv, ideal für Fotos aus dem Auto.",
+                "hu": "Élvezze a mezőgazdasági kilátást az ablakból; a zöld mezők esőben különösen intenzív színűek, ideálisak az autóból készített fotókhoz.",
+                "ro": "Bucurați-vă de vederile agricole de la fereastră; câmpurile verzi au culori intense în ploaie, fiind ideale pentru fotografii din mașină.",
+                "en": "Enjoy the agricultural views from the window; the green fields show particularly intense colors in the rain, ideal for car-bound photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Casabianca",
+                "hu": "Casabianca",
+                "ro": "Casabianca",
+                "en": "Casabianca"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Ort mit guten Parkmöglichkeiten; perfekt für eine Pause im Trockenen, um die moderne Ferienhaus-Architektur zu bewundern.",
+                "hu": "Modern hely jó parkolási lehetőségekkel; tökéletes egy száraz pihenőre, hogy megcsodálja a modern üdülőházak építészetét az esőben.",
+                "ro": "Un loc modern cu facilități bune de parcare; perfect pentru o pauză uscată pentru a admira arhitectura modernă a caselor de vacanță.",
+                "en": "A modern spot with good parking facilities; perfect for a dry break to admire the modern holiday home architecture through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramatan",
+                "hu": "Ramatan",
+                "ro": "Ramatan",
+                "en": "Ramatan"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei Regen riesig und grau; nutzen Sie das Auto als Windschutz für beeindruckende Panoramaaufnahmen der stürmischen Küste.",
+                "hu": "A tó esőben hatalmasnak és szürkének tűnik; használja az autót szélfogóként a viharos partról készített lenyűgöző panorámaképekhez.",
+                "ro": "Lacul pare vast și cenușiu în ploaie; folosiți mașina ca paravânt pentru fotografii panoramice impresionante ale țărmului furtunos.",
+                "en": "The lake looks vast and grey in the rain; use the car as a windbreak for impressive panoramic shots of the stormy coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "El Karawan",
+                "hu": "El Karawan",
+                "ro": "El Karawan",
+                "en": "El Karawan"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Wagen, bis der Schauer nachlässt; die erhöhte Position auf den Straßen bietet die beste Sicht auf das regnerische Ufergebiet.",
+                "hu": "Maradjon a kocsiban, amíg a zápor alábbhagy; az utak magaslati pontjai kínálják a legjobb kilátást az esőben ázó part menti területre.",
+                "ro": "Rămâneți în mașină până când aversa se domolește; punctele înalte ale drumului oferă cea mai bună vedere asupra zonei de coastă ploioase.",
+                "en": "Stay in the car until the shower subsides; the elevated road positions offer the best views of the rain-soaked coastal area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt durch El Rawdah bietet wohlige Wärme gegen die Wüstenkälte. Der Morgen beginnt mit einer geheizten Fahrt durch kristallklare Landschaften. Mittags erkunden wir das Dorf, wobei das Auto als Basis für unsere Ausflüge dient. Nachmittags genießen wir das warme Licht der tiefstehenden Sonne. Um 17:00 Uhr erleben wir einen spektakulären Wintersonnenuntergang bequem vom Sitz aus.",
+            "hu": "A téli autós túra El Rawdah-ban kellemes meleget nyújt a sivatagi hideggel szemben. A reggel fűtött utazással indul a kristálytiszta tájon át. Délben a falut fedezzük fel, az autót bázisként használva a rövid kiszállásokhoz. Délután az alacsonyan járó nap meleg fényeit élvezzük. 17:00-kor látványos téli naplementét nézünk végig a kényelmes ülésekből.",
+            "ro": "Călătoria de iarnă cu mașina în El Rawdah oferă căldură plăcută împotriva frigului deșertic. Dimineața începe cu o plimbare încălzită prin peisaje clare. La prânz explorăm satul, folosind mașina ca bază pentru scurte ieșiri. După-amiaza ne bucurăm de lumina caldă a soarelui jos. La ora 17:00 urmărim un apus spectaculos de iarnă din scaunele confortabile.",
+            "en": "A winter car trip in El Rawdah offers cozy warmth against the desert chill. The morning starts with a heated drive through crystal-clear landscapes. At noon, we explore the village, using the car as a base for short excursions. In the afternoon, we enjoy the warm glow of the low sun. At 17:00, we watch a spectacular winter sunset from the comfort of our seats."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "New Maamoura",
+                "hu": "New Maamoura",
+                "ro": "New Maamoura",
+                "en": "New Maamoura"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung zwischen den Stopps an; die Außenluft ist morgens sehr frisch, aber die klare Sicht bietet perfekte Fotomöglichkeiten.",
+                "hu": "Hagyja bekapcsolva a fűtést a megállók között; a kinti levegő reggel igen csípős, de a tiszta látási viszonyok tökéletes fotótémát kínálnak.",
+                "ro": "Lăsați încălzirea pornită între opriri; aerul de afară este foarte tăios dimineața, dar vizibilitatea clară oferă oportunități foto perfecte.",
+                "en": "Keep the heater on between stops; the outside air is very crisp in the morning, but the clear visibility offers perfect photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rawdah",
+                "hu": "El Rawdah",
+                "ro": "El Rawdah",
+                "en": "El Rawdah"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und machen Sie einen kurzen Gang über den Wintermarkt; die lokalen Produkte der Saison sind frisch und einen kurzen Halt wert.",
+                "hu": "Parkoljon a központban, és tegyen egy rövid sétát a téli piacon; a szezonális helyi termékek frissek és megérnek egy gyors megállót a hidegben.",
+                "ro": "Parcați central și faceți o scurtă plimbare prin piața de iarnă; produsele locale de sezon sunt proaspete și merită o oprire scurtă în frig.",
+                "en": "Park centrally and take a short walk through the winter market; seasonal local products are fresh and well worth a quick stop in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Academic Engineers",
+                "hu": "Academic Engineers",
+                "ro": "Academic Engineers",
+                "en": "Academic Engineers"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft wirkt im Winter karg und schön; halten Sie eine warme Jacke im Auto bereit, falls Sie für Fotos kurz aussteigen möchten.",
+                "hu": "A táj télen puritán és gyönyörű; tartson egy meleg kabátot az autóban készenlétben, ha a fotók kedvéért rövid időre kiszállna a szélbe.",
+                "ro": "Peisajul iarna este auster și frumos; țineți o jachetă groasă în mașină pregătită, în caz că doriți să coborâți scurt pentru fotografii.",
+                "en": "The landscape looks stark and beautiful in winter; keep a warm jacket ready in the car in case you want to step out briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Casabianca",
+                "hu": "Casabianca",
+                "ro": "Casabianca",
+                "en": "Casabianca"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die entspannte Atmosphäre; der Winter ist die ruhigste Zeit, um die modernen Ferienanlagen ohne die Sommerhitze zu besichtigen.",
+                "hu": "Élvezze a nyugodt légkört; a tél a legcsendesebb időszak a modern üdülőközpontok megtekintésére a nyári hőség és a tömeg nélkül.",
+                "ro": "Bucurați-vă de atmosfera relaxată; iarna este cea mai liniștită perioadă pentru a vedea complexele moderne fără căldura verii.",
+                "en": "Enjoy the relaxed atmosphere; winter is the quietest time to view the modern resorts without the summer heat or crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramatan",
+                "hu": "Ramatan",
+                "ro": "Ramatan",
+                "en": "Ramatan"
+              },
+              "tip_5lang": {
+                "de": "Panoramablick auf den kalten See; das Auto bietet den besten Schutz gegen den schneidenden Wind, der über das offene Wasser weht.",
+                "hu": "Panorámás kilátás a hideg tóra; az autó nyújtja a legjobb védelmet a nyílt víz felől fújó metsző szél ellen a nézelődés közben.",
+                "ro": "Vedere panoramică asupra lacului rece; mașina oferă cea mai bună protecție împotriva vântului tăios care suflă de pe apa deschisă.",
+                "en": "Panoramic views of the cold lake; the car provides the best protection against the biting wind blowing off the open water."
+              }
+            },
+            {
+              "name": {
+                "de": "El Karawan",
+                "hu": "El Karawan",
+                "ro": "El Karawan",
+                "en": "El Karawan"
+              },
+              "tip_5lang": {
+                "de": "Das letzte Licht gegen 17:00 Uhr ist magisch; genießen Sie den winterlichen Sonnenuntergang vom Ufer aus, bevor die Nachttemperaturen fallen.",
+                "hu": "Az utolsó fények 17:00 körül varázslatosak; élvezze a téli naplementét a partról, mielőtt az éjszakai hőmérséklet hirtelen zuhanni kezdene.",
+                "ro": "Ultima lumină în jurul orei 17:00 este magică; bucurați-vă de apusul de iarnă de pe mal înainte ca temperaturile nocturne să scadă brusc.",
+                "en": "The last light around 17:00 is magical; enjoy the winter sunset from the shoreline before the night temperatures begin to drop sharply."
+              }
+            }
+          ]
+        }
       }
     }
   }

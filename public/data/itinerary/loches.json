@@ -183,6 +183,224 @@
         "hu": "Sétája az alsóvárosban, a lenyűgöző Cordeliers kapunál kezdődik, és a magasba törő Saint-Antoine toronyhoz vezet. A friss reggeli levegő tökéletes alaphangot ad a város felfedezéséhez.\n\nDélben sétáljon fel a festői Loches-i közkertbe, ahol a csendes ösvények pihentető szünetet biztosítanak. Röviddel ezután a Saint-Ours kollégiumi templom lenyűgöző tetőszerkezete várja, hogy megcsodálja.\n\nA délután a művészet és a királyi történelem jegyében telik. Böngésszen a Lansyer Múzeum gyönyörű gyűjteményében, mielőtt belépne a történelmi királynék által kedvelt pazar királyi lakosztályokba.\n\nAhogy közeledik az este, az utolsó emelkedő a félelmetes öregtoronyhoz vezet. Az ősi falakon állva lélegzetelállító panoráma nyílik az Indre völgyére a gyönyörű naplementében.",
         "ro": "Aventura pietonală începe în orașul de jos, la impresionanta Poartă Cordeliers, ducându-vă spre falnicul Turn Saint-Antoine. Aerul dimineții creează o atmosferă perfectă pentru explorare.\n\nLa amiază, urcați spre Grădina Publică Loches, unde cărările liniștite oferă o pauză odihnitoare. La scurt timp, acoperișurile unice ale Bisericii Saint-Ours vă așteaptă să le admirați frumusețea.\n\nDupă-amiaza este dedicată artei și istoriei regale. Veți răsfoi colecțiile rafinate la Muzeul Lansyer înainte de a păși în opulentele Lojii Regale, preferate de reginele istorice ale Franței.\n\nPe măsură ce se apropie seara, ultima urcare vă duce la formidabilul Donjon din Loches. Stând pe vârful cetății antice, veți fi răsplătit cu vederi panoramice uluitoare peste valea Indre.",
         "en": "Your walking adventure begins in the bustling lower town at the impressive Cordeliers Gate, leading you to the soaring Saint-Antoine Tower. The morning air sets a perfect tone for exploring.\n\nBy midday, ascend towards the picturesque Loches Public Garden, where tranquil paths provide a restful pause. Shortly after, the striking dubes of Saint-Ours Collegiate Church await your admiration.\n\nThe afternoon is dedicated to art and royal history. You'll browse the exquisite collections at the Lansyer Museum before stepping into the opulent Royal Lodgings, favored by historical queens.\n\nAs evening approaches, your final ascent takes you to the formidable Loches Keep. Standing atop the ancient donjon, you'll be rewarded with breathtaking panoramic views over the Indre valley at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Cordeliers-Tor Schutz, während man die mittelalterliche Pracht bewundert. Mittags führt der Weg durch den nassen Stadtgarten zur schützenden Stiftskirche. Nachmittags laden das Lansyer-Museum und die königlichen Gemächer zu ausgiebigen Innenbesichtigungen ein. Abends verleiht der Regen den beleuchteten Gassen der Altstadt einen glänzenden, fast mystischen Charakter.",
+            "hu": "Reggel a Cordeliers kapu boltívei alatt kezdünk, menedéket keresve az eső elől. Délben a közkert friss illata után a templom vastag falai közé húzódunk. Délután a Lansyer Múzeum és a Királyi lakosztályok kínálnak száraz, tartalmas programot. Estére a vizes macskaköveken megcsillanó fények varázsolják különlegessé a középkori negyed hangulatát, miközben a város csendesebb arcát mutatja.",
+            "ro": "Dimineața începe la Poarta Cordeliers, folosind arcadele sale ca adăpost împotriva ploii. La prânz, vizităm grădina publică rapid, apoi ne refugiem în interiorul bisericii Saint-Ours. După-amiaza este dedicată muzeului și lojilor regale, perfecte pentru a rămâne la adăpost. Seara, reflexiile ploii pe străzile medievale creează o atmosferă melancolică, dar fascinantă sub luminile orașului.",
+            "en": "Morning starts at the Cordeliers Gate, using its arches for shelter while admiring the architecture. At noon, a quick walk through the scented public garden leads to the dry interior of the church. Afternoon is perfect for the Lansyer Museum and Royal Lodgings, offering extensive indoor exploration. In the evening, the rain makes the medieval cobblestones glisten beautifully under the streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tor der Cordeliers",
+                "hu": "Cordeliers kapu",
+                "ro": "Poarta Cordeliers",
+                "en": "Cordeliers Gate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die spätgotische Architektur unter dem Schutz der Torbögen, um trocken zu bleiben. Ein großer Regenschirm ist bei Wind in dieser Passage sehr hilfreich.",
+                "hu": "Csodálja meg a késő gótikus kapu részleteit az ívek alatti fedett részekről, így szárazon maradhat. Az erős szél miatt a kapualj kiváló természetes szélfogó is egyben.",
+                "ro": "Admirați arhitectura gotică târzie de sub protecția bolților porții pentru a rămâne uscat. Un umbrelă rezistentă este utilă deoarece vântul poate fi puternic în acest pasaj.",
+                "en": "Admire the late Gothic architecture from the shelter of the gate's arches to stay dry. A sturdy umbrella is helpful as the wind can pick up through this stone passage."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm Saint-Antoine",
+                "hu": "Saint-Antoine torony",
+                "ro": "Turnul Saint-Antoine",
+                "en": "Saint-Antoine Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen ehemaligen Glockenturm von den umliegenden Hauseingängen aus, um dem Regen zu entgehen. Achten Sie auf die rutschigen Steinstufen am Fuße des Turms.",
+                "hu": "Figyelje meg az egykori harangtorony reneszánsz faragványait a közeli épületek ereszei alól. Vigyázzon, mert a torony tövében a régi kövek esőben rendkívül csúszósak.",
+                "ro": "Observați detaliile renascentiste ale acestui fost turn clopotniță din pragul clădirilor învecinate. Aveți grijă la treptele de piatră care devin foarte alunecoase pe ploaie.",
+                "en": "Observe the Renaissance carvings of this former belfry from the doorways of nearby buildings. Watch your step as the ancient stones around the base become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentlicher Garten Loches",
+                "hu": "Loches-i közkert",
+                "ro": "Grădina Publică Loches",
+                "en": "Loches Public Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Duft des Gartens bei Regen, halten Sie sich aber für besseren Halt an die asphaltierten Wege. Die dichten Bäume bieten nur kurzzeitig Schutz.",
+                "hu": "Élvezze a kert friss illatát esőben is, de a sár elkerülése érdekében maradjon a kövezett sétányokon. A sűrű lombok csak ideiglenes védelmet nyújtanak a zápor ellen.",
+                "ro": "Bucurați-vă de mirosul proaspăt al grădinii pe ploaie, dar rămâneți pe potecile pavate pentru siguranță. Copacii deși oferă doar o protecție parțială împotriva apei.",
+                "en": "Enjoy the fresh scent of the garden in the rain, but stick to the paved paths to avoid mud. The dense trees provide only temporary shelter from a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Ours",
+                "hu": "Saint-Ours kollégiumi templom",
+                "ro": "Biserica Colegială Saint-Ours",
+                "en": "Saint-Ours Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in diesem romanischen Juwel und lauschen Sie dem Trommeln des Regens auf den Steindächern. Die Innentemperatur ist angenehm trocken und ruhig.",
+                "hu": "Keressen menedéket ebben a román stílusú ékszerdobozban, ahol az eső kopogása még ünnepélyesebbé teszi a csendet. A belső tér száraz és kiváló hely az elmélyülésre.",
+                "ro": "Căutați refugiu în această bijuterie romanică și ascultați sunetul ploii pe acoperișurile de piatră. Interiorul este uscat și oferă o liniște deplină pe timp de furtună.",
+                "en": "Seek refuge in this Romanesque gem and listen to the rain drumming on the unique stone pyramids. The interior is dry and provides a peaceful escape from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Lansyer-Museum",
+                "hu": "Lansyer Múzeum",
+                "ro": "Muzeul Lansyer",
+                "en": "Lansyer Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regentag für einen ausgiebigen Besuch im Wohnhaus des Malers mit seinen intimen Kollektionen. Die Garderobe bietet ausreichend Platz für nasse Mäntel.",
+                "hu": "Használja ki az esős időt a festő egykori lakóházának és gyűjteményeinek alapos felfedezésére. A múzeumban van lehetőség a vizes kabátok és esernyők biztonságos tárolására.",
+                "ro": "Profită de ziua ploioasă pentru o vizită detaliată în casa pictorului și colecțiile sale intime. Există spațiu pentru lăsat pelerinele și umbrelele ude la intrare.",
+                "en": "Take advantage of the rainy weather for a detailed visit to the painter's former home and collections. The museum has facilities to store wet coats and umbrellas safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gemächer",
+                "hu": "Királyi lakosztályok",
+                "ro": "Lojile Regale",
+                "en": "Royal Lodgings"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prächtigen Säle im Inneren, während draußen der Regen gegen die hohen Fenster peitscht. Der gesamte Rundgang findet in geschützten Innenräumen statt.",
+                "hu": "Fedezze fel a pazar termeket, miközben az ablakokon keresztül nézi a várudvarra hulló esőt. A teljes látogatói útvonal fedett, így zavartalanul élvezheti a történelmet.",
+                "ro": "Explorați sălile magnifice în timp ce ploaia bate în ferestrele înalte ale lojilor regale. Întreagul circuit de vizitare este în interior, fiind ferit de intemperii.",
+                "en": "Explore the magnificent halls inside while the rain lashes against the high windows of the lodgings. The entire tour is indoors, making it a perfect rainy day activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergfried von Loches",
+                "hu": "Loches-i öregtorony",
+                "ro": "Donjonul din Loches",
+                "en": "Loches Keep"
+              },
+              "tip_5lang": {
+                "de": "Die feuchten Mauern des Kerkers verstärken die düstere Atmosphäre dieser mittelalterlichen Festung. Seien Sie vorsichtig beim Aufstieg, da die Metalltreppen rutschig sein können.",
+                "hu": "A várbörtön nyirkos falai még hitelesebbé teszik a középkori erőd sötét hangulatát. Vigyázzon a fémlépcsőkön, mert a cipőtalpakról lecsöpögő víz csúszóssá teheti őket.",
+                "ro": "Zidurile umede ale temniței accentuează atmosfera sumbră a acestei fortărețe medievale. Atenție pe scările metalice, care pot deveni alunecoase de la umezeală.",
+                "en": "The damp walls of the dungeon enhance the somber atmosphere of this medieval fortress. Be careful on the metal stairs, as water from shoes can make them slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Cordeliers-Tor, umgeben von frostigem Kopfsteinpflaster. Mittags bietet die Stiftskirche einen Ort der Stille und Wärme. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten die Außenanlagen der Burg früh besichtigt werden. Abends leuchten die mittelalterlichen Fassaden im warmen Licht der Laternen vor dem dunklen Winterhimmel.",
+            "hu": "A téli reggel frissen indul a Cordeliers kapunál, ahol a dér borította kövek között sétálhatunk. Délben a templom és a múzeum vastag falai adnak enyhet a hideg elől. Mivel 17:00 körül már sötétedik, a várudvart korábban érdemes bejárni. Estére a kivilágított óváros házai és a kőfalak különleges, békés karácsonyi hangulatot árasztanak a korai szürkületben.",
+            "ro": "Dimineața de iarnă începe cu aer rece la Poarta Cordeliers, explorând străzile înghețate. La prânz, biserica Saint-Ours oferă un moment de liniște și adăpost contra frigului. Deoarece soarele apune în jur de ora 17:00, vizitați exteriorul castelului devreme. Seara, fațadele medievale luminate creează o atmosferă caldă sub cerul întunecat de iarnă.",
+            "en": "The winter morning starts fresh at the Cordeliers Gate, surrounded by frosty cobblestones. At noon, the thick walls of the church and museum provide a welcome break from the cold. Since the sun sets around 5:00 PM, explore the castle exteriors early. In the evening, the illuminated medieval facades glow warmly against the dark winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tor der Cordeliers",
+                "hu": "Cordeliers kapu",
+                "ro": "Poarta Cordeliers",
+                "en": "Cordeliers Gate"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steine strahlen im Winter eine besondere Kälte aus; tragen Sie warme Handschuhe für Fotos. Das Tor wirkt im tiefstehenden Winterlicht besonders imposant.",
+                "hu": "A hatalmas kövek télen ontják a hideget, ezért a fotózáshoz érdemes meleg kesztyűt viselni. Az alacsonyan járó téli napfényben a kapu textúrája lenyűgözően mutat.",
+                "ro": "Pietrele masive emană un frig pătrunzător iarna; purtați mănuși groase pentru fotografii. Poarta arată impunător în lumina joasă a soarelui de iarnă.",
+                "en": "The massive stones radiate cold in winter; wear warm gloves if you plan to take many photos. The gate looks particularly imposing in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm Saint-Antoine",
+                "hu": "Saint-Antoine torony",
+                "ro": "Turnul Saint-Antoine",
+                "en": "Saint-Antoine Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die filigranen Renaissance-Details, die im klaren Winterhimmel scharf hervorstechen. Halten Sie sich von Dachrinnen fern, von denen Eiszapfen fallen könnten.",
+                "hu": "Csodálja meg a reneszánsz részleteket, amelyek a tiszta téli égbolt előtt élesen kirajzolódnak. Kerülje el az ereszek alatti részeket, ahol jégcsapok alakulhatnak ki.",
+                "ro": "Admirați detaliile renascentiste care ies în evidență pe fundalul cerului senin de iarnă. Evitați zonele de sub streșini unde se pot forma țurțuri de gheață periculosi.",
+                "en": "Admire the delicate Renaissance details that stand out sharply against the clear winter sky. Stay clear of roof edges where icicles might form and fall in freezing weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Öffentlicher Garten Loches",
+                "hu": "Loches-i közkert",
+                "ro": "Grădina Publică Loches",
+                "en": "Loches Public Garden"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch den frostigen Garten bietet eine tolle Aussicht auf die Burgmauer. Da die Bänke oft eiskalt sind, empfiehlt sich ein zügiger Rundgang.",
+                "hu": "A zúzmarás kertben tett rövid séta során nyílik a legszebb kilátás a várfalakra. Mivel a padok ilyenkor jéghidegek, érdemes folyamatosan mozgásban maradni.",
+                "ro": "O scurtă plimbare prin grădina înghețată oferă vederi superbe spre zidurile cetății. Deoarece băncile sunt reci, este recomandat un tur rapid fără opriri lungi.",
+                "en": "A short walk through the frosty garden offers great views of the castle walls. Since the benches are freezing, a brisk walk is better than sitting down to rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Ours",
+                "hu": "Saint-Ours kollégiumi templom",
+                "ro": "Biserica Colegială Saint-Ours",
+                "en": "Saint-Ours Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche schützt vor dem beißenden Wind, bleibt aber aufgrund der Steinmassen kühl. Behalten Sie Ihren Mantel für den Besuch der Krypta unbedingt an.",
+                "hu": "A templom belseje megvéd a metsző széltől, de a kőfalak miatt továbbra is hűvös marad. A kripta látogatásához ne vegye le a kabátját, mert ott még hidegebb van.",
+                "ro": "Interiorul bisericii vă protejează de vântul tăios, dar rămâne răcoros din cauza zidurilor de piatră. Păstrați haina pe dvs. mai ales când vizitați zona criptei.",
+                "en": "The church interior protects you from the biting wind but remains chilly due to the massive stones. Keep your coat on, especially when visiting the lower areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Lansyer-Museum",
+                "hu": "Lansyer Múzeum",
+                "ro": "Muzeul Lansyer",
+                "en": "Lansyer Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre des beheizten Hauses, während Sie durch die Kunstgalerien schlendern. Die warme Innenbeleuchtung schafft im Winter ein tolles Ambiente.",
+                "hu": "Élvezze a fűtött ház barátságos melegét, miközben végigjárja a művészeti galériákat. A benti világítás télen különösen meghitt hangulatot áraszt a festmények között.",
+                "ro": "Bucurați-vă de atmosfera primitoare a casei încălzite în timp ce explorați galeriile de artă. Lumina caldă din interior creează o ambianță plăcută în zilele de iarnă.",
+                "en": "Enjoy the cozy atmosphere of the heated house while strolling through the art galleries. The warm indoor lighting creates a lovely ambiance during the short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gemächer",
+                "hu": "Királyi lakosztályok",
+                "ro": "Lojile Regale",
+                "en": "Royal Lodgings"
+              },
+              "tip_5lang": {
+                "de": "Die großen Kamine erinnern an die winterliche Hofhaltung vergangener Jahrhunderte. Planen Sie Ihren Besuch vor 16:30 Uhr, um das natürliche Licht in den Sälen zu nutzen.",
+                "hu": "A hatalmas kandallók a letűnt századok téli udvartartásait idézik fel a látogatóban. Érkezzen 16:30 előtt, hogy a lemenő nap fénye még bevilágítsa a nagytermeket.",
+                "ro": "Șemineele uriașe amintesc de viața la curte în timpul iernilor de odinioară. Planificați vizita înainte de ora 16:30 pentru a profita de lumina naturală din săli.",
+                "en": "The huge fireplaces evoke the winter court life of past centuries. Plan your visit before 4:30 PM to make the most of the natural light in the grand halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergfried von Loches",
+                "hu": "Loches-i öregtorony",
+                "ro": "Donjonul din Loches",
+                "en": "Loches Keep"
+              },
+              "tip_5lang": {
+                "de": "Vom Gipfel des Turms haben Sie eine klare Sicht auf die winterliche Landschaft des Indre-Tals. Oben weht ein sehr kalter Wind, eine warme Mütze ist hier unverzichtbar.",
+                "hu": "A torony tetejéről tiszta időben messzire ellátni az Indre-völgy téli tájai felett. A tetőn nagyon erős és fagyos szél fúj, a sapka és sál viselése kötelező.",
+                "ro": "Din vârful turnului aveți o vedere clară asupra peisajului de iarnă al văii Indre. Sus vântul este foarte rece, așa că o căciulă groasă este absolut necesară.",
+                "en": "From the top of the keep, you have a clear view of the wintry Indre valley landscape. It is very windy at the summit, so a warm hat is essential for the climb."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a kerékpártúrát az elegáns Sansac kastélynál, mielőtt átgurulna az alsóvároson, hogy megcsodálja a középkori Cordeliers kaput. A lágy reggeli fény tökéletesen megvilágítja a követ.\n\nDél közeledtével tekerjen az Espace Agnès Sorel felé, hogy magába szívja a helyi kortárs kultúrát. A középkori erődítmények és a modern művészet közötti átmenet lenyűgöző kontrasztot nyújt.\n\nTöltse a délutánt a város királyi múltjának felfedezésével. Kerékpározzon fel a csodálatos királyi lakosztályokhoz, majd látogasson el a régió látképét uraló, impozáns Loches-i öregtoronyhoz.\n\nA nap egy rövid tekeréssel zárul a történelmi Vignemont kőbányához. Ezeknek a hűvös barlangjáratoknak a felfedezése egyedülálló, kalandos lezárása a kétkerekű felfedezőútnak.",
         "ro": "Începeți turul cu bicicleta la elegantul Château de Sansac înainte de a aluneca prin orașul de jos pentru a admira Poarta medievală Cordeliers. Lumina dimineții luminează perfect piatra.\n\nSpre amiază, mergeți spre Espace Agnès Sorel pentru a vă scufunda în cultura contemporană locală. Tranziția de la fortificațiile medievale la arta modernă oferă un contrast fascinant.\n\nPetreceți-vă după-amiaza explorând profund trecutul regal al orașului. Călătoriți până la magnificele Loji Regale, urmate de o vizită la impunătorul Donjon, dominând peisajul.\n\nZiua se încheie cu o scurtă plimbare spre istorica Carieră Vignemont. Explorarea acestor tuneluri troglodite răcoroase oferă un sfârșit unic și aventuros explorării dumneavoastră.",
         "en": "Kick off your cycling tour at the elegant Château de Sansac before gliding through the lower town to marvel at the medieval Cordeliers Gate. The gentle morning light perfectly illuminates the stone.\n\nAs midday rolls around, ride toward the Espace Agnès Sorel to soak in the local contemporary culture. The transition from medieval fortifications to modern art provides a fascinating contrast.\n\nSpend your afternoon diving deep into the city's royal past. Cycle up to the magnificent Royal Lodgings, followed by a visit to the imposing Loches Keep, dominating the regional skyline.\n\nYour day concludes with a short ride out to the historic Vignemont Quarry. Exploring these cool troglodyte tunnels provides a unique, adventurous end to your two-wheeled exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Schloss Sansac, wobei nasse Straßen Vorsicht erfordern. Mittags führt die Route durch das Cordeliers-Tor zu den überdachten Kulturräumen. Nachmittags bieten die königlichen Gemächer und der Bergfried lange Pausen im Trockenen. Abends ist die kurze Fahrt zum Vignemont-Steinbruch bei Regen atmosphärisch, aber Vorsicht vor rutschigem Laub auf den Wegen.",
+            "hu": "A kerékpártúra a Sansac kastélynál indul, ahol a vizes aszfalton óvatos haladás szükséges. Délben a Cordeliers kapun át érjük el a fedett kulturális tereket. Délután a Királyi lakosztályok és az öregtorony falai között tarthatunk hosszabb pihenőt a csapadék elől. Estére a Vignemont kőbánya felé vezető út esőben is járható, de ügyeljen a csúszós levelekre az úton.",
+            "ro": "Turul pe bicicletă începe la Castelul Sansac, drumurile ude necesitând prudență sporită. La prânz, trecem prin Poarta Cordeliers spre spațiile culturale acoperite. După-amiaza, lojile regale și donjonul oferă pauze lungi la uscat. Seara, drumul spre cariera Vignemont este atmosferic pe ploaie, dar atenție la frunzele umede care pot fi extrem de alunecoase.",
+            "en": "The bike tour starts at Château de Sansac, with wet roads requiring extra caution. At noon, ride through Cordeliers Gate towards covered cultural spaces for a break. In the afternoon, the Royal Lodgings and Keep offer long indoor visits away from the rain. In the evening, the short ride to Vignemont Quarry is atmospheric but watch out for slippery leaves on the path."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss de Sansac",
+                "hu": "Sansac kastély",
+                "ro": "Castelul de Sansac",
+                "en": "Château de Sansac"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und bewundern Sie die Fassade dieses Renaissance-Schmuckstücks. Die Zufahrt kann bei Regen durch Pfützen etwas schlammig sein.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és csodálja meg ennek a reneszánsz ékszerdoboznak a homlokzatát. A bejáratnál esőben sáros tócsákra lehet számítani.",
+                "ro": "Parcați bicicleta într-un loc ferit și admirați fațada acestei bijuterii renascentiste. Aleea de acces poate fi noroioasă pe ploaie, deci pedalați cu atenție.",
+                "en": "Park your bike in a sheltered spot and admire the facade of this Renaissance gem. The access path can be a bit muddy with puddles during or after heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor der Cordeliers",
+                "hu": "Cordeliers kapu",
+                "ro": "Poarta Cordeliers",
+                "en": "Cordeliers Gate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tor als kurzen Stopp, um die Regenkleidung zu richten. Achten Sie beim Durchfahren auf Fußgänger, die hier ebenfalls Schutz vor dem Schauer suchen.",
+                "hu": "Használja a kapualjat rövid megállóra, hogy megigazítsa esővédő ruházatát. Áthajtáskor figyeljen a gyalogosokra, akik szintén ide húzódnak be a zápor elől.",
+                "ro": "Folosiți poarta pentru o scurtă oprire pentru a vă aranja echipamentul de ploaie. Atenție la pietonii care caută și ei adăpost sub boltă în timp ce treceți.",
+                "en": "Use the gate for a quick stop to adjust your rain gear. Be mindful of pedestrians who also use this passage to shelter from the showers while you cycle through."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Agnès Sorel",
+                "hu": "Agnès Sorel tér",
+                "ro": "Espace Agnès Sorel",
+                "en": "Espace Agnès Sorel"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist der ideale Ort, um sich bei einer Ausstellung aufzuwärmen und zu trocknen. Es gibt sichere Fahrradständer direkt vor dem Haupteingang.",
+                "hu": "Ez a kulturális központ ideális hely egy kiállítás megtekintésére, amíg eláll az eső. A főbejárat előtt biztonságos kerékpártárolók állnak a látogatók rendelkezésére.",
+                "ro": "Acest centru cultural este locul ideal pentru a vă încălzi și usca în timp ce vizitați o expoziție. Există rastele sigure pentru biciclete chiar în fața intrării.",
+                "en": "This cultural center is the ideal spot to warm up and dry off while enjoying an exhibition. There are secure bike racks located right in front of the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gemächer",
+                "hu": "Királyi lakosztályok",
+                "ro": "Lojile Regale",
+                "en": "Royal Lodgings"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Rad stehen und tauchen Sie ein in die königliche Geschichte in trockenen Sälen. Der gepflasterte Weg zur Burg ist bei Nässe steil und etwas rutschig.",
+                "hu": "Hagyja a kerékpárt a tárolóban, és merüljön el a királyi történelemben a száraz termekben. A várba vezető macskaköves út esőben meredek és csúszós lehet.",
+                "ro": "Lăsați bicicleta și scufundați-vă în istoria regală în interiorul sălilor uscate. Drumul pietruit spre castel este abrupt și devine alunecos când este ud.",
+                "en": "Leave your bike and immerse yourself in royal history inside the dry halls. The cobblestone path up to the castle is steep and can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergfried von Loches",
+                "hu": "Loches-i öregtorony",
+                "ro": "Donjonul din Loches",
+                "en": "Loches Keep"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Festungsmauern bieten perfekten Schutz vor Wind und Wetter während der Erkundung. Prüfen Sie vor der Weiterfahrt den Bremsweg auf dem nassen Kopfsteinpflaster.",
+                "hu": "A vastag erődfalak tökéletes védelmet nyújtanak a szél és az eső ellen a felfedezés során. Indulás előtt ellenőrizze a fékeket a vizes macskakövön való fékezéshez.",
+                "ro": "Zidurile groase ale cetății oferă protecție perfectă contra vântului și ploii în timpul vizitei. Verificați frânele pe piatra umedă înainte de a pleca mai departe.",
+                "en": "The thick fortress walls provide perfect protection from wind and rain during your exploration. Test your brakes on the wet cobblestones before heading out again."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinbruch Vignemont",
+                "hu": "Vignemont kőbánya",
+                "ro": "Cariera Vignemont",
+                "en": "Vignemont Quarry"
+              },
+              "tip_5lang": {
+                "de": "Diese unterirdische Stätte ist von Natur aus vor Regen geschützt und bietet eine mystische Atmosphäre. Tragen Sie beim Radfahren eine reflektierende Weste wegen der Sicht.",
+                "hu": "Ez a föld alatti helyszín természetes védelmet nyújt az eső elől és misztikus hangulatot áraszt. A rossz látási viszonyok miatt viseljen láthatósági mellényt.",
+                "ro": "Acest sit subteran este protejat natural de ploaie și oferă o atmosferă mistică. Purtați o vestă reflectorizantă pe bicicletă din cauza vizibilității reduse.",
+                "en": "This underground site is naturally sheltered from rain and offers a mystical atmosphere. Wear a reflective vest while cycling there due to reduced visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt am Schloss Sansac mit klarer Luft und herrlicher Aussicht. Mittags wärmt der Stopp am Agnès Sorel Zentrum nach der Fahrt durch den kalten Wind auf. Nachmittags bieten der Bergfried und die königlichen Gemächer windgeschützte Geschichte. Da es früh dunkel wird, endet die Tour am Steinbruch in einer stimmungsvollen, blau-violetten Dämmerung.",
+            "hu": "A fagyos téli nap a Sansac kastélynál indul, ahol a friss levegő és a tiszta kilátás kárpótol a hidegért. Délben az Agnès Sorel központban melegedhetünk fel a menetszél után. Délután a Királyi lakosztályok és az öregtorony fala biztosít szélvédett programot. Mivel korán sötétedik, a túra a kőbányánál ér véget a kora esti szürkületben.",
+            "ro": "O zi geroasă de iarnă începe la Castelul Sansac cu aer curat și vederi superbe. La prânz, oprirea la centrul Agnès Sorel vă va încălzi după pedalarea prin vântul rece. După-amiaza, donjonul și lojile regale oferă istorie la adăpost de vânt. Deoarece se întunecă devreme, turul se încheie la carieră într-un amurg albastru-violet plin de farmec.",
+            "en": "A frosty winter day starts at Château de Sansac with crisp air and wonderful views. At noon, stopping at the Agnès Sorel center helps you warm up after cycling through the cold wind. In the afternoon, the Keep and Royal Lodgings provide history sheltered from the breeze. Since it gets dark early, the tour ends at the quarry in a moody twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss de Sansac",
+                "hu": "Sansac kastély",
+                "ro": "Castelul de Sansac",
+                "en": "Château de Sansac"
+              },
+              "tip_5lang": {
+                "de": "Die Renaissance-Fassade sieht im frostigen Morgenlicht bezaubernd aus. Achten Sie auf Eisflächen auf dem schattigen Zufahrtsweg, besonders in den frühen Morgenstunden.",
+                "hu": "A reneszánsz homlokzat varázslatosan fest a zúzmarás reggeli fényben. Ügyeljen a jeges foltokra az árnyékos bekötőúton, különösen a kora reggeli órákban.",
+                "ro": "Fațada renascentistă arată încântător în lumina înghețată a dimineții. Atenție la porțiunile cu gheață pe drumul de acces umbrit, mai ales la primele ore.",
+                "en": "The Renaissance facade looks enchanting in the frosty morning light. Watch out for icy patches on the shaded access path, especially during the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor der Cordeliers",
+                "hu": "Cordeliers kapu",
+                "ro": "Poarta Cordeliers",
+                "en": "Cordeliers Gate"
+              },
+              "tip_5lang": {
+                "de": "Das massive Steintor kann im Winter einen Kamineffekt für kalten Wind erzeugen. Tragen Sie einen winddichten Schal, während Sie kurz für ein Foto anhalten.",
+                "hu": "A masszív kőkapu télen huzatos lehet, felerősítve a hideg szelet. Viseljen szélálló sálat, miközben rövid időre megáll egy fényképet készíteni az átjáróban.",
+                "ro": "Poarta masivă de piatră poate crea un efect de tunel pentru vântul rece iarna. Purtați un fular rezistent la vânt în timp ce vă opriți pentru o fotografie rapidă.",
+                "en": "The massive stone gate can create a wind tunnel effect for cold air in winter. Wear a windproof scarf while you stop briefly for a photo in the passage."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Agnès Sorel",
+                "hu": "Agnès Sorel tér",
+                "ro": "Espace Agnès Sorel",
+                "en": "Espace Agnès Sorel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme dieses modernen Gebäudes für eine ausgiebige Pause vom Radfahren. Die großen Glasfronten bieten einen tollen Blick auf die winterliche Stadt.",
+                "hu": "Használja ki a modern épület melegét egy hosszabb pihenőre a kerékpározás után. A hatalmas üvegfelületeken keresztül remek kilátás nyílik a téli városra.",
+                "ro": "Folosiți căldura acestei clădiri moderne pentru o pauză binemeritată de la pedalat. Marile ferestre oferă o priveliște superbă asupra orașului înghețat.",
+                "en": "Take advantage of the warmth in this modern building for an extended break from cycling. The large glass windows offer a great view of the winter cityscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gemächer",
+                "hu": "Királyi lakosztályok",
+                "ro": "Lojile Regale",
+                "en": "Royal Lodgings"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume sind zwar nicht stark beheizt, bieten aber Schutz vor dem winterlichen Frost. Parken Sie Ihr Rad sicher, bevor Sie die langen Flure erkunden.",
+                "hu": "A belső terek bár nem fűtöttek erősen, védelmet nyújtanak a kinti fagy ellen. Parkolja le biztonságosan a kerékpárt, mielőtt felfedezné a hosszú folyosókat.",
+                "ro": "Interioarele nu sunt foarte încălzite, dar oferă protecție contra gerului de afară. Parcați bicicleta în siguranță înainte de a explora coridoarele lungi.",
+                "en": "The interiors are not heavily heated but provide protection from the outdoor frost. Park your bike securely before exploring the long, historical corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergfried von Loches",
+                "hu": "Loches-i öregtorony",
+                "ro": "Donjonul din Loches",
+                "en": "Loches Keep"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg im Inneren hält Sie in Bewegung und schützt vor dem eisigen Ostwind. Die Fernsicht über das Tal ist an klaren Wintertagen unübertroffen.",
+                "hu": "A torony belsejében történő lépcsőzés mozgásban tart és megvéd a jeges széltől. A völgyre nyíló kilátás a tiszta téli napokon a leglátványosabb.",
+                "ro": "Urcarea în interior vă ține în mișcare și vă protejează de vântul tăios de est. Vizibilitatea asupra văii este imbatabilă în zilele senine de iarnă.",
+                "en": "Climbing inside the keep keeps you moving and shelters you from the icy east wind. The long-distance view over the valley is unmatched on clear winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Steinbruch Vignemont",
+                "hu": "Vignemont kőbánya",
+                "ro": "Cariera Vignemont",
+                "en": "Vignemont Quarry"
+              },
+              "tip_5lang": {
+                "de": "In den Höhlen herrscht eine konstante, meist mildere Temperatur als im Freien. Da es bei der Ankunft dämmrig sein kann, prüfen Sie unbedingt Ihre Fahrradbeleuchtung.",
+                "hu": "A barlangokban állandó, a kintinél gyakran enyhébb hőmérséklet uralkodik télen. Mivel érkezéskor már szürkület lehet, ellenőrizze a kerékpár lámpáit.",
+                "ro": "În peșteri există o temperatură constantă, adesea mai blândă decât cea de afară. Deoarece poate fi întuneric la sosire, verificați neapărat luminile bicicletei.",
+                "en": "The caves have a constant temperature, often feeling milder than the outdoor air in winter. Since it may be dark upon arrival, ensure your bike lights are working."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje a napot a békés külvárosok felfedezésével a Grand Vau kastélynál, majd látogasson el a Puygibault kastély romantikus romjaihoz. A reggeli vezetés derűs vidéki kilátást nyújt.\n\nDélben parkoljon le a városközpont közelében, hogy meglátogassa az Espace Agnès Sorelt. Egy rövid séta elvezeti a Saint-Ours kollégiumi templom építészeti csodájához és egyedi tetőihez.\n\nDélután tegyen egy festői utazást a Croix Bonnin cromlech-hez. Ez a rejtett őskori helyszín lenyűgöző bepillantást nyújt a tágabb Touraine régió mély, ősi történelmébe.\n\nFejezze be útitervét a Le Pressoir-nál. Ahogy leszáll az est, ez a bájos történelmi birtok csendes, festői hátteret biztosít ahhoz, hogy elgondolkodjon a korszakokon átívelő utazásán.",
         "ro": "Începeți-vă ziua de condus explorând periferia rurală liniștită la Château Grand Vau, urmată de ruinele romantice de la Puygibault. Condusul de dimineață oferă priveliști rurale senine.\n\nSpre amiază, parcați aproape de centrul orașului pentru a vizita Espace Agnès Sorel. O scurtă plimbare vă aduce apoi la minunea arhitecturală a Bisericii Saint-Ours, cu acoperișurile sale.\n\nDupă-amiaza, faceți o plimbare pitorească până la Cromlech de la Croix Bonnin. Acest sit preistoric ascuns oferă o privire fascinantă asupra istoriei antice profunde a regiunii extinse.\n\nÎncheiați-vă itinerariul la Le Pressoir. Pe măsură ce se lasă seara, această proprietate istorică fermecătoare oferă un fundal liniștit pentru a reflecta asupra călătoriei dumneavoastră.",
         "en": "Start your driving day exploring the peaceful rural outskirts at Château Grand Vau, followed by the romantic ruins of Château de Puygibault. The morning drive offers serene countryside vistas.\n\nBy midday, park near the town center to visit the Espace Agnès Sorel. A short walk then brings you to the architectural marvel of the Saint-Ours Collegiate Church with its unique pyramidal roofs.\n\nIn the afternoon, take a scenic drive out to the Cromlech de la Croix Bonnin. This hidden prehistoric site offers a fascinating glimpse into the deep, ancient history of the wider Touraine region.\n\nConclude your itinerary at Le Pressoir. As the evening sets in, this charming historical estate provides a quiet, picturesque backdrop to reflect on your journey through the ages."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt komfortabel mit der Fahrt zum Schloss Grand Vau. Mittags geht es weiter zum Schloss Puygibault, wobei das Auto perfekten Schutz zwischen den Stopps bietet. Nachmittags laden das Agnès Sorel Zentrum und die Stiftskirche zu trockenen Innenbesichtigungen ein. Abends führt die Fahrt durch die verregnete Landschaft zu den historischen Stätten am Stadtrand von Loches.",
+            "hu": "Az esős nap kényelmesen indul a Grand Vau kastély felé autózva. Délben a Puygibault kastélyt keressük fel, az autó tökéletes menedéket nyújt a megállók között. Délután az Agnès Sorel központ és a kollégiumi templom várja fedett programokkal. Estére a vizes tájon át vezet az út a város szélén található történelmi helyszínekhez, ahol a sötétben is könnyen megközelíthető minden.",
+            "ro": "Ziua ploioasă începe confortabil cu o vizită la Castelul Grand Vau. La prânz continuăm spre Castelul Puygibault, mașina oferind protecție perfectă între opriri. După-amiaza vizităm centrul Agnès Sorel și biserica Saint-Ours pentru a rămâne la uscat. Seara, drumul prin peisajul plouat ne duce spre siturile istorice de la periferia orașului Loches.",
+            "en": "The rainy day begins comfortably with a drive to Château Grand Vau. At noon, continue to Château de Puygibault, with the car providing perfect shelter between stops. In the afternoon, the Agnès Sorel center and the Collegiate Church offer dry indoor visits. In the evening, drive through the rainy landscape to the historical sites on the outskirts of Loches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Grand Vau",
+                "hu": "Grand Vau kastély",
+                "ro": "Castelul Grand Vau",
+                "en": "Château Grand Vau"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden. Die Aussicht auf das nasse Schlossgelände vom Auto aus ist bereits sehr malerisch.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az esőt. A vizes kastélykert látványa az autóból is rendkívül festői és hangulatos.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia. Vederea asupra domeniului castelului de pe geamul mașinii este deja foarte pitorească.",
+                "en": "Park as close to the entrance as possible to minimize time in the rain. The view of the wet castle grounds from the car is already quite picturesque."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss de Puygibault",
+                "hu": "Puygibault kastély",
+                "ro": "Castelul de Puygibault",
+                "en": "Château de Puygibault"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen schlammig sein; fahren Sie vorsichtig auf den unbefestigten Abschnitten. Ein Regenschirm ist für den Weg vom Parkplatz nötig.",
+                "hu": "A bekötőút heves esőzéskor sáros lehet, óvatosan vezessen a burkolatlan szakaszokon. A parkolótól a bejáratig tartó úton mindenképpen szüksége lesz esernyőre.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie torențială; conduceți cu grijă pe porțiunile nepavate. O umbrelă este necesară pentru distanța de la parcare.",
+                "en": "The access road can be muddy during heavy rain; drive carefully on unpaved sections. An umbrella is necessary for the short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Agnès Sorel",
+                "hu": "Agnès Sorel tér",
+                "ro": "Espace Agnès Sorel",
+                "en": "Espace Agnès Sorel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage oder nahegelegene Parkplätze, um schnell ins Trockene zu gelangen. Das Kulturzentrum bietet ein abwechslungsreiches Indoor-Programm bei Regen.",
+                "hu": "Használja a közeli parkolókat, hogy gyorsan beérjen a fedett épületbe. A kulturális központ változatos benti programokat kínál az esős órákra.",
+                "ro": "Utilizați parcările din apropiere pentru a ajunge rapid în interior la uscat. Centrul cultural oferă un program variat la interior, ideal pentru zile ploioase.",
+                "en": "Use the nearby parking spaces to get indoors quickly and stay dry. The cultural center offers a variety of indoor programs perfect for a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Ours",
+                "hu": "Saint-Ours kollégiumi templom",
+                "ro": "Biserica Colegială Saint-Ours",
+                "en": "Saint-Ours Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "In der Oberstadt gibt es Parkplätze, von denen aus die Kirche schnell erreichbar ist. Das massive Steingewölbe bietet einen absolut trockenen und ruhigen Rückzugsort.",
+                "hu": "A felsővárosban több parkoló is található, ahonnan a templom gyorsan elérhető. A masszív kőboltozat alatt teljesen száraz és nyugodt környezet várja.",
+                "ro": "Există locuri de parcare în orașul de sus de unde biserica este ușor accesibilă. Bolțile masive de piatră oferă un refugiu absolut uscat și liniștit.",
+                "en": "There are parking spots in the upper town from which the church is easily reached. The massive stone vaults provide a completely dry and quiet sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromlech de la Croix Bonnin",
+                "hu": "Croix Bonnin cromlech",
+                "ro": "Cromlech de la Croix Bonnin",
+                "en": "Cromlech de la Croix Bonnin"
+              },
+              "tip_5lang": {
+                "de": "Diese prähistorische Stätte kann bei Regen gut vom Auto aus besichtigt werden. Wenn Sie aussteigen, achten Sie auf den aufgeweichten Boden rund um die Steine.",
+                "hu": "Ez a prehisztorikus helyszín esőben akár az autóból is jól megfigyelhető. Ha kiszáll, ügyeljen a felázott talajra és a csúszós fűre a kövek környékén.",
+                "ro": "Acest sit preistoric poate fi observat bine din mașină pe timp de ploaie. Dacă coborâți, atenție la solul moale și iarba alunecoasă din jurul pietrelor.",
+                "en": "This prehistoric site can be viewed well from the car during a downpour. If you get out, be careful of the soggy ground and slippery grass around the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pressoir",
+                "hu": "Le Pressoir",
+                "ro": "Le Pressoir",
+                "en": "Le Pressoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Weinberge im Regen, während Sie bequem vor dem Anwesen parken. Die herbstliche Stimmung kommt bei Regen hier besonders gut zur Geltung.",
+                "hu": "Élvezze a szőlőültetvények látványát az esőben, miközben kényelmesen parkol a birtok előtt. Az eső különleges, melankolikus hangulatot kölcsönöz a tájnak.",
+                "ro": "Bucurați-vă de vederea viilor pe ploaie în timp ce parcați confortabil în fața domeniului. Ploaia adaugă o notă melancolică și autentică acestui peisaj.",
+                "en": "Enjoy the view of the vineyards in the rain while parking comfortably in front of the estate. The rain adds a unique, atmospheric touch to the rural landscape."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Fahrt zum Schloss Grand Vau durch die verschneite oder frostige Landschaft. Mittags bieten die Schlösser und das Agnès Sorel Zentrum beheizte oder windgeschützte Räume. Nachmittags ist die Stiftskirche ein Ort der Besinnung vor der frühen Dämmerung. Da es um 17:00 Uhr dunkel ist, beleuchten die Scheinwerfer die alten Steinmonumente am Abend besonders eindrucksvoll.",
+            "hu": "A tiszta téli reggel a Grand Vau kastély felé tartva indul, zúzmarás tájakon keresztül. Délben a kastélyok és az Agnès Sorel központ biztosítanak szélvédett, melegebb helyszíneket. Délután a templom csendje várja a látogatót a korai sötétedés előtt. Mivel 17:00-kor már sötét van, az autó fényszórói és a városi fények különleges megvilágításba helyezik a kőemlékeket.",
+            "ro": "O dimineață senină de iarnă începe cu drumul spre Castelul Grand Vau prin peisaje înghețate. La prânz, castelele și centrul Agnès Sorel oferă spații ferite de vânt și frig. După-amiaza, biserica Saint-Ours este un loc de liniște înainte de amurgul timpuriu. Deoarece se întunecă la ora 17:00, farurile mașinii vor lumina spectaculos vechile monumente.",
+            "en": "A clear winter morning begins with a drive to Château Grand Vau through frosty landscapes. At noon, the castles and the Agnès Sorel center provide spaces sheltered from the cold wind. In the afternoon, the church offers a quiet moment before the early sunset. Since it is dark by 5:00 PM, the car's headlights and city lights illuminate the stone monuments beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Grand Vau",
+                "hu": "Grand Vau kastély",
+                "ro": "Castelul Grand Vau",
+                "en": "Château Grand Vau"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Gärten des Schlosses wirken im Winter wie verzaubert. Nutzen Sie die Sitzheizung Ihres Autos für eine warme Anfahrt in den frühen Morgenstunden.",
+                "hu": "A kastély zúzmarás kertje télen olyan, mintha egy mesekönyvből lépett volna elő. Használja az autó ülésfűtését a kora reggeli, fagyos induláshoz.",
+                "ro": "Grădinile înghețate ale castelului arată ca într-o poveste iarna. Folosiți încălzirea în scaune pentru o călătorie plăcută în orele reci ale dimineții.",
+                "en": "The frosty gardens of the castle look like something out of a fairy tale in winter. Use your car's seat heating for a warm start during the chilly morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss de Puygibault",
+                "hu": "Puygibault kastély",
+                "ro": "Castelul de Puygibault",
+                "en": "Château de Puygibault"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Schlosses, die vor dem klaren Winterhimmel besonders scharf wirkt. Achten Sie auf Glätte auf den kleinen Zufahrtsstraßen zum Anwesen.",
+                "hu": "Csodálja meg a kastély építészetét, amely a tiszta téli égbolt előtt élesen kirajzolódik. Ügyeljen a jegesedésre a birtokhoz vezető kisebb mellékutakon.",
+                "ro": "Admirați arhitectura castelului care se vede clar pe fundalul cerului senin de iarnă. Atenție la polei pe drumurile secundare de acces către domeniu.",
+                "en": "Admire the castle's architecture, which appears particularly sharp against the clear winter sky. Watch for icy patches on the narrow access roads to the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Agnès Sorel",
+                "hu": "Agnès Sorel tér",
+                "ro": "Espace Agnès Sorel",
+                "en": "Espace Agnès Sorel"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein idealer Ort, um sich zwischen den Autofahrten im beheizten Foyer aufzuwärmen. Das Gebäude ist auch im Winter gut beleuchtet und leicht zu finden.",
+                "hu": "Ideális helyszín, hogy a fűtött előcsarnokban felmelegedjen az autós utak között. Az épület télen is jól kivilágított és sötétben is könnyen megtalálható.",
+                "ro": "Acesta este locul ideal pentru a vă încălzi în foierul primitor între drumurile cu mașina. Clădirea este bine luminată iarna și ușor de reperat în amurg.",
+                "en": "This is an ideal spot to warm up in the heated foyer between your drives. The building is well-lit in winter and easy to find even after the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Ours",
+                "hu": "Saint-Ours kollégiumi templom",
+                "ro": "Biserica Colegială Saint-Ours",
+                "en": "Saint-Ours Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind ab, aber die Luft im Inneren bleibt winterlich kühl. Parken Sie direkt in der Nähe, um lange Wege im Frost zu vermeiden.",
+                "hu": "A vastag falak felfogják a jeges szelet, de a benti levegő télen is hűvös marad. Parkoljon a közelben, hogy ne kelljen sokat gyalogolnia a fagyos időben.",
+                "ro": "Zidurile groase opresc vântul înghețat, dar aerul din interior rămâne destul de rece. Parcați în apropiere pentru a minimiza expunerea la gerul de afară.",
+                "en": "The thick walls block out the icy wind, but the air inside remains quite chilly in winter. Park nearby to avoid long walks in the freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromlech de la Croix Bonnin",
+                "hu": "Croix Bonnin cromlech",
+                "ro": "Cromlech de la Croix Bonnin",
+                "en": "Cromlech de la Croix Bonnin"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorischen Steine wirken in der winterlichen Dämmerung besonders mystisch und geheimnisvoll. Tragen Sie festes Schuhwerk, da der Boden gefroren und hart ist.",
+                "hu": "A prehisztorikus kövek a téli szürkületben különösen misztikus és titokzatos látványt nyújtanak. Viseljen stabil cipőt, mert a talaj ilyenkor fagyott és kemény.",
+                "ro": "Pietrele preistorice arată deosebit de mistic și misterios în amurgul de iarnă. Purtați încălțăminte solidă, deoarece solul este înghețat și foarte tare.",
+                "en": "The prehistoric stones look particularly mystical and mysterious in the winter twilight. Wear sturdy shoes as the ground is likely to be frozen and very hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Pressoir",
+                "hu": "Le Pressoir",
+                "ro": "Le Pressoir",
+                "en": "Le Pressoir"
+              },
+              "tip_5lang": {
+                "de": "Die kargen Weinreben bieten im Winter eine grafische und interessante Kulisse für Fotos. Genießen Sie die winterliche Ruhe dieses ländlichen Ortes zum Abschluss.",
+                "hu": "A kopár szőlőtőkék télen grafikus és érdekes hátteret biztosítanak a fotózáshoz. Élvezze a vidéki táj téli csendjét a nap végén az autóból nézelődve.",
+                "ro": "Viile golașe oferă un decor grafic și interesant pentru fotografii pe timpul iernii. Bucurați-vă de liniștea hibernală a acestui loc rural la finalul zilei.",
+                "en": "The bare grapevines provide a graphic and interesting backdrop for photos in winter. Enjoy the wintry silence of this rural location to end your day peacefully."
+              }
+            }
+          ]
+        }
       }
     }
   }

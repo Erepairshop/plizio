@@ -160,6 +160,196 @@
         "hu": "A napot Thônes szívében kezdjük a helyi templom megtekintésével, majd egy ínycsiklandó sajtkóstoló következik.\n\nDélben a múzeumban merülünk el a gazdag helytörténetben, mielőtt egy frissítő pihenőt tartanánk a pancsolónál.\n\nDélután sportosra vesszük a figurát, meghódítjuk a látványos Via Ferratát, és felülről csodáljuk meg a várost.\n\nA nap egy nyugodt sétával zárul a Mont Fairway zöldellő ösvényein, ahol kellemesen kipihenhetjük az élményeket.",
         "ro": "Începem în inima orașului Thônes cu vizitarea bisericii locale, urmată de o degustare delicioasă de brânzeturi.\n\nLa prânz, explorăm istoria locală la muzeu, înainte de a lua o pauză răcoritoare la piscina pentru copii.\n\nDupă-amiaza devine activă când cucerim via ferrata spectaculoasă și admirăm orașul Thônes de la înălțime.\n\nZiua se încheie relaxant pe aleile verzi de la Mont Fairway, locul perfect pentru a vă deconecta cu familia.",
         "en": "We begin in the heart of Thônes with a visit to the local church, followed by a delicious regional cheese tasting.\n\nBy midday, we delve into local history at the museum before taking a refreshing and relaxing break at the paddling pool.\n\nThe afternoon becomes active as we conquer the spectacular via ferrata route and admire the town of Thônes from above.\n\nThe day concludes with a relaxing stroll along the green paths of Mont Fairway, the perfect place to unwind completely."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag in Thônes beginnt besinnlich in der Kirche und führt dann zu kulinarischen Genüssen unter dem Dach der Käserei. Mittags bietet das Museum Schutz vor dem Wetter, während Sie tief in die Geschichte eintauchen. Nachmittags zeigt sich die Natur von ihrer mystischen Seite; der Spaziergang am Flussufer wirkt im Regen besonders ruhig, bevor der Tag gemütlich ausklingt.",
+            "hu": "Az esős délelőtt Thônes-ban a templom csendjével indul, majd a sajtszövetkezet fedett csarnokában folytatódik. Délben a múzeum falai között kutatjuk a múltat, védve az égi áldástól. Délután a párás hegyi levegő és a nedves sziklák látványa különleges, misztikus hangulatot áraszt; a séta végén a város fényei visszatükröződnek a pocsolyákon, zárva a frissítő, vizes kalandot.",
+            "ro": "O dimineață ploioasă în Thônes începe cu liniștea bisericii, urmată de o vizită la cooperativa de brânzeturi, un adăpost perfect și gustos. La prânz, muzeul oferă protecție în timp ce explorați istoria locală. După-amiaza, natura capătă un aspect mistic sub nori; plimbarea pe lângă râu este revigorantă, iar reflexiile luminilor orașului în apă creează un decor deosebit pentru seară.",
+            "en": "A rainy morning in Thônes starts with the peaceful church and continues under the shelter of the cheese cooperative. At noon, the museum provides a perfect escape to dive into local history. In the afternoon, the misty mountain air and the sound of raindrops create a mystical atmosphere; the walk along the river feels uniquely fresh before the day ends with city lights reflecting on wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Szent Móric-templom",
+                "hu": "Szent Móric-templom",
+                "ro": "Szent Móric-templom",
+                "en": "Szent Móric-templom"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das prächtige Barock-Interieur als trockenen Rückzugsort; achten Sie auf die Akustik des prasselnden Regens auf dem Kirchendach, die eine besondere Ruhe ausstrahlt.",
+                "hu": "Csodálja meg a barokk belső teret, miközben kint kopog az eső; a templom tökéletes és csendes menedék a városnézés kezdetén, érdemes alaposan szemügyre venni a díszes oltárt.",
+                "ro": "Admirați interiorul baroc spectaculos, un refugiu uscat perfect; ascultați sunetul ploii pe acoperișul bisericii, care oferă o atmosferă de liniște profundă în timpul vizitei.",
+                "en": "Admire the magnificent baroque interior as a dry retreat; listen to the sound of rain on the roof, which creates a deep sense of peace while you examine the ornate altar area."
+              }
+            },
+            {
+              "name": {
+                "de": "Thônes-i Sajtszövetkezet",
+                "hu": "Thônes-i Sajtszövetkezet",
+                "ro": "Thônes-i Sajtszövetkezet",
+                "en": "Thônes-i Sajtszövetkezet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Räumlichkeiten für eine Verkostung lokaler Reblochon-Sorten; ein idealer Ort, um die Zeit zu überbrücken, während draußen ein heftiger Schauer niedergeht.",
+                "hu": "Használja ki a fedett eladóteret egy alapos Reblochon kóstolóra; kiváló helyszín az időtöltésre, amíg odakint eláll az eső, és beszerezheti a legfinomabb helyi csemegéket.",
+                "ro": "Profitați de spațiile acoperite pentru o degustare de brânză Reblochon; este locul ideal pentru a aștepta oprirea ploii în timp ce descoperiți aromele autentice ale regiunii.",
+                "en": "Take advantage of the indoor area for a local Reblochon tasting; it is the perfect spot to wait out a heavy shower while discovering the authentic flavors of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Thônes-i Helytörténeti Múzeum",
+                "hu": "Thônes-i Helytörténeti Múzeum",
+                "ro": "Thônes-i Helytörténeti Múzeum",
+                "en": "Thônes-i Helytörténeti Múzeum"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt bei den historischen Exponaten, um dem Wetter zu entfliehen; die Ausstellungen zur Résistance sind besonders an trüben Tagen sehr atmosphärisch.",
+                "hu": "Hosszabbítsa meg a látogatást a történelmi emlékek között, elmenekülve a nedves idő elől; az ellenállási mozgalom kiállítása különösen megrendítő és tanulságos ilyenkor.",
+                "ro": "Prelungiți vizita printre exponatele istorice pentru a scăpa de vremea umedă; expozițiile dedicate Rezistenței sunt extrem de sugestive și oferă o perspectivă profundă asupra zonei.",
+                "en": "Extend your visit among the historical exhibits to escape the damp weather; the Resistance movement displays are particularly atmospheric and thought-provoking on gloomy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Pataugeoire (Paddling pool)",
+                "hu": "Pataugeoire (Paddling pool)",
+                "ro": "Pataugeoire (Paddling pool)",
+                "en": "Pataugeoire (Paddling pool)"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Stopp unter dem Regenschirm; beobachten Sie, wie die Regentropfen auf der Wasseroberfläche des Beckens tanzende Kreise ziehen, bevor es weitergeht.",
+                "hu": "Rövid, frissítő megálló az esernyő alatt; figyelje meg a vízfelületen táncoló esőcseppek rajzolatát a medencénél, mielőtt továbbindulna a következő fedett állomás felé.",
+                "ro": "O oprire scurtă și revigorantă sub umbrelă; observați cercurile formate de picăturile de ploaie pe suprafața apei, oferind un moment de liniște vizuală în mijlocul orașului.",
+                "en": "A short, refreshing stop under your umbrella; watch the ripples created by raindrops on the water's surface, offering a moment of visual peace in the heart of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche à l'Aguz via ferrata",
+                "hu": "Roche à l'Aguz via ferrata",
+                "ro": "Roche à l'Aguz via ferrata",
+                "en": "Roche à l'Aguz via ferrata"
+              },
+              "tip_5lang": {
+                "de": "Vom Fuße des Felsens aus ist der Anblick der wolkenverhangenen Wand spektakulär; wegen der Rutschgefahr sollten Sie heute nur die Aussicht genießen und nicht klettern.",
+                "hu": "A szikla lábától a felhőkbe burkolózó fal látványa drámai; a csúszásveszély miatt ma csak a biztonságos távolságból való megfigyelést javasoljuk, a mászást halassza el.",
+                "ro": "Priveliștea peretelui stâncos învăluit în nori este spectaculoasă de la bază; din cauza riscului de alunecare, vă recomandăm doar să admirați stânca fără a încerca escaladarea.",
+                "en": "The view of the rock face shrouded in mist is spectacular from the bottom; due to the slippery conditions, we recommend only admiring the view safely without climbing today."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Fairway",
+                "hu": "Mont Fairway",
+                "ro": "Mont Fairway",
+                "en": "Mont Fairway"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Tal durch den feinen Regen; festes Schuhwerk ist auf den Waldwegen unerlässlich, da der Untergrund nach den Schauern sehr rutschig sein kann.",
+                "hu": "Élvezze a völgyre nyíló kilátást a finom esőfüggönyön át; a túrabakancs elengedhetetlen az erdei utakon, mivel a talaj a csapadék után rendkívül csúszóssá és sárossá válhat.",
+                "ro": "Bucurați-vă de panorama văii prin perdeaua de ploaie; încălțămintea aderentă este esențială pe cărările de pădure, deoarece solul poate deveni foarte alunecos după precipitații.",
+                "en": "Enjoy the panoramic valley views through the fine curtain of rain; sturdy boots are essential for the forest paths, as the ground can become very slippery and muddy after rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Thônes empfängt Sie mit frostiger Bergluft und dem Duft von Kaminfeuer. In der Käserei wärmen Sie sich auf, bevor das Museum Einblicke in schneereiche Winter vergangener Zeiten bietet. Nachmittags glitzert der Schnee im Park, doch die Dunkelheit bricht früh herein. Gegen 17:00 Uhr versinkt die Stadt im sanften Licht der Laternen, während Sie den Tag beenden.",
+            "hu": "A téli reggel Thônes-ban fagyos hegyi levegővel és a kémények füstjének illatával köszönti. A sajtszövetkezetben felmelegedhetünk, majd a múzeumban ismerkedünk a havas múlt emlékeivel. Délután a park hófödte csendje vár, de a sötétedés korán, már 17:00 körül beköszönt. A város fényei ekkor gyúlnak ki, meghitt hangulatot varázsolva a túra végére a hegyek lábánál.",
+            "ro": "Dimineața de iarnă în Thônes vă întâmpină cu aer rece de munte și miros de lemn ars. Vă încălziți la cooperativa de brânzeturi, apoi muzeul vă prezintă viața aspră din iernile de odinioară. După-amiaza, parcul înzăpezit oferă un decor de poveste, însă întunericul coboară devreme. În jurul orei 17:00, luminile orașului creează o atmosferă caldă pentru finalul zilei.",
+            "en": "A winter morning in Thônes welcomes you with crisp mountain air and the scent of woodsmoke. Warm up at the cheese cooperative before the museum offers insights into the snowy winters of the past. In the afternoon, the snow-covered park is like a fairytale, but darkness falls early. By 17:00, the town lights create a cozy atmosphere for the end of your journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Szent Móric-templom",
+                "hu": "Szent Móric-templom",
+                "ro": "Szent Móric-templom",
+                "en": "Szent Móric-templom"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Morgen, um die stille, andächtige Wärme im Inneren zu genießen, während draußen der Frost die Fenster mit Eisblumen verziert.",
+                "hu": "Látogassa meg a templomot reggel, hogy élvezze a belső tér csendes melegét, miközben odakint a zúzmara díszíti a fákat és az épületek ablakait a fagyos időben.",
+                "ro": "Vizitați biserica dimineața pentru a vă bucura de căldura liniștită din interior, în timp ce afară chiciura decorează ferestrele și copacii în decorul înghețat.",
+                "en": "Visit the church in the morning to enjoy the quiet warmth inside, while outside the frost decorates the windows and trees in the crisp winter setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Thônes-i Sajtszövetkezet",
+                "hu": "Thônes-i Sajtszövetkezet",
+                "ro": "Thônes-i Sajtszövetkezet",
+                "en": "Thônes-i Sajtszövetkezet"
+              },
+              "tip_5lang": {
+                "de": "Decken Sie sich mit würzigem Käse für ein gemütliches Abendessen am Kamin ein; die Käserei ist im Winter ein herrlich warmer Ort voller alpiner Düfte.",
+                "hu": "Vásároljon be érett sajtokból egy hangulatos, kandalló melletti vacsorához; a szövetkezet télen is pezsgő, meleg helyszín, ahol átmelegedhet a kóstolás közben.",
+                "ro": "Cumpărați brânzeturi aromate pentru o cină caldă lângă șemineu; cooperativa este un loc primitor iarna, unde mirosul de lapte proaspăt vă va încălzi simțurile.",
+                "en": "Stock up on flavorful cheeses for a cozy dinner by the fireplace; the cooperative is a welcoming spot in winter where the alpine scents will warm your spirits."
+              }
+            },
+            {
+              "name": {
+                "de": "Thônes-i Helytörténeti Múzeum",
+                "hu": "Thônes-i Helytörténeti Múzeum",
+                "ro": "Thônes-i Helytörténeti Múzeum",
+                "en": "Thônes-i Helytörténeti Múzeum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für einen ausgiebigen Museumsbesuch im Warmen; erfahren Sie, wie die Menschen hier früher die langen Wintermonate überstanden haben.",
+                "hu": "Töltsön el hosszabb időt a fűtött múzeumban a déli órákban; fedezze fel, hogyan birkóztak meg a helyiek a múltban a zord, havas alpesi telek nehézségeivel.",
+                "ro": "Petreceți mai mult timp în muzeul încălzit la amiază; descoperiți cum au supraviețuit localnicii în trecut iernilor aspre și lungi din inima Alpilor francezi.",
+                "en": "Spend more time in the heated museum during the midday hours; discover how locals survived the harsh and long Alpine winters in the past through unique artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Pataugeoire (Paddling pool)",
+                "hu": "Pataugeoire (Paddling pool)",
+                "ro": "Pataugeoire (Paddling pool)",
+                "en": "Pataugeoire (Paddling pool)"
+              },
+              "tip_5lang": {
+                "de": "Die leeren Becken bilden eine bizarre Kulisse im Schnee; machen Sie ein Foto von der winterlichen Stille, bevor Sie schnell wieder ins Warme zurückkehren.",
+                "hu": "Az üres medence különös látványt nyújt a hótakaró alatt; készítsen egy gyors fotót a téli csendről, majd induljon tovább, hogy ne hűljön ki túlságosan.",
+                "ro": "Bazinele goale oferă un peisaj bizar sub stratul de zăpadă; faceți o fotografie rapidă a liniștii hibernale înainte de a continua drumul spre căldură.",
+                "en": "The empty pools offer a bizarre and artistic sight under the snow; take a quick photo of the winter silence before moving on to keep yourself warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche à l'Aguz via ferrata",
+                "hu": "Roche à l'Aguz via ferrata",
+                "ro": "Roche à l'Aguz via ferrata",
+                "en": "Roche à l'Aguz via ferrata"
+              },
+              "tip_5lang": {
+                "de": "Der Fels ist oft vereist und die Klettersteige sind offiziell geschlossen; bewundern Sie die mächtigen Eiszapfen, die von den Felsvorsprüngen herabhängen.",
+                "hu": "A sziklafal ilyenkor jeges, a mászóút pedig zárva tart; csodálja meg a hatalmas jégcsapokat, amik a peremekről lógnak alá, valódi téli birodalommá változtatva a falat.",
+                "ro": "Peretele stâncos este adesea înghețat, iar traseul de escaladă închis; admirați țurțurii uriași care atârnă de pe stânci, creând un peisaj de gheață impresionant.",
+                "en": "The rock face is often icy and the climbing route is closed; admire the massive icicles hanging from the ledges, creating a stunning frozen mountain landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Fairway",
+                "hu": "Mont Fairway",
+                "ro": "Mont Fairway",
+                "en": "Mont Fairway"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Aussicht rechtzeitig genießen; die tiefstehende Sonne zaubert wunderschöne Farben auf den Schnee.",
+                "hu": "Mivel a nap már 17:00 körül lenyugszik, érkezzen ide időben; a lemenő nap sugaraiban megcsillanó hó és a völgy fényei felejthetetlen látványt nyújtanak.",
+                "ro": "Deoarece soarele apune în jur de ora 17:00, ajungeți aici din timp; lumina crepusculară reflectată pe zăpadă și luminile văii oferă o priveliște de neuitat.",
+                "en": "As the sun sets around 17:00, arrive here in time to see the twilight; the low sun reflecting on the snow and the valley lights offer an unforgettable view."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúránk a történelmi templomépülettől indul, majd egyenesen a lenyűgöző helytörténeti múzeumba vezet.\n\nDélben a Mont Fairway felé tekerünk egy kis szórakozásért, majd a festői Lac de Thuy partján pihenünk meg.\n\nDélután a Morette-emlékhelynél hajtunk fejet a hősök előtt, amely egy mélyen megrendítő, csendes pillanat lesz.\n\nA túrát a rejtett La Belle Inconnue vízesés zúgásával zárjuk, amely valóban varázslatos befejezést garantál.",
         "ro": "Turul nostru cu bicicleta începe la biserica istorică și ne conduce direct la fascinantul muzeu de istorie locală.\n\nLa prânz, pedalăm spre Mont Fairway pentru activități în aer liber, apoi ne relaxăm la idilicul Lac de Thuy.\n\nDupă-amiaza, aducem un omagiu eroilor la memorialul Morette, un moment profund și emoționant de reculegere liniștită.\n\nÎncheiem traseul cu sunetul cascadei ascunse La Belle Inconnue, o finalizare cu adevărat magică a zilei.",
         "en": "Our bike tour starts at the historic church building and leads us straight into the fascinating local heritage museum.\n\nAt midday, we cycle towards Mont Fairway for some outdoor fun before resting on the shores of the idyllic Lac de Thuy.\n\nIn the afternoon, we pay tribute to the fallen heroes at the Morette memorial, a deeply moving and quiet moment of reflection.\n\nWe finish our tour with the roaring sounds of the hidden La Belle Inconnue waterfall, ensuring a truly magical conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive auf die Alpen. Die kühle Luft belebt auf dem Weg zur Käserei und zum Museum. Nachmittags führen die nassen Straßen am See vorbei zur Gedenkstätte. Das Rauschen des Wasserfalls ist im Regen besonders intensiv, während Sie die Tour durch die mystische, wolkenverhangene Landschaft beenden.",
+            "hu": "A bringázás esőben óvatosságot igényel, de frissítő perspektívát kínál az Alpokra. A hűvös levegő élénkítőleg hat a templom és a múzeum felé menet. Délután a nedves utakon a tó és az emlékhely felé tekerünk. A vízesés dübörgése az esőben felerősödik, miközben a túrát a párás, felhőkbe burkolózó táj misztikus látványával zárjuk a sárvédők védelmében.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție, dar oferă o perspectivă proaspătă asupra Alpilor. Aerul rece vă înviorează pe drumul spre biserică și muzeu. După-amiaza, drumurile umede vă poartă spre lac și monument. Zgomotul cascadei este mai intens pe ploaie, în timp ce încheiați tura prin peisajul mistic învăluit în nori joși.",
+            "en": "Cycling in the rain requires caution but offers a refreshing perspective on the Alps. The cool air is invigorating on your way to the church and museum. In the afternoon, wet roads lead you past the lake to the memorial. The waterfall's roar is more intense in the rain as you finish your tour through the mystical landscape shrouded in low clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Szent Móric-templom",
+                "hu": "Szent Móric-templom",
+                "ro": "Szent Móric-templom",
+                "en": "Szent Móric-templom"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Kirche für eine kurze Aufwärmpause; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nassen Straßen fortsetzen.",
+                "hu": "Támassza le a bringát fedett helyre, és használja a templomot egy rövid pihenőre; ellenőrizze a fékeket, mielőtt a vizes aszfalton folytatná az utat.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți biserica pentru o scurtă pauză de încălzire; verificați frânele înainte de a continua pe drumul umed.",
+                "en": "Park your bike in a sheltered spot and use the church for a short warm-up break; check your brakes before continuing on the wet asphalt roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Thônes-i Helytörténeti Múzeum",
+                "hu": "Thônes-i Helytörténeti Múzeum",
+                "ro": "Thônes-i Helytörténeti Múzeum",
+                "en": "Thônes-i Helytörténeti Múzeum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften, während Sie die Exponate erkunden; die trockene Umgebung hilft, die Motivation für die Weiterfahrt zu erhalten.",
+                "hu": "Ideális helyszín az esőruházat átszellőztetésére a kiállítás megtekintése közben; a száraz környezet segít fenntartani a lendületet a túra folytatásához.",
+                "ro": "Locul ideal pentru a vă aerisi pelerina de ploaie în timp ce vizitați expoziția; mediul uscat vă ajută să vă mențineți motivația pentru restul traseului.",
+                "en": "The ideal place to air out your rain gear while exploring the exhibits; the dry environment helps maintain your motivation for the rest of the bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Fairway",
+                "hu": "Mont Fairway",
+                "ro": "Mont Fairway",
+                "en": "Mont Fairway"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt Sie ins Schwitzen, was bei Regen angenehm sein kann; achten Sie in den Kurven auf Laub, das auf dem nassen Boden sehr rutschig sein kann.",
+                "hu": "Az emelkedő megdolgoztatja, ami esőben is kellemes lehet; a kanyarokban figyeljen a nedves levelekre, amik rendkívül csúszóssá tehetik az utat a kerékpár alatt.",
+                "ro": "Urcarea vă va pune sângele în mișcare, ceea ce este plăcut pe ploaie; fiți atenți în curbe la frunzele umede care pot face drumul foarte alunecos.",
+                "en": "The climb will get your blood pumping, which is pleasant even in rain; watch out for wet leaves in the corners that can make the road very slippery for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Thuy",
+                "hu": "Lac de Thuy",
+                "ro": "Lac de Thuy",
+                "en": "Lac de Thuy"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf dem See; die Stimmung ist einsam und friedlich, aber meiden Sie unbefestigte Uferwege, die aufgeweicht sein könnten.",
+                "hu": "Figyelje meg az esőcseppek táncát a tó felszínén; a hangulat csendes és békés, de kerülje a felázott parti utakat, ahol könnyen sárba ragadhat a kerékpár.",
+                "ro": "Observați dansul picăturilor pe suprafața lacului; atmosfera este liniștită, dar evitați potecile neasfaltate de pe mal care pot fi noroioase.",
+                "en": "Watch the raindrops dancing on the lake surface; the atmosphere is peaceful, but avoid unpaved shore paths where your bike could easily get stuck in mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Morette-i Nemzeti Emlékhely",
+                "hu": "Morette-i Nemzeti Emlékhely",
+                "ro": "Morette-i Nemzeti Emlékhely",
+                "en": "Morette-i Nemzeti Emlékhely"
+              },
+              "tip_5lang": {
+                "de": "Die Gedenkstätte wirkt unter grauem Himmel besonders würdevoll; nutzen Sie das kleine Museum vor Ort als Unterstand bei plötzlichen Schauern.",
+                "hu": "Az emlékhely a szürke ég alatt még méltóságteljesebb; használja a helyi kis múzeumot menedékként hirtelen felhőszakadás esetén, miközben tiszteleg a hősök előtt.",
+                "ro": "Monumentul pare și mai solemn sub cerul gri; folosiți micul muzeu de aici ca adăpost în caz de aversă bruscă, în timp ce onorați memoria eroilor locali.",
+                "en": "The memorial seems even more solemn under grey skies; use the small local museum as a shelter during sudden downpours while paying respects to the heroes."
+              }
+            },
+            {
+              "name": {
+                "de": "La Belle Inconnue vízesés",
+                "hu": "La Belle Inconnue vízesés",
+                "ro": "La Belle Inconnue vízesés",
+                "en": "La Belle Inconnue vízesés"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall schwillt bei Regen an und bietet ein gewaltiges Schauspiel; wischen Sie Ihre Felgen trocken, um für die letzte Abfahrt volle Bremskraft zu haben.",
+                "hu": "A vízesés az esőtől megduzzad és lenyűgöző látványt nyújt; törölje szárazra a felniket, hogy az utolsó lejtőn is teljes legyen a fékerő a biztonságos hazaútig.",
+                "ro": "Cascada se umflă de la ploaie și oferă un spectacol impresionant; ștergeți jantele bicicletei pentru a avea putere maximă de frânare la ultima coborâre.",
+                "en": "The waterfall swells with the rain and offers an impressive sight; wipe your rims dry to ensure maximum braking power for the final descent back to town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in den Alpen ist ein Abenteuer für Hartgesottene. Die klare, kalte Luft erfordert warme Schichten und gute Handschuhe. Vormittags besuchen Sie die kulturellen Stätten im Tal, während mittags die Sonne den See zum Glitzern bringt. Ab 16:00 Uhr sinken die Temperaturen spürbar; nutzen Sie das schwindende Licht, um vor Sonnenuntergang um 17:00 Uhr sicher zurückzukommen.",
+            "hu": "A téli bringázás az Alpokban igazi kihívás; a tiszta, hideg levegő réteges öltözetet és jó kesztyűt kíván. Délelőtt a völgy kulturális kincseit keressük fel, délben pedig a napsütötte tavat csodáljuk. 16:00 után a hőmérséklet gyorsan süllyed, így érdemes a 17:00 órai naplemente előtt biztonságban visszaérni a városba.",
+            "ro": "O tură de iarnă cu bicicleta în Alpi este o aventură pentru cei rezistenți; aerul rece necesită haine stratificate și mănuși bune. Dimineața vizitați siturile culturale, iar la amiază admirați lacul sclipitor. După ora 16:00 temperaturile scad brusc, deci profitați de lumină pentru a reveni în siguranță înainte de apusul de la 17:00.",
+            "en": "A winter bike ride in the Alps is an adventure for the resilient; the crisp air requires layered clothing and good gloves. In the morning, visit cultural sites, and at noon admire the sparkling lake. After 16:00, temperatures drop sharply, so use the remaining light to return safely before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Szent Móric-templom",
+                "hu": "Szent Móric-templom",
+                "ro": "Szent Móric-templom",
+                "en": "Szent Móric-templom"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp zum Aufwärmen; achten Sie beim Absteigen auf Glatteis auf dem Kopfsteinpflaster vor dem Kircheneingang.",
+                "hu": "Rövid kulturális megálló az átmelegedéshez; a leszálláskor figyeljen az esetleges jeges foltokra a templom előtti macskaköves burkolaton.",
+                "ro": "O scurtă oprire culturală pentru a vă încălzi; aveți grijă la coborârea de pe bicicletă la gheața de pe pavajul din fața intrării în biserică.",
+                "en": "A short cultural stop to warm up; be careful when dismounting as there might be icy patches on the cobblestones in front of the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Thônes-i Helytörténeti Múzeum",
+                "hu": "Thônes-i Helytörténeti Múzeum",
+                "ro": "Thônes-i Helytörténeti Múzeum",
+                "en": "Thônes-i Helytörténeti Múzeum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als längere Pause von der Kälte; die Ausstellungen bieten einen faszinierenden Einblick in das harte Leben der Bergbauern im Winter.",
+                "hu": "Használja a múzeumi látogatást hosszabb pihenőként a hideg elől; a kiállítások bemutatják, hogyan telt a hegyi gazdák élete a zord teleken a múltban.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de la frig; expozițiile oferă o imagine fascinantă a vieții aspre a fermierilor montani în timpul iernii.",
+                "en": "Use the museum visit as an extended break from the cold; the exhibits offer a fascinating glimpse into the tough lives of mountain farmers during winters."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Fairway",
+                "hu": "Mont Fairway",
+                "ro": "Mont Fairway",
+                "en": "Mont Fairway"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber oben angekommen kühlt der Wind schnell aus; ziehen Sie für die Abfahrt eine winddichte Jacke über, um nicht zu unterkühlen.",
+                "hu": "A felfelé tekerés melegen tart, de a tetőn a szél gyorsan lehűtheti; a lejtőre vegyen fel szélálló dzsekit, hogy elkerülje a megfázást a gyors gurulás közben.",
+                "ro": "Urcarea vă va ține cald, dar sus vântul vă poate răci rapid; puneți o jachetă rezistentă la vânt pentru coborâre pentru a evita hipotermia în viteză.",
+                "en": "The climb will keep you warm, but at the top the wind can cool you down quickly; put on a windproof jacket for the descent to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Thuy",
+                "hu": "Lac de Thuy",
+                "ro": "Lac de Thuy",
+                "en": "Lac de Thuy"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene oder schneebedeckte See ist ein magischer Anblick; bleiben Sie auf den befestigten Wegen, da der Untergrund im Winter tückisch sein kann.",
+                "hu": "A befagyott vagy hófödte tó varázslatos látványt nyújt; maradjon a kijelölt aszfaltos utakon, mert a talaj télen csalóka és instabil lehet a tóparton.",
+                "ro": "Lacul înghețat sau acoperit de zăpadă este o priveliște magică; rămâneți pe drumurile principale, deoarece solul poate fi instabil iarna pe malul lacului.",
+                "en": "The frozen or snow-covered lake is a magical sight; stay on the paved roads as the ground can be treacherous and unstable near the shore in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Morette-i Nemzeti Emlékhely",
+                "hu": "Morette-i Nemzeti Emlékhely",
+                "ro": "Morette-i Nemzeti Emlékhely",
+                "en": "Morette-i Nemzeti Emlékhely"
+              },
+              "tip_5lang": {
+                "de": "Der verschneite Friedhof der Résistance strahlt eine tiefe Stille aus; bewegen Sie Ihre Zehen und Finger regelmäßig, um die Durchblutung in der Kälte zu fördern.",
+                "hu": "A Résistance hófödte temetője mély csendet áraszt; mozgassa rendszeresen az ujjait és lábfejét a hidegben, hogy fenntartsa a vérkeringést a kerékpáron.",
+                "ro": "Cimitirul înzăpezit al Rezistenței emană o liniște profundă; mișcați degetele mâinilor și picioarelor regulat pentru a menține circulația sângelui în frig.",
+                "en": "The snow-covered Resistance cemetery radiates deep silence; move your fingers and toes regularly to maintain circulation while riding in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "La Belle Inconnue vízesés",
+                "hu": "La Belle Inconnue vízesés",
+                "ro": "La Belle Inconnue vízesés",
+                "en": "La Belle Inconnue vízesés"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die bizarren Eisformationen am Wasserfall; treten Sie die Rückreise zügig an, bevor die Dämmerung ab 16:30 Uhr die Sicht auf die Straße erschwert.",
+                "hu": "Csodálja meg a vízesés körüli különös jégalakzatokat; induljon vissza mielőbb, mert 16:30 után a szürkületben már nehezebb észlelni az úthibákat és a jeget.",
+                "ro": "Admirați formațiunile de gheață bizare din jurul cascadei; porniți spre casă rapid, deoarece după 16:30 amurgul îngreunează vizibilitatea drumului.",
+                "en": "Admire the bizarre ice formations around the waterfall; start your return journey quickly, as after 16:30 the twilight makes it harder to see road hazards."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az utazás helyi finomságok kóstolójával indul a sajtüzemben, majd a történelmi Morette-emlékművet látogatjuk meg.\n\nA lenyűgöző vízesés megtekintése után egyre magasabbra autózunk, hogy elérjük a lélegzetelállító Glières-fennsíkot.\n\nA délután a zord alpesi tájé, amikor megérkezünk az elszigetelt, nyugodt Lac de la Ferriaz hegyi tóhoz.\n\nA naplementét a hatalmas Retenue de l'Étale víztározónál csodáljuk meg, amely tökéletes helyszín a fotózáshoz.",
         "ro": "Călătoria începe cu degustarea specialităților locale la fabrica de brânză, urmată de o vizită la memorialul Morette.\n\nDupă ce vizităm cascada impresionantă, conducem mai sus pentru a explora uluitorul platou alpin Glières.\n\nDupă-amiaza aparține peisajului alpin accidentat, ajungând la liniștitul și izolatul lac montan Ferriaz.\n\nNe bucurăm de apusul soarelui la marele rezervor Retenue de l'Étale, locul ideal pentru fotografii de peisaj.",
         "en": "The drive starts by tasting local specialties at the cheese cooperative, followed by a visit to the historic Morette memorial.\n\nAfter viewing the impressive waterfall, we drive further up into the mountains to explore the breathtaking Glières plateau.\n\nThe afternoon belongs entirely to the rugged alpine scenery as we reach the remote and peaceful Lac de la Ferriaz.\n\nWe enjoy the sunset by the massive Retenue de l'Étale reservoir, which is the perfect location for capturing landscape photos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch die französischen Alpen im Regen bietet spektakuläre Ausblicke auf wolkenverhangene Gipfel. Vormittags besuchen Sie die Käserei und das historische Morette. Mittags führt die Fahrt zum Wasserfall, der durch den Regen an Kraft gewinnt. Auf dem Plateau Glières erleben Sie die raue Natur hautnah, bevor Sie den Tag an den Seen der Region in aller Ruhe ausklingen lassen.",
+            "hu": "Az autós túra a Francia-Alpokban esőben is lenyűgöző; a felhőkbe vesző csúcsok drámai látványt nyújtanak. Délelőtt a sajtszövetkezetet és Morette történelmi helyszínét keressük fel. Délután a megáradt vízesés és a Glières-fennsík ködös tájai várnak. Az eső áztatta tavak partján a természet erejét érezhetjük, miközben biztonságban és szárazon utazunk a célpontok között.",
+            "ro": "O călătorie cu mașina prin Alpii francezi pe ploaie oferă priveliști spectaculoase spre vârfurile pierdute în nori. Dimineața vizitați cooperativa și situl istoric Morette. La prânz, cascada umflată de ploaie și peisajul cețos de pe Platoul Glières vă vor captiva. Încheiați ziua la lacurile din regiune, bucurându-vă de natură dintr-un habitaclu uscat și sigur.",
+            "en": "A car trip through the French Alps in the rain offers spectacular views of peaks lost in the clouds. In the morning, visit the cheese cooperative and the historical site of Morette. At noon, the swollen waterfall and the misty landscapes of the Glières Plateau will captivate you. End your day at the regional lakes, enjoying nature from a dry and safe car interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thônes-i Sajtszövetkezet",
+                "hu": "Thônes-i Sajtszövetkezet",
+                "ro": "Thônes-i Sajtszövetkezet",
+                "en": "Thônes-i Sajtszövetkezet"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Start im Trockenen; decken Sie sich mit Vorräten ein, da die Fahrt in die Berge bei Regen länger dauern kann als üblich.",
+                "hu": "Tökéletes kezdés fedett helyen; tankoljon fel finomságokból, mert az esőben a hegyi utak és a kilátópontok felkeresése a vártnál több időt vehet igénybe.",
+                "ro": "Un început perfect la adăpost; aprovizionați-vă cu delicatese, deoarece drumul prin munți pe ploaie poate dura mai mult decât de obicei din cauza vizibilității.",
+                "en": "A perfect start in a dry spot; stock up on treats, as driving through the mountains in rain can take longer than usual due to reduced visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Morette-i Nemzeti Emlékhely",
+                "hu": "Morette-i Nemzeti Emlékhely",
+                "ro": "Morette-i Nemzeti Emlékhely",
+                "en": "Morette-i Nemzeti Emlékhely"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor Ort; das Museum der Résistance bietet eine tiefgründige Beschäftigung mit der Geschichte, während es draußen regnet.",
+                "hu": "Használja a közvetlen közeli parkolót; az ellenállási múzeum mélyreható történelmi utazást kínál, miközben odakint esik, így szárazon maradhat a látogatás alatt.",
+                "ro": "Folosiți parcarea de lângă monument; muzeul Rezistenței oferă o incursiune istorică profundă în timp ce afară plouă, menținându-vă confortabil pe durata vizitei.",
+                "en": "Use the parking lot right next to the memorial; the Resistance museum offers a profound historical journey while it rains outside, keeping you dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "La Belle Inconnue vízesés",
+                "hu": "La Belle Inconnue vízesés",
+                "ro": "La Belle Inconnue vízesés",
+                "en": "La Belle Inconnue vízesés"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach Regenfällen besonders beeindruckend; parken Sie vorsichtig am Straßenrand und genießen Sie das Schauspiel aus sicherer Entfernung.",
+                "hu": "A vízesés esőzés után különösen lenyűgöző látvány; parkoljon óvatosan az út szélén, és élvezze a természet erejét a biztonságos, kijelölt megfigyelőhelyről.",
+                "ro": "Cascada este impresionantă după ploi; parcați cu atenție pe marginea drumului și admirați forța naturii de la punctul de observare sigur și marcat.",
+                "en": "The waterfall is especially impressive after rainfall; park carefully on the roadside and enjoy the force of nature from the safe, marked observation point."
+              }
+            },
+            {
+              "name": {
+                "de": "Glières-fennsík",
+                "hu": "Glières-fennsík",
+                "ro": "Glières-fennsík",
+                "en": "Glières-fennsík"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Plateau kann bei Regen neblig sein; fahren Sie langsam und achten Sie auf Weidevieh, das sich bei schlechtem Wetter oft auf der Fahrbahn aufhält.",
+                "hu": "A fennsíkra vezető út esőben ködös lehet; vezessen lassan és figyeljen a legelő állatokra, amik rossz időben gyakran az úttestre tévedhetnek a legelők felől.",
+                "ro": "Drumul spre platou poate fi cețos pe ploaie; conduceți încet și fiți atenți la animalele care pot apărea pe carosabil în condiții de vizibilitate redusă.",
+                "en": "The road to the plateau can be very misty in the rain; drive slowly and watch out for grazing animals that often wander onto the road in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Ferriaz",
+                "hu": "Lac de la Ferriaz",
+                "ro": "Lac de la Ferriaz",
+                "en": "Lac de la Ferriaz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stimmung des Sees aus dem Auto heraus; die Farben der Berge wirken im Regen besonders satt und die Wolken hängen tief über dem Wasser.",
+                "hu": "Élvezze a tó melankolikus hangulatát az autóból; a hegyek színei esőben telítettebbnek tűnnek, a felhők pedig egészen alacsonyan úsznak a víz felszíne felett.",
+                "ro": "Bucurați-vă de atmosfera melancolică a lacului din mașină; culorile munților par mai intense pe ploaie, iar norii plutesc foarte aproape de suprafața apei.",
+                "en": "Enjoy the melancholic atmosphere of the lake from your car; mountain colors seem more saturated in the rain, and clouds float very low over the water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Retenue de l'Étale",
+                "hu": "Retenue de l'Étale",
+                "ro": "Retenue de l'Étale",
+                "en": "Retenue de l'Étale"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet trotz Regen tolle Ausblicke; prüfen Sie vor der Abfahrt ins Tal den Zustand Ihrer Wischerblätter für optimale Sicht bei der Rückkehr.",
+                "hu": "Az emelkedő az eső ellenére is nagyszerű kilátást nyújt; a völgybe való visszatérés előtt ellenőrizze az ablaktörlőket a biztonságos és tiszta látási viszonyokért.",
+                "ro": "Urcarea oferă priveliști grozave în ciuda ploii; înainte de a coborî în vale, verificați starea ștergătoarelor pentru o vizibilitate optimă la întoarcere.",
+                "en": "The climb offers great views despite the rain; before returning to the valley, check your wiper blades for optimal visibility during the drive back to town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch die Savoyen erfordert Winterreifen und Vorsicht, belohnt aber mit märchenhaften Schneelandschaften. Vormittags besuchen Sie die Käserei und die Gedenkstätte im weißen Kleid. Die Auffahrt zum Plateau Glières ist im Winter ein Highlight, doch die Straßen können glatt sein. Ab 16:30 Uhr setzt die Dämmerung ein; planen Sie, bis zum Sonnenuntergang um 17:00 Uhr wieder im Tal zu sein.",
+            "hu": "A téli autózás Savoyában téli gumit és óvatosságot igényel, de mesebeli havas tájakkal ajándékoz meg. Délelőtt a sajtszövetkezetet és a fehérbe öltözött emlékhelyet keressük fel. A Glières-fennsíkra vezető út télen igazi látványosság, de a jégre figyelni kell. 16:30-kor kezdődik a szürkület, így a 17:00 órai naplementére már érdemes a völgyben lenni.",
+            "ro": "Călătoria de iarnă cu mașina prin Savoia necesită anvelope de iarnă și prudență, dar oferă peisaje de poveste. Dimineața vizitați cooperativa și monumentul îmbrăcat în alb. Urcarea pe Platoul Glières este spectaculoasă iarna, însă drumul poate fi alunecos. Amurgul începe la 16:30, deci planificați să reveniți în vale până la apusul de la ora 17:00.",
+            "en": "A winter car trip through Savoy requires winter tires and caution, but rewards you with fairytale snowscapes. In the morning, visit the cooperative and the white-clad memorial. The climb to the Glières Plateau is a highlight in winter, but watch out for icy roads. Twilight starts at 16:30, so plan to be back in the valley by the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thônes-i Sajtszövetkezet",
+                "hu": "Thônes-i Sajtszövetkezet",
+                "ro": "Thônes-i Sajtszövetkezet",
+                "en": "Thônes-i Sajtszövetkezet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich aufzuwärmen und Proviant für die Fahrt durch die verschneiten Pässe zu kaufen; die Käserei ist im Winter ein wunderbar duftender Ort.",
+                "hu": "Használja ki a megállót az átmelegedésre, és vásároljon elemózsiát a havas hágókon átvezető útra; a szövetkezet télen is barátságos, illatos és meleg helyszín.",
+                "ro": "Profitați de oprire pentru a vă încălzi și cumpărați provizii pentru drumul prin trecătorile înzăpezite; cooperativa este primitoare și caldă chiar și în cele mai reci zile.",
+                "en": "Take advantage of the stop to warm up and buy snacks for the journey through snowy passes; the cooperative is a cozy and fragrant spot even on the coldest winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Morette-i Nemzeti Emlékhely",
+                "hu": "Morette-i Nemzeti Emlékhely",
+                "ro": "Morette-i Nemzeti Emlékhely",
+                "en": "Morette-i Nemzeti Emlékhely"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz wird meist geräumt, aber Vorsicht vor Glätte; die schneebedeckten Gräber der Widerstandskämpfer bieten einen Moment tiefster winterlicher Stille.",
+                "hu": "A parkolót általában takarítják, de vigyázzon a jégre; az ellenállók hófödte sírjai és a téli csendben álló emlékmű mély tiszteletet és nyugalmat áraszt.",
+                "ro": "Parcarea este de obicei curățată, dar fiți atenți la gheață; mormintele înzăpezite ale luptătorilor din Rezistență oferă un moment de liniște profundă în peisajul alb.",
+                "en": "The parking lot is usually cleared, but watch out for ice; the snow-covered graves of the Resistance fighters offer a moment of deep silence in the white landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "La Belle Inconnue vízesés",
+                "hu": "La Belle Inconnue vízesés",
+                "ro": "La Belle Inconnue vízesés",
+                "en": "La Belle Inconnue vízesés"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Gischtspuren an den Felsen sind spektakulär; halten Sie nur an geräumten Stellen und achten Sie beim Aussteigen auf glatte Fahrbahnränder.",
+                "hu": "A sziklákon megfagyott permet és jégcsapok látványa lenyűgöző; csak a letakarított helyeken álljon meg, és kiszálláskor ügyeljen az út szélének csúszósságára.",
+                "ro": "Țurțurii și gheața formată pe stânci sunt spectaculoase; opriți doar în locurile curățate de zăpadă și aveți grijă la gheața de pe marginea drumului când coborâți.",
+                "en": "The icicles and ice formations on the rocks are spectacular; only stop in cleared areas and be careful of ice on the roadside when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Glières-fennsík",
+                "hu": "Glières-fennsík",
+                "ro": "Glières-fennsík",
+                "en": "Glières-fennsík"
+              },
+              "tip_5lang": {
+                "de": "Schneeketten im Kofferraum sind für diese Auffahrt im Winter Pflicht; das Plateau bietet eine der schönsten Langlaufloipen der Region in einer reinen Schneewelt.",
+                "hu": "A hólánc kötelező felszerelés ehhez a téli emelkedőhöz; a fennsík a régió egyik legszebb sífutó terepét kínálja a kristálytiszta, érintetlen havas tájban.",
+                "ro": "Lanțurile de zăpadă sunt obligatorii pentru această urcare iarna; platoul oferă unul dintre cele mai frumoase peisaje de iarnă și pârtii de schi fond din regiune.",
+                "en": "Snow chains are mandatory for this winter climb; the plateau offers one of the most beautiful winter landscapes and cross-country ski trails in the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Ferriaz",
+                "hu": "Lac de la Ferriaz",
+                "ro": "Lac de la Ferriaz",
+                "en": "Lac de la Ferriaz"
+              },
+              "tip_5lang": {
+                "de": "Der See ist oft komplett zugefroren und weiß; genießen Sie den Blick auf die verschneiten Alpengipfel, die sich bei klarem Winterwetter in der Ferne abzeichnen.",
+                "hu": "A tó ilyenkor gyakran teljesen befagy és hó takarja; élvezze a kilátást a távoli, hófödte alpesi csúcsokra, amik a tiszta téli időben élesen kirajzolódnak.",
+                "ro": "Lacul este adesea complet înghețat și acoperit de zăpadă; bucurați-vă de panorama vârfurilor alpine înzăpezite care se văd clar în zilele senine de iarnă.",
+                "en": "The lake is often completely frozen and covered in snow; enjoy the panoramic view of the distant snowy Alpine peaks that stand out clearly on sunny winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Retenue de l'Étale",
+                "hu": "Retenue de l'Étale",
+                "ro": "Retenue de l'Étale",
+                "en": "Retenue de l'Étale"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht auf dem Schnee zu sehen; die kurvige Abfahrt nach Thônes sollte bei Tageslicht absolviert werden, um Eis zu erkennen.",
+                "hu": "Érkezzen 16:30 előtt, hogy lássa az utolsó fényeket a havon; a Thônes-ba visszavezető kanyargós utat érdemes még világosban megtenni a rejtett jégfoltok miatt.",
+                "ro": "Ajungeți înainte de 16:30 pentru a vedea ultimele raze pe zăpadă; coborârea spre Thônes trebuie făcută pe lumină pentru a putea observa eventualele porțiuni cu gheață.",
+                "en": "Arrive before 16:30 to see the last light on the snow; the winding descent back to Thônes should be done in daylight to easily spot any hidden icy patches."
+              }
+            }
+          ]
+        }
       }
     }
   }

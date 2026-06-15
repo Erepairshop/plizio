@@ -160,6 +160,196 @@
         "hu": "A reggel a Plaza de España téren indul, elmerülve Melilla modernista bájában. Innen egy rövid sétával elérheti az Asamblea Palotát, amely lenyűgöző építészeti részleteket rejt.\n\nDélben lépjen be az óvárosba, és fedezze fel a Hospital del Rey gazdag kiállításait. A történelem megismerése után sétáljon át a Baluarte de San Pedro Alto bástyához a parti panorámáért.\n\nA délután a masszív Fuerte de Victoria Chica erőd felfedezésére csábít, amely a város múltját őrzi. Szánjon időt a történelmileg jelentős, kissé egyenetlen ösvények bejárására.\n\nA nap a Sinagoga de Or Zaruah zsinagógánál ér véget. E szent hely békés légköre tökéletes, elmélyült befejezést kínál Melilla gazdagító gyalogos felfedezéséhez.",
         "ro": "Dimineața începe în Plaza de España, cufundându-vă în farmecul modernist al Melillei. De aici, o scurtă plimbare vă duce la Palacio de la Asamblea, cu detaliile sale arhitecturale.\n\nLa prânz, pășiți în orașul vechi pentru a explora expozițiile bogate de la Hospital del Rey. După aceea, îndreptați-vă spre Baluarte de San Pedro Alto pentru o vedere de coastă impresionantă.\n\nDupă-amiaza invită la o vizită la robustul Fuerte de Victoria Chica, o dovadă a trecutului orașului. Luați-vă timp pentru a traversa căile istorice, dar ușor denivelate.\n\nZiua se încheie la Sinagoga de Or Zaruah. Atmosfera pașnică a acestui sanctuar sacru oferă un final perfect și reflexiv al unui tur pietonal plin de satisfacții prin Melilla.",
         "en": "Morning begins at Plaza de España, immersing you in Melilla's Modernist charm. From here, a short walk brings you to the Palacio de la Asamblea, showcasing intricate details.\n\nBy midday, step into the old town to explore the rich exhibits at Hospital del Rey. After soaking up history, wander over to the Baluarte de San Pedro Alto for stunning coastal views.\n\nThe afternoon invites a visit to the robust Fuerte de Victoria Chica, a testament to the city's past. Take your time traversing the slightly uneven but historically significant pathways.\n\nYour day concludes at the Sinagoga de Or Zaruah. The peaceful atmosphere of this sacred sanctuary offers a perfect, reflective end to an enriching walking tour of Melilla."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den Jugendstil-Arkaden, die Schutz vor dem Nieselregen bieten. Mittags erkunden wir die Festungsmauern, wobei wir die Museen als trockene Rückzugsorte nutzen. Am Nachmittag schlendern wir durch die Altstadt, wo die glatten Pflastersteine Vorsicht erfordern. Der Abend klingt gemütlich aus, während die Lichter der Stadt auf dem nassen Asphalt der Plaza de España glänzen.",
+            "hu": "A reggel Melilla modernista épületei között indul, ahol az erkélyek és árkádok alatt védve maradunk az esőtől. Délben a várnegyed felé vesszük az irányt, a múzeumokat használva fedett menedékként. Délután a történelmi falak között sétálunk, figyelve a csúszós kövekre a szűk utcákban. Az este a kikötő közelségében ér minket, ahol a vizes aszfalton megcsillanó fények különleges hangulatot árasztanak.",
+            "ro": "Dimineața începe sub arcadele moderniste, oferind protecție împotriva burniței mediteraneene. La prânz, explorăm cetatea, folosind muzeele ca refugii uscate. După-amiaza ne plimbăm prin orașul vechi, unde pavajul umed poate fi alunecos, deci pășiți cu grijă. Seara se încheie plăcut, în timp ce luminile orașului se reflectă spectaculos pe asfaltul ud de lângă Plaza de España.",
+            "en": "The morning starts under the Modernist arcades, providing shelter from the light Mediterranean drizzle. At noon, we explore the fortress walls, using the indoor museums as dry havens. In the afternoon, we wander through the old town, where the wet cobblestones require careful steps. The evening ends cozily as the city lights reflect beautifully on the damp asphalt of Plaza de España."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Brunnen und die umliegende Architektur von den überdachten Gehwegen aus, um bei Regen trocken zu bleiben.",
+                "hu": "Csodálja meg a szökőkutakat és a környező építészetet a fedett járdákról, így esőben is szárazon élvezheti a főtér látványát.",
+                "ro": "Admirați fântânile și arhitectura înconjurătoare de pe trotuarele acoperite pentru a rămâne uscați în timp ce plouă.",
+                "en": "Admire the fountains and surrounding architecture from the covered walkways to stay dry while enjoying the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de la Asamblea",
+                "hu": "Palacio de la Asamblea",
+                "ro": "Palacio de la Asamblea",
+                "en": "Palacio de la Asamblea"
+              },
+              "tip_5lang": {
+                "de": "Die detaillierte Art-Déco-Fassade lässt sich am besten aus der Ferne unter einem stabilen Regenschirm betrachten.",
+                "hu": "A részletgazdag Art Deco homlokzatot érdemes egy stabil esernyő alól, tisztes távolságból szemügyre venni a szemerkélő esőben.",
+                "ro": "Fațada detaliată Art Deco este cel mai bine admirată de la distanță, sub o umbrelă stabilă, în timpul ploii ușoare.",
+                "en": "The detailed Art Deco facade is best admired from a distance under a sturdy umbrella during the light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital del Rey",
+                "hu": "Hospital del Rey",
+                "ro": "Hospital del Rey",
+                "en": "Hospital del Rey"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Ort als perfektes Indoor-Ziel; die historischen Archive bieten stundenlangen Schutz vor dem Wetter.",
+                "hu": "Használja ezt a helyszínt tökéletes fedett célpontként; a történelmi archívumok órákig tartó védelmet nyújtanak az eső elől.",
+                "ro": "Utilizați această locație ca destinație interioară perfectă; arhivele istorice oferă ore de protecție împotriva vremii nefavorabile.",
+                "en": "Use this location as a perfect indoor destination; the historical archives offer hours of protection from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Baluarte de San Pedro Alto",
+                "hu": "Baluarte de San Pedro Alto",
+                "ro": "Baluarte de San Pedro Alto",
+                "en": "Baluarte de San Pedro Alto"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den hohen Mauern, da die Steine glatt sind; genießen Sie den mystischen Blick auf das graue Meer.",
+                "hu": "Legyen óvatos a magas falakon, mert a kövek csúszósak; élvezze a misztikus kilátást a szürkén gomolygó tengerre.",
+                "ro": "Fiți atenți pe zidurile înalte deoarece pietrele sunt alunecoase; bucurați-vă de vederea mistică a mării cenușii.",
+                "en": "Be careful on the high walls as the stones are slippery; enjoy the mystical view of the gray, misty sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de Victoria Chica",
+                "hu": "Fuerte de Victoria Chica",
+                "ro": "Fuerte de Victoria Chica",
+                "en": "Fuerte de Victoria Chica"
+              },
+              "tip_5lang": {
+                "de": "Das offene Gelände bietet wenig Schutz; tragen Sie eine wasserfeste Jacke gegen die frische Meeresbrise und den Regen.",
+                "hu": "A nyitott terület kevés védelmet nyújt; viseljen vízhatlan kabátot a friss tengeri szél és az eső ellen a várnál.",
+                "ro": "Terenul deschis oferă puțin adăpost; purtați o jachetă impermeabilă împotriva brizelor marine și a ploii.",
+                "en": "The open terrain offers little shelter; wear a waterproof jacket against the fresh sea breeze and rain at the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinagoga de Or Zaruah",
+                "hu": "Sinagoga de Or Zaruah",
+                "ro": "Sinagoga de Or Zaruah",
+                "en": "Sinagoga de Or Zaruah"
+              },
+              "tip_5lang": {
+                "de": "Der prächtige Innenraum ist der ideale Ort, um das Ende des Schauers abzuwarten und die jüdische Kunst zu bewundern.",
+                "hu": "A pompás belső tér ideális helyszín az eső elálltának megvárására, miközben a zsidó művészet remekeit csodálja.",
+                "ro": "Interiorul magnific este locul ideal pentru a aștepta oprirea ploii în timp ce admirați arta evreiască locală.",
+                "en": "The magnificent interior is the ideal spot to wait for the rain to stop while admiring the local Jewish art."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt mit einer frischen Brise auf der Plaza de España. Mittags wärmt die milde Sonne die Festungsmauern von Melilla la Vieja auf. Am Nachmittag besuchen wir historische Stätten, bevor der kühle Wind vom Meer her weht. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen Abend in den beleuchteten Gassen der Stadt.",
+            "hu": "A hűvös téli reggel friss szellővel indul a Plaza de España téren. Napközben a gyenge téli napsütés kellemesen melegíti Melilla la Vieja ódon falait. Délután a történelmi helyszínek belső tereit fedezzük fel, mielőtt feltámadna a tengeri szél. Mivel a nap 17:00 körül nyugszik, az estét már a kivilágított belváros hangulatos fényeiben töltjük.",
+            "ro": "Dimineața rece de iarnă începe cu o briză proaspătă în Plaza de España. La prânz, soarele blând încălzește zidurile cetății Melilla la Vieja. După-amiaza vizităm siturile istorice înainte ca vântul rece de mare să se intensifice. Deoarece soarele apune în jurul orei 17:00, savurăm seara devreme pe străzile luminate ale orașului.",
+            "en": "The cool winter morning starts with a fresh breeze at Plaza de España. At noon, the mild sun warms the ancient walls of Melilla la Vieja. In the afternoon, we visit historic sites before the cold sea wind picks up. Since the sun sets around 17:00, we enjoy the early evening in the beautifully lit streets of the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf den Bänken; die offene Gestaltung lässt Sie die seltene Wärme des Tages tanken.",
+                "hu": "Élvezze a téli napsütést a padokon; a nyitott tér lehetővé teszi, hogy magába szívja a nap ritka melegét ezen a napon.",
+                "ro": "Bucurați-vă de soarele de iarnă pe bănci; designul deschis vă permite să absorbiți căldura rară a zilei.",
+                "en": "Enjoy the winter sun on the benches; the open layout allows you to soak up the rare warmth of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de la Asamblea",
+                "hu": "Palacio de la Asamblea",
+                "ro": "Palacio de la Asamblea",
+                "en": "Palacio de la Asamblea"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet im klaren Winterlicht besonders schön; tragen Sie einen Schal gegen den Wind vom Hafen.",
+                "hu": "A homlokzat különösen szépen ragyog a tiszta téli fényben; viseljen sálat a kikötő felől érkező hűvös szél ellen.",
+                "ro": "Fațada strălucește frumos în lumina clară de iarnă; purtați un fular împotriva vântului rece dinspre port.",
+                "en": "The facade shines beautifully in the clear winter light; wear a scarf against the cold wind coming from the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital del Rey",
+                "hu": "Hospital del Rey",
+                "ro": "Hospital del Rey",
+                "en": "Hospital del Rey"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich aufzuwärmen; die dicken Mauern speichern die Kühle, aber im Inneren ist es windgeschützt.",
+                "hu": "Kiváló helyszín a felmelegedésre; a vastag falak távol tartják a szelet, így békésen böngészhet a kiállítások között.",
+                "ro": "Un loc excelent pentru a vă încălzi; zidurile groase oferă protecție împotriva vântului în timp ce explorați interiorul.",
+                "en": "An excellent place to warm up; the thick walls provide protection from the wind while you explore the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Baluarte de San Pedro Alto",
+                "hu": "Baluarte de San Pedro Alto",
+                "ro": "Baluarte de San Pedro Alto",
+                "en": "Baluarte de San Pedro Alto"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist oft klarer; blicken Sie über das Mittelmeer bis hin zu den Gipfeln des Rif-Gebirges.",
+                "hu": "A téli látótávolság gyakran sokkal nagyobb; lásson el a Földközi-tengeren túlra, egészen a Rif-hegység csúcsaiig.",
+                "ro": "Vizibilitatea pe timp de iarnă este adesea mai clară; priviți peste Mediterană până la vârfurile Munților Rif.",
+                "en": "Winter visibility is often much clearer; look across the Mediterranean all the way to the peaks of the Rif mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de Victoria Chica",
+                "hu": "Fuerte de Victoria Chica",
+                "ro": "Fuerte de Victoria Chica",
+                "en": "Fuerte de Victoria Chica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort am frühen Nachmittag, um die letzte Wärme der Sonne zu nutzen, bevor es nach 16 Uhr kühler wird.",
+                "hu": "Látogassa meg az erődöt kora délután, hogy kihasználja a nap utolsó melegét, mielőtt 16 óra után hirtelen lehűlne az idő.",
+                "ro": "Vizitați fortul după-amiaza devreme pentru a profita de ultima căldură a soarelui înainte de răcirea de după ora 16.",
+                "en": "Visit the fort in the early afternoon to take advantage of the sun's last warmth before it cools down after 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Sinagoga de Or Zaruah",
+                "hu": "Sinagoga de Or Zaruah",
+                "ro": "Sinagoga de Or Zaruah",
+                "en": "Sinagoga de Or Zaruah"
+              },
+              "tip_5lang": {
+                "de": "Die warme Innenbeleuchtung schafft eine gemütliche Atmosphäre für den Abschluss Ihres Winterspaziergangs vor dem Sonnenuntergang.",
+                "hu": "A meleg belső világítás barátságos hangulatot teremt a téli séta lezárásához közvetlenül a korai naplemente előtt.",
+                "ro": "Iluminatul interior cald creează o atmosferă primitoare pentru a încheia plimbarea de iarnă chiar înainte de apus.",
+                "en": "The warm interior lighting creates a welcoming atmosphere to conclude your winter walk just before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpártúráját a Plaza de España téren, élvezve a reggeli szellőt. A modern központból pedálozzon a történelmi Hospital del Rey felé, hogy elmerüljön a helyi történelemben.\n\nDélben elérkezik a Baluarte de San Pedro Alto és a Fuerte del Rosarío erődökhöz. Az ősi erődítmények közötti kerékpározás egyedülálló perspektívát nyújt a védelmi építészetről.\n\nDélután guruljon el az elegáns Mezquita Central mellett, megcsodálva annak feltűnő minaretjét. Nem sokkal ezután eléri a Plaza de toros arénát, amely ritka látványosság itt.\n\nAz utazás a Basílica del Cristo Rey bazilikánál ér véget. A lenyűgöző oltár és a csendes környezet nyugodt pillanatot kínál a lábak pihentetésére az aktív nap után.",
         "ro": "Începeți turul cu bicicleta în Plaza de España, bucurându-vă de briza dimineții. Din centrul modern, pedalați spre istoricul Hospital del Rey pentru a aprofunda istoria locală.\n\nPrânzul vă aduce la Baluarte de San Pedro Alto și la Fuerte del Rosarío. Mersul cu bicicleta între aceste cetăți vechi oferă o perspectivă unică asupra arhitecturii defensive.\n\nDupă-amiaza, treceți pe lângă eleganta Mezquita Central, admirând minaretul ei impresionant. La scurt timp după, veți ajunge la Plaza de toros, o priveliște destul de rară aici.\n\nCălătoria se încheie la Basílica del Cristo Rey. Altarul impresionant și împrejurimile liniștite oferă un moment de relaxare pentru a vă odihni după o zi activă de explorare.",
         "en": "Kick off your cycling tour at Plaza de España, enjoying the morning breeze. From the modern center, pedal towards the historic Hospital del Rey to delve into local history.\n\nMidday brings you to the Baluarte de San Pedro Alto and the Fuerte del Rosarío. Cycling between these ancient fortresses offers a unique perspective on Melilla's formidable defensive architecture.\n\nIn the afternoon, glide past the elegant Mezquita Central, taking in its striking minaret. Shortly after, you will reach the Plaza de toros, a rare sight in this part of the world.\n\nYour ride wraps up at the Basílica del Cristo Rey. The impressive altar and quiet surroundings provide a tranquil moment to rest your legs after an active day of exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine vorsichtige Fahrt am Morgen durch das nasse Melilla. Mittags suchen wir Schutz in den Museen der Zitadelle, während der Regen auf die alten Dächer prasselt. Nachmittags radeln wir vorsichtig an der Küste entlang, wobei wir Pfützen und rutschige Fliesen meiden. Der Abend endet mit einer zügigen Fahrt zurück zum Hotel, bevor der nächste Schauer einsetzt.",
+            "hu": "Óvatos reggeli tekerés a vizes Melillában. Délben az erőd múzeumaiban keresünk menedéket, miközben az eső az ősi tetőket veri. Délután óvatosan biciklizünk a parton, kerülgetve a tócsákat és a csúszós burkolatokat. Az este egy tempósabb hazatéréssel zárul, még mielőtt a következő zápor elérné a várost.",
+            "ro": "O plimbare prudentă de dimineață prin Melilla umedă. La prânz, căutăm adăpost în muzeele cetății, în timp ce ploaia bate în acoperișurile vechi. După-amiaza pedalăm cu grijă pe coastă, evitând bălțile și dalele alunecoase. Seara se încheie cu o întoarcere rapidă spre cazare înainte de următoarea aversă.",
+            "en": "A cautious morning ride through wet Melilla. At noon, we seek shelter in the citadel's museums while rain patters on the ancient roofs. In the afternoon, we cycle carefully along the coast, avoiding puddles and slippery tiles. The evening ends with a brisk ride back before the next shower reaches the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Arkaden und erkunden Sie den Platz zu Fuß, um nicht nass zu werden.",
+                "hu": "Parkolja le kerékpárját az árkádok alatt, és fedezze fel a teret gyalogosan, hogy elkerülje az ázást.",
+                "ro": "Parcați bicicleta sub arcade și explorați piața pe jos pentru a evita să vă udați în timpul ploii.",
+                "en": "Park your bike under the arcades and explore the square on foot to avoid getting wet during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital del Rey",
+                "hu": "Hospital del Rey",
+                "ro": "Hospital del Rey",
+                "en": "Hospital del Rey"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause; stellen Sie Ihr Rad gesichert im Hof ab und genießen Sie die Ausstellungen.",
+                "hu": "Ideális helyszín egy hosszabb pihenőre; állítsa le biztonságosan a biciklit az udvaron, és élvezze a kiállításokat.",
+                "ro": "Un loc ideal pentru o pauză mai lungă; parcați bicicleta în siguranță în curte și bucurați-vă de expoziții.",
+                "en": "An ideal spot for a longer break; safely park your bike in the courtyard and enjoy the indoor exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Baluarte de San Pedro Alto",
+                "hu": "Baluarte de San Pedro Alto",
+                "ro": "Baluarte de San Pedro Alto",
+                "en": "Baluarte de San Pedro Alto"
+              },
+              "tip_5lang": {
+                "de": "Die Rampe zum Bollwerk kann bei Nässe sehr rutschig sein; schieben Sie Ihr Rad lieber das letzte Stück hoch.",
+                "hu": "A bástyához vezető rámpa vizesen nagyon csúszós lehet; inkább tolja a biciklit az utolsó szakaszon a biztonságért.",
+                "ro": "Rampa către bastion poate fi foarte alunecoasă când este udă; mai bine împingeți bicicleta pe ultima porțiune.",
+                "en": "The ramp to the bastion can be very slippery when wet; it's better to push your bike on the last section for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte del Rosarío",
+                "hu": "Fuerte del Rosarío",
+                "ro": "Fuerte del Rosarío",
+                "en": "Fuerte del Rosarío"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Mauern als Windschutz; prüfen Sie Ihre Bremsen, bevor Sie die Hügel hinunterfahren.",
+                "hu": "Használja a masszív falakat szélfogóként; ellenőrizze a fékeit, mielőtt elindulna lefelé a domboldalról az esőben.",
+                "ro": "Folosiți zidurile masive ca scut împotriva vântului; verificați frânele înainte de a coborî panta pe ploaie.",
+                "en": "Use the massive walls as a windbreak; check your brakes before heading down the hillside in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mezquita Central",
+                "hu": "Mezquita Central",
+                "ro": "Mezquita Central",
+                "en": "Mezquita Central"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Architektur zu bewundern; halten Sie Ihre Regenausrüstung für die Weiterfahrt bereit.",
+                "hu": "Egy rövid megálló is elég az építészet megcsodálásához; tartsa készenlétben esőfelszerelését a további tekeréshez.",
+                "ro": "O oprire scurtă este suficientă pentru a admira arhitectura; păstrați echipamentul de ploaie la îndemână pentru drum.",
+                "en": "A short stop is enough to admire the architecture; keep your rain gear ready for the continued ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de toros de Melilla",
+                "hu": "Plaza de toros de Melilla",
+                "ro": "Plaza de toros de Melilla",
+                "en": "Plaza de toros de Melilla"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung bietet wenig Schutz; machen Sie ein schnelles Foto und suchen Sie das nächste Café auf.",
+                "hu": "A környék kevés védelmet nyújt; készítsen egy gyors fotót, majd keressen egy közeli kávézót a felmelegedéshez.",
+                "ro": "Zona oferă puțin adăpost; faceți o fotografie rapidă și apoi căutați o cafenea din apropiere pentru a vă încălzi.",
+                "en": "The area offers little shelter; take a quick photo and then find a nearby cafe to warm up from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica del Cristo Rey",
+                "hu": "Basílica del Cristo Rey",
+                "ro": "Basílica del Cristo Rey",
+                "en": "Basílica del Cristo Rey"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenschiff für eine ruhige, trockene Pause, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "Használja a templom belső terét egy nyugodt, száraz pihenőre, mielőtt megkezdené túrája utolsó szakaszát.",
+                "ro": "Folosiți interiorul bisericii pentru o pauză liniștită și uscată înainte de a începe ultima etapă a turului.",
+                "en": "Use the church interior for a quiet, dry break before starting the final stage of your biking tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen auf dem Rad mit herrlicher Sicht. Mittags erkunden wir die Festungen, wobei die milde Sonne die kühle Luft erträglich macht. Nachmittags führt uns die Tour zu den Außenbezirken, wo der Wind vom Meer her deutlich auffrischt. Am frühen Abend, wenn die Kälte nach Sonnenuntergang schnell zunimmt, kehren wir zügig in die Stadt zurück.",
+            "hu": "Frissítő téli reggel a nyeregben, ragyogó látási viszonyok mellett. Napközben az erődök között tekerünk, ahol a gyenge napsütés elviselhetővé teszi a hűvös levegőt. Délután a távolabbi városrészeket vesszük célba, de a tenger felől érkező szél már érezhetően felerősödik. Kora este, a naplemente utáni gyors lehűléskor már sietünk vissza a belvárosba.",
+            "ro": "O dimineață de iarnă revigorantă pe bicicletă, cu vizibilitate excelentă. La prânz, explorăm fortărețele, soarele blând făcând aerul rece suportabil. După-amiaza, turul ne duce spre zonele exterioare, unde vântul dinspre mare se intensifică. Seara devreme, când frigul crește rapid după apus, ne întoarcem grăbiți spre centrul orașului.",
+            "en": "A refreshing winter morning in the saddle with excellent visibility. At noon, we cycle between the forts where the mild sun makes the cool air bearable. In the afternoon, the tour takes us to the outer districts, but the sea wind noticeably strengthens. In the early evening, as it cools down quickly after sunset, we head back to the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour hier mit Handschuhen; die offene Fläche kann am frühen Morgen sehr windig und kühl sein.",
+                "hu": "Kezdje a túrát kesztyűben; a nyitott tér kora reggel nagyon szeles és hűvös lehet a kerékpárosok számára.",
+                "ro": "Începeți turul cu mănuși; spațiul deschis poate fi foarte vântos și rece dimineața devreme pentru bicicliști.",
+                "en": "Start your tour with gloves; the open square can be very windy and cool for cyclists in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital del Rey",
+                "hu": "Hospital del Rey",
+                "ro": "Hospital del Rey",
+                "en": "Hospital del Rey"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenhof für eine kurze Trinkpause, bevor Sie die Anstiege zur Oberstadt in Angriff nehmen.",
+                "hu": "Használja a szélvédett belső udvart egy rövid frissítő szünetre, mielőtt nekivágna a felsővárosi emelkedőknek.",
+                "ro": "Folosiți curtea interioară ferită de vânt pentru o scurtă pauză de hidratare înainte de a urca spre orașul de sus.",
+                "en": "Use the wind-protected inner courtyard for a short break before tackling the climbs to the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Baluarte de San Pedro Alto",
+                "hu": "Baluarte de San Pedro Alto",
+                "ro": "Baluarte de San Pedro Alto",
+                "en": "Baluarte de San Pedro Alto"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das winterliche Mittelmeer ist spektakulär; die klare Luft lässt Sie fast bis nach Marokko blicken.",
+                "hu": "A kilátás a téli Földközi-tengerre lenyűgöző; a tiszta levegőben szinte Marokkóig ellátni a bástyáról.",
+                "ro": "Vederea asupra Mediteranei iarna este spectaculoasă; aerul curat vă permite să vedeți aproape până în Maroc.",
+                "en": "The view of the winter Mediterranean is spectacular; the clear air lets you see almost as far as Morocco from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte del Rosarío",
+                "hu": "Fuerte del Rosarío",
+                "ro": "Fuerte del Rosarío",
+                "en": "Fuerte del Rosarío"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die sonnigen Stellen an den Festungsmauern für eine Pause; der Stein speichert die Wärme des Tages.",
+                "hu": "Keresse a napsütötte pontokat a várfalaknál a pihenőhöz; a kövek még őrzik a nappali fény melegét.",
+                "ro": "Căutați locurile însorite lângă zidurile fortăreței pentru o pauză; pietrele rețin puțin din căldura zilei.",
+                "en": "Look for sunny spots near the fortress walls for a break; the stones still hold some of the day's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Mezquita Central",
+                "hu": "Mezquita Central",
+                "ro": "Mezquita Central",
+                "en": "Mezquita Central"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Orientierungspunkt im klaren Winterlicht; halten Sie kurz an, um die Architektur ohne die Sommerhitze zu genießen.",
+                "hu": "Ideális tájékozódási pont a tiszta téli fényben; álljon meg egy pillanatra, és élvezze az építészetet hőség nélkül.",
+                "ro": "Un punct de orientare ideal în lumina clară de iarnă; opriți-vă scurt pentru a admira arhitectura fără caniculă.",
+                "en": "An ideal landmark in the clear winter light; stop for a moment to enjoy the architecture without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de toros de Melilla",
+                "hu": "Plaza de toros de Melilla",
+                "ro": "Plaza de toros de Melilla",
+                "en": "Plaza de toros de Melilla"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter oft menschenleer; nutzen Sie die Ruhe für Fotos, bevor der kalte Schatten der Mauern fällt.",
+                "hu": "A tér télen gyakran kihalt; használja ki a nyugalmat a fotózáshoz, mielőtt a falak hideg árnyéka eléri az utat.",
+                "ro": "Piața este adesea pustie iarna; profitați de liniște pentru fotografii înainte ca umbra rece a zidurilor să cadă.",
+                "en": "The square is often deserted in winter; use the quiet for photos before the cold shadow of the walls falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Basílica del Cristo Rey",
+                "hu": "Basílica del Cristo Rey",
+                "ro": "Basílica del Cristo Rey",
+                "en": "Basílica del Cristo Rey"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier gegen 16:30 Uhr, um den Sonnenuntergang über der Stadt in der hölzernen Wärme der Kirche zu erleben.",
+                "hu": "Fejezze be túráját itt 16:30 körül, hogy még a naplemente előtt élvezhesse a templom belső nyugalmát és melegét.",
+                "ro": "Încheiați turul aici în jurul orei 16:30 pentru a vă bucura de liniștea și căldura bisericii înainte de apus.",
+                "en": "End your tour here around 16:30 to enjoy the church's peace and warmth before the early winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós túráját az ikonikus Plaza de España téren. Egy gyors reggeli kávé után hajtson a Hospital del Rey múzeumhoz, hogy elmerüljön Melilla múltjának gazdag szövevényében.\n\nDélben tegyen egy rövid utat a Mezquita Central megtekintéséhez, majd folytassa útját a Fortín de San Francisco felé, hogy felfedezze a város gyarmati védműveinek maradványait.\n\nA délután folyamán navigáljon a Fortín de Reina Regente felé. Maga az út is festői bepillantást enged a peremkerületekre, tökéletesen előkészítve a történelmi felfedezést.\n\nA nap a Fuerte de la Purísima Concepción erődnél csúcsosodik ki. A késő délutáni érkezés lehetővé teszi, hogy megörökítse az ősi kőfalakat az aranyóra csodás fényeiben.",
         "ro": "Începeți itinerariul auto la emblematica Plaza de España. După o cafea, conduceți până la Hospital del Rey pentru a vă cufunda în bogata tapiserie a trecutului orașului Melilla.\n\nLa prânz, faceți o scurtă plimbare pentru a vedea Mezquita Central, apoi continuați spre Fortín de San Francisco pentru a explora rămășițele apărărilor coloniale ale orașului.\n\nPe măsură ce după-amiaza avansează, navigați către Fortín de Reina Regente. Călătoria în sine oferă imagini pitorești ale periferiei, pregătind perfect explorarea istorică.\n\nZiua culminează la Fuerte de la Purísima Concepción. Ajungând la sfârșitul după-amiezii vă permite să surprindeți lumina orei de aur pe zidurile antice și impunătoare.",
         "en": "Start your driving itinerary at the iconic Plaza de España. After a quick morning coffee, drive to the Hospital del Rey to immerse yourself in the rich tapestry of Melilla's past.\n\nFor midday, take a short drive to see the exterior of the Mezquita Central, then continue to Fortín de San Francisco to explore the remnants of the city's colonial defenses under the sun.\n\nAs the afternoon progresses, navigate towards the Fortín de Reina Regente. The drive itself offers scenic glimpses of the outskirts, perfectly setting up the historical exploration.\n\nYour day culminates at the Fuerte de la Purísima Concepción. Arriving in the late afternoon allows you to capture the golden hour light against the ancient, imposing stone walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine entspannte Fahrt am Morgen trotz des Regens. Mittags besuchen wir die überdachten historischen Stätten, während die Scheibenwischer den Blick auf die Zitadelle freihalten. Nachmittags fahren wir zu den äußeren Forts, wo wir die Aussicht trocken aus dem Wagen genießen können. Der Abend klingt bei einer Fahrt durch die glänzenden, nassen Straßen des Stadtzentrums aus.",
+            "hu": "Kényelmes reggeli autózás az eső ellenére. Napközben a fedett történelmi helyszíneket látogatjuk meg, miközben az ablaktörlők mögül figyeljük az erődöt. Délután a külső erődökhöz hajtunk, ahol a kocsiból is élvezhetjük a kilátást anélkül, hogy eláznánk. Az este a belváros csillogó, vizes utcáin tett autózással zárul, figyelve a különleges fényvisszaverődésekre.",
+            "ro": "O călătorie relaxantă de dimineață în ciuda ploii. La prânz, vizităm siturile istorice acoperite, în timp ce ștergătoarele mențin vederea clară spre cetate. După-amiaza conducem spre forturile exterioare, admirând peisajul din confortul mașinii. Seara se încheie cu o plimbare prin centrul orașului, pe străzile ude care reflectă spectaculos luminile.",
+            "en": "A relaxed morning drive despite the rain. At noon, we visit the covered historical sites while the wipers keep the view of the citadel clear. In the afternoon, we head to the outer forts, enjoying the scenery from the dry comfort of the car. The evening ends with a drive through the city center, where the wet streets reflect the lights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Arkaden, um trockenen Fußes zu den umliegenden Jugendstilgebäuden zu gelangen.",
+                "hu": "Parkoljon az árkádok közelében, hogy száraz lábbal érhesse el a környező szecessziós épületeket az esőben.",
+                "ro": "Parcați aproape de arcade pentru a ajunge cu picioarele uscate la clădirile moderniste din jur pe timp de ploaie.",
+                "en": "Park near the arcades to reach the surrounding Modernist buildings with dry feet during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital del Rey",
+                "hu": "Hospital del Rey",
+                "ro": "Hospital del Rey",
+                "en": "Hospital del Rey"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz; das Museum bietet den perfekten Schutz für die regnerische Mittagszeit.",
+                "hu": "Használja a közeli parkolót; a múzeum tökéletes menedéket nyújt az esős déli órákban a felfedezéshez.",
+                "ro": "Folosiți parcarea din apropiere; muzeul oferă adăpostul perfect pentru orele de prânz ploioase.",
+                "en": "Use the nearby parking lot; the museum provides the perfect shelter for the rainy midday hours of exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Mezquita Central",
+                "hu": "Mezquita Central",
+                "ro": "Mezquita Central",
+                "en": "Mezquita Central"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Architektur direkt aus dem Auto, wenn der Regen für einen Spaziergang zu stark ist.",
+                "hu": "Tekintse meg a lenyűgöző építészetet közvetlenül az autóból, ha az eső túl erős egy gyalogos sétához.",
+                "ro": "Admirați arhitectura impresionantă direct din mașină dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "Admire the impressive architecture directly from your car if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortín de San Francisco",
+                "hu": "Fortín de San Francisco",
+                "ro": "Fortín de San Francisco",
+                "en": "Fortín de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Eingang lohnt sich für die historischen Einblicke in dieses gut erhaltene Fort.",
+                "hu": "Egy rövid sprint az autótól a bejáratig megéri a történelmi betekintésért ebbe a jól megőrzött erődbe.",
+                "ro": "Un sprint scurt de la mașină până la intrare merită pentru perspectivele istorice din acest fort bine conservat.",
+                "en": "A short sprint from the car to the entrance is worth it for the historical insights into this well-preserved fort."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortín de Reina Regente",
+                "hu": "Fortín de Reina Regente",
+                "ro": "Fortín de Reina Regente",
+                "en": "Fortín de Reina Regente"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Fuße des Hügels hat man bei Regen einen tollen Blick auf die imposante Silhouette des Forts.",
+                "hu": "A domb alján lévő parkolóból esőben is remek kilátás nyílik az erőd tekintélyes sziluettjére.",
+                "ro": "Din parcarea de la baza dealului aveți o vedere excelentă asupra siluetei impunătoare a fortului, chiar și pe ploaie.",
+                "en": "From the parking at the base of the hill, you have a great view of the fort's imposing silhouette even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de la Purísima Concepción",
+                "hu": "Fuerte de la Purísima Concepción",
+                "ro": "Fuerte de la Purísima Concepción",
+                "en": "Fuerte de la Purísima Concepción"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort Ihres Wagens für die Fahrt zum Fort; die dicken Mauern im Inneren halten Sie beim Besuch trocken.",
+                "hu": "Használja autója kényelmét az erődhöz való feljutáshoz; a belső vastag falak szárazon tartják a látogatás alatt.",
+                "ro": "Folosiți confortul mașinii pentru a ajunge la fort; zidurile groase din interior vă vor menține uscați în timpul vizitei.",
+                "en": "Use the comfort of your car to reach the fort; the thick interior walls will keep you dry during the visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kühler Morgen für eine Fahrt durch Melilla. Mittags erkunden wir die Sehenswürdigkeiten bequem vom Wagen aus, während die Wintersonne tief steht. Nachmittags fahren wir zu den hohen Forts, um den klaren Blick auf das Rif-Gebirge zu genießen. Da es bereits gegen 17:00 Uhr dunkel wird, bewundern wir den frühen Sonnenuntergang von einem Aussichtspunkt.",
+            "hu": "Napsütéses, de hűvös reggel Melillában. Napközben kényelmesen, az autóból fedezzük fel a város nevezetességeit a lágy téli napsütésben. Délután a magasabban fekvő erődökhöz hajtunk a tiszta panoráma és a Rif-hegység látványa miatt. Mivel 17:00 körül sötétedik, a korai naplementét már egy szép kilátópontról csodáljuk meg.",
+            "ro": "O dimineață însorită dar rece pentru o plimbare cu mașina prin Melilla. La prânz, explorăm atracțiile din confortul vehiculului sub soarele blând de iarnă. După-amiaza conducem spre forturile înalte pentru panorama clară asupra Munților Rif. Deoarece se întunecă în jur de 17:00, admirăm apusul devreme dintr-un punct de belvedere.",
+            "en": "A sunny but cool morning for a drive through Melilla. At noon, we explore the landmarks from the comfort of the car under the soft winter sun. In the afternoon, we head to the high forts for the clear panorama of the Rif mountains. Since it gets dark around 17:00, we admire the early sunset from a scenic viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de España",
+                "hu": "Plaza de España",
+                "ro": "Plaza de España",
+                "en": "Plaza de España"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Platz, um die Wintersonne bei einem kurzen Spaziergang ohne weite Wege zu genießen.",
+                "hu": "Használja a közvetlen parkolóhelyeket, hogy a téli napsütést egy rövid séta keretében, felesleges gyaloglás nélkül élvezhesse.",
+                "ro": "Utilizați locurile de parcare de lângă piață pentru a vă bucura de soarele de iarnă într-o plimbare scurtă fără distanțe mari.",
+                "en": "Use the parking spaces right by the square to enjoy the winter sun during a short walk without long distances."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospital del Rey",
+                "hu": "Hospital del Rey",
+                "ro": "Hospital del Rey",
+                "en": "Hospital del Rey"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Stopp im Inneren ist im Winter ideal; der kurze Weg vom Auto schützt vor dem kühlen Seewind.",
+                "hu": "A meleg belső megálló télen ideális; az autótól vezető rövid szakasz megvédi Önt a hűvös tengeri széltől.",
+                "ro": "O oprire caldă în interior este ideală iarna; distanța scurtă de la mașină vă protejează de vântul rece de mare.",
+                "en": "A warm indoor stop is ideal in winter; the short walk from the car protects you from the cool sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mezquita Central",
+                "hu": "Mezquita Central",
+                "ro": "Mezquita Central",
+                "en": "Mezquita Central"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Gebäude strahlt im klaren Winterlicht besonders hell; ein kurzer Fotostopp lohnt sich bei jedem Wetter.",
+                "hu": "A fehér épület különösen fényesen ragyog a tiszta téli fényben; egy rövid fotómegálló minden időben megéri.",
+                "ro": "Clădirea albă strălucește puternic în lumina clară de iarnă; o scurtă oprire pentru fotografii merită oricând.",
+                "en": "The white building shines especially bright in the clear winter light; a short photo stop is worth it in any weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortín de San Francisco",
+                "hu": "Fortín de San Francisco",
+                "ro": "Fortín de San Francisco",
+                "en": "Fortín de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Die erhöhte Lage bietet im Winter oft weite Sicht; parken Sie direkt davor, um die kühle Brise zu minimieren.",
+                "hu": "A megemelt pozíció télen gyakran tiszta kilátást nyújt; parkoljon közvetlenül előtte, hogy minimalizálja a hűvös széllel való érintkezést.",
+                "ro": "Poziția ridicată oferă adesea o vizibilitate mare iarna; parcați chiar în față pentru a minimiza expunerea la briza rece.",
+                "en": "The elevated position often offers far-reaching views in winter; park right in front to minimize exposure to the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortín de Reina Regente",
+                "hu": "Fortín de Reina Regente",
+                "ro": "Fortín de Reina Regente",
+                "en": "Fortín de Reina Regente"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne am späten Nachmittag beleuchtet die Mauern dramatisch; genießen Sie den Anblick warm eingepackt.",
+                "hu": "A késő délutáni alacsony napállás drámaian világítja meg a falakat; élvezze a látványt jól felöltözve az erőd környékén.",
+                "ro": "Soarele de după-amiază târzie luminează zidurile dramatic; bucurați-vă de priveliște fiind bine îmbrăcați în zona fortului.",
+                "en": "The late afternoon low sun illuminates the walls dramatically; enjoy the sight well-dressed around the fort area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte de la Purísima Concepción",
+                "hu": "Fuerte de la Purísima Concepción",
+                "ro": "Fuerte de la Purísima Concepción",
+                "en": "Fuerte de la Purísima Concepción"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um den Winterhimmel über dem Meer zu beobachten, bevor es für die Rückfahrt dunkel wird.",
+                "hu": "Érkezzen 17 óra előtt, hogy lássa a téli eget a tenger felett, mielőtt besötétedne a visszautazáshoz.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea cerul de iarnă deasupra mării înainte de a se întuneca pentru drumul de întoarcere.",
+                "en": "Arrive before 17:00 to see the winter sky over the sea before it gets dark for the return drive."
+              }
+            }
+          ]
+        }
       }
     }
   }

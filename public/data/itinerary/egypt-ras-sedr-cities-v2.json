@@ -137,6 +137,168 @@
         "hu": "Reggel: Kezdje a napot a nyüzsgő 306-os kulturális központban. Élvezze az ébredező város hangulatát, mielőtt átsétálna a gyönyörű Masjed El Mostashfa mecsethez.\n\nDélben: Sétáját folytatva csodálja meg a Masjed ElRahma lenyűgöző építészetét. Az itteni békés légkör csodálatos spirituális pihenést nyújt.\n\nDélután: Sétáljon el a hatalmas Ali Ibn Abi Taleb mecsethez, Ras Sedr szimbólumához. A vallási nevezetességek közötti rövid távolságok élvezetessé teszik a sétát.\n\nEste: Zárja sétáját az egyedi Három Hal emlékműnél. Ez a tengerparti nevezetesség tökéletes egy utolsó fotóhoz és a séta kellemes lezárásához.",
         "ro": "Dimineața: Începeți ziua descoperind centrul cultural vibrant 306. Bucurați-vă de atmosfera orașului care se trezește înainte de o scurtă plimbare la Masjed El Mostashfa.\n\nAmiază: Continuând plimbarea, admirați arhitectura uimitoare a Masjed ElRahma. Atmosfera pașnică de aici oferă o minunată pauză spirituală.\n\nDupă-amiaza: Plimbați-vă spre Marea Moschee Ali Ibn Abi Taleb, un simbol al orașului Ras Sedr. Distanțele scurte fac ca mersul pe jos să fie o bucurie.\n\nSeara: Încheiați-vă plimbarea la monumentul unic Trei Pești. Acest reper de coastă este perfect pentru o fotografie finală și pentru a vă relaxa.",
         "en": "Morning: Start your day discovering the vibrant 306 cultural hub. Enjoy the awakening city vibe before taking a short walk to the beautiful Masjed El Mostashfa.\n\nMidday: Continuing your walk, admire the stunning architecture of Masjed ElRahma. The peaceful atmosphere here provides a wonderful spiritual pause.\n\nAfternoon: Stroll towards the grand Ali Ibn Abi Taleb Mosque, a true symbol of Ras Sedr. The short distances between these significant religious landmarks make walking a joy.\n\nEvening: Conclude your walk at the unique Three Fish monument. This coastal landmark is perfect for snapping a final photo and winding down your pleasant walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Ras Sedr beginnt mit seltenen, erfrischenden Schauern, die den Wüstensand binden. Mittags bieten die architektonisch reizvollen Moscheen trockenen Unterschlupf und Ruhe. Am Nachmittag führt der Weg entlang der Küste, wo die feuchte Luft die Farben des Meeres intensiviert. Der Abend klingt in den beleuchteten Straßen aus, während man den Tag geschützt vor dem Wind Revue passieren lässt.",
+            "hu": "A reggel frissítő záporral indul Ras Sedr utcáin, ami különleges illatot kölcsönöz a sivatagi levegőnek. Déltájban a mecsetek boltívei nyújtanak tökéletes menedéket az eső elől, miközben megcsodálhatjuk a helyi építészetet. Délután a tengerparti sétányon a párás horizont nyújt egyedi látványt. Estére a kivilágított központok fedett részei kínálnak biztonságos és hangulatos pihenőhelyet.",
+            "ro": "Dimineața începe cu o ploaie răcoritoare în Ras Sedr, curățând aerul deșertului pentru o plimbare plăcută. La prânz, moscheile oferă un adăpost liniștit și uscat în timp ce admirați detaliile arhitecturale locale. După-amiaza, traseul continuă spre coastă, unde marea are nuanțe dramatice sub cerul noros. Seara se încheie în zonele comerciale protejate, oferind un final de zi relaxant.",
+            "en": "The morning starts with a refreshing desert rain, making the stroll through Ras Sedr uniquely crisp. At noon, the grand mosques provide a serene and dry sanctuary while you admire the intricate local craftsmanship. In the afternoon, the coastal path offers dramatic views of the misty Red Sea horizon. The evening concludes in the well-lit town center, where covered areas keep you dry and comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "306",
+                "hu": "306",
+                "ro": "306",
+                "en": "306"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses moderne Zentrum bei Regen unter den Vordächern; tragen Sie rutschfeste Schuhe, da die Pflastersteine bei Nässe glatt werden können.",
+                "hu": "Fedezze fel a központ modern hangulatát az esőben a fedett részek alatt; javasolt a csúszásmentes lábbeli a nedves burkolat és a kisebb tócsák miatt.",
+                "ro": "Explorați acest centru modern sub zonele acoperite; purtați încălțăminte aderentă, deoarece pavajul poate deveni alunecos când este umed de la ploaie.",
+                "en": "Explore this modern hub staying under the covered walkways; wear non-slip shoes as the pavement can get quite slippery when wet from the desert rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjed El Mostashfa",
+                "hu": "Masjed El Mostashfa",
+                "ro": "Masjed El Mostashfa",
+                "en": "Masjed El Mostashfa"
+              },
+              "tip_5lang": {
+                "de": "Diese Moschee bietet einen friedlichen Rückzugsort vor dem Regen; achten Sie beim Betreten auf den nassen Boden im Außenbereich der Anlage.",
+                "hu": "A mecset békés menedéket nyújt a zápor elől; belépéskor ügyeljen a külső udvar nedves kövezetére, amely esőben fokozottan csúszóssá válhat.",
+                "ro": "Această moschee oferă un refugiu liniștit împotriva ploii; aveți grijă la podeaua umedă din curtea exterioară în timp ce intrați în lăcașul de cult.",
+                "en": "This mosque offers a peaceful sanctuary from the rain; be careful on the wet outdoor flooring while entering the spiritual and architectural site."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjed ElRahma",
+                "hu": "Masjed ElRahma",
+                "ro": "Masjed ElRahma",
+                "en": "Masjed ElRahma"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom überdachten Eingang aus; ein stabiler Regenschirm schützt Sie auf dem Weg über den exponierten Platz zur Moschee.",
+                "hu": "Csodálja meg az épületet a fedett bejárat felől; egy masszív esernyő jól jöhet, miközben átvág a mecset előtti nyitott, szelesebb tereken.",
+                "ro": "Admirați arhitectura din zona intrării acoperite; o umbrelă rezistentă vă va proteja în timp ce traversați piața expusă din fața moscheii.",
+                "en": "Admire the architecture from the covered entrance area; a sturdy umbrella is essential while crossing the exposed plaza in front of the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ibn Abi Taleb Mosque",
+                "hu": "Ali Ibn Abi Taleb mecset",
+                "ro": "Moscheea Ali Ibn Abi Taleb",
+                "en": "Ali Ibn Abi Taleb Mosque"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Atmosphäre im trockenen Innenraum; nutzen Sie die kurzen Regenpausen für Fotos der beeindruckenden Fassade.",
+                "hu": "Élvezze a spirituális hangulatot a száraz belső térben; használja ki a rövidebb esőszüneteket a lenyűgöző külső homlokzat fotózására.",
+                "ro": "Bucurați-vă de atmosfera spirituală în interiorul uscat; profitați de scurtele pauze de ploaie pentru a fotografia fațada impresionantă.",
+                "en": "Enjoy the spiritual atmosphere inside the dry interior; take advantage of short breaks in the rain to photograph the stunning exterior facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Fish",
+                "hu": "Három Hal",
+                "ro": "Trei Pești",
+                "en": "Three Fish"
+              },
+              "tip_5lang": {
+                "de": "Dieses Wahrzeichen wirkt bei Regen besonders markant; halten Sie sich für Fotos unter den umliegenden Gebäudevorsprüngen trocken auf.",
+                "hu": "Ez a jellegzetes pont esőben is könnyen felismerhető; a fotózáshoz keressen menedéket a közeli épületek ereszei alatt, hogy száraz maradjon.",
+                "ro": "Acest punct de reper este ușor de recunoscut chiar și pe ploaie; căutați adăpost sub streșinile clădirilor din apropiere pentru a face fotografii.",
+                "en": "This landmark remains a key navigational point in the rain; seek shelter under nearby building overhangs to stay dry while taking photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgende in Ras Sedr sind mild und perfekt für lange Spaziergänge unter der sanften Sonne. Mittags weht oft eine kühle Brise vom Meer, weshalb windgeschützte Plätze ideal für Pausen sind. Am frühen Nachmittag sollte man die architektonischen Highlights besuchen, da die Sonne gegen 17:00 Uhr untergeht. Der Abend wird schnell kühl, was die Stadt in eine gemütliche, ruhige Atmosphäre taucht.",
+            "hu": "A téli reggelek Ras Sedrben hűvösek, de naposak, ideálisak a város kényelmes felfedezéséhez. Napközben a tenger felől érkező szél miatt érdemes szélvédett helyeket keresni a pihenéshez. Délután használjuk ki az utolsó fénysugarakat, mert 17:00 után gyorsan sötétedik. Az este már hűvösebb, ilyenkor a város csendesebb és meghittebb arcát mutatja meg.",
+            "ro": "Diminețile de iarnă în Ras Sedr sunt blânde și perfecte pentru explorări lungi sub soarele temperat. La prânz, briza rece a mării face necesară căutarea unor locuri ferite de vânt pentru pauze. După-amiaza trebuie planificată eficient, deoarece soarele apune devreme, în jur de ora 17:00. Seara devine răcoroasă, transformând orașul într-un loc liniștit.",
+            "en": "Winter mornings in Ras Sedr are mild and ideal for long walks under the gentle Egyptian sun. At noon, the cool sea breeze makes sheltered spots preferable for a quick rest between landmarks. Plan your afternoon visits early, as the sun sets around 17:00, bringing a rapid temperature drop. The evening is chilly but peaceful, perfect for enjoying the quiet desert night air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "306",
+                "hu": "306",
+                "ro": "306",
+                "en": "306"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Areal am Vormittag, wenn die Wintersonne angenehm wärmt; eine leichte Jacke schützt Sie vor dem kühlen Seewind in den Gassen.",
+                "hu": "Látogasson el ide délelőtt, amikor a téli nap kellemesen melegít; egy könnyű kabát elengedhetetlen a szűkebb utcákban fújó hűvös tengeri szél ellen.",
+                "ro": "Vizitați această zonă dimineața, când soarele de iarnă este plăcut; o jachetă ușoară vă va proteja de briza rece a mării printre clădiri.",
+                "en": "Visit this area in the morning when the winter sun is pleasantly warm; carry a light jacket to shield yourself from the cool sea breeze in the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjed El Mostashfa",
+                "hu": "Masjed El Mostashfa",
+                "ro": "Masjed El Mostashfa",
+                "en": "Masjed El Mostashfa"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet mittags einen guten Schutz vor dem Wind; die kühleren Temperaturen machen den Fußweg dorthin deutlich angenehmer als im Sommer.",
+                "hu": "A mecset délidőben kiváló védelmet nyújt a szél ellen; a hűvösebb téli hőmérséklet miatt a gyalogút sokkal élvezetesebb, mint a nyári hőségben.",
+                "ro": "Moscheea oferă o protecție excelentă împotriva vântului la amiază; temperaturile scăzute fac plimbarea până aici mult mai plăcută decât vara.",
+                "en": "The mosque provides great shelter from the wind at noon; the cooler winter temperatures make the walk here much more enjoyable than in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjed ElRahma",
+                "hu": "Masjed ElRahma",
+                "ro": "Masjed ElRahma",
+                "en": "Masjed ElRahma"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Winterlicht für Fotos der Fassade; ziehen Sie sich warm an, da der Platz vor der Moschee im Winter recht windig sein kann.",
+                "hu": "Használja ki a lágy téli fényeket a homlokzat fotózásához; öltözzön rétegesen, mert a mecset előtti nyitott tér télen meglehetősen szeles lehet.",
+                "ro": "Profitați de lumina blândă de iarnă pentru fotografii; îmbrăcați-vă în straturi, deoarece piața din fața moscheii poate fi destul de vântoasă iarna.",
+                "en": "Take advantage of the soft winter light for photos; dress in layers as the open plaza in front of the mosque can get quite windy during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ibn Abi Taleb Mosque",
+                "hu": "Ali Ibn Abi Taleb mecset",
+                "ro": "Moscheea Ali Ibn Abi Taleb",
+                "en": "Ali Ibn Abi Taleb Mosque"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Moschee vor 16:30 Uhr, um das Tageslicht zu nutzen; nach Sonnenuntergang kühlt es in den offenen Hallen spürbar ab.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy kihasználja a természetes fényt; a naplemente után a nyitottabb csarnokok hőmérsége érezhetően csökkenni kezd.",
+                "ro": "Vizitați moscheea înainte de 16:30 pentru a beneficia de lumina zilei; după apus, temperatura în holurile deschise scade considerabil.",
+                "en": "Visit the mosque before 16:30 to make the most of the daylight; after sunset, the temperature in the open halls drops noticeably."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Fish",
+                "hu": "Három Hal",
+                "ro": "Trei Pești",
+                "en": "Three Fish"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist ein idealer Treffpunkt für den frühen Abend; denken Sie an eine warme Schicht Kleidung für den Rückweg nach dem Sonnenuntergang.",
+                "hu": "Ez a pont tökéletes találkozóhely a kora esti órákban; ne felejtsen el egy melegebb réteget felvenni a naplemente utáni hűvösebb visszautazáshoz.",
+                "ro": "Acest punct este un loc de întâlnire ideal seara devreme; nu uitați să purtați haine groase pentru drumul de întoarcere după apusul soarelui.",
+                "en": "This spot is an ideal meeting point in the early evening; remember to wear a warm layer for the walk back after the early winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel: Indítsa kerékpártúráját a Kenoznál, élvezve a friss levegőt ezen a rekreációs helyszínen. Tökéletes módja az aktív nap elkezdésének Ras Sedrben.\n\nDélben: Tekerjen északra a Sunlight és a Sahr Land hívogató zöldje felé. Ezek a rekreációs zónák kiváló árnyékos pihenőhelyeket kínálnak.\n\nDélután: Útvonala a nyüzsgő 306-os kulturális központhoz vezet. Parkolja le kerékpárját egy rövid időre, hogy magába szívja a helyi hangulatot.\n\nEste: Lovagoljon el az Ali Ibn Abi Taleb mecset mellett, és fejezze be a napot az El Hay El Qayoomnál. A késői napfény gyönyörű lezárást ad az utazásnak.",
         "ro": "Dimineața: Începeți traseul la Kenoz, bucurându-vă de aerul proaspăt în acest loc de agrement. Este modul perfect de a începe o zi activă în Ras Sedr.\n\nAmiază: Pedalați spre nord către zonele verzi Sunlight și Sahr Land. Aceste locuri de recreere oferă spații excelente pentru a vă odihni la umbră.\n\nDupă-amiaza: Traseul vă duce la aglomeratul centru cultural 306. Parcați bicicleta pentru scurt timp pentru a absorbi atmosfera locală și a gusta o gustare.\n\nSeara: Treceți pe lângă Moscheea Ali Ibn Abi Taleb și încheiați la El Hay El Qayoom. Lumina târzie pe aceste repere creează un final frumos al călătoriei.",
         "en": "Morning: Kick off your ride at Kenoz, enjoying the fresh air at this popular recreational site. It’s the perfect way to start an active day exploring Ras Sedr.\n\nMidday: Pedal north towards the inviting greenery of Sunlight and Sahr Land. These recreational zones offer excellent spots to rest and hydrate under the shade.\n\nAfternoon: Your route brings you to the bustling 306 cultural hub. Park your bike briefly to soak up the local atmosphere and perhaps grab a quick local snack.\n\nEvening: Ride past the striking Ali Ibn Abi Taleb Mosque and conclude at El Hay El Qayoom. The late sunlight on these landmarks creates a beautiful end to your journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad in Ras Sedr erfordert Vorsicht auf den teils sandigen Straßen. Morgens starten wir zwischen den Schauern zu den Küstenresorts. Mittags suchen wir Schutz in festen Gebäuden, während der Regen die Wüstenlandschaft verwandelt. Am Nachmittag radeln wir vorsichtig zurück ins Zentrum. Der Abend gehört der Entspannung in trockener Umgebung nach einer abenteuerlichen Tour.",
+            "hu": "Az esős nap Ras Sedrben óvatosságot igényel a kerékpáron, főleg a homokosabb útszakaszokon. Reggel a záporok között indulunk a tengerparti üdülők felé. Délben stabil épületekben keresünk menedéket, miközben az eső átmossa a tájat. Délután óvatosan tekerünk vissza a központ felé a néha csúszós aszfalton. Az este a száraz pihenésé egy kalandos, vizes túra után.",
+            "ro": "O zi ploioasă pe bicicletă în Ras Sedr necesită atenție sporită pe drumurile parțial nisipoase. Dimineața pornim spre stațiunile de pe coastă între averse. La prânz căutăm adăpost în clădiri solide în timp ce ploaia transformă peisajul deșertic. După-amiaza pedalăm cu grijă înapoi spre centru. Seara este dedicată relaxării la uscat după o tură plină de aventură.",
+            "en": "A rainy day on a bike in Ras Sedr requires extra caution on the sandy and potentially slick roads. Start your ride between showers towards the coastal resorts. At noon, find shelter in sturdy buildings as the rain transforms the desert. In the afternoon, cycle carefully back to the center on damp asphalt. The evening is for drying off and relaxing after an adventurous, wet tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kenoz",
+                "hu": "Kenoz",
+                "ro": "Kenoz",
+                "en": "Kenoz"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig auf den Zufahrten, die bei Regen matschig sein können; nutzen Sie die überdachten Bereiche des Resorts für eine trockene Pause.",
+                "hu": "Tekerjen óvatosan a bevezető utakon, amelyek esőben sarasak lehetnek; használja az üdülőhely fedett részeit egy rövid, száraz pihenőre.",
+                "ro": "Pedalați cu grijă pe drumurile de acces care pot deveni noroioase; folosiți zonele acoperite ale complexului pentru o pauză uscată.",
+                "en": "Cycle carefully on access roads which can get muddy in the rain; use the resort's covered areas for a dry break during your coastal ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunlight",
+                "hu": "Sunlight",
+                "ro": "Sunlight",
+                "en": "Sunlight"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf das Meer ist bei Regen spektakulär; parken Sie Ihr Rad an einem geschützten Ort und genießen Sie das Wetter von einer Veranda aus.",
+                "hu": "A tenger látványa esőben egészen lenyűgöző; parkolja le a kerékpárt egy védett helyen, és élvezze az időjárást az egyik veranda oltalma alól.",
+                "ro": "Vederea spre mare este spectaculoasă pe ploaie; parcați bicicleta într-un loc ferit și bucurați-vă de vreme de la adăpostul unei terase.",
+                "en": "The sea view is spectacular during the rain; park your bike in a sheltered spot and enjoy the weather from the protection of a veranda."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahr Land",
+                "hu": "Sahr Land",
+                "ro": "Sahr Land",
+                "en": "Sahr Land"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen auf dem nassen Untergrund gut greifen; suchen Sie bei starken Güssen sofort Schutz in den Gemeinschaftshallen.",
+                "hu": "Győződjön meg róla, hogy a fékek jól fognak a nedves talajon; hevesebb zápor esetén azonnal keressen menedéket a közösségi terekben.",
+                "ro": "Asigurați-vă că frânele funcționează bine pe suprafețe umede; în caz de aversă puternică, căutați imediat adăpost în zonele comune.",
+                "en": "Ensure your brakes work effectively on wet surfaces; in case of heavy downpours, seek immediate shelter in the communal hall areas."
+              }
+            },
+            {
+              "name": {
+                "de": "306",
+                "hu": "306",
+                "ro": "306",
+                "en": "306"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf dem glatten Asphalt am Eingang; die zahlreichen Cafés bieten ideale Möglichkeiten, Kleidung und Ausrüstung zu trocknen.",
+                "hu": "Kerülje a hirtelen kanyarodást a bejáratnál lévő sima aszfalton; a számos kávézó ideális helyszín a ruházat és a felszerelés megszárítására.",
+                "ro": "Evitați virajele bruște pe asfaltul lucios de la intrare; numeroasele cafenele oferă locuri ideale pentru a vă usca hainele și echipamentul.",
+                "en": "Avoid sharp turns on the smooth asphalt at the entrance; the many cafes offer perfect spots to dry off your clothes and cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ibn Abi Taleb Mosque",
+                "hu": "Ali Ibn Abi Taleb mecset",
+                "ro": "Moscheea Ali Ibn Abi Taleb",
+                "en": "Ali Ibn Abi Taleb Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nahe der Mauer für etwas Windschutz; im Inneren der Moschee finden Sie die nötige Ruhe, um den nächsten trockenen Moment abzuwarten.",
+                "hu": "Parkolja a kerékpárt a fal mellé némi szélvédelemért; a mecset belsejében nyugodt körülmények között várhatja meg a következő esőszünetet.",
+                "ro": "Parcați bicicleta lângă zid pentru protecție împotriva vântului; în interior veți găsi liniștea necesară pentru a aștepta oprirea ploii.",
+                "en": "Park your bike near the wall for some wind protection; inside the mosque, you can find the peace needed to wait for the next dry spell."
+              }
+            },
+            {
+              "name": {
+                "de": "El Hay El Qayoom",
+                "hu": "El Hay El Qayoom",
+                "ro": "El Hay El Qayoom",
+                "en": "El Hay El Qayoom"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier besonders rutschig sein; fahren Sie extrem vorsichtig und nutzen Sie die Beleuchtung der umliegenden Gebäude zur Orientierung.",
+                "hu": "A burkolat itt különösen csúszós lehet esőben; tekerjen rendkívül óvatosan, és használja a környező épületek fényeit a tájékozódáshoz.",
+                "ro": "Pavajul poate fi foarte alunecos aici pe ploaie; pedalați cu maximă prudență și folosiți luminile clădirilor din jur pentru orientare.",
+                "en": "The ground can be especially slippery here in the rain; cycle with extreme caution and use the lights from surrounding buildings for guidance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Fahrrad in Ras Sedr bietet ideale Temperaturen ohne die extreme Sommerhitze. Morgens radeln wir zügig zu den entlegenen Resorts, wobei der Fahrtwind eine Jacke erfordert. Mittags genießen wir die Sonne an geschützten Küstenplätzen. Der Nachmittag wird für den Rückweg genutzt, bevor es gegen 17:00 Uhr dunkel wird. Der kühle Abend lädt zum gemütlichen Ausklang im Zentrum ein.",
+            "hu": "A téli kerékpározás Ras Sedrben ideális hőmérsékletet kínál a nyári hőség nélkül. Reggel tempósan haladunk a távolabbi üdülők felé, de a menetszél miatt szükség van egy kabátra. Napközben a szélvédett parti helyeken élvezzük a napsütést. Délután érdemes időben elindulni visszafelé, mert 17:00-kor beköszönt a sötétség. A hűvös este már a központban talál minket.",
+            "ro": "O zi de iarnă pe bicicletă în Ras Sedr oferă temperaturi ideale fără căldura extremă a verii. Dimineața pedalăm energic spre stațiunile îndepărtate, purtând o jachetă contra vântului. La prânz ne bucurăm de soare în locuri ferite de pe coastă. După-amiaza pornim înapoi înainte de lăsarea întunericului la ora 17:00. Seara răcoroasă ne prinde în zona centrală.",
+            "en": "A winter day on a bike in Ras Sedr offers perfect cycling weather without the intense summer heat. In the morning, ride briskly to the coastal resorts, but keep a windbreaker handy. At noon, enjoy the sun in sheltered seaside spots. Make sure to head back in the afternoon before darkness falls at 17:00. The cool evening is best spent relaxing in the lively town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kenoz",
+                "hu": "Kenoz",
+                "ro": "Kenoz",
+                "en": "Kenoz"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht die Fahrt hierher sehr angenehm; nutzen Sie die sonnigen Außenbereiche des Resorts für eine erste Aufwärmpause.",
+                "hu": "A hűvös reggeli levegőben a tekerés ideális; használja az üdülőhely napsütötte kültéri részeit az első melegítő pihenőhöz a túra során.",
+                "ro": "Aerul răcoros de dimineață face pedalarea foarte plăcută; folosiți zonele exterioare însorite ale complexului pentru o primă pauză de încălzire.",
+                "en": "The cool morning air makes the ride here very pleasant; use the resort's sunny outdoor areas for your first warming break of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunlight",
+                "hu": "Sunlight",
+                "ro": "Sunlight",
+                "en": "Sunlight"
+              },
+              "tip_5lang": {
+                "de": "Der Seewind kann hier im Winter recht kräftig sein; parken Sie Ihr Rad windgeschützt und genießen Sie das klare Winterlicht am Wasser.",
+                "hu": "A tengeri szél itt télen elég erős lehet; parkolja le a kerékpárt szélvédett helyen, és élvezze a tiszta téli fényeket a vízparton.",
+                "ro": "Vântul marin poate fi destul de puternic aici iarna; parcați bicicleta într-un loc ferit și bucurați-vă de lumina clară de iarnă de lângă apă.",
+                "en": "The sea breeze can be quite strong here in winter; park your bike in a sheltered spot and enjoy the clear winter light by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahr Land",
+                "hu": "Sahr Land",
+                "ro": "Sahr Land",
+                "en": "Sahr Land"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagsstunden bieten hier die beste Wärme; nutzen Sie die Zeit für eine längere Pause, bevor der Wind am Nachmittag weiter auffrischt.",
+                "hu": "A déli órák kínálják itt a legtöbb meleget; használja ki az időt egy hosszabb pihenőre, mielőtt a szél délután tovább erősödne a parton.",
+                "ro": "Orele amiezii oferă cea mai multă căldură aici; profitați de timp pentru o pauză lungă înainte ca vântul să se intensifice după-amiaza.",
+                "en": "The noon hours provide the best warmth here; use this time for a longer break before the wind picks up further in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "306",
+                "hu": "306",
+                "ro": "306",
+                "en": "306"
+              },
+              "tip_5lang": {
+                "de": "Nach der Fahrt entlang der Küste wärmen die Cafés hier wunderbar auf; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg bereit ist.",
+                "hu": "A tengerparti tekerés után az itteni kávézók remekül felmelegítenek; ellenőrizze, hogy a kerékpár világítása készen áll-e a sötétebb hazatérésre.",
+                "ro": "După tura de pe coastă, cafenelele de aici vă vor încălzi rapid; asigurați-vă că luminile bicicletei sunt funcționale pentru drumul de seară.",
+                "en": "After the coastal ride, the cafes here are great for warming up; ensure your bike lights are ready for the ride back in the early darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ibn Abi Taleb Mosque",
+                "hu": "Ali Ibn Abi Taleb mecset",
+                "ro": "Moscheea Ali Ibn Abi Taleb",
+                "en": "Ali Ibn Abi Taleb Mosque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang für die goldene Stunde; tragen Sie für den restlichen Weg eine winddichte Schicht Kleidung.",
+                "hu": "Látogasson el ide közvetlenül naplemente előtt az aranyórában; a túra hátralévő részéhez vegyen fel egy szélálló ruharéteget a hűvös ellen.",
+                "ro": "Vizitați acest loc chiar înainte de apus pentru ora de aur; purtați un strat de haine rezistent la vânt pentru restul traseului de seară.",
+                "en": "Visit this spot just before sunset for the golden hour; wear a windproof layer for the rest of the journey as the air cools down rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "El Hay El Qayoom",
+                "hu": "El Hay El Qayoom",
+                "ro": "El Hay El Qayoom",
+                "en": "El Hay El Qayoom"
+              },
+              "tip_5lang": {
+                "de": "Die frühe Dunkelheit verleiht diesem Ort eine mystische Aura; fahren Sie vorsichtig auf dem Heimweg und achten Sie auf die kühle Abendluft.",
+                "hu": "A korai sötétedés misztikus hangulatot kölcsönöz a helynek; tekerjen óvatosan hazafelé, és ügyeljen a gyorsan hűlő esti sivatagi levegőre.",
+                "ro": "Întunericul timpuriu oferă acestui loc o aură mistică; pedalați cu atenție spre casă și protejați-vă de aerul răcoros de seară.",
+                "en": "The early darkness gives this place a mystical aura; cycle carefully on your way home and be mindful of the chilly evening desert air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Reggel: Kezdje útját a békés Masjed Qeba'a mecsetnél, megcsodálva annak dizájnját, mielőtt délre indulna az impozáns El Hay El Qayoom nevezetességhez.\n\nDélben: Álljon meg a mókás Három Hal emlékműnél és a hatalmas Ali Ibn Abi Taleb mecsetnél. A rövid vezetési távolságok sok időt hagynak a felfedezésre.\n\nDélután: Autózzon a város szívébe, a 306-hoz, elmerülve a helyi kultúrában. Ezután hajtson le a Sahr Landbe egy jól megérdemelt pihenőre.\n\nEste: Vezesse le autós kirándulását a Sunlightnál. Élvezze a pihentető légkört, miközben átgondolja ezt a nagyszerűen eltöltött napot Ras Sedrben.",
         "ro": "Dimineața: Începeți plimbarea cu mașina la senina Masjed Qeba'a, admirând designul său, înainte de a vă îndrepta spre sud către reperul El Hay El Qayoom.\n\nAmiază: Opriți la ineditul monument Trei Pești și la marea Moschee Ali Ibn Abi Taleb. Distanțele scurte de condus lasă mult timp pentru explorare.\n\nDupă-amiaza: Conduceți în inima orașului la 306, pentru o baie de cultură. Apoi, mergeți spre sud către Sahr Land pentru o pauză de recreere mult așteptată.\n\nSeara: Încheiați călătoria la Sunlight. Bucurați-vă de atmosfera relaxantă de agrement, reflectând la o zi minunată petrecută explorând Ras Sedr.",
         "en": "Morning: Start your drive at the serene Masjed Qeba'a, admiring its beautiful design before heading south to the impressive El Hay El Qayoom landmark.\n\nMidday: Stop by the quirky Three Fish monument and the grand Ali Ibn Abi Taleb Mosque. The short driving distances allow plenty of time for exploration.\n\nAfternoon: Cruise into the heart of the city at 306, diving into the vibrant local culture. Then, drive down to Sahr Land for a much-needed recreational break.\n\nEvening: Wind down your road trip at Sunlight. Enjoy the relaxing recreational atmosphere as you reflect on a day well spent exploring the best of Ras Sedr."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag in Ras Sedr bietet das Auto den perfekten Komfort und Schutz. Morgens steuern wir die beeindruckenden Moscheen an, während die Scheibenwischer den Wüstenstaub wegwischen. Mittags erkunden wir die Küstenresorts, ohne nass zu werden. Der Nachmittag wird für Besichtigungen im Zentrum genutzt. Der Abend endet gemütlich, während man den Regen gegen das Autodach prasseln hört.",
+            "hu": "Az esős napon Ras Sedrben az autó nyújtja a legnagyobb kényelmet és védelmet. Reggel a lenyűgöző mecseteket keressük fel, miközben az ablaktörlő lemossa a sivatagi port. Délben a tengerparti üdülőket látogatjuk meg anélkül, hogy megáznánk. Délután a központi látnivalók várnak ránk. Az este nyugalomban telik, miközben hallgatjuk az autó tetején kopogó esőcseppeket.",
+            "ro": "Într-o zi ploioasă în Ras Sedr, mașina oferă confortul și protecția ideală. Dimineața vizităm moscheile impresionante în timp ce ștergătoarele curăță praful deșertului. La prânz explorăm stațiunile de pe coastă fără a ne uda. După-amiaza este dedicată obiectivelor din centru. Seara se încheie relaxant, ascultând ploaia care bate în plafonul mașinii în siguranță.",
+            "en": "On a rainy day in Ras Sedr, your car provides the ultimate comfort and shelter. In the morning, visit the impressive mosques while the wipers clear away the desert dust. At noon, explore the coastal resorts without getting wet. Spend your afternoon seeing the central landmarks from the dry interior. The evening ends peacefully as you listen to the rain tapping on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjed Qeba'a",
+                "hu": "Masjed Qeba'a",
+                "ro": "Masjed Qeba'a",
+                "en": "Masjed Qeba'a"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Innere zu gelangen; achten Sie auf Pfützen auf dem unbefestigten Parkplatz der Moschee.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be; ügyeljen a nagyobb tócsákra a mecset melletti nem aszfaltozott parkolóban.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior; atenție la bălțile mari din parcarea neamenajată a moscheii.",
+                "en": "Park as close to the entrance as possible to stay dry while entering; watch out for large puddles in the unpaved parking area near the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "El Hay El Qayoom",
+                "hu": "El Hay El Qayoom",
+                "ro": "El Hay El Qayoom",
+                "en": "El Hay El Qayoom"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Bauwerk aus dem trockenen Auto; die Beleuchtung spiegelt sich bei Regen wunderschön auf dem nassen Asphalt wider.",
+                "hu": "Élvezze az épület látványát a száraz autóból; az esti fények esőben csodálatosan tükröződnek vissza a nedves aszfaltról és a környező kövezetről.",
+                "ro": "Bucurați-vă de vederea clădirii din interiorul mașinii; luminile se reflectă frumos pe asfaltul umed în timpul ploii de seară.",
+                "en": "Enjoy the view of the structure from the comfort of your dry car; the lights reflect beautifully on the wet asphalt and surrounding surfaces during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Fish",
+                "hu": "Három Hal",
+                "ro": "Trei Pești",
+                "en": "Three Fish"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto reicht hier völlig aus; halten Sie die Autotüren bei Wind und Regen nur kurz offen, um Feuchtigkeit im Inneren zu vermeiden.",
+                "hu": "Egy rövid megálló egy fotó erejéig bőven elegendő; a szélben és esőben csak rövid ideig tartsa nyitva az ajtókat, hogy elkerülje az utastér beázását.",
+                "ro": "O oprire scurtă pentru o fotografie este suficientă; în caz de vânt și ploaie, țineți ușile deschise cât mai puțin pentru a proteja interiorul mașinii.",
+                "en": "A brief stop for a quick photo is plenty here; keep the car doors open for as little time as possible in the wind to keep the interior dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ibn Abi Taleb Mosque",
+                "hu": "Ali Ibn Abi Taleb mecset",
+                "ro": "Moscheea Ali Ibn Abi Taleb",
+                "en": "Ali Ibn Abi Taleb Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Parkflächen in der Nähe; der Regen macht die Details der Architektur besonders kontrastreich für Ihre Aufnahmen.",
+                "hu": "Használja a közeli szilárd burkolatú parkolóhelyeket; az eső miatt az építészeti részletek kontrasztosabbá válnak a fényképeken.",
+                "ro": "Folosiți locurile de parcare pavate din apropiere; ploaia face ca detaliile arhitecturale să fie mai contrastante în fotografiile realizate.",
+                "en": "Utilize the paved parking spaces nearby; the rain makes the architectural details stand out with more contrast for your photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "306",
+                "hu": "306",
+                "ro": "306",
+                "en": "306"
+              },
+              "tip_5lang": {
+                "de": "Hier gibt es viele überdachte Parkmöglichkeiten; die Cafés sind ideal für eine längere Pause, bis der stärkste Regen nachgelassen hat.",
+                "hu": "Számos fedett vagy közeli parkolási lehetőség közül választhat; a kávézók ideálisak egy hosszabb pihenőre, amíg a hevesebb eső elvonul.",
+                "ro": "Există numeroase opțiuni de parcare acoperite sau în apropiere; cafenelele sunt ideale pentru o pauză lungă până când ploaia se mai domolește.",
+                "en": "There are plenty of covered or nearby parking options here; the cafes are perfect for a long break until the heaviest rain has passed."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahr Land",
+                "hu": "Sahr Land",
+                "ro": "Sahr Land",
+                "en": "Sahr Land"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den Zufahrtswegen vorsichtig, da sich dort Wasser sammeln kann; genießen Sie den Blick auf die raue See bequem vom Fahrersitz aus.",
+                "hu": "Vezessen óvatosan a bevezető utakon, ahol megállhat a víz; élvezze a háborgó tenger látványát kényelmesen a vezetőülés oltalma alól.",
+                "ro": "Conduceți cu atenție pe drumurile de acces unde se poate acumula apa; bucurați-vă de vederea mării agitate din confortul scaunului șoferului.",
+                "en": "Drive carefully on the access roads where water might accumulate; enjoy the view of the rough sea comfortably from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunlight",
+                "hu": "Sunlight",
+                "ro": "Sunlight",
+                "en": "Sunlight"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei schlechter Sicht das Licht ein; parken Sie in Windrichtung, um das Ein- und Aussteigen bei Schlagregen zu erleichtern.",
+                "hu": "Kapcsolja be a fényszórókat a gyengébb látási viszonyok között; parkoljon szélirányba, hogy megkönnyítse a ki- és beszállást a záporban.",
+                "ro": "Aprindeți farurile în condiții de vizibilitate redusă; parcați în direcția vântului pentru a facilita intrarea și ieșirea din mașină în timpul ploii.",
+                "en": "Turn on your headlights in low visibility; park in the direction of the wind to make getting in and out of the car easier during a downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto in Ras Sedr ermöglicht es, alle Sehenswürdigkeiten entspannt und warm zu erreichen. Morgens fahren wir zu den Moscheen, während die Wintersonne durch die Fenster scheint. Mittags geht es zu den Küstenresorts, wo das Auto als windgeschützte Basis dient. Da es um 17:00 Uhr dunkel wird, nutzen wir das Auto für den schnellen Wechsel zwischen den Orten. Der Abend ist dank Heizung angenehm warm.",
+            "hu": "A téli autózás Ras Sedrben lehetővé teszi, hogy minden látnivalót kényelmesen és melegben érjünk el. Reggel a mecseteket keressük fel, miközben a téli nap besüt az ablakokon. Napközben a parti üdülőknél az autó szélvédett bázisként szolgál. Mivel 17:00-kor sötétedik, az autóval gyorsan válthatunk a helyszínek között. Az este már hűvösebb, de az autóban kellemes marad a hőmérséklet.",
+            "ro": "O zi de iarnă cu mașina în Ras Sedr permite vizitarea tuturor obiectivelor într-un mod relaxat și călduros. Dimineața mergem spre moschei în timp ce soarele de iarnă pătrunde prin geamuri. La prânz, mașina servește ca bază ferită de vânt la stațiunile de pe coastă. Deoarece se întunecă la ora 17:00, mașina ajută la deplasarea rapidă. Seara este răcoroasă, dar în interior rămâne plăcut.",
+            "en": "A winter day by car in Ras Sedr lets you visit all landmarks comfortably and warmly. In the morning, head to the mosques while the winter sun streams through the windows. At noon, the car serves as a wind-sheltered base at the coastal resorts. Since darkness falls at 17:00, the car helps you move quickly between spots. The evening is chilly outside, but perfectly cozy inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjed Qeba'a",
+                "hu": "Masjed Qeba'a",
+                "ro": "Masjed Qeba'a",
+                "en": "Masjed Qeba'a"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet die Moschee im Winter wunderschön; nutzen Sie die Parkplätze direkt vor dem Gebäude für einen kurzen Fußweg.",
+                "hu": "A reggeli napfény télen gyönyörűen világítja meg a mecsetet; használja a közvetlenül az épület előtti parkolókat a minimális gyalogút érdekében.",
+                "ro": "Lumina dimineții luminează superb moscheea iarna; folosiți locurile de parcare chiar din fața clădirii pentru a minimiza mersul pe jos în vânt.",
+                "en": "The morning sun illuminates the mosque beautifully in winter; use the parking spots right in front of the building for a very short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "El Hay El Qayoom",
+                "hu": "El Hay El Qayoom",
+                "ro": "El Hay El Qayoom",
+                "en": "El Hay El Qayoom"
+              },
+              "tip_5lang": {
+                "de": "Dank der frühen Dunkelheit können Sie die Beleuchtung schon am späten Nachmittag bewundern; das Auto hält Sie dabei angenehm warm.",
+                "hu": "A korai sötétedés miatt már késő délután megcsodálhatja a díszkivilágítást; az autóban ülve közben kellemes melegben maradhat.",
+                "ro": "Datorită întunericului timpuriu, puteți admira iluminatul încă de după-amiaza târziu; mașina vă va menține temperatura plăcută în acest timp.",
+                "en": "Due to the early darkness, you can admire the decorative lighting as early as late afternoon; the car will keep you perfectly warm meanwhile."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Fish",
+                "hu": "Három Hal",
+                "ro": "Trei Pești",
+                "en": "Three Fish"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Punkt ist im Winter oft sehr windig; machen Sie Ihre Fotos und kehren Sie schnell in das warme Auto zurück.",
+                "hu": "Ez a nyitott pont télen gyakran igen szeles; készítse el gyorsan a fényképeket, majd térjen vissza a meleg autóba a további út előtt.",
+                "ro": "Acest punct expus este adesea foarte vântos iarna; faceți fotografiile rapid și întoarceți-vă în mașina călduroasă pentru continuarea drumului.",
+                "en": "This exposed spot is often very windy in winter; take your photos quickly and return to the warmth of your car before continuing your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ibn Abi Taleb Mosque",
+                "hu": "Ali Ibn Abi Taleb mecset",
+                "ro": "Moscheea Ali Ibn Abi Taleb",
+                "en": "Ali Ibn Abi Taleb Mosque"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger überlaufen, was das Parken erleichtert; genießen Sie die klare Sicht auf die Architektur im harten Winterlicht.",
+                "hu": "Télen itt kevesebb a látogató, ami megkönnyíti a parkolást; élvezze az építészet tiszta látványát az éles téli fényviszonyok mellett.",
+                "ro": "Iarna este mai puțin aglomerat aici, facilitând parcarea; bucurați-vă de vederea clară a arhitecturii în lumina puternică de iarnă.",
+                "en": "It is less crowded here in winter, making parking much easier; enjoy the clear view of the architecture in the sharp winter light conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "306",
+                "hu": "306",
+                "ro": "306",
+                "en": "306"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich mit einem warmen Getränk für die Weiterfahrt zu versorgen; die Parkplätze sind im Winter meist direkt verfügbar.",
+                "hu": "Használja ki a megállót, hogy feltankoljon egy meleg itallal a további útra; a parkolóhelyek télen általában közvetlenül elérhetőek.",
+                "ro": "Folosiți oprirea pentru a vă lua o băutură caldă pentru restul drumului; locurile de parcare sunt de obicei disponibile imediat iarna.",
+                "en": "Take advantage of this stop to stock up on a warm drink for the rest of the drive; parking spaces are usually available right away in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Sahr Land",
+                "hu": "Sahr Land",
+                "ro": "Sahr Land",
+                "en": "Sahr Land"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie rechtzeitig vor Sonnenuntergang hierher, um das Meer im letzten Licht zu sehen; im Auto sind Sie vor der kühlen Gischt geschützt.",
+                "hu": "Érkezzen ide időben a naplemente előtt, hogy lássa a tengert az utolsó fényekben; az autóban védve lesz a hűvös parti permettől.",
+                "ro": "Ajungeți aici din timp înainte de apus pentru a vedea marea în ultima lumină; în mașină veți fi protejat de spray-ul rece al mării.",
+                "en": "Arrive here well before sunset to see the sea in the last light; inside the car, you'll be shielded from the cool coastal spray and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunlight",
+                "hu": "Sunlight",
+                "ro": "Sunlight",
+                "en": "Sunlight"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für den Blick auf das Meer so, dass Sie die Heizung nutzen können; nach 17:00 Uhr kühlt es draußen extrem schnell ab.",
+                "hu": "Parkoljon úgy a tengeri kilátáshoz, hogy közben tudja használni a fűtést; 17:00 után kint rendkívül gyorsan hűlni kezd a sivatagi levegő.",
+                "ro": "Parcați pentru vederea la mare astfel încât să puteți folosi căldura; după ora 17:00, aerul de afară se răcește extrem de repede.",
+                "en": "Park for the sea view in a way that allows you to keep the heater running; after 17:00, the desert air outside cools down extremely fast."
+              }
+            }
+          ]
+        }
       }
     }
   }

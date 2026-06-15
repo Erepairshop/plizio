@@ -137,6 +137,168 @@
         "hu": "Egy portimãói reggel a város szívében kezdődik, ahol a Museu Diogo Gonçalves történelmi kiállításai adják meg az első kulturális benyomásokat. Ezután az építészetileg vonzó Teatro Municipal felé vesszük az irányt a helyi művészetért. Délután a Portimão Múzeumban elmélyedünk a halászat lenyűgöző történetében. A nap tökéletesen zárul a Santa Catarina történelmi erődítményének felfedezésével.",
         "ro": "O dimineață în Portimão începe în inima orașului, unde expozițiile istorice ale Muzeului Diogo Gonçalves oferă primele impresii culturale. Apoi mergem la Teatrul Municipal, atractiv din punct de vedere arhitectural, pentru arta locală. După-amiaza ne cufundăm în istoria pescuitului la Muzeul Portimão. Ziua se încheie perfect la cetatea istorică Santa Catarina, bucurându-ne de priveliștile superbe asupra mării.",
         "en": "A morning in Portimão begins in the very heart of the city, where the historic exhibitions of the Museu Diogo Gonçalves provide your first cultural impressions. Next, we head to the architecturally attractive Teatro Municipal for a dose of local art. In the afternoon, we dive deep into fishing history at the fantastic Portimão Museum. The day ends perfectly exploring the historic Santa Catarina fortress."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt trocken in den Galerien des Museu Diogo Gonçalves. Mittags spazieren wir zum Stadttheater, wobei wir auf den glatten Pflastersteinen vorsichtig sein müssen. Am Nachmittag bietet das große Portimão-Museum am Flussufer perfekten Schutz vor dem Regen. Den Abend lassen wir an der Festung Santa Catarina ausklingen, wo die stürmische See ein dramatisches Schauspiel bietet.",
+            "hu": "A napot a Museu Diogo Gonçalves védett termeiben kezdjük, elkerülve az első záporokat. Délben a színház felé vesszük az irányt, óvatosan lépkedve a csúszós utcákon. Délután a folyóparti múzeum hatalmas épülete nyújt menedéket a csapadék elől. Estére a Santa Catarina erődhöz érünk, ahol az esőben tajtékzó tenger látványa egészen különleges élményt nyújt.",
+            "ro": "Începem ziua la adăpost în galeriile Museu Diogo Gonçalves. La prânz ne îndreptăm spre teatru, având grijă la pavajul alunecos de pe străzile orașului. După-amiaza, muzeul de pe malul râului oferă refugiul perfect împotriva ploii persistente. Seara se încheie la Fortul Santa Catarina, unde marea agitată oferă un spectacol dramatic chiar și sub picăturile de ploaie.",
+            "en": "Start your day dry inside the galleries of Museu Diogo Gonçalves. At noon, walk toward the municipal theater, taking care on the slippery cobblestone streets. In the afternoon, the large riverside museum provides the perfect sanctuary from the rain. End the day at the Santa Catarina Fort, where the stormy sea creates a dramatic and memorable backdrop despite the weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Diogo Gonçalves",
+                "hu": "Museu Diogo Gonçalves",
+                "ro": "Museu Diogo Gonçalves",
+                "en": "Museu Diogo Gonçalves"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie sakrale Kunst in den beheizten Räumen; ein idealer Ort, um den ersten Regenschauer abzuwarten; lassen Sie den Schirm am Eingang im Ständer.",
+                "hu": "Csodálja meg a szakrális művészeti gyűjteményt a fedett galériában; ideális hely az első záporok átvészelésére; az esernyőt a bejáratnál lévő tartóban hagyhatja.",
+                "ro": "Admirați arta sacră în sălile bine întreținute ale galeriei; este locul ideal pentru a aștepta trecerea primei ploi; lăsați umbrela în suportul de la intrare.",
+                "en": "Admire the sacred art collection in the climate-controlled gallery; it is an ideal spot to wait out the first morning shower; leave your umbrella in the entry rack."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal de Portimão",
+                "hu": "Teatro Municipal de Portimão",
+                "ro": "Teatro Municipal de Portimão",
+                "en": "Teatro Municipal de Portimão"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das moderne Foyer dieses kulturellen Zentrums; das Gebäude bietet Schutz vor Wind und Nässe; prüfen Sie die Aushänge für kurzfristige Indoor-Events.",
+                "hu": "Fedezze fel a kulturális központ modern előcsarnokát; az épület védelmet nyújt a szél és a nedvesség ellen; nézze meg a plakátokat a benti eseményekért.",
+                "ro": "Explorați foierul modern al acestui centru cultural; clădirea oferă protecție excelentă împotriva vântului; verificați afișele pentru evenimente de interior.",
+                "en": "Explore the modern foyer of this cultural hub; the building provides solid protection from wind and moisture; check the boards for any indoor matinee shows."
+              }
+            },
+            {
+              "name": {
+                "de": "Festa Fantástica",
+                "hu": "Festa Fantástica",
+                "ro": "Festa Fantástica",
+                "en": "Festa Fantástica"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die bunte Welt der lokalen Traditionen unter festem Dach; perfekt für Fotos ohne grauen Himmel; tragen Sie wasserfeste Schuhe für den Weg.",
+                "hu": "Merüljön el a helyi hagyományok színes világában a biztonságos tető alatt; tökéletes helyszín fotózáshoz szürke ég nélkül is; viseljen vízálló cipőt az úton.",
+                "ro": "Imersați-vă în lumea colorată a tradițiilor locale sub un acoperiș sigur; este locul perfect pentru poze fără cer gri; purtați încălțăminte impermeabilă.",
+                "en": "Immerse yourself in the colorful world of local traditions under a solid roof; perfect for photos without the gray sky; wear waterproof shoes for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Portimao Museum",
+                "hu": "Portimao Museum",
+                "ro": "Portimao Museum",
+                "en": "Portimao Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die alte Konservenfabrik und erfahren Sie alles über die Fischerei; die weitläufigen Hallen sind komplett überdacht; nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Látogasson el a régi konzervgyárba és ismerje meg a halászat történetét; a hatalmas csarnokok teljesen fedettek; használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Vizitați fosta fabrică de conserve și aflați totul despre istoria pescuitului; halele vaste sunt complet acoperite; folosiți garderoba pentru haine ude.",
+                "en": "Visit the former cannery factory to learn about the local fishing history; the vast halls are fully covered; use the cloakroom to store your wet raincoats."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Marina von den geschützten Torbögen aus; der Steinboden kann bei Nässe extrem rutschig sein; halten Sie sich an den Geländern fest.",
+                "hu": "Élvezze a kilátást a kikötőre a védett boltívek alól; a kőpadló nedvesen rendkívül csúszós lehet; kapaszkodjon a korlátokba a meredekebb részeken.",
+                "ro": "Bucurați-vă de priveliștea asupra marinei de sub arcadele protejate; podeaua de piatră poate fi extrem de alunecoasă; folosiți balustradele pentru siguranță.",
+                "en": "Enjoy the view of the marina from beneath the protected stone arches; the stone floor can be extremely slippery when wet; hold onto the railings when moving."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Wintersonne beleuchtet das Kunstmuseum am Morgen wunderschön. Mittags bietet der Spaziergang durch die Stadt bei milden Temperaturen eine angenehme Erfrischung. Da es gegen 17:00 Uhr dunkel wird, besuchen wir das Hauptmuseum am Nachmittag. Den Tag beenden wir an der Festung, um den frühen, aber farbenfrohen Sonnenuntergang über dem Atlantik zu bewundern.",
+            "hu": "A friss téli napsütésben a művészeti múzeum meglátogatása tökéletes indítás. Napközben a városi séta a lágy portugál télben felfrissíti a testet és a lelket. Mivel délután ötkor már sötétedik, a fő múzeumot még világosban keressük fel. A napot az erődnél zárjuk, ahonnan megcsodáljuk a korai, de lenyűgözően színes téli naplementét.",
+            "ro": "Soarele blând de iarnă luminează superb muzeul de artă la prima oră. La prânz, o plimbare prin oraș este revigorantă datorită temperaturilor mediteraneene plăcute. Deoarece se întunecă în jur de ora 17:00, vizităm muzeul principal după-amiaza. Încheiem ziua la fort, admirând apusul timpuriu, dar incredibil de colorat, peste Atlantic.",
+            "en": "The crisp winter sun beautifully illuminates the art museum in the morning. At noon, a stroll through the city in mild temperatures is refreshing and pleasant. Since darkness falls around 17:00, we visit the main museum in the mid-afternoon. We end the day at the fortress to admire the early but stunningly colorful winter sunset over the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Diogo Gonçalves",
+                "hu": "Museu Diogo Gonçalves",
+                "ro": "Museu Diogo Gonçalves",
+                "en": "Museu Diogo Gonçalves"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in dieser Galerie; das sanfte Winterlicht bringt die Gemälde besonders gut zur Geltung; tragen Sie eine leichte Jacke.",
+                "hu": "Élvezze a holtszezon nyugalmát ebben a galériában; a lágy téli fények különleges hangsúlyt adnak a festményeknek; viseljen egy könnyebb átmeneti kabátot.",
+                "ro": "Bucurați-vă de liniștea din extrasezon în această galerie; lumina blândă de iarnă scoate în evidență detaliile picturilor; purtați o jachetă subțire.",
+                "en": "Enjoy the off-season tranquility in this gallery; the soft winter light highlights the details of the paintings; a light jacket is sufficient indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal de Portimão",
+                "hu": "Teatro Municipal de Portimão",
+                "ro": "Teatro Municipal de Portimão",
+                "en": "Teatro Municipal de Portimão"
+              },
+              "tip_5lang": {
+                "de": "Das Theater ist im Winter ein warmer Treffpunkt; bewundern Sie die Architektur, während Sie sich kurz aufwärmen; fragen Sie nach dem Winterspielplan an der Kasse.",
+                "hu": "A színház télen is meleg találkozóhely; csodálja meg az építészetet, miközben kicsit felmelegszik; kérdezze meg a téli műsortervet a jegypénztárnál.",
+                "ro": "Teatrul este un loc de întâlnire primitor și iarna; admirați arhitectura în timp ce vă încălziți puțin; solicitați programul de iarnă de la casierie.",
+                "en": "The theater is a warm and welcoming meeting spot in winter; admire the architecture while warming up; ask for the winter performance schedule at the desk."
+              }
+            },
+            {
+              "name": {
+                "de": "Festa Fantástica",
+                "hu": "Festa Fantástica",
+                "ro": "Festa Fantástica",
+                "en": "Festa Fantástica"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie lokale Festkultur ohne die sommerlichen Menschenmassen; die Farben wirken im klaren Winterlicht besonders intensiv; ideal für ungestörte Porträtaufnahmen.",
+                "hu": "Ismerje meg a helyi ünnepi kultúrát a nyári tömeg nélkül; a színek a tiszta téli fényben különösen élénkek; ideális helyszín zavartalan portréfotókhoz.",
+                "ro": "Experimentați cultura festivalurilor locale fără aglomerația de vară; culorile par mai intense în lumina clară de iarnă; ideal pentru portrete reușite.",
+                "en": "Experience local festival culture without the summer crowds; the colors appear especially vivid in the clear winter light; ideal for undisturbed portraits."
+              }
+            },
+            {
+              "name": {
+                "de": "Portimao Museum",
+                "hu": "Portimao Museum",
+                "ro": "Portimao Museum",
+                "en": "Portimao Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten eine gemütliche Zuflucht vor der kühlen Brise; nehmen Sie sich Zeit für die Videopräsentationen; die Cafeteria bietet warme Getränke an.",
+                "hu": "A kiállítások kellemes menedéket nyújtanak a hűvös szél elől; szánjon időt a videós bemutatókra; a múzeum kávézójában kérjen egy forró italt.",
+                "ro": "Expozițiile oferă un refugiu confortabil împotriva brizei răcoroase; acordați timp prezentărilor video; cafeneaua muzeului servește băuturi calde.",
+                "en": "The exhibits provide a cozy refuge from the cool outdoor breeze; take your time with the video presentations; the cafe offers excellent warm beverages."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Festung vor 17:00 Uhr für den Sonnenuntergang; der Wind vom Meer kann im Winter sehr schneidend sein; Schal und Mütze sind hier absolut ratsam.",
+                "hu": "Érkezzen az erődhöz 17:00 előtt a naplemente miatt; a tenger felől fújó szél télen metsző lehet; egy sál és sapka viselése itt kifejezetten ajánlott.",
+                "ro": "Ajungeți la fort înainte de ora 17:00 pentru apus; vântul dinspre mare poate fi tăios iarna; un fular și o căciulă sunt accesorii necesare aici.",
+                "en": "Arrive at the fort before 17:00 to catch the sunset; the wind from the sea can be biting in winter; a scarf and hat are highly recommended for this spot."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját egy lenyűgöző utazással a város ipari múltjában a díjnyertes, folyóparti Portimão Múzeumban. Ezután tekerjen a Santa Catarina erődhöz, ahonnan lélegzetelállító kilátás nyílik a kikötőre. A délután teljes egészében a híres szikláknak és öblöknek van szentelve, az aranyhomokos Praia da Rocha-tól a festői Praia dos Careanos-ig. Élvezze a varázslatos naplementét a Praia do Vau finom homokján.",
         "ro": "Începeți turul cu bicicleta cu o călătorie fascinantă prin trecutul industrial al orașului la Muzeul Portimão, premiat și situat pe malul râului. Pedalați apoi spre Fortăreața Santa Catarina pentru vederi uimitoare ale portului. După-amiaza este dedicată în întregime celebrelor stânci și golfuri, de la plaja aurie Praia da Rocha până la pitoreasca Praia dos Careanos. Bucurați-vă de un apus magic la plaja Praia do Vau.",
         "en": "Begin your bike tour with a fascinating journey through the city's industrial past at the award-winning riverside Portimão Museum. Then, cycle to the Santa Catarina Fortress for breathtaking views of the lovely marina. The afternoon is entirely dedicated to the famous cliffs and coves, from the golden sands of Praia da Rocha to the picturesque Praia dos Careanos. Enjoy a truly magical sunset at Praia do Vau."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour am Museum, wo wir den ersten Schauer abwarten. Die Fahrt zur Festung Santa Catarina erfordert Vorsicht auf den nassen Wegen. Entlang der Strände Praia da Rocha und Praia do Vau radeln wir zügig, da der Wind zunehmen kann. Trotz Regen ist die Küstenlandschaft in ein mystisches Grau getaucht, was der Tour einen ganz eigenen Charme verleiht.",
+            "hu": "Kerékpártúránkat a múzeumnál kezdjük, megvárva, amíg alábbhagy az eső. A Santa Catarina erődhöz vezető út óvatosságot igényel a vizes aszfalton. A Praia da Rocha és Praia do Vau mentén gyorsabban tekerünk a felerősödő szél miatt. Az eső ellenére a partvidék misztikus szürke fényben úszik, ami különleges hangulatot ad a tekerésnek.",
+            "ro": "Începem turul cu bicicleta la muzeu, așteptând ca ploaia să se domolească. Drumul spre Fortul Santa Catarina necesită prudență pe asfaltul ud. De-a lungul plajelor Praia da Rocha și Praia do Vau pedalăm mai repede din cauza vântului care se intensifică. În ciuda ploii, coasta este învăluită într-o lumină gri mistică, oferind un farmec aparte.",
+            "en": "We start our bike tour at the museum, waiting for the rain to ease off. The ride to Santa Catarina Fort requires caution on the wet asphalt. We pedal briskly along Praia da Rocha and Praia do Vau as the wind picks up. Despite the rain, the coastline is bathed in a mystical gray light, giving the ride a unique and adventurous atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portimao Museum",
+                "hu": "Portimao Museum",
+                "ro": "Portimao Museum",
+                "en": "Portimao Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer direkt am Eingang; das Museum ist der ideale Startpunkt bei Regen, um trocken zu bleiben; ziehen Sie hier Ihr Regenzeug in Ruhe an.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő biciklitárolókat; a múzeum ideális kezdőpont esőben, hogy szárazon maradjon; itt nyugodtan felveheti az esőruházatot.",
+                "ro": "Folosiți rastelele de biciclete chiar de la intrare; muzeul este punctul de plecare ideal pe ploaie pentru a rămâne uscat; echipați-vă aici cu hainele de ploaie.",
+                "en": "Use the bike racks located right at the main entrance; the museum is an ideal starting point in the rain to stay dry; put on your rain gear here in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unten und gehen Sie zu Fuß hoch; die Rampen können bei Regen sehr rutschig sein; genießen Sie den Blick auf die tosende Brandung am Hafen.",
+                "hu": "Parkolja le a bringát lent és gyalog menjen fel; a feljárók esőben nagyon csúszósak lehetnek; élvezze a kikötőnél feltörő hatalmas hullámok látványát.",
+                "ro": "Parcați bicicleta jos și urcați pe jos; rampele pot fi foarte alunecoase pe ploaie; admirați spectacolul valurilor care se sparg la intrarea în port.",
+                "en": "Park your bike at the bottom and walk up to the viewpoint; the ramps can be very slippery when wet; enjoy the view of the crashing waves at the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Rocha",
+                "hu": "Praia da Rocha",
+                "ro": "Praia da Rocha",
+                "en": "Praia da Rocha"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig auf dem Holzsteg, er wird bei Nässe spiegelglatt; halten Sie kurz unter einem der Vordächer an; der Blick auf den nassen Sand ist einzigartig.",
+                "hu": "Tekerjen óvatosan a fapallókon, mert nedvesen tükörsimára csúsznak; álljon meg egy rövid időre az egyik előtető alatt; a vizes homok látványa lenyűgöző.",
+                "ro": "Pedalați cu atenție pe pasarelele de lemn, devin extrem de alunecoase; opriți-vă scurt sub una dintre copertine; priveliștea nisipului ud este inedită.",
+                "en": "Cycle carefully on the wooden boardwalks as they become mirror-slick when wet; take a brief break under one of the shelters; the wet sand view is breathtaking."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Três Castelos",
+                "hu": "Praia dos Três Castelos",
+                "ro": "Praia dos Três Castelos",
+                "en": "Praia dos Três Castelos"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtspunkte bieten einen tollen Blick auf die Felsen im Regen; achten Sie auf Pfützen auf dem Radweg; tragen Sie eine Brille gegen die Regentropfen beim Fahren.",
+                "hu": "A kilátópontokról remekül látszanak az esőben ázó sziklák; figyeljen a tócsákra a kerékpárúton; viseljen szemüveget az esőcseppek ellen tekerés közben.",
+                "ro": "Punctele de observație oferă o vedere excelentă asupra stâncilor în ploaie; atenție la bălțile de pe pistă; purtați ochelari pentru a vă proteja ochii în mers.",
+                "en": "The viewpoints offer a great look at the cliffs through the rain; watch out for puddles on the cycle path; wear glasses to protect your eyes while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Careanos",
+                "hu": "Praia dos Careanos",
+                "ro": "Praia dos Careanos",
+                "en": "Praia dos Careanos"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher ist exponiert und windig; halten Sie den Lenker fest, wenn Böen kommen; die dramatischen Wolken über den Klippen sind ein tolles Fotomotiv.",
+                "hu": "Az ide vezető út nyitott és szeles; fogja erősen a kormányt a széllökések idején; a sziklák feletti drámai felhők nagyszerű fotótémát szolgáltatnak.",
+                "ro": "Drumul până aici este expus și vântos; țineți bine de ghidon în timpul rafalelor; norii dramatici de deasupra stâncilor sunt un subiect foto excelent.",
+                "en": "The path here is exposed and can be very windy; hold your handlebars firmly during gusts; the dramatic clouds above the cliffs make for a great photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Vau",
+                "hu": "Praia do Vau",
+                "ro": "Praia do Vau",
+                "en": "Praia do Vau"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an einem der Strandcafés, um sich zu trocknen; parken Sie das Rad an einem geschützten Ort; eine heiße Schokolade ist jetzt die beste Belohnung.",
+                "hu": "Zárja a túrát az egyik parti kávézóban, hogy megszáradjon; parkolja a biciklit szélvédett helyre; egy forró csokoládé most a legjobb jutalom a tekerés után.",
+                "ro": "Încheiați turul la una dintre cafenelele de pe plajă pentru a vă usca; parcați bicicleta într-un loc ferit; o ciocolată caldă este cea mai bună recompensă acum.",
+                "en": "End your tour at one of the beach cafes to dry off; park your bike in a sheltered spot; a hot chocolate is the best reward after a rainy ride like this."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Rad startet am Portimão-Museum bei erfrischenden Temperaturen. Die Fahrt entlang der Küste zur Festung Santa Catarina ist dank der klaren Luft besonders aussichtsreich. Wir passieren die Strände Praia da Rocha und Praia do Vau, während die tiefstehende Sonne die Klippen golden färbt. Da es früh dunkelt, beenden wir unsere Fahrt pünktlich zum Sonnenuntergang am Strand von Vau.",
+            "hu": "A téli kerékpártúra a Portimão Múzeumnál indul frissítő hőmérsékletben. A part menti tekerés a Santa Catarina erődhöz a tiszta levegőnek köszönhetően gyönyörű kilátást nyújt. Érintjük a Praia da Rocha és Praia do Vau strandokat, miközben az alacsonyan járó nap aranyba öltözteti a sziklákat. Mivel korán sötétedik, a túrát naplementekor zárjuk.",
+            "ro": "Turul de iarnă cu bicicleta începe la Muzeul Portimão, la temperaturi revigorante. Drumul de-a lungul coastei spre Fortul Santa Catarina oferă vederi superbe datorită aerului curat. Trecem pe lângă Praia da Rocha și Praia do Vau, în timp ce soarele jos colorează stâncile în auriu. Deoarece se întunecă devreme, încheiem plimbarea la apus.",
+            "en": "The winter bike tour starts at the Portimão Museum in refreshing temperatures. The ride along the coast to Santa Catarina Fort offers spectacular views thanks to the clear air. We pass Praia da Rocha and Praia do Vau as the low sun paints the cliffs in golden hues. Since it gets dark early, we finish our ride right at sunset at Vau beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portimao Museum",
+                "hu": "Portimao Museum",
+                "ro": "Portimao Museum",
+                "en": "Portimao Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenhof für die Vorbereitung; im Winter ist es hier weniger überlaufen; tragen Sie windfeste Kleidung und dünne Handschuhe zum Radfahren.",
+                "hu": "Használja a szélvédett belső udvart a készülődéshez; télen itt sokkal kisebb a tömeg; viseljen szélálló ruházatot és vékony kesztyűt a tekeréshez.",
+                "ro": "Folosiți curtea interioară ferită de vânt pentru pregătire; iarna este mult mai puțin aglomerat aici; purtați haine rezistente la vânt și mănuși subțiri.",
+                "en": "Use the wind-sheltered inner courtyard to get ready; it's much less crowded here in winter; wear windproof clothing and thin gloves for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wärmt die alten Steine der Festung angenehm auf; ein perfekter Ort für eine kurze Pause; genießen Sie die klare Sicht bis hinüber nach Ferragudo.",
+                "hu": "A téli nap kellemesen felmelegíti az erőd régi köveit; tökéletes hely egy rövid pihenőre; élvezze a tiszta kilátást egészen a túlparti Ferragudo falujáig.",
+                "ro": "Soarele de iarnă încălzește plăcut pietrele vechi ale fortului; este un loc perfect pentru o scurtă pauză; admirați vizibilitatea clară până la Ferragudo.",
+                "en": "The winter sun pleasantly warms the ancient stones of the fort; it's a perfect spot for a short break; enjoy the clear visibility across to Ferragudo village."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Rocha",
+                "hu": "Praia da Rocha",
+                "ro": "Praia da Rocha",
+                "en": "Praia da Rocha"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie über den fast leeren Strandboulevard; die milde Winterluft ist ideal für sportliche Betätigung; halten Sie Ausschau nach Fossilien in den Klippenwänden.",
+                "hu": "Tekerjen végig a szinte üres strand menti sétányon; a lágy téli levegő ideális a sportoláshoz; keresse a sziklafalakban megbújó különleges kövületeket.",
+                "ro": "Pedalați pe faleza aproape goală a plajei; aerul blând de iarnă este ideal pentru mișcare; căutați fosilele încastrate în pereții stâncoși ai plajei.",
+                "en": "Cycle along the nearly empty beach boulevard; the mild winter air is ideal for exercise; look out for interesting fossils embedded in the cliff walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Três Castelos",
+                "hu": "Praia dos Três Castelos",
+                "ro": "Praia dos Três Castelos",
+                "en": "Praia dos Três Castelos"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsplattformen sind im Winter ein Traum für Fotografen; das Licht ist weicher und weniger grell; machen Sie eine Trinkpause in der warmen Mittagssonne.",
+                "hu": "A kilátóteraszok télen a fotósok álmai; a fények lágyabbak és kevésbé vakítóak; tartson egy frissítő szünetet a melengető déli napsütésben a padokon.",
+                "ro": "Terasele panoramice sunt visul oricărui fotograf iarna; lumina este mai moale și mai puțin stridentă; faceți o pauză de hidratare în soarele cald de prânz.",
+                "en": "The viewing platforms are a photographer's dream in winter; the light is softer and less harsh; take a hydration break in the warming midday sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Careanos",
+                "hu": "Praia dos Careanos",
+                "ro": "Praia dos Careanos",
+                "en": "Praia dos Careanos"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die schattigen Bereiche der Klippenwege, dort bleibt es kühl; bleiben Sie auf den sonnigen Pfaden oben; der Kontrast zwischen Ozean und Fels ist stark.",
+                "hu": "Kerülje a sziklaösvények árnyékos részeit, ott hűvös maradhat az idő; maradjon a fenti napos utakon; az óceán és a sziklák kontrasztja most nagyon erős.",
+                "ro": "Evitați zonele umbrite ale potecilor de pe stânci, acolo rămâne răcoare; rămâneți pe traseele însorite de sus; contrastul între ocean și stânci este puternic.",
+                "en": "Avoid the shaded sections of the cliff paths as they stay quite cool; stick to the sunny upper trails; the contrast between ocean and rock is very sharp now."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Vau",
+                "hu": "Praia do Vau",
+                "ro": "Praia do Vau",
+                "en": "Praia do Vau"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr; nach Sonnenuntergang sinken die Temperaturen spürbar; ein warmer Fleecepullover für den Rückweg ist ratsam.",
+                "hu": "Zárja a túrát időben 17:00 előtt; naplemente után a hőmérséklet érezhetően csökken; egy meleg polár pulóver a visszaútra kifejezetten tanácsos.",
+                "ro": "Încheiați turul la timp, înainte de ora 17:00; după apus, temperaturile scad simțitor; un polar călduros pentru drumul de întoarcere este binevenit.",
+                "en": "Finish your tour well before 17:00; temperatures drop noticeably after sunset; having a warm fleece ready for the ride back is a very smart move."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Ez az autós túra Portimão városi kultúráját ötvözi a túlparti Ferragudo rusztikus bájával. A Museu Diogo Gonçalves-től indulunk, majd átkelünk a folyón, hogy megcsodáljuk a Studio Bongard kreatív alkotásait. Délután felfedezzük a fenséges Castelo de São João külső területét, és megpihenünk a Praia da Angrinha és a Praia Grande csendes, védett strandjain. A napot a Barranco das Canas lenyűgöző öblében zárjuk.",
         "ro": "Acest tur auto combină cultura urbană a orașului Portimão cu farmecul rustic al părții opuse a râului în Ferragudo. Începem la Muzeul Diogo Gonçalves și apoi traversăm râul pentru a admira lucrările la Studio Bongard. După-amiaza, explorăm terenurile exterioare ale maiestuosului Castelo de São João și ne relaxăm pe plajele liniștite Praia da Angrinha și Praia Grande. Încheiem ziua la superba plajă Barranco das Canas.",
         "en": "This car tour perfectly combines the urban culture of Portimão with the rustic charm of the opposite riverside in Ferragudo. We start at the Museu Diogo Gonçalves, then cross the river to admire the creative works at Studio Bongard. In the afternoon, we explore the exterior of the majestic Castelo de São João and relax on the quiet beaches of Praia da Angrinha and Praia Grande. We end at the stunning Barranco das Canas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Portimão auch bei Regen komfortabel zu erkunden. Wir starten am Diogo Gonçalves Museum und fahren weiter zum Studio Bongard, wo die Kunst im Inneren geschützt ist. Mittags überqueren wir den Fluss nach Ferragudo und bewundern die Burg São João de Arade aus dem trockenen Fahrzeug. Der Tag endet mit einer Fahrt entlang der Küste zu den dramatisch wirkenden Stränden im Regen.",
+            "hu": "Autóval Portimão esőben is kényelmesen felfedezhető. A Diogo Gonçalves Múzeumnál kezdünk, majd a Studio Bongard felé vesszük az irányt, ahol a műalkotások fedett helyen várnak. Délben átkelünk a folyón Ferragudóba, és a São João de Arade várat a száraz autóból csodáljuk meg. A napot egy tengerparti autózással zárjuk, élvezve a viharos partvidék látványát.",
+            "ro": "Cu mașina, Portimão poate fi explorat confortabil chiar și pe ploaie. Începem la Muzeul Diogo Gonçalves și continuăm spre Studio Bongard, unde arta este protejată la interior. La prânz traversăm râul spre Ferragudo și admirăm Castelul São João de Arade din confortul vehiculului. Ziua se încheie cu o plimbare pe coastă, admirând plajele sub ploaia deasă.",
+            "en": "Exploring Portimão by car is comfortable even during heavy rain. We start at the Diogo Gonçalves Museum and head to Studio Bongard, where the art is safely sheltered indoors. At noon, we cross the river to Ferragudo and admire the São João de Arade Castle from the dry interior of our vehicle. The day ends with a scenic coastal drive to see the dramatic beaches in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Diogo Gonçalves",
+                "hu": "Museu Diogo Gonçalves",
+                "ro": "Museu Diogo Gonçalves",
+                "en": "Museu Diogo Gonçalves"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs, um kaum nass zu werden; nutzen Sie die Zeit, um die sakralen Kunstwerke im Trockenen zu bewundern; der Eintritt ist bei Regen oft ruhiger.",
+                "hu": "Parkoljon a bejárat közelében, hogy minél kevesebbet ázzon; használja ki az időt a szakrális művek megtekintésére a szárazban; esőben sokkal nyugodtabb a látogatás.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda prea tare; profitați de timp pentru a admira operele sacre la adăpost; vizita este mult mai liniștită pe ploaie.",
+                "en": "Park as close to the entrance as possible to minimize getting wet; use the time to admire the sacred artworks in the dry; it's often much quieter on rainy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Bongard",
+                "hu": "Studio Bongard",
+                "ro": "Studio Bongard",
+                "en": "Studio Bongard"
+              },
+              "tip_5lang": {
+                "de": "Dieses Keramikstudio ist ein wunderbares Ziel an Regentagen; die Skulpturen sind im Inneren sicher ausgestellt; fragen Sie nach einer kurzen Führung durch die Werkstatt.",
+                "hu": "Ez a kerámiastúdió csodálatos úti cél esős napokon; a szobrok biztonságos, fedett helyen vannak kiállítva; kérjen rövid vezetést a műhelyben a művészektől.",
+                "ro": "Acest studio de ceramică este o destinație minunată în zilele ploioase; sculpturile sunt expuse în siguranță la interior; solicitați un scurt tur al atelierului.",
+                "en": "This ceramic studio is a wonderful destination for rainy days; the sculptures are displayed safely indoors; ask the artists for a short tour of the workshop area."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de São João de Arade",
+                "hu": "Castelo de São João de Arade",
+                "ro": "Castelo de São João de Arade",
+                "en": "Castelo de São João de Arade"
+              },
+              "tip_5lang": {
+                "de": "Die Burg ist in Privatbesitz und nur von außen zu sehen; fotografieren Sie sie bequem vom Parkplatz aus durch das Autofenster; der Blick im Regen ist sehr mystisch.",
+                "hu": "A vár magántulajdon, így csak kívülről tekinthető meg; fotózza le kényelmesen a parkolóból az autó ablakán keresztül; az esőben nagyon misztikus a látvány.",
+                "ro": "Castelul este proprietate privată și poate fi văzut doar din exterior; fotografiați-l confortabil din parcare prin geamul mașinii; priveliștea este mistică.",
+                "en": "The castle is privately owned and can only be seen from outside; photograph it comfortably from the parking lot through your window; it looks very mystical."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Angrinha",
+                "hu": "Praia da Angrinha",
+                "ro": "Praia da Angrinha",
+                "en": "Praia da Angrinha"
+              },
+              "tip_5lang": {
+                "de": "Dieser Strand bietet einen tollen Blick auf die Burg; bleiben Sie im Auto und genießen Sie das Rauschen des Regens auf dem Dach; der Sand wirkt bei Nässe viel dunkler.",
+                "hu": "Erről a strandról remek kilátás nyílik a várra; maradjon az autóban és élvezze az eső kopogását a tetőn; a nedves homok ilyenkor sokkal sötétebbnek tűnik.",
+                "ro": "Această plajă oferă o vedere excelentă spre castel; rămâneți în mașină și bucurați-vă de sunetul ploii pe plafon; nisipul ud pare mult mai închis la culoare.",
+                "en": "This beach offers an excellent view of the castle; stay in the car and enjoy the sound of rain on the roof; the wet sand appears much darker and richer in tone."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande (Ferragudo)",
+                "hu": "Praia Grande (Ferragudo)",
+                "ro": "Praia Grande (Ferragudo)",
+                "en": "Praia Grande (Ferragudo)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade; beobachten Sie die Fischerboote, die im grauen Wetter in den Hafen einlaufen; ein kurzer Sprint zum nächsten Café lohnt sich.",
+                "hu": "Parkoljon közvetlenül a sétány mellett; figyelje a szürke időben a kikötőbe igyekvő halászhajókat; érdemes egy rövid sprintet tenni a legközelebbi kávézóig.",
+                "ro": "Parcați chiar lângă faleză; urmăriți bărcile de pescuit care intră în port pe vreme gri; merită un sprint scurt până la cea mai apropiată cafenea de aici.",
+                "en": "Park right next to the promenade; watch the fishing boats returning to the harbor in the gray weather; a quick sprint to the nearest cafe is worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Barranco das Canas",
+                "hu": "Praia do Barranco das Canas",
+                "ro": "Praia do Barranco das Canas",
+                "en": "Praia do Barranco das Canas"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen schlammig sein; fahren Sie vorsichtig und meiden Sie tiefe Pfützen; genießen Sie die einsame Atmosphäre dieses versteckten Strandes.",
+                "hu": "A levezető út heves esőzéskor sáros lehet; vezessen óvatosan és kerülje a mély tócsákat; élvezze ennek a rejtett strandnak a magányos, különleges hangulatát.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie puternică; conduceți cu atenție și evitați bălțile adânci; bucurați-vă de atmosfera solitară a acestei plaje ascunse.",
+                "en": "The access road can get muddy during heavy rain; drive carefully and avoid deep puddles; enjoy the solitary and peaceful atmosphere of this hidden beach gem."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Portimão beginnt im warmen Diogo Gonçalves Museum. Wir fahren zum Studio Bongard, wo das klare Licht die Skulpturen im Garten zum Leuchten bringt. Mittags erkunden wir das malerische Ferragudo und die Burg São João de Arade. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unsere Ankunft am Strand Barranco das Canas rechtzeitig, um das goldene Licht zu genießen.",
+            "hu": "A téli autós túra Portimãóban a melengető Diogo Gonçalves Múzeumban kezdődik. Ezután a Studio Bongard felé tartunk, ahol a tiszta fények életre keltik a kerti szobrokat. Napközben felfedezzük Ferragudo faluját és a São João de Arade várat. Mivel ötkor már sötét van, időben érkezünk a Barranco das Canas strandra, hogy elkapjuk az utolsó napsugarakat.",
+            "ro": "Turul de iarnă cu mașina prin Portimão începe la căldura Muzeului Diogo Gonçalves. Mergem apoi spre Studio Bongard, unde lumina clară face sculpturile din grădină să strălucească. La prânz explorăm satul pitoresc Ferragudo și Castelul São João de Arade. Deoarece soarele apune la 17:00, planificăm sosirea la plaja Barranco das Canas din timp.",
+            "en": "Our winter driving tour of Portimão begins in the warmth of the Diogo Gonçalves Museum. We then head to Studio Bongard, where the clear light makes the garden sculptures shine. At noon, we explore the picturesque village of Ferragudo and the São João de Arade Castle. Since the sun sets around 17:00, we plan our arrival at Barranco das Canas beach in time."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Diogo Gonçalves",
+                "hu": "Museu Diogo Gonçalves",
+                "ro": "Museu Diogo Gonçalves",
+                "en": "Museu Diogo Gonçalves"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps; das Museum bietet eine wunderbare, warme Atmosphäre am Morgen; die Parkplatzsuche ist im Winter völlig problemlos.",
+                "hu": "Használja az autó fűtését a megállók között; a múzeum csodálatos, meleg légkört kínál a hűvös reggelen; a parkolás télen teljesen zökkenőmentes és egyszerű.",
+                "ro": "Folosiți încălzirea în mașină între opriri; muzeul oferă o atmosferă caldă și plăcută dimineața; găsirea unui loc de parcare este foarte ușoară iarna.",
+                "en": "Use the car heater between stops to stay cozy; the museum offers a wonderful, warm atmosphere in the morning; parking is completely hassle-free in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Bongard",
+                "hu": "Studio Bongard",
+                "ro": "Studio Bongard",
+                "en": "Studio Bongard"
+              },
+              "tip_5lang": {
+                "de": "Der Skulpturengarten ist im Winter dank der immergrünen Pflanzen sehr reizvoll; genießen Sie die Kunst in der strahlenden Wintersonne; bringen Sie eine Kamera mit.",
+                "hu": "A szoborkert télen is bájos az örökzöld növényeknek köszönhetően; élvezze a műalkotásokat a szikrázó téli napsütésben; mindenképpen vigyen magával fényképezőgépet.",
+                "ro": "Grădina de sculpturi este foarte atractivă iarna datorită plantelor mereu verzi; admirați arta în soarele strălucitor de iarnă; nu uitați să luați aparatul foto.",
+                "en": "The sculpture garden is very charming in winter thanks to the evergreen plants; enjoy the art in the bright winter sun; be sure to bring your camera along."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de São João de Arade",
+                "hu": "Castelo de São João de Arade",
+                "ro": "Castelo de São João de Arade",
+                "en": "Castelo de São João de Arade"
+              },
+              "tip_5lang": {
+                "de": "Die Burg sieht im klaren Winterlicht besonders imposant aus; parken Sie am Rand für den besten Blickwinkel; die Luft ist so klar, dass man jedes Detail sieht.",
+                "hu": "A vár a tiszta téli fényben különösen impozánsan fest; parkoljon le az út szélén a legjobb látószögért; a levegő olyan tiszta, hogy minden részlet jól kivehető.",
+                "ro": "Castelul arată deosebit de impunător în lumina clară de iarnă; parcați pe margine pentru cel mai bun unghi; aerul este atât de curat încât se vede orice detaliu.",
+                "en": "The castle looks particularly imposing in the clear winter light; park at the edge for the best viewing angle; the air is so clear that every detail is visible."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Angrinha",
+                "hu": "Praia da Angrinha",
+                "ro": "Praia da Angrinha",
+                "en": "Praia da Angrinha"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Strand ist bei Wintersonne herrlich; der Wind kann hier kühl sein, bleiben Sie in Sonnennähe; genießen Sie die Ruhe ohne Badegäste.",
+                "hu": "Egy rövid séta a parton a téli napsütésben felemelő érzés; a szél hűvös lehet, maradjon a napos részeken; élvezze a strand nyugalmát fürdőzők nélkül.",
+                "ro": "O scurtă plimbare pe plajă în soarele de iarnă este minunată; vântul poate fi rece, deci stați la soare; bucurați-vă de liniștea plajei fără turiști.",
+                "en": "A short walk on the beach in the winter sun is wonderful; the wind can be cool, so stay in the sunny spots; enjoy the beach's peace without the swimmers."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande (Ferragudo)",
+                "hu": "Praia Grande (Ferragudo)",
+                "ro": "Praia Grande (Ferragudo)",
+                "en": "Praia Grande (Ferragudo)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie eines der Restaurants an der Promenade für ein warmes Mittagessen; der Blick auf den Fluss Arade ist im Winter weitläufig; tragen Sie eine Sonnenbrille.",
+                "hu": "Látogasson el a sétány egyik éttermébe egy meleg ebédre; az Arade-folyóra nyíló kilátás télen is tágas és szép; viseljen napszemüveget az erős fény ellen.",
+                "ro": "Vizitați unul dintre restaurantele de pe faleză pentru un prânz cald; vederea spre râul Arade este vastă iarna; purtați ochelari de soare împotriva reflexiilor.",
+                "en": "Visit one of the promenade restaurants for a warm lunch; the view of the Arade River is expansive in winter; wear sunglasses against the bright winter glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Barranco das Canas",
+                "hu": "Praia do Barranco das Canas",
+                "ro": "Praia do Barranco das Canas",
+                "en": "Praia do Barranco das Canas"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht zu nutzen; die Klippen leuchten im Winter tiefrot; ein idealer Ort, um den Tag entspannt im Auto zu beenden.",
+                "hu": "Érkezzen 16:30 előtt, hogy kihasználja az utolsó fényeket; a sziklák télen mélyvörösen izzanak; ideális hely a nap lezárásához a kényelmes autóban ülve.",
+                "ro": "Ajungeți înainte de 16:30 pentru a profita de ultima lumină; stâncile strălucesc în roșu aprins iarna; un loc ideal pentru a încheia ziua relaxat în mașină.",
+                "en": "Arrive before 16:30 to make the most of the remaining daylight; the cliffs glow deep red in winter; an ideal spot to end the day relaxed inside your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

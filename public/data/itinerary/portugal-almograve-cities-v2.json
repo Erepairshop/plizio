@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az ősi régészeti romok felfedezésével, érezve az óceáni szellőt a magas sziklákon. Dél közeledtével kövesse a zord partvonalat dél felé, festői öblöknél megállva. A délutánt töltse pihenéssel a fő strand széles homokjában, gyönyörködve az élénk atlanti hullámokban. Zárja az estét a drámai sziklás kiemelkedéseknél, ahonnan csodálatos naplementét figyelhet meg.",
         "ro": "Începeți dimineața explorând ruinele arheologice, simțind briza oceanului pe stâncile înalte. Pe măsură ce se apropie amiaza, urmați coasta accidentată spre sud, oprindu-vă la golfuri pitorești. Petreceți după-amiaza relaxându-vă pe nisipul larg al plajei principale, admirând valurile vibrante ale Atlanticului. Încheiați seara la aflorimentele stâncoase dramatice, privind un apus auriu.",
         "en": "Start your morning exploring the ancient archaeological ruins, feeling the ocean breeze on the high cliffs. As midday approaches, follow the rugged coastline southwards, stopping at successive picturesque coves. Spend the afternoon relaxing on the wide sands of the main beach, taking in the vibrant Atlantic waves. Conclude your evening at the dramatic rocky outcrops, watching a golden sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Klippen von Foz dos Ouriços, wo der Regen die Farben der Felsen intensiviert. Mittags wandern wir durch die Dünenlandschaft, begleitet vom rhythmischen Rauschen der schweren Brandung. Am Nachmittag erreichen wir die südlichen Strände, die im Regen eine dramatische Atmosphäre ausstrahlen. Abends kehren wir durchnässt, aber belebt in die geschützte Dorfmitte zurück.",
+            "hu": "Reggel a Foz dos Ouriços szikláin kezdünk, ahol a szemerkélő eső kiemeli a kőzetek ősi rétegeit. Délben a dűnék mentén haladunk, miközben az óceán sós párája keveredik a friss eső illatával. Délután a déli partok drámai látványát élvezzük a sziklák védelmében. Estére a falu fehér házai között találunk menedéket a nedves tengerparti szél elől, hálásan a meleg ruházatért.",
+            "ro": "Dimineața explorăm stâncile de la Foz dos Ouriços, unde ploaia intensifică nuanțele pământii ale sitului. La prânz ne plimbăm printre dune, ascultând sunetul hipnotic al valurilor care se sparg de malul ud. După-amiaza plajele sudice oferă un spectacol dramatic sub cerul gri. Seara ne retragem în centrul satului, protejați de vântul umed de coastă, după o zi plină de prospețime marină.",
+            "en": "Morning begins at the cliffs of Foz dos Ouriços, where the rain deepens the geological hues of the site. At noon, we trek along the dunes as the salty mist mingles with the scent of fresh rain. Afternoon brings us to the southern beaches, showcasing a dramatic Atlantic under grey skies. By evening, we find shelter among the village's white houses, seeking warmth after the damp coastal walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologische Stätte Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Régészeti Lelőhely",
+                "ro": "Situl Arheologic Foz dos Ouriços",
+                "en": "Foz dos Ouriços Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen die antiken Strukturen deutlicher hervortreten lässt; tragen Sie feste Wanderschuhe, da der Lehmboden sehr rutschig wird.",
+                "hu": "Figyelje meg, ahogy az eső láthatóbbá teszi az ősi struktúrákat; viseljen tapadós talpú bakancsot, mert az agyagos talaj rendkívül csúszóssá válik.",
+                "ro": "Observați cum ploaia scoate în evidență structurile antice; purtați bocanci cu talpă aderentă, deoarece solul argilos devine foarte alunecos.",
+                "en": "Watch how the rain makes the ancient structures stand out; wear high-grip boots as the clay soil becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Strand",
+                "ro": "Plaja Foz dos Ouriços",
+                "en": "Foz dos Ouriços Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Regentropfen auf der Meeresoberfläche; halten Sie sich von den Klippenrändern fern, da der Sandboden instabil sein kann.",
+                "hu": "Élvezze az esőcseppek táncát a tenger felszínén; maradjon távol a sziklák szélétől, mert a homokos perem ilyenkor könnyen beomolhat.",
+                "ro": "Bucurați-vă de dansul picăturilor de ploaie pe suprafața mării; stați departe de marginea stâncilor, deoarece nisipul ud poate fi instabil.",
+                "en": "Enjoy the dance of raindrops on the sea surface; keep a safe distance from cliff edges as wet sandy soil can be unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Nossa Senhora",
+                "hu": "Nossa Senhora Strand",
+                "ro": "Plaja Nossa Senhora",
+                "en": "Nossa Senhora Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurz Schutz unter den Felsüberhängen; achten Sie auf Gezeitenänderungen, da der Strand bei Regen und Sturm schmaler wirken kann.",
+                "hu": "Keressen rövid menedéket a sziklaáthajlások alatt; figyeljen az ár-apályra, mert viharos esőben a hullámok váratlanul magasra csaphatnak.",
+                "ro": "Căutați un scurt adăpost sub surplombele stâncoase; fiți atenți la maree, deoarece valurile pot urca neașteptat de sus în timpul ploii.",
+                "en": "Find brief shelter under the rocky overhangs; monitor the tide carefully as waves can reach unexpectedly high during rainy squalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Almograve",
+                "hu": "Almograve Fő Strandja",
+                "ro": "Plaja Principală din Almograve",
+                "en": "Almograve Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Weite des Strandes wirkt im Regen endlos; nutzen Sie die hölzernen Laufplanken, um nicht im tiefen, nassen Sand stecken zu bleiben.",
+                "hu": "A strand tágassága az esőben végtelennek tűnik; használja a fa pallókat, hogy elkerülje az elmerülést a mély, vizes homokban.",
+                "ro": "Vastitatea plajei pare nesfârșită prin perdeaua de ploaie; folosiți pasarelele de lemn pentru a evita nisipul ud și adânc.",
+                "en": "The beach's vastness feels infinite through the rain; stick to the wooden walkways to avoid getting bogged down in deep, wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Südlicher Almograve-Strand",
+                "hu": "Dél-Almograve Strand",
+                "ro": "Plaja de Sud Almograve",
+                "en": "South Almograve Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dunklen Felsformationen gegen den grauen Himmel; ein windfester Regenschirm oder ein Poncho ist hier wegen der Böen unerlässlich.",
+                "hu": "Csodálja meg a sötét sziklaformációkat a szürke égbolt előtt; a széllökések miatt a szélálló esernyő vagy poncsó itt elengedhetetlen.",
+                "ro": "Admirați formațiunile stâncoase negre pe fundalul cerului gri; o umbrelă rezistentă la vânt sau un poncho este esențial din cauza rafalelor.",
+                "en": "Admire the dark rock formations against the grey sky; a windproof umbrella or poncho is essential here due to coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedra dos Corvos",
+                "hu": "Pedra dos Corvos",
+                "ro": "Pedra dos Corvos",
+                "en": "Pedra dos Corvos"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung an diesem Punkt ist bei Regen spektakulär; bleiben Sie auf den markierten Pfaden, um auf den nassen Steinen nicht auszurutschen.",
+                "hu": "A hullámtörés ezen a ponton látványos esőben is; maradjon a kijelölt ösvényeken, hogy elkerülje a megcsúszást a nedves köveken.",
+                "ro": "Spargerea valurilor în acest punct este spectaculoasă pe ploaie; rămâneți pe potecile marcate pentru a nu aluneca pe pietrele ude.",
+                "en": "The crashing waves at this point are spectacular in the rain; stay on marked paths to avoid slipping on the wet, jagged rocks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise über die archäologische Stätte, während die Wintersonne tief steht. Mittags laden die menschenleeren Strände zu langen, meditativen Spaziergängen ein. Am Nachmittag färbt das warme Winterlicht die Klippen von Pedra dos Corvos in Goldtöne. Da es gegen 17:00 Uhr dunkel wird, beenden wir unsere Tour frühzeitig in einem gemütlichen Café im Dorf.",
+            "hu": "Reggel friss szellő fúj át a régészeti lelőhelyen, miközben a téli nap még alacsonyan jár. Délben az üres strandok meditatív sétára hívnak a hűvös, de tiszta időben. Délután az aranyló téli fények különleges színt adnak a Pedra dos Corvos szikláinak. Mivel 17:00 körül sötétedik, a túrát korán fejezzük be egy barátságos falusi kávézóban.",
+            "ro": "Dimineața o briză proaspătă suflă peste situl arheologic, în timp ce soarele de iarnă stă jos la orizont. La prânz, plajele pustii invită la plimbări meditative în aerul rece și curat. După-amiaza lumina aurie de iarnă colorează spectaculos stâncile de la Pedra dos Corvos. Deoarece se întunecă în jur de ora 17:00, încheiem turul devreme într-o cafenea primitoare.",
+            "en": "Morning brings a crisp breeze over the archaeological site while the winter sun sits low. At noon, the deserted beaches invite meditative walks in the cool, clear air. Afternoon golden light paints the cliffs of Pedra dos Corvos in stunning hues. As darkness falls around 17:00, we conclude our tour early in a cozy village cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologische Stätte Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Régészeti Lelőhely",
+                "ro": "Situl Arheologic Foz dos Ouriços",
+                "en": "Foz dos Ouriços Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Ausblicke über die Küste; tragen Sie winddichte Kleidung, da der Ort völlig ungeschützt liegt.",
+                "hu": "A tiszta téli levegő távoli kilátást enged a part mentén; viseljen szélálló ruházatot, mivel a helyszín teljesen kitett az elemeknek.",
+                "ro": "Aerul curat de iarnă permite vederi panoramice de-a lungul coastei; purtați haine rezistente la vânt, deoarece locul este complet expus.",
+                "en": "The clear winter air allows for far-reaching coastal views; wear windproof layers as the site is completely exposed to the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Strand",
+                "ro": "Plaja Foz dos Ouriços",
+                "en": "Foz dos Ouriços Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die kraftvollen Winterwellen aus sicherer Entfernung; die tiefe Sonne wirft lange, dramatische Schatten auf den Sand.",
+                "hu": "Figyelje a hatalmas téli hullámokat biztonságos távolságból; az alacsonyan járó nap hosszú, drámai árnyékokat vet a homokra.",
+                "ro": "Observați valurile puternice de iarnă de la o distanță sigură; soarele jos proiectează umbre lungi și dramatice pe nisip.",
+                "en": "Observe the powerful winter swells from a safe distance; the low sun casts long, dramatic shadows across the pristine sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Nossa Senhora",
+                "hu": "Nossa Senhora Strand",
+                "ro": "Plaja Nossa Senhora",
+                "en": "Nossa Senhora Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Stille des Winters macht diesen Ort besonders friedlich; eine warme Thermoskanne mit Tee ist der perfekte Begleiter für eine Pause.",
+                "hu": "A téli csend különösen békéssé teszi ezt a helyet; egy termoszháznyi forró tea tökéletes kísérője a tengerparti pihenőnek.",
+                "ro": "Liniștea iernii face acest loc extrem de pașnic; un termos cu ceai fierbinte este partenerul perfect pentru o pauză pe malul mării.",
+                "en": "The winter silence makes this spot exceptionally peaceful; a thermos of hot tea is the perfect companion for a seaside break."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Almograve",
+                "hu": "Almograve Fő Strandja",
+                "ro": "Plaja Principală din Almograve",
+                "en": "Almograve Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Mittagslicht für Fotos ohne Touristenmassen; der Wind kann am offenen Strand sehr beißend sein, schützen Sie Ihre Ohren.",
+                "hu": "Használja ki a déli fényeket fotózáshoz a turistatömeg nélkül; a szél metsző lehet a nyílt parton, védje füleit sapkával.",
+                "ro": "Profitați de lumina amiezii pentru fotografii fără mulțimi; vântul poate fi tăios pe plaja deschisă, protejați-vă urechile cu o căciulă.",
+                "en": "Use the midday light for photos without the crowds; the wind can be biting on the open beach, so protect your ears with a hat."
+              }
+            },
+            {
+              "name": {
+                "de": "Südlicher Almograve-Strand",
+                "hu": "Dél-Almograve Strand",
+                "ro": "Plaja de Sud Almograve",
+                "en": "South Almograve Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie geschützte Nischen zwischen den Felsen für ein kurzes Sonnenbad; die Temperaturen sinken rapide, sobald die Sonne tiefer steht.",
+                "hu": "Keressen védett zugokat a sziklák között egy rövid napfürdőhöz; a hőmérséklet gyorsan esik, amint a nap alacsonyabbra kerül.",
+                "ro": "Căutați unghere ferite între stânci pentru o scurtă baie de soare; temperaturile scad rapid imediat ce soarele coboară spre orizont.",
+                "en": "Look for sheltered nooks between the rocks for a brief sunbath; temperatures drop rapidly as soon as the sun starts to dip."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedra dos Corvos",
+                "hu": "Pedra dos Corvos",
+                "ro": "Pedra dos Corvos",
+                "en": "Pedra dos Corvos"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für den Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine Taschenlampe für den Rückweg in der Dämmerung mit.",
+                "hu": "Ez az ideális helyszín a 17:00 körüli naplemente megtekintéséhez; hozzon zseblámpát a szürkületben történő visszautazáshoz.",
+                "ro": "Acesta este locul ideal pentru a vedea apusul în jur de ora 17:00; aduceți o lanternă pentru drumul de întoarcere prin amurg.",
+                "en": "This is the ideal spot for the sunset around 17:00; bring a flashlight for the walk back to the village in the gathering twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel tekerjen a szárazföld belseje felé a hagyományos szélmalomhoz, amely a helyi örökség gyönyörű darabja. Délben térjen vissza a partra, és kerékpározzon az északi sziklák mentén az eldugott öblökig. Délután guruljon le a régészeti lelőhelyhez, és ismerje meg a régió ősi múltját. A napot a fő strandhoz tekerve zárja, élvezve a nyüzsgő naplementés hangulatot a vízparton.",
         "ro": "Pedalați spre interior în această dimineață pentru moara de vânt tradițională, o piesă frumoasă de moștenire locală. Amiaza vă aduce înapoi pe coastă, pe stâncile nordice spre golfuri izolate. După-amiaza, mergeți la situl arheologic pentru a învăța despre trecutul antic. Terminați ziua pe plaja principală, bucurându-vă de atmosfera plină de viață a apusului de soare lângă apă.",
         "en": "Pedal inland this morning to discover the traditional windmill, a beautiful piece of local heritage. Midday takes you back to the coast, biking along the spectacular northern cliffs to secluded coves. In the afternoon, cruise down to the archaeological site, learning about the region's ancient past. Finish the day riding to the main beach, enjoying the lively sunset atmosphere by the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir zur Windmühle, während der Regen die staubigen Wege festigt. Mittags führen uns Küstenpfade zu versteckten Buchten, wo die Gischt des Meeres den Regen trifft. Am Nachmittag besichtigen wir die archäologische Stätte unter wolkenverhangenem Himmel. Trotz der Nässe bietet das Radfahren ein intensives Naturerlebnis, bevor wir abends im Dorf das Equipment reinigen.",
+            "hu": "Reggel a szélmalomhoz tekerünk, miközben az eső elveri az utak porát. Délben a part menti ösvényeken haladunk, ahol a tenger permete keveredik az égi áldással. Délután a régészeti lelőhelyet látogatjuk meg a felhős ég alatt. A nedvesség ellenére a biciklizés intenzív élményt nyújt, mielőtt este a faluban letisztítjuk a felszerelést.",
+            "ro": "Dimineața pedalăm spre moara de vânt, în timp ce ploaia așază praful de pe drumuri. La prânz, potecile de coastă ne duc spre golfuri ascunse unde spuma mării întâlnește ploaia. După-amiaza vizităm situl arheologic sub un cer acoperit de nori. În ciuda umezelii, ciclismul oferă o experiență intensă în natură înainte de a curăța echipamentul seara.",
+            "en": "Morning ride leads to the windmill as the rain settles the dust on the rural tracks. At noon, coastal paths guide us to hidden coves where sea spray meets the falling rain. Afternoon is spent at the archaeological site under overcast skies. Despite the wetness, cycling offers an intense connection with nature before we clean our gear in the village by evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühle von Longueira",
+                "hu": "Longueira Szélmalom",
+                "ro": "Moara de Vânt din Longueira",
+                "en": "Longueira Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle bietet auf der windabgewandten Seite Schutz vor dem Regen; prüfen Sie Ihre Bremsen, da nasse Felgen die Bremswirkung verzögern.",
+                "hu": "A malom szélvédett oldala menedéket nyújt az eső elől; ellenőrizze a fékeket, mert a nedves felniken lassabb a fékezési reakcióidő.",
+                "ro": "Moara oferă adăpost împotriva ploii pe partea ferită de vânt; verificați frânele, deoarece jantele ude reduc eficiența frânării.",
+                "en": "The windmill provides shelter on its leeward side; test your brakes frequently as wet rims significantly increase braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Picos-Strand",
+                "hu": "Picos Strand",
+                "ro": "Plaja Picos",
+                "en": "Picos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad zum Strand kann schlammig sein, fahren Sie vorsichtig; der Anblick der stürmischen See vom Rad aus ist unvergesslich.",
+                "hu": "A strandra vezető ösvény sáros lehet, óvatosan ereszkedjen le; a viharos tenger látványa a bicikliről nézve felejthetetlen élmény.",
+                "ro": "Poteca spre plajă poate fi noroioasă, coborâți cu atenție; vederea mării învolburate direct de pe bicicletă este de neuitat.",
+                "en": "The path to the beach can get muddy, so descend with caution; the view of the stormy sea from your bike is truly unforgettable."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Angra do Travesso",
+                "hu": "Angra do Travesso Strand",
+                "ro": "Plaja Angra do Travesso",
+                "en": "Angra do Travesso Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einer festen Stelle ab, damit es im nassen Sand nicht umkippt; Regenbekleidung mit Reflektoren erhöht Ihre Sichtbarkeit.",
+                "hu": "Stabil helyen támassza le a biciklit, nehogy felboruljon a vizes homokban; a fényvisszaverős esőruha nagyban növeli a láthatóságát.",
+                "ro": "Parcați bicicleta pe un loc stabil pentru a nu se răsturna în nisipul ud; echipamentul de ploaie reflectorizant vă sporește vizibilitatea.",
+                "en": "Park your bike on stable ground to prevent it from toppling in wet sand; reflective rain gear is highly recommended for visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Angra das Melancias",
+                "hu": "Angra das Melancias Strand",
+                "ro": "Plaja Angra das Melancias",
+                "en": "Angra das Melancias Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefer sein können, als sie aussehen; die Vegetation wirkt im Regen besonders kräftig und grün.",
+                "hu": "Ügyeljen a tócsákra, amelyek mélyebbek lehetnek a látszatnál; a növényzet az esőben különösen élénknek és üdének hat.",
+                "ro": "Atenție la bălțile care pot fi mai adânci decât par; vegetația pare extrem de vibrantă și proaspătă sub stropii de ploaie.",
+                "en": "Watch out for puddles that might be deeper than they appear; the coastal vegetation looks remarkably vibrant and lush in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Régészeti Lelőhely",
+                "ro": "Situl Arheologic Foz dos Ouriços",
+                "en": "Foz dos Ouriços Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg ist bei Nässe technisch anspruchsvoll; machen Sie eine Pause, um die mystische Stimmung der Ruinen im Regen zu genießen.",
+                "hu": "A hozzáférés vizes időben technikásabb tekerést igényel; álljon meg egy percre, és élvezze a romok misztikus hangulatát az esőben.",
+                "ro": "Accesul necesită o pedalare mai tehnică pe timp de ploaie; opriți-vă pentru a simți atmosfera mistică a ruinelor sub picăturile de apă.",
+                "en": "Accessing the site requires technical cycling in wet conditions; pause to take in the mystical atmosphere of the ruins in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Almograve",
+                "hu": "Almograve Fő Strandja",
+                "ro": "Plaja Principală din Almograve",
+                "en": "Almograve Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den befestigten Wegen nahe der Promenade; ein Schutzblech am Rad verhindert, dass Schlamm Ihre Kleidung beschmutzt.",
+                "hu": "Csak a kiépített utakon közlekedjen a sétány közelében; a sárvédő használata javasolt, hogy elkerülje a felcsapódó vizet és sarat.",
+                "ro": "Circulați doar pe drumurile amenajate de lângă faleză; aripile la bicicletă sunt esențiale pentru a evita stropirea cu noroi.",
+                "en": "Stick to the paved surfaces near the promenade; fenders are a must to prevent mud and water from splashing onto your clothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die kühle Luft beim Radeln zur historischen Windmühle. Mittags führen uns die einsamen Küstenwege zu den Stränden, wo die Wintersonne glitzert. Am Nachmittag erkunden wir die archäologische Stätte im weichen Licht der tiefstehenden Sonne. Da die Dämmerung früh einsetzt, kehren wir rechtzeitig vor 17:00 Uhr mit brennenden Waden und frischem Geist ins Dorf zurück.",
+            "hu": "Reggel a hűvös levegőben élvezzük a tekerést a történelmi szélmalom felé. Délben a magányos part menti utakon haladunk a strandokhoz, ahol a téli nap csillog. Délután a régészeti lelőhelyet fedezzük fel az alacsonyan járó nap lágy fényében. Mivel korán sötétedik, 17:00 előtt visszaérünk a faluba, felfrissült szellemmel.",
+            "ro": "Dimineața savurăm aerul rece în timp ce pedalăm spre moara de vânt istorică. La prânz, drumurile de coastă pustii ne conduc spre plajele unde sclipește soarele de iarnă. După-amiaza explorăm situl arheologic în lumina blândă a amurgului timpuriu. Deoarece se întunecă repede, revenim în sat înainte de ora 17:00, cu mintea limpede.",
+            "en": "Morning finds us enjoying the crisp air while cycling toward the historic windmill. At noon, solitary coastal tracks lead to beaches where the winter sun glints off the water. Afternoon is for exploring the ruins in the soft, low-angle light. As dusk approaches early, we return to the village before 17:00 with tired legs and a refreshed spirit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühle von Longueira",
+                "hu": "Longueira Szélmalom",
+                "ro": "Moara de Vânt din Longueira",
+                "en": "Longueira Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht bietet ein tolles Panorama für Fotos der Mühle; tragen Sie Handschuhe, da der Fahrtwind die Finger schnell auskühlt.",
+                "hu": "A tiszta látási viszonyok kiváló panorámát nyújtanak a malomról; viseljen kesztyűt, mert a menetszél hamar lehűti az ujjait.",
+                "ro": "Vizibilitatea clară oferă o panoramă superbă pentru fotografii; purtați mănuși, deoarece vântul vă va răci rapid degetele pe ghidon.",
+                "en": "The clear winter visibility offers a great panorama for photos; wear gloves, as the headwind will quickly chill your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Picos-Strand",
+                "hu": "Picos Strand",
+                "ro": "Plaja Picos",
+                "en": "Picos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg ist bei trockenem Winterwetter griffig; die Wintersonne wärmt angenehm, wenn man windgeschützt im Sand steht.",
+                "hu": "A leereszkedés a száraz téli időben biztonságos; a téli nap kellemesen melegít, ha szélvédett helyen áll meg a homokban.",
+                "ro": "Coborârea este sigură pe vremea uscată de iarnă; soarele de iarnă încălzește plăcut dacă găsiți un loc ferit de vânt pe nisip.",
+                "en": "The descent is firm in dry winter weather; the sun feels pleasantly warm if you find a spot sheltered from the breeze in the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Angra do Travesso",
+                "hu": "Angra do Travesso Strand",
+                "ro": "Plaja Angra do Travesso",
+                "en": "Angra do Travesso Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die leeren Pfade für ein zügiges Tempo; achten Sie auf die Zeit, da die Schatten im Winter sehr früh länger werden.",
+                "hu": "Használja ki az üres ösvényeket a tempósabb haladáshoz; ügyeljen az időre, mert télen az árnyékok hamar megnyúlnak.",
+                "ro": "Profitați de potecile libere pentru un ritm mai susținut; fiți atenți la timp, deoarece umbrele se lungesc foarte devreme iarna.",
+                "en": "Take advantage of the empty trails for a brisker pace; keep track of time as shadows lengthen very early during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Angra das Melancias",
+                "hu": "Angra das Melancias Strand",
+                "ro": "Plaja Angra das Melancias",
+                "en": "Angra das Melancias Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Dünenlandschaft wirkt im harten Winterlicht fast skulptural; eine Schirmmütze schützt vor der tiefstehenden, blendenden Sonne.",
+                "hu": "A dűnék világa a téli fényben szinte szoborszerű; egy siltes sapka megvédi a szemét az alacsonyan járó, vakító naptól.",
+                "ro": "Peisajul dunelor pare aproape sculptural în lumina rece; o șapcă cu cozoroc vă va proteja de soarele jos care vă poate orbi.",
+                "en": "The dunes look almost sculptural in the sharp winter light; a peaked cap will protect your eyes from the low, glaring sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Régészeti Lelőhely",
+                "ro": "Situl Arheologic Foz dos Ouriços",
+                "en": "Foz dos Ouriços Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe des Ortes wird im Winter nur vom Meer unterbrochen; kleiden Sie sich nach dem Zwiebelprinzip für die wechselnde Intensität beim Treten.",
+                "hu": "A hely nyugalmát télen csak a tenger zúgása töri meg; öltözzön rétegesen, alkalmazkodva a tekerés változó intenzitásához.",
+                "ro": "Liniștea locului este întreruptă iarna doar de mare; îmbrăcați-vă în straturi pentru a vă regla temperatura în funcție de efort.",
+                "en": "The site's tranquility is broken only by the sea in winter; dress in layers to stay comfortable as your effort level changes."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Almograve",
+                "hu": "Almograve Fő Strandja",
+                "ro": "Plaja Principală din Almograve",
+                "en": "Almograve Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Radtour mit einem Blick auf den Ozean; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die Rückfahrt funktioniert.",
+                "hu": "Zárja a biciklis túrát egy óceáni panorámával; győződjön meg róla, hogy a lámpái működnek a sötétedés utáni visszajutáshoz.",
+                "ro": "Încheiați tura cu o vedere spre ocean; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere la amurg.",
+                "en": "Finish your ride with a grand ocean view; ensure your bike lights are working for the return trip as darkness falls quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Autózzon el az északi strandokhoz reggel, hogy lefotózza a hullámokat átszelő csipkézett sziklákat. Délben látogasson el a régészeti romokhoz, felfedezve az ősi történelmet a szikla szélén. A délutáni program egy rövid kitérő a történelmi szélmalomhoz, majd pihenés a falu fő strandján. Zárja festői autózását a déli sziklás kilátóknál, ahogy leszáll az est.",
         "ro": "Conduceți la plajele dramatice nordice dimineața pentru a fotografia stâncile zimțate din valuri. La amiază, mergeți la ruinele arheologice, explorând istoria chiar pe marginea stâncii. După-amiaza include un scurt ocol spre interior la o moară de vânt istorică, urmat de relaxare la plaja principală. Terminați drumul panoramic la punctele de belvedere stâncoase din sud la apus.",
         "en": "Drive to the dramatic northern beaches this morning to photograph the jagged rocks cutting through the surf. By midday, shift to the archaeological ruins, exploring ancient history right on the cliff edge. Your afternoon features a quick inland detour to a historic windmill followed by relaxing at the main village beach. End your scenic drive at the southern rocky viewpoints as dusk settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zum Picos-Strand, wo wir das Unwetter bequem vom Auto aus beobachten. Mittags besuchen wir die archäologische Stätte während einer Regenpause. Danach geht es zur Windmühle von Longueira, die im Nebel mystisch wirkt. Am Nachmittag erreichen wir Pedra dos Corvos, bevor wir den Abend trocken im Dorf verbringen.",
+            "hu": "Reggel a Picos strandhoz hajtunk, ahol az autóból figyeljük a viharos óceánt. Délben, egy esőszünetben látogatjuk meg a régészeti lelőhelyet. Ezután a Longueira szélmalom felé vesszük az irányt, amely misztikusan fest a ködben. Délután a Pedra dos Corvos szikláit nézzük meg, majd az estét szárazon, a faluban töltjük.",
+            "ro": "Dimineața conducem spre plaja Picos, unde observăm oceanul învolburat confortabil din mașină. La prânz vizităm situl arheologic în timpul unei pauze de ploaie. Apoi ne îndreptăm spre moara din Longueira, care pare mistică în ceață. După-amiaza ajungem la Pedra dos Corvos, înainte de a petrece seara la adăpost în sat.",
+            "en": "Morning drive takes us to Picos Beach, where we watch the stormy Atlantic from the comfort of our car. At noon, we visit the archaeological site during a break in the rain. Next is the Longueira windmill, looking mystical in the mist. Afternoon ends at Pedra dos Corvos before we spend a dry evening in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Picos-Strand",
+                "hu": "Picos Strand",
+                "ro": "Plaja Picos",
+                "en": "Picos Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht im nassen Schlamm stecken zu bleiben; genießen Sie die Aussicht durch die regennasse Scheibe.",
+                "hu": "Parkoljon szilárd burkolaton, hogy ne akadjon el a sárban; élvezze a kilátást az eső áztatta szélvédőn keresztül.",
+                "ro": "Parcați pe o suprafață solidă pentru a nu rămâne blocat în noroi; bucurați-vă de vedere prin parbrizul udat de ploaie.",
+                "en": "Park on firm ground to avoid getting stuck in wet mud; enjoy the dramatic coastal views through the rain-streaked windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Régészeti Lelőhely",
+                "ro": "Situl Arheologic Foz dos Ouriços",
+                "en": "Foz dos Ouriços Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie kurze Regenpausen für einen schnellen Rundgang; ein Taschenschirm im Auto ist für diesen Stopp sehr praktisch.",
+                "hu": "Használja ki a rövid esőszüneteket egy gyors körülnézéshez; egy táskában lévő esernyő nagyon hasznos lesz ennél a megállónál.",
+                "ro": "Profitați de scurte pauze de ploaie pentru un tur rapid; o umbrelă compactă în mașină este foarte practică pentru această oprire.",
+                "en": "Take advantage of brief breaks in the rain for a quick tour; keep a compact umbrella in the car for this specific stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Longueira",
+                "hu": "Longueira Szélmalom",
+                "ro": "Moara de Vânt din Longueira",
+                "en": "Longueira Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist gut über befestigte Straßen erreichbar; ideal für Fotos, ohne das Auto lange verlassen zu müssen.",
+                "hu": "A malom jól megközelíthető burkolt utakon; ideális fotópont anélkül, hogy hosszú időre el kellene hagynia az autót.",
+                "ro": "Moara este ușor accesibilă pe drumuri asfaltate; este un loc ideal pentru poze fără a părăsi mașina pentru mult timp.",
+                "en": "The windmill is easily accessible via paved roads; it's an ideal photo spot without needing to leave the car for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Almograve",
+                "hu": "Almograve Fő Strandja",
+                "ro": "Plaja Principală din Almograve",
+                "en": "Almograve Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze mit direktem Meerblick; perfekt, um die Brandung bei einem Snack im trockenen Fahrzeug zu beobachten.",
+                "hu": "Vannak közvetlen tengeri kilátással rendelkező parkolók; tökéletes a hullámok megfigyeléséhez egy száraz autóban elfogyasztott uzsonna mellett.",
+                "ro": "Există locuri de parcare cu vedere directă la mare; perfect pentru a observa valurile în timp ce luați o gustare în mașină.",
+                "en": "There are parking spots with direct ocean views; perfect for watching the surf while enjoying a snack inside your dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedra dos Corvos",
+                "hu": "Pedra dos Corvos",
+                "ro": "Pedra dos Corvos",
+                "en": "Pedra dos Corvos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die mit Regenwasser gefüllt sind; die raue Küste wirkt im Regen besonders imposant.",
+                "hu": "Ügyeljen az esővízzel telt kátyúkra az úton; a vadregényes partvonal az esőben különösen monumentális látványt nyújt.",
+                "ro": "Atenție la gropile umplute cu apă de ploaie pe drum; coasta sălbatică pare extrem de impunătoare sub perdeaua de ploaie.",
+                "en": "Watch out for rainwater-filled potholes on the access road; the rugged coastline looks especially imposing in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bei klarer Winterluft zum Picos-Strand. Mittags erkunden wir die archäologische Stätte unter der milden Mittagssonne. Danach geht es zur Windmühle, die perfekt im weichen Licht steht. Am Nachmittag genießen wir den Sonnenuntergang bei Pedra dos Corvos, bevor die Dunkelheit gegen 17:00 Uhr die Küste einhüllt.",
+            "hu": "Reggel a tiszta téli levegőben hajtunk a Picos strandhoz. Délben a régészeti lelőhelyet fedezzük fel az enyhe napsütésben. Ezután a szélmalomhoz látogatunk, amely gyönyörűen mutat a lágy fényekben. Délután a Pedra dos Corvos szikláinál nézzük a naplementét, mielőtt 17:00 körül leszáll az éj a partra.",
+            "ro": "Dimineața conducem spre plaja Picos în aerul curat de iarnă. La prânz explorăm situl arheologic sub soarele blând al amiezii. Apoi vizităm moara de vânt, care arată superb în lumina caldă. După-amiaza savurăm apusul la Pedra dos Corvos, înainte ca întunericul să cuprindă coasta în jur de ora 17:00.",
+            "en": "Morning drive to Picos Beach in the crisp winter air. At noon, we explore the archaeological site under the mild midday sun. Next, we visit the windmill, perfectly illuminated by the soft light. Afternoon is spent at Pedra dos Corvos for the sunset before darkness envelopes the coast around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Picos-Strand",
+                "hu": "Picos Strand",
+                "ro": "Plaja Picos",
+                "en": "Picos Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Fahren; stellen Sie sicher, dass Ihre Sonnenblende und Sonnenbrille griffbereit sind.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat vezetés közben; győződjön meg róla, hogy a napellenző és a napszemüveg kéznél van.",
+                "ro": "Soarele de iarnă stă jos și vă poate orbi în timp ce conduceți; asigurați-vă că parasolarul și ochelarii de soare sunt la îndemână.",
+                "en": "The low winter sun can be blinding while driving; ensure your sun visor and sunglasses are easily accessible at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologische Stätte Foz dos Ouriços",
+                "hu": "Foz dos Ouriços Régészeti Lelőhely",
+                "ro": "Situl Arheologic Foz dos Ouriços",
+                "en": "Foz dos Ouriços Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die kühle Brise abzukürzen; die Ruinen wirken im klaren Winterlicht besonders scharf konturiert.",
+                "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse a hűvös szélben töltött időt; a romok kontúrjai élesebbek a tiszta téli fényben.",
+                "ro": "Parcați aproape de intrare pentru a scurta expunerea la briza rece; contururile ruinelor sunt mai clare în lumina de iarnă.",
+                "en": "Park close to the entrance to minimize time in the chilly breeze; the ruins' contours appear sharper in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Longueira",
+                "hu": "Longueira Szélmalom",
+                "ro": "Moara de Vânt din Longueira",
+                "en": "Longueira Windmill"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am Nachmittag ist ideal für Porträtfotos vor der Mühle; im Auto bleibt es zwischen den Stopps angenehm warm.",
+                "hu": "A délutáni lágy fények ideálisak a malom előtt készült portrékhoz; az autóban kellemesen felmelegedhet a megállók között.",
+                "ro": "Lumina blândă de după-amiază este ideală pentru portrete în fața morii; în mașină vă puteți încălzi plăcut între opriri.",
+                "en": "The soft afternoon light is ideal for portraits in front of the windmill; the car provides a warm refuge between your outdoor stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Almograve",
+                "hu": "Almograve Fő Strandja",
+                "ro": "Plaja Principală din Almograve",
+                "en": "Almograve Main Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick ohne die Parkplatzsuche des Sommers; im Winter ist der Strand fast menschenleer und sehr fotogen.",
+                "hu": "Élvezze a tágas kilátást a nyári parkolási nehézségek nélkül; télen a strand szinte néptelen és rendkívül fotogén.",
+                "ro": "Bucurați-vă de vederea largă fără grijile parcării din timpul verii; iarna plaja este aproape pustie și foarte fotogenică.",
+                "en": "Enjoy the expansive views without the parking struggles of summer; in winter, the beach is nearly deserted and very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedra dos Corvos",
+                "hu": "Pedra dos Corvos",
+                "ro": "Pedra dos Corvos",
+                "en": "Pedra dos Corvos"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17:00 Uhr für den Sonnenuntergang; nach dem Untergang sinken die Temperaturen im Winter sehr schnell.",
+                "hu": "Tervezze az érkezést 17:00 előttre a naplemente megtekintéséhez; a napnyugta után télen a hőmérséklet nagyon hirtelen visszaesik.",
+                "ro": "Planificați sosirea înainte de ora 17:00 pentru apus; după ce soarele dispare, temperaturile de iarnă scad foarte brusc.",
+                "en": "Aim to arrive before 17:00 to catch the sunset; be aware that winter temperatures drop very sharply once the sun goes down."
+              }
+            }
+          ]
+        }
       }
     }
   }

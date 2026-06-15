@@ -137,6 +137,168 @@
         "hu": "Kezdje Barfleur-i sétáját egy békés látogatással a Chapelle de la Bretonne-ban.\n\nDélelőtt merüljön el a helyi művészetben az Art’Mâteur galériában, és fedezze fel a Musée Atelier kiállításait.\n\nEgy kiadós ebéd után csodálja meg az impozáns Église Saint-Nicolas-t.\n\nZárja a napot egy pihentető délutánnal a festői Plage de la Sambière homokos partján.",
         "ro": "Începeți turul pietonal din Barfleur cu o vizită liniștită la Chapelle de la Bretonne.\n\nLa mijlocul dimineții, descoperiți arta locală la Art’Mâteur și vizitați Musée Atelier.\n\nDupă un prânz delicios, admirați impunătoarea Église Saint-Nicolas.\n\nÎncheiați-vă ziua cu o după-amiază relaxantă pe plaja pitorească Plage de la Sambière din apropiere.",
         "en": "Start your Barfleur walking tour with a peaceful visit to the Chapelle de la Bretonne.\n\nBy mid-morning, immerse yourself in local art at Art’Mâteur and discover the region's rich heritage at the Musée Atelier de Barfleur.\n\nAfter a satisfying lunch, admire the imposing Église Saint-Nicolas.\n\nEnd your day with a relaxing afternoon at the scenic Plage de la Sambière."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Barfleur im Regen hat einen rauen Charme. Morgens bietet die Kapelle Schutz vor der ersten Brise. Mittags sind die Galerien perfekte Rückzugsorte vor den Schauern. Nachmittags schützt die massive Kirche Saint-Nicolas vor dem Wind. Der Abend am Hafen ist grau, aber stimmungsvoll. Tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster bei Nässe sehr rutschig sein kann.",
+            "hu": "Barfleur esőben is varázslatos, a köves utcák csillognak a víz alatt. Reggel a kápolna nyújt menedéket a tengeri szél elől, délben pedig a helyi galériákban száradhatunk meg. Délután a monumentális templom vastag falai közt pihenhetünk, az esti kikötői séta pedig rövid, de látványos lesz. Viseljen vízálló cipőt a csúszós macskaköveken!",
+            "ro": "Barfleur sub ploaie are un farmec aparte, cu străduțe de piatră care strălucesc sub apă. Dimineața, capela oferă adăpost, iar la prânz galeriile sunt refugiul perfect împotriva averselor. După-amiaza, interiorul bisericii este cald și primitor, iar seara în port va fi vântoasă dar spectaculoasă. Atenție la pavajul alunecos din centrul istoric!",
+            "en": "Barfleur in the rain offers a rugged, atmospheric charm. Start at the chapel for morning shelter, then spend midday in the cozy galleries away from the showers. Afternoon is best spent inside the grand church, followed by a brief, dramatic walk by the harbor. Keep your umbrella ready and watch for slippery cobblestones in the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle de la Bretonne",
+                "hu": "Chapelle de la Bretonne",
+                "ro": "Chapelle de la Bretonne",
+                "en": "Chapelle de la Bretonne"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kapelle als ersten Unterschlupf vor dem Regen; die Stille im Inneren harmoniert perfekt mit dem prasselnden Wasser an den Fenstern.",
+                "hu": "Használja a kápolnát első menedékként az eső elől; a belső csend tökéletesen harmonizál az ablakokon kopogó vízcseppek megnyugtató hangjával.",
+                "ro": "Folosiți capela ca prim adăpost împotriva ploii; liniștea din interior se armonizează perfect cu sunetul picăturilor care bat în ferestre.",
+                "en": "Use the chapel as your first shelter from the rain; the silence inside harmonizes perfectly with the sound of raindrops drumming on the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Art’Mâteur",
+                "hu": "Art’Mâteur",
+                "ro": "Art’Mâteur",
+                "en": "Art’Mâteur"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie ist der ideale Ort, um einen Schauer trocken zu überstehen; bewundern Sie lokale Kunst, während es draußen stürmt und regnet.",
+                "hu": "Ez a galéria ideális hely egy zápor száraz átvészelésére; csodálja meg a helyi művészetet, miközben odakint tombol a szél és szakad az eső.",
+                "ro": "Această galerie este locul ideal pentru a trece peste o aversă la uscat; admirați arta locală în timp ce afară este furtună și plouă.",
+                "en": "This gallery is the ideal place to wait out a shower in the dry; admire local art while it is stormy and raining outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Atelier de Barfleur",
+                "hu": "Musée Atelier de Barfleur",
+                "ro": "Musée Atelier de Barfleur",
+                "en": "Musée Atelier de Barfleur"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt im Museum, um dem nassen Wetter zu entfliehen; die Ausstellungen bieten eine warme und kulturelle Alternative zum Hafen.",
+                "hu": "Hosszabbítsa meg tartózkodását a múzeumban, hogy elkerülje a nedves időt; a kiállítások meleg és kulturális alternatívát kínálnak a kikötővel szemben.",
+                "ro": "Prelungiți vizita la muzeu pentru a evita vremea umedă; expozițiile oferă o alternativă caldă și culturală la plimbarea prin port.",
+                "en": "Extend your stay at the museum to avoid the wet weather; the exhibitions offer a warm and cultural alternative to the rainy harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern dieser Kirche bieten hervorragenden Schutz vor Küstenwinden; bewundern Sie die Architektur in aller Ruhe im Trockenen.",
+                "hu": "A templom masszív falai kiváló védelmet nyújtanak a tengerparti szél ellen; csodálja meg az építészetet teljes nyugalomban, száraz helyen.",
+                "ro": "Zidurile masive ale acestei biserici oferă o protecție excelentă împotriva vântului de coastă; admirați arhitectura în liniște, la adăpost.",
+                "en": "The massive walls of this church offer excellent protection from coastal winds; admire the architecture in peace while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Sambière",
+                "hu": "Plage de la Sambière",
+                "ro": "Plage de la Sambière",
+                "en": "Plage de la Sambière"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen sehr dramatisch, aber die Felsen sind rutschig; bleiben Sie auf den befestigten Wegen und genießen Sie die Aussicht.",
+                "hu": "A tengerpart esőben nagyon drámai, de a sziklák ilyenkor csúszósak; maradjon a kijelölt utakon és onnan élvezze a viharos kilátást.",
+                "ro": "Plaja pare foarte dramatică în ploaie, dar stâncile sunt alunecoase; rămâneți pe potecile marcate și admirați priveliștea de la distanță.",
+                "en": "The beach looks very dramatic in the rain, but the rocks are slippery; stay on the paved paths and enjoy the stormy view from safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Barfleur ist ruhig und besinnlich. Morgens glitzert der Frost auf den Granithäusern. Mittags wärmen Sie sich in den Ateliers auf, bevor die tiefstehende Sonne den Hafen vergoldet. Da es gegen 17:00 Uhr dunkel wird, verlagert sich das Leben früh nach drinnen. Kleiden Sie sich in warmen Schichten für den eiskalten Meereswind am Abend.",
+            "hu": "A tél Barfleur-ben csendes és meghitt. Reggel zúzmara csillog a gránitházakon, délben pedig az ünnepi díszbe öltözött műhelyekben melegedhetünk fel. A korai, délutáni naplemente aranyba vonja a kikötőt, mielőtt 17 órakor leszáll az éj. Öltözzön rétegesen a fagyos tengeri szél ellen az esti séta során.",
+            "ro": "Iarna în Barfleur este liniștită și intimă. Dimineața, promoroaca strălucește pe casele de granit, iar la prânz vă puteți încălzi în atelierele locale. Apusul timpuriu scaldă portul în culori aurii înainte de ora 17:00. Îmbrăcați-vă în straturi groase pentru vântul înghețat de pe coastă de la lăsarea serii.",
+            "en": "Winter in Barfleur is quiet and contemplative. In the morning, frost glistens on the granite houses, while midday calls for warming up in the local workshops. The early sunset bathes the harbor in gold before darkness falls around 5 PM. Dress in warm layers to withstand the freezing sea breeze during your evening stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle de la Bretonne",
+                "hu": "Chapelle de la Bretonne",
+                "ro": "Chapelle de la Bretonne",
+                "en": "Chapelle de la Bretonne"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am klaren Wintermorgen, wenn das Licht besonders rein wirkt; bringen Sie Handschuhe für den kalten Fußweg mit.",
+                "hu": "Látogasson el a kápolnába egy tiszta téli reggelen, amikor a fények különösen élesek; hozzon kesztyűt a hideg úthoz a tengerpart mentén.",
+                "ro": "Vizitați capela într-o dimineață senină de iarnă, când lumina este foarte pură; purtați mănuși pentru plimbarea friguroasă de-a lungul coastei.",
+                "en": "Visit the chapel on a clear winter morning when the light is especially pure; bring gloves for the cold walk along the coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Art’Mâteur",
+                "hu": "Art’Mâteur",
+                "ro": "Art’Mâteur",
+                "en": "Art’Mâteur"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Farben der Kunstwerke bieten einen schönen Kontrast zum winterlichen Grau draußen; ein perfekter Ort, um die Hände aufzuwärmen.",
+                "hu": "A műalkotások meleg színei remek kontrasztot alkotnak a kinti téli szürkeséggel; tökéletes helyszín a kezek felmelegítésére a séta közben.",
+                "ro": "Culorile calde ale operelor de artă oferă un contrast plăcut cu griul iernii de afară; un loc perfect pentru a vă încălzi mâinile.",
+                "en": "The warm colors of the artworks offer a lovely contrast to the winter gray outside; a perfect spot to warm your hands during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Atelier de Barfleur",
+                "hu": "Musée Atelier de Barfleur",
+                "ro": "Musée Atelier de Barfleur",
+                "en": "Musée Atelier de Barfleur"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden im beheizten Museum; die historischen Exponate lassen sich ohne sommerliche Menschenmassen viel intensiver erleben.",
+                "hu": "Használja ki a déli órákat a fűtött múzeumban; a történelmi tárlatokat a nyári tömeg nélkül sokkal intenzívebben élvezheti a téli nyugalomba.",
+                "ro": "Profitați de orele prânzului în muzeul încălzit; exponatele istorice pot fi savurate mult mai intens fără aglomerația de vară.",
+                "en": "Take advantage of the midday hours in the heated museum; the historical exhibits can be enjoyed much more intensely without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Am späten Nachmittag sorgt die Wintersonne für lange Schatten im Kirchenschiff; achten Sie auf die frühe Dämmerung gegen 17:00 Uhr.",
+                "hu": "Késő délután a téli nap alacsony szöge hosszú árnyékokat vet a hajóban; ügyeljen a korai sötétedésre, amely már 17 órakor beköszönt.",
+                "ro": "După-amiaza târziu, soarele de iarnă creează umbre lungi în naosul bisericii; atenție la amurgul timpuriu care începe în jurul orei 17:00.",
+                "en": "In the late afternoon, the winter sun creates long shadows in the nave; keep in mind that twilight begins early, around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Sambière",
+                "hu": "Plage de la Sambière",
+                "ro": "Plage de la Sambière",
+                "en": "Plage de la Sambière"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang am Strand erfordert winddichte Kleidung; genießen Sie die klare Luft und das raue Meer kurz vor Sonnenuntergang.",
+                "hu": "A téli tengerparti séta szélálló ruházatot igényel; élvezze a friss, tiszta levegőt és a zord tengert közvetlenül a naplemente előtt.",
+                "ro": "O plimbare de iarnă pe plajă necesită haine rezistente la vânt; bucurați-vă de aerul curat și marea aspră chiar înainte de apus.",
+                "en": "A winter walk on the beach requires windproof clothing; enjoy the crisp, fresh air and the rough sea just before the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen el Montfarville-be a gyönyörű Église Notre-Dame és a történelmi udvarház megtekintéséhez.\n\nÉlvezze a tengeri szellőt, miközben a Plage de la Sambière felé tart.\n\nTérjen vissza Barfleurba az Église Saint-Nicolas és a Musée Atelier meglátogatásához.\n\nFejezze be útját az ikonikus Moulin de Grabec szélmalomhoz vezető kerékpározással.",
         "ro": "Pedalați spre Montfarville pentru a vedea Église Notre-Dame și conacul istoric local.\n\nBucurați-vă de briza mării în timp ce vă îndreptați spre Plage de la Sambière.\n\nÎntoarceți-vă în centrul Barfleurului pentru a vizita Église Saint-Nicolas și Musée Atelier.\n\nÎncheiați-vă turul cu o scurtă plimbare pitorească până la emblematica moară Moulin de Grabec.",
         "en": "Pedal out to Montfarville to see the beautiful Église Notre-Dame and the historic Manoir before cycling towards the coast.\n\nEnjoy the sea breeze as you head to Plage de la Sambière.\n\nRide back into Barfleur to visit the central Église Saint-Nicolas and spend time at the Musée Atelier.\n\nComplete your journey with a scenic ride out to the iconic Moulin de Grabec."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Barfleur bei Regen verlangt Vorsicht. Morgens sind die Wege zur Kirche rutschig. Mittags bieten Gutshöfe kurzzeitigen Schutz. Nachmittags ist die Fahrt durch den Ort nass, aber die Museen bieten trockene Pausen. Abends kehren Sie durch den Nebel zurück. Achten Sie auf festen Grip und bremsen Sie auf dem nassen Asphalt frühzeitig ab.",
+            "hu": "A kerékpározás Barfleur környékén esőben óvatosságot igényel. Reggel a templomhoz vezető utak csúszósak, délben a kastély falai nyújtanak rövid védelmet. Délután a városban tekerve a múzeumok kínálnak száraz pihenőt, este pedig ködben érhetünk vissza. Ügyeljen a gumik tapadására és fékezzen időben a vizes aszfalton!",
+            "ro": "Mersul pe bicicletă în Barfleur pe ploaie necesită prudență. Dimineața, drumurile spre biserică sunt alunecoase, iar la prânz conacul oferă protecție scurtă. După-amiaza, muzeele oferă pauze uscate, iar seara vă întoarceți prin ceață. Atenție la aderența anvelopelor și frânați din timp pe asfaltul ud!",
+            "en": "Cycling around Barfleur in the rain requires caution. In the morning, paths to the church are slippery, while midday at the manor offers brief cover. Afternoon cycling through town leads to dry museum breaks, and evening returns through the mist. Pay attention to tire grip and brake early on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Kirche kann bei Regen schlammig sein; stellen Sie Ihr Rad an einer festen Stelle ab, bevor Sie das Innere erkunden.",
+                "hu": "A templom körüli talaj esőben sáros lehet; állítsa le kerékpárját egy szilárd burkolatú helyen, mielőtt felfedezné a belső teret.",
+                "ro": "Terenul din jurul bisericii poate fi noroios pe ploaie; parcați bicicleta într-un loc stabil înainte de a explora interiorul.",
+                "en": "The ground around the church can be muddy in the rain; park your bike on a solid surface before exploring the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Montfarville",
+                "hu": "Manoir de Montfarville",
+                "ro": "Manoir de Montfarville",
+                "en": "Manoir de Montfarville"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Bäumen oder am Torbogen Schutz vor einem Schauer; der Blick auf das Herrenhaus ist auch bei grauem Himmel majestätisch.",
+                "hu": "Keressen menedéket a fák alatt vagy a kapualjban egy zápor elől; a kúria látványa szürke égbolt alatt is tekintélyt parancsoló.",
+                "ro": "Căutați adăpost sub copaci sau lângă poartă în caz de aversă; vederea conacului este maiestoasă chiar și sub un cer cenușiu.",
+                "en": "Seek shelter under the trees or by the archway during a shower; the manor view remains majestic even under a gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Sambière",
+                "hu": "Plage de la Sambière",
+                "ro": "Plage de la Sambière",
+                "en": "Plage de la Sambière"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg kann Pfützen bilden; fahren Sie langsam und genießen Sie den Anblick der aufpeitschenden Wellen während einer kurzen Regenpause.",
+                "hu": "A tengerparti úton tócsák alakulhatnak ki; tekerjen lassan, és élvezze a felcsapó hullámok látványát egy rövid esőszünetben.",
+                "ro": "Pe drumul de coastă se pot forma bălți; pedalați încet și bucurați-vă de vederea valurilor în timpul unei scurte pauze de ploaie.",
+                "en": "Puddles may form on the coastal path; cycle slowly and enjoy the sight of the crashing waves during a brief break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen; nutzen Sie die Pause, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy gyorsan fedél alá kerüljön; használja ki a pihenőt az esőruha rövid lerázására.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la adăpost; folosiți pauza pentru a vă scutura scurt hainele de ploaie.",
+                "en": "Park your bike close to the entrance to get inside quickly; use the break to briefly shake off your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Atelier de Barfleur",
+                "hu": "Musée Atelier de Barfleur",
+                "ro": "Musée Atelier de Barfleur",
+                "en": "Musée Atelier de Barfleur"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich aufzuwärmen und zu trocknen; die Galerie bietet Schutz, während das Fahrrad sicher vor der Tür im Regen wartet.",
+                "hu": "Ideális megálló a felmelegedéshez és a száradáshoz; a galéria védelmet nyújt, amíg a kerékpár biztonságban vár az ajtó előtt az esőben.",
+                "ro": "O oprire ideală pentru a vă încălzi și usca; galeria oferă protecție în timp ce bicicleta așteaptă în siguranță la ușă, în ploaie.",
+                "en": "An ideal stop to warm up and dry off; the gallery provides shelter while the bike waits safely by the door in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Grabec",
+                "hu": "Moulin de Grabec",
+                "ro": "Moulin de Grabec",
+                "en": "Moulin de Grabec"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mühle ist bei Regen oft matschig; prüfen Sie Ihre Bremsen, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "A malomhoz vezető út esőben gyakran sáros; ellenőrizze a fékeket, mielőtt belevágna a túra utolsó szakaszába a csúszós úton.",
+                "ro": "Drumul spre moară este adesea noroios pe ploaie; verificați frânele înainte de a începe ultima etapă a turului pe drumul alunecos.",
+                "en": "The path to the mill is often muddy in the rain; check your brakes before starting the final stage of your tour on the slippery path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter erfordert warme Handschuhe und helle Lichter. Morgens liegt oft Frost auf den Küstenstraßen. Mittags nutzen Sie die Museen als Wärmestationen. Am Nachmittag erleben Sie den frühen Sonnenuntergang über den Feldern, bevor es gegen 17:00 Uhr dunkel wird. Die klare Winterluft bietet weite Sicht, aber die Kälte ist auf dem Rad deutlich spürbar.",
+            "hu": "A téli kerékpározáshoz meleg kesztyű és jó világítás szükséges. Reggelente gyakran dér borítja a parti utakat, délben pedig a múzeumokat használhatjuk melegedőnek. Délután élvezze a korai naplementét a mezők felett, mielőtt 17 órakor sötét lesz. A tiszta téli levegő messzi kilátást enged, de a hideg a biciklin fokozottan érződik.",
+            "ro": "Mersul pe bicicletă iarna necesită mănuși calde și lumini bune. Dimineața, drumurile de coastă sunt adesea înghețate, iar la prânz muzeele servesc drept puncte de încălzire. După-amiaza, admirați apusul timpuriu peste câmpuri înainte de ora 17:00. Aerul clar oferă vizibilitate bună, dar frigul este intens pe bicicletă.",
+            "en": "Winter cycling requires warm gloves and good lights. In the morning, frost often covers the coastal roads, while midday calls for using museums as warming stations. In the afternoon, enjoy the early sunset over the fields before darkness falls at 5 PM. The clear winter air offers distant views, but the cold is very noticeable on a bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Kirchenmauer; die kühle Atmosphäre im Inneren wirkt im Winter besonders sakral.",
+                "hu": "Ügyeljen a templomfal árnyékában lévő lefagyásokra; a belső tér hűvös, de nyugodt atmoszférája télen különösen szakrálisnak hat.",
+                "ro": "Atenție la porțiunile înghețate din umbra zidului bisericii; atmosfera răcoroasă din interior pare deosebit de sacră în timpul iernii.",
+                "en": "Watch out for icy patches in the shadow of the church wall; the cool atmosphere inside feels particularly sacred in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Montfarville",
+                "hu": "Manoir de Montfarville",
+                "ro": "Manoir de Montfarville",
+                "en": "Manoir de Montfarville"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf das Herrenhaus frei; halten Sie nur kurz an, um nicht auszukühlen, während Sie die Aussicht genießen.",
+                "hu": "A kopasz fák között jobban rálátni a kúriára; csak rövid időre álljon meg, hogy ne hűljön ki, miközben a téli panorámában gyönyörködik.",
+                "ro": "Copacii golași permit o vedere mai clară asupra conacului; opriți-vă doar scurt pentru a nu vă răci în timp ce admirați panorama de iarnă.",
+                "en": "The bare trees allow a clearer view of the manor; stop only briefly to avoid getting too cold while enjoying the winter panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Sambière",
+                "hu": "Plage de la Sambière",
+                "ro": "Plage de la Sambière",
+                "en": "Plage de la Sambière"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne reflektiert stark auf dem Wasser; tragen Sie eine Sonnenbrille beim Radfahren am Meer, um Blendung durch die tiefe Sonne zu vermeiden.",
+                "hu": "A téli nap erősen tükröződik a vízen; viseljen napszemüveget a parti tekeréskor, hogy elkerülje az alacsonyan járó nap vakítását.",
+                "ro": "Soarele de iarnă se reflectă puternic în apă; purtați ochelari de soare când pedalați pe malul mării pentru a evita orbirea de la soarele jos.",
+                "en": "The winter sun reflects strongly off the water; wear sunglasses when cycling along the shore to avoid glare from the low-hanging sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als windgeschützten Ort für eine kurze Trinkpause; im Winter ist es hier oft wärmer als draußen auf dem Fahrrad.",
+                "hu": "Használja a templomot szélvédett helyként egy rövid ivószünetre; télen itt gyakran melegebb van, mint odakint a kerékpáron tekerve.",
+                "ro": "Folosiți biserica ca loc ferit de vânt pentru o scurtă pauză; iarna este adesea mai cald aici decât afară, pe bicicletă.",
+                "en": "Use the church as a wind-sheltered spot for a short break; in winter, it is often warmer here than outside on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Atelier de Barfleur",
+                "hu": "Musée Atelier de Barfleur",
+                "ro": "Musée Atelier de Barfleur",
+                "en": "Musée Atelier de Barfleur"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich bei einer kulturellen Pause aufzuwärmen; die helle Beleuchtung im Inneren hebt die Winterstimmung sofort.",
+                "hu": "Tökéletes hely a felmelegedésre egy kulturális szünet alatt; a belső tér fényei azonnal megemelik a téli hangulatot a hideg után.",
+                "ro": "Un loc perfect pentru a vă încălzi în timpul unei pauze culturale; luminile din interior vă vor ridica imediat moralul după frigul de afară.",
+                "en": "A perfect place to warm up during a cultural break; the bright lighting inside immediately lifts the winter mood after the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Grabec",
+                "hu": "Moulin de Grabec",
+                "ro": "Moulin de Grabec",
+                "en": "Moulin de Grabec"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr an der Mühle; schalten Sie für den Rückweg unbedingt Ihre Fahrradbeleuchtung ein.",
+                "hu": "Élvezze a naplementét 17 óra körül a malomnál; a visszaútra mindenképpen kapcsolja be a kerékpár lámpáit a sötétedés miatt.",
+                "ro": "Bucurați-vă de apusul soarelui în jurul orei 17:00 la moară; asigurați-vă că aprindeți luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Enjoy the sunset around 5 PM at the mill; make sure to turn on your bike lights for the return journey in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a történelmi Église Saint-Pierre-nél, egy gyors megállóval a Moulin de Grabec szélmalomnál.\n\nHajtson be Barfleurba a Musée Atelier és az Église Saint-Nicolas felfedezéséhez.\n\nTartson egy pihentető tengerparti szünetet a nyugodt Plage de la Sambière-en.\n\nUtazzon el Montfarville-be, hogy megcsodálja a Manoir és az Église Notre-Dame klasszikus normann építészetét.",
         "ro": "Începeți turul auto la istorica Église Saint-Pierre și faceți o oprire la pitoreasca moară Moulin de Grabec.\n\nConduceți în Barfleur pentru a explora Musée Atelier și biserica Église Saint-Nicolas.\n\nLuați o pauză relaxantă pe plaja curată Plage de la Sambière.\n\nMergeți la Montfarville pentru a aprecia arhitectura normandă clasică a conacului și a bisericii Église Notre-Dame.",
         "en": "Begin your driving tour at the historic Église Saint-Pierre before making a quick scenic stop at the nearby Moulin de Grabec.\n\nHead into Barfleur for a deep dive into local history at the Musée Atelier and a visit to Église Saint-Nicolas.\n\nTake a relaxing coastal break at Plage de la Sambière.\n\nDrive out to Montfarville to appreciate the classic Norman architecture of the Manoir and Église Notre-Dame."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Barfleur im Regen ganz entspannt. Morgens fahren Sie direkt zu den Kapellen und Kirchen. Mittags genießen Sie die Museen ohne nass zu werden. Nachmittags bietet die Fahrt entlang der Küste dramatische Ausblicke aus dem warmen Wagen. Abends ist der beleuchtete Hafen im Regen besonders fotogen. Parken Sie vorsichtig auf nassen Flächen.",
+            "hu": "Autóval kényelmesen felfedezheti Barfleurt esőben is. Reggel közvetlenül a templomokig hajthat, délben pedig a múzeumokban maradhat szárazon. Délután a tengerparti autózás drámai kilátást nyújt a meleg utastérből, este pedig a kivilágított kikötő az esőben különösen fotogén. Parkoljon óvatosan a vizes, csúszós felületeken!",
+            "ro": "Cu mașina puteți explora Barfleur în ploaie foarte relaxat. Dimineața conduceți direct la biserici, iar la prânz vă bucurați de muzee fără a vă uda. După-amiaza, drumul de coastă oferă priveliști dramatice din interiorul cald, iar seara portul iluminat este foarte fotogenic. Parcați cu atenție pe suprafețele umede!",
+            "en": "Explore Barfleur in the rain comfortably by car. In the morning, drive directly to the churches, and at midday enjoy the museums while staying dry. In the afternoon, the coastal drive offers dramatic views from the warm cabin, and in the evening, the lit-up harbor is especially photogenic in the rain. Park carefully on wet surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den kurzen Weg zur Kirche trocken zu überstehen; die Architektur wirkt bei grauem Himmel besonders kraftvoll.",
+                "hu": "Parkoljon a bejárat közelében, hogy szárazon megússza a templomig vezető rövid utat; az épület látványa szürke égbolt alatt is lenyűgöző.",
+                "ro": "Parcați aproape de intrare pentru a parcurge drumul scurt până la biserică fără a vă uda; arhitectura pare mai impunătoare sub un cer gri.",
+                "en": "Park close to the entrance to survive the short walk to the church dry; the architecture looks especially powerful under a gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Grabec",
+                "hu": "Moulin de Grabec",
+                "ro": "Moulin de Grabec",
+                "en": "Moulin de Grabec"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Mühle direkt aus dem Auto, wenn der Regen zu stark ist; die Silhouette ist ein tolles Fotomotiv bei jedem Wetter.",
+                "hu": "Élvezze a malomra nyíló kilátást közvetlenül az autóból, ha túl erősen esik; a sziluett minden időjárás mellett remek fotótéma marad.",
+                "ro": "Bucurați-vă de vederea morii direct din mașină dacă ploaia este prea puternică; silueta este un subiect foto excelent în orice vreme.",
+                "en": "Enjoy the view of the mill directly from your car if the rain is too heavy; its silhouette remains a great photo subject in any weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Atelier de Barfleur",
+                "hu": "Musée Atelier de Barfleur",
+                "ro": "Musée Atelier de Barfleur",
+                "en": "Musée Atelier de Barfleur"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für einen längeren Stopp im Trockenen; nutzen Sie die Zeit für die Ausstellungen, während draußen der Küstenregen niedergeht.",
+                "hu": "Tökéletes hely egy hosszabb, száraz pihenőre; használja ki az időt a kiállításokra, amíg odakint szakad a tengerparti eső.",
+                "ro": "Un loc perfect pentru o oprire mai lungă la uscat; profitați de timp pentru a vedea expozițiile în timp ce afară plouă torențial.",
+                "en": "A perfect place for a longer dry stop; use the time for the exhibitions while the coastal rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt direkt am Hafen; parken Sie am Kai und genießen Sie den monumentalen Bau als trockenen Rückzugsort vor dem Seewind.",
+                "hu": "A templom közvetlenül a kikötőben található; parkoljon a rakparton, és élvezze a monumentális épületet mint száraz menedéket a szél elől.",
+                "ro": "Biserica este situată chiar în port; parcați pe chei și bucurați-vă de clădirea monumentală ca refugiu uscat împotriva vântului.",
+                "en": "The church is located right in the harbor; park on the quay and enjoy the monumental building as a dry retreat from the sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Sambière",
+                "hu": "Plage de la Sambière",
+                "ro": "Plage de la Sambière",
+                "en": "Plage de la Sambière"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmische See sicher aus dem warmen Auto; der Parkplatz bietet oft eine gute Sicht auf die Brandung im Regen.",
+                "hu": "Figyelje a viharos tengert biztonságban a meleg autóból; a parkolóból gyakran remek kilátás nyílik a hullámzásra esőben is.",
+                "ro": "Observați marea înfuriată în siguranță din mașina caldă; parcarea oferă adesea o vedere bună asupra valurilor în timpul ploii.",
+                "en": "Watch the stormy sea safely from your warm car; the parking lot often offers a good view of the surf even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Montfarville",
+                "hu": "Manoir de Montfarville",
+                "ro": "Manoir de Montfarville",
+                "en": "Manoir de Montfarville"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt bei Regen besonders mystisch; halten Sie kurz an, um ein Foto aus dem Fenster zu machen oder nutzen Sie eine Regenpause.",
+                "hu": "A kúria esőben különösen misztikusnak tűnik; álljon meg egy rövid fotóra az ablakból, vagy várjon meg egy kisebb esőszünetet.",
+                "ro": "Conacul pare deosebit de mistic în ploaie; opriți-vă scurt pentru o fotografie de la fereastră sau profitați de o pauză de ploaie.",
+                "en": "The manor looks especially mystical in the rain; stop briefly for a photo from the window or wait for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour hier im Trockenen ab; die Kirche bietet eine ruhige Atmosphäre, um den Regentag Revue passieren zu lassen.",
+                "hu": "Zárja itt a túrát száraz helyen; a templom nyugodt légkört biztosít ahhoz, hogy átgondolja az esős nap élményeit.",
+                "ro": "Încheiați turul aici, la adăpost; biserica oferă o atmosferă liniștită pentru a reflecta asupra experiențelor zilei ploioase.",
+                "en": "Finish your tour here in the dry; the church offers a calm atmosphere to reflect on your rainy day experiences."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Barfleur im Winter ist mit dem Auto am gemütlichsten. Morgens genießen Sie die beheizte Fahrt durch die frostige Landschaft. Mittags erkunden Sie Museen und Ateliers. Nachmittags erleben Sie das goldene Licht des frühen Sonnenuntergangs am Meer. Da es um 17:00 Uhr dunkel wird, bietet das Auto eine warme Basis für die nächtliche Rückfahrt.",
+            "hu": "Barfleur télen autóval a legkényelmesebb. Reggel élvezze a fűtött utazást a zúzmarás tájon, délben pedig fedezze fel a múzeumokat. Délután csodálja meg a korai naplemente arany fényeit a tengerparton. Mivel 17 órakor már sötét van, az autó meleg bázist nyújt az esti visszautazáshoz a hideg kikötőből.",
+            "ro": "Barfleur iarna este cel mai confortabil cu mașina. Dimineața vă bucurați de drumul încălzit prin peisajul înghețat, iar la prânz explorați muzeele. După-amiaza admirați luminile aurii ale apusului timpuriu la malul mării. Deoarece se întunecă la ora 17:00, mașina oferă o bază caldă pentru drumul de întoarcere.",
+            "en": "Barfleur in winter is most comfortable by car. In the morning, enjoy the heated ride through the frosty landscape, and at midday explore the museums. In the afternoon, admire the golden lights of the early sunset by the sea. Since it gets dark at 5 PM, the car provides a warm base for your evening return journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klaren Wintermorgen für einen Besuch; die Sicht auf die Küste ist bei Kälte oft viel weiter und schärfer.",
+                "hu": "Használja ki a tiszta téli reggelt a látogatásra; a hidegben a kilátás a tengerpartra gyakran sokkal messzebbre nyúlik és élesebb.",
+                "ro": "Profitați de dimineața senină de iarnă pentru o vizită; vizibilitatea asupra coastei este adesea mult mai bună pe vreme rece.",
+                "en": "Take advantage of the clear winter morning for a visit; visibility of the coast is often much clearer and sharper in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Grabec",
+                "hu": "Moulin de Grabec",
+                "ro": "Moulin de Grabec",
+                "en": "Moulin de Grabec"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle steht markant in der kargen Winterlandschaft; ein kurzer Fotostopp lohnt sich, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A malom markánsan emelkedik ki a kopár téli tájból; egy rövid fotómegálló megéri, mielőtt visszatérne az autó melegébe.",
+                "ro": "Moara se ridică impunător în peisajul arid de iarnă; o scurtă oprire foto merită înainte de a vă reîntoarce la căldura mașinii.",
+                "en": "The mill stands out sharply in the barren winter landscape; a quick photo stop is worth it before warming up in the car again."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Atelier de Barfleur",
+                "hu": "Musée Atelier de Barfleur",
+                "ro": "Musée Atelier de Barfleur",
+                "en": "Musée Atelier de Barfleur"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Wärme zur Mittagszeit; die Ausstellungen sind im Winter ein friedlicher Rückzugsort vor dem kalten Seewind.",
+                "hu": "Élvezze a kulturális feltöltődést délidőben; a kiállítások télen békés menedéket nyújtanak a fagyos tengeri szél elől.",
+                "ro": "Bucurați-vă de căldura culturală la ora prânzului; expozițiile sunt un refugiu pașnic iarna împotriva vântului rece de pe mare.",
+                "en": "Enjoy the cultural warmth at midday; the exhibitions are a peaceful retreat from the freezing sea wind in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft im Winter spektakuläre Lichter durch die Kirchenfenster; besuchen Sie den Ort kurz vor der frühen Dämmerung.",
+                "hu": "A téli nap alacsony szöge látványos fényeket vet a templom ablakain keresztül; látogassa meg a helyet közvetlenül a korai alkonyat előtt.",
+                "ro": "Soarele jos de iarnă aruncă lumini spectaculoase prin ferestrele bisericii; vizitați locul chiar înainte de amurgul timpuriu.",
+                "en": "The low winter sun casts spectacular light through the church windows; visit the site just before the early twilight begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Sambière",
+                "hu": "Plage de la Sambière",
+                "ro": "Plage de la Sambière",
+                "en": "Plage de la Sambière"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand direkt aus dem Auto; der Blick auf den kalten Atlantik bei Sonnenuntergang ist im Winter einmalig.",
+                "hu": "Élvezze a tengerparti magányt közvetlenül az autóból; a naplementekor látszó hideg Atlanti-óceán látványa télen páratlan élmény.",
+                "ro": "Bucurați-vă de singurătatea plajei direct din mașină; vederea Atlanticului rece la apus este o experiență unică iarna.",
+                "en": "Enjoy the solitude of the beach directly from your car; the view of the cold Atlantic at sunset is a unique winter experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Montfarville",
+                "hu": "Manoir de Montfarville",
+                "ro": "Manoir de Montfarville",
+                "en": "Manoir de Montfarville"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt in der klaren Winterluft besonders scharf gezeichnet; ein kurzer Halt für Panoramafotos bei tiefstehender Sonne lohnt sich.",
+                "hu": "A kúria a tiszta téli levegőben különösen éles kontúrokkal látszik; érdemes megállni egy panorámafotóra az alacsonyan járó nap fényében.",
+                "ro": "Conacul pare conturat foarte clar în aerul rece de iarnă; merită să opriți pentru o fotografie panoramică în lumina soarelui jos.",
+                "en": "The manor appears with very sharp contours in the clear winter air; it's worth stopping for a panoramic photo in the low sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, wenn es gegen 17:00 Uhr dunkel wird; die festliche Beleuchtung im Inneren sorgt für einen warmen Tourabschluss.",
+                "hu": "Zárja itt a napot, amikor 17 óra körül sötétedni kezd; a belső ünnepi fények meleg hangulatot adnak a túra végéhez.",
+                "ro": "Încheiați ziua aici când începe să se întunece, în jurul orei 17:00; luminile festive din interior oferă un final cald turului.",
+                "en": "Finish your day here as it starts to get dark around 5 PM; the festive lighting inside provides a warm conclusion to your tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

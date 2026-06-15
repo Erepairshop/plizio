@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggeli sétát a város kulturális központjának modern helyszínei körül.\n\nDélben merüljön el a regionális történelemben és az interaktív tudományos kiállításokban.\n\nDélután fedezze fel a városalapítók történelmi emlékeit az árnyékos romok között.\n\nZárja a napot a hatalmas botanikus kertben, élvezve a nyugodt természetet és a békét.",
         "ro": "Începeți plimbarea matinală descoperind inima culturală a orașului lângă locații moderne.\n\nLa amiază, scufundați-vă în istoria regională și în expozițiile științifice interactive.\n\nPetreceți după-amiaza explorând rămășițele istorice ale fondatorilor orașului printre ruine.\n\nÎncheiați ziua relaxându-vă în grădinile botanice vaste, bucurându-vă de natura liniștită.",
         "en": "Begin your morning stroll discovering the cultural heart of the city near modern venues.\n\nBy midday, immerse yourself in the regional history and interactive science exhibits.\n\nSpend the afternoon exploring the historical remnants of the city's founders among the ruins.\n\nConclude your day unwinding in the expansive botanical gardens, enjoying the peaceful nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Parkeingang mit einem festen Regenschirm und gutem Schuhwerk.\n\nMittags bieten das Theater und das interaktive Museum Trapiche eine spannende, überdachte Zuflucht vor dem Regen.\n\nNachmittags ist an den Ruinen und im Fuerte-Museum besondere Vorsicht auf nassen, rutschigen Wegen geboten.\n\nAbends im botanischen Garten sind wasserdichte Schuhe Pflicht, aber die feuchte Natur duftet herrlich.",
+            "hu": "A séta a park bejáratánál indul; mindenképp hozzon magával egy masszív esernyőt.\n\nDélben a Színház és a Trapiche Múzeum kiváló, fedett kulturális menedéket nyújt a záporok elől.\n\nDélután a Fuerte-völgy Múzeumnál és a romoknál vigyázzon, mert a vizes kövek nagyon csúszósak lehetnek.\n\nEste a botanikus kertben zárul a nap; a vízálló cipő kötelező a pocsolyák és a sár miatt.",
+            "ro": "Începeți la intrarea în parc cu o umbrelă rezistentă și încălțăminte adecvată.\n\nLa prânz, Teatrul și Muzeul Trapiche oferă un refugiu acoperit, perfect pentru a scăpa de ploaie.\n\nDupă-amiaza, la Muzeul Văii Fuerte și ruine, aveți mare grijă pe drumurile umede și alunecoase.\n\nSeara se încheie în grădina botanică; deși plantele miros minunat, încălțămintea impermeabilă este vitală.",
+            "en": "Start at the park entrance with a sturdy umbrella and appropriate waterproof footwear.\n\nMidday offers an engaging indoor refuge at the Theater and Trapiche Museum while the rain passes.\n\nAfternoon showers mean you must take cautious steps at the Fuerte Museum and Casa Grande ruins.\n\nEvening concludes at the botanical garden; waterproof shoes are essential, but the wet foliage smells amazing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haupteingang Park",
+                "hu": "Park Főbejárat",
+                "ro": "Intrarea Principală",
+                "en": "Main Entrance"
+              },
+              "tip_5lang": {
+                "de": "Treffen Sie sich hier mit einem stabilen Regenschirm; der Eingangsbereich bietet nur begrenzten Schutz vor dem Regen.",
+                "hu": "Találkozzanak itt egy stabil esernyővel; a bejárat környéke csak korlátozott menedéket nyújt az esős séta előtt.",
+                "ro": "Întâlniți-vă aici cu o umbrelă solidă; zona de intrare oferă un adăpost limitat înainte de a începe plimbarea pe ploaie.",
+                "en": "Meet here with a sturdy umbrella; the entrance area offers limited shelter before starting your wet walking tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ingenio Theater",
+                "hu": "Ingenio Színház",
+                "ro": "Teatrul Ingenio",
+                "en": "Ingenio Theater"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im Trockenen; das Foyer ist eine perfekte kulturelle Flucht vor den Schauern.",
+                "hu": "Csodálja meg a modern építészetet száraz helyről; az előcsarnok tökéletes kulturális menedék a záporok elől.",
+                "ro": "Admirați arhitectura modernă din interiorul uscat; foaierul este o evadare culturală perfectă din calea ploii.",
+                "en": "Admire the modern architecture from inside the dry foyer; a perfect cultural escape from the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Interaktives Museum Trapiche",
+                "hu": "Trapiche Interaktív Múzeum",
+                "ro": "Muzeul Interactiv Trapiche",
+                "en": "Trapiche Interactive Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier viel Zeit im Innenbereich; die weitläufigen Galerien halten Sie bei jedem Wetter komplett trocken.",
+                "hu": "Töltsön el itt bőven időt a belső terekben; a tágas galériák minden időjárás esetén teljesen szárazon tartják.",
+                "ro": "Petreceți timp în interior bucurându-vă de exponate; galeriile spațioase vă mențin complet uscat în timpul ploii.",
+                "en": "Spend ample time indoors enjoying the exhibits; the spacious galleries keep you completely dry during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Fuerte-Tals",
+                "hu": "Fuerte-völgy Múzeum",
+                "ro": "Muzeul Văii Fuerte",
+                "en": "Museum of the Fuerte Valley"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die regionale Geschichte drinnen, aber halten Sie Ihre Regenjacke griffbereit für den Weg zwischen den Gebäuden.",
+                "hu": "Fedezze fel a helyi történelmet a fedett falak között, de tartsa kéznél az esőkabátot az épületek közötti átjáráshoz.",
+                "ro": "Explorați istoria regională în interior; păstrați pelerina de ploaie la îndemână la trecerea dintre clădiri.",
+                "en": "Explore regional history indoors, but keep your raincoat handy when transitioning between the different museum buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Casa Grande",
+                "hu": "Casa Grande Romjai",
+                "ro": "Ruinele Casei Mari",
+                "en": "Ruins of Casa Grande"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig auf den nassen Pfaden um die Ruinen; der Regen verleiht dem historischen Ort eine dramatische Stimmung.",
+                "hu": "Óvatosan lépkedjen a romok körüli nedves utakon; az eső különösen drámai hangulatot kölcsönöz a történelmi helyszínnek.",
+                "ro": "Pășiți cu grijă pe cărările umede din jurul ruinelor; ploaia adaugă o atmosferă dramatică acestui sit istoric.",
+                "en": "Walk carefully on the wet paths around the ruins; the moody rain adds a dramatic atmosphere to this historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten B. F. Johnston",
+                "hu": "B. F. Johnston Botanikus Kert",
+                "ro": "Grădina Botanică B. F. Johnston",
+                "en": "B. F. Johnston Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Pflanzen leuchten intensiv, aber bleiben Sie unbedingt auf den befestigten Wegen, um tiefen Schlamm zu meiden.",
+                "hu": "A nedves növények színei élénkebbek, de mindenképp maradjon a kikövezett utakon, hogy elkerülje a mély sarat.",
+                "ro": "Plantele umede arată vibrant, dar asigurați-vă că rămâneți pe aleile pavate pentru a evita noroiul adânc.",
+                "en": "The wet plants look incredibly vibrant, but make sure to stick to the paved paths to avoid stepping into deep mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Parkeingang mit warmen Schichten gegen die kühle Brise.\n\nMittags wärmt es sich angenehm auf, besonders in den Innenräumen des Theaters und des interaktiven Museums.\n\nNachmittags taucht die milde Wintersonne das Fuerte-Museum und die Casa Grande in ein wunderschönes Licht.\n\nDer Abend bricht früh herein; packen Sie sich warm ein für einen kühlen Spaziergang im botanischen Garten zum Sonnenuntergang.",
+            "hu": "Kezdje a reggelt a park bejáratánál meleg, réteges öltözékben a csípős szellő ellen.\n\nDélben kellemesen felmelegszik az idő, különösen a Színház és az Interaktív Múzeum belső tereiben.\n\nDélután a lágy téli napsütés gyönyörűen megvilágítja a Fuerte Múzeumot és a Casa Grande romjait.\n\nAz este korán érkezik; öltözzön fel melegen a botanikus kertben tett hűvös, naplementés sétához.",
+            "ro": "Începeți dimineața la intrarea în parc cu haine groase împotriva brizei reci.\n\nLa prânz vremea se încălzește confortabil, mai ales în interiorul Teatrului și al Muzeului Interactiv.\n\nSoarele de iarnă de după-amiază luminează frumos Muzeul Văii Fuerte și ruinele Casa Grande.\n\nSeara sosește devreme; îmbrăcați-vă bine pentru o plimbare răcoroasă la apus în grădina botanică.",
+            "en": "Begin your morning at the park entrance with warm layers against the crisp winter breeze.\n\nMidday warms up comfortably, especially inside the elegant Theater and Trapiche Interactive Museum.\n\nAfternoon winter sun beautifully illuminates the Fuerte Valley Museum and the historic Casa Grande ruins.\n\nEvening arrives early; bundle up for a chilly but gorgeous sunset stroll through the botanical garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haupteingang Park",
+                "hu": "Park Főbejárat",
+                "ro": "Intrarea Principală",
+                "en": "Main Entrance"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihren kühlen Winterspaziergang hier; eine leichte Jacke ist perfekt für die frische Morgenluft.",
+                "hu": "Kezdje itt a hűvös téli sétát; egy könnyű, de meleg kabát tökéletes a friss, ropogós reggeli levegőhöz.",
+                "ro": "Începeți plimbarea de iarnă aici; o jachetă ușoară este perfectă pentru aerul proaspăt și rece al dimineții.",
+                "en": "Start your cool winter walk right here; a light, warm jacket is perfect for the fresh, crisp morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ingenio Theater",
+                "hu": "Ingenio Színház",
+                "ro": "Teatrul Ingenio",
+                "en": "Ingenio Theater"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das warme Innere des Theaters ein, um das Design zu genießen und der kühlen Morgenluft zu entfliehen.",
+                "hu": "Lépjen be a színház meleg belső terébe, élvezze a dizájnt, és menedéket találjon a hűvös reggeli levegő elől.",
+                "ro": "Pășiți în interiorul cald al teatrului pentru a aprecia designul și a scăpa de aerul rece al dimineții.",
+                "en": "Step inside the theater's warm interior to appreciate its modern design while escaping the crisp morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Interaktives Museum Trapiche",
+                "hu": "Trapiche Interaktív Múzeum",
+                "ro": "Muzeul Interactiv Trapiche",
+                "en": "Trapiche Interactive Museum"
+              },
+              "tip_5lang": {
+                "de": "Die aktiven, beheizten Ausstellungen sind eine großartige Möglichkeit, sich in den kühleren Monaten warm zu halten.",
+                "hu": "Az aktív, fűtött belső kiállítások nagyszerű lehetőséget kínálnak a felmelegedésre a hűvösebb hónapokban.",
+                "ro": "Expozițiile interactive de interior sunt o modalitate excelentă de a vă încălzi și de a vă relaxa în lunile reci.",
+                "en": "The active, heated indoor exhibits are a fantastic way to stay comfortably warm during the cooler winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Fuerte-Tals",
+                "hu": "Fuerte-völgy Múzeum",
+                "ro": "Muzeul Văii Fuerte",
+                "en": "Museum of the Fuerte Valley"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milde winterliche Mittagssonne, während Sie zwischen den historischen Ausstellungen des Museums spazieren.",
+                "hu": "Élvezze a lágy téli déli napsütést, miközben a múzeum történelmi kiállításai között sétál az udvaron.",
+                "ro": "Bucurați-vă de soarele blând de iarnă la prânz în timp ce vă plimbați printre expozițiile istorice ale muzeului.",
+                "en": "Enjoy the mild midday winter sun while walking between the museum's fascinating outdoor historical displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Casa Grande",
+                "hu": "Casa Grande Romjai",
+                "ro": "Ruinele Casei Mari",
+                "en": "Ruins of Casa Grande"
+              },
+              "tip_5lang": {
+                "de": "Das kühlere Wetter macht die Erkundung dieser Außenruinen viel angenehmer als in der drückenden Sommerhitze.",
+                "hu": "A hűvösebb időjárás sokkal kényelmesebbé teszi ezen szabadtéri romok felfedezését, mint a fojtogató nyári hőségben.",
+                "ro": "Vremea mai rece face explorarea acestor ruine în aer liber mult mai confortabilă decât în căldura verii.",
+                "en": "The cooler weather makes exploring these expansive outdoor ruins much more comfortable than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten B. F. Johnston",
+                "hu": "B. F. Johnston Botanikus Kert",
+                "ro": "Grădina Botanică B. F. Johnston",
+                "en": "B. F. Johnston Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Wintersonnenuntergang schafft ein schönes Licht; tragen Sie einen warmen Pullover für die abendliche Kälte.",
+                "hu": "A korai téli naplemente gyönyörű fényeket varázsol; vegyen fel egy meleg pulóvert az esti lehűlés ellen.",
+                "ro": "Apusul timpuriu de iarnă creează o lumină superbă; purtați un pulover gros pentru frigul de seară.",
+                "en": "The early winter sunset creates beautiful golden hour light; ensure you wear a warm sweater for the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros túrát délen az ikonikus plébániánál, mielőtt északra, a múzeumok felé venné az irányt.\n\nDélben haladjon el a kortárs építészet mellett, majd tekerjen be a zöldellő városi oázisba.\n\nDélután tegyen egy hosszabb utat az északi dombokhoz, ahol a regionális kultúra várja.\n\nZárja a napot egy megérdemelt kapaszkodóval a város legjobb természetes kilátójához.",
         "ro": "Începeți traseul de ciclism la sud, la parohia iconică, înainte de a pedala spre complexul educațional.\n\nÎn jurul prânzului, treceți pe lângă teatrul contemporan și intrați în vasta oază urbană.\n\nDupă-amiaza, provocați-vă cu un traseu spre dealurile nordice, unde vă așteaptă arta regională.\n\nTerminați ziua cu o ascensiune plină de satisfacții către cel mai înalt punct de belvedere natural.",
         "en": "Kick off your cycling journey south of the center at the iconic parish, before pedaling to the modern museums.\n\nAround noon, glide past the stunning contemporary theater and navigate the paths of the botanical garden.\n\nAs the afternoon sets in, challenge yourself with a ride to the northern hills for regional art.\n\nFinish the day with a rewarding ascent to the highest natural viewpoint over Los Mochis."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Morgenfahrt beginnt an der Pfarrei; nutzen Sie unbedingt Schutzbleche und auffällige Regenkleidung.\n\nMittags bieten Trapiche und das Theater eine willkommene trockene Zuflucht, während der Regen vorüberzieht.\n\nNachmittags erfordert die Fahrt zum Botanischen Garten und Kulturhaus erhöhte Vorsicht auf den rutschigen Wegen.\n\nAbends ist die Fahrt auf den La Pergola Hügel nass und herausfordernd; prüfen Sie Ihre Bremsen gründlich.",
+            "hu": "A reggeli kerékpározás a Plébániánál indul; a sárvédő és a jól láthatósági esőkabát erősen ajánlott.\n\nDélben a Trapiche és a Színház fedett termeiben megszáradhat és pihenhet, amíg eláll az eső.\n\nDélután a Botanikus Kert és a Kultúrház felé rendkívül óvatosan tekerjen a vizes, csúszós utakon.\n\nEste a La Pergola dombra feljutni nedves aszfalton igazi kihívás; mindenképp ellenőrizze a fékeket.",
+            "ro": "Ciclismul de dimineață începe la Parohie; folosiți neapărat apărători de noroi și o pelerină vizibilă.\n\nLa prânz, Trapiche și Teatrul oferă un adăpost uscat binevenit în timp ce așteptați să treacă ploaia.\n\nDupă-amiaza, drumul spre Grădina Botanică și Casa de Cultură necesită atenție sporită pe aleile alunecoase.\n\nSeara, urcarea pe dealul La Pergola este dificilă pe ploaie; verificați cu mare atenție frânele bicicletei.",
+            "en": "Morning riding starts at the Parish; make sure to use mudguards and wear a high-visibility raincoat.\n\nMidday brings a welcome dry indoor respite at Trapiche and the Theater while the heavy rain passes.\n\nAfternoon cycling to the Botanical Garden and House of Culture requires caution on slick, wet paths.\n\nEvening riding up La Pergola Hill is moody but challenging; ensure your brakes work flawlessly on the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pfarrkirche Unserer Lieben Frau vom Rosenkranz",
+                "hu": "Rózsafüzér Királynője Plébánia",
+                "ro": "Parohia Fecioara Rozariului",
+                "en": "Parish of Our Lady of the Rosary"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser schönen Pfarrei Schutz, falls der Morgenregen zu stark wird; parken Sie das Rad sicher.",
+                "hu": "Keressen menedéket a gyönyörű plébánián, ha a reggeli eső rákezdené; zárja le biztonságosan a kerékpárt.",
+                "ro": "Căutați adăpost în această parohie frumoasă dacă ploaia de dimineață devine prea puternică; asigurați bicicleta.",
+                "en": "Seek shelter inside this beautiful parish if the morning rain gets too heavy; park your bike securely outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Interaktives Museum Trapiche",
+                "hu": "Trapiche Interaktív Múzeum",
+                "ro": "Muzeul Interactiv Trapiche",
+                "en": "Trapiche Interactive Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer Rückzugsort im Innenbereich, um sich abzutrocknen und stundenlang die Ausstellungen zu genießen.",
+                "hu": "Fantasztikus beltéri menedék, ahol megszáradhat, és órákon át élvezheti a lenyűgöző interaktív kiállításokat.",
+                "ro": "Un refugiu fantastic în interior unde vă puteți usca și bucura de expoziții captivante timp de câteva ore.",
+                "en": "A fantastic indoor refuge where you can dry off completely and enjoy engaging exhibits for a couple of hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ingenio Theater",
+                "hu": "Ingenio Színház",
+                "ro": "Teatrul Ingenio",
+                "en": "Ingenio Theater"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und genießen Sie den kulturellen Raum, während Sie auf das Ende der Schauer warten.",
+                "hu": "Parkoljon közel a bejárathoz, és élvezze a belső teret, miközben megvárja az átvonuló záporok végét.",
+                "ro": "Parcați aproape de intrare și bucurați-vă de spațiul cultural în timp ce așteptați să treacă ploile.",
+                "en": "Park near the entrance and enjoy the indoor cultural space while comfortably waiting out any passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten B. F. Johnston",
+                "hu": "B. F. Johnston Botanikus Kert",
+                "ro": "Grădina Botanică B. F. Johnston",
+                "en": "B. F. Johnston Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie unbedingt auf den gepflasterten Radwegen, da die unbefestigten Pfade im Regen extrem schlammig werden.",
+                "hu": "Mindenképp maradjon a kikövezett kerékpárutakon, mivel a burkolatlan ösvények rendkívül sárossá válnak esőben.",
+                "ro": "Rămâneți pe pistele de biciclete pavate, deoarece traseele botanice nepavate devin extrem de noroioase pe ploaie.",
+                "en": "Stick strictly to the main paved cycling paths, as the unpaved botanical trails get extremely muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Conrado Espinoza",
+                "hu": "Conrado Espinoza Kultúrház",
+                "ro": "Casa de Cultură Conrado Espinoza",
+                "en": "Conrado Espinoza House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die trockenen Kunstsammlungen; ein perfekter, gemütlicher Stopp nach einer nassen Fahrt durch die Stadt.",
+                "hu": "Élvezze a száraz művészeti gyűjteményeket; tökéletes és hangulatos megálló egy vizes városi tekerés után.",
+                "ro": "Bucurați-vă de colecțiile de artă în interior; o oprire perfectă și uscată după o plimbare umedă prin oraș.",
+                "en": "Enjoy the indoor art and history collections; a perfectly cozy and dry stop after a wet ride across town."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pergola Hügel",
+                "hu": "La Pergola domb",
+                "ro": "Dealul La Pergola",
+                "en": "La Pergola Hill"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig hinauf, da die Steigung sehr rutschig sein kann; der nasse Ausblick ist einzigartig.",
+                "hu": "Óvatosan tekerjen fel, mert az aszfaltos emelkedő nagyon csúszós lehet; az esős kilátás egyedülállóan szép.",
+                "ro": "Urcați cu grijă, deoarece panta pavată poate fi foarte alunecoasă; priveliștea ploioasă este unică.",
+                "en": "Ride up carefully as the paved incline can be very slippery; the rainy panoramic view of the city is uniquely moody."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Morgenfahrt beginnt an der Pfarrei; tragen Sie winddichte Handschuhe für den Start.\n\nMittags ist das Radfahren angenehm, ergänzt durch gemütliche, warme Stopps bei Trapiche und dem Theater.\n\nNachmittags ist das Treten zum Garten und Kulturhaus im milden Winterlicht absolut perfekt.\n\nAbends auf dem La Pergola Hügel gibt es einen frühen Sonnenuntergang; vergessen Sie Ihre Fahrradlichter nicht.",
+            "hu": "A friss reggeli tekerés a Plébániánál kezdődik; mindenképp viseljen szélálló kesztyűt a hideg ellen.\n\nDélben a kerékpározás kellemes, a Trapiche és a Színház meleg terei pedig tökéletes pihenőt nyújtanak.\n\nDélután a Kert és a Kultúrház felé haladva maximálisan kiélvezheti a lágy, simogató téli napsütést.\n\nEste a La Pergola dombon korai naplemente várja; a fagyos lejtmenethez a jó kerékpárlámpa elengedhetetlen.",
+            "ro": "Plimbarea matinală rece începe la Parohie; purtați mănuși rezistente la vânt pentru confort.\n\nLa prânz, pedalarea este plăcută, cu opriri confortabile și calde la Muzeul Trapiche și Teatru.\n\nDupă-amiaza, drumul spre Grădină și Casa de Cultură este perfect în soarele blând de iarnă.\n\nSeara, dealul La Pergola oferă un apus timpuriu; asigurați-vă că aveți lumini bune la bicicletă.",
+            "en": "A brisk morning ride starts at the Parish; make sure to wear windproof gloves for the cold air.\n\nMidday cycling becomes pleasant, broken up with cozy, warm stops at Trapiche and the Ingenio Theater.\n\nAfternoon pedaling to the Garden and Culture House is absolutely perfect in the mild winter sun.\n\nEvening cycling up La Pergola Hill rewards you with an early sunset; bring bright bike lights for the dark descent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pfarrkirche Unserer Lieben Frau vom Rosenkranz",
+                "hu": "Rózsafüzér Királynője Plébánia",
+                "ro": "Parohia Fecioara Rozariului",
+                "en": "Parish of Our Lady of the Rosary"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre zügige Morgenfahrt hier; der friedliche Innenraum ist ideal, um die Hände aufzuwärmen.",
+                "hu": "Kezdje itt a frissítő reggeli tekerést; a békés belső tér nagyszerű hely a fagyos kezek felmelegítésére.",
+                "ro": "Începeți plimbarea alertă de dimineață aici; interiorul liniștit este un loc minunat pentru a vă încălzi mâinile.",
+                "en": "Start your brisk morning ride here; the peaceful interior is a great place to warm up your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Interaktives Museum Trapiche",
+                "hu": "Trapiche Interaktív Múzeum",
+                "ro": "Muzeul Interactiv Trapiche",
+                "en": "Trapiche Interactive Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad draußen an und genießen Sie die beheizten Ausstellungen während der kühlen Mittagszeit.",
+                "hu": "Zárja le a kerékpárt kint, és élvezze a fűtött belső kiállításokat a csípős déli órákban.",
+                "ro": "Legați bicicleta afară și bucurați-vă de expozițiile interioare confortabile și încălzite la prânz.",
+                "en": "Lock your bike outside and enjoy the comfortable, heated indoor exhibits during the crisp midday temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Ingenio Theater",
+                "hu": "Ingenio Színház",
+                "ro": "Teatrul Ingenio",
+                "en": "Ingenio Theater"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht hebt die moderne Architektur dieses faszinierenden kulturellen Zentrums wunderschön hervor.",
+                "hu": "A tiszta téli fény gyönyörűen kiemeli ennek a lenyűgöző kulturális központnak a modern építészetét.",
+                "ro": "Lumina clară de iarnă evidențiază frumos arhitectura modernă a acestui fascinant centru cultural.",
+                "en": "The clear winter light beautifully highlights the modern architectural details of this cultural hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten B. F. Johnston",
+                "hu": "B. F. Johnston Botanikus Kert",
+                "ro": "Grădina Botanică B. F. Johnston",
+                "en": "B. F. Johnston Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren durch den Garten ist bei milden Wintertemperaturen sehr angenehm; kleiden Sie sich im Zwiebellook.",
+                "hu": "A kerten való átszellőzés rendkívül élvezetes a lágy téli időben; öltözzön rétegesen a kényelemért.",
+                "ro": "Ciclismul prin grădină este foarte plăcut la temperaturile blânde de iarnă; îmbrăcați-vă în straturi.",
+                "en": "Cycling through the garden is highly enjoyable in the mild winter temperatures; make sure to dress in layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Conrado Espinoza",
+                "hu": "Conrado Espinoza Kultúrház",
+                "ro": "Casa de Cultură Conrado Espinoza",
+                "en": "Conrado Espinoza House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Stopp für lokale Kunst; das kühlere Wetter macht die Steigung hierher viel leichter.",
+                "hu": "Hangulatos megálló a helyi művészetért; a hűvösebb idő sokkal könnyebbé teszi a dombon való feljutást.",
+                "ro": "O oprire primitoare pentru arta locală; vremea mai rece face urcarea până aici mult mai ușoară.",
+                "en": "A cozy stop to explore local art; the cooler weather actually makes the uphill approach much easier to pedal."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pergola Hügel",
+                "hu": "La Pergola domb",
+                "ro": "Dealul La Pergola",
+                "en": "La Pergola Hill"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie für den frühen Wintersonnenuntergang hinauf; prüfen Sie Ihr Licht für die kalte, dunkle Abfahrt.",
+                "hu": "Tekerjen fel a korai téli naplementéért; ellenőrizze a lámpákat a hűvös, sötét lejtmenethez.",
+                "ro": "Pedați pentru apusul de iarnă timpuriu; asigurați-vă că luminile merg pentru coborârea rece și întunecată.",
+                "en": "Pedal up for a gorgeous early winter sunset; make sure your bike lights are working for the chilly, dark descent."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a festői autózást az északi kilátópontnál, ahol kora reggeli panoráma nyílik a városra.\n\nDélben hajtson a belvárosba, hogy elmélyedjen a völgy őslakos és gyarmati múltjában.\n\nDélután barangoljon az alapító házának lenyűgöző romjai között a közeli parkolóból.\n\nZárja az utat egy délre tartó vezetéssel, hogy megcsodálja a modern plébániatemplomot.",
         "ro": "Începeți traseul pitoresc la punctul de belvedere nordic pentru vederi panoramice matinale.\n\nConduceți spre centrul orașului la amiază pentru a aprofunda trecutul colonial al văii.\n\nDupă-amiaza, plimbați-vă printre ruinele intrigante ale casei fondatorului, lăsând mașina în centru.\n\nÎncheiați-vă călătoria cu mașina conducând spre sud către parohia modernă și impunătoare.",
         "en": "Start your scenic drive at the northern vantage point for early panoramic city views.\n\nDrive downtown towards midday to delve into the valley's indigenous and colonial past.\n\nIn the afternoon, wander among the intriguing ruins of the founder's house.\n\nWrap up your road trip by driving south to the towering modern parish as the evening comes alive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am La Pergola Hügel; fahren Sie besonders vorsichtig, da die Steigung nass und glatt wird.\n\nMittags bieten das Kulturhaus und das Fuerte-Museum ausgezeichnete trockene, kulturelle Rückzugsorte.\n\nNachmittags sind für die Besuche bei Casa Grande und im Garten unbedingt Regenschirm und Gummistiefel nötig.\n\nAbends an der Pfarrei sollten Sie so nah wie möglich parken, um auf dem Weg zur Tür nicht durchnässt zu werden.",
+            "hu": "A reggel a La Pergola dombon indul; vezessen rendkívül óvatosan, mert az aszfaltos emelkedő csúszós.\n\nDélben a Kultúrház és a Fuerte Múzeum kiváló és teljesen száraz kulturális menedéket nyújt a záporok elől.\n\nDélután a Casa Grande és a Botanikus Kert látogatásához elengedhetetlen a jó esernyő és a vízálló csizma.\n\nEste a Plébániánál próbáljon meg minél közelebb parkolni a bejárathoz, hogy ne ázzon el a sétálás közben.",
+            "ro": "Dimineața începe pe dealul La Pergola; conduceți cu foarte mare grijă, deoarece panta devine alunecoasă.\n\nLa prânz, Casa de Cultură și Muzeul Fuerte oferă refugii culturale excelente și uscate împotriva ploii.\n\nDupă-amiaza, la Casa Grande și Grădina Botanică aveți absolută nevoie de o umbrelă și cizme de ploaie.\n\nSeara se încheie la Parohie; parcați cât mai aproape de intrare pentru a evita să vă udați complet.",
+            "en": "Morning begins at La Pergola Hill; drive carefully as the inclined paved road gets quite slick in the rain.\n\nMidday provides excellent indoor cultural escapes at the House of Culture and Fuerte Valley Museum.\n\nAfternoon visits to Casa Grande and the Botanical Garden absolutely require a sturdy umbrella and boots.\n\nEvening concludes at the Parish; make sure to park close to the entrance to avoid getting soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Pergola Hügel",
+                "hu": "La Pergola domb",
+                "ro": "Dealul La Pergola",
+                "en": "La Pergola Hill"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem vorsichtig hinauf; der Panoramablick aus dem trockenen Auto ist bei Regen sehr dramatisch.",
+                "hu": "Vezessen fel nagyon óvatosan; a száraz autóból elénk táruló esős panoráma rendkívül drámai és hangulatos.",
+                "ro": "Conduceți cu grijă la deal; priveliștea panoramică din mașina uscată este foarte dramatică pe timp de ploaie.",
+                "en": "Drive up the incline carefully as it gets slick; the panoramic view from your dry car is beautifully moody in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Conrado Espinoza",
+                "hu": "Conrado Espinoza Kultúrház",
+                "ro": "Casa de Cultură Conrado Espinoza",
+                "en": "Conrado Espinoza House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und huschen Sie hinein, um die Kunstausstellungen in einer gemütlichen Umgebung zu genießen.",
+                "hu": "Parkoljon közel, és siessen be az épületbe, hogy száraz, barátságos környezetben élvezhesse a művészeti kiállításokat.",
+                "ro": "Parcați aproape de intrare și grăbiți-vă înăuntru pentru a vă bucura de expozițiile de artă într-un mediu confortabil.",
+                "en": "Park close to the entrance and dash inside to enjoy the rich local art exhibits in a completely dry, cozy environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Fuerte-Tals",
+                "hu": "Fuerte-völgy Múzeum",
+                "ro": "Muzeul Văii Fuerte",
+                "en": "Museum of the Fuerte Valley"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie einen Regenschirm im Auto auf für den kurzen Fußweg zu diesem faszinierenden Indoor-Museum.",
+                "hu": "Tartson egy esernyőt az autóban a rövid sétához, amíg beér ebbe a lenyűgöző, fedett regionális múzeumba.",
+                "ro": "Păstrați o umbrelă în mașină pentru scurta plimbare până la acest fascinant muzeu de interior.",
+                "en": "Keep an umbrella handy in your car for the short walk to this fascinating indoor museum detailing regional history."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Casa Grande",
+                "hu": "Casa Grande Romjai",
+                "ro": "Ruinele Casei Mari",
+                "en": "Ruins of Casa Grande"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie wasserdichte Schuhe mit, um das nasse Gelände rund um diese eindrucksvollen historischen Ruinen zu erkunden.",
+                "hu": "Hozzon vízálló cipőt a lenyűgöző történelmi romok körüli nedves, pocsolyás terep felfedezéséhez.",
+                "ro": "Aduceți încălțăminte impermeabilă pentru a explora terenul umed din jurul acestor ruine istorice evocatoare.",
+                "en": "Bring sturdy, waterproof shoes for safely exploring the wet terrain around these evocative historical ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten B. F. Johnston",
+                "hu": "B. F. Johnston Botanikus Kert",
+                "ro": "Grădina Botanică B. F. Johnston",
+                "en": "B. F. Johnston Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das vom Regen erfrischte Grün von den befestigten Wegen aus, aber achten Sie auf große Pfützen.",
+                "hu": "Élvezze az eső áztatta, friss zöld növényzetet a kikövezett utakról, de nagyon vigyázzon a hatalmas pocsolyákra.",
+                "ro": "Bucurați-vă de verdeața proaspătă de pe aleile pavate, dar fiți atenți la bălțile mari de apă.",
+                "en": "Enjoy the lush, rain-freshened greenery strictly from the paved paths, but keep an eye out for unexpectedly large puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Unserer Lieben Frau vom Rosenkranz",
+                "hu": "Rózsafüzér Királynője Plébánia",
+                "ro": "Parohia Fecioara Rozariului",
+                "en": "Parish of Our Lady of the Rosary"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im trockenen Inneren der Pfarrei; das nahe Parken minimiert Ihre Zeit im strömenden Regen.",
+                "hu": "Zárja a napot a plébánia száraz belső terében; a közeli parkolás minimálisra csökkenti az esőben töltött időt.",
+                "ro": "Încheiați ziua în interiorul uscat al parohiei; parcarea în apropiere minimizează timpul petrecut în ploaie.",
+                "en": "End the day in the dry, peaceful interior of this parish; nearby parking absolutely minimizes your time in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am La Pergola Hügel; genießen Sie die klare, kühle Sicht aus dem gut beheizten Auto.\n\nMittags lassen sich das Kulturhaus und das Museum völlig ohne die anstrengende Sommerhitze erkunden.\n\nNachmittags leuchten die Ruinen der Casa Grande und der Botanische Garten wunderschön im sanften Winterlicht.\n\nAbends an der Pfarrei wird es früh dunkel; eine dicke, warme Jacke ist für den kurzen Fußweg extrem wichtig.",
+            "hu": "A reggel a La Pergola dombon indul; élvezze a tiszta, ropogós kilátást a kellemesen fűtött autóból.\n\nDélben a Kultúrház és a Múzeum felfedezése sokkal kényelmesebb a fojtogató nyári hőség nélkül.\n\nDélután a Casa Grande romjait és a Botanikus Kertet varázslatosan világítja meg a lemenő téli nap.\n\nEste a Plébániánál hamar besötétedik; mindenképp hozzon vastag kabátot a hűvös esti sétához.",
+            "ro": "Dimineața începe la dealul La Pergola; bucurați-vă de priveliștea clară și rece din mașina încălzită.\n\nLa prânz, Casa de Cultură și Muzeul sunt perfecte de explorat, scăpând de canicula obositoare de vară.\n\nLumina de după-amiază luminează superb ruinele Casa Grande și Grădina Botanică cu o nuanță aurie.\n\nSeara la Parohie se întunecă repede; luați o haină groasă pentru scurta plimbare prin frig.",
+            "en": "Morning starts at La Pergola Hill; enjoy the crisp, incredibly clear views right from your heated car.\n\nMidday is absolutely perfect for exploring the House of Culture and Museum without the exhausting summer heat.\n\nAfternoon light beautifully illuminates both the Casa Grande ruins and the Botanical Garden with a golden hue.\n\nEvening at the Parish arrives early and dark; make sure to bring a warm winter coat as temperatures drop fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Pergola Hügel",
+                "hu": "La Pergola domb",
+                "ro": "Dealul La Pergola",
+                "en": "La Pergola Hill"
+              },
+              "tip_5lang": {
+                "de": "Die klare Morgenluft sorgt für beste Sicht vom Hügel; Ihre Autoheizung macht den frühen Start komfortabel.",
+                "hu": "A tiszta reggeli levegő hihetetlenül éles kilátást biztosít; az autó fűtése pedig kényelmessé teszi a korai indulást.",
+                "ro": "Aerul proaspăt de dimineață oferă vederi incredibil de clare; încălzirea mașinii face pornirea confortabilă.",
+                "en": "The crisp morning air provides incredibly clear views from the hill; your car heater makes the early start comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Conrado Espinoza",
+                "hu": "Conrado Espinoza Kultúrház",
+                "ro": "Casa de Cultură Conrado Espinoza",
+                "en": "Conrado Espinoza House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterwetter ist absolut ideal, um dieses kulturelle Zentrum ohne die sommerliche Hitze zu erkunden.",
+                "hu": "A lágy téli időjárás tökéletesen alkalmas arra, hogy kimerítő nyári hőség nélkül fedezze fel a kulturális központot.",
+                "ro": "Vremea blândă de iarnă este perfectă pentru a explora acest centru cultural fără căldura epuizantă a verii.",
+                "en": "The mild winter weather is absolutely perfect for exploring this cultural center without the exhausting summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Fuerte-Tals",
+                "hu": "Fuerte-völgy Múzeum",
+                "ro": "Muzeul Văii Fuerte",
+                "en": "Museum of the Fuerte Valley"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen entspannten Besuch; die kühleren Temperaturen machen den Wechsel zwischen den Orten sehr angenehm.",
+                "hu": "Élvezze a kényelmes látogatást; a hűvösebb hőmérséklet nagyon kellemessé teszi a helyszínek közötti autózást és sétát.",
+                "ro": "Bucurați-vă de o vizită confortabilă; temperaturile mai scăzute fac tranziția între obiective foarte plăcută.",
+                "en": "Enjoy a comfortable visit to the museum; the cooler outside temperatures make transitioning between sites very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Casa Grande",
+                "hu": "Casa Grande Romjai",
+                "ro": "Ruinele Casei Mari",
+                "en": "Ruins of Casa Grande"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen gemütlich in der Nachmittagssonne; der Winter ist die beste Zeit für diesen Außenbereich.",
+                "hu": "Fedezze fel a romokat kényelmesen a délutáni napsütésben; a tél egyértelműen a legjobb évszak ehhez a helyszínhez.",
+                "ro": "Explorați ruinele confortabil în soarele de după-amiază; iarna este cel mai bun sezon pentru acest sit în aer liber.",
+                "en": "Explore the ruins comfortably in the afternoon sun; winter is undoubtedly the best season for this huge outdoor site."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten B. F. Johnston",
+                "hu": "B. F. Johnston Botanikus Kert",
+                "ro": "Grădina Botanică B. F. Johnston",
+                "en": "B. F. Johnston Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen späten Spaziergang durch die Gärten; das Licht der goldenen Stunde ist im Winter atemberaubend.",
+                "hu": "Tegyen egy késő délutáni sétát a kertekben; az aranyóra fényei egyszerűen lélegzetelállítóak a téli hónapokban.",
+                "ro": "Faceți o plimbare târzie prin grădini; lumina orei de aur este uimitoare în timpul iernii.",
+                "en": "Take a late afternoon stroll through the beautiful gardens; the golden hour light is simply stunning in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Unserer Lieben Frau vom Rosenkranz",
+                "hu": "Rózsafüzér Királynője Plébánia",
+                "ro": "Parohia Fecioara Rozariului",
+                "en": "Parish of Our Lady of the Rosary"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Pfarrei bei früher Dämmerung; ziehen Sie eine warme Jacke für den kühlen Weg zurück zum Auto an.",
+                "hu": "Látogassa meg a plébániát a korai szürkületben; vegyen fel egy meleg kabátot az autóhoz vezető fagyos sétához.",
+                "ro": "Vizitați parohia la lăsarea întunericului; purtați o haină groasă pentru drumul rece înapoi la mașină.",
+                "en": "Visit this beautiful parish as dusk falls early; ensure you wear a warm coat for the chilly evening walk back to the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

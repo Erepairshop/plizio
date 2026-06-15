@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Aixe-sur-Vienne történelmi szívének felfedezésével és a középkori építészet megcsodálásával. Délben egy pihentető séta várja az ősi római hídhoz, ahonnan festői folyóparti kilátás nyílik. Délután élvezze a családbarát zöldterületeket közvetlenül a vízparton. A napot a nyugati kápolna csendes és meghitt meglátogatása zárja tökéletesen.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Aixe-sur-Vienne, admirând arhitectura medievală. La prânz, faceți o plimbare relaxantă spre vechiul pod roman, oferind vederi pitorești spre râu. După-amiaza, bucurați-vă de spațiile verzi prietenoase cu familia, chiar pe malul apei. Turul se încheie perfect cu o vizită liniștită la capela vestică.",
         "en": "Start your morning exploring the historic heart of Aixe-sur-Vienne, marveling at the medieval architecture. Midday brings a relaxing stroll towards the ancient Roman bridge, offering picturesque river views. In the afternoon, enjoy family-friendly green spaces by the water. The walk wraps up perfectly with a quiet visit to the western chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Tag in der Kirche als trockenen Zufluchtsort. Besuchen Sie den Turm mit Vorsicht auf den nassen Stufen. Die römische Brücke erfordert rutschfestes Schuhwerk. Am nassen Spielplatz kurz verweilen und den Tag in der ruhigen, trockenen Kapelle ausklingen lassen.",
+            "hu": "Kezdje az esős napot a templom száraz menedékében. A torony nedves lépcsőin óvatosan haladjon. A római híd kövein csúszásmentes cipő ajánlott. A vizes játszótéren csak röviden időzzön, majd a napot a kápolna csendes és védett falai között zárja.",
+            "ro": "Începeți ziua ploioasă la biserică, un refugiu uscat. Vizitați turnul cu prudență pe scările umede. Podul roman necesită încălțăminte antiderapantă. Zăboviți puțin la locul de joacă ud și încheiați ziua în capela liniștită și protejată de ploaie.",
+            "en": "Start your rainy day in the church as a dry refuge. Visit the tower with caution on the wet steps. The Roman bridge requires slip-resistant footwear. Keep the playground visit short if muddy, and end your day in the quiet, sheltered chapel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen; bringen Sie einen Regenschirm für den kurzen Fußweg draußen mit.",
+                "hu": "Csodálja meg a belső teret az eső elől menedéket találva; hozzon esernyőt a kinti sétához.",
+                "ro": "Admirați vitraliile feriți de ploaie; luați o umbrelă pentru scurta plimbare pe afară.",
+                "en": "Admire the intricate details while sheltering from the rain; bring an umbrella for the short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jeanne d'Albret Turm",
+                "hu": "Jeanne d'Albret Torony",
+                "ro": "Turnul Jeanne d'Albret",
+                "en": "Jeanne d'Albret Tower"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese historische Festung, aber treten Sie vorsichtig auf die extrem rutschigen nassen Steine.",
+                "hu": "Fedezze fel ezt az erődítményt, de lépkedjen nagyon óvatosan a nedves, csúszós köveken.",
+                "ro": "Explorați această fortificație, dar pășiți cu grijă pe pietrele antice extrem de alunecoase.",
+                "en": "Explore this historic fortification, but step carefully on the ancient stones which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont romain",
+                "hu": "Pont romain",
+                "ro": "Pont romain",
+                "en": "Pont romain"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss; tragen Sie wasserdichte Stiefel, da sich hier tiefe Pfützen bilden.",
+                "hu": "Nézze meg a folyót az ősi építményről; viseljen vízálló cipőt a pocsolyák miatt.",
+                "ro": "Priviți râul de pe acest pod antic; purtați cizme impermeabile deoarece se formează bălți mari.",
+                "en": "View the river from this ancient structure; wear sturdy, waterproof boots as the cobblestones hold puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux Jacques Prévert",
+                "hu": "Aire de Jeux Jacques Prévert",
+                "ro": "Aire de Jeux Jacques Prévert",
+                "en": "Aire de Jeux Jacques Prévert"
+              },
+              "tip_5lang": {
+                "de": "Auch bei nassem Wetter bieten die Bäume etwas Schutz, ein guter Regenmantel ist dennoch Pflicht.",
+                "hu": "A fák adnak némi menedéket a szitáló esőben, de egy jó esőkabát mindenképp szükséges itt.",
+                "ro": "Chiar și pe vreme umedă copacii oferă puțin adăpost, dar o pelerină de ploaie este esențială.",
+                "en": "Even in wet weather, the trees offer some canopy cover, but a good raincoat is essential for this outdoor break."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Vierge et Saint-Jean",
+                "hu": "Chapelle de la Vierge et Saint-Jean",
+                "ro": "Chapelle de la Vierge et Saint-Jean",
+                "en": "Chapelle de la Vierge et Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Ruhe in diesem Heiligtum; ein perfekter trockener Ort, um dem Regen zuzuhören.",
+                "hu": "Találjon békét ebben a szentélyben; tökéletes, száraz hely a pihenésre az esőben.",
+                "ro": "Găsiți liniște în acest sanctuar; un loc uscat perfect pentru a reflecta ascultând ploaia.",
+                "en": "Find peace in this small sanctuary; it's a perfect dry spot to reflect while listening to the rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie frisch in der winterlichen Morgenluft an der Kirche. Genießen Sie die klare Sicht vom Turm. Die römische Brücke kann eisig sein, gehen Sie vorsichtig. Tragen Sie warme Schichten für den Spielplatz und beenden Sie die Tour an der Kapelle vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Indítsa a napot a friss téli levegőn a templomnál. Élvezze a tiszta kilátást a toronyból. A római híd jeges lehet, lépkedjen óvatosan. Öltözzön rétegesen a játszótéri megállóhoz, és érjen a kápolnához a korai, délután 5 órai sötétedés előtt.",
+            "ro": "Începeți în aerul proaspăt de iarnă la biserică. Bucurați-vă de priveliștea clară de la turn. Podul roman poate fi înghețat, pășiți cu grijă. Îmbrăcați-vă gros pentru locul de joacă și ajungeți la capelă înainte de apusul timpuriu de la ora 17:00.",
+            "en": "Start briskly in the crisp winter air at the church. Enjoy clear views from the tower. The Roman bridge can be icy, so step carefully. Dress in warm layers for the playground, and reach the chapel before the early sunset around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche wirkt im Winter besonders friedlich; ziehen Sie sich warm an, alte Steine sind kalt.",
+                "hu": "A templom belseje télen különösen békés; öltözzön melegen, a régi kőfalak hidegek.",
+                "ro": "Interiorul bisericii este deosebit de pașnic iarna; îmbrăcați-vă gros, clădirile din piatră sunt reci.",
+                "en": "The church's solemn interior feels peaceful in winter; bundle up as historic stone buildings stay chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Jeanne d'Albret Turm",
+                "hu": "Jeanne d'Albret Torony",
+                "ro": "Turnul Jeanne d'Albret",
+                "en": "Jeanne d'Albret Tower"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick; tragen Sie Handschuhe, da der Windchill oben sehr stark ist.",
+                "hu": "Élvezze a téli kilátást; viseljen kesztyűt, mert a torony tetején erős a fagyos szél.",
+                "ro": "Bucurați-vă de priveliște; purtați mănuși deoarece vântul rece este puternic în vârf.",
+                "en": "Climb for stark, leafless views of the surroundings; wear gloves since the wind chill is strong at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont romain",
+                "hu": "Pont romain",
+                "ro": "Pont romain",
+                "en": "Pont romain"
+              },
+              "tip_5lang": {
+                "de": "Frost bedeckt oft diese alten Steine; gehen Sie langsam und tragen Sie isolierte Schuhe zur Sicherheit.",
+                "hu": "A köveket gyakran dér fedi a folyó mellett; haladjon lassan, bélelt csizmában a biztonságért.",
+                "ro": "Înghețul acoperă adesea pietrele de lângă râu; mergeți încet și purtați cizme izolate.",
+                "en": "Frost often coats these ancient stones by the river, so walk slowly and wear insulated boots for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux Jacques Prévert",
+                "hu": "Aire de Jeux Jacques Prévert",
+                "ro": "Aire de Jeux Jacques Prévert",
+                "en": "Aire de Jeux Jacques Prévert"
+              },
+              "tip_5lang": {
+                "de": "Kinder können sich hier austoben, bleiben Sie aber in Bewegung, um nicht im Winterwind auszukühlen.",
+                "hu": "A gyerekek itt levezethetik az energiájukat, de maradjon mozgásban a téli szélben.",
+                "ro": "Copiii pot consuma energie aici, dar mișcați-vă pentru a rămâne la cald în briza de iarnă.",
+                "en": "Kids can still burn energy here, but keep moving to stay warm in the brisk winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Vierge et Saint-Jean",
+                "hu": "Chapelle de la Vierge et Saint-Jean",
+                "ro": "Chapelle de la Vierge et Saint-Jean",
+                "en": "Chapelle de la Vierge et Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort; passen Sie Ihren Besuch so ab, dass Sie das schöne, tiefe Winterlicht einfangen.",
+                "hu": "Csendes menedék; időzítse a látogatást úgy, hogy még elcsípje a gyönyörű, alacsony téli délutáni fényeket.",
+                "ro": "O retragere liniștită; vizitați pentru a prinde lumina frumoasă și joasă a după-amiezii de iarnă.",
+                "en": "A quiet retreat offering stillness; time your visit to catch the beautiful, low winter afternoon light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a nyüzsgő központban, mielőtt a fenséges toronyhoz tekerne. Délben haladjon kelet felé a Vienne folyó mentén egy rejtett parti szentélyhez. A délután egy festői útvonalra invitál a régi híd érintésével a város nyugati szélei felé. A napot egy északi irányú, jutalomszámba menő tekerés zárja egy csodálatos vidéki birtoknál.",
         "ro": "Începeți turul cu bicicleta în centrul plin de viață înainte de a pedala spre turnul emblematic. La prânz, mergeți spre est de-a lungul râului Vienne pentru a descoperi un sanctuar ascuns pe mal. După-amiaza vă invită la un traseu pitoresc pe lângă vechiul pod spre marginile vestice ale orașului. Ziua se încheie cu o plimbare plină de satisfacții spre o moșie magnifică din nord.",
         "en": "Kick off your cycling tour in the bustling center before pedaling to the iconic tower. By noon, ride eastward along the Vienne to discover a hidden riverside sanctuary. The afternoon invites a scenic route past the old bridge towards the town's charming western edges. Your day concludes with a rewarding ride north to a magnificent country estate."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zwischen Kirche und Turm. Der Weg zur Arliquet-Kapelle führt über nasse, rutschige Pfade. Die Überquerung der römischen Brücke erfordert guten Halt. Fahren Sie achtsam zur kleineren Kapelle und beenden Sie die Tour in Losmonerie mit fester Regenkleidung.",
+            "hu": "Óvatosan tekerjen a templom és a torony között. Az Arliquet kápolnához vezető út vizes és csúszós lehet. A római hídon való átkelés extra tapadást igényel. Óvatosan haladjon a kisebb kápolna felé, majd zárja a napot Losmonerie-ben, jól záródó esőruházatban.",
+            "ro": "Bicicliți cu atenție între biserică și turn. Drumul spre Capela Arliquet include poteci umede și alunecoase. Traversarea podului roman necesită aderență. Continuați cu prudență spre capela mai mică și încheiați la Losmonerie, având pelerina de ploaie bine fixată.",
+            "en": "Cycle carefully between the church and the tower. The path to Arliquet Chapel features wet, slippery sections. Crossing the Roman bridge requires extra tire grip. Ride cautiously to the smaller chapel, ending at Losmonerie with your rain gear securely fastened."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie im trockenen Kirchenschiff; prüfen Sie Ihre Bremsen für die nassen Straßen.",
+                "hu": "Kezdje a száraz hajóban; ellenőrizze a fékeket a nedves utakra való indulás előtt.",
+                "ro": "Începeți în naosul uscat; asigurați-vă că frânele bicicletei funcționează bine pe drumurile ude.",
+                "en": "Start in the dry nave to admire the architecture; ensure your bike brakes are working well for wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Jeanne d'Albret Turm",
+                "hu": "Jeanne d'Albret Torony",
+                "ro": "Turnul Jeanne d'Albret",
+                "en": "Jeanne d'Albret Tower"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher ab und achten Sie auf die extrem rutschigen Stufen im Regen.",
+                "hu": "Zárja le biztonságosan a biciklit, és vigyázzon a rendkívül csúszós lépcsőkkel az esőben.",
+                "ro": "Legați bicicleta în siguranță și atenție la treptele foarte alunecoase ale turnului.",
+                "en": "Lock your bike securely and watch your step on the slick tower stairs while enjoying this structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame d'Arliquet Chapel",
+                "hu": "Notre-Dame d'Arliquet Kápolna",
+                "ro": "Capela Notre-Dame d'Arliquet",
+                "en": "Notre-Dame d'Arliquet Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich abzutrocknen; nutzen Sie Schutzbleche, um Spritzwasser zu minimieren.",
+                "hu": "Gyönyörű hely a megszáradásra; használjon sárvédőt a biciklin, hogy elkerülje a felverődő vizet.",
+                "ro": "Un loc excelent pentru a vă usca; folosiți apărători de noroi la bicicletă.",
+                "en": "This beautiful sanctuary is a great place to dry off; use mudguards on your bike to keep the splash down."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont romain",
+                "hu": "Pont romain",
+                "ro": "Pont romain",
+                "en": "Pont romain"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab und schieben Sie; nasses Kopfsteinpflaster ist für Radfahrer sehr gefährlich.",
+                "hu": "Szálljon le és tolja a biciklit; a nedves macskakő rendkívül veszélyes a kerékpárosokra.",
+                "ro": "Descălecați și împingeți bicicleta; piatra cubică udă este periculoasă pentru bicicliști.",
+                "en": "Dismount and walk your bike across; wet cobblestones are notoriously dangerous for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Vierge et Saint-Jean",
+                "hu": "Chapelle de la Vierge et Saint-Jean",
+                "ro": "Chapelle de la Vierge et Saint-Jean",
+                "en": "Chapelle de la Vierge et Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Halt; tragen Sie helle, reflektierende Kleidung für die schlechte Sicht im Regen.",
+                "hu": "Védett megálló; viseljen fényvisszaverő ruházatot a rossz látási viszonyok miatt.",
+                "ro": "O oprire adăpostită; purtați haine reflectorizante din cauza vizibilității reduse.",
+                "en": "A sheltered stop to appreciate heritage; wear bright, reflective clothing for low-visibility rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Losmonerie",
+                "hu": "Château de Losmonerie",
+                "ro": "Château de Losmonerie",
+                "en": "Château de Losmonerie"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Regen mystisch; behalten Sie Ihre Regenkleidung bei der Außenbesichtigung an.",
+                "hu": "A birtok az esőben is lenyűgöző; tartsa magán a vízálló ruházatot a kinti séta során.",
+                "ro": "Domeniul arată dramatic în ploaie; păstrați pelerina pe dumneavoastră explorând exteriorul.",
+                "en": "The grand estate looks moody in the rain; keep your waterproofs on while exploring the outdoor grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die kühle Fahrt an der Kirche und wärmen Sie sich beim Turmaufstieg auf. Der Weg zur Arliquet-Kapelle bietet klare Luft. Achten Sie auf Eis auf der römischen Brücke. Das letzte Stück nach Losmonerie erfordert thermische Radkleidung vor dem Sonnenuntergang.",
+            "hu": "Indítsa a hűvös tekerést a templomnál, majd melegedjen be a torony megmászásával. Az Arliquet kápolnához vezető út tiszta, friss levegőt kínál. Figyeljen a jégre a római hídon. A Losmonerie-ig hátralévő szakaszhoz meleg kerékpáros ruházat kell a korai sötétedés előtt.",
+            "ro": "Începeți plimbarea răcoroasă la biserică, apoi încălziți-vă urcând în turn. Drumul spre Capela Arliquet oferă aer curat. Atenție la gheața de pe podul roman. Ultima secțiune spre Losmonerie necesită echipament termic înainte de apusul de la ora 17:00.",
+            "en": "Start the chilly ride at the church, then warm up by climbing the tower. The ride to Arliquet Chapel offers crisp, clear air. Watch for ice on the Roman bridge. The final stretch to Losmonerie requires thermal cycling gear before the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist kühl, behalten Sie also Ihre wärmenden Radschichten an, während Sie die Kunst bewundern.",
+                "hu": "A belső tér hűvös, így tartsa magán a meleg kerékpáros rétegeket odabent is.",
+                "ro": "Interiorul este răcoros, păstrați straturile termice de ciclism în timp ce admirați arta.",
+                "en": "The interior is cool, so keep your cycling base layers on while appreciating the historic art."
+              }
+            },
+            {
+              "name": {
+                "de": "Jeanne d'Albret Turm",
+                "hu": "Jeanne d'Albret Torony",
+                "ro": "Turnul Jeanne d'Albret",
+                "en": "Jeanne d'Albret Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf, aber oben erwarten Sie beißende Winde; Winter-Radhandschuhe sind ratsam.",
+                "hu": "A mászás felmelegít, de a tetőn metsző szél fúj; a vastag kesztyű kifejezetten ajánlott.",
+                "ro": "Urcușul vă va încălzi, dar vântul este tăios sus; purtați mănuși termice de ciclism.",
+                "en": "The climb warms you up, but expect biting winds at the top; thermal cycling gloves are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame d'Arliquet Chapel",
+                "hu": "Notre-Dame d'Arliquet Kápolna",
+                "ro": "Capela Notre-Dame d'Arliquet",
+                "en": "Notre-Dame d'Arliquet Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein atemberaubender Ort in der winterlichen Landschaft; perfekt für heißen Tee aus der Thermoskanne.",
+                "hu": "Lenyűgöző hely a téli tájban; tökéletes egy rövid megállóra egy forró teával a termoszából.",
+                "ro": "Un loc uimitor în peisajul de iarnă; perfect pentru o scurtă pauză cu ceai fierbinte dintr-un termos.",
+                "en": "A stunning spot in the stark winter landscape; perfect for a quick break to drink hot tea from a thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont romain",
+                "hu": "Pont romain",
+                "ro": "Pont romain",
+                "en": "Pont romain"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Blitzeis auf den nassen Steinen am Wasser; es ist am sichersten, das Rad hier zu schieben.",
+                "hu": "Vigyázzon a fekete jéggel a víz melletti macskaköveken; a legbiztonságosabb, ha itt tolja a biciklit.",
+                "ro": "Atenție la polei pe pietrele de lângă apă; este mai sigur să descălecați și să mergeți pe jos.",
+                "en": "Beware of black ice on the cobblestones near the water; it is safest to dismount and walk your bike here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Vierge et Saint-Jean",
+                "hu": "Chapelle de la Vierge et Saint-Jean",
+                "ro": "Chapelle de la Vierge et Saint-Jean",
+                "en": "Chapelle de la Vierge et Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier Ihre Fahrradlichter, da die Nachmittagssonne im Winter sehr schnell sinkt.",
+                "hu": "Ellenőrizze a kerékpár lámpáit, mivel a délutáni nap télen nagyon gyorsan lemegy.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt încărcate, deoarece soarele de după-amiază apune repede.",
+                "en": "Admire the peaceful setting; ensure your bike lights are fully charged as the afternoon sun drops quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Losmonerie",
+                "hu": "Château de Losmonerie",
+                "ro": "Château de Losmonerie",
+                "en": "Château de Losmonerie"
+              },
+              "tip_5lang": {
+                "de": "Die blattlosen Bäume enthüllen die Architektur; packen Sie sich warm ein, da die Temperaturen fallen.",
+                "hu": "A lombtalan fák felfedik az építészetet; öltözzön fel melegen, ahogy a hőmérséklet gyorsan esik.",
+                "ro": "Copacii fără frunze dezvăluie arhitectura; îmbrăcați-vă bine deoarece temperaturile scad rapid aici.",
+                "en": "The leafless trees reveal the full architecture; wrap up warmly as temperatures drop fast out here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autózás a történelmi toronynál indul, majd a város spirituális szívében folytatódik. Délben kelet és dél felé haladva fenséges helyi kastélyokat és kápolnákat fedezhet fel. A délutáni vezetés gyors átmeneteket kínál az olyan ókori műemlékek között, mint a római híd. Ezt az átfogó túrát az északi nagy kastély naplemente előtti felfedezésével zárja.",
         "ro": "Plimbarea cu mașina începe la turnul istoric înainte de a pătrunde în inima spirituală a orașului. La prânz, mergeți mai spre est și sud pentru a descoperi castele locale maiestuoase. Conducerea de după-amiază oferă tranziții rapide între reperele antice, cum ar fi podul roman. Încheiați turul dumneavoastră cuprinzător explorând marele castel nordic înainte de apus.",
         "en": "Your drive starts at the historical tower before dipping into the spiritual heart of the town. Midday takes you further east and south to uncover majestic local castles and historic riverside chapels. Afternoon driving offers swift transitions between ancient landmarks like the Roman bridge. Conclude your comprehensive tour exploring the grand northern château before sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher vom Turm zur Kirche und genießen Sie das beheizte Auto. Die Strecke nach Arliquet und Château Marillaux ist auch bei Regen reizvoll. Vorsicht beim Parken nahe der römischen Brücke. Beenden Sie den Nachmittag an der Kapelle und in Losmonerie.",
+            "hu": "Vezessen biztonságosan a toronytól a templomig a fűtött autóban. Az Arliquet és a Château Marillaux felé vezető út esőben is festői. Óvatosan parkoljon a római hídnál. Zárja a nedves délutánt a kápolnánál és a lenyűgöző Château de Losmonerie-nél.",
+            "ro": "Conduceți în siguranță de la turn la biserică, bucurându-vă de mașina încălzită. Traseul spre Arliquet și Château Marillaux este pitoresc și pe ploaie. Atenție la parcare lângă podul roman. Încheiați după-amiaza la capelă și la grandiosul Château de Losmonerie.",
+            "en": "Drive safely from the tower to the church, enjoying the heated car. The route to Arliquet and Château Marillaux is scenic even in the rain. Be cautious parking near the Roman bridge. End the wet afternoon at the chapel and the grand Château de Losmonerie."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jeanne d'Albret Turm",
+                "hu": "Jeanne d'Albret Torony",
+                "ro": "Turnul Jeanne d'Albret",
+                "en": "Jeanne d'Albret Tower"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Schirm für den kurzen Weg vom Auto bereit; der Steinboden ist extrem nass und rutschig.",
+                "hu": "Készítsen elő esernyőt a rövid sétához; a kőpadló bent nagyon csúszós lehet nedvesen.",
+                "ro": "Păstrați o umbrelă pentru drumul de la mașină; podelele din piatră din interior sunt foarte alunecoase.",
+                "en": "Keep an umbrella handy for the short walk from the car; the stone floors inside can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie die Kirche, eine perfekte Flucht vor dem unerbittlichen Regen.",
+                "hu": "Parkoljon közel, és lépjen be a nyugodt térbe, amely tökéletes menedék a szakadó eső elől.",
+                "ro": "Parcați aproape și intrați pentru a admira interiorul calm, o evadare perfectă din ploaie.",
+                "en": "Park close by and step inside to admire the calm interior, a perfect escape from the relentless downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame d'Arliquet Chapel",
+                "hu": "Notre-Dame d'Arliquet Kápolna",
+                "ro": "Capela Notre-Dame d'Arliquet",
+                "en": "Notre-Dame d'Arliquet Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der umliegende Park ist matschig, genießen Sie das Äußere von den gepflasterten Wegen und bleiben Sie trocken.",
+                "hu": "A park saras lehet, így a burkolt utakról csodálja meg a kápolnát, bent pedig maradjon szárazon.",
+                "ro": "Parcul din jur este noroios, bucurați-vă de exterior de pe aleile pavate și stați uscați înăuntru.",
+                "en": "The park is muddy, so enjoy the exterior from the paved paths and stay dry inside the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Marillaux",
+                "hu": "Château Marillaux",
+                "ro": "Château Marillaux",
+                "en": "Château Marillaux"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die elegante Fassade bequem aus dem Fahrzeug oder unter einem Schirm im weichen Gras.",
+                "hu": "Csodálja meg az elegáns homlokzatot kényelmesen az autóból, mivel a talaj nagyon puha lesz.",
+                "ro": "Admirați fațada elegantă din confortul mașinii sau sub o umbrelă, deoarece terenul va fi moale.",
+                "en": "Appreciate the elegant facade from the comfort of your vehicle or under an umbrella, as the grounds will be soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont romain",
+                "hu": "Pont romain",
+                "ro": "Pont romain",
+                "en": "Pont romain"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steine sind tückisch; genießen Sie den Flussblick sicher, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "A nedves kövek veszélyesek; biztonságos távolságból nézze meg a folyót, majd térjen vissza az autóba.",
+                "ro": "Pietrele ude sunt înșelătoare; admirați râul dintr-un punct sigur înainte de a reveni în mașina caldă.",
+                "en": "The wet stones are treacherous, so admire the river views from a safe vantage point before returning to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Vierge et Saint-Jean",
+                "hu": "Chapelle de la Vierge et Saint-Jean",
+                "ro": "Chapelle de la Vierge et Saint-Jean",
+                "en": "Chapelle de la Vierge et Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt, bei dem Sie direkt vom Auto zum geschützten Eingang eilen können.",
+                "hu": "Gyors megálló, ahol az autóból egyenesen a fedett bejárathoz futhat, anélkül, hogy nagyon elázna.",
+                "ro": "O oprire rapidă unde puteți fugi din mașină la intrarea adăpostită fără a vă uda prea mult.",
+                "en": "A quick, easy stop where you can dash from the car to the sheltered entrance without getting too soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Losmonerie",
+                "hu": "Château de Losmonerie",
+                "ro": "Château de Losmonerie",
+                "en": "Château de Losmonerie"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innenräume oder genießen Sie die dramatische, regnerische Aussicht aus dem Auto.",
+                "hu": "Fedezze fel a belső tereket, vagy csak élvezze a drámai, eső áztatta birtok látványát a száraz autóból.",
+                "ro": "Explorați interioarele sau pur și simplu bucurați-vă de priveliștile dramatice ale domeniului bătut de ploaie.",
+                "en": "Explore the grand interiors if open, or simply enjoy the dramatic, rain-swept estate views from the driest spots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Turm und nutzen Sie die Autoheizung. Die klare Luft lässt Arliquet und Château Marillaux spektakulär wirken. Achten Sie auf Frost nahe der Brücke. Beenden Sie den Tag in Losmonerie, bevor die frühe winterliche Dunkelheit hereinbricht.",
+            "hu": "Kezdje a téli autózást a toronynál, a fűtött utastérben melegedve. A tiszta levegőben Arliquet és a Château Marillaux látványa lenyűgöző. Figyeljen a fagyra a hídnál. Zárja a napot Losmonerie-ben a kora téli sötétedés előtt.",
+            "ro": "Începeți la turn, folosind încălzirea mașinii. Aerul curat face ca Arliquet și Château Marillaux să arate spectaculos. Atenție la zonele înghețate de lângă pod. Terminați ziua la Losmonerie înainte să se lase întunericul de iarnă.",
+            "en": "Start your winter drive at the tower, keeping warm in the car. The crisp air makes Arliquet and Château Marillaux look spectacular. Watch for frosty patches near the bridge. Finish your day at Losmonerie before the early winter darkness falls around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jeanne d'Albret Turm",
+                "hu": "Jeanne d'Albret Torony",
+                "ro": "Turnul Jeanne d'Albret",
+                "en": "Jeanne d'Albret Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist toll, aber der Steinturm ist ungeheizt; tragen Sie einen dicken Wintermantel.",
+                "hu": "A kilátás lenyűgöző, de a kőtorony fűtetlen; vegyen fel vastag télikabátot, mielőtt kiszáll az autóból.",
+                "ro": "Priveliștile sunt uimitoare, dar turnul de piatră nu este încălzit; purtați o haină groasă de iarnă.",
+                "en": "The views are stunning, but the stone tower is unheated; wear a thick winter coat before leaving the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Winterkälte; behalten Sie Ihre Schichten auch im Inneren an.",
+                "hu": "A vastag falak megtartják a téli hideget, így tartsa magán a meleg rétegeket odabent is.",
+                "ro": "Pereții groși mențin frigul iernii, deci păstrați hainele calde în timp ce admirați detaliile.",
+                "en": "The thick walls hold the winter chill, so keep your layers on while admiring the intricate religious details inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame d'Arliquet Chapel",
+                "hu": "Notre-Dame d'Arliquet Kápolna",
+                "ro": "Capela Notre-Dame d'Arliquet",
+                "en": "Notre-Dame d'Arliquet Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten freie Sicht; Vorsicht vor vereisten Stellen auf dem Parkplatz.",
+                "hu": "A csupasz fák akadálytalan kilátást nyújtanak; vigyázzon a jeges foltokra a parkolóban.",
+                "ro": "Copacii goi oferă vederi neobstrucționate; atenție la peticele de gheață din parcare.",
+                "en": "The bare winter trees offer unobstructed views; be careful of icy patches in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Marillaux",
+                "hu": "Château Marillaux",
+                "ro": "Château Marillaux",
+                "en": "Château Marillaux"
+              },
+              "tip_5lang": {
+                "de": "Ein malerischer Halt im harten Winterlicht; perfekt für Fotos, ohne das warme Auto lange zu verlassen.",
+                "hu": "Festői megálló a téli fényben; tökéletes fotózáshoz anélkül, hogy sokáig kellene a hidegben lennie.",
+                "ro": "O oprire pitorească superbă în lumina iernii; perfectă pentru fotografii fără a părăsi mașina mult timp.",
+                "en": "A picturesque stop that looks beautiful in the stark winter light; perfect for photography without leaving the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont romain",
+                "hu": "Pont romain",
+                "ro": "Pont romain",
+                "en": "Pont romain"
+              },
+              "tip_5lang": {
+                "de": "Die Flussbrise senkt die Temperaturen deutlich; genießen Sie einen zügigen Spaziergang mit Mütze und Handschuhen.",
+                "hu": "A folyami szél erősen csökkenti a hőérzetet; tegyen egy gyors sétát a hídon sapkában és kesztyűben.",
+                "ro": "Briza râului scade mult temperatura; bucurați-vă de o plimbare scurtă purtând mănuși și căciulă.",
+                "en": "The river breeze drops the temperature significantly; enjoy a brisk walk on the bridge with gloves and a hat."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Vierge et Saint-Jean",
+                "hu": "Chapelle de la Vierge et Saint-Jean",
+                "ro": "Chapelle de la Vierge et Saint-Jean",
+                "en": "Chapelle de la Vierge et Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort, der im Winter besonders friedlich ist; besuchen Sie ihn, solange es noch hell ist.",
+                "hu": "Elszigetelt hely, amely télen extra békés; látogassa meg, amíg a délutáni nap még ad egy kis fényt.",
+                "ro": "Un loc izolat, deosebit de pașnic iarna; vizitați-l cât soarele de după-amiază mai oferă lumină.",
+                "en": "A serene, isolated spot that feels extra peaceful in winter; visit while the afternoon sun still provides light."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Losmonerie",
+                "hu": "Château de Losmonerie",
+                "ro": "Château de Losmonerie",
+                "en": "Château de Losmonerie"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger letzter Halt; timen Sie Ihre Ankunft für das goldene Licht vor dem frühen Sonnenuntergang.",
+                "hu": "Egy fenséges utolsó megálló; időzítse az érkezést úgy, hogy lássa az aranyórát a korai naplemente előtt.",
+                "ro": "O oprire finală magnifică; sosiți la timp pentru a vedea lumina aurie înainte de apus.",
+                "en": "The grand estate is a magnificent final stop; time your arrival perfectly to see the golden hour light before sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

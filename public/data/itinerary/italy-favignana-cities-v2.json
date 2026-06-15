@@ -137,6 +137,168 @@
         "hu": "A reggel Favignana szívében indul, a Chiesa Madre és a Sant'Anna csendes bájának felfedezésével. Délben a hatalmas Ex stabilimento Florio várja, ahol elmerülhet a tonhalászat történelmében. Délután a közeli Praia homokos partján pihenhet. Ahogy közeledik az este, a Castello Santa Caterina felé vezető túra lenyűgöző, Egadi-szigetekre nyíló naplemente-panorámával jutalmazza meg önt.",
         "ro": "Dimineața începe în inima orașului, admirând Chiesa Madre și farmecul liniștit al bisericii Sant'Anna. La prânz, vizitați imensa fabrică Florio pentru a descoperi istoria pescuitului de ton. După-amiaza vă relaxați pe țărmurile nisipoase de la Praia, foarte aproape de centru. Spre seară, o drumeție la Castello Santa Caterina vă răsplătește cu apusuri uimitoare peste arhipelagul Egadi.",
         "en": "Morning begins in the vibrant heart of Favignana, admiring the Chiesa Madre and enjoying the quiet charm of Sant'Anna. Midday takes you to the immense Ex stabilimento Florio, delving deep into the island's historical tuna fishing roots. In the afternoon, you'll relax by the sandy shores of Praia right near town. As evening approaches, a hike up to Castello Santa Caterina rewards you with stunning sunset views across the Egadi archipelago."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in den Kirchen im Zentrum, um trocken zu bleiben. Mittags flüchten Sie vor den Schauern in das riesige Florio-Museum, um die Geschichte der Insel zu erkunden. Am Nachmittag trotzen Sie dem Wetter für einen kurzen Spaziergang zum Strand Praia. Beenden Sie den Tag mit einer vorsichtigen, rutschigen Wanderung zum Castello in wasserfesten Schuhen.",
+            "hu": "Kezdje az esős reggelt a központ templomaiban, ahol szárazon maradhat. Délben meneküljön a záporok elől a hatalmas Florio múzeumba, és merüljön el a sziget történelmében. Délután tegyen egy rövid sétát a Praia strandra, és nézze a drámai hullámokat. Zárja a napot egy óvatos, csúszós túrával a Santa Caterina kastélyhoz, stabil, vízálló cipőt viselve.",
+            "ro": "Începeți dimineața ploioasă în bisericile centrale pentru a rămâne uscat. La prânz, refugiați-vă de averse în uriașul muzeu Florio pentru a descoperi istoria insulei. După-amiaza, faceți o scurtă plimbare până la plaja Praia pentru a vedea valurile dramatice. Încheiați cu o drumeție atentă și alunecoasă spre Castelul Santa Caterina, purtând încălțăminte impermeabilă.",
+            "en": "Start your rainy morning in the central churches to stay dry. Midday, escape the downpours inside the vast Florio museum and dive into the island's history. In the afternoon, brave a short walk to Praia beach to watch the dramatic waves crash. Wrap up with a careful, slippery hike up to Castello Santa Caterina, wearing sturdy waterproof boots for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Madre Maria Santissima Immacolata",
+                "hu": "Chiesa Madre Maria Santissima Immacolata",
+                "ro": "Chiesa Madre Maria Santissima Immacolata",
+                "en": "Chiesa Madre Maria Santissima Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Architektur dieser Hauptkirche und bleiben Sie dabei sicher vor dem ständigen Morgenregen geschützt.",
+                "hu": "Csodálja meg a főtemplom gyönyörű építészetét, miközben teljesen szárazon marad az imádkozópadok között a reggeli eső elől.",
+                "ro": "Admirați arhitectura frumoasă a acestei biserici principale, rămânând complet uscat la interior, protejat de ploaia de dimineață.",
+                "en": "Admire the beautiful architecture of this main church while staying completely dry from the heavy morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Anna",
+                "hu": "Sant'Anna",
+                "ro": "Sant'Anna",
+                "en": "Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese ruhige, historische Kirche, die einen wunderbar friedlichen und trockenen Zufluchtsort vor den Schauern bietet.",
+                "hu": "Fedezze fel ezt a csendes, történelmi templomot, amely békés és biztosan száraz menedéket nyújt a kiszámíthatatlan záporok idején.",
+                "ro": "Explorați această biserică istorică liniștită, care oferă un sanctuar pașnic și uscat de aversele imprevizibile de afară.",
+                "en": "Explore this quiet, historic church which offers a peaceful and dry sanctuary from the unpredictable coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex stabilimento Florio Museo del Mare",
+                "hu": "Ex stabilimento Florio Museo del Mare",
+                "ro": "Ex stabilimento Florio Museo del Mare",
+                "en": "Ex stabilimento Florio Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Stunden damit, die faszinierenden Ausstellungen zum Thunfischfang im riesigen, überdachten Innenbereich zu erkunden.",
+                "hu": "Töltsön órákat a lenyűgöző tonhalhalászati kiállítások felfedezésével ebben a hatalmas fedett térben, míg kint szakad az eső.",
+                "ro": "Petreceți ore întregi explorând expozițiile fascinante despre pescuitul tonului în acest spațiu interior masiv, departe de ploaie.",
+                "en": "Spend hours exploring the fascinating tuna-fishing exhibits in this massive indoor space while the rain pours safely outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia",
+                "hu": "Praia",
+                "ro": "Praia",
+                "en": "Praia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen, stürmischen Wellen an diesem zentralen Strand, aber halten Sie wegen der starken Böen Ihren Regenschirm gut fest.",
+                "hu": "Nézze meg a drámai, viharos hullámokat ezen a központi strandon, de a szél miatt fogja erősen az esernyőjét vagy viseljen esőkabátot.",
+                "ro": "Urmăriți valurile dramatice și furtunoase de pe această plajă centrală, dar țineți bine umbrela din cauza rafalelor de vânt puternice.",
+                "en": "Watch the dramatic, stormy waves crash against the shore from this central beach, but keep a firm grip on your umbrella in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Santa Caterina",
+                "hu": "Castello Santa Caterina",
+                "ro": "Castello Santa Caterina",
+                "en": "Castello Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den stimmungsvollen Panoramablick von der Festung, aber achten Sie extrem auf Ihre Schritte auf den nassen, rutschigen Steinpfaden.",
+                "hu": "Élvezze a borongós, eső áztatta panorámát az erődből, de lépkedjen rendkívül óvatosan a nedves és csúszós kőösvényeken felfelé.",
+                "ro": "Bucurați-vă de priveliștile panoramice mohorâte de la fortăreață, dar pășiți cu mare grijă pe cărările de piatră extrem de alunecoase.",
+                "en": "Enjoy the moody, rain-swept panoramic views from the fortress, but tread very carefully on the wet, slippery stone paths to the top."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen klaren, ruhigen Wintermorgen und erkunden Sie die Kirchen ohne die Sommermassen. Mittags tauchen Sie im Florio-Museum in die Geschichte ein, ein toller Ort zum Aufwärmen. Am Nachmittag spazieren Sie zügig am Praia-Strand entlang und atmen die frische Winterluft. Steigen Sie früh zum Castello auf, um den atemberaubenden Sonnenuntergang gegen 17 Uhr in warmen Schichten zu erleben.",
+            "hu": "Élvezze a friss, csendes téli reggelt, és fedezze fel a történelmi templomokat a nyári tömeg nélkül. Délben ismerje meg a helyi örökséget a Florio múzeumban, ahol jól fel is melegedhet. Délután tegyen egy tempós sétát a Praia strandon a tiszta téli levegőben. Induljon korán a Santa Caterina kastélyhoz egy extra meleg rétegben, hogy elcsípje a lenyűgöző, 17 óra körüli naplementét.",
+            "ro": "Bucurați-vă de o dimineață de iarnă proaspătă, explorând bisericile istorice fără aglomerația de vară. La prânz, descoperiți patrimoniul local la muzeul Florio, un loc excelent pentru a vă încălzi. După-amiaza, faceți o plimbare vioaie pe plaja Praia, bucurându-vă de aerul curat. Urcați devreme la Castelul Santa Caterina în haine groase pentru a prinde apusul uimitor în jur de ora 17:00.",
+            "en": "Enjoy a crisp, quiet winter morning exploring the town's historic churches without the summer crowds. Midday, delve into local heritage at the Florio museum, a great place to warm up. In the afternoon, take a brisk stroll along Praia beach, enjoying the clear winter air. Head up to Castello Santa Caterina early to catch the breathtaking sunset around 5 PM, wearing extra warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Madre Maria Santissima Immacolata",
+                "hu": "Chiesa Madre Maria Santissima Immacolata",
+                "ro": "Chiesa Madre Maria Santissima Immacolata",
+                "en": "Chiesa Madre Maria Santissima Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Kirche im ruhigen Wintermorgenlicht, ein perfekter Ort zum ersten Aufwärmen an einem kalten Tag.",
+                "hu": "Csodálja meg a templom részleteit a csendes téli reggeli fényben, ami tökéletes hely egy kis felmelegedésre a hideg utcák után.",
+                "ro": "Admirați detaliile bisericii în lumina liniștită a dimineții de iarnă, un loc perfect pentru a vă încălzi inițial într-o zi rece.",
+                "en": "Admire the intricate details of the church in the quiet winter morning light, a perfect spot to warm up initially on a chilly day."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Anna",
+                "hu": "Sant'Anna",
+                "ro": "Sant'Anna",
+                "en": "Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die tiefe Ruhe dieser historischen Stätte in der Nebensaison, wunderbar geschützt vor dem kalten und beißenden Winterwind.",
+                "hu": "Élje át e történelmi helyszín mélységes nyugalmát a holtszezonban, vastag falai közt védve a csípős és hideg téli széltől.",
+                "ro": "Experimentați liniștea profundă a acestui sit istoric în extrasezon, minunat adăpostit de vântul rece și aspru de iarnă.",
+                "en": "Experience the profound tranquility of this historic site during the off-season, safely sheltered from the brisk, biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex stabilimento Florio Museo del Mare",
+                "hu": "Ex stabilimento Florio Museo del Mare",
+                "ro": "Ex stabilimento Florio Museo del Mare",
+                "en": "Ex stabilimento Florio Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die industrielle Vergangenheit der Insel in den angenehm beheizten Innenräumen dieses wirklich riesigen Museums.",
+                "hu": "Ismerje meg a sziget ipari múltját, miközben élvezi ennek a hatalmas múzeumnak a kellemesen fűtött és kényelmes belső tereit.",
+                "ro": "Aflați despre trecutul industrial al insulei în timp ce vă bucurați de spațiile interioare plăcut încălzite ale acestui muzeu uriaș.",
+                "en": "Learn about the island's industrial past while enjoying the comfortably heated indoor spaces of this vast and fascinating museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia",
+                "hu": "Praia",
+                "ro": "Praia",
+                "en": "Praia"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang am verlassenen Winterstrand in der klaren Meeresluft, aber ziehen Sie eine gute, dicke Windjacke an.",
+                "hu": "Tegyen egy tempós sétát az elhagyatott téli strandon, belélegezve a friss tengeri levegőt, de legyen vastag széldzseki önön.",
+                "ro": "Faceți o plimbare alertă pe plaja pustie de iarnă, respirând aerul proaspăt al mării, dar purtați neapărat o geacă de vânt groasă.",
+                "en": "Take a brisk walk on the deserted winter beach, breathing in the crisp sea air, but keep a heavy windbreaker securely zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Santa Caterina",
+                "hu": "Castello Santa Caterina",
+                "ro": "Castello Santa Caterina",
+                "en": "Castello Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie früh hinauf für einen spektakulären Wintersonnenuntergang über dem Meer, mit Thermokleidung für den extrem kalten Gipfel nach 17 Uhr.",
+                "hu": "Túrázzon fel korán a látványos téli naplementéért a tenger felett, meleg thermo öltözéket viselve a hideg csúcson a 17 órás sötétedéskor.",
+                "ro": "Urcați devreme pentru a vedea un apus spectaculos de iarnă peste mare, purtând straturi termice groase pentru vârful rece după ora 17:00.",
+                "en": "Hike up early to witness a spectacular winter sunset over the sea, making sure to wear thermal layers for the freezing peak after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpáros kalandja a Chiesa Madre-nél indul, mielőtt a lenyűgöző Florio múzeumba tekerne. Délben dél felé veszi az irányt, Calamoni hívogató sziklás öbleihez. A délutánt a Lido Burrone kiterjedt homokos partján és kiváló létesítményeiben élvezheti. Végül egy esti tekerés a sziget nyugati végébe felfedi a Piscina Approdo di Ulisse varázslatos természetes medencéit a naplementében.",
         "ro": "Aventura pe bicicletă începe la Chiesa Madre, urmată de o vizită la fascinantul muzeu Florio. La prânz, pedalați spre sud către golfurile stâncoase primitoare de la Calamoni. După-amiaza este petrecută bucurându-vă de nisipul fin și facilitățile de la Lido Burrone. În cele din urmă, o plimbare de seară spre vest dezvăluie piscinele naturale magice de la Piscina Approdo di Ulisse.",
         "en": "Your cycling adventure starts at the central Chiesa Madre before pedaling to the fascinating Florio museum to uncover local heritage. By midday, you are riding south towards the inviting rocky coves of Calamoni. The afternoon is spent enjoying the expansive sands and facilities at Lido Burrone. Finally, an evening ride to the far west unveils the magical natural pools of Piscina Approdo di Ulisse as the day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour mit einem trockenen Stopp an der Hauptkirche. Mittags parken Sie das Rad und suchen ausgiebig Schutz im Florio-Museum. Nachmittags fahren Sie mit einem robusten Regenponcho vorsichtig an der Küste nach Calamoni und Lido Burrone. Beenden Sie die Tour an der Piscina Approdo di Ulisse, und achten Sie auf die rutschigen Küstenwege.",
+            "hu": "Kezdje az esős biciklitúrát egy száraz megállóval a főtemplomnál. Délben parkolja le a bringát, és keressen hosszabb menedéket a hatalmas Florio múzeumban. Délután óvatosan tekerjen a part mentén Calamoni és a Lido Burrone felé, megbízható esőponcsót viselve. Zárja az utat a Piscina Approdo di Ulisse-nél, vigyázva a csúszós, nedves parti ösvényeken.",
+            "ro": "Începeți turul ploios cu bicicleta cu o oprire uscată la biserica principală. La prânz, parcați bicicleta și adăpostiți-vă în imensul muzeu Florio. După-amiaza, pedalați cu grijă de-a lungul coastei spre Calamoni și Lido Burrone, purtând un poncho de ploaie robust. Încheiați la Piscina Approdo di Ulisse, având grijă pe potecile de coastă umede și alunecoase.",
+            "en": "Kick off your rainy cycling tour with a dry stop at the beautiful main church. Midday, park your bike and take extended shelter in the massive Florio museum, learning about local traditions. In the afternoon, ride carefully along the coast to Calamoni and Lido Burrone, wearing a sturdy rain poncho. Conclude at Piscina Approdo di Ulisse, taking care on the slippery, wet coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Madre Maria Santissima Immacolata",
+                "hu": "Chiesa Madre Maria Santissima Immacolata",
+                "ro": "Chiesa Madre Maria Santissima Immacolata",
+                "en": "Chiesa Madre Maria Santissima Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie in diesem architektonischen Juwel hervorragenden Schutz vor dem morgendlichen Nieselregen, bevor Sie weiterradeln.",
+                "hu": "Találjon kiváló menedéket a reggeli szitáló eső elől ebben az építészeti gyöngyszemben, mielőtt folytatná a tekerést a nedves utakon.",
+                "ro": "Găsiți un adăpost excelent de burnița de dimineață în interiorul acestei bijuterii arhitecturale înainte de a continua să pedalați.",
+                "en": "Find excellent shelter from the morning drizzle inside this architectural gem before continuing your ride on the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex stabilimento Florio Museo del Mare",
+                "hu": "Ex stabilimento Florio Museo del Mare",
+                "ro": "Ex stabilimento Florio Museo del Mare",
+                "en": "Ex stabilimento Florio Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Fahrrad draußen im Regen und genießen Sie stundenlange, trockene Erkundungen der Geschichte im geschützten Inneren.",
+                "hu": "Hagyja a bringát kint az esőben, és élvezze az órákig tartó száraz, beltéri felfedezést a tonhalhalászat történetéről.",
+                "ro": "Lăsați bicicleta afară în ploaie și bucurați-vă de ore de explorare uscată a istoriei pescuitului de ton la interiorul protejat.",
+                "en": "Leave your bike safely outside in the rain and enjoy hours of dry, indoor exploration detailing the fascinating tuna-fishing history."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamoni",
+                "hu": "Calamoni",
+                "ro": "Calamoni",
+                "en": "Calamoni"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die regnerische Küste vom Sattel aus und bremsen Sie sehr sanft, da der nasse Asphalt extrem rutschig wird.",
+                "hu": "Figyelje meg a borongós, eső áztatta partvidéket a nyeregből, ügyelve arra, hogy finoman fékezzen, mert a nedves aszfalt nagyon csúszik.",
+                "ro": "Observați coasta ploioasă din șa, asigurându-vă că frânați foarte ușor, deoarece asfaltul umed devine extrem de alunecos.",
+                "en": "Observe the moody, rain-swept coastline from the saddle, ensuring you brake gently as the wet pavement can become extremely slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Burrone",
+                "hu": "Lido Burrone",
+                "ro": "Lido Burrone",
+                "en": "Lido Burrone"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die dramatischen Wellen am Strand; tragen Sie auf dem Rad unbedingt eine wasserdichte Jacke, um die Küstenwinde abzublocken.",
+                "hu": "Nézze meg az amúgy nyugodt strandon becsapódó hullámokat; tekerés közben viseljen vízálló kabátot a hideg parti szelek ellen.",
+                "ro": "Vedeți valurile dramatice de pe plajă; purtați neapărat o jachetă impermeabilă pe bicicletă pentru a bloca vânturile reci de coastă.",
+                "en": "See the dramatic waves crashing on the usually calm beach; wear a waterproof jacket while riding to block the biting coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Approdo di Ulisse",
+                "hu": "Piscina Approdo di Ulisse",
+                "ro": "Piscina Approdo di Ulisse",
+                "en": "Piscina Approdo di Ulisse"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie den Regen im Naturpool, aber seien Sie extrem vorsichtig, wenn Sie Ihr Fahrrad über die sehr rutschigen Felsen schieben.",
+                "hu": "Csodálja meg a természetes medencét verő esőt, de legyen rendkívül óvatos, ha a bringát tolnia kell a nagyon csúszós sziklákon.",
+                "ro": "Minunați-vă de ploaia care lovește piscina naturală, dar fiți extrem de atenți când împingeți bicicleta pe stâncile foarte alunecoase.",
+                "en": "Marvel at the heavy rain hitting this natural pool, but be extremely careful pushing your bike on the highly slippery and wet rocks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour in der klaren Morgenluft an der friedlichen Kirche. Mittags wärmen Sie sich bei einer Pause vom kalten Fahrtwind im umfassenden Florio-Museum auf. Am Nachmittag genießen Sie die Fahrt auf leeren Straßen nach Calamoni und Lido Burrone in der tiefstehenden Wintersonne. Beenden Sie Ihre Radtour an der Piscina Approdo di Ulisse weit vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Kezdje a téli túrát a friss reggeli levegőn, a békés központi templomnál. Délben tartson egy kis szünetet a hidegben tekerésben, és melegedjen fel az átfogó Florio múzeumban. Délután élvezze az üres utakat Calamoni és a Lido Burrone felé az alacsonyan járó téli napsütésben. Fejezze be a bringázást a Piscina Approdo di Ulisse-nél jóval a korai, 17 órás naplemente előtt.",
+            "ro": "Începeți plimbarea de iarnă în aerul dimineții la biserica pașnică. La prânz, luați o pauză de la pedalat în frig vizitând muzeul Florio pentru a vă încălzi. După-amiaza, bucurați-vă de pedalatul pe drumuri goale spre Calamoni și Lido Burrone în soarele de iarnă. Terminați călătoria la Piscina Approdo di Ulisse cu mult înainte de apusul de la ora 17:00.",
+            "en": "Start your winter ride in the crisp morning air, stopping first at the peaceful central church. Midday, take a break from cycling in the cold by visiting the comprehensive Florio museum to warm up. In the afternoon, enjoy riding along empty roads to Calamoni and Lido Burrone in the bright, low winter sun. Finish your cycling journey at Piscina Approdo di Ulisse well before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Madre Maria Santissima Immacolata",
+                "hu": "Chiesa Madre Maria Santissima Immacolata",
+                "ro": "Chiesa Madre Maria Santissima Immacolata",
+                "en": "Chiesa Madre Maria Santissima Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese friedliche Kirche, ein perfekter Ort, um Ihre Winterschichten nach den ersten kalten Metern auf dem Rad anzupassen.",
+                "hu": "Csodálja meg ezt a derűs templomot, mely tökéletes hely a téli rétegek igazítására az első fagyos méterek megtétele után a bringán.",
+                "ro": "Admirați această biserică senină, un loc perfect pentru a vă ajusta straturile de iarnă după primii metri reci parcurși pe bicicletă.",
+                "en": "Admire this serene church, a perfect spot to adjust your winter layers after warming up from the first chilly bit of morning cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex stabilimento Florio Museo del Mare",
+                "hu": "Ex stabilimento Florio Museo del Mare",
+                "ro": "Ex stabilimento Florio Museo del Mare",
+                "en": "Ex stabilimento Florio Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die fesselnde Geschichte der Insel und genießen Sie im Inneren eine dringend nötige Pause vom beißenden Winterwind.",
+                "hu": "Merüljön el a sziget történetében, miközben bent élvezi a jól megérdemelt pihenőt és felmelegedést a csípős téli ellenszél után.",
+                "ro": "Cufundați-vă în istoria insulei, bucurându-vă în interior de o pauză atât de necesară și de încălzire de la vântul tăios de iarnă.",
+                "en": "Immerse yourself in the island's captivating history while enjoying a much-needed, warm indoor break from the biting winter headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamoni",
+                "hu": "Calamoni",
+                "ro": "Calamoni",
+                "en": "Calamoni"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an der Küste vorbei und genießen Sie mit warmen Winterhandschuhen den Kontrast der dunklen See zu den völlig leeren Straßen.",
+                "hu": "Tekerjen a part mentén, és jó meleg téli kesztyűben élvezze a sötét tenger és a teljesen üres, békés utak lenyűgöző kontrasztját.",
+                "ro": "Pedalați pe coastă, bucurându-vă în mănuși groase de iarnă de contrastul dintre marea întunecată și drumurile complet goale și pașnice.",
+                "en": "Cycle past the beautiful coastal stretch, enjoying the striking contrast of dark winter seas and empty roads while wearing warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Burrone",
+                "hu": "Lido Burrone",
+                "ro": "Lido Burrone",
+                "en": "Lido Burrone"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an diesem jetzt verlassenen Strand; tragen Sie beim Radeln unbedingt eine absolut winddichte Jacke gegen die eisige Meeresbrise.",
+                "hu": "Álljon meg az amúgy forgalmas, de most kihalt strandon; tekerés közben viseljen vastag, szélálló kabátot a jeges tengeri szél miatt.",
+                "ro": "Opriți-vă la această plajă acum pustie; purtați neapărat o jachetă complet rezistentă la vânt în timp ce pedalați contra brizei înghețate.",
+                "en": "Stop at this normally busy beach, now beautifully deserted; make sure you wear a heavy windproof jacket for the freezing sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Approdo di Ulisse",
+                "hu": "Piscina Approdo di Ulisse",
+                "ro": "Piscina Approdo di Ulisse",
+                "en": "Piscina Approdo di Ulisse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Felslandschaft, bevor Sie früh zurückradeln, um nicht in der eisigen, gefährlichen Dunkelheit nach 17 Uhr fahren zu müssen.",
+                "hu": "Szívja magába a sziklás táj szépségét, majd tekerjen vissza korán, hogy elkerülje az 17 óra utáni fagyos és veszélyes sötétséget az utakon.",
+                "ro": "Admirați peisajul stâncos înainte de a pedala înapoi devreme, pentru a evita să mergeți în întunericul înghețat și periculos de după ora 17:00.",
+                "en": "Take in the rocky landscape before pedaling back early to absolutely avoid riding your bike in the freezing, dangerous dark after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós túrája a történelmi Florio múzeumban indul, majd könnyedén felhajthat a Castello Santa Caterina-hoz a pazar reggeli kilátásért. Délben átszeli a szigetet a Piscina Approdo di Ulisse természetes medencéihez. A délutánt strandolással töltheti, előbb sznorkelezve Calamoninál, majd Lido Burrone homokján pihenve. Zárja a napot a városba visszatérve a csendes Sant'Anna esti meglátogatásával.",
         "ro": "Începeți turul auto la istoricul muzeu Florio, apoi navigați ușor spre Castello Santa Caterina pentru vederi panoramice de dimineață. Prânzul vă duce peste insulă la uimitoarele piscine naturale de la Piscina Approdo di Ulisse. Petreceți după-amiaza explorând plajele, prima dată la Calamoni, apoi la Lido Burrone. Încheiați ziua înapoi în oraș cu o vizită liniștită de seară la biserica Sant'Anna.",
         "en": "Kick off your driving tour at the historic Florio museum, then easily navigate up to Castello Santa Caterina for sweeping morning views. Midday takes you across the island to the stunning natural pools of Piscina Approdo di Ulisse. Spend your afternoon beach-hopping, first snorkeling at Calamoni, then lounging on the sands of Lido Burrone. Conclude the trip back in town with a peaceful evening visit to Sant'Anna."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre bequeme Fahrt an Regentagen direkt am riesigen Florio-Museum, wo Sie im Trockenen bleiben. Mittags navigieren Sie sicher zum Castello und warten Schauer im Auto ab. Nachmittags fahren Sie die stürmische Küste nach Piscina Approdo, Calamoni und Lido Burrone hinab und beobachten die Wellen aus dem warmen Auto. Beenden Sie die Fahrt an der historischen Kirche Sant'Anna.",
+            "hu": "Kezdje a kényelmes esős napi autózást egyenesen a hatalmas Florio múzeumnál, teljesen szárazon maradva bent. Délben navigáljon fel biztonságosan a Santa Caterina kastélyhoz, és várja ki a záporokat az autóban. Délután kövesse a drámai, viharos partvonalat a Piscina Approdo, Calamoni és a Lido Burrone felé, a hullámokat a meleg járműből figyelve. Zárja a vezetést a városban a történelmi Sant'Anna templomnál.",
+            "ro": "Începeți plimbarea confortabilă de zi ploioasă direct la imensul muzeu Florio, stând uscat la interior. La prânz, navigați în siguranță până la Castelul Santa Caterina, așteptând să treacă aversele în mașină. După-amiaza, urmați coasta furtunoasă spre Piscina Approdo, Calamoni și Lido Burrone, privind valurile din vehiculul cald. Încheiați drumul înapoi în oraș, la biserica istorică Sant'Anna.",
+            "en": "Start your comfortable rainy day drive directly at the enormous Florio museum, staying completely dry indoors. Midday, navigate safely up to Castello Santa Caterina, waiting out passing showers in your car before stepping out. In the afternoon, trace the dramatic, stormy coastline down to Piscina Approdo, Calamoni, and Lido Burrone, viewing the crashing waves mainly from your warm vehicle. End your drive back in town at the historic Sant'Anna church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ex stabilimento Florio Museo del Mare",
+                "hu": "Ex stabilimento Florio Museo del Mare",
+                "ro": "Ex stabilimento Florio Museo del Mare",
+                "en": "Ex stabilimento Florio Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und verbringen Sie den regnerischen Morgen damit, die riesigen, trockenen Innenausstellungen bequem zu erkunden.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, és töltse az esős reggelt a hatalmas, száraz beltéri kiállítások kényelmes felfedezésével.",
+                "ro": "Parcați foarte aproape de intrare și petreceți dimineața ploioasă explorând confortabil expozițiile interioare uriașe și uscate.",
+                "en": "Park right near the entrance and spend your rainy morning comfortably exploring the massive, totally dry indoor history exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Santa Caterina",
+                "hu": "Castello Santa Caterina",
+                "ro": "Castello Santa Caterina",
+                "en": "Castello Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr vorsichtig auf der nassen Auffahrt und springen Sie nur zwischen den schweren Regenschauern für atemberaubende Fotos aus dem Auto.",
+                "hu": "Vezessen nagyon óvatosan a nedves felhajtón, és csak a heves esőzések között ugorjon ki a meleg autóból borongós fotókat készíteni.",
+                "ro": "Conduceți foarte atent pe drumul umed și ieșiți din mașina caldă doar între aversele grele pentru a face fotografii uimitoare.",
+                "en": "Drive very carefully on the wet, winding approach, and dash out of your warm car only between rain showers to capture stunning photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Approdo di Ulisse",
+                "hu": "Piscina Approdo di Ulisse",
+                "ro": "Piscina Approdo di Ulisse",
+                "en": "Piscina Approdo di Ulisse"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie diesen Naturpool sicher durch die beschlagenen Scheiben des Autos; betreten Sie die extrem rutschigen Felsen nur ohne Regen.",
+                "hu": "Figyelje meg ezt a természetes medencét biztonságosan a bepárásodott ablakokon át; csak akkor lépjen a nagyon csúszós sziklákra, ha nem esik.",
+                "ro": "Observați această piscină naturală în siguranță prin geamurile aburite; pășiți pe stâncile extrem de alunecoase doar dacă ploaia se oprește.",
+                "en": "Observe this natural pool safely through the fogged car windows; step onto the extremely slick rocks only if the heavy rain fully stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamoni",
+                "hu": "Calamoni",
+                "ro": "Calamoni",
+                "en": "Calamoni"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des stürmischen Meeres, ohne nass zu werden, und kurbeln Sie das Fenster nur für ein schnelles Foto im Trockenen herunter.",
+                "hu": "Élvezze a viharos tenger látványát az autó kényelméből, és csak egy gyors, szárazból lőtt fotó erejéig húzza le az ablakot az esőben.",
+                "ro": "Bucurați-vă de vederea mărilor furtunoase din confortul mașinii, coborând geamul doar pentru o fotografie rapidă, rămânând complet uscat.",
+                "en": "Enjoy the sight of stormy seas hitting the rocks without getting soaked, rolling down the window just enough for a quick, dry photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Burrone",
+                "hu": "Lido Burrone",
+                "ro": "Lido Burrone",
+                "en": "Lido Burrone"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die veränderte Sandbucht bei wildem Wetter; ein perfekter Autostopp, bei dem Sie den gemütlich warmen Wagen gar nicht verlassen müssen.",
+                "hu": "Nézze meg az eső áztatta homokos öblöt; ez egy tökéletes autós megálló, ahol még csak el sem kell hagynia a kényelmesen meleg járművet.",
+                "ro": "Vedeți golful de nisip transformat de ploaie; o oprire auto perfectă unde nici măcar nu trebuie să părăsiți vehiculul confortabil de cald.",
+                "en": "See the sandy bay transformed by the wild, wet weather; a perfect quick car stop where you don't even need to leave your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Anna",
+                "hu": "Sant'Anna",
+                "ro": "Sant'Anna",
+                "en": "Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Autotour im Zentrum, parken Sie bequem nahe der ruhigen Kirche und genießen Sie einen trockenen, friedlichen Abschluss drinnen.",
+                "hu": "Zárja az autós túrát a városban, parkoljon kényelmesen a templom közelében, és élvezze a száraz, békés befejezést a falakon belül.",
+                "ro": "Încheiați-vă turul cu mașina în centru, parcând confortabil lângă biserică și bucurându-vă de un final uscat și pașnic în interior.",
+                "en": "End your driving tour in town, parking easily near this quiet church to enjoy a completely dry, peaceful moment of reflection indoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die kurzen Wintertage für eine Fahrt und starten Sie im faszinierenden, warmen Florio-Museum. Mittags fahren Sie zum Castello Santa Caterina für atemberaubende Panoramablicke ohne Schwitzen. Am Nachmittag cruisen Sie an der verlassenen Winterküste von Piscina Approdo über Calamoni bis Lido Burrone entlang. Kehren Sie zur Kirche Sant'Anna zurück, bevor der frühe Sonnenuntergang die Insel in Dunkelheit hüllt.",
+            "hu": "Hozza ki a legtöbbet a rövid téli napokból egy festői autózással, kezdve a lenyűgöző Florio múzeumnál, ahol kellemes meleg van. Délben hajtson fel a Santa Caterina kastélyhoz a lélegzetelállító panorámáért anélkül, hogy megizzadna. Délután cirkáljon végig a gyönyörűen kietlen téli partvonalon a Piscina Approdotól Calamoni és a Lido Burrone felé. Térjen vissza a Sant'Anna templomhoz, mielőtt a korai naplemente fagyos sötétségbe borítja a szigetet.",
+            "ro": "Profitați la maximum de zilele scurte de iarnă cu o plimbare pitorească, începând cu muzeul Florio, unde este plăcut și cald. La prânz, conduceți până la Castelul Santa Caterina pentru vederi panoramice uimitoare. După-amiaza, navigați de-a lungul coastei pustii de iarnă, de la Piscina Approdo la Calamoni și Lido Burrone. Întoarceți-vă la biserica Sant'Anna înainte ca apusul devreme să cufunde insula în întuneric.",
+            "en": "Make the most of the short winter days with a scenic drive, starting at the fascinating Florio museum where it's pleasantly warm. Midday, drive up to Castello Santa Caterina for breathtaking, crisp panoramic views without breaking a sweat. In the afternoon, cruise along the beautifully desolate winter coastline from Piscina Approdo to Calamoni and Lido Burrone. Head back to the central Sant'Anna church before the early sunset plunges the island into chilly darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ex stabilimento Florio Museo del Mare",
+                "hu": "Ex stabilimento Florio Museo del Mare",
+                "ro": "Ex stabilimento Florio Museo del Mare",
+                "en": "Ex stabilimento Florio Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Tag drinnen mit lokaler Historie und nutzen Sie die angenehme Wärme des Museums an einem kühlen, frischen Wintermorgen.",
+                "hu": "Kezdje a napot bent a helyi történelem felfedezésével, maximálisan kihasználva a múzeum melegét egy csípős, friss téli reggelen.",
+                "ro": "Începeți-vă ziua la interior cu istoria locală, profitând la maximum de căldura plăcută a muzeului într-o dimineață răcoroasă de iarnă.",
+                "en": "Start your day indoors learning local history, taking full advantage of the museum's pleasant warmth on a chilly, crisp winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Santa Caterina",
+                "hu": "Castello Santa Caterina",
+                "ro": "Castello Santa Caterina",
+                "en": "Castello Santa Caterina"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Straße für unglaubliche Fernsicht in der klaren Winterluft hoch, aber bringen Sie unbedingt einen dicken Mantel für den Wind mit.",
+                "hu": "Vezessen fel a hihetetlenül tiszta téli levegő nyújtotta kilátásért, de a kocsiból kiszállva vigyen magával egy vastag téli kabátot a csúcsra.",
+                "ro": "Conduceți pe drum pentru o vizibilitate uimitoare în aerul clar de iarnă, dar aduceți neapărat o haină foarte groasă pentru vântul de pe vârf.",
+                "en": "Drive the road up for incredible visibility in the crisp winter air, but absolutely bring a thick, warm coat for the windy summit outside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Approdo di Ulisse",
+                "hu": "Piscina Approdo di Ulisse",
+                "ro": "Piscina Approdo di Ulisse",
+                "en": "Piscina Approdo di Ulisse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe dieser Naturschönheit, drehen Sie im Auto die Heizung auf und genießen Sie die felsige Küste in völliger winterlicher Einsamkeit.",
+                "hu": "Parkoljon le, csavarja fel a fűtést az autóban, és élvezze a drámai sziklás partot és a tengert a teljes, békés téli magányban.",
+                "ro": "Parcați aproape, dați căldura la maximum în mașină și bucurați-vă de coasta stâncoasă dramatică în solitudine totală și pașnică de iarnă.",
+                "en": "Park close by, turn the car heater up, and easily enjoy the dramatic, rocky coastline in total, peaceful winter solitude from your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamoni",
+                "hu": "Calamoni",
+                "ro": "Calamoni",
+                "en": "Calamoni"
+              },
+              "tip_5lang": {
+                "de": "Cruisen Sie an den dunklen, schönen Wintergewässern der Küste vorbei und halten Sie den Innenraum des Autos behaglich warm, wenn es abkühlt.",
+                "hu": "Cirkáljon a partvonal sötét, gyönyörű téli vizei mellett, kellemesen melegen tartva az autó utasterét, ahogy a késő délután hűlni kezd.",
+                "ro": "Navigați pe lângă apele de iarnă frumoase și întunecate, păstrând interiorul mașinii confortabil de cald pe măsură ce după-amiaza se răcește.",
+                "en": "Cruise past the dark, beautifully bleak winter waters of this shoreline, keeping the car interior toasty warm as the afternoon rapidly cools."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Burrone",
+                "hu": "Lido Burrone",
+                "ro": "Lido Burrone",
+                "en": "Lido Burrone"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz aus dem warmen Auto auf den weiten, leeren Sand, um die eisige Meeresbrise zu spüren, bevor Sie sich schnell wieder aufwärmen.",
+                "hu": "Lépjen ki egy pillanatra a fűtött autóból a hatalmas, üres homokba, érezze a jeges tengeri szellőt, majd gyorsan húzódjon vissza a melegbe.",
+                "ro": "Ieșiți scurt din mașina caldă pe nisipul vast pentru a simți briza înghețată a mării înainte de a vă retrage rapid la căldură.",
+                "en": "Step out briefly from the warm car onto the vast, empty sands to feel the freezing sea breeze before quickly retreating to the heated interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Anna",
+                "hu": "Sant'Anna",
+                "ro": "Sant'Anna",
+                "en": "Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese friedliche Kirche unbedingt kurz vor 17 Uhr, um ihr beleuchtetes Inneres zu sehen, bevor die frühe Winternacht hereinbricht.",
+                "hu": "Látogassa meg ezt a békés templomot röviddel 17 óra előtt, hogy kényelmesen megcsodálja a belsejét, mielőtt a korai téli sötétség leszáll.",
+                "ro": "Vizitați această biserică liniștită chiar înainte de ora 17:00 pentru a admira interiorul confortabil înainte de lăsarea serii de iarnă.",
+                "en": "Visit this peaceful church just before 5 PM to comfortably admire its interior before the early, freezing winter nightfall completely sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

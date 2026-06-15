@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Monestir de Santa Cecília nyugodt meglátogatásával, majd túrázzon fel a központi csúcsok felé. Délben elérje a Sant Jeroni csúcsát és az l'Eco Superior akusztikáját. A délután tele van drámai geológiai formációkkal, mint a Roca Plana dels Llamps és az l'Albarda Castellana. Fejezze be túráját a Monestir de Sant Benet csendes spiritualitásával.",
         "ro": "Începeți dimineața cu o vizită la Monestir de Santa Cecília, înainte de a urca spre vârfurile centrale. La prânz ajungeți pe vârful Sant Jeroni și la acustica unică a l'Eco Superior. După-amiaza este plină de formațiuni geologice dramatice, precum Roca Plana dels Llamps. Încheiați-vă drumeția accidentată cu spiritualitatea liniștită a Monestir de Sant Benet.",
         "en": "Start the morning with a serene visit to Monestir de Santa Cecília before hiking up towards the central peaks. Midday brings you to the summit of Sant Jeroni and the unique acoustics of l'Eco Superior. The afternoon is filled with dramatic geological formations like Roca Plana dels Llamps and l'Albarda Castellana. End your rugged hike with the quiet spirituality of Monestir de Sant Benet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit tief hängenden Wolken über Montserrat. Vormittags bieten die Klöster Schutz vor den Schauern, während die Landschaft in mystischen Nebel gehüllt ist. Mittags suchen wir Zuflucht in den steinernen Arkaden. Nachmittags fordern die nassen Pfade volle Konzentration. Am Abend reflektiert der nasse Stein das sanfte Licht, was eine meditative Stille erzeugt.",
+            "hu": "A nap alacsonyan szálló felhőkkel indul a Montserrat felett. Délelőtt a kolostorok nyújtanak menedéket a záporok elől, miközben a táj misztikus ködbe burkolózik. Délben a kőárkádok alatt pihenünk. Délután a nedves ösvények teljes koncentrációt igényelnek a csúszásveszély miatt. Este a vizes sziklák visszaverik a lágy fényeket, különleges, meditatív csendet teremtve.",
+            "ro": "Ziua începe cu nori joși deasupra Montserratului. Dimineața, mănăstirile oferă adăpost împotriva ploii, în timp ce peisajul este învăluit într-o ceață mistică. La prânz, ne odihnim sub arcadele de piatră. După-amiaza, potecile umede necesită concentrare maximă din cauza riscului de alunecare. Seara, stânca udă reflectă lumina difuză, creând o liniște meditativă.",
+            "en": "The day begins with low-hanging clouds over Montserrat. In the morning, the monasteries provide shelter from showers while the landscape is shrouded in mystical mist. At noon, we find refuge under stone arches. In the afternoon, wet paths require full concentration due to slippery conditions. In the evening, the wet stone reflects soft lights, creating a unique, meditative silence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monestir de Santa Cecília",
+                "hu": "Monestir de Santa Cecília",
+                "ro": "Monestir de Santa Cecília",
+                "en": "Monestir de Santa Cecília"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die modernen Glasfenster im Inneren, während der Regen gegen die alten Mauern peitscht; das Kirchendach bietet perfekten Schutz für die erste Pause.",
+                "hu": "Csodáld meg a modern üvegablakokat, miközben az eső a régi falakat veri; a templombelső tökéletes menedék az első pihenőhöz a zuhé elől.",
+                "ro": "Admirați vitraliile moderne din interior în timp ce ploaia bate în zidurile vechi; interiorul bisericii oferă adăpostul perfect pentru prima pauză.",
+                "en": "Admire the modern stained glass inside while the rain lashes against the ancient walls; the church interior provides perfect shelter for your first break."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jeroni",
+                "hu": "Sant Jeroni",
+                "ro": "Sant Jeroni",
+                "en": "Sant Jeroni"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Gipfel verschwindet oft im Nebel; tragen Sie wasserfeste Schuhe mit gutem Profil, da die Felsstufen bei Nässe extrem rutschig werden können.",
+                "hu": "A legmagasabb csúcs gyakran ködbe vész; viselj bordázott talpú vízálló cipőt, mert a sziklalépcsők nedvesen rendkívül csúszósak és veszélyesek lehetnek.",
+                "ro": "Cel mai înalt vârf dispare adesea în ceață; purtați încălțăminte impermeabilă cu talpă aderentă, deoarece treptele de piatră devin extrem de alunecoase.",
+                "en": "The highest peak often vanishes in the mist; wear waterproof shoes with deep lugs as the rock steps can become extremely slippery and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "l'Eco Superior",
+                "hu": "l'Eco Superior",
+                "ro": "l'Eco Superior",
+                "en": "l'Eco Superior"
+              },
+              "tip_5lang": {
+                "de": "Hören Sie auf das Echo, das bei feuchter Luft fast noch klarer klingt; suchen Sie Schutz unter den natürlichen Felsüberhängen, falls der Regen stärker wird.",
+                "hu": "Figyeld a visszhangot, amely párás időben szinte tisztábban szól; keress menedéket a természetes sziklaáthajlások alatt, ha intenzívebbé válik a csapadék.",
+                "ro": "Ascultați ecoul care sună aproape mai clar în aerul umed; căutați adăpost sub surplombele naturale dacă ploaia devine mai intensă.",
+                "en": "Listen to the echo which sounds almost clearer in the humid air; seek shelter under natural rock overhangs if the precipitation becomes more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Roca Plana dels Llamps",
+                "hu": "Roca Plana dels Llamps",
+                "ro": "Roca Plana dels Llamps",
+                "en": "Roca Plana dels Llamps"
+              },
+              "tip_5lang": {
+                "de": "Der Name 'Blitzfelsen' mahnt zur Vorsicht; bei Gewittergefahr sollten Sie diese exponierte Stelle meiden und im Waldstück unterhalb bleiben.",
+                "hu": "A 'Villámok sziklája' név óvatosságra int; viharos esőben kerüld ezt a nyitott pontot, inkább maradj az erdős részen az alacsonyabb szakaszokon.",
+                "ro": "Numele 'Stânca Fulgerelor' îndeamnă la prudență; în caz de furtună, evitați acest punct expus și rămâneți în zona împădurită de mai jos.",
+                "en": "The name 'Lightning Rock' calls for caution; avoid this exposed spot during heavy rain or storms, stay in the wooded areas at lower elevations instead."
+              }
+            },
+            {
+              "name": {
+                "de": "l'Albarda Castellana",
+                "hu": "l'Albarda Castellana",
+                "ro": "l'Albarda Castellana",
+                "en": "l'Albarda Castellana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die grauen Wolkenmeere unter Ihnen; ein Poncho ist hier oben unerlässlich, da der Wind den Regen oft waagerecht peitscht.",
+                "hu": "Élvezd a lábad alatt elterülő szürke felhőtengert; egy esőponcsó itt nélkülözhetetlen, mert a szél gyakran vízszintesen hordja a csapadékot.",
+                "ro": "Bucurați-vă de marea de nori gri de sub picioare; o pelerină de ploaie este esențială aici, deoarece vântul suflă adesea ploaia pe orizontală.",
+                "en": "Enjoy the sea of grey clouds beneath your feet; a rain poncho is essential here as the wind often drives the rain horizontally across the peak."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Sant Benet",
+                "hu": "Monestir de Sant Benet",
+                "ro": "Monestir de Sant Benet",
+                "en": "Monestir de Sant Benet"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Wanderung im trockenen Klosterladen; die spirituelle Atmosphäre im Inneren ist der perfekte Ort, um nasse Kleidung kurz zu trocknen.",
+                "hu": "Fejezd be a túrát a kolostor száraz boltjában; a belső terek spirituális nyugalma tökéletes hely a nedves ruházat rövid szárítására és a pihenésre.",
+                "ro": "Încheiați drumeția în magazinul uscat al mănăstirii; atmosfera spirituală din interior este locul perfect pentru a vă usca hainele și a vă relaxa.",
+                "en": "Finish your hike in the dry monastery shop; the spiritual calm of the interior is the perfect place to dry off slightly and recover from the trek."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht die Gipfel gestochen scharf sichtbar. Morgens glitzert Raureif auf den Steinen, was festes Schuhwerk erfordert. Mittags wärmt die tiefstehende Sonne nur schwach. Da es bereits gegen 17:00 Uhr dunkel wird, planen wir den Abstieg frühzeitig ein. Die Abende sind klirrend kalt, laden aber zur Einkehr in die beheizten Kapellen ein.",
+            "hu": "A tiszta téli levegőben a sziklák élesen emelkednek ki a tájból. Reggel zúzmara csillog a köveken, ami stabil cipőt igényel. Délben a gyenge napsütés csak kevés hőt ad. Mivel 17:00 körül sötétedik, a leereszkedést időben megkezdjük. Az esték csípősen hidegek, ilyenkor a fűtött kápolnák békéje hívogat.",
+            "ro": "Aerul curat de iarnă face ca vârfurile să fie vizibile cu claritate. Dimineața, promoroaca sclipește pe pietre, necesitând încălțăminte stabilă. La prânz, soarele slab oferă puțină căldură. Deoarece se întunecă în jurul orei 17:00, planificăm coborârea devreme. Serile sunt foarte reci, invitând la momente de liniște în capelele încălzite.",
+            "en": "The crisp winter air makes the peaks appear sharp and clear. In the morning, frost glistens on the stones, requiring sturdy footwear. At noon, the low sun provides little warmth. Since it gets dark around 17:00, we start our descent early. Evenings are biting cold, making the heated chapels a welcoming refuge for reflection."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monestir de Santa Cecília",
+                "hu": "Monestir de Santa Cecília",
+                "ro": "Monestir de Santa Cecília",
+                "en": "Monestir de Santa Cecília"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenhof für die Vorbereitung; ziehen Sie hier Ihre Thermoschichten fest, bevor es in die exponierten Höhenlagen geht.",
+                "hu": "Használd a szélvédett belső udvart a felkészülésre; itt igazítsd el a hőtartó rétegeket, mielőtt nekivágnál a kitett, szeles magaslatoknak.",
+                "ro": "Folosiți curtea interioară ferită de vânt pentru pregătire; ajustați straturile termice aici înainte de a porni spre înălțimile expuse.",
+                "en": "Use the wind-protected inner courtyard for preparation; adjust your thermal layers here before heading out into the exposed, windy heights."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jeroni",
+                "hu": "Sant Jeroni",
+                "ro": "Sant Jeroni",
+                "en": "Sant Jeroni"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick ist im Winter am klarsten; tragen Sie eine winddichte Mütze, da der kalte Tramuntana-Wind am Gipfel sehr heftig wehen kann.",
+                "hu": "A panoráma télen a legtisztább; viselj szélálló sapkát, mert a csúcson a hideg Tramuntana szél rendkívül erősen és metszően tud fújni.",
+                "ro": "Panorama este cea mai clară iarna; purtați o căciulă rezistentă la vânt, deoarece vântul rece Tramuntana poate sufla foarte tare pe vârf.",
+                "en": "The panoramic view is clearest in winter; wear a windproof hat as the cold Tramuntana wind can blow extremely hard and sharp at the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "l'Eco Superior",
+                "hu": "l'Eco Superior",
+                "ro": "l'Eco Superior",
+                "en": "l'Eco Superior"
+              },
+              "tip_5lang": {
+                "de": "In der Stille des Winters trägt der Schall besonders weit; nehmen Sie einen heißen Tee in einer Thermoskanne mit, um die Kälte beim Rasten zu vertreiben.",
+                "hu": "A téli csendben a hang különösen messzire száll; vigyél magaddal forró teát termoszban, hogy elűzd a hideget a pihenő alatt ezen a szeles ponton.",
+                "ro": "În liniștea iernii, sunetul circulă foarte departe; luați un ceai fierbinte într-un termos pentru a alunga frigul în timpul popasului în acest punct.",
+                "en": "In the winter silence, sound travels particularly far; bring hot tea in a thermos to ward off the cold during your break at this windy spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Roca Plana dels Llamps",
+                "hu": "Roca Plana dels Llamps",
+                "ro": "Roca Plana dels Llamps",
+                "en": "Roca Plana dels Llamps"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie lange Standzeiten auf dem kalten Fels; die Steinplatten speichern die Kälte, daher sind kurze, bewegungsreiche Pausen hier ideal.",
+                "hu": "Kerüld a hosszú álldogálást a hideg sziklán; a kőlapok árasztják a fagyot, ezért tarts rövid, mozgással teli szüneteket ezen a panorámás helyen.",
+                "ro": "Evitați să stați mult timp pe stânca rece; plăcile de piatră emană frigul, așa că faceți pauze scurte și pline de mișcare în acest loc panoramic.",
+                "en": "Avoid standing still for too long on the cold rock; the stone slabs radiate frost, so take short, active breaks at this scenic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "l'Albarda Castellana",
+                "hu": "l'Albarda Castellana",
+                "ro": "l'Albarda Castellana",
+                "en": "l'Albarda Castellana"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhrzeit, die Sonne sinkt früh hinter die Zacken; Handschuhe sind wichtig, da die Metallketten am Aufstieg eisig kalt sind.",
+                "hu": "Figyeld az időt, a nap korán bukik a csúcsok mögé; a kesztyű fontos, mert a kapaszkodó láncok és sziklák jéghidegek lehetnek a mászásnál.",
+                "ro": "Fiți atenți la oră, soarele apune devreme după creste; mănușile sunt importante deoarece lanțurile și stâncile pot fi înghețate la urcare.",
+                "en": "Watch the time as the sun dips early behind the peaks; gloves are vital because the climbing chains and rocks can be icy cold to the touch."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Sant Benet",
+                "hu": "Monestir de Sant Benet",
+                "ro": "Monestir de Sant Benet",
+                "en": "Monestir de Sant Benet"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme der Kerzen im Inneren bietet einen behaglichen Abschluss; decken Sie sich im Laden mit lokalen Produkten für einen gemütlichen Abend ein.",
+                "hu": "A belső terek gyertyáinak melege meghitt zárást kínál; vásárolj a boltban helyi termékeket egy otthonos, meleg téli estéhez a túra végén.",
+                "ro": "Căldura lumânărilor din interior oferă un final primitor; cumpărați produse locale din magazin pentru o seară de iarnă confortabilă după tură.",
+                "en": "The warmth of the candles inside provides a cozy finish; stock up on local products in the shop for a comfortable winter evening after the hike."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Induljon a történelmi Monestir de Santa Cecíliától reggel, élvezve a friss levegőt. Délben haladjon át a látványos természeti emlékműveken, mint az el Lloro és a Miranda de les Agulles. A délutáni tekerés az el Cilindrét és a Sant Jeronit köti össze, lenyűgöző panorámát nyújtva. Zárja le kerékpáros kalandját egy pihenővel a Monestir de Sant Benetben.",
         "ro": "Porniți de la istorica Monestir de Santa Cecília dimineața, bucurându-vă de aer proaspăt. Până la prânz, treceți prin monumente naturale spectaculoase precum el Lloro și Miranda de les Agulles. Călătoria de după-amiază conectează el Cilindre și Sant Jeroni, oferind panorame superbe. Încheiați-vă aventura pe bicicletă odihnindu-vă la Monestir de Sant Benet.",
         "en": "Roll out from the historic Monestir de Santa Cecília in the morning, enjoying the fresh air. By midday, weave through spectacular natural monuments like el Lloro, la Bola de la Partió, and the imposing Miranda de les Agulles. The afternoon ride connects el Cilindre and Sant Jeroni, offering massive sweeping panoramas. Conclude your cycling adventure by resting at Monestir de Sant Benet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Bedingungen machen die Bergstraßen von Montserrat zu einer technischen Herausforderung. Morgens ist der Asphalt oft rutschig durch aufgewirbelten Staub. Mittags suchen wir Schutz in den Klostermauern, während der Regen am stärksten ist. Nachmittags fahren wir mit reduzierter Geschwindigkeit und Warnwesten. Abends erholen wir uns bei der Rückfahrt im Tal.",
+            "hu": "Az esős idő technikai kihívássá teszi Montserrat hegyi útjait. Reggel az aszfalt a felvert portól csúszós lehet. Délben a kolostorfalak között pihenünk, amikor a legintenzívebb az eső. Délután csökkentett sebességgel és láthatósági mellényben haladunk. Este a völgybe visszatérve pihenjük ki a nedves tekerés fáradalmait.",
+            "ro": "Condițiile de ploaie transformă drumurile montane din Montserrat într-o provocare tehnică. Dimineața, asfaltul poate fi alunecos din cauza prafului. La prânz, ne adăpostim între zidurile mănăstirii când ploaia este intensă. După-amiaza, circulăm cu viteză redusă și vestă reflectorizantă. Seara, ne recuperăm după efort la întoarcerea în vale.",
+            "en": "Rainy conditions turn Montserrat's mountain roads into a technical challenge. In the morning, the asphalt can be slippery from kicked-up dust. At noon, we rest within monastery walls during peak rainfall. In the afternoon, we ride at reduced speeds wearing high-visibility vests. In the evening, we recover in the valley after a damp but exhilarating ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monestir de Santa Cecília",
+                "hu": "Monestir de Santa Cecília",
+                "ro": "Monestir de Santa Cecília",
+                "en": "Monestir de Santa Cecília"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Schutz der Klostermauern; der raue Stein bietet auch bei Regen einen sicheren Stand beim Absteigen vom Fahrrad.",
+                "hu": "Ellenőrizd a fékeket a kolostorfalak védelmében; a durva kőburkolat esőben is biztos tapadást nyújt a kerékpárról való leszálláshoz.",
+                "ro": "Verificați frânele la adăpostul zidurilor mănăstirii; pavajul de piatră oferă o aderență sigură pentru coborârea de pe bicicletă chiar și pe ploaie.",
+                "en": "Check your brakes under the shelter of the monastery walls; the rough stone pavement provides secure footing for dismounting even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "el Lloro",
+                "hu": "el Lloro",
+                "ro": "el Lloro",
+                "en": "el Lloro"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird durch nasse Blätter erschwert; schalten Sie in einen leichten Gang, um ein Durchdrehen des Hinterreifens auf dem Asphalt zu vermeiden.",
+                "hu": "Az emelkedőt a nedves levelek nehezíthetik; válts könnyű fokozatba, hogy elkerüld a hátsó kerék kipörgését a vizes aszfalton felfelé menet.",
+                "ro": "Urcarea poate fi îngreunată de frunzele ude; schimbați într-o viteză mică pentru a evita patinarea roții spate pe asfaltul umed.",
+                "en": "The climb can be made difficult by wet leaves; shift into a low gear to prevent rear wheel spin on the damp asphalt during the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "la Bola de la Partió",
+                "hu": "la Bola de la Partió",
+                "ro": "la Bola de la Partió",
+                "en": "la Bola de la Partió"
+              },
+              "tip_5lang": {
+                "de": "Sichtbarkeit ist hier entscheidend, da Wolken oft die Straße queren; schalten Sie Ihr Rücklicht ein, um für Autofahrer im Nebel sichtbar zu bleiben.",
+                "hu": "A láthatóság itt kulcsfontosságú, mert a felhők gyakran átvonulnak az úton; kapcsold be a hátsó lámpát, hogy észrevehető maradj az autósoknak a ködben.",
+                "ro": "Vizibilitatea este crucială aici, deoarece norii traversează adesea drumul; aprindeți lumina din spate pentru a fi vizibil șoferilor în ceață.",
+                "en": "Visibility is key here as clouds often drift across the road; turn on your rear light to remain noticeable to drivers in the misty conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Miranda de les Agulles",
+                "hu": "Miranda de les Agulles",
+                "ro": "Miranda de les Agulles",
+                "en": "Miranda de les Agulles"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt von diesem Punkt erfordert sanftes Bremsen; vermeiden Sie plötzliche Manöver auf den nassen Kurven, um die Bodenhaftung nicht zu verlieren.",
+                "hu": "A leereszkedés innét finom fékezést igényel; kerülj minden hirtelen manővert a nedves kanyarokban, hogy ne veszítsd el a tapadást a lejtőn.",
+                "ro": "Coborârea de aici necesită frânare ușoară; evitați manevrele bruște în curbele umede pentru a nu pierde aderența pe pantă.",
+                "en": "Descending from here requires gentle braking; avoid any sudden maneuvers in the wet corners to maintain traction on the downhill stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "el Cilindre",
+                "hu": "el Cilindre",
+                "ro": "el Cilindre",
+                "en": "el Cilindre"
+              },
+              "tip_5lang": {
+                "de": "Die markante Felsform wirkt im Regen dramatisch; nutzen Sie eine Regenjacke mit Kapuze, die unter den Helm passt, um trocken und warm zu bleiben.",
+                "hu": "A jellegzetes sziklaforma esőben drámai látványt nyújt; használj sisak alá férő kapucnis esőkabátot, hogy szárazon és melegen tartsd magad.",
+                "ro": "Forma distinctivă a stâncii arată dramatic pe ploaie; folosiți o pelerină cu glugă care încape sub cască pentru a vă menține uscat și cald.",
+                "en": "The distinctive rock shape looks dramatic in the rain; use a rain jacket with a hood that fits under your helmet to keep yourself dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jeroni",
+                "hu": "Sant Jeroni",
+                "ro": "Sant Jeroni",
+                "en": "Sant Jeroni"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher unter einem Überhang ab; die Luftfeuchtigkeit kann die Felgen rutschig machen, wischen Sie diese vor der Weiterfahrt kurz ab.",
+                "hu": "Támaszd le a bringát biztonságosan egy áthajló szikla alá; a pára csúszóssá teheti a felniket, indulás előtt érdemes őket röviden áttörölni.",
+                "ro": "Sprijiniți bicicleta în siguranță sub o stâncă; umiditatea poate face jantele alunecoase, merită să le ștergeți scurt înainte de a pleca.",
+                "en": "Park your bike securely under a rock overhang; humidity can make the rims slippery, so it's worth wiping them down briefly before setting off again."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Sant Benet",
+                "hu": "Monestir de Sant Benet",
+                "ro": "Monestir de Sant Benet",
+                "en": "Monestir de Sant Benet"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort zum Aufwärmen nach der nassen Fahrt; prüfen Sie die Kette auf Schmutz, da der Regen Sand von den Felsen auf die Straße spült.",
+                "hu": "Meleg hely a felmelegedéshez a vizes tekerés után; ellenőrizd a láncot, mert az eső homokot moshat a sziklákról az útra, ami koptatja a hajtást.",
+                "ro": "Un loc cald pentru a vă încălzi după tura umedă; verificați lanțul, deoarece ploaia poate spăla nisipul de pe stânci pe drum, uzând transmisia.",
+                "en": "A warm spot to heat up after the wet ride; check your chain as rain can wash sand from the rocks onto the road, which wears down the drivetrain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Montserrat erfordert gute Vorbereitung gegen den Windchill. Morgens sind die Schattenseiten der Berge eiskalt. Mittags nutzen wir die direkten Sonnenabschnitte für die steilen Anstiege. Am frühen Nachmittag erreichen wir die Aussichtspunkte, bevor die Sonne gegen 17:00 Uhr hinter den Felsen verschwindet. Die Abfahrt erfolgt im letzten Tageslicht.",
+            "hu": "A téli kerékpározás Montserratban alapos felkészülést igényel a menetszél ellen. Reggel a hegy árnyékos oldalai jéghidegek. Délben a napsütéses szakaszokat használjuk a meredek emelkedőkhöz. Kora délután érjük el a kilátópontokat, mielőtt 17:00 körül a nap eltűnik a sziklák mögött. A leereszkedés az utolsó fényeknél történik.",
+            "ro": "Ciclismul de iarnă în Montserrat necesită o pregătire temeinică împotriva vântului. Dimineața, părțile umbrite ale muntelui sunt înghețate. La prânz, folosim secțiunile însorite pentru urcările abrupte. După-amiaza devreme ajungem la punctele de belvedere, înainte ca soarele să dispară după stânci la 17:00. Coborârea are loc la ultimele lumini.",
+            "en": "Winter cycling in Montserrat requires thorough preparation against wind chill. In the morning, the shaded sides of the mountain are freezing. At noon, we utilize sunny stretches for steep climbs. By early afternoon, we reach the viewpoints before the sun disappears behind the rocks around 17:00. The final descent takes place in the day's last light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monestir de Santa Cecília",
+                "hu": "Monestir de Santa Cecília",
+                "ro": "Monestir de Santa Cecília",
+                "en": "Monestir de Santa Cecília"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einem warmen Getränk; Winterhandschuhe sind bei der Abfahrt Pflicht, um das Gefühl in den Fingern zum Bremsen nicht zu verlieren.",
+                "hu": "Indíts egy meleg itallal; a téli kesztyű kötelező a lejtőkhöz, hogy ne veszítsd el az érzékelést az ujjaidban a fékezéshez a hideg menetszélben.",
+                "ro": "Începeți cu o băutură caldă; mănușile de iarnă sunt obligatorii pentru coborâri, pentru a nu pierde sensibilitatea degetelor la frânare în vântul rece.",
+                "en": "Start with a warm drink; winter gloves are mandatory for the descents so you don't lose the feeling in your fingers for braking in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "el Lloro",
+                "hu": "el Lloro",
+                "ro": "el Lloro",
+                "en": "el Lloro"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hilft, den Körper auf Betriebstemperatur zu bringen; halten Sie die Pausen kurz, um ein Auskühlen der Muskulatur in der kalten Luft zu vermeiden.",
+                "hu": "Az emelkedő segít üzemi hőmérsékletre melegíteni a testedet; tartsd röviden a szüneteket, hogy elkerüld az izomzat kihűlését a hideg hegyi levegőn.",
+                "ro": "Urcarea ajută la încălzirea corpului la temperatura optimă; păstrați pauzele scurte pentru a evita răcirea mușchilor în aerul rece de munte.",
+                "en": "The climb helps warm your body to operating temperature; keep breaks short to prevent your muscles from cooling down in the chilly mountain air."
+              }
+            },
+            {
+              "name": {
+                "de": "la Bola de la Partió",
+                "hu": "la Bola de la Partió",
+                "ro": "la Bola de la Partió",
+                "en": "la Bola de la Partió"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Fernsicht, die nur der Winter bietet; eine winddichte Weste schützt Ihren Brustkorb auf diesem exponierten Streckenabschnitt.",
+                "hu": "Élvezd a messzire nyúló kilátást, amit csak a tél adhat; egy szélálló mellény védi a mellkasodat ezen a kitett, huzatos útszakaszon.",
+                "ro": "Bucurați-vă de vizibilitatea la distanță pe care doar iarna o poate oferi; o vestă rezistentă la vânt vă protejează pieptul pe această secțiune expusă.",
+                "en": "Enjoy the far-reaching views that only winter can provide; a windproof vest will protect your chest on this exposed and breezy stretch of road."
+              }
+            },
+            {
+              "name": {
+                "de": "Miranda de les Agulles",
+                "hu": "Miranda de les Agulles",
+                "ro": "Miranda de les Agulles",
+                "en": "Miranda de les Agulles"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht hier nachmittags am besten zum Wärmen; nutzen Sie den Halt für Dehnübungen, um die Durchblutung in den Beinen zu fördern.",
+                "hu": "A nap itt délután süt a legjobban, használd ki a melegét; tarts nyújtógyakorlatokat a megálló alatt, hogy serkentsd a lábaid vérkeringését.",
+                "ro": "Soarele strălucește cel mai bine aici după-amiaza, profitați de căldură; faceți exerciții de stretching în timpul opririi pentru a stimula circulația.",
+                "en": "The sun shines best here in the afternoon, so enjoy its warmth; perform some stretching exercises during the stop to boost circulation in your legs."
+              }
+            },
+            {
+              "name": {
+                "de": "el Cilindre",
+                "hu": "el Cilindre",
+                "ro": "el Cilindre",
+                "en": "el Cilindre"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen wirken im harten Winterlicht fast weiß; achten Sie auf Froststellen in Kurven, die im Dauerschatten der hohen Wände liegen.",
+                "hu": "A sziklák az éles téli fényben szinte fehéren világítanak; ügyelj a kanyarokban a fagyfoltokra, amelyek a falak állandó árnyékában maradhatnak.",
+                "ro": "Stâncile par aproape albe în lumina puternică de iarnă; atenție la porțiunile înghețate în curbe, care pot rămâne în umbra constantă a pereților.",
+                "en": "The rocks glow almost white in the sharp winter light; watch out for icy patches in corners that might remain in the constant shadow of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jeroni",
+                "hu": "Sant Jeroni",
+                "ro": "Sant Jeroni",
+                "en": "Sant Jeroni"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt ist extrem windanfällig; ziehen Sie vor der langen Abfahrt unbedingt eine zusätzliche Isolationsschicht über, um nicht zu unterkühlen.",
+                "hu": "A legmagasabb pont rendkívül szeles; a hosszú lejtőzés előtt mindenképpen vegyél fel egy plusz hőszigetelő réteget, hogy ne fázz meg lefelé menet.",
+                "ro": "Cel mai înalt punct este extrem de vântos; înainte de coborârea lungă, puneți neapărat un strat izolator suplimentar pentru a nu răci pe drum.",
+                "en": "The highest point is extremely windy; before the long descent, definitely put on an extra insulating layer so you don't freeze on the way down."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Sant Benet",
+                "hu": "Monestir de Sant Benet",
+                "ro": "Monestir de Sant Benet",
+                "en": "Monestir de Sant Benet"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Tour vor Einbruch der Dunkelheit zu beenden; die warme Atmosphäre des Klosters ist die beste Belohnung für die winterliche Anstrengung.",
+                "hu": "Ideális hely a túra befejezéséhez a sötétedés előtt; a kolostor meleg légköre a legjobb jutalom a téli tekerés utáni fáradalmakért.",
+                "ro": "Locul ideal pentru a încheia tura înainte de lăsarea întunericului; atmosfera caldă a mănăstirii este cea mai bună recompensă după efortul de iarnă.",
+                "en": "The ideal place to conclude your ride before dark; the warm atmosphere of the monastery is the best reward for your winter cycling efforts."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje a festői autózást az Ermita de Sant Salvadornál, elmerülve az ősi magányban. Délben haladjon el a la Gorra Frígia, a la Palomera és a Montgròs hatalmas természeti szobrai mellett. A délután meghívja a Monestir de Santa Cecília és a Monestir de Sant Benet építészetének felfedezésére. Fejezze be a nagy túrát esti kilátással a Sant Jeroni-ról.",
         "ro": "Începeți plimbarea pitorească cu mașina la Ermita de Sant Salvador, bucurându-vă de singurătate. La prânz, treceți pe lângă sculpturile naturale masive de la Gorra Frígia, la Palomera și Montgròs. După-amiaza vă invită să explorați arhitectura uluitoare a Santa Cecília și Sant Benet. Încheiați turul grandios cu priveliști de seară de pe Sant Jeroni.",
         "en": "Begin your scenic drive at Ermita de Sant Salvador, soaking in the ancient solitude. Midday brings you past the massive natural sculptures of la Gorra Frígia, la Palomera, and Montgròs. The afternoon invites you to explore the stunning Romanesque architecture of Monestir de Santa Cecília and Monestir de Sant Benet. Finish the grand tour with evening views from Sant Jeroni and l'Albarda Castellana."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das verregnete Montserrat bietet spektakuläre Ausblicke auf Wasserfälle, die nur bei Niederschlag entstehen. Morgens ist die Sicht oft durch Nebelfelder eingeschränkt, was Vorsicht erfordert. Mittags parken wir bequem direkt an den Klöstern. Nachmittags erkunden wir die abgelegenen Aussichtspunkte. Abends genießen wir die Lichter der Stadt im fernen Tal.",
+            "hu": "Az esős Montserratban tett autózás különleges látványt nyújt: ilyenkor ideiglenes vízesések jelennek meg a sziklákon. Reggel a ködfoltok miatt fokozott óvatosság szükséges a szerpentineken. Délben kényelmesen, közvetlenül a kolostoroknál parkolhatunk. Délután a távolabbi kilátópontokat keressük fel. Este a távoli völgy fényeiben gyönyörködünk az ablakból.",
+            "ro": "O plimbare cu mașina prin Montserrat pe ploaie oferă vederi spectaculoase: acum apar cascade temporare pe stânci. Dimineața, ceața impune prudență sporită pe serpentine. La prânz, parcăm confortabil direct lângă mănăstiri. După-amiaza explorăm punctele de belvedere mai îndepărtate. Seara admirăm luminile văii prin parbrizul mașinii.",
+            "en": "Driving through rainy Montserrat offers spectacular views, including temporary waterfalls cascading down the rocks. In the morning, fog patches require extra caution on the winding roads. At noon, parking is convenient right by the monasteries. In the afternoon, we explore the more distant viewpoints. In the evening, we enjoy the city lights in the valley from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Sant Salvador",
+                "hu": "Ermita de Sant Salvador",
+                "ro": "Ermita de Sant Salvador",
+                "en": "Ermita de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher am Straßenrand und nutzen Sie einen Regenschirm für den kurzen Fußweg zur Kapelle; die Felsen wirken bei Regen besonders dunkel und mächtig.",
+                "hu": "Parkolj biztonságosan az út szélén, és használj esernyőt a kápolnához vezető rövid úton; a sziklák esőben különösen sötétnek és monumentálisnak hatnak.",
+                "ro": "Parcați în siguranță pe marginea drumului și folosiți o umbrelă pentru scurta plimbare spre capelă; stâncile par deosebit de întunecate și monumentale pe ploaie.",
+                "en": "Park safely on the roadside and use an umbrella for the short walk to the chapel; the rocks appear especially dark and monumental in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "la Gorra Frígia",
+                "hu": "la Gorra Frígia",
+                "ro": "la Gorra Frígia",
+                "en": "la Gorra Frígia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wolken um die markante Felsspitze ziehen; bleiben Sie im Auto für die besten Fotos, um Ihre Kameraausrüstung trocken zu halten.",
+                "hu": "Figyeld meg, ahogy a felhők körbeölelik a jellegzetes sziklasüveget; maradj az autóban a fotózáshoz, hogy megóvd a felszerelésedet a nedvességtől.",
+                "ro": "Observați cum norii îmbrățișează vârful distinctiv de stâncă; rămâneți în mașină pentru fotografii ca să vă protejați echipamentul de umezeală.",
+                "en": "Watch how the clouds swirl around the distinctive rock peak; stay in the car for the best photos to keep your camera equipment safe from the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "la Palomera",
+                "hu": "la Palomera",
+                "ro": "la Palomera",
+                "en": "la Palomera"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbucht für einen kurzen Stopp; die nasse Straße kann hier rutschig sein, achten Sie beim Aussteigen auf festen Untergrund neben dem Asphalt.",
+                "hu": "Használd a parkolóöblöt egy rövid megállóra; a vizes aszfalt csúszós lehet, kiszálláskor ügyelj a stabil talajra az út menti sziklás részen.",
+                "ro": "Folosiți parcarea pentru o scurtă oprire; asfaltul umed poate fi alunecos, atenție la terenul stabil când coborâți din mașină lângă drum.",
+                "en": "Use the lay-by for a quick stop; the wet asphalt can be slippery, so watch for stable footing on the rocky ground when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Montgròs",
+                "hu": "Montgròs",
+                "ro": "Montgròs",
+                "en": "Montgròs"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Felswände leuchten bei Regen in verschiedenen Grautönen; halten Sie die Fenster leicht geöffnet, damit sie bei der feuchten Außenluft nicht beschlagen.",
+                "hu": "A masszív sziklafalak esőben a szürke ezer árnyalatában tündökölnek; tartsd résnyire nyitva az ablakot, hogy ne párásodjon be az üveg a belső hőtől.",
+                "ro": "Pereții masivi de stâncă strălucesc în mii de nuanțe de gri pe ploaie; lăsați geamul puțin deschis pentru a preveni aburirea de la căldura interioară.",
+                "en": "The massive rock faces glow in countless shades of grey during rain; keep the windows cracked open slightly to prevent fogging from the interior heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Santa Cecília",
+                "hu": "Monestir de Santa Cecília",
+                "ro": "Monestir de Santa Cecília",
+                "en": "Monestir de Santa Cecília"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen; der Parkplatz ist befestigt, sodass Sie auch bei starkem Regen trockenen Fußes zum Eingang gelangen.",
+                "hu": "Ideális hely egy hosszabb, száraz pihenőhöz; a parkoló burkolt, így heves esőben is viszonylag száraz lábbal érheted el a kolostor bejáratát.",
+                "ro": "Locul ideal pentru o pauză lungă și uscată; parcarea este pavată, așa că puteți ajunge la intrarea mănăstirii cu picioarele uscate chiar și pe ploaie.",
+                "en": "An ideal spot for a longer, dry break; the parking area is paved, allowing you to reach the monastery entrance with relatively dry feet even in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Sant Benet",
+                "hu": "Monestir de Sant Benet",
+                "ro": "Monestir de Sant Benet",
+                "en": "Monestir de Sant Benet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den Innenräumen; prüfen Sie vor der Weiterfahrt die Funktion Ihrer Scheibenwischer, da die Gischt auf den Bergstraßen zunehmen kann.",
+                "hu": "Élvezd a belső terek nyugalmát; indulás előtt ellenőrizd az ablaktörlőket, mert a felfröccsenő víz és pára ronthatja a látási viszonyokat a szerpentineken.",
+                "ro": "Bucurați-vă de liniștea interioară; înainte de plecare, verificați ștergătoarele, deoarece apa pulverizată poate reduce vizibilitatea pe serpentine.",
+                "en": "Enjoy the tranquility of the interiors; check your wipers before continuing, as road spray and mist can impair visibility on the winding mountain roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jeroni",
+                "hu": "Sant Jeroni",
+                "ro": "Sant Jeroni",
+                "en": "Sant Jeroni"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus bietet sich ein dramatisches Wolkenspiel; nutzen Sie ein Fernglas, um die Bergsteiger in den Wänden trotz des Regens zu beobachten.",
+                "hu": "A parkolóból drámai felhőjáték látható; használj távcsövet, hogy az eső ellenére is megfigyelhesd a falakon lévő sziklamászókat a távolban.",
+                "ro": "Din parcare se vede un joc dramatic de nori; folosiți un binoclu pentru a observa alpiniștii de pe pereții de stâncă în ciuda ploii.",
+                "en": "The parking area offers a dramatic cloud display; use binoculars to spot climbers on the rock faces despite the rain and misty conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "l'Albarda Castellana",
+                "hu": "l'Albarda Castellana",
+                "ro": "l'Albarda Castellana",
+                "en": "l'Albarda Castellana"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt endet mit mystischen Aussichten; fahren Sie besonders vorsichtig bergab, da die Bremsen bei Nässe etwas länger zum Greifen benötigen könnten.",
+                "hu": "A túra misztikus kilátással zárul; ereszkedj különösen óvatosan lefelé az autóval, mert a nedves fékek reakcióideje hosszabb lehet a lejtőkön.",
+                "ro": "Turul se încheie cu vederi mistice; coborâți cu mare atenție, deoarece frânele umede pot avea un timp de reacție mai lung pe pantele abrupte.",
+                "en": "The tour ends with mystical views; descend the mountain very carefully as wet brakes may have a slightly longer response time on steep slopes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Montserrat im Winter mit dem Auto zu erkunden bedeutet Komfort trotz Kälte. Morgens genießen wir die Sitzheizung, während wir die frostigen Serpentinen erklimmen. Mittags bietet das Auto den perfekten Rückzugsort für ein Picknick mit Aussicht. Die tiefstehende Sonne sorgt für lange Schatten und goldenes Licht auf den Felsen. Da es um 17:00 Uhr dunkel wird, treten wir früh die Heimreise an.",
+            "hu": "A téli Montserrat felfedezése autóval kényelmet jelent a hidegben is. Reggel az ülésfűtést élvezve hódítjuk meg a zúzmarás szerpentineket. Délben az autó tökéletes menedék egy panorámás piknikhez. Az alacsonyan járó nap hosszú árnyékokat és aranyló fényeket vet a sziklákra. Mivel 17:00-kor már sötétedik, időben elindulunk lefelé a hegyről.",
+            "ro": "Explorarea Montserratului iarna cu mașina înseamnă confort în ciuda frigului. Dimineața, ne bucurăm de încălzirea în scaune în timp ce urcăm serpentinele înghețate. La prânz, mașina este adăpostul perfect pentru un picnic cu vedere. Soarele jos creează umbre lungi și lumini aurii pe stânci. Deoarece se întunecă la 17:00, pornim devreme spre casă.",
+            "en": "Exploring Montserrat by car in winter means staying warm while enjoying the views. In the morning, we enjoy the seat heaters while climbing the frosty serpentines. At noon, the car provides a perfect shelter for a picnic with a panorama. The low sun creates long shadows and golden light on the rocks. Since it gets dark at 17:00, we head back down the mountain early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Sant Salvador",
+                "hu": "Ermita de Sant Salvador",
+                "ro": "Ermita de Sant Salvador",
+                "en": "Ermita de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft bietet eine Sicht bis zum Meer; lassen Sie den Motor nicht unnötig laufen, die Kapelle ist nur einen kurzen, erfrischenden Fußweg entfernt.",
+                "hu": "A tiszta levegőben ellátni egészen a tengerig; ne járasd feleslegesen a motort, a kápolna csak egy rövid, frissítő sétára van a parkolótól.",
+                "ro": "Aerul curat permite vederea până la mare; nu lăsați motorul pornit inutil, capela este la doar o scurtă plimbare revigorantă de parcare.",
+                "en": "The clear air allows views all the way to the sea; don't leave the engine idling unnecessarily, as the chapel is just a short, refreshing walk away."
+              }
+            },
+            {
+              "name": {
+                "de": "la Gorra Frígia",
+                "hu": "la Gorra Frígia",
+                "ro": "la Gorra Frígia",
+                "en": "la Gorra Frígia"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Fotostopp aus dem warmen Auto heraus; die tiefstehende Wintersonne beleuchtet die Felsnadel im Januar besonders spektakulär von der Seite.",
+                "hu": "Tökéletes fotómegálló a meleg autóból; az alacsony téli nap januárban különösen látványosan világítja meg oldalról ezt a jellegzetes sziklát.",
+                "ro": "Oprire perfectă pentru fotografii din mașina caldă; soarele jos de iarnă luminează spectaculos din lateral această stâncă în luna ianuarie.",
+                "en": "A perfect photo stop from the warmth of the car; the low winter sun illuminates the rock pinnacle spectacularly from the side in January."
+              }
+            },
+            {
+              "name": {
+                "de": "la Palomera",
+                "hu": "la Palomera",
+                "ro": "la Palomera",
+                "en": "la Palomera"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Kurvenabschnitten; die Straßen werden zwar geräumt, aber Raureif kann die Fahrbahn stellenweise rutschig machen.",
+                "hu": "Ügyelj a jegesedésre az árnyékos kanyarokban; az utakat takarítják, de a zúzmara helyenként csúszóssá teheti az aszfaltot a reggeli órákban.",
+                "ro": "Atenție la porțiunile înghețate în curbele umbrite; drumurile sunt curățate, dar promoroaca poate face asfaltul alunecos pe alocuri dimineața.",
+                "en": "Watch out for icy patches in shaded curves; while roads are maintained, frost can make the asphalt slippery in places during the early hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Montgròs",
+                "hu": "Montgròs",
+                "ro": "Montgròs",
+                "en": "Montgròs"
+              },
+              "tip_5lang": {
+                "de": "Die Felsmassive wirken im Winterlicht besonders plastisch; nutzen Sie die Standheizung für eine gemütliche Pause mit Blick auf die monumentalen Wände.",
+                "hu": "A sziklamasszívumok a téli fényben különösen plasztikusnak hatnak; használd az autó fűtését egy kényelmes pihenőhöz a monumentális falak árnyékában.",
+                "ro": "Masivele de stâncă par deosebit de tridimensionale în lumina iernii; folosiți căldura mașinii pentru o pauză confortabilă sub pereții monumentali.",
+                "en": "The rock massifs look particularly sculptural in the winter light; use the car's heater for a comfortable break in the shadow of the monumental walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Santa Cecília",
+                "hu": "Monestir de Santa Cecília",
+                "ro": "Monestir de Santa Cecília",
+                "en": "Monestir de Santa Cecília"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, ziehen Sie sich für die Besichtigung warm an; der Parkplatz ist im Winter meist angenehm leer.",
+                "hu": "A vastag falak ontják a hideget, öltözz fel jól a belső látogatáshoz; a parkoló télen általában kellemesen üres és könnyen megközelíthető.",
+                "ro": "Zidurile groase emană frigul, îmbrăcați-vă bine pentru vizita în interior; parcarea este de obicei goală și ușor accesibilă în timpul iernii.",
+                "en": "The thick walls radiate cold, so dress warmly for your indoor visit; the parking area is usually pleasantly empty and easy to access in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Monestir de Sant Benet",
+                "hu": "Monestir de Sant Benet",
+                "ro": "Monestir de Sant Benet",
+                "en": "Monestir de Sant Benet"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im warmen Klosterladen lohnt sich für Souvenirs; prüfen Sie den Reifendruck, da die Kälte in den Bergen den Druck sinken lässt.",
+                "hu": "Érdemes betérni a kolostor fűtött boltjába ajándékokért; ellenőrizd a guminyomást, mert a hegyi hidegben a levegő sűrűsége miatt csökkenhet a nyomás.",
+                "ro": "Merită să intrați în magazinul încălzit al mănăstirii pentru suveniruri; verificați presiunea pneurilor, deoarece frigul de munte poate duce la scăderea ei.",
+                "en": "It's worth stopping by the heated monastery shop for souvenirs; check your tire pressure, as the mountain cold can cause it to drop slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jeroni",
+                "hu": "Sant Jeroni",
+                "ro": "Sant Jeroni",
+                "en": "Sant Jeroni"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie den besten Blick auf die Gipfel; ein heißer Kaffee aus dem Thermosbecher macht das Winterpanorama perfekt.",
+                "hu": "A parkolóból nyílik a legjobb kilátás a csúcsokra; egy forró kávé a termoszból teszi teljessé a téli panoráma élvezetét az autóból nézve.",
+                "ro": "Din parcare aveți cea mai bună vedere spre vârfuri; o cafea fierbinte din termos completează perfect experiența panoramei de iarnă din mașină.",
+                "en": "The parking area offers the best views of the peaks; a hot coffee from a thermos cup makes enjoying the winter panorama from the car perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "l'Albarda Castellana",
+                "hu": "l'Albarda Castellana",
+                "ro": "l'Albarda Castellana",
+                "en": "l'Albarda Castellana"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor der Frost auf der Straße anzieht; das goldene Licht der Abenddämmerung ist ideal für letzte Panoramafotos.",
+                "hu": "Fejezd be az autózást, mielőtt a fagy ráfagyna az utakra; az alkonyat aranyló fényei tökéletesek az utolsó panorámafotók elkészítéséhez.",
+                "ro": "Încheiați plimbarea înainte ca înghețul să se depună pe drumuri; luminile aurii ale amurgului sunt perfecte pentru ultimele fotografii panoramice.",
+                "en": "Conclude your drive before the frost settles on the roads; the golden twilight light is ideal for taking your final panoramic photos of the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a fenséges Kerpe Kayaliklari szikláinál, ahol a tengeri szellő és a drámai táj energikus indulást biztosít. Ezután sétáljon át a csendesebb Miço Koyu partszakaszra. Délben érkezzen meg a nyüzsgő Kerpe Plajı strandhoz, ami tökéletes hely egy rövid pihenőre. Délután folytassa útját a festői Paşaağzı felé, majd zárja a napot a nyugalmat árasztó Ömerağzı tengerpartján.",
         "ro": "Începeți ziua la stâncile mărețe din Kerpe Kayaliklari, unde briza mării și peisajul dramatic oferă un start energizant. Apoi plimbați-vă relaxat spre zona Miço Koyu. La prânz, ajungeți la vibranta Kerpe Plajı, ideală pentru o pauză. După-amiaza, drumul vă poartă spre golful liniștit Paşaağzı, iar explorarea se încheie la apus pe plaja retrasă și pitorească din Ömerağzı.",
         "en": "Start your day at the majestic cliffs of Kerpe Kayaliklari, where the sea breeze and dramatic landscape promise an energizing beginning. Stroll smoothly toward the secluded sandy stretch of Miço Koyu next. By midday, reach the lively central Kerpe Plajı, perfect for taking a leisurely break. Spend the afternoon exploring Paşaağzı, and finally end your walk in the tranquil nature of Ömerağzı."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Spaziergang in Kerpe beginnt an den Klippen, wo die Wellen dramatisch brechen. Mittags bietet die ruhige Bucht Schutz vor dem Wind. Nachmittags spazieren wir mit einem großen Schirm am Strand entlang. Abends wärmen wir uns in den überdachten Küstencafés auf.",
+            "hu": "Egy esős séta Kerpében a szikláknál indul, ahol a hullámok drámaian törnek meg a köveken. Délben a zártabb öböl nyújt menedéket a szél elől. Délután esernyővel sétálunk a nedves parton, estére pedig beülünk egy hangulatos, fűtött tengerparti teázóba.",
+            "ro": "O plimbare ploioasă în Kerpe începe la stânci, unde valurile se sparg dramatic. La prânz, golful mai liniștit oferă adăpost de vânt. După-amiaza ne plimbăm pe plajă cu o umbrelă mare, iar seara ne încălzim într-o cafenea primitoare de pe coastă.",
+            "en": "A rainy walk in Kerpe begins at the cliffs where waves break dramatically. At noon, the quiet bay provides shelter from the wind. In the afternoon, we stroll along the wet beach with a large umbrella, and by evening we warm up in a cozy covered coastal cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kerpe Kayaliklari",
+                "hu": "Kerpe Kayaliklari",
+                "ro": "Kerpe Kayaliklari",
+                "en": "Kerpe Kayaliklari"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen Wellen an den Felsen, aber Vorsicht, die Steine sind bei Regen extrem rutschig!",
+                "hu": "Nézd meg a viharos hullámokat a szikláknál, de vigyázz, mert a kövek nagyon csúszósak és veszélyesek lehetnek esőben!",
+                "ro": "Admirați valurile furtunoase care se lovesc de stânci, dar aveți grijă că pietrele sunt extrem de alunecoase pe ploaie!",
+                "en": "Watch the stormy waves crash against the rocks, but be careful as the stones can be extremely slippery in the rain!"
+              }
+            },
+            {
+              "name": {
+                "de": "Miço Koyu Kadınlar Plajı",
+                "hu": "Miço Koyu Kadınlar Plajı",
+                "ro": "Miço Koyu Kadınlar Plajı",
+                "en": "Miço Koyu Kadınlar Plajı"
+              },
+              "tip_5lang": {
+                "de": "Diese ruhige Bucht wirkt im Regen mystisch; ein Spaziergang mit wasserfesten Schuhen im nassen Sand lohnt sich sehr.",
+                "hu": "Ez a zárt öböl esőben is misztikus látványt nyújt, érdemes vízálló cipőben sétálni a kihalt, nedves homokon.",
+                "ro": "Golful închis arată mistic pe ploaie, merită o plimbare cu încălțăminte impermeabilă pe nisipul ud și liniștit.",
+                "en": "This enclosed bay looks mystical in the rain, making a peaceful walk in waterproof shoes on the wet sand worthwhile."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Plajı",
+                "hu": "Kerpe Plajı",
+                "ro": "Kerpe Plajı",
+                "en": "Kerpe Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Spiel der Regentropfen am weiten Strand; eine gute Regenjacke ist hier wegen des Windes unerlässlich.",
+                "hu": "A széles tengerparton élvezheted az esőcseppek játékát a vízen, egy jó szélálló esőkabát itt elengedhetetlen.",
+                "ro": "Bucurați-vă de jocul picăturilor de ploaie pe plaja lată; o pelerină bună este esențială aici din cauza vântului puternic.",
+                "en": "Enjoy the play of raindrops on the water at the wide beach; a good raincoat is essential here due to the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Paşaağzı",
+                "hu": "Paşaağzı",
+                "ro": "Paşaağzı",
+                "en": "Paşaağzı"
+              },
+              "tip_5lang": {
+                "de": "Das von Bäumen gesäumte Ufer ist ein tolles Fotomotiv bei trübem Wetter; suchen Sie bei Schauern Schutz unter dem Laub.",
+                "hu": "A fákkal övezett partrész kiváló fotótéma borús időben, keress menedéket a sűrű lombozat alatt a hirtelen záporok elől.",
+                "ro": "Malul plin de copaci este un loc excelent pentru poze pe vreme posomorâtă; adăpostiți-vă sub frunziș în timpul averselor.",
+                "en": "The tree-lined shore is a great photo spot in gloomy weather; seek shelter under the dense foliage during sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ömerağzı",
+                "hu": "Ömerağzı",
+                "ro": "Ömerağzı",
+                "en": "Ömerağzı"
+              },
+              "tip_5lang": {
+                "de": "Lauschen Sie dem Regen in der Natur, aber die unbefestigten Wege können matschig werden, festes Schuhwerk ist wichtig.",
+                "hu": "Hallgasd az eső kopogását a természetben, de a földes ösvények sárba fordulhatnak, így strapabíró lábbeli ajánlott.",
+                "ro": "Ascultați ploaia în natură, dar potecile de pământ pot deveni noroioase, așa că se recomandă încălțăminte rezistentă.",
+                "en": "Listen to the rain in nature, but the dirt paths can quickly turn to mud, so sturdy and waterproof footwear is highly recommended."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Kerpe ruhig und die klare Luft sehr erfrischend. Vormittags bewundern wir die rauen Klippen. Mittags genießen wir die leeren Sandstrände. Nachmittags wird es schnell kälter, also warm anziehen! Gegen 17:00 Uhr suchen wir wegen der frühen Dunkelheit ein Lokal zum Aufwärmen.",
+            "hu": "Télen Kerpe csendes és a tiszta levegő frissítő. Délelőtt megcsodáljuk a zord sziklákat. Délben élvezzük az üres partokat, délutánra pedig gyorsan hűl a levegő, így a réteges öltözködés kötelező. 17:00 körül a korai sötétedés miatt egy meleg teázóba húzódunk.",
+            "ro": "Iarna, Kerpe este liniștită și aerul curat e revigorant. Dimineața admirăm stâncile aspre. La prânz ne bucurăm de plajele goale. După-amiaza se răcește rapid, deci hainele groase sunt obligatorii. Pe la 17:00, din cauza întunericului devreme, căutăm o ceainărie caldă.",
+            "en": "In winter, Kerpe is quiet and the crisp air is refreshing. Morning is for admiring the rugged cliffs. At noon we enjoy the completely empty beaches. Afternoon chills quickly, so layering is a must. By 17:00, with early darkness setting in, we head to a warm teahouse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kerpe Kayaliklari",
+                "hu": "Kerpe Kayaliklari",
+                "ro": "Kerpe Kayaliklari",
+                "en": "Kerpe Kayaliklari"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Seewind kann hier sehr stark sein; besuchen Sie die Klippen nicht ohne dicke Mütze und wärmenden Schal.",
+                "hu": "A téli tengeri szél itt nagyon erős lehet, vastag sapka és sál nélkül ne indulj a sziklákhoz, mert a hideg áthatol a ruhán.",
+                "ro": "Briza de iarnă poate fi foarte puternică aici; nu mergeți la stânci fără o căciulă groasă și un fular călduros.",
+                "en": "The winter sea breeze here can be very strong; don't visit the open cliffs without a thick hat and a warm scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Miço Koyu Kadınlar Plajı",
+                "hu": "Miço Koyu Kadınlar Plajı",
+                "ro": "Miço Koyu Kadınlar Plajı",
+                "en": "Miço Koyu Kadınlar Plajı"
+              },
+              "tip_5lang": {
+                "de": "In der winterlichen Einsamkeit strahlt diese Bucht Frieden aus; bringen Sie heißen Tee für den Spaziergang im Frost mit.",
+                "hu": "A téli magányban ez az öböl varázslatos békét áraszt, érdemes termoszban forró teát hozni a fagyos homokon sétálva.",
+                "ro": "În singurătatea iernii, acest golf radiază o pace magică; aduceți un termos cu ceai fierbinte la plimbarea pe nisipul înghețat.",
+                "en": "In winter solitude, this bay radiates magical peace; bring hot tea in a thermos while walking on the freezing sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Plajı",
+                "hu": "Kerpe Plajı",
+                "ro": "Kerpe Plajı",
+                "en": "Kerpe Plajı"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wintersonne am verlassenen Strand, aber tragen Sie eine winddichte Jacke gegen die eisige Seeluft.",
+                "hu": "Csodáld meg a téli napfényt a kihalt tengerparton, de a tenger felől érkező fagyos levegő miatt érdemes szélálló kabátot viselni.",
+                "ro": "Admirați soarele de iarnă pe plaja pustie, dar purtați o jachetă rezistentă la vânt împotriva aerului înghețat de la mare.",
+                "en": "Admire the beautiful winter sunlight on the deserted beach, but wear a windproof jacket to block the freezing air from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Paşaağzı",
+                "hu": "Paşaağzı",
+                "ro": "Paşaağzı",
+                "en": "Paşaağzı"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang zwischen kahlen Bäumen spendet Energie; die Landschaft liegt hier früh im kalten Schatten.",
+                "hu": "A kopaszodó fák közötti téli séta feltölt energiával, de készülj fel arra, hogy itt hamar árnyékba borul és lehűl a táj délután.",
+                "ro": "O plimbare de iarnă printre copacii goi îți dă energie; fiți pregătiți ca peisajul să intre în umbră și frig devreme.",
+                "en": "A winter walk among the bare trees recharges your energy; be prepared for the landscape to fall into a cold shadow early."
+              }
+            },
+            {
+              "name": {
+                "de": "Ömerağzı",
+                "hu": "Ömerağzı",
+                "ro": "Ömerağzı",
+                "en": "Ömerağzı"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Stille unter den Kiefern ist greifbar; achten Sie auf den Weg, da der Boden durch Frost extrem rutschig sein kann.",
+                "hu": "Itt a téli csend szinte kézzel fogható a fenyők alatt, figyelj az ösvényre, mert a talaj a fagyok miatt csúszós és kemény lehet.",
+                "ro": "Liniștea de iarnă este palpabilă sub pini; atenție la pași, deoarece pământul poate fi alunecos și tare din cauza înghețului.",
+                "en": "The winter silence is palpable under the pines here; watch your step as the ground can be slippery and hard due to the frost."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kerékpártúra a csendes Baba Burnu foknál indul, ahonnan remek kilátás nyílik a tengerre a friss reggeli levegőben. Kerekezzen tovább Ömerağzı és Paşaağzı felé, ahol apró öblök hívogatnak. Dél körül érje el a központi Kerpe Plajı strandot, majd csodálja meg a Kerpe Kayaliklari szikláit. Késő délután a hosszú homokos Kumcağız Plajı partján pihenheti ki a nap fáradalmait.",
         "ro": "Turul pe bicicletă începe la liniștitul Baba Burnu, cu vedere superbă la mare, perfect pentru briza dimineții. Pedalați apoi spre Ömerağzı și Paşaağzı, descoperind golfuri ascunse. La prânz, ajungeți în centrul stațiunii la Kerpe Plajı și continuați apoi cu stâncile spectaculoase din Kerpe Kayaliklari. Spre seară, turul se încheie cu o plimbare relaxantă pe plaja întinsă Kumcağız Plajı.",
         "en": "Your cycling tour starts at the tranquil Baba Burnu with magnificent sea views, perfect for soaking up the fresh morning air. Pedal on to Ömerağzı and Paşaağzı, where small coves invite you to linger. By midday, arrive at the vibrant center near Kerpe Plajı, then marvel at the spectacular cliffs of Kerpe Kayaliklari. In the late afternoon, wind down your active day at the spacious Kumcağız Plajı."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour in Kerpe erfordert gute Kleidung. Morgens fahren wir vorsichtig zum Kap. Mittags radeln wir gemütlich an den einsamen Stränden entlang. Nachmittags besuchen wir die Felsen in Regenkleidung. Abends parken wir die Räder und trocknen uns rasch im Café auf.",
+            "hu": "Egy esős bringázás Kerpében vízálló felszerelést igényel. Reggel óvatosan gurulunk a fokhoz a csúszós aszfalton. Délben a kihalt partszakaszokat fedezzük fel. Délután esőkabátban nézzük meg a sziklákat, estére pedig gyorsan meleg, fedett menedéket keresünk magunknak.",
+            "ro": "O plimbare ploioasă cu bicicleta în Kerpe necesită echipament impermeabil. Dimineața pedalăm cu grijă spre cap. La prânz explorăm plajele goale. După-amiaza vizităm stâncile în pelerine, iar seara ne grăbim spre un adăpost uscat pentru a ne încălzi.",
+            "en": "A rainy bike ride in Kerpe requires waterproof gear. Morning starts with a careful ride to the cape on slippery roads. At noon, we explore empty beach stretches. Afternoon brings us to the cliffs in raincoats, and by evening we quickly seek a dry, covered shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baba Burnu",
+                "hu": "Baba Burnu",
+                "ro": "Baba Burnu",
+                "en": "Baba Burnu"
+              },
+              "tip_5lang": {
+                "de": "Das Meeresrauschen am Leuchtturm ist im Regen atemberaubend, aber auf den nassen Felsen müssen Sie sehr vorsichtig radeln.",
+                "hu": "A világítótorony környékén a tenger morajlása esőben lenyűgöző, de a nedves sziklákon a biciklivel nagyon óvatosan kell manőverezni.",
+                "ro": "Zgomotul mării lângă far este uimitor pe ploaie, dar manevrați bicicleta cu mare grijă pe stâncile ude și alunecoase.",
+                "en": "The roar of the sea near the lighthouse is stunning in the rain, but maneuver your bike very carefully on the wet, slippery rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Ömerağzı",
+                "hu": "Ömerağzı",
+                "ro": "Ömerağzı",
+                "en": "Ömerağzı"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie unter Bäumen, die etwas Regen abfangen, aber nasses Laub auf der Straße erhöht die Rutschgefahr erheblich.",
+                "hu": "Bringázz a fák alatt, melyek felfognak valamennyit a csapadékból, ám a falevelek a nedves úton fokozott csúszásveszélyt jelentenek.",
+                "ro": "Pedalați sub copacii care prind o parte din ploaie, dar frunzele umede de pe drum cresc considerabil riscul de alunecare.",
+                "en": "Ride under the trees that catch some rain, but be aware that wet fallen leaves on the road pose an increased risk of slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Paşaağzı",
+                "hu": "Paşaağzı",
+                "ro": "Paşaağzı",
+                "en": "Paşaağzı"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Fotostopp unter grauem Himmel; eine wasserdichte Fahrradtasche ist hier nützlich, damit Wertsachen nicht nass werden.",
+                "hu": "Állj meg egy fotóra a szürke égbolt alatt, a vízálló táska a bringán itt különösen hasznos, hogy az értékeid ne ázzanak el a záporban.",
+                "ro": "Opriți pentru o poză sub cerul gri; o geantă de bicicletă impermeabilă este utilă aici pentru ca lucrurile de valoare să nu se ude.",
+                "en": "Stop for a great photo under the gray sky; a waterproof bike bag is especially useful here so your valuables don't get soaked in showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Plajı",
+                "hu": "Kerpe Plajı",
+                "ro": "Kerpe Plajı",
+                "en": "Kerpe Plajı"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in Ruhe auf der Promenade des Regenstrandes; Schutzbleche sind ein Muss gegen hochspritzenden Sand und Wasser.",
+                "hu": "A kihalt esős strandon nyugodtan tekerhetsz a sétányon, de sárvédő használata kötelező, ha el akarod kerülni a felcsapódó vizet.",
+                "ro": "Pedalați liniștit pe promenada plajei ploioase; apărătorile de noroi sunt obligatorii pentru a evita stropirea cu nisip și apă.",
+                "en": "Ride peacefully on the promenade of the empty rainy beach; mudguards are an absolute must to avoid splashing sand and water."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Kayaliklari",
+                "hu": "Kerpe Kayaliklari",
+                "ro": "Kerpe Kayaliklari",
+                "en": "Kerpe Kayaliklari"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen sind im Sturm fantastisch, aber lassen Sie das Rad sicher stehen, da der starke Küstenwind es leicht umwerfen kann.",
+                "hu": "A sziklák látványa viharban a legszebb, de hagyd a kerékpárt biztonságos távolságban, mert a parti szél könnyen felboríthatja a köveken.",
+                "ro": "Stâncile arată fabulos pe furtună, dar lăsați bicicleta la o distanță sigură, vântul de coastă o poate răsturna ușor pe pietre.",
+                "en": "The cliffs look incredible in a storm, but leave the bike at a safe distance as strong coastal winds can easily blow it over."
+              }
+            },
+            {
+              "name": {
+                "de": "Manitas Burnu",
+                "hu": "Manitas Burnu",
+                "ro": "Manitas Burnu",
+                "en": "Manitas Burnu"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause am Felsen, um den Regen auf dem Meer zu riechen; ein Regenponcho hält Sie auf der Weiterfahrt schön trocken.",
+                "hu": "Rövid pihenő a szirtnél, ahol élvezheted az eső illatát a tengeren; egy jó esőponcsó sokat segít, hogy szárazon folytasd az utat.",
+                "ro": "O scurtă pauză la stâncă pentru a simți mirosul ploii; un poncho de ploaie vă ajută mult să rămâneți uscat pe drumul rămas.",
+                "en": "A short rest at the cliff to enjoy the fresh smell of rain on the sea; a rain poncho helps a lot to keep you dry for the rest of the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Kumcağız Plajı",
+                "hu": "Kumcağız Plajı",
+                "ro": "Kumcağız Plajı",
+                "en": "Kumcağız Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Flussmündung am Ende der Straße ist im Regen einzigartig; wärmen Sie sich zum Abschluss auf einer überdachten Terrasse auf.",
+                "hu": "Az út végén a folyó torkolata esőben is különleges, a túra végére érve melegíts fel egy teát a közeli fedett teraszok egyikén.",
+                "ro": "Gura râului la capătul drumului e unică pe ploaie; încălziți-vă cu un ceai pe o terasă acoperită din apropiere la finalul turului.",
+                "en": "The river mouth at the end of the road is unique in the rain; warm up with hot tea on a nearby covered terrace to beautifully finish the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterradeln in Kerpe ist erfrischend kalt. Morgens haben wir klare Sicht an den Klippen. Mittags wärmt uns die Fahrt entlang der Buchten ein wenig auf. Nachmittags kühlt der Wind stark ab, Mütze unter dem Helm ist absolute Pflicht. Um 17:00 Uhr endet die Tour wegen der hereinbrechenden Dunkelheit.",
+            "hu": "A téli kerékpározás Kerpében frissítően hideg. Reggel tiszta a kilátás a szikláknál. Délben a tekerés az öblök mentén kicsit felmelegít. Délután a tengeri szél erősen lehűt, a sisak alatti sapka elengedhetetlen. 17:00 órára a korai sötétedés miatt biztonságosan befejezzük a túrát.",
+            "ro": "Ciclismul de iarnă în Kerpe este răcoros și revigorant. Dimineața avem o vizibilitate clară la stânci. La prânz, pedalarea ne încălzește puțin. După-amiaza vântul mării devine foarte rece, căciula sub cască e obligatorie. La 17:00 terminăm turul din cauza întunericului timpuriu.",
+            "en": "Winter biking in Kerpe is refreshingly cold. Morning offers crystal clear views at the cliffs. At noon, cycling along the bays warms us up slightly. Afternoon sea winds are chilling, making a skull cap under the helmet essential. By 17:00, we must finish the tour due to early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baba Burnu",
+                "hu": "Baba Burnu",
+                "ro": "Baba Burnu",
+                "en": "Baba Burnu"
+              },
+              "tip_5lang": {
+                "de": "Winterliche Kaltfronten bringen tolle Wellen; fahren Sie nicht ohne dicke Handschuhe los, der Fahrtwind gefriert die Hände schnell.",
+                "hu": "A téli hidegfrontok lenyűgöző hullámokat hoznak ide, vastag kesztyű nélkül ne indulj el, mert a menetszél hamar lefagyasztja a kezeidet.",
+                "ro": "Fronturile reci de iarnă aduc valuri uimitoare; nu porniți fără mănuși groase, vântul vă îngheață mâinile extrem de rapid.",
+                "en": "Winter cold fronts bring stunning, massive waves here; don't set off without thick gloves, as the wind chill freezes hands very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ömerağzı",
+                "hu": "Ömerağzı",
+                "ro": "Ömerağzı",
+                "en": "Ömerağzı"
+              },
+              "tip_5lang": {
+                "de": "Der Kiefernwald schützt vor Eiswind; die Straße ist hier schattiger, Reif kann den Asphalt rutschig machen – fahren Sie langsam.",
+                "hu": "A fenyőerdő télen véd a fagyos széltől, de az út itt árnyékosabb, így az aszfalt dér miatt síkos lehet, csökkentsd a sebességet.",
+                "ro": "Pădurea de pini protejează de vântul înghețat; drumul e mai umbrit, deci bruma poate face asfaltul foarte alunecos – reduceți viteza.",
+                "en": "The pine forest protects against the freezing wind; the road here is shadier, so winter frost can make the asphalt slippery—reduce speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Paşaağzı",
+                "hu": "Paşaağzı",
+                "ro": "Paşaağzı",
+                "en": "Paşaağzı"
+              },
+              "tip_5lang": {
+                "de": "Ein Heißgetränk aus der Thermoskanne ist hier ein Segen, das tiefblaue Wintermeer bietet dazu einen fantastischen Fotohintergrund.",
+                "hu": "A pihenőnél a termoszban hozott forró ital igazi áldás a téli hidegben, a tenger sötétkék téli árnyalata pedig remek hátteret ad.",
+                "ro": "O băutură caldă din termos este o binecuvântare aici în frigul iernii, iar marea de un albastru închis oferă un decor foto excelent.",
+                "en": "A hot drink from a thermos is a true blessing in the winter cold here, while the deep blue winter sea provides a perfect photo backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Plajı",
+                "hu": "Kerpe Plajı",
+                "ro": "Kerpe Plajı",
+                "en": "Kerpe Plajı"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf der sonnigen, aber eisigen Promenade; warme, winddichte Kleidung ist im offenen Gelände absolut lebenswichtig.",
+                "hu": "Tekerj a fagyos, de napos promenádon, ahol télen szinte senkivel sem találkozol, a réteges, szélálló ruházat azonban létfontosságú.",
+                "ro": "Pedalați pe promenada înghețată, dar însorită; îmbrăcămintea anti-vânt în straturi e absolut vitală aici în teren deschis.",
+                "en": "Ride on the freezing but sunny promenade where you'll hardly meet anyone; layered windproof clothing is absolutely vital in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Kayaliklari",
+                "hu": "Kerpe Kayaliklari",
+                "ro": "Kerpe Kayaliklari",
+                "en": "Kerpe Kayaliklari"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Küste wirkt im Winterlicht beeindruckend rau; stehen Sie nicht zu lange still, damit Sie nach der Fahrt nicht auskühlen.",
+                "hu": "A sziklás part a téli fényekben lenyűgözően rideg, ne tölts itt túl sok időt egy helyben állva, hogy a tested ne hűljön ki a menetszél után.",
+                "ro": "Țărmul stâncos este uimitor de aspru în lumina iernii; nu stați prea mult pe loc pentru a nu vă răci corpul după efortul de pedalare.",
+                "en": "The rocky shore is stunningly stark in winter light; don't stand still for too long so your body doesn't cool down after cycling heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Manitas Burnu",
+                "hu": "Manitas Burnu",
+                "ro": "Manitas Burnu",
+                "en": "Manitas Burnu"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Sonnenuntergang färbt das Wasser orange; denken Sie an die frühe Dämmerung um 17 Uhr und schalten Sie das Licht ein.",
+                "hu": "A téli délutáni naplemente narancsra festi a vizet, de ne feledd, hogy a nap nagyon hamar, már 5 óra körül lebukik, legyen rajtad világítás.",
+                "ro": "Apusul de iarnă colorează apa în portocaliu, dar amintiți-vă că soarele apune devreme, pe la 17:00; asigurați-vă că aveți lumini aprinse.",
+                "en": "The winter sunset paints the water orange, but remember the sun sets very early, around 5 PM; make sure you have reliable lights turned on."
+              }
+            },
+            {
+              "name": {
+                "de": "Kumcağız Plajı",
+                "hu": "Kumcağız Plajı",
+                "ro": "Kumcağız Plajı",
+                "en": "Kumcağız Plajı"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour am langen, frostigen Sandstrand und suchen Sie sich dann einen beheizten Ort, um die Finger aufzuwärmen.",
+                "hu": "Zárd a túrát a hosszú, fagyos homokos part megcsodálásával, majd keress egy fűtött helyet a városban, hogy a melegben átmozgasd az ujjaidat.",
+                "ro": "Încheiați turul admirând plaja lungă și înghețată, apoi găsiți un loc încălzit în oraș pentru a vă readuce la viață degetele reci.",
+                "en": "End the tour by admiring the long, freezing sandy beach, then find a cozy heated place in town to warm your stiff fingers back to life."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Indítsa a napot kényelmesen a tágas Kumcağız Plajı partján, élvezve a nyugodt reggeli napsütést. Autózzon tovább a Manitas Burnu és a festői Miço Koyu kilátópontjaihoz. Délben látogassa meg a híres Kerpe Kayaliklari szikláit és a nyüzsgő Kerpe Plajı-t. A délutánt a békés Ömerağzı öbölben töltheti, mielőtt a napot a lélegzetelállító Baba Burnu fok naplementéjével zárná.",
         "ro": "Începeți confortabil la vasta Kumcağız Plajı, savurând liniștea dimineții pe plajă. Conduceți apoi spre punctele de belvedere de la Manitas Burnu și golful Miço. La prânz, admirați faimoasele stânci Kerpe Kayaliklari, urmate de plaja centrală animată Kerpe Plajı. După-amiaza vă atrage plaja izolată din Ömerağzı, înainte de a încheia ziua cu un apus spectaculos la Baba Burnu.",
         "en": "Start comfortably at the expansive Kumcağız Plajı, enjoying the serene morning atmosphere on the beach. Drive next to the scenic viewpoints at Manitas Burnu and the secluded Miço Koyu. At midday, admire the famous rock formations of Kerpe Kayaliklari, followed by the lively main beach of Kerpe Plajı. In the afternoon, head to peaceful Ömerağzı, ending with a stunning sunset at Baba Burnu."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Kerpe auch bei Regen gut erkunden. Morgens fahren wir zum Strand und parken nah am Wasser. Mittags besuchen wir die Kap-Aussichtspunkte. Nachmittags fahren wir komfortabel zwischen den Buchten umher. Abends geht es zurück in eine gemütliche, durchgehend warme lokale Taverne.",
+            "hu": "Autóval Kerpe esőben is kényelmesen felfedezhető. Reggel a tengerparthoz hajtunk, közel parkolva a vízhez. Délben az öblök kilátóit nézzük meg az utastérből. Délután szárazon gurulunk a sziklákhoz, estére pedig egy hangulatos, fűtött helyi étteremben vacsorázunk a zápor elől menekülve.",
+            "ro": "Cu mașina, Kerpe poate fi explorată confortabil chiar și pe ploaie. Dimineața conducem spre plajă și parcăm aproape de apă. La prânz vedem golfurile din interior. După-amiaza conducem uscat între stânci, iar seara luăm cina într-un restaurant local încălzit și primitor.",
+            "en": "By car, Kerpe can be comfortably explored even in heavy rain. Morning starts with driving to the beach and parking close to the water. At noon, we safely view the bays from inside. Afternoon is for a dry drive between the cliffs, and by evening we dine in a cozy, well-heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kumcağız Plajı",
+                "hu": "Kumcağız Plajı",
+                "ro": "Kumcağız Plajı",
+                "en": "Kumcağız Plajı"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nahe am Strand und beobachten Sie die Regentropfen auf dem Sand, ganz bequem aus der warmen und trockenen Autokabine.",
+                "hu": "Állj meg autóval a parthoz közel és figyeld az esőcseppek táncát a homokon, kényelmesen, a száraz és fűtött utastérből szemlélődve.",
+                "ro": "Opriți aproape de plajă și priviți picăturile de ploaie pe nisip, observând confortabil din cabina uscată și caldă a mașinii.",
+                "en": "Stop close to the beach and watch the raindrops dance on the sand, comfortably observing from the completely dry and heated cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Manitas Burnu",
+                "hu": "Manitas Burnu",
+                "ro": "Manitas Burnu",
+                "en": "Manitas Burnu"
+              },
+              "tip_5lang": {
+                "de": "Selbst durch die Scheibenwischer ist der Sturm beeindruckend; beim Aussteigen ist wegen des Windes ein großer, stabiler Schirm unerlässlich.",
+                "hu": "A szakadó esőben az ablaktörlő alól is lenyűgöző a tengeri vihar, kiszálláskor egy hatalmas esernyő mindenképpen ajánlott a szél miatt.",
+                "ro": "Chiar și prin ștergătoare, furtuna este uimitoare; o umbrelă mare și robustă este absolut obligatorie la coborâre din cauza vântului.",
+                "en": "Even through the windshield wipers, the sea storm is stunning in heavy rain; a large, sturdy umbrella is a must when stepping out briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Miço Koyu",
+                "hu": "Miço Koyu",
+                "ro": "Miço Koyu",
+                "en": "Miço Koyu"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den nassen, abschüssigen Straßen vorsichtig zur Bucht; bei Regen wird das aufgewühlte Wasser besonders dunkelblau.",
+                "hu": "A lejtős, vizes utakon óvatosan közelítsd meg ezt a rejtett öblöt, esőben a víz színe különösen haragos sötétkékké változik.",
+                "ro": "Apropiați-vă de acest golf ascuns cu grijă pe drumurile umede și înclinate; pe ploaie, apa agitată devine un albastru închis furios.",
+                "en": "Approach this hidden bay carefully on sloping, wet rural roads; in the rain, the turbulent water turns an especially angry dark blue."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Kayaliklari",
+                "hu": "Kerpe Kayaliklari",
+                "ro": "Kerpe Kayaliklari",
+                "en": "Kerpe Kayaliklari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oberhalb der Klippen und bewundern Sie die Wellen; das Gehen auf nassen Steinen ist gefährlich, schauen Sie lieber aus der Ferne.",
+                "hu": "Parkolj le a sziklák felett, és csodáld meg a tajtékzó hullámokat; a vizes köveken való séta nagyon veszélyes, inkább élvezd a látványt távolabbról.",
+                "ro": "Parcați deasupra stâncilor și admirați valurile; plimbarea pe pietrele ude este extrem de periculoasă, bucurați-vă de priveliște de la distanță.",
+                "en": "Park safely above the cliffs and admire the foaming waves; walking on the wet stones is very dangerous, so enjoy the stunning view from a distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Plajı",
+                "hu": "Kerpe Plajı",
+                "ro": "Kerpe Plajı",
+                "en": "Kerpe Plajı"
+              },
+              "tip_5lang": {
+                "de": "An regnerischen Tagen bieten die Cafés am Ufer perfekten Schutz; lassen Sie das Auto stehen und rennen Sie auf einen heißen Tee schnell hinein.",
+                "hu": "Egy borús, esős napon a kávézók a part mentén tökéletes menedéket adnak, hagyd a kocsit a parkolóban és fuss be egy forró török teára.",
+                "ro": "Într-o zi ploioasă, cafenelele de pe mal oferă un adăpost perfect; lăsați mașina în parcare și fugiți înăuntru pentru un ceai turcesc cald.",
+                "en": "On a gloomy, rainy day, the cafes along the shore provide a perfect shelter; leave the car safely parked and dash in for a hot Turkish tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Ömerağzı",
+                "hu": "Ömerağzı",
+                "ro": "Ömerağzı",
+                "en": "Ömerağzı"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie wegen des Schlamms sehr langsam auf Waldwegen; der Duft des nassen Kiefernwaldes bei leicht heruntergelassenem Fenster ist magisch.",
+                "hu": "A sárfelverődés miatt az erdei földutakon lassan haladj, az eső áztatta fenyőerdő illata lehúzott ablaknál egyenesen varázslatos élmény.",
+                "ro": "Conduceți încet pe drumurile forestiere din cauza noroiului; mirosul pădurii de pini ude cu geamurile ușor lăsate este pur și simplu magic.",
+                "en": "Drive very slowly on the forest dirt roads due to mud; the fresh smell of the rain-soaked pine forest with rolled-down windows is simply magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Baba Burnu",
+                "hu": "Baba Burnu",
+                "ro": "Baba Burnu",
+                "en": "Baba Burnu"
+              },
+              "tip_5lang": {
+                "de": "Am Ende der Tour den tobenden Sturm am Leuchtturm sicher aus dem Auto zu fotografieren, ist ein unvergessliches Erlebnis bei Regenwetter.",
+                "hu": "A túra végén a világítótoronynál tomboló vihar biztonságos távolságból, az autóból fotózva egy életre szóló élményt ad esőben is.",
+                "ro": "La finalul turului, fotografierea furtunii furioase de la far din siguranța mașinii oferă o experiență de neuitat chiar și pe vreme ploioasă.",
+                "en": "At the end of the tour, photographing the raging sea storm at the lighthouse from the complete safety of your car gives a lifelong rainy experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winter-Roadtrip durch Kerpe ist sehr gemütlich. Morgens fahren wir in vorgeheizten Autos zum Strand. Mittags genießen wir die einsamen Aussichten auf die vereisten Küsten. Nachmittags stoppen wir für kurze, knackige Spaziergänge an den Klippen. Die Sonne geht rasch um 17 Uhr unter, dann wird es klirrend kalt.",
+            "hu": "Egy téli autós túra Kerpében igazán kényelmes. Reggel előmelegített autóval indulunk a strandhoz. Délben élvezzük a magányos, deres partok látványát. Délután rövideket sétálunk a szikláknál, majd gyorsan visszaszállunk a melegbe. 17:00-kor a naplemente után azonnal beáll a fagyasztó hideg.",
+            "ro": "Un tur de iarnă cu mașina în Kerpe este extrem de confortabil. Dimineața pornim cu mașina preîncălzită spre plajă. La prânz ne bucurăm de vederile coastelor înghețate. După-amiaza oprim pentru plimbări scurte, apoi revenim repede la căldură. După ora 17:00, devine îngrozitor de frig.",
+            "en": "A winter road trip in Kerpe is remarkably comfortable. Morning starts in a fully pre-heated car to the beach. At noon, we enjoy lonely views of the frosty coasts. In the afternoon, we stop for short walks by the cliffs before quickly retreating to the warmth. By 5 PM, it gets absolutely freezing cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kumcağız Plajı",
+                "hu": "Kumcağız Plajı",
+                "ro": "Kumcağız Plajı",
+                "en": "Kumcağız Plajı"
+              },
+              "tip_5lang": {
+                "de": "Das Wintermeer ist still, der Sand knirscht vor Frost unter den Füßen; machen Sie einen kurzen Spaziergang, aber lassen Sie die Autoheizung laufen.",
+                "hu": "A téli tenger teljesen csendes, a homok ropog a léptek alatt a fagytól, egy rövid sétára szállj ki, de hagyd a motort járni a jó fűtéshez.",
+                "ro": "Marea de iarnă este complet tăcută, nisipul scârțâie de îngheț; faceți o scurtă plimbare, dar lăsați motorul pornit pentru a menține căldura.",
+                "en": "The winter sea is completely silent, the sand crunches underfoot from the frost; step out for a short walk but leave the engine running for quick heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Manitas Burnu",
+                "hu": "Manitas Burnu",
+                "ro": "Manitas Burnu",
+                "en": "Manitas Burnu"
+              },
+              "tip_5lang": {
+                "de": "In der klaren Winterluft scheint der Meereshorizont endlos; ziehen Sie sich extrem warm an, der Wind an der Klippe ist beißend kalt.",
+                "hu": "A hideg, tiszta téli levegőben a tengeri horizont szinte végtelennek tűnik innen, öltözz fel vastagon, mert a nyitott szirtnél metsző a szél.",
+                "ro": "În aerul rece și curat de iarnă, orizontul mării pare nesfârșit; îmbrăcați-vă foarte gros, deoarece vântul la stânca deschisă este tăios.",
+                "en": "In the cold, crystal-clear winter air, the sea horizon seems absolutely endless from here; dress warmly, as the wind at the open cliff is biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Miço Koyu",
+                "hu": "Miço Koyu",
+                "ro": "Miço Koyu",
+                "en": "Miço Koyu"
+              },
+              "tip_5lang": {
+                "de": "In der Bucht zwischen Bäumen werden die Winterschatten schnell lang; der Anblick des eiskalten, kristallklaren Meeres entschädigt für die Kälte.",
+                "hu": "A fák közé ékelődött öbölben a téli árnyékok hamar hosszúra nyúlnak, de a fagyos, kristálytiszta tenger látványa maximálisan kárpótol a hidegért.",
+                "ro": "În golful dintre copaci, umbrele de iarnă se lungesc rapid; priveliștea mării înghețate și incredibil de cristaline compensează pe deplin frigul.",
+                "en": "In the bay wedged between trees, winter shadows quickly lengthen; the majestic sight of the freezing, crystal-clear sea totally makes up for the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Kayaliklari",
+                "hu": "Kerpe Kayaliklari",
+                "ro": "Kerpe Kayaliklari",
+                "en": "Kerpe Kayaliklari"
+              },
+              "tip_5lang": {
+                "de": "Die berühmten Klippen könnten jetzt Schnee oder Eis haben; tragen Sie rutschfeste Schuhe oder fotografieren Sie die raue Landschaft sicher vom Auto aus.",
+                "hu": "A híres sziklákon ilyenkor hó vagy jégréteg is lehet, csúszásgátló cipőben lépj csak ki, vagy fotózd le a zord tájat az autó közvetlen közeléből.",
+                "ro": "Faimoasele stânci ar putea avea un strat de gheață; ieșiți doar cu încălțăminte antiderapantă sau fotografiați peisajul dur direct de lângă mașină.",
+                "en": "The famous cliffs might have a treacherous layer of snow or ice now; only step out in anti-slip shoes, or photograph the rugged landscape right by the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kerpe Plajı",
+                "hu": "Kerpe Plajı",
+                "ro": "Kerpe Plajı",
+                "en": "Kerpe Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der einst belebte Strand ist wunderschön leer; spazieren Sie in der Wintersonne und trinken Sie dann in einem nahen Café einen dampfenden Sahlep.",
+                "hu": "A nyáron nyüzsgő part most gyönyörűen üres, sétálj egyet a téli napfényben, majd menj be egy nyitva tartó helyi kávézóba egy gőzölgő sahlepre felmelegedni.",
+                "ro": "Plaja odinioară plină este acum minunat de goală; plimbați-vă scurt în soarele de iarnă, apoi mergeți într-o cafenea pentru un sahlep aburind.",
+                "en": "The once bustling beach is beautifully empty; take a short walk in the crisp winter sun, then head into a local cafe for a steaming cup of sahlep to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Ömerağzı",
+                "hu": "Ömerağzı",
+                "ro": "Ömerağzı",
+                "en": "Ömerağzı"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite oder frostige Waldstraße ist magisch; ordentliche Winterreifen sind hier für das sichere Fahren durch den schattigen Wald absolut unerlässlich.",
+                "hu": "A télen behavazott vagy deres erdei útszakasz autóval is meseszép, ám a jó állapotú téli gumi itt elengedhetetlen a biztonságos erdei kanyargáshoz.",
+                "ro": "Drumul forestier înghețat sau înzăpezit este pur și simplu magic; anvelopele de iarnă sunt esențiale aici pentru a conduce în siguranță prin pădurea umbrită.",
+                "en": "The snow-covered or frosty forest road is magical from the warmth of the car; winter tires are strictly essential here for safe winding through the shaded woods."
+              }
+            },
+            {
+              "name": {
+                "de": "Baba Burnu",
+                "hu": "Baba Burnu",
+                "ro": "Baba Burnu",
+                "en": "Baba Burnu"
+              },
+              "tip_5lang": {
+                "de": "In der späten winterlichen Dunkelheit ist der Leuchtturmstrahl besonders kontrastreich; dies aus dem warmen Auto zu bewundern, ist ein gemütlicher Abschluss.",
+                "hu": "A késő délutáni téli sötétségben a világítótorony fénye különösen kontrasztos, a fűtött kocsiból csodálva kényelmes és biztonságos zárása a túrának.",
+                "ro": "În întunericul iernii de după-amiază, raza farului este deosebit de contrastantă; a-l admira din mașina foarte încălzită este un final perfect al turului.",
+                "en": "In the late afternoon winter darkness, the sweeping lighthouse beam is especially contrasting; admiring it from the fully heated car is a perfectly cozy end to the tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Châlons-en-Champagne polgári központjában, megcsodálva a Városházát és a legősibb Saint-Alpin templomot. Délidőben merüljön el a Notre-Dame-en-Vaux lenyűgöző UNESCO örökségében és történetében. A délutánt a helyi múzeumokban található művészeti és középkori leleteknek szenteljük. Fejezze be a napot pihenéssel a Le Grand Jard árnyas sétányain.",
         "ro": "Începeți dimineața explorând inima civică a orașului Châlons-en-Champagne, admirând Primăria și biserica Saint-Alpin. La prânz, pătrundeți în spectaculosul patrimoniu UNESCO al Notre-Dame-en-Vaux. După-amiaza este dedicată artei și artefactelor medievale din muzeele locale. Încheiați ziua relaxându-vă pe aleile umbrite ale parcului Le Grand Jard.",
         "en": "Start your morning exploring the civic heart of Châlons-en-Champagne, admiring the classical City Hall and the oldest church, Saint-Alpin. As midday approaches, dive into the spectacular UNESCO heritage of Notre-Dame-en-Vaux and its rich history. The afternoon is dedicated to art and medieval artifacts within the local museums. End your day relaxing in the shaded avenues of Le Grand Jard."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, dessen Fassade auch bei Regen beeindruckt. Mittags bieten die Kirchen Saint-Alpin und Notre-Dame-en-Vaux trockene Zuflucht und spirituelle Stille. Den Nachmittag verbringen wir in den erstklassigen Museen der Stadt, geschützt vor dem Wetter. Der Abend endet mit einem kurzen Spaziergang im Grand Jard, wo sich die Lichter in den Pfützen spiegeln.",
+            "hu": "A reggel a Városháza elegáns épületénél indul, ahol az eresz alatt is megcsodálhatjuk a homlokzatot. Délben a középkori templomok vastag falai nyújtanak tökéletes menedéket a záporok elől. Délután a város kiváló múzeumaiban merülhetünk el a művészetekben, teljesen szárazon. Az este a Jard parkok vizes aszfaltján csillogó lámpafények között zárul, esernyővel is hangulatosan.",
+            "ro": "Dimineața începe la Primărie, unde fațada impresionantă poate fi admirată chiar și pe ploaie. La prânz, bisericile Saint-Alpin și Notre-Dame-en-Vaux oferă un refugiu uscat și liniștit. După-amiaza este dedicată muzeelor de artă, ferite de intemperii. Seara se încheie cu o plimbare scurtă în Grand Jard, unde luminile orașului se oglindesc spectaculos în bălți.",
+            "en": "Morning starts at City Hall, where the architecture remains grand even under grey skies. At noon, the historic churches provide a perfect dry sanctuary from the passing showers. Afternoon is best spent inside the city's excellent museums, staying completely dry while exploring art. The evening concludes with a walk in Grand Jard, where streetlights reflect beautifully on the wet paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "City Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Fassade vom gegenüberliegenden Arkadengang aus, um trocken zu bleiben; achten Sie auf den glatten Steinboden bei Nässe.",
+                "hu": "Csodálja meg a pompás homlokzatot a szemközti árkádok alól, így szárazon maradhat; ügyeljen a nedves és csúszós kőburkolatra a bejáratnál.",
+                "ro": "Admirați fațada splendidă de sub arcadele de vis-à-vis pentru a rămâne uscat; aveți grijă la pavajul de piatră care devine alunecos când este ud.",
+                "en": "Admire the grand facade from the covered walkways opposite to stay dry; watch your step on the stone pavement as it becomes slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Alpin",
+                "hu": "Saint-Alpin templom",
+                "ro": "Biserica Saint-Alpin",
+                "en": "Saint-Alpin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschauer, um die detaillierten Glasmalereien im Inneren in aller Ruhe zu studieren; der massive Kirchenbau ist ein idealer Wetterschutz.",
+                "hu": "Használja ki az esőt a belső tér részletes üvegablakainak tanulmányozására; a vaskos templomfalak között teljes biztonságban várhatja meg a zápor végét.",
+                "ro": "Folosiți repriza de ploaie pentru a studia în liniște vitraliile detaliate din interior; structura masivă a bisericii este un adăpost ideal contra vremii.",
+                "en": "Use the rain break to study the detailed stained glass inside in peace; the massive church structure provides excellent protection from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux társaskáptalan",
+                "ro": "Biserica colegială Notre-Dame-en-Vaux",
+                "en": "Notre-Dame-en-Vaux Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Die beeindruckende Akustik bei Regen auf dem Dach schafft eine mystische Atmosphäre; idealer Ort, um das Carillon trocken im Inneren zu hören.",
+                "hu": "A tetőn kopogó eső és a lenyűgöző akusztika misztikus hangulatot áraszt; ideális helyszín a híres harjáték hallgatására, miközben bent szárazon marad.",
+                "ro": "Acustica impresionantă și sunetul ploii pe acoperiș creează o atmosferă mistică; este locul ideal pentru a asculta carillonul stând la adăpost în interior.",
+                "en": "The impressive acoustics combined with rain on the roof create a mystical atmosphere; an ideal spot to hear the carillon while staying dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Kreuzgangs von Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux kerengőmúzeuma",
+                "ro": "Muzeul Cloister Notre-Dame-en-Vaux",
+                "en": "Musée du Cloître de Notre-Dame-en-Vaux"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort, da die Ausstellung fast vollständig überdacht ist; genießen Sie die mittelalterliche Kunst ohne Sorge vor dem Wetter draußen.",
+                "hu": "Tökéletes búvóhely, mivel a kiállítás nagy része fedett területen található; élvezze a középkori szobrokat anélkül, hogy az odakinti eső miatt aggódna.",
+                "ro": "Un refugiu perfect, deoarece expoziția este aproape în întregime acoperită; bucurați-vă de arta medievală fără a vă face griji de ploaia de afară.",
+                "en": "A perfect retreat as the exhibition is almost entirely covered; enjoy the medieval art without worrying about the weather conditions outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Schöne Künste und Archäologie",
+                "hu": "Szépművészeti és Régészeti Múzeum",
+                "ro": "Muzeul de Arte Frumoase și Arheologie",
+                "en": "Museum of Fine Arts and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier einen längeren Aufenthalt ein, um den stärksten Regen abzuwarten; die Garderobe bietet Platz für nasse Mäntel und Schirme.",
+                "hu": "Tervezzen ide hosszabb tartózkodást, hogy kivárja a nagyobb esőt; a ruhatárban kényelmesen elhelyezheti nedves kabátját és esernyőjét a látogatás előtt.",
+                "ro": "Planificați o vizită mai lungă aici pentru a aștepta trecerea ploii; garderoba oferă spațiu generos pentru haine ude și umbrele în timpul vizitei.",
+                "en": "Plan a longer stay here to wait out the heaviest rain; the cloakroom provides space for wet coats and umbrellas during your art exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Jard",
+                "hu": "Le Grand Jard",
+                "ro": "Le Grand Jard",
+                "en": "Le Grand Jard"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege, um Schlamm zu vermeiden; die Pavillons bieten kurze Unterstände, falls Sie von einem Schauer überrascht werden.",
+                "hu": "Használja a kiépített aszfaltutakat a sár elkerülése érdekében; a park pavilonjai rövid menedéket nyújtanak, ha hirtelen eleredne az eső séta közben.",
+                "ro": "Folosiți aleile pavate pentru a evita noroiul; pavilioanele din parc oferă adăpost temporar în cazul în care sunteți surprins de o aversă bruscă.",
+                "en": "Stick to the paved paths to avoid mud; the park's pavilions offer quick shelter if you are caught in a sudden shower during your evening stroll."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Rathaus weckt die Geister. Mittags wärmen wir uns in den historisch bedeutsamen Kirchen auf, während das Winterlicht durch die Fenster fällt. Nachmittags bieten die Museen eine gemütliche, beheizte Umgebung für Kultur. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir die abendliche Illumination im Grand Jard bei kühler Luft.",
+            "hu": "A friss téli reggel a Városháza előtt segít az ébredésben. Napközben a történelmi templomok belső tereiben melegedhetünk fel, miközben a téli napfény átszűrődik az ablakokon. A délutáni órákat a múzeumok fűtött termeiben töltjük kulturális élményekkel. Mivel 17:00 körül már sötétedik, a Jard park esti fényeit korán, a csípős levegőben élvezhetjük.",
+            "ro": "O dimineață răcoroasă de iarnă la Primărie vă va trezi simțurile. La prânz, ne încălzim în interiorul bisericilor istorice, admirând lumina iernii prin vitralii. După-amiaza oferă un cadru confortabil și încălzit în muzeele orașului. Deoarece soarele apune în jur de ora 17:00, ne bucurăm devreme de iluminatul festiv din Grand Jard în aerul tăios.",
+            "en": "A crisp winter morning at City Hall is truly invigorating. At noon, take warmth inside the historic churches while watching the soft winter light filter through. Afternoon provides a cozy, heated environment in the city's museums. As the sun sets around 17:00, enjoy the beautiful evening illumination in Grand Jard while the air turns sharp and cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "City Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für Fotos der winterlichen Fassade; das Gebäude wirkt im klaren Winterlicht besonders scharf gezeichnet.",
+                "hu": "Viseljen meleg kesztyűt a téli homlokzat fotózásához; az épület vonalai a tiszta téli fényben különösen élesen és elegánsan mutatkoznak meg.",
+                "ro": "Purtați mănuși groase pentru a fotografia fațada de iarnă; clădirea arată deosebit de clară și impunătoare în lumina rece a dimineții.",
+                "en": "Wear warm gloves while taking photos of the winter facade; the building's lines appear particularly sharp in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Alpin",
+                "hu": "Saint-Alpin templom",
+                "ro": "Biserica Saint-Alpin",
+                "en": "Saint-Alpin Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren als Pause vom kalten Wind; die Kerzenflammen verbreiten eine besonders heimelige Wärme im dunklen Kirchenschiff.",
+                "hu": "Élvezze a belső csendet és a hideg szél elöli menedéket; a gyertyák lángja ilyenkor különösen meghitt meleget és fényt áraszt a sötétebb hajóban.",
+                "ro": "Bucurați-vă de liniștea din interior ca o pauză de la vântul rece; flăcările lumânărilor creează o atmosferă caldă și primitoare în nava întunecată.",
+                "en": "Enjoy the interior silence as a break from the cold wind; the flickering candles provide a cozy warmth and glow in the dark winter nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux társaskáptalan",
+                "ro": "Biserica colegială Notre-Dame-en-Vaux",
+                "en": "Notre-Dame-en-Vaux Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn das tiefe Sonnenlicht die Skulpturen dramatisch beleuchtet; ziehen Sie sich für den kühlen Innenraum warm an.",
+                "hu": "Látogassa meg kora délután, amikor az alacsony napállás drámai fénybe vonja a szobrokat; öltözzön rétegesen, mert a templombelső hűvös maradhat.",
+                "ro": "Vizitați biserica după-amiaza devreme, când soarele jos luminează dramatic sculpturile; îmbrăcați-vă gros, deoarece interiorul poate fi destul de rece.",
+                "en": "Visit in the early afternoon when the low sun casts dramatic light on the sculptures; dress in layers as the stone interior can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Kreuzgangs von Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux kerengőmúzeuma",
+                "ro": "Muzeul Cloister Notre-Dame-en-Vaux",
+                "en": "Musée du Cloître de Notre-Dame-en-Vaux"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Atmosphäre ist perfekt, um dem Wintergrau zu entfliehen; die Beleuchtung setzt die romanischen Figuren auch an dunklen Tagen perfekt in Szene.",
+                "hu": "A védett környezet tökéletes a téli szürkeség elöli menekülésre; a világítás még a borús napokon is kiemeli a román kori figurák szépségét.",
+                "ro": "Atmosfera protejată este perfectă pentru a scăpa de cenușiul iernii; iluminatul pune în valoare figurile romanice chiar și în cele mai întunecate zile.",
+                "en": "The sheltered atmosphere is perfect for escaping the winter grey; the lighting highlights the Romanesque figures perfectly even on dark days."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Schöne Künste und Archäologie",
+                "hu": "Szépművészeti és Régészeti Múzeum",
+                "ro": "Muzeul de Arte Frumoase és Arheologie",
+                "en": "Museum of Fine Arts and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Säle für eine ausgiebige Kulturpause; ideal, um die Zeit bis zum frühen Sonnenuntergang gemütlich zu überbrücken.",
+                "hu": "Használja ki a fűtött termeket egy kiadós kulturális pihenőre; ideális hely, hogy kellemesen töltsük el az időt a korai naplementéig.",
+                "ro": "Profitați de sălile încălzite pentru o pauză culturală prelungită; este locul ideal pentru a petrece timpul până la apusul devreme al soarelui.",
+                "en": "Take advantage of the heated galleries for an extensive cultural break; it's the perfect place to stay warm until the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Jard",
+                "hu": "Le Grand Jard",
+                "ro": "Le Grand Jard",
+                "en": "Le Grand Jard"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Park gegen 16:30 Uhr, um den winterlichen Sonnenuntergang zu erleben; die kahlen Bäume bieten eine ganz eigene, grafische Ästhetik.",
+                "hu": "Látogasson el 16:30 körül, hogy elcsípje a téli naplementét; a kopár ágak és a deres fű különleges, grafikus látványt nyújtanak a parkban.",
+                "ro": "Vizitați parcul în jurul orei 16:30 pentru a vedea apusul de iarnă; copacii desfrunziți oferă o estetică grafică unică sub cerul înghețat.",
+                "en": "Visit the park around 16:30 to catch the winter sunset; the bare branches and frost offer a unique, graphic aesthetic in the fading light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggelt a fenséges Saint-Étienne katedrálisnál kezdve tekerjen a város történelmi polgári és vallási központjába. A délidő festői utat kínál a kivételes társaskáptalan és a Jules Garinet Múzeum felé. A délutánt a hatalmas Porte Sainte-Croix felé biciklizve töltse. Zárja az estét egy békés gurulással a nyugodt Le Jard Anglais parkban, élvezve a természet közelségét.",
         "ro": "Pedalați dimineața de la maiestuoasa Catedrală Saint-Étienne spre inima istorică și religioasă a orașului. Prânzul oferă o plimbare pitorească spre Biserica Colegială și fascinantul Muzeu Jules Garinet. Petreceți după-amiaza mergând cu bicicleta la marea Porte Sainte-Croix. Încheiați seara plimbându-vă pe două roți prin parcul liniștit Le Jard Anglais.",
         "en": "Pedal through the morning starting at the majestic Saint-Étienne Cathedral before making your way to the historic civic and religious heart of the city. Midday offers a scenic ride towards the exceptional Collegiate Church and the fascinating Jules Garinet Museum. Spend your afternoon cycling to the grand Porte Sainte-Croix. Wind down your evening wheeling through the tranquil Le Jard Anglais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Kathedrale, wo wir unter dem Portal Schutz suchen. Wir radeln vorsichtig über die nassen Straßen zu den Kirchen und dem Rathaus. Der Nachmittag im Jules-Garinet-Museum bietet eine willkommene Pause vom Regen. Am Abend erkunden wir die Porte Sainte-Croix, bevor wir den Tag trotz Nässe im Jard Anglais ruhig ausklingen lassen.",
+            "hu": "A nap a katedrálisnál indul, ahol a kapualj alatt várhatjuk meg a zápor végét. Óvatosan kerekezünk a vizes utcákon a templomok és a Városháza felé. A Jules Garinet Múzeumban töltött délután kellemes pihenőt kínál az eső elől. Este még érintjük a Porte Sainte-Croix-t, majd a Jard Anglais-nál zárjuk a napot a friss, eső utáni levegőben.",
+            "ro": "Ziua începe la catedrală, unde putem găsi adăpost sub portalul principal. Pedalăm cu atenție pe străzile ude spre biserici și Primărie. După-amiaza la Muzeul Jules Garinet oferă o pauză binemeritată de la ploaie. Seara explorăm Porte Sainte-Croix înainte de a încheia ziua în Jard Anglais, în ciuda umezelii de afară.",
+            "en": "The day starts at the Cathedral, where the large portal provides a grand shelter. We cycle carefully through wet streets towards the churches and City Hall. An afternoon at the Jules Garinet Museum offers a welcome break from the rain. In the evening, we explore Porte Sainte-Croix before ending the day calmly at Jard Anglais despite the damp air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern in der Nähe ab; das Innere bietet viel Raum, um regnerische Stunden bei beeindruckender Kunst zu verbringen.",
+                "hu": "Parkolja le kerékpárját a közeli előtetők alatt; a belső tér tágas és rengeteg látnivalót kínál, amíg eláll az eső odakint.",
+                "ro": "Parcați bicicleta sub copertinele din apropiere; interiorul generos oferă mult spațiu pentru a petrece orele ploioase admirând arta impresionantă.",
+                "en": "Park your bike under the nearby overhangs; the interior offers vast space to spend rainy hours while admiring the impressive religious art."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Alpin",
+                "hu": "Saint-Alpin templom",
+                "ro": "Biserica Saint-Alpin",
+                "en": "Saint-Alpin Church"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf dem nassen Kopfsteinpflaster vor dem Eingang; nutzen Sie den Besuch für eine kurze Trockenpause in historischem Ambiente.",
+                "hu": "Vigyázzon a leszállásnál a bejárat előtti nedves macskaköveken; használja ki a látogatást egy rövid száradásra a történelmi falak között.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul ud din fața intrării; profitați de vizită pentru o scurtă pauză de uscare într-un ambient istoric.",
+                "en": "Be careful when dismounting on the wet cobblestones in front of the entrance; use the visit as a short drying break in a historic setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "City Hall"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Arkaden möglich; achten Sie auf die Markierungen für Radfahrer, die bei Nässe rutschig sein können.",
+                "hu": "Rövid megálló az árkádok alatt lehetséges; ügyeljen a felfestett kerékpáros jelzésekre, amelyek vizesen csúszóssá válhatnak a téren.",
+                "ro": "Este posibilă o scurtă oprire sub arcade; atenție la marcajele pentru bicicliști, care pot deveni alunecoase pe timp de ploaie.",
+                "en": "A short stop under the arcades is possible; watch out for painted bicycle markings on the ground, which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux társaskáptalan",
+                "ro": "Biserica colegială Notre-Dame-en-Vaux",
+                "en": "Notre-Dame-en-Vaux Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Die gotische Architektur bietet viele Nischen zum Unterstellen; genießen Sie das Orgelspiel trocken im Inneren, während es draußen regnet.",
+                "hu": "A gótikus épület számos fülkét kínál a várakozáshoz; élvezze az orgonaszót bent a szárazon, miközben odakint esik az eső.",
+                "ro": "Arhitectura gotică oferă multe nișe pentru a vă adăposti; bucurați-vă de sunetul orgii în interiorul uscat în timp ce afară plouă.",
+                "en": "The Gothic architecture offers many niches for temporary shelter; enjoy the organ music dry inside while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jules-Garinet-Museum",
+                "hu": "Jules Garinet Múzeum",
+                "ro": "Muzeul Jules Garinet",
+                "en": "Jules Garinet Museum"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine längere Regenpause am Nachmittag; das Museum ist klein genug, um es ohne Eile im Trockenen zu erkunden.",
+                "hu": "Ideális egy hosszabb délutáni esőpihenőhöz; a múzeum elég kicsi ahhoz, hogy kapkodás nélkül, kényelmesen és szárazon fedezze fel.",
+                "ro": "Ideal pentru o pauză lungă de ploaie după-amiaza; muzeul este suficient de mic pentru a fi explorat pe îndelete la adăpost.",
+                "en": "Ideal for a long afternoon rain break; the museum is small enough to explore thoroughly and comfortably while staying out of the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Sainte-Croix",
+                "hu": "Porte Sainte-Croix",
+                "ro": "Porte Sainte-Croix",
+                "en": "Porte Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Der Triumphbogen bietet einen hervorragenden, massiven Unterstand bei plötzlichen Schauern; prüfen Sie hier kurz Ihre Bremsen nach der Regenfahrt.",
+                "hu": "A diadalív kiváló és masszív menedéket nyújt hirtelen zápor esetén; itt ellenőrizheti rövid időre a fékeit az esős tekerés után.",
+                "ro": "Arcul de triumf oferă un adăpost masiv și excelent în caz de averse bruște; verificați-vă scurt frânele aici după cursa prin ploaie.",
+                "en": "The triumphal arch provides excellent, solid shelter during sudden showers; use this stop to briefly check your brakes after cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jard Anglais",
+                "hu": "Le Jard Anglais",
+                "ro": "Le Jard Anglais",
+                "en": "Le Jard Anglais"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, da Laub und Nässe den Boden rutschig machen; die Brücken bieten einen schönen Blick auf den Regen im Kanal.",
+                "hu": "Hajtson lassan a park útjain, mert a levelek és a víz csúszóssá teszik a talajt; a hidakról szép kilátás nyílik a csatorna vizére az esőben.",
+                "ro": "Mergeți încet pe aleile parcului, deoarece frunzele și umezeala fac solul alunecos; podurile oferă o priveliște frumoasă asupra ploii pe canal.",
+                "en": "Ride slowly on the park paths as leaves and wet ground make them slippery; the bridges offer a lovely view of the rain falling on the canal."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Kathedrale bringt den Kreislauf in Schwung. Wir radeln durch die winterliche Altstadt zum Rathaus und den Kirchen, wobei die kalte Luft erfrischend wirkt. Der Nachmittag im Museum ist die perfekte Aufwärmpause. Gegen 17:00 Uhr wird es dunkel, was den Besuch der Porte Sainte-Croix und den Abschluss im Jard Anglais besonders atmosphärisch macht.",
+            "hu": "A hűvös kezdés a katedrálisnál rögtön felélénkíti az embert. A téli óvároson át tekerünk a Városháza és a templomok felé, a csípős levegő frissítően hat. A délutáni múzeumlátogatás tökéletes alkalom a felmelegedésre. 17:00 körül már sötétedik, így a Porte Sainte-Croix és a Jard Anglais megvilágított látványa különleges élmény.",
+            "ro": "Un start răcoros la catedrală vă va pune sângele în mișcare. Pedalăm prin orașul vechi de iarnă spre Primărie și biserici, aerul rece fiind revigorant. După-amiaza la muzeu este pauza perfectă pentru încălzire. Se întunecă în jur de ora 17:00, făcând vizita la Porte Sainte-Croix și finalul în Jard Anglais foarte atmosferice.",
+            "en": "A chilly start at the Cathedral gets your energy flowing. We cycle through the wintry old town to City Hall and the churches, finding the cold air refreshing. The afternoon museum visit is the perfect warm-up break. Darkness falls around 17:00, making the visit to Porte Sainte-Croix and the end at Jard Anglais particularly atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Radhandschuhe; das Innere der Kathedrale ist ein friedlicher Ort zum Aufwärmen und Bewundern der sakralen Schätze.",
+                "hu": "Viseljen meleg kerékpáros kesztyűt; a katedrális belső tere békés hely a felmelegedésre és a szakrális kincsek megcsodálására a hideg után.",
+                "ro": "Purtați mănuși calde de ciclism; interiorul catedralei este un loc liniștit pentru a vă încălzi și a admira comorile sacre.",
+                "en": "Wear warm cycling gloves; the cathedral's interior is a peaceful place to warm up and admire the sacred treasures after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Alpin",
+                "hu": "Saint-Alpin templom",
+                "ro": "Biserica Saint-Alpin",
+                "en": "Saint-Alpin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp hier hilft, dem kalten Wind zu entkommen; das sanfte Licht im Inneren wirkt an kurzen Wintertagen besonders einladend.",
+                "hu": "Egy rövid megálló itt segít elmenekülni a hideg szél elől; a belső tér lágy fényei a rövid téli napokon különösen hívogatóak.",
+                "ro": "O scurtă oprire aici vă ajută să scăpați de vântul rece; lumina blândă din interior este deosebit de primitoare în zilele scurte de iarnă.",
+                "en": "A quick stop here helps you escape the biting wind; the soft interior lighting is particularly inviting on short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "City Hall"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Eisstellen auf dem Vorplatz; die winterliche Beleuchtung des Gebäudes beginnt bereits am späten Nachmittag.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a tér burkolatán; az épület téli díszkivilágítása már késő délután elkezdődik, érdemes megvárni.",
+                "ro": "Atenție la eventualele porțiuni înghețate din piață; iluminatul de iarnă al clădirii începe deja spre sfârșitul după-amiezii.",
+                "en": "Watch out for potential icy patches on the square; the building's winter illumination starts in the late afternoon, creating a grand view."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux társaskáptalan",
+                "ro": "Biserica colegială Notre-Dame-en-Vaux",
+                "en": "Notre-Dame-en-Vaux Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Das Carillon klingt in der klaren Winterluft besonders weit; nutzen Sie den Besuch für eine kulturelle Pause im windgeschützten Inneren.",
+                "hu": "A harangjáték hangja a tiszta téli levegőben messzire száll; használja ki a látogatást egy kulturális pihenőre a szélvédett belső térben.",
+                "ro": "Sunetul carillonului se aude foarte clar în aerul de iarnă; folosiți vizita pentru o pauză culturală în interiorul ferit de vânt.",
+                "en": "The carillon's sound travels far in the crisp winter air; use the visit for a cultural break in the wind-sheltered interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Jules-Garinet-Museum",
+                "hu": "Jules Garinet Múzeum",
+                "ro": "Muzeul Jules Garinet",
+                "en": "Jules Garinet Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um sich am Nachmittag aufzuwärmen; die intime Atmosphäre des Hauses passt wunderbar zur winterlichen Stimmung.",
+                "hu": "Meghitt hely a délutáni felmelegedéshez; a polgári ház bensőséges hangulata remekül illik a téli délutánok nyugalmához.",
+                "ro": "Un loc primitor pentru a vă încălzi după-amiaza; atmosfera intimă a casei se potrivește de minune cu starea de spirit de iarnă.",
+                "en": "A cozy place to warm up in the afternoon; the house's intimate atmosphere fits the winter mood perfectly for a slow exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Sainte-Croix",
+                "hu": "Porte Sainte-Croix",
+                "ro": "Porte Sainte-Croix",
+                "en": "Porte Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort bei Sonnenuntergang gegen 17:00 Uhr für dramatische Fotos; die kalte Steinarchitektur wirkt im Dämmerlicht sehr edel.",
+                "hu": "Látogasson el ide naplementekor, 17:00 körül a drámai fotókért; a hideg kőarchitektúra az alkonyati fényekben különösen elegáns látvány.",
+                "ro": "Vizitați acest loc la apus, în jur de ora 17:00, pentru fotografii dramatice; arhitectura rece de piatră arată foarte nobil în amurg.",
+                "en": "Visit this spot at sunset around 17:00 for dramatic photos; the cold stone architecture looks very noble in the fading twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jard Anglais",
+                "hu": "Le Jard Anglais",
+                "ro": "Le Jard Anglais",
+                "en": "Le Jard Anglais"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Durchgang zum Abschluss, bevor es ganz dunkel wird; genießen Sie den Frost auf den Wiesen und die Ruhe am Wasser.",
+                "hu": "Egy gyors kör a zárás előtt, mielőtt teljesen besötétedik; élvezze a zúzmarás füvet és a vízparti csendet a hideg esti levegőben.",
+                "ro": "O ultimă tură rapidă înainte de a se întuneca complet; bucurați-vă de iarba înghețată și de liniștea de lângă apă în aerul serii.",
+                "en": "A quick final loop before it gets completely dark; enjoy the frost on the grass and the peace by the water in the sharp evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Vezessen első megállójához, a monumentális Porte Sainte-Croix-hoz, élvezve a nagyszerűséget, mielőtt megtekintené a történelmi Marne Prefektúrát. A déli utazás a tornyosuló Saint-Étienne katedrálishoz és a Notre-Dame-en-Vaux-hoz vezet. Szentelje délutánját a kerengőmúzeum gazdag kiállításainak. Zárja a napot a Nemzeti Cirkuszművészeti Központ dinamikus energiájában elmerülve.",
         "ro": "Conduceți la prima oprire, monumentala Porte Sainte-Croix, bucurându-vă de grandoare înainte de a vedea Prefectura istorică. Călătoria de prânz vă duce la uimitoarea Catedrală Saint-Étienne și remarcabila Notre-Dame-en-Vaux. Dedicați după-amiaza expozițiilor bogate de la Muzeul Cloister. Încheiați ziua scufundați în artele pline de energie la Centrul Național al Circului.",
         "en": "Drive to your first stop at the monumental Porte Sainte-Croix, soaking in the grandeur before seeing the historic Préfecture de la Marne. The midday journey takes you to the towering Saint-Étienne Cathedral and the remarkable Notre-Dame-en-Vaux. Devote your afternoon to the rich displays at the Cloister Museum. Conclude your day trip immersed in the energetic arts at the National Circus Centre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Stadt bequem und trocken. Wir starten an der Porte Sainte-Croix und besuchen die monumentale Präfektur und Kathedrale. Mittags und nachmittags bieten die Kirchen und Museen exzellente Innenprogramme, während es draußen regnet. Der Tag endet im Nationalen Zentrum für Zirkuskünste, einem idealen Ort für kulturelle Entdeckungen bei jedem Wetter.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel a várost. A Porte Sainte-Croix-tól indulunk, érintve a monumentális Prefektúrát és a katedrálist. Napközben a templomok és múzeumok kiváló belső programokat kínálnak, miközben odakint esik az eső. A napot a Nemzeti Cirkuszművészeti Központban zárjuk, amely ideális fedett helyszín minden időjárásban.",
+            "ro": "Explorăm orașul confortabil și la uscat cu mașina. Începem la Porte Sainte-Croix și vizităm Prefectura monumentală și catedrala. La prânz și după-amiaza, bisericile și muzeele oferă programe interioare excelente în timp ce afară plouă. Ziua se încheie la Centrul Național de Arte ale Circului, un loc ideal pentru descoperiri culturale pe orice vreme.",
+            "en": "Explore the city comfortably and dry by car. We start at Porte Sainte-Croix and visit the monumental Prefecture and Cathedral. Throughout the day, the churches and museums offer excellent indoor programs while the rain falls outside. The day concludes at the National Centre for Circus Arts, an ideal indoor venue for cultural discovery in any weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte Sainte-Croix",
+                "hu": "Porte Sainte-Croix",
+                "ro": "Porte Sainte-Croix",
+                "en": "Porte Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie den Triumphbogen als ersten trockenen Aussichtspunkt; ideal, um die Route bei Regen kurz zu prüfen.",
+                "hu": "Parkoljon a közelben, és használja a diadalívet az első száraz kilátópontként; ideális hely az útvonal rövid ellenőrzésére esőben.",
+                "ro": "Parcați în apropiere și folosiți arcul de triumf ca prim punct de observație uscat; este ideal pentru a verifica scurt traseul pe ploaie.",
+                "en": "Park nearby and use the triumphal arch as your first dry vantage point; it is a great spot to briefly review your route during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Präfektur der Marne",
+                "hu": "Marne Prefektúra",
+                "ro": "Prefectura Marne",
+                "en": "Préfecture de la Marne"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur aus dem Auto oder bei einem kurzen Sprint zum Eingang; die massiven Tore wirken bei Regen besonders imposant.",
+                "hu": "Csodálja meg az építészetet az autóból, vagy egy rövid sprinttel a bejáratig; a hatalmas kapuk esőben különösen impozánsan mutatnak.",
+                "ro": "Admirați arhitectura din mașină sau printr-un scurt sprint până la intrare; porțile masive arată deosebit de impunător pe timp de ploaie.",
+                "en": "Admire the architecture from your car or with a quick sprint to the entrance; the massive gates look particularly imposing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Parkmöglichkeiten für einen schnellen Zugang zum trockenen Kirchenschiff; bewundern Sie die Schätze in aller Ruhe.",
+                "hu": "Használja a közeli parkolóhelyeket a száraz templomhajó gyors eléréséhez; csodálja meg a kincseket és az üvegablakokat teljes nyugalomban.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru un acces rapid la nava uscată a bisericii; admirați comorile și vitraliile în deplină liniște.",
+                "en": "Utilize nearby parking for quick access to the dry nave; take your time admiring the treasures and stained glass while sheltered from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux társaskáptalan",
+                "ro": "Biserica colegială Notre-Dame-en-Vaux",
+                "en": "Notre-Dame-en-Vaux Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, da das Auto in der Nähe sicher steht; das Innere bietet eine warme, trockene Atmosphäre voller Geschichte.",
+                "hu": "Ideális megálló, mivel az autó a közelben biztonságban állhat; a belső tér meleg, száraz atmoszférát és gazdag történelmet kínál.",
+                "ro": "O oprire ideală, deoarece mașina poate fi parcată în siguranță în apropiere; interiorul oferă o atmosferă caldă, uscată și plină de istorie.",
+                "en": "An ideal stop with convenient nearby parking; the interior provides a warm, dry atmosphere and a wealth of history to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Kreuzgangs von Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux kerengőmúzeuma",
+                "ro": "Muzeul Cloister Notre-Dame-en-Vaux",
+                "en": "Musée du Cloître de Notre-Dame-en-Vaux"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Nachmittage, da die wertvollen Skulpturen geschützt im Inneren präsentiert werden; planen Sie genug Zeit ein.",
+                "hu": "Tökéletes esős délutánokra, mivel az értékes szobrok védett belső térben láthatók; tervezzen elég időt a részletek felfedezésére.",
+                "ro": "Perfect pentru după-amiezi ploioase, deoarece sculpturile valoroase sunt expuse la adăpost; alocați suficient timp pentru detalii.",
+                "en": "Perfect for rainy afternoons as the precious sculptures are presented in a sheltered interior; allow enough time for a detailed visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Zentrum für Zirkuskünste",
+                "hu": "Nemzeti Cirkuszművészeti Központ",
+                "ro": "Centrul Național de Arte ale Circului",
+                "en": "Centre National des Arts du Cirque"
+              },
+              "tip_5lang": {
+                "de": "Die kreisrunde Architektur bietet einen faszinierenden, wetterunabhängigen Raum; der perfekte Abschluss eines regnerischen Kulturtages.",
+                "hu": "A kör alakú építészet lenyűgöző, időjárástól független belső teret kínál; tökéletes lezárása egy esős, kulturális élményekkel teli napnak.",
+                "ro": "Arhitectura circulară oferă un spațiu interior fascinant, independent de vreme; este finalul perfect pentru o zi plină de cultură.",
+                "en": "The circular architecture offers a fascinating indoor space regardless of weather; a perfect conclusion to a rainy day of cultural discovery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto genießen wir die winterliche Tour durch Châlons. Von der Porte Sainte-Croix geht es zur Präfektur und zur Kathedrale, wo wir uns kurz im Freien aufhalten. Die Nachmittagsstunden in den Museen sind ideal, um der Kälte zu entfliehen. Da es gegen 17:00 Uhr bereits dunkel ist, erleben wir das Zirkuszentrum und die Stadtlichter in einer gemütlichen Abendstimmung.",
+            "hu": "A fűtött autó kényelméből élvezzük a téli túrát Châlons-ban. A Porte Sainte-Croix-tól indulunk a Prefektúra és a katedrális felé, rövid kinti megállókkal. A délutáni múzeumlátogatás ideális menekülés a hideg elől. Mivel 17:00 körül sötétedik, a cirkuszművészeti központot és a város fényeit már meghitt esti hangulatban fedezhetjük fel.",
+            "ro": "Bucurați-vă de turul de iarnă prin Châlons din confortul mașinii încălzite. De la Porte Sainte-Croix mergem spre Prefectură și catedrală, cu scurte opriri afară. După-amiaza la muzeu este ideală pentru a scăpa de frig. Se întunecă în jur de ora 17:00, deci vom vedea centrul de circ și luminile orașului într-o atmosferă de seară.",
+            "en": "Enjoy a wintry tour of Châlons from the comfort of a heated car. From Porte Sainte-Croix, head to the Prefecture and Cathedral for brief outdoor visits. The afternoon museum hours are ideal for escaping the cold. With darkness falling around 17:00, you will experience the circus centre and city lights in a cozy evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte Sainte-Croix",
+                "hu": "Porte Sainte-Croix",
+                "ro": "Porte Sainte-Croix",
+                "en": "Porte Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos im klaren Winterlicht; die monumentale Größe des Bogens wirkt in der kühlen Luft besonders beeindruckend.",
+                "hu": "Rövid kiszállás javasolt a tiszta téli fényben készített fotókhoz; a diadalív monumentális mérete a hűvös levegőben különösen lenyűgöző.",
+                "ro": "O scurtă coborâre din mașină pentru fotografii în lumina clară de iarnă; mărimea monumentală a arcului este impresionantă în aerul rece.",
+                "en": "A brief hop out of the car for photos in the clear winter light; the arch's monumental scale is especially impressive in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Präfektur der Marne",
+                "hu": "Marne Prefektúra",
+                "ro": "Prefectura Marne",
+                "en": "Préfecture de la Marne"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die prächtige Anlage bequem aus dem Auto; die winterliche Dämmerung beginnt hier bereits am späten Nachmittag.",
+                "hu": "Tekintse meg a pompás épületegyüttest kényelmesen az autóból; a téli szürkület itt már késő délután elkezdi átfesteni a homlokzatot.",
+                "ro": "Admirați complexul splendid confortabil din mașină; amurgul de iarnă începe să coloreze fațada deja de la sfârșitul după-amiezii.",
+                "en": "View the splendid complex comfortably from your car; the winter twilight starts to change the facade's colors by late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Étienne",
+                "hu": "Saint-Étienne katedrális",
+                "ro": "Catedrala Saint-Étienne",
+                "en": "Saint-Étienne Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch als Aufwärmpause; das sanfte Licht der Wintersonne in den Seitenschiffen schafft eine andächtige Stimmung.",
+                "hu": "Használja ki a látogatást egy kis melegedésre; a téli nap alacsony fénye az oldalhajókban különösen áhítatos és szép hangulatot áraszt.",
+                "ro": "Folosiți vizita ca o pauză pentru a vă încălzi; lumina slabă a soarelui de iarnă în navele laterale creează o atmosferă pioasă.",
+                "en": "Use the visit as a warm-up break; the soft winter sunlight in the side aisles creates a particularly peaceful and reverent atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux társaskáptalan",
+                "ro": "Biserica colegială Notre-Dame-en-Vaux",
+                "en": "Notre-Dame-en-Vaux Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik im Inneren ist im Winter besonders klar; ziehen Sie sich warm an, da die großen Steinhallen die Kälte lange speichern.",
+                "hu": "A belső akusztika télen különösen tiszta; öltözzön melegen, mert a hatalmas kőcsarnokok sokáig megőrzik a hideget a falak között.",
+                "ro": "Acustica interioară este deosebit de clară iarna; îmbrăcați-vă gros, deoarece halele mari de piatră rețin frigul mult timp.",
+                "en": "The interior acoustics are remarkably clear in winter; dress warmly as the large stone halls retain the cold for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Kreuzgangs von Notre-Dame-en-Vaux",
+                "hu": "Notre-Dame-en-Vaux kerengőmúzeuma",
+                "ro": "Muzeul Cloister Notre-Dame-en-Vaux",
+                "en": "Musée du Cloître de Notre-Dame-en-Vaux"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um dem Winterwind zu entfliehen; die Beleuchtung der Exponate sorgt auch an dunklen Nachmittagen für Glanz.",
+                "hu": "Kiváló hely a téli szél elöli menekülésre; a kiállított tárgyak megvilágítása még a legsötétebb délutánokon is ragyogást biztosít.",
+                "ro": "Un loc excelent pentru a scăpa de vântul de iarnă; iluminatul exponatelor oferă strălucire chiar și în cele mai întunecate după-amiezi.",
+                "en": "An excellent spot to escape the winter wind; the lighting of the exhibits ensures a brilliant experience even on dark afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Zentrum für Zirkuskünste",
+                "hu": "Nemzeti Cirkuszművészeti Központ",
+                "ro": "Centrul Național de Arte ale Circului",
+                "en": "Centre National des Arts du Cirque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Zentrum gegen 17:00 Uhr, wenn die Außenbeleuchtung einsetzt; im Inneren erwartet Sie eine warme und kreative Welt.",
+                "hu": "Látogasson el 17:00 körül, amikor a külső díszkivilágítás bekapcsol; a belső térben meleg és kreatív világ várja a látogatókat.",
+                "ro": "Vizitați centrul în jur de ora 17:00, când se aprinde iluminatul exterior; în interior vă așteaptă o lume caldă și creativă.",
+                "en": "Visit around 17:00 as the exterior lighting comes on; inside, a warm and creative world awaits to end your winter tour perfectly."
+              }
+            }
+          ]
+        }
       }
     }
   }

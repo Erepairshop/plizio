@@ -137,6 +137,168 @@
         "hu": "A reggel a Klämmestorpsdammen frissítő látogatásával kezdődik, átölelve Jönköping békés természeti szépségét.\n\nDélben az utazás az Åsendammenhez vezet, ahol a békés víz visszatükrözi a helyi növényzetet.\n\nDélután élvezze a Munksjön hatalmas kiterjedését a város szívében, mielőtt a Vätterstranden Väst homokos partjain pihenne.\n\nAz este a fő Vätterstranden strandon tett csodálatos sétával zárul, ahonnan megcsodálhatja a Vättern-tó feletti naplementét.",
         "ro": "Dimineața începe cu o vizită răcoroasă la Klämmestorpsdammen, îmbrățișând esența naturală calmă a orașului Jönköping.\n\nLa amiază, călătoria vă duce la Åsendammen, unde apa pașnică reflectă flora locală vibrantă.\n\nDupă-amiaza, bucurați-vă de întinderile vaste ale lacului Munksjön chiar în inima orașului, trecând grațios la Vätterstranden Väst pentru relaxare pe nisip.\n\nSeara se încheie cu o plimbare magnifică de-a lungul plajei principale Vätterstranden, privind apusul peste Lacul Vättern.",
         "en": "Morning begins with a refreshing visit to Klämmestorpsdammen, embracing Jönköping's calm natural essence.\n\nBy midday, the journey brings you to Åsendammen, where the peaceful water reflects the vibrant local flora.\n\nIn the afternoon, enjoy the vast expanses of Munksjön right in the heart of the city, transitioning gracefully to Vätterstranden Väst for sandy relaxation.\n\nYour evening concludes with a magnificent stroll along the main Vätterstranden beach, watching a glorious sunset over Lake Vättern."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hüllt Nebel den Damm ein und verstärkt die Waldaromen. Mittags sorgt das Trommeln des Regens auf den Seen für einen beruhigenden Rhythmus. Nachmittags peitscht der Wind vom Vätternsee gegen die Regenjacken, während die Wellen tosen. Abends spiegeln sich die Lichter der Stadt im nassen Asphalt, wenn wir uns in ein gemütliches Café zurückziehen.",
+            "hu": "Reggel köd üli meg a gátat, a nedves erdő illata betölti a teret. Délben az eső kopogása a tavakon ritmust ad a lépteinknek. Délután a Vättern felől fújó szél próbára teszi a kabátokat, de a hullámok látványa kárpótol. Este a város fényei tükröződnek a vizes aszfalton, ahogy egy meleg menedékbe érve befejezzük a napot.",
+            "ro": "Dimineața, ceața acoperă barajul, iar mirosul pădurii umede devine intens. La prânz, ritmul ploii pe lacuri acompaniază fiecare pas. După-amiaza, vântul de pe Vättern provoacă rezistența pelerinelor, dar spectacolul valurilor merită efortul. Seara, luminile orașului se reflectă în asfaltul ud în timp ce ne retragem la căldură.",
+            "en": "Morning mist clings to the dam, heightening the forest scents. At noon, the rhythmic patter of rain on the lakes accompanies your walk. In the afternoon, the wind from Lake Vättern tests your rain gear, but the crashing waves are a sight to behold. By evening, city lights shimmer on the wet pavement as you find a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Klämmestorpsdammen",
+                "hu": "Klämmestorpsdammen",
+                "ro": "Klämmestorpsdammen",
+                "en": "Klämmestorpsdammen"
+              },
+              "tip_5lang": {
+                "de": "Der Damm wirkt im Regen sehr kraftvoll; tragen Sie hohe, wasserfeste Stiefel, um die schlammigen Waldpfade sicher und trockenen Fußes zu durchqueren.",
+                "hu": "A gát látványa esőben különösen erőteljes; viseljünk magas szárú vízálló bakancsot a sáros erdei ösvények biztonságos és száraz leküzdéséhez.",
+                "ro": "Barajul arată impresionant în timpul ploii; purtați bocanci impermeabili înalți pentru a parcurge potecile noroioase din pădure în siguranță.",
+                "en": "The dam looks powerful in the rain; wear high-cut waterproof boots to navigate the muddy forest paths safely and keep your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Åsendammen",
+                "hu": "Åsendammen",
+                "ro": "Åsendammen",
+                "en": "Åsendammen"
+              },
+              "tip_5lang": {
+                "de": "Der dichte Wald bietet Schutz vor vertikalem Regen; achten Sie jedoch auf rutschige Wurzeln und moosige Steine entlang des Uferpfads.",
+                "hu": "A sűrű erdő védelmet nyújt a függőleges eső ellen; ügyeljünk azonban a csúszós gyökerekre és a mohás kövekre a tóparti ösvényen.",
+                "ro": "Pădurea deasă oferă protecție împotriva ploii; totuși, aveți grijă la rădăcinile alunecoase și pietrele cu mușchi de pe poteca de pe mal.",
+                "en": "The dense forest provides some shelter from vertical rain; however, watch out for slippery roots and mossy rocks along the lakeside path."
+              }
+            },
+            {
+              "name": {
+                "de": "Munksjön",
+                "hu": "Munksjön",
+                "ro": "Munksjön",
+                "en": "Munksjön"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist hier nützlich, da die umliegenden Gebäude den Wind dämpfen; genießen Sie die mystische Stimmung über dem grauen Wasser.",
+                "hu": "Itt jól jöhet az esernyő, mivel a környező épületek tompítják a szelet; élvezzük a szürke víztükör felett lebegő misztikus hangulatot.",
+                "ro": "O umbrelă este utilă aici, deoarece clădirile din jur atenuează vântul; bucurați-vă de atmosfera mistică deasupra apei cenușii.",
+                "en": "An umbrella is useful here as surrounding buildings buffer the wind; enjoy the mystical atmosphere hovering over the grey water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Vätterstranden Väst",
+                "hu": "Vätterstranden Väst",
+                "ro": "Vätterstranden Väst",
+                "en": "Vätterstranden Väst"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist hier stark; ein eng anliegendes Regenponcho ist praktischer als ein Schirm, um die dramatischen Wellen des Vättern zu beobachten.",
+                "hu": "A szél itt felerősödik; egy szoros esőponcsó praktikusabb az esernyőnél, ha meg akarjuk nézni a Vättern drámai hullámait.",
+                "ro": "Vântul este puternic aici; o pelerină de ploaie fixă este mai practică decât o umbrelă pentru a observa valurile dramatice ale lacului.",
+                "en": "The wind picks up here; a snug rain poncho is more practical than an umbrella for watching the dramatic waves of Lake Vättern."
+              }
+            },
+            {
+              "name": {
+                "de": "Vätterstranden",
+                "hu": "Vätterstranden",
+                "ro": "Vätterstranden",
+                "en": "Vätterstranden"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Guss Schutz in den nahen Pavillons; der Anblick des Regens, der auf die endlose Wasserfläche trifft, ist faszinierend.",
+                "hu": "Heves zápor esetén keressünk menedéket a közeli pavilonokban; a végtelen vízfelületbe csapódó esőcseppek látványa lenyűgöző.",
+                "ro": "În caz de aversă, căutați adăpost în pavilioanele din apropiere; vederea ploii care lovește suprafața infinită a apei este fascinantă.",
+                "en": "In case of heavy downpour, seek shelter in nearby pavilions; the sight of rain hitting the vast water surface is truly mesmerizing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens glitzert der Frost auf den Bäumen und die kalte Luft erfrischt den Geist. Mittags knirscht der Schnee unter den Stiefeln, während die Sonne tief am Horizont steht. Gegen 16:30 Uhr beginnt die Dämmerung und färbt den Himmel in sanfte Pastelltöne. Abends wärmen wir uns bei heißem Tee auf, während draußen die winterliche Stille einkehrt.",
+            "hu": "Kora reggel zúzmara csillog a fákon, a metsző hideg levegő felfrissíti az elmét. Délben a hó ropog a bakancsunk alatt, miközben a nap alacsonyan jár. 16:30 körül már beköszönt az alkonyat, pasztellszínekbe vonva a tájat. Este egy forró tea mellett melegszünk fel, miközben odakint beáll a téli csend.",
+            "ro": "Dis-de-dimineață, promoroaca sclipește pe copaci, iar aerul rece revigorează mintea. La prânz, zăpada scârțâie sub ghete în timp ce soarele stă jos la orizont. În jurul orei 16:30, amurgul se instalează deja, pictând peisajul în culori pastelate. Seara, ne încălzim cu un ceai fierbinte în timp ce afară se așterne liniștea iernii.",
+            "en": "Early morning frost glistens on the trees, and the crisp air clears your mind. At noon, snow crunches under your boots while the sun stays low on the horizon. By 4:30 PM, dusk arrives, painting the landscape in soft pastel hues. In the evening, warm up with hot tea as the serene winter silence settles outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Klämmestorpsdammen",
+                "hu": "Klämmestorpsdammen",
+                "ro": "Klämmestorpsdammen",
+                "en": "Klämmestorpsdammen"
+              },
+              "tip_5lang": {
+                "de": "Die Eisformationen am Damm sind wunderschön; tragen Sie Schuhspikes, um auf den gefrorenen Wegen rund um das Bauwerk nicht auszurutschen.",
+                "hu": "A gátnál kialakuló jégcsapok gyönyörűek; viseljünk csúszásgátló talpat, hogy biztonságban maradjunk a műtárgy körüli fagyott ösvényeken.",
+                "ro": "Formațiunile de gheață de la baraj sunt superbe; purtați crampoane pentru încălțăminte pentru a nu aluneca pe potecile înghețate.",
+                "en": "The ice formations at the dam are beautiful; wear ice cleats to stay safe on the frozen paths surrounding the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Åsendammen",
+                "hu": "Åsendammen",
+                "ro": "Åsendammen",
+                "en": "Åsendammen"
+              },
+              "tip_5lang": {
+                "de": "Im Wald wird es früh dunkel; nehmen Sie eine Stirnlampe mit, da die Pfade nach 16:00 Uhr kaum noch ohne Licht passierbar sind.",
+                "hu": "Az erdőben hamar sötétedik; vigyünk fejlámpát, mivel 16:00 után az ösvények már alig láthatóak a sűrű fák között.",
+                "ro": "În pădure se întunecă devreme; luați o lanternă frontală, deoarece după ora 16:00 potecile sunt greu de parcurs fără lumină.",
+                "en": "It gets dark early in the woods; bring a headlamp as the forest trails become difficult to navigate without light after 4:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Munksjön",
+                "hu": "Munksjön",
+                "ro": "Munksjön",
+                "en": "Munksjön"
+              },
+              "tip_5lang": {
+                "de": "Die Eisdecke des Sees reflektiert das Licht; tragen Sie einen Schal gegen den beißenden Wind, der über die offene Fläche weht.",
+                "hu": "A tó jégtakarója visszaveri a fényeket; viseljünk meleg sálat a metsző szél ellen, amely akadálytalanul fúj át a nyílt területen.",
+                "ro": "Stratul de gheață al lacului reflectă lumina; purtați un fular gros împotriva vântului tăios care suflă peste suprafața deschisă.",
+                "en": "The lake's ice cover reflects the winter light; wear a warm scarf against the biting wind blowing across the open surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Vätterstranden Väst",
+                "hu": "Vätterstranden Väst",
+                "ro": "Vätterstranden Väst",
+                "en": "Vätterstranden Väst"
+              },
+              "tip_5lang": {
+                "de": "Die Uferzone wirkt wie eine arktische Landschaft; nutzen Sie Thermosocken, um beim Beobachten des treibenden Eises keine kalten Füße zu bekommen.",
+                "hu": "A partvidék sarkvidéki tájnak tűnik; viseljünk termo zoknit, hogy a jégtáblák figyelése közben se fagyjon meg a lábunk.",
+                "ro": "Țărmul arată ca un peisaj arctic; folosiți șosete termice pentru a nu vă îngheța picioarele în timp ce observați gheața plutitoare.",
+                "en": "The shoreline looks like an arctic landscape; use thermal socks to keep your feet warm while watching the drifting ice sheets."
+              }
+            },
+            {
+              "name": {
+                "de": "Vätterstranden",
+                "hu": "Vätterstranden",
+                "ro": "Vätterstranden",
+                "en": "Vätterstranden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:15 Uhr; die Kombination aus Schnee und den fernen Lichtern von Huskvarna ist magisch.",
+                "hu": "Élvezzük a naplementét 16:15 körül; a hó és Huskvarna távoli fényeinek kombinációja egészen varázslatos látvány.",
+                "ro": "Bucurați-vă de apusul de la ora 16:15; combinația dintre zăpadă și luminile îndepărtate ale orașului Huskvarna este magică.",
+                "en": "Enjoy the sunset around 4:15 PM; the combination of snow and the distant lights of Huskvarna creates a magical atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja az Axamosjön tónál indul, belélegezve a friss erdei levegőt, miközben nyeregbe pattan.\n\nDélben festői ösvényeken halad a Västersjön és az Ulvstorpasjön között, melyek egyedi természeti hangulatot árasztanak.\n\nA délutáni utazás simán elhalad az Åsendammen mellett, és megkerüli a városi, de mégis békés Munksjönt.\n\nAz este akkor köszönt be, amikor leparkolja kerékpárját a Vätterstranden Väst partján, és hallgatja a hullámokat.",
         "ro": "Aventura dvs. cu bicicleta începe la Axamosjön, respirând aerul proaspăt al pădurii în timp ce vă urcați pe bicicletă.\n\nAmiaza vă împinge prin trasee pitorești care conectează Västersjön și Ulvstorpasjön, fiecare oferind o atmosferă naturală unică.\n\nPlimbarea de după-amiază curge lin pe lângă Åsendammen și înconjoară Munksjön, urban, dar senin.\n\nSeara se instalează când vă parcați bicicleta la Vätterstranden Väst, ascultând valurile blânde sub cerul amurgului.",
         "en": "Your cycling adventure kicks off at Axamosjön, breathing in the fresh forest air as you mount your bike.\n\nMidday pushes you through scenic trails connecting Västersjön and Ulvstorpasjön, each offering a unique natural vibe.\n\nThe afternoon ride flows smoothly past Åsendammen and circles the urban yet serene Munksjön.\n\nEvening sets in as you park your bike at Vätterstranden Väst, listening to the gentle waves of the vast inland sea under the twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens spritzt das Wasser auf den Waldwegen, während wir durch den feuchten Nebel radeln. Mittags bietet das Blätterdach teilweisen Schutz vor dem Regen. Nachmittags fordern nasse Straßen und Gegenwind unsere Ausdauer heraus. Abends erreichen wir die Stadt, wo die Reflexionen der Straßenlaternen den Weg zum Ziel weisen.",
+            "hu": "Reggel felfröccsen a víz az erdei utakon, ahogy a párás ködben tekerünk. Délben a fák lombkoronája némi védelmet nyújt az eső elől. Délután a vizes aszfalt és a szembeszél próbára teszi az állóképességünket. Este beérünk a városba, ahol az utcai lámpák tükröződései mutatják az utat a cél felé.",
+            "ro": "Dimineața, apa sare de pe roți pe drumurile de pădure în timp ce pedalăm prin ceață. La prânz, coronamentul copacilor oferă o protecție parțială. După-amiaza, asfaltul ud și vântul din față ne testează rezistența. Seara ajungem în oraș, unde reflexiile felinarelor ne ghidează spre destinația finală.",
+            "en": "In the morning, water splashes on the forest trails as you bike through the damp mist. At noon, the tree canopy provides partial cover from the rain. In the afternoon, wet roads and headwind test your endurance. By evening, you reach the city, where streetlamp reflections guide your way to the finish."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Axamosjön",
+                "hu": "Axamosjön",
+                "ro": "Axamosjön",
+                "en": "Axamosjön"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; prüfen Sie Ihre Bremsen vor der Abfahrt, da die Bremswirkung auf nassen Felgen verzögert sein kann.",
+                "hu": "Az utak sárosak lehetnek; indulás előtt ellenőrizzük a fékeket, mivel a vizes felniken a fékhatás jelentősen lecsökkenhet.",
+                "ro": "Drumurile pot fi noroioase; verificați frânele înainte de plecare, deoarece eficiența lor scade pe jantele ude.",
+                "en": "The paths can be muddy; check your brakes before starting, as braking distance increases significantly on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Västersjön",
+                "hu": "Västersjön",
+                "ro": "Västersjön",
+                "en": "Västersjön"
+              },
+              "tip_5lang": {
+                "de": "Nebel kann die Sicht einschränken; lassen Sie Ihr Licht eingeschaltet, um von anderen Verkehrsteilnehmern im grauen Wetter gesehen zu werden.",
+                "hu": "A köd korlátozhatja a látási viszonyokat; tartsuk bekapcsolva a világítást, hogy a szürke időben is láthatóak maradjunk mások számára.",
+                "ro": "Ceața poate limita vizibilitatea; lăsați luminile aprinse pentru a fi văzuți de ceilalți participanți la trafic pe vreme gri.",
+                "en": "Mist can limit visibility over the lake; keep your lights on to ensure you remain visible to others in the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulvstorpasjön",
+                "hu": "Ulvstorpasjön",
+                "ro": "Ulvstorpasjön",
+                "en": "Ulvstorpasjön"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier Gold wert, um den Schlamm vom Rücken fernzuhalten; der Waldweg ist bei Regen besonders weich und fordernd.",
+                "hu": "A sárvédők aranyat érnek itt, hogy távol tartsák a felverődő sarat; az erdei út esőben különösen puha és fárasztó.",
+                "ro": "Apărătorile de noroi sunt esențiale aici pentru a vă menține curat; drumul forestier este moale și solicitant pe ploaie.",
+                "en": "Mudguards are worth their weight in gold here to keep splashes off; the forest path is particularly soft and demanding in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Åsendammen",
+                "hu": "Åsendammen",
+                "ro": "Åsendammen",
+                "en": "Åsendammen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf dem Boden, das extrem rutschig sein kann; fahren Sie Kurven vorsichtig und mit moderater Geschwindigkeit an.",
+                "hu": "Ügyeljünk a földön lévő nedves levelekre, amelyek rendkívül csúszósak lehetnek; a kanyarokat óvatosan és mérsékelt sebességgel vegyük be.",
+                "ro": "Atenție la frunzele ude de pe sol, care pot fi extrem de alunecoase; abordați curbele cu prudență și viteză moderată.",
+                "en": "Watch out for wet leaves on the ground, which can be extremely slippery; take corners carefully and at a moderate speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Munksjön",
+                "hu": "Munksjön",
+                "ro": "Munksjön",
+                "en": "Munksjön"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Radwege sind sicherer als Waldpfade; meiden Sie jedoch Pfützen, da diese tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Az aszfaltozott kerékpárutak biztonságosabbak az erdei ösvényeknél; kerüljük el a tócsákat, mert mély kátyúkat rejthetnek.",
+                "ro": "Pistele de biciclete asfaltate sunt mai sigure decât potecile; totuși, evitați bălțile, deoarece pot ascunde gropi adânci.",
+                "en": "The paved bike paths are safer than forest trails; however, avoid puddles as they might hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Vätterstranden Väst",
+                "hu": "Vätterstranden Väst",
+                "ro": "Vätterstranden Väst",
+                "en": "Vätterstranden Väst"
+              },
+              "tip_5lang": {
+                "de": "Starker Gegenwind am Ufer macht das Treten schwer; lehnen Sie sich nach vorne und nutzen Sie einen niedrigen Gang für den letzten Abschnitt.",
+                "hu": "A parton fújó erős szembeszél megnehezíti a tekerést; dőljünk előre és használjunk alacsony fokozatot az utolsó szakaszon.",
+                "ro": "Vântul puternic din față de pe mal face pedalarea dificilă; aplecați-vă în față și folosiți o viteză inferioară pentru ultima etapă.",
+                "en": "Strong headwind on the shore makes pedaling hard; lean forward and use a lower gear for this final stretch against the elements."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die klirrende Kälte volle Konzentration und gute Kleidung. Mittags glitzert die Schneelandschaft im Sonnenlicht, während wir auf geräumten Wegen vorankommen. Nachmittags sinken die Temperaturen schnell, sobald die Sonne untergeht. Abends leuchten unsere Fahrradlampen hell in der Dunkelheit und führen uns sicher nach Hause.",
+            "hu": "Reggel a metsző hideg teljes koncentrációt és réteges öltözködést igényel. Délben a behavazott táj csillog a napfényben, ahogy a letakarított utakon haladunk. Délután a hőmérséklet gyorsan süllyed, amint a nap eltűnik. Este a kerékpáros lámpák fénye messzire világít a sötétben, biztonságban hazavezetve minket.",
+            "ro": "Dimineața, gerul tăios necesită concentrare maximă și haine groase. La prânz, peisajul înzăpezit sclipește în soare în timp ce înaintăm pe drumuri curățate. După-amiaza, temperaturile scad rapid imediat ce soarele apune. Seara, luminile bicicletei strălucesc puternic în întuneric, ghidându-ne în siguranță.",
+            "en": "In the morning, the biting cold requires full concentration and proper layering. At noon, the snowy landscape sparkles in the sunlight as you cycle along cleared paths. In the afternoon, temperatures drop quickly once the sun sets. By evening, your bike lights shine bright in the dark, leading you safely back home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Axamosjön",
+                "hu": "Axamosjön",
+                "ro": "Axamosjön",
+                "en": "Axamosjön"
+              },
+              "tip_5lang": {
+                "de": "Spikereifen sind hier dringend empfohlen; die Hügel rund um den See können vereiste Stellen aufweisen, die unter dem Schnee verborgen sind.",
+                "hu": "A szöges gumik használata erősen ajánlott; a tó körüli dombokon a hó alatt rejtett jeges foltok alakulhatnak ki.",
+                "ro": "Anvelopele cu ținte sunt recomandate; dealurile din jurul lacului pot avea porțiuni înghețate ascunse sub zăpadă.",
+                "en": "Studded tires are highly recommended; the hills around the lake may have icy patches hidden beneath the fresh snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Västersjön",
+                "hu": "Västersjön",
+                "ro": "Västersjön",
+                "en": "Västersjön"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um die Körpertemperatur zu halten; der kalte Wind am See entzieht dem Körper auf dem Rad schnell Wärme.",
+                "hu": "Maradjunk mozgásban a testhőmérséklet fenntartásához; a tó felől fújó hideg szél gyorsan elvonja a hőt kerékpározás közben.",
+                "ro": "Rămâneți în mișcare pentru a menține temperatura corpului; vântul rece de pe lac vă poate răci rapid în timp ce pedalați.",
+                "en": "Keep moving to maintain your body temperature; the cold lake wind can quickly sap your heat while you are cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulvstorpasjön",
+                "hu": "Ulvstorpasjön",
+                "ro": "Ulvstorpasjön",
+                "en": "Ulvstorpasjön"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Lenkmanöver auf Waldwegen; unter der Schneedecke kann sich loses Eis befinden, das die Haftung beeinträchtigt.",
+                "hu": "Kerüljük a hirtelen kormánymozdulatokat az erdei utakon; a hóréteg alatt laza jég lehet, ami rontja a tapadást.",
+                "ro": "Evitați manevrele bruște pe drumurile forestiere; sub stratul de zăpadă poate fi gheață care reduce aderența.",
+                "en": "Avoid abrupt steering maneuvers on forest paths; loose ice may hide under the snow cover, reducing your tire grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Åsendammen",
+                "hu": "Åsendammen",
+                "ro": "Åsendammen",
+                "en": "Åsendammen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie ein starkes Frontlicht für die Waldpassagen; die Dämmerung setzt hier bereits vor 16:00 Uhr ein und schluckt alle Kontraste.",
+                "hu": "Használjunk erős első lámpát az erdei szakaszokon; az alkonyat itt már 16:00 előtt beáll, és elnyeli az összes kontrasztot.",
+                "ro": "Folosiți o lumină frontală puternică pentru secțiunile de pădure; amurgul se instalează înainte de ora 16:00, reducând vizibilitatea.",
+                "en": "Use a high-power front light for forest sections; dusk arrives before 4:00 PM here, making it hard to see terrain changes."
+              }
+            },
+            {
+              "name": {
+                "de": "Munksjön",
+                "hu": "Munksjön",
+                "ro": "Munksjön",
+                "en": "Munksjön"
+              },
+              "tip_5lang": {
+                "de": "Thermohandschuhe sind ein Muss, da der Wind über das Eis sehr beißend ist; schützen Sie Ihre Finger vor dem steifen Fahrtwind.",
+                "hu": "A termokesztyű kötelező, mivel a jég felett fújó szél metsző; védjük ujjainkat a merev menetszél és a fagy ellen.",
+                "ro": "Mănușile termice sunt obligatorii, deoarece vântul de peste gheață este tăios; protejați-vă degetele de curentul rece.",
+                "en": "Thermal gloves are a must as the wind over the ice is very biting; protect your fingers from the freezing airflow while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Vätterstranden Väst",
+                "hu": "Vätterstranden Väst",
+                "ro": "Vätterstranden Väst",
+                "en": "Vätterstranden Väst"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Ufer wird meist geräumt und gesalzen; achten Sie dennoch auf Schneeverwehungen, die den Weg plötzlich blockieren können.",
+                "hu": "A parti kerékpárutat általában takarítják és sózzák; ennek ellenére ügyeljünk a hófúvásokra, amelyek váratlanul eltorlaszolhatják az utat.",
+                "ro": "Pista de biciclete de pe mal este de obicei curățată; totuși, atenție la troienele de zăpadă care pot bloca drumul pe neașteptate.",
+                "en": "The coastal bike path is usually cleared and salted; still, watch out for snowdrifts that can suddenly block your way."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Induljon korán útnak a Tranebosjön és a Dröpshultagölen felé, felfedezve a város határában fekvő zord vadont.\n\nDélben navigáljon a távoli Mogöl és Lomsjön tavakhoz, amelyek tökéletes eldugott helyek egy szabadtéri ebédhez.\n\nA délutáni festői autózás leviszi a Hällstorpsdammen történelmi és festői környezetébe.\n\nFejezze be autós kirándulását este a hatalmas Rogbergasjön tónál, figyelve, ahogy a halványuló fény táncol a vízen.",
         "ro": "Porniți devreme la drum spre Tranebosjön și Dröpshultagölen, descoperind sălbăticia accidentată chiar în afara orașului.\n\nLa amiază, navigați către lacurile îndepărtate Mogöl și Lomsjön, locuri izolate perfecte pentru un prânz în aer liber.\n\nPlimbarea pitorească de după-amiază vă aduce în împrejurimile istorice și pitorești ale Hällstorpsdammen.\n\nÎncheiați călătoria rutieră seara la întinsul Rogbergasjön, privind lumina slabă dansând pe apă înainte de a vă întoarce.",
         "en": "Hit the road early towards Tranebosjön and Dröpshultagölen, discovering the rugged wilderness just outside the city.\n\nBy midday, navigate to the remote Mogöl and Lomsjön, perfect secluded spots for reflection and an outdoor lunch.\n\nThe afternoon scenic drive brings you down to the historical and picturesque surroundings of Hällstorpsdammen.\n\nConclude your road trip in the evening at the expansive Rogbergasjön, watching the fading light dance upon the water before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens gleitet das Auto durch dichten Nebel, während die Scheibenwischer einen ruhigen Takt vorgeben. Mittags genießen wir den Blick auf die verregneten Seen aus dem warmen Innenraum. Nachmittags spiegeln sich die grauen Wolken dramatisch in der nassen Fahrbahn. Abends kehren wir durch die hell erleuchtete Stadt zurück, geschützt vor dem prasselnden Regen.",
+            "hu": "Reggel az autó sűrű ködben siklik, miközben az ablaktörlők nyugodt ütemet diktálnak. Délben a meleg utastérből csodáljuk az eső áztatta tavakat. Délután a szürke felhők drámaian tükröződnek a vizes úttesten. Este a kivilágított városon keresztül térünk vissza, biztonságban és szárazon a kopogó eső elől.",
+            "ro": "Dimineața, mașina alunecă prin ceață densă, în timp ce ștergătoarele bat într-un ritm liniștit. La prânz, admirăm lacurile plouate din interiorul cald al vehiculului. După-amiaza, norii cenușii se oglindesc dramatic în carosabilul umed. Seara, ne întoarcem prin orașul luminat, protejați de ploaia care bate în geam.",
+            "en": "In the morning, the car glides through thick mist as wipers beat a steady rhythm. At noon, enjoy views of rain-soaked lakes from the warmth of your vehicle. In the afternoon, grey clouds reflect dramatically on the wet asphalt. By evening, return through the brightly lit city, safely sheltered from the pouring rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tranebosjön",
+                "hu": "Tranebosjön",
+                "ro": "Tranebosjön",
+                "en": "Tranebosjön"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei Nebel vorsichtig durch den Wald; parken Sie so nah wie möglich am Ufer, um die Aussicht auch bei Regen trocken genießen zu können.",
+                "hu": "Ködös időben vezessünk óvatosan az erdőben; parkoljunk a lehető legközelebb a parthoz, hogy esőben is szárazon élvezhessük a kilátást.",
+                "ro": "Conduceți cu prudență prin pădure pe ceață; parcați cât mai aproape de mal pentru a admira priveliștea fără a vă uda în ploaie.",
+                "en": "Drive carefully through the woods in foggy conditions; park as close to the shore as possible to enjoy the view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Dröpshultagölen",
+                "hu": "Dröpshultagölen",
+                "ro": "Dröpshultagölen",
+                "en": "Dröpshultagölen"
+              },
+              "tip_5lang": {
+                "de": "Die Regentropfen auf den Scheiben verleihen dem dunklen Wald eine mystische Note; ein kurzer Stopp für ein Foto lohnt sich trotz des Wetters.",
+                "hu": "Az ablaküvegen legördülő esőcseppek misztikus hangulatot adnak a sötét erdőnek; a fotózás kedvéért érdemes egy rövid időre megállni.",
+                "ro": "Picăturile de ploaie de pe geamuri oferă pădurii întunecate o notă mistică; merită să opriți scurt pentru o fotografie, în ciuda vremii.",
+                "en": "Raindrops on the windows add a mystical touch to the dark forest; it is worth stopping for a quick photo despite the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mogöl",
+                "hu": "Mogöl",
+                "ro": "Mogöl",
+                "en": "Mogöl"
+              },
+              "tip_5lang": {
+                "de": "Das Moos leuchtet im Regen besonders intensiv grün; nutzen Sie einen Regenschirm für den nur wenige Meter kurzen Weg zum Wasserrand.",
+                "hu": "A moha esőben különösen intenzív zöld színben tündököl; használjunk esernyőt a vízpartig tartó, mindössze pár méteres rövid sétához.",
+                "ro": "Mușchiul strălucește într-un verde intens în timpul ploii; folosiți o umbrelă pentru scurta plimbare de câțiva metri până la mal.",
+                "en": "The moss glows in a particularly intense green during rain; use an umbrella for the short, few-meter walk to the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Lomsjön",
+                "hu": "Lomsjön",
+                "ro": "Lomsjön",
+                "en": "Lomsjön"
+              },
+              "tip_5lang": {
+                "de": "Der graue Himmel über dem Wasser wirkt sehr beruhigend; ideal für ein gemütliches Picknick im Auto mit Blick auf den einsamen See.",
+                "hu": "A víz feletti szürke égbolt nagyon megnyugtató látvány; ideális helyszín egy hangulatos autóban elköltött piknikhez a magányos tónál.",
+                "ro": "Cerul cenușiu deasupra apei este foarte liniștitor; un loc ideal pentru un picnic în mașină cu vedere spre lacul solitar.",
+                "en": "The grey sky over the water is very soothing; an ideal spot for a cozy in-car picnic while overlooking the lonely lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Hällstorpsdammen",
+                "hu": "Hällstorpsdammen",
+                "ro": "Hällstorpsdammen",
+                "en": "Hällstorpsdammen"
+              },
+              "tip_5lang": {
+                "de": "Das Rauschen des Wassers ist bei Regen lauter und eindrucksvoller; halten Sie einen Schirm bereit, um das tosende Wehr kurz zu besuchen.",
+                "hu": "A víz zúgása esőben hangosabb és lenyűgözőbb; tartsunk készenlétben esernyőt, hogy egy rövid látogatást tegyünk a haragos gátnál.",
+                "ro": "Sunetul apei este mai puternic și mai impresionant pe ploaie; aveți o umbrelă pregătită pentru o scurtă vizită la barajul zgomotos.",
+                "en": "The sound of rushing water is louder and more impressive in the rain; keep an umbrella ready for a short visit to the roaring weir."
+              }
+            },
+            {
+              "name": {
+                "de": "Rogbergasjön",
+                "hu": "Rogbergasjön",
+                "ro": "Rogbergasjön",
+                "en": "Rogbergasjön"
+              },
+              "tip_5lang": {
+                "de": "In der Dämmerung spiegelt der nasse Asphalt die Lichter der Umgebung; genießen Sie die Panoramafahrt zurück in die Stadt bei Regenwetter.",
+                "hu": "Alkonyatkor a vizes aszfalt visszatükrözi a környező fényeket; élvezzük a városba visszavezető panorámautat az esős időben is.",
+                "ro": "La amurg, asfaltul ud reflectă luminile din jur; bucurați-vă de drumul panoramic de întoarcere spre oraș chiar și pe vreme ploioasă.",
+                "en": "At dusk, the wet asphalt reflects the surrounding lights; enjoy the panoramic drive back to the city despite the rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir dank Sitzheizung die verschneite Pracht der Wälder. Mittags glänzen die gefrorenen Seen wie Glas im hellen Winterlicht. Nachmittags färbt die frühe Dämmerung den Schnee in zartes Blau und Violett. Abends fahren wir durch die festlich beleuchteten Straßen zurück, während die Außentemperatur weit unter den Gefrierpunkt sinkt.",
+            "hu": "Reggel az ülésfűtés kényelméből csodáljuk az erdők havas pompáját. Délben a befagyott tavak üvegként csillognak az éles téli fényben. Délután a korai alkonyat halványkékre és lilára festi a havat. Este a díszesen kivilágított utcákon autózunk vissza, miközben a kinti hőmérséklet jóval fagypont alá süllyed.",
+            "ro": "Dimineața, ne bucurăm de splendoarea înzăpezită a pădurilor datorită scaunelor încălzite. La prânz, lacurile înghețate strălucesc ca sticla în lumina iernii. După-amiaza, amurgul timpuriu pictează zăpada în nuanțe de albastru și violet. Seara, conducem prin străzile luminate festiv, în timp ce gerul se intensifică afară.",
+            "en": "In the morning, enjoy the snowy forest splendor from the comfort of heated seats. At noon, frozen lakes glisten like glass in the bright winter light. In the afternoon, early dusk paints the snow in soft blue and violet tones. By evening, drive back through festively lit streets as outdoor temperatures drop well below freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tranebosjön",
+                "hu": "Tranebosjön",
+                "ro": "Tranebosjön",
+                "en": "Tranebosjön"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können glatt sein; stellen Sie sicher, dass Ihr Auto gute Winterreifen hat, um die Steigungen sicher zu bewältigen.",
+                "hu": "Az erdei utak csúszósak lehetnek; győződjünk meg róla, hogy autónkon jó téli gumik vannak az emelkedők biztonságos leküzdéséhez.",
+                "ro": "Drumurile forestiere pot fi alunecoase; asigurați-vă că mașina are anvelope de iarnă bune pentru a urca pantele în siguranță.",
+                "en": "Forest roads can be slippery; ensure your car has good winter tires to handle the inclines safely in snowy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Dröpshultagölen",
+                "hu": "Dröpshultagölen",
+                "ro": "Dröpshultagölen",
+                "en": "Dröpshultagölen"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Wasserfläche ist meist komplett zugefroren; nutzen Sie den Parkplatz für einen kurzen Blick auf die unberührte Schneedecke.",
+                "hu": "A kis vízfelület általában teljesen befagy; használjuk a parkolót, hogy egy rövid pillantást vessünk az érintetlen hóval borított tóra.",
+                "ro": "Suprafața mică de apă este de obicei complet înghețată; folosiți parcarea pentru o privire scurtă asupra stratului de zăpadă intact.",
+                "en": "The small water surface is usually completely frozen; use the parking area for a quick look at the pristine snow cover on the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Mogöl",
+                "hu": "Mogöl",
+                "ro": "Mogöl",
+                "en": "Mogöl"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Thermoskanne mit heißem Tee mit; der Stopp am einsamen See ist bei Kälte besonders atmosphärisch und ruhig.",
+                "hu": "Vigyünk magunkkal egy termoszt forró teával; a magányos tónál tett pihenő a hidegben különösen hangulatos és csendes.",
+                "ro": "Luați un termos cu ceai fierbinte; oprirea la lacul solitar este extrem de atmosferică și liniștită pe timp de ger.",
+                "en": "Bring a thermos with hot tea; stopping by the lonely lake is especially atmospheric and peaceful in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lomsjön",
+                "hu": "Lomsjön",
+                "ro": "Lomsjön",
+                "en": "Lomsjön"
+              },
+              "tip_5lang": {
+                "de": "Die 'Blaue Stunde' setzt hier früh ein; der Kontrast zwischen weißem Ufer und dunklem Wasser ist ein fantastisches Fotomotiv.",
+                "hu": "A 'kék óra' itt korán beköszönt; a fehér part és a sötét víztükör közötti kontraszt fantasztikus fotótémát szolgáltat.",
+                "ro": "Ora albastră se instalează devreme aici; contrastul dintre malul alb și apa întunecată este un subiect foto fantastic.",
+                "en": "The 'blue hour' starts early here; the sharp contrast between the white shore and dark water makes for a fantastic photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Hällstorpsdammen",
+                "hu": "Hällstorpsdammen",
+                "ro": "Hällstorpsdammen",
+                "en": "Hällstorpsdammen"
+              },
+              "tip_5lang": {
+                "de": "Eiskaskaden bilden sich oft an den Felsen; seien Sie vorsichtig auf dem Parkplatz, da sich dort oft gefährliches Glatteis bildet.",
+                "hu": "A sziklákon gyakran jégzuhatagok alakulnak ki; legyünk óvatosak a parkolóban, mert ott gyakran alakul ki veszélyes tükörjég.",
+                "ro": "Cascade de gheață se formează adesea pe stânci; fiți atenți în parcare, deoarece acolo se formează frecvent polei periculos.",
+                "en": "Ice cascades often form on the rocks; be very careful in the parking lot as dangerous black ice frequently develops there."
+              }
+            },
+            {
+              "name": {
+                "de": "Rogbergasjön",
+                "hu": "Rogbergasjön",
+                "ro": "Rogbergasjön",
+                "en": "Rogbergasjön"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Lichter der Stadt in der Dunkelheit; die Rückfahrt ist dank geräumter Hauptstraßen sicher.",
+                "hu": "Élvezzük a város fényeinek panorámáját a sötétben; a visszavezető út a letakarított főutaknak köszönhetően teljesen biztonságos.",
+                "ro": "Bucurați-vă de panorama luminilor orașului pe întuneric; drumul de întoarcere este sigur datorită șoselelor principale curățate.",
+                "en": "Enjoy the panoramic view of the city lights in the dark; the drive back is safe thanks to the well-cleared main roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

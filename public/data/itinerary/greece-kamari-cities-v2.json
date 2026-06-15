@@ -137,6 +137,168 @@
         "hu": "A reggel friss tengeri szellővel indul, miközben megcsodálja az ikonikus tengerparti látványosságokat. Délben a történelmi dombokra látogatunk lélegzetelállító panorámákért és hagyományos építészetért. Délután pihenhet a lenyűgöző öblökben, vagy felfedezheti a közvetlenül a tengerparton található ősi romokat. Az este felejthetetlen aranyórás kilátással zárul az Égei-tenger felett.",
         "ro": "Dimineața începe cu o briză proaspătă de mare în timp ce admirați reperele de coastă iconice. La amiază vă îndreptați spre dealurile istorice pentru panorame uluitoare și arhitectură tradițională. După-amiaza vă puteți relaxa lângă golfurile uimitoare sau explora ruinele antice chiar pe plajă. Seara încheie turul cu vederi de neuitat ale orei de aur peste Marea Egee.",
         "en": "Morning starts with fresh sea breezes as you take in the iconic coastal landmarks. Midday brings you up to the historic hills for breathtaking panoramas and traditional architecture. In the afternoon, you can relax by the stunning bays or explore ancient ruins right on the beach. Evening wraps up the tour with unforgettable golden hour views over the Aegean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen bietet eine stimmungsvolle Kulisse für ein schnelles Foto an der Schaukel.\n\nMittags erkunden Sie die Bucht und Kefalos und flüchten bei Schauern in gemütliche Cafés.\n\nNachmittags erfordert die Burgruine wegen rutschiger Steine Vorsicht, danach bietet das Mylotopi Schutz.\n\nDen Abend verbringen Sie am besten aufgewärmt in einer Taverne.",
+            "hu": "A reggel borús égbolttal vár egy gyors fotóra a hintánál.\n\nDélben fedezze fel a Kamari-öblöt és Kefalost, eső elől kávézókba húzódva.\n\nDélután a várromok csúszós kövein óvatosan lépkedjen, majd melegedjen át a Mylotopi zárt tereiben.\n\nAz estét érdemes egy hangulatos, meleg helyi tavernában tölteni.",
+            "ro": "Dimineața aduce o atmosferă melancolică, perfectă pentru o poză la leagăn.\n\nLa prânz, explorați golful și Kefalos, adăpostindu-vă în cafenele când plouă.\n\nDupă-amiaza, ruinele castelului necesită atenție din cauza pietrelor alunecoase, urmate de confortul din Mylotopi.\n\nSeara este cel mai bine petrecută la căldură într-o tavernă.",
+            "en": "Morning brings moody skies for a quick photo at the swing.\n\nAt noon, explore Kamari Bay and Kefalos, ducking into cafes when rain falls.\n\nAfternoon visits to the castle require care on slippery stones before escaping to Mylotopi's indoor comfort.\n\nEvening is best spent warming up in a cozy traditional taverna."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "\"I love Cavos\" Schaukel",
+                "hu": "\"I love Cavos\" Hinta",
+                "ro": "Leagănul \"I love Cavos\"",
+                "en": "\"I love Cavos\" Swing"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto mit Regenschirm; die bunten Buchstaben stechen bei grauem Wetter hervor, aber Vorsicht vor Matsch.",
+                "hu": "Készítsen egy gyors fotót esernyő alatt; a színes betűk jól mutatnak a szürke időben, de vigyázzon a sáros, csúszós talajjal.",
+                "ro": "Faceți o poză rapidă sub umbrelă; literele colorate ies în evidență pe vreme cenușie, dar atenție la pământul noroios și alunecos.",
+                "en": "Take a quick photo under an umbrella; the colourful letters pop in the grey weather, but watch your step on the muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Kamari",
+                "hu": "Kamari-öböl",
+                "ro": "Golful Kamari",
+                "en": "Kamari Bay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen; ein stabiler Regenschirm ist hier unerlässlich und die Wege können sehr rutschig sein.",
+                "hu": "Figyelje meg a partnak csapódó drámai, viharos hullámokat; egy erős esernyő elengedhetetlen, és a sétány csúszós lehet.",
+                "ro": "Priviți valurile dramatice lovindu-se de țărm; o umbrelă rezistentă este esențială aici, iar cărările pot fi alunecoase.",
+                "en": "Watch the dramatic, stormy waves crash against the shore; a sturdy umbrella is essential here, and the paths can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kefalos",
+                "hu": "Kefalos",
+                "ro": "Kefalos",
+                "en": "Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Die traditionellen engen Gassen sehen bei Nässe wunderschön aus, bieten aber kaum Schutz; flüchten Sie in eine lokale Bäckerei.",
+                "hu": "A hagyományos szűk utcák gyönyörűek nedvesen, de kevés menedéket nyújtanak; húzódjon be egy helyi pékségbe melegedni.",
+                "ro": "Străzile tradiționale înguste arată frumos când sunt ude, dar oferă puțin adăpost; intrați într-o brutărie pentru a vă încălzi.",
+                "en": "The traditional narrow streets look beautiful when wet, but offer little cover; duck into a local bakery to stay dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Kefalos",
+                "hu": "Kefalos vára",
+                "ro": "Castelul Kefalos",
+                "en": "Castle of Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen vorsichtig, da die alten Steine im Regen extrem rutschig werden; tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Óvatosan fedezze fel a romokat, mivel a régi kövek rendkívül csúszóssá válnak az esőben; viseljen kiváló tapadású cipőt.",
+                "ro": "Explorați ruinele cu prudență, deoarece pietrele vechi devin foarte alunecoase la ploaie; purtați încălțăminte cu aderență.",
+                "en": "Explore the ruins cautiously, as the old stones become extremely slippery in the rain; wear shoes with excellent grip and tread."
+              }
+            },
+            {
+              "name": {
+                "de": "Mylotopi",
+                "hu": "Mylotopi",
+                "ro": "Mylotopi",
+                "en": "Mylotopi"
+              },
+              "tip_5lang": {
+                "de": "Dieser traditionelle Komplex ist der perfekte Zufluchtsort bei Schauern; lernen Sie die Geschichte bei einem Heißgetränk kennen.",
+                "hu": "Ez a hagyományos komplexum tökéletes beltéri menedék a záporok elől; ismerje meg a helyi történelmet egy forró ital mellett.",
+                "ro": "Acest complex tradițional este refugiul perfect în interior de ploi; învățați istoria locală savurând o băutură caldă.",
+                "en": "This traditional complex is the perfect indoor refuge from showers; learn about local history while enjoying a hot drink inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare, kühle Morgenluft erwartet Sie für perfekte Fotos an der Schaukel.\n\nMittags genießen Sie einen flotten Spaziergang durch die Kamari-Bucht und die authentischen Gassen von Kefalos.\n\nNachmittags bietet die Burgruine tolle Ausblicke, bevor Sie vor dem Sonnenuntergang gegen 17:00 Uhr das Mylotopi erreichen.\n\nDen frühen Abend verbringen Sie gemütlich bei heißem Tee.",
+            "hu": "Csípős reggeli levegő fogadja a kristálytiszta fotókhoz a hintánál.\n\nDélben élvezze a frissítő sétát a Kamari-öbölben és Kefalos autentikus utcáin.\n\nDélután a várrom lenyűgöző kilátást nyújt, majd a 17:00 órai naplemente előtt érkezzen a Mylotopihoz.\n\nA korán sötétedő estét egy meleg teával töltse egy hangulatos helyen.",
+            "ro": "Aerul rece al dimineții vă întâmpină pentru poze clare la leagăn.\n\nLa prânz, bucurați-vă de o plimbare revigorantă prin Golful Kamari și pe străzile autentice din Kefalos.\n\nDupă-amiaza la castel oferă priveliști superbe, ajungând la Mylotopi înainte de apusul de la ora 17:00.\n\nPetreceți seara devreme savurând un ceai fierbinte într-un loc primitor.",
+            "en": "Crisp morning air greets you for bright, clear photos at the swing.\n\nBy noon, enjoy a brisk walk through Kamari Bay and the authentic streets of Kefalos.\n\nAfternoon exploration of the castle offers stunning views, leading to Mylotopi before the sun sets around 17:00.\n\nSpend the early dark evening sipping hot tea in a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "\"I love Cavos\" Schaukel",
+                "hu": "\"I love Cavos\" Hinta",
+                "ro": "Leagănul \"I love Cavos\"",
+                "en": "\"I love Cavos\" Swing"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet perfekte Sicht für Fotos; tragen Sie eine warme Jacke, da die Küstenbrise ziemlich kühl sein kann.",
+                "hu": "A csípős téli levegő kristálytiszta látási viszonyokat biztosít a fotókhoz; vegyen fel meleg kabátot a hideg parti szél miatt.",
+                "ro": "Aerul rece de iarnă oferă vizibilitate clară pentru poze aici; purtați o jachetă groasă, deoarece briza de coastă este rece.",
+                "en": "The crisp winter air offers crystal clear visibility for photos here; wear a warm jacket as the coastal breeze is quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Kamari",
+                "hu": "Kamari-öböl",
+                "ro": "Golful Kamari",
+                "en": "Kamari Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen ruhigen Spaziergang am leeren Winterstrand, aber tragen Sie dicke Schichten gegen den kalten Seewind.",
+                "hu": "Élvezze a békés sétát a kihalt téli strandon, de öltözzön vastag rétegekbe a nyílt tenger felől fújó metsző, hideg szél ellen.",
+                "ro": "Bucurați-vă de o plimbare liniștită pe plaja pustie de iarnă, dar îmbrăcați-vă gros pentru a bloca vântul rece de pe mare.",
+                "en": "Enjoy a peaceful walk on the deserted winter beach, but dress in thick layers to block the biting, cold wind from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kefalos",
+                "hu": "Kefalos",
+                "ro": "Kefalos",
+                "en": "Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das authentische Dorf ohne die Sommermassen; die Steingassen bleiben kühl, lassen Sie Ihren Wintermantel an.",
+                "hu": "Tapasztalja meg az autentikus falut nyári tömeg nélkül; a kőutcák hidegek maradnak, ezért tartsa összehúzva a télikabátot.",
+                "ro": "Experimentați satul autentic fără aglomerația de vară; aleile de piatră rămân reci, așa că țineți haina de iarnă închisă.",
+                "en": "Experience the authentic village without the summer crowds; the stone alleys stay cool, so keep your winter coat zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Kefalos",
+                "hu": "Kefalos vára",
+                "ro": "Castelul Kefalos",
+                "en": "Castle of Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick im weichen Winterlicht; die erhöhte Lage bedeutet starken Wind, eine warme Mütze ist nötig.",
+                "hu": "Élvezze a lenyűgöző panorámát a lágy téli fényben; a magaslati fekvés erős szelet jelent, így egy meleg sapka elengedhetetlen.",
+                "ro": "Bucurați-vă de priveliști panoramice uimitoare în lumina moale de iarnă; poziția înaltă aduce vânturi puternice, luați o căciulă.",
+                "en": "Enjoy stunning panoramic views in the soft winter light; the elevated position means strong winds, so a warm hat is necessary."
+              }
+            },
+            {
+              "name": {
+                "de": "Mylotopi",
+                "hu": "Mylotopi",
+                "ro": "Mylotopi",
+                "en": "Mylotopi"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der restaurierten Windmühle auf; die Aussichtsterrasse ist fantastisch für den frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Melegedjen fel a felújított szélmalomban és élvezze a hagyományos falatokat; a terasz fantasztikus a korai 17:00 órai naplementéhez.",
+                "ro": "Încălziți-vă în moara de vânt restaurată; terasa de observare este fantastică pentru apusul de soare timpuriu de la ora 17:00.",
+                "en": "Warm up inside the restored windmill and enjoy traditional treats; the viewing terrace is fantastic for the early 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggel friss tengeri szellővel indul, miközben megcsodálja az ikonikus tengerparti látványosságokat. Délben a történelmi dombokra látogatunk lélegzetelállító panorámákért és hagyományos építészetért. Délután pihenhet a lenyűgöző öblökben, vagy felfedezheti a közvetlenül a tengerparton található ősi romokat. Az este felejthetetlen aranyórás kilátással zárul az Égei-tenger felett.",
         "ro": "Dimineața începe cu o briză proaspătă de mare în timp ce admirați reperele de coastă iconice. La amiază vă îndreptați spre dealurile istorice pentru panorame uluitoare și arhitectură tradițională. După-amiaza vă puteți relaxa lângă golfurile uimitoare sau explora ruinele antice chiar pe plajă. Seara încheie turul cu vederi de neuitat ale orei de aur peste Marea Egee.",
         "en": "Morning starts with fresh sea breezes as you take in the iconic coastal landmarks. Midday brings you up to the historic hills for breathtaking panoramas and traditional architecture. In the afternoon, you can relax by the stunning bays or explore ancient ruins right on the beach. Evening wraps up the tour with unforgettable golden hour views over the Aegean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einer feuchten Wanderung zur Aspre Petra, die in der Höhle Schutz bietet.\n\nMittags radeln Sie vorsichtig auf rutschigen Straßen zur Schaukel und zur Burg von Kefalos.\n\nNachmittags ziehen Sie Regenkleidung an, um die Buchten und die offenen Basilika-Ruinen zu besuchen.\n\nDie Abendfahrt sollte früh enden, um sich drinnen aufzuwärmen.",
+            "hu": "Kezdje a reggelt egy nedves túrával az Aspre Petra barlanghoz, ami természetes menedéket nyújt.\n\nDélben óvatosan tekerjen a csúszós utakon a hintához és a kefalosi várhoz.\n\nDélután vegyen fel vízálló ruhát az öblök és a nyitott bazilikaromok megtekintéséhez.\n\nAz esti tekerést érdemes korán befejezni, hogy bent megszáradjon és felmelegedjen.",
+            "ro": "Începeți dimineața cu o drumeție umedă spre Aspre Petra, care oferă adăpost natural în peșteră.\n\nLa prânz, pedalați cu grijă pe drumurile alunecoase spre leagăn și castelul Kefalos.\n\nDupă-amiaza, îmbrăcați haine impermeabile pentru a vizita golfurile și ruinele deschise ale bazilicii.\n\nCursa de seară trebuie să se încheie devreme pentru a vă usca la interior.",
+            "en": "Start the morning with a wet hike to Aspre Petra, which offers natural cave shelter.\n\nAt noon, cycle carefully on slippery roads to the swing and up to Kefalos castle.\n\nIn the afternoon, put on waterproofs to visit the stunning bays and open basilica ruins.\n\nEvening rides should end early to dry off and warm up indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aspre Petra",
+                "hu": "Aspre Petra",
+                "ro": "Aspre Petra",
+                "en": "Aspre Petra"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet tollen natürlichen Schutz, aber der steinige Weg hinauf wird sehr matschig; bringen Sie eine Regenjacke mit.",
+                "hu": "Maga a barlang remek természetes menedéket nyújt, de a felfelé vezető sziklás ösvény nagyon sáros lesz; hozzon esőkabátot.",
+                "ro": "Peștera în sine oferă un adăpost natural excelent, dar traseul stâncos devine noroios; aduceți o pelerină de ploaie și urcați cu grijă.",
+                "en": "The cave itself provides great natural shelter, but the rocky trail up becomes very muddy; bring a raincoat and step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "\"I love Cavos\" Schaukel",
+                "hu": "\"I love Cavos\" Hinta",
+                "ro": "Leagănul \"I love Cavos\"",
+                "en": "\"I love Cavos\" Swing"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto mit Regenschirm; die bunten Buchstaben stechen bei grauem Wetter hervor, aber Vorsicht vor Matsch.",
+                "hu": "Készítsen egy gyors fotót esernyő alatt; a színes betűk jól mutatnak a szürke időben, de vigyázzon a sáros, csúszós talajjal.",
+                "ro": "Faceți o poză rapidă sub umbrelă; literele colorate ies în evidență pe vreme cenușie, dar atenție la pământul noroios și alunecos.",
+                "en": "Take a quick photo under an umbrella; the colourful letters pop in the grey weather, but watch your step on the muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Kefalos",
+                "hu": "Kefalos vára",
+                "ro": "Castelul Kefalos",
+                "en": "Castle of Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen vorsichtig, da die alten Steine im Regen extrem rutschig werden; tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Óvatosan fedezze fel a romokat, mivel a régi kövek rendkívül csúszóssá válnak az esőben; viseljen kiváló tapadású cipőt.",
+                "ro": "Explorați ruinele cu prudență, deoarece pietrele vechi devin foarte alunecoase la ploaie; purtați încălțăminte cu aderență.",
+                "en": "Explore the ruins cautiously, as the old stones become extremely slippery in the rain; wear shoes with excellent grip and tread."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Agios Stefanos",
+                "hu": "Agios Stefanos-öböl",
+                "ro": "Golful Agios Stefanos",
+                "en": "Agios Stefanos Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht sieht vor dunklen Gewitterwolken fantastisch aus; halten Sie eine Regenjacke bereit, da der Wind den Regen peitscht.",
+                "hu": "Az öböl lenyűgöző a sötét viharfelhők alatt; tartson kéznél vízálló kabátot, mivel a parti szél oldalról fújja az esőt.",
+                "ro": "Golful arată impresionant pe fundalul norilor de furtună; țineți la îndemână o jachetă impermeabilă, deoarece vântul suflă ploaia.",
+                "en": "The bay looks striking against dark storm clouds; keep a waterproof jacket handy as the coastal winds blow rain sideways here."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Ayios Stefanos",
+                "hu": "Ayios Stefanos-bazilika",
+                "ro": "Bazilica Ayios Stefanos",
+                "en": "Basilica of Ayios Stefanos"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen bieten keinerlei Dach oder Schutz; bringen Sie einen guten Regenschirm mit und achten Sie auf tiefe Pfützen.",
+                "hu": "Az ősi romok semmiféle tetőt vagy menedéket nem nyújtanak; hozzon jó esernyőt, és vigyázzon a mozaikokon lévő mély tócsákkal.",
+                "ro": "Ruinele antice nu oferă absolut niciun acoperiș; trebuie să aduceți o umbrelă bună și să fiți atenți la bălțile adânci de pe mozaicuri.",
+                "en": "The ancient ruins offer absolutely no roof or shelter; you must bring a good umbrella and watch for deep puddles in the mosaics."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen ist perfekt für die anstrengende Wanderung zur Aspre Petra.\n\nMittags ziehen Sie sich warm an für die Fahrt zur Schaukel und hinauf zur Burg von Kefalos.\n\nDas Nachmittagslicht beleuchtet Agios Stefanos und die Basilika vor der frühen Dämmerung wunderschön.\n\nDer Abend bricht gegen 17:00 Uhr an; beenden Sie die Tour früh für ein warmes Essen.",
+            "hu": "A csípős téli reggel tökéletes az Aspre Petra barlanghoz vezető élénkítő túrához.\n\nDélben öltözzön rétegesen a hintához és a kefalosi várhoz vezető frissítő tekeréshez.\n\nDélután a lemenő napfény gyönyörűen megvilágítja az Agios Stefanos öblöt és a bazilikát.\n\nAz este 17:00 körül gyorsan leszáll, így korán fejezze be az utat egy meleg vacsoráért.",
+            "ro": "O dimineață de iarnă răcoroasă este perfectă pentru o drumeție viguroasă la Aspre Petra.\n\nLa prânz, îmbrăcați-vă gros pentru o plimbare spre leagăn și spre înălțimile castelului Kefalos.\n\nLumina de după-amiază luminează frumos Agios Stefanos și bazilica înainte de amurg.\n\nSeara coboară rapid în jurul orei 17:00, așa că încheiați cursa devreme.",
+            "en": "A crisp winter morning is perfect for the vigorous hike to Aspre Petra.\n\nAt noon, layer up for a brisk ride to the swing and the heights of Kefalos castle.\n\nAfternoon sunlight beautifully illuminates Agios Stefanos and the basilica before dusk.\n\nEvening falls quickly around 17:00, so finish your ride early and enjoy a warm indoor meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aspre Petra",
+                "hu": "Aspre Petra",
+                "ro": "Aspre Petra",
+                "en": "Aspre Petra"
+              },
+              "tip_5lang": {
+                "de": "Die anstrengende Wanderung zur Höhle hält Sie warm; die karge Winterlandschaft rund um den Eingang ist atemberaubend.",
+                "hu": "A barlanghoz vezető élénkítő túra természetes módon felmelegíti; a nyílás körüli zord téli táj egyszerűen lélegzetelállító.",
+                "ro": "Drumeția viguroasă până la peșteră vă va menține cald; peisajul de iarnă dezolant din jurul deschiderii este uluitor.",
+                "en": "The vigorous hike up to the cave will naturally keep you warm; the stark winter landscape around the opening is breathtaking."
+              }
+            },
+            {
+              "name": {
+                "de": "\"I love Cavos\" Schaukel",
+                "hu": "\"I love Cavos\" Hinta",
+                "ro": "Leagănul \"I love Cavos\"",
+                "en": "\"I love Cavos\" Swing"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet perfekte Sicht für Fotos; tragen Sie eine warme Jacke, da die Küstenbrise ziemlich kühl sein kann.",
+                "hu": "A csípős téli levegő kristálytiszta látási viszonyokat biztosít a fotókhoz; vegyen fel meleg kabátot a hideg parti szél miatt.",
+                "ro": "Aerul rece de iarnă oferă vizibilitate clară pentru poze aici; purtați o jachetă groasă, deoarece briza de coastă este rece.",
+                "en": "The crisp winter air offers crystal clear visibility for photos here; wear a warm jacket as the coastal breeze is quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Kefalos",
+                "hu": "Kefalos vára",
+                "ro": "Castelul Kefalos",
+                "en": "Castle of Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick im weichen Winterlicht; die erhöhte Lage bedeutet starken Wind, eine warme Mütze ist nötig.",
+                "hu": "Élvezze a lenyűgöző panorámát a lágy téli fényben; a magaslati fekvés erős szelet jelent, így egy meleg sapka elengedhetetlen.",
+                "ro": "Bucurați-vă de priveliști panoramice uimitoare în lumina moale de iarnă; poziția înaltă aduce vânturi puternice, luați o căciulă.",
+                "en": "Enjoy stunning panoramic views in the soft winter light; the elevated position means strong winds, so a warm hat is necessary."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Agios Stefanos",
+                "hu": "Agios Stefanos-öböl",
+                "ro": "Golful Agios Stefanos",
+                "en": "Agios Stefanos Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, schöner Ort für einen Winterspaziergang ohne Badegäste; packen Sie sich warm ein gegen die Kälte der Ägäis.",
+                "hu": "Csendes, gyönyörű hely egy téli sétához, napozók nélkül; öltözzön be melegen az Égei-tenger felől érkező hideg ellen.",
+                "ro": "Un loc liniștit și frumos pentru o plimbare de iarnă, complet lipsit de turiști; înfofoliți-vă bine împotriva frigului Mării Egee.",
+                "en": "A quiet, beautiful spot for a winter walk, completely empty of sunbathers; wrap up warmly against the chill of the Aegean sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Ayios Stefanos",
+                "hu": "Ayios Stefanos-bazilika",
+                "ro": "Bazilica Ayios Stefanos",
+                "en": "Basilica of Ayios Stefanos"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne bringt die antiken Säulen perfekt zur Geltung; beenden Sie Ihren Besuch vor der frühen Dämmerung.",
+                "hu": "Az alacsony téli nap tökéletesen megvilágítja az ősi oszlopokat és mozaikpadlókat; tervezze be a látogatást a korai szürkület előtt.",
+                "ro": "Soarele de iarnă scoate în evidență coloanele antice și podelele din mozaic; planificați să terminați vizita înainte de lăsarea serii.",
+                "en": "The low winter sun perfectly highlights the ancient columns and mosaic floors; plan to finish your visit before the early dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A reggel friss tengeri szellővel indul, miközben megcsodálja az ikonikus tengerparti látványosságokat. Délben a történelmi dombokra látogatunk lélegzetelállító panorámákért és hagyományos építészetért. Délután pihenhet a lenyűgöző öblökben, vagy felfedezheti a közvetlenül a tengerparton található ősi romokat. Az este felejthetetlen aranyórás kilátással zárul az Égei-tenger felett.",
         "ro": "Dimineața începe cu o briză proaspătă de mare în timp ce admirați reperele de coastă iconice. La amiază vă îndreptați spre dealurile istorice pentru panorame uluitoare și arhitectură tradițională. După-amiaza vă puteți relaxa lângă golfurile uimitoare sau explora ruinele antice chiar pe plajă. Seara încheie turul cu vederi de neuitat ale orei de aur peste Marea Egee.",
         "en": "Morning starts with fresh sea breezes as you take in the iconic coastal landmarks. Midday brings you up to the historic hills for breathtaking panoramas and traditional architecture. In the afternoon, you can relax by the stunning bays or explore ancient ruins right on the beach. Evening wraps up the tour with unforgettable golden hour views over the Aegean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zur Aspre Petra und suchen Sie Schutz in der alten Höhle.\n\nMittags bleiben Sie trocken, während Sie Kefalos und die Innenausstellungen des Mylotopi erkunden.\n\nNachmittagsschauer stören das Foto an der Schaukel und die Fahrt entlang der Buchten kaum.\n\nDer Abend eignet sich perfekt für die Fahrt zu einem gemütlichen Restaurant abseits des Regens.",
+            "hu": "Reggel vezessen fel az Aspre Petrához, és találjon menedéket az ősi barlangban.\n\nDélben maradjon szárazon Kefalos falujának és a Mylotopi beltéri kiállításainak felfedezésekor.\n\nDélutáni záporok sem rontják el a fotót a hintánál és az öblök melletti festői autózást.\n\nAz este tökéletes arra, hogy egy meleg étterembe vezessen és teljesen elkerülje az esőt.",
+            "ro": "Conduceți dimineața până la Aspre Petra, găsind adăpost în peștera antică.\n\nLa prânz, rămâneți uscat explorând satul Kefalos și expozițiile interioare de la Mylotopi.\n\nPloile de după-amiază nu vor strica o poză la leagăn și o plimbare pitorească pe lângă golfuri.\n\nSeara este perfectă pentru a conduce spre un restaurant tradițional pentru a scăpa de ploaie.",
+            "en": "Drive up to Aspre Petra in the morning, finding shelter in the ancient cave.\n\nAt noon, stay dry exploring the village of Kefalos and the indoor exhibits of Mylotopi.\n\nAfternoon showers won't ruin a quick photo at the swing and a scenic drive by the bays.\n\nEvening is perfect for driving to a cozy traditional restaurant to escape the rain entirely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aspre Petra",
+                "hu": "Aspre Petra",
+                "ro": "Aspre Petra",
+                "en": "Aspre Petra"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet tollen natürlichen Schutz, aber der steinige Weg hinauf wird sehr matschig; bringen Sie eine Regenjacke mit.",
+                "hu": "Maga a barlang remek természetes menedéket nyújt, de a felfelé vezető sziklás ösvény nagyon sáros lesz; hozzon esőkabátot.",
+                "ro": "Peștera în sine oferă un adăpost natural excelent, dar traseul stâncos devine noroios; aduceți o pelerină de ploaie și urcați cu grijă.",
+                "en": "The cave itself provides great natural shelter, but the rocky trail up becomes very muddy; bring a raincoat and step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Kefalos",
+                "hu": "Kefalos",
+                "ro": "Kefalos",
+                "en": "Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Die traditionellen engen Gassen sehen bei Nässe wunderschön aus, bieten aber kaum Schutz; flüchten Sie in eine lokale Bäckerei.",
+                "hu": "A hagyományos szűk utcák gyönyörűek nedvesen, de kevés menedéket nyújtanak; húzódjon be egy helyi pékségbe melegedni.",
+                "ro": "Străzile tradiționale înguste arată frumos când sunt ude, dar oferă puțin adăpost; intrați într-o brutărie pentru a vă încălzi.",
+                "en": "The traditional narrow streets look beautiful when wet, but offer little cover; duck into a local bakery to stay dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Mylotopi",
+                "hu": "Mylotopi",
+                "ro": "Mylotopi",
+                "en": "Mylotopi"
+              },
+              "tip_5lang": {
+                "de": "Dieser traditionelle Komplex ist der perfekte Zufluchtsort bei Schauern; lernen Sie die Geschichte bei einem Heißgetränk kennen.",
+                "hu": "Ez a hagyományos komplexum tökéletes beltéri menedék a záporok elől; ismerje meg a helyi történelmet egy forró ital mellett.",
+                "ro": "Acest complex tradițional este refugiul perfect în interior de ploi; învățați istoria locală savurând o băutură caldă.",
+                "en": "This traditional complex is the perfect indoor refuge from showers; learn about local history while enjoying a hot drink inside."
+              }
+            },
+            {
+              "name": {
+                "de": "\"I love Cavos\" Schaukel",
+                "hu": "\"I love Cavos\" Hinta",
+                "ro": "Leagănul \"I love Cavos\"",
+                "en": "\"I love Cavos\" Swing"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto mit Regenschirm; die bunten Buchstaben stechen bei grauem Wetter hervor, aber Vorsicht vor Matsch.",
+                "hu": "Készítsen egy gyors fotót esernyő alatt; a színes betűk jól mutatnak a szürke időben, de vigyázzon a sáros, csúszós talajjal.",
+                "ro": "Faceți o poză rapidă sub umbrelă; literele colorate ies în evidență pe vreme cenușie, dar atenție la pământul noroios și alunecos.",
+                "en": "Take a quick photo under an umbrella; the colourful letters pop in the grey weather, but watch your step on the muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Kamari",
+                "hu": "Kamari-öböl",
+                "ro": "Golful Kamari",
+                "en": "Kamari Bay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen; ein stabiler Regenschirm ist hier unerlässlich und die Wege können sehr rutschig sein.",
+                "hu": "Figyelje meg a partnak csapódó drámai, viharos hullámokat; egy erős esernyő elengedhetetlen, és a sétány csúszós lehet.",
+                "ro": "Priviți valurile dramatice lovindu-se de țărm; o umbrelă rezistentă este esențială aici, iar cărările pot fi alunecoase.",
+                "en": "Watch the dramatic, stormy waves crash against the shore; a sturdy umbrella is essential here, and the paths can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Ayios Stefanos",
+                "hu": "Ayios Stefanos-bazilika",
+                "ro": "Bazilica Ayios Stefanos",
+                "en": "Basilica of Ayios Stefanos"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen bieten keinerlei Dach oder Schutz; bringen Sie einen guten Regenschirm mit und achten Sie auf tiefe Pfützen.",
+                "hu": "Az ősi romok semmiféle tetőt vagy menedéket nem nyújtanak; hozzon jó esernyőt, és vigyázzon a mozaikokon lévő mély tócsákkal.",
+                "ro": "Ruinele antice nu oferă absolut niciun acoperiș; trebuie să aduceți o umbrelă bună și să fiți atenți la bălțile adânci de pe mozaicuri.",
+                "en": "The ancient ruins offer absolutely no roof or shelter; you must bring a good umbrella and watch for deep puddles in the mosaics."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zur Aspre Petra bietet klare, atemberaubende Ausblicke in der Winterluft.\n\nMittags erkunden Sie Kefalos und wärmen sich in der traditionellen Mühle des Mylotopi auf.\n\nDas Nachmittagslicht ist perfekt für Stopps an der Schaukel, der Kamari-Bucht und der Basilika.\n\nDer Abend bricht um 17:00 Uhr an, fahren Sie auf den kurvigen Straßen vorsichtig zurück.",
+            "hu": "A reggeli autózás az Aspre Petrához lenyűgöző, tiszta kilátást nyújt a csípős téli levegőben.\n\nDélben fedezze fel Kefalost és Mylotopit, ahol a hagyományos malomban felmelegedhet.\n\nDélutáni fényben érdemes megállni a hintánál, a Kamari-öbölnél és a bazilikaromoknál.\n\nAz este 17:00 órára megérkezik, így sötétben óvatosan navigáljon vissza a kanyargós utakon.",
+            "ro": "Drumul de dimineață spre Aspre Petra oferă priveliști clare și uimitoare în aerul rece de iarnă.\n\nLa prânz, explorați Kefalos și Mylotopi, unde vă puteți încălzi în moara tradițională.\n\nLumina de după-amiază este perfectă pentru opriri la leagăn, Golful Kamari și ruinele bazilicii.\n\nSeara sosește la ora 17:00, așa că navigați cu grijă înapoi pe drumurile întunecate.",
+            "en": "Morning drives to Aspre Petra offer stunning, clear views in the crisp winter air.\n\nAt noon, explore Kefalos and Mylotopi, where you can warm up inside the traditional mill.\n\nAfternoon light is perfect for stopping at the swing, Kamari Bay, and the basilica ruins.\n\nEvening arrives by 17:00, so navigate the winding roads back carefully in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aspre Petra",
+                "hu": "Aspre Petra",
+                "ro": "Aspre Petra",
+                "en": "Aspre Petra"
+              },
+              "tip_5lang": {
+                "de": "Die anstrengende Wanderung zur Höhle hält Sie warm; die karge Winterlandschaft rund um den Eingang ist atemberaubend.",
+                "hu": "A barlanghoz vezető élénkítő túra természetes módon felmelegíti; a nyílás körüli zord téli táj egyszerűen lélegzetelállító.",
+                "ro": "Drumeția viguroasă până la peșteră vă va menține cald; peisajul de iarnă dezolant din jurul deschiderii este uluitor.",
+                "en": "The vigorous hike up to the cave will naturally keep you warm; the stark winter landscape around the opening is breathtaking."
+              }
+            },
+            {
+              "name": {
+                "de": "Kefalos",
+                "hu": "Kefalos",
+                "ro": "Kefalos",
+                "en": "Kefalos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das authentische Dorf ohne die Sommermassen; die Steingassen bleiben kühl, lassen Sie Ihren Wintermantel an.",
+                "hu": "Tapasztalja meg az autentikus falut nyári tömeg nélkül; a kőutcák hidegek maradnak, ezért tartsa összehúzva a télikabátot.",
+                "ro": "Experimentați satul autentic fără aglomerația de vară; aleile de piatră rămân reci, așa că țineți haina de iarnă închisă.",
+                "en": "Experience the authentic village without the summer crowds; the stone alleys stay cool, so keep your winter coat zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Mylotopi",
+                "hu": "Mylotopi",
+                "ro": "Mylotopi",
+                "en": "Mylotopi"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der restaurierten Windmühle auf; die Aussichtsterrasse ist fantastisch für den frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Melegedjen fel a felújított szélmalomban és élvezze a hagyományos falatokat; a terasz fantasztikus a korai 17:00 órai naplementéhez.",
+                "ro": "Încălziți-vă în moara de vânt restaurată; terasa de observare este fantastică pentru apusul de soare timpuriu de la ora 17:00.",
+                "en": "Warm up inside the restored windmill and enjoy traditional treats; the viewing terrace is fantastic for the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "\"I love Cavos\" Schaukel",
+                "hu": "\"I love Cavos\" Hinta",
+                "ro": "Leagănul \"I love Cavos\"",
+                "en": "\"I love Cavos\" Swing"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet perfekte Sicht für Fotos; tragen Sie eine warme Jacke, da die Küstenbrise ziemlich kühl sein kann.",
+                "hu": "A csípős téli levegő kristálytiszta látási viszonyokat biztosít a fotókhoz; vegyen fel meleg kabátot a hideg parti szél miatt.",
+                "ro": "Aerul rece de iarnă oferă vizibilitate clară pentru poze aici; purtați o jachetă groasă, deoarece briza de coastă este rece.",
+                "en": "The crisp winter air offers crystal clear visibility for photos here; wear a warm jacket as the coastal breeze is quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Kamari",
+                "hu": "Kamari-öböl",
+                "ro": "Golful Kamari",
+                "en": "Kamari Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen ruhigen Spaziergang am leeren Winterstrand, aber tragen Sie dicke Schichten gegen den kalten Seewind.",
+                "hu": "Élvezze a békés sétát a kihalt téli strandon, de öltözzön vastag rétegekbe a nyílt tenger felől fújó metsző, hideg szél ellen.",
+                "ro": "Bucurați-vă de o plimbare liniștită pe plaja pustie de iarnă, dar îmbrăcați-vă gros pentru a bloca vântul rece de pe mare.",
+                "en": "Enjoy a peaceful walk on the deserted winter beach, but dress in thick layers to block the biting, cold wind from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Ayios Stefanos",
+                "hu": "Ayios Stefanos-bazilika",
+                "ro": "Bazilica Ayios Stefanos",
+                "en": "Basilica of Ayios Stefanos"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne bringt die antiken Säulen perfekt zur Geltung; beenden Sie Ihren Besuch vor der frühen Dämmerung.",
+                "hu": "Az alacsony téli nap tökéletesen megvilágítja az ősi oszlopokat és mozaikpadlókat; tervezze be a látogatást a korai szürkület előtt.",
+                "ro": "Soarele de iarnă scoate în evidență coloanele antice și podelele din mozaic; planificați să terminați vizita înainte de lăsarea serii.",
+                "en": "The low winter sun perfectly highlights the ancient columns and mosaic floors; plan to finish your visit before the early dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

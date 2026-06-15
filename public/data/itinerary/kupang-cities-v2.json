@@ -137,6 +137,168 @@
         "hu": "A reggel a lenyűgöző főszékesegyháznál kezdődik, amely békés indulást biztosít. Innen a Naikoten negyed felé sétálunk, hogy megismerjük a helyi spirituális életet. Délben elérjük a gyönyörűen tervezett Assumpta templomot és a lenyűgöző regionális múzeumot. A délután egy rövid sétával zárul Tuak Daun Merah felé egy kis csendes elmélkedésre.",
         "ro": "Dimineața începe la impresionanta Catedrală principală, oferind un start liniștit al zilei. De acolo, ne plimbăm spre zona Naikoten pentru a aprecia viața spirituală locală. La amiază ajungem la biserica Assumpta, frumos proiectată, și la muzeul regional fascinant. După-amiaza se încheie cu o scurtă plimbare spre Tuak Daun Merah pentru reflecție.",
         "en": "Morning begins at the impressive main Cathedral, offering a peaceful start to the day. From there, we stroll towards the Naikoten area to appreciate local spiritual life. Midday brings us to the beautifully designed Assumpta church and the fascinating regional museum to learn about local culture. The afternoon concludes with a short walk to Tuak Daun Merah for some quiet reflection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Kupang beginnt mit warmem Tropenregen, ideal für die Besichtigung der Kathedrale. Mittags bietet das Regionalmuseum den perfekten trockenen Zufluchtsort vor den heftigen Schauern. Am Nachmittag setzen wir den Spaziergang zwischen den Kirchen mit festem Schuhwerk fort. Der Abend endet bei hoher Luftfeuchtigkeit und dem beruhigenden Geräusch des Regens auf den Dächern.",
+            "hu": "A reggel Kupangban meleg trópusi esővel indul, ami ideális a katedrális belső terének felfedezéséhez. Délben a tartományi múzeum nyújt tökéletes száraz menedéket a heves záporok elől. Délután folytatjuk a sétát a templomok között, ügyelve a tócsákra és a csúszós járdákra. Az este magas páratartalommal és a tetőkön kopogó eső megnyugtató zajával zárul.",
+            "ro": "Dimineața în Kupang începe cu o ploaie tropicală caldă, ideală pentru explorarea interiorului catedralei. La prânz, muzeul regional oferă refugiul uscat perfect împotriva averselor abundente. După-amiaza continuăm plimbarea între biserici, având grijă la bălți și trotuarele alunecoase. Seara se încheie cu umiditate ridicată și sunetul liniștitor al ploii care bate în acoperișuri.",
+            "en": "The morning in Kupang begins with warm tropical rain, ideal for exploring the cathedral's interior. At noon, the regional museum provides the perfect dry refuge from the heavy showers. In the afternoon, we continue the walk between churches, being careful of puddles and slippery sidewalks. The evening ends with high humidity and the soothing sound of rain tapping on the roofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gereja Katedral Kristus Raja Kupang",
+                "hu": "Gereja Katedral Kristus Raja Kupang",
+                "ro": "Gereja Katedral Kristus Raja Kupang",
+                "en": "Gereja Katedral Kristus Raja Kupang"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Schutz der Vorhalle und achten Sie auf die nassen Stufen, die bei diesem Wetter besonders rutschig sein können.",
+                "hu": "Csodáld meg az építészetet az előcsarnok védelmében, és ügyelj a nedves lépcsőkre, amelyek ilyenkor különösen csúszósak lehetnek a bejáratnál.",
+                "ro": "Admiră arhitectura sub protecția pridvorului și ai grijă la treptele umede, care pot fi deosebit de alunecoase la intrare pe acest timp.",
+                "en": "Admire the architecture under the protection of the porch and watch out for wet steps, which can be particularly slippery at the entrance now."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Yoseph, Naikoten",
+                "hu": "Gereja Santo Yoseph, Naikoten",
+                "ro": "Gereja Santo Yoseph, Naikoten",
+                "en": "Gereja Santo Yoseph, Naikoten"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Innenbereich für eine stille Meditation, während draußen der Regen fällt, und halten Sie Ihren Regenschirm griffbereit.",
+                "hu": "Használd a fedett belső teret egy csendes meditációra, miközben odakint esik, és tartsd kéznél az esernyődet a következő szakaszhoz.",
+                "ro": "Folosește interiorul acoperit pentru o meditație liniștită în timp ce afară plouă și ține umbrela la îndemână pentru următoarea etapă.",
+                "en": "Use the covered interior for a quiet meditation while it rains outside, and keep your umbrella handy for the next leg of your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Assumpta, Kota Baru",
+                "hu": "Gereja Santa Maria Assumpta, Kota Baru",
+                "ro": "Gereja Santa Maria Assumpta, Kota Baru",
+                "en": "Gereja Santa Maria Assumpta, Kota Baru"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfenster wirken bei bewölktem Himmel besonders mystisch; tragen Sie eine Regenponcho für den kurzen Weg über den offenen Kirchplatz.",
+                "hu": "Az üvegablakok borús égbolt mellett különösen misztikusnak tűnnek; viselj esőponcsót a nyitott templomtéren való rövid átkeléshez.",
+                "ro": "Vitraliile par deosebit de mistice sub cerul înnorat; poartă o pelerină de ploaie pentru scurta traversare a pieței deschise a bisericii.",
+                "en": "The stained glass windows look particularly mystical under cloudy skies; wear a rain poncho for the short crossing of the open church square."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Nusa Tenggara Timur",
+                "hu": "Museum Daerah Nusa Tenggara Timur",
+                "ro": "Museum Daerah Nusa Tenggara Timur",
+                "en": "Museum Daerah Nusa Tenggara Timur"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um die lokale Kultur im Trockenen zu studieren, während draußen ein heftiger tropischer Wolkenbruch niedergeht.",
+                "hu": "Ez a legjobb hely a helyi kultúra tanulmányozására szárazon, miközben odakint heves trópusi felhőszakadás zúdul a városra.",
+                "ro": "Acesta este cel mai bun loc pentru a studia cultura locală la adăpost, în timp ce afară o rupere de nori tropicală se revarsă peste oraș.",
+                "en": "This is the best place to study local culture in the dry, while a heavy tropical downpour pours down on the city outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+                "hu": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+                "ro": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+                "en": "Gereja Santo Petrus Rasul, Tuak Daun Merah"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie sich die moderne Fassade im nassen Asphalt spiegelt, und nutzen Sie die Vordächer als Schutz vor den späten Schauern.",
+                "hu": "Figyeld meg, ahogy a modern homlokzat tükröződik a vizes aszfalton, és használd az előtetőket védelemként a késő délutáni záporok ellen.",
+                "ro": "Observă cum fațada modernă se oglindește în asfaltul ud și folosește copertinele ca protecție împotriva averselor de după-amiază târzie.",
+                "en": "Watch how the modern facade reflects in the wet asphalt and use the overhangs as protection against the late afternoon showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen lädt zu einem erfrischenden Spaziergang zur Kathedrale ein. Mittags genießen wir die angenehmen Temperaturen bei der Besichtigung der Kirchen und des Museums. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht intensiv aus. Der Abend wird schnell kühl, was den Aufenthalt in beleuchteten Innenräumen besonders gemütlich macht.",
+            "hu": "A hűvös téli reggel frissítő sétára hív a katedrálishoz. Délben élvezzük a kellemes hőmérsékletet a templomok és a múzeum megtekintése közben. Mivel a nap már 17:00 körül lenyugszik, intenzíven kihasználjuk a nappali fényt. Az este gyorsan lehűl, így a megvilágított belső terekben való tartózkodás különösen hangulatos és barátságos.",
+            "ro": "Dimineața răcoroasă de iarnă invită la o plimbare revigorantă către catedrală. La prânz, ne bucurăm de temperaturile plăcute în timp ce vizităm bisericile și muzeul. Deoarece soarele apune deja în jurul orei 17:00, profităm intens de lumina zilei. Seara se răcește rapid, făcând șederea în spațiile interioare luminate deosebit de confortabilă.",
+            "en": "The cool winter morning invites a refreshing walk to the cathedral. At noon, we enjoy the pleasant temperatures while visiting the churches and the museum. Since the sun sets around 17:00, we make intensive use of the daylight. The evening quickly turns cool, making stays in lit interior spaces particularly cozy and welcoming."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gereja Katedral Kristus Raja Kupang",
+                "hu": "Gereja Katedral Kristus Raja Kupang",
+                "ro": "Gereja Katedral Kristus Raja Kupang",
+                "en": "Gereja Katedral Kristus Raja Kupang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos der Fassade und genießen Sie die kühle Brise, die durch die offenen Portale weht.",
+                "hu": "Használd ki a tiszta reggeli fényt a homlokzat fotózásához, és élvezd a nyitott kapukon átáramló hűvös téli szellőt.",
+                "ro": "Profită de lumina clară a dimineții pentru fotografii ale fațadei și bucură-te de briza răcoroasă de iarnă care trece prin porțile deschise.",
+                "en": "Take advantage of the clear morning light for photos of the facade and enjoy the cool winter breeze flowing through the open gates."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Yoseph, Naikoten",
+                "hu": "Gereja Santo Yoseph, Naikoten",
+                "ro": "Gereja Santo Yoseph, Naikoten",
+                "en": "Gereja Santo Yoseph, Naikoten"
+              },
+              "tip_5lang": {
+                "de": "Die angenehme Kühle im Inneren lädt zum längeren Verweilen ein; nehmen Sie eine leichte Jacke für den Aufenthalt im Schatten mit.",
+                "hu": "A belső tér kellemes hűvössége hosszabb maradásra csábít; vigyél magaddal egy könnyű dzsekit az árnyékos helyeken való tartózkodáshoz.",
+                "ro": "Răcoarea plăcută din interior te invită să rămâi mai mult; ia cu tine o jachetă ușoară pentru momentele petrecute la umbră.",
+                "en": "The pleasant coolness inside invites a longer stay; take a light jacket with you for time spent in the shaded areas of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Assumpta, Kota Baru",
+                "hu": "Gereja Santa Maria Assumpta, Kota Baru",
+                "ro": "Gereja Santa Maria Assumpta, Kota Baru",
+                "en": "Gereja Santa Maria Assumpta, Kota Baru"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das Spiel der tiefstehenden Wintersonne auf den religiösen Kunstwerken zu bewundern.",
+                "hu": "Látogass el ide 16:00 előtt, hogy megcsodálhasd az alacsonyan járó téli nap játékát a vallási művészeti alkotásokon.",
+                "ro": "Vizitează acest loc înainte de ora 16:00 pentru a admira jocul soarelui de iarnă jos pe cer peste operele de artă religioasă.",
+                "en": "Visit this place before 16:00 to admire the play of the low winter sun on the religious artworks inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Nusa Tenggara Timur",
+                "hu": "Museum Daerah Nusa Tenggara Timur",
+                "ro": "Museum Daerah Nusa Tenggara Timur",
+                "en": "Museum Daerah Nusa Tenggara Timur"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet Schutz vor der brennenden Mittagssonne und ist dank der guten Belüftung im Winter ein sehr komfortabler Stopp.",
+                "hu": "A múzeum védelmet nyújt a tűző déli nap ellen, és a jó szellőzésnek köszönhetően télen nagyon kényelmes megállóhely.",
+                "ro": "Muzeul oferă protecție împotriva soarelui arzător de la prânz și este un punct de oprire foarte confortabil iarna datorită ventilației bune.",
+                "en": "The museum offers protection against the blazing midday sun and is a very comfortable stop in winter thanks to good ventilation."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+                "hu": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+                "ro": "Gereja Santo Petrus Rasul, Tuak Daun Merah",
+                "en": "Gereja Santo Petrus Rasul, Tuak Daun Merah"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch hier rechtzeitig vor Sonnenuntergang um 17:00 Uhr, um den Rückweg noch im hellen Tageslicht anzutreten.",
+                "hu": "Fejezd be a látogatást időben a 17:00-s naplemente előtt, hogy a visszautat még világos nappali fényben tehesd meg.",
+                "ro": "Încheie vizita la timp înainte de apusul soarelui de la ora 17:00, pentru a face drumul de întoarcere încă pe lumină.",
+                "en": "Finish your visit in time before the 17:00 sunset so that you can make the return journey while there is still bright daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Induljon kerékpárral a központi katedrálistól délnyugat felé, Oeleta lenyűgöző építészetének irányába. Délben tekerjen át az enyhe lejtőkön Sikumana és Tofa nyüzsgő közösségi plébániáihoz. Délután váltson a történelemre a regionális múzeumban. Fejezze be az utat a szomszédos Assumpta templomnál, miközben a nap lassan nyugovóra tér.",
         "ro": "Porniți pe bicicletă de la Catedrala centrală spre sud-vest, către Oeleta, pentru priveliști arhitecturale uimitoare. La amiază, pedalați spre Sikumana și Tofa, unde vă întâmpină parohiile vibrante. După-amiaza, schimbați ritmul cu o vizită istorică la muzeul regional. Încheiați plimbarea chiar alături, la biserica Assumpta, la asfințit.",
         "en": "Set off on your bike from the central Cathedral, heading southwest towards Oeleta for stunning architectural views. By midday, pedal across the gentle slopes to Sikumana and Tofa, where vibrant community parishes welcome you. In the afternoon, shift gears to history at the regional museum. Wrap up the ride right next door at the Assumpta church as the sun begins its gradual descent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf Kupangs Straßen. Wir starten morgens bei leichtem Nieselregen. Mittags suchen wir Schutz in Kirchen und im Museum, während schwere Güsse niedergehen. Am Nachmittag sind die Wege oft überflutet, was das Vorankommen verlangsamt. Der Abend bringt Abkühlung, aber die Straßen bleiben glatt, daher ist erhöhte Aufmerksamkeit geboten.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel Kupang utcáin. Reggel szemerkélő esőben indulunk. Délben templomokban és a múzeumban keresünk menedéket a heves zivatarok elől. Délután az utak gyakran víz alatt állnak, ami lassítja a haladást. Az este lehűlést hoz, de az utak csúszósak maradnak, ezért fokozott figyelem szükséges.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe străzile din Kupang. Pornim dimineața pe o ploaie ușoară. La prânz căutăm adăpost în biserici și la muzeu în timpul averselor grele. După-amiaza drumurile sunt adesea inundate, ceea ce încetinește înaintarea. Seara aduce răcoare, dar străzile rămân alunecoase, deci este necesară o atenție sporită.",
+            "en": "Cycling in the rain requires caution on Kupang's streets. We start in the morning with light drizzle. At noon, we seek shelter in churches and the museum during heavy downpours. In the afternoon, roads are often flooded, slowing progress. The evening brings cooler air, but the roads remain slippery, so increased alertness is required."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gereja Katedral Kristus Raja Kupang",
+                "hu": "Gereja Katedral Kristus Raja Kupang",
+                "ro": "Gereja Katedral Kristus Raja Kupang",
+                "en": "Gereja Katedral Kristus Raja Kupang"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt an der Kathedrale, da der nasse Asphalt den Bremsweg Ihres Fahrrads erheblich verlängert.",
+                "hu": "Indulás előtt ellenőrizd a fékeidet a katedrálisnál, mivel a nedves aszfalt jelentősen megnöveli a kerékpár féktávolságát.",
+                "ro": "Verifică frânele înainte de plecare la catedrală, deoarece asfaltul umed mărește semnificativ distanța de frânare a bicicletei.",
+                "en": "Check your brakes before departing from the cathedral, as wet asphalt significantly increases your bicycle's braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Gregorius Agung, Oeleta",
+                "hu": "Gereja Santo Gregorius Agung, Oeleta",
+                "ro": "Gereja Santo Gregorius Agung, Oeleta",
+                "en": "Gereja Santo Gregorius Agung, Oeleta"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Regenwasser verdeckt sein könnten, und nutzen Sie den Vorraum der Kirche zum Unterstellen.",
+                "hu": "Ügyelj az esővíz által eltakart kátyúkra az úton, és használd a templom előterét a kerékpár és magad megóvására az esőtől.",
+                "ro": "Atenție la gropile care ar putea fi ascunse de apa de ploaie și folosește vestibulul bisericii pentru a te adăposti cu bicicleta.",
+                "en": "Watch out for potholes that might be hidden by rainwater and use the church porch to shelter yourself and your bike from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Sancta Familia, Sikumana",
+                "hu": "Gereja Sancta Familia, Sikumana",
+                "ro": "Gereja Sancta Familia, Sikumana",
+                "en": "Gereja Sancta Familia, Sikumana"
+              },
+              "tip_5lang": {
+                "de": "Sikumana liegt höher; treten Sie bei Regen vorsichtig in die Pedale, da der Anstieg bei Nässe rutschig und anstrengender ist.",
+                "hu": "Sikumana magasabban fekszik; esőben óvatosan tekerj, mivel az emelkedő nedvesen csúszós és jóval megerőltetőbb lehet.",
+                "ro": "Sikumana este situată mai sus; pedalează cu prudență pe ploaie, deoarece urcarea este alunecoasă și mai solicitantă pe ud.",
+                "en": "Sikumana is located higher up; pedal carefully in the rain as the climb is slippery and much more strenuous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Mathias Rasul, Tofa",
+                "hu": "Gereja Santo Mathias Rasul, Tofa",
+                "ro": "Gereja Santo Mathias Rasul, Tofa",
+                "en": "Gereja Santo Mathias Rasul, Tofa"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach festem Untergrund zum Parken Ihres Rades, um ein Einsinken im aufgeweichten Boden der Umgebung zu vermeiden.",
+                "hu": "Keress szilárd talajt a kerékpár leállításához, hogy elkerüld a sárba süllyedést a templom körüli felázott talajon.",
+                "ro": "Caută un teren solid pentru a parca bicicleta, pentru a evita scufundarea în noroiul de pe solul înmuiat din jurul bisericii.",
+                "en": "Look for solid ground to park your bike to avoid sinking into the mud on the soaked ground around the church area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Nusa Tenggara Timur",
+                "hu": "Museum Daerah Nusa Tenggara Timur",
+                "ro": "Museum Daerah Nusa Tenggara Timur",
+                "en": "Museum Daerah Nusa Tenggara Timur"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Museumsbesuch, um Ihre Kleidung zu trocknen, bevor Sie die letzte Etappe durch den Regen antreten.",
+                "hu": "Használd ki a hosszú múzeumi látogatást a ruházatod megszárítására, mielőtt nekivágnál az utolsó esős szakasznak.",
+                "ro": "Profită de vizita lungă la muzeu pentru a-ți usca hainele înainte de a porni în ultima etapă prin ploaie.",
+                "en": "Take advantage of the long museum visit to dry your clothes before starting the final rainy leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Assumpta, Kota Baru",
+                "hu": "Gereja Santa Maria Assumpta, Kota Baru",
+                "ro": "Gereja Santa Maria Assumpta, Kota Baru",
+                "en": "Gereja Santa Maria Assumpta, Kota Baru"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann bei Starkregen eingeschränkt sein; schalten Sie Ihr Licht am Fahrrad ein, um von Autofahrern besser gesehen zu werden.",
+                "hu": "Erős esőben korlátozott látási viszonyokra számíthatsz; kapcsold be a kerékpár világítását, hogy az autósok jobban lássanak.",
+                "ro": "Vizibilitatea poate fi limitată în timpul ploii abundente; aprinde luminile bicicletei pentru a fi mai vizibil pentru șoferi.",
+                "en": "Visibility can be limited during heavy rain; turn on your bicycle lights so that car drivers can see you more clearly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit zum Radfahren in Kupang dank der kühleren Luft. Morgens starten wir schwungvoll an der Kathedrale. Mittags macht das Radeln bei mäßigen Temperaturen besonders viel Freude. Da es um 17:00 Uhr dunkel wird, planen wir unsere Route effizient. Der Abend kühlt spürbar ab, was nach der körperlichen Anstrengung sehr erfrischend wirkt.",
+            "hu": "A tél a legjobb időszak a kerékpározáshoz Kupangban a hűvösebb levegőnek köszönhetően. Reggel lendületesen indulunk a katedrálistól. Délben a tekerés a mérsékelt hőmérséklet mellett különösen élvezetes. Mivel 17:00-kor sötétedik, hatékonyan tervezzük az utat. Az este érezhetően lehűl, ami a fizikai megterhelés után nagyon frissítően hat.",
+            "ro": "Iarna este cel mai bun moment pentru ciclism în Kupang datorită aerului mai răcoros. Dimineața pornim cu avânt de la catedrală. La prânz, pedalatul este deosebit de plăcut datorită temperaturilor moderate. Deoarece se întunecă la ora 17:00, ne planificăm ruta eficient. Seara se răcește vizibil, ceea ce este foarte revigorant după efortul fizic.",
+            "en": "Winter is the best time for cycling in Kupang thanks to the cooler air. In the morning, we start energetically from the cathedral. At noon, cycling is particularly enjoyable due to the moderate temperatures. Since it gets dark at 17:00, we plan our route efficiently. The evening cools down noticeably, which is very refreshing after the physical exertion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gereja Katedral Kristus Raja Kupang",
+                "hu": "Gereja Katedral Kristus Raja Kupang",
+                "ro": "Gereja Katedral Kristus Raja Kupang",
+                "en": "Gereja Katedral Kristus Raja Kupang"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kühle ist ideal für den Start; tragen Sie ein winddichtes Oberteil für die erste Abfahrt nach der Besichtigung.",
+                "hu": "A reggeli hűvösség ideális az induláshoz; viselj szélálló felsőt a látogatás utáni első lejtős szakaszhoz.",
+                "ro": "Răcoarea dimineții este ideală pentru start; poartă o bluză rezistentă la vânt pentru prima coborâre după vizită.",
+                "en": "The morning coolness is ideal for starting; wear a windproof top for the first downhill section after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Gregorius Agung, Oeleta",
+                "hu": "Gereja Santo Gregorius Agung, Oeleta",
+                "ro": "Gereja Santo Gregorius Agung, Oeleta",
+                "en": "Gereja Santo Gregorius Agung, Oeleta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die weniger intensive Wintersonne für eine längere Radstrecke entlang der Küste ohne zu schnelle Erschöpfung.",
+                "hu": "Használd ki a kevésbé intenzív téli napsütést egy hosszabb parti tekeréshez anélkül, hogy túl gyorsan kimerülnél a hőségtől.",
+                "ro": "Profită de soarele de iarnă mai puțin intens pentru o cursă mai lungă pe coastă, fără a te epuiza prea repede de la căldură.",
+                "en": "Take advantage of the less intense winter sun for a longer coastal ride without getting exhausted too quickly by the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Sancta Familia, Sikumana",
+                "hu": "Gereja Sancta Familia, Sikumana",
+                "ro": "Gereja Sancta Familia, Sikumana",
+                "en": "Gereja Sancta Familia, Sikumana"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg nach Sikumana ist im Winter viel angenehmer zu bewältigen; trinken Sie dennoch ausreichend Wasser bei der kühlen Brise.",
+                "hu": "A Sikumanába vezető emelkedőt télen sokkal kellemesebb leküzdeni; a hűvös szellő ellenére is igyál elegendő vizet a tekerés közben.",
+                "ro": "Urcarea spre Sikumana este mult mai plăcut de parcurs iarna; totuși, bea suficientă apă în ciuda brizelor răcoroase în timpul mersului.",
+                "en": "The climb to Sikumana is much more pleasant to tackle in winter; nevertheless, drink plenty of water despite the cool breezes while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Mathias Rasul, Tofa",
+                "hu": "Gereja Santo Mathias Rasul, Tofa",
+                "ro": "Gereja Santo Mathias Rasul, Tofa",
+                "en": "Gereja Santo Mathias Rasul, Tofa"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine kurze Pause im Schatten ein, bevor Sie die flachen Abschnitte zurück ins Stadtzentrum in Angriff nehmen.",
+                "hu": "Tervezz ide egy rövid pihenőt az árnyékban, mielőtt nekimennél a városközpontba visszavezető síkabb szakaszoknak.",
+                "ro": "Planifică o scurtă pauză la umbră aici înainte de a aborda secțiunile plate înapoi spre centrul orașului.",
+                "en": "Plan a short break in the shade here before tackling the flatter sections leading back into the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Nusa Tenggara Timur",
+                "hu": "Museum Daerah Nusa Tenggara Timur",
+                "ro": "Museum Daerah Nusa Tenggara Timur",
+                "en": "Museum Daerah Nusa Tenggara Timur"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad im Schatten ab, um einen aufgeheizten Sattel nach dem langen Museumsbesuch zu vermeiden.",
+                "hu": "Állítsd a kerékpárodat árnyékba, hogy elkerüld a felforrósodott nyerget a hosszú múzeumi látogatás után.",
+                "ro": "Parchează bicicleta la umbră pentru a evita șaua încinsă după vizita lungă la muzeu.",
+                "en": "Park your bike in the shade to avoid a heated saddle after the long museum visit, even in the milder winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Assumpta, Kota Baru",
+                "hu": "Gereja Santa Maria Assumpta, Kota Baru",
+                "ro": "Gereja Santa Maria Assumpta, Kota Baru",
+                "en": "Gereja Santa Maria Assumpta, Kota Baru"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich mit der letzten Etappe, da das Tageslicht um 17:00 Uhr schlagartig schwindet und die Straßen dunkler werden.",
+                "hu": "Siess az utolsó szakasszal, mivel a nappali fény 17:00-kor hirtelen eltűnik, és az utcák gyorsan elsötétednek.",
+                "ro": "Grăbește-te cu ultima etapă, deoarece lumina zilei scade brusc la ora 17:00 și străzile devin rapid întunecate.",
+                "en": "Hurry with the last leg, as daylight fades abruptly at 17:00 and the streets quickly become dark and harder to navigate."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a történelembe merülve a regionális múzeumban, majd tegyen egy rövid utat az ikonikus Adipura emlékműhöz. A déli órák dél felé, Penfuin és a történelmi Dusun 4 határain át vezetnek. Késő délután vezessen vissza Kolhua és Oesapa felé, végül szürkület előtt érje el Lasiana tengerparti plébániáját.",
         "ro": "Începeți turul cu mașina cufundat în istorie la muzeul regional, apoi faceți o scurtă călătorie până la emblematicul Monument Adipura. Orele amiezii vă vor ghida spre sud prin Penfui spre limitele istorice ale Dusun 4. Conduceți înapoi spre Kolhua și Oesapa după-amiaza târziu, ajungând în final la parohia de coastă Lasiana înainte de amurg.",
         "en": "Begin your driving tour deeply immersed in history at the regional museum, then take a short ride to the iconic Adipura Monument. The midday hours will guide you south through Penfui and out to the historic bounds of Dusun 4 for some rustic exploration. Drive back up towards Kolhua and Oesapa in the late afternoon, finally reaching the coastal parish of Lasiana before twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die komfortabelste Wahl für regnerische Tage in Kupang. Wir starten morgens trocken am Museum. Mittags navigieren wir sicher durch den dichten Stadtverkehr während der Wolkenbrüche. Am Nachmittag erreichen wir entlegene Kirchen, ohne nass zu werden. Der Abend endet entspannt, während wir die im Regen glänzende Stadt aus dem Fenster beobachten.",
+            "hu": "Az autó a legkényelmesebb választás esős napokra Kupangban. Reggel szárazon indulunk a múzeumból. Délben biztonságosan navigálunk a sűrű városi forgalomban a felhőszakadások alatt. Délután anélkül érjük el a távolabbi templomokat, hogy eláznánk. Az este nyugodtan zárul, miközben az ablakból figyeljük az esőben csillogó várost.",
+            "ro": "Mașina este cea mai confortabilă alegere pentru zilele ploioase în Kupang. Pornim dimineața la adăpost de la muzeu. La prânz navigăm în siguranță prin traficul urban dens în timpul ruperilor de nori. După-amiaza ajungem la bisericile mai îndepărtate fără a ne uda. Seara se încheie relaxat în timp ce observăm orașul strălucind în ploaie de la fereastră.",
+            "en": "The car is the most comfortable choice for rainy days in Kupang. We start dry from the museum in the morning. At noon, we navigate safely through dense city traffic during the downpours. In the afternoon, we reach remote churches without getting soaked. The evening ends relaxed as we watch the city glistening in the rain from the window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Daerah Nusa Tenggara Timur",
+                "hu": "Museum Daerah Nusa Tenggara Timur",
+                "ro": "Museum Daerah Nusa Tenggara Timur",
+                "en": "Museum Daerah Nusa Tenggara Timur"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg durch den heftigen tropischen Regen trocken zu überstehen.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy a rövid utat a heves trópusi esőben is szárazon tudd megtenni.",
+                "ro": "Parchează cât mai aproape de intrare pentru a parcurge drumul scurt prin ploaia tropicală abundentă cât mai uscat.",
+                "en": "Park as close to the entrance as possible to manage the short walk through the heavy tropical rain while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Adipura",
+                "hu": "Monumen Adipura",
+                "ro": "Monumen Adipura",
+                "en": "Monumen Adipura"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie das Foto des Monuments einfach aus dem Autofenster, wenn der Regen für einen Ausstieg zu stark ist.",
+                "hu": "Készíts fotót a műemlékről egyszerűen az autó ablakából, ha az eső túl erős ahhoz, hogy kiszállj a kocsiból.",
+                "ro": "Fă o fotografie monumentului direct de la fereastra mașinii dacă ploaia este prea puternică pentru a coborî.",
+                "en": "Take a photo of the monument simply from the car window if the rain is too heavy for you to step outside the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Yoseph Pekerja, Penfui",
+                "hu": "Gereja Santo Yoseph Pekerja, Penfui",
+                "ro": "Gereja Santo Yoseph Pekerja, Penfui",
+                "en": "Gereja Santo Yoseph Pekerja, Penfui"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Kirche; halten Sie einen Regenschirm für den Weg vom Auto zum Portal bereit.",
+                "hu": "Használd a közvetlenül a templom előtti parkolót; tarts készenlétben egy esernyőt az autó és a bejárat közötti szakaszra.",
+                "ro": "Folosește parcarea direct din fața bisericii; ține umbrela pregătită pentru segmentul dintre mașină și intrare.",
+                "en": "Use the parking lot directly in front of the church; keep an umbrella ready for the short walk between the car and the portal."
+              }
+            },
+            {
+              "name": {
+                "de": "batas dusun 4 dan belo",
+                "hu": "batas dusun 4 dan belo",
+                "ro": "batas dusun 4 dan belo",
+                "en": "batas dusun 4 dan belo"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Wege können bei Regen matschig sein; bleiben Sie auf befestigten Straßen und genießen Sie die grüne Landschaft.",
+                "hu": "A vidéki utak esőben sárosak lehetnek; maradj a burkolt utakon, és élvezd a kizöldült tájat a szélvédő mögül.",
+                "ro": "Drumurile rurale pot fi noroioase pe ploaie; rămâi pe drumurile asfaltate și admiră peisajul înverzit din spatele parbrizului.",
+                "en": "Rural roads can be muddy in the rain; stay on paved roads and enjoy the green landscape from behind the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+                "hu": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+                "ro": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+                "en": "Gereja Santo Fransiskus dari Assisi, Kolhua"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig sein; fahren Sie vorsichtig und nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+                "hu": "Az odavezető út erős esőben csúszós lehet; vezess óvatosan, és használd a légkondicionálót a szélvédő párásodása ellen.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie abundentă; condu cu prudență și folosește aerul condiționat împotriva aburirii geamurilor.",
+                "en": "The access road can be slippery during heavy rain; drive carefully and use the air conditioning to prevent the windows from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Petrus dan Paulus, Oesapa",
+                "hu": "Gereja Santo Petrus dan Paulus, Oesapa",
+                "ro": "Gereja Santo Petrus dan Paulus, Oesapa",
+                "en": "Gereja Santo Petrus dan Paulus, Oesapa"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand und parken Sie auf einer leicht erhöhten Fläche.",
+                "hu": "Kiszálláskor ügyelj az út menti mély tócsákra, és próbálj meg egy kissé megemelt felületen parkolni az autóval.",
+                "ro": "La coborâre, atenție la bălțile adânci de la marginea drumului și încearcă să parchezi pe o suprafață ușor ridicată.",
+                "en": "When getting out of the car, watch out for deep puddles along the roadside and try to park on a slightly elevated surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Andreas, Lasiana",
+                "hu": "Gereja Santo Andreas, Lasiana",
+                "ro": "Gereja Santo Andreas, Lasiana",
+                "en": "Gereja Santo Andreas, Lasiana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer in der Nähe, bevor Sie im trockenen Innenraum der Kirche Schutz suchen.",
+                "hu": "Élvezd a kilátást a közeli esős tengerre az autóból, mielőtt menedéket keresnél a templom száraz belső terében.",
+                "ro": "Bucură-te de vederea spre marea ploioasă din apropiere din mașină, înainte de a căuta adăpost în interiorul uscat al bisericii.",
+                "en": "Enjoy the view of the nearby rainy sea from the car before seeking shelter in the dry interior of the church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet morgens bei klarem Himmel am Museum. Mittags genießen wir die kühle Außenluft bei kurzen Stopps, während das Auto angenehm temperiert bleibt. Da die Dämmerung um 17:00 Uhr einsetzt, planen wir unsere Fahrten effizient. Der Abend wird kühl, was die beleuchteten Kirchenfassaden besonders schön zur Geltung bringt.",
+            "hu": "A téli autós túra reggel tiszta égbolt mellett indul a múzeumnál. Délben élvezzük a hűvös külső levegőt a rövid megállók során, miközben az autó kellemes hőmérsékletű marad. Mivel a szürkület már 17:00-kor beáll, hatékonyan tervezzük az utat. Az este lehűl, ami miatt a kivilágított templomhomlokzatok különösen szépen érvényesülnek.",
+            "ro": "Turul cu mașina pe timp de iarnă începe dimineața sub un cer senin la muzeu. La prânz ne bucurăm de aerul răcoros de afară în timpul scurtelor opriri, în timp ce mașina rămâne la o temperatură plăcută. Deoarece amurgul se instalează la ora 17:00, ne planificăm călătoriile eficient. Seara se răcește, punând în valoare fațadele luminate ale bisericilor.",
+            "en": "The winter car tour starts in the morning under clear skies at the museum. At noon, we enjoy the cool outside air during short stops, while the car remains at a pleasant temperature. Since twilight sets in at 17:00, we plan our trips efficiently. The evening turns cool, highlighting the illuminated church facades beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Daerah Nusa Tenggara Timur",
+                "hu": "Museum Daerah Nusa Tenggara Timur",
+                "ro": "Museum Daerah Nusa Tenggara Timur",
+                "en": "Museum Daerah Nusa Tenggara Timur"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für den Besuch; die Klimaanlage im Auto kann bei den milden Außentemperaturen sparsam laufen.",
+                "hu": "Használd ki a hűvös reggeli órákat a látogatásra; az autó klímája a mérsékelt külső hőmérséklet mellett takarékosan is működhet.",
+                "ro": "Profită de orele răcoroase ale dimineții pentru vizită; climatizarea mașinii poate funcționa economic datorită temperaturilor blânde.",
+                "en": "Take advantage of the cool morning hours for your visit; the car's AC can run sparingly given the mild outside temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Adipura",
+                "hu": "Monumen Adipura",
+                "ro": "Monumen Adipura",
+                "en": "Monumen Adipura"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp im klaren Winterlicht lohnt sich hier besonders, bevor Sie die Fahrt im beheizten Wagen fortsetzen.",
+                "hu": "Egy gyors fotómegálló a tiszta téli fényben különösen megéri itt, mielőtt folytatnád az utat a kellemes hőmérsékletű autóban.",
+                "ro": "O scurtă oprire pentru fotografii în lumina clară de iarnă merită din plin aici, înainte de a continua drumul în mașina confortabilă.",
+                "en": "A quick photo stop in the clear winter light is especially worthwhile here before continuing your journey in the comfortable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Yoseph Pekerja, Penfui",
+                "hu": "Gereja Santo Yoseph Pekerja, Penfui",
+                "ro": "Gereja Santo Yoseph Pekerja, Penfui",
+                "en": "Gereja Santo Yoseph Pekerja, Penfui"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht mittags hoch; nutzen Sie den Schatten der Kirche für einen kurzen Moment, bevor Sie weiterfahren.",
+                "hu": "A téli nap délben magasan jár; használd ki a templom árnyékát egy rövid pillanatra, mielőtt továbbhajtanál a következő állomás felé.",
+                "ro": "Soarele de iarnă este sus la prânz; profită de umbra bisericii pentru un scurt moment înainte de a pleca mai departe.",
+                "en": "The winter sun is high at noon; take advantage of the church's shadow for a brief moment before driving on to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "batas dusun 4 dan belo",
+                "hu": "batas dusun 4 dan belo",
+                "ro": "batas dusun 4 dan belo",
+                "en": "batas dusun 4 dan belo"
+              },
+              "tip_5lang": {
+                "de": "Die ländliche Fahrt bietet im Winter weite Sichtweiten; ideal für Landschaftsaufnahmen direkt vom Aussichtspunkt aus dem Wagen.",
+                "hu": "A vidéki autózás télen messzi kilátást kínál; ideális tájképek készítéséhez közvetlenül a kilátópontról, az autóból.",
+                "ro": "Drumul rural oferă vizibilitate la distanță iarna; este ideal pentru fotografii de peisaj direct de la punctul de belvedere, din mașină.",
+                "en": "The rural drive offers long-distance views in winter; ideal for taking landscape photos directly from the car at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+                "hu": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+                "ro": "Gereja Santo Fransiskus dari Assisi, Kolhua",
+                "en": "Gereja Santo Fransiskus dari Assisi, Kolhua"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft hier gegen 14:00 Uhr ein, wenn das Licht für die Architektur der Kirche am vorteilhaftesten ist.",
+                "hu": "Tervezd az ideérkezést 14:00 körülre, amikor a fények a legkedvezőbbek a templom építészetének megcsodálásához.",
+                "ro": "Planifică sosirea aici în jurul orei 14:00, când lumina este cea mai favorabilă pentru a admira arhitectura bisericii.",
+                "en": "Plan to arrive here around 14:00, when the light is most favorable for admiring the church's distinctive architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Petrus dan Paulus, Oesapa",
+                "hu": "Gereja Santo Petrus dan Paulus, Oesapa",
+                "ro": "Gereja Santo Petrus dan Paulus, Oesapa",
+                "en": "Gereja Santo Petrus dan Paulus, Oesapa"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr schnell dunkel wird, sollten Sie diesen Stopp zügig abschließen, um noch bei Licht die Küstenstraße zu befahren.",
+                "hu": "Mivel 17:00 után gyorsan sötétedik, fejezd be gyorsan ezt a megállót, hogy még világosban autzhass a parti úton.",
+                "ro": "Deoarece se întunecă rapid după ora 17:00, încheie repede această oprire pentru a mai prinde lumină pe drumul de coastă.",
+                "en": "As it gets dark quickly after 17:00, finish this stop promptly to catch the remaining light on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Andreas, Lasiana",
+                "hu": "Gereja Santo Andreas, Lasiana",
+                "ro": "Gereja Santo Andreas, Lasiana",
+                "en": "Gereja Santo Andreas, Lasiana"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Meer vom Parkplatz aus, bevor die kühle Winternacht endgültig hereinbricht.",
+                "hu": "Figyeld meg a korai naplementét a tenger felett a parkolóból, mielőtt a hűvös téli éjszaka végleg leszállna a városra.",
+                "ro": "Observă apusul timpuriu peste mare din parcare, înainte ca noaptea răcoroasă de iarnă să se aștearnă definitiv.",
+                "en": "Watch the early sunset over the sea from the parking lot before the cool winter night finally settles over the area."
+              }
+            }
+          ]
+        }
       }
     }
   }

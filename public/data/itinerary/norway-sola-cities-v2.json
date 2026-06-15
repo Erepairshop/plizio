@@ -137,6 +137,168 @@
         "hu": "A reggel Erling Sjalgsson viking vezér örökségének felfedezésével kezdődik, amelyet a helyi múzeum repüléstörténeti utazása követ. A délidő békés szünetre csábít a modern Sola kirkében, mielőtt egy rövid séta feltárná az ősi kőromok gazdag örökségét. A délutánt a Solastranden végtelen dűnéi mentén tett frissítő séta zárja. Estére az Északi-tenger partmenti szellője és a morajló hullámok nyugtató és emlékezetes befejezést nyújtanak a napnak.",
         "ro": "Dimineața începe cu moștenirea șefului viking Erling Sjalgsson, urmată de o călătorie prin istoria aviației la muzeul local. Miezul zilei vă invită la o pauză pașnică la moderna Sola kirke, înainte de o scurtă plimbare la ruinele antice de piatră. După-amiaza se încheie cu o plimbare revigorantă de-a lungul dunelor nesfârșite din Solastranden. Până seara, briza de coastă și valurile mării oferă un final calm și memorabil al zilei.",
         "en": "Morning begins by exploring the legacy of Viking chief Erling Sjalgsson, followed by an immersive journey through aviation history at the local museum. Midday invites a peaceful pause at the modern Sola kirke before a short stroll reveals the rich heritage of the ancient stone ruins. The afternoon concludes with a refreshing walk along the endless dunes of Solastranden. By evening, the coastal breeze and crashing waves of the North Sea provide a calming and memorable end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt windig am Denkmal, wo Regenbekleidung Pflicht ist. Mittags bietet das Luftfahrtmuseum den idealen trockenen Unterschlupf vor dem norwegischen Wetter. Am Nachmittag spazieren wir trotz Regen zu den historischen Kirchen und beenden den Tag am stürmischen Solastranden. Abends ziehen wir uns vor den peitschenden Wellen und der nassen Kälte in die gemütliche Unterkunft zurück.",
+            "hu": "A reggel szeles és esős az emlékműnél, ahol a vízálló öltözet elengedhetetlen. Délben a Repüléstörténeti Múzeum nyújt tökéletesen száraz menedéket az elemektől. Délután a templomokat érintve érjük el a drámai Sola strandot, ahol a szürke tenger látványa lenyűgöző. Este a nedves és hűvös idő elől behúzódunk egy meleg helyre, miközben kint a szél és az eső tovább ostromolja a partot.",
+            "ro": "Dimineața începe cu vânt la monument, unde îmbrăcămintea impermeabilă este obligatorie. La prânz, Muzeul Aviației oferă adăpostul uscat ideal împotriva vremii norvegiene. După-amiaza, ne plimbăm spre bisericile istorice în ciuda ploii și terminăm ziua la plaja Sola, bătută de furtună. Seara ne retragem din fața valurilor și a frigului umed în confortul călduros al unei cafenele.",
+            "en": "The morning starts windy at the monument, where rain gear is a must. At noon, the Aviation Museum provides the perfect dry refuge from the Norwegian elements. In the afternoon, we walk to the historic churches despite the rain and end the day at the stormy Sola Beach. In the evening, we retreat from the crashing waves and wet cold to the warmth of our cozy accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Erling Sjalgsson Denkmal",
+                "hu": "Erling Sjalgsson emlékmű",
+                "ro": "Monumentul Erling Sjalgsson",
+                "en": "Erling Sjalgsson Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal steht exponiert; tragen Sie eine windfeste Regenjacke, da die Böen vom Meer her den Regen waagerecht peitschen können.",
+                "hu": "Az emlékműnél a tengeri szél vízszintesen hordhatja az esőt, ezért szélálló esőkabát és stabil lábbeli javasolt a csúszós fű miatt.",
+                "ro": "Monumentul este expus vântului; purtați o jachetă de ploaie rezistentă, deoarece rafalele de pe mare pot purta ploaia pe orizontală.",
+                "en": "The monument is very exposed; wear a windproof raincoat as gusts from the sea can blow the rain horizontally across the open field."
+              }
+            },
+            {
+              "name": {
+                "de": "Luftfahrtmuseum Sola",
+                "hu": "Sola Repüléstörténeti Múzeum",
+                "ro": "Muzeul Istoriei Aviației Sola",
+                "en": "Aviation History Museum Sola"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großen überdachten Raum, um Ihre Kleidung zu trocknen, während Sie die beeindruckenden historischen Flugzeuge bestaunen.",
+                "hu": "Használja ki a hatalmas fedett hangárokat a ruhák megszárítására, miközben a lenyűgöző történelmi repülőgépeket böngészi a szárazban.",
+                "ro": "Folosiți acest spațiu interior generos pentru a vă usca hainele în timp ce admirați aeronavele istorice impresionante, feriți de ploaie.",
+                "en": "Take advantage of this large indoor space to dry off your gear while exploring the impressive historical aircraft in a warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Sola",
+                "hu": "Sola temploma",
+                "ro": "Biserica Sola",
+                "en": "Sola Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Trockenen; achten Sie beim Eintreten auf die rutschigen Steinstufen vor dem Kircheneingang.",
+                "hu": "Rövid, meghitt megálló a szárazban; belépéskor vigyázzon a bejárat előtti kőlépcsőkre, amelyek az esőtől rendkívül csúszóssá válnak.",
+                "ro": "O scurtă oprire liniștită la adăpost; aveți grijă la treptele de piatră de la intrare, care devin foarte alunecoase când plouă.",
+                "en": "A short, peaceful stop in the dry; watch your step on the stone entrance stairs, which can become quite slippery when wet from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sola Ruinenkirche",
+                "hu": "Sola romtemplom",
+                "ro": "Biserica Ruinelor din Sola",
+                "en": "Sola Ruin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken bei Regen besonders mystisch; suchen Sie unter den erhaltenen Bögen kurz Schutz vor den stärksten Schauern.",
+                "hu": "A romok esőben különösen misztikus látványt nyújtanak; a megmaradt boltívek alatt rövid ideig menedéket találhat a záporok elől.",
+                "ro": "Ruinele par deosebit de mistice în ploaie; căutați scurt adăpost sub arcadele păstrate pentru a vă feri de cele mai puternice averse.",
+                "en": "The ruins look particularly mystical in the rain; seek brief shelter under the surviving arches to escape the heaviest downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Solastranden",
+                "hu": "Sola strand",
+                "ro": "Plaja Sola",
+                "en": "Sola Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Nordsee-Atmosphäre; bleiben Sie auf den festen Wegen, da der nasse Sand tief und schwer zu begehen ist.",
+                "hu": "Élvezze a zord északi-tengeri hangulatot; maradjon a kijelölt utakon, mert a vizes homok mély és nehezen járható ilyenkor.",
+                "ro": "Bucurați-vă de atmosfera sălbatică a Mării Nordului; rămâneți pe potecile ferme, deoarece nisipul ud este adânc și greu de parcurs.",
+                "en": "Enjoy the raw North Sea atmosphere; stick to the firm paths as the wet sand becomes deep and difficult to walk on during rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Denkmal erfordert warme Schichten gegen den Küstenwind. Mittags wärmen wir uns im Luftfahrtmuseum auf, bevor das Licht schwächer wird. Am frühen Nachmittag besuchen wir die Kirchen im Winterlicht und erreichen den Strand pünktlich zum Sonnenuntergang gegen 16:30 Uhr. Den Abend lassen wir bei Kerzenschein und gemütlicher Wärme ausklingen, während draußen der Frost anzieht.",
+            "hu": "A fagyos reggel az emlékműnél réteges öltözetet igényel a parti szél miatt. Délben a Repüléstörténeti Múzeumban melegszünk fel, mielőtt a fények fogyni kezdenének. Kora délután téli fényben látogatjuk meg a templomokat, majd a strandra érve 16:30 körül elkapjuk a naplementét. Az estét gyertyafénynél és melegben töltjük, miközben odakint a zúzmara belepi a tájat.",
+            "ro": "O dimineață geroasă la monument necesită straturi groase împotriva vântului de coastă. La prânz ne încălzim în Muzeul Aviației, înainte ca lumina să scadă. După-amiaza devreme vizităm bisericile în lumina de iarnă și ajungem la plajă pentru apusul de la ora 16:30. Seara se încheie la căldură și lumină de lumânări, în timp ce afară gerul pune stăpânire pe tot.",
+            "en": "A frosty morning at the monument requires warm layers against the coastal wind. At noon, we warm up in the Aviation Museum before the light starts to fade. In the early afternoon, we visit the churches in the winter light and reach the beach in time for the 4:30 PM sunset. We end the evening in cozy warmth by candlelight as the frost sets in outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Erling Sjalgsson Denkmal",
+                "hu": "Erling Sjalgsson emlékmű",
+                "ro": "Monumentul Erling Sjalgsson",
+                "en": "Erling Sjalgsson Monument"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermounterwäsche; der eisige Wind vom Meer macht den Stopp an diesem offenen Denkmal im Winter sehr ungemütlich.",
+                "hu": "Viseljen hőtartó aláöltözetet; a tengerről fújó jeges szél miatt a megálló ezen a nyitott területen télen nagyon hideg lehet.",
+                "ro": "Purtați lenjerie termică; vântul înghețat de pe mare face oprirea la acest monument deschis foarte inconfortabilă pe timp de iarnă.",
+                "en": "Wear thermal base layers; the icy wind blowing off the sea makes stopping at this open monument very chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Luftfahrtmuseum Sola",
+                "hu": "Sola Repüléstörténeti Múzeum",
+                "ro": "Muzeul Istoriei Aviației Sola",
+                "en": "Aviation History Museum Sola"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um sich in den beheizten Hallen vollständig aufzuwärmen und die Kälte aus den Knochen zu vertreiben.",
+                "hu": "Tervezzen ide több időt, hogy a fűtött csarnokokban teljesen átmelegedjen és kiűzze a hideget a csontjaiból a séta után.",
+                "ro": "Planificați mai mult timp aici pentru a vă încălzi complet în halele încălzite și pentru a alunga frigul pătrunzător din oase.",
+                "en": "Plan for more time here to fully warm up in the heated hangars and get the coastal chill out of your bones after the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Sola",
+                "hu": "Sola temploma",
+                "ro": "Biserica Sola",
+                "en": "Sola Church"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Kirche bietet eine kurze Pause von der Kälte; bewundern Sie das sanfte Winterlicht, das durch die Fenster fällt.",
+                "hu": "A modern templom rövid pihenőt kínál a hideg elől; csodálja meg az ablakokon át beszűrődő lágy, téli északi fényeket.",
+                "ro": "Biserica modernă oferă o scurtă pauză de la frigul de afară; admirați lumina blândă de iarnă care trece prin ferestre.",
+                "en": "The modern church offers a brief respite from the freezing cold; admire the soft winter light filtering through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Sola Ruinenkirche",
+                "hu": "Sola romtemplom",
+                "ro": "Biserica Ruinelor din Sola",
+                "en": "Sola Ruin Church"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Eis auf den alten Steinwegen; die Ruinen wirken im Frost oder Schnee besonders zeitlos und majestätisch.",
+                "hu": "Vigyázzon a jégre a régi köveken; a romok zúzmarás vagy havas környezetben különösen időtlennek és méltóságteljesnek hatnak.",
+                "ro": "Atenție la gheața de pe potecile vechi de piatră; ruinele par atemporale și maiestoase când sunt acoperite de brumă sau zăpadă.",
+                "en": "Watch out for ice on the old stone paths; the ruins look particularly timeless and majestic when covered in frost or snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Solastranden",
+                "hu": "Sola strand",
+                "ro": "Plaja Sola",
+                "en": "Sola Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang über der Nordsee zu erleben; danach wird es schlagartig dunkel und kälter.",
+                "hu": "Érkezzen meg 16:30 előtt, hogy lássa a naplementét az Északi-tenger felett; utána hirtelen besötétedik és lehűl a levegő.",
+                "ro": "Ajungeți înainte de ora 16:30 pentru a vedea apusul peste Marea Nordului; după aceea se întunecă brusc și devine mult mai frig.",
+                "en": "Arrive before 4:30 PM to catch the winter sunset over the North Sea; after that, it gets dark and colder very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a történelmi viking emlékművel, majd tekerjen fel a világháborús erődhöz a panorámás kilátásért. Délben megérkezik a lenyűgöző repülési múzeumhoz és a városközpont modern templomához. Délután fedezze fel az ősi kőtemplom fenséges romjait, és élvezze a festői utazást a híres homokos partok mentén. Az este közeledtével fedezze fel a titokzatos ősi kőköröket, miközben a nap lenyugszik a norvég tengerparton.",
         "ro": "Începeți turul cu bicicleta la monumentul istoric viking, înainte de a pedala până la fortăreața din Al Doilea Război Mondial pentru vederi panoramice. La prânz ajungeți la muzeul aviației și la biserica modernă. După-amiaza, explorați ruinele maiestuoase ale vechii biserici de piatră și bucurați-vă de o plimbare pitorească de-a lungul malurilor de nisip. Seara, descoperiți misterioasele cercuri de piatră antice la apus.",
         "en": "Kick off your cycling tour with the historic Viking monument before pedaling up to the WWII fortress for panoramic views over Sola. Midday brings you to the fascinating aviation museum and the striking modern church in the town center. In the afternoon, explore the majestic ruins of the ancient stone church and enjoy a scenic ride along the famous sandy shores. As evening approaches, discover the mysterious ancient stone circles as the sun sets over the scenic Norwegian coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Denkmal, wo Schutzbleche Gold wert sind. Mittags machen wir am Luftfahrtmuseum eine lange Pause, um dem schlimmsten Regen zu entgehen. Nachmittags radeln wir vorsichtig auf rutschigen Wegen zu den Kirchen und dem Strand. Abends beenden wir die Tour erschöpft, aber glücklich über die frische, nasse Meeresluft und freuen uns auf eine warme Dusche.",
+            "hu": "A vizes kerékpártúra az emlékműnél indul, ahol a sárvédők aranyat érnek. Délben a Repüléstörténeti Múzeumnál tartunk hosszú pihenőt, hogy elkerüljük a leghevesebb esőt. Délután óvatosan tekerünk a csúszós utakon a templomok és a strand felé. Este kimerülten, de a friss, esős tengeri levegőtől felfrissülve fejezzük be a napot, és irány a forró zuhany.",
+            "ro": "O tură umedă cu bicicleta începe la monument, unde apărătorile de noroi sunt esențiale. La prânz facem o pauză lungă la Muzeul Aviației pentru a evita ploaia torențială. După-amiaza pedalăm cu grijă pe drumurile alunecoase spre biserici și plajă. Seara încheiem tura obosiți, dar revigorați de aerul sărat și umed al mării, pregătiți pentru un duș fierbinte.",
+            "en": "A wet cycling tour begins at the monument, where mudguards are worth their weight in gold. At noon, we take a long break at the Aviation Museum to escape the heaviest rain. In the afternoon, we cycle carefully on slippery paths toward the churches and beach. In the evening, we finish the tour exhausted but refreshed by the damp sea air, looking forward to a hot shower."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Erling Sjalgsson Denkmal",
+                "hu": "Erling Sjalgsson emlékmű",
+                "ro": "Monumentul Erling Sjalgsson",
+                "en": "Erling Sjalgsson Monument"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier sehr weich sein; stellen Sie Ihr Rad auf festem Untergrund ab, damit es im Schlamm nicht einsinkt oder umfällt.",
+                "hu": "A talaj itt nagyon felázhat; állítsa a kerékpárt szilárd burkolatra, hogy ne süllyedjen el a sárban vagy ne dőljön fel a szélben.",
+                "ro": "Solul poate fi foarte moale aici; parcați bicicleta pe o suprafață fermă pentru a nu se scufunda în noroi sau a nu cădea la vânt.",
+                "en": "The ground can get very soft here; park your bike on a firm surface so it doesn't sink into the mud or blow over in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Batterie auf Åsen",
+                "hu": "Az Åsen üteg",
+                "ro": "Bateria de la Åsen",
+                "en": "The Battery at Åsen"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Batterie ist bei Regen steil und rutschig; nutzen Sie niedrige Gänge und prüfen Sie vorab Ihre Bremsen gründlich.",
+                "hu": "Az üteghez vezető emelkedő esőben meredek és csúszós; használjon alacsony fokozatot és ellenőrizze a fékeket az ereszkedés előtt.",
+                "ro": "Urcarea spre baterie este abruptă și alunecoasă pe ploaie; folosiți viteze mici și verificați bine frânele înainte de coborâre.",
+                "en": "The climb to the battery is steep and slippery in the rain; use low gears and check your brakes thoroughly before descending."
+              }
+            },
+            {
+              "name": {
+                "de": "Luftfahrtmuseum Sola",
+                "hu": "Sola Repüléstörténeti Múzeum",
+                "ro": "Muzeul Istoriei Aviației Sola",
+                "en": "Aviation History Museum Sola"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Regenausrüstung auszuschütteln; es gibt ausreichend Fahrradparkplätze in der Nähe des trockenen Eingangs.",
+                "hu": "Tökéletes állomás az esőruházat lerázására; a bejárat közelében bőséges kerékpárparkoló áll rendelkezésre a szárazban.",
+                "ro": "O oprire perfectă pentru a scutura echipamentul de ploaie; există suficiente locuri de parcare pentru biciclete lângă intrarea ferită.",
+                "en": "A perfect stop to shake off your rain gear; there is ample bike parking available near the dry entrance of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Sola",
+                "hu": "Sola temploma",
+                "ro": "Biserica Sola",
+                "en": "Sola Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Vorplatz; die moderne Architektur wirkt auch bei grauem Himmel sehr beeindruckend und fotogen.",
+                "hu": "Vigyázzon a tócsákra a templom előtti téren; a modern építészet szürke égbolt alatt is lenyűgöző és rendkívül fotogén látvány.",
+                "ro": "Atenție la bălțile din piața bisericii; arhitectura modernă este impresionantă și fotogenică chiar și sub un cer cenușiu de ploaie.",
+                "en": "Watch out for puddles in the church square; the modern architecture remains very impressive and photogenic even under gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Sola Ruinenkirche",
+                "hu": "Sola romtemplom",
+                "ro": "Biserica Ruinelor din Sola",
+                "en": "Sola Ruin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind bei Nässe sehr glatt; stellen Sie Ihr Rad gesichert ab, da der Wind hier ungeschützt über das flache Land fegt.",
+                "hu": "A kövek vizesen nagyon csúsznak; rögzítse stabilan a kerékpárt, mert a szél akadálytalanul söpör végig ezen a sík vidéken.",
+                "ro": "Pietrele sunt foarte lucioase când sunt ude; asigurați bine bicicleta, deoarece vântul suflă neîngrădit peste acest teren plat.",
+                "en": "The stones are very slick when wet; secure your bike firmly as the wind sweeps unchecked across this flat landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Solastranden",
+                "hu": "Sola strand",
+                "ro": "Plaja Sola",
+                "en": "Sola Beach"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die sandigen Randbereiche mit dem Rad; der nasse Sand kann die Kette und Bremsen verkleben und den Antrieb blockieren.",
+                "hu": "Kerülje el a homokos részeket a biciklivel; a vizes homok rátapadhat a láncra és a fékekre, ami gátolhatja a haladást.",
+                "ro": "Evitați zonele cu nisip cu bicicleta; nisipul ud se poate lipi de lanț și frâne, blocând transmisia și îngreunând pedalarea.",
+                "en": "Avoid sandy areas with your bike; wet sand can stick to the chain and brakes, potentially clogging your drivetrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Urteilssteine von Sola",
+                "hu": "A solai ítélőkövek",
+                "ro": "Pietrele Judecății din Sola",
+                "en": "The Judgment Stones at Sola"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Steinen führt über Gras, das bei Regen sehr rutschig ist; schieben Sie Ihr Rad lieber das letzte Stück zum Schutz.",
+                "hu": "A kövekhez vezető füves út esőben nagyon csúszós; a biztonság kedvéért az utolsó szakaszon inkább tolja a kerékpárt.",
+                "ro": "Poteca de iarbă spre pietre este foarte alunecoasă pe ploaie; mai bine împingeți bicicleta pe ultima porțiune pentru siguranță.",
+                "en": "The grassy path to the stones is very slippery in the rain; it's better to push your bike the last bit to avoid a fall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert Handschuhe und Helmüberzüge gegen den Frost. Mittags ist das Luftfahrtmuseum ein Segen für klamme Finger. Nachmittags fahren wir zügig zu den Kirchen und zum Strand, um das Tageslicht optimal zu nutzen. Die Tour endet früh bei Dämmerung gegen 16:00 Uhr, wenn die Temperaturen unter den Gefrierpunkt sinken und wir uns nach Wärme sehnen.",
+            "hu": "A téli kerékpártúra kesztyűt és sisakhuzatot igényel a fagy ellen. Délben a Repüléstörténeti Múzeum megváltás a megfagyott ujjaknak. Délután tempósan haladunk a templomok és a strand felé, hogy kihasználjuk a maradék fényt. A túra korán, 16:00 körül ér véget a szürkületben, amikor a hőmérséklet fagypont alá süllyed.",
+            "ro": "O tură de iarnă cu bicicleta necesită mănuși și protecție pentru cască împotriva gerului. La prânz, Muzeul Aviației este o binecuvântare pentru degetele înghețate. După-amiaza pedalăm rapid spre biserici și plajă pentru a profita de lumină. Tura se încheie devreme, la amurg, în jurul orei 16:00, când temperaturile scad sub zero.",
+            "en": "A winter cycling tour requires warm gloves and helmet covers against the frost. At noon, the Aviation Museum is a blessing for freezing fingers. In the afternoon, we cycle briskly toward the churches and beach to make the most of the light. The tour ends early at dusk around 4:00 PM as temperatures drop below freezing and we head indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Erling Sjalgsson Denkmal",
+                "hu": "Erling Sjalgsson emlékmű",
+                "ro": "Monumentul Erling Sjalgsson",
+                "en": "Erling Sjalgsson Monument"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenem Tau auf den Wegen; das offene Gelände bietet keinen Schutz vor dem eisigen Fahrtwind am Morgen.",
+                "hu": "Vigyázzon a lefagyott pára miatt csúszós utakra; a nyílt terepen semmi sem véd meg a reggeli jeges menetszéltől.",
+                "ro": "Atenție la roua înghețată de pe drumuri; terenul deschis nu oferă nicio protecție împotriva vântului înghețat de dimineață.",
+                "en": "Beware of frozen dew on the paths; the open terrain offers no protection from the biting icy wind while cycling in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Batterie auf Åsen",
+                "hu": "Az Åsen üteg",
+                "ro": "Bateria de la Åsen",
+                "en": "The Battery at Åsen"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm, aber oben ist der Wind schneidend; ziehen Sie vor der Abfahrt eine zusätzliche Schicht über, um nicht auszukühlen.",
+                "hu": "Az emelkedő felmelegít, de fent metsző a szél; az ereszkedés előtt vegyen fel egy extra réteget, hogy ne fázzon meg a menetszélben.",
+                "ro": "Urcarea vă va încălzi, dar sus vântul este tăios; puneți un strat suplimentar înainte de coborâre pentru a nu răci de la vânt.",
+                "en": "The climb keeps you warm, but the wind at the top is piercing; put on an extra layer before descending to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Luftfahrtmuseum Sola",
+                "hu": "Sola Repüléstörténeti Múzeum",
+                "ro": "Muzeul Istoriei Aviației Sola",
+                "en": "Aviation History Museum Sola"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine warme Mahlzeit oder einen Kaffee; stellen Sie sicher, dass Ihre Fahrradlampe für den dunkleren Nachmittag bereit ist.",
+                "hu": "Ideális hely egy forró kávéra; győződjön meg róla, hogy a kerékpárlámpák készen állnak a sötétebb délutáni visszaútra.",
+                "ro": "Locul ideal pentru o cafea fierbinte; asigurați-vă că luminile bicicletei sunt pregătite pentru după-amiaza întunecată care urmează.",
+                "en": "An ideal spot for a warm coffee; make sure your bike lights are functioning and ready for the dark afternoon ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Sola",
+                "hu": "Sola temploma",
+                "ro": "Biserica Sola",
+                "en": "Sola Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Einbruch der Dunkelheit; die warmen Lichter im Inneren wirken im Kontrast zum kalten Blau draußen sehr einladend.",
+                "hu": "Látogasson el a templomba sötétedés előtt; a benti meleg fények hívogató kontrasztot alkotnak a kinti hideg kék szürkülettel.",
+                "ro": "Vizitați biserica înainte de lăsarea întunericului; luminile calde din interior oferă un contrast primitor cu albastrul rece de afară.",
+                "en": "Visit the church just before dark; the warm lights inside offer a welcoming contrast to the cold blue twilight outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sola Ruinenkirche",
+                "hu": "Sola romtemplom",
+                "ro": "Biserica Ruinelor din Sola",
+                "en": "Sola Ruin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen können bei Frost sehr glatt sein; parken Sie Ihr Rad vorsichtig auf dem Schotterweg statt auf den gefrorenen Steinplatten.",
+                "hu": "A romok fagyban nagyon csúszósak lehetnek; a kerékpárt a kavicsos úton parkolja le, ne a jeges kőlapokon a baleset elkerülése végett.",
+                "ro": "Ruinele pot fi foarte alunecoase la îngheț; parcați bicicleta pe drumul cu pietriș, nu pe dalele de piatră înghețate.",
+                "en": "The ruins can be very slick when frozen; park your bike carefully on the gravel path instead of the icy stone slabs."
+              }
+            },
+            {
+              "name": {
+                "de": "Solastranden",
+                "hu": "Sola strand",
+                "ro": "Plaja Sola",
+                "en": "Sola Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strandbesuch ist im Winter kurz und intensiv; bewegen Sie sich ständig, um bei dem eisigen Wind an der Küste warm zu bleiben.",
+                "hu": "A strandlátogatás télen rövid és intenzív; maradjon állandó mozgásban, hogy a tengerparti jeges szélben ne hűljön ki a teste.",
+                "ro": "Vizita la plajă este scurtă și intensă iarna; rămâneți în mișcare continuă pentru a vă menține căldura în vântul înghețat de coastă.",
+                "en": "The beach visit is short and intense in winter; keep moving constantly to stay warm in the freezing coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Urteilssteine von Sola",
+                "hu": "A solai ítélőkövek",
+                "ro": "Pietrele Judecății din Sola",
+                "en": "The Judgment Stones at Sola"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Ort vor 16:00 Uhr; ohne Tageslicht ist die Orientierung auf dem Feld schwierig und die Steine sind kaum zu sehen.",
+                "hu": "Érjen ide 16:00 előtt; nappali fény nélkül nehéz a tájékozódás a mezőn, és a köveket is alig lehet látni a sötétben.",
+                "ro": "Ajungeți aici înainte de ora 16:00; fără lumina zilei, orientarea pe câmp este dificilă și pietrele sunt greu de observat.",
+                "en": "Reach this spot before 4:00 PM; without daylight, navigating the field is difficult and the stones are hard to spot in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós utazása a bunkerkomplexumnál kezdődik, ahonnan elsöprő tengerparti kilátás nyílik, majd gyorsan a norvég viking vezér emlékművéhez ér. A délidőt a múzeumban lévő régi repülőgépek csodálásával és a modern városi templom építészeti csodájának megtekintésével tölti. A délutánt az ősi romtemplom felfedezésének szenteljük, mielőtt a fenséges északi-tengeri partvonal mentén két érintetlen strandhoz hajtanánk. Az este az ősi kőköröknél ér véget.",
         "ro": "Călătoria cu mașina începe la complexul de buncăre pentru vederi ample asupra coastei, trecând rapid la monumentul legendarului lider viking. Miezul zilei este petrecut admirând aeronave de epocă la muzeu și vizitând biserica modernă a orașului. După-amiaza este dedicată urmăririi istoriei la vechea biserică ruinată, înainte de a conduce de-a lungul coastei magnifice a Mării Nordului către două plaje imaculate. Seara se lasă la vechiul cerc de piatră.",
         "en": "Your road trip starts at the WWII bunker complex for sweeping coastal views, moving quickly to the monument of Norway's legendary Viking leader. Midday is spent admiring vintage aircraft at the museum and taking a quiet moment in the architectural marvel of the modern town church. The afternoon is dedicated to tracing history at the ancient ruined church before driving along the magnificent North Sea coastline to two pristine beaches. Evening falls at the ancient stone circle, ending the day beautifully."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet den besten Schutz vor dem norwegischen Regen. Vormittags fahren wir bequem zwischen den historischen Stätten hin und her. Mittags genießen wir die trockene Zeit im Luftfahrtmuseum. Nachmittags beobachten wir den Sturm am Solastranden sicher vom warmen Auto aus. Abends endet die Fahrt entspannt, während der Regen gegen die Scheiben prasselt und wir im Trockenen bleiben.",
+            "hu": "Az autós túra nyújtja a legjobb védelmet a norvég eső ellen. Délelőtt kényelmesen közlekedünk a történelmi helyszínek között. Délben a Repüléstörténeti Múzeumban töltjük az időt, távol a víztől. Délután a Sola strand viharos látványát a biztonságos, meleg autóból csodáljuk. Este az utazás nyugodtan ér véget, miközben az eső a szélvédőn kopog, mi pedig szárazon maradunk.",
+            "ro": "Turul cu mașina oferă cea mai bună protecție împotriva ploii norvegiene. Dimineața conducem confortabil între siturile istorice. La prânz ne bucurăm de timpul petrecut în Muzeul Aviației, departe de apă. După-amiaza observăm furtuna de pe plaja Sola în siguranță din mașina caldă. Seara se încheie relaxat, în timp ce ploaia bate în parbriz, iar noi rămânem la uscat.",
+            "en": "The car tour offers the best protection against the persistent Norwegian rain. In the morning, we drive comfortably between historical sites. At noon, we enjoy dry time at the Aviation Museum. In the afternoon, we watch the storm at Sola Beach safely from the warm car. The evening ends relaxingly as the rain drums against the windows while we stay perfectly dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die Batterie auf Åsen",
+                "hu": "Az Åsen üteg",
+                "ro": "Bateria de la Åsen",
+                "en": "The Battery at Åsen"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz; der Weg zur Batterie kann bei Regen schlammig sein, nehmen Sie einen Regenschirm mit.",
+                "hu": "Parkoljon a szilárd burkolatú helyen; az üteghez vezető út esőben sáros lehet, mindenképpen vigyen magával esernyőt.",
+                "ro": "Parcați pe locul amenajat; drumul spre baterie poate fi noroios pe ploaie, așa că luați neapărat o umbrelă cu voi.",
+                "en": "Park in the designated paved area; the path to the battery can be muddy in the rain, so be sure to bring an umbrella with you."
+              }
+            },
+            {
+              "name": {
+                "de": "Erling Sjalgsson Denkmal",
+                "hu": "Erling Sjalgsson emlékmű",
+                "ro": "Monumentul Erling Sjalgsson",
+                "en": "Erling Sjalgsson Monument"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto so ab, dass Sie das Denkmal bei starkem Regen auch kurz durch die Scheibe betrachten können.",
+                "hu": "Úgy parkoljon le az autóval, hogy heves esőzés esetén a szélvédőn keresztül is jól láthassa az emlékművet egy darabig.",
+                "ro": "Parcați mașina astfel încât să puteți observa monumentul prin parbriz în cazul unei ploi torențiale neașteptate.",
+                "en": "Park your car in a way that allows you to view the monument through the windshield if the rain becomes too heavy to get out."
+              }
+            },
+            {
+              "name": {
+                "de": "Luftfahrtmuseum Sola",
+                "hu": "Sola Repüléstörténeti Múzeum",
+                "ro": "Muzeul Istoriei Aviației Sola",
+                "en": "Aviation History Museum Sola"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Eingang, um den Weg durch den Regen so kurz wie möglich zu halten.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő nagy parkolót, hogy a lehető legrövidebb ideig kelljen az esőben gyalogolnia.",
+                "ro": "Folosiți parcarea mare de lângă intrare pentru a parcurge o distanță cât mai scurtă prin ploaie până la muzeu.",
+                "en": "Use the large parking lot right by the entrance to keep your walk through the rain as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Sola",
+                "hu": "Sola temploma",
+                "ro": "Biserica Sola",
+                "en": "Sola Church"
+              },
+              "tip_5lang": {
+                "de": "Ein unkomplizierter Stopp; es gibt ausreichend Parkmöglichkeiten direkt vor der modernen Kirche im Trockenen.",
+                "hu": "Egyszerű megálló; a modern templom előtt bőséges parkolási lehetőség van, így gyorsan bejuthat a száraz épületbe.",
+                "ro": "O oprire simplă; există suficiente locuri de parcare chiar în fața bisericii moderne pentru a intra rapid la adăpost.",
+                "en": "An easy stop; there are plenty of parking spots right in front of the modern church for quick access to the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Sola Ruinenkirche",
+                "hu": "Sola romtemplom",
+                "ro": "Biserica Ruinelor din Sola",
+                "en": "Sola Ruin Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Pfützen auf dem Parkplatz der Ruine; der Weg vom Auto zur Kirche ist kurz, aber oft sehr nass.",
+                "hu": "Vigyázzon a mélyebb tócsákra a romtemplom parkolójában; az út az autótól a templomig rövid, de gyakran nagyon vizes.",
+                "ro": "Atenție la bălțile adânci din parcarea ruinelor; drumul de la mașină la biserică este scurt, dar adesea foarte ud.",
+                "en": "Watch out for deep puddles in the ruin's parking lot; the walk from the car to the church is short but often very wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Solastranden",
+                "hu": "Sola strand",
+                "ro": "Plaja Sola",
+                "en": "Sola Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosenden Wellen aus dem geheizten Auto, falls der Regen für einen Spaziergang zu stark ist.",
+                "hu": "Élvezze a háborgó tenger látványát a fűtött autóból, ha az eső túl intenzívvé válna egy parti sétához.",
+                "ro": "Bucurați-vă de vederea valurilor învolburate din mașina încălzită, în cazul în care ploaia devine prea puternică pentru plimbare.",
+                "en": "Enjoy the view of the crashing waves from your heated car if the rain becomes too intense for a walk on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Rægestranden",
+                "hu": "Rægestranden strand",
+                "ro": "Plaja Rægestranden",
+                "en": "Rægestranden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht; ideal für einen kurzen 'Drive-in'-Stopp, um die stürmische Küste zu fotografieren.",
+                "hu": "A parkolóból remek a kilátás; ideális egy rövid megállóra, hogy a szélvédő mögül fotózza a viharos tengerpartot.",
+                "ro": "Parcarea oferă o priveliște excelentă; este ideală pentru o scurtă oprire foto pentru a surprinde coasta furtunoasă.",
+                "en": "The parking area offers a great view; it's ideal for a quick 'drive-in' stop to photograph the stormy coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Urteilssteine von Sola",
+                "hu": "A solai ítélőkövek",
+                "ro": "Pietrele Judecății din Sola",
+                "en": "The Judgment Stones at Sola"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; der Weg über das Feld kann bei Dauerregen sehr tiefgründig und matschig sein.",
+                "hu": "Parkoljon óvatosan az út szélén; a mezőn átvezető út tartós esőben nagyon mély és sáros lehet, készüljön gumicsizmával.",
+                "ro": "Parcați cu atenție pe marginea drumului; poteca peste câmp poate fi foarte moale și noroioasă în caz de ploaie persistentă.",
+                "en": "Park carefully on the roadside; the path across the field can be very soft and muddy during persistent rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Sola ist bei jedem Wetter angenehm. Vormittags besuchen wir die frostigen Küstenbatterien. Mittags dient das Luftfahrtmuseum als warmer Stützpunkt. Nachmittags erleben wir das goldene Licht an den Kirchen und erreichen den Strand pünktlich zum Sonnenuntergang um 16:30 Uhr. Den Abend lassen wir bei einer entspannten Fahrt durch die beleuchteten Siedlungen ausklingen.",
+            "hu": "A téli autós kirándulás Sola környékén minden időben kellemes. Délelőtt a zúzmarás parti ütegeket látogatjuk meg. Délben a Repüléstörténeti Múzeum szolgál meleg bázisként. Délután élvezzük az aranyló fényeket a templomoknál, majd 16:30-kor a strandon nézzük a naplementét. Az estét a kivilágított falvakon keresztüli pihentető autózással zárjuk.",
+            "ro": "O excursie de iarnă cu mașina prin Sola este plăcută indiferent de vreme. Dimineața vizităm bateriile de coastă înghețate. La prânz, Muzeul Aviației servește ca bază caldă. După-amiaza ne bucurăm de lumina aurie de la biserici și ajungem la plajă pentru apusul de la 16:30. Seara se încheie cu o plimbare relaxantă cu mașina prin satele luminate.",
+            "en": "A winter car trip through Sola is pleasant regardless of the temperature. In the morning, we visit the frosty coastal batteries. At noon, the Aviation Museum serves as a warm base. In the afternoon, we enjoy the golden light at the churches and reach the beach in time for the 4:30 PM sunset. We end the evening with a relaxing drive through the beautifully lit local settlements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die Batterie auf Åsen",
+                "hu": "Az Åsen üteg",
+                "ro": "Bateria de la Åsen",
+                "en": "The Battery at Åsen"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Straßenzustand auf Eis; die Auffahrt zur Batterie kann im Winter glatt sein, genießen Sie oben die klare Frostluft.",
+                "hu": "Ellenőrizze az útviszonyokat a jég miatt; az üteghez vezető emelkedő télen csúszós lehet, fent élvezze a tiszta fagyos levegőt.",
+                "ro": "Verificați starea drumului pentru gheață; urcarea spre baterie poate fi alunecoasă iarna, dar sus aerul curat este revigorant.",
+                "en": "Check road conditions for ice; the drive up to the battery can be slick in winter, but the crisp frost air at the top is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Erling Sjalgsson Denkmal",
+                "hu": "Erling Sjalgsson emlékmű",
+                "ro": "Monumentul Erling Sjalgsson",
+                "en": "Erling Sjalgsson Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp; lassen Sie den Motor nicht unnötig laufen, während Sie kurz aussteigen, um das Denkmal im Reif zu bewundern.",
+                "hu": "Rövid megálló; ne járassa feleslegesen a motort, amíg kiszáll megcsodálni a zúzmarával borított történelmi emlékművet.",
+                "ro": "O oprire scurtă; nu lăsați motorul pornit inutil cât timp coborâți să admirați monumentul acoperit de brumă.",
+                "en": "A brief stop; don't leave the engine idling while you hop out to admire the frost-covered monument in the morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Luftfahrtmuseum Sola",
+                "hu": "Sola Repüléstörténeti Múzeum",
+                "ro": "Muzeul Istoriei Aviației Sola",
+                "en": "Aviation History Museum Sola"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp als Hauptereignis des Tages, da es im Museum angenehm beheizt und windgeschützt ist.",
+                "hu": "Tekintse ezt a megállót a nap fő eseményének, mivel a múzeumban kellemes fűtés és szélvédett környezet várja a látogatókat.",
+                "ro": "Considerați această oprire evenimentul principal al zilei, deoarece muzeul este încălzit și ferit de vântul tăios de coastă.",
+                "en": "Make this stop the centerpiece of your day, as the museum hangars are comfortably heated and protected from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Sola",
+                "hu": "Sola temploma",
+                "ro": "Biserica Sola",
+                "en": "Sola Church"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt in der blauen Stunde des Winters besonders modern und friedlich; Parkplätze sind direkt davor vorhanden.",
+                "hu": "Az építészet a téli kék órában különösen modernnek és békésnek hat; a parkoló közvetlenül az épület előtt található.",
+                "ro": "Arhitectura pare deosebit de modernă și liniștită în ora albastră a iernii; există locuri de parcare chiar în față.",
+                "en": "The architecture looks particularly modern and peaceful during the winter blue hour; parking is available right in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Sola Ruinenkirche",
+                "hu": "Sola romtemplom",
+                "ro": "Biserica Ruinelor din Sola",
+                "en": "Sola Ruin Church"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten durch die Ruinen; ein kurzer Spaziergang vom warmen Auto lohnt sich sehr.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a romok között; a fűtött autóból kiszállva egy rövid séta is megéri a látványt.",
+                "ro": "Soarele de iarnă proiectează umbre lungi prin ruine; o scurtă plimbare de la mașina caldă merită din plin pentru fotografii.",
+                "en": "The low winter sun casts dramatic long shadows through the ruins; a short walk from the warm car is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Solastranden",
+                "hu": "Sola beach",
+                "ro": "Plaja Sola",
+                "en": "Sola Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 16:30 Uhr; der Parkplatz bietet eine perfekte Sicht, ohne dass man in der Kälte stehen muss.",
+                "hu": "Nézze meg a naplementét 16:30 körül; a parkolóból tökéletes a kilátás, így nem kell a fagyos szélben kint várakoznia.",
+                "ro": "Urmăriți apusul în jurul orei 16:30; parcarea oferă o vedere perfectă fără a fi nevoie să stați afară în vântul înghețat.",
+                "en": "Watch the sunset around 4:30 PM; the parking lot provides an excellent view so you don't have to stand out in the freezing wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Rægestranden",
+                "hu": "Rægestranden strand",
+                "ro": "Plaja Rægestranden",
+                "en": "Rægestranden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer; parken Sie kurz für ein Foto der einsamen, frostigen Küstenlandschaft.",
+                "hu": "A strand télen gyakran teljesen néptelen; álljon meg egy rövid fotóra a magányos, fagyos tengerparti táj megörökítéséhez.",
+                "ro": "Plaja este adesea pustie iarna; opriți scurt pentru o fotografie a peisajului de coastă singuratic și înghețat.",
+                "en": "The beach is often deserted in winter; pull over briefly for a photo of the lonely, frost-covered coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Urteilssteine von Sola",
+                "hu": "A solai ítélőkövek",
+                "ro": "Pietrele Judecății din Sola",
+                "en": "The Judgment Stones at Sola"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor der Dunkelheit; die Steine sind bei Schnee schwer zu finden und der Boden kann hart gefroren sein.",
+                "hu": "Még sötétedés előtt látogasson el ide; hóban nehéz megtalálni a köveket, a mező talaja pedig keményre fagyott és egyenetlen.",
+                "ro": "Vizitați acest loc înainte de lăsarea întunericului; pietrele sunt greu de găsit prin zăpadă, iar solul este înghețat și tare.",
+                "en": "Visit this spot before dark; the stones can be hard to find in the snow, and the ground will be frozen solid and uneven."
+              }
+            }
+          ]
+        }
       }
     }
   }

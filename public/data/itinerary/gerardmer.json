@@ -137,6 +137,168 @@
         "hu": "A reggel Gérardmer szívében indul a lenyűgöző St-Barthélemy templomnál, majd sétáljon le az érintetlen gleccsertóhoz. A delet a tóparti sétány és a város kaszinójának felfedezésével töltheti. Délután pihenjen meg egy helyi wellness központban, ahol felfrissülhet a túra előtt. Az este a Mérelle-toronyhoz vezető túrával zárul, amely felejthetetlen naplementét kínál a Vogézek gyöngyszeme felett.",
         "ro": "Dimineața începe în inima orașului Gérardmer la biserica St-Barthélemy, înainte de o plimbare spre lacul glaciar. La prânz, explorați promenada animată a lacului și cazinoul pitoresc. După-amiaza, relaxați-vă complet într-un centru de wellness pentru a vă detensiona mușchii. Seara aduce o drumeție memorabilă către Turnul Mérelle, oferind un apus de soare de neuitat peste Perla Munților Vosgi.",
         "en": "Morning starts at the heart of Gérardmer with a visit to the striking St-Barthélemy Church before a relaxing stroll down to the pristine glacial lake. Midday is spent exploring the lively lakeside promenade and enjoying the entertainment near the town's charming Casino. In the afternoon, unwind completely at a local wellness center to soothe your muscles. The evening brings a rewarding hike up to Mérelle Tower, offering an unforgettable sunset view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Morgen in der Kirche Saint-Barthélemy, einem trockenen Zufluchtsort. Spazieren Sie am nebligen Gérardmersee vorbei, bevor Sie sich im Casino aufwärmen. Entspannen Sie nachmittags drinnen im Espace Bien-Être. Beenden Sie den Tag mit einer vorsichtigen Wanderung zum Mérelle-Turm, da die Wege rutschig sind.",
+            "hu": "Kezdje az esős reggelt a Saint-Barthélemy Templomban, amely száraz menedéket nyújt. Sétáljon a ködös Gérardmer-tó partján, majd melegedjen fel a Kaszinóban. Délután lazítson az Espace Bien-Être fedett medencéiben. Zárja a napot egy óvatos túrával a Mérelle-toronyhoz, mivel az erdei ösvények csúszósak lehetnek.",
+            "ro": "Începeți dimineața ploioasă la Biserica Saint-Barthélemy, un sanctuar uscat. Plimbați-vă pe lângă Lacul Gérardmer cel cețos, apoi încălziți-vă la Cazinou. După-amiaza, relaxați-vă la interior în Espace Bien-Être. Încheiați ziua cu o drumeție precaută la Turnul Mérelle, deoarece potecile vor fi alunecoase.",
+            "en": "Start your wet morning at the beautiful Saint-Barthélemy Church, offering a dry sanctuary. Stroll by the misty Lake Gérardmer before warming up at the Casino. In the afternoon, relax indoors at Espace Bien-Être, escaping the rain entirely. Conclude your day with a cautious hike to the Mérelle Tower, as trails will be slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy Templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster von innen, was einen perfekten trockenen Zufluchtsort bietet, um Ihren nassen Morgen geschützt vor dem Regen zu beginnen.",
+                "hu": "Csodálja meg a lenyűgöző üvegablakokat belülről, amely tökéletes, száraz menedéket biztosít az esős reggel kényelmes és nyugodt elindításához.",
+                "ro": "Admirați vitraliile frumoase din interior, care oferă un adăpost uscat perfect pentru a vă începe dimineața ploioasă, feriți de precipitații.",
+                "en": "Admire the beautiful stained glass from inside, which provides a perfect dry shelter and a peaceful atmosphere to start your wet morning out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gérardmersee",
+                "hu": "Gérardmer-tó",
+                "ro": "Lacul Gérardmer",
+                "en": "Lake Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über dem Wasser sorgt für eine mystische Stimmung; halten Sie einen stabilen Regenschirm bereit und bleiben Sie sicherheitshalber auf befestigten Wegen.",
+                "hu": "A víz feletti köd misztikus látványt nyújt; tartson kéznél egy stabil esernyőt, és a sár elkerülése végett maradjon a szilárd burkolatú utakon.",
+                "ro": "Ceața de deasupra apei creează o atmosferă misterioasă; țineți la îndemână o umbrelă rezistentă și rămâneți pe potecile pavate pentru siguranță.",
+                "en": "The thick mist over the water creates a moody atmosphere; keep a sturdy umbrella handy and strictly stay on paved paths to avoid muddy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino von Gérardmer",
+                "hu": "Gérardmer Kaszinó",
+                "ro": "Cazinoul din Gérardmer",
+                "en": "Casino of Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Rückzugsort für drinnen; verbringen Sie Zeit mit Spielen oder genießen Sie ein warmes Getränk, während es draußen in Strömen gießt.",
+                "hu": "Kiváló beltéri menedékhely; töltsön el egy kis időt játékkal vagy fogyasszon el egy meleg italt, miközben kint szakad az eső.",
+                "ro": "O evadare perfectă la interior; petreceți timpul jucând sau savurând o băutură caldă confortabilă în timp ce afară toarnă cu găleata.",
+                "en": "A fantastic indoor escape; spend some time playing games or enjoying a warm, comforting drink while the heavy rain pours down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Bien-Être",
+                "hu": "Espace Bien-Être",
+                "ro": "Espace Bien-Être",
+                "en": "Espace Bien-Être"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie sich vollständig in den beheizten Innenpools und Saunen, was Ihnen hilft, das schlechte Wetter und die Nässe komplett zu vergessen.",
+                "hu": "Lazítson a fűtött beltéri medencékben és forró szaunákban, amelyek garantáltan feledtetik Önnel a zord és nedves kinti időjárást.",
+                "ro": "Relaxați-vă complet în piscinele interioare încălzite și saune, o experiență care vă va face să uitați complet de vremea rea și umezeala de afară.",
+                "en": "Relax fully in the heated indoor pools and saunas, a perfect activity that will make you completely forget about the bad, wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérelle-Turm",
+                "hu": "Mérelle-torony",
+                "ro": "Turnul Mérelle",
+                "en": "Mérelle Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Holzstufen und Waldwege sind bei Nässe extrem rutschig; tragen Sie unbedingt wasserfeste Stiefel mit gutem Profil und gehen Sie sehr vorsichtig.",
+                "hu": "A fa lépcsők és a sáros erdei utak nagyon csúszósak lehetnek; feltétlenül viseljen vízálló túrabakancsot, és minden lépésére ügyeljen.",
+                "ro": "Treptele din lemn și potecile forestiere devin foarte alunecoase; purtați bocanci impermeabili cu aderență bună și pășiți cu mare atenție.",
+                "en": "The wooden steps and forest trails become extremely slippery when wet; wear sturdy waterproof boots with good grip and walk with extra caution."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Wintermorgen in der historischen Kirche Saint-Barthélemy. Genießen Sie die frostigen Ufer des Gérardmersees und wärmen Sie sich im Casino auf. Verbringen Sie einen gemütlichen Nachmittag im Espace Bien-Être. Erreichen Sie den Mérelle-Turm vor dem frühen Sonnenuntergang gegen 17:00 Uhr mit warmen Schichten.",
+            "hu": "Indítsa a csípős téli reggelt a történelmi Saint-Barthélemy Templomban. Csodálja meg a fagyos Gérardmer-tó partját, mielőtt beülne a fűtött Kaszinóba. Töltsön el egy hangulatos délutánt az Espace Bien-Être fürdőjében. Érjen fel a Mérelle-toronyhoz a korai, 17:00 órai naplemente előtt, és öltözzön jó melegen.",
+            "ro": "Începeți dimineața rece de iarnă la Biserica istorică Saint-Barthélemy. Admirați malurile înghețate ale Lacului Gérardmer înainte de a vă încălzi la Cazinou. Petreceți o după-amiază confortabilă la Espace Bien-Être. Ajungeți la Turnul Mérelle înainte de apusul de la ora 17:00, purtând haine groase pentru frigul serii.",
+            "en": "Kick off your crisp winter morning at the historic Saint-Barthélemy Church. Enjoy the frost-covered shores of Lake Gérardmer before seeking warmth inside the Casino. Spend a cozy afternoon at Espace Bien-Être. Try to reach the Mérelle Tower before the early 17:00 sunset, packing extra warm layers for the chilly breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy Templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das beheizte Kirchenschiff ein, um sich aufzuwärmen und die historische Architektur abseits der beißenden Morgenkälte zu genießen.",
+                "hu": "Lépjen be a fűtött templomtérbe melegedni, és élvezze a lenyűgöző történelmi építészetet távol a kinti csípős, fagyos reggeli hidegtől.",
+                "ro": "Intrați în nava încălzită pentru a vă încălzi și a aprecia arhitectura istorică departe de frigul pătrunzător al dimineții de iarnă.",
+                "en": "Step inside the heated nave to quickly warm up and fully appreciate the historic architecture away from the biting, frosty morning cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Gérardmersee",
+                "hu": "Gérardmer-tó",
+                "ro": "Lacul Gérardmer",
+                "en": "Lake Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Ufer sind atemberaubend schön, aber ziehen Sie sich in dichten Schichten an, da der eisige Wind über dem See extrem kalt sein kann.",
+                "hu": "A fagyos partvidék látványa lenyűgöző, de öltözzön vastag réteges ruházatba, mert a tó felől fújó szél ilyenkor kifejezetten jéghideg.",
+                "ro": "Marginile înghețate sunt uimitoare, dar îmbrăcați-vă cu straturi groase, deoarece vântul care bate peste lac poate fi extrem de înghețat.",
+                "en": "The frost-covered edges look stunning, but ensure you dress in heavy, windproof layers as the breeze blowing across the lake is freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino von Gérardmer",
+                "hu": "Gérardmer Kaszinó",
+                "ro": "Cazinoul din Gérardmer",
+                "en": "Casino of Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der beißenden Winterkälte in diesem beheizten, lebhaften Ort, der sich perfekt für eine gemütliche und unterhaltsame Pause drinnen anbietet.",
+                "hu": "Meneküljön a csípős téli fagy elől ebbe a kellemesen fűtött, nyüzsgő épületbe, amely tökéletes egy hangulatos beltéri pihenőhöz.",
+                "ro": "Scăpați de frigul tăios al iernii în acest loc încălzit și plin de viață, perfect pentru o pauză interioară confortabilă și plină de divertisment.",
+                "en": "Escape the biting winter chill in this well-heated, lively venue, making it the perfect spot for a cozy and highly entertaining indoor break."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Bien-Être",
+                "hu": "Espace Bien-Être",
+                "ro": "Espace Bien-Être",
+                "en": "Espace Bien-Être"
+              },
+              "tip_5lang": {
+                "de": "An einem eiskalten Wintertag gibt es wirklich nichts Besseres, als tief in ein dampfendes Thermalbad und die wohltuende Sauna einzutauchen.",
+                "hu": "Egy fagyos téli napon mi sem eshet jobban, mint hosszan elmerülni a gőzölgő, forró termálvízben és átmelegedni a pihentető szaunában.",
+                "ro": "Într-o zi geroasă de iarnă, nimic nu se compară cu o baie prelungită într-un bazin termal aburind și relaxarea într-o saună fierbinte.",
+                "en": "On a freezing winter day, there is absolutely nothing better than unwinding deeply in a steaming hot thermal bath and a soothing sauna."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérelle-Turm",
+                "hu": "Mérelle-torony",
+                "ro": "Turnul Mérelle",
+                "en": "Mérelle Tower"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie deutlich vor dem frühen Sonnenuntergang um 17:00 Uhr an, um das verschneite Panorama sicher zu genießen; bringen Sie Handschuhe mit.",
+                "hu": "Érkezzen jóval a korai, 17:00 órás naplemente előtt, hogy biztonságban megcsodálhassa a havas panorámát; ne felejtsen el meleg kesztyűt hozni.",
+                "ro": "Ajungeți cu mult înainte de apusul de la ora 17:00 pentru a admira în siguranță panorama înzăpezită; asigurați-vă că aveți mănuși groase.",
+                "en": "Aim to arrive well before the early 17:00 sunset to safely enjoy the snowy panoramic views from the top; bring thermal gloves for the climb."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a történelmi St-Barthélemy templomnál kezdődik, majd a híres Gérardmer-tóhoz vezet. Délben a Kaszinó mellett elhaladva az erdőbe teker, hogy az Acro-Sphère parkban kalandozzon. A délután folyamán tovább emelkedik az erdőben a Mérelle-toronyhoz, ahonnan fantasztikus a kilátás. Az estét a wellness központba vezető pihentető gurulás zárja, amely tökéletes a fáradt lábak ellazítására.",
         "ro": "Aventura pe bicicletă începe la biserica St-Barthélemy, urmată de o plimbare lină pe malul lacului Gérardmer. La prânz treceți de cazinou și ajungeți în pădure pentru senzații tari la parcul Acro-Sphère. După-amiaza pedalați mai sus către Turnul Mérelle, pentru o panoramă de vis de la înălțime. Seara se încheie cu o coborâre relaxantă spre Espace Bien-Être, locul perfect pentru a odihni picioarele obosite.",
         "en": "Your cycling adventure begins centrally at the historic St-Barthélemy Church before gliding down to the famous Lake Gérardmer for a peaceful morning ride. Midday brings you past the energetic Casino and directly into the forest canopy for thrills at the Acro-Sphère park. The afternoon pedals you further up into the woods to the spectacular Mérelle Tower for high vantage points. Evening wraps up with a relaxing descent to the Espace Bien-Être."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie im Regen zur schützenden Kirche Saint-Barthélemy. Fahren Sie vorsichtig am nebligen Gérardmersee entlang und trocknen Sie sich im Casino. Bewältigen Sie nachmittags die Acro-Sphère mit griffigen Handschuhen und radeln Sie vorsichtig zum Mérelle-Turm. Beenden Sie den nassen Tag drinnen im Espace Bien-Être.",
+            "hu": "Tekerjen az esőben a menedéket adó Saint-Barthélemy Templomhoz. Óvatosan haladjon a ködös Gérardmer-tó mentén, és száradjon meg a Kaszinóban. Délután tapadós kesztyűvel vágjon neki az Acro-Sphère-nek, és lassan tekerjen fel a csúszós ösvényen a Mérelle-toronyhoz. Zárja a vizes napot az Espace Bien-Être melegében.",
+            "ro": "Porniți cu bicicleta prin ploaie spre Biserica Saint-Barthélemy. Pedalați cu grijă pe lângă Lacul Gérardmer și uscați-vă la Cazinou. După-amiaza, abordați Acro-Sphère cu mănuși aderente și urcați cu atenție la Turnul Mérelle. Încheiați ziua ploioasă relaxându-vă la interior la Espace Bien-Être.",
+            "en": "Start pedaling in the rain towards the sheltering Saint-Barthélemy Church. Ride cautiously along the misty Lake Gérardmer and dry off at the Casino. In the afternoon, tackle Acro-Sphère with good grip gloves, and carefully cycle up to the Mérelle Tower on slippery trails. End your wet day at Espace Bien-Être."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy Templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad ab und suchen Sie in den wunderschönen Mauern Schutz vor dem Regen, um Ihre Fahrtrichtung im Trockenen neu zu planen.",
+                "hu": "Támassza le kerékpárját, és keressen menedéket a falak között az eső elől, ahol szárazon tervezheti meg a túra következő nedves szakaszát.",
+                "ro": "Lăsați bicicleta și adăpostiți-vă de ploaie în interiorul zidurilor frumoase pentru a vă planifica următorul traseu la loc uscat.",
+                "en": "Park your bike and seek immediate shelter from the rain inside the beautiful walls, a great place to dry off and review your wet route."
+              }
+            },
+            {
+              "name": {
+                "de": "Gérardmersee",
+                "hu": "Gérardmer-tó",
+                "ro": "Lacul Gérardmer",
+                "en": "Lake Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie sehr langsam auf den nassen Uferwegen; die Feuchtigkeit macht Kurven extrem rutschig, aber der Nebel bietet ein tolles Fotomotiv.",
+                "hu": "Nagyon lassan tekerjen a nedves parti utakon; a nedvesség miatt a kanyarok extrém csúszósak, de a tó feletti köd remek fotótémát nyújt.",
+                "ro": "Pedalați foarte încet pe cărările ude de pe mal; umezeala face virajele extrem de alunecoase, dar ceața oferă un peisaj fotografic excelent.",
+                "en": "Cycle very slowly along the wet lakeside paths; the moisture makes turning extremely slick, though the morning mist offers great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino von Gérardmer",
+                "hu": "Gérardmer Kaszinó",
+                "ro": "Cazinoul din Gérardmer",
+                "en": "Casino of Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in Sichtweite, treten Sie ein, um Ihre nassen Jacken aufzuwärmen, und genießen Sie eine heiße Schokolade beim Spielen.",
+                "hu": "Parkolja le a bringát jól látható helyen, lépjen be átmelegíteni a nedves kabátokat, és igyon egy forró csokit a benti játék közben.",
+                "ro": "Parcați bicicleta la vedere, intrați pentru a vă usca jachetele umede și bucurați-vă de o ciocolată caldă în timp ce explorați jocurile.",
+                "en": "Lock your bike nearby, step inside to warm up your soaking wet jackets, and enjoy a hot chocolate while resting from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Acro-Sphère",
+                "hu": "Acro-Sphère",
+                "ro": "Acro-Sphère",
+                "en": "Acro-Sphère"
+              },
+              "tip_5lang": {
+                "de": "Trotz Regen geöffnet, aber Klettern erfordert robuste, griffige Handschuhe, da die Seile und nassen Plattformen rutschig werden können.",
+                "hu": "Esőben is nyitva, de a mászáshoz robusztus, jól tapadó kesztyű szükséges, mivel az acélsodronyok és a nedves platformok is csúsznak.",
+                "ro": "Deschis și pe ploaie, dar cățăratul necesită mănuși cu aderență excelentă, deoarece cablurile și platformele umede devin alunecoase.",
+                "en": "Open despite the rain, but climbing demands robust, highly grippy gloves because the wet metal cables and wooden platforms get very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérelle-Turm",
+                "hu": "Mérelle-torony",
+                "ro": "Turnul Mérelle",
+                "en": "Mérelle Tower"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad auf den steilsten und nassesten Waldwegen, da der schlammige Untergrund ein sicheres Fahren bergauf unmöglich macht.",
+                "hu": "A legmeredekebb, legnedvesebb erdei utakon inkább tolja a kerékpárt, mert a sáros talaj lehetetlenné és veszélyessé teszi a feltekerést.",
+                "ro": "Împingeți bicicleta pe cele mai abrupte și umede poteci de pădure, deoarece noroiul face imposibilă și periculoasă pedalarea în urcare.",
+                "en": "Dismount and push your bike on the steepest, wettest forest sections, as the deep mud makes safe uphill cycling virtually impossible."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Bien-Être",
+                "hu": "Espace Bien-Être",
+                "ro": "Espace Bien-Être",
+                "en": "Espace Bien-Être"
+              },
+              "tip_5lang": {
+                "de": "Nach einer nassen Radtour durch die Stadt sind die warmen Saunen und Thermalbecken hier die perfekte Möglichkeit, Ihre kalten Muskeln zu entspannen.",
+                "hu": "Egy esős, nedves kerékpártúra után a városban az itteni meleg szaunák és termálmedencék tökéletesek a fázós izmok ellazítására.",
+                "ro": "După o cursă udă cu bicicleta prin oraș, saunele și piscinele termale de aici sunt modul perfect de a vă relaxa mușchii înghețați.",
+                "en": "After a heavily wet cycling tour across the city, the warm saunas and thermal pools here are the ultimate way to relax your freezing muscles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frostige Fahrt an der Kirche Saint-Barthélemy. Radeln Sie am eisigen Gérardmersee vorbei und wärmen Sie sich im Casino auf. Genießen Sie nachmittags die Acro-Sphère und fahren Sie vor dem Sonnenuntergang um 17:00 Uhr zum Mérelle-Turm. Tauen Sie abschließend im Espace Bien-Être auf.",
+            "hu": "Kezdje a fagyos túrát a Saint-Barthélemy Templomnál. Tekerjen el a jeges Gérardmer-tó mellett, majd melegedjen fel a Kaszinóban. Délután élvezze a friss levegőt az Acro-Sphère-ben, és érjen a Mérelle-toronyhoz a 17:00 órai naplemente előtt. Végül melegedjen fel az Espace Bien-Être medencéiben.",
+            "ro": "Începeți cursa geroasă la Biserica Saint-Barthélemy. Pedalați pe lângă Lacul Gérardmer înghețat și încălziți-vă la Cazinou. După-amiaza, bucurați-vă de Acro-Sphère și urcați la Turnul Mérelle înainte de apusul de la 17:00. La final, dezghețați-vă complet la Espace Bien-Être.",
+            "en": "Begin your frosty ride at the Saint-Barthélemy Church. Pedal past the icy Lake Gérardmer, taking a break to warm up at the Casino. In the afternoon, enjoy a chilly session at Acro-Sphère and ride up to Mérelle Tower before the sun sets around 17:00. Thaw out completely at Espace Bien-Être."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy Templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradreifen winterfest sind, und nutzen Sie den beheizten Innenraum der Kirche, um sich auf den kalten Fahrtwind vorzubereiten.",
+                "hu": "Ellenőrizze, hogy a kerékpárgumik téliesítve vannak-e, és használja a fűtött templomot, hogy testben-lélekben felkészüljön a fagyos menetszélre.",
+                "ro": "Asigurați-vă că anvelopele sunt potrivite pentru iarnă și folosiți interiorul încălzit al bisericii pentru a vă pregăti de vântul rece al cursei.",
+                "en": "Ensure your bike tires are winter-ready with good tread, and use the heated interior of the church to brace yourself for the freezing headwinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Gérardmersee",
+                "hu": "Gérardmer-tó",
+                "ro": "Lacul Gérardmer",
+                "en": "Lake Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Wind vom See erfordert unbedingt Thermohandschuhe und einen Schal unter dem Helm; achten Sie beim Radeln auf vereiste Pfützen.",
+                "hu": "A tó felől fújó jeges szél megköveteli a termokesztyűt és a sisak alatti sálat; kerékpározás közben nagyon ügyeljen a megfagyott tócsákra.",
+                "ro": "Vântul înghețat de pe lac necesită mănuși termice și fular sub cască; fiți atenți la bălțile înghețate de pe traseu în timp ce pedalați.",
+                "en": "The icy blast off the lake strictly requires thermal gloves and a thick scarf under your helmet; carefully watch for frozen puddles as you ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino von Gérardmer",
+                "hu": "Gérardmer Kaszinó",
+                "ro": "Cazinoul din Gérardmer",
+                "en": "Casino of Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Ein rettender Stopp zum Aufwärmen Ihrer durchgefrorenen Hände; sichern Sie Ihr Fahrrad draußen und genießen Sie das warme, schicke Ambiente.",
+                "hu": "Életmentő megálló az átfagyott kezek felmelegítésére; zárja le a biciklit kint, és élvezze a meleg, elegáns beltéri atmoszférát.",
+                "ro": "O oprire salvatoare pentru a vă încălzi mâinile înghețate; asigurați bicicleta afară și bucurați-vă de atmosfera caldă și elegantă din interior.",
+                "en": "A lifesaver stop to fully warm your freezing hands; securely lock your bike outside and soak up the highly heated, elegant interior ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Acro-Sphère",
+                "hu": "Acro-Sphère",
+                "ro": "Acro-Sphère",
+                "en": "Acro-Sphère"
+              },
+              "tip_5lang": {
+                "de": "Ein kühles Winterabenteuer; tragen Sie atmungsaktive, aber extrem warme Kleidung unter Ihrer Sicherheitsausrüstung, um beim Klettern wendig zu bleiben.",
+                "hu": "Hűvös téli kaland; viseljen légáteresztő, de extrém meleg ruházatot a biztonsági felszerelés alatt, hogy a mászás során fürge maradhasson.",
+                "ro": "O aventură rece de iarnă; purtați haine respirabile, dar extrem de călduroase sub echipamentul de siguranță pentru a rămâne agil.",
+                "en": "A very chilly winter adventure; wear highly breathable yet extremely warm base layers under your harness to stay agile while climbing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérelle-Turm",
+                "hu": "Mérelle-torony",
+                "ro": "Turnul Mérelle",
+                "en": "Mérelle Tower"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Fahrradroute so, dass Sie lange vor 17:00 Uhr wieder unten sind, da die Waldwege im Dunkeln bei Frost extrem gefährlich werden.",
+                "hu": "Tervezze úgy a kerékpáros útvonalat, hogy jóval 17:00 előtt leérjen, mivel a fagyos erdei utak a sötétben extrém módon veszélyessé válnak.",
+                "ro": "Planificați-vă traseul astfel încât să coborâți mult înainte de 17:00, deoarece potecile forestiere înghețate devin extrem de periculoase pe întuneric.",
+                "en": "Plan your cycle route to descend long before the 17:00 sunset, as freezing forest trails become extremely dangerous without natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Bien-Être",
+                "hu": "Espace Bien-Être",
+                "ro": "Espace Bien-Être",
+                "en": "Espace Bien-Être"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss eines eiskalten Fahrradtages; die Saunawärme ist essentiell, um Verspannungen nach dem Radeln bei Frost zu lösen.",
+                "hu": "Egy jéghideg biciklis nap méltó lezárása; a szauna forrósága elengedhetetlen a fagyos pedálozás okozta izomfeszültség feloldásához.",
+                "ro": "Finalul perfect pentru o zi geroasă pe bicicletă; căldura saunei este esențială pentru a elibera tensiunea musculară după pedalatul în frig.",
+                "en": "The absolute best finale to a freezing cycling day; the profound sauna heat is essential to release severe muscle tension from winter pedaling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autózzon ki korán a St-Barthélemy templomhoz, és folytassa útját a Saut des Cuves vízeséshez. A déli órák a lélegzetelállító Gérardmer-tó körül telnek, majd a kanyargós utakon a La Mauselaine síközpontba jut fel az alpesi kilátásért. Délután tegye próbára a családot az Acro-Sphère parkban, majd túrázzon a Mérelle-toronyhoz. Az estét a városban, a Kaszinóban zárhatja egy kellemes vacsorával.",
         "ro": "Mergeți dimineața la biserica St-Barthélemy și continuați spre cascada Saut des Cuves pentru a evita aglomerația. Mijlocul zilei se concentrează pe lacul Gérardmer, înainte de a urca pe drumurile șerpuite către stațiunea La Mauselaine. După-amiaza încercați aventura la Acro-Sphère și faceți o scurtă drumeție spre Turnul Mérelle. Seara se încheie elegant înapoi în oraș, la cazinou, pentru cină și jocuri.",
         "en": "Drive out early to the impressive St-Barthélemy Church and continue straight to the cascading Saut des Cuves waterfall to beat the morning crowds. Midday centers around the breathtaking Lake Gérardmer before heading up the winding roads to La Mauselaine Ski Resort for alpine views. In the afternoon, challenge the family at Acro-Sphère and then hike briefly to Mérelle Tower for a sprawling vista. The evening concludes gracefully back in town at the Casino for dinner and games."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie durch den Regen zur friedlichen Kirche Saint-Barthélemy. Sehen Sie sich den kraftvollen Wasserfall Saut des Cuves an und bewundern Sie den nebligen Gérardmersee. Besuchen Sie La Mauselaine und die Acro-Sphère. Fahren Sie vorsichtig auf rutschigen Straßen zum Mérelle-Turm und beenden Sie den Abend im Casino.",
+            "hu": "Vezessen az esőben a békés Saint-Barthélemy Templomhoz. Nézze meg a felduzzadt Saut des Cuves vízesést, majd csodálja meg a ködös Gérardmer-tavat az autóból. Látogasson el a La Mauselaine-be és az Acro-Sphère-be. Óvatosan vezessen a csúszós utakon a Mérelle-toronyhoz, majd töltse az estét a Kaszinóban.",
+            "ro": "Conduceți prin ploaie spre liniștita Biserică Saint-Barthélemy. Priviți Cascada Saut des Cuves învolburată, apoi admirați Lacul Gérardmer din mașină. Vizitați La Mauselaine și Acro-Sphère. Conduceți cu grijă pe drumurile alunecoase spre Turnul Mérelle și încheiați seara în interior, la Cazinou.",
+            "en": "Drive through the rain to the peaceful Saint-Barthélemy Church. Watch the powerful Saut des Cuves Waterfall, then admire the misty Lake Gérardmer from your car. Visit La Mauselaine, followed by a wet Acro-Sphère experience. Drive carefully to Mérelle Tower on slick roads, and end the evening indoors at the Casino."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy Templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto in der Nähe und eilen Sie unter einem Regenschirm hinein, um die majestätische Architektur im völlig Trockenen zu bewundern.",
+                "hu": "Parkolja le az autót a közelben, és siessen be egy esernyő alatt, hogy teljesen szárazon, kényelmesen csodálhassa meg a fenséges építészetet.",
+                "ro": "Parcați mașina în apropiere și grăbiți-vă înăuntru sub o umbrelă pentru a admira arhitectura maiestuoasă complet la adăpost de ploaie.",
+                "en": "Park your car closely and quickly rush inside beneath an umbrella to admire the majestic stone architecture in completely dry comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Saut des Cuves Wasserfall",
+                "hu": "Saut des Cuves Vízesés",
+                "ro": "Cascada Saut des Cuves",
+                "en": "Saut des Cuves Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der starke Regen macht den Wasserfluss unglaublich kraftvoll; achten Sie jedoch genau auf Ihre Schritte auf den sehr schlammigen Aussichtsplattformen.",
+                "hu": "A heves esőzések miatt a vízesés sodrása hihetetlenül felerősödik; fokozottan ügyeljen a lépéseire a csúszós, sáros kilátópontokon.",
+                "ro": "Ploaia torențială face fluxul apei incredibil de puternic; fiți foarte atenți unde călcați pe platformele de vizionare acoperite de noroi.",
+                "en": "The heavy rainfall makes the water flow incredibly powerful to watch; however, watch your step very carefully on the muddy viewing platforms."
+              }
+            },
+            {
+              "name": {
+                "de": "Gérardmersee",
+                "hu": "Gérardmer-tó",
+                "ro": "Lacul Gérardmer",
+                "en": "Lake Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorteil Ihres Autos und parken Sie am Ufer, um die neblige, mystische Aussicht auf den See bequem durch die Scheiben zu genießen.",
+                "hu": "Használja ki az autó előnyét, parkoljon le a parton, és élvezze a ködös, misztikus tavi kilátást kényelmesen, az ablakokon keresztül.",
+                "ro": "Profitați de confortul mașinii și parcați pe mal pentru a vă bucura de vederea misterioasă și cețoasă a lacului direct prin geamuri.",
+                "en": "Take full advantage of your car by parking closely on the banks to enjoy the moody, misty lake views completely dry through your windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Skigebiet La Mauselaine",
+                "hu": "La Mauselaine Síközpont",
+                "ro": "Stațiunea de Schi La Mauselaine",
+                "en": "La Mauselaine Ski Resort"
+              },
+              "tip_5lang": {
+                "de": "Wenn Outdoor-Aktivitäten wegen starkem Regen pausieren, genießen Sie einfach das gemütliche Chalet-Restaurant und warten auf besseres Wetter.",
+                "hu": "Ha a szabadtéri programok a heves eső miatt szünetelnek, egyszerűen élvezze a hangulatos hüttét, és várja meg kényelmesen a javuló időt.",
+                "ro": "Dacă activitățile în aer liber sunt oprite din cauza ploii, bucurați-vă de restaurantul confortabil al cabanei și așteptați vremea mai bună.",
+                "en": "If outdoor sports are paused due to heavy rain, simply retreat to the cozy chalet restaurant and comfortably wait for the wet conditions to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Acro-Sphère",
+                "hu": "Acro-Sphère",
+                "ro": "Acro-Sphère",
+                "en": "Acro-Sphère"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit dem Auto direkt bis zum Eingang; das Klettern im Regen macht Spaß, erfordert aber absolut rutschfeste und wasserabweisende Handschuhe.",
+                "hu": "Guruljon autóval egyenesen a bejáratig; az esőben való mászás is élvezetes, de abszolút csúszásmentes és vízlepergető kesztyűt igényel.",
+                "ro": "Conduceți până la intrare; cățăratul în ploaie este distractiv, dar necesită mănuși complet antiderapante și rezistente la apă.",
+                "en": "Drive straight up to the entrance; climbing in the rain is quite thrilling but absolutely requires non-slip, water-resistant heavy-duty gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérelle-Turm",
+                "hu": "Mérelle-torony",
+                "ro": "Turnul Mérelle",
+                "en": "Mérelle Tower"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie äußerst langsam auf der schmalen, kurvigen Straße zum Parkplatz, da nasses Laub den Asphalt für Autos extrem rutschig machen kann.",
+                "hu": "Rendkívül lassan vezessen a szűk, kanyargós parkoló felé vezető úton, mivel a nedves falevelek a nedves aszfaltot életveszélyesen csúszóssá teszik.",
+                "ro": "Conduceți extrem de încet pe drumul îngust spre parcare, deoarece frunzele umede pot face asfaltul extrem de alunecos pentru mașini.",
+                "en": "Drive extremely slowly on the narrow winding road up to the parking spot, as wet fallen leaves make the slick asphalt treacherous for cars."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino von Gérardmer",
+                "hu": "Gérardmer Kaszinó",
+                "ro": "Cazinoul din Gérardmer",
+                "en": "Casino of Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte trockene Abschluss Ihres regnerischen Roadtrips; parken Sie direkt davor und verbringen Sie einen luxuriösen Abend geschützt im Inneren.",
+                "hu": "A tökéletes száraz lezárása az esős autós túrának; parkoljon közvetlenül előtte, és töltsön el egy fényűző estét az épület biztonságában.",
+                "ro": "Finalul perfect și uscat pentru excursia dvs. ploioasă cu mașina; parcați chiar în față și petreceți o seară luxoasă complet protejat la interior.",
+                "en": "The absolute perfect dry finale to your rainy road trip; utilize the close parking and spend a luxurious, highly entertaining evening indoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt an der Kirche Saint-Barthélemy. Bestaunen Sie den gefrorenen Wasserfall Saut des Cuves und den eisigen Gérardmersee. Fahren Sie nachmittags in La Mauselaine Ski und besuchen Sie die Acro-Sphère. Erreichen Sie den Mérelle-Turm vor 17:00 Uhr und beenden Sie den Abend im warmen Casino.",
+            "hu": "Indítsa a téli autózást a Saint-Barthélemy Templomnál. Csodálja meg a befagyott Saut des Cuves vízesést és a jeges Gérardmer-tavat. Töltse a délutánt síeléssel a La Mauselaine-ben, majd nézze meg az Acro-Sphère-t. Érjen a Mérelle-toronyhoz a 17:00 órai naplemente előtt, és zárja a fagyos estét a Kaszinóban.",
+            "ro": "Începeți traseul de iarnă la Biserica Saint-Barthélemy. Admirați Cascada Saut des Cuves înghețată și Lacul Gérardmer. Petreceți după-amiaza schiind la La Mauselaine, apoi vizitați Acro-Sphère. Ajungeți la Turnul Mérelle înainte de apusul de la ora 17:00 și încheiați seara geroasă în Cazinoul cald.",
+            "en": "Start your winter drive at the Saint-Barthélemy Church. Marvel at the frozen Saut des Cuves Waterfall and the icy shores of Lake Gérardmer. Spend the afternoon skiing at La Mauselaine, then visit Acro-Sphère. Reach Mérelle Tower before the early 17:00 sunset, and finish the evening in the warm, lively Casino."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy Templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Autoheizung auf dem Weg dorthin ausgiebig und bewundern Sie dann die winterliche Architektur dieses historischen, stillen Ortes.",
+                "hu": "Használja ki az autófűtést az odavezető úton, majd gyönyörködjön e történelmi, békés hely lenyűgöző téli homlokzatában és meleg belső terében.",
+                "ro": "Profitați la maximum de căldura din mașină pe drum, apoi admirați arhitectura de iarnă a acestui loc istoric și liniștit din interior.",
+                "en": "Take full advantage of your car's heater on the short drive there, then step out briefly to admire the stunning winter architecture of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Saut des Cuves Wasserfall",
+                "hu": "Saut des Cuves Vízesés",
+                "ro": "Cascada Saut des Cuves",
+                "en": "Saut des Cuves Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre, massive Eisformationen umgeben im Winter oft die Wasserfälle; seien Sie aber sehr vorsichtig auf den vereisten und gefährlichen Fußwegen.",
+                "hu": "A vízesést télen gyakran látványos, masszív jégképződmények övezik; azonban legyen rendkívül óvatos a fagyos, veszélyes megközelítési ösvényeken.",
+                "ro": "Formațiuni masive de gheață spectaculoase înconjoară adesea cascada iarna; fiți foarte atenți pe cărările înghețate și extrem de periculoase.",
+                "en": "Spectacular, massive ice formations often completely surround the falls in winter; however, be highly cautious of the icy, treacherous footpaths."
+              }
+            },
+            {
+              "name": {
+                "de": "Gérardmersee",
+                "hu": "Gérardmer-tó",
+                "ro": "Lacul Gérardmer",
+                "en": "Lake Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit dem Auto direkt ans Ufer, um den atemberaubenden gefrorenen See zu sehen, ohne den brutalen, beißenden Winterwinden ausgesetzt zu sein.",
+                "hu": "Guruljon az autóval közvetlenül a partra, hogy a lenyűgöző befagyott tó látványát a brutálisan csípős téli szelek elszenvedése nélkül élvezhesse.",
+                "ro": "Conduceți până pe mal pentru a vedea lacul înghețat uimitor fără a fi expus la vânturile brutale și tăioase specifice iernii.",
+                "en": "Drive right up to the water's edge to safely view the breathtakingly frozen lake without exposing yourself to the brutally biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Skigebiet La Mauselaine",
+                "hu": "La Mauselaine Síközpont",
+                "ro": "Stațiunea de Schi La Mauselaine",
+                "en": "La Mauselaine Ski Resort"
+              },
+              "tip_5lang": {
+                "de": "Die absolute Hauptsaison für Wintersportler! Parken Sie direkt im Skigebiet, leihen Sie Ihre Ausrüstung und genießen Sie die bestens präparierten Pisten.",
+                "hu": "Az abszolút főszezon a téli sportok kedvelőinek! Parkoljon a helyszínen, béreljen felszerelést, és élvezze a kiválóan karbantartott, havas lejtőket.",
+                "ro": "Sezonul de vârf absolut pentru sporturile de iarnă! Parcați la fața locului, închiriați echipament și bucurați-vă de pârtiile perfect amenajate.",
+                "en": "The absolute prime time for winter sports! Park conveniently on-site, rent any needed equipment, and thoroughly enjoy the beautifully groomed snowy slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Acro-Sphère",
+                "hu": "Acro-Sphère",
+                "ro": "Acro-Sphère",
+                "en": "Acro-Sphère"
+              },
+              "tip_5lang": {
+                "de": "Eine eiskalte, aber lohnenswerte Herausforderung; der Kofferraum Ihres Autos ist der ideale Ort, um vor dem Klettern dicke Wintersportkleidung anzuziehen.",
+                "hu": "Jéghideg, de megéri a kihívást; az autó csomagtartója ideális bázis a vastag téli sportruházat felvételéhez a mászópark meghódítása előtt.",
+                "ro": "O provocare înghețată, dar plină de satisfacții; portbagajul mașinii este ideal pentru a vă echipa cu haine groase înainte de a începe cățărarea.",
+                "en": "A freezing but highly rewarding challenge; your car trunk serves as the perfect basecamp to layer up in thick winter sports gear before climbing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérelle-Turm",
+                "hu": "Mérelle-torony",
+                "ro": "Turnul Mérelle",
+                "en": "Mérelle Tower"
+              },
+              "tip_5lang": {
+                "de": "Winterreifen sind zwingend erforderlich für die steile Anfahrt; stellen Sie sicher, dass Sie den Parkplatz weit vor der Dunkelheit um 17:00 Uhr verlassen.",
+                "hu": "A meredek felhajtóhoz a téli gumi kötelező; ügyeljen arra, hogy még jóval a 17:00 órás sötétedés előtt biztonságosan elhagyja a fagyos parkolót.",
+                "ro": "Anvelopele de iarnă sunt absolut necesare pentru drumul abrupt; asigurați-vă că părăsiți parcarea mult înainte de lăsarea întunericului la 17:00.",
+                "en": "Winter tires are strictly mandatory for the steep drive up; ensure you safely leave the icy parking area well before complete darkness hits at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino von Gérardmer",
+                "hu": "Gérardmer Kaszinó",
+                "ro": "Cazinoul din Gérardmer",
+                "en": "Casino of Gérardmer"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr eleganter und warmer Abschluss Ihres Wintertages; lassen Sie das kalte Auto stehen und genießen Sie den beheizten Luxus des Spielcasinos.",
+                "hu": "Rendkívül elegáns és meleg lezárása a téli autózásnak; hagyja kint a hideg járművet, és adja át magát a játékkaszinó fűtött, kényelmes luxusának.",
+                "ro": "Un final foarte elegant și cald pentru ziua dvs. de iarnă; lăsați mașina rece afară și bucurați-vă de luxul complet încălzit al cazinoului.",
+                "en": "A highly elegant and completely warm conclusion to your winter driving day; leave the freezing car outside and indulge in the heated casino luxury."
+              }
+            }
+          ]
+        }
       }
     }
   }

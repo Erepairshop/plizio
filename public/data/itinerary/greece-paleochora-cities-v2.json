@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Paleochora kulturális központjának és a lenyűgöző velencei romoknak a felfedezésével. Délben pihenjen meg a kellemes rekreációs övezetekben és élvezze a krétai hangulatot. A délután napsütötte homokos strandokon való pihenésre csábít. Zárja a napot egy békés tengerparti helyen, ahol a naplemente felejthetetlen színekre festi az eget a kavicsok felett.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Paleochora și ruinele venețiene impresionante. La prânz, relaxați-vă în zonele de agrement plăcute, bucurându-vă de atmosfera locală. După-amiaza vă invită să vă relaxați pe plajele cu nisip auriu. Încheiați-vă ziua într-un loc de coastă liniștit, unde apusul pictează cerul în culori de neuitat peste țărmul cu pietriș.",
         "en": "Start your morning exploring the cultural heart of Paleochora and the striking Venetian ruins that overlook the sea. By midday, take a relaxing break to soak in the quintessential Cretan atmosphere at local recreational spots. The afternoon invites you to unwind on sun-drenched sandy beaches. End your day at a peaceful coastal stretch where the sunset paints the sky in unforgettable colors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Museum Schutz vor dem Regen. Mittags erkunden wir die Burgruine zwischen den Schauern. Nachmittags erleben wir die raue Schönheit der Strände unter grauem Himmel, wobei die salzige Gischt mit dem Regen verschmilzt. Abends kehren wir durch die glänzenden Gassen Paleochoras zurück, wo sich die Lichter in den Pfützen spiegeln und eine melancholische Atmosphäre schaffen.",
+            "hu": "A reggelt a múzeum falai között kezdjük, védve az esőtől. Délben a várromok között sétálunk, kihasználva a záporok közti szüneteket. Délután a tengerpartok drámai arcát csodáljuk meg a szürke égbolt alatt, ahol a sós permet keveredik az esővel. Este a vizes aszfalton megcsillanó fények kísérnek minket vissza a városba, Paleochora ilyenkor egy egészen különleges, melankolikus arcát mutatja.",
+            "ro": "Dimineața muzeul oferă adăpost împotriva ploii. La prânz explorăm ruinele castelului profitând de pauzele dintre averse. După-amiaza admirăm frumusețea dramatică a plajelor sub cerul cenușiu, unde spray-ul sărat se amestecă cu picăturile de ploaie. Seara ne întoarcem pe străzile lucioase din Paleochora, unde luminile se reflectă în bălți, creând o atmosferă nostalgică și liniștită.",
+            "en": "Morning starts in the museum, staying dry while learning history. At noon we explore the castle ruins between showers. In the afternoon, the beaches show a dramatic side under grey skies, with sea spray mixing with rain. By evening, we return through the glistening streets of Paleochora, where lights reflect in puddles, creating a unique and melancholic atmosphere in the coastal town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paleiochora",
+                "hu": "Paleiochora",
+                "ro": "Paleiochora",
+                "en": "Paleiochora"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um die reiche Geschichte der Region im Trockenen zu studieren, während draußen der Regen auf die Pflastersteine peitscht.",
+                "hu": "Használja ki a múzeumi időt a régió gazdag történelmének felfedezésére a fedett kiállítótérben, amíg kint az eső veri a hangulatos utcák kövezetét.",
+                "ro": "Profită de timpul petrecut în muzeu pentru a studia istoria bogată a regiunii la adăpost, în timp ce afară ploaia bate pe pavajul străzilor vechi.",
+                "en": "Take your time inside the museum to study the region's rich history in the dry, while outside the rain lashes down on the charming cobblestone streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Selinos",
+                "hu": "Selinos vára",
+                "ro": "Castelul Selinos",
+                "en": "Castle of Selinos"
+              },
+              "tip_5lang": {
+                "de": "Die Steine der Ruine können bei Nässe sehr rutschig sein; tragen Sie festes Schuhwerk und genießen Sie den dramatischen Blick auf das stürmische Libysche Meer.",
+                "hu": "A vár kövei esőben nagyon csúszósak lehetnek; viseljen tapadós talpú cipőt és csodálja meg a drámai kilátást a viharos Líbiai-tengerre a bástyákról.",
+                "ro": "Pietrele castelului pot fi foarte alunecoase când sunt ude; poartă încălțăminte adecvată și admiră vederea dramatică spre marea învolburată de pe ziduri.",
+                "en": "The castle stones can be very slippery when wet; wear sturdy footwear and enjoy the dramatic views of the stormy Libyan Sea from the ancient ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Methexis",
+                "hu": "Methexis",
+                "ro": "Methexis",
+                "en": "Methexis"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter den Arkaden und beobachten Sie, wie die Regentropfen kleine Kreise auf der Meeresoberfläche bilden.",
+                "hu": "Hirtelen zápor esetén keressen menedéket a fedett részek alatt, és figyelje, ahogy az esőcseppek apró köröket rajzolnak a tenger nyugtalan felszínére.",
+                "ro": "În caz de aversă bruscă, caută adăpost sub zonele acoperite și observă cum picăturile de ploaie desenează cercuri mici pe suprafața neliniștită a mării.",
+                "en": "In case of a sudden downpour, seek shelter under covered areas and watch as the raindrops create tiny ripples on the restless surface of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Beach",
+                "hu": "Sandy Beach",
+                "ro": "Sandy Beach",
+                "en": "Sandy Beach"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand ist herrlich fest zum Laufen; ein Spaziergang am Ufer mit einem stabilen Regenschirm offenbart die wilde Seite der kretischen Küste.",
+                "hu": "A vizes homok kiválóan alkalmas a sétára; egy parti séta egy szélálló esernyővel felfedi a krétai tengerpart vad és érintetlen arcát az esőben.",
+                "ro": "Nisipul ud este ideal pentru plimbare; o ieșire pe mal cu o umbrelă rezistentă îți va dezvălui latura sălbatică a coastei cretane sub ploaie.",
+                "en": "The wet sand is perfectly firm for walking; a stroll along the shore with a windproof umbrella reveals the wild and raw side of the Cretan coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoney Beach",
+                "hu": "Stoney Beach",
+                "ro": "Stoney Beach",
+                "en": "Stoney Beach"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Kieselsteine leuchten bei Regen besonders intensiv; achten Sie auf den Wellengang und halten Sie Abstand zur Brandung bei starkem Wind.",
+                "hu": "A színes kavicsok esőben különösen élénken ragyognak; ügyeljen a hullámzásra és tartson biztonságos távolságot a parttól erős szél esetén.",
+                "ro": "Pietrele colorate strălucesc intens în ploaie; fii atent la valuri și păstrează o distanță sigură de mal dacă vântul este puternic și marea agitată.",
+                "en": "The colorful pebbles glow intensely in the rain; pay attention to the waves and keep a safe distance from the surf if the wind is blowing hard."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, ideal für den Museumsbesuch. Mittags wärmt die milde kretische Sonne die Burgruine, von der aus man die schneebedeckten Weißen Berge sehen kann. Der Nachmittag gehört den einsamen Stränden, wo man die Stille genießt. Da die Sonne bereits gegen 17:00 Uhr untergeht, ziehen wir uns früh in ein gemütliches Café im Ortskern zurück, um den Tag ausklingen zu lassen.",
+            "hu": "A téli reggel friss és tiszta, tökéletes a múzeumi barangoláshoz. Délben a gyenge napfény megvilágítja a várat, ahonnan látni lehet a távoli Fehér-hegység havas csúcsait. A délután az elhagyatott strandoké, ahol a csend uralkodik. Mivel a nap már 17:00 körül lenyugszik, korán behúzódunk egy barátságos, fűtött tavernákba a városközpontban, hogy megmelegedjünk és megvacsorázzunk.",
+            "ro": "Dimineața de iarnă este răcoroasă și senină, ideală pentru vizitarea muzeului. La prânz, soarele blând luminează castelul, oferind o priveliște superbă spre munții înzăpeziți. După-amiaza aparține plajelor pustii unde domină liniștea. Deoarece soarele apune deja în jur de ora 17:00, ne retragem devreme într-o tavernă primitoare din centru pentru a ne încălzi și a lua cina.",
+            "en": "The winter morning is crisp and clear, perfect for a museum visit. At noon, the mild sun warms the castle ruins, offering views of the snowy White Mountains. The afternoon is spent on solitary beaches enjoying the peace. As the sun sets around 17:00, we head early to a cozy local tavern to warm up and enjoy a hearty meal as the night falls quickly over Paleochora."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paleiochora",
+                "hu": "Paleiochora",
+                "ro": "Paleiochora",
+                "en": "Paleiochora"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison im Museum; ziehen Sie sich warm an, da die alten Steinmauern im Winter die Kälte speichern können.",
+                "hu": "Élvezze a holtszezon nyugalmát a múzeumban; öltözzön rétegesen, mert a vastag kőfalak télen alaposan átveszik a kinti hűvös levegőt.",
+                "ro": "Bucură-te de liniștea din extrasezon în muzeu; îmbracă-te bine, deoarece zidurile vechi de piatră pot menține răcoarea pe timpul iernii.",
+                "en": "Enjoy the off-season peace in the museum; dress in layers as the thick stone walls can hold the winter chill inside the exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Selinos",
+                "hu": "Selinos vára",
+                "ro": "Castelul Selinos",
+                "en": "Castle of Selinos"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Sicht oft am klarsten; suchen Sie am Horizont nach den schneebedeckten Gipfeln der Weißen Berge hinter der Küstenlinie.",
+                "hu": "Télen a legtisztább a látótávolság; keresse a látóhatáron a Fehér-hegység hófödte csúcsait, amelyek lenyűgöző kontrasztot alkotnak a tengerrel.",
+                "ro": "Iarna vizibilitatea este adesea maximă; caută la orizont vârfurile înzăpezite ale Munților Albi care creează un contrast superb cu marea albastră.",
+                "en": "Visibility is often clearest in winter; look for the snow-capped peaks of the White Mountains on the horizon behind the rugged coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Methexis",
+                "hu": "Methexis",
+                "ro": "Methexis",
+                "en": "Methexis"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine windfeste Jacke, da die Meeresbrise im Winter recht kühl sein kann, auch wenn die Sonne mittags angenehm scheint.",
+                "hu": "Viseljen szélálló dzsekit, mert a tengeri szellő télen meglehetősen hűvös lehet, még akkor is, ha a déli napsütés csalókán melegnek tűnik.",
+                "ro": "Poartă o jachetă rezistentă la vânt, deoarece briza mării poate fi destul de rece iarna, chiar dacă soarele de la prânz pare plăcut.",
+                "en": "Wear a windproof jacket, as the sea breeze can be quite chilly in winter, even if the noon sun feels deceptively warm on your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Beach",
+                "hu": "Sandy Beach",
+                "ro": "Sandy Beach",
+                "en": "Sandy Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzten Sonnenstrahlen für einen zügigen Marsch im Sand, bevor die Temperatur nach dem frühen Sonnenuntergang rasch sinkt.",
+                "hu": "Használja ki az utolsó napsugarakat egy tempós sétára a homokban, mielőtt a hőmérséklet a korai naplemente után gyorsan csökkenni kezdene.",
+                "ro": "Profită de ultimele raze de soare pentru o plimbare rapidă pe nisip, înainte ca temperatura să scadă brusc după apusul devreme.",
+                "en": "Take advantage of the last rays of sun for a brisk walk on the sand before the temperature drops rapidly after the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoney Beach",
+                "hu": "Stoney Beach",
+                "ro": "Stoney Beach",
+                "en": "Stoney Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt hier im Winter bereits gegen 16:30 Uhr; ein Taschenwärmer in der Jackentasche macht das Warten auf den Sonnenuntergang angenehmer.",
+                "hu": "A szürkület télen már 16:30 körül elkezdődik; egy zsebmelegítő a kabátzsebben sokkal kellemesebbé teszi a naplemente megvárását a parton.",
+                "ro": "Amurgul începe aici iarna deja în jur de ora 16:30; un încălzitor de buzunar în jachetă va face așteptarea apusului mult mai confortabilă.",
+                "en": "Twilight starts as early as 16:30 in winter; a pocket warmer in your jacket will make waiting for the sunset on the beach much more comfortable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a reggelt Paleochora kulturális központjának és a tengerre néző lenyűgöző velencei romoknak a felfedezésével. Délben az ősi kőbányák történelmi rejtélyei és csendes öblök várják. A délután úszásra és napsütötte partszakaszokon való pihenésre csábít. Zárja a napot egy békés tengerparton, ahol a naplemente felejthetetlen színekre festi az eget.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Paleochora și ruinele venețiene impresionante cu vedere la mare. La prânz, veți descoperi misterele istorice ale carierelor antice și golfuri mai liniștite. După-amiaza vă invită să înotați și să vă relaxați pe plajele însorite. Încheiați-vă ziua pe o plajă liniștită, unde apusul pictează cerul în culori de neuitat.",
         "en": "Start your morning exploring the cultural heart of Paleochora and the striking Venetian ruins that overlook the sea. By midday, you'll uncover the historical mysteries of ancient quarries and discover quieter bays. The afternoon invites you to swim and relax on sun-drenched coastal stretches. End your active day at a peaceful pebble beach watching a spectacular sunset over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den rutschigen Straßen Paleochoras. Wir starten trocken im Museum und radeln dann vorsichtig zur Burg. Der Ausflug zum Steinbruch führt über nasse Wege, die eine mystische Atmosphäre ausstrahlen. Nachmittags besuchen wir die Küstenabschnitte, wobei wir stets auf Bremswege achten. Abends stellen wir die Räder sicher ab und wärmen uns nach der feuchten Tour auf.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Paleochora csúszós útjain. Szárazon kezdünk a múzeumban, majd óvatosan tekerünk a várhoz. A kőbányához vezető út vizesen misztikus hangulatot áraszt. Délután a tengerparti szakaszokat látogatjuk meg, ügyelve a megnövekedett fékútra. Este biztonságba helyezzük a bringákat, és egy forró ital mellett melegszünk fel a vizes túra után.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile alunecoase din Paleochora. Începem la uscat în muzeu, apoi pedalăm cu grijă spre castel. Drumul spre carieră are o atmosferă mistică pe ploaie. După-amiaza vizităm zonele de coastă, fiind atenți la distanța de frânare. Seara parcăm bicicletele în siguranță și ne încălzim după această tură umedă și răcoroasă.",
+            "en": "Cycling in the rain requires extra caution on Paleochora's slippery roads. We start dry at the museum, then pedal carefully to the castle. The route to the quarry feels mystical in the mist and rain. In the afternoon, we visit the coastal spots, always mindful of longer braking distances. In the evening, we park the bikes and warm up after a damp but refreshing tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paleiochora",
+                "hu": "Paleiochora",
+                "ro": "Paleiochora",
+                "en": "Paleiochora"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Vordach, bevor Sie das Museum betreten, um den Sattel für die Weiterfahrt trocken zu halten.",
+                "hu": "Parkolja le a kerékpárt egy előtető alá a múzeumlátogatás előtt, hogy a nyereg száraz maradjon a következő szakaszra a szakadó esőben.",
+                "ro": "Parchează bicicleta sub un acoperiș înainte de a intra în muzeu pentru a păstra șaua uscată pentru următoarea etapă a traseului.",
+                "en": "Park your bike under an overhang before entering the museum to keep your saddle dry for the next leg of your journey in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Selinos",
+                "hu": "Selinos vára",
+                "ro": "Castelul Selinos",
+                "en": "Castle of Selinos"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg kann auf nassem Asphalt rutschig sein; schalten Sie in einen niedrigen Gang und treten Sie gleichmäßig in die Pedale.",
+                "hu": "A várhoz vezető emelkedő a vizes aszfalton csúszós lehet; váltson alacsonyabb sebességfokozatba és tekerjen egyenletesen az emelkedőn.",
+                "ro": "Urcarea spre castel poate fi alunecoasă pe asfaltul ud; schimbă într-o viteză inferioară și pedalează constant pentru a menține tracțiunea.",
+                "en": "The climb to the castle can be slippery on wet asphalt; switch to a lower gear and pedal steadily to maintain traction on the slope."
+              }
+            },
+            {
+              "name": {
+                "de": "Hones Mühlsteinbruch",
+                "hu": "Hones malomkőbánya",
+                "ro": "Cariera de pietre de moară Hones",
+                "en": "Hones Millstone Quarry"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Steinbruch kann schlammige Stellen aufweisen; Schutzbleche am Rad sind heute Ihr bester Freund gegen aufwirbelndes Wasser.",
+                "hu": "A kőbányához vezető úton sáros szakaszok lehetnek; a sárvédő ma a legjobb barátja lesz a felverődő víz és sár ellen a túra során.",
+                "ro": "Drumul spre carieră poate avea porțiuni noroioase; aripile bicicletei sunt azi cel mai bun aliat împotriva apei și noroiului împroșcat.",
+                "en": "The path to the quarry may have muddy spots; mudguards on your bike will be your best friend today against splashing water and dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Pselos Bolakas",
+                "hu": "Paralia Pselos Bolakas",
+                "ro": "Paralia Pselos Bolakas",
+                "en": "Paralia Pselos Bolakas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten, während Sie entlang der Küste zu diesem abgelegenen Strandabschnitt radeln.",
+                "hu": "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek, miközben a tengerpart mentén teker e felé az eldugott partszakasz felé.",
+                "ro": "Fii atent la bălțile care ar putea ascunde gropi adânci în timp ce pedalezi de-a lungul coastei spre această plajă izolată.",
+                "en": "Watch out for puddles that might hide deep potholes while you cycle along the coast towards this secluded stretch of beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalamia",
+                "hu": "Paralia Kalamia",
+                "ro": "Paralia Kalamia",
+                "en": "Paralia Kalamia"
+              },
+              "tip_5lang": {
+                "de": "Die Bremsen brauchen bei Nässe länger; fangen Sie frühzeitig an zu verzögern, wenn Sie sich diesem Strandabschnitt nähern.",
+                "hu": "A fékek lassabban fognak a nedves felnin; kezdje meg időben a lassítást, amikor megközelíti ezt a kavicsos tengerparti szakaszt.",
+                "ro": "Frânele reacționează mai greu pe jantele ude; începe să decelerezi din timp când te apropii de această zonă de plajă.",
+                "en": "Brakes take longer to work on wet rims; start slowing down well in advance when approaching this pebbly beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Beach",
+                "hu": "Sandy Beach",
+                "ro": "Sandy Beach",
+                "en": "Sandy Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt in den nassen Sand zu fahren; parken Sie am festen Rand, damit die Reifen nicht einsinken.",
+                "hu": "Kerülje el, hogy közvetlenül a vizes homokba hajtson a biciklivel; parkoljon a szilárd út szélén, hogy ne süllyedjenek el a kerekek.",
+                "ro": "Evită să intri cu bicicleta direct pe nisipul ud; parchează pe marginea solidă a drumului pentru ca roțile să nu se afunde în sol.",
+                "en": "Avoid cycling directly onto the wet sand; park your bike on the solid roadside so the tires don't sink into the soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoney Beach",
+                "hu": "Stoney Beach",
+                "ro": "Stoney Beach",
+                "en": "Stoney Beach"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie die Kette nach der Tour kurz ab, um Korrosion durch das salzige Regenwasser zu verhindern, sobald Sie wieder im Trockenen sind.",
+                "hu": "A túra után törölje át a láncot egy ronggyal, hogy megelőzze a sós esővíz okozta korróziót, amint visszaér a fedett szállásra.",
+                "ro": "După tură, șterge lanțul cu o cârpă pentru a preveni coroziunea cauzată de apa de ploaie sărată, imediat ce ajungi la adăpost.",
+                "en": "After your tour, wipe down the chain with a cloth to prevent corrosion from the salty rainwater as soon as you get back to safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Paleochora bietet leere Straßen und kühle Luft. Der Morgen beginnt mit Kultur im Museum, gefolgt von einer sonnigen Fahrt zur Burg. Mittags radeln wir zum Steinbruch und genießen die klare Sicht auf die Berge. Die Küstenfahrt am Nachmittag ist erfrischend und friedlich. Da es früh dunkel wird, planen wir die Rückkehr bis 17:00 Uhr ein und beenden den Tag bei einem warmen Getränk.",
+            "hu": "A téli kerékpártúra Paleochorában üres utakat és friss levegőt kínál. A reggel kulturálisan indul a múzeumban, majd napsütéses tekerés következik a várhoz. Délben a kőbányához tekerünk, élvezve a hegyekre nyíló tiszta kilátást. A délutáni parti szakasz frissítő és békés. Mivel korán sötétedik, a visszatérést 17:00-ig tervezzük, és egy forró itallal zárjuk a napot.",
+            "ro": "O tură de iarnă cu bicicleta în Paleochora oferă străzi pustii și aer curat. Dimineața începe cu vizitarea muzeului, urmată de o plimbare însorită spre castel. La prânz pedalăm spre carieră, admirând munții clar vizibili. Traseul de coastă de după-amiază este revigorant. Deoarece se întunecă devreme, planificăm întoarcerea până la ora 17:00 și încheiem ziua cu o băutură caldă.",
+            "en": "A winter bike tour in Paleochora offers empty roads and crisp, refreshing air. The morning starts with culture at the museum, followed by a sunny ride to the castle. At noon we pedal to the quarry, enjoying clear mountain views. The afternoon coastal ride is peaceful and revitalizing. As it gets dark early, we plan to be back by 17:00 and finish the day with a hot drink in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paleiochora",
+                "hu": "Paleiochora",
+                "ro": "Paleiochora",
+                "en": "Paleiochora"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Vollfinger-Handschuhe für die Fahrt; auch wenn es sonnig ist, kann der Fahrtwind im Winter Ihre Hände schnell auskühlen.",
+                "hu": "Viseljen zárt kesztyűt a tekeréshez; még ha napos is az idő, a menetszél télen nagyon hamar lehűtheti az ujjait a kormányon.",
+                "ro": "Poartă mănuși cu degete lungi pentru plimbare; chiar dacă e soare, vântul creat prin deplasare îți poate răci rapid mâinile iarna.",
+                "en": "Wear full-finger gloves for the ride; even if it's sunny, the wind chill from cycling can quickly cool down your hands in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Selinos",
+                "hu": "Selinos vára",
+                "ro": "Castelul Selinos",
+                "en": "Castle of Selinos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milde Mittagssonne auf den Mauern der Burg, um Vitamin D zu tanken und die klare Sicht über die Bucht zu genießen.",
+                "hu": "Használja ki a gyenge déli napsütést a várfalakon, hogy feltöltődjön D-vitaminnal és gyönyörködjön az öbölre nyíló kristálytiszta panorámában.",
+                "ro": "Profită de soarele blând de la prânz de pe zidurile castelului pentru a te încălzi și a admira panorama clară asupra golfului.",
+                "en": "Take advantage of the mild noon sun on the castle walls to soak up some Vitamin D and enjoy the crystal-clear views over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Hones Mühlsteinbruch",
+                "hu": "Hones malomkőbánya",
+                "ro": "Cariera de pietre de moară Hones",
+                "en": "Hones Millstone Quarry"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm; oben angekommen sollten Sie eine Weste überziehen, um während der Besichtigung nicht auszukühlen.",
+                "hu": "Az emelkedő melegen tartja, de amint felért, érdemes felvenni egy mellényt, hogy a nézelődés közben ne hűljön ki a teste a szélben.",
+                "ro": "Urcarea te va menține cald, dar odată ajuns sus, pune-ți o vestă pe tine pentru a nu răci în timp ce explorezi zona carierei.",
+                "en": "The climb will keep you warm, but once you arrive, put on a vest to ensure you don't get a chill while exploring the quarry site."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Pselos Bolakas",
+                "hu": "Paralia Pselos Bolakas",
+                "ro": "Paralia Pselos Bolakas",
+                "en": "Paralia Pselos Bolakas"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind Sie hier oft ganz allein; genießen Sie die Einsamkeit, aber behalten Sie die Zeit für den Rückweg im Auge.",
+                "hu": "Télen gyakran teljesen egyedül lesz itt; élvezze a magányt, de tartsa szem előtt a visszatéréshez szükséges időt a sötétedés előtt.",
+                "ro": "Iarna vei fi adesea singur aici; bucură-te de izolare, dar monitorizează timpul necesar pentru întoarcere înainte de lăsarea serii.",
+                "en": "In winter you'll often be completely alone here; enjoy the solitude but keep track of the time needed to cycle back before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalamia",
+                "hu": "Paralia Kalamia",
+                "ro": "Paralia Kalamia",
+                "en": "Paralia Kalamia"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist fantastisch für Fotos; die tiefstehende Sonne betont die Konturen der kretischen Küstenlandschaft.",
+                "hu": "A délutáni fények fantasztikusak fotózáshoz; az alacsonyan járó nap hangsúlyozza a krétai partvidék különleges és nyers kontúrjait.",
+                "ro": "Lumina de după-amiază este fantastică pentru fotografii; soarele jos accentuează contururile peisajului de coastă cretan.",
+                "en": "The afternoon light is fantastic for photography; the low winter sun emphasizes the rugged contours of the Cretan coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Beach",
+                "hu": "Sandy Beach",
+                "ro": "Sandy Beach",
+                "en": "Sandy Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, falls Sie sich doch etwas verspäten und in die frühe Dämmerung kommen.",
+                "hu": "Győződjön meg róla, hogy a kerékpáros lámpái működnek, ha esetleg kicsit elidőzne és elkapná a korai téli szürkület a parton.",
+                "ro": "Asigură-te că luminile bicicletei sunt funcționale în cazul în care vei întârzia puțin și te va prinde amurgul devreme pe drum.",
+                "en": "Make sure your bike lights are functional in case you linger a bit too long and get caught in the early winter twilight on your way back."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoney Beach",
+                "hu": "Stoney Beach",
+                "ro": "Stoney Beach",
+                "en": "Stoney Beach"
+              },
+              "tip_5lang": {
+                "de": "Da die Temperatur nach 17:00 Uhr schnell sinkt, radeln Sie zügig zurück in den Ort, um noch im Tageslicht anzukommen.",
+                "hu": "Mivel a hőmérséklet 17:00 után gyorsan esik, tekerjen tempósan vissza a városba, hogy még természetes fénynél érjen célba.",
+                "ro": "Deoarece temperatura scade rapid după ora 17:00, pedalează vioi înapoi spre oraș pentru a ajunge pe lumină la destinație.",
+                "en": "As the temperature drops quickly after 17:00, cycle briskly back to town to arrive while there is still some natural light left."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje a reggelt Paleochora kulturális központjának és a tengerre néző lenyűgöző velencei romoknak a felfedezésével. Délben vezessen az ősi kőbányák történelmi rejtélyeihez és vadabb partokhoz. A délután változatos partszakaszok bejárására és strandolásra csábít. Zárja rugalmas autós utazását egy békés tengerparton, ahol a naplemente csodás színekre festi az eget.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Paleochora și ruinele venețiene impresionante. La prânz, conduceți către misterele istorice ale carierelor antice și plajele mai sălbatice. După-amiaza vă invită să explorați diverse plaje de pe coastă. Încheiați-vă ziua flexibilă cu mașina pe o plajă liniștită, unde apusul pictează cerul în culori de neuitat.",
         "en": "Start your morning exploring the cultural heart of Paleochora and the striking Venetian ruins that overlook the sea. By midday, drive out to uncover the historical mysteries of ancient quarries and wilder shores. The afternoon invites you to beach-hop along the sun-drenched coast, stopping at various serene bays. End your flexible road trip at a peaceful pebble stretch watching a spectacular sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Paleochora bei Regen ganz entspannt. Wir parken direkt am Museum und genießen die Kultur im Trockenen. Die Fahrt zur Burg und zum Steinbruch bietet tolle Ausblicke aus dem warmen Innenraum. Nachmittags steuern wir verschiedene Strände an und machen kurze Spaziergänge zwischen den Güssen. Abends finden wir leicht einen Parkplatz nahe einer gemütlichen Taverne.",
+            "hu": "Autóval kényelmesen fedezhetjük fel Paleochorát esőben is. Közvetlenül a múzeumnál parkolunk, és szárazon élvezzük a kultúrát. A várhoz és a kőbányához vezető út során az ablakon át csodáljuk a tájat a fűtött utastérből. Délután több strandot is útba ejtünk, rövid sétákat téve a záporok között. Este könnyen találunk parkolót egy barátságos taverna közelében a vacsorához.",
+            "ro": "Cu mașina explorăm Paleochora relaxat chiar și pe ploaie. Parcăm direct lângă muzeu și ne bucurăm de cultură la adăpost. Drumul spre castel și carieră oferă vederi superbe din interiorul cald al mașinii. După-amiaza vizităm diverse plaje, făcând scurte plimbări între averse. Seara găsim ușor loc de parcare aproape de o tavernă primitoare pentru a încheia ziua.",
+            "en": "By car, we explore Paleochora comfortably even in the rain. We park right by the museum and enjoy the culture in the dry. The drive to the castle and quarry offers great views from the warm interior. In the afternoon, we head to various beaches, taking short strolls between the downpours. In the evening, we easily find a parking spot near a cozy tavern for a relaxed dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paleiochora",
+                "hu": "Paleiochora",
+                "ro": "Paleiochora",
+                "en": "Paleiochora"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nahe dem Eingang; so kommen Sie fast ohne nass zu werden in das interessante Museumgebäude.",
+                "hu": "Használja a bejárathoz közeli parkolót; így szinte teljesen szárazon juthat be az érdekes kiállításokat rejtő múzeumba az esőben.",
+                "ro": "Folosește parcarea de lângă intrare; astfel vei ajunge în muzeu aproape fără să te uzi, chiar dacă plouă torențial afară.",
+                "en": "Use the parking lot near the entrance; this way you can get into the interesting museum building almost without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Selinos",
+                "hu": "Selinos vára",
+                "ro": "Castelul Selinos",
+                "en": "Castle of Selinos"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen; die Burgruine ist auch bei Regen ein lohnendes Ziel für ein schnelles Foto.",
+                "hu": "Ne hagyjon értéktárgyakat látható helyen az autóban; a várrom esőben is hálás fotótéma, érdemes kiszállni egy gyors kép erejéig.",
+                "ro": "Nu lăsa obiecte de valoare la vedere în mașină; ruinele castelului sunt un subiect foto excelent chiar și pe ploaie pentru o oprire rapidă.",
+                "en": "Do not leave valuables visible in the car; the castle ruins are a rewarding photo subject even in the rain for a quick stop and click."
+              }
+            },
+            {
+              "name": {
+                "de": "Hones Mühlsteinbruch",
+                "hu": "Hones malomkőbánya",
+                "ro": "Cariera de pietre de moară Hones",
+                "en": "Hones Millstone Quarry"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zum Steinbruch kann bei Regen rutschig sein; fahren Sie vorsichtig und achten Sie auf Steinschlag an den Hängen.",
+                "hu": "A kőbányához vezető keskeny út esőben csúszós lehet; vezessen óvatosan és figyeljen az esetleges kőomlásokra a hegyoldalban.",
+                "ro": "Drumul îngust spre carieră poate fi alunecos pe ploaie; condu cu prudență și fii atent la eventualele căderi de pietre de pe versanți.",
+                "en": "The narrow road to the quarry can be slippery in the rain; drive carefully and watch out for potential rockfalls from the steep slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Trokhalou",
+                "hu": "Paralia Trokhalou",
+                "ro": "Paralia Trokhalou",
+                "en": "Paralia Trokhalou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen direkt aus dem Auto, wenn der Regen gerade zu stark für einen Spaziergang am Strand ist.",
+                "hu": "Élvezze a hullámok látványát közvetlenül az autóból, ha az eső éppen túl intenzív lenne egy tengerparti sétához ezen a szakaszon.",
+                "ro": "Admiră valurile direct din mașină dacă ploaia este prea intensă pentru o plimbare pe plajă în acest moment al vizitei tale.",
+                "en": "Enjoy the view of the waves directly from the car if the rain is currently too intense for a walk on the beach at this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Pselos Bolakas",
+                "hu": "Paralia Pselos Bolakas",
+                "ro": "Paralia Pselos Bolakas",
+                "en": "Paralia Pselos Bolakas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf unbefestigtem Untergrund darauf, nicht im Schlamm stecken zu bleiben; bleiben Sie auf den befestigten Wegen.",
+                "hu": "Parkoláskor ügyeljen a burkolatlan felületekre, nehogy elakadjon a sárban; próbáljon minél közelebb maradni a szilárd útburkolathoz.",
+                "ro": "Ai grijă când parchezi pe suprafețe neamenajate să nu rămâi blocat în noroi; încearcă să rămâi cât mai aproape de drumul asfaltat.",
+                "en": "Be careful when parking on unpaved surfaces so you don't get stuck in the mud; try to stay as close to the solid road as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalamia",
+                "hu": "Paralia Kalamia",
+                "ro": "Paralia Kalamia",
+                "en": "Paralia Kalamia"
+              },
+              "tip_5lang": {
+                "de": "Ein Regencape im Kofferraum ist ideal für kurze Erkundungen dieser steinigen Bucht, ohne dass man komplett durchnässt wird.",
+                "hu": "Egy esőköpeny a csomagtartóban ideális rövid felfedezőutakhoz ebben a köves öbölben, anélkül, hogy teljesen elázna a záporban.",
+                "ro": "O pelerină de ploaie în portbagaj este ideală pentru scurte explorări în acest golf pietros fără a te uda complet în timpul vizitei.",
+                "en": "A rain poncho in the trunk is ideal for short explorations of this stony bay without getting completely soaked during the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Beach",
+                "hu": "Sandy Beach",
+                "ro": "Sandy Beach",
+                "en": "Sandy Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Windschutzscheibe bietet einen tollen Rahmen für Fotos vom stürmischen Meer; nutzen Sie den Scheibenwischer für klare Sicht.",
+                "hu": "A szélvédő remek keretet ad a viharos tengerről készült fotókhoz; használja az ablaktörlőt a kristálytiszta kilátás és a jó kép érdekében.",
+                "ro": "Parbrizul oferă un cadru excelent pentru poze cu marea agitată; folosește ștergătoarele pentru o vedere clară și fotografii reușite.",
+                "en": "The windshield provides a great frame for photos of the stormy sea; use the wipers for a clear view and better photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoney Beach",
+                "hu": "Stoney Beach",
+                "ro": "Stoney Beach",
+                "en": "Stoney Beach"
+              },
+              "tip_5lang": {
+                "de": "Bevor Sie den Wagen für den Abend abstellen, prüfen Sie, ob alle Fenster fest geschlossen sind, um Feuchtigkeit im Innenraum zu vermeiden.",
+                "hu": "Mielőtt végleg leparkolna estére, ellenőrizze, hogy minden ablak jól be van-e zárva, hogy elkerülje az utastér bepárásodását.",
+                "ro": "Înainte de a parca definitiv pentru seară, verifică dacă toate geamurile sunt bine închise pentru a evita umezeala în interiorul mașinii.",
+                "en": "Before parking for the evening, check that all windows are tightly closed to prevent humidity and moisture from entering the cabin."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Sightseeing mit dem Auto in Paleochora ist besonders entspannt. Wir starten morgens im Museum und fahren mittags zur Burg, um die klare Bergsicht zu genießen. Die Tour zum Steinbruch und den abgelegenen Stränden ist dank Heizung auch an kühlen Tagen angenehm. Da die Sonne gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht voll aus und kehren pünktlich zum Abendessen in den Ort zurück.",
+            "hu": "A téli városnézés autóval Paleochorában rendkívül kényelmes. Reggel a múzeumban kezdünk, délben pedig a várhoz hajtunk a tiszta hegyi panorámáért. A kőbányához és a távolabbi strandokhoz vezető út a fűtésnek köszönhetően hűvös napokon is kellemes. Mivel a nap 17:00 körül nyugszik, maximálisan kihasználjuk a világos órákat, és időben visszatérünk a városba vacsorázni.",
+            "ro": "Explorarea de iarnă cu mașina în Paleochora este extrem de relaxantă. Începem dimineața la muzeu, iar la prânz mergem la castel pentru panorama clară spre munți. Drumul spre carieră și plajele îndepărtate este plăcut datorită căldurii din mașină. Deoarece soarele apune în jur de ora 17:00, profităm la maxim de lumină și ne întoarcem în oraș la timp pentru cină.",
+            "en": "Winter sightseeing by car in Paleochora is exceptionally relaxed. We start the morning at the museum and drive to the castle at noon for the clear mountain views. The trip to the quarry and distant beaches is comfortable even on chilly days thanks to the car's heater. As the sun sets around 17:00, we maximize the daylight hours and return to town in time for a warm dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paleiochora",
+                "hu": "Paleiochora",
+                "ro": "Paleiochora",
+                "en": "Paleiochora"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos einen Parkplatz direkt vor dem Museum; genießen Sie die exklusive Atmosphäre ohne die sommerlichen Touristenmassen.",
+                "hu": "Télen gond nélkül talál parkolót közvetlenül a múzeum előtt; élvezze az exkluzív hangulatot a nyári turistatömeg nélkül a kiállítótermekben.",
+                "ro": "Iarna vei găsi ușor loc de parcare chiar în fața muzeului; bucură-te de atmosfera exclusivistă fără mulțimile de turiști din timpul verii.",
+                "en": "In winter you'll easily find a parking spot right in front of the museum; enjoy the exclusive atmosphere without the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Selinos",
+                "hu": "Selinos vára",
+                "ro": "Castelul Selinos",
+                "en": "Castle of Selinos"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke; halten Sie Ihre Kamera bereit für das Panorama der schneebedeckten Berge im Hinterland.",
+                "hu": "A tiszta téli levegő nagy látótávolságot tesz lehetővé; tartsa készenlétben a fényképezőgépét a háttérben húzódó havas hegycsúcsok látványához.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate excelentă; pregătește camera pentru panorama munților înzăpeziți care se văd superb în fundal.",
+                "en": "The clear winter air allows for great visibility; keep your camera ready for the panorama of the snow-capped mountains in the hinterland."
+              }
+            },
+            {
+              "name": {
+                "de": "Hones Mühlsteinbruch",
+                "hu": "Hones malomkőbánya",
+                "ro": "Cariera de pietre de moară Hones",
+                "en": "Hones Millstone Quarry"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für Wohlbefinden auf der Fahrt zum Steinbruch; bei der Besichtigung schützt eine dicke Jacke vor dem kühlen Wind.",
+                "hu": "Az autó fűtése gondoskodik a kényelemről a kőbányához vezető úton; a nézelődés során egy vastag kabát védelmet nyújt a hűvös hegyi szél ellen.",
+                "ro": "Căldura din mașină asigură confortul pe drumul spre carieră; în timpul vizitei, o jachetă groasă te va proteja de vântul rece de munte.",
+                "en": "The car's heater ensures comfort on the drive to the quarry; during the visit, a thick jacket will protect you from the cool mountain wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Trokhalou",
+                "hu": "Paralia Trokhalou",
+                "ro": "Paralia Trokhalou",
+                "en": "Paralia Trokhalou"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Picknick im Auto mit Blick auf das Meer; die winterliche Einsamkeit an diesem Strand hat einen ganz besonderen Reiz.",
+                "hu": "Rendezzen egy kis pikniket az autóban a tengerre nézve; a strand téli elhagyatottsága és csendje egészen különleges és megnyugtató élmény.",
+                "ro": "Organizează un mic picnic în mașină cu vedere la mare; izolarea și liniștea acestei plaje pe timp de iarnă au un farmec aparte și relaxant.",
+                "en": "Have a small picnic in the car overlooking the sea; the winter solitude and silence of this beach have a very special and calming appeal."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Pselos Bolakas",
+                "hu": "Paralia Pselos Bolakas",
+                "ro": "Paralia Pselos Bolakas",
+                "en": "Paralia Pselos Bolakas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhrzeit; im Winter ist es hier nach 16:30 Uhr oft schon sehr schattig und die Temperaturen sinken spürbar.",
+                "hu": "Ügyeljen az időre; télen itt 16:30 után már gyakran árnyékos a part és a hőmérséklet érezhetően és gyorsan csökkenni kezd a völgyben.",
+                "ro": "Fii atent la oră; iarna, după ora 16:30, zona este deja umbrită, iar temperaturile scad considerabil și rapid în acest golf.",
+                "en": "Keep an eye on the time; in winter, this area is often already in shadow after 16:30 and temperatures drop noticeably and quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Kalamia",
+                "hu": "Paralia Kalamia",
+                "ro": "Paralia Kalamia",
+                "en": "Paralia Kalamia"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne im Winter sorgt für dramatische Schatten auf den Felsen; ideal für künstlerische Naturaufnahmen direkt vom Parkplatz aus.",
+                "hu": "Az alacsonyan járó téli nap drámai árnyékokat vet a sziklákra; ideális művészi természetfotókhoz közvetlenül a parkolóhely közeléből.",
+                "ro": "Soarele jos de iarnă creează umbre dramatice pe stânci; este momentul ideal pentru fotografii artistice direct din apropierea parcării.",
+                "en": "The low winter sun casts dramatic shadows on the rocks; it's ideal for artistic nature photography right from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandy Beach",
+                "hu": "Sandy Beach",
+                "ro": "Sandy Beach",
+                "en": "Sandy Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Sonnenuntergang bequem vom Fahrersitz aus beobachten können, falls es draußen für ein langes Stehen zu kühl ist.",
+                "hu": "Parkoljon úgy, hogy kényelmesen, a vezetőülésből nézhesse végig a naplementét, ha kint már túl hűvös lenne a hosszabb álldogáláshoz.",
+                "ro": "Parchează astfel încât să poți urmări apusul confortabil din scaunul șoferului, în cazul în care afară este prea rece pentru a sta mult timp.",
+                "en": "Park so that you can comfortably watch the sunset from the driver's seat, in case it's too chilly outside for standing on the beach for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoney Beach",
+                "hu": "Stoney Beach",
+                "ro": "Stoney Beach",
+                "en": "Stoney Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Rückfahrt in den Ort dauert nur wenige Minuten; schalten Sie das Abblendlicht ein, da die Dämmerung im Winter sehr schnell fortschreitet.",
+                "hu": "A visszautat a városba csak pár percet vesz igénybe; kapcsolja be a fényszórókat, mert a téli szürkület meglepően gyorsan sötétségbe fordul.",
+                "ro": "Întoarcerea în oraș durează doar câteva minute; aprinde farurile, deoarece amurgul de iarnă se transformă foarte repede în noapte.",
+                "en": "The drive back to town takes only a few minutes; turn on your headlights as the winter twilight turns into night surprisingly quickly."
+              }
+            }
+          ]
+        }
       }
     }
   }

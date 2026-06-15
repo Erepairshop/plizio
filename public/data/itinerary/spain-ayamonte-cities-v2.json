@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi központban, élvezve a szűk utcák csendes, nyugodt báját.\n\nDélben csodálja meg az időtlen vallási építészetet, és keressen egy árnyékos pihenőhelyet.\n\nDélután élvezze a Spanyolországot és Portugáliát összekötő Guadiana folyóra nyíló kilátást.\n\nZárja az estét egy kellemes sétával, felidézve e varázslatos határváros kulturális sokszínűségét.",
         "ro": "Începeți dimineața în centrul istoric, bucurându-vă de farmecul liniștit al străzilor înguste.\n\nLa amiază, admirați arhitectura religioasă atemporală și găsiți un loc umbrit pentru odihnă.\n\nDupă-amiaza, bucurați-vă de priveliștile pitorești asupra râului Guadiana ce desparte două țări.\n\nÎncheiați seara cu o plimbare plăcută, reflectând la bogăția culturală a acestui oraș.",
         "en": "Begin your morning by exploring the historic center, soaking in the quiet charm of the narrow streets.\n\nAt midday, marvel at the timeless religious architecture and find a shaded spot to rest.\n\nIn the afternoon, enjoy scenic views over the Guadiana river, uniting Spain and Portugal.\n\nEnd your evening with a pleasant stroll, reflecting on the cultural tapestry of this border town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen geschützt vor dem Regen unter den Arkaden der Plaza. Mittags bieten die Kirchen Ayamontes trockene Zuflucht für kulturelle Entdeckungen. Nachmittags spazieren Sie vorsichtig durch die gepflasterten Gassen der Altstadt, da der Stein rutschig sein kann. Der Abend klingt gemütlich in den überdachten Bereichen der Innenstadt aus, während der Regen auf die Dächer prasselt.",
+            "hu": "Kezdje a reggelt az árkádok alatt, védve az esőtől. Délben a város templomai nyújtanak száraz menedéket a kulturális felfedezéshez. Délután sétáljon óvatosan a csúszós macskaköves utcákon, és használja ki a fedett beugrókat. Az este a főtér közelében, a víztükrön megcsillanó fények között ér véget, egy esernyő biztonságában.",
+            "ro": "Începeți dimineața sub arcade, feriți de ploaie. La prânz, bisericile orașului oferă un refugiu uscat pentru explorarea culturală. După-amiaza, plimbați-vă cu grijă pe străzile pavate care devin alunecoase. Seara se încheie plăcut în zonele acoperite ale centrului, ascultând ritmul ploii pe acoperișurile vechi.",
+            "en": "Start the morning under the arcades, sheltered from the rain. At noon, the town's churches provide dry refuge for cultural discovery. In the afternoon, walk carefully through the slippery cobbled streets and use building overhangs. The evening ends cozily in the covered areas of the town center, watching the rain glisten on the tiles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Pasodoble de Ayamonte",
+                "hu": "El Pasodoble de Ayamonte",
+                "ro": "El Pasodoble de Ayamonte",
+                "en": "El Pasodoble de Ayamonte"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal im Regen von den nahegelegenen Arkaden aus; die Fliesen glänzen wunderschön bei Nässe, aber achten Sie auf den rutschigen Boden.",
+                "hu": "Csodálja meg az emlékművet a közeli árkádok alól; a csempék gyönyörűen csillognak az esőben, de ügyeljen a rendkívül csúszós járófelületre a szobor körül.",
+                "ro": "Admirați monumentul de sub arcadele din apropiere; plăcile ceramice strălucesc frumos în ploaie, dar aveți grijă la pavajul alunecos din jurul statuii.",
+                "en": "Admire the monument from the nearby arcades; the ceramic tiles glisten beautifully in the rain, but watch out for the very slippery ground around the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Merced",
+                "hu": "Iglesia de la Merced",
+                "ro": "Iglesia de la Merced",
+                "en": "Iglesia de la Merced"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenschiff als perfekten Rückzugsort vor dem Schauer; bewundern Sie den Altaraufsatz in aller Ruhe und lassen Sie Ihre Kleidung kurz trocknen.",
+                "hu": "Használja a templombelsőt tökéletes menedékként a zápor elől; csodálja meg a retablót nyugalomban, amíg kint esik, és rázza le az esernyőjét a bejáratnál.",
+                "ro": "Folosiți interiorul bisericii ca refugiu perfect împotriva ploii; admirați altarul în liniște cât timp plouă afară și scuturați umbrela la intrare.",
+                "en": "Use the church interior as a perfect refuge from the downpour; admire the altarpiece in peace while it rains outside and shake your umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "La Inmaculada Concepción (1954)",
+                "hu": "La Inmaculada Concepción (1954)",
+                "ro": "La Inmaculada Concepción (1954)",
+                "en": "La Inmaculada Concepción (1954)"
+              },
+              "tip_5lang": {
+                "de": "Diese moderne Kirche bietet viel Platz im Inneren, um dem Wetter zu entfliehen; betrachten Sie die klaren Linien und warten Sie, bis der stärkste Regen nachlässt.",
+                "hu": "Ez a modern templom tágas belső teret kínál az időjárás elől; tekintse meg a letisztult vonalakat, és várja meg itt, amíg a leghevesebb esőzés alábbhagy.",
+                "ro": "Această biserică modernă oferă un spațiu interior generos pentru a scăpa de vremea rea; priviți liniile clare și așteptați aici până trece ploaia torențială.",
+                "en": "This modern church offers a spacious interior to escape the weather; observe the clean lines and wait here until the heaviest rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de las Hermanas de la Cruz de Ayamonte",
+                "hu": "Convento de las Hermanas de la Cruz de Ayamonte",
+                "ro": "Convento de las Hermanas de la Cruz de Ayamonte",
+                "en": "Convento de las Hermanas de la Cruz de Ayamonte"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Trockenheit; besuchen Sie die Kapelle, um die spirituelle Atmosphäre zu genießen, während Sie draußen dem Rauschen des Regens lauschen.",
+                "hu": "A csend és a szárazság helyszíne; látogasson el a kápolnába a spirituális hangulatért, miközben hallgatja a kinti eső megnyugtató kopogását.",
+                "ro": "Un loc al liniștii și al adăpostului; vizitați capela pentru atmosfera spirituală în timp ce ascultați sunetul liniștitor al ploii de afară.",
+                "en": "A place of silence and shelter; visit the chapel for the spiritual atmosphere while listening to the soothing sound of the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de San Sebastián",
+                "hu": "Ermita de San Sebastián",
+                "ro": "Ermita de San Sebastián",
+                "en": "Ermita de San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Ermita bietet einen intimen Schutzraum; bewundern Sie die Schlichtheit des Baus und nutzen Sie den überdachten Eingangsbereich zum Umorientieren.",
+                "hu": "A kis remetetemplom meghitt menedéket nyújt; csodálja meg az épület egyszerűségét, és használja a fedett bejáratot az útvonal újratervezéséhez.",
+                "ro": "Mica schit oferă un adăpost intim; admirați simplitatea clădirii și folosiți intrarea acoperită pentru a vă reorienta pe traseu.",
+                "en": "The small hermitage provides intimate shelter; admire the simplicity of the building and use the covered entrance area to reorient yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestro Señor y Salvador",
+                "hu": "Parroquia de Nuestro Señor y Salvador",
+                "ro": "Parroquia de Nuestro Señor y Salvador",
+                "en": "Parroquia de Nuestro Señor y Salvador"
+              },
+              "tip_5lang": {
+                "de": "Die Lage im oberen Stadtteil bietet tolle Ausblicke auf nasse Dächer; genießen Sie die Kunstschätze im Inneren und treten Sie erst nach dem Schauer heraus.",
+                "hu": "A felsővárosi elhelyezkedés remek kilátást nyújt a vizes háztetőkre; élvezze a belső műkincseket, és csak a zápor elvonulása után induljon tovább.",
+                "ro": "Locația din partea de sus a orașului oferă vederi frumoase spre acoperișurile ude; bucurați-vă de comorile interioare și ieșiți doar după ce ploaia se oprește.",
+                "en": "The upper town location offers great views of the wet rooftops; enjoy the art treasures inside and only step back out after the shower passes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt frisch am Guadiana. Mittags wärmen Sie sich in den historischen Gemäuern der Kirchen auf, wo die dicken Wände die Kälte abhalten. Am Nachmittag genießen Sie das klare, goldene Licht der tiefstehenden Sonne. Da es früh dunkel wird, ziehen Sie sich gegen 17 Uhr in die beleuchtete Altstadt zurück, um den Tag gemütlich zu beenden.",
+            "hu": "A hűvös téli reggel frissen indul a folyóparton. Délben melegedjen fel a templomok történelmi falai között, ahol a vastag falak óvnak a széltől. Délután élvezze az alacsonyan járó nap tiszta, aranyló fényeit. Mivel korán sötétedik, 17 óra körül húzódjon be a kivilágított óváros hangulatos utcáiba.",
+            "ro": "Dimineața răcoroasă de iarnă începe proaspăt pe malul râului. La prânz, încălziți-vă între zidurile istorice ale bisericilor, ferite de vântul tăios. După-amiaza, bucurați-vă de lumina aurie a soarelui blând. Deoarece se întunecă devreme, retrageți-vă pe străzile luminate ale centrului vechi în jurul orei 17.",
+            "en": "The cool winter morning starts fresh by the Guadiana. At noon, warm up within the historical walls of the churches, which shield you from the breeze. In the afternoon, enjoy the crisp, golden light of the low sun. Since it gets dark early, retreat to the illuminated streets of the old town around 5 PM to end your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Pasodoble de Ayamonte",
+                "hu": "El Pasodoble de Ayamonte",
+                "ro": "El Pasodoble de Ayamonte",
+                "en": "El Pasodoble de Ayamonte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne auf den bunten Kacheln; die Farben wirken im klaren Winterlicht besonders intensiv, tragen Sie aber eine windfeste Jacke.",
+                "hu": "Élvezze a reggeli napsütést a színes csempéken; a színek a tiszta téli fényben különösen élénkek, de viseljen szélálló kabátot a téren.",
+                "ro": "Bucurați-vă de soarele dimineții pe plăcile colorate; culorile par intense în lumina clară de iarnă, dar purtați o jachetă rezistentă la vânt în piață.",
+                "en": "Enjoy the morning sun on the colorful tiles; the colors look particularly vivid in the clear winter light, but wear a windproof jacket in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Merced",
+                "hu": "Iglesia de la Merced",
+                "ro": "Iglesia de la Merced",
+                "en": "Iglesia de la Merced"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort zur Besinnung; die massive Bauweise hält die Winterkälte draußen, ideal für eine Pause vom Gehen.",
+                "hu": "A templom szélvédett helyet kínál az elmélyüléshez; a masszív épület távol tartja a téli hideget, ideális egy rövid pihenőre a séta közben.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru meditație; construcția masivă ține la distanță frigul iernii, fiind ideală pentru o pauză de la mers.",
+                "en": "The church offers a wind-sheltered spot for reflection; the massive construction keeps the winter chill away, ideal for a break from walking."
+              }
+            },
+            {
+              "name": {
+                "de": "La Inmaculada Concepción (1954)",
+                "hu": "La Inmaculada Concepción (1954)",
+                "ro": "La Inmaculada Concepción (1954)",
+                "en": "La Inmaculada Concepción (1954)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Mittagslicht, das durch die Fenster fällt; die schlichte Atmosphäre wirkt im Winter besonders beruhigend, perfekt zum Aufwärmen.",
+                "hu": "Használja ki az ablakokon besütő déli fényt; a letisztult légkör télen különösen nyugtató hatású, tökéletes helyszín a belső átmelegedéshez.",
+                "ro": "Profitați de lumina amiezii care pătrunde prin ferestre; atmosfera simplă este deosebit de liniștitoare iarna, fiind un loc perfect pentru încălzire.",
+                "en": "Take advantage of the midday light coming through the windows; the clean atmosphere is particularly calming in winter, a perfect spot to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de las Hermanas de la Cruz de Ayamonte",
+                "hu": "Convento de las Hermanas de la Cruz de Ayamonte",
+                "ro": "Convento de las Hermanas de la Cruz de Ayamonte",
+                "en": "Convento de las Hermanas de la Cruz de Ayamonte"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um der Winterbrise zu entkommen; bewundern Sie die Details des Klosters und genießen Sie die Stille in der geschützten Kapelle.",
+                "hu": "Békés helyszín a téli szellő elől; csodálja meg a kolostor részleteit, és élvezze a csendet a védett és temperált kápolnában.",
+                "ro": "Un loc liniștit pentru a scăpa de briza iernii; admirați detaliile mănăstirii și bucurați-vă de tăcere în capela protejată și primitoare.",
+                "en": "A peaceful spot to escape the winter breeze; admire the convent details and enjoy the silence in the protected and temperate chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de San Sebastián",
+                "hu": "Ermita de San Sebastián",
+                "ro": "Ermita de San Sebastián",
+                "en": "Ermita de San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im Winterlicht wie aus einer anderen Zeit; achten Sie auf die Öffnungszeiten, die in der Nebensaison variieren können.",
+                "hu": "A kis kápolna a téli fényben mintha egy másik korból származna; ügyeljen a nyitvatartásra, amely a főszezonon kívül korlátozottabb lehet.",
+                "ro": "Mica capelă pare desprinsă din altă epocă în lumina iernii; verificați programul, deoarece poate fi mai limitat în afara sezonului turistic.",
+                "en": "The small chapel looks like it's from another era in the winter light; check the opening hours, as they may be more limited in the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestro Señor y Salvador",
+                "hu": "Parroquia de Nuestro Señor y Salvador",
+                "ro": "Parroquia de Nuestro Señor y Salvador",
+                "en": "Parroquia de Nuestro Señor y Salvador"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17 Uhr hierher, um das letzte Tageslicht über der Stadt zu sehen; die Kirche ist ein warmer Ort vor dem Abendspaziergang.",
+                "hu": "Érkezzen 17 óra előtt, hogy lássa az utolsó fényeket a város felett; a templom meleg menedéket nyújt az esti séta megkezdése előtt.",
+                "ro": "Sosiți înainte de ora 17 pentru a vedea ultimele raze de lumină peste oraș; biserica oferă un refugiu cald înainte de plimbarea de seară.",
+                "en": "Arrive just before 5 PM to see the last light over the city; the church provides a warm refuge before starting your evening walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt a történelmi központban, élvezve a szűk utcák csendes, nyugodt báját.\n\nDélben csodálja meg az időtlen vallási építészetet, és keressen egy árnyékos pihenőhelyet.\n\nDélután élvezze a Spanyolországot és Portugáliát összekötő Guadiana folyóra nyíló kilátást.\n\nZárja az estét egy kellemes sétával, felidézve e varázslatos határváros kulturális sokszínűségét.",
         "ro": "Începeți dimineața în centrul istoric, bucurându-vă de farmecul liniștit al străzilor înguste.\n\nLa amiază, admirați arhitectura religioasă atemporală și găsiți un loc umbrit pentru odihnă.\n\nDupă-amiaza, bucurați-vă de priveliștile pitorești asupra râului Guadiana ce desparte două țări.\n\nÎncheiați seara cu o plimbare plăcută, reflectând la bogăția culturală a acestui oraș.",
         "en": "Begin your morning by exploring the historic center, soaking in the quiet charm of the narrow streets.\n\nAt midday, marvel at the timeless religious architecture and find a shaded spot to rest.\n\nIn the afternoon, enjoy scenic views over the Guadiana river, uniting Spain and Portugal.\n\nEnd your evening with a pleasant stroll, reflecting on the cultural tapestry of this border town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist Ayamonte mit dem Rad gut befahrbar, achten Sie jedoch besonders auf rutschige Straßenmarkierungen. Mittags suchen Sie Schutz in den Kirchen der Altstadt. Nachmittags führt der Weg am Fluss entlang, wo der Regen eine mystische Stimmung erzeugt. Beenden Sie die Tour frühzeitig im trockenen Auditorium, um sich aufzuwärmen.",
+            "hu": "Az eső ellenére Ayamonte kerékpárral is bejárható, de fokozottan ügyeljen a csúszós útburkolati jelekre és a pocsolyákra. Délben keressen menedéket a templomokban. Délután a folyóparti út misztikus hangulatot áraszt a párában. A túrát fejezze be időben a száraz és fedett Auditóriumban.",
+            "ro": "În ciuda ploii, Ayamonte poate fi explorat cu bicicleta, dar atenție sporită la marcajele rutiere și bălțile alunecoase. La prânz, căutați adăpost în biserici. După-amiaza, drumul pe malul râului oferă o atmosferă mistică. Încheiați turul devreme la Auditoriu, feriți de umezeală.",
+            "en": "Despite the rain, Ayamonte is cyclable, but pay extra attention to slippery road markings and puddles. At noon, seek shelter inside the old town churches. In the afternoon, the riverside path offers a mystical atmosphere in the mist. Finish your tour early at the dry and covered Auditorium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Nuestra Señora del Carmen",
+                "hu": "Ermita de Nuestra Señora del Carmen",
+                "ro": "Ermita de Nuestra Señora del Carmen",
+                "en": "Ermita de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Trockenen und besuchen Sie die Ermita; der kurze Stopp bietet Schutz vor dem ersten Regenguss des Morgens.",
+                "hu": "Parkolja le kerékpárját biztonságos, száraz helyen, és látogasson be az Ermitába; a rövid megálló védelmet nyújt a reggeli első zápor elől.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat și vizitați schitul; oprirea scurtă oferă protecție împotriva primei ploi a dimineții.",
+                "en": "Park your bike in a safe, dry spot and visit the hermitage; the short stop provides protection from the first rain shower of the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pasodoble de Ayamonte",
+                "hu": "El Pasodoble de Ayamonte",
+                "ro": "El Pasodoble de Ayamonte",
+                "en": "El Pasodoble de Ayamonte"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über den Platz, da die Kacheln bei Nässe spiegelglatt sein können; nutzen Sie die Arkaden zum Unterstellen bei starkem Regen.",
+                "hu": "Hajtson óvatosan a téren, mert a csempék vizesen tükörsimák lehetnek; erős esőben használja az árkádokat ideiglenes kerékpáros menedékként.",
+                "ro": "Circulați cu grijă în piață, deoarece plăcile ceramice pot fi extrem de alunecoase; folosiți arcadele ca adăpost temporar în caz de ploaie torențială.",
+                "en": "Ride carefully across the square as the tiles can be mirror-smooth when wet; use the arcades as temporary bike shelter during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Inmaculada Concepción (1954)",
+                "hu": "La Inmaculada Concepción (1954)",
+                "ro": "La Inmaculada Concepción (1954)",
+                "en": "La Inmaculada Concepción (1954)"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine Pause im Trockenen; prüfen Sie Ihre Bremsen nach der Fahrt im Regen und genießen Sie die Ruhe im Inneren der Kirche.",
+                "hu": "Kiváló helyszín egy száraz pihenőhöz; az esőben való tekerés után ellenőrizze a fékeket, és élvezze a templom belső nyugalmát.",
+                "ro": "Un loc excelent pentru o pauză la uscat; după pedalarea prin ploaie, verificați frânele și bucurați-vă de liniștea din interiorul bisericii.",
+                "en": "An excellent spot for a dry break; after riding in the rain, check your brakes and enjoy the inner peace of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestro Señor y Salvador",
+                "hu": "Parroquia de Nuestro Señor y Salvador",
+                "ro": "Parroquia de Nuestro Señor y Salvador",
+                "en": "Parroquia de Nuestro Señor y Salvador"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengender, aber die Aussicht oben belohnt Sie; suchen Sie Schutz unter dem Vordach und trocknen Sie Ihre Ausrüstung.",
+                "hu": "Az emelkedő esőben fárasztóbb, de a fenti kilátás kárpótolja; keressen menedéket az előtető alatt, és törölje szárazra a felszerelését.",
+                "ro": "Urcarea este mai obositoare pe ploaie, dar vederea de sus merită efortul; căutați adăpost sub streașină și ștergeți echipamentul umed.",
+                "en": "The climb is more tiring in the rain, but the view from the top is worth it; seek shelter under the overhang and wipe your gear dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Guadiana",
+                "hu": "Mirador del Guadiana",
+                "ro": "Mirador del Guadiana",
+                "en": "Mirador del Guadiana"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto des grauen Flusses; tragen Sie eine gute Regenjacke, da der Wind hier am Ufer die Nässe verstärkt.",
+                "hu": "Gyors megálló egy fotóra a szürke folyóról; viseljen jó esőkabátot, mert a parton a szél felerősítheti a csapadék hatását.",
+                "ro": "O oprire rapidă pentru o fotografie a râului cenușiu; purtați o pelerină bună, deoarece vântul de pe mal poate intensifica senzația de umezeală.",
+                "en": "A quick stop for a photo of the grey river; wear a good raincoat as the wind on the riverbank can intensify the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Amador Jiménez",
+                "hu": "Auditorio Amador Jiménez",
+                "ro": "Auditorio Amador Jiménez",
+                "en": "Auditorio Amador Jiménez"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Endpunkt im Trockenen; schließen Sie Ihr Rad ab und genießen Sie die moderne Architektur geschützt vor dem prasselnden Regen.",
+                "hu": "Tökéletes végállomás a szárazban; láncolja le kerékpárját, és élvezze a modern építészetet az eső elől védett belső terekben.",
+                "ro": "Punctul final perfect, la adăpost; încuiați bicicleta și bucurați-vă de arhitectura modernă în spațiile interioare ferite de ploaie.",
+                "en": "The perfect final stop in the dry; lock your bike and enjoy the modern architecture in the interior spaces sheltered from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die klare Winterluft für eine Radtour am Guadiana. Mittags bieten die Kirchen eine willkommene Pause im Windschatten der Stadtmauern. Am Nachmittag erreichen Sie den Aussichtspunkt für ein kurzes Foto im warmen Winterlicht. Planen Sie das Ende der Tour vor Sonnenuntergang um 17 Uhr ein, da die Temperaturen dann schnell sinken.",
+            "hu": "Használja ki a tiszta téli levegőt egy kerékpáros túrához a Guadiana mentén. Délben a templomok szélvédett pihenőt kínálnak a városfalak árnyékában. Délután látogasson el a kilátóhoz egy rövid fotóra a meleg téli fényekben. Tervezze a túra végét a korai, 17 órai naplemente elé, mielőtt lehűl a levegő.",
+            "ro": "Profitați de aerul curat de iarnă pentru o plimbare cu bicicleta de-a lungul râului. La prânz, bisericile oferă un popas ferit de vântul tăios. După-amiaza, mergeți la belvedere pentru o fotografie în lumina caldă a iernii. Planificați finalul turului înainte de apusul de la ora 17.",
+            "en": "Take advantage of the crisp winter air for a bike ride along the Guadiana. At noon, the churches offer a wind-sheltered break in the lee of town walls. In the afternoon, reach the viewpoint for a quick photo in the warm winter light. Plan to end your tour before the 5 PM sunset as it cools down fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Nuestra Señora del Carmen",
+                "hu": "Ermita de Nuestra Señora del Carmen",
+                "ro": "Ermita de Nuestra Señora del Carmen",
+                "en": "Ermita de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kälte am Fluss erfordert warme Handschuhe; besuchen Sie die Kapelle zum Aufwärmen, bevor Sie die Tour fortsetzen.",
+                "hu": "A folyóparti reggeli hideg miatt viseljen meleg kesztyűt; látogasson be a kápolnába átmelegedni, mielőtt folytatná a túrát.",
+                "ro": "Frigul dimineții de pe malul râului necesită mănuși groase; vizitați capela pentru a vă încălzi înainte de a continua traseul.",
+                "en": "The morning chill by the river requires warm gloves; visit the chapel to warm up before continuing your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pasodoble de Ayamonte",
+                "hu": "El Pasodoble de Ayamonte",
+                "ro": "El Pasodoble de Ayamonte",
+                "en": "El Pasodoble de Ayamonte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wintersonne auf dem offenen Platz; machen Sie eine kurze Pause im Licht, bevor der Wind in den Gassen wieder kühler wird.",
+                "hu": "Élvezze a téli napsütést a nyitott téren; tartson egy rövid pihenőt a fényben, mielőtt a szűk utcák szélcsatornáiba kerékpározna.",
+                "ro": "Bucurați-vă de soarele iernii în piața deschisă; faceți o scurtă pauză la lumină înainte de a intra pe străzile înguste unde vântul este rece.",
+                "en": "Enjoy the winter sun in the open square; take a short break in the light before cycling into the wind-tunnel-like narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "La Inmaculada Concepción (1954)",
+                "hu": "La Inmaculada Concepción (1954)",
+                "ro": "La Inmaculada Concepción (1954)",
+                "en": "La Inmaculada Concepción (1954)"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner, windgeschützter Stopp; nutzen Sie die Zeit im Inneren, um Ihre Kräfte für den Anstieg in die Oberstadt zu sammeln.",
+                "hu": "Modern, széltől védett megállóhely; használja ki a benti időt, hogy erőt gyűjtsön a felsővárosba vezető emelkedőhöz.",
+                "ro": "O oprire modernă, ferită de vânt; folosiți timpul petrecut în interior pentru a vă recupera forțele înainte de urcarea spre orașul de sus.",
+                "en": "A modern, wind-sheltered stop; use your time inside to gather strength for the climb to the upper part of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestro Señor y Salvador",
+                "hu": "Parroquia de Nuestro Señor y Salvador",
+                "ro": "Parroquia de Nuestro Señor y Salvador",
+                "en": "Parroquia de Nuestro Señor y Salvador"
+              },
+              "tip_5lang": {
+                "de": "Die höchste Stelle der Tour bietet tolle Fernsicht; im Winter ist die Luft klarer, aber der Wind weht hier oben oft kräftiger.",
+                "hu": "A túra legmagasabb pontja remek kilátást nyújt; télen a levegő tisztább, de a szél itt fent gyakran erősebben fúj.",
+                "ro": "Cel mai înalt punct al traseului oferă o vedere excelentă; iarna aerul este mai clar, dar vântul suflă adesea mai tare aici sus.",
+                "en": "The highest point of the tour offers great views; in winter the air is clearer, but the wind often blows stronger up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Guadiana",
+                "hu": "Mirador del Guadiana",
+                "ro": "Mirador del Guadiana",
+                "en": "Mirador del Guadiana"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Ihr Foto im goldenen Nachmittagslicht; bleiben Sie in Bewegung, um nicht auszukühlen, da die Sonne nun tiefer steht.",
+                "hu": "Készítse el a fotót az aranyló délutáni fényben; maradjon mozgásban, hogy ne hűljön ki, ahogy a nap egyre alacsonyabban jár.",
+                "ro": "Faceți fotografia în lumina aurie a după-amiezii; rămâneți în mișcare pentru a nu răci, pe măsură ce soarele coboară spre orizont.",
+                "en": "Take your photo in the golden afternoon light; stay active to keep warm as the sun gets lower and the temperature drops."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Amador Jiménez",
+                "hu": "Auditorio Amador Jiménez",
+                "ro": "Auditorio Amador Jiménez",
+                "en": "Auditorio Amador Jiménez"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Radtour, bevor es um 17 Uhr dunkel wird; das Auditorium ist ein stilvoller Ort, um die Tour in Wärme ausklingen zu lassen.",
+                "hu": "Fejezze be a kerékpározást, mielőtt 17 órakor besötétedik; az Auditórium stílusos és meleg helyszín a túra lezárásához.",
+                "ro": "Încheiați plimbarea înainte de a se întuneca la ora 17; Auditorul este un loc elegant și cald pentru a finaliza traseul.",
+                "en": "Finish your cycling before it gets dark at 5 PM; the Auditorium is a stylish and warm venue to conclude your tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a reggelt a történelmi központban, élvezve a szűk utcák csendes, nyugodt báját.\n\nDélben csodálja meg az időtlen vallási építészetet, és keressen egy árnyékos pihenőhelyet.\n\nDélután élvezze a Spanyolországot és Portugáliát összekötő Guadiana folyóra nyíló kilátást.\n\nZárja az estét egy kellemes sétával, felidézve e varázslatos határváros kulturális sokszínűségét.",
         "ro": "Începeți dimineața în centrul istoric, bucurându-vă de farmecul liniștit al străzilor înguste.\n\nLa amiază, admirați arhitectura religioasă atemporală și găsiți un loc umbrit pentru odihnă.\n\nDupă-amiaza, bucurați-vă de priveliștile pitorești asupra râului Guadiana ce desparte două țări.\n\nÎncheiați seara cu o plimbare plăcută, reflectând la bogăția culturală a acestui oraș.",
         "en": "Begin your morning by exploring the historic center, soaking in the quiet charm of the narrow streets.\n\nAt midday, marvel at the timeless religious architecture and find a shaded spot to rest.\n\nIn the afternoon, enjoy scenic views over the Guadiana river, uniting Spain and Portugal.\n\nEnd your evening with a pleasant stroll, reflecting on the cultural tapestry of this border town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist ideal, um Ayamonte und das nahe Portugal bei Regen zu erkunden. Vormittags besuchen Sie Museen und Verwaltungsgebäude im Nachbarland. Mittags bieten die Kirchen Ayamontes trockene Parkmöglichkeiten in der Nähe für schnelle Besuche. Den Nachmittag verbringen Sie im geschützten Auditorium bei Kultur, ohne nass zu werden.",
+            "hu": "Az autó ideális választás Ayamonte és a közeli Portugália felfedezéséhez esőben. Délelőtt látogasson el múzeumokba és középületekbe a határ túloldalán. Délben a templomok közelében keressen közeli parkolót a gyors bejutáshoz. A délutánt töltse a védett Auditóriumban, élvezve a kulturális programokat.",
+            "ro": "Mașina este ideală pentru a explora Ayamonte și Portugalia vecină pe ploaie. Dimineața, vizitați muzee și clădiri publice peste graniță. La prânz, căutați parcări aproape de biserici pentru un acces rapid. Petreceți după-amiaza la Auditoriu, protejați de vremea nefavorabilă, savurând cultura.",
+            "en": "A car is ideal for exploring Ayamonte and nearby Portugal in the rain. Spend the morning visiting museums and public buildings across the border. At noon, look for parking close to the churches for quick access. Spend the afternoon at the sheltered Auditorium, enjoying the local cultural scene."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Vila Real de Santo António",
+                "hu": "Câmara Municipal de Vila Real de Santo António",
+                "ro": "Câmara Municipal de Vila Real de Santo António",
+                "en": "Câmara Municipal de Vila Real de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Platz, um den kurzen Weg ins Gebäude trocken zu überstehen; bewundern Sie die pombalinische Architektur von innen.",
+                "hu": "Parkoljon közvetlenül a téren, hogy szárazon megússza az utat az épületig; csodálja meg a pombal-i építészetet a belső terekben.",
+                "ro": "Parcați chiar în piață pentru a ajunge uscați la clădire; admirați arhitectura în stil pombalin din interiorul generos al primăriei.",
+                "en": "Park right in the square to survive the short walk to the building dry; admire the Pombaline architecture from the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural António Aleixo",
+                "hu": "Centro Cultural António Aleixo",
+                "ro": "Centro Cultural António Aleixo",
+                "en": "Centro Cultural António Aleixo"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für Regentage; besuchen Sie die Ausstellungen im Inneren und nutzen Sie die Tiefgarage in der Nähe, um trocken zu bleiben.",
+                "hu": "Tökéletes helyszín esős napokra; látogassa meg a benti kiállításokat, és használja a közeli mélygarázst, hogy teljesen száraz maradjon.",
+                "ro": "Un loc perfect pentru zilele ploioase; vizitați expozițiile interioare și folosiți parcarea subterană din apropiere pentru a rămâne uscați.",
+                "en": "A perfect location for rainy days; visit the indoor exhibitions and use the nearby underground parking to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Nuestra Señora del Carmen",
+                "hu": "Ermita de Nuestra Señora del Carmen",
+                "ro": "Ermita de Nuestra Señora del Carmen",
+                "en": "Ermita de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis fast vor den Eingang; die kleine Kirche ist ein schneller und trockener kultureller Stopp während eines heftigen Regenschauers.",
+                "hu": "Hajtson szinte közvetlenül a bejáratig; a kis templom gyors és száraz kulturális megállóhely egy hirtelen jött felhőszakadás idején.",
+                "ro": "Conduceți până aproape de intrare; micul lăcaș este un punct cultural rapid și uscat în timpul unei averse neașteptate.",
+                "en": "Drive almost right up to the entrance; the small church is a quick and dry cultural stop during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "La Inmaculada Concepción (1954)",
+                "hu": "La Inmaculada Concepción (1954)",
+                "ro": "La Inmaculada Concepción (1954)",
+                "en": "La Inmaculada Concepción (1954)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz gegenüber für einen bequemen Zugang; im Inneren finden Sie Schutz und können die moderne religiöse Kunst bewundern.",
+                "hu": "Használja a szemközti parkolót a kényelmes bejutáshoz; odabent menedéket talál az eső elől, miközben a modern vallási művészetet csodálja.",
+                "ro": "Folosiți parcarea de vizavi pentru un acces facil; în interior veți găsi adăpost de ploaie în timp ce admirați arta religioasă modernă.",
+                "en": "Use the parking lot opposite for convenient access; inside you'll find shelter from the rain while admiring modern religious art."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Guadiana",
+                "hu": "Mirador del Guadiana",
+                "ro": "Mirador del Guadiana",
+                "en": "Mirador del Guadiana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss direkt aus dem Auto, falls es zu stark regnet; die Stimmung über dem Wasser ist auch bei Grau faszinierend.",
+                "hu": "Élvezze a folyóra nyíló kilátást közvetlenül az autóból, ha túl erősen esik; a víz feletti hangulat borús időben is lenyűgöző.",
+                "ro": "Bucurați-vă de vederea spre râu direct din mașină dacă plouă prea tare; atmosfera de deasupra apei este fascinantă chiar și pe timp noros.",
+                "en": "Enjoy the river view directly from your car if it rains too hard; the atmosphere over the water is fascinating even in overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Amador Jiménez",
+                "hu": "Auditorio Amador Jiménez",
+                "ro": "Auditorio Amador Jiménez",
+                "en": "Auditorio Amador Jiménez"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Gelände und flüchten Sie ins Warme; das Auditorium bietet das beste Indoor-Erlebnis der Stadt bei schlechtem Wetter.",
+                "hu": "Parkoljon az Auditórium területén, és meneküljön be a melegbe; ez az épület kínálja a város legjobb beltéri élményét rossz idő esetén.",
+                "ro": "Parcați în incinta Auditoriului și refugiați-vă la căldură; această clădire oferă cea mai bună experiență interioară din oraș pe vreme rea.",
+                "en": "Park at the Auditorium and escape into the warmth; this building offers the best indoor experience in town during bad weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Grenzregion bequem mit dem Auto, um der Winterkälte zu entgehen. Vormittags führt der Weg über die Grenze nach Portugal, wo historische Gebäude Wärme bieten. Mittags besichtigen Sie die Kirchen der Stadt. Der Nachmittag am Aussichtspunkt ist kurz, bevor die Dunkelheit um 17 Uhr den Tag beendet und Sie die beleuchteten Straßen genießen.",
+            "hu": "Fedezze fel kényelmesen autóval a határmenti régiót, elkerülve a téli hideget. Délelőtt látogasson el a határ túloldalára, ahol a történelmi épületek óvnak a hidegtől. Délben nézze meg a város templomait. A délutáni panoráma rövid lesz a 17 órai sötétedés miatt, de a kivilágított város látványa kárpótolja.",
+            "ro": "Explorați confortabil regiunea de frontieră cu mașina, evitând frigul iernii. Dimineața, treceți granița în Portugalia pentru a vizita clădiri istorice primitoare. La prânz, vizitați bisericile din oraș. Popasul la belvedere va fi scurt din cauza întunericului de la ora 17.",
+            "en": "Explore the border region comfortably by car to avoid the winter chill. In the morning, cross the border to Portugal to visit historical buildings that offer warmth. At noon, tour the city's churches. The afternoon stop at the viewpoint will be brief due to darkness falling at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Vila Real de Santo António",
+                "hu": "Câmara Municipal de Vila Real de Santo António",
+                "ro": "Câmara Municipal de Vila Real de Santo António",
+                "en": "Câmara Municipal de Vila Real de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Rathaus am Vormittag, wenn die Wintersonne tief steht; die beheizten Innenräume bieten eine angenehme Pause von der Außenluft.",
+                "hu": "Látogasson el a városházára délelőtt, amikor alacsonyan jár a nap; a fűtött belső terek kellemes felfrissülést nyújtanak a kinti hideg után.",
+                "ro": "Vizitați primăria dimineața, când soarele este jos; spațiile interioare încălzite oferă o pauză plăcută de la aerul rece de afară.",
+                "en": "Visit the town hall in the morning when the sun is low; the heated interiors provide a pleasant break from the cold outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural António Aleixo",
+                "hu": "Centro Cultural António Aleixo",
+                "ro": "Centro Cultural António Aleixo",
+                "en": "Centro Cultural António Aleixo"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich kulturell aufzuwärmen; genießen Sie die Ausstellungen und nutzen Sie das Auto für den schnellen Wechsel zum nächsten Stopp.",
+                "hu": "Ideális helyszín a kulturális átmelegedéshez; élvezze a kiállításokat, és használja az autót a következő állomás gyors eléréséhez.",
+                "ro": "Un loc ideal pentru a vă încălzi cultural; bucurați-vă de expoziții și folosiți mașina pentru a ajunge rapid la următoarea oprire.",
+                "en": "An ideal spot to warm up culturally; enjoy the exhibitions and use your car for a quick transition to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Nuestra Señora del Carmen",
+                "hu": "Ermita de Nuestra Señora del Carmen",
+                "ro": "Ermita de Nuestra Señora del Carmen",
+                "en": "Ermita de Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist im Winter oft weniger besucht; parken Sie direkt davor und genießen Sie die Stille in der geschützten Atmosphäre.",
+                "hu": "A kis kápolna télen kevésbé látogatott; parkoljon közvetlenül előtte, és élvezze a csendet a védett és békés környezetben.",
+                "ro": "Micul schit este mai puțin vizitat iarna; parcați chiar în față și bucurați-vă de liniște în atmosfera protejată și pașnică.",
+                "en": "The small chapel is often less crowded in winter; park right in front and enjoy the silence in the sheltered and peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "La Inmaculada Concepción (1954)",
+                "hu": "La Inmaculada Concepción (1954)",
+                "ro": "La Inmaculada Concepción (1954)",
+                "en": "La Inmaculada Concepción (1954)"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Bauweise ist gut isoliert; ein warmer Ort für eine Pause am Mittag, bevor Sie die Fahrt durch die Stadt fortsetzen.",
+                "hu": "A modern épület jól szigetelt; meleg helyszín egy déli pihenőhöz, mielőtt folytatná az autós városnézést Ayamonte utcáin.",
+                "ro": "Clădirea modernă este bine izolată; un loc cald pentru o pauză la amiază înainte de a continua vizitarea orașului cu mașina.",
+                "en": "The modern building is well insulated; a warm spot for a midday break before continuing your drive through Ayamonte's streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Guadiana",
+                "hu": "Mirador del Guadiana",
+                "ro": "Mirador del Guadiana",
+                "en": "Mirador del Guadiana"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Ausblick im Auto, um sich vor dem Wind zu schützen; das Winterlicht über dem Fluss ist am Nachmittag spektakulär.",
+                "hu": "Maradjon az autóban a kilátás élvezetéhez, hogy megvédje magát a széltől; a folyó feletti téli fények délután látványosak.",
+                "ro": "Rămâneți în mașină pentru a admira vederea, protejându-vă de vânt; lumina iernii peste râu este spectaculoasă după-amiaza.",
+                "en": "Stay in the car to enjoy the view and protect yourself from the wind; the winter light over the river is spectacular in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Amador Jiménez",
+                "hu": "Auditorio Amador Jiménez",
+                "ro": "Auditorio Amador Jiménez",
+                "en": "Auditorio Amador Jiménez"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier im Warmen; da es um 17 Uhr dunkel wird, ist das beleuchtete Auditorium ein perfekter Abschluss Ihrer Autotour.",
+                "hu": "Zárja itt a napot a melegben; mivel 17 órakor sötétedik, a kivilágított Auditórium tökéletes befejezése az autós túrának.",
+                "ro": "Încheiați ziua aici, la căldură; deoarece se întunecă la ora 17, Auditorul luminat este finalul perfect pentru turul cu mașina.",
+                "en": "End your day here in the warmth; since it gets dark at 5 PM, the illuminated Auditorium is a perfect finish to your car tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

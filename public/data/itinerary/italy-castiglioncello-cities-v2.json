@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Fedezze fel Castiglioncello kulturális szívét a Diego Martelli Művészeti Központban, majd sétáljon el az amfiteátrumhoz. Délben: Irány a gyönyörű Bagni Quercetano egy kis tengeri szellőért, mielőtt meglátogatná a történelmi tornyot. Délután: Merüljön el az ókori történelemben a Nemzeti Régészeti Múzeumban. Este: Zárja a napot pihentetően a Bagni Miramare strandján.",
         "ro": "Dimineața: Explorați inima culturală din Castiglioncello la Centrul de Artă Diego Martelli, apoi faceți o plimbare spre amfiteatru. Prânz: Îndreptați-vă spre frumosul Bagni Quercetano pentru briza mării înainte de a vizita turnul istoric. După-amiaza: Pătrundeți în istoria antică la Muzeul Național de Arheologie. Seara: Încheiați ziua relaxându-vă complet la Bagni Miramare.",
         "en": "Morning: Explore Castiglioncello's cultural heart starting with the Diego Martelli Art Center, then take a brief walk to the amphitheater. Midday: Head towards the beautiful Bagni Quercetano for some sea breeze before visiting the historical Torre di Castiglioncello. Afternoon: Dive into ancient history at the National Archaeological Museum. Evening: End the day relaxing at Bagni Miramare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit sanftem Regen an der Küste, ideal für den Besuch des Kunstzentrums. Mittags spazieren Sie unter dem Regenschirm zum Amphitheater, während der Meernebel die Bucht einhüllt. Nachmittags bieten der Turm und das Archäologische Museum trockenen Unterschlupf und tiefe Einblicke in die Geschichte. Abends genießen Sie die raue Schönheit der stürmischen See von einem geschützten Aussichtspunkt am Strand.",
+            "hu": "A reggel lágy esővel indul a parton, ami tökéletes alkalmat ad a művészeti központ felfedezésére. Délben esernyővel sétálunk az amfiteátrum felé, miközben a tengeri köd körbeöleli az öblöt. Délután a torony és a Régészeti Múzeum kínál száraz menedéket és gazdag történelmi látnivalót. Este a viharos tenger nyers szépségét élvezhetjük egy védett kilátópontról a strand közelében.",
+            "ro": "Dimineața începe cu o ploaie ușoară pe coastă, ideală pentru a explora centrul de artă. La prânz, ne plimbăm cu umbrela spre amfiteatru, în timp ce ceața marină învăluie golful. După-amiaza, turnul și Muzeul de Arheologie oferă un adăpost uscat și o incursiune fascinantă în istorie. Seara, admirăm frumusețea sălbatică a mării agitate dintr-un punct de observație protejat de lângă plajă.",
+            "en": "The morning starts with gentle rain on the coast, perfect for exploring the art center. At noon, we walk with umbrellas toward the amphitheater as sea mist envelops the bay. In the afternoon, the tower and Archaeological Museum provide dry shelter and deep historical insights. In the evening, enjoy the raw beauty of the stormy sea from a protected vantage point near the beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstzentrum Diego Martelli",
+                "hu": "Diego Martelli Művészeti Központ",
+                "ro": "Centrul de Artă Diego Martelli",
+                "en": "Diego Martelli Art Center"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Macchiaioli-Gemälde im trockenen Innenraum, während der Regen draußen eine melancholische Atmosphäre schafft; ideal für Kunstliebhaber an nassen Tagen.",
+                "hu": "Csodálja meg a Macchiaioli festők műveit a száraz belső térben, miközben a kinti eső melankolikus hangulatot áraszt; tökéletes program esős napokra.",
+                "ro": "Admirați picturile Macchiaioli în interiorul uscat, în timp ce ploaia de afară creează o atmosferă melancolică; program ideal pentru iubitorii de artă în zilele umede.",
+                "en": "Admire the Macchiaioli paintings in the dry interior while the rain outside creates a melancholy atmosphere; a perfect indoor program for art lovers on wet days."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater Giuliano Scabia",
+                "hu": "Giuliano Scabia Amfiteátrum",
+                "ro": "Amfiteatrul Giuliano Scabia",
+                "en": "Giuliano Scabia Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steinstufen glänzen im Regen und bieten ein dramatisches Fotomotiv; achten Sie auf rutschige Oberflächen beim Begehen der historischen Anlage.",
+                "hu": "Az ősi kőlépcsők csillognak az esőben, drámai fotótémát kínálva; ügyeljen a csúszós felületekre a történelmi helyszín bejárása során.",
+                "ro": "Treptele vechi de piatră strălucesc în ploaie, oferind un subiect fotografic dramatic; atenție la suprafețele alunecoase în timp ce explorați situl istoric.",
+                "en": "The ancient stone steps glisten in the rain, offering a dramatic photo subject; watch out for slippery surfaces while exploring the historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Quercetano",
+                "hu": "Bagni Quercetano",
+                "ro": "Bagni Quercetano",
+                "en": "Bagni Quercetano"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen unter dem Schutz eines Vordachs und genießen Sie die frische, salzige Meeresluft; wasserfeste Schuhe sind für den sandigen Weg ratsam.",
+                "hu": "Figyelje a hullámokat egy védett előtető alól, és élvezze a friss, sós tengeri levegőt; a homokos úton vízálló lábbeli viselete ajánlott.",
+                "ro": "Urmăriți valurile de sub protecția unei copertine și bucurați-vă de aerul proaspăt și sărat al mării; se recomandă încălțăminte impermeabilă pentru drumul nisipos.",
+                "en": "Watch the waves from under the protection of a canopy and enjoy the fresh, salty sea air; waterproof footwear is recommended for the sandy path."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Castiglioncello",
+                "hu": "Torre di Castiglioncello",
+                "ro": "Torre di Castiglioncello",
+                "en": "Torre di Castiglioncello"
+              },
+              "tip_5lang": {
+                "de": "Der massive Turm bietet Schutz vor Windböen und einen beeindruckenden Blick auf die graue, tosende See; halten Sie Ihre Kamera unter einer Schutzhülle bereit.",
+                "hu": "A masszív torony védelmet nyújt a széllökések ellen, és lenyűgöző kilátást kínál a szürke, haragos tengerre; tartsa fényképezőgépét tokban a kilátóponton.",
+                "ro": "Turnul masiv oferă protecție împotriva rafalelor de vânt și o vedere impresionantă asupra mării cenușii și învolburate; păstrați aparatul foto protejat.",
+                "en": "The massive tower offers protection from wind gusts and an impressive view of the gray, churning sea; keep your camera protected while at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Nationalmuseum",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für eine ausgiebige Tour durch die etruskischen Hallen und bleiben Sie warm und trocken; ein perfekter Ort, um das Wetter abzuwarten.",
+                "hu": "Használja ki az esős időt az etruszk csarnokok alapos felfedezésére, ahol melegben és szárazon maradhat; ideális hely az időjárás javulásának kivárására.",
+                "ro": "Profită de ploaie pentru un tur detaliat al sălilor etrusce, unde poți sta la căldură și uscat; locul perfect pentru a aștepta îmbunătățirea vremii.",
+                "en": "Take advantage of the rainy weather for an extensive tour of the Etruscan halls where you can stay warm and dry; an ideal place to wait out the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Miramare",
+                "hu": "Bagni Miramare",
+                "ro": "Bagni Miramare",
+                "en": "Bagni Miramare"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Naturschauspiel des Regens, der auf die Meeresoberfläche trifft, von der überdachten Terrasse aus; ein windfester Friesennerz ist hier sehr nützlich.",
+                "hu": "Tapasztalja meg a tengerfelszínre hulló eső látványát a fedett teraszról; egy szélálló esőkabát nagyon hasznos lehet a tengerparti szakaszon.",
+                "ro": "Experimentați spectacolul ploii care cade pe suprafața mării de pe terasa acoperită; o pelerină rezistentă la vânt este foarte utilă pe malul mării.",
+                "en": "Experience the spectacle of rain falling on the sea surface from the covered terrace; a windproof raincoat is very useful along the coastal stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einem belebenden Küstenspaziergang in der frischen Meeresbrise ein. Mittags wärmen Sie sich in den Ausstellungsräumen des Schlosses auf, wenn die Sonne tief am Horizont steht. Der Nachmittag gehört der Geschichte im Museum, bevor die Dämmerung bereits gegen 17:00 Uhr einsetzt. Den Abend lassen Sie bei einem Blick auf die beleuchtete Promenade ausklingen, während die Kälte langsam zunimmt.",
+            "hu": "A tiszta téli reggel friss tengeri szellővel invitál egy élénkítő parti sétára a ragyogó napsütésben. Délben a kastély kiállítótermeiben melegedhetünk fel, miközben a nap alacsonyan jár a horizonton. A délután a múzeumi történelemé, mielőtt 17:00 körül hirtelen leszáll az alkony. Az estét a kivilágított sétány látványával zárjuk, ahogy a hideg fokozatosan erősödik.",
+            "ro": "O dimineață senină de iarnă vă invită la o plimbare revigorantă pe coastă, în briza proaspătă a mării. La prânz, ne încălzim în sălile de expoziție ale castelului, în timp ce soarele stă jos la orizont. După-amiaza este dedicată istoriei la muzeu, înainte ca amurgul să se lase în jurul orei 17:00. Seara se încheie cu priveliștea falezei iluminate, pe măsură ce frigul se intensifică.",
+            "en": "A clear winter morning invites you for an invigorating coastal walk in the fresh sea breeze. At noon, warm up in the castle's exhibition rooms while the sun hangs low on the horizon. The afternoon is dedicated to museum history before dusk sets in around 17:00. The evening concludes with a view of the illuminated promenade as the cold gradually intensifies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstzentrum Diego Martelli",
+                "hu": "Diego Martelli Művészeti Központ",
+                "ro": "Centrul de Artă Diego Martelli",
+                "en": "Diego Martelli Art Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in den warmen Galerien und betrachten Sie die Kunst ohne die sommerlichen Menschenmassen; tragen Sie mehrere Schichten Kleidung.",
+                "hu": "Élvezze a főszezonon kívüli nyugalmat a meleg galériákban, és tekintse meg a műalkotásokat a nyári tömeg nélkül; öltözzön rétegesen a sétákhoz.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului în galeriile calde și admirați arta fără aglomerația de vară; purtați mai multe straturi de haine pentru plimbări.",
+                "en": "Enjoy the off-season tranquility in the warm galleries and view the artworks without the summer crowds; dress in layers for the walks in between."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater Giuliano Scabia",
+                "hu": "Giuliano Scabia Amfiteátrum",
+                "ro": "Amfiteatrul Giuliano Scabia",
+                "en": "Giuliano Scabia Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke über das Theater bis zum Meer; ein warmer Schal schützt Sie vor dem kühlen Wind in der offenen Anlage.",
+                "hu": "A tiszta téli levegő messzi kilátást enged a színháztól egészen a tengerig; egy meleg sál megvédi a hűvös széltől a nyitott területen.",
+                "ro": "Aerul curat de iarnă permite vederi îndepărtate de la teatru până la mare; un fular călduros vă va proteja de vântul rece în zona deschisă.",
+                "en": "The clear winter air allows for distant views from the theater all the way to the sea; a warm scarf will protect you from the cool wind in the open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Quercetano",
+                "hu": "Bagni Quercetano",
+                "ro": "Bagni Quercetano",
+                "en": "Bagni Quercetano"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die einsame Schönheit des Strandes im Winter und das tiefe Blau des Meeres; die tiefstehende Sonne bietet fantastisches Licht für Winterfotos.",
+                "hu": "Tapasztalja meg a strand magányos szépségét télen és a tenger mélykék színét; az alacsony napállás fantasztikus fényeket kínál a téli fotókhoz.",
+                "ro": "Experimentați frumusețea solitară a plajei iarna și culoarea albastru profund a mării; soarele jos oferă o lumină fantastică pentru fotografiile de iarnă.",
+                "en": "Experience the solitary beauty of the beach in winter and the deep blue color of the sea; the low sun offers fantastic light for winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Castiglioncello",
+                "hu": "Torre di Castiglioncello",
+                "ro": "Torre di Castiglioncello",
+                "en": "Torre di Castiglioncello"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm kurz vor Sonnenuntergang um 17:00 Uhr für ein magisches Farbenspiel am Winterhimmel; Handschuhe sind für den Aufenthalt im Freien ratsam.",
+                "hu": "Látogasson el a toronyhoz röviddel a 17:00-s naplemente előtt a téli égbolt varázslatos színeiért; a szabadtéri nézelődéshez kesztyű viselete ajánlott.",
+                "ro": "Vizitați turnul cu puțin timp înainte de apusul de la ora 17:00 pentru culorile magice ale cerului de iarnă; se recomandă mănuși pentru exterior.",
+                "en": "Visit the tower shortly before the 17:00 sunset for the magical colors of the winter sky; wearing gloves is recommended for outdoor sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Nationalmuseum",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Die gut geheizten Museumsräume sind der ideale Zufluchtsort vor der winterlichen Kälte und bieten spannende antike Entdeckungen; planen Sie 100 Minuten Aufenthalt ein.",
+                "hu": "A jól fűtött múzeumi termek ideális menedéket nyújtanak a téli hideg elől, miközben izgalmas ókori felfedezéseket kínálnak; tervezzen 100 perces tartózkodást.",
+                "ro": "Sălile de muzeu bine încălzite sunt refugiul ideal împotriva frigului de iarnă, oferind descoperiri antice interesante; planificați o ședere de 100 de minute.",
+                "en": "The well-heated museum rooms are the ideal refuge from the winter cold while offering exciting ancient discoveries; plan for a 100-minute stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Miramare",
+                "hu": "Bagni Miramare",
+                "ro": "Bagni Miramare",
+                "en": "Bagni Miramare"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die kühlen Winterwellen von der Küste aus, bevor es dunkel wird; ein warmer Mantel ist unverzichtbar, da die Temperaturen nach Sonnenuntergang rasch sinken.",
+                "hu": "Figyelje a hűvös téli hullámokat a partról, mielőtt besötétedik; a meleg kabát elengedhetetlen, mivel a hőmérséklet naplemente után gyorsan csökken.",
+                "ro": "Admirați valurile reci de iarnă de pe țărm înainte de lăsarea întunericului; haina groasă este esențială, deoarece temperatura scade rapid după apus.",
+                "en": "Watch the cool winter waves from the shore before it gets dark; a warm coat is essential as the temperature drops rapidly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Délelőtt: Kezdje a kerékpározást az északi strandoknál, élvezve a parti utat. Délben: Tekerjen a történelmi Torre di Castiglioncellohoz, majd látogasson el a Diego Martelli Művészeti Központba. Délután: Folytassa útját a Régészeti Múzeum felé, majd tekerjen el a szabadtéri amfiteátrumhoz. Este: Zárja a túrát a déli Bagni Belvedere strandon, megpihenve a tengerparton.",
         "ro": "Dimineața: Începeți plimbarea la plajele nordice Santa Lucia și Le Forbici, bucurându-vă de drumul de coastă. Prânz: Pedați spre istoricul Torre di Castiglioncello, apoi vizitați Centrul de Artă Diego Martelli. După-amiaza: Continuați la Muzeul de Arheologie pentru context istoric, apoi pedalați spre amfiteatrul în aer liber. Seara: Încheiați turul relaxându-vă la Bagni Belvedere.",
         "en": "Morning: Start your ride at the northern beaches, Santa Lucia and Le Forbici, enjoying the coastal path and fresh air. Midday: Pedal to the historic Torre di Castiglioncello, then visit the Diego Martelli Art Center to admire local artistry. Afternoon: Continue to the Archaeological Museum for historical context, then ride to the open-air Anfiteatro. Evening: Conclude at Bagni Belvedere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt entlang der nassen Küstenstraße zur Santa Lucia. Mittags radeln Sie durch den dichten Nebel zu den Museen, wobei die Sicht den Reiz der Landschaft verändert. Nachmittags erkunden Sie die historischen Stätten, während der Asphalt bei Regen besondere Vorsicht erfordert. Abends beenden Sie die Tour an einem geschützten Ort am Meer, begleitet vom Rauschen der Wellen und des Regens.",
+            "hu": "A nap óvatos tekeréssel indul a nedves parti úton Santa Lucia felé. Délben sűrű ködben biciklizünk a múzeumokhoz, ahol a látási viszonyok megváltoztatják a táj hangulatát. Délután a történelmi helyszíneket fedezzük fel, miközben az aszfalt esőben fokozott óvatosságot igényel. Este egy védett tengerparti ponton zárjuk a túrát, a hullámok és az eső morajlását hallgatva.",
+            "ro": "Ziua începe cu o plimbare precaută pe drumul umed de coastă spre Santa Lucia. La prânz, pedalăm prin ceața densă spre muzee, unde vizibilitatea schimbă farmecul peisajului. După-amiaza explorăm siturile istorice, în timp ce asfaltul ud necesită prudență sporită. Seara încheiem turul într-un loc protejat la malul mării, însoțiți de vuietul valurilor și al ploii.",
+            "en": "The day starts with a cautious ride along the wet coastal road to Santa Lucia. At noon, we cycle through thick mist to the museums, where visibility changes the landscape's charm. In the afternoon, we explore historical sites while the wet asphalt requires extra caution. In the evening, end the tour at a protected seaside spot, accompanied by the sound of waves and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Santa Lucia",
+                "hu": "Spiaggia di Santa Lucia",
+                "ro": "Spiaggia di Santa Lucia",
+                "en": "Spiaggia di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt auf nassen Wegen erfordert gute Bremsen; genießen Sie den dramatischen Anblick der grauen See von der Kaimauer aus, bevor Sie weiterfahren.",
+                "hu": "A nedves úton való haladás jó fékeket igényel; élvezze a szürke tenger drámai látványát a rakpartról, mielőtt továbbtekerne a következő állomáshoz.",
+                "ro": "Condusul pe drumuri ude necesită frâne bune; bucurați-vă de vederea dramatică a mării cenușii de pe faleză înainte de a continua drumul spre următoarea oprire.",
+                "en": "Riding on wet roads requires good brakes; enjoy the dramatic sight of the gray sea from the embankment before cycling on to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia le Forbici",
+                "hu": "Spiaggia le Forbici",
+                "ro": "Spiaggia le Forbici",
+                "en": "Spiaggia le Forbici"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenpfad kann rutschig sein, fahren Sie also langsam; die Gischt des Meeres vermischt sich mit dem Regen und bietet ein erfrischendes Naturerlebnis.",
+                "hu": "A parti ösvény csúszós lehet, ezért haladjon lassan; a tenger permete keveredik az esővel, frissítő természeti élményt nyújtva a bicikliseknek.",
+                "ro": "Poteca de coastă poate fi alunecoasă, așa că pedalați încet; aerosolii marini se amestecă cu ploaia, oferind o experiență naturală revigorantă.",
+                "en": "The coastal path can be slippery, so ride slowly; the sea spray mixes with the rain, offering a refreshing natural experience for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Castiglioncello",
+                "hu": "Torre di Castiglioncello",
+                "ro": "Torre di Castiglioncello",
+                "en": "Torre di Castiglioncello"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und erklimmen Sie den Turm für eine windgeschützte Aussicht; die steinernen Aufgänge sind bei Nässe mit Vorsicht zu betreten.",
+                "hu": "Támassza le a kerékpárt fedett helyre, és menjen fel a toronyba a szélvédett kilátásért; a kőfeljárókon nedves időben óvatosan közlekedjen.",
+                "ro": "Lăsați bicicleta într-un loc acoperit și urcați în turn pentru o vedere protejată de vânt; urcați cu atenție pe treptele de piatră când sunt ude.",
+                "en": "Park your bike in a covered spot and climb the tower for a wind-protected view; use caution on the stone walkways when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstzentrum Diego Martelli",
+                "hu": "Diego Martelli Művészeti Központ",
+                "ro": "Centrul de Artă Diego Martelli",
+                "en": "Diego Martelli Art Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause im Trockenen; wasserdichte Fahrradbekleidung ist für die Weiterfahrt durch den Küstenregen unerlässlich.",
+                "hu": "Használja ki a múzeumlátogatást egy száraz pihenőre; a vízálló kerékpáros ruházat elengedhetetlen a parti esőben való továbbhaladáshoz.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză uscată; îmbrăcămintea de ciclism impermeabilă este esențială pentru a continua prin ploaia de coastă.",
+                "en": "Use the museum visit for a dry break; waterproof cycling gear is essential for continuing your ride through the coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Nationalmuseum",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Nähe und tauchen Sie in die etruskische Welt ein, während draußen der Regen prasselt; im Inneren ist es warm und geschützt.",
+                "hu": "Parkoljon le a közelben, és merüljön el az etruszk világban, miközben kint kopog az eső; odabent meleg és védett környezet várja.",
+                "ro": "Parcați bicicleta în apropiere și cufundați-vă în lumea etruscă în timp ce ploaia bate afară; în interior veți găsi un mediu cald și protejat.",
+                "en": "Park your bike nearby and immerse yourself in the Etruscan world while the rain beats down outside; inside, a warm and protected environment awaits."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater Giuliano Scabia",
+                "hu": "Giuliano Scabia Amfiteátrum",
+                "ro": "Amfiteatrul Giuliano Scabia",
+                "en": "Giuliano Scabia Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die antike Kulisse wirkt im Regen besonders mystisch; achten Sie beim Schieben Ihres Fahrrads auf dem Gelände auf den schlüpfrigen Boden.",
+                "hu": "Az antik díszlet az esőben különösen misztikusnak tűnik; ügyeljen a csúszós talajra, ha a kerékpárt a területen belül tolnia kell.",
+                "ro": "Cadrul antic pare deosebit de mistic în ploaie; atenție la solul alunecos dacă trebuie să împingeți bicicleta în interiorul zonei.",
+                "en": "The ancient setting looks particularly mystical in the rain; watch out for slippery ground if you have to push your bike within the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Belvedere",
+                "hu": "Bagni Belvedere",
+                "ro": "Bagni Belvedere",
+                "en": "Bagni Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den letzten Blick auf das Meer unter einem Vordach, bevor Sie zurückfahren; reflektierende Kleidung erhöht Ihre Sicherheit bei Regen und Dämmerung.",
+                "hu": "Élvezze az utolsó pillantást a tengerre egy előtető alól, mielőtt visszaindulna; a fényvisszaverő ruházat növeli a biztonságot esőben és szürkületben.",
+                "ro": "Bucurați-vă de o ultimă privire asupra mării sub o copertină înainte de a pleca; hainele reflectorizante sporesc siguranța pe ploaie și amurg.",
+                "en": "Enjoy a final look at the sea from under a canopy before heading back; reflective clothing increases safety in the rain and twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, aber sonniger Wintermorgen beginnt mit einer Fahrt zur Santa Lucia, wo die Meeresluft besonders klar ist. Mittags nutzen Sie die Bewegung, um warm zu bleiben, und besuchen die Museen für eine Pause im Geheizten. Am Nachmittag radeln Sie zum Amphitheater, bevor die Sonne gegen 17:00 Uhr spektakulär untergeht. Die Tour endet in der blauen Stunde an der Küste, bevor die Abendkälte eine schnelle Rückkehr erfordert.",
+            "hu": "A fagyos, de napsütéses téli reggel tekeréssel indul Santa Lucia felé, ahol a tengeri levegő különösen tiszta. Délben a mozgás segít melegen maradni, a múzeumlátogatások pedig fűtött pihenőt kínálnak. Délután az amfiteátrum felé biciklizünk, mielőtt a nap 17:00 körül látványosan lebukik. A túra a kék órában ér véget a parton, mielőtt az esti hideg gyors hazatérést sürgetne.",
+            "ro": "O dimineață de iarnă geroasă, dar însorită, începe cu o plimbare spre Santa Lucia, unde aerul marin este deosebit de curat. La prânz, mișcarea vă ajută să vă mențineți cald, iar vizitele la muzeu oferă pauze încălzite. După-amiaza pedalăm spre amfiteatru înainte ca soarele să apună spectaculos în jurul orei 17:00. Turul se încheie la ora albastră, înainte ca frigul serii să grăbească întoarcerea.",
+            "en": "A frosty but sunny winter morning begins with a ride toward Santa Lucia, where the sea air is particularly clear. At noon, the movement helps you stay warm, and museum visits offer heated breaks. In the afternoon, cycle toward the amphitheater before the sun sets spectacularly around 17:00. The tour ends at the blue hour on the shore before the evening cold urges a quick return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Santa Lucia",
+                "hu": "Spiaggia di Santa Lucia",
+                "ro": "Spiaggia di Santa Lucia",
+                "en": "Spiaggia di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe am Strand ist perfekt für Fotos bei klarem Licht; tragen Sie winddichte Handschuhe, um Ihre Hände beim Radfahren warm zu halten.",
+                "hu": "A strand téli nyugalma tökéletes a tiszta fényben történő fotózáshoz; viseljen szélálló kesztyűt, hogy kezei melegen maradjanak biciklizés közben.",
+                "ro": "Liniștea de iarnă de pe plajă este perfectă pentru fotografii în lumină clară; purtați mănuși rezistente la vânt pentru a vă menține mâinile calde pe bicicletă.",
+                "en": "The winter tranquility on the beach is perfect for photography in clear light; wear windproof gloves to keep your hands warm while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia le Forbici",
+                "hu": "Spiaggia le Forbici",
+                "ro": "Spiaggia le Forbici",
+                "en": "Spiaggia le Forbici"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Felsen bei tiefstehender Sonne ist atemberaubend; ein Thermo-Baselayer unter der Jacke schützt Sie vor dem auskühlenden Fahrtwind.",
+                "hu": "A sziklákra nyíló kilátás az alacsony napállásnál lélegzetelállító; egy aláöltözet a kabát alatt megvédi Önt a lehűlést okozó menetszéltől.",
+                "ro": "Priveliștea stâncilor în lumina soarelui de iarnă este uluitoare; un strat termic sub jachetă vă va proteja de vântul tăios în timpul pedalării.",
+                "en": "The view of the cliffs in the low winter sun is breathtaking; a thermal base layer under your jacket will protect you from the chilling wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Castiglioncello",
+                "hu": "Torre di Castiglioncello",
+                "ro": "Torre di Castiglioncello",
+                "en": "Torre di Castiglioncello"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie den Turm für eine fantastische Fernsicht bei trockenem Winterwetter; oben kann es sehr windig sein, halten Sie eine Mütze bereit.",
+                "hu": "Menjen fel a toronyba a fantasztikus távoli kilátásért száraz téli időben; fent nagyon szeles lehet az idő, ezért tartsa készenlétben a sapkáját.",
+                "ro": "Urcați în turn pentru o vedere panoramică fantastică pe vreme uscată de iarnă; sus poate fi foarte vânt, așa că aveți o căciulă la îndemână.",
+                "en": "Climb the tower for a fantastic distant view in dry winter weather; it can be very windy at the top, so keep a warm hat ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstzentrum Diego Martelli",
+                "hu": "Diego Martelli Művészeti Központ",
+                "ro": "Centrul de Artă Diego Martelli",
+                "en": "Diego Martelli Art Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf und genießen Sie die Kunst ohne Sommertrubel; ein idealer Ort für eine längere Pause während der Radtour.",
+                "hu": "Melegedjen fel a kiállítótermekben, és élvezze a művészetet a nyári nyüzsgés nélkül; ideális helyszín egy hosszabb pihenőre a kerékpártúra során.",
+                "ro": "Încălziți-vă în sălile de expoziție și bucurați-vă de artă fără agitația verii; un loc ideal pentru o pauză mai lungă în timpul turului cu bicicleta.",
+                "en": "Warm up in the exhibition rooms and enjoy the art without the summer bustle; an ideal location for a longer break during the bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Nationalmuseum",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die antiken Schätze im geheizten Museum und nutzen Sie die Zeit, bevor die Sonne untergeht; planen Sie Ihre Ankunft vor 15:00 Uhr.",
+                "hu": "Fedezze fel az antik kincseket a fűtött múzeumban, és használja ki az időt a naplemente előtt; tervezze az érkezést 15:00 óra elé.",
+                "ro": "Descoperiți comorile antice în muzeul încălzit și profitați de timp înainte de apusul soarelui; planificați sosirea înainte de ora 15:00.",
+                "en": "Discover ancient treasures in the heated museum and use the time before the sun sets; plan to arrive before 15:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater Giuliano Scabia",
+                "hu": "Giuliano Scabia Amfiteátrum",
+                "ro": "Amfiteatrul Giuliano Scabia",
+                "en": "Giuliano Scabia Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten auf die Steine und schafft eine einzigartige Atmosphäre; ein schneller Stopp ist ideal, um das Licht einzufangen.",
+                "hu": "A téli nap hosszú árnyékokat vet a kövekre, egyedi hangulatot teremtve; egy gyors megálló ideális a különleges fények megörökítéséhez.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe pietre, creând o atmosferă unică; o oprire rapidă este ideală pentru a surprinde lumina specială.",
+                "en": "The winter sun casts long shadows on the stones, creating a unique atmosphere; a quick stop is ideal for capturing the special light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Belvedere",
+                "hu": "Bagni Belvedere",
+                "ro": "Bagni Belvedere",
+                "en": "Bagni Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr direkt vom Küstenweg aus; schalten Sie für den Rückweg unbedingt Ihr Fahrradlicht ein.",
+                "hu": "Figyelje a naplementét 17:00-kor közvetlenül a parti útról; a visszautazáshoz mindenképpen kapcsolja be a kerékpár lámpáit.",
+                "ro": "Urmăriți apusul de la ora 17:00 direct de pe drumul de coastă; asigurați-vă că aprindeți luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Watch the sunset at 17:00 directly from the coastal path; be sure to turn on your bike lights for the return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Délelőtt: Vezessen a déli csücsökbe, hogy megnézze a vad Crepatura partvonalat, majd pihenjen a Bagni Belvedere-nél. Délben: Parkoljon le a központban, hogy felfedezze a Régészeti Múzeumot és az ikonikus tornyot. Délután: Látogasson el a Művészeti Központba, majd vezessen a híres Bagni Quercetano strandra. Este: Vezessen északra a félreeső Spiaggia di Santa Lucia tengerpartra a naplementéhez.",
         "ro": "Dimineața: Conduceți spre sud pentru a vedea coasta stâncoasă Crepatura, apoi relaxați-vă la elegantul Bagni Belvedere. Prânz: Parcați aproape de centru pentru a explora Muzeul de Arheologie și emblematicul turn. După-amiaza: Vizitați Centrul de Artă Diego Martelli, apoi conduceți la renumitul Bagni Quercetano. Seara: Conduceți spre nord până la retrasa plajă Spiaggia di Santa Lucia.",
         "en": "Morning: Drive to the southern tip to see the rugged Crepatura coastline, then relax briefly at the elegant Bagni Belvedere. Midday: Park near the center to explore the Archaeological Museum and the iconic Torre di Castiglioncello. Afternoon: Visit the Diego Martelli Art Center, then drive to the renowned Bagni Quercetano. Evening: Drive north to the secluded Spiaggia di Santa Lucia."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer gemütlichen Fahrt durch den Küstenregen zu den Aussichtspunkten. Mittags parken Sie bequem in der Nähe der Museen, um trockenen Fußes zur Kultur zu gelangen. Nachmittags erkunden Sie die historischen Stätten, während die Scheibenwischer den Blick auf die tosende See freigeben. Abends genießen Sie die behagliche Atmosphäre im Auto bei einer Panoramafahrt entlang der regennassen Uferstraße.",
+            "hu": "A reggel kényelmes autózással indul a parti esőben a kilátópontok felé. Délben közvetlenül a múzeumok közelében parkolhatunk, így száraz lábbal érhetjük el a kulturális helyszíneket. Délután a történelmi emlékeket fedezzük fel, miközben az ablaktörlők mögül figyeljük a haragos tengert. Este élvezzük az autó nyújtotta biztonságot egy panorámás vezetés során a vizes úton.",
+            "ro": "Dimineața începe cu o plimbare relaxantă cu mașina prin ploaia de coastă spre punctele de belvedere. La prânz parcăm convenabil lângă muzee pentru a ajunge la obiectivele culturale fără a ne uda. După-amiaza explorăm vestigiile istorice, în timp ce ștergătoarele dezvăluie marea învolburată. Seara ne bucurăm de confortul mașinii într-o plimbare panoramică pe drumul umed.",
+            "en": "The morning starts with a comfortable drive through the coastal rain toward the viewpoints. At noon, park conveniently near the museums to reach the cultural sites dry. In the afternoon, explore historical remains while the wipers reveal the churning sea. In the evening, enjoy the cozy atmosphere of the car during a panoramic drive along the rain-soaked road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crepatura",
+                "hu": "Crepatura",
+                "ro": "Crepatura",
+                "en": "Crepatura"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die dramatische Felsküste direkt vom Autofenster aus; die Gischt der Wellen kann bei Wind bis zur Straße spritzen.",
+                "hu": "Tekintse meg a drámai sziklás partot közvetlenül az autó ablakából; a hullámok permete szeles időben egészen az útig felcsaphat.",
+                "ro": "Admirați coasta stâncoasă dramatică direct de pe geamul mașinii; aerosolii valurilor pot ajunge până la drum în condiții de vânt.",
+                "en": "View the dramatic rocky coast directly from your car window; the sea spray can splash all the way to the road in windy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Belvedere",
+                "hu": "Bagni Belvedere",
+                "ro": "Bagni Belvedere",
+                "en": "Bagni Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen kurzen, regenfesten Blick auf die Bucht; die Farben des Meeres sind bei Regen besonders intensiv.",
+                "hu": "Használja a közeli parkolót egy rövid, esőbiztos kilátáshoz az öbölre; a tenger színei esőben különösen mélyek és intenzívek.",
+                "ro": "Folosiți parcarea din apropiere pentru o scurtă privire protejată spre golf; culorile mării sunt deosebit de intense pe timp de ploaie.",
+                "en": "Use the nearby parking lot for a short, rain-proof view of the bay; the colors of the sea are particularly deep and intense in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Nationalmuseum",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museumseingang, um dem Regen zu entgehen; drinnen erwartet Sie eine faszinierende Reise in die etruskische Vergangenheit im Trockenen.",
+                "hu": "Parkoljon közvetlenül a múzeum bejáratánál, hogy elkerülje az esőt; odabent lenyűgöző utazás várja az etruszk múltba, száraz környezetben.",
+                "ro": "Parcați chiar la intrarea în muzeu pentru a evita ploaia; în interior vă așteaptă o călătorie fascinantă în trecutul etrusc, la uscat.",
+                "en": "Park right at the museum entrance to avoid the rain; inside, a fascinating journey into the Etruscan past awaits you in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Castiglioncello",
+                "hu": "Torre di Castiglioncello",
+                "ro": "Torre di Castiglioncello",
+                "en": "Torre di Castiglioncello"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Turm lohnt sich für die Aussicht; der Turm bietet soliden Schutz vor den Küstenschauern.",
+                "hu": "Megéri egy rövid futás a parkolótól a toronyig a kilátásért; a torony szilárd védelmet nyújt a tengerparti záporok ellen.",
+                "ro": "Merită un scurt sprint de la parcare la turn pentru priveliște; turnul oferă o protecție solidă împotriva averselor de pe coastă.",
+                "en": "A short sprint from the parking lot to the tower is worth it for the view; the tower provides solid protection from coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstzentrum Diego Martelli",
+                "hu": "Diego Martelli Művészeti Központ",
+                "ro": "Centrul de Artă Diego Martelli",
+                "en": "Diego Martelli Art Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunstgalerien als perfekten Zufluchtsort an nassen Tagen; die Heizung im Auto sorgt zwischen den Stopps für wohlige Wärme.",
+                "hu": "Élvezze a művészeti galériákat, mint tökéletes menedéket az esős napokon; az autó fűtése két megálló között kellemes meleget biztosít.",
+                "ro": "Bucurați-vă de galeriile de artă ca refugiu perfect în zilele umede; încălzirea mașinii vă va asigura confortul termic între opriri.",
+                "en": "Enjoy the art galleries as a perfect refuge on wet days; the car's heater ensures cozy warmth between the different stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Quercetano",
+                "hu": "Bagni Quercetano",
+                "ro": "Bagni Quercetano",
+                "en": "Bagni Quercetano"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über der Bucht von einem geschützten Aussichtspunkt in Straßennähe; der Asphalt kann bei Nässe rutschig sein.",
+                "hu": "Figyelje az öböl feletti esős időt egy út menti védett kilátópontról; az aszfalt nedvesen csúszós lehet, vezessen óvatosan a kanyarokban.",
+                "ro": "Urmăriți vremea ploioasă deasupra golfului dintr-un punct de observație protejat lângă drum; asfaltul poate fi alunecos când este ud.",
+                "en": "Watch the rainy weather over the bay from a protected viewpoint near the road; the asphalt can be slippery when wet, drive carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Lucia",
+                "hu": "Spiaggia di Santa Lucia",
+                "ro": "Spiaggia di Santa Lucia",
+                "en": "Spiaggia di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Panoramafahrt entlang der Küste; die beleuchtete Straße im Regen bietet wunderschöne Lichtreflexionen.",
+                "hu": "Zárja a napot egy panorámás autózással a part mentén; az esőben megcsillanó fények az úton gyönyörű látványt nyújtanak.",
+                "ro": "Încheiați ziua cu o plimbare panoramică de-a lungul coastei; luminile reflectate în ploaie pe drum oferă un spectacol vizual deosebit.",
+                "en": "End the day with a panoramic drive along the coast; the lights reflecting on the rain-slicked road offer a beautiful visual display."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen beginnt mit einer Fahrt zur Crepatura, wo das Licht der tiefstehenden Sonne die Küste verzaubert. Mittags genießen Sie den Komfort des Autos, um schnell zwischen den warmen Museen zu wechseln. Der Nachmittag bietet klare Sichtverhältnisse vom Turm aus, bevor es gegen 17:00 Uhr dunkel wird. Den Tag lassen Sie bei einer gemütlichen Fahrt durch den beleuchteten Ort ausklingen, während die Heizung für Komfort sorgt.",
+            "hu": "A ragyogó téli reggel autózással indul Crepatura felé, ahol az alacsony napállás fénye elvarázsolja a partot. Délben élvezze az autó kényelmét, amellyel gyorsan válthat a meleg múzeumok között. A délután tiszta látási viszonyokat kínál a toronyból, mielőtt 17:00 körül besötétedik. A napot a kivilágított városon átvezető kényelmes úttal zárjuk, miközben az autóban meleg van.",
+            "ro": "O dimineață strălucitoare de iarnă începe cu o plimbare spre Crepatura, unde lumina soarelui jos transformă peisajul de coastă. La prânz, bucurați-vă de confortul mașinii pentru a ajunge rapid între muzeele calde. După-amiaza oferă vizibilitate clară de la turn înainte de lăsarea întunericului la ora 17:00. Încheiați ziua cu o plimbare prin orașul iluminat, la căldură.",
+            "en": "A brilliant winter morning begins with a drive toward Crepatura, where the light of the low sun transforms the coastal landscape. At noon, enjoy the car's comfort to move quickly between the warm museums. The afternoon offers clear visibility from the tower before it gets dark around 17:00. End the day with a cozy drive through the illuminated town while staying warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crepatura",
+                "hu": "Crepatura",
+                "ro": "Crepatura",
+                "en": "Crepatura"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für beeindruckende Küstenfotos direkt vom Parkplatz; die Luft ist morgens oft besonders rein und frisch.",
+                "hu": "Használja ki a tiszta téli fényt a lenyűgöző parti fotókhoz közvetlenül a parkolóból; a levegő reggelente gyakran különösen friss.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii spectaculoase de pe coastă direct din parcare; aerul este adesea foarte proaspăt dimineața.",
+                "en": "Take advantage of the clear winter light for impressive coastal photos directly from the parking lot; the air is often very fresh in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Belvedere",
+                "hu": "Bagni Belvedere",
+                "ro": "Bagni Belvedere",
+                "en": "Bagni Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem und genießen Sie die weite Sicht über das tiefblaue Meer; im Winter ist die Fernsicht oft viel besser als im Sommer.",
+                "hu": "Parkoljon kényelmesen, és élvezze a kilátást a mélykék tengerre; télen a távoli látási viszonyok gyakran sokkal jobbak, mint nyáron.",
+                "ro": "Parcați confortabil și bucurați-vă de vederea spre marea albastru închis; iarna vizibilitatea la distanță este adesea mult mai bună decât vara.",
+                "en": "Park comfortably and enjoy the wide view over the deep blue sea; in winter, distant visibility is often much better than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Nationalmuseum",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "National Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die geheizten Räume für einen entspannten Museumsbesuch ohne Anstehen; ein idealer Ort, um die kälteste Zeit des Tages zu überbrücken.",
+                "hu": "Használja ki a fűtött termeket egy nyugodt múzeumlátogatáshoz sorban állás nélkül; ideális hely a nap leghidegebb óráinak eltöltésére.",
+                "ro": "Folosiți sălile încălzite pentru o vizită relaxată la muzeu, fără cozi; locul ideal pentru a petrece cele mai reci ore ale zilei.",
+                "en": "Take advantage of the heated rooms for a relaxed museum visit without queues; an ideal place to spend the coldest hours of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Castiglioncello",
+                "hu": "Torre di Castiglioncello",
+                "ro": "Torre di Castiglioncello",
+                "en": "Torre di Castiglioncello"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Turm bietet im Winter tolle Ausblicke; besuchen Sie den Turm rechtzeitig vor 17:00 Uhr, um den Sonnenuntergang zu sehen.",
+                "hu": "A toronyhoz vezető út télen is remek kilátást nyújt; látogasson el ide időben 17:00 előtt, hogy elcsípje a naplementét.",
+                "ro": "Drumul spre turn oferă priveliști superbe și iarna; vizitați turnul la timp înainte de ora 17:00 pentru a prinde apusul soarelui.",
+                "en": "The drive up to the tower offers great views even in winter; visit the tower in time before 17:00 to catch the sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstzentrum Diego Martelli",
+                "hu": "Diego Martelli Művészeti Központ",
+                "ro": "Centrul de Artă Diego Martelli",
+                "en": "Diego Martelli Art Center"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Werke der Macchiaioli in warmer Atmosphäre; das Parken in der Nähe ist in der Nebensaison wesentlich einfacher als im Sommer.",
+                "hu": "Fedezze fel a Macchiaioli műveket meleg környezetben; a parkolás a közelben utószezonban lényegesen egyszerűbb, mint nyáron.",
+                "ro": "Descoperiți operele Macchiaioli într-o atmosferă caldă; parcarea în apropiere este mult mai ușoară în afara sezonului decât vara.",
+                "en": "Discover the Macchiaioli works in a warm atmosphere; parking nearby is significantly easier in the off-season than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Quercetano",
+                "hu": "Bagni Quercetano",
+                "ro": "Bagni Quercetano",
+                "en": "Bagni Quercetano"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Aussichtspunkt zeigt die winterliche Ruhe der Bucht; achten Sie auf tiefstehende Sonne beim Fahren entlang der Küstenstraße.",
+                "hu": "Egy rövid megálló a kilátópontnál megmutatja az öböl téli nyugalmát; ügyeljen az alacsonyan járó napra a parti úton való vezetéskor.",
+                "ro": "O scurtă oprire la punctul de belvedere dezvăluie liniștea de iarnă a golfului; atenție la soarele jos când conduceți pe drumul de coastă.",
+                "en": "A short stop at the viewpoint reveals the winter tranquility of the bay; watch out for the low sun while driving along the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Lucia",
+                "hu": "Spiaggia di Santa Lucia",
+                "ro": "Spiaggia di Santa Lucia",
+                "en": "Spiaggia di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour mit einer Fahrt in der blauen Stunde; die klare Winterluft lässt die Lichter der Küste besonders hell funkeln.",
+                "hu": "Zárja a túrát egy autózással a kék órában; a tiszta téli levegőben a parti fények különösen fényesen csillognak.",
+                "ro": "Încheiați turul cu o plimbare la ora albastră; aerul curat de iarnă face ca luminile de pe coastă să strălucească deosebit de tare.",
+                "en": "End your tour with a drive during the blue hour; the clear winter air makes the coastal lights sparkle particularly brightly."
+              }
+            }
+          ]
+        }
       }
     }
   }

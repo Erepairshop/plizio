@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a Szeplőtelen Fogantatás modern templománál, majd fedezze fel a Via Cassia ősi macskaköveit. Kora délután egy római villa lenyűgöző romjait barangolhatja be egy csendes környezetben. A délután folyamán a San Giuliano Martire templom kínál békés menedéket a lelki elmélyüléshez. Zárja a napot a lenyűgöző római mauzóleumnál, és érezze át Róma e lenyűgöző régiójának történelmi mélységét.",
         "ro": "Începeți plimbarea la biserica modernă a Imaculatei Concepții, înainte de a descoperi pavajele antice de pe Via Cassia. La amiază, explorați ruinele fascinante ale unei vile romane într-un cadru foarte liniștit. După-amiaza, biserica San Giuliano Martire vă oferă un refugiu pașnic pentru meditație spirituală. Încheiați ziua la impresionantul mausoleu roman și simțiți profunzimea istorică a acestei regiuni fascinante din Roma.",
         "en": "Begin your walk at the modern Church of the Immaculate Conception before discovering the ancient paving stones of the Via Cassia. At midday, explore the fascinating ruins of a Roman villa set in a quiet environment. In the afternoon, the Church of San Giuliano Martire provides a peaceful retreat for spiritual reflection. End your day at the impressive Roman mausoleum, feeling the historical depth of this fascinating region of Rome."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in der modernen Kirche, die guten Schutz bietet.\n\nNavigieren Sie mittags vorsichtig über die nassen Basaltsteine der Via Cassia und erkunden Sie die Römische Villa mit einem großen Regenschirm.\n\nNachmittags finden Sie angenehme Wärme und Ruhe in der Kirche des lokalen Märtyrers.\n\nBeenden Sie Ihren nassen Spaziergang am römischen Mausoleum in wasserfesten Schuhen, um schlammige Pfade sicher zu meiden.",
+            "hu": "Kezdje esős reggelét a modern templom száraz menedékében, felkészülve a napra.\n\nDélben óvatosan lépkedjen a Via Cassia nedves bazaltkövein, és esernyővel fedezze fel a római villa szabadtéri romjait.\n\nDélután keressen melegséget a helyi vértanú békés templomában.\n\nFejezze be nedves sétáját a római mauzóleumnál, vízálló, csúszásmentes cipőt viselve a saras ösvények miatt.",
+            "ro": "Începeți dimineața ploioasă la adăpostul bisericii moderne, ferindu-vă de vremea rece.\n\nLa prânz, pășiți cu grijă pe pietrele de bazalt umede ale Via Cassia și explorați ruinele vilei romane sub o umbrelă robustă.\n\nDupă-amiaza, încălziți-vă în liniștea bisericii martirului local.\n\nÎncheiați plimbarea umedă la Mausoleul roman, purtând cizme impermeabile pentru a evita noroiul de pe poteci.",
+            "en": "Begin your rainy morning at the sheltering modern church, safe from the changing weather.\n\nBy midday, carefully navigate the wet ancient basalt stones of Via Cassia and explore the Roman Villa's exposed remains under a sturdy umbrella.\n\nIn the afternoon, find pleasant warmth in the local martyr's church.\n\nEnd your wet walk at the Roman Mausoleum, wearing sturdy waterproof boots to completely avoid the muddy outdoor paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Beata Maria Vergine Immacolata",
+                "hu": "Chiesa della Beata Maria Vergine Immacolata",
+                "ro": "Chiesa della Beata Maria Vergine Immacolata",
+                "en": "Chiesa della Beata Maria Vergine Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur und entfliehen Sie dem Regen im Trockenen; halten Sie Ihren Regenschirm für den weiteren Weg griffbereit.",
+                "hu": "Csodálja meg a modern építészetet, miközben kényelmes menedéket talál a reggeli eső elől; tartsa kéznél az esernyőjét a továbbinduláshoz.",
+                "ro": "Admirați arhitectura modernă și scăpați de ploaia matinală într-un loc uscat; țineți umbrela la îndemână pentru când ieșiți afară.",
+                "en": "Admire the modern architecture inside while comfortably escaping the morning rain; keep your umbrella handy for when you exit back onto the street."
+              }
+            },
+            {
+              "name": {
+                "de": "basolato della Via Cassia",
+                "hu": "basolato della Via Cassia",
+                "ro": "basolato della Via Cassia",
+                "en": "basolato della Via Cassia"
+              },
+              "tip_5lang": {
+                "de": "Die alten römischen Steine dieser historischen Straße werden bei Nässe extrem rutschig; tragen Sie wasserfeste Schuhe mit gutem Profil und gehen Sie sehr vorsichtig.",
+                "hu": "Ennek a történelmi útnak az ősi római kövei nedvesen rendkívül csúszóssá válnak; viseljen kiváló tapadású vízálló cipőt, és lépkedjen nagyon óvatosan.",
+                "ro": "Pietrele romane antice ale acestui drum devin extrem de alunecoase când sunt ude; purtați încălțăminte impermeabilă cu aderență bună și pășiți cu mare grijă.",
+                "en": "The ancient Roman stones of this historic road become extremely slippery when wet; wear waterproof shoes with excellent grip and step very carefully here."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie einen großen Regenschirm, während Sie diese ungeschützten alten Fundamente besichtigen, da sich auf den unbefestigten Wegen schnell Schlammpfützen bilden.",
+                "hu": "Használjon nagy esernyőt ezen nyitott ősi alapok megtekintésekor, mivel a helyszín körüli burkolatlan ösvényeken gyorsan saras tócsák képződnek.",
+                "ro": "Folosiți o umbrelă mare în timp ce vizualizați aceste fundații antice expuse, deoarece pe cărările neasfaltate se formează rapid bălți noroioase.",
+                "en": "Use a large umbrella while viewing these fully exposed ancient foundations, as muddy puddles quickly form around the unpaved paths of the archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuliano Martire",
+                "hu": "Chiesa di San Giuliano Martire",
+                "ro": "Chiesa di San Giuliano Martire",
+                "en": "Chiesa di San Giuliano Martire"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich einen Moment Zeit, um in dieser friedlichen modernen Pfarrei abzutrocknen und sich aufzuwärmen, bevor Sie Ihren nassen Spaziergang fortsetzen.",
+                "hu": "Szánjon egy percet arra, hogy megszáradjon és felmelegedjen ebben a békés modern plébániában, mielőtt tovább folytatná a szabadtéri sétát a környéken.",
+                "ro": "Luați-vă un moment pentru a vă usca și a vă încălzi în interiorul acestei parohii moderne pașnice înainte de a vă continua plimbarea pe ploaie.",
+                "en": "Take a quiet moment to completely dry off and warm up inside this peaceful modern parish before you brave the wet weather and continue your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo romano",
+                "hu": "Mausoleo romano",
+                "ro": "Mausoleo romano",
+                "en": "Mausoleo romano"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu diesem antiken Grab kann bei starkem Regen ziemlich schlammig sein; bleiben Sie an den grasbewachsenen Rändern, um nicht auszurutschen.",
+                "hu": "Az ehhez az ősi sírhoz vezető út heves esőzéskor meglehetősen saras lehet; maradjon a füves széleken, hogy elkerülje a nedves agyagban való megcsúszást.",
+                "ro": "Drumul către acest mormânt antic poate fi destul de noroios pe ploaie abundentă; rămâneți pe marginile cu iarbă pentru a evita alunecarea pe lutul umed.",
+                "en": "The unpaved path to this ancient tomb can be quite muddy in heavy rain; make sure to stick to the grassy edges to avoid slipping in the wet clay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen warm angezogen in der Kirche.\n\nMittags erkunden Sie die alte Via Cassia und die Ruinen der Römischen Villa bei hellem, kühlem Licht.\n\nNachmittags werden die Schatten an der Kirche San Giuliano schnell länger und es wird kälter.\n\nBeenden Sie den Tag am römischen Mausoleum vor dem frühen Sonnenuntergang um 17 Uhr, um die Dunkelheit zu vermeiden.",
+            "hu": "Kezdje a fagyos téli reggelt a helyi templomban, melegen felöltözve.\n\nDélben ragyogó fényben fedezheti fel a Via Cassia köveit és a római villa szabadtéri romjait.\n\nDélután az árnyékok gyorsan megnyúlnak a modern San Giuliano templomnál.\n\nFejezze be a napot a római mauzóleumnál, még a korai, 17:00 óra körüli sötétedés előtt, amikor a hőmérséklet hirtelen leesik.",
+            "ro": "Începeți dimineața de iarnă la biserica locală, îmbrăcându-vă călduros împotriva frigului.\n\nLa prânz, explorați luminoasa Via Cassia și ruinele vilei romane din apropiere.\n\nDupă-amiaza, umbrele se lungesc rapid când vizitați biserica modernă San Giuliano.\n\nÎncheiați ziua la Mausoleul roman, chiar înainte de apusul timpuriu de la ora 17:00, când temperaturile scad brusc.",
+            "en": "Start your crisp winter morning at the local church, dressing warmly for the cold Roman air.\n\nMidday brings bright exploration of the ancient Via Cassia and the nearby Roman Villa ruins.\n\nAfternoon shadows lengthen quickly as you visit the modern San Giuliano church.\n\nConclude your day at the Roman Mausoleum just before the early sunset around 5 PM, as temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Beata Maria Vergine Immacolata",
+                "hu": "Chiesa della Beata Maria Vergine Immacolata",
+                "ro": "Chiesa della Beata Maria Vergine Immacolata",
+                "en": "Chiesa della Beata Maria Vergine Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den ruhigen, kühlen Morgen in diesem modernen Heiligtum; tragen Sie warme Schichten für den bevorstehenden kalten Spaziergang.",
+                "hu": "Élvezze a csendes, hűvös reggelt ebben a modern szentélyben; viseljen meleg rétegeket az Önre váró szabadtéri, fagyos sétához.",
+                "ro": "Bucurați-vă de dimineața liniștită și răcoroasă în acest sanctuar modern; purtați straturi călduroase pentru plimbarea rece care urmează.",
+                "en": "Enjoy the quiet, chilly morning inside this modern sanctuary; make sure you wear warm winter layers for the brisk outdoor walk ahead of you."
+              }
+            },
+            {
+              "name": {
+                "de": "basolato della Via Cassia",
+                "hu": "basolato della Via Cassia",
+                "ro": "basolato della Via Cassia",
+                "en": "basolato della Via Cassia"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine können am frühen Morgen frostig sein; genießen Sie die frische Winterluft, während Sie der alten römischen Route folgen.",
+                "hu": "Az ősi kövek kora reggel fagyosak és csúszósak lehetnek; élvezze a friss, ropogós téli levegőt, miközben az egykori római útvonalat követi.",
+                "ro": "Pietrele antice pot fi acoperite de brumă dimineața devreme; bucurați-vă de aerul proaspăt de iarnă în timp ce urmăriți vechiul traseu roman.",
+                "en": "The ancient stones can be quite frosty and slick in the morning; enjoy the crisp winter air while carefully tracing this historic Roman route."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten einen hervorragenden, freien Blick auf die Ruinen; ziehen Sie sich wegen des oft kalten Windes hier warm an.",
+                "hu": "A csupasz téli fák kiváló, akadálytalan kilátást nyújtanak a romokra; öltözzön fel melegen az ezen a nyitott területen gyakori csípős szél ellen.",
+                "ro": "Copacii goi de iarnă oferă o vedere excelentă și neobstrucționată a ruinelor; îmbrăcați-vă gros împotriva vântului rece de pe acest teren deschis.",
+                "en": "Winter's bare trees offer excellent, completely unobstructed views of the ruins; dress very warmly against the brisk wind in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuliano Martire",
+                "hu": "Chiesa di San Giuliano Martire",
+                "ro": "Chiesa di San Giuliano Martire",
+                "en": "Chiesa di San Giuliano Martire"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre Hände aufzuwärmen und die ruhige Atmosphäre zu genießen, bevor das winterliche Nachmittagslicht draußen schwindet.",
+                "hu": "Lépjen be, hogy felmelegítse a kezét és élvezze a nyugodt légkört, mielőtt a téli délutáni fény gyorsan elhalványulna a kinti utcákon.",
+                "ro": "Pășiți înăuntru pentru a vă încălzi mâinile și a vă bucura de atmosfera senină, înainte ca lumina după-amiezii de iarnă să se estompeze afară.",
+                "en": "Step inside to effectively warm your hands and enjoy the serene atmosphere of the church before the brief winter afternoon light fades outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo romano",
+                "hu": "Mausoleo romano",
+                "ro": "Mausoleo romano",
+                "en": "Mausoleo romano"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das antike Grab noch in der goldenen Stunde zu sehen, da es danach sehr schnell dunkel und frostig wird.",
+                "hu": "Érkezzen 16:30 előtt, hogy az aranyórában láthassa az ősi sírt, mivel utána nagyon gyorsan besötétedik és a hőmérséklet fagyosra fordul.",
+                "ro": "Ajungeți înainte de ora 16:30 pentru a vedea mormântul antic în ora de aur, deoarece după aceea se întunecă foarte repede și devine extrem de frig.",
+                "en": "Arrive well before 4:30 PM to see the ancient tomb beautifully lit in the golden hour, as it gets quite dark and freezing cold very soon afterward."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a modern plébániatemplomnál, és tekerjen a történelmi Via Cassia ősi nyomvonalán. Délben elér egy római villa maradványaihoz, majd egy pihentető szünet következik a tágas Parco Volusia területén. Délután a történelmi Casale Ghella és a közeli római mauzóleum felé kerekezik, amelyek gazdag történeteket mesélnek el. A napot a veientiek impozáns síremléke zárja a lágy esti fényben.",
         "ro": "Începeți turul cu bicicleta la biserica parohială modernă și mergeți pe urmele istorice de-a lungul vechii Via Cassia. La amiază ajungeți la rămășițele unei vile romane, urmate de o pauză relaxantă în spațiosul Parco Volusia. După-amiaza pedalați spre istorica Casale Ghella și mausoleul roman din apropiere, ambele pline de povești. Turul se încheie cu impresionantul mormânt al veienților scăldat în lumina serii.",
         "en": "Start your bike ride at the modern parish church and ride along historical tracks on the ancient Via Cassia. At midday, you will reach the remains of a Roman villa, followed by a relaxing break in the spacious Parco Volusia. In the afternoon, cycle to the historical Casale Ghella and the nearby Roman mausoleum, both telling rich stories. The tour concludes with the imposing Tomb of the Veientes in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt an der Kirche mit einer guten Regenjacke.\n\nMittags ist beim Bremsen auf der rutschigen Via Cassia und den schlammigen Wegen nahe der Römischen Villa Vorsicht geboten.\n\nNachmittags erfordert die Fahrt durch den Parco Volusia Schutzbleche, um den Schlamm abzuwehren, bevor es zum Casale Ghella geht.\n\nBeenden Sie Ihr regnerisches Radabenteuer an den alten Gräbern, bevor die Dämmerung einsetzt.",
+            "hu": "Kezdje a nedves kerékpározást a helyi templomnál, jó vízálló kabátot viselve.\n\nDélben óvatos fékezést igényel a csúszós Via Cassia és a római villa körüli saras ösvények.\n\nDélután a Parco Volusia sárvédőket követel meg, majd a történelmi Casale Ghella következik.\n\nFejezze be esős kerékpáros kalandját az ősi síroknál, még mielőtt teljesen besötétedik.",
+            "ro": "Începeți plimbarea umedă la biserică, purtând o jachetă de ciclism impermeabilă bună.\n\nLa prânz este necesară o frânare atentă pe Via Cassia alunecoasă și pe potecile noroioase de lângă Vila romană.\n\nDupă-amiaza prin Parco Volusia necesită apărători de noroi, ducând spre istoricul Casale Ghella.\n\nÎncheiați aventura ploioasă pe bicicletă la mormintele antice înainte să se lase întunericul.",
+            "en": "Start your wet ride at the local church, wearing a highly rated waterproof cycling jacket.\n\nMidday requires careful braking on the slippery ancient basalt of Via Cassia and muddy paths near the Roman Villa.\n\nAfternoon riding through Parco Volusia demands fenders to block mud, leading smoothly to Casale Ghella.\n\nEnd your rainy cycling adventure at the ancient tombs before dusk makes visibility poor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Beata Maria Vergine Immacolata",
+                "hu": "Chiesa della Beata Maria Vergine Immacolata",
+                "ro": "Chiesa della Beata Maria Vergine Immacolata",
+                "en": "Chiesa della Beata Maria Vergine Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Bremsen und ziehen Sie Ihre Regenkleidung unter dem Vordach der Kirche an, bevor Sie Ihre regnerische Fahrt beginnen.",
+                "hu": "Ellenőrizze a fékeket, és vegye fel az esőruházatát a templom túlnyúlása alatt, mielőtt elkezdené ezt a nedves kerékpáros túrát.",
+                "ro": "Verificați-vă frânele și îmbrăcați echipamentul de ploaie sub acoperișul bisericii înainte de a vă începe plimbarea pe ploaie.",
+                "en": "Carefully check your brakes and put on your rain gear under the church's protective overhang before properly starting your wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "basolato della Via Cassia",
+                "hu": "basolato della Via Cassia",
+                "ro": "basolato della Via Cassia",
+                "en": "basolato della Via Cassia"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie vom Fahrrad ab, wenn die alten Basaltsteine durch den Regen zu glatt sind, da nasse Steine kaum noch Bodenhaftung bieten.",
+                "hu": "Szálljon le a kerékpárról, ha az ősi bazaltkövek az esőtől túl csúszósak, mivel a nedves kő nagyon kevés tapadást biztosít a gumiknak.",
+                "ro": "Descălecați de pe bicicletă dacă pietrele antice de bazalt sunt prea alunecoase de la ploaie, deoarece oferă foarte puțină tracțiune.",
+                "en": "Safely dismount your bike if the ancient basalt stones are too slick from the rain, as wet ancient pavement offers almost zero traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad auf festem Untergrund, da die Rasenflächen rund um diese Ruinen bei Regengüssen schnell sehr stark vernässen.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, mivel a romok körüli füves területek a heves esőzések során nagyon gyorsan vizenyőssé válnak.",
+                "ro": "Parcați-vă bicicleta pe teren solid, deoarece zonele cu iarbă din jurul acestor ruine se îmbibă rapid cu apă în timpul ploilor torențiale.",
+                "en": "Always park your bike on solid ground, as the grassy areas surrounding these ruins become extremely waterlogged during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Volusia",
+                "hu": "Parco Volusia",
+                "ro": "Parco Volusia",
+                "en": "Parco Volusia"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen; die Feldwege des Parks verwandeln sich bei starken römischen Regenstürmen in dicken, unpassierbaren Schlamm.",
+                "hu": "Maradjon a burkolt vagy kavicsos utakon; a park festői földútjai a heves római esőzések során gyorsan sűrű, kerékpározhatatlan sárrá változnak.",
+                "ro": "Rămâneți pe aleile asfaltate sau pietruite; potecile de pământ ale parcului se transformă rapid în noroi gros în timpul furtunilor grele.",
+                "en": "Stick to the main paved or gravel paths; the park's scenic dirt trails quickly turn into thick, unrideable mud during heavy Roman rainstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Casale Ghella",
+                "hu": "Casale Ghella",
+                "ro": "Casale Ghella",
+                "en": "Casale Ghella"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das historische Bauernhaus vom Hauptweg aus; meiden Sie den grasbewachsenen Zugang, der bei starkem Regen stark versumpft.",
+                "hu": "Tekintse meg a történelmi parasztházat a főútról; kerülje a füves megközelítést, amely heves esőzések idején teljesen elmocsarasodik.",
+                "ro": "Vedeți ferma istorică de pe calea principală; evitați abordarea pe iarbă, care devine mlaștină în timpul ploilor abundente.",
+                "en": "View the historic farmhouse right from the main paved path; absolutely avoid the grassy approach which becomes a swamp during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo romano",
+                "hu": "Mausoleo romano",
+                "ro": "Mausoleo romano",
+                "en": "Mausoleo romano"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang ist unbefestigt; schieben Sie Ihr Fahrrad die letzten Meter, um auf dem nassen, rutschigen Lehmboden nicht den Halt zu verlieren.",
+                "hu": "A megközelítés burkolatlan; az utolsó métereken tolja a kerékpárt, hogy elkerülje a nedves agyagban és sárban való megcsúszást a romoknál.",
+                "ro": "Apropierea este neasfaltată; mergeți pe lângă bicicletă în ultimii metri pentru a evita alunecarea pe lutul umed și periculos.",
+                "en": "The approach is totally unpaved; comfortably walk your bike the last few meters to completely avoid slipping on the treacherous wet clay."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro dei Veienti",
+                "hu": "Sepolcro dei Veienti",
+                "ro": "Sepolcro dei Veienti",
+                "en": "Sepolcro dei Veienti"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses antike Grab vorsichtig; die nassen Blätter und das schlammige Gelände machen das Radfahren hier bei Regen sehr knifflig.",
+                "hu": "Óvatosan fedezze fel ezt az ősi sírt; a nedves őszi levelek és a saras terep esőben rendkívül trükkössé teszik itt az irányítást.",
+                "ro": "Explorați cu grijă acest mormânt antic; frunzele umede și terenul noroios fac ciclismul foarte dificil aici în condiții de ploaie.",
+                "en": "Explore this ancient tomb carefully on foot; the combination of wet leaves and muddy terrain makes cycling highly treacherous here in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine frische Wintermorgenfahrt warm ein, beginnend an der Kirche.\n\nDer Mittag bietet klare, kühle Luft zum Radfahren entlang der Via Cassia und der Römischen Villa.\n\nDie Nachmittagsbrise im Parco Volusia ist frostig, also bleiben Sie in Bewegung zum Casale Ghella.\n\nBeenden Sie Ihre Fahrt an den antiken Gräbern vor dem frühen Sonnenuntergang, wenn es schnell sehr kalt wird.",
+            "hu": "Öltözzön fel melegen egy frissítő téli reggeli kerékpározáshoz a templomtól indulva.\n\nA dél tiszta, hűvös időt kínál a Via Cassia és a római villa romjai mentén való tekeréshez.\n\nA délutáni szellő a Parco Volusiában csípős, ezért maradjon mozgásban a Casale Ghella felé.\n\nFejezze be a túrát az ősi síroknál a korai naplemente előtt, amikor a hőmérséklet meredeken zuhan.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare revigorantă de iarnă, începând de la biserică.\n\nPrânzul oferă aer curat și rece pentru a pedala de-a lungul Via Cassia și Vilei romane.\n\nBriza după-amiezii în Parco Volusia este rece, așa că mențineți ritmul spre Casale Ghella.\n\nTerminați-vă cursa la mormintele antice înainte de apusul timpuriu, când temperaturile scad brusc.",
+            "en": "Bundle up for a brisk winter morning ride, starting comfortably at the modern local church.\n\nMidday offers completely clear, cool skies for cycling along the ancient Via Cassia and Roman Villa.\n\nThe afternoon breeze in Parco Volusia is chilly, so keep moving towards the historic Casale Ghella.\n\nFinish your ride at the ancient tombs right before the early sunset drops temperatures dramatically."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Beata Maria Vergine Immacolata",
+                "hu": "Chiesa della Beata Maria Vergine Immacolata",
+                "ro": "Chiesa della Beata Maria Vergine Immacolata",
+                "en": "Chiesa della Beata Maria Vergine Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre kühle Fahrt hier; stellen Sie sicher, dass Sie warme Fahrradhandschuhe und eine winddichte Jacke für den Gegenwind haben.",
+                "hu": "Kezdje a hűvös utat itt; győződjön meg róla, hogy meleg kerékpáros kesztyűvel és szélálló kabáttal rendelkezik a menetszél ellen.",
+                "ro": "Începeți-vă plimbarea rece aici; asigurați-vă că aveți mănuși călduroase de ciclism și o jachetă rezistentă la vânt de iarnă.",
+                "en": "Begin your chilly ride right here; effectively ensure you have warm winter cycling gloves and a solid windproof jacket for the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "basolato della Via Cassia",
+                "hu": "basolato della Via Cassia",
+                "ro": "basolato della Via Cassia",
+                "en": "basolato della Via Cassia"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie an kalten Wintermorgen auf versteckte Eisflächen auf den alten römischen Steinen, die Ihre Reifen plötzlich wegrutschen lassen können.",
+                "hu": "Hideg téli reggeleken ügyeljen az ősi római köveken megbúvó jégfoltokra, amelyek miatt a gumik váratlanul és hirtelen megcsúszhatnak.",
+                "ro": "Atenție la peticele de gheață ascunse pe pietrele romane antice în diminețile reci de iarnă, care vă pot face să pierdeți controlul.",
+                "en": "Carefully watch out for perfectly hidden ice patches on the ancient stones during freezing winter mornings, as tires easily slip."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Das fehlende Sommerlaub gibt Ihnen beim Vorbeifahren einen klareren Blick auf die Anlage; bleiben Sie in Bewegung, um sich warm zu halten.",
+                "hu": "A nyári lombozat hiánya tisztább képet ad az alaprajzról menet közben; maradjon folyamatosan mozgásban, hogy melegen tartsa magát.",
+                "ro": "Lipsa frunzișului de vară vă oferă o vedere mai clară a structurii; mențineți-vă în mișcare pe bicicletă pentru a vă păstra căldura corpului.",
+                "en": "The total lack of summer foliage gives you a noticeably clearer view of the layout; constantly keep moving to steadily stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Volusia",
+                "hu": "Parco Volusia",
+                "ro": "Parco Volusia",
+                "en": "Parco Volusia"
+              },
+              "tip_5lang": {
+                "de": "Die offenen Bereiche des Parks sind beißenden Winterwinden ausgesetzt, daher ist eine thermische Radsportschicht hier wärmstens zu empfehlen.",
+                "hu": "A park nyitott területei ki vannak téve a harapós téli szeleknek, ezért itt egy extra termikus kerékpáros réteg erősen ajánlott.",
+                "ro": "Zonele deschise sunt expuse vânturilor aspre de iarnă, deci un strat termic de ciclism este foarte recomandat pentru această porțiune.",
+                "en": "The park's wide open areas are brutally exposed to biting winter winds, so an extra thermal cycling layer is highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Casale Ghella",
+                "hu": "Casale Ghella",
+                "ro": "Casale Ghella",
+                "en": "Casale Ghella"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto des historischen Anwesens; die frische Winterluft macht es ideal für einen sehr kurzen, aktiven Stopp.",
+                "hu": "Készítsen egy gyors fotót a történelmi birtokról; a friss téli levegő ideálissá teszi egy nagyon rövid, de annál aktívabb megállóhoz.",
+                "ro": "Faceți o fotografie rapidă proprietății istorice; aerul rece de iarnă o face ideală pentru o oprire foarte scurtă și activă.",
+                "en": "Take a very quick photo of the historical estate; the brisk winter air makes it completely ideal for a short, active cycling stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo romano",
+                "hu": "Mausoleo romano",
+                "ro": "Mausoleo romano",
+                "en": "Mausoleo romano"
+              },
+              "tip_5lang": {
+                "de": "Die tief stehende Wintersonne wirft am Nachmittag wunderschöne, lange Schatten über das Grab, perfekt für eine kurze Fotopause im Kühlen.",
+                "hu": "Az alacsonyan járó téli nap gyönyörű hosszú árnyékokat vet a sírra a délután közepén, ami tökéletes egy gyors fotószünetre a hidegben.",
+                "ro": "Soarele blând de iarnă creează umbre lungi și frumoase peste mormânt, perfecte pentru fotografii la mijlocul după-amiezii reci.",
+                "en": "The low winter sun creates remarkably beautiful long shadows over the tomb, absolutely perfect for mid-afternoon photography in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro dei Veienti",
+                "hu": "Sepolcro dei Veienti",
+                "ro": "Sepolcro dei Veienti",
+                "en": "Sepolcro dei Veienti"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie, weit vor 16:30 Uhr anzukommen, da die schnell fallenden Temperaturen und die frühe Dunkelheit das Radfahren gefährlich machen.",
+                "hu": "Tervezze úgy, hogy jóval 16:30 előtt érkezik, mivel az egyre csökkenő hőmérséklet és a korai sötétség megnehezíti a hazautat a fagyban.",
+                "ro": "Planificați să ajungeți cu mult înainte de ora 16:30, deoarece temperaturile în scădere și întunericul timpuriu fac ciclismul periculos.",
+                "en": "Properly plan to arrive well before 4:30 PM, as the rapidly dropping temperatures and early darkness make riding extremely difficult."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kényelmes autózása a Szeplőtelen Fogantatás templománál kezdődik, mielőtt megcsodálná az ókori Via Cassia jó állapotban fennmaradt részleteit. Délben meglátogat egy ősi római villát, majd a San Giuliano templomban találhat nyugalomra. A délután pihentető sétákat kínál a Parco Volusia parkban, valamint megállókat a rusztikus Casale Ghella és a közeli mauzóleum mellett. Zárja eseménydús napját a veientiek lenyűgöző síremlékénél.",
         "ro": "Călătoria dumneavoastră confortabilă începe la Biserica Imaculatei Concepții, înainte de a admira rămășițele bine conservate ale anticei Via Cassia. La prânz vizitați o veche vilă romană și apoi găsiți momente de liniște în Biserica San Giuliano. După-amiaza oferă plimbări relaxante în Parco Volusia și opriri la rustica Casale Ghella și la mausoleul din apropiere. Încheiați ziua plină de evenimente la monumentalul mormânt al veienților.",
         "en": "Your comfortable drive begins at the Church of the Immaculate Conception before you admire the well-preserved remains of the ancient Via Cassia. At midday, visit an ancient Roman villa and then find moments of quiet in the Church of San Giuliano. The afternoon offers relaxing walks in Parco Volusia and stops at the rustic Casale Ghella and the nearby mausoleum. End your eventful day impressively at the monumental Tomb of the Veientes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt an der Kirche und bewahren Sie einen Regenschirm im Auto auf.\n\nMittags gibt es kurze Fahrten zwischen der rutschigen Via Cassia und den ungeschützten Ruinen der Römischen Villa.\n\nSuchen Sie nachmittags Schutz in San Giuliano und navigieren Sie vorsichtig um die Pfützen im Parco Volusia.\n\nSchließen Sie mit regengeschützten Stopps am Casale Ghella und den antiken römischen Gräbern ab.",
+            "hu": "Kezdje esős autóútját a templomnál, és tartson esernyőt az utastérben.\n\nDélben rövid utakat tesz meg a csúszós Via Cassia és a római villa nyitott romjai között.\n\nDélután keressen menedéket a San Giulianóban, és óvatosan kerülje el a Parco Volusia tócsáit.\n\nZárja a napot esernyővel védett gyors megállókkal a Casale Ghella és az ősi római sírok mellett.",
+            "ro": "Începeți-vă traseul ploios cu mașina la biserică, ținând o umbrelă la îndemână.\n\nPrânzul aduce condus scurt între Via Cassia alunecoasă și ruinele expuse ale Vilei romane.\n\nDupă-amiaza, căutați adăpost la San Giuliano și navigați cu atenție prin bălțile din Parco Volusia.\n\nÎncheiați cu opriri rapide, protejate de umbrelă, la Casale Ghella și la mormintele romane antice.",
+            "en": "Begin your rainy drive at the church, smartly keeping a large umbrella right in your car.\n\nMidday brings safely short drives between the slippery Via Cassia and the exposed Roman Villa ruins.\n\nIn the afternoon, seek dry shelter at San Giuliano church and navigate carefully around Parco Volusia's massive puddles.\n\nConclude with quick, umbrella-shielded stops at Casale Ghella and the ancient Roman tombs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Beata Maria Vergine Immacolata",
+                "hu": "Chiesa della Beata Maria Vergine Immacolata",
+                "ro": "Chiesa della Beata Maria Vergine Immacolata",
+                "en": "Chiesa della Beata Maria Vergine Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um dem Regen auszuweichen; das helle, moderne Innere ist ein großartiger Zufluchtsort an regnerischen Tagen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt; a világos, modern belső tér nagyszerű menedék a borongós esős napokon.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; interiorul luminos și modern este un refugiu excelent pentru o zi ploioasă.",
+                "en": "Always park incredibly close to the entrance to avoid the rain; the bright modern interior is a truly great rainy-day refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "basolato della Via Cassia",
+                "hu": "basolato della Via Cassia",
+                "ro": "basolato della Via Cassia",
+                "en": "basolato della Via Cassia"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie extrem vorsichtig, wenn Sie aus dem Auto steigen, da die nassen Basaltblöcke der Straße bekanntermaßen gefährlich rutschig sind.",
+                "hu": "Legyen rendkívül óvatos, amikor kiszáll az autóból, mivel az út nedves bazaltkockái köztudottan és veszélyesen csúszósak.",
+                "ro": "Fiți extrem de precauți când coborâți din mașină, deoarece blocurile de bazalt umede ale drumului sunt notoriu de alunecoase.",
+                "en": "Be exceptionally cautious when actively stepping out of your car, as the completely wet basalt blocks are notoriously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm bereit; der kurze Fußweg vom Auto zu den Ruinen ist den Elementen völlig ungeschützt ausgeliefert.",
+                "hu": "Tartson kéznél egy esernyőt; a parkolótól a romokig vezető rövid séta teljesen ki van téve az elemeknek és az esőnek.",
+                "ro": "Țineți o umbrelă la îndemână; scurta plimbare de la mașină la ruine este complet expusă intemperiilor neiertătoare.",
+                "en": "Always keep an umbrella firmly handy; the short walk directly from the car to the ruins is fully exposed to the harsh elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuliano Martire",
+                "hu": "Chiesa di San Giuliano Martire",
+                "ro": "Chiesa di San Giuliano Martire",
+                "en": "Chiesa di San Giuliano Martire"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahegelegenen Parkplatz und genießen Sie einen trockenen, friedlichen Moment in dieser modernen Nachbarschaftskirche.",
+                "hu": "Parkoljon a közeli parkolóban, és élvezzen egy száraz, békés pillanatot ebben a modern, nyugodt környékbeli templomban.",
+                "ro": "Parcați în parcarea din apropiere și bucurați-vă de un moment uscat și liniștit în interiorul acestei biserici moderne de cartier.",
+                "en": "Park completely in the nearby lot and effectively enjoy a dry, deeply peaceful moment inside this modern neighborhood church."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Volusia",
+                "hu": "Parco Volusia",
+                "ro": "Parco Volusia",
+                "en": "Parco Volusia"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können extrem schlammig sein; bleiben Sie an den befestigten Eingängen oder betrachten Sie das Grün trocken aus dem Auto.",
+                "hu": "A park ösvényei rendkívül sarasak lehetnek; maradjon a burkolt bejáratoknál, vagy kényelmesen nézze a zöldet az autóból.",
+                "ro": "Aleile parcului pot fi extrem de noroioase; rămâneți la intrările pavate sau admirați verdeața din confortul mașinii uscate.",
+                "en": "The park trails can be extremely muddy; wisely stick to the paved entrances or safely view the greenery from your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Casale Ghella",
+                "hu": "Casale Ghella",
+                "ro": "Casale Ghella",
+                "en": "Casale Ghella"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das historische Gebäude sicher aus Ihrem trockenen Auto, da sich die umliegenden Felder bei Stürmen in Schlamm verwandeln.",
+                "hu": "Szemlélje meg a történelmi épületet a száraz autója biztonságából, mivel a környező mezők viharok idején hatalmas sártengerré válnak.",
+                "ro": "Priviți clădirea istorică din siguranța mașinii dumneavoastră uscate, deoarece câmpurile din jur se transformă în noroi în timpul furtunilor.",
+                "en": "Properly view the historic building right from the total safety of your dry car, as the surrounding fields turn into mud during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo romano",
+                "hu": "Mausoleo romano",
+                "ro": "Mausoleo romano",
+                "en": "Mausoleo romano"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Stiefel für den kurzen Weg von Ihrem Fahrzeug, da die antike Stätte keine befestigten und trockenen Gehwege hat.",
+                "hu": "Viseljen vízálló csizmát a járművétől vezető rövid útra, mivel az ősi lelőhelyen nincsenek burkolt és esőtől védett járdák.",
+                "ro": "Purtați cizme impermeabile robuste pentru scurta plimbare de la vehicul, deoarece situl antic nu are deloc alei pietonale pavate.",
+                "en": "Wear highly sturdy waterproof boots for the short walk directly from your vehicle, as the ancient site lacks completely paved walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro dei Veienti",
+                "hu": "Sepolcro dei Veienti",
+                "ro": "Sepolcro dei Veienti",
+                "en": "Sepolcro dei Veienti"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; der unbefestigte Seitenstreifen kann bei starken Regengüssen zu einer schlammigen Falle werden.",
+                "hu": "Parkoljon nagyon óvatosan az út szélén; a burkolatlan padka heves felhőszakadások idején könnyen saras csapdává válhat a keréknek.",
+                "ro": "Parcați cu mare atenție pe marginea drumului; acostamentul neasfaltat poate deveni o capcană noroioasă în timpul ploilor torențiale.",
+                "en": "Park completely carefully on the roadside; the totally unpaved shoulder can quickly become a massive muddy trap during heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winter-Roadtrip mit einer warmen Autoheizung und einem Besuch der Kirche.\n\nMittags haben Sie vom Straßenrand aus klare, frostige Ausblicke auf die Via Cassia und die Römische Villa.\n\nNachmittagsstopps in San Giuliano und im Parco Volusia erfordern warme Mäntel gegen den beißenden Wind.\n\nBeenden Sie Ihre historische Fahrt mit den antiken Gräbern vor der frühen winterlichen Abenddämmerung.",
+            "hu": "Kezdje a téli autós utat meleg fűtéssel a kocsiban és a helyi templom meglátogatásával.\n\nDélben éles, fagyos kilátás nyílik a Via Cassiára és a római villára egyenesen az út széléről.\n\nA délutáni megállók a San Giulianónál és a Parco Volusiában meleg kabátot igényelnek a szél ellen.\n\nFejezze be történelmi útját az ősi sírok meglátogatásával a korai téli alkonyat előtt.",
+            "ro": "Începeți excursia de iarnă cu mașina încălzită și o vizită la biserica locală.\n\nPrânzul oferă vederi clare ale anticei Via Cassia și Vilei romane chiar de pe marginea drumului.\n\nOpririle de după-amiază la San Giuliano și Parco Volusia necesită paltoane călduroase împotriva vântului.\n\nÎncheiați-vă călătoria istorică vizitând mormintele antice înainte de amurgul timpuriu de iarnă.",
+            "en": "Start your scenic winter road trip with a very warm car heater and a visit to the local church.\n\nMidday provides remarkably crisp, clear views of the ancient Via Cassia and Roman Villa right from the roadside.\n\nAfternoon stops at San Giuliano and Parco Volusia deeply require warm coats against the freezing wind.\n\nFinish your historic drive by visiting the ancient tombs safely before the notably early winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Beata Maria Vergine Immacolata",
+                "hu": "Chiesa della Beata Maria Vergine Immacolata",
+                "ro": "Chiesa della Beata Maria Vergine Immacolata",
+                "en": "Chiesa della Beata Maria Vergine Immacolata"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kalten Morgen hier; der geheizte Autoinnenraum wird nach dem Besuch der kühlen Kirche sehr willkommen sein.",
+                "hu": "Kezdje a hideg reggelt itt; a fűtött autóbelső rendkívül jól fog esni a hűvös templomépület meglátogatása után.",
+                "ro": "Începeți-vă dimineața rece aici; interiorul încălzit al mașinii va fi foarte binevenit după vizitarea bisericii răcoroase.",
+                "en": "Start your completely cold morning here; the heavily heated car interior will be extremely welcome after visiting the cold church."
+              }
+            },
+            {
+              "name": {
+                "de": "basolato della Via Cassia",
+                "hu": "basolato della Via Cassia",
+                "ro": "basolato della Via Cassia",
+                "en": "basolato della Via Cassia"
+              },
+              "tip_5lang": {
+                "de": "Der Winterfrost kann diese alten römischen Steine sehr rutschig machen, also tragen Sie Schuhe mit exzellenter Bodenhaftung, wenn Sie aussteigen.",
+                "hu": "A téli fagy nagyon csúszóssá teheti ezeket az ősi római köveket, ezért viseljen kiváló tapadású cipőt, ha kiszáll a kocsiból.",
+                "ro": "Înghețul de iarnă poate face aceste pietre romane antice foarte alunecoase, deci purtați încălțăminte cu aderență excelentă dacă coborâți.",
+                "en": "The winter frost can easily make these ancient Roman stones highly slippery, so strictly wear shoes with good traction if you exit the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten von der Straße aus eine hervorragende Sicht auf die Ruinen; packen Sie sich dick ein, falls Sie aussteigen.",
+                "hu": "A csupasz téli fák az útról is kiváló kilátást nyújtanak a romokra; öltözzön fel nagyon vastagon, ha úgy dönt, hogy kiszáll a hidegben.",
+                "ro": "Copacii goi de iarnă oferă o vizibilitate excelentă a ruinelor chiar de pe drum; îmbrăcați-vă foarte gros dacă decideți să ieșiți.",
+                "en": "The totally bare winter trees offer excellently unobstructed visibility of the ancient ruins straight from the road; bundle up if you exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuliano Martire",
+                "hu": "Chiesa di San Giuliano Martire",
+                "ro": "Chiesa di San Giuliano Martire",
+                "en": "Chiesa di San Giuliano Martire"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um das Auto kurz zu verlassen, die Hände aufzuwärmen und die ruhige Winteratmosphäre der modernen Pfarrei zu genießen.",
+                "hu": "Nagyszerű hely arra, hogy egy pillanatra kiszálljon, felmelegítse a kezét és élvezze a plébánia rendkívül csendes, téli légkörét.",
+                "ro": "Un loc grozav pentru a lăsa mașina un moment, a vă încălzi mâinile și a vă bucura de atmosfera liniștită de iarnă a parohiei.",
+                "en": "A completely great place to leave the car for a moment, actively warm up your hands, and safely enjoy the quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Volusia",
+                "hu": "Parco Volusia",
+                "ro": "Parco Volusia",
+                "en": "Parco Volusia"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen erfrischenden Spaziergang in der kalten Winterluft, aber kehren Sie schnell in Ihr warmes Auto zurück, wenn der Wind zunimmt.",
+                "hu": "Tegyen egy frissítő sétát a hideg téli levegőn, de térjen vissza gyorsan a meleg autójába, amint a metsző szél feltámad a parkban.",
+                "ro": "Faceți o plimbare scurtă și revigorantă în aerul de iarnă, dar întoarceți-vă rapid la mașina caldă pe măsură ce vântul se întețește.",
+                "en": "Take a brisk, refreshing walk in the cold winter air, but efficiently return to your warm car quickly as the freezing wind powerfully picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Casale Ghella",
+                "hu": "Casale Ghella",
+                "ro": "Casale Ghella",
+                "en": "Casale Ghella"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die historische Architektur wunderschön hervor; ziehen Sie sich für den kurzen Weg von Ihrem warmen Auto sehr warm an.",
+                "hu": "A téli fény gyönyörűen kiemeli a történelmi építészetet; öltözzön fel nagyon melegen a meleg autójától vezető rövid sétához is.",
+                "ro": "Lumina de iarnă evidențiază frumos arhitectura istorică; îmbrăcați-vă gros pentru plimbarea foarte scurtă de la mașina dumneavoastră caldă.",
+                "en": "The striking winter light beautifully highlights the historic architecture; perfectly dress warmly for the extremely short walk from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo romano",
+                "hu": "Mausoleo romano",
+                "ro": "Mausoleo romano",
+                "en": "Mausoleo romano"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor dem frühen Sonnenuntergang um 17 Uhr, da die Stätte keine künstliche Beleuchtung hat und es empfindlich kalt wird.",
+                "hu": "Látogassa meg ezt a helyet a korai, 17:00 óra körüli naplemente előtt, mivel a helyszínen nincs mesterséges világítás, és nagyon hideg lesz.",
+                "ro": "Vizitați înainte de apusul timpuriu de la ora 17:00, deoarece situl nu are iluminare artificială și devine extrem de friguros.",
+                "en": "Safely visit completely before the noticeably early sunset around 5 PM, as the site has absolutely zero artificial lighting and gets profoundly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Sepolcro dei Veienti",
+                "hu": "Sepolcro dei Veienti",
+                "ro": "Sepolcro dei Veienti",
+                "en": "Sepolcro dei Veienti"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Abenddämmerung an; die winterliche goldene Stunde lässt das antike Grab leuchten, aber danach fallen die Temperaturen rapide.",
+                "hu": "Érkezzen alkonyat előtt; az arany téli óra ragyogóvá teszi az ősi sírt, de utána a hőmérséklet drasztikusan és hirtelen csökken.",
+                "ro": "Ajungeți înainte de amurg; ora de aur de iarnă face ca mormântul antic să strălucească, dar temperaturile scad dramatic imediat după.",
+                "en": "Arrive safely before dusk; the golden winter hour uniquely makes the ancient tomb glow, but temperatures forcefully drop immediately afterward."
+              }
+            }
+          ]
+        }
       }
     }
   }

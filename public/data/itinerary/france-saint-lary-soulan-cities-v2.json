@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Maison de l'Ours vadvilágának felfedezésével. Délben a helyi örökség, a körhinta és a múzeum várja. Délután történelmi malmokat és kápolnákat láthat. Zárja a napot a Sensoria rio termálvizeiben pihenve.",
         "ro": "Începeți dimineața explorând fauna la Maison de l'Ours. La prânz, descoperiți patrimoniul local la Carusel și Muzeu. După-amiaza vă aduce mori istorice și capele pitorești. Încheiați ziua relaxându-vă în apele termale de la Sensoria rio.",
         "en": "Start your morning exploring the wildlife at Maison de l'Ours. Midday brings charming local heritage at the Carrousel and Museum. Afternoon features historical mills and quaint chapels. End your day relaxing in the thermal waters of Sensoria rio."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im interaktiven Bärenmuseum, das einen trockenen und lehrreichen Unterschlupf bietet. Mittags erkunden wir das lokale Erbe in der Maison du Patrimoine, während draußen der Regen auf die historischen Gassen prasselt. Am Nachmittag führt ein kurzer, regengeschützter Spaziergang zur Kapelle. Den Abend verbringen wir im wohlig warmen Thermalbad Sensoria Rio, wo das Wetter draußen keine Rolle mehr spielt.",
+            "hu": "Az esős reggelt kezdje az interaktív medve-múzeumban, amely kiváló fedett menedéket nyújt a völgyben. Délben a helyi örökség házában merülhet el a történelemben, miközben az eső kopog a tetőkön. Délután egy rövid, esernyős séta keretében érintjük a malmot és a kápolnát. Az estét a Sensoria Rio termálfürdő meleg vizében zárjuk, ahol a benti pára és nyugalom feledteti a kinti barátságtalan időjárást.",
+            "ro": "Începeți dimineața ploioasă la muzeul interactiv al urșilor, care oferă un adăpost uscat și educativ în inima satului. La prânz, explorăm moștenirea locală la Maison du Patrimoine, în timp ce ploaia cade peste străzile istorice. După-amiaza, o scurtă plimbare cu umbrela ne poartă spre moară și capelă. Seara o petrecem la băile termale Sensoria Rio, unde apa caldă ne face să uităm complet de vremea de afară.",
+            "en": "Start your rainy morning at the interactive bear museum, offering a dry and educational refuge in the village center. At noon, delve into local history at the Maison du Patrimoine while the rain pitter-patters on the historic roofs. In the afternoon, a short umbrella walk takes us past the old mill to the chapel. Spend the evening at the Sensoria Rio thermal spa, where the warmth makes the outdoor weather irrelevant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de l'Ours",
+                "hu": "Maison de l'Ours",
+                "ro": "Maison de l'Ours",
+                "en": "Maison de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Dieses interaktive Museum über Pyrenäenbären ist der perfekte Ort, um trocken zu bleiben; nutzen Sie die interaktiven Displays, während es draußen regnet.",
+                "hu": "Ez az interaktív medve-múzeum tökéletes helyszín a szárazon maradáshoz; fedezze fel a Pireneusi barnamedvék világát, miközben kint elered az eső.",
+                "ro": "Acest muzeu interactiv despre urșii pirineeni este locul perfect pentru a rămâne uscat; explorați exponatele în timp ce afară plouă torențial.",
+                "en": "This interactive bear museum is the perfect spot to stay dry; explore the Pyrenean brown bear's world through engaging displays while the rain falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrousel",
+                "hu": "Carrousel",
+                "ro": "Carrousel",
+                "en": "Carrousel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto unter dem Vordach ist möglich, aber achten Sie auf den rutschigen Boden rund um das Karussell bei Nässe.",
+                "hu": "Egy gyors fotó erejéig érdemes megállni a tető alatt, de ügyeljen a csúszós burkolatra a körhinta környékén az esős időben.",
+                "ro": "O oprire rapidă pentru o fotografie sub streașină este posibilă, dar aveți grijă la pavajul alunecos din jurul caruselului când este ud.",
+                "en": "A quick photo stop under the eaves is possible, but watch out for the slippery pavement around the carousel during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Kultur in diesem geschützten historischen Gebäude; die Innenräume bieten eine faszinierende Reise durch die Zeit ohne nass zu werden.",
+                "hu": "Fedezze fel a helyi kultúrát ebben a védett történelmi épületben; a belső terek lenyűgöző időutazást kínálnak anélkül, hogy megázna a városnézés során.",
+                "ro": "Descoperiți cultura locală în această clădire istorică protejată; interioarele oferă o călătorie fascinantă în timp fără a vă uda în timpul vizitei.",
+                "en": "Discover local culture in this sheltered historic building; the interiors offer a fascinating journey through time without getting wet during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Debat",
+                "hu": "Moulin Debat",
+                "ro": "Moulin Debat",
+                "en": "Moulin Debat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der alten Mühle im Vorbeigehen; halten Sie Ihre Regenbekleidung bereit, da der Weg dorthin kurzzeitig ungeschützt ist.",
+                "hu": "Csodálja meg a régi malom építészetét menet közben; tartsa készenlétben az esőkabátot, mivel az odavezető út rövid ideig fedetlen marad.",
+                "ro": "Admirați arhitectura vechii mori în trecere; păstrați pelerina de ploaie la îndemână, deoarece drumul până acolo este parțial neprotejat.",
+                "en": "Admire the old mill's architecture as you pass by; keep your rain gear ready, as the path there is briefly exposed to the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Marie",
+                "hu": "Chapelle Sainte-Marie",
+                "ro": "Chapelle Sainte-Marie",
+                "en": "Chapelle Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Diese ruhige Kapelle bietet eine friedliche Atmosphäre und Schutz vor einem plötzlichen Schauer; genießen Sie die Stille im trockenen Innenraum.",
+                "hu": "Ez a csendes kápolna békés hangulatot és védelmet nyújt egy hirtelen zápor elől; élvezze a szakrális csendet a száraz belső térben.",
+                "ro": "Această capelă liniștită oferă o atmosferă pașnică și protecție împotriva unei averse bruște; bucurați-vă de tăcere în interiorul uscat.",
+                "en": "This quiet chapel provides a peaceful atmosphere and shelter from a sudden downpour; enjoy the sacred silence in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Sensoria rio",
+                "hu": "Sensoria rio",
+                "ro": "Sensoria rio",
+                "en": "Sensoria rio"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Ziel an Regentagen; die Thermalbecken im Innenbereich lassen Sie den Regen vergessen, während Sie im heilenden Wasser entspannen.",
+                "hu": "A végső úticél esős napokon; a beltéri termálmedencékben teljesen megfeledkezhet a kinti esőről, miközben a gyógyvízben pihen.",
+                "ro": "Destinația supremă în zilele ploioase; piscinele termale interioare vă vor face să uitați de ploaie în timp ce vă relaxați în apa curativă.",
+                "en": "The ultimate rainy day destination; the indoor thermal pools let you forget the rain entirely while relaxing in the healing waters."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt in der Wärme des Maison de l'Ours, wo wir mehr über die Tierwelt im Winterschlaf erfahren. Mittags spazieren wir durch das festlich dekorierte Dorf zur Maison du Patrimoine. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das schwindende Licht für einen kurzen Besuch der Kapelle. Den kalten Wintertag lassen wir bei dampfenden Thermalquellen im Sensoria Rio gemütlich ausklingen.",
+            "hu": "A fagyos téli reggel a Maison de l'Ours melegében indul, ahol megismerhetjük a vadon élő állatok téli életét. Délben a díszes falun át sétálunk az örökség házáig, élvezve a friss hegyi levegőt. Mivel a nap 17:00 körül már lebukik a hegyek mögé, a délutánt a kápolnánál töltjük. A napot a Sensoria Rio gőzölgő termálvizében zárjuk, ami a legjobb ellenszere a téli hidegnek.",
+            "ro": "O dimineață geroasă de iarnă începe în căldura de la Maison de l'Ours, unde învățăm despre viața animalelor sălbatice în sezonul rece. La prânz, ne plimbăm prin satul decorat spre Maison du Patrimoine. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumină pentru o vizită la capelă. Încheiem ziua de iarnă relaxându-ne în apele termale aburinde de la Sensoria Rio.",
+            "en": "A frosty winter morning starts in the warmth of Maison de l'Ours, where we learn about wildlife's winter habits. At noon, stroll through the decorated village to the Heritage House, enjoying the crisp mountain air. As the sun sets around 17:00, use the fading light for a quick chapel visit. End the cold winter day cozily at the steaming thermal pools of Sensoria Rio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de l'Ours",
+                "hu": "Maison de l'Ours",
+                "ro": "Maison de l'Ours",
+                "en": "Maison de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf und erfahren Sie, wie die Bären der Pyrenäen den Winter überstehen; ein gemütlicher Start in den Tag.",
+                "hu": "Melegedjen fel bent, és tudja meg, hogyan élik túl a pireneusi medvék a telet; ez egy igazán hangulatos kezdete a fagyos napnak.",
+                "ro": "Încălziți-vă în interior și aflați cum supraviețuiesc urșii din Pirinei iarna; un început confortabil pentru o zi geroasă.",
+                "en": "Warm up inside and learn how Pyrenean bears survive the winter; it is a cozy and educational start to a frosty day."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrousel",
+                "hu": "Carrousel",
+                "ro": "Carrousel",
+                "en": "Carrousel"
+              },
+              "tip_5lang": {
+                "de": "Das Karussell wirkt im Winter wie aus einem Märchen; ziehen Sie sich warm an für diesen kurzen, aber zauberhaften Stopp im Freien.",
+                "hu": "A körhinta télen olyan, mintha egy mesébe csöppentünk volna; öltözzön rétegesen ehhez a rövid, de varázslatos szabadtéri megállóhoz.",
+                "ro": "Caruselul arată ca într-un basm pe timp de iarnă; îmbrăcați-vă bine pentru această oprire scurtă, dar magică, în aer liber.",
+                "en": "The carousel looks like something out of a fairy tale in winter; dress warmly for this short but magical outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+              },
+              "tip_5lang": {
+                "de": "Dieses beheizte Museum bietet einen tiefen Einblick in die Berglust und Traditionen der Region; ideal, um der Kälte für eine Weile zu entfliehen.",
+                "hu": "Ez a fűtött múzeum mély betekintést nyújt a régió hegyi kultúrájába; ideális helyszín, hogy egy időre elmeneküljön a kinti hideg elől.",
+                "ro": "Acest muzeu încălzit oferă o privire profundă asupra tradițiilor montane; este locul ideal pentru a scăpa de frig pentru o vreme.",
+                "en": "This heated museum offers deep insight into regional mountain traditions; it is the ideal place to escape the cold for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Debat",
+                "hu": "Moulin Debat",
+                "ro": "Moulin Debat",
+                "en": "Moulin Debat"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle sieht mit einer Frostschicht besonders malerisch aus; ein kurzer Stopp reicht aus, um die winterliche Atmosphäre einzufangen.",
+                "hu": "A régi malom különösen festői látványt nyújt a zúzmarás reggeleken; egy rövid megálló is elég a téli hangulat megörökítéséhez.",
+                "ro": "Moara veche arată deosebit de pitoresc cu un strat de chiciură; o oprire scurtă este suficientă pentru a surprinde atmosfera de iarnă.",
+                "en": "The old mill looks particularly picturesque with a layer of frost; a short stop is enough to capture the winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Marie",
+                "hu": "Chapelle Sainte-Marie",
+                "ro": "Chapelle Sainte-Marie",
+                "en": "Chapelle Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle vor Einbruch der Dunkelheit um 17:00 Uhr; die dicken Steinmauern bieten einen Moment der Stille und Schutz vor Wind.",
+                "hu": "Látogassa meg a kápolnát a sötétedés beállta, 17:00 előtt; a vastag kőfalak a nyugalom pillanatait és szélvédett helyet kínálnak.",
+                "ro": "Vizitați capela înainte de lăsarea întunericului, la ora 17:00; zidurile groase oferă un moment de liniște și protecție contra vântului.",
+                "en": "Visit the chapel before darkness falls at 17:00; the thick stone walls offer a moment of silence and protection from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sensoria rio",
+                "hu": "Sensoria rio",
+                "ro": "Sensoria rio",
+                "en": "Sensoria rio"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Winterabend; entspannen Sie in den Thermalquellen, während die Sonne früh untergeht und die Kälte draußen bleibt.",
+                "hu": "Tökéletes téli esti program; pihenjen a termálforrásokban, miközben a nap korán lenyugszik, és a hideg kint marad.",
+                "ro": "Perfect pentru o seară de iarnă; relaxați-vă în izvoarele termale în timp ce soarele apune devreme, iar frigul rămâne afară.",
+                "en": "Perfect for a winter evening; relax in the thermal springs as the sun sets early and the cold stays outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpározzon az Église Saint-Blaise templomhoz egy aktív reggelért. Délben a városközpont múzeumait és medvekiállítását nézheti meg. Délután tekerjen keletre a malmokhoz. Fejezze be a napot a Sensoria fürdő nyugtató medencéiben.",
         "ro": "Pedalați până la Église Saint-Blaise pentru o dimineață activă. La prânz, vizitați muzeele și expoziția de urși din centru. După-amiaza, mergeți spre est la morile istorice. Finalizați traseul cu o experiență relaxantă la spa-ul Sensoria.",
         "en": "Cycle out to Église Saint-Blaise to start your active morning. Midday takes you through the town center's museums and bear exhibits. In the afternoon, ride east to historic mills and churches. Finish with a soothing spa experience at Sensoria."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert Vorsicht auf den nassen Straßen von Saint-Lary. Wir starten bei der Kirche Saint-Blaise und flüchten schnell ins trockene Bärenmuseum. Mittags steuern wir die Maison du Patrimoine an, um dem Regen zu entgehen. Am Nachmittag radeln wir vorsichtig zur Moulin de la Mousquère. Den Tag beschließen wir nach der nassen Fahrt in der wohligen Wärme des Sensoria Rio Thermalbads.",
+            "hu": "Egy esős kerékpáros nap óvatosságot igényel Saint-Lary nedves útjain. A Saint-Blaise templomnál kezdünk, majd gyorsan a medve-múzeumba menekülünk az eső elől. Délben az örökség házát vesszük célba, hogy szárazon maradjunk. Délután óvatosan tekerünk a malom és a templom felé. A napot a vizes utazás után a Sensoria Rio termálfürdő melengető vizében fejezzük be.",
+            "ro": "O zi ploioasă cu bicicleta necesită prudență pe străzile umede din Saint-Lary. Începem la biserica Saint-Blaise și ne refugiem rapid în muzeul urșilor. La prânz, vizităm Maison du Patrimoine pentru a evita ploaia. După-amiaza, pedalăm cu grijă spre moara Mousquère și biserică. Încheiem ziua, după cursa prin ploaie, în căldura reconfortantă de la Sensoria Rio.",
+            "en": "A rainy cycling day requires caution on the wet roads of Saint-Lary. We start at Saint-Blaise church and quickly retreat to the bear museum to escape the rain. At noon, head for the Heritage House to stay dry. In the afternoon, cycle carefully towards the mill and the church. End the day after your wet ride in the comforting warmth of the Sensoria Rio thermal spa."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und besichtigen Sie das Innere; die Kirche bietet einen trockenen Startpunkt vor der Weiterfahrt durch den Regen.",
+                "hu": "Támassza le a biciklit fedett helyre, és nézzen szét bent; a templom száraz kiindulópontot nyújt az esős tekerés megkezdése előtt.",
+                "ro": "Lăsați bicicleta la adăpost și vizitați interiorul; biserica oferă un punct de plecare uscat înainte de a continua prin ploaie.",
+                "en": "Park your bike under cover and look inside; the church provides a dry starting point before continuing your ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de l'Ours",
+                "hu": "Maison de l'Ours",
+                "ro": "Maison de l'Ours",
+                "en": "Maison de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine längere Pause im Trockenen; die interaktive Ausstellung ist ideal, um einen Regenschauer abzuwarten.",
+                "hu": "Használja ki ezt a megállót egy hosszabb száraz pihenőre; az interaktív kiállítás ideális egy nagyobb zápor átvészelésére.",
+                "ro": "Folosiți această oprire pentru o pauză lungă la uscat; expoziția interactivă este ideală pentru a aștepta trecerea unei averse.",
+                "en": "Use this stop for a longer break in the dry; the interactive exhibit is ideal for waiting out a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und abzutrocknen; die Ausstellungen zur lokalen Geschichte lassen Sie das schlechte Wetter vergessen.",
+                "hu": "Ideális hely a felmelegedéshez és a megszáradáshoz; a helyi történeti kiállítások feledtetik Önnel a barátságtalan időjárást.",
+                "ro": "Un loc ideal pentru a vă încălzi și a vă usca; expozițiile de istorie locală vă vor face să uitați de vremea rea de afară.",
+                "en": "An ideal place to warm up and dry off; the local history exhibits will make you forget the unpleasant weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le moulin de la Mousquère",
+                "hu": "Le moulin de la Mousquère",
+                "ro": "Le moulin de la Mousquère",
+                "en": "Le moulin de la Mousquère"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Mühle im Inneren, um trocken zu bleiben; achten Sie auf den rutschigen Weg zum Eingang bei nassem Wetter.",
+                "hu": "Látogassa meg a malom belsejét, hogy szárazon maradjon; ügyeljen a bejárathoz vezető útra, amely esőben csúszóssá válhat.",
+                "ro": "Vizitați interiorul morii pentru a rămâne uscat; atenție la drumul spre intrare, care poate deveni alunecos pe timp de ploaie.",
+                "en": "Visit the interior of the mill to stay dry; pay attention to the path to the entrance, which can become slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen weiteren ruhigen Ort zum Unterstellen; genießen Sie die Architektur, während Sie eine Pause vom Regen machen.",
+                "hu": "A templom újabb csendes menedéket nyújt; élvezze az építészetet, miközben tart egy rövid pihenőt az esőben való tekerés után.",
+                "ro": "Biserica oferă un alt refugiu liniștit; admirați arhitectura în timp ce faceți o scurtă pauză de la pedalatul prin ploaie.",
+                "en": "The church offers another quiet refuge; enjoy the architecture while taking a short break from cycling through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sensoria rio",
+                "hu": "Sensoria rio",
+                "ro": "Sensoria rio",
+                "en": "Sensoria rio"
+              },
+              "tip_5lang": {
+                "de": "Nach einer nassen Radtour gibt es nichts Besseres als die Thermalquellen; die Wärme entspannt Ihre Muskeln und macht Sie wieder trocken.",
+                "hu": "Egy vizes kerékpártúra után nincs is jobb a termálforrásoknál; a meleg víz ellazítja az izmokat és segít teljesen megszáradni.",
+                "ro": "După o tură umedă cu bicicleta, nimic nu e mai bun decât izvoarele termale; căldura vă relaxează mușchii și vă ajută să vă uscați.",
+                "en": "After a wet bike tour, nothing beats the thermal springs; the warmth relaxes your muscles and helps you dry off completely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad beginnt frisch bei der Kirche Saint-Blaise. Wir halten uns durch das Treten warm und besuchen bald das Maison de l'Ours für eine Aufwärmpause. Mittags geht es weiter zur Maison du Patrimoine. Da es im Winter früh dunkel wird, planen wir die letzte Etappe zur Mühle und zur Kirche Saint-Laurent vor 16:30 Uhr ein. Der Tag endet bei einsetzender Dunkelheit im dampfenden Wasser von Sensoria Rio.",
+            "hu": "A téli kerékpáros nap frissen indul a Saint-Blaise templomnál. A tekeréssel melegen tartjuk magunkat, de hamarosan megállunk a medve-múzeumnál felmelegedni. Délben az örökség házához látogatunk el. Mivel télen korán sötétedik, az utolsó szakaszt a malomhoz és a Saint-Laurent templomhoz 16:30-ig befejezzük. A nap a sötétség beálltakor a Sensoria Rio gőzölgő vizében ér véget.",
+            "ro": "O zi de iarnă pe bicicletă începe vioi la biserica Saint-Blaise. Ne menținem calzi pedalând, dar ne oprim curând la muzeul urșilor pentru încălzire. La prânz, vizităm Maison du Patrimoine. Deoarece iarna se întunecă devreme, terminăm ultima etapă spre moară și biserica Saint-Laurent până la 16:30. Ziua se încheie la căderea serii în apele aburinde de la Sensoria Rio.",
+            "en": "A winter cycling day starts briskly at Saint-Blaise church. We keep warm by pedaling but soon stop at the bear museum to warm up. At noon, visit the Heritage House. Since it gets dark early in winter, we finish the last leg to the mill and Saint-Laurent church by 16:30. The day ends as darkness falls in the steaming waters of Sensoria Rio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Kleidung für den Start; das Innere der Kirche bietet einen Moment der Stille, bevor Sie in die Winterluft hinausfahren.",
+                "hu": "Viseljen szélálló ruházatot a kezdéshez; a templom belseje a nyugalom pillanatait kínálja, mielőtt újra a friss téli levegőre menne.",
+                "ro": "Purtați haine rezistente la vânt pentru început; interiorul bisericii oferă un moment de liniște înainte de a ieși în aerul rece de iarnă.",
+                "en": "Wear windproof clothing for the start; the church interior offers a moment of silence before you head back into the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de l'Ours",
+                "hu": "Maison de l'Ours",
+                "ro": "Maison de l'Ours",
+                "en": "Maison de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Ein wichtiger Aufwärmstopp für Radfahrer; erfahren Sie im warmen Museum mehr über die lokale Tierwelt in den Wintermonaten.",
+                "hu": "Fontos felmelegedési pont a kerékpárosoknak; tudjon meg többet a helyi vadvilágról a fűtött múzeumban a téli hónapok alatt.",
+                "ro": "Un punct important de încălzire pentru bicicliști; aflați mai multe despre fauna locală în muzeul călduros în timpul lunilor de iarnă.",
+                "en": "An important warming-up point for cyclists; learn more about local wildlife in the heated museum during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Pause in der Wärme; das Museum ist der perfekte Ort, um die Glieder vor der nächsten Etappe auszuruhen.",
+                "hu": "Élvezze a kulturális pihenőt a melegben; a múzeum tökéletes hely a végtagok pihentetésére a következő kerékpáros szakasz előtt.",
+                "ro": "Bucurați-vă de pauza culturală la căldură; muzeul este locul perfect pentru a vă odihni picioarele înainte de următoarea etapă.",
+                "en": "Enjoy a cultural break in the warmth; the museum is the perfect place to rest your limbs before the next cycling leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Le moulin de la Mousquère",
+                "hu": "Le moulin de la Mousquère",
+                "ro": "Le moulin de la Mousquère",
+                "en": "Le moulin de la Mousquère"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist im Winter ein ruhiger Ort; planen Sie den Besuch bei Tageslicht ein, da die Wege dorthin unbeleuchtet sein können.",
+                "hu": "A malom télen csendes helyszín; tervezze a látogatást nappali fényben, mivel az odavezető utak néhol kivilágítatlanok lehetnek.",
+                "ro": "Moara este un loc liniștit iarna; planificați vizita la lumina zilei, deoarece drumurile spre ea pot fi neiluminate pe alocuri.",
+                "en": "The mill is a quiet spot in winter; plan your visit in daylight, as the paths leading there can be unlit in some areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort vor dem frühen Sonnenuntergang um 17:00 Uhr, um die Architektur im hellen Licht zu sehen.",
+                "hu": "Látogassa meg ezt a történelmi helyet a korai, 17:00 órai naplemente előtt, hogy teljes világításban láthassa az építészetet.",
+                "ro": "Vizitați acest loc istoric înainte de apusul devreme de la ora 17:00, pentru a vedea arhitectura în plină lumină naturală.",
+                "en": "Visit this historic site before the early sunset at 17:00 to see the architecture in full natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Sensoria rio",
+                "hu": "Sensoria rio",
+                "ro": "Sensoria rio",
+                "en": "Sensoria rio"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss eines Wintertages auf dem Rad; lassen Sie die Muskeln im heißen Wasser entspannen, während es draußen dunkelt.",
+                "hu": "A téli kerékpáros nap koronája; hagyja, hogy izmai ellazuljanak a forró vízben, miközben kint már teljesen besötétedik.",
+                "ro": "Punctul culminant al unei zile de iarnă pe bicicletă; lăsați mușchii să se relaxeze în apa fierbinte în timp ce afară se întunecă.",
+                "en": "The highlight of a winter cycling day; let your muscles relax in the hot water while it gets completely dark outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen a Chapelle du Pla-hoz a békés reggeli kezdésért. Délben irány a belváros az interaktív kiállításokért. Délután fedezze fel a völgy templomait és történelmi malmait. Zárja a napot a La Forêt Suspendue lombkorona-kalandjaival.",
         "ro": "Conduceți la Chapelle du Pla pentru un început liniștit. Mergeți în oraș la prânz pentru expoziții și istorie locală. După-amiaza explorați bisericile și morile din vale. Încheiați cu aventuri în copaci la La Forêt Suspendue.",
         "en": "Drive to Chapelle du Pla for a peaceful start to the day. Head into town midday for interactive exhibits and local history. Spend the afternoon exploring valley churches and mills. Conclude with tree-top adventures at La Forêt Suspendue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag im Auto ermöglicht es uns, die Kapelle du Pla trocken zu erreichen. Danach fahren wir bequem zum Maison de l'Ours und zur Maison du Patrimoine im Zentrum. Mittags steuern wir weitere historische Kirchen in der Umgebung an, wobei das Auto uns vor den Schauern schützt. Am Nachmittag besuchen wir die Moulin de la Mousquère und lassen den Tag entspannt im Sensoria Rio ausklingen.",
+            "hu": "Egy esős napon az autóval szárazon érhetjük el a Chapelle du Pla kápolnát. Ezután kényelmesen gurulunk a központba, a medve-múzeumhoz és az örökség házához. Délben a környék történelmi templomait látogatjuk meg, miközben az autó megvéd a záporoktól. Délután a Mousquère malom következik, majd a napot stílusosan a Sensoria Rio termálfürdőben fejezzük be.",
+            "ro": "Într-o zi ploioasă, mașina ne permite să ajungem uscați la Chapelle du Pla. Apoi mergem confortabil spre centru, la muzeul urșilor și Maison du Patrimoine. La prânz vizităm bisericile istorice din zonă, mașina protejându-ne de averse. După-amiaza urmează moara Mousquère, iar ziua se încheie relaxant la băile termale Sensoria Rio.",
+            "en": "On a rainy day, the car allows us to reach Chapelle du Pla while staying dry. Then, we drive comfortably to the center for the bear museum and Heritage House. At noon, visit historic churches in the area, with the car shielding us from downpours. In the afternoon, explore Mousquère mill before ending the day relaxing at Sensoria Rio thermal spa."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle du Pla",
+                "hu": "Chapelle du Pla",
+                "ro": "Chapelle du Pla",
+                "en": "Chapelle du Pla"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist leicht mit dem Auto zu erreichen; nutzen Sie den Parkplatz in der Nähe, um den Weg im Regen so kurz wie möglich zu halten.",
+                "hu": "A kápolna könnyen megközelíthető autóval; használja a közeli parkolót, hogy az esőben megtett séta a lehető legrövidebb legyen.",
+                "ro": "Capela este ușor accesibilă cu mașina; folosiți parcarea din apropiere pentru a scurta la maximum drumul prin ploaie.",
+                "en": "The chapel is easily accessible by car; use the nearby parking to keep your walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de l'Ours",
+                "hu": "Maison de l'Ours",
+                "ro": "Maison de l'Ours",
+                "en": "Maison de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Dorfzentrum und genießen Sie diesen trockenen Stopp; das Museum ist ein Highlight für jedes Alter an einem regnerischen Tag.",
+                "hu": "Parkoljon a falu központjában, és élvezze ezt a száraz megállót; a múzeum minden korosztály számára élményt nyújt esős napokon.",
+                "ro": "Parcați în centrul satului și bucurați-vă de această oprire la uscat; muzeul este o atracție pentru toate vârstele în zilele ploioase.",
+                "en": "Park in the village center and enjoy this dry stop; the museum is a highlight for all ages on a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier eine entspannte Zeit im Trockenen; die Ausstellungen sind so fesselnd, dass Sie den Regen draußen völlig vergessen werden.",
+                "hu": "Töltsön itt egy kis időt szárazon; a kiállítások annyira magukkal ragadóak, hogy teljesen elfelejti a kinti barátságtalan időjárást.",
+                "ro": "Petreceți timp aici la uscat; expozițiile sunt atât de captivante încât veți uita complet de vremea neprietenoasă de afară.",
+                "en": "Spend some time here in the dry; the exhibits are so engaging that you will completely forget the unpleasant weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Invention de Saint-Etiènne d'Ens",
+                "hu": "Église de l'Invention de Saint-Etiènne d'Ens",
+                "ro": "Église de l'Invention de Saint-Etiènne d'Ens",
+                "en": "Église de l'Invention de Saint-Etiènne d'Ens"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Zwischenstopp während der Fahrt; das Auto bringt Sie direkt vor die Tür, sodass Sie die Kirche fast ohne nass zu werden besuchen können.",
+                "hu": "Szép megálló az autóút során; a kocsi szinte az ajtóig viszi, így szinte megázás nélkül látogathatja meg a templomot.",
+                "ro": "O oprire frumoasă în timpul călătoriei; mașina vă duce aproape de ușă, astfel încât puteți vizita biserica fără să vă udați.",
+                "en": "A lovely stop during your drive; the car takes you almost to the door, allowing you to visit the church without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Le moulin de la Mousquère",
+                "hu": "Le moulin de la Mousquère",
+                "ro": "Le moulin de la Mousquère",
+                "en": "Le moulin de la Mousquère"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist ein idealer Stopp für Regentage; besichtigen Sie das historische Mahlwerk im Inneren und bleiben Sie geschützt.",
+                "hu": "A malom ideális megálló esős napokra; tekintse meg a történelmi őrlőszerkezetet belülről, védett helyen maradva.",
+                "ro": "Moara este o oprire ideală pentru zilele ploioase; vedeți mecanismul istoric de măcinare în interior, stând la adăpost.",
+                "en": "The mill is an ideal stop for rainy days; view the historic grinding mechanism inside while staying sheltered from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Forêt Suspendue",
+                "hu": "La Forêt Suspendue",
+                "ro": "La Forêt Suspendue",
+                "en": "La Forêt Suspendue"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen kann es hier matschig sein; tragen Sie festes, wasserdichtes Schuhwerk für diesen kurzen Ausflug in die Natur.",
+                "hu": "Esőben itt sáros lehet a terep; viseljen erős, vízálló lábbelit ehhez a rövid természetközeli kiránduláshoz.",
+                "ro": "Terenul poate fi noroios pe ploaie; purtați încălțăminte solidă și impermeabilă pentru această scurtă excursie în natură.",
+                "en": "The ground can be muddy in the rain; wear sturdy, waterproof footwear for this short nature excursion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto beginnt mit einer Fahrt zur frostigen Kapelle du Pla, während die Heizung für Komfort sorgt. Danach besuchen wir das Maison de l'Ours und die Maison du Patrimoine im festlichen Dorf. Mittags erkunden wir die abgelegenen Kirchen der Region. Da es um 17:00 Uhr dunkel wird, beenden wir unsere Tour bei der Forêt Suspendue am Nachmittag und genießen den Abend im warmen Sensoria Rio.",
+            "hu": "A téli autós nap a Chapelle du Pla kápolnához vezet, miközben a fűtés biztosítja a kényelmet. Ezután a medve-múzeumot és az örökség házát látogatjuk meg a díszes faluban. Délben a környék távolabbi templomait fedezzük fel. Mivel 17:00-kor már sötétedik, a délutánt a Forêt Suspendue-nél zárjuk, majd az estét a meleg Sensoria Rio-ban töltjük.",
+            "ro": "O zi de iarnă cu mașina începe cu o vizită la Chapelle du Pla, în timp ce căldura din mașină oferă confort. Apoi vizităm muzeul urșilor și Maison du Patrimoine în satul decorat. La prânz explorăm bisericile mai îndepărtate. Deoarece se întunecă la ora 17:00, terminăm turul la Forêt Suspendue după-amiaza și ne bucurăm de seară la Sensoria Rio.",
+            "en": "A winter car day starts with a drive to the frosty Chapelle du Pla while the heater keeps us cozy. Next, visit the bear museum and Heritage House in the festive village. At noon, explore the region's more remote churches. As it gets dark by 17:00, finish the tour at Forêt Suspendue in the afternoon and enjoy the evening at warm Sensoria Rio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle du Pla",
+                "hu": "Chapelle du Pla",
+                "ro": "Chapelle du Pla",
+                "en": "Chapelle du Pla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Berglandschaft aus dem warmen Auto heraus; ein kurzer Stopp an der Kapelle bietet tolle Fotomöglichkeiten.",
+                "hu": "Élvezze a téli hegyi tájat a fűtött autóból; egy rövid megálló a kápolnánál remek fotózási lehetőséget kínál a hóban.",
+                "ro": "Bucurați-vă de peisajul montan de iarnă din mașina încălzită; o scurtă oprire la capelă oferă oportunități foto excelente.",
+                "en": "Enjoy the winter mountain landscape from the warm car; a short stop at the chapel offers great photo opportunities in the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de l'Ours",
+                "hu": "Maison de l'Ours",
+                "ro": "Maison de l'Ours",
+                "en": "Maison de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm geheizt; erfahren Sie mehr über die Natur der Pyrenäen, bevor Sie zum nächsten Ziel weiterfahren.",
+                "hu": "A múzeum télen kellemesen fűtött; tudjon meg többet a Pireneusok természetéről, mielőtt továbbhajtana a következő célponthoz.",
+                "ro": "Muzeul este încălzit plăcut iarna; aflați mai multe despre natura Pirineilor înainte de a pleca spre următoarea destinație.",
+                "en": "The museum is pleasantly heated in winter; learn more about Pyrenean nature before driving to your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "hu": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "ro": "Maison du Patrimoine de Saint-Lary-Soulan",
+                "en": "Maison du Patrimoine de Saint-Lary-Soulan"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight in der Wärme; nutzen Sie die Zeit, um die Geschichte der Region ohne die Kälte draußen zu erkunden.",
+                "hu": "Kulturális fénypont a melegben; használja ki az időt a régió történelmének felfedezésére anélkül, hogy kint fázna.",
+                "ro": "Un punct cultural culminant la căldură; profitați de timp pentru a explora istoria regiunii fără a simți frigul de afară.",
+                "en": "A cultural highlight in the warmth; use this time to explore the region's history without feeling the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Invention de Saint-Etiènne d'Ens",
+                "hu": "Église de l'Invention de Saint-Etiènne d'Ens",
+                "ro": "Église de l'Invention de Saint-Etiènne d'Ens",
+                "en": "Église de l'Invention de Saint-Etiènne d'Ens"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zu dieser Kirche bietet wunderbare Ausblicke auf die verschneiten Gipfel; ziehen Sie sich für den kurzen Weg zur Kirche warm an.",
+                "hu": "A templomhoz vezető út csodás kilátást nyújt a havas csúcsokra; öltözzön fel melegen a kocsitól a templomig tartó rövid útra.",
+                "ro": "Drumul spre această biserică oferă vederi minunate spre vârfurile înzăpezite; îmbrăcați-vă gros pentru drumul scurt până la biserică.",
+                "en": "The drive to this church offers wonderful views of the snowy peaks; dress warmly for the short walk from the car to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Le moulin de la Mousquère",
+                "hu": "Le moulin de la Mousquère",
+                "ro": "Le moulin de la Mousquère",
+                "en": "Le moulin de la Mousquère"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle wirkt im Winter besonders authentisch; ein kurzer Besuch im Inneren lässt Sie das historische Handwerk in der Kälte bestaunen.",
+                "hu": "A malom télen különösen hitelesnek tűnik; egy rövid benti látogatás során megcsodálhatja a történelmi kézművességet a hidegben is.",
+                "ro": "Moara pare deosebit de autentică iarna; o scurtă vizită în interior vă permite să admirați meșteșugul istoric chiar și pe frig.",
+                "en": "The mill feels particularly authentic in winter; a short indoor visit lets you admire historic craftsmanship even in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "La Forêt Suspendue",
+                "hu": "La Forêt Suspendue",
+                "ro": "La Forêt Suspendue",
+                "en": "La Forêt Suspendue"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im hellen Nachmittagslicht; die klare Winterluft in den Bäumen ist erfrischend, bevor die Sonne früh untergeht.",
+                "hu": "Látogasson el ide a világos délutáni órákban; a tiszta téli levegő a fák között frissítő, mielőtt a nap korán lenyugszik.",
+                "ro": "Vizitați acest loc în lumina după-amiezii; aerul curat de iarnă printre copaci este revigorant înainte ca soarele să apună devreme.",
+                "en": "Visit this spot in the bright afternoon light; the crisp winter air among the trees is refreshing before the sun sets early."
+              }
+            }
+          ]
+        }
       }
     }
   }

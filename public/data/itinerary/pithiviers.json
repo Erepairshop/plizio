@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Pithiviers szívében a fenséges Saint Salomon templomnál, majd fedezze fel a Théâtre du Donjon kulturális kiállításait. Délben az elegáns Château de l'Ardoise mellett visz az út. Délután rójja le tiszteletét a megható Pithiviers Emlékműnél. Az estét a gyönyörűen parkosított Bellecour Park ősi fái alatti pihentető, kényelmes sétával zárhatja le.",
         "ro": "Începeți dimineața în Pithiviers la biserica Saint Salomon, apoi explorați exponatele de la Théâtre du Donjon. La amiază treceți pe lângă elegantul Château de l'Ardoise. După-amiaza, aduceți un omagiu la emoționantul Memorial Pithiviers. Încheiați seara cu o plimbare relaxantă și liniștită pe sub copacii seculari din minunatul parc Bellecour, perfect amenajat.",
         "en": "Begin your morning in the heart of Pithiviers at the grand Saint Salomon Church, then explore the cultural exhibits at the Théâtre du Donjon. Midday takes you past the elegant Château de l'Ardoise. In the afternoon, pay your respects at the moving Pithiviers Memorial. Conclude your evening with a leisurely, relaxing stroll under the ancient trees of the beautifully landscaped Bellecour Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen mit einem Regenschirm im historischen Zentrum. Mittags bieten das Theater und das Schloss trockene Zufluchtsorte vor den Schauern. Am Nachmittag gehen Sie über die nassen Pflastersteine zum Denkmal, die Regenkleidung stets griffbereit. Beenden Sie den Tag mit einem feuchten, aber friedlichen Spaziergang im üppig grünen Park mit wasserfesten Schuhen.",
+            "hu": "Kezdje az esős reggelt egy masszív esernyővel a történelmi központban. Délben a színház és a kastély száraz termei nyújtanak menedéket a záporok elől. Délután a vizes járdákon sétáljon az emlékműhöz, kéznél tartva az esőkabátot. Az estét egy csendes, bár nedves sétával zárja a zöldellő parkban, mindenképpen vízálló cipőben.",
+            "ro": "Începeți dimineața ploioasă cu o umbrelă robustă în centrul istoric. La prânz, teatrul și castelul oferă un refugiu uscat împotriva averselor. După-amiaza, navigați pe trotuarele umede către memorial, ținând pelerina de ploaie la îndemână. Încheiați ziua cu o plimbare liniștită, deși umedă, prin parcul înverzit, purtând încălțăminte rezistentă la apă.",
+            "en": "Start your morning with a sturdy umbrella as you explore the historic center. By noon, take refuge from the downpours in the dry, welcoming halls of the theater and castle. In the afternoon, navigate the wet pavements to the memorial, keeping your rain gear handy. End the day with a peaceful, albeit damp, stroll through the vibrant green park, wearing waterproof shoes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Salomon Church",
+                "hu": "Saint Salomon Church",
+                "ro": "Saint Salomon Church",
+                "en": "Saint Salomon Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz und bewundern Sie die Buntglasfenster, während Ihr Regenschirm abtropft.",
+                "hu": "Keressen menedéket bent, és csodálja meg az üvegablakokat, amíg az esernyője megszárad.",
+                "ro": "Căutați adăpost înăuntru și admirați vitraliile în timp ce umbrela se usucă departe de ploaie.",
+                "en": "Seek shelter inside the nave and admire the stained glass while your umbrella drips dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Donjon",
+                "hu": "Théâtre du Donjon",
+                "ro": "Théâtre du Donjon",
+                "en": "Théâtre du Donjon"
+              },
+              "tip_5lang": {
+                "de": "Das Foyer des Theaters ist ein perfekter trockener Ort, um dem Regen zu entkommen und Kultur zu genießen.",
+                "hu": "A színház előcsarnoka tökéletes száraz hely, hogy elmeneküljön a zápor elől és élvezze a kultúrát.",
+                "ro": "Foaierul teatrului este un loc uscat perfect pentru a scăpa de ploaie și a vă bucura de cultură.",
+                "en": "The theater's foyer is a perfect dry spot to escape the downpour and enjoy local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ardoise",
+                "hu": "Château de l'Ardoise",
+                "ro": "Château de l'Ardoise",
+                "en": "Château de l'Ardoise"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Säle des Schlosses, aber achten Sie auf die nassen Steinflächen.",
+                "hu": "Fedezze fel a kastély történelmi termeit, de vigyázzon lépéseire a nedves kőfelületeken.",
+                "ro": "Explorați sălile istorice ale castelului, dar aveți grijă la suprafețele umede din piatră.",
+                "en": "Explore the historic halls of the castle, but watch your step on the wet stone surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Pithiviers Memorial",
+                "hu": "Pithiviers Memorial",
+                "ro": "Pithiviers Memorial",
+                "en": "Pithiviers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen stabilen Regenschirm für die Außenbereiche mit und nehmen Sie sich Zeit zur Reflexion.",
+                "hu": "Vigyen magával egy masszív esernyőt a szabadtéri részekhez, és szánjon időt az elmélkedésre.",
+                "ro": "Aduceți o umbrelă robustă pentru secțiunile în aer liber și luați-vă un moment de reflecție.",
+                "en": "Bring a sturdy umbrella for the outdoor sections and take a peaceful moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellecour Park",
+                "hu": "Bellecour Park",
+                "ro": "Bellecour Park",
+                "en": "Bellecour Park"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für die Pfützen und genießen Sie das regengewaschene, lebendige Grün.",
+                "hu": "Viseljen vízálló cipőt a tócsák elkerüléséhez, miközben élvezi az eső áztatta élénk növényzetet.",
+                "ro": "Purtați încălțăminte impermeabilă pentru bălți, bucurându-vă de verdeața vie, spălată de ploaie.",
+                "en": "Wear waterproof shoes to navigate the puddles while enjoying the vivid, rain-washed greenery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich morgens für einen eisigen Spaziergang zur Kirche gut ein. Mittags wärmen Sie Ihre Hände in den beheizten Innenräumen des Theaters und des Schlosses auf. Achten Sie nachmittags beim Besuch des Denkmals auf die frühe Winterdämmerung gegen 17 Uhr. Beenden Sie den kühlen Abend mit einem zügigen Spaziergang unter den kahlen Bäumen des Parks.",
+            "hu": "Öltözzön fel melegen ezen a fagyos reggelen a templomhoz vezető sétához. Délben keressen fűtött belső tereket a színházban és a kastélyban, hogy felmelegedjen. Délután számoljon a korai, 17 óra körüli sötétedéssel az emlékműnél. A csípős estét egy tempós sétával zárja a park kopasz fái alatt, mielőtt egy meleg helyre térne be.",
+            "ro": "Îmbrăcați-vă gros în această dimineață pentru o plimbare geroasă spre biserică. La prânz, căutați spațiile interioare încălzite ale teatrului și castelului pentru a vă încălzi. După-amiaza, țineți cont de întunericul care cade devreme, în jur de ora 17, la memorial. Încheiați seara rece cu o plimbare alertă pe sub copacii golași ai parcului.",
+            "en": "Bundle up this morning for a crisp, freezing walk to the church. At noon, seek out the heated indoor spaces of the theater and castle to thaw your hands. During the afternoon, be mindful of the early winter dusk around 5 PM while visiting the memorial. Conclude your chilly evening with a brisk walk under the bare trees of the park before heading to a warm place."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Salomon Church",
+                "hu": "Saint Salomon Church",
+                "ro": "Saint Salomon Church",
+                "en": "Saint Salomon Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das kühle Kirchenschiff ein; Thermokleidung hilft, die Architektur angenehm zu bewundern.",
+                "hu": "Lépjen be a csendes, hűvös hajóba; a termo rétegek segítenek kényelmesen megcsodálni az építészetet.",
+                "ro": "Intrați în naosul liniștit; hainele termice vă ajută să admirați confortabil arhitectura.",
+                "en": "Step inside the quiet nave; wear thermal layers to comfortably admire the beautiful architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Donjon",
+                "hu": "Théâtre du Donjon",
+                "ro": "Théâtre du Donjon",
+                "en": "Théâtre du Donjon"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher, beheizter Rückzugsort vor der Winterkälte, ideal, um in die lokale Kultur einzutauchen.",
+                "hu": "Hangulatos, fűtött menedék a téli hideg elől, ideális a helyi kultúrában való elmerüléshez.",
+                "ro": "Un refugiu încălzit și primitor din calea frigului, perfect pentru a vă scufunda în cultura locală.",
+                "en": "A cozy, heated retreat from the winter cold, perfect for immersing yourself in local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ardoise",
+                "hu": "Château de l'Ardoise",
+                "ro": "Château de l'Ardoise",
+                "en": "Château de l'Ardoise"
+              },
+              "tip_5lang": {
+                "de": "Die Steinwände speichern die Kälte, behalten Sie also Ihre Handschuhe bei der Besichtigung an.",
+                "hu": "A kőfalak tartják a hideget, ezért tartsa magán a kesztyűt a történelmi szobák bejárása során.",
+                "ro": "Zidurile de piatră mențin frigul, așa că păstrați-vă mănușile în timp ce vizitați camerele.",
+                "en": "The stone walls hold the cold, so keep your gloves on while touring the historic rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Pithiviers Memorial",
+                "hu": "Pithiviers Memorial",
+                "ro": "Pithiviers Memorial",
+                "en": "Pithiviers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort vor dem frühen Einbruch der Dunkelheit; die Kälte verleiht ihm Ernsthaftigkeit.",
+                "hu": "Érkezzen a korai sötétedés előtt; a téli hideg mély, ünnepélyes hangulatot kölcsönöz a helynek.",
+                "ro": "Vizitați înainte de lăsarea întunericului; aerul rece adaugă o atmosferă solemnă site-ului.",
+                "en": "Visit before the early dusk sets in; the winter chill adds a solemn atmosphere to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellecour Park",
+                "hu": "Bellecour Park",
+                "ro": "Bellecour Park",
+                "en": "Bellecour Park"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an für einen zügigen Spaziergang durch die frostbedeckten Bäume am frühen Abend.",
+                "hu": "Öltözzön fel egy tempós sétához a fagyos fák között, ahogy közeledik a kora esti sötétség.",
+                "ro": "Îmbrăcați-vă gros pentru o plimbare rapidă printre copacii înghețați, pe măsură ce seara se apropie.",
+                "en": "Bundle up for a brisk walk through the frost-covered trees as the early evening approaches."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros napját a Saint Salomon templomnál és a Théâtre du Donjonnál. Délben tekerjen el a Château de l'Ardoise mellett a bájos Église Saint-Aignanhoz. Délután kerekezzen fel a Manoir de la Taille-hez, majd térjen vissza a Pithiviers Emlékműhöz. Fejezze be aktív napját egy jól megérdemelt pihenéssel a Bellecour Park csendes zöldjében a kora esti órákban.",
         "ro": "Începeți ziua de ciclism la biserica Saint Salomon și la Théâtre du Donjon. La amiază, pedalați pe lângă Château de l'Ardoise către Église Saint-Aignan. După-amiaza, mergeți să admirați Manoir de la Taille înainte de a reveni la Memorialul Pithiviers. Încheiați-vă ziua activă cu o odihnă binemeritată printre verdeața liniștită a parcului Bellecour, în timpul serii.",
         "en": "Start your cycling day centrally at Saint Salomon Church and the nearby Théâtre du Donjon. By midday, pedal past Château de l'Ardoise to the charming Église Saint-Aignan. In the afternoon, ride up to admire the Manoir de la Taille before looping back to the Pithiviers Memorial. Finish your active day with a well-deserved rest among the quiet greenery of Bellecour Park in the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die nasse Fahrt mit einer wasserdichten Warnjacke. Fahren Sie mittags vorsichtig auf rutschigem Kopfsteinpflaster. Nachmittagsschauer erfordern vorsichtiges Bremsen auf dem Weg zum Denkmal. Das abendliche Radfahren durch den Park sollte langsam erfolgen, um Schlamm zu vermeiden.",
+            "hu": "Kezdje a nedves utat vízálló, láthatósági kabátban. Délben óvatosan tekerjen a csúszós macskaköveken. A délutáni záporok miatt óvatosan fékezzen az emlékmű felé. Az esti tekerést a parkban lassan tegye, hogy elkerülje a sáros tócsákat.",
+            "ro": "Începeți plimbarea umedă purtând o jachetă impermeabilă vizibilă. La prânz, mergeți cu grijă pe piatra cubică alunecoasă. Aversele de după-amiază necesită o frânare atentă spre memorial. Pedalarea de seară prin parc trebuie făcută încet pentru a evita noroiul.",
+            "en": "Start the wet ride wearing a high-vis waterproof jacket. By noon, ride cautiously on slippery cobblestones between cultural stops. Afternoon showers require careful braking on your way to the memorial. Evening pedaling through the park should be done slowly to avoid muddy puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Salomon Church",
+                "hu": "Saint Salomon Church",
+                "ro": "Saint Salomon Church",
+                "en": "Saint Salomon Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich drinnen ab; ein friedlicher Zufluchtsort vor dem Regen.",
+                "hu": "Parkolja le a biciklit és száradjon meg bent; a békés belső tér nagyszerű menedék az eső elől.",
+                "ro": "Parcați bicicleta și uscați-vă înăuntru; interiorul liniștit este un refugiu minunat din ploaie.",
+                "en": "Park your bike and dry off inside; the peaceful interior is a great refuge from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Donjon",
+                "hu": "Théâtre du Donjon",
+                "ro": "Théâtre du Donjon",
+                "en": "Théâtre du Donjon"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Ausrüstung am Eingang und genießen Sie die trockene Atmosphäre des Theaters.",
+                "hu": "Hagyja a nedves felszerelést a bejáratnál, és élvezze a színház száraz, kulturális hangulatát.",
+                "ro": "Lăsați echipamentul umed la intrare și bucurați-vă de ambianța culturală uscată a teatrului.",
+                "en": "Leave your wet gear at the entrance and enjoy the dry, cultural ambiance of the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ardoise",
+                "hu": "Château de l'Ardoise",
+                "ro": "Château de l'Ardoise",
+                "en": "Château de l'Ardoise"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Pflaster am Schlosseingang; suchen Sie drinnen nach einer trockenen Pause.",
+                "hu": "Vigyázzon a csúszós macskakövekre a kastély bejáratánál; menjen be egy száraz pihenőre.",
+                "ro": "Atenție la pavajul alunecos lângă intrarea castelului; mergeți înăuntru pentru o pauză uscată.",
+                "en": "Be careful of slippery cobblestones near the castle entrance; head inside for a dry rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Aignan",
+                "hu": "Église Saint-Aignan",
+                "ro": "Église Saint-Aignan",
+                "en": "Église Saint-Aignan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen, um sich aufzuwärmen und das religiöse Erbe zu bewundern.",
+                "hu": "Egy rövid benti megálló, hogy felmelegedjen és megszáradjon, miközben a vallási örökséget csodálja.",
+                "ro": "O scurtă oprire înăuntru pentru a vă încălzi și a admira patrimoniul religios.",
+                "en": "A brief indoor stop to warm up and dry off while admiring the local religious heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Taille",
+                "hu": "Manoir de la Taille",
+                "ro": "Manoir de la Taille",
+                "en": "Manoir de la Taille"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schlammigen Wegen und suchen Sie Schutz unter den historischen Dachüberständen.",
+                "hu": "Óvatosan tekerjen az ide vezető sáros ösvényeken, és húzódjon meg a történelmi ereszek alatt.",
+                "ro": "Mergeți cu grijă pe cărările noroioase de aici și adăpostiți-vă sub streșinile istorice.",
+                "en": "Ride carefully on the muddy paths leading here and take cover under the historic eaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Pithiviers Memorial",
+                "hu": "Pithiviers Memorial",
+                "ro": "Pithiviers Memorial",
+                "en": "Pithiviers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenmantel griffbereit; die nasse Umgebung verstärkt die Besinnlichkeit des Ortes.",
+                "hu": "Tartsa kéznél az esőkabátot; a nedves környezet elmélyíti az elmélkedés érzését az emlékműnél.",
+                "ro": "Țineți pelerina de ploaie la îndemână; mediul umed adaugă un sentiment profund de reflecție.",
+                "en": "Keep your raincoat handy; the wet surroundings add a deep sense of reflection to the memorial."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellecour Park",
+                "hu": "Bellecour Park",
+                "ro": "Bellecour Park",
+                "en": "Bellecour Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf befestigten Wegen, um Schlamm zu meiden, und tragen Sie helle Kleidung im Regen.",
+                "hu": "Maradjon a burkolt utakon a sár elkerülése végett, és viseljen jól látható ruházatot a borús esőben.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul și purtați echipament vizibil în întunericul ploios.",
+                "en": "Stick to the paved paths to avoid mud, and wear high-visibility gear in the rainy gloom."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich für die eisige morgendliche Radtour sehr warm an. Nutzen Sie mittags die kurzen Wege, um sich drinnen schnell aufzuwärmen. Beenden Sie nachmittags Ihre Besichtigungen vor dem eisigen Sonnenuntergang um 17 Uhr. Die abendliche Fahrt wird dunkel und kalt, schalten Sie das Licht ein.",
+            "hu": "Öltözzön rétegesen a fagyos reggeli kerékpározáshoz. Délben használja ki a rövid távokat, és melegedjen fel a belső terekben. Délután fejezze be a városnézést a 17 órai jeges naplemente előtt. Az esti út sötét és nagyon hideg lesz, gondoskodjon a jó kerékpárlámpákról.",
+            "ro": "Îmbrăcați-vă în straturi pentru o dimineață geroasă pe bicicletă. La prânz, profitați de distanțele scurte pentru a vă încălzi rapid înăuntru. După-amiaza, terminați vizitele înainte de apusul înghețat de la ora 17. Plimbarea de seară va fi rece și întunecată, asigurați-vă că aveți lumini bune.",
+            "en": "Layer up heavily for a freezing morning bike commute. At noon, take advantage of the short rides to quickly hop between indoor heating spots. In the afternoon, finish your major sightseeing before the icy 5 PM sunset. The evening ride will be dark and very cold, so ensure your bike lights are fully charged."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Salomon Church",
+                "hu": "Saint Salomon Church",
+                "ro": "Saint Salomon Church",
+                "en": "Saint Salomon Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Kirchenschiff nach der eisigen morgendlichen Fahrt zu diesem Ort.",
+                "hu": "Melegítse fel a kezét a főhajóban a történelmi helyszínre vezető fagyos reggeli tekerés után.",
+                "ro": "Încălziți-vă mâinile în naos după o plimbare înghețată de dimineață spre acest loc istoric.",
+                "en": "Warm your hands in the nave after a frosty morning ride to this historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Donjon",
+                "hu": "Théâtre du Donjon",
+                "ro": "Théâtre du Donjon",
+                "en": "Théâtre du Donjon"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener, beheizter Halt zum Auftauen, während Sie die lokale Theatergeschichte erkunden.",
+                "hu": "Kellemes, fűtött megálló a felengedéshez, miközben felfedezi a helyi színháztörténetet.",
+                "ro": "O oprire încălzită binevenită pentru a vă dezgheța în timp ce explorați istoria teatrală locală.",
+                "en": "A welcoming heated stop to thaw out while exploring local theatrical history."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ardoise",
+                "hu": "Château de l'Ardoise",
+                "ro": "Château de l'Ardoise",
+                "en": "Château de l'Ardoise"
+              },
+              "tip_5lang": {
+                "de": "Der Winterfrost am Schloss sieht magisch aus, aber gehen Sie schnell hinein, um warm zu bleiben.",
+                "hu": "A téli fagy a kastélyon varázslatosan fest, de menjen be gyorsan, hogy melegen tartsa magát.",
+                "ro": "Înghețul de iarnă pe castel pare magic, dar intrați repede înăuntru pentru a vă încălzi.",
+                "en": "The winter frost on the castle looks magical, but keep moving inside to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Aignan",
+                "hu": "Église Saint-Aignan",
+                "ro": "Église Saint-Aignan",
+                "en": "Église Saint-Aignan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, ruhiger Halt, um die Beine auszuruhen und dem beißenden Winterwind zu entfliehen.",
+                "hu": "Egy gyors, csendes megálló, hogy megpihentesse lábait és elmeneküljön a metsző téli szél elől.",
+                "ro": "O oprire scurtă și liniștită pentru a vă odihni picioarele și a scăpa de vântul tăios de iarnă.",
+                "en": "A quick, quiet stop to rest your legs and escape the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Taille",
+                "hu": "Manoir de la Taille",
+                "ro": "Manoir de la Taille",
+                "en": "Manoir de la Taille"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisflächen bei der Anfahrt; das Winterlicht macht das Anwesen sehr fotogen.",
+                "hu": "Figyeljen a jeges foltokra a megközelítéskor; a téli fények nagyon fotogénné teszik a kúriát.",
+                "ro": "Atenție la porțiunile cu gheață la apropiere; lumina iernii face conacul foarte fotogenic.",
+                "en": "Watch for icy patches on the approach; the winter light makes the manor highly photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Pithiviers Memorial",
+                "hu": "Pithiviers Memorial",
+                "ro": "Pithiviers Memorial",
+                "en": "Pithiviers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17 Uhr an; die kalte Luft vertieft die Ernsthaftigkeit.",
+                "hu": "Érkezzen a 17 órai naplemente előtt; a hideg levegő elmélyíti a látogatás ünnepélyességét.",
+                "ro": "Ajungeți înainte de apusul de la ora 17; aerul rece adâncește solemnitatea vizitei.",
+                "en": "Arrive before the 5 PM sunset; the cold air deepens the solemnity of your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellecour Park",
+                "hu": "Bellecour Park",
+                "ro": "Bellecour Park",
+                "en": "Bellecour Park"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten raue Winterschönheit; beenden Sie die Fahrt rasch, wenn die Kälte zunimmt.",
+                "hu": "A kopasz fák nyers téli szépséget kínálnak; fejezze be gyorsan az utat, ahogy hűl a levegő.",
+                "ro": "Copacii golași oferă o frumusețe aspră de iarnă; terminați plimbarea repede, deoarece se răcește.",
+                "en": "The bare trees offer stark winter beauty; finish your ride quickly as temperatures drop."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autózzon ki korán a Château de Denainvilliers-hez és a Saint-Denis templomhoz. A délidő békés szünetet kínál a Bellecour Parkban és egy látogatást a Pithiviers Emlékműnél. A délután tökéletes a Saint Salomon templom, a színház és a Château de l'Ardoise központi felfedezésére. Az este tökéletesen zárul a Manoir de la Taille klasszikus és elegáns történelmi bájával.",
         "ro": "Conduceți devreme spre Château de Denainvilliers și Église Saint-Denis. Amiaza oferă o pauză la parcul Bellecour și o vizită la Memorialul Pithiviers. Orele după-amiezii sunt perfecte pentru a descoperi biserica Saint Salomon, teatrul și Château de l'Ardoise în centru. Seara se încheie perfect, admirând farmecul clasic inconfundabil oferit de Manoir de la Taille.",
         "en": "Drive out early to the historic Château de Denainvilliers and the parish of Église Saint-Denis. Midday offers a peaceful break at Bellecour Park and a sobering visit to the Pithiviers Memorial. Afternoon hours are perfect for discovering Saint Salomon Church, the theater, and Château de l'Ardoise in the center. Your evening finishes perfectly with the classic charm of Manoir de la Taille."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Schalten Sie morgens die Scheibenwischer für eine feuchte Fahrt ein. Parken Sie mittags so nah wie möglich, um nicht im Regen zu stehen. Die Nachmittagsfahrten bieten einen stimmungsvollen Blick auf das Denkmal durch nasses Glas. Beenden Sie den Abend sicher im Auto und genießen Sie die Lichter.",
+            "hu": "Kapcsolja be az ablaktörlőt a nedves reggeli városi autózáshoz. Délben parkoljon minél közelebb a helyszínekhez, hogy elkerülje az esőt. A délutáni vezetés során az emlékmű komor arcát mutatja a vizes ablakon át. Az estét a park mentén autózva, a száraz utastérből élvezve zárja.",
+            "ro": "Porniți ștergătoarele pentru o plimbare umedă de dimineață. La prânz, parcați cât mai aproape de obiective pentru a minimiza timpul petrecut în ploaie. După-amiaza oferă o vedere melancolică a memorialului prin geamul umed. Încheiați seara conducând în siguranță de-a lungul parcului.",
+            "en": "Turn on the wipers for a damp morning drive around town. At noon, park as close to the venues as possible to minimize your time in the rain. Afternoon drives offer a moody view of the memorial from behind wet glass. End the evening driving safely along the park, enjoying the rain-washed city lights from a dry cabin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Denainvilliers",
+                "hu": "Château de Denainvilliers",
+                "ro": "Château de Denainvilliers",
+                "en": "Château de Denainvilliers"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie vom Auto zum Eingang; die Innenräume bieten hervorragende Erkundungen an Regentagen.",
+                "hu": "Fussanak az autótól a bejáratig; a belső terek kiváló felfedeznivalót nyújtanak esős napokon.",
+                "ro": "Alergați de la mașină la intrare; camerele interioare oferă o explorare excelentă într-o zi ploioasă.",
+                "en": "Dash from the car to the entrance; the interior rooms offer excellent rainy-day exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Denis et Sainte-Mesme",
+                "hu": "Église Saint-Denis et Sainte-Mesme",
+                "ro": "Église Saint-Denis et Sainte-Mesme",
+                "en": "Église Saint-Denis et Sainte-Mesme"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah, um dem Schauer zu entgehen, und genießen Sie das ruhige, trockene Heiligtum.",
+                "hu": "Parkoljon közel, hogy elkerülje az esőt, és élvezze a csendes, száraz szentélyt.",
+                "ro": "Parcați aproape pentru a evita ploaia și bucurați-vă de sanctuarul liniștit și uscat.",
+                "en": "Park close to avoid the downpour and enjoy the quiet, dry sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellecour Park",
+                "hu": "Bellecour Park",
+                "ro": "Bellecour Park",
+                "en": "Bellecour Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf Schotterwegen mit Schirm, oder genießen Sie das nasse Grün einfach aus dem Auto.",
+                "hu": "Maradjon a kavicsos utakon esernyővel, vagy egyszerűen élvezze az eső áztatta zöldet az autóból.",
+                "ro": "Rămâneți pe aleile pietruite cu o umbrelă, sau bucurați-vă de verdeața spălată de ploaie din mașină.",
+                "en": "Stay on the gravel paths with an umbrella, or just enjoy the rain-washed greenery from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pithiviers Memorial",
+                "hu": "Pithiviers Memorial",
+                "ro": "Pithiviers Memorial",
+                "en": "Pithiviers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Schirm im Kofferraum; der Regen verleiht dem Denkmal eine nachdenkliche Stimmung.",
+                "hu": "Tartson esernyőt a csomagtartóban; az eső súlyos, elgondolkodtató hangulatot ad az emlékműnek.",
+                "ro": "Țineți o umbrelă în portbagaj; ploaia adaugă o stare de spirit grea și reflexivă memorialului.",
+                "en": "Keep an umbrella in the trunk; the rain adds a heavy, reflective mood to the memorial."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Salomon Church",
+                "hu": "Saint Salomon Church",
+                "ro": "Saint Salomon Church",
+                "en": "Saint Salomon Church"
+              },
+              "tip_5lang": {
+                "de": "Die Buntglasfenster wirken im Regen stimmungsvoll; ein kurzer Sprint vom Parkplatz hält Sie trocken.",
+                "hu": "Az ólomüveg borongósan szép az esőben; egy rövid futás a parkolóból szárazon tartja.",
+                "ro": "Vitraliile arată melancolic în ploaie; o fugă scurtă de la locul de parcare vă menține uscat.",
+                "en": "The stained glass looks moody in the rain; a quick dash from the parking spot keeps you dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Donjon",
+                "hu": "Théâtre du Donjon",
+                "ro": "Théâtre du Donjon",
+                "en": "Théâtre du Donjon"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zufluchtsort vor dem nassen Wetter mit bequemen Parkmöglichkeiten in der Nähe.",
+                "hu": "Kiváló beltéri menedék a nedves időjárás elől, kényelmes, közeli parkolási lehetőséggel.",
+                "ro": "Un refugiu interior excelent împotriva vremii umede, cu parcare convenabilă în apropiere.",
+                "en": "Excellent indoor refuge from the wet weather with convenient nearby parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ardoise",
+                "hu": "Château de l'Ardoise",
+                "ro": "Château de l'Ardoise",
+                "en": "Château de l'Ardoise"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Straßen; das Schloss bietet einen trockenen, historischen Rückzugsort.",
+                "hu": "Vezessen óvatosan a nedves helyi utakon; a kastély száraz, történelmi visszavonulást kínál.",
+                "ro": "Conduceți cu grijă pe drumurile locale umede; castelul oferă o retragere istorică și uscată.",
+                "en": "Drive carefully on wet local roads; the castle offers a dry, historical retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Taille",
+                "hu": "Manoir de la Taille",
+                "ro": "Manoir de la Taille",
+                "en": "Manoir de la Taille"
+              },
+              "tip_5lang": {
+                "de": "Die verregnete Fassade ist beeindruckend; bleiben Sie unter Ihrem Schirm bei der Außenbesichtigung.",
+                "hu": "Az esős homlokzat lenyűgöző; maradjon az esernyője alatt, miközben a külső részt csodálja.",
+                "ro": "Fațada ploioasă este impresionantă; stați sub umbrelă în timp ce vizitați exteriorul.",
+                "en": "The rainy facade is striking; stay under your umbrella while touring the exterior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Sitzheizung auf der frostigen Fahrt zum Schloss. Lassen Sie sich mittags von der Autoheizung zwischen den eisigen Denkmälern aufwärmen. Planen Sie Ihre Stopps gut, da es bis 17 Uhr schnell dunkel wird. Die abendliche Fahrt ist eisig, aber das warme Auto bietet perfekten Schutz.",
+            "hu": "Élvezze az ülésfűtést a kastélyhoz vezető fagyos reggeli úton. Délben hagyja, hogy az autó fűtése felmelegítse a jéghideg műemlékek között. Tervezze meg gondosan a délutáni megállókat, mert 17 órára gyorsan besötétedik. Az esti út jeges lesz, de a meleg autó tökéletes menedéket nyújt.",
+            "ro": "Bucurați-vă de scaunele încălzite în timpul drumului matinal spre castel. La prânz, lăsați căldura mașinii să vă dezghețe între vizite. Planificați-vă opririle cu atenție, deoarece se întunecă rapid până la ora 17. Drumul de seară va fi înghețat, dar mașina caldă oferă un refugiu perfect.",
+            "en": "Enjoy the heated seats during your frosty morning drive to the castle. By noon, let the car's heater thaw you out between freezing stone monuments. Plan your afternoon stops carefully, as darkness falls rapidly by 5 PM. The evening drive will be icy, but the warm car provides a perfect mobile viewing platform."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Denainvilliers",
+                "hu": "Château de Denainvilliers",
+                "ro": "Château de Denainvilliers",
+                "en": "Château de Denainvilliers"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Auto, bevor Sie die kühlen, aber prächtigen historischen Räume betreten.",
+                "hu": "Élvezze a fűtött autót, mielőtt belép a hűvös, de csodálatos történelmi szobákba.",
+                "ro": "Bucurați-vă de mașina caldă înainte de a păși în camerele istorice răcoroase, dar magnifice.",
+                "en": "Enjoy the heated car ride before stepping into the chilly but magnificent historic rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Denis et Sainte-Mesme",
+                "hu": "Église Saint-Denis et Sainte-Mesme",
+                "ro": "Église Saint-Denis et Sainte-Mesme",
+                "en": "Église Saint-Denis et Sainte-Mesme"
+              },
+              "tip_5lang": {
+                "de": "Der Stein im Inneren ist eiskalt, lassen Sie Ihren Wintermantel während des Besuchs geschlossen.",
+                "hu": "A kőbelső jéghideg, ezért tartsa begombolva a télikabátját a látogatás alatt.",
+                "ro": "Interiorul din piatră este înghețat, așa că țineți-vă haina de iarnă închisă în timpul vizitei.",
+                "en": "The stone interior is freezing, so keep your winter coat zipped up during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellecour Park",
+                "hu": "Bellecour Park",
+                "ro": "Bellecour Park",
+                "en": "Bellecour Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang im frostigen Park, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "Tegyen egy rövid, tempós sétát a fagyos parkban, mielőtt visszatérne a meleg járműbe.",
+                "ro": "Faceți o scurtă plimbare rapidă în parcul înghețat înainte de a vă retrage în vehiculul cald.",
+                "en": "Take a short, brisk walk in the frost-covered park before retreating to your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pithiviers Memorial",
+                "hu": "Pithiviers Memorial",
+                "ro": "Pithiviers Memorial",
+                "en": "Pithiviers Memorial"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor der frühen Dämmerung; das Zwielicht bietet ein tiefes Erlebnis.",
+                "hu": "Tervezze a látogatást a korai sötétedés előtt; a téli szürkület mély élményt nyújt.",
+                "ro": "Planificați-vă vizita înainte de lăsarea întunericului; crepusculul oferă o experiență profundă.",
+                "en": "Plan your visit before the early dusk; the winter twilight offers a profound experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Salomon Church",
+                "hu": "Saint Salomon Church",
+                "ro": "Saint Salomon Church",
+                "en": "Saint Salomon Church"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Anblick im Winter; wärmen Sie sich drinnen auf, auch wenn der Stein kühl ist.",
+                "hu": "Fenséges látvány a téli borongóban; melegedjen fel bent, bár a kő hűvös marad.",
+                "ro": "O priveliște maiestuoasă în întunericul iernii; încălziți-vă înăuntru, deși piatra este rece.",
+                "en": "A majestic sight in the winter gloom; warm up inside, though the stone stays cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre du Donjon",
+                "hu": "Théâtre du Donjon",
+                "ro": "Théâtre du Donjon",
+                "en": "Théâtre du Donjon"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher, beheizter Kulturstopp, der Ihr kaltes Winterprogramm perfekt auflockert.",
+                "hu": "Hangulatos, fűtött kulturális megálló, amely tökéletesen megtöri a hideg téli programot.",
+                "ro": "O oprire culturală confortabilă și încălzită care vă completează perfect itinerariul de iarnă rece.",
+                "en": "A cozy, heated cultural stop that perfectly breaks up your cold winter itinerary."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Ardoise",
+                "hu": "Château de l'Ardoise",
+                "ro": "Château de l'Ardoise",
+                "en": "Château de l'Ardoise"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume um das Schloss sind tolle Fotomotive, bevor Sie ins Warme gehen.",
+                "hu": "A kastély körüli kopasz fák remek fotótémát nyújtanak, mielőtt bemenne a melegbe.",
+                "ro": "Copacii golași din jurul castelului fac fotografii grozave înainte de a merge înăuntru.",
+                "en": "The stark winter trees around the castle make for great photos before heading indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Taille",
+                "hu": "Manoir de la Taille",
+                "ro": "Manoir de la Taille",
+                "en": "Manoir de la Taille"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dunkelheit um 17 Uhr an, um die Architektur in vollem Umfang zu bewundern.",
+                "hu": "Érkezzen a 17 órai sötétedés előtt, hogy teljes mértékben értékelhesse az építészetet.",
+                "ro": "Ajungeți înainte ca întunericul de la ora 17 să se lase pentru a aprecia pe deplin arhitectura.",
+                "en": "Arrive before the 5 PM darkness sets in to fully appreciate the architecture."
+              }
+            }
+          ]
+        }
       }
     }
   }

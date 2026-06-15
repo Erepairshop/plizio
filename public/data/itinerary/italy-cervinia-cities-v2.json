@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Breuil-Cervinia központjában a modern hegyi templom megtekintésével. Ezután merüljön el a régió történetében az Imago múzeumban a régi fotókon keresztül. Délben tegyen egy pihentető sétát a Lago di Layet felé, ahol a fenséges Matterhorn tükröződik a vízben. A délután további lenyűgöző kilátókat tartogat a Grandes Murailles felé. Zárja a napot a kék tó melletti régi bobpálya izgalmas és történelmi maradványainál.",
         "ro": "Începeți dimineața în centrul localității Breuil-Cervinia vizitând biserica modernă. Apoi, cufundați-vă în istoria regiunii la muzeul Imago. La prânz, faceți o scurtă drumeție relaxantă spre Lago di Layet, unde maiestuosul Matterhorn se reflectă în apă. După-amiaza vă oferă mai multe puncte de belvedere superbe spre Grandes Murailles. Încheiați-vă ziua la rămășițele fascinante ale vechii piste de bob situate idilic lângă Lacul Albastru.",
         "en": "Start your morning in the center of Breuil-Cervinia with a visit to the modern mountain church. Afterward, delve into local history at the Imago museum, exploring vintage photographs. By midday, take a relaxing stroll out to Lago di Layet, where the majestic Matterhorn reflects perfectly in the water. The afternoon offers more stunning viewpoints like the Belvedere su Grandes Murailles. End your day exploring the fascinating ruins of the old bobsleigh track."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht der Bergkapelle am Morgen eine andächtige Stille. Mittags bietet das Imago-Museum einen trockenen Rückzugsort, während draußen Wolken die Gipfel einhüllen. Nachmittags wirken die Seen im Nebel mystisch, doch Vorsicht auf den rutschigen Pfaden. Da die Sicht in den Wolken schnell abnimmt, sollten Sie den Tag frühzeitig in der Wärme einer gemütlichen Bar im Dorf ausklingen lassen.",
+            "hu": "A reggeli esőben a templom csendje nyújt menedéket, ahol felkészülhetünk a vizes túrára. Délben az Imago múzeum falai között maradunk szárazon, amíg a legnagyobb zápor elvonul. Délután a ködös Layet-tó misztikus látványt nyújt, de a csúszós ösvényeken óvatosan lépkedjünk. Estére a felhők közé burkolózó hegyek alatt korán térjünk vissza a falu melegébe, mert a látási viszonyok gyorsan romlanak.",
+            "ro": "Ploaia de dimineață aduce o liniște sacră în biserica locală, oferind un adăpost perfect. La prânz, muzeul Imago este refugiul ideal pentru a rămâne uscat în timp ce studiați arta. După-amiaza, lacul învăluit în ceață oferă peisaje mistice, dar atenție la potecile alunecoase. Seara vine cu vizibilitate redusă, așa că retrageți-vă devreme spre confortul satului înainte ca frigul umed să se instaleze.",
+            "en": "The morning rain brings a contemplative silence to the chapel, offering a perfect dry start. At noon, the Imago museum provides a safe haven while clouds swirl around the peaks outside. In the afternoon, the misty lake views are mystical, but watch your step on the slippery mountain paths. As evening nears and visibility drops, head back early to the village warmth before the light fades completely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Regina della Valle",
+                "hu": "Chiesa della Regina della Valle",
+                "ro": "Chiesa della Regina della Valle",
+                "en": "Chiesa della Regina della Valle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die alpine Architektur, während der Regen auf das Dach prasselt; das Portal ist ideal, um die Regenkleidung noch einmal festzuziehen.",
+                "hu": "Csodálja meg a hegyi építészetet, miközben az eső kopog a tetőn; a bejárati előtető alatt kényelmesen megigazíthatja az esőkabátját a túra előtt.",
+                "ro": "Admirați arhitectura alpină în timp ce ploaia bate în acoperiș; pridvorul de la intrare este locul perfect pentru a vă ajusta echipamentul impermeabil.",
+                "en": "Admire the mountain architecture while the rain patters on the roof; the entrance porch is a great spot to adjust your waterproof gear before starting."
+              }
+            },
+            {
+              "name": {
+                "de": "Imago",
+                "hu": "Imago",
+                "ro": "Imago",
+                "en": "Imago"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Zuflucht, um die lokale Geschichte im Trockenen zu erkunden; nutzen Sie die Zeit hier, um den aktuellen Wetterbericht abzuwarten.",
+                "hu": "Tökéletes beltéri menedék a helyi történelem felfedezéséhez; használja ki az időt a száraz falak között, amíg elvonul a leghevesebb zápor.",
+                "ro": "Refugiul interior perfect pentru a explora istoria locală fără a vă uda; verificați prognoza meteo actualizată înainte de a pleca spre lac.",
+                "en": "The perfect indoor refuge to explore local history while staying dry; use your time here to wait out the heaviest rain before heading to the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Cervino e Lago di Layet",
+                "hu": "Cervino e Lago di Layet",
+                "ro": "Cervino e Lago di Layet",
+                "en": "Cervino e Lago di Layet"
+              },
+              "tip_5lang": {
+                "de": "Das Matterhorn wirkt durch die ziehenden Wolken fast unwirklich; bleiben Sie auf den befestigten Wegen, da die Uferfelsen extrem rutschig sind.",
+                "hu": "A Matterhorn misztikusnak tűnik a gomolygó felhők között; maradjon szigorúan a kövezett úton, mert a tóparti sziklák ilyenkor nagyon csúszósak.",
+                "ro": "Matterhorn pare mistic prin norii trecători; rămâneți strict pe secțiunile pavate, deoarece stâncile de pe malul lacului devin extrem de alunecoase.",
+                "en": "The Matterhorn looks mystical through the shifting clouds; stay strictly on the paved sections as the lakeside rocks become extremely slippery now."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere su Grandes Murailles",
+                "hu": "Belvedere su Grandes Murailles",
+                "ro": "Belvedere su Grandes Murailles",
+                "en": "Belvedere su Grandes Murailles"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wolken an den Felswänden; schützen Sie Ihre Kamera vor Feuchtigkeit und tragen Sie feste, wasserdichte Wanderschuhe.",
+                "hu": "Figyelje a sziklafalak mentén táncoló drámai felhőket; óvja fényképezőgépét a nedvességtől, és viseljen jó tapadású, vízálló túrabakancsot.",
+                "ro": "Urmăriți norii dramatici care dansează de-a lungul pereților de stâncă; protejați camera de umezeală și purtați bocanci de munte impermeabili.",
+                "en": "Watch the dramatic clouds dancing along the rock walls; keep your camera protected from moisture and wear high-traction waterproof hiking boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Ex Pista Bob del Lago Blu",
+                "hu": "Zona Ex Pista Bob del Lago Blu",
+                "ro": "Zona Ex Pista Bob del Lago Blu",
+                "en": "Zona Ex Pista Bob del Lago Blu"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die nostalgische Atmosphäre im Nebel; meiden Sie die unbefestigten Abschnitte, die sich bei Regen schnell in tiefen Schlamm verwandeln.",
+                "hu": "Érezze a nosztalgikus hangulatot a ködben; kerülje a burkolatlan szakaszokat, amelyek heves esőzéskor mély sárral telítődhetnek.",
+                "ro": "Simțiți atmosfera nostalgică prin ceață; evitați porțiunile neasfaltate care se transformă în noroi adânc în timpul ploilor torențiale.",
+                "en": "Experience the nostalgic atmosphere in the mist; avoid the unpaved sections which turn into deep mud during heavy rainfall in this area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Morgen bietet die Kapelle eine kurze, windgeschützte Pause. Mittags wärmen Sie sich in den Ausstellungsräumen des Museums auf, während die Sonne auf den Schnee glitzert. Nachmittags ist die Aussicht auf das gefrorene Matterhorn atemberaubend, doch die Kälte zieht schnell an. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Dämmerung sicher im Dorf genießen.",
+            "hu": "A fagyos reggelen a templom vastag falai között keressünk lelki békét és egy kis szélvédett menedéket. Délben a múzeum fűtött termeiben melegedhetünk fel, miközben a helyi kultúrával ismerkedünk. Délután a befagyott tó és a havas Matterhorn látványa kárpótol a hidegért, de viseljünk réteges öltözetet. Az este már 17 órakor beköszönt, így érdemes időben befejezni a sétát.",
+            "ro": "Într-o dimineață geroasă, biserica oferă o scurtă pauză ferită de vânt. La prânz, încălziți-vă în sălile muzeului în timp ce soarele strălucește pe zăpadă. După-amiaza, vederea spre Matterhornul înghețat este uluitoare, dar frigul devine tăios. Deoarece soarele apune deja în jurul orei 17:00, asigurați-vă că sunteți înapoi în sat pentru a savura atmosfera serii la căldură.",
+            "en": "On a frosty morning, the thick walls of the chapel offer a brief, wind-sheltered refuge. At noon, warm up in the museum's heated halls while admiring the snowy peaks through the windows. The afternoon light on the frozen lake is spectacular, but the cold intensifies quickly. With sunset around 17:00, plan to finish your walk early and enjoy the cozy village lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Regina della Valle",
+                "hu": "Chiesa della Regina della Valle",
+                "ro": "Chiesa della Regina della Valle",
+                "en": "Chiesa della Regina della Valle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille in der geheizten Kirche; nutzen Sie den Besuch, um die kalte Morgenluft für einen Moment hinter sich zu lassen.",
+                "hu": "Élvezze a csendet a fűtött templomban; használja ki a látogatást, hogy egy pillanatra maga mögött hagyja a csípős reggeli hegyi levegőt.",
+                "ro": "Bucurați-vă de liniște în interiorul bisericii; folosiți vizita pentru a lăsa în urmă aerul tăios al dimineții pentru câteva momente de reculegere.",
+                "en": "Enjoy the silence inside the heated church; use this visit to leave the biting morning mountain air behind for a few moments of peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Imago",
+                "hu": "Imago",
+                "ro": "Imago",
+                "en": "Imago"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zur Mittagszeit aufzuwärmen; die Ausstellungen bieten eine faszinierende Flucht vor der winterlichen Kälte draußen.",
+                "hu": "Ideális hely a felmelegedésre a déli órákban; a kiállítások lenyűgöző menekülést kínálnak a kinti téli fagy elől a kultúra világába.",
+                "ro": "Un loc ideal pentru a vă încălzi la prânz; expozițiile oferă o evadare fascinantă de frigul iernii de afară în universul culturii locale.",
+                "en": "An ideal place to warm up during the midday hours; the exhibitions offer a fascinating escape from the winter chill into the world of art."
+              }
+            },
+            {
+              "name": {
+                "de": "Cervino e Lago di Layet",
+                "hu": "Cervino e Lago di Layet",
+                "ro": "Cervino e Lago di Layet",
+                "en": "Cervino e Lago di Layet"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See spiegelt das Matterhorn wunderschön wider; tragen Sie Schuhspikes, da die Wege rund um den See oft vereist sind.",
+                "hu": "A befagyott tó gyönyörűen tükrözi vissza a Matterhorn csúcsát; viseljen csúszásgátlót a bakancson, mert a tó körüli utak gyakran jegesek.",
+                "ro": "Lacul înghețat reflectă superb vârful Matterhorn; purtați crampoane pe ghete, deoarece potecile din jurul lacului sunt adesea acoperite cu gheață.",
+                "en": "The frozen lake reflects the Matterhorn beautifully; wear ice cleats on your boots as the paths around the lake are often very icy in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere su Grandes Murailles",
+                "hu": "Belvedere su Grandes Murailles",
+                "ro": "Belvedere su Grandes Murailles",
+                "en": "Belvedere su Grandes Murailles"
+              },
+              "tip_5lang": {
+                "de": "Die schneebedeckten Wände sind im Winterlicht spektakulär; beachten Sie den frühen Sonnenuntergang um 17:00 Uhr und kehren Sie rechtzeitig um.",
+                "hu": "A hóval borított sziklafalak látványa téli fényben lenyűgöző; ügyeljen a korai, 17:00 órás naplementére, és időben induljon vissza a faluba.",
+                "ro": "Pereții de stâncă acoperiți de zăpadă sunt spectaculoși în lumina iernii; atenție la apusul timpuriu de la ora 17:00, porniți înapoi la timp.",
+                "en": "The snow-covered rock walls are spectacular in the winter light; be mindful of the early 17:00 sunset and head back to the village on time."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Ex Pista Bob del Lago Blu",
+                "hu": "Zona Ex Pista Bob del Lago Blu",
+                "ro": "Zona Ex Pista Bob del Lago Blu",
+                "en": "Zona Ex Pista Bob del Lago Blu"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die historische Strecke unter einer dicken Schneedecke; die tiefstehende Sonne sorgt hier für ein magisches, goldenes Licht.",
+                "hu": "Tapasztalja meg a történelmi pálya hangulatát a vastag hólepel alatt; az alacsonyan járó nap itt varázslatos arany fénybe vonja a tájat.",
+                "ro": "Experimentați atmosfera pistei istorice sub un strat gros de zăpadă; soarele jos creează aici o lumină aurie magică pe peisajul înghețat.",
+                "en": "Experience the historic track under a thick blanket of snow; the low winter sun creates a magical golden light across the frozen landscape here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a központból a modern templomhoz, és élvezze a hűvös hegyi reggelt. Ezután guruljon tovább a Lago di Layet felé a Matterhorn páratlan panorámájáért. Délben két további csodálatos kilátópont is várja a tökéletes tájképek elkészítéséhez. Délután az Ecomuseo del Vertice kiállításain az alpesi védelem történetével ismerkedhet meg. A napot sportosan zárja, feltekerve a Bec Pio Merlo kilátójához, ahonnan lélegzetelállító a naplemente.",
         "ro": "Pedalați din centrul stațiunii spre biserica modernă și bucurați-vă de dimineața răcoroasă. Apoi continuați spre Lago di Layet pentru a experimenta panorama Matterhornului. La prânz, veți găsi încă două puncte de belvedere grandioase, perfecte pentru fotografii de peisaj. După-amiaza, descoperiți istoria apărării alpine la Ecomuseo del Vertice. Ziua se încheie sportiv cu o plimbare spre Bec Pio Merlo pentru ultimele cadre spectaculoase.",
         "en": "Cycle from the village center to the modern church, enjoying the crisp mountain air. Then pedal gently down towards Lago di Layet to experience the iconic Matterhorn panorama. At midday, two more magnificent viewpoints provide the perfect backdrop for stunning landscape photography. In the afternoon, explore alpine defense history at the Ecomuseo del Vertice. The day ends on a sporty note with a ride to Bec Pio Merlo for one last sweeping view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf nassem Asphalt, was höchste Konzentration erfordert. Mittags bietet das Ecomuseo eine lange Pause, um die Kleidung zu trocknen und den stärksten Regen abzuwarten. Die Fahrt zu den Aussichtspunkten ist bei Nebel eine Herausforderung, da die Bremswege länger werden. Schalten Sie wegen der schlechten Sicht das Licht ein und beenden Sie die Tour sicher vor Einbruch der Dunkelheit.",
+            "hu": "A reggel vizes aszfalton indul, ami extra koncentrációt igényel a bringásoktól. Délben az Ecomuseo hosszú szünetet kínál, hogy megszárítsuk ruháinkat és kivárjuk a heves eső végét. A kilátókhoz vezető út ködben kihívás, a fékút pedig jelentősen megnő. A rossz látási viszonyok miatt kapcsolja be a lámpákat, és fejezze be a túrát biztonságban a sötétedés előtt.",
+            "ro": "Dimineața începe pe asfalt ud, necesitând concentrare maximă la frânare. La prânz, Ecomuseo oferă o pauză lungă pentru a vă usca hainele și a aștepta trecerea ploii. Drumul spre punctele de belvedere este o provocare în ceață, iar vizibilitatea scade drastic. Folosiți luminile de drum și încheiați tura în siguranță înainte ca întunericul umed să se instaleze.",
+            "en": "The morning starts on wet asphalt, requiring extra concentration and careful braking. At noon, the Ecomuseo offers a long break to dry your gear and wait out the heaviest rain. The ride to the viewpoints is challenging in the mist, with significantly longer stopping distances. Keep your bike lights on for visibility and finish the loop safely before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Regina della Valle",
+                "hu": "Chiesa della Regina della Valle",
+                "ro": "Chiesa della Regina della Valle",
+                "en": "Chiesa della Regina della Valle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich an der Kirche für einen kurzen Technik-Check; auf nassem Asphalt ist die Bodenhaftung Ihrer Reifen reduziert.",
+                "hu": "Használja ki a templom melletti fedett részt egy rövid technikai ellenőrzésre; a vizes aszfalton a gumiabroncsok tapadása jelentősen csökken.",
+                "ro": "Folosiți zona acoperită de lângă biserică pentru o scurtă verificare tehnică; pe asfaltul ud, aderența anvelopelor este redusă considerabil.",
+                "en": "Use the covered area near the church for a quick technical check; tire grip is significantly reduced on wet asphalt, so check your tire pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Cervino e Lago di Layet",
+                "hu": "Cervino e Lago di Layet",
+                "ro": "Cervino e Lago di Layet",
+                "en": "Cervino e Lago di Layet"
+              },
+              "tip_5lang": {
+                "de": "Der See liegt oft in tiefem Nebel, was eine mystische Stimmung erzeugt; fahren Sie auf den Waldwegen besonders vorsichtig wegen rutschiger Wurzeln.",
+                "hu": "A tó gyakran mély ködbe vész, ami misztikus hangulatot áraszt; az erdei utakon fokozottan ügyeljen a csúszós gyökerekre és a sárra.",
+                "ro": "Lacul este adesea învăluit în ceață densă, creând o atmosferă mistică; pe drumurile de pădure, fiți foarte atenți la rădăcinile alunecoase.",
+                "en": "The lake is often hidden in deep mist, creating a mystical atmosphere; be extra careful on forest paths due to slippery roots and mud patches."
+              }
+            },
+            {
+              "name": {
+                "de": "View Cervino/Matterhorn",
+                "hu": "View Cervino/Matterhorn",
+                "ro": "View Cervino/Matterhorn",
+                "en": "View Cervino/Matterhorn"
+              },
+              "tip_5lang": {
+                "de": "Vielleicht sehen Sie den Gipfel nur kurz zwischen den Wolken; achten Sie beim Anhalten auf festen Stand, da der Boden neben dem Weg aufweichen kann.",
+                "hu": "Lehet, hogy a csúcsot csak pillanatokra látja a felhők között; megálláskor ügyeljen a stabil támasztásra, mert a talaj az út szélén felázhat.",
+                "ro": "S-ar putea să vedeți vârful doar pentru câteva momente printre nori; la oprire, asigurați-vă un sprijin stabil pe solul care poate fi moale.",
+                "en": "You might only see the peak for brief moments between the clouds; ensure stable footing when stopping, as the ground off-path can be soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere sul Cervino",
+                "hu": "Belvedere sul Cervino",
+                "ro": "Belvedere sul Cervino",
+                "en": "Belvedere sul Cervino"
+              },
+              "tip_5lang": {
+                "de": "Die Wolkenspiele am Berg sind faszinierend für Fotos; halten Sie Ihre Bremsen trocken, indem Sie sie gelegentlich während der Fahrt leicht betätigen.",
+                "hu": "A hegyen zajló felhőjáték lenyűgöző fotótéma; tartsa szárazon a fékeket azzal, hogy menet közben néha finoman behúzza őket a víztelenítéshez.",
+                "ro": "Jocul norilor pe munte este fascinant pentru fotografii; păstrați frânele uscate acționându-le ușor ocazional în timpul deplasării pentru drenaj.",
+                "en": "The cloud play on the mountain is fascinating for photos; keep your brakes dry by lightly applying them occasionally while riding to clear water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo del Vertice",
+                "hu": "Ecomuseo del Vertice",
+                "ro": "Ecomuseo del Vertice",
+                "en": "Ecomuseo del Vertice"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Trockenen; nutzen Sie die Zeit, um Ihre Brille zu reinigen und Ihre Regenjacke neu zu justieren.",
+                "hu": "Tökéletes hely egy hosszabb szünetre a szárazon; használja ki az időt a szemüveg megtisztítására és az esőruha pontosabb beállítására.",
+                "ro": "Locul perfect pentru o pauză lungă la adăpost; folosiți timpul pentru a vă curăța ochelarii și a vă reajusta echipamentul de ploaie.",
+                "en": "The perfect spot for a long indoor break; use this time to clean your eyewear and readjust your waterproof gear for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Bec Pio Merlo",
+                "hu": "Bec Pio Merlo",
+                "ro": "Bec Pio Merlo",
+                "en": "Bec Pio Merlo"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen wirken im Regen besonders dunkel und imposant; fahren Sie die Abfahrt extrem vorsichtig und vermeiden Sie plötzliche Lenkmanöver.",
+                "hu": "A sziklák az esőben különösen sötétek és impozánsak; a lejtőn közlekedjen rendkívül óvatosan, és kerülje a hirtelen kormánymozdulatokat.",
+                "ro": "Stâncile par deosebit de întunecate și impunătoare în ploaie; coborâți cu extremă prudență și evitați manevrele bruște de direcție.",
+                "en": "The rocks look particularly dark and imposing in the rain; take the descent with extreme caution and avoid any sudden steering movements."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie bei frostigen Temperaturen mit guter Thermokleidung in den Morgen. Mittags ist das Ecomuseo ein Segen, um die steifen Finger aufzuwärmen und neue Energie zu tanken. Die tiefstehende Wintersonne blendet auf dem Schnee, tragen Sie daher eine gute Skibrille. Da es bereits gegen 17:00 Uhr dunkel wird und die Temperaturen sturzartig fallen, beenden Sie Ihre Tour rechtzeitig.",
+            "hu": "Kezdje a reggelt fagyos hőmérsékletben, jó hőtartó ruházatban. Délben az Ecomuseo áldás lesz, hogy felmelegítsük elgémberedett ujjainkat és új erőt gyűjtsünk. Az alacsony téli nap vakító lehet a havon, ezért viseljen megfelelő napszemüveget. Mivel 17:00 körül már sötétedik és a hőmérséklet hirtelen zuhan, fejezze be időben a túrát.",
+            "ro": "Începeți dimineața la temperaturi de îngheț, purtând haine termice de calitate. La prânz, Ecomuseo este o binecuvântare pentru a vă încălzi degetele amorțite. Soarele jos de iarnă poate fi orbitor pe zăpadă, deci purtați ochelari de protecție adecvați. Deoarece se întunecă la ora 17:00 și gerul se intensifică rapid, încheiați tura la timp.",
+            "en": "Start the morning in freezing temperatures with high-quality thermal gear. At noon, the Ecomuseo is a blessing to warm up your stiff fingers and recharge. The low winter sun can be blinding against the snow, so wear proper cycling sunglasses. Since it gets dark by 17:00 and temperatures drop sharply, ensure you finish your ride well before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Regina della Valle",
+                "hu": "Chiesa della Regina della Valle",
+                "ro": "Chiesa della Regina della Valle",
+                "en": "Chiesa della Regina della Valle"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Windschatten der Kirche hilft, die Körperwärme zu halten; prüfen Sie Ihre Bremszüge auf Vereisung, bevor Sie weiterfahren.",
+                "hu": "Egy rövid megálló a templom szélárnyékában segít megőrizni a testhőt; indulás előtt ellenőrizze, hogy a fékbowdenek nincsenek-e elfagyva.",
+                "ro": "O scurtă oprire la adăpostul bisericii ajută la menținerea căldurii corporale; verificați cablurile de frână pentru îngheț înainte de a pleca.",
+                "en": "A brief stop in the church's wind shelter helps maintain body heat; check your brake cables for icing before continuing the winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Cervino e Lago di Layet",
+                "hu": "Cervino e Lago di Layet",
+                "ro": "Cervino e Lago di Layet",
+                "en": "Cervino e Lago di Layet"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am See ist extrem kalt und klar; achten Sie auf glatte Stellen durch gefrorenes Spritzwasser auf den Wegen rund um das Ufer.",
+                "hu": "A levegő a tónál rendkívül hideg és tiszta; ügyeljen a jeges foltokra, amelyeket a kifröccsenő és megfagyott víz okozhat a part menti utakon.",
+                "ro": "Aerul de lângă lac este extrem de rece și limpede; atenție la porțiunile alunecoase cauzate de apa înghețată pe drumurile de lângă țărm.",
+                "en": "The air near the lake is extremely cold and clear; watch out for icy patches caused by frozen spray on the paths along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "View Cervino/Matterhorn",
+                "hu": "View Cervino/Matterhorn",
+                "ro": "View Cervino/Matterhorn",
+                "en": "View Cervino/Matterhorn"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen dem dunklen Fels und dem weißen Schnee ist heute perfekt; halten Sie den Stopp kurz, um nicht zu stark auszukühlen.",
+                "hu": "A sötét sziklák és a fehér hó kontrasztja ma tökéletes fotótéma; tartsa röviden a megállót, hogy ne hűljön ki túlságosan a teste a szélben.",
+                "ro": "Contrastul dintre stânca întunecată și zăpada albă este perfect astăzi; faceți o oprire scurtă pentru a nu vă răci excesiv în vântul tăios.",
+                "en": "The contrast between the dark rock and the white snow is perfect today; keep the stop brief to avoid your body temperature dropping too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere sul Cervino",
+                "hu": "Belvedere sul Cervino",
+                "ro": "Belvedere sul Cervino",
+                "en": "Belvedere sul Cervino"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ausblick auf das winterliche Bergpanorama; tragen Sie unbedingt winddichte Handschuhe, da der Fahrtwind bei Frost extrem beißt.",
+                "hu": "Pazar kilátás nyílik a téli hegyi panorámára; viseljen szélálló kesztyűt, mert a menetszél fagyban rendkívül gyorsan lehűti az ujjait.",
+                "ro": "O vedere superbă asupra panoramei montane de iarnă; purtați neapărat mănuși rezistente la vânt, deoarece curentul de aer îngheață degetele.",
+                "en": "A magnificent view of the winter mountain panorama; be sure to wear windproof gloves, as the wind chill is extreme at freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo del Vertice",
+                "hu": "Ecomuseo del Vertice",
+                "ro": "Ecomuseo del Vertice",
+                "en": "Ecomuseo del Vertice"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Museum und trinken Sie etwas Warmes; die Pause ist essenziell, um die Kraft für den Rückweg zu mobilisieren.",
+                "hu": "Élvezze a múzeum kellemes melegét és igyon valami forrót; a szünet elengedhetetlen, hogy erőt gyűjtsön a hidegben való visszatekeréshez.",
+                "ro": "Bucurați-vă de căldura muzeului și beți ceva cald; pauza este esențială pentru a vă mobiliza forțele pentru drumul de întoarcere prin ger.",
+                "en": "Enjoy the cozy warmth inside the museum and have a warm drink; this break is essential to regain energy for the final leg in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Bec Pio Merlo",
+                "hu": "Bec Pio Merlo",
+                "ro": "Bec Pio Merlo",
+                "en": "Bec Pio Merlo"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne taucht die Felsen in warmes Licht; beeilen Sie sich mit der Abfahrt, da die Schatten im Tal bereits sehr kalt sind.",
+                "hu": "Az alacsonyan járó nap meleg fénybe vonja a sziklákat; siessen a leereszkedéssel, mert a völgyben a hegy árnyéka már nagyon hideg.",
+                "ro": "Soarele jos scaldă stâncile într-o lumină caldă; grăbiți-vă cu coborârea, deoarece umbrele din vale sunt deja foarte reci la această oră.",
+                "en": "The low sun bathes the rocks in warm light; hurry with the descent, as the shadows in the valley are already very cold at this time."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autós túrája a központban kezdődik az Imago múzeum meglátogatásával, ahol történelmi képek elevenítik fel a múltat. Délben vezessen a Matterhorn és a Grandes Murailles fenséges kilátópontjaihoz. A kanyargós hegyi út délután elviszi a Perrères legelők feletti kilátóhoz. Ezután látogasson el a lenyűgöző Ecomuseo del Vertice kiállítására. A tökéletes befejezést a Bec Pio Merlo panorámája biztosítja a késő délutáni, aranyló fényekben.",
         "ro": "Turul cu mașina începe în centru cu o vizită la muzeul Imago, unde imaginile istorice readuc la viață trecutul. La prânz, conduceți spre punctele de belvedere maiestuoase ale Matterhornului. Drumul șerpuit vă duce după-amiaza la punctul panoramic deasupra pășunilor Perrères. Ulterior, vizitați fascinantul Ecomuseo del Vertice. Finalul perfect este asigurat de vederea panoramică de la Bec Pio Merlo în lumina târzie a după-amiezii.",
         "en": "Your driving tour begins in the center with a visit to the Imago museum, where historic images bring the past to life. By midday, drive out to the majestic viewpoints facing the Matterhorn and Grandes Murailles. The winding road then takes you to the sweeping overlook above the Perrères alpine pastures. Next, visit the fascinating Ecomuseo del Vertice. The perfect conclusion is the panoramic view from Bec Pio Merlo in the late afternoon light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Imago-Museum ist am verregneten Morgen der ideale Startpunkt im Trockenen. Mittags führt die Fahrt durch mystisch vernebelte Täler, wobei die Wolken tief an den Felswänden hängen. Genießen Sie die Aussicht auf das Matterhorn bequem vom Auto aus, da die Sicht im Freien oft durch Wind und Regen eingeschränkt ist. Achten Sie bei der Rückfahrt auf Aquaplaning und parken Sie nur auf befestigten Flächen.",
+            "hu": "Az Imago múzeum az esős reggelen az ideális kezdőpont, ahol szárazon maradhatunk. Délben az út misztikus, ködös völgyeken vezet keresztül, ahol a felhők mélyen a sziklafalakra simulnak. Élvezze a Matterhorn látványát kényelmesen az autóból, mivel kint a szél és az eső zavaró lehet. A visszaúton ügyeljen a vízátfolyásokra, és csak burkolt felületen parkoljon, hogy ne akadjon el.",
+            "ro": "Muzeul Imago este punctul de plecare ideal în această dimineață ploioasă, oferind confort și cultură. La prânz, drumul șerpuiește prin văi învăluite în ceață, oferind peisaje dramatice. Admirați Matterhorn din confortul mașinii, deoarece ploaia și vântul pot fi tăioase afară. La întoarcere, atenție la acvaplanare și parcați doar pe suprafețe pavate pentru a evita noroiul.",
+            "en": "The Imago museum is the perfect dry starting point for this rainy morning. At noon, the drive takes you through mystically misty valleys where clouds cling low to the rock walls. Enjoy the views of the Matterhorn comfortably from your car, as the wind and rain can be intense outside. On the drive back, watch out for hydroplaning and park only on paved surfaces to avoid getting stuck."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Imago",
+                "hu": "Imago",
+                "ro": "Imago",
+                "en": "Imago"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Gebäude zu gelangen; drinnen können Sie die lokale Kunst ohne Zeitdruck genießen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be; odabent időnyomás nélkül élvezheti a helyi művészeti alkotásokat.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în clădire; în interior, puteți savura arta locală fără presiunea timpului de afară.",
+                "en": "Park as close to the entrance as possible to stay dry; inside, you can enjoy the local art collection without any pressure from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cervino e Grandes Murailles",
+                "hu": "Cervino e Grandes Murailles",
+                "ro": "Cervino e Grandes Murailles",
+                "en": "Cervino e Grandes Murailles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbuchten für einen Blick aus dem Fenster; der Berg wirkt im Regen düster und majestätisch, oft blitzt der Gipfel kurz hervor.",
+                "hu": "Használja a parkolóöblöket az ablakból való nézelődéshez; a hegy az esőben komor és fenséges, a csúcs gyakran csak pillanatokra bukkan elő.",
+                "ro": "Folosiți alveolele de parcare pentru a privi pe fereastră; muntele pare sumbru și maiestuos în ploaie, vârful apărând adesea printre nori.",
+                "en": "Use the parking pull-offs for a view from your window; the mountain looks somber and majestic in the rain, with the peak often peeking through."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere sugli alpeggi di Perrères",
+                "hu": "Belvedere sugli alpeggi di Perrères",
+                "ro": "Belvedere sugli alpeggi di Perrères",
+                "en": "Belvedere sugli alpeggi di Perrères"
+              },
+              "tip_5lang": {
+                "de": "Die grünen Almen leuchten im Regen besonders intensiv; bleiben Sie beim Fotografieren unter der Heckklappe Ihres Autos, um trocken zu bleiben.",
+                "hu": "A zöld alpesi legelők színe az esőben különösen intenzív; fotózáskor maradjon az autó nyitott csomagtartója alatt, hogy szárazon maradjon.",
+                "ro": "Pășunile alpine verzi au o culoare intensă în ploaie; la fotografiere, stați sub hayonul deschis al mașinii pentru a rămâne uscat.",
+                "en": "The green alpine pastures look especially vibrant in the rain; stay under your car's open tailgate while taking photos to keep your gear dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo del Vertice",
+                "hu": "Ecomuseo del Vertice",
+                "ro": "Ecomuseo del Vertice",
+                "en": "Ecomuseo del Vertice"
+              },
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Stopp, um die alpine Kultur im Warmen zu erleben; prüfen Sie vor der Weiterfahrt Ihre Scheibenwischer auf volle Funktion.",
+                "hu": "Kiváló megálló az alpesi kultúra melegben való átéléséhez; a továbbindulás előtt ellenőrizze az ablaktörlők hatékonyságát a jó kilátásért.",
+                "ro": "O oprire excelentă pentru a experimenta cultura alpină la căldură; înainte de a pleca, verificați funcționarea ștergătoarelor de parbriz.",
+                "en": "An excellent stop to experience alpine culture in the warmth; check your windshield wipers for full functionality before driving further."
+              }
+            },
+            {
+              "name": {
+                "de": "Bec Pio Merlo",
+                "hu": "Bec Pio Merlo",
+                "ro": "Bec Pio Merlo",
+                "en": "Bec Pio Merlo"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Felsformationen wirken bei Regen sehr dramatisch; achten Sie beim Ein- und Aussteigen auf rutschige Markierungen auf dem Asphalt.",
+                "hu": "A sötét sziklaformációk esőben nagyon drámai hatást keltenek; kiszálláskor ügyeljen a felfestett útburkolati jelekre, mert rendkívül csúsznak.",
+                "ro": "Formațiunile de stâncă întunecată par foarte dramatice în ploaie; la urcare și coborâre, atenție la marcajele rutiere care devin alunecoase.",
+                "en": "The dark rock formations look very dramatic in the rain; watch out for slippery road markings when getting in and out of your car here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frostigen Morgen im beheizten Auto auf dem Weg zum Imago-Museum. Mittags bieten die Museen der Region eine wunderbare Flucht vor dem eisigen Wind, während draußen die Schneemassen glitzern. Die Fahrt zu den Aussichtspunkten ist bei klarem Winterhimmel ein Erlebnis, doch die Bergstraßen können vereist sein. Beachten Sie den Sonnenuntergang um 17:00 Uhr und parken Sie vor Einbruch der Frostnacht sicher.",
+            "hu": "Élvezze a fagyos reggelt a fűtött autó kényelméből az Imago múzeum felé tartva. Délben a régió múzeumaiban találhatunk menedéket a jeges szél elől, miközben kint csillog a hó. A kilátókhoz vezető út tiszta téli égbolt alatt felejthetetlen, de a hegyi utak jegesek lehetnek. Ügyeljen a 17:00 órás naplementére, és parkoljon le biztonságban, mielőtt beállna az éjszakai fagy.",
+            "ro": "Bucurați-vă de dimineața geroasă în mașina încălzită în drum spre muzeul Imago. La prânz, muzeele din regiune oferă o evadare minunată de vântul tăios, în timp ce zăpada strălucește afară. Drumul spre punctele de belvedere este o experiență unică sub cerul senin de iarnă, dar șoselele pot fi înghețate. Atenție la apusul de la ora 17:00, parcați în siguranță înainte de gerul nopții.",
+            "en": "Enjoy the frosty morning from the comfort of your heated car while driving to the Imago museum. At noon, the local museums offer a wonderful escape from the biting wind while the snow glitters outside. The drive to the viewpoints is spectacular under clear winter skies, but mountain roads can be icy. Note the 17:00 sunset and ensure you park safely before the deep night freeze begins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Imago",
+                "hu": "Imago",
+                "ro": "Imago",
+                "en": "Imago"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um das Auto komplett abzutauen; drinnen erwartet Sie eine angenehme Wärme und faszinierende Lokalgeschichte.",
+                "hu": "Használja ki a múzeumlátogatást, hogy az autó teljesen leolvadjon; odabent kellemes meleg és lenyűgöző helytörténeti kiállítás várja.",
+                "ro": "Folosiți vizita la muzeu pentru a lăsa mașina să se dezghețe complet; în interior vă așteaptă o căldură plăcută și istorie locală fascinantă.",
+                "en": "Use your time at the museum to let the car defrost completely; inside, pleasant warmth and fascinating local history await your discovery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cervino e Grandes Murailles",
+                "hu": "Cervino e Grandes Murailles",
+                "ro": "Cervino e Grandes Murailles",
+                "en": "Cervino e Grandes Murailles"
+              },
+              "tip_5lang": {
+                "de": "Die verschneiten Gipfel bieten ein fantastisches Panorama vom Parkplatz aus; achten Sie beim Aussteigen auf Glatteisbildung in den Schattenzonen.",
+                "hu": "A havas csúcsok fantasztikus panorámát nyújtanak a parkolóból; kiszálláskor legyen nagyon óvatos, mert az árnyékos részeken tükörjég lehet.",
+                "ro": "Vârfurile înzăpezite oferă o panoramă fantastică chiar din parcare; la coborâre, fiți atenți la gheața formată în zonele umbrite ale drumului.",
+                "en": "The snow-capped peaks offer a fantastic panorama from the parking area; be very careful when stepping out, as shaded spots often have black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere sugli alpeggi di Perrères",
+                "hu": "Belvedere sugli alpeggi di Perrères",
+                "ro": "Belvedere sugli alpeggi di Perrères",
+                "en": "Belvedere sugli alpeggi di Perrères"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Almen glitzern in der Wintersonne wie Diamanten; halten Sie den Motor nicht zu lange im Stand laufen, um die Naturruhe zu bewahren.",
+                "hu": "A fehér alpesi legelők gyémántként csillognak a téli napsütésben; ne járassa feleslegesen a motort álló helyzetben, hogy megőrizze a hegyi csendet.",
+                "ro": "Pășunile alpine albe strălucesc ca diamantele în soarele iernii; nu lăsați motorul pornit inutil în staționare pentru a păstra liniștea muntelui.",
+                "en": "The white alpine pastures glitter like diamonds in the winter sun; avoid idling your engine for too long to preserve the peaceful mountain silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseo del Vertice",
+                "hu": "Ecomuseo del Vertice",
+                "ro": "Ecomuseo del Vertice",
+                "en": "Ecomuseo del Vertice"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause in geheizter Umgebung; prüfen Sie Ihren Frostschutz in der Scheibenwaschanlage für die restliche Fahrt.",
+                "hu": "Ideális hely egy pihenőre fűtött környezetben; ellenőrizze a szélvédőmosó folyadék fagyállóságát a túra hátralévő részére a jó kilátásért.",
+                "ro": "Un loc ideal pentru o pauză într-un mediu încălzit; verificați nivelul lichidului de parbriz rezistent la îngheț pentru restul drumului.",
+                "en": "An ideal spot for a break in a heated environment; check your windshield washer fluid's freeze protection level for the rest of the winter trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Bec Pio Merlo",
+                "hu": "Bec Pio Merlo",
+                "ro": "Bec Pio Merlo",
+                "en": "Bec Pio Merlo"
+              },
+              "tip_5lang": {
+                "de": "Das Abendlicht auf den Felsen ist im Winter besonders golden; fahren Sie vorsichtig zurück, da die Straßentemperaturen nun rapide sinken.",
+                "hu": "A sziklákon megcsillanó esti fény télen különösen aranyló; vezessen óvatosan visszafelé, mert az út hőmérséklete ilyenkor rohamosan zuhan.",
+                "ro": "Lumina serii pe stânci este deosebit de aurie iarna; conduceți cu atenție la întoarcere, deoarece temperatura drumului scade acum rapid.",
+                "en": "The evening light on the rocks is particularly golden in winter; drive back carefully as road temperatures drop rapidly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     }
   }

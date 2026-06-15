@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a Stoltenbergparkenben, mielőtt meglátogatná a megható Utøya emlékművet.\n\nA dél a helyi történelem és művészet felfedezésére hív a Tengerészeti Központban és a Vestfold Kunstsenterben.\n\nDélután csodálja meg a Haugar művészeti múzeum remekműveit, majd pihenjen meg a Gunnarsbøparken zöld pázsitján.\n\nZárja az estét a gazdag partvidéki hagyományok felfedezésével a Kystkultursenteretben, miközben a nap lenyugszik.",
         "ro": "Începeți dimineața cu o plimbare revigorantă prin Stoltenbergparken, înainte de a vizita emoționantul monument Utøya.\n\nLa prânz sunteți invitați să pătrundeți în istoria locală la Centrul Maritim și la vibrantul Vestfold Kunstsenter.\n\nDupă-amiaza, explorați capodoperele de la muzeul de artă Haugar înainte de a vă relaxa pe peluzele verzi din Gunnarsbøparken.\n\nÎncheiați seara descoperind bogatele tradiții de coastă la Kystkultursenteret în timp ce soarele apune.",
         "en": "Begin your morning with a refreshing walk through Stoltenbergparken, setting a calm tone before visiting the poignant Utøya monument.\n\nMidday invites you to delve into local history at the Maritime Center and the vibrant Vestfold Kunstsenter.\n\nIn the afternoon, explore the masterpieces at Haugar kunstmuseum before unwinding on the green lawns of Gunnarsbøparken.\n\nConclude your evening discovering the rich coastal traditions at Kystkultursenteret as the sun sets over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tønsbergs Gassen glänzen im Regen. Der Vormittag beginnt im Stoltenbergparken, gefolgt von Geschichte am Utøya-Monument. Mittags bieten das Schifffahrtsmuseum und das Kunstsenter trockenen Unterschlupf. Nachmittags erkunden wir das Haugar-Museum auf dem Hügel, bevor wir den Tag im Gunnarsbøparken und am Kystkultursenteret ausklingen lassen. Festes Schuhwerk und Schirme sind heute wichtig.",
+            "hu": "Tønsberg utcái ragyognak az esőben. A reggel a Stoltenbergparken fáinak védelmében indul, majd az Utøya-emlékművet érintjük. Délben a tengerészeti és művészeti múzeumok nyújtanak fedett menedéket. Délután a Haugar dombján vizuális élmény vár, végül a Gunnarsbøparken és a parti kulturális központ következik. Vízálló cipő és egy erős esernyő elengedhetetlen a tengeri szélben.",
+            "ro": "Străzile din Tønsberg strălucesc sub ploaie. Dimineața începe în Stoltenbergparken, urmată de monumentul Utøya. La prânz, muzeele oferă adăpost uscat și cultură maritimă. După-amiaza urcăm la Haugar pentru artă, apoi trecem prin Gunnarsbøparken spre centrul cultural de coastă. Încălțămintea impermeabilă și o umbrelă rezistentă sunt esențiale pentru plimbarea pe chei.",
+            "en": "Tønsberg's streets glisten in the rain. The morning starts in Stoltenbergparken, followed by the Utøya monument. At noon, the maritime and art museums provide dry shelter. In the afternoon, explore Haugar museum on the hill, ending at Gunnarsbøparken and the coastal center. Waterproof shoes and a sturdy umbrella are essential today as the sea breeze can be quite damp."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stoltenbergparken",
+                "hu": "Stoltenbergparken",
+                "ro": "Stoltenbergparken",
+                "en": "Stoltenbergparken"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter dem dichten Blätterdach, das natürlichen Schutz bietet; tragen Sie wasserfeste Stiefel für die oft aufgeweichten Parkwege.",
+                "hu": "Sétáljon a sűrű lombok alatt, amelyek természetes ernyőként védenek; viseljen vízálló bakancsot a gyakran felázott parki ösvényeken.",
+                "ro": "Plimbați-vă sub coronamentul dens care oferă protecție naturală; purtați cizme impermeabile pentru potecile din parc adesea noroioase.",
+                "en": "Walk under the dense canopy which provides natural shelter from the drizzle; wear waterproof boots for the often softened park paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Utøya monument",
+                "hu": "Utøya monument",
+                "ro": "Utøya monument",
+                "en": "Utøya monument"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der stillen Reflexion im Regen; bringen Sie einen windfesten Schirm mit, da der Wind hier direkt vom Wasser her wehen kann.",
+                "hu": "A csendes emlékezés helyszíne az esőben; vigyen szélálló esernyőt, mivel a szél itt közvetlenül a víz felől érkezhet.",
+                "ro": "Un loc de reflecție silențioasă în ploaie; aduceți o umbrelă rezistentă la vânt, deoarece rafalele pot veni direct de pe apă.",
+                "en": "A place of quiet reflection in the rain; bring a windproof umbrella as gusts can blow directly from the water here."
+              }
+            },
+            {
+              "name": {
+                "de": "Tønsberg Sjøfartshistoriske Senter",
+                "hu": "Tønsberg Sjøfartshistoriske Senter",
+                "ro": "Tønsberg Sjøfartshistoriske Senter",
+                "en": "Tønsberg Sjøfartshistoriske Senter"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen in diesem wunderbaren maritimen Zentrum; nutzen Sie die Zeit drinnen, um die detaillierten Schiffsmodelle zu studieren.",
+                "hu": "Meneküljön az eső elől ebbe a csodás tengerészeti központba; használja ki a benti időt a részletes hajómodellek tanulmányozására.",
+                "ro": "Evadați de ploaie în acest minunat centru maritim; profitați de timpul petrecut înăuntru pentru a studia modelele detaliate de nave.",
+                "en": "Escape the rain in this wonderful maritime center; use the indoor time to study the detailed ship models while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Vestfold Kunstsenter",
+                "hu": "Vestfold Kunstsenter",
+                "ro": "Vestfold Kunstsenter",
+                "en": "Vestfold Kunstsenter"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunst in trockener Atmosphäre; prüfen Sie die Garderobe, um Ihre nasse Regenjacke bequem ablegen zu können.",
+                "hu": "Élvezze a kortárs művészetet száraz környezetben; használja a ruhatárat, hogy kényelmesen letehesse vizes esőkabátját a látogatás előtt.",
+                "ro": "Bucurați-vă de arta contemporană într-o atmosferă uscată; folosiți garderoba pentru a vă lăsa haina udă de ploaie în siguranță.",
+                "en": "Enjoy contemporary art in a dry atmosphere; use the cloakroom to conveniently leave your wet raincoat before exploring the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Haugar kunstmuseum",
+                "hu": "Haugar kunstmuseum",
+                "ro": "Haugar kunstmuseum",
+                "en": "Haugar kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum auf dem Hügel bietet großartige Ausblicke auf das verregnete Tønsberg; gehen Sie auf den nassen Außentreppen besonders vorsichtig.",
+                "hu": "A dombtetőn lévő múzeum pazar kilátást nyújt a borús városra; a vizes kültéri lépcsőkön járjon fokozott óvatossággal.",
+                "ro": "Muzeul de pe deal oferă vederi superbe asupra orașului ploios; mergeți cu mare atenție pe scările exterioare care devin alunecoase.",
+                "en": "The museum on the hill offers great views of rainy Tønsberg; walk with extra care on the outdoor steps which can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunnarsbøparken",
+                "hu": "Gunnarsbøparken",
+                "ro": "Gunnarsbøparken",
+                "en": "Gunnarsbøparken"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Spaziergang durch das nasse Grün; bleiben Sie auf den befestigten Wegen, um Schlamm an den Schuhen zu vermeiden.",
+                "hu": "Rövid, frissítő séta a vizes zöldben; maradjon a kövezett utakon, hogy elkerülje a sár felverődését a nadrágjára.",
+                "ro": "O plimbare scurtă și răcoritoare prin verdeața udă; rămâneți pe aleile pavate pentru a evita noroiul de pe pantofi.",
+                "en": "A short, refreshing walk through the wet greenery; stay on the paved paths to avoid getting mud on your shoes and clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kystkultursenteret",
+                "hu": "Kystkultursenteret",
+                "ro": "Kystkultursenteret",
+                "en": "Kystkultursenteret"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Küstenkultur unter einem schützenden Dach; der Geruch von nassem Holz und Teer verstärkt das maritime Erlebnis im Regen.",
+                "hu": "Fedezze fel a parti kultúrát a védelmező tető alatt; a vizes fa és a kátrány illata csak fokozza a tengeri élményt az esőben.",
+                "ro": "Descoperiți cultura de coastă sub un acoperiș protector; mirosul de lemn ud și smoală accentuează experiența maritimă pe ploaie.",
+                "en": "Discover coastal culture under a protective roof; the scent of wet wood and tar only enhances the maritime experience in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Norwegens älteste Stadt im Winter. Der Morgen beginnt kühl im Stoltenbergparken, bevor wir uns mittags in den maritimen und Kunstmuseen aufwärmen. Nachmittags bietet der Haugar-Hügel eine klare Sicht auf die verschneite Stadt. Da es gegen 17:00 Uhr dunkel wird, endet der Tag stimmungsvoll am beleuchteten Hafen. Warme Kleidung und Wollsocken sind ein Muss.",
+            "hu": "Ismerje meg Norvégia legrégebbi városát télen. A reggel frissen indul a Stoltenbergparkenben, délben pedig a tengerészeti és művészeti múzeumokban melegedhetünk fel. Délután a Haugar dombjáról tiszta kilátás nyílik a havas városra. Mivel 17:00 körül sötétedik, a napot a kivilágított kikötőben zárjuk. A meleg réteges öltözet és gyapjúzokni kötelező.",
+            "ro": "Experimentați cel mai vechi oraș al Norvegiei în straie de iarnă. Dimineața începe răcoros în Stoltenbergparken, iar la prânz ne încălzim în muzeele maritime și de artă. După-amiaza, dealul Haugar oferă o vedere clară asupra orașului înzăpezit. Deoarece se întunecă în jur de 17:00, ziua se încheie atmosferic în port. Hainele groase sunt obligatorii.",
+            "en": "Experience Norway's oldest town in winter. The morning starts crisp in Stoltenbergparken, before warming up in the maritime and art museums at noon. In the afternoon, Haugar hill offers a clear view of the snowy city. Since it gets dark around 17:00, the day ends atmospherically at the illuminated harbor. Warm layered clothing and wool socks are a must."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stoltenbergparken",
+                "hu": "Stoltenbergparken",
+                "ro": "Stoltenbergparken",
+                "en": "Stoltenbergparken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille des Parks; tragen Sie Thermostiefel, da die Wege bei Frost sehr kalt und rutschig sein können.",
+                "hu": "Élvezze a park téli csendjét; viseljen hótaposót vagy bélelt bakancsot, mert a fagyos utak nagyon hidegek és csúszósak lehetnek.",
+                "ro": "Bucurați-vă de liniștea hibernală a parcului; purtați cizme termice, deoarece aleile pot fi foarte reci și alunecoase la îngheț.",
+                "en": "Enjoy the winter silence of the park; wear thermal boots as the paths can be very cold and slippery during frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Utøya monument",
+                "hu": "Utøya monument",
+                "ro": "Utøya monument",
+                "en": "Utøya monument"
+              },
+              "tip_5lang": {
+                "de": "Ein würdevoller Ort im Winterschnee; ein warmer Schal ist hier unerlässlich, da der kalte Seewind ungehindert über den Platz fegt.",
+                "hu": "Méltóságteljes helyszín a téli hóban; egy meleg sál elengedhetetlen itt, mivel a jeges tengeri szél akadálytalanul söpör át a téren.",
+                "ro": "Un loc demn în zăpada iernii; un fular gros este indispensabil aici, deoarece vântul rece de mare suflă direct peste piață.",
+                "en": "A dignified place in the winter snow; a warm scarf is essential here as the cold sea wind sweeps directly across the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Tønsberg Sjøfartshistoriske Senter",
+                "hu": "Tønsberg Sjøfartshistoriske Senter",
+                "ro": "Tønsberg Sjøfartshistoriske Senter",
+                "en": "Tønsberg Sjøfartshistoriske Senter"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich zwischen den Stationen aufzuwärmen; genießen Sie die maritime Geschichte in gut beheizten Ausstellungsräumen.",
+                "hu": "Tökéletes helyszín a felmelegedésre két megálló között; élvezze a tengerészeti történelmet a jól fűtött kiállítótermekben.",
+                "ro": "Locul perfect pentru a vă încălzi între opriri; bucurați-vă de istoria maritimă în sălile de expoziție bine încălzite.",
+                "en": "The perfect place to warm up between stops; enjoy the maritime history inside the well-heated exhibition rooms away from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Vestfold Kunstsenter",
+                "hu": "Vestfold Kunstsenter",
+                "ro": "Vestfold Kunstsenter",
+                "en": "Vestfold Kunstsenter"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Kälte draußen und tauchen Sie in die Kunst ein; trinken Sie im angrenzenden Bereich einen warmen Tee, falls verfügbar.",
+                "hu": "Hagyja kint a hideget és merüljön el a művészetben; ha van rá lehetőség, igyon egy forró teát a közeli kávézóban a látogatás után.",
+                "ro": "Lăsați frigul afară și scufundați-vă în artă; beți un ceai cald în zona adiacentă, dacă este disponibil, pentru a vă recupera.",
+                "en": "Leave the cold outside and dive into the art; have a warm tea in the adjacent area if available to recover from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Haugar kunstmuseum",
+                "hu": "Haugar kunstmuseum",
+                "ro": "Haugar kunstmuseum",
+                "en": "Haugar kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das verschneite Tønsberg von oben; achten Sie auf die frühen Öffnungszeiten im Winter, bevor es um 17 Uhr dunkel wird.",
+                "hu": "Csodálja meg fentről a havas várost; figyeljen a téli korai zárásra, mivel délután öt után már sötétben kellene leereszkednie.",
+                "ro": "Admirați orașul înzăpezit de sus; fiți atenți la programul scurt de iarnă, deoarece se întunecă devreme, în jur de ora 17.",
+                "en": "Admire snowy Tønsberg from above; be mindful of the early winter closing times before it gets dark around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunnarsbøparken",
+                "hu": "Gunnarsbøparken",
+                "ro": "Gunnarsbøparken",
+                "en": "Gunnarsbøparken"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch die glitzernde Winterlandschaft; halten Sie Ihre Hände mit dicken Handschuhen warm, wenn Sie Fotos machen.",
+                "hu": "Rövid séta a csillogó téli tájban; tartsa melegen a kezeit vastag kesztyűvel, ha fényképezni szeretne a havas parkban.",
+                "ro": "O plimbare scurtă prin peisajul sclipitor de iarnă; păstrați-vă mâinile calde cu mănuși groase când faceți fotografii în parc.",
+                "en": "A short walk through the sparkling winter landscape; keep your hands warm with thick gloves if you plan to take photos in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kystkultursenteret",
+                "hu": "Kystkultursenteret",
+                "ro": "Kystkultursenteret",
+                "en": "Kystkultursenteret"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über das Leben an der Küste im Winter; das warme Licht der Ausstellungen wirkt besonders gemütlich in der frühen Dunkelheit.",
+                "hu": "Tudjon meg többet a téli partmenti életről; a kiállítások meleg fényei különösen hívogatóak a korai sötétedés idején.",
+                "ro": "Aflați mai multe despre viața de coastă iarna; luminile calde ale expozițiilor par extrem de primitoare în întunericul timpuriu.",
+                "en": "Learn about coastal life in winter; the warm lights of the exhibitions feel especially cozy during the early evening darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje kerékpáros kalandját madármegfigyeléssel az Ilene naturreservatban, élvezve a friss tengerparti levegőt.\n\nTekerjen az impozáns Tunsberghus romjaihoz egy kis királyi történelemért, majd élvezze a Vestfoldtunet rusztikus varázsát.\n\nDélutánját a Slottsfjellsmuseet és a Haugar művészeti múzeum lenyűgöző kiállításainak szentelje.\n\nFejezze be a napot egy pihentető tekeréssel a Gunnarsbøparken mellett, és gyönyörködjön a Presterødkilen természetében.",
         "ro": "Începeți aventura pe bicicletă observând păsările la Ilene naturreservat, bucurându-vă de aerul proaspăt al dimineții.\n\nPedalați spre ruinele impunătoare Tunsberghus pentru o doză de istorie regală, urmate de farmecul rustic de la Vestfoldtunet.\n\nPetreceți după-amiaza absorbind expozițiile fascinante de la Slottsfjellsmuseet și muzeul de artă Haugar.\n\nFinalizați cu o plimbare relaxantă pe lângă Gunnarsbøparken, încheind în mijlocul frumuseții naturale de la Presterødkilen.",
         "en": "Start your cycling adventure bird-watching at Ilene naturreservat, enjoying the crisp morning air by the coastline.\n\nPedal towards the imposing Tunsberghus ruins for a dose of royal history, followed by the rustic charm of Vestfoldtunet.\n\nSpend your afternoon absorbing the fascinating exhibits at Slottsfjellsmuseet and Haugar kunstmuseum.\n\nFinish with a relaxing ride past Gunnarsbøparken, ending amidst the natural beauty of Presterødkilen at twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Tønsbergs Natur. Vormittags erkunden wir das Ilene-Reservat, mittags den Slottsfjell trotz rutschiger Wege. Die Nachmittage verbringen wir trocken in Museen wie dem Slottsfjellsmuseet und Haugar. Den Abschluss bildet das Presterødkilen-Reservat im Nieselregen. Schutzbleche und wasserfeste Kleidung sind heute Ihre besten Freunde.",
+            "hu": "Vizes kerékpártúra Tønsberg természetközeli helyein. Délelőtt az Ilene rezervátumot, délben a Slottsfjellt keressük fel a csúszós utakon. A délutánt olyan fedett múzeumokban töltjük, mint a Slottsfjellsmuseet és a Haugar. A napot a Presterødkilen rezervátum zárja szemerkélő esőben. Sárvédő és vízálló ruházat ma kötelező.",
+            "ro": "O tură cu bicicleta prin natura din Tønsberg. Dimineața explorăm rezervația Ilene, iar la prânz Slottsfjell, în ciuda drumurilor alunecoase. După-amiaza o petrecem la adăpost în muzee precum Slottsfjellsmuseet și Haugar. Finalul aparține rezervației Presterødkilen. Apărătorile și hainele impermeabile sunt esențiale astăzi.",
+            "en": "A wet bike ride through Tønsberg's nature. Morning starts at Ilene reserve, followed by Slottsfjell at noon despite slippery paths. Spend afternoons dry in museums like Slottsfjellsmuseet and Haugar. The day ends at Presterødkilen reserve in the drizzle. Mudguards and waterproof clothing are your best friends today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ilene naturreservat",
+                "hu": "Ilene naturreservat",
+                "ro": "Ilene naturreservat",
+                "en": "Ilene naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Vögel im Regen von geschützten Aussichtspunkten; nutzen Sie Schutzbleche, um sich vor Schlammspritzern auf den Wegen zu schützen.",
+                "hu": "Figyelje meg a madarakat az esőben a védett lesekből; használjon sárvédőt, hogy elkerülje a sárfelverődést a földutakon.",
+                "ro": "Observați păsările în ploaie din punctele de observație protejate; folosiți apărători pentru a vă proteja de stropii de noroi de pe poteci.",
+                "en": "Watch birds in the rain from protected observation points; use mudguards to protect yourself from mud splashes on the trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunsberghus",
+                "hu": "Tunsberghus",
+                "ro": "Tunsberghus",
+                "en": "Tunsberghus"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen im Nebel; bremsen Sie auf den steilen, nassen Wegen zum Hügel vorsichtig ab, um nicht wegzurutschen.",
+                "hu": "Fedezze fel a romokat a ködben; óvatosan fékezzen a dombra felfelé vezető meredek, vizes utakon a megcsúszás elkerülése érdekében.",
+                "ro": "Explorați ruinele în ceață; frânați cu mare atenție pe drumurile abrupte și ude spre deal pentru a nu aluneca.",
+                "en": "Explore the ruins in the mist; brake carefully on the steep, wet paths up to the hill to avoid sliding on the slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Vestfoldtunet",
+                "hu": "Vestfoldtunet",
+                "ro": "Vestfoldtunet",
+                "en": "Vestfoldtunet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historischen Häuser; parken Sie Ihr Rad an einem trockenen Ort und nutzen Sie die Innenräume als Regenpause.",
+                "hu": "Látogassa meg a történelmi házakat; parkolja le a kerékpárt egy szárazabb helyen, és használja a belső tereket esőszünetnek.",
+                "ro": "Vizitați casele istorice; parcați bicicleta într-un loc mai ferit și folosiți interioarele pentru o pauză de la ploaie.",
+                "en": "Visit the historic houses; park your bike in a drier spot and use the indoor areas as a break from the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Slottsfjellsmuseet",
+                "hu": "Slottsfjellsmuseet",
+                "ro": "Slottsfjellsmuseet",
+                "en": "Slottsfjellsmuseet"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zwischenstopp zum Trocknen; nutzen Sie die Zeit, um die Wikingergeschichte in den geschützten Innenräumen zu studieren.",
+                "hu": "Ideális megálló a megszáradáshoz; használja ki az időt a viking történelem tanulmányozására a védett belső terekben.",
+                "ro": "O oprire ideală pentru a vă usca; profitați de timp pentru a studia istoria vikingilor în spațiile interioare protejate.",
+                "en": "An ideal stop to dry off; take your time to study Viking history in the protected indoor spaces while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Haugar kunstmuseum",
+                "hu": "Haugar kunstmuseum",
+                "ro": "Haugar kunstmuseum",
+                "en": "Haugar kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kunst per Rad; schalten Sie in einen niedrigeren Gang für den nassen Aufstieg und genießen Sie danach die warme Galerie.",
+                "hu": "Érje el a művészetet két keréken; váltson alacsonyabb fokozatra a vizes emelkedőn, majd élvezze a fűtött galéria nyugalmát.",
+                "ro": "Ajungeți la artă pe două roți; folosiți o viteză inferioară pentru urcarea udă, apoi bucurați-vă de galeria caldă.",
+                "en": "Reach the art on two wheels; shift to a lower gear for the wet climb and then enjoy the warmth of the heated gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunnarsbøparken",
+                "hu": "Gunnarsbøparken",
+                "ro": "Gunnarsbøparken",
+                "en": "Gunnarsbøparken"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch den Park; achten Sie besonders auf nasses Laub auf den Wegen, das sehr rutschig sein kann.",
+                "hu": "Kerékpározzon óvatosan a parkon át; figyeljen fokozottan az utakra hullott vizes levelekre, amelyek rendkívül csúszósak lehetnek.",
+                "ro": "Mergeți cu atenție prin parc; fiți foarte atenți la frunzele ude de pe alei, care pot deveni extrem de alunecoase.",
+                "en": "Ride carefully through the park; pay close attention to wet leaves on the paths, as they can be extremely slippery for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Presterødkilen naturreservat",
+                "hu": "Presterødkilen naturreservat",
+                "ro": "Presterødkilen naturreservat",
+                "en": "Presterødkilen naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Ein feuchtes Finale an der Küste; ein wasserfester Poncho schützt Sie auf diesem offenen Gelände vor dem treibenden Regen.",
+                "hu": "Vizes finálé a tengerparton; egy vízálló poncsó megvédi Önt ezen a nyitott területen a szél által hajtott esőtől.",
+                "ro": "Un final umed pe coastă; un ponșou impermeabil vă va proteja pe acest teren deschis de ploaia purtată de vânt.",
+                "en": "A damp finale by the coast; a waterproof poncho will protect you on this open terrain from the wind-driven rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Tønsberg. Der Vormittag zeigt das gefrorene Ilene-Reservat, mittags führt der Weg auf den eisigen Slottsfjell. Die Nachmittage bieten Wärme in den Museen, bevor die Sonne gegen 17:00 Uhr untergeht. Der Tag endet am Presterødkilen-Reservat in der frühen Dunkelheit. Spikereifen und warme Handschuhe sind bei Frost unerlässlich.",
+            "hu": "Téli kerékpározás Tønsbergben. A délelőtt a fagyos Ilene rezervátumot mutatja be, délben az út a jeges Slottsfjellre vezet. A délutánok melegséget kínálnak a múzeumokban, mielőtt a nap 17:00 körül lenyugszik. A nap a Presterødkilen rezervátumnál zárul a korai sötétségben. Szöges gumi és meleg kesztyű fagyban kötelező.",
+            "ro": "Ciclism de iarnă în Tønsberg. Dimineața prezintă rezervația Ilene înghețată, iar la prânz drumul duce pe Slottsfjell-ul înghețat. După-amiezile oferă căldură în muzee înainte ca soarele să apună la 17:00. Ziua se încheie la rezervația Presterødkilen în întunericul timpuriu. Mănușile groase sunt esențiale.",
+            "en": "Winter cycling in Tønsberg. Morning reveals the frozen Ilene reserve, followed by a trip to the icy Slottsfjell at noon. Afternoons offer warmth in museums before sunset at 17:00. The day ends at Presterødkilen reserve in the early darkness. Studded tires and warm gloves are essential during frost."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ilene naturreservat",
+                "hu": "Ilene naturreservat",
+                "ro": "Ilene naturreservat",
+                "en": "Ilene naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gefrorenen Feuchtgebiete; kleiden Sie sich nach dem Zwiebelprinzip, da der Wind am Wasser besonders eisig weht.",
+                "hu": "Csodálja meg a fagyott mocsárvidéket; öltözzön rétegesen, mert a vízparti szél különösen metsző és fagyos lehet ilyenkor.",
+                "ro": "Admirați zonele umede înghețate; îmbrăcați-vă în straturi, deoarece vântul de lângă apă suflă extrem de tăios iarna.",
+                "en": "Admire the frozen wetlands; dress in layers as the wind by the water blows especially icy and sharp during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunsberghus",
+                "hu": "Tunsberghus",
+                "ro": "Tunsberghus",
+                "en": "Tunsberghus"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine im Winterschnee; schieben Sie Ihr Rad auf den vereisten Abschnitten des Hügels, um Stürze zu vermeiden.",
+                "hu": "A várromok a téli hóban; tolja a kerékpárt a domb jeges szakaszain az esések és sérülések elkerülése érdekében.",
+                "ro": "Ruinele castelului în zăpada iernii; împingeți bicicleta pe porțiunile înghețate ale dealului pentru a evita căzăturile.",
+                "en": "The castle ruins in the winter snow; push your bike on the icy sections of the hill to avoid falls and injuries."
+              }
+            },
+            {
+              "name": {
+                "de": "Vestfoldtunet",
+                "hu": "Vestfoldtunet",
+                "ro": "Vestfoldtunet",
+                "en": "Vestfoldtunet"
+              },
+              "tip_5lang": {
+                "de": "Historische Architektur in frostiger Umgebung; prüfen Sie vorher die Winteröffnungszeiten der einzelnen Gebäude auf dem Gelände.",
+                "hu": "Történelmi építészet fagyos környezetben; előre ellenőrizze a területen található egyes épületek téli nyitvatartási idejét.",
+                "ro": "Arhitectură istorică într-un cadru geros; verificați din timp programul de iarnă al clădirilor individuale de pe domeniu.",
+                "en": "Historic architecture in a frosty setting; check the winter opening hours of the individual buildings on the site beforehand."
+              }
+            },
+            {
+              "name": {
+                "de": "Slottsfjellsmuseet",
+                "hu": "Slottsfjellsmuseet",
+                "ro": "Slottsfjellsmuseet",
+                "en": "Slottsfjellsmuseet"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort mit Geschichte; nutzen Sie die Pause, um Ihre gefrorenen Finger und Zehen wieder aufzuwärmen.",
+                "hu": "Meleg menedék és történelem; használja ki a szünetet a fagyos ujjak és lábak felmelegítésére a múzeum kávézójában.",
+                "ro": "Un refugiu cald plin de istorie; profitați de pauză pentru a vă reîncălzi degetele înghețate de la mâini și picioare.",
+                "en": "A warm refuge filled with history; take advantage of the break to warm up your frozen fingers and toes in the museum lobby."
+              }
+            },
+            {
+              "name": {
+                "de": "Haugar kunstmuseum",
+                "hu": "Haugar kunstmuseum",
+                "ro": "Haugar kunstmuseum",
+                "en": "Haugar kunstmuseum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunst im Winter; der Blick vom Museumshügel auf die verschneite Stadt ist bei klarer Luft fantastisch.",
+                "hu": "Élvezze a kortárs művészetet télen; a múzeumdombról nyíló kilátás a havas városra tiszta időben egészen fantasztikus.",
+                "ro": "Bucurați-vă de arta contemporană iarna; vederea de pe dealul muzeului spre orașul înzăpezit este fantastică pe aer curat.",
+                "en": "Enjoy contemporary art in winter; the view from the museum hill over the snowy town is fantastic in the crisp, clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunnarsbøparken",
+                "hu": "Gunnarsbøparken",
+                "ro": "Gunnarsbøparken",
+                "en": "Gunnarsbøparken"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger Parkspaziergang mit dem Rad; achten Sie auf den frühen Schattenwurf der Bäume, wenn die Sonne tief steht.",
+                "hu": "Fagyos séta a parkban kerékpárral; ügyeljen a fák korai árnyékaira, amikor a nap már alacsonyan jár délután.",
+                "ro": "O plimbare geroasă prin parc cu bicicleta; atenție la umbrele lungi ale copacilor când soarele este jos pe cer după-amiaza.",
+                "en": "A frosty park ride with your bike; be mindful of the early shadows from the trees when the sun is low in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Presterødkilen naturreservat",
+                "hu": "Presterødkilen naturreservat",
+                "ro": "Presterødkilen naturreservat",
+                "en": "Presterødkilen naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Finale am Meer bei Sonnenuntergang gegen 17:00 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung bei der Kälte voll funktionsfähig ist.",
+                "hu": "Finálé a tengerparton a 17:00 körüli naplementében; győződjön meg róla, hogy a kerékpáros lámpái a hidegben is tökéletesen működnek.",
+                "ro": "Final la malul mării la apus, în jur de 17:00; asigurați-vă că luminile bicicletei sunt complet funcționale pe timp de ger.",
+                "en": "Finale by the sea at sunset around 17:00; ensure your bike lights are fully functional in the cold before heading out."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +996,252 @@
         "hu": "Kezdje autós utazását az Ilene naturreservatnál, elmerülve a nyugodt vizesélőhelyi környezetben, mielőtt a városba hajtana.\n\nA délidő a Tunsberghus fenséges látogatását és a Slottsfjellsmuseet átfogó gyűjteményeit kínálja.\n\nEgy rövid, Stoltenbergparkenbe tartó út után fedezze fel a Tengerészeti Központot és a Kystkultursenteret-t.\n\nZárja a festői utazást a Rosanesstrandánál, figyelve a hullámokat, mielőtt tenne egy esti sétát a Rosahaugparkenben.",
         "ro": "Începeți excursia cu mașina la Ilene naturreservat, cufundându-vă în mediul liniștit al zonelor umede înainte de a conduce în oraș.\n\nLa prânz, vizitați mărețul Tunsberghus și colecțiile cuprinzătoare de la Slottsfjellsmuseet.\n\nDupă o scurtă oprire la Stoltenbergparken, explorați Centrul Maritim și Kystkultursenteret.\n\nÎncheiați traseul pitoresc la Rosanesstranda, admirând valurile înainte de o plimbare la amurg prin Rosahaugparken.",
         "en": "Kick off your road trip at Ilene naturreservat, immersing yourself in the tranquil wetland environment before driving into town.\n\nMidday features a majestic visit to Tunsberghus and the comprehensive collections at Slottsfjellsmuseet.\n\nAfter a quick drive to Stoltenbergparken, explore the engaging Tønsberg Sjøfartshistoriske Senter and Kystkultursenteret.\n\nConclude your scenic drive down at Rosanesstranda, watching the waves before a twilight stroll through Rosahaugparken."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Autotour durch das regnerische Tønsberg. Vormittags beobachten wir das Ilene-Reservat trocken vom Wagen aus. Mittags besuchen wir die historischen Hügel und Museen, die dank naher Parkplätze gut erreichbar sind. Nachmittags stehen maritime Kultur und Kunst im Fokus. Der Tag endet am regnerischen Strand von Rosanes. Ein Regenschirm im Kofferraum ist heute ideal.",
+            "hu": "Kényelmes autós túra az esős Tønsbergben. Délelőtt az Ilene rezervátumot figyeljük meg szárazon a kocsiból. Délben a történelmi dombokat és múzeumokat keressük fel, amelyek a közeli parkolók révén könnyen elérhetők. Délután a tengeri kultúra és művészet kerül sorra. A nap a szeles Rosanes strandon zárul. Egy esernyő a csomagtartóban ma elengedhetetlen.",
+            "ro": "Tur atmosferic cu mașina prin Tønsbergul ploios. Dimineața observăm rezervația Ilene la adăpost în vehicul. La prânz vizităm dealurile istorice și muzeele, ușor accesibile datorită parcărilor apropiate. După-amiaza ne concentrăm pe cultura maritimă și artă. Ziua se încheie pe plaja plină de vânt Rosanes. O umbrelă în portbagaj este ideală astăzi.",
+            "en": "Comfortable car tour through rainy Tønsberg. Morning is spent observing Ilene reserve dry from the vehicle. At noon, visit historic hills and museums, easily accessible thanks to nearby parking. Afternoon focuses on maritime culture and art. The day ends at the windy Rosanes beach. Keeping an umbrella in the trunk is ideal for the short walks today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ilene naturreservat",
+                "hu": "Ilene naturreservat",
+                "ro": "Ilene naturreservat",
+                "en": "Ilene naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die Vögel direkt vom trockenen Auto aus; parken Sie an den markierten Plätzen für den besten Blick ohne nass zu werden.",
+                "hu": "Élvezze a madarak látványát közvetlenül a száraz autóból; parkoljon a kijelölt helyeken a legjobb kilátásért anélkül, hogy megázna.",
+                "ro": "Bucurați-vă de vederea păsărilor direct din mașina uscată; parcați în locurile marcate pentru cea mai bună vedere fără a vă uda.",
+                "en": "Enjoy bird watching directly from the dry car; park at the designated spots for the best view without having to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunsberghus",
+                "hu": "Tunsberghus",
+                "ro": "Tunsberghus",
+                "en": "Tunsberghus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Fuße des Hügels für einen kurzen Weg zu den Ruinen; ein Regenmantel schützt Sie auf dem ungeschützten Gipfel vor dem Wind.",
+                "hu": "Parkoljon a domb lábánál a romokhoz vezető rövid útért; egy esőkabát megvédi Önt a nyitott tetőn süvítő széltől és esőtől.",
+                "ro": "Parcați la baza dealului pentru un drum scurt spre ruine; o pelerină de ploaie vă va proteja de vânt pe culmea neprotejată.",
+                "en": "Park at the foot of the hill for a short path to the ruins; a raincoat will protect you from the wind on the exposed summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Slottsfjellsmuseet",
+                "hu": "Slottsfjellsmuseet",
+                "ro": "Slottsfjellsmuseet",
+                "en": "Slottsfjellsmuseet"
+              },
+              "tip_5lang": {
+                "de": "Direkte Anfahrt zum Museum möglich; nutzen Sie den nahen Parkplatz, um die Zeit im Regen zwischen Auto und Eingang zu minimieren.",
+                "hu": "Közvetlen autós megközelítés lehetséges; használja a közeli parkolót, hogy minimalizálja az esőben töltött időt a kocsi és a bejárat között.",
+                "ro": "Acces direct cu mașina la muzeu; folosiți parcarea apropiată pentru a minimiza timpul petrecut în ploaie între mașină și intrare.",
+                "en": "Direct car access is possible; use the nearby parking to minimize time spent in the rain between your vehicle and the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoltenbergparken",
+                "hu": "Stoltenbergparken",
+                "ro": "Stoltenbergparken",
+                "en": "Stoltenbergparken"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für frische Luft; halten Sie den Schirm bereit, falls die Regenschauer während Ihres kurzen Spaziergangs stärker werden.",
+                "hu": "Rövid megálló egy kis friss levegőért; tartsa készenlétben az esernyőt, ha a záporok felerősödnének a rövid séta alatt.",
+                "ro": "O oprire scurtă pentru aer curat; țineți umbrela pregătită în caz că aversa se intensifică în timpul plimbării scurte.",
+                "en": "A short stop for some fresh air; keep your umbrella ready in case the showers intensify during your brief walk through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Tønsberg Sjøfartshistoriske Senter",
+                "hu": "Tønsberg Sjøfartshistoriske Senter",
+                "ro": "Tønsberg Sjøfartshistoriske Senter",
+                "en": "Tønsberg Sjøfartshistoriske Senter"
+              },
+              "tip_5lang": {
+                "de": "Historische Schiffe in Hafennähe erkunden; Parken am Kai ermöglicht einen schnellen Zugang zum trockenen Ausstellungszentrum.",
+                "hu": "Fedezze fel a történelmi hajókat a kikötőben; a rakparti parkolás gyors bejutást tesz lehetővé a száraz kiállító központba.",
+                "ro": "Explorați navele istorice lângă port; parcarea pe chei permite un acces rapid la centrul de expoziții uscat.",
+                "en": "Explore historic ships near the harbor; parking on the quay allows quick access to the dry exhibition center during downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kystkultursenteret",
+                "hu": "Kystkultursenteret",
+                "ro": "Kystkultursenteret",
+                "en": "Kystkultursenteret"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die maritime Kultur; genießen Sie die Fahrt entlang der Küste, während der Regen eine mystische Stimmung erzeugt.",
+                "hu": "Merüljön el a tengeri kultúrában; élvezze a part menti autózást, miközben az eső misztikus hangulatot áraszt a tájra.",
+                "ro": "Scufundați-vă în cultura maritimă; bucurați-vă de condusul de-a lungul coastei în timp ce ploaia creează o atmosferă mistică.",
+                "en": "Dive into maritime culture; enjoy the drive along the coast while the rain creates a mystic atmosphere over the northern landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosanesstranda",
+                "hu": "Rosanesstranda",
+                "ro": "Rosanesstranda",
+                "en": "Rosanesstranda"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Meer vom warmen Auto aus; die Gischt bietet im Regen ein beeindruckendes Naturschauspiel an der Küste.",
+                "hu": "Figyelje a háborgó tengert a meleg autóból; a felcsapó hullámok látványa az esőben lenyűgöző természeti élményt nyújt.",
+                "ro": "Observați marea agitată din mașina caldă; spuma valurilor oferă un spectacol natural impresionant pe timp de ploaie.",
+                "en": "Watch the rough sea from the warm car; the spray of the waves provides an impressive natural spectacle during the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosahaugparken",
+                "hu": "Rosahaugparken",
+                "ro": "Rosahaugparken",
+                "en": "Rosahaugparken"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf das nasse Grün vom Parkplatz; lassen Sie die Scheibenwischer laufen, während Sie die Aussicht genießen.",
+                "hu": "Utolsó pillantás a vizes zöldre a parkolóból; hagyja járni az ablaktörlőt, miközben az autó ablakából csodálja a panorámát.",
+                "ro": "O ultimă privire spre verdeața udă din parcare; lăsați ștergătoarele pornite în timp ce admirați panorama din mașină.",
+                "en": "A final glance at the wet greenery from the parking area; keep the wipers on while enjoying the view from your car window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Tønsberg im Winter komfortabel mit dem Auto. Der Vormittag zeigt das gefrorene Ilene-Reservat, mittags führt die Fahrt zum geschichtsträchtigen Slottsfjell. Die Nachmittage verbringen wir in warmen Museen und Galerien. Da die Dunkelheit gegen 17:00 Uhr einsetzt, genießen wir abends die beleuchtete Küste und Parks vom beheizten Wagen aus. Achten Sie auf Winterreifen und Eiskratzer.",
+            "hu": "Fedezze fel Tønsberget télen, kényelmesen autóval. A délelőtt a fagyos Ilene rezervátumot mutatja be, délben az út a történelmi Slottsfjellhez vezet. A délutánokat fűtött múzeumokban és galériákban töltjük. Mivel 17:00 körül besötétedik, este a kivilágított partot és parkokat a meleg kocsiból csodálhatjuk. Téli gumi és jégkaparó alapfelszerelés.",
+            "ro": "Explorați Tønsberg iarna, confortabil cu mașina. Dimineața prezintă rezervația Ilene înghețată, iar la prânz drumul duce spre istoricul Slottsfjell. După-amiezile le petrecem în muzee și galerii calde. Deoarece întunericul se lasă la 17:00, seara admirăm coasta iluminată din mașină. Atenție la cauciucurile de iarnă.",
+            "en": "Explore Tønsberg in winter comfortably by car. Morning reveals the frozen Ilene reserve, followed by a drive to the historic Slottsfjell at noon. Afternoons are spent in warm museums and galleries. Since darkness falls around 17:00, enjoy the illuminated coast and parks from your heated vehicle. Ensure you have winter tires and an ice scraper."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ilene naturreservat",
+                "hu": "Ilene naturreservat",
+                "ro": "Ilene naturreservat",
+                "en": "Ilene naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die frostige Landschaft vom beheizten Auto; die tiefstehende Wintersonne bietet fantastisches Licht für Fotos vom Wagen aus.",
+                "hu": "Figyelje a fagyos tájat a fűtött autóból; az alacsonyan járó téli nap fantasztikus fényeket kínál a kocsiból készült fotókhoz.",
+                "ro": "Observați peisajul înghețat din mașina încălzită; soarele jos de iarnă oferă o lumină fantastică pentru fotografii făcute din vehicul.",
+                "en": "Watch the frosty landscape from the heated car; the low winter sun provides fantastic light for photos taken directly from your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunsberghus",
+                "hu": "Tunsberghus",
+                "ro": "Tunsberghus",
+                "en": "Tunsberghus"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber eisiger Aufstieg zur Ruine; tragen Sie Schuhspikes, da die Wege zum Turm bei Frost extrem glatt sein können.",
+                "hu": "Rövid, de fagyos emelkedő a romokhoz; viseljen csúszásgátlót a talpán, mert a toronyhoz vezető út rendkívül jeges lehet.",
+                "ro": "O urcare scurtă, dar geroasă spre ruine; purtați crampoane pe ghete, deoarece drumul spre turn poate fi extrem de alunecos.",
+                "en": "A short but frosty climb to the ruins; wear shoe spikes as the paths to the tower can be extremely slippery during frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Slottsfjellsmuseet",
+                "hu": "Slottsfjellsmuseet",
+                "ro": "Slottsfjellsmuseet",
+                "en": "Slottsfjellsmuseet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Museum; so kommen Sie schnell aus dem kalten Wind in die warmen und informativen Ausstellungsräume.",
+                "hu": "Használja közvetlenül a múzeumnál lévő parkolót; így gyorsan bejuthat a jeges szélből a meleg és informatív kiállítótermekbe.",
+                "ro": "Folosiți parcarea direct de la muzeu; astfel veți ajunge rapid din vântul înghețat în sălile de expoziție calde și informative.",
+                "en": "Use the parking area directly at the museum; this gets you quickly out of the icy wind and into the warm, informative exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Stoltenbergparken",
+                "hu": "Stoltenbergparken",
+                "ro": "Stoltenbergparken",
+                "en": "Stoltenbergparken"
+              },
+              "tip_5lang": {
+                "de": "Ein winterlicher Stopp im Park; achten Sie auf Glatteis auf den Gehwegen und genießen Sie die klare, kalte norwegische Winterluft.",
+                "hu": "Téli megálló a parkban; ügyeljen a jegesedésre a járdákon, és élvezze a tiszta, hideg norvég téli levegőt a rövid séta során.",
+                "ro": "O oprire hibernală în parc; atenție la gheața de pe trotuare și bucurați-vă de aerul curat și rece al iernii norvegiene.",
+                "en": "A winter stop in the park; watch out for black ice on the sidewalks and enjoy the crisp, cold Norwegian winter air for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Tønsberg Sjøfartshistoriske Senter",
+                "hu": "Tønsberg Sjøfartshistoriske Senter",
+                "ro": "Tønsberg Sjøfartshistoriske Senter",
+                "en": "Tønsberg Sjøfartshistoriske Senter"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Hafenbecken; die maritime Geschichte bietet eine wunderbare Aufwärmpause nach der Fahrt durch die verschneite Stadt.",
+                "hu": "Parkoljon közel a kikötői medencéhez; a tengerészeti történelem remek felmelegedést nyújt a havas városon átvezető autózás után.",
+                "ro": "Parcați aproape de bazinul portului; istoria maritimă oferă o pauză minunată de încălzire după condusul prin orașul înzăpezit.",
+                "en": "Park close to the harbor basin; the maritime history provides a wonderful warm-up break after driving through the snowy town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kystkultursenteret",
+                "hu": "Kystkultursenteret",
+                "ro": "Kystkultursenteret",
+                "en": "Kystkultursenteret"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Küstengeschichte in der Wärme; genießen Sie danach den Blick auf den frostigen Hafen vom gemütlichen Beifahrersitz.",
+                "hu": "Fedezze fel a parti történelmet a melegben; utána élvezze a fagyos kikötő látványát az autó kényelmes és fűtött utasteréből.",
+                "ro": "Descoperiți istoria de coastă la căldură; apoi bucurați-vă de vederea portului înghețat din scaunul confortabil al mașinii.",
+                "en": "Discover coastal history in the warmth; afterwards, enjoy the view of the frosty harbor from your cozy and heated passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosanesstranda",
+                "hu": "Rosanesstranda",
+                "ro": "Rosanesstranda",
+                "en": "Rosanesstranda"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie den winterlichen Sonnenuntergang gegen 17:00 Uhr; die beleuchtete Küste wirkt im Schnee besonders friedlich und magisch.",
+                "hu": "Csodálja meg a téli naplementét 17:00 körül; a kivilágított partvonal a hóban különösen békés és varázslatos látványt nyújt.",
+                "ro": "Admirați apusul de iarnă în jur de ora 17; linia coastei iluminată pare extrem de pașnică și magică în zăpadă.",
+                "en": "Admire the winter sunset around 17:00; the illuminated coastline looks especially peaceful and magical in the fresh snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosahaugparken",
+                "hu": "Rosahaugparken",
+                "ro": "Rosahaugparken",
+                "en": "Rosahaugparken"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ausklang im verschneiten Park; genießen Sie die winterliche Atmosphäre vom warmen Wagen, bevor Sie nach Hause fahren.",
+                "hu": "Csendes lezárás a havas parkban; élvezze a téli hangulatot a meleg autóból, mielőtt hazaindulna a sötétedő estén.",
+                "ro": "Un final liniștit în parcul înzăpezit; bucurați-vă de atmosfera de iarnă din mașina caldă înainte de a porni spre casă.",
+                "en": "A quiet conclusion in the snowy park; enjoy the winter atmosphere from your warm vehicle before heading back home for the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

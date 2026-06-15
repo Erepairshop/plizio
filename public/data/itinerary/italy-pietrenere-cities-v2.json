@@ -137,6 +137,168 @@
         "hu": "A reggel a Fortino di Pietrenere történelmi erődjénél kezdődik, ahol feltárul a partvidék történelme, majd a Chiesa di Maria Santissima Assunta templomban tartunk spirituális szünetet. Délben a Lido Pierino homokos strandjai felé vesszük az irányt, amely tökéletes egy rövid pihenőre. A délutánt a nyüzsgő Lido Tahiti-n töltjük. A kora este kulturális élménnyel, az Edificio per spettacoli ókori római romjainál zárul.",
         "ro": "Dimineața începe la fortăreața istorică Fortino di Pietrenere, unde se dezvăluie istoria coastei, urmată de o pauză spirituală la Chiesa di Maria Santissima Assunta. La prânz ne îndreptăm spre plajele relaxante de la Lido Pierino, perfecte pentru odihnă. După-amiaza este petrecută plină de viață la Lido Tahiti. Seara devreme se încheie cultural la ruinele romane antice de la Edificio per spettacoli.",
         "en": "The morning begins at the historic Fortino di Pietrenere, revealing coastal history, followed by a spiritual break at Chiesa di Maria Santissima Assunta. At midday, we head to the relaxing sandy beaches of Lido Pierino, perfect for a short rest. The afternoon is spent vibrantly at Lido Tahiti. The early evening concludes culturally at the ancient Roman ruins of the Edificio per spettacoli."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Fortino beginnt mit dramatischen Wolken über dem Meer, während der Regen gegen die alten Mauern peitscht. Mittags bietet die Kirche einen friedlichen, trockenen Zufluchtsort vor dem Guss. Am Nachmittag wirken die Strandbäder unter grauem Himmel melancholisch und weitläufig. Abends reflektieren die nassen Pflastersteine des Theaters das matte Licht; ein Schirm ist hier unverzichtbar.",
+            "hu": "A reggel a Fortinónál ködös tengeri kilátással indul, ahol az eső morajlása felerősíti a történelem hangjait. Délben a templom belső csendje nyújt menedéket a zápor elől. Délután a tengerparti sétány vizes deszkáin a sós pára és az eső illata keveredik. Este az ókori romok között a lámpák fénye megcsillan a tócsákban; a csúszós köveken óvatosan haladjunk és használjunk esernyőt.",
+            "ro": "Dimineața la fort începe cu nori dramatici deasupra mării, în timp ce ploaia bate în zidurile vechi. La prânz, biserica oferă un refugiu liniștit și uscat împotriva aversei. După-amiaza, plajele par melancolice sub cerul gri, oferind o perspectivă diferită asupra coastei. Seara, pietrele umede ale teatrului reflectă lumina difuză; o umbrelă este absolut necesară pentru această plimbare.",
+            "en": "The morning at the fort begins with dramatic clouds over the sea as the rain beats against the ancient walls. At noon, the church provides a peaceful, dry sanctuary from the downpour. In the afternoon, the lidos look melancholic and vast under the grey skies. In the evening, the wet cobblestones of the theater reflect the dim lights; a sturdy umbrella is indispensable for this walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fortino di Pietrenere",
+                "hu": "Fortino di Pietrenere",
+                "ro": "Fortino di Pietrenere",
+                "en": "Fortino di Pietrenere"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stürmische See von den Festungsmauern aus; tragen Sie eine windfeste Regenjacke, da die Böen hier oben besonders kräftig sein können.",
+                "hu": "Csodálja meg a viharos tengert az erőd falaiból; viseljen szélálló esőkabátot, mert a széllökések itt a magasban különösen erősek lehetnek az esőben.",
+                "ro": "Admirați marea învolburată de pe zidurile fortăreței; purtați o jachetă de ploaie rezistentă la vânt, deoarece rafalele pot fi foarte puternice aici sus.",
+                "en": "Admire the stormy sea from the fortress walls; wear a windproof raincoat as the gusts can be particularly strong up here during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Santissima Assunta",
+                "hu": "Chiesa di Maria Santissima Assunta",
+                "ro": "Chiesa di Maria Santissima Assunta",
+                "en": "Chiesa di Maria Santissima Assunta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ruhe im Inneren, um die religiöse Kunst zu studieren; es ist der perfekte Ort, um sich aufzuwärmen, während draußen der stärkste Regen fällt.",
+                "hu": "Használja ki a belső tér nyugalmát a vallási művészet tanulmányozására; tökéletes hely a szárítkozásra, amíg kint a leghevesebben esik az eső.",
+                "ro": "Profitați de liniștea din interior pentru a studia arta religioasă; este locul perfect pentru a vă usca în timp ce afară plouă cel mai tare.",
+                "en": "Take advantage of the interior peace to study the religious art; it is the perfect spot to dry off while the heaviest rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Pierino",
+                "hu": "Lido Pierino",
+                "ro": "Lido Pierino",
+                "en": "Lido Pierino"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die raue Meeresbrise unter dem schützenden Dach der Bar; achten Sie auf den Holzstegen besonders auf Rutschgefahr durch Nässe.",
+                "hu": "Érezze a nyers tengeri szellőt a bár védelmező teteje alatt; a fapallókon különösen ügyeljen a nedvesség okozta csúszásveszélyre.",
+                "ro": "Simțiți briza aspră a mării sub acoperișul protector al barului; aveți mare grijă pe pasarelele de lemn, deoarece devin foarte alunecoase.",
+                "en": "Feel the raw sea breeze under the protective roof of the bar; pay extra attention to the slippery wooden planks caused by the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Tahiti",
+                "hu": "Lido Tahiti",
+                "ro": "Lido Tahiti",
+                "en": "Lido Tahiti"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen von einem überdachten Sitzplatz aus; die feuchte Meeresluft ist erfrischend, wenn man gut geschützt ist.",
+                "hu": "Élvezze a hullámok látványát egy fedett ülőhelyről; a nedves tengeri levegő frissítő, ha az ember jól védve van az esőtől.",
+                "ro": "Bucurați-vă de vederea valurilor dintr-un loc acoperit; aerul umed al mării este revigorant atunci când sunteți bine protejat de ploaie.",
+                "en": "Enjoy the view of the waves from a covered seating area; the damp sea air is refreshing when you are well protected from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Edificio per spettacoli",
+                "hu": "Edificio per spettacoli",
+                "ro": "Edificio per spettacoli",
+                "en": "Edificio per spettacoli"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken im Regen besonders dunkel und mystisch; halten Sie sich unter den Bäumen untergestellt, um die Ruinen zu bewundern.",
+                "hu": "Az antik kövek az esőben különösen sötétnek és misztikusnak tűnnek; húzódjon a fák lombjai alá, onnan csodálja meg a romok látványát.",
+                "ro": "Pietrele antice par deosebit de întunecate și mistice în ploaie; stați la adăpost sub coroana copacilor pentru a admira ruinele sitului.",
+                "en": "The ancient stones look particularly dark and mystical in the rain; stay sheltered under the tree canopy to admire the ruins of the site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Wintermorgenluft am Fortino belebt die Sinne, während die Sonne flach über dem Horizont steht. Mittags lädt die warme Atmosphäre der Kirche zur stillen Einkehr ein. Am Nachmittag bietet der Strand einen einsamen, aber weiten Blick auf das winterliche Meer. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung das antike Theater in ein sanftes Blau.",
+            "hu": "A friss téli reggeli levegő a Fortinónál felélénkíti az érzékeket, miközben a nap alacsonyan jár a horizont felett. Délben a templom meghitt, meleg belső tere hívogat csendes elmélyülésre. Délután a strand magányos, de tágas kilátást nyújt a téli tengerre. Mivel a nap már 17:00 körül lenyugszik, a korai szürkület lágy kékbe öltözteti az ókori színház romjait.",
+            "ro": "Aerul proaspăt de iarnă de la fort revigorează simțurile, în timp ce soarele stă jos la orizont. La prânz, atmosfera caldă a bisericii invită la o reflecție liniștită. După-amiaza, plaja oferă o vedere solitară, dar vastă asupra mării hibernale. Deoarece soarele apune deja în jurul orei 17:00, amurgul timpuriu îmbracă teatrul antic într-un albastru blând.",
+            "en": "The crisp winter morning air at the fort invigorates the senses as the sun stays low on the horizon. At noon, the warm atmosphere of the church invites quiet reflection. In the afternoon, the beach offers a solitary but vast view of the winter sea. Since the sun sets around 5 PM, early twilight wraps the ancient theater in a soft blue light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fortino di Pietrenere",
+                "hu": "Fortino di Pietrenere",
+                "ro": "Fortino di Pietrenere",
+                "en": "Fortino di Pietrenere"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet fantastische Kontraste für Fotos; tragen Sie warme Schichten, da der Wind von der See her im Winter schneidend kalt sein kann.",
+                "hu": "A téli fények fantasztikus kontrasztot adnak a fotókhoz; viseljen meleg rétegeket, mert a tenger felől fújó szél télen metszően hideg lehet.",
+                "ro": "Lumina de iarnă oferă contraste fantastice pentru fotografii; purtați haine groase, deoarece vântul dinspre mare poate fi tăios de rece iarna.",
+                "en": "The winter light provides fantastic contrasts for photos; wear warm layers as the wind from the sea can be piercingly cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Santissima Assunta",
+                "hu": "Chiesa di Maria Santissima Assunta",
+                "ro": "Chiesa di Maria Santissima Assunta",
+                "en": "Chiesa di Maria Santissima Assunta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe abseits der Touristenmassen; die dicken Mauern speichern eine angenehme Kühle, die sich im Winter eher schützend anfühlt.",
+                "hu": "Élvezze a csendet a turistatömegektől távol; a vastag falak ilyenkor védelmezőnek tűnnek, és bent nyugodtan megcsodálhatja az oltárt.",
+                "ro": "Bucurați-vă de liniște departe de mulțimile de turiști; zidurile groase oferă o senzație de protecție unde puteți admira în tihnă altarul.",
+                "en": "Enjoy the silence away from the tourist crowds; the thick walls feel protective in winter, allowing you to admire the altar in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Pierino",
+                "hu": "Lido Pierino",
+                "ro": "Lido Pierino",
+                "en": "Lido Pierino"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Strandspaziergang regt den Kreislauf an; bringen Sie eine Thermoskanne mit einem warmen Getränk mit, um die Aussicht zu genießen.",
+                "hu": "Egy tempós tengerparti séta felpezsdíti a vérkeringést; vigyen magával egy termoszt meleg itallal, hogy átmelegedjen a kilátás élvezete közben.",
+                "ro": "O plimbare vioaie pe plajă stimulează circulația; aduceți un termos cu o băutură caldă pentru a vă încălzi în timp ce admirați peisajul.",
+                "en": "A brisk beach walk stimulates circulation; bring a thermos with a warm drink to stay cozy while enjoying the vast coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Tahiti",
+                "hu": "Lido Tahiti",
+                "ro": "Lido Tahiti",
+                "en": "Lido Tahiti"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das goldene Licht der tiefstehenden Wintersonne; nutzen Sie die Zeit vor 16:30 Uhr, um das beste Licht am Strand einzufangen.",
+                "hu": "Figyelje meg az alacsonyan járó téli nap arany fényeit; használja ki az időt 16:30 előtt, hogy elkapja a legjobb fényeket a parton.",
+                "ro": "Observați lumina aurie a soarelui de iarnă care stă jos; profitați de timpul înainte de ora 16:30 pentru a surprinde cele mai bune culori.",
+                "en": "Observe the golden lights of the low winter sun; use the time before 4:30 PM to capture the best photographic light on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Edificio per spettacoli",
+                "hu": "Edificio per spettacoli",
+                "ro": "Edificio per spettacoli",
+                "en": "Edificio per spettacoli"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch pünktlich zum Sonnenuntergang um 17:00 Uhr; die historische Stätte wirkt in der blauen Stunde besonders imposant.",
+                "hu": "Fejezze be látogatását pontosan a 17:00 órai napnyugtáig; a történelmi helyszín a kék órában, közvetlenül sötétedés előtt a legimpozánsabb.",
+                "ro": "Încheiați vizita exact înainte de apusul soarelui de la ora 17:00; situl istoric pare deosebit de impunător în ora albastră.",
+                "en": "Finish your visit exactly by the 5 PM sunset; the historical site looks particularly imposing during the blue hour before dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpártúra a békés Chiesa di San Fantino-nál indul, amely ideális, nyugodt kezdése a napnak. Délben a Tempio di San Fantino-ban elmerülünk a helyi múzeumok világában, és megcsodáljuk a kincseket. A délután a Villaggio Protostorico-hoz vezet, majd az Edificio per spettacoli ősi építészetéhez. Az este lezárásaként kényelmesen eltekerünk a Sunset Beach Clubba, hogy élvezzük a naplementét.",
         "ro": "Turul cu bicicleta începe la pașnica Chiesa di San Fantino, care oferă începutul ideal și liniștit de zi. La prânz, ne scufundăm adânc în istoria locală la Tempio di San Fantino și admirăm comorile sale. După-amiaza ne conduce la Villaggio Protostorico și apoi la Edificio per spettacoli pentru arhitectura antică. Seara pedalăm relaxat către Sunset Beach Club pentru apusul soarelui.",
         "en": "The bike tour starts at the peaceful Chiesa di San Fantino, forming the ideal, quiet start to the day. At midday, we dive deep into the local museum world at the Tempio di San Fantino and admire its treasures. The afternoon leads us to the Villaggio Protostorico and soon after to the Edificio per spettacoli to marvel at ancient architecture. To end the evening, we cycle gently to the Sunset Beach Club for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren am Morgen erfordert Vorsicht auf den nassen Straßen bei San Fantino. Mittags bietet das Museum eine ideale Gelegenheit, das Fahrrad abzustellen und sich im Trockenen aufzuhalten. Am Nachmittag führt die Tour durch das prähistorische Dorf, wo man auf asphaltierten Wegen bleiben sollte. Der Tag endet am Beach Club, während der Regen leise auf das Dach trommelt.",
+            "hu": "A reggeli kerékpározás óvatosságot igényel a San Fantino környéki vizes utakon. Délben a múzeum ideális alkalmat kínál a bringa leállítására és a szárazon maradásra. Délután a túra a történelem előtti falun vezet át, ahol érdemes az aszfaltozott utakon maradni. A nap a Beach Clubnál ér véget, miközben az eső halkan kopog a tetőn; viseljünk jól látható esőruhát.",
+            "ro": "Ciclismul de dimineață necesită prudență pe drumurile umede de lângă San Fantino. La prânz, muzeul oferă ocazia ideală de a parca bicicleta și de a sta la adăpost. După-amiaza, turul trece prin satul preistoric, unde este recomandat să rămâneți pe potecile asfaltate. Ziua se încheie la Beach Club, în timp ce ploaia bate ușor în acoperiș.",
+            "en": "Morning cycling requires caution on the wet roads near San Fantino. At noon, the museum provides an ideal opportunity to park the bike and stay dry. In the afternoon, the tour passes through the prehistoric village, where you should stick to paved paths. The day ends at the Beach Club with rain tapping softly on the roof; wear high-visibility rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Fantino",
+                "hu": "Chiesa di San Fantino",
+                "ro": "Chiesa di San Fantino",
+                "en": "Chiesa di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; nutzen Sie den Besuch, um die Bremsen nach der Fahrt auf nassen Straßen kurz zu kontrollieren.",
+                "hu": "Parkolja le kerékpárját az ereszkedő tető alatt; használja ki a látogatást, hogy a vizes utak után röviden ellenőrizze a fékek állapotát.",
+                "ro": "Parcați bicicleta sub streașina acoperișului; profitați de vizită pentru a verifica scurt starea frânelor după drumul pe asfalt umed.",
+                "en": "Park your bike under the roof overhang; use the visit to briefly check your brakes after riding on the wet and slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Fantino",
+                "hu": "Tempio di San Fantino",
+                "ro": "Tempio di San Fantino",
+                "en": "Tempio di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um den stärksten Regen abzuwarten; die Ausstellungen im Inneren bieten viel Stoff für eine längere Pause im Trockenen.",
+                "hu": "Ez a legjobb hely a leghevesebb eső kivárására; a belső kiállítások bőséges látnivalót kínálnak egy hosszabb, száraz pihenőhöz.",
+                "ro": "Acesta este cel mai bun loc pentru a aștepta trecerea ploii torențiale; expozițiile interioare oferă multe de văzut pentru o pauză lungă.",
+                "en": "This is the best place to wait out the heaviest rain; the indoor exhibits offer plenty to see for a long, dry break from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Protostorico",
+                "hu": "Villaggio Protostorico",
+                "ro": "Villaggio Protostorico",
+                "en": "Villaggio Protostorico"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf matschige Wege abseits der Hauptroute; umfahren Sie tiefere Pfützen, um die Kleidung vor Spritzwasser zu schützen.",
+                "hu": "Ügyeljen a sáros utakra a főúton kívül; kerülje el a mélyebb tócsákat, hogy megvédje ruházatát a felverődő víztől és sártól.",
+                "ro": "Aveți grijă la potecile noroioase din afara rutei principale; evitați bălțile adânci pentru a vă proteja hainele de stropii de apă.",
+                "en": "Watch out for muddy paths off the main route; cycle around deeper puddles to protect your clothing from splashes and mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Edificio per spettacoli",
+                "hu": "Edificio per spettacoli",
+                "ro": "Edificio per spettacoli",
+                "en": "Edificio per spettacoli"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter den nahen Bäumen; die antiken Steinstufen können bei Nässe extrem rutschig sein.",
+                "hu": "Hirtelen zápor esetén keressen menedéket a közeli fák alatt; az antik kőlépcsők nedvesen rendkívül csúszósak lehetnek, óvatosan lépjen.",
+                "ro": "În caz de aversă bruscă, căutați adăpost sub copacii din apropiere; treptele de piatră antice pot fi extrem de alunecoase când sunt ude.",
+                "en": "In case of a sudden shower, seek shelter under the nearby trees; the ancient stone steps can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach Club",
+                "hu": "Sunset Beach Club",
+                "ro": "Sunset Beach Club",
+                "en": "Sunset Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie für den Rückweg unbedingt die Fahrradbeleuchtung ein; die Sichtweite ist bei Regen und Dämmerung stark eingeschränkt.",
+                "hu": "A visszaúthoz feltétlenül kapcsolja be a kerékpár világítását; a látótávolság esőben és szürkületben jelentősen lecsökken az úton.",
+                "ro": "Porniți neapărat luminile bicicletei pentru drumul de întoarcere; vizibilitatea este mult redusă în condiții de ploaie și amurg.",
+                "en": "Be sure to turn on your bicycle lights for the ride back; visibility is significantly reduced during rain and twilight on the road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen auf dem Rad hält den Kreislauf in Schwung, während Sie San Fantino erreichen. Mittags ist das Museum ein willkommener Ort, um die Hände aufzuwärmen und Geschichte zu erleben. Am Nachmittag radeln Sie durch das prähistorische Dorf im weichen Winterlicht. Beenden Sie die Tour am Beach Club vor 17:00 Uhr, bevor die Kälte nach Sonnenuntergang spürbar zunimmt.",
+            "hu": "A hűvös téli reggeli bringázás mozgásban tartja a keringést, mire eléri San Fantinót. Délben a múzeum szívesen látott hely a kezek felmelegítésére és a történelem felfedezésére. Délután a történelem előtti falun keresztül tekerhet a lágy téli fényben. Fejezze be a túrát a Beach Clubnál 17:00 előtt, mert naplemente után a hideg gyorsan fokozódik.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă menține circulația activă până când ajungeți la San Fantino. La prânz, muzeul este un loc binevenit pentru a vă încălzi mâinile. După-amiaza, pedalați prin satul preistoric în lumina blândă de iarnă. Încheiați turul la Beach Club înainte de ora 17:00, deoarece frigul se intensifică rapid după apus.",
+            "en": "A cool winter morning on the bike keeps your circulation going as you reach San Fantino. At noon, the museum is a welcome spot to warm up your hands and explore history. In the afternoon, cycle through the prehistoric village in the soft winter light. Finish your tour at the Beach Club before 5 PM, as the cold increases rapidly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Fantino",
+                "hu": "Chiesa di San Fantino",
+                "ro": "Chiesa di San Fantino",
+                "en": "Chiesa di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die kühle Luft am Morgen ist erfrischend, kann aber die Finger schnell auskühlen lassen.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a reggeli hűvös levegő frissítő, de az ujjakat gyorsan lehűtheti a menetszélben.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drum; aerul răcoros de dimineață este revigorant, dar poate răci rapid degetele pe ghidon.",
+                "en": "Wear windproof gloves for the ride; the cool morning air is refreshing but can quickly chill your fingers while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Fantino",
+                "hu": "Tempio di San Fantino",
+                "ro": "Tempio di San Fantino",
+                "en": "Tempio di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie etwas mehr Zeit in den Innenräumen, um sich aufzuwärmen; die archäologischen Funde sind im Winter ohne Trubel zu genießen.",
+                "hu": "Töltsön kicsit több időt a belső terekben, hogy átmelegedjen; a régészeti leletek télen a tömeg nélkül, nyugodtan élvezhetők.",
+                "ro": "Petreceți ceva mai mult timp în interior pentru a vă încălzi; descoperirile arheologice pot fi savurate iarna fără agitația turiștilor.",
+                "en": "Spend a bit more time indoors to warm up; the archaeological finds can be enjoyed in winter without the usual tourist bustle."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Protostorico",
+                "hu": "Villaggio Protostorico",
+                "ro": "Villaggio Protostorico",
+                "en": "Villaggio Protostorico"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale, um die Körperwärme zu halten; die freie Fläche bietet wenig Schutz vor dem kühlen Winterwind.",
+                "hu": "Tekerjen lendületesen, hogy megőrizze testhőmérsékletét; a nyitott terület kevés védelmet nyújt a hűvös téli széllel szemben.",
+                "ro": "Pedalați cu spor pentru a vă menține căldura corporală; zona deschisă oferă puțină protecție împotriva vântului rece de iarnă.",
+                "en": "Pedal vigorously to maintain your body heat; the open area offers little protection against the chilly winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Edificio per spettacoli",
+                "hu": "Edificio per spettacoli",
+                "ro": "Edificio per spettacoli",
+                "en": "Edificio per spettacoli"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Stätte früh am Nachmittag, um die letzten Sonnenstrahlen zu nutzen; die Schatten werden hier ab 16:00 Uhr sehr lang.",
+                "hu": "Látogasson el ide kora délután, hogy kihasználja az utolsó napsugarakat; az árnyékok itt már 16:00 után nagyon hosszúra nyúlnak.",
+                "ro": "Vizitați situl la începutul după-amiezii pentru a profita de ultimele raze; umbrele devin foarte lungi aici după ora 16:00.",
+                "en": "Visit the site early in the afternoon to use the last sun rays; the shadows grow very long here starting from 4 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach Club",
+                "hu": "Sunset Beach Club",
+                "ro": "Sunset Beach Club",
+                "en": "Sunset Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den winterlichen Sonnenuntergang pünktlich um 17:00 Uhr; machen Sie sich sofort danach auf den Heimweg, bevor es frostig wird.",
+                "hu": "Élvezze a téli naplementét pontosan 17:00-kor; közvetlenül utána induljon haza, mielőtt a levegő fagyossá válna a parton.",
+                "ro": "Bucurați-vă de apusul de iarnă exact la ora 17:00; porniți spre casă imediat după aceea, înainte ca aerul să devină înghețat.",
+                "en": "Enjoy the winter sunset exactly at 5 PM; head home immediately afterward before the air becomes freezing on the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós kirándulásunk a félreeső Spiaggia di Trachini strandon kezdődik, ahol reggel csodálatosan nyugodt a hangulat. Délben a Chiesa di San Fantino és a közeli Tempio di San Fantino felé hajtunk, hogy a helyi történelemnek szenteljük magunkat. A délután a lenyűgöző Villaggio Protostorico számára van fenntartva, ami igazi fénypont. Az este végül a Fortino di Pietrenere erődhöz visz minket, amely a gyengülő fényben különösen lenyűgöző.",
         "ro": "Excursia noastră cu mașina începe pe plaja retrasă Spiaggia di Trachini, unde atmosfera este minunat de liniștită dimineața. La prânz conducem către Chiesa di San Fantino și spre Tempio di San Fantino din apropiere pentru a ne dedica istoriei locale. După-amiaza este rezervată fascinantului Villaggio Protostorico, un punct de atracție deosebit. Seara ne aduce în cele din urmă la Fortino di Pietrenere, impresionant în lumina care se estompează.",
         "en": "Our road trip begins at the secluded Spiaggia di Trachini beach, where a wonderfully quiet atmosphere prevails in the morning. At midday, we drive to the Chiesa di San Fantino and the nearby Tempio di San Fantino to dedicate ourselves to local history. The afternoon is reserved for the fascinating Villaggio Protostorico, a real highlight. The evening finally brings us to the Fortino di Pietrenere, which looks particularly impressive in the fading light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt entspannt im trockenen Auto mit Blick auf die aufgewühlte See bei Trachini. Mittags lassen sich die Kirchen und Museen bequem erreichen, ohne lange dem Regen ausgesetzt zu sein. Am Nachmittag bietet das prähistorische Dorf eine mystische Atmosphäre unter Regenwolken. Der Tag endet am Fortino, wo man die Aussicht auch bei Schietwetter aus der Nähe genießen kann.",
+            "hu": "A nap kényelmesen indul a száraz autóban, kilátással a felkorbácsolt tengerre Trachininál. Délben a templomok és múzeumok könnyen elérhetők anélkül, hogy sokáig ki lennénk téve az esőnek. Délután a történelem előtti falu misztikus hangulatot áraszt az esőfelhők alatt. A nap a Fortinónál zárul, ahonnan a kilátás rossz időben is drámai és lenyűgöző marad.",
+            "ro": "Călătoria începe relaxat în mașina uscată, cu vedere la marea agitată de la Trachini. La prânz, bisericile și muzeele pot fi accesate ușor, fără o expunere lungă la ploaie. După-amiaza, satul preistoric oferă o atmosferă mistică sub norii de ploaie. Ziua se încheie la fort, de unde priveliștea rămâne dramatică și impresionantă chiar și pe vreme rea.",
+            "en": "The drive begins relaxed in the dry car with a view of the churning sea at Trachini. At noon, churches and museums can be reached easily without long exposure to the rain. In the afternoon, the prehistoric village offers a mystical atmosphere under rain clouds. The day ends at the fort, where the view remains dramatic and impressive even in poor weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Trachini",
+                "hu": "Spiaggia di Trachini",
+                "ro": "Spiaggia di Trachini",
+                "en": "Spiaggia di Trachini"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto; die Sicht auf die Brandung ist durch die Windschutzscheibe besonders spektakulär und gemütlich.",
+                "hu": "Heves esőben maradjon kicsit az autóban; a hullámtörés látványa a szélvédőn keresztül is különlegesen látványos és kényelmes marad.",
+                "ro": "În caz de ploaie torențială, stați puțin în mașină; vederea valurilor prin parbriz este spectaculoasă și confortabilă în același timp.",
+                "en": "In case of heavy rain, stay in the car for a bit; the view of the breaking waves through the windshield is spectacular and cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Fantino",
+                "hu": "Chiesa di San Fantino",
+                "ro": "Chiesa di San Fantino",
+                "en": "Chiesa di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Sprint ins Trockene; die historischen Details im Inneren entschädigen für das graue Wetter.",
+                "hu": "Használja a közeli parkolót egy gyors sprinthez a szárazba; a belső történelmi részletek kárpótolják a kinti szürke időjárásért.",
+                "ro": "Folosiți parcarea din apropiere pentru un sprint rapid spre adăpost; detaliile istorice din interior compensează vremea gri de afară.",
+                "en": "Use the nearby parking for a quick sprint to get dry; the historical details inside make up for the grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Fantino",
+                "hu": "Tempio di San Fantino",
+                "ro": "Tempio di San Fantino",
+                "en": "Tempio di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für eine ausgiebige Besichtigung während eines Regenschauers; die wertvollen Exponate sind im Museum sicher geschützt.",
+                "hu": "Ez az ideális hely egy alapos városnézéshez eső idején; az értékes kiállítási tárgyak a múzeumban biztonságban megtekinthetők.",
+                "ro": "Acesta este locul ideal pentru o vizită detaliată în timpul ploii; exponatele valoroase sunt protejate în siguranță în interiorul muzeului.",
+                "en": "This is the ideal spot for a thorough tour during a rain shower; the valuable exhibits are safely protected inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Protostorico",
+                "hu": "Villaggio Protostorico",
+                "ro": "Villaggio Protostorico",
+                "en": "Villaggio Protostorico"
+              },
+              "tip_5lang": {
+                "de": "Verwenden Sie einen stabilen Regenschirm für den Weg zwischen den Ausgrabungen; die Pfade können nach längerem Regen etwas aufweichen.",
+                "hu": "Használjon stabil esernyőt az ásatások közötti úton; az ösvények hosszabb esőzés után kicsit felázhatnak, válasszon megfelelő lábbelit.",
+                "ro": "Folosiți o umbrelă stabilă pentru drumul dintre excavații; potecile se pot înmuia puțin după o ploaie prelungită, alegeți încălțăminte adecvată.",
+                "en": "Use a sturdy umbrella for the walk between the excavations; the paths can get a bit soft after prolonged rain, choose appropriate footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortino di Pietrenere",
+                "hu": "Fortino di Pietrenere",
+                "ro": "Fortino di Pietrenere",
+                "en": "Fortino di Pietrenere"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick von den geschützteren Ecken der Festung; die dramatischen Wolkenbilder bieten hervorragende Fotomotive.",
+                "hu": "Élvezze a panorámát az erőd védettebb sarkaiból; a drámai felhőalakzatok kiváló fotótémát szolgáltatnak a tenger felett.",
+                "ro": "Bucurați-vă de panoramă din colțurile mai protejate ale fortăreței; formațiunile dramatice de nori oferă subiecte excelente pentru fotografii.",
+                "en": "Enjoy the panorama from the more protected corners of the fortress; the dramatic cloud formations provide excellent photo opportunities."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer beheizten Fahrt zur Küste, wo die Wintersonne die Klippen von Trachini beleuchtet. Mittags bieten die sakralen Stätten eine ruhige, ehrfürchtige Atmosphäre ohne sommerliche Hitze. Am Nachmittag erkunden Sie das historische Erbe im klaren, kalten Licht. Der Sonnenuntergang am Fortino um 17:00 Uhr ist der Höhepunkt, bevor Sie die Heimreise im warmen Auto antreten.",
+            "hu": "A nap fűtött autózással indul a part felé, ahol a téli nap megvilágítja Trachini szikláit. Délben a szakrális helyszínek nyugodt, áhítatos hangulatot árasztanak a nyári hőség nélkül. Délután a történelmi örökséget fedezheti fel a tiszta, hideg fényben. A 17:00 órai naplemente a Fortinónál a nap fénypontja, mielőtt meleg autóval hazaindulna.",
+            "ro": "Ziua începe cu o călătorie încălzită spre coastă, unde soarele de iarnă luminează stâncile de la Trachini. La prânz, siturile sacre oferă o atmosferă liniștită, fără căldura verii. După-amiaza, explorați moștenirea istorică în lumina clară și rece. Apusul de la fort de la ora 17:00 este punctul culminant, înainte de plecarea spre casă.",
+            "en": "The day begins with a heated drive to the coast, where the winter sun illuminates the cliffs of Trachini. At noon, the sacred sites offer a peaceful, reverent atmosphere without the summer heat. In the afternoon, explore the historical heritage in the clear, cold light. The 5 PM sunset at the fort is the highlight before heading home in the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Trachini",
+                "hu": "Spiaggia di Trachini",
+                "ro": "Spiaggia di Trachini",
+                "en": "Spiaggia di Trachini"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft ist besonders klar; machen Sie einen kurzen Spaziergang am Wasser, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A hideg téli levegő különösen tiszta; tegyen egy rövid sétát a vízparton, mielőtt visszaülne felmelegedni a fűtött autóba.",
+                "ro": "Aerul rece de iarnă este deosebit de clar; faceți o scurtă plimbare pe malul apei înainte de a vă încălzi din nou în mașină.",
+                "en": "The cold winter air is particularly clear; take a short walk by the water before warming up again in your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Fantino",
+                "hu": "Chiesa di San Fantino",
+                "ro": "Chiesa di San Fantino",
+                "en": "Chiesa di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Licht der tiefstehenden Sonne; die Kirche bietet einen windgeschützten Ort für eine kurze Pause.",
+                "hu": "Csodálja meg az építészetet az alacsonyan járó nap lágy fényében; a templom szélvédett helyet kínál egy rövid, csendes pihenőhöz.",
+                "ro": "Admirați arhitectura în lumina blândă a soarelui care stă jos; biserica oferă un loc ferit de vânt pentru o scurtă pauză.",
+                "en": "Admire the architecture in the soft light of the low sun; the church offers a wind-sheltered spot for a short, quiet break."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Fantino",
+                "hu": "Tempio di San Fantino",
+                "ro": "Tempio di San Fantino",
+                "en": "Tempio di San Fantino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehme Wärme im Museum, um die Fundstücke im Detail zu betrachten; im Winter ist es hier besonders ruhig und privat.",
+                "hu": "Használja ki a múzeum kellemes melegét a leletek részletes megtekintéséhez; télen itt különösen nagy a nyugalom és a privát szféra.",
+                "ro": "Profitați de căldura plăcută din muzeu pentru a vedea exponatele în detaliu; iarna este deosebit de liniște și intimitate aici.",
+                "en": "Take advantage of the pleasant warmth in the museum to view the finds in detail; in winter, it is particularly quiet and private here."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Protostorico",
+                "hu": "Villaggio Protostorico",
+                "ro": "Villaggio Protostorico",
+                "en": "Villaggio Protostorico"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind ohne sommerlichen Dunst gestochen scharf zu sehen; tragen Sie eine warme Mütze, da die exponierte Lage oft windig ist.",
+                "hu": "A romok a nyári pára nélkül élesen látszanak; viseljen meleg sapkát, mert a nyitott területen ilyenkor gyakran fúj a hideg téli szél.",
+                "ro": "Ruinele se văd clar, fără pâcla verii; purtați o căciulă groasă, deoarece locația expusă este adesea bântuită de vântul rece.",
+                "en": "The ruins are visible with sharp clarity without the summer haze; wear a warm hat as the exposed location is often very windy."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortino di Pietrenere",
+                "hu": "Fortino di Pietrenere",
+                "ro": "Fortino di Pietrenere",
+                "en": "Fortino di Pietrenere"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang über dem Tyrrhenischen Meer pünktlich um 17:00 Uhr; die Farben sind im Winter oft intensiver als im Sommer.",
+                "hu": "Élje át a naplementét a Tirrén-tenger felett pontosan 17:00-kor; a színek télen gyakran intenzívebbek, mint a nyári időszakban.",
+                "ro": "Trăiți apusul de soare peste Marea Tireniană exact la ora 17:00; culorile sunt adesea mai intense iarna decât în timpul verii.",
+                "en": "Experience the sunset over the Tyrrhenian Sea exactly at 5 PM; the colors are often more intense in winter than during the summer."
+              }
+            }
+          ]
+        }
       }
     }
   }

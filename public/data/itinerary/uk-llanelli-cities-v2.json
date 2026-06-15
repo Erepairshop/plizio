@@ -137,6 +137,168 @@
         "hu": "A reggel a Llanelly House helyi örökségének felfedezésével kezdődik, majd a Ffwrnes Theatre kulturális élményeivel folytatódik. Délben a lenyűgöző Parc Howard Múzeum történelemmel és a park nyugalmával várja. A délutánt a Tre-Beddrod víztározó békés partjainál töltheti. Az este a North Dock felújított kikötőjében ér véget, ahol a nyugodt tengerparti kilátás koronázza meg a napot.",
         "ro": "Dimineața începe cu o scufundare în patrimoniul local la Llanelly House, urmată de o oprire culturală inspirată la Teatrul Ffwrnes. La prânz ajungeți la marele Muzeu Parc Howard pentru istorie și relaxare. După-amiaza este petrecută îmbrățișând calmul rezervorului istoric Tre-Beddrod. Seara se așează frumos la North Dock, unde vederile liniștite ale falezei vă încheie ziua perfectă.",
         "en": "Morning begins with a deep dive into local heritage at Llanelly House, followed by an inspiring cultural stop at Ffwrnes Theatre. Midday brings you to the grand Parc Howard Museum for history and relaxation in its lush parkland. Afternoon is spent embracing the calm of Tre-Beddrod Reservoir. Evening settles beautifully down at North Dock, where serene waterfront views end your perfect day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im historischen Llanelly House, einem idealen Zufluchtsort vor dem walisischen Regen. Mittags bietet das Ffwrnes Theater kulturelle Wärme, während draußen der graue Himmel dominiert. Nachmittags erkunden Sie das Parc Howard Museum, dessen Kunstsammlungen Sie trocken halten. Den Tag beenden Sie am North Dock, wo das raue Wetter eine dramatische Küstenstimmung erzeugt.",
+            "hu": "Kezdje a napot a történelmi Llanelly House falai között, amely tökéletes menedék az eső elől. Délben a Ffwrnes Színház nyújt kulturális feltöltődést és száraz helyszínt. Délután a Parc Howard Múzeum gyűjteményei várják, így fedett helyen maradhat. A nap végén a North Dock látványa a szakadó esőben is különleges, drámai hangulatot áraszt a tengerparton.",
+            "ro": "Începeți ziua la Llanelly House, un refugiu istoric ideal împotriva ploii galeză. La prânz, Teatrul Ffwrnes oferă căldură culturală în timp ce afară cerul rămâne gri. După-amiaza, explorați Muzeul Parc Howard, unde colecțiile de artă vă mențin uscat. Încheiați ziua la North Dock, unde vremea aspră creează o atmosferă de coastă dramatică și fascinantă.",
+            "en": "Start your day at the historic Llanelly House, a perfect sanctuary from the Welsh rain. At noon, the Ffwrnes Theatre provides cultural warmth while the grey skies dominate outside. In the afternoon, explore Parc Howard Museum's art collections to stay dry and inspired. End the day at North Dock, where the rainy weather creates a dramatic and atmospheric coastal scene."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Llanelly House",
+                "hu": "Llanelly House",
+                "ro": "Llanelly House",
+                "en": "Llanelly House"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die restaurierten georgianischen Innenräume dieses Herrenhauses; nutzen Sie den Schirmständer im Eingangsbereich für Ihren nassen Regenschutz.",
+                "hu": "Csodálja meg a kúria felújított georgiánus belső tereit; használja a bejáratnál kihelyezett esernyőtartót a vizes felszereléseknek.",
+                "ro": "Admirați interioarele georgiene restaurate ale acestui conac; folosiți suportul de umbrele de la intrare pentru echipamentul de ploaie umed.",
+                "en": "Admire the restored Georgian interiors of this grand manor; make use of the umbrella stand in the entrance for your wet rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Ffwrnes Theatre",
+                "hu": "Ffwrnes Színház",
+                "ro": "Teatrul Ffwrnes",
+                "en": "Ffwrnes Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das moderne Foyer und die Ausstellungen im Inneren; wasserfeste Schuhe sind ratsam, da der Vorplatz bei Regen rutschig sein kann.",
+                "hu": "Élvezze a modern aulát és a benti kiállításokat; javasolt a vízálló cipő, mivel a színház előtti tér esőben csúszóssá válhat.",
+                "ro": "Bucurați-vă de foierul modern și de expozițiile interioare; se recomandă încălțăminte impermeabilă, deoarece piațeta poate fi alunecoasă.",
+                "en": "Enjoy the modern foyer and indoor exhibitions; waterproof shoes are advised as the forecourt can become slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Howard Museum",
+                "hu": "Parc Howard Múzeum",
+                "ro": "Muzeul Parc Howard",
+                "en": "Parc Howard Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die berühmte Llanelly-Keramik in den trockenen Galerien; der kurze Fußweg durch den Park erfordert eine gute Regenjacke.",
+                "hu": "Fedezze fel a híres Llanelly kerámiákat a száraz galériákban; a parkon átvezető rövid sétához elengedhetetlen egy jó esőkabát.",
+                "ro": "Descoperiți faimoasa ceramică Llanelly în galeriile uscate; scurta plimbare prin parc necesită o jachetă de ploaie de calitate.",
+                "en": "Discover the famous Llanelly pottery in the dry galleries; the short walk through the park requires a high-quality raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tre-Beddrod-Stausee",
+                "hu": "Tre-Beddrod víztározó",
+                "ro": "Rezervorul Tre-Beddrod",
+                "en": "Tre-Beddrod Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche; achten Sie auf die schlammigen Uferpfade und tragen Sie feste Wanderschuhe.",
+                "hu": "Figyelje meg az esőcseppek játékát a vízfelszínen; ügyeljen a sáros parti ösvényekre, és viseljen stabil túrabakancsot.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața apei; atenție la potecile noroioase de pe mal și purtați bocanci de drumeție.",
+                "en": "Watch the patterns of raindrops on the water's surface; watch out for muddy bank paths and wear sturdy hiking boots."
+              }
+            },
+            {
+              "name": {
+                "de": "North Dock",
+                "hu": "North Dock",
+                "ro": "North Dock",
+                "en": "North Dock"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die maritime Atmosphäre am Hafenbecken; suchen Sie bei starken Güssen Schutz in den umliegenden Cafés am Kai.",
+                "hu": "Tapasztalja meg a kikötő tengeri hangulatát; heves felhőszakadás esetén keressen menedéket a rakpart menti kávézókban.",
+                "ro": "Experimentați atmosfera maritimă de la docuri; în caz de ploaie torențială, adăpostiți-vă în cafenelele de pe chei.",
+                "en": "Experience the maritime atmosphere at the docks; if heavy downpours occur, seek shelter in the nearby quayside cafes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintermorgen im gemütlich beheizten Llanelly House. Mittags bietet das Ffwrnes Theater Schutz vor dem kalten Wind. Am Nachmittag wärmen Sie sich im Parc Howard Museum auf, bevor das Tageslicht schwindet. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie die frostige Abenddämmerung am North Dock mit Blick auf das winterliche Meer.",
+            "hu": "Kezdje a téli reggelt a kellemesen fűtött Llanelly House falai között. Délben a Ffwrnes Színház nyújt védelmet a metsző hideg szél elől. Délután melegedjen fel a Parc Howard Múzeumban, mielőtt teljesen elfogynak a fények. Mivel a nap korán, 17:00 körül nyugszik, a North Dock jeges alkonyatát már a téli tenger látványával élvezheti.",
+            "ro": "Începeți dimineața de iarnă în interiorul primitor și încălzit de la Llanelly House. La prânz, Teatrul Ffwrnes oferă protecție împotriva vântului rece. După-amiaza, încălziți-vă la Muzeul Parc Howard înainte ca lumina zilei să dispară. Deoarece soarele apune devreme, în jur de ora 17:00, bucurați-vă de amurgul înghețat la North Dock.",
+            "en": "Begin your winter morning in the comfortably heated Llanelly House. At noon, the Ffwrnes Theatre provides shelter from the biting cold wind. In the afternoon, warm up at Parc Howard Museum before the daylight fades. As the sun sets early around 5:00 PM, enjoy the frosty twilight at North Dock with views of the wintry sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Llanelly House",
+                "hu": "Llanelly House",
+                "ro": "Llanelly House",
+                "en": "Llanelly House"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den winterlichen Charme des Hauses bei einer Führung; tragen Sie warme Schichten, da die hohen Räume trotz Heizung kühl sein können.",
+                "hu": "Élje át a ház téli báját egy vezetés során; öltözzön rétegesen, mert a nagy belmagasságú termek a fűtés ellenére hűvösek lehetnek.",
+                "ro": "Experimentați farmecul de iarnă al casei într-un tur ghidat; purtați haine groase deoarece camerele înalte pot fi răcoroase.",
+                "en": "Experience the winter charm of the house during a tour; wear warm layers as the high-ceilinged rooms can stay cool despite heating."
+              }
+            },
+            {
+              "name": {
+                "de": "Ffwrnes Theatre",
+                "hu": "Ffwrnes Színház",
+                "ro": "Teatrul Ffwrnes",
+                "en": "Ffwrnes Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kulturzentrum als warmen Zwischenstopp; die modernen Glasfronten bieten einen tollen Blick auf das winterliche Stadtzentrum.",
+                "hu": "Használja a kulturális központot meleg pihenőhelyként; a modern üvegfelületeken keresztül remek kilátás nyílik a téli városközpontra.",
+                "ro": "Folosiți centrul cultural ca oprire pentru încălzire; fațadele moderne de sticlă oferă o vedere excelentă spre centrul orașului iarna.",
+                "en": "Use the cultural centre as a warm pit stop; the modern glass fronts offer a great view of the wintry town centre."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Howard Museum",
+                "hu": "Parc Howard Múzeum",
+                "ro": "Muzeul Parc Howard",
+                "en": "Parc Howard Museum"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Winterlandschaft des Parks aus den Fenstern der Galerie; kommen Sie vor 16:00 Uhr, um das natürliche Licht zu nutzen.",
+                "hu": "Tekintse meg a park téli táját a galéria ablakaiból; érkezzen 16:00 előtt, hogy még kihasználja a természetes fényeket a kiállításhoz.",
+                "ro": "Admirați peisajul de iarnă al parcului de la ferestrele galeriei; sosiți înainte de ora 16:00 pentru a profita de lumina naturală.",
+                "en": "View the park's winter landscape from the gallery windows; arrive before 4:00 PM to make the most of the natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Tre-Beddrod-Stausee",
+                "hu": "Tre-Beddrod víztározó",
+                "ro": "Rezervorul Tre-Beddrod",
+                "en": "Tre-Beddrod Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die Ruhe am Stausee; Vorsicht vor Glatteis auf den Brücken und schattigen Abschnitten des Pfades.",
+                "hu": "Élvezze a friss téli levegőt és a víztározó nyugalmát; vigyázzon a jegesedésre a hidakon és az ösvény árnyékos szakaszain.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de liniștea rezervorului; atenție la gheață pe poduri și pe porțiunile umbrite ale potecii.",
+                "en": "Enjoy the crisp winter air and the reservoir's tranquility; beware of icy patches on bridges and shaded sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "North Dock",
+                "hu": "North Dock",
+                "ro": "North Dock",
+                "en": "North Dock"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Ästuar; eine winddichte Jacke ist wegen der kalten Meeresbrise unerlässlich.",
+                "hu": "Nézze meg a korai naplementét az torkolat felett; a hideg tengeri szél miatt egy szélálló dzseki elengedhetetlen kellék.",
+                "ro": "Urmăriți apusul devreme peste estuar; o jachetă rezistentă la vânt este esențială din cauza brizelor marine reci.",
+                "en": "Watch the early sunset over the estuary; a windproof jacket is essential due to the cold sea breezes."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel a természetben indul a WWT Vizes Élőhely Központban és a szomszédos Deep Water tónál. A dél tökéletes a modern Delta Lakes festői, kanyargós ösvényein való kerékpározáshoz. A délután arra csábít, hogy a part mentén a Millennium Coastal Park felé folytassa útját. Az este a Stradey-kastély történelmi erdeibe tett frissítő kerékpártúrával zárul a nap végén.",
         "ro": "Dimineața începe în mijlocul naturii la Centrul WWT și la Lacul Deep Water adiacent. Prânzul este perfect pentru a pedala de-a lungul cărărilor pitorești ale modernelor Delta Lakes. După-amiaza vă invită să continuați plimbarea pe coastă către North Dock și vastul Millennium Coastal Park. Seara se încheie cu o plimbare până la pădurile istorice din jurul Castelului Stradey.",
         "en": "Morning kicks off amidst nature at the WWT Wetland Centre and the adjacent Deep Water Lake. Midday is perfect for cycling along the scenic, winding paths of the modern Delta Lakes. Afternoon invites you to continue your ride up the coast towards North Dock and the sweeping Millennium Coastal Park. Evening concludes with a ride up to the historic woodlands of Stradey Castle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine ruhige Naturerfahrung. Starten Sie am WWT Wetland Centre, wo Beobachtungshütten Trockenheit garantieren. Mittags radeln Sie vorsichtig an den Seen entlang zum North Dock. Der Nachmittag führt Sie durch den Millennium Coastal Park zum Stradey Castle, wobei Sie stets auf rutschigen Asphalt und Pfützen achten sollten.",
+            "hu": "Az esős biciklitúra óvatosságot igényel, de csendes természeti élményt nyújt. Kezdjen a WWT Wetland Centre-nél, ahol a megfigyelőházak védelmet nyújtanak. Délben tekerjen óvatosan a tavak mentén a North Dock felé. Délután a Millennium Coastal Parkon át jut el a Stradey-kastélyhoz; ügyeljen a csúszós aszfaltra és a tócsákra.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență, dar oferă o experiență liniștită. Începeți la WWT Wetland Centre, unde observatoarele garantează adăpost. La prânz, pedalați cu grijă spre North Dock. După-amiaza vă conduce prin Parcul Millennium spre Castelul Stradey; atenție sporită la asfaltul alunecos și la bălți.",
+            "en": "Cycling in the rain requires caution but offers a serene nature experience. Start at the WWT Wetland Centre, where observation hides guarantee dryness. At noon, cycle carefully past the lakes towards North Dock. The afternoon takes you through Millennium Coastal Park to Stradey Castle; always watch out for slippery asphalt and puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "WWT Llanelli Feuchtgebiet",
+                "hu": "WWT Llanelli Vizes Élőhely",
+                "ro": "Centrul Zonelor Umede WWT",
+                "en": "WWT Llanelli Wetland Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Vogelbeobachtungshütten als Regenschutz; bringen Sie ein Fernglas mit, um Vögel im Regen zu beobachten.",
+                "hu": "Használja a fedett madárleseket eső elleni menedékként; vigyen magával távcsövet a madarak megfigyeléséhez az esőben.",
+                "ro": "Folosiți observatoarele acoperite ca adăpost împotriva ploii; aduceți binoclu pentru a observa păsările în timpul ploii.",
+                "en": "Use the covered bird hides as shelter from the rain; bring binoculars to observe the birds even during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Deep Water Lake",
+                "hu": "Deep Water Tó",
+                "ro": "Lacul Deep Water",
+                "en": "Deep Water Lake"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den ufernahen Wegen; Kotflügel am Fahrrad sind hier bei Regen ein Muss gegen aufwirbelndes Wasser.",
+                "hu": "Tekerjen lassan a tóparti utakon; a sárvédő használata itt kötelező az esőben felverődő víz és sár ellen.",
+                "ro": "Pedalați încet pe potecile de pe malul lacului; aripile la bicicletă sunt obligatorii aici împotriva apei împroșcate.",
+                "en": "Cycle slowly on the lakeside paths; mudguards on your bike are a must here to protect against splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Delta Lakes",
+                "hu": "Delta Tavak",
+                "ro": "Lacurile Delta",
+                "en": "Delta Lakes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der regenverhangenen Seen; prüfen Sie Ihre Bremsen vorab, da die Bremswege auf nassem Untergrund länger sind.",
+                "hu": "Élvezze az eső áztatta tavak látványát; ellenőrizze a fékeket indulás előtt, mert vizes talajon hosszabb a féktávolság.",
+                "ro": "Bucurați-vă de vederea lacurilor sub ploaie; verificați frânele în prealabil, deoarece distanța de frânare crește pe ud.",
+                "en": "Enjoy the view of the rain-shrouded lakes; check your brakes beforehand as stopping distances are longer on wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "North Dock",
+                "hu": "North Dock",
+                "ro": "North Dock",
+                "en": "North Dock"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause unter den Vordächern der Hafengebäude; wischen Sie den Sattel trocken, bevor Sie Ihre Fahrt fortsetzen.",
+                "hu": "Tartson szünetet a kikötői épületek előtetői alatt; törölje szárazra a nyerget, mielőtt folytatná az útját.",
+                "ro": "Luați o pauză sub streșinile clădirilor din port; ștergeți șaua înainte de a vă continua drumul.",
+                "en": "Take a break under the overhangs of the dock buildings; wipe your saddle dry before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Millennium Küstenpark",
+                "hu": "Millennium Part menti Park",
+                "ro": "Parcul de Coastă Millennium",
+                "en": "Millennium Coastal Park"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf den asphaltierten Küstenwegen; tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit bei trübem Wetter.",
+                "hu": "Tekerjen az aszfaltozott tengerparti utakon; viseljen fényvisszaverős esőkabátot a jobb láthatóságért borús időben.",
+                "ro": "Pedalați pe pistele asfaltate de pe coastă; purtați o jachetă reflectorizantă pentru vizibilitate sporită pe vreme gri.",
+                "en": "Cycle on the paved coastal paths; wear a high-visibility raincoat for better safety in gloomy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Stradey Castle",
+                "hu": "Stradey-kastély",
+                "ro": "Castelul Stradey",
+                "en": "Stradey Castle"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Schloss über die Allee; stellen Sie Ihr Rad an einem geschützten Ort ab und genießen Sie den Anblick der nassen Fassade.",
+                "hu": "Érkezzen a kastélyhoz a fasoron keresztül; parkoljon védett helyen, és csodálja meg az eső áztatta történelmi homlokzatot.",
+                "ro": "Ajungeți la castel prin aleea cu arbori; parcați bicicleta într-un loc protejat și admirați fațada istorică umedă.",
+                "en": "Reach the castle via the tree-lined avenue; park your bike in a sheltered spot and admire the wet historic facade."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Sichten und frische Luft. Starten Sie dick eingepackt am WWT Wetland Centre. Mittags gleiten Sie an den frostigen Delta Lakes vorbei Richtung Küste. Der Millennium Coastal Park bietet weite Ausblicke über das eisige Meer. Beenden Sie Ihre Tour am Stradey Castle, bevor die Kälte am frühen Abend gegen 17:00 Uhr deutlich zunimmt.",
+            "hu": "A téli biciklitúra tiszta kilátást és friss levegőt kínál. Kezdjen alaposan felöltözve a WWT Wetland Centre-nél. Délben guruljon el a fagyos Delta Tavak mellett a part felé. A Millennium Coastal Park tágas kilátást nyújt a jeges tengerre. Fejezze be a túrát a Stradey-kastélynál, mielőtt a korai sötétedéssel a hideg is fokozódna 17:00 után.",
+            "ro": "O tură de iarnă cu bicicleta oferă vederi clare și aer proaspăt. Începeți bine echipat la WWT Wetland Centre. La prânz, treceți pe lângă lacurile Delta înghețate spre coastă. Parcul Millennium oferă panorame vaste peste marea rece. Încheiați turul la Castelul Stradey înainte ca frigul să se intensifice după ora 17:00.",
+            "en": "A winter bike tour offers clear views and crisp air. Start well-insulated at the WWT Wetland Centre. At noon, glide past the frosty Delta Lakes towards the coast. Millennium Coastal Park offers vast views over the icy sea. Finish your tour at Stradey Castle before the cold intensifies with the early sunset around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "WWT Llanelli Feuchtgebiet",
+                "hu": "WWT Llanelli Vizes Élőhely",
+                "ro": "Centrul Zonelor Umede WWT",
+                "en": "WWT Llanelli Wetland Centre"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Wintergäste unter den Zugvögeln; tragen Sie winddichte Handschuhe, da der Fahrtwind bei Frost sehr beißen kann.",
+                "hu": "Figyelje meg a telelni érkező vándormadarakat; viseljen szélálló kesztyűt, mert a menetszél fagyban nagyon metsző lehet.",
+                "ro": "Observați păsările migratoare care iernează aici; purtați mănuși rezistente la vânt deoarece curentul poate fi tăios pe ger.",
+                "en": "Observe the wintering migratory birds; wear windproof gloves as the wind chill can be very biting in freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Deep Water Lake",
+                "hu": "Deep Water Tó",
+                "ro": "Lacul Deep Water",
+                "en": "Deep Water Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille am gefrorenen Seeufer; achten Sie auf Glatteisbildung auf den Holzstegen und Uferwegen.",
+                "hu": "Élvezze a csendet a fagyos tóparton; ügyeljen a jegesedésre a fapallókon és a part menti utakon.",
+                "ro": "Bucurați-vă de liniștea malului înghețat; atenție la gheață pe podinsul de lemn și pe potecile de pe mal.",
+                "en": "Enjoy the silence by the frozen lakeshore; watch out for ice formation on wooden boardwalks and lakeside paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Delta Lakes",
+                "hu": "Delta Tavak",
+                "ro": "Lacurile Delta",
+                "en": "Delta Lakes"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Reifbildung auf den Gräsern am Wasser; sorgen Sie für eine funktionierende Fahrradbeleuchtung für den frühen Abend.",
+                "hu": "Csodálja meg a dérlepte nádat a vízparton; gondoskodjon a működő kerékpáros világításról a korai sötétedés miatt.",
+                "ro": "Admirați chiciura de pe vegetația de lângă apă; asigurați-vă că luminile bicicletei funcționează pentru amurgul timpuriu.",
+                "en": "Admire the frost on the reeds by the water; ensure your bike lights are working for the early onset of darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "North Dock",
+                "hu": "North Dock",
+                "ro": "North Dock",
+                "en": "North Dock"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom Dock im harten Winterlicht; wärmen Sie sich kurz in einem der beheizten Lokale am Kai auf.",
+                "hu": "Készítsen fotót a kikötőről a kemény téli fényekben; melegedjen fel rövid időre a rakpart egyik fűtött vendéglátóhelyén.",
+                "ro": "Faceți o fotografie docului în lumina aspră de iarnă; încălziți-vă scurt într-unul dintre localurile încălzite de pe chei.",
+                "en": "Take a photo of the dock in the harsh winter light; warm up briefly in one of the heated venues on the quayside."
+              }
+            },
+            {
+              "name": {
+                "de": "Millennium Küstenpark",
+                "hu": "Millennium Part menti Park",
+                "ro": "Parcul de Coastă Millennium",
+                "en": "Millennium Coastal Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht ohne Laub an den Bäumen; ein Schlauchtuch schützt Ihr Gesicht vor der kalten Meeresluft.",
+                "hu": "Élvezze a tágas kilátást a kopár fák között; egy csősál hatékonyan védi az arcát a hideg tengeri levegőtől.",
+                "ro": "Bucurați-vă de panorama vastă printre arborii desfrunziți; un fular tip tub vă protejează fața de aerul rece marin.",
+                "en": "Enjoy the wide views through the leafless trees; a neck buff will protect your face from the cold sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Stradey Castle",
+                "hu": "Stradey-kastély",
+                "ro": "Castelul Stradey",
+                "en": "Stradey Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Schloss in der winterlichen Dämmerung; schalten Sie Ihre Reflektoren ein, da es ab 16:30 Uhr dunkel wird.",
+                "hu": "Tekintse meg a kastélyt a téli szürkületben; kapcsolja be a fényvisszaverőket, mert 16:30 után gyorsan sötétedik.",
+                "ro": "Admirați castelul în amurgul de iarnă; activați elementele reflectorizante, deoarece se întunecă rapid după 16:30.",
+                "en": "View the castle in the winter twilight; turn on your reflectors as it starts getting dark from 4:30 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A reggel a Swiss Valley és a Cwm Lliedi víztározók nyugodt erdei környezetében kezdődik. A dél a város szívébe vezet, ahol a Parc Howard Múzeum pompája találkozik a Llanelly House örökségével. A délután a művészetek érintését kínálja a Ffwrnes Színházban, mielőtt dél felé indulna. Az estét a WWT Vizes Élőhely Központ gazdag madárvilágának megfigyelése teszi felejthetetlenné.",
         "ro": "Dimineața începe cu decorul pădurilor liniștite din Valea Elvețiană și Rezervoarele Cwm Lliedi. Prânzul se mută în inima orașului, unde grandiosul Muzeu Parc Howard întâlnește patrimoniul Casei Llanelly. După-amiaza oferă o notă de artă la Teatrul Ffwrnes înainte de a conduce spre sud. Seara aduce o experiență spectaculoasă la amurg, urmărind păsările la Centrul WWT.",
         "en": "Morning starts with the tranquil woodland settings of the Swiss Valley and Cwm Lliedi Reservoirs. Midday shifts into the heart of town, where the grandeur of Parc Howard Museum meets the heritage of Llanelly House. Afternoon offers a touch of the arts at Ffwrnes Theatre before driving south. Evening brings a spectacular twilight experience watching the diverse birdlife at the WWT Wetland Centre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Llanelli auch bei Regen komfortabel zu erkunden. Starten Sie an den Stauseen von Swiss Valley, wo Sie das Wetter bequem vom Wagen aus beobachten können. Mittags bietet das Parc Howard Museum eine kulturelle Flucht ins Trockene. Den Nachmittag verbringen Sie im historischen Llanelly House und dem Ffwrnes Theater, bevor Sie den Tag gemütlich im WWT Wetland Centre beenden.",
+            "hu": "Autóval Llanelli esőben is kényelmesen felfedezhető. Kezdjen a Swiss Valley víztározóknál, ahol a kocsi ablakából is csodálhatja a tájat. Délben a Parc Howard Múzeum kínál kulturális menedéket a csapadék elől. A délutánt a történelmi Llanelly House-ban és a Ffwrnes Színházban töltse, majd zárja a napot a WWT Wetland Centre látogatóközpontjában.",
+            "ro": "Cu mașina, Llanelli poate fi explorat confortabil chiar și pe ploaie. Începeți la rezervoarele Swiss Valley, admirând peisajul de la adăpostul vehiculului. La prânz, Muzeul Parc Howard oferă o evadare culturală uscată. Petreceți după-amiaza la Llanelly House și Teatrul Ffwrnes, încheind ziua la centrul de vizitatori WWT.",
+            "en": "Llanelli is comfortable to explore by car even in the rain. Start at the Swiss Valley reservoirs, where you can admire the landscape from the shelter of your vehicle. At noon, Parc Howard Museum offers a dry cultural escape. Spend the afternoon at Llanelly House and Ffwrnes Theatre, ending the day at the WWT Wetland Centre visitor building."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Swiss Valley Stausee",
+                "hu": "Swiss Valley víztározó",
+                "ro": "Rezervorul Valea Elvețiană",
+                "en": "Swiss Valley Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Wasser vom Parkplatz aus; ein kurzer Gang zum Ufer ist mit einem stabilen Regenschirm auch bei Guss möglich.",
+                "hu": "Élvezze a kilátást a vízre a parkolóból; egy rövid séta a partra egy stabil esernyővel még felhőszakadáskor is lehetséges.",
+                "ro": "Bucurați-vă de vederea spre apă din parcare; o scurtă plimbare spre mal este posibilă cu o umbrelă solidă chiar și pe ploaie.",
+                "en": "Enjoy the water views from the car park; a short walk to the shore is possible with a sturdy umbrella even during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Cwm Lliedi Stausee",
+                "hu": "Cwm Lliedi víztározó",
+                "ro": "Rezervorul Cwm Lliedi",
+                "en": "Cwm Lliedi Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wolken über dem Tal; achten Sie beim Einparken auf tiefe Pfützen und rutschigen Untergrund.",
+                "hu": "Figyelje meg a drámai felhőket a völgy felett; parkoláskor ügyeljen a mély tócsákra és a csúszós útpadkára.",
+                "ro": "Observați norii dramatici deasupra văii; la parcare, atenție la bălțile adânci și la terenul alunecos.",
+                "en": "Observe the dramatic clouds over the valley; watch out for deep puddles and slippery ground when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Howard Museum",
+                "hu": "Parc Howard Múzeum",
+                "ro": "Muzeul Parc Howard",
+                "en": "Parc Howard Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den museumseigenen Parkplatz für einen kurzen Weg ins Trockene; besichtigen Sie die Kunstgalerien in aller Ruhe.",
+                "hu": "Használja a múzeum saját parkolóját a rövid, száraz bejutáshoz; tekintse meg a művészeti galériákat teljes nyugalomban.",
+                "ro": "Folosiți parcarea muzeului pentru un acces rapid la interior; vizitați galeriile de artă în liniște deplină.",
+                "en": "Use the museum's own car park for quick dry access; browse the art galleries at your leisure while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Llanelly House",
+                "hu": "Llanelly House",
+                "ro": "Llanelly House",
+                "en": "Llanelly House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den nahegelegenen Parkhäusern des Zentrums; das Haus bietet eine wunderbare Atmosphäre, um dem Regen zu entfliehen.",
+                "hu": "Parkoljon a közeli belvárosi parkolóházakban; a ház csodálatos atmoszférát kínál az eső elöli meneküléshez.",
+                "ro": "Parcați în parcările etajate din centrul apropiat; casa oferă o atmosferă minunată pentru a scăpa de ploaie.",
+                "en": "Park in the nearby town centre multi-storeys; the house provides a wonderful atmosphere to escape the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ffwrnes Theatre",
+                "hu": "Ffwrnes Színház",
+                "ro": "Teatrul Ffwrnes",
+                "en": "Ffwrnes Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das Theater liegt direkt im Stadtkern; ideal für einen Besuch, wenn die Schauer am stärksten sind und Sie drinnen bleiben möchten.",
+                "hu": "A színház közvetlenül a városmagban található; ideális helyszín, amikor a leghevesebb az eső és bent szeretne maradni.",
+                "ro": "Teatrul este situat chiar în centrul orașului; este ideal pentru o vizită atunci când ploaia este cea mai densă.",
+                "en": "The theatre is located right in the town core; ideal for a visit when the showers are heaviest and you wish to stay indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "WWT Llanelli Feuchtgebiet",
+                "hu": "WWT Llanelli Vizes Élőhely",
+                "ro": "Centrul Zonelor Umede WWT",
+                "en": "WWT Llanelli Wetland Centre"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Hauptgebäude; besuchen Sie die interaktiven Ausstellungen im Besucherzentrum, um trocken zu bleiben.",
+                "hu": "A parkoló közel van a főépülethez; látogassa meg a látogatóközpont interaktív kiállításait, hogy szárazon maradjon.",
+                "ro": "Parcarea este aproape de clădirea principală; vizitați expozițiile interactive din centrul de vizitatori pentru a rămâne uscat.",
+                "en": "The car park is close to the main building; visit the interactive exhibitions in the visitor centre to stay dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Llanelli im Winter bequem mit dem Auto, stets mit der Option zum Aufwärmen. Beginnen Sie an den frostigen Swiss Valley Stauseen. Mittags bietet das Parc Howard Museum einen warmen kulturellen Stopp. Besuchen Sie danach das Llanelly House und das Ffwrnes Theater im beleuchteten Stadtzentrum. Beenden Sie den Tag im WWT Wetland Centre, wo Sie den frühen Winterabend sicher erreichen.",
+            "hu": "Fedezze fel Llanellit télen kényelmesen autóval, mindig fenntartva a felmelegedés lehetőségét. Kezdjen a fagyos Swiss Valley víztározóknál. Délben a Parc Howard Múzeum kínál meleg kulturális megállót. Ezután látogasson el a Llanelly House-ba és a Ffwrnes Színházba a kivilágított belvárosban. Zárja a napot a WWT Wetland Centre-nél, még a sötétedés beállta előtt.",
+            "ro": "Descoperiți Llanelli iarna confortabil cu mașina, având mereu opțiunea de a vă încălzi. Începeți la rezervoarele Swiss Valley înghețate. La prânz, Muzeul Parc Howard oferă o oprire culturală călduroasă. Vizitați apoi Llanelly House și Teatrul Ffwrnes în centrul luminat. Încheiați ziua la WWT Wetland Centre înainte de lăsarea întunericului.",
+            "en": "Explore Llanelli in winter comfortably by car, always with the option to warm up inside. Start at the frosty Swiss Valley reservoirs. At noon, Parc Howard Museum offers a warm cultural stop. Then visit Llanelly House and Ffwrnes Theatre in the illuminated town centre. End the day at WWT Wetland Centre, reaching it safely before the early winter darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Swiss Valley Stausee",
+                "hu": "Swiss Valley víztározó",
+                "ro": "Rezervorul Valea Elvețiană",
+                "en": "Swiss Valley Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf den See; achten Sie bei der Anfahrt auf mögliche Glätte in den schattigen Waldabschnitten.",
+                "hu": "Élvezze a tiszta kilátást a tóra; az odaúton ügyeljen az esetleges jegesedésre az árnyékos erdei útszakaszokon.",
+                "ro": "Bucurați-vă de panorama clară asupra lacului; atenție la posibila gheață pe secțiunile de drum umbrite prin pădure.",
+                "en": "Enjoy the clear views over the lake; watch out for potential icy patches on shaded forest road sections during the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Cwm Lliedi Stausee",
+                "hu": "Cwm Lliedi víztározó",
+                "ro": "Rezervorul Cwm Lliedi",
+                "en": "Cwm Lliedi Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für einen kurzen Fotostopp am Damm; die Wintersonne steht tief und bietet fantastisches Licht für Landschaftsaufnahmen.",
+                "hu": "Parkoljon le egy rövid fotómegállóra a gátnál; a téli nap alacsonyan jár, ami fantasztikus fényeket ad a tájképekhez.",
+                "ro": "Parcați pentru o scurtă oprire foto la baraj; soarele de iarnă este jos, oferind lumină fantastică pentru fotografii de peisaj.",
+                "en": "Park for a short photo stop at the dam; the winter sun is low, providing fantastic light for landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Howard Museum",
+                "hu": "Parc Howard Múzeum",
+                "ro": "Muzeul Parc Howard",
+                "en": "Parc Howard Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre Wintermäntel; genießen Sie die Wärme im Inneren, während Sie die Exponate studieren.",
+                "hu": "Használja a ruhatárat a télikabátoknak; élvezze a benti meleget, miközben alaposan áttanulmányozza a kiállított tárgyakat.",
+                "ro": "Folosiți garderoba pentru hainele de iarnă; bucurați-vă de căldura din interior în timp ce studiați exponatele.",
+                "en": "Use the cloakroom for your winter coats; enjoy the indoor warmth while you study the exhibits in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Llanelly House",
+                "hu": "Llanelly House",
+                "ro": "Llanelly House",
+                "en": "Llanelly House"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus für eine Portion Geschichte im Warmen; die Beleuchtung am Nachmittag verleiht dem Ort einen festlichen Glanz.",
+                "hu": "Látogassa meg a házat egy adag történelemért a melegben; a délutáni világítás ünnepi fényt kölcsönöz a helyszínnek.",
+                "ro": "Vizitați casa pentru o porție de istorie la căldură; iluminatul de după-amiază oferă locului o strălucire festivă.",
+                "en": "Visit the house for a dose of history in the warm; the afternoon lighting gives the venue a festive glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Ffwrnes Theatre",
+                "hu": "Ffwrnes Színház",
+                "ro": "Teatrul Ffwrnes",
+                "en": "Ffwrnes Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause bei kaltem Wind; prüfen Sie das Winterprogramm auf kurze Matinée-Vorstellungen.",
+                "hu": "Ideális helyszín egy pihenőre metsző szél esetén; ellenőrizze a téli műsort rövid délelőtti vagy délutáni előadásokért.",
+                "ro": "Un loc ideal pentru o pauză în caz de vânt tăios; verificați programul de iarnă pentru spectacole scurte de matineu.",
+                "en": "An ideal spot for a break from the biting wind; check the winter programme for short matinee performances."
+              }
+            },
+            {
+              "name": {
+                "de": "WWT Llanelli Feuchtgebiet",
+                "hu": "WWT Llanelli Vizes Élőhely",
+                "ro": "Centrul Zonelor Umede WWT",
+                "en": "WWT Llanelli Wetland Centre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, da das Zentrum im Winter früher schließt; nutzen Sie die beheizten Aussichtspunkte.",
+                "hu": "Érkezzen 16:30 előtt, mert a központ télen korábban zár; vegye igénybe a fűtött kilátópontokat a madárleshez.",
+                "ro": "Sosiți înainte de ora 16:30, deoarece centrul se închide mai devreme iarna; folosiți punctele de observare încălzite.",
+                "en": "Arrive before 4:30 PM as the centre closes earlier in winter; make use of the heated observation points."
+              }
+            }
+          ]
+        }
       }
     }
   }

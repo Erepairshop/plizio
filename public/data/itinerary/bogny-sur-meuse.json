@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a békés Saint-Vivent templom meglátogatásával. Ezután sétáljon végig a történelmi utcákon az Église Notre-Dame de l’Assomption felé, amelynek építészete lenyűgözi majd. Délben az Ardennek kohászati múzeuma várja. Később mássza meg a híres Aymon-emlékművet, végül fejezze be sétáját az elegáns Saint-Pierre templomnál egy nyugodt és inspiráló esti pihenővel.",
         "ro": "Începeți ziua vizitând pașnica biserică Saint-Vivent. Apoi plimbați-vă pe străzile istorice până la Église Notre-Dame de l’Assomption, a cărei arhitectură vă va fermeca. La prânz, vă așteaptă fascinantul muzeu de metalurgie din Ardeni. Mai târziu, urcați la faimosul monument Aymon și încheiați plimbarea relaxantă la frumoasa biserică Saint-Pierre.",
         "en": "Start your day by visiting the peaceful Saint-Vivent Church. Then stroll through the historic streets to Église Notre-Dame de l’Assomption, whose architecture will enchant you. At midday, the fascinating Ardennes metallurgy museum awaits. Later, climb to the famous Aymon Monument, and finally end your walk at the elegant Saint-Pierre Church for a truly inspiring evening break."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Saint-Vivent Kirche, die perfekten Schutz vor den ersten Tropfen bietet. Mittags ist das Metallurgiemuseum der ideale Ort, um im Trockenen die Industriegeschichte zu erkunden. Am Nachmittag bietet der vernebelte Blick auf die Aymon-Statue eine mystische Atmosphäre, trotz rutschiger Wege. Den Abend lassen wir in der Stille der Saint-Pierre Kirche ausklingen.",
+            "hu": "Kezdje a reggelt a Saint-Vivent templomban, amely tökéletes védelmet nyújt az első cseppek elől. Délben a Kohászati Múzeum az ideális hely, hogy szárazon fedezze fel az ipartörténetet. Délután a ködbe burkolózó Aymon-szobor misztikus látványt nyújt a csúszós utak ellenére is. Az estét a Saint-Pierre templom csendjében zárjuk, hallgatva az eső kopogását a tetőn.",
+            "ro": "Începeți dimineața la Biserica Saint-Vivent, care oferă adăpost perfect împotriva primilor stropi. La prânz, Muzeul de Metalurgie este locul ideal pentru a explora istoria industrială la adăpost. După-amiaza, vederea monumentului Aymon prin ceață oferă o atmosferă mistică, în ciuda drumurilor alunecoase. Încheiem seara în liniștea Bisericii Saint-Pierre, ascultând ploaia.",
+            "en": "Start the morning at Saint-Vivent Church, offering perfect shelter from the first drops. At noon, the Metallurgy Museum is the ideal place to explore industrial history while staying dry. In the afternoon, the misty view of the Aymon monument provides a mystical atmosphere despite the slippery paths. We end the evening in the silence of Saint-Pierre Church, listening to the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Vivent Kirche",
+                "hu": "Saint-Vivent templom",
+                "ro": "Biserica Saint-Vivent",
+                "en": "Saint-Vivent Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur im Inneren, während es draußen regnet; die dicken Steinmauern halten Sie absolut trocken.",
+                "hu": "Csodálja meg a román stílusú belső teret, miközben kint esik; a vastag kőfalak garantáltan szárazon tartják a látogatás alatt.",
+                "ro": "Admirați arhitectura romanică din interior în timp ce afară plouă; zidurile groase de piatră vă vor menține complet uscat.",
+                "en": "Admire the Romanesque architecture inside while it rains outside; the thick stone walls will keep you perfectly dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l’Assomption",
+                "hu": "Église Notre-Dame de l’Assomption",
+                "ro": "Église Notre-Dame de l’Assomption",
+                "en": "Église Notre-Dame de l’Assomption"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kurzen Stopp als sicheren Unterstand; die spirituelle Ruhe lässt das graue Wetter draußen schnell vergessen.",
+                "hu": "Használja ezt a rövid megállót biztonságos menedékként; a spirituális nyugalom segít elfelejteni a kinti szürke, esős időt.",
+                "ro": "Folosiți această scurtă oprire ca adăpost sigur; liniștea spirituală vă va face să uitați rapid de vremea gri de afară.",
+                "en": "Use this short stop as a safe shelter; the spiritual calm will make you quickly forget the gray, rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Metallurgiemuseum der Ardennen",
+                "hu": "Ardennek Kohászati Múzeuma",
+                "ro": "Muzeul de Metalurgie din Ardeni",
+                "en": "Museum of Ardennes Metallurgy"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt hier, um dem Regen zu entgehen; die riesigen Maschinen sind trocken am beeindruckendsten zu besichtigen.",
+                "hu": "Hosszabbítsa meg itt a tartózkodását, hogy elkerülje az esőt; a hatalmas gépek látványa szárazon a legélvezetesebb.",
+                "ro": "Prelungiți vizita aici pentru a evita ploaia; vizionarea mașinăriilor uriașe este mult mai plăcută când sunteți la adăpost.",
+                "en": "Extend your stay here to escape the rain; viewing the massive machinery is most enjoyable while staying warm and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument des quatre fils Aymon",
+                "hu": "A négy Aymon-fiú emlékműve",
+                "ro": "Monumentul celor patru fii Aymon",
+                "en": "Monument des quatre fils Aymon"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem steinernen Plateau, es wird bei Regen sehr rutschig; genießen Sie den dramatischen Blick auf die nebligen Ardennen.",
+                "hu": "Vigyázzon a kőteraszon, mert esőben nagyon csúszik; élvezze a drámai kilátást a ködös Ardennek vonulataira a szobrok mellől.",
+                "ro": "Atenție pe platoul de piatră, devine foarte alunecos la ploaie; bucurați-vă de vederea dramatică asupra Ardenilor înnebuniți.",
+                "en": "Be careful on the stone plateau as it gets very slippery in the rain; enjoy the dramatic view of the misty Ardennes peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Trocknen am Ende der Tour; bewundern Sie die lokalen Glasfenster, während der Regen gegen die Scheiben peitscht.",
+                "hu": "Tökéletes hely a megszárítkozáshoz a túra végén; csodálja meg a helyi üvegablakokat, miközben az eső veri a táblákat.",
+                "ro": "Un loc perfect pentru a vă usca la finalul turului; admirați vitraliile locale în timp ce ploaia bate în geamuri.",
+                "en": "A perfect place to dry off at the end of the tour; admire the local stained glass windows while the rain beats against them."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Tag in der frostigen Stille von Saint-Vivent. Mittags wärmen wir uns im großen Metallurgiemuseum auf, dem besten Ort für kalte Stunden. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir das Aymon-Monument im goldenen Nachmittagslicht. Der Tag endet gemütlich in der Église Saint-Pierre, bevor die winterliche Dunkelheit das Tal einhüllt.",
+            "hu": "Télen a nap a Saint-Vivent templom fagyos csendjében indul. Délben a fűtött Kohászati Múzeumban melegszünk fel, amely a legjobb menedék a hideg órákban. Mivel a nap már 17:00 körül lemegy, az Aymon-emlékművet a délutáni súrolófényben látogatjuk meg. A nap a Saint-Pierre templomban ér véget, mielőtt a sötétség elnyeli a völgyet.",
+            "ro": "Iarna, ziua începe în liniștea înghețată de la Saint-Vivent. La prânz, ne încălzim în marele Muzeu de Metalurgie, cel mai bun refugiu pentru orele reci. Deoarece soarele apune deja în jur de ora 17:00, vizităm monumentul Aymon în lumina aurie a după-amiezii. Ziua se încheie confortabil la Église Saint-Pierre înainte de lăsarea serii.",
+            "en": "In winter, the day begins in the frosty silence of Saint-Vivent. At noon, we warm up in the large Metallurgy Museum, the best refuge for the cold hours. Since the sun sets around 5:00 PM, we visit the Aymon monument in the golden afternoon light. The day ends cozily at Église Saint-Pierre before the winter darkness covers the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Vivent Kirche",
+                "hu": "Saint-Vivent templom",
+                "ro": "Biserica Saint-Vivent",
+                "en": "Saint-Vivent Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre abseits des Winterwinds; achten Sie auf die vereisten Stufen am Kircheneingang.",
+                "hu": "A templom békés hangulatot áraszt a téli szél elől; ügyeljen a jeges lépcsőkre a bejáratnál a reggeli fagy idején.",
+                "ro": "Biserica oferă o atmosferă liniștită departe de vântul de iarnă; atenție la treptele înghețate de la intrarea în biserică.",
+                "en": "The church offers a peaceful atmosphere away from the winter wind; watch out for icy steps at the entrance in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l’Assomption",
+                "hu": "Église Notre-Dame de l’Assomption",
+                "ro": "Église Notre-Dame de l’Assomption",
+                "en": "Église Notre-Dame de l’Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Warmen; die dicken Mauern schützen gut vor der winterlichen Kälte der Ardennen.",
+                "hu": "Rövid, meghitt megálló a melegben; a vastag falak jól védenek az Ardennek metsző téli hidege ellen a séta közben.",
+                "ro": "O oprire scurtă și contemplativă la căldură; zidurile groase protejează bine împotriva frigului de iarnă al Ardenilor.",
+                "en": "A short, contemplative stop in the warmth; the thick walls provide good protection against the biting winter cold of the Ardennes."
+              }
+            },
+            {
+              "name": {
+                "de": "Metallurgiemuseum der Ardennen",
+                "hu": "Ardennek Kohászati Múzeuma",
+                "ro": "Muzeul de Metalurgie din Ardeni",
+                "en": "Museum of Ardennes Metallurgy"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für die kälteste Zeit des Tages; genießen Sie die geheizten Ausstellungsräume und die reiche Technikgeschichte.",
+                "hu": "Ideális hely a nap leghidegebb részében; élvezze a fűtött kiállítótereket és a gazdag technikatörténeti gyűjteményt.",
+                "ro": "Locul ideal pentru cea mai rece perioadă a zilei; bucurați-vă de sălile de expoziție încălzite și de istoria tehnică bogată.",
+                "en": "The ideal place for the coldest part of the day; enjoy the heated exhibition halls and the rich history of metallurgy."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument des quatre fils Aymon",
+                "hu": "A négy Aymon-fiú emlékműve",
+                "ro": "Monumentul celor patru fii Aymon",
+                "en": "Monument des quatre fils Aymon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Monument vor 16:30 Uhr, um das letzte Tageslicht auf den Felsen zu nutzen; warme Kleidung ist hier oben Pflicht.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy elkapja az utolsó fényeket a sziklákon; a réteges, meleg öltözet itt kötelező.",
+                "ro": "Vizitați monumentul înainte de ora 16:30 pentru a prinde ultima lumină pe stânci; îmbrăcămintea groasă este obligatorie aici.",
+                "en": "Visit the monument before 4:30 PM to catch the last daylight on the rocks; warm, layered clothing is essential up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihren Tag in der Dämmerung ab; die beleuchtete Fassade bietet ein schönes Fotomotiv in der blauen Stunde.",
+                "hu": "Zárja a napot a szürkületben; a kivilágított homlokzat gyönyörű fotótémát kínál a kék órában a korai sötétedéskor.",
+                "ro": "Încheiați ziua la amurg; fațada iluminată oferă un subiect foto frumos în ora albastră a serii de iarnă.",
+                "en": "Close your day at dusk; the illuminated facade provides a beautiful photo subject during the winter blue hour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Indítsa kerékpártúráját a keleti Église Saint-Nicolas templomnál. Ezután tekerjen el a kohászati múzeumba, hogy elmerüljön a helyi történelemben. Délután az út az Aymon-emlékműhöz vezet a panorámáért, mielőtt rátérne a festői Voie Verte ösvényre. A tökéletes befejezést a lenyűgöző Uhu-szikla nyújtja a csodálatos folyóparti alkonyatban.",
         "ro": "Începeți turul cu bicicleta la Église Saint-Nicolas în est. Apoi pedalați spre muzeul de metalurgie pentru a vă cufunda în istoria locală. După-amiaza, traseul duce la monumentul Aymon pentru o priveliște panoramică, înainte de a coti pe pitoreasca Voie Verte. Finalul perfect este oferit de impresionanta Stâncă a Bufnițelor în timpul amurgului splendid pe malul râului.",
         "en": "Start your cycling tour at Église Saint-Nicolas in the east. Then pedal briskly to the metallurgy museum to immerse yourself in local history. In the afternoon, the route leads to the Aymon Monument for a panoramic view before turning onto the picturesque Voie Verte. The perfect finale is the impressive Rock of the Eagle Owls during a gorgeous riverbank twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert Vorsicht auf der Voie Verte. Wir starten bei Saint-Nicolas und nutzen das Metallurgiemuseum als langen, trockenen Mittagsstopp. Nachmittags radeln wir vorsichtig zum Aymon-Monument und genießen die mystische Aussicht. Trotz Regen bietet der Radweg entlang der Maas eine einzigartige, ruhige Atmosphäre, wenn man wasserfest gekleidet ist.",
+            "hu": "Egy esős bringás nap óvatosságot igényel a Voie Verte útvonalon. A Saint-Nicolas templomnál kezdünk, majd a Kohászati Múzeumot használjuk hosszú, száraz pihenőként. Délután óvatosan tekerünk az Aymon-emlékműhöz a misztikus kilátásért. Az eső ellenére a Meuse menti kerékpárút egyedi, nyugodt élményt nyújt megfelelő vízálló ruházatban.",
+            "ro": "O zi de bicicletă pe ploaie necesită prudență pe Voie Verte. Începem la Saint-Nicolas și folosim Muzeul de Metalurgie ca o oprire lungă și uscată. După-amiaza pedalăm cu grijă spre monumentul Aymon pentru vederea mistică. În ciuda ploii, pista de biciclete de-a lungul Meuse oferă o atmosferă unică dacă aveți echipament impermeabil.",
+            "en": "A rainy cycling day requires caution on the Voie Verte. We start at Saint-Nicolas and use the Metallurgy Museum as a long, dry midday stop. In the afternoon, we pedal carefully to the Aymon monument for the mystical views. Despite the rain, the Meuse cycle path offers a unique, calm experience with proper waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang zum Unterstellen der Räder; prüfen Sie hier noch einmal Ihre Bremsen für die nasse Fahrbahn.",
+                "hu": "Használja a templom bejáratát a biciklik védett tárolására; ellenőrizze itt még egyszer a fékeket a nedves útfelület előtt.",
+                "ro": "Folosiți intrarea bisericii pentru a adăposti bicicletele; verificați aici încă o dată frânele pentru carosabilul umed.",
+                "en": "Use the church entrance to shelter your bikes; check your brakes here once more before heading out onto the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Metallurgiemuseum der Ardennen",
+                "hu": "Ardennek Kohászati Múzeuma",
+                "ro": "Muzeul de Metalurgie din Ardeni",
+                "en": "Museum of Ardennes Metallurgy"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich auf; die Ausstellungen bieten einen perfekten Schutz vor dem Ardenner Regen.",
+                "hu": "Parkolja le biztonságban a bringát és melegedjen fel; a kiállítások tökéletes védelmet nyújtanak az ardenneki eső elől.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă; expozițiile oferă protecție perfectă împotriva ploii din Ardeni.",
+                "en": "Park your bike safely and warm up inside; the exhibitions provide perfect protection from the Ardennes rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument des quatre fils Aymon",
+                "hu": "A négy Aymon-fiú emlékműve",
+                "ro": "Monumentul celor patru fii Aymon",
+                "en": "Monument des quatre fils Aymon"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, der Boden ist rutschig; der Blick auf den Fluss im Regen ist unvergesslich dramatisch.",
+                "hu": "Vigyázzon a leszálláskor, a talaj csúszós; a folyóra nyíló kilátás az esőben felejthetetlenül drámai és hangulatos.",
+                "ro": "Atenție la coborâre, solul este alunecos; vederea asupra râului pe ploaie este de o dramatism de neuitat.",
+                "en": "Be careful when dismounting as the ground is slippery; the view of the river in the rain is unforgettably dramatic."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte Trans-Ardennes",
+                "hu": "Voie Verte Trans-Ardennes",
+                "ro": "Voie Verte Trans-Ardennes",
+                "en": "Voie Verte Trans-Ardennes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam wegen möglicher Pfützen; die feuchten Wälder verströmen bei Regen einen wunderbaren, frischen Duft.",
+                "hu": "Haladjon lassan a lehetséges tócsák miatt; a nedves erdők az esőben csodálatos, friss illatot árasztanak a folyó mentén.",
+                "ro": "Mergeți încet din cauza posibilelor bălți; pădurile umede emană un miros minunat și proaspăt în timpul ploii.",
+                "en": "Ride slowly due to potential puddles; the damp forests emit a wonderful, fresh scent during the rain along the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen der Uhus",
+                "hu": "Uhu-szikla",
+                "ro": "Stânca Bufnițelor",
+                "en": "Rock of the Eagle Owls"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten unter den Bäumen schützt vor Schauern; genießen Sie die neblige Silhouette der Felsen über der Maas.",
+                "hu": "Egy rövid pihenő a fák alatt védelmet nyújt a záporoktól; csodálja meg a sziklák ködös sziluettjét a Meuse felett.",
+                "ro": "O scurtă pauză sub copaci vă protejează de averse; admirați silueta cețoasă a stâncilor deasupra râului Meuse.",
+                "en": "A brief pause under the trees provides shelter from showers; enjoy the misty silhouette of the rocks above the Meuse."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Schichten. Wir starten bei Saint-Nicolas und suchen mittags Wärme im Metallurgiemuseum. Der Radweg bietet klare Luft und frostige Aussichten. Planen Sie das Aymon-Monument und die Uhus-Felsen vor dem frühen Sonnenuntergang um 17:00 Uhr ein, damit Sie nicht in der Dunkelheit radeln müssen. Ein knackiger, aber schöner Tag im Sattel.",
+            "hu": "A téli kerékpározáshoz meleg rétegekre van szükség. A Saint-Nicolas templomnál kezdünk, délben pedig a Kohászati Múzeumban keresünk meleget. A kerékpárút friss levegőt és fagyos kilátást kínál. Az Aymon-emlékművet és az Uhu-sziklát a korai, 17:00-es naplemente előtt érjük el, hogy ne a sötétben kelljen tekerni.",
+            "ro": "Ciclismul de iarnă necesită straturi calde. Începem la Saint-Nicolas și căutăm căldură la prânz în Muzeul de Metalurgie. Pista oferă aer curat și priveliști înghețate. Planificați monumentul Aymon și Stânca Bufnițelor înainte de apusul de la ora 17:00 pentru a nu pedala pe întuneric.",
+            "en": "Winter cycling requires warm layers. We start at Saint-Nicolas and seek warmth at noon in the Metallurgy Museum. The cycle path offers crisp air and frosty views. Plan to reach the Aymon monument and the Eagle Owls rock before the early 5:00 PM sunset to avoid cycling in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit warmen Handschuhen; die Kirche bietet einen kurzen Moment der Stille vor der Fahrt durch die kalte Luft.",
+                "hu": "Induljon meleg kesztyűben; a templom rövid csendes percet kínál a hideg levegőn való tekerés megkezdése előtt.",
+                "ro": "Începeți cu mănuși calde; biserica oferă un scurt moment de liniște înainte de plimbarea prin aerul rece.",
+                "en": "Start with warm gloves; the church offers a brief moment of silence before you head out into the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Metallurgiemuseum der Ardennen",
+                "hu": "Ardennek Kohászati Múzeuma",
+                "ro": "Muzeul de Metalurgie din Ardeni",
+                "en": "Museum of Ardennes Metallurgy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp zum Aufwärmen Ihrer Glieder; die industrielle Geschichte lässt sich in der Wärme am besten erkunden.",
+                "hu": "Használja ezt a megállót végtagjai felmelegítésére; az ipari történelem a fűtött termekben fedezhető fel leginkább.",
+                "ro": "Folosiți această oprire pentru a vă încălzi membrele; istoria industrială este cel mai bine explorată la căldură.",
+                "en": "Use this stop to warm up your limbs; the industrial history is best explored within the comfort of the heated halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument des quatre fils Aymon",
+                "hu": "A négy Aymon-fiú emlékműve",
+                "ro": "Monumentul celor patru fii Aymon",
+                "en": "Monument des quatre fils Aymon"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht auf den Statuen ist fantastisch für Fotos; bleiben Sie wegen des scharfen Winds nicht zu lange oben.",
+                "hu": "A szobrokra eső téli fény fantasztikus a fotókhoz; a metsző szél miatt ne maradjon túl sokáig a nyitott fennsíkon.",
+                "ro": "Lumina de iarnă pe statui este fantastică pentru fotografii; nu stați prea mult sus din cauza vântului tăios.",
+                "en": "The winter light on the statues is fantastic for photos; don't stay too long on the plateau due to the sharp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte Trans-Ardennes",
+                "hu": "Voie Verte Trans-Ardennes",
+                "ro": "Voie Verte Trans-Ardennes",
+                "en": "Voie Verte Trans-Ardennes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf dem Weg; die frostige Flusslandschaft der Maas ist im Winter atemberaubend schön.",
+                "hu": "Ügyeljen a zúzmarára az úton; a Meuse fagyos folyóparti tája télen lélegzetelállítóan szép és kristálytiszta.",
+                "ro": "Atenție la chiciura de pe drum; peisajul înghețat al râului Meuse este de o frumusețe uluitoare iarna.",
+                "en": "Watch out for frost on the path; the frozen river landscape of the Meuse is breathtakingly beautiful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen der Uhus",
+                "hu": "Uhu-szikla",
+                "ro": "Stânca Bufnițelor",
+                "en": "Rock of the Eagle Owls"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Aussichtspunkt vor Sonnenuntergang; das Panorama der Ardennen wirkt in der Winterdämmerung magisch.",
+                "hu": "Érje el ezt a pontot naplemente előtt; az Ardennek panorámája a téli szürkületben varázslatos látványt nyújt.",
+                "ro": "Ajungeți la acest punct de belvedere înainte de apus; panorama Ardenilor pare magică în amurgul de iarnă.",
+                "en": "Reach this viewpoint before sunset; the panorama of the Ardennes looks magical in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Reggel vezessen az Église Saint-Pierre templomhoz, majd tovább az izgalmas kohászati múzeumba. Délben parkoljon le a központi Saint-Vivent templom közelében. A délután délebbre viszi a festői Église Sainte-Anne templomhoz és a lenyűgöző Uhu-szikla természeti emlékműhöz. Zárja ezt a változatos napot egy kellemes autózással a gyönyörű Église Saint-Nicolas templom felé.",
         "ro": "Conduceți dimineața spre Église Saint-Pierre și mai departe spre muzeul de metalurgie. La prânz, parcați lângă biserica centrală Saint-Vivent. După-amiaza vă poartă mai la sud, la pitoreasca Église Sainte-Anne și la fascinantul monument natural al bufnițelor. Încheiați această zi plină de varietate cu un drum plăcut către superba biserică Saint-Nicolas din est.",
         "en": "Drive in the morning to Église Saint-Pierre and on to the exciting metallurgy museum. Around midday, park near the centrally located Saint-Vivent Church. The afternoon takes you further south to the picturesque Église Sainte-Anne and the fascinating Eagle Owls' rock natural monument. End this varied day with a pleasant evening drive to the beautiful Église Saint-Nicolas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Bogny-sur-Meuse auch bei Regen komfortabel. Wir besuchen die Kirchen als trockene Inseln und verbringen den Mittag im weitläufigen Metallurgiemuseum. Die Aussichtspunkte wie der Uhus-Felsen werden kurz besucht, um die dramatische Regenstimmung über der Maas zu erleben. Ein entspannter Tag, der Kultur und Natur perfekt kombiniert, ohne nass zu werden.",
+            "hu": "Autóval Bogny-sur-Meuse esőben is kényelmesen felfedezhető. A templomokat száraz szigetként látogatjuk meg, a delet pedig a tágas Kohászati Múzeumban töltjük. Az Uhu-szikla kilátópontját csak rövid időre érintjük, hogy megcsodáljuk a Meuse feletti drámai esőfelhőket. Pihentető nap, amely ötvözi a kultúrát és a természetet.",
+            "ro": "Cu mașina, Bogny-sur-Meuse este confortabil de explorat chiar și pe ploaie. Vizităm bisericile ca insule uscate și petrecem prânzul în Muzeul de Metalurgie. Punctele de belvedere precum Stânca Bufnițelor sunt vizitate scurt pentru a vedea ploaia dramatică peste Meuse. O zi relaxantă care combină cultura și natura.",
+            "en": "By car, Bogny-sur-Meuse is comfortable to explore even in the rain. We visit the churches as dry islands and spend noon in the spacious Metallurgy Museum. Viewpoints like the Eagle Owls rock are visited briefly to witness the dramatic rain over the Meuse. A relaxing day perfectly combining culture and nature while staying dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und flüchten Sie ins Trockene; die Ruhe im Inneren ist der perfekte Start bei Schmuddelwetter.",
+                "hu": "Parkoljon közvetlenül előtte és meneküljön a szárazra; a belső nyugalom tökéletes kezdés a barátságtalan időben.",
+                "ro": "Parcați direct în față și refugiați-vă la uscat; liniștea din interior este începutul perfect pe vreme urâtă.",
+                "en": "Park directly in front and escape into the dry; the inner peace is the perfect start during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Metallurgiemuseum der Ardennen",
+                "hu": "Ardennek Kohászati Múzeuma",
+                "ro": "Muzeul de Metalurgie din Ardeni",
+                "en": "Museum of Ardennes Metallurgy"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den langen Aufenthalt im Trockenen; die industriellen Exponate sind auch an grauen Tagen ein Highlight.",
+                "hu": "Élvezze a hosszú tartózkodást a szárazban; az ipari kiállítási tárgyak még a szürke napokon is lenyűgözőek.",
+                "ro": "Bucurați-vă de șederea lungă la uscat; exponatele industriale sunt un punct culminant chiar și în zilele gri.",
+                "en": "Enjoy a long stay in the dry; the industrial exhibits are a highlight even on the grayest of rainy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Vivent Kirche",
+                "hu": "Saint-Vivent templom",
+                "ro": "Biserica Saint-Vivent",
+                "en": "Saint-Vivent Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus; bewundern Sie die historische Architektur, während draußen der Regen fällt.",
+                "hu": "Egy rövid futás az autótól is elég; csodálja meg a történelmi építészetet, miközben kint kopog az eső.",
+                "ro": "Un scurt sprint de la mașină este suficient; admirați arhitectura istorică în timp ce afară cade ploaia.",
+                "en": "A short sprint from the car is enough; admire the historical architecture while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Anne",
+                "hu": "Église Sainte-Anne",
+                "ro": "Église Sainte-Anne",
+                "en": "Église Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen friedlichen Ort für eine Pause vom Fahren im Regen; die Atmosphäre ist besonders besinnlich.",
+                "hu": "Használja ezt a békés helyet egy pihenőre az esőben vezetés közben; a hangulat itt különösen meghitt és csendes.",
+                "ro": "Folosiți acest loc pașnic pentru o pauză de la condusul pe ploaie; atmosfera este deosebit de contemplativă.",
+                "en": "Use this peaceful spot for a break from driving in the rain; the atmosphere here is especially contemplative."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen der Uhus",
+                "hu": "Uhu-szikla",
+                "ro": "Stânca Bufnițelor",
+                "en": "Rock of the Eagle Owls"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick kurz von der Aussichtsplattform; die Wolken über dem Flusstal bieten ein tolles Fotomotiv.",
+                "hu": "Élvezze a kilátást rövid ideig a teraszról; a folyóvölgy feletti felhők drámai fotótémát kínálnak esőben is.",
+                "ro": "Bucurați-vă scurt de vedere de pe platformă; norii de deasupra văii râului oferă un motiv foto excelent.",
+                "en": "Enjoy the view briefly from the platform; the clouds over the river valley provide a great photo subject even in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein würdevoller Abschluss im Trockenen; prüfen Sie vor der Rückfahrt Ihre Sichtverhältnisse bei anhaltendem Regen.",
+                "hu": "Méltó befejezés a szárazban; ellenőrizze a látási viszonyokat és az ablaktörlőket a hazaindulás előtt.",
+                "ro": "Un final demn la uscat; verificați vizibilitatea înainte de plecare dacă ploaia continuă să cadă.",
+                "en": "A dignified ending in the dry; check your visibility and wipers before heading back if the rain persists."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto wohlige Wärme zwischen den Stopps. Wir erkunden die Kirchen und das Metallurgiemuseum als kulturelle Highlights. Da es um 17:00 Uhr dunkel wird, planen wir den Uhus-Felsen für das letzte Tageslicht ein. Die frostige Ardennen-Landschaft lässt sich wunderbar durch das Autofenster und bei kurzen Spaziergängen an den Aussichtspunkten genießen.",
+            "hu": "Télen az autó kellemes meleget nyújt a megállók között. A templomokat és a Kohászati Múzeumot kulturális fénypontként fedezzük fel. Mivel 17:00-kor sötétedik, az Uhu-sziklát az utolsó nappali fényekre időzítjük. A fagyos ardenneki táj csodálatos az autóablakból és a rövid séták során a kilátópontoknál.",
+            "ro": "Iarna, mașina oferă căldură plăcută între opriri. Explorăm bisericile și Muzeul de Metalurgie ca puncte culturale. Deoarece se întunecă la ora 17:00, planificăm Stânca Bufnițelor pentru ultima lumină a zilei. Peisajul înghețat al Ardenilor poate fi savurat minunat de la geamul mașinii.",
+            "en": "In winter, the car provides cozy warmth between stops. We explore the churches and the Metallurgy Museum as cultural highlights. Since it gets dark at 5:00 PM, we plan the Eagle Owls rock for the last daylight. The frosty Ardennes landscape is wonderful to enjoy from the car window and during short walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie gemütlich im Inneren; achten Sie beim Parken auf mögliche Eisflächen auf dem Parkplatz.",
+                "hu": "Kezdje kényelmesen a belső térben; parkoláskor ügyeljen az esetleges jeges foltokra a parkoló területén.",
+                "ro": "Începeți confortabil în interior; atenție la posibilele porțiuni de gheață din parcare atunci când opriți.",
+                "en": "Start comfortably inside; watch out for possible icy patches in the parking area when you arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Metallurgiemuseum der Ardennen",
+                "hu": "Ardennek Kohászati Múzeuma",
+                "ro": "Muzeul de Metalurgie din Ardeni",
+                "en": "Museum of Ardennes Metallurgy"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen längeren Aufenthalt in der Wärme; die Geschichte der Region wird hier lebendig.",
+                "hu": "Tökéletes hely egy hosszabb, melegben töltött látogatáshoz; a régió ipari múltja itt kel igazán életre.",
+                "ro": "Locul perfect pentru o ședere mai lungă la căldură; istoria regiunii prinde viață aici.",
+                "en": "The perfect place for a longer stay in the warmth; the region's industrial history truly comes to life here."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Vivent Kirche",
+                "hu": "Saint-Vivent templom",
+                "ro": "Biserica Saint-Vivent",
+                "en": "Saint-Vivent Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kulturvoller Stopp; genießen Sie die winterliche Stille in diesem historischen Gebäude.",
+                "hu": "Rövid, kultúrával teli megálló; élvezze a meghitt téli csendet ebben a történelmi épületben.",
+                "ro": "O oprire scurtă, plină de cultură; bucurați-vă de liniștea iernii în această clădire istorică.",
+                "en": "A short, culture-filled stop; enjoy the peaceful winter silence inside this historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Anne",
+                "hu": "Église Sainte-Anne",
+                "ro": "Église Sainte-Anne",
+                "en": "Église Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Winterlicht; die Kirche bietet einen guten Schutz vor dem kalten Wind.",
+                "hu": "Csodálja meg az építészetet a lágy téli fényben; a templom kiváló védelmet nyújt a metsző hideg szél ellen.",
+                "ro": "Admirați arhitectura în lumina blândă de iarnă; biserica oferă o protecție bună împotriva vântului rece.",
+                "en": "Admire the architecture in the soft winter light; the church provides great protection from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen der Uhus",
+                "hu": "Uhu-szikla",
+                "ro": "Stânca Bufnițelor",
+                "en": "Rock of the Eagle Owls"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Felsen vor 16:30 Uhr; der Panoramablick im Sonnenuntergang ist im Winter besonders klar.",
+                "hu": "Érje el a sziklát 16:30 előtt; a panoráma a téli naplementében különösen tiszta és látványos.",
+                "ro": "Ajungeți la stâncă înainte de ora 16:30; panorama la apusul soarelui este deosebit de clară iarna.",
+                "en": "Reach the rock before 4:30 PM; the panoramic view at sunset is particularly clear and stunning in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss vor der Fahrt im Dunkeln; die abendliche Beleuchtung verleiht der Kirche einen besonderen Glanz.",
+                "hu": "Szép befejezés a sötétben való vezetés előtt; az esti kivilágítás különleges fényt ad a templomnak.",
+                "ro": "Un final frumos înainte de condusul pe întuneric; iluminarea de seară oferă bisericii o strălucire deosebită.",
+                "en": "A beautiful conclusion before driving in the dark; the evening lighting gives the church a special glow."
+              }
+            }
+          ]
+        }
       }
     }
   }

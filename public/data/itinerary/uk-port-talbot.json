@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a nyüzsgő Port Talbot Parkway-en, beszívva a város vendégszerető hangulatát.\n\nDélben fedezze fel a helyi művészeti életet a Princess Royal Színházban.\n\nDélután élvezze a családi szórakozást az Aquasplash Play Poolban, majd egy szellős sétát az Aberavon strandon.\n\nZárja az estét egy csendes, elmélkedő sétával a meglepően békés Works Reservoir víztározó körül.",
         "ro": "Începeți dimineața la aglomerata gară Port Talbot Parkway, simțind atmosfera primitoare a orașului.\n\nLa prânz, sunteți invitați să explorați scena artistică la Teatrul Princess Royal.\n\nDupă-amiaza, bucurați-vă de distracție în familie la Aquasplash Play Pool, urmată de o plimbare pe plaja Aberavon.\n\nÎncheiați seara cu o plimbare senină și reflexivă în jurul liniștitului lac Works Reservoir.",
         "en": "Begin your morning at the bustling Port Talbot Parkway, soaking in the town's welcoming vibe.\n\nMidday invites you to explore the local arts scene at the Princess Royal Theatre.\n\nIn the afternoon, enjoy family fun at Aquasplash Play Pool followed by a breezy walk on Aberavon Beach.\n\nConclude your evening with a serene, reflective stroll around the surprisingly peaceful Works Reservoir."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt im modernen Bahnhof Parkway. Der Vormittag gehört der Kultur im Princess Royal Theatre, einem idealen Zufluchtsort vor dem walisischen Regen. Mittags bietet der Spaziergang zum Aquasplash trotz Nässe erfrischende Seeluft, sofern Sie wasserfeste Kleidung tragen. Nachmittags zeigt sich der Aberavon Strand von seiner dramatischen, stürmischen Seite. Den Tag lassen Sie am Works Reservoir ausklingen, wo der Regen die Natur besonders intensiv duften lässt.",
+            "hu": "Kezdje a napot a Parkway állomás fedett csarnokában, elkerülve az első cseppeket. A délelőttöt töltse a Princess Royal Színház falai között, amely tökéletes menedék a walesi esőben. Délben az Aquasplash felé vezető út szeles lehet, de a tengeri levegő esőben is frissítő. Délután az Aberavon strand vadregényes arcát mutatja a szürke ég alatt. Az estét a Works víztározónál zárhatja, ahol a sár ellenére a párás táj látványa megnyugtató.",
+            "ro": "Începeți ziua la adăpost în gara modernă Parkway. Dimineața este dedicată culturii la Teatrul Princess Royal, un refugiu ideal împotriva ploii galeze. La prânz, plimbarea spre Aquasplash oferă aer marin revigorant, cu condiția să purtați haine impermeabile. După-amiaza, plaja Aberavon își arată latura dramatică și furtunoasă. Încheiați ziua la rezervorul Works, unde ploaia face ca parfumul naturii să fie deosebit de intens.",
+            "en": "Start your day sheltered in the modern Parkway station. Spend the morning enjoying culture at the Princess Royal Theatre, an ideal refuge from the Welsh rain. At midday, the walk to Aquasplash offers refreshing sea air, provided you wear waterproof clothing. In the afternoon, Aberavon Beach shows its dramatic, stormy side under the grey skies. End the day at the Works Reservoir, where the rain makes the scent of the surrounding nature particularly intense."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Talbot Parkway",
+                "hu": "Port Talbot Parkway",
+                "ro": "Port Talbot Parkway",
+                "en": "Port Talbot Parkway"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die moderne, überdachte Wartehalle des Bahnhofs, um Ihre Route trocken zu planen, während draußen der typische Westwind den Regen peitscht.",
+                "hu": "Használja ki az állomás modern, fedett várótermét az útvonal szárazon történő áttekintéséhez, miközben kint a tipikus nyugati szél fújja az esőt.",
+                "ro": "Profitați de sala de așteptare modernă și acoperită a gării pentru a vă planifica traseul la uscat, în timp ce afară vântul de vest biciuiește ploaia.",
+                "en": "Make use of the station's modern, covered waiting area to plan your route in the dry while the typical westerly wind lashes the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Prinzessin Royal Theater",
+                "hu": "Princess Royal Színház",
+                "ro": "Teatrul Princess Royal",
+                "en": "Princess Royal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Indoor-Programm oder bewundern Sie das Foyer; es ist der perfekte Ort, um den stärksten Regengüssen des Vormittags stilvoll zu entgehen.",
+                "hu": "Élvezze a beltéri programokat vagy csodálja meg a közösségi tereket; ez a tökéletes hely, hogy stílusosan elkerülje a délelőtti legnagyobb záporokat.",
+                "ro": "Bucurați-vă de programul interior sau admirați foierul; este locul perfect pentru a evita cu stil cele mai puternice averse de ploaie ale dimineții.",
+                "en": "Enjoy the indoor program or admire the foyer; it is the perfect place to stylishly avoid the heaviest morning downpours in a cultural setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquasplash Spielpool",
+                "hu": "Aquasplash Játszómedence",
+                "ro": "Aquasplash Piscină",
+                "en": "Aquasplash Play Pool"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn das Becken bei Regen weniger einlädt, bietet die nahegelegene Promenade feste Wege, auf denen man keine schlammigen Schuhe bekommt.",
+                "hu": "Bár a medence esőben kevésbé hívogató, a közeli sétány szilárd burkolatú utakat kínál, így nem kell tartania a sáros cipőktől a séta során.",
+                "ro": "Chiar dacă piscina este mai puțin invitantă pe ploaie, promenada din apropiere oferă căi pavate unde nu vă veți murdări încălțămintea de noroi.",
+                "en": "Even if the pool is less inviting in the rain, the nearby promenade offers firm paths where you won't get muddy shoes while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberavon Strand",
+                "hu": "Aberavon Strand",
+                "ro": "Plaja Aberavon",
+                "en": "Aberavon Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See von den windgeschützten Nischen der Cafés aus und bringen Sie einen stabilen, sturmfesten Regenschirm für den Kai mit.",
+                "hu": "Figyelje a felkorbácsolt tengert a kávézók szélvédett kuckóiból, és hozzon magával egy masszív, viharálló esernyőt a parti sétához.",
+                "ro": "Observați marea agitată din nișele ferite de vânt ale cafenelelor și aduceți o umbrelă robustă, rezistentă la furtună, pentru plimbarea pe faleză.",
+                "en": "Watch the churning sea from the wind-sheltered niches of the beachfront cafes and bring a sturdy, storm-proof umbrella for the coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Works Stausee",
+                "hu": "Works Víztározó",
+                "ro": "Lacul Works",
+                "en": "Works Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt wasserfeste Wanderschuhe, da die Pfade um den Stausee bei Regen schnell rutschig und schlammig werden können.",
+                "hu": "Mindenképpen viseljen vízálló túrabakancsot, mivel a víztározó körüli ösvények esőben gyorsan csúszóssá és sárossá válhatnak.",
+                "ro": "Purtați neapărat bocanci de drumeție impermeabili, deoarece potecile din jurul rezervorului pot deveni rapid alunecoase și noroioase pe ploaie.",
+                "en": "Be sure to wear waterproof hiking boots, as the paths around the reservoir can quickly become slippery and muddy during a rainy evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Port Talbot im klaren Winterlicht. Der Morgen beginnt am Bahnhof Parkway, wo die kalte Luft die Sinne weckt. Im Princess Royal Theatre finden Sie vormittags wohlige Wärme. Mittags bietet die Küste am Aquasplash eine erfrischende Brise, ideal für einen kurzen, zügigen Gang. Der Nachmittag am Aberavon Strand ist perfekt, um den frühen Sonnenuntergang gegen 17:00 Uhr über dem Meer zu bestaunen. Den Abend verbringen Sie in der friedlichen Stille am gefrorenen Works Reservoir.",
+            "hu": "Ismerje meg Port Talbot-ot a tiszta téli fényekben. A reggel a Parkway állomáson indul, ahol a friss, hideg levegő azonnal felébreszti. Délelőtt a Princess Royal Színházban találhat kellemes meleget. Délben az Aquasplash partja frissítő szellőt kínál, amely ideális egy rövid, tempós sétához. Az Aberavon strand délután tökéletes helyszín a korai, 17:00 körüli naplemente megcsodálásához. Az estét a Works víztározó csendes nyugalmában zárhatja.",
+            "ro": "Experimentați Port Talbot în lumina clară de iarnă. Dimineața începe la gara Parkway, unde aerul rece trezește simțurile. La Teatrul Princess Royal găsiți căldură primitoare în cursul dimineții. La prânz, coasta de lângă Aquasplash oferă o briză revigorantă, ideală pentru o plimbare scurtă și rapidă. După-amiaza la plaja Aberavon este perfectă pentru a admira apusul timpuriu, în jur de ora 17:00. Seara o petreceți în liniștea pașnică de la rezervorul Works.",
+            "en": "Experience Port Talbot in the clear winter light. The morning begins at Parkway station, where the crisp air awakens the senses. Find cozy warmth at the Princess Royal Theatre during the late morning. At midday, the coast near Aquasplash offers a bracing breeze, ideal for a short, brisk walk. The afternoon at Aberavon Beach is perfect for watching the early sunset around 17:00 over the sea. Spend the evening in the peaceful silence of the Works Reservoir."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Talbot Parkway",
+                "hu": "Port Talbot Parkway",
+                "ro": "Port Talbot Parkway",
+                "en": "Port Talbot Parkway"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einem heißen Kaffee aus dem Bahnhofskiosk in den Tag, um sich für den ersten frostigen Spaziergang durch die Stadt aufzuwärmen.",
+                "hu": "Indítsa a napot egy forró kávéval az állomás büféjéből, hogy bemelegítsen a városban tett első fagyos sétához.",
+                "ro": "Începeți ziua cu o cafea fierbinte de la chioșcul gării pentru a vă încălzi înainte de prima plimbare geroasă prin oraș.",
+                "en": "Start your day with a hot coffee from the station kiosk to warm up for your first frosty walk through the industrial heart of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Prinzessin Royal Theater",
+                "hu": "Princess Royal Színház",
+                "ro": "Teatrul Princess Royal",
+                "en": "Princess Royal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für einen Besuch im beheizten Innenraum und informieren Sie sich über lokale Winteraufführungen in dieser gemütlichen Atmosphäre.",
+                "hu": "Használja ki a délelőttöt a fűtött belső terekben, és tájékozódjon a helyi téli előadásokról ebben a barátságos környezetben.",
+                "ro": "Profitați de dimineață pentru o vizită în interiorul încălzit și informați-vă despre spectacolele locale de iarnă în această atmosferă primitoare.",
+                "en": "Take advantage of the heated interior during the morning and check out the local winter performance schedule in this cozy cultural atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquasplash Spielpool",
+                "hu": "Aquasplash Játszómedence",
+                "ro": "Aquasplash Piscină",
+                "en": "Aquasplash Play Pool"
+              },
+              "tip_5lang": {
+                "de": "Der Pool ist im Winter leer, aber der Ort bietet einen tollen Blick auf die schneebedeckten Hügel im Hinterland von Port Talbot.",
+                "hu": "A medence télen üres, de a helyszínről nagyszerű kilátás nyílik Port Talbot hátországának hófödte dombjaira.",
+                "ro": "Piscina este goală iarna, dar locația oferă o vedere excelentă spre dealurile înzăpezite din spatele orașului Port Talbot.",
+                "en": "The pool is empty in winter, but the location offers a great view of the snow-capped hills in the hinterland of Port Talbot."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberavon Strand",
+                "hu": "Aberavon Strand",
+                "ro": "Plaja Aberavon",
+                "en": "Aberavon Beach"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier, um das spektakuläre Winter-Alpenglühen über der Bucht zu erleben, bevor es um 17:00 Uhr dunkel wird.",
+                "hu": "Érkezzen 16:30 körül, hogy átélje a látványos téli fényeket az öböl felett, mielőtt 17:00-kor teljesen besötétedik.",
+                "ro": "Fiți aici în jurul orei 16:30 pentru a vedea spectaculoasele culori de iarnă deasupra golfului, înainte ca întunericul să se lase la ora 17:00.",
+                "en": "Arrive around 16:30 to experience the spectacular winter glow over the bay before total darkness falls at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Works Stausee",
+                "hu": "Works Víztározó",
+                "ro": "Lacul Works",
+                "en": "Works Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung, da die Kälte am Wasser abends deutlich zunimmt; die Stille des winterlichen Sees ist jedoch unbezahlbar.",
+                "hu": "Öltözzön rétegesen, mivel a vízparti hideg este jelentősen felerősödik; a téli tó csendje azonban megfizethetetlen élmény.",
+                "ro": "Purtați mai multe straturi de haine, deoarece frigul de lângă apă crește semnificativ seara; liniștea lacului hibernal este însă neprețuită.",
+                "en": "Dress in multiple layers as the cold by the water increases significantly in the evening; however, the silence of the winter lake is priceless."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros napját az állomáson, majd küzdje le az emelkedőt a lenyűgöző Brombil víztározóhoz.\n\nDélben tekerjen be a történelmi Margam Birtokra, felfedezve a lenyűgöző kastélyt és az elegáns Orangerie-t.\n\nA délutáni tekerés elviszi a monumentális Tata acélművek mellett, amely a környék ipari magjának igazi bizonyítéka.\n\nZárja utazását egy esti kerékpározással az Aberavon strandon, figyelve a naplementét a Swansea-öböl felett.",
         "ro": "Începeți ziua de ciclism la gară înainte de a urca panta spre uimitorul lac de acumulare Brombil.\n\nLa prânz, pedalați spre istorica moșie Margam, explorând atât marele Castel, cât și eleganta Oranjerie.\n\nPlimbarea de după-amiază vă duce pe lângă monumentala oțelărie Tata, un adevărat testament al industriei locale.\n\nÎncheiați-vă călătoria cu o plimbare de seară de-a lungul plajei Aberavon, privind apusul peste golful Swansea.",
         "en": "Kick off your cycling day at the station before tackling the uphill path to the stunning Brombil Reservoir.\n\nBy midday, cruise into the historic Margam Estate, exploring both the grand Castle and the elegant Orangery.\n\nAfternoon riding takes you past the monumental Tata Steelworks, a true testament to the area's industrial core.\n\nEnd your journey with an evening ride along Aberavon Beach, watching the sunset over Swansea Bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Port Talbot erfordert Vorsicht, bietet aber eine mystische Kulisse. Nach dem Start am Parkway geht es zum Brombil Reservoir, das oft im Nebel liegt. Mittags bieten das Margam Castle und die Orangerie wertvollen Schutz vor den Schauern. Am Nachmittag radeln Sie an den rauchenden Tata Steelworks vorbei, deren Schlote im Regen besonders imposant wirken. Die Tour endet am Aberavon Strand, wo der Wind Ihnen den Regen entgegenpeitscht.",
+            "hu": "Egy esős bringázás Port Talbotban óvatosságot igényel, de misztikus látványt nyújt. A Parkway-től indulva a ködbe burkolózó Brombil víztározó felé vegye az irányt. Délben a Margam kastély és az Orangerie nyújt értékes menedéket a záporok elől. Délután a füstölgő Tata acélművek mellett haladjon el, melynek kéményei esőben különösen impozánsak. A túra az Aberavon strandon ér véget, ahol a szél szembefújja az esőt.",
+            "ro": "O plimbare cu bicicleta prin Port Talbot pe ploaie necesită prudență, dar oferă un cadru mistic. După plecarea de la Parkway, mergeți spre rezervorul Brombil, adesea învăluit în ceață. La prânz, Castelul Margam și Oranjeria oferă adăpost prețios împotriva averselor. După-amiaza, pedalați pe lângă oțelăria Tata, ale cărei furnale par deosebit de impunătoare în ploaie. Turul se încheie la plaja Aberavon, unde vântul vă suflă ploaia în față.",
+            "en": "A rainy cycle through Port Talbot requires caution but offers a mystical backdrop. After starting at Parkway, head to Brombil Reservoir, which is often shrouded in mist. At midday, Margam Castle and the Orangery provide valuable shelter from the showers. In the afternoon, cycle past the steaming Tata Steelworks, whose chimneys look particularly imposing in the rain. The tour ends at Aberavon Beach, where the wind whips the rain against you."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Talbot Parkway",
+                "hu": "Port Talbot Parkway",
+                "ro": "Port Talbot Parkway",
+                "en": "Port Talbot Parkway"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen und den Reifendruck vor dem Start, da die nassen Straßen in der Stadt besonders rutschig sein können.",
+                "hu": "Indulás előtt ellenőrizze a fékeket és a guminyomást, mivel a város vizes útjai különösen csúszósak lehetnek.",
+                "ro": "Verificați frânele și presiunea în anvelope înainte de plecare, deoarece drumurile ude din oraș pot fi deosebit de alunecoase.",
+                "en": "Check your brakes and tire pressure before starting, as the wet city streets can be particularly slippery for a cyclist."
+              }
+            },
+            {
+              "name": {
+                "de": "Brombil Stausee",
+                "hu": "Brombil Víztározó",
+                "ro": "Lacul Brombil",
+                "en": "Brombil Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen schlammig sein; nutzen Sie Mountainbike-Reifen für besseren Halt und genießen Sie die neblige, einsame Atmosphäre.",
+                "hu": "Az emelkedő esőben sáros lehet; használjon terepgumikat a jobb tapadásért, és élvezze a ködös, magányos hangulatot a víznél.",
+                "ro": "Urcarea poate fi noroioasă pe ploaie; folosiți anvelope de mountain bike pentru o aderență mai bună și bucurați-vă de atmosfera cețoasă și solitară.",
+                "en": "The climb can be muddy in the rain; use mountain bike tires for better grip and enjoy the misty, lonely atmosphere at the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Margam Schloss",
+                "hu": "Margam Kastély",
+                "ro": "Castelul Margam",
+                "en": "Margam Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und nutzen Sie die Schlossbesichtigung, um sich im trockenen Innenraum von der nassen Fahrt zu erholen.",
+                "hu": "Parkolja le a bringát az előtető alatt, és használja ki a kastélylátogatást, hogy a száraz belső térben pihenje ki az esős tekerést.",
+                "ro": "Parcați bicicleta sub copertină și profitați de vizitarea castelului pentru a vă recupera în interiorul uscat după drumul ud.",
+                "en": "Park your bike under the overhang and use the castle visit to recover in the dry interior after the wet ride through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Orangerie",
+                "hu": "Az Orangerie",
+                "ro": "Oranjeria",
+                "en": "The Orangery"
+              },
+              "tip_5lang": {
+                "de": "Dieses architektonische Juwel bietet durch seine großen Fenster einen fantastischen Blick auf den verregneten Garten, während Sie selbst trocken bleiben.",
+                "hu": "Ez az építészeti gyöngyszem hatalmas ablakain keresztül fantasztikus kilátást nyújt az eső áztatta kertre, miközben Ön szárazon marad.",
+                "ro": "Această bijuterie arhitecturală oferă prin ferestrele sale mari o vedere fantastică spre grădina plouată, în timp ce dumneavoastră rămâneți uscat.",
+                "en": "This architectural gem offers a fantastic view of the rain-soaked gardens through its large windows while you stay perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Tata Stahlwerke",
+                "hu": "Tata Acélművek",
+                "ro": "Oțelăria Tata",
+                "en": "Tata Steelworks"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen am Straßenrand und genießen Sie den Anblick der Industrieanlagen, die im grauen Regenlicht besonders gewaltig wirken.",
+                "hu": "Ügyeljen az útmenti tócsákra, és élvezze az ipari létesítmények látványát, melyek a szürke esőben különösen monumentálisnak tűnnek.",
+                "ro": "Atenție la bălțile de la marginea drumului și bucurați-vă de vederea instalațiilor industriale, care par deosebit de masive în lumina gri de ploaie.",
+                "en": "Watch out for roadside puddles and enjoy the sight of the industrial plants, which look particularly massive in the grey rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberavon Strand",
+                "hu": "Aberavon Strand",
+                "ro": "Plaja Aberavon",
+                "en": "Aberavon Beach"
+              },
+              "tip_5lang": {
+                "de": "Reinigen Sie Ihre Kette nach der Tour vom Salzwasser und Sand, die der Regen und der Wind vom Strand auf Ihr Fahrrad geweht haben.",
+                "hu": "A túra után tisztítsa meg a láncot a sós víztől és homoktól, amit az eső és a szél hordott a bringára a strand közelében.",
+                "ro": "După tur, curățați lanțul de apa sărată și nisipul pe care ploaia și vântul le-au suflat pe bicicletă de pe plajă.",
+                "en": "Clean your chain after the tour from salt water and sand that the rain and wind blew onto your bike from the beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiges Radabenteuer durch Port Talbot bietet klare Sichtweiten. Starten Sie dick eingepackt am Parkway. Der Anstieg zum Brombil Reservoir bringt den Kreislauf in Schwung. Mittags bieten Margam Castle und die Orangerie historische Pracht in winterlicher Stille. Am Nachmittag radeln Sie vorbei an den Tata Steelworks, deren Abwärme fast spürbar scheint. Die Tour endet bei Einbruch der Dunkelheit am Aberavon Strand unter dem weiten Winterhimmel.",
+            "hu": "Egy fagyos kerékpáros kaland Port Talbotban tiszta látási viszonyokat kínál. Induljon vastagon felöltözve a Parkway-től. A Brombil víztározóhoz vezető emelkedő gyorsan beindítja a vérkeringést. Délben a Margam kastély és az Orangerie történelmi pompát kínál a téli csendben. Délután a Tata acélművek mellett tekerjen el, melynek hője szinte érezhető. A túra sötétedéskor ér véget az Aberavon strandon a tágas téli ég alatt.",
+            "ro": "O aventură geroasă cu bicicleta prin Port Talbot oferă vizibilitate clară. Plecați bine îmbrăcat de la Parkway. Urcarea spre rezervorul Brombil pune circulația în mișcare. La prânz, Castelul Margam și Oranjeria oferă splendoare istorică în liniște hibernală. După-amiaza, pedalați pe lângă oțelăria Tata, a cărei căldură reziduală pare aproape sesizabilă. Turul se încheie la lăsarea întunericului la plaja Aberavon, sub cerul vast de iarnă.",
+            "en": "A frosty cycling adventure through Port Talbot offers clear visibility. Start wrapped up warm from Parkway. The climb to Brombil Reservoir will get your circulation going. At midday, Margam Castle and the Orangery offer historical splendor in winter silence. In the afternoon, cycle past the Tata Steelworks, where the waste heat almost feels palpable. The tour ends at nightfall at Aberavon Beach under the vast winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port Talbot Parkway",
+                "hu": "Port Talbot Parkway",
+                "ro": "Port Talbot Parkway",
+                "en": "Port Talbot Parkway"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt winddichte Handschuhe, da der Fahrtwind bei winterlichen Temperaturen die Finger sehr schnell auskühlen lässt.",
+                "hu": "Mindenképpen viseljen szélálló kesztyűt, mivel a menetszél téli hőmérséklet mellett nagyon gyorsan lehűti az ujjait.",
+                "ro": "Purtați neapărat mănuși rezistente la vânt, deoarece curentul de aer la temperaturi hibernale răcește degetele foarte repede.",
+                "en": "Be sure to wear windproof gloves, as the headwind at winter temperatures will cool your fingers down very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Brombil Stausee",
+                "hu": "Brombil Víztározó",
+                "ro": "Lacul Brombil",
+                "en": "Brombil Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Hügel; der Anblick des oft spiegelglatten, kalten Wassers ist die Mühe aber wert.",
+                "hu": "Ügyeljen a dombok árnyékában megfagyó nedvességre; a gyakran tükörsima, hideg víz látványa azonban megéri a fáradtságot.",
+                "ro": "Atenție la polei în umbra dealurilor; vederea apei reci, adesea netedă ca o oglindă, merită însă tot efortul.",
+                "en": "Watch out for black ice in the shadow of the hills; however, the sight of the often mirror-smooth, cold water is well worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Margam Schloss",
+                "hu": "Margam Kastély",
+                "ro": "Castelul Margam",
+                "en": "Margam Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege sind im Winter herrlich leer; nutzen Sie die Ruhe für Fotos der gotischen Fassade vor einem stahlblauen Winterhimmel.",
+                "hu": "A park ösvényei télen csodásan üresek; használja ki a nyugalmat a gótikus homlokzat fotózásához az acélkék téli égbolt előtt.",
+                "ro": "Potecile parcului sunt minunat de goale iarna; profitați de liniște pentru fotografii ale fațadei gotice sub un cer de iarnă albastru ca oțelul.",
+                "en": "The park paths are wonderfully empty in winter; use the peace for photos of the Gothic facade against a steel-blue winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Orangerie",
+                "hu": "Az Orangerie",
+                "ro": "Oranjeria",
+                "en": "The Orangery"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause im Windschatten der Orangerie-Mauern, wo sich die winterliche Mittagssonne oft angenehm sammeln kann.",
+                "hu": "Tartson szünetet az Orangerie falainak szélárnyékában, ahol a téli déli napsütés gyakran kellemesen összegyűlik.",
+                "ro": "Faceți o pauză la adăpostul zidurilor Oranjeriei, unde soarele hibernal de la prânz se poate aduna adesea plăcut.",
+                "en": "Take a break in the lee of the Orangery walls, where the winter midday sun can often gather pleasantly and warm you up."
+              }
+            },
+            {
+              "name": {
+                "de": "Tata Stahlwerke",
+                "hu": "Tata Acélművek",
+                "ro": "Oțelăria Tata",
+                "en": "Tata Steelworks"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Dämpfe der Werke bilden im Winter dichte Nebelschwaden, was der Route eine fast unwirkliche, industrielle Ästhetik verleiht.",
+                "hu": "A művek meleg gőzei télen sűrű ködpászmákat alkotnak, ami szinte valószerűtlen, indusztriális esztétikát kölcsönöz az útvonalnak.",
+                "ro": "Aburii calzi ai uzinei formează iarna fâșii dense de ceață, ceea ce conferă traseului o estetică industrială aproape ireală.",
+                "en": "The warm vapors of the works form thick swirls of mist in winter, giving the route an almost unreal, industrial aesthetic."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberavon Strand",
+                "hu": "Aberavon Strand",
+                "ro": "Plaja Aberavon",
+                "en": "Aberavon Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierendes Licht an Ihrem Rad, da die Dämmerung am Strand sehr schnell einsetzt und der Wind stark auskühlt.",
+                "hu": "Ügyeljen a bringa lámpáira, mivel a tengerparton a szürkület nagyon gyorsan beáll, és a szél erősen hűt.",
+                "ro": "Asigurați-vă că aveți lumini funcționale la bicicletă, deoarece amurgul pe plajă se lasă foarte repede și vântul este tăios.",
+                "en": "Make sure you have working lights on your bike, as twilight sets in very quickly on the beach and the wind cools down fast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje festői autózását északon, az ősi Pen-y-Castell hegyi erődítménynél, amely lenyűgöző völgyi panorámát kínál.\n\nDélben az Afan Erdőpark buja erdeiben találja magát, mielőtt dél felé indulna a Margam Vidéki Parkba.\n\nA délutánt a Margam Kastély gótikus építészetének megcsodálásával és a kolosszális acélművek melletti autózással tölti.\n\nA nap az Aberavon strand homokján ér véget, ahol az esti dagály tökéletes, pihentető befejezést nyújt.",
         "ro": "Începeți-vă plimbarea pitorească spre nord la antica fortăreață Pen-y-Castell, oferind panorame largi ale văii.\n\nLa prânz, pătrundeți în pădurile luxuriante ale Parcului Forestier Afan înainte de a vă îndrepta spre Parcul Margam.\n\nDupă-amiaza este petrecută admirând arhitectura castelului Margam și trecând pe lângă colosala oțelărie locală.\n\nZiua se încheie pe nisipurile plajei Aberavon, unde valurile de seară oferă un final perfect și relaxant.",
         "en": "Start your scenic drive up north at the ancient Pen-y-Castell hill fort, offering sweeping valley panoramas.\n\nMidday finds you delving into the lush woodlands of Afan Forest Park before heading south to Margam Country Park.\n\nThe afternoon is spent admiring the Gothic architecture of Margam Castle and driving past the colossal steelworks.\n\nYour day concludes on the sands of Aberavon Beach, where the evening tide provides a perfect, relaxing finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die walisische Landschaft bequem von Ihrem Auto aus. Der Morgen führt zum Pen-y-Castell, wo Sie die Aussicht im Trockenen genießen. Mittags bietet der Afan Forest Park mystische Waldansichten durch die verregnete Windschutzscheibe. Der Margam Country Park und das Schloss lassen sich perfekt mit kurzen Gängen zwischen den Schauern erkunden. Nachmittags beeindrucken die Tata Steelworks im Regen, bevor Sie den Tag am stürmischen Aberavon Strand beenden.",
+            "hu": "Élvezze a walesi tájat kényelmesen, az autójából. A reggel a Pen-y-Castellhez vezet, ahol szárazon élvezheti a kilátást. Délben az Afan Erdőpark misztikus erdei látványt nyújt a vizes szélvédőn keresztül. A Margam Vidéki Park és a kastély tökéletesen felfedezhető a záporok közötti rövid sétákkal. Délután a Tata acélművek lenyűgözőek az esőben, mielőtt a napot a viharos Aberavon strandon zárná.",
+            "ro": "Bucurați-vă de peisajul galez din confortul mașinii dumneavoastră. Dimineața vă duce la Pen-y-Castell, unde admirați priveliștea la uscat. La prânz, Parcul Forestier Afan oferă vederi mistice ale pădurii prin parbrizul plouat. Parcul Margam și castelul pot fi explorate perfect cu scurte plimbări între averse. După-amiaza, oțelăria Tata impresionează în ploaie, înainte de a încheia ziua pe plaja furtunoasă Aberavon.",
+            "en": "Enjoy the Welsh landscape comfortably from your car. The morning leads to Pen-y-Castell, where you can enjoy the view while staying dry. At midday, Afan Forest Park offers mystical forest views through the rain-streaked windshield. Margam Country Park and the castle are perfect to explore with short walks between showers. In the afternoon, the Tata Steelworks are impressive in the rain before you end the day at stormy Aberavon Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pen-y-Castell Eisenzeithügelfestung",
+                "hu": "Pen-y-Castell Vaskori Erőd",
+                "ro": "Fortăreața Pen-y-Castell",
+                "en": "Pen-y-Castell Iron Age Hill Fort"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem Aussichtspunkt und beobachten Sie, wie die Regenfronten über das Tal ziehen, ohne nass zu werden.",
+                "hu": "Parkoljon le egy kilátóponton, és nézze meg, hogyan vonulnak át az esőfrontok a völgy felett anélkül, hogy elázna.",
+                "ro": "Parcați la un punct de belvedere și observați cum fronturile de ploaie trec peste vale, fără a vă uda.",
+                "en": "Park at a viewpoint and watch the rain fronts sweep across the valley without getting wet yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Afan Waldpark",
+                "hu": "Afan Erdőpark",
+                "ro": "Parcul Forestier Afan",
+                "en": "Afan Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Waldstraßen für eine Panoramafahrt; das dichte Blätterdach dämpft den Regen und erzeugt eine ganz besondere Akustik.",
+                "hu": "Használja az erdei utakat egy panoráma-autózáshoz; a sűrű lombkorona tompítja az esőt és különleges akusztikát teremt.",
+                "ro": "Folosiți drumurile forestiere pentru o plimbare panoramică; coronamentul des al copacilor amortizează ploaia și creează o acustică specială.",
+                "en": "Use the forest roads for a scenic drive; the dense canopy muffles the rain and creates a very special acoustic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Margam Landschaftspark",
+                "hu": "Margam Vidéki Park",
+                "ro": "Parcul Margam",
+                "en": "Margam Country Park"
+              },
+              "tip_5lang": {
+                "de": "Der Park verfügt über gute Parkmöglichkeiten nah an den Sehenswürdigkeiten, sodass Sie nur kurze Strecken durch den Regen laufen müssen.",
+                "hu": "A park jó parkolási lehetőségekkel rendelkezik a látnivalók közelében, így csak rövid távokat kell megtennie az esőben.",
+                "ro": "Parcul dispune de locuri de parcare bune aproape de obiective, astfel încât va trebui să mergeți doar distanțe scurte prin ploaie.",
+                "en": "The park has good parking facilities close to the main attractions, so you only have to walk short distances through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Margam Schloss",
+                "hu": "Margam Kastély",
+                "ro": "Castelul Margam",
+                "en": "Margam Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Innere des Schlosses bietet eine großartige Schlechtwetter-Alternative mit viel Platz zum Erkunden der historischen Architektur.",
+                "hu": "A kastély belseje remek alternatíva rossz idő esetén, bőséges helyet kínálva a történelmi építészet felfedezéséhez.",
+                "ro": "Interiorul castelului oferă o alternativă excelentă pentru vreme rea, cu mult spațiu pentru explorarea arhitecturii istorice.",
+                "en": "The interior of the castle offers a great bad-weather alternative with plenty of space to explore the historic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Tata Stahlwerke",
+                "hu": "Tata Acélművek",
+                "ro": "Oțelăria Tata",
+                "en": "Tata Steelworks"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entlang der Umzäunung; die gigantischen Dimensionen der Werke sind im grauen Regenlicht besonders beeindruckend und fotogen.",
+                "hu": "Hajtson el a kerítés mentén; a művek gigantikus méretei a szürke esőben különösen lenyűgözőek és fotogének.",
+                "ro": "Conduceți de-a lungul împrejmuirii; dimensiunile gigantice ale uzinei sunt deosebit de impresionante și fotogenice în lumina gri de ploaie.",
+                "en": "Drive along the perimeter; the gigantic dimensions of the works are particularly impressive and photogenic in the grey rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberavon Strand",
+                "hu": "Aberavon Strand",
+                "ro": "Plaja Aberavon",
+                "en": "Aberavon Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade und genießen Sie das Schauspiel der Brandung gemütlich vom beheizten Auto aus.",
+                "hu": "Parkoljon le közvetlenül a sétány mellett, és élvezze a hullámtörés látványát kényelmesen, a fűtött autóból.",
+                "ro": "Parcați direct pe promenadă și bucurați-vă de spectacolul valurilor confortabil, din mașina încălzită.",
+                "en": "Park directly on the promenade and enjoy the spectacle of the surf comfortably from your heated car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Port Talbot verspricht klare Ausblicke und wohlige Autofahrten. Am Morgen geht es zum Pen-y-Castell für einen frostigen Panoramablick. Mittags bietet der Afan Forest Park die Stille des Winters. Der Margam Country Park und das Schloss zeigen sich am Nachmittag von ihrer majestätischen, kühlen Seite. Beobachten Sie die Tata Steelworks im tiefstehenden Sonnenlicht, bevor Sie den Sonnenuntergang um 17:00 Uhr am Aberavon Strand erleben.",
+            "hu": "Egy téli autózás Port Talbotban tiszta kilátást és kellemes utazást ígér. Reggel irány a Pen-y-Castell a fagyos panorámáért. Délben az Afan Erdőpark a tél csendjét kínálja. A Margam Vidéki Park és a kastély délután fenséges, hűvös arcát mutatja. Figyelje meg a Tata acélműveket az alacsonyan járó napfényben, mielőtt 17:00-kor átélné a naplementét az Aberavon strandon.",
+            "ro": "O plimbare de iarnă cu mașina prin Port Talbot promite vederi clare și călătorii confortabile. Dimineața mergeți la Pen-y-Castell pentru o panoramă geroasă. La prânz, Parcul Forestier Afan oferă liniștea iernii. Parcul Margam și castelul își arată după-amiaza latura maiestuoasă și rece. Observați oțelăria Tata în lumina soarelui de iarnă, înainte de a vedea apusul la ora 17:00 pe plaja Aberavon.",
+            "en": "A winter drive through Port Talbot promises clear views and cozy travel. In the morning, head to Pen-y-Castell for a frosty panoramic view. At midday, Afan Forest Park offers the silence of winter. Margam Country Park and the castle show their majestic, cool side in the afternoon. Observe the Tata Steelworks in the low winter sun before experiencing the 17:00 sunset at Aberavon Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pen-y-Castell Eisenzeithügelfestung",
+                "hu": "Pen-y-Castell Vaskori Erőd",
+                "ro": "Fortăreața Pen-y-Castell",
+                "en": "Pen-y-Castell Iron Age Hill Fort"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Wetterbericht auf Bodenfrost; die schmalen Zufahrtswege können im Winter morgens stellenweise glatt sein.",
+                "hu": "Ellenőrizze az időjárás-jelentést a talajmenti fagy miatt; a keskeny bekötőutak télen reggelente helyenként csúszósak lehetnek.",
+                "ro": "Verificați prognoza meteo pentru îngheț la sol; drumurile înguste de acces pot fi alunecoase pe alocuri în diminețile de iarnă.",
+                "en": "Check the weather report for ground frost; the narrow access roads can be slippery in places during winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Afan Waldpark",
+                "hu": "Afan Erdőpark",
+                "ro": "Parcul Forestier Afan",
+                "en": "Afan Forest Park"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke durch die kahlen Bäume, die im Sommer oft verborgen bleiben.",
+                "hu": "A tiszta téli levegő lehetővé teszi a messzi kilátást a kopár fák között, ami nyáron gyakran rejtve marad.",
+                "ro": "Aerul clar de iarnă permite vederi lungi printre copacii golași, care vara rămân adesea ascunse.",
+                "en": "The clear winter air allows for distant views through the bare trees that often remain hidden behind foliage in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Margam Landschaftspark",
+                "hu": "Margam Vidéki Park",
+                "ro": "Parcul Margam",
+                "en": "Margam Country Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Rotwild im Park, das im Winter oft tiefer in die Ebenen kommt und im kargen Gelände leichter zu entdecken ist.",
+                "hu": "Figyeljen a parkban élő gímszarvasokra, melyek télen gyakran lejjebb húzódnak a síkságokra és könnyebben észrevehetők.",
+                "ro": "Fiți atenți la cerbii din parc, care iarna coboară adesea în zonele joase și sunt mai ușor de observat în terenul golaș.",
+                "en": "Look out for the red deer in the park, which often come down to lower ground in winter and are easier to spot in the sparse landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Margam Schloss",
+                "hu": "Margam Kastély",
+                "ro": "Castelul Margam",
+                "en": "Margam Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage schließt im Winter früher; planen Sie Ihren Besuch so, dass Sie das Schloss im letzten Tageslicht besichtigen können.",
+                "hu": "A létesítmény télen korábban zár; tervezze úgy a látogatását, hogy az utolsó nappali fényben nézhesse meg a kastélyt.",
+                "ro": "Complexul se închide mai devreme iarna; planificați-vă vizita astfel încât să puteți vedea castelul în ultima lumină a zilei.",
+                "en": "The site closes earlier in winter; plan your visit so that you can view the castle in the last natural light of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Tata Stahlwerke",
+                "hu": "Tata Acélművek",
+                "ro": "Oțelăria Tata",
+                "en": "Tata Steelworks"
+              },
+              "tip_5lang": {
+                "de": "Bei Minusgraden bilden die Emissionen der Werke spektakuläre Eiskristalle an den Zäunen in der Nähe – ein faszinierendes Fotomotiv.",
+                "hu": "Mínuszok esetén a művek kibocsátása látványos jégkristályokat képez a közeli kerítéseken – lenyűgöző fotótéma.",
+                "ro": "La temperaturi sub zero grade, emisiile uzinei formează cristale spectaculoase de gheață pe gardurile din apropiere – un motiv foto fascinant.",
+                "en": "In freezing temperatures, the factory's emissions form spectacular ice crystals on nearby fences – a fascinating photo motif."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberavon Strand",
+                "hu": "Aberavon Strand",
+                "ro": "Plaja Aberavon",
+                "en": "Aberavon Beach"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie einen sehr frühen Sonnenuntergang um 17:00 Uhr; die Lichtstimmung am winterlichen Horizont ist jedoch oft besonders farbenfroh.",
+                "hu": "Készüljön fel a nagyon korai, 17:00-as naplementére; a téli horizont fényei azonban gyakran különösen színesek és szépek.",
+                "ro": "Așteptați-vă la un apus foarte timpuriu la ora 17:00; atmosfera luminoasă la orizontul hibernal este însă adesea deosebit de colorată.",
+                "en": "Expect a very early sunset at 17:00; however, the light atmosphere on the winter horizon is often particularly colorful and vivid."
+              }
+            }
+          ]
+        }
       }
     }
   }

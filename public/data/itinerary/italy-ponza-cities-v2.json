@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a nyüzsgő kikötő melletti strand felfedezésével. Délben meneküljön a hőség elől Ponza lenyűgöző földalatti római ciszternáinak mélyére. Délután kövesse a sziget partvédelmi vonalát az ikonikus Bourbon-torony felé. Az este egy gyönyörű, romantikus sétával ér véget a keleti világítótornyok irányába, megcsodálva a Földközi-tenger feletti lélegzetelállító naplementét.",
         "ro": "Începeți dimineața explorând zona plajei animate de lângă port. La prânz, scăpați de căldură coborând în fascinantele cisterne romane subterane din Ponza. După-amiaza, descoperiți apărarea de coastă a insulei spre iconicul turn Bourbon. Seara se încheie frumos cu o plimbare romantică spre farurile din est, admirând apusul spectaculos al soarelui deasupra Mării Mediterane.",
         "en": "Start your morning exploring the lively beach area near the bustling port. By midday, escape the heat by delving deep into Ponza's fascinating underground Roman cisterns. In the afternoon, trace the island's coastal defenses towards the iconic Bourbon tower. Your evening ends beautifully with a romantic stroll toward the eastern lighthouses, taking in the spectacular Mediterranean sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie den Regen am Strand von Sant'Antonio. Mittags bieten die antiken Zisternen einen perfekten, trockenen Zufluchtsort unter der Erde. Am Nachmittag führt der Weg zur Torre Borbonica, wo die grauen Wolken über dem Meer eine dramatische Kulisse bilden. Den Abend verbringen Sie am Faro di Punta Madonna, während der Wind und die Gischt der Wellen eine raue Atmosphäre schaffen.",
+            "hu": "A reggelt a Sant'Antonio strand eső áztatta homokján kezdjük. Délben a Dragonara és a Corridoio ciszternei nyújtanak tökéletes, száraz menedéket a felszín alatt. Délután a Torre Borbonica felé vesszük az irányt, ahol a szürke felhők drámai keretet adnak a kikötőnek. Az estét a világítótornyoknál zárjuk, figyelve a tenger morajlását az esernyőnk alól, miközben a szél friss sós illatot hoz.",
+            "ro": "Dimineața începe cu ploaia pe plaja Sant'Antonio. La prânz, cisternele antice oferă un refugiu subteran perfect uscat. După-amiaza, drumul spre Torre Borbonica dezvăluie un peisaj dramatic sub norii cenușii. Seara se încheie la farul de la Punta Madonna, unde sunetul ploii se împletește cu cel al valurilor, creând o atmosferă melancolică și autentică, departe de agitația verii.",
+            "en": "Morning starts with rain on the sands of Sant'Antonio. By midday, the ancient cisterns provide a perfect dry shelter underground. In the afternoon, the walk to the Bourbon Tower offers dramatic views of the grey sky over the harbor. The evening concludes at the Punta Madonna lighthouse, where the wind and sea spray create a raw, powerful atmosphere as the storm passes over the island."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Sant'Antonio",
+                "hu": "Spiaggia di Sant'Antonio",
+                "ro": "Spiaggia di Sant'Antonio",
+                "en": "Spiaggia di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des leeren Strandes im Regen; tragen Sie wasserfeste Schuhe, da der Sand sehr nass und schwer passierbar sein kann.",
+                "hu": "Élvezze az üres tengerpart nyugalmát esőben; viseljen vízálló cipőt, mert a vizes homok mély és nehezen járható ilyenkor.",
+                "ro": "Bucurați-vă de liniștea plajei pustii pe ploaie; purtați încălțăminte impermeabilă, deoarece nisipul ud poate fi foarte greu de parcurs.",
+                "en": "Enjoy the peace of the empty beach in the rain; wear waterproof shoes as the wet sand can be heavy and difficult to walk on."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna della Dragonara",
+                "hu": "Cisterna della Dragonara",
+                "ro": "Cisterna della Dragonara",
+                "en": "Cisterna della Dragonara"
+              },
+              "tip_5lang": {
+                "de": "Diese antike römische Zisterne ist der ideale Ort, um dem Regen zu entfliehen; die unterirdischen Gänge bleiben auch bei Unwetter völlig trocken.",
+                "hu": "Ez az ókori római ciszterna ideális hely az eső elől; a föld alatti járatok még a legnagyobb felhőszakadás idején is teljesen szárazak maradnak.",
+                "ro": "Această cisternă romană antică este locul ideal pentru a scăpa de ploaie; galeriile subterane rămân complet uscate chiar și în timpul furtunii.",
+                "en": "This ancient Roman cistern is the ideal place to escape the rain; the underground galleries remain completely dry even during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna del Corridoio",
+                "hu": "Cisterna del Corridoio",
+                "ro": "Cisterna del Corridoio",
+                "en": "Cisterna del Corridoio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ingenieurskunst im Schutz der Höhle; ein Schirm ist nur für den kurzen Weg zwischen den Eingängen der Zisterne notwendig.",
+                "hu": "Csodálja meg a mérnöki tudást a barlang védelmében; ernyőre csak a ciszterna bejáratai közötti rövid szakaszon lesz szüksége.",
+                "ro": "Admirați ingineria antică la adăpostul peșterii; o umbrelă este necesară doar pentru drumul scurt dintre intrările cisternei.",
+                "en": "Admire the ancient engineering under the shelter of the cave; an umbrella is only needed for the short path between the cistern entrances."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Borbonica",
+                "hu": "Torre Borbonica",
+                "ro": "Torre Borbonica",
+                "en": "Torre Borbonica"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet Schutz vor Wind, aber die Stufen können bei Nässe rutschig sein; halten Sie sich am Geländer fest und gehen Sie langsam.",
+                "hu": "A torony védelmet nyújt a szél ellen, de a lépcsők vizesen csúszósak lehetnek; kapaszkodjon a korlátba és haladjon óvatosan.",
+                "ro": "Turnul oferă protecție împotriva vântului, dar treptele pot fi alunecoase când sunt ude; folosiți balustrada și urcați cu atenție.",
+                "en": "The tower provides shelter from the wind, but the steps can be slippery when wet; use the handrail and take your time climbing up."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro rosso",
+                "hu": "Faro rosso",
+                "ro": "Faro rosso",
+                "en": "Faro rosso"
+              },
+              "tip_5lang": {
+                "de": "Die rote Farbe leuchtet besonders intensiv gegen den grauen Himmel; ein tolles Fotomotiv, wenn Sie Ihre Kamera vor dem Regen schützen.",
+                "hu": "A vörös szín intenzíven ragyog a szürke égbolt előtt; remek fotótéma, ha megfelelően védi a fényképezőgépét az esőcseppektől.",
+                "ro": "Culoarea roșie strălucește intens pe fundalul cerului cenușiu; este un subiect foto excelent dacă vă protejați camera de ploaie.",
+                "en": "The red color glows intensely against the grey sky; it is a great photo subject if you protect your camera from the raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Madonna",
+                "hu": "Faro di Punta Madonna",
+                "ro": "Faro di Punta Madonna",
+                "en": "Faro di Punta Madonna"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue See am Kap; tragen Sie eine windfeste Regenjacke, da die Böen hier direkt vom offenen Meer herüberpeitschen.",
+                "hu": "Tapasztalja meg a viharos tengert a foknál; viseljen szélálló esőkabátot, mert a széllökések itt közvetlenül a nyílt tenger felől érkeznek.",
+                "ro": "Experimentați marea agitată la promontoriu; purtați o jachetă de ploaie rezistentă la vânt, deoarece rafalele vin direct dinspre larg.",
+                "en": "Experience the rough sea at the cape; wear a windproof raincoat, as the gusts here come directly from the open Mediterranean sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Ponza ist klar und erfrischend. Ein einsamer Spaziergang am Sant'Antonio-Strand offenbart die stille Schönheit der Insel. Mittags erkunden Sie die Zisternen, deren konstante Temperatur angenehmer ist als die kühle Außenluft. Am Nachmittag genießen Sie das klare Winterlicht an der Torre Borbonica. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen Sie die Leuchttürme rechtzeitig zum Abendrot.",
+            "hu": "A téli reggel Ponzán tiszta és frissítő. Egy magányos séta a Sant'Antonio strandon feltárja a sziget csendes arcát. Délben a ciszternek látogatása ajánlott, ahol a hőmérséklet állandó és kellemes. Délután a Torre Borbonica környékén élvezhetjük a súroló téli fényeket. Mivel a nap már 17:00 körül lemegy, a világítótornyokhoz pont a legszebb alkonyi színekben érkezünk meg.",
+            "ro": "Dimineața de iarnă în Ponza este clară și revigorantă. O plimbare solitară pe plaja Sant'Antonio dezvăluie frumusețea tăcută a insulei. La prânz, vizitarea cisternelor este ideală, temperatura interioară fiind constantă și plăcută. După-amiaza, bucurați-vă de lumina clară de iarnă la Torre Borbonica. Deoarece soarele apune în jur de ora 17:00, veți ajunge la faruri exact la timp pentru amurg.",
+            "en": "Winter mornings in Ponza are crisp and refreshing. A solitary walk on Sant'Antonio beach reveals the island's quiet beauty. At midday, explore the cisterns where the temperature remains constant and milder than the outside air. In the afternoon, enjoy the sharp winter light at the Bourbon Tower. Since the sun sets around 17:00, you will reach the lighthouses just in time for the evening glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Sant'Antonio",
+                "hu": "Spiaggia di Sant'Antonio",
+                "ro": "Spiaggia di Sant'Antonio",
+                "en": "Spiaggia di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille ohne Touristen; ziehen Sie sich warm an, da der Wind vom Meer im Winter sehr kühl wehen kann.",
+                "hu": "Élvezze a teljes csendet turisták nélkül; öltözzön rétegesen, mert a tenger felől fújó szél télen igen metsző lehet.",
+                "ro": "Bucurați-vă de liniștea deplină fără turiști; îmbrăcați-vă gros, deoarece vântul dinspre mare poate fi foarte rece în timpul iernii.",
+                "en": "Enjoy the absolute silence without tourists; dress warmly as the wind from the sea can be very chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna della Dragonara",
+                "hu": "Cisterna della Dragonara",
+                "ro": "Cisterna della Dragonara",
+                "en": "Cisterna della Dragonara"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Anlage bietet Schutz vor dem kalten Wind; im Winter ist die Luftfeuchtigkeit hier oft geringer als im Sommer.",
+                "hu": "A föld alatti komplexum védelmet nyújt a hideg szél elől; télen a páratartalom itt gyakran alacsonyabb, mint a nyári hőségben.",
+                "ro": "Complexul subteran oferă protecție împotriva vântului rece; iarna, umiditatea interioară este adesea mai scăzută decât în timpul verii.",
+                "en": "The underground complex offers protection from the cold wind; in winter, the humidity here is often lower than during the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna del Corridoio",
+                "hu": "Cisterna del Corridoio",
+                "ro": "Cisterna del Corridoio",
+                "en": "Cisterna del Corridoio"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung ohne Warteschlangen; nutzen Sie die frühen Morgenstunden, um die Details der antiken Wände zu sehen.",
+                "hu": "Nyugodt hely az elmélkedésre sorban állás nélkül; használja ki a délelőtti órákat az ókori falak részleteinek megfigyelésére.",
+                "ro": "Un loc liniștit pentru reflecție, fără cozi; profitați de orele dimineții pentru a observa detaliile pereților antici în tăcere.",
+                "en": "A peaceful place for reflection without any queues; take advantage of the morning hours to see the details of the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Borbonica",
+                "hu": "Torre Borbonica",
+                "ro": "Torre Borbonica",
+                "en": "Torre Borbonica"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter bei klarer Luft oft viel besser; mit etwas Glück können Sie andere Inseln am Horizont erkennen.",
+                "hu": "A látótávolság télen, a tiszta levegőben gyakran sokkal jobb; kis szerencsével távoli szigeteket is felfedezhet a horizonton.",
+                "ro": "Vizibilitatea este adesea mult mai bună iarna datorită aerului curat; cu puțin noroc, puteți vedea alte insule la orizont.",
+                "en": "Visibility is often much better in winter due to the crisp air; with a bit of luck, you can spot distant islands on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro rosso",
+                "hu": "Faro rosso",
+                "ro": "Faro rosso",
+                "en": "Faro rosso"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Leuchtturm vor Sonnenuntergang (ca. 16:30); das tiefstehende Licht betont die Konturen des Hafens wunderschön.",
+                "hu": "Látogasson el ide naplemente előtt (kb. 16:30); az alacsonyan járó nap gyönyörűen kiemeli a kikötő körvonalait.",
+                "ro": "Vizitați farul înainte de apus (aprox. 16:30); lumina joasă a soarelui subliniază superb contururile portului în culori calde.",
+                "en": "Visit the lighthouse before sunset (approx. 16:30); the low sun beautifully emphasizes the outlines of the harbor's landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Madonna",
+                "hu": "Faro di Punta Madonna",
+                "ro": "Faro di Punta Madonna",
+                "en": "Faro di Punta Madonna"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Taschenlampe für den Rückweg mit; nach dem frühen Sonnenuntergang wird es auf den unbeleuchteten Pfaden schnell dunkel.",
+                "hu": "Hozzon magával zseblámpát a visszaúthoz; a korai naplemente után a kivilágítatlan ösvényeken gyorsan besötétedik.",
+                "ro": "Aduceți o lanternă pentru drumul de întoarcere; după apusul devreme, se întunecă rapid pe potecile neiluminate ale insulei.",
+                "en": "Bring a flashlight for the return trip; after the early sunset, it gets dark very quickly on the island's unlit coastal paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Indítsa kerékpártúráját az északi csendes utcákon egy bájos plébániatemplomnál. Később tekerjen a történelmi halottak öbléhez és a kikötői strandhoz. A délutánt a Chiaia di Luna lenyűgöző szikláinak szenteljük. Fejezze be kalandos útját a déli meredek utak meghódításával, és érjen fel a történelmi szemaforállomáshoz az epikus esti kilátásért.",
         "ro": "Începeți turul cu bicicleta pe străzile nordice liniștite la o biserică parohială fermecătoare. Pe parcursul zilei, pedalați spre golful istoric și plaja principală. După-amiaza este rezervată navigării spre stâncile uluitoare de la Chiaia di Luna. Încheiați cursa aventuroasă urcând drumurile abrupte sudice până la stația de semafor pentru vederi epice la amurg.",
         "en": "Kick off your cycling tour in the serene northern streets at a charming parish church. As the day warms up, pedal to the historic cove of the dead before reaching the main harbor beach. The afternoon is reserved for navigating toward the awe-inspiring cliffs of Chiaia di Luna. End your adventurous ride by conquering the steep southern roads up to the historic semaphore station for epic twilight views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Pflastersteinen von Ponza. Morgens besuchen Sie die Kirche San Giuseppe für einen trockenen Moment. Mittags führt die Fahrt zur Marinella, wo der Weg matschig sein kann. Am Nachmittag erreichen Sie Chiaia di Luna, deren Klippen im Regen besonders imposant wirken. Den Tag beenden Sie am Semaforo, wo der Ausblick auf das stürmische Meer trotz Nässe unvergesslich bleibt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Ponza köves útjain. Reggel látogassa meg a San Giuseppe templomot egy száraz pihenőre. Délben a Marinella felé tekerünk, ahol az út saras lehet. Délután érjük el a Chiaia di Luna kilátópontot, melynek sziklái esőben még monumentálisabbak. A napot a Semaforo-nál zárjuk, ahol a viharos tenger látványa a vizes út ellenére is felejthetetlen.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile pavate din Ponza. Dimineața vizitați biserica San Giuseppe pentru un moment de liniște uscată. La prânz, drumul spre Marinella poate fi noroios, deci pedalați cu atenție. După-amiaza ajungeți la Chiaia di Luna, unde faleza pare și mai impunătoare în ploaie. Încheiați ziua la Semaforo, cu o priveliște spectaculoasă asupra mării învolburate.",
+            "en": "Cycling in the rain requires caution on Ponza's stone roads. In the morning, visit San Giuseppe church for a dry break. At midday, the ride to Marinella might be muddy, so pedal carefully. In the afternoon, reach Chiaia di Luna, whose cliffs look even more imposing in the rain. End your day at the Semaforo, where the view of the stormy sea remains unforgettable despite the wet conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab; das Innere der Kirche ist ein friedlicher Ort, um auf das Ende eines Regenschauers zu warten.",
+                "hu": "Parkolja le a biciklit az előtető alatt; a templom belseje békés hely, ahol megvárhatja egy-egy rövidebb esőfelhő elvonulását.",
+                "ro": "Parcați bicicleta sub streașină; interiorul bisericii este un loc liniștit unde puteți aștepta trecerea unei reprize scurte de ploaie.",
+                "en": "Park your bike under the overhang; the church interior is a peaceful place to wait for a short rain shower to pass over."
+              }
+            },
+            {
+              "name": {
+                "de": "La marinella dei morti",
+                "hu": "La marinella dei morti",
+                "ro": "La marinella dei morti",
+                "en": "La marinella dei morti"
+              },
+              "tip_5lang": {
+                "de": "Der Weg kann rutschig und matschig sein; bremsen Sie frühzeitig und achten Sie auf Pfützen, die tiefe Löcher verbergen könnten.",
+                "hu": "Az út csúszós és saras lehet; fékezzen időben és ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek a kerékpárosok elől.",
+                "ro": "Drumul poate fi alunecos și noroios; frânați din timp și aveți grijă la bălți, deoarece pot ascunde gropi adânci pe traseu.",
+                "en": "The path can be slippery and muddy; brake early and watch out for puddles that might hide deep potholes along the track."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sant'Antonio",
+                "hu": "Spiaggia di Sant'Antonio",
+                "ro": "Spiaggia di Sant'Antonio",
+                "en": "Spiaggia di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Abschnitte sind glatt bei Nässe; vermeiden Sie plötzliche Lenkbewegungen und genießen Sie den Blick auf die grauen Wellen.",
+                "hu": "Az aszfaltozott szakaszok vizesen tükörsimák; kerülje a hirtelen kormánymozdulatokat és élvezze a szürke hullámok látványát.",
+                "ro": "Secțiunile asfaltate sunt foarte alunecoase când sunt ude; evitați mișcările bruște de ghidon și admirați valurile cenușii.",
+                "en": "The paved sections are slick when wet; avoid sudden steering movements and enjoy the view of the grey waves from the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiaia di Luna",
+                "hu": "Chiaia di Luna",
+                "ro": "Chiaia di Luna",
+                "en": "Chiaia di Luna"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine gute Regenbrille gegen den spritzenden Matsch; die Aussicht auf die Bucht ist auch bei grauem Himmel atemberaubend.",
+                "hu": "Viseljen jó szemüveget a felcsapódó sár ellen; az öböl látványa még szürke égbolt mellett is lélegzetelállító és monumentális.",
+                "ro": "Purtați ochelari de protecție împotriva noroiului împroșcat; vederea asupra golfului este uluitoare chiar și sub un cer cenușiu.",
+                "en": "Wear good eyewear against splashing mud; the view of the bay is breathtaking and monumental even under a grey, overcast sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo",
+                "hu": "Semaforo",
+                "ro": "Semaforo",
+                "en": "Semaforo"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt im Regen erfordert volle Konzentration; prüfen Sie Ihre Bremsen, bevor Sie den Rückweg in den Ort antreten.",
+                "hu": "A leereszkedés esőben teljes koncentrációt igényel; ellenőrizze a fékeket, mielőtt elindulna vissza a városközpont irányába.",
+                "ro": "Coborârea în ploaie necesită concentrare maximă; verificați frânele înainte de a porni înapoi spre centrul orașului.",
+                "en": "The descent in the rain requires full concentration; check your brakes thoroughly before heading back towards the town center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour bietet klare Luft und leere Straßen. Morgens ist es in der Kirche San Giuseppe angenehm ruhig. Die Fahrt zur Marinella ist bei kühleren Temperaturen weniger anstrengend als im Sommer. Mittags erreichen Sie Sant'Antonio, wo die Wintersonne auf dem Wasser glitzert. Am Nachmittag genießen Sie die Einsamkeit an der Chiaia di Luna und erreichen den Semaforo kurz vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli biciklitúra tiszta levegőt és üres utakat kínál. Reggel a San Giuseppe templom kellemesen csendes. A Marinella felé vezető út a hűvösebb időben kevésbé fárasztó, mint a nyári hőségben. Délben a Sant'Antonio strandon csodálhatjuk a vízen csillogó téli napot. Délután élvezzük a magányt Chiaia di Luna szikláinál, majd érjük el a Semaforo-t a korai, 17:00-s naplemente előtt.",
+            "ro": "O tură cu bicicleta iarna oferă aer curat și drumuri libere. Dimineața, biserica San Giuseppe este plăcut de liniștită. Drumul spre Marinella este mai puțin obositor la temperaturi scăzute decât în căldura verii. La prânz, la Sant'Antonio, soarele de iarnă sclipește pe apă. După-amiaza, bucurați-vă de singurătate la Chiaia di Luna și ajungeți la Semaforo înainte de apusul de la ora 17:00.",
+            "en": "A winter bike tour offers crisp air and empty roads. In the morning, San Giuseppe church is pleasantly quiet. The ride to Marinella is less tiring in cooler temperatures than in the summer heat. At midday, enjoy the winter sun glittering on the water at Sant'Antonio. In the afternoon, relish the solitude at Chiaia di Luna and reach the Semaforo just before the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Inneren auf; im Winter sind die Kirchen oft die gemütlichsten Orte für eine kurze Verschnaufpause.",
+                "hu": "Melegedjen fel egy kicsit bent; télen a templomok gyakran a legbarátságosabb helyek egy rövid kerékpáros pihenőhöz.",
+                "ro": "Încălziți-vă puțin în interior; iarna, bisericile sunt adesea cele mai primitoare locuri pentru o scurtă pauză de pedalat.",
+                "en": "Warm up for a moment inside; in winter, churches are often the most welcoming places for a short cycling breather."
+              }
+            },
+            {
+              "name": {
+                "de": "La marinella dei morti",
+                "hu": "La marinella dei morti",
+                "ro": "La marinella dei morti",
+                "en": "La marinella dei morti"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; der kalte Fahrtwind bergab kann die Finger schnell auskühlen lassen, was das Bremsen erschwert.",
+                "hu": "Viseljen kesztyűt; a lejtőn szembe fújó hideg szél gyorsan lehűtheti az ujjait, ami nehezítheti a fékezést.",
+                "ro": "Purtați mănuși; vântul rece la coborâre vă poate îngheța rapid degetele, ceea ce face frânarea mai dificilă.",
+                "en": "Wear gloves; the cold wind on descents can quickly chill your fingers, making it harder to operate the brakes effectively."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sant'Antonio",
+                "hu": "Spiaggia di Sant'Antonio",
+                "ro": "Spiaggia di Sant'Antonio",
+                "en": "Spiaggia di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Radfahren; bringen Sie eine Sonnenbrille mit, um die Sicht auf den Hafen zu genießen.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat biciklizés közben; hozzon napszemüveget, hogy élvezhesse a kikötő látványát.",
+                "ro": "Soarele de iarnă este jos și vă poate orbi în timp ce pedalați; aduceți ochelari de soare pentru a vedea clar portul.",
+                "en": "The winter sun is low and can be blinding while cycling; bring sunglasses to enjoy the clear views of the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiaia di Luna",
+                "hu": "Chiaia di Luna",
+                "ro": "Chiaia di Luna",
+                "en": "Chiaia di Luna"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise an den Klippen ist erfrischend; ein Thermosbecher mit warmem Tee im Rucksack macht die Pause hier perfekt.",
+                "hu": "A szikláknál fújó hűvös szellő frissítő; egy termosz meleg tea a hátizsákban tökéletessé teszi az itt töltött pihenőt.",
+                "ro": "Briza rece de la stânci este revigorantă; un termos cu ceai cald în rucsac va face pauza de aici absolut perfectă.",
+                "en": "The cool breeze at the cliffs is refreshing; a thermos of warm tea in your backpack will make the break here perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo",
+                "hu": "Semaforo",
+                "ro": "Semaforo",
+                "en": "Semaforo"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Rückweg vor 16:45 Uhr; ohne Straßenlaternen wird es auf den Serpentinen nach Sonnenuntergang sehr schnell stockfinster.",
+                "hu": "Induljon vissza 16:45 előtt; utcai lámpák hiányában a szerpentineken naplemente után pillanatok alatt koromsötét lesz.",
+                "ro": "Porniți înapoi înainte de ora 16:45; în lipsa iluminatului stradal, pe serpentine se face beznă imediat după apus.",
+                "en": "Start your return trip before 16:45; without streetlights, the winding roads get pitch black immediately after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Az autózás panorámás kilátással kezdődik a látványos északi sziklákra. A délidő katonai romok és békés szigeti templomok keverékét hozza, távol a turisták zajától. Délután visszaindul a városközpont felé, hogy felfedezze a lenyűgöző római mérnöki munkát. Végül parkoljon le a fenséges nyugati sziklák közelében, hogy végignézze, ahogy a nap az óceán horizontja alá bukik.",
         "ro": "Călătoria cu mașina începe cu o priveliște panoramică asupra stâncilor spectaculoase din nord. Prânzul aduce un mix de ruine militare și biserici insulare pașnice. După-amiaza vă veți îndrepta spre centrul orașului pentru a explora remarcabila inginerie romană subterană. În cele din urmă, parcați lângă stâncile vestice maiestuoase pentru a privi soarele coborând sub orizont.",
         "en": "Your drive begins with panoramic vistas over the striking sea stacks in the north. Midday brings a mix of military ruins and peaceful island churches away from the tourist hubs. Throughout the afternoon, you will head back toward the town center to explore remarkable subterranean Roman engineering. Finally, park near the majestic western cliffs to watch the sun dip below the ocean horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto sind Sie auf Ponza bestens vor dem Regen geschützt. Morgens fahren Sie zur Spiaggia di Lucia Rosa und genießen den Blick auf die tosenden Wellen aus dem trockenen Innenraum. Mittags besuchen Sie das Fortino und die Kirche San Giuseppe. Die Cisterna della Dragonara bietet am Nachmittag einen faszinierenden unterirdischen Stopp. Den Abend verbringen Sie bei der Chiaia di Luna, wo die Felsen im Regen dunkel und geheimnisvoll leuchten.",
+            "hu": "Autóval Ponzán védve van az esőtől. Reggel hajtson el a Lucia Rosa strandhoz, és élvezze a morajló hullámok látványát a száraz utastérből. Délben látogassa meg a Fortino-t és a San Giuseppe templomot. A Dragonara ciszterna délután izgalmas föld alatti megállót kínál. Az estét a Chiaia di Luna-nál zárjuk, ahol a sziklák az esőben sötéten és titokzatosan ragyognak.",
+            "ro": "Cu mașina sunteți protejat de ploaie în Ponza. Dimineața conduceți spre plaja Lucia Rosa și admirați valurile învolburate din confortul mașinii. La prânz vizitați Fortino și biserica San Giuseppe. Cisternele Dragonara oferă după-amiaza o oprire subterană fascinantă. Încheiați ziua la Chiaia di Luna, unde stâncile par întunecate și misterioase sub picăturile de ploaie.",
+            "en": "In a car, you are well-protected from the rain in Ponza. In the morning, drive to Lucia Rosa beach and enjoy the view of the roaring waves from the dry interior. At midday, visit the Fortino and San Giuseppe church. The Dragonara cistern offers a fascinating underground stop in the afternoon. End your evening at Chiaia di Luna, where the cliffs glow dark and mysterious in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Lucia Rosa",
+                "hu": "Spiaggia di Lucia Rosa",
+                "ro": "Spiaggia di Lucia Rosa",
+                "en": "Spiaggia di Lucia Rosa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer vom Parkplatz aus; bei starkem Regen ist die Sicht auf die Faraglioni-Felsen besonders dramatisch und neblig.",
+                "hu": "Figyelje a tengert a parkolóból; erős esőben a Faraglioni-sziklák látványa különösen drámai és ködbe burkolózó.",
+                "ro": "Observați marea din parcare; în timpul ploii abundente, vederea stâncilor Faraglioni este deosebit de dramatică și cețoasă.",
+                "en": "Watch the sea from the parking lot; during heavy rain, the view of the Faraglioni rocks is particularly dramatic and misty."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortino",
+                "hu": "Fortino",
+                "ro": "Fortino",
+                "en": "Fortino"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zum Fortino können rutschig sein; tragen Sie Schuhe mit gutem Profil für den kurzen Gang vom Auto zu den Ruinen.",
+                "hu": "A Fortino-hoz vezető utak csúszósak lehetnek; viseljen jó tapadású cipőt az autótól a romokig tartó rövid sétához.",
+                "ro": "Potecile spre Fortino pot fi alunecoase; purtați încălțăminte cu aderență bună pentru scurta plimbare de la mașină la ruine.",
+                "en": "The paths to the Fortino can be slippery; wear shoes with good grip for the short walk from the car to the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um schnell ins Trockene zu kommen; das sanfte Trommeln des Regens auf dem Dach ist sehr beruhigend.",
+                "hu": "Használja a közeli parkolót, hogy gyorsan fedél alá érjen; az eső halk kopogása a templomtetőn nagyon megnyugtató élmény.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; sunetul ploii pe acoperișul bisericii este foarte relaxant.",
+                "en": "Use the nearby parking to get under cover quickly; the gentle sound of rain on the church roof is a very calming experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna della Dragonara",
+                "hu": "Cisterna della Dragonara",
+                "ro": "Cisterna della Dragonara",
+                "en": "Cisterna della Dragonara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Ort und nehmen Sie den kurzen Weg zur Zisterne; unter der Erde merken Sie nichts vom schlechten Wetter draußen.",
+                "hu": "Parkoljon a városban, és tegye meg a rövid utat a ciszternáig; a föld alatt semmit sem fog érezni a kinti rossz időből.",
+                "ro": "Parcați în oraș și parcurgeți drumul scurt până la cisternă; sub pământ nu veți simți deloc vremea rea de afară.",
+                "en": "Park in town and take the short walk to the cistern; underground, you won't feel anything of the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiaia di Luna",
+                "hu": "Chiaia di Luna",
+                "ro": "Chiaia di Luna",
+                "en": "Chiaia di Luna"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann Pfützen bilden; fahren Sie langsam und genießen Sie das Panorama der Bucht direkt durch die Windschutzscheibe.",
+                "hu": "A bekötőúton tócsák alakulhatnak ki; hajtson lassan, és élvezze az öböl panorámáját közvetlenül a szélvédőn keresztül.",
+                "ro": "Drumul de acces poate avea bălți; conduceți încet și bucurați-vă de panorama golfului direct prin parbrizul mașinii.",
+                "en": "The access road may have puddles; drive slowly and enjoy the panorama of the bay directly through the car's windshield."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist eine Autofahrt über die Insel Ponza besonders entspannend. Morgens fahren Sie zur Lucia Rosa Bucht, wo das Licht der tiefstehenden Sonne die Klippen vergoldet. Mittags erkunden Sie das Fortino und die Kirche San Giuseppe in aller Ruhe. Am Nachmittag bietet die Cisterna della Dragonara einen faszinierenden Einblick in die Geschichte. Beenden Sie den Tag an der Chiaia di Luna pünktlich zum Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Télen egy autós kirándulás Ponza szigetén különösen pihentető. Reggel hajtson el a Lucia Rosa öbölhöz, ahol az alacsonyan járó nap fénye aranyba vonja a sziklákat. Délben fedezze fel a Fortino-t és a San Giuseppe templomot teljes nyugalomban. Délután a Dragonara ciszterna kínál lenyűgöző betekintést a történelembe. Zárja a napot a Chiaia di Luna-nál, pontosan a 17:00-s naplementére érkezve.",
+            "ro": "Iarna, o plimbare cu mașina pe insula Ponza este deosebit de relaxantă. Dimineața conduceți spre golful Lucia Rosa, unde lumina soarelui jos auriește stâncile. La prânz, explorați Fortino și biserica San Giuseppe în deplină liniște. După-amiaza, cisternele Dragonara oferă o incursiune fascinantă în istorie. Încheiați ziua la Chiaia di Luna, exact la timp pentru apusul de la ora 17:00.",
+            "en": "In winter, a car trip across the island of Ponza is particularly relaxing. In the morning, drive to Lucia Rosa bay, where the low sun's light turns the cliffs golden. At midday, explore the Fortino and San Giuseppe church in total peace. In the afternoon, the Dragonara cistern offers a fascinating insight into history. End your day at Chiaia di Luna, arriving just in time for the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Lucia Rosa",
+                "hu": "Spiaggia di Lucia Rosa",
+                "ro": "Spiaggia di Lucia Rosa",
+                "en": "Spiaggia di Lucia Rosa"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sichtweiten bis zum Festland; im beheizten Auto lässt sich das Panorama am besten genießen.",
+                "hu": "A tiszta téli levegőben akár a szárazföldig is elláthat; a fűtött autóból élvezhető legjobban ez a tágas panoráma.",
+                "ro": "Aerul curat de iarnă permite vizibilitatea până la continent; panorama poate fi savurată cel mai bine din mașina încălzită.",
+                "en": "The clear winter air allows views all the way to the mainland; the panorama is best enjoyed from the warmth of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortino",
+                "hu": "Fortino",
+                "ro": "Fortino",
+                "en": "Fortino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Licht für Fotos der antiken Ruinen; im Winter sind Sie hier oft der einzige Besucher weit und breit.",
+                "hu": "Használja ki a lágy fényeket az ókori romok fotózásához; télen gyakran Ön lesz az egyetlen látogató messze s távol.",
+                "ro": "Profitați de lumina blândă pentru fotografii ale ruinelor antice; iarna, sunteți adesea singurul vizitator de pe tot traseul.",
+                "en": "Take advantage of the soft light for photos of the ancient ruins; in winter, you are often the only visitor far and wide."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parken ist im Winter im Zentrum kein Problem; besuchen Sie die Kirche, wenn das Licht durch die Fenster in den Raum fällt.",
+                "hu": "A parkolás télen a központban sem jelent problémát; látogassa meg a templomot, amikor a fény átszűrődik az ablakokon.",
+                "ro": "Parcarea nu este o problemă în centru în timpul iernii; vizitați biserica atunci când lumina pătrunde frumos prin ferestre.",
+                "en": "Parking is not a problem in the center during winter; visit the church when the low sun filters beautifully through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna della Dragonara",
+                "hu": "Cisterna della Dragonara",
+                "ro": "Cisterna della Dragonara",
+                "en": "Cisterna della Dragonara"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag; die konstante Temperatur unter Tage fühlt sich im Vergleich zur Winterluft warm an.",
+                "hu": "Ideális helyszín késő délutánra; a föld alatti állandó hőmérséklet a kinti téli levegőhöz képest kellemesen melegnek hat.",
+                "ro": "Un loc ideal pentru după-amiaza târzie; temperatura constantă subterană pare caldă în comparație cu aerul rece de iarnă.",
+                "en": "An ideal place for the late afternoon; the constant underground temperature feels warm compared to the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiaia di Luna",
+                "hu": "Chiaia di Luna",
+                "ro": "Chiaia di Luna",
+                "en": "Chiaia di Luna"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Aussichtspunkt für den Sonnenuntergang; nach 17:00 Uhr wird es auf der Insel sehr schnell kühl und dunkel.",
+                "hu": "Parkoljon közvetlenül a kilátópontnál a naplementéhez; 17:00 után a szigeten nagyon gyorsan lehűl a levegő és besötétedik.",
+                "ro": "Parcați direct la punctul de observație pentru apus; după ora 17:00, pe insulă se face rapid frig și se întunecă.",
+                "en": "Park directly at the viewpoint for the sunset; after 17:00, the island gets chilly and dark very quickly during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

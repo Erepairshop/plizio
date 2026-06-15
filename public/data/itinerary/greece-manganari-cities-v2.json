@@ -137,6 +137,168 @@
         "hu": "Ez a séta a festői Manganari templomnál kezdődik, mielőtt felfedezné a napsütötte homokos strandokat. Érezze a lágy szellőt, miközben az egyik csodálatos fürdőöbölből a másikba sétál. A kristálytiszta vízben töltött pihentető úszás után az út a part mentén halad tovább. A túra fénypontjaként megcsodálhatja a csodálatos Manganari-öböl széles és zavartalan, végtelen horizontba vesző panorámáját.",
         "ro": "Această plimbare începe la bisericuța pitorească, înainte de a explora superbele plaje însorite. Simțiți briza ușoară în timp ce mergeți pe jos de la un golf de înot la altul. După câteva ore de relaxare în apele cristaline, traseul continuă pur și simplu de-a lungul coastei stâncoase. Vă veți bucura în final de vederea amplă și netulburată asupra frumosului golf Manganari, o priveliște unică.",
         "en": "This walk begins at the picturesque little church before you start exploring the sun-drenched sandy beaches. Feel the gentle breeze as you wander from one gorgeous swimming cove to the next. After spending relaxing hours swimming in the crystal-clear water, the path continues along the coastline. The grand finale is the wide, undisturbed view of the stunning Manganari Bay in all its natural glory."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Kapelle, wo das Weiß der Mauern gegen den grauen Himmel leuchtet. Mittags bietet das Rauschen des Regens am Manganari-Strand eine melancholische Kulisse unter schützenden Vordächern. Nachmittags erkunden wir die felsige Küste bei Kremasto mit Vorsicht auf glatten Pfaden. Der Abend endet früh bei nachlassendem Licht und dem Duft von feuchter Erde in der salzigen Luft.",
+            "hu": "A reggel a kápolnánál indul, ahol a fehér falak élesen elválnak a szürke égtől. Délben a Manganari öbölben az eső kopogása ritmikus zenét ad a tajtékzó tenger mellé a tetők alatt. Délután a Kremasto és Khalara sziklái között keressünk szélvédett zugot, ügyelve a csúszós ösvényekre. Az este korán köszönt be, a vizes homok csillogása kísér minket vissza a szálláshoz a szürkületben.",
+            "ro": "Dimineața începe la capelă, unde albul zidurilor contrastează puternic cu cerul gri. La prânz, sunetul ploii pe plaja Manganari creează o atmosferă melancolică sub adăposturile improvizate. După-amiaza explorăm coasta stâncoasă la Kremasto, cu mare atenție la potecile alunecoase. Seara se încheie devreme, sub lumina slabă, cu mirosul pământului reavăn amestecat în aerul sărat al mării.",
+            "en": "Morning starts at the chapel where the white walls shine against the moody grey sky. At noon, the sound of rain on Manganari beach provides a rhythmic backdrop under nearby shelters. In the afternoon, explore the rocky coast at Kremasto with caution on the slippery paths. The evening ends early with fading light and the scent of damp earth mixing with the salty sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Constantine and Helen",
+                "hu": "Saint Constantine and Helen",
+                "ro": "Saint Constantine and Helen",
+                "en": "Saint Constantine and Helen"
+              },
+              "tip_5lang": {
+                "de": "Das kleine Vorhaus der Kapelle bietet Schutz vor Regengüssen und einen dramatischen Blick auf das Meer; achten Sie auf die nassen Steinplatten, die extrem glatt sind.",
+                "hu": "A kápolna kis előtere védelmet nyújt a zápor elől, miközben a viharos tenger látványában gyönyörködhetünk; vigyázzunk a nedves, csúszós kőlapokra a bejáratnál.",
+                "ro": "Pridvorul mic al capelei oferă adăpost împotriva aversei și o vedere dramatică asupra mării; aveți grijă la plăcile de piatră umede care devin extrem de alunecoase.",
+                "en": "The small porch of the chapel offers a dry spot to admire the dramatic stormy sea; watch your step on the wet marble floors which can become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari",
+                "hu": "Manganari",
+                "ro": "Manganari",
+                "en": "Manganari"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen mystisch, ideal für kurze Spaziergänge in wasserfester Kleidung; nutzen Sie die überdachten Bereiche der Tavernen für eine trockene Pause.",
+                "hu": "A strand esőben misztikus látványt nyújt, ideális egy rövid sétára vízálló öltözetben; használjuk a tavernák fedett részeit egy száraz pihenőre a part mentén.",
+                "ro": "Plaja arată mistic în ploaie, fiind ideală pentru o scurtă plimbare în haine impermeabile; folosiți zonele acoperite ale tavernelor pentru o pauză uscată la mal.",
+                "en": "The beach looks mystical in the rain, perfect for a short walk in waterproof gear; use the covered areas of the tavernas for a dry rest while watching the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremasto",
+                "hu": "Kremasto",
+                "ro": "Kremasto",
+                "en": "Kremasto"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen bieten bei Regen ein raues, naturbelassenes Schauspiel; tragen Sie feste Wanderschuhe mit gutem Grip, da die Felsen bei Nässe tückisch sind.",
+                "hu": "A sziklaformációk esőben vad, természetközeli élményt nyújtanak; viseljünk tapadós túrabakancsot, mert a kövek vizesen rendkívül csalókák és csúszósak lehetnek.",
+                "ro": "Formațiunile stâncoase oferă un spectacol sălbatic în timpul ploii; purtați bocanci de munte cu aderență bună, deoarece stâncile ude pot fi extrem de înșelătoare.",
+                "en": "The rock formations offer a raw, natural spectacle during the rain; wear hiking boots with good grip as the stones become treacherous and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Khalara",
+                "hu": "Khalara",
+                "ro": "Khalara",
+                "en": "Khalara"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den natürlichen Felsnischen, um das peitschende Meer zu beobachten; ein robustes Cape ist hier wichtiger als ein Regenschirm gegen den Wind.",
+                "hu": "Keressünk menedéket a természetes sziklahajlatokban a tenger figyeléséhez; egy masszív esőponcsó itt sokkal hasznosabb az erős szélben, mint egy esernyő.",
+                "ro": "Căutați adăpost în nișele naturale ale stâncilor pentru a observa marea înfuriată; o pelerină robustă este mult mai utilă aici decât o umbrelă din cauza vântului.",
+                "en": "Seek shelter in the natural rock alcoves to watch the crashing waves; a heavy-duty poncho is much more useful here than an umbrella due to the strong sea winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari Bay",
+                "hu": "Manganari Bay",
+                "ro": "Manganari Bay",
+                "en": "Manganari Bay"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour unter dem Schutz fester Gebäude, bevor die Sicht schlechter wird; die Kombination aus Regen und Salzluft erfordert danach warme Kleidung.",
+                "hu": "Fejezzük be a túrát épületek védelmében, mielőtt a látótávolság jelentősen csökkenne; az eső és a sós levegő kombinációja után mindenképp keressünk meleg helyet.",
+                "ro": "Încheiați turul sub protecția clădirilor înainte ca vizibilitatea să scadă drastic; combinația de ploaie și aer sărat necesită haine calde imediat după plimbare.",
+                "en": "Finish your tour under the protection of permanent structures before visibility drops; the combination of rain and salt air requires warm layers immediately after."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Manganari ist still und klar mit weitem Horizont. Mittags wärmt die tiefstehende Sonne die leeren Strände, ideal für einsame Wanderungen in dicker Kleidung. Nachmittags färbt sich das Licht golden, während die kühle Brise zur Bewegung anspornt. Da die Sonne bereits gegen 17:00 Uhr sinkt, verbringen wir den frühen Abend gemütlich in einer der wenigen offenen Unterkünfte.",
+            "hu": "A téli reggel Manganarin csendes és tiszta, végtelen horizonttal. Délben a mélyen járó nap melegíti az üres partokat, ideális a magányos sétákhoz réteges öltözetben. Délután a fények aranyszínűre váltanak, miközben a hűvös szél mozgásra ösztönöz. Mivel a nap már 17:00 körül lemegy, az estét töltsük korán a szállásunk melegében, élvezve a sziget téli nyugalmát.",
+            "ro": "Dimineața de iarnă în Manganari este liniștită și senină, cu un orizont vast. La prânz, soarele blând încălzește plajele pustii, ideal pentru plimbări solitare în haine groase. După-amiaza lumina devine aurie, în timp ce briza rece te îndeamnă la mișcare. Deoarece soarele apune deja în jur de ora 17:00, petreceți seara devreme la căldură, savurând liniștea.",
+            "en": "A winter morning in Manganari is quiet and clear with a vast horizon. At noon, the low sun warms the empty beaches, ideal for solitary walks in thick layers. In the afternoon, the light turns golden while the cool breeze encourages movement. Since the sun sets around 17:00, spend the early evening in the warmth of your accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Constantine and Helen",
+                "hu": "Saint Constantine and Helen",
+                "ro": "Saint Constantine and Helen",
+                "en": "Saint Constantine and Helen"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Kapelle strahlt im harten Winterlicht eine besondere Ruhe aus; ziehen Sie sich windfest an, da der Hügel im Winter sehr ungeschützt und zugig sein kann.",
+                "hu": "A fehér kápolna különleges nyugalmat áraszt a tiszta téli fényben; öltözzünk szélállóan, mert a dombtető télen rendkívül kitett és huzatos lehet a tenger felől.",
+                "ro": "Capela albă emană o liniște deosebită în lumina clară de iarnă; îmbrăcați-vă cu haine rezistente la vânt, deoarece vârful dealului este foarte expus și curentos.",
+                "en": "The white chapel radiates a special serenity in the crisp winter light; wear windproof clothing as the hilltop is very exposed and breezy during the cold months."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari",
+                "hu": "Manganari",
+                "ro": "Manganari",
+                "en": "Manganari"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die seltene Einsamkeit am sonst belebten Hauptstrand; ein heißer Tee aus der Thermoskanne ist hier der perfekte Begleiter für die kühle Meeresbrise.",
+                "hu": "Élvezzük a ritka magányt az egyébként nyüzsgő főstrandon; egy termoszban vitt forró tea tökéletes kísérője a hűvös tengeri szellőnek a néptelen homokparton.",
+                "ro": "Bucurați-vă de singurătatea rară pe plaja principală, altfel aglomerată; un ceai fierbinte dintr-un termos este companionul perfect pentru briza rece a mării.",
+                "en": "Enjoy the rare solitude on the usually busy main beach; a hot tea from a thermos is the perfect companion for the chilly sea breeze on the empty sandy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremasto",
+                "hu": "Kremasto",
+                "ro": "Kremasto",
+                "en": "Kremasto"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht auf die Ägäis und benachbarte Inseln; halten Sie die Kamera bereit für die kontrastreichen Farben der Felsen im Winter.",
+                "hu": "A tiszta téli levegő távoli kilátást enged az Égei-tengerre és a szomszédos szigetekre; tartsuk készenlétben a kamerát a sziklák kontrasztos téli színeihez.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate vastă spre Marea Egee și insulele vecine; pregătiți camera foto pentru culorile contrastante ale stâncilor în acest sezon.",
+                "en": "The clear winter air allows for distant views of the Aegean and neighboring islands; keep your camera ready for the high-contrast colors of the winter rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Khalara",
+                "hu": "Khalara",
+                "ro": "Khalara",
+                "en": "Khalara"
+              },
+              "tip_5lang": {
+                "de": "Dieser abgelegene Ort ist im Winter der Inbegriff von Frieden; achten Sie auf den frühen Schattenwurf der Hügel, der es hier schnell deutlich kühler machen kann.",
+                "hu": "Ez a távoli pont télen a béke szigete; ügyeljünk a dombok korai árnyékára, ami miatt ezen a részen sokkal gyorsabban lehűl a levegő, mint a nyíltabb szakaszokon.",
+                "ro": "Acest punct îndepărtat este definiția păcii pe timp de iarnă; atenție la umbrele timpurii ale dealurilor, care fac ca aerul să se răcească mult mai rapid aici.",
+                "en": "This remote spot is the epitome of peace in winter; be mindful of the early shadows from the hills, which can make it feel much colder here than on open stretches."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari Bay",
+                "hu": "Manganari Bay",
+                "ro": "Manganari Bay",
+                "en": "Manganari Bay"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang am Horizont schon am frühen Nachmittag; machen Sie sich spätestens um 16:30 Uhr auf den Rückweg, um nicht im Dunkeln zu wandern.",
+                "hu": "Csodáljuk meg a horizonton lebukó napot már kora délután; legkésőbb 16:30-kor induljunk vissza, hogy ne a sötétben kelljen megtenni az utolsó métereket.",
+                "ro": "Admirați apusul soarelui la orizont încă de la începutul după-amiezii; porniți înapoi cel târziu la ora 16:30 pentru a nu parcurge ultima porțiune pe întuneric.",
+                "en": "Watch the sun dip below the horizon in the early afternoon; start your walk back by 16:30 at the latest to avoid navigating the trails in the pitch dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Ez a kerékpártúra magasan, a kilátóponton kezdődik, ahonnan fantasztikus panoráma nyílik a partra. Innen gurulhat le a kis kápolnához, majd tovább Manganari fő strandjához. Ezt követően csendesebb részekhez kerekezhet, mint például a Santorenaiko és az Antonarou, ahol zavartalan fürdőzés várja. Az útvonal végén még egyszer megcsodálhatja a lenyűgöző Manganari-öböl vizének hívogató csillogását.",
         "ro": "Acest tur cu bicicleta începe sus la punctul de belvedere, oferindu-vă imediat o vedere panoramică fantastică a coastei. De acolo, veți coborî la mica capelă și veți continua spre plaja principală. Apoi pedalați către porțiuni mai liniștite precum Santorenaiko și Antonarou, unde vă așteaptă o distracție de înot netulburată de zgomot. La sfârșitul traseului, veți mai privi o dată spre fascinantul golf Manganari.",
         "en": "This bike tour starts high up at the viewpoint, instantly providing you with a fantastic panoramic view of the coast. From there, you coast down to the small chapel and continue to the main Manganari beach. Afterwards, pedal to quieter sections like Santorenaiko and Antonarou, where undisturbed swimming fun awaits. At the end of the route, you look out over the fascinating Manganari Bay one last time."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen startet vorsichtig auf nassen Wegen mit Blick auf die nebligen Buchten. Mittags suchen wir Schutz an der Kapelle, während die Tropfen auf den Helmen trommeln. Nachmittags fordern die Küstenwege volle Konzentration auf rutschigem Untergrund. Der frühe Abend führt uns auf direktem Weg zurück, wobei die nasse Fahrbahn das Licht der Dämmerung silbrig reflektiert.",
+            "hu": "A kerékpáros reggel óvatosan indul a vizes utakon, ködös öblök látványával. Délben a kápolnánál keresünk menedéket, miközben az esőcseppek dobolnak a bukósisakon. Délután a part menti utak teljes koncentrációt igényelnek a csúszós talaj miatt. A kora este közvetlen úton vezet vissza, ahol a vizes aszfalt ezüstösen tükrözi vissza a szürkület fényeit.",
+            "ro": "Dimineața pe bicicletă începe cu prudență pe drumurile ude, cu vedere spre golful cețos. La prânz căutăm adăpost la capelă, în timp ce stropii de ploaie bat în căști. După-amiaza, drumurile de coastă necesită concentrare maximă din cauza terenului alunecos. Seara devreme ne întoarcem pe drumul direct, asfaltul ud reflectând argintiu luminile amurgului.",
+            "en": "The cycling morning starts cautiously on wet roads with views of misty bays. At noon, we seek shelter at the chapel while raindrops drum on our helmets. In the afternoon, the coastal paths require full concentration due to the slippery terrain. The early evening leads us back on a direct route, with the wet asphalt reflecting the twilight in silvery tones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manganari view",
+                "hu": "Manganari view",
+                "ro": "Manganari view",
+                "en": "Manganari view"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist bei Regen oft wolkenverhangen; halten Sie nur kurz an und achten Sie beim Losfahren auf den Grip Ihrer Reifen auf der nassen Straße.",
+                "hu": "A kilátópont esőben gyakran felhőkbe burkolózik; csak rövid ideig álljunk meg, és elinduláskor figyeljünk a gumi tapadására a vizes, csúszós útfelületen.",
+                "ro": "Punctul de observație este adesea învăluit în nori în timpul ploii; opriți doar scurt și fiți atenți la aderența anvelopelor pe șoseaua udă la plecare.",
+                "en": "The viewpoint is often shrouded in clouds during rain; stop only briefly and pay close attention to your tire grip on the wet road surface when starting again."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Constantine and Helen",
+                "hu": "Saint Constantine and Helen",
+                "ro": "Saint Constantine and Helen",
+                "en": "Saint Constantine and Helen"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kapellenvordach als trockenen Pausenort für Radfahrer; stellen Sie die Räder sicher ab, da der Boden um die Kirche bei Nässe sehr rutschig ist.",
+                "hu": "Használjuk a kápolna előterét száraz pihenőhelyként; a bicikliket biztonságosan támasszuk le, mert a templom körüli kövezet esőben rendkívül csúszóssá válik.",
+                "ro": "Folosiți pridvorul capelei ca loc de odihnă uscat pentru bicicliști; parcați bicicletele în siguranță, deoarece pavajul din jur este foarte alunecos pe ploaie.",
+                "en": "Use the chapel's porch as a dry rest stop for cyclists; park your bikes securely as the stone pavement around the church becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari",
+                "hu": "Manganari",
+                "ro": "Manganari",
+                "en": "Manganari"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie mit dem Rad das Befahren von tiefem, nassem Sand; parken Sie am befestigten Wegrand und genießen Sie den Anblick des stürmischen Meeres aus der Ferne.",
+                "hu": "Kerüljük el a mély, vizes homokon való biciklizést; parkoljunk a szilárd út szélén, és élvezzük a viharos tenger látványát távolabbról, biztonságos talajon.",
+                "ro": "Evitați să mergeți cu bicicleta prin nisipul adânc și ud; parcați la marginea drumului pavat și bucurați-vă de vederea mării înfuriate de la o distanță sigură.",
+                "en": "Avoid cycling through deep, wet sand; park at the edge of the paved road and enjoy the view of the stormy sea from a distance while staying on stable ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Santorenaiko",
+                "hu": "Santorenaiko",
+                "ro": "Santorenaiko",
+                "en": "Santorenaiko"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege hier können bei starkem Regen schlammig werden; ein Schutzblech am Rad ist unerlässlich, um Schmutz und Spritzwasser vom Körper fernzuhalten.",
+                "hu": "A kiépítetlen utak itt heves esőzéskor sárossá válhatnak; a sárvédő elengedhetetlen, hogy távol tartsuk a felverődő vizet és sarat a ruházatunktól a tekerés alatt.",
+                "ro": "Drumurile neasfaltate de aici pot deveni noroioase în caz de ploaie; apărătorile de noroi sunt esențiale pentru a ține apa și noroiul departe de haine în timpul mersului.",
+                "en": "The unpaved paths here can become muddy during heavy rain; mudguards are essential to keep splashes and dirt off your clothing while pedaling through this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Antonarou",
+                "hu": "Antonarou",
+                "ro": "Antonarou",
+                "en": "Antonarou"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist dieser exponierte Küstenabschnitt sehr windanfällig; halten Sie den Lenker fest umschlossen, da plötzliche Böen die Fahrt auf nassem Grund erschweren.",
+                "hu": "Esőben ez az exponált tengerparti szakasz nagyon szeles; tartsuk erősen a kormányt, mert a hirtelen lökések megnehezítik a haladást a csúszós úton.",
+                "ro": "În ploaie, această secțiune expusă de coastă este foarte vântoasă; țineți bine ghidonul, deoarece rafalele bruște pot destabiliza bicicleta pe drumul ud.",
+                "en": "In the rain, this exposed coastal section is very windy; keep a firm grip on the handlebars as sudden gusts can make cycling difficult on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari Bay",
+                "hu": "Manganari Bay",
+                "ro": "Manganari Bay",
+                "en": "Manganari Bay"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zur Bucht gründlich; die Kombination aus Gefälle und Nässe erfordert einen deutlich längeren Bremsweg als bei Sonnenschein.",
+                "hu": "Alaposan ellenőrizzük a fékeket az öbölbe való ereszkedés előtt; a lejtő és a vizes út kombinációja jóval hosszabb fékutat igényel, mint napsütésben.",
+                "ro": "Verificați frânele cu atenție înainte de coborârea spre golf; combinația de pantă și drum ud necesită o distanță de frânare mult mai mare decât pe soare.",
+                "en": "Thoroughly check your brakes before descending to the bay; the combination of the slope and wet roads requires a much longer braking distance than in the sun."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet Radfahrern frische Luft und leere Straßen. Mittags wärmt die Sonne bei den Anstiegen, doch bei den Abfahrten ist windfeste Kleidung gegen den kühlen Fahrtwind wichtig. Nachmittags taucht die tiefstehende Sonne die Landschaft in dramatisches Licht. Der Tag endet gegen 17:00 Uhr, daher ist eine gute Beleuchtung am Rad für den Rückweg in der Dämmerung ratsam.",
+            "hu": "A téli reggel friss levegőt és üres utakat kínál a kerékpárosoknak. Délben a nap melegít az emelkedőkön, de a lejtőkön szélálló ruházat kell a hűvös menetszél ellen. Délután a mélyen járó nap drámai fénybe vonja a tájat. A nap 17:00 körül véget ér, ezért a szürkületi visszajutáshoz elengedhetetlen a jó világítás a kerékpáron.",
+            "ro": "Dimineața de iarnă oferă bicicliștilor aer proaspăt și drumuri pustii. La prânz soarele încălzește pe urcări, dar pe coborâri e nevoie de haine rezistente la vânt. După-amiaza, soarele jos îmbracă peisajul într-o lumină dramatică. Ziua se termină în jur de ora 17:00, deci iluminarea bună a bicicletei este esențială pentru drumul de întoarcere.",
+            "en": "The winter morning offers cyclists fresh air and empty roads. At noon, the sun warms you on the climbs, but windproof clothing is vital against the chill on descents. In the afternoon, the low sun bathes the landscape in dramatic light. The day ends around 17:00, so good bike lighting is essential for the return journey in twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manganari view",
+                "hu": "Manganari view",
+                "ro": "Manganari view",
+                "en": "Manganari view"
+              },
+              "tip_5lang": {
+                "de": "Der Blick ist im Winter oft klarer als im Sommerdunst; ziehen Sie für den Stopp eine zusätzliche Schicht an, da man beim Stehen im kalten Wind schnell auskühlt.",
+                "hu": "A kilátás télen gyakran tisztább, mint a nyári párában; vegyünk fel egy plusz réteget a megálláskor, mert a hideg szélben állva gyorsan lehűl a testünk.",
+                "ro": "Priveliștea este adesea mai clară iarna decât în ceața verii; puneți un strat în plus la oprire, deoarece vântul rece vă poate răci rapid corpul când stați pe loc.",
+                "en": "The view is often clearer in winter than in the summer haze; put on an extra layer during the stop, as you can cool down quickly while standing in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Constantine and Helen",
+                "hu": "Saint Constantine and Helen",
+                "ro": "Saint Constantine and Helen",
+                "en": "Saint Constantine and Helen"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Verschnaufpause im Winter; nutzen Sie die sonnigen Plätze an der Kirchenmauer, um die gespeicherte Wärme der Steine zu genießen.",
+                "hu": "Békés hely egy rövid téli pihenőhöz; keressük a templomfal napsütötte oldalát, hogy élvezhessük a kövek által tárolt és kisugárzott enyhe meleget a szél ellen.",
+                "ro": "Un loc pașnic pentru o scurtă pauză de iarnă; căutați partea însorită a zidului bisericii pentru a vă bucura de căldura înmagazinată de pietre împotriva vântului.",
+                "en": "A peaceful spot for a short winter breather; seek out the sunny side of the church wall to enjoy the stored warmth of the stones against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari",
+                "hu": "Manganari",
+                "ro": "Manganari",
+                "en": "Manganari"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren am leeren Strandufer ist im Winter ein besonderes Freiheitsgefühl; achten Sie auf weichere Sandstellen, die durch Winterstürme entstanden sein könnten.",
+                "hu": "A kerékpározás az üres parton télen a szabadság különleges érzése; ügyeljünk a téli viharok által kialakított puhább homokfoltokra, amik megfoghatják a kereket.",
+                "ro": "Mersul cu bicicleta pe plaja pustie oferă un sentiment aparte de libertate; atenție la porțiunile cu nisip moale create de furtunile de iarnă, care pot bloca roata.",
+                "en": "Cycling by the empty shore in winter gives a unique sense of freedom; watch out for softer sand patches created by winter storms that could catch your tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Santorenaiko",
+                "hu": "Santorenaiko",
+                "ro": "Santorenaiko",
+                "en": "Santorenaiko"
+              },
+              "tip_5lang": {
+                "de": "Die Wege sind im Winter fest und gut befahrbar; tragen Sie Handschuhe, da die Finger bei den langen Abfahrten im kühlen Winterwind sonst schnell taub werden.",
+                "hu": "Az utak télen tömörek és jól biciklizhetőek; viseljünk kesztyűt, mert a hosszú lejtőkön a hűvös szélben az ujjaink gyorsan elgémberedhetnek a kormányon.",
+                "ro": "Drumurile sunt compacte și bune pentru bicicletă iarna; purtați mănuși, deoarece pe coborârile lungi în vântul rece degetele pot amorți rapid pe ghidon.",
+                "en": "The paths are firm and good for cycling in winter; wear gloves, as your fingers can quickly go numb in the cool wind during the long downhill stretches."
+              }
+            },
+            {
+              "name": {
+                "de": "Antonarou",
+                "hu": "Antonarou",
+                "ro": "Antonarou",
+                "en": "Antonarou"
+              },
+              "tip_5lang": {
+                "de": "Die unberührte Natur ist hier im Winter besonders beeindruckend; planen Sie Ihre Zeit so, dass Sie diesen exponierten Teil vor dem kühleren späten Nachmittag passieren.",
+                "hu": "Az érintetlen természet itt télen különösen lenyűgöző; tervezzük úgy az időnket, hogy ezt az exponált részt még a hűvösebb késő délután előtt elhagyjuk.",
+                "ro": "Natura virgină este impresionantă aici în timpul iernii; planificați-vă timpul astfel încât să treceți de această zonă expusă înainte de după-amiaza răcoroasă.",
+                "en": "The untouched nature here is especially impressive in winter; plan your time to pass this exposed section before the cooler temperatures of the late afternoon set in."
+              }
+            },
+            {
+              "name": {
+                "de": "Manganari Bay",
+                "hu": "Manganari Bay",
+                "ro": "Manganari Bay",
+                "en": "Manganari Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht liegt im Winter völlig ruhig da; ein idealer Ort für ein kurzes Picknick in der Sonne, bevor Sie den Rückweg antreten, solange es noch hell ist.",
+                "hu": "Az öböl télen teljesen nyugodt; ideális hely egy rövid, napsütötte piknikhez, mielőtt elindulnánk visszafelé, amíg még elegendőek a látási viszonyok.",
+                "ro": "Golful este complet liniștit iarna; un loc ideal pentru un scurt picnic la soare înainte de a porni înapoi, cât timp încă mai este lumină naturală suficientă.",
+                "en": "The bay is completely tranquil in winter; it's an ideal spot for a quick sunny picnic before heading back while there is still plenty of natural light available."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Ez a motoros kirándulás a legjobb módja Manganari minden sarkának felfedezésére. A Szantorínire néző magas kilátópontoktól kezdve nyugat felé halad Trupete magányába. Egy rövid kulturális megálló után a kis kápolnánál az út kelet felé, idilli öblök felé veszi az irányt, mint a Louka Aulaki és a Never Bay. A Treis Kleisies mikre strandon tett hosszabb tartózkodás kiválóan lekerekíti a tartalmas autós túrát.",
         "ro": "Această excursie motorizată oferă cea mai bună modalitate de a vedea toate colțurile zonei Manganari. Începând de la punctele înalte de belvedere cu vedere la Santorini, conduceți spre vest în izolarea din Trupete. După o scurtă oprire la micuța capelă, călătoria se îndreaptă spre est către golfuri idilice precum Louka Aulaki și Never Bay. O ședere extinsă pe plaja Treis Kleisies mikre completează perfect această călătorie relaxantă cu mașina.",
         "en": "This motorized excursion offers the best way to see all corners of the Manganari area. Starting at the high viewpoints overlooking Santorini, you then drive far west into the seclusion of Trupete. After a brief cultural stop at the little chapel, the journey heads east to idyllic bays like Louka Aulaki and the stunning Never Bay. An extended stay at Treis Kleisies mikre beach perfectly rounds off this highly fulfilling coastal road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen im Auto bietet Komfort beim Blick auf die regnerischen Klippen. Mittags fahren wir von Aussichtspunkt zu Aussichtspunkt und genießen die dramatische See aus dem trockenen Innenraum. Nachmittags führen uns die Küstenstraßen zu versteckten Orten, wobei die Scheibenwischer den Rhythmus der Fahrt vorgeben. Der Abend endet gemütlich, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Az autós reggel kényelmet nyújt az esős sziklák figyeléséhez. Délben egyik kilátóponttól a másikig hajtunk, élvezve a drámai tenger látványát a száraz és meleg utastérből. Délután a part menti utak rejtett zugokba vezetnek, miközben az ablaktörlők adják az út ütemét. Az este meghitten zárul, ahogy az esőcseppek ritmikusan dobolnak az autó tetején.",
+            "ro": "Dimineața în mașină oferă confort în timp ce observați stâncile plătite de ploaie. La prânz conducem de la un punct de belvedere la altul, admirând marea dramatică din interiorul uscat. După-amiaza, drumurile de coastă ne duc în locuri ascunse, în timp ce ștergătoarele dau ritmul călătoriei. Seara se încheie plăcut, cu sunetul picăturilor de ploaie pe plafonul mașinii.",
+            "en": "The morning in the car provides comfort while watching the rainy cliffs. At noon, we drive from viewpoint to viewpoint, enjoying the dramatic sea from the dry interior. In the afternoon, coastal roads lead to hidden spots while the wipers set the rhythm of the journey. The evening ends cozily with the sound of raindrops drumming on the car's roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santorini View",
+                "hu": "Santorini View",
+                "ro": "Santorini View",
+                "en": "Santorini View"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem Auto; bei Regen wirkt die Silhouette von Santorini im Dunst besonders geheimnisvoll und bietet tolle Fotomotive.",
+                "hu": "Élvezzük a panorámát közvetlenül az autóból; esőben Santorini sziluettje a párában különösen titokzatosnak tűnik, és egyedi fotótémát szolgáltat.",
+                "ro": "Bucurați-vă de panoramă direct din mașină; în ploaie, silueta insulei Santorini pare misterioasă în ceață, oferind subiecte foto inedite prin parbriz.",
+                "en": "Enjoy the panorama directly from the car; in the rain, Santorini's silhouette in the haze looks especially mysterious and provides unique photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Viglia Manganariou and Viglia Kalamou view",
+                "hu": "Viglia Manganariou and Viglia Kalamou view",
+                "ro": "Viglia Manganariou and Viglia Kalamou view",
+                "en": "Viglia Manganariou and Viglia Kalamou view"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Punkt ist bei Regen sehr windig; bleiben Sie im Fahrzeug, um die stürmische See zu beobachten, da der Boden hier schnell aufweicht.",
+                "hu": "Ez az exponált pont esőben nagyon szeles; maradjunk a járműben a viharos tenger megfigyeléséhez, mert a talaj ezen a részen esőben gyorsan felázhat.",
+                "ro": "Acest punct expus este foarte vântos pe ploaie; rămâneți în vehicul pentru a observa marea înfuriată, deoarece solul de aici se poate înmuia rapid.",
+                "en": "This exposed point is very windy during rain; stay in the vehicle to observe the stormy sea, as the ground in this area can soften quickly when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Trupete",
+                "hu": "Trupete",
+                "ro": "Trupete",
+                "en": "Trupete"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher auf befestigtem Grund, bevor Sie die Küste erkunden; bei Regen bietet die zerklüftete Landschaft hier einen rauen, ursprünglichen Anblick.",
+                "hu": "Parkoljunk biztonságosan a szilárd talajon, mielőtt felfedeznénk a partot; esőben a szaggatott táj itt nyers és eredeti látványt nyújt a látogatóknak.",
+                "ro": "Parcați în siguranță pe teren solid înainte de a explora țărmul; pe ploaie, peisajul accidentat de aici oferă o priveliște brută și originală vizitatorilor.",
+                "en": "Park safely on firm ground before exploring the shore; in the rain, the rugged landscape here offers a raw and primordial view to all visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Constantine and Helen",
+                "hu": "Saint Constantine and Helen",
+                "ro": "Saint Constantine and Helen",
+                "en": "Saint Constantine and Helen"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist vom Parkplatz aus in wenigen Schritten erreichbar; nutzen Sie die kurzen Regenpausen für einen Besuch des kleinen, weißen Kirchleins.",
+                "hu": "A kápolna a parkolóból pár lépéssel elérhető; használjuk ki a rövid esőszüneteket a kis fehér templom meglátogatására, ügyelve a csúszós bejárati kövekre.",
+                "ro": "Capela este la doar câțiva pași de parcare; profitați de scurtele pauze de ploaie pentru a vizita mica biserică albă, atenție la pietrele alunecoase.",
+                "en": "The chapel is reachable in just a few steps from the parking area; use short breaks in the rain to visit the small white church, but mind the slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Louka Aulaki",
+                "hu": "Louka Aulaki",
+                "ro": "Louka Aulaki",
+                "en": "Louka Aulaki"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort wirkt im Regen besonders abgeschieden und ruhig; achten Sie bei der Anfahrt auf mögliche Wasseransammlungen oder Steinschlag auf den schmalen Wegen.",
+                "hu": "Ez a hely esőben különösen elszigeteltnek és nyugodtnak tűnik; figyeljünk az úton esetlegesen felgyülemlő vízre vagy kőomlásokra a szűkebb szakaszokon.",
+                "ro": "Acest loc pare deosebit de izolat și liniștit pe ploaie; atenție la eventualele acumulări de apă sau căderi de pietre pe drum în porțiunile mai înguste.",
+                "en": "This spot feels especially isolated and quiet in the rain; watch out for potential water pooling or fallen rocks on the road in the narrower sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Never bay",
+                "hu": "Never bay",
+                "ro": "Never bay",
+                "en": "Never bay"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Stopp, um die Kraft der Wellen aus dem Auto zu erleben; lassen Sie das Gebläse laufen, um die Scheiben für die beste Sicht beschlagfrei zu halten.",
+                "hu": "Látványos megálló a hullámok erejének megfigyeléséhez az autóból; járassuk a szellőzést, hogy a szélvédő páramentes maradjon a tökéletes kilátáshoz.",
+                "ro": "O oprire spectaculoasă pentru a observa forța valurilor din mașină; lăsați ventilația pornită pentru ca parbrizul să rămână curat pentru o vedere perfectă.",
+                "en": "A spectacular stop to observe the power of the waves from the car; keep the ventilation running to ensure the windshield stays fog-free for a perfect view."
+              }
+            },
+            {
+              "name": {
+                "de": "Treis Kleisies mikre",
+                "hu": "Treis Kleisies mikre",
+                "ro": "Treis Kleisies mikre",
+                "en": "Treis Kleisies mikre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier mit Blick auf die aufgewühlte Bucht; die regennassen Felsen schimmern dunkel und bilden einen schönen Kontrast zur weißen Brandung.",
+                "hu": "Zárjuk itt a napot a felkavart öböl látványával; az esőtől nedves sziklák sötéten csillognak, szép kontrasztot alkotva a tenger fehér tajtékjával.",
+                "ro": "Încheiați ziua aici cu vederea golfului agitat; stâncile ude de ploaie strălucesc închis, creând un contrast frumos cu spuma albă a mării învolburate.",
+                "en": "End the day here with a view of the churning bay; the rain-soaked rocks shimmer darkly, creating a beautiful contrast with the white foam of the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen lädt zu einer Panoramafahrt über die einsamen Hügel ein. Mittags wärmt die Sonne den Innenraum des Wagens, während wir die menschenleere Küstenlandschaft erkunden. Nachmittags ist die Fernsicht auf die benachbarten Kykladeninseln atemberaubend klar. Da es ab 17:00 Uhr dunkel wird, kehren wir rechtzeitig zurück, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "A téli reggel panorámaautózásra hív a néptelen dombok között. Délben a nap kellemesen felmelegíti az utasteret, miközben az üres tengerparti tájat fedezzük fel. Délután a távoli kilátás a szomszédos Kükládok szigeteire lélegzetelállítóan tiszta. Mivel 17:00 körül sötétedik, időben térjünk vissza a bázisunkra a nap lezárásához.",
+            "ro": "Dimineața de iarnă invită la o plimbare panoramică cu mașina printre dealurile pustii. La prânz, soarele încălzește plăcut interiorul, în timp ce explorăm peisajul costier. După-amiaza, vizibilitatea spre insulele Ciclade vecine este uluitor de clară. Deoarece se întunecă în jur de ora 17:00, întoarceți-vă la timp pentru a încheia ziua.",
+            "en": "The winter morning invites a scenic drive through the deserted hills. At noon, the sun pleasantly warms the interior while we explore the empty coastal landscape. In the afternoon, the distant views of the neighboring Cyclades islands are breathtakingly clear. Since it gets dark around 17:00, return in time to finish the day comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santorini View",
+                "hu": "Santorini View",
+                "ro": "Santorini View",
+                "en": "Santorini View"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Fernsicht ist unschlagbar, man kann oft jedes Detail von Santorini sehen; nutzen Sie das warme Auto als Basis für kurze Foto-Exkursionen im Wind.",
+                "hu": "A téli távoli kilátás páratlan, gyakran Santorini minden részlete látható; használjuk a meleg autót bázisként a szélben tett rövid fotós kiruccanásokhoz.",
+                "ro": "Vizibilitatea de iarnă la distanță este imbatabilă, adesea se văd toate detaliile insulei Santorini; folosiți mașina caldă ca bază pentru scurte ieșiri foto.",
+                "en": "The winter long-distance visibility is unbeatable, often showing every detail of Santorini; use the warm car as a base for short photo excursions in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Viglia Manganariou and Viglia Kalamou view",
+                "hu": "Viglia Manganariou and Viglia Kalamou view",
+                "ro": "Viglia Manganariou and Viglia Kalamou view",
+                "en": "Viglia Manganariou and Viglia Kalamou view"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der winterlichen Ägäis von diesem hohen Punkt; im Winter sind die Straßen hier oft verlassen, was die Anfahrt sehr entspannt macht.",
+                "hu": "Éljük át a téli Égei-tenger nyers szépségét erről a magaslati pontról; télen az utak itt gyakran teljesen néptelenek, ami nagyon nyugodttá teszi az idejutást.",
+                "ro": "Experimentați frumusețea crudă a mării Egee iarna din acest punct înalt; iarna drumurile de aici sunt adesea pustii, făcând călătoria foarte relaxantă.",
+                "en": "Experience the raw beauty of the winter Aegean from this high point; in winter, the roads here are often deserted, making the drive very relaxed and peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Trupete",
+                "hu": "Trupete",
+                "ro": "Trupete",
+                "en": "Trupete"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten über die zerklüftete Küste; bleiben Sie für den besten Ausblick im Auto, wenn der Nordwind zu stark weht.",
+                "hu": "A mélyen járó téli nap hosszú árnyékokat vet a szaggatott partvidékre; maradjunk az autóban a legjobb kilátáshoz, ha az északi szél túl erősen fújna ezen a részen.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste coasta accidentată; rămâneți în mașină pentru cea mai bună priveliște dacă vântul de nord bate prea tare aici.",
+                "en": "The low winter sun casts long shadows over the rugged coastline; stay in the car for the best view if the north wind happens to be blowing too strongly today."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Constantine and Helen",
+                "hu": "Saint Constantine and Helen",
+                "ro": "Saint Constantine and Helen",
+                "en": "Saint Constantine and Helen"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt in der winterlichen Stille wie ein Ort aus einer anderen Zeit; ein kurzer Spaziergang vom Auto aus lohnt sich für die klare Meeresluft.",
+                "hu": "A kis kápolna a téli csendben olyan, mintha egy másik időből származna; egy rövid séta az autótól megéri a friss és tiszta tengeri levegőért a dombtetőn.",
+                "ro": "Mica capelă pare un loc din alt timp în liniștea iernii; o scurtă plimbare de la mașină merită pentru aerul marin curat și proaspăt de pe vârful dealului.",
+                "en": "The small chapel in the winter silence feels like a place from another time; a short walk from the car is worth it for the fresh and crisp sea air on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Louka Aulaki",
+                "hu": "Louka Aulaki",
+                "ro": "Louka Aulaki",
+                "en": "Louka Aulaki"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe an diesem abgelegenen Küstenabschnitt, den Sie im Winter fast für sich allein haben; die Farben des Meeres sind jetzt besonders intensiv.",
+                "hu": "Élvezzük a nyugalmat ezen a távoli partvonalon, ami télen szinte csak a miénk; a tenger színei ilyenkor, a tiszta égbolt alatt különösen intenzívnek tűnnek.",
+                "ro": "Bucurați-vă de liniștea acestei porțiuni de coastă îndepărtate, pe care iarna o aveți aproape doar pentru voi; culorile mării sunt acum deosebit de intense.",
+                "en": "Enjoy the peace of this remote coastline, which you'll have almost to yourself in winter; the colors of the sea are especially intense under the clear sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Never bay",
+                "hu": "Never bay",
+                "ro": "Never bay",
+                "en": "Never bay"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kraft der Natur aus der Sicherheit des Autos zu beobachten; die Winterwellen sind hier oft deutlich höher und imposanter als im Sommer.",
+                "hu": "Ideális hely a természet erejének megfigyeléséhez az autó biztonságából; a téli hullámok itt gyakran sokkal magasabbak és lenyűgözőbbek, mint a nyári szezonban.",
+                "ro": "Loc ideal pentru a observa forța naturii din siguranța mașinii; valurile de iarnă sunt aici adesea mult mai înalte și impunătoare decât în timpul verii.",
+                "en": "An ideal spot to observe the power of nature from the safety of your car; winter waves here are often much higher and more impressive than in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Treis Kleisies mikre",
+                "hu": "Treis Kleisies mikre",
+                "ro": "Treis Kleisies mikre",
+                "en": "Treis Kleisies mikre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für einen Blick auf die winterliche Bucht; machen Sie sich spätestens um 16:45 Uhr auf den Rückweg, bevor es dunkel wird.",
+                "hu": "Használjuk ki az utolsó nappali fényeket a téli öböl megcsodálására; legkésőbb 16:45-kor induljunk vissza, mielőtt a sötétség teljesen leszállna a tájra.",
+                "ro": "Profitați de ultimele raze de lumină pentru a admira golful iarna; porniți înapoi cel târziu la ora 16:45, înainte ca întunericul să se lase peste tot.",
+                "en": "Take advantage of the last daylight to admire the winter bay; start your return journey by 16:45 at the latest, before darkness fully descends on the area."
+              }
+            }
+          ]
+        }
       }
     }
   }

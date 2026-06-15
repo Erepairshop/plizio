@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi tengerészeti történelem megismerésével, és sétáljon a nyüzsgő kikötőben a műemlékek között. Délben merüljön el a városközpont független művészeti stúdióinak kreatív energiájában. A délután folyamán élénk kulturális egyesületeket és hangulatos kávézókat fedezhet fel. A nap csodálatosan zárul a modern városi nézőtér közelében.",
         "ro": "Începeți dimineața cu istoria maritimă și o plimbare de-a lungul portului pentru a vedea monumentele iconice. La prânz, cufundați-vă în energia creativă a studiourilor de artă independente din centrul orașului. După-amiaza vă permite să explorați relaxat asociații culturale vii și cafenele confortabile. Ziua se încheie minunat lângă auditoriul municipal modern.",
         "en": "Start your morning by diving into local maritime history and wandering along the vibrant harbor to see iconic monuments. At midday, immerse yourself in the creative energy of independent art studios tucked away in the city center. Your afternoon allows for relaxed exploration of lively cultural associations and cozy cafes. The day concludes wonderfully near the modern municipal auditorium."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag trocken im Stadtmuseum, wo die Geschichte Olhãos vor dem Regen schützt. Mittags führt ein kurzer, nasser Spaziergang zum Hafen, wo Sie das historische Schiff und die Boote unter einem stabilen Regenschirm bewundern können. Am Nachmittag bieten das Atelier ZEA und die República 14 gemütliche, überdachte Rückzugsorte für Kunst. Der Abend endet im modernen Auditorium.",
+            "hu": "A napot kezdje szárazon a Városi Múzeumban, ahol Olhão történelme védelmet nyújt az eső elől. Délben egy rövid, vizes séta vezet a kikötőhöz, ahol az ikonikus hajót és a túrákat esernyő alatt csodálhatja meg. Délután az Atelier ZEA és a República 14 kulturális terei kínálnak fedett menedéket a művészethez. Az este a modern Auditóriumban ér véget, távol a kültéri tócsáktól és a széltől.",
+            "ro": "Începeți ziua la adăpost în Muzeul Municipal, unde istoria orașului Olhão vă protejează de ploaie. La prânz, o scurtă plimbare prin ploaie vă duce la port pentru a vedea barca istorică, sub o umbrelă solidă. După-amiaza, Atelier ZEA și República 14 oferă refugii culturale calde și uscate. Seara se încheie la Auditoriul Municipal, locul perfect pentru a evita vremea instabilă de afară.",
+            "en": "Start your day dry at the Municipal Museum, where Olhão's history offers a safe haven from the rain. At noon, a short walk leads to the harbor to see the historic boat; keep a sturdy umbrella ready. In the afternoon, Atelier ZEA and República 14 provide cozy, indoor cultural retreats for art lovers. The evening concludes at the modern Auditorium, far from the outdoor puddles and wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Municipal de Olhão",
+                "hu": "Museu Municipal de Olhão",
+                "ro": "Museu Municipal de Olhão",
+                "en": "Museu Municipal de Olhão"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die archäologischen Schätze im Inneren dieses historischen Gebäudes und nutzen Sie die Ausstellungsräume als perfekten Schutz vor dem ersten Regenschauer.",
+                "hu": "Fedezze fel a történelmi épület belső régészeti kincseit, és használja a kiállítótermeket tökéletes menedékként az első reggeli záporok elől.",
+                "ro": "Explorați comorile arheologice din interiorul acestei clădiri istorice și folosiți sălile de expoziție ca adăpost perfect împotriva primei averse de dimineață.",
+                "en": "Explore the archaeological treasures inside this historic building and use the exhibition rooms as a perfect shelter from the first morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Barco Bom Sucesso",
+                "hu": "Barco Bom Sucesso",
+                "ro": "Barco Bom Sucesso",
+                "en": "Barco Bom Sucesso"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Replik dieses historischen Schiffes vom Kai aus; tragen Sie rutschfeste Schuhe, da das Kopfsteinpflaster am Hafen bei Nässe sehr glatt wird.",
+                "hu": "Csodálja meg a történelmi hajó másolatát a rakpartról; viseljen csúszásmentes talpú cipőt, mert a kikötői macskakő esőben rendkívül csúszóssá válik.",
+                "ro": "Admirați replica acestei nave istorice de pe chei; purtați încălțăminte antiderapantă, deoarece pavajul din port devine foarte alunecos când este ud.",
+                "en": "Admire the replica of this historic ship from the quay; wear non-slip shoes as the harbor's cobblestones become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabino Boat Tours",
+                "hu": "Sabino Boat Tours",
+                "ro": "Sabino Boat Tours",
+                "en": "Sabino Boat Tours"
+              },
+              "tip_5lang": {
+                "de": "Fragen Sie nach Booten mit festem Verdeck, um die Ria Formosa auch bei Regen trocken zu erleben, und genießen Sie die mystische Stimmung auf dem Wasser.",
+                "hu": "Kérjen fedett hajót, hogy az eső ellenére is szárazon élvezhesse a Ria Formosa látványát, és gyönyörködjön a víz feletti sejtelmes párában.",
+                "ro": "Cereți bărci cu acoperiș fix pentru a experimenta Ria Formosa la adăpost de ploaie și bucurați-vă de atmosfera mistică de pe apă.",
+                "en": "Ask for boats with a hard top to experience the Ria Formosa dry despite the rain, and enjoy the mystical atmosphere over the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier ZEA",
+                "hu": "Atelier ZEA",
+                "ro": "Atelier ZEA",
+                "en": "Atelier ZEA"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt der lokalen Kunst in diesem hellen Atelier, das eine inspirierende und trockene Alternative zum trüben Wetter draußen bietet.",
+                "hu": "Merüljön el a helyi művészet világában ebben a világos műteremben, amely inspiráló és száraz alternatívát kínál a kinti barátságtalan időjárás helyett.",
+                "ro": "Cufundați-vă în lumea artei locale în acest atelier luminos, care oferă o alternativă inspirată și uscată la vremea mohorâtă de afară.",
+                "en": "Immerse yourself in the world of local art in this bright studio, which offers an inspiring and dry alternative to the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Associação Cultural Re-Criativa República 14",
+                "hu": "Associação Cultural Re-Criativa República 14",
+                "ro": "Associação Cultural Re-Criativa República 14",
+                "en": "Associação Cultural Re-Criativa República 14"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebendige Atmosphäre dieses Kulturzentrums bei einem warmen Getränk im Innenbereich, während der Regen gegen die hohen Fenster prasselt.",
+                "hu": "Élvezze a kulturális központ nyüzsgő hangulatát egy meleg ital mellett a belső térben, miközben az eső a magas ablakokon kopog.",
+                "ro": "Bucurați-vă de atmosfera vibrantă a acestui centru cultural cu o băutură caldă în interior, în timp ce ploaia bate în ferestrele înalte.",
+                "en": "Enjoy the vibrant atmosphere of this cultural center with a warm drink indoors while the rain patters against the tall windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório Municipal de Olhão",
+                "hu": "Auditório Municipal de Olhão",
+                "ro": "Auditório Municipal de Olhão",
+                "en": "Auditório Municipal de Olhão"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Aufführung im modernen Saal; prüfen Sie das Programm vorab online, um den nassen Abend perfekt im Trockenen zu planen.",
+                "hu": "Zárja a napot egy előadással a modern teremben; ellenőrizze a programot előre online, hogy a vizes estét tökéletesen, fedett helyen tölthesse.",
+                "ro": "Încheiați ziua cu un spectacol în sala modernă; verificați programul online în avans pentru a planifica seara ploioasă perfect la adăpost.",
+                "en": "End the day with a performance in the modern hall; check the program online in advance to plan your rainy evening perfectly indoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milde Wintersonne Olhãos ist ideal für einen Stadtrundgang. Vormittags wärmt das Museum mit seinen dicken Mauern auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Hafenpromenade mittags besuchen, um das beste Licht zu nutzen. Nachmittags laden die Kulturzentren zum Verweilen ein. Der Abend im Auditorium ist der perfekte Abschluss, wenn die Temperaturen sinken.",
+            "hu": "Olhão enyhe téli napsütése ideális a városi sétához. Délelőtt a múzeum vastag falai között melegedhet fel. Mivel a nap 17:00 körül lenyugszik, a kikötői sétányt délben keresse fel a legjobb fényekért. Délután a kulturális központok hívogatnak pihenésre. Az Auditórium esti programja tökéletes befejezés, amikor a hőmérséklet naplemente után hűvösebbre fordul.",
+            "ro": "Soarele blând de iarnă din Olhão este ideal pentru o plimbare. Dimineața, muzeul vă încălzește cu zidurile sale groase. Deoarece soarele apune în jur de ora 17:00, vizitați faleza la prânz pentru cea mai bună lumină. După-amiaza, centrele culturale vă invită la relaxare. Seara la Auditoriu este finalul perfect când temperaturile scad după apus.",
+            "en": "Olhão's mild winter sun is ideal for a stroll. In the morning, the museum's thick walls provide a warm start. As the sun sets around 17:00, visit the harbor promenade at noon to catch the best light. In the afternoon, the cultural centers invite you to linger. An evening at the Auditorium is the perfect finish as temperatures drop after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Municipal de Olhão",
+                "hu": "Museu Municipal de Olhão",
+                "ro": "Museu Municipal de Olhão",
+                "en": "Museu Municipal de Olhão"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für einen intensiven Museumsbesuch; die Innentemperatur ist angenehm stabil und schützt vor der winterlichen Brise.",
+                "hu": "Használja ki a hűvös reggelt egy alapos múzeumlátogatásra; a benti hőmérséklet kellemesen stabil, és védelmet nyújt a téli szél elől.",
+                "ro": "Profitați de dimineața răcoroasă pentru o vizită detaliată la muzeu; temperatura interioară este plăcut stabilă și vă protejează de briza iernii.",
+                "en": "Take advantage of the cool morning for a thorough museum visit; the indoor temperature is pleasantly stable and protects against the winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Barco Bom Sucesso",
+                "hu": "Barco Bom Sucesso",
+                "ro": "Barco Bom Sucesso",
+                "en": "Barco Bom Sucesso"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Schiff im klaren Winterlicht für scharfe Fotos; tragen Sie eine winddichte Jacke, da der Wind vom Meer her deutlich kühler sein kann.",
+                "hu": "Nézze meg a hajót a tiszta téli fényben az éles fotókért; viseljen szélálló kabátot, mert a tenger felől érkező szél ilyenkor érezhetően hidegebb.",
+                "ro": "Priviți nava în lumina clară de iarnă pentru fotografii reușite; purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi mult mai rece.",
+                "en": "View the ship in the clear winter light for sharp photos; wear a windproof jacket as the wind from the sea can be significantly cooler now."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabino Boat Tours",
+                "hu": "Sabino Boat Tours",
+                "ro": "Sabino Boat Tours",
+                "en": "Sabino Boat Tours"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie eine Tour um die Mittagszeit, wenn die Wintersonne am höchsten steht, und nehmen Sie ein warmes Fleece für die Fahrt auf dem Wasser mit.",
+                "hu": "Válasszon déli túrát, amikor a téli nap a legmagasabban jár, és vigyen magával meleg pulóvert a vízen töltött időhöz a hűvösebb levegő miatt.",
+                "ro": "Alegeți un tur la prânz, când soarele de iarnă este cel mai sus, și luați un polar călduros pentru timpul petrecut pe apă.",
+                "en": "Choose a tour around noon when the winter sun is at its highest, and bring a warm fleece for your time on the water due to the cooler air."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier ZEA",
+                "hu": "Atelier ZEA",
+                "ro": "Atelier ZEA",
+                "en": "Atelier ZEA"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in diesem Kunstatelier; das weiche Winterlicht, das durch die Fenster fällt, lässt die Farben besonders warm wirken.",
+                "hu": "Élvezze a holtszezon nyugalmát ebben a művészeti stúdióban; az ablakokon beszűrődő lágy téli fény különlegesen meleg árnyalatot ad a színeknek.",
+                "ro": "Bucurați-vă de liniștea extrasezonului în acest atelier de artă; lumina blândă de iarnă care intră pe ferestre face culorile să pară deosebit de calde.",
+                "en": "Enjoy the peace of the off-season in this art studio; the soft winter light streaming through the windows makes the colors appear particularly warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Associação Cultural Re-Criativa República 14",
+                "hu": "Associação Cultural Re-Criativa República 14",
+                "ro": "Associação Cultural Re-Criativa República 14",
+                "en": "Associação Cultural Re-Criativa República 14"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am Nachmittag im Gemeinschaftsbereich auf; im Winter finden hier oft intimere Konzerte statt, die eine wunderbare Atmosphäre schaffen.",
+                "hu": "Melegedjen fel délután a közösségi térben; télen gyakran tartanak itt bensőségesebb koncerteket, amelyek csodálatos hangulatot teremtenek.",
+                "ro": "Încălziți-vă după-amiaza în zona comună; iarna, aici au loc adesea concerte intime care creează o atmosferă minunată.",
+                "en": "Warm up in the communal area in the afternoon; in winter, more intimate concerts often take place here, creating a wonderful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditório Municipal de Olhão",
+                "hu": "Auditório Municipal de Olhão",
+                "ro": "Auditório Municipal de Olhão",
+                "en": "Auditório Municipal de Olhão"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den frühen Sonnenuntergang gegen 17:00 Uhr, um den Abend bei einer Indoor-Veranstaltung im gut beheizten Auditorium zu verbringen.",
+                "hu": "Használja ki a korai, 17:00 körüli naplementét, és töltse az estét egy beltéri eseményen a jól fűtött, kényelmes Auditóriumban.",
+                "ro": "Profitate de apusul devreme din jurul orei 17:00 pentru a petrece seara la un eveniment indoor în auditoriul bine încălzit.",
+                "en": "Take advantage of the early sunset around 17:00 to spend the evening at an indoor event in the well-heated, comfortable Auditorium."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpározását a nyüzsgő vízparton, mielőtt a lenyűgöző hagyományos sólepárlók felé venné az irányt. Délben a helyi természetvédelmi terület nyugodt, természetközeli ösvényein tekerhet. Délután csodálja meg egy költő történelmi, fenyőfákkal körülvett faházának egyedi építészetét. Az estét legjobban a nyugodt homokon pihenve töltheti.",
         "ro": "Începeți plimbarea de-a lungul falezei pline de viață înainte de a pedala spre salinele tradiționale. La prânz, mergeți pe traseele liniștite ale rezervației ecologice locale. După-amiaza, admirați arhitectura unică a cabanei istorice a unui poet înconjurată de pini. Seara vă relaxați pe nisipul liniștit cu vedere la ria blândă.",
         "en": "Kick off your ride along the bustling waterfront before pedaling towards the fascinating traditional salt pans. Midday finds you cycling through the tranquil, nature-filled trails of the local environmental reserve. In the afternoon, admire the unique architecture of a poet's historic chalet surrounded by pine trees. Your evening is best spent relaxing on the calm sands facing the gentle ria."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Olhão bei Regen erfordert Vorsicht auf den glatten Wegen. Starten Sie am Hafen und nutzen Sie das Museum für eine lange Trockenpause. Die Fahrt zu den Salinen und zur Quinta de Marim kann schlammig sein, planen Sie also mehr Zeit ein. Casa João Lúcio bietet einen warmen Stopp, bevor Sie die Tour am windigen Strand beenden. Wasserfeste Kleidung ist heute Pflicht.",
+            "hu": "Az esős Olhãóban a kerékpározás óvatosságot igényel a csúszós utak miatt. Kezdjen a kikötőnél, és tartson hosszú, száraz szünetet a múzeumban. A sólepárlók és a Quinta de Marim felé vezető út sáros lehet, számoljon több idővel. A Casa João Lúcio meleg pihenőt kínál, mielőtt a szeles tengerparton zárná a túrát. A vízálló öltözet ma elengedhetetlen.",
+            "ro": "Ciclismul în Olhão pe ploaie necesită prudență pe drumurile alunecoase. Începeți la port și folosiți muzeul pentru o pauză lungă de uscare. Drumul spre saline și Quinta de Marim poate fi noroios, deci rezervați-vă mai mult timp. Casa João Lúcio oferă un popas cald înainte de a termina turul pe plaja vântoasă. Îmbrăcămintea impermeabilă este obligatorie astăzi.",
+            "en": "Cycling in Olhão in the rain requires caution on slippery paths. Start at the harbor and use the museum for a long dry break. The ride to the salt pans and Quinta de Marim can be muddy, so allow extra time. Casa João Lúcio offers a warm stop before finishing the tour at the windy beach. Waterproof clothing is a must today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barco Bom Sucesso",
+                "hu": "Barco Bom Sucesso",
+                "ro": "Barco Bom Sucesso",
+                "en": "Barco Bom Sucesso"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start am Hafen; die nassen Platten am Kai können beim Anfahren mit dem Fahrrad tückisch glatt sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeit a kikötőnél; a rakpart nedves burkolata elinduláskor és megálláskor is trükkösen csúszós lehet a bringásoknak.",
+                "ro": "Verificați frânele înainte de plecare din port; plăcile umede de pe debarcader pot fi înșelător de alunecoase pentru biciclete.",
+                "en": "Check your brakes before starting at the harbor; the wet slabs on the quay can be trickily slippery for cyclists when starting or stopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Olhão",
+                "hu": "Museu Municipal de Olhão",
+                "ro": "Museu Municipal de Olhão",
+                "en": "Museu Municipal de Olhão"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem überdachten Ort ab und nutzen Sie die Zeit im Museum, um Ihre Kleidung für die Weiterfahrt zu trocknen.",
+                "hu": "Parkolja le a biciklit fedett helyen, és használja ki a múzeumban töltött időt, hogy megszárítsa ruházatát a következő szakasz előtt.",
+                "ro": "Parcați bicicleta într-un loc acoperit și profitați de timpul petrecut în muzeu pentru a vă usca hainele înainte de următoarea etapă.",
+                "en": "Park your bike in a covered spot and use your time in the museum to dry off your clothing for the next leg of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Salinas do Coquenão",
+                "hu": "Salinas do Coquenão",
+                "ro": "Salinas do Coquenão",
+                "en": "Salinas do Coquenão"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Wegen um die Salinen, da sich Pfützen bilden können; das Grau des Regens verleiht den Salzbecken eine dramatische Optik.",
+                "hu": "Hajtson óvatosan a sólepárlók körüli föutakon, mert pocsolyák alakulhatnak ki; az eső szürkesége drámai látványt kölcsönöz a medencéknek.",
+                "ro": "Circulați cu atenție pe drumurile neasfaltate din jurul salinelor, deoarece se pot forma bălți; griul ploii conferă bazinelor un aspect dramatic.",
+                "en": "Ride carefully on the unpaved paths around the salt pans as puddles can form; the gray of the rain gives the pools a dramatic look."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta de Marim 1",
+                "hu": "Quinta de Marim 1",
+                "ro": "Quinta de Marim 1",
+                "en": "Quinta de Marim 1"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Bäumen des Naturparks, wenn der Regen stärker wird, und genießen Sie den intensiven Duft der feuchten Pinien.",
+                "hu": "Keressen menedéket a natúrpark sűrű fái alatt, ha felerősödik az eső, és élvezze a nedves fenyvesek ilyenkor felszabaduló intenzív illatát.",
+                "ro": "Căutați adăpost sub copacii deși ai parcului natural dacă ploaia se intensifică și bucurați-vă de mirosul intens al pinilor umezi.",
+                "en": "Seek shelter under the dense trees of the nature park if the rain intensifies, and enjoy the intense scent of the damp pine trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa João Lúcio",
+                "hu": "Casa João Lúcio",
+                "ro": "Casa João Lúcio",
+                "en": "Casa João Lúcio"
+              },
+              "tip_5lang": {
+                "de": "Dieses architektonische Juwel ist der ideale Ort für eine ausgiebige Regenpause im Inneren, während Sie mehr über den Dichter erfahren.",
+                "hu": "Ez az építészeti ékszerdoboz ideális hely egy kiadós esőszünetre a beltérben, miközben megismeri a költő életművét.",
+                "ro": "Această bijuterie arhitecturală este locul ideal pentru o pauză lungă de ploaie în interior, în timp ce aflați mai multe despre poet.",
+                "en": "This architectural gem is the ideal place for an extensive rain break indoors while you learn more about the poet's legacy."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Armona-Ria",
+                "hu": "Praia da Armona-Ria",
+                "ro": "Praia da Armona-Ria",
+                "en": "Praia da Armona-Ria"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie am Strand eine starke Brise; halten Sie den Stopp kurz und nutzen Sie die Fähre für eine geschützte Rückfahrt zum Festland.",
+                "hu": "A tengerparton erős szélre számítson; tartsa rövidre a megállót, és használja a kompot a védett visszatéréshez a szárazföldre.",
+                "ro": "Așteptați-vă la o briză puternică pe plajă; scurtați oprirea și folosiți feribotul pentru o întoarcere protejată spre continent.",
+                "en": "Expect a strong breeze at the beach; keep the stop short and use the ferry for a sheltered return to the mainland."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winter-Radtour bietet klare Sicht und frische Meeresluft. Starten Sie morgens am Hafen, wenn es noch kühl ist, und nutzen Sie das Museum zum Aufwärmen. Mittags leuchten die Salinen im flachen Sonnenlicht besonders weiß. Da es um 17:00 Uhr dunkel wird, planen Sie die Quinta de Marim und Casa João Lúcio für den frühen Nachmittag ein. Der Strandbesuch ist kurz, aber belebend.",
+            "hu": "A téli kerékpártúra tiszta kilátást és friss tengeri levegőt kínál. Kezdjen reggel a kikötőben, amikor még hűvös van, és használja a múzeumot bemelegítésre. Délben a sólepárlók fehéren ragyognak az alacsony napfényben. Mivel 17:00-kor sötétedik, a Quinta de Marimot és a Casa João Lúciót koradélutánra tervezze. A tengerparti zárás rövid, de frissítő lesz.",
+            "ro": "O tură cu bicicleta iarna oferă vizibilitate clară și aer proaspăt de mare. Începeți dimineața în port, când este încă răcoare, și folosiți muzeul pentru a vă încălzi. La prânz, salinele strălucesc în lumina joasă a soarelui. Deoarece se întunecă la ora 17:00, planificați vizita la Quinta de Marim și Casa João Lúcio devreme. Finalul pe plajă este scurt, dar revigorant.",
+            "en": "A winter bike tour offers clear views and fresh sea air. Start in the morning at the harbor when it's still cool, and use the museum to warm up. At noon, the salt pans shine white in the low sunlight. Since it gets dark at 17:00, plan Quinta de Marim and Casa João Lúcio for the early afternoon. The beach finish is short but invigorating."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barco Bom Sucesso",
+                "hu": "Barco Bom Sucesso",
+                "ro": "Barco Bom Sucesso",
+                "en": "Barco Bom Sucesso"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafen ohne die Sommermassen; tragen Sie Schichten, da die kühle Morgenluft beim Radfahren schnell auskühlen kann.",
+                "hu": "Élvezze a kikötőt a nyári tömeg nélkül; öltözzön rétegesen, mert a hűvös reggeli levegő kerékpározás közben hamar lehűtheti a testét.",
+                "ro": "Bucurați-vă de port fără aglomerația de vară; purtați straturi, deoarece aerul rece de dimineață vă poate răci rapid în timp ce pedalați.",
+                "en": "Enjoy the harbor without the summer crowds; wear layers, as the cool morning air can quickly chill you while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Olhão",
+                "hu": "Museu Municipal de Olhão",
+                "ro": "Museu Municipal de Olhão",
+                "en": "Museu Municipal de Olhão"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um die steifen Glieder nach der ersten Etappe aufzuwärmen und die Geschichte Olhãos in Ruhe zu studieren.",
+                "hu": "Használja ezt a megállót, hogy átmelegítse elgémberedett végtagjait az első szakasz után, és nyugodtan tanulmányozza Olhão történelmét.",
+                "ro": "Folosiți acest popas pentru a vă încălzi membrele amorțite după prima etapă și studiați istoria orașului Olhão în liniște.",
+                "en": "Use this stop to warm up your stiff limbs after the first leg and study Olhão's history in peace away from the winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Salinas do Coquenão",
+                "hu": "Salinas do Coquenão",
+                "ro": "Salinas do Coquenão",
+                "en": "Salinas do Coquenão"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie im Winter Zugvögel in den Becken; das flache Sonnenlicht ist ideal, um Flamingos ohne sommerliches Hitzeflimmern zu fotografieren.",
+                "hu": "Télen figyelje meg a vándormadarakat a medencékben; az alacsony napfény ideális a flamingók fotózásához a nyári hőség okozta vibrálás nélkül.",
+                "ro": "Observați păsările migratoare în bazine iarna; lumina joasă a soarelui este ideală pentru a fotografia flamingi fără vibrația căldurii de vară.",
+                "en": "Observe migratory birds in the pools in winter; the low sunlight is ideal for photographing flamingos without the summer heat shimmer."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta de Marim 1",
+                "hu": "Quinta de Marim 1",
+                "ro": "Quinta de Marim 1",
+                "en": "Quinta de Marim 1"
+              },
+              "tip_5lang": {
+                "de": "Der Naturpark ist im Winter herrlich ruhig; achten Sie auf den frühen Schatten der Pinien und genießen Sie die klare, würzige Waldluft.",
+                "hu": "A natúrpark télen csodálatosan csendes; figyeljen a fenyők korai árnyékaira, és élvezze az erdő tiszta, fűszeres téli levegőjét.",
+                "ro": "Parcul natural este minunat de liniștit iarna; atenție la umbrele timpurii ale pinilor și bucurați-vă de aerul curat și aromat al pădurii.",
+                "en": "The nature park is wonderfully quiet in winter; watch out for the early shadows of the pines and enjoy the clear, spicy forest air."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa João Lúcio",
+                "hu": "Casa João Lúcio",
+                "ro": "Casa João Lúcio",
+                "en": "Casa João Lúcio"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Museumsbesuch am Nachmittag ein, wenn die Temperaturen sinken, um die Wärme des charmanten Gebäudes zu genießen.",
+                "hu": "Tervezze ezt a múzeumlátogatást délutánra, amikor a hőmérséklet csökkenni kezd, így kihasználhatja a hangulatos épület melegét.",
+                "ro": "Planificați această vizită la muzeu după-amiaza, când temperaturile scad, pentru a vă bucura de căldura clădirii fermecătoare.",
+                "en": "Plan this museum visit for the afternoon as temperatures drop, allowing you to enjoy the warmth of the charming building."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Armona-Ria",
+                "hu": "Praia da Armona-Ria",
+                "ro": "Praia da Armona-Ria",
+                "en": "Praia da Armona-Ria"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das goldene Licht vor dem Sonnenuntergang zu erleben; die Rückfahrt per Fähre bietet einen tollen Blick auf die Lichter der Stadt.",
+                "hu": "Érkezzen 16:30 előtt, hogy lássa az utolsó arany fényeket a naplemente előtt; a komppal való visszatéréskor csodás kilátás nyílik a város fényeire.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a vedea lumina aurie înainte de apus; întoarcerea cu feribotul oferă o priveliște minunată asupra luminilor orașului.",
+                "en": "Arrive before 16:30 to see the golden light before sunset; the ferry ride back offers a wonderful view of the city lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen kora reggel egy ősi kőhídhoz, amely évszázados regionális történelmet őriz. Délben az útvonal a partra vezet, hogy felfedezze a római romokat és a természetvédelmi területeket. A délután egy egyedi tervezésű, történelmi faház felfedezésére szolgál. Zárja a napot azzal, hogy visszavezet a kikötőbe egy felejthetetlen naplementés hajótúrára a vízen.",
         "ro": "Conduceți devreme pentru a explora un vechi pod de piatră care a asistat la secole de istorie regională. La prânz, traseul vă duce pe coastă pentru a descoperi ruine romane și poduri de parc natural. După-amiaza este dedicată explorării unei cabane istorice unice. Încheiați-vă ziua conducând înapoi în port pentru un tur cu barca de neuitat la apus.",
         "en": "Drive out early to explore an ancient stone bridge that has witnessed centuries of regional history. By midday, your route takes you to the coast to uncover Roman ruins and serene nature park bridges. The afternoon is dedicated to exploring a uniquely designed historic chalet set amongst the pines. Conclude your day trip by driving back to the harbor for an unforgettable sunset boat tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund in Olhão. Vormittags besuchen Sie die historischen Brücken, die im Regen eine melancholische Schönheit ausstrahlen. Die Villa Romana bietet teilweise überdachte Wege. Mittags wärmt die Casa João Lúcio auf. Den Nachmittag verbringen Sie am Strand im Auto mit Blick auf die stürmische Ria, bevor Sie die Tour sicher im Hafen abschließen.",
+            "hu": "Az autó ma a legjobb barátja Olhãóban. Délelőtt keresse fel a történelmi hidakat, amelyek az esőben melankolikus szépséget árasztanak. A Villa Romana részben fedett útvonalakat kínál. Délben a Casa João Lúcio falai között melegedhet fel. A délutánt töltse a tengerparton, az autóból figyelve a viharos tengeröblöt, mielőtt a kikötőben zárná a napot.",
+            "ro": "Mașina este cel mai bun prieten astăzi în Olhão. Dimineața vizitați podurile istorice, care emană o frumusețe melancolică în ploaie. Villa Romana oferă trasee parțial acoperite. La prânz, Casa João Lúcio vă încălzește. Petreceți după-amiaza la plajă, privind din mașină Ria învolburată, înainte de a încheia turul în siguranță în port.",
+            "en": "The car is your best friend in Olhão today. In the morning, visit the historic bridges, which exude a melancholic beauty in the rain. Villa Romana offers partially covered paths. At noon, Casa João Lúcio provides a warm sanctuary. Spend the afternoon at the beach, watching the stormy Ria from the car, before safely finishing the day at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte Velha de Quelfes",
+                "hu": "Ponte Velha de Quelfes",
+                "ro": "Ponte Velha de Quelfes",
+                "en": "Ponte Velha de Quelfes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Brücke und nutzen Sie kurze Regenpausen für Fotos; der antike Stein wirkt bei Nässe farblich viel intensiver.",
+                "hu": "Parkoljon közel a hídhoz, és használja ki a rövid esőszüneteket a fotózáshoz; az antik kő színei nedvesen sokkal intenzívebbek.",
+                "ro": "Parcați aproape de pod și folosiți pauzele scurte de ploaie pentru fotografii; piatra antică pare mult mai intensă cromatic când este udă.",
+                "en": "Park close to the bridge and use short rain breaks for photos; the ancient stone colors look much more intense when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte de Marim",
+                "hu": "Ponte de Marim",
+                "ro": "Ponte de Marim",
+                "en": "Ponte de Marim"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher bei der Anfahrt, die sich bei Regen mit Wasser füllen können; genießen Sie den Blick auf die Ria direkt vom Beifahrersitz.",
+                "hu": "Figyeljen a kátyúkra az odavezető úton, amelyek esőben megtelhetnek vízzel; élvezze a kilátást a Ria Formosára közvetlenül az utasülésről.",
+                "ro": "Atenție la gropile de pe drumul de acces, care se pot umple cu apă; bucurați-vă de priveliștea spre Ria direct de pe scaunul pasagerului.",
+                "en": "Watch out for potholes on the approach road that can fill with water; enjoy the view of the Ria directly from your car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana da Quinta de Marim",
+                "hu": "Villa romana da Quinta de Marim",
+                "ro": "Villa romana da Quinta de Marim",
+                "en": "Villa romana da Quinta de Marim"
+              },
+              "tip_5lang": {
+                "de": "Die Mosaike sind bei Regen besonders glänzend; bringen Sie einen großen Schirm mit, da die Ausgrabungsstätte nur teilweise überdacht ist.",
+                "hu": "A mozaikok esőben különösen csillognak; hozzon nagy esernyőt, mert az ásatási területnek csak egy része fedett.",
+                "ro": "Mozaicurile sunt deosebit de strălucitoare în ploaie; aduceți o umbrelă mare, deoarece situl arheologic este doar parțial acoperit.",
+                "en": "The mosaics are particularly shiny in the rain; bring a large umbrella as only parts of the excavation site are covered."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa João Lúcio",
+                "hu": "Casa João Lúcio",
+                "ro": "Casa João Lúcio",
+                "en": "Casa João Lúcio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hauseigenen Parkplatz für einen trockenen Übergang in das Museum und genießen Sie die warme, literarische Atmosphäre im Inneren.",
+                "hu": "Használja a ház saját parkolóját a száraz bejutáshoz, és élvezze a benti meleg, irodalmi hangulatot, amíg kint esik.",
+                "ro": "Folosiți parcarea proprie pentru a intra uscat în muzeu și bucurați-vă de atmosfera caldă și literară din interior cât timp plouă.",
+                "en": "Use the on-site parking for a dry entry into the museum and enjoy the warm, literary atmosphere inside while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Armona-Mar",
+                "hu": "Praia da Armona-Mar",
+                "ro": "Praia da Armona-Mar",
+                "en": "Praia da Armona-Mar"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen gemütlich im Auto geparkt und beobachten Sie das Spiel der Wellen an der stürmischen Algarve-Küste.",
+                "hu": "Heves esőben maradjon kényelmesen az autóban parkolva, és figyelje a hullámok játékát a viharos Algarve-parton.",
+                "ro": "În caz de ploaie torențială, rămâneți parcați confortabil în mașină și observați jocul valurilor pe coasta furtunoasă a Algarvei.",
+                "en": "In case of heavy rain, stay comfortably parked in the car and watch the waves play on the stormy Algarve coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabino Boat Tours",
+                "hu": "Sabino Boat Tours",
+                "ro": "Sabino Boat Tours",
+                "en": "Sabino Boat Tours"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahegelegenen Parkhaus, um den Tag am Hafen zu beenden, und wählen Sie für die Tour ein Boot mit festem Kabinenbereich.",
+                "hu": "Parkoljon a közeli parkolóházban a nap végén, és válasszon olyan hajótúrát, amely zárt kabinrésszel is rendelkezik a vizes időben.",
+                "ro": "Parcați în parcarea etajată din apropiere pentru a încheia ziua în port și alegeți un tur cu o barcă ce are cabină închisă.",
+                "en": "Park in the nearby parking garage to end your day at the harbor, and choose a boat tour that features a closed cabin area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Olhão zeigt die historische Seite der Stadt im besten Licht. Vormittags besuchen Sie die alten Brücken, wenn der Frost gerade verschwunden ist. Die Villa Romana ist in der kühlen Luft herrlich leer. Mittags wärmen Sie sich in der Casa João Lúcio auf. Planen Sie den Strandbesuch vor 16:30 Uhr, um das goldene Licht zu nutzen, bevor Sie im Hafen den Tag ausklingen lassen.",
+            "hu": "A téli autós körút Olhãóban a város történelmi arcát mutatja meg a legjobb fényben. Délelőtt keresse fel a régi hidakat, amikor a reggeli hűvösség már enyhül. A Villa Romana a hűvös időben csodásan üres. Délben melegedjen fel a Casa João Lúcio falai között. A tengerparti látogatást 16:30-ra időzítse az arany fényekért, mielőtt a kikötőben zárná a napot.",
+            "ro": "O plimbare cu mașina iarna prin Olhão dezvăluie latura istorică a orașului în cea mai bună lumină. Dimineața vizitați podurile vechi. Villa Romana este minunat de goală în aerul răcoros. La prânz, încălziți-vă în Casa João Lúcio. Planificați vizita la plajă înainte de 16:30 pentru lumina aurie, înainte de a încheia ziua în port.",
+            "en": "A winter drive through Olhão reveals the city's historical side in the best light. In the morning, visit the old bridges as the morning chill fades. Villa Romana is wonderfully empty in the cool air. At noon, warm up inside Casa João Lúcio. Plan your beach visit for 16:30 to catch the golden light before finishing at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte Velha de Quelfes",
+                "hu": "Ponte Velha de Quelfes",
+                "ro": "Ponte Velha de Quelfes",
+                "en": "Ponte Velha de Quelfes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Brücke; am frühen Morgen kann der Boden hier bei Frost etwas glatt sein, fahren Sie vorsichtig.",
+                "hu": "Használja ki a tiszta téli fényt a hídról készült fotókhoz; kora reggel a talaj fagy esetén csúszós lehet, vezessen óvatosan a környéken.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu podul; dimineața devreme, solul poate fi alunecos în caz de îngheț, conduceți cu atenție.",
+                "en": "Take advantage of the clear winter light for photos of the bridge; early in the morning, the ground can be slippery if there's frost, so drive carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte de Marim",
+                "hu": "Ponte de Marim",
+                "ro": "Ponte de Marim",
+                "en": "Ponte de Marim"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die winterliche Lagune ist von hier aus spektakulär; lassen Sie die Heizung im Auto laufen, während Sie die Aussicht genießen.",
+                "hu": "A kilátás a téli lagúnára innen nézve látványos; hagyja járni a fűtést az autóban, miközben az utasablakból gyönyörködik a panorámában.",
+                "ro": "Priveliștea asupra lagunei iarna este spectaculoasă de aici; lăsați căldura pornită în mașină în timp ce admirați panorama de la fereastră.",
+                "en": "The view of the winter lagoon is spectacular from here; keep the car heater running while you enjoy the panorama from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana da Quinta de Marim",
+                "hu": "Villa romana da Quinta de Marim",
+                "ro": "Villa romana da Quinta de Marim",
+                "en": "Villa romana da Quinta de Marim"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen am Vormittag, wenn die Sonne tief steht und die Texturen der alten Steine und Mosaike besonders betont.",
+                "hu": "Látogassa meg a romokat délelőtt, amikor a nap alacsonyan jár, és kiemeli a régi kövek és mozaikok különleges textúráját.",
+                "ro": "Vizitați ruinele dimineața, când soarele este jos și scoate în evidență texturile pietrelor vechi și ale mozaicurilor.",
+                "en": "Visit the ruins in the morning when the sun is low, emphasizing the textures of the ancient stones and mosaics beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa João Lúcio",
+                "hu": "Casa João Lúcio",
+                "ro": "Casa João Lúcio",
+                "en": "Casa João Lúcio"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp am frühen Nachmittag, um die Kälte draußen zu vergessen und in die gemütliche Atmosphäre des Hauses einzutauchen.",
+                "hu": "Tökéletes koradélutáni megálló, hogy elfelejtse a kinti hűvöset, és elmerüljön a ház otthonos, meleg hangulatában.",
+                "ro": "Un popas perfect după-amiaza devreme pentru a uita de frigul de afară și a vă cufunda în atmosfera primitoare a casei.",
+                "en": "A perfect early afternoon stop to forget the chill outside and immerse yourself in the cozy atmosphere of the house."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Armona-Mar",
+                "hu": "Praia da Armona-Mar",
+                "ro": "Praia da Armona-Mar",
+                "en": "Praia da Armona-Mar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean und genießen Sie den Sonnenuntergang gegen 17:00 Uhr gemütlich und windgeschützt aus Ihrem Fahrzeug.",
+                "hu": "Parkoljon az óceánra néző helyen, és élvezze az 17:00 körüli naplementét kényelmesen, a széltől védve az autója ablakából.",
+                "ro": "Parcați cu vedere la ocean și bucurați-vă de apusul de la ora 17:00 confortabil, feriți de vânt, din interiorul mașinii.",
+                "en": "Park with a view of the ocean and enjoy the sunset around 17:00 comfortably and protected from the wind from your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabino Boat Tours",
+                "hu": "Sabino Boat Tours",
+                "ro": "Sabino Boat Tours",
+                "en": "Sabino Boat Tours"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Fahrt des Tages, wenn die Lichter von Olhão im klaren Winterhimmel zu funkeln beginnen; bringen Sie eine warme Decke mit.",
+                "hu": "Használja ki a nap utolsó túráját, amikor Olhão fényei elkezdenek csillogni a tiszta téli égbolt alatt; vigyen magával egy meleg takarót.",
+                "ro": "Profitați de ultimul tur al zilei, când luminile orașului Olhão încep să scânteieze sub cerul senin de iarnă; luați o pătură caldă.",
+                "en": "Take the last tour of the day as Olhão's lights begin to sparkle under the clear winter sky; bring a warm blanket for the boat."
+              }
+            }
+          ]
+        }
       }
     }
   }

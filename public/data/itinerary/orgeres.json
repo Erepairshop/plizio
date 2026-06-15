@@ -137,6 +137,168 @@
         "hu": "A reggel a Belvédère kulturális központjában indul, majd a Saint-Martin templom békéje várja. Délben a régi állomás történelmi víztornyát fedezheti fel. Délután a fenséges Château d'Orgères felé veszi az irányt. A napot sportosan és izgalmasan, a Parcours Aventure kalandparkban zárja le.",
         "ro": "Dimineața începe cu artă la Belvédère, urmată de liniștea bisericii Saint-Martin. La prânz, descoperiți turnul de apă istoric al vechii gări. După-amiaza faceți o plimbare spre maiestuosul Château d'Orgères. Ziua se încheie cu activități sportive și aventură la Parcours Aventure din pădure.",
         "en": "The morning begins with local culture at Le Belvédère, followed by a peaceful visit to Saint-Martin Church. Midday is spent exploring the historic water tower of the old station. In the afternoon, you walk towards the majestic Château d'Orgères. The day ends with thrilling outdoor fun at Parcours Aventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im Kulturraum Le Belvédère, um trocken zu bleiben. Bewundern Sie mittags die St.-Martin-Kirche und den Wasserturm sicher unter Ihrem Regenschirm. Nachmittags wirkt das Schloss Orgères im Regen dramatisch. Beenden Sie den Tag vorsichtig im Abenteuerpark; tragen Sie wasserdichte Stiefel, da die Wege sehr schlammig sein werden.",
+            "hu": "Kezdje az esős reggelt a Le Belvédère Kulturális Térben, hogy száraz maradjon. Délben csodálja meg a Szent Márton-templomot és a víztornyot az esernyője védelméből. Délután az Orgères kastély drámai látványt nyújt a ködben. A napot a kalandpark környékén fejezze be, feltétlenül vízálló bakancsot viselve, mivel az erdei ösvények meglehetősen sarasak lesznek.",
+            "ro": "Începeți dimineața ploioasă la Spațiul Cultural Le Belvédère pentru a rămâne uscat. La prânz, admirați Biserica Saint-Martin și turnul de apă sub umbrela dumneavoastră. După-amiaza, Castelul Orgères arată dramatic în ploaie. Încheiați ziua cu grijă prin parcul de aventură; purtați cizme impermeabile, deoarece cărările forestiere vor fi destul de noroioase.",
+            "en": "Start your rainy morning at the Le Belvédère Cultural Space to stay dry. By midday, admire the Saint-Martin Church and the old water tower under the safety of your umbrella. In the afternoon, the Château d'Orgères looks dramatic in the rain. Finish your day carefully navigating the adventure park area, wearing sturdy waterproof boots as the paths will be quite muddy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturraum Le Belvédère",
+                "hu": "Le Belvédère Kulturális Tér",
+                "ro": "Spațiul Cultural Le Belvédère",
+                "en": "Le Belvédère Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Innenausstellungen, um völlig trocken zu bleiben und die lokale Kultur kennenzulernen; lassen Sie den nassen Schirm am Eingang.",
+                "hu": "Élvezze a beltéri kiállításokat, hogy teljesen száraz maradjon, miközben megismeri a helyi kultúrát; a vizes esernyőt hagyja a bejáratnál.",
+                "ro": "Bucurați-vă de expozițiile interioare pentru a rămâne complet uscat; lăsați umbrela udă la intrare și descoperiți istoria și cultura locală.",
+                "en": "Enjoy the indoor exhibits to stay completely dry while learning about local culture; be sure to leave your dripping umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im grauen Regenlicht; das Kircheninnere bietet ein friedliches, trockenes Heiligtum vor den Schauern.",
+                "hu": "Csodálja meg a szürke esős égbolt által megvilágított ólomüvegeket; a templom belseje békés, száraz menedéket nyújt a kinti záporok elől.",
+                "ro": "Admirați vitraliile iluminate de cerul ploios și cenușiu; interiorul bisericii oferă un sanctuar pașnic și uscat departe de aversele reci.",
+                "en": "Admire the striking stained glass illuminated by the grey rainy skies; the church interior offers a peaceful, dry sanctuary from the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Wasserturm am Bahnhof",
+                "hu": "Egykori vasútállomás víztornya",
+                "ro": "Turnul de apă al vechii gări",
+                "en": "Old railway station water tower"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das im Regen glänzende Backsteinwerk aus sicherer Entfernung; nutzen Sie einen stabilen Schirm, da der Bereich sehr ungeschützt ist.",
+                "hu": "Figyelje meg az esőben csillogó indusztriális téglákat; használjon erős esernyőt, mivel a torony környéke nyitott és szeles lehet.",
+                "ro": "Observați cărămida industrială strălucind în ploaie de la o distanță sigură; folosiți o umbrelă robustă deoarece zona este destul de expusă.",
+                "en": "Observe the industrial brickwork glistening in the rain from a safe distance; use a sturdy umbrella as the area around the tower is exposed."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Orgères",
+                "hu": "Orgères kastély",
+                "ro": "Castelul Orgères",
+                "en": "Château d'Orgères"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände wirkt im Nebel unglaublich atmosphärisch; tragen Sie wasserdichte Stiefel, da die Wege ziemlich schlammig und rutschig werden.",
+                "hu": "A kastély kertje hihetetlenül hangulatos a ködben; viseljen vízálló bakancsot, mivel az ösvények meglehetősen sarasak és csúszósak lehetnek.",
+                "ro": "Domeniul castelului arată incredibil de atmosferic în ceață; purtați cizme impermeabile deoarece cărările pot deveni destul de noroioase.",
+                "en": "The castle grounds look incredibly atmospheric in the mist; wear waterproof boots as the exterior pathways can become quite muddy and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Abenteuerpark",
+                "hu": "Kalandpark",
+                "ro": "Parc de Aventură",
+                "en": "Parcours Aventure"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den vor Regen triefenden Wald, aber meiden Sie die Kletterstrukturen, da nasse Seile und Hölzer gefährlich rutschig sind.",
+                "hu": "Sétáljon egyet az eső áztatta erdőben, de kerülje a mászóelemeket, mivel a nedves kötelek és a fa felületek veszélyesen csúszósak ilyenkor.",
+                "ro": "Observați pădurea picurând de ploaie, dar evitați structurile de cățărare, deoarece frânghiile și lemnul ud sunt periculos de alunecoase.",
+                "en": "Observe the forest canopy dripping with rain, but avoid the climbing structures as wet ropes and wooden platforms are dangerously slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren winterlichen Spaziergang im beheizten Le Belvédère. Gehen Sie zur historischen St.-Martin-Kirche und zum Wasserturm, während die Mittagssonne die Luft kurz erwärmt. Der Nachmittag bringt einen frostigen Besuch im Schloss Orgères. Enden Sie im Abenteuerpark vor dem frühen Sonnenuntergang um 17 Uhr; packen Sie sich gegen die beißende Kälte warm ein.",
+            "hu": "Kezdje a fagyos téli sétát a fűtött Le Belvédère épületében. Folytassa a történelmi Szent Márton-templomhoz és a víztoronyhoz, amíg a déli nap kissé felmelegíti a levegőt. A délután fagyos látogatást tartogat az Orgères kastélyban. Fejezze be a kalandparkban a korai, 17 órás sötétedés előtt, és gondoskodjon a vastag, meleg rétegekről a csípős hideg ellen.",
+            "ro": "Începeți plimbarea de iarnă la Le Belvédère, bucurându-vă de spațiul încălzit. Continuați spre Biserica Saint-Martin și turnul de apă în timp ce soarele de prânz încălzește aerul. După-amiaza aduce o vizită geroasă la Castelul Orgères. Încheiați la parcul de aventură înainte de apusul de la ora 17:00, asigurându-vă că sunteți îmbrăcat gros împotriva frigului.",
+            "en": "Begin your crisp winter walk at Le Belvédère, enjoying the heated indoor space. Continue to the historic Saint-Martin Church and the water tower as the midday sun briefly warms the air. The afternoon brings a frosty visit to the Château d'Orgères. Conclude at the adventure park before the early 5 PM sunset, ensuring you are bundled up in thick layers against the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturraum Le Belvédère",
+                "hu": "Le Belvédère Kulturális Tér",
+                "ro": "Spațiul Cultural Le Belvédère",
+                "en": "Le Belvédère Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem modernen Kulturzentrum auf, während Sie die Ausstellungen erkunden; es ist ein perfekter Zufluchtsort vor dem Morgenfrost.",
+                "hu": "Melegedjen fel ebben a modern kulturális központban a kiállítások felfedezése közben; tökéletes menedék a csípős reggeli fagy elől.",
+                "ro": "Încălziți-vă în acest centru cultural modern în timp ce explorați expozițiile; este un refugiu perfect din calea gerului tăios al dimineții.",
+                "en": "Warm up inside this modern cultural hub while exploring the displays; it is a perfect heated refuge from the biting morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das ruhige Kirchenschiff ein, um den eisigen Winterwinden zu entkommen, und bewundern Sie die Architektur im weichen Winterlicht.",
+                "hu": "Lépjen be a csendes hajóba, hogy elmeneküljön a jeges téli szelek elől, és csodálja meg az építészetet a lágy, szűrt téli fényben.",
+                "ro": "Pășiți în naosul liniștit pentru a scăpa de vânturile înghețate de iarnă și admirați arhitectura istorică în lumina blândă a iernii.",
+                "en": "Step inside the quiet nave to escape the chilling winter winds, and admire the historic architecture illuminated by the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Wasserturm am Bahnhof",
+                "hu": "Egykori vasútállomás víztornya",
+                "ro": "Turnul de apă al vechii gări",
+                "en": "Old railway station water tower"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die hohe Struktur gegen den kahlen Winterhimmel; tragen Sie warme Handschuhe, da es auf dem offenen Platz sehr windig wird.",
+                "hu": "Fényképezze le a magasodó építményt a kopár téli égbolt előtt; viseljen meleg kesztyűt, mivel a nyitott tér itt kifejezetten szeles lehet.",
+                "ro": "Fotografiați structura falnică pe fundalul cerului de iarnă; purtați mănuși călduroase, deoarece spațiul deschis din jur devine foarte geros.",
+                "en": "Photograph the towering structure against the stark winter sky; wear warm gloves as the surrounding open space gets very breezy and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Orgères",
+                "hu": "Orgères kastély",
+                "ro": "Castelul Orgères",
+                "en": "Château d'Orgères"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die elegante Schlossfassade, eingerahmt von kahlen Winterbäumen; packen Sie sich dick ein, um den frostigen Hof zu genießen.",
+                "hu": "Csodálja meg az elegáns kastélyhomlokzatot a csupasz téli fák ölelésében; öltözzön fel vastagon, hogy kényelmesen sétálhasson a fagyos udvaron.",
+                "ro": "Minunați-vă de fațada elegantă încadrată de copaci desfrunziți; îmbrăcați-vă în straturi groase pentru a vă bucura confortabil de curtea înghețată.",
+                "en": "Marvel at the elegant castle facade framed by bare winter trees; bundle up in thick layers to enjoy walking the frosty courtyard comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Abenteuerpark",
+                "hu": "Kalandpark",
+                "ro": "Parc de Aventură",
+                "en": "Parcours Aventure"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang durch die frostbedeckten Pfade; verlassen Sie den Park unbedingt vor dem frühen Sonnenuntergang um 17 Uhr.",
+                "hu": "Tegyen egy élénkítő sétát a dérrel borított erdei ösvényeken; ügyeljen arra, hogy a korai, 17 óra körüli sötétedés előtt elhagyja a parkot.",
+                "ro": "Faceți o plimbare revigorantă pe traseele acoperite de chiciură; asigurați-vă că plecați înainte de apusul timpuriu de la ora 17:00.",
+                "en": "Take a brisk walk through the quiet, frost-covered adventure trails; be sure to leave before the early 5 PM sunset brings complete darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Energikusan indul a nap a Château d'Orgères-nél, mielőtt eltekerne a történelmi kemencéhez. Délben izgalmas kalandok várják a Parcours Aventure parkban. Délután a központba biciklizik, hogy megnézze a templomot és a Belvédère-t. A kirándulás idillien ér véget az Étang de la Haye Guin tó partján.",
         "ro": "Ziua începe plină de energie la Château d'Orgères, înainte de a pedala spre istoricul cuptor de pâine. La prânz, vă așteaptă o experiență captivantă la Parcours Aventure. După-amiaza vă întoarceți în centru pentru a vizita biserica și Belvédère. Excursia se încheie idilic lângă lacul Étang de la Haye Guin.",
         "en": "You start full of energy at Château d'Orgères, before pedaling to the historic bread oven. Midday brings an exciting experience at the Parcours Aventure. In the afternoon, you cycle into the center to visit the church and Le Belvédère. The excursion ends idyllically relaxing by the Étang de la Haye Guin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den Regen zum Schloss Orgères und suchen Sie kurz Schutz am alten Brotbackofen. Befahren Sie mittags die rutschigen Wege des Abenteuerparks mit Vorsicht. Wärmen Sie sich nachmittags in der St.-Martin-Kirche und im Le Belvédère auf. Beenden Sie die nasse Fahrt am See der Haye Guin in gut sichtbarer, wasserdichter Kleidung.",
+            "hu": "Óvatosan tekerjen az esőben az Orgères kastélyhoz, majd keressen menedéket a régi kemencénél. Délben fokozott figyelemmel haladjon a kalandpark csúszós ösvényein. Délután melegedjen fel a Szent Márton-templomban és a Le Belvédère épületében. A nedves túrát a Haye Guin tónál fejezze be, feltétlenül jól láthatósági esőruhát viselve.",
+            "ro": "Pedalați cu grijă prin ploaie spre Castelul Orgères, apoi căutați adăpost scurt la cuptorul de pâine. La prânz, navigați cu prudență pe traseele alunecoase ale parcului. Încălziți-vă în Biserica Saint-Martin și la Le Belvédère după-amiaza. Încheiați plimbarea udă la Lacul Haye Guin, purtând echipament impermeabil cu vizibilitate ridicată.",
+            "en": "Cycle carefully through the rain to the striking Château d'Orgères, then seek brief shelter at the old bread oven. By midday, navigate the slippery trails of the adventure park with caution. Warm up inside the Saint-Martin Church and the Le Belvédère Cultural Space during the afternoon showers. End your wet ride at the Haye Guin Pond in high-visibility gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Orgères",
+                "hu": "Orgères kastély",
+                "ro": "Castelul Orgères",
+                "en": "Château d'Orgères"
+              },
+              "tip_5lang": {
+                "de": "Nähern Sie sich dem Schloss langsam auf Ihrem Fahrrad, da nasses Laub die Zufahrt rutschig macht; das neblige Schloss bietet ein tolles Fotomotiv.",
+                "hu": "Lassan közelítse meg a kastélyt kerékpárral, mivel a nedves falevelek csúszósak lehetnek; a ködbe burkolózó épület nagyszerű fotótéma.",
+                "ro": "Apropiați-vă încet de castel cu bicicleta, deoarece frunzele ude fac drumul alunecos; clădirea în ceață oferă o oportunitate foto excelentă.",
+                "en": "Approach the castle slowly on your bike as wet leaves make the access road slippery; the mist-shrouded building provides a great photo op."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Brotbackofen",
+                "hu": "Régi kenyérsütő kemence",
+                "ro": "Vechiul cuptor de pâine",
+                "en": "Old bread oven"
+              },
+              "tip_5lang": {
+                "de": "Untersuchen Sie die Steinstruktur bei einer kurzen Radpause; tragen Sie einen guten Regenmantel, da es hier nur minimalen Unterschlupf gibt.",
+                "hu": "Vizsgálja meg a kőépítményt egy rövid pihenő alatt; viseljen jó esőkabátot, mivel itt alig van tető, ami megvédene a záportól.",
+                "ro": "Examinați structura de piatră în timpul unei scurte pauze; purtați o pelerină de ploaie bună, deoarece aici există un adăpost minim.",
+                "en": "Examine the stone structure while taking a quick break from cycling; wear a good raincoat as there is minimal overhead shelter here."
+              }
+            },
+            {
+              "name": {
+                "de": "Abenteuerpark",
+                "hu": "Kalandpark",
+                "ro": "Parc de Aventură",
+                "en": "Parcours Aventure"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad auf den Waldwegen, da der Schlamm tief sein kann; betreten Sie die nassen und rutschigen Holzhindernisse besser nicht.",
+                "hu": "Tolja a kerékpárt az erdei ösvényeken, mert a sár mély lehet; a balesetveszély miatt ne másszon fel a nedves és csúszós fa akadályokra.",
+                "ro": "Împingeți bicicleta pe cărările forestiere, deoarece noroiul poate fi adânc; nu încercați obstacolele din lemn care sunt umede și alunecoase.",
+                "en": "Push your bike along the forest paths as the mud can be deep; avoid stepping on the wooden obstacles which are wet and very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad draußen ab und treten Sie ein, um dem Regen zu entkommen; das Kircheninnere ist ein perfekter Ort, um sich kurz aufzuwärmen.",
+                "hu": "Támassza le a kerékpárt, és lépjen be, hogy menedéket találjon az eső elől; a templom belseje tökéletes hely egy rövid felmelegedésre.",
+                "ro": "Parcați bicicleta afară și intrați pentru a scăpa de ploaie; interiorul bisericii este un loc perfect pentru a vă încălzi rapid și a vă usca.",
+                "en": "Park your bike outside and step in to escape the rain; the peaceful church interior is a perfect spot to briefly warm up and dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Le Belvédère",
+                "hu": "Le Belvédère Kulturális Tér",
+                "ro": "Spațiul Cultural Le Belvédère",
+                "en": "Le Belvédère Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Ausrüstung am Eingang und genießen Sie die völlig trockenen Ausstellungen über das lokale Kulturerbe von Orgères.",
+                "hu": "Hagyja a vizes felszerelést a bejáratnál, és élvezze a teljesen száraz kiállításokat Orgères helyi kulturális örökségéről.",
+                "ro": "Lăsați echipamentul ud la intrare și bucurați-vă de expozițiile complet uscate despre patrimoniul cultural local din Orgères.",
+                "en": "Leave your wet cycling gear at the entrance and enjoy the completely dry indoor exhibits learning about the local heritage of Orgères."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Haye Guin",
+                "hu": "Haye Guin tó",
+                "ro": "Lacul Haye Guin",
+                "en": "Haye Guin Pond"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Atmosphäre am Wasser; schalten Sie Ihre Fahrradlichter ein, da starker Regen die Sichtweite auf den Wegen verringert.",
+                "hu": "Élvezze a víz feletti ködös hangulatot; kapcsolja be a kerékpárlámpákat, mivel a heves esőzés jelentősen csökkenti a látótávolságot.",
+                "ro": "Bucurați-vă de atmosfera cețoasă de pe apă; aprindeți luminile bicicletei deoarece ploaia abundentă reduce mult vizibilitatea pe trasee.",
+                "en": "Enjoy the moody, misty atmosphere over the water; ensure your bike lights are on as heavy rain significantly reduces visibility on the paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine frostige Morgenfahrt zum Schloss Orgères und dem historischen Brotbackofen warm ein. Mittags geht es zügig am Abenteuerpark vorbei zur einladenden St.-Martin-Kirche. Verbringen Sie den späten Nachmittag im beheizten Le Belvédère. Enden Sie am teilweise gefrorenen See der Haye Guin, kurz bevor die frühe Dämmerung einsetzt.",
+            "hu": "Öltözzön be melegen egy fagyos reggeli tekeréshez az Orgères kastélyhoz és a régi kemencéhez. Délben frissítő tempóban haladjon el a kalandpark mellett a barátságos Szent Márton-templomig. A késő délutánt a fűtött Le Belvédère-ben töltse. Fejezze be a túrát a részben befagyott Haye Guin tónál, mielőtt leszáll a korai alkonyat.",
+            "ro": "Îmbrăcați-vă gros pentru o cursă matinală geroasă spre Castelul Orgères și cuptorul istoric. La prânz, pedalați vioi pe lângă parcul de aventură spre primitoarea Biserică Saint-Martin. Petreceți după-amiaza în spațiul încălzit Le Belvédère. Terminați la Lacul Haye Guin, parțial înghețat, chiar înainte să se lase amurgul timpuriu.",
+            "en": "Bundle up for a frosty morning ride to the Château d'Orgères and the historic bread oven, watching for icy patches. Midday brings a brisk pedal past the adventure park to the welcoming Saint-Martin Church. Spend late afternoon inside the heated Le Belvédère Cultural Space. Finish at the partly frozen Haye Guin Pond before early dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Orgères",
+                "hu": "Orgères kastély",
+                "ro": "Castelul Orgères",
+                "en": "Château d'Orgères"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf morgendliches Glatteis auf dem Weg zum Schloss; die frostbedeckten Gärten sind atemberaubend in der klaren Winterluft.",
+                "hu": "Ügyeljen a reggeli tükörjégre a kastélyhoz vezető úton; a dérrel borított kertek lélegzetelállítóak a ropogós téli levegőben.",
+                "ro": "Atenție la poleiul matinal pe drumul spre castel; grădinile acoperite de chiciură sunt uluitoare în aerul curat și rece de iarnă.",
+                "en": "Watch for morning black ice on the approach road to the castle; the frost-covered gardens are breathtaking in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Brotbackofen",
+                "hu": "Régi kenyérsütő kemence",
+                "ro": "Vechiul cuptor de pâine",
+                "en": "Old bread oven"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich die historische Wärme dieses rustikalen Backplatzes vor; achten Sie auf eisige Stellen auf den Pfaden, wenn Sie sich nähern.",
+                "hu": "Képzelje el ennek a rusztikus sütőhelynek a történelmi melegét; vigyázzon a jégfoltokra az ösvényeken, amikor kerékpárral közeledik.",
+                "ro": "Imaginați-vă căldura istorică a acestui loc rustic de copt; atenție la porțiunile înghețate de pe cărări atunci când vă apropiați cu bicicleta.",
+                "en": "Imagine the historic warmth of this rustic baking site; watch out for tricky icy patches on the surrounding dirt trails as you approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Abenteuerpark",
+                "hu": "Kalandpark",
+                "ro": "Parc de Aventură",
+                "en": "Parcours Aventure"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an den stillen, gefrorenen Hindernissen vorbei; der Winterwald ist wunderschön, aber die Baumwurzeln sind jetzt sehr glatt.",
+                "hu": "Lassan tekerjen el a csendes, fagyott akadályok mellett; a téli erdő gyönyörű, de a kiálló gyökerek ilyenkor különösen csúszósak.",
+                "ro": "Pedalați încet pe lângă obstacolele tăcute și înghețate; pădurea de iarnă este frumoasă, dar rădăcinile copacilor sunt foarte alunecoase acum.",
+                "en": "Ride slowly past the silent, frozen obstacles; the winter forest is beautiful but exposed tree roots are extremely slick in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diese Gelegenheit, um Ihre Hände beim Betrachten des Steinaltars aufzuwärmen, bevor Sie in die kalte Luft zurückkehren.",
+                "hu": "Használja ki a lehetőséget, és melegítse fel a kezét a kőoltár megtekintése közben, mielőtt visszatérne a fagyos téli levegőre.",
+                "ro": "Profitați de această ocazie pentru a vă încălzi mâinile în timp ce admirați altarul de piatră, înainte de a vă întoarce în aerul rece.",
+                "en": "Take this opportunity to warm up your hands indoors while viewing the beautiful stone altar before heading back into the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Le Belvédère",
+                "hu": "Le Belvédère Kulturális Tér",
+                "ro": "Spațiul Cultural Le Belvédère",
+                "en": "Le Belvédère Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier reichlich Zeit, um sich gründlich aufzuwärmen; die helle Innenbeleuchtung ist ein schöner Kontrast zum grauen Winternachmittag.",
+                "hu": "Töltsön itt elegendő időt az alapos felmelegedéshez; a világos belső tér kellemes kontrasztot nyújt a szürke téli délutánnal szemben.",
+                "ro": "Petreceți suficient timp aici pentru a vă încălzi complet; iluminatul interior strălucitor este un contrast frumos cu după-amiaza cenușie.",
+                "en": "Spend ample time here to warm up thoroughly; the bright indoor lighting provides a cheerful contrast to the grey, overcast winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Haye Guin",
+                "hu": "Haye Guin tó",
+                "ro": "Lacul Haye Guin",
+                "en": "Haye Guin Pond"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die eisigen Ränder des stillen Teiches; fahren Sie vorsichtig, da die Schotterwege im Winter oft hart gefrieren und rutschig sind.",
+                "hu": "Csodálja meg a csendes tó fagyos széleit; tekerjen óvatosan, mivel a kavicsos ösvények télen gyakran kőkeményre fagynak és csúsznak.",
+                "ro": "Admirați marginile înghețate ale iazului liniștit; mergeți cu grijă, deoarece traseele cu pietriș îngheață adesea puternic în timpul iernii.",
+                "en": "Admire the beautiful frosted edges of the quiet pond; ride carefully as the approaching gravel trails often freeze completely solid in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Az autós túra a régi kemence történelmével kezdődik, majd a csendes Étang de la Haye Guin tóhoz vezet. Délután felfedezi a Chicanet, és megcsodálja a történelmi Chappe-távírótornyot. Később visszatér Orgères szívébe a főbb látványosságokhoz. A nap a csodálatos Château d'Orgères-nél ér kellemesen véget.",
         "ro": "Călătoria cu mașina începe cu istoria la vechiul cuptor de pâine, ducându-vă apoi la liniștitul Étang de la Haye Guin. După-amiaza descoperiți La Chicane și admirați turnul istoric de telegraf Chappe. Mai târziu vă întoarceți în inima orașului Orgères. Ziua se încheie relaxant la magnificul Château d'Orgères.",
         "en": "Your drive begins with history at the old bread oven, then leads you to the tranquil Étang de la Haye Guin. Midday brings you to La Chicane and the historic Chappe telegraph tower. Later, you return to the heart of Orgères for cultural sights. The day concludes wonderfully at the magnificent Château d'Orgères."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den Nieselregen, um den alten Backofen und den nebligen See der Haye Guin zu sehen. Steuern Sie sicher zu La Chicane und dem Telegrafenturm. Verbringen Sie einen trockenen Nachmittag in Le Belvédère und der ruhigen St.-Martin-Kirche. Schließen Sie Ihre malerische Fahrt mit dem Wasserturm und dem majestätischen Schloss ab.",
+            "hu": "Vezessen kényelmesen a reggeli szitálásban, és nézze meg a régi kemencét és a ködös Haye Guin tavat. Biztonságosan navigáljon a La Chicane és a távírótorony felé. Töltsön egy száraz délutánt a Le Belvédère-ben és a csendes Szent Márton-templomban. Zárja a festői esős autózást a víztoronnyal és a fenséges kastéllyal.",
+            "ro": "Conduceți confortabil prin burnița dimineții pentru a vedea vechiul cuptor și Lacul Haye Guin încețoșat. Navigați în siguranță spre La Chicane și Turnul Telegrafic. Petreceți o după-amiază uscată explorând expozițiile de la Le Belvédère și liniștita Biserică Saint-Martin. Încheiați traseul auto cu turnul de apă și maiestuosul Castel Orgères.",
+            "en": "Drive comfortably through the morning drizzle to see the old bread oven and the misty Haye Guin Pond. Navigate safely to La Chicane and the Chappe Telegraph Tower as the rain continues. Spend a dry afternoon exploring the indoor exhibits at Le Belvédère and the quiet Saint-Martin Church. Conclude your scenic rainy drive with the water tower and Château d'Orgères."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alter Brotbackofen",
+                "hu": "Régi kenyérsütő kemence",
+                "ro": "Vechiul cuptor de pâine",
+                "en": "Old bread oven"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie dicht dran und betrachten Sie den Ofen schnell unter einem Schirm; der unbefestigte Bereich um ihn herum wird schnell schlammig.",
+                "hu": "Parkoljon közel, és esernyő alól pillantsa meg a kemencét; a körülötte lévő burkolatlan terület az esőben hamar sárossá válik.",
+                "ro": "Parcați aproape și priviți rapid cuptorul de sub umbrelă; zona neasfaltată din jurul său se transformă rapid în noroi pe timp de ploaie.",
+                "en": "Park close and quickly view the oven from under an umbrella; the unpaved area immediately surrounding it turns to mud very quickly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Haye Guin",
+                "hu": "Haye Guin tó",
+                "ro": "Lacul Haye Guin",
+                "en": "Haye Guin Pond"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im warmen Auto und genießen Sie den Blick auf die Regentropfen auf der Wasseroberfläche, umhüllt von atmosphärischem Nebel.",
+                "hu": "Maradjon a meleg autóban, és élvezze, ahogy az esőcseppek mintákat rajzolnak a hangulatos ködbe burkolózó tó felszínére.",
+                "ro": "Rămâneți în mașina caldă și bucurați-vă de priveliștea picăturilor de ploaie care lovesc suprafața apei, învăluită într-o ceață atmosferică.",
+                "en": "Stay in your warm car and enjoy the scenic view of raindrops hitting the water's surface, completely enveloped in atmospheric local mist."
+              }
+            },
+            {
+              "name": {
+                "de": "La Chicane",
+                "hu": "La Chicane",
+                "ro": "La Chicane",
+                "en": "La Chicane"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam, da die nassen Straßen zusätzliche Vorsicht erfordern; bewundern Sie dieses Wahrzeichen direkt vom Auto aus.",
+                "hu": "Fokozott óvatossággal, lassan hajtson el itt, mivel a nedves utak csúsznak; ezt a helyi nevezetességet tökéletesen láthatja az autóból is.",
+                "ro": "Conduceți foarte încet aici, deoarece drumurile umede necesită o prudență extremă; puteți admira acest punct de reper din interiorul mașinii.",
+                "en": "Drive past slowly, as the wet rural roads demand extra caution; you can easily appreciate this local landmark entirely from inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Chappe-Telegrafenturm",
+                "hu": "Régi Chappe-távírótorony",
+                "ro": "Vechiul turn de telegraf Chappe",
+                "en": "Old Chappe Telegraph Tower"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie durch den Regen auf dieses beeindruckende Relikt; steigen Sie nur kurz mit Schirm aus, um das Auto innen trocken zu halten.",
+                "hu": "Nézze meg ezt a lenyűgöző emlékhelyet az esőn keresztül; csak röviden, esernyővel szálljon ki, hogy az autó belseje száraz maradjon.",
+                "ro": "Priviți în sus la această relicvă impresionantă prin ploaie; ieșiți doar scurt cu o umbrelă robustă pentru a păstra interiorul mașinii uscat.",
+                "en": "Look up at this impressive relic through the rain; step out only briefly with a sturdy umbrella to ensure you keep your car interior dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Le Belvédère",
+                "hu": "Le Belvédère Kulturális Tér",
+                "ro": "Spațiul Cultural Le Belvédère",
+                "en": "Le Belvédère Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingang und verbringen Sie viel Zeit drinnen mit den Ausstellungen, bis der stärkste Nachmittagsregen nachlässt.",
+                "hu": "Használja ki a fedett bejáratot, és töltsön több időt a benti kiállításokkal, amíg a leghevesebb délutáni zápor alábbhagy.",
+                "ro": "Folosiți intrarea acoperită și petreceți timp generos înăuntru cu expozițiile până când cea mai puternică ploaie de după-amiază se mai potolește.",
+                "en": "Take advantage of the covered entrance and spend plenty of time indoors with the exhibits until the heaviest afternoon rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie das trockene Kirchenschiff; das gedämpfte Licht an einem Regentag macht die Atmosphäre sehr besinnlich.",
+                "hu": "Parkoljon a közelben, és lépjen be a száraz hajóba; a tompa fény egy esős napon nagyon elmélyültté és békéssé teszi a hangulatot.",
+                "ro": "Parcați aproape și intrați în naosul uscat; lumina slabă într-o zi ploioasă face ca atmosfera de aici să se simtă deosebit de contemplativă.",
+                "en": "Park nearby and step into the completely dry nave; the subdued lighting on a rainy day makes the historical atmosphere feel very contemplative."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Wasserturm am Bahnhof",
+                "hu": "Egykori vasútállomás víztornya",
+                "ro": "Turnul de apă al vechii gări",
+                "en": "Old railway station water tower"
+              },
+              "tip_5lang": {
+                "de": "Der Ziegelstein sieht im Nassen besonders farbintensiv aus; betrachten Sie ihn aus dem Autofenster, um dem starken Wind am Turm zu entgehen.",
+                "hu": "A tégla különösen élénk színűnek tűnik a nedvességtől; nézze meg az autó ablakából, hogy elkerülje a torony körüli erős szelet.",
+                "ro": "Cărămida arată deosebit de vibrantă când este udă; vizualizați-o pe fereastra mașinii pentru a evita vânturile puternice care bat în jurul ei.",
+                "en": "The red brickwork looks particularly vibrant when wet; view it through the car window to completely avoid the strong winds around the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Orgères",
+                "hu": "Orgères kastély",
+                "ro": "Castelul Orgères",
+                "en": "Château d'Orgères"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zum Schlossparkplatz, da Pfützen tief sein können; das vom Auto aus gesehene Schloss im Regen ist ein toller Anblick.",
+                "hu": "Óvatosan hajtson be a kastély parkolójába, mert a tócsák mélyek lehetnek; a meleg autóból szemlélt esős kastély nagyszerű látvány.",
+                "ro": "Conduceți cu grijă în parcarea castelului, deoarece bălțile pot fi adânci; castelul văzut din confortul mașinii în ploaie este o priveliște măreață.",
+                "en": "Drive carefully into the castle parking area as rain puddles can be deceptively deep; the castle viewed from the car in the rain is a grand sight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine warme Fahrt zum frostigen Backofen und den eisigen Rändern der Haye Guin. Steuern Sie mittags La Chicane und den Telegrafenturm an; lassen Sie die Heizung laufen. Verbringen Sie den Nachmittag im gemütlichen Le Belvédère und der St.-Martin-Kirche. Beenden Sie den Winter-Roadtrip mit dem Wasserturm und dem Schloss vor dem frühen Sonnenuntergang.",
+            "hu": "Élvezze a meleg autózást a fagyos kemencéhez és a Haye Guin tó jeges partjaihoz. Délben nézze meg a La Chicane-t és a távírótornyot; járassa a fűtést. A délutánt a hangulatos Le Belvédère-ben és a Szent Márton-templomban töltse. Zárja a téli utat a víztoronnyal és az Orgères kastéllyal a korai naplemente előtt.",
+            "ro": "Bucurați-vă de o plimbare caldă spre cuptorul înghețat și marginile de gheață ale Lacului Haye Guin. La prânz, vizitați La Chicane și Turnul Telegrafic, ținând căldura pornită. Petreceți după-amiaza la primitorul Le Belvédère și Biserica Saint-Martin. Încheiați călătoria de iarnă cu turnul de apă și castelul, înainte ca soarele să apună devreme.",
+            "en": "Enjoy a warm morning drive to the frosted bread oven and the icy edges of the Haye Guin Pond. At midday, check out La Chicane and the Chappe Telegraph Tower, keeping the car heater running. Spend the afternoon in the cozy Le Belvédère Cultural Space and Saint-Martin Church. End your winter road trip admiring the water tower and Château d'Orgères before early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alter Brotbackofen",
+                "hu": "Régi kenyérsütő kemence",
+                "ro": "Vechiul cuptor de pâine",
+                "en": "Old bread oven"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Dach speichert im Winter schönen Reif; halten Sie nur kurz für ein Foto an, bevor Sie sich im Auto schnell wieder aufwärmen.",
+                "hu": "A kőtetőn gyönyörűen megmarad a téli dér; csak egy fotó erejéig álljon meg, majd gyorsan melegedjen fel újra az autóban.",
+                "ro": "Acoperișul de piatră prinde o chiciură superbă iarna; opriți scurt pentru o fotografie înainte de a vă încălzi rapid din nou în interiorul mașinii.",
+                "en": "The stone roof catches beautiful winter frost; stop only briefly for a photograph before quickly warming back up inside your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Haye Guin",
+                "hu": "Haye Guin tó",
+                "ro": "Lacul Haye Guin",
+                "en": "Haye Guin Pond"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Wasser und genießen Sie die Stille des gefrorenen Teiches, während Sie die Autoheizung gemütlich hochdrehen.",
+                "hu": "Parkoljon a vízre nézve, és élvezze a befagyott tó csendjét, miközben kényelmesen feltekeri az autó fűtését.",
+                "ro": "Parcați cu fața la apă și admirați liniștea iazului parțial înghețat, în timp ce dați drumul la căldura mașinii pentru un confort maxim.",
+                "en": "Park facing the water and admire the complete silence of the partially frozen pond while turning up the car heater for maximum comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "La Chicane",
+                "hu": "La Chicane",
+                "ro": "La Chicane",
+                "en": "La Chicane"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliches Glatteis an diesem Punkt; Sie können das Wahrzeichen sicher durch Ihre freigekratzten Autofenster betrachten.",
+                "hu": "Ezen a ponton fokozottan ügyeljen a tükörjégre; a helyi nevezetességet biztonságosan szemlélheti a jégmentesített autóablakokon keresztül.",
+                "ro": "Fiți atenți la posibila gheață neagră în acest punct; puteți privi reperul în siguranță prin geamurile dezghețate ale mașinii dumneavoastră.",
+                "en": "Be highly aware of potential black ice at this point on the road; you can safely view the landmark through your defrosted car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Chappe-Telegrafenturm",
+                "hu": "Régi Chappe-távírótorony",
+                "ro": "Vechiul turn de telegraf Chappe",
+                "en": "Old Chappe Telegraph Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm hebt sich stark vom blassen Winterhimmel ab; ziehen Sie sich für einen kurzen Spaziergang um die Basis warm an.",
+                "hu": "A torony élesen kiemelkedik a sápadt téli égboltból; öltözzön fel nagyon melegen egy rövid sétához a bázis körül a fagyos szélben.",
+                "ro": "Turnul se profilează puternic pe cerul palid de iarnă; îmbrăcați-vă gros pentru o scurtă plimbare în jurul bazei în vântul înghețat.",
+                "en": "The tower stands out starkly against the pale winter sky; dress very warmly for a short, brisk walk around the base in the freezing wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Le Belvédère",
+                "hu": "Le Belvédère Kulturális Tér",
+                "ro": "Spațiul Cultural Le Belvédère",
+                "en": "Le Belvédère Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein hervorragender Boxenstopp mitten am Tag, da die Innenräume fantastisch beheizt sind und Zuflucht vor den Minustemperaturen bieten.",
+                "hu": "Ez egy kiváló napközbeni megálló, mivel a belső terek fantasztikusan fűtöttek, így nagyszerű menedéket nyújtanak a mínuszok elől.",
+                "ro": "Aceasta este o oprire excelentă la mijlocul zilei, deoarece interioarele sunt fantastic de încălzite, oferind refugiu din calea temperaturilor sub zero.",
+                "en": "This is an excellent midday pit stop, as the interiors are fantastically heated, providing a great refuge from the sub-zero outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton-templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Das Kirchenschiff blockiert die rauen Winterwinde; die Steinböden sind jedoch eiskalt, also behalten Sie Ihre warmen Winterschuhe an.",
+                "hu": "A templomhajó felfogja a zord téli szeleket; a kőpadló azonban jéghideg, ezért mindenképpen tartsa magán a meleg téli lábbelit.",
+                "ro": "Naosul blochează vânturile aspre de iarnă; totuși, podelele de piatră sunt extrem de reci, așa că păstrați-vă încălțămintea călduroasă de iarnă.",
+                "en": "The nave perfectly blocks the harsh winter winds; however, the stone floors are freezing, so be sure to keep your warm winter footwear on."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Wasserturm am Bahnhof",
+                "hu": "Egykori vasútállomás víztornya",
+                "ro": "Turnul de apă al vechii gări",
+                "en": "Old railway station water tower"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick direkt aus dem geparkten Auto, um die eisigen Winde zu meiden, die oft über das offene Gelände am Bahnhof fegen.",
+                "hu": "Élvezze a látványt közvetlenül a parkoló autóból, hogy elkerülje a jeges szeleket, amelyek gyakran végigsöpörnek a nyitott vasúti területen.",
+                "ro": "Bucurați-vă de priveliște direct din mașina parcată pentru a evita vânturile înghețate care bat adesea peste terenul deschis de lângă gară.",
+                "en": "Enjoy the imposing sight right from your parked car to avoid the freezing winds that frequently sweep across the open ground near the station."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Orgères",
+                "hu": "Orgères kastély",
+                "ro": "Castelul Orgères",
+                "en": "Château d'Orgères"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, bevor die Sonne um 17 Uhr untergeht; die Schlossfassade sieht im späten Winterlicht wunderschön aus, wenn der Frost glitzert.",
+                "hu": "Érkezzen meg a 17 órás naplemente előtt; a kastély homlokzata gyönyörű a késő téli fényben, amikor a fagy szikrázik a köveken.",
+                "ro": "Ajungeți înainte de apusul de la ora 17:00; fațada castelului arată superb în lumina târzie de iarnă când chiciura strălucește pe pietre.",
+                "en": "Arrive well before the 5 PM sunset; the elegant castle facade looks genuinely beautiful in the late winter light when the frost is sparkling."
+              }
+            }
+          ]
+        }
       }
     }
   }

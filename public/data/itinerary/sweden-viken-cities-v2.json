@@ -160,6 +160,196 @@
         "hu": "A reggel a bájos Vikens kyrka templomnál kezdődik, majd egy rövid sétával elérjük az ikonikus Sophiamöllan szélmalmot. Délben időutazáson vehetünk részt a hagyományos Paul Jönska gården és a történelmi Lovisa hajó területén. A délutánt a tengerészeti múzeum kiállításainak szenteljük. Ahogy közeledik az este, pihenjen meg a Vikens Havsbadnál, élvezve a balti hullámok lágy morajlását.",
         "ro": "Dimineața începe la fermecătoarea Vikens kyrka, urmată de o plimbare spre iconica moară de vânt Sophiamöllan. La prânz, faceți o călătorie în timp la tradiționala Paul Jönska gården și nava istorică Lovisa. După-amiaza este dedicată explorării bogatelor expoziții ale muzeului maritim. Pe măsură ce se lasă seara, relaxați-vă la Vikens Havsbad și bucurați-vă de sunetul blând al valurilor baltice.",
         "en": "Morning begins at the charming Vikens kyrka, followed by a short stroll to the iconic Sophiamöllan windmill. Midday invites you to step back in time at the traditional Paul Jönska gården and historic Lovisa ship. The afternoon is dedicated to exploring the rich exhibits at the maritime museum. As evening approaches, relax at Vikens Havsbad and enjoy the gentle sound of the Baltic waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt grau am Hafen; robuste Regenkleidung ist heute Ihr bester Begleiter. Mittags bieten die Museen Schutz vor den Schauern, wo Sie tief in die maritime Geschichte eintauchen können. Am Nachmittag glänzen die Gassen im nassen Licht, was dem Ort eine fast mystische Atmosphäre verleiht. Am Abend kehrt Ruhe ein, wenn die Tropfen an den Fenstern der alten Kapitänhäuser hinunterlaufen.",
+            "hu": "A reggel felhős, a macskaköves utcákhoz mindenképp vigyen esernyőt. Délben a múzeumok falai között találunk menedéket, ahol megelevenedik a régi tengerészvilág hangulata. Délután a vizes aszfalton megcsillanó fények teszik különlegessé a falut. Este a kikötői fények tükröződnek a tócsákban, a parti szél pedig frissítően mossa át az utcákat a kiadós eső után.",
+            "ro": "Dimineața începe sub un cer plumburiu; o umbrelă rezistentă este esențială pentru plimbare. La prânz, muzeele locale devin refugii perfecte, protejându-vă de rafalele de ploaie în timp ce explorați trecutul. După-amiaza, reflexiile apei pe străzile pavate creează un decor fotografic unic. Seara, sunetul ploii amestecat cu valurile mării creează o ambianță relaxantă în portul liniștit.",
+            "en": "Morning brings a moody sky; a sturdy umbrella is a must for the cobblestone paths. By midday, the museums offer a dry sanctuary to explore Viken's maritime heritage. In the afternoon, wet streets reflect the charming cottages, giving the village a nostalgic glow. Evening settles in with fresh sea air, perfect for a short stroll by the docks before the rain returns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vikens kyrka",
+                "hu": "Vikens kyrka",
+                "ro": "Vikens kyrka",
+                "en": "Vikens kyrka"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in dieser friedlichen Kirche und bewundern Sie die Schiffsmodelle; achten Sie auf den rutschigen Eingangsbereich bei Nässe.",
+                "hu": "Keressen menedéket a templom csendjében az eső elől, és csodálja meg a belső díszítést; a vizes kövön óvatosan lépkedjen a bejáratnál.",
+                "ro": "Căutați adăpost în această biserică liniștită în timp ce plouă și admirați decorul interior; atenție la treptele umede de la intrare.",
+                "en": "Seek shelter in the peace of this church while it rains and admire the interior details; watch your step on the wet stones at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Sophiamöllan",
+                "hu": "Sophiamöllan",
+                "ro": "Sophiamöllan",
+                "en": "Sophiamöllan"
+              },
+              "tip_5lang": {
+                "de": "Die Windmühle wirkt im Regen sehr dramatisch, aber der umliegende Rasen kann recht matschig sein; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "A szélmalom látványa az esőben drámai, de a környező fű nagyon sáros lehet; mindenképpen viseljen vízálló túrabakancsot a látogatáshoz.",
+                "ro": "Moara de vânt arată dramatic în ploaie, dar iarba din jur poate fi noroioasă; purtați neapărat încălțăminte impermeabilă pentru vizită.",
+                "en": "The windmill looks dramatic in the rain, but the surrounding grass can be very muddy; be sure to wear waterproof boots for the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Jönska gården",
+                "hu": "Paul Jönska gården",
+                "ro": "Paul Jönska gården",
+                "en": "Paul Jönska gården"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ein idealer Ort, um dem Regen zu entkommen und das Leben der Kapitäne zu studieren; nutzen Sie die Matte für Ihre nassen Schirme.",
+                "hu": "Ez a múzeum ideális hely az eső elől való meneküléshez, ahol megismerheti a kapitányok életét; használja az esernyőtartót a bejáratnál.",
+                "ro": "Acest muzeu este locul ideal pentru a scăpa de ploaie și a învăța despre viața căpitanilor; folosiți suportul de umbrele de la intrare.",
+                "en": "This museum is an ideal spot to escape the rain and learn about sea captains' lives; use the umbrella stand provided at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lovisa",
+                "hu": "Lovisa",
+                "ro": "Lovisa",
+                "en": "Lovisa"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal schnell und suchen Sie dann Schutz unter den nahen Bäumen; die Metalloberflächen sind bei Regen sehr rutschig.",
+                "hu": "Tekintse meg gyorsan az emlékművet, majd keressen menedéket a közeli fák alatt; a fémfelületek esőben rendkívül csúszósak lehetnek.",
+                "ro": "Vizitați rapid monumentul și apoi căutați adăpost sub copacii din apropiere; suprafețele metalice pot fi foarte alunecoase pe ploaie.",
+                "en": "View the monument quickly and then seek cover under nearby trees; the metal surfaces can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens Sjöfartsmuseum",
+                "hu": "Vikens Sjöfartsmuseum",
+                "ro": "Vikens Sjöfartsmuseum",
+                "en": "Vikens Sjöfartsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Verweilen Sie ausgiebig in den Ausstellungsräumen und trocknen Sie Ihre Kleidung, während Sie Schiffsmodelle bestaunen.",
+                "hu": "Tökéletes esős program: időzzön hosszan a kiállítótermekben és szárítkozzon meg, miközben a lenyűgöző hajómodelleket tanulmányozza.",
+                "ro": "Program perfect pentru ploaie: petreceți mult timp în sălile de expoziție și uscați-vă hainele în timp ce studiați modelele de nave.",
+                "en": "A perfect rainy day activity: spend plenty of time in the galleries and dry off while studying the fascinating ship models."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens Havsbad",
+                "hu": "Vikens Havsbad",
+                "ro": "Vikens Havsbad",
+                "en": "Vikens Havsbad"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das tosende Meer von einem überdachten Aussichtspunkt aus; der Wind kann Regenschirme hier leicht zerstören, nutzen Sie Regenponchos.",
+                "hu": "Élvezze a háborgó tenger látványát egy fedett kilátópontról; a szél itt könnyen tönkreteheti az esernyőt, inkább esőköpenyt használjon.",
+                "ro": "Bucurați-vă de spectacolul mării învolburate dintr-un punct de observație acoperit; vântul poate distruge umbrelele, folosiți pelerine.",
+                "en": "Enjoy the sight of the churning sea from a covered lookout point; the wind can break umbrellas here, so use a rain poncho instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen taucht Viken in ein klares, blaues Licht; ziehen Sie sich warm an für den Wind vom Öresund. Mittags wärmen die Museen nicht nur das Herz, sondern auch die Hände. Am Nachmittag beginnt die Dämmerung früh, und die Lichter in den Fenstern wirken besonders einladend. Der Abend gehört der Stille des gefrorenen Hafens, bevor man sich in die wohlige Wärme zurückzieht.",
+            "hu": "A fagyos reggel tiszta kék fénybe öltözteti Vikent; öltözzön rétegesen az Öresund felől fújó metsző szél ellen. Délben a múzeumok nemcsak a szivet, de a kezeket is felmelegítik. Délután korán kezdődik a szürkület, az ablakokból kiszűrődő fények pedig hívogatóak. Az este a befagyott kikötő csendjéé, mielőtt visszavonulna a szállás melegébe.",
+            "ro": "O dimineață geroasă îmbracă satul într-o lumină albastră și clară; îmbrăcați-vă gros împotriva vântului tăios dinspre Öresund. La prânz, muzeele vă încălzesc mâinile și sufletul cu povești vechi. După-amiaza, amurgul vine devreme, iar luminile din ferestre devin puncte calde de reper. Seara aparține liniștii portului înghețat, înainte de retragerea la căldură.",
+            "en": "A frosty morning bathes Viken in crisp light; dress in warm layers against the biting wind from the Öresund. By midday, the indoor museums offer a cozy retreat for cold hands. In the afternoon, twilight begins early, making the glowing windows of cottages look incredibly inviting. The evening is silent by the frozen harbor, perfect for experiencing the Swedish winter peace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vikens kyrka",
+                "hu": "Vikens kyrka",
+                "ro": "Vikens kyrka",
+                "en": "Vikens kyrka"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten die Kälte draußen; nutzen Sie den Besuch für einen Moment der Besinnung in der geheizten Stille.",
+                "hu": "A templom vastag falai kint tartják a fagyot; használja ki a látogatást egy kis elcsendesedésre a fűtött, békés belső térben.",
+                "ro": "Zidurile groase ale bisericii țin gerul afară; profitați de vizită pentru un moment de liniște în interiorul încălzit.",
+                "en": "The thick walls of the church keep the frost at bay; take advantage of the visit for a quiet moment in the heated interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Sophiamöllan",
+                "hu": "Sophiamöllan",
+                "ro": "Sophiamöllan",
+                "en": "Sophiamöllan"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die Mühle im weichen Winterlicht, aber achten Sie auf vereiste Stufen; der Wind auf dem Hügel ist im Winter besonders schneidend.",
+                "hu": "Fotózza le a malmot a lágy téli fényben, de vigyázzon a jeges lépcsőkkel; a dombtetőn a szél télen különösen metsző tud lenni.",
+                "ro": "Fotografiați moara în lumina blândă a iernii, dar atenție la treptele înghețate; vântul de pe deal este tăios în acest sezon.",
+                "en": "Photograph the mill in the soft winter light, but watch out for icy steps; the wind on the hill is particularly biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Jönska gården",
+                "hu": "Paul Jönska gården",
+                "ro": "Paul Jönska gården",
+                "en": "Paul Jönska gården"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Räume wirken im Winter besonders gemütlich; fragen Sie nach den Heizgewohnheiten der alten Kapitäne, um sich aufzuwärmen.",
+                "hu": "A történelmi szobák télen különösen otthonosnak tűnnek; ismerje meg a régi kapitányok fűtési szokásait, miközben Ön is felmelegszik.",
+                "ro": "Camerele istorice par extrem de primitoare iarna; aflați despre metodele de încălzire ale vechilor căpitani în timp ce vă dezmorțiți.",
+                "en": "The historic rooms feel especially cozy in winter; learn about the old captains' heating habits while you warm up indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Lovisa",
+                "hu": "Lovisa",
+                "ro": "Lovisa",
+                "en": "Lovisa"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ist oft von Reif überzogen, was wunderschön aussieht; halten Sie den Aufenthalt am windigen Ufer aufgrund der Kälte kurz.",
+                "hu": "Az emlékművet gyakran dér borítja, ami gyönyörű látvány; a szeles parton a nagy hideg miatt csak rövid ideig tartózkodjon.",
+                "ro": "Monumentul este adesea acoperit de chiciură, oferind o priveliște superbă; nu stați mult pe malul vântos din cauza frigului.",
+                "en": "The monument is often covered in frost, which looks beautiful; keep your stay on the windy shore brief due to the extreme cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens Sjöfartsmuseum",
+                "hu": "Vikens Sjöfartsmuseum",
+                "ro": "Vikens Sjöfartsmuseum",
+                "en": "Vikens Sjöfartsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen; die maritimen Exponate lassen Sie die Kälte draußen schnell vergessen.",
+                "hu": "Tökéletes hely a séták közötti felmelegedéshez; a tengerészeti kiállítási tárgyak segítenek gyorsan elfelejteni a kinti fagyot.",
+                "ro": "Un loc perfect pentru a vă încălzi între plimbări; exponatele maritime vă vor face să uitați rapid de gerul de afară.",
+                "en": "A perfect place to warm up between walks; the maritime exhibits will make you quickly forget the freezing temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens Havsbad",
+                "hu": "Vikens Havsbad",
+                "ro": "Vikens Havsbad",
+                "en": "Vikens Havsbad"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit des Öresunds im Winter; achten Sie auf glatte Stellen am Strand und kehren Sie vor Sonnenuntergang um 17 Uhr um.",
+                "hu": "Tapasztalja meg az Öresund zord téli szépségét; ügyeljen a csúszós részekre a parton, és induljon vissza a 17 órai naplemente előtt.",
+                "ro": "Experimentați frumusețea aspră a strâmtorii Öresund iarna; atenție la gheața de pe plajă și întoarceți-vă înainte de apusul de la ora 17.",
+                "en": "Experience the rugged winter beauty of the Öresund; watch for icy patches on the beach and head back before the 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a Domsten-Vikens természetvédelmi terület gyönyörű ösvényeinek felfedezésével. Délben a faluba érve fedezze fel a tengerészeti múzeumot, a kapitányi birtokot és a békés templomot. Délután tekerjen a Svanebäcksstranden hívogató homokos partszakaszai felé. Zárja az estét a Väsby rezervátum zord, mégis lenyűgöző part menti fenyérekkel borított tájain pihenve.",
         "ro": "Începeți ziua de ciclism explorând potecile frumoase din rezervația naturală Domsten-Viken. Prânzul vă aduce în sat pentru a descoperi muzeul maritim, ferma căpitanului și biserica pașnică din Viken. Petreceți după-amiaza pedalând spre întinderile de nisip ale Svanebäcksstranden. Încheiați seara înconjurat de frumusețea aspră a zonelor de coastă din rezervația naturală Väsby.",
         "en": "Start your cycling day exploring the beautiful paths of Domsten-Vikens naturreservat. Midday brings you into the village to discover the local maritime museum, the captain's farm at Paul Jönska gården, and the peaceful Vikens kyrka. Spend your afternoon pedaling towards the sandy stretches of Svanebäcksstranden. Finish the evening surrounded by the rugged coastal heathlands of Väsby reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen auf dem Küstenweg erfordert gute Ausrüstung und Konzentration. Am Morgen ist die Brise erfrischend, aber die Wege können rutschig sein. Mittags bietet der Hafen trockene Pausenmöglichkeiten. Der Nachmittag führt durch glänzende Waldstücke, wo die Bäume etwas Schutz bieten. Den Abend lassen Sie am besten mit einer heißen Dusche ausklingen, nachdem Sie dem Wetter getrotzt haben.",
+            "hu": "Az esős tengerparti út jó felszerelést és koncentrációt igényel. Reggel a szél frissítő, de az utak csúszósak lehetnek. Délben a kikötő száraz pihenőhelyeket kínál. A délután fényes erdőfoltokon vezet keresztül, ahol a fák némi védelmet nyújtanak. Az estét érdemes egy forró zuhannyal zárni, miután dacolt az elemekkel.",
+            "ro": "Ploaia pe drumul de coastă necesită echipament bun și concentrare. Dimineața, briza este revigorantă, dar potecile pot fi alunecoase. La prânz, portul oferă opțiuni pentru pauze uscate. După-amiaza trece prin zone împădurite strălucitoare, unde copacii oferă protecție. Seara se încheie cel mai bine cu un duș fierbinte după ce ați înfruntat vremea.",
+            "en": "Rain on the coastal path requires good gear and focus. In the morning, the breeze is refreshing, but paths can be slippery. By midday, the harbor provides dry spots for a break. The afternoon route leads through glistening woods where trees offer some cover. End the evening with a hot shower after successfully braving the elements on two wheels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Domsten-Vikens naturreservat",
+                "hu": "Domsten-Vikens naturreservat",
+                "ro": "Domsten-Vikens naturreservat",
+                "en": "Domsten-Vikens naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den bewaldeten Wegen, da nasses Laub sehr glatt sein kann; ein Schutzblech am Fahrrad ist bei diesem Wetter Gold wert.",
+                "hu": "Óvatosan kerekezzen az erdei utakon, mert a vizes levelek nagyon csúszhatnak; egy sárvédő a biciklin aranyat ér ilyen időben.",
+                "ro": "Pedalați cu atenție pe potecile din pădure, deoarece frunzele ude pot fi foarte alunecoase; o apărătoare la bicicletă este esențială.",
+                "en": "Cycle carefully on the forest paths as wet leaves can be very slick; a fender on your bike is worth its weight in gold in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens Sjöfartsmuseum",
+                "hu": "Vikens Sjöfartsmuseum",
+                "ro": "Vikens Sjöfartsmuseum",
+                "en": "Vikens Sjöfartsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie das Museum für eine lange Pause im Trockenen; prüfen Sie Ihre Bremsen nach der Regenfahrt.",
+                "hu": "Parkolja le a biciklit védett helyen, és használja a múzeumot egy hosszú, száraz pihenőre; ellenőrizze a fékeket a vizes menet után.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți muzeul pentru o pauză lungă la uscat; verificați frânele după drumul prin ploaie.",
+                "en": "Park your bike in a sheltered spot and use the museum for a long break in the dry; check your brakes after riding in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Jönska gården",
+                "hu": "Paul Jönska gården",
+                "ro": "Paul Jönska gården",
+                "en": "Paul Jönska gården"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und treten Sie ein, um dem Schauer zu entgehen; achten Sie beim Absteigen auf den rutschigen Untergrund vor dem Gebäude.",
+                "hu": "Tegye le a bringát és menjen be, hogy elkerülje a záport; a leszálláskor ügyeljen az épület előtti csúszós talajra.",
+                "ro": "Lăsați bicicleta și intrați pentru a evita aversa; atenție la solul alunecos din fața clădirii când coborâți de pe pedale.",
+                "en": "Set your bike down and step inside to avoid the downpour; watch out for slippery ground in front of the building when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens kyrka",
+                "hu": "Vikens kyrka",
+                "ro": "Vikens kyrka",
+                "en": "Vikens kyrka"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenmauern als Windschutz beim Parken; das Innere bietet eine friedliche Atmosphäre, um sich kurz vom Regen zu erholen.",
+                "hu": "Használja a templomfalakat szélfogónak a parkoláskor; a belső tér békés hangulatot áraszt, ahol rövid időre kipihenheti az esőt.",
+                "ro": "Folosiți zidurile bisericii ca paravan împotriva vântului când parcați; interiorul oferă o atmosferă liniștită pentru odihnă.",
+                "en": "Use the church walls as a windbreak when parking; the interior offers a peaceful atmosphere to briefly recover from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Svanebäcksstranden",
+                "hu": "Svanebäcksstranden",
+                "ro": "Svanebäcksstranden",
+                "en": "Svanebäcksstranden"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf das Meer ist bei Regen oft dramatisch, aber die Wege zum Strand können aufweichen; bleiben Sie mit dem Rad auf den festen Pfaden.",
+                "hu": "A kilátás a tengerre esőben gyakran drámai, de a strandhoz vezető utak felázhatnak; maradjon a biciklivel a szilárd ösvényeken.",
+                "ro": "Vederea spre mare este dramatică pe ploaie, dar drumurile spre plajă pot fi moi; rămâneți cu bicicleta pe potecile solide.",
+                "en": "The sea view is often dramatic in the rain, but paths to the beach can get soggy; keep your bike on the firmer designated trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Väsby strandmarks naturreservat",
+                "hu": "Väsby strandmarks naturreservat",
+                "ro": "Väsby strandmarks naturreservat",
+                "en": "Väsby strandmarks naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vorsichtig, da die sandigen Abschnitte bei Nässe schwer befahrbar sind; reinigen Sie die Kette nach der Fahrt von Sand und Wasser.",
+                "hu": "Óvatosan fejezze be a túrát, mert a homokos szakaszok vizesen nehezen járhatóak; a menet után tisztítsa meg a láncot a homoktól és víztől.",
+                "ro": "Încheiați turul cu atenție, deoarece secțiunile nisipoase sunt greu de parcurs pe ud; curățați lanțul de nisip și apă după drum.",
+                "en": "Finish your tour carefully as sandy sections are hard to ride when wet; clean your chain from sand and water after the ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bei Viken erfordert warme Handschuhe und eine winddichte Schale. Am Morgen glitzert der Reif auf den Wegen; fahren Sie langsam. Mittags locken die Museen als warme Etappenziele. Am Nachmittag sinkt die Sonne früh, was die Küste in goldenes Licht taucht. Beenden Sie die Tour vor 17 Uhr, wenn die Dunkelheit und die Kälte spürbar zunehmen.",
+            "hu": "A téli biciklizés Viken környékén meleg kesztyűt és szélálló ruházatot igényel. Reggel zúzmara csillog az utakon; haladjon lassan. Délben a múzeumok meleg megállókként hívogatnak. Délután a nap korán süllyed, arany fénybe vonva a partot. Fejezze be a túrát 17 óra előtt, amikor a sötétség és a hideg érezhetően fokozódik.",
+            "ro": "Ciclismul de iarnă lângă Viken necesită mănuși groase și haine rezistente la vânt. Dimineața, chiciura sclipește pe drumuri; pedalați încet. La prânz, muzeele vă așteaptă ca puncte calde de oprire. După-amiaza, soarele coboară devreme, scăldând coasta în aur. Încheiați turul înainte de ora 17, când gerul se intensifică.",
+            "en": "Winter cycling near Viken calls for warm gloves and windproof gear. In the morning, frost glistens on the paths; ride slowly and carefully. By midday, the museums serve as welcoming warm waypoints. In the afternoon, the sun dips early, bathing the coast in golden light. Plan to finish your tour by 5 PM as the darkness and cold set in rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Domsten-Vikens naturreservat",
+                "hu": "Domsten-Vikens naturreservat",
+                "ro": "Domsten-Vikens naturreservat",
+                "en": "Domsten-Vikens naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft im Wald, aber achten Sie auf vereiste Pfützen unter dem Laub; bewegen Sie Ihre Finger regelmäßig gegen die Kälte.",
+                "hu": "Élvezze a tiszta téli levegőt az erdőben, de ügyeljen a levelek alatti jeges tócsákra; mozgassa rendszeresen az ujjait a hideg ellen.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în pădure, dar atenție la bălțile înghețate sub frunze; mișcați-vă degetele regulat contra frigului.",
+                "en": "Enjoy the crisp winter air in the forest, but watch out for frozen puddles under the leaves; wiggle your fingers regularly to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens Sjöfartsmuseum",
+                "hu": "Vikens Sjöfartsmuseum",
+                "ro": "Vikens Sjöfartsmuseum",
+                "en": "Vikens Sjöfartsmuseum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Durchblutung Ihrer Füße wieder anzuregen; die warmen Ausstellungsräume sind eine perfekte Pause vom Fahrtwind.",
+                "hu": "Használja a múzeumlátogatást a lábai vérkeringésének serkentésére; a meleg kiállítótermek tökéletes pihenőt nyújtanak a menetszél után.",
+                "ro": "Folosiți vizita la muzeu pentru a vă reactiva circulația în picioare; sălile încălzite sunt o pauză perfectă de la vântul tăios.",
+                "en": "Use the museum visit to get the circulation back in your feet; the warm exhibition rooms are a perfect break from the riding wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Jönska gården",
+                "hu": "Paul Jönska gården",
+                "ro": "Paul Jönska gården",
+                "en": "Paul Jönska gården"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und genießen Sie die Wärme im Inneren des historischen Hofes; die Kälte am Hafen erfordert hier besonders gute Kleidung.",
+                "hu": "Tegye le a biciklit és élvezze a meleget a történelmi udvar belsejében; a kikötői hideg miatt itt különösen jó ruházat szükséges.",
+                "ro": "Lăsați bicicleta și bucurați-vă de căldura din interiorul curții istorice; frigul din port necesită haine foarte bune aici.",
+                "en": "Park your bike and enjoy the warmth inside the historic farmstead; the harbor cold requires extra layers for this specific stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens kyrka",
+                "hu": "Vikens kyrka",
+                "ro": "Vikens kyrka",
+                "en": "Vikens kyrka"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen, bevor es weitergeht; achten Sie beim Absteigen auf Glätte auf dem gepflasterten Vorplatz.",
+                "hu": "Csendes hely egy rövid felmelegedéshez, mielőtt tovább indulna; a leszálláskor ügyeljen a csúszós kövezetre a templom előtti téren.",
+                "ro": "Un loc liniștit pentru o scurtă încălzire înainte de a pleca mai departe; atenție la pavajul alunecos din fața bisericii când coborâți.",
+                "en": "A quiet place for a quick warm-up before continuing; watch for ice on the paved square in front of the church when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Svanebäcksstranden",
+                "hu": "Svanebäcksstranden",
+                "ro": "Svanebäcksstranden",
+                "en": "Svanebäcksstranden"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Küste bietet ein einzigartiges Panorama, aber der Wind ist hier am stärksten; tragen Sie eine Gesichtsmaske oder einen hohen Schal.",
+                "hu": "A fagyos part egyedülálló panorámát nyújt, de itt a legerősebb a szél; viseljen maszkot vagy magasra húzott sálat a kerekezéshez.",
+                "ro": "Țărmul înghețat oferă o panoramă unică, dar vântul este cel mai puternic aici; purtați o mască sau un fular ridicat sus la pedalat.",
+                "en": "The frozen shore offers a unique panorama, but the wind is strongest here; wear a face mask or a high scarf for this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Väsby strandmarks naturreservat",
+                "hu": "Väsby strandmarks naturreservat",
+                "ro": "Väsby strandmarks naturreservat",
+                "en": "Väsby strandmarks naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Einbruch der Dunkelheit; prüfen Sie Ihre Fahrradbeleuchtung, falls es doch etwas später wird.",
+                "hu": "Fejezze be a túrát időben a sötétedés beállta előtt; ellenőrizze a bicikli világítását, ha esetleg mégis kicsit későbbre csúszna.",
+                "ro": "Încheiați turul la timp, înainte de lăsarea întunericului; verificați luminile bicicletei în cazul în care se face târziu.",
+                "en": "Finish your tour in good time before dark; double-check your bike lights just in case it takes a bit longer than planned."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a festői autózást a lenyűgöző Väsby strandmarks természetvédelmi területen, majd induljon délre a pihentető Svanebäcksstranden felé. A dél tökéletes a történelmi falu felfedezésére, beleértve a templomot, a szélmalmot és a Lovisa fahajót. Késő délután autózzon le a Domsten-Vikens rezervátumhoz. Az estét a fenséges tengeri kilátás és a partvidék nyugalmának élvezetével töltheti.",
         "ro": "Începeți călătoria pitorească la uimitoarea rezervație Väsby strandmarks înainte de a merge spre sud la Svanebäcksstranden. Prânzul este perfect pentru a explora centrul istoric, inclusiv biserica, moara și nava de lemn Lovisa. După-amiaza târziu, conduceți către rezervația naturală Domsten-Viken. Petreceți seara admirând priveliștile maiestuoase ale oceanului în liniște deplină.",
         "en": "Kick off your scenic drive at the stunning Väsby strandmarks naturreservat before heading south to the relaxing Svanebäcksstranden. Midday is perfect for exploring the historic village core, including Vikens kyrka, the towering windmill, and the lovely wooden ship Lovisa. In the late afternoon, drive down to Domsten-Vikens naturreservat. Spend your evening taking in the majestic ocean views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen nur eine Kulisse für die schöne Küstenlandschaft. Morgens gleiten Sie entspannt durch das Reservat, während die Tropfen auf das Dach trommeln. Mittags dienen Museen als trockene Ziele. Der Nachmittag bietet Ausblicke auf die graue See aus dem warmen Cockpit. Abends glitzern die nassen Straßen von Viken im Scheinwerferlicht besonders stimmungsvoll.",
+            "hu": "Az autóban az eső csak egy szép háttér a tengerparti tájhoz. Reggel lazán gurulhat át a rezervátumon, miközben az eső a tetőn kopog. Délben a múzeumok száraz úti célokként szolgálnak. Délután a meleg kocsiból nézheti a szürke tengert. Este Viken vizes utcái különösen hangulatosan csillognak a fényszórók fényében.",
+            "ro": "În mașină, ploaia este doar un decor pentru peisajul de coastă. Dimineața mergeți relaxat prin rezervație în timp ce stropii bat în plafon. La prânz, muzeele sunt destinații uscate perfecte. După-amiaza oferă vederi spre marea cenușie din habitaclul cald. Seara, străzile ude din Viken strălucesc atmosferic în lumina farurilor.",
+            "en": "In the car, the rain is just a scenic backdrop to the coastal landscape. In the morning, enjoy a relaxed drive through the reserve while rain taps on the roof. By midday, museums offer perfect dry stops. The afternoon provides views of the grey sea from the warmth of your vehicle. In the evening, the wet streets of Viken glisten beautifully in your headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Väsby strandmarks naturreservat",
+                "hu": "Väsby strandmarks naturreservat",
+                "ro": "Väsby strandmarks naturreservat",
+                "en": "Väsby strandmarks naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer direkt vom Parkplatz aus; nutzen Sie feste Wege für kurze Erkundungen, um nicht im Matsch zu versinken.",
+                "hu": "Élvezze az esős tenger látványát közvetlenül a parkolóból; rövid felfedezésekhez maradjon a szilárd utakon, hogy ne süllyedjen el a sárban.",
+                "ro": "Bucurați-vă de vederea spre marea ploioasă direct din parcare; folosiți potecile solide pentru explorări scurte, ca să nu vă afundați în noroi.",
+                "en": "Enjoy the view of the rainy sea directly from the parking lot; stick to firm paths for short explorations to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Svanebäcksstranden",
+                "hu": "Svanebäcksstranden",
+                "ro": "Svanebäcksstranden",
+                "en": "Svanebäcksstranden"
+              },
+              "tip_5lang": {
+                "de": "Die dramatische Brandung lässt sich am besten aus dem trockenen Auto beobachten; für einen kurzen Strandgang sind Gummistiefel heute unerlässlich.",
+                "hu": "A drámai hullámzást a legjobb a száraz autóból figyelni; egy rövid tengerparti sétához a gumicsizma ma elengedhetetlen kellék.",
+                "ro": "Valurile dramatice pot fi observate cel mai bine din mașina uscată; pentru o scurtă plimbare pe plajă, cizmele de gumă sunt indispensabile azi.",
+                "en": "The dramatic surf is best observed from the dry comfort of your car; if you step onto the beach, rubber boots are essential today."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens kyrka",
+                "hu": "Vikens kyrka",
+                "ro": "Vikens kyrka",
+                "en": "Vikens kyrka"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenabschnitt kurz zu halten; im Inneren können Sie die Ruhe genießen, während draußen der Sturm tobt.",
+                "hu": "Parkoljon közel a bejárathoz, hogy az esőben megtett utat lerövidítse; bent élvezheti a csendet, miközben kint tombol a vihar.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie; în interior vă puteți bucura de liniște în timp ce afară e furtună.",
+                "en": "Park close to the entrance to keep your time in the rain brief; inside, you can enjoy the peace while the storm rages outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Sophiamöllan",
+                "hu": "Sophiamöllan",
+                "ro": "Sophiamöllan",
+                "en": "Sophiamöllan"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist ein tolles Fotomotiv bei jedem Wetter; parken Sie vorsichtig am Straßenrand, da der Untergrund bei Regen aufweichen kann.",
+                "hu": "A malom minden időben remek fotótéma; parkoljon óvatosan az út szélén, mert az esőben a padka felázhat és csúszóssá válhat.",
+                "ro": "Moara este un subiect foto excelent pe orice vreme; parcați cu atenție pe marginea drumului, deoarece solul poate fi moale de la ploaie.",
+                "en": "The mill is a great photo subject in any weather; park carefully at the roadside as the ground can become soft and slippery from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lovisa",
+                "hu": "Lovisa",
+                "ro": "Lovisa",
+                "en": "Lovisa"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto des Denkmals im Regen; halten Sie Ihre Kamera unter einem Schirm geschützt, um Wassertropfen auf der Linse zu vermeiden.",
+                "hu": "Egy rövid megálló az emlékmű lefotózásához az esőben; tartsa a fényképezőgépet esernyő alatt, hogy elkerülje a vízcseppeket a lencsén.",
+                "ro": "O scurtă oprire pentru o fotografie a monumentului în ploaie; țineți camera sub umbrelă pentru a evita picăturile de apă pe lentilă.",
+                "en": "A brief stop for a photo of the monument in the rain; keep your camera sheltered under an umbrella to avoid water drops on the lens."
+              }
+            },
+            {
+              "name": {
+                "de": "Domsten-Vikens naturreservat",
+                "hu": "Domsten-Vikens naturreservat",
+                "ro": "Domsten-Vikens naturreservat",
+                "en": "Domsten-Vikens naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch das Reservat ist auch bei Regen wunderschön; prüfen Sie die Wischerblätter vorab, um stets eine klare Sicht auf die Küste zu haben.",
+                "hu": "A rezervátumon való áthajtás esőben is gyönyörű; előre ellenőrizze az ablaktörlőket, hogy mindig tiszta kilátása legyen a partra.",
+                "ro": "Drumul prin rezervație este superb și pe ploaie; verificați ștergătoarele înainte, pentru a avea mereu o vedere clară spre coastă.",
+                "en": "Driving through the reserve is beautiful even in the rain; check your wiper blades beforehand to ensure a clear view of the coast."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Viken im Winter ist mit dem Auto am komfortabelsten zu erkunden. Morgens sind die Küstenstraßen oft vereist, fahren Sie daher vorsichtig. Mittags bieten die Museen eine willkommene Abwechslung zur Fahrt. Nachmittags färbt die frühe Sonne den Himmel rosa über dem Öresund. Abends sorgt die Sitzheizung für wohlige Wärme, während Sie den Blick auf den frostigen Hafen genießen.",
+            "hu": "Viken téli felfedezése autóval a legkényelmesebb. Reggel a tengerparti utak gyakran jegesek, ezért vezessen óvatosan. Délben a múzeumok kellemes kikapcsolódást nyújtanak az út során. Délután a korai naplemente rózsaszínre festi az eget az Öresund felett. Este az ülésfűtés gondoskodik a melegről, miközben a fagyos kikötőt csodálja.",
+            "ro": "Explorarea iernii în Viken este cea mai confortabilă cu mașina. Dimineața, drumurile de coastă sunt adesea înghețate, deci conduceți cu prudență. La prânz, muzeele oferă o pauză binevenită. După-amiaza, apusul timpuriu colorează cerul în roz peste Öresund. Seara, încălzirea din scaune vă oferă confort în timp ce admirați portul înghețat.",
+            "en": "Exploring Viken in winter is most comfortable by car. In the morning, coastal roads can be icy, so drive with extra caution. By midday, the local museums provide a welcome break from the drive. In the afternoon, the early sunset paints the sky pink over the Öresund. In the evening, enjoy the seat heating while taking in views of the frosty harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Väsby strandmarks naturreservat",
+                "hu": "Väsby strandmarks naturreservat",
+                "ro": "Väsby strandmarks naturreservat",
+                "en": "Väsby strandmarks naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die weite, verschneite Landschaft aus dem warmen Auto; parken Sie nur auf geräumten Flächen, um nicht im Schnee steckenzubleiben.",
+                "hu": "Csodálja meg a tágas, havas tájat a meleg autóból; csak a letakarított területeken parkoljon, hogy ne akadjon el a hóban.",
+                "ro": "Admirați peisajul vast și înzăpezit din mașina caldă; parcați doar în zonele curățate, pentru a nu rămâne blocat în zăpadă.",
+                "en": "Admire the vast, snowy landscape from the warmth of your car; park only in cleared areas to avoid getting stuck in the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Svanebäcksstranden",
+                "hu": "Svanebäcksstranden",
+                "ro": "Svanebäcksstranden",
+                "en": "Svanebäcksstranden"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter wie eine andere Welt; achten Sie auf Glatteis auf dem Parkplatz und genießen Sie den Blick auf die Eisschollen im Meer.",
+                "hu": "A strand télen olyan, mint egy másik világ; ügyeljen a jegesedésre a parkolóban, és élvezze a tengeri jégtáblák látványát.",
+                "ro": "Plaja pare o altă lume iarna; atenție la gheața din parcare și bucurați-vă de vederea sloiurilor de gheață din mare.",
+                "en": "The beach looks like another world in winter; watch out for black ice in the parking lot and enjoy the sight of ice floes in the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Vikens kyrka",
+                "hu": "Vikens kyrka",
+                "ro": "Vikens kyrka",
+                "en": "Vikens kyrka"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze, besinnliche Pause in der Wärme; die Beleuchtung der Kirche in der frühen Dunkelheit ist besonders sehenswert.",
+                "hu": "Ideális hely egy rövid, elmélyült pihenőre a melegben; a templom kivilágítása a korai sötétségben különösen szép látvány.",
+                "ro": "Un loc ideal pentru o scurtă pauză de reculegere la căldură; iluminarea bisericii în întunericul timpuriu este deosebit de frumoasă.",
+                "en": "An ideal spot for a short, reflective break in the warmth; the church's lighting in the early darkness is a sight to behold."
+              }
+            },
+            {
+              "name": {
+                "de": "Sophiamöllan",
+                "hu": "Sophiamöllan",
+                "ro": "Sophiamöllan",
+                "en": "Sophiamöllan"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist im Schnee ein fantastisches Fotomotiv; halten Sie den Aufenthalt im Freien kurz, da der Wind am Hang extrem auskühlt.",
+                "hu": "A malom a hóban fantasztikus fotótéma; a szabadban tartózkodást rövidre fogja, mert a lejtőn a szél rendkívül gyorsan lehűt.",
+                "ro": "Moara în zăpadă este un subiect foto fantastic; stați puțin afară, deoarece vântul de pe coastă vă poate răci extrem de rapid.",
+                "en": "The mill is a fantastic photo subject in the snow; keep your time outdoors brief as the coastal wind can chill you very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lovisa",
+                "hu": "Lovisa",
+                "ro": "Lovisa",
+                "en": "Lovisa"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal im klaren Winterlicht und nutzen Sie das Auto als Windschutz; achten Sie auf gefrorene Gischt auf den Wegen zum Ufer.",
+                "hu": "Nézze meg az emlékművet a tiszta téli fényben, és használja az autót szélfogónak; ügyeljen a part felé vezető utak jeges permetére.",
+                "ro": "Priviți monumentul în lumina clară a iernii și folosiți mașina ca paravan; atenție la gheața formată din spray-ul mării pe poteci.",
+                "en": "View the monument in the clear winter light and use the car as a windbreak; watch out for frozen sea spray on the paths to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Domsten-Vikens naturreservat",
+                "hu": "Domsten-Vikens naturreservat",
+                "ro": "Domsten-Vikens naturreservat",
+                "en": "Domsten-Vikens naturreservat"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch das verschneite Reservat ist magisch, aber achten Sie auf Wildwechsel; beenden Sie den Ausflug vor Sonnenuntergang um 17 Uhr.",
+                "hu": "A havas rezervátumon való áthajtás varázslatos, de ügyeljen a vadakra; fejezze be a kirándulást a 17 órai naplemente előtt.",
+                "ro": "Drumul prin rezervația înzăpezită este magic, dar atenție la animalele sălbatice; încheiați excursia înainte de apusul de la ora 17.",
+                "en": "Driving through the snowy reserve is magical, but watch out for wildlife; plan to finish your excursion before the 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

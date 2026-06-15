@@ -137,6 +137,168 @@
         "hu": "A reggel Lampaul bájos szívében indul, ahol a sziget főtemploma békés alaphangot ad a napnak. Dél felé sétálva hamarosan eléri a zord partszakaszt. \n A delet a Goubars kavicsos strandja és a Plage de Korz homokos területei közötti kontraszt csodálásával töltheti. Az óceáni szellő tökéletes természetes hangsávot biztosít. \n Délután az ösvény enyhén a szárazföld belseje felé kanyarodik, felfedve egy régi szélmalom kőmaradványait, amely a sziget önellátó múltjának szimbóluma. \n A napot az Écomusée gazdag helyi örökségének megismerésével zárja. A szigeti élet ezen hiteles szelete tökéletes befejezése a tengerparti utazásnak.",
         "ro": "Dimineața începe în inima fermecătoare a orașului Lampaul, unde biserica principală a insulei stabilește un ton pașnic. Plimbându-vă spre sud, veți ajunge curând pe coasta accidentată. \n La prânz veți admira contrastul dintre plaja cu pietriș Goubars și întinderile de nisip de la Plage de Korz. Briza oceanului oferă coloana sonoră naturală perfectă. \n După-amiaza, poteca se întoarce ușor spre interior pentru a dezvălui rămășițele de piatră ale unei vechi mori de vânt, un simbol al trecutului independent al insulei. \n Încheiați ziua explorând moștenirea locală bogată la Écomusée. Această felie autentică a vieții insulare oferă o reflecție finală perfectă.",
         "en": "Your morning begins in the charming heart of Lampaul, where the island's main church sets a peaceful tone. Strolling south, you will soon hit the rugged shoreline. \n Midday is spent admiring the contrast between the pebble beach of Goubars and the sandy expanses of Plage de Korz. The ocean breeze provides the perfect natural soundtrack. \n In the afternoon, the path gently turns inland to reveal the stone remnants of an old windmill, a symbol of the island’s self-sufficient past. \n You conclude the day by delving into the rich local heritage at the Écomusée. This authentic slice of island life offers a perfect final reflection on your coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der geschützten Stille der Dorfkirche. Mittags führt der Weg an die stürmische Küste, wo das Meer bei Regen besonders wild wirkt. Am Nachmittag bietet das Ökomuseum eine ideale Zuflucht vor den Schauern. Der Abend endet gemütlich in Lampaul, während der Regen gegen die Fenster peitscht und die Insel in eine mystische, neblige Atmosphäre taucht.",
+            "hu": "Kezdje a napot a falu templomának csendes menedékében. Délben az esőben drámai arcát mutató tengerpartot fedezheti fel, de készüljön vízálló cipővel a csúszós kövek miatt. Délután az Ökomúzeum nyújt fedett menedéket a záporok elől. Az este a sziget barátságos vendéglátóhelyein ér véget, miközben kint a szél és az eső mossa az óceánparti sziklákat.",
+            "ro": "Începeți ziua în liniștea bisericii din sat, feriți de picăturile de ploaie. La prânz, coasta oferă un spectacol dramatic sub cerul gri, dar aveți nevoie de încălțăminte aderentă pe pietrele ude. După-amiaza, ecomuzeul este refugiul perfect pentru a învăța despre insulă la căldură. Seara se încheie într-o atmosferă intimă în Lampaul, ascultând ploaia de la adăpost.",
+            "en": "Start your day in the sheltered peace of the village church. At noon, the coastline shows its dramatic side under the rain, but waterproof boots are essential for the slippery paths. In the afternoon, the eco-museum provides a perfect indoor escape from the showers. The evening concludes in the cozy atmosphere of Lampaul as the rain enhances the island's mystical charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pol-Aurélien",
+                "hu": "Église Saint-Pol-Aurélien",
+                "ro": "Église Saint-Pol-Aurélien",
+                "en": "Église Saint-Pol-Aurélien"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Glasfenster, die auch bei trübem Wetter leuchten, und nutzen Sie den Vorraum, um Ihre Regenbekleidung in Ruhe zu ordnen.",
+                "hu": "Csodálja meg a színes üvegablakokat, amelyek borús időben is ragyognak, és használja az előteret az esőfelszerelés kényelmes megigazításához.",
+                "ro": "Admirați vitraliile colorate care strălucesc chiar și pe vreme mohorâtă și folosiți pridvorul pentru a vă ajusta confortabil pelerina de ploaie.",
+                "en": "Admire the colorful stained-glass windows that glow even on cloudy days, and use the porch to comfortably organize your rain gear before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Shingle Beach of Goubars",
+                "hu": "Shingle Beach of Goubars",
+                "ro": "Shingle Beach of Goubars",
+                "en": "Shingle Beach of Goubars"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Kieselsteine glänzen wunderschön im Regen, aber seien Sie vorsichtig, da der Boden extrem rutschig sein kann; bleiben Sie auf den festen Wegen.",
+                "hu": "A vizes kavicsok gyönyörűen csillognak az esőben, de legyen óvatos, mert a talaj rendkívül csúszós lehet; maradjon a kijelölt, stabil ösvényeken.",
+                "ro": "Pietrele umede strălucesc frumos în ploaie, dar fiți precaut deoarece terenul poate fi extrem de alunecos; rămâneți pe potecile mai stabile.",
+                "en": "The wet pebbles shine beautifully in the rain, but be careful as the ground can be extremely slippery; stay on the designated stable paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Korz",
+                "hu": "Plage de Korz",
+                "ro": "Plage de Korz",
+                "en": "Plage de Korz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der tosenden Wellen unter einer Kapuze; die sandigen Abschnitte sind bei Regen fester und leichter zu begehen als die Felsen.",
+                "hu": "Élvezze a zúgó hullámok látványát a kapucnija alól; a homokos részek esőben tömörebbek és könnyebben járhatóak, mint a sziklás partszakaszok.",
+                "ro": "Bucurați-vă de spectacolul valurilor sub protecția glugii; porțiunile cu nisip sunt mai ferme și mai ușor de parcurs pe ploaie decât zonele stâncoase.",
+                "en": "Enjoy the sight of the crashing waves from under your hood; the sandy sections are firmer and easier to walk on in the rain than the rocky areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Poulféas",
+                "hu": "Moulin de Poulféas",
+                "ro": "Moulin de Poulféas",
+                "en": "Moulin de Poulféas"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle bietet ein tolles Fotomotiv vor dramatischen Regenwolken; suchen Sie kurz Schutz auf der Leeseite des Gebäudes gegen den Wind.",
+                "hu": "A régi malom nagyszerű fotótéma a drámai esőfelhők előtt; keressen rövid menedéket az épület szélvédett oldalán az erős széllökések elől.",
+                "ro": "Moara veche este un subiect foto excelent pe fundalul norilor dramatici; căutați un scurt adăpost pe partea ferită de vânt a clădirii.",
+                "en": "The old mill makes for a great photo subject against dramatic rain clouds; seek brief shelter on the lee side of the building from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Écomusée d’Ouessant",
+                "hu": "Écomusée d’Ouessant",
+                "ro": "Écomusée d’Ouessant",
+                "en": "Écomusée d’Ouessant"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um den starken Regen auszusitzen und in die Inselgeschichte einzutauchen; die Innenräume sind warm und absolut trocken.",
+                "hu": "Ez az ideális hely az erős eső kivárására és a sziget történelmében való elmélyülésre; a belső terek melegek és garantáltan szárazak.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea ploii și a învăța despre istoria insulei; interiorul este cald și complet uscat.",
+                "en": "This is the ideal place to wait out heavy rain and immerse yourself in island history; the interior is warm and completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die raue Winterruhe der Insel bei einer morgendlichen Wanderung zur Kirche. Mittags wärmt die blasse Sonne die Kieselstrände, während eine steife Brise weht. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Nachmittag im Ökomuseum verbringen. Abends kehrt auf Ouessant eine tiefe Stille ein, perfekt für eine heiße Schokolade in einer der wenigen offenen Tavernen.",
+            "hu": "Tapasztalja meg a sziget nyers téli nyugalmát egy reggeli sétával a templomig. Délben a sápadt napsütés világítja meg a kavicsos partokat, miközben metsző szél fúj. Mivel 17:00 körül már sötétedik, a délutánt töltse az Ökomúzeumban. Este mély csend telepszik a szigetre, ami tökéletes egy forró csokoládéhoz a kevés nyitva tartó fogadó egyikében.",
+            "ro": "Experimentați liniștea crudă a iernii pe insulă cu o plimbare matinală spre biserică. La prânz, soarele palid luminează plajele, în timp ce vântul bate cu putere. Deoarece se întunecă în jurul orei 17:00, rezervați după-amiaza pentru ecomuzeu. Seara, o liniște profundă cuprinde insula, fiind momentul perfect pentru o ciocolată caldă într-o tavernă locală.",
+            "en": "Experience the island's raw winter tranquility with a morning walk to the church. At noon, pale sunlight lights up the pebble beaches while a stiff breeze blows. Since it gets dark around 17:00, spend your afternoon at the eco-museum. In the evening, a deep silence settles over Ouessant, perfect for a hot chocolate in one of the few open local taverns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pol-Aurélien",
+                "hu": "Église Saint-Pol-Aurélien",
+                "ro": "Église Saint-Pol-Aurélien",
+                "en": "Église Saint-Pol-Aurélien"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor dem Winterwind; nutzen Sie den Besuch, um sich aufzuwärmen, bevor Sie den Küstenweg einschlagen.",
+                "hu": "A vastag falak kiváló védelmet nyújtanak a téli szél ellen; használja ki a látogatást a bemelegedésre, mielőtt a parti útra indulna.",
+                "ro": "Zidurile groase oferă protecție împotriva vântului de iarnă; profitați de vizită pentru a vă încălzi înainte de a porni pe drumul de coastă.",
+                "en": "The thick walls provide excellent protection from the winter wind; use the visit to warm up before heading out onto the coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Shingle Beach of Goubars",
+                "hu": "Shingle Beach of Goubars",
+                "ro": "Shingle Beach of Goubars",
+                "en": "Shingle Beach of Goubars"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Wellen hier oft gewaltiger; tragen Sie windfeste Kleidung, da die Kälte am offenen Meer besonders intensiv spürbar ist.",
+                "hu": "Télen a hullámok itt gyakran hatalmasabbak; viseljen szélálló ruházatot, mivel a hideg a nyílt tenger mellett különösen intenzívnek érződik.",
+                "ro": "Iarna, valurile sunt adesea mult mai mari aici; purtați haine rezistente la vânt, deoarece frigul se simte intens lângă marea deschisă.",
+                "en": "In winter, the waves here are often more powerful; wear windproof clothing as the cold feels especially intense by the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Korz",
+                "hu": "Plage de Korz",
+                "ro": "Plage de Korz",
+                "en": "Plage de Korz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei einem kurzen Spaziergang am Wasser; achten Sie auf vereiste Stellen auf den Zugangswegen zum Strand.",
+                "hu": "Élvezze a friss, tiszta téli levegőt egy rövid vízparti séta során; ügyeljen az esetlegesen jeges szakaszokra a strandhoz vezető ösvényeken.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în timpul unei scurte plimbări pe mal; atenție la porțiunile înghețate de pe potecile spre plajă.",
+                "en": "Enjoy the crisp, clear winter air during a short walk by the water; watch out for potentially icy patches on the paths leading to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Poulféas",
+                "hu": "Moulin de Poulféas",
+                "ro": "Moulin de Poulféas",
+                "en": "Moulin de Poulféas"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht im Winter wirft lange, dramatische Schatten auf die Mühle; halten Sie Ihre Kamera warm, um den Akku zu schonen.",
+                "hu": "A téli, alacsonyan járó nap hosszú, drámai árnyékokat vet a malomra; tartsa melegen a fényképezőgépét, hogy kímélje az akkumulátort.",
+                "ro": "Lumina joasă a soarelui de iarnă proiectează umbre lungi și dramatice pe moară; păstrați camera foto la căldură pentru a proteja bateria.",
+                "en": "The low winter sun casts long, dramatic shadows on the mill; keep your camera warm to preserve the battery life in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Écomusée d’Ouessant",
+                "hu": "Écomusée d’Ouessant",
+                "ro": "Écomusée d’Ouessant",
+                "en": "Écomusée d’Ouessant"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Besuch für den späten Nachmittag ein, um die Wärme drinnen zu genießen, während draußen die frühe Dämmerung einsetzt.",
+                "hu": "Időzítse ezt a látogatást késő délutánra, hogy élvezhesse a benti meleget, miközben odakint elkezdődik a korai téli szürkület.",
+                "ro": "Planificați această vizită spre sfârșitul după-amiezii pentru a vă bucura de căldura din interior în timp ce afară se lasă amurgul timpuriu.",
+                "en": "Schedule this visit for the late afternoon to enjoy the indoor warmth as the early winter twilight begins to fall outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját Lampaulban, mielőtt a lenyűgöző Niou faluba tekerne. A friss reggeli levegő felélénkíti az elkövetkező tengerparti kilométerekre. \n A dél elhagyatott szélmalmok mellett vezet a legendás Créac'h világítótoronyhoz. Itt a tengerészeti múzeum feltárja a hajók biztonságos irányításának drámai történetét. \n A délután drámai sziklás kilátásokat kínál, miközben katonai ütegek és ősi hínárkemencék mellett halad el, amelyek az emberi kitartás szimbólumai. \n Az este a Plage de Korz védett homokjához viszi. Ideális hely a lábak pihentetésére, figyelve, ahogy a lágy fény elhalványul az Atlanti-óceán felett.",
         "ro": "Începeți aventura cu bicicleta în Lampaul înainte de a pedala spre fascinantul sat Niou. Aerul proaspăt al dimineții vă înviorează pentru kilometrii de coastă care urmează. \n La prânz veți trece pe lângă mori de vânt solitare până la legendarul far Créac'h. Aici, muzeul maritim dezvăluie istoria dramatică a ghidării navelor. \n După-amiaza oferă priveliști dramatice ale stâncilor în timp ce pedalați pe lângă baterii militare și cuptoare antice de alge, simboluri ale rezistenței umane. \n Seara vă aduce pe nisipurile adăpostite de la Plage de Korz. Este locul ideal pentru a vă odihni picioarele și a privi lumina blândă deasupra Atlanticului.",
         "en": "Start your cycling adventure in Lampaul before pedaling out to the fascinating Niou village. The fresh morning air invigorates you for the coastal miles ahead. \n Midday takes you past solitary windmills to the legendary Créac'h lighthouse. Here, the maritime museum reveals the dramatic history of guiding ships safely. \n The afternoon features dramatic cliff-side views as you cycle past military batteries and ancient kelp kilns, symbols of human endurance. \n Evening brings you to the sheltered sands of Plage de Korz. It is an ideal spot to rest your legs and watch the soft light fade over the Atlantic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den teils glitschigen Küstenwegen. Starten Sie morgens im Dorf und steuern Sie zügig das Ökomuseum an. Mittags bieten die Museen der Insel trockene Pausen zwischen den Schauern. Am Nachmittag radeln Sie an der Küste entlang, wo die Brandung tobt. Der Abend bringt Ruhe im Hafen, während Sie Ihre Ausrüstung im Trockenen verstauen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a néhol csúszós parti utakon. Reggel induljon a faluból, és célozza meg gyorsan az Ökomúzeumot. Délben a sziget múzeumai száraz pihenőket kínálnak a záporok között. Délután tekerjen a part mentén, ahol a hullámverés tombol. Az este nyugalmat hoz a kikötőben, miközben felszerelését végre száraz helyre teheti.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă care pot deveni alunecoase. Plecați dimineața din sat și îndreptați-vă rapid spre ecomuzeu. La prânz, muzeele insulei oferă pauze uscate între reprizele de ploaie. După-amiaza, pedalați de-a lungul coastei unde marea este agitată. Seara aduce liniște în port, timp în care vă puteți usca echipamentul.",
+            "en": "Cycling in the rain requires caution on the sometimes slippery coastal paths. Start in the village and head quickly towards the eco-museum. At noon, the island's museums offer dry breaks between showers. In the afternoon, cycle along the coast where the surf crashes wildly. The evening brings peace in the harbor as you finally tuck your gear away in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pol-Aurélien",
+                "hu": "Église Saint-Pol-Aurélien",
+                "ro": "Église Saint-Pol-Aurélien",
+                "en": "Église Saint-Pol-Aurélien"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start gründlich, da die nassen Straßen im Dorfzentrum besonders rutschig sein können; parken Sie das Rad im Schutz.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket, mert a falu központjának vizes utcái csúszósak lehetnek; parkoljon fedett helyen.",
+                "ro": "Verificați frânele înainte de plecare, deoarece străzile umede din centrul satului pot fi alunecoase; parcați bicicleta la adăpost.",
+                "en": "Check your brakes thoroughly before starting, as the wet streets in the village center can be slippery; park your bike in a sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Écomusée d’Ouessant",
+                "hu": "Écomusée d’Ouessant",
+                "ro": "Écomusée d’Ouessant",
+                "en": "Écomusée d’Ouessant"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause, um Ihre Kleidung zu trocknen, während das Fahrrad draußen im Regen steht.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb pihenőre, hogy megszárítsa ruháit, miközben a kerékpár kint várakozik az esőben.",
+                "ro": "Profitați de vizita la muzeu pentru o pauză mai lungă ca să vă uscați hainele, în timp ce bicicleta rămâne afară în ploaie.",
+                "en": "Take advantage of the museum visit for a longer break to dry your clothes while your bike waits outside in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Karaes",
+                "hu": "Moulin de Karaes",
+                "ro": "Moulin de Karaes",
+                "en": "Moulin de Karaes"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mühle ist exponiert; halten Sie den Lenker bei Windböen fest und tragen Sie eine Brille gegen die ins Gesicht peitschenden Regentropfen.",
+                "hu": "A malomhoz vezető út kitett; tartsa erősen a kormányt a széllökésekben, és viseljen szemüveget az arcába csapódó esőcseppek ellen.",
+                "ro": "Drumul spre moară este expus; țineți bine ghidonul în rafalele de vânt și purtați ochelari împotriva stropilor de ploaie care vă lovesc fața.",
+                "en": "The path to the mill is exposed; hold the handlebars firmly during wind gusts and wear glasses against the driving rain hitting your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Phares et Balises",
+                "hu": "Musée des Phares et Balises",
+                "ro": "Musée des Phares et Balises",
+                "en": "Musée des Phares et Balises"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um dem Wetter zu entfliehen; die beeindruckenden Linsen wirken bei grauem Regenlicht draußen besonders mystisch.",
+                "hu": "Kiváló hely az időjárás elől való menekülésre; a lenyűgöző lencsék a kinti szürke, esős fényben különösen misztikusnak tűnnek.",
+                "ro": "Un loc excelent pentru a scăpa de vremea rea; lentilele impresionante par deosebit de mistice în lumina gri și ploioasă de afară.",
+                "en": "An excellent place to escape the weather; the impressive lenses look especially mystical in the grey, rainy light from outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie de Locqueltas",
+                "hu": "Batterie de Locqueltas",
+                "ro": "Batterie de Locqueltas",
+                "en": "Batterie de Locqueltas"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur wenig Schutz; machen Sie ein schnelles Foto und radeln Sie zügig weiter, um nicht auszukühlen.",
+                "hu": "A romok kevés védelmet nyújtanak; készítsen egy gyors fotót, és tekerjen tovább tempósan, hogy ne hűljön ki az esőben.",
+                "ro": "Ruinele oferă puțin adăpost; faceți o fotografie rapidă și pedalați mai departe într-un ritm susținut pentru a nu vă răci.",
+                "en": "The ruins offer little shelter; take a quick photo and continue cycling at a steady pace to avoid getting chilled in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à goëmon",
+                "hu": "Four à goëmon",
+                "ro": "Four à goëmon",
+                "en": "Four à goëmon"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Grasflächen rund um den Ofen; die Erde kann hier sehr schlammig und rutschig sein.",
+                "hu": "Vigyázzon a leszálláskor a kemence körüli vizes füves területeken; a talaj itt nagyon sáros és csúszós lehet az esőzések után.",
+                "ro": "Atenție la coborârea de pe bicicletă pe iarba umedă din jurul cuptorului; solul poate fi foarte noroios și alunecos aici.",
+                "en": "Be careful when dismounting on the wet grassy areas around the kiln; the ground can be very muddy and slippery after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Korz",
+                "hu": "Plage de Korz",
+                "ro": "Plage de Korz",
+                "en": "Plage de Korz"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier nur kurz für den Ausblick; der Sand klebt bei Regen hartnäckig an Reifen und Kette Ihres Rades.",
+                "hu": "Csak egy rövid nézelődésre álljon meg itt; a vizes homok esőben makacsul rátapad a kerékpár gumiira és láncára.",
+                "ro": "Opriți-vă aici doar scurt pentru priveliște; nisipul umed se lipește cu încăpățânare de cauciucurile și lanțul bicicletei pe ploaie.",
+                "en": "Stop here only briefly for the view; wet sand sticks stubbornly to your bike's tires and chain in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren auf Ouessant bedeutet frischen Wind und leere Straßen. Morgens geht es zur Kirche, gefolgt vom wärmenden Ökomuseum. Mittags fordern die Küstenwege Ihre Ausdauer gegen den Wind. Besuchen Sie das Leuchtturmmuseum, bevor die Sonne gegen 17:00 Uhr im Meer versinkt. Abends radeln Sie unter einem oft sternenklaren, kalten Himmel zurück zu Ihrer Unterkunft.",
+            "hu": "A téli kerékpározás Ouessant-on friss szelet és üres utakat jelent. Reggel induljon a templomhoz, majd melegedjen fel az Ökomúzeumban. Délben a parti utak próbára teszik kitartását a széllel szemben. Látogassa meg a Világítótorony-múzeumot, mielőtt a nap 17:00 körül a tengerbe vész. Este a gyakran csillagos, hideg égbolt alatt tekerjen vissza a szállására.",
+            "ro": "Ciclismul de iarnă pe Ouessant înseamnă vânt proaspăt și drumuri pustii. Dimineața mergeți la biserică, apoi încălziți-vă la ecomuzeu. La prânz, drumurile de coastă vă vor testa rezistența împotriva vântului. Vizitați muzeul farurilor înainte ca soarele să apună în mare în jurul orei 17:00. Seara, pedalați înapoi sub un cer adesea înstelat și rece.",
+            "en": "Winter cycling on Ouessant means fresh wind and empty roads. Start at the church in the morning, then warm up in the eco-museum. At noon, the coastal paths will test your stamina against the wind. Visit the lighthouse museum before the sun sets into the sea around 17:00. In the evening, cycle back under an often starry, cold sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pol-Aurélien",
+                "hu": "Église Saint-Pol-Aurélien",
+                "ro": "Église Saint-Pol-Aurélien",
+                "en": "Église Saint-Pol-Aurélien"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind die Finger schnell auskühlt; im Inneren der Kirche finden Sie eine kurze windstille Pause.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél hamar lehűti az ujjait; a templom belsejében rövid, szélvédett pihenőt találhat.",
+                "ro": "Purtați mănuși groase, deoarece vântul vă va răci rapid degetele; în interiorul bisericii veți găsi un scurt moment de răgaz fără vânt.",
+                "en": "Wear warm gloves as the biting wind will quickly chill your fingers; inside the church, you'll find a brief windless break."
+              }
+            },
+            {
+              "name": {
+                "de": "Écomusée d’Ouessant",
+                "hu": "Écomusée d’Ouessant",
+                "ro": "Écomusée d’Ouessant",
+                "en": "Écomusée d’Ouessant"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um Ihre Körpertemperatur zu stabilisieren, bevor Sie die längere Strecke zur Küste in Angriff nehmen.",
+                "hu": "Használja ki a múzeum fűtését a testhőmérséklete stabilizálására, mielőtt nekivágna a part felé vezető hosszabb szakasznak.",
+                "ro": "Profitați de încălzirea din muzeu pentru a vă stabiliza temperatura corpului înainte de a porni pe segmentul mai lung spre coastă.",
+                "en": "Take advantage of the museum's heating to stabilize your body temperature before tackling the longer stretch toward the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Karaes",
+                "hu": "Moulin de Karaes",
+                "ro": "Moulin de Karaes",
+                "en": "Moulin de Karaes"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle steht auf einer Anhöhe; rechnen Sie mit starken Böen, die das Radfahren anstrengend machen können; schalten Sie in einen niedrigen Gang.",
+                "hu": "A malom dombtetőn áll; számítson erős széllökésekre, amelyek fárasztóvá tehetik a tekerést; váltson alacsonyabb sebességfokozatba.",
+                "ro": "Moara este situată pe o colină; așteptați-vă la rafale puternice care pot face pedalatul obositor; folosiți o treaptă de viteză inferioară.",
+                "en": "The mill stands on a hill; expect strong gusts that can make cycling tiring; switch to a lower gear for better control."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Phares et Balises",
+                "hu": "Musée des Phares et Balises",
+                "ro": "Musée des Phares et Balises",
+                "en": "Musée des Phares et Balises"
+              },
+              "tip_5lang": {
+                "de": "Die Exponate sind im Winter wunderbar beleuchtet; planen Sie hier genug Zeit ein, um die Kälte draußen für eine Weile zu vergessen.",
+                "hu": "A kiállítási tárgyak télen csodálatos megvilágítást kapnak; tervezzen ide elég időt, hogy egy darabig elfelejtse a kinti hideget.",
+                "ro": "Exponatele sunt minunat iluminate iarna; planificați-vă suficient timp aici pentru a uita pentru o vreme de frigul de afară.",
+                "en": "The exhibits are wonderfully lit in winter; plan enough time here to forget about the cold outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie de Locqueltas",
+                "hu": "Batterie de Locqueltas",
+                "ro": "Batterie de Locqueltas",
+                "en": "Batterie de Locqueltas"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das stürmische Wintermeer ist hier spektakulär, aber bleiben Sie in Bewegung, um nicht durch den Windchill auszukühlen.",
+                "hu": "A kilátás a viharos téli tengerre itt látványos, de maradjon mozgásban, hogy a szél ne hűtse le túlságosan a szervezetét.",
+                "ro": "Priveliștea asupra mării agitate de iarnă este spectaculoasă aici, dar rămâneți în mișcare pentru a nu lăsa vântul să vă răcească prea tare.",
+                "en": "The view of the stormy winter sea is spectacular here, but keep moving to prevent the wind chill from cooling you down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Four à goëmon",
+                "hu": "Four à goëmon",
+                "ro": "Four à goëmon",
+                "en": "Four à goëmon"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt diese historische Stätte besonders einsam; achten Sie auf die Dämmerung, die hier am Rand der Insel früh einsetzt.",
+                "hu": "Télen ez a történelmi helyszín különösen magányosnak tűnik; ügyeljen a szürkületre, amely a sziget szélén hamar beköszönt.",
+                "ro": "Iarna, acest sit istoric pare deosebit de solitar; aveți grijă la amurgul care se lasă devreme aici, la marginea insulei.",
+                "en": "In winter, this historical site feels especially lonely; watch out for the twilight, which arrives early here at the edge of the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Korz",
+                "hu": "Plage de Korz",
+                "ro": "Plage de Korz",
+                "en": "Plage de Korz"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, bevor Sie sich von hier auf den Rückweg ins Dorf machen, da es nun dunkel wird.",
+                "hu": "Mielőtt elindulna vissza a faluba, győződjön meg róla, hogy a kerékpár világítása jól működik, mivel ekkorra már besötétedik.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează bine înainte de a pleca spre sat, deoarece până atunci se va întuneca deja.",
+                "en": "Make sure your bike lights are working properly before heading back to the village, as it will be dark by the time you leave."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Szigeti autózása Lampaul szívében kezdődik, mielőtt a lenyűgöző Écomusée felé venné az irányt. A kora reggel a legjobb idő a hagyományos építészet nyugodt élvezetére. \n Dél körül rejtett történelmi vízforrásokat fedezhet fel, és meglátogathatja a fenséges világítótorony-múzeumot, amelyet végtelen óceáni panoráma vesz körül. \n A délután egy békés pihenővel folytatódik egy tengerészkápolnánál, mielőtt a déli csücsök felé haladna, amely tele van tengeri legendákkal. \n Fejezze be utazását a rejtélyes Pierre aux Signes-nél. Ahogy a nap lenyugszik, a drámai sziklák előtti ősi jelzőkő maradandó benyomást hagy.",
         "ro": "Călătoria auto pe insulă începe în inima orașului Lampaul înainte de a vă îndrepta spre fascinantul Écomusée. Dimineața devreme este perfectă pentru a aprecia arhitectura tradițională fără aglomerație. \n În jurul prânzului veți descoperi surse istorice de apă și veți vizita maiestuosul muzeu al farului, înconjurat de panorame oceanice impresionante. \n După-amiaza continuă cu o pauză liniștită la o capelă a marinarilor înainte de a conduce spre extremitatea sudică, o zonă plină de legende locale. \n Încheiați călătoria lângă enigmatica Pierre aux Signes. La apus, acest marcaj antic așezat pe stâncile dramatice lasă o impresie de neuitat.",
         "en": "Your island drive starts in the heart of Lampaul before heading to the fascinating Écomusée. Early morning is the best time to appreciate the traditional architecture without crowds. \n Around midday, you will discover hidden historical water sources and visit the majestic lighthouse museum, surrounded by sweeping ocean panoramas. \n The afternoon continues with a peaceful pause at a sailor’s chapel before driving towards the southern tip, an area steeped in local maritime legends. \n End your journey by the enigmatic Pierre aux Signes. As the sun begins to set, the ancient marker against the dramatic cliffs leaves a lasting impression."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die komfortabelste Wahl für einen Regentag auf Ouessant. Morgens besuchen Sie trocken die Kirche, dann das Ökomuseum. Mittags können Sie die Aussicht auf Fontänen und das Meer aus dem warmen Fahrzeug genießen. Nachmittags bieten Museen und Kapellen Schutz. Der Abend endet entspannt, da Sie trotz der Schauer schnell und trocken zu Ihrem Ziel gelangen.",
+            "hu": "Az autó a legkényelmesebb választás egy esős napon Ouessant-on. Reggel szárazon látogathatja meg a templomot, majd az Ökomúzeumot. Délben a kocsiból is gyönyörködhet a szökőkutakban és a tengerben. Délután a múzeumok és kápolnák nyújtanak védelmet. Az este nyugodtan telik, hiszen a záporok ellenére gyorsan és szárazon érhet úti céljához.",
+            "ro": "Mașina este cea mai confortabilă alegere pentru o zi ploioasă în Ouessant. Dimineața vizitați biserica fără să vă udați, apoi ecomuzeul. La prânz, puteți admira fântânile și marea din interiorul cald al vehiculului. După-amiaza, muzeele și capelele oferă adăpost. Seara se încheie relaxat, ajungând rapid și uscat la destinație în ciuda ploii.",
+            "en": "The car is the most comfortable choice for a rainy day on Ouessant. In the morning, visit the church dry, then the eco-museum. At noon, enjoy views of the fountains and sea from the warmth of your vehicle. In the afternoon, museums and chapels provide shelter. The evening ends relaxed, as you reach your destination quickly and dry despite the showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pol-Aurélien",
+                "hu": "Église Saint-Pol-Aurélien",
+                "ro": "Église Saint-Pol-Aurélien",
+                "en": "Église Saint-Pol-Aurélien"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg im Regen zu minimieren; die Kirche ist ein herrlich trockener Rückzugsort.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben megtett utat; a templom remek száraz menedék.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza distanța parcursă prin ploaie; biserica este un refugiu uscat excelent.",
+                "en": "Park as close to the entrance as possible to minimize the walk in the rain; the church is a wonderfully dry retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Écomusée d’Ouessant",
+                "hu": "Écomusée d’Ouessant",
+                "ro": "Écomusée d’Ouessant",
+                "en": "Écomusée d’Ouessant"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Regenjacke im Auto, um das Museum trocken und bequem erkunden zu können; es gibt Parkplätze direkt vor der Tür.",
+                "hu": "Hagyja a vizes esőkabátot az autóban, hogy szárazon és kényelmesen fedezhesse fel a múzeumot; parkolók közvetlenül a bejáratnál vannak.",
+                "ro": "Lăsați pelerina udă în mașină pentru a explora muzeul confortabil și uscat; există locuri de parcare chiar în fața intrării.",
+                "en": "Leave your wet rain jacket in the car to explore the museum dry and comfortably; there are parking spots right in front of the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine de Porz Gueguen",
+                "hu": "Fontaine de Porz Gueguen",
+                "ro": "Fontaine de Porz Gueguen",
+                "en": "Fontaine de Porz Gueguen"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Fontäne kurz aus dem Fenster oder nutzen Sie eine Regenpause für ein schnelles Foto am Wegesrand.",
+                "hu": "Tekintse meg a történelmi kutat rövid ideig az ablakból, vagy használjon ki egy esőszünetet egy gyors fotóra az út szélén.",
+                "ro": "Admirați fântâna istorică scurt timp de pe geam sau profitați de o pauză între reprizele de ploaie pentru o poză rapidă la marginea drumului.",
+                "en": "View the historical fountain briefly from the window or take advantage of a break in the rain for a quick photo by the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Phares et Balises",
+                "hu": "Musée des Phares et Balises",
+                "ro": "Musée des Phares et Balises",
+                "en": "Musée des Phares et Balises"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist auch bei starkem Regen sicher; verbringen Sie hier viel Zeit, während draußen der Sturm die Leuchttürme peitscht.",
+                "hu": "Az idevezető út erős esőben is biztonságos; töltsön el itt több időt, miközben kint a vihar mossa a világítótornyokat.",
+                "ro": "Drumul până aici este sigur chiar și pe ploaie torențială; petreceți mai mult timp înăuntru în timp ce afară furtuna lovește farurile.",
+                "en": "The drive here is safe even in heavy rain; spend plenty of time here while the storm lashes the lighthouses outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de Bon Voyage",
+                "hu": "Chapelle Notre-Dame de Bon Voyage",
+                "ro": "Chapelle Notre-Dame de Bon Voyage",
+                "en": "Chapelle Notre-Dame de Bon Voyage"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen intimen Schutz vor dem Wetter; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "A kis kápolna meghitt menedéket nyújt az időjárás elől; az autóba való beszálláskor ügyeljen az út menti mély tócsákra.",
+                "ro": "Mica chapelă oferă un adăpost intim împotriva vremii; atenție la bălțile adânci de la marginea drumului când urcați sau coborâți din mașină.",
+                "en": "The small chapel offers an intimate shelter from the weather; watch out for deep puddles at the roadside when getting in or out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre aux Signes",
+                "hu": "La Pierre aux Signes",
+                "ro": "La Pierre aux Signes",
+                "en": "La Pierre aux Signes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um die historischen Zeichen bei einem kurzen Stopp zu bewundern, ohne ganz durchnässt zu werden.",
+                "hu": "Használja bázisként az autót, hogy egy rövid megálló során megcsodálhassa a történelmi jeleket anélkül, hogy teljesen bőrig ázna.",
+                "ro": "Folosiți mașina ca bază pentru a admira semnele istorice în timpul unei scurte opriri, fără a vă uda până la piele.",
+                "en": "Use the car as a base to admire the historical signs during a short stop without getting completely soaked through."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Ouessant im Winter angenehm gewärmt. Der Vormittag gehört der Kirche und dem Ökomuseum. Mittags erreichen Sie bequem entlegene Orte wie die Fontaine, während draußen der kalte Wind bläst. Besuchen Sie das Leuchtturmmuseum im warmen Licht des Nachmittags. Da es gegen 17:00 Uhr dunkel wird, bietet die Autofahrt zurück ins Dorf Sicherheit und Komfort.",
+            "hu": "Autóval kellemes melegben fedezheti fel Ouessant-t télen. A délelőtt a templomé és az Ökomúzeumé. Délben kényelmesen elérheti a távolabbi helyeket, mint a kutat, miközben kint metsző szél fúj. Látogassa meg a Világítótorony-múzeumot a délutáni meleg fényekben. Mivel 17:00 körül sötétedik, az autós visszaút a faluba biztonságot és kényelmet nyújt.",
+            "ro": "Cu mașina, puteți explora Ouessant iarna într-o atmosferă caldă. Dimineața aparține bisericii și ecomuzeului. La prânz, ajungeți confortabil în locuri retrase precum fântâna, în timp ce afară bate vântul rece. Vizitați muzeul farurilor în lumina caldă a după-amiezii. Deoarece se întunecă la ora 17:00, drumul înapoi spre sat oferă siguranță și confort.",
+            "en": "By car, you can explore Ouessant in winter while staying pleasantly warm. The morning is for the church and the eco-museum. At noon, comfortably reach remote spots like the fountain while the cold wind blows outside. Visit the lighthouse museum in the warm afternoon light. As it gets dark around 17:00, the drive back to the village offers safety and comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pol-Aurélien",
+                "hu": "Église Saint-Pol-Aurélien",
+                "ro": "Église Saint-Pol-Aurélien",
+                "en": "Église Saint-Pol-Aurélien"
+              },
+              "tip_5lang": {
+                "de": "Die Sitzheizung im Auto ist nach dem Besuch der kühlen Kirche ein Segen; genießen Sie die Ruhe im Dorfzentrum ohne die Sommermassen.",
+                "hu": "Az autó ülésfűtése áldás a hűvös templomlátogatás után; élvezze a falu központjának nyugalmát a nyári tömeg nélkül.",
+                "ro": "Încălzirea în scaune este o binecuvântare după vizita în biserica răcoroasă; bucurați-vă de liniștea centrului satului fără mulțimea de vară.",
+                "en": "The car's seat heating is a blessing after visiting the cool church; enjoy the village center's peace without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Écomusée d’Ouessant",
+                "hu": "Écomusée d’Ouessant",
+                "ro": "Écomusée d’Ouessant",
+                "en": "Écomusée d’Ouessant"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist leer; nutzen Sie die Zeit drinnen für eine gründliche Besichtigung, während das Auto aufwärmt.",
+                "hu": "A parkoló télen többnyire üres; használja ki a benti időt egy alapos körbejárásra, miközben az autó ismét felmelegszik.",
+                "ro": "Parcarea este de obicei goală iarna; profitați de timpul petrecut înăuntru pentru o vizită detaliată, în timp ce mașina se reîncălzește.",
+                "en": "The parking lot is mostly empty in winter; use the time inside for a thorough tour while the car warms up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine de Porz Gueguen",
+                "hu": "Fontaine de Porz Gueguen",
+                "ro": "Fontaine de Porz Gueguen",
+                "en": "Fontaine de Porz Gueguen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf der schmalen Straße zur Fontaine; das flache Winterlicht erzeugt hier eine ganz besondere, stille Stimmung.",
+                "hu": "Ügyeljen a jegesedésre a kúthoz vezető keskeny úton; a lapos téli fények itt különleges, csendes hangulatot teremtenek.",
+                "ro": "Atenție la polei pe drumul îngust spre fântână; lumina joasă de iarnă creează aici o atmosferă deosebită și foarte liniștită.",
+                "en": "Watch out for icy patches on the narrow road to the fountain; the low winter light creates a very special, quiet mood here."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Phares et Balises",
+                "hu": "Musée des Phares et Balises",
+                "ro": "Musée des Phares et Balises",
+                "en": "Musée des Phares et Balises"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hellsten Teil des Tages für dieses Museum; der Weg dorthin bietet tolle Ausblicke auf das winterliche Meer aus dem Auto.",
+                "hu": "A nap legvilágosabb részét szánja erre a múzeumra; az idevezető út nagyszerű kilátást nyújt a téli tengerre az autóból.",
+                "ro": "Rezervați cea mai luminoasă parte a zilei pentru acest muzeu; drumul până aici oferă priveliști superbe asupra mării de iarnă din mașină.",
+                "en": "Dedicate the brightest part of the day to this museum; the drive here offers great views of the winter sea from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame de Bon Voyage",
+                "hu": "Chapelle Notre-Dame de Bon Voyage",
+                "ro": "Chapelle Notre-Dame de Bon Voyage",
+                "en": "Chapelle Notre-Dame de Bon Voyage"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist ein ruhiger Ort für Besinnung im Winter; stellen Sie das Gebläse im Auto auf Entfrosten, da die Scheiben schnell beschlagen.",
+                "hu": "A kápolna csendes hely a téli elmélyülésre; állítsa az autó szellőzését páramentesítésre, mert az üvegek gyorsan bepárásodhatnak.",
+                "ro": "Capela este un loc liniștit pentru reflecție iarna; setați ventilația mașinii pe degivrare, deoarece geamurile se pot aburi rapid.",
+                "en": "The chapel is a quiet place for winter reflection; set your car's ventilation to defrost, as the windows can fog up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre aux Signes",
+                "hu": "La Pierre aux Signes",
+                "ro": "La Pierre aux Signes",
+                "en": "La Pierre aux Signes"
+              },
+              "tip_5lang": {
+                "de": "Da es nun dämmert, helfen die Scheinwerfer Ihres Autos, die Symbole auf dem Stein besser zu erkennen; kehren Sie danach gemütlich zurück.",
+                "hu": "Mivel már szürkül, az autó fényszórói segíthetnek jobban látni a kő szimbólumait; ezután térjen vissza kényelmesen a szállására.",
+                "ro": "Deoarece se lasă amurgul, farurile mașinii vă pot ajuta să vedeți mai bine simbolurile de pe piatră; după aceea, întoarceți-vă confortabil.",
+                "en": "As twilight falls, your car's headlights can help you see the stone's symbols better; afterwards, make a cozy return to your stay."
+              }
+            }
+          ]
+        }
       }
     }
   }

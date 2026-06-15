@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő tengerparti sétával a népszerű Pata Patánál. A sós tengeri szellő tökéletes alaphangot ad a napnak.\n\nFolytassa kényelmes útját a Pappafico és az elegáns VOI Marsa Siclà Essentia felé, élvezve a partmenti pezsgést.\n\nTöltse a délutánt a Spiaggia di Sampieri aranyhomokos partján, megfürödve a meleg szicíliai napsütésben.\n\nZárja a napot a védett ökológiai övezetek felfedezésével, kapcsolódva a természethez naplemente előtt.",
         "ro": "Începeți dimineața cu o plimbare revigorantă pe coastă la popularul Pata Pata. Briza proaspătă a mării dă tonul perfect pentru zi.\n\nContinuați-vă călătoria relaxantă către Pappafico și elegantul VOI Marsa Siclà Essentia.\n\nPetreceți-vă după-amiaza relaxându-vă pe nisipurile aurii de la Spiaggia di Sampieri, bucurându-vă de soarele cald sicilian.\n\nÎncheiați ziua explorând zonele ecologice protejate, conectându-vă cu natura înainte de apus.",
         "en": "Begin your morning with a refreshing stroll along the coast, starting at the popular Pata Pata. The fresh sea breeze sets a perfect tone for the day.\n\nContinue your leisurely journey to Pappafico and the elegant VOI Marsa Siclà Essentia, enjoying the lively beachfront atmosphere.\n\nSpend your afternoon unwinding on the golden sands of Spiaggia di Sampieri, soaking in the warm Sicilian sun.\n\nConclude the day exploring the protected ecological zones, connecting with nature before sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Pata Pata und beobachten Sie das Meer im Trockenen. Mittags geht es vorsichtig zum Pappafico und zum Resortgebiet. Nachmittags bietet der nasse Strand eine dramatische Atmosphäre; achten Sie auf rutschige Steine. Beenden Sie den Tag im Naturreservat, wo die nasse Flora erblüht, festes Schuhwerk jedoch Pflicht ist.",
+            "hu": "Kezdje az esős reggelt a Pata Pata menedékéből figyelve a viharos tengert. Délben óvatosan sétáljon át a Pappafico fedett részeire és a közeli üdülőhöz. Délután a nyirkos tengerpart drámai látványt nyújt, de vigyázzon a csúszós köveken. Estefelé a természetvédelmi terület nedves növényvilága varázslatos, vízálló cipő ajánlott a saras ösvényeken.",
+            "ro": "Începeți dimineața ploioasă la Pata Pata, privind marea de la adăpost. La prânz, mergeți cu atenție spre Pappafico și zonele de resort. După-amiaza, plaja umedă oferă o atmosferă dramatică, dar atenție la pietrele alunecoase. Încheiați ziua în rezervația naturală, unde flora umedă este spectaculoasă, fiind necesare încălțări impermeabile pentru noroi.",
+            "en": "Start your wet morning at Pata Pata, watching the rain over the sea under shelter. By noon, navigate carefully to Pappafico and the resort areas. In the afternoon, the rainy beach offers a moody, dramatic atmosphere, but watch your step. End the day at the nature reserve, where the wet flora comes alive, though paths might be muddy and require good boots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pata Pata",
+                "hu": "Pata Pata",
+                "ro": "Pata Pata",
+                "en": "Pata Pata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das verregnete Meer im Trockenen; bringen Sie einen stabilen Schirm mit.",
+                "hu": "Élvezze a viharos tenger drámai látványát a fedett részekről; hozzon erős esernyőt a parti szél miatt.",
+                "ro": "Bucurați-vă de vederea dramatică a mării ploioase de la adăpost; aduceți o umbrelă rezistentă pentru vântul de coastă.",
+                "en": "Enjoy the dramatic view of the rainy sea from the covered areas here; bring a sturdy umbrella for the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Pappafico",
+                "hu": "Pappafico",
+                "ro": "Pappafico",
+                "en": "Pappafico"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz, während Sie die Küstenatmosphäre genießen; tragen Sie wasserdichte Schuhe für die nassen Wege.",
+                "hu": "Keressen átmeneti menedéket bent, miközben élvezi a parti hangulatot; viseljen vízálló cipőt a vizes utakon.",
+                "ro": "Căutați un adăpost temporar înăuntru, bucurându-vă de ambianța de coastă; purtați încălțăminte impermeabilă pe alei.",
+                "en": "Seek temporary shelter inside while enjoying the coastal ambiance; wear waterproof shoes to navigate the wet pathways safely."
+              }
+            },
+            {
+              "name": {
+                "de": "VOI Marsa Siclà Essentia",
+                "hu": "VOI Marsa Siclà Essentia",
+                "ro": "VOI Marsa Siclà Essentia",
+                "en": "VOI Marsa Siclà Essentia"
+              },
+              "tip_5lang": {
+                "de": "Dieses Resort bietet überdachte Plätze zum Ausruhen und Trocknen, ideal als strategischer Halt bei starken Schauern.",
+                "hu": "Ez az üdülőterület fedett pihenőhelyeket kínál, így remek stratégiai megálló egy-egy nagyobb felhőszakadás idején.",
+                "ro": "Acest complex oferă locuri acoperite pentru a vă odihni și usca, fiind o oprire strategică perfectă în timpul ploilor.",
+                "en": "This resort area offers some covered spots to rest and dry off, making it a good strategic stop during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sampieri",
+                "hu": "Spiaggia di Sampieri",
+                "ro": "Spiaggia di Sampieri",
+                "en": "Spiaggia di Sampieri"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem leeren Strand eine raue Schönheit; bleiben Sie jedoch bei unberechenbaren Wellen von der Wasserlinie fern.",
+                "hu": "Az eső egyedülálló, melankolikus szépséget kölcsönöz az üres partnak, de maradjon távol a víztükörtől a kiszámíthatatlan hullámok miatt.",
+                "ro": "Ploaia oferă plajei pustii o frumusețe melancolică, dar stați departe de linia apei din cauza valurilor imprevizibile.",
+                "en": "The rain gives the empty beach a uniquely melancholic beauty, but stay away from the waterline during unpredictable waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona speciale di conservazione - C. Religione ITA080008",
+                "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+                "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+                "en": "Zona speciale di conservazione - C. Religione ITA080008"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt das Grün der Küstenflora; bleiben Sie strikt auf den Wegen, um tiefen Schlamm und Ausrutschen zu vermeiden.",
+                "hu": "Az eső felerősíti a parti növényvilág zöldjét, de szigorúan maradjon a kijelölt ösvényeken a mély sár és a csúszásveszély miatt.",
+                "ro": "Ploaia intensifică verdele florei de coastă, dar rămâneți pe potecile marcate pentru a evita noroiul adânc și alunecările.",
+                "en": "Rain enhances the vibrant greens of the protected coastal flora, but stick strictly to marked paths to avoid deep mud and slipping."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen am Pata Pata, warm eingepackt in der kühlen Meeresbrise. Mittags geht es zum Pappafico, wo Sie die ruhige, touristenfreie Zeit schätzen werden. Der Nachmittag am Strand bietet friedliche Einsamkeit, doch der Wind kann eisig sein. Beenden Sie den Tag früh im Naturreservat, da die Sonne gegen 17:00 Uhr untergeht und es rasch kalt wird.",
+            "hu": "Kezdje a hűvös téli reggelt a Pata Patánál, meleg rétegekbe öltözve élvezve a friss tengeri szellőt. Délben sétáljon a Pappafico és az üdülők felé, értékelve a turistamentes nyugalmat. Kora délután a tengerpart békés magányt kínál, de a szél csípős lehet. Fejezze be a napot korán a természetvédelmi területen, mivel a nap 17:00 körül lenyugszik, és hirtelen lehűl a levegő.",
+            "ro": "Începeți dimineața de iarnă la Pata Pata, bucurându-vă de briza proaspătă a mării, bine îmbrăcați. La prânz, continuați spre Pappafico, apreciind liniștea fără turiști. După-amiaza devreme pe plajă oferă o solitudine pașnică, dar vântul poate fi tăios. Încheiați ziua devreme în rezervația naturală, deoarece soarele apune la 17:00, aducând un frig pătrunzător.",
+            "en": "Start your brisk winter morning at Pata Pata, enjoying the crisp sea breeze wrapped in warm layers. By noon, continue to Pappafico and the resort areas, appreciating the quiet, tourist-free atmosphere. Mid-afternoon on the beach offers peaceful solitude, but the wind can be biting. End your day early at the nature reserve, as the sun sets by 17:00, bringing a sharp chill to the air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pata Pata",
+                "hu": "Pata Pata",
+                "ro": "Pata Pata",
+                "en": "Pata Pata"
+              },
+              "tip_5lang": {
+                "de": "Das Wintermeer ist faszinierend, aber der Küstenwind ist eisig; eine winddichte Jacke und ein warmer Schal sind hier sehr zu empfehlen.",
+                "hu": "A téli tenger lenyűgöző, de a parti szél fagyos; szélálló kabát és meleg sál viselése itt kifejezetten ajánlott.",
+                "ro": "Marea de iarnă este fascinantă, dar vântul este înghețat; o jachetă rezistentă la vânt și un fular călduros sunt foarte recomandate aici.",
+                "en": "The winter sea is mesmerizing, but the coastal wind is freezing; wearing a windproof jacket and warm scarf is highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Pappafico",
+                "hu": "Pappafico",
+                "ro": "Pappafico",
+                "en": "Pappafico"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort im Winter, um die Aussicht zu genießen; tragen Sie Thermokleidung, da die Kälte des Meeres schnell durch die Kleidung dringt.",
+                "hu": "Csendes téli megálló a kilátás élvezetéhez; feltétlenül viseljen termo rétegeket, mert a tengeri hideg hamar átjárja a ruhákat.",
+                "ro": "Un loc liniștit iarna pentru a admira priveliștea; asigurați-vă că purtați straturi termice, deoarece frigul mării pătrunde rapid.",
+                "en": "A quiet spot in winter to pause and take in the view; make sure to wear thermal layers as the seaside chill quickly permeates clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "VOI Marsa Siclà Essentia",
+                "hu": "VOI Marsa Siclà Essentia",
+                "ro": "VOI Marsa Siclà Essentia",
+                "en": "VOI Marsa Siclà Essentia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ruhe der Nebensaison in diesem Resortgebiet; ideal für einen flotten, ungestörten Winterspaziergang unter klarem Himmel.",
+                "hu": "Használja ki az üdülőterület szezonon kívüli nyugalmát; tökéletes egy tempós, zavartalan téli sétához a tiszta égbolt alatt.",
+                "ro": "Profitați de liniștea din extrasezon a acestui complex; este perfect pentru o plimbare revigorantă de iarnă sub cerul senin.",
+                "en": "Take advantage of the off-season tranquility at this resort area; it is perfect for a brisk, uninterrupted winter stroll under clear skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sampieri",
+                "hu": "Spiaggia di Sampieri",
+                "ro": "Spiaggia di Sampieri",
+                "en": "Spiaggia di Sampieri"
+              },
+              "tip_5lang": {
+                "de": "Der weite, leere Winterstrand ist unglaublich malerisch; der feuchte Sand und die kalte Brise erfordern jedoch isoliertes Schuhwerk.",
+                "hu": "A hatalmas, üres téli tengerpart hihetetlenül festői fotózáshoz, bár a nedves homok és a hideg szellő bélelt lábbelit igényel.",
+                "ro": "Plaja vastă și goală de iarnă este incredibil de pitorească pentru fotografii, deși nisipul umed și briza rece necesită încălțăminte izolată.",
+                "en": "The vast, empty winter beach is incredibly scenic for photography, though the damp sand and cold breeze require insulated footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona speciale di conservazione - C. Religione ITA080008",
+                "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+                "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+                "en": "Zona speciale di conservazione - C. Religione ITA080008"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhende Küstengestrüpp im schwindenden Nachmittagslicht; beenden Sie den Spaziergang vor 16:30 Uhr wegen der aufkommenden Kälte.",
+                "hu": "Fedezze fel a szunnyadó parti cserjést a halványuló délutáni fényben; próbálja befejezni a sétát 16:30 előtt a hirtelen lehűlés miatt.",
+                "ro": "Explorați tufișurile de coastă în lumina blândă a după-amiezii; încercați să terminați plimbarea înainte de 16:30, deoarece temperaturile scad brusc.",
+                "en": "Explore the dormant coastal scrub in the fading afternoon light; aim to finish your walk before 16:30 as temperatures drop sharply at sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját kora reggel a védett part menti övezetben, ahol az érintetlen természet a lágy reggeli fényben fogadja.\n\nTekerjen kelet felé a Pata Pata és a Pappafico pezsgő helyszínei felé, élvezve a tengerparti ösvények energiáját.\n\nDélután guruljon el a kiterjedt Spiaggia di Sampieri mellett, majd fedezze fel a természetvédelmi zóna ritka növényvilágát.\n\nZárja útját a szárazföld belsejében, a történelmi Villa Picionánál, megcsodálva annak építészetét.",
         "ro": "Începeți aventura cu bicicleta devreme vizitând zona de coastă protejată, unde natura neatinsă vă întâmpină în lumina blândă a dimineții.\n\nPedalați spre est către locațiile animate Pata Pata și Pappafico, bucurându-vă de energia coastei.\n\nDupă-amiaza, treceți pe lângă întinsa plajă Spiaggia di Sampieri, apoi explorați flora rară a zonei de conservare.\n\nÎncheiați-vă plimbarea spre interior la istorica Villa Piciona, admirându-i arhitectura grandioasă.",
         "en": "Start your cycling adventure early by visiting the coastal protected area, where unspoiled nature greets you in the gentle morning light.\n\nPedal east towards the bustling venues of Pata Pata and Pappafico, taking in the vibrant coastal energy along the seaside paths.\n\nIn the afternoon, cruise past the extensive Spiaggia di Sampieri, then head out to explore the rare flora of the conservation zone.\n\nEnd your ride inland at the historic Villa Piciona, admiring its grand architecture as the evening shadows lengthen."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour im Naturschutzgebiet und befahren Sie rutschige Wege vorsichtig. Mittags radeln Sie an Pata Pata und Pappafico vorbei; suchen Sie bei starken Schauern Schutz. Nachmittags bietet die nasse Promenade tolle Ausblicke, aber bremsen Sie sanft. Beenden Sie die Tour an der Villa Piciona und achten Sie auf schlammige historische Pfade.",
+            "hu": "Kezdje esős kerékpártúráját a védett területen, óvatosan haladva a csúszós ösvényeken. Délben tekerjen el a Pata Pata és a Pappafico mellett, menedéket keresve, ha az eső rázendít. Délután a vizes tengerparti sétány drámai látványt nyújt, de finoman fékezzen a csúszós utakon. Zárja a túrát a Villa Picionánál, vigyázva a saras történelmi utakon.",
+            "ro": "Începeți plimbarea ploioasă cu bicicleta în aria protejată, navigând cu grijă pe traseele alunecoase. La prânz, pedalați pe lângă Pata Pata și Pappafico, căutând adăpost la nevoie. După-amiaza, promenada umedă oferă priveliști uimitoare, dar frânați ușor pe drumurile alunecoase. Încheiați la Villa Piciona, având grijă pe cărările istorice pline de noroi.",
+            "en": "Start your rainy bike ride at the protected area, carefully navigating slick trails. By noon, cycle past Pata Pata and Pappafico, seeking temporary shelter if showers intensify. In the afternoon, riding along the wet beach promenade offers striking views, but apply brakes gently on the slippery roads. End your wet journey at Villa Piciona, taking care on the potentially muddy historical pathways."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "protected area",
+                "hu": "protected area",
+                "ro": "protected area",
+                "en": "protected area"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig durch diese Naturzone, da unbefestigte Wege im Regen schnell zu rutschigem Schlamm werden; Schutzbleche sind unerlässlich.",
+                "hu": "Óvatosan tekerjen át ezen a természeti zónán, mert a földutak hamar csúszós sárrá válnak az esőben; a sárvédő elengedhetetlen.",
+                "ro": "Pedalați cu grijă prin această zonă naturală, deoarece potecile de pământ devin noroioase; aripile pentru bicicletă sunt esențiale.",
+                "en": "Cycle carefully through this natural zone as dirt paths quickly turn into slippery mud during rain; fenders on your bike are essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Pata Pata",
+                "hu": "Pata Pata",
+                "ro": "Pata Pata",
+                "en": "Pata Pata"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um unter den Markisen etwas zu trocknen und zu beobachten, wie die schweren Regentropfen auf das Meer treffen.",
+                "hu": "Jó hely a megállásra és egy kis szárkózásra a napellenzők alatt, miközben nézi, ahogy a nehéz esőcseppek a tengerbe csapódnak.",
+                "ro": "Un loc bun pentru o pauză și o scurtă uscare sub copertine, privind cum picăturile grele de ploaie lovesc suprafața oceanului.",
+                "en": "A good place to pause and dry off slightly under the awnings while watching the heavy raindrops hit the ocean surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Pappafico",
+                "hu": "Pappafico",
+                "ro": "Pappafico",
+                "en": "Pappafico"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Regenjacke geschlossen; die Mischung aus Küstenwind und Regen macht das Vorbeiradeln an diesem Ort recht kühl.",
+                "hu": "Tartsa behúzva az esőkabátját, miközben elhalad; a parti szél és az eső keveréke meglehetősen hűvössé teszi a tekerést ezen a szakaszon.",
+                "ro": "Țineți jacheta de ploaie închisă la trecere; vântul de coastă amestecat cu ploaia face pedalatul pe lângă acest loc destul de friguros.",
+                "en": "Keep your rain jacket zipped up as you pass by; the coastal winds mixed with rain make cycling past this recreational spot quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sampieri",
+                "hu": "Spiaggia di Sampieri",
+                "ro": "Spiaggia di Sampieri",
+                "en": "Spiaggia di Sampieri"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterten Wege am Strand werden bei Regen spiegelglatt; reduzieren Sie die Geschwindigkeit und vermeiden Sie abrupte Kurven.",
+                "hu": "A part közeli kövezett utak esőben csúszóssá és tükröződővé válnak; csökkentse a sebességet és kerülje a hirtelen kanyarodást.",
+                "ro": "Aleile pavate de lângă plajă devin alunecoase pe timp de ploaie; reduceți viteza și evitați virajele bruște pe suprafața umedă.",
+                "en": "The paved paths near the beach get highly reflective and slick in the rain; reduce your speed and avoid sudden turns on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona speciale di conservazione - C. Religione ITA080008",
+                "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+                "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+                "en": "Zona speciale di conservazione - C. Religione ITA080008"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, um das nasse Ökosystem zu schützen und zu verhindern, dass Ihre Reifen im tiefen Schlamm versinken.",
+                "hu": "Maradjon a fő kerékpárutakon, hogy megvédje az érzékeny nedves ökoszisztémát, és elkerülje, hogy a gumik elsüllyedjenek a mély sárban.",
+                "ro": "Rămâneți pe traseele principale de biciclete pentru a proteja ecosistemul umed și a preveni scufundarea roților în noroiul adânc.",
+                "en": "Stick to the main cycling paths here to protect the fragile wet ecosystem and prevent your tires from sinking into the deep coastal mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Piciona",
+                "hu": "Villa Piciona",
+                "ro": "Villa Piciona",
+                "en": "Villa Piciona"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steinfassaden sind bei Nässe wunderschön, aber das Kopfsteinpflaster ist tückisch; schieben Sie das Rad lieber.",
+                "hu": "A történelmi kőépületek gyönyörűek nedvesen, de az ide vezető macskakövek veszélyesek; fontolja meg, hogy inkább tolja a kerékpárt.",
+                "ro": "Împrejurimile istorice din piatră sunt frumoase când sunt ude, dar piatra cubică este înșelătoare; luați în considerare împingerea bicicletei.",
+                "en": "The historical stone surroundings are beautiful when wet, but the cobblestones leading here are treacherous; consider walking the bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre kalte morgendliche Fahrt im Naturschutzgebiet mit winddichten Handschuhen gegen die beißende Kälte. Mittags radeln Sie auf leeren Straßen in klarer Winterluft an Pata Pata und Pappafico vorbei. Nachmittags ist die Strandfahrt erfrischend. Beenden Sie die Tour vor 16:30 Uhr an der Villa Piciona, da der frühe Sonnenuntergang Kälte und schlechte Sicht bringt.",
+            "hu": "Indítsa fagyos reggeli túráját a védett területen, szélálló kesztyűvel védekezve a csípős hideg ellen. Délben tekerjen el a Pata Pata és Pappafico mellett az üres utakon, tiszta téli levegőn. Délután a tengerparti tekerés frissítő és élénkítő. Fejezze be az utat a Villa Picionánál 16:30 előtt, mivel a korai sötétedés fagyos hőmérsékletet és rossz látási viszonyokat hoz.",
+            "ro": "Începeți plimbarea friguroasă de dimineață în aria protejată, purtând mănuși rezistente la vânt contra frigului. La prânz, pedalați pe lângă Pata Pata și Pappafico pe drumuri libere, în aerul clar de iarnă. După-amiaza, plimbarea pe plajă este revigorantă. Încheiați la Villa Piciona înainte de 16:30, deoarece apusul aduce temperaturi scăzute și vizibilitate redusă.",
+            "en": "Kick off your chilly morning ride at the protected area, wearing windproof gloves to combat the biting cold. By midday, cycle past Pata Pata and Pappafico, appreciating the uncrowded roads and clear winter air. In the afternoon, the ride along the beach is brisk and invigorating. End at Villa Piciona before 16:30, as the early sunset brings near-freezing temperatures and poor visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "protected area",
+                "hu": "protected area",
+                "ro": "protected area",
+                "en": "protected area"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermorgenluft ist hier scharf; tragen Sie Funktionsunterwäsche und eine Mütze unter dem Helm, um Wärmeverlust zu vermeiden.",
+                "hu": "A téli reggeli levegő itt éles; viseljen termo aláöltözetet és sapkát a sisak alatt, hogy megelőzze a hőveszteséget tekerés közben.",
+                "ro": "Aerul dimineții de iarnă este tăios aici; purtați îmbrăcăminte termică și o căciulă sub cască pentru a preveni pierderea căldurii.",
+                "en": "The winter morning air is sharp here; wear a thermal base layer and a skull cap under your helmet to prevent heat loss while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Pata Pata",
+                "hu": "Pata Pata",
+                "ro": "Pata Pata",
+                "en": "Pata Pata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine kurze, kühle Pause mit Blick auf das leere Wintermeer; halten Sie Ihren Oberkörper warm gegen die direkte Meeresbrise.",
+                "hu": "Tartson egy rövid, hűvös szünetet az üres téli tengerre nézve; a törzs melegen tartása kulcsfontosságú a közvetlen tengeri szél miatt.",
+                "ro": "Bucurați-vă de o scurtă pauză friguroasă privind marea de iarnă; menținerea căldurii corpului este esențială în fața brizei directe.",
+                "en": "Enjoy a brief, chilly pause looking out at the empty winter sea; keeping your core warm is essential as the ocean breeze hits directly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pappafico",
+                "hu": "Pappafico",
+                "ro": "Pappafico",
+                "en": "Pappafico"
+              },
+              "tip_5lang": {
+                "de": "Ohne die Sommermassen ist dieser Abschnitt ideal für ungestörtes Radeln; hüten Sie sich jedoch vor Seitenwinden, die Sie aus dem Gleichgewicht bringen könnten.",
+                "hu": "A nyári tömeg hiánya ideálissá teszi ezt a szakaszt a folyamatos tekeréshez, de vigyázzon az oldalszélre, ami kibillentheti az egyensúlyból.",
+                "ro": "Lipsa aglomerației de vară face această porțiune ideală pentru pedalat continuu, dar atenție la vânturile laterale care vă pot dezechilibra.",
+                "en": "The lack of summer crowds makes this stretch ideal for uninterrupted cycling, but beware of crosswinds that can throw you off balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sampieri",
+                "hu": "Spiaggia di Sampieri",
+                "ro": "Spiaggia di Sampieri",
+                "en": "Spiaggia di Sampieri"
+              },
+              "tip_5lang": {
+                "de": "Winterliche Fluten spülen manchmal Sand auf die Radwege; fahren Sie vorsichtig, um auf unerwarteten Sandflächen nicht auszurutschen.",
+                "hu": "A téli dagály olykor homokot mos a szomszédos kerékpárutakra; haladjon óvatosan, hogy elkerülje a megcsúszást a váratlan homokfoltokon.",
+                "ro": "Mareele înalte de iarnă aduc uneori nisip pe pistele de biciclete adiacente; înaintați cu prudență pentru a nu aluneca pe peticele de nisip.",
+                "en": "Winter high tides can sometimes wash sand onto the adjacent cycling paths; proceed with caution to avoid slipping on unexpected sandy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona speciale di conservazione - C. Religione ITA080008",
+                "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+                "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+                "en": "Zona speciale di conservazione - C. Religione ITA080008"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft schöne lange Schatten auf die Flora; stellen Sie sicher, dass Ihre Fahrradlichter geladen sind, da es schnell dämmert.",
+                "hu": "Az alacsony téli nap gyönyörű hosszú árnyékokat vet a növényvilágra; gondoskodjon a kerékpárlámpák feltöltéséről, mert gyorsan sötétedik.",
+                "ro": "Soarele coborât de iarnă aruncă umbre lungi și frumoase peste floră; asigurați-vă că luminile bicicletei sunt încărcate, deoarece se întunecă rapid.",
+                "en": "The low winter sun casts beautiful long shadows over the flora; make sure your bike lights are fully charged as twilight approaches fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Piciona",
+                "hu": "Villa Piciona",
+                "ro": "Villa Piciona",
+                "en": "Villa Piciona"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung an, um die Architektur zu bewundern; bis 17:00 Uhr sinkt die Sichtbarkeit drastisch, was Warnwesten erfordert.",
+                "hu": "Érkezzen szürkület előtt, hogy megcsodálja az építészetet; 17:00-ra a látási viszonyok romlanak, így láthatósági téli felszerelés szükséges.",
+                "ro": "Ajungeți înainte de amurg pentru a aprecia arhitectura; până la 17:00, vizibilitatea scade semnificativ, necesitând echipament reflectorizant de iarnă.",
+                "en": "Arrive before dusk to appreciate the architecture; by 17:00, visibility drops significantly, requiring high-visibility winter cycling gear."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggeli után vezessen a nyugati természetvédelmi területre, kihasználva a csendes reggelt a zord partvidék és a vadvilág felfedezésére.\n\nNavigáljon a szárazföld belsejébe a lenyűgöző Villa Trippatore felé, ahol elmerülhet a régió gazdag történelmében.\n\nTöltse a délutánt a Villa Piciona és a védett zóna között ingázva, mielőtt meglátogatná a fenséges strandot.\n\nZárja a tökéletes autós túrát egy vacsorával a pezsgő Pata Patában, miközben a nap lenyugszik a tenger felett.",
         "ro": "Conduceți către zona protejată din vest imediat după micul dejun, profitând de dimineața liniștită pentru a explora coasta stâncoasă.\n\nNavigați spre interior până la fascinanta Villa Trippatore, unde vă puteți scufunda în istoria bogată a regiunii.\n\nPetreceți-vă după-amiaza vizitând Villa Piciona și zona de conservare înainte de a ajunge la plaja maiestuoasă din Sampieri.\n\nÎncheiați călătoria perfectă cu cină și băuturi la animatul Pata Pata, în timp ce soarele apune peste Marea Mediterană.",
         "en": "Drive to the western protected area right after breakfast, taking advantage of the quiet morning to explore the rugged coastline and observe wildlife.\n\nNavigate inland to the fascinating Villa Trippatore, where you can dive into the region's rich history and architectural heritage.\n\nSpend your afternoon hopping between Villa Piciona and the important conservation zone before hitting the majestic Sampieri beach.\n\nWrap up the perfect road trip with dinner and drinks at the lively Pata Pata as the sun sets over the Mediterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt sicher im warmen Auto am Naturschutzgebiet. Mittags fahren Sie vorsichtig zu den historischen Villen und nutzen das Fahrzeug als trockenes Refugium. Am späten Nachmittag ist der vom Regen gepeitschte Strand ein schöner Anblick durch die Windschutzscheibe. Beenden Sie den Abend in der Nähe des Pata Pata und achten Sie auf tiefe Pfützen.",
+            "hu": "Kezdje az esős autózást a védett terület biztonságos felfedezésével a meleg autóból. Délben vezessen óvatosan a történelmi villákhoz, az autót száraz menedékként használva a megállók között. Késő délután az eső áztatta természetvédelmi terület és tengerpart csodás látvány a szélvédőn keresztül. Zárja a nyirkos estét a Pata Pata közelében, ügyelve a parti pocsolyákra.",
+            "ro": "Începeți plimbarea ploioasă explorând aria protejată din siguranța mașinii calde. La prânz, conduceți cu grijă spre vilele istorice, folosind vehiculul ca refugiu uscat între opriri. Spre seară, ploaia care mătură rezervația și plaja oferă o priveliște superbă prin parbriz. Încheiați seara umedă lângă Pata Pata, fiind atenți la bălțile adânci de pe coastă.",
+            "en": "Start your rainy drive safely exploring the protected area from your warm car. Midday, drive carefully to Villa Trippatore and Villa Piciona, taking advantage of your vehicle as a dry refuge between historical stops. In the late afternoon, the rain sweeping across the nature reserve and beach is a beautiful sight through the windshield. Finish your damp evening near Pata Pata, keeping an eye out for deep coastal puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "protected area",
+                "hu": "protected area",
+                "ro": "protected area",
+                "en": "protected area"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die üppige, regennasse Landschaft bequem vom Fahrzeug aus; parken Sie nicht auf weichen, schlammigen Seitenstreifen, um nicht steckenzubleiben.",
+                "hu": "Kényelmesen, a járműből figyelje meg a buja, eső áztatta tájat; kerülje a puha, sáros padkákon való parkolást, nehogy elakadjon a kerék.",
+                "ro": "Observați peisajul luxuriant și ploios din confortul vehiculului; evitați parcarea pe marginile moi și noroioase unde roțile se pot bloca.",
+                "en": "Observe the lush, rain-soaked landscape comfortably from your vehicle; avoid parking on soft, muddy shoulders where wheels can get stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Trippatore",
+                "hu": "Villa Trippatore",
+                "ro": "Villa Trippatore",
+                "en": "Villa Trippatore"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das historische Äußere vom Auto aus und steigen Sie nur kurz mit einem großen Schirm aus, um die Architektur zu bewundern.",
+                "hu": "Tekintse meg a lenyűgöző történelmi külsőt autójából, és csak rövid időre lépjen ki egy nagy esernyővel a közelebbi szemlélethez.",
+                "ro": "Admirați exteriorul istoric uimitor din mașină, coborând doar scurt cu o umbrelă mare pentru a privi arhitectura de aproape.",
+                "en": "View the stunning historical exterior from your car, stepping out only briefly with a large umbrella to admire the architecture up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Piciona",
+                "hu": "Villa Piciona",
+                "ro": "Villa Piciona",
+                "en": "Villa Piciona"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dieser majestätischen Villa eine filmische Stimmung; fahren Sie äußerst vorsichtig auf den rutschigen, gepflasterten Straßen.",
+                "hu": "Az eső filmes, borongós hangulatot kölcsönöz a fenséges villának; vezessen rendkívül óvatosan a környező csúszós, kővel burkolt utcákon.",
+                "ro": "Ploaia oferă acestei vile maiestuoase o atmosferă cinematică; conduceți cu mare atenție pe străzile pavate cu piatră din jur, care sunt alunecoase.",
+                "en": "The rain gives this majestic villa a moody, cinematic feel; be extremely careful driving on the surrounding slick stone-paved streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona speciale di conservazione - C. Religione ITA080008",
+                "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+                "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+                "en": "Zona speciale di conservazione - C. Religione ITA080008"
+              },
+              "tip_5lang": {
+                "de": "Regenwasser kann sich auf den Zufahrtsstraßen stark ansammeln; fahren Sie langsam, um Aquaplaning zu vermeiden, während Sie das Gestrüpp betrachten.",
+                "hu": "Az esővíz jelentősen felgyülemlik a bevezető utakon; vezessen lassan az aquaplaning elkerülése végett, miközben nézi a vizes bozótosokat.",
+                "ro": "Apa de ploaie se poate strânge semnificativ pe drumurile de acces; conduceți încet pentru a preveni acvaplanarea admirând tufișurile umede.",
+                "en": "Rainwater can pool significantly on the approach roads here; drive slowly to prevent hydroplaning while viewing the wet coastal scrubs."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sampieri",
+                "hu": "Spiaggia di Sampieri",
+                "ro": "Spiaggia di Sampieri",
+                "en": "Spiaggia di Sampieri"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean und schalten Sie die Heizung ein; das Rauschen der stürmischen Wellen ist vom Auto aus unglaublich gemütlich.",
+                "hu": "Parkoljon az óceán felé nézve, és kapcsolja be a fűtést; a viharos hullámok hallgatása az autó belsejéből hihetetlenül hangulatos esőben.",
+                "ro": "Parcați cu fața spre ocean și porniți căldura; ascultarea valurilor furtunoase lovind plaja ploioasă din interiorul mașinii este incredibil de confortabilă.",
+                "en": "Park facing the ocean and turn on the heater; listening to the stormy waves crash against the rainy beach from inside the car is incredibly cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Pata Pata",
+                "hu": "Pata Pata",
+                "ro": "Pata Pata",
+                "en": "Pata Pata"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag, indem Sie vom Auto zu den überdachten Bereichen rennen; achten Sie darauf, auf den nassen Gehwegen nicht auszurutschen.",
+                "hu": "Zárja a napot azzal, hogy az autóból a fedett részre szalad egy meleg italra, vigyázva, nehogy elcsússzon a vizes parti sétányon.",
+                "ro": "Încheiați ziua alergând din mașină spre zonele acoperite pentru o băutură caldă, având grijă să nu alunecați pe aleile umede.",
+                "en": "Finish your day dashing from the car to the covered areas here for a warm beverage, taking care not to slip on the wet coastal walkways."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre Winterfahrt beginnt am Naturreservat, wo das Auto eine warme Zuflucht vor der frostigen Morgenluft bietet. Mittags navigieren Sie bequem zwischen den historischen Villen, ohne die Kälte zu spüren. Die Nachmittagsfahrt an der Küste offenbart einen atemberaubenden, verlassenen Winterstrand. Beenden Sie den Tag bis 16:30 Uhr nahe Pata Pata, da die frühe Winternacht rasch einbricht und die Sicht raubt.",
+            "hu": "A téli autózás a természetvédelmi területen kezdődik, az autó meleg menedéket nyújt a fagyos reggeli levegő elől. Délben kényelmesen navigáljon a történelmi villák között, anélkül, hogy a kinti fagyos hideg zavarná. A délutáni parti út egy lenyűgöző, kietlen téli strandot tár fel. Gondoskodjon róla, hogy a napot 16:30-ra a Pata Pata közelében zárja, mert a korai sötétség gyorsan leszáll.",
+            "ro": "Plimbarea de iarnă începe la rezervația naturală, mașina oferind un refugiu cald din aerul înghețat. La prânz, navigați confortabil între vilele istorice, fără a vă face griji de temperaturile exterioare. După-amiaza de-a lungul coastei dezvăluie o plajă de iarnă uimitor de pustie. Asigurați-vă că ziua se încheie lângă Pata Pata până la 16:30, deoarece noaptea de iarnă cade rapid și scade vizibilitatea.",
+            "en": "Your winter drive begins at the nature reserve, with your car offering a warm haven from the frosty morning air. Midday, comfortably navigate between Villa Trippatore and Villa Piciona without worrying about the freezing temperatures outside. The afternoon drive along the coast reveals a stunning, desolate winter beach. Ensure your day concludes near Pata Pata by 16:30, as the early winter night falls quickly and drops visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "protected area",
+                "hu": "protected area",
+                "ro": "protected area",
+                "en": "protected area"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung an, während Sie die frostige Landschaft beobachten; beim Aussteigen ist wegen des Windes eine dicke Jacke nötig.",
+                "hu": "Tartsa bekapcsolva a fűtést, miközben a fagyos természeti tájat figyeli; a kiszálláshoz vastag téli kabát kell a csípős szél miatt.",
+                "ro": "Țineți căldura pornită în timp ce observați peisajele naturale înghețate; la coborâre aveți nevoie de o haină groasă din cauza vântului.",
+                "en": "Keep the car heating on as you observe the frosty natural landscapes; stepping out requires a thick winter coat due to the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Trippatore",
+                "hu": "Villa Trippatore",
+                "ro": "Villa Trippatore",
+                "en": "Villa Trippatore"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht betont die klassische Architektur dieser Villa; mit dem Auto können Sie sich zwischen den Außenaufnahmen leicht aufwärmen.",
+                "hu": "A téli fény kiemeli a villa klasszikus építészetét; az autós érkezés lehetővé teszi, hogy könnyen felmelegedjen a szabadtéri fotózások között.",
+                "ro": "Lumina de iarnă accentuează arhitectura clasică a vilei; sosirea cu mașina vă permite să vă încălziți ușor între fotografiile făcute afară.",
+                "en": "The winter light accentuates the classic architecture of this villa; arriving by car lets you easily warm up between taking outdoor photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Piciona",
+                "hu": "Villa Piciona",
+                "ro": "Villa Piciona",
+                "en": "Villa Piciona"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es rund um diese historische Stätte unglaublich ruhig, das Parken ist mühelos, auch wenn die Steinwege frostig und rutschig sind.",
+                "hu": "A tél hihetetlenül csendes e történelmi helyszín körül, így a parkolás gyerekjáték, bár a kőösvények fagyosak és csúszósak lehetnek gyalog.",
+                "ro": "Iarna este incredibil de liniștită în jurul acestui sit istoric, parcarea fiind ușoară, deși aleile din piatră pot fi înghețate și alunecoase pe jos.",
+                "en": "Winter is incredibly quiet around this historical site, making parking effortless, though the stone paths can be frosty and slippery on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona speciale di conservazione - C. Religione ITA080008",
+                "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+                "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+                "en": "Zona speciale di conservazione - C. Religione ITA080008"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den angrenzenden Straßen, um die Winterflora zu bewundern; die Sonne steht tief, nutzen Sie die Sonnenblenden gegen Blendung.",
+                "hu": "Vezessen lassan a szomszédos utakon, hogy megcsodálja a téli növényvilágot; a nap alacsonyan jár, ezért használja a napellenzőt a vakító fény ellen.",
+                "ro": "Conduceți încet pe drumurile adiacente pentru a admira flora de iarnă; soarele este jos pe cer, folosiți parasolarele pentru a evita orbirea.",
+                "en": "Drive slowly along the adjacent roads to admire the winter flora; the sun sits low in the sky, so use your car visors to avoid blinding glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sampieri",
+                "hu": "Spiaggia di Sampieri",
+                "ro": "Spiaggia di Sampieri",
+                "en": "Spiaggia di Sampieri"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick auf das raue Wintermeer aus dem warmen Fahrersitz; ein toller Ort, um eine Thermoskanne heißen Tee zu trinken.",
+                "hu": "Élvezze a vad téli tenger zavartalan látványát a meleg vezetőülésből; remek hely egy termosz forró tea elkortyolására.",
+                "ro": "Bucurați-vă de o vedere neobstrucționată a mării sălbatice de iarnă din căldura scaunului șoferului; un loc minunat pentru a savura un ceai fierbinte din termos.",
+                "en": "Enjoy an unobstructed view of the fierce winter sea from the warmth of the driver's seat; it's a great spot to sip a thermos of hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Pata Pata",
+                "hu": "Pata Pata",
+                "ro": "Pata Pata",
+                "en": "Pata Pata"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an der Küste vor 17:00 Uhr, wenn die Sonne untergeht, die Temperaturen sinken und die Straßen überfrieren können.",
+                "hu": "Törekedjen arra, hogy 17:00 előtt fejezze be itt a tengerparti utat, mielőtt a nap teljesen lenyugszik, és a hőmérséklet zuhanni kezd, az utak pedig lefagynak.",
+                "ro": "Încercați să încheiați plimbarea pe coastă aici înainte de 17:00, când soarele apune complet, temperaturile scad drastic și drumurile pot îngheța.",
+                "en": "Aim to finish your coastal drive here before 17:00 when the sun sets completely, causing temperatures to plummet and roads to freeze over."
+              }
+            }
+          ]
+        }
       }
     }
   }

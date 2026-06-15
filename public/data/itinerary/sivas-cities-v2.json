@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Régészeti Múzeumban, hogy megértse a régió múltját. Délben sétáljon végig az olyan történelmi mecseteken, mint a Sarızade Mehmet Paşa. A délután elviszi a sivasi várhoz, ahonnan panoráma nyílik, és a híres Ulu Camii-hoz. Zárja az estét a csodálatos Gök Medresénél, megcsodálva annak lenyűgöző kék csempéit.",
         "ro": "Începeți dimineața la Muzeul de Arheologie pentru a înțelege trecutul regiunii. La prânz, plimbați-vă prin moschei istorice precum Sarızade Mehmet Paşa. După-amiaza vă duce la Castelul Sivas pentru vederi panoramice și la Ulu Camii. Încheiați seara la magnifica Gök Medrese, admirând faianța sa albastră uimitoare.",
         "en": "Start your morning at the Sivas Archaeology Museum to understand the region's rich past. By midday, wander through historic local mosques like Sarızade Mehmet Paşa and Uzun Hacıoğlu. The afternoon brings you up to Sivas Kalesi for panoramic views and the iconic Ulu Camii. Conclude your evening at the magnificent Gök Medrese, admiring its stunning blue tiles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in den geschützten Räumen des Museums. Sivas zeigt sich bei Regen melancholisch, aber die kurzen Wege zwischen den historischen Moscheen machen die Erkundung angenehm. Mittags bieten die massiven Mauern der Gotteshäuser trockenen Unterschlupf. Nachmittags glänzen die Seldschuken-Monumente im nassen Licht, was eine mystische Atmosphäre schafft, bevor der Tag endet.",
+            "hu": "Kezdje a napot a múzeum védett tereiben, ahol az eső kopogása csak fokozza a hangulatot. Sivas belvárosa kompakt, így a vallási helyszínek közötti rövid séták esernyővel is kényelmesek. Délben a vastag falú mecsetek nyújtanak menedéket a záporok elől. Délután a Gök Medrese kék csempéi különleges fényben ragyognak a vizes aszfalton, mielőtt leszáll az este.",
+            "ro": "Începeți ziua în spațiile protejate ale muzeului, evitând ploaia de dimineață. Centrul orașului Sivas este compact, permițând vizitarea moscheilor istorice fără o expunere prelungită la intemperii. La prânz, zidurile groase ale lăcașurilor de cult oferă un refugiu uscat. După-amiaza, monumentele selgiucide capătă un luciu mistic în lumina ploii, înainte de finalul zilei.",
+            "en": "Start your day in the sheltered halls of the museum, staying dry while exploring history. Sivas's compact center makes walking between mosques easy even with an umbrella. At noon, the massive stone walls of the religious sites provide a perfect refuge from the rain. In the afternoon, the Seljuk tiles of the madrasahs glisten beautifully in the wet light as the day winds down."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologiemuseum Sivas",
+                "hu": "Sivasi Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Sivas",
+                "en": "Sivas Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenmorgen, um die umfangreiche Sammlung in den trockenen Innenräumen zu bewundern; achten Sie auf die rutschigen Stufen am Haupteingang.",
+                "hu": "Használja ki az esős reggelt a gazdag gyűjtemény felfedezésére a száraz belső terekben; vigyázzon a főbejáratnál lévő lépcsőkre, mert vizesen csúszhatnak.",
+                "ro": "Profitați de dimineața ploioasă pentru a explora colecția bogată în interiorul uscat; atenție la treptele de la intrare care pot fi alunecoase când sunt ude.",
+                "en": "Use the rainy morning to explore the extensive collection in the dry interior; be careful with the entrance steps as they can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarızade Mehmet Paşa Camii",
+                "hu": "Sarızade Mehmet Paşa Camii",
+                "ro": "Sarızade Mehmet Paşa Camii",
+                "en": "Sarızade Mehmet Paşa Camii"
+              },
+              "tip_5lang": {
+                "de": "Diese Moschee bietet eine friedliche, trockene Atmosphäre für eine Pause; stellen Sie Ihren Regenschirm unbedingt in den dafür vorgesehenen Behälter am Eingang.",
+                "hu": "Ez a mecset békés és száraz környezetet biztosít a pihenéshez; az esernyőt mindenképpen helyezze a bejáratnál található tartóba a belépés előtt.",
+                "ro": "Această moschee oferă o atmosferă liniștită și uscată pentru popas; lăsați umbrela în suportul special de la intrare înainte de a păși în interior.",
+                "en": "This mosque offers a peaceful, dry atmosphere for a break; make sure to place your umbrella in the designated holder at the entrance before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Uzun Hacıoğlu Camii",
+                "hu": "Uzun Hacıoğlu Camii",
+                "ro": "Uzun Hacıoğlu Camii",
+                "en": "Uzun Hacıoğlu Camii"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Details im Innenraum, während draußen der Regen fällt; wasserfeste Schuhe sind für den kurzen Weg zwischen den Stationen ideal.",
+                "hu": "Csodálja meg a belső tér finom részleteit, miközben kint esik az eső; a vízálló cipő ideális a helyszínek közötti rövid, de vizes sétához.",
+                "ro": "Admirați detaliile fine ale interiorului în timp ce afară plouă; încălțămintea impermeabilă este ideală pentru drumul scurt dintre obiective.",
+                "en": "Admire the fine details of the interior while it rains outside; waterproof shoes are ideal for the short but wet walk between the various stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Sivas",
+                "hu": "Sivasi Vár",
+                "ro": "Castelul Sivas",
+                "en": "Sivas Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet trotz Regen einen dramatischen Blick auf die Stadt; tragen Sie eine windfeste Regenjacke, da es auf dem Hügel oft böig zieht.",
+                "hu": "A felmenet az eső ellenére is drámai kilátást nyújt a városra; viseljen szélálló esőkabátot, mert a várdombon gyakran felerősödik a szél csapadék idején.",
+                "ro": "Urcarea oferă o vedere dramatică asupra orașului chiar și pe ploaie; purtați o pelerină rezistentă la vânt, deoarece pe deal rafalele sunt mai puternice.",
+                "en": "The climb offers a dramatic view of the city despite the rain; wear a windproof raincoat as it often gets gusty on the hill during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu Camii",
+                "hu": "Nagy Mecset",
+                "ro": "Marea Moschee (Ulu Camii)",
+                "en": "Great Mosque (Ulu Camii)"
+              },
+              "tip_5lang": {
+                "de": "Das schiefe Minarett wirkt im Regengrau besonders imposant; nutzen Sie die weiten Gebetshallen, um sich aufzuwärmen und Ihre Kleidung kurz zu trocknen.",
+                "hu": "A dőlt minaret a szürke esőben különösen impozáns látvány; használja a tágas imateret a pihenésre és hogy ruházata egy kicsit megszáradjon a séta után.",
+                "ro": "Minaretul înclinat arată spectaculos pe fundalul gri al ploii; folosiți spațiul larg de rugăciune pentru a vă odihni și a vă usca puțin hainele.",
+                "en": "The leaning minaret looks particularly imposing against the rainy gray sky; use the vast prayer halls to rest and let your clothes dry a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Gök-Medrese",
+                "hu": "Gök Medrese",
+                "ro": "Gök Medrese",
+                "en": "Gök Medrese"
+              },
+              "tip_5lang": {
+                "de": "Die blauen Kacheln leuchten bei Nässe intensiver; verbringen Sie viel Zeit in den überdachten Iwanen, um die Architektur ohne nass zu werden zu genießen.",
+                "hu": "A kék csempék nedvesen még intenzívebb színben tündökölnek; töltsön több időt a fedett ívánok alatt, hogy szárazon élvezhesse a lenyűgöző építészetet.",
+                "ro": "Plăcile albastre strălucesc mai intens când sunt umede; petreceți timp sub arcadele acoperite pentru a admira arhitectura fără a vă uda la final.",
+                "en": "The blue tiles glow more intensely when wet; spend extra time under the covered iwans to enjoy the stunning architecture while staying completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Sivas im weißen Winterkleid, beginnend im beheizten Museum. Die kühle Luft am Morgen wird durch die spirituelle Wärme der Moscheen gemildert. Mittags lädt die historische Burg zu einem kurzen Fotostopp im Schnee ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir die hellen Stunden für die Architektur und beenden den Tag gemütlich im Inneren der Gök Medrese.",
+            "hu": "Tapasztalja meg Sivas téli arcát a fűtött múzeumban kezdve a napot. A reggeli csípős hideget a mecsetek spirituális melegsége ellensúlyozza. Délben a vár havas panorámája felejthetetlen látványt nyújt. Mivel a nap korán, 17 óra körül lebukik, a világos órákat az építészeti remekművekre szánjuk, a napot pedig a Gök Medrese falai között zárjuk.",
+            "ro": "Experimentați Sivas în haine albe de iarnă, începând vizita în muzeul bine încălzit. Aerul rece de dimineață este compensat de căldura spirituală a moscheilor. La prânz, panorama înzăpezită de la castel este de neuitat. Deoarece soarele apune devreme, în jur de ora 17:00, folosim orele de lumină pentru arhitectură, încheind ziua la Gök Medrese.",
+            "en": "Experience Sivas in its white winter coat, starting your visit in the well-heated museum. The crisp morning air is balanced by the warmth found inside the historic mosques. At noon, the snowy panorama from the castle offers unforgettable views. Since the sun sets early around 5 PM, we focus on architecture during daylight and end the day inside the Gök Medrese."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologiemuseum Sivas",
+                "hu": "Sivasi Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Sivas",
+                "en": "Sivas Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme der Ausstellungsräume am kalten Morgen; tragen Sie Schichten, die Sie im gut beheizten Museum leicht ablegen können.",
+                "hu": "Élvezze a kiállítótermek kellemes melegét a hideg reggelen; viseljen réteges ruházatot, amit a jól fűtött múzeumban könnyen levehet a kényelem érdekében.",
+                "ro": "Bucurați-vă de căldura sălilor de expoziție în dimineața rece; purtați haine în straturi pe care le puteți scoate ușor în muzeul bine încălzit.",
+                "en": "Enjoy the cozy warmth of the exhibition rooms on a cold morning; wear layers that you can easily remove inside the well-heated museum building."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarızade Mehmet Paşa Camii",
+                "hu": "Sarızade Mehmet Paşa Camii",
+                "ro": "Sarızade Mehmet Paşa Camii",
+                "en": "Sarızade Mehmet Paşa Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Teppichböden im Inneren isolieren wunderbar gegen die Kälte; achten Sie darauf, Ihre Schuhe vor dem Betreten gründlich vom Schnee zu befreien.",
+                "hu": "A belső szőnyegek kiválóan szigetelnek a hideg ellen; ügyeljen rá, hogy belépés előtt alaposan tisztítsa meg cipőjét a hótól az előtérben.",
+                "ro": "Covoarele interioare izolează excelent împotriva frigului; asigurați-vă că vă curățați bine încălțămintea de zăpadă înainte de a păși înăuntru.",
+                "en": "The carpets inside provide excellent insulation against the cold; make sure to thoroughly clean your shoes of snow before stepping inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Uzun Hacıoğlu Camii",
+                "hu": "Uzun Hacıoğlu Camii",
+                "ro": "Uzun Hacıoğlu Camii",
+                "en": "Uzun Hacıoğlu Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Aufenthalt schützt vor dem eisigen Wind; Wollsocken sind bei den Minustemperaturen in Sivas für Moscheebesuche sehr ratsam.",
+                "hu": "Egy rövid, elmélyült látogatás megvéd a jeges széltől; a gyapjúzokni viselése Sivasban a mecsetlátogatásokhoz a téli fagyok idején erősen ajánlott.",
+                "ro": "O vizită scurtă și liniștită vă protejează de vântul înghețat; șosetele de lână sunt foarte recomandate pentru vizitarea moscheilor iarna în Sivas.",
+                "en": "A short, reflective visit protects you from the icy wind; wearing wool socks is highly recommended for mosque visits during Sivas's freezing winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Sivas",
+                "hu": "Sivasi Vár",
+                "ro": "Castelul Sivas",
+                "en": "Sivas Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das verschneite Sivas ist magisch, aber der Weg kann vereist sein; nutzen Sie Schuhe mit gutem Profil für den Aufstieg zum Hügel.",
+                "hu": "A kilátás a havas Sivasra varázslatos, de az út jeges lehet; viseljen bordázott talpú bakancsot a várdombra való biztonságos feljutáshoz.",
+                "ro": "Vederea asupra orașului înzăpezit este magică, dar drumul poate fi înghețat; folosiți încălțăminte cu talpă aderentă pentru urcarea spre castel.",
+                "en": "The view of snowy Sivas is magical, but the path can be icy; use boots with good tread for a safe climb up the castle hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu Camii",
+                "hu": "Nagy Mecset",
+                "ro": "Marea Moschee (Ulu Camii)",
+                "en": "Great Mosque (Ulu Camii)"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, aber es ist windstill; bewegen Sie sich langsam auf dem Vorplatz, da die Pflastersteine oft mit Glatteis bedeckt sind.",
+                "hu": "A vastag falak tartják a hideget, de bent szélcsend van; mozogjon óvatosan az udvaron, mert a kövezetet gyakran láthatatlan jégréteg borítja.",
+                "ro": "Zidurile groase mențin frigul, dar interiorul este ferit de vânt; mergeți cu atenție prin curte, deoarece pavajul este adesea acoperit de polei.",
+                "en": "The thick walls hold the cold, but it's windless inside; move carefully in the courtyard as the stones are often covered with black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Gök-Medrese",
+                "hu": "Gök Medrese",
+                "ro": "Gök Medrese",
+                "en": "Gök Medrese"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Medrese vor Einbruch der Dunkelheit um 17:00 Uhr; die Beleuchtung der filigranen Portale im Schnee ist ein perfektes Fotomotiv.",
+                "hu": "Látogassa meg a medreszét a sötétedés előtt (17:00 körül); a filigrán kapuk megvilágítása a hóesésben tökéletes téli fotótémát szolgáltat.",
+                "ro": "Vizitați medresa înainte de lăsarea întunericului, în jurul orei 17:00; iluminarea portalurilor sculptate în zăpadă este un subiect foto perfect.",
+                "en": "Visit the madrasah before dark around 5 PM; the lighting of the intricate portals against the snow provides a perfect winter photo opportunity."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpártúráját a csendes Aydoğan Camii-nél, mielőtt a modern Fidan Yazıcıoğlu Kulturális Központba hajtana. A dél az Állami Színházban kínál betekintést. Délután pedálozzon a Gök Medrese és az Ulu Camii felé, hogy elmerüljön a szeldzsuk építészetben. Fejezze be a napot a nyüzsgő Meydan Camii-nél.",
         "ro": "Începeți turul cu bicicleta la liniștita Aydoğan Camii înainte de a vă îndrepta spre modernul Centru Cultural Fidan Yazıcıoğlu. Prânzul oferă perspective la Teatrul de Stat. După-amiaza, pedalați spre Gök Medrese și Ulu Camii pentru arhitectura selgiucidă. Încheiați ziua explorând Meydan Camii și Ali Ağa Camii.",
         "en": "Kick off your bike tour at the tranquil Aydoğan Camii before heading to the modern Fidan Yazıcıoğlu Kültür Merkezi. Midday offers cultural insights at the State Theatre. In the afternoon, pedal towards the grand Gök Medrese and Ulu Camii to immerse yourself in Seljuk architecture. Finish the day exploring the bustling Meydan Camii and historic Ali Ağa Camii."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sivas mit dem Rad bei Regen erfordert Vorsicht auf den glatten Straßen. Wir starten bei der Aydoğan-Moschee und nutzen die kulturellen Zentren als trockene Etappenziele. Mittags bietet das Staatstheater Schutz vor dem stärksten Guss. Nachmittags erkunden wir die historischen Stätten im Stadtzentrum, wobei die kurzen Distanzen helfen, nicht völlig durchnässt zu werden, bevor wir die Tour beenden.",
+            "hu": "Sivas kerékpáros felfedezése esőben óvatosságot igényel a csúszós utakon. Az Aydoğan mecsetnél kezdünk, és a kulturális központokat használjuk száraz pihenőpontként. Délben az Állami Színház nyújt menedéket a záporok elől. Délután a belváros történelmi helyszíneit érintjük, ahol a rövid távok segítenek, hogy ne ázzunk el teljesen a túra végéig.",
+            "ro": "Explorarea orașului Sivas cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase. Începem la moscheea Aydoğan și folosim centrele culturale ca puncte de oprire uscate. La prânz, Teatrul de Stat oferă adăpost. După-amiaza vizităm siturile istorice centrale, unde distanțele scurte ajută la evitarea udării excesive înainte de final.",
+            "en": "Exploring Sivas by bike in the rain requires caution on slippery roads. We start at the Aydoğan Mosque and use cultural centers as dry stopovers. At noon, the State Theatre provides shelter from the heaviest showers. In the afternoon, we visit historic central sites where short distances help keep you from getting too wet before finishing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aydoğan Camii",
+                "hu": "Aydoğan Camii",
+                "ro": "Aydoğan Camii",
+                "en": "Aydoğan Camii"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem geschützten Ort und genießen Sie die Ruhe im Inneren; prüfen Sie Ihre Bremsen, bevor Sie auf nassen Straßen weiterfahren.",
+                "hu": "Zárja le kerékpárját egy védettebb helyen, és élvezze a belső csendet; ellenőrizze a fékeket, mielőtt a vizes aszfalton tovább indulna.",
+                "ro": "Asigurați bicicleta într-un loc mai ferit și bucurați-vă de liniștea din interior; verificați frânele înainte de a pleca pe drumul ud.",
+                "en": "Lock your bike in a sheltered spot and enjoy the quiet interior; double-check your brakes before continuing on the wet asphalt roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Fidan Yazıcıoğlu",
+                "hu": "Fidan Yazıcıoğlu Kulturális Központ",
+                "ro": "Centrul Cultural Fidan Yazıcıoğlu",
+                "en": "Fidan Yazıcıoğlu Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung zu richten und eine Pause im Trockenen einzulegen; nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Ideális hely az esőruházat megigazítására és egy száraz pihenőre; használja a bejárat közelében található kerékpártárolókat a biztonságért.",
+                "ro": "Loc ideal pentru a vă aranja echipamentul de ploaie și pentru un popas uscat; folosiți rastelele de biciclete din apropierea intrării.",
+                "en": "An ideal place to adjust your rain gear and take a dry break; use the bike racks near the entrance to keep your bicycle secure."
+              }
+            },
+            {
+              "name": {
+                "de": "Staatstheater Sivas",
+                "hu": "Sivasi Állami Színház",
+                "ro": "Teatrul de Stat din Sivas",
+                "en": "Sivas State Theatre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und tauchen Sie in die Kultur ein, während es draußen regnet; eine Regenhülle für den Sattel ist bei diesem Stopp unverzichtbar.",
+                "hu": "Parkolja le a gépet, és merüljön el a kultúrában, amíg kint esik; egy nyeregvédő huzat ennél a megállónál elengedhetetlen a száraz folytatáshoz.",
+                "ro": "Parcați bicicleta și bucurați-vă de cultură în timp ce afară plouă; o husă impermeabilă pentru șa este indispensabilă la această oprire.",
+                "en": "Park your bike and dive into culture while it rains outside; a waterproof saddle cover is essential at this stop for a dry ride later."
+              }
+            },
+            {
+              "name": {
+                "de": "Gök-Medrese",
+                "hu": "Gök Medrese",
+                "ro": "Gök Medrese",
+                "en": "Gök Medrese"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur bietet viele überdachte Gänge für eine längere Pause; achten Sie auf die rutschigen Steinplatten beim Schieben des Rades im Hof.",
+                "hu": "Az épület számos fedett folyosót kínál egy hosszabb pihenőhöz; ügyeljen a csúszós kőlapokra, amikor az udvaron tolja a kerékpárját.",
+                "ro": "Arhitectura oferă multe coridoare acoperite pentru un popas lung; atenție la dalele de piatră alunecoase când împingeți bicicleta în curte.",
+                "en": "The architecture offers many covered walkways for a longer break; watch out for slippery stone slabs when pushing your bike in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu Camii",
+                "hu": "Nagy Mecset",
+                "ro": "Marea Moschee (Ulu Camii)",
+                "en": "Great Mosque (Ulu Camii)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort, um dem Regen kurz zu entfliehen; Reflektoren am Rad sind bei trübem Regenwetter in Sivas lebenswichtig.",
+                "hu": "Látogasson el ide, hogy rövid időre elmeneküljön az eső elől; a kerékpáros fényvisszaverők életmentőek Sivas szürke, esős forgalmában.",
+                "ro": "Vizitați acest loc istoric pentru a scăpa scurt de ploaie; elementele reflectorizante sunt vitale în traficul gri și ploios din Sivas.",
+                "en": "Visit this historic site to briefly escape the rain; reflectors on your bike are vital for safety in Sivas's gray and rainy traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Sivas Meydan Camii",
+                "hu": "Sivas Meydan Camii",
+                "ro": "Sivas Meydan Camii",
+                "en": "Sivas Meydan Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp im Trockenen, bevor es zum letzten Ziel geht; wischen Sie die Felgen kurz ab, um die Bremskraft bei Nässe zu erhalten.",
+                "hu": "Egy gyors megálló a szárazon, mielőtt az utolsó célhoz tekernénk; törölje le a felniket, hogy megőrizze a fékerőt a vizes utakon.",
+                "ro": "O oprire rapidă la uscat înainte de ultima destinație; ștergeți jantele pentru a menține eficiența frânării pe drumurile umede.",
+                "en": "A quick dry stop before cycling to the final destination; wipe your rims to maintain braking power on the wet city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ağa Camii",
+                "hu": "Ali Ağa Camii",
+                "ro": "Ali Ağa Camii",
+                "en": "Ali Ağa Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in der ruhigen Moschee und trocknen Sie sich ab; eine wasserdichte Packtasche hat Ihre Wechselkleidung sicher bewahrt.",
+                "hu": "Zárja a túrát a csendes mecsetben és szárítkozzon meg; egy vízálló táska biztosan szárazon tartotta a váltóruháját a nap folyamán.",
+                "ro": "Încheiați turul în moscheea liniștită și uscați-vă; o geantă impermeabilă v-a păstrat cu siguranță hainele de schimb uscate.",
+                "en": "End the tour in the quiet mosque and dry off; a waterproof pannier bag likely kept your change of clothes safe throughout the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Sivas ist ein erfrischendes Abenteuer bei klarem Frost. Wir starten an der Aydoğan-Moschee und planen häufige Aufwärmstopps in den kulturellen Zentren ein. Mittags bietet das Staatstheater eine willkommene Pause von der Kälte. Da es gegen 17:00 Uhr dunkel wird, beenden wir unsere Tour an der Ali Ağa Moschee, wenn die Stadtlichter im Schnee zu funkeln beginnen.",
+            "hu": "A téli kerékpározás Sivasban frissítő kaland a csípős fagyban. Az Aydoğan mecsetnél kezdünk, és gyakori melegedő szüneteket tervezünk a kulturális központokba. Délben az Állami Színház nyújt menedéket a hideg elől. Mivel 17 óra körül sötétedik, túránkat az Ali Ağa mecsetnél fejezzük be, amikor a város fényei csillogni kezdenek a havon.",
+            "ro": "Ciclismul de iarnă în Sivas este o aventură revigorantă prin gerul tăios. Începem la moscheea Aydoğan și planificăm opriri dese pentru încălzire în centrele culturale. La prânz, Teatrul de Stat oferă un refugiu necesar. Deoarece se întunecă în jur de ora 17:00, terminăm turul la moscheea Ali Ağa, când luminile orașului încep să sclipească pe zăpadă.",
+            "en": "Winter cycling in Sivas is a refreshing adventure through the biting frost. We start at the Aydoğan Mosque and plan frequent warming breaks in cultural centers. At noon, the State Theatre offers a much-needed escape from the cold. Since it gets dark around 5 PM, we end our tour at Ali Ağa Mosque as city lights begin to sparkle on the snow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aydoğan Camii",
+                "hu": "Aydoğan Camii",
+                "ro": "Aydoğan Camii",
+                "en": "Aydoğan Camii"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz auf, bevor Sie losfahren; fetten Sie die Kette Ihres Rades gut ein, um sie vor dem winterlichen Streusalz zu schützen.",
+                "hu": "Melegedjen át egy kicsit a továbbindulás előtt; alaposan zsírozza meg a láncot, hogy megvédje a téli útszóró só maró hatásától.",
+                "ro": "Încălziți-vă puțin înainte de a pleca; gresați bine lanțul bicicletei pentru a-l proteja de sarea corozivă de pe drumurile de iarnă.",
+                "en": "Warm up briefly before heading out; grease your bike chain well to protect it from the corrosive effects of winter road salt."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Fidan Yazıcıoğlu",
+                "hu": "Fidan Yazıcıoğlu Kulturális Központ",
+                "ro": "Centrul Cultural Fidan Yazıcıoğlu",
+                "en": "Fidan Yazıcıoğlu Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großen beheizten Komplex für eine ausgiebige Aufwärmpause; Winterhandschuhe sind für die Weiterfahrt nun unerlässlich.",
+                "hu": "Használja ki ezt a nagy, fűtött épületegyüttest egy alapos melegedésre; a téli kesztyű a továbbinduláshoz mostantól elengedhetetlen.",
+                "ro": "Folosiți acest complex mare și încălzit pentru o pauză lungă de încălzire; mănușile de iarnă sunt esențiale pentru continuarea drumului.",
+                "en": "Take advantage of this large heated complex for a thorough warming break; winter gloves are essential from here on for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Staatstheater Sivas",
+                "hu": "Sivasi Állami Színház",
+                "ro": "Teatrul de Stat din Sivas",
+                "en": "Sivas State Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Stopp im Warmen schützt vor Unterkühlung; parken Sie Ihr Rad an einem gut sichtbaren Ort, falls es anfängt zu schneien.",
+                "hu": "Egy kulturális megálló a melegben megvéd a kihűléstől; parkolja kerékpárját jól látható helyre, ha esetleg intenzíven esni kezdene a hó.",
+                "ro": "O oprire culturală la căldură vă protejează de hipotermie; parcați bicicleta într-un loc vizibil în caz că începe să ningă puternic.",
+                "en": "A cultural stop in the heat protects you from hypothermia; park your bike in a highly visible spot in case heavy snow starts falling."
+              }
+            },
+            {
+              "name": {
+                "de": "Gök-Medrese",
+                "hu": "Gök Medrese",
+                "ro": "Gök Medrese",
+                "en": "Gök Medrese"
+              },
+              "tip_5lang": {
+                "de": "Die Steinportale sehen im Frost beeindruckend aus; achten Sie beim Schieben des Rades auf überfrierende Nässe auf dem Gehweg vor der Medrese.",
+                "hu": "A kőkapuk lenyűgözően mutatnak a dérben; ügyeljen a jegesedésre a járdafelületen a medresze előtt, amikor tolja a kerékpárját.",
+                "ro": "Portalurile de piatră arată impresionant înghețate; atenție la gheața de pe trotuarul din fața medresei când împingeți bicicleta.",
+                "en": "The stone portals look stunning in the frost; watch out for icy patches on the pavement in front of the madrasah when pushing your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu Camii",
+                "hu": "Nagy Mecset",
+                "ro": "Marea Moschee (Ulu Camii)",
+                "en": "Great Mosque (Ulu Camii)"
+              },
+              "tip_5lang": {
+                "de": "Der Innenhof ist im Winter oft schneebedeckt und ruhig; vergewissern Sie sich, dass Ihre Beleuchtung für die nahende Dämmerung funktioniert.",
+                "hu": "A belső udvar télen gyakran hófödte és csendes; győződjön meg róla, hogy a világítása megfelelően működik a közeledő szürkületben.",
+                "ro": "Curtea interioară este adesea înzăpezită și liniștită iarna; asigurați-vă că luminile funcționează pentru amurgul care se apropie.",
+                "en": "The inner courtyard is often snow-covered and quiet in winter; make sure your lights are working properly for the approaching dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Sivas Meydan Camii",
+                "hu": "Sivas Meydan Camii",
+                "ro": "Sivas Meydan Camii",
+                "en": "Sivas Meydan Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille im beheizten Gebetsraum tut gut; Schützen Sie Ihr Gesicht beim Radfahren vor dem kalten Fahrtwind.",
+                "hu": "Egy rövid csendes pillanat a fűtött imatérben jót tesz a szervezetnek; védje arcát a jeges menetszéltől a következő rövid szakaszon.",
+                "ro": "Un scurt moment de liniște în spațiul de rugăciune încălzit face bine; protejați-vă fața de vântul înghețat în timpul deplasării.",
+                "en": "A short quiet moment in the heated prayer hall is beneficial; protect your face from the icy wind during the next cycling stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Ağa Camii",
+                "hu": "Ali Ağa Camii",
+                "ro": "Ali Ağa Camii",
+                "en": "Ali Ağa Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich vor der Dunkelheit um 17:00 Uhr; ein heißer Tee in der Nähe ist die perfekte Belohnung für die Winterfahrt.",
+                "hu": "Zárja a túrát pontosan a sötétedés előtt (17:00); egy közeli forró tea a tökéletes jutalom a téli kerékpározás után.",
+                "ro": "Încheiați turul exact înainte de lăsarea serii (17:00); un ceai fierbinte în apropiere este recompensa perfectă după tura de iarnă.",
+                "en": "End the tour right before dark at 5 PM; a hot tea nearby is the perfect reward for completing your winter cycling journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Vessen egy pillantást a Yukarı Tekke Cami-ra, hogy a napot pazar kilátással és nyugalommal kezdje. Délben merüljön el a történelemben a Régészeti Múzeumban, és fedezze fel a sivasi vár romjait. A délutánt a hagyományos İmaret és Yeni mecsetek felkeresésével töltheti. Zárja az autós túrát a Gök Medrese csodálatos portáljánál.",
         "ro": "Conduceți până la Yukarı Tekke Cami pentru a începe ziua cu vederi ample și calm. La prânz, scufundați-vă în istorie la Muzeul de Arheologie și explorați ruinele castelului. Petreceți după-amiaza vizitând moscheile tradiționale İmaret și Yeni. Încheiați turul minunându-vă de incredibilul portal monumental de la Gök Medrese.",
         "en": "Drive up to Yukarı Tekke Cami to start the day with sweeping views and spiritual calm. By midday, dive into history at the expansive Sivas Archaeology Museum and explore the castle ruins at Sivas Kalesi. Spend your afternoon visiting the traditional İmaret and Yeni Mosques. End your driving tour marveling at the incredible monumental portal of Gök Medrese."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Sivas bei Regen absolut komfortabel und trocken. Wir starten an der höher gelegenen Tekke-Moschee und fahren dann zum Archäologiemuseum. Das Auto dient als perfekter Rückzugsort zwischen den Besichtigungen. Mittags erreichen wir die Burg und die İmaret-Moschee. Den Nachmittag verbringen wir in den beeindruckenden Innenräumen der Gök Medrese, sicher vor jedem Wolkenbruch.",
+            "hu": "Autóval Sivas felfedezése esőben is kényelmes és teljesen száraz élmény. A magasabban fekvő Tekke mecsetnél kezdünk, majd a Régészeti Múzeumhoz hajtunk. Az autó tökéletes menedék a megállók között. Délben a várat és az İmaret mecsetet érintjük. A délutánt a Gök Medrese lenyűgöző belső tereiben töltjük, védve az esetleges felhőszakadásoktól.",
+            "ro": "Cu mașina, explorarea orașului Sivas pe ploaie este confortabilă și complet uscată. Începem la moscheea Tekke de pe deal, apoi conducem spre Muzeul de Arheologie. Mașina este refugiul perfect între opriri. La prânz vizităm castelul și moscheea İmaret. După-amiaza o petrecem în interiorul medresei Gök, protejați de orice aversă.",
+            "en": "By car, exploring Sivas in the rain is a comfortable and dry experience. We start at the elevated Tekke Mosque and then drive to the Archaeology Museum. The car serves as the perfect shelter between stops. At noon, we visit the castle and İmaret Mosque. The afternoon is spent inside the Gök Medrese, safely tucked away from any downpours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Yukarı Tekke Cami",
+                "hu": "Yukarı Tekke Cami",
+                "ro": "Yukarı Tekke Cami",
+                "en": "Yukarı Tekke Cami"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verregnete Sivas aus der Höhe; Parkplätze direkt vor der Moschee ersparen Ihnen einen langen Weg im Regen.",
+                "hu": "Élvezze a kilátást az esős Sivasra a magasból; a közvetlenül a mecset előtt található parkolók megkímélik Önt a hosszú vizes sétától.",
+                "ro": "Bucurați-vă de vederea asupra orașului Sivas pe ploaie de la înălțime; parcarea chiar în fața moscheii vă scutește de un drum lung prin ploaie.",
+                "en": "Enjoy the view of rainy Sivas from above; parking right in front of the mosque saves you from a long walk in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologiemuseum Sivas",
+                "hu": "Sivasi Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Sivas",
+                "en": "Sivas Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und verbringen Sie die regnerische Zeit bei den antiken Schätzen; lassen Sie nasse Mäntel einfach im Kofferraum.",
+                "hu": "Parkoljon kényelmesen a közelben, és töltse az esős időt az antik kincsek között; a vizes kabátokat nyugodtan hagyja a csomagtartóban.",
+                "ro": "Parcați confortabil în apropiere și petreceți timpul ploios printre comorile antice; lăsați hainele ude în portbagajul mașinii.",
+                "en": "Park conveniently nearby and spend the rainy hours among ancient treasures; you can leave your wet coats in the car's trunk for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Sivas",
+                "hu": "Sivasi Vár",
+                "ro": "Castelul Sivas",
+                "en": "Sivas Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Burgplateau hinauf, um den Aufstieg im Regen zu vermeiden; achten Sie beim Fahren auf dem Hügel auf die eingeschränkte Sicht.",
+                "hu": "Hajtson fel egészen a várplatóg, hogy elkerülje a gyalogos hegymenetet az esőben; vezetés közben ügyeljen a dombon a korlátozott látási viszonyokra.",
+                "ro": "Conduceți până pe platoul castelului pentru a evita urcarea pe jos prin ploaie; atenție la vizibilitatea redusă în timp ce conduceți pe deal.",
+                "en": "Drive all the way up to the castle plateau to avoid the walk in the rain; pay attention to limited visibility while driving on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "İmaret Cami",
+                "hu": "İmaret Cami",
+                "ro": "İmaret Cami",
+                "en": "İmaret Cami"
+              },
+              "tip_5lang": {
+                "de": "Diese Moschee ist ein ruhiger Ort, um das Ende des Regens abzuwarten; nutzen Sie die Parkmöglichkeiten in den Seitenstraßen für einen kurzen Zugang.",
+                "hu": "Ez a mecset nyugodt hely az eső elcsendesedésének megvárásához; használja az oldalsó utcák parkolóit a gyors és száraz bejutás érdekében.",
+                "ro": "Această moschee este un loc liniștit pentru a aștepta oprirea ploii; folosiți parcările de pe străzile laterale pentru un acces rapid.",
+                "en": "This mosque is a peaceful place to wait for the rain to subside; use the parking spots in side streets for quick and dry access."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeni Cami",
+                "hu": "Új Mecset (Yeni Cami)",
+                "ro": "Noua Moschee (Yeni Cami)",
+                "en": "New Mosque (Yeni Cami)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, während Ihr Auto sicher in der Nähe parkt; Regenschirme sind für den kurzen Weg vom Auto zum Eingang ratsam.",
+                "hu": "Csodálja meg az építészetet, miközben autója biztonságban parkol a közelben; a rövid útra a kocsitól a bejáratig azért ajánlott az esernyő.",
+                "ro": "Admirați arhitectura în timp ce mașina este parcată în siguranță; umbrela este recomandată pentru drumul scurt de la mașină la intrare.",
+                "en": "Admire the architecture while your car is safely parked nearby; an umbrella is still recommended for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gök-Medrese",
+                "hu": "Gök Medrese",
+                "ro": "Gök Medrese",
+                "en": "Gök Medrese"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Trockenen dieser prächtigen Anlage; prüfen Sie vor der Heimfahrt Ihre Scheibenwischer für die Fahrt durch die Stadt.",
+                "hu": "Zárja a napot szárazon ebben a pompás épületben; a hazaút előtt ellenőrizze az ablaktörlőket a biztonságos városi vezetés érdekében.",
+                "ro": "Încheiați ziua la uscat în acest complex splendid; înainte de plecare, verificați ștergătoarele pentru o conducere sigură prin oraș.",
+                "en": "End the day dry inside this magnificent complex; before driving back, check your wipers to ensure safe travel through the city streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Sivas im Winter lässt sich am besten mit dem Auto erkunden, um der beißenden Kälte zu entgehen. Wir starten an der verschneiten Tekke-Moschee und genießen die effiziente Heizung auf dem Weg zum Museum. Mittags bietet die Burg einen tollen Blick auf die weiße Stadt. Wegen des frühen Sonnenuntergangs um 17:00 Uhr legen wir die Fahrten so, dass wir die Gök Medrese im letzten Tageslicht erreichen.",
+            "hu": "A téli Sivas leginkább autóval fedezhető fel, elkerülve a metsző hideget a megállók között. A havas Tekke mecsetnél kezdünk, élvezve a fűtést a múzeum felé vezető úton. Délben a vár fantasztikus kilátást nyújt a fehér városra. A korai, 17 órai naplemente miatt az utakat úgy tervezzük, hogy a Gök Medreszét még az utolsó nappali fénynél elérjük.",
+            "ro": "Sivas iarna se explorează cel mai bine cu mașina, evitând gerul tăios între obiective. Începem la moscheea Tekke înzăpezită, bucurându-ne de căldură în drum spre muzeu. La prânz, castelul oferă o vedere superbă asupra orașului alb. Din cauza apusului devreme la ora 17:00, planificăm drumul pentru a ajunge la medresa Gök pe lumină.",
+            "en": "Winter in Sivas is best explored by car to avoid the biting cold between stops. We start at the snowy Tekke Mosque, enjoying the car's heater on the way to the museum. At noon, the castle provides a fantastic view of the white city. Due to the early 5 PM sunset, we plan our drives to reach the Gök Medrese during the last bits of daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Yukarı Tekke Cami",
+                "hu": "Yukarı Tekke Cami",
+                "ro": "Yukarı Tekke Cami",
+                "en": "Yukarı Tekke Cami"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Schnee rutschig sein; stellen Sie sicher, dass Ihr Auto mit Winterreifen ausgestattet ist, bevor Sie den Hügel befahren.",
+                "hu": "A felfelé vezető út hóban csúszós lehet; győződjön meg róla, hogy autója téli gumival van felszerelve, mielőtt elindulna a dombra.",
+                "ro": "Drumul în pantă poate fi alunecos pe zăpadă; asigurați-vă că mașina este echipată cu anvelope de iarnă înainte de a urca dealul.",
+                "en": "The drive up can be slippery in snow; ensure your car is equipped with winter tires before attempting to drive up the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologiemuseum Sivas",
+                "hu": "Sivasi Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Sivas",
+                "en": "Sivas Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als langen Aufwärmstopp; achten Sie beim Parken darauf, nicht unter Dachkanten zu stehen, von denen Schnee rutschen könnte.",
+                "hu": "Használja a múzeumot egy hosszú melegedő megállónak; parkoláskor ügyeljen, hogy ne álljon olyan tetőperem alá, ahonnan lezúdulhat a hó.",
+                "ro": "Folosiți muzeul pentru o pauză lungă de încălzire; la parcare, evitați marginile acoperișurilor de unde ar putea cădea zăpada.",
+                "en": "Use the museum for a long warming break; when parking, avoid standing under roof edges where snow might slide off onto your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Sivas",
+                "hu": "Sivasi Vár",
+                "ro": "Castelul Sivas",
+                "en": "Sivas Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das verschneite Sivas ist vom Auto aus am schönsten; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A kilátás a havas Sivasra az autóból a legélvezetesebb; ne járassa feleslegesen a motort, miközben a fűtött utastérből csodálja a panorámát.",
+                "ro": "Vederea asupra orașului Sivas înzăpezit este cea mai plăcută din mașină; nu lăsați motorul pornit inutil în timp ce admirați panorama.",
+                "en": "The view of snowy Sivas is most enjoyable from your car; don't leave the engine idling unnecessarily while admiring the view from the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "İmaret Cami",
+                "hu": "İmaret Cami",
+                "ro": "İmaret Cami",
+                "en": "İmaret Cami"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Wärme der Moschee tut gut; achten Sie auf Fußgänger, die auf den vereisten Straßen am Straßenrand gehen müssen.",
+                "hu": "Egy rövid megálló a mecset melegében felfrissíti; vezetés közben figyeljen a gyalogosokra, akik a jeges utak szélén kényszerülnek haladni.",
+                "ro": "O oprire scurtă în căldura moscheii vă va revigora; atenție la pietonii care sunt forțați să meargă pe marginea drumurilor înghețate.",
+                "en": "A short stop in the warmth of the mosque is refreshing; watch out for pedestrians forced to walk on the edges of the icy roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeni Cami",
+                "hu": "Új Mecset (Yeni Cami)",
+                "ro": "Noua Moschee (Yeni Cami)",
+                "en": "New Mosque (Yeni Cami)"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee ist im Winter ein herrlicher Ruhepol; stellen Sie sicher, dass Ihre Scheiben frostfrei sind, bevor Sie zum nächsten Ziel weiterfahren.",
+                "hu": "A mecset télen kiváló hely a megpihenésre; győződjön meg róla, hogy szélvédői jégmentesek, mielőtt továbbhajtana a következő célpont felé.",
+                "ro": "Moscheea este un loc excelent de odihnă iarna; asigurați-vă că parbrizul este dezghețat înainte de a pleca spre următoarea destinație.",
+                "en": "The mosque is an excellent place to rest in winter; ensure your windshield is frost-free before driving to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Gök-Medrese",
+                "hu": "Gök Medrese",
+                "ro": "Gök Medrese",
+                "en": "Gök Medrese"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie dieses Highlight vor 17:00 Uhr, um die Details im Hellen zu sehen; Frostschutzmittel im Scheibenwischwasser ist bei Sivas-Wintern Pflicht.",
+                "hu": "Érkezzen meg ide 17:00 előtt, hogy még világosban lássa a részleteket; a fagyálló ablakmosó folyadék Sivasban télen kötelező tartozék.",
+                "ro": "Ajungeți aici înainte de ora 17:00 pentru a vedea detaliile pe lumină; lichidul de parbriz antigriz este obligatoriu iarna în Sivas.",
+                "en": "Arrive here before 5 PM to see the details in daylight; using anti-freeze windshield fluid is mandatory during Sivas's harsh winters."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a lenyűgöző Ibrahim El-Desouky mecset és annak spirituális atmoszférájának felfedezésével. Ahogy közeledik a dél, pihenjen az Al-Midan Al-Ibrahimy kertekben, majd nézzen meg egy helyi rendezvénytermet. A délutánt a vidámparkban és a Leylat Al-Omr ünnepi hangulatában töltheti. Zárja a sétát a történelmi Szent György templom megcsodálásával naplementekor.",
         "ro": "Începeți dimineața explorând magnifica Moschee Ibrahim El-Desouky și atmosfera sa spirituală. Pe măsură ce se apropie prânzul, relaxați-vă în Grădinile Al-Midan Al-Ibrahimy înainte de a vizita o sală de evenimente. Petreceți după-amiaza bucurându-vă de atracțiile parcului de distracții și de atmosfera de la Leylat Al-Omr. Încheiați plimbarea admirând biserica istorică a Sf. Gheorghe la apus.",
         "en": "Start your morning exploring the magnificent Ibrahim El-Desouky Mosque and its surrounding spiritual atmosphere. As midday approaches, relax in the vibrant Al-Midan Al-Ibrahimy Gardens before checking out a local Event Hall. Spend your afternoon enjoying the family rides at the Amusement Park and the festive vibes of Leylat Al-Omr. Conclude the walk by admiring the historical Church of St. George at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die prachtvolle Moschee einen trockenen Rückzugsort. Mittags wirken die Gärten im Regen besonders grün, während man unter Pavillons verweilt. Nachmittags bieten die Veranstaltungshallen Schutz vor den Güssen. Abends endet der Spaziergang in der besinnlichen Atmosphäre der Kirche, während draußen der Regen auf das Dach prasselt.",
+            "hu": "Reggel a mecset díszes belső tere nyújt tökéletes menedéket az eső elől. Délben a kertek buja zöldje a szitáló esőben is lenyűgöző a pavilonok alól nézve. Délután a fedett csarnokok falai között maradhatunk szárazon. Este a templom csendes békéje fogad, ahol a kopogó eső csak még meghittebbé teszi a látogatást.",
+            "ro": "Dimineața moscheea oferă un refugiu uscat și spiritual. La prânz grădinile par mai verzi sub ploaie, fiind ideale de privit de sub un foișor. După-amiaza sălile de evenimente sunt locuri perfecte pentru a evita umezeala. Seara se încheie la biserică, unde sunetul ploii creează o atmosferă de liniște profundă.",
+            "en": "Morning starts with a dry sanctuary inside the mosque. At noon, the gardens look vibrant in the rain; find shelter under the large trees or gazebos. Afternoon is best spent exploring the indoor event halls to stay dry. Evening concludes at the church, offering a peaceful atmosphere away from the damp streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ibrahim El-Desouky Moschee",
+                "hu": "Ibrahim El-Desouky Mecset",
+                "ro": "Moscheea Ibrahim El-Desouky",
+                "en": "Ibrahim El-Desouky Mosque"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen; tragen Sie dicke Socken für die kühlen Fliesen und achten Sie auf rutschige Stufen im Eingangsbereich.",
+                "hu": "Csodálja meg a belső díszítést az eső elől bujkálva; viseljen vastag zoknit a hűvös padló miatt, és ügyeljen a csúszós bejárati lépcsőkre.",
+                "ro": "Admirați arhitectura interioară stând la adăpost; purtați șosete groase pentru podeaua rece și atenție la treptele alunecoase de la intrare.",
+                "en": "Admire the intricate interior while staying dry; wear thick socks for the cool tiles and watch out for slippery steps at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Midan Al-Ibrahimy Gärten",
+                "hu": "Al-Midan Al-Ibrahimy Kertek",
+                "ro": "Grădinile Al-Midan Al-Ibrahimy",
+                "en": "Al-Midan Al-Ibrahimy Gardens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft der nassen Erde unter einem Regenschirm; nutzen Sie die befestigten Wege, da der Rasen bei Regen sehr schlammig wird.",
+                "hu": "Élvezze a friss eső illatát egy ernyő alatt; maradjon a kiépített utakon, mert a pázsit ilyenkor hamar felázik és sárossá válik.",
+                "ro": "Bucurați-vă de mirosul pământului reavăn sub o umbrelă; folosiți potecile pavate, deoarece iarba devine foarte noroioasă pe timp de ploaie.",
+                "en": "Enjoy the fresh scent of wet earth under an umbrella; stick to the paved paths as the grass becomes very muddy and soft during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Veranstaltungshalle",
+                "hu": "Rendezvényterem",
+                "ro": "Sala de Evenimente",
+                "en": "Event Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großzügigen Innenraum für eine Pause vom Wetter; prüfen Sie am Eingang, ob Sie Ihren nassen Schirm sicher verstauen können.",
+                "hu": "Használja ki a tágas belső teret egy kis pihenőre az esőben; ellenőrizze a bejáratnál, hogy van-e hely a vizes esernyők biztonságos tárolására.",
+                "ro": "Folosiți acest spațiu interior generos pentru o pauză de vremea rea; verificați la intrare dacă puteți lăsa umbrela udă într-un loc sigur.",
+                "en": "Utilize this spacious indoor area for a break from the weather; check at the entrance for a place to safely store your wet umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergnügungspark",
+                "hu": "Vidámpark",
+                "ro": "Parcul de Distracții",
+                "en": "Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die überdachten Fahrgeschäfte auf; die bunten Lichter spiegeln sich wunderschön in den Pfützen, was tolle Fotomotive bietet.",
+                "hu": "Keresse a fedett játékgépeket és attrakciókat; a színes fények gyönyörűen tükröződnek a tócsákban, ami remek fotótéma az esőben is.",
+                "ro": "Căutați atracțiile acoperite; luminile colorate se reflectă superb în bălți, oferind oportunități excelente pentru fotografii memorabile.",
+                "en": "Look for the covered rides and arcade games; the colorful lights reflect beautifully in the puddles, perfect for atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Leylat Al-Omr",
+                "hu": "Leylat Al-Omr",
+                "ro": "Leylat Al-Omr",
+                "en": "Leylat Al-Omr"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das lokale Leben drinnen zu beobachten; bringen Sie eine wasserfeste Tasche für Ihre Kameraausrüstung mit.",
+                "hu": "Ideális helyszín a helyi élet megfigyelésére fedett helyen; hozzon magával vízálló táskát a fényképezőgépe és értékei védelmére.",
+                "ro": "Un loc ideal pentru a observa viața locală la interior; aduceți o geantă impermeabilă pentru a vă proteja echipamentul foto de umezeală.",
+                "en": "An ideal spot to observe local life indoors; bring a waterproof bag to protect your camera and valuables from the humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Georgskirche",
+                "hu": "Szent György Templom",
+                "ro": "Biserica Sf. Gheorghe",
+                "en": "Church of St. George the Great Martyr"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Schein der Kerzen; achten Sie beim Verlassen auf die dunklen, nassen Straßen rund um das Viertel.",
+                "hu": "Zárja a napot a gyertyák meleg fényénél; távozáskor legyen óvatos a sötét és vizes utcákon a templom környékén.",
+                "ro": "Încheiați ziua la lumina caldă a lumânărilor; la plecare, aveți grijă pe străzile întunecate și ude din jurul cartierului.",
+                "en": "End your day in the warm glow of candles; be cautious of the dark and wet streets around the district when leaving the church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt erfrischend an der Moschee. Mittags spendet die tiefliegende Sonne in den Gärten angenehme Wärme. Nachmittags laden die Hallen zum kulturellen Verweilen ein, bevor die Temperaturen spürbar sinken. Abends sorgt der frühe Sonnenuntergang gegen 17 Uhr für eine magische Beleuchtung der historischen Kirche.",
+            "hu": "A hűvös téli reggel frissítően indul a mecsetnél. Délben az alacsonyan járó nap kellemes melegséget ad a kertekben tett séta során. Délután a kulturális termekben melegedhetünk fel, mielőtt a hőmérséklet hirtelen csökkenni kezdene. Este a korai, 5 órai naplemente után a templom fényei különleges hangulatot árasztanak.",
+            "ro": "Dimineața rece de iarnă începe revigorant la moschee. La prânz soarele domol oferă o căldură plăcută în timpul plimbării prin grădini. După-amiaza sălile culturale sunt ideale pentru a ne încălzi înainte de lăsarea serii. Seara apusul devreme de la ora 17:00 scaldă biserica istorică într-o lumină magică.",
+            "en": "The crisp winter morning begins refreshingly at the mosque. At noon, the low-hanging sun provides pleasant warmth during a garden stroll. Afternoon is perfect for visiting cultural halls to stay warm as temperatures drop. Evening arrives early with a 5 PM sunset, casting a magical light over the historic church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ibrahim El-Desouky Moschee",
+                "hu": "Ibrahim El-Desouky Mecset",
+                "ro": "Moscheea Ibrahim El-Desouky",
+                "en": "Ibrahim El-Desouky Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Steinböden sind im Winter sehr kalt; tragen Sie dicke Wollsocken, um die spirituelle Atmosphäre ohne frierende Füße zu genießen.",
+                "hu": "A kőpadló télen nagyon hideg lehet; viseljen vastag gyapjúzoknit, hogy a lábai ne fázzanak, miközben a spirituális teret járja be.",
+                "ro": "Podelele de piatră sunt foarte reci iarna; purtați șosete groase de lână pentru a vizita spațiul spiritual fără a vă îngheța picioarele.",
+                "en": "The stone floors can be very cold in winter; wear thick wool socks to enjoy the spiritual space without getting chilly feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Midan Al-Ibrahimy Gärten",
+                "hu": "Al-Midan Al-Ibrahimy Kertek",
+                "ro": "Grădinile Al-Midan Al-Ibrahimy",
+                "en": "Al-Midan Al-Ibrahimy Gardens"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für einen Spaziergang; ein leichter Windbecher schützt vor der kühlen Brise, die oft vom Nil herüberweht.",
+                "hu": "Használja ki a déli napsütést a sétához; egy könnyű széldzseki jól jön a Nílus felől érkező hűvös fuvallatok ellen.",
+                "ro": "Aprofitați de soarele de la prânz pentru plimbare; o jachetă ușoară vă va proteja de briza rece care suflă deseori dinspre Nil.",
+                "en": "Make the most of the midday sun for your walk; a light windbreaker will protect you from the cool breeze often blowing from the Nile."
+              }
+            },
+            {
+              "name": {
+                "de": "Veranstaltungshalle",
+                "hu": "Rendezvényterem",
+                "ro": "Sala de Evenimente",
+                "en": "Event Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Hallen bieten Schutz vor dem kühlen Nachmittagswind; genießen Sie die lokalen Ausstellungen in einer angenehm temperierten Umgebung.",
+                "hu": "A csarnokok jó menedéket nyújtanak a hűvös délutáni szél elől; élvezze a helyi kiállításokat a kellemesen temperált belső térben.",
+                "ro": "Sălile oferă protecție împotriva vântului rece de după-amiază; bucurați-vă de expozițiile locale într-un mediu cu temperatură plăcută.",
+                "en": "The halls provide good shelter from the chilly afternoon wind; enjoy the local exhibits in a comfortably tempered indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergnügungspark",
+                "hu": "Vidámpark",
+                "ro": "Parcul de Distracții",
+                "en": "Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park am frühen Nachmittag; sobald die Sonne untergeht, wird es auf den offenen Fahrgeschäften sehr schnell kalt.",
+                "hu": "Látogasson el ide kora délután; amint lemegy a nap, a nyitott játékokon nagyon hamar lehűl a levegő és fázni fog.",
+                "ro": "Vizitați parcul devreme după-amiaza; imediat ce soarele apune, atmosfera devine foarte rece pe atracțiile în aer liber.",
+                "en": "Visit the park in the early afternoon; as soon as the sun sets, it gets very cold quickly on the open-air rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Leylat Al-Omr",
+                "hu": "Leylat Al-Omr",
+                "ro": "Leylat Al-Omr",
+                "en": "Leylat Al-Omr"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für den späten Nachmittag; tragen Sie mehrere Schichten Kleidung, um sich an die wechselnden Innentemperaturen anzupassen.",
+                "hu": "Hangulatos helyszín késő délutánra; öltözködjön rétegesen, hogy alkalmazkodni tudjon a változó belső hőmérséklethez.",
+                "ro": "O locație primitoare pentru după-amiaza târzie; îmbrăcați-vă în straturi pentru a vă adapta la temperaturile variabile din interior.",
+                "en": "A cozy location for the late afternoon; dress in layers so you can adjust to the varying indoor temperatures comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Georgskirche",
+                "hu": "Szent György Templom",
+                "ro": "Biserica Sf. Gheorghe",
+                "en": "Church of St. George the Great Martyr"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um das Innere bei Tageslicht zu sehen; die Kirche ist im Winter ein wunderbar warmer Ort der Ruhe.",
+                "hu": "Érkezzen 5 óra előtt, hogy még természetes fénynél lássa a belsőt; a templom télen csodálatosan meleg és nyugodt menedék.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea interiorul în lumină naturală; biserica este un loc cald și liniștit pe timp de iarnă.",
+                "en": "Arrive before 5 PM to see the interior in natural light; the church is a wonderfully warm and calm refuge during winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "A biciklitúra a Szent György templom békés reggeli látogatásával indul, amelyet az Ibrahim El-Desouky mecset követ. Délben tekerjen a központi Al-Midan Al-Ibrahimy kertek felé egy frissítő szabadtéri szünetre. Délután kerékpározzon északra a Desouk Kultúrház művészeti kiállításainak felfedezéséhez. Zárja aktív napját az Al Fardous kerthez kerekezve egy csendes estéért.",
         "ro": "Plimbarea cu bicicleta începe cu o vizită la Biserica Sf. Gheorghe, urmată de impresionanta Moschee Ibrahim El-Desouky. La prânz, pedalați spre Grădinile Al-Midan Al-Ibrahimy pentru o pauză revigorantă. După-amiaza, mergeți spre nord pentru a explora expozițiile artistice de la Casa de Cultură Desouk. Încheiați-vă ziua activă pedalând spre pitoreasca Grădină Al Fardous pentru o seară liniștită.",
         "en": "Your ride kicks off with a peaceful morning visit to the Church of St. George, followed by the impressive Ibrahim El-Desouky Mosque. At midday, pedal towards the central Al-Midan Al-Ibrahimy Gardens for a refreshing outdoor break. In the afternoon, cycle north to explore the artistic exhibits at the Desouk Culture House. Wrap up your active day by cycling to the scenic Al Fardous Garden for a quiet evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen nahe der Kirche. Mittags bietet die Moschee eine willkommene Pause zum Trocknen. Die Gärten leuchten intensiv, doch die Wege sind rutschig. Der Nachmittag im Kulturhaus ist ideal, um dem stärksten Guss zu entgehen, bevor man die Tour im Al Fardous Garten bei frischer Luft beendet.",
+            "hu": "Az esős bringázás óvatosságot igényel a csúszós utakon a templom környékén. Délben a mecsetnél tarthatunk pihenőt és megszáradhatunk. A kertek színei ilyenkor a legélénkebbek, de az utak síkosak. A délután a kultúrházban telik, elkerülve a nagyobb felhőszakadást, majd a napot a friss levegőjű Al Fardous kertben zárjuk.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție pe străzile alunecoase de lângă biserică. La prânz moscheea oferă o pauză binemeritată pentru a ne usca. Grădinile au culori intense, dar potecile sunt sclipitoare de umezeală. După-amiaza la casa de cultură este ideală pentru a evita ploaia torențială înainte de finalul din grădina Al Fardous.",
+            "en": "Cycling in the rain requires extra care on the slick roads near the church. At noon, the mosque provides a welcome dry break. The gardens show intense colors, but the paths are slippery. Spend the afternoon at the culture house to avoid heavy showers before finishing your ride in the fresh air of Al Fardous Garden."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Georgskirche",
+                "hu": "Szent György Templom",
+                "ro": "Biserica Sf. Gheorghe",
+                "en": "Church of St. George the Great Martyr"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort; achten Sie auf die nassen Pflastersteine vor dem Eingang, die sehr rutschig sein können.",
+                "hu": "Parkolja le a biciklit fedett helyen; ügyeljen a bejárat előtti nedves macskakövekre, amelyek rendkívül csúszósak lehetnek.",
+                "ro": "Parcați bicicleta într-un loc ferit; atenție la pavajul umed din fața intrării, care poate fi extrem de alunecos.",
+                "en": "Park your bike in a sheltered spot; watch out for the wet cobblestones in front of the entrance, which can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ibrahim El-Desouky Moschee",
+                "hu": "Ibrahim El-Desouky Mecset",
+                "ro": "Moscheea Ibrahim El-Desouky",
+                "en": "Ibrahim El-Desouky Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt, um Ihre Regenbekleidung zu lüften; der Innenhof bietet oft überdachte Plätze für eine kurze Rast.",
+                "hu": "Használja ki a látogatást az esőruházat szellőztetésére; a belső udvarban gyakran találni fedett részeket a rövid pihenőhöz.",
+                "ro": "Profită de vizită pentru a-ți aerisi echipamentul de ploaie; curtea interioară oferă deseori locuri acoperite pentru un scurt repaus.",
+                "en": "Take advantage of the visit to air out your rain gear; the inner courtyard often has covered areas for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Midan Al-Ibrahimy Gärten",
+                "hu": "Al-Midan Al-Ibrahimy Kertek",
+                "ro": "Grădinile Al-Midan Al-Ibrahimy",
+                "en": "Al-Midan Al-Ibrahimy Gardens"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schlammigen Wegen; die Sicht auf den Nil im Regen ist dramatisch und ein kurzes Innehalten wert.",
+                "hu": "Tekerjen óvatosan a felázott utakon; a Nílus látványa az esőben drámai és megér egy rövid megállót a védett részeken.",
+                "ro": "Pedalați cu prudență pe aleile umede; vederea spre Nil sub ploaie este dramatică și merită o scurtă oprire la adăpost.",
+                "en": "Ride carefully on the soggy paths; the view of the Nile in the rain is dramatic and worth a quick stop under shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Desouk",
+                "hu": "Desouk Kultúrház",
+                "ro": "Casa de Cultură Desouk",
+                "en": "Desouk Culture House"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich bei einer Ausstellung aufzuwärmen; wischen Sie den Sattel Ihres Fahrrads vor der Weiterfahrt gut ab.",
+                "hu": "Tökéletes hely, hogy egy kiállítás mellett átmelegedjen; indulás előtt alaposan törölje le a bicikli nyergét a vizesedés ellen.",
+                "ro": "Locul perfect pentru a te încălzi la o expoziție; șterge bine șaua bicicletei înainte de a porni din nou la drum.",
+                "en": "The perfect place to warm up while viewing an exhibit; wipe your bike seat thoroughly before heading back out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Fardous Garten",
+                "hu": "Al Fardous Kert",
+                "ro": "Grădina Al Fardous",
+                "en": "Al Fardous Garden"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tief hängende, nasse Äste über den Radwegen; die frische Luft nach dem Regen ist hier besonders belebend.",
+                "hu": "Figyeljen a kerékpárutak fölé lógó nedves ágakra; az eső utáni friss levegő itt különösen élénkítő és tiszta.",
+                "ro": "Atenție la ramurile umede care atârnă deasupra pistelor; aerul curat de după ploaie este deosebit de revigorant aici.",
+                "en": "Watch out for low-hanging wet branches over the cycle paths; the fresh air after the rain is especially invigorating here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad beginnt an der Georgskirche mit einer kühlen Brise. Zur Mittagszeit wärmt die Sonne bei der Moschee und den Gärten den Rücken. Nachmittags ist das Kulturhaus ein wichtiger Stopp zum Aufwärmen. Beenden Sie die Fahrt im Al Fardous Garten rechtzeitig vor dem frühen Sonnenuntergang, wenn es schlagartig abkühlt.",
+            "hu": "A friss téli reggel a templomnál indul hűvös széllel. Délidőben a nap kellemesen melengeti a hátunkat a mecsetnél és a kertekben. Délután a kultúrház fontos megálló a felmelegedéshez. Az Al Fardous kertben fejezze be a tekerést még a korai naplemente előtt, mert utána hirtelen hűl le a levegő.",
+            "ro": "O dimineață proaspătă de iarnă pe bicicletă începe la biserică cu o briză rece. La prânz soarele încălzește spatele în timpul vizitei la moschee și grădini. După-amiaza casa de cultură este un popas esențial pentru încălzire. Finalizați tura în grădina Al Fardous înainte de apus, când se răcește brusc.",
+            "en": "A crisp winter morning on the bike starts at the church with a cool breeze. At midday, the sun pleasantly warms your back near the mosque and gardens. Afternoon at the culture house is a vital stop for warming up. Finish your ride in Al Fardous Garden well before the early sunset, as it cools down instantly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Georgskirche",
+                "hu": "Szent György Templom",
+                "ro": "Biserica Sf. Gheorghe",
+                "en": "Church of St. George the Great Martyr"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Handschuhe für die Fahrt; das Innere der Kirche bietet eine angenehme, windstille Pause vom kühlen Fahrtwind.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a templom belseje kellemes, szélvédett pihenőt nyújt a hűvös menetszél után.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drum; interiorul bisericii oferă o pauză plăcută și ferită de curent după pedalat.",
+                "en": "Wear windproof gloves for the ride; the church interior offers a pleasant, wind-free break from the chilly riding wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ibrahim El-Desouky Moschee",
+                "hu": "Ibrahim El-Desouky Mecset",
+                "ro": "Moscheea Ibrahim El-Desouky",
+                "en": "Ibrahim El-Desouky Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne wärmt den Vorplatz mittags ideal auf; nutzen Sie die Zeit für eine Pause, bevor Sie wieder in den kühleren Schatten fahren.",
+                "hu": "A nap délben ideálisan felmelegíti az előteret; használja ki az időt a pihenésre, mielőtt visszatérne a hűvösebb árnyékos utakra.",
+                "ro": "Soarele încălzește ideal esplanada la prânz; profitați de timp pentru relaxare înainte de a reveni pe străzile umbroase.",
+                "en": "The sun warms the forecourt ideally at noon; use this time for a rest before heading back into the cooler shaded streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Midan Al-Ibrahimy Gärten",
+                "hu": "Al-Midan Al-Ibrahimy Kertek",
+                "ro": "Grădinile Al-Midan Al-Ibrahimy",
+                "en": "Al-Midan Al-Ibrahimy Gardens"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich eine sonnige Bank für eine Rast; die Wintersonne ist hier am Flussufer besonders angenehm und spendet Vitamin D.",
+                "hu": "Keressen egy napos padot a pihenéshez; a téli napsütés itt a folyóparton különösen kellemes és segít a feltöltődésben.",
+                "ro": "Căutați o bancă însorită pentru popas; soarele de iarnă pe malul râului este extrem de plăcut și oferă vitamina D necesară.",
+                "en": "Find a sunny bench for a rest; the winter sun here by the riverbank is especially pleasant and provides a boost of Vitamin D."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Desouk",
+                "hu": "Desouk Kultúrház",
+                "ro": "Casa de Cultură Desouk",
+                "en": "Desouk Culture House"
+              },
+              "tip_5lang": {
+                "de": "Ein wichtiger Ort zum Aufwärmen am Nachmittag; genießen Sie die kulturelle Atmosphäre, bevor die Kälte des Abends einsetzt.",
+                "hu": "Fontos helyszín a délutáni felmelegedéshez; élvezze a kulturális pezsgést, mielőtt beállna az esti hűvös idő.",
+                "ro": "Un loc important pentru a te încălzi după-amiaza; bucură-te de atmosfera culturală înainte de instalarea frigului serii.",
+                "en": "An important spot for warming up in the afternoon; enjoy the cultural atmosphere before the evening chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Fardous Garten",
+                "hu": "Al Fardous Kert",
+                "ro": "Grădina Al Fardous",
+                "en": "Al Fardous Garden"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor 16:30 Uhr; der nahe Fluss sorgt nach Sonnenuntergang für eine sehr feuchte und beißende Kälte.",
+                "hu": "Fejezze be a látogatást délután fél 5 előtt; a közeli folyó miatt napnyugta után nagyon nyirkos és metsző lesz a hideg.",
+                "ro": "Finalizați vizita înainte de 16:30; râul din apropiere face ca frigul de după apus să fie foarte umed și pătrunzător.",
+                "en": "Finish your visit before 4:30 PM; the nearby river makes the cold after sunset very damp and biting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen egyenesen az Um Al-Qura kertbe egy békés reggeli sétára a város egyik legzöldebb részén. Délre érjen el a Desouk Kultúrházba, hogy magába szívja a régió gazdag helyi történelmét. A délután a monumentális Ibrahim El-Desouky mecsethez és a közeli vidámparkhoz csábít. Kora este zárja festői útját a nyüzsgő Al-Safa Hallban a helyi kultúra felfedezésével.",
         "ro": "Conduceți direct la Grădina Um Al-Qura pentru o plimbare matinală liniștită prin una dintre cele mai verzi zone ale orașului. La prânz, mergeți la Casa de Cultură Desouk pentru a absorbi istoria locală bogată. După-amiaza vă invită la monumentala Moschee Ibrahim El-Desouky și la parcul de distracții din apropiere. Odată cu lăsarea serii, încheiați plimbarea cu mașina la vibranta Sală Al-Safa.",
         "en": "Drive straight to Um Al-Qura Garden for a serene and spacious morning stroll through one of the city's greenest areas. By midday, make your way to the Desouk Culture House to absorb the region's rich local history. The afternoon invites you to the monumental Ibrahim El-Desouky Mosque and the nearby lively Amusement Park. As evening falls, conclude your scenic drive at the vibrant Al-Safa Hall for local culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Desouk auch bei Regen komfortabel. Der Morgen im Garten lässt sich vom Wagen aus genießen. Mittags erreichen Sie das Kulturhaus und die Moschee ohne nass zu werden. Der Nachmittag im Vergnügungspark ist kürzer, doch die Fahrt zur Al-Safa Halle bleibt trocken. Abends genießen Sie die beleuchtete Stadt durch die regennassen Scheiben.",
+            "hu": "Autóval az esőben is kényelmesen felfedezheti Desoukot. A reggeli kertlátogatást a kocsiból is élvezheti. Délben száraz lábbal érheti el a kultúrházat és a mecsetet. A délutáni vidámparkozás rövidebb lehet, de az Al-Safa csarnokba vezető út végig fedett marad. Este a kivilágított várost az esőáztatta szélvédő mögül csodálhatja.",
+            "ro": "Cu mașina puteți explora Desouk confortabil chiar și pe ploaie. Vizita de dimineață la grădină poate fi savurată din vehicul. La prânz ajungeți la casa de cultură și moschee fără a vă uda. După-amiaza la parcul de distracții va fi scurtă, dar drumul spre sala Al-Safa rămâne uscat. Seara admirați orașul iluminat prin geamurile ude.",
+            "en": "Explore Desouk comfortably by car even in the rain. Enjoy the morning garden views from the warmth of your vehicle. At noon, reach the culture house and mosque without getting wet. The afternoon at the amusement park may be shorter, but the drive to Al-Safa Hall remains dry. In the evening, admire the lit city through the rain-streaked windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Um Al-Qura Garten",
+                "hu": "Um Al-Qura Kert",
+                "ro": "Grădina Um Al-Qura",
+                "en": "Um Al-Qura Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den kurzen Weg durch den Regen zu minimieren; genießen Sie das frische Grün direkt vom Autofenster aus.",
+                "hu": "Parkoljon a bejárat közelében, hogy minimalizálja az esőben megtett utat; élvezze a friss zöld látványát közvetlenül az autó ablakából.",
+                "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie; admirați verdeața proaspătă direct de la fereastra mașinii.",
+                "en": "Park close to the entrance to minimize your walk in the rain; enjoy the lush green scenery directly from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Desouk",
+                "hu": "Desouk Kultúrház",
+                "ro": "Casa de Cultură Desouk",
+                "en": "Desouk Culture House"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche kann bei Regen stressig sein; nutzen Sie die Zeit drinnen, um sich vollständig zu trocknen, bevor Sie weiterfahren.",
+                "hu": "A parkolás esőben nehézkes lehet; használja ki a benti időt a teljes száradásra, mielőtt továbbhajtana a következő helyszínre.",
+                "ro": "Găsirea unui loc de parcare pe ploaie poate fi dificilă; folosiți timpul petrecut înăuntru pentru a vă usca complet înainte de a pleca.",
+                "en": "Finding parking in the rain can be tricky; use your time indoors to dry off completely before driving to the next location."
+              }
+            },
+            {
+              "name": {
+                "de": "Ibrahim El-Desouky Moschee",
+                "hu": "Ibrahim El-Desouky Mecset",
+                "ro": "Moscheea Ibrahim El-Desouky",
+                "en": "Ibrahim El-Desouky Mosque"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger mit Regenschirmen in den engen Straßen; die Moschee ist ein herrlich ruhiger Zufluchtsort vor dem prasselnden Regen.",
+                "hu": "Vigyázzon az esernyős gyalogosokra a szűk utcákban; a mecset csodálatosan nyugodt menedék a kint szakadó eső elől.",
+                "ro": "Atenție la pietonii cu umbrele pe străzile înguste; moscheea este un refugiu minunat de liniștit față de ploaia torențială de afară.",
+                "en": "Watch out for pedestrians with umbrellas in the narrow streets; the mosque is a wonderfully calm refuge from the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergnügungspark",
+                "hu": "Vidámpark",
+                "ro": "Parcul de Distracții",
+                "en": "Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie vor der Anfahrt, ob die Hauptattraktionen bei Regen geöffnet sind; die Pfützen reflektieren die bunten Lichter spektakulär.",
+                "hu": "Indulás előtt ellenőrizze, hogy a főbb játékok nyitva vannak-e esőben; a tócsák látványosan verik vissza a színes fényeket.",
+                "ro": "Verificați dacă atracțiile principale sunt deschise pe timp de ploaie; bălțile reflectă spectaculos luminile colorate ale parcului.",
+                "en": "Check if the main attractions are open during rain before heading there; the puddles reflect the colorful lights spectacularly."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Safa Halle",
+                "hu": "Al-Safa Hall",
+                "ro": "Sala Al-Safa",
+                "en": "Al-Safa Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss im Trockenen; die Heizung im Auto sorgt auf dem Rückweg für angenehme Wärme nach dem feuchten Tag.",
+                "hu": "Tökéletes lezárás száraz helyen; az autó fűtése a hazafelé úton kellemes meleget ad majd a nyirkos nap után.",
+                "ro": "Un final perfect la adăpost; încălzirea din mașină vă va oferi un confort plăcut pe drumul de întoarcere după o zi umedă.",
+                "en": "A perfect ending in a dry spot; the car's heater will provide pleasant warmth on the drive home after a damp day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den besten Schutz vor der kühlen Brise am Nil. Morgens im Garten ist es angenehm warm im Wagen. Mittags sind die Moschee und das Kulturhaus gut erreichbar. Der Nachmittag im Park ist kurzweilig, bevor man sich in der Al-Safa Halle aufwärmt. Abends schützt die Klimatisierung des Autos vor der einsetzenden Kälte nach dem frühen Sonnenuntergang.",
+            "hu": "Télen az autó nyújtja a legjobb védelmet a Nílus felőli hűvös szél ellen. Reggel a kertben a kocsiból nézelődve is kellemes. Délben a mecset és a kultúrház könnyen elérhető. A délutáni parklátogatás után az Al-Safa csarnok nyújt felmelegedést. Este az autó fűtése véd meg a korai naplemente utáni hirtelen hidegtől.",
+            "ro": "Iarna, mașina oferă cea mai bună protecție împotriva bizei reci de pe Nil. Dimineața în grădină este plăcut din interiorul vehiculului. La prânz, moscheea și casa de cultură sunt ușor accesibile. După parcul de distracții, sala Al-Safa oferă căldura necesară. Seara, climatizarea mașinii vă protejează de frigul brusc de după apus.",
+            "en": "In winter, the car provides the best protection from the cool Nile breeze. Morning in the garden is pleasant from within the vehicle. At noon, the mosque and culture house are easily accessible. After the afternoon park visit, Al-Safa Hall offers a warm retreat. In the evening, the car's heater protects you from the sudden chill after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Um Al-Qura Garten",
+                "hu": "Um Al-Qura Kert",
+                "ro": "Grădina Um Al-Qura",
+                "en": "Um Al-Qura Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei einem kurzen Spaziergang; lassen Sie die Jacke im Auto, wenn Sie nur kurz für Fotos aussteigen.",
+                "hu": "Élvezze a tiszta téli levegőt egy rövid séta során; hagyja a kabátot az autóban, ha csak egy-egy fotó erejéig száll ki.",
+                "ro": "Bucurați-vă de aerul curat de iarnă la o scurtă plimbare; lăsați jacheta în mașină dacă coborâți doar pentru câteva fotografii rapide.",
+                "en": "Enjoy the clear winter air during a short walk; leave your heavy jacket in the car if you only get out briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhaus Desouk",
+                "hu": "Desouk Kultúrház",
+                "ro": "Casa de Cultură Desouk",
+                "en": "Desouk Culture House"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlich temperierter Ort für den Vormittag; parken Sie in der Sonne, damit das Auto für die Weiterfahrt angenehm warm bleibt.",
+                "hu": "Csodálatosan temperált helyszín délelőttre; parkoljon a napon, hogy az autó kellemesen meleg maradjon a továbbinduláshoz.",
+                "ro": "O locație cu temperatură plăcută pentru dimineață; parcați la soare pentru ca mașina să rămână caldă până la plecare.",
+                "en": "A wonderfully tempered location for the morning; park in the sun so the car stays pleasantly warm for your next drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Ibrahim El-Desouky Moschee",
+                "hu": "Ibrahim El-Desouky Mecset",
+                "ro": "Moscheea Ibrahim El-Desouky",
+                "en": "Ibrahim El-Desouky Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne auf dem Vorplatz ist sehr angenehm; wärmen Sie sich nach dem Besuch der kühlen Innenräume im Auto wieder auf.",
+                "hu": "A déli napsütés az előtéren nagyon kellemes; a hűvös belső terek látogatása után melegedjen fel újra az autóban ülve.",
+                "ro": "Soarele de la prânz pe esplanadă este foarte plăcut; după vizitarea interiorului răcoros, încălziți-vă din nou în mașină.",
+                "en": "The midday sun on the forecourt is very pleasant; warm up again in the car after visiting the naturally cool interior spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergnügungspark",
+                "hu": "Vidámpark",
+                "ro": "Parcul de Distracții",
+                "en": "Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park, solange die Sonne noch steht; im Winter schließen einige Außenbereiche bei Einbruch der Dunkelheit früher.",
+                "hu": "Látogasson el ide, amíg még süt a nap; télen egyes szabadtéri részek korábban bezárhatnak a sötétség beálltával.",
+                "ro": "Vizitați parcul cât timp soarele este încă sus; iarna, unele zone exterioare se pot închide mai devreme odată cu lăsarea întunericului.",
+                "en": "Visit the park while the sun is still up; in winter, some outdoor areas might close earlier as darkness falls quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Al-Safa Halle",
+                "hu": "Al-Safa Hall",
+                "ro": "Sala Al-Safa",
+                "en": "Al-Safa Hall"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen vor der Heimfahrt; die warme Luft im Inneren bereitet Sie gut auf den kühlen Abend vor.",
+                "hu": "Tökéletes hely a felmelegedéshez a hazautazás előtt; a benti meleg levegő jól felkészíti a kinti hűvös esti időre.",
+                "ro": "Locul perfect pentru încălzire înainte de drumul spre casă; aerul cald din interior vă pregătește pentru seara răcoroasă.",
+                "en": "The perfect place to warm up before the drive home; the warm indoor air prepares you well for the chilly evening ahead."
+              }
+            }
+          ]
+        }
       }
     }
   }

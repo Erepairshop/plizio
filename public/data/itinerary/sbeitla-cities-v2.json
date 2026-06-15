@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az impozáns Tetrarchia diadalívénél, és merüljön el az ókori történelemben.\n\nDélben fedezze fel Sbeitla római romjainak központját és a lenyűgöző színházat.\n\nDélután a hatalmas fürdők engednek bepillantást a római kultúrába.\n\nAz este békésen zárul az ősi amfiteátrum maradványai között sétálva.",
         "ro": "Începeți dimineața la impresionantul Arc al Tetrarhiei și pășiți în istoria antică.\n\nLa prânz, explorați inima ruinelor romane din Sbeitla și teatrul captivant.\n\nDupă-amiaza, termele publice vaste vă dezvăluie cultura romană.\n\nSeara se încheie liniștit pe măsură ce vă plimbați în jurul vechiului amfiteatru.",
         "en": "Start your morning at the imposing Arch of the Tetrarchy and step into ancient history.\n\nBy midday, explore the heart of Sbeitla's Roman ruins and the captivating theatre.\n\nIn the afternoon, the vast public baths offer deep insights into Roman culture.\n\nThe evening concludes peacefully as you wander around the ancient amphitheatre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen suchen wir Schutz unter dem Bogen der Tetrarchie, während der Regen einsetzt. Mittags glänzen die Forentempel im nassen Licht, doch Vorsicht auf den glatten Steinen. Am Nachmittag erkunden wir das Theater und die Thermen, wo der Regen den Staub der Geschichte abwäscht. Am Abend beenden wir den Tag am Amphitheater, bevor der Wind über die Steppe fegt.",
+            "hu": "Reggel a Tetrarchia diadalíve alatt keressünk menedéket az érkező zápor elől. Délben a fórum monumentális templomai között a vizes mészkő csillogása különleges látványt nyújt, de vigyázzunk a csúszós kövekre. Délután a színház és a fürdők romjai között kalandozunk, ahol az eső elmossa a port. Estére az amfiteátrum monumentális falai között zárjuk a napot a vihar előtt.",
+            "ro": "Dimineața căutăm adăpost sub Arcul Tetrarhiei pe măsură ce ploaia începe. La prânz, templele forumului strălucesc în lumina umedă, dar atenție la pietrele alunecoase. După-amiaza explorăm teatrul și termele, unde ploaia spală praful istoriei. Seara încheiem ziua la amfiteatru, înainte ca vântul să se intensifice peste stepă.",
+            "en": "In the morning, we seek shelter under the Arch of the Tetrarchy as the rain starts. At noon, the forum temples glisten in the wet light, but be careful on the slippery stones. In the afternoon, we explore the theatre and the baths, where the rain washes away the dust of history. In the evening, we end the day at the amphitheatre before the wind picks up across the steppe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bogen der Tetrarchie",
+                "hu": "Tetrarchia diadalíve",
+                "ro": "Arcul Tetrarhiei",
+                "en": "Arch of the Tetrarchy"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schnitzereien im Schutz des Bogens; der Stein wird bei Regen extrem glatt, tragen Sie daher unbedingt wasserfeste Wanderschuhe mit griffiger Profilsohle.",
+                "hu": "Csodáld meg a diadalív faragványait az oszlopok védelmében; a kövek vizesen rendkívül csúszósak, ezért viselj recés talpú, vízálló túrabakancsot a biztonságos haladáshoz.",
+                "ro": "Admirați sculpturile la adăpostul arcului; piatra devine extrem de alunecoasă pe ploaie, așa că purtați neapărat ghete de munte impermeabile cu talpă aderentă pentru siguranță.",
+                "en": "Admire the intricate carvings from beneath the arch's shadow; the ancient stones become treacherous when wet, so wear sturdy waterproof boots with good grip to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Märtyrerkirche",
+                "hu": "Mártírok temploma",
+                "ro": "Biserica Martirilor",
+                "en": "Church of the Martyrs"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Mosaike unter einem Regenschirm; die offenen Kirchenruinen bieten kaum Schutz, halten Sie sich nahe an den verbliebenen Mauern auf, um trocken zu bleiben.",
+                "hu": "Nézd meg a mozaikokat esernyő alatt; a nyitott templomromok kevés védelmet nyújtanak, maradj közel a megmaradt falakhoz, hogy elkerüld a közvetlen esőt a nézelődés közben.",
+                "ro": "Vizualizați mozaicurile sub umbrelă; ruinele deschise ale bisericii oferă puțin adăpost, stați aproape de zidurile rămase pentru a evita ploaia directă în timp ce explorați.",
+                "en": "View the mosaics under an umbrella; the open church ruins offer little shelter, so stay close to the remaining walls to keep as dry as possible during your observation."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Ruinen von Sbeitla",
+                "hu": "Sbeitla római romjai",
+                "ro": "Ruinele Romane din Sbeitla",
+                "en": "Roman Ruins of Sbeitla"
+              },
+              "tip_5lang": {
+                "de": "Das Forum wirkt bei Regen mystisch; nutzen Sie die hohen Tempelportale als kurzfristigen Unterstand und achten Sie auf tiefe Pfützen in den antiken, unebenen Straßenzügen.",
+                "hu": "A fórum misztikus látvány az esőben; használd a magas templomkapukat ideiglenes menedékként, és ügyelj a mély tócsákra az egyenetlen antik kövek és utak mentén.",
+                "ro": "Forumul pare mistic în ploaie; folosiți portalurile înalte ale templelor ca adăpost temporar și aveți grijă la bălțile adânci de pe străzile antice inegale din sit.",
+                "en": "The forum looks mystical in the rain; use the high temple portals as temporary shelter and watch out for deep puddles forming in the uneven ancient streets and pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater",
+                "hu": "Színház",
+                "ro": "Teatru",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Gänge unter den Sitzreihen; diese antiken Korridore bieten perfekten Schutz vor Schauern und lassen die Akustik auch bei Regen gut erleben.",
+                "hu": "Fedezd fel a széksorok alatti fedett folyosókat; ezek az antik járatok tökéletes védelmet nyújtanak a záporok elől, és az akusztika az esőben is lenyűgöző marad.",
+                "ro": "Explorați coridoarele acoperite de sub rândurile de scaune; aceste pasaje antice oferă adăpost perfect împotriva averselor, iar acustica rămâne impresionantă chiar și pe ploaie.",
+                "en": "Explore the covered vaulted passages beneath the seating rows; these ancient corridors provide excellent shelter from showers while still letting you experience the acoustics."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermen",
+                "hu": "Fürdők",
+                "ro": "Terme",
+                "en": "Baths"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das Wasser durch die antiken Abflüsse fließt; die Thermenruinen sind bei Regen sehr rutschig, bewegen Sie sich langsam und nutzen Sie stabile Geländer.",
+                "hu": "Figyeld meg, hogyan vezetik el a vizet az antik csatornák; a fürdőromok esőben rendkívül csúszósak, haladj lassan és használd a stabil korlátokat a biztonságod érdekében.",
+                "ro": "Observați cum apa este evacuată prin canalele antice; ruinele termelor sunt extrem de alunecoase pe ploaie, deplasați-vă încet și folosiți balustradele stabile pentru siguranță.",
+                "en": "Watch how the water flows through the ancient drainage channels; the bath ruins are very slippery when wet, so move slowly and use stable railings whenever they are available."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Die unteren Arkaden bieten guten Schutz vor Wind und Wetter; verweilen Sie in den massiven Gewölben, bis der Regen nachlässt, bevor Sie den Rückweg zur Stadt antreten.",
+                "hu": "Az alsó árkádok jó védelmet nyújtanak a szél és az eső ellen; várj a masszív boltozatok alatt, amíg a zápor csendesedik, mielőtt visszaindulnál a modern város irányába.",
+                "ro": "Arcadele inferioare oferă o protecție bună împotriva vântului și ploii; așteptați sub bolțile masive până când ploaia se potolește înainte de a porni înapoi spre oraș.",
+                "en": "The lower arcades offer good protection from wind and rain; linger under the massive stone vaults until the shower eases before making your way back to the modern town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Sbeitla ist frisch und windig. Mittags wärmt die tiefstehende Sonne die gewaltigen Steine des Kapitols, ideal für Fotos ohne Hitzeflimmern. Am Nachmittag sinken die Temperaturen schnell, suchen Sie frühzeitig windgeschützte Bereiche auf. Da die Sonne gegen 17:00 Uhr untergeht, endet die Tour in der blauen Stunde bei klirrender Kälte.",
+            "hu": "A téli reggel Sbeitlában friss és szeles. Délben az alacsonyan járó nap melegíti a Kapitólium hatalmas köveit, ami ideális a vibráló hőség nélküli fotózáshoz. Délután a hőmérséklet gyorsan süllyed, keress szélvédett zugokat. Mivel a nap 17:00 körül nyugszik, a túra a kék órában, metsző hidegben ér véget az óváros falai között.",
+            "ro": "Dimineața de iarnă în Sbeitla este răcoroasă și vântoasă. La prânz, soarele jos încălzește pietrele masive ale Capitoliului, ideal pentru fotografii fără căldură toridă. După-amiaza temperaturile scad rapid, căutați zone ferite de vânt. Deoarece soarele apune în jur de 17:00, turul se încheie în ora albastră, sub un frig pătrunzător.",
+            "en": "The winter morning in Sbeitla is crisp and windy. At noon, the low sun warms the massive stones of the Capitol, perfect for photos without the summer haze. In the afternoon, temperatures drop quickly, so seek wind-sheltered areas. As the sun sets around 17:00, the tour ends in the blue hour amidst the biting cold of the steppe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bogen der Tetrarchie",
+                "hu": "Tetrarchia diadalíve",
+                "ro": "Arcul Tetrarhiei",
+                "en": "Arch of the Tetrarchy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Inschriften; der Wind weht hier oft stark durch den Bogen, daher ist eine winddichte Jacke und eine Mütze absolut notwendig.",
+                "hu": "Használd ki a tiszta téli fényt a feliratok fotózásához; a szél gyakran erősen fúj át a diadalív alatt, ezért egy szélálló dzseki és sapka elengedhetetlen a nézelődéshez.",
+                "ro": "Profită de lumina clară de iarnă pentru a fotografia inscripțiile; vântul suflă adesea cu putere prin arc, așa că o jachetă rezistentă la vânt și o căciulă sunt necesare.",
+                "en": "Take advantage of the clear winter light for detailed photos of the inscriptions; the wind often whips through the arch, so a windproof jacket and hat are essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Märtyrerkirche",
+                "hu": "Mártírok temploma",
+                "ro": "Biserica Martirilor",
+                "en": "Church of the Martyrs"
+              },
+              "tip_5lang": {
+                "de": "Die Mosaike leuchten im flachen Sonnenlicht besonders schön; die Steine strahlen Kälte ab, tragen Sie isolierende Schuhe, um bei der längeren Besichtigung keine kalten Füße zu bekommen.",
+                "hu": "A mozaikok különösen szépen ragyognak a lapos napsütésben; a kövek árasztják a hideget, viselj hőszigetelt cipőt, hogy a hosszabb nézelődés közben ne fázzon meg a lábad.",
+                "ro": "Mozaicurile strălucesc frumos în lumina slabă a soarelui; pietrele emană frig, purtați încălțăminte izolatoare pentru a nu vă îngheța picioarele în timpul vizitei prelungite.",
+                "en": "The mosaics glow beautifully in the low-angled sunlight; the stones radiate cold, so wear insulated footwear to keep your feet warm during the extended outdoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Ruinen von Sbeitla",
+                "hu": "Sbeitla római romjai",
+                "ro": "Ruinele Romane din Sbeitla",
+                "en": "Roman Ruins of Sbeitla"
+              },
+              "tip_5lang": {
+                "de": "Das Forum ist im Winter fast menschenleer; genießen Sie die Stille, aber bleiben Sie in Bewegung, da es im Schatten der massiven Tempelwände empfindlich kalt sein kann.",
+                "hu": "A fórum télen szinte teljesen kihalt; élvezd a csendet, de maradj mozgásban, mert a masszív templomfalak árnyékában érezhetően hidegebb van, mint a napsütötte részeken.",
+                "ro": "Forumul este aproape pustiu iarna; bucurați-vă de liniște, dar rămâneți în mișcare, deoarece în umbra zidurilor masive ale templelor poate fi considerabil mai frig.",
+                "en": "The forum is almost deserted in winter; enjoy the silence but keep moving, as it can be significantly colder in the shadows of the massive temple walls than in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater",
+                "hu": "Színház",
+                "ro": "Teatru",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie sich nicht direkt auf die eiskalten Steinstufen; ein kleines isolierendes Sitzkissen ist im Winter Gold wert, wenn Sie die Aussicht über das Tal genießen möchten.",
+                "hu": "Ne ülj közvetlenül a jéghideg kőlépcsőkre; egy kis hőszigetelő ülőpárna aranyat ér télen, ha szeretnéd hosszabban megcsodálni a völgyre nyíló kilátást a nézőtérről.",
+                "ro": "Nu vă așezați direct pe treptele de piatră înghețate; o mică pernă izolatoare pentru șezut valorează aur iarna dacă doriți să admirați priveliștea peste vale de sus.",
+                "en": "Avoid sitting directly on the freezing stone steps; a small insulating seat pad is worth its weight in gold during winter if you wish to linger and enjoy the valley view."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermen",
+                "hu": "Fürdők",
+                "ro": "Terme",
+                "en": "Baths"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich die einstige Wärme der Heizsysteme vor; die Ruinen liegen oft im Windschatten, nutzen Sie dies für eine kurze Aufwärmpause vor dem letzten Etappenziel.",
+                "hu": "Képzeld el az egykori fűtési rendszerek melegét; a fürdőromok gyakran szélvédett helyen fekszenek, használd ki ezt egy rövid pihenőre, mielőtt továbbindulnál a következő ponthoz.",
+                "ro": "Imaginați-vă căldura de odinioară a sistemelor de încălzire; ruinele bailor sunt adesea ferite de vânt, folosiți acest loc pentru o scurtă pauză înainte de ultima etapă.",
+                "en": "Imagine the ancient warmth of the hypocaust heating systems; the ruins often sit in a wind-shadow, so use this spot for a brief rest before heading to your final stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 17:00 Uhr, da es nach Sonnenuntergang schlagartig gefriert; das Licht auf den rötlichen Steinen ist kurz vor Schluss am stimmungsvollsten.",
+                "hu": "Fejezd be a látogatást 17:00 előtt, mert naplemente után hirtelen fagypont alá süllyed a hőmérséklet; a vöröses köveken megcsillanó fény zárás előtt a legszebb.",
+                "ro": "Încheiați vizita înainte de ora 17:00, deoarece îngheață brusc după apus; lumina pe pietrele roșiatice este cea mai spectaculoasă chiar înainte de închiderea sitului.",
+                "en": "Finish your visit before 17:00, as temperatures drop below freezing instantly after sunset; the light hitting the reddish stones is most atmospheric just before closing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggelt a fő római romkomplexumnál, majd tekerjen el a Jucundus-kápolnához.\n\nDélben az ősi fürdők és a fenséges, jó állapotban lévő színház várja.\n\nDélután fedezze fel a Mártírok templomát és a Tetrarchia hatalmas diadalívét.\n\nZárja az utat a lenyűgöző vízvezeték hídjánál a lágy esti fényben.",
         "ro": "Începeți dimineața la complexul principal de ruine romane înainte de a pedala spre Capela lui Jucundus.\n\nLa prânz ajungeți la băile antice și la teatrul maiestuos și bine conservat.\n\nDupă-amiaza, descoperiți Biserica Martirilor și mărețul Arc al Tetrarhiei.\n\nÎncheiați cursa la impresionantul pod al apeductului în lumina caldă a serii.",
         "en": "Begin your morning at the main Roman ruins complex before pedaling to the Chapel of Jucundus.\n\nMidday brings you to the ancient baths and the majestic, well-preserved theatre.\n\nIn the afternoon, discover the Church of the Martyrs and the grand Arch of the Tetrarchy.\n\nConclude your ride at the impressive aqueduct bridge in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad erfordert volle Konzentration auf den antiken Wegen. Am Morgen starten wir bei den Ruinen, wo der Boden schlammig sein kann. Mittags bieten die Thermen und das Theater kurze Unterstände. Am Nachmittag radeln wir vorsichtig zur Aquäduktbrücke, während der Regen die Landschaft in sattes Grün taucht. Ein nasses, aber Abenteuer.",
+            "hu": "Egy esős kerékpáros nap teljes koncentrációt igényel az antik utakon. Reggel a romoknál kezdünk, ahol a talaj sáros lehet. Délben a fürdők és a színház nyújtanak rövid menedéket a záporok elől. Délután óvatosan tekerünk a vízvezeték hídhoz, miközben az eső mélyzöldre festi a tájat. Vizes, de izgalmas kaland vár ránk.",
+            "ro": "O zi ploioasă pe bicicletă necesită concentrare maximă pe drumurile antice. Dimineața începem la ruine, unde solul poate fi noroios. La prânz, termele și teatrul oferă scurte adăposturi împotriva averselor. După-amiaza pedalăm cu grijă spre podul apeductului, în timp ce ploaia colorează peisajul în verde crud. O aventură umedă.",
+            "en": "A rainy day on a bike requires full concentration on the ancient paths. In the morning, we start at the ruins where the ground can get muddy. At noon, the baths and the theatre provide short shelters from the showers. In the afternoon, we pedal carefully to the aqueduct bridge as the rain turns the landscape lush. A wet but exciting adventure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Ruinen von Sbeitla",
+                "hu": "Sbeitla római romjai",
+                "ro": "Ruinele Romane din Sbeitla",
+                "en": "Roman Ruins of Sbeitla"
+              },
+              "tip_5lang": {
+                "de": "Die unebenen Steinplatten sind bei Regen extrem rutschig für Fahrradreifen; steigen Sie in Kurven lieber ab und schieben Sie Ihr Rad sicherheitshalber über das Forum.",
+                "hu": "Az egyenetlen kőlapok esőben rendkívül csúszósak a kerékpárgumik számára; a kanyarokban inkább szállj le, és biztonság kedvéért told a biciklit a fórum területén.",
+                "ro": "Plăcile de piatră inegale sunt extrem de alunecoase pentru anvelopele de bicicletă pe ploaie; coborâți de pe bicicletă în curbe și împingeți-o pentru siguranță pe forum.",
+                "en": "The uneven stone slabs are extremely slippery for bike tires when wet; consider dismounting in corners and pushing your bike through the forum area for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Jucundus-Kapelle",
+                "hu": "Jucundus-kápolna",
+                "ro": "Capela lui Jucundus",
+                "en": "Chapel of Jucundus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kapelle für eine kurze Verschnaufpause im Trockenen; prüfen Sie Ihre Bremsen, da die Nässe die Bremswirkung auf den glatten antiken Wegen deutlich reduziert.",
+                "hu": "Használd a kápolnát egy rövid pihenőre a szárazon; ellenőrizd a fékeket, mivel a nedvesség jelentősen csökkenti a fékhatást a sima antik köveken és utakon.",
+                "ro": "Folosiți capela pentru o scurtă pauză la uscat; verificați frânele, deoarece umezeala reduce semnificativ eficiența frânării pe pietrele antice netede din jur.",
+                "en": "Use the chapel for a short break in the dry; check your brakes, as moisture significantly reduces braking efficiency on the smooth ancient stones and paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermen",
+                "hu": "Fürdők",
+                "ro": "Terme",
+                "en": "Baths"
+              },
+              "tip_5lang": {
+                "de": "Die Wege rund um die Thermen können bei Regen schlammig werden; achten Sie auf eine niedrige Geschwindigkeit, um das Rutschen auf den lehmigen Pfaden zwischen den Ruinen zu vermeiden.",
+                "hu": "A fürdő körüli utak esőben sárossá válhatnak; tarts alacsony sebességet, hogy elkerüld a megcsúszást az agyagos ösvényeken a romok közötti közlekedés során.",
+                "ro": "Drumurile din jurul termelor pot deveni noroioase pe ploaie; mențineți o viteză redusă pentru a evita deraparea pe potecile argiloase dintre ruinele antice.",
+                "en": "The paths around the baths can become muddy in the rain; keep a low speed to avoid sliding on the clay-like trails between the ruins while cycling through."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater",
+                "hu": "Színház",
+                "ro": "Teatru",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Bühnengewölbe, um den Sattel trocken zu halten; die Aussicht vom oberen Rand ist bei Regen oft neblig, aber gerade dadurch sehr atmosphärisch.",
+                "hu": "Parkold a biciklit a színpadi boltozat alá, hogy a nyereg száraz maradjon; a kilátás a felső peremről esőben gyakran ködös, de éppen ettől válik igazán hangulatossá.",
+                "ro": "Parcați bicicleta sub bolta scenei pentru a păstra șaua uscată; priveliștea de la marginea superioară este adesea cețoasă pe ploaie, dar tocmai de aceea foarte atmosferică.",
+                "en": "Park your bike under the stage vaults to keep the saddle dry; the view from the top rim is often misty in the rain, making it look incredibly atmospheric and unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Märtyrerkirche",
+                "hu": "Mártírok temploma",
+                "ro": "Biserica Martirilor",
+                "en": "Church of the Martyrs"
+              },
+              "tip_5lang": {
+                "de": "Die Steine hier sind besonders uneben und nass; tragen Sie helle Kleidung oder Reflektoren, damit Sie im grauen Regenlicht für andere Besucher besser sichtbar sind.",
+                "hu": "A kövek itt különösen egyenetlenek és nedvesek; viselj világos ruhát vagy fényvisszaverőt, hogy a szürke esős fényben jobban látható legyél a többi látogató számára.",
+                "ro": "Pietrele de aici sunt deosebit de inegale și umede; purtați haine deschise la culoare sau reflectorizante pentru a fi mai vizibil pentru ceilalți vizitatori în lumina gri.",
+                "en": "The stones here are particularly uneven and wet; wear bright clothing or reflectors to ensure you are easily visible to other visitors in the grey rain light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bogen der Tetrarchie",
+                "hu": "Tetrarchia diadalíve",
+                "ro": "Arcul Tetrarhiei",
+                "en": "Arch of the Tetrarchy"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz unter dem Bogen an, um die Karte im Trockenen zu prüfen; die Fahrbahn direkt unter dem Monument ist sehr glatt, fahren Sie hier besonders vorsichtig.",
+                "hu": "Állj meg röviden a diadalív alatt, hogy szárazon ellenőrizd a térképet; az úttest közvetlenül a monumentum alatt nagyon sima, itt tekerj különösen nagy óvatossággal.",
+                "ro": "Opriți-vă scurt sub arc pentru a verifica harta la uscat; carosabilul direct sub monument este foarte neted, pedalați aici cu o precauție sporită pentru a nu aluneca.",
+                "en": "Stop briefly under the arch to check your map in the dry; the ground directly beneath the monument is very smooth, so cycle here with extra caution to avoid a fall."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktbrücke",
+                "hu": "Vízvezeték híd",
+                "ro": "Podul apeductului",
+                "en": "Aqueduct bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Brücke kann bei Regen aufweichen; vermeiden Sie die Ränder des Pfades, da diese instabil sein könnten, und genießen Sie den Blick auf das rauschende Wasser.",
+                "hu": "A hídhoz vezető út esőben felázhat; kerüld az ösvény széleit, mert instabilak lehetnek, és élvezd a kilátást a megáradt, zúgó vízre a kerékpárodról nézve.",
+                "ro": "Drumul spre pod se poate înmuia pe ploaie; evitați marginile potecii, deoarece pot fi instabile, și bucurați-vă de priveliștea apei curgătoare de pe bicicletă.",
+                "en": "The path to the bridge can become soft in the rain; avoid the edges of the trail as they might be unstable, and enjoy the view of the rushing water from your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Sbeitla bedeutet kalten Fahrtwind und klare Fernsichten. Am Morgen ist es frostig an den Ruinen, warme Handschuhe sind Pflicht. Mittags bietet die Wintersonne angenehme Wärme für die Fahrt zwischen den Tempeln. Am Nachmittag sinkt die Temperatur rapide, sobald die Sonne tiefer steht. Die Tour endet bei Einbruch der Dunkelheit um 17:00 Uhr.",
+            "hu": "A téli biciklizés Sbeitlában hideg menetszelet és tiszta kilátást jelent. Reggel fagyos az idő a romoknál, a meleg kesztyű kötelező. Délben a téli napsütés kellemes meleget ad a templomok közötti tekeréshez. Délután a hőmérséklet gyorsan süllyed, ahogy a nap alacsonyabbra kerül. A túra a sötétség beálltakor, 17:00 körül ér véget a fagyban.",
+            "ro": "Pedalatul pe timp de iarnă în Sbeitla înseamnă vânt rece și vizibilitate clară. Dimineața este ger la ruine, mănușile groase sunt obligatorii. La prânz, soarele de iarnă oferă o căldură plăcută pentru drumul dintre temple. După-amiaza temperatura scade rapid pe măsură ce soarele coboară. Turul se încheie la lăsarea întunericului, în jur de ora 17:00.",
+            "en": "Winter cycling in Sbeitla means cold wind-chill and crystal clear views. In the morning, it is frosty at the ruins, so warm gloves are mandatory. At noon, the winter sun provides pleasant warmth for the ride between the temples. In the afternoon, the temperature drops rapidly as the sun gets lower. The tour ends at nightfall around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römische Ruinen von Sbeitla",
+                "hu": "Sbeitla római romjai",
+                "ro": "Ruinele Romane din Sbeitla",
+                "en": "Roman Ruins of Sbeitla"
+              },
+              "tip_5lang": {
+                "de": "Der Fahrtwind ist auf dem offenen Forum eisig; tragen Sie eine winddichte Schicht über Ihrer Kleidung, um den Oberkörper beim Radeln zwischen den Ruinen warm zu halten.",
+                "hu": "A menetszél jeges a nyitott fórum területén; viselj szélálló réteget a ruházatod felett, hogy melegen tartsd a felsőtestedet a romok közötti tekerés során.",
+                "ro": "Vântul este înghețat pe forumul deschis; purtați un strat rezistent la vânt peste haine pentru a vă menține corpul cald în timp ce pedalați printre ruinele antice.",
+                "en": "The wind-chill is icy on the open forum; wear a windproof layer over your clothes to keep your core warm while cycling between the various ancient structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Jucundus-Kapelle",
+                "hu": "Jucundus-kápolna",
+                "ro": "Capela lui Jucundus",
+                "en": "Chapel of Jucundus"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz vor dem kalten Nordwind; nutzen Sie diesen Ort für ein warmes Getränk aus der Thermoskanne, bevor Sie die Fahrt durch das Gelände fortsetzen.",
+                "hu": "A kápolna védelmet nyújt a hideg északi szél ellen; használd ezt a helyet egy meleg ital elfogyasztására a termoszból, mielőtt folytatnád az utat a területen keresztül.",
+                "ro": "Capela oferă adăpost împotriva vântului rece de nord; folosiți acest loc pentru o băutură caldă din termos înainte de a continua drumul prin situl arheologic.",
+                "en": "The chapel provides good shelter from the cold northern wind; use this spot to enjoy a warm drink from a thermos before continuing your ride through the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermen",
+                "hu": "Fürdők",
+                "ro": "Terme",
+                "en": "Baths"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Steinen am frühen Morgen; fahren Sie besonders langsam in den schattigen Bereichen der Thermen, wo das Eis am längsten liegen bleibt.",
+                "hu": "Ügyelj a zúzmarára a köveken kora reggel; tekerj különösen lassan a fürdő árnyékos részein, ahol a jég és a hideg a legtovább megmarad a nap folyamán.",
+                "ro": "Aveți grijă la chiciura de pe pietre dimineața devreme; pedalați foarte încet în zonele umbrite ale termelor, unde gheața persistă cel mai mult timp în timpul zilei.",
+                "en": "Watch out for frost on the stones in the early morning; cycle particularly slowly in the shaded areas of the baths where ice remains the longest during the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater",
+                "hu": "Színház",
+                "ro": "Teatru",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das Theater fängt die Mittagssonne gut ein; nutzen Sie die sonnigen Ränge für eine kurze Aufwärmpause, da der Stein hier die Wärme der Strahlen ein wenig speichert.",
+                "hu": "A színház jól befogja a déli napsütést; használd a napos nézőteret egy rövid melegedő pihenőre, mivel a kő itt némileg elnyeli és megtartja a napsugarak melegét.",
+                "ro": "Teatrul captează bine soarele de la prânz; folosiți rândurile însorite pentru o scurtă pauză de încălzire, deoarece piatra reține puțin din căldura razelor solare.",
+                "en": "The theatre catches the midday sun well; use the sunny seating rows for a quick warming break, as the stone here absorbs and retains a bit of the solar heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Märtyrerkirche",
+                "hu": "Mártírok temploma",
+                "ro": "Biserica Martirilor",
+                "en": "Church of the Martyrs"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Ruinen; halten Sie die Kamera bereit, aber achten Sie beim Radeln auf Unebenheiten, die im Schatten schwerer erkennbar sind.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a romokra; tartsd készenlétben a kamerát, de tekerés közben ügyelj az árnyékban nehezebben észrevehető bukkanókra.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste ruine; țineți camera pregătită, dar aveți grijă la denivelările greu de observat în umbră în timp ce pedalați.",
+                "en": "The low winter sun casts long shadows over the ruins; keep your camera ready, but watch for bumps in the path that are harder to see in the shaded areas while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Bogen der Tetrarchie",
+                "hu": "Tetrarchia diadalíve",
+                "ro": "Arcul Tetrarhiei",
+                "en": "Arch of the Tetrarchy"
+              },
+              "tip_5lang": {
+                "de": "Der Bogen wirkt im Winterlicht besonders monumental; ziehen Sie eine zusätzliche Schicht an, da die Temperatur sinkt, sobald Sie diesen windigen Punkt erreichen.",
+                "hu": "A diadalív a téli fényben különösen monumentális; vegyél fel egy plusz réteget, mert a hőmérséklet érezhetően csökken, amint eléred ezt a szeles pontot az utad során.",
+                "ro": "Arcul pare deosebit de monumental în lumina de iarnă; puneți-vă un strat suplimentar de haine, deoarece temperatura scade imediat ce ajungeți în acest punct vântos.",
+                "en": "The arch looks particularly monumental in the winter light; put on an extra layer of clothing as the temperature drops as soon as you reach this windy vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquäduktbrücke",
+                "hu": "Vízvezeték híd",
+                "ro": "Podul apeductului",
+                "en": "Aqueduct bridge"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier zügig vor Sonnenuntergang; der Rückweg zum Hotel wird bei Dunkelheit und sinkenden Temperaturen sehr ungemütlich, Licht am Rad ist ein Muss.",
+                "hu": "Fejezd be a túrát itt még naplemente előtt; a visszatérés a szálláshoz sötétben és csökkenő hőmérséklet mellett kellemetlen lesz, a kerékpárlámpa használata kötelező.",
+                "ro": "Încheiați turul aici înainte de apus; drumul de întoarcere spre cazare pe întuneric și temperaturi în scădere va fi neplăcut, lumina la bicicletă este obligatorie.",
+                "en": "Finish your tour here well before sunset; the ride back to your accommodation in the dark and falling temperatures will be very uncomfortable, and bike lights are a must."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Vezessen reggel a Tetrarchia diadalívéhez, és kezdje meg az időutazást.\n\nDélben látogasson el az ősi színházba és az egykori Sufetula központi római romjaihoz.\n\nDélután csodálja meg a monumentális templomkomplexum hatalmas oszlopait.\n\nPihenjen meg az este végén a hatalmas amfiteátrum történelmi kövei között.",
         "ro": "Conduceți dimineața la Arcul Tetrarhiei pentru a vă începe călătoria în timp.\n\nLa prânz, vizitați teatrul antic și ruinele romane centrale ale vechiului Sufetula.\n\nDupă-amiaza, admirați coloanele masive ale complexului monumental de temple.\n\nRelaxați-vă la finalul serii printre pietrele istorice ale marelui amfiteatru.",
         "en": "Drive to the Arch of the Tetrarchy in the morning to start your journey through time.\n\nBy midday, visit the ancient theatre and the central Roman ruins of old Sufetula.\n\nIn the afternoon, marvel at the massive columns of the monumental temple complex.\n\nRelax at the end of the evening among the historical stones of the grand amphitheatre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Sbeitla lässt sich am besten mit dem Auto erkunden. Am Morgen fahren wir zum Bogen, wobei die Scheibenwischer den Blick auf die Antike freigeben. Mittags parken wir nah an den Ruinen, um die Wege im Regen kurz zu halten. Nachmittags besuchen wir die Tempel, während das Prasseln auf dem Autodach eine gemütliche Atmosphäre schafft. Sicher und trocken.",
+            "hu": "Egy esős nap Sbeitlában legkényelmesebben autóval fedezhető fel. Reggel a diadalívhez hajtunk, ahol az ablaktörlők mögül tárul elénk az antikvitás. Délben a romok közelében parkolunk, hogy minimalizáljuk az esőben töltött időt. Délután a templomokat látogatjuk meg, miközben az autó tetején kopogó eső különleges hangulatot áraszt. Biztonságos és száraz.",
+            "ro": "O zi ploioasă în Sbeitla este cel mai bine explorată cu mașina. Dimineața conducem spre arc, unde ștergătoarele dezvăluie antichitatea. La prânz parcăm aproape de ruine pentru a scurta drumul prin ploaie. După-amiaza vizităm templele, în timp ce ropotul ploii pe plafonul mașinii creează o atmosferă aparte. Sigur și uscat în interior.",
+            "en": "A rainy day in Sbeitla is best explored by car. In the morning, we drive to the arch where the wipers reveal the ancient world. At noon, we park close to the ruins to keep walking distances in the rain short. In the afternoon, we visit the temples while the rain drumming on the car roof creates a cozy atmosphere. Safe and dry throughout."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bogen der Tetrarchie",
+                "hu": "Tetrarchia diadalíve",
+                "ro": "Arcul Tetrarhiei",
+                "en": "Arch of the Tetrarchy"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; die Sicht kann durch starken Regen eingeschränkt sein, schalten Sie das Abblendlicht ein, um für andere Autofahrer besser sichtbar zu sein.",
+                "hu": "Parkolj óvatosan az út szélén; az erős eső korlátozhatja a látási viszonyokat, kapcsold be a tompított fényszórót, hogy jobban látható legyél a többi autós számára.",
+                "ro": "Parcați cu atenție pe marginea drumului; vizibilitatea poate fi limitată de ploaia puternică, aprindeți luminile de întâlnire pentru a fi mai vizibil pentru ceilalți șoferi.",
+                "en": "Park carefully on the roadside; heavy rain can limit visibility significantly, so keep your low beams on to ensure you are clearly visible to other drivers nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater",
+                "hu": "Színház",
+                "ro": "Teatru",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten in der Nähe des Eingangs; nutzen Sie den kurzen Weg, um schnell in die überdachten Bereiche des Theaters zu gelangen und so dem Regen zu entkommen.",
+                "hu": "A bejárat közelében vannak parkolási lehetőségek; használd a rövid utat, hogy gyorsan elérd a színház fedett részeit, és így könnyen elkerülhesd a közvetlen záport.",
+                "ro": "Există locuri de parcare în apropierea intrării; folosiți drumul scurt pentru a ajunge rapid în zonele acoperite ale teatrului și a scăpa astfel de ploaia directă.",
+                "en": "Parking is available close to the entrance; take advantage of the short walk to quickly reach the theatre's covered areas and escape the heavy downpour easily."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Ruinen von Sbeitla",
+                "hu": "Sbeitla római romjai",
+                "ro": "Ruinele Romane din Sbeitla",
+                "en": "Roman Ruins of Sbeitla"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher in den unbefestigten Parkbereichen, die sich bei Regen mit Wasser füllen; bleiben Sie auf den befestigten Wegen, um nicht im Schlamm steckenzubleiben.",
+                "hu": "Ügyelj a kátyúkra a burkolatlan parkolóhelyeken, amelyek esőben megtelnek vízzel; maradj a kövezett utakon, hogy elkerüld az elakadást a felázott, sáros talajon.",
+                "ro": "Aveți grijă la gropile din zonele de parcare neasfaltate care se umplu cu apă; rămâneți pe drumurile pavate pentru a evita să rămâneți blocat în noroiul de lângă sit.",
+                "en": "Watch out for potholes in the unpaved parking areas that fill with water; stay on the paved surfaces to avoid getting stuck in the mud during heavy rain sessions."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templu",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Tempel im Regen; die Steine wirken dunkler und imposanter, nutzen Sie Ihr Auto als warmen Rückzugsort für eine Pause zwischen den Besichtigungen.",
+                "hu": "Csodáld meg a templomokat az esőben; a kövek sötétebbnek és impozánsabbnak tűnnek ilyenkor, használd az autót meleg menedékként a két látnivaló közötti szünetben.",
+                "ro": "Admirați templele în ploaie; pietrele par mai întunecate și mai impunătoare, folosiți mașina ca un refugiu cald pentru o pauză între vizitarea diferitelor ruine antice.",
+                "en": "Admire the temples in the rain; the stones look darker and more imposing, so use your car as a warm retreat for a break between visiting the various ancient sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen rutschig sein; parken Sie so, dass Sie leicht wieder losfahren können, und nehmen Sie einen Schirm für den Weg vom Auto zum Monument mit.",
+                "hu": "A parkoló esőben csúszós lehet; úgy állj meg, hogy könnyen el tudj indulni, és vigyél magaddal esernyőt az autó és a monumentum közötti rövid gyalogos útra.",
+                "ro": "Parcarea poate fi alunecoasă pe ploaie; parcați astfel încât să puteți pleca ușor și luați o umbrelă pentru drumul scurt de la mașină până la monumentul antic.",
+                "en": "The parking area can be slippery in the rain; park in a way that allows for easy exit, and bring an umbrella for the short walk from your vehicle to the monument."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort im Auto macht den Besuch von Sbeitla auch bei Frost angenehm. Am Morgen starten wir beheizt am Bogen der Tetrarchie. Mittags nutzen wir den Wagen für schnelle Wechsel zwischen den weitläufigen Ruinenfeldern. Am Nachmittag sinkt die Temperatur merklich ab, genießen Sie die Aussicht aus dem warmen Cockpit. Die Tour endet pünktlich zum frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli kényelem az autóban Sbeitla látogatását fagyban is kellemessé teszi. Reggel fűtött utastérben indulunk a Tetrarchia diadalívétől. Délben a kocsit használjuk a gyors váltáshoz a kiterjedt rommezők között. Délután a hőmérséklet érezhetően csökken, élvezd a kilátást a meleg autóból. A túra pontosan a korai, 17:00-kor esedékes naplementekor ér véget.",
+            "ro": "Confortul iernii în mașină face vizita la Sbeitla plăcută chiar și pe ger. Dimineața pornim cu căldură în mașină de la Arcul Tetrarhiei. La prânz folosim mașina pentru deplasări rapide între câmpurile vaste de ruine. După-amiaza temperatura scade vizibil, bucurați-vă de priveliște din interiorul cald. Turul se încheie exact la apusul devreme de la ora 17:00.",
+            "en": "Winter comfort in the car makes visiting Sbeitla pleasant even during a frost. In the morning, we start with the heater on at the Arch of the Tetrarchy. At noon, we use the vehicle for quick transitions between the sprawling ruin fields. In the afternoon, the temperature drops noticeably, so enjoy the views from the warm cockpit. The tour ends exactly at the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bogen der Tetrarchie",
+                "hu": "Tetrarchia diadalíve",
+                "ro": "Arcul Tetrarhiei",
+                "en": "Arch of the Tetrarchy"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist perfekt für Fotos; lassen Sie den Motor nicht unnötig laufen, während Sie für Bilder aussteigen, da die Kälte die Batterie belasten kann.",
+                "hu": "A tiszta téli fény tökéletes a fotózáshoz; ne járasd feleslegesen a motort, amíg kiszállsz képeket készíteni, mivel a hideg alapból is megterhelheti az autó akkumulátorát.",
+                "ro": "Lumina clară de iarnă este perfectă pentru fotografii; nu lăsați motorul pornit inutil cât timp coborâți pentru poze, deoarece frigul poate solicita bateria mașinii.",
+                "en": "The clear winter light is perfect for photography; don't leave the engine idling unnecessarily while you step out for photos, as the cold already puts stress on the battery."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater",
+                "hu": "Színház",
+                "ro": "Teatru",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Rundgang im kalten Theater; die Akustik ist im Winter bei der klaren, trockenen Luft besonders beeindruckend und weit tragend.",
+                "hu": "Használd az ülésfűtést a hideg színházi körséta után; az akusztika télen, a tiszta és száraz levegőben különösen lenyűgöző és messzire ható az ókori nézőtéren.",
+                "ro": "Folosiți încălzirea în scaune după turul prin teatrul rece; acustica este deosebit de impresionantă iarna datorită aerului clar și uscat, sunetul propagându-se mai bine.",
+                "en": "Use your seat heaters after walking through the cold theatre; the acoustics are particularly impressive in winter due to the clear, dry air carrying the sound further."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Ruinen von Sbeitla",
+                "hu": "Sbeitla római romjai",
+                "ro": "Ruinele Romane din Sbeitla",
+                "en": "Roman Ruins of Sbeitla"
+              },
+              "tip_5lang": {
+                "de": "Die Parkflächen können am Morgen gefroren sein; fahren Sie langsam an und achten Sie auf Eisplatten, besonders in den Bereichen, die im Schatten der hohen Ruinen liegen.",
+                "hu": "A parkolófelületek reggelente fagyottak lehetnek; indulj el lassan és ügyelj a jégfoltokra, különösen a magas romok árnyékában fekvő területeken a siten belül.",
+                "ro": "Zonele de parcare pot fi înghețate dimineața; porniți încet și aveți grijă la porțiunile cu gheață, mai ales în zonele aflate în umbra ruinelor înalte de pe forum.",
+                "en": "The parking surfaces can be frozen in the mornings; accelerate slowly and watch for ice patches, especially in areas that lie in the shadows of the tall ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templu",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Kapitol durch das Autofenster; die rötlichen Steine leuchten in der tiefen Wintersonne besonders intensiv, ein Traum für jeden Fotografen.",
+                "hu": "Élvezd a Kapitólium látványát az autó ablakán keresztül; a vöröses kövek különösen intenzíven fénylenek az alacsony téli napon, ami minden fotós számára igazi álom.",
+                "ro": "Bucurați-vă de priveliștea Capitoliului prin geamul mașinii; pietrele roșiatice strălucesc intens în soarele jos de iarnă, fiind un vis pentru orice pasionat de fotografie.",
+                "en": "Enjoy the view of the Capitol through the car window; the reddish stones glow intensely in the low winter sun, making it a dream scene for any photographer visiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Heizung rechtzeitig hoch, bevor Sie den Rückweg antreten; nach 17:00 Uhr sinkt die Temperatur rapide, stellen Sie sicher, dass Ihre Scheiben eisfrei sind.",
+                "hu": "Kapcsold fel a fűtést időben, mielőtt elindulnál visszafelé; 17:00 után a hőmérséklet gyorsan süllyed, győződj meg róla, hogy az autó ablakai jégmentesek maradnak.",
+                "ro": "Porniți căldura din timp înainte de a pleca înapoi; după ora 17:00 temperatura scade rapid, asigurați-vă că geamurile mașinii sunt libere de gheață pentru vizibilitate.",
+                "en": "Turn up the heater in time before heading back; after 17:00 the temperature drops rapidly, so ensure your car windows are clear of ice for a safe drive to town."
+              }
+            }
+          ]
+        }
       }
     }
   }

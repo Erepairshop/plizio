@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a napot egy békés sétával a La Sereine patak csörgedező vize mentén, amely megadja a nyugodt alaphangot, mielőtt a nyüzsgő Ze Complex felé venné az irányt egy kis élénk beltéri szórakozásra.\nMidday: Ahogy a nap magasabbra hág, váltson a családi komplexum élénk energiájáról a csendes természetvédelmi területekre, és érje el a Lac de la Forestière-t egy árnyékos, erdei menedékért.\nAfternoon: A délutánt egy festői tó-ugráló kalandnak szenteljük, ahol a Lac de l'Île Paul gyönyörűen megőrzött partjai és a Lac du Drapeau csendes kiterjedése mellett sétálhat el a friss levegőn.\nEvening: Fejezze be gyalogos utazását a Lac des Pêcheurs-nél, ahol az aranyóra hosszú árnyékokat vet, és a helyi horgászok csendben tekerik fel zsinórjaikat, békés befejezést kínálva aktív napjának.",
         "ro": "Morning: Începeți-vă ziua cu o plimbare pașnică de-a lungul apelor pârâului La Sereine, stabilind un ton relaxant înainte de a vă îndrepta spre complexul plin de viață Ze pentru divertisment în interior.\nMidday: Pe măsură ce soarele urcă, faceți tranziția de la energia vibrantă a complexului familial spre rezervațiile naturale liniștite, ajungând la Lac de la Forestière pentru o retragere umbrită în pădure.\nAfternoon: După-amiaza este dedicată unei aventuri pitorești din lac în lac, unde vă veți plimba pe lângă țărmurile frumos conservate ale Lacului de l'Île Paul și întinderea liniștită a Lacului du Drapeau.\nEvening: Încheiați-vă călătoria pe jos la Lac des Pêcheurs, unde ora de aur aruncă umbre lungi și pescarii locali își trag liniștiți undițele, oferind un final senin pentru ziua dumneavoastră activă în aer liber.",
         "en": "Morning: Start your day with a peaceful walk along the trickling waters of La Sereine Stream, setting a relaxing tone before heading towards the bustling Ze Complex for some lively indoor entertainment.\nMidday: As the sun climbs, transition from the vibrant energy of the family complex towards the tranquil nature reserves, reaching Lac de la Forestière for a shaded, woodland retreat.\nAfternoon: The afternoon is dedicated to a scenic lake-hopping adventure, where you will wander past the beautifully preserved shores of Lac de l'Île Paul and the quiet expanse of Lac du Drapeau.\nEvening: Conclude your walking journey at Lac des Pêcheurs, where the golden hour casts long shadows and local fishermen quietly reel in their lines, offering a serene end to your active day out."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am La Sereine, wo der Regen für eine friedliche Stimmung sorgt. Mittags bietet der Ze Complex Schutz und Familienunterhaltung im Trockenen. Nachmittags spazieren Sie zwischen den Seen; wasserfeste Schuhe sind wegen matschiger Wege ratsam. Beenden Sie den Tag am Lac des Pêcheurs bei sanftem Nieselregen.",
+            "hu": "Kezdje esős reggelét a La Sereine pataknál, ahol az eső cseppjei békés hangulatot keltenek. Délben húzódjon be a Ze Complex fedett terébe, elkerülve a záporokat. Délután tegyen egy sétát a tavak között; vízálló cipő javasolt a sáros ösvények miatt. Az estét a Lac des Pêcheurs partján zárja, élvezve a nyugodt szitálást.",
+            "ro": "Începeți dimineața ploioasă la pârâul La Sereine, unde ploaia creează o atmosferă liniștită. La prânz, adăpostiți-vă la Ze Complex pentru activități de interior. După-amiaza, plimbați-vă între lacurile locale; luați încălțăminte impermeabilă pentru potecile noroioase. Încheiați ziua la Lac des Pêcheurs sub o burniță blândă de seară.",
+            "en": "Start your rainy morning near La Sereine, where the sound of rain adds to the peaceful nature. By noon, head indoors to Ze Complex to escape the showers and enjoy family activities. Spend the afternoon walking between the local lakes, bringing an umbrella as the trails might be muddy. Finish your day at Lac des Pêcheurs under the gentle evening drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Sereine Stream",
+                "hu": "La Sereine Stream",
+                "ro": "La Sereine Stream",
+                "en": "La Sereine Stream"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den vom Regen angeschwollenen Bach, aber tragen Sie wasserfeste Schuhe, da die Ufer schnell matschig werden.",
+                "hu": "Figyelje meg a megduzzadt patakot, de viseljen vízálló cipőt, mert a füves part hamar sárossá és vizessé válik az esőben.",
+                "ro": "Admirați pârâul umflat de ploaie, dar purtați cizme impermeabile, deoarece malurile ierboase devin rapid noroioase.",
+                "en": "Admire the swelling stream from the rain, but wear waterproof boots as the grassy banks quickly become waterlogged and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Ze Complex",
+                "hu": "Ze Complex",
+                "ro": "Ze Complex",
+                "en": "Ze Complex"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Zentrum ist der perfekte Zufluchtsort vor dem Regen und bietet Familienunterhaltung im Trockenen zur Erholung.",
+                "hu": "Ez a fedett központ tökéletes menedék az eső elől, ahol családi játékokkal töltődhet fel a délutáni programok előtt.",
+                "ro": "Acest centru acoperit este un refugiu perfect din calea ploii, oferind jocuri și un mediu uscat pentru a vă reîncărca.",
+                "en": "This indoor center is a perfect refuge from the rain, offering family games and a dry environment to recharge for the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Forestière",
+                "hu": "Lac de la Forestière",
+                "ro": "Lac de la Forestière",
+                "en": "Lac de la Forestière"
+              },
+              "tip_5lang": {
+                "de": "Der Regen erzeugt schöne Wellen auf dem See; bleiben Sie auf den befestigten Wegen, um nicht im Schlamm auszurutschen.",
+                "hu": "Az esőcseppek gyönyörű mintákat rajzolnak a tóra; maradjon a kiépített ösvényeken, hogy elkerülje a sárban való elcsúszást.",
+                "ro": "Ploaia creează valuri frumoase pe lac; rămâneți pe secțiunile pavate ale potecii pentru a evita alunecarea în noroi.",
+                "en": "The rain creates beautiful ripples on the lake surface; stick to the paved sections of the path to avoid slipping in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de l'Île Paul",
+                "hu": "Lac de l'Île Paul",
+                "ro": "Lac de l'Île Paul",
+                "en": "Lac de l'Île Paul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle Seenlandschaft und bringen Sie einen sturmfesten Regenschirm mit, da das Gelände sehr offen ist.",
+                "hu": "Élvezze a szigetes tó borongós hangulatát; hozzon magával szélálló esernyőt, mert a nyílt vízfelületnél gyakran fúj a szél.",
+                "ro": "Bucurați-vă de peisajul melancolic al lacului cu insulă, purtând o umbrelă rezistentă la vânt, zona fiind deschisă.",
+                "en": "Enjoy the moody, rain-swept landscape of the island lake, carrying a sturdy windproof umbrella as the open water area is exposed."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Drapeau",
+                "hu": "Lac du Drapeau",
+                "ro": "Lac du Drapeau",
+                "en": "Lac du Drapeau"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel am nebligen See und stellen Sie sicher, dass Ihre äußere Kleidungsschicht absolut wasserdicht ist.",
+                "hu": "Figyelje meg a ködös tó körül menedéket kereső madarakat, és gondoskodjon arról, hogy a felsőruházata teljesen vízálló legyen.",
+                "ro": "Priviți păsările care se adăpostesc în jurul lacului cețos și asigurați-vă că stratul exterior de haine este impermeabil.",
+                "en": "Watch the local wildlife taking shelter around the misty lake, and make sure your outer layers are fully waterproof."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Der See ist im Regen ruhig; suchen Sie sich einen geschützten Platz unter den großen Bäumen für den Abendnieselregen.",
+                "hu": "A horgásztó csendes esőben; keressen egy védett helyet a nagy fák alatt, hogy biztonságban nézhesse az esti szitálást.",
+                "ro": "Lacul pescarilor este liniștit pe ploaie; găsiți un loc ferit sub copacii mari pentru a privi burnița de seară în siguranță.",
+                "en": "The fishing lake is quiet in the rain; find a sheltered spot under the large trees to watch the falling evening drizzle safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen am La Sereine und packen Sie sich warm gegen die Kälte ein. Mittags wärmen Sie sich bei Aktivitäten im Ze Complex auf. Der Nachmittag eignet sich für einen flotten Spaziergang an den Seen. Da es bereits gegen 17:00 Uhr dunkel wird, beenden Sie Ihre Tour am Lac des Pêcheurs in der frühen Dämmerung.",
+            "hu": "Kezdje téli sétáját a La Sereine pataknál, jól felöltözve a csípős hideg ellen. Délben melegedjen fel a Ze Complex beltéri programjain. A délután tökéletes egy frissítő tóparti sétára, de haladjon tempósan. A korai, 17:00 óra körüli sötétedés miatt a napot a Lac des Pêcheurs partján fejezze be az alkonyatban.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare pe lângă La Sereine, îmbrăcați gros. La prânz, încălziți-vă în interior la Ze Complex. După-amiaza este ideală pentru o scurtă plimbare pe malul lacurilor, dar păstrați un ritm alert. Se întunecă devreme, pe la 17:00, așa că încheiați traseul la Lac des Pêcheurs la lăsarea serii.",
+            "en": "Begin your winter morning with a brisk walk along La Sereine, wrapping up warm against the chill. By noon, warm up inside Ze Complex with indoor activities. The afternoon is perfect for a crisp lakeside stroll at the various lakes, but keep a brisk pace. Evening falls early around 17:00, so wrap up your tour at Lac des Pêcheurs as dusk settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Sereine Stream",
+                "hu": "La Sereine Stream",
+                "ro": "La Sereine Stream",
+                "en": "La Sereine Stream"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht diesen Spaziergang erfrischend; tragen Sie Schal und Handschuhe gegen den beißenden kalten Wind.",
+                "hu": "A fagyos reggeli levegő frissítővé teszi a sétát; viseljen meleg sálat és kesztyűt, hogy védekezzen a csípős hideg ellen.",
+                "ro": "Aerul rece de iarnă face plimbarea revigorantă; purtați fular și mănuși calde pentru a vă proteja de vântul tăios.",
+                "en": "The crisp winter air makes this morning walk refreshing; wear a warm scarf and gloves to keep the biting cold wind out."
+              }
+            },
+            {
+              "name": {
+                "de": "Ze Complex",
+                "hu": "Ze Complex",
+                "ro": "Ze Complex",
+                "en": "Ze Complex"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier bei aktiven Indoor-Spielen richtig auf, bevor Sie wieder in die eiskalten Nachmittagstemperaturen hinausgehen.",
+                "hu": "Melegedjen fel alaposan ebben a létesítményben néhány aktív beltéri játékkal, mielőtt visszatérne a fagyos délutáni levegőre.",
+                "ro": "Încălziți-vă bine în această facilitate cu activități de interior înainte de a ieși din nou în temperaturile de îngheț ale după-amiezii.",
+                "en": "Warm up thoroughly inside this facility with some active indoor fun before heading back out into the freezing afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Forestière",
+                "hu": "Lac de la Forestière",
+                "ro": "Lac de la Forestière",
+                "en": "Lac de la Forestière"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Uferränder sind sehr fotogen, aber gehen Sie vorsichtig, da die Wege mit rutschigem Frost bedeckt sein können.",
+                "hu": "A tó befagyott szélei nagyon fotogének, de lépkedjen óvatosan, mert az ösvényeket csúszós reggeli zúzmara boríthatja.",
+                "ro": "Marginile înghețate ale lacului sunt fotogenice, dar mergeți cu grijă, deoarece potecile pot fi acoperite de brumă alunecoasă.",
+                "en": "The frozen edges of the lake are highly photogenic, but walk carefully as the paths can be covered in slippery morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de l'Île Paul",
+                "hu": "Lac de l'Île Paul",
+                "ro": "Lac de l'Île Paul",
+                "en": "Lac de l'Île Paul"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die karge Winterlandschaft; tragen Sie mehrere Thermoschichten, um den eisigen Wind vom Wasser her abzuwehren.",
+                "hu": "Tapasztalja meg a táj zord téli szépségét; öltözzön több réteg termo ruházatba, hogy kizárja a víz felől fújó jeges szelet.",
+                "ro": "Experimentați frumusețea aspră a iernii; îmbrăcați-vă în mai multe straturi termice pentru a bloca briza înghețată de pe apă.",
+                "en": "Experience the stark winter beauty of the landscape; dress in multiple thermal layers to block the icy breeze coming off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Drapeau",
+                "hu": "Lac du Drapeau",
+                "ro": "Lac du Drapeau",
+                "en": "Lac du Drapeau"
+              },
+              "tip_5lang": {
+                "de": "Wenn die Sonne tiefer steht, leuchtet der See; halten Sie ein zügiges Gehtempo bei, um Ihre Körpertemperatur oben zu halten.",
+                "hu": "Ahogy a nap ereszkedni kezd, a tó gyönyörűen ragyog; tartson tempós sétát, hogy megőrizze a testhőmérsékletét a hidegben.",
+                "ro": "Pe măsură ce soarele coboară, lacul strălucește frumos; mențineți un ritm de mers alert pentru a vă menține temperatura corpului.",
+                "en": "As the sun begins to lower, the lake glows beautifully; maintain a brisk walking pace to keep your core body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie kurz vor 17:00 Uhr hier für den frühen Sonnenuntergang und halten Sie eine Taschenlampe für den dunklen Rückweg bereit.",
+                "hu": "Érkezzen ide 17:00 óra előtt a korai téli naplemente megtekintéséhez, és tartson magánál zseblámpát a sötét visszautra.",
+                "ro": "Ajungeți aici înainte de 17:00 pentru a prinde apusul timpuriu de iarnă, având o lanternă pentru întoarcerea pe întuneric.",
+                "en": "Arrive here just before 17:00 to catch the early winter sunset, keeping a flashlight handy for the dark walk back to town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Morning: Tekerjen el a La Sereine patak szelíd áramlataitól, és tegyen egy gyors, energikus megállót a Ze Complexnél, dinamikus tempót diktálva a Beynost-i átfogó kétkerekű túrához.\nMidday: Kerékpározzon a hatalmas Miribel-Jonage park felé, és érje el a távoli Lac de la Droite-ot egy rövid pihenőre, mielőtt folytatná festői útját az egymáshoz közeli természetvédelmi területek körül.\nAfternoon: Töltse a délutánt azzal, hogy könnyedén siklik a Lac des Pêcheurs, a Lac du Drapeau és a Lac de l'Île Paul között, élvezve a víz felől érkező hűvös szellőt, miközben a sík ösvényeken halad.\nEvening: Fejezze be a hosszú kerékpáros kört úgy, hogy maga mögött hagyja a tavakat, és elteker a lenyűgöző Villa Le Clos-hoz, megcsodálva az építészeti örökséget, miközben a nap lágyan lenyugszik a táj felett.",
         "ro": "Morning: Porniți cu bicicleta de la curenții blânzi ai pârâului La Sereine și faceți o oprire rapidă și energică la Complexul Ze, stabilind un ritm dinamic pentru turul dumneavoastră complet pe două roți.\nMidday: Ciclati spre vastul parc Miribel-Jonage, ajungând la îndepărtatul Lac de la Droite pentru o scurtă pauză, înainte de a continua plimbarea pitorească în jurul rezervațiilor naturale strâns grupate.\nAfternoon: Petreceți-vă după-amiaza alunecând fără efort între Lac des Pêcheurs, Lac du Drapeau și Lac de l'Île Paul, bucurându-vă de briza răcoroasă a apei în timp ce traversați traseele plate și bine întreținute.\nEvening: Terminați-vă bucla lungă de ciclism lăsând lacurile în urmă și mergând până la impresionanta Villa Le Clos, admirând moștenirea arhitecturală în timp ce soarele apune ușor peste comuna franceză.",
         "en": "Morning: Pedal away from the gentle currents of La Sereine Stream and make a quick, energetic stop at the Ze Complex, setting a dynamic pace for your comprehensive two-wheeled tour of Beynost.\nMidday: Cycle towards the vast Miribel-Jonage park, reaching the remote Lac de la Droite for a quick break before continuing your scenic ride around the closely clustered nature reserves and lakes.\nAfternoon: Spend your afternoon gliding effortlessly between Lac des Pêcheurs, Lac du Drapeau, and Lac de l'Île Paul, enjoying the cool breeze coming off the water as you traverse the flat, well-kept trails.\nEvening: Finish your long cycling loop by leaving the lakes behind and riding up to the impressive Villa Le Clos, admiring the architectural heritage as the sun sets gently over the tranquil French commune."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre regnerische Radtour am La Sereine und achten Sie auf rutschige Wege. Entfliehen Sie den Schauern am Vormittag im Ze Complex. Nachmittags radeln Sie an den Seen vorbei; nutzen Sie Schutzbleche und auffällige Regenkleidung. Beenden Sie die Tour vorsichtig an der Villa Le Clos bei abendlicher Nässe.",
+            "hu": "Kezdje az esős bringázást a La Sereine mentén, vigyázva a csúszós felületekre. A késő délelőtti záporok elől húzódjon be a Ze Complexbe. Délután tekerjen el a tavak mellett; fontos a sárvédő és a jól láthatósági esőkabát. Az utat óvatosan fejezze be a Villa Le Clos-nál, mert az esti esőben az utak csúsznak.",
+            "ro": "Începeți traseul de bicicletă pe ploaie de-a lungul La Sereine, având grijă la suprafețele alunecoase. Adăpostiți-vă de averse la Ze Complex. După-amiaza, pedalați pe lângă lacuri; asigurați-vă că aveți apărători de noroi și pelerină vizibilă. Încheiați cu grijă la Villa Le Clos, drumurile fiind alunecoase seara.",
+            "en": "Start your wet cycling trip along La Sereine, taking care on slick surfaces. Escape the late morning downpours at Ze Complex. In the afternoon, pedal past the series of lakes; ensure your bike has mudguards and you wear high-visibility waterproofs. End your ride cautiously at Villa Le Clos as the evening rain makes the roads slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Sereine Stream",
+                "hu": "La Sereine Stream",
+                "ro": "La Sereine Stream",
+                "en": "La Sereine Stream"
+              },
+              "tip_5lang": {
+                "de": "Der Weg am Bach wird schlammig; nutzen Sie breitere Reifen und bremsen Sie sanft auf dem nassen Laub.",
+                "hu": "A patak menti út nagyon sárossá válik; használjon szélesebb gumikat, és fékezzen óvatosan a nedves faleveleken.",
+                "ro": "Poteca de lângă pârâu devine foarte noroioasă; folosiți anvelope mai late și frânați ușor pentru a nu derapa pe frunzele umede.",
+                "en": "The path alongside the stream gets very muddy; use wider tires if possible and break gently to avoid skidding in the wet leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Ze Complex",
+                "hu": "Ze Complex",
+                "ro": "Ze Complex",
+                "en": "Ze Complex"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad unter dem Vordach ab und trocknen Sie sich bei der Indoor-Unterhaltung sicher vor dem Sturm ab.",
+                "hu": "Zárja le a kerékpárt a bejárat előtetője alatt, és térjen be megszáradni, amíg az eső eláll a benti szórakozás közben.",
+                "ro": "Legați bicicleta sub copertina intrării și intrați să vă uscați, bucurându-vă de distracția din interior, departe de furtună.",
+                "en": "Lock your bike under the entrance canopy and step inside to dry off while enjoying the indoor entertainment safely out of the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Droite",
+                "hu": "Lac de la Droite",
+                "ro": "Lac de la Droite",
+                "en": "Lac de la Droite"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da der Regen die Sicht einschränkt und sich auf unbefestigten Abschnitten tiefe Schlammpfützen bilden.",
+                "hu": "Lassan tekerjen a tó körül, mert az eső rontja a látási viszonyokat, és a földutakon mély, sáros tócsák lehetnek.",
+                "ro": "Pedalați încet în jurul lacului, deoarece ploaia reduce vizibilitatea, iar zonele nepavate pot avea bălți noroioase profunde.",
+                "en": "Ride slowly around this lake, as rain reduces visibility and the unpaved sections can hold unexpectedly deep, muddy puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Der Regen hält die Massen fern und bietet Ruhe; tragen Sie eine Brille mit wasserabweisender Beschichtung für gute Sicht.",
+                "hu": "Az eső távol tartja a tömeget, így nyugodt a kilátás; viseljen vízlepergető bevonatú szemüveget a jó látás érdekében.",
+                "ro": "Ploaia ține aglomerația la distanță; purtați ochelari cu strat hidrofob pentru a menține o vizibilitate bună pe traseu.",
+                "en": "The rain keeps the crowds away, giving you a peaceful view; wear glasses with a rain-repellent coating to maintain good vision."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Drapeau",
+                "hu": "Lac du Drapeau",
+                "ro": "Lac du Drapeau",
+                "en": "Lac du Drapeau"
+              },
+              "tip_5lang": {
+                "de": "Ein nebliger, stimmungsvoller Halt. Seien Sie vorsichtig beim Auf- und Absteigen, da nasse Pedale und Schuhe sehr rutschig sind.",
+                "hu": "Ködös, hangulatos megálló az úton. Legyen óvatos fel- és leszálláskor, mert a nedves pedálok és cipők nagyon csúsznak.",
+                "ro": "O oprire cețoasă și atmosferică. Aveți grijă la urcare și coborâre, deoarece pedalele și încălțămintea udă sunt alunecoase.",
+                "en": "A misty, atmospheric stop on your route. Be careful when mounting and dismounting, as wet pedals and shoes are notoriously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de l'Île Paul",
+                "hu": "Lac de l'Île Paul",
+                "ro": "Lac de l'Île Paul",
+                "en": "Lac de l'Île Paul"
+              },
+              "tip_5lang": {
+                "de": "Das offene Wasser bedeutet mehr Regen; machen Sie schnell ein Foto der Insel, um Ihre Elektronik trocken zu halten.",
+                "hu": "A nyílt víz miatt itt jobban érheti az eső; készítsen egy gyors fotót a szigetről, majd induljon tovább, hogy védje az elektronikát.",
+                "ro": "Apa deschisă înseamnă expunere mai mare la ploaie; faceți o fotografie rapidă a insulei pentru a vă păstra electronicele uscate.",
+                "en": "The open water means heavier rain exposure; snap a quick photo of the moody island before continuing to keep your electronics dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Forestière",
+                "hu": "Lac de la Forestière",
+                "ro": "Lac de la Forestière",
+                "en": "Lac de la Forestière"
+              },
+              "tip_5lang": {
+                "de": "Befestigte Wege sind hier bei Nässe leichter zu befahren. Schalten Sie Ihre Fahrradlichter auch tagsüber unbedingt ein.",
+                "hu": "Az itteni aszfaltozott utakon könnyebb haladni esőben. A nappali fény ellenére is kapcsolja be a kerékpár lámpáit.",
+                "ro": "Potecile pavate de aici sunt mai ușor de navigat pe ploaie. Asigurați-vă că luminile bicicletei sunt aprinse chiar și ziua.",
+                "en": "Paved paths here are easier to navigate in the wet. Make sure your bike lights are turned on despite it being daytime."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Le Clos",
+                "hu": "Villa Le Clos",
+                "ro": "Villa Le Clos",
+                "en": "Villa Le Clos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Fahrt an diesem eleganten Ort; die gepflasterte Umgebung bietet einen sicheren, schlammfreien Platz.",
+                "hu": "Fejezze be az esős utat ennél az elegáns helynél; a kövezett környezet stabil, sármentes területet kínál a leszálláshoz.",
+                "ro": "Încheiați plimbarea udă la acest sit civic elegant; împrejurimile pavate oferă o zonă stabilă, fără noroi, pentru a descăleca.",
+                "en": "End your wet ride at this elegant civic site; its paved surroundings offer a stable, mud-free area to dismount and conclude your day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie früh am La Sereine los, mit Thermohandschuhen gegen den kalten Lenker. Wärmen Sie sich mittags im Ze Complex auf. Die Seenrunde ist im Winter wunderschön, aber achten Sie auf Eisplatten. Beenden Sie die Tour vor 17:00 Uhr an der Villa Le Clos, bevor Dunkelheit und Kälte das Fahren erschweren.",
+            "hu": "Induljon korán a La Sereine mellett, vastag kesztyűt viselve a fagyos kormány miatt. Délben melegedjen fel a Ze Complexben. A délutáni tókörút télen is lenyűgöző, de figyeljen a jeges foltokra az árnyékos utakon. Fejezze be az utat a Villa Le Clos-nál 17:00 előtt a sötétedés és a fagy miatt.",
+            "ro": "Porniți devreme pe lângă La Sereine, purtând mănuși termice pe ghidonul înghețat. Încălziți-vă la prânz la Ze Complex. Circuitul lacurilor este superb iarna, dar atenție la gheața de pe pistele umbrite. Terminați la Villa Le Clos înainte de 17:00, când întunericul și frigul îngreunează pedalatul.",
+            "en": "Pedal out early by La Sereine, wearing thermal gloves against the freezing handlebars. Warm your core at Ze Complex midday. The afternoon lake circuit is visually striking in winter, but watch out for icy patches on shaded bike paths. Finish at Villa Le Clos before 17:00, as darkness and dropping temperatures make cycling hazardous."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Sereine Stream",
+                "hu": "La Sereine Stream",
+                "ro": "La Sereine Stream",
+                "en": "La Sereine Stream"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie eine hohe Trittfrequenz, um Körperwärme zu erzeugen; die kalte Luft am Bach wird Ihre Kleidung auf die Probe stellen.",
+                "hu": "Tekerjen magas pedálfordulattal, hogy reggel hőt termeljen; a patak melletti hideg levegő próbára teszi a termo ruházatot.",
+                "ro": "Mențineți o cadență ridicată pentru a genera căldură corporală; aerul rece de lângă pârâu vă va testa straturile termice.",
+                "en": "Keep a high cadence to generate body heat early in the morning; the cold air near the stream will test your thermal layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Ze Complex",
+                "hu": "Ze Complex",
+                "ro": "Ze Complex",
+                "en": "Ze Complex"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an, um Finger und Zehen aufzutauen; der kalte Lenker entzieht den Händen bei eisigen Temperaturen schnell die Wärme.",
+                "hu": "Térjen be kiolvasztani a kezét és a lábát; a fagyos kormány fogása gyorsan elszívja a hőt a végtagokból.",
+                "ro": "Opriți-vă în interior pentru a vă dezgheța degetele; prinderea ghidonului la temperaturi de îngheț scurge rapid căldura.",
+                "en": "Stop inside to defrost your fingers and toes; gripping the handlebars in freezing temperatures quickly drains warmth from extremities."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Droite",
+                "hu": "Lac de la Droite",
+                "ro": "Lac de la Droite",
+                "en": "Lac de la Droite"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See ist schön, aber achten Sie auf die Radwege, da sich an schattigen Stellen schnell unsichtbares Glatteis bildet.",
+                "hu": "A befagyott tó gyönyűrü, de figyeljen az utakra, mert a fás, árnyékos részeken könnyen kialakulhat a veszélyes fekete jég.",
+                "ro": "Lacul înghețat este frumos, dar atenție la piste, deoarece gheața neagră se formează ușor în zonele umbrite și împădurite.",
+                "en": "The frozen lake is beautiful, but watch the bike paths carefully as black ice forms easily in the shaded, wooded corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause für die Spiegelung der Bäume, aber fahren Sie bald weiter, damit Ihre Muskeln nicht auskühlen.",
+                "hu": "Tartson rövid pihenőt a kopasz fák tükörképének megcsodálására, de hamar induljon tovább, nehogy kihűljenek az izmai.",
+                "ro": "Faceți o scurtă pauză pentru a admira copacii goi reflectați, dar continuați să vă mișcați pentru a nu vă răci mușchii.",
+                "en": "Take a brief break to admire the stark winter trees reflecting on the water, but keep moving soon to prevent your muscles from cooling."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Drapeau",
+                "hu": "Lac du Drapeau",
+                "ro": "Lac du Drapeau",
+                "en": "Lac du Drapeau"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Landschaft hervor; tragen Sie eine winddichte Radbrille zum Schutz vor beißendem, kaltem Gegenwind.",
+                "hu": "A téli fények kiemelik a tájat; viseljen szélálló kerékpáros szemüveget, hogy védje a szemét a csípős ellenszéltől.",
+                "ro": "Lumina de iarnă scoate în evidență peisajul; purtați ochelari de ciclism rezistenți la vânt pentru a vă proteja ochii de frig.",
+                "en": "Winter lighting makes the landscape pop; wear windproof cycling glasses to protect your eyes from the biting, cold headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de l'Île Paul",
+                "hu": "Lac de l'Île Paul",
+                "ro": "Lac de l'Île Paul",
+                "en": "Lac de l'Île Paul"
+              },
+              "tip_5lang": {
+                "de": "Die offene Fläche bedeutet starken Windchill; ziehen Sie Ihren Schal über das Gesicht gegen die eisigen Böen vom See.",
+                "hu": "A nyílt tér miatt a szélhűtés jelentős; húzza az arcára a csősálat, hogy felfogja a tó felől érkező fagyos széllökéseket.",
+                "ro": "Spațiul deschis înseamnă un vânt puternic; trageți-vă fularul peste față pentru a bloca rafalele înghețate de pe lac.",
+                "en": "The open expanse here means windchill is severe; pull your buff up over your face to block the freezing gusts off the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Forestière",
+                "hu": "Lac de la Forestière",
+                "ro": "Lac de la Forestière",
+                "en": "Lac de la Forestière"
+              },
+              "tip_5lang": {
+                "de": "Mit sinkenden Temperaturen wird der Boden hart. Bleiben Sie auf dem Asphalt, um tief gefrorenen, holprigen Schlamm zu vermeiden.",
+                "hu": "Ahogy a délutáni hőmérséklet csökken, a föld megkeményedik. Maradjon az aszfalton, hogy elkerülje a fagyott, nyomvályús sarat.",
+                "ro": "Pe măsură ce temperaturile scad, pământul se întărește. Rămâneți strict pe poteca pavată pentru a evita noroiul înghețat.",
+                "en": "As afternoon temperatures drop, the ground hardens. Stick strictly to the paved path to avoid rutted, frozen mud patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Le Clos",
+                "hu": "Villa Le Clos",
+                "ro": "Villa Le Clos",
+                "en": "Villa Le Clos"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie Ihr Ziel beim winterlichen Sonnenuntergang sicher; sorgen Sie für voll geladene Lichter für die dunkle Dämmerung.",
+                "hu": "Érjen célba biztonságban a téli naplementekor; gondoskodjon róla, hogy az első és hátsó lámpák fel legyenek töltve az estére.",
+                "ro": "Ajungeți în siguranță la final la apusul iernii; asigurați-vă că luminile față și spate sunt încărcate pentru orele întunecate.",
+                "en": "Reach your final stop safely as the winter sun sets; ensure your front and rear lights are fully charged for the dark twilight hours."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Morning: Vezessen egyenesen a Villa Le Clos lenyűgöző területére, és szánjon időt a nagyszerű polgári építészet megcsodálására a lágy reggeli fényben, mielőtt a régió buja természeti tájai felé venné az irányt.\nMidday: Navigáljon le a kiterjedt Miribel-Jonage park területére, egy békés, árnyékos sétával kezdve a Lac de la Forestière körül, majd közvetlenül az egyformán nyugodt Lac de l'Île Paul partjainál folytatva.\nAfternoon: A délután könnyű ugrásokat tesz lehetővé a Lac du Drapeau és a Lac des Pêcheurs között, ahol a jármű kényelme azt jelenti, hogy a séta helyett maximalizálhatja a festői kilátók élvezetére szánt időt.\nEvening: Hajtson vissza a városközpont felé egy szórakoztató utolsó megállóra a Ze Complexnél, és zárja le változatos útitervét a La Sereine patak rövid meglátogatásával, miközben leszáll az alkonyat Beynost felett.",
         "ro": "Morning: Conduceți direct către impresionanta Villa Le Clos, făcându-vă timp pentru a-i admira marea arhitectură civică în lumina blândă a dimineții înainte de a vă îndrepta spre peisajele naturale luxuriante.\nMidday: Navigați în jos spre zona vastă a parcului Miribel-Jonage, începând cu o plimbare senină și umbrită în jurul Lacului de la Forestière, urmată îndeaproape de țărmurile la fel de liniștite ale Lacului de l'Île Paul.\nAfternoon: După-amiaza permite sărituri ușoare între Lac du Drapeau și Lac des Pêcheurs, unde confortul unui vehicul înseamnă că vă puteți maximiza timpul bucurându-vă de punctele de vedere pitorești.\nEvening: Conduceți înapoi spre centrul orașului pentru o ultimă oprire distractivă la Complexul Ze, încheindu-vă itinerariul variat cu o scurtă vizită la pârâul La Sereine în timp ce se lasă seara peste Beynost.",
         "en": "Morning: Drive straight to the impressive grounds of Villa Le Clos, taking time to admire its grand civic architecture in the soft morning light before shifting gears toward the region's lush natural landscapes.\nMidday: Navigate down to the expansive Miribel-Jonage park area, starting with a serene, shaded walk around Lac de la Forestière, followed closely by the equally tranquil shores of Lac de l'Île Paul.\nAfternoon: The afternoon allows for easy hops between Lac du Drapeau and Lac des Pêcheurs, where the convenience of a vehicle means you can maximize your time enjoying the scenic viewpoints rather than walking.\nEvening: Drive back towards the town center for a fun final stop at the Ze Complex, capping off your varied itinerary with a brief visit to the La Sereine Stream as dusk falls over the charming streets of Beynost."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour bequem an der Villa Le Clos mit dem Regenschirm griffbereit. Fahren Sie zu den Seen und genießen Sie die dramatische, verregnete Aussicht aus dem warmen Auto. Verbringen Sie einen trockenen Nachmittag im Ze Complex. Beenden Sie den Tag am La Sereine und lauschen Sie dem Bach vom Straßenrand.",
+            "hu": "Kezdje az autós túrát kényelmesen a Villa Le Clos-nál, esernyővel a kézben. Vezessen a tavak között, elkerülve a sarat, miközben az autóból élvezi a drámai esős kilátást. A délutánt töltse szárazon a Ze Complexben. Zárja a napot a La Sereine pataknál, hallgatva a víz morajlását az út mellől.",
+            "ro": "Începeți turul cu mașina confortabil la Villa Le Clos, cu umbrela la îndemână. Conduceți între lacuri, evitând noroiul și admirând peisajele ploioase din mașina caldă. Petreceți după-amiaza la adăpost la Ze Complex. Încheiați la La Sereine, ascultând pârâul umflat de ploaie de la marginea drumului.",
+            "en": "Start your driving tour comfortably at Villa Le Clos, keeping your umbrella handy. Drive between the lakes efficiently, avoiding the mud while enjoying the dramatic rain-swept views from your warm car. Spend a rainy afternoon staying dry and entertained at Ze Complex. End the day at La Sereine, listening to the heavy stream from the roadside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Le Clos",
+                "hu": "Villa Le Clos",
+                "ro": "Villa Le Clos",
+                "en": "Villa Le Clos"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Regen; parken Sie nah am Eingang, um möglichst wenig Zeit im Nassen zu verbringen.",
+                "hu": "Csodálja meg az építészetet az esőben; parkoljon közel a bejárathoz, hogy minél kevesebb időt töltsön a nedves időben.",
+                "ro": "Admirați arhitectura prin ploaie; parcați aproape de intrare pentru a minimiza timpul petrecut în vremea umedă.",
+                "en": "Admire the architecture through the rain; park close to the entrance to minimize your time out in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Forestière",
+                "hu": "Lac de la Forestière",
+                "ro": "Lac de la Forestière",
+                "en": "Lac de la Forestière"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Regentropfen auf dem Wasser aus dem Auto; steigen Sie nur mit wasserfesten Stiefeln aus.",
+                "hu": "Élvezze a tóra hulló esőcseppek látványát a kényelmes autóból; csak akkor szálljon ki, ha stabil vízálló cipője van.",
+                "ro": "Bucurați-vă de priveliștea picăturilor de ploaie pe apă din mașină; ieșiți doar dacă aveți cizme impermeabile solide.",
+                "en": "Enjoy the view of the raindrops hitting the water from the comfort of your car; only step out if you have sturdy waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de l'Île Paul",
+                "hu": "Lac de l'Île Paul",
+                "ro": "Lac de l'Île Paul",
+                "en": "Lac de l'Île Paul"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Parkplätze werden bei starkem Regen matschig; parken Sie auf festem Schotter, um nicht stecken zu bleiben.",
+                "hu": "A burkolatlan parkolóhelyek heves esőben mélyen sárosak; parkoljon szilárd kavicsos részen, nehogy elakadjon az autó.",
+                "ro": "Locurile de parcare nepavate se umplu de noroi la ploaie puternică; parcați pe pietriș solid pentru a nu vă bloca roțile.",
+                "en": "The unpaved parking spots here get deeply rutted in heavy rain; make sure to park on solid gravel to avoid getting your tires stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Drapeau",
+                "hu": "Lac du Drapeau",
+                "ro": "Lac du Drapeau",
+                "en": "Lac du Drapeau"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie das Fenster für den frischen Regengeruch der Natur, aber achten Sie beim Türenöffnen auf schlammige Ränder.",
+                "hu": "Húzza le az ablakot, hogy érezze az eső áztatta természet illatát, de vigyázzon a sáros szélekre az ajtó nyitásakor.",
+                "ro": "Deschideți geamul pentru a simți mirosul naturii proaspete de ploaie, dar atenție la marginile noroioase la deschiderea ușilor.",
+                "en": "Roll down the window to smell the fresh, rain-washed nature, but watch for muddy edges when opening car doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Scheibenwischer laufen, um den See zu beobachten; perfekt für einen gemütlichen Kaffee im Auto.",
+                "hu": "Járassa az ablaktörlőt, hogy megfigyelhesse a békés tavat; ez a hely tökéletes egy hangulatos kávézáshoz az autóban.",
+                "ro": "Păstrați ștergătoarele pornite pentru a privi lacul liniștit; acest loc este perfect pentru o cafea confortabilă în mașină.",
+                "en": "Keep your windshield wipers running to watch the peaceful lake landscape; this spot is perfect for a cozy coffee inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ze Complex",
+                "hu": "Ze Complex",
+                "ro": "Ze Complex",
+                "en": "Ze Complex"
+              },
+              "tip_5lang": {
+                "de": "Eine tolle Indoor-Pause an einem nassen Tag; nutzen Sie den überdachten Eingang, um die Familie vor dem Parken abzusetzen.",
+                "hu": "Fantasztikus fedett program esős napon; használja ki a fedett bejáratot, ha családtagokat tesz ki parkolás előtt.",
+                "ro": "O pauză fantastică în interior într-o zi ploioasă; profitați de intrarea acoperită pentru a lăsa familia înainte de a parca.",
+                "en": "A fantastic indoor break on a wet day; take advantage of the covered entrance if dropping off family members before parking."
+              }
+            },
+            {
+              "name": {
+                "de": "La Sereine Stream",
+                "hu": "La Sereine Stream",
+                "ro": "La Sereine Stream",
+                "en": "La Sereine Stream"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um das Hochwasser des Baches zu sehen; bei abendlichem Regen sinkt die Sicht, lassen Sie das Licht an.",
+                "hu": "Álljon félre biztonságosan, hogy lássa a megduzzadt patakot; az esti esőben csökken a látótávolság, tartsa felkapcsolva a lámpákat.",
+                "ro": "Trageți pe dreapta în siguranță pentru a vedea apele umflate; vizibilitatea scade în ploaia de seară, așa că țineți farurile aprinse.",
+                "en": "Pull over safely to see the swollen waters of the stream; visibility drops in the evening rain, so keep your headlights on bright."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein beheiztes Auto ist perfekt für den winterlichen Start an der Villa Le Clos. Fahren Sie bequem zwischen den zugefrorenen Seen und steigen Sie nur kurz für eisige Fotos aus. Verbringen Sie den kalten Spätnachmittag drinnen im Ze Complex. Beenden Sie die Tour gegen 17:00 Uhr am La Sereine und fahren Sie vorsichtig auf frostigen Straßen.",
+            "hu": "A fűtött autó tökéletes a téli reggeli induláshoz a Villa Le Clos-nál. Kényelmesen vezessen a befagyott tavak között, csak rövid, fagyos fotószünetekre kiszállva. A fagyos késő délutánt töltse bent a Ze Complexben. Az utat 17:00 körül zárja a La Sereine-nél, óvatosan vezetve a zúzmarás esti utakon.",
+            "ro": "O mașină încălzită este perfectă pentru a începe dimineața de iarnă la Villa Le Clos. Conduceți confortabil între lacurile înghețate, ieșind scurt pentru fotografii fără a îngheța. Petreceți după-amiaza geroasă la Ze Complex. Încheiați la La Sereine în jur de 17:00, conducând cu prudență pe drumurile cu brumă.",
+            "en": "A heated car is perfect for a winter morning start at Villa Le Clos. Drive comfortably between the frozen lakes midday, stepping out briefly for crisp, icy photos without freezing. Spend the freezing late afternoon indoors at Ze Complex. Finish your route around 17:00 at La Sereine, carefully navigating the frosty evening roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Le Clos",
+                "hu": "Villa Le Clos",
+                "ro": "Villa Le Clos",
+                "en": "Villa Le Clos"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto warm laufen, während Sie diesen Ort bewundern. Sorgen Sie für komplett eisfreie Scheiben vor der Weiterfahrt.",
+                "hu": "Hagyja melegedni az autót, miközben megcsodálja a helyet. Győződjön meg róla, hogy az ablakok teljesen leolvadtak indulás előtt.",
+                "ro": "Lăsați mașina să se încălzească admirând acest loc. Asigurați-vă că geamurile sunt complet dezghețate înainte de a porni pe drum.",
+                "en": "Let the car warm up while admiring this spot. Ensure your windows are fully defrosted before driving onto the public roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Forestière",
+                "hu": "Lac de la Forestière",
+                "ro": "Lac de la Forestière",
+                "en": "Lac de la Forestière"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Seeufer ist atemberaubend; steigen Sie kurz für ein Foto aus und kehren Sie dann ins warme Auto zurück.",
+                "hu": "A befagyott tópart lenyűgöző; ugorjon ki egy gyors fotóra, majd azonnal térjen vissza járműve fűtött kényelmébe.",
+                "ro": "Malul înghețat al lacului este uimitor; ieșiți pentru o fotografie rapidă, apoi retrageți-vă imediat în confortul încălzit al vehiculului.",
+                "en": "The frozen lakeside is stunning; hop out for a quick photograph, then immediately retreat to the heated comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de l'Île Paul",
+                "hu": "Lac de l'Île Paul",
+                "ro": "Lac de l'Île Paul",
+                "en": "Lac de l'Île Paul"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisflächen auf dem Parkplatz, besonders dort, wo die Wintersonne den Morgenfrost noch nicht schmelzen konnte.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban, különösen ott, ahol a téli nap nem érte el a talajt a reggeli fagy felolvasztására.",
+                "ro": "Atenție la peticele de gheață din parcare, mai ales unde soarele de iarnă nu a ajuns pe pământ pentru a topi bruma.",
+                "en": "Be mindful of icy patches in the parking area, especially where the winter sun hasn't reached the ground to melt the morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Drapeau",
+                "hu": "Lac du Drapeau",
+                "ro": "Lac du Drapeau",
+                "en": "Lac du Drapeau"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ist sehr frisch; öffnen Sie das Fenster einen Spalt, aber verlassen Sie sich auf die Autoheizung.",
+                "hu": "A csípős téli levegő itt hihetetlenül friss; nyissa ki résnyire az ablakot, de a kényelem érdekében hagyatkozzon az autó fűtésére.",
+                "ro": "Aerul rece de iarnă este incredibil de proaspăt; deschideți puțin geamul, dar bazați-vă pe încălzirea mașinii pentru confort.",
+                "en": "The crisp winter air here is incredibly fresh; crack the window briefly, but rely on your car's heating to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Winterliche Nachmittage sind schön, aber die tiefstehende Sonne blendet; nutzen Sie die Sonnenblende und tragen Sie beim Parken eine Sonnenbrille.",
+                "hu": "A téli délutánok gyönyörűek itt, de az alacsonyan járó nap elvakíthatja; hajtsa le a napellenzőt és viseljen napszemüveget parkoláskor.",
+                "ro": "După-amiezile de iarnă sunt frumoase, dar soarele jos poate orbi șoferii; lăsați parasolarul și purtați ochelari de soare la parcare.",
+                "en": "Winter afternoons are beautiful here, but the low sun can blind drivers; pull down the visor and wear sunglasses while parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Ze Complex",
+                "hu": "Ze Complex",
+                "ro": "Ze Complex",
+                "en": "Ze Complex"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der beißenden Kälte des Spätnachmittags in dieser warmen Anlage, perfekt, um den Tag im Warmen zu verlängern.",
+                "hu": "Meneküljen a késő délutáni csípős hideg elől ebbe a meleg fedett létesítménybe, amely tökéletes a nap meghosszabbítására.",
+                "ro": "Scăpați de frigul tăios al după-amiezii în această facilitate interioară caldă, perfectă pentru a vă prelungi ziua.",
+                "en": "Escape the biting cold of the late afternoon in this warm indoor facility, perfect for extending your day as the temperatures drop."
+              }
+            },
+            {
+              "name": {
+                "de": "La Sereine Stream",
+                "hu": "La Sereine Stream",
+                "ro": "La Sereine Stream",
+                "en": "La Sereine Stream"
+              },
+              "tip_5lang": {
+                "de": "Gegen 17:00 Uhr ist es dunkel; lauschen Sie dem kalten Bach sicher aus dem Auto und achten Sie auf der Rückfahrt auf Glatteis.",
+                "hu": "17:00 órára teljesen sötét lesz; hallgassa a hideg patakot biztonságosan az autóból, és vigyázzon a fekete jégre a visszaúton.",
+                "ro": "La 17:00 va fi complet întuneric; ascultați pârâul rece în siguranță din mașină și atenție la gheața neagră la întoarcere.",
+                "en": "By 17:00 it will be completely dark; listen to the cold stream safely from the car and watch out for black ice on the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

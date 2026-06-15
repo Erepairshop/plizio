@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a zsidó negyed középkori titkainak és a vizuális művészeteknek a felfedezésével.\n\nDélben sétáljon végig Leiria nyüzsgő kulturális szívén és grandiózus színházain.\n\nDélután csodálja meg a Villa Portela elegáns építészetét, mielőtt a folyóhoz indulna.\n\nEste hallgassa a víz nyugtató csobogását a történelmi papírmalomnál a folyó partján.",
         "ro": "Începeți dimineața descoperind secretele medievale ale cartierului evreiesc și explorând artele vizuale.\n\nLa prânz, plimbați-vă prin inima culturală vibrantă a Leiriei și teatrele sale grandioase.\n\nDupă-amiaza, admirați arhitectura elegantă de la Villa Portela înainte de a merge spre râu.\n\nÎncheiați seara ascultând susurul apei la moara istorică de hârtie de pe mal.",
         "en": "Start your morning uncovering the medieval secrets of the Jewish quarter and exploring visual arts.\n\nBy midday, stroll through the vibrant cultural heart of Leiria and its grand theaters.\n\nIn the afternoon, marvel at the elegant architecture of Villa Portela before heading to the river.\n\nConclude the evening listening to the soothing water at the historic paper mill."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den geschützten Museen von Leiria, um dem Regen zu entgehen. Mittags bieten die Theatergebäude trockene Zufluchtsorte für Kulturinteressierte. Am Nachmittag ist der Weg zur Papiermühle am Flussufer auch bei grauem Himmel reizvoll, erfordert aber festes Schuhwerk. Der Abend endet mit dem Blick auf die Burg, deren Lichter sich stimmungsvoll in den nassen Straßen spiegeln.",
+            "hu": "Kezdje a napot Leiria fedett múzeumaiban, elkerülve az esős reggelt. Délben a színházépületek nyújtanak száraz menedéket és kulturális élményeket a látogatóknak. Délután a Papírmalom folyóparti sétánya esőben is hangulatos, de figyeljen a csúszós macskakövekre. Az este a vár kivilágított látványával zárul, amelynek fényei misztikusan tükröződnek vissza a város vizes aszfaltján.",
+            "ro": "Începeți ziua în muzeele adăpostite din Leiria pentru a evita ploaia de dimineață. La prânz, clădirile teatrelor oferă refugii uscate și experiențe culturale deosebite. După-amiaza, drumul spre Moara de Hârtie de pe malul râului este fermecător chiar și sub cerul gri, dar necesită încălțăminte aderentă. Seara se încheie cu vederea castelului, ale cărui lumini se oglindesc spectaculos în străzile umede.",
+            "en": "Start your day in Leiria's sheltered museums to avoid the morning rain. At noon, the theater buildings provide dry sanctuaries and cultural experiences for visitors. In the afternoon, the riverside walk to the Paper Mill is charming even under grey skies, but requires sturdy, waterproof shoes. The evening ends with a view of the castle, its lights reflecting atmospherically in the wet city streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentrum für interkulturellen Dialog von Leiria",
+                "hu": "Leiriai Interkulturális Párbeszéd Központ",
+                "ro": "Centrul de Dialog Intercultural din Leiria",
+                "en": "Leiria Intercultural Dialogue Center"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte des Zusammenlebens in diesem perfekt überdachten Raum; lassen Sie Ihren nassen Schirm am Eingang, um die wertvollen Ausstellungsstücke zu schützen.",
+                "hu": "Fedezze fel az együttélés történetét ebben a kiválóan védett épületben; a vizes esernyőt hagyja az előtérben, hogy óvja a kiállítás érzékeny fa- és papíremlékeit a nedvességtől.",
+                "ro": "Explorați istoria conviețuirii în acest spațiu perfect acoperit; lăsați umbrela umedă la intrare pentru a proteja exponatele valoroase de umiditatea excesivă din interior.",
+                "en": "Explore the history of coexistence in this perfectly sheltered space; leave your wet umbrella at the entrance to protect the sensitive exhibits from the damp outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des bewegten Bildes - m|i|mo",
+                "hu": "Mozgókép Múzeum - m|i|mo",
+                "ro": "Muzeul Imaginii în Mișcare - m|i|mo",
+                "en": "Moving Image Museum - m|i|mo"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt des Kinos, während es draußen regnet; die dunklen Ausstellungsräume bieten eine ideale Atmosphäre, um historische Projektoren trocken zu bewundern.",
+                "hu": "Merüljön el a mozi világában, miközben kint esik az eső; a sötétített kiállítótermek ideális és száraz helyszínt biztosítanak a történelmi vetítők megtekintéséhez.",
+                "ro": "Cufundați-vă în lumea cinematografiei în timp ce afară plouă; sălile de expoziție întunecate oferă o atmosferă ideală și uscată pentru a admira proiectoarele istorice.",
+                "en": "Dive into the world of cinema while it rains outside; the darkened exhibition rooms provide an ideal and dry atmosphere to admire historical projectors in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro José Lúcio da Silva",
+                "hu": "Teatro José Lúcio da Silva",
+                "ro": "Teatro José Lúcio da Silva",
+                "en": "Teatro José Lúcio da Silva"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Eingangsbereich als Schutz vor plötzlichen Schauern; informieren Sie sich im Trockenen über das Abendprogramm dieses bedeutenden Kulturzentrums.",
+                "hu": "Használja a pazar bejárati csarnokot menedékként a hirtelen záporok elől; tájékozódjon a száraz belső térben a város legfontosabb kulturális központjának esti műsoráról.",
+                "ro": "Folosiți holul somptuos de la intrare ca adăpost împotriva averselor bruște; informați-vă la căldură despre programul de seară al acestui centru cultural important.",
+                "en": "Use the grand entrance hall as a shelter from sudden showers; take your time in the dry interior to check the evening program of this major cultural hub."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Miguel Franco",
+                "hu": "Teatro Miguel Franco",
+                "ro": "Teatro Miguel Franco",
+                "en": "Teatro Miguel Franco"
+              },
+              "tip_5lang": {
+                "de": "Dieser gemütliche Innenraum ist der ideale Ort, um eine Regenpause einzulegen; genießen Sie die intime Atmosphäre des Theaters, während die Tropfen gegen die Scheiben trommeln.",
+                "hu": "Ez a barátságos belső tér tökéletes helyszín egy rövid esőszünetre; élvezze a színház intim hangulatát, miközben hallgatja az ablaküvegen kopogó esőcseppek ritmusát.",
+                "ro": "Acest spațiu interior primitor este locul perfect pentru o scurtă pauză de ploaie; bucurați-vă de atmosfera intimă a teatrului în timp ce stropii bat în ferestre.",
+                "en": "This cozy interior is the perfect spot for a short rain break; enjoy the theater's intimate atmosphere while listening to the rhythmic rain tapping on the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Portela",
+                "hu": "Villa Portela",
+                "ro": "Villa Portela",
+                "en": "Villa Portela"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der Villa vom geschützten Portal aus; achten Sie beim Begehen der umliegenden Gartenwege auf rutschiges Laub und kleine Wasserpfützen.",
+                "hu": "Csodálja meg a villa építészetét a védett bejárati rész alól; a kert ösvényein sétálva ügyeljen a csúszós levelekre és a vizes fűre a csapadékos időben.",
+                "ro": "Admirați arhitectura vilei de la adăpostul portalului de intrare; aveți grijă la frunzele alunecoase și la iarbă pe potecile grădinii în timpul vremii ploioase.",
+                "en": "Admire the villa's architecture from the sheltered porch; be careful of slippery leaves and wet grass on the garden paths during damp weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühle",
+                "hu": "Papírmalom",
+                "ro": "Moara de Hârtie",
+                "en": "Paper Mill"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Wasserkraft des Flusses, der bei Regen besonders kräftig wirkt; im Inneren der Mühle bleiben Sie trocken, während Sie die alten Maschinen bestaunen.",
+                "hu": "Tapasztalja meg a folyó erejét, amely esőben különösen intenzív; a malom belsejében szárazon maradhat, miközben a patinás papírgyártó gépek működését tanulmányozza.",
+                "ro": "Experimentați forța râului, care pare deosebit de intensă pe ploaie; în interiorul morii veți rămâne uscat în timp ce studiați funcționarea mașinilor vechi.",
+                "en": "Experience the power of the river, which feels especially intense in the rain; inside the mill, you'll stay dry while studying the workings of the vintage machinery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den kalten Wintermorgen in den beheizten Ausstellungsräumen der Innenstadt. Mittags bieten die Kulturzentren wohlige Wärme zwischen den Erkundungen der historischen Gassen. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Besuch am Flussufer früh einplanen. Beenden Sie den Tag in der festlich beleuchteten Altstadt, wenn die winterliche Dämmerung eine gemütliche Atmosphäre schafft.",
+            "hu": "Kezdje a hűvös téli reggelt a belváros fűtött kiállítótermeiben. Napközben a kulturális központok nyújtanak kellemes meleget a történelmi utcák felfedezése közben. Mivel a nap már 17:00 körül nyugovóra tér, érdemes a folyóparti látogatást korábbra időzíteni. Zárja a napot a díszesen kivilágított óvárosban, ahol a korai szürkület meghitt, ünnepi hangulatot áraszt.",
+            "ro": "Începeți dimineața rece de iarnă în sălile de expoziție încălzite din centrul orașului. În timpul zilei, centrele culturale oferă o căldură plăcută între explorările străzilor istorice. Deoarece soarele apune deja în jurul orei 17:00, este recomandat să planificați vizita la malul râului mai devreme. Încheiați ziua în centrul vechi luminat festiv, unde amurgul timpuriu creează o atmosferă primitoare.",
+            "en": "Start the crisp winter morning in the heated exhibition halls of the city center. During the day, cultural centers offer pleasant warmth between explorations of the historic streets. Since the sun sets around 17:00, it is wise to schedule your riverside visit earlier in the afternoon. End your day in the festively lit old town, where the early dusk creates a cozy and inviting atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zentrum für interkulturellen Dialog von Leiria",
+                "hu": "Leiriai Interkulturális Párbeszéd Központ",
+                "ro": "Centrul de Dialog Intercultural din Leiria",
+                "en": "Leiria Intercultural Dialogue Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den gut beheizten Galerien auf; das sanfte Winterlicht durch die Fenster verleiht den religiösen Artefakten eine ganz besondere, friedliche Aura.",
+                "hu": "Melegedjen fel a jól fűtött galériákban; az ablakokon beszűrődő lágy téli fény különleges, békés aurát kölcsönöz a vallási kegytárgyaknak és a kiállított emlékeknek.",
+                "ro": "Încălziți-vă în galeriile bine încălzite; lumina blândă de iarnă care intră prin ferestre oferă artefactelor religioase o aură deosebită și plină de pace.",
+                "en": "Warm up in the well-heated galleries; the soft winter light filtering through the windows gives the religious artifacts a very special and peaceful aura."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des bewegten Bildes - m|i|mo",
+                "hu": "Mozgókép Múzeum - m|i|mo",
+                "ro": "Muzeul Imaginii în Mișcare - m|i|mo",
+                "en": "Moving Image Museum - m|i|mo"
+              },
+              "tip_5lang": {
+                "de": "Die gemütlichen Innenräume sind perfekt, um der winterlichen Kälte zu entfliehen; nutzen Sie die Zeit, um die frühen Filmtechniken ohne Zeitdruck im Warmen zu studieren.",
+                "hu": "A barátságos belső terek tökéletesek a téli hideg elöli meneküléshez; használja ki az időt a korai filmtechnikai eszközök kényelmes, fűtött helyen történő tanulmányozására.",
+                "ro": "Spațiile interioare primitoare sunt perfecte pentru a scăpa de frigul iernii; profitați de timp pentru a studia tehnicile cinematografice timpurii într-un loc cald.",
+                "en": "The cozy interiors are perfect for escaping the winter chill; take your time to study early film techniques in a comfortably heated environment without any rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro José Lúcio da Silva",
+                "hu": "Teatro José Lúcio da Silva",
+                "ro": "Teatro José Lúcio da Silva",
+                "en": "Teatro José Lúcio da Silva"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warme Atmosphäre des Foyers; im Winter ist dies ein belebter Treffpunkt, an dem man sich vor dem nächsten Spaziergang kurz aufwärmen kann.",
+                "hu": "Élvezze az előcsarnok meleg hangulatát; télen ez egy nyüzsgő találkozóhely, ahol rövid időre felmelegedhet a következő városi séta megkezdése előtt.",
+                "ro": "Bucurați-vă de atmosfera caldă a foaierului; iarna acesta este un loc de întâlnire plin de viață, unde vă puteți încălzi înainte de următoarea plimbare.",
+                "en": "Enjoy the warm atmosphere of the foyer; in winter, this is a bustling meeting point where you can warm up briefly before continuing your city walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Miguel Franco",
+                "hu": "Teatro Miguel Franco",
+                "ro": "Teatro Miguel Franco",
+                "en": "Teatro Miguel Franco"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Lage und die angenehme Innentemperatur machen dieses Theater zu einem idealen Halt, um die kalten Finger während der Stadtbesichtigung aufzutauen.",
+                "hu": "A központi elhelyezkedés és a kellemes belső hőmérséklet ideális megállóvá teszi ezt a színházat, hogy felmelegítse átfázott ujjait a városnézés közben.",
+                "ro": "Locația centrală și temperatura interioară plăcută fac din acest teatru o oprire ideală pentru a vă încălzi mâinile înghețate în timpul vizitării orașului.",
+                "en": "The central location and pleasant indoor temperature make this theater an ideal stop to warm up your cold hands during your winter sightseeing tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Portela",
+                "hu": "Villa Portela",
+                "ro": "Villa Portela",
+                "en": "Villa Portela"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der tiefstehenden Wintersonne auf der Fassade; ziehen Sie sich warm an, da der Garten im Schatten der Villa nachmittags schnell auskühlt.",
+                "hu": "Figyelje meg az alacsonyan járó téli nap játékát a villa homlokzatán; öltözzön rétegesen, mert a kert a ház árnyékában délutánra gyorsan lehűlhet.",
+                "ro": "Observați jocul soarelui de iarnă pe fațada vilei; îmbrăcați-vă gros, deoarece grădina aflată la umbra casei se poate răci rapid spre după-amiază.",
+                "en": "Watch the play of the low winter sun on the villa's facade; dress in layers, as the garden in the shadow of the house can cool down quickly in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühle",
+                "hu": "Papírmalom",
+                "ro": "Moara de Hârtie",
+                "en": "Paper Mill"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mühle vor dem Sonnenuntergang um 17:00 Uhr; die historische Industriearchitektur wirkt in der klaren Winterluft am Fluss besonders beeindruckend.",
+                "hu": "Látogasson el a malomba a 17:00 órakor bekövetkező napnyugta előtt; a történelmi ipari épület a folyóparti tiszta téli levegőben különösen lenyűgöző látványt nyújt.",
+                "ro": "Vizitați moara înainte de apusul soarelui de la ora 17:00; arhitectura industrială istorică arată impresionant în aerul curat de iarnă de lângă râu.",
+                "en": "Visit the mill before the 17:00 sunset; the historic industrial architecture looks particularly impressive in the crisp winter air by the riverside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa a napot egy frissítő folyóparti tekeréssel és egy vidám hintázással a zöld parkban.\n\nKerekezzen be a városközpontba, hogy elmerüljön a helyi sportsikerekben és a színházi világban.\n\nDélután élvezze a régi papírmalom rusztikus varázsát, és pihenjen meg a lágy vizű folyó partján.\n\nFejezze be egy felfelé ívelő úttal a szentélyhez, ahonnan felejthetetlen alkonyati panoráma nyílik.",
         "ro": "Începeți ziua cu o briză pe malul râului și o plimbare distractivă la leagănul din parcul verde.\n\nPedalați spre centrul orașului pentru a vă cufunda în triumfurile sportive și teatrul dinamic.\n\nDupă-amiaza vă aduce la farmecul rustic al vechii mori de hârtie pentru a vă relaxa lângă ape.\n\nFinalizați cu o urcare energizantă spre sanctuar pentru o panoramă de neuitat la amurg.",
         "en": "Kick off the day with a breeze by the river and a fun ride at the green park swing.\n\nPedal into the city center to immerse yourself in local sporting triumphs and dynamic theater.\n\nAfternoon brings you to the rustic charms of the old paper mill to relax by the gentle currents.\n\nFinish with an energizing uphill climb to the sanctuary for an unforgettable twilight panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Leiria erfordert Vorsicht auf dem glatten Pflaster, bietet aber eine erfrischende Perspektive. Starten Sie im Park, bevor Sie trockene Museen ansteuern. Mittags bieten die Kulturzentren sichere Unterstellmöglichkeiten für Sie und Ihr Rad. Der Nachmittag am Fluss ist friedlich, wenn die Tropfen auf das Wasser fallen. Achten Sie bei der Fahrt zum Heiligtum auf gute Bremsen auf den nassen Abfahrten.",
+            "hu": "Egy esős biciklis túra Leiriában óvatosságot igényel a csúszós útburkolaton, de frissítő élményt nyújt. Kezdje a parkban, majd vegye az irányt a száraz múzeumok felé. Napközben a kulturális központok biztonságos fedezéket kínálnak Önnek és kerékpárjának is. A folyópart délutáni csendje esőben is megkapó, de a kegyhely felé vezető vizes lejtőkön ügyeljen a fékek állapotára.",
+            "ro": "O tură cu bicicleta prin Leiria pe ploaie necesită prudență pe pavajul alunecos, dar oferă o perspectivă revigorantă. Începeți în parc înainte de a merge spre muzeele uscate. La prânz, centrele culturale oferă adăpost sigur pentru dumneavoastră și bicicletă. După-amiaza la râu este liniștită când picăturile cad pe apă. Aveți grijă la frâne pe coborârile umede spre sanctuar.",
+            "en": "A rainy bike tour through Leiria requires caution on slippery pavement but offers a refreshing perspective. Start in the park before heading to dry museums. At noon, cultural centers provide safe shelter for both you and your bike. The riverside afternoon is peaceful as drops fall on the water. Be extra careful with your brakes on the wet descents when heading towards the sanctuary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schaukel im grünen Park von Leiria",
+                "hu": "Leiriai Zöld Park Hinta",
+                "ro": "Leagănul din Parcul Verde din Leiria",
+                "en": "Leiria Green Park Swing"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sitz kurz trocken für ein schnelles Foto im Regen; achten Sie auf den schlammigen Untergrund beim Abstellen Ihres Fahrrads auf der Wiese.",
+                "hu": "Törölje szárazra az ülést egy gyors esős fotó kedvéért; ügyeljen a sáros talajra, amikor a kerékpárját a fűben, a hinta közelében próbálja leállítani.",
+                "ro": "Ștergeți scaunul pentru o fotografie rapidă în ploaie; aveți grijă la solul noroios când parcați bicicleta pe iarbă în apropierea leagănului.",
+                "en": "Wipe the seat dry for a quick photo in the rain; watch out for muddy ground when parking your bike on the grass near the swing during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sporting Museum in Leiria",
+                "hu": "Sporting Múzeum Leiriában",
+                "ro": "Muzeul Sporting din Leiria",
+                "en": "Sporting Museum in Leiria"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im geschützten Bereich des Stadions ab; nutzen Sie die Zeit im Trockenen, um die sportliche Geschichte Leirias ohne Regenjacke zu erkunden.",
+                "hu": "Hagyja a kerékpárt a stadion védett részén; használja ki a száraz belső térben töltött időt Leiria sporttörténetének megismerésére, amíg eláll az eső.",
+                "ro": "Lăsați bicicleta în zona protejată a stadionului; folosiți timpul petrecut la interior pentru a descoperi istoria sportivă a orașului fără a purta pelerina.",
+                "en": "Park your bike in the stadium's sheltered area; use the time in the dry interior to discover Leiria's sporting history without needing your raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Te-Ato",
+                "hu": "Te-Ato",
+                "ro": "Te-Ato",
+                "en": "Te-Ato"
+              },
+              "tip_5lang": {
+                "de": "Dieser kulturelle Stopp bietet eine perfekte Gelegenheit, kurz abzusatteln und sich aufzuwärmen; die überdachten Bereiche in der Nähe sind ideal zum Sichern des Rades.",
+                "hu": "Ez a kulturális állomás remek alkalom arra, hogy rövid időre leszálljon a nyeregről; a közeli fedett részek ideálisak a kerékpár biztonságos lezárásához az esőben.",
+                "ro": "Această oprire culturală oferă o ocazie perfectă de a coborî din șa și de a vă încălzi; zonele acoperite din apropiere sunt ideale pentru a securiza bicicleta.",
+                "en": "This cultural stop offers a perfect opportunity to get off the saddle and warm up; nearby covered areas are ideal for securing your bike during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "O Nariz",
+                "hu": "O Nariz",
+                "ro": "O Nariz",
+                "en": "O Nariz"
+              },
+              "tip_5lang": {
+                "de": "Die intime Theaterumgebung lässt Sie das graue Wetter draußen schnell vergessen; achten Sie auf die rutschigen Stufen beim Betreten mit Ihren Radschuhen.",
+                "hu": "Az intim színházi környezet segít elfelejteni a kinti szürke időt; ügyeljen a csúszós lépcsőkre, amikor kerékpáros cipőben lép be az épületbe az eső után.",
+                "ro": "Ambiantul intim al teatrului vă va face să uitați de vremea gri; aveți grijă la treptele alunecoase când intrați cu încălțămintea de ciclism udă.",
+                "en": "The theater's intimate setting makes you quickly forget the grey weather; watch out for slippery steps when entering with your cycling shoes after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühle",
+                "hu": "Papírmalom",
+                "ro": "Moara de Hârtie",
+                "en": "Paper Mill"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang des Lis ist bei Regen sehr ruhig und atmosphärisch; tragen Sie eine gute Brille, um trotz der Spritzer klare Sicht auf den Fluss zu behalten.",
+                "hu": "A Lis folyó menti kerékpárút esőben nagyon csendes és hangulatos; viseljen megfelelő szemüveget, hogy a felverődő víz ellenére is jól lássa a folyót.",
+                "ro": "Pista de biciclete de-a lungul râului Lis este foarte liniștită pe ploaie; purtați ochelari adecvați pentru a avea vizibilitate bună în ciuda stropilor de apă.",
+                "en": "The bike path along the Lis river is very quiet and atmospheric in the rain; wear proper eyewear to maintain visibility despite the water splashes from the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Menschwerdung",
+                "hu": "A Megtestesülés Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului Întrupate",
+                "en": "Sanctuary of Our Lady of Incarnation"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird durch den kühlen Regen angenehmer, erfordert aber Kraft; genießen Sie die mystische Aussicht auf das wolkenverhangene Leiria von oben.",
+                "hu": "Az emelkedő leküzdését a hűvös eső kellemesebbé teszi, de erőt igényel; élvezze a felhőkbe burkolózó Leiria misztikus panorámáját a magaslati pontról.",
+                "ro": "Urcarea este facilitată de ploaia răcoroasă, dar necesită efort; bucurați-vă de panorama mistică a orașului Leiria acoperit de nori de la înălțime.",
+                "en": "The climb is made more comfortable by the cool rain but requires effort; enjoy the mystical view of cloud-covered Leiria from the high vantage point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour durch Leiria bietet klare Luft und weite Ausblicke. Starten Sie mit einer frischen Fahrt durch den Park, bevor Sie sich im Sportmuseum aufwärmen. Mittags laden die Theater zu kurzen Pausen in beheizten Räumen ein. Planen Sie die Rückfahrt vom Flussufer rechtzeitig, da die Dämmerung um 17:00 Uhr einsetzt. Schalten Sie Ihre Lichter ein für die Fahrt zum Heiligtum im Abendrot.",
+            "hu": "A téli kerékpározás Leiriában tiszta levegőt és lenyűgöző kilátást kínál. Kezdjen egy frissítő tekeréssel a parkban, majd melegedjen fel a Sportmúzeumban. Napközben a színházak fűtött terei ideálisak rövid pihenőkre. A folyópartról időben induljon vissza, mert 17:00 körül besötétedik. Kapcsolja be a kerékpárlámpákat a kegyhely felé vezető úton az alkonyati fényekben.",
+            "ro": "O tură cu bicicleta iarna prin Leiria oferă aer curat și vederi clare. Începeți cu o plimbare revigorantă prin parc înainte de a vă încălzi la Muzeul Sportului. La prânz, teatrele oferă pauze scurte în spații încălzite. Planificați întoarcerea de la râu la timp, deoarece amurgul începe la ora 17:00. Aprindeți luminile bicicletei pentru drumul spre sanctuar sub lumina apusului.",
+            "en": "A winter bike ride through Leiria offers crisp air and clear views. Start with a refreshing ride through the park before warming up at the Sporting Museum. At noon, the theaters provide perfect short breaks in heated spaces. Plan your return from the riverside in time, as dusk sets in around 17:00. Be sure to turn on your lights for the final ride to the sanctuary at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schaukel im grünen Park von Leiria",
+                "hu": "Leiriai Zöld Park Hinta",
+                "ro": "Leagănul din Parcul Verde din Leiria",
+                "en": "Leiria Green Park Swing"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft im Park ist belebend für den Start; tragen Sie windfeste Handschuhe, um Ihre Finger beim Festhalten an der Schaukel warm zu halten.",
+                "hu": "A park friss téli levegője élénkítően hat a nap kezdetén; viseljen szélálló kesztyűt, hogy ujjai melegen maradjanak, miközben a hinta láncaiba kapaszkodik.",
+                "ro": "Aerul proaspăt de iarnă din parc este revigorant pentru începutul zilei; purtați mănuși rezistente la vânt pentru a vă menține degetele calde pe leagăn.",
+                "en": "The fresh winter air in the park is invigorating for the start of your tour; wear windproof gloves to keep your fingers warm while holding onto the swing."
+              }
+            },
+            {
+              "name": {
+                "de": "Sporting Museum in Leiria",
+                "hu": "Sporting Múzeum Leiriában",
+                "ro": "Muzeul Sporting din Leiria",
+                "en": "Sporting Museum in Leiria"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um nach der ersten Etappe die Körperwärme zurückzugewinnen; die fahrradfreundliche Umgebung macht den Halt im Winter unkompliziert.",
+                "hu": "Ez a tökéletes helyszín a testhőmérséklet visszanyerésére az első szakasz után; a kerékpárosbarát környezet megkönnyíti a téli megállót a stadionnál.",
+                "ro": "Acesta este locul perfect pentru a vă recupera căldura corporală după prima etapă; mediul prietenos pentru bicicliști face oprirea ușoară pe timp de iarnă.",
+                "en": "This is the perfect spot to regain your body heat after the first stage of your ride; the bike-friendly environment makes a winter stop at the stadium very easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Te-Ato",
+                "hu": "Te-Ato",
+                "ro": "Te-Ato",
+                "en": "Te-Ato"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen kulturellen Stopp, um sich windgeschützt auszuruhen; die klare Wintersonne lässt das Gebäude am späten Vormittag besonders hell strahlen.",
+                "hu": "Használja ki ezt a rövid kulturális állomást a széltől védett pihenésre; a tiszta téli napsütésben az épület késő délelőtt különösen fényesen ragyog.",
+                "ro": "Profitați de această scurtă oprire culturală pentru a vă odihni ferit de vânt; soarele clar de iarnă face clădirea să strălucească frumos spre prânz.",
+                "en": "Take advantage of this short cultural stop to rest away from the wind; the clear winter sun makes the building shine brightly in the late morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "O Nariz",
+                "hu": "O Nariz",
+                "ro": "O Nariz",
+                "en": "O Nariz"
+              },
+              "tip_5lang": {
+                "de": "Das warme Ambiente im Inneren bietet eine willkommene Abwechslung zur kühlen Außenluft; ideal, um die Energiereserven für den Nachmittag im Trockenen aufzufüllen.",
+                "hu": "A belső tér meleg hangulata kellemes felüdülést nyújt a hűvös kinti levegő után; ideális hely az energiatartalékok feltöltésére a délutáni tekerés előtt.",
+                "ro": "Ambiantul cald din interior oferă o relaxare binevenită după aerul rece de afară; este locul ideal pentru a vă reîncărca bateriile pentru după-amiază.",
+                "en": "The warm indoor ambiance offers a welcome relief from the cool outdoor air; it is an ideal spot to recharge your energy for the afternoon's cycling session."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühle",
+                "hu": "Papírmalom",
+                "ro": "Moara de Hârtie",
+                "en": "Paper Mill"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Fluss ist im Winter besonders ruhig; achten Sie darauf, vor dem frühen Sonnenuntergang hier zu sein, um die Architektur im hellen Licht zu sehen.",
+                "hu": "A folyóparti tekerés télen kifejezetten nyugodt; ügyeljen rá, hogy a korai napnyugta előtt érkezzen ide, hogy még teljes fényben láthassa a malom épületét.",
+                "ro": "Plimbarea pe malul râului este extrem de liniștită iarna; asigurați-vă că ajungeți aici înainte de apusul timpuriu pentru a vedea arhitectura în plină lumină.",
+                "en": "Cycling by the river is exceptionally peaceful in winter; make sure to arrive before the early sunset to see the historic architecture in full daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Menschwerdung",
+                "hu": "A Megtestesülés Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului Întrupate",
+                "en": "Sanctuary of Our Lady of Incarnation"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, doch oben weht oft eine kalte Brise; schalten Sie für die Abfahrt in der Dämmerung nach 17:00 Uhr unbedingt Ihre Beleuchtung ein.",
+                "hu": "Az emelkedő melegen tartja, de a tetőn gyakran fúj a hideg szél; a 17:00 utáni szürkületi lejtőzéshez mindenképpen kapcsolja be a kerékpárja világítását.",
+                "ro": "Urcarea vă va menține cald, dar sus bate adesea un vânt rece; aprindeți luminile bicicletei pentru coborârea la amurg de după ora 17:00.",
+                "en": "The climb will keep you warm, but a cold breeze often blows at the top; be sure to turn on your bike lights for the descent in the twilight after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje az utazást a külvárosi játékkönyvtár családbarát programjaival és interaktív játékokkal.\n\nDélben fedezze fel az egyedülálló ipari műemlékeket és a nyugtató, történelmi termálforrásokat.\n\nKésőbb ismerje meg a város szívében zajló mély, multikulturális párbeszéd gazdag történelmét.\n\nZárja az utat a szentély panorámájával, mielőtt a folyóparti parkban gyönyörködne a naplementében.",
         "ro": "Începeți cu distracție în familie la ludoteca plină de viață situată la marginea orașului.\n\nLa prânz explorați monumentele industriale unice și izvoarele termale istorice liniștitoare.\n\nMai târziu, descoperiți dialogul multicultural profund găzduit în inima centrului orașului.\n\nÎncheiați excursia admirând sanctuarul înainte de a prinde apusul soarelui în parcul verde.",
         "en": "Begin your drive with family-friendly fun at the lively toy library on the outskirts.\n\nMidday sees you exploring unique industrial monuments and the calming historic thermal springs.\n\nLater, discover the profound multicultural dialogue housed in the heart of the city center.\n\nEnd the road trip admiring the panoramic sanctuary views before catching sunset at the park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Leiria komfortabel vom Auto aus, während der Regen gegen die Scheiben prasselt. Starten Sie bei der Ludothek, wo Sie trockenen Fußes parken können. Mittags ermöglichen kurze Fahrten zwischen den Monumenten eine Besichtigung ohne nass zu werden. Der Nachmittag am Heiligtum bietet eine tolle Aussicht aus dem Auto. Den Abend können Sie entspannt in der beleuchteten Innenstadt ausklingen lassen.",
+            "hu": "Élvezze Leiriát kényelmesen az autóból, miközben az eső a szélvédőn kopog. Kezdje a Ludotékánál, ahol közvetlen közelben parkolhat. Napközben a rövid autós utak lehetővé teszik a műemlékek megtekintését anélkül, hogy bőrig ázna. A kegyhelyről délután remek kilátás nyílik az esős városra akár az autóból is. Az estét a kivilágított belváros fényeiben gyönyörködve zárhatja.",
+            "ro": "Bucurați-vă de Leiria confortabil din mașină, în timp ce ploaia bate în parbriz. Începeți la Ludotecă, unde puteți parca foarte aproape de intrare. În timpul zilei, scurte drumuri cu mașina permit vizitarea monumentelor fără a vă uda. După-amiaza la sanctuar oferă o vedere excelentă asupra orașului ploios chiar din mașină. Seara se încheie relaxat admirând luminile centrului.",
+            "en": "Enjoy Leiria comfortably from your car while the rain taps on the windshield. Start at the Toy Library, where you can park very close to the entrance. During the day, short drives between monuments allow for sightseeing without getting soaked. The afternoon at the sanctuary offers a great view of the rainy city even from the car. End your evening admiring the lit-up city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtische Spielzeugbibliothek Leiria",
+                "hu": "Leiriai Városi Játékkönyvtár",
+                "ro": "Ludoteca Municipală din Leiria",
+                "en": "Leiria Municipal Toy Library"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden; im Inneren wartet eine bunte, trockene Welt auf Kinder und Erwachsene gleichermaßen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz az eső elkerülése érdekében; odabent vidám és száraz játékbirodalom várja a kicsiket és a nagyokat egyaránt.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; în interior vă așteaptă o lume colorată și uscată, ideală pentru copii și adulți deopotrivă.",
+                "en": "Park as close to the entrance as possible to avoid the rain; inside, a colorful and dry world of toys awaits children and adults alike in any weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Kunststoffindustrie",
+                "hu": "A Műanyagipar Emlékműve",
+                "ro": "Monumentul Industriei Plasticelor",
+                "en": "Monument to the Plastics Industry"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Denkmal lässt sich hervorragend durch das Autofenster betrachten; die nassen Oberflächen reflektieren das Licht auf interessante Weise.",
+                "hu": "Ez a modern emlékmű kiválóan megcsodálható akár az autó ablakán keresztül is; a vizes felületek érdekes módon tükrözik vissza a város fényeit.",
+                "ro": "Acest monument modern poate fi admirat excelent chiar prin geamul mașinii; suprafețele umede reflectă luminile orașului într-un mod foarte interesant.",
+                "en": "This modern monument can be viewed excellently through your car window; the wet surfaces reflect the surrounding lights in an interesting and unique way."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte Quente",
+                "hu": "Fonte Quente",
+                "ro": "Fonte Quente",
+                "en": "Fonte Quente"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier möglich, da man direkt daneben halten kann; die historische Quelle wirkt im Regen besonders atmosphärisch und zeitlos.",
+                "hu": "Egy gyors megálló itt könnyen kivitelezhető, mivel közvetlenül mellette lehet megállni; a történelmi forrás az esőben különösen hangulatos és időtlen.",
+                "ro": "O oprire rapidă aici este ușor de făcut, deoarece puteți parca chiar lângă; fântâna istorică pare deosebit de atmosferică și atemporală pe timp de ploaie.",
+                "en": "A quick stop here is easily done as you can pull up right next to it; the historic fountain looks especially atmospheric and timeless in the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum für interkulturellen Dialog von Leiria",
+                "hu": "Leiriai Interkulturális Párbeszéd Központ",
+                "ro": "Centrul de Dialog Intercultural din Leiria",
+                "en": "Leiria Intercultural Dialogue Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen kurzen Weg ins Trockene; drinnen können Sie in Ruhe die kulturelle Vielfalt Leirias ohne Eile studieren.",
+                "hu": "Használja a közeli parkolót a száraz épületbe való gyors bejutáshoz; odabent nyugodtan tanulmányozhatja Leiria kulturális sokszínűségét az eső elől védve.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; în interior puteți studia în liniște diversitatea culturală a orașului, ferit de ploaie.",
+                "en": "Use the nearby parking to get inside quickly; once in the dry interior, you can study Leiria's cultural diversity at your own pace while avoiding the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Menschwerdung",
+                "hu": "A Megtestesülés Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului Întrupate",
+                "en": "Sanctuary of Our Lady of Incarnation"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis ganz nach oben, um den Aufstieg im Regen zu vermeiden; die Aussicht auf die Burg durch die Regentropfen auf der Scheibe ist einmalig.",
+                "hu": "Hajtson fel egészen a tetőig, hogy elkerülje az esős gyaloglást; a várra nyíló kilátás az üvegen lecsorgó esőcseppeken keresztül egészen egyedi élmény.",
+                "ro": "Urcați cu mașina până sus pentru a evita mersul pe jos prin ploaie; vederea spre castel prin picăturile de pe parbriz este o experiență cu totul unică.",
+                "en": "Drive all the way to the top to avoid walking in the rain; the view of the castle through the raindrops on your windshield is a truly unique experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Schaukel im grünen Park von Leiria",
+                "hu": "Leiriai Zöld Park Hinta",
+                "ro": "Leagănul din Parcul Verde din Leiria",
+                "en": "Leiria Green Park Swing"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick aus dem trockenen Auto auf die grüne Oase; im Regen ist der Park fast menschenleer und wirkt dadurch besonders friedlich und still.",
+                "hu": "Egy utolsó pillantás a száraz autóból a zöld oázisra; az esőben a park szinte néptelen, így különösen békés és csendes hangulatot áraszt a látogatóknak.",
+                "ro": "O ultimă privire din mașina uscată spre oaza verde; pe ploaie, parcul este aproape pustiu, oferind o atmosferă extrem de liniștită și relaxantă.",
+                "en": "One last look at the green oasis from the comfort of your dry car; in the rain, the park is almost empty, creating a peaceful and quiet atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Leiria im Winter bequem mit dem Auto und genießen Sie die warme Heizung zwischen den Stopps. Starten Sie bei der Ludothek, einem idealen Ort für kalte Morgenstunden. Mittags führen Sie kurze Fahrten zu den Monumenten, wobei Sie die klare Winterluft nur kurz genießen müssen. Da es um 17:00 Uhr dunkel wird, bietet das Heiligtum den perfekten Ort für den Sonnenuntergang. Der Tag endet im beleuchteten Zentrum.",
+            "hu": "Fedezze fel Leiriát télen kényelmesen, az autó fűtését élvezve a megállók között. Kezdjen a Ludotékánál, amely ideális helyszín a hűvös reggeli órákban. Napközben az autóval gyorsan elérheti a műemlékeket, így csak rövid ideig kell a hidegben tartózkodnia. Mivel 17:00-kor sötétedik, a kegyhely tökéletes pont a naplemente megtekintéséhez. A napot a kivilágított belvárosban zárhatja.",
+            "ro": "Explorați Leiria iarna confortabil cu mașina, bucurându-vă de căldură între opriri. Începeți la Ludotecă, un loc ideal pentru orele reci de dimineață. În timpul zilei, mașina vă duce rapid la monumente, limitând timpul petrecut în frig. Deoarece se întunecă la ora 17:00, sanctuarul este locul perfect pentru a vedea apusul. Ziua se încheie în centrul luminat festiv.",
+            "en": "Explore Leiria in winter comfortably by car, enjoying the warmth between stops. Start at the Toy Library, an ideal location for the chilly morning hours. During the day, the car takes you quickly to the monuments, minimizing your time in the cold air. Since it gets dark at 17:00, the sanctuary is the perfect spot for sunset. The day ends in the beautifully lit city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtische Spielzeugbibliothek Leiria",
+                "hu": "Leiriai Városi Játékkönyvtár",
+                "ro": "Ludoteca Municipală din Leiria",
+                "en": "Leiria Municipal Toy Library"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein hervorragender Ort, um den Tag im Warmen zu beginnen; die bunte Spielwelt lässt die winterliche Kälte draußen schnell in Vergessenheit geraten.",
+                "hu": "Ez egy kiváló helyszín a nap melegben történő indításához; a színes játékvilág hamar elfeledteti a kinti téli hűvös levegőt a látogatókkal.",
+                "ro": "Acesta este un loc excelent pentru a începe ziua la căldură; lumea colorată a jocurilor vă va face să uitați rapid de frigul iernii de afară.",
+                "en": "This is an excellent place to start your day in the warmth; the colorful world of toys will quickly make you forget the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Kunststoffindustrie",
+                "hu": "A Műanyagipar Emlékműve",
+                "ro": "Monumentul Industriei Plasticelor",
+                "en": "Monument to the Plastics Industry"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal kurz im klaren Winterlicht; die tiefstehende Sonne lässt die Oberflächen am Vormittag besonders glänzen und strahlen.",
+                "hu": "Csodálja meg az emlékművet a tiszta téli fényben; az alacsonyan járó napfény délelőtt különösen szépen csillog a modern alkotás felületein.",
+                "ro": "Admirați monumentul în lumina clară de iarnă; soarele de dimineață face suprafețele acestei opere moderne să strălucească în mod deosebit.",
+                "en": "Admire the monument in the clear winter light; the low-angled morning sun makes the surfaces of this modern work shine and glint beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte Quente",
+                "hu": "Fonte Quente",
+                "ro": "Fonte Quente",
+                "en": "Fonte Quente"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt an der Quelle lohnt sich auch im Winter; der Kontrast zwischen der kalten Luft und dem historischen Ort ist am Mittag sehr reizvoll.",
+                "hu": "Egy gyors megálló a forrásnál télen is megéri; a hideg levegő és a történelmi helyszín közötti kontraszt délidőben kifejezetten vonzó látványt nyújt.",
+                "ro": "O oprire rapidă la fântână merită și iarna; contrastul dintre aerul rece și locul istoric este foarte atrăgător la ora prânzului.",
+                "en": "A quick stop at the fountain is worthwhile even in winter; the contrast between the cold air and the historic site is very appealing at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentrum für interkulturellen Dialog von Leiria",
+                "hu": "Leiriai Interkulturális Párbeszéd Központ",
+                "ro": "Centrul de Dialog Intercultural din Leiria",
+                "en": "Leiria Intercultural Dialogue Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine ausgiebige Besichtigung; im Winter herrscht hier eine besonders ruhige und andächtige Atmosphäre.",
+                "hu": "Használja ki a fűtött belső teret egy alapos látogatáshoz; télen különösen nyugodt és áhítatos hangulat uralkodik a központ kiállítótermeiben.",
+                "ro": "Profitați de spațiul interior încălzit pentru o vizită detaliată; iarna aici domnește o atmosferă deosebit de liniștită și plină de respect.",
+                "en": "Take advantage of the heated interior for a detailed visit; in winter, a particularly calm and reverent atmosphere prevails in the center's rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum unserer Lieben Frau der Menschwerdung",
+                "hu": "A Megtestesülés Miasszonyunk Szentélye",
+                "ro": "Sanctuarul Maicii Domnului Întrupate",
+                "en": "Sanctuary of Our Lady of Incarnation"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den Sonnenuntergang um 17:00 Uhr; genießen Sie das Farbspiel über der Stadt vom warmen Auto aus oder bei einem kurzen Spaziergang.",
+                "hu": "Ideális helyszín a 17:00 órakor bekövetkező naplemente megtekintéséhez; élvezze a színek játékát a város felett a meleg autóból vagy egy rövid séta során.",
+                "ro": "Locul ideal pentru a vedea apusul de la ora 17:00; bucurați-vă de jocul de culori deasupra orașului din mașina caldă sau în timpul unei scurte plimbări.",
+                "en": "The ideal spot to watch the 17:00 sunset; enjoy the play of colors over the city from your warm car or during a very brief, refreshing walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Schaukel im grünen Park von Leiria",
+                "hu": "Leiriai Zöld Park Hinta",
+                "ro": "Leagănul din Parcul Verde din Leiria",
+                "en": "Leiria Green Park Swing"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den winterlichen Park; die klare Abendluft lässt die Lichter der Stadt in der Ferne besonders scharf funkeln.",
+                "hu": "Zárja a napot a téli park látványával; a tiszta esti levegőben a távoli városi fények különösen élesen és szépen szikráznak a látogatók számára.",
+                "ro": "Încheiați ziua cu o vedere asupra parcului iarna; aerul clar de seară face luminile orașului din depărtare să sclipească extrem de clar și frumos.",
+                "en": "End your day with a view of the winter park; the clear evening air makes the distant city lights sparkle with exceptional sharpness and beauty."
+              }
+            }
+          ]
+        }
       }
     }
   }

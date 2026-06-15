@@ -137,6 +137,168 @@
         "hu": "A gyalogtúra Rosny-sur-Seine szívében, a központi Saint-Jean-Baptiste templomnál kezdődik. A reggeli fény tökéletesen megvilágítja vallási jelentőségét. A dél közeledtével egy rövid séta elviszi a csodálatos Rosny Kastélyhoz, amely feltárja a régió királyi múltját. Délután fedezze fel a lenyűgöző Saint-Charles Ispotályt és Sully történelmi helyszínét. A nap az Église Notre-Dame-nál ér véget, amely békés esti hangulatot kínál.",
         "ro": "Turul pietonal începe în inima orașului Rosny-sur-Seine, la biserica centrală Saint-Jean-Baptiste. Lumina dimineții îi luminează perfect semnificația religioasă. La prânz, o scurtă plimbare vă duce la magnificul Castel Rosny, dezvăluind trecutul regal al regiunii. După-amiaza, explorați fascinantul Hospiciu Saint-Charles și situl istoric Sully. Ziua dumneavoastră se încheie liniștit la Église Notre-Dame, oferind o ambianță pașnică de seară.",
         "en": "Your walking tour begins in the heart of Rosny-sur-Seine at the central Saint-Jean-Baptiste Church. The morning light perfectly illuminates its religious significance. As mid-day approaches, a short stroll brings you to the magnificent Château de Rosny, revealing the region's royal past. In the afternoon, explore the fascinating Saint-Charles Hospice and the historical site of Sully to uncover charitable and noble legacies. Your day concludes gracefully at Église Notre-Dame, offering a peaceful evening ambiance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im Schutz der Kirche. Mittags bieten das Schloss und das historische Hospiz trockene Zuflucht. Navigieren Sie nachmittags vorsichtig auf nassen Wegen zum Sully-Denkmal. Beenden Sie den Tag in der Notre-Dame, während der Regen eine ruhige Atmosphäre schafft. Regenschirm nicht vergessen!",
+            "hu": "Kezdje az esős reggelt a templom védelmet nyújtó falaiban. Délben keressen menedéket a kastély és a történelmi ispotály termeiben. Délután óvatosan sétáljon a nedves utakon a Sully emlékmű felé. Zárja a napot a Notre-Dame-ban, ahol az eső békés hangulatot teremt. Legyen kéznél az esernyő és figyeljen a csúszós kövekre!",
+            "ro": "Începeți dimineața ploioasă la adăpostul bisericii. La prânz, refugiați-vă în sălile castelului și ale ospiciului istoric. După-amiaza, navigați cu grijă pe aleile ude spre monumentul Sully. Încheiați ziua în Notre-Dame, ascultând ploaia liniștitoare. Păstrați o umbrelă la îndemână pe tot parcursul zilei!",
+            "en": "Start your rainy morning at the protective walls of the local church. By midday, take shelter in the grand halls of the château and historic hospice. As the afternoon rain continues, carefully navigate the wet paths towards the Sully monument. End your day seeking refuge in the beautiful Notre-Dame. Keep an umbrella handy!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster und bleiben Sie in diesem massiven Steinsanktuarium während der morgendlichen Schauer völlig trocken.",
+                "hu": "Csodálja meg az üvegablakokat, miközben teljesen száraz marad ebben a masszív kőtemplomban a reggeli záporok idején.",
+                "ro": "Admirați vitraliile și rămâneți complet uscat în acest sanctuar solid din piatră în timpul averselor de dimineață.",
+                "en": "Admire the stained glass while staying completely dry inside this solid stone sanctuary during the morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rosny-sur-Seine",
+                "hu": "Rosny-sur-Seine Kastély",
+                "ro": "Castelul Rosny-sur-Seine",
+                "en": "Château de Rosny sur Seine"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das reiche Innere dieses prächtigen Schlosses, das eine perfekte elegante Flucht vor den heftigen Regengüssen bietet.",
+                "hu": "Fedezze fel a lenyűgöző kastély gazdag belső tereit, amely tökéletes és elegáns menedéket nyújt a heves felhőszakadások elől.",
+                "ro": "Explorați interiorul bogat al acestui castel magnific, oferind o evadare elegantă perfectă din calea ploilor torențiale.",
+                "en": "Explore the rich interior of this magnificent castle, providing a perfect elegant escape from the heavy downpours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz Saint-Charles",
+                "hu": "Saint-Charles Ispotály",
+                "ro": "Hospiciul Saint-Charles",
+                "en": "Saint-Charles Hospice"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Geschichte in den überdachten Korridoren des Hospizes, abseits der rutschigen Außenpflastersteine.",
+                "hu": "Ismerje meg a helyi történelmet az ispotály fedett folyosóin, távol a kinti csúszós, nedves macskaköves utaktól.",
+                "ro": "Descoperiți istoria locală în coridoarele acoperite ale ospiciului, ferindu-vă de pietrele cubice alunecoase de afară.",
+                "en": "Discover local history within the covered corridors of the hospice, keeping away from the slippery outdoor cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Sully",
+                "hu": "Sully",
+                "ro": "Sully",
+                "en": "Sully"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Sully-Stätte unter Ihrem Regenschirm und achten Sie auf Pfützen rund um die alten Überreste.",
+                "hu": "Tekintse meg a történelmi Sully emlékművet esernyője alól, vigyázva az évszázados romok körül kialakuló pocsolyákra.",
+                "ro": "Priviți situl istoric Sully sub umbrelă, fiind atenți la bălțile care se formează în jurul rămășițelor seculare.",
+                "en": "View the historic Sully site under your umbrella, being careful of puddles forming around the centuries-old architectural remains."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Frieden in dieser Kirche und lauschen Sie dem Regen auf dem Dach, während Sie sich am späten Nachmittag abtrocknen.",
+                "hu": "Találjon békét ebben a gyönyörű templomban, hallgatva az eső kopogását a tetőn, miközben délután megszárad egy kicsit.",
+                "ro": "Găsiți liniște în această biserică frumoasă, ascultând ploaia cum bate pe acoperiș în timp ce vă uscați spre seară.",
+                "en": "Find peace inside this beautiful church, listening to the rain tap against the roof while you dry off in the afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren frostigen Wintermorgen in der historischen Kirche. Mittags wärmen Sie sich im prächtigen Schloss und den klassischen Hospizwänden auf. Gehen Sie nachmittags zügig am Sully-Denkmal vorbei, um warm zu bleiben. Beenden Sie Ihren kühlen Spaziergang an der Notre-Dame, kurz bevor die frühe Dämmerung gegen 17:00 Uhr einsetzt. Ziehen Sie sich warm an!",
+            "hu": "Kezdje a csípős téli reggelt a történelmi templom felfedezésével. Délben melegedjen fel a lenyűgöző kastélyban és a klasszikus ispotályban. A friss délutáni levegőn sétáljon fürgén a Sully emlékmű felé. Zárja a fagyos sétát a Notre-Dame-nál, éppen a korai, 17:00 óra körüli sötétedés előtt. Öltözzön rétegesen és melegen!",
+            "ro": "Începeți dimineața geroasă de iarnă explorând biserica istorică. La prânz, încălziți-vă în magnificul castel și în ospiciul clasic. După-amiaza, mergeți vioias pe lângă monumentul Sully. Încheiați plimbarea răcoroasă la Notre-Dame exact când se lasă întunericul timpuriu, în jur de ora 17:00. Îmbrăcați-vă gros!",
+            "en": "Begin your crisp winter morning exploring the historic church in the chilling air. At noon, warm up inside the magnificent château and the classic hospice walls. In the brisk afternoon, walk briskly past the Sully landmark. Conclude your chilly walk at Notre-Dame just as early dusk falls around 17:00. Dress in warm layers!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem morgendlichen Frost zu entkommen und das ruhige Winterlicht durch die alten Fenster zu bewundern.",
+                "hu": "Lépjen be, hogy menedéket találjon a reggeli fagy elől, és megcsodálja az ősi ablakokon átszűrődő téli fényeket.",
+                "ro": "Intrați pentru a scăpa de gerul dimineții și pentru a admira lumina liniștită a iernii filtrată prin ferestrele antice.",
+                "en": "Step inside to escape the morning frost and admire the quiet winter light filtering through the ancient stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rosny-sur-Seine",
+                "hu": "Rosny-sur-Seine Kastély",
+                "ro": "Castelul Rosny-sur-Seine",
+                "en": "Château de Rosny sur Seine"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die großen Säle des Schlosses, die eine zugige, aber großartige Winteratmosphäre bieten; tragen Sie drinnen eine zusätzliche Schicht.",
+                "hu": "Járja be a kastély termeit, amelyek hűvös, de lenyűgöző téli hangulatot árasztanak; viseljen egy extra réteget odabent is.",
+                "ro": "Vizitați marile săli ale castelului, care oferă o atmosferă de iarnă grandioasă, dar răcoroasă; purtați un strat în plus înăuntru.",
+                "en": "Tour the grand halls of the castle, which offers a drafty but magnificent winter atmosphere; wear an extra layer inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hospiz Saint-Charles",
+                "hu": "Saint-Charles Ispotály",
+                "ro": "Hospiciul Saint-Charles",
+                "en": "Saint-Charles Hospice"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Pflegegeschichte im historischen Hospiz, das einen wärmenden Stopp vor dem beißenden Winterwind bietet.",
+                "hu": "Ismerje meg a város gondoskodó múltját a történelmi ispotályban, amely megnyugtató, meleg állomás a csípős téli szél elől.",
+                "ro": "Aflați despre trecutul ospiciului istoric, oferind o oprire reconfortantă și caldă din calea vântului tăios de iarnă.",
+                "en": "Learn about the town's caregiving past in the historic hospice, offering a comforting stop from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sully",
+                "hu": "Sully",
+                "ro": "Sully",
+                "en": "Sully"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das Sully-Denkmal unter dem blassen Winterhimmel und gehen Sie zügig, um Ihre Körpertemperatur angenehm zu halten.",
+                "hu": "Fényképezze le a Sully emlékművet a sápadt téli égbolt alatt, fürgén haladva, hogy a testhőmérséklete kellemes maradjon.",
+                "ro": "Fotografiați monumentul Sully sub cerul palid de iarnă, mergând rapid pentru a vă menține temperatura corpului confortabilă.",
+                "en": "Photograph the Sully monument under the pale winter sky, walking briskly to keep your body temperature comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in dieser friedlichen Kirche, bevor der Sonnenuntergang um 17:00 Uhr die frostigen Straßen in Dunkelheit hüllt.",
+                "hu": "Fejezze be sétáját ebben a békés templomban, mielőtt a 17:00 órai naplemente sötétségbe borítja a fagyos utcákat.",
+                "ro": "Încheiați plimbarea în această biserică pașnică înainte ca apusul de la 17:00 să scufunde străzile înghețate în întuneric.",
+                "en": "End your walk inside this peaceful church before the 17:00 sunset plunges the surrounding frosty streets into darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros útját a déli külvárosban, a békés Beurons Kastélynál, magába szívva a kora reggeli nyugalmat. Délben tekerjen be a nyüzsgő városközpontba a Saint-Jean-Baptiste templomhoz és a Rosny Kastélyhoz. A délután folyamán kényelmesen eljuthat Sullyba és a közeli Église Notre-Dame-hoz. Végül egy kellemes esti kerékpározás az Église Saint-Michelhez viszi egy elmélyült befejezésért.",
         "ro": "Începeți călătoria cu bicicleta la periferia sudică, la Castelul Beurons, bucurându-vă de liniștea dimineții devreme. La prânz, pedalați spre centrul plin de viață pentru a vizita Biserica Saint-Jean-Baptiste și emblematicul Castel Rosny. După-amiaza vă invită să mergeți spre Sully și Biserica Notre-Dame, bucurându-vă de farmecul istoric. În final, o plimbare ușoară de seară vă duce la Biserica Saint-Michel pentru un final liniștit.",
         "en": "Start your cycling journey in the southern outskirts at the serene Château des Beurons, soaking in the early morning tranquility. By mid-day, pedal into the lively town center to visit the Saint-Jean-Baptiste Church and the iconic Château de Rosny. The afternoon invites you to seamlessly ride towards Sully and the nearby Église Notre-Dame, enjoying the town's historical charm. Finally, a gentle evening bike ride takes you to Église Saint-Michel for a reflective finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie heute Morgen vorsichtig zu den historischen Ruinen und tragen Sie gut sichtbare Regenkleidung. Mittags erreichen Sie die geschützte Kirche und das große Schloss. Setzen Sie Ihren regnerischen Nachmittag fort, indem Sie vorsichtig zum Sully-Bereich radeln. Beenden Sie die Tour an der Saint-Michel, während der Regen die Stadt reinwäscht. Bremsen Sie früh bei Nässe!",
+            "hu": "Tekerjen óvatosan a nedves reggelen a történelmi romokhoz, jól látható vízálló ruházatban. A dél a fedett templomnál és a hatalmas kastélynál éri. Délután folytassa útját a Sully térség felé, figyelve a csúszós falevelekre. Zárja a napot a Saint-Michel templomnál, miközben az eső tisztára mossa a várost. Fékezzen időben a vizes lejtőkön!",
+            "ro": "Pedalați cu grijă în această dimineață umedă spre ruinele istorice, purtând haine impermeabile vizibile. Prânzul vă aduce la biserica adăpostită și marele castel. Continuați după-amiaza ploioasă spre zona Sully, atenți la frunzele alunecoase. Terminați la Saint-Michel. Frânați din timp pe coborârile ude!",
+            "en": "Ride carefully this wet morning to the historic ruins, wearing high-visibility waterproofs. Midday brings you to the sheltered church and the grand château. Continue your rainy afternoon cycling to the Sully area, watching out for slick leaves. Finish at Saint-Michel as the rain washes the town clean. Brake early on wet roads!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Beurons",
+                "hu": "Beurons Kastély",
+                "ro": "Castelul Beurons",
+                "en": "Château des Beurons"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Burgruinen durch den Nebel; halten Sie Ihre Reifen auf den befestigten Rändern, um den schlammigen Rasen zu meiden.",
+                "hu": "Figyelje meg a kastélyromokat a ködön keresztül; tartsa a kerékpárt a burkolt széleken, hogy elkerülje a sárba ragadást.",
+                "ro": "Observați ruinele castelului prin ceață; țineți anvelopele pe marginile pavate pentru a evita gazonul noroios.",
+                "en": "Observe the atmospheric castle ruins through the mist; keep your bike tires on the paved edges to avoid the muddy turf."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom Treten im Regen, um das trockene, friedliche Innere dieses zentralen religiösen Wahrzeichens zu bewundern.",
+                "hu": "Tartson egy kis szünetet az esős tekerésben, és csodálja meg ennek a központi vallási műemléknek a száraz, békés belsejét.",
+                "ro": "Luați o pauză de la pedalat în ploaie pentru a admira interiorul uscat și liniștit al acestui punct de reper religios central.",
+                "en": "Take a break from pedaling in the rain to admire the dry, peaceful interior of this central religious landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rosny-sur-Seine",
+                "hu": "Rosny-sur-Seine Kastély",
+                "ro": "Castelul Rosny-sur-Seine",
+                "en": "Château de Rosny sur Seine"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr nasses Fahrrad draußen und genießen Sie die großzügigen, trockenen Innenausstellungen dieser spektakulären Festung.",
+                "hu": "Zárja le vizes kerékpárját kint, és élvezze a látványos folyóparti erődítmény fényűző, száraz belső kiállításait.",
+                "ro": "Asigurați bicicleta udă afară și bucurați-vă de expozițiile interioare generoase și uscate ale acestei fortărețe spectaculoase.",
+                "en": "Secure your wet bike outside and enjoy the lavish, dry indoor exhibitions of this spectacular riverside fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Sully",
+                "hu": "Sully",
+                "ro": "Sully",
+                "en": "Sully"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an diesem historischen Ort an, behalten Sie Ihre wasserdichte Kapuze auf und achten Sie auf rutschige nasse Pflastersteine.",
+                "hu": "Álljon meg röviden ezen a történelmi helyen, tartsa magán a vízálló csuklyát, és vigyázzon a csúszós, nedves macskakövekre.",
+                "ro": "Opriți-vă scurt la acest loc istoric, ținând gluga impermeabilă pusă și fiind atenți la pietrele cubice umede și alunecoase.",
+                "en": "Pause briefly at this historic spot, keeping your waterproof hood up and watching for slippery wet paving stones nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie schnell Schutz in dieser charmanten Kirche, um Ihre Hände aufzuwärmen und Ihre Radhandschuhe vor der letzten Etappe zu trocknen.",
+                "hu": "Keressen gyors menedéket ebben a bájos templomban, hogy felmelegítse kezét és megszárítsa kerékpáros kesztyűjét az utolsó szakasz előtt.",
+                "ro": "Căutați adăpost rapid în această biserică fermecătoare pentru a vă încălzi mâinile și a usca mănușile înainte de ultima etapă.",
+                "en": "Seek quick shelter inside this charming church to warm your hands and dry your cycling gloves before the final leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre regnerische Fahrt an dieser ruhigen Kapelle; fahren Sie langsam auf den glatten Straßen zurück zum Ausgangspunkt.",
+                "hu": "Fejezze be esős útját ennél a csendes kápolnánál; haladjon lassan a csúszós utakon, miközben visszatér a kiindulóponthoz.",
+                "ro": "Finalizați plimbarea ploioasă la această capelă liniștită; mergeți încet pe drumurile alunecoase înapoi spre punctul de plecare.",
+                "en": "Complete your rainy ride at this quiet chapel; ride slowly on the slick roads leading back to your starting point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch die frostige Morgenluft zu den Beurons-Ruinen, gekleidet in Thermoschichten. Mittags führt Ihr Weg zur zentralen Kirche und zum majestätischen Schloss. Fahren Sie am kühlen Nachmittag am Sully-Denkmal vorbei. Beenden Sie die Fahrt an der Saint-Michel, kurz bevor die frühe Winternacht um 17:00 Uhr einbricht. Fahrradlichter laden!",
+            "hu": "Tekerjen át a fagyos reggeli levegőn a Beurons romokhoz, meleg termo rétegekbe öltözve. A dél a központi templomhoz és a fenséges kastélyhoz vezet. A csípős délutánon kerékpározzon el a Sully emlékmű mellett. Fejezze be az utat a Saint-Michel templomnál, mielőtt a korai, 17:00 órás téli éjszaka leszáll. Ellenőrizze a kerékpáros lámpákat!",
+            "ro": "Pedalați prin aerul geros al dimineții către ruinele Beurons, purtând straturi termice. Prânzul vă duce la biserica centrală și la maiestuosul castel. În după-amiaza răcoroasă, treceți pe lângă monumentul Sully. Terminați la Saint-Michel exact când noaptea de iarnă se lasă în jur de ora 17:00. Asigurați-vă că luminile bicicletei sunt încărcate!",
+            "en": "Pedal through the frosty morning air to the Beurons ruins, wearing thermal layers. Midday takes you to the central church and majestic château. In the chilling afternoon, cycle past the Sully landmark. Finish at Saint-Michel just as the early winter night sets in around 17:00. Ensure your bike lights are fully charged and ready!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Beurons",
+                "hu": "Beurons Kastély",
+                "ro": "Castelul Beurons",
+                "en": "Château des Beurons"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Schönheit der frostbedeckten Burgruinen; tragen Sie dicke Handschuhe, da der Lenker am Morgen eiskalt wird.",
+                "hu": "Élvezze a dérrel borított kastélyromok zord szépségét; viseljen vastag kesztyűt, mert a reggeli kormány jéghideg lehet.",
+                "ro": "Bucurați-vă de frumusețea ruinelor acoperite de brumă; purtați mănuși groase deoarece ghidonul dimineața este înghețat.",
+                "en": "Enjoy the stark beauty of the frost-covered castle ruins; wear thick gloves as the morning handlebar gets freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem beißenden Wind in diese ruhige Kirche, um Ihren Rumpf vor dem nächsten Radabschnitt aufzuwärmen.",
+                "hu": "Lépjen be a csípős szélből ebbe a csendes templomba, hogy felmelegítse testét a következő kerékpáros szakasz előtt.",
+                "ro": "Ieșiți din vântul tăios în această biserică liniștită pentru a vă încălzi corpul înainte de următorul segment de ciclism.",
+                "en": "Step out of the biting wind into this quiet church to warm your core before the next cycling segment."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rosny-sur-Seine",
+                "hu": "Rosny-sur-Seine Kastély",
+                "ro": "Castelul Rosny-sur-Seine",
+                "en": "Château de Rosny sur Seine"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch die eleganten Schlossräume, ein perfekter Ort, um sich die Beine zu vertreten und während der Winterfahrt aufzutauen.",
+                "hu": "Sétáljon végig az elegáns kastélytermeken, amely tökéletes hely arra, hogy kinyújtóztassa a lábát és felengedjen a téli út során.",
+                "ro": "Plimbați-vă prin camerele elegante, un loc perfect pentru a vă întinde picioarele și a vă dezgheța în timpul călătoriei de iarnă.",
+                "en": "Wander through the elegant castle rooms, a perfect place to stretch your legs and thaw out during your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Sully",
+                "hu": "Sully",
+                "ro": "Sully",
+                "en": "Sully"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich diese historische Stätte unter dem klaren Winterhimmel an und halten Sie Ihre Stopps kurz, um die Körperwärme zu erhalten.",
+                "hu": "Tekintse meg ezt a történelmi helyszínt a tiszta téli égbolt alatt, tartsa rövidre a megállókat, hogy megőrizze testhőjét.",
+                "ro": "Verificați acest sit istoric sub cerul senin de iarnă, păstrând opririle scurte pentru a vă menține căldura corpului.",
+                "en": "Check out this historical site under the clear winter sky, keeping your stops brief to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die komplizierten Details dieser Kirche, eine schnelle und wärmende Zuflucht, da die Nachmittagstemperaturen sinken.",
+                "hu": "Csodálja meg a templom részleteit, amely gyors és meleg menedéket nyújt, ahogy a délutáni hőmérséklet rohamosan csökken.",
+                "ro": "Admirați detaliile complicate ale acestei biserici, un refugiu rapid și cald pe măsură ce temperaturile de după-amiază încep să scadă.",
+                "en": "Admire the intricate details of this church, a quick and warming refuge as the afternoon temperatures begin to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diese letzte Kirche kurz vor dem Sonnenuntergang um 17:00 Uhr; schalten Sie Ihre hellen Fahrradlichter für die Heimfahrt ein.",
+                "hu": "Érje el ezt az utolsó templomot nem sokkal a 17:00 órás naplemente előtt; kapcsolja fel erős kerékpáros lámpáit a sötét, hideg hazaúthoz.",
+                "ro": "Ajungeți la această ultimă biserică chiar înainte de apusul de la 17:00; aprindeți luminile bicicletei pentru drumul întunecat și rece.",
+                "en": "Reach this final church just before the 17:00 sunset; turn on your bright bike lights for the dark, cold ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós útvonala a szerény déli Église Saint-Martin-nál kezdődik, amely csendes reggelt biztosít a tömegek előtt. Később vezessen a Beurons Kastély romjaihoz, majd a városközpontba a Saint-Jean-Baptiste templomhoz. A délutánt a lenyűgöző Rosny Kastély és a Sully emlékmű megcsodálásával töltheti. Zárja le átfogó körútját egy frissítő esti autózással a buja Rosny-erdőbe.",
         "ro": "Itinerariul auto începe la modesta Biserică Saint-Martin din sud, permițând o dimineață liniștită înainte de aglomerație. Mai târziu, conduceți la Castelul Beurons și spre centrul orașului la Biserica Saint-Jean-Baptiste. Petreceți după-amiaza admirând marele Castel Rosny și monumentul istoric Sully. Încheiați turul cuprinzător cu o plimbare răcoritoare de seară spre pădurea luxuriantă Rosny.",
         "en": "Your driving itinerary begins at the modest Église Saint-Martin in the south, allowing for a quiet morning before the crowds. Later, drive to the ruins of Château des Beurons and head into the town center for the prominent Saint-Jean-Baptiste Church. Spend your afternoon admiring the grand Château de Rosny and the historical Sully monument, followed by a quick stop at Église Saint-Michel. Conclude your comprehensive tour with a refreshing evening drive to the lush Rosny Forest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie heute Morgen vorsichtig auf nassen Straßen zur Saint-Martin und den Beurons-Ruinen. Mittags parken Sie in der Nähe der trockenen Kirche und des Schlosses. Verbringen Sie Ihren regnerischen Nachmittag an der Sully-Stätte. Schließen Sie mit einer malerischen, wenn auch nassen Fahrt durch den Rosny-Wald ab. Achten Sie auf tiefe Pfützen!",
+            "hu": "Vezessen óvatosan a vizes utakon ezen a reggelen a Saint-Martin és a Beurons romok felé. Délben parkoljon a száraz templom és kastély közelében. Az esős délutánt a Sully emlékműnél és a Saint-Michel templomnál töltse. Zárja a napot egy festői, bár nedves autózással a Rosny-erdőn keresztül. Vigyázzon a mély pocsolyákra és használjon ködlámpát!",
+            "ro": "Conduceți cu atenție pe drumurile ude spre Saint-Martin și ruinele Beurons. La prânz, parcați lângă sanctuarele uscate ale bisericii și castelului. Petreceți după-amiaza ploioasă vizitând Sully și Saint-Michel. Încheiați cu un drum pitoresc prin Pădurea Rosny. Atenție la bălțile adânci și folosiți farurile de ceață!",
+            "en": "Drive carefully on wet roads this morning to Saint-Martin and the Beurons ruins. By midday, park near the dry sanctuaries of the church and château. Spend your rainy afternoon visiting the Sully site and Saint-Michel. Conclude with a scenic, albeit wet, drive through the Rosny Forest. Watch for deep puddles and use fog lights if necessary!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Fahrt an dieser ruhigen Kirche, die einen trockenen und friedlichen Hafen bietet, während der Regen die Straßen wäscht.",
+                "hu": "Kezdje az utat ennél a csendes templomnál, amely száraz és békés menedéket nyújt, miközben az eső tisztára mossa az utcákat.",
+                "ro": "Începeți traseul la această biserică liniștită, oferind un refugiu uscat în timp ce ploaia de dimineață spală străzile.",
+                "en": "Start your drive at this quiet church, offering a dry and peaceful haven while the morning rain washes the streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Beurons",
+                "hu": "Beurons Kastély",
+                "ro": "Castelul Beurons",
+                "en": "Château des Beurons"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen bequem aus dem Auto oder mit einem stabilen Regenschirm, um den schlammigen Untergrund zu meiden.",
+                "hu": "Tekintse meg a hangulatos romokat kényelmesen az autóból, vagy használjon erős esernyőt, hogy elkerülje a saras, felázott talajt.",
+                "ro": "Priviți ruinele din confortul mașinii sau cu o umbrelă robustă pentru a evita terenul noroios din împrejurimi.",
+                "en": "View the atmospheric ruins from the comfort of your car or with a sturdy umbrella to avoid the muddy surrounding grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie in diese zentrale Kirche, um ihre Architektur abseits des Regengusses zu bewundern.",
+                "hu": "Parkoljon le a közelben, és siessen be a központi templomba, hogy a heves felhőszakadástól távol csodálhassa meg a történelmi építészetet.",
+                "ro": "Parcați în apropiere și grăbiți-vă înăuntrul acestei biserici pentru a-i admira arhitectura istorică departe de ploaia torențială.",
+                "en": "Park nearby and dash inside this central church to admire its historical architecture away from the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rosny-sur-Seine",
+                "hu": "Rosny-sur-Seine Kastély",
+                "ro": "Castelul Rosny-sur-Seine",
+                "en": "Château de Rosny sur Seine"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die umfangreichen Innenexponate des Schlosses, eine perfekte längere Flucht vor den unerbittlichen Regenstürmen.",
+                "hu": "Élvezze a kastély kiterjedt belső kiállításait, amely tökéletes és hosszabb menedéket nyújt a szüntelen déli esőzések elől.",
+                "ro": "Bucurați-vă de exponatele interioare ample ale castelului, o evadare perfectă și lungă din calea furtunilor neîncetate de ploaie.",
+                "en": "Enjoy the extensive indoor exhibits of the castle, a perfect lengthy escape from the relentless midday rainstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Sully",
+                "hu": "Sully",
+                "ro": "Sully",
+                "en": "Sully"
+              },
+              "tip_5lang": {
+                "de": "Rollen Sie Ihr Fenster herunter oder steigen Sie kurz mit einem Regenschirm aus, um dieses Wahrzeichen zu schätzen, ohne nass zu werden.",
+                "hu": "Húzza le az ablakot, vagy szálljon ki röviden egy esernyővel, hogy megcsodálja ezt a nevezetességet anélkül, hogy bőrig ázna.",
+                "ro": "Coborâți geamul sau ieșiți scurt cu o umbrelă pentru a aprecia acest punct de reper fără a vă uda complet.",
+                "en": "Roll your window down or step out briefly with an umbrella to appreciate this landmark without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese religiöse Stätte und achten Sie auf rutschige Stufen, wenn Sie Ihr warmes, trockenes Fahrzeug verlassen.",
+                "hu": "Látogassa meg ezt a bájos vallási helyszínt, ügyelve a csúszós lépcsőkre, amikor kiszáll a meleg, száraz járműből.",
+                "ro": "Vizitați acest loc religios fermecător, fiind atenți la treptele alunecoase când ieșiți din vehiculul cald și uscat.",
+                "en": "Visit this charming religious site, being mindful of slippery stone steps as you exit your warm, dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Rosny",
+                "hu": "Rosny-erdő",
+                "ro": "Pădurea Rosny",
+                "en": "Rosny Forest"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine langsame Fahrt durch die nebligen Waldstraßen und genießen Sie die stimmungsvolle Atmosphäre aus dem Inneren des Autos.",
+                "hu": "Tegyen egy lassú, festői autózást a ködös erdei utakon, élvezve a borongós, esős hangulatot az autó melegéből.",
+                "ro": "Faceți o plimbare lentă pe drumurile cețoase ale pădurii, bucurându-vă de atmosfera ploioasă din interiorul mașinii.",
+                "en": "Take a slow, scenic drive through the misty forest roads, enjoying the moody rainy atmosphere from inside the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre frostige Fahrt zur Saint-Martin mit eingeschalteter Heizung. Mittags erkunden Sie die zentrale Kirche und das große Schloss. Ihr kühler Nachmittag umfasst Stopps bei Sully und Saint-Michel. Beenden Sie Ihren Tag mit einer Fahrt durch den kahlen Rosny-Wald, kurz vor Sonnenuntergang um 17:00 Uhr. Vorsicht vor Glatteis!",
+            "hu": "Kezdje a fagyos reggeli autózást a Saint-Martin templomhoz fűtéssel. Délben fedezze fel a központi templomot és a hatalmas kastélyt. A csípős délután magában foglalja a Sully és a Saint-Michel megállókat. Zárja a napot a csupasz Rosny-erdőn átvezető úttal, éppen a 17:00 órai naplemente előtt. Óvakodjon a fekete jégtől az utakon!",
+            "ro": "Începeți condusul geros spre Saint-Martin cu încălzirea pornită. La prânz, explorați biserica centrală și marele castel. După-amiaza răcoroasă include opriri la Sully și Saint-Michel. Terminați ziua conducând prin Pădurea Rosny cu copaci golași, chiar înainte de apusul de la 17:00. Feriți-vă de gheața neagră!",
+            "en": "Start your frosty morning drive to Saint-Martin and the Beurons ruins with the heater on. At noon, explore the central church and the grand château. Your chilling afternoon includes stops at Sully and Saint-Michel. Finish your day driving through the bare Rosny Forest just before the 17:00 sunset. Beware of icy road patches!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem frühen Morgenfrost in dieser historischen Kirche, ein friedlicher Start, bevor Sie in Ihr beheiztes Auto zurückkehren.",
+                "hu": "Meneküljön be a kora reggeli fagy elől ebbe a történelmi templomba, amely békés indulást biztosít a fűtött autóba való visszatérés előtt.",
+                "ro": "Scăpați de gerul dimineții în această biserică istorică, un început pașnic înainte de a vă întoarce la mașina încălzită.",
+                "en": "Escape the early morning frost inside this historic church, a peaceful start before returning to your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Beurons",
+                "hu": "Beurons Kastély",
+                "ro": "Castelul Beurons",
+                "en": "Château des Beurons"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die wunderschönen schneebedeckten Ruinen, achten Sie beim Aussteigen auf eisige Stellen in der Nähe des Parkplatzes.",
+                "hu": "Fényképezze le a hófödte romokat, de nagyon vigyázzon a parkoló körüli csúszós jégfoltokra, amikor kiszáll az autóból.",
+                "ro": "Fotografiați ruinele frumoase acoperite cu zăpadă, fiind atenți la peticele de gheață din apropierea parcării când ieșiți.",
+                "en": "Photograph the beautiful snow-dusted ruins, being careful of icy patches near the parking area when you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in dieser Steinkirche auf und genießen Sie die ruhige Winteratmosphäre abseits der beißenden Außenwinde.",
+                "hu": "Melegedjen fel ebben a masszív kőtemplomban, és élvezze a csendes téli hangulatot, távol a kinti csípős szelektől.",
+                "ro": "Încălziți-vă în această biserică solidă din piatră, bucurându-vă de ambianța liniștită de iarnă, departe de vânturile tăioase.",
+                "en": "Warm up in this solid stone church, enjoying the quiet winter ambiance away from the biting outdoor winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rosny-sur-Seine",
+                "hu": "Rosny-sur-Seine Kastély",
+                "ro": "Castelul Rosny-sur-Seine",
+                "en": "Château de Rosny sur Seine"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie ausreichend Zeit damit, die Innenräume zu erkunden, eine großartige Möglichkeit, mittags aktiv und relativ warm zu bleiben.",
+                "hu": "Töltsön bőséges időt a fenséges kastély belső tereinek felfedezésével, ami remek módja annak, hogy délben aktív és viszonylag meleg maradjon.",
+                "ro": "Petreceți suficient timp explorând interioarele maiestuoase, o modalitate excelentă de a rămâne activ și cald la prânz.",
+                "en": "Spend ample time exploring the majestic castle interiors, a great way to stay active and relatively warm at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Sully",
+                "hu": "Sully",
+                "ro": "Sully",
+                "en": "Sully"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie dieses historische Denkmal unter der klaren Wintersonne; lassen Sie den Motor laufen für eine schnelle, warme Besichtigung.",
+                "hu": "Csodálja meg a történelmi emlékművet a ragyogó téli napsütésben; hagyja járni a motort, ha egy gyors, meleg megtekintést preferál.",
+                "ro": "Minunați-vă de acest monument sub soarele de iarnă; lăsați motorul pornit dacă preferați o vizionare rapidă și caldă.",
+                "en": "Marvel at this historic monument under the crisp winter sun; keep the engine running if you prefer a quick, warm viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese ruhige Kapelle, da es am Nachmittag schnell abkühlt, und vertreten Sie sich vor der letzten Waldfahrt die Beine.",
+                "hu": "Lépjen be ebbe a csendes kápolnába, ahogy a délután gyorsan lehűl, és nyújtóztassa ki a lábát a végső erdei autózás előtt.",
+                "ro": "Pășiți în această capelă liniștită pe măsură ce după-amiaza se răcește rapid, întinzându-vă picioarele înainte de drumul prin pădure.",
+                "en": "Step into this quiet chapel as the afternoon cools down rapidly, stretching your legs before the final forest drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Rosny",
+                "hu": "Rosny-erdő",
+                "ro": "Pădurea Rosny",
+                "en": "Rosny Forest"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die frostigen Bäume, da die Sonne früh gegen 17:00 Uhr untergeht; achten Sie auf Glatteis in den Waldkurven.",
+                "hu": "Vezessen át a zúzmarás fák között, ahogy a nap korán, 17:00 körül lenyugszik; nagyon vigyázzon a fekete jégre az erdei kanyarokban.",
+                "ro": "Conduceți printre copacii golași pe măsură ce soarele apune devreme; atenție la gheața neagră de pe curbele din pădure.",
+                "en": "Drive through the bare, frosty trees as the sun sets early around 17:00; watch out for black ice on the forest curves."
+              }
+            }
+          ]
+        }
       }
     }
   }

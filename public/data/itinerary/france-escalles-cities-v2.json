@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Escalles festői szívében, és élvezze a történelmi hangulatot, mielőtt útnak indul.\nAz ösvény lélegzetelállító természeti magaslatokra vezet, ötvözve a buja vidéket a hatalmas óceáni kilátással.\nA történelem sötétebb fejezeteibe merülünk, felfedezve az Atlanti Fal zord tengerparti bunkerromjait.\nFejezze be túráját a monumentális mészkősziklákon állva, érezze a vad szelet, és tekintsen Anglia felé.",
         "ro": "Începeți ziua în inima pitorească a orașului Escalles, bucurându-vă de atmosfera istorică înainte de a porni la drum.\nTraseul duce la înălțimi naturale uluitoare, combinând peisajul luxuriant cu vederi imense la ocean.\nNe scufundăm în capitole mai întunecate ale istoriei explorând ruinele accidentate ale buncărelor de coastă din Zidul Atlanticului.\nÎncheiați drumeția stând pe stâncile monumentale de cretă, simțind vântul aspru și privind spre Anglia.",
         "en": "Start the day in the quaint heart of Escalles, taking in the historical ambiance before setting off.\nThe trail leads up to breathtaking natural elevations, blending lush countryside with immense ocean vistas.\nWe plunge into the darker chapters of history exploring the rugged coastal bunker ruins of the Atlantic Wall.\nEnd your hike standing on the monumental chalk cliffs, feeling the fierce wind and gazing toward England."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen mit Schutz in der historischen Kirche. Mittags erwarten Sie regnerische Hügel, achten Sie auf schlammige Wege. Nachmittags treffen starke Seewinde und Regen auf die Klippen, was gute Regenkleidung erfordert. Beenden Sie den Abend im Trockenen nach einer rauen Küstenwanderung.",
+            "hu": "Kezdje az esős reggelt a történelmi templom menedékében. Délben eső áztatta dombok várják, vigyázzon a saras ösvényeken. Délután a heves tengeri szél és az eső eléri a sziklákat, kiváló vízálló ruha kell. Este melegedjen fel egy zárt helyen a zord, hangulatos parti túra után.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în biserica istorică. La prânz, dealurile de coastă sunt bătute de ploaie, atenție la noroi. După-amiaza, vântul și ploaia lovesc stâncile, necesitând haine impermeabile. Seara, uscați-vă la interior după o drumeție aspră pe coastă.",
+            "en": "Begin your wet morning seeking refuge in the historic church. Midday brings rain-swept coastal hills, so watch your step on muddy trails. By afternoon, the heavy sea winds and rain hit the cliffs, requiring excellent waterproofs. Finish your evening drying off indoors after a rugged hike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Maxime",
+                "hu": "Église Saint-Maxime",
+                "ro": "Église Saint-Maxime",
+                "en": "Église Saint-Maxime"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in dieser historischen Kirche; ein stabiler Regenschirm ist unerlässlich, bevor Sie wieder in den Regen hinausgehen.",
+                "hu": "Keressen menedéket a történelmi templomban, és csodálja meg építészetét; egy erős esernyő elengedhetetlen, mielőtt újra kilépne.",
+                "ro": "Căutați adăpost în această biserică istorică admirându-i arhitectura; o umbrelă rezistentă este esențială înainte de a ieși afară.",
+                "en": "Seek refuge inside this historic church while admiring its architecture; a sturdy umbrella is essential before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin d'Escalles",
+                "hu": "Moulin d'Escalles",
+                "ro": "Moulin d'Escalles",
+                "en": "Moulin d'Escalles"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die alte Mühle vor dem regnerischen Himmel, aber seien Sie vorsichtig, da das nasse Gras und die Pfade sehr rutschig werden.",
+                "hu": "Nézze meg a régi malmot a borongós, esős égbolt alatt, de vigyázzon, mert a nedves fű és a földes ösvények nagyon csúszóssá válnak.",
+                "ro": "Vedeți vechea moară sub cerul ploios și mohorât, dar aveți grijă, deoarece iarba și potecile din jur devin alunecoase când sunt ude.",
+                "en": "See the old mill against the moody rainy sky, but be careful as the surrounding grass and dirt paths get quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Hubert",
+                "hu": "Mont d'Hubert",
+                "ro": "Mont d'Hubert",
+                "en": "Mont d'Hubert"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Küste bleibt im Regen dramatisch; tragen Sie wasserdichte Wanderschuhe, um die schlammigen Wege sicher zu meistern.",
+                "hu": "A parti kilátás esőben is drámai marad; viseljen vízálló túrabakancsot, hogy biztonságosan megbirkózzon a saras ösvényekkel.",
+                "ro": "Priveliștile de coastă rămân dramatice în ploaie; purtați bocanci de drumeție impermeabili pentru a parcurge în siguranță traseele.",
+                "en": "The coastal views remain dramatic in the rain; wear sturdy, waterproof hiking boots to handle the muddy trails safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie MKB Lindemann (Atlantik Wall)",
+                "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+                "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+                "en": "Batterie MKB Lindemann (Atlantik Wall)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese massiven Betonbunker, die willkommenen Schutz vor dem strömenden Regen bieten und an die Geschichte erinnern.",
+                "hu": "Fedezze fel ezeket a masszív betonbunkereket, amelyek menedéket nyújtanak a szakadó eső elől, miközben felidézik a történelmet.",
+                "ro": "Explorați aceste buncăre masive din beton care oferă un adăpost binevenit împotriva ploii torențiale și a vântului de coastă.",
+                "en": "Explore these massive concrete bunkers that offer some welcome shelter from the pouring rain while reflecting on imposing WWII history."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument to the Dover Patrol",
+                "hu": "Monument to the Dover Patrol",
+                "ro": "Monument to the Dover Patrol",
+                "en": "Monument to the Dover Patrol"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ragt in den Nebel; halten Sie Ihre Regenjacke gut fest, da die Küstenwinde den starken Regen hier oben noch verstärken.",
+                "hu": "Az emlékmű magasan áll a ködben; húzza össze jól az esőkabátját, mivel a tengerparti szelek jelentősen felerősítik a heves esőt.",
+                "ro": "Monumentul se înalță în ceață; țineți bine de geaca de ploaie, deoarece vânturile de coastă amplifică semnificativ ploaia aici.",
+                "en": "The monument stands tall in the mist; hold onto your rain jacket tightly as coastal winds significantly amplify the heavy rain up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Blanc-Nez",
+                "hu": "Cap Blanc-Nez",
+                "ro": "Cap Blanc-Nez",
+                "en": "Cap Blanc-Nez"
+              },
+              "tip_5lang": {
+                "de": "Das regnerische Meer an den Klippen ist spektakulär; halten Sie sich bei starkem Regen zu Ihrer Sicherheit von den rutschigen Rändern fern.",
+                "hu": "A fehér szikláknak csapódó esős tenger látványos; a heves zivatarok idején saját biztonsága érdekében maradjon távol a csúszós peremektől.",
+                "ro": "Marea ploioasă izbindu-se de stânci este spectaculoasă; stați departe de marginile alunecoase în timpul ploilor torențiale.",
+                "en": "The rainy sea crashing against the white cliffs is spectacular; stay away from the fragile, slippery edges during heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Dorfkirche. Mittags weht ein frischer Wind auf den Hügeln, bleiben Sie in Bewegung. Nachmittags erfordern die Klippen warme Kleidung gegen die eisige Brise. Beenden Sie den Spaziergang vor dem frühen Sonnenuntergang um 17 Uhr an einem gemütlichen Ort.",
+            "hu": "A fagyos téli reggel a falusi templomnál indul. Délben élénk szél fúj a dombokon, maradjon mozgásban. Délután a szikláknál meleg rétegekre lesz szükség a jeges fuvallat ellen. Fejezze be a sétát, és keressen egy meleg helyet a korai, 17 óra körüli sötétedés előtt.",
+            "ro": "O dimineață de iarnă geroasă începe la biserica din sat. La prânz, vântul rece bate pe dealuri, continuați să vă mișcați. După-amiaza, stâncile impunătoare necesită straturi calde. Terminați plimbarea la interior înainte de apusul devreme, în jur de ora 17:00.",
+            "en": "A crisp winter morning starts at the village church. Midday brings brisk winds on the hills, so keep moving. By afternoon, the cliffs demand warm layers against the icy breeze. Find a cozy spot indoors before the early sunset around 5 PM plunges the coast into darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Maxime",
+                "hu": "Église Saint-Maxime",
+                "ro": "Église Saint-Maxime",
+                "en": "Église Saint-Maxime"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren frostigen Morgen in dieser Kirche, um die Details zu bewundern und Ihre Hände vor der langen Küstenwanderung aufzuwärmen.",
+                "hu": "Kezdje a fagyos reggelt ebben a csendes templomban, hogy felmelegítse a kezét a hosszú tengerparti séta előtt.",
+                "ro": "Începeți dimineața geroasă în această biserică liniștită pentru a vă încălzi mâinile înainte de lunga drumeție pe coastă.",
+                "en": "Start your frosty morning inside this quiet church to admire the details and warm your hands before the long coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin d'Escalles",
+                "hu": "Moulin d'Escalles",
+                "ro": "Moulin d'Escalles",
+                "en": "Moulin d'Escalles"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle sieht im Winterfrost malerisch aus; ziehen Sie sich warm an, da die offene Landschaft keinen Windschutz bietet.",
+                "hu": "A malom festői látványt nyújt a téli fagyban; öltözzön melegen, mivel a nyílt táj nem nyújt szélárnyékot.",
+                "ro": "Moara arată pitoresc înconjurată de gerul iernii; îmbrăcați-vă gros deoarece peisajul deschis nu oferă adăpost împotriva vântului.",
+                "en": "The mill looks picturesque surrounded by winter frost; dress in warm layers as the open landscape offers no windbreak."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Hubert",
+                "hu": "Mont d'Hubert",
+                "ro": "Mont d'Hubert",
+                "en": "Mont d'Hubert"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie kristallklare Winteraussichten; ein dicker Schal und Thermohandschuhe sind gegen den beißenden Wind ein Muss.",
+                "hu": "Élvezze a kristálytiszta téli kilátást a Csatornára; a vastag sál és a termo kesztyű elengedhetetlen a csípős szél ellen.",
+                "ro": "Bucurați-vă de priveliști clare de iarnă asupra canalului; un fular gros și mănuși termice sunt obligatorii împotriva vântului tăios.",
+                "en": "Enjoy crystal-clear winter views of the English Channel; a thick scarf and thermal gloves are a must against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie MKB Lindemann (Atlantik Wall)",
+                "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+                "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+                "en": "Batterie MKB Lindemann (Atlantik Wall)"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Beton dieser Bunker wirkt im Winter noch imposanter; treten Sie ein, um der eisigen Brise kurz zu entkommen.",
+                "hu": "Ezeknek a történelmi bunkereknek a hideg betonja télen még lenyűgözőbb; lépjen be, hogy elmeneküljön a fagyos szél elől.",
+                "ro": "Betonul rece al acestor buncăre istorice pare și mai impunător iarna; intrați pentru a scăpa de briza înghețată.",
+                "en": "The cold concrete of these historic WWII bunkers feels even more imposing in winter; step inside to escape the freezing breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument to the Dover Patrol",
+                "hu": "Monument to the Dover Patrol",
+                "ro": "Monument to the Dover Patrol",
+                "en": "Monument to the Dover Patrol"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto des Obelisken vor dem blassen Winterhimmel, aber ziehen Sie Ihre warme Mütze tief ins Gesicht.",
+                "hu": "Készítsen egy gyors fotót az obeliszkről a sápadt téli égbolt előtt, de húzza a fülére a meleg sapkáját a hideg miatt.",
+                "ro": "Faceți o fotografie rapidă a obeliscului profilat pe cerul palid de iarnă, dar țineți căciula călduroasă bine trasă pe urechi.",
+                "en": "Take a quick photo of the obelisk standing stark against the pale winter sky, but keep your warm hat pulled down tight."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Blanc-Nez",
+                "hu": "Cap Blanc-Nez",
+                "ro": "Cap Blanc-Nez",
+                "en": "Cap Blanc-Nez"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Klippen sind in der klaren Winterluft atemberaubend; besuchen Sie sie vor dem Sonnenuntergang um 17 Uhr für das beste Licht.",
+                "hu": "A meredek fehér sziklák lélegzetelállítóak a ropogós téli levegőben; érkezzen a korai, 17 órás naplemente előtt a legjobb fényekért.",
+                "ro": "Stâncile albe sunt uluitoare în aerul curat de iarnă; vizitați-le înainte de apusul devreme din jurul orei 17:00 pentru cea mai bună lumină.",
+                "en": "The sheer white cliffs are breathtaking in the crisp winter air; visit before the early sunset around 5 PM for the best light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpározzon délre a nyugodt szárazföldi dombokhoz, mielőtt visszagurulna a történelmi faluközpontba bemelegíteni.\nKüzdje le a meredek parti ösvényeket, amelyeket lenyűgöző hegytetői panorámák és régi malmok jutalmaznak.\nAz útvonal egyenesen a szikla szélére vezet, egyensúlyba hozva a történelmi emlékműveket a hatalmas parti panorámákkal.\nFejezze be az utat súlyos beton erődítmények felfedezésével, ami drámai befejezése egy hihetetlenül változatos parti utazásnak.",
         "ro": "Mergeți cu bicicleta spre sud spre dealurile liniștite înainte de a vă întoarce în centrul istoric al satului pentru a vă încălzi.\nTreceți prin potecile abrupte de coastă, fiind răsplătiți de panorame uluitoare și repere vechi de morărit.\nTraseul vă duce chiar la marginea stâncii, echilibrând monumentele istorice cu panoramele vaste de coastă.\nTerminați plimbarea explorând fortărețe grele de beton, un final dramatic pentru o călătorie de coastă incredibil de variată.",
         "en": "Cycle south to the tranquil inland hills before rolling back into the historic village center to warm up.\nPower through the steep coastal paths, rewarded by stunning hilltop panoramas and old milling landmarks.\nThe route takes you right to the cliff's edge, balancing historical monuments with vast coastal panoramas.\nFinish the ride exploring heavy concrete fortresses, a dramatic ending to an incredibly varied coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Morgenfahrt beginnt im nassen Umland. Mittags ist auf schlammigen Dorfstraßen Vorsicht geboten. Nachmittags bringen Küstenwinde starken Regen an die Klippen. Sichern Sie Ihre Elektronik in wasserdichten Taschen und nutzen Sie starkes Fahrradlicht für Sichtbarkeit.",
+            "hu": "A reggeli kerékpározás a nedves vidéken kezdődik. Délben a saras falusi utakon óvatosan kell pedálozni. Délután a parti szél heves esőt hoz a sziklákhoz. Csomagolja elektronikai eszközeit vízálló táskába, és használjon erős lámpákat.",
+            "ro": "Plimbarea de dimineață începe în zona rurală umedă. La prânz, pedalați cu prudență pe drumurile noroioase din sat. După-amiaza aduce ploi abundente pe stânci. Securizați-vă electronicele în pungi impermeabile și folosiți lumini puternice.",
+            "en": "Morning ride starts in the wet countryside. Midday pedaling requires extra caution on muddy village roads. Afternoon coastal winds bring heavy rain to the cliffs. Secure your electronics in waterproof bags and use strong bike lights for visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mont de Sombre",
+                "hu": "Mont de Sombre",
+                "ro": "Mont de Sombre",
+                "en": "Mont de Sombre"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt mit nebligen Talblicken; stellen Sie sicher, dass Ihre Reifen guten Grip für die rutschige Abfahrt haben.",
+                "hu": "Kezdje a nedves túrát ködös völgyi kilátással; győződjön meg róla, hogy a gumik jól tapadnak a csúszós lejtőn.",
+                "ro": "Începeți cursa umedă cu priveliști cețoase ale văii; asigurați-vă că anvelopele au aderență bună pentru coborârea alunecoasă.",
+                "en": "Start your wet ride with misty valley views; ensure your bike tires have good grip for the slippery descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxime",
+                "hu": "Église Saint-Maxime",
+                "ro": "Église Saint-Maxime",
+                "en": "Église Saint-Maxime"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und treten Sie in die Kirche ein, um sich einen Moment abzutrocknen und das zeitlose Steininterieur zu bewundern.",
+                "hu": "Parkolja le a kerékpárt, és lépjen be a templomba egy pillanatra megszáradni, miközben megcsodálja a kőbelsőt.",
+                "ro": "Parcați bicicleta și intrați în biserică pentru a vă usca un moment în timp ce admirați interiorul atemporal din piatră.",
+                "en": "Park your bike and step inside the church to dry off for a moment while admiring its timeless stone interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin d'Escalles",
+                "hu": "Moulin d'Escalles",
+                "ro": "Moulin d'Escalles",
+                "en": "Moulin d'Escalles"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an der alten Mühle vorbei; bremsen Sie sanft, da die schlammigen Wege um sie herum die Bodenhaftung verringern.",
+                "hu": "Tekerjen el a régi malom mellett a szürke égbolt alatt; fékezzen finoman, mert a saras utak csökkentik a tapadást.",
+                "ro": "Pedalați pe lângă vechea moară sub cerul gri; frânați ușor deoarece potecile noroioase din jur reduc tracțiunea.",
+                "en": "Cycle past the old mill standing against the grey skies; brake gently as the muddy paths around it reduce traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Hubert",
+                "hu": "Mont d'Hubert",
+                "ro": "Mont d'Hubert",
+                "en": "Mont d'Hubert"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist im Regen hart, aber das stimmungsvolle Panorama lohnt sich; tragen Sie eine gut sichtbare, wasserdichte Jacke.",
+                "hu": "Az emelkedő esőben nehéz, de a borongós panoráma megéri; viseljen jól látható, vízálló kerékpáros kabátot.",
+                "ro": "Urcușul este greu în ploaie, dar panorama de coastă merită efortul; purtați o jachetă de ciclism impermeabilă, de înaltă vizibilitate.",
+                "en": "The climb is tough in the rain, but the moody coastal panorama is worth it; wear a high-visibility waterproof cycling jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument to the Dover Patrol",
+                "hu": "Monument to the Dover Patrol",
+                "ro": "Monument to the Dover Patrol",
+                "en": "Monument to the Dover Patrol"
+              },
+              "tip_5lang": {
+                "de": "Das regenpeitschende Denkmal ist ein markanter Anblick; machen Sie hier eine kurze Pause, aber bewahren Sie Ihre Elektronik trocken auf.",
+                "hu": "Az eső áztatta emlékmű lenyűgöző látvány; tartson itt egy rövid szünetet, de az elektronikát tartsa száraz táskában.",
+                "ro": "Monumentul bătut de ploaie este o priveliște impresionantă; faceți o pauză rapidă aici, dar păstrați electronicele într-o geantă uscată.",
+                "en": "The rain-swept monument is a striking sight; take a quick break here but keep your electronics safely in a dry bag."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Blanc-Nez",
+                "hu": "Cap Blanc-Nez",
+                "ro": "Cap Blanc-Nez",
+                "en": "Cap Blanc-Nez"
+              },
+              "tip_5lang": {
+                "de": "Das Fahrrad zu den nassen Klippen zu schieben, belohnt mit dramatischen Meereslandschaften; Vorsicht vor plötzlichem Seitenwind.",
+                "hu": "A kerékpár feltolása a nedves sziklákhoz drámai tengeri tájjal jutalmazza; óvakodjon a hirtelen oldalszéltől az esőben.",
+                "ro": "Împingerea bicicletei pe stâncile ude vă răsplătește cu peisaje marine dramatice; feriți-vă de vânturile laterale bruște în ploaie.",
+                "en": "Pushing your bike up to the wet cliffs rewards you with dramatic seascapes; beware of sudden crosswinds in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie MKB Lindemann (Atlantik Wall)",
+                "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+                "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+                "en": "Batterie MKB Lindemann (Atlantik Wall)"
+              },
+              "tip_5lang": {
+                "de": "Diese massiven Bunker bieten eine schnelle Zuflucht vor dem Platzregen; achten Sie auf tiefe Pfützen auf dem Zufahrtsweg.",
+                "hu": "Ezek a masszív bunkerek gyors menedéket nyújtanak a felhőszakadás elől; ügyeljen a mély tócsákra a megközelítési útvonalon.",
+                "ro": "Aceste buncăre masive oferă un refugiu rapid din calea ploii torențiale; atenție la bălțile adânci de pe calea de acces.",
+                "en": "These massive bunkers provide a quick refuge from the downpour; watch out for deep puddles on the approach path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen beim Radeln durch die Hügel. Die Mittagssonne bietet wenig Wärme, halten Sie ein stetiges Tempo. Nachmittags an den Klippen ist Vorsicht bei verstecktem Eis geboten. Planen Sie Ihre Route so, dass Sie vor dem frühen Sonnenuntergang um 17 Uhr enden.",
+            "hu": "Fagyos reggeli tekerés a dombok között. A déli nap kevés meleget ad, tartson egyenletes tempót. Délután a szikláknál óvatosan a rejtett jégfoltokkal. Tervezze úgy az utat, hogy a korai, 17 órás naplemente előtt célba érjen.",
+            "ro": "Dimineață geroasă pedalând prin dealuri. Soarele de la prânz oferă puțină căldură, mențineți un ritm constant. După-amiaza la stânci necesită prudență la gheața ascunsă. Terminați traseul înainte de apusul de la ora 17:00.",
+            "en": "Frosty morning cycling through the hills. Midday sun offers little warmth, keep a steady pace. Afternoon at the cliffs requires caution with hidden ice patches. Plan your route to finish before the early 5 PM sunset when temperatures drop sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mont de Sombre",
+                "hu": "Mont de Sombre",
+                "ro": "Mont de Sombre",
+                "en": "Mont de Sombre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Wintermorgenluft beim Hochradeln; tragen Sie isolierte Radhandschuhe gegen Erfrierungen.",
+                "hu": "Élvezze a friss téli reggeli levegőt tekerés közben; viseljen szigetelt kerékpáros kesztyűt a fagyási sérülések ellen.",
+                "ro": "Bucurați-vă de aerul proaspăt al dimineții de iarnă în timp ce pedalați; purtați mănuși izolate pentru a vă proteja degetele de degerături.",
+                "en": "Enjoy the crisp winter morning air as you pedal up; wear insulated cycling gloves to protect your fingers from frostbite."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxime",
+                "hu": "Église Saint-Maxime",
+                "ro": "Église Saint-Maxime",
+                "en": "Église Saint-Maxime"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an dieser historischen Kirche bietet eine kurze Pause vom kalten Sattel; die Steinmauern sind wunderschön.",
+                "hu": "Egy rövid megálló ennél a történelmi templomnál kis pihenőt nyújt a hideg nyereg után; a kőfalak gyönyörűek a téli fényben.",
+                "ro": "O oprire rapidă la această biserică istorică oferă un scurt răgaz de la șaua rece; pereții din piatră sunt frumoși în lumina iernii.",
+                "en": "A quick stop at this historic church offers a brief respite from the cold saddle; the stone walls are beautiful in winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin d'Escalles",
+                "hu": "Moulin d'Escalles",
+                "ro": "Moulin d'Escalles",
+                "en": "Moulin d'Escalles"
+              },
+              "tip_5lang": {
+                "de": "Die gefrostete Mühle ist ein tolles Winterfoto; achten Sie auf versteckte Eisflächen auf den schattigen Teilen des Weges.",
+                "hu": "A zúzmarás malom remek téli fotótéma; vigyázzon a rejtett jégfoltokra az ösvény árnyékos részein.",
+                "ro": "Moara înghețată este excelentă pentru o fotografie de iarnă; atenție la peticele de gheață ascunse pe părțile umbrite ale potecii.",
+                "en": "The frosted mill makes for a great winter photo; watch out for hidden ice patches on the shaded parts of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Hubert",
+                "hu": "Mont d'Hubert",
+                "ro": "Mont d'Hubert",
+                "en": "Mont d'Hubert"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersicht über den Kanal ist von hier aus unglaublich; tragen Sie mehrere Schichten gegen den eisigen Gegenwind.",
+                "hu": "A téli látási viszonyok a csatorna felett hihetetlenek innen; öltözzön rétegesen a fagyos szembeszél ellen.",
+                "ro": "Vizibilitatea de iarnă peste canal este incredibilă de aici; îmbrăcați-vă în straturi pentru a bloca vântul frontal înghețat.",
+                "en": "The winter visibility over the channel is incredible from here; layer your cycling clothes to block the freezing headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument to the Dover Patrol",
+                "hu": "Monument to the Dover Patrol",
+                "ro": "Monument to the Dover Patrol",
+                "en": "Monument to the Dover Patrol"
+              },
+              "tip_5lang": {
+                "de": "Der Obelisk wirkt dramatisch vor dem blassen Winterhimmel; machen Sie eine kurze Pause, aber bleiben Sie in Bewegung.",
+                "hu": "Az obeliszk drámaian hat a sápadt téli égbolt előtt; tartson egy rövid szünetet, de mozogjon a testhőmérséklet fenntartása érdekében.",
+                "ro": "Obeliscul arată dramatic pe cerul palid de iarnă; faceți o pauză scurtă, dar continuați să vă mișcați pentru a vă menține căldura corpului.",
+                "en": "The obelisk looks dramatic against the pale winter sky; take a quick break but keep moving to maintain body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Blanc-Nez",
+                "hu": "Cap Blanc-Nez",
+                "ro": "Cap Blanc-Nez",
+                "en": "Cap Blanc-Nez"
+              },
+              "tip_5lang": {
+                "de": "Das Radeln nahe der weißen Klippen in der eisigen Luft ist belebend; kommen Sie vor dem frühen Sonnenuntergang an.",
+                "hu": "A fehér sziklák melletti tekerés a jeges levegőben élénkítő; érkezzen a korai, 17 órás naplemente előtt a lenyűgöző színekért.",
+                "ro": "Ciclismul lângă stâncile albe în aerul înghețat este revigorant; ajungeți înainte de apusul de la ora 17:00 pentru nuanțe uimitoare de amurg.",
+                "en": "Cycling near the white cliffs in the icy air is invigorating; arrive before the early 5 PM sunset for stunning twilight hues."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie MKB Lindemann (Atlantik Wall)",
+                "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+                "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+                "en": "Batterie MKB Lindemann (Atlantik Wall)"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Ruinen der Weltkriegsbunker sind faszinierend zu erkunden; Vorsicht, die Betonstufen können gefährlich vereist sein.",
+                "hu": "A II. világháborús bunkerek hűvös romjait lenyűgöző felfedezni; vigyázzon, mert a betonlépcsők veszélyesen jegesek lehetnek.",
+                "ro": "Ruinele reci ale buncărelor din al Doilea Război Mondial sunt fascinante de explorat; atenție, treptele din beton pot fi periculos de înghețate.",
+                "en": "The chilly ruins of the WWII bunkers are fascinating to explore; be careful as the concrete steps can be dangerously icy."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Egy gyors szárazföldi autózás békés reggeli túrát tesz lehetővé a nyüzsgő part menti turistaútvonalaktól távol.\nZökkenőmentesen kösse össze a falu építészetét az ikonikus észak-francia sziklákkal és a festői kilátókkal.\nVezessen végig a fenséges fokon, megállva híres tengerészeti emlékműveknél és meredek mészkőleszakadásoknál.\nZárásként fedezze fel a zord partvonalon elszórtan található lenyűgöző katonai és mérnöki romokat.",
         "ro": "Un drum scurt în interior permite o drumeție pașnică de dimineață departe de rutele turistice aglomerate de coastă.\nConectați fără probleme arhitectura satului cu stâncile iconice din nordul Franței și punctele de belvedere pitorești.\nConduceți de-a lungul capului maiestuos, făcând opriri la monumente maritime faimoase și coborâri abrupte de cretă.\nÎncheiați prin investigarea ruinelor militare și inginerești fascinante împrăștiate de-a lungul țărmului accidentat.",
         "en": "A quick drive inland allows for a peaceful morning hike away from the bustling coastal tourist routes.\nSeamlessly connect the village architecture with the iconic northern French cliffs and scenic viewing points.\nDrive along the majestic cape, making stops at famous maritime monuments and sheer chalk drop-offs.\nConclude by investigating fascinating military and engineering ruins scattered along the rugged shoreline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt durch neblige Hügel. Mittags ermöglichen Stopps im Dorf schnelle Sprints aus dem Auto. Nachmittags werden Küstenstraßen rutschig, fahren Sie vorsichtig. Beenden Sie den Tag und lauschen Sie dem Regen sicher in Ihrem warmen Fahrzeug nach der Erkundung.",
+            "hu": "Reggeli autózás a ködös dombokon. Délben a falusi megállók gyors kiugrásokat engednek az autóból. Délután a parti utak csúszóssá válnak, vezessen óvatosan. Zárja a napot az esőt hallgatva a meleg járművében a nedves tájak felfedezése után.",
+            "ro": "Condus matinal prin dealuri cețoase. La prânz, opririle în sat permit ieșiri rapide din mașină. După-amiaza drumurile de coastă devin alunecoase, conduceți prudent. Încheiați ziua ascultând ploaia în siguranță în vehiculul cald.",
+            "en": "Morning drive through misty hills. Midday village stops allow quick dashes from the car. Afternoon coastal roads become slick, so drive cautiously. End the day listening to the rain safely inside your warm vehicle after exploring the wet landscapes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mont de Sombre",
+                "hu": "Mont de Sombre",
+                "ro": "Mont de Sombre",
+                "en": "Mont de Sombre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvollen Täler vom Auto aus; benutzen Sie einen großen Regenschirm, wenn Sie aussteigen.",
+                "hu": "Élvezze a hangulatos, esős völgyeket az autóból; használjon nagy esernyőt, amikor kiszáll a járműből.",
+                "ro": "Bucurați-vă de văile mohorâte, bătute de ploaie, din confortul mașinii; folosiți o umbrelă mare când ieșiți.",
+                "en": "Enjoy the moody, rain-swept valleys from the comfort of your car before stepping out with a large umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxime",
+                "hu": "Église Saint-Maxime",
+                "ro": "Église Saint-Maxime",
+                "en": "Église Saint-Maxime"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und sprinten Sie schnell hinein, um das historische Heiligtum zu bewundern und dem Platzregen zu entgehen.",
+                "hu": "Parkoljon a közelben, és szaladjon be gyorsan, hogy megcsodálja a történelmi szentélyt, miközben elmenekül a felhőszakadás elől.",
+                "ro": "Parcați în apropiere și fugiți rapid înăuntru pentru a admira sanctuarul istoric în timp ce scăpați de ploaia torențială.",
+                "en": "Park nearby and make a quick dash inside to admire the historic sanctuary while escaping the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin d'Escalles",
+                "hu": "Moulin d'Escalles",
+                "ro": "Moulin d'Escalles",
+                "en": "Moulin d'Escalles"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die charmante Mühle durch den Regen; tragen Sie wasserdichte Schuhe, da der kurze Weg vom Auto schlammig ist.",
+                "hu": "Nézze meg a bájos malmot az esőfüggönyön át; viseljen vízálló cipőt, mert a rövid séta az autótól saras lesz.",
+                "ro": "Vedeți moara fermecătoare prin ceața ploioasă; purtați pantofi impermeabili, deoarece scurta plimbare de la mașină va fi noroioasă.",
+                "en": "View the charming mill through the rainy mist; wear waterproof shoes as the short walk from the car will be muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Hubert",
+                "hu": "Mont d'Hubert",
+                "ro": "Mont d'Hubert",
+                "en": "Mont d'Hubert"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenaussicht ist im Regen dramatisch grau; fahren Sie vorsichtig auf den rutschigen bergauf führenden Straßen.",
+                "hu": "A parti kilátás drámaian szürke az esőben; vezessen óvatosan a csúszós, emelkedő utakon a kilátóhoz.",
+                "ro": "Priveliștile de coastă sunt dramatic de gri în ploaie; conduceți cu atenție pe drumurile alunecoase la deal către punctul de belvedere.",
+                "en": "The coastal views are dramatically grey in the rain; drive carefully on the slick uphill roads leading to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument to the Dover Patrol",
+                "hu": "Monument to the Dover Patrol",
+                "ro": "Monument to the Dover Patrol",
+                "en": "Monument to the Dover Patrol"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht diesem Denkmal eine feierliche Atmosphäre; kurbeln Sie das Fenster für ein Foto herunter, wenn der Wind zu stark ist.",
+                "hu": "Az eső ünnepélyes hangulatot kölcsönöz az emlékműnek; tekerje le az ablakot egy fotóhoz, ha a szél túl heves.",
+                "ro": "Ploaia adaugă o atmosferă solemnă acestui monument; deschideți geamul pentru o fotografie dacă vântul este prea puternic.",
+                "en": "The rain adds a solemn atmosphere to this monument; roll down the window for a photo if the wind is too fierce."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Blanc-Nez",
+                "hu": "Cap Blanc-Nez",
+                "ro": "Cap Blanc-Nez",
+                "en": "Cap Blanc-Nez"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Klippen wirken markant gegen die stürmische See; halten Sie ein Handtuch im Auto bereit, um sich nachher abzutrocknen.",
+                "hu": "A fehér sziklák lenyűgözőek a viharos tengerrel szemben; tartson egy törölközőt az autóban, hogy megszárítkozzon a nézelődés után.",
+                "ro": "Stâncile albe arată izbitor pe fundalul mării furtunoase; păstrați un prosop în mașină pentru a vă șterge după ce ați admirat priveliștea.",
+                "en": "The white cliffs look striking against the stormy sea; keep a towel in the car to dry off after admiring the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie MKB Lindemann (Atlantik Wall)",
+                "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+                "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+                "en": "Batterie MKB Lindemann (Atlantik Wall)"
+              },
+              "tip_5lang": {
+                "de": "Diese massiven Betonstrukturen bieten etwas Schutz vor dem Regen; tragen Sie Stiefel, da das Gelände zu dickem Schlamm wird.",
+                "hu": "Ezek a masszív betonszerkezetek nyújtanak némi menedéket az eső elől; viseljen csizmát, mert a környező terep vastag sártengerré változik.",
+                "ro": "Aceste structuri masive din beton oferă un oarecare adăpost împotriva ploii; purtați cizme, deoarece terenul din jur se transformă în noroi gros.",
+                "en": "These massive concrete structures offer some shelter from the rain; wear boots as the surrounding terrain turns to thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+                "hu": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+                "ro": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+                "en": "Usine de construction du Tunnel sous la Manche (1876-1883)"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte der frühen Tunnelversuche; das nasse Wetter passt perfekt zu der rauen industriellen Atmosphäre.",
+                "hu": "Fedezze fel a korai alagút-kísérletek történetét; a nedves időjárás tökéletesen illik a zord, ipari hangulathoz.",
+                "ro": "Explorați istoria primelor încercări de a construi tunelul; vremea umedă se potrivește perfect cu atmosfera industrială aspră.",
+                "en": "Explore the history of the early tunnel attempts; the wet weather perfectly suits the industrial, rugged atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt beginnt auf gefrorenen Straßen. Mittags bieten sich klare Ausblicke aus dem beheizten Auto. Nachmittagsstopps an der windigen Küste erfordern dicke Mäntel. Kehren Sie vor Sonnenuntergang um 17 Uhr sicher zurück, wenn sich Blitzeis bilden kann.",
+            "hu": "A reggeli autózás fagyott utakon indul. Délben ropogós kilátás nyílik a fűtött autó kényelméből. A délutáni megállók a szeles parton vastag kabátot igényelnek. Térjen vissza biztonságosan a 17 órás naplemente előtt, amikor fekete jég képződhet.",
+            "ro": "Condusul de dimineață începe pe drumuri înghețate. La prânz aveți priveliști clare din confortul mașinii încălzite. Opririle de după-amiază la coastă necesită paltoane groase. Întoarceți-vă în siguranță înainte de apusul de la ora 17:00, când se poate forma gheață neagră.",
+            "en": "Morning drive starts on frosted roads. Midday offers crisp views from the heated comfort of your car. Afternoon stops at the breezy coast require thick coats. Return safely before the 5 PM sunset when black ice can form on rural routes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mont de Sombre",
+                "hu": "Mont de Sombre",
+                "ro": "Mont de Sombre",
+                "en": "Mont de Sombre"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre malerische Winterfahrt mit gefrorenen Talblicken; stellen Sie sicher, dass Ihre Heizung an ist und die Scheiben enteist sind.",
+                "hu": "Kezdje a festői téli autózást zúzmarás völgyi kilátással; győződjön meg róla, hogy a fűtés be van kapcsolva és az ablakok páramentesek.",
+                "ro": "Începeți condusul pitoresc de iarnă cu priveliști ale văilor înghețate; asigurați-vă că încălzirea este pornită și geamurile sunt complet dezghețate.",
+                "en": "Start your scenic winter drive with frosted valley views; ensure your car's heater is on and windows are fully defrosted."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxime",
+                "hu": "Église Saint-Maxime",
+                "ro": "Église Saint-Maxime",
+                "en": "Église Saint-Maxime"
+              },
+              "tip_5lang": {
+                "de": "Die historische Kirche ist ein ruhiger, kühler Halt; bringen Sie einen dicken Mantel mit, da das alte Steininterieur die Winterkälte speichert.",
+                "hu": "A történelmi templom csendes, hűvös megálló; hozzon vastag kabátot, mert a régi kőbelső tartja a téli hideget.",
+                "ro": "Biserica istorică este o oprire liniștită și răcoroasă; luați un palton gros, deoarece interiorul vechi din piatră păstrează frigul iernii.",
+                "en": "The historic church is a quiet, chilly stop; bring a thick coat as the old stone interior holds the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin d'Escalles",
+                "hu": "Moulin d'Escalles",
+                "ro": "Moulin d'Escalles",
+                "en": "Moulin d'Escalles"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle sieht wunderschön aus, umgeben von gefrorenem Gras; achten Sie auf Blitzeis auf den engen Landstraßen bei der Anfahrt.",
+                "hu": "A malom gyönyörűen fest a zúzmarás fűvel övezve; ügyeljen a fekete jégre a keskeny vidéki utakon a megközelítéskor.",
+                "ro": "Moara arată frumos înconjurată de iarbă înghețată; atenție la gheața neagră de pe drumurile rurale înguste care se apropie de ea.",
+                "en": "The mill looks beautiful surrounded by frosted grass; be mindful of black ice on the narrow rural roads approaching it."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Hubert",
+                "hu": "Mont d'Hubert",
+                "ro": "Mont d'Hubert",
+                "en": "Mont d'Hubert"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ärmelkanal in der klaren Winterluft; eine Thermomütze ist beim Aussteigen aus dem Auto unerlässlich.",
+                "hu": "Élvezze a Csatornára nyíló pazar kilátást a friss téli levegőben; egy meleg sapka elengedhetetlen, amikor kiszáll az autóból.",
+                "ro": "Bucurați-vă de priveliștile ample asupra Canalului Mânecii în aerul curat de iarnă; o căciulă termică este esențială când coborâți din mașină.",
+                "en": "Enjoy sweeping views of the English Channel in the crisp winter air; a thermal hat is essential when stepping out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument to the Dover Patrol",
+                "hu": "Monument to the Dover Patrol",
+                "ro": "Monument to the Dover Patrol",
+                "en": "Monument to the Dover Patrol"
+              },
+              "tip_5lang": {
+                "de": "Das hohe Denkmal steht stolz gegen die blasse Wintersonne; das offene Gebiet hier wird sehr kalt, packen Sie sich also warm ein.",
+                "hu": "A magas emlékmű büszkén áll a sápadt téli nappal szemben; a nyitott terület itt nagyon hideg, ezért öltözzön be alaposan.",
+                "ro": "Monumentul înalt stă mândru sub soarele palid de iarnă; zona deschisă de aici devine foarte rece, așa că înfofoliți-vă bine.",
+                "en": "The tall monument stands proudly against the pale winter sun; the open area here gets very cold, so bundle up."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Blanc-Nez",
+                "hu": "Cap Blanc-Nez",
+                "ro": "Cap Blanc-Nez",
+                "en": "Cap Blanc-Nez"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Klippen sind an einem klaren Wintertag spektakulär; besuchen Sie sie am frühen Nachmittag, um das Licht vor 17 Uhr einzufangen.",
+                "hu": "A fehér sziklák látványosak egy tiszta téli napon; látogasson el kora délután, hogy még a 17 órás naplemente előtt elcsípje a fényt.",
+                "ro": "Stâncile albe sunt spectaculoase într-o zi senină de iarnă; vizitați-le la începutul după-amiezii pentru a prinde lumina înainte de ora 17:00.",
+                "en": "The white cliffs are spectacular on a clear winter day; visit early in the afternoon to catch the light before the 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie MKB Lindemann (Atlantik Wall)",
+                "hu": "Batterie MKB Lindemann (Atlantik Wall)",
+                "ro": "Batterie MKB Lindemann (Atlantik Wall)",
+                "en": "Batterie MKB Lindemann (Atlantik Wall)"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Winde peitschen um diese imposanten Bunker; tragen Sie warme Handschuhe, um die Außenruinen bequem zu erkunden.",
+                "hu": "A jeges szél körbesüvít ezeken az impozáns II. világháborús bunkereken; viseljen meleg kesztyűt a kinti romok kényelmes felfedezéséhez.",
+                "ro": "Vânturile înghețate bat în jurul acestor buncăre impunătoare; purtați mănuși călduroase pentru a explora confortabil ruinele exterioare.",
+                "en": "The icy winds whip around these imposing WWII bunkers; wear warm gloves to comfortably explore the outdoor ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+                "hu": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+                "ro": "Usine de construction du Tunnel sous la Manche (1876-1883)",
+                "en": "Usine de construction du Tunnel sous la Manche (1876-1883)"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diese einzigartige historische Stätte; der beißende Winterwind macht den schnellen Rückzug in Ihr beheiztes Auto sehr lohnend.",
+                "hu": "Fedezze fel ezt az egyedülálló történelmi helyszínt; a csípős téli szél nagyon kifizetődővé teszi a gyors visszavonulást a fűtött autóba.",
+                "ro": "Descoperiți acest sit istoric unic; vântul tăios de iarnă face ca retragerea rapidă în mașina dumneavoastră încălzită să fie foarte plină de satisfacții.",
+                "en": "Discover this unique historical site; the biting winter wind makes the quick retreat back to your heated car very rewarding."
+              }
+            }
+          ]
+        }
       }
     }
   }

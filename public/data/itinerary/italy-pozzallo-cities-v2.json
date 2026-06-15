@@ -160,6 +160,196 @@
         "hu": "A reggel a nyüzsgő Raganzino part mentén kezdődik, ahol az emlékművek és a tengeri szellő finoman keveredik. Délre a város szívébe sétál, ahol békés templomokat és árnyékos tereket fedezhet fel. A délután Pozzallo gazdag történelmének van szentelve, miközben az elegáns Palazzo Pandolfi épületét járja be. Végül az este a gyönyörű Santa Maria di Portosalvo körül érkezik el, ahol a helyiek gyülekeznek a meleg szicíliai égbolt alatt.",
         "ro": "Dimineața începe de-a lungul coastei vibrante Raganzino, unde monumentele se împletesc cu briza mării. La amiază, veți rătăci în inima orașului, descoperind biserici pașnice și piețe umbrite. După-amiaza este dedicată istoriei bogate a orașului Pozzallo, pe măsură ce explorați elegantul Palazzo Pandolfi. În cele din urmă, seara se lasă în jurul frumoasei Santa Maria di Portosalvo, unde localnicii se adună sub cerul cald sicilian.",
         "en": "Your morning begins along the vibrant Raganzino coastline, where monuments and ancient echoes mingle with the sea breeze. By midday, you'll wander into the town's heart, uncovering peaceful churches and shaded squares that invite quiet reflection. The afternoon is dedicated to Pozzallo's rich history as you explore the elegant Palazzo Pandolfi. Finally, the evening settles around the beautiful Santa Maria di Portosalvo, where locals gather under the warm Sicilian sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Meer beginnt grau, doch das Monument strahlt eine besondere Ruhe aus; festes Schuhwerk ist für die nassen Uferwege heute unverzichtbar. Mittags bieten die Kirchen San Giovanni und Madonna del Rosario ideale, trockene Zufluchtsorte mit beeindruckender Kunst. Am Nachmittag erkunden Sie die prachtvollen Innenräume des Palazzo Pandolfi, geschützt vor dem Regen. Der Abend klingt trotz Regen gemütlich in den beleuchteten Gassen der Altstadt aus.",
+            "hu": "A reggel a tengerparti emlékműnél szürke és párás, a sós levegő illata intenzívebb az esőben; ügyeljen a csúszós kövezetre a sétányon. Délben a város templomai, mint a San Giovanni, tökéletes menedéket nyújtanak a zápor elől. Délután a Palazzo Pandolfi történelmi falai között bújhatunk el az időjárás elől, elmélyedve a helyi nemesség múltjában. Az este a vizes aszfalton tükröződő városi fényekkel és a kikötő morajlásával zárul.",
+            "ro": "Dimineața la malul mării începe gri, dar monumentul emană o liniște aparte; încălțămintea impermeabilă este esențială pe faleza umedă. La prânz, bisericile San Giovanni și Madonna del Rosario oferă adăpostul ideal împotriva ploii, uimind prin interiorul lor. După-amiaza este dedicată explorării Palazzo Pandolfi, ferit de vremea capricioasă. Seara se încheie cu o plimbare printre reflexiile luminilor orașului pe asfaltul ud, într-o atmosferă melancolică.",
+            "en": "The morning by the sea starts grey, but the monument exudes a special calm; waterproof shoes are essential for the wet coastal paths today. At noon, the churches of San Giovanni and Madonna del Rosario provide ideal, dry havens with impressive art. In the afternoon, explore the grand interiors of Palazzo Pandolfi, sheltered from the rain. The evening ends cozily in the illuminated streets of the old town, despite the persistent drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal im Regen für eine besonders melancholische Atmosphäre und tragen Sie eine Kapuze gegen die Gischt.",
+                "hu": "Nézze meg az emlékművet esőben a melankolikus hangulatért, és viseljen kapucnit a tenger felől érkező permet ellen.",
+                "ro": "Admirați monumentul în ploaie pentru o atmosferă melancolică și purtați o glugă împotriva stropilor aduși de vânt.",
+                "en": "View the monument in the rain for a particularly melancholic atmosphere and wear a hood against the sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Lungomare Raganzino",
+                "hu": "Anfiteatro Lungomare Raganzino",
+                "ro": "Anfiteatro Lungomare Raganzino",
+                "en": "Anfiteatro Lungomare Raganzino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Promenade, um den Blick auf das stürmische Meer ohne nass zu werden zu genießen.",
+                "hu": "Használja ki a sétány fedettebb részeit, hogy megcsodálhassa a viharos tengert anélkül, hogy teljesen elázna.",
+                "ro": "Folosiți zonele acoperite ale falezei pentru a vă bucura de priveliștea mării învolburate fără a vă uda complet.",
+                "en": "Use the sheltered areas of the promenade to enjoy the view of the stormy sea without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni",
+                "hu": "San Giovanni",
+                "ro": "San Giovanni",
+                "en": "San Giovanni"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist der perfekte Ort, um einen starken Schauer abzuwarten und dabei die barocke Pracht in aller Stille zu bewundern.",
+                "hu": "Ez a templom tökéletes hely egy nagyobb zápor kivárására, miközben csendben csodálhatja meg a barokk belső díszítést.",
+                "ro": "Această biserică este locul perfect pentru a aștepta trecerea unei averse, admirând splendoarea barocă în liniște.",
+                "en": "This church is the perfect place to wait out a heavy downpour while quietly admiring the baroque splendor inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonna del Rosario",
+                "hu": "Madonna del Rosario",
+                "ro": "Madonna del Rosario",
+                "en": "Madonna del Rosario"
+              },
+              "tip_5lang": {
+                "de": "Schütteln Sie Ihren Regenschirm am Eingang gründlich aus und genießen Sie die spirituelle Wärme dieses geschützten Raumes.",
+                "hu": "Rázza le alaposan az esernyőjét a bejáratnál, és élvezze e védett szakrális tér spirituális és fizikai melegét.",
+                "ro": "Scuturați bine umbrela la intrare și bucurați-vă de căldura spirituală a acestui spațiu sacru și protejat.",
+                "en": "Shake your umbrella thoroughly at the entrance and enjoy the spiritual warmth of this sheltered sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pandolfi",
+                "hu": "Palazzo Pandolfi",
+                "ro": "Palazzo Pandolfi",
+                "en": "Palazzo Pandolfi"
+              },
+              "tip_5lang": {
+                "de": "Der Palast bietet weitläufige Innenräume, die Sie trocken durch die Geschichte Pozzallos führen; ideal bei Dauerregen.",
+                "hu": "A palota tágas belső terei szárazon vezetik végig Pozzallo történelmén; ideális választás tartós esőzés esetén.",
+                "ro": "Spațiile interioare generoase ale palatului vă poartă prin istoria orașului la adăpost de ploaia persistentă.",
+                "en": "The palace's spacious interiors guide you through Pozzallo's history while staying dry; ideal during persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria di Portosalvo",
+                "hu": "Parrocchia Santa Maria di Portosalvo",
+                "ro": "Parrocchia Santa Maria di Portosalvo",
+                "en": "Parrocchia Santa Maria di Portosalvo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in dieser nahen Kirche und achten Sie beim Verlassen auf die rutschigen Stufen im Regen.",
+                "hu": "Zárja a túrát ebben a központi templomban, és távozáskor ügyeljen a vizes, csúszós lépcsőkre a kijáratnál.",
+                "ro": "Încheiați turul în această biserică centrală și aveți grijă la treptele umede și alunecoase de la ieșire.",
+                "en": "End your tour in this central church and be careful of the wet, slippery steps at the exit when leaving."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Pozzallo ist mild, aber windig; ein warmer Schal schützt Sie beim Besuch des Meeresmonuments. Mittags wärmt die tiefstehende Sonne die Piazza, während Sie die religiösen Stätten besichtigen. Da es bereits um 17:00 Uhr dunkel wird, verlagern wir die kulturellen Besuche in den frühen Nachmittag. Der Abend wird früh eingeläutet, wenn die Stadtlichter in der klaren Winterluft besonders hell erstrahlen.",
+            "hu": "A téli reggel Pozzallóban enyhe, de szeles; egy vastag sál jól jön a tengerparti emlékműnél tett látogatás során. Délben az alacsonyan járó nap sugarai kellemesen melengetik a templomok környékét. Mivel 17:00-kor már sötétedik, a kulturális látnivalókat érdemes kora délutánra időzíteni. Az este hamar beköszönt, a város fényei pedig különösen tisztán ragyognak a friss téli éjszakában.",
+            "ro": "Dimineața de iarnă în Pozzallo este blândă, dar vântoasă; un fular călduros este util în timpul vizitei la monumentul de pe mal. La prânz, soarele blând încălzește piețele din jurul lăcașurilor de cult. Deoarece se întunecă deja la ora 17:00, planificăm vizitele culturale devreme. Seara se instalează rapid, iar luminile orașului strălucesc intens în aerul curat de iarnă.",
+            "en": "The winter morning in Pozzallo is mild but breezy; a warm scarf is a must while visiting the sea monument. At noon, the low winter sun pleasantly warms the piazzas as you visit the religious sites. Since it gets dark by 5 PM, we focus on cultural visits in the early afternoon. The evening arrives early, with the city lights shining exceptionally bright in the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da die Meeresbrise im Winter am Monument deutlich kühler und kräftiger weht.",
+                "hu": "Viseljen szélálló ruházatot, mivel télen a tengeri szellő az emlékműnél érezhetően hűvösebb és erősebb.",
+                "ro": "Purtați haine rezistente la vânt, deoarece briza mării la monument este considerabil mai rece și mai puternică iarna.",
+                "en": "Wear windproof clothing, as the sea breeze at the monument is noticeably cooler and stronger in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Lungomare Raganzino",
+                "hu": "Anfiteatro Lungomare Raganzino",
+                "ro": "Anfiteatro Lungomare Raganzino",
+                "en": "Anfiteatro Lungomare Raganzino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf den Horizont, die im Winter oft besser ist, und nutzen Sie die kurzen Sonnenstunden.",
+                "hu": "Élvezze a tiszta kilátást a horizontra, ami télen gyakran szebb, és használja ki a rövid napos órákat.",
+                "ro": "Bucurați-vă de vizibilitatea clară spre orizont, adesea mai bună iarna, și profitați de orele scurte de soare.",
+                "en": "Enjoy the clear views of the horizon, which are often better in winter, and make the most of the short sunny hours."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni",
+                "hu": "San Giovanni",
+                "ro": "San Giovanni",
+                "en": "San Giovanni"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern der Kirche halten die Kälte ab und bieten einen ruhigen Ort zur inneren Einkehr im Winter.",
+                "hu": "A templom vastag kőfalai távol tartják a kinti hideget, csendes helyet kínálva a téli elmélyüléshez.",
+                "ro": "Zidurile groase de piatră ale bisericii țin la distanță frigul de afară, oferind un loc liniștit pentru reculegere iarna.",
+                "en": "The church's thick stone walls keep the winter chill at bay, offering a quiet place for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonna del Rosario",
+                "hu": "Madonna del Rosario",
+                "ro": "Madonna del Rosario",
+                "en": "Madonna del Rosario"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails bei sanftem Winterlicht, das durch die Fenster fällt und eine warme Stimmung erzeugt.",
+                "hu": "Csodálja meg a belső részleteket a lágy téli fényben, amely az ablakokon át beszűrődve meleg hangulatot áraszt.",
+                "ro": "Admirați detaliile interioare în lumina blândă de iarnă care pătrunde prin ferestre, creând o atmosferă caldă.",
+                "en": "Admire the interior details in the soft winter light filtering through the windows, creating a warm ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pandolfi",
+                "hu": "Palazzo Pandolfi",
+                "ro": "Palazzo Pandolfi",
+                "en": "Palazzo Pandolfi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast spätestens um 15 Uhr, um das Gebäude vor dem frühen Sonnenuntergang noch bei Tageslicht zu sehen.",
+                "hu": "Látogasson el a palotába legkésőbb délután 3-kor, hogy a korai naplemente előtt még természetes fényben láthassa.",
+                "ro": "Vizitați palatul cel târziu la ora 15:00 pentru a vedea clădirea în lumină naturală înainte de apusul timpuriu.",
+                "en": "Visit the palace by 3 PM at the latest to see the building in natural light before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria di Portosalvo",
+                "hu": "Parrocchia Santa Maria di Portosalvo",
+                "ro": "Parrocchia Santa Maria di Portosalvo",
+                "en": "Parrocchia Santa Maria di Portosalvo"
+              },
+              "tip_5lang": {
+                "de": "Nach 17 Uhr ist die Kirche oft festlich beleuchtet, was einen perfekten, warmen Abschluss für den Winterspaziergang bietet.",
+                "hu": "17 óra után a templom gyakran ünnepi díszkivilágítást kap, ami tökéletes, meleg zárása a téli sétának.",
+                "ro": "După ora 17:00, biserica este adesea iluminată festiv, oferind un final cald și perfect pentru plimbarea de iarnă.",
+                "en": "After 5 PM, the church is often festively lit, providing a perfect, warm conclusion to your winter walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros kalandját a lágy reggeli hullámokkal a Spiaggia Raganzino-n, magába szívva a parti energiákat. Ahogy a nap melegszik, tekerjen a központ felé, hogy megcsodálja a klasszikus vallási építészetet és a palotákat. Ebéd után az útvonal kissé beljebb visz, hogy felfedezzen egy modern szentélyt a hagyományos utcák között. Fejezze be útját a Pietre Nere és a helyi zenés színház környékén, megörökítve a naplemente élénk színeit.",
         "ro": "Începeți aventura cu bicicleta cu valurile blânde ale dimineții la Spiaggia Raganzino, bucurându-vă de energia coastei. Pe măsură ce ziua se încălzește, pedalați spre centru pentru a admira arhitectura clasică și palatele. După prânz, traseul vă poartă ușor spre interior pentru a descoperi sanctuare moderne ascunse printre străzile tradiționale. Încheiați cursa la Pietre Nere și la teatrul muzical, admirând culorile apusului peste apă.",
         "en": "Start your cycling adventure with the gentle morning waves at Spiaggia Raganzino, soaking in the early coastal energy. As the day warms, pedal gently towards the center to admire classic religious architecture and historic palaces. After lunch, the route takes you slightly inland to discover modern sanctuaries nestled among traditional streets. Conclude your ride at Pietre Nere and the local music theater, catching the vibrant sunset colors over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert heute Vorsicht auf den rutschigen Promenadenwegen; starten Sie mit voller Regenmontur am Raganzino-Strand. Mittags radeln wir zu den schützenden Kirchen im Zentrum, um die größten Schauer trocken zu überstehen. Am Nachmittag bietet der Palazzo Pandolfi eine längere Pause im Trockenen, bevor es weitergeht. Der Abend endet mit einer vorsichtigen Fahrt entlang der Küste, wo das Licht der Stadt im Regen tanzt.",
+            "hu": "Az esőben való biciklizés ma fokozott óvatosságot igényel a csúszós parti utakon; induljon teljes esőfelszerelésben a Raganzino strandtól. Délben a központ védett templomai felé vesszük az irányt, hogy szárazon vészeljük át a nagyobb záporokat. Délután a Palazzo Pandolfi nyújt hosszabb pihenőt fedett helyen, mielőtt folytatnánk az utat. Az este óvatos tekeréssel zárul a parton, ahol a város fényei táncolnak az esőben.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile alunecoase de coastă; porniți echipat complet de ploaie de la plaja Raganzino. La prânz ne îndreptăm spre bisericile din centru pentru a trece uscați de aversele mari. După-amiaza, Palazzo Pandolfi oferă o pauză lungă la adăpost înainte de a continua drumul. Seara se încheie cu o tură atentă pe mal, unde luminile orașului dansează în ploaie.",
+            "en": "Cycling in the rain today requires extra caution on slippery coastal paths; start fully geared up from Raganzino beach. At noon, head towards the sheltered churches in the center to stay dry during the heaviest showers. In the afternoon, Palazzo Pandolfi offers a long indoor break before moving on. The evening ends with a careful ride along the coast, where city lights dance in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia Raganzino",
+                "hu": "Spiaggia Raganzino",
+                "ro": "Spiaggia Raganzino",
+                "en": "Spiaggia Raganzino"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Losfahren auf den nassen Sand auf den Wegen, der die Reifen sehr rutschig machen kann.",
+                "hu": "Induláskor ügyeljen az utakra hordott nedves homokra, amely nagyon csúszóssá teheti a gumiabroncsokat.",
+                "ro": "La plecare, aveți grijă la nisipul umed de pe drumuri, care poate face anvelopele foarte alunecoase.",
+                "en": "Be careful of wet sand on the paths when starting, as it can make the tires very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni",
+                "hu": "San Giovanni",
+                "ro": "San Giovanni",
+                "en": "San Giovanni"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Pause, um Ihre Kleidung im Inneren kurz zu trocknen.",
+                "hu": "Parkolja le a biciklit védett helyen, és használja ki a pihenőt, hogy bent egy kicsit megszárítsa a ruházatát.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți pauza pentru a vă usca puțin hainele în interior.",
+                "en": "Park your bike in a sheltered spot and use the break to dry your clothes a bit inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pandolfi",
+                "hu": "Palazzo Pandolfi",
+                "ro": "Palazzo Pandolfi",
+                "en": "Palazzo Pandolfi"
+              },
+              "tip_5lang": {
+                "de": "Eine ideale längere Station, um das Fahrrad abzustellen und sich bei einer ausgiebigen Innenbesichtigung aufzuwärmen.",
+                "hu": "Ideális hosszabb megálló a bicikli leállítására és a bemelegedésre egy alapos belső látogatás során.",
+                "ro": "O oprire ideală mai lungă pentru a lăsa bicicleta și a vă încălzi în timpul unei vizite interioare amănunțite.",
+                "en": "An ideal longer stop to park the bike and warm up during an extensive indoor tour of the palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria di Portosalvo",
+                "hu": "Parrocchia Santa Maria di Portosalvo",
+                "ro": "Parrocchia Santa Maria di Portosalvo",
+                "en": "Parrocchia Santa Maria di Portosalvo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Vordächern in der Nähe Schutz, falls der Regen beim Erreichen dieser Station gerade stärker wird.",
+                "hu": "Keressen menedéket a közeli előtetők alatt, ha az eső éppen intenzívebbé válik, mire elér ehhez a megállóhoz.",
+                "ro": "Căutați adăpost sub streșinile din apropiere dacă ploaia devine mai intensă când ajungeți la această stație.",
+                "en": "Look for shelter under nearby eaves if the rain intensifies just as you reach this station."
+              }
+            },
+            {
+              "name": {
+                "de": "San Paolo",
+                "hu": "San Paolo",
+                "ro": "San Paolo",
+                "en": "San Paolo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Kopfsteinpflasterabschnitten vor der Kirche, da diese bei Nässe extrem glatt sind.",
+                "hu": "Hajtson lassan a templom előtti macskaköves szakaszokon, mert nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Mergeți încet pe porțiunile cu piatră cubică din fața bisericii, deoarece sunt extrem de alunecoase când sunt ude.",
+                "en": "Ride slowly on the cobblestone sections in front of the church, as they are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietre Nere",
+                "hu": "Pietre Nere",
+                "ro": "Pietre Nere",
+                "en": "Pietre Nere"
+              },
+              "tip_5lang": {
+                "de": "Das 'Schwarze Gestein' wirkt im Regen besonders dunkel und dramatisch; bleiben Sie für Fotos unter Ihrem Regenschutz.",
+                "hu": "A 'fekete kövek' esőben különösen sötétek és drámaiak; a fotózáshoz maradjon az esővédője alatt.",
+                "ro": "Stâncile negre par deosebit de întunecate și dramatice în ploaie; rămâneți sub pelerină pentru fotografii.",
+                "en": "The 'black rocks' look especially dark and dramatic in the rain; stay under your rain gear for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro della Musica Augusto Daolio",
+                "hu": "Teatro della Musica Augusto Daolio",
+                "ro": "Teatro della Musica Augusto Daolio",
+                "en": "Teatro della Musica Augusto Daolio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich des Theaters, um sich zu sammeln, bevor Sie die Heimfahrt antreten.",
+                "hu": "Használja a színház fedett bejárati részét az összekészülődéshez, mielőtt elindulna az út utolsó szakaszán.",
+                "ro": "Folosiți zona de intrare acoperită a teatrului pentru a vă organiza înainte de a porni pe ultima etapă a drumului.",
+                "en": "Use the theater's covered entrance area to regroup before heading out on the final leg of your ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht das Radfahren heute besonders erfrischend; ein Paar Handschuhe ist für die Fahrt am Morgen unerlässlich. Mittags genießen wir die wärmenden Sonnenstrahlen auf den offenen Plätzen zwischen den historischen Gebäuden. Um 17:00 Uhr sinkt die Sonne bereits, was die Lichtverhältnisse am späten Nachmittag magisch macht. Die Tour endet pünktlich zum Einbruch der Dunkelheit, wenn es spürbar kühler wird.",
+            "hu": "A friss téli levegő különösen élénkítővé teszi a mai biciklizést; egy pár kesztyű elengedhetetlen a reggeli tekeréshez. Délben élvezzük a melengető napsugarakat a történelmi épületek közötti nyitott tereken. 17:00-kor már lebukik a nap, ami varázslatos fényeket teremt késő délután. A túra pontosan a sötétedés beálltával ér véget, amikor a levegő érezhetően lehűl.",
+            "ro": "Aerul curat de iarnă face mersul pe bicicletă deosebit de revigorant; o pereche de mănuși este esențială pentru tura de dimineață. La prânz ne bucurăm de razele soarelui în piețele deschise dintre clădirile istorice. La ora 17:00 soarele apune deja, creând lumini magice după-amiaza târziu. Turul se încheie exact la lăsarea întunericului, când temperatura scade simțitor.",
+            "en": "The crisp winter air makes cycling especially invigorating today; a pair of gloves is essential for the morning ride. At noon, enjoy the warming sunbeams in the open squares between historic buildings. By 5 PM, the sun sets, creating magical lighting conditions in the late afternoon. The tour ends right as darkness falls and the air becomes noticeably chillier."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia Raganzino",
+                "hu": "Spiaggia Raganzino",
+                "ro": "Spiaggia Raganzino",
+                "en": "Spiaggia Raganzino"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpromenade ist im Winter fast menschenleer; genießen Sie die Einsamkeit, aber achten Sie auf den kalten Wind.",
+                "hu": "A tengerparti sétány télen szinte néptelen; élvezze a magányt, de ügyeljen a hűvös, csípős szélre.",
+                "ro": "Faleza este aproape pustie iarna; bucurați-vă de liniște, dar aveți grijă la vântul rece și tăios.",
+                "en": "The beach promenade is almost deserted in winter; enjoy the solitude but watch out for the cold, biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni",
+                "hu": "San Giovanni",
+                "ro": "San Giovanni",
+                "en": "San Giovanni"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und beleuchtet die Fassade der Kirche in einem warmen Goldton; perfekt für Fotos am späten Vormittag.",
+                "hu": "A nap alacsonyan jár, és meleg arany tónusban világítja meg a templom homlokzatát; tökéletes késő délelőtti fotókhoz.",
+                "ro": "Soarele este jos și luminează fațada bisericii într-o nuanță aurie caldă; perfect pentru fotografii dimineața târziu.",
+                "en": "The sun is low, illuminating the church facade in a warm golden tone; perfect for late morning photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pandolfi",
+                "hu": "Palazzo Pandolfi",
+                "ro": "Palazzo Pandolfi",
+                "en": "Palazzo Pandolfi"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine längere Pause im warmen Inneren, da die Temperaturen im Schatten der Gassen niedrig bleiben.",
+                "hu": "Tartson itt hosszabb pihenőt a meleg belső térben, mivel a sikátorok árnyékában a hőmérséklet alacsony marad.",
+                "ro": "Luați o pauză mai lungă în interiorul cald, deoarece temperaturile la umbra aleilor rămân destul de scăzute.",
+                "en": "Take a longer break in the warm interior here, as temperatures remain low in the shade of the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria di Portosalvo",
+                "hu": "Parrocchia Santa Maria di Portosalvo",
+                "ro": "Parrocchia Santa Maria di Portosalvo",
+                "en": "Parrocchia Santa Maria di Portosalvo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die kürzeren Öffnungszeiten im Winter und planen Sie Ihren Besuch vor der frühen Dämmerung ein.",
+                "hu": "Ügyeljen a rövidebb téli nyitvatartásra, és tervezze látogatását a korai szürkület beállta elé.",
+                "ro": "Aveți grijă la programul mai scurt de iarnă și planificați-vă vizita înainte de lăsarea serii timpurii.",
+                "en": "Be aware of shorter winter opening hours and plan your visit before the early dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "San Paolo",
+                "hu": "San Paolo",
+                "ro": "San Paolo",
+                "en": "San Paolo"
+              },
+              "tip_5lang": {
+                "de": "Im Winterlicht kommen die klaren Linien der Architektur besonders gut zur Geltung; ideal für einen ruhigen Stopp.",
+                "hu": "A téli fényben az építészet tiszta vonalai különösen jól érvényesülnek; ideális egy nyugodt megállóhoz.",
+                "ro": "În lumina iernii, liniile clare ale arhitecturii ies în evidență deosebit de bine; ideal pentru o oprire liniștită.",
+                "en": "In the winter light, the clean lines of the architecture stand out particularly well; ideal for a quiet stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietre Nere",
+                "hu": "Pietre Nere",
+                "ro": "Pietre Nere",
+                "en": "Pietre Nere"
+              },
+              "tip_5lang": {
+                "de": "Hier weht der Wind oft am stärksten; halten Sie den Stopp kurz, wenn die Sonne bereits hinter den Häusern verschwindet.",
+                "hu": "Itt fúj gyakran a legerősebben a szél; tartsa röviden a megállót, ha a nap már kezd eltűnni a házak mögött.",
+                "ro": "Aici vântul suflă adesea cel mai tare; faceți o oprire scurtă dacă soarele începe deja să dispară după clădiri.",
+                "en": "The wind often blows strongest here; keep your stop brief if the sun is already starting to disappear behind the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro della Musica Augusto Daolio",
+                "hu": "Teatro della Musica Augusto Daolio",
+                "ro": "Teatro della Musica Augusto Daolio",
+                "en": "Teatro della Musica Augusto Daolio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour schnell, da es nach 17:00 Uhr ohne Sonne auf dem Rad sehr schnell auskühlt.",
+                "hu": "Fejezze be gyorsan a túrát, mert 17:00 után napsütés nélkül a biciklin ülve nagyon hamar áthűl az ember.",
+                "ro": "Încheiați rapid turul, deoarece după ora 17:00, fără soare, se răcește foarte repede când sunteți pe bicicletă.",
+                "en": "Finish the tour quickly, as after 5 PM without the sun, it gets very cold very fast while on the bike."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós utazását Pozzallo nyugati peremén, élvezve a Lido Moretta és Carizza érintetlen homokját. A dél közeledtével a városközpontba érkezik, ahol történelmi műemlékek és az elegáns Palazzo Pandolfi várják. Délután fedezze fel a központi templomokat és a Pietre Nere sötét, lenyűgöző szikláit a part mentén. Az utazás egy pihentető esti fürdőzéssel zárul a fényűző Kikki-Village medencekomplexumában.",
         "ro": "Începeți călătoria la marginile vestice ale orașului Pozzallo, bucurându-vă de nisipurile imaculate de la Lido Moretta și Carizza. Amiaza vă aduce în centrul orașului, trecând cu ușurință între monumentele istorice și Palazzo Pandolfi. După-amiaza, explorați bisericile centrale și rocile întunecate și izbitoare de la Pietre Nere. Călătoria se încheie perfect cu o baie de seară relaxantă în complexul luxos de piscine Kikki-Village.",
         "en": "Kick off your road trip at the far western edges of Pozzallo, enjoying the pristine sands of Lido Moretta and Carizza. Midday brings you into the town center, effortlessly hopping between the historical monuments and the elegant Palazzo Pandolfi. In the afternoon, explore the central churches and the dark, striking rocks of Pietre Nere along the coast. The journey finishes perfectly with a relaxing evening dip at the luxurious Kikki-Village pool complex."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im Auto, während der Regen gegen die Scheiben prasselt; starten Sie gemütlich am Lido Moretta. Mittags steuern wir die historischen Highlights wie Palazzo Pandolfi an, wo Sie trockenen Fußes vom Parkplatz ins Innere gelangen. Am Nachmittag bietet die Fahrt entlang der Küste dramatische Ausblicke auf das graue Meer. Der Abend endet bei prasselndem Regen entspannt an einem der wetterfesten Ziele der Umgebung.",
+            "hu": "Az út biztonságosan indul az autóban, miközben az eső kopog a szélvédőn; kezdje kényelmesen a napot a Lido Morettánál. Délben a történelmi látnivalókat, például a Palazzo Pandolfi-t célozzuk meg, ahol száraz lábbal juthat be a parkolóból. Délután az autós túra drámai kilátást nyújt a szürke tengerre a part mentén. Az este a zuhogó esőben, egy környékbeli fedett és hangulatos helyszínen zárul.",
+            "ro": "Călătoria începe în siguranță în mașină, în timp ce ploaia bate în parbriz; porniți relaxat de la Lido Moretta. La prânz vizităm atracțiile istorice, cum ar fi Palazzo Pandolfi, unde puteți intra uscat din parcare. După-amiaza, tura cu mașina oferă vederi dramatice asupra mării gri de-a lungul coastei. Seara se încheie în zgomotul ploii, într-o locație primitoare și ferită de intemperii din zonă.",
+            "en": "The journey begins safely in the car as rain drums against the windshield; start your day comfortably at Lido Moretta. At noon, head for historical highlights like Palazzo Pandolfi, where you can reach the interior dry-shod from the parking area. In the afternoon, the drive along the coast offers dramatic views of the grey sea. The evening ends in the pouring rain at a cozy, weather-proof destination nearby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lido Moretta",
+                "hu": "Lido Moretta",
+                "ro": "Lido Moretta",
+                "en": "Lido Moretta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer aus der Sicherheit Ihres Autos, wenn der Regen gerade zu stark für einen Strandspaziergang ist.",
+                "hu": "Élvezze a tenger látványát az autó biztonságából, ha az eső éppen túl intenzív egy parti sétához.",
+                "ro": "Bucurați-vă de vederea mării din siguranța mașinii dacă ploaia este prea intensă pentru o plimbare pe plajă.",
+                "en": "Enjoy the view of the sea from the safety of your car if the rain is currently too intense for a beach walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Carizza",
+                "hu": "Carizza",
+                "ro": "Carizza",
+                "en": "Carizza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Aussichtspunkt und halten Sie die Kamera bereit für stimmungsvolle Regenfotos von der Küste.",
+                "hu": "Parkoljon a lehető legközelebb a kilátóponthoz, és tartsa készenlétben a kamerát a hangulatos parti esőfotókhoz.",
+                "ro": "Parcați cât mai aproape de punctul de belvedere și aveți camera pregătită pentru fotografii de coastă pline de atmosferă.",
+                "en": "Park as close as possible to the viewpoint and keep your camera ready for atmospheric rainy coastal photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Raganzino",
+                "hu": "Spiaggia Raganzino",
+                "ro": "Spiaggia Raganzino",
+                "en": "Spiaggia Raganzino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt an der Promenade, um nur kurz für ein schnelles Foto in den Regen springen zu müssen.",
+                "hu": "Használja a közvetlenül a sétány melletti parkolókat, hogy csak egy pillanatra kelljen kiszállnia a fotózáshoz az esőben.",
+                "ro": "Folosiți parcările de lângă faleză pentru a coborî doar un moment pentru o fotografie rapidă în ploaie.",
+                "en": "Use the parking spaces right by the promenade to only have to jump out briefly for a quick photo in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Denkmal kurz durch das Fenster und warten Sie einen Moment ab, bis der Regen für einen Besuch nachlässt.",
+                "hu": "Figyelje meg az emlékművet az ablakon keresztül, és várjon egy alkalmas pillanatot, amikor alábbhagy az eső a látogatáshoz.",
+                "ro": "Observați monumentul prin geam și așteptați un moment favorabil când ploaia se domolește pentru a-l vizita.",
+                "en": "Observe the monument through the window and wait for a favorable moment when the rain lets up to visit it."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pandolfi",
+                "hu": "Palazzo Pandolfi",
+                "ro": "Palazzo Pandolfi",
+                "en": "Palazzo Pandolfi"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen; parken Sie in der Nähe und verbringen Sie viel Zeit in den geschützten, prachtvollen Räumen.",
+                "hu": "Ideális megálló esőben; parkoljon a közelben, és töltsön el sok időt a védett, pompás belső terekben.",
+                "ro": "O oprire ideală pe ploaie; parcați în apropiere și petreceți mult timp în interiorul protejat și somptuos.",
+                "en": "An ideal stop in the rain; park nearby and spend plenty of time in the sheltered, magnificent rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria di Portosalvo",
+                "hu": "Parrocchia Santa Maria di Portosalvo",
+                "ro": "Parrocchia Santa Maria di Portosalvo",
+                "en": "Parrocchia Santa Maria di Portosalvo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Ein- und Aussteigen auf tiefe Pfützen, die sich auf den Parkflächen im Zentrum oft schnell bilden.",
+                "hu": "Ki- és beszálláskor ügyeljen a mély tócsákra, amelyek a központi parkolókban gyakran gyorsan kialakulnak.",
+                "ro": "Aveți grijă la bălțile adânci care se formează rapid în parcările centrale când urcați sau coborâți din mașină.",
+                "en": "Watch out for deep puddles that often form quickly in central parking areas when getting in and out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietre Nere",
+                "hu": "Pietre Nere",
+                "ro": "Pietre Nere",
+                "en": "Pietre Nere"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen wirken bei grauem Himmel besonders imposant; bleiben Sie im Auto, wenn es zu stark stürmt.",
+                "hu": "A sziklák szürke égbolt alatt különösen impozánsak; maradjon az autóban, ha túl erősen tombol a vihar.",
+                "ro": "Stâncile par impunătoare sub cerul gri; rămâneți în mașină dacă furtuna este prea puternică afară.",
+                "en": "The rocks look particularly imposing under grey skies; stay in the car if the storm is raging too fiercely."
+              }
+            },
+            {
+              "name": {
+                "de": "Pool at Kikki-Village",
+                "hu": "Pool at Kikki-Village",
+                "ro": "Pool at Kikki-Village",
+                "en": "Pool at Kikki-Village"
+              },
+              "tip_5lang": {
+                "de": "Fragen Sie nach überdachten Wellness-Angeboten oder genießen Sie die Atmosphäre der Anlage geschützt im Innenbereich.",
+                "hu": "Érdeklődjön a fedett wellness lehetőségekről, vagy élvezze a komplexum hangulatát a védett belső részeken.",
+                "ro": "Întrebați despre opțiunile de wellness acoperite sau bucurați-vă de atmosfera complexului în zonele interioare protejate.",
+                "en": "Inquire about indoor wellness options or enjoy the resort's atmosphere in the sheltered indoor areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour in Pozzallo bietet Komfort bei jeder Witterung; starten Sie den Tag mit einer warmen Heizung am Lido Moretta. Mittags erkunden wir die historischen Zentren, wobei das Auto als warmer Rückzugsort zwischen den Stopps dient. Da die Dämmerung gegen 17:00 Uhr einsetzt, planen wir die Küstenfahrt für den frühen Nachmittag. Der Abend endet bei kühler, klarer Luft mit einem Besuch in einer festlich beleuchteten Anlage.",
+            "hu": "A téli autós túra Pozzallóban kényelmet nyújt bármilyen időben; kezdje a napot kellemes melegben a Lido Morettánál. Délben a történelmi központokat fedezzük fel, ahol az autó meleg menedékként szolgál a megállók között. Mivel 17:00 körül már sötétedik, a parti autózást kora délutánra időzítjük. Az este hűvös, tiszta levegőben, egy kivilágított helyszín meglátogatásával zárul.",
+            "ro": "Turul cu mașina iarna în Pozzallo oferă confort în orice condiții; începeți ziua cu căldură în mașină la Lido Moretta. La prânz explorăm centrele istorice, mașina servind drept refugiu cald între opriri. Deoarece amurgul se lasă în jurul orei 17:00, planificăm drumul pe coastă după-amiaza devreme. Seara se încheie în aerul rece și curat, cu o vizită într-o locație iluminată festiv.",
+            "en": "The winter car tour in Pozzallo offers comfort regardless of the weather; start your day with the heater on at Lido Moretta. At noon, explore the historic centers, using the car as a warm retreat between stops. Since dusk falls around 5 PM, we schedule the coastal drive for the early afternoon. The evening concludes in the cool, crisp air with a visit to a festively lit location."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lido Moretta",
+                "hu": "Lido Moretta",
+                "ro": "Lido Moretta",
+                "en": "Lido Moretta"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne am Strand ist herrlich; machen Sie einen kurzen Spaziergang im Sand, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A téli napsütés a strandon csodálatos; tegyen egy rövid sétát a homokban, mielőtt az autóban újra felmelegedne.",
+                "ro": "Soarele de iarnă pe plajă este superb; faceți o scurtă plimbare pe nisip înainte de a vă încălzi din nou în mașină.",
+                "en": "The winter sun on the beach is wonderful; take a short walk on the sand before warming up again in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Carizza",
+                "hu": "Carizza",
+                "ro": "Carizza",
+                "en": "Carizza"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Fernsichten über das Meer direkt vom Fahrersitz aus.",
+                "hu": "Használja ki a tiszta téli fényt a távoli tengeri kilátáshoz, amelyet akár közvetlenül a vezetőülésből is élvezhet.",
+                "ro": "Profitați de lumina clară de iarnă pentru vederi la distanță peste mare, direct de pe scaunul șoferului.",
+                "en": "Take advantage of the clear winter light for distant sea views, which you can enjoy directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Raganzino",
+                "hu": "Spiaggia Raganzino",
+                "ro": "Spiaggia Raganzino",
+                "en": "Spiaggia Raganzino"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter viel einfacher; parken Sie direkt am Meer und genießen Sie die kühle Brise nur kurz.",
+                "hu": "A parkolás télen sokkal egyszerűbb; álljon meg közvetlenül a tengernél, és csak rövid ideig élvezze a hűvös szellőt.",
+                "ro": "Parcarea este mult mai ușoară iarna; opriți direct lângă mare și bucurați-vă de briza rece doar pentru scurt timp.",
+                "en": "Parking is much easier in winter; pull up right by the sea and enjoy the cool breeze for just a short while."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del Mare",
+                "hu": "Monumento ai Caduti del Mare",
+                "ro": "Monumento ai Caduti del Mare",
+                "en": "Monumento ai Caduti del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp reicht hier im Winter völlig aus, da der Wind an dieser exponierten Stelle oft sehr schneidend ist.",
+                "hu": "Egy gyors megálló itt télen bőven elég, mivel a szél ezen a kitett helyen gyakran nagyon metsző és hideg.",
+                "ro": "O oprire rapidă este suficientă aici iarna, deoarece vântul în acest punct expus este adesea tăios și rece.",
+                "en": "A quick stop is plenty here in winter, as the wind at this exposed spot is often very biting and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pandolfi",
+                "hu": "Palazzo Pandolfi",
+                "ro": "Palazzo Pandolfi",
+                "en": "Palazzo Pandolfi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Palastbesuch für eine längere Pause außerhalb des Autos in einem prachtvollen, geschützten Ambiente.",
+                "hu": "Használja ki a palotalátogatást egy hosszabb autómentes pihenőre, gyönyörű és védett környezetben.",
+                "ro": "Profitați de vizita la palat pentru o pauză mai lungă în afara mașinii, într-un mediu splendid și protejat.",
+                "en": "Use the palace visit for a longer break away from the car in a magnificent and sheltered setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria di Portosalvo",
+                "hu": "Parrocchia Santa Maria di Portosalvo",
+                "ro": "Parrocchia Santa Maria di Portosalvo",
+                "en": "Parrocchia Santa Maria di Portosalvo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, um die warme Innenbeleuchtung vor der frühen Dunkelheit zu erleben.",
+                "hu": "Látogasson el a templomba késő délután, hogy megtapasztalja a meleg belső világítást a korai sötétedés előtt.",
+                "ro": "Vizitați biserica după-amiaza târziu pentru a experimenta iluminarea interioară caldă înainte de întunericul timpuriu.",
+                "en": "Visit the church in the late afternoon to experience the warm interior lighting before the early darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietre Nere",
+                "hu": "Pietre Nere",
+                "ro": "Pietre Nere",
+                "en": "Pietre Nere"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Felsen bilden im Winter einen starken Kontrast zum oft klaren blauen Himmel; ideal für scharfe Landschaftsfotos.",
+                "hu": "A sötét sziklák télen erős kontrasztot alkotnak a gyakran tiszta kék éggel; ideális éles tájképek készítéséhez.",
+                "ro": "Stâncile întunecate creează un contrast puternic cu cerul adesea senin iarna; ideal pentru fotografii clare de peisaj.",
+                "en": "The dark rocks create a strong contrast with the often clear blue winter sky; ideal for sharp landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Pool at Kikki-Village",
+                "hu": "Pool at Kikki-Village",
+                "ro": "Pool at Kikki-Village",
+                "en": "Pool at Kikki-Village"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier gemütlich; im Winter ist die Anlage ruhig und bietet eine entspannte Atmosphäre zum Ausklang.",
+                "hu": "Zárja itt a napot kényelmesen; télen a komplexum csendes, és nyugodt hangulatot kínál a levezetéshez.",
+                "ro": "Încheiați ziua relaxat aici; iarna complexul este liniștit și oferă o atmosferă relaxantă pentru final.",
+                "en": "End your day comfortably here; in winter the resort is quiet and offers a relaxed atmosphere for winding down."
+              }
+            }
+          ]
+        }
       }
     }
   }

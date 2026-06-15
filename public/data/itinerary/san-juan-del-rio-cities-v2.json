@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Történelmi Központ gyönyörű építészetének felfedezésével. Délben sétáljon el a Függetlenségi Oszlophoz és a lovas szoborhoz. Délután fedezze fel a Santa Veracruz Múzeum egyedi kiállításait és a régi Guadalupe-kutat. Zárja a napot a Kilátó felkeresésével, ahonnan látványos esti panoráma nyílik San Juan del Río gyarmati stílusú háztetőire.",
         "ro": "Începeți dimineața explorând arhitectura superbă a Centrului Istoric. La prânz, plimbați-vă spre Coloana Independenței și statuia ecvestră. După-amiaza, descoperiți exponatele unice de la Muzeul Santa Veracruz și vechiul puț Guadalupe. Încheiați ziua urcând la Punctul de Belvedere pentru o panoramă spectaculoasă de seară peste acoperișurile coloniale din San Juan del Río.",
         "en": "Start your morning exploring the Historical Center's beautiful architecture. Around midday, stroll to the Independence Column and the equestrian statue. In the afternoon, discover the unique exhibits at the Santa Veracruz Museum and the old Guadalupe well. Conclude your day walking up to the Viewpoint for a spectacular evening panorama over the colonial rooftops of San Juan del Río."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den schützenden Arkaden des Zentrums, um den Schauern zu entgehen. Mittags führen kurze Wege zwischen den historischen Säulen durch das nasse Stadtbild. Am Nachmittag bietet das Museum Santa Veracruz einen trockenen Zufluchtsort für Kulturinteressierte. Den Abend lassen Sie am Aussichtspunkt ausklingen, wenn die Stadtlichter auf dem nassen Asphalt glitzern.",
+            "hu": "Kezdje a napot a központ fedett árkádjai alatt, elkerülve a hirtelen záporokat. Délben a közeli emlékművek között sétálva ügyeljen a csúszós macskakövekre a tereken. Délután a Santa Veracruz múzeum vastag falai nyújtanak tökéletes, száraz menedéket a városnézéshez. Az estét a kilátónál zárja, ahol az eső utáni tiszta levegőben ragyognak fel a völgy fényei a nedves utcák felett.",
+            "ro": "Începeți ziua sub arcadele protectoare ale centrului pentru a evita aversele bruște. La prânz, plimbați-vă printre monumente fiind atenți la pavajul alunecos din piețele centrale. După-amiaza, muzeul Santa Veracruz oferă un refugiu uscat și fascinant pentru iubitorii de istorie. Încheiați seara la punctul de belvedere, unde luminile orașului se reflectă superb pe străzile umede.",
+            "en": "Start your day under the protective arches of the center to avoid sudden showers. At noon, walk between the nearby monuments, being careful of the slippery cobblestones in the squares. In the afternoon, the Santa Veracruz museum provides a perfect dry sanctuary for history lovers. End the evening at the viewpoint, where the city lights glisten beautifully on the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Historisches und Kulturelles Zentrum",
+                "hu": "Történelmi és Kulturális Központ",
+                "ro": "Centrul Istoric și Cultural",
+                "en": "Historical and Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenhöfe als Unterschlupf bei Regen; die Ausstellungen zur Stadtgeschichte bleiben so völlig trocken und angenehm erlebbar.",
+                "hu": "Használja a belső udvarokat menedékként az eső elől; a várostörténeti kiállítások így teljesen szárazon és kényelmesen megtekinthetők.",
+                "ro": "Folosiți curțile interioare ca adăpost împotriva ploii; expozițiile despre istoria orașului rămân astfel complet uscate și plăcute de vizitat.",
+                "en": "Use the interior courtyards as shelter from the rain; the city history exhibitions remain completely dry and comfortable to view this way."
+              }
+            },
+            {
+              "name": {
+                "de": "Unabhängigkeitssäule",
+                "hu": "Függetlenség Oszlopa",
+                "ro": "Coloana Independenței",
+                "en": "Column of Independence"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist hier ideal; achten Sie auf den glatten Steinboden rund um das Monument bei Nässe und halten Sie den Schirm bereit.",
+                "hu": "Egy gyors fotómegálló ideális itt; ügyeljen a monumentum körüli sima kőfelületre esőben, és tartsa készenlétben az esernyőjét a nyílt téren.",
+                "ro": "O oprire rapidă pentru fotografii este ideală aici; atenție la pavajul neted din jurul monumentului pe ploaie și țineți umbrela pregătită.",
+                "en": "A quick photo stop is ideal here; watch out for the smooth stone surface around the monument in the rain and keep your umbrella ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Reiterstandbild",
+                "hu": "Lovas Szobor",
+                "ro": "Statuia Ecvestră",
+                "en": "Man on Horseback"
+              },
+              "tip_5lang": {
+                "de": "Die Bronzestatue wirkt im Regen besonders dramatisch; tragen Sie rutschfeste Schuhe, da die Stufen bei Feuchtigkeit sehr glatt werden können.",
+                "hu": "A bronzszobor különösen drámai látványt nyújt az esőben; viseljen csúszásmentes cipőt, mert a lépcsők nedvesen nagyon csalókák lehetnek.",
+                "ro": "Statuia de bronz are un aspect deosebit de dramatic în ploaie; purtați încălțăminte aderentă, deoarece treptele pot fi înșelătoare când sunt ude.",
+                "en": "The bronze statue looks particularly dramatic in the rain; wear non-slip shoes, as the steps can be very deceptive when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantheon/Museum Santa Veracruz",
+                "hu": "Santa Veracruz Panteon/Múzeum",
+                "ro": "Panteon/Muzeul Santa Veracruz",
+                "en": "Pantheon/Museum of Santa Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für einen längeren Aufenthalt im Trockenen; erkunden Sie die beeindruckende Architektur der Krypten ganz ohne Regen.",
+                "hu": "Ez a tökéletes hely egy hosszabb, szárazon töltött megállóhoz; fedezze fel a kripták lenyűgöző építészetét az esőtől teljesen védett helyen.",
+                "ro": "Acesta este locul perfect pentru o oprire prelungită la adăpost; explorați arhitectura impresionantă a criptelor fiind complet protejat de ploaie.",
+                "en": "This is the perfect place for a longer, dry stop; explore the impressive architecture of the crypts while being completely protected from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Brunnen Unserer Lieben Frau von Guadalupe",
+                "hu": "A Guadalupei Szűzanya Régi Kútja",
+                "ro": "Vechiul Puț al Maicii Domnului din Guadalupe",
+                "en": "Old Well of Our Lady of Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Der historische Brunnen bietet einen mystischen Anblick bei bewölktem Himmel; die umliegenden Arkaden dienen als praktischer Schutz bei Schauern.",
+                "hu": "A történelmi kút misztikus látványt nyújt felhős égbolt alatt; a közeli árkádok praktikus védelmet jelentenek a hirtelen jött záporok során.",
+                "ro": "Fântâna istorică oferă o vedere mistică sub cerul înnorat; arcadele din apropiere oferă protecție practică în timpul averselor bruște.",
+                "en": "The historical well offers a mystical sight under cloudy skies; the nearby arches provide practical protection during sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt",
+                "hu": "Kilátó",
+                "ro": "Punct de Belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Oft klärt sich die Sicht nach dem Regen auf; nutzen Sie die überdachten Bereiche oben, um das Panorama sicher und trocken zu genießen.",
+                "hu": "Gyakran kitisztul a látótávolság az eső után; használja a felső fedett részeket a panoráma biztonságos és száraz megtekintéséhez.",
+                "ro": "Adesea vizibilitatea se îmbunătățește după ploaie; folosiți zonele acoperite de sus pentru a admira panorama în siguranță și la uscat.",
+                "en": "Often the visibility clears up after the rain; use the covered areas above to enjoy the panorama safely and dryly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Wintermorgen bei einem Spaziergang durch die kühlen Gassen. Mittags wärmt die sanfte mexikanische Sonne die historischen Plätze auf. Besuchen Sie am Nachmittag das Santa Veracruz Museum, bevor die Kälte mit dem frühen Sonnenuntergang einzieht. Ab 17:00 Uhr bietet der Aussichtspunkt einen klaren Blick auf das bereits künstlich beleuchtete Stadtzentrum.",
+            "hu": "Élvezze a friss téli reggelt a történelmi utcák hűvösében tett sétával. Délben a lágy mexikói napsütés kellemesen felmelegíti a központi tereket. Délután látogassa meg a Santa Veracruz Múzeumot, mielőtt a korai naplemente után hirtelen lehűlne a levegő. 17:00 után a kilátóból már a kivilágított városközpont tiszta panorámája tárul Ön elé a csípős alkonyatban.",
+            "ro": "Bucurați-vă de dimineața proaspătă de iarnă cu o plimbare prin răcoarea străzilor istorice. La prânz, soarele blând mexican încălzește plăcut piețele centrale. Vizitați muzeul Santa Veracruz după-amiaza, înainte ca aerul să se răcească brusc după apusul timpuriu. După ora 17:00, punctul de belvedere oferă o panoramă clară a centrului luminat, în amurgul rece.",
+            "en": "Enjoy the fresh winter morning with a walk through the cool historical streets. At noon, the gentle Mexican sun warms the central squares pleasantly. Visit the Santa Veracruz Museum in the afternoon before the air cools down suddenly after the early sunset. After 17:00, the viewpoint offers a clear panorama of the illuminated city center in the brisk twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Historisches und Kulturelles Zentrum",
+                "hu": "Történelmi és Kulturális Központ",
+                "ro": "Centrul Istoric și Cultural",
+                "en": "Historical and Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Mittagssonne; ein Besuch am Vormittag ist ideal, um die kühle Morgenluft kurzzeitig zu meiden.",
+                "hu": "A vastag falak jól tartják a napközbeni meleget; a délelőtti látogatás ideális, hogy rövid időre elkerülje a kinti hűvös reggeli levegőt.",
+                "ro": "Zidurile groase rețin bine căldura din timpul zilei; o vizită dimineața este ideală pentru a evita scurt timp aerul rece de afară.",
+                "en": "The thick walls retain heat well during the day; a morning visit is ideal to briefly avoid the cool morning air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Unabhängigkeitssäule",
+                "hu": "Függetlenség Oszlopa",
+                "ro": "Coloana Independenței",
+                "en": "Column of Independence"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für scharfe Kontraste bei Fotos; nutzen Sie die helle Mittagszeit, da der Platz früh im Schatten liegt.",
+                "hu": "A tiszta téli fény éles kontrasztokat biztosít a fotókhoz; használja ki a fényes délidőt, mert a tér korán árnyékba borul az alacsony napállás miatt.",
+                "ro": "Lumina clară de iarnă oferă contraste puternice pentru fotografii; profitați de amiază, deoarece piața intră devreme în umbră din cauza soarelui jos.",
+                "en": "The clear winter light provides sharp contrasts for photos; take advantage of the bright noon, as the square goes into shadow early."
+              }
+            },
+            {
+              "name": {
+                "de": "Reiterstandbild",
+                "hu": "Lovas Szobor",
+                "ro": "Statuia Ecvestră",
+                "en": "Man on Horseback"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine leichte Jacke für diesen exponierten Stopp; die kühle Brise kann hier im Winter besonders am frühen Nachmittag auffrischen.",
+                "hu": "Viseljen könnyű kabátot ennél a nyitott megállónál; a hűvös szellő télen itt különösen kora délután élénkülhet meg a nyílt területen.",
+                "ro": "Purtați o jachetă ușoară la această oprire deschisă; briza rece de iarnă se poate intensifica aici, mai ales după-amiaza devreme.",
+                "en": "Wear a light jacket at this open stop; the cool winter breeze can pick up here, especially in the early afternoon in the open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantheon/Museum Santa Veracruz",
+                "hu": "Santa Veracruz Panteon/Múzeum",
+                "ro": "Panteon/Muzeul Santa Veracruz",
+                "en": "Pantheon/Museum of Santa Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp für den späteren Nachmittag ein, um sich in den Innenräumen aufzuwärmen, bevor die Abendkühle draußen einsetzt.",
+                "hu": "Tervezze ezt a megállót késő délutánra, hogy a belső terekben melegedjen fel, mielőtt az esti lehűlés kint érezhetővé válna a városban.",
+                "ro": "Planificați această oprire pentru după-amiaza târziu pentru a vă încălzi în interior, înainte ca răcoarea serii să devină sesizabilă afară.",
+                "en": "Plan this stop for late afternoon to warm up in the interiors before the evening chill becomes noticeable outside in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Brunnen Unserer Lieben Frau von Guadalupe",
+                "hu": "A Guadalupei Szűzanya Régi Kútja",
+                "ro": "Vechiul Puț al Maicii Domnului din Guadalupe",
+                "en": "Old Well of Our Lady of Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Sonnenlicht im Winter beleuchtet den Brunnen wunderschön; besuchen Sie den Ort vor 16:30 Uhr für die besten Lichtverhältnisse.",
+                "hu": "A téli ferde napsugárzás gyönyörűen megvilágítja a kutat; látogassa meg a helyet 16:30 előtt a legjobb fényviszonyok és színek érdekében.",
+                "ro": "Lumina oblică a soarelui de iarnă luminează superb fântâna; vizitați locul înainte de ora 16:30 pentru cele mai bune condiții de iluminare.",
+                "en": "The slanting winter sunlight illuminates the well beautifully; visit the place before 16:30 for the best lighting conditions and colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt",
+                "hu": "Kilátó",
+                "ro": "Punct de Belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie warme Kleidung mit; der Wind auf dem Hügel ist nach Sonnenuntergang um 17:00 Uhr deutlich kälter als im Stadtzentrum.",
+                "hu": "Vigyen magával meleg ruhát; a dombtetőn a szél a 17:00 órai naplemente után jelentősen hidegebbnek érződik, mint a városközpontban.",
+                "ro": "Aduceți haine groase; vântul de pe deal după apusul de la ora 17:00 se simte mult mai rece decât în centrul orașului.",
+                "en": "Bring warm clothes; the wind on the hilltop feels significantly colder after the 17:00 sunset than in the city center."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Először a lenyűgöző Történelem Hídjához tekerjen, amely az ősi mérnöki munka csodája. Dél körül biciklizzen a Guadalupe-kút és a lenyűgöző Santa Veracruz Múzeum felé. Töltse a délutánt a központi téren, mielőtt a Santa Monica Termálfürdőben pihenne. Aktív napja a Szabadtéri Színpadnál ér véget, amely tökéletes kulturális tér a kikapcsolódásra, ahogy közeledik az este.",
         "ro": "Porniți pe bicicletă către impresionantul Pod al Istoriei, o minune a ingineriei antice. La prânz, pedalați spre puțul Guadalupe și fascinantul Muzeu Santa Veracruz. Petreceți după-amiaza bucurându-vă de piața centrală înainte de a vă relaxa la Băile Santa Monica. Ziua activă se încheie la Forumul în Aer Liber, un spațiu cultural perfect pentru a vă relaxa la lăsarea serii.",
         "en": "Pedal first to the impressive Bridge of History, a marvel of ancient engineering. By midday, cycle towards the Guadalupe well and the fascinating Santa Veracruz Museum. Spend your afternoon enjoying the central square before relaxing at the Santa Monica Spa. Your active day ends gracefully at the Open Air Forum, a perfect cultural space to wind down as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig an der Brücke, da die Steine bei Nässe glatt sind. Mittags bieten die Museen im Zentrum perfekte Pausenplätze im Trockenen. Nachmittags ist die Fahrt zum Thermalbad bei Regen besonders atmosphärisch. Beenden Sie die Tour am Forum, achten Sie aber auf Pfützen auf den Radwegen während der Heimfahrt am Abend.",
+            "hu": "Induljon óvatosan a hídnál, mert a kövek nedvesen csúszósak. Délben a központ múzeumaiban töltsön több időt, amíg elvonulnak a záporok. Délután a termálfürdőbe vezető út az esőben különösen hangulatos és frissítő. A túrát a fórumnál zárja, de az esti hazatekeréskor ügyeljen a kerékpárutakon kialakuló tócsákra.",
+            "ro": "Porniți cu atenție de la pod, deoarece pietrele sunt alunecoase când sunt ude. La prânz, petreceți mai mult timp în muzeele din centru până trec aversele. După-amiaza, drumul spre băile termale este deosebit de atmosferic în ploaie. Încheiați turul la forum, dar atenție la bălțile de pe pistele de biciclete la întoarcerea de seară.",
+            "en": "Start carefully at the bridge as the stones are slippery when wet. At noon, spend more time in the center's museums until the showers pass. In the afternoon, the ride to the thermal spa is particularly atmospheric and refreshing in the rain. End the tour at the forum, but watch out for puddles on the bike paths during the evening ride home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brücke der Geschichte",
+                "hu": "A Történelem Hídja",
+                "ro": "Podul Istoriei",
+                "en": "Bridge of History"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Stehen mit geringer Geschwindigkeit über die Brücke; das historische Pflaster wird bei Regen extrem rutschig für Fahrradreifen.",
+                "hu": "Lassú tempóban, óvatosan hajtson át a hídon; a történelmi macskakövek az esőben rendkívül csúszóssá válnak a kerékpárgumik számára.",
+                "ro": "Traversați podul cu viteză redusă și atenție; pavajul istoric devine extrem de alunecos pentru anvelopele de bicicletă în timpul ploii.",
+                "en": "Cross the bridge at a slow pace and carefully; the historical cobblestones become extremely slippery for bicycle tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Brunnen Unserer Lieben Frau von Guadalupe",
+                "hu": "A Guadalupei Szűzanya Régi Kútja",
+                "ro": "Vechiul Puț al Maicii Domnului din Guadalupe",
+                "en": "Old Well of Our Lady of Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den nahen Bäumen oder Gebäuden, falls der Regen stärker wird; der Brunnen wirkt im Regen sehr stimmungsvoll.",
+                "hu": "Keressen menedéket a közeli fák vagy épületek alatt, ha felerősödik az eső; a kút látványa ilyenkor különösen hangulatos és megnyugtató.",
+                "ro": "Căutați adăpost sub copacii sau clădirile din apropiere dacă ploaia se intensifică; vederea fântânii este deosebit de atmosferică în acest moment.",
+                "en": "Seek shelter under nearby trees or buildings if the rain intensifies; the sight of the well is particularly atmospheric and calming then."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantheon/Museum Santa Veracruz",
+                "hu": "Santa Veracruz Panteon/Múzeum",
+                "ro": "Panteon/Muzeul Santa Veracruz",
+                "en": "Pantheon/Museum of Santa Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad kurzzeitig abzustellen und die Ausstellungen im Trockenen zu genießen.",
+                "hu": "Használja a fedett bejárati részt a kerékpár rövid idejű leállítására, amíg Ön a belső kiállításokat teljesen szárazon élvezi.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta scurt timp, în timp ce vă bucurați de expozițiile interioare la uscat.",
+                "en": "Use the covered entrance area to park your bike briefly while you enjoy the interior exhibitions completely dryly."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches und Kulturelles Zentrum",
+                "hu": "Történelmi és Kulturális Központ",
+                "ro": "Centrul Istoric és Cultural",
+                "en": "Historical and Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Regenpause; die Gänge bieten genug Platz, um die nasse Kleidung kurz auszuschütteln und Geschichte zu erleben.",
+                "hu": "Ideális hely egy eső elleni pihenőhöz; a folyosók elég helyet biztosítanak a vizes ruhák lerázásához a várostörténeti élmények mellett.",
+                "ro": "Un loc ideal pentru o pauză de ploaie; coridoarele oferă suficient spațiu pentru a scutura hainele ude alături de experiențele istorice.",
+                "en": "An ideal place for a rain break; the corridors provide enough space to shake off wet clothes alongside the city history experiences."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbad Santa Monica",
+                "hu": "Santa Monica Termálfürdő",
+                "ro": "Băile Santa Monica",
+                "en": "Santa Monica Spa"
+              },
+              "tip_5lang": {
+                "de": "Das warme Wasser ist bei kühlem Regenwetter besonders wohltuend; packen Sie Ihre Handtücher in wasserfeste Taschen für die Weiterfahrt.",
+                "hu": "A meleg víz hűvös esőben különösen jótékony; csomagolja a törölközőit vízálló táskába a további tekeréshez, hogy szárazak maradjanak.",
+                "ro": "Apa caldă este deosebit de benefică pe ploaie rece; împachetați prosoapele în pungi impermeabile pentru restul călătoriei.",
+                "en": "The warm water is especially beneficial in cool rain; pack your towels in waterproof bags for the rest of the ride so they stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Freilichtbühne",
+                "hu": "Szabadtéri Színpad",
+                "ro": "Forum în Aer Liber",
+                "en": "Open Air Forum"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf stehendes Wasser auf der großen Fläche; die Metallstrukturen können bei Nässe reflektieren und die Sicht behindern.",
+                "hu": "Ügyeljen a nagy felületen megálló vízre; a fémszerkezetek nedvesen tükröződhetnek, ami korlátozhatja a látást a kerékpáros manővereknél.",
+                "ro": "Atenție la apa stagnantă de pe suprafața mare; structurile metalice pot reflecta lumina când sunt ude, limitând vizibilitatea în manevre.",
+                "en": "Watch out for standing water on the large surface; the metal structures can reflect when wet, which may limit visibility for cycling maneuvers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Morgen mit Handschuhen, da der Fahrtwind an der Brücke noch sehr kalt ist. Die Mittagsstunden im Zentrum bieten die beste Wärme für die Stadttour. Besuchen Sie das Museum am Nachmittag, um die sinkenden Temperaturen zu meiden. Planen Sie das Thermalbad gegen 15:00 Uhr ein, damit Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zurückfahren können.",
+            "hu": "Kezdje a reggelt kesztyűben, mert a menetszél a hídnál még nagyon hideg lehet. A déli órák a központban nyújtják a legjobb meleget a városi tekeréshez. Délután látogassa meg a múzeumot, hogy elkerülje a süllyedő hőmérsékletet. A termálfürdőt 15:00 körülre időzítse, hogy a korai naplemente előtt visszaérjen.",
+            "ro": "Începeți dimineața cu mănuși, deoarece vântul la pod poate fi încă foarte rece. Orele amiezii în centru oferă cea mai bună căldură pentru pedalat. Vizitați muzeul după-amiaza pentru a evita scăderea temperaturilor. Programați vizita la băile termale în jurul orei 15:00 pentru a reveni înainte de apusul de la ora 17:00.",
+            "en": "Start the morning with gloves, as the wind chill at the bridge can still be very cold. Noon hours in the center provide the best warmth for city cycling. Visit the museum in the afternoon to avoid sinking temperatures. Schedule the thermal spa for around 15:00 so you return before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brücke der Geschichte",
+                "hu": "A Történelem Hídja",
+                "ro": "Podul Istoriei",
+                "en": "Bridge of History"
+              },
+              "tip_5lang": {
+                "de": "Der Wind über dem Fluss ist im Winter schneidend; tragen Sie einen Schal, um sich beim Überqueren vor der Kälte zu schützen.",
+                "hu": "A folyó feletti szél télen metsző lehet; viseljen sálat, hogy megvédje magát a hidegtől az átkelés és a fotózás ideje alatt.",
+                "ro": "Vântul peste râu poate fi tăios iarna; purtați un fular pentru a vă proteja de frig în timpul traversării și al fotografiilor.",
+                "en": "The wind over the river can be biting in winter; wear a scarf to protect yourself from the cold during the crossing and photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Brunnen Unserer Lieben Frau von Guadalupe",
+                "hu": "A Guadalupei Szűzanya Régi Kútja",
+                "ro": "Vechiul Puț al Maicii Domnului din Guadalupe",
+                "en": "Old Well of Our Lady of Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne an diesem geschützten Ort; die umliegenden Gebäude blockieren den kalten Winterwind sehr effektiv.",
+                "hu": "Használja ki a déli napsütést ezen a védett helyen; a környező épületek hatékonyan fogják fel a hideg téli szeleket a pihenő alatt.",
+                "ro": "Profitați de soarele de la amiază în acest loc protejat; clădirile din jur blochează eficient vântul rece de iarnă în timpul pauzei.",
+                "en": "Take advantage of the noon sun in this sheltered spot; the surrounding buildings effectively block the cold winter winds during the break."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantheon/Museum Santa Veracruz",
+                "hu": "Santa Veracruz Panteon/Múzeum",
+                "ro": "Panteon/Muzeul Santa Veracruz",
+                "en": "Pantheon/Museum of Santa Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume bieten eine willkommene Aufwärmpause; stellen Sie Ihr Rad sicher im Sichtbereich ab und genießen Sie die Stille.",
+                "hu": "A belső terek hívogató felmelegedési lehetőséget kínálnak; állítsa le kerékpárját biztonságos helyen, és élvezze a panteon csendjét.",
+                "ro": "Spațiile interioare oferă o oportunitate primitoare de încălzire; parcați bicicleta într-un loc sigur și bucurați-vă de liniștea panteonului.",
+                "en": "The interior spaces offer a welcoming opportunity to warm up; park your bike in a safe spot and enjoy the silence of the pantheon."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches und Kulturelles Zentrum",
+                "hu": "Történelmi és Kulturális Központ",
+                "ro": "Centrul Istoric és Cultural",
+                "en": "Historical and Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am frühen Nachmittag nutzt die gespeicherte Tageswärme in den Gebäuden optimal aus, bevor es draußen kühler wird.",
+                "hu": "A kora délutáni látogatás során kihasználhatja az épületekben tárolt nappali meleget, mielőtt kint hirtelen lehűlne az idő.",
+                "ro": "O vizită după-amiaza devreme vă permite să profitați de căldura stocată în clădiri înainte ca afară să se răcească brusc.",
+                "en": "A visit in the early afternoon allows you to take advantage of the warmth stored in the buildings before it cools down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbad Santa Monica",
+                "hu": "Santa Monica Termálfürdő",
+                "ro": "Băile Santa Monica",
+                "en": "Santa Monica Spa"
+              },
+              "tip_5lang": {
+                "de": "Das Thermalbad ist im Winter ein Muss; die Wärme entspannt die Muskeln nach der Fahrt in der kühlen Luft ganz wunderbar.",
+                "hu": "A termálfürdő télen kihagyhatatlan; a forró víz csodálatosan ellazítja az izmokat a hűvös levegőben tett tekerés után.",
+                "ro": "Băile termale sunt de neratat iarna; apa fierbinte relaxează minunat mușchii după pedalatul prin aerul rece de afară.",
+                "en": "The thermal spa is a must in winter; the hot water wonderfully relaxes the muscles after cycling through the cool air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Freilichtbühne",
+                "hu": "Szabadtéri Színpad",
+                "ro": "Forum în Aer Liber",
+                "en": "Open Air Forum"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr hier an; das flache Winterlicht erzeugt lange Schatten auf der Betonfläche, was sehr fotogen ist.",
+                "hu": "Érkezzen ide 16:30 előtt; az alacsony téli napállás hosszú árnyékokat vet a betonfelületen, ami rendkívül fotogén látványt nyújt.",
+                "ro": "Sosiți aici înainte de 16:30; soarele jos de iarnă proiectează umbre lungi pe suprafața de beton, oferind un aspect foarte fotogenic.",
+                "en": "Arrive here before 16:30; the low winter sun casts long shadows on the concrete surface, providing a very photogenic look."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Reggel vezessen az ősi El Cerrito Piramishoz, hogy felfedezze a lenyűgöző régészeti történelmet. Délben látogassa meg a Történelem Hídját és a nyüzsgő Történelmi Központot. Délután fedezze fel a Santa Veracruz Múzeumot, mielőtt észak felé venné az irányt a San Pedro Termálfürdőhöz. Változatos autós utazását egy pihentető esti látogatással zárja az Emanuelle Akváriumban.",
         "ro": "Conduceți dimineața către antica Piramidă El Cerrito pentru a descoperi istoria arheologică fascinantă. La prânz ajungeți la Podul Istoriei și în vibrantul Centru Istoric. După-amiaza, explorați Muzeul Santa Veracruz înainte de a vă îndrepta spre nord către Băile San Pedro. Încheiați călătoria dumneavoastră diversă cu o vizită relaxantă de seară la Acvariul Emanuelle.",
         "en": "Drive to the ancient Pyramid of El Cerrito in the morning to uncover fascinating archaeological history. Midday brings you to the Bridge of History and the vibrant Historical Center. In the afternoon, explore the Museum of Santa Veracruz before heading north to the open-air venues and San Pedro Spa. Finish your diverse road trip with a relaxing evening visit to the Emanuelle Aquarium."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos für die Fahrt zur Pyramide am Morgen. Mittags lassen sich die historischen Stopps im Zentrum gut mit kurzen Wegen vom Parkplatz kombinieren. Nachmittags bietet das Museum Schutz vor den Schauern. Den Abend verbringen Sie im Aquarium, das völlig wetterunabhängig ist und einen trockenen, faszinierenden Abschluss bietet.",
+            "hu": "Használja ki az autó kényelmét a piramishoz vezető reggeli úton. Délben a központi történelmi megállók rövid sétával elérhetők a parkolóktól, így elkerülhető a hosszas ázás. Délután a múzeum nyújt menedéket a záporok elől. Az estét töltse az akváriumban, amely teljesen időjárásfüggetlen és száraz, lenyűgöző élményt kínál.",
+            "ro": "Profită de confortul mașinii pentru drumul spre piramidă dimineața. La prânz, opririle istorice din centru sunt accesibile cu scurte plimbări din parcări. După-amiaza, muzeul oferă adăpost împotriva averselor. Petreceți seara la acvariu, care este complet independent de vreme și oferă o încheiere fascinantă și uscată.",
+            "en": "Take advantage of the car's comfort for the morning drive to the pyramid. At noon, the central historical stops are accessible with short walks from the parking lots. In the afternoon, the museum provides shelter from the showers. Spend the evening at the aquarium, which is completely weather-independent and offers a fascinating dry end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pyramide El Cerrito",
+                "hu": "El Cerrito Piramis",
+                "ro": "Piramida El Cerrito",
+                "en": "Pyramid of El Cerrito"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; parken Sie so nah wie möglich am Eingang und tragen Sie wasserfeste Schuhe für die kurze Erkundung.",
+                "hu": "Az utak sárosak lehetnek; parkoljon a lehető legközelebb a bejárathoz, és viseljen vízálló cipőt a piramis körüli rövid felfedezéshez.",
+                "ro": "Potecile pot fi noroioase; parcați cât mai aproape de intrare și purtați încălțăminte impermeabilă pentru scurta explorare a piramidei.",
+                "en": "The paths can be muddy; park as close to the entrance as possible and wear waterproof shoes for the short exploration around the pyramid."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke der Geschichte",
+                "hu": "A Történelem Hídja",
+                "ro": "Podul Istoriei",
+                "en": "Bridge of History"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist ideal; nutzen Sie den Wagen, um direkt danach wieder ins Trockene zu gelangen, falls ein Schauer einsetzt.",
+                "hu": "Egy gyors megálló ideális itt; használja az autót, hogy azonnal száraz helyre kerüljön, ha a hídon hirtelen eleredne az eső.",
+                "ro": "O oprire rapidă este ideală aici; folosiți mașina pentru a ajunge imediat la adăpost dacă începe ploaia brusc pe pod.",
+                "en": "A quick stop is ideal here; use the car to get back to a dry place immediately if it starts raining suddenly on the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches und Kulturelles Zentrum",
+                "hu": "Történelmi és Kulturális Központ",
+                "ro": "Centrul Istoric és Cultural",
+                "en": "Historical and Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind perfekt für Regentage; nutzen Sie die Zeit drinnen, während das Auto sicher auf dem nahegelegenen Parkplatz steht.",
+                "hu": "A kiállítások tökéletesek az esős napokra; töltse bent az időt, amíg az autója biztonságban várja a közeli fedett parkolóban.",
+                "ro": "Expozițiile sunt perfecte pentru zilele ploioase; petreceți timpul înăuntru în timp ce mașina vă așteaptă în siguranță într-o parcare apropiată.",
+                "en": "The exhibitions are perfect for rainy days; spend time inside while your car waits safely in a nearby covered parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantheon/Museum Santa Veracruz",
+                "hu": "Santa Veracruz Panteon/Múzeum",
+                "ro": "Panteon/Muzeul Santa Veracruz",
+                "en": "Pantheon/Museum of Santa Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Rückzugsort bei starkem Regen; die sakrale Atmosphäre wirkt bei prasselndem Regen an den Fenstern besonders intensiv.",
+                "hu": "Kiváló menedékhely heves esőzéskor; a szakrális hangulat az ablakokon kopogó eső mellett különösen intenzív élményt nyújt látogatóinak.",
+                "ro": "Un refugiu excelent în timpul ploilor abundente; atmosfera sacră oferă o experiență intensă alături de sunetul ploii pe ferestre.",
+                "en": "An excellent retreat during heavy rain; the sacred atmosphere provides an intense experience alongside the sound of rain on the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Freilichtbühne",
+                "hu": "Szabadtéri Színpad",
+                "ro": "Forum în Aer Liber",
+                "en": "Open Air Forum"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Forum nur kurz vom Auto aus oder bei einer Regenpause; die weite Fläche bietet kaum Schutz vor den Elementen.",
+                "hu": "Csak röviden nézze meg a fórumot az autóból, vagy egy esőszünetben; a tágas terület szinte semmilyen védelmet nem nyújt az elemek ellen.",
+                "ro": "Vizitați forumul scurt din mașină sau într-o pauză de ploaie; zona spațioasă nu oferă aproape deloc protecție împotriva elementelor.",
+                "en": "View the forum briefly from the car or during a rain break; the spacious area offers almost no protection from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbad San Pedro",
+                "hu": "San Pedro Termálfürdő",
+                "ro": "Băile San Pedro",
+                "en": "San Pedro Spa"
+              },
+              "tip_5lang": {
+                "de": "Dank der Anfahrt mit dem Auto müssen Sie nach dem Bad nicht durch die Kälte laufen; genießen Sie das warme Wasser trotz Regen.",
+                "hu": "Az autós érkezésnek köszönhetően a fürdőzés után nem kell a hidegben sétálnia; élvezze a forró vizet az eső ellenére is.",
+                "ro": "Datorită sosirii cu mașina, nu trebuie să mergeți prin frig după baie; bucurați-vă de apa fierbinte în ciuda ploii de afară.",
+                "en": "Thanks to arriving by car, you don't have to walk in the cold after bathing; enjoy the hot water despite the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Emanuelle",
+                "hu": "Emanuelle Akvárium",
+                "ro": "Acvariul Emanuelle",
+                "en": "Emanuelle Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss für Regentage; das Aquarium ist voll klimatisiert und überdacht, was einen trockenen und angenehmen Abend garantiert.",
+                "hu": "Ideális zárás az esős napokra; az akvárium teljesen fedett és klimatizált, ami garantálja a száraz és kellemes esti programot.",
+                "ro": "Încheierea ideală pentru zilele ploioase; acvariul este complet acoperit și climatizat, garantând un program de seară uscat și plăcut.",
+                "en": "The ideal ending for rainy days; the aquarium is completely covered and climate-controlled, guaranteeing a dry and pleasant evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie am kühlen Morgen die Autoheizung auf dem Weg zum Cerrito. Mittags sind die kurzen Wege zwischen den historischen Gebäuden im Zentrum ideal. Nachmittags bietet das Museum eine warme Auszeit vor der frühen Dämmerung. Planen Sie das Thermalbad gegen 16:00 Uhr ein, bevor Sie den Tag im warmen Aquarium bei Einbruch der Dunkelheit ab 17:00 Uhr beenden.",
+            "hu": "Használja az autó fűtését a Cerritóhoz vezető hűvös reggeli úton. Délben a központ történelmi épületei közötti rövid séták ideálisak a városnézéshez. Délután a múzeum nyújt meleg kikapcsolódást a korai szürkület előtt. A termálfürdőt 16:00 körülre időzítse, majd zárja a napot a fűtött akváriumban 17:00 után.",
+            "ro": "Folosiți încălzirea mașinii pe drumul răcoros de dimineață spre Cerrito. La prânz, scurte plimbări între clădirile istorice din centru sunt ideale. După-amiaza, muzeul oferă o pauză caldă înainte de amurgul timpuriu. Programați băile termale în jurul orei 16:00, apoi încheiați ziua la acvariul încălzit după ora 17:00.",
+            "en": "Use the car heater on the cool morning drive to Cerrito. At noon, short walks between the historical buildings in the center are ideal for sightseeing. In the afternoon, the museum provides a warm break before the early twilight. Schedule the thermal spa for around 16:00, then end the day at the heated aquarium after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pyramide El Cerrito",
+                "hu": "El Cerrito Piramis",
+                "ro": "Piramida El Cerrito",
+                "en": "Pyramid of El Cerrito"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Anlage am späten Vormittag, wenn die Wintersonne die Steine aufwärmt und die Sicht über das Tal am klarsten ist.",
+                "hu": "Késő délelőtt látogassa meg a területet, amikor a téli nap már felmelegítette a köveket, és a kilátás a völgyre a legtisztább.",
+                "ro": "Vizitați zona la sfârșitul dimineții, când soarele de iarnă a încălzit pietrele și vederea asupra văii este cea mai clară.",
+                "en": "Visit the area in the late morning when the winter sun has warmed the stones and the view over the valley is the clearest."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke der Geschichte",
+                "hu": "A Történelem Hídja",
+                "ro": "Podul Istoriei",
+                "en": "Bridge of History"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist ideal für Fotos der Brücke; parken Sie in der Nähe, um die Zeit im kalten Wind auf der Brücke zu minimieren.",
+                "hu": "A tiszta téli fény ideális a hídról készülő fotókhoz; parkoljon a közelben, hogy minimalizálja a hideg szélben töltött időt a hídon.",
+                "ro": "Lumina clară de iarnă este ideală pentru fotografiile de pe pod; parcați în apropiere pentru a minimiza timpul petrecut în vântul rece.",
+                "en": "The clear winter light is ideal for photos from the bridge; park nearby to minimize the time spent in the cold wind on the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches und Kulturelles Zentrum",
+                "hu": "Történelmi és Kulturális Központ",
+                "ro": "Centrul Istoric és Cultural",
+                "en": "Historical and Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern isolieren gut gegen die Außenkälte; nutzen Sie diesen Stopp für eine längere Pause im klimatisch angenehmen Inneren.",
+                "hu": "A vastag falak jól szigetelnek a kinti hideg ellen; használja ezt a megállót egy hosszabb pihenőre a kellemes klímájú belső terekben.",
+                "ro": "Zidurile groase izolează bine împotriva frigului de afară; folosiți această oprire pentru o pauză lungă în interioarele cu climat plăcut.",
+                "en": "The thick walls insulate well against the outside cold; use this stop for a long break in the climatically pleasant interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantheon/Museum Santa Veracruz",
+                "hu": "Santa Veracruz Panteon/Múzeum",
+                "ro": "Panteon/Muzeul Santa Veracruz",
+                "en": "Pantheon/Museum of Santa Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft faszinierende Schatten in die Gänge des Pantheons; besuchen Sie es am besten vor 15:30 Uhr für tolles Licht.",
+                "hu": "Az alacsony téli napállás lenyűgöző árnyékokat vet a panteon folyosóin; látogassa meg 15:30 előtt a legszebb fényhatások érdekében.",
+                "ro": "Soarele jos de iarnă proiectează umbre fascinante pe coridoarele panteonului; vizitați-l înainte de 15:30 pentru cele mai frumoase efecte.",
+                "en": "The low winter sun casts fascinating shadows in the pantheon's corridors; visit before 15:30 for the most beautiful lighting effects."
+              }
+            },
+            {
+              "name": {
+                "de": "Freilichtbühne",
+                "hu": "Szabadtéri Színpad",
+                "ro": "Forum în Aer Liber",
+                "en": "Open Air Forum"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter oft windig; ein kurzer Abstecher reicht aus, um die moderne Architektur im harten Winterlicht zu bewundern.",
+                "hu": "A tér télen gyakran szeles; egy rövid kitérő is elég, hogy megcsodálja a modern építészetet az éles téli megvilágításban.",
+                "ro": "Piața este adesea vântoasă iarna; o scurtă vizită este suficientă pentru a admira arhitectura modernă în lumina ascuțită de iarnă.",
+                "en": "The square is often windy in winter; a short detour is enough to admire the modern architecture in the sharp winter lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermalbad San Pedro",
+                "hu": "San Pedro Termálfürdő",
+                "ro": "Băile San Pedro",
+                "en": "San Pedro Spa"
+              },
+              "tip_5lang": {
+                "de": "Ein Winter-Highlight; das warme Thermalwasser bildet bei kühler Luft Dampfschwaden, was eine sehr entspannte Atmosphäre schafft.",
+                "hu": "Téli csúcspont; a forró termálvíz a hűvös levegőben gőzfelhőket képez, ami rendkívül relaxáló és látványos környezetet teremt.",
+                "ro": "Un punct culminant al iernii; apa termală fierbinte formează nori de abur în aerul rece, creând un mediu relaxant și spectaculos.",
+                "en": "A winter highlight; the hot thermal water forms steam clouds in the cool air, creating an extremely relaxing and spectacular setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Emanuelle",
+                "hu": "Emanuelle Akvárium",
+                "ro": "Acvariul Emanuelle",
+                "en": "Emanuelle Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Winterabend; nach Sonnenuntergang bietet das Aquarium eine warme und leuchtende Welt, die Sie völlig vergessen lässt, wie kalt es draußen ist.",
+                "hu": "Tökéletes téli esti program; naplemente után az akvárium egy meleg és fénylő világot kínál, ahol teljesen elfelejtheti a kinti hideget.",
+                "ro": "Programul perfect de seară iarna; după apus, acvariul oferă o lume caldă și luminoasă unde puteți uita complet de frigul de afară.",
+                "en": "Perfect winter evening program; after sunset, the aquarium offers a warm and glowing world where you can completely forget the cold outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi útmenti keresztnél indul, és egy békés sétával folytatódik a Szent Genovéva-templom felé. Délben a környék nyüzsgő szívébe érkezik, és megáll a Szent Péter-templomnál. A délutánt a kulturális elmélyülésnek szenteli a La Scène központban. Az este gyönyörűen ereszkedik le, miközben egy kellemes sétával lazít a Deûle Parkban.",
         "ro": "Dimineața începe la crucea istorică, conducând la o plimbare senină spre Biserica Sfânta Genoveva. La prânz ajungeți în inima vibrantă a zonei cu o oprire la Biserica Sfântul Petru. După-amiaza este rezervată imersiunii culturale la La Scène, unde artele locale strălucesc. Seara cade frumos, în timp ce vă relaxați printr-o plimbare liniștită în Parcul Deûle.",
         "en": "Morning begins at the historic wayside cross, leading into a serene walk towards the Church of Saint Genevieve. Midday brings you into the vibrant heart of the area with a stop at Saint Peter's Church. Afternoon is reserved for cultural immersion at La Scène, where local arts shine brightly. Evening falls beautifully as you unwind with a peaceful stroll through the expansive Deûle Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag trotz Regen mit einer wetterfesten Jacke, während die historischen Steine im nassen Glanz erstrahlen. Mittags bieten die Kirchen trockene Zuflucht und Momente der Stille. Am Nachmittag ist das Kulturzentrum der ideale Ort, um dem Wetter zu entkommen. Der Tag endet mit einem kurzen, erfrischenden Spaziergang durch den Park, bevor die Dunkelheit und der Regen zunehmen.",
+            "hu": "Kezdje a napot esőkabátban, miközben a történelmi emlékek különleges fényben tündökölnek a csapadékos időben. Délben a templomok belső terei nyújtanak száraz menedéket és nyugalmat. Délután a kulturális központ fedett programjai tökéletesek az eső elöli meneküléshez. Az este a park friss, esőillatú levegőjével zárul, de ügyeljen a csúszós ösvényekre a korai sötétedés előtt.",
+            "ro": "Începeți ziua echipat cu o pelerină de ploaie, admirând monumentele istorice sub cerul gri. La prânz, interiorul bisericilor oferă un adăpost uscat și o atmosferă liniștită. După-amiaza, centrul cultural este refugiul ideal pentru a evita umezeala de afară. Seara se încheie cu o plimbare scurtă prin parc, profitând de aerul curat, dar având grijă la potecile care pot deveni alunecoase.",
+            "en": "Start your day with a waterproof jacket as the historic monuments glisten in the rain. At noon, the church interiors provide a dry sanctuary and peaceful reflection. In the afternoon, the cultural center is the perfect indoor escape from the wet weather. The day concludes with a refreshing walk through the park, though be careful of slippery paths as the light fades early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Historisches Wegkreuz",
+                "hu": "Történelmi útmenti kereszt",
+                "ro": "Crucea istorică de pe drum",
+                "en": "Historic wayside cross"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen Details des Steins, der im Regen dunkler wirkt; tragen Sie feste Schuhe, da der Boden um das Kreuz bei Nässe sehr rutschig sein kann.",
+                "hu": "Csodálja meg a kő részleteit, amelyek esőben sötétebb tónust kapnak; viseljen tapadós talpú cipőt, mert a kereszt körüli talaj nedvesen rendkívül csúszóssá válik.",
+                "ro": "Observați detaliile pietrei care capătă o nuanță mai închisă în ploaie; purtați încălțăminte aderentă, deoarece solul din jurul crucii devine foarte alunecos.",
+                "en": "Observe the fine details of the stone which appear darker in the rain; wear sturdy shoes as the ground around the cross can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Genoveva",
+                "hu": "Szent Genovéva-templom",
+                "ro": "Biserica Sfânta Genoveva",
+                "en": "Church of Saint Genevieve"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen spirituellen Ort als trockenen Unterschlupf und bewundern Sie die Glasfenster, die bei diffusem Regenlicht eine ganz besondere Atmosphäre schaffen.",
+                "hu": "Használja ezt a spirituális helyet száraz menedékként, és csodálja meg az üvegablakokat, amelyek a szórt esőfényben különleges, mély színekben tündökölnek.",
+                "ro": "Folosiți acest spațiu spiritual ca adăpost împotriva ploii și admirați vitraliile care, în lumina difuză a zilei ploioase, creează o atmosferă aparte.",
+                "en": "Use this spiritual site as a dry shelter and admire the stained glass windows, which create a unique atmosphere in the diffused rainy daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während der Regen gegen die alten Mauern peitscht; vergessen Sie nicht, Ihren Regenschirm am Eingang gut auszuschütteln.",
+                "hu": "Élvezze a belső csendet, miközben az eső az ősi falakat veri; ne felejtse el alaposan lerázni az esernyőjét a bejáratnál a belső tér tisztasága érdekében.",
+                "ro": "Bucurați-vă de liniștea interioară în timp ce ploaia bate în zidurile vechi; nu uitați să scuturați bine umbrela la intrare pentru a evita udarea podelei.",
+                "en": "Enjoy the interior silence while the rain beats against the ancient walls; remember to shake your umbrella thoroughly at the entrance to keep the floor dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum La Scène",
+                "hu": "La Scène Kulturális Központ",
+                "ro": "Centrul Cultural La Scène",
+                "en": "La Scène Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für eine längere Pause im Trockenen; prüfen Sie das aktuelle Indoor-Programm, um die Zeit während eines Regenschauers optimal zu nutzen.",
+                "hu": "Ez a tökéletes hely egy hosszabb száraz szünethez; nézze meg az aktuális fedett programokat, hogy hasznosan töltse az időt egy nagyobb zápor idején.",
+                "ro": "Acesta este locul perfect pentru o pauză prelungită la adăpost; verificați programul evenimentelor de interior pentru a valorifica timpul pe durata ploii.",
+                "en": "This is the perfect spot for an extended dry break; check the current indoor schedule to make the most of your time during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Deûle-Park",
+                "hu": "Deûle Park",
+                "ro": "Parcul Deûle",
+                "en": "Deûle Park"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die intensiven Naturgerüche nach dem Regen auf den asphaltierten Wegen; meiden Sie die unbefestigten Pfade, da diese nun tiefen Matsch bilden können.",
+                "hu": "Élje át a természet intenzív illatait az eső után az aszfaltozott utakon; kerülje a földutakat, mert azok ilyenkor mély sárral telítődhetnek.",
+                "ro": "Experimentați mirosurile intense ale naturii după ploaie pe aleile asfaltate; evitați potecile de pământ, deoarece pot deveni extrem de noroioase.",
+                "en": "Experience the intense scents of nature after the rain on the paved paths; avoid the unpaved trails as they can turn into deep mud during wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie erfrischt in den kalten Wintermorgen und genießen Sie die klare Luft an den historischen Stätten. Mittags wärmen Sie sich in den Kirchen auf, wo die Stille eine friedliche Winterstimmung verbreitet. Am Nachmittag bietet das Kulturzentrum wohlige Wärme vor dem frühen Sonnenuntergang. Da es bereits gegen 17:00 Uhr dunkel wird, endet der Tag gemütlich mit einem kurzen Blick in den Park.",
+            "hu": "Kezdje frissen a hideg téli reggelt, élvezve a tiszta levegőt a történelmi helyszíneken. Délben a templomokban melegedhet fel, ahol a csend békés téli hangulatot áraszt. Délután a kulturális központ nyújt barátságos menedéket a korai naplemente előtt. Mivel 17:00 körül már sötétedik, a nap egy rövid parkbéli sétával zárul, mielőtt visszatérne a melegbe.",
+            "ro": "Începeți dimineața de iarnă cu forțe proaspete, admirând monumentele în aerul rece și tăios. La prânz, bisericile oferă un moment de reculegere și căldură relativă față de exterior. După-amiaza, centrul cultural este locul ideal pentru a vă încălzi înainte de apusul devreme. Deoarece se întunecă în jur de ora 17:00, încheiați vizita cu o scurtă privire spre parc.",
+            "en": "Start the cold winter morning refreshed, enjoying the crisp air at the historic sites. At noon, warm up inside the churches, where the silence exudes a peaceful winter vibe. In the afternoon, the cultural center provides cozy warmth before the early sunset. As it gets dark around 17:00, conclude your day with a brisk stroll in the park before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Historisches Wegkreuz",
+                "hu": "Történelmi útmenti kereszt",
+                "ro": "Crucea istorică de pe drum",
+                "en": "Historic wayside cross"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Kreuz im klaren Winterlicht; achten Sie auf Frost auf den Stufen, da diese am frühen Morgen extrem glatt und gefährlich sein können.",
+                "hu": "Csodálja meg a keresztet a tiszta téli fényben; ügyeljen a lépcsőkre fagyott zúzmarára, mert kora reggel rendkívül csúszósak és veszélyesek lehetnek.",
+                "ro": "Admirați crucea în lumina clară de iarnă; atenție la bruma de pe trepte, deoarece acestea pot fi extrem de alunecoase și periculoase dimineața devreme.",
+                "en": "Admire the cross in the clear winter light; watch out for frost on the steps, as they can be extremely slick and dangerous in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Genoveva",
+                "hu": "Szent Genovéva-templom",
+                "ro": "Biserica Sfânta Genoveva",
+                "en": "Church of Saint Genevieve"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor dem schneidenden Wind; nutzen Sie die Zeit für eine meditative Pause und bringen Sie Handschuhe mit, da Steinbänke oft sehr kalt sind.",
+                "hu": "A vastag falak védenek a metsző szél ellen; használja az időt egy meditatív szünetre, és viseljen kesztyűt, mert a kőpadok ilyenkor nagyon hidegek.",
+                "ro": "Zidurile groase vă protejează de vântul tăios; folosiți timpul pentru o pauză meditativă și purtați mănuși, deoarece băncile de piatră sunt reci.",
+                "en": "The thick walls protect against the biting wind; use the time for a meditative break and bring gloves, as stone benches are often very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das tiefe Sonnenlicht durch die Fenster fällt; tragen Sie mehrere Schichten Kleidung, da es in großen Kirchenschiffen oft kühl bleibt.",
+                "hu": "Figyelje meg, hogyan hatol be az alacsonyan járó téli napfény az ablakokon; viseljen réteges öltözetet, mert a tágas templomhajókban gyakran hűvös van.",
+                "ro": "Observați cum lumina joasă a soarelui de iarnă pătrunde prin ferestre; purtați haine în mai multe straturi, deoarece în interiorul bisericilor mari este răcoare.",
+                "en": "Observe how the low winter sunlight streams through the windows; wear multiple layers of clothing as it often remains chilly inside large church naves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum La Scène",
+                "hu": "La Scène Kulturális Központ",
+                "ro": "Centrul Cultural La Scène",
+                "en": "La Scène Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Beheizung dieses Gebäudes voll aus; es ist der ideale Ort, um sich aufzuwärmen, bevor die Dämmerung gegen 16:30 Uhr einsetzt.",
+                "hu": "Élvezze ki az épület modern fűtését; ez az ideális hely az átmelegedésre, mielőtt 16:30 körül elkezdődne a szürkület és a gyors lehűlés.",
+                "ro": "Bucurați-vă de încălzirea modernă a acestei clădiri; este locul ideal pentru a vă încălzi înainte ca amurgul să se instaleze în jurul orei 16:30.",
+                "en": "Take full advantage of the modern heating in this building; it is the ideal place to warm up before the twilight begins around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Deûle-Park",
+                "hu": "Deûle Park",
+                "ro": "Parcul Deûle",
+                "en": "Deûle Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang in der frühen Abenddämmerung ist sehr stimmungsvoll; achten Sie jedoch darauf, den Park vor 17:00 Uhr zu verlassen, wenn die Sicht stark nachlässt.",
+                "hu": "Egy séta a kora esti szürkületben rendkívül hangulatos; ügyeljen rá, hogy 17:00-ig fejezze be a látogatást, mert utána a látási viszonyok gyorsan romlanak.",
+                "ro": "O plimbare la amurg este foarte sugestivă; totuși, aveți grijă să părăsiți parcul înainte de ora 17:00, când vizibilitatea scade considerabil.",
+                "en": "A walk in the early twilight is very atmospheric; however, make sure to finish your visit by 17:00 as visibility drops significantly after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros napját a szép Kisboldogasszony-templomnál, élvezve a friss reggeli szellőt. Délre tekerjen át a festői utcákon Szent Vaast mellett a központi Szent Péter-templomig. A délután jól megérdemelt kulturális szünetet hoz a La Scène központban. Az este egy festői és pihentető túrával zárul a Deûle Park buja ösvényein keresztül.",
         "ro": "Începeți ziua de ciclism la frumoasa Biserică a Nașterii Maicii Domnului, bucurându-vă de briza dimineții. La prânz, pedalați pe străzile pitorești pe lângă Sfântul Vaast spre Biserica Sfântul Petru. După-amiaza aduce o pauză culturală binemeritată la La Scène. Seara se încheie cu o plimbare pitorească și relaxantă pe aleile luxuriante din Parcul Deûle.",
         "en": "Kick off your cycling day at the lovely Church of the Nativity of Our Lady, enjoying the fresh morning breeze. By midday, pedal your way through the quaint streets past Saint Vaast to the central Saint Peter's Church. The afternoon brings a well-deserved cultural pause at La Scène. Your evening concludes with a scenic and relaxing ride through the lush pathways of Deûle Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie Ihr Fahrrad mit Schutzblechen aus und starten Sie vorsichtig in den Regentag. Die Vormittagstour führt zu ruhigen Kirchen, die trockene Pausen bieten. Mittags ist das Kulturzentrum der perfekte Ort, um das Rad sicher abzustellen und sich abzutrocknen. Nachmittags geht es durch die Parklandschaft, wobei Sie auf nassen Asphalt und Laub achten sollten, bevor Sie die Tour beenden.",
+            "hu": "Szerelje fel kerékpárját sárvédőkkel, és óvatosan vágjon bele az esős napba. A délelőtti túra csendes templomokhoz vezet, amelyek száraz pihenőt kínálnak. Délben a kulturális központ tökéletes hely a bringa biztonságos leállítására és a megszárítkozásra. Délután a parkon keresztül vezet az út, ahol ügyeljen a nedves aszfaltra és a levelekre a túra befejezése előtt.",
+            "ro": "Echipați-vă bicicleta cu aripi de protecție și începeți cu prudență ziua ploioasă. Traseul de dimineață duce spre biserici liniștite, care oferă pauze uscate. La prânz, centrul cultural este locul perfect pentru a lăsa bicicleta și a vă usca. După-amiaza, drumul trece prin parc, unde trebuie să fiți atenți la asfaltul ud și frunze înainte de final.",
+            "en": "Equip your bike with mudguards and start your rainy day with caution. The morning tour leads to quiet churches offering dry breaks. At noon, the cultural center is the perfect place to safely park your bike and dry off. In the afternoon, ride through the parkland, staying alert for wet asphalt and fallen leaves before finishing the tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Mariä Geburt",
+                "hu": "Kisboldogasszony-templom",
+                "ro": "Biserica Nașterii Maicii Domnului",
+                "en": "Church of the Nativity of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Ausrüstung; prüfen Sie den Reifendruck, da etwas weniger Luft auf nassen Straßen besseren Halt bietet.",
+                "hu": "Használja a fedett bejárati részt a felszerelése átmeneti tárolására; ellenőrizze a guminyomást, mert a kicsit laposabb gumi jobb tapadást biztosít a vizes úton.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a vă lăsa echipamentul; verificați presiunea roților, o presiune mai mică oferă o aderență mai bună pe drum ud.",
+                "en": "Use the sheltered entrance area to temporarily store your gear; check your tire pressure, as slightly lower pressure offers better grip on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vaast Kirche",
+                "hu": "Szent Vaast-templom",
+                "ro": "Biserica Sfântul Vaast",
+                "en": "Church of Saint Vaast"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen auf dem Kopfsteinpflaster vor der Kirche abrupte Manöver; der Innenraum bietet eine wunderbare Akustik, um dem Regen zu lauschen.",
+                "hu": "Kerülje a hirtelen fékezést a templom előtti macskaköveken; a belső tér csodálatos akusztikával rendelkezik, ahol hallgathatja a kinti eső kopogását.",
+                "ro": "Evitați frânările bruște pe pavajul din fața bisericii; interiorul are o acustică minunată, ideală pentru a asculta sunetul ploii de afară.",
+                "en": "Avoid abrupt braking on the cobblestones in front of the church; the interior has wonderful acoustics, perfect for listening to the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Genoveva",
+                "hu": "Szent Genovéva-templom",
+                "ro": "Biserica Sfânta Genoveva",
+                "en": "Church of Saint Genevieve"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem windgeschützten Ort; die Kirche ist ein idealer Stopp, um die Regenkleidung kurz zu lüften und neue Energie zu tanken.",
+                "hu": "Parkolja le kerékpárját szélvédett helyen; a templom ideális megálló, hogy kicsit kiszellőztesse az esőruházatát és újult erővel folytassa az utat.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt; biserica este un punct de oprire ideal pentru a vă aerisi puțin hainele de ploaie și a vă reîncărca bateriile.",
+                "en": "Park your bike in a spot sheltered from the wind; the church is an ideal stop to air out your rain gear briefly and recharge your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in der Nähe der Fahrradständer; die Ruhe in der Kirche hilft Ihnen, sich trotz des grauen Wetters zu fokussieren.",
+                "hu": "Ügyeljen a kerékpártárolók körüli tócsákra; a templom csendje segít az elmélyülésben és a fókuszálásban a szürke, esős időjárás ellenére is.",
+                "ro": "Atenție la bălțile din jurul suporturilor de biciclete; liniștea din biserică vă va ajuta să vă concentrați în ciuda vremii mohorâte.",
+                "en": "Watch out for puddles near the bike racks; the silence in the church helps you stay focused and calm despite the gray, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum La Scène",
+                "hu": "La Scène Kulturális Központ",
+                "ro": "Centrul Cultural La Scène",
+                "en": "La Scène Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die längste überdachte Pause; nutzen Sie die Zeit, um die Kette Ihres Fahrrads zu prüfen, da Regen das Schmiermittel schneller abwäscht.",
+                "hu": "Ez a leghosszabb fedett pihenő; használja ki az időt a lánc ellenőrzésére, mivel az eső gyorsabban lemossa a kenőanyagot a mozgó alkatrészekről.",
+                "ro": "Aceasta este cea mai lungă pauză la adăpost; profitați de timp pentru a verifica lanțul bicicletei, deoarece ploaia spală lubrifiantul mai repede.",
+                "en": "This is your longest sheltered break; use the time to check your bike chain, as rain washes away lubricant faster from moving parts."
+              }
+            },
+            {
+              "name": {
+                "de": "Deûle-Park",
+                "hu": "Deûle Park",
+                "ro": "Parcul Deûle",
+                "en": "Deûle Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf befestigten Wegen, um das Rad nicht im Schlamm zu versenken; die reflektierenden Wasserflächen im Park bieten tolle Fotomotive.",
+                "hu": "Csak a szilárd burkolatú utakon közlekedjen, hogy ne ragadjon a sárba; a parkban visszatükröződő vízfelületek különleges fotótémákat kínálnak.",
+                "ro": "Circulați doar pe aleile pavate pentru a nu rămâne blocat în noroi; suprafețele de apă care reflectă lumina în parc oferă ocazii excelente pentru poze.",
+                "en": "Ride only on paved paths to avoid getting stuck in the mud; the reflecting water surfaces in the park offer great photo opportunities."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kleiden Sie sich nach dem Zwiebelprinzip für diese frostige Wintertour. Vormittags radeln Sie durch die klare, kalte Luft zu den ersten Kirchen. Mittags bieten die sakralen Bauten eine Pause vom Fahrtwind. Nachmittags ist das Kulturzentrum der ideale Ort für Wärme. Beenden Sie die Tour im Park, bevor die Sonne gegen 17:00 Uhr untergeht und die Temperaturen stark fallen.",
+            "hu": "Öltözzön rétegesen ehhez a fagyos téli túrához. Délelőtt a friss, hideg levegőn tekerhet az első templomokig. Délben a szakrális épületek nyújtanak pihenőt a menetszél elől. Délután a kulturális központ az ideális hely az átmelegedésre. A túrát a parkban fejezze be, mielőtt a nap 17:00 körül lemegy és a hőmérséklet hirtelen zuhanni kezd.",
+            "ro": "Îmbrăcați-vă în straturi pentru această tură geroasă de iarnă. Dimineața pedalați prin aerul rece spre primele biserici. La prânz, edificiile sacre oferă o pauză de la vântul tăios. După-amiaza, centrul cultural este locul ideal pentru a vă încălzi. Încheiați tura în parc înainte ca soarele să apună la ora 17:00 și temperaturile să scadă brusc.",
+            "en": "Dress in layers for this frosty winter ride. In the morning, pedal through the crisp, cold air to the first churches. At noon, the sacred buildings offer a break from the wind chill. In the afternoon, the cultural center is the ideal place to warm up. Finish the tour in the park before the sun sets at 17:00 and temperatures drop sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Mariä Geburt",
+                "hu": "Kisboldogasszony-templom",
+                "ro": "Biserica Nașterii Maicii Domnului",
+                "en": "Church of the Nativity of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da Kälte die Bremsbeläge beeinflussen kann; die Kirche bietet einen windgeschützten Ort für eine kurze Orientierung.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a hideg befolyásolhatja a fékbetétek hatékonyságát; a templom szélvédett helyet kínál a rövid tájékozódáshoz.",
+                "ro": "Verificați frânele înainte de plecare, deoarece frigul poate afecta saboții de frână; biserica oferă un loc ferit de vânt pentru o scurtă orientare.",
+                "en": "Check your brakes before starting, as cold can affect brake pad performance; the church offers a wind-sheltered spot for a quick orientation."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vaast Kirche",
+                "hu": "Szent Vaast-templom",
+                "ro": "Biserica Sfântul Vaast",
+                "en": "Church of Saint Vaast"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf den umliegenden Wegen; nutzen Sie die Zeit im Inneren, um Ihre Finger durch leichte Bewegung wieder aufzuwärmen.",
+                "hu": "Ügyeljen a környező utakon előforduló jegesedésre; a belső térben töltött időt használja ki ujjai átmozgatására és felmelegítésére a további tekerés előtt.",
+                "ro": "Atenție la gheața de pe drumurile din jur; folosiți timpul petrecut în interior pentru a vă mișca degetele și a le încălzi pentru restul traseului.",
+                "en": "Watch out for black ice on the surrounding roads; use your time inside to move and warm up your fingers for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Genoveva",
+                "hu": "Szent Genovéva-templom",
+                "ro": "Biserica Sfânta Genoveva",
+                "en": "Church of Saint Genevieve"
+              },
+              "tip_5lang": {
+                "de": "Der Steinboden kann sehr rutschig sein, wenn Sie mit Radschuhen eintreten; die ruhige Atmosphäre ist perfekt für eine kurze, besinnliche Pause im Sitzen.",
+                "hu": "A kőpadló nagyon csúszós lehet, ha kerékpáros cipőben lép be; a nyugodt légkör tökéletes egy rövid, elmélyült pihenőhöz az ülőhelyeken.",
+                "ro": "Podeaua de piatră poate fi foarte alunecoasă dacă intrați cu pantofi de ciclism; atmosfera liniștită este perfectă pentru o scurtă pauză de reculegere.",
+                "en": "The stone floor can be very slippery if you enter with cycling shoes; the quiet atmosphere is perfect for a short, reflective break in the pews."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen Schluck warmen Tee aus Ihrer Thermoskanne; das kühle Kircheninnere erinnert daran, wie wichtig gute Winterkleidung beim Radfahren ist.",
+                "hu": "Igyon egy korty meleg teát a termoszából; a templom hűvös belseje emlékeztet arra, milyen fontos a jó téli ruházat kerékpározás közben is.",
+                "ro": "Beți o înghițitură de ceai cald din termos; interiorul răcoros al bisericii vă reamintește cât de important este echipamentul bun de iarnă.",
+                "en": "Take a sip of warm tea from your thermos; the cool church interior reminds you how vital proper winter gear is while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum La Scène",
+                "hu": "La Scène Kulturális Központ",
+                "ro": "Centrul Cultural La Scène",
+                "en": "La Scène Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Stopp für eine ausgiebige Erholung; prüfen Sie Ihre Beleuchtung, da Sie das letzte Stück vermutlich in der Dämmerung fahren.",
+                "hu": "Használja ki ezt a meleg megállót a kiadós pihenésre; ellenőrizze a világítását, mert az utolsó szakaszt valószínűleg már szürkületben teszi meg.",
+                "ro": "Profitați de această oprire călduroasă pentru o odihnă binemeritată; verificați luminile bicicletei, probabil veți parcurge ultima parte pe amurg.",
+                "en": "Use this warm stop for a thorough rest; check your lights, as you will likely ride the final leg of the journey in the twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Deûle-Park",
+                "hu": "Deûle Park",
+                "ro": "Parcul Deûle",
+                "en": "Deûle Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Wege im Schatten oft länger glatt bleiben; genießen Sie die klare Sicht auf die gefrorenen Wasserläufe im Park.",
+                "hu": "Tekerjen óvatosan, mert az árnyékos utakon a jég tovább megmarad; élvezze a tiszta kilátást a park befagyott vízfolyásaira és a deres tájra.",
+                "ro": "Pedalați cu grijă, deoarece aleile umbrite rămân înghețate mai mult timp; admirați vederea clară asupra cursurilor de apă înghețate din parc.",
+                "en": "Ride carefully as shaded paths often remain icy longer; enjoy the clear view of the frozen watercourses and the frost-covered landscape in the park."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen a Szeplőtelen Fogantatás elegáns templomához, hogy megkezdje a regionális örökség felfedezését. Délre az út a falu szívébe visz, hogy felfedezze a La Scène-t és a Szent Péter-templomot. A délutáni út festői hátsó utakon vezet Szent Vaast és a történelmi kereszt felé. Zárja az estét a Deûle Park melletti parkolással egy naplementés sétához.",
         "ro": "Conduceți la eleganta Biserică a Imaculatei Concepții pentru a începe dimineața explorând patrimoniul regional. La prânz, excursia vă duce în inima satului pentru a descoperi La Scène și Biserica Sfântul Petru. Drumul de după-amiază trece prin rute pitorești, vizitând Sfântul Vaast și crucea istorică. Încheiați seara parcând lângă Parcul Deûle pentru o plimbare la apus.",
         "en": "Drive to the elegant Church of the Immaculate Conception to start a morning of exploring regional religious heritage. By midday, your road trip takes you to the heart of the village to discover La Scène and Saint Peter's Church. The afternoon road leads through scenic backroutes, visiting Saint Vaast and the historic cross. Wrap up your evening by parking near Deûle Park for a sunset walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Autos, während der Regen gegen die Scheiben trommelt. Vormittags besuchen Sie die ersten Kirchen und das Kulturzentrum, allesamt trockene Highlights. Mittags bietet die Fahrt durch die Region Weppes einen entspannten Blick auf die verregnete Landschaft. Nachmittags folgen weitere sakrale Bauten, bevor der Tag mit einer kurzen Fahrt zum Park endet.",
+            "hu": "Élvezze autója kényelmét, miközben az eső a szélvédőn kopog. Délelőtt látogassa meg az első templomokat és a kulturális központot, amelyek mind száraz menedéket nyújtanak. Napközben a Weppes régión keresztüli autózás pihentető látványt nyújt az esős tájról. Délután további szakrális épületeket kereshet fel, majd a napot egy rövid parkbéli megállóval zárhatja.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în parbriz. Dimineața vizitați primele biserici și centrul cultural, toate fiind puncte de interes acoperite. La prânz, drumul prin regiunea Weppes oferă o privire relaxantă asupra peisajului ploios. După-amiaza continuă cu alte edificii sacre, înainte de a încheia ziua cu o scurtă oprire la parc.",
+            "en": "Enjoy the comfort of your car while the rain drums against the windows. In the morning, visit the first churches and the cultural center, all of which are dry highlights. During the day, the drive through the Weppes region offers a relaxing view of the rainy landscape. In the afternoon, explore more sacred buildings before ending the day with a short drive to the park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás templom",
+                "ro": "Biserica Imaculata Concepție",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; bewundern Sie die Architektur, die bei grauem Himmel besonders imposant wirkt.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást; csodálja meg az építészetet, amely a szürke égbolt alatt különösen impozáns.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; admirați arhitectura care pare deosebit de impunătoare sub cerul gri de toamnă.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; admire the architecture, which looks particularly imposing under the gray rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum La Scène",
+                "hu": "La Scène Kulturális Központ",
+                "ro": "Centrul Cultural La Scène",
+                "en": "La Scène Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz und verbringen Sie hier die regenreichste Zeit des Tages im warmen und trockenen Innenbereich des Zentrums.",
+                "hu": "Használja ki a tágas parkolót, és töltse itt a nap legesősebb részét a központ meleg és száraz belső tereiben, védve az elemektől.",
+                "ro": "Profitați de parcarea generoasă și petreceți aici cea mai ploioasă parte a zilei, în interiorul cald și uscat al centrului cultural.",
+                "en": "Make use of the spacious parking lot and spend the rainiest part of the day here in the warm and dry interior of the cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Regenschirm im Auto, wenn Sie nur kurz zum Eingang laufen müssen; die Ruhe im Inneren ist ein toller Kontrast zum Regen draußen.",
+                "hu": "Hagyja a vizes esernyőt az autóban, ha csak rövid távot kell megtennie a bejáratig; a belső csend remek kontrasztot alkot a kinti esővel.",
+                "ro": "Lăsați umbrela udă în mașină dacă aveți de mers doar puțin până la intrare; liniștea din interior este un contrast superb față de ploaia de afară.",
+                "en": "Leave your wet umbrella in the car if you only have a short dash to the entrance; the interior silence is a great contrast to the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vaast Kirche",
+                "hu": "Szent Vaast-templom",
+                "ro": "Biserica Sfântul Vaast",
+                "en": "Church of Saint Vaast"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf tiefe Pfützen am Straßenrand; die Kirche bietet eine wunderbare Gelegenheit für besinnliche Momente im Trockenen.",
+                "hu": "Parkoláskor ügyeljen az út menti mély tócsákra; a templom kiváló lehetőséget nyújt a csendes elmélyülésre, távol az esős, szeles időjárástól.",
+                "ro": "Atenție la bălțile adânci de la marginea drumului când parcați; biserica oferă o ocazie minunată pentru momente de reculegere la uscat.",
+                "en": "Watch out for deep puddles at the roadside when parking; the church offers a wonderful opportunity for reflective moments away from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Geburt",
+                "hu": "Kisboldogasszony-templom",
+                "ro": "Biserica Nașterii Maicii Domnului",
+                "en": "Church of the Nativity of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Fußweg vom Parkplatz; das Innere der Kirche besticht durch eine Atmosphäre, die den Regen draußen schnell vergessen lässt.",
+                "hu": "Élvezze a rövid sétát a parkolótól; a templom belső tere olyan hangulatot áraszt, amely hamar feledteti Önnel a kinti esős, barátságtalan időt.",
+                "ro": "Bucurați-vă de scurta plimbare de la parcare; interiorul bisericii are o atmosferă care vă face să uitați repede de ploaia de afară.",
+                "en": "Enjoy the short walk from the parking area; the church interior has an atmosphere that quickly makes you forget the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Wegkreuz",
+                "hu": "Történelmi útmenti kereszt",
+                "ro": "Crucea istorică de pe drum",
+                "en": "Historic wayside cross"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Kreuz aus dem warmen Auto heraus oder steigen Sie kurz für ein Foto aus; der nasse Stein reflektiert das Licht auf dramatische Weise.",
+                "hu": "Nézze meg a keresztet a meleg autóból, vagy szálljon ki egy gyors fotóra; a vizes kőfelület drámai módon tükrözi vissza a kevés fényt.",
+                "ro": "Observați crucea din confortul mașinii sau coborâți rapid pentru o poză; piatra udă reflectă lumina într-un mod dramatic și interesant.",
+                "en": "View the cross from your warm car or step out briefly for a photo; the wet stone reflects the light in a dramatic and visually striking way."
+              }
+            },
+            {
+              "name": {
+                "de": "Deûle-Park",
+                "hu": "Deûle Park",
+                "ro": "Parcul Deûle",
+                "en": "Deûle Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen direkt am Parkplatz für einen kurzen Blick auf die Natur; meiden Sie bei Regen die weiten Rasenflächen.",
+                "hu": "Maradjon a parkoló melletti aszfaltozott utakon egy rövid természetközeli élményért; esőben kerülje a távolabbi, füves területeket a sár miatt.",
+                "ro": "Rămâneți pe aleile asfaltate de lângă parcare pentru o scurtă privire asupra naturii; evitați peluzele îndepărtate pe timp de ploaie din cauza noroiului.",
+                "en": "Stick to the paved paths near the parking lot for a brief nature fix; avoid the open grassy areas during rain as they can get very muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Heizung Ihres Autos für eine gemütliche Wintertour durch Weppes. Vormittags besuchen Sie die historischen Stätten und genießen die frostige Landschaft. Mittags bieten die Kirchen einen ruhigen Rückzugsort. Nachmittags ist das Kulturzentrum der wärmste Stopp. Da es gegen 17:00 Uhr dunkel wird, bietet die Rückfahrt einen schönen Blick auf die winterliche Abenddämmerung.",
+            "hu": "Használja autója fűtését egy kényelmes téli túrához Weppes környékén. Délelőtt keresse fel a történelmi helyszíneket, élvezve a deres táj látványát. Délben a templomok nyújtanak csendes menedéket. Délután a kulturális központ a legmelegebb állomás. Mivel 17:00 körül már sötétedik, a visszaút során gyönyörködhet a téli szürkület fényeiben.",
+            "ro": "Folosiți căldura mașinii pentru un tur de iarnă confortabil prin Weppes. Dimineața vizitați locurile istorice și admirați peisajul înghețat. La prânz, bisericile oferă un refugiu liniștit. După-amiaza, centrul cultural este cea mai călduroasă oprire. Deoarece se întunecă în jur de ora 17:00, drumul de întoarcere oferă o vedere frumoasă asupra amurgului.",
+            "en": "Use your car's heater for a cozy winter tour through the Weppes region. In the morning, visit historic sites and enjoy the frosty scenery. At noon, the churches provide a quiet retreat. In the afternoon, the cultural center is your warmest stop. As it gets dark around 17:00, the drive back offers a lovely view of the winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás templom",
+                "ro": "Biserica Imaculata Concepție",
+                "en": "Church of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz; die Kirche bietet eine friedliche Atmosphäre, die ideal für den Start in einen kalten Wintertag ist.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban; a templom békés légköre ideális egy hideg téli nap nyugodt elkezdéséhez, távol a metsző széltől.",
+                "ro": "Atenție la poleiul din parcare; biserica oferă o atmosferă pașnică, ideală pentru a începe o zi rece de iarnă în liniște și reculegere.",
+                "en": "Watch out for black ice in the parking lot; the church offers a peaceful atmosphere, ideal for starting a cold winter day in tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum La Scène",
+                "hu": "La Scène Kulturális Központ",
+                "ro": "Centrul Cultural La Scène",
+                "en": "La Scène Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um die Kälte draußen komplett zu vergessen; nutzen Sie die modernen Räumlichkeiten für eine ausgiebige Aufwärmpause.",
+                "hu": "Ez az ideális hely, hogy teljesen elfelejtse a kinti hideget; használja ki a modern tereket egy alapos átmelegedésre és pihenésre a túra közepén.",
+                "ro": "Acesta este locul ideal pentru a uita complet de frigul de afară; profitați de spațiile moderne pentru o pauză lungă de încălzire.",
+                "en": "This is the ideal place to completely forget the cold outside; make use of the modern facilities for a thorough warming-up break."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Peter",
+                "hu": "Szent Péter-templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "Saint Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte oft fest; tragen Sie warme Socken und Schuhe, da die Kälte vom Boden her schnell in die Füße zieht.",
+                "hu": "A vastag kőfalak gyakran magukba zárják a hideget; viseljen meleg zoknit és cipőt, mert a kőpadló felől érkező hideg hamar lehűtheti a lábait.",
+                "ro": "Zidurile groase de piatră mențin adesea frigul; purtați șosete și încălțăminte groasă, deoarece răceala de la podea se simte repede la picioare.",
+                "en": "The thick stone walls often trap the cold; wear warm socks and shoes, as the chill from the stone floor can quickly reach your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vaast Kirche",
+                "hu": "Szent Vaast-templom",
+                "ro": "Biserica Sfântul Vaast",
+                "en": "Church of Saint Vaast"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwaschflüssigkeit mit Frostschutz, da das Salz auf den Straßen im Winter die Sicht beim Fahren beeinträchtigen kann.",
+                "hu": "Ellenőrizze a fagyálló szélvédőmosót, mivel a téli utakon használt só hamar beszennyezheti a szélvédőt, rontva a látási viszonyokat autózás közben.",
+                "ro": "Verificați lichidul de parbriz cu antigel, deoarece sarea de pe drumuri în timpul iernii poate murdări parbrizul și reduce vizibilitatea la volan.",
+                "en": "Check your windshield washer fluid with antifreeze, as salt on the winter roads can quickly blur your vision while driving between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Geburt",
+                "hu": "Kisboldogasszony-templom",
+                "ro": "Biserica Nașterii Maicii Domnului",
+                "en": "Church of the Nativity of Our Lady"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen dem frostigen Außenbereich und der ehrwürdigen Stille im Inneren; ein kurzer Besuch reicht, um den Geist zu beleben.",
+                "hu": "Élvezze a kontrasztot a fagyos külvilág és a belső méltóságteljes csend között; egy rövid látogatás is elég a szellem felfrissüléséhez.",
+                "ro": "Bucurați-vă de contrastul dintre exteriorul înghețat și liniștea solemnă din interior; o vizită scurtă este suficientă pentru a vă revigora.",
+                "en": "Enjoy the contrast between the frosty exterior and the venerable silence inside; even a short visit is enough to refresh your spirit."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Wegkreuz",
+                "hu": "Történelmi útmenti kereszt",
+                "ro": "Crucea istorică de pe drum",
+                "en": "Historic wayside cross"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Wegesrand für ein Foto des Kreuzes im Winterlicht; achten Sie beim Aussteigen auf rutschige Stellen im gefrorenen Gras.",
+                "hu": "Álljon meg rövid időre az út szélén egy fotó erejéig a téli fényben fürdő keresztnél; kiszálláskor ügyeljen a fagyott fű csúszós foltjaira.",
+                "ro": "Opriți scurt pe marginea drumului pentru o poză cu crucea în lumina de iarnă; atenție la locurile alunecoase de pe iarba înghețată când coborâți.",
+                "en": "Park briefly at the roadside for a photo of the cross in the winter light; watch out for slippery patches on the frozen grass when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Deûle-Park",
+                "hu": "Deûle Park",
+                "ro": "Parcul Deûle",
+                "en": "Deûle Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang direkt vor Sonnenuntergang um 16:30 Uhr; die frostige Landschaft bietet eine fast magische Kulisse zum Abschluss.",
+                "hu": "Tegyen egy rövid sétát közvetlenül naplemente előtt, 16:30 körül; a deres táj szinte mágikus hátteret kínál a nap lezárásához.",
+                "ro": "Faceți o scurtă plimbare chiar înainte de apusul soarelui, în jurul orei 16:30; peisajul înghețat oferă un decor aproape magic la final.",
+                "en": "Take a short walk just before sunset around 16:30; the frosty landscape provides an almost magical backdrop for the end of your journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

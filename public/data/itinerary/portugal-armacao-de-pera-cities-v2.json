@@ -137,6 +137,168 @@
         "hu": "Kezdje a sétát a tágas Praia Grande de Pêra parton, ahol teljes mértékben kiélvezheti a friss tengeri szellőt és az algarvei partvidék puha homokját.\n\nFolytassa útját nyugat felé a Praia Vale do Olival partra, ahol lenyűgöző sziklaalakzatok nyújtanak festői hátteret egy pihentető déli sétához a parton.\n\nA délután az intimebb Praia dos Tremoços és Praia das Escaleiras öblökhöz vezeti, ahol az eldugott sziklás medencék zavartalan pihenésre csábítják az utazót.\n\nZárja az eseménydús napot az eldugott Praia do Barranco strandon, miközben a lenyugvó nap arany fénybe vonja a drámai homokkő sziklákat a partvonal mentén.",
         "ro": "Începeți plimbarea pe plaja întinsă Praia Grande de Pêra, unde vă puteți bucura din plin de briza proaspătă a oceanului și de nisipul fin al coastei Algarve.\n\nContinuați spre vest către Praia Vale do Olival, unde formațiunile stâncoase fascinante oferă un decor pitoresc pentru o pauză de prânz relaxantă pe plajă.\n\nDupă-amiaza vă poartă spre golfurile mai intime Praia dos Tremoços și Praia das Escaleiras, unde piscinele stâncoase ascunse vă invită la o relaxare netulburată.\n\nÎncheiați-vă ziua plină de evenimente pe plaja izolată Praia do Barranco, în timp ce soarele apune și scaldă stâncile dramatice de gresie într-o lumină aurie.",
         "en": "Begin your morning stroll along the expansive Praia Grande de Pêra, taking full advantage of the fresh ocean breeze and the soft sand of the beautiful Algarve coast.\n\nContinue westward to Praia Vale do Olival, where fascinating cliff formations provide a highly picturesque and dramatic backdrop for your relaxing midday break.\n\nThe afternoon leads you to the more intimate coves of Praia dos Tremoços and Praia das Escaleiras, where hidden rock pools invite you to linger undisturbed.\n\nEnd your eventful day at the secluded Praia do Barranco, while the setting sun beautifully bathes the dramatic sandstone cliffs in a warm, golden, unforgettable light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regen auf der Promenade, wo die Meeresbrise die Tropfen gegen die Fenster peitscht. Mittags finden wir Unterschlupf in einem Strandcafé, während der Ozean in tiefem Grau tost. Am Nachmittag wandern wir mit Regenponchos entlang der Klippenwege. Abends genießen wir die beruhigende Atmosphäre des Regens bei einem heißen Getränk in einer gemütlichen, überdachten Bar.",
+            "hu": "Reggel a tengerparti sétányon ér minket az eső, a sós pára és a vízcseppek illata keveredik. Délben a strand menti kávézók fedett teraszai nyújtanak menedéket a zivatar elől. Délután esőkabátban fedezzük fel a sziklák menti ösvényeket, ahol a víz mossa a köveket. Este a szállásunkhoz közeli, barátságos helyen hallgatjuk az ablakon kopogó esőt és a hullámok morajlását.",
+            "ro": "Dimineața începe cu ploaie pe faleză, unde briza mării amestecă picăturile cu sarea. La prânz, terasele acoperite ale cafenelelor de pe plajă oferă adăpost împotriva aversei. După-amiaza explorăm potecile de pe stânci echipați cu pelerine de ploaie, admirând forța naturii. Seara ne retragem într-un loc primitor pentru a asculta sunetul ploii care se îmbină cu vuietul oceanului.",
+            "en": "The morning begins with rain on the promenade, where the sea breeze mixes raindrops with salt spray. At noon, the covered terraces of beach cafes provide shelter from the downpour. In the afternoon, we explore the cliffside paths in raincoats, witnessing the raw power of the ocean. In the evening, we find a cozy indoor spot to listen to the rain drumming on the glass alongside the crashing waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia Grande de Pêra",
+                "hu": "Praia Grande de Pêra",
+                "ro": "Praia Grande de Pêra",
+                "en": "Praia Grande de Pêra"
+              },
+              "tip_5lang": {
+                "de": "Die Dünenlandschaft wirkt im Regen mystisch; nutzen Sie die Holzstege, aber achten Sie auf das nasse Holz, das bei Feuchtigkeit sehr rutschig sein kann.",
+                "hu": "A dűnék világa misztikus látványt nyújt az esőben; használd a fa pallókat, de vigyázz, mert a vizes fa felülete rendkívül csúszóssá válhat ilyenkor.",
+                "ro": "Peisajul dunelor pare mistic în ploaie; folosiți podurile de lemn, dar aveți grijă, deoarece suprafața udă poate deveni extrem de alunecoasă acum.",
+                "en": "The dunes look mystical in the rain; use the wooden boardwalks but be careful, as the wet wood surface can become extremely slippery in these conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Vale do Olival",
+                "hu": "Praia Vale do Olival",
+                "ro": "Praia Vale do Olival",
+                "en": "Praia Vale do Olival"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von der Terrasse eines der Cafés aus; ein stabiler Regenschirm ist bei den starken Küstenwinden hier unerlässlich.",
+                "hu": "Figyeld a viharos tengert az egyik kávézó teraszáról; egy erős esernyő elengedhetetlen a parton gyakran felerősödő, hirtelen széllökések miatt.",
+                "ro": "Priviți marea învolburată de pe terasa unei cafenele; o umbrelă rezistentă este esențială din cauza rafalelor de vânt care se intensifică pe mal.",
+                "en": "Watch the stormy sea from a cafe terrace; a sturdy umbrella is essential due to the sudden gusts of wind that often intensify along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tremoços",
+                "hu": "Praia dos Tremoços",
+                "ro": "Praia dos Tremoços",
+                "en": "Praia dos Tremoços"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen bieten begrenzten Schutz vor vertikalem Regen; tragen Sie wasserfeste Wanderschuhe, da der Bodenbelag um die Felsen herum aufweichen kann.",
+                "hu": "A sziklák korlátozott védelmet nyújtanak a függőleges eső ellen; viselj vízálló túracipőt, mert a sziklák körüli talaj könnyen felázhat.",
+                "ro": "Stâncile oferă protecție limitată împotriva ploii verticale; purtați încălțăminte de drumeție impermeabilă, deoarece solul din jurul stâncilor se poate înmuia.",
+                "en": "The cliffs offer limited protection from vertical rain; wear waterproof hiking shoes as the ground around the rock formations can become soft and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Escaleiras",
+                "hu": "Praia das Escaleiras",
+                "ro": "Praia das Escaleiras",
+                "en": "Praia das Escaleiras"
+              },
+              "tip_5lang": {
+                "de": "Die in den Fels gehauenen Treppen sind bei Regen tückisch; genießen Sie die Aussicht auf die Gischt aus sicherer Entfernung vom oberen Rand.",
+                "hu": "A sziklába vájt lépcsők esőben csalókák; élvezd a hullámverés látványát biztonságos távolságból, a felső peremről figyelve a természet erejét.",
+                "ro": "Scările săpate în stâncă sunt înșelătoare pe ploaie; bucurați-vă de spectacolul valurilor de la o distanță sigură, privind de pe marginea superioară.",
+                "en": "The stairs carved into the rock are treacherous in the rain; enjoy the view of the spray from a safe distance from the top edge for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Barranco",
+                "hu": "Praia do Barranco",
+                "ro": "Praia do Barranco",
+                "en": "Praia do Barranco"
+              },
+              "tip_5lang": {
+                "de": "In diesem abgelegenen Tal bilden sich bei Regen kleine Bäche; wasserdichte Ausrüstung ist Pflicht, um den nassen Pfad sicher zu bewältigen.",
+                "hu": "Ebben az eldugott völgyben esőben kis patakok alakulhatnak ki; a vízálló felszerelés kötelező a nedves ösvény biztonságos bejárásához.",
+                "ro": "În această vale retrasă se pot forma mici pârâuri în timpul ploii; echipamentul impermeabil este obligatoriu pentru a parcurge poteca umedă în siguranță.",
+                "en": "In this secluded valley, small streams can form during rain; waterproof gear is a must for safely navigating the wet path back to town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne geht klar über dem Ozean auf und bringt eine frische Brise mit. Mittags genießen wir die milde Wärme bei einem Strandspaziergang unter strahlend blauem Himmel. Am Nachmittag wird die Luft kühler, was die Bedeutung von Schichten betont. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet unser Tag früh in einem gemütlichen Restaurant bei Kerzenschein.",
+            "hu": "A téli napfelkelte tisztán ragyog az óceán felett, friss szellőt hozva magával. Délben a gyenge napsütésben élvezzük a csendes tengerparti sétát a kék ég alatt. Délután a levegő gyorsan hűlni kezd, a réteges öltözködés fontossága felértékelődik. Mivel a nap 17:00 körül lenyugszik, napunkat korán, egy gyertyafényes étterem melegében zárjuk.",
+            "ro": "Răsăritul de iarnă strălucește clar deasupra oceanului, aducând o briză proaspătă. La prânz, ne bucurăm de soarele blând pe plaja liniștită sub cerul senin. După-amiaza, aerul se răcește rapid, subliniind importanța îmbrăcămintei stratificate. Deoarece soarele apune în jurul orei 17:00, încheiem ziua devreme în căldura unui restaurant.",
+            "en": "The winter sunrise glows clearly over the ocean, bringing a crisp, fresh breeze. At noon, we enjoy the mild sun on a quiet beach walk under bright blue skies. In the afternoon, the air cools rapidly, making layered clothing essential for comfort. As the sun sets around 17:00, we end our day early in the warmth of a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia Grande de Pêra",
+                "hu": "Praia Grande de Pêra",
+                "ro": "Praia Grande de Pêra",
+                "en": "Praia Grande de Pêra"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf den Sand; tragen Sie eine windfeste Jacke für den kühlen Wind am offenen Strandabschnitt.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a homokra; viselj szélálló kabátot a nyitott tengerparti szakaszon fújó hűvös szél miatt.",
+                "ro": "Soarele de iarnă proiectează umbre lungi pe nisip; purtați o jachetă rezistentă la vânt pentru briza rece de pe secțiunea deschisă a plajei.",
+                "en": "The low winter sun casts long shadows on the sand; wear a windproof jacket for the cool breeze that picks up on the open beach section."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Vale do Olival",
+                "hu": "Praia Vale do Olival",
+                "ro": "Praia Vale do Olival",
+                "en": "Praia Vale do Olival"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Spaziergang in der klaren Winterluft; die Ruhe am Strand ist perfekt für Fotos ohne die sommerlichen Menschenmassen.",
+                "hu": "Ideális hely egy tempós sétához a tiszta téli levegőben; a strand nyugalma tökéletes a nyári tömeg nélküli tájfotók készítéséhez.",
+                "ro": "Ideal pentru o plimbare rapidă în aerul curat de iarnă; liniștea plajei este perfectă pentru fotografii fără mulțimile de turiști din vară.",
+                "en": "Ideal for a brisk walk in the clear winter air; the tranquility of the beach is perfect for landscape photos without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tremoços",
+                "hu": "Praia dos Tremoços",
+                "ro": "Praia dos Tremoços",
+                "en": "Praia dos Tremoços"
+              },
+              "tip_5lang": {
+                "de": "Die ‚Goldene Stunde‘ beginnt im Winter bereits gegen 16:00 Uhr; fangen Sie das weiche Licht ein, bevor die Kälte nach Sonnenuntergang einsetzt.",
+                "hu": "Az aranyóra télen már 16:00 körül elkezdődik; örökítsd meg a lágy fényeket, mielőtt a naplemente utáni hirtelen lehűlés megérkezne.",
+                "ro": "„Ora de aur” începe iarna deja în jurul orei 16:00; surprindeți lumina caldă înainte ca frigul de după apus să se instaleze rapid.",
+                "en": "The golden hour starts as early as 16:00 in winter; capture the soft light on the rocks before the post-sunset chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Escaleiras",
+                "hu": "Praia das Escaleiras",
+                "ro": "Praia das Escaleiras",
+                "en": "Praia das Escaleiras"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um Zugvögel zu beobachten, die hier überwintern; tragen Sie Schichten, um sich an die wechselnden Temperaturen anzupassen.",
+                "hu": "Kiváló hely az itt telelő költözőmadarak megfigyelésére; öltözz rétegesen, hogy alkalmazkodni tudj a napközbeni változó hőmérséklethez.",
+                "ro": "Un loc excelent pentru a observa păsările migratoare care iernează aici; purtați straturi pentru a vă adapta la temperaturile schimbătoare.",
+                "en": "A great spot for observing migratory birds that winter here; wear layers to adjust to the changing temperatures throughout the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Barranco",
+                "hu": "Praia do Barranco",
+                "ro": "Praia do Barranco",
+                "en": "Praia do Barranco"
+              },
+              "tip_5lang": {
+                "de": "Das Tal ist vor Nordwinden geschützt; genießen Sie das milde Mikroklima, aber kehren Sie vor dem Sonnenuntergang um 17:00 Uhr zurück.",
+                "hu": "A völgy védett az északi szelektől; élvezd a helyi enyhe mikroklímát, de indulj vissza a korai, 17:00 órakor bekövetkező naplemente előtt.",
+                "ro": "Valea este protejată de vânturile din nord; bucurați-vă de microclimatul blând, dar întoarceți-vă înainte de apusul de la ora 17:00.",
+                "en": "The valley is protected from northern winds; enjoy the mild microclimate but make sure to head back before the early 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Praia de ondas és az Ilha do Tesouro izgalmas vízi attrakcióinál, amelyek ideálisak egy frissítő és akciódús napindításhoz a parton.\n\nKerékpározzon el a Praia Grande de Pêra partjához, hogy felfedezze a széles strandokat, és egy parti kávézóban csodás kilátás mellett gyűjtsön új energiát.\n\nHaladjon tovább a parti utakon a Praia Vale do Olival és a Praia dos Tremoços felé, ahol a fenséges sziklák csodálatos kontrasztot alkotnak a tengerrel.\n\nA túra a festői Praia das Escaleiras partnál ér véget, amely tökéletes hely arra, hogy leszálljon a kerékpárról és mélyeket lélegezzen az esti óceán nyugalmából.",
         "ro": "Începeți turul cu bicicleta la atracțiile acvatice Praia de ondas și Ilha do Tesouro, ideale pentru un început de zi revigorant și plin de acțiune.\n\nPedalați spre Praia Grande de Pêra pentru a explora plajele largi și pentru a vă reîncărca bateriile la o cafenea pe plajă, bucurându-vă de priveliște.\n\nContinuați pe potecile de coastă către Praia Vale do Olival și Praia dos Tremoços, unde stâncile mărețe formează un contrast minunat cu albastrul mării.\n\nTurul se încheie la pitoreasca plajă Praia das Escaleiras, un loc perfect pentru a coborî de pe bicicletă și a respira adânc liniștea oceanului la lăsarea serii.",
         "en": "Start your cycling tour at the splashing water attractions of Praia de ondas and Ilha do Tesouro, ideal for a refreshing and action-packed start to your day.\n\nCycle leisurely to Praia Grande de Pêra to explore the wide beaches and recharge your batteries at a beachside cafe while enjoying the magnificent view.\n\nContinue riding along the beautiful coastal paths to Praia Vale do Olival and Praia dos Tremoços, where majestic cliffs form a stunning contrast to the sea.\n\nThe tour ends at the picturesque Praia das Escaleiras, an absolutely perfect spot to hop off your bike and deeply breathe in the calming tranquility of the evening ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt auf nassen Straßen, wo Vorsicht in den Kurven geboten ist. Mittags machen wir eine Pause unter einem festen Vordach, um den stärksten Schauer abzuwarten. Am Nachmittag radeln wir durch Pfützen und genießen die frische, gewaschene Luft. Abends stellen wir die Räder unter und trocknen uns bei einem warmen Abendessen in der Stadt auf.",
+            "hu": "A biciklitúra vizes aszfalton indul, ahol a kanyarokban fokozott óvatosságra van szükség. Délben egy stabil előtető alatt pihenünk meg, megvárva a legnagyobb záport. Délután pocsolyákon át tekerve élvezzük a friss, tiszta levegőt a parton. Este biztonságba helyezzük a gépeket, és egy forró vacsora mellett melegszünk fel a városban.",
+            "ro": "Turul cu bicicleta începe pe asfalt ud, unde este nevoie de prudență sporită în curbe. La prânz ne odihnim sub un baldachin solid, așteptând trecerea celei mai mari averse. După-amiaza pedalăm prin bălți, bucurându-ne de aerul proaspăt de pe coastă. Seara punem bicicletele la adăpost și ne încălzim cu o cină fierbinte în oraș.",
+            "en": "The bike tour starts on wet asphalt, where extra caution is needed in every turn. At noon, we take a break under a solid shelter to wait out the heaviest downpour. In the afternoon, we pedal through puddles, enjoying the fresh, clean coastal air. In the evening, we store the bikes and warm up with a hot dinner in the heart of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de ondas",
+                "hu": "Praia de ondas",
+                "ro": "Praia de ondas",
+                "en": "Praia de ondas"
+              },
+              "tip_5lang": {
+                "de": "Die Wege hier können schlammig sein; prüfen Sie den Reifendruck für besseren Halt auf rutschigem Untergrund bei Regenwetter.",
+                "hu": "Az utak itt sárosak lehetnek; ellenőrizd a guminyomást a jobb tapadás érdekében a csúszós felületeken az esős időben.",
+                "ro": "Drumurile pot fi noroioase aici; verificați presiunea în anvelope pentru o aderență mai bună pe suprafețele alunecoase pe timp de ploaie.",
+                "en": "The paths here can get muddy; check your tire pressure for better grip on slippery surfaces during rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilha do Tesouro",
+                "hu": "Ilha do Tesouro",
+                "ro": "Ilha do Tesouro",
+                "en": "Ilha do Tesouro"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Nähe der Strukturen; tragen Sie eine neongelbe Regenjacke, um für Autofahrer bei schlechter Sicht besser sichtbar zu sein.",
+                "hu": "Keress menedéket a közeli építményeknél; viselj neon esőkabátot, hogy a rossz látási viszonyok között is észrevehető maradj az autósoknak.",
+                "ro": "Căutați adăpost lângă structurile din apropiere; purtați o pelerină neon pentru a rămâne vizibil pentru șoferi în condiții de vizibilitate redusă.",
+                "en": "Seek shelter near nearby structures; wear a neon raincoat to remain visible to drivers during periods of poor visibility and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Pêra",
+                "hu": "Praia Grande de Pêra",
+                "ro": "Praia Grande de Pêra",
+                "en": "Praia Grande de Pêra"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Holzstegen; Schutzbleche am Fahrrad sind heute ein Muss, um aufgewirbeltes Schmutzwasser von der Kleidung fernzuhalten.",
+                "hu": "Közlekedj óvatosan a pallókon; a sárvédő használata ma kötelező, hogy távol tartsa a felcsapódó vizet és sarat a ruházatodtól.",
+                "ro": "Circulați cu atenție pe podurile de lemn; utilizarea apărătorilor este obligatorie astăzi pentru a ține apa și noroiul departe de haine.",
+                "en": "Ride carefully on the boardwalks; using mudguards is a must today to keep kicked-up water and mud away from your clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Vale do Olival",
+                "hu": "Praia Vale do Olival",
+                "ro": "Praia Vale do Olival",
+                "en": "Praia Vale do Olival"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Abschnitte, um Schlamm zu vermeiden; wischen Sie Ihre Bremsbeläge ab, da Nässe die Bremswirkung beim Bergabfahren verringern kann.",
+                "hu": "Használd az aszfaltozott szakaszokat a sár elkerülésére; töröld le a fékeket, mert a nedvesség csökkentheti a fékhatást a lejtőkön.",
+                "ro": "Folosiți secțiunile asfaltate pentru a evita noroiul; ștergeți frânele, deoarece umezeala poate reduce eficiența frânării pe pante.",
+                "en": "Stick to paved sections to avoid the deepest mud; wipe your brakes often, as moisture can significantly reduce braking power on hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tremoços",
+                "hu": "Praia dos Tremoços",
+                "ro": "Praia dos Tremoços",
+                "en": "Praia dos Tremoços"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallendes Laub oder kleine Steine auf dem Weg; wasserdichte Überschuhe halten Ihre Füße beim Treten angenehm trocken.",
+                "hu": "Ügyelj az útra került levelekre vagy apró kövekre; a vízálló kamásli szárazon tartja a lábadat a folyamatos tekerés közben az esőben.",
+                "ro": "Fiți atenți la frunzele sau pietrele mici de pe drum; husele impermeabile pentru încălțăminte vă vor menține picioarele uscate în timp ce pedalați.",
+                "en": "Watch out for debris or small stones washed onto the path; waterproof shoe covers will keep your feet dry while pedaling through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Escaleiras",
+                "hu": "Praia das Escaleiras",
+                "ro": "Praia das Escaleiras",
+                "en": "Praia das Escaleiras"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher auf festem Untergrund; die salzhaltige Luft und Nässe erfordern eine Kettenpflege direkt nach der Tour.",
+                "hu": "Parkold le a bringát stabil, szilárd talajon; a sós pára és a nedvesség miatt a túra után közvetlenül javasolt a lánc ápolása.",
+                "ro": "Parcați bicicleta pe un teren stabil și solid; din cauza umezelii și a sării, se recomandă întreținerea lanțului imediat după tură.",
+                "en": "Park your bike on stable, solid ground; due to salt spray and moisture, it's recommended to clean and oil the chain right after the ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht das Radfahren belebend. Mittags wärmt uns die Wintersonne auf den offenen Küstenwegen, während wir den weiten Blick genießen. Am Nachmittag sinken die Temperaturen spürbar, Windstopper-Handschuhe sind jetzt ein Segen. Da es um 17:00 Uhr dunkel wird, stellen wir sicher, dass unsere Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
+            "hu": "A hűvös reggeli levegő élénkítővé teszi a kerékpározást. Délben a téli nap ereje felmelegít minket a nyitott parti utakon, miközben a tájat csodáljuk. Délután a hőmérséklet érezhetően zuhanni kezd, a szélálló kesztyű ilyenkor áldás. Mivel 17:00-kor sötétedik, ellenőrizzük, hogy a lámpáink kifogástalanul működnek-e.",
+            "ro": "Aerul răcoros de dimineață face ciclismul revigorant. La prânz, soarele de iarnă ne încălzește pe drumurile deschise de pe coastă. După-amiaza, temperaturile scad simțitor, mănușile rezistente la vânt fiind o binecuvântare acum. Deoarece se întunecă la ora 17:00, ne asigurăm că luminile funcționează perfect.",
+            "en": "The cool morning air makes the cycling experience truly invigorating. At noon, the winter sun warms us on the open coastal paths as we admire the view. In the afternoon, temperatures drop noticeably, making windstopper gloves a blessing. Since it gets dark by 17:00, ensure your bike lights are in perfect working order."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de ondas",
+                "hu": "Praia de ondas",
+                "ro": "Praia de ondas",
+                "en": "Praia de ondas"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist im Winter oft hart und griffig; tragen Sie ein Thermo-Stirnband unter dem Helm, um Ihre Ohren vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A talaj télen gyakran kemény és jól tapad; viselj termo fejpántot a sisak alatt, hogy megvédd a füleidet a hideg menetszéltől.",
+                "ro": "Solul este adesea tare și aderent iarna; purtați o bentiță termică sub cască pentru a vă proteja urechile de vântul rece din timpul mersului.",
+                "en": "The ground is often firm and grippy in winter; wear a thermal headband under your helmet to protect your ears from the biting cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilha do Tesouro",
+                "hu": "Ilha do Tesouro",
+                "ro": "Ilha do Tesouro",
+                "en": "Ilha do Tesouro"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft bietet eine fantastische Fernsicht; halten Sie sich durch ständiges Treten warm, da längere Pausen im Winterwind schnell auskühlen.",
+                "hu": "A tiszta levegő fantasztikus távlatokat nyit meg; maradj mozgásban a testhőmérséklet fenntartásához, mert a szélben gyorsan kihűlhetsz állás közben.",
+                "ro": "Aerul curat oferă o vizibilitate fantastică la distanță; rămâneți în mișcare pentru a menține căldura, deoarece vântul vă poate răci rapid în pauze.",
+                "en": "The clear air offers fantastic long-distance views; keep pedaling to stay warm, as taking long breaks in the wind can lead to rapid chilling."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Pêra",
+                "hu": "Praia Grande de Pêra",
+                "ro": "Praia Grande de Pêra",
+                "en": "Praia Grande de Pêra"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist fast menschenleer, ideal für entspanntes Fahren; nutzen Sie die niedrige Sonne für dramatische Schattenwürfe auf Ihren Urlaubsfotos.",
+                "hu": "A strand szinte üres, ideális a zavartalan tekeréshez; használd ki az alacsony napállást a drámai árnyékok megörökítéséhez a fotóidon.",
+                "ro": "Plaja este aproape pustie, ideală pentru pedalat relaxat; profitați de soarele jos pentru a surprinde umbre dramatice în fotografiile de vacanță.",
+                "en": "The beach is almost empty, ideal for undisturbed riding; take advantage of the low sun to capture dramatic shadows in your holiday photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Vale do Olival",
+                "hu": "Praia Vale do Olival",
+                "ro": "Praia Vale do Olival",
+                "en": "Praia Vale do Olival"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise kann im Winter sehr schneidend sein; eine winddichte Softshell-Jacke bietet den besten Komfort auf diesem exponierten Abschnitt.",
+                "hu": "A tengeri szellő télen nagyon metsző lehet; egy szélálló softshell dzseki nyújtja a legjobb komfortot ezen a nyitott útszakaszon.",
+                "ro": "Briza mării poate fi foarte tăioasă iarna; o jachetă softshell rezistentă la vânt oferă cel mai bun confort pe această secțiune expusă.",
+                "en": "The sea breeze can be very sharp in winter; a windproof softshell jacket provides the best comfort on this exposed coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tremoços",
+                "hu": "Praia dos Tremoços",
+                "ro": "Praia dos Tremoços",
+                "en": "Praia dos Tremoços"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Nebensaison; achten Sie auf die Uhrzeit, da die Temperaturen rapide sinken, sobald die Sonne hinter den Klippen verschwindet.",
+                "hu": "Élvezd az előszezon csendjét; figyelj az időre, mert a hőmérséklet gyorsan zuhan, amint a nap eltűnik a magas sziklák mögött.",
+                "ro": "Bucurați-vă de liniștea din extrasezon; fiți atenți la oră, deoarece temperaturile scad rapid imediat ce soarele dispare după stânci.",
+                "en": "Enjoy the silence of the off-season; keep an eye on the time, as temperatures drop rapidly once the sun disappears behind the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Escaleiras",
+                "hu": "Praia das Escaleiras",
+                "ro": "Praia das Escaleiras",
+                "en": "Praia das Escaleiras"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr für maximale Sicherheit; eine warme Thermoskanne mit Tee in der Packtasche ist ein toller Abschluss der Fahrt.",
+                "hu": "Fejezd be a túrát 17:00 előtt a biztonság érdekében; egy meleg teával töltött termosz a táskádban kiváló lezárása lesz a téli tekerésnek.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru siguranță; un termos cu ceai cald în rucsac este finalul perfect pentru o plimbare de iarnă.",
+                "en": "Finish your ride before 17:00 for maximum safety; a thermos of warm tea in your bag is a great way to end the winter cycling trip."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A nap pörgősen indul a Jogos de agua, az Ilha do Tesouro és a Praia de ondas víziparkjaiban, amelyek változatos szórakozást biztosítanak az egész családnak.\n\nEgy rövid autózás után eléri a Praia Grande de Pêra partot, ahol a végtelen homokos strandok hosszú sétákra és egy pihentető piknikre invitálnak a puha homokban.\n\nFedezze fel a Praia Vale do Olival, a Praia dos Tremoços és a Praia das Escaleiras látványos szikláit, amelyek kiváló hátteret nyújtanak a lenyűgöző nyaralási fotókhoz.\n\nA végső állomás a csendes Praia do Barranco, ahol a tömegtől távol, teljes harmóniában élvezheti a vad Atlanti-óceán felett lemenő nap gyönyörű látványát.",
         "ro": "Ziua începe alert în parcurile acvatice de la Jogos de agua, Ilha do Tesouro și Praia de ondas, care oferă divertisment variat pentru întreaga familie.\n\nUn scurt drum cu mașina vă duce la Praia Grande de Pêra, unde plajele nesfârșite vă invită la plimbări lungi și la un picnic relaxant pe nisipul fin.\n\nExplorați stâncile spectaculoase de la Praia Vale do Olival, Praia dos Tremoços și Praia das Escaleiras, excelente pentru a face fotografii de vacanță impresionante.\n\nUltima oprire este liniștita Praia do Barranco, unde vă puteți bucura de apusul de soare peste sălbaticul Ocean Atlantic în armonie deplină, departe de aglomerație.",
         "en": "The day kicks off with fast-paced fun at the exciting water parks of Jogos de agua, Ilha do Tesouro, and Praia de ondas, providing diverse entertainment for all.\n\nA short scenic drive brings you to Praia Grande de Pêra, where endless sandy beaches invite you for long, soothing walks and a truly relaxing midday picnic.\n\nExplore the highly spectacular cliffs at Praia Vale do Olival, Praia dos Tremoços, and Praia das Escaleiras, which are absolutely excellent for impressive vacation photos.\n\nThe final stop is the incredibly quiet Praia do Barranco, where you can peacefully enjoy the breathtaking sunset over the wild Atlantic away from all the crowds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im trockenen Auto, während der Regen auf das Dach trommelt. Mittags steuern wir Aussichtspunkte an, an denen wir das Spektakel des stürmischen Meeres aus dem warmen Innenraum beobachten können. Am Nachmittag fahren wir vorsichtig über nasse Küstenstraßen. Abends parken wir in der Nähe eines überdachten Restaurants für einen gemütlichen Abschluss.",
+            "hu": "Az út biztonságban, a száraz autóban indul, miközben az eső kopog a tetőn. Délben olyan kilátópontokat keresünk, ahonnan a meleg utastérből csodálhatjuk a viharos tenger látványát. Délután óvatosan vezetünk a vizes parti utakon, ügyelve a látási viszonyokra. Este egy fedett parkolóhoz közeli étteremben zárjuk a napot, elkerülve az ázást.",
+            "ro": "Călătoria începe în siguranță în mașina uscată, în timp ce ploaia bate în plafon. La prânz căutăm puncte de belvedere de unde putem admira marea învolburată din interiorul cald. După-amiaza conducem cu prudență pe drumurile umede de coastă. Seara parcăm aproape de un restaurant cu acces acoperit pentru a încheia ziua fără a ne uda.",
+            "en": "The trip starts safely in the dry car while the rain drums on the roof. At noon, we head to viewpoints where we can admire the stormy sea from the warmth of the interior. In the afternoon, we drive carefully along wet coastal roads, mindful of visibility. In the evening, we park near a covered restaurant for a dry and comfortable end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jogos de agua",
+                "hu": "Jogos de agua",
+                "ro": "Jogos de agua",
+                "en": "Jogos de agua"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen durch die Windschutzscheibe; lassen Sie die Klimaanlage laufen, um das Beschlagen der Scheiben bei der hohen Luftfeuchtigkeit zu verhindern.",
+                "hu": "Figyeld a hullámokat a szélvédőn keresztül; járasd a klímát a páramentesítés érdekében, hogy a nagy páratartalom mellett is tiszta maradjon a kilátás.",
+                "ro": "Priviți valurile prin parbriz; lăsați aerul condiționat pornit pentru dezaburire, astfel încât vederea să rămână clară în ciuda umidității ridicate.",
+                "en": "Watch the waves through the windshield; keep the air conditioning on to prevent fogging, ensuring a clear view despite the high humidity outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilha do Tesouro",
+                "hu": "Ilha do Tesouro",
+                "ro": "Ilha do Tesouro",
+                "en": "Ilha do Tesouro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Grund, um nicht im Schlamm steckenzubleiben; nutzen Sie kurze Regenpausen für schnelle Fotos der dramatischen Wolkenformationen.",
+                "hu": "Parkolj szilárd talajon, hogy elkerüld az elakadást a sárban; használd ki a rövid esőszüneteket a drámai felhőzet gyors lefotózásához.",
+                "ro": "Parcați pe teren solid pentru a evita împotmolirea în noroi; profitați de scurtele pauze de ploaie pentru a fotografia rapid norii dramatici.",
+                "en": "Park on solid ground to avoid getting stuck in the mud; use short breaks in the rain to quickly photograph the dramatic cloud formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de ondas",
+                "hu": "Praia de ondas",
+                "ro": "Praia de ondas",
+                "en": "Praia de ondas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf der Straße, die Aquaplaning verursachen können; die raue See bietet heute ein beeindruckendes Schauspiel vom Parkplatz aus.",
+                "hu": "Ügyelj az úton lévő pocsolyákra, amelyek vízre futást okozhatnak; a háborgó tenger lenyűgöző látványt nyújt ma közvetlenül a parkolóból is.",
+                "ro": "Fiți atenți la bălțile de pe drum care pot cauza acvaplanare; marea agitată oferă astăzi un spectacol impresionant chiar din parcare.",
+                "en": "Watch out for large puddles on the road that can cause aquaplaning; the rough sea provides an impressive spectacle directly from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Pêra",
+                "hu": "Praia Grande de Pêra",
+                "ro": "Praia Grande de Pêra",
+                "en": "Praia Grande de Pêra"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zu anderen Fahrzeugen bei schlechter Sicht; ein Fernglas im Auto ist ideal, um Vögel in den Dünen im Regen zu beobachten.",
+                "hu": "Tarts nagyobb követési távolságot a rossz látási viszonyok miatt; egy távcső az autóban ideális a dűnék közt rejtőző madarak megfigyeléséhez az esőben.",
+                "ro": "Păstrați o distanță mai mare între vehicule din cauza vizibilității reduse; un binoclu în mașină este ideal pentru a observa păsările din dune pe ploaie.",
+                "en": "Keep a safe distance from other vehicles due to poor visibility; having binoculars in the car is ideal for birdwatching in the dunes during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Vale do Olival",
+                "hu": "Praia Vale do Olival",
+                "ro": "Praia Vale do Olival",
+                "en": "Praia Vale do Olival"
+              },
+              "tip_5lang": {
+                "de": "Das Parken ist bei Regen oft einfacher, da weniger Besucher kommen; genießen Sie den Blick auf den Strand, während die Scheibenwischer die Sicht klären.",
+                "hu": "A parkolás esőben gyakran egyszerűbb, mivel kevesebb a látogató; élvezd a tengerparti kilátást, miközben az ablaktörlők tisztítják a látóteredet.",
+                "ro": "Parcarea este adesea mai ușoară pe ploaie, fiind mai puțini vizitatori; bucurați-vă de priveliște în timp ce ștergătoarele vă curăță câmpul vizual.",
+                "en": "Parking is often easier in the rain as there are fewer visitors; enjoy the beachfront views while the wipers keep your field of vision clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tremoços",
+                "hu": "Praia dos Tremoços",
+                "ro": "Praia dos Tremoços",
+                "en": "Praia dos Tremoços"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf rutschigem Asphalt am Klippenrand; prüfen Sie die Scheinwerfereinstellungen für eine bessere Sichtbarkeit im Regen.",
+                "hu": "Vigyázz a kiszálláskor a csúszós aszfalton a sziklák szélén; ellenőrizd a fényszórókat a jobb láthatóság érdekében a sűrű esőben.",
+                "ro": "Atenție la coborârea din mașină pe asfaltul alunecos de lângă stânci; verificați farurile pentru o mai bună vizibilitate în ploaia densă.",
+                "en": "Be careful when getting out of the car on slippery asphalt near the cliffs; check your headlights for better visibility in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Escaleiras",
+                "hu": "Praia das Escaleiras",
+                "ro": "Praia das Escaleiras",
+                "en": "Praia das Escaleiras"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann beim Öffnen der Autotüren an den Klippen stark sein; halten Sie die Tür gut fest, um Schäden durch plötzliche Böen zu vermeiden.",
+                "hu": "A szél erős lehet az ajtónyitáskor a sziklák mentén; fogd erősen az autó ajtaját, hogy elkerüld a hirtelen széllökések okozta sérüléseket.",
+                "ro": "Vântul poate fi puternic la deschiderea portierei lângă stânci; țineți bine ușa pentru a evita daunele cauzate de rafalele bruște de vânt.",
+                "en": "The wind can be strong when opening car doors near the cliffs; hold the door firmly to prevent damage from sudden coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Barranco",
+                "hu": "Praia do Barranco",
+                "ro": "Praia do Barranco",
+                "en": "Praia do Barranco"
+              },
+              "tip_5lang": {
+                "de": "Einige Zufahrtswege können bei starkem Regen überflutet sein; fahren Sie nur durch flache Wasserstellen und bleiben Sie auf den Hauptwegen.",
+                "hu": "Néhány bekötőutat elönthet a víz heves esőzéskor; csak sekély vízátfolyásokon hajts át, és maradj a főbb, aszfaltozott útvonalakon.",
+                "ro": "Unele drumuri de acces pot fi inundate în timpul ploilor abundente; treceți doar prin zone cu apă puțin adâncă și rămâneți pe rutele principale.",
+                "en": "Some access roads may flood during heavy rainfall; only drive through shallow water and stick to the main paved routes for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt beginnt im angenehm vorgeheizten Auto. Mittags steuern wir sonnige Küstenabschnitte an, wo wir die milde Wintersonne durch die Scheiben genießen können. Am Nachmittag sinken die Temperaturen draußen, aber im Auto bleibt es behaglich warm für unsere Tour. Da es bereits um 17:00 Uhr dunkel wird, planen wir die Rückfahrt im Licht der Dämmerung.",
+            "hu": "A reggeli induláskor kellemesen előmelegített autó vár minket. Délben napos parti szakaszokat keresünk fel, ahol az ablakokon át élvezhetjük a gyenge téli napfényt. Délután a kinti hőmérséklet süllyed, de az autóban barátságos melegben folytatjuk az utunkat. Mivel 17:00-kor már sötétedik, a visszautat a szürkületi fények mellett tesszük meg.",
+            "ro": "Plecarea de dimineață se face într-o mașină preîncălzită plăcut. La prânz vizităm secțiuni însorite de coastă, unde ne bucurăm de soarele blând de iarnă prin geamuri. După-amiaza temperatura scade afară, dar în mașină rămâne cald pentru turul nostru. Deoarece se întunecă deja la ora 17:00, planificăm drumul de întoarcere la lumina crepusculului.",
+            "en": "The morning start is pleasant in a pre-heated car. At noon, we visit sunny coastal sections where we can enjoy the mild winter sun through the windows. In the afternoon, the outside temperature drops, but the car remains cozy and warm for our tour. As it gets dark by 17:00, we plan our return journey during the beautiful twilight hours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jogos de agua",
+                "hu": "Jogos de agua",
+                "ro": "Jogos de agua",
+                "en": "Jogos de agua"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; halten Sie Ihre Sonnenbrille griffbereit für eine sichere Fahrt entlang der Küstenstraße.",
+                "hu": "A téli nap alacsonyan jár és erősen vakíthat; tartsd kéznél a napszemüvegedet a biztonságos vezetéshez a part menti utakon.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; țineți ochelarii de soare la îndemână pentru o conducere sigură pe drumul de coastă.",
+                "en": "The winter sun is low and can be quite blinding; keep your sunglasses handy for safe driving along the scenic coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Ilha do Tesouro",
+                "hu": "Ilha do Tesouro",
+                "ro": "Ilha do Tesouro",
+                "en": "Ilha do Tesouro"
+              },
+              "tip_5lang": {
+                "de": "Das Parken ist in der Nebensaison stressfrei und oft kostenlos; genießen Sie den weiten Blick auf den Ozean vom warmen Beifahrersitz aus.",
+                "hu": "A parkolás a főszezonon kívül stresszmentes és gyakran ingyenes; élvezd a tágas óceáni kilátást a meleg anyósülés kényelméből.",
+                "ro": "Parcarea în afara sezonului este fără stres și adesea gratuită; bucurați-vă de vederea largă la ocean din confortul scaunului cald al pasagerului.",
+                "en": "Parking is stress-free and often free of charge during the off-season; enjoy the vast ocean views from the comfort of your warm passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de ondas",
+                "hu": "Praia de ondas",
+                "ro": "Praia de ondas",
+                "en": "Praia de ondas"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Abfahrt, da Kälte diesen beeinflussen kann; die Parkplätze direkt am Meer sind im Winter herrlich leer.",
+                "hu": "Indulás előtt ellenőrizd a guminyomást, mert a hideg befolyásolhatja azt; a közvetlen tengerparti parkolók télen csodásan üresek.",
+                "ro": "Verificați presiunea în anvelope înainte de plecare, deoarece frigul o poate influența; parcările de pe malul mării sunt minunat de goale iarna.",
+                "en": "Check your tire pressure before leaving, as the cold can affect it; the parking lots right by the sea are wonderfully empty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Pêra",
+                "hu": "Praia Grande de Pêra",
+                "ro": "Praia Grande de Pêra",
+                "en": "Praia Grande de Pêra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung für zusätzlichen Komfort nach einem kurzen Fotostopp; die klare Winterluft ermöglicht weite Sicht bis zum Horizont.",
+                "hu": "Használd az ülésfűtést az extra kényelemért egy rövid fotómegálló után; a tiszta téli levegőben ellátni egészen a távoli horizontig.",
+                "ro": "Folosiți încălzirea în scaune pentru confort sporit după o scurtă oprire foto; aerul curat de iarnă permite vederea până la orizontul îndepărtat.",
+                "en": "Use the seat heating for extra comfort after a quick photo stop; the clear winter air allows for visibility all the way to the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Vale do Olival",
+                "hu": "Praia Vale do Olival",
+                "ro": "Praia Vale do Olival",
+                "en": "Praia Vale do Olival"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Stopp für einen Becher heißen Kaffee im Auto; die winterliche Brandung ist aus der Nähe ohne die sommerliche Hitze sehr entspannend.",
+                "hu": "Tökéletes megálló egy pohár forró kávéhoz az autóban; a téli hullámverés közelről, a nyári hőség nélkül is kifejezetten pihentető élmény.",
+                "ro": "Oprire perfectă pentru o cană de cafea fierbinte în mașină; valurile de iarnă văzute de aproape, fără arșița verii, sunt foarte relaxante.",
+                "en": "A perfect stop for a cup of hot coffee in the car; watching the winter surf up close without the summer heat is a relaxing experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Tremoços",
+                "hu": "Praia dos Tremoços",
+                "ro": "Praia dos Tremoços",
+                "en": "Praia dos Tremoços"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhrzeit, um das letzte Tageslicht für die Klippenfahrt zu nutzen; die Felsen leuchten im späten Winterlicht besonders intensiv.",
+                "hu": "Ügyelj az időre, hogy kihasználd az utolsó nappali fényeket a sziklák mentén; a kövek a késő délutáni téli fényben különösen szépen ragyognak.",
+                "ro": "Fiți atenți la oră pentru a profita de ultima lumină a zilei lângă stânci; pietrele strălucesc intens în lumina târzie de iarnă.",
+                "en": "Watch the time to make the most of the last daylight near the cliffs; the rocks glow intensely in the soft, late afternoon winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Escaleiras",
+                "hu": "Praia das Escaleiras",
+                "ro": "Praia das Escaleiras",
+                "en": "Praia das Escaleiras"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang zum Aussichtspunkt lohnt sich auch im Winter; nehmen Sie eine Decke für das Picknick im Auto mit Meerblick mit.",
+                "hu": "Egy rövid séta a kilátópontig télen is megéri; vigyél egy takarót az autóban tartott, tengerre néző piknikhez a hidegebb órákban.",
+                "ro": "O scurtă plimbare până la punctul de belvedere merită și iarna; luați o pătură pentru un picnic în mașină cu vedere la mare.",
+                "en": "A short walk to the viewpoint is worth it even in winter; bring a warm blanket for an in-car picnic with a stunning view of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Barranco",
+                "hu": "Praia do Barranco",
+                "ro": "Praia do Barranco",
+                "en": "Praia do Barranco"
+              },
+              "tip_5lang": {
+                "de": "Kehren Sie vor 17:00 Uhr um, da die kurvigen Wege bei Dunkelheit schwerer zu befahren sind; genießen Sie die Ruhe des winterlichen Tals.",
+                "hu": "Indulj vissza 17:00 előtt, mert a kanyargós utak sötétben nehezebben járhatók; élvezd a téli völgy zavartalan és békés nyugalmát.",
+                "ro": "Întoarceți-vă înainte de ora 17:00, deoarece drumurile șerpuite sunt mai greu de parcurs pe întuneric; bucurați-vă de liniștea văii de iarnă.",
+                "en": "Head back before 17:00 as the winding roads are harder to navigate in the dark; enjoy the undisturbed peace of the quiet winter valley."
+              }
+            }
+          ]
+        }
       }
     }
   }

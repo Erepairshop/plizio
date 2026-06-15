@@ -137,6 +137,168 @@
         "hu": "Sétánkat a város szívében, a Nuevo Centro Culturalban kezdjük, elmerülve a kortárs művészetben. Dél körül észak felé vesszük az irányt a békés Parque Fuente de la Salud felé, hogy megpihenjünk. A délutánt a kultúrának szenteljük a Sala de Exposiciones és az Auditorio El Torreón felfedezésével. Este a napot a Parroquia Nuestra Señora del Carmen templom csendes légkörében zárjuk.",
         "ro": "Începem turul nostru pe jos în centrul orașului la Nuevo Centro Cultural, admirând arta contemporană. Pe la prânz, facem o plimbare relaxantă spre nord către liniștitul Parque Fuente de la Salud. După-amiaza este dedicată culturii, vizitând atât Sala de Exposiciones, cât și Auditorio El Torreón. Seara ne încheiem ziua cu o vizită la biserica liniștită Nuestra Señora del Carmen.",
         "en": "We begin our walking tour in the heart of the city at the Nuevo Centro Cultural, immersing ourselves in contemporary local art. As midday approaches, we take a refreshing stroll northwards to the serene Parque Fuente de la Salud to relax under the trees. The afternoon is dedicated to culture, visiting both the intimate Sala de Exposiciones and Auditorio El Torreón. We conclude peacefully at the church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen finden wir im Kulturzentrum Schutz vor dem Regen. Mittags spazieren wir unter dem Schirm durch den Park zur Galerie. Am Nachmittag erkunden wir das Auditorium, wobei wir auf rutschige Wege achten. Den Abend lassen wir in der Stille der Kirche ausklingen, während draußen der Regen auf den Asphalt prasselt.",
+            "hu": "Reggel a kulturális központ fedett tereiben kezdünk, elkerülve az első záporokat. Délben az esernyőnk alatt sétálunk át a parkon a kiállítóterem felé. Délután a szabadtéri nézőtér környékét járjuk be, ügyelve a csúszós burkolatra. Este a templom csendes menedékében zárjuk a napot, miközben kint kopog az eső az aszfalton.",
+            "ro": "Dimineața găsim adăpost în centrul cultural, evitând primele ploi. La prânz ne plimbăm prin parc spre galerie sub protecția umbrelei. După-amiaza explorăm zona auditoriului, fiind atenți la pavajul alunecos. Încheiem ziua în liniștea bisericii, ascultând ploaia care bate în ferestre.",
+            "en": "Start the morning inside the cultural center to stay dry during the first showers. At noon, walk through the park towards the gallery with an umbrella. In the afternoon, visit the auditorium area, being careful of slippery paths. Finish the day in the peaceful refuge of the church while rain taps on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuevo Centro Cultural",
+                "hu": "Nuevo Centro Cultural",
+                "ro": "Nuevo Centro Cultural",
+                "en": "Nuevo Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die moderne Kunstsammlung in den weitläufigen Innenräumen, wo Sie Schutz vor dem Regen finden; halten Sie einen Taschenschirm für den kurzen Weg zum Eingang bereit.",
+                "hu": "Fedezze fel a modern művészeti gyűjteményt a tágas belső terekben, ahol az eső elől menedéket találva kényelmesen elmerülhet a kultúrában; vigyen magával egy kompakt esernyőt.",
+                "ro": "Explorați colecția de artă modernă în galeriile interioare spațioase, găsind un refugiu perfect împotriva ploii; aveți pregătită o umbrelă compactă pentru intrarea în clădire.",
+                "en": "Explore the modern art collection in the spacious indoor galleries, finding a perfect refuge from the rain; keep a compact umbrella ready for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Fuente de la Salud",
+                "hu": "Parque Fuente de la Salud",
+                "ro": "Parque Fuente de la Salud",
+                "en": "Parque Fuente de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das frische Grün des Parks nach dem Regen, aber bleiben Sie auf den befestigten Wegen, um Pfützen zu vermeiden; wasserfeste Schuhe sind hier sehr empfehlenswert.",
+                "hu": "Élvezze a park friss zöldjét az eső után, de maradjon a burkolt utakon, hogy elkerülje a tócsákat; a vízálló lábbeli viselése itt kifejezetten ajánlott a kényelem érdekében.",
+                "ro": "Bucurați-vă de verdeața proaspătă a parcului după ploaie, dar rămâneți pe potecile pavate pentru a evita bălțile; încălțămintea impermeabilă este foarte recomandată aici.",
+                "en": "Enjoy the fresh greenery of the park after the rain, but stay on the paved paths to avoid deep puddles; wearing waterproof shoes is highly recommended for your comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala de Exposiciones",
+                "hu": "Sala de Exposiciones",
+                "ro": "Sala de Exposiciones",
+                "en": "Sala de Exposiciones"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diese Galerie als trockenen Zufluchtsort, um lokale Ausstellungen in aller Ruhe zu betrachten; schütteln Sie Ihren nassen Regenschirm am Eingang gründlich ab.",
+                "hu": "Használja ezt a galériát száraz menedékként, ahol nyugodtan megtekintheti a helyi kiállításokat; a bejáratnál rázza le alaposan az esernyőjét, mielőtt belépne a terembe.",
+                "ro": "Folosiți această galerie ca un refugiu uscat pentru a vedea expozițiile locale în liniște; scuturați-vă bine umbrela udă la intrare înainte de a păși în spațiul expozițional.",
+                "en": "Use this gallery as a dry sanctuary to view local exhibitions at your own pace; make sure to shake off your wet umbrella thoroughly at the entrance before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio El Torreón",
+                "hu": "Auditorio El Torreón",
+                "ro": "Auditorio El Torreón",
+                "en": "Auditorio El Torreón"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Architektur des Auditoriums von den überdachten Bereichen aus; achten Sie auf die Stufen, da der Stein bei Nässe extrem rutschig sein kann.",
+                "hu": "Csodálja meg az auditórium lenyűgöző építészetét a fedett részekről; ügyeljen a lépcsőkre és a kövezetre, mert nedvesen rendkívül csúszós és balesetveszélyes lehet.",
+                "ro": "Admirați arhitectura impresionantă a auditoriului din zonele acoperite; aveți grijă la trepte, deoarece piatra poate fi extrem de alunecoasă când este umedă.",
+                "en": "Admire the impressive architecture of the auditorium from the sheltered sections; be careful on the steps, as the stone can be extremely slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia Nuestra Señora del Carmen",
+                "hu": "Parroquia Nuestra Señora del Carmen",
+                "ro": "Parroquia Nuestra Señora del Carmen",
+                "en": "Parroquia Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie spirituelle Ruhe in der Kirche, während Sie dem sanften Trommeln des Regens lauschen; ein idealer Ort, um die Kleidung vor dem Heimweg kurz zu trocknen.",
+                "hu": "Keressen lelki békét a templom falai között, miközben hallgatja az eső halk kopogását; ideális hely egy rövid pihenőre, hogy megszárítsa ruháit a hazaindulás előtt.",
+                "ro": "Căutați liniștea spirituală în biserică în timp ce ascultați ropotul blând al ploii; un loc ideal pentru a vă usca hainele înainte de a pleca spre casă.",
+                "en": "Find spiritual peace inside the church while listening to the gentle drumming of the rain; an ideal spot to dry your clothes briefly before heading back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Den kalten Morgen verbringen wir im beheizten Kulturzentrum. Mittags machen wir einen kurzen Spaziergang an der frischen Luft im Park. Am Nachmittag besuchen wir schnell die Sehenswürdigkeiten, bevor es gegen 17:00 Uhr dunkel wird. Den Abend genießen wir im warmen Licht der Kirche, geschützt vor dem Winterwind.",
+            "hu": "A hideg reggelt a fűtött kulturális központban indítjuk, élvezve a modern művészetet. Délben egy gyors sétát teszünk a friss levegőn a parkban, mielőtt újra beltérre vonulnánk. Délután sietve keressük fel a látnivalókat, mert 17:00 körül már sötétedik. Az estét a templom meghitt fényeiben töltjük, védve a téli szél elől.",
+            "ro": "Începem dimineața rece în centrul cultural încălzit, admirând arta modernă. La prânz facem o scurtă plimbare în aer liber prin parc înainte de a intra din nou la căldură. După-amiaza vizităm rapid obiectivele, deoarece se întunecă în jurul orei 17:00. Încheiem seara în lumina caldă a bisericii, feriți de vântul de iarnă.",
+            "en": "Spend the cold morning in the heated cultural center enjoying modern art. At noon, take a brisk walk in the park before heading back indoors. In the afternoon, visit the remaining sights quickly before the 17:00 sunset. Enjoy the evening in the cozy light of the church, protected from the biting winter wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuevo Centro Cultural",
+                "hu": "Nuevo Centro Cultural",
+                "ro": "Nuevo Centro Cultural",
+                "en": "Nuevo Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den modernen Innenräumen auf, während Sie die wechselnden Kunstausstellungen bewundern; die Garderobe bietet Platz für schwere Wintermäntel.",
+                "hu": "Melegedjen fel a modern belső terekben, miközben megcsodálja az időszaki művészeti kiállításokat; a ruhatárban biztonságban leteheti a nehéz téli kabátokat is.",
+                "ro": "Încălziți-vă în spațiile interioare moderne în timp ce admirați expozițiile de artă; garderoba oferă loc suficient pentru haine grele de iarnă și accesorii.",
+                "en": "Warm up in the modern interior spaces while admiring the rotating art exhibitions; the cloakroom provides a convenient place to leave your heavy winter coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Fuente de la Salud",
+                "hu": "Parque Fuente de la Salud",
+                "ro": "Parque Fuente de la Salud",
+                "en": "Parque Fuente de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang durch den winterlichen Park regt den Kreislauf an und bietet klare Luft; tragen Sie Schal und Handschuhe, da der Wind hier recht schneidend sein kann.",
+                "hu": "Egy tempós séta a téli parkban felpezsdíti a vérkeringést és friss levegőt biztosít; viseljen sálat és kesztyűt, mert a szél itt gyakran éles és metsző lehet.",
+                "ro": "O plimbare vioaie prin parcul de iarnă stimulează circulația și oferă aer curat; purtați fular și mănuși, deoarece vântul poate fi destul de tăios în această zonă.",
+                "en": "A brisk walk through the winter park will boost your circulation and offer fresh air; wear a scarf and gloves, as the wind can be quite sharp in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala de Exposiciones",
+                "hu": "Sala de Exposiciones",
+                "ro": "Sala de Exposiciones",
+                "en": "Sala de Exposiciones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Wärme in diesem geschlossenen Raum, perfekt um der Mittagskälte zu entfliehen; die helle Beleuchtung hilft gegen den winterlichen Lichtmangel.",
+                "hu": "Élvezze a kulturális pezsgést ebben a zárt térben, ami tökéletes a déli hideg elől való meneküléshez; a fényes világítás segít elűzni a téli szürkeséget is.",
+                "ro": "Bucurați-vă de căldura culturală în acest spațiu închis, perfect pentru a scăpa de frigul amiezii; iluminarea puternică ajută la combaterea asteniei de iarnă.",
+                "en": "Enjoy the cultural warmth in this enclosed space, perfect for escaping the midday chill; the bright lighting helps to boost your mood against the winter gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio El Torreón",
+                "hu": "Auditorio El Torreón",
+                "ro": "Auditorio El Torreón",
+                "en": "Auditorio El Torreón"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Bauwerk im klaren Winterlicht, wenn die architektonischen Linien besonders scharf wirken; nutzen Sie die Zeit vor 17:00 Uhr für gute Fotos.",
+                "hu": "Tekintse meg az építményt a tiszta téli fényben, amikor az építészeti vonalak különösen élesen látszanak; használja ki az időt 17:00 előtt a legjobb fotók készítéséhez.",
+                "ro": "Admirați structura în lumina clară de iarnă, când liniile arhitecturale par deosebit de clare; profitați de timpul înainte de ora 17:00 pentru fotografii reușite.",
+                "en": "View the structure in the crisp winter light, when the architectural lines appear especially sharp; make sure to take your photos before the sun sets at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia Nuestra Señora del Carmen",
+                "hu": "Parroquia Nuestra Señora del Carmen",
+                "ro": "Parroquia Nuestra Señora del Carmen",
+                "en": "Parroquia Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der beheizten Stille der Kirche, während draußen die winterliche Dunkelheit hereinbricht; die Kerzenlichter schaffen eine besonders warme Atmosphäre.",
+                "hu": "Zárja a napot a templom fűtött csendjében, miközben kint leszáll a téli sötétség; a gyertyák fénye ilyenkor különösen meghitt és meleg hangulatot áraszt a térben.",
+                "ro": "Încheiați ziua în liniștea bisericii, în timp ce afară se lasă întunericul de iarnă; lumina lumânărilor creează o atmosferă deosebit de caldă și primitoare.",
+                "en": "Finish your day in the heated silence of the church as winter darkness falls outside; the candlelight creates an especially warm and cozy atmosphere indoors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a lenyűgöző Torre Dragonánál kezdődik, ahol a reggeli fények különleges hangulatot adnak. Délben a Nuevo Centro Cultural felé tekerünk, hogy helyi művészetet csodáljunk. Délután felfedezzük az Escenariót, és élvezzük a Mirador panorámáját. A túrát az Iglesia de Santa María de Caná épületénél és a madridi horizont megtekintésével fejezzük be.",
         "ro": "Aventura pe bicicletă începe la impresionanta Torre Dragona, captând lumina dimineții pe zidurile ei. La prânz, pedalați spre Nuevo Centro Cultural pentru a admira arta locală. După-amiaza, explorați spațiul deschis Escenario și savurați priveliștea de la Mirador Cerro de los Perdigones. Terminăm traseul la Iglesia de Santa María de Caná, admirând panorama Madridului.",
         "en": "Your cycling adventure begins at the striking Torre Dragona, capturing the morning light against its historic walls. By midday, pedal towards the vibrant Nuevo Centro Cultural to soak in some local artistic expression. In the afternoon, explore the open public space of Escenario before catching breathtaking views from the Mirador. We finish by watching the Madrid skyline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen starten wir an der Torre Dragona, ausgestattet mit Schutzblechen gegen die Nässe. Mittags trocknen wir uns im Kulturzentrum kurz ab. Am Nachmittag steuern wir die Aussichtspunkte an, bremsen aber vorsichtig auf dem nassen Asphalt. Den Abend beenden wir an der beleuchteten Kirche, während der Regen die Stadt in Glanz hüllt.",
+            "hu": "Reggel a Torre Dragona romjai közt kezdünk, sárvédővel felszerelve a vizes utak ellen. Délben a kulturális központban szárítkozunk meg egy kicsit. Délután a kilátópontok felé veszük az irányt, de a lejtőkön óvatosan fékezzünk a vizes aszfalton. Este a kivilágított templomhoz érkezünk, ahol az esőfüggöny mögül csodáljuk a várost.",
+            "ro": "Dimineața începem la Torre Dragona, echipați cu apărători pentru noroi împotriva drumurilor ude. La prânz ne uscăm puțin în centrul cultural. După-amiaza ne îndreptăm spre punctele de belvedere, dar frânăm cu atenție pe asfaltul umed. Încheiem seara la biserica iluminată, admirând orașul prin perdeaua de ploaie.",
+            "en": "Start the morning at Torre Dragona, equipped with mudguards against the wet roads. At noon, take a break to dry off inside the cultural center. In the afternoon, head to the viewpoints but brake carefully on the slippery asphalt slopes. Finish the evening at the illuminated church, watching the city through the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Dragona",
+                "hu": "Torre Dragona",
+                "ro": "Torre Dragona",
+                "en": "Torre Dragona"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ruinen im Regen, die eine mystische Atmosphäre ausstrahlen; prüfen Sie Ihre Bremsen vor der Abfahrt, da der Weg vom Hügel rutschig sein kann.",
+                "hu": "Csodálja meg a romokat az esőben, melyek ilyenkor misztikus hangulatot árasztanak; ellenőrizze a fékeket indulás előtt, mert a dombról lefelé vezető út csúszós lehet.",
+                "ro": "Admirați ruinele în ploaie, care emană o atmosferă mistică; verificați frânele înainte de plecare, deoarece drumul de coborâre de pe deal poate fi foarte alunecos.",
+                "en": "Admire the ruins in the rain, which creates a mystical atmosphere; check your brakes before starting your journey, as the path downhill can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuevo Centro Cultural",
+                "hu": "Nuevo Centro Cultural",
+                "ro": "Nuevo Centro Cultural",
+                "en": "Nuevo Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für einen trockenen Rundgang durch die Galerie; parken Sie Ihr Fahrrad an einem überdachten Ständer, um den Sattel vor Nässe zu schützen.",
+                "hu": "Használja ki a megállót egy száraz sétára a galériában; parkolja le kerékpárját egy fedett tárolóban, hogy megóvja a nyerget a teljes átázástól.",
+                "ro": "Profitați de această oprire pentru un tur uscat al galeriei; parcați bicicleta într-un suport acoperit pentru a proteja șaua de umezeală pe durata vizitei.",
+                "en": "Take advantage of this stop for a dry tour of the gallery; park your bike in a covered rack to keep the seat dry while you explore the indoor exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Escenario",
+                "hu": "Escenario",
+                "ro": "Escenario",
+                "en": "Escenario"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Bühne kurz vom Rad aus, ohne lange im Regen zu stehen; suchen Sie unter den nahen Vordächern Schutz, falls ein heftiger Schauer einsetzt.",
+                "hu": "Tekintse meg a színpadot röviden a nyeregből, ne időzzön sokat a szakadó esőben; keressen menedéket a közeli előtetők alatt, ha hirtelen felerősödne a zápor.",
+                "ro": "Vizitați scena scurt din mers, fără a sta mult în ploaie; căutați adăpost sub copertinele din apropiere dacă începe o aversă puternică de ploaie.",
+                "en": "View the stage briefly from your bike without standing long in the rain; look for shelter under nearby awnings if a sudden heavy shower starts during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Cerro de los Perdigones",
+                "hu": "Mirador Cerro de los Perdigones",
+                "ro": "Mirador Cerro de los Perdigones",
+                "en": "Mirador Cerro de los Perdigones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das graue Madrid; tragen Sie eine gute Regenjacke, da der Wind am Aussichtspunkt die Kälte der Nässe verstärkt.",
+                "hu": "Élvezze a drámai kilátást a szürke Madridra; viseljen jó minőségű esőkabátot, mert a kilátónál fújó szél felerősítheti a nedvesség okozta hidegérzetet.",
+                "ro": "Bucurați-vă de vederea dramatică asupra Madridului gri; purtați o pelerină de ploaie de calitate, deoarece vântul de la belvedere poate intensifica senzația de frig.",
+                "en": "Enjoy the dramatic view over a grey Madrid; wear a high-quality raincoat, as the wind at the viewpoint can significantly increase the chilling effect of the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de Caná",
+                "hu": "Iglesia de Santa María de Caná",
+                "ro": "Iglesia de Santa María de Caná",
+                "en": "Iglesia de Santa María de Caná"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die Kirche für eine besinnliche Pause im Trockenen; wischen Sie Ihre Brille oder Kamera ab, bevor Sie die beeindruckende Innenarchitektur fotografieren.",
+                "hu": "Térjen be a templomba egy megnyugtató, száraz szünetre; törölje le a szemüvegét vagy a lencséket, mielőtt lefotózná a lenyűgöző belső építészeti megoldásokat.",
+                "ro": "Intrați în biserică pentru o pauză liniștită la uscat; ștergeți-vă ochelarii sau lentilele camerei înainte de a fotografia arhitectura interioară impresionantă.",
+                "en": "Step inside the church for a peaceful, dry break; make sure to wipe your glasses or camera lens before photographing the stunning interior architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Vista panorámica Madrid",
+                "hu": "Vista panorámica Madrid",
+                "ro": "Vista panorámica Madrid",
+                "en": "Vista panorámica Madrid"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Lichter der Stadt im Regen verschwimmen; achten Sie auf glatte Markierungen auf der Straße, wenn Sie zum Ziel Ihrer Tour fahren.",
+                "hu": "Figyelje meg, ahogy a város fényei elmosódnak az esőben; ügyeljen az útfestésekre és a síkos jelzésekre, miközben a túra végállomása felé kerékpározik.",
+                "ro": "Observați cum luminile orașului se estompează în ploaie; aveți grijă la marcajele rutiere alunecoase în timp ce pedalați spre finalul turului dumneavoastră.",
+                "en": "Watch how the city lights blur beautifully in the rain; be careful of slippery road markings as you cycle towards the final destination of your tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Morgen brechen wir in Schichten und mit warmen Handschuhen auf. Mittags wärmen wir uns im Kulturzentrum zwischen zwei Stopps auf. Am Nachmittag genießen wir das Panorama in der klaren Winterluft, müssen aber auf den frühen Sonnenuntergang achten. Bei Einbruch der Dunkelheit erreichen wir die Kirche.",
+            "hu": "Fagyos reggelen vágunk neki az útnak, réteges öltözetben és meleg kesztyűben. Délben a kulturális központban melegszünk fel két megálló között. Délután a panorámát élvezzük a tiszta téli levegőben, de figyelnünk kell a korai naplementére. Mire leszáll az est, már a templomnál járunk, mielőtt a hőmérséklet hirtelen visszaesne.",
+            "ro": "Într-o dimineață geroasă pornim la drum echipați cu haine groase și mănuși. La prânz ne încălzim în centrul cultural între două opriri. După-amiaza admirăm panorama în aerul curat de iarnă, dar trebuie să fim atenți la apusul timpuriu. La lăsarea serii ajungem la biserică, înainte ca temperatura să scadă brusc.",
+            "en": "Start on a frosty morning dressed in layers with warm gloves. At noon, warm up inside the cultural center between stops. In the afternoon, enjoy the panorama in the crisp winter air, but keep an eye on the early sunset. By the time darkness falls, we reach the church before the temperature drops sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Dragona",
+                "hu": "Torre Dragona",
+                "ro": "Torre Dragona",
+                "en": "Torre Dragona"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen in der klaren Winterluft; tragen Sie windfeste Handschuhe, da die Hände beim Bergauffahren schnell auskühlen können.",
+                "hu": "Fedezze fel a történelmi romokat a tiszta téli levegőben; viseljen szélálló kesztyűt, mert a dombra felfelé menet a kezei nagyon hamar lehűlhetnek a menetszéltől.",
+                "ro": "Explorați ruinele istorice în aerul curat de iarnă; purtați mănuși rezistente la vânt, deoarece mâinile se pot răci foarte repede în timpul urcării pe deal.",
+                "en": "Explore the historical ruins in the crisp winter air; wear windproof gloves, as your hands can cool down very quickly while cycling uphill against the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuevo Centro Cultural",
+                "hu": "Nuevo Centro Cultural",
+                "ro": "Nuevo Centro Cultural",
+                "en": "Nuevo Centro Cultural"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Innenraum für eine Pause vom kalten Fahrtwind; trinken Sie im Café etwas Heißes, um Ihre Körpertemperatur wieder zu regulieren.",
+                "hu": "Használja ezt a meleg belső teret egy kis pihenőre a hideg menetszél után; igyon egy forró italt a kávézóban, hogy visszaállítsa a testhőmérsékletét.",
+                "ro": "Folosiți acest spațiu interior cald pentru o pauză de la vântul rece; beți ceva fierbinte la cafenea pentru a vă regla temperatura corpului după pedalat.",
+                "en": "Use this warm interior space for a break from the cold wind; have a hot drink at the café to help regulate your body temperature after your cycling stint."
+              }
+            },
+            {
+              "name": {
+                "de": "Escenario",
+                "hu": "Escenario",
+                "ro": "Escenario",
+                "en": "Escenario"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp an der Bühne reicht aus, bevor Sie weiterfahren, um in Bewegung zu bleiben; achten Sie auf tiefstehende Sonne, die blenden kann.",
+                "hu": "Egy rövid fotómegálló a színpadnál éppen elég, mielőtt továbbtekerne, hogy mozgásban maradjon; ügyeljen az alacsonyan járó napra, amely elvakíthat menet közben.",
+                "ro": "O scurtă oprire pentru fotografii la scenă este suficientă înainte de a continua pedalatul pentru a rămâne în mișcare; atenție la soarele jos care vă poate orbi.",
+                "en": "A brief photo stop at the stage is enough before you keep cycling to stay active and warm; watch out for the low winter sun which can be quite blinding."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Cerro de los Perdigones",
+                "hu": "Mirador Cerro de los Perdigones",
+                "ro": "Mirador Cerro de los Perdigones",
+                "en": "Mirador Cerro de los Perdigones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das weite Panorama, das im Winter oft besonders klar ist; halten Sie sich nicht zu lange auf, da der Wind hier oben deutlich kälter weht.",
+                "hu": "Élvezze a tágas panorámát, amely télen gyakran különösen tiszta és éles; ne időzzön túl sokat, mert a dombtetőn a szél érezhetően hidegebben fúj.",
+                "ro": "Bucurați-vă de panorama vastă, care iarna este adesea deosebit de clară; nu zăboviți prea mult, deoarece vântul de pe deal suflă mult mai rece.",
+                "en": "Enjoy the vast panorama, which is often particularly clear during the winter; don't stay too long as the wind blows significantly colder up on the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de Caná",
+                "hu": "Iglesia de Santa María de Caná",
+                "ro": "Iglesia de Santa María de Caná",
+                "en": "Iglesia de Santa María de Caná"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Kirche auf, bevor die Sonne untergeht; das goldene Licht des späten Nachmittags lässt die Ziegelwände besonders warm erstrahlen.",
+                "hu": "Melegedjen fel a templomban, mielőtt a nap végleg lebukna a horizont alá; a késő délutáni súrolófények melegen világítják meg a vörös téglafalakat.",
+                "ro": "Încălziți-vă în biserică înainte ca soarele să apună de tot; lumina de aur a amiezii târzii face ca pereții de cărămidă să strălucească cald.",
+                "en": "Warm up inside the church before the sun fully sets; the golden late afternoon light makes the brick walls glow with a beautiful, warm radiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Vista panorámica Madrid",
+                "hu": "Vista panorámica Madrid",
+                "ro": "Vista panorámica Madrid",
+                "en": "Vista panorámica Madrid"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Lichtermeer von Madrid in der frühen Dunkelheit um 17:00 Uhr; schalten Sie unbedingt Ihre Fahrradbeleuchtung für den Rückweg ein.",
+                "hu": "Élje át Madrid fényeinek látványát a korán, már 17:00 körül leszálló sötétségben; feltétlenül kapcsolja be a kerékpár lámpáit a biztonságos visszatéréshez.",
+                "ro": "Experimentați marea de lumini a Madridului în întunericul care se lasă devreme, la ora 17:00; porniți obligatoriu luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Experience the sea of Madrid's lights in the early darkness starting around 17:00; make sure to turn on your bike lights for a safe journey back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós útját a Zoo Aquarium de Madrid lenyűgöző világában kezdi. Dél körül a Vista panorámica Madridhoz hajtunk, ahonnan a főváros sziluettje látható, majd az Iglesia de Santa María de Caná templomnál pihenünk meg. A délután az Eucalipto Rojo és a Parroquia Nuestra Señora del Carmen kettősét kínálja. Zárja a napot a Parque Fuente de la Salud zöldjében és végül a történelmi Torre Dragonánál.",
         "ro": "Începeți traseul cu mașina printr-o dimineață captivantă la Zoo Aquarium de Madrid. La prânz, conduceți spre Vista panorámica Madrid pentru a vedea orizontul capitalei, apoi opriți la Iglesia de Santa María de Caná. După-amiaza oferă un amestec de istorie și natură la Eucalipto Rojo și Parroquia Nuestra Señora del Carmen. Încheiați ziua relaxant în Parque Fuente de la Salud și la Torre Dragona.",
         "en": "Start your driving itinerary with a thrilling morning at the Zoo Aquarium de Madrid, perfect for discovering exotic wildlife. Drive east around midday to gaze out at the capital's skyline from the Vista panorámica before a quiet stop at the Iglesia de Santa María. The afternoon offers a mix of history and nature at the historic Eucalipto Rojo and the Parroquia. Conclude with a relaxing park walk and the Torre Dragona."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen starten wir im Aquarium, wo wir völlig vor dem Regen geschützt sind. Mittags fahren wir zum Aussichtspunkt und beobachten die Stadt durch die Scheiben. Am Nachmittag besuchen wir die Kirchen und den Eukalyptusbaum mit kurzen Wegen vom Parkplatz. Den Abend beenden wir im sicheren, trockenen Auto an der Torre Dragona.",
+            "hu": "Reggel az akváriumban kezdünk, ahol teljesen védve vagyunk az esőtől a tengeri világban. Délben a kilátóhoz hajtunk, a kocsi ablakán át figyelve a várost. Délután a templomokat és az öreg eukaliptuszt látogatjuk meg, rövid sétákkal a parkolótól. Este a Torre Dragona sötét sziluettjével zárjuk a napot a biztonságos, száraz utastérből.",
+            "ro": "Dimineața începem la acvariu, unde suntem complet protejați de ploaie. La prânz conducem spre belvedere, observând orașul prin geamurile mașinii. După-amiaza vizităm bisericile și eucaliptul, cu scurte plimbări de la parcare. Încheiem ziua la Torre Dragona, din habitaclul sigur și uscat al mașinii.",
+            "en": "Start the morning at the aquarium, fully protected from the rain while exploring the marine world. At noon, drive to the viewpoint and watch the city through the car windows. In the afternoon, visit the churches and the old eucalyptus with short walks from the parking. Finish the day at Torre Dragona from your dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoo Aquarium de Madrid",
+                "hu": "Zoo Aquarium de Madrid",
+                "ro": "Zoo Aquarium de Madrid",
+                "en": "Zoo Aquarium de Madrid"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den regnerischen Vormittag in den überdachten Pavillons; nutzen Sie die Tiefgarage, um trocken direkt ins Gebäude zu gelangen.",
+                "hu": "Töltse az esős délelőttöt a fedett pavilonokban; használja a mélygarázst vagy a közeli parkolót, hogy szárazon jusson be közvetlenül az épületbe.",
+                "ro": "Petreceți dimineața ploioasă în pavilioanele acoperite; folosiți parcarea subterană sau cea apropiată pentru a intra direct în clădire fără să vă udați.",
+                "en": "Spend your rainy morning in the indoor pavilions; use the underground parking or a nearby spot to enter the building directly and stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Vista panorámica Madrid",
+                "hu": "Vista panorámica Madrid",
+                "ro": "Vista panorámica Madrid",
+                "en": "Vista panorámica Madrid"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick gemütlich vom Auto aus; lassen Sie die Scheibenwischer kurz laufen, um eine klare Sicht auf das verregnete Madrid zu haben.",
+                "hu": "Élvezze a panorámát kényelmesen az autóból; járassa meg a ablaktörlőket egy pillanatra, hogy tiszta kilátása legyen az eső áztatta Madridra.",
+                "ro": "Bucurați-vă de panoramă confortabil din mașină; porniți ștergătoarele pentru o clipă pentru a avea o vedere clară asupra Madridului udat de ploaie.",
+                "en": "Enjoy the panorama comfortably from your car; run the wipers for a moment to get a clear, unobstructed view of the rain-soaked Madrid skyline."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de Caná",
+                "hu": "Iglesia de Santa María de Caná",
+                "ro": "Iglesia de Santa María de Caná",
+                "en": "Iglesia de Santa María de Caná"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Kirche für einen kurzen Weg ins Trockene; bewundern Sie die modernen Ziegelstrukturen, die im Regen dunkler und kräftiger wirken.",
+                "hu": "Parkoljon közvetlenül a templom előtt a rövid, száraz bejutás érdekében; csodálja meg a modern téglafalakat, melyek az esőben sötétebbnek és teltebbnek tűnnek.",
+                "ro": "Parcați direct în fața bisericii pentru un acces scurt și uscat; admirați structurile moderne de cărămidă care par mai închise și intense în ploaie.",
+                "en": "Park directly in front of the church for short, dry access; admire the modern brick structures, which appear darker and more saturated in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Eucalipto Rojo",
+                "hu": "Eucalipto Rojo",
+                "ro": "Eucalipto Rojo",
+                "en": "Eucalipto Rojo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den imposanten Baum durch das Autofenster; der intensive Duft des Eukalyptus ist bei feuchtem Regenwetter besonders stark und erfrischend.",
+                "hu": "Tekintse meg az impozáns fát az autó ablakán keresztül; az eukaliptusz intenzív illata a párás, esős időben különösen erős és frissítő hatású.",
+                "ro": "Admirați copacul impozant prin geamul mașinii; parfumul intens de eucalipt este deosebit de puternic și revigorant în timpul vremii umede și ploioase.",
+                "en": "View the imposing tree through your car window; the intense scent of eucalyptus is especially strong and refreshing during damp, rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia Nuestra Señora del Carmen",
+                "hu": "Parroquia Nuestra Señora del Carmen",
+                "ro": "Parroquia Nuestra Señora del Carmen",
+                "en": "Parroquia Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zwischenstopp, um dem Regen für einen Moment der Stille zu entfliehen; achten Sie beim Aussteigen auf Pfützen in der Nähe der Parkbuchten.",
+                "hu": "Ideális megálló, hogy egy pillanatra elmeneküljön az eső elől a csendbe; kiszálláskor ügyeljen a parkolóhelyek környékén kialakuló mélyebb tócsákra.",
+                "ro": "O oprire ideală pentru a scăpa de ploaie pentru un moment de liniște; la coborâre, atenție la bălțile formate în apropierea locurilor de parcare.",
+                "en": "An ideal stop to escape the rain for a moment of quiet reflection; watch out for deep puddles near the parking bays when getting out of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Fuente de la Salud",
+                "hu": "Parque Fuente de la Salud",
+                "ro": "Parque Fuente de la Salud",
+                "en": "Parque Fuente de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die angrenzenden Straßen, um das Grün zu genießen; bei einem kurzen Spaziergang bieten die dichten Bäume einen gewissen Regenschutz.",
+                "hu": "Hajtson lassan a szomszédos utcákon, hogy élvezze a park látványát; egy rövid séta esetén a sűrű lombok némi természetes védelmet nyújtanak az eső ellen.",
+                "ro": "Conduceți încet pe străzile adiacente pentru a vă bucura de parcul verde; la o scurtă plimbare, frunzișul des oferă o oarecare protecție împotriva ploii.",
+                "en": "Drive slowly through the adjacent streets to enjoy the green views; if you take a quick walk, the dense canopy offers some natural protection from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Dragona",
+                "hu": "Torre Dragona",
+                "ro": "Torre Dragona",
+                "en": "Torre Dragona"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die beleuchteten Ruinen vom warmen Auto aus; die nassen Steine reflektieren das Licht der Scheinwerfer auf eine ganz besondere Weise.",
+                "hu": "Figyelje meg a kivilágított romokat a meleg autóból; a vizes kövek különleges módon verik vissza a fényszórók és a közvilágítás fényeit az éjszakában.",
+                "ro": "Observați ruinele iluminate din mașina caldă; pietrele ude reflectă lumina farurilor într-un mod deosebit în timpul serii ploioase.",
+                "en": "Observe the illuminated ruins from your warm car; the wet stones reflect the headlights and streetlights in a unique way during a rainy evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto starten wir den Tag im Zoo. Mittags genießen wir den Blick auf Madrid bei strahlendem, aber kaltem Sonnenschein. Am Nachmittag besuchen wir die Kirchen, bevor es um 17:00 Uhr dunkel wird. Wir beenden den Tag an den beleuchteten Stadtmauern und genießen die winterliche Atmosphäre.",
+            "hu": "A fűtött autó kényelmében indulunk az állatkertbe ezen a csípős téli reggelen. Délben a kilátópontról nézzük meg a távoli Madridot a ragyogó, de hideg napsütésben. Délután sorra vesszük a helyi templomokat, még mielőtt 17:00-kor teljesen besötétedne. A napot a kivilágított várfalaknál fejezzük be, élvezve a téli város hangulatát.",
+            "ro": "În confortul mașinii încălzite pornim spre grădina zoologică în această dimineață geroasă. La prânz admirăm Madridul de la belvedere în soarele strălucitor, dar rece. După-amiaza vizităm bisericile locale înainte de ora 17:00. Încheiem ziua la zidurile iluminate, bucurându-ne de atmosfera de iarnă.",
+            "en": "In the comfort of a heated car, start your day at the zoo on this crisp winter morning. At noon, admire the distant Madrid from the viewpoint in the bright but cold sunshine. In the afternoon, visit the local churches before it gets dark at 17:00. Finish the day at the illuminated walls, enjoying the winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoo Aquarium de Madrid",
+                "hu": "Zoo Aquarium de Madrid",
+                "ro": "Zoo Aquarium de Madrid",
+                "en": "Zoo Aquarium de Madrid"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenbereiche des Aquariums, um der Morgenkälte zu entfliehen; im Winter sind die Besucherzahlen oft geringer und es ist ruhiger.",
+                "hu": "Használja ki az akvárium fűtött beltéri részeit, hogy elmeneküljön a reggeli hideg elől; télen gyakran kevesebb a látogató, így nyugodtabban nézelődhet.",
+                "ro": "Profitați de zonele interioare încălzite ale acvariului pentru a scăpa de frigul dimineții; iarna sunt adesea mai puțini vizitatori și este mult mai liniște.",
+                "en": "Take advantage of the heated indoor sections of the aquarium to escape the morning chill; winter often sees fewer crowds, allowing for a more peaceful visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Vista panorámica Madrid",
+                "hu": "Vista panorámica Madrid",
+                "ro": "Vista panorámica Madrid",
+                "en": "Vista panorámica Madrid"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet heute eine fantastische Fernsicht auf die Skyline; bleiben Sie im Auto, um den Panoramablick ohne den kalten Wind zu genießen.",
+                "hu": "A tiszta téli levegő ma fantasztikus kilátást biztosít a távoli felhőkarcolókra; maradjon az autóban, hogy a hideg szél nélkül élvezhesse a panorámát.",
+                "ro": "Aerul curat de iarnă oferă astăzi o vizibilitate fantastică asupra orizontului; rămâneți în mașină pentru a vă bucura de panoramă fără vântul rece de afară.",
+                "en": "The crisp winter air provides fantastic visibility of the distant skyline today; stay inside the car to enjoy the panoramic views without the biting cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de Caná",
+                "hu": "Iglesia de Santa María de Caná",
+                "ro": "Iglesia de Santa María de Caná",
+                "en": "Iglesia de Santa María de Caná"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die moderne Architektur; ein kurzer Stopp im warmen Innenraum bietet eine angenehme Pause von der Fahrt.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a modern épületre; egy rövid megálló a meleg belső térben kellemes pihenőt nyújt az autózás közben.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi pe arhitectura modernă; o scurtă oprire în interiorul cald oferă o pauză plăcută în timpul călătoriei cu mașina.",
+                "en": "The low winter sun casts long, dramatic shadows across the modern architecture; a short stop in the warm interior provides a pleasant break from driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Eucalipto Rojo",
+                "hu": "Eucalipto Rojo",
+                "ro": "Eucalipto Rojo",
+                "en": "Eucalipto Rojo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den monumentalen Baum im klaren Licht des Nachmittags; die rötliche Rinde leuchtet vor dem blauen Winterhimmel besonders intensiv.",
+                "hu": "Tekintse meg a monumentális fát a délutáni tiszta fényekben; a vöröses kéreg különösen intenzíven ragyog a mélykék téli égbolt előtt ilyenkor.",
+                "ro": "Admirați copacul monumental în lumina clară a după-amiezii; scoarța roșiatică strălucește deosebit de intens pe fundalul cerului albastru de iarnă.",
+                "en": "View the monumental tree in the clear afternoon light; the reddish bark glows particularly intensely against the deep blue winter sky at this time of day."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia Nuestra Señora del Carmen",
+                "hu": "Parroquia Nuestra Señora del Carmen",
+                "ro": "Parroquia Nuestra Señora del Carmen",
+                "en": "Parroquia Nuestra Señora del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang, um die warme Atmosphäre zu genießen; die Heizung im Inneren sorgt für eine angenehme Temperatur.",
+                "hu": "Látogassa meg a templomot röviddel naplemente előtt, hogy élvezze a belső melegséget; a fűtés kellemes hőmérsékletet biztosít az elcsendesedéshez.",
+                "ro": "Vizitați biserica cu puțin timp înainte de apus pentru a vă bucura de căldura interioară; încălzirea oferă o temperatură plăcută pentru un moment de reculegere.",
+                "en": "Visit the church shortly before sunset to enjoy the inner warmth; the heating system ensures a comfortable temperature for a moment of quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Fuente de la Salud",
+                "hu": "Parque Fuente de la Salud",
+                "ro": "Parque Fuente de la Salud",
+                "en": "Parque Fuente de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Parks vom Auto aus; die kahlen Bäume lassen den Blick heute viel weiter schweifen als in den Sommermonaten.",
+                "hu": "Élvezze a téli park nyugalmát az autóból; a kopasz ágak között ilyenkor sokkal messzebbre el lehet látni a parkban, mint a sűrű nyári hónapokban.",
+                "ro": "Bucurați-vă de liniștea parcului de iarnă din mașină; printre ramurile golașe puteți vedea mult mai departe acum decât în lunile dense de vară.",
+                "en": "Enjoy the tranquility of the winter park from your car; through the bare branches, you can see much further today than during the lush summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Dragona",
+                "hu": "Torre Dragona",
+                "ro": "Torre Dragona",
+                "en": "Torre Dragona"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken in der frühen Winterdunkelheit besonders imposant; nutzen Sie das Standlicht Ihres Autos, um die Szenerie für ein Foto sanft zu beleuchten.",
+                "hu": "A romok különösen impozánsan mutatnak a korai téli sötétségben; használja autója helyzetjelzőit, hogy finoman megvilágítsa a látványt egy fotóhoz.",
+                "ro": "Ruinele par deosebit de impunătoare în întunericul timpuriu de iarnă; folosiți luminile de poziție ale mașinii pentru a ilumina discret scena pentru o poză.",
+                "en": "The ruins look particularly imposing in the early winter darkness; use your car's parking lights to gently illuminate the scene for a beautiful photo."
+              }
+            }
+          ]
+        }
       }
     }
   }

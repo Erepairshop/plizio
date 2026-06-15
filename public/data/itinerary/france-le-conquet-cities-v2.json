@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a ria feletti Passerelle-nél, és lépjen a Kermorvan-félsziget vad szépsége felé. Élvezze a friss tengeri levegőt és a panorámát.\nMidday: Fedezze fel a Cromlechet és az Allée couverte-t; ezek az ősi kövek Bretagne történelem előtti meséit suttogják a zord parti hangásban.\nAfternoon: Érje el az ikonikus Kermorvan világítótornyot, és fedezze fel az erőd hatalmas romjait, amelyek a csipkézett partvidéket védik a hullámoktól.\nEvening: Fejezze be gyalogos kalandját a hatalmas Plage des Blancs Sablons strandon, miközben figyeli a lélegzetelállító breton naplementét.",
         "ro": "Morning: Începeți la Passerelle peste ria, pășind spre frumusețea sălbatică a Peninsulei Kermorvan. Bucurați-vă de aerul proaspăt și de priveliștile panoramice.\nMidday: Descoperiți Cromlech-ul și Allée couverte, pietre străvechi ce șoptesc povești despre preistoria Bretaniei în mijlocul vegetației aspre de coastă.\nAfternoon: Ajungeți la iconicul Far Kermorvan și explorați ruinele masive ale Fortului, ce apără coasta dantelată împotriva valurilor feroce ale Atlanticului.\nEvening: Încheiați aventura pe jos relaxându-vă pe imensa Plajă Blancs Sablons, privind cum apusul uluitor pictează orizontul breton.",
         "en": "Morning: Start at the Passerelle over the ria, stepping towards the wild beauty of the Kermorvan Peninsula. Enjoy the fresh maritime air and panoramic views.\nMidday: Discover the ancient Cromlech and the Allée couverte, ancient stones whispering tales of prehistoric Brittany amidst the rugged coastal heathland.\nAfternoon: Reach the iconic Lighthouse Kermorvan and explore the massive ruins of the Fort, guarding the jagged coastline against the fierce Atlantic waves.\nEvening: Conclude your walking adventure relaxing on the expansive Plage des Blancs Sablons, watching the breathtaking Breton sunset paint the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen ist die Brücke neblig und die Gischt der See spürbar. Mittags erkunden wir die Halbinsel Kermorvan im stürmischen Regen. Nachmittags bieten die Festungsmauern Schutz vor dem Wind. Abends wärmen wir uns in den Gassen der Stadt bei einem heißen Getränk auf und lauschen dem Regen.",
+            "hu": "Reggel a ködös hídon kezdünk, ahol a sós pára és az eső illata keveredik. Délben a Kermorvan-félsziget sziklái között keressük az utat a szélben. Délután az erőd falai adnak némi menedéket a zord idő elől. Este a városka szűk utcáin, egy meleg tea mellett pihenünk meg, figyelve a kinti vihart.",
+            "ro": "Dimineața pe pod este mistică, cu ceață și miros de mare. La prânz, explorăm peninsula Kermorvan sub ploaia măruntă și vânt. După-amiaza, zidurile fortului oferă adăpost împotriva rafalelor puternice. Seara, ne retragem pe străzile înguste ale orașului pentru a ne încălzi într-o cafenea primitoare.",
+            "en": "The morning starts with mist on the footbridge and the scent of salt. By noon, we explore the Kermorvan peninsula as the rain intensifies. In the afternoon, the fort's thick walls provide a welcome break from the coastal wind. In the evening, we find shelter in the town's cozy cafes, listening to the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Passerelle",
+                "hu": "Passerelle",
+                "ro": "Passerelle",
+                "en": "Passerelle"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Holzplanken; die Aussicht auf das Ästuar ist bei Regen besonders stimmungsvoll und düster.",
+                "hu": "Vigyázzon a csúszós deszkákra a hídon; az apály és a köd különleges, borongós hangulatot áraszt az esőben, viseljen bakancsot.",
+                "ro": "Atenție la scândurile alunecoase; priveliștea asupra estuarului este foarte dramatică pe ploaie, purtați încălțăminte aderentă.",
+                "en": "Watch your step on the slippery wooden boards; the view of the estuary is incredibly moody and atmospheric in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromlech de Kermorvan",
+                "hu": "Cromlech de Kermorvan",
+                "ro": "Cromlech de Kermorvan",
+                "en": "Cromlech de Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Granit glänzt unter den Wolken; ziehen Sie die Kapuze gegen den peitschenden Küstenregen eng zusammen.",
+                "hu": "A vizes gránittömbök csillognak a szürke ég alatt; húzza szorosra a kapucniját az éles parti szélben és esőben.",
+                "ro": "Granitul umed strălucește sub nori; strângeți gluga bine împotriva ploii de coastă și a vântului tăios dinspre mare.",
+                "en": "The wet granite stones glisten under the dark clouds; keep your hood pulled tight against the lashing coastal drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte",
+                "hu": "Allée couverte",
+                "ro": "Allée couverte",
+                "en": "Allée couverte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Steinstruktur als kurzen Schutz vor dem Wind und stellen Sie sich vor, wie Menschen hier früher Schutz suchten.",
+                "hu": "Használja a kőkori építményt rövid menedékként, és képzelje el, hogyan kerestek itt oltalmat az őskori emberek a vihar elől.",
+                "ro": "Folosiți structura de piatră ca un scurt adăpost împotriva vântului și imaginați-vă cum se protejau oamenii preistorici aici.",
+                "en": "Use the ancient stone structure as a brief shelter from the wind while imagining Neolithic people seeking cover here."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Kermorvan",
+                "hu": "Kermorvan Világítótorony",
+                "ro": "Farul Kermorvan",
+                "en": "Lighthouse Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Turm trotzt dem grauen Nebel; schützen Sie Ihre Kamera unbedingt vor der salzigen und feuchten Meeresbrise.",
+                "hu": "A fehér torony élesen válik el a ködös tájtól; óvja fényképezőgépét a sós párától és a szemerkélő esőtől a sziklákon.",
+                "ro": "Turnul alb străpunge ceața cenușie; protejați-vă aparatul foto de vaporii sărați ai mării și de umiditatea ridicată.",
+                "en": "The white tower cuts through the grey mist; keep your camera equipment protected from the heavy, salty sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Kermorvan",
+                "hu": "Fort de Kermorvan",
+                "ro": "Fort de Kermorvan",
+                "en": "Fort de Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Steinkorridore, um dem Wind zu entfliehen; die dicken Mauern bieten einen natürlichen Schutz vor dem Sturm.",
+                "hu": "Húzódjon be a kőfalak közé a szél elől; az erőd robusztus szerkezete kiváló védelmet nyújt az intenzív záporok ellen.",
+                "ro": "Explorați coridoarele de piatră pentru a scăpa de vânt; zidurile groase oferă un scut natural împotriva furtunii de afară.",
+                "en": "Explore the stone corridors to escape the biting wind; the thick walls provide a natural shield from the Atlantic storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Blancs Sablons",
+                "hu": "Plage des Blancs Sablons",
+                "ro": "Plage des Blancs Sablons",
+                "en": "Plage des Blancs Sablons"
+              },
+              "tip_5lang": {
+                "de": "Der leere Strand wirkt im Regen gewaltig; ein kurzer Spaziergang auf dem festen, nassen Sand ist erfrischend und belebend.",
+                "hu": "Az üres part vadregényes látványt nyújt az esőben; a vizes homokon könnyebb a járás, de viseljen teljesen vízálló bakancsot.",
+                "ro": "Plaja pustie arată spectaculos pe ploaie; o scurtă plimbare pe nisipul umed și tare este revigorantă, dar purtați pelerină.",
+                "en": "The empty beach looks powerful in the rain; a quick walk on the firm wet sand is refreshing if you have waterproof gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft ist erfrischend auf der Brücke. Mittags leuchten die Megalithen in der tiefstehenden Sonne. Am Nachmittag erleben wir das goldene Licht am Leuchtturm, bevor es früh dunkel wird. Gegen 17:00 Uhr kehren wir gemütlich in den warmen Ort zurück.",
+            "hu": "A friss téli levegő átjárja a tüdőt a hídon. Délelőtt a híd felett a fények élesek és tiszták. Délután a világítótoronynál élvezzük a korai aranyórát. Este 5 előtt már sötétedik, így érdemes időben visszatérni a hangulatos és meleg városközpontba.",
+            "ro": "Aerul rece de iarnă pe pod este revigorant. La prânz, pietrele antice strălucesc în soarele palid. După-amiaza, farul oferă o priveliște spectaculoasă în lumina aurie. La ora 17:00, când se întunecă, ne bucurăm de atmosfera caldă din centru.",
+            "en": "Enjoy the crisp winter air on the bridge. At noon, the ancient stones look majestic in the low winter sun. In the afternoon, the lighthouse is bathed in golden light before the early sunset. By 5 PM, head back to the charming town center as darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Passerelle",
+                "hu": "Passerelle",
+                "ro": "Passerelle",
+                "en": "Passerelle"
+              },
+              "tip_5lang": {
+                "de": "Das scharfe Winterlicht eignet sich hervorragend für Fotos; wickeln Sie sich warm gegen die kühle Brise ein.",
+                "hu": "Az éles téli fények kiválóak a fotózáshoz; tekerje szorosan a sálat a nyaka köré a hideg parti szél ellen.",
+                "ro": "Lumina clară de iarnă este excelentă pentru fotografii; înfășurați-vă bine fularul împotriva adierii reci de pe pod.",
+                "en": "The sharp winter light makes for stunning photos; wrap your scarf tight against the cold breeze blowing from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromlech de Kermorvan",
+                "hu": "Cromlech de Kermorvan",
+                "ro": "Cromlech de Kermorvan",
+                "en": "Cromlech de Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten über die Steine; besuchen Sie diesen Ort für die beste Stimmung am Mittag.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a kövekre; látogasson ide dél körül a legszebb fényhatásokért.",
+                "ro": "Soarele jos creează umbre lungi peste pietre; vizitați acest loc la prânz pentru a surprinde cea mai frumoasă atmosferă.",
+                "en": "The low winter sun creates dramatic long shadows across the stones; visit at noon for the best lighting conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte",
+                "hu": "Allée couverte",
+                "ro": "Allée couverte",
+                "en": "Allée couverte"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig; achten Sie auf die feinen Details der Steine im sanften Licht des Dezembers.",
+                "hu": "Télen különösen csendes és békés itt minden; figyelje meg a kövek apró részleteit a lágy decemberi napsütésben.",
+                "ro": "Este deosebit de liniște aici iarna; observați detaliile fine ale pietrelor în lumina blândă a după-amiezi de iarnă.",
+                "en": "It is exceptionally quiet and peaceful here in winter; notice the intricate textures of the stones in the soft light."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Kermorvan",
+                "hu": "Kermorvan Világítótorony",
+                "ro": "Farul Kermorvan",
+                "en": "Lighthouse Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Stunde beginnt früh; seien Sie gegen 15:30 Uhr hier, um das beste Licht am Turm einzufangen.",
+                "hu": "Az aranyóra korán kezdődik télen; érkezzen meg fél 4-re, hogy a legszebb fényekben láthassa a tornyot.",
+                "ro": "Ora de aur începe devreme iarna; fiți aici în jurul orei 15:30 pentru a surprinde cea mai bună lumină pe turn.",
+                "en": "The golden hour starts early in winter; try to be there by 3:30 PM to catch the most beautiful light on the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Kermorvan",
+                "hu": "Fort de Kermorvan",
+                "ro": "Fort de Kermorvan",
+                "en": "Fort de Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist hier beißend kalt; hochwertige Thermoschichten sind für die Erkundung der Ruinen unerlässlich.",
+                "hu": "A szél itt metszően hideg tud lenni; a réteges, meleg öltözet elengedhetetlen a romok alapos felfedezéséhez.",
+                "ro": "Vântul este tăios aici; straturile termice de calitate sunt esențiale pentru a explora ruinele fără a îngheța.",
+                "en": "The wind is biting here in winter; high-quality thermal layers are essential for comfortably exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Blancs Sablons",
+                "hu": "Plage des Blancs Sablons",
+                "ro": "Plage des Blancs Sablons",
+                "en": "Plage des Blancs Sablons"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang gegen 17 Uhr ist atemberaubend; die kalte Luft lässt die Farben am Horizont besonders kräftig wirken.",
+                "hu": "Az 5 órai naplemente lélegzetelállító; a hideg téli levegő miatt a színek még élénkebbek a horizonton.",
+                "ro": "Apusul de la ora 17:00 este spectaculos; aerul rece face ca culorile de la orizont să pară mult mai intense.",
+                "en": "The sunset at 5 PM is breathtaking; the cold air makes the colors pop vividly against the darkening winter sky."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Morning: Kerekezzen a csendes Saint-Michel kápolnához és a Lochrist világítótoronyhoz, hogy megismerje a tengeri örökséget, mielőtt átkel a rián.\nMidday: Élvezze a parti ösvényeken való biciklizést a Redoute des Blancs-Sablons felé, befogadva a sós szelet és a drámai óceáni kilátást.\nAfternoon: Folytassa útját a félszigeten a sztoikus Kermorvan világítótoronyhoz, és álljon meg olyan rejtett öblöknél, mint a Plage de Porz Pabu.\nEvening: Fejezze be a túrát a lenyűgöző Fort de l'Îlette-nél a nyugati peremen, megtapasztalva az Atlanti-óceán nyers erejét, ahogy közeleg az alkonyat.",
         "ro": "Morning: Bicicliți spre liniștita Capelă Saint-Michel și Farul Lochrist pentru a înțelege patrimoniul maritim local, înainte de a traversa estuarul.\nMidday: Bucurați-vă de ciclism pe cărările de coastă spre Redoute des Blancs-Sablons, îmbrățișând briza sărată și priveliștile dramatice ale oceanului.\nAfternoon: Continuați pe peninsulă până la stoicul Far Kermorvan, oprindu-vă la golfuri ascunse precum Plage de Porz Pabu pentru o pauză liniștită.\nEvening: Încheiați cursa la spectaculosul Fort de l'Îlette la marginea vestică, experimentând puterea brută a Atlanticului odată cu apropierea amurgului.",
         "en": "Morning: Pedal to the quiet Chapelle Saint-Michel and Phare de Lochrist to grasp the local maritime heritage before gliding across the ria.\nMidday: Enjoy cycling along the coastal paths towards the Redoute des Blancs-Sablons, embracing the salty breeze and the dramatic ocean vistas.\nAfternoon: Continue up the peninsula to the stoic Lighthouse Kermorvan, stopping by hidden sandy coves like Plage de Porz Pabu for a peaceful break.\nEvening: End your ride at the spectacular Fort de l'Îlette on the western edge, experiencing the raw power of the Atlantic as twilight approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenwegen. Am Morgen besuchen wir die Kapelle unter grauen Wolken. Mittags trotzen wir dem Wind auf der Brücke. Nachmittags suchen wir Schutz in den Festungsruinen, bevor wir am Abend durchnässt, aber zufrieden zurückkehren.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a parti utakon. Reggel a kápolnát keressük fel a szürke fellegek alatt. Délben a széllel dacolunk a hídon. Délután az erődromok közt pihenünk meg, mielőtt este vizesen, de élményekkel tele visszatérnénk.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe potecile de coastă. Dimineața vizităm capela sub norii cenușii. La prânz, înfruntăm vântul pe pod. După-amiaza căutăm adăpost în ruinele fortăreței, iar seara ne întoarcem obosiți, dar mulțumiți.",
+            "en": "Cycling in the rain requires extra caution on the coastal paths. In the morning, visit the chapel under heavy clouds. At noon, battle the wind across the bridge. In the afternoon, find temporary shelter in the fort ruins before returning in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle kann rutschig sein; fahren Sie langsam und prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "A kápolnához vezető út csúszós lehet; hajtson lassan, és ellenőrizze a fékeket az indulás előtt az esőben.",
+                "ro": "Poteca spre capelă poate fi alunecoasă; mergeți încet și verificați frânele înainte de a porni la drum pe ploaie.",
+                "en": "The path to the chapel can be slippery; ride slowly and check your brakes before heading out in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Lochrist",
+                "hu": "Lochrist Világítótorony",
+                "ro": "Farul Lochrist",
+                "en": "Phare de Lochrist"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist hier besonders stark; halten Sie den Lenker fest, wenn Sie an der exponierten Küste stehen.",
+                "hu": "A szél itt különösen erős lehet; fogja szorosan a kormányt a nyitott parti szakaszon a világítótoronynál.",
+                "ro": "Vântul este foarte puternic aici; țineți bine ghidonul pe secțiunea expusă a coastei lângă far.",
+                "en": "The wind can be very strong here; hold your handlebars tight on the exposed coastal stretch near the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle",
+                "hu": "Passerelle",
+                "ro": "Passerelle",
+                "en": "Passerelle"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Brücke ist bei Nässe tückisch; schieben Sie Ihr Rad am besten, um Stürze auf dem Holz zu vermeiden.",
+                "hu": "A keskeny híd trükkös lehet vizesen; a legjobb, ha áttolja a kerékpárt, hogy elkerülje a csúszást a fán.",
+                "ro": "Podul îngust este periculos când e ud; cel mai bine este să mergeți pe lângă bicicletă pentru a evita căzăturile.",
+                "en": "The narrow bridge is tricky when wet; it is safer to walk your bike across to avoid slipping on the wood."
+              }
+            },
+            {
+              "name": {
+                "de": "Redoute des Blancs-Sablons",
+                "hu": "Redoute des Blancs-Sablons",
+                "ro": "Redoute des Blancs-Sablons",
+                "en": "Redoute des Blancs-Sablons"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten einen guten Unterstand; nutzen Sie die Zeit für eine kleine Pause, bis der Schauer nachlässt.",
+                "hu": "Az erődromok jó menedéket nyújtanak; használja ki az időt egy rövid pihenőre, amíg a zápor elvonul.",
+                "ro": "Ruinele oferă un adăpost bun; profitați de ocazie pentru o scurtă pauză până când ploaia se mai potolește.",
+                "en": "The ruins offer good shelter; use this time for a short break until the heavy rain shower passes over."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Kermorvan",
+                "hu": "Kermorvan Világítótorony",
+                "ro": "Farul Kermorvan",
+                "en": "Lighthouse Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es bei starkem Wind, zu nah an die Klippenkante zu treten; die Böen können unberechenbar sein.",
+                "hu": "Erős szélben kerülje a sziklák szélét; a széllökések kiszámíthatatlanok lehetnek a kerékpárosok számára.",
+                "ro": "Evitați să vă apropiați prea mult de marginea stâncilor pe vânt puternic; rafalele pot fi imprevizibile.",
+                "en": "Avoid getting too close to the cliff edge in high winds; gusts can be unpredictable for cyclists on the move."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Porz Pabu",
+                "hu": "Plage de Porz Pabu",
+                "ro": "Plaja Porz Pabu",
+                "en": "Plage de Porz Pabu"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; achten Sie auf den Grip Ihrer Reifen und meiden Sie tiefe Pfützen.",
+                "hu": "A lejáró sáros lehet; ügyeljen a gumik tapadására, és kerülje a mély tócsákat a strand közelében.",
+                "ro": "Accesul poate fi noroios; atenție la aderența anvelopelor și evitați bălțile adânci din apropierea plajei.",
+                "en": "The access path can be muddy; check your tire grip and avoid deep puddles near the beach entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de l'Îlette",
+                "hu": "Fort de l'Îlette",
+                "ro": "Fort de l'Îlette",
+                "en": "Fort de l'Îlette"
+              },
+              "tip_5lang": {
+                "de": "Gezeiten und Regen machen die Felsen sehr rutschig; bleiben Sie auf den markierten Wegen und seien Sie vorsichtig.",
+                "hu": "Az árapály és az eső nagyon csúszóssá teszi a sziklákat; maradjon a kijelölt utakon és legyen óvatos.",
+                "ro": "Mareea și ploaia fac stâncile foarte alunecoase; rămâneți pe potecile marcate și fiți extrem de prudenți.",
+                "en": "Tides and rain make the rocks very slippery; stay on the marked paths and exercise extreme caution here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Radfahren belebend, erfordert aber warme Kleidung. Vormittags genießen wir die klare Sicht an der Kapelle. Mittags radeln wir durch die frische Brise an der Küste. Nachmittags erreichen wir den Leuchtturm im warmen Licht, bevor wir im Dunkeln gegen 17:00 Uhr ankommen.",
+            "hu": "Télen a kerékpározás élénkítő, de meleg ruházatot igényel. Délelőtt tiszta kilátást élvezünk a kápolnánál. Délben a friss parti szélben tekerünk. Délután a világítótoronyhoz érünk a meleg fényekben, mielőtt 5 körül a sötétben visszaérnénk a városba.",
+            "ro": "Iarna, ciclismul este revigorant, dar necesită haine groase. Dimineața ne bucurăm de vizibilitate clară la capelă. La prânz pedalăm prin briza rece de coastă. După-amiaza ajungem la far în lumina caldă, înainte de a reveni pe întuneric la ora 17:00.",
+            "en": "Winter cycling is invigorating but requires warm gear. In the morning, enjoy clear views at the chapel. At noon, cycle through the fresh coastal breeze. In the afternoon, reach the lighthouse in the warm winter light before returning as darkness falls by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; die Hände kühlen beim Radfahren in der klaren Winterluft schnell aus.",
+                "hu": "Viseljen szélálló kesztyűt; a kezei gyorsan lehűlhetnek tekerés közben a tiszta téli levegőben a kápolnánál.",
+                "ro": "Purtați mănuși rezistente la vânt; mâinile pot îngheța rapid în timp ce pedalați în aerul rece de iarnă.",
+                "en": "Wear windproof gloves; your hands can get cold very quickly while cycling in the crisp winter air to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Lochrist",
+                "hu": "Lochrist Világítótorony",
+                "ro": "Farul Lochrist",
+                "en": "Phare de Lochrist"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser; machen Sie eine kurze Pause für ein Foto des Turms gegen den blauen Himmel.",
+                "hu": "A távoli kilátás télen gyakran jobb; tartson egy rövid szünetet egy fotóra a toronnyal a tiszta kék ég előtt.",
+                "ro": "Vizibilitatea la distanță este adesea mai bună iarna; faceți o scurtă pauză pentru o poză cu farul sub cerul senin.",
+                "en": "Visibility is often better in winter; take a quick break for a photo of the tower against the clear blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Passerelle",
+                "hu": "Passerelle",
+                "ro": "Passerelle",
+                "en": "Passerelle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz inne, um das Winterlicht auf dem Wasser zu genießen, aber bleiben Sie nicht zu lange im kalten Wind stehen.",
+                "hu": "Álljon meg egy pillanatra, hogy megcsodálja a téli fényeket a vízen, de ne időzzön túl sokat a hideg szélben.",
+                "ro": "Opriți-vă un moment pentru a admira lumina de iarnă pe apă, dar nu staționați prea mult în vântul rece.",
+                "en": "Stop for a moment to enjoy the winter light reflecting on the water, but don't stay still for too long in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Redoute des Blancs-Sablons",
+                "hu": "Redoute des Blancs-Sablons",
+                "ro": "Redoute des Blancs-Sablons",
+                "en": "Redoute des Blancs-Sablons"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter einsam und friedlich; erkunden Sie die alten Steine, solange die Sonne noch hoch genug steht.",
+                "hu": "Az erődítmény télen magányos és békés; fedezze fel a régi köveket, amíg a nap még elég magasan jár.",
+                "ro": "Fortăreața este pustie și liniștită iarna; explorați pietrele vechi cât timp soarele este încă sus pe cer.",
+                "en": "The fortification is lonely and peaceful in winter; explore the old stones while the sun is still high enough."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Kermorvan",
+                "hu": "Kermorvan Világítótorony",
+                "ro": "Farul Kermorvan",
+                "en": "Lighthouse Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne sinkt früh; genießen Sie das warme Licht auf dem weißen Turm, bevor die Kälte am späten Nachmittag zunimmt.",
+                "hu": "A nap korán nyugszik; élvezze a fehér toronyra eső meleg fényeket, mielőtt késő délután fokozódna a hideg.",
+                "ro": "Soarele apune devreme; bucurați-vă de lumina caldă de pe turnul alb înainte ca frigul să se intensifice după-amiaza.",
+                "en": "The sun sets early; enjoy the warm light on the white tower before the cold intensifies in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Porz Pabu",
+                "hu": "Plage de Porz Pabu",
+                "ro": "Plaja Porz Pabu",
+                "en": "Plage de Porz Pabu"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ideal für eine kurze, belebende Rast; spüren Sie die frische Meeresluft in Ihren Lungen.",
+                "hu": "A strand télen ideális egy rövid, frissítő pihenőre; érezze a tiszta tengeri levegőt a tüdejében tekerés közben.",
+                "ro": "Plaja este ideală pentru un scurt popas revigorant iarna; simțiți aerul curat de mare în plămâni în timp ce pedalați.",
+                "en": "The beach is ideal for a short, invigorating rest in winter; feel the fresh sea air in your lungs while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de l'Îlette",
+                "hu": "Fort de l'Îlette",
+                "ro": "Fort de l'Îlette",
+                "en": "Fort de l'Îlette"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückkehr vor Einbruch der Dunkelheit; die Wege zum Fort sind ohne Tageslicht schwer zu befahren.",
+                "hu": "Tervezze meg a visszatérést sötétedés előtt; az erőd felé vezető utak nappali fény nélkül nehezen járhatók.",
+                "ro": "Planificați-vă întoarcerea înainte de lăsarea întunericului; potecile spre fort sunt greu de parcurs fără lumină.",
+                "en": "Plan your return before dark; the paths to the fort are difficult to navigate on a bike without daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Morning: Vezessen a déli parti peremekhez, a Plage de la Grève Bleue-hez, majd látogassa meg a szárazföldi őrszemet, a Lochrist világítótornyot.\nMidday: Haladjon észak felé a kikötő bejáratához, hogy felfedezze az impozáns Fort Saint-Louis-t és a Plage de Perzic nyugodt homokos sávját.\nAfternoon: Hajtson ki a Kermorvan-félszigetre az ikonikus négyzet alakú világítótoronyhoz, és sétáljon ki a festői sziklás ponthoz.\nEvening: Zárja a parti utat a Fort de Kermorvan hatalmas romjai között sétálva, elmerülve a panorámás tengeri kilátásban az aranyórában.",
         "ro": "Morning: Conduceți spre sud la Plage de la Grève Bleue, apoi vizitați santinela interioară, Farul Lochrist, captând farmecul maritim de dimineață.\nMidday: Mergeți spre nord la intrarea în port pentru a explora impresionantul Fort Saint-Louis și întinderea senină de nisip a Plage de Perzic.\nAfternoon: Conduceți spre peninsula Kermorvan la iconicul Far pătrat, lăsând mașina pentru o plimbare pitorească până la capătul stâncos.\nEvening: Încheiați călătoria pe coastă rătăcind prin ruinele mărețe ale Fortului Kermorvan, admirând panoramele mării la ora de aur.",
         "en": "Morning: Drive to the southern coastal edges at Plage de la Grève Bleue, then visit the inland sentinel, Phare de Lochrist, capturing early maritime charm.\nMidday: Head north towards the harbor entrance to explore the impressive Fort Saint-Louis and enjoy the serene sandy stretch of Plage de Perzic.\nAfternoon: Drive out to the Kermorvan peninsula to visit the iconic square Lighthouse, leaving your vehicle for a scenic walk out to the rocky point.\nEvening: Wrap up your coastal drive by wandering through the grand ruins of Fort de Kermorvan, soaking in the panoramic sea views at golden hour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Küste gemütlich im Trockenen. Vormittags beobachten wir das Meer vom Strand aus. Mittags besuchen wir die Festung bei Regen. Nachmittags fahren wir zum Leuchtturm und genießen die dramatische Aussicht, bevor wir den Abend entspannt im Ort ausklingen lassen.",
+            "hu": "Autóval kényelmesen, szárazon fedezzük fel a partvidéket. Délelőtt a partról figyeljük a háborgó tengert. Délben az erődöt látogatjuk meg esőben. Délután a világítótoronyhoz hajtunk a drámai kilátásért, majd este a városban pihenünk meg egy kellemes vacsora mellett.",
+            "ro": "Cu mașina explorăm coasta confortabil, la adăpost de ploaie. Dimineața observăm marea agitată de pe plajă. La prânz vizităm fortăreața pe ploaie. După-amiaza mergem la far pentru priveliști dramatice, iar seara ne relaxăm în oraș la o cină caldă.",
+            "en": "Explore the coastline comfortably from the warmth of your car. In the morning, watch the stormy sea from the beach. At noon, visit the fort during the rain. In the afternoon, drive to the lighthouse for dramatic views before ending the day in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de la Grève Bleue",
+                "hu": "Plage de la Grève Bleue",
+                "ro": "Plage de la Grève Bleue",
+                "en": "Plage de la Grève Bleue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Schauspiel der brechenden Wellen bequem vom warmen Auto aus, wenn der Regen zu stark wird.",
+                "hu": "Élvezze a megtörő hullámok látványát kényelmesen, a meleg autóból, ha az eső túl erőssé válna a parton.",
+                "ro": "Bucurați-vă de spectacolul valurilor care se sparg, confortabil din mașina caldă, dacă ploaia devine prea puternică.",
+                "en": "Enjoy the spectacle of the crashing waves comfortably from your warm car if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Lochrist",
+                "hu": "Lochrist Világítótorony",
+                "ro": "Farul Lochrist",
+                "en": "Phare de Lochrist"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto reicht aus; der graue Himmel lässt den weißen Turm besonders hell erstrahlen.",
+                "hu": "Egy rövid megálló is elég egy fotóra; a szürke égbolt miatt a fehér torony különösen fényesnek tűnik az esőben.",
+                "ro": "O scurtă oprire pentru o fotografie este suficientă; cerul cenușiu face ca turnul alb să pară foarte strălucitor.",
+                "en": "A brief stop for a photo is enough; the grey sky makes the white tower look particularly bright in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Louis",
+                "hu": "Fort Saint-Louis",
+                "ro": "Fort Saint-Louis",
+                "en": "Fort Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie die massiven Mauern als Windschutz bei Ihrem Rundgang durch die Anlage.",
+                "hu": "Parkoljon közel a bejárathoz, és használja a masszív falakat szélfogóként az erőd körbejárása közben.",
+                "ro": "Parcați aproape de intrare și folosiți zidurile masive ca paravan împotriva vântului în timpul vizitei la fort.",
+                "en": "Park close to the entrance and use the massive walls as a windbreak during your tour of the fortification."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Perzic",
+                "hu": "Plage de Perzic",
+                "ro": "Plaja Perzic",
+                "en": "Plage de Perzic"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das stürmische Meer ist von hier aus fantastisch; bleiben Sie im Wagen und beobachten Sie die Natur.",
+                "hu": "A kilátás a viharos tengerre fantasztikus innen; maradjon az autóban, és figyelje a természet erejét a parton.",
+                "ro": "Priveliștea mării învolburate este fantastică de aici; rămâneți în mașină și observați forța naturii pe plajă.",
+                "en": "The view of the stormy sea is fantastic from here; stay in the car and watch the power of nature on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Kermorvan",
+                "hu": "Kermorvan Világítótorony",
+                "ro": "Farul Kermorvan",
+                "en": "Lighthouse Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den Fotostopps im Auto auf; der Windchill-Effekt ist hier an der Spitze der Halbinsel extrem.",
+                "hu": "Melegedjen fel az autóban a fotózások között; a szél hűtő hatása rendkívül erős itt a félsziget csúcsán.",
+                "ro": "Încălziți-vă în mașină între sesiunile foto; efectul de răcire al vântului este extrem aici, în vârful peninsulei.",
+                "en": "Warm up in the car between photo stops; the wind chill effect is extremely strong here at the tip of the peninsula."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Kermorvan",
+                "hu": "Fort de Kermorvan",
+                "ro": "Fort de Kermorvan",
+                "en": "Fort de Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nicht weit entfernt; ein kurzer Sprint zum Fort lohnt sich auch bei regnerischem Wetter für die Aussicht.",
+                "hu": "A parkoló nincs messze; egy rövid futás az erődhöz esős időben is megéri a lenyűgöző panoráma miatt.",
+                "ro": "Parcarea nu este departe; o scurtă fugă până la fort merită chiar și pe ploaie pentru panorama impresionantă.",
+                "en": "The parking lot is nearby; a quick dash to the fort is worth it even in rainy weather for the impressive views."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den perfekten Rückzugsort vor der Kälte. Vormittags fahren wir entlang der Küste bei klarem Licht. Mittags besichtigen wir die Festungen. Nachmittags erleben wir den Sonnenuntergang am Leuchtturm, bevor wir es uns am Abend im Ort gemütlich machen.",
+            "hu": "Télen az autó tökéletes menedéket nyújt a hideg elől. Délelőtt a part mentén autózunk a tiszta fényekben. Délben az erődöket látogatjuk meg. Délután a világítótoronynál nézzük a naplementét, majd este a városka hangulatos helyein melegszünk fel.",
+            "ro": "Iarna, mașina oferă refugiul perfect împotriva frigului de coastă. Dimineața conducem de-a lungul țărmului în lumina clară. La prânz vizităm fortărețele. După-amiaza vedem apusul la far, iar seara ne încălzim în oraș.",
+            "en": "In winter, the car provides a perfect escape from the coastal cold. In the morning, drive along the coast in the crisp light. At noon, visit the historic forts. In the afternoon, catch the sunset at the lighthouse before warming up in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de la Grève Bleue",
+                "hu": "Plage de la Grève Bleue",
+                "ro": "Plage de la Grève Bleue",
+                "en": "Plage de la Grève Bleue"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis; die Winterwellen sind von hier aus beeindruckend, auch ohne den Windchill draußen.",
+                "hu": "Használja az autót bázisként; a téli hullámok innen is lenyűgözőek, anélkül, hogy ki kellene tennie magát a szélnek.",
+                "ro": "Folosiți mașina ca bază; valurile de iarnă sunt impresionante de aici, fără a vă expune vântului tăios de afară.",
+                "en": "Use the car as your base; the winter waves are impressive from here without having to face the freezing wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Lochrist",
+                "hu": "Lochrist Világítótorony",
+                "ro": "Farul Lochrist",
+                "en": "Phare de Lochrist"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Turm hebt sich im Winterlicht scharf vom blauen Himmel ab; ideal für ein schnelles Foto aus der Wärme.",
+                "hu": "A fehér torony élesen kiemelkedik a kék égből a téli fényben; ideális egy gyors fotóra az autó melegéből.",
+                "ro": "Turnul alb se detașează clar pe cerul albastru în lumina iernii; ideal pentru o poză rapidă din căldura mașinii.",
+                "en": "The white tower stands out sharply against the blue sky in winter light; ideal for a quick photo from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Saint-Louis",
+                "hu": "Fort Saint-Louis",
+                "ro": "Fort Saint-Louis",
+                "en": "Fort Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter ruhig; die dicken Mauern erzählen Geschichten von kalten Wintern der Vergangenheit.",
+                "hu": "Az erődítmény télen nagyon csendes; a vastag falak a múlt hideg teleinek történeteiről mesélnek a látogatónak.",
+                "ro": "Fortăreața este foarte liniștită iarna; zidurile groase spun povești despre iernile reci din trecut vizitatorilor.",
+                "en": "The fortification is very quiet in winter; the thick walls tell stories of cold winters from the past to visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Perzic",
+                "hu": "Plage de Perzic",
+                "ro": "Plaja Perzic",
+                "en": "Plage de Perzic"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser; das Winterlicht auf dem Ozean wirkt oft silbern und besonders magisch von hier.",
+                "hu": "Parkoljon közel a vízhez; a téli fények az óceánon gyakran ezüstösnek és varázslatosnak tűnnek innen a partról.",
+                "ro": "Parcați aproape de apă; lumina de iarnă pe ocean pare adesea argintie și magică de aici, de pe malul mării.",
+                "en": "Park close to the water; the winter light on the ocean often looks silvery and magical from this vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Kermorvan",
+                "hu": "Kermorvan Világítótorony",
+                "ro": "Farul Kermorvan",
+                "en": "Lighthouse Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Leuchtturm gegen 16 Uhr; die tiefstehende Sonne taucht die ganze Halbinsel in ein warmes Orange.",
+                "hu": "Látogasson el a toronyhoz délután 4 körül; az alacsonyan járó nap narancssárga fénybe öltözteti az egész félszigetet.",
+                "ro": "Vizitați farul în jurul orei 16:00; soarele la apus scaldă întreaga peninsulă într-o lumină portocalie caldă.",
+                "en": "Visit the lighthouse around 4 PM; the low sun bathes the entire peninsula in a warm, stunning orange glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Kermorvan",
+                "hu": "Fort de Kermorvan",
+                "ro": "Fort de Kermorvan",
+                "en": "Fort de Kermorvan"
+              },
+              "tip_5lang": {
+                "de": "Das Fort wirkt in der winterlichen Dämmerung besonders imposant; beenden Sie Ihren Besuch vor der Dunkelheit um 17 Uhr.",
+                "hu": "Az erőd a téli szürkületben különösen impozáns; fejezze be a látogatást az 5 órai sötétedés előtt a biztonságért.",
+                "ro": "Fortul arată impunător în amurgul de iarnă; încheiați vizita înainte de lăsarea întunericului, în jurul orei 17:00.",
+                "en": "The fort looks imposing in the winter dusk; finish your visit before the early darkness falls around 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a római amfiteátrum ősi romjainál kezdődik, ahonnan hamar elérheti a Santa Caterina csodás épületét.\n\nDélben a Városi Múzeumban szembesülhet a régió gazdag múltjával és kincseivel.\n\nA délutánt a lenyűgöző dóm megcsodálására érdemes szánni, amely a helyi hit központja.\n\nAz este a Belvedere kilátónál zárul, ahonnan látványos naplementét figyelhet meg a tengerpart felett.",
         "ro": "Dimineața începe printre ruinele amfiteatrului roman, continuând rapid spre arhitectura frumoasă a bisericii Santa Caterina.\n\nLa amiază descoperiți trecutul bogat al zonei vizitând impresionantul Muzeu Civic.\n\nDupă-amiaza este dedicată admirării maiestuosului Dom, o capodoperă a credinței locale.\n\nSeara se încheie minunat la Belvedere, oferind priveliști spectaculoase cu apusul soarelui peste coastă.",
         "en": "Morning starts among ancient ruins at the Roman amphitheater, moving quickly to the beautiful architecture of Santa Caterina.\n\nMidday brings you face-to-face with the area's rich past at the Civic Museum.\n\nThe afternoon is reserved for admiring the grand Duomo, a true centerpiece of local faith.\n\nEvening wraps up beautifully at the Belvedere, offering spectacular sunset views over the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt bei den römischen Ruinen, wo der Nebel für Atmosphäre sorgt. Mittags bietet das Museo Civico Schutz vor dem Guss. Nachmittags bewundern wir die trockene Pracht des Doms. Abends blicken wir vom Belvedere auf das stürmische Meer; feste Schuhe sind auf glatten Wegen Pflicht.",
+            "hu": "A reggel a római romoknál indul, ahol az eső misztikus hangulatot áraszt. Délben a Museo Civico falaiban lelünk menedéket a zápor elől. Délután a dóm belső díszítése nyújt száraz látnivalót. Este a Belvedere kilátójánál zárjuk a napot; a csúszós köveken az óvatos közlekedés és a vízálló cipő elengedhetetlen.",
+            "ro": "O dimineață ploioasă începe la ruinele romane, unde ceața adaugă mister. La prânz, Museo Civico oferă adăpost împotriva ploii. După-amiaza, admirăm splendoarea uscată a Domului. Seara, privim marea agitată de la Belvedere; încălțămintea aderentă este obligatorie pe străzile alunecoase.",
+            "en": "A rainy morning begins at the Roman ruins, where mist creates a mystical atmosphere. At noon, the Museo Civico provides shelter from the downpour. In the afternoon, enjoy the dry grandeur of the Cathedral. End the evening at the Belvedere overlooking the stormy sea; waterproof shoes are essential on slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Resti dell'anfiteatro romano",
+                "hu": "Resti dell'anfiteatro romano",
+                "ro": "Resti dell'anfiteatro romano",
+                "en": "Resti dell'anfiteatro romano"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine sind bei Nässe extrem rutschig. Tragen Sie Schuhe mit gutem Profil und nutzen Sie die wenigen Mauervorsprünge, um die Ruinen im Trockenen zu betrachten.",
+                "hu": "Az ókori kövek esőben rendkívül csúszósak lehetnek. Viseljünk tapadós talpú cipőt, és próbáljunk meg fedettebb falmaradványok mellől nézelődni a szabadtéri területen.",
+                "ro": "Pietrele antice sunt extrem de alunecoase când sunt ude. Purtați pantofi cu aderență bună și folosiți proeminențele zidurilor pentru a observa ruinele stând la adăpost.",
+                "en": "Ancient stones are extremely slippery when wet. Wear shoes with good grip and use the wall overhangs to observe the ruins while staying relatively dry during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Caterina d'Alessandria",
+                "hu": "Santa Caterina d'Alessandria",
+                "ro": "Santa Caterina d'Alessandria",
+                "en": "Santa Caterina d'Alessandria"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist der perfekte Ort, um einen kurzen Schauer abzuwarten. Bewundern Sie die Fresken im Inneren, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "Ez a templom tökéletes helyszín egy rövid zápor átvészelésére. Csodáljuk meg a belső freskókat, miközben odakint az eső veri a vastag, ódon falakat és az utcát.",
+                "ro": "Această biserică este locul perfect pentru a aștepta trecerea unei ploi scurte. Admirați frescele interioare în timp ce afară ploaia bate în zidurile vechi și groase.",
+                "en": "This church is the perfect spot to wait out a short shower. Admire the interior frescoes while the rain beats against the thick, ancient walls outside in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico",
+                "hu": "Museo Civico",
+                "ro": "Museo Civico",
+                "en": "Museo Civico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als ausgiebigen Unterschlupf bei starkem Regen. Die Exponate lassen Sie das Wetter vergessen, während Sie in die reiche Geschichte der Stadt eintauchen.",
+                "hu": "Használjuk ki a múzeumot hosszas menedékként tartós eső esetén. A kiállítások segítenek elfelejteni a kinti időjárást, miközben elmerülünk a város gazdag múltjában.",
+                "ro": "Folosiți muzeul ca adăpost extins în caz de ploaie persistentă. Expozițiile vă vor face să uitați de vremea de afară în timp ce explorați istoria bogată a orașului.",
+                "en": "Use the museum as an extended shelter during persistent rain. The exhibits will make you forget the weather as you dive deep into the city's incredibly rich past."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo San Nicola di Bari",
+                "hu": "Duomo San Nicola di Bari",
+                "ro": "Duomo San Nicola di Bari",
+                "en": "Duomo San Nicola di Bari"
+              },
+              "tip_5lang": {
+                "de": "Der Dom bietet einen prächtigen, trockenen Raum zur Besichtigung. Achten Sie beim Betreten auf die Stufen, die durch die Feuchtigkeit der Schuhe rutschig sein könnten.",
+                "hu": "A dóm tágas és díszes belső tere kiváló száraz program. Belépéskor ügyeljünk a lépcsőkre, amelyek a vizes cipőtalpaktól csúszóssá válhatnak a látogatás során.",
+                "ro": "Interiorul spațios și decorat al Domului este un program uscat excelent. La intrare, atenție la trepte, care pot deveni alunecoase din cauza tălpilor ude ale pantofilor.",
+                "en": "The spacious and ornate interior of the Cathedral is an excellent dry activity. Upon entry, watch the steps, which can become slippery from wet shoe soles during visits."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere",
+                "hu": "Belvedere",
+                "ro": "Belvedere",
+                "en": "Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das Meer ist bei Regen besonders dramatisch. Ein großer Regenschirm ist hier wegen des Windes wichtig, um die stürmische Küstenlinie sicher zu genießen.",
+                "hu": "A tenger látványa esőben különösen drámai és látványos. A szél miatt egy erős esernyő elengedhetetlen, hogy biztonságban csodálhassuk meg a viharos partvonalat.",
+                "ro": "Vederea mării în timpul ploii este deosebit de dramatică și spectaculoasă. Din cauza vântului, o umbrelă rezistentă este esențială pentru a admira coasta în siguranță.",
+                "en": "The view of the sea during rain is particularly dramatic and scenic. Due to the wind, a sturdy umbrella is essential to safely admire the stormy coastline from above."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen führt uns zu den antiken Stätten, wo die Wintersonne tief steht. Mittags wärmen wir uns im Museo Civico auf. Am Nachmittag besuchen wir den Dom vor dem frühen Sonnenuntergang um 17:00 Uhr. Den Abend verbringen wir am Belvedere und genießen das klare Licht; warme Kleidung schützt vor der Meeresbrise.",
+            "hu": "A hűvös reggelen az antik emlékeket látogatjuk meg a gyenge téli napsütésben. Délben a Museo Civico meleg falai között töltődünk fel. Délután a dómot keressük fel a korai, 17:00 órai naplemente előtt. Az estét a Belvedere kilátónál zárjuk a kristálytiszta levegőben; a réteges öltözködés véd a tengeri széltől.",
+            "ro": "Dimineața răcoroasă ne poartă spre siturile antice sub soarele blând de iarnă. La prânz, ne încălzim în Museo Civico. După-amiaza vizităm Domul înainte de apusul devreme de la ora 17:00. Seara o petrecem la Belvedere, admirând lumina clară; hainele groase sunt necesare împotriva brizelor marine.",
+            "en": "A crisp morning leads us to ancient sites under the low winter sun. At noon, warm up inside the Museo Civico. In the afternoon, visit the Cathedral before the early sunset at 5:00 PM. Spend the evening at the Belvedere enjoying the clear light; warm layers are vital against the chilly sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Resti dell'anfiteatro romano",
+                "hu": "Resti dell'anfiteatro romano",
+                "ro": "Resti dell'anfiteatro romano",
+                "en": "Resti dell'anfiteatro romano"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterlicht eignet sich hervorragend für Fotos der antiken Bögen. Da es im Schatten kühl sein kann, ist eine warme Jacke für den Aufenthalt im Freien ratsam.",
+                "hu": "A lágy téli fények kiválóak az antik boltívek fotózásához. Mivel az árnyékos részeken hűvös lehet, egy meleg kabát ajánlott a szabadtéri romok felfedezése közben.",
+                "ro": "Lumina blândă de iarnă este excelentă pentru fotografierea arcadelor antice. Deoarece în zonele umbrite poate fi răcoare, o jachetă groasă este recomandată în timpul vizitei.",
+                "en": "Soft winter light is excellent for photographing the ancient arches. Since shaded areas can be quite cool, a warm jacket is recommended while exploring these outdoor ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Caterina d'Alessandria",
+                "hu": "Santa Caterina d'Alessandria",
+                "ro": "Santa Caterina d'Alessandria",
+                "en": "Santa Caterina d'Alessandria"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Winterwind. Nutzen Sie die ruhige Atmosphäre für eine Besinnungspause im beheizten oder zumindest windgeschützten Innenraum.",
+                "hu": "A templom kiváló védelmet nyújt a hideg téli szél elől. Használjuk ki a csendes hangulatot egy rövid pihenőre a szélvédett és nyugodt belső térben a séta közben.",
+                "ro": "Biserica oferă o protecție excelentă împotriva vântului rece de iarnă. Profitați de atmosfera liniștită pentru o scurtă pauză în interiorul ferit de vânt și curent.",
+                "en": "The church provides excellent protection from the cold winter wind. Take advantage of the quiet atmosphere for a short rest in the wind-sheltered and calm interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico",
+                "hu": "Museo Civico",
+                "ro": "Museo Civico",
+                "en": "Museo Civico"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dies der ideale Ort, um sich aufzuwärmen. Verbringen Sie hier die kältesten Mittagsstunden und lassen Sie sich von der Geschichte der Stadt begeistern.",
+                "hu": "Télen ez az ideális helyszín a felmelegedésre a városnézés közben. Töltsük itt a leghűvösebb déli órákat, és hagyjuk, hogy a város történelme teljesen magával ragadjon.",
+                "ro": "Iarna, acesta este locul ideal pentru a vă încălzi în timpul vizitei. Petreceți aici cele mai răcoroase ore ale amiezii și lăsați-vă captivați de istoria orașului.",
+                "en": "In winter, this is the ideal spot to warm up during your tour. Spend the coolest midday hours here and let the city's fascinating history completely captivate you."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo San Nicola di Bari",
+                "hu": "Duomo San Nicola di Bari",
+                "ro": "Duomo San Nicola di Bari",
+                "en": "Duomo San Nicola di Bari"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Dom am frühen Nachmittag, wenn die tiefe Sonne durch die Fenster fällt. Das Innere ist oft wärmer als die Gassen, was den Aufenthalt sehr angenehm macht.",
+                "hu": "Látogassuk meg a dómot kora délután, amikor az alacsonyan járó nap besüt az ablakokon. A belső tér gyakran melegebb, mint a szűk utcák, így a látogatás igen kellemes.",
+                "ro": "Vizitați Domul după-amiaza devreme, când soarele jos pătrunde prin ferestre. Interiorul este adesea mai cald decât străzile înguste, făcând vizita foarte plăcută.",
+                "en": "Visit the Cathedral in the early afternoon when the low sun shines through the windows. The interior is often warmer than the narrow streets, making the visit very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere",
+                "hu": "Belvedere",
+                "ro": "Belvedere",
+                "en": "Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hierher, um den Sonnenuntergang über dem Meer zu erleben. Die Winterluft ist besonders klar, aber der Wind kann schneidend kalt sein – Mütze auf!",
+                "hu": "Érkezzünk meg 17:00 óra előtt, hogy láthassuk a tenger feletti naplementét. A téli levegő különösen tiszta, de a szél metsző lehet, így egy meleg sapka sokat segíthet.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea apusul peste mare. Aerul de iarnă este deosebit de clar, dar vântul poate fi tăios, așa că o căciulă caldă este de mare ajutor.",
+                "en": "Arrive before 5:00 PM to see the sunset over the sea. The winter air is particularly clear, but the wind can be biting, so a warm hat will help you enjoy the view."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpáros kalandja a római vízvezetéknél indul, ahonnan a békés Santa Maria Gesù templomhoz teker.\n\nA déli órákban a San Carlo Borromeo templomot és a Városi Múzeum gazdag kiállításait éri el.\n\nDélután felfedezheti a városban található római amfiteátrum és bazilika lenyűgöző romjait.\n\nAz esti tekerés a Belvedere kilátónál ér véget, ahonnan csodás naplementét figyelhet meg.",
         "ro": "Aventura pe bicicletă începe la apeductul roman, pedalând spre liniștita biserică Santa Maria Gesù.\n\nLa amiază ajungeți pe străzi fermecătoare la San Carlo Borromeo și la Muzeul Civic.\n\nDupă-amiaza o dedicați explorării ruinelor antice ale amfiteatrului și ale bazilicii romane.\n\nPlimbarea de seară se termină la Belvedere, oferind o priveliște magnifică la apus.",
         "en": "Your cycling adventure kicks off at the Roman Aqueduct, pedaling to Santa Maria Gesù.\n\nMidday riding takes you to San Carlo Borromeo and the extensive Civic Museum.\n\nIn the afternoon, explore the fascinating Roman ruins of the amphitheater and basilica.\n\nThe evening ride concludes at the Belvedere, offering a majestic sunset view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Aquädukt erfordert Vorsicht auf den Waldwegen. Mittags radeln wir schnell zu den Kirchen, um trocken zu bleiben. Das Museo Civico ist unser Rettungsanker vor dem Nachmittagsregen. Die Tour endet am Belvedere; achten Sie auf spritzendes Wasser und nutzen Sie Schutzbleche an Ihrem Fahrrad.",
+            "hu": "A vizes kezdés az aqueductnál óvatosságot igényel az erdei utakon. Napközben gyorsan tekerünk a templomok felé, hogy szárazon maradjunk. A Museo Civico a mentőövünk a délutáni eső elől. A túra a Belvederénél zárul; ügyeljünk a felverődő vízre, és használjunk sárvédőt a kerékpáron.",
+            "ro": "Un început umed la apeduct necesită prudență pe drumurile de pământ. În timpul zilei pedalăm rapid spre biserici pentru a rămâne uscați. Museo Civico este colacul nostru de salvare împotriva ploii. Turul se încheie la Belvedere; atenție la apă și folosiți apărători la bicicletă.",
+            "en": "A wet start at the aqueduct requires caution on the forest paths. During the day, we cycle quickly toward churches to stay dry. The Museo Civico is our lifeline from afternoon rain. The tour ends at the Belvedere; watch out for splashing water and ensure your bike has mudguards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Acquedotto Romano Cornelio",
+                "hu": "Acquedotto Romano Cornelio",
+                "ro": "Acquedotto Romano Cornelio",
+                "en": "Acquedotto Romano Cornelio"
+              },
+              "tip_5lang": {
+                "de": "Der Boden rund um das Aquädukt kann sehr matschig werden. Radeln Sie vorsichtig und meiden Sie tiefe Pfützen, um die beeindruckende römische Technik sicher zu bestaunen.",
+                "hu": "Az aqueduct körüli talaj nagyon sáros lehet esőben. Tekerjünk óvatosan, és kerüljük a mély tócsákat, miközben megcsodáljuk ezt a lenyűgöző római mérnöki alkotást.",
+                "ro": "Solul din jurul apeductului poate deveni foarte noroios. Pedalați cu atenție și evitați bălțile adânci în timp ce admirați această construcție romană impresionantă.",
+                "en": "The ground around the aqueduct can get very muddy in the rain. Cycle carefully and avoid deep puddles while admiring this impressive piece of Roman engineering."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Gesù",
+                "hu": "Santa Maria Gesù",
+                "ro": "Santa Maria Gesù",
+                "en": "Santa Maria Gesù"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz, um das Fahrrad kurz unterzustellen. Der Besuch der Kirche bietet eine willkommene Trockenpause für Ihre Kleidung und Ausrüstung.",
+                "hu": "Használjuk ki a bejárat környékét a kerékpár rövid leállítására. A templom meglátogatása egy szívesen látott száraz szünetet biztosít a ruházatunk és felszerelésünk számára.",
+                "ro": "Folosiți zona de la intrare pentru a parca scurt bicicleta. Vizitarea bisericii oferă o pauză uscată binevenită pentru îmbrăcămintea și echipamentul dumneavoastră.",
+                "en": "Use the entrance area to briefly park your bike under some cover. Visiting the church provides a welcome dry break for your clothing and gear during the rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa San Carlo Borromeo",
+                "hu": "Chiesa San Carlo Borromeo",
+                "ro": "Chiesa San Carlo Borromeo",
+                "en": "Chiesa San Carlo Borromeo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Straßenbeläge in der Nähe der Kirche. Ein kurzer Stopp im Inneren schützt Sie vor dem schlimmsten Regen, bevor es weiter bergauf geht.",
+                "hu": "Ügyeljünk a templom körüli csúszós útburkolatra a megálláskor. Egy rövid pihenő a belső térben megvéd a legsűrűbb esőtől, mielőtt folytatnánk az utat felfelé a városban.",
+                "ro": "Atenție la carosabilul alunecos din jurul bisericii la oprire. O scurtă pauză în interior vă protejează de ploaia deasă înainte de a continua drumul în sus prin oraș.",
+                "en": "Watch out for slippery road surfaces around the church when stopping. A short break inside protects you from the heaviest rain before continuing your ride uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico",
+                "hu": "Museo Civico",
+                "ro": "Museo Civico",
+                "en": "Museo Civico"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie sich länger aufwärmen und trocknen. Stellen Sie sicher, dass Ihr Fahrradschloss auch bei Nässe gut funktioniert, und genießen Sie die Archäologie.",
+                "hu": "Itt hosszabb ideig melegedhetünk és száradhatunk meg a túra alatt. Győződjünk meg róla, hogy a kerékpárzár esőben is jól működik, és élvezzük a régészeti leleteket.",
+                "ro": "Aici vă puteți încălzi și usca pentru o perioadă mai lungă. Asigurați-vă că antifurtul bicicletei funcționează bine și pe ploaie și bucurați-vă de descoperirile arheologice.",
+                "en": "Here you can warm up and dry off for a longer period. Ensure your bike lock functions well in the wet, and enjoy the archaeological finds inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti dell'anfiteatro romano",
+                "hu": "Resti dell'anfiteatro romano",
+                "ro": "Resti dell'anfiteatro romano",
+                "en": "Resti dell'anfiteatro romano"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zwischen den Ruinen sind für Fahrräder bei Regen tückisch. Schieben Sie Ihr Rad lieber ein kurzes Stück, um Unfälle auf den nassen Steinen zu vermeiden.",
+                "hu": "A romok közötti utak esőben trükkösek lehetnek a kerékpárosoknak. Érdemesebb egy rövid szakaszon tolni a biciklit, hogy elkerüljük a baleseteket a vizes köveken.",
+                "ro": "Drumurile dintre ruine pot fi înșelătoare pentru bicicliști pe ploaie. Este mai bine să împingeți bicicleta pe o porțiune scurtă pentru a evita accidentele pe pietrele ude.",
+                "en": "The paths between the ruins can be tricky for cyclists in the rain. It's better to push your bike for a short stretch to avoid accidents on the wet, ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti della basilica romana",
+                "hu": "Resti della basilica romana",
+                "ro": "Resti della basilica romana",
+                "en": "Resti della basilica romana"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den archäologischen Strukturen kurz Schutz. Nutzen Sie Regenponchos statt Schirmen, um beim Hantieren mit dem Fahrrad flexibel und beweglich zu bleiben.",
+                "hu": "Keressünk rövid menedéket a régészeti struktúrák alatt. Használjunk esőponcsót esernyő helyett, hogy a kerékpárral való manőverezés közben is rugalmasak maradhassunk.",
+                "ro": "Căutați un scurt adăpost sub structurile arheologice. Folosiți pelerine de ploaie în loc de umbrele pentru a rămâne flexibili în timp ce manevrați bicicleta.",
+                "en": "Seek brief shelter under the archaeological structures. Use rain ponchos instead of umbrellas to stay flexible while maneuvering your bike through the rainy streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere",
+                "hu": "Belvedere",
+                "ro": "Belvedere",
+                "en": "Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf der nassen Aussichtsplattform. Die Gischt des Meeres vermischt sich mit dem Regen; wischen Sie den Sattel vor der Weiterfahrt gut trocken.",
+                "hu": "Vigyázzunk a fékezéssel a vizes kilátóteraszon. A tengeri permet keveredik az esővel; a továbbindulás előtt alaposan töröljük szárazra a kerékpár nyergét.",
+                "ro": "Atenție la frânare pe terasa umedă a belvederii. Vaporii de apă de mare se amestecă cu ploaia; ștergeți bine șaua bicicletei înainte de a porni din nou la drum.",
+                "en": "Be careful with braking on the wet lookout terrace. Sea spray mixes with the rain; wipe your bike seat dry before heading out to complete your coastal cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit einer Fahrt zum Aquädukt. Mittags wärmt die Bewegung bergauf den Körper, während wir die Kirchen besuchen. Das Museo Civico bietet die perfekte Pause in der Kälte. Beenden Sie die Tour am Belvedere pünktlich zum Sonnenuntergang um 17:00 Uhr und tragen Sie winddichte Handschuhe.",
+            "hu": "A friss téli reggel egy tekeréssel indul az aqueducthoz. Napközben a felfelé haladás kellően bemelegíti a testünket a templomok látogatása közben. A Museo Civico tökéletes pihenőt nyújt a hidegben. A túrát a Belvederénél zárjuk a 17:00-ás naplementére; viseljünk szélálló kesztyűt.",
+            "ro": "O dimineață proaspătă de iarnă începe cu o tură până la apeduct. În timpul zilei, urcarea vă va încălzi corpul în timp ce vizitați bisericile. Museo Civico oferă pauza perfectă în frig. Încheiați turul la Belvedere pentru apusul de la ora 17:00; purtați mănuși rezistente la vânt.",
+            "en": "A crisp winter morning starts with a ride to the aqueduct. During the day, the uphill sections will keep you warm as you visit the local churches. The Museo Civico provides the perfect warm break. End the tour at the Belvedere by sunset at 5:00 PM; wear windproof gloves for the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Acquedotto Romano Cornelio",
+                "hu": "Acquedotto Romano Cornelio",
+                "ro": "Acquedotto Romano Cornelio",
+                "en": "Acquedotto Romano Cornelio"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kälte am Aquädukt ist belebend. Tragen Sie Schichten, die Sie beim Bergauffahren leicht öffnen können, um nicht zu überhitzen oder danach auszukühlen.",
+                "hu": "A reggeli hideg az aqueductnál frissítő erejű. Viseljünk réteges öltözetet, amit a dombnak felfelé könnyen kicipzározhatunk, hogy elkerüljük a túlzott izzadást.",
+                "ro": "Frigul dimineții la apeduct este revigorant. Purtați straturi de haine pe care le puteți desface ușor la urcare pentru a evita supraîncălzirea și apoi răceala.",
+                "en": "The morning chill at the aqueduct is invigorating. Wear layers that you can easily unzip during the uphill climb to avoid overheating and then getting cold later."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Gesù",
+                "hu": "Santa Maria Gesù",
+                "ro": "Santa Maria Gesù",
+                "en": "Santa Maria Gesù"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Gelegenheit, die Hände vom Lenker aufzuwärmen. Genießen Sie die Stille und die winterliche Ruhe in diesem historischen Gotteshaus.",
+                "hu": "A templom jó lehetőséget kínál, hogy felmelegítsük a kezünket a kormányfogás után. Élvezzük a csendet és a téli nyugalmat ebben a történelmi szakrális épületben.",
+                "ro": "Biserica oferă o ocazie bună de a vă încălzi mâinile după pedalat. Bucurați-vă de liniștea și calmul de iarnă în acest lăcaș de cult istoric și primitor.",
+                "en": "The church offers a good opportunity to warm up your hands from the bike handlebars. Enjoy the silence and winter peace in this historic and welcoming sacred building."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa San Carlo Borromeo",
+                "hu": "Chiesa San Carlo Borromeo",
+                "ro": "Chiesa San Carlo Borromeo",
+                "en": "Chiesa San Carlo Borromeo"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine kurze Trinkpause ein. Auch im Winter ist Flüssigkeitszufuhr beim Radfahren wichtig, obwohl die Kühle das Durstgefühl oft unterdrückt.",
+                "hu": "Tartsunk itt egy rövid frissítő szünetet. Télen is fontos a hidratálás kerékpározás közben, még akkor is, ha a hűvös időben kevésbé érezzük magunkat szomjasnak.",
+                "ro": "Planificați aici o scurtă pauză de hidratare. Chiar și iarna, hidratarea este importantă la pedalat, deși frigul ne face adesea să nu simțim senzația de sete.",
+                "en": "Plan a short hydration break here. Even in winter, staying hydrated is important while cycling, even if the cool weather often masks the actual feeling of thirst."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico",
+                "hu": "Museo Civico",
+                "ro": "Museo Civico",
+                "en": "Museo Civico"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Mittagspause, um der Winterkälte zu entfliehen. Die Räume sind gut temperiert und bieten einen faszinierenden Einblick in die antike Geschichte von Termini.",
+                "hu": "Ideális déli pihenőhely, hogy elmeneküljünk a téli hideg elől. A termek kellemes hőmérsékletűek, és lenyűgöző betekintést nyújtanak Termini antik történelmébe.",
+                "ro": "Locul ideal de odihnă la prânz pentru a scăpa de frigul iernii. Sălile au o temperatură plăcută și oferă o incursiune fascinantă în istoria antică a orașului.",
+                "en": "The ideal midday rest stop to escape the winter chill. The rooms are at a pleasant temperature and provide a fascinating insight into Termini's ancient history."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti dell'anfiteatro romano",
+                "hu": "Resti dell'anfiteatro romano",
+                "ro": "Resti dell'anfiteatro romano",
+                "en": "Resti dell'anfiteatro romano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für detailreiche Aufnahmen der Ruinen. Achten Sie auf den Untergrund, da Steine im Schatten auch ohne Frost glatt sein können.",
+                "hu": "Használjuk ki a tiszta téli fényeket a romok részletgazdag fotózásához. Ügyeljünk a talajra, mert az árnyékos kövek fagy nélkül is simák és csúszósak lehetnek.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii detaliate ale ruinelor. Atenție la sol, deoarece pietrele la umbră pot fi netede și alunecoase chiar și fără îngheț.",
+                "en": "Take advantage of the clear winter light for detailed photos of the ruins. Watch the ground, as shaded stones can be smooth and slippery even without any frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti della basilica romana",
+                "hu": "Resti della basilica romana",
+                "ro": "Resti della basilica romana",
+                "en": "Resti della basilica romana"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp reicht hier aus, da der Wind in den offenen Ruinen kühl pfeifen kann. Bleiben Sie in Bewegung, um die Körperwärme beim Besichtigen zu halten.",
+                "hu": "Egy gyors megálló is elég itt, mivel a szél hűvösen fújhat a nyitott romok között. Maradjunk mozgásban a nézelődés közben is, hogy megőrizzük a testhőmérsékletünket.",
+                "ro": "O oprire rapidă este suficientă aici, deoarece vântul poate bate rece printre ruinele deschise. Rămâneți în mișcare în timp ce vizitați pentru a vă menține căldura.",
+                "en": "A quick stop is enough here, as the wind can blow cold through the open ruins. Keep moving while sightseeing to maintain your body heat during the winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere",
+                "hu": "Belvedere",
+                "ro": "Belvedere",
+                "en": "Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter am besten, oft sieht man bis zum Horizont. Ziehen Sie vor der Abfahrt ins Tal eine extra Schicht über, da der Fahrtwind nun sehr kalt ist.",
+                "hu": "A kilátás télen a legjobb, gyakran egészen a horizontig ellátni. A völgybe való leereszkedés előtt vegyünk fel egy extra réteget, mert a menetszél már nagyon hideg lesz.",
+                "ro": "Vizibilitatea este cea mai bună iarna, se vede adesea până la orizont. Înainte de coborâre, puneți pe voi un strat extra, deoarece vântul la viteză va fi foarte rece.",
+                "en": "Visibility is at its best in winter, often reaching the horizon. Before descending back down, put on an extra layer as the wind chill from cycling will be very cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túrája a történelmi Ponte San Paolo hídnál kezdődik, majd a Targa Florio autós múzeum felé veszi az irányt.\n\nDélben a római bazilika romjainál merülhet el a múltban, mielőtt a gyönyörű dómhoz érne.\n\nDélután kényelmesen elautózhat a város szélén található, nagy múltú San Giuseppe templomhoz.\n\nA napot a római vízvezeték lenyűgöző boltívei alatt zárhatja a lemenő nap fényében.",
         "ro": "Turul cu mașina începe la podul San Paolo, continuând spre fascinantul muzeu auto Targa Florio.\n\nLa amiază vă scufundați în istoria antică la ruinele bazilicii romane, înainte de a ajunge la Dom.\n\nConducând după-amiaza, ajungeți confortabil la biserica istorică San Giuseppe din suburbii.\n\nExcursia se încheie perfect la impunătorul apeduct roman, luminat superb de apusul soarelui.",
         "en": "Begin your driving tour at Ponte San Paolo, then head to the exhilarating Targa Florio Motor Museum.\n\nMidday finds you stepping back into history at the Roman Basilica ruins before reaching the Duomo.\n\nAfternoon driving lets you comfortably visit the historic San Giuseppe church.\n\nYour day winds down perfectly at the towering Roman Aqueduct in the gentle evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt mit der Fahrt zur Brücke, die im Nebel mystisch wirkt. Mittags besuchen wir das Motor-Museum, das perfekte trockene Ziel. Die Basilika und der Dom bieten weitere geschützte Stationen. Wir beenden den Tag am Aquädukt; nutzen Sie das Auto als gemütlichen Rückzugsort zwischen den Besichtigungen.",
+            "hu": "Egy esős nap a hídhoz való autózással indul, amely misztikusan fest a ködben. Délben a motoros múzeumot látogatjuk meg, ami tökéletes száraz úti cél. A bazilika és a dóm további védett megállókat kínálnak. A napot az aqueductnál zárjuk; használjuk az autót kényelmes menedékként a megállók között.",
+            "ro": "O zi ploioasă începe cu drumul spre pod, care arată mistic în ceață. La prânz vizităm muzeul auto, destinația perfectă pentru o zi umedă. Basilica și Domul oferă alte opriri protejate. Încheiem ziua la apeduct; folosiți mașina ca adăpost confortabil între vizite.",
+            "en": "A rainy day starts with a drive to the bridge, looking mystical in the mist. At noon, visit the motor museum, the perfect dry destination. The Basilica and Cathedral offer further sheltered stops. End the day at the aqueduct; use your car as a cozy retreat between the various rainy sightseeing spots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte San Paolo",
+                "hu": "Ponte San Paolo",
+                "ro": "Ponte San Paolo",
+                "en": "Ponte San Paolo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Brücke bei starkem Regen am besten aus dem Auto heraus. Das fließende Wasser unter der Brücke wirkt bei diesem Wetter besonders kraftvoll und wild.",
+                "hu": "Erős esőben a legjobb az autóból szemlélni a hidat. A híd alatt hömpölygő víz ilyenkor különösen erőteljesnek és vadnak hat, ami látványos fotótémát szolgáltat.",
+                "ro": "În caz de ploaie torențială, cel mai bine este să observați podul din mașină. Apa care curge sub pod pare deosebit de puternică și sălbatică pe această vreme.",
+                "en": "In heavy rain, it's best to observe the bridge from inside the car. The rushing water below feels especially powerful and wild in this weather, providing great views."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del motorismo siciliano e della Targa Florio",
+                "hu": "Museo del motorismo siciliano e della Targa Florio",
+                "ro": "Museo del motorismo siciliano e della Targa Florio",
+                "en": "Museo del motorismo siciliano e della Targa Florio"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel für Regentage. Parken Sie so nah wie möglich am Eingang, um trocken ins Museum zu gelangen und die faszinierende Rennsportgeschichte zu genießen.",
+                "hu": "Ideális célpont esős napokra. Parkoljunk a lehető legközelebb a bejárathoz, hogy szárazon jussunk be a múzeumba, és élvezzük a lenyűgöző autósport-történelmet.",
+                "ro": "Destinația ideală pentru zilele ploioase. Parcați cât mai aproape de intrare pentru a ajunge uscați în muzeu și pentru a vă bucura de istoria sportului cu motor.",
+                "en": "The ideal destination for rainy days. Park as close to the entrance as possible to reach the museum dry and enjoy the fascinating history of Sicilian motor racing."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti della basilica romana",
+                "hu": "Resti della basilica romana",
+                "ro": "Resti della basilica romana",
+                "en": "Resti della basilica romana"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zu den Ruinen lohnt sich. Suchen Sie nach den informativen Schautafeln, die oft unter kleinen Vordächern vor dem Regen geschützt sind.",
+                "hu": "Egy rövid sprint az autótól a romokig megéri a fáradtságot. Keressük az információs táblákat, amelyek gyakran kis tetők alatt védve vannak az eső közvetlen hatásától.",
+                "ro": "Un scurt sprint de la mașină la ruine merită efortul. Căutați panourile informative, care sunt adesea protejate sub mici acoperișuri de acțiunea directă a ploii.",
+                "en": "A quick sprint from the car to the ruins is worth the effort. Look for the information boards, which are often protected under small overhangs from the direct rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo San Nicola di Bari",
+                "hu": "Duomo San Nicola di Bari",
+                "ro": "Duomo San Nicola di Bari",
+                "en": "Duomo San Nicola di Bari"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe des Doms gibt es meist gute Parkmöglichkeiten. Der Innenraum bietet eine wunderbare Atmosphäre, um dem Prasseln des Regens draußen zu entfliehen.",
+                "hu": "A dóm közelében általában jó parkolási lehetőségek vannak. A belső tér csodálatos atmoszférát nyújt, hogy elmeneküljünk a kinti eső kopogása elől egy időre.",
+                "ro": "În apropierea Domului există de obicei locuri bune de parcare. Interiorul oferă o atmosferă minunată pentru a scăpa pentru o vreme de ropotul ploii de afară.",
+                "en": "There are usually good parking spots near the Cathedral. The interior provides a wonderful atmosphere to escape the drumming of the rain outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giuseppe",
+                "hu": "San Giuseppe",
+                "ro": "San Giuseppe",
+                "en": "San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein feiner Stopp zwischen zwei Schauern. Lassen Sie nasse Regenschirme im Auto oder nutzen Sie die bereitgestellten Ständer im Vorraum.",
+                "hu": "Ez a kis templom finom megálló két zápor között. Hagyjuk a vizes esernyőket az autóban, vagy használjuk a bejáratnál lévő tartókat, hogy ne áztassuk el a belsőt.",
+                "ro": "Această mică biserică este o oprire plăcută între două ploi. Lăsați umbrelele ude în mașină sau folosiți suporturile de la intrare pentru a nu uda interiorul.",
+                "en": "This small church is a nice stop between two showers. Leave wet umbrellas in the car or use the holders at the entrance to keep the interior floor dry for others."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquedotto Romano Cornelio",
+                "hu": "Acquedotto Romano Cornelio",
+                "ro": "Acquedotto Romano Cornelio",
+                "en": "Acquedotto Romano Cornelio"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen zum Aquädukt. Bei Regen können diese rutschig sein; genießen Sie das Bauwerk am besten direkt vom Parkplatz aus.",
+                "hu": "Vezessünk óvatosan az aqueducthoz vezető keskeny bekötőúton. Esőben ezek csúszósak lehetnek; a legjobb, ha közvetlenül a parkolóból csodáljuk meg az építményt.",
+                "ro": "Conduceți cu atenție pe drumul îngust de acces către apeduct. Pe ploaie, acesta poate fi alunecos; cel mai bine este să admirați construcția direct din parcare.",
+                "en": "Drive carefully on the narrow access road to the aqueduct. In rain, it can be slippery; it's best to admire the structure directly from the parking area near the site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag beginnt mit der Fahrt zur historischen Brücke. Mittags genießen wir die Wärme im Motor-Museum. Nachmittags besuchen wir die Kirchen, bevor die Dämmerung um 17:00 Uhr einsetzt. Den Abschluss bildet das Aquädukt im sanften Winterlicht; die Sitzheizung macht die Fahrten zwischen den Stätten besonders angenehm.",
+            "hu": "Egy hűvös téli nap a történelmi hídhoz való autózással indul. Délben élvezzük a motoros múzeum fűtött termeit. Délután a templomokat látogatjuk meg, mielőtt 17:00-kor beáll a sötétség. A záró akkord az aqueduct a lágy téli fényekben; az ülésfűtés kellemessé teszi az utat a helyszínek között.",
+            "ro": "O zi răcoroasă de iarnă începe cu drumul spre podul istoric. La prânz ne bucurăm de sălile încălzite ale muzeului auto. După-amiaza vizităm bisericile înainte de lăsarea întunericului la ora 17:00. Finalul este la apeduct în lumina blândă de iarnă; încălzirea în scaune face drumul plăcut.",
+            "en": "A crisp winter day starts with a drive to the historic bridge. At noon, enjoy the warmth of the motor museum. In the afternoon, visit the churches before darkness sets in at 5:00 PM. The final stop is the aqueduct in the soft winter light; seat heating makes the short drives very comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte San Paolo",
+                "hu": "Ponte San Paolo",
+                "ro": "Ponte San Paolo",
+                "en": "Ponte San Paolo"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Steinstruktur der Brücke besonders plastisch erscheinen. Ein kurzer Spaziergang an der frischen Luft belebt, bevor es zurück ins warme Auto geht.",
+                "hu": "A tiszta téli fényekben a híd kőszerkezete különösen plasztikusnak tűnik. Egy rövid séta a friss levegőn felfrissít, mielőtt visszatérnénk a fűtött utastérbe.",
+                "ro": "În lumina clară de iarnă, structura de piatră a podului pare deosebit de plastică. O scurtă plimbare în aerul proaspăt vă va revigora înainte de a reveni în mașină.",
+                "en": "The clear winter light makes the bridge's stone structure appear particularly vivid. A short walk in the fresh air is invigorating before returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del motorismo siciliano e della Targa Florio",
+                "hu": "Museo del motorismo siciliano e della Targa Florio",
+                "ro": "Museo del motorismo siciliano e della Targa Florio",
+                "en": "Museo del motorismo siciliano e della Targa Florio"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die kälteste Zeit des Tages zu überbrücken. Genießen Sie die beheizten Ausstellungsräume und die beeindruckende Sammlung klassischer Rennwagen.",
+                "hu": "Tökéletes helyszín a nap leghűvösebb időszakának áthidalására. Élvezzük a fűtött kiállítótermeket és a klasszikus versenyautók lenyűgöző gyűjteményét a látogatás során.",
+                "ro": "Locul perfect pentru a petrece cea mai rece perioadă a zilei. Bucurați-vă de sălile de expoziție încălzite și de colecția impresionantă de mașini de curse clasice.",
+                "en": "The perfect location to bridge the coldest part of the day. Enjoy the heated exhibition rooms and the impressive collection of classic racing cars during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti della basilica romana",
+                "hu": "Resti della basilica romana",
+                "ro": "Resti della basilica romana",
+                "en": "Resti della basilica romana"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Touristen hier, was die Besichtigung sehr ruhig macht. Da die Ruinen offen liegen, ist winddichte Kleidung wichtig, um die Details zu studieren.",
+                "hu": "Télen kevesebb a turista, ami a látogatást nagyon nyugodttá teszi. Mivel a romok nyitottak, a szélálló ruházat fontos, hogy kényelmesen tanulmányozhassuk a részleteket.",
+                "ro": "Iarna sunt mai puțini turiști, ceea ce face vizita foarte liniștită. Deoarece ruinele sunt deschise, hainele rezistente la vânt sunt importante pentru a studia detaliile.",
+                "en": "There are fewer tourists in winter, making the visit very peaceful. Since the ruins are open to the elements, windproof clothing is key to studying the details comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo San Nicola di Bari",
+                "hu": "Duomo San Nicola di Bari",
+                "ro": "Duomo San Nicola di Bari",
+                "en": "Duomo San Nicola di Bari"
+              },
+              "tip_5lang": {
+                "de": "Das warme Gold der Innenausstattung wirkt im Winterlicht besonders einladend. Ein ruhiger Ort, um kurz innezuhalten, während draußen der kühle Wind durch die Gassen zieht.",
+                "hu": "A belső díszítés meleg arany színei a téli fényben különösen hívogatónak tűnnek. Nyugodt hely egy rövid megállóra, miközben odakint a hűvös szél fúj az utcákon.",
+                "ro": "Culorile aurii calde ale decorului interior par deosebit de primitoare în lumina iernii. Un loc liniștit pentru o scurtă oprire în timp ce afară vântul rece bate pe străzi.",
+                "en": "The warm gold colors of the interior decoration look especially inviting in the winter light. A peaceful spot for a short pause while the cool wind blows through the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giuseppe",
+                "hu": "San Giuseppe",
+                "ro": "San Giuseppe",
+                "en": "San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller, aber lohnenswerter Stopp. Da es im Winter früher dunkel wird, nutzen Sie die Beleuchtung der Kirche, die in der Dämmerung eine besondere Magie entfaltet.",
+                "hu": "Gyors, de megéri a megállót. Mivel télen korábban sötétedik, használjuk ki a templom világítását, amely a szürkületben különleges varázst kölcsönöz az épületnek.",
+                "ro": "O oprire rapidă, dar care merită. Deoarece iarna se întunecă mai devreme, profitați de iluminatul bisericii, care la amurg conferă o magie deosebită clădirii.",
+                "en": "A quick but worthwhile stop. Since it gets dark earlier in winter, enjoy the church's lighting, which lends a special magic to the building during the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquedotto Romano Cornelio",
+                "hu": "Acquedotto Romano Cornelio",
+                "ro": "Acquedotto Romano Cornelio",
+                "en": "Acquedotto Romano Cornelio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier pünktlich zum Sonnenuntergang. Die tiefstehende Sonne wirft lange Schatten durch die Bögen des Aquädukts – ein grandioses winterliches Fotomotiv.",
+                "hu": "Zárjuk itt a napot pontban a naplementére. Az alacsonyan járó nap hosszú árnyékokat vet az aqueduct ívei között, ami grandiózus téli fotótémát szolgáltat a túra végén.",
+                "ro": "Încheiați ziua aici exact la apus. Soarele jos aruncă umbre lungi printre arcadele apeductului, oferind un subiect fotografic grandios de iarnă la finalul turului.",
+                "en": "End your day here exactly at sunset. The low sun casts long shadows through the arches of the aqueduct, providing a magnificent winter photo subject at the end of the tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

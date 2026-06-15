@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Saint Trinite templom romjainál, elmerülve Hacı Yusuf múltjában. Egy rövid séta elvezeti az Art Bella galériába, amely kortárs helyi művészettel téríti vissza a jelenbe.\nDélben fedezze fel a Tunç Başaran Kulturális Központot, amely a török filmművészet örökségét ünnepli. Ez a tökéletes alkalom egy gyors helyi ebédre a környéken.\nA kora délutánt a lenyűgöző Balıkesir közigazgatási épületének szenteljük. Történelmi építészete tökéletes hátteret biztosít, miközben a város vallási központja felé sétál.\nZárja a napot a Haydar Çavuş mecset és a hatalmas Ulu Camii spirituális nyugalmában. Az esti imára hívó hang végigzeng az utcákon, békés befejezést kínálva sétájának.",
         "ro": "Începeți dimineața printre ruinele Bisericii Saint Trinite, cufundându-vă în trecutul din Hacı Yusuf. O scurtă plimbare vă duce la Art Bella, aducându-vă în prezent prin arta contemporană.\nLa amiază veți explora Centrul Cultural Tunç Başaran, care celebrează patrimoniul cinematografic turcesc. Este un moment excelent pentru a lua un prânz rapid și delicios în apropiere.\nÎnceputul după-amiezii este dedicat impunătoarei clădiri administrative Balıkesir. Arhitectura sa istorică oferă un fundal perfect în timp ce vă îndreptați spre centrul religios.\nÎncheiați ziua admirând liniștea spirituală a Moscheii Haydar Çavuş și a marii Ulu Camii. Chemarea la rugăciune de seară răsună pe străzi, oferind o concluzie cu adevărat pașnică.",
         "en": "Start your morning diving into Hacı Yusuf’s past at the Saint Trinite Church ruins, imagining its former grandeur. A short stroll leads to Art Bella, bringing you back to the present with local contemporary art.\nAs midday arrives, you will explore the Tunç Başaran Kültür Merkezi, celebrating Turkey's cinematic heritage. It is a great moment to grab a quick local lunch nearby.\nThe early afternoon is dedicated to the imposing Balıkesir Büyükşehir Belediyesi building. Its historic architecture provides a perfect backdrop as you meander towards the religious center of town.\nEnd your day admiring the spiritual serenity of Haydar Çavuş Mosque and the grand Ulu Camii. The evening call to prayer echoes through the streets, offering a truly peaceful conclusion to your walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag bei der Kirche, während der Regen die alten Steine glänzen lässt. Mittags bieten die Kulturzentren perfekten Schutz vor den Güssen. Am Nachmittag erkunden Sie die prächtigen Moscheen, deren Kuppeln im Regen eine mystische Aura verströmen. Der Abend endet mit stimmungsvollen Reflexionen in den Pfützen der historischen Gassen von Bandırma, ein feuchtes Abenteuer.",
+            "hu": "Kezdje a napot a templomnál, miközben az eső mossa az ősi falakat. Délben a kulturális központok nyújtanak menedéket a záporok elől. Délután látogasson el a mecsetekbe, ahol a fedett belső terekben szárazon maradhat, miközben hallgatja az eső kopogását. Az este a nedves utcák fényeiben való gyönyörködéssel zárul, vízálló cipőben a legélvezetesebb a séta.",
+            "ro": "Începeți ziua la biserică, în timp ce ploaia face pietrele vechi să strălucească. La prânz, centrele culturale oferă adăpostul perfect împotriva averselor. După-amiaza, explorați moscheile magnifice, unde interioarele acoperite vă mențin uscat. Seara se încheie cu reflexii poetice în bălțile de pe străzile istorice, o plimbare melancolică dar fascinantă prin Bandırma.",
+            "en": "Start your day at the church as the rain makes the ancient stones glisten. At noon, the cultural centers provide perfect shelter from the downpours. In the afternoon, explore the grand mosques where the covered interiors keep you dry while you admire the architecture. The evening ends with atmospheric reflections in the puddles of Bandırma's historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Trinite Church",
+                "hu": "Saint Trinite Church",
+                "ro": "Saint Trinite Church",
+                "en": "Saint Trinite Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Schutz Ihres Schirms und achten Sie auf die rutschigen Steinstufen am Eingang bei Nässe.",
+                "hu": "Csodálja meg az építészetet az esernyője alól, és vigyázzon a bejáratnál lévő vizes, csúszós lépcsőkre a balesetek elkerülése végett.",
+                "ro": "Admirați arhitectura sub protecția umbrelei și aveți grijă la treptele de piatră de la intrare care devin foarte alunecoase când plouă.",
+                "en": "Admire the architecture from under your umbrella and watch out for the slippery stone steps at the entrance when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Bella",
+                "hu": "Art Bella",
+                "ro": "Art Bella",
+                "en": "Art Bella"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Innenraum, um den schwersten Regengüssen zu entkommen und lokale Kunstwerke in Ruhe trocken zu genießen.",
+                "hu": "Használja ki ezt a meleg belső teret, hogy elmeneküljön a heves záporok elől, és nyugodtan, szárazon élvezze a helyi alkotásokat.",
+                "ro": "Folosiți acest spațiu interior cald pentru a scăpa de cele mai grele ploi și bucurați-vă de lucrările de artă locale în liniște.",
+                "en": "Use this warm indoor space to escape the heaviest rain showers and enjoy local artworks in peace and dry comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunç Başaran Kültür Merkezi",
+                "hu": "Tunç Başaran Kültür Merkezi",
+                "ro": "Tunç Başaran Kültür Merkezi",
+                "en": "Tunç Başaran Kültür Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zufluchtsort bei Regen; prüfen Sie Ihre Regenkleidung im Foyer, bevor Sie die Ausstellungen in den trockenen Sälen besuchen.",
+                "hu": "Ideális búvóhely esőben; ellenőrizze esőkabátját az előtérben, mielőtt felfedezné a kiállításokat a száraz és kényelmes termekben.",
+                "ro": "Un refugiu ideal pe timp de ploaie; verificați pelerina de ploaie în foier înainte de a vizita expozițiile în sălile uscate.",
+                "en": "An ideal refuge during rain; check your rain gear in the foyer before exploring the exhibitions in the dry and quiet halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "hu": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "ro": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "en": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude bietet festen Boden und Schutz; nutzen Sie die überdachten Bereiche, um die Fassade ohne Nässe zu betrachten.",
+                "hu": "A történelmi épület szilárd talajt és védelmet nyújt; használja a fedett részeket a homlokzat megtekintéséhez esőzés közben is.",
+                "ro": "Clădirea istorică oferă un teren solid și protecție; folosiți zonele acoperite pentru a vedea fațada fără a vă uda deloc.",
+                "en": "The historical building offers solid ground and shelter; use the covered areas to view the facade without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Haydar Çavuş Mosque",
+                "hu": "Haydar Çavuş Mosque",
+                "ro": "Haydar Çavuş Mosque",
+                "en": "Haydar Çavuş Mosque"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nassen Schuhe im vorgesehenen Bereich und genießen Sie die spirituelle Stille, während draußen der Regen sanft prasselt.",
+                "hu": "Hagyja vizes cipőit a kijelölt helyen, és élvezze a spirituális csendet, miközben kint halkan kopog az eső a mecset falain.",
+                "ro": "Lăsați încălțămintea umedă în zona desemnată și bucurați-vă de liniștea spirituală în timp ce afară ploaia bate ușor în geamuri.",
+                "en": "Leave your wet shoes in the designated area and enjoy the spiritual silence while the rain taps gently outside the mosque walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu Camii",
+                "hu": "Ulu Camii",
+                "ro": "Ulu Camii",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Die weiten Teppichböden sind ein Segen für kalte, nasse Füße; verweilen Sie länger im Inneren, bis der Schauer draußen nachlässt.",
+                "hu": "A tágas szőnyegezett padló áldás a hideg, vizes lábaknak; pihenjen bent hosszabban, amíg a kinti zápor ereje kicsit alábbhagy.",
+                "ro": "Covoarele lungi sunt o binecuvântare pentru picioarele reci și ude; rămâneți mai mult timp în interior până când ploaia de afară se oprește.",
+                "en": "The vast carpeted floors are a blessing for cold, wet feet; stay inside longer until the shower outside subsides a bit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Wintermorgenluft an der historischen Kirche. Mittags wärmen Sie sich in den modernen Verwaltungs- und Kulturgebäuden auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, leuchten die Moscheen im frühen Abendlicht besonders prachtvoll. Der Tag endet in der gemütlichen Dunkelheit des historischen Viertels, perfekt für einen heißen Tee nach dem Spaziergang.",
+            "hu": "Élje át a friss téli reggelt a történelmi templomnál. Délben melegedjen fel a modern közigazgatási és kulturális épületekben. Mivel a nap már 17:00 körül lemegy, a mecsetek kupolái az esti fényben különösen szépen ragyognak. A nap a történelmi negyed korai sötétségében zárul, ami után jól esik majd egy forró tea a helyi kávézók egyikében.",
+            "ro": "Experimentați aerul proaspăt al dimineții de iarnă la biserica istorică. La prânz, încălziți-vă în clădirile administrative și culturale moderne. Deoarece soarele apune deja în jurul orei 17:00, moscheile strălucesc superb în lumina serii devreme. Ziua se încheie în întunericul primitor al cartierului istoric, perfect pentru un ceai fierbinte după plimbare.",
+            "en": "Experience the crisp winter morning air at the historic church. At noon, warm up in the modern administrative and cultural buildings. Since the sun sets around 17:00, the mosques shine beautifully in the early evening light. The day ends in the cozy darkness of the historic district, perfect for a hot tea after your stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Trinite Church",
+                "hu": "Saint Trinite Church",
+                "ro": "Saint Trinite Church",
+                "en": "Saint Trinite Church"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft hebt die Details der Steine hervor; tragen Sie warme Schichten, da es im Inneren der alten Kirche kühl sein kann.",
+                "hu": "A hideg levegő kiemeli a kövek részleteit; öltözzön rétegesen, mert a régi templom belseje télen is hűvös maradhat.",
+                "ro": "Aerul rece scoate în evidență detaliile pietrei; purtați haine groase, deoarece în interiorul bisericii vechi poate fi destul de frig.",
+                "en": "The cold air highlights the stone details; wear warm layers as the interior of the old church can be quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Bella",
+                "hu": "Art Bella",
+                "ro": "Art Bella",
+                "en": "Art Bella"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen zur Mittagszeit; genießen Sie die Kunst in einer beheizten Umgebung, weit weg vom Winterwind.",
+                "hu": "Tökéletes hely a felmelegedésre délidőben; élvezze a művészetet fűtött környezetben, távol a metsző téli széltől.",
+                "ro": "Un loc perfect pentru a vă încălzi la prânz; bucurați-vă de artă într-un mediu încălzit, departe de vântul tăios de iarnă.",
+                "en": "A perfect place to warm up at noon; enjoy the art in a heated environment, far away from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunç Başaran Kültür Merkezi",
+                "hu": "Tunç Başaran Kültür Merkezi",
+                "ro": "Tunç Başaran Kültür Merkezi",
+                "en": "Tunç Başaran Kültür Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung und erkunden Sie entspannt die kulturellen Schätze im warmen Gebäude.",
+                "hu": "Használja a ruhatárat nehéz téli kabátjaihoz, és fedezze fel nyugodtan a kulturális kincseket a kellemesen meleg épületben.",
+                "ro": "Folosiți garderoba pentru hainele groase de iarnă și explorați relaxat comorile culturale în interiorul clădirii călduroase.",
+                "en": "Use the cloakroom for your heavy winter coats and explore the cultural treasures comfortably in the warm building."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "hu": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "ro": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "en": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf das Gebäude; ideal für Fotos vor dem frühen Sonnenuntergang um 17 Uhr.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet az épületre; ideális fotózáshoz a korai, 17 órai naplemente előtt.",
+                "ro": "Soarele de iarnă proiectează umbre lungi pe clădire; este un moment ideal pentru fotografii înainte de apusul de la ora 17.",
+                "en": "The low winter sun casts long shadows on the building; ideal for photos before the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Haydar Çavuş Mosque",
+                "hu": "Haydar Çavuş Mosque",
+                "ro": "Haydar Çavuş Mosque",
+                "en": "Haydar Çavuş Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Teppiche bieten eine willkommene Isolierung gegen die Kälte; ein ruhiger Ort, um den frühen Winterabend zu begrüßen.",
+                "hu": "A vastag szőnyegek szívesen látott szigetelést nyújtanak a hideg ellen; csendes hely a korai téli este fogadására.",
+                "ro": "Covoarele groase oferă o izolare binevenită împotriva frigului; un loc liniștit pentru a întâmpina seara devreme de iarnă.",
+                "en": "The thick carpets provide welcome insulation against the cold; a quiet place to welcome the early winter evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu Camii",
+                "hu": "Ulu Camii",
+                "ro": "Ulu Camii",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee kurz vor 17 Uhr, um das warme Licht der Lampen in der einsetzenden Dämmerung des Winters zu erleben.",
+                "hu": "Látogassa meg a mecsetet röviddel 17 óra előtt, hogy átélje a lámpák meleg fényét a leszálló téli szürkületben.",
+                "ro": "Vizitați moscheea chiar înainte de ora 17 pentru a experimenta lumina caldă a lămpilor în amurgul iernii care se lasă.",
+                "en": "Visit the mosque shortly before 17:00 to experience the warm light of the lamps in the descending winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "A reggel a parton igazán frissítő; kezdje a túrát a piros világítótoronynál. A tengeri szellő energiával tölti fel, miközben a történelmi közigazgatási épület felé kerékpározik.\nDélben a történelmi Saint Trinite templom romjait fedezi fel. A történelmi utcákon való kerékpározás remekül összeköti a vízparti sétányt és a régi, hangulatos városrészeket.\nDélután tekerjen el a Bandırma Tudományos és Művészeti Központba. Ez a kreatív csomópont egy nyüzsgő hely, ahol a tudomány és a helyi művészet találkozik, ideális egy kis pihenőre.\nA túra a Tiyatro Kyzikosnál ér véget az este közeledtével. Parkolja le a kerékpárt, és gondoljon vissza a város gazdag tengerészeti, kulturális és művészeti örökségére.",
         "ro": "Dimineața pe coastă este revigorantă; începeți cursa la Farul Roșu. Briza mării vă energizează în timp ce pedalați spre clădirea istorică a administrației orașului.\nLa amiază veți explora ruinele Bisericii Saint Trinite. Mersul pe bicicletă prin aceste străzi istorice oferă un sentiment fantastic de scară și conectează faleza de cartierele vechi.\nDupă-amiaza, pedalați către Centrul de Știință și Artă. Acest hub creativ este un loc plin de viață unde știința se intersectează cu arta, perfect pentru o pauză stimulativă.\nCursa se încheie la Tiyatro Kyzikos odată cu lăsarea serii. Parcați bicicleta și reflectați la amestecul bogat de istorie maritimă, cultură și artă sub lumina soarelui la apus.",
         "en": "Morning along the coast is invigorating; kick off your ride at the Bandırma Red Lighthouse. The crisp sea breeze energizes you as you cycle towards the historic city administration building.\nMidday finds you exploring the ruins of the Saint Trinite Church. Cycling through these historic streets gives a fantastic sense of scale and connects the waterfront to the old neighborhoods.\nIn the afternoon, pedal over to the Bandırma Bilim ve Sanat Merkezi. This creative hub is a lively spot where science and local art intersect, perfect for a stimulating afternoon break.\nYour ride concludes at Tiyatro Kyzikos as evening approaches. Park your bike and reflect on the city's rich blend of maritime history, culture, and arts under the fading sunlight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Leuchtturm, wo die Gischt und der Regen eins werden. Die Fahrt zur Stadtverwaltung erfordert Vorsicht auf den nassen Wegen. Mittags bieten Bildungseinrichtungen eine trockene Pause. Am Nachmittag erreichen Sie das antike Theater; tragen Sie unbedingt wasserfeste Kleidung. Der Tag endet im Hafen, wo das rhythmische Prasseln des Regens auf das Metall Ihres Rades trifft.",
+            "hu": "Kezdjen a világítótoronynál, ahol a tenger permete és az eső eggyé válik. A városházához vezető út óvatosságot igényel a nedves aszfalton. Délben az oktatási intézmények nyújtanak száraz pihenőt. Délután éri el az antik színházat; mindenképpen viseljen vízálló ruházatot. A nap a kikötőben zárul, ahol az eső ritmikus kopogása festi alá a kerékpározást.",
+            "ro": "Începeți la far, unde stropii mării și ploaia devin una. Drumul spre primărie necesită prudență pe pistele umede. La prânz, instituțiile de învățământ oferă o pauză uscată. După-amiaza ajungeți la teatrul antic; purtați neapărat haine impermeabile. Ziua se încheie în port, unde ropotul ritmic al ploii pe cadrul bicicletei creează o atmosferă unică.",
+            "en": "Start at the lighthouse where the sea spray and rain merge. The ride to the city hall requires caution on wet paths. At noon, educational centers provide a dry break. In the afternoon, reach the ancient theater; waterproof gear is essential. The day ends at the harbor, where the rhythmic tapping of rain on your bike accompanies the maritime atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bandırma Red Lighthouse",
+                "hu": "Bandırma Red Lighthouse",
+                "ro": "Bandırma Red Lighthouse",
+                "en": "Bandırma Red Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Wind und rutschige Molenbereiche; parken Sie Ihr Rad sicher, bevor Sie den Blick auf das graue Meer genießen.",
+                "hu": "Vigyázzon az erős szélre és a csúszós mólóra; parkolja le biztonságosan a biciklit, mielőtt a szürke tenger látványában gyönyörködne.",
+                "ro": "Atenție la vântul puternic și la zonele alunecoase ale digului; parcați bicicleta în siguranță înainte de a privi marea cenușie.",
+                "en": "Watch out for strong winds and slippery pier areas; park your bike securely before enjoying the view of the gray sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "hu": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "ro": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "en": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades, während Sie die historische Architektur im Trockenen bewundern.",
+                "hu": "Használja a fedett bejárati részt a kerékpár tárolására, amíg Ön szárazon csodálja a történelmi épület építészeti megoldásait.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a parca bicicleta în timp ce admirați arhitectura istorică la adăpost de ploaie.",
+                "en": "Use the covered entrance area to park your bike while you admire the historical architecture in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Trinite Church",
+                "hu": "Saint Trinite Church",
+                "ro": "Saint Trinite Church",
+                "en": "Saint Trinite Church"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf dem Kopfsteinpflaster rund um die Kirche, da die Steine bei Regen extrem glatt werden können.",
+                "hu": "Kerülje az erős fékezést a templom körüli macskaköveken, mivel az esőben ezek a kövek rendkívül csúszóssá válhatnak.",
+                "ro": "Evitați frânarea bruscă pe pavajul din jurul bisericii, deoarece pietrele pot deveni extrem de alunecoase din cauza ploii.",
+                "en": "Avoid sharp braking on the cobblestones around the church, as the stones can become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandırma Bilim ve Sanat Merkezi",
+                "hu": "Bandırma Bilim ve Sanat Merkezi",
+                "ro": "Bandırma Bilim ve Sanat Merkezi",
+                "en": "Bandırma Bilim ve Sanat Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um die Kleidung zu trocknen; parken Sie das Rad im Windschatten des Gebäudes, um es vor Regen zu schützen.",
+                "hu": "Kiváló megálló a ruházat megszárításához; parkolja a biciklit az épület szélvédett oldalán, hogy óvja az esőtől.",
+                "ro": "O oprire excelentă pentru a vă usca hainele; parcați bicicleta la adăpost de vânt lângă clădire pentru a o proteja de ploaie.",
+                "en": "An excellent stop to dry your gear; park your bike in the lee of the building to protect it from the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiyatro Kyzikos",
+                "hu": "Tiyatro Kyzikos",
+                "ro": "Tiyatro Kyzikos",
+                "en": "Tiyatro Kyzikos"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann matschig sein; prüfen Sie Ihre Bremsen nach der Fahrt und genießen Sie das antike Flair im Regenmantel.",
+                "hu": "Az idevezető út saras lehet; ellenőrizze a fékeket az út után, és élvezze az antik hangulatot egy jó esőkabátban.",
+                "ro": "Drumul până aici poate fi noroios; verificați frânele după călătorie și bucurați-vă de atmosfera antică purtând o pelerină.",
+                "en": "The path here might be muddy; check your brakes after the ride and enjoy the ancient atmosphere in a good raincoat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Leuchtturm mit scharfem Seewind. Die Fahrt durch das Stadtzentrum hält Sie in Bewegung und warm. Mittags bieten die Kulturgebäude eine nötige Pause von der Kälte. Planen Sie Ihre Route so, dass Sie das antike Theater vor dem Sonnenuntergang um 17:00 Uhr erreichen. Der Tag endet mit einer zügigen Fahrt durch die winterliche Abenddämmerung zum Ziel.",
+            "hu": "Hűvös kezdés a világítótoronynál, metsző tengeri széllel. A városközponton keresztüli tekerés mozgásban és melegen tartja. Délben a kulturális épületek nyújtanak szükséges pihenőt a hideg elől. Úgy tervezze az útját, hogy 17:00 előtt, még naplemente előtt elérje az antik színházat. A nap egy gyors tekeréssel zárul a téli szürkületben.",
+            "ro": "Un început răcoros la far cu un vânt tăios de mare. Plimbarea prin centrul orașului vă ține în mișcare și vă încălzește. La prânz, clădirile culturale oferă o pauză necesară de la frig. Planificați ruta astfel încât să ajungeți la teatrul antic înainte de apusul de la ora 17:00. Ziua se încheie cu o cursă rapidă prin amurgul iernii.",
+            "en": "A chilly start at the lighthouse with a sharp sea breeze. Riding through the city center keeps you moving and warm. At noon, cultural buildings provide a necessary break from the cold. Plan your route to reach the ancient theater before the 17:00 sunset. The day ends with a brisk ride through the wintry evening twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bandırma Red Lighthouse",
+                "hu": "Bandırma Red Lighthouse",
+                "ro": "Bandırma Red Lighthouse",
+                "en": "Bandırma Red Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt am Meer, da die Kälte hier am Leuchtturm durch die Feuchtigkeit intensiver wirkt.",
+                "hu": "Viseljen szélálló kesztyűt a tengerparti tekeréshez, mivel a világítótoronynál a nedvesség miatt a hideg intenzívebbnek tűnik.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drumul pe malul mării, deoarece frigul de la far este mai intens din cauza umidității.",
+                "en": "Wear windproof gloves for the seaside ride, as the cold at the lighthouse feels more intense due to the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "hu": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "ro": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası",
+                "en": "Balıkesir Büyükşehir Belediyesi Güney Marmara Hizmet Binası"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren ist ratsam, bevor Sie die Fahrt durch das zugige Winterwetter fortsetzen.",
+                "hu": "Érdemes egy rövid megállót tartani bent a felmelegedéshez, mielőtt folytatná az utat a huzatos téli időjárásban.",
+                "ro": "O scurtă oprire în interior pentru a vă încălzi este recomandată înainte de a continua drumul prin vremea geroasă de iarnă.",
+                "en": "A short stop to warm up inside is advisable before continuing your ride through the drafty winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Trinite Church",
+                "hu": "Saint Trinite Church",
+                "ro": "Saint Trinite Church",
+                "en": "Saint Trinite Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Wintersonne, um den Sattel warm zu halten, während Sie die frostige Schönheit der Kirche bewundern.",
+                "hu": "Parkolja a biciklit a téli napsütésben, hogy az ülés melegen maradjon, amíg Ön a templom fagyos szépségében gyönyörködik.",
+                "ro": "Parcați bicicleta la soarele de iarnă pentru a menține șaua caldă în timp ce admirați frumusețea înghețată a bisericii.",
+                "en": "Park your bike in the winter sun to keep the saddle warm while you admire the frosty beauty of the church's exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandırma Bilim ve Sanat Merkezi",
+                "hu": "Bandırma Bilim ve Sanat Merkezi",
+                "ro": "Bandırma Bilim ve Sanat Merkezi",
+                "en": "Bandırma Bilim ve Sanat Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Ort für eine längere Pause im Warmen, um Energie für die letzte Etappe des Tages zu tanken.",
+                "hu": "Használja ki ezt a helyet egy hosszabb, meleg szünetre, hogy energiát gyűjtsön a nap utolsó szakaszához.",
+                "ro": "Folosiți acest loc pentru o pauză mai lungă la căldură, pentru a vă reîncărca energiile pentru ultima etapă a zilei.",
+                "en": "Use this location for a longer break in the warmth to recharge your energy for the final stretch of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiyatro Kyzikos",
+                "hu": "Tiyatro Kyzikos",
+                "ro": "Tiyatro Kyzikos",
+                "en": "Tiyatro Kyzikos"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Ort unbedingt vor 17 Uhr, um die antiken Ruinen im schwindenden Tageslicht ohne künstliche Beleuchtung zu sehen.",
+                "hu": "Mindenképpen érjen ide 17 óra előtt, hogy az antik romokat a fogyatkozó nappali fényben, mesterséges világítás nélkül láthassa.",
+                "ro": "Ajungeți neapărat înainte de ora 17 pentru a vedea ruinele antice în lumina slabă a zilei, fără iluminat artificial.",
+                "en": "Make sure to arrive before 17:00 to see the ancient ruins in the fading daylight without any artificial lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje az autós túrát a sűrű központtól távolabb, a buja Paşabayırı Természetvédelmi Területen. Élvezze a csendes reggeli sétát a természetben, mielőtt a városi kiállítások felé hajtana.\nDélre eléri a Bahçe Teşhir Alanı szabadtéri kiállításait. Az ókorba tett kirándulás után egy nagyon rövid út a parthoz vezet, hogy megnézze a bájos zöld világítótornyot.\nDélután haladjon a nyüzsgő központ felé a Haydar Çavuş mecset megtekintéséhez. Az autó kényelmet nyújt, ahogy a szeles vízpartról a nyugodt vallási építészet felé halad.\nAhogy a késő délután estébe hajlik, parkoljon le a Saint Trinite templom romjai közelében. A halványuló fény gyönyörű árnyékokat vet az ősi kövekre, drámai lezárást nyújtva.",
         "ro": "Începeți turul auto departe de centrul aglomerat, în luxurianta Arie Protejată Paşabayırı. Bucurați-vă de o plimbare liniștită în natură înainte de a conduce spre expozițiile istorice.\nLa amiază ajungeți la expozițiile în aer liber Bahçe Teşhir Alanı. După o scufundare în antichitate, un drum scurt vă duce pe coastă pentru a vedea fermecătorul Far Verde.\nDupă-amiaza, navigați spre centrul plin de viață pentru a vizita Moscheea Haydar Çavuş. Mașina oferă confort în timp ce vă deplasați de la faleza aerisită la arhitectura religioasă.\nSpre seară, parcați aproape de ruinele Bisericii Saint Trinite. Lumina care apune aruncă umbre frumoase pe pietrele antice, oferind un final dramatic pentru excursia dumneavoastră.",
         "en": "Start your driving tour away from the dense center at the lush Paşabayırı Natural Protected Area. Enjoy a tranquil morning walk in nature before driving towards the city's historical exhibits.\nBy midday, you arrive at the Bahçe Teşhir Alanı open-air displays. Following a dive into antiquity, a very short drive takes you to the coast to view the charming Bandırma Green Lighthouse.\nIn the afternoon, navigate towards the bustling core to visit the Haydar Çavuş Mosque. The car provides comfort as you move from the breezy waterfront to the serene religious architecture.\nAs late afternoon turns to evening, park near the Saint Trinite Church ruins. The fading light casts beautiful shadows on the ancient stones, providing a dramatic end to your road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch das neblige Naturschutzgebiet bequem vom trockenen Auto aus. Mittags besuchen Sie Ausstellungsflächen, wobei der Regen gegen das Autodach trommelt. Am Nachmittag parken Sie nahe an den historischen Moscheen und der Kirche, um nasse Füße zu vermeiden. Der Tag endet mit einer Panoramafahrt durch die beleuchteten, regnerischen Straßen von Bandırma.",
+            "hu": "Élvezze a ködös természetvédelmi területen való átutazást az autó száraz kényelméből. Délben látogassa meg a kiállítótereket, miközben az eső kopog a tetőn. Délután parkoljon közel a mecsetekhez és a templomhoz, hogy elkerülje a megázást. A nap egy panorámás autózással zárul Bandırma kivilágított, esőtől csillogó utcáin keresztül.",
+            "ro": "Bucurați-vă de drumul prin rezervația naturală cețoasă din confortul uscat al mașinii. La prânz vizitați spațiile expoziționale în timp ce ploaia bate în parbriz. După-amiaza parcați aproape de moschei și biserică pentru a evita să vă udați picioarele. Ziua se încheie cu o plimbare panoramică pe străzile iluminate și ploioase din Bandırma.",
+            "en": "Enjoy the drive through the misty nature reserve from the dry comfort of your car. At noon, visit the exhibition areas while the rain drums on the roof. In the afternoon, park close to the mosques and the church to avoid getting wet. The day ends with a panoramic drive through the illuminated, rainy streets of Bandırma."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paşabayırı Natural Protected Area",
+                "hu": "Paşabayırı Natural Protected Area",
+                "ro": "Paşabayırı Natural Protected Area",
+                "en": "Paşabayırı Natural Protected Area"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Natur durch das Fenster und nutzen Sie kurze Regenpausen für Fotos, ohne sich weit vom Auto zu entfernen.",
+                "hu": "Figyelje a természetet az ablakon keresztül, és használja ki a rövid esőszüneteket a fotózáshoz, ne távolodjon el messze az autótól.",
+                "ro": "Observați natura prin geam și profitați de scurtele pauze de ploaie pentru fotografii, fără a vă îndepărta prea mult de mașină.",
+                "en": "Observe nature through the window and use short breaks in the rain for photos without wandering too far from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahçe Teşhir Alanı",
+                "hu": "Bahçe Teşhir Alanı",
+                "ro": "Bahçe Teşhir Alanı",
+                "en": "Bahçe Teşhir Alanı"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie strategisch günstig, um den Ausstellungsbereich schnell zu erreichen und die historische Atmosphäre trotz des Regens zu genießen.",
+                "hu": "Parkoljon stratégiai ponton, hogy gyorsan elérje a kiállítóteret, és az eső ellenére is élvezze a történelmi atmoszférát.",
+                "ro": "Parcați strategic pentru a ajunge rapid la zona de expunere și bucurați-vă de atmosfera istorică în ciuda ploii de afară.",
+                "en": "Park strategically to reach the exhibition area quickly and enjoy the historical atmosphere despite the rain falling outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandırma Green Lighthouse",
+                "hu": "Bandırma Green Lighthouse",
+                "ro": "Bandırma Green Lighthouse",
+                "en": "Bandırma Green Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Leuchtturm bei eingeschalteten Scheibenwischern; die Gischt bietet ein dramatisches Schauspiel bei Schietwetter.",
+                "hu": "Élvezze a világítótorony látványát bekapcsolt ablaktörlők mellett; a tenger permete drámai látványt nyújt a zord időben.",
+                "ro": "Bucurați-vă de vederea farului cu ștergătoarele pornite; stropii mării oferă un spectacol dramatic pe această vreme rea.",
+                "en": "Enjoy the view of the lighthouse with your wipers on; the sea spray offers a dramatic spectacle during this foul weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Haydar Çavuş Mosque",
+                "hu": "Haydar Çavuş Mosque",
+                "ro": "Haydar Çavuş Mosque",
+                "en": "Haydar Çavuş Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und nehmen Sie einen Schirm für den kurzen Weg zur Moschee mit, um trocken ins Innere zu gelangen.",
+                "hu": "Használja a közeli parkolót, és vigyen esernyőt a mecsetig tartó rövid útra, hogy szárazon juthasson be az épületbe.",
+                "ro": "Folosiți parcarea din apropiere și luați o umbrelă pentru drumul scurt până la moschee, pentru a intra uscat în interior.",
+                "en": "Use the nearby parking and bring an umbrella for the short walk to the mosque to ensure you get inside completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Trinite Church",
+                "hu": "Saint Trinite Church",
+                "ro": "Saint Trinite Church",
+                "en": "Saint Trinite Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen prachtvollen Anblick im Regen; parken Sie so, dass Sie die Fassade aus dem Auto heraus bewundern können.",
+                "hu": "A templom pompás látványt nyújt az esőben; parkoljon úgy, hogy az autó ablakából is megcsodálhassa a díszes homlokzatot.",
+                "ro": "Biserica oferă o priveliște superbă în ploaie; parcați astfel încât să puteți admira fațada chiar din interiorul mașinii.",
+                "en": "The church offers a magnificent sight in the rain; park so that you can admire the facade directly from your car window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit einer warmen Autofahrt zum frostigen Naturschutzgebiet. Mittags steuern Sie die historischen Stätten an, wobei die Heizung für Komfort sorgt. Achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr und planen Sie Ihre Besuche bei den Wahrzeichen entsprechend. Der Tag endet sicher im warmen Wagen, während die winterliche Dunkelheit über Hacı Yusuf hereinbricht.",
+            "hu": "Kezdje a napot egy fűtött autózással a fagyos természetvédelmi területhez. Délben keresse fel a történelmi helyszíneket, miközben az autó melege kényelmet nyújt. Ügyeljen a korai, 17:00 órai naplementére, és tervezze meg a látnivalók látogatását eszerint. A nap biztonságban, a meleg kocsiban zárul, ahogy a téli sötétség leszáll Hacı Yusufra.",
+            "ro": "Începeți ziua cu o plimbare călduroasă spre rezervația naturală înghețată. La prânz vizitați siturile istorice, beneficiind de confortul oferit de încălzire. Atenție la apusul devreme de la ora 17:00 și planificați vizitele la obiective în consecință. Ziua se încheie în siguranță în mașina caldă, în timp ce întunericul de iarnă coboară peste Hacı Yusuf.",
+            "en": "Start the day with a warm drive to the frosty nature reserve. At noon, head to the historic sites while the heater ensures your comfort. Be mindful of the early 17:00 sunset and plan your landmark visits accordingly. The day ends safely in your warm car as the winter darkness settles over Hacı Yusuf."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paşabayırı Natural Protected Area",
+                "hu": "Paşabayırı Natural Protected Area",
+                "ro": "Paşabayırı Natural Protected Area",
+                "en": "Paşabayırı Natural Protected Area"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto ist nach einem kurzen Spaziergang in der kalten Winterluft des Schutzgebiets ein wahrer Segen.",
+                "hu": "Az autó fűtése igazi áldás lesz a természetvédelmi terület hideg téli levegőjén tett rövid séta után.",
+                "ro": "Încălzirea din mașină este o adevărată binecuvântare după o scurtă plimbare în aerul rece de iarnă al rezervației.",
+                "en": "The car's heater is a true blessing after a short walk in the cold winter air of the protected nature reserve."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahçe Teşhir Alanı",
+                "hu": "Bahçe Teşhir Alanı",
+                "ro": "Bahçe Teşhir Alanı",
+                "en": "Bahçe Teşhir Alanı"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheiben frei von Frost sind, um die historischen Artefakte schon bei der Anfahrt gut sehen zu können.",
+                "hu": "Győződjön meg róla, hogy az ablakok jégmentesek, hogy már az érkezéskor jól láthassa a történelmi műtárgyakat.",
+                "ro": "Asigurați-vă că geamurile sunt dezghețate pentru a vedea bine artefactele istorice încă de la sosire.",
+                "en": "Make sure your windows are free of frost to clearly see the historical artifacts as soon as you arrive at the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandırma Green Lighthouse",
+                "hu": "Bandırma Green Lighthouse",
+                "ro": "Bandırma Green Lighthouse",
+                "en": "Bandırma Green Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick; bleiben Sie im Warmen und beobachten Sie den Wellengang am winterlichen Leuchtturm.",
+                "hu": "A parkoló remek kilátást nyújt; maradjon a melegben, és figyelje a hullámverést a téli világítótoronynál.",
+                "ro": "Parcarea oferă o priveliște excelentă; rămâneți la căldură și observați valurile la farul de iarnă.",
+                "en": "The parking area offers a great view; stay warm inside while watching the waves crash against the wintry lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Haydar Çavuş Mosque",
+                "hu": "Haydar Çavuş Mosque",
+                "ro": "Haydar Çavuş Mosque",
+                "en": "Haydar Çavuş Mosque"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor dem frühen Sonnenuntergang um 17 Uhr ein, um die Moschee im letzten Tageslicht zu bewundern.",
+                "hu": "Tervezze ezt a megállót a korai, 17 órai naplemente elé, hogy a mecsetet az utolsó nappali fényben csodálhassa meg.",
+                "ro": "Planificați această oprire înainte de apusul devreme de la ora 17 pentru a admira moscheea în ultima lumină a zilei.",
+                "en": "Plan this stop before the early 17:00 sunset to admire the mosque in the last available natural light of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Trinite Church",
+                "hu": "Saint Trinite Church",
+                "ro": "Saint Trinite Church",
+                "en": "Saint Trinite Church"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Kirche in der winterlichen Dunkelheit nach 17 Uhr ist ein Highlight für die Rückfahrt mit dem Auto.",
+                "hu": "A templom megvilágítása a 17 óra utáni téli sötétségben fénypontja lesz az autós visszautnak a szállásra.",
+                "ro": "Iluminarea bisericii în întunericul iernii de după ora 17 este un punct culminant pentru drumul de întoarcere cu mașina.",
+                "en": "The lighting of the church in the winter darkness after 17:00 is a highlight for your return car journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

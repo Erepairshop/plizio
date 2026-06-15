@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Skibbereen központjának felfedezésével, elmélyedve a helyi történelemben a bájos Városházán, mielőtt a közeli Művészeti Központba indulna.\n\nA békés Abbeystrewry-templom nyugodt pillanatot kínál az elmélkedésre, mielőtt elmerülne a Heritage Centre megható kiállításaiban.\n\nSétáljon el a Szent Patrik-katedrálishoz, hogy megcsodálja lenyűgöző építészetét, amely a város látképének és vallási örökségének kiemelkedő eleme.\n\nFejezze be gyalogos túráját a történelmi Szélmalomnál, élvezve az esti fényeket és elgondolkodva Skibbereen gazdag múltján.",
         "ro": "Începeți ziua explorând inima orașului Skibbereen, cufundându-vă în istoria locală la fermecătoarea Primărie înainte de a vizita Centrul de Arte.\n\nBiserica pașnică Abbeystrewry oferă un moment de reflecție înainte de a vă scufunda în expozițiile emoționante de la Centrul de Patrimoniu.\n\nPlimbați-vă spre Catedrala Sf. Patrick pentru a admira arhitectura sa impresionantă, o trăsătură proeminentă a orizontului orașului.\n\nÎncheiați-vă turul pietonal la istorica Moară de Vânt, bucurându-vă de lumina serii și reflectând la trecutul bogat al orașului Skibbereen.",
         "en": "Start your day exploring the heart of Skibbereen, diving into its local history at the charming Town Hall before heading to the nearby Arts Centre.\n\nThe peaceful Abbeystrewry Church provides a quiet moment of reflection before you immerse yourself in the moving exhibits at the Heritage Centre.\n\nWalk towards St. Patrick's Cathedral to admire its impressive architecture, a prominent feature of the town's skyline and religious heritage.\n\nConclude your walking tour at the historic Windmill, enjoying the evening light and reflecting on the rich tapestry of Skibbereen's past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo das Vordach Schutz vor dem irischen Nieselregen bietet. Mittags ist das West Cork Arts Centre die perfekte Zuflucht für Kunstliebhaber. Nachmittags erkunden Sie die Geschichte im Heritage Centre und die majestätische Kathedrale. Der Abend endet am Windmill, wobei ein Regenschirm bei den kurzen Wegen zwischen den Sehenswürdigkeiten unerlässlich ist.",
+            "hu": "A reggel a városházánál indul, ahol a boltívek alatt húzódhatunk meg a szemerkélő eső elől. Délben a Nyugat-Cork Művészeti Központ kínál száraz menedéket és modern alkotásokat. Délután az Örökségvédelmi Központ tárlatait és a katedrálist látogatjuk meg. Az estét a szélmalomnál zárjuk, de a rövid sétákhoz is mindenképp tartsunk magunknál esernyőt a hirtelen záporok miatt.",
+            "ro": "Dimineața începe la primărie, unde streșinile oferă adăpost împotriva burniței irlandeze. La prânz, Centrul de Arte West Cork este refugiul ideal pentru iubitorii de artă modernă. După-amiaza explorăm istoria la Centrul de Patrimoniu și catedrala maiestuoasă. Seara se încheie la Moara de Vânt, umbrela fiind esențială chiar și pentru distanțele scurte dintre obiective.",
+            "en": "Morning starts at the Town Hall, where the eaves provide shelter from the Irish drizzle. At noon, the West Cork Arts Centre is the perfect dry haven for modern art lovers. In the afternoon, explore local history at the Heritage Centre and the majestic Cathedral. The evening ends at the Windmill; an umbrella is essential even for the short distances between these sights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skibbereen Town Hall",
+                "hu": "Skibbereen Városháza",
+                "ro": "Primăria Skibbereen",
+                "en": "Skibbereen Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die viktorianische Fassade unter einem Regenschirm; das Gebäude ist ein Symbol für die Widerstandsfähigkeit der Stadt und bietet Schutz vor dem Wind.",
+                "hu": "Csodáld meg a viktoriánus homlokzatot az esernyőd alól; az épület a város erejének szimbóluma, és a bejáratnál védelmet találhatsz az erős szél elől is.",
+                "ro": "Admirați fațada victoriană sub o umbrelă; clădirea este un simbol al rezilienței orașului și oferă un bun adăpost împotriva vântului la intrare.",
+                "en": "Admire the Victorian facade from under your umbrella; the building is a symbol of the town's resilience and provides decent shelter from the wind at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Arts Centre",
+                "hu": "Nyugat-Cork Művészeti Központ",
+                "ro": "Centrul de Arte West Cork",
+                "en": "West Cork Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Gebäude ist der ideale Ort, um dem Regen zu entkommen; genießen Sie die Ausstellungen im Trockenen und achten Sie auf die rutschige Glasfront.",
+                "hu": "Ez a modern épület ideális hely az eső elől való menekülésre; élvezd a kiállításokat szárazon, de vigyázz a bejáratnál a vizes üvegfelületek miatti csúszásveszélyre.",
+                "ro": "Această clădire modernă este locul ideal pentru a scăpa de ploaie; bucurați-vă de expoziții la adăpost și aveți grijă la suprafețele de sticlă alunecoase de la intrare.",
+                "en": "This modern building is the ideal place to escape the rain; enjoy the contemporary exhibits while dry, and watch out for slippery glass surfaces at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbeystrewry Church of Ireland",
+                "hu": "Abbeystrewry Írországi Egyház Temploma",
+                "ro": "Biserica Irlandei Abbeystrewry",
+                "en": "Abbeystrewry Church of Ireland"
+              },
+              "tip_5lang": {
+                "de": "Die friedliche Atmosphäre im Inneren bietet Ruhe vor dem prasselnden Regen; besichtigen Sie die Gedenkstätten, aber nutzen Sie die befestigten Wege am Friedhof.",
+                "hu": "A belső tér békés hangulata nyugalmat áraszt a kopogó esőben; nézd meg az emlékhelyeket, de a temetőben maradj a szilárd utakon a felázott talaj miatt.",
+                "ro": "Atmosfera pașnică din interior oferă liniște în fața ploii torențiale; vizitați memorialele, dar rămâneți pe aleile pavate din cimitir pentru a evita noroiul.",
+                "en": "The peaceful interior atmosphere offers respite from the pattering rain; view the memorials, but stick to the paved paths in the churchyard to avoid the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Heritage Centre",
+                "hu": "Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu",
+                "en": "Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Geschichte der Großen Hungersnot ein, während es draußen stürmt; ein langer Aufenthalt im Museum ist bei Regen absolut empfehlenswert.",
+                "hu": "Merülj el a nagy éhínség történelmében, miközben odakint tombol a vihar; a múzeum bőséges látnivalót kínál, így érdemes itt tölteni a legesősebb órákat.",
+                "ro": "Aprofundați istoria Marii Foamete în timp ce afară plouă; o vizită prelungită la muzeu este recomandată pentru a rămâne uscat și informat pe durata furtunii.",
+                "en": "Deep dive into the Great Famine history while it storms outside; a long stay at the museum is highly recommended to stay dry and informed during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Patrick's Cathedral",
+                "hu": "Szent Patrik-katedrális",
+                "ro": "Catedrala Sf. Patrick",
+                "en": "St. Patrick's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Glasfenster, die bei grauem Wetter besonders leuchten; nutzen Sie die Zeit für eine besinnliche Pause im trockenen Kirchenschiff.",
+                "hu": "Csodáld meg a pompás üvegablakokat, amelyek borús időben is ragyognak; használd ki az időt egy csendes pihenőre a katedrális monumentális és száraz belső terében.",
+                "ro": "Admirați vitraliile magnifice care strălucesc chiar și pe vreme gri; profitați de timp pentru o pauză meditativă în naosul uscat al catedralei.",
+                "en": "Admire the magnificent stained glass windows that glow even in grey weather; use the time for a quiet break inside the dry and grand nave of the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de Vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf dieses historische Denkmal lohnt sich auch im Regen; tragen Sie feste Schuhe für den eventuell schlammigen Untergrund in der Nähe.",
+                "hu": "Egy rövid pillantást megér ez a történelmi emlék az esőben is; viselj vízálló cipőt a sár miatt, és csak gyorsan fotózz, mielőtt teljesen eláznál.",
+                "ro": "O privire scurtă la acest monument istoric merită chiar și pe ploaie; purtați încălțăminte rezistentă pentru solul noroios din imediata apropiere.",
+                "en": "A brief look at this historic monument is worth it even in the rain; wear sturdy, waterproof boots for the potentially muddy ground nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Rathaus bei frischer Luft. Mittags wärmen Sie sich in der Kunstgalerie und im Heritage Centre auf. Die Kathedrale bietet am Nachmittag einen festlichen Anblick. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen Sie den Besuch der Windmühle für die frühe Dämmerung ein, um die kühle, klare Sicht zu genießen.",
+            "hu": "A friss téli reggel a városházánál indul a csípős levegőben. Napközben a művészeti galéria és az Örökségvédelmi Központ fűtött tereiben melegedhetünk fel. Délután a katedrális ünnepi nyugalmat áraszt. Mivel a nap 17:00 körül nyugszik, a szélmalmot még szürkület előtt keressük fel, hogy elkerüljük a fagyos esti sötétséget.",
+            "ro": "O dimineață senină de iarnă începe la primărie în aerul proaspăt. La prânz, vă încălziți în galeria de artă și la Centrul de Patrimoniu. Catedrala oferă o priveliște festivă după-amiaza. Deoarece soarele apune în jur de ora 17:00, planificați vizita la moară în amurgul timpuriu pentru a prinde vizibilitatea clară.",
+            "en": "A crisp winter morning begins at the Town Hall in the fresh air. During the day, warm up in the heated art gallery and the Heritage Centre. The Cathedral offers a festive sight in the afternoon. As the sun sets around 17:00, plan your visit to the Windmill for early twilight to enjoy the cool, clear views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skibbereen Town Hall",
+                "hu": "Skibbereen Városháza",
+                "ro": "Primăria Skibbereen",
+                "en": "Skibbereen Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht besonders scharf; tragen Sie Handschuhe, wenn Sie Fotos von den feinen Details der Fassade machen möchten.",
+                "hu": "Az épület részletei élesebben látszanak a tiszta téli fényben; viselj kesztyűt, ha fotózni szeretnél, mert a fém kerítések és kapuk ilyenkor jéghidegek.",
+                "ro": "Arhitectura pare mult mai clară în lumina tăioasă a iernii; purtați mănuși dacă doriți să faceți fotografii detaliate ale fațadei victoriene.",
+                "en": "The architecture looks particularly sharp in the clear winter light; wear gloves if you plan to take photos of the fine facade details in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Arts Centre",
+                "hu": "Nyugat-Cork Művészeti Központ",
+                "ro": "Centrul de Arte West Cork",
+                "en": "West Cork Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort mit modernen Ausstellungen; die warme Atmosphäre im Inneren ist ein perfekter Kontrast zur winterlichen Kälte draußen.",
+                "hu": "Hangulatos menedék modern kiállításokkal; a belső tér meleg levegője tökéletes kontrasztot alkot a kinti téli hideggel, ideális egy kis pihenésre.",
+                "ro": "Un refugiu confortabil cu expoziții moderne; atmosfera caldă din interior este un contrast perfect față de frigul iernii de afară.",
+                "en": "A cozy retreat with modern exhibitions; the warm indoor atmosphere is a perfect contrast to the winter chill outside, ideal for a rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbeystrewry Church of Ireland",
+                "hu": "Abbeystrewry Írországi Egyház Temploma",
+                "ro": "Biserica Irlandei Abbeystrewry",
+                "en": "Abbeystrewry Church of Ireland"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn das schräge Sonnenlicht durch die Fenster fällt; achten Sie auf Frost auf den Wegen am Friedhof.",
+                "hu": "Látogasd meg a templomot kora délután, amikor a ferde napsütés bevilágítja a teret; vigyázz a temetőkertben a zúzmarás, csúszós ösvényekre.",
+                "ro": "Vizitați biserica la începutul după-amiezii, când lumina soarelui cade prin ferestre; atenție la gheața sau promoroaca de pe aleile cimitirului.",
+                "en": "Visit the church in the early afternoon when the slanted sunlight hits the windows; watch out for frost on the paths in the churchyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Heritage Centre",
+                "hu": "Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu",
+                "en": "Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizten Räume machen den Museumsbesuch im Winter sehr angenehm; nehmen Sie sich Zeit für die interaktiven Displays zur Stadtgeschichte.",
+                "hu": "A jól fűtött termek miatt a múzeumlátogatás télen is rendkívül kényelmes; szánj időt a város történelmét bemutató interaktív kijelzők alapos megismerésére.",
+                "ro": "Sălile bine încălzite fac vizita la muzeu foarte plăcută iarna; acordați-vă timp pentru ecranele interactive despre istoria tragică a orașului.",
+                "en": "The well-heated rooms make the museum visit very pleasant in winter; take your time with the interactive displays about the town's local history."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Patrick's Cathedral",
+                "hu": "Szent Patrik-katedrális",
+                "ro": "Catedrala Sf. Patrick",
+                "en": "St. Patrick's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "In der Winterzeit ist das Innere oft stimmungsvoll beleuchtet; behalten Sie Ihren Mantel an, da große Kathedralen im Winter oft recht kühl bleiben.",
+                "hu": "Télen a belső tér gyakran hangulatosan megvilágított; ne vedd le a kabátodat, mert a monumentális kőfalak között bent is hűvös lehet a levegő.",
+                "ro": "Iarna, interiorul este adesea iluminat atmosferic; păstrați-vă haina pe dvs., deoarece catedralele mari tind să rămână destul de reci în sezonul rece.",
+                "en": "During winter, the interior is often atmospheric with warm lighting; keep your coat on as large cathedrals tend to remain quite chilly inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de Vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um die Silhouette gegen den Winterhimmel zu sehen; der Wind kann hier oben sehr schneidend sein, also Mütze aufsetzen.",
+                "hu": "Érj ide 16:30 előtt, hogy lásd az épület sziluettjét a téli égen; a szél itt nagyon metsző lehet, így mindenképp húzz meleg sapkát a fejedbe.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a vedea silueta pe cerul de iarnă; vântul poate fi tăios aici, așa că puneți-vă o căciulă călduroasă.",
+                "en": "Arrive before 16:30 to catch the silhouette against the winter sky; the wind can be very biting up here, so make sure to wear a warm hat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerekezzen át a városközponton, élvezve a Városháza történelmi hangulatát, mielőtt a híres Heritage Centre felé venné az irányt.\n\nA lenyűgöző Szent Patrik-katedrális meglátogatása után tegyen egy festői túrát a rejtélyes Fairy Fort felé, kapcsolódva a helyi folklórhoz.\n\nTegye próbára magát egy túrával a Coolngrane Fairy Forthoz, felfedezve Nyugat-Cork további misztikus ősi helyszíneit.\n\nFejezze be kerékpáros kalandját a lélegzetelállító Ír Égi Kertben, pihenve az egyedi kialakítású kráterben, ahogy a nap lemenni készül.",
         "ro": "Pedalați prin centrul orașului, bucurându-vă de atmosfera istorică a Primăriei înainte de a merge spre renumitul Centru de Patrimoniu.\n\nDupă vizitarea uimitoarei Catedrale Sf. Patrick, faceți o plimbare pitorească până la enigmaticul Fairy Fort, conectându-vă cu folclorul local.\n\nProvocați-vă ușor cu o plimbare până la Coolngrane Fairy Fort, explorând mai multe dintre siturile antice mistice din West Cork.\n\nÎncheiați-vă aventura pe bicicletă la uluitoarea Irish Sky Garden, relaxându-vă în craterul amenajat unic pe măsură ce soarele apune.",
         "en": "Pedal through the town center, taking in the historical atmosphere of the Town Hall before cycling towards the renowned Heritage Centre.\n\nAfter visiting the stunning St. Patrick's Cathedral, take a scenic ride to the enigmatic Fairy Fort, connecting with local folklore.\n\nChallenge yourself slightly with a ride out to the Coolngrane Fairy Fort, exploring more of West Cork's mystical ancient sites.\n\nEnd your cycling adventure at the breathtaking Irish Sky Garden, relaxing in the uniquely landscaped crater as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour erfordert Vorsicht auf den nassen Straßen von Skibbereen. Starten Sie am Rathaus und nutzen Sie das Heritage Centre als langen Stopp, um den stärksten Schauer abzuwarten. Die Fahrt zu den Fairy Forts kann schlammig sein, planen Sie also mehr Zeit ein. Der Tag endet am Sky Garden, wobei wasserfeste Kleidung und Schutzbleche Ihre besten Freunde sind.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Skibbereen vizes útjain. Kezdj a városházánál, majd használd az Örökségvédelmi Központot menedékként a nagyobb záporok idején. A tündér erődökhöz vezető út sáros lehet, így számolj több idővel. A nap az Égi Kertnél ér véget; a vízálló ruha és a sárvédő most a legjobb barátaid lesznek.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile umede din Skibbereen. Începeți la primărie și folosiți Centrul de Patrimoniu ca popas lung pentru a aștepta trecerea ploii. Drumul spre forturi poate fi noroios, deci alocați mai mult timp. Ziua se încheie la Grădina Cerului, unde hainele impermeabile sunt esențiale.",
+            "en": "A rainy bike tour requires caution on Skibbereen's wet roads. Start at the Town Hall and use the Heritage Centre as a long stop to wait out the heaviest showers. The ride to the Fairy Forts can be muddy, so allow extra time. The day ends at the Sky Garden; waterproof gear and mudguards will be your best friends today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skibbereen Town Hall",
+                "hu": "Skibbereen Városháza",
+                "ro": "Primăria Skibbereen",
+                "en": "Skibbereen Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf den nassen Straßen; das Rathaus bietet einen kurzen Unterstand, um die Route auf der Karte final zu checken.",
+                "hu": "Indulás előtt ellenőrizd a fékeidet a vizes aszfalt miatt; a városháza bejárata rövid menedéket nyújt, hogy utoljára ránézz a térképre az esőben.",
+                "ro": "Verificați frânele înainte de a porni pe străzile umede; primăria oferă un scurt adăpost pentru a verifica traseul pe hartă înainte de plecare.",
+                "en": "Check your brakes before starting on the wet roads; the Town Hall provides a brief shelter to finalize your route on the map before cycling out."
+              }
+            },
+            {
+              "name": {
+                "de": "Heritage Centre",
+                "hu": "Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu",
+                "en": "Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab und nutzen Sie das Museum, um komplett abzutrocknen; die Ausstellungen bieten eine willkommene Pause vom Regenwetter.",
+                "hu": "Zárd le biztonságosan a biciklidet és használd ki a múzeumi időt a teljes megszáradásra; a kiállítások remek kikapcsolódást nyújtanak az esős időben.",
+                "ro": "Parcați bicicleta în siguranță și folosiți timpul la muzeu pentru a vă usca complet; expozițiile oferă o pauză binemeritată de la vremea ploioasă.",
+                "en": "Lock your bike securely and use the museum time to dry off completely; the exhibitions offer a welcome and educational break from the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Patrick's Cathedral",
+                "hu": "Szent Patrik-katedrális",
+                "ro": "Catedrala Sf. Patrick",
+                "en": "St. Patrick's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale ist ein ruhiger, trockener Ort für eine Pause; achten Sie beim Absteigen auf den glatten Steinboden vor dem Kircheneingang.",
+                "hu": "A katedrális csendes és száraz hely egy rövid pihenőhöz; vigyázz a leszálláskor, mert a templom előtti kőburkolat esőben rendkívül csúszós lehet.",
+                "ro": "Catedrala este un loc liniștit și uscat pentru o pauză; aveți grijă când descălecați, deoarece pavajul de piatră din față poate fi foarte alunecos.",
+                "en": "The cathedral is a quiet, dry place for a short break; be careful when dismounting as the stone pavement in front can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Fairy Fort",
+                "hu": "Tündér Erőd",
+                "ro": "Fortul Zânelor",
+                "en": "Fairy Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Fort kann durch Regen rutschig und schlammig sein; fahren Sie vorsichtig und tragen Sie Schuhe mit gutem Profil für den Halt auf Gras.",
+                "hu": "Az erődhöz vezető út az esőtől csúszós és sáros lehet; tekerj óvatosan, és viselj jó tapadású cipőt, hogy ne csússz el a vizes fűben a nézelődéskor.",
+                "ro": "Drumul spre fort poate fi alunecos și noroios din cauza ploii; pedalați cu atenție și purtați încălțăminte cu aderență bună pentru iarba udă.",
+                "en": "The path to the fort can be slippery and muddy due to the rain; cycle carefully and wear shoes with good grip for walking on the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Coolngrane Fairy Fort",
+                "hu": "Coolngrane Tündér Erőd",
+                "ro": "Fortul Zânelor Coolngrane",
+                "en": "Coolngrane Fairy Fort"
+              },
+              "tip_5lang": {
+                "de": "Dieses abgelegene Fort ist bei Regen besonders mystisch, aber schwerer erreichbar; achten Sie auf Pfützen und weichen Boden auf den Zufahrtswegen.",
+                "hu": "Ez a távoli erőd esőben különösen misztikus, de nehezebb megközelíteni; ügyelj a tócsákra és a felázott talajra a bekötőutakon tekerés közben.",
+                "ro": "Acest fort izolat este mistic pe ploaie, dar mai greu de atins; atenție la bălți și la solul moale de pe drumurile de acces în timp ce pedalați.",
+                "en": "This remote fort is especially mystical in the rain but harder to reach; watch out for deep puddles and soft ground on the access paths while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Irish Sky Garden",
+                "hu": "Ír Égi Kert",
+                "ro": "Grădina Cerului Irlandez",
+                "en": "Irish Sky Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Krater ist ungeschützt, also ist eine Regenjacke ein Muss; genießen Sie die dramatischen Wolkenformationen vom tiefsten Punkt der Skulptur aus.",
+                "hu": "A kráter teljesen nyitott, így a széldzseki és esőkabát kötelező; csodáld meg a drámai felhőket a szobor legmélyebb pontjáról fekve.",
+                "ro": "Craterul este neprotejat, deci pelerina de ploaie este obligatorie; admirați formațiunile dramatice de nori din cel mai de jos punct al sculpturii.",
+                "en": "The crater is completely unsheltered, so a raincoat is a must; enjoy the dramatic cloud formations from the deepest point of the earth sculpture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und weite Sichten. Starten Sie warm eingepackt am Rathaus. Nutzen Sie die Mittagssonne für die Fahrt zu den Forts, da die Temperaturen im Schatten schnell sinken. Die Kathedrale und das Museum bieten nötige Aufwärmpausen. Beenden Sie die Tour am Sky Garden vor 17:00 Uhr, bevor die frostige Dunkelheit einsetzt.",
+            "hu": "A téli kerékpártúra friss levegőt és tiszta kilátást kínál. Indulj melegen felöltözve a városházától. Használd ki a déli napsütést az erődök meglátogatására, mert árnyékban gyorsan hűl a levegő. A katedrális és a múzeum kiváló melegedőpontok. Fejezd be a túrát az Égi Kertnél 17:00 előtt, még a fagyos sötétség beállta előtt.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și priveliști largi. Porniți bine înfofoliți de la primărie. Profitați de soarele de la prânz pentru drumul spre forturi. Catedrala și muzeul oferă pauze necesare pentru încălzire. Încheiați turul la Grădina Cerului înainte de ora 17:00, înainte de lăsarea întunericului.",
+            "en": "A winter bike tour offers fresh air and clear views. Start warmly dressed from the Town Hall. Utilize the midday sun for the ride to the forts, as temperatures drop quickly in the shade. The Cathedral and Museum provide necessary warm-up breaks. Finish your tour at the Sky Garden before 17:00, before the frosty darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skibbereen Town Hall",
+                "hu": "Skibbereen Városháza",
+                "ro": "Primăria Skibbereen",
+                "en": "Skibbereen Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Der Metalllenker kann im Winter extrem kalt sein, tragen Sie isolierte Handschuhe; das Rathaus ist ein windgeschützter Treffpunkt für den Start.",
+                "hu": "A fém kormány télen rendkívül hideg lehet, ezért viselj bélelt kesztyűt; a városháza fala szélvédett pontot kínál a túra előtti utolsó igazításokhoz.",
+                "ro": "Ghidonul metalic poate fi extrem de rece iarna, deci purtați mănuși izolate; primăria este un punct de întâlnire ferit de vânt pentru start.",
+                "en": "The metal handlebars can be extremely cold in winter, so wear insulated gloves; the Town Hall is a wind-sheltered meeting point for your start."
+              }
+            },
+            {
+              "name": {
+                "de": "Heritage Centre",
+                "hu": "Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu",
+                "en": "Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause zur Mitte des Tages; die Ausstellungen zur Geschichte Skibbereens sind fesselnd und gemütlich warm.",
+                "hu": "Használd ki a múzeumlátogatást egy alapos felmelegedésre a nap közepén; a város történelmét bemutató tárlatok lenyűgözőek és kellemesen fűtöttek.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire la mijlocul zilei; expozițiile despre istoria orașului sunt captivante și confortabil de calde.",
+                "en": "Use the museum visit as a warm-up break in the middle of the day; the exhibitions on Skibbereen's history are captivating and comfortably heated."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Patrick's Cathedral",
+                "hu": "Szent Patrik-katedrális",
+                "ro": "Catedrala Sf. Patrick",
+                "en": "St. Patrick's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Kirchenschiff schützt vor dem kalten Winterwind; achten Sie auf Eisplatten auf dem Vorplatz beim Abstellen des Rades.",
+                "hu": "Egy rövid megálló a katedrálisban megvéd a metsző téli széltől; a kerékpár lezárásakor ügyelj a burkolaton esetlegesen előforduló jégfoltokra.",
+                "ro": "O scurtă oprire în naos vă protejează de vântul rece de iarnă; atenție la petele de gheață din piațeta din față când parcați bicicleta.",
+                "en": "A short stop in the nave protects you from the biting winter wind; watch out for ice patches on the front square when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Fairy Fort",
+                "hu": "Tündér Erőd",
+                "ro": "Fortul Zânelor",
+                "en": "Fairy Fort"
+              },
+              "tip_5lang": {
+                "de": "Das Gras am Fort kann bei Frost sehr rutschig sein; genießen Sie den weiten Blick über die winterliche Landschaft von diesem erhöhten Punkt aus.",
+                "hu": "Az erőd körüli fű zúzmarás és rendkívül csúszós lehet; élvezd a tiszta kilátást a téli tájra erről a magaslati pontról, de csak óvatosan mozogj.",
+                "ro": "Iarba de la fort poate fi foarte alunecoasă dacă este înghețată; bucurați-vă de vederea panoramică asupra peisajului de iarnă de la acest punct înalt.",
+                "en": "The grass around the fort can be very slippery if frosted; enjoy the expansive views over the winter landscape from this elevated historic point."
+              }
+            },
+            {
+              "name": {
+                "de": "Coolngrane Fairy Fort",
+                "hu": "Coolngrane Tündér Erőd",
+                "ro": "Fortul Zânelor Coolngrane",
+                "en": "Coolngrane Fairy Fort"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Nebenstraßen, die im Schatten gefroren sein können; das Fort wirkt in der kargen Winternatur besonders archaisch.",
+                "hu": "Tekerj óvatosan a mellékutakon, amelyek az árnyékos részeken jegesek lehetnek; az erőd a kopár téli természetben különösen archaikusnak hat.",
+                "ro": "Pedalați cu grijă pe drumurile secundare care pot fi înghețate la umbră; fortul pare deosebit de arhaic în natura austeră a iernii.",
+                "en": "Cycle carefully on the backroads, which can be frozen in shaded areas; the fort looks particularly archaic in the sparse winter nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Irish Sky Garden",
+                "hu": "Ír Égi Kert",
+                "ro": "Grădina Cerului Irlandez",
+                "en": "Irish Sky Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Krater ist im Winter oft menschenleer und bietet eine meditative Ruhe; tragen Sie warme Schichten für den Aufenthalt im kalten Wind.",
+                "hu": "A kráter télen gyakran teljesen néptelen, így meditatív nyugalmat áraszt; öltözz rétegesen a szél miatt, ha hosszabb ideig csodálnád az eget.",
+                "ro": "Craterul este adesea pustiu iarna, oferind o liniște meditativă; purtați straturi calde pentru șederea în vântul rece de pe culme.",
+                "en": "The crater is often deserted in winter, offering meditative peace; wear warm layers for your stay as the wind can be very strong and cold here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje autós túráját a régió megrázó történelmének elmélyült megismerésével a Heritage Centre-ben és a fenséges katedrálisban.\n\nVezessen ki a buja vidékre, hogy felfedezze a Lettertinlish kastély romantikus, borostyánnal benőtt középkori romjait.\n\nFolytassa vidéki felfedezőútját a történelmi Rea Lioshoz, élvezve az autó nyújtotta szabadságot ezen eldugott helyek eléréséhez.\n\nZárja a napot egy békés látogatással az Ír Égi Kertben, megtapasztalva a lenyűgöző tájművészetet, mielőtt visszavezetne a szállásra.",
         "ro": "Începeți turul cu mașina cu o scufundare profundă în istoria regiunii la Centrul de Patrimoniu bine organizat și la măreața Catedrală.\n\nConduceți în peisajul rural luxuriant pentru a descoperi rămășițele romantice, acoperite de iederă, ale Castelului Lettertinlish.\n\nContinuați explorarea rurală spre istoricul Rea Lios, bucurându-vă de libertatea mașinii de a ajunge în aceste locații retrase.\n\nÎncheiați ziua cu o vizită senină la Irish Sky Garden, experimentând fascinanta artă peisagistică înainte de a vă întoarce la cazare.",
         "en": "Begin your driving tour with a deep dive into the region's poignant history at the well-curated Heritage Centre and the grand Cathedral.\n\nDrive out into the lush countryside to discover the romantic, ivy-clad remains of Lettertinlish Castle, a testament to medieval times.\n\nContinue your rural exploration to the historical Rea Lios, enjoying the freedom of the car to reach these off-the-beaten-path locations.\n\nConclude the day with a serene visit to the Irish Sky Garden, experiencing the fascinating land art before driving back to your accommodation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Skibbereen auch bei Regen bequem zu erkunden. Beginnen Sie im Heritage Centre und der Kathedrale, wo Sie fast direkt vor der Tür parken können. Die Burgruinen und Rea Lios lassen sich bei starkem Regen kurz vom Wagen aus betrachten. Beenden Sie den Tag beim Sky Garden; der kurze Weg vom Parkplatz ist auch bei Schauern gut zu bewältigen.",
+            "hu": "Autóval Skibbereen esőben is kényelmesen felfedezhető. Kezdj az Örökségvédelmi Központnál és a katedrálisnál, ahol szinte az ajtó előtt parkolhatsz. A várromokat és Rea Lios-t szakadó esőben akár a kocsiból is megcsodálhatod. A napot az Égi Kertnél zárd; a parkolótól vezető rövid séta egy gyors zápor alatt is teljesíthető.",
+            "ro": "Cu mașina, Skibbereen este ușor de explorat chiar și pe ploaie. Începeți la Centrul de Patrimoniu și catedrală, unde puteți parca aproape de intrare. Ruinele castelului și Rea Lios pot fi observate scurt din mașină dacă plouă torențial. Încheiați ziua la Grădina Cerului; distanța scurtă de la parcare este ușor de parcurs între averse.",
+            "en": "By car, Skibbereen is comfortably explored even in the rain. Start at the Heritage Centre and the Cathedral, where you can park almost right at the door. The castle ruins and Rea Lios can be viewed briefly from the car if it pours. End the day at the Sky Garden; the short walk from the parking lot is manageable between showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heritage Centre",
+                "hu": "Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu",
+                "en": "Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um schnell ins Trockene zu kommen; das Museum bietet stundenlange Unterhaltung, ideal für einen verregneten Vormittag.",
+                "hu": "Használd a közeli parkolót, hogy gyorsan száraz helyre érj; a múzeum órákig tartó elfoglaltságot kínál, ami ideális egy esős délelőttre.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; muzeul oferă divertisment pentru câteva ore, ideal pentru o dimineață ploioasă.",
+                "en": "Use the nearby parking to get indoors quickly; the museum offers hours of engagement, making it ideal for a rainy morning in Skibbereen."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Patrick's Cathedral",
+                "hu": "Szent Patrik-katedrális",
+                "ro": "Catedrala Sf. Patrick",
+                "en": "St. Patrick's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Straße und genießen Sie die prächtige Architektur; die Kathedrale ist ein hervorragender Ort, um einen heftigen Regenschauer abzuwarten.",
+                "hu": "Parkolj az út mentén, és csodáld meg a pompás építészetet; a katedrális kiváló helyszín arra, hogy bevárjuk egy nagyobb esőfelhő elvonulását.",
+                "ro": "Parcați de-a lungul străzii și bucurați-vă de arhitectura magnifică; catedrala este un loc excelent pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Park along the street and enjoy the grand architecture; the cathedral is an excellent spot to wait out a heavy downpour in a peaceful setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Lettertinlish Castle (Ruins)",
+                "hu": "Lettertinlish Kastélyrom",
+                "ro": "Ruinele Castelului Lettertinlish",
+                "en": "Lettertinlish Castle (Ruins)"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet die Ruine wenig Schutz; betrachten Sie die dramatischen Überreste vom Fenster aus oder steigen Sie nur kurz mit Schirm aus.",
+                "hu": "Erős esőben a romok kevés védelmet nyújtanak; csodáld meg a drámai maradványokat az autó ablakából, vagy csak egy gyors fotóra szállj ki esernyővel.",
+                "ro": "În caz de ploaie puternică, ruinele oferă puțin adăpost; admirați vestigiile dramatice de la geamul mașinii sau coborâți scurt cu o umbrelă.",
+                "en": "In heavy rain, the ruins offer little shelter; admire the dramatic remains from your car window or step out briefly with a sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Rea Lios",
+                "hu": "Rea Lios",
+                "ro": "Rea Lios",
+                "en": "Rea Lios"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen matschig sein; bleiben Sie auf den befestigten Wegen und genießen Sie die mystische Atmosphäre der historischen Stätte.",
+                "hu": "Az idevezető út esőben sáros lehet; maradj a kijelölt ösvényeken, és élvezd a történelmi helyszín misztikus hangulatát a ködös, esős időben.",
+                "ro": "Accesul poate fi noroios pe ploaie; rămâneți pe potecile amenajate și bucurați-vă de atmosfera mistică a sitului istoric în condiții de umezeală.",
+                "en": "The access road can be muddy in the rain; stay on the designated paths and enjoy the mystical atmosphere of the historic site in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Irish Sky Garden",
+                "hu": "Ír Égi Kert",
+                "ro": "Grădina Cerului Irlandez",
+                "en": "Irish Sky Garden"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Wetterbericht für eine Regenpause, bevor Sie den Krater besuchen; wasserfestes Schuhwerk ist für den kurzen Fußweg vom Parkplatz nötig.",
+                "hu": "Nézd meg az időjárás-jelentést, és várj egy esőszünetet a látogatás előtt; vízálló lábbeli szükséges a parkolótól vezető rövid, de vizes úthoz.",
+                "ro": "Verificați prognoza pentru o pauză de ploaie înainte de vizită; încălțămintea impermeabilă este necesară pentru drumul scurt de la parcare.",
+                "en": "Check the forecast for a break in the rain before visiting; waterproof footwear is necessary for the short walk from the car park to the crater."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine beheizte Fahrt durch die winterliche Landschaft von West Cork. Besuchen Sie das Heritage Centre und die Kathedrale am Vormittag. Die Burgruinen wirken im tiefstehenden Winterlicht besonders beeindruckend. Da es gegen 17:00 Uhr dunkel wird, sollten Sie Rea Lios und den Sky Garden am frühen Nachmittag besuchen, um die klare Sicht zu nutzen.",
+            "hu": "Élvezd a fűtött autóutat Nyugat-Cork téli tájain. Látogasd meg az Örökségvédelmi Központot és a katedrálist délelőtt. A várromok a mélyen járó téli napfényben különösen lenyűgözőek. Mivel 17:00 körül sötétedik, a Rea Lios-t és az Égi Kertet kora délutánra időzítsd a tiszta kilátás érdekében.",
+            "ro": "Bucurați-vă de o călătorie încălzită prin peisajul de iarnă din West Cork. Vizitați Centrul de Patrimoniu și catedrala dimineața. Ruinele castelului par impresionante în lumina joasă a iernii. Deoarece se întunecă în jur de 17:00, vizitați Rea Lios și Grădina Cerului la începutul după-amiezii.",
+            "en": "Enjoy a heated drive through the winter landscape of West Cork. Visit the Heritage Centre and the Cathedral in the morning. The castle ruins look particularly impressive in the low winter light. As it gets dark around 17:00, schedule Rea Lios and the Sky Garden for early afternoon to catch the view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heritage Centre",
+                "hu": "Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu",
+                "en": "Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Innenräume sind eine Wohltat an kalten Tagen; nutzen Sie den Vormittag für die Ausstellungen, wenn die Heizung des Wagens noch aufwärmt.",
+                "hu": "A meleg belső terek igazi felüdülést jelentenek a hideg napokon; szánj időt a kiállításokra délelőtt, amíg a kinti levegő még fagyos Skibbereenben.",
+                "ro": "Interioarele calde sunt o binecuvântare în zilele reci; folosiți dimineața pentru expoziții, în timp ce aerul de afară este încă foarte rece.",
+                "en": "The warm interiors are a relief on cold days; use the morning for the exhibitions while the outside air in Skibbereen is still quite frosty."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Patrick's Cathedral",
+                "hu": "Szent Patrik-katedrális",
+                "ro": "Catedrala Sf. Patrick",
+                "en": "St. Patrick's Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale strahlt im Winter eine besondere Ruhe aus; parken Sie in der Nähe und behalten Sie Ihre Jacke für den Besuch des großen Innenraums an.",
+                "hu": "A katedrális télen különleges nyugalmat áraszt; parkolj a közelben, és ne vedd le a kabátodat, mert a monumentális belső térben is hűvös lehet a levegő.",
+                "ro": "Catedrala emană o liniște deosebită iarna; parcați în apropiere și păstrați haina pe dvs. pentru vizitarea interiorului vast și destul de rece.",
+                "en": "The cathedral exudes a special peace in winter; park nearby and keep your jacket on for the visit, as the grand interior can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lettertinlish Castle (Ruins)",
+                "hu": "Lettertinlish Kastélyrom",
+                "ro": "Ruinele Castelului Lettertinlish",
+                "en": "Lettertinlish Castle (Ruins)"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht hebt die Texturen der alten Steine hervor; ein kurzer Stopp reicht aus, da die Ruine dem kalten Wind schutzlos ausgeliefert ist.",
+                "hu": "A tiszta téli fény kiemeli a régi kövek textúráját; egy rövid megálló is elég, mivel a romok között a szélvágta területen nagyon hideg lehet.",
+                "ro": "Lumina clară a iernii evidențiază textura pietrelor vechi; o oprire scurtă este suficientă, deoarece ruinele sunt expuse vântului rece de iarnă.",
+                "en": "The clear winter light highlights the textures of the old stones; a short stop is enough as the ruins are unsheltered from the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Rea Lios",
+                "hu": "Rea Lios",
+                "ro": "Rea Lios",
+                "en": "Rea Lios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort bei Tageslicht, um die Strukturen im Boden gut zu erkennen; achten Sie auf glatte Stellen auf den Wegen bei Frost.",
+                "hu": "Mindenképp nappali fényben látogasd meg, hogy jól láthasd a földsáncokat; ügyelj a csúszós szakaszokra az utakon, ha hajnali fagy volt a területen.",
+                "ro": "Vizitați acest loc pe lumină pentru a vedea bine structurile solului; atenție la porțiunile alunecoase de pe drum în caz de îngheț matinal.",
+                "en": "Visit this site during daylight to see the ground structures clearly; watch out for slippery patches on the access paths if there was a morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Irish Sky Garden",
+                "hu": "Ír Égi Kert",
+                "ro": "Grădina Cerului Irlandez",
+                "en": "Irish Sky Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah, aber der Krater ist windanfällig; kommen Sie kurz vor Sonnenuntergang für ein beeindruckendes Lichtspiel am Winterhimmel.",
+                "hu": "A parkoló közel van, de a kráternél erős lehet a szél; érkezz nem sokkal naplemente előtt a téli égbolt lenyűgöző fényjátéka miatt.",
+                "ro": "Parcarea este aproape, dar craterul este expus vântului; veniți cu puțin timp înainte de apus pentru un joc de lumini impresionant pe cerul de iarnă.",
+                "en": "The parking is close but the crater is wind-prone; arrive shortly before sunset for an impressive light show on the clear winter sky."
+              }
+            }
+          ]
+        }
       }
     }
   }

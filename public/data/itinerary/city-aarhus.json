@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az Aarhus Rådhus funkcionális részleteinek felfedezésével, majd irány az ARoS Art Museum. A dél körüli órákban a Musikhuset Aarhus lenyűgöző épülete, majd a Kunsthal Aarhus modern művészete várja. Délután merüljön el a történelemben a szabadtéri múzeumban (The Old Town). Zárja a napot a színes Dansk Plakatmuseum egyedi plakátjai között.",
         "ro": "Începeți dimineața explorând primăria Aarhus Rådhus, înainte de a vizita Muzeul de Artă ARoS. La prânz, admirați arhitectura impresionantă a Musikhuset Aarhus, urmată de arta de la Kunsthal Aarhus. După-amiaza, scufundați-vă în istorie la uriașul muzeu în aer liber The Old Town. Încheiați ziua admirând colecțiile colorate de la Dansk Plakatmuseum.",
         "en": "Start your morning exploring the functionalist details of Aarhus Rådhus before heading to the vibrant ARoS Art Museum for world-class exhibitions and city views. Midday brings you to Musikhuset Aarhus for striking architecture, followed by cutting-edge art at Kunsthal Aarhus. In the afternoon, immerse yourself in history at The Old Town. End the day at the colorful Dansk Plakatmuseum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Rathaus, dessen Architektur auch bei grauem Himmel beeindruckt. Mittags bieten das ARoS und das Musikhuset großzügige Innenräume zum Verweilen. Nachmittags erkunden wir die Kunsthal und die historischen Gebäude der Altstadt, wobei Sie auf dem nassen Kopfsteinpflaster vorsichtig sein sollten. Der Abend im Plakatmuseum bietet einen farbenfrohen und trockenen Abschluss.",
+            "hu": "A napot a Városházán kezdjük, ahol a belső terek védenek az esőtől. Délben az ARoS és a Musikhuset tágas csarnokai nyújtanak menedéket a csapadék elől. Délután a Kunsthal és az Óváros fedett részeit keressük fel, a macskaköveken pedig óvatosan lépkedjünk a csúszásveszély miatt. Az estét a Plakátmúzeumban töltjük, ahol színes grafikák között, szárazon fejezhetjük be a városnézést.",
+            "ro": "Începeți ziua la Primărie, unde arhitectura interioară vă protejează de ploaie. La prânz, ARoS și Musikhuset oferă spații generoase pentru a rămâne la adăpost. După-amiaza explorăm Kunsthal și clădirile istorice din Centrul Vechi, având grijă la pavajul ud care poate fi alunecos. Seara la Muzeul Posterelor oferă un final colorat și uscat, perfect pentru o zi cu vreme nefavorabilă.",
+            "en": "Start the day at the City Hall, where the interior architecture protects you from the rain. At noon, ARoS and Musikhuset offer spacious indoor areas to stay dry. Afternoon is spent exploring Kunsthal and the historic buildings of the Old Town, though be careful on wet cobblestones. The evening at the Poster Museum provides a colorful and dry conclusion to your rainy day tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aarhus Rådhus",
+                "hu": "Aarhus Rådhus",
+                "ro": "Aarhus Rådhus",
+                "en": "Aarhus Rådhus"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Innenausstattung aus Holz und Marmor, die eine warme Flucht vor dem Regen bietet; nutzen Sie den Schirmständer im Eingangsbereich.",
+                "hu": "Csodálja meg a faburkolatú és márvány belső tereket, amelyek meleg menedéket nyújtanak az eső elől; használja a bejáratnál kihelyezett esernyőtartókat.",
+                "ro": "Admirați interioarele elegante din lemn și marmură, care oferă un refugiu cald în fața ploii; folosiți suporturile pentru umbrele de la intrare.",
+                "en": "Admire the elegant wood and marble interiors that provide a warm escape from the rain; make use of the umbrella stands provided in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "ARoS Art Museum",
+                "hu": "ARoS Art Museum",
+                "ro": "ARoS Art Museum",
+                "en": "ARoS Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Your Rainbow Panorama bietet auch bei Regen eine spektakuläre Sicht; nutzen Sie die Garderobe, um Ihre nasse Kleidung sicher und trocken zu verstauen.",
+                "hu": "A szivárványos panoráma esőben is lenyűgöző látványt nyújt a városra; használja a ruhatárat a vizes kabátok és táskák biztonságos tárolásához.",
+                "ro": "Panorama curcubeu oferă o priveliște spectaculoasă chiar și pe ploaie; folosiți garderoba pentru a vă lăsa hainele ude în siguranță și la uscat.",
+                "en": "Your Rainbow Panorama offers a spectacular view even in the rain; use the cloakroom to store your wet clothing safely and stay comfortable inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musikhuset Aarhus",
+                "hu": "Musikhuset Aarhus",
+                "ro": "Musikhuset Aarhus",
+                "en": "Musikhuset Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im gläsernen Foyer, während der Regen gegen die Scheiben trommelt; die Cafeteria ist ideal für eine kleine Pause im Trockenen.",
+                "hu": "Élvezze az üvegezett aula nyugalmát, miközben az eső kopog az üvegen; a kávézó tökéletes helyszín egy száraz pihenőhöz a következő állomás előtt.",
+                "ro": "Bucurați-vă de liniștea foierului de sticlă în timp ce ploaia bate în geamuri; cafeneaua este ideală pentru o scurtă pauză la adăpost de vreme.",
+                "en": "Enjoy the peace of the glass foyer while the rain drums against the panes; the cafeteria is ideal for a short dry break before continuing your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunsthal Aarhus",
+                "hu": "Kunsthal Aarhus",
+                "ro": "Kunsthal Aarhus",
+                "en": "Kunsthal Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die wechselnden Ausstellungen in den geschützten Galerieräumen; achten Sie beim Verlassen auf die Stufen, die bei Nässe glatt sein können.",
+                "hu": "Fedezze fel az időszaki kiállításokat a védett galériákban; távozáskor figyeljen a lépcsőkre, amelyek nedves időben rendkívül csúszóssá válhatnak.",
+                "ro": "Explorați expozițiile temporare în spațiile protejate ale galeriei; la plecare, atenție la treptele care pot deveni alunecoase când sunt ude.",
+                "en": "Explore the changing exhibitions in the sheltered gallery spaces; pay attention to the steps when leaving, as they can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "The Old Town, Aarhus",
+                "hu": "The Old Town, Aarhus",
+                "ro": "The Old Town, Aarhus",
+                "en": "The Old Town, Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die zahlreichen historischen Werkstätten, die Schutz vor Schauern bieten; die alten Kopfsteinpflastergassen erfordern festes, wasserdichtes Schuhwerk.",
+                "hu": "Látogasson el a történelmi műhelyekbe, amelyek védelmet nyújtanak a záporok elől; a régi macskaköves utcákon vízálló és stabil lábbeli viselése javasolt.",
+                "ro": "Vizitați numeroasele ateliere istorice care oferă protecție împotriva averselor; străzile pavate necesită încălțăminte solidă și impermeabilă.",
+                "en": "Visit the numerous historical workshops that provide protection from showers; the old cobblestone streets require sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Dansk Plakatmuseum",
+                "hu": "Dansk Plakatmuseum",
+                "ro": "Dansk Plakatmuseum",
+                "en": "Dansk Plakatmuseum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt der Grafik in diesem gemütlichen, überdachten Museum; es ist der perfekte Ort, um den Tag entspannt und trocken ausklingen zu lassen.",
+                "hu": "Merüljön el a grafika világában ebben a barátságos, fedett múzeumban; tökéletes hely a nap befejezésére, miközben kint elered az esti eső.",
+                "ro": "Imersați-vă în lumea graficii în acest muzeu primitor și acoperit; este locul perfect pentru a încheia ziua relaxat și la adăpost de ploaie.",
+                "en": "Dive into the world of graphics in this cozy, indoor museum; it is the perfect place to end your day relaxed and completely sheltered from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im beheizten Rathaus. Mittags wärmen wir uns im ARoS und Musikhuset auf, während draußen der Winterwind weht. Am Nachmittag verzaubert die Altstadt mit ihrer Winterbeleuchtung, doch beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr. Den Abend verbringen wir gemütlich im Plakatmuseum, geschützt vor der klirrenden Kälte.",
+            "hu": "A fagyos reggelt a fűtött Városházán kezdjük. Délben az ARoS és a Musikhuset kulturális tereiben melegszünk fel, miközben kint zord téli szél fúj. Délután az Óváros téli fényei varázsolnak el, de ügyeljünk a korai, fél öt körüli naplementére. Az estét a Plakátmúzeum meghitt termeiben töltjük, védve a kinti csípős hidegtől.",
+            "ro": "O dimineață geroasă începe în Primăria încălzită. La prânz, ne încălzim în spațiile culturale ARoS și Musikhuset, în timp ce afară suflă vântul de iarnă. După-amiaza, Centrul Vechi încântă cu luminile sale de iarnă, dar atenție la apusul timpuriu în jur de ora 16:30. Seara o petrecem confortabil în Muzeul Posterelor, feriți de frig.",
+            "en": "A frosty morning begins in the heated City Hall. At noon, warm up in the cultural spaces of ARoS and Musikhuset while the winter wind blows outside. In the afternoon, the Old Town enchants with its winter lights, but mind the early sunset around 4:30 PM. We spend the evening cozily in the Poster Museum, protected from the biting cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aarhus Rådhus",
+                "hu": "Aarhus Rådhus",
+                "ro": "Aarhus Rådhus",
+                "en": "Aarhus Rådhus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme in der Lobby und bewundern Sie die Details der Architektur; ziehen Sie sich für den Weg zum nächsten Ziel wieder warm an.",
+                "hu": "Élvezze a kellemes meleget az aulában, és csodálja meg az építészeti részleteket; a következő állomásig tartó sétához öltözzön vissza alaposan.",
+                "ro": "Bucurați-vă de căldura primitoare din lobby și admirați detaliile arhitecturale; îmbrăcați-vă bine pentru drumul către următoarea destinație.",
+                "en": "Enjoy the cozy warmth in the lobby and admire the architectural details; make sure to wrap up warm again before heading to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "ARoS Art Museum",
+                "hu": "ARoS Art Museum",
+                "ro": "ARoS Art Museum",
+                "en": "ARoS Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Panorama bietet im Winter eine klare Sicht auf die schneebedeckte Stadt; die Cafeteria im Museum ist ideal für ein heißes Getränk zum Aufwärmen.",
+                "hu": "A panorámafolyosóról télen tiszta kilátás nyílik a havas városra; a múzeum kávézója kiváló hely egy forró ital elfogyasztására a melegedéshez.",
+                "ro": "Panorama oferă iarna o vedere clară asupra orașului acoperit de zăpadă; cafeneaua muzeului este ideală pentru o băutură fierbinte ca să vă încălziți.",
+                "en": "The panorama offers a clear view of the snow-covered city in winter; the museum cafeteria is perfect for a hot drink to warm up your spirits."
+              }
+            },
+            {
+              "name": {
+                "de": "Musikhuset Aarhus",
+                "hu": "Musikhuset Aarhus",
+                "ro": "Musikhuset Aarhus",
+                "en": "Musikhuset Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Das helle Foyer fängt im Winter jeden Sonnenstrahl ein; nutzen Sie die Zeit drinnen, um sich aufzuwärmen, bevor Sie die Tour im Freien fortsetzen.",
+                "hu": "A világos aula télen minden napsugarat befog; használja ki a bent töltött időt a teljes átmelegedésre, mielőtt folytatná a szabadtéri túrát.",
+                "ro": "Foierul luminos captează fiecare rază de soare în timpul iernii; folosiți timpul petrecut în interior pentru a vă încălzi bine înainte de a continua.",
+                "en": "The bright foyer catches every ray of sunshine in winter; use your time inside to warm up thoroughly before continuing the outdoor part of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunsthal Aarhus",
+                "hu": "Kunsthal Aarhus",
+                "ro": "Kunsthal Aarhus",
+                "en": "Kunsthal Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Die minimalistischen Räume sind im Winter gut beheizt; genießen Sie die Kunst in aller Ruhe, während draußen die Kälte regiert und die Dämmerung einsetzt.",
+                "hu": "A minimalista terek télen is jól fűtöttek; élvezze a művészetet nyugalomban, miközben kint tombol a hideg és lassan ereszkedik le a téli szürkület.",
+                "ro": "Spațiile minimaliste sunt bine încălzite iarna; bucurați-vă de artă în liniște, în timp ce afară domnește frigul și se lasă amurgul.",
+                "en": "The minimalist spaces are well-heated in winter; enjoy the art in peace while the cold reigns outside and the winter twilight begins to fade."
+              }
+            },
+            {
+              "name": {
+                "de": "The Old Town, Aarhus",
+                "hu": "The Old Town, Aarhus",
+                "ro": "The Old Town, Aarhus",
+                "en": "The Old Town, Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die magische Atmosphäre der beleuchteten Gassen bei Einbruch der Dunkelheit; kehren Sie in die warmen historischen Stuben für eine Pause ein.",
+                "hu": "Élje át a kivilágított utcák varázslatos hangulatát sötétedés után; térjen be a meleg, történelmi szobákba egy rövid pihenőre és melegedésre.",
+                "ro": "Trăiți atmosfera magică a străzilor iluminate după lăsarea întunericului; intrați în odăile istorice calde pentru o scurtă pauză de încălzire.",
+                "en": "Experience the magical atmosphere of the illuminated streets after dark; step into the warm historical rooms for a short warm-up break."
+              }
+            },
+            {
+              "name": {
+                "de": "Dansk Plakatmuseum",
+                "hu": "Dansk Plakatmuseum",
+                "ro": "Dansk Plakatmuseum",
+                "en": "Dansk Plakatmuseum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen farbenfrohen Kontrast zum grauen Wintertag; die beheizten Ausstellungsräume sind der ideale Ort, um die Tour zu beenden.",
+                "hu": "A múzeum színes kontrasztot nyújt a szürke téli naphoz; a fűtött kiállítótermek ideális helyszínt biztosítanak a városnézés kényelmes befejezéséhez.",
+                "ro": "Muzeul oferă un contrast colorat față de ziua cenușie de iarnă; sălile de expoziție încălzite sunt locul ideal pentru a încheia turul confortabil.",
+                "en": "The museum offers a colorful contrast to the gray winter day; the heated exhibition rooms are the ideal place to end your tour comfortably."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Indítsa kerékpártúráját a csendes Sankt Nikolaj Kirkénél, majd tekerjen az ikonikus Aarhus Rådhushoz. Délben utazzon vissza az időben a The Old Town történelmi házai között barangolva. A délután a tudományé és a természeté, miközben felfedezi a Steno Museet és a Naturhistorisk Museum kiállításait. Fejezze be útját az Antikmuseetnél és a pompás Sankt Johannes Kirkénél.",
         "ro": "Începeți turul cu bicicleta la biserica Sankt Nikolaj Kirke, apoi pedalați spre emblematica primărie Aarhus Rådhus. La prânz, călătoriți în timp printre casele istorice din The Old Town. După-amiaza este dedicată științei și naturii la Steno Museet și Naturhistorisk Museum. Încheiați plimbarea vizitând Antikmuseet și grandioasa biserică Sankt Johannes Kirke din apropiere.",
         "en": "Kick off your cycling tour at the quiet Sankt Nikolaj Kirke, then pedal to the iconic Aarhus Rådhus for a glimpse of functionalist design. By midday, travel back in time wandering through the historic houses of The Old Town. The afternoon shifts to science and nature as you explore Steno Museet and Naturhistorisk Museum. Conclude your ride at Antikmuseet and the grand Sankt Johannes Kirke."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour an den Kirchen im Zentrum. Mittags erkunden wir die Altstadt und die Universitätsmuseen, wobei Vorsicht auf rutschigen Wegen geboten ist. Achten Sie auf festen Halt beim Bremsen. Nachmittags bieten das Steno- und Naturhistorische Museum trockene Pausen. Der Tag endet an der Johanneskirche, idealerweise in wasserfester Kleidung.",
+            "hu": "Az eső ellenére a központi templomoktól indulunk kerékpárral. Napközben az Óvárost és az egyetemi múzeumokat érintjük, ahol a csúszós utakon fokozott figyelemmel közlekedjünk. Fékezéskor ügyeljen a tapadásra. Délután a Steno és a Természettudományi Múzeum biztosít száraz pihenőt. A napot a Szent János-templomnál zárjuk, lehetőleg vízálló öltözetben.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta de la bisericile centrale. În timpul zilei vizităm Centrul Vechi și muzeele universitare, unde trebuie circulat cu atenție pe drumurile alunecoase. Atenție la frânare pe pavajul ud. După-amiaza, muzeele Steno și de Istorie Naturală oferă pauze uscate. Încheiem ziua la biserica Sf. Ioan, echipați corespunzător.",
+            "en": "Despite the rain, we start the bike tour from the central churches. During the day, we visit the Old Town and university museums, where extra care is needed on slippery paths. Mind your grip when braking. In the afternoon, the Steno and Natural History museums provide dry breaks. The day ends at St. John's Church, ideally wearing full waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sankt Nikolaj Kirke",
+                "hu": "Sankt Nikolaj Kirke",
+                "ro": "Sankt Nikolaj Kirke",
+                "en": "Sankt Nikolaj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Vordach Schutz vor dem Regen, bevor Sie die Kirche betreten; achten Sie auf den glatten Boden im Eingangsbereich beim Abstellen des Rades.",
+                "hu": "Keresse a menedéket az előtető alatt, mielőtt belépne a templomba; ügyeljen a csúszós padlóra a bejáratnál, miután leparkolta kerékpárját.",
+                "ro": "Căutați adăpost sub copertină înainte de a intra în biserică; atenție la podeaua alunecoasă de la intrare după ce ați parcat bicicleta.",
+                "en": "Seek shelter under the overhang before entering the church; watch out for the slippery floor at the entrance after parking your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Aarhus Rådhus",
+                "hu": "Aarhus Rådhus",
+                "ro": "Aarhus Rådhus",
+                "en": "Aarhus Rådhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer in der Nähe des Eingangs; im Rathaus können Sie sich kurz aufwärmen und die nasse Kleidung ausschütteln.",
+                "hu": "Használja a bejárat közeli fedett kerékpártárolókat; a Városházán alkalma nyílik egy rövid pihenőre és a vizes ruhák átrendezésére.",
+                "ro": "Folosiți rastelele de biciclete acoperite din apropierea intrării; în interiorul Primăriei vă puteți încălzi scurt și vă puteți scutura hainele ude.",
+                "en": "Use the covered bike racks located near the entrance; inside the City Hall, you can warm up briefly and rearrange your wet gear."
+              }
+            },
+            {
+              "name": {
+                "de": "The Old Town, Aarhus",
+                "hu": "The Old Town, Aarhus",
+                "ro": "The Old Town, Aarhus",
+                "en": "The Old Town, Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den nassen Kopfsteinpflastern, um Stürze zu vermeiden; die historischen Häuser bieten viele trockene Rückzugsorte bei Schauern.",
+                "hu": "A vizes macskaköveken tolja a kerékpárt az esések elkerülése érdekében; a történelmi házak számos száraz menedéket kínálnak a záporok idején.",
+                "ro": "Împingeți bicicleta pe pavajul ud pentru a evita căzăturile; casele istorice oferă multe locuri uscate de refugiu în timpul averselor.",
+                "en": "Walk your bike on the wet cobblestones to avoid falls; the historic houses provide many dry places to retreat to during passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Steno Museet",
+                "hu": "Steno Museet",
+                "ro": "Steno Museet",
+                "en": "Steno Museet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Museumsbesuch als ausgiebige Trockenpause; das Planetarium ist ein wunderbarer Ort bei Regenwetter.",
+                "hu": "Parkolja le biztonságosan kerékpárját, és használja a látogatást egy alapos száradásra; a planetárium csodálatos helyszín esős időben.",
+                "ro": "Parcați bicicleta în siguranță și folosiți vizita pentru a vă usca bine; planetariul este un loc minunat de vizitat pe vreme ploioasă.",
+                "en": "Park your bike securely and use the museum visit as an extensive dry break; the planetarium is a wonderful place to spend time during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisk Museum",
+                "hu": "Naturhistorisk Museum",
+                "ro": "Naturhistorisk Museum",
+                "en": "Naturhistorisk Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten Schutz vor dem anhaltenden Regen; prüfen Sie Ihre Bremsen vor der Weiterfahrt, da Nässe den Bremsweg des Rades verlängert.",
+                "hu": "A kiállítások védelmet nyújtanak a tartós eső elől; indulás előtt ellenőrizze a fékeket, mivel a nedvesség jelentősen meghosszabbítja a féktávot.",
+                "ro": "Expozițiile oferă protecție împotriva ploii persistente; verificați frânele înainte de plecare, deoarece umezeala prelungește distanța de frânare.",
+                "en": "The exhibitions provide shelter from persistent rain; check your brakes before continuing, as wetness significantly increases braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikmuseet",
+                "hu": "Antikmuseet",
+                "ro": "Antikmuseet",
+                "en": "Antikmuseet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den ruhigen Museumsraum zum Aufwärmen; achten Sie beim Wiederaufsteigen auf den Sattel, der bei Regen unangenehm nass sein kann.",
+                "hu": "Használja ki a csendes múzeumi teret a melegedésre; újbóli elinduláskor figyeljen a nyeregre, amely esőben kellemetlenül vizes lehet.",
+                "ro": "Folosiți spațiul liniștit al muzeului pentru a vă încălzi; la plecare, atenție la șaua bicicletei care poate fi neplăcut de udă după ploaie.",
+                "en": "Use the quiet museum space to warm up; when getting back on your bike, mind the saddle which can be uncomfortably wet after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Johannes Kirke",
+                "hu": "Sankt Johannes Kirke",
+                "ro": "Sankt Johannes Kirke",
+                "en": "Sankt Johannes Kirke"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Inneren Ruhe nach der regnerischen Fahrt; wischen Sie die Felgen Ihres Rades kurz ab, um Korrosion durch Nässe vorzubeugen.",
+                "hu": "Keresse a belső nyugalmat az esős tekerés után; érdemes röviden áttörölni a kerékpár felnijeit, hogy megelőzze a nedvesség okozta korróziót.",
+                "ro": "Căutați liniștea interioară după drumul prin ploaie; ștergeți scurt jantele bicicletei pentru a preveni coroziunea cauzată de umezeală.",
+                "en": "Find peace inside after the rainy ride; it's a good idea to quickly wipe your bike rims to prevent corrosion caused by the moisture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung und Vorsicht bei möglichem Glatteis auf den Radwegen. Wir starten an den Kirchen und dem Rathaus. Mittags bieten die Altstadt und die Museen notwendige Aufwärmpausen. Beachten Sie das schwindende Tageslicht am Nachmittag. Der Tag endet an der Johanneskirche, idealerweise vor Einbruch der völligen Dunkelheit.",
+            "hu": "A téli kerékpározás meleg öltözetet és az esetleges jegesedés miatti óvatosságot igényel a bicikliutakon. A templomoktól és a Városházától indulunk. Napközben az Óváros és a múzeumok biztosítják a szükséges melegedőket. Ügyeljünk a délutáni gyors sötétedésre. A napot a Szent János-templomnál zárjuk, lehetőleg még a teljes sötétség beállta előtt.",
+            "ro": "O tură cu bicicleta iarna necesită haine groase și atenție la posibila gheață de pe pistele de biciclete. Pornim de la biserici și Primărie. În timpul zilei, Centrul Vechi și muzeele oferă pauzele necesare pentru încălzire. Atenție la lumina naturală care scade rapid după-amiaza. Încheiem la biserica Sf. Ioan, preferabil înainte de întuneric.",
+            "en": "A winter bike tour requires warm clothing and caution regarding potential ice on the bike paths. We start from the churches and City Hall. During the day, the Old Town and museums provide necessary warm-up breaks. Mind the rapidly fading daylight in the afternoon. The day ends at St. John's Church, ideally before complete darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sankt Nikolaj Kirke",
+                "hu": "Sankt Nikolaj Kirke",
+                "ro": "Sankt Nikolaj Kirke",
+                "en": "Sankt Nikolaj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet eine friedliche Zuflucht vor dem beißenden Wind; prüfen Sie den Luftdruck Ihrer Reifen, da Kälte diesen beeinflussen kann.",
+                "hu": "A templombelső békés menedéket nyújt a metsző szél elől; ellenőrizze a gumiabroncsok nyomását, mivel a hideg hatására az lecsökkenhet.",
+                "ro": "Interiorul oferă un refugiu pașnic în fața vântului tăios; verificați presiunea pneurilor, deoarece frigul o poate influența negativ.",
+                "en": "The interior provides a peaceful refuge from the biting wind; check your tire pressure as cold temperatures can cause it to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Aarhus Rådhus",
+                "hu": "Aarhus Rådhus",
+                "ro": "Aarhus Rådhus",
+                "en": "Aarhus Rådhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Gebäude, um Ihre Hände aufzutauen; feste Handschuhe sind für die Weiterfahrt bei Minusgraden absolut unerlässlich.",
+                "hu": "Használja ki az épület melegét a kezei felmelegítésére; a fagypont alatti tekeréshez a vastag kesztyű viselése elengedhetetlen a biztonsághoz.",
+                "ro": "Folosiți căldura din clădire pentru a vă dezmorți mâinile; mănușile groase sunt absolut esențiale pentru continuarea drumului pe ger.",
+                "en": "Take advantage of the warmth inside to thaw out your hands; thick gloves are absolutely essential for continuing your ride in freezing temps."
+              }
+            },
+            {
+              "name": {
+                "de": "The Old Town, Aarhus",
+                "hu": "The Old Town, Aarhus",
+                "ro": "The Old Town, Aarhus",
+                "en": "The Old Town, Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Wegen; die beleuchteten Fenster der historischen Häuser erzeugen eine besonders heimelige Winterstimmung.",
+                "hu": "Ügyeljen a befagyott tócsákra az utakon; a történelmi házak kivilágított ablakai különlegesen meghitt téli hangulatot árasztanak a szürkületben.",
+                "ro": "Atenție la bălțile înghețate de pe drumuri; ferestrele luminate ale caselor istorice creează o atmosferă de iarnă extrem de primitoare.",
+                "en": "Watch out for frozen puddles on the paths; the illuminated windows of the historic houses create a particularly cozy winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Steno Museet",
+                "hu": "Steno Museet",
+                "ro": "Steno Museet",
+                "en": "Steno Museet"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich bei einer Tasse Tee aufzuwärmen; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den restlichen Weg voll funktionsfähig ist.",
+                "hu": "Ideális helyszín a melegedésre egy csésze tea mellett; győződjön meg róla, hogy a kerékpár világítása megfelelően működik a hamarosan leszálló estében.",
+                "ro": "Un loc ideal pentru a vă încălzi cu o ceașcă de ceai; asigurați-vă că luminile bicicletei sunt funcționale pentru restul drumului spre seară.",
+                "en": "An ideal place to warm up with a cup of tea; make sure your bike lights are fully functional for the rest of the journey as evening nears."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisk Museum",
+                "hu": "Naturhistorisk Museum",
+                "ro": "Naturhistorisk Museum",
+                "en": "Naturhistorisk Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen fernab der Kälte; bewegen Sie Ihre Zehen regelmäßig beim Radfahren, um die Durchblutung bei Frost aufrechtzuerhalten.",
+                "hu": "Élvezze a kiállításokat a hidegtől távol; tekerés közben mozgassa rendszeresen a lábujjait, hogy fenntartsa a vérkeringést a fagyban.",
+                "ro": "Bucurați-vă de expoziții departe de frigul de afară; mișcați-vă degetele de la picioare regulat în timp ce pedalați pentru a menține circulația.",
+                "en": "Enjoy the exhibits far from the cold; move your toes regularly while cycling to maintain circulation in the freezing weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikmuseet",
+                "hu": "Antikmuseet",
+                "ro": "Antikmuseet",
+                "en": "Antikmuseet"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre lädt zum Verweilen im Warmen ein; achten Sie beim Losfahren auf rutschige Stellen im Schatten der Universitätsgebäude.",
+                "hu": "A nyugodt légkör marasztalja a látogatót a melegben; induláskor ügyeljen az egyetemi épületek árnyékában megbújó csúszós szakaszokra.",
+                "ro": "Atmosfera liniștită vă invită să rămâneți la căldură; la plecare, atenție la porțiunile alunecoase din umbra clădirilor universitare.",
+                "en": "The calm atmosphere invites you to stay in the warmth; when starting off, watch out for slippery spots in the shadows of university buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Johannes Kirke",
+                "hu": "Sankt Johannes Kirke",
+                "ro": "Sankt Johannes Kirke",
+                "en": "Sankt Johannes Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein besinnlicher Abschluss der frostigen Tour; tragen Sie Reflektoren an Ihrer Kleidung, um in der frühen Winterdunkelheit besser gesehen zu werden.",
+                "hu": "A fagyos túra meghitt lezárása; viseljen fényvisszaverő elemeket a ruházatán, hogy a korai téli sötétségben is jól látható maradjon.",
+                "ro": "Un final plin de reflecție pentru tura geroasă; purtați elemente reflectorizante pentru a fi vizibil în întunericul timpuriu de iarnă.",
+                "en": "A contemplative end to the frosty tour; wear reflectors on your clothing to ensure you are clearly visible in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje autós útját a külvárosi Hasle Kirkénél, majd haladjon a hangulatos Åbyhøj Kirke felé. Délben a The Old Town történelmi házai, majd az ARoS Art Museum kortárs remekművei következnek. A délután folyamán látogassa meg a központi Aarhus Rådhust és a Naturhistorisk Museumot. Fejezze be az utazást a gyönyörű Sankt Johannes Kirke megtekintésével a nap végén.",
         "ro": "Începeți traseul auto la biserica istorică Hasle Kirke de la periferie, deplasându-vă spre fermecătoarea Åbyhøj Kirke. La prânz, descoperiți patrimoniul la The Old Town, urmat de arta modernă de la Muzeul ARoS. După-amiaza vizitați primăria centrală Aarhus Rådhus și Naturhistorisk Museum. Încheiați-vă călătoria cu o oprire relaxantă la impresionanta Sankt Johannes Kirke.",
         "en": "Start your driving itinerary at the historic Hasle Kirke on the outskirts, moving swiftly to the charming Åbyhøj Kirke in the west. Midday takes you right into the heart of Danish heritage at The Old Town, followed by contemporary brilliance at ARoS Art Museum. As the afternoon unfolds, visit the central Aarhus Rådhus and Naturhistorisk Museum. Finish your journey at Sankt Johannes Kirke."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Vororte und das Zentrum wettergeschützt. Wir besuchen Kirchen und die Altstadt. Mittags bieten das ARoS und das Rathaus trockene Erlebnisse. Trotz Regen erreichen Sie alle Ziele bequem, achten Sie jedoch auf schlechte Sicht bei starken Schauern. Parkhäuser im Zentrum sind eine gute Wahl, um trocken zu den Museen zu gelangen.",
+            "hu": "Autóval az időjárástól védetten fedezhetjük fel a külvárost és a központot. Meglátogatjuk a templomokat és az Óvárost. Napközben az ARoS és a Városháza nyújt száraz élményeket. Az eső ellenére kényelmesen elérhet minden célt, de ügyeljen a korlátozott látási viszonyokra heves záporok idején. A központi parkolóházakból szárazon juthat a múzeumokba.",
+            "ro": "Cu mașina explorăm suburbiile și centrul, protejați de intemperii. Vizităm bisericile și Centrul Vechi. La prânz, ARoS și Primăria oferă experiențe la adăpost. În ciuda ploii, ajungeți confortabil la toate obiectivele, dar atenție la vizibilitatea redusă în timpul averselor. Parcările subterane sunt o alegere bună pentru a rămâne uscat.",
+            "en": "By car, we explore the suburbs and the center protected from the weather. We visit the churches and the Old Town. At noon, ARoS and the City Hall offer dry experiences. Despite the rain, you reach all destinations comfortably, but mind the limited visibility during heavy showers. Central parking garages are a good choice to stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hasle Kirke",
+                "hu": "Hasle Kirke",
+                "ro": "Hasle Kirke",
+                "en": "Hasle Kirke"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg im Regen kurzzuhalten; im Inneren erwartet Sie eine ruhige, trockene Atmosphäre.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat; odabent nyugodt és teljesen száraz környezet fogadja.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; în interior vă așteaptă o atmosferă liniștită și uscată.",
+                "en": "Park as close to the entrance as possible to shorten your path in the rain; inside, a peaceful and completely dry environment awaits you."
+              }
+            },
+            {
+              "name": {
+                "de": "Åbyhøj Kirke",
+                "hu": "Åbyhøj Kirke",
+                "ro": "Åbyhøj Kirke",
+                "en": "Åbyhøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den PKW-Stopp für eine kurze Pause vom Regen; die Kirche bietet einen geschützten Raum für Besinnung abseits des grauen Wetters.",
+                "hu": "Használja ki az autós megállót egy rövid pihenőre az eső elől; a templom védett teret kínál az elmélyüléshez a szürke időjárás elől menekülve.",
+                "ro": "Folosiți oprirea cu mașina pentru o scurtă pauză de ploaie; biserica oferă un spațiu protejat pentru reflecție departe de vremea gri.",
+                "en": "Take advantage of the car stop for a short break from the rain; the church offers a sheltered space for reflection away from the gray weather."
+              }
+            },
+            {
+              "name": {
+                "de": "The Old Town, Aarhus",
+                "hu": "The Old Town, Aarhus",
+                "ro": "The Old Town, Aarhus",
+                "en": "The Old Town, Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um trockenen Fußes in die Altstadt zu gelangen; die vielen Innenräume der Häuser sind perfekte Regenzufluchten.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson be az Óvárosba; a házak számos belső tere tökéletes menedék a hirtelen jött záporok elől.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge la Centrul Vechi fără să vă udați; numeroasele interioare ale caselor sunt refugii perfecte.",
+                "en": "Use the nearby parking garage to enter the Old Town with dry feet; the many interiors of the houses are perfect shelters from sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "ARoS Art Museum",
+                "hu": "ARoS Art Museum",
+                "ro": "ARoS Art Museum",
+                "en": "ARoS Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Parkhaus unter dem Museum ermöglicht einen komplett trockenen Zugang; genießen Sie die Aussicht durch die regennassen Scheiben des Regenbogens.",
+                "hu": "A múzeum alatti parkolóház teljesen száraz bejutást tesz lehetővé; élvezze a kilátást a szivárványfolyosó eső áztatta üvegfalain keresztül.",
+                "ro": "Parcarea de sub muzeu permite un acces complet uscat; bucurați-vă de priveliște prin geamurile ude de ploaie ale curcubeului de pe acoperiș.",
+                "en": "The parking garage under the museum allows for completely dry access; enjoy the view through the rain-streaked glass walls of the rainbow walkway."
+              }
+            },
+            {
+              "name": {
+                "de": "Aarhus Rådhus",
+                "hu": "Aarhus Rådhus",
+                "ro": "Aarhus Rådhus",
+                "en": "Aarhus Rådhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kurzzeitparkplätze direkt am Rathaus; das Gebäude bietet einen großzügigen, überdachten Raum zum Erkunden während eines Schauers.",
+                "hu": "Vegye igénybe a Városháza közvetlen közelében található rövid távú parkolókat; az épület tágas, fedett tereket kínál a felfedezésre egy zápor alatt.",
+                "ro": "Utilizați locurile de parcare pe termen scurt de lângă Primărie; clădirea oferă spații generoase și acoperite pentru explorare în timpul ploii.",
+                "en": "Make use of the short-term parking spaces directly by the City Hall; the building offers spacious, covered areas to explore during a rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisk Museum",
+                "hu": "Naturhistorisk Museum",
+                "ro": "Naturhistorisk Museum",
+                "en": "Naturhistorisk Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten an der Universität sind im Regen praktisch; im Museum können Sie die Natur erkunden, ohne nass zu werden.",
+                "hu": "Az egyetemnél található parkolók praktikusak esőben; a múzeumban felfedezheti a természetet anélkül, hogy ki kellene tennie magát az elemeknek.",
+                "ro": "Parcările de la universitate sunt practice pe ploaie; în muzeu puteți explora natura fără a fi nevoie să vă udați în exterior.",
+                "en": "The parking options at the university are practical in the rain; inside the museum, you can explore nature without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Johannes Kirke",
+                "hu": "Sankt Johannes Kirke",
+                "ro": "Sankt Johannes Kirke",
+                "en": "Sankt Johannes Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss der Tour im Trockenen; prüfen Sie Ihre Scheibenwischer, falls für den Heimweg starker Regen vorhergesagt ist.",
+                "hu": "A túra kényelmes lezárása szárazon; ellenőrizze az ablaktörlőket, ha hazafelé tartva erős esőzést jeleznek az előrejelzések.",
+                "ro": "Un final relaxat al turului, la adăpost; verificați ștergătoarele de parbriz dacă se anunță ploi abundente pentru drumul spre casă.",
+                "en": "A relaxed end to the tour in the dry; check your windshield wipers if heavy rain is forecast for your journey back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Aarhus im Winter gemütlich mit dem Auto. Wir besuchen die frostigen Außenbezirke und das warme Zentrum. Mittags bieten Museen wie das ARoS ideale Aufwärmstopps. Achten Sie auf winterliche Straßenverhältnisse und den frühen Einbruch der Dunkelheit. Das Auto dient als mobile Basis, um sich zwischen den Sehenswürdigkeiten schnell wieder aufzuwärmen.",
+            "hu": "Fedezze fel Aarhus téli arcát kényelmesen, autóval. Meglátogatjuk a fagyos külvárosi részeket és a meleg központot. Napközben az olyan múzeumok, mint az ARoS, ideális melegedőhelyek. Ügyeljen a téli útviszonyokra és a korai sötétedésre. Az autó mobil bázisként szolgál, ahol a látnivalók között gyorsan felmelegedhet.",
+            "ro": "Explorați Aarhus iarna confortabil cu mașina. Vizităm suburbiile înghețate și centrul cald. La prânz, muzeele precum ARoS sunt puncte ideale de încălzire. Atenție la condițiile de drum de iarnă și la întunericul care se lasă devreme. Mașina servește ca bază mobilă pentru a vă încălzi rapid între vizite.",
+            "en": "Explore winter Aarhus comfortably by car. We visit the frosty outskirts and the warm center. At noon, museums like ARoS are ideal warm-up stops. Mind the winter road conditions and the early onset of darkness. The car serves as a mobile base where you can quickly warm up between sightseeing stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hasle Kirke",
+                "hu": "Hasle Kirke",
+                "ro": "Hasle Kirke",
+                "en": "Hasle Kirke"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto kurz laufen, bevor Sie aussteigen; die kleine Kirche ist im Winter ein stiller, friedvoller Ort zum Innehalten.",
+                "hu": "Hagyja még kicsit járni a fűtést az autóban, mielőtt kiszállna; a kis templom télen csendes és békés helyszín az elmélyüléshez.",
+                "ro": "Lăsați căldura pornită în mașină puțin înainte de a coborî; mica biserică este iarna un loc liniștit și plin de pace pentru reculegere.",
+                "en": "Let the heater run in the car for a moment before getting out; the small church is a quiet, peaceful place to pause in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Åbyhøj Kirke",
+                "hu": "Åbyhøj Kirke",
+                "ro": "Åbyhøj Kirke",
+                "en": "Åbyhøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt an der Kirche sparen Ihnen lange Wege in der Kälte; im Inneren finden Sie eine behagliche Atmosphäre fernab vom Frost.",
+                "hu": "A közvetlenül a templomnál található parkolók megkímélik a hosszú kinti sétától; odabent barátságos légkör várja, távol a fagyos széltől.",
+                "ro": "Parcările de lângă biserică vă scutesc de drumuri lungi prin frig; în interior veți găsi o atmosferă primitoare, departe de gerul de afară.",
+                "en": "The parking spaces right at the church save you from long walks in the cold; inside, you'll find a welcoming atmosphere away from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "The Old Town, Aarhus",
+                "hu": "The Old Town, Aarhus",
+                "ro": "The Old Town, Aarhus",
+                "en": "The Old Town, Aarhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um sich auf den Spaziergang durch die winterlich beleuchtete Altstadt vorzubereiten; mäßiges Gehen auf glatten Wegen ist ratsam.",
+                "hu": "Használja a parkolóházat a felkészüléshez a téli fényekben úszó Óváros bejárására; a csúszós utakon a komótos, óvatos haladás javasolt.",
+                "ro": "Folosiți parcarea pentru a vă pregăti de plimbarea prin Centrul Vechi luminat de iarnă; se recomandă mersul prudent pe drumurile alunecoase.",
+                "en": "Use the parking garage to prepare for your walk through the winter-lit Old Town; walking at a steady, cautious pace on slippery paths is advised."
+              }
+            },
+            {
+              "name": {
+                "de": "ARoS Art Museum",
+                "hu": "ARoS Art Museum",
+                "ro": "ARoS Art Museum",
+                "en": "ARoS Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Parkhaus bietet maximalen Komfort; genießen Sie den Blick auf das winterliche Aarhus durch das warme Glas des Regenbogens.",
+                "hu": "A fűtött parkolóház maximális kényelmet biztosít; élvezze a téli Aarhus látványát a szivárványfolyosó meleg üvegfalai mögül.",
+                "ro": "Parcarea încălzită oferă un confort maxim; bucurați-vă de priveliștea orașului Aarhus iarna prin sticla caldă a curcubeului de pe acoperiș.",
+                "en": "The heated parking garage provides maximum comfort; enjoy the view of winter Aarhus through the warm glass of the rainbow walkway."
+              }
+            },
+            {
+              "name": {
+                "de": "Aarhus Rådhus",
+                "hu": "Aarhus Rådhus",
+                "ro": "Aarhus Rådhus",
+                "en": "Aarhus Rådhus"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im prächtigen Foyer; achten Sie beim Verlassen des Parkplatzes auf mögliche Eisglätte bei sinkenden Temperaturen.",
+                "hu": "Egy rövid megálló a felmelegedésre a pompás aulában; a parkolóból való kiálláskor ügyeljen a süllyedő hőmérséklet miatti jegesedésre.",
+                "ro": "O scurtă oprire pentru încălzire în foierul splendid; la ieșirea din parcare, atenție la gheața ce se poate forma odată cu scăderea temperaturii.",
+                "en": "A quick stop to warm up in the magnificent foyer; when leaving the parking space, watch out for potential ice as temperatures drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisk Museum",
+                "hu": "Naturhistorisk Museum",
+                "ro": "Naturhistorisk Museum",
+                "en": "Naturhistorisk Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind im Winter ein wunderbarer Zufluchtsort; nutzen Sie die Zeit drinnen, bevor Sie im Auto die nächste Etappe antreten.",
+                "hu": "A kiállítások télen csodálatos menedéket nyújtanak; használja ki a bent töltött időt a melegedésre, mielőtt autóval a következő szakaszhoz érne.",
+                "ro": "Expozițiile sunt un refugiu minunat în timpul iernii; folosiți timpul în interior pentru a vă încălzi înainte de a porni spre următoarea etapă.",
+                "en": "The exhibitions are a wonderful refuge in winter; use your time inside to warm up thoroughly before starting the next leg of your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Johannes Kirke",
+                "hu": "Sankt Johannes Kirke",
+                "ro": "Sankt Johannes Kirke",
+                "en": "Sankt Johannes Kirke"
+              },
+              "tip_5lang": {
+                "de": "Der krönende, warme Abschluss Ihrer Tour; stellen Sie sicher, dass Ihre Fahrzeugbeleuchtung für die Rückfahrt in der Dunkelheit einwandfrei ist.",
+                "hu": "A túra méltó és meleg befejezése; győződjön meg róla, hogy az autó világítása tökéletesen működik a sötétben történő hazautazáshoz.",
+                "ro": "Finalul cald și memorabil al turului; asigurați-vă că sistemul de iluminare al mașinii funcționează perfect pentru drumul de întoarcere.",
+                "en": "The crowning, warm end to your tour; make sure your vehicle's lights are in perfect working order for the return journey in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

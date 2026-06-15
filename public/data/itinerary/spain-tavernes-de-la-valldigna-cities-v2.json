@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a lenyűgöző városházánál, majd sétáljon át az Esglesia de Sant Pere templomhoz. A dél körül a békés Esglesia Sant Josep és a kulturális élményeket nyújtó Casa de la Cultura várja. A délutánt a városi uszodában zárhatja, ahol pihentető és aktív módon tapasztalhatja meg a helyi közösség mindennapjait.",
         "ro": "Începeți dimineața la grandiosul Ajuntament înainte de a vă plimba spre Esglesia de Sant Pere. La prânz vizitați pașnica Esglesia Sant Josep și Casa de la Cultura, un loc plin de cultură. După-amiaza se încheie activ și relaxant la piscina municipală, unde veți simți din plin spiritul comunității locale.",
         "en": "Start your morning at the grand Ajuntament before strolling to the nearby Esglesia de Sant Pere. Midday brings you to the peaceful Esglesia Sant Josep and the culturally enriching Casa de la Cultura. Your afternoon concludes with a relaxing and active end at the Piscina Coberta Municipal, experiencing the local community vibes firsthand."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am historischen Rathaus und nehmen Sie einen Regenschirm mit.\n\nSuchen Sie mittags in den beeindruckenden örtlichen Kirchen Schutz vor dem Regen.\n\nVerbringen Sie den Nachmittag mit der Erkundung der Innenausstellungen im Kulturzentrum.\n\nBeenden Sie den Tag im überdachten städtischen Schwimmbad und genießen Sie ein entspannendes Bad abseits des nassen Wetters.",
+            "hu": "Kezdje a reggelt a történelmi városházánál, esernyővel készülve a sétára.\n\nDélben keressen menedéket a helyi templomokban az eső elől.\n\nDélután fedezze fel a kulturális központ beltéri kiállításait kényelmesen.\n\nZárja a napot a fedett városi uszodában, egy pihentető úszással a zord időjárás elől menekülve.",
+            "ro": "Începeți dimineața la primăria istorică, cu o umbrelă pentru scurta plimbare.\n\nLa prânz, adăpostiți-vă de ploaie în bisericile locale impresionante.\n\nPetreceți după-amiaza explorând expozițiile interioare de la centrul cultural.\n\nÎncheiați ziua la piscina municipală acoperită, bucurându-vă de un înot relaxant departe de vremea umedă.",
+            "en": "Start your morning at the historic town hall, using an umbrella for the short walk.\n\nBy noon, find shelter inside the impressive local churches to escape the rain.\n\nSpend your afternoon exploring the indoor exhibits at the cultural center.\n\nFinish the day at the covered municipal pool, enjoying a relaxing swim away from the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Tavernes de la Valldigna",
+                "hu": "Ajuntament de Tavernes de la Valldigna",
+                "ro": "Ajuntament de Tavernes de la Valldigna",
+                "en": "Ajuntament de Tavernes de la Valldigna"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Fassade des Rathauses von außen, aber halten Sie Ihren Regenschirm bereit, da der offene Platz nur sehr wenig Schutz vor plötzlichen Regengüssen bietet.",
+                "hu": "Csodálja meg a történelmi városháza homlokzatát kívülről, de feltétlenül tartsa kéznél az esernyőjét, mivel a nyitott tér nagyon kevés menedéket nyújt a hirtelen záporok elől.",
+                "ro": "Admirați fațada istorică a primăriei din exterior, dar asigurați-vă că țineți umbrela la îndemână, deoarece piața deschisă oferă foarte puțin adăpost împotriva averselor bruște.",
+                "en": "Admire the historical facade of the town hall from the outside, but be sure to keep your umbrella handy as the open square offers very little cover from sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Esglesia de Sant Pere",
+                "hu": "Esglesia de Sant Pere",
+                "ro": "Esglesia de Sant Pere",
+                "en": "Esglesia de Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese historische Steinkirche ein, um ihr friedliches Inneres zu schätzen und sich einen Moment Zeit zu nehmen, um sich vom anhaltenden Regen draußen abzutrocknen.",
+                "hu": "Lépjen be ebbe a történelmi kőtemplomba, hogy megcsodálja békés belső terét, egy pillanatra megszáradjon és elmeneküljön a kitartó eső elől, miközben a nagyszerű oltárt nézi.",
+                "ro": "Pășiți în interiorul acestei biserici istorice de piatră pentru a aprecia interiorul său pașnic, permițându-vă un moment să vă uscați și să scăpați de ploaia persistentă de afară.",
+                "en": "Step inside this historic stone church to appreciate its peaceful interior, allowing you a moment to dry off and escape the persistent rain outside while admiring the grand altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Esglesia Sant Josep",
+                "hu": "Esglesia Sant Josep",
+                "ro": "Esglesia Sant Josep",
+                "en": "Esglesia Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die komplizierten Details dieser wunderschönen zweiten Kirche entlang der Route, die ein weiteres warmes und trockenes Heiligtum bietet, um sich bei nassem Wetter auszuruhen.",
+                "hu": "Fedezze fel az útvonalon található második gyönyörű templom bonyolult részleteit, amely egy újabb meleg, száraz menedéket nyújt a kényelmes pihenéshez a nedves és zord időben.",
+                "ro": "Explorați detaliile complicate ale acestei a doua biserici frumoase de pe traseu, care oferă un alt sanctuar cald și uscat pentru a vă odihni confortabil pe vreme umedă și urâtă.",
+                "en": "Explore the intricate details of this beautiful second church along the route, which provides another warm, dry sanctuary to rest comfortably during wet and miserable weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit damit, die faszinierenden Innenausstellungen des Museums zu erkunden, die als perfekt trockener und ansprechender kultureller Zufluchtsort dienen.",
+                "hu": "Töltsön el bőséges időt az itt található lenyűgöző beltéri múzeumi kiállítások alapos felfedezésével, amely tökéletesen száraz és vonzó kulturális menedékként szolgál az esőben.",
+                "ro": "Petreceți timp explorând amănunțit fascinantele expoziții interioare ale muzeului găzduite aici, servind ca un refugiu cultural perfect uscat și captivant de ploaia de afară.",
+                "en": "Spend ample time thoroughly exploring the fascinating indoor museum exhibits housed here, serving as a perfectly dry and engaging cultural refuge from the rainy conditions outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Coberta Municipal",
+                "hu": "Piscina Coberta Municipal",
+                "ro": "Piscina Coberta Municipal",
+                "en": "Piscina Coberta Municipal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang mit einem entspannenden Bad in diesem massiven beheizten Innenpool, der es Ihnen ermöglicht, einen düsteren, nassen Nachmittag optimal zu nutzen.",
+                "hu": "Zárja gyalogtúráját egy pihentető úszással ebben a hatalmas, fedett, fűtött medencében, amely lehetővé teszi, hogy a legtöbbet hozza ki egy borongós, nedves délutánból megfázás nélkül.",
+                "ro": "Încheiați-vă turul pietonal bucurându-vă de o baie relaxantă în această piscină interioară încălzită, care vă permite să profitați la maximum de o după-amiază mohorâtă și umedă.",
+                "en": "Finish your walking tour by enjoying a relaxing swim in this massive indoor heated pool, which allows you to make the absolute most of a gloomy, wet afternoon without getting cold."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren frischen Wintermorgen am Rathaus und packen Sie sich in warme Schichten ein.\n\nBesuchen Sie gegen Mittag die örtlichen Kirchen, um sich aufzuwärmen und die Architektur zu bewundern.\n\nVerbringen Sie den Nachmittag im Kulturzentrum mit Innenausstellungen, wenn die Temperatur sinkt.\n\nWenn es früh dunkel wird, ziehen Sie sich für einen gemütlichen Abschluss in das beheizte Hallenbad zurück.",
+            "hu": "Kezdje a csípős téli reggelt a városházánál, meleg rétegekbe öltözve.\n\nDél körül látogassa meg a helyi templomokat, ahol élvezheti az építészetet és felmelegedhet.\n\nDélután a kulturális központ beltéri kiállításait érdemes megtekinteni a hőmérséklet csökkenésével.\n\nA korai sötétedés után vonuljon vissza a fűtött fedett uszodába, hogy kellemesen zárja a napot.",
+            "ro": "Începeți dimineața geroasă de iarnă la primărie, înfofoliți în straturi calde.\n\nPe la prânz, vizitați bisericile locale unde vă puteți bucura de arhitectură și vă puteți încălzi.\n\nPetreceți după-amiaza la centrul cultural, explorând expoziții interioare pe măsură ce temperatura scade.\n\nOdată cu lăsarea devreme a serii, retrageți-vă la piscina municipală încălzită pentru un final confortabil.",
+            "en": "Start your crisp winter morning at the town hall, bundled up in warm layers.\n\nAround midday, visit the local churches where you can enjoy the architecture and find some warmth.\n\nSpend your afternoon at the cultural center, engaging with indoor exhibits as the temperature drops.\n\nAs dusk falls early, retreat to the heated indoor municipal pool for a cozy end to your walking tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Tavernes de la Valldigna",
+                "hu": "Ajuntament de Tavernes de la Valldigna",
+                "ro": "Ajuntament de Tavernes de la Valldigna",
+                "en": "Ajuntament de Tavernes de la Valldigna"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie spektakuläre Fotos des historischen Rathauses im klaren Wintersonnenlicht, aber tragen Sie unbedingt einen dicken, warmen Mantel, da der weite offene Platz ziemlich kühl wird.",
+                "hu": "Készítsen lenyűgöző fotókat a történelmi városházáról a tiszta téli napsütésben, de feltétlenül viseljen vastag, meleg kabátot, mivel a hatalmas nyitott tér meglehetősen hűvös lehet.",
+                "ro": "Faceți fotografii spectaculoase ale clădirii istorice a primăriei în lumina clară a soarelui de iarnă, dar asigurați-vă că purtați o haină groasă, deoarece piața poate fi foarte rece.",
+                "en": "Take spectacular photos of the historic town hall building in the crisp winter sunlight, but make sure to wear a heavy, warm coat as the wide open square can get quite incredibly chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Esglesia de Sant Pere",
+                "hu": "Esglesia de Sant Pere",
+                "ro": "Esglesia de Sant Pere",
+                "en": "Esglesia de Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Die alten, dicken Steinmauern neigen dazu, das Kircheninnere völlig eiskalt zu halten. Lassen Sie Ihren Wintermantel also fest geschlossen, während Sie das Altarbild bewundern.",
+                "hu": "Az ősi, vastag kőfalak hajlamosak teljesen fagyosan tartani a templom belsejét, ezért mindenképpen tartsa szorosan begombolva téli kabátját, miközben a csodálatos oltárképet nézi.",
+                "ro": "Zidurile antice și groase de piatră tind să mențină interiorul bisericii complet înghețat, așa că țineți haina de iarnă bine încheiată în timp ce admirați magnificul altar principal.",
+                "en": "The ancient, thick stone walls tend to keep the church interior completely freezing, so definitely keep your winter coat tightly fastened while admiring the magnificent altarpiece."
+              }
+            },
+            {
+              "name": {
+                "de": "Esglesia Sant Josep",
+                "hu": "Esglesia Sant Josep",
+                "ro": "Esglesia Sant Josep",
+                "en": "Esglesia Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die bemerkenswert friedliche Winteratmosphäre in diesem wunderschönen Heiligtum, das einen ruhigen und geschützten Ort bietet, um sich kurz die Füße auszuruhen.",
+                "hu": "Élvezze a figyelemre méltóan békés téli hangulatot e gyönyörű szentély belsejében, amely csendes és védett helyet biztosít a lábak rövid pihentetésére a tagadhatatlanul hűvös sétán.",
+                "ro": "Bucurați-vă de ambianța de iarnă remarcabil de pașnică în interiorul acestui frumos sanctuar, oferind un loc liniștit și adăpostit pentru a vă odihni în timpul plimbării friguroase.",
+                "en": "Enjoy the remarkably peaceful winter ambiance inside this beautiful sanctuary, providing a quiet and sheltered spot to briefly rest your feet during your undeniably chilly morning walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem Gebäude richtig auf, während Sie den späten Nachmittag in aller Ruhe damit verbringen, die faszinierenden kulturellen und historischen Ausstellungen zu erkunden.",
+                "hu": "Melegedjen fel alaposan ebben az épületben, miközben a késő délutánt kényelmesen az itt elérhető lenyűgöző kulturális és mélyen történelmi kiállítások alapos böngészésével tölti.",
+                "ro": "Încălziți-vă corespunzător în interiorul acestei clădiri în timp ce vă petreceți după-amiaza târziu răsfoind cu atenție fascinantele expoziții culturale și istorice disponibile aici.",
+                "en": "Warm yourself up properly inside this building as you casually spend the late afternoon thoroughly browsing the fascinating cultural and deeply historical exhibits available here."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Coberta Municipal",
+                "hu": "Piscina Coberta Municipal",
+                "ro": "Piscina Coberta Municipal",
+                "en": "Piscina Coberta Municipal"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen massiven beheizten Innenpool als die absolut perfekte Winterflucht; tauchen Sie in das beruhigend warme Wasser ein, sobald die bemerkenswert frühe Dunkelheit einsetzt.",
+                "hu": "Tekintse ezt a hatalmas, fűtött fedett medencét az abszolút tökéletes téli menedéknek; merüljön egyenesen a nyugtatóan meleg vízbe, amint a figyelemre méltóan korai esti sötétség leszáll.",
+                "ro": "Considerați această piscină interioară imensă și încălzită evadarea perfectă de iarnă; scufundați-vă direct în apele calde liniștitoare chiar în momentul în care se lasă întunericul.",
+                "en": "Consider this massive heated indoor pool to be the absolute perfect winter escape; dive straight into the soothingly warm waters just as the remarkably early evening darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpártúra a Casa de la Cultura kiállításaival és a történelmi városháza terének megtekintésével indul. Kora délután tekerjen az Esglesia de Sant Pere-hez, mielőtt megkezdené a kapaszkodót a Castell de Tavernes felé. Késő délután fedezze fel a les Creus magaslatait, ahol a csodálatos kilátás kárpótol a fáradozásokért.",
         "ro": "Turul cu bicicleta începe cu expozițiile de la Casa de la Cultura și o oprire în piața istorică a primăriei. La prânz, pedalați spre Esglesia de Sant Pere înainte de a urca spre Castell de Tavernes. Petreceți după-amiaza explorând înălțimile de la les Creus, unde peisajele naturale vă răsplătesc efortul.",
         "en": "Your cycling tour begins with engaging exhibits at Casa de la Cultura and a stop at the historic Ajuntament square. As midday approaches, pedal to the grand Esglesia de Sant Pere before tackling the ascent to Castell de Tavernes. Spend the late afternoon exploring the heights of les Creus, where sweeping natural vistas reward your active effort."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour im Kulturzentrum.\n\nFahren Sie vorsichtig zum Rathaus und zur örtlichen Kirche und achten Sie auf rutschiges Kopfsteinpflaster.\n\nTrotzen Sie dem Regen zu den Burgruinen und stellen Sie sicher, dass Ihre Bremsen auf nassen Abfahrten gut funktionieren.\n\nBeenden Sie die Fahrt schlammig, aber lohnend zum Aussichtspunkt, mit guter wasserdichter Ausrüstung.",
+            "hu": "Kezdje az esős kerékpártúrát beltéren, a kulturális központban.\n\nÓvatosan tekerjen a városházához és a templomhoz, ügyelve a csúszós macskakövekre.\n\nDacoljon az esővel a várromokhoz tekerve, ellenőrizve a fékek működését a nedves lejtőkön.\n\nZárja a napot egy saras, de hálás úttal a kilátóhoz, jó vízálló felszerelésben.",
+            "ro": "Începeți turul ploios cu bicicleta în interior la centrul cultural.\n\nMergeți cu atenție la primărie și biserica locală, având grijă la pietrișul alunecos.\n\nÎnfruntați ploaia pentru a vedea ruinele castelului, asigurându-vă că frânele funcționează bine pe coborâri umede.\n\nÎncheiați cu o plimbare noroioasă, dar plină de satisfacții spre punct de belvedere, cu echipament impermeabil.",
+            "en": "Begin your rainy bike tour indoors at the cultural center.\n\nRide carefully to the town hall and local church, minding slippery cobblestones.\n\nBrave the rain to see the castle ruins, ensuring your brakes work well on wet descents.\n\nFinish with a muddy but rewarding ride to the viewpoint, wearing good waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher draußen und genießen Sie einen völlig trockenen, lehrreichen Start in den Tag, indem Sie die kulturellen Ausstellungen im Inneren bei starkem Regen erkunden.",
+                "hu": "Parkolja le kerékpárját biztonságosan kint, és élvezze a teljesen száraz, rendkívül tanulságos napkezdést a kiterjedt beltéri kulturális kiállítások felfedezésével a kinti heves esőben.",
+                "ro": "Parcați bicicleta în siguranță afară și bucurați-vă de un început de zi complet uscat și extrem de educativ, explorând expozițiile culturale interioare în timp ce afară plouă torențial.",
+                "en": "Park your bicycle safely outside and enjoy a completely dry, highly educational start to your day by exploring the extensive indoor cultural exhibits while the heavy rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Tavernes de la Valldigna",
+                "hu": "Ajuntament de Tavernes de la Valldigna",
+                "ro": "Ajuntament de Tavernes de la Valldigna",
+                "en": "Ajuntament de Tavernes de la Valldigna"
+              },
+              "tip_5lang": {
+                "de": "Unterbrechen Sie Ihre Radtour kurz direkt unter den überhängenden Traufen der nahegelegenen Geschäftsgebäude, um die Architektur des Rathauses zu betrachten, ohne völlig nass zu werden.",
+                "hu": "Röviden szüneteltesse a kerékpározást a közeli kereskedelmi épületek túlnyúló eresze alatt, hogy megfelelően megtekinthesse a városháza építészetét anélkül, hogy teljesen elázna.",
+                "ro": "Puneți pauză scurt ciclismului chiar sub streașina surplombată a clădirilor comerciale din apropiere pentru a vedea arhitectura primăriei fără a vă uda complet hainele și echipamentul.",
+                "en": "Pause your cycling briefly right under the overhanging eaves of nearby commercial buildings to properly view the town hall architecture without getting yourself completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Esglesia de Sant Pere",
+                "hu": "Esglesia de Sant Pere",
+                "ro": "Esglesia de Sant Pere",
+                "en": "Esglesia de Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie schnell dringend benötigten Schutz in dieser großen historischen Kirche. Seien Sie beim Gehen in Ihrer rutschigen nassen Fahrradausrüstung unglaublich vorsichtig, um nicht zu fallen.",
+                "hu": "Gyorsan keressen sokatmondó menedéket ebben a nagyszerű történelmi templomban; legyen hihetetlenül óvatos, amikor csúszós nedves kerékpáros felszerelésben sétál, nehogy elessen a padlón.",
+                "ro": "Căutați rapid un adăpost atât de necesar în interiorul acestei mari biserici istorice; fiți incredibil de atenți când mergeți în echipamentul ud de ciclism pentru a nu cădea pe podea.",
+                "en": "Quickly take much-needed shelter inside this grand historical church; be incredibly careful when walking in your slippery wet cycling gear so you do not accidentally fall on the floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Tavernes",
+                "hu": "Castell de Tavernes",
+                "ro": "Castell de Tavernes",
+                "en": "Castell de Tavernes"
+              },
+              "tip_5lang": {
+                "de": "Der unglaublich steile Feldweg, der zur historischen Burg hinaufführt, wird bei starkem Regen extrem rutschig; verwenden Sie breite, griffige Reifen und fahren Sie mit äußerster Vorsicht.",
+                "hu": "A történelmi várhoz vezető hihetetlenül meredek földút rendkívül csúszóssá válik heves esőzéskor; használjon széles, jól tapadó gumikat, és haladjon maximális óvatossággal a csúszás ellen.",
+                "ro": "Traseul de pământ incredibil de abrupt care duce la castelul istoric devine extrem de alunecos pe ploaie abundentă; folosiți anvelope late și procedați cu maximă precauție la urcare.",
+                "en": "The incredibly steep dirt trail leading up to the historic castle gets extremely slippery in heavy rain; use wide grippy tires and proceed with utmost caution to avoid sliding backwards."
+              }
+            },
+            {
+              "name": {
+                "de": "les Creus",
+                "hu": "les Creus",
+                "ro": "les Creus",
+                "en": "les Creus"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie sich auf eine tiefgreifend herausfordernde und schlammige nasse Fahrt zu diesen Kreuzen gefasst. Erwarten Sie viel Schmutz, aber die neblige Aussicht ist unglaublich stimmungsvoll.",
+                "hu": "Készüljön fel egy mélyen kihívást jelentő és sáros, nedves tekerésre ezekhez a keresztekhez; számítson sok koszra, de a titokzatos, ködös kilátás az egész völgyre hihetetlenül hangulatos.",
+                "ro": "Pregătiți-vă pentru o plimbare umedă profund provocatoare și noroioasă până la aceste cruci; așteptați-vă la multă murdărie, dar priveliștile misterioase cețoase sunt incredibil de atmosferice.",
+                "en": "Brace yourself for a deeply challenging and muddy wet ride up to these crosses; expect a lot of dirt, but the mysterious misty views over the entire valley are incredibly atmospheric."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warme, winddichte Schichten für eine frische Wintermorgenfahrt zum Kulturzentrum an.\n\nRadeln Sie mittags durch die kühlen Straßen zum historischen Rathaus und zur örtlichen Kirche.\n\nWärmen Sie sich am Nachmittag mit dem physischen Aufstieg zu den majestätischen Burgruinen auf.\n\nBeenden Sie die Fahrt am Aussichtspunkt der Kreuze vor dem frühen Sonnenuntergang gegen 17 Uhr.",
+            "hu": "Öltözzön meleg, szélálló rétegekbe a csípős téli reggeli tekeréshez a kulturális központig.\n\nDélben tekerjen a hűvös utcákon át a történelmi városházához és a helyi templomhoz.\n\nDélután melegítse be magát a fenséges várromokhoz vezető fizikai emelkedőn.\n\nZárja a túrát a keresztek kilátópontján a korai, 17 óra körüli naplemente előtt, élvezve az alkonyati színeket.",
+            "ro": "Îmbrăcați-vă în straturi calde pentru o plimbare revigorantă de iarnă până la centrul cultural.\n\nLa prânz, pedalați pe străzile răcoroase până la primăria istorică și biserica locală.\n\nDupă-amiaza, încălziți-vă cu urcarea fizică către ruinele majestuoase ale castelului.\n\nTerminați la punctul de belvedere cu cruci înainte de apusul devreme, în jurul orei 17:00.",
+            "en": "Dress in warm, windproof layers for a brisk winter morning ride to the cultural center.\n\nBy midday, cycle through the chilly streets to the historic town hall and local church.\n\nIn the afternoon, warm yourself up with the physical climb to the majestic castle ruins.\n\nFinish at the crosses viewpoint before the early sunset around 5 PM, enjoying the twilight colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Dieses große Kulturzentrum ist ein absolut fantastischer Ort im Innenbereich, um Ihre völlig gefrorenen Hände und Ihr Gesicht direkt nach der anfänglich bitterkalten morgendlichen Radtour aufzuwärmen.",
+                "hu": "Ez a nagy kulturális központ abszolút fantasztikus beltéri hely, ahol alaposan felmelegítheti a teljesen fagyott kezeit és arcát közvetlenül a kezdeti, hevesen hideg reggeli tekerés után.",
+                "ro": "Acest mare centru cultural este un loc fantastic în interior pentru a vă încălzi temeinic mâinile și fața complet înghețate imediat după plimbarea inițială cu bicicleta extrem de rece.",
+                "en": "This large cultural center is an absolutely fantastic indoor spot to thoroughly warm up your totally frozen hands and face immediately after the initial fiercely cold morning bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Tavernes de la Valldigna",
+                "hu": "Ajuntament de Tavernes de la Valldigna",
+                "ro": "Ajuntament de Tavernes de la Valldigna",
+                "en": "Ajuntament de Tavernes de la Valldigna"
+              },
+              "tip_5lang": {
+                "de": "Die strahlende, flach stehende Wintersonne trifft diesen weiten, offenen Platz normalerweise um die Mittagszeit recht schön und bietet Ihnen einen kurzen, aber sehr geschätzten Moment der Wärme.",
+                "hu": "A fényes, alacsony szögű téli nap általában dél körül egészen szépen megvilágítja ezt a tágas, nyitott teret, ami egy rövid, de nagyra értékelt meleg pillanatot kínál a pihenés során.",
+                "ro": "Soarele strălucitor de iarnă cu unghi scăzut lovește de obicei această piață larg deschisă destul de frumos chiar la prânz, oferindu-vă un moment scurt, dar foarte apreciat de căldură.",
+                "en": "The bright low-angled winter sun generally hits this wide open square quite nicely right around midday, offering you a brief but highly appreciated moment of warmth while you are pausing."
+              }
+            },
+            {
+              "name": {
+                "de": "Esglesia de Sant Pere",
+                "hu": "Esglesia de Sant Pere",
+                "ro": "Esglesia de Sant Pere",
+                "en": "Esglesia de Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie darauf, dass Sie Ihre dicke Fahrradjacke im Inneren mit einem Reißverschluss verschlossen halten, da sich das Innere der Kirche durch die massiven alten Steinmauern deutlich kälter anfühlt.",
+                "hu": "Gondoskodjon róla, hogy vastag kerékpáros dzsekijét belül is összehúzva tartsa, mivel a hatalmas ősi kőfalak miatt a templom belseje jelentősen hidegebbnek tűnik, mint a kinti téli levegő.",
+                "ro": "Asigurați-vă că vă gândiți serios să vă păstrați jacheta groasă de ciclism închisă în interior, deoarece zidurile masive de piatră antice fac ca interiorul bisericii să se simtă mult mai rece.",
+                "en": "Ensure you strongly consider keeping your thick cycling jacket zipped up inside, as the massive ancient stone walls make the church interior feel significantly colder than the outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Tavernes",
+                "hu": "Castell de Tavernes",
+                "ro": "Castell de Tavernes",
+                "en": "Castell de Tavernes"
+              },
+              "tip_5lang": {
+                "de": "Die körperlich anspruchsvolle und durchgehend steile Fahrt direkt zur Burg wird Ihren Körper absolut aufwärmen, aber achten Sie sorgfältig auf gefährliche eisige Stellen auf schattigen Wegen.",
+                "hu": "A fizikailag megterhelő és folyamatosan meredek út közvetlenül a várig abszolút felmelegíti a testét, de gondosan ügyeljen a veszélyes, jeges foltokra az ösvény árnyékosabb szakaszain.",
+                "ro": "Cursa solicitantă fizic și constant abruptă direct până la castel vă va încălzi absolut corpul, dar aveți grijă la peticele periculoase de gheață pe secțiunile umbrite ale traseului turistic.",
+                "en": "The physically demanding and consistently steep ride directly up to the castle will absolutely warm your body up, but carefully watch out for dangerous icy patches on shaded trail sections."
+              }
+            },
+            {
+              "name": {
+                "de": "les Creus",
+                "hu": "les Creus",
+                "ro": "les Creus",
+                "en": "les Creus"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, kurz vor dem ungewöhnlich frühen Sonnenuntergang anzukommen, um zu sehen, wie der Winterhimmel tiefrosa wird, aber stellen Sie sicher, dass Sie sehr starke Fahrradlichter haben.",
+                "hu": "Próbáljon meg a szokatlanul korai naplemente előtt érkezni, hogy lássa a látványos téli égbolt élénk rózsaszínűvé válását, de gondoskodjon nagyon erős kerékpáros lámpákról a visszaútra.",
+                "ro": "Încercați să ajungeți chiar înainte de apusul neobișnuit de devreme pentru a vedea cerul spectaculos de iarnă devenind roz viu, dar asigurați-vă că aveți lumini foarte puternice la bicicletă.",
+                "en": "Try to arrive just before the unusually early sunset to effectively see the spectacular winter sky slowly turn vivid pink, but practically ensure you have very strong bike lights to ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a napot az ősi történelem felfedezésével a Cova del Bolomor barlangban, majd vezessen be a városba a Casa de la Cultura-hoz. A déli nap a történelmi városházát világítja meg, mielőtt a középkori vár felé venné az irányt. A naplementét az el Mirador kilátóból érdemes megcsodálni, amely lenyűgöző panorámával zárja a napot.",
         "ro": "Începeți ziua explorând istoria antică la Cova del Bolomor înainte de a conduce în oraș spre Casa de la Cultura. Soarele amiezii luminează Ajuntament-ul istoric, chiar înainte de a conduce spre Castell de Tavernes. Apusul soarelui vă cheamă la el Mirador, încheind ziua cu panorame magnifice asupra văii.",
         "en": "Kick off the day exploring ancient history at Cova del Bolomor before driving into town to see Casa de la Cultura. The midday sun illuminates the historical Ajuntament, right before you navigate your vehicle up towards the medieval Castell de Tavernes. Sunset calls for a drive to el Mirador, closing your day with magnificent panoramas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig zur alten Höhle und halten Sie einen stabilen Regenschirm für den kurzen Fußweg bereit.\n\nBleiben Sie gegen Mittag trocken, indem Sie die Innenausstellungen im Kulturzentrum erkunden.\n\nParken Sie am Nachmittag in der Nähe von Rathaus und Burg und bringen Sie Regenbekleidung mit.\n\nBeenden Sie Ihren Tag mit einer malerischen Fahrt zum Aussichtspunkt und beobachten Sie den Regen über dem Tal.",
+            "hu": "Reggel vezessen óvatosan az ősi barlanghoz, masszív esernyővel készülve az autótól való rövid sétára.\n\nDél körül maradjon szárazon a kulturális központ beltéri kiállításainak felfedezésével.\n\nDélután parkoljon a városháza és a vár közelében, esőruházattal készülve a gyors szabadtéri megállókra.\n\nZárja a napot egy festői autózással a kilátóhoz, figyelve, ahogy az eső végigsöpör a völgyön.",
+            "ro": "Conduceți cu atenție la peștera antică dimineața, păstrând o umbrelă robustă pentru scurta plimbare.\n\nPe la prânz, rămâneți uscat explorând expozițiile interioare de la centrul cultural.\n\nDupă-amiaza, parcați lângă primărie și castel, aducând echipament de ploaie pentru opriri rapide.\n\nÎncheiați ziua cu o plimbare pitorească cu mașina până la punctul de belvedere, privind ploaia pe vale.",
+            "en": "Drive carefully to the ancient cave in the morning, keeping a sturdy umbrella for the short walk from the car.\n\nAround noon, stay dry by exploring the indoor exhibitions at the cultural center.\n\nIn the afternoon, park near the town hall and castle, bringing rain gear for the quick outdoor stops.\n\nEnd your day with a scenic, albeit moody, drive up to the viewpoint, watching the rain sweep across the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cova del Bolomor",
+                "hu": "Cova del Bolomor",
+                "ro": "Cova del Bolomor",
+                "en": "Cova del Bolomor"
+              },
+              "tip_5lang": {
+                "de": "Der ziemlich kurze Fußweg direkt vom Parkplatz zur Höhle wird schnell extrem schlammig. Tragen Sie wasserdichte Wanderschuhe und achten Sie am feuchten Eingang sorgfältig auf Ihre Schritte.",
+                "hu": "A parkolóból a barlangba vezető meglehetősen rövid sétaút gyorsan rendkívül sarassá válik; magabiztosan viseljen vízálló túrabakancsot, és gondosan ügyeljen a lépteire a nedves bejárat közelében.",
+                "ro": "Poteca de mers destul de scurtă direct de la zona de parcare la peșteră devine extrem de noroioasă rapid; purtați cu încredere cizme de drumeție impermeabile și aveți mare grijă la intrare.",
+                "en": "The fairly short walking path directly from the parking area to the cave gets extremely muddy quickly; confidently wear waterproof hiking boots and carefully watch your step near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, Ihr Auto so nah wie gesetzlich erlaubt am Haupteingang zu parken und eilen Sie dann schnell hinein, um ein oder zwei Stunden unglaublich warmes, trockenes Lernen zu genießen.",
+                "hu": "Próbálja meg autóját teljesen a lehető legközelebb parkolni a főbejárathoz, majd gyorsan siessen be, hogy kényelmesen élvezzen egy-két órányi hihetetlenül meleg, száraz kulturális tanulást.",
+                "ro": "Încercați să parcați mașina absolut cât mai aproape legal posibil de intrarea principală și apoi grăbiți-vă rapid înăuntru pentru a vă bucura confortabil de o oră sau două de cultură uscată.",
+                "en": "Try to park your car absolutely as close as legally possible to the main entrance and then quickly dash inside to comfortably enjoy an hour or two of incredibly warm, dry cultural learning."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Tavernes de la Valldigna",
+                "hu": "Ajuntament de Tavernes de la Valldigna",
+                "ro": "Ajuntament de Tavernes de la Valldigna",
+                "en": "Ajuntament de Tavernes de la Valldigna"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die wirklich beeindruckende Gebäudefassade bequem unter Ihrem großen Regenschirm aus der Nähe oder trinken Sie strategisch einen schnellen, wärmenden Kaffee in einem Café in der Nähe.",
+                "hu": "Kényelmesen tekintse meg a valóban lenyűgöző épület homlokzatát közvetlenül a nagy esernyője alól, vagy taktikusan igyon meg egy gyors, melegítő kávét egy közeli, teljesen fedett kávézóban.",
+                "ro": "Vizualizați convenabil fațada clădirii cu adevărat impresionantă de sub umbrela dumneavoastră mare sau luați strategic o cafea rapidă și încălzitoare într-o cafenea locală complet acoperită.",
+                "en": "Conveniently view the genuinely impressive building facade closely from underneath your large umbrella, or strategically grab a quick, warming coffee inside a nearby fully covered local cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Tavernes",
+                "hu": "Castell de Tavernes",
+                "ro": "Castell de Tavernes",
+                "en": "Castell de Tavernes"
+              },
+              "tip_5lang": {
+                "de": "Wenn der unerbittliche Regen deutlich stärker wird, können Sie sich einfach dafür entscheiden, den imposanten Blick auf die historischen Burgruinen ganz bequem und warm von Ihrem Auto aus zu genießen.",
+                "hu": "Ha a könyörtelen eső jelentősen felerősödik, könnyedén választhatja, hogy egyszerűen a történelmi várromok impozáns látványát szigorúan az autója teljes kényelméből és melegéből élvezi.",
+                "ro": "Dacă ploaia neobosită devine semnificativ de abundentă, puteți alege cu ușurință să vă bucurați pur și simplu de vederea impunătoare a ruinelor castelului istoric din confortul total al mașinii.",
+                "en": "If the relentless rain becomes significantly heavy, you can easily choose to simply enjoy the imposing view of the historic castle ruins strictly from the total comfort and warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "el Mirador",
+                "hu": "el Mirador",
+                "ro": "el Mirador",
+                "en": "el Mirador"
+              },
+              "tip_5lang": {
+                "de": "Dieser hervorragende hochgelegene Aussichtspunkt bietet bei starkem Regen häufig ein zutiefst launisches, äußerst stimmungsvolles Panorama. Lassen Sie die Autoheizung laufen, während Sie fotografieren.",
+                "hu": "Ez a kiemelkedő nagy magasságú kilátópont gyakran mélyen hangulatos, rendkívül atmoszférikus panorámát kínál a heves esőzés idején. Járassa az autó fűtését, miközben nagyszerű fotókat készít.",
+                "ro": "Acest punct de observație remarcabil la mare altitudine oferă frecvent o panoramă profund capricioasă și extrem de atmosferică în timpul ploilor abundente. Porniți încălzitorul auto la poze.",
+                "en": "This outstanding high-altitude observation point frequently offers a deeply moody, highly atmospheric panorama during the heavy rain. Keep the car heater running while you take great photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt zur alten Höhle und genießen Sie die klare Morgenluft, bevor Sie ins beheizte Auto zurückkehren.\n\nVerbringen Sie die Mittagszeit drinnen im Kulturzentrum, da die Außentemperaturen niedrig bleiben.\n\nParken Sie nachmittags zentral, um das Rathaus zu erkunden und zur Burgruine zu wandern, um sich warm zu halten.\n\nSchließen Sie am malerischen Aussichtspunkt ab und kommen Sie vor dem frühen Sonnenuntergang um 17 Uhr an.",
+            "hu": "Kezdje a téli autózást az ősi barlanghoz, élvezve a csípős reggeli levegőt, mielőtt visszatérne a fűtött autóba.\n\nDélben töltsön időt beltéren a kulturális központban, mivel a kinti hőmérséklet alacsony marad.\n\nDélután parkoljon központilag, hogy felfedezze a történelmi városházát és túrázzon a várromokhoz a bemelegedésért.\n\nZárja a napot a festői kilátónál, még a korai, 17 órás naplemente előtt érkezve, hogy elcsípje az aranyórát.",
+            "ro": "Începeți plimbarea de iarnă către peștera antică, bucurându-vă de aerul proaspăt înainte de a reveni în mașina încălzită.\n\nLa prânz, petreceți timp în interior la centrul cultural, deoarece temperaturile exterioare rămân scăzute.\n\nDupă-amiaza, parcați central pentru a explora primăria și pentru a urca la ruinele castelului pentru a vă încălzi.\n\nÎncheiați la punctul de belvedere pitoresc, sosind înainte de apusul de la ora 17:00 pentru a prinde ora de aur.",
+            "en": "Start your winter drive to the ancient cave, enjoying the crisp morning air before returning to the heated car.\n\nAt midday, spend time indoors at the cultural center as the outside temperatures remain low.\n\nIn the afternoon, park centrally to explore the historic town hall and hike up to the castle ruins to stay warm.\n\nConclude at the scenic viewpoint, arriving before the early 5 PM sunset to catch the golden hour over the landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cova del Bolomor",
+                "hu": "Cova del Bolomor",
+                "ro": "Cova del Bolomor",
+                "en": "Cova del Bolomor"
+              },
+              "tip_5lang": {
+                "de": "Das faszinierende natürliche Höhlengebiet ist stark schattig und wird in den Wintermonaten außergewöhnlich kalt. Packen Sie sich bewusst außergewöhnlich gut ein, bevor Sie Ihr warmes Auto verlassen.",
+                "hu": "A rendkívül érdekes természetes barlangterület mélyen árnyékos, és a téli hónapokban kivételesen hideg lesz; tudatosan öltözzön fel kivételesen jól, mielőtt elhagyja a melegen fűtött járművét.",
+                "ro": "Zona peșterii naturale extrem de intrigantă este profund umbrită și devine excepțional de rece în timpul lunilor de iarnă; îmbrăcați-vă excepțional de bine înainte de a părăsi vehiculul încălzit.",
+                "en": "The highly intriguing natural cave area is deeply shaded and becomes exceptionally cold during the winter months; consciously bundle up exceptionally well before leaving your warm heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie es ausgiebig, die zutiefst faszinierenden Innenausstellungen des Museums hier zu erkunden, und nutzen Sie insbesondere einen wunderbar beheizten Raum während der kältesten Tageszeit massiv aus.",
+                "hu": "Élvezze alaposan az itt található mélyen lenyűgöző beltéri múzeumi kiállítások felfedezését, kifejezetten hatalmas előnyt kovácsolva a csodálatosan fűtött térből a nap abszolút leghidegebb részében.",
+                "ro": "Bucurați-vă pe larg de explorarea amănunțită a expozițiilor interioare profund fascinante ale muzeului, profitând masiv de un spațiu minunat încălzit în timpul celei mai reci părți absolute a zilei.",
+                "en": "Extensively enjoy thoroughly exploring the deeply fascinating indoor museum exhibits here, specifically taking massive advantage of a wonderfully heated space during the absolute coldest part of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Tavernes de la Valldigna",
+                "hu": "Ajuntament de Tavernes de la Valldigna",
+                "ro": "Ajuntament de Tavernes de la Valldigna",
+                "en": "Ajuntament de Tavernes de la Valldigna"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie absichtlich einen flotten, energiegeladenen Spaziergang komplett um den historischen Hauptplatz; die scharfe, klare Winterluft lässt die markanten Details der Architektur magisch hervorstechen.",
+                "hu": "Szándékosan tegyen egy lendületes, rendkívül energikus sétát teljesen körbe a történelmi főtéren; a metszően csípős téli levegő varázslatosan kiemeli az épület építészetének lenyűgöző részleteit.",
+                "ro": "Faceți intenționat o plimbare plină de viață și extrem de energică complet în jurul pieței principale istorice; aerul de iarnă tăios face magic să iasă în evidență detaliile izbitoare ale arhitecturii.",
+                "en": "Intentionally take a brisk, highly energetic walk completely around the historic main square; the sharply crisp winter air magically makes the striking details of the building's architecture stand out."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Tavernes",
+                "hu": "Castell de Tavernes",
+                "ro": "Castell de Tavernes",
+                "en": "Castell de Tavernes"
+              },
+              "tip_5lang": {
+                "de": "Der von Natur aus mäßig anspruchsvolle Fußweg bergauf direkt vom Parkplatz aus wird Ihr Blut erfolgreich in Wallung bringen und Sie perfekt gegen die bittere Kälte des Winterabends aufwärmen.",
+                "hu": "A parkolóból közvetlenül induló, eleve mérsékelten kihívást jelentő, felfelé vezető sétaút sikeresen felpezsdíti a vérkeringését, és tökéletesen felmelegíti Önt a keserű téli esti hideg ellen.",
+                "ro": "Traseul de mers pe jos la deal, inerent moderat de provocator, direct din zona de parcare vă va face sângele să pompeze activ și vă va încălzi perfect împotriva frigului amar al serilor de iarnă.",
+                "en": "The inherently moderately challenging uphill walking path directly from the parking area will successfully get your blood actively pumping and perfectly warm you up against the bitter winter evening chill."
+              }
+            },
+            {
+              "name": {
+                "de": "el Mirador",
+                "hu": "el Mirador",
+                "ro": "el Mirador",
+                "en": "el Mirador"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie rechtzeitig zum spektakulären, frühen Wintersonnenuntergang hinaufzufahren. Sie können den absolut atemberaubenden Panoramablick ins Tal bequem direkt von Ihrem wunderbar beheizten Auto aus genießen.",
+                "hu": "Tervezze meg úgy, hogy tökéletes időben hajtson fel a látványos, korai téli naplementéhez. Kényelmesen élvezheti az abszolút lenyűgöző panorámát a völgyre egyenesen az elragadóan fűtött autójából.",
+                "ro": "Planificați să conduceți la timp perfect pentru apusul spectaculos și devreme de iarnă. Vă puteți bucura confortabil de priveliștile panoramice absolut uimitoare pe vale direct din mașina încălzită delicios.",
+                "en": "Plan to drive up in perfect time for the spectacular, early winter sunset. You can comfortably enjoy the absolutely stunning panoramic views down the valley straight from your delightfully heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

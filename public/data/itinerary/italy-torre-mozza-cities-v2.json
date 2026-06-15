@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi Torre Mozza-nál kezdődik, egy ősi védelmi toronynál, amely büszkén áll a tenger mellett. Ezen építészeti gyöngyszem felfedezése után a Playa del Sol hívogató homokjára vált, egy kis korai pihenésre.\nAhogy a nap felmelegszik, a Lido Mania felé veszi az irányt, amely tökéletes egy frissítő csobbanásra a Jón-tengerben. A sekély, kristálytiszta vizek idilli déli környezetet biztosítanak az úszáshoz és a napozáshoz.\nDélután az utazás a part mentén folytatódik a Baia d'oro felé. Ez a festői öböl nyugodt légkört kínál, lehetővé téve, hogy teljesen ellazuljon, miközben élvezi a Salento régió érintetlen tengerparti szépségét.\nZárja a gyalogtúrát egy békés túrával a Parco Naturale Regionale Litorale di Ugento területére. A békés fenyőerdők és a mediterrán cserjések csendes esti menedéket kínálnak az érintetlen természetben.",
         "ro": "Dimineața începe la istoricul Torre Mozza, un vechi turn de apărare care se înalță mândru lângă mare. După ce veți explora această bijuterie arhitecturală, veți trece la nisipurile îmbietoare ale Playa del Sol pentru o relaxare timpurie.\nPe măsură ce ziua se încălzește, vă veți îndrepta spre Lido Mania, un loc plin de viață, perfect pentru o baie răcoritoare în Marea Ionică. Apele cristaline de aici oferă un cadru idilic pentru înot și plajă.\nDupă-amiaza, călătoria continuă de-a lungul coastei spre Baia d'oro. Acest golf pitoresc oferă o atmosferă liniștită, permițându-vă să vă relaxați complet, bucurându-vă de frumusețea coastei din Salento.\nÎncheiați turul pietonal cu o drumeție pașnică în Parco Naturale Regionale Litorale di Ugento. Pădurile liniștite de pini și tufișurile mediteraneene oferă o retragere liniștită seara.",
         "en": "Your morning begins at the historic Torre Mozza, an ancient defensive tower standing proudly by the sea. After exploring this architectural gem, you will transition to the inviting sands of Playa del Sol for some early relaxation.\nAs the day warms up, you will make your way to Lido Mania, a bustling spot perfect for a refreshing dip in the Ionian Sea. The shallow, crystal-clear waters here provide an idyllic midday setting for swimming and sunbathing.\nIn the afternoon, the journey continues along the shore to Baia d'oro. This picturesque bay offers a tranquil atmosphere, allowing you to fully unwind while enjoying the pristine coastal beauty of the Salento region.\nConclude your walking tour with a peaceful hike into the Parco Naturale Regionale Litorale di Ugento. The serene pine forests and Mediterranean scrubland offer a quiet evening retreat amidst untouched natural splendor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am historischen Turm, wo wir Schutz vor dem ersten Guss suchen. Mittags wandern wir am stürmischen Ufer entlang, stets bereit, uns unter Markisen zu retten. Nachmittags erkunden wir den Pinienwald, dessen Duft im Regen intensiver wird. Den Abend lassen wir bei der Aussicht auf das graue Meer ausklingen, geschützt durch regenabweisende Kleidung und festes Schuhwerk.",
+            "hu": "A nap a történelmi toronynál kezdődik, ahol az első zápor elől keresünk menedéket. Délben a viharos part mentén sétálunk, készen arra, hogy a lédók eresz alá húzódjunk. Délután a fenyőerdőt fedezzük fel, amelynek illata az esőben még intenzívebbé válik. Az estét a szürke tenger látványával zárjuk, vízálló ruházatban és zárt cipőben élvezve a természet erejét a friss, párás levegőn.",
+            "ro": "Ziua începe la turnul istoric, unde căutăm adăpost de prima aversă. La prânz ne plimbăm pe malul mării agitate, gata să ne retragem sub copertinele teraselor. După-amiaza explorăm pădurea de pini, al cărei parfum devine mai intens în ploaie. Seara se încheie cu priveliștea mării cenușii, protejați de haine impermeabile și încălțăminte solidă, admirând forța naturii în aerul proaspăt.",
+            "en": "The day begins at the historic tower, where we seek shelter from the first shower. At noon, we walk along the stormy shore, ready to retreat under the awnings of the beach clubs. In the afternoon, we explore the pine forest, whose scent becomes more intense in the rain. We end the evening with a view of the gray sea, protected by waterproof clothing and sturdy shoes while enjoying the air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Mozza",
+                "hu": "Torre Mozza",
+                "ro": "Torre Mozza",
+                "en": "Torre Mozza"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den antiken Turm und nutzen Sie die umliegenden Cafés als Unterstand bei plötzlichen Regenschauern; wasserfeste Jacken sind hier am windigen Kap ein Muss.",
+                "hu": "Tekintse meg az ősi tornyot, és használja a közeli kávézókat menedékként hirtelen zápor esetén; a szeles fokon a vízálló kabát elengedhetetlen viselet a séta során.",
+                "ro": "Vizitați turnul antic și folosiți cafenelele din jur ca adăpost în caz de ploaie bruscă; jachetele impermeabile sunt obligatorii aici, la capul bătut de vânt al coastei.",
+                "en": "Visit the ancient tower and use the nearby cafes as shelter during sudden showers; waterproof jackets are a must here at the windy cape while exploring the historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Sol",
+                "hu": "Playa del Sol",
+                "ro": "Playa del Sol",
+                "en": "Playa del Sol"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen von einer überdachten Veranda aus; halten Sie Ihren Regenschirm wegen der seitlichen Böen besonders fest und genießen Sie die Stimmung.",
+                "hu": "Figyelje a drámai hullámokat egy fedett teraszról; az oldalszél miatt tartsa erősen az esernyőjét, és élvezze a tenger morajlását a biztonságos, száraz menedékből.",
+                "ro": "Observați valurile dramatice de pe o verandă acoperită; țineți umbrela strâns din cauza rafalelor laterale de vânt și bucurați-vă de sunetul mării din adăpostul uscat.",
+                "en": "Watch the dramatic waves from a covered veranda; hold your umbrella firmly due to side gusts and enjoy the sound of the sea from the safety of a dry coastal shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mania",
+                "hu": "Lido Mania",
+                "ro": "Lido Mania",
+                "en": "Lido Mania"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen fast mystisch; prüfen Sie das Regenradar, bevor Sie den Weg fortsetzen, da die Küstenpfade bei Nässe stellenweise rutschig sein können.",
+                "hu": "A strand esőben szinte misztikus látványt nyújt; ellenőrizze a radart, mielőtt továbbindulna, mivel a parti ösvények nedvesen helyenként csúszóssá válhatnak a séta alatt.",
+                "ro": "Plaja are un aspect aproape mistic în ploaie; verificați radarul meteo înainte de a continua, deoarece potecile de coastă pot deveni alunecoase pe alocuri când sunt ude.",
+                "en": "The beach looks almost mystical in the rain; check the weather radar before continuing, as coastal paths can become slippery in places when wet during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia d'oro",
+                "hu": "Baia d'oro",
+                "ro": "Baia d'oro",
+                "en": "Baia d'oro"
+              },
+              "tip_5lang": {
+                "de": "Der goldene Sand wirkt nun dunkler und schwerer; wasserfeste Stiefel sind für die Überquerung des nassen Uferstreifens unerlässlich, um trockene Füße zu behalten.",
+                "hu": "Az aranyhomok most sötétebbnek és nehezebbnek tűnik; a vízálló csizma elengedhetetlen a nedves partvonalon való átkeléshez, hogy lábai szárazon maradjanak a túra során.",
+                "ro": "Nisipul auriu pare acum mai întunecat și mai greu; cizmele impermeabile sunt esențiale pentru traversarea liniei umede a țărmului, păstrându-vă picioarele uscate.",
+                "en": "The golden sand now appears darker and heavier; waterproof boots are essential for crossing the wet shoreline to keep your feet dry throughout this coastal excursion."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale Litorale di Ugento",
+                "hu": "Parco Naturale Regionale Litorale di Ugento",
+                "ro": "Parco Naturale Regionale Litorale di Ugento",
+                "en": "Parco Naturale Regionale Litorale di Ugento"
+              },
+              "tip_5lang": {
+                "de": "Der Pinienwald bietet natürlichen Schutz vor leichtem Nieselregen; bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden und die frische Waldluft zu genießen.",
+                "hu": "A fenyőerdő természetes védelmet nyújt a szemerkélő eső ellen; maradjon a kövezett utakon a sár elkerülése érdekében, és élvezze az eső áztatta erdő friss illatát.",
+                "ro": "Pădurea de pini oferă protecție naturală împotriva burniței; rămâneți pe potecile pavate pentru a evita noroiul și bucurați-vă de parfumul proaspăt al pădurii plouate.",
+                "en": "The pine forest offers natural protection from light drizzle; stay on the paved paths to avoid mud and enjoy the fresh scent of the rain-soaked Mediterranean woods."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Turm weckt die Lebensgeister. Mittags genießen wir die Einsamkeit am endlosen Strand bei strahlendem, aber kühlem Sonnenschein. Am Nachmittag wandern wir durch die Dünen, bevor die Sonne bereits gegen 17:00 Uhr spektakulär untergeht. Der Abend wird gemütlich, während wir uns nach dem windigen Küstengang in warme Schichten hüllen.",
+            "hu": "A friss téli reggel a toronynál igazi felfrissülést hoz. Délben a végtelen strand magányát élvezzük a ragyogó, de hűvös napsütésben. Délután a dűnék között sétálunk, mielőtt a nap már 17:00 óra körül látványosan lenyugszik. Az este meghitt hangulatban telik, miután a szeles parti séta után meleg rétegekbe burkolózva pihenünk meg a szálláson.",
+            "ro": "O dimineață proaspătă de iarnă la turn trezește simțurile. La prânz ne bucurăm de singurătatea plajei nesfârșite sub soarele strălucitor, dar rece. După-amiaza ne plimbăm printre dune înainte ca soarele să apună spectaculos în jurul orei 17:00. Seara devine primitoare, după ce ne înfășurăm în haine groase în urma plimbării pe coasta bătută de vânt.",
+            "en": "A fresh winter morning at the tower awakens the senses. At noon, we enjoy the solitude of the endless beach in the bright but cool sunshine. In the afternoon, we walk through the dunes before the sun sets spectacularly around 5:00 PM. The evening becomes cozy as we wrap ourselves in warm layers after the windy coastal walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Mozza",
+                "hu": "Torre Mozza",
+                "ro": "Torre Mozza",
+                "en": "Torre Mozza"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Steinstruktur in der klaren Winterluft; tragen Sie eine windfeste Jacke, um gegen die kühle Brise vom Meer optimal geschützt zu sein.",
+                "hu": "Csodálja meg a történelmi kőépítményt a tiszta téli levegőn; viseljen szélálló kabátot, hogy védve legyen a tenger felől érkező hűvös, metsző fuvallatoktól a látogatás alatt.",
+                "ro": "Admirați structura istorică de piatră în aerul curat de iarnă; purtați o jachetă rezistentă la vânt pentru a fi protejat împotriva brizei reci care vine dinspre mare.",
+                "en": "Admire the historic stone structure in the clear winter air; wear a windproof jacket to be optimally protected against the cool breeze coming off the sea during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Sol",
+                "hu": "Playa del Sol",
+                "ro": "Playa del Sol",
+                "en": "Playa del Sol"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Ruhe des menschenleeren Strandes; die tiefstehende Wintersonne erzeugt wunderschöne lange Schatten, die ideal für künstlerische Fotos sind.",
+                "hu": "Élvezze a néptelen strand abszolút nyugalmát; az alacsonyan járó téli nap gyönyörű hosszú árnyékokat vet a homokra, ami ideális művészi fotók készítéséhez a parton.",
+                "ro": "Bucurați-vă de liniștea absolută a plajei pustii; soarele de iarnă aflat jos la orizont creează umbre lungi și frumoase, ideale pentru fotografii artistice pe nisip.",
+                "en": "Enjoy the absolute peace of the deserted beach; the low winter sun creates beautiful long shadows that are ideal for artistic photos along the quiet Salento shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mania",
+                "hu": "Lido Mania",
+                "ro": "Lido Mania",
+                "en": "Lido Mania"
+              },
+              "tip_5lang": {
+                "de": "Die frische Seeluft ist jetzt besonders belebend; eine Thermoskanne mit heißem Tee ist ein hervorragender Begleiter für diesen kühleren Strandabschnitt der Tour.",
+                "hu": "A friss tengeri levegő most különösen élénkítő; egy forró teával teli termoszt érdemes magával vinnie erre a hűvösebb strandszakaszra a testhőmérséklet megőrzéséhez.",
+                "ro": "Aerul proaspăt al mării este deosebit de revigorant acum; un termos cu ceai fierbinte este un partener excelent pentru această secțiune mai răcoroasă a plajei.",
+                "en": "The fresh sea air is particularly invigorating now; a thermos with hot tea is an excellent companion for this cooler beach section to keep you warm during the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia d'oro",
+                "hu": "Baia d'oro",
+                "ro": "Baia d'oro",
+                "en": "Baia d'oro"
+              },
+              "tip_5lang": {
+                "de": "Die Stille des winterlichen Meeres ist magisch; gehen Sie zügig, um Ihre Körpertemperatur zu halten, während Sie die weite, einsame Küstenlinie bewundern.",
+                "hu": "A téli tenger csendje varázslatos élmény; haladjon tempósan, hogy fenntartsa testhőmérsékletét, miközben a végtelen és magányos partvonal szépségében gyönyörködik.",
+                "ro": "Liniștea mării de iarnă este magică; mergeți într-un ritm alert pentru a vă menține temperatura corpului în timp ce admirați linia vastă și solitară a coastei.",
+                "en": "The silence of the winter sea is magical; walk briskly to maintain your body temperature while admiring the vast and lonely coastline of this beautiful Italian region."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale Litorale di Ugento",
+                "hu": "Parco Naturale Regionale Litorale di Ugento",
+                "ro": "Parco Naturale Regionale Litorale di Ugento",
+                "en": "Parco Naturale Regionale Litorale di Ugento"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Dünen vor dem frühen Sonnenuntergang um 17:00 Uhr; das Licht ist perfekt für Panoramaaufnahmen der winterlichen Mittelmeerflora.",
+                "hu": "Fedezze fel a dűnéket a korai, 17:00 órai napnyugta előtt; a fényviszonyok ilyenkor tökéletesek a téli mediterrán növényvilág panorámafotóihoz a nemzeti parkban.",
+                "ro": "Explorați dunele înainte de apusul devreme de la ora 17:00; lumina este perfectă pentru fotografii panoramice ale florei mediteraneene de iarnă din parcul natural.",
+                "en": "Explore the dunes before the early sunset at 5:00 PM; the lighting is perfect for panoramic photos of the winter Mediterranean flora in the natural park area."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját az ikonikus Torre Mozza-nál, és fedezze fel történelmi múltját. Innen egy kellemes tengerparti tekerés viszi délre, a Lido Playa Blanca lenyűgöző fehér homokjához.\nDélben pedálozzon el a rövid távolságra lévő Ravezzo Beach-re, ahol a Jón-tenger lágy hullámai hívogatják egy frissítő fürdőzésre. Élvezze a kényelmes pihenést a homokon, miközben gyönyörködik a víz kék árnyalataiban.\nAhogy közeledik a délután, az útvonal észak felé, a La Giurlita, majd a Lido Pineta felé veszi az irányt. A táj fokozatosan nyitott strandokból illatos fenyőfákkal árnyékolt területekké változik, ami üdítő változatosságot kínál.\nZárja a napot egy kerékpározással a Parco Naturale Regionale Litorale di Ugento területén. A burkolatlan ösvények és a gazdag biológiai sokféleség varázslatos esti tekerést biztosítanak a védett természetben.",
         "ro": "Începeți aventura pe bicicletă la faimosul Torre Mozza, explorând trecutul său plin de istorie. De acolo, o plimbare plăcută vă duce spre sud, spre nisipurile albe uimitoare din Lido Playa Blanca.\nLa prânz, pedalați pe distanța scurtă până la Ravezzo Beach, unde valurile blânde ale Mării Ionice vă invită să vă răcoriți. Bucurați-vă de o odihnă plăcută pe nisip în timp ce admirați nuanțele de albastru ale apei.\nPe măsură ce se apropie după-amiaza, traseul dumneavoastră se îndreaptă spre nord spre La Giurlita și apoi spre Lido Pineta. Peisajul se schimbă treptat de la plaje deschise la zone umbrite de pini aromatici.\nÎncheiați ziua cu bicicleta în Parco Naturale Regionale Litorale di Ugento. Traseele neasfaltate și biodiversitatea bogată fac o plimbare magică seara, complet scufundată în frumusețea ecologică a regiunii.",
         "en": "Kick off your cycling adventure at the iconic Torre Mozza, exploring its storied past before the coastal heat sets in. From there, a breezy ride takes you southward to the stunning white sands of Lido Playa Blanca.\nBy midday, pedal the short distance to Ravezzo Beach, where the gentle waves of the Ionian Sea invite you to cool off. Enjoy a leisurely rest on the sand as you take in the vibrant blue hues of the surrounding water.\nAs the afternoon approaches, your route heads north towards La Giurlita and then to Lido Pineta. The landscape gradually shifts from open beachfronts to areas shaded by aromatic pine trees, offering a refreshing change of pace.\nWrap up the day by cycling into the Parco Naturale Regionale Litorale di Ugento. The unpaved trails and rich biodiversity make for a magical evening ride, completely immersed in the region's protected ecological beauty."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtig radeln wir auf nassen Straßen vom Turm aus los. Mittags suchen wir Schutz in den Strandclubs, während der Regen auf die Dächer trommelt. Die Fahrt durch die Pinienwälder erfordert Konzentration bei rutschigem Untergrund. Am späten Nachmittag beenden wir die Tour erfrischt vom Regen, aber froh über unsere wasserdichten Taschen und Ausrüstung.",
+            "hu": "Óvatosan indulunk útnak a vizes utakon a toronytól. Délben a strandklubok terasza alatt keresünk menedéket, miközben az eső a tetőkön kopog. A fenyőerdőkön keresztüli tekerés fokozott koncentrációt igényel a csúszós talaj miatt. Késő délután az esőtől felfrissülve fejezzük be a túrát, hálásan a vízhatlan táskákért és felszerelésünkért.",
+            "ro": "Pedalăm cu atenție pe drumurile ude plecând de la turn. La prânz căutăm adăpost în cluburile de pe plajă în timp ce ploaia bate în acoperișuri. Traseul prin pădurile de pini necesită concentrare din cauza terenului alunecos. După-amiaza târziu încheiem turul revigorați de ploaie, dar bucuroși de gențile și echipamentul nostru impermeabil.",
+            "en": "We cycle carefully on wet roads starting from the tower. At noon, we seek shelter in beach clubs while the rain drums on the roofs. The ride through the pine forests requires concentration on the slippery ground. In the late afternoon, we end the tour refreshed by the rain, grateful for our waterproof bags and gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Mozza",
+                "hu": "Torre Mozza",
+                "ro": "Torre Mozza",
+                "en": "Torre Mozza"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am Turm, aber achten Sie auf rutschige Steine; ein Regenponcho ist für diese Radtour bei nasskaltem Wetter zwingend erforderlich.",
+                "hu": "Induljon a toronytól, de ügyeljen a csúszós kövekre; egy esőponcho kötelező darab ehhez a kerékpártúrához a nedves, hűvösebb időjárási körülmények között.",
+                "ro": "Porniți de la turn, dar aveți grijă la pietrele alunecoase; o pelerină de ploaie este obligatorie pentru acest tur cu bicicleta pe vreme umedă și rece.",
+                "en": "Start at the tower but watch out for slippery stones; a rain poncho is mandatory for this cycling tour during wet and cold weather conditions along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Playa Blanca",
+                "hu": "Lido Playa Blanca",
+                "ro": "Lido Playa Blanca",
+                "en": "Lido Playa Blanca"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie die Küste entlang; die Gischt und der Regen sorgen für ein raues, authentisches Apulien-Erlebnis abseits der touristischen Pfade.",
+                "hu": "Tekerjen végig a parton; a sós pára és az eső vadregényes, autentikus apuliai élményt nyújt a turistaútvonalaktól távolabb eső szakaszokon is.",
+                "ro": "Pedalați de-a lungul coastei; stropii mării și ploaia oferă o experiență autentică și aspră în Puglia, departe de traseele turistice obișnuite în acest sezon.",
+                "en": "Cycle along the coast; the sea spray and rain provide a rugged, authentic Puglia experience away from the typical tourist paths during the rainy season."
+              }
+            },
+            {
+              "name": {
+                "de": "Ravezzo Beach",
+                "hu": "Ravezzo Beach",
+                "ro": "Ravezzo Beach",
+                "en": "Ravezzo Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause unter einem Dach; der nasse Asphalt erfordert beim Bremsen besondere Vorsicht, um die Kontrolle über das Rad zu behalten.",
+                "hu": "Tartson egy rövid szünetet egy fedett helyen; a vizes aszfalt fokozott óvatosságot igényel fékezéskor, hogy biztonságosan uralja a kerékpárját a csúszós úton.",
+                "ro": "Faceți o scurtă pauză sub un acoperiș; asfaltul ud necesită prudență sporită la frânare pentru a menține controlul asupra bicicletei pe drumul alunecos.",
+                "en": "Take a short break under a roof; the wet asphalt requires extra caution when braking to maintain control of the bike on the slippery coastal road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "La Giurlita",
+                "hu": "La Giurlita",
+                "ro": "La Giurlita",
+                "en": "La Giurlita"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das türkisfarbene Wasser bleibt auch unter Wolken erhalten; verstauen Sie Ihre Elektronik in wasserdichten Trockenbeuteln am Gepäckträger.",
+                "hu": "A türkizkék víz látványa felhők alatt is megmarad; tárolja elektronikai eszközeit vízhatlan táskákban a csomagtartón, hogy megóvja őket a beázástól.",
+                "ro": "Priveliștea apei turcoaz rămâne spectaculoasă chiar și sub nori; depozitați dispozitivele electronice în pungi impermeabile pe portbagajul bicicletei.",
+                "en": "The view of the turquoise water remains spectacular even under clouds; store your electronics in waterproof dry bags on the bike rack to keep them protected."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Pineta",
+                "hu": "Lido Pineta",
+                "ro": "Lido Pineta",
+                "en": "Lido Pineta"
+              },
+              "tip_5lang": {
+                "de": "Kiefernnadeln können bei Nässe sehr rutschig sein; drosseln Sie das Tempo, wenn Sie sich den Waldwegen nähern, um sicher durch das Gelände zu kommen.",
+                "hu": "A fenyőtűk vizesen nagyon csúszósak lehetnek; lassítson, amikor az erdei utakhoz ér, hogy biztonságosan haladhasson át a nedves, természetes terepen.",
+                "ro": "Acele de pin pot fi foarte alunecoase când sunt ude; încetiniți ritmul când vă apropiați de potecile din pădure pentru a pedala în siguranță prin teren.",
+                "en": "Pine needles can be very slippery when wet; slow down as you approach the forest paths to pedal safely through the natural terrain in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale Litorale di Ugento",
+                "hu": "Parco Naturale Regionale Litorale di Ugento",
+                "ro": "Parco Naturale Regionale Litorale di Ugento",
+                "en": "Parco Naturale Regionale Litorale di Ugento"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenflora duftet im Regen fantastisch; folgen Sie den Hauptwegen, um nicht im aufgeweichten Boden stecken zu bleiben und das Rad zu schonen.",
+                "hu": "A parti flóra illata fantasztikus az esőben; kövesse a főutakat, hogy ne akadjon el a felázott talajban, és kímélje a kerékpárját a sártól a parkban.",
+                "ro": "Flora de coastă are un parfum fantastic în ploaie; urmați potecile principale pentru a nu rămâne blocat în solul moale și pentru a proteja bicicleta.",
+                "en": "The coastal flora smells fantastic in the rain; follow the main tracks to avoid getting stuck in the softened ground and to protect your bike from mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Turm mit dem Rad erfordert warme Kleidung. Mittags ist die leere Küstenstraße perfekt zum Radfahren in der milden Wintersonne. Der Wind kann auf freien Strecken fordernd sein, aber die klare Sicht entschädigt für alles. Vor Einbruch der Dunkelheit um 17:00 Uhr kehren wir zurück, belebt durch die sportliche Aktivität an der frischen Meeresluft.",
+            "hu": "A hűvös reggeli indulás a toronytól meleg rétegeket igényel a kerékpáron. Délben az üres parti út tökéletes a biciklizéshez az enyhe téli napsütésben. A szél a nyílt szakaszokon kihívást jelenthet, de a tiszta kilátás kárpótol mindenért. A sötétedés előtt, 17:00 körül érünk vissza, felfrissülve a sós tengeri levegőn végzett sporttól.",
+            "ro": "Un început răcoros la turn cu bicicleta necesită haine groase. La prânz, drumul de coastă pustiu este perfect pentru ciclism sub soarele blând de iarnă. Vântul poate fi solicitant pe porțiunile deschise, dar vizibilitatea clară compensează totul. Ne întoarcem înainte de lăsarea întunericului, în jurul orei 17:00, revigorați de mișcare.",
+            "en": "A cool start at the tower on the bike requires warm layers. At noon, the empty coastal road is perfect for cycling in the mild winter sun. The wind can be challenging on open stretches, but the clear views make up for everything. We return before dark, around 5:00 PM, invigorated by the physical activity in the fresh sea air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Mozza",
+                "hu": "Torre Mozza",
+                "ro": "Torre Mozza",
+                "en": "Torre Mozza"
+              },
+              "tip_5lang": {
+                "de": "Ein kalter Start am Turm; Handschuhe und eine Mütze unter dem Helm sind für den Fahrtwind auf dem Fahrrad im Winter unerlässlich für den Komfort.",
+                "hu": "Hideg indulás a toronytól; a kerékpáros kesztyű és a sisak alatti sapka elengedhetetlen a menetszél ellen a téli tekerés során a maximális komfortért.",
+                "ro": "Un început rece la turn; mănușile și o căciulă sub cască sunt esențiale împotriva vântului în timp ce pedalați iarna pentru un confort optim.",
+                "en": "A cold start at the tower; gloves and a hat under the helmet are essential against the wind while cycling in winter for maximum comfort during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Playa Blanca",
+                "hu": "Lido Playa Blanca",
+                "ro": "Lido Playa Blanca",
+                "en": "Lido Playa Blanca"
+              },
+              "tip_5lang": {
+                "de": "Die leere Küstenstraße ist ideal zum Radfahren; genießen Sie die Einsamkeit des Salento-Winters und die ungehinderte Sicht auf das tiefblaue Meer.",
+                "hu": "Az üres parti út ideális a kerékpározáshoz; élvezze a salentói tél magányát és az akadálytalan kilátást a mélykék tengerre a forgalommentes szakaszon.",
+                "ro": "Drumul de coastă pustiu este ideal pentru ciclism; bucurați-vă de singurătatea iernii în Salento și de vederea neîngrădită spre marea de un albastru profund.",
+                "en": "The empty coastal road is ideal for cycling; enjoy the solitude of the Salento winter and the unobstructed view of the deep blue sea on this quiet stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Ravezzo Beach",
+                "hu": "Ravezzo Beach",
+                "ro": "Ravezzo Beach",
+                "en": "Ravezzo Beach"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die salzige Luft ein; die Temperatur sinkt bei Pausen schnell, also bleiben Sie in Bewegung, um die Körperwärme beim Radeln zu halten.",
+                "hu": "Lélegezze be a sós levegőt; pihenéskor a hőmérséklet gyorsan csökken, ezért maradjon mozgásban, hogy fenntartsa testhőjét a téli biciklizés alatt.",
+                "ro": "Respirați aerul sărat; temperatura scade rapid în timpul pauzelor, așa că rămâneți în mișcare pentru a vă menține căldura corpului în timp ce pedalați.",
+                "en": "Breathe in the salty air; the temperature drops quickly during breaks, so stay in motion to maintain your body heat while cycling in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "La Giurlita",
+                "hu": "La Giurlita",
+                "ro": "La Giurlita",
+                "en": "La Giurlita"
+              },
+              "tip_5lang": {
+                "de": "Kristallklares Winterwasser ist vom Weg aus sichtbar; die Farben sind in der kalten Luft schärfer und bieten tolle Fotomotive direkt vom Sattel aus.",
+                "hu": "A kristálytiszta téli víz jól látható az útról; a színek a hideg levegőben élesebbek, így kiváló fotótémákat kínálnak közvetlenül a kerékpár nyergéből.",
+                "ro": "Apa cristalină de iarnă este vizibilă de pe drum; culorile sunt mai clare în aerul rece, oferind subiecte foto excelente direct din șaua bicicletei.",
+                "en": "Crystal clear winter water is visible from the path; the colors are sharper in the cold air, offering great photo opportunities directly from the bike saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Pineta",
+                "hu": "Lido Pineta",
+                "ro": "Lido Pineta",
+                "en": "Lido Pineta"
+              },
+              "tip_5lang": {
+                "de": "Der Wald dient als Windschutz; genießen Sie den Duft der Macchia ohne die Sommerhitze und nutzen Sie die windgeschützten Passagen zur Erholung.",
+                "hu": "Az erdő szélfogóként szolgál; élvezze a macchia illatát a nyári hőség nélkül, és használja ki a szélvédett szakaszokat a pihenésre a tekerés közben.",
+                "ro": "Pădurea servește ca paravan împotriva vântului; bucurați-vă de parfumul tufișurilor mediteraneene fără căldura verii și folosiți zonele adăpostite.",
+                "en": "The forest serves as a windbreak; enjoy the scent of the Mediterranean scrub without the summer heat and use the sheltered passages for a short recovery."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale Litorale di Ugento",
+                "hu": "Parco Naturale Regionale Litorale di Ugento",
+                "ro": "Parco Naturale Regionale Litorale di Ugento",
+                "en": "Parco Naturale Regionale Litorale di Ugento"
+              },
+              "tip_5lang": {
+                "de": "Kehren Sie vor der Dunkelheit um 17:00 Uhr zurück; die frühe Dämmerung bringt eine friedliche Atmosphäre in den Park, die man sicher beenden sollte.",
+                "hu": "Induljon vissza a 17:00 órakor beálló sötétség előtt; a korai szürkület békés hangulatot áraszt, de fontos, hogy még világosban befejezze a túrát.",
+                "ro": "Întoarceți-vă înainte de întunericul de la ora 17:00; amurgul timpuriu aduce o atmosferă liniștită în parc, dar este important să terminați turul pe lumină.",
+                "en": "Return before the darkness at 5:00 PM; the early twilight brings a peaceful atmosphere to the park, but it is important to finish the tour while still light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a történelmi Torre Mozza-nál, és szívja magába ezen ikonikus salentói őrtorony gazdag tengerészeti történelmét. Egy rövid út után a Lido Nereide-hez ér, ahol könnyedén leparkolhat és élvezheti a kiváló tengerparti szolgáltatásokat.\nDélben navigáljon a part mentén Balelido elegáns partjaihoz. Itt a kristálytiszta jón-tengeri vizek ellenállhatatlan lehetőséget kínálnak egy frissítő fürdőzésre, kiváló helyi üdülőhelyi felszereltséggel kísérve.\nTöltse a délutánt északabbra, a Lido Pineta és a közeli Robinson Club Apulia felfedezésével. A sötétzöld fenyőfák és a világos tengerparti homok kontrasztja lenyűgöző és mélyen pihentető környezetet teremt.\nZárja festői autós utazását a védett Parco Naturale Regionale Litorale di Ugento meglátogatásával, mielőtt egy esti naplemente autózást tenne az élettel teli Costa del Salento Village felé a tökéletes befejezésért.",
         "ro": "Începeți turul cu mașina la istoricul Torre Mozza, absorbind istoria maritimă bogată a acestui turn emblematic din Salento. O scurtă călătorie vă aduce apoi la Lido Nereide, unde puteți parca cu ușurință și vă puteți bucura de o experiență de plajă de înaltă calitate.\nPentru prânz, navigați pe coastă spre țărmurile elegante din Balelido. Aici, apele ionice cristaline prezintă o oportunitate irezistibilă pentru o baie răcoritoare, însoțită de facilități excelente ale stațiunii locale.\nPetreceți-vă după-amiaza explorând mai la nord la Lido Pineta și Clubul Robinson Apulia din apropiere. Contrastul pinilor de un verde închis pe nisipul luminos al coastei creează un mediu frapant și profund relaxant.\nÎncheiați-vă călătoria pitorească vizitând Parco Naturale Regionale Litorale di Ugento, înainte de a face o plimbare la apusul soarelui spre satul plin de viață Costa del Salento pentru un sfârșit perfect de zi.",
         "en": "Begin your driving tour at the historic Torre Mozza, absorbing the rich maritime history of this iconic Salento watchtower. A short drive then brings you to Lido Nereide, where you can easily park and enjoy a high-quality beachfront experience.\nFor midday, navigate up the coast to the stylish shores of Balelido. Here, the crystalline Ionian waters present an irresistible opportunity for a refreshing swim, accompanied by excellent local resort amenities.\nSpend your afternoon exploring further north at Lido Pineta and the nearby Robinson Club Apulia. The contrast of the deep green pine trees against the bright coastal sand creates a striking and deeply relaxing environment for your coastal drive.\nConclude your scenic road trip by visiting the protected Parco Naturale Regionale Litorale di Ugento, before taking an evening sunset drive down to the lively Costa del Salento Village for a perfect end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem fahren wir zwischen den Küstenpunkten und nutzen das Auto als trockene Basis. Mittags beobachten wir die Brandung sicher hinter der Scheibe. Kurze Abstecher zu den Stränden werden mit Schirm unternommen, bevor wir uns im geheizten Wagen wieder aufwärmen. Der Abend endet mit dem Blick auf den Regen über dem Meer, während wir im Auto die maritime Melancholie genießen.",
+            "hu": "Kényelmesen autózunk a parti pontok között, a kocsit száraz bázisként használva. Délben a biztonságos szélvédő mögül figyeljük a tajtékzó hullámokat. Rövid kitérőket teszünk a strandokra esernyővel, majd a fűtött utastérben melegszünk fel újra. Az este az eső áztatta tenger látványával zárul, miközben az autó kényelméből élvezzük a mediterrán melankóliát.",
+            "ro": "Conducem confortabil între punctele de pe coastă, folosind mașina ca bază uscată. La prânz observăm valurile în siguranță din spatele parbrizului. Facem scurte incursiuni pe plaje cu umbrela, înainte de a ne încălzi din nou în mașină. Seara se încheie cu priveliștea ploii peste mare, în timp ce ne bucurăm de melancolia maritimă din confortul vehiculului.",
+            "en": "We drive comfortably between coastal spots, using the car as a dry base. At noon, we watch the surf safely from behind the windshield. Short trips to the beaches are made with an umbrella before warming up again in the heated car. The evening ends with the view of rain over the sea, enjoying the maritime melancholy from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Mozza",
+                "hu": "Torre Mozza",
+                "ro": "Torre Mozza",
+                "en": "Torre Mozza"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm bequem von Ihrem Auto aus; es ist ein idealer Ort, um einen schweren Regenguss abzuwarten, ohne nass zu werden.",
+                "hu": "Tekintse meg a tornyot kényelmesen az autójából; ez egy ideális helyszín egy heves zápor kivárására anélkül, hogy elázna a városnézés elején.",
+                "ro": "Priviți turnul confortabil din mașină; este un loc ideal pentru a aștepta trecerea unei averse puternice fără a vă uda la începutul traseului.",
+                "en": "View the tower comfortably from your car; it is an ideal spot to wait out a heavy downpour without getting wet at the start of your sightseeing tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Nereide",
+                "hu": "Lido Nereide",
+                "ro": "Lido Nereide",
+                "en": "Lido Nereide"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer, um die Brandung zu beobachten; das Auto hält Sie während des Sturms trocken und bietet eine tolle Aussicht auf das Meer.",
+                "hu": "Parkoljon közel a parthoz, hogy megfigyelhesse a hullámtörést; az autó szárazon tartja önt a vihar alatt, miközben kiváló kilátást nyújt a háborgó tengerre.",
+                "ro": "Parcați aproape de mal pentru a observa valurile; mașina vă menține uscat în timpul furtunii, oferind în același timp o vedere excelentă spre marea agitată.",
+                "en": "Park close to the shore to observe the surf; the car keeps you dry during the storm while providing an excellent view of the turbulent Mediterranean sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Balelido",
+                "hu": "Balelido",
+                "ro": "Balelido",
+                "en": "Balelido"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Strand und zurück; haben Sie immer einen Regenschirm im Kofferraum für diese kurzen, aber lohnenswerten Stopps an der Küste.",
+                "hu": "Egy rövid sprint a strandig és vissza; tartson mindig esernyőt a csomagtartóban ezekhez a rövid, de megéri kitérőkhöz a parti szakaszokon az esőben is.",
+                "ro": "Un scurt sprint până la plajă și înapoi; țineți întotdeauna o umbrelă în portbagaj pentru aceste opriri scurte, dar care merită, pe secțiunile de coastă.",
+                "en": "A short sprint to the beach and back; always keep an umbrella in the trunk for these short but worthwhile stops along the coastal sections in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Pineta",
+                "hu": "Lido Pineta",
+                "ro": "Lido Pineta",
+                "en": "Lido Pineta"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch die Pinien ist bei Regen besonders stimmungsvoll; genießen Sie die neblige Waldlandschaft sicher durch die Windschutzscheibe Ihres Wagens.",
+                "hu": "A fenyveseken keresztüli autózás esőben különösen hangulatos; élvezze a ködös erdei tájat biztonságban a szélvédő mögül a kényelmes utastérben pihenve.",
+                "ro": "Condusul prin pădurea de pini este deosebit de atmosferic în ploaie; bucurați-vă de peisajul cețos al pădurii în siguranță, prin parbrizul mașinii.",
+                "en": "Driving through the pines is particularly atmospheric in the rain; enjoy the misty forest landscape safely through the windshield of your comfortable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Robinson Club Apulia",
+                "hu": "Robinson Club Apulia",
+                "ro": "Robinson Club Apulia",
+                "en": "Robinson Club Apulia"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige Resort wirkt im Nebel ganz anders; nutzen Sie die Autoheizung, um sich zwischen den Besichtigungen kurz aufzuwärmen und zu trocknen.",
+                "hu": "A kiterjedt üdülőhely a ködben egészen más arcát mutatja; használja az autó fűtését, hogy a látnivalók megtekintése között felmelegedjen és megszárítkozzon.",
+                "ro": "Stațiunea vastă arată complet diferit în ceață; folosiți încălzirea mașinii pentru a vă încălzi și a vă usca rapid între vizitele la diversele puncte de interes.",
+                "en": "The vast resort looks completely different in the mist; use the car heater to warm up and dry off quickly between visiting various points of interest."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale Litorale di Ugento",
+                "hu": "Parco Naturale Regionale Litorale di Ugento",
+                "ro": "Parco Naturale Regionale Litorale di Ugento",
+                "en": "Parco Naturale Regionale Litorale di Ugento"
+              },
+              "tip_5lang": {
+                "de": "Kurze Spaziergänge auf den befestigten Pfaden sind möglich; halten Sie Wechselkleidung im Auto bereit, falls Sie doch nass werden sollten.",
+                "hu": "Rövid séták a kövezett ösvényeken esőben is lehetségesek; tartson váltóruhát az autóban arra az esetre, ha a természetjárás közben mégis megázna a parkban.",
+                "ro": "Scurte plimbări pe potecile pavate sunt posibile chiar și pe ploaie; țineți haine de schimb în mașină în cazul în care vă udați în timpul explorării.",
+                "en": "Short walks on the paved paths are possible even in the rain; keep a change of clothes in the car just in case you get wet while exploring the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Costa del Salento Village",
+                "hu": "Costa del Salento Village",
+                "ro": "Costa del Salento Village",
+                "en": "Costa del Salento Village"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Blick auf den Regen über dem Meer; das Auto bietet den perfekten mobilen Unterschlupf für das maritime Panorama.",
+                "hu": "Zárja a napot az eső áztatta tenger látványával; az autó tökéletes mobil menedéket nyújt a panoráma élvezetéhez a hűvös, csapadékos este folyamán.",
+                "ro": "Încheiați ziua cu priveliștea ploii peste mare; mașina oferă adăpostul mobil perfect pentru a vă bucura de panorama maritimă în această seară rece.",
+                "en": "End the day with a view of the rain over the sea; the car provides the perfect mobile shelter to enjoy the maritime panorama during this cool evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Panoramafahrt im Winter zeigt den Salento von seiner ruhigen Seite. Mittags genießen wir die leeren Strände und das weiche Winterlicht bei geöffnetem Fenster für die Meeresbrise. Die Fahrt durch den Naturpark ist entspannt, während die Sonne um 17:00 Uhr den Himmel verfärbt. Den Abend verbringen wir im warmen Wagen, während die Sterne über der stillen Küste aufgehen.",
+            "hu": "A téli panorámaautózás Salento nyugodt arcát mutatja meg. Délben az üres strandokat és a lágy téli fényt élvezzük, néha leengedve az ablakot a friss tengeri szél miatt. A nemzeti parkon keresztüli vezetés pihentető, miközben a nap 17:00-kor festi színesre az eget. Az estét a meleg autóban zárjuk, miközben a csillagok kigyúlnak a csendes part felett.",
+            "ro": "O călătorie panoramică iarna arată latura liniștită a regiunii Salento. La prânz ne bucurăm de plajele pustii și de lumina blândă de iarnă, coborând uneori geamul pentru briza mării. Condusul prin parcul natural este relaxant în timp ce soarele colorează cerul la ora 17:00. Seara se încheie în mașina caldă, sub stelele de deasupra coastei tăcute.",
+            "en": "A scenic winter drive shows the quiet side of Salento. At noon, we enjoy the empty beaches and the soft winter light, sometimes opening the window for the fresh sea breeze. Driving through the natural park is relaxing as the sun colors the sky at 5:00 PM. We spend the evening in the warm car as the stars appear over the silent coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre Mozza",
+                "hu": "Torre Mozza",
+                "ro": "Torre Mozza",
+                "en": "Torre Mozza"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm steht einsam in der Wintersonne; es ist ein einfacher erster Stopp mit reichlich Parkplätzen direkt vor der antiken Sehenswürdigkeit.",
+                "hu": "A történelmi torony magányosan áll a téli napsütésben; ez egy könnyű első megálló, bőséges parkolóhellyel közvetlenül az ősi látnivaló mellett a parton.",
+                "ro": "Turnul istoric stă singuratic în soarele de iarnă; este o primă oprire ușoară, cu locuri de parcare din abundență chiar lângă obiectivul turistic antic.",
+                "en": "The historic tower stands lonely in the winter sun; it is an easy first stop with plenty of parking right in front of the ancient landmark on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Nereide",
+                "hu": "Lido Nereide",
+                "ro": "Lido Nereide",
+                "en": "Lido Nereide"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Weite des leeren Strandes; das Winterlicht ist weich und perfekt für eine Panoramafahrt entlang der malerischen Küstenlinie Apuliens.",
+                "hu": "Élvezze az üres strand végtelenségét; a téli fény lágy és tökéletes egy panorámaautózáshoz Apulia festői partvonalának felfedezése közben a túra alatt.",
+                "ro": "Bucurați-vă de imensitatea plajei pustii; lumina de iarnă este blândă și perfectă pentru o călătorie panoramică de-a lungul coastei pitorești din Puglia.",
+                "en": "Enjoy the vastness of the empty beach; the winter light is soft and perfect for a scenic drive along the picturesque coastline of Puglia during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Balelido",
+                "hu": "Balelido",
+                "ro": "Balelido",
+                "en": "Balelido"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist scharf, kehren Sie also schnell in den warmen Wagen zurück; die Landschaft ist jetzt besonders friedlich und still für die Besucher.",
+                "hu": "A tengeri szellő metsző, ezért térjen vissza gyorsan a meleg autóba a nézelődés után; a táj ilyenkor különösen békés és csendes a látogatók számára.",
+                "ro": "Briza mării este tăioasă, așa că întoarceți-vă rapid în mașina caldă după vizitare; peisajul este acum deosebit de pașnic și liniștit pentru turiști.",
+                "en": "The sea breeze is sharp, so return quickly to the warm car after viewing; the landscape is particularly peaceful and quiet for visitors at this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Pineta",
+                "hu": "Lido Pineta",
+                "ro": "Lido Pineta",
+                "en": "Lido Pineta"
+              },
+              "tip_5lang": {
+                "de": "Eine schöne Fahrt unter dem Winterhimmel; die immergrünen Pinien lassen die Landschaft auch im Winter lebendig wirken und bieten tolle Ausblicke.",
+                "hu": "Gyönyörű autózás a téli égbolt alatt; az örökzöld fenyők a tájat télen is élővé teszik, és kiváló kilátást nyújtanak az autó ablakán keresztül is.",
+                "ro": "O călătorie frumoasă sub cerul de iarnă; pinii mereu verzi fac peisajul să pară viu chiar și iarna, oferind priveliști excelente prin geamul mașinii.",
+                "en": "A beautiful drive under the winter sky; the evergreen pines make the landscape look alive even in winter and offer great views through the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Robinson Club Apulia",
+                "hu": "Robinson Club Apulia",
+                "ro": "Robinson Club Apulia",
+                "en": "Robinson Club Apulia"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die ruhige Seite dieses beliebten Ortes; die tiefstehende Sonne lässt die Architektur besonders plastisch hervortreten und ideal für Fotos wirken.",
+                "hu": "Ismerje meg ennek a népszerű helynek a csendes oldalát; az alacsonyan járó nap az építészetet különösen plasztikussá és fotózásra alkalmassá teszi télen.",
+                "ro": "Descoperiți latura liniștită a acestui loc popular; soarele aflat jos la orizont face ca arhitectura să iasă în evidență, fiind ideală pentru fotografii.",
+                "en": "See the quiet side of this popular spot; the low sun makes the architecture stand out particularly well and makes it ideal for photography in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale Litorale di Ugento",
+                "hu": "Parco Naturale Regionale Litorale di Ugento",
+                "ro": "Parco Naturale Regionale Litorale di Ugento",
+                "en": "Parco Naturale Regionale Litorale di Ugento"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Rand des Parks für einen schnellen Blick auf den Sonnenuntergang; der Himmel färbt sich gegen 17:00 Uhr meist spektakulär orange.",
+                "hu": "Hajtson a park széléig egy gyors naplemente-nézéshez; az égbolt 17:00 óra körül általában látványos narancssárga színt ölt a téli tiszta levegőben.",
+                "ro": "Conduceți până la marginea parcului pentru o vedere rapidă a apusului; cerul devine de obicei spectaculos de portocaliu în jurul orei 17:00 iarna.",
+                "en": "Drive to the edge of the park for a quick sunset view; the sky usually turns a spectacular orange around 5:00 PM in the clear winter air of Salento."
+              }
+            },
+            {
+              "name": {
+                "de": "Costa del Salento Village",
+                "hu": "Costa del Salento Village",
+                "ro": "Costa del Salento Village",
+                "en": "Costa del Salento Village"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, während die ersten Sterne erscheinen; der Komfort des Wagens ist ideal für einen kühlen Winterabend an der apulischen Küste.",
+                "hu": "Fejezze be a túrát, ahogy megjelennek az első csillagok; az autó kényelme és fűtése ideális egy hűvös téli este lezárásához az apuliai tengerparton.",
+                "ro": "Încheiați turul pe măsură ce apar primele stele; confortul mașinii este ideal pentru o seară rece de iarnă pe coasta regiunii Puglia.",
+                "en": "Finish the tour as the first stars appear; the comfort of the car is ideal for ending a cool winter evening on the beautiful Apulian coastline."
+              }
+            }
+          ]
+        }
       }
     }
   }

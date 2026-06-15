@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi építészeti és történelmi nevezetességek felfedezésével, mélyeket lélegezve a friss, ropogós tengerparti levegőből.\n\nDél közeledtével merüljön el a környék gazdag örökségében, szánjon időt a lenyűgöző modern és klasszikus építmények megcsodálására.\n\nTöltse a délutánt a békés vizek közelében, sétáljon az elegáns kertekben és a festői parti ösvényeken.\n\nZárja a napot az ősi temetkezési helyek vagy modern csodák felfedezésével, hagyva, hogy a lágy naplemente keretbe foglalja ezt a remek kalandot.",
         "ro": "Începeți dimineața cu o explorare revigorantă a punctelor de atracție arhitecturale și istorice locale, respirând aerul proaspăt de coastă.\n\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire a zonei, luându-vă un moment pentru a aprecia structurile moderne și clasice.\n\nPetreceți-vă după-amiaza relaxându-vă lângă apele liniștite, plimbându-vă prin grădinile elegante și pe cărările de coastă.\n\nÎncheiați-vă ziua reflectând asupra vechilor cimitire sau minunilor municipale moderne, lăsând apusul blând să vă completeze perfect aventura.",
         "en": "Start your morning with a refreshing exploration of the local architectural and historical highlights, breathing in the crisp coastal air.\n\nAs midday approaches, delve into the rich heritage of the area, taking a moment to appreciate the striking modern and classical structures.\n\nSpend your afternoon unwinding near the tranquil waters, strolling through the elegant gardens and coastal paths.\n\nConclude your day reflecting on ancient burial grounds or modern municipal wonders, letting the gentle sunset perfectly round off your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag an der Küste. Am Morgen suchen wir Schutz in der Kirche vor dem Nieselregen. Mittags bietet das Schloss Näsby trockene Korridore und historische Eleganz. Am Nachmittag spazieren wir am grauen Meer entlang; festes, wasserdichtes Schuhwerk ist hier Pflicht. Am Abend kehren wir durchnässt, aber mit frischen Eindrücken vom stürmischen Baltikum heim.",
+            "hu": "Esős reggel Näsbyparkban, ahol a templom nyújt elsőként menedéket. Délben a kastély belső udvarai védenek a széltől. Délután a part menti út saras lehet, de a látvány a szürke tengerrel lenyűgöző. Este a városi fények megcsillannak a vizes aszfalton, hazafelé jól esik egy forró ital a párás ablakok mögött.",
+            "ro": "O dimineață ploioasă în Näsbypark, unde biserica oferă primul adăpost. La prânz, curțile interioare ale castelului ne protejează de vânt. După-amiaza, poteca de pe coastă poate fi noroioasă, dar vederea mării cenușii este impresionantă. Seara, luminile orașului sclipesc pe asfaltul ud, iar un ceai cald este binevenit la final.",
+            "en": "A rainy morning in Näsbypark, where the church provides the first shelter. At noon, the castle's inner courtyards protect us from the wind. In the afternoon, the coastal path might be muddy, but the view of the grey sea is breathtaking. In the evening, city lights shimmer on the wet asphalt, and a warm drink feels perfect indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Näsbyparks kyrka",
+                "hu": "Näsbyparks kyrka",
+                "ro": "Näsbyparks kyrka",
+                "en": "Näsbyparks kyrka"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im Trockenen; perfekt, um den ersten Schauer abzuwarten und die ruhige Atmosphäre zu genießen.",
+                "hu": "Csodálja meg a modern belső teret szárazon; tökéletes hely az első zápor megvárására és a csendes atmoszféra élvezetére.",
+                "ro": "Admirați arhitectura modernă la adăpost; locul perfect pentru a aștepta trecerea primei averse și pentru a savura atmosfera liniștită.",
+                "en": "Admire the modern architecture while staying dry; the perfect spot to wait out the first rain shower and enjoy the quiet atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Samspel",
+                "hu": "Samspel",
+                "ro": "Samspel",
+                "en": "Samspel"
+              },
+              "tip_5lang": {
+                "de": "Diese moderne Skulptur wirkt im Regen besonders glänzend; halten Sie kurz inne, aber achten Sie auf die rutschigen Bodenplatten.",
+                "hu": "Ez a modern szobor az esőben különösen csillogó; álljon meg egy pillanatra, de vigyázzon a környező csúszós burkolatra.",
+                "ro": "Această sculptură modernă strălucește deosebit în ploaie; opriți-vă pentru un moment, dar atenție la pavajul alunecos din jur.",
+                "en": "This modern sculpture looks particularly shiny in the rain; pause for a moment, but be careful of the slippery pavement nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsby slott",
+                "hu": "Näsby slott",
+                "ro": "Näsby slott",
+                "en": "Näsby slott"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Schlosses, um trocken zu bleiben; ein Regenschirm ist bei den Wegen zwischen den Gebäuden ein Muss.",
+                "hu": "Használja ki a kastély fedett részeit, hogy száraz maradjon; az épületek közötti utakon egy esernyő elengedhetetlen kellék.",
+                "ro": "Folosiți zonele acoperite ale castelului pentru a rămâne uscați; pe aleile dintre clădiri, o umbrelă este un accesoriu indispensabil.",
+                "en": "Make use of the castle's covered areas to stay dry; an umbrella is an essential accessory for the paths between the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsaängsbadet",
+                "hu": "Näsaängsbadet",
+                "ro": "Näsaängsbadet",
+                "en": "Näsaängsbadet"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen melancholisch schön; ein kurzer Blick aufs Meer lohnt sich, solange Sie eine windfeste Regenjacke tragen.",
+                "hu": "A strand esőben melankolikusan szép; egy rövid tengeri kilátás megéri, feltéve, ha szélálló esőkabátot visel.",
+                "ro": "Plaja are o frumusețe melancolică pe ploaie; o scurtă privire spre mare merită, cu condiția să purtați o pelerină rezistentă la vânt.",
+                "en": "The beach is melancholically beautiful in the rain; a quick look at the sea is worth it, provided you wear a windproof raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Svalnäs gravfält",
+                "hu": "Svalnäs gravfält",
+                "ro": "Svalnäs gravfält",
+                "en": "Svalnäs gravfält"
+              },
+              "tip_5lang": {
+                "de": "Das Gräberfeld ist ungeschützt; gehen Sie vorsichtig über das nasse Gras und genießen Sie die mystische Stimmung der alten Steine im Nebel.",
+                "hu": "A sírmező teljesen nyitott; óvatosan járjon a vizes fűben, és élvezze a ködös kövek közötti misztikus hangulatot.",
+                "ro": "Câmpul funerar este complet expus; mergeți cu grijă pe iarba udă și bucurați-vă de atmosfera mistică printre pietrele vechi în ceață.",
+                "en": "The burial ground is fully exposed; walk carefully on the wet grass and enjoy the mystical atmosphere among the old stones in the fog."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag in Schweden. Am Morgen ist die Luft klirrend kalt, die Kirche bietet einen warmen Rückzugsort. Mittags glänzt der Frost auf dem Schlossgelände unter der tiefstehenden Sonne. Am Nachmittag wird es bereits gegen 16:00 Uhr dunkel, was der Küste ein magisches Licht verleiht. Der Abend beginnt früh; warme Schichten sind unerlässlich.",
+            "hu": "Dermesztő svéd téli nap. Reggel a csípős hidegben a templom fűtött terei melengetnek. Délben a zúzmarás kastélypark látványa lenyűgöző a laposan járó napfényben. Délután már 16:00 körül sötétedik, ami misztikus fényt kölcsönöz a partnak. Az este korán kezdődik, a réteges öltözködés elengedhetetlen.",
+            "ro": "O zi geroasă de iarnă suedeză. Dimineața, aerul este tăios, iar biserica oferă un refugiu cald. La prânz, promoroaca strălucește pe domeniul castelului sub soarele palid. După-amiaza se întunecă deja în jurul orei 16:00, oferind coastei o lumină magică. Seara începe devreme, hainele groase fiind vitale.",
+            "en": "A frosty Swedish winter day. In the morning, the air is crisp and biting, but the church offers a warm sanctuary. At noon, frost glistens on the castle grounds under the low sun. In the afternoon, darkness falls by 16:00, giving the coast a magical glow. The evening starts early; wearing warm layers is absolutely essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Näsbyparks kyrka",
+                "hu": "Näsbyparks kyrka",
+                "ro": "Näsbyparks kyrka",
+                "en": "Näsbyparks kyrka"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Kirchenraums, um Ihre Hände aufzuwärmen, bevor Sie den frostigen Spaziergang fortsetzen.",
+                "hu": "Használja ki a templomtér melegét, hogy felmelegítse a kezeit, mielőtt folytatná a fagyos sétát.",
+                "ro": "Folosiți căldura din interiorul bisericii pentru a vă încălzi mâinile înainte de a continua plimbarea geroasă.",
+                "en": "Take advantage of the warmth inside the church to warm your hands before continuing your frosty walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Samspel",
+                "hu": "Samspel",
+                "ro": "Samspel",
+                "en": "Samspel"
+              },
+              "tip_5lang": {
+                "de": "Die Metallskulptur kann mit Reif bedeckt sein; ein schönes Fotomotiv, aber berühren Sie das kalte Metall lieber nicht ohne Handschuhe.",
+                "hu": "A fémszobrot zúzmara boríthatja; szép fotótéma, de kesztyű nélkül inkább ne érjen a hideg fémhez.",
+                "ro": "Sculptura metalică poate fi acoperită cu promoroacă; un subiect foto frumos, dar evitați să atingeți metalul rece fără mănuși.",
+                "en": "The metal sculpture may be covered in frost; a beautiful photo subject, but avoid touching the cold metal without gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsby slott",
+                "hu": "Näsby slott",
+                "ro": "Näsby slott",
+                "en": "Näsby slott"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten des Schlosses wirken im Schnee wie aus einem Märchen; achten Sie auf glatte Stellen auf den gepflasterten Wegen.",
+                "hu": "A kastély kertjei a hóban úgy festenek, mint egy mesében; ügyeljen a jeges foltokra a kövezett utakon.",
+                "ro": "Grădinile castelului arată ca într-un basm sub zăpadă; atenție la porțiunile înghețate de pe aleile pavate.",
+                "en": "The castle gardens look like a fairytale in the snow; watch out for icy patches on the paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsaängsbadet",
+                "hu": "Näsaängsbadet",
+                "ro": "Näsaängsbadet",
+                "en": "Näsaängsbadet"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer und friedlich; eine winddichte Mütze schützt Sie vor der kalten Brise vom Wasser.",
+                "hu": "A strand télen gyakran néptelen és békés; egy szélálló sapka megvédi a víz felől érkező hideg fuvallattól.",
+                "ro": "Plaja este adesea pustie și liniștită iarna; o căciulă rezistentă la vânt vă va proteja de briza rece de pe apă.",
+                "en": "The beach is often deserted and peaceful in winter; a windproof hat will protect you from the cold breeze coming off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Svalnäs gravfält",
+                "hu": "Svalnäs gravfält",
+                "ro": "Svalnäs gravfält",
+                "en": "Svalnäs gravfält"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr an, um die Steine noch im Restlicht zu sehen; die gefrorene Erde macht das Gehen abseits der Wege stabil.",
+                "hu": "Érkezzen 16 óra előtt, hogy még lássa a köveket a maradék fényben; a fagyott talaj stabillá teszi a járást az utakon kívül is.",
+                "ro": "Sosiți înainte de ora 16:00 pentru a mai vedea pietrele în lumina reziduală; pământul înghețat face mersul stabil chiar și în afara potecilor.",
+                "en": "Arrive before 16:00 to see the stones in the remaining light; the frozen ground makes walking off-path stable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a helyi építészeti és történelmi nevezetességek felfedezésével, mélyeket lélegezve a friss, ropogós tengerparti levegőből.\n\nDél közeledtével merüljön el a környék gazdag örökségében, szánjon időt a lenyűgöző modern és klasszikus építmények megcsodálására.\n\nTöltse a délutánt a békés vizek közelében, sétáljon az elegáns kertekben és a festői parti ösvényeken.\n\nZárja a napot az ősi temetkezési helyek vagy modern csodák felfedezésével, hagyva, hogy a lágy naplemente keretbe foglalja ezt a remek kalandot.",
         "ro": "Începeți dimineața cu o explorare revigorantă a punctelor de atracție arhitecturale și istorice locale, respirând aerul proaspăt de coastă.\n\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire a zonei, luându-vă un moment pentru a aprecia structurile moderne și clasice.\n\nPetreceți-vă după-amiaza relaxându-vă lângă apele liniștite, plimbându-vă prin grădinile elegante și pe cărările de coastă.\n\nÎncheiați-vă ziua reflectând asupra vechilor cimitire sau minunilor municipale moderne, lăsând apusul blând să vă completeze perfect aventura.",
         "en": "Start your morning with a refreshing exploration of the local architectural and historical highlights, breathing in the crisp coastal air.\n\nAs midday approaches, delve into the rich heritage of the area, taking a moment to appreciate the striking modern and classical structures.\n\nSpend your afternoon unwinding near the tranquil waters, strolling through the elegant gardens and coastal paths.\n\nConclude your day reflecting on ancient burial grounds or modern municipal wonders, letting the gentle sunset perfectly round off your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht. Am Morgen sind die asphaltierten Wege nach Grindtorp rutschig. Mittags bietet das Kommunalzentrum Schutz für eine kurze Pause. Am Nachmittag radeln wir durch Pfützen zum Schloss, wobei Schutzbleche Gold wert sind. Der Abend endet mit der Reinigung des Rades und trockener Kleidung nach einer erfrischenden Tour.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel. Reggel az aszfaltozott utak Grindtorp felé csúszósak lehetnek. Délben a közösségi épületek nyújtanak menedéket a szünethez. Délután tócsákon át kerekezünk a kastélyig, ahol a sárvédő aranyat ér. A nap a kerékpár megtisztításával és száraz ruhákkal zárul a frissítő túra után.",
+            "ro": "Ciclismul pe ploaie necesită prudență. Dimineața, drumurile asfaltate spre Grindtorp pot fi alunecoase. La prânz, clădirile comunitare oferă adăpost pentru o scurtă pauză. După-amiaza, pedalăm prin bălți spre castel, unde aripile de protecție sunt vitale. Ziua se încheie cu curățarea bicicletei și haine uscate după o tură revigorantă.",
+            "en": "Cycling in the rain requires caution. In the morning, the paved paths towards Grindtorp can be slippery. At noon, community buildings offer shelter for a quick break. In the afternoon, we pedal through puddles to the castle, where mudguards are worth their weight in gold. The day ends with cleaning the bike and dry clothes after a refreshing tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grindtorpskyrkan",
+                "hu": "Grindtorpskyrkan",
+                "ro": "Grindtorpskyrkan",
+                "en": "Grindtorpskyrkan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und besichtigen Sie das markante Gebäude, während draußen der Regen prasselt.",
+                "hu": "Parkolja le a bringát az előtető alatt, és nézze meg a jellegzetes épületet, miközben odakint dobol az eső.",
+                "ro": "Parcați bicicleta sub streașină și vizitați clădirea distinctivă în timp ce afară răsună ploaia.",
+                "en": "Park your bike under the overhang and explore the striking building while the rain drums outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Täby kommunhus",
+                "hu": "Täby kommunhus",
+                "ro": "Täby kommunhus",
+                "en": "Täby kommunhus"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Stopp mit guten Fahrradständern; nutzen Sie die Lobby, um Ihre Regenkarte zu checken oder kurz zu verschnaufen.",
+                "hu": "Modern megálló jó kerékpártárolókkal; használja az aulát az útvonal ellenőrzésére vagy egy rövid pihenőre.",
+                "ro": "O oprire modernă cu rastele bune pentru biciclete; folosiți holul pentru a verifica traseul sau pentru un scurt răgaz.",
+                "en": "A modern stop with good bike racks; use the lobby to check your route or take a short breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Samspel",
+                "hu": "Samspel",
+                "ro": "Samspel",
+                "en": "Samspel"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Anhalten auf den nassen Asphalt; die Skulptur ist auch im Vorbeifahren ein interessanter Blickfang.",
+                "hu": "Megálláskor figyeljen a vizes aszfaltra; a szobor elhaladás közben is érdekes látványt nyújt.",
+                "ro": "Atenție la asfaltul ud când opriți; sculptura este un punct de atracție interesant chiar și din mers.",
+                "en": "Watch out for wet asphalt when stopping; the sculpture is an interesting landmark even when riding past."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsby slott",
+                "hu": "Näsby slott",
+                "ro": "Näsby slott",
+                "en": "Näsby slott"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Platz für Ihr Rad; die historischen Mauern bieten perfekten Schutz vor Windböen.",
+                "hu": "Keressen egy védett helyet a kerékpárnak; a történelmi falak tökéletes védelmet nyújtanak a széllökések ellen.",
+                "ro": "Căutați un loc ferit pentru bicicletă; zidurile istorice oferă protecție perfectă împotriva rafalelor de vânt.",
+                "en": "Find a sheltered spot for your bike; the historical walls provide perfect protection against wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Svalnäs gravfält",
+                "hu": "Svalnäs gravfält",
+                "ro": "Svalnäs gravfält",
+                "en": "Svalnäs gravfält"
+              },
+              "tip_5lang": {
+                "de": "Die Wege hier können schlammig sein; fahren Sie langsam und genießen Sie die kühle, frische Luft auf dem geschichtsträchtigen Boden.",
+                "hu": "Az utak itt sárosak lehetnek; tekerjen lassan, és élvezze a hűvös, friss levegőt ezen a történelmi területen.",
+                "ro": "Drumurile de aici pot fi noroioase; pedalați încet și bucurați-vă de aerul răcoros și proaspăt pe acest teren istoric.",
+                "en": "The paths here can be muddy; ride slowly and enjoy the cool, fresh air on this historic ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Altorps kapell",
+                "hu": "Altorps kapell",
+                "ro": "Altorps kapell",
+                "en": "Altorps kapell"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für den Abschluss; wischen Sie den Sattel trocken, bevor Sie die letzte Etappe antreten.",
+                "hu": "Csendes hely a befejezéshez; törölje szárazra a nyerget, mielőtt nekivágna az utolsó szakasznak.",
+                "ro": "Un loc liniștit pentru final; ștergeți șaua înainte de a porni pe ultima etapă a drumului.",
+                "en": "A quiet place to finish; wipe your saddle dry before heading out on the final leg of your journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln erfordert dicke Handschuhe und helle Lichter. Am Morgen knirscht der Frost unter den Reifen. Mittags wärmt die Sonne nur schwach, aber die klare Luft ist belebend. Am Nachmittag sinken die Temperaturen schnell, sobald die Sonne untergeht. Der Abend kommt früh, die beleuchteten Wege führen sicher zurück nach Hause.",
+            "hu": "A téli biciklizés vastag kesztyűt és erős lámpákat igényel. Reggel a zúzmara csikorog a gumik alatt. Délben a nap csak gyengén melegít, de a tiszta levegő élénkítő. Délután a hőmérséklet gyorsan süllyed a naplemente után. Az este korán érkezik, a kivilágított utak biztonságban vezetnek haza.",
+            "ro": "Ciclismul de iarnă necesită mănuși groase și lumini puternice. Dimineața, promoroaca scârțâie sub roți. La prânz, soarele încălzește slab, dar aerul curat este revigorant. După-amiaza, temperaturile scad rapid după apus. Seara vine devreme, iar pistele iluminate vă conduc în siguranță spre casă.",
+            "en": "Winter cycling requires thick gloves and bright lights. In the morning, frost crunches under the tires. At noon, the sun warms only weakly, but the clear air is invigorating. In the afternoon, temperatures drop quickly after sunset. The evening comes early; the well-lit paths guide you safely back home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grindtorpskyrkan",
+                "hu": "Grindtorpskyrkan",
+                "ro": "Grindtorpskyrkan",
+                "en": "Grindtorpskyrkan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Kälte aus den Gliedern zu vertreiben; achten Sie auf Glatteis auf dem Kirchplatz.",
+                "hu": "Egy rövid belső megálló segít kiűzni a hideget a végtagjaiból; ügyeljen a jegesedésre a templom előtti téren.",
+                "ro": "O scurtă oprire în interior ajută la alungarea frigului din oase; atenție la gheața de pe platoul bisericii.",
+                "en": "A quick stop inside helps chase the cold from your limbs; watch out for black ice on the church square."
+              }
+            },
+            {
+              "name": {
+                "de": "Täby kommunhus",
+                "hu": "Täby kommunhus",
+                "ro": "Täby kommunhus",
+                "en": "Täby kommunhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen gut beheizten Ort für eine kurze Aufwärmpause, bevor Sie den windigen Küstenabschnitt in Angriff nehmen.",
+                "hu": "Használja ki ezt a jól fűtött helyet egy rövid melegedőre, mielőtt nekivágna a szeles parti szakasznak.",
+                "ro": "Folosiți acest loc bine încălzit pentru o scurtă pauză de dezmorțire înainte de a înfrunta secțiunea vântoasă de coastă.",
+                "en": "Take advantage of this well-heated location for a quick warm-up before tackling the windy coastal section."
+              }
+            },
+            {
+              "name": {
+                "de": "Samspel",
+                "hu": "Samspel",
+                "ro": "Samspel",
+                "en": "Samspel"
+              },
+              "tip_5lang": {
+                "de": "Die Skulptur wirkt im weißen Winterlicht sehr plastisch; bleiben Sie in Bewegung, um bei den eisigen Temperaturen nicht auszukühlen.",
+                "hu": "A szobor a fehér téli fényben nagyon plasztikusnak hat; maradjon mozgásban, hogy ne hűljön ki a jeges hőmérsékletben.",
+                "ro": "Sculptura pare foarte reliefată în lumina albă de iarnă; rămâneți în mișcare pentru a nu îngheța la temperaturile scăzute.",
+                "en": "The sculpture looks very vivid in the white winter light; stay in motion to keep from getting too cold in the icy temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsby slott",
+                "hu": "Näsby slott",
+                "ro": "Näsby slott",
+                "en": "Näsby slott"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die gefrorene Bucht vom Schloss aus ist einmalig; tragen Sie unbedingt eine winddichte Schicht über Ihrer Kleidung.",
+                "hu": "A kastélytól nyíló kilátás a befagyott öbölre páratlan; mindenképpen viseljen szélálló réteget a ruházata felett.",
+                "ro": "Vederea spre golful înghețat de la castel este unică; purtați neapărat un strat rezistent la vânt peste haine.",
+                "en": "The view of the frozen bay from the castle is unique; make sure to wear a windproof layer over your clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Svalnäs gravfält",
+                "hu": "Svalnäs gravfält",
+                "ro": "Svalnäs gravfält",
+                "en": "Svalnäs gravfält"
+              },
+              "tip_5lang": {
+                "de": "In der Dämmerung wirken die schneebedeckten Hügel sehr friedlich; achten Sie darauf, dass Ihre Fahrradlichter gut sichtbar sind.",
+                "hu": "A szürkületben a hóval borított dombok nagyon békések; ügyeljen rá, hogy a kerékpárlámpái jól láthatóak legyenek.",
+                "ro": "În amurg, dealurile acoperite de zăpadă sunt foarte liniștite; asigurați-vă că luminile bicicletei sunt bine vizibile.",
+                "en": "At twilight, the snow-covered mounds look very peaceful; ensure your bike lights are clearly visible."
+              }
+            },
+            {
+              "name": {
+                "de": "Altorps kapell",
+                "hu": "Altorps kapell",
+                "ro": "Altorps kapell",
+                "en": "Altorps kapell"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag in Stille zu beenden; der Rückweg im Dunkeln erfordert volle Konzentration auf den Untergrund.",
+                "hu": "Szép hely a nap csendes befejezéséhez; a sötétben való hazatérés teljes koncentrációt igényel a talaj állapota miatt.",
+                "ro": "Un loc frumos pentru a încheia ziua în liniște; drumul de întoarcere pe întuneric necesită concentrare maximă asupra drumului.",
+                "en": "A beautiful place to end the day in silence; the ride back in the dark requires full concentration on the road surface."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje a reggelt a helyi építészeti és történelmi nevezetességek felfedezésével, mélyeket lélegezve a friss, ropogós tengerparti levegőből.\n\nDél közeledtével merüljön el a környék gazdag örökségében, szánjon időt a lenyűgöző modern és klasszikus építmények megcsodálására.\n\nTöltse a délutánt a békés vizek közelében, sétáljon az elegáns kertekben és a festői parti ösvényeken.\n\nZárja a napot az ősi temetkezési helyek vagy modern csodák felfedezésével, hagyva, hogy a lágy naplemente keretbe foglalja ezt a remek kalandot.",
         "ro": "Începeți dimineața cu o explorare revigorantă a punctelor de atracție arhitecturale și istorice locale, respirând aerul proaspăt de coastă.\n\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire a zonei, luându-vă un moment pentru a aprecia structurile moderne și clasice.\n\nPetreceți-vă după-amiaza relaxându-vă lângă apele liniștite, plimbându-vă prin grădinile elegante și pe cărările de coastă.\n\nÎncheiați-vă ziua reflectând asupra vechilor cimitire sau minunilor municipale moderne, lăsând apusul blând să vă completeze perfect aventura.",
         "en": "Start your morning with a refreshing exploration of the local architectural and historical highlights, breathing in the crisp coastal air.\n\nAs midday approaches, delve into the rich heritage of the area, taking a moment to appreciate the striking modern and classical structures.\n\nSpend your afternoon unwinding near the tranquil waters, strolling through the elegant gardens and coastal paths.\n\nConclude your day reflecting on ancient burial grounds or modern municipal wonders, letting the gentle sunset perfectly round off your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Autofahrt durch den Regen. Am Morgen bleiben wir im Wagen trocken, während wir das Theater besuchen. Mittags gleiten die Scheibenwischer rhythmisch, während wir zwischen den historischen Stätten pendeln. Am Nachmittag bietet der Wagen eine warme Zuflucht vor dem nasskalten Küstenwind. Der Abend ist entspannt bei gedimmtem Licht und dem Prasseln der Tropfen auf dem Dach.",
+            "hu": "Kényelmes autós túra az esőben. Reggel szárazon maradunk a kocsiban, miközben a színházhoz hajtunk. Délben az ablaktörlők ritmikus mozgása kísér minket a történelmi helyszínek között. Délután az autó meleg menedéket nyújt a hűvös parti szél elől. Az este pihentető a műszerfal halvány fényei mellett, hallgatva a tetőn kopogó cseppeket.",
+            "ro": "O călătorie relaxantă cu mașina prin ploaie. Dimineața rămânem uscați în timp ce ne îndreptăm spre teatru. La prânz, ștergătoarele ne însoțesc ritmic între siturile istorice. După-amiaza, mașina oferă un refugiu cald în fața vântului rece de pe coastă. Seara este relaxantă, cu luminile slabe ale bordului și ropotul picăturilor pe plafon.",
+            "en": "A comfortable car tour through the rain. In the morning, we stay dry inside while driving to the theater. At noon, the rhythmic sweep of the wipers accompanies us between historical sites. In the afternoon, the car provides a warm escape from the chilly coastal wind. The evening is relaxing with dim dashboard lights and the sound of raindrops on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tibble Teater",
+                "hu": "Tibble Teater",
+                "ro": "Tibble Teater",
+                "en": "Tibble Teater"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Gebäude zu gelangen; drinnen erwartet Sie ein tolles Kulturprogramm fernab vom Regen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be; odabent remek kulturális program várja, távol az esőtől.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscați înăuntru; în interior vă așteaptă un program cultural excelent, ferit de ploaie.",
+                "en": "Park close to the entrance to stay dry; inside, a great cultural program awaits, far from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Täby kommunhus",
+                "hu": "Täby kommunhus",
+                "ro": "Täby kommunhus",
+                "en": "Täby kommunhus"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Gebäude bietet eine trockene Umgebung für eine kurze Pause; die Tiefgarage ist an Regentagen besonders komfortabel.",
+                "hu": "A modern épület száraz környezetet kínál egy rövid pihenőhöz; a mélygarázs esős napokon különösen kényelmes megoldás.",
+                "ro": "Clădirea modernă oferă un mediu uscat pentru o scurtă pauză; parcarea subterană este deosebit de confortabilă în zilele ploioase.",
+                "en": "The modern building offers a dry environment for a short break; the underground parking is especially convenient on rainy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Grindtorpskyrkan",
+                "hu": "Grindtorpskyrkan",
+                "ro": "Grindtorpskyrkan",
+                "en": "Grindtorpskyrkan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der markanten Architektur direkt vom Parkplatz aus, bevor Sie für einen kurzen Moment ins Trockene huschen.",
+                "hu": "Élvezze a különleges építészet látványát közvetlenül a parkolóból, mielőtt egy pillanatra beszaladna a száraz belső térbe.",
+                "ro": "Bucurați-vă de vederea arhitecturii deosebite direct din parcare, înainte de a fugi pentru un moment în interiorul uscat.",
+                "en": "Enjoy the view of the striking architecture directly from the parking lot before slipping inside for a dry moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Samspel",
+                "hu": "Samspel",
+                "ro": "Samspel",
+                "en": "Samspel"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist auch bei Regen möglich; die Skulptur glänzt wunderbar, wenn sie nass ist.",
+                "hu": "Egy gyors fotómegálló esőben is lehetséges; a szobor csodásan csillog, amikor vizes.",
+                "ro": "O scurtă oprire pentru poze este posibilă chiar și pe ploaie; sculptura strălucește minunat atunci când este udă.",
+                "en": "A quick photo stop is possible even in the rain; the sculpture glistens beautifully when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsbyparks kyrka",
+                "hu": "Näsbyparks kyrka",
+                "ro": "Näsbyparks kyrka",
+                "en": "Näsbyparks kyrka"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Auto zur Kirche für frische Luft; im Inneren finden Sie Ruhe und Schutz vor dem Wetter.",
+                "hu": "Használja ki az autótól a templomig tartó rövid sétát a friss levegőhöz; odabent nyugalmat és védelmet talál az időjárás elől.",
+                "ro": "Folosiți scurta plimbare de la mașină la biserică pentru aer curat; în interior veți găsi liniște și protecție împotriva vremii.",
+                "en": "Use the short walk from the car to the church for some fresh air; inside, you'll find peace and protection from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsaängsbadet",
+                "hu": "Näsaängsbadet",
+                "ro": "Näsaängsbadet",
+                "en": "Näsaängsbadet"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer gemütlich vom warmen Auto aus; der Parkplatz bietet eine tolle Sicht auf die Wellen.",
+                "hu": "Figyelje a viharos tengert kényelmesen a meleg autóból; a parkolóból nagyszerű kilátás nyílik a hullámokra.",
+                "ro": "Observați marea agitată confortabil din mașina caldă; parcarea oferă o priveliște excelentă asupra valurilor.",
+                "en": "Watch the stormy sea comfortably from the warm car; the parking lot offers a great view of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsby slott",
+                "hu": "Näsby slott",
+                "ro": "Näsby slott",
+                "en": "Näsby slott"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Schlossgelände; die historischen Gebäude bieten viele überdachte Gänge zum Erkunden.",
+                "hu": "Hajtson közvetlenül a kastély területére; a történelmi épületek számos fedett folyosót kínálnak a felfedezéshez.",
+                "ro": "Conduceți direct spre domeniul castelului; clădirile istorice oferă multe pasaje acoperite pentru explorare.",
+                "en": "Drive directly to the castle grounds; the historical buildings offer many covered walkways to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Svalnäs gravfält",
+                "hu": "Svalnäs gravfält",
+                "ro": "Svalnäs gravfält",
+                "en": "Svalnäs gravfält"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Ort auch bei Regen; bleiben Sie auf den befestigten Wegen, um Schlamm an den Schuhen zu vermeiden.",
+                "hu": "Hangulatos hely esőben is; maradjon a kövezett utakon, hogy elkerülje a sarat a cipőjén.",
+                "ro": "Un loc plin de atmosferă chiar și pe ploaie; rămâneți pe potecile amenajate pentru a evita noroiul pe încălțăminte.",
+                "en": "An atmospheric place even in the rain; stay on the paved paths to avoid getting mud on your shoes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour im beheizten Wagen. Am Morgen genießen wir die frostige Landschaft durch die Fenster. Mittags reflektiert der Schnee das Sonnenlicht, was die Fahrt besonders hell macht. Am Nachmittag sinkt die Sonne früh, und die Lichter der Stadt beginnen zu funkeln. Der Abend ist sicher und warm, während wir durch die dunkle, verschneite Landschaft gleiten.",
+            "hu": "Téli túra a fűtött autóban. Reggel az ablakon keresztül csodáljuk a fagyos tájat. Délben a hó visszaveri a napfényt, ami különösen világossá teszi az utazást. Délután a nap korán lebukik, és a város fényei sziporkázni kezdenek. Az este biztonságos és meleg, miközben a sötét, havas tájon suhanunk át.",
+            "ro": "O tură de iarnă în mașina încălzită. Dimineața admirăm peisajul înghețat prin geamuri. La prânz, zăpada reflectă lumina soarelui, făcând călătoria deosebit de luminoasă. După-amiaza soarele apune devreme, iar luminile orașului încep să sclipească. Seara este sigură și caldă, în timp ce traversăm peisajul întunecat și înzăpezit.",
+            "en": "A winter tour in a heated car. In the morning, we admire the frosty landscape through the windows. At noon, the snow reflects the sunlight, making the drive especially bright. In the afternoon, the sun sets early, and the city lights begin to sparkle. The evening is safe and warm as we glide through the dark, snowy countryside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tibble Teater",
+                "hu": "Tibble Teater",
+                "ro": "Tibble Teater",
+                "en": "Tibble Teater"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Parkplatz auf glatte Stellen; die warme Lobby ist ein idealer Ort, um den Tag entspannt zu beginnen.",
+                "hu": "A parkolóban ügyeljen a jeges foltokra; a meleg aula ideális hely a nap nyugodt elkezdéséhez.",
+                "ro": "Atenție la porțiunile înghețate din parcare; holul călduros este un loc ideal pentru a începe ziua relaxat.",
+                "en": "Watch out for icy spots in the parking lot; the warm lobby is an ideal place to start the day in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Täby kommunhus",
+                "hu": "Täby kommunhus",
+                "ro": "Täby kommunhus",
+                "en": "Täby kommunhus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort der beheizten Räumlichkeiten für eine kurze Planungspause bei einer Tasse Kaffee.",
+                "hu": "Használja ki a fűtött helyiségek kényelmét egy rövid tervezési szünetre egy csésze kávé mellett.",
+                "ro": "Folosiți confortul spațiilor încălzite pentru o scurtă pauză de planificare la o ceașcă de cafea.",
+                "en": "Take advantage of the comfort of the heated facilities for a short planning break over a cup of coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Grindtorpskyrkan",
+                "hu": "Grindtorpskyrkan",
+                "ro": "Grindtorpskyrkan",
+                "en": "Grindtorpskyrkan"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Kontrast zum weißen Schnee besonders beeindruckend; ein kurzer Besuch im warmen Inneren lohnt sich.",
+                "hu": "Az építészet a fehér hóval való kontrasztban különösen hatásos; egy rövid látogatás a meleg belső térben megéri.",
+                "ro": "Arhitectura este deosebit de impresionantă în contrast cu zăpada albă; o scurtă vizită în interiorul călduros merită din plin.",
+                "en": "The architecture looks particularly impressive in contrast with the white snow; a quick visit to the warm interior is worthwhile."
+              }
+            },
+            {
+              "name": {
+                "de": "Samspel",
+                "hu": "Samspel",
+                "ro": "Samspel",
+                "en": "Samspel"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die frostige Skulptur zu fotografieren; lassen Sie den Motor nicht unnötig laufen, während Sie draußen sind.",
+                "hu": "Álljon meg egy pillanatra, hogy lefotózza a zúzmarás szobrot; ne járassa feleslegesen a motort, amíg odakint tartózkodik.",
+                "ro": "Opriți-vă un moment pentru a fotografia sculptura înghețată; nu lăsați motorul pornit inutil cât timp sunteți afară.",
+                "en": "Stop for a moment to photograph the frosty sculpture; avoid leaving the engine running unnecessarily while you are outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsbyparks kyrka",
+                "hu": "Näsbyparks kyrka",
+                "ro": "Näsbyparks kyrka",
+                "en": "Näsbyparks kyrka"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz ist meist geräumt, aber Vorsicht vor gefrierender Nässe; die Kirche ist ein wunderbarer Ort der Stille.",
+                "hu": "A parkolóból vezető utat általában letakarítják, de vigyázzon a fagyott nedvességre; a templom a csend csodás szigete.",
+                "ro": "Drumul din parcare este de obicei curățat, dar atenție la umezeala înghețată; biserica este un loc minunat de liniște.",
+                "en": "The path from the parking lot is usually cleared, but watch out for frozen patches; the church is a wonderful place of silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsaängsbadet",
+                "hu": "Näsaängsbadet",
+                "ro": "Näsaängsbadet",
+                "en": "Näsaängsbadet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die eventuell zugefrorene Bucht; ein kurzer, erfrischender Gang am Wasser belebt die Sinne.",
+                "hu": "Élvezze a kilátást az esetleg befagyott öbölre; egy rövid, frissítő séta a vízparton élénkíti az érzékeket.",
+                "ro": "Bucurați-vă de vederea spre golful eventual înghețat; o scurtă plimbare revigorantă pe malul apei vă va trezi simțurile.",
+                "en": "Enjoy the view of the possibly frozen bay; a short, refreshing walk by the water will invigorate your senses."
+              }
+            },
+            {
+              "name": {
+                "de": "Näsby slott",
+                "hu": "Näsby slott",
+                "ro": "Näsby slott",
+                "en": "Näsby slott"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt in der Winterlandschaft sehr herrschaftlich; nutzen Sie die Parkmöglichkeiten direkt vor Ort für kurze Wege.",
+                "hu": "A kastély a téli tájban nagyon előkelő látványt nyújt; használja a helyi parkolót a rövid gyalogút érdekében.",
+                "ro": "Castelul arată foarte impunător în peisajul de iarnă; folosiți parcarea de la fața locului pentru a merge cât mai puțin pe jos.",
+                "en": "The castle looks very grand in the winter landscape; use the on-site parking for a short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Svalnäs gravfält",
+                "hu": "Svalnäs gravfält",
+                "ro": "Svalnäs gravfält",
+                "en": "Svalnäs gravfält"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang für ein tolles Panorama; achten Sie auf die früh einsetzende Dunkelheit beim Fahren.",
+                "hu": "Látogasson el ide közvetlenül naplemente előtt a pazar panorámáért; vezetés közben ügyeljen a korán beálló sötétségre.",
+                "ro": "Vizitați acest loc chiar înainte de apus pentru o panoramă superbă; atenție la întunericul care se lasă devreme când conduceți.",
+                "en": "Visit this spot just before sunset for a great panorama; be mindful of the early darkness while driving."
+              }
+            }
+          ]
+        }
       }
     }
   }

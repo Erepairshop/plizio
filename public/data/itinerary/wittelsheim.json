@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a városközpontban a Saint-Michel Church békés meglátogatásával. Ezután tegyen egy frissítő sétát a Municipal Park buja ösvényein.\n\nKora délután fedezze fel a csendes Chapelle Saint-Jean-Bosco-t, mielőtt dél felé indulna a város történelmi ipari szívébe.\n\nTöltse a délutánt a Carreau Joseph-Else-nél, ahol megismerheti azt a bányászati örökséget, amely generációkon át meghatározta Wittelsheimot.\n\nFejezze be sétáját az Église Notre-Dame-du-Rosaire-nél, magába szívva a késő délutáni napsütést, mielőtt egy kiadós elzászi vacsorát fogyasztana a közelben.",
         "ro": "Începeți în centrul orașului cu o vizită pașnică la Saint-Michel Church. Apoi, bucurați-vă de o plimbare revigorantă prin aleile luxuriante ale Municipal Park.\n\nDescoperiți liniștita Chapelle Saint-Jean-Bosco la amiază, înainte de a vă îndrepta spre sud către inima industrială istorică a orașului.\n\nPetreceți după-amiaza la Carreau Joseph-Else, învățând despre moștenirea minieră care a definit orașul Wittelsheim timp de generații.\n\nÎncheiați plimbarea la Église Notre-Dame-du-Rosaire, bucurându-vă de soarele târziu al după-amiezii înainte de a lua o cină tradițională alsaciană.",
         "en": "Start in the city center with a peaceful visit to Saint-Michel Church. Then, enjoy a refreshing walk through the lush pathways of the Municipal Park.\n\nDiscover the quiet Chapelle Saint-Jean-Bosco during midday before heading south towards the historical industrial heart of the city.\n\nSpend your afternoon at Carreau Joseph-Else, learning about the mining heritage that defined Wittelsheim for generations.\n\nFinish your walk at Église Notre-Dame-du-Rosaire, soaking in the late afternoon sun before grabbing a hearty Alsatian dinner nearby."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Schauer erfordern Regenschirme, aber die Kirchen bieten perfekte trockene Zufluchtsorte. Mittags navigieren Sie in wasserdichten Schuhen über die nassen Wege des Parks. Nachmittags bietet die Industriegeschichte im Innenbereich hervorragenden Schutz. Lassen Sie den regnerischen Abend gemütlich in der historischen Kirche ausklingen.",
+            "hu": "A reggeli záporok esernyőt kívánnak, de a templomok tökéletes száraz menedéket nyújtanak. Délben vízálló cipőben sétáljon át a park vizes ösvényein. Délután az ipari bányásztörténeti kiállítások kiváló fedett programot biztosítanak. A csapadékos estét a történelmi templom nyugalmában zárhatja.",
+            "ro": "Aversele de dimineață cer umbrele, dar bisericile oferă un sanctuar uscat perfect. La prânz, parcurgeți cu atenție aleile umede ale parcului cu cizme impermeabile. După-amiaza, istoria minieră industrială vă oferă un adăpost excelent în interior. Încheiați seara ploioasă cu o reflecție caldă în ultima biserică istorică.",
+            "en": "Morning showers call for umbrellas, but the nearby churches offer perfect dry sanctuaries. By noon, carefully navigate the wet paths of the municipal park in waterproof boots. During the afternoon, the indoor industrial mining history provides excellent shelter. Conclude the rainy evening reflecting warmly inside the final historic church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Michel Church",
+                "hu": "Saint-Michel Church",
+                "ro": "Saint-Michel Church",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schönen Buntglasfenster und den Altar von innen, was einen idealen, völlig trockenen Zufluchtsort vor dem Morgenregen bietet.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat és az oltárt belülről, amely teljesen száraz menedéket nyújt a heves reggeli záporok elől.",
+                "ro": "Admirați vitraliile frumoase și altarul din interior, oferind un refugiu ideal, complet uscat, de ploile grele ale dimineții.",
+                "en": "Admire the beautiful stained glass and intricate altar from inside, providing an ideal, completely dry refuge from the heavy morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Wittelsheim Municipal Park",
+                "hu": "Wittelsheim Municipal Park",
+                "ro": "Wittelsheim Municipal Park",
+                "en": "Wittelsheim Municipal Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang auf den befestigten Wegen und genießen Sie das vom Regen gewaschene Grün mit Regenschirm und gutem Schuhwerk.",
+                "hu": "Tegyél egy rövid sétát a kikövezett utakon, és élvezd az eső áztatta friss zöldet; mindenképpen legyen nálad egy stabil esernyő és vízálló cipő.",
+                "ro": "Faceți o scurtă plimbare pe aleile pavate pentru a vă bucura de verdeața spălată de ploaie; asigurați-vă că aveți o umbrelă și încălțăminte bună.",
+                "en": "Take a short stroll along the main paved paths to enjoy the rain-washed greenery; make sure you have a sturdy umbrella and good waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Bosco",
+                "hu": "Chapelle Saint-Jean-Bosco",
+                "ro": "Chapelle Saint-Jean-Bosco",
+                "en": "Chapelle Saint-Jean-Bosco"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das minimalistische Innere dieser Kapelle; putzen Sie Ihre nassen Schuhe sorgfältig am Eingang, um nicht auf dem Boden auszurutschen.",
+                "hu": "Tapasztalja meg a kápolna nyugodt és minimalista belső terét; a bejáratnál alaposan törölje meg vizes cipőjét, hogy elkerülje az elcsúszást bent.",
+                "ro": "Experimentați designul interior liniștit al acestei capele; ștergeți cu grijă pantofii uzi la intrare pentru a evita alunecarea pe podea.",
+                "en": "Experience the tranquil and minimalist interior design of this chapel; carefully wipe your wet shoes at the entrance to avoid slipping on the floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Carreau Joseph-Else",
+                "hu": "Carreau Joseph-Else",
+                "ro": "Carreau Joseph-Else",
+                "en": "Carreau Joseph-Else"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierende lokale Bergbaugeschichte komplett im Innenbereich, was einen hervorragenden Schutz vor den Nachmittagsgüssen bietet.",
+                "hu": "Fedezze fel a lenyűgöző helyi ipari bányásztörténetet teljesen zárt térben, amely kiváló és érdekes menedéket nyújt a délutáni felhőszakadások elől.",
+                "ro": "Explorați istoria fascinantă a mineritului local complet în interior, făcând din acesta un adăpost excelent și captivant de ploile de după-amiază.",
+                "en": "Explore the fascinating local industrial mining history entirely indoors, making it an excellent and engaging shelter from the afternoon downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Rosaire",
+                "hu": "Église Notre-Dame-du-Rosaire",
+                "ro": "Église Notre-Dame-du-Rosaire",
+                "en": "Église Notre-Dame-du-Rosaire"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur und die warmen Lichter dieser Kirche als perfekten, trockenen Abschluss Ihrer heutigen nassen Wanderroute.",
+                "hu": "Tekintse meg a templom lenyűgöző építészetét és fényeit, amely tökéletes száraz és spirituális befejezése a mai esős sétának.",
+                "ro": "Vedeți arhitectura impresionantă și luminile bisericii, servind ca un final perfect, uscat și spiritual pentru itinerariul dvs. ploios de azi.",
+                "en": "View the impressive architecture and glowing lights of this church, serving as a perfect dry and spiritual end to your wet walking itinerary today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der eiskalte Morgen verlangt nach dicken Schichten für Ihren Spaziergang. Mittags glitzert der Frost wunderschön im Gemeindepark. Am Nachmittag bricht die Dämmerung an historischen Stätten früh herein (gegen 17:00 Uhr). Der dunkle Winterabend bietet schließlich wärmende und friedliche Zuflucht in den beleuchteten Kirchen.",
+            "hu": "A fagyos reggel vastag rétegeket kíván a sétához. Délben a dér gyönyörűen csillog a városi parkban. Délután a történelmi helyszíneken hamar, már 17:00 körül elkezdődik a sötétedés. A sötét téli este végül meleg és békés menedéket kínál a kivilágított templomokban.",
+            "ro": "Dimineața înghețată necesită haine groase pentru plimbare. La prânz, bruma strălucește frumos în parcul municipal. După-amiaza, amurgul coboară devreme (în jur de 17:00) la siturile istorice. Seara întunecată de iarnă oferă în cele din urmă un refugiu cald în bisericile iluminate.",
+            "en": "The freezing morning demands thick layers for your walk. By noon, the frost sparkles beautifully across the municipal park. During the afternoon, dusk falls early (around 17:00) at the historic mining sites. The dark winter evening finally offers a warming and peaceful refuge inside the softly illuminated churches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Michel Church",
+                "hu": "Saint-Michel Church",
+                "ro": "Saint-Michel Church",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die großartige historische Architektur und treten Sie ein, um sich schnell vom beißenden morgendlichen Winterfrost aufzuwärmen.",
+                "hu": "Figyelje meg a nagyszerű történelmi építészetet, miközben belép, hogy gyorsan felmelegítse a kezét és az arcát a csípős reggeli téli fagyból.",
+                "ro": "Observați arhitectura istorică grandioasă în timp ce intrați pentru a vă încălzi rapid mâinile de gerul tăios al dimineții de iarnă.",
+                "en": "Notice the grand historic architecture while stepping inside to quickly warm up your hands and face from the biting morning winter frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wittelsheim Municipal Park",
+                "hu": "Wittelsheim Municipal Park",
+                "ro": "Wittelsheim Municipal Park",
+                "en": "Wittelsheim Municipal Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang durch die frostigen Bäume; ziehen Sie einen dicken Wintermantel, eine Mütze und gute Thermohandschuhe an.",
+                "hu": "Tegyél egy gyors, frissítő sétát a deres fák között; feltétlenül viselj vastag téli kabátot, meleg sapkát és kiváló minőségű termálkesztyűt.",
+                "ro": "Faceți o plimbare revigorantă printre copacii acoperiți de brumă; asigurați-vă că purtați o haină groasă de iarnă, căciulă și mănuși termice.",
+                "en": "Take a brisk, energizing walk through the frost-covered trees; be sure to dress in a heavy winter coat, warm hat, and high-quality thermal gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Bosco",
+                "hu": "Chapelle Saint-Jean-Bosco",
+                "ro": "Chapelle Saint-Jean-Bosco",
+                "en": "Chapelle Saint-Jean-Bosco"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die beruhigende Atmosphäre im Inneren und gönnen Sie sich eine dringend benötigte, kurze Pause von den eisigen Winden der Stadt.",
+                "hu": "Tapasztalja meg a benti megnyugtató légkört, amely nagyon is szükséges, gyors pihenőt nyújt a városon átsöprő fagyos szelek elől.",
+                "ro": "Experimentați atmosfera reconfortantă din interior, oferind un răgaz rapid și necesar de la vânturile înghețate care străbat orașul.",
+                "en": "Experience the tranquil and comforting atmosphere indoors, offering a much-needed, quick respite from the freezing winds sweeping through the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Carreau Joseph-Else",
+                "hu": "Carreau Joseph-Else",
+                "ro": "Carreau Joseph-Else",
+                "en": "Carreau Joseph-Else"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das reiche Bergbauerbe; denken Sie daran, dass es schon gegen 17:00 Uhr sehr früh dunkel wird, also nutzen Sie das Tageslicht gut.",
+                "hu": "Fedezze fel a gazdag helyi bányászati örökséget; ne feledje, hogy nagyon korán, 17:00 körül sötétedik, így használja ki maximálisan a nappalt.",
+                "ro": "Descoperiți bogata moștenire minieră; amintiți-vă că se întunecă foarte devreme, în jur de 17:00, așa că maximizați explorarea pe timp de zi.",
+                "en": "Discover the rich local mining heritage in this complex; remember that it gets dark very early, around 17:00, so maximize your daylight exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Rosaire",
+                "hu": "Église Notre-Dame-du-Rosaire",
+                "ro": "Église Notre-Dame-du-Rosaire",
+                "en": "Église Notre-Dame-du-Rosaire"
+              },
+              "tip_5lang": {
+                "de": "Die sanft leuchtenden Kirchenlichter bieten einen wärmenden abendlichen Schutz, nachdem Sie einen langen, kalten Wintertag draußen waren.",
+                "hu": "A lágyan világító templomi fények megnyugtató és jól szigetelt esti menedéket nyújtanak egy hosszú, csípős téli nap utáni kinti séta végén.",
+                "ro": "Luminile blânde ale bisericii oferă un adăpost de seară confortabil și călduros după o zi lungă și geroasă de iarnă petrecută plimbându-vă.",
+                "en": "The softly glowing church lights provide a comforting and highly insulated evening shelter after spending a long, crisp winter day walking outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Tekerjen délre a reggeli órákban a Découverte de la potasse d'Alsace történelmének felfedezéséhez és az Église du Christ-Roi megcsodálásához.\n\nDélben látogasson el a Carreau Joseph-Else lenyűgöző komplexumához, majd induljon a központ felé a csendes Chapelle Saint-Jean-Bosco irányába.\n\nDélután kerekezzen át a pihentető Municipal Parkon, és álljon meg a Saint-Michel Church épületénél egy kis kulturális feltöltődésre.\n\nZárja a kerékpártúrát északon a Place du Chaperon Rouge-nál, amely egy varázslatos és tökéletes helyszín az aktív nap levezetésére.",
         "ro": "Pedalați spre sud dimineața pentru a descoperi istoria bogată la Découverte de la potasse d'Alsace și a admira arhitectura Église du Christ-Roi.\n\nMergeți la prânz la Carreau Joseph-Else pentru o experiență istorică captivantă, apoi îndreptați-vă spre centru pentru a vedea Chapelle Saint-Jean-Bosco.\n\nDupă-amiaza, pedalați prin relaxantul Municipal Park și opriți-vă la Saint-Michel Church pentru a-i aprecia vitraliile și detaliile.\n\nÎncheiați-vă plimbarea în nord la Place du Chaperon Rouge, un loc magic perfect pentru a vă relaxa după o zi activă pe bicicletă.",
         "en": "Pedal south in the morning to uncover the rich history at Découverte de la potasse d'Alsace and admire the architecture of Église du Christ-Roi.\n\nRide to Carreau Joseph-Else during midday for an immersive historical experience, then head towards the center to see Chapelle Saint-Jean-Bosco.\n\nCycle through the relaxing Municipal Park in the afternoon and stop by Saint-Michel Church to appreciate its beautiful stained glass.\n\nConclude your ride in the north at Place du Chaperon Rouge, a whimsical spot perfect for unwinding after an active day of cycling."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Morgenfahrt vorsichtig in wasserdichter Kleidung. Mittags bieten Industriedenkmäler und Kapellen Schutz vor dem anhaltenden Regen. Nachmittags ist auf rutschigen Straßen Vorsicht geboten. Beenden Sie Ihre Abendfahrt sicher, während der Regen weiter fällt.",
+            "hu": "Kezdje az esős reggeli tekerést óvatosan, feltűnő vízálló felszerelésben. Délben az ipari műemlékek és kápolnák benti menedéket nyújtanak a tartós záporok elől. Délután a csúszós, faleveles utakon fokozott figyelem kell. Az estét biztonságban zárja a kitartó esőben is.",
+            "ro": "Începeți traseul umed de dimineață cu prudență, purtând echipament impermeabil. La prânz, siturile industriale oferă un adăpost binevenit de averse. Mersul de după-amiază necesită prudență pe străzile alunecoase. Încheiați cursa de seară în siguranță, în timp ce ploaia continuă.",
+            "en": "Start your wet morning ride carefully, ensuring you wear bright waterproof gear. By midday, industrial sites and chapels provide welcome indoor shelter from the persistent showers. Afternoon riding requires extreme caution on slippery, leaf-covered streets. Conclude your evening ride safely as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Découverte de la potasse d'Alsace",
+                "hu": "Découverte de la potasse d'Alsace",
+                "ro": "Découverte de la potasse d'Alsace",
+                "en": "Découverte de la potasse d'Alsace"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit den Kalibergbau-Ausstellungen im Innenbereich; ein toller Ort, um Ihre Regenkleidung vor der eigentlichen Radtour zu richten.",
+                "hu": "Kezdje a káliumbányászat benti kiállításaival; remek száraz hely, ahol igazíthat az esőruházatán az igazi tekerés megkezdése előtt.",
+                "ro": "Începeți cu expozițiile interioare de minerit de potasiu; un loc uscat excelent pentru a vă ajusta pelerina înainte de cursa reală.",
+                "en": "Start by exploring the potassium mining exhibits indoors; it's a great dry spot to prepare your rain gear before the real biking begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das wunderschöne Kirchenschiff; stellen Sie sicher, dass Ihre Fahrradtaschen im strömenden Regen draußen komplett geschlossen sind.",
+                "hu": "Nézze meg a templom gyönyörű hajóját; ellenőrizze, hogy a kerékpáros táskái teljesen zárva és vízállóak-e a kinti felhőszakadásban.",
+                "ro": "Vedeți naosul frumos; asigurați-vă că gențile de bicicletă sunt complet închise și impermeabile cât timp este parcată în ploaie afară.",
+                "en": "View the beautiful nave of this church; ensure your bike panniers are fully zipped and waterproofed while parked outside in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Carreau Joseph-Else",
+                "hu": "Carreau Joseph-Else",
+                "ro": "Carreau Joseph-Else",
+                "en": "Carreau Joseph-Else"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie sicher vor dem Regen in die Industriearchitektur ein; wischen Sie Ihren nassen Sattel ab, bevor Sie auf den nassen Straßen weiterfahren.",
+                "hu": "Merüljön el az ipari építészetben biztonságban az esőtől; törölje meg a vizes nyerget, mielőtt folytatná útját a nedves utakon.",
+                "ro": "Pătrundeți în arhitectura industrială la adăpost de ploaie; ștergeți șaua udă înainte de a vă continua călătoria pe drumurile umede.",
+                "en": "Dive into the industrial architecture safely sheltered from the rain; wipe your wet bike saddle before continuing your journey on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Bosco",
+                "hu": "Chapelle Saint-Jean-Bosco",
+                "ro": "Chapelle Saint-Jean-Bosco",
+                "en": "Chapelle Saint-Jean-Bosco"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze spirituelle Pause in diesem Heiligtum; achten Sie auf potenziell schlammige und rutschige Wege bis zum Eingang.",
+                "hu": "Tartson egy rövid spirituális szünetet ebben a szentélyben; figyeljen a bejárathoz vezető esetlegesen sárdagasztós és csúszós utakra.",
+                "ro": "Faceți o scurtă pauză spirituală în acest sanctuar; aveți grijă la cărările potențial noroioase și alunecoase care duc chiar la intrare.",
+                "en": "Take a quick spiritual break in this small sanctuary; watch out for potentially muddy and slippery paths leading right up to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Wittelsheim Municipal Park",
+                "hu": "Wittelsheim Municipal Park",
+                "ro": "Wittelsheim Municipal Park",
+                "en": "Wittelsheim Municipal Park"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie sehr langsam auf den nassen Wegen und genießen Sie die Ruhe; halten Sie Ausschau nach rutschigen Pfützen auf den Hauptrouten.",
+                "hu": "Tekerjen nagyon lassan a vizes ösvényeken, élvezve a fák esős nyugalmát; tartsa a szemét a főbb utakat borító csúszós tócsákon.",
+                "ro": "Ciclism foarte lent pe aleile umede, bucurându-vă de calmul ploios; fiți atenți la bălțile alunecoase care acoperă rutele principale.",
+                "en": "Cycle very slowly on the wet paths, enjoying the rainy calm of the trees; keep an eye out for slippery puddles covering the main routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Michel Church",
+                "hu": "Saint-Michel Church",
+                "ro": "Saint-Michel Church",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im trockenen Inneren der Kirche vor dem letzten Stück auf; da Ihre Jacke tropfen wird, bleiben Sie besser in der Nähe des Eingangs.",
+                "hu": "Melegedjen fel a templom száraz belső terében az utolsó szakasz előtt; mivel a vízálló kabátja csöpögni fog, álljon a bejárat közelében.",
+                "ro": "Încălziți-vă în interiorul bisericii înainte de ultima etapă; jacheta dvs. va picura, așa că stați mai degrabă aproape de intrare.",
+                "en": "Warm up in the dry and impressive church interior before the final stretch; your waterproof jacket will drip, so stand by the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Chaperon Rouge",
+                "hu": "Place du Chaperon Rouge",
+                "ro": "Place du Chaperon Rouge",
+                "en": "Place du Chaperon Rouge"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an diesem Platz; wenn es stark gießt, suchen Sie kurz Schutz unter Markisen, anstatt dem Wetter ausgesetzt zu bleiben.",
+                "hu": "Fejezze be útját ezen a téren; ha nagyon esik, keressen rövid menedéket a közeli napellenzők alatt, ahelyett, hogy kint állna az esőben.",
+                "ro": "Încheiați-vă cursa în această piață; dacă toarnă puternic, adăpostiți-vă sub copertine decât să zăboviți expuși la vremea rea.",
+                "en": "End your ride at this square; if it's pouring heavily, take brief shelter under nearby awnings rather than lingering exposed to the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für die eiskalte Morgenfahrt warm ein. Die Mittagssonne wärmt kaum, aber Ausstellungen lassen Sie auftauen. Nachmittags werden die Schatten schnell länger, der Sonnenuntergang ist schon gegen 17:00 Uhr. Beenden Sie die Fahrt früh vor dem Nachtfrost.",
+            "hu": "Öltözzön fel vastag termálruházatba a fagyos reggeli tekeréshez. A déli nap alig ad meleget, de a benti kiállításokon könnyen felengedhet. Délután az árnyékok gyorsan nőnek, a nap 17:00 körül lenyugszik. Fejezze be korán a túrát a kemény éjszakai fagy előtt.",
+            "ro": "Îmbrăcați-vă cu echipament termic pentru cursa de dimineață. Soarele de prânz nu încălzește mult, dar expozițiile vă ajută să vă dezghețați. Umbrele de după-amiază se lungesc rapid, cu un apus spre 17:00. Încheiați cursa devreme pentru a evita înghețul nopții.",
+            "en": "Bundle up with thermal gear for a freezing morning ride. The midday sun offers little warmth, but historical indoor exhibits let you easily thaw out. Afternoon shadows lengthen quickly, with a very early sunset approaching around 17:00. End your evening ride early to avoid the deep night freeze and icy roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Découverte de la potasse d'Alsace",
+                "hu": "Découverte de la potasse d'Alsace",
+                "ro": "Découverte de la potasse d'Alsace",
+                "en": "Découverte de la potasse d'Alsace"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die tiefe Bergbaugeschichte kennen; diese beheizte Ausstellung ist perfekt, um Ihre eiskalten Hände und Füße aufzuwärmen.",
+                "hu": "Ismerje meg a mélybányászat történetét; ez a fűtött benti kiállítás tökéletes hely a fagyos kezek és lábak gyors felmelegítésére.",
+                "ro": "Aflați despre istoria mineritului; această expoziție încălzită este perfectă pentru a vă încălzi agresiv mâinile și picioarele înghețate.",
+                "en": "Learn about the deep mining history; this heated indoor exhibit is a perfect place to aggressively warm your freezing hands and feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die ruhige Atmosphäre zu genießen; tragen Sie dicke Winter-Radhandschuhe für den eisigen Wind zwischen den Stopps.",
+                "hu": "Lépjen be a nyugodt hangulat megcsodálásához; győződjön meg róla, hogy vastag téli kerékpáros kesztyűt visel a fagyos szél ellen.",
+                "ro": "Intrați pentru a admira ambianța liniștită; asigurați-vă că purtați mănuși groase de ciclism pentru iarnă contra vântului înghețat.",
+                "en": "Step inside to admire the quiet ambiance; make sure you are wearing thick winter cycling gloves for the freezing wind between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Carreau Joseph-Else",
+                "hu": "Carreau Joseph-Else",
+                "ro": "Carreau Joseph-Else",
+                "en": "Carreau Joseph-Else"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses massive Erbe; halten Sie sich mit Thermoschichten warm, da die weitläufige Anlage kalte Winterluft stauen kann.",
+                "hu": "Fedezze fel ezt a hatalmas műemléket; tartsa magát melegen termál rétegekkel, mivel az ipari elrendezés csapdába ejtheti a hideg téli levegőt.",
+                "ro": "Explorați acest sit masiv; păstrați-vă cald cu straturi termice, deoarece aspectul industrial extins poate capta aerul rece de iarnă.",
+                "en": "Explore this massive heritage site; keep your core warm with thermal layers as the sprawling industrial layout can trap cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Bosco",
+                "hu": "Chapelle Saint-Jean-Bosco",
+                "ro": "Chapelle Saint-Jean-Bosco",
+                "en": "Chapelle Saint-Jean-Bosco"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, friedlicher Halt; die Wintersonne steht bereits tief, prüfen Sie also, ob Ihre vorderen und hinteren Fahrradlichter perfekt funktionieren.",
+                "hu": "Egy rövid, békés megálló; a téli nap már alacsonyan jár, ezért ellenőrizze, hogy az első és hátsó kerékpárlámpái tökéletesen működnek-e.",
+                "ro": "O oprire scurtă; soarele de iarnă coboară, așa că verificați dacă luminile din față și din spate ale bicicletei funcționează perfect.",
+                "en": "A short, peaceful stop; the winter sun is already getting low, so check that your front and rear bike lights are functioning perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Wittelsheim Municipal Park",
+                "hu": "Wittelsheim Municipal Park",
+                "ro": "Wittelsheim Municipal Park",
+                "en": "Wittelsheim Municipal Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostige Landschaft vom Sattel aus; bremsen Sie sanft und hüten Sie sich vor eisigen Stellen auf schattigen Wegen unter den Bäumen.",
+                "hu": "Csodálja meg a gyönyörű fagyos tájat a nyeregből; fékezzen finoman és óvakodjon a rejtett jeges foltoktól a fák alatti árnyékos utakon.",
+                "ro": "Admirați peisajul înghețat din șa; frânați ușor și feriți-vă de peticele de gheață ascunse pe cărările umbrite de sub copaci.",
+                "en": "Admire the beautiful frosty landscape from the saddle; brake gently and beware of hidden icy patches on the shaded paths beneath the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Michel Church",
+                "hu": "Saint-Michel Church",
+                "ro": "Saint-Michel Church",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang naht schnell (17:00 Uhr); nutzen Sie die kurze Wärme der Kirche, um sich auf eine völlig dunkle, eiskalte Fahrt vorzubereiten.",
+                "hu": "A naplemente gyorsan közeledik (17:00); használja ki a templom rövid melegét, hogy felkészüljön egy teljesen sötét és fagyos utolsó útra.",
+                "ro": "Apusul se apropie rapid la 17:00; folosiți scurta căldură a bisericii pentru a vă pregăti pentru o cursă finală complet întunecată și înghețată.",
+                "en": "Sunset is fast approaching at 17:00; use the brief warmth of this impressive church to prepare for a completely dark and freezing final ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Chaperon Rouge",
+                "hu": "Place du Chaperon Rouge",
+                "ro": "Place du Chaperon Rouge",
+                "en": "Place du Chaperon Rouge"
+              },
+              "tip_5lang": {
+                "de": "Die Nacht bricht schnell über diesen Platz herein; beenden Sie Ihre kalte Radtour zügig und suchen Sie ein nahes, warmes Café auf.",
+                "hu": "Ezen a téren gyorsan leszáll az éj; fejezze be gyorsan a hideg téli kerékpározást, és keressen egy közeli meleg kávézót a felmelegedéshez.",
+                "ro": "Noaptea se lasă repede; încheiați-vă rapid excursia cu bicicleta de iarnă și găsiți o cafenea caldă în apropiere pentru a vă recupera energia.",
+                "en": "Night sets in fast at this square; wrap up your cold winter cycling trip quickly and find a nearby warm cafe to recover your energy."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Reggel vezessen az északi Église Saint-Gall és a Place du Chaperon Rouge felé, felfedezve a település csendesebb lakónegyedeit.\n\nDélben látogasson el a központban a Saint-Michel Church-höz, sétáljon egyet a Municipal Parkban, majd álljon meg a bájos Chapelle Saint-Jean-Bosco-nál.\n\nDélután navigáljon délre, hogy a Carreau Joseph-Else és a Découverte de la potasse d'Alsace bejárásával elmerüljön Wittelsheim gyökereiben.\n\nFejezze be a túrát az Église Notre-Dame-du-Rosaire-nél. Parkoljon le a közelben, és élvezze az esti hangulatot ebben a történelmi elzászi városban.",
         "ro": "Conduceți dimineața către Église Saint-Gall și Place du Chaperon Rouge din nord, explorând cartierele rezidențiale mai liniștite.\n\nMergeți în centru la amiază pentru a vizita Saint-Michel Church, urmată de o plimbare în Municipal Park și o oprire la Chapelle Saint-Jean-Bosco.\n\nNavigați spre sud după-amiaza pentru a vă scufunda adânc în rădăcinile industriale la Carreau Joseph-Else și Découverte de la potasse d'Alsace.\n\nTerminați-vă turul la Église Notre-Dame-du-Rosaire. Parcați mașina în apropiere și bucurați-vă de atmosfera de seară în acest oraș alsacian.",
         "en": "Drive in the morning to the northern Église Saint-Gall and Place du Chaperon Rouge, actively exploring the quieter residential neighborhoods.\n\nHead downtown midday to visit Saint-Michel Church, followed by a pleasant stroll in the Municipal Park and a quick stop at Chapelle Saint-Jean-Bosco.\n\nNavigate south in the afternoon to dive deep into Wittelsheim's roots at Carreau Joseph-Else and the fascinating Découverte de la potasse d'Alsace.\n\nFinish your driving tour at Église Notre-Dame-du-Rosaire. Park nearby and enjoy the relaxing evening atmosphere in this historically rich Alsatian town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem im starken Morgenregen und besuchen Sie rasch die Kirchen. Der Spaziergang am Mittag erfordert einen stabilen Regenschirm. Nachmittags bleiben Sie in den historischen Stätten meist im Trockenen. Fahren Sie abends vorsichtig, da nasse Straßen spiegeln.",
+            "hu": "Vezessen kényelmesen a heves reggeli esőben, csak a templomoknál gyorsan kiszállva. A déli parki sétához stabil esernyő kell. A délutáni történelmi helyszínek szinte teljesen fedettek. Este vezessen nagyon óvatosan, mert a vizes, csillogó utak visszaverik a fényszórókat.",
+            "ro": "Conduceți confortabil în ploaia grea de dimineață, refugiindu-vă rapid în biserici. Plimbările de prânz necesită o umbrelă robustă. Siturile istorice de după-amiază sunt în mare parte acoperite. Conduceți cu prudență seara, deoarece drumurile umede reflectă farurile.",
+            "en": "Drive comfortably in the heavy morning rain, easily darting into churches for quick, dry visits. Midday park strolls require a sturdy umbrella and brief stops. Afternoon historic sites are mostly sheltered indoors, keeping you completely dry. Drive carefully in the evening as wet, shimmering roads reflect your headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Gall",
+                "hu": "Église Saint-Gall",
+                "ro": "Église Saint-Gall",
+                "en": "Église Saint-Gall"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie schnell von Ihrem Auto zum Eingang der Kirche, um völlig trocken zu bleiben und die schöne Architektur zu bewundern.",
+                "hu": "Fuss be gyorsan a parkoló autóból a templom bejáratáig, hogy teljesen száraz maradjon, miközben megcsodálja a reggeli esős építészetet.",
+                "ro": "Fugiți rapid de la mașină la intrarea bisericii pentru a rămâne perfect uscat în timp ce admirați frumoasa arhitectură matinală ploioasă.",
+                "en": "Dash quickly from your parked car to the church entrance to stay perfectly dry while admiring the beautiful rainy morning architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Chaperon Rouge",
+                "hu": "Place du Chaperon Rouge",
+                "ro": "Place du Chaperon Rouge",
+                "en": "Place du Chaperon Rouge"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich diesen charmanten Platz bequem durch Ihre trockenen Autofenster an oder steigen Sie kurz mit einem großen Regenschirm aus.",
+                "hu": "Nézze meg ezt a bájos teret kényelmesen a száraz autó ablakából, vagy csak röviden szálljon ki egy nagy esernyővel, ha alábbhagy az eső.",
+                "ro": "Vedeți această piață fermecătoare direct din confortul mașinii dvs. uscate sau coborâți scurt cu o umbrelă mare dacă ploaia se mai oprește.",
+                "en": "View this charming square directly from the comfort of your dry car windows, or step out briefly with a large umbrella if the rain slows."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Michel Church",
+                "hu": "Saint-Michel Church",
+                "ro": "Saint-Michel Church",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das einfache Parken direkt in der Nähe, so dass Sie die großartige Innenarchitektur schnell und ohne nass zu werden betreten können.",
+                "hu": "Élvezze a könnyű, közeli parkolást, amely lehetővé teszi, hogy gyorsan bemenjen és értékelje a grandiózus belső teret anélkül, hogy elázna.",
+                "ro": "Bucurați-vă de parcarea ușoară chiar în apropiere, permițându-vă să intrați rapid și să apreciați arhitectura grandioasă fără să vă udați.",
+                "en": "Enjoy the easy parking right nearby, allowing you to quickly enter and appreciate the grand indoor architecture without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Wittelsheim Municipal Park",
+                "hu": "Wittelsheim Municipal Park",
+                "ro": "Wittelsheim Municipal Park",
+                "en": "Wittelsheim Municipal Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen sehr kurzen Regenschirm-Spaziergang, um den frischen Regen zu riechen, und ziehen Sie sich dann sofort in Ihr warmes Auto zurück.",
+                "hu": "Tegyen egy nagyon gyors, esernyős sétát a kikövezett utakon a friss eső illatáért, majd azonnal vonuljon vissza meleg, száraz járművébe.",
+                "ro": "Faceți o plimbare foarte scurtă sub umbrelă pe aleile pavate pentru a mirosi ploaia proaspătă, apoi retrageți-vă în vehiculul uscat.",
+                "en": "Take a very quick umbrella stroll on the main paved paths to smell the fresh rain, then immediately retreat to your warm, dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Bosco",
+                "hu": "Chapelle Saint-Jean-Bosco",
+                "ro": "Chapelle Saint-Jean-Bosco",
+                "en": "Chapelle Saint-Jean-Bosco"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie in dieser kleinen Kapelle ein trockenes Heiligtum vor den unerbittlichen Schauern; schalten Sie die Heizung Ihres Autos vor der Weiterfahrt ein.",
+                "hu": "Találjon száraz menedéket a könyörtelen záporok elől ebben a kápolnában; kapcsolja be az autó ablakfűtését, mielőtt a következő helyre hajt.",
+                "ro": "Găsiți un sanctuar uscat de ploile necruțătoare în această capelă; porniți degivrarea mașinii înainte de a conduce la următorul loc.",
+                "en": "Find a dry sanctuary from the relentless showers inside this small chapel; turn on your car's defroster before driving to the next spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Carreau Joseph-Else",
+                "hu": "Carreau Joseph-Else",
+                "ro": "Carreau Joseph-Else",
+                "en": "Carreau Joseph-Else"
+              },
+              "tip_5lang": {
+                "de": "Dieses industrielle Erbe ist größtenteils überdacht, was es zu einer absolut hervorragenden Regenwetteraktivität abseits der Schauer macht.",
+                "hu": "Ez az ipari műemlék jórészt fedett, így abszolút kiváló és lebilincselő esős napi programot kínál, távol a kinti felhőszakadástól.",
+                "ro": "Acest sit industrial este în mare parte acoperit, fiind o activitate excelentă și captivantă pentru zilele ploioase, departe de averse.",
+                "en": "This industrial heritage site is mostly covered, making it an absolutely excellent and engaging rainy day activity away from the downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Découverte de la potasse d'Alsace",
+                "hu": "Découverte de la potasse d'Alsace",
+                "ro": "Découverte de la potasse d'Alsace",
+                "en": "Découverte de la potasse d'Alsace"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die faszinierenden Kalibergbau-Ausstellungen im Innenbereich, während der starke Regen draußen sicher vor den dicken Wänden prasselt.",
+                "hu": "Merüljön el a lenyűgöző benti káliumbányászati kiállításokban, miközben a heves eső odakint biztonságos távolságban verődik a vastag falakhoz.",
+                "ro": "Lăsați-vă captivat de expozițiile miniere în timp ce ploaia torențială continuă să cadă în siguranță în afara zidurilor groase.",
+                "en": "Immerse yourself in the fascinating indoor potassium mining exhibits while the heavy rain continues to pour safely outside the thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Rosaire",
+                "hu": "Église Notre-Dame-du-Rosaire",
+                "ro": "Église Notre-Dame-du-Rosaire",
+                "en": "Église Notre-Dame-du-Rosaire"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, komplett trockener und spiritueller Abschluss Ihres nassen Roadtrips; fahren Sie vorsichtig auf den rutschigen nassen Straßen zurück.",
+                "hu": "Csendes, teljesen száraz és mélyen spirituális befejezése az esős autós túrának; vezessen biztonságosan a szállására a csúszós, nedves utakon.",
+                "ro": "Un final liniștit, complet uscat și profund spiritual pentru călătoria dvs. umedă; conduceți în siguranță pe drumurile umede și alunecoase.",
+                "en": "A quiet, completely dry, and deeply spiritual end to your wet road trip; drive safely to your accommodation on the slippery wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Sitzheizung an diesem kalten Wintermorgen auf dem Weg zum religiösen Erbe. Mittagsstopps sind kurz, aber schön im Frost. Da die Sonne gegen 17:00 Uhr untergeht, verbringen Sie den Nachmittag drinnen. Abendfahrten sind unter dem dunklen Himmel sehr gemütlich.",
+            "hu": "Élvezze a fűtött üléseket ezen a hideg téli reggelen a vallási örökségek felfedezésekor. A déli parki megállók rövidek, de csodásak a nehéz fagyban. Mivel 17:00-kor korán sötétedik, a délutánt töltse múzeumokban. Az esti vezetés hihetetlenül hangulatos a sötét, fagyos égen.",
+            "ro": "Bucurați-vă de scaunele încălzite în această dimineață rece de iarnă explorând moștenirea religioasă. Opririle de prânz sunt scurte, dar frumoase. Deoarece soarele apune devreme spre 17:00, petreceți după-amiaza în muzee. Plimbările de seară sunt foarte confortabile sub cerul întunecat.",
+            "en": "Enjoy heated car seats on this cold winter morning while exploring the religious heritage. Midday park stops are short but beautiful in the heavy frost. As a very early sunset hits around 17:00, enjoy the afternoon indoors at the museums. Evening drives are incredibly cozy under the dark, freezing early night sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Gall",
+                "hu": "Église Saint-Gall",
+                "ro": "Église Saint-Gall",
+                "en": "Église Saint-Gall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung zwischen den Stopps; das Innere der Kirche bietet an einem kalten Wintermorgen eine atemberaubende, ruhige Atmosphäre.",
+                "hu": "Használja ki az ülések fűtését a megállók között; a templom belseje lenyűgöző, csendes légkört kínál ezen a csípős téli reggelen.",
+                "ro": "Profitați de scaunele încălzite ale mașinii între opriri; interiorul bisericii oferă o atmosferă uimitoare și liniștită într-o dimineață rece.",
+                "en": "Take advantage of the heated car seats between stops; the church interior offers a stunning, quiet atmosphere on a crisp winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Chaperon Rouge",
+                "hu": "Place du Chaperon Rouge",
+                "ro": "Place du Chaperon Rouge",
+                "en": "Place du Chaperon Rouge"
+              },
+              "tip_5lang": {
+                "de": "Saugen Sie die frostigen Vibes des Platzes bequem aus dem warmen Auto auf und steigen Sie nur kurz aus, um ein schnelles Winterfoto zu machen.",
+                "hu": "Szívja magába a fagyos tér hangulatát a meleg autó kényelméből, és csak egy pillanatra szálljon ki egy gyors téli fotó erejéig.",
+                "ro": "Absorbiți vibrațiile dimineții din piață din confortul mașinii dvs., coborând doar scurt pentru a face o fotografie rapidă de iarnă.",
+                "en": "Absorb the frosty morning vibes in the square from the warm comfort of your car, stepping out only briefly to snap a quick winter photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Michel Church",
+                "hu": "Saint-Michel Church",
+                "ro": "Saint-Michel Church",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schöne Winterlicht, das durch die Buntglasfenster fällt; lassen Sie Ihre Autoheizung laufen, wenn Sie nur kurz anhalten.",
+                "hu": "Csodálja meg az ólomüveg ablakokon áttörő gyönyörű, alacsony téli fényt; hagyja járni az autó fűtését, ha csak rövid ideig áll meg.",
+                "ro": "Admirați lumina de iarnă frumoasă care pătrunde prin vitralii; lăsați încălzirea mașinii pornită dacă vă opriți doar pentru scurt timp.",
+                "en": "Admire the beautiful, low winter light piercing through the stained glass windows; leave your car heater running if stopping just briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Wittelsheim Municipal Park",
+                "hu": "Wittelsheim Municipal Park",
+                "ro": "Wittelsheim Municipal Park",
+                "en": "Wittelsheim Municipal Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen sehr kurzen Spaziergang, um den glitzernden Frost zu bewundern, und kehren Sie dann schnell in Ihr warmes Fahrzeug zurück.",
+                "hu": "Tegyen egy nagyon rövid sétát a csupasz fákon csillogó dér megcsodálásához, majd térjen vissza a járó motorú, hívogatóan meleg járműbe.",
+                "ro": "Faceți o scurtă plimbare pentru a admira bruma strălucitoare, apoi întoarceți-vă rapid la căldura primitoare a vehiculului dvs.",
+                "en": "Go for a very short walk to admire the sparkling frost on the bare trees, then quickly head back to the welcoming warmth of your running vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Bosco",
+                "hu": "Chapelle Saint-Jean-Bosco",
+                "ro": "Chapelle Saint-Jean-Bosco",
+                "en": "Chapelle Saint-Jean-Bosco"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Halt am Nachmittag; die Sonne sinkt im Winter schnell, achten Sie also beim Aussteigen auf eisige Stellen auf dem Bürgersteig.",
+                "hu": "Békés, hideg délutáni megálló; a nap télen gyorsan ereszkedik, ezért vigyázzon a jeges foltokra a járdán, amikor kiszáll a parkoló autóból.",
+                "ro": "O oprire pașnică; soarele scade rapid iarna, așa că aveți grijă la peticele de gheață de pe trotuar când ieșiți din mașina parcată.",
+                "en": "A peaceful, cold afternoon stop; the sun drops fast in winter, so take care of icy patches on the pavement when exiting your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Carreau Joseph-Else",
+                "hu": "Carreau Joseph-Else",
+                "ro": "Carreau Joseph-Else",
+                "en": "Carreau Joseph-Else"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die lokale Bergbaugeschichte, während das Nachmittagslicht rasch schwindet; die riesigen Strukturen wirken imposant gegen den grauen Himmel.",
+                "hu": "Ismerje meg a helyi bányászattörténetet a gyorsan fogyó délutáni fényben; a masszív szerkezetek impozánsak a szürke téli égbolton.",
+                "ro": "Aflați despre istoria minieră în timp ce lumina scade; structurile masive arată impunător pe fundalul cerului gri de iarnă.",
+                "en": "Learn about local mining history as the afternoon light rapidly fades; the massive structures look imposing against the gray winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Découverte de la potasse d'Alsace",
+                "hu": "Découverte de la potasse d'Alsace",
+                "ro": "Découverte de la potasse d'Alsace",
+                "en": "Découverte de la potasse d'Alsace"
+              },
+              "tip_5lang": {
+                "de": "Es wird gegen 17:00 Uhr sehr früh dunkel; dies ist ein großartiger Fokus im Innenbereich, wenn die Außentemperaturen stark abfallen.",
+                "hu": "Rendkívül korán, 17:00 körül sötétedik; ez egy remek benti program a késő délutánra, amikor a kinti hőmérséklet drasztikusan lezuhan.",
+                "ro": "Se întunecă devreme în jur de 17:00; acesta este un obiectiv excelent la interior când temperaturile exterioare scad drastic.",
+                "en": "It gets dark extremely early around 17:00; this is a great indoor focus for the late afternoon when outdoor temperatures plummet sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Rosaire",
+                "hu": "Église Notre-Dame-du-Rosaire",
+                "ro": "Église Notre-Dame-du-Rosaire",
+                "en": "Église Notre-Dame-du-Rosaire"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beleuchtete Fassade in der frühen, eiskalten Winternacht; schalten Sie für die sichere Heimfahrt das helle Fernlicht ein.",
+                "hu": "Csodálja meg a gyönyörűen kivilágított külsőt a korai, fagyos téli éjszakában; kapcsolja fel a fényszórókat a biztonságos hazautazáshoz.",
+                "ro": "Admirați exteriorul frumos luminat în noaptea de iarnă; porniți farurile luminoase pentru o călătorie sigură înapoi spre casă.",
+                "en": "Admire the beautifully lit exterior in the early, freezing winter night; turn on your bright headlights for the safe drive back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

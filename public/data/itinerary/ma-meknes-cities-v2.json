@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Meknesben a csodálatos Dar Jamai Múzeum felfedezésével. Ezután egy rövid séta elvezeti az építészetileg lenyűgöző Medrasa Bou Inaniához a medina szívében, ahol elmerülhet a részletekben.\n\nDélidőben sétáljon el a Bab el-jadidhoz, ahol megfigyelheti a helyiek nyüzsgő életét, és magába szívhatja ennek a bájos királyi városnak a történelmi és vibráló hangulatát.\n\nDélután mélyítse el tudását a Meknesi Múzeumban, amely rengeteg regionális műtárgyat kínál. Hagyja, hogy elvarázsolják a részletes kiállítások és a Középső-Atlasz régió gazdag történelme.\n\nFejezze be a túrát az impozáns Bab bouamairnál. A lágy esti megvilágítás varázslatos aurát kölcsönöz ennek a birodalmi kapunak, amely tökéletes a marokkói nap kellemes lezárásához.",
         "ro": "Începeți ziua în Meknes explorând magnificul Muzeu Dar Jamai. Apoi, o scurtă plimbare vă duce la uimitoarea Medrasa Bou Inania, o bijuterie arhitecturală situată chiar în inima medinei istorice.\n\nLa prânz, plimbați-vă spre Bab el-jadid, unde puteți observa viața de zi cu zi a localnicilor și puteți absorbi atmosfera vibrantă a acestui fermecător oraș imperial marocan.\n\nDupă-amiaza, aprofundați-vă cunoștințele la Muzeul Meknes, care oferă o multitudine de artefacte regionale. Lăsați-vă fermecați de expozițiile detaliate și de istoria bogată a Atlasului Mijlociu.\n\nÎncheiați-vă turul la impunătoarea poartă Bab bouamair. Iluminarea blândă de seară conferă acestei porți imperiale o aură magică, perfectă pentru a încheia o zi plină de descoperiri.",
         "en": "Start your day in Meknes by exploring the magnificent Dar Jamai Museum. A short walk then takes you to the architecturally stunning Medrasa Bou Inania in the heart of the medina, full of intricate details.\n\nAt midday, stroll over to Bab el-jadid, where you can observe the bustling daily life of the locals and soak up the historical atmosphere of this charming imperial Moroccan city.\n\nIn the afternoon, deepen your knowledge at the Meknes Museum, which offers a wealth of regional artifacts. Let yourself be enchanted by the detailed exhibitions and the rich history of the Middle Atlas.\n\nEnd your walking tour at the imposing Bab bouamair. The soft evening lighting gives this imperial gate a magical aura that is perfect for winding down a busy day of exploring in Morocco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Meknès bei Regen lädt dazu ein, die prächtigen Museen der Medina zu erkunden. Vormittags bieten das Dar Jamai und das Meknès-Museum perfekten Schutz. Mittags glänzen die nassen Mosaike der Medersa besonders intensiv. Nachmittags sind die monumentalen Tore beeindruckende Fotomotive unter grauem Himmel. Abends wärmt ein Minztee in einem der überdachten Cafés am Rande der Altstadt.",
+            "hu": "Az esős Meknes a medina pompás múzeumainak felfedezésére hív. Délelőtt a Dar Jamai és a Meknes Múzeum tökéletes menedéket nyújt. Délben a Medersa vizes mozaikjai különösen intenzíven csillognak. Délután a monumentális kapuk drámai fotótémát kínálnak a szürke ég alatt. Este egy meleg mentatea egy fedett kávézóban az óváros szélén tökéletes lezárása a napnak.",
+            "ro": "Meknes pe ploaie vă invită să explorați muzeele magnifice ale medinei. Dimineața, Dar Jamai și Muzeul Meknes oferă adăpostul perfect. La prânz, mozaicurile umede ale Medersei strălucesc intens. După-amiaza, porțile monumentale sunt subiecte foto impresionante sub cerul gri. Seara, un ceai de mentă cald într-o cafenea acoperită de la marginea orașului vechi încheie ziua perfect.",
+            "en": "Rainy Meknes invites you to explore the magnificent museums of the medina. In the morning, Dar Jamai and the Meknes Museum provide perfect shelter. At noon, the wet mosaics of the Medersa shine with particular intensity. In the afternoon, the monumental gates are impressive photo subjects under the gray sky. In the evening, a warm mint tea in a covered café at the edge of the old town is ideal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dar Jamai Museum",
+                "hu": "Dar Jamai Múzeum",
+                "ro": "Muzeul Dar Jamai",
+                "en": "Dar Jamai Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Holzschnitzereien in den Palasträumen, während Sie trocken bleiben; lassen Sie Ihren Regenschirm am Eingang.",
+                "hu": "Csodálja meg a palota faragott díszítéseit a fedett termekben, így száraz marad; az esernyőt hagyja a bejáratnál.",
+                "ro": "Admirați sculpturile în lemn din camerele palatului în timp ce rămâneți uscat; lăsați umbrela la intrare.",
+                "en": "Admire the wood carvings in the palace rooms while staying dry; leave your umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Medrasa Bou Inania",
+                "hu": "Medrasa Bou Inania",
+                "ro": "Medrasa Bou Inania",
+                "en": "Medrasa Bou Inania"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Galerien, um die feinen Stuckarbeiten zu bestaunen, ohne im offenen Innenhof nass zu werden.",
+                "hu": "Használja a fedett galériákat a finom gipszstukkók megcsodálásához, így nem ázik meg a nyitott belső udvaron.",
+                "ro": "Folosiți galeriile acoperite pentru a admira lucrările fine în stuc fără a vă uda în curtea interioară deschisă.",
+                "en": "Use the covered galleries to admire the fine stucco work without getting wet in the open central courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab el-jadid",
+                "hu": "Bab el-jadid",
+                "ro": "Bab el-jadid",
+                "en": "Bab el-jadid"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp unter dem Schutz des Torbogens reicht aus; achten Sie auf rutschiges Kopfsteinpflaster im Durchgang.",
+                "hu": "Egy rövid fotómegálló a kapubolt íve alatt elegendő; ügyeljen a csúszós macskakövekre az áthaladáskor.",
+                "ro": "O scurtă oprire foto sub protecția arcului porții este suficientă; atenție la pavajul alunecos la trecere.",
+                "en": "A quick photo stop under the shelter of the gateway arch is enough; watch out for slippery cobblestones when passing."
+              }
+            },
+            {
+              "name": {
+                "de": "Meknes Museum",
+                "hu": "Meknesi Múzeum",
+                "ro": "Muzeul Meknes",
+                "en": "Meknes Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ein idealer Zufluchtsort bei starkem Regen; erkunden Sie die marokkanische Handwerkskunst in den trockenen Sälen.",
+                "hu": "Ez a múzeum ideális menedék heves esőzés esetén; fedezze fel a marokkói kézművességet a száraz termekben.",
+                "ro": "Acest muzeu este un refugiu ideal în caz de ploaie abundentă; explorați măiestria marocană în sălile uscate.",
+                "en": "This museum is an ideal refuge during heavy rain; explore Moroccan craftsmanship in the dry halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab bouamair",
+                "hu": "Bab bouamair",
+                "ro": "Bab bouamair",
+                "en": "Bab bouamair"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das imposante Tor kurz aus der Ferne; die nasse Steinfassade wirkt im Regen besonders dunkel und herrschaftlich.",
+                "hu": "Tekintse meg az impozáns kaput távolról; a vizes kőhomlokzat esőben különösen sötétnek és méltóságteljesnek tűnik.",
+                "ro": "Priviți poarta impunătoare de la distanță; fațada de piatră umedă arată deosebit de întunecată și maiestuoasă în ploaie.",
+                "en": "View the imposing gate briefly from a distance; the wet stone facade looks particularly dark and majestic in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Meknès im Winter ist frisch und klar, ideal für ausgiebige Spaziergänge. Starten Sie morgens in der Medina, wenn die Luft noch kühl ist. Mittags wärmt die Sonne die historischen Plätze auf. Planen Sie Ihre Besichtigungen vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Den Abend verbringen Sie am besten gemütlich in einem Riad bei lokaler Küche.",
+            "hu": "A téli Meknes friss és tiszta levegője ideális a hosszú sétákhoz. Kezdje a reggelt a medinában, amíg hűvös a levegő. Délben a nap kellemesen felmelegíti a történelmi tereket. Tervezze a látogatásokat a korai, 17:00 óra körüli naplemente előtt. Az estét töltse egy riad kényelmében, helyi ételeket kóstolva.",
+            "ro": "Meknes iarna are un aer proaspăt și clar, ideal pentru plimbări lungi. Începeți dimineața în medina cât timp aerul este încă răcoros. La prânz, soarele încălzește plăcut piețele istorice. Planificați vizitele înainte de apusul devreme de la ora 17:00. Seara o puteți petrece confortabil într-un riad, savurând bucătăria locală.",
+            "en": "Meknes in winter is fresh and clear, ideal for long walks. Start your morning in the medina while the air is still cool. At noon, the sun warms up the historic squares. Plan your sightseeing before the early sunset around 17:00. Spend the evening comfortably in a riad, enjoying local cuisine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dar Jamai Museum",
+                "hu": "Dar Jamai Múzeum",
+                "ro": "Muzeul Dar Jamai",
+                "en": "Dar Jamai Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte; tragen Sie eine warme Jacke, während Sie die beeindruckende Keramiksammlung besichtigen.",
+                "hu": "A vastag falak tartják a hideget; viseljen meleg kabátot, miközben az impozáns kerámiagyűjteményt tekinti meg.",
+                "ro": "Zidurile groase rețin frigul; purtați o jachetă groasă în timp ce vizitați impresionanta colecție de ceramică.",
+                "en": "The thick walls retain the cold; wear a warm jacket while viewing the impressive ceramics collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Medrasa Bou Inania",
+                "hu": "Medrasa Bou Inania",
+                "ro": "Medrasa Bou Inania",
+                "en": "Medrasa Bou Inania"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Mittagssonne im Innenhof, bevor die Schatten am frühen Nachmittag länger und kühler werden.",
+                "hu": "Élvezze a déli napsütést a belső udvaron, mielőtt a kora délutáni árnyékok hosszabbak és hűvösebbek lesznek.",
+                "ro": "Bucurați-vă de soarele de la prânz în curtea interioară, înainte ca umbrele de după-amiază să devină lungi și reci.",
+                "en": "Enjoy the midday sun in the courtyard before the early afternoon shadows grow longer and cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab el-jadid",
+                "hu": "Bab el-jadid",
+                "ro": "Bab el-jadid",
+                "en": "Bab el-jadid"
+              },
+              "tip_5lang": {
+                "de": "Am Stadttor kann es im Winter windig sein; ein Schal schützt Sie beim Fotografieren vor der frischen Brise.",
+                "hu": "A városkapunál télen szeles lehet az idő; egy sál megvédi a friss szellőtől a fotózás közben.",
+                "ro": "La poarta orașului poate fi vânt iarna; un fular vă va proteja de briza rece în timp ce faceți fotografii.",
+                "en": "It can be windy at the city gate in winter; a scarf will protect you from the fresh breeze while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Meknes Museum",
+                "hu": "Meknesi Múzeum",
+                "ro": "Muzeul Meknes",
+                "en": "Meknes Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für den späten Nachmittag, um drinnen zu bleiben, bevor die Temperaturen nach 17:00 Uhr merklich sinken.",
+                "hu": "Jó helyszín a késő délutánra, hogy bent maradjon, mielőtt a hőmérséklet 17:00 után érezhetően csökkenni kezd.",
+                "ro": "Un loc bun pentru după-amiaza târzie pentru a rămâne în interior înainte ca temperaturile să scadă după ora 17:00.",
+                "en": "A good place for the late afternoon to stay indoors before temperatures drop noticeably after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab bouamair",
+                "hu": "Bab bouamair",
+                "ro": "Bab bouamair",
+                "en": "Bab bouamair"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf das Tor und sorgt für ein besonders warmes Licht bei Sonnenuntergang.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a kapura, és különleges, meleg fényt ad naplemente előtt.",
+                "ro": "Soarele de iarnă jos aruncă umbre lungi pe poartă și oferă o lumină caldă specială înainte de apus.",
+                "en": "The low winter sun casts long shadows on the gate and provides a special warm light before sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A meknes-i kerékpártúra a bájos Théâtre en plein air Lahboul-nál kezdődik. Innen csak egy rövid út a Lahboul Állatkert, egy békés park, amely ideális egy pihentető, lassú reggeli kezdéshez.\n\nDélben tekerjen el a történelmi Medrasa Bou Inaniához. A csendes udvarok szívesen látott pihenőt nyújtanak, mielőtt meglátogatná Moulay Ismail fenséges mauzóleumát a város szívében.\n\nDélután az útvonal a kevésbé látogatott, de ugyanolyan lenyűgöző Bab el Karihoz vezet. Élvezze a régi városfalak mentén való utazást és a lenyűgöző építészetre nyíló akadálytalan kilátást.\n\nA nap a Heri es Souani kolosszális magtárainál ér véget. Ezekben az ősi boltozatokban uralkodó varázslatos esti hangulat tökéletes lezárása egy eseménydús, kerékpárral töltött napnak.",
         "ro": "Turul dvs. cu bicicleta prin Meknes începe la fermecătorul Théâtre en plein air Lahboul. De acolo, este o plimbare scurtă până la Grădina Zoologică Lahboul, un parc liniștit ideal pentru o dimineață relaxantă.\n\nLa prânz, pedalați spre istorica Medrasa Bou Inania. Curțile liniștite oferă o pauză binevenită înainte de a vizita maiestuosul Mausoleu al lui Moulay Ismail din inima orașului.\n\nDupă-amiaza, traseul vă duce la poarta Bab el Kari, mai puțin vizitată, dar la fel de fascinantă. Bucurați-vă de călătoria de-a lungul vechilor ziduri ale orașului și de priveliștile impresionante.\n\nZiua se încheie la colosalele grânare din Heri es Souani. Atmosfera magică de seară din aceste bolți antice este finalul perfect pentru o zi plină de evenimente petrecută pe bicicletă.",
         "en": "Your cycling tour through Meknes begins at the charming Théâtre en plein air Lahboul. From there, it is just a short ride to the Lahboul Zoo, a peaceful park ideal for a relaxing morning start.\n\nAt midday, pedal towards the historic Medrasa Bou Inania. The quiet courtyards offer a welcome break before you visit the majestic Mausoleum of Moulay Ismail in the heart of the imperial city.\n\nIn the afternoon, your route takes you to the less visited but equally fascinating Bab el Kari. Enjoy the ride along the ancient city walls and the unobstructed views of the impressive local architecture.\n\nThe day ends at the colossal granaries of Heri es Souani. The magical evening atmosphere in these ancient vaults is the perfect conclusion to an eventful and active day on your bicycle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Meknès bei Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Starten Sie vormittags an den Lahboul-Gärten, wo die Pflanzen im Regen leuchten. Mittags bieten die Medersa und das Mausoleum trockene Pausen. Nachmittags erkunden Sie die massiven Heri es Souani Speicher. Beenden Sie die Tour frühzeitig vor Einbruch der Dunkelheit.",
+            "hu": "Az esős Meknesben a biciklizés óvatosságot igényel a csúszós macskaköveken. Kezdje a délelőttöt a Lahboul-kerteknél, ahol a növények ragyognak az esőben. Délben a Medersa és a mauzóleum száraz pihenőt kínál. Délután fedezze fel a Heri es Souani hatalmas magtárait. Zárja a túrát korán, sötétedés előtt.",
+            "ro": "Mersul cu bicicleta prin Meknes pe ploaie necesită prudență pe pavajul alunecos. Începeți dimineața la grădinile Lahboul, unde plantele strălucesc în ploaie. La prânz, Medersa și mausoleul oferă pauze uscate. După-amiaza, explorați hambarele masive Heri es Souani. Încheiați turul devreme, înainte de lăsarea întunericului.",
+            "en": "Cycling through Meknes in the rain requires caution on the slippery cobblestones. Start your morning at the Lahboul Gardens, where the plants glow in the rain. At noon, the Medersa and the mausoleum offer dry breaks. In the afternoon, explore the massive Heri es Souani granaries. End the tour early before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Théâtre en plein air Lahboul",
+                "hu": "Théâtre en plein air Lahboul",
+                "ro": "Théâtre en plein air Lahboul",
+                "en": "Théâtre en plein air Lahboul"
+              },
+              "tip_5lang": {
+                "de": "Die Sitzreihen sind nass; bleiben Sie auf dem Rad und bewundern Sie die Architektur im Vorbeifahren unter dem Regenschutz.",
+                "hu": "Az ülések vizesek; maradjon a nyeregben, és csodálja meg az építészetet menet közben, esővédő felszerelésben.",
+                "ro": "Scaunele sunt ude; rămâneți pe bicicletă și admirați arhitectura din mers, purtând echipament de protecție.",
+                "en": "The seats are wet; stay on your bike and admire the architecture as you cycle past with rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Lahboul Zoo",
+                "hu": "Lahboul Állatkert",
+                "ro": "Grădina Zoologică Lahboul",
+                "en": "Lahboul Zoo"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; fahren Sie vorsichtig und genießen Sie das üppige Grün, das im Regen besonders frisch wirkt.",
+                "hu": "Az utak sárosak lehetnek; közlekedjen óvatosan, és élvezze a buja zöldet, amely esőben különösen frissnek hat.",
+                "ro": "Drumurile pot fi noroioase; pedalați cu atenție și bucurați-vă de verdeața luxuriantă care pare proaspătă în ploaie.",
+                "en": "The paths can be muddy; ride carefully and enjoy the lush greenery that looks especially fresh in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Medrasa Bou Inania",
+                "hu": "Medrasa Bou Inania",
+                "ro": "Medrasa Bou Inania",
+                "en": "Medrasa Bou Inania"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher unter und nutzen Sie diesen Stopp für eine längere, trockene Pause in den überdachten Hallen.",
+                "hu": "Parkolja le biztonságban a biciklit, és használja ezt a megállót egy hosszabb, száraz pihenőre a fedett csarnokokban.",
+                "ro": "Parcați bicicleta în siguranță și folosiți această oprire pentru o pauză uscată mai lungă în sălile acoperite.",
+                "en": "Park your bike securely and use this stop for a longer, dry break in the covered halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum of Moulay Ismail",
+                "hu": "Moulay Ismail Mauzóleuma",
+                "ro": "Mausoleul lui Moulay Ismail",
+                "en": "Mausoleum of Moulay Ismail"
+              },
+              "tip_5lang": {
+                "de": "Ein würdevoller und trockener Ort; bringen Sie dicke Socken mit, da der Boden nach dem Ausziehen der Schuhe kühl sein kann.",
+                "hu": "Méltóságteljes és száraz helyszín; hozzon vastag zoknit, mert a cipő levétele után a padló hűvös lehet.",
+                "ro": "Un loc demn și uscat; aduceți șosete groase, deoarece podeaua poate fi rece după ce vă scoateți pantofii.",
+                "en": "A dignified and dry location; bring thick socks as the floor can be cool after removing your shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab el Kari",
+                "hu": "Bab el Kari",
+                "ro": "Bab el Kari",
+                "en": "Bab el Kari"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Untergrund am Tor; der Ausblick auf die Stadtmauern ist auch bei Regen imposant.",
+                "hu": "Fékezzen időben a vizes talajon a kapunál; a városfalakra nyíló kilátás esőben is impozáns.",
+                "ro": "Frânați din timp pe solul umed de la poartă; vederea spre zidurile orașului este impunătoare chiar și pe ploaie.",
+                "en": "Brake early on the wet ground at the gate; the view of the city walls is imposing even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Heri es Souani",
+                "hu": "Heri es Souani",
+                "ro": "Heri es Souani",
+                "en": "Heri es Souani"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Speicherhallen bieten exzellenten Schutz; erkunden Sie die weiten Innenräume, während es draußen regnet.",
+                "hu": "A hatalmas magtárak kiváló menedéket nyújtanak; fedezze fel a tágas belső tereket, amíg kint esik az eső.",
+                "ro": "Hambarele uriașe oferă un adăpost excelent; explorați spațiile interioare vaste în timp ce afară plouă.",
+                "en": "The huge granary halls offer excellent shelter; explore the vast interiors while it rains outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Radtouren in Meknès sind erfrischend, erfordern aber warme Kleidung gegen den Fahrtwind. Starten Sie vormittags in den Lahboul-Gärten. Mittags ist die Luft angenehm mild für Besuche in der Medersa und im Mausoleum. Nutzen Sie das Tageslicht bis 17:00 Uhr für die Außenbezirke wie Heri es Souani. Abends wärmt ein Kaminfeuer in einem Riad.",
+            "hu": "A téli biciklizés Meknesben frissítő, de meleg ruházatot igényel a menetszél ellen. Kezdje a délelőttöt a Lahboul-kerteknél. Délben a levegő kellemesen enyhe a Medersa és a mauzóleum felkereséséhez. Használja ki a nappali fényt 17:00-ig a távolabbi helyszíneken. Este egy kandalló tüze mellett pihenhet egy riadban.",
+            "ro": "Mersul cu bicicleta iarna prin Meknes este revigorant, dar necesită haine groase împotriva vântului. Începeți dimineața la grădinile Lahboul. La prânz, aerul este plăcut pentru vizite la Medersa și mausoleu. Profitați de lumina zilei până la ora 17:00 pentru zonele exterioare. Seara, focul din șemineu vă așteaptă într-un riad.",
+            "en": "Winter cycling in Meknes is refreshing but requires warm clothing against the wind chill. Start your morning at the Lahboul Gardens. At noon, the air is pleasantly mild for visiting the Medersa and the mausoleum. Make use of the daylight until 17:00 for the outlying sites like Heri es Souani. In the evening, a fireplace in a riad warms you up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Théâtre en plein air Lahboul",
+                "hu": "Théâtre en plein air Lahboul",
+                "ro": "Théâtre en plein air Lahboul",
+                "en": "Théâtre en plein air Lahboul"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht die Parklandschaft klar; tragen Sie Handschuhe, um beim Radfahren warme Hände zu behalten.",
+                "hu": "A hűvös téli levegő tisztává teszi a parkot; viseljen kesztyűt, hogy kezei melegek maradjanak biciklizés közben.",
+                "ro": "Aerul rece de iarnă face parcul foarte clar; purtați mănuși pentru a vă menține mâinile calde în timp ce pedalați.",
+                "en": "The cool winter air makes the park scenery clear; wear gloves to keep your hands warm while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Lahboul Zoo",
+                "hu": "Lahboul Állatkert",
+                "ro": "Grădina Zoologică Lahboul",
+                "en": "Lahboul Zoo"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang durch den Zoo hilft, nach der Fahrt warm zu bleiben; genießen Sie die Ruhe der Nebensaison.",
+                "hu": "Egy tempós séta az állatkertben segít melegen tartani a testét a tekerés után; élvezze a főszezonon kívüli nyugalmat.",
+                "ro": "O plimbare vioaie prin grădina zoologică vă ajută să vă mențineți căldura după drum; bucurați-vă de liniștea din afara sezonului.",
+                "en": "A brisk walk through the zoo helps to stay warm after the ride; enjoy the quiet of the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Medrasa Bou Inania",
+                "hu": "Medrasa Bou Inania",
+                "ro": "Medrasa Bou Inania",
+                "en": "Medrasa Bou Inania"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne im Innenhof ist die beste Zeit für diesen Stopp, bevor es in den schattigen Gassen wieder kühler wird.",
+                "hu": "A déli napsütés a belső udvaron a legjobb időpont erre a megállóra, mielőtt az árnyékos utcákon ismét lehűl a levegő.",
+                "ro": "Soarele de la prânz în curtea interioară este momentul optim pentru această oprire înainte de a se răci pe străzile umbrite.",
+                "en": "The midday sun in the courtyard is the best time for this stop before it cools down again in the shaded alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum of Moulay Ismail",
+                "hu": "Moulay Ismail Mauzóleuma",
+                "ro": "Mausoleul lui Moulay Ismail",
+                "en": "Mausoleum of Moulay Ismail"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren ist es windgeschützt und ruhig; perfekt, um sich kurz von der kühlen Außenluft zu erholen.",
+                "hu": "A belső tér szélvédett és csendes; tökéletes helyszín, hogy kicsit megpihenjen a kinti hűvös levegő után.",
+                "ro": "Interiorul este ferit de vânt și liniștit; perfect pentru a vă recupera puțin după aerul rece de afară.",
+                "en": "The interior is sheltered from the wind and quiet; perfect for a quick recovery from the cool outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab el Kari",
+                "hu": "Bab el Kari",
+                "ro": "Bab el Kari",
+                "en": "Bab el Kari"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht am Nachmittag betont die Textur der alten Mauern; ideal für Fotos kurz vor Sonnenuntergang.",
+                "hu": "A délutáni aranyló fény kiemeli a régi falak textúráját; ideális fotózáshoz nem sokkal naplemente előtt.",
+                "ro": "Lumina aurie de după-amiază subliniază textura zidurilor vechi; ideal pentru fotografii chiar înainte de apus.",
+                "en": "The golden afternoon light emphasizes the texture of the old walls; ideal for photos shortly before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Heri es Souani",
+                "hu": "Heri es Souani",
+                "ro": "Heri es Souani",
+                "en": "Heri es Souani"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern sind im Winter sehr kalt; bewegen Sie sich stetig, während Sie die beeindruckende Anlage erkunden.",
+                "hu": "A vastag kőfalak télen nagyon hidegek; mozogjon folyamatosan, miközben felfedezi az impozáns építményt.",
+                "ro": "Zidurile groase de piatră sunt foarte reci iarna; continuați să vă mișcați în timp ce explorați structura impresionantă.",
+                "en": "The thick stone walls are very cold in winter; keep moving steadily while exploring the impressive structure."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje az autós túrát a kiterjedt Étang del Agdal történelmi medencéjénél. Nem sokkal később eléri Heri es Souani hatalmas magtárait, amelyek a birodalmi hatalom lenyűgöző tanúbizonyságai.\n\nDél körül folytassa útját a Palais Royal felé. Csodálja meg a masszív falakat és kapukat kívülről, mielőtt meglátogatná a város spirituális szívét, Moulay Ismail lenyűgöző mauzóleumát.\n\nDélután az útvonal a Bab Rha-hoz vezet, egy ősi kapuhoz a medina falai mentén. Használja ki ezt a megállót, hogy tanulmányozza a régi királyi város robusztus védelmi építészetét.\n\nFejezze be a kirándulást a Dar Jamai Múzeumnál. Ez a lenyűgöző épület nemcsak lenyűgöző művészetet kínál, hanem egy csodálatos kertet is, amely tökéletes egy nyugodt esti sétához.",
         "ro": "Începeți plimbarea cu mașina la vastul bazin istoric Étang del Agdal. La scurt timp, veți ajunge la uriașele grânare din Heri es Souani, o dovadă impresionantă a puterii imperiale de altădată.\n\nÎn jurul prânzului, continuați spre Palais Royal. Admirați zidurile masive și porțile din exterior înainte de a vizita inima spirituală a orașului, impresionantul Mausoleu al lui Moulay Ismail.\n\nDupă-amiaza, traseul duce la Bab Rha, o poartă antică de-a lungul zidurilor medinei. Profitați de această oprire pentru a studia arhitectura defensivă robustă a vechiului oraș regal marocan.\n\nÎncheiați-vă excursia la Muzeul Dar Jamai. Această clădire uimitoare nu oferă doar artă fascinantă, ci și o grădină magnifică, perfectă pentru o plimbare relaxantă de seară.",
         "en": "Start your driving tour at the expansive Étang del Agdal historical water basin. A short time later, you will reach the massive granaries of Heri es Souani, an impressive testament to past imperial power.\n\nAround noon, continue your journey towards the Palais Royal. Admire the massive walls and gates from the outside before visiting the spiritual heart of the city, the awe-inspiring Mausoleum of Moulay Ismail.\n\nIn the afternoon, the route leads to Bab Rha, an ancient gateway along the medina walls. Take advantage of this stop to study the robust defensive architecture of the old royal city.\n\nEnd your excursion at the Dar Jamai Museum. This stunning building offers not only fascinating regional art but also a magnificent, peaceful garden that is perfect for a relaxing evening stroll."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Meknès lässt sich bei Regen am komfortabelsten mit dem Auto entdecken. Starten Sie vormittags am Étang del Agdal. Mittags bieten Heri es Souani und das Mausoleum weitläufigen, trockenen Raum. Nachmittags sind das Palais Royal und das Dar Jamai Museum bequem erreichbar. Genießen Sie den Abend in einem Restaurant mit Blick auf die beleuchtete, nasse Medina.",
+            "hu": "Meknes esőben legkényelmesebben autóval fedezhető fel. Kezdje a délelőttöt az Étang del Agdalnál. Délben a Heri es Souani és a mauzóleum tágas, száraz tereket kínál. Délután a Királyi Palota és a Dar Jamai Múzeum kényelmesen elérhető. Az estét töltse egy étteremben, ahonnan rálátni a kivilágított, vizes medinára.",
+            "ro": "Meknes este cel mai confortabil de descoperit cu mașina pe ploaie. Începeți dimineața la Étang del Agdal. La prânz, Heri es Souani și mausoleul oferă spații vaste și uscate. După-amiaza, Palatul Regal și Muzeul Dar Jamai sunt ușor accesibile. Bucurați-vă de seară într-un restaurant cu vedere la medina umedă și iluminată.",
+            "en": "Meknes is most comfortably discovered by car in the rain. Start your morning at Étang del Agdal. At noon, Heri es Souani and the mausoleum offer vast, dry spaces. In the afternoon, the Royal Palace and Dar Jamai Museum are easily accessible. Enjoy the evening in a restaurant with a view of the illuminated, wet medina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang del Agdal",
+                "hu": "Étang del Agdal",
+                "ro": "Étang del Agdal",
+                "en": "Étang del Agdal"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das riesige Wasserreservoir gemütlich aus dem Auto, wenn der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Tekintse meg a hatalmas víztározót kényelmesen az autóból, ha az eső túl erős egy sétához.",
+                "ro": "Admirați rezervorul uriaș de apă din confortul mașinii dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "View the huge water reservoir comfortably from the car if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Heri es Souani",
+                "hu": "Heri es Souani",
+                "ro": "Heri es Souani",
+                "en": "Heri es Souani"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; die massiven Innenräume sind komplett trocken und bieten viel Platz für Entdeckungen bei Regen.",
+                "hu": "Parkoljon közvetlenül előtte; a hatalmas belső terek teljesen szárazak, és tágas helyet kínálnak a felfedezéshez esőben.",
+                "ro": "Parcați direct în față; spațiile interioare masive sunt complet uscate și oferă mult loc pentru explorare pe ploaie.",
+                "en": "Park directly in front; the massive interior spaces are completely dry and offer plenty of room for exploration in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais Royal",
+                "hu": "Palais Royal",
+                "ro": "Palais Royal",
+                "en": "Palais Royal"
+              },
+              "tip_5lang": {
+                "de": "Die prächtigen Palastmauern wirken im Regen besonders dunkel und edel; nutzen Sie das Auto als mobilen Unterstand für Fotos.",
+                "hu": "A pompás palotafalak esőben különösen sötétnek és előkelőnek hatnak; használja az autót mobil menedékként a fotózáshoz.",
+                "ro": "Zidurile palatului arată deosebit de întunecate și elegante în ploaie; folosiți mașina ca adăpost mobil pentru fotografii.",
+                "en": "The magnificent palace walls look especially dark and noble in the rain; use the car as a mobile shelter for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum of Moulay Ismail",
+                "hu": "Moulay Ismail Mauzóleuma",
+                "ro": "Mausoleul lui Moulay Ismail",
+                "en": "Mausoleum of Moulay Ismail"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die spirituelle Atmosphäre im Trockenen zu genießen, während draußen der Regen auf die Dächer prasselt.",
+                "hu": "Ideális megálló, hogy szárazban élvezze a spirituális atmoszférát, miközben kint az eső kopog a tetőkön.",
+                "ro": "O oprire ideală pentru a vă bucura de atmosfera spirituală la adăpost, în timp ce afară ploaia bate pe acoperișuri.",
+                "en": "An ideal stop to enjoy the spiritual atmosphere in the dry while the rain drums on the roofs outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Rha",
+                "hu": "Bab Rha",
+                "ro": "Bab Rha",
+                "en": "Bab Rha"
+              },
+              "tip_5lang": {
+                "de": "Das Tor liegt direkt an der Straße; steigen Sie nur kurz für ein Foto aus oder bewundern Sie es direkt durch das Seitenfenster.",
+                "hu": "A kapu közvetlenül az út mellett található; csak egy fotó erejéig szálljon ki, vagy csodálja meg az autóablakon keresztül.",
+                "ro": "Poarta este chiar lângă drum; coborâți doar scurt pentru o fotografie sau admirați-o direct prin geamul lateral.",
+                "en": "The gate is right by the road; step out briefly for a photo or admire it directly through the side window."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar Jamai Museum",
+                "hu": "Dar Jamai Múzeum",
+                "ro": "Muzeul Dar Jamai",
+                "en": "Dar Jamai Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier im Trockenen; die umfangreiche Kunstsammlung lässt Sie das schlechte Wetter draußen vergessen.",
+                "hu": "Zárja itt a napot a szárazban; a gazdag művészeti gyűjtemény elfeledteti Önnel a kinti rossz időt.",
+                "ro": "Încheiați ziua aici, la adăpost; bogata colecție de artă vă va face să uitați de vremea rea de afară.",
+                "en": "End your day here in the dry; the extensive art collection will make you forget the bad weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Meknès ist die beste Wahl, um die kühle Brise zwischen den historischen Stätten zu meiden. Vormittags besuchen Sie die weitläufigen Agdal-Anlagen. Mittags ist das Mausoleum ein ruhiger Rückzugsort. Planen Sie Ihre Rückfahrt zur Medina vor dem Sonnenuntergang um 17:00 Uhr. Abends locken die beheizten Säle der lokalen Gasthäuser.",
+            "hu": "A téli autós túra Meknesben a legjobb választás, hogy elkerülje a hűvös szelet a történelmi helyszínek között. Délelőtt látogassa meg a tágas Agdal-létesítményeket. Délben a mauzóleum csendes menedék. Tervezze a visszautat a medinába a 17:00-as naplemente előtt. Este a helyi vendéglők fűtött termei várják.",
+            "ro": "Turul cu mașina pe timp de iarnă în Meknes este cea mai bună alegere pentru a evita vântul rece între siturile istorice. Dimineața vizitați complexul vast Agdal. La prânz, mausoleul este un refugiu liniștit. Planificați întoarcerea spre medina înainte de apusul de la ora 17:00. Seara, sălile încălzite ale hanurilor locale vă așteaptă.",
+            "en": "The winter car tour of Meknes is the best choice to avoid the cool breeze between historic sites. Visit the expansive Agdal sites in the morning. At noon, the mausoleum is a quiet retreat. Plan your return to the medina before the 17:00 sunset. In the evening, the heated halls of local inns beckon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang del Agdal",
+                "hu": "Étang del Agdal",
+                "ro": "Étang del Agdal",
+                "en": "Étang del Agdal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Autoheizung zwischen den Stopps am zugigen Ufer; der Blick über das Wasser ist im Winter besonders klar.",
+                "hu": "Használja az autó fűtését a huzatos part menti megállók között; a kilátás a vízre télen különösen tiszta.",
+                "ro": "Folosiți încălzirea mașinii între opririle pe malul bătut de vânt; vederea spre apă este deosebit de clară iarna.",
+                "en": "Use the car heater between stops on the breezy shore; the view over the water is especially clear in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Heri es Souani",
+                "hu": "Heri es Souani",
+                "ro": "Heri es Souani",
+                "en": "Heri es Souani"
+              },
+              "tip_5lang": {
+                "de": "Die Hallen sind im Winter kühl, aber windgeschützt; ein Besuch am späten Vormittag nutzt das beste Tageslicht.",
+                "hu": "A csarnokok télen hűvösek, de szélvédettek; a késő délelőtti látogatás során használhatja ki a legjobb nappali fényt.",
+                "ro": "Halele sunt răcoroase iarna, dar ferite de vânt; o vizită la sfârșitul dimineții profită de cea mai bună lumină naturală.",
+                "en": "The halls are cool in winter but sheltered from the wind; a late morning visit takes advantage of the best daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais Royal",
+                "hu": "Palais Royal",
+                "ro": "Palais Royal",
+                "en": "Palais Royal"
+              },
+              "tip_5lang": {
+                "de": "Die gelben Mauern leuchten unter dem klaren Winterhimmel; fotografieren Sie bequem aus dem warmen Auto heraus.",
+                "hu": "A sárga falak ragyognak a tiszta téli égbolt alatt; fotózzon kényelmesen a meleg autóból.",
+                "ro": "Zidurile galbene strălucesc sub cerul senin de iarnă; faceți fotografii confortabil din mașina caldă.",
+                "en": "The yellow walls glow under the clear winter sky; take photos comfortably from the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum of Moulay Ismail",
+                "hu": "Moulay Ismail Mauzóleuma",
+                "ro": "Mausoleul lui Moulay Ismail",
+                "en": "Mausoleum of Moulay Ismail"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille ohne die sommerlichen Touristenmassen; tragen Sie warme Socken, da die Böden im Winter kühler sind.",
+                "hu": "Élvezze a csendet a nyári turistaáradat nélkül; viseljen meleg zoknit, mivel a padló télen hűvösebb.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară; purtați șosete groase, deoarece podelele sunt mai reci iarna.",
+                "en": "Enjoy the silence without the summer tourist crowds; wear warm socks as the floors are cooler in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Rha",
+                "hu": "Bab Rha",
+                "ro": "Bab Rha",
+                "en": "Bab Rha"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist ideal für Fotos; die antiken Steine wirken in der Wintersonne besonders warm.",
+                "hu": "A kora délutáni fény ideális a fotózáshoz; az ősi kövek a téli napsütésben különösen melegnek hatnak.",
+                "ro": "Lumina de la începutul după-amiezii este ideală pentru fotografii; pietrele antice par deosebit de calde în soarele de iarnă.",
+                "en": "The early afternoon light is ideal for photos; the ancient stones look particularly warm in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar Jamai Museum",
+                "hu": "Dar Jamai Múzeum",
+                "ro": "Muzeul Dar Jamai",
+                "en": "Dar Jamai Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen kulturell reichen Abschluss Ihres Tages; beenden Sie Ihren Besuch vor dem Sonnenuntergang um 17:00 Uhr.",
+                "hu": "A múzeum kulturálisan gazdag lezárása a napnak; fejezze be a látogatást a 17:00-as naplemente előtt.",
+                "ro": "Muzeul oferă un final bogat cultural pentru ziua dumneavoastră; încheiați vizita înainte de apusul de la ora 17:00.",
+                "en": "The museum offers a culturally rich conclusion to your day; finish your visit before the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

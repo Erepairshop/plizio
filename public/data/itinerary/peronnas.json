@@ -137,6 +137,168 @@
         "hu": "Péronnas-i gyalogtúrája a közösség szívében, a békés Église Saint-Eusèbe-nél veszi kezdetét. A reggeli levegő nyugodt alaphangot ad az előttünk álló útnak. \n Ahogy közeledik a dél, nyugat felé sétál a La Vernée kastélyhoz a történelmi hangulatért, amit egy kis könnyed szórakozás követ a Ludilucky-ban. \n A délután a természetbe vezet, miközben az Espace naturel sensible de la forêt de Seillon erdejében túrázva élvezi a friss, erdei illatokat. \n Gyalogos útját az impozáns Château de Saix-nál fejezi be, amely méltó történelmi lezárása a helyi örökség felfedezésével töltött napnak.",
         "ro": "Turul pietonal din Péronnas începe în inima comunității la pașnica Église Saint-Eusèbe. Aerul dimineții stabilește un ton liniștit pentru călătoria ce urmează. \n Pe măsură ce se apropie prânzul, vă veți plimba spre vest, la Castelul La Vernée, pentru a absorbi vibrațiile istorice, urmat de puțină distracție la Ludilucky. \n După-amiaza face tranziția către natură, în timp ce faceți drumeții prin Espace naturel sensible, respirând aromele proaspete ale pădurii. \n Vă veți încheia călătoria pe jos la impunătorul Château de Saix, un final istoric potrivit pentru o zi petrecută explorând patrimoniul local.",
         "en": "Your walking tour of Péronnas begins at the heart of the community with the peaceful Église Saint-Eusèbe. The morning air sets a tranquil tone for the journey ahead. \n As midday approaches, you will stroll westward toward La Vernée Castle, soaking in the historical vibes, followed by some lighthearted fun at Ludilucky. \n The afternoon transitions into nature as you hike through the Espace naturel sensible de la forêt de Seillon, breathing in the fresh woodland scents. \n You will conclude your foot journey at the imposing Château de Saix, a fitting historical finale to a day spent exploring local heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Schutz der historischen Kirche.\n\nMittags können Sie sich bei den Indoor-Aktivitäten von Ludilucky komplett abtrocknen.\n\nDer Nachmittagsspaziergang im Wald erfordert wasserdichte Schuhe.\n\nBeenden Sie den Abend und bewundern Sie das neblige Schloss mit Regenschirm.",
+            "hu": "Kezdje az esős reggelt a történelmi templom menedékében.\n\nDélben szárítkozzon meg teljesen a Ludilucky benti játékai során.\n\nA délutáni erdei sétához elengedhetetlen a vízálló bakancs a sár miatt.\n\nEste csodálja meg a kastély ködös sziluettjét egy esernyő alól.",
+            "ro": "Începeți dimineața ploioasă la adăpostul bisericii istorice.\n\nLa prânz, uscați-vă complet în timpul activităților de interior la Ludilucky.\n\nPlimbarea de după-amiază în pădure necesită cizme impermeabile.\n\nÎncheiați seara admirând castelul înconjurat de ceață sub o umbrelă.",
+            "en": "Begin the rainy morning in the shelter of the historic church.\n\nAt noon, dry off completely during the indoor activities at Ludilucky.\n\nThe afternoon forest walk requires waterproof boots as trails get muddy.\n\nEnd the evening admiring the misty castle views from under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im Inneren und schützen Sie sich vor dem Regen; halten Sie Ihren Regenschirm bereit.",
+                "hu": "Csodálja meg a történelmi építészetet odabent, miközben biztos menedéket talál az eső elől; legyen kéznél az esernyő a kijáratnál.",
+                "ro": "Admirați arhitectura istorică în interior în timp ce vă adăpostiți de ploaie; țineți umbrela la îndemână.",
+                "en": "Admire the historic architecture inside while sheltering from the morning rain; keep your umbrella handy for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vernée Castle",
+                "hu": "La Vernée kastély",
+                "ro": "Castelul La Vernée",
+                "en": "La Vernée Castle"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die romantischen Schlossanlagen; tragen Sie feste, wasserdichte Stiefel, da die unbefestigten Wege schlammig werden.",
+                "hu": "Figyelje meg a kastély eső áztatta, romantikus kertjét; viseljen vízálló bakancsot, mert a gyalogutak nagyon sarasak lehetnek.",
+                "ro": "Observați castelul romantic pe timp de ploaie; purtați cizme impermeabile robuste, deoarece cărările devin noroioase.",
+                "en": "Observe the romantic, rain-swept castle grounds from the paths; wear sturdy waterproof boots as the ground gets deeply muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludilucky",
+                "hu": "Ludilucky",
+                "ro": "Ludilucky",
+                "en": "Ludilucky"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Indoor-Flucht vor den Regengüssen mit vielen lustigen Aktivitäten; genießen Sie die warme und völlig trockene Umgebung.",
+                "hu": "Tökéletes benti menedék a felhőszakadás elől, rengeteg szórakoztató játékkal; élvezze a fűtött, teljesen száraz környezetet.",
+                "ro": "O evadare perfectă în interior de ploile torențiale, oferind activități distractive; bucurați-vă de mediul complet uscat.",
+                "en": "A perfect indoor escape from the downpours, offering fun activities for everyone; enjoy the perfectly dry and warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace naturel sensible de la forêt de Seillon",
+                "hu": "Espace naturel sensible de la forêt de Seillon",
+                "ro": "Espace naturel sensible de la forêt de Seillon",
+                "en": "Espace naturel sensible de la forêt de Seillon"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt das satte Grün; bleiben Sie auf den befestigten Hauptwegen, um tiefen Schlamm und rutschige Wurzeln zu vermeiden.",
+                "hu": "Az eső gyönyörűen kiemeli a fák élénk zöldjét; feltétlenül maradjon a kövezett utakon a mély sár és a csúszós gyökerek elkerülése végett.",
+                "ro": "Ploaia intensifică culorile vibrante ale pădurii; rămâneți pe traseele pavate principale pentru a evita noroiul adânc și rădăcinile alunecoase.",
+                "en": "The rain enhances the vibrant green canopy; strictly stick to the main paved trails to avoid deep mud and very slippery roots."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saix",
+                "hu": "Château de Saix",
+                "ro": "Château de Saix",
+                "en": "Château de Saix"
+              },
+              "tip_5lang": {
+                "de": "Das neblige Wetter verleiht diesem Schloss einen mysteriösen Charme; eine wasserdichte Jacke ist für die Erkundung im Freien unerlässlich.",
+                "hu": "A ködös idő titokzatos bájt kölcsönöz a kastélynak; egy jó minőségű vízálló kabát elengedhetetlen a kinti területek felfedezéséhez.",
+                "ro": "Vremea cețoasă oferă acestui castel un farmec misterios; o jachetă impermeabilă este absolut esențială pentru explorarea exteriorului.",
+                "en": "The misty weather gives this stone castle a mysterious charm; a heavy waterproof jacket is essential for exploring the exterior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der ruhigen Kirche.\n\nWärmen Sie sich mittags beim Indoor-Spaß im Ludilucky gründlich auf.\n\nDer Nachmittagswald ist wunderschön frostig, erfordert aber dicke Thermokleidung.\n\nDer Abend bricht früh gegen 17:00 Uhr herein, kehren Sie also vor der Dunkelheit zurück.",
+            "hu": "A csípős téli reggel a csendes templomnál indul.\n\nDélben melegedjen fel a Ludilucky benti szórakoztató központjában.\n\nA délutáni erdő gyönyörűen zúzmarás, de vastag termóruházatot igényel.\n\nAz este korán, 17:00 körül érkezik, így még a sötétedés és a fagy előtt térjen vissza.",
+            "ro": "O dimineață de iarnă geroasă începe la biserica liniștită.\n\nÎncălziți-vă la prânz la activitățile de interior de la Ludilucky.\n\nPădurea după-amiaza este frumos înghețată, purtați haine termice groase.\n\nSeara cade devreme, în jur de 17:00, deci întoarceți-vă înainte de lăsarea frigului.",
+            "en": "A crisp winter morning begins gracefully at the quiet church.\n\nWarm up completely at noon with indoor fun at the Ludilucky center.\n\nThe afternoon forest is beautifully frosty, but definitively requires thick thermal layers.\n\nEvening falls early around 17:00, so head back before the freezing dark sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Kircheninnere bietet einen warmen Start in einen frostigen Morgen; kleiden Sie sich in Schichten für den Spaziergang.",
+                "hu": "A templom belső tere békés és viszonylag meleg kezdést nyújt a fagyos reggelen; öltözzön vastag rétegesen a kinti sétához.",
+                "ro": "Interiorul liniștit al bisericii oferă un început cald pentru o dimineață geroasă; îmbrăcați-vă în straturi pentru plimbare.",
+                "en": "The quiet church interior provides a peaceful, warm start to a frosty morning; dress in heavy layers for the chilly walk ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vernée Castle",
+                "hu": "La Vernée kastély",
+                "ro": "Castelul La Vernée",
+                "en": "La Vernée Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf die Schlossarchitektur; achten Sie auf eisige Stellen auf dem Zugangsweg.",
+                "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak a kastély építészetére; nagyon vigyázzon a csúszós, jeges foltokra a megközelítéskor.",
+                "ro": "Copacii goi de iarnă oferă vederi clare asupra arhitecturii castelului; aveți mare grijă la porțiunile de gheață la apropiere.",
+                "en": "The bare winter trees offer unobstructed views of the castle architecture; carefully watch out for icy patches on the approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludilucky",
+                "hu": "Ludilucky",
+                "ro": "Ludilucky",
+                "en": "Ludilucky"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem Indoor-Unterhaltungsbereich komplett auf; ein großartiger Ort, um Ihre Hände aufzutauen.",
+                "hu": "Melegedjen fel teljesen ebben a fűtött benti szórakoztató központban; remek hely a fagyos kezek és lábak kiolvasztására.",
+                "ro": "Încălziți-vă complet în această zonă de divertisment interioară; un loc minunat pentru a vă dezgheța mâinile amorțite.",
+                "en": "Warm up completely in this heated indoor entertainment area; it is a fantastic spot to thaw your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace naturel sensible de la forêt de Seillon",
+                "hu": "Espace naturel sensible de la forêt de Seillon",
+                "ro": "Espace naturel sensible de la forêt de Seillon",
+                "en": "Espace naturel sensible de la forêt de Seillon"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die stille Schönheit des frostbedeckten Waldes; tragen Sie unbedingt Thermosocken und stark isolierte Stiefel.",
+                "hu": "Tapasztalja meg a zúzmarás erdő csendes szépségét; mindenképpen viseljen vastag termózoknit és jó minőségű bélelt csizmát a hideg ellen.",
+                "ro": "Experimentați frumusețea tăcută a pădurii acoperite de gheață; purtați șosete termice și cizme bine izolate pentru a rezista frigului.",
+                "en": "Experience the silent beauty of the entirely frost-covered forest; strictly wear thermal socks and insulated boots for the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saix",
+                "hu": "Château de Saix",
+                "ro": "Château de Saix",
+                "en": "Château de Saix"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr wirft ein goldenes Licht auf die Mauern; beenden Sie Ihren Besuch, bevor die Temperaturen drastisch sinken.",
+                "hu": "A 17:00 körüli naplemente aranyfénybe öltözteti a kőfalakat; fejezze be a látogatást, mielőtt a hőmérséklet drasztikusan lecsökken.",
+                "ro": "Apusul din jurul orei 17:00 aruncă o strălucire aurie pe pereții de piatră; terminați vizita înainte ca temperaturile să scadă drastic.",
+                "en": "The early sunset around 17:00 casts a golden winter glow on the stone walls; finish your visit before temperatures drop drastically."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját az Église Saint-Eusèbe-nél, élvezve a derűs reggeli atmoszférát. \n Tekerjen tempósan a La Vernée kastélyhoz egy kis nemesi hangulatért, majd guruljon el a Ludilucky-hoz egy játékos pihenőre. \n Délután folytassa útját a Château de la Bécassinière és a Château de Saix felé, megcsodálva a csendes utakon megbúvó történelmi építészetet. \n Zárja a napot a Seillon erdő kiterjedt zöldjében, ahol az ősi fák fenséges lombkoronát biztosítanak a túra utolsó kilométereihez.",
         "ro": "Începeți aventura pe bicicletă la Église Saint-Eusèbe, îmbrățișând atmosfera senină a dimineții. \n Călătoriți alert către Castelul La Vernée pentru o notă de noblețe, apoi pedalați spre Ludilucky pentru o pauză jucăușă. \n După-amiaza, mergeți la Château de la Bécassinière și Château de Saix, minunându-vă de arhitectura istorică păstrată de-a lungul drumurilor. \n Încheiați ziua scufundându-vă în verdeața vastă a Pădurii Seillon, unde copacii seculari oferă un baldachin magnific pentru ultimii kilometri.",
         "en": "Kickstart your cycling adventure at Église Saint-Eusèbe, embracing the serene morning atmosphere. \n Ride briskly to La Vernée Castle for a touch of regional nobility, then cycle to Ludilucky for a playful break. \n In the afternoon, pedal your way to Château de la Bécassinière and Château de Saix, marveling at the preserved historical architecture along the quiet roads. \n Wrap up the day by immersing yourself in the sprawling greenery of Seillon Forest, where the ancient trees provide a magnificent canopy for your final miles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihr feuchtes Radabenteuer sicher in einem soliden Regenanzug.\n\nMittags gibt es eine willkommene Indoor-Pause, um vollständig zu trocknen.\n\nDie Nachmittagswege im Wald sind extrem rutschig, fahren Sie langsam.\n\nDie abendliche Rückfahrt erfordert große Vorsicht und eine starke Fahrradbeleuchtung.",
+            "hu": "Kezdje a nedves kerékpáros kalandot egy megbízható esőruhában.\n\nDélben egy jól eső benti pihenő segít teljesen megszáradni a Ludilucky-ban.\n\nA délutáni erdei ösvényeken rendkívül óvatosan tekerjen a csúszós falevelek miatt.\n\nAz esti visszautat lassabban, megbízható és erős kerékpárlámpákkal tegye meg.",
+            "ro": "Începeți aventura umedă pe bicicletă purtând o pelerină de ploaie solidă.\n\nPrânzul aduce o pauză binevenită la interior pentru uscare completă.\n\nTraseele de după-amiază necesită prudență maximă, frunzele fiind foarte alunecoase.\n\nCălătoria de seară trebuie făcută lent, având lumini puternice la bicicletă.",
+            "en": "Begin your wet cycling adventure securely wearing a solid, bright rain suit.\n\nMidday brings a highly welcome indoor break to dry off completely.\n\nAfternoon trails in the forest require extreme caution as wet leaves become very slippery.\n\nThe evening ride back should be done slowly with exceptionally good bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Baum und bewundern Sie die historische Architektur im Inneren, während Sie sich vor dem Regen schützen.",
+                "hu": "Parkolja le a bringát és csodálja meg a történelmi építészetet odabent, miközben biztos menedéket talál az eső elől.",
+                "ro": "Parcați bicicleta și admirați arhitectura istorică în interior în timp ce vă adăpostiți confortabil de ploaia rece de dimineață.",
+                "en": "Park your bike safely and admire the historic architecture inside while comfortably sheltering from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vernée Castle",
+                "hu": "La Vernée kastély",
+                "ro": "Castelul La Vernée",
+                "en": "La Vernée Castle"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die romantischen Schlossanlagen; fahren Sie hier langsam, da die unbefestigten Wege für Reifen sehr schlammig werden.",
+                "hu": "Figyelje meg a romantikus kastélykertet; itt nagyon lassan tekerjen, mert a gyalogutak kerékpárral rendkívül sarasak és csúszósak.",
+                "ro": "Observați castelul romantic; mergeți încet aici, deoarece cărările neasfaltate devin foarte noroioase pentru anvelopele de bicicletă.",
+                "en": "Observe the romantic, rain-swept castle grounds; cycle slowly here as the unpaved paths get extremely muddy for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludilucky",
+                "hu": "Ludilucky",
+                "ro": "Ludilucky",
+                "en": "Ludilucky"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Indoor-Flucht vor den Regengüssen; trocknen Sie Ihre Fahrradkleidung, während Sie die warmen Aktivitäten genießen.",
+                "hu": "Tökéletes benti menedék a felhőszakadás elől; szárítsa meg a nedves kerékpáros ruházatot, miközben élvezi a benti szórakozást.",
+                "ro": "O evadare perfectă în interior de ploaie; uscați-vă hainele de ciclism în timp ce vă bucurați de activitățile distractive și calde.",
+                "en": "A perfect indoor escape from the downpours; purposefully dry off your wet cycling gear while enjoying the fun warm activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Bécassinière",
+                "hu": "Château de la Bécassinière",
+                "ro": "Château de la Bécassinière",
+                "en": "Château de la Bécassinière"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das majestätische Schloss und meiden Sie tiefe Pfützen auf dem Radweg; Schutzbleche sind hier sehr zu empfehlen.",
+                "hu": "Tekintse meg a fenséges kastélyt, kikerülve a mély tócsákat a kerékpárúton; a sárvédő használata ezen a szakaszon erősen ajánlott.",
+                "ro": "Vedeți castelul majestuos evitând bălțile adânci de pe pista de biciclete; aripile de noroi sunt extrem de recomandate aici.",
+                "en": "View the majestic stone castle while actively avoiding deep puddles on the cycle path; mudguards are highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saix",
+                "hu": "Château de Saix",
+                "ro": "Château de Saix",
+                "en": "Château de Saix"
+              },
+              "tip_5lang": {
+                "de": "Das neblige Wetter verleiht dem Schloss Charme; stellen Sie sicher, dass Ihre Regenjacke gut sitzt, während Sie den Außenbereich ansehen.",
+                "hu": "A ködös idő titokzatos bájt kölcsönöz a kastélynak; győződjön meg róla, hogy az esőkabátja jól véd, miközben kint nézelődik.",
+                "ro": "Vremea cețoasă oferă castelului un farmec misterios; asigurați-vă că jacheta de ploaie este bine închisă în timp ce priviți exteriorul.",
+                "en": "The misty weather gives this castle a mysterious charm; ensure your rain jacket is fully zipped while viewing the exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace naturel sensible de la forêt de Seillon",
+                "hu": "Espace naturel sensible de la forêt de Seillon",
+                "ro": "Espace naturel sensible de la forêt de Seillon",
+                "en": "Espace naturel sensible de la forêt de Seillon"
+              },
+              "tip_5lang": {
+                "de": "Der Wald sieht im Regen satt aus; bleiben Sie auf befestigten Radwegen, um Stürze auf nassem Laub zu vermeiden.",
+                "hu": "Az erdő élénk zöld az esőben; szigorúan maradjon a kiépített kerékpárutakon, hogy elkerülje az eséseket a nedves avarban.",
+                "ro": "Pădurea arată vibrant în ploaie; rămâneți strict pe pistele de biciclete pavate pentru a evita căderile pe frunzele umede.",
+                "en": "The forest canopy looks incredibly vibrant in the rain; strictly stick to paved cycle paths to avoid crashing on wet leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Seillon Forest",
+                "hu": "Seillon erdő",
+                "ro": "Pădurea Seillon",
+                "en": "Seillon Forest"
+              },
+              "tip_5lang": {
+                "de": "Radfahren durch den nassen Wald ist frisch; verringern Sie Ihre Geschwindigkeit deutlich, da nasse Wurzeln extrem rutschig sind.",
+                "hu": "A nedves erdőben tekerés rendkívül frissítő; csökkentse a sebességet jelentősen, mert a nedves gyökereken könnyen megcsúszhat a kerék.",
+                "ro": "Mersul prin pădurea umedă este extrem de revigorant; reduceți semnificativ viteza, deoarece rădăcinile umede provoacă derapaje.",
+                "en": "Cycling through the wet forest is incredibly fresh; distinctly lower your speed as wet roots and mud will easily cause skidding."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die frostige Fahrt gut eingepackt mit dicken Handschuhen und Gesichtsschutz.\n\nWärmen Sie sich mittags im Haus auf und trinken Sie etwas Heißes.\n\nDer Nachmittagswald ist magisch, aber die Wege können stellenweise vereist sein.\n\nBeenden Sie die Route zwingend vor 17:00 Uhr wegen der stechenden Kälte und Dunkelheit.",
+            "hu": "A fagyos reggeli tekerést vastag, szélálló kesztyűvel és arcvédővel kezdje.\n\nDélben melegedjen fel a benti szórakozóhelyen és engedjen fel teljesen.\n\nA délutáni erdő varázslatos, de a kerékpárutak rendkívül jegesek lehetnek.\n\nFejezze be az utat feltétlenül 17:00 előtt a hirtelen sötétség és a metsző hideg miatt.",
+            "ro": "Începeți plimbarea geroasă de dimineață cu mănuși groase și protecție facială împotriva vântului.\n\nÎncălziți-vă la prânz în interior și relaxați-vă complet corpul amorțit.\n\nPădurea de după-amiază e magică, dar cărările de bicicletă pot fi periculos de înghețate.\n\nTerminați neapărat înainte de 17:00, când se întunecă și se răcește extrem de brusc.",
+            "en": "Start the highly freezing morning ride with thick windproof gloves and face protection.\n\nWarm up securely at noon with indoor entertainment to thaw your body.\n\nThe afternoon forest looks completely magical, but the paths can be treacherously icy.\n\nFinish the route strictly before 17:00, when it quickly becomes dark and dangerously cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere bietet einen windstillen, warmen Start in einen frostigen Radmorgen; ziehen Sie sich in Schichten an.",
+                "hu": "A templom belső tere szélcsendes és meleg kezdést nyújt a fagyos kerékpáros reggelen; öltözzön vastag rétegesen a menetszél ellen.",
+                "ro": "Interiorul bisericii oferă un început cald, fără vânt, pentru o dimineață geroasă pe bicicletă; îmbrăcați-vă în straturi.",
+                "en": "The quiet church interior provides a wind-free, warm start to a frosty cycling morning; strictly dress in heavy windproof layers."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vernée Castle",
+                "hu": "La Vernée kastély",
+                "ro": "Castelul La Vernée",
+                "en": "La Vernée Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten tolle Ausblicke; bremsen Sie beim Heranfahren sehr vorsichtig, um auf Eis nicht auszurutschen.",
+                "hu": "A csupasz téli fák remek kilátást nyújtanak; nagyon finoman fékezzen a megközelítéskor, hogy elkerülje a jeges csúszásokat.",
+                "ro": "Copacii goi oferă vederi clare asupra castelului; frânați foarte blând la apropiere pentru a nu derapa pe zonele înghețate.",
+                "en": "The bare winter trees offer unobstructed castle views; definitively brake very gently on the approach to avoid sliding on ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludilucky",
+                "hu": "Ludilucky",
+                "ro": "Ludilucky",
+                "en": "Ludilucky"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem beheizten Indoor-Bereich komplett auf; ein idealer Ort, um nach der kalten Fahrt die Hände aufzutauen.",
+                "hu": "Melegedjen fel teljesen ebben a fűtött benti központban; ideális hely, hogy a hideg menetszél után kiolvadjanak az ujjai.",
+                "ro": "Încălziți-vă complet în această zonă încălzită de interior; un loc ideal pentru a vă dezgheța mâinile după călătoria rece.",
+                "en": "Warm up completely in this specifically heated indoor area; an ideal spot to completely thaw your hands after the icy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Bécassinière",
+                "hu": "Château de la Bécassinière",
+                "ro": "Château de la Bécassinière",
+                "en": "Château de la Bécassinière"
+              },
+              "tip_5lang": {
+                "de": "Der nackte Stein sieht im Winter beeindruckend aus; achten Sie genau auf gefährliches Glatteis auf den angrenzenden Radwegen.",
+                "hu": "A zord kőépület lenyűgöző télen; folyamatosan figyeljen a kerékpárúton kialakuló, szinte láthatatlan alattomos tükörjégre.",
+                "ro": "Piatra rece arată impresionant iarna; acordați o mare atenție gheții negre periculoase de pe pistele de biciclete adiacente.",
+                "en": "The stark stone looks deeply impressive in winter; watch out meticulously for highly dangerous black ice on the approaching cycle tracks."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saix",
+                "hu": "Château de Saix",
+                "ro": "Château de Saix",
+                "en": "Château de Saix"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Sonnenuntergang wirft ein goldenes Licht; bleiben Sie in Bewegung, damit Ihnen in der frostigen Luft nicht kalt wird.",
+                "hu": "A korai naplemente aranyfénybe öltözteti a falakat; mozogjon folyamatosan a kerékpárral, hogy ne hűljön ki a fagyos levegőn.",
+                "ro": "Apusul timpuriu aruncă o strălucire aurie; continuați să pedalați constant pentru a nu vă răci în aerul extrem de rece.",
+                "en": "The early sunset casts a magnificent golden glow; constantly keep pedaling moderately to avoid freezing in the extremely crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace naturel sensible de la forêt de Seillon",
+                "hu": "Espace naturel sensible de la forêt de Seillon",
+                "ro": "Espace naturel sensible de la forêt de Seillon",
+                "en": "Espace naturel sensible de la forêt de Seillon"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostbedeckten Pfade; tragen Sie Thermosocken in Ihren Radschuhen, um Erfrierungen an den Zehen zu vermeiden.",
+                "hu": "Tapasztalja meg a zúzmarás ösvényeket; feltétlenül viseljen vastag termózoknit a kerékpáros cipőben a lábujjak elfagyása ellen.",
+                "ro": "Experimentați potecile acoperite de îngheț; purtați șosete termice groase în încălțămintea de ciclism pentru a evita degerăturile.",
+                "en": "Experience the exceptionally frost-covered paths; absolutely wear heavy thermal socks in your cycling shoes to completely prevent numbness."
+              }
+            },
+            {
+              "name": {
+                "de": "Seillon Forest",
+                "hu": "Seillon erdő",
+                "ro": "Pădurea Seillon",
+                "en": "Seillon Forest"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Winterluft; bleiben Sie in Bewegung und prüfen Sie vorab den Reifengrip auf den hart gefrorenen Wegen.",
+                "hu": "Élvezze a friss téli levegőt; mozogjon folyamatosan, és indulás előtt ellenőrizze a gumik tapadását a kőkeményre fagyott erdei utakon.",
+                "ro": "Bucurați-vă de aerul curat de iarnă; mișcați-vă constant și verificați aderența anvelopelor pe traseele forestiere complet înghețate.",
+                "en": "Enjoy the sharp winter air intensely; consciously keep moving and securely check your tire grip on the firmly frozen forest paths."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós útja a La Vernée kastélynál kezdődik, ahol a reggeli napsütésben egyenesen a régió arisztokratikus történelmébe csöppenhet. \n Egy rövid út vezet a bájos Église Saint-Eusèbe-hez, melyet a Ludilucky családbarát kikapcsolódása követ még ebéd előtt. \n A délutáni kocsikázás során felfedezheti a déli Château de la Bécassinière és Château de Saix birtokokat, ötvözve a festői utat az építészettel. \n A nap méltó lezárásaként vezessen be a Seillon erdőbe, majd végül a Lac de Bouvent tóhoz, ahol egy frissítő vízparti alkonyat várja.",
         "ro": "Călătoria cu mașina începe la Castelul La Vernée, scufundându-vă direct în istoria aristocratică a regiunii sub soarele dimineții. \n Un scurt drum vă duce la fermecătoarea Église Saint-Eusèbe, urmată de timp liber orientat spre familie la Ludilucky înainte de prânz. \n Excursia de după-amiază vă conectează cu moșiile sudice Château de la Bécassinière și Château de Saix, îmbinând condusul pitoresc cu descoperirea. \n Ziua se încheie grațios cu o plimbare spre Pădurea Seillon și, în final, la Lac de Bouvent pentru un amurg răcoritor pe malul apei.",
         "en": "Your drive begins at La Vernée Castle, plunging straight into the aristocratic history of the region as the morning sun rises. \n A short drive takes you to the charming Église Saint-Eusèbe, followed by family-oriented leisure time at Ludilucky before lunch. \n The afternoon road trip connects you with the southern estates of Château de la Bécassinière and Château de Saix, blending scenic driving with architectural discovery. \n The day gracefully winds down with a drive into Seillon Forest and eventually to Lac de Bouvent for a refreshing lakeside twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie gemütlich durch den regnerischen Morgen und flitzen Sie nur mit Regenschirm hinaus.\n\nMittags ist perfekt für Indoor-Spiele, um dem grauen Wetter zu entfliehen.\n\nDie Nachmittagsfahrt durch den dichten Wald ist wohlig warm und trocken.\n\nBeenden Sie den Abend und beobachten Sie den Regen am See sicher aus dem Auto.",
+            "hu": "Vezessen kényelmesen az esős reggelen, csak esernyővel kiszaladva a látványosságokhoz.\n\nA dél tökéletes egy hosszabb benti játékra a szürke és nedves idő elől.\n\nA délutáni erdei autózás kuckós, biztonságos és teljesen száraz marad.\n\nEste nézze az esőcseppeket a tavon kényelmesen, a meleg autóból ülve.",
+            "ro": "Conduceți confortabil în dimineața ploioasă, ieșind rapid doar cu o umbrelă.\n\nPrânzul este perfect pentru o sesiune prelungită de joacă în interior.\n\nCălătoria de după-amiază cu mașina prin pădure este extrem de confortabilă și uscată.\n\nÎncheiați seara privind calm ploaia pe lac din siguranța mașinii calde.",
+            "en": "Drive comfortably through the rainy morning, simply dashing out with an umbrella.\n\nMidday is perfectly suited for an extended indoor play session to reliably escape the gray weather.\n\nThe afternoon scenic drive straight through the forest is securely cozy and dry.\n\nEnd the evening calmly watching the rain on the lake from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Vernée Castle",
+                "hu": "La Vernée kastély",
+                "ro": "Castelul La Vernée",
+                "en": "La Vernée Castle"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die romantischen Anlagen; parken Sie nah und tragen Sie wasserdichte Stiefel, da die Zugangswege extrem schlammig werden.",
+                "hu": "Figyelje meg a kastélykert romantikáját; parkoljon a lehető legközelebb, és viseljen vízálló bakancsot az iszapos ösvények miatt.",
+                "ro": "Observați curtea romantică; parcați cât mai aproape și purtați cizme impermeabile solide, deoarece aleile de acces devin pline de noroi.",
+                "en": "Observe the romantic castle grounds; logically park near the entrance and securely wear waterproof boots as paths get heavily muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im Inneren und schützen Sie sich vor dem Regen; springen Sie schnell mit dem Regenschirm zum Auto.",
+                "hu": "Csodálja meg a történelmi építészetet odabent az eső elől menedéket találva; az autóhoz menet tartsa kéznél az esernyőt.",
+                "ro": "Admirați arhitectura istorică din interior adăpostindu-vă de ploaie; folosiți umbrela la ieșire pentru a ajunge rapid înapoi la mașină.",
+                "en": "Admire the incredibly historic architecture inside while firmly sheltering from the rain; keep your umbrella handy for the car dash."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludilucky",
+                "hu": "Ludilucky",
+                "ro": "Ludilucky",
+                "en": "Ludilucky"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Indoor-Flucht vor den Regengüssen; lassen Sie Ihre nassen Jacken im Auto und genießen Sie die komplett trockene Umgebung.",
+                "hu": "Tökéletes benti menedék a felhőszakadás elől; hagyja a nedves esőkabátokat az autóban, és élvezze a fűtött, száraz játékteret.",
+                "ro": "O evadare perfectă în interior din calea ploilor; lăsați jachetele ude în mașină și bucurați-vă de mediul interior complet uscat.",
+                "en": "A perfect indoor escape strictly away from the downpours; safely leave wet jackets in the car and deeply enjoy the dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Bécassinière",
+                "hu": "Château de la Bécassinière",
+                "ro": "Château de la Bécassinière",
+                "en": "Château de la Bécassinière"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das majestätische Schloss; der Anblick ist auch durch die regennassen Autoscheiben bei aktivierten Scheibenwischern toll.",
+                "hu": "Tekintse meg a fenséges kastélyt; a látvány még az eső áztatta autóablakon és az ablaktörlőkön keresztül is igazán lenyűgöző.",
+                "ro": "Vedeți castelul majestuos; priveliștea este minunată chiar și prin geamurile mașinii bătute de ploaie, cu ștergătoarele pornite.",
+                "en": "View the uniquely majestic castle; the view is actually quite stunning directly through the rain-swept car windows with wipers running."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saix",
+                "hu": "Château de Saix",
+                "ro": "Château de Saix",
+                "en": "Château de Saix"
+              },
+              "tip_5lang": {
+                "de": "Das neblige Wetter verleiht Charme; eine wasserdichte Jacke ist unerlässlich, wenn Sie aus dem warmen Fahrzeug aussteigen.",
+                "hu": "A ködös idő titokzatos bájt ad a helynek; a vízálló kabát elengedhetetlen, ha úgy dönt, hogy kiszáll a fűtött járműből a sárba.",
+                "ro": "Vremea cețoasă oferă un farmec misterios; o jachetă impermeabilă este absolut necesară dacă ieșiți din vehiculul cald în noroi.",
+                "en": "The misty weather definitively gives this a mysterious charm; a highly waterproof jacket is essential when stepping out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace naturel sensible de la forêt de Seillon",
+                "hu": "Espace naturel sensible de la forêt de Seillon",
+                "ro": "Espace naturel sensible de la forêt de Seillon",
+                "en": "Espace naturel sensible de la forêt de Seillon"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt das Grün der Bäume; betrachten Sie den Waldrand vom Auto aus oder nutzen Sie befestigte Wege mit Schirm.",
+                "hu": "Az eső kiemeli a fák zöldjét; csodálja meg az erdő szélét az autóból, vagy szigorúan a kövezett utakon sétáljon esernyővel.",
+                "ro": "Ploaia intensifică verdele copacilor; admirați marginea pădurii din mașină sau plimbați-vă doar pe traseele ferm pavate cu o umbrelă.",
+                "en": "The rain deeply enhances the vibrant green canopy; admire the forest edge from the car or exclusively walk the paved trails with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Seillon Forest",
+                "hu": "Seillon erdő",
+                "ro": "Pădurea Seillon",
+                "en": "Seillon Forest"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt auf den nassen Waldstraßen ist landschaftlich reizvoll; passen Sie das Tempo an, da nasses Laub die Straßen rutschig macht.",
+                "hu": "A nedves erdei utakon autózás festői; csökkentse a sebességet, mert a lehullott nedves falevelek nagyon csúszóssá teszik az aszfaltot.",
+                "ro": "Condusul pe drumurile forestiere umede este pitoresc; reduceți viteza considerabil, deoarece frunzele umede fac asfaltul extrem de alunecos.",
+                "en": "Driving specifically on the wet forest roads is highly scenic; firmly reduce your speed as fallen wet leaves make the asphalt extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Bouvent",
+                "hu": "Lac de Bouvent",
+                "ro": "Lacul Bouvent",
+                "en": "Lac de Bouvent"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Regentropfen auf der Seeoberfläche; parken Sie direkt am Wasser und genießen Sie die Aussicht vom trockenen Auto aus.",
+                "hu": "Nézze az esőcseppek táncát a tó felszínén; parkoljon közvetlenül a vízpart közelében, és élvezze a kilátást a száraz, meleg autóból.",
+                "ro": "Priviți picăturile de ploaie pe suprafața lacului; parcați chiar lângă apă și bucurați-vă de priveliște din confortul mașinii uscate.",
+                "en": "Watch the heavy raindrops continuously dance on the lake surface; visibly park right near the water and completely enjoy the view from the dry car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das beheizte Auto ist ein wahrer Segen an einem frostigen Wintermorgen.\n\nMittags können Sie sich im Haus beim Spielen die Zehen komplett auftauen.\n\nNachmittags sehen Wald und Schlösser aus den warmen Autositzen atemberaubend aus.\n\nErleben Sie den eisigen Sonnenuntergang am See gegen 17:00 Uhr vom warmen Innenraum aus.",
+            "hu": "A fűtött autó igazi áldás a rendkívül fagyos, csípős téli reggeleken.\n\nDél körül térjen be egy benti helyre, hogy kiolvadjanak az átfagyott lábujjai.\n\nDélután az erdő és a kastélyok lenyűgözőek a meleg, kényelmes ülésekből nézve.\n\nCsípje el a 17:00 körüli jeges naplementét a tónál, mielőtt elmegy vacsorázni.",
+            "ro": "Mașina bine încălzită este o adevărată binecuvântare într-o dimineață geroasă.\n\nLa prânz, intrați la interior pentru a vă dezgheța complet degetele de la picioare.\n\nDupă-amiaza, pădurea și castelele arată uimitor din confortul scaunelor calde.\n\nPrindeți apusul înghețat de la ora 17:00 la lac, direct din interiorul mașinii.",
+            "en": "The actively heated car is a profound blessing on a heavily freezing winter morning.\n\nAround noon, step firmly indoors to thoroughly thaw your freezing toes completely.\n\nIn the afternoon, the forest and castles look definitively stunning from the warm seats.\n\nCatch the intensely icy sunset at the lake around 17:00 completely from the warm interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Vernée Castle",
+                "hu": "La Vernée kastély",
+                "ro": "Castelul La Vernée",
+                "en": "La Vernée Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht; heizen Sie das Auto vor und achten Sie beim Aussteigen auf überfrierende Nässe am Parkplatz.",
+                "hu": "A csupasz fák akadálytalan kilátást nyújtanak; fűtse elő az autót, és kiszálláskor nagyon vigyázzon a parkolóban kialakuló alattomos jégre.",
+                "ro": "Copacii goi oferă vederi clare; preîncălziți mașina și aveți grijă la gheața neagră periculoasă din parcare atunci când coborâți.",
+                "en": "The bare winter trees offer unobstructed views; pre-heat the car thoroughly and cautiously watch for black ice in the parking lot when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eusèbe",
+                "hu": "Église Saint-Eusèbe",
+                "ro": "Église Saint-Eusèbe",
+                "en": "Église Saint-Eusèbe"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Kircheninnere bietet einen warmen Zwischenstopp; lassen Sie Ihre dicken Mäntel nicht im Auto, da es drinnen recht kühl sein kann.",
+                "hu": "A templom belső tere békés megállót nyújt; ne hagyja a vastag kabátokat az autóban, mert az ódon falak között is igen hideg lehet.",
+                "ro": "Interiorul liniștit al bisericii oferă o oprire caldă; nu lăsați hainele groase în mașină, deoarece interiorul de piatră poate fi încă rece.",
+                "en": "The quiet church interior actively provides a peaceful stop; do not arbitrarily leave heavy coats in the car as the stone interior stays chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludilucky",
+                "hu": "Ludilucky",
+                "ro": "Ludilucky",
+                "en": "Ludilucky"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem beheizten Unterhaltungsbereich komplett auf; ein idealer Ort, um die Autotheizung für eine Weile ruhen zu lassen.",
+                "hu": "Melegedjen fel teljesen ebben a fűtött benti központban; ideális hely arra, hogy feltöltődjön energiával a további fagyos autózás előtt.",
+                "ro": "Încălziți-vă complet în această zonă de divertisment interioară; un loc ideal pentru a vă revigora corpul înainte de următoarele drumuri reci.",
+                "en": "Warm up entirely in this heated indoor entertainment area; an unequivocally ideal spot to fully recharge your body from the freezing conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Bécassinière",
+                "hu": "Château de la Bécassinière",
+                "ro": "Château de la Bécassinière",
+                "en": "Château de la Bécassinière"
+              },
+              "tip_5lang": {
+                "de": "Der nackte Stein sieht im Winter beeindruckend aus; fahren Sie extrem vorsichtig heran, da auf den kleinen Straßen Glatteis herrschen kann.",
+                "hu": "A zord kőépület lenyűgöző a téli tájban; rendkívül óvatosan közelítse meg autóval, mert a keskeny mellékutakon komoly tükörjég alakulhat ki.",
+                "ro": "Piatra arată impresionant în peisajul de iarnă; apropiați-vă extrem de atent, deoarece micile drumuri laterale pot avea gheață invizibilă.",
+                "en": "The stark stone prominently looks deeply impressive in winter; forcefully approach with extreme caution as narrow side roads hide dangerous black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saix",
+                "hu": "Château de Saix",
+                "ro": "Château de Saix",
+                "en": "Château de Saix"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang wirft ein goldenes Licht; beobachten Sie es gemütlich aus der warmen Kabine, während die Außentemperaturen rasant fallen.",
+                "hu": "A korai naplemente aranyfénybe öltözteti a falakat; csodálja meg a látványt a meleg utastérből, miközben a kinti hőmérséklet gyorsan zuhan.",
+                "ro": "Apusul timpuriu aruncă o strălucire aurie; priviți confortabil din cabina încălzită în timp ce temperaturile exterioare scad dramatic de repede.",
+                "en": "The early sunset casts a magnificent golden glow; calmly observe it from the explicitly warm cabin while outside temperatures rapidly plummet."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace naturel sensible de la forêt de Seillon",
+                "hu": "Espace naturel sensible de la forêt de Seillon",
+                "ro": "Espace naturel sensible de la forêt de Seillon",
+                "en": "Espace naturel sensible de la forêt de Seillon"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostbedeckte Stille; wenn Sie aussteigen, ziehen Sie sich extrem warm an und tragen Sie stark isolierte Winterstiefel.",
+                "hu": "Tapasztalja meg a zúzmarás csendet; ha úgy dönt, hogy kiszáll az autóból sétálni, öltözzön rendkívül melegen és viseljen vastagon bélelt csizmát.",
+                "ro": "Experimentați tăcerea înghețată; dacă alegeți să coborâți pentru o plimbare, îmbrăcați-vă extrem de gros și purtați cizme de iarnă bine izolate.",
+                "en": "Experience the deeply frost-covered silence; if choosing to step outside the car, thoroughly dress warmly and visibly wear heavily insulated boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Seillon Forest",
+                "hu": "Seillon erdő",
+                "ro": "Pădurea Seillon",
+                "en": "Seillon Forest"
+              },
+              "tip_5lang": {
+                "de": "Die Autofahrt durch die winterliche Kulisse ist wunderschön; überprüfen Sie Ihr Frostschutzmittel und fahren Sie mit angepasster Geschwindigkeit.",
+                "hu": "Az autózás a téli, csupasz fák között gyönyörű; ellenőrizze az ablakmosó fagyállóját, és a jeges szakaszokon nagyon lassan haladjon.",
+                "ro": "Condusul prin peisajul de iarnă cu copaci goi este frumos; verificați antigelul pentru parbriz și conduceți foarte lent pe porțiunile înghețate.",
+                "en": "Driving firmly through the winter scenery is unequivocally beautiful; strictly verify your antifreeze fluid and meticulously drive slowly on icy sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Bouvent",
+                "hu": "Lac de Bouvent",
+                "ro": "Lacul Bouvent",
+                "en": "Lac de Bouvent"
+              },
+              "tip_5lang": {
+                "de": "Der teilweise zugefrorene See um 17:00 Uhr ist atemberaubend; der Wind erfordert Ihren dicksten Mantel, wenn Sie das Auto verlassen.",
+                "hu": "A részben befagyott tó a 17:00 körüli naplementében lélegzetelállító; a metsző szél miatt itt kell a legvastagabb kabát és sál a kiszálláshoz.",
+                "ro": "Lacul parțial înghețat la ora 17:00 este uluitor; vântul extrem de tăios necesită cea mai groasă haină dacă vă decideți să părăsiți mașina.",
+                "en": "The partially completely frozen lake clearly at 17:00 sunset is breathtaking; the intensely bitter wind demands your thickest coat when exiting the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

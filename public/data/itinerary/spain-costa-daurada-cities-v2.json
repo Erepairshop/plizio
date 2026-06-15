@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a frissítő tengeri szellővel Cal Guinovart és La Pelliceta puha, aranyszínű homokos partjainál.\n\nDélre váltson a csillogó partvonalról a rádiózás történelmének lenyűgöző világába a helyi rádiómúzeumban.\n\nTöltse a délutánt azzal, hogy lenyűgöző fotókat készít a Földközi-tengerről a Punta de la Guineu és az el Tir de la Gallina sziklás kilátóiból.\n\nAhogy közeledik az este, találjon nyugalmat a fehérre meszelt tengerparti remetelakban, elgondolkodva a kultúra és a természet kiegyensúlyozott napján.",
         "ro": "Începeți dimineața simțind briza răcoroasă a mării pe nisipurile aurii și fine de la Cal Guinovart și La Pelliceta.\n\nLa prânz, treceți de la țărmul strălucitor în domeniul fascinant al istoriei radiodifuziunii, explorând muzeul local dedicat.\n\nPetreceți-vă după-amiaza surprinzând fotografii uimitoare ale Mediteranei din punctele de belvedere stâncoase de la Punta de la Guineu.\n\nPe măsură ce se apropie seara, găsiți liniștea la schitul alb de coastă, reflectând la o zi perfect echilibrată între cultură și natură.",
         "en": "Begin your morning feeling the refreshing sea breeze along the soft golden sands of Cal Guinovart and La Pelliceta.\n\nBy midday, transition from the sparkling shoreline into the fascinating realm of broadcasting history at the local radio museum.\n\nSpend your afternoon capturing stunning photographs of the Mediterranean from the rugged viewpoints at Punta de la Guineu and el Tir de la Gallina.\n\nAs evening approaches, find tranquility at the whitewashed coastal hermitage, reflecting on a beautifully balanced day of culture and nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt uns die Platja de Cal Guinovart mit dramatischen Regenwolken über dem Meer. Mittags bietet das Museu de la Radio den idealen, trockenen Rückzugsort voller Technikgeschichte. Am Nachmittag erkunden wir die neblige Küste von el Tir de la Gallina. Der Abend klingt an der geschützten Ermita Mare de Déu de Berà aus, während der Regen sanft gegen die alten Mauern klopft.",
+            "hu": "Reggel a Platja de Cal Guinovart partján a viharos tenger látványa fogad minket. Délben a rádiómúzeum fedett kiállítása tökéletes menedék a zápor elől. Délután a ködbe burkolózó el Tir de la Gallina sziklái misztikus hangulatot árasztanak. Az este a békés Ermita Mare de Déu de Berà kápolnájánál ér véget, ahol a templom előtere védelmet nyújt a szemerkélő esőben.",
+            "ro": "Dimineața începe la Platja de Cal Guinovart cu un cer dramatic și sunetul valurilor sub ploaie. La prânz, Museu de la Radio devine refugiul perfect, oferind o experiență culturală la adăpost. După-amiaza explorăm coasta cețoasă de la el Tir de la Gallina. Seara se încheie la Ermita Mare de Déu de Berà, unde arhitectura veche oferă un cadru liniștit și protejat de intemperii.",
+            "en": "Morning starts at Platja de Cal Guinovart with dramatic clouds and the rhythmic sound of rain on the waves. At noon, the Radio Museum provides a warm, dry sanctuary to explore vintage technology. Afternoon is spent observing the misty cliffs at el Tir de la Gallina. The walk concludes at Ermita Mare de Déu de Berà, where the historic porch offers a dry spot to reflect on the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platja de Cal Guinovart",
+                "hu": "Platja de Cal Guinovart",
+                "ro": "Platja de Cal Guinovart",
+                "en": "Platja de Cal Guinovart"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die kraftvolle Brandung des Regenmeeres von der Uferpromenade aus und tragen Sie unbedingt rutschfeste, wasserfeste Schuhe für den nassen Sandboden.",
+                "hu": "Csodálja meg a viharos tenger erejét a partról, de viseljen vízálló túracipőt, mert a vizes homok és a parti sétány ilyenkor csúszóssá és nehezen járhatóvá válhat.",
+                "ro": "Admirați puterea mării sub ploaie de pe faleză și purtați neapărat încălțăminte impermeabilă, deoarece nisipul ud poate fi foarte greu de parcurs și alunecos.",
+                "en": "Watch the powerful rainy sea from the promenade and be sure to wear waterproof shoes, as the wet sand and coastal paths can become slippery and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Pelliceta",
+                "hu": "Platja de la Pelliceta",
+                "ro": "Platja de la Pelliceta",
+                "en": "Platja de la Pelliceta"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Strandabschnitt wirkt im Regen besonders melancholisch; nutzen Sie die Felsvorsprünge als kurzen Unterstand, falls ein heftiger Schauer niedergeht.",
+                "hu": "Ez a kis öböl esőben különlegesen melankolikus; használja a sziklák természetes áthajlásait rövid menedékként, ha hirtelen felerősödne az égi áldás a séta alatt.",
+                "ro": "Această mică porțiune de plajă este melancolică sub ploaie; folosiți proeminențele stâncoase ca adăpost temporar în cazul în care ploaia se intensifică brusc.",
+                "en": "This small beach cove feels uniquely melancholic in the rain; use the natural rock overhangs as a brief shelter if the downpour intensifies during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Radio",
+                "hu": "Museu de la Radio",
+                "ro": "Museu de la Radio",
+                "en": "Museu de la Radio"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Regen auszusitzen; erkunden Sie die faszinierende Sammlung alter Radios in den trockenen und gut beheizten Ausstellungsräumen.",
+                "hu": "A tökéletes hely az eső kivárására; fedezze fel a régi rádiók lenyűgöző gyűjteményét a száraz és kényelmesen temperált belső kiállítóterekben.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii; explorați colecția fascinantă de aparate radio vechi în sălile de expoziție uscate și primitoare.",
+                "en": "The perfect spot to wait out the rain; explore the fascinating collection of vintage radios inside the dry and comfortably warm exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Punta de la Guineu",
+                "hu": "Platja de la Punta de la Guineu",
+                "ro": "Platja de la Punta de la Guineu",
+                "en": "Platja de la Punta de la Guineu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die neblige Landzunge, aber halten Sie Abstand zu den nassen Felsen am Wasser, da diese bei Regen extrem glatt sind.",
+                "hu": "Élvezze a kilátást a párás földnyelvre, de tartson biztonságos távolságot a vizes szikláktól, mert az esőben azok rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Bucurați-vă de priveliștea promontoriului cețos, dar păstrați distanța față de stâncile ude, deoarece acestea devin extrem de alunecoase atunci când plouă.",
+                "en": "Enjoy the views of the misty headland, but keep a safe distance from the wet rocks near the water as they become extremely slippery and hazardous in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "el Tir de la Gallina",
+                "hu": "el Tir de la Gallina",
+                "ro": "el Tir de la Gallina",
+                "en": "el Tir de la Gallina"
+              },
+              "tip_5lang": {
+                "de": "Die raue Natur zeigt hier bei grauem Himmel ihr wildes Gesicht; nehmen Sie einen stabilen Regenschirm mit, der auch dem Küstenwind standhalten kann.",
+                "hu": "A vad természet itt mutatja meg igazán zord arcát szürke égbolt mellett; vigyen magával erős esernyőt vagy esőkabátot, ami a parti szélnek is ellenáll.",
+                "ro": "Natura brută își arată fața sălbatică sub cerul gri; luați o umbrelă rezistentă sau o pelerină care să facă față vântului de coastă de aici.",
+                "en": "Raw nature shows its wild side here under grey skies; bring a sturdy umbrella or a windproof raincoat that can withstand the coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita Mare de Déu de Berà",
+                "hu": "Ermita Mare de Déu de Berà",
+                "ro": "Ermita Mare de Déu de Berà",
+                "en": "Ermita Mare de Déu de Berà"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour unter dem schützenden Dach des Kircheneingangs und genießen Sie die spirituelle Ruhe, während Sie auf das regnerische Meer blicken.",
+                "hu": "Zárja a túrát a templom bejáratának védelmező tetője alatt, és élvezze a spirituális csendet, miközben a távolban elmosódó esős tengert figyeli.",
+                "ro": "Încheiați turul sub acoperișul protector al intrării în biserică și bucurați-vă de liniștea spirituală în timp ce priviți marea ploioasă în depărtare.",
+                "en": "Finish your tour under the protective porch of the church entrance and enjoy the spiritual silence while watching the rainy sea in the distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Platja de Cal Guinovart ist klar und erfrischend ruhig. Mittags wärmen wir uns bei einem kulturellen Besuch im Radiomuseum auf. Am Nachmittag taucht die tiefstehende Wintersonne el Tir de la Gallina in ein goldenes Licht. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir die Ermita Mare de Déu de Berà pünktlich zur magischen Dämmerung.",
+            "hu": "A téli reggel a Platja de Cal Guinovart partján frissítően hideg és csendes. Délben a rádiómúzeum kulturális kincsei között melegszünk fel a tengeri szél után. Délután az alacsonyan járó nap aranyba öltözteti el Tir de la Gallina szikláit. Mivel 17:00 körül már sötétedik, a kápolnához éppen a legszebb alkonyati fényekben érkezünk meg.",
+            "ro": "Dimineața de iarnă la Platja de Cal Guinovart este clară și revigorant de liniștită. La prânz, ne încălzim printre comorile culturale de la Museu de la Radio. După-amiaza, soarele de iarnă îmbracă el Tir de la Gallina într-o lumină aurie. Deoarece apusul are loc în jurul orei 17:00, ajungem la ermitaj exact la ora amurgului magic.",
+            "en": "A winter morning at Platja de Cal Guinovart is crisp, clear, and refreshingly quiet. At noon, we warm up while exploring the indoor cultural treasures of the Radio Museum. Afternoon brings golden low-angle light to the cliffs of el Tir de la Gallina. Since sunset is around 5 PM, we reach the chapel just in time for the magical winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platja de Cal Guinovart",
+                "hu": "Platja de Cal Guinovart",
+                "ro": "Platja de Cal Guinovart",
+                "en": "Platja de Cal Guinovart"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des weiten Strandes in der klaren Winterluft, aber tragen Sie eine winddichte Jacke gegen die kühle Brise vom Mittelmeer.",
+                "hu": "Élvezze a széles tengerparti magányt a tiszta téli levegőn, de viseljen szélálló kabátot a Földközi-tenger felől érkező hűvös fuvallatok ellen.",
+                "ro": "Bucurați-vă de singurătatea plajei largi în aerul curat de iarnă, dar purtați o jachetă rezistentă la vânt împotriva brizelor reci ale Mediteranei.",
+                "en": "Enjoy the solitude of the wide beach in the clear winter air, but be sure to wear a windproof jacket against the cool breezes from the Mediterranean."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Pelliceta",
+                "hu": "Platja de la Pelliceta",
+                "ro": "Platja de la Pelliceta",
+                "en": "Platja de la Pelliceta"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne glitzert wunderschön im klaren Wasser; ideal für Fotos, bevor es am späten Nachmittag in den Schatten der Küstenfelsen fällt.",
+                "hu": "Az alacsony téli nap gyönyörűen csillog a tiszta vízben; tökéletes időpont a fotózáshoz, mielőtt a délutáni órákban a sziklák árnyéka eléri az öblöt.",
+                "ro": "Soarele de iarnă sclipește superb în apa limpede; moment ideal pentru fotografii înainte ca umbra stâncilor să cuprindă golful după-amiaza.",
+                "en": "The low winter sun glitters beautifully in the clear water; perfect for photos before the shadows of the coastal rocks cover the cove in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Radio",
+                "hu": "Museu de la Radio",
+                "ro": "Museu de la Radio",
+                "en": "Museu de la Radio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für einen Besuch im Inneren, um sich aufzuwärmen und die beeindruckende Radiosammlung ohne sommerliche Touristenströme zu erleben.",
+                "hu": "Használja ki a déli időt a benti látogatásra, hogy felmelegedjen, és fedezze fel a rádiógyűjteményt a nyári turistaáradat nélküli nyugalomban.",
+                "ro": "Profitați de orele prânzului pentru o vizită în interior pentru a vă încălzi și pentru a explora colecția de radiouri fără aglomerația de vară.",
+                "en": "Use the midday hours for an indoor visit to warm up and explore the impressive radio collection in the peace and quiet away from summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Punta de la Guineu",
+                "hu": "Platja de la Punta de la Guineu",
+                "ro": "Platja de la Punta de la Guineu",
+                "en": "Platja de la Punta de la Guineu"
+              },
+              "tip_5lang": {
+                "de": "Der Winter bietet hier die klarste Fernsicht entlang der Costa Daurada; packen Sie eine Thermoskanne mit warmem Tee für eine kurze Pause am Aussichtspunkt ein.",
+                "hu": "A tél kínálja itt a legtisztább kilátást a Costa Daurada mentén; vigyen magával termoszban meleg teát egy rövid pihenőhöz a kilátópontnál.",
+                "ro": "Iarna oferă aici cele mai clare panorame de-a lungul Costa Daurada; luați un termos cu ceai cald pentru o scurtă pauză la punctul de observație.",
+                "en": "Winter offers the clearest long-distance views along the Costa Daurada; pack a thermos with warm tea for a short break at the lookout point."
+              }
+            },
+            {
+              "name": {
+                "de": "el Tir de la Gallina",
+                "hu": "el Tir de la Gallina",
+                "ro": "el Tir de la Gallina",
+                "en": "el Tir de la Gallina"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation wirkt im Winter karg, aber die Felsformationen kommen im harten Licht besser zur Geltung; achten Sie auf festes Schuhwerk auf den kühlen Pfaden.",
+                "hu": "A növényzet télen gyérebb, de a sziklák formái az éles fényben jobban érvényesülnek; figyeljen a stabil lábbelire a hűvös, néhol nyirkos ösvényeken.",
+                "ro": "Vegetația este mai rară iarna, dar formele stâncilor ies mai bine în evidență în lumina puternică; purtați încălțăminte stabilă pe potecile reci.",
+                "en": "Vegetation is sparser in winter, but the rock formations stand out more in the sharp light; ensure you have sturdy footwear for the cool, damp paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita Mare de Déu de Berà",
+                "hu": "Ermita Mare de Déu de Berà",
+                "ro": "Ermita Mare de Déu de Berà",
+                "en": "Ermita Mare de Déu de Berà"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang hinter der Kapelle zu erleben; danach sinken die Temperaturen an der Küste sehr schnell.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy lássa a naplementét a kápolna mögött; utána a hőmérséklet a parton nagyon gyorsan csökkenni kezd.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a prinde apusul în spatele ermitajului; după aceea, temperaturile pe coastă scad foarte rapid.",
+                "en": "Arrive before 5 PM to catch the sunset behind the chapel; after that, temperatures on the coast drop very quickly, so dress warmly for the return."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros kalandját egy ókori római diadalív megcsodálásával és a Cal Piles történelmi maradványainak felfedezésével.\n\nDélben tekerjen a partvonal felé, hogy felfedezze a békés tengerparti remetelakot, és pihenjen a Platja dels Capellans családbarát partjain.\n\nDélután élvezze a festői utazást az el Tir de la Gallina természetes sziklái mentén, mielőtt elmerülne a Rádiómúzeum régi gyűjteményeiben.\n\nZárja aktív napját azzal, hogy elteker a Platja del Francàs kiterjedt homokjához, ahol a halványuló fény élénk naplemente színekre festi az eget.",
         "ro": "Începeți-vă aventura pe bicicletă admirând un arc de triumf roman antic și explorând rămășițele istorice fascinante de la Cal Piles.\n\nPedalați spre coastă la prânz pentru a descoperi schitul liniștit de la malul mării și a vă relaxa pe țărmurile plajei Platja dels Capellans.\n\nDupă-amiaza, bucurați-vă de o plimbare pitorească de-a lungul stâncilor de la el Tir de la Gallina, înainte de a explora muzeul radio.\n\nÎncheiați-vă ziua activă pedalând spre nisipurile întinse de la Platja del Francàs, unde lumina estompată pictează cerul în culori vibrante de apus.",
         "en": "Kick off your cycling adventure by marveling at an ancient Roman triumphal arch and exploring the storied historical remnants of Cal Piles.\n\nPedal towards the coastline at midday to discover the peaceful seaside hermitage and relax on the family-friendly shores of Platja dels Capellans.\n\nIn the afternoon, enjoy a scenic ride along the natural cliffs of el Tir de la Gallina before immersing yourself in vintage collections at the Radio Museum.\n\nConclude your active day by cycling to the expansive sands of Platja del Francàs, where the fading light paints the coastal sky in vibrant sunset colors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour beginnt am Berà-Bogen unter bewölktem Himmel. Wir radeln vorsichtig auf nassen Straßen zur Ermita Mare de Déu de Berà. Mittags bietet das Radiomuseum den perfekten trockenen Stopp für erschöpfte Radfahrer. Den Nachmittag verbringen wir an der regnerischen Platja del Francàs, bevor wir unsere Tour mit erhöhter Vorsicht auf den rutschigen Wegen beenden.",
+            "hu": "Biciklitúránk a Berà-ívnél indul borús időben. Óvatosan tekerünk a vizes utakon az Ermita Mare de Déu de Berà felé. Délben a rádiómúzeum kínál tökéletes száraz pihenőt az elfáradt kerékpárosoknak. A délutánt az esős Platja del Francàs partján töltjük, majd fokozott figyelemmel fejezzük be az utat a csúszós szakaszokon.",
+            "ro": "Turul nostru pe bicicletă începe la Arcul Berà sub un cer noros. Pedalam cu atenție pe drumurile ude spre Ermita Mare de Déu de Berà. La prânz, muzeul radio oferă popasul uscat perfect pentru bicicliștii obosiți. După-amiaza o petrecem pe plaja ploioasă Platja del Francàs, înainte de a încheia turul cu prudență sporită pe potecile alunecoase.",
+            "en": "Our cycling tour starts at the Berà Arch under overcast skies. We pedal carefully along wet roads towards Ermita Mare de Déu de Berà. At noon, the radio museum provides the perfect dry stop for weary cyclists. We spend the afternoon by the rainy Platja del Francàs before finishing the tour with extra caution on the slippery coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Berà Arch",
+                "hu": "Berà Arch",
+                "ro": "Berà Arch",
+                "en": "Berà Arch"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das römische Monument kurz im Regen und achten Sie beim Anfahren auf die glatten Fahrbahnmarkierungen in der Nähe des Denkmals.",
+                "hu": "Csodálja meg a római emlékművet az esőben is, de induláskor figyeljen a csúszós felfestésekre az úttesten a műemlék közvetlen közelében.",
+                "ro": "Admirați monumentul roman chiar și în ploaie și aveți grijă la marcajele rutiere alunecoase de lângă monument atunci când porniți la drum.",
+                "en": "Admire the Roman monument even in the rain, and be careful of the slippery road markings near the monument when starting your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Piles",
+                "hu": "Cal Piles",
+                "ro": "Cal Piles",
+                "en": "Cal Piles"
+              },
+              "tip_5lang": {
+                "de": "Ein historischer Ort, der bei Regen oft menschenleer ist; parken Sie Ihr Fahrrad an einem geschützten Platz, um den Sattel trocken zu halten.",
+                "hu": "Történelmi helyszín, amely esőben gyakran teljesen üres; parkolja le kerékpárját egy védett helyen, hogy a nyereg száraz maradjon a látogatás alatt.",
+                "ro": "Un loc istoric care este adesea pustiu pe ploaie; parcați bicicleta într-un loc protejat pentru a păstra șaua uscată în timpul vizitei.",
+                "en": "A historical site that is often deserted in the rain; park your bike in a sheltered spot to keep the saddle dry during your brief exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita Mare de Déu de Berà",
+                "hu": "Ermita Mare de Déu de Berà",
+                "ro": "Ermita Mare de Déu de Berà",
+                "en": "Ermita Mare de Déu de Berà"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle kann bei Regen schlammig sein; bremsen Sie frühzeitig vor Kurven und nutzen Sie den Kircheneingang für eine kurze Regenpause.",
+                "hu": "A kápolnához vezető út esőben sáros lehet; fékezzen időben a kanyarok előtt, és használja a templom bejáratát egy rövid esőpihenőre.",
+                "ro": "Drumul spre ermitaj poate fi noroios pe ploaie; frânați din timp înainte de curbe și folosiți intrarea bisericii pentru o scurtă pauză de ploaie.",
+                "en": "The path to the chapel can be muddy in the rain; brake early before turns and use the church entrance for a brief dry break from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Capellans",
+                "hu": "Platja dels Capellans",
+                "ro": "Platja dels Capellans",
+                "en": "Platja dels Capellans"
+              },
+              "tip_5lang": {
+                "de": "Die Strandwege sind bei Regen rutschig; fahren Sie langsam und genießen Sie den Blick auf das graue Meer, bevor Sie zum Museum weiterziehen.",
+                "hu": "A tengerparti utak esőben csúszósak; tekerjen lassan, és élvezze a szürke tenger látványát, mielőtt továbbindulna a múzeum felé.",
+                "ro": "Drumurile de coastă sunt alunecoase pe ploaie; pedalați încet și bucurați-vă de vederea mării gri înainte de a merge mai departe spre muzeu.",
+                "en": "Coastal paths are slippery in the rain; cycle slowly and enjoy the view of the grey sea before heading further towards the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "el Tir de la Gallina",
+                "hu": "el Tir de la Gallina",
+                "ro": "el Tir de la Gallina",
+                "en": "el Tir de la Gallina"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Naturpfaden; ein guter Spritzschutz am Fahrrad ist hier bei Regen Gold wert für Ihre Kleidung.",
+                "hu": "Vigyázzon a mély tócsákra a természetes ösvényeken; egy jó sárvédő a biciklin ilyenkor aranyat ér a ruházata védelme érdekében.",
+                "ro": "Atenție la bălțile adânci de pe potecile naturale; o apărătoare bună la bicicletă valorează aur pentru protecția hainelor dumneavoastră.",
+                "en": "Watch out for deep puddles on the natural paths; a good mudguard on your bike is worth its weight in gold here to protect your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Radio",
+                "hu": "Museu de la Radio",
+                "ro": "Museu de la Radio",
+                "en": "Museu de la Radio"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die Zeit drinnen zum Trocknen; die Radiosammlung ist eine großartige Abwechslung zum nassen Draußen.",
+                "hu": "Támassza le biztonságosan a biciklit, és használja a benti időt a száradásra; a rádiógyűjtemény remek váltás a vizes kinti világ után.",
+                "ro": "Parcați bicicleta în siguranță și folosiți timpul petrecut în interior pentru a vă usca; colecția de radiouri este o alternativă excelentă la ploaie.",
+                "en": "Park your bike securely and use the time inside to dry off; the radio collection is a great alternative to the wet outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Francàs",
+                "hu": "Platja del Francàs",
+                "ro": "Platja del Francàs",
+                "en": "Platja del Francàs"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour bietet eine raue Küstenatmosphäre; prüfen Sie nach der Fahrt Ihre Bremsen, da Sand und Regen den Verschleiß erhöhen können.",
+                "hu": "A túra vége zord parti hangulatot áraszt; a tekerés után ellenőrizze a fékeket, mert a homok és az eső növelheti a kopást.",
+                "ro": "Sfârșitul turului oferă o atmosferă de coastă aspră; după cursă, verificați frânele, deoarece nisipul și ploaia pot accelera uzura.",
+                "en": "The end of the tour offers a raw coastal atmosphere; after the ride, check your brakes as sand and rain can increase wear and tear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Berà-Bogen mit klarer Sicht. Die Radstrecke führt uns entlang der ruhigen Küste zur Ermita Mare de Déu de Berà. Mittags bietet das Radiomuseum eine willkommene Aufwärmpause. Den Nachmittag genießen wir an der einsamen Platja del Francàs unter der tiefstehenden Sonne, bevor wir unsere Tour vor dem frühen Einbruch der Dunkelheit um 17:00 Uhr beenden.",
+            "hu": "Friss téli reggel indul a Berà-ívnél tiszta látási viszonyok mellett. A kerékpárút a csendes part mentén vezet az Ermita Mare de Déu de Berà felé. Délben a rádiómúzeum kínál szívesen látott melegedő szünetet. A délutánt a magányos Platja del Francàs partján élvezzük az alacsony napfényben, mielőtt 17:00 előtt befejeznénk a túrát.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Arcul Berà cu o vizibilitate clară. Traseul pe bicicletă ne poartă de-a lungul coastei liniștite spre Ermita Mare de Déu de Berà. La prânz, muzeul radio oferă o pauză binemeritată pentru încălzire. După-amiaza ne bucurăm de plaja pustie Platja del Francàs sub soarele blând, înainte de lăsarea întunericului la ora 17:00.",
+            "en": "A crisp winter morning begins at the Berà Arch with excellent visibility. The cycling route takes us along the quiet coast towards Ermita Mare de Déu de Berà. At noon, the radio museum offers a welcome warm-up break. We enjoy the afternoon at the solitary Platja del Francàs under the low sun, finishing our tour before the early darkness sets in at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Berà Arch",
+                "hu": "Berà Arch",
+                "ro": "Berà Arch",
+                "en": "Berà Arch"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Morgen sehr kalt sein kann; das Monument wirkt im klaren Winterlicht besonders scharf.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél reggel nagyon hideg lehet; az emlékmű a tiszta téli fényben különösen éles kontúrokkal látszik.",
+                "ro": "Purtați mănuși călduroase, deoarece vântul poate fi foarte rece dimineața; monumentul se vede cu contururi clare în lumina pură a iernii.",
+                "en": "Wear warm gloves as the wind chill can be very cold in the morning; the monument looks particularly sharp in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Piles",
+                "hu": "Cal Piles",
+                "ro": "Cal Piles",
+                "en": "Cal Piles"
+              },
+              "tip_5lang": {
+                "de": "Die historische Stätte ist im Winter herrlich ruhig; nutzen Sie den Stopp für ein paar Aufwärmübungen, um die Blutzirkulation beim Radfahren zu fördern.",
+                "hu": "A történelmi helyszín télen csodásan csendes; használja ki a megállót néhány bemelegítő gyakorlatra, hogy serkentse a vérkeringést tekerés közben.",
+                "ro": "Situl istoric este minunat de liniștit iarna; folosiți oprirea pentru câteva exerciții de încălzire pentru a stimula circulația în timpul pedalatului.",
+                "en": "The historic site is wonderfully quiet in winter; use the stop for a few warm-up exercises to boost circulation while cycling in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita Mare de Déu de Berà",
+                "hu": "Ermita Mare de Déu de Berà",
+                "ro": "Ermita Mare de Déu de Berà",
+                "en": "Ermita Mare de Déu de Berà"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterlich blaue Meer; die kühle Luft lässt die Farben der Küste besonders intensiv erscheinen.",
+                "hu": "Élvezze a tágas kilátást a télies kék tengerre; a hűvös levegő miatt a part színei különösen intenzívnek és tisztának tűnnek.",
+                "ro": "Bucurați-vă de priveliștea largă asupra mării albastre de iarnă; aerul rece face ca culorile coastei să pară deosebit de intense și clare.",
+                "en": "Enjoy the expansive view of the wintry blue sea; the cool air makes the colors of the coast appear particularly intense and sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja dels Capellans",
+                "hu": "Platja dels Capellans",
+                "ro": "Platja dels Capellans",
+                "en": "Platja dels Capellans"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpromenade ist fast leer und ideal zum entspannten Radfahren; achten Sie jedoch auf feuchte Stellen im Schatten der Gebäude.",
+                "hu": "A tengerparti sétány szinte üres, ideális a nyugodt tekeréshez; figyeljen azonban a nedves foltokra az épületek árnyékos oldalán.",
+                "ro": "Faleza este aproape goală, ideală pentru o pedalare relaxată; totuși, fiți atenți la porțiunile umede din umbra clădirilor.",
+                "en": "The beach promenade is almost empty and ideal for relaxed cycling; however, watch out for damp patches in the shadows of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "el Tir de la Gallina",
+                "hu": "el Tir de la Gallina",
+                "ro": "el Tir de la Gallina",
+                "en": "el Tir de la Gallina"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Anstieg, der Sie an kalten Tagen schnell aufwärmt; genießen Sie das raue Panorama der Costa Daurada im Winter.",
+                "hu": "Rövid, intenzív emelkedő, amely a hideg napokon gyorsan felmelegíti; élvezze a Costa Daurada zord panorámáját téli köntösben.",
+                "ro": "O urcare scurtă și intensă care vă va încălzi rapid în zilele reci; bucurați-vă de panorama aspră a Costa Daurada în haine de iarnă.",
+                "en": "A short, sharp climb that will quickly warm you up on cold days; enjoy the raw winter panorama of the Costa Daurada from this vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Radio",
+                "hu": "Museu de la Radio",
+                "ro": "Museu de la Radio",
+                "en": "Museu de la Radio"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kälteste Stunde des Tages; das Museum bietet eine faszinierende Reise durch die Zeit in angenehmer Wärme.",
+                "hu": "Töltse itt a nap leghidegebb óráját; a múzeum lenyűgöző időutazást kínál kellemes melegben, távol a tengeri széltől.",
+                "ro": "Petreceți aici cea mai rece oră a zilei; muzeul oferă o călătorie fascinantă în timp, într-o căldură plăcută, departe de vântul mării.",
+                "en": "Spend the coldest hour of the day here; the museum offers a fascinating journey through time in pleasant warmth, away from the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Francàs",
+                "hu": "Platja del Francàs",
+                "ro": "Platja del Francàs",
+                "en": "Platja del Francàs"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor 17:00 Uhr, da das Licht schnell schwindet; reflektierende Kleidung ist für den Heimweg im Winter sehr wichtig.",
+                "hu": "Fejezze be a túrát 17:00 előtt, mert a fény gyorsan fogy; a hazaútra a téli szürkületben nagyon fontos a fényvisszaverő ruházat.",
+                "ro": "Încheiați turul înainte de ora 17:00, deoarece lumina scade rapid; îmbrăcămintea reflectorizantă este foarte importantă pentru drumul de întoarcere.",
+                "en": "Finish your ride before 5 PM as the light fades quickly; reflective clothing is very important for the return journey in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje a reggelt a szárazföld belsejében, vidéki utakon navigálva, hogy felfedezze a Masieta del Virgili és a Corral del Xicu autentikus mezőgazdasági örökségét.\n\nDél körül vezessen le a partra, álljon meg megcsodálni a fenséges Berà diadalívet, mielőtt élvezné a napsütötte szünetet a Platja Llarga strandon.\n\nTöltsön el egy lenyűgöző délutánt a békés tengerparti remetelak meglátogatásával és a helyi múzeum rádiózási történelmébe való elmerüléssel.\n\nFejezze be változatos autós utazását a Platja del Francàs közelében parkolva, ahol megpihenhet az aranyhomokon, ahogy a szürkület leszáll a Costa Dauradára.",
         "ro": "Începeți dimineața în interiorul țării, navigând pe cărări rurale pentru a descoperi moștenirea agricolă autentică păstrată la Masieta del Virgili și Corral del Xicu.\n\nLa prânz, conduceți spre coastă, oprindu-vă pentru a admira maiestuosul Arc Berà înainte de a vă bucura de o pauză lungă și însorită la Platja Llarga.\n\nPetreceți o după-amiază fascinantă vizitând schitul liniștit de la malul mării și scufundându-vă în istoria radiodifuziunii la muzeul local.\n\nTerminați-vă călătoria parcând lângă Platja del Francàs, unde vă puteți relaxa pe nisipurile aurii în timp ce amurgul se lasă ușor peste Costa Daurada.",
         "en": "Start your morning inland, navigating rural paths to uncover the authentic agricultural heritage preserved at Masieta del Virgili and Corral del Xicu.\n\nBy midday, drive down to the coast, stopping to admire the majestic Berà Arch before enjoying a long, sun-drenched pause at Platja Llarga.\n\nSpend a fascinating afternoon visiting the serene seaside hermitage and diving into eclectic broadcasting history at the local museum.\n\nFinish your diverse road trip parking near Platja del Francàs, where you can unwind on the golden sands as dusk gently settles over the Costa Daurada."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Fahrt beginnt an der Masieta del Virgili, während der Regen auf das Autodach trommelt. Wir erkunden historische Ruinen bequem aus dem Wagen heraus. Mittags ist das Radiomuseum der ideale trockene Stopp mit Parkplätzen in der Nähe. Den Nachmittag verbringen wir an der Platja Llarga de Berà, wo wir das stürmische Meer sicher von innen beobachten können.",
+            "hu": "Utunk a Masieta del Virgili-nél indul, miközben az eső kopog az autótetőn. A történelmi romokat kényelmesen, az autóból is megcsodálhatjuk. Délben a rádiómúzeum ideális száraz megálló, közeli parkolási lehetőséggel. A délutánt a Platja Llarga de Berà partján töltjük, ahol a viharos tengert biztonságban, belülről figyelhetjük.",
+            "ro": "Călătoria noastră începe la Masieta del Virgili în timp ce ploaia bate în plafonul mașinii. Explorăm ruinele istorice confortabil din interiorul vehiculului. La prânz, muzeul radio este popasul uscat ideal, cu parcare în apropiere. După-amiaza o petrecem la Platja Llarga de Berà, unde putem observa marea agitată în siguranță din interior.",
+            "en": "Our drive starts at Masieta del Virgili with rain drumming on the car roof. We explore the historic ruins comfortably from within the vehicle. At noon, the radio museum is the ideal dry stop with parking available nearby. Afternoon is spent at Platja Llarga de Berà, where we can safely watch the stormy sea from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masieta del Virgili",
+                "hu": "Masieta del Virgili",
+                "ro": "Masieta del Virgili",
+                "en": "Masieta del Virgili"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und nutzen Sie die kurzen Regenpausen für Fotos von den historischen Mauern dieses alten Gutshofes.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, és használja ki a rövid esőszüneteket a régi udvarház történelmi falainak fotózására.",
+                "ro": "Parcați cât mai aproape de intrare și profitați de scurte pauze de ploaie pentru a fotografia zidurile istorice ale acestui vechi conac.",
+                "en": "Park as close to the entrance as possible and use brief breaks in the rain to take photos of the historic walls of this old farmhouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Corral del Xicu",
+                "hu": "Corral del Xicu",
+                "ro": "Corral del Xicu",
+                "en": "Corral del Xicu"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Zufahrten können bei Regen schlammig sein; fahren Sie vorsichtig und meiden Sie tiefe Pfützen, um nicht steckenzubleiben.",
+                "hu": "A nem aszfaltozott bevezetők esőben sárosak lehetnek; vezessen óvatosan, és kerülje a mély tócsákat, hogy ne akadjon el az autóval.",
+                "ro": "Drumurile de acces neasfaltate pot fi noroioase pe ploaie; conduceți cu atenție și evitați bălțile adânci pentru a nu rămâne blocați cu mașina.",
+                "en": "The unpaved access roads can be muddy in the rain; drive carefully and avoid deep puddles to ensure you don't get stuck with your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Berà Arch",
+                "hu": "Berà Arch",
+                "ro": "Berà Arch",
+                "en": "Berà Arch"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Blickfang direkt an der Straße; Sie können das Denkmal kurz aus dem Fenster bewundern, falls der Regen gerade zu stark ist.",
+                "hu": "Nagyszerű látvány közvetlenül az út mellett; az emlékművet az autó ablakából is megcsodálhatja, ha az eső éppen túl intenzíven esne.",
+                "ro": "O priveliște minunată chiar lângă drum; puteți admira monumentul chiar de la fereastra mașinii dacă ploaia este prea intensă în acel moment.",
+                "en": "A great sight right by the road; you can admire the monument through your car window if the rain is too intense for a walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja Llarga de Berà",
+                "hu": "Platja Llarga de Berà",
+                "ro": "Platja Llarga de Berà",
+                "en": "Platja Llarga de Berà"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Strand bietet eine großartige Aussicht auf die Brandung; genießen Sie die maritime Atmosphäre im trockenen Inneren Ihres Autos.",
+                "hu": "A közvetlenül a parton található parkoló remek kilátást nyújt a hullámokra; élvezze a tengeri hangulatot az autó száraz és meleg belsejéből.",
+                "ro": "Parcarea situată chiar pe plajă oferă o vedere excelentă asupra valurilor; bucurați-vă de atmosfera marină din interiorul uscat al mașinii.",
+                "en": "The parking lot right by the beach offers a great view of the surf; enjoy the maritime atmosphere from the dry and warm interior of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita Mare de Déu de Berà",
+                "hu": "Ermita Mare de Déu de Berà",
+                "ro": "Ermita Mare de Déu de Berà",
+                "en": "Ermita Mare de Déu de Berà"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zum Hügel hinauf und nutzen Sie den Kircheneingang als Unterstand, wenn Sie das Auto für die Besichtigung verlassen.",
+                "hu": "Vezessen óvatosan fel a dombra, és használja a templom bejáratát védett helyként, amikor kiszáll az autóból a rövid látogatás idejére.",
+                "ro": "Conduceți cu atenție pe deal și folosiți intrarea bisericii ca loc protejat atunci când coborâți din mașină pentru vizita scurtă.",
+                "en": "Drive carefully up the hill and use the church entrance as a sheltered spot when you leave the car for your brief visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Radio",
+                "hu": "Museu de la Radio",
+                "ro": "Museu de la Radio",
+                "en": "Museu de la Radio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen und verbringen Sie eine entspannte Zeit drinnen; die Sammlung ist perfekt für einen regnerischen Nachmittag.",
+                "hu": "Parkoljon a környező utcákban, és töltsön el egy nyugodt órát bent; a gyűjtemény tökéletes program egy esős délutánra az út során.",
+                "ro": "Parcați pe străzile din jur și petreceți un timp relaxat în interior; colecția este programul perfect pentru o după-amiază ploioasă.",
+                "en": "Park in the surrounding streets and spend a relaxed hour inside; the collection is the perfect activity for a rainy afternoon on your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Francàs",
+                "hu": "Platja del Francàs",
+                "ro": "Platja del Francàs",
+                "en": "Platja del Francàs"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss der Tour; achten Sie auf die Sichtverhältnisse bei Regen und prüfen Sie Ihre Scheibenwischer vor der Rückfahrt.",
+                "hu": "Hangulatos befejezése a túrának; figyeljen a látási viszonyokra az esőben, és ellenőrizze az ablaktörlőket a hazaindulás előtt.",
+                "ro": "Un final de tur plin de atmosferă; fiți atenți la vizibilitatea pe ploaie și verificați ștergătoarele înainte de a porni spre casă.",
+                "en": "An atmospheric end to the tour; pay attention to visibility in the rain and check your wipers before starting the journey back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns zur Masieta del Virgili. Wir genießen die Fahrt entlang der sonnigen, aber kühlen Küstenstraße. Mittags wärmen wir uns im interessanten Radiomuseum auf. Den Nachmittag verbringen wir an der Platja Llarga de Berà, wo die tiefstehende Wintersonne das Meer glitzern lässt, bevor wir gegen 17:00 Uhr die Tour beenden.",
+            "hu": "Tiszta téli reggel vezet minket a Masieta del Virgili-hez. Élvezzük az autózást a napsütéses, de hűvös parti utak mentén. Délben a rádiómúzeum érdekes kiállítása alatt melegszünk fel. A délutánt a Platja Llarga de Berà partján töltjük, ahol az alacsony téli nap megcsillogtatja a tengert, mielőtt 17:00-kor zárnánk a túrát.",
+            "ro": "O dimineață senină de iarnă ne conduce spre Masieta del Virgili. Ne bucurăm de drumul de-a lungul coastei însorite, dar răcoroase. La prânz, ne încălzim în cadrul interesantei expoziții de la Museu de la Radio. După-amiaza o petrecem la Platja Llarga de Berà, unde soarele de iarnă face marea să sclipească, înainte de a încheia turul la ora 17:00.",
+            "en": "A clear winter morning leads us to Masieta del Virgili. We enjoy driving along the sunny but cool coastal roads. At noon, we warm up during a visit to the interesting Radio Museum. Afternoon is spent at Platja Llarga de Berà, where the low winter sun makes the sea sparkle, before concluding the tour around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masieta del Virgili",
+                "hu": "Masieta del Virgili",
+                "ro": "Masieta del Virgili",
+                "en": "Masieta del Virgili"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht auf die winterlichen Felder; die kühle Morgenluft macht die Farben der historischen Mauern besonders lebendig.",
+                "hu": "Élvezze a tiszta kilátást a télies mezőkre; a hűvös reggeli levegő miatt a történelmi falak színei különösen élénknek hatnak.",
+                "ro": "Bucurați-vă de vederea clară asupra câmpurilor de iarnă; aerul rece al dimineții face ca culorile zidurilor istorice să pară deosebit de vii.",
+                "en": "Enjoy the clear views over the wintry fields; the crisp morning air makes the colors of the historic walls appear particularly vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Corral del Xicu",
+                "hu": "Corral del Xicu",
+                "ro": "Corral del Xicu",
+                "en": "Corral del Xicu"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für einen kurzen Fotostopp; die tiefstehende Sonne erzeugt lange Schatten an den Ruinen, was ideal für Architekturfotos ist.",
+                "hu": "Csendes helyszín egy rövid fotómegállóhoz; az alacsonyan járó nap hosszú árnyékokat vet a romokra, ami ideális az építészeti fotókhoz.",
+                "ro": "Un loc liniștit pentru o scurtă pauză foto; soarele jos creează umbre lungi pe ruine, ceea ce este ideal pentru fotografiile de arhitectură.",
+                "en": "A quiet spot for a short photo stop; the low sun casts long shadows across the ruins, which is ideal for architectural photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Berà Arch",
+                "hu": "Berà Arch",
+                "ro": "Berà Arch",
+                "en": "Berà Arch"
+              },
+              "tip_5lang": {
+                "de": "Das römische Monument erstrahlt im klaren Winterlicht; halten Sie kurz an der Straßenseite an, um den Bogen ohne Sommertouristen zu fotografieren.",
+                "hu": "A római emlékmű ragyog a tiszta téli fényben; álljon meg egy pillanatra az út szélén, hogy a nyári turisták nélkül fotózhassa le az ívet.",
+                "ro": "Monumentul roman strălucește în lumina clară a iernii; opriți un moment pe marginea drumului pentru a fotografia arcul fără turiștii de vară.",
+                "en": "The Roman monument glows in the clear winter light; stop briefly by the roadside to photograph the arch without the usual summer tourists."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja Llarga de Berà",
+                "hu": "Platja Llarga de Berà",
+                "ro": "Platja Llarga de Berà",
+                "en": "Platja Llarga de Berà"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Auto kurz zu verlassen; die Meeresbrise ist kalt, aber die Sonne am Strand wärmt an windstillen Stellen angenehm auf.",
+                "hu": "Remek hely, hogy kicsit kiszálljon az autóból; a tengeri szél hideg, de a napsütés a parton a szélvédett helyeken kellemesen melengető.",
+                "ro": "Un loc minunat pentru a coborî puțin din mașină; briza mării este rece, dar soarele de pe plajă încălzește plăcut în locurile ferite de vânt.",
+                "en": "A great spot to briefly step out of the car; the sea breeze is cold, but the sun on the beach warms you up pleasantly in sheltered spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita Mare de Déu de Berà",
+                "hu": "Ermita Mare de Déu de Berà",
+                "ro": "Ermita Mare de Déu de Berà",
+                "en": "Ermita Mare de Déu de Berà"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am frühen Nachmittag; von hier oben haben Sie den besten Panoramablick auf die winterliche Costa Daurada.",
+                "hu": "Látogassa meg a kápolnát a kora délutáni órákban; innen fentről nyílik a legjobb panoráma a télies Costa Daurada tengerpartjára.",
+                "ro": "Vizitați ermitajul în orele devreme ale după-amiezii; de aici de sus aveți cea mai bună panoramă asupra coastei Costa Daurada de iarnă.",
+                "en": "Visit the chapel in the early afternoon; from up here, you have the best panoramic view over the wintry Costa Daurada coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Radio",
+                "hu": "Museu de la Radio",
+                "ro": "Museu de la Radio",
+                "en": "Museu de la Radio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine gemütliche Aufwärmpause im Warmen, während Sie in die Welt der Rundfunkgeschichte eintauchen.",
+                "hu": "Használja ki a múzeumot egy kellemes melegedő szünetre, miközben elmerül a rádiózás történetének lenyűgöző világában.",
+                "ro": "Profitați de muzeu pentru o pauză plăcută de încălzire în timp ce vă cufundați în lumea fascinantă a istoriei radiodifuziunii.",
+                "en": "Take advantage of the museum for a cozy warm-up break while immersing yourself in the fascinating world of broadcasting history."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Francàs",
+                "hu": "Platja del Francàs",
+                "ro": "Platja del Francàs",
+                "en": "Platja del Francàs"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie das Ende der Tour für 17:00 Uhr ein, um den Sonnenuntergang vom Auto aus zu sehen, bevor es draußen spürbar kälter wird.",
+                "hu": "Tervezze a túra végét 17:00 körülre, hogy lássa a naplementét az autóból, mielőtt kint érezhetően hidegebbre fordulna az idő.",
+                "ro": "Planificați sfârșitul turului în jurul orei 17:00 pentru a vedea apusul din mașină înainte ca afară să se facă vizibil mai frig.",
+                "en": "Plan to end your tour around 5 PM to catch the sunset from the car before it gets noticeably colder outside in the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

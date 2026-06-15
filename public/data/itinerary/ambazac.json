@@ -137,6 +137,168 @@
         "hu": "Gyalogos túrája Ambazac központjában indul a történelmi Saint-Antoine templomnál. A délben már a lenyűgöző Château de Montméry felé tart, átlépve a városból a természetbe. A délutánt a festői Monts d'Ambazac hegyeinek és a hangulatos Grandmont apátságnak szenteli. Zárja a napot egy békés esti sétával a nyugodt Étang de l'Âne vizének partján.",
         "ro": "Turul pietonal din Ambazac începe în centru, vizitând istorica biserică Saint-Antoine. La amiază vă îndreptați spre grandiosul Château de Montméry. După-amiaza este dedicată pitoreștilor Monts d'Ambazac și atmosferei speciale de la Abația Grandmont. Încheiați-vă ziua cu o plimbare liniștită de seară pe malul apelor calme ale Étang de l'Âne.",
         "en": "Your walking tour of Ambazac begins in the vibrant center, visiting the historic Saint-Antoine Church. Midday takes you towards the grand Château de Montméry, transitioning from urban heritage to nature. The afternoon is dedicated to the scenic Monts d'Ambazac and the atmospheric Grandmont Abbey. Conclude your day with a peaceful evening stroll by the tranquil waters of Étang de l'Âne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen mit Schutz in der Kirche, bevor Sie die nasse Fassade des Schlosses bewundern. Mittags erwartet Sie eine neblige Wanderung in den Hügeln, für die wasserdichte Schuhe unerlässlich sind. Nachmittags erkunden Sie die mystischen Klosterruinen unter dem Regenschirm. Abends am See sorgt der Regen für eine friedliche Stimmung.",
+            "hu": "Esős reggelét a templomban húzódva kezdje, majd csodálja meg a kastély vizes homlokzatát. Délben egy ködös, hangulatos túra várja a hegyekben, amihez vízálló bakancs szükséges. Délután esernyő alól fedezze fel a misztikus apátsági romokat. Az estét a tónál zárja, ahol az eső békés, melankolikus hangulatot teremt, mielőtt meleg helyre térne.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în biserică, apoi admirați fațada umedă a castelului. La prânz, o drumeție cețoasă în dealuri necesită bocanci impermeabili buni. După-amiaza, explorați sub umbrelă ruinele mistice ale abației. Încheiați seara la lac, unde ploaia creează o atmosferă liniștită și melancolică înainte de a vă retrage la interior.",
+            "en": "Start your rainy morning taking shelter inside the church before admiring the wet, striking facade of the château. Midday brings a misty, atmospheric hike in the hills, requiring good waterproof boots. In the afternoon, explore the mystical abbey ruins under your umbrella. Conclude the evening by the lake, where the rain creates a peaceful, moody setting before you head indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Antoine",
+                "hu": "Saint-Antoine templom",
+                "ro": "Biserica Saint-Antoine",
+                "en": "Saint-Antoine Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Details im Inneren, während Sie Schutz vor dem Regen suchen; halten Sie Ihren Regenschirm für den Ausgang bereit.",
+                "hu": "Csodálja meg a belső részleteket, miközben menedéket talál az eső elől; tartsa kéznél az esernyőjét, amint kilép az épületből.",
+                "ro": "Admirați detaliile interioare în timp ce vă adăpostiți de ploaie; țineți umbrela la îndemână pentru momentul în care ieșiți din clădire.",
+                "en": "Admire the interior details while taking shelter from the rain; keep your umbrella handy for the moment you step back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montméry",
+                "hu": "Château de Montméry",
+                "ro": "Château de Montméry",
+                "en": "Château de Montméry"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Stein des Schlosses wirkt bei Regen besonders eindrucksvoll, aber bleiben Sie auf befestigten Wegen, um tiefen Schlamm zu vermeiden.",
+                "hu": "A kastély vizes kövei lenyűgözően mutatnak az esőben, de maradjon a burkolt utakon, hogy elkerülje a mély sarat és a csúszásveszélyt.",
+                "ro": "Piatra umedă a castelului arată impresionant în ploaie, dar rămâneți pe potecile pavate pentru a evita noroiul adânc și alunecările.",
+                "en": "The wet stone of the castle looks striking in the rain, but stick strictly to paved paths to avoid deep mud and slippery conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Monts d'Ambazac",
+                "hu": "Monts d'Ambazac",
+                "ro": "Monts d'Ambazac",
+                "en": "Monts d'Ambazac"
+              },
+              "tip_5lang": {
+                "de": "Die nebligen Hügel bieten eine dramatische Atmosphäre; tragen Sie unbedingt wasserdichte Wanderschuhe, um die rutschigen Pfade sicher zu meistern.",
+                "hu": "A ködös hegyek drámai hangulatot árasztanak, ezért mindenképpen viseljen vízálló túrabakancsot a csúszós ösvények biztonságos leküzdéséhez.",
+                "ro": "Dealurile cețoase oferă o atmosferă dramatică, așa că purtați bocanci de drumeție impermeabili pentru a aborda în siguranță traseele alunecoase.",
+                "en": "The misty hills offer a dramatic atmosphere, so be sure to wear waterproof hiking boots to handle the slippery trails safely and comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Grandmont",
+                "hu": "Grandmont apátság",
+                "ro": "Abația Grandmont",
+                "en": "Grandmont Abbey"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Klosterruinen unter einem Regenschirm; das nasse Wetter verleiht den alten Steinen eine mystische Ausstrahlung.",
+                "hu": "Fedezze fel a történelmi kolostorromokat egy esernyő alól; a nedves, borongós idő misztikus hangulatot kölcsönöz az ősi köveknek.",
+                "ro": "Explorați ruinele monastice istorice sub o umbrelă; vremea umedă adaugă o senzație mistică pietrelor antice și atmosferei generale.",
+                "en": "Explore the historic monastic ruins under an umbrella; the wet, overcast weather adds a mystical feel to the ancient stones and surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Âne",
+                "hu": "Étang de l'Âne",
+                "ro": "Étang de l'Âne",
+                "en": "Étang de l'Âne"
+              },
+              "tip_5lang": {
+                "de": "Der Regen erzeugt wunderschöne Wellen auf der Seeoberfläche; suchen Sie bei einem starken Schauer Schutz unter den dichten Baumkronen.",
+                "hu": "Az eső gyönyörű hullámokat vet a tó vizén; keressen menedéket a sűrű lombkoronák alatt, ha hirtelen hevesebb zápor érkezne.",
+                "ro": "Ploaia creează valuri frumoase pe suprafața lacului; găsiți adăpost sub copacii deși dacă începe o aversă puternică și bruscă.",
+                "en": "The rain creates beautiful ripples on the lake's surface; find quick shelter under dense trees if a sudden, heavy shower hits the area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen in der Kirche, um sich aufzuwärmen, gefolgt von ungestörten Blicken auf das Schloss. Die Mittagswanderung in den Hügeln bietet erfrischende, frostige Luft; warme Kleidung ist Pflicht. Nachmittags beleuchtet die tiefstehende Sonne die alten Klosterruinen. Beenden Sie den Tag am ruhigen See, bevor es um 17 Uhr dunkel und kalt wird.",
+            "hu": "Kezdje a csípős téli reggelt a fűtött templomban, majd élvezze a kastély tiszta látványát a csupasz fákon keresztül. A déli hegyi túra frissítő, fagyos levegőt kínál, öltözzön melegen. A délutáni fény gyönyörűen megvilágítja az ősi apátság romjait. Zárja a napot a csendes, részben befagyott tónál, de induljon vissza a korai, 17:00 órás naplemente előtt.",
+            "ro": "Începeți dimineața geroasă de iarnă în biserica istorică pentru a vă încălzi, urmată de vederi clare ale castelului. Drumeția de prânz pe dealuri oferă aer rece și proaspăt, așa că îmbrăcați-vă gros. Lumina după-amiezii iluminează frumos ruinele vechii abații. Terminați la lacul liniștit, întorcându-vă înainte ca apusul devreme de la ora 17:00 să aducă frigul.",
+            "en": "Begin your crisp winter morning at the historic church to stay warm, followed by clear, leafless views of the stunning château. Midday hiking in the hills offers refreshing, frosty air, so dress in thick layers. The afternoon light beautifully illuminates the ancient abbey ruins. Finish by the quiet, partially frozen lake, heading back before the early 5 PM sunset brings the chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Antoine",
+                "hu": "Saint-Antoine templom",
+                "ro": "Biserica Saint-Antoine",
+                "en": "Saint-Antoine Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die historische Kirche ein, um Ihre Hände aufzuwärmen, bevor Sie Ihren klaren, kalten Winterspaziergang fortsetzen.",
+                "hu": "Lépjen be a történelmi templomba, hogy felmelegítse a kezét, mielőtt folytatná a csípős, hideg téli reggeli sétáját.",
+                "ro": "Pășiți în interiorul bisericii istorice pentru a vă încălzi mâinile înainte de a vă continua plimbarea matinală geroasă de iarnă.",
+                "en": "Step inside the historic church to warm up your freezing hands before continuing your crisp, cold winter morning walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montméry",
+                "hu": "Château de Montméry",
+                "ro": "Château de Montméry",
+                "en": "Château de Montméry"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten eine ungestörte Sicht auf die Architektur des Schlosses; kleiden Sie sich in warme, dicke Schichten.",
+                "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak a kastély grandiózus építészetére; öltözzön vastag, meleg rétegekbe a hideg ellen.",
+                "ro": "Copacii goi de iarnă oferă vederi neobstrucționate ale arhitecturii castelului; îmbrăcați-vă în straturi calde împotriva frigului.",
+                "en": "The bare winter trees provide completely unobstructed views of the castle's grand architecture; dress in warm layers against the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Monts d'Ambazac",
+                "hu": "Monts d'Ambazac",
+                "ro": "Monts d'Ambazac",
+                "en": "Monts d'Ambazac"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft in den Hügeln ist belebend, aber die Wege können eisig sein; tragen Sie feste Stiefel mit hervorragendem Profil.",
+                "hu": "A friss téli levegő a hegyekben élénkítő, de az ösvények jegesek lehetnek, ezért viseljen kiváló tapadású, vastag túrabakancsot.",
+                "ro": "Aerul rece de iarnă din dealuri este revigorant, dar traseele pot fi înghețate, așa că purtați bocanci cu aderență excelentă.",
+                "en": "The brisk winter air in the hills is highly refreshing, but trails might be icy, so strictly wear boots with excellent grip and support."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Grandmont",
+                "hu": "Grandmont apátság",
+                "ro": "Abația Grandmont",
+                "en": "Grandmont Abbey"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den alten Abteisteinen ist äußerst fotogen; planen Sie Ihren Besuch so, dass Sie die tiefe Wintersonne am Nachmittag einfangen.",
+                "hu": "Az ősi apátság kövein megülő zúzmara nagyon fotogén; időzítse látogatását úgy, hogy elcsípje a délutáni, alacsonyan járó téli napfényt.",
+                "ro": "Gerul de pe pietrele antice ale abației este foarte fotogenic; planificați-vă vizita pentru a prinde soarele blând de iarnă de după-amiază.",
+                "en": "The thick frost on the ancient abbey stones is highly photogenic; time your visit to catch the glowing, low winter sun in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Âne",
+                "hu": "Étang de l'Âne",
+                "ro": "Étang de l'Âne",
+                "en": "Étang de l'Âne"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhigen, gefrorenen Ränder des Sees, aber machen Sie sich vor 17 Uhr auf den Rückweg, da es schnell dunkel und sehr kalt wird.",
+                "hu": "Élvezze a tó csendes, fagyott széleit, de induljon vissza 17:00 óra előtt, mivel a sötétedéssel a hőmérséklet is hirtelen zuhanni kezd.",
+                "ro": "Bucurați-vă de marginile liniștite și înghețate ale lacului, dar întoarceți-vă înainte de ora 17:00, deoarece se întunecă și se face foarte frig.",
+                "en": "Enjoy the quiet, partially frozen edges of the lake, but head back before 5 PM as it gets completely dark and dangerously cold very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros napját az ősi Dolmen de la Lieue-nél, majd haladjon Ambazac szívébe. Ebédidőben fedezze fel a Château de Montméry-t és a Monts lankáit. Délután fedezze fel a Grandmont apátság romjait, és haladjon el a szép Étang de l'Âne mellett. Naplemente idején pihenjen meg a tágas és visszatükröződő Étang de Pierre Millier partján.",
         "ro": "Începeți ziua de ciclism la vechiul Dolmen de la Lieue, deplasându-vă rapid spre centrul Ambazac. La prânz, explorați Château de Montméry și pantele ușoare ale Monts. Petreceți-vă după-amiaza descoperind ruinele abației Grandmont și trecând pe lângă frumosul Étang de l'Âne. La apus, relaxați-vă lângă întinsul Étang de Pierre Millier.",
         "en": "Kick off your cycling day at the ancient Dolmen de la Lieue, moving swiftly to the heart of Ambazac. Around lunchtime, explore the elegant Château de Montméry and tackle the gentle slopes of the Monts. Spend your afternoon uncovering the monastic ruins of Grandmont Abbey and passing the lovely Étang de l'Âne. As the sun sets, relax by the expansive and reflective Étang de Pierre Millier."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie mit Schutzblechen und Regenkleidung zum Dolmen und zur Kirche. Die Fahrt zum Schloss und in die Hügel kann mittags schlammig werden; Vorsicht bei Abfahrten. Nachmittags erfordern die Wege zur Abtei und zum ersten See auf rutschigem Untergrund besondere Achtsamkeit. Abends am letzten See ist es im Regen still; funktionierende Fahrradlichter sind unerlässlich.",
+            "hu": "Reggel sárvédővel és esőruhában tekerjen a dolmenhez és a templomhoz. A kastélyhoz és a hegyekbe vezető déli út saras lehet; óvatosan ereszkedjen. Délután az apátságba és az első tóhoz vezető út csúszós, ezért fokozott figyelmet igényel. Este az utolsó tónál a csendes esőben elengedhetetlen a jól működő kerékpárlámpa.",
+            "ro": "Dimineața pedalați spre dolmen și biserică folosind apărători de noroi și echipament de ploaie. La prânz, drumul spre castel și dealuri poate fi noroios; atenție la coborâri. După-amiaza, potecile spre abație și primul lac necesită prudență maximă pe teren alunecos. Seara la ultimul lac ploaia este liniștită; luminile bicicletei sunt esențiale.",
+            "en": "Morning cycling to the dolmen and church requires fenders and waterproof gear. Midday ride to the château and hills can be muddy; take care on descents. Afternoon pedals to the abbey and first lake demand extreme caution on slippery paths. Evening at the final lake is quiet under the rain; ensure your bike lights are fully charged and working."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de la Lieue",
+                "hu": "Dolmen de la Lieue",
+                "ro": "Dolmen de la Lieue",
+                "en": "Dolmen de la Lieue"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschigen Schlamm rund um die alten Steine; tragen Sie eine wasserdichte Jacke, um während der Fahrt trocken zu bleiben.",
+                "hu": "Ügyeljen a csúszós sárra az ősi kövek körül; viseljen vízálló kerékpáros kabátot, hogy száraz maradjon az út során.",
+                "ro": "Atenție la noroiul alunecos din jurul pietrelor antice; purtați o jachetă impermeabilă pentru a rămâne uscat în timpul mersului.",
+                "en": "Watch out for very slippery mud around the ancient stones; wear a bright, waterproof cycling jacket to stay completely dry on your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Antoine",
+                "hu": "Saint-Antoine templom",
+                "ro": "Biserica Saint-Antoine",
+                "en": "Saint-Antoine Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie drinnen eine kurze Pause, um sich abzutrocknen; seien Sie vorsichtig auf den nassen Pflastersteinen, wenn Sie Ihr Fahrrad parken.",
+                "hu": "Tarts egy rövid szünetet bent, hogy megszáradj; légy nagyon óvatos a nedves, csúszós macskaköveken, amikor leparkolod a kerékpárt.",
+                "ro": "Faceți o scurtă pauză înăuntru pentru a vă usca; fiți atenți pe piatra cubică umedă și alunecoasă atunci când parcați bicicleta.",
+                "en": "Take a short break inside to dry off; be exceptionally careful on the wet cobblestones when dismounting and parking your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montméry",
+                "hu": "Château de Montméry",
+                "ro": "Château de Montméry",
+                "en": "Château de Montméry"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Laub auf dem Weg zum Schloss kann extrem rutschig sein; bremsen Sie sanft und genießen Sie den stimmungsvollen Anblick.",
+                "hu": "A kastélyhoz vezető úton a nedves falevelek rendkívül csúszósak lehetnek, ezért fékezzen finoman, és élvezze a borongós látványt.",
+                "ro": "Frunzele umede pe drumul spre castel pot fi foarte alunecoase; frânați ușor și bucurați-vă de vederea atmosferică și melancolică.",
+                "en": "The wet fallen leaves on the path to the castle can be extremely slick, so brake very gently and enjoy the moody, rainy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Monts d'Ambazac",
+                "hu": "Monts d'Ambazac",
+                "ro": "Monts d'Ambazac",
+                "en": "Monts d'Ambazac"
+              },
+              "tip_5lang": {
+                "de": "Die Bergpfade werden im Regen schnell schlammig; nutzen Sie breite Reifen und halten Sie ein gleichmäßiges, vorsichtiges Tempo.",
+                "hu": "A hegyi ösvények az esőben gyorsan sarassá válnak; hagyatkozzon széles gumikra, és tartson egyenletes, nagyon óvatos tempót.",
+                "ro": "Traseele montane devin rapid noroioase în ploaie; folosiți anvelope late și mențineți un ritm constant, prudent și echilibrat.",
+                "en": "The mountain trails turn to deep mud quickly in the rain; rely on wide tires and ensure you keep a steady, highly cautious pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Grandmont",
+                "hu": "Grandmont apátság",
+                "ro": "Abația Grandmont",
+                "en": "Grandmont Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die nebligen Ruinen sehen spektakulär aus, aber schieben Sie Ihr Fahrrad an den unebensten, mit Pfützen übersäten Abschnitten des Weges.",
+                "hu": "A ködös romok látványosak, de az út legegyenetlenebb, pocsolyákkal teli szakaszain inkább tolja a kerékpárt a biztonság érdekében.",
+                "ro": "Ruinele cețoase arată spectaculos, dar mergeți pe lângă bicicletă pe cele mai denivelate și pline de bălți secțiuni ale traseului.",
+                "en": "The misty ruins look spectacular in the dampness, but walk your bike carefully on the most uneven, puddle-filled sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Âne",
+                "hu": "Étang de l'Âne",
+                "ro": "Étang de l'Âne",
+                "en": "Étang de l'Âne"
+              },
+              "tip_5lang": {
+                "de": "Der Regen auf dem See ist friedlich; suchen Sie ein dichtes Blätterdach, um bei plötzlich auftretenden starken Regengüssen zu warten.",
+                "hu": "A tavon kopogó eső békés hangulatú; keressen egy sűrű lombkoronát, ha hirtelen lecsapna egy heves zápor, amíg alábbhagy az esőzés.",
+                "ro": "Ploaia pe lac este liniștită; găsiți un coronament des de copaci pentru a aștepta trecerea oricăror averse puternice bruște.",
+                "en": "The rain falling on the lake is peaceful; find a dense canopy of trees to wait out any sudden heavy downpours safely and comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Pierre Millier",
+                "hu": "Étang de Pierre Millier",
+                "ro": "Étang de Pierre Millier",
+                "en": "Étang de Pierre Millier"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter vollständig aufgeladen sind, da starker Regen die Sicht in der Nähe des Sees erheblich einschränkt.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpái teljesen fel vannak töltve, mivel a heves eső drasztikusan rontja a látási viszonyokat a tónál.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt complet încărcate, deoarece ploaia abundentă reduce semnificativ vizibilitatea în apropierea lacului.",
+                "en": "Ensure your bike's front and rear lights are fully charged, as heavy rain drastically reduces visibility on the roads near the final lake."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Morgenfahrt zum Dolmen und zur Kirche; tragen Sie Thermohandschuhe. Der Aufstieg mittags zum Schloss und in die Hügel wärmt trotz des Frosts. Nachmittags an der Abtei und am ersten See ist es wunderschön, aber eisig; achten Sie auf Glätte. Die abendliche Abfahrt zum letzten See fällt mit dem Sonnenuntergang zusammen, reflektierende Kleidung ist Pflicht.",
+            "hu": "Csípős reggeli tekerés a dolmenhez és a templomhoz; viseljen termokesztyűt. A déli mászás a kastélyhoz és a hegyekbe a fagy ellenére is felmelegít. A délután az apátságnál és az első tónál gyönyörű, de fagyos; vigyázzon a jégfoltokra. Az esti ereszkedés az utolsó tóhoz naplementekor történik, ezért a fényvisszaverő ruházat elengedhetetlen.",
+            "ro": "Plimbare geroasă de dimineață la dolmen și biserică; purtați mănuși termice. Urcarea de prânz la castel și dealuri vă încălzește în ciuda gerului. După-amiaza la abație și primul lac este frumoasă, dar rece; atenție la gheață. Coborârea de seară spre ultimul lac are loc la apus, așa că echipamentul reflectorizant este absolut esențial.",
+            "en": "Crisp morning ride to the dolmen and church; explicitly wear thermal gloves. Midday climb to the château and hills warms you up despite the frost. Afternoon at the abbey and lake is beautiful but deeply cold; beware of hidden icy patches. Evening descent to the final lake happens near sunset, making reflective gear and bright lights essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de la Lieue",
+                "hu": "Dolmen de la Lieue",
+                "ro": "Dolmen de la Lieue",
+                "en": "Dolmen de la Lieue"
+              },
+              "tip_5lang": {
+                "de": "Der Frost lässt die Steine magisch wirken, aber das umliegende Gras ist spröde und eisig; tragen Sie warme Fahrradhandschuhe.",
+                "hu": "A dér varázslatossá teszi a köveket, de a környező fű törékeny és jeges, ezért elengedhetetlen a meleg kerékpáros kesztyű viselése.",
+                "ro": "Gerul face pietrele să pară magice, dar iarba din jur este casantă și înghețată, așa că purtați mănuși calde de ciclism.",
+                "en": "The frost makes the stones look magical, but the surrounding grass is brittle and extremely icy, so strictly wear warm cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Antoine",
+                "hu": "Saint-Antoine templom",
+                "ro": "Biserica Saint-Antoine",
+                "en": "Saint-Antoine Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre gefrorenen Finger im historischen Gebäude auf, bevor Sie Ihre klare, kalte Morgenfahrt fortsetzen.",
+                "hu": "Melegítse fel fagyott ujjait a történelmi épületen belül, mielőtt folytatná a csípős, rendkívül hideg reggeli kerékpározást.",
+                "ro": "Încălziți-vă degetele înghețate în interiorul clădirii istorice înainte de a continua cursa matinală geroasă și rece.",
+                "en": "Warm your frozen fingers completely inside the historic building before continuing your crisp, biting cold morning cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montméry",
+                "hu": "Château de Montméry",
+                "ro": "Château de Montméry",
+                "en": "Château de Montméry"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winteräste bieten die besten Fotos des Schlosses; kleiden Sie sich in Thermoschichten gegen den beißenden Wind.",
+                "hu": "A csupasz téli ágak lehetővé teszik a legjobb fotókat a kastélyról; öltözzön vastag termorétegekbe a metsző szél ellen.",
+                "ro": "Crengile goale de iarnă oferă cele mai bune fotografii ale castelului; îmbrăcați-vă în straturi termice împotriva vântului tăios.",
+                "en": "The bare winter branches offer the best unobstructed photos of the castle; strictly dress in thermal layers against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Monts d'Ambazac",
+                "hu": "Monts d'Ambazac",
+                "ro": "Monts d'Ambazac",
+                "en": "Monts d'Ambazac"
+              },
+              "tip_5lang": {
+                "de": "Die Hügel bieten ein tolles Training zum Aufwärmen, aber achten Sie auf verstecktes Glatteis in schattigen Kurven der Strecke.",
+                "hu": "A hegyek kiváló edzést biztosítanak a felmelegedéshez, de nagyon vigyázzon az árnyékos kanyarokban megbúvó veszélyes fekete jégre.",
+                "ro": "Dealurile oferă un antrenament excelent pentru a vă încălzi, dar atenție la gheața neagră ascunsă în curbele umbrite ale traseului.",
+                "en": "The hills provide a great physical workout to warm you up, but actively watch out for hidden black ice on shaded curves of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Grandmont",
+                "hu": "Grandmont apátság",
+                "ro": "Abația Grandmont",
+                "en": "Grandmont Abbey"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden um die Abtei ist fest zum Fahren, aber die tiefstehende Wintersonne kann eine gefährliche Blendung verursachen.",
+                "hu": "Az apátság körüli fagyott talaj szilárd a tekeréshez, de az alacsonyan járó téli nap erős, zavaró vakítást okozhat a szemnek.",
+                "ro": "Pământul înghețat din jurul abației este solid pentru mers, deși soarele blând de iarnă poate provoca o orbire puternică.",
+                "en": "The completely frozen ground around the abbey is remarkably solid for riding, though the low winter sun can cause harsh, blinding glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Âne",
+                "hu": "Étang de l'Âne",
+                "ro": "Étang de l'Âne",
+                "en": "Étang de l'Âne"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, frostiger Stopp am See; trinken Sie heißen Tee aus einer Thermoskanne, um Ihre Körpertemperatur hoch zu halten.",
+                "hu": "Csendes, fagyos pihenő a tónál; igyon forró teát egy szigetelt termoszból, hogy fenntartsa a maghőmérsékletét a hidegben.",
+                "ro": "O oprire liniștită și geroasă la lac; beți ceai fierbinte dintr-un termos izolat pentru a vă menține temperatura corpului ridicată.",
+                "en": "A deeply quiet, frosty stop by the lake; drink hot tea from an insulated thermos to keep your core body temperature up in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Pierre Millier",
+                "hu": "Étang de Pierre Millier",
+                "ro": "Étang de Pierre Millier",
+                "en": "Étang de Pierre Millier"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17 Uhr an; die sinkenden Temperaturen erfordern hervorragende Lichter und Reflektoren.",
+                "hu": "Érkezzen meg a korai, 17:00 órás naplemente előtt; a zuhanó hőmérséklet kiváló lámpákat és fényvisszaverő felszerelést követel meg.",
+                "ro": "Ajungeți înainte de apusul devreme de la ora 17:00; temperaturile în scădere necesită lumini excelente și echipament reflectorizant.",
+                "en": "Arrive well before the extremely early 17:00 sunset; the plunging temperatures require excellent lights and full reflective gear."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Az autós túra délkeleten, a Plan d'eau du Soleil Levantnál kezdődik, majd a Dolmen de la Lieue következik. Délben a városközpontban a templomot és a Château de Montméryt keresi fel. A délutáni út a Monts d'Ambazac hegyein át a Grandmont apátsághoz vezet. Este látogasson el az Étang de l'Âne-hoz, majd élvezze az alkonyatot az Étang de Pierre Milliernél.",
         "ro": "Călătoria cu mașina începe la sud-est, la Plan d'eau du Soleil Levant, urmat de Dolmen de la Lieue. La amiază vă mutați în centrul orașului pentru Biserică și Château de Montméry. Traseul de după-amiază trece prin Monts d'Ambazac spre Abația Grandmont. Seara, vizitați Étang de l'Âne înainte de a vă bucura de liniștea crepusculului la Étang de Pierre Millier.",
         "en": "Your drive begins southeast at the refreshing Plan d'eau du Soleil Levant, followed by the ancient Dolmen de la Lieue. Midday shifts to the town's core for the Church and Château de Montméry. The afternoon drive sweeps through the Monts d'Ambazac to the historic Grandmont Abbey. In the evening, visit Étang de l'Âne before enjoying the twilight serenity at Étang de Pierre Millier."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum See und zum Dolmen hält Sie trocken; steigen Sie nur mit Regenschirm aus. Mittags sind Kirche und Schloss bequem vom Auto aus zu erreichen. Nachmittags bietet die Fahrt durch die Hügel und zur Abtei dramatische, neblige Aussichten. Abends an den Seen erfordern die nassen Landstraßen eine besonders vorsichtige Fahrweise.",
+            "hu": "A reggeli autózás a tónál és a dolmennél szárazon tart; csak esernyővel szálljon ki. Délben a templom és a kastély könnyen megközelíthető az autóból. A délutáni festői autózás a hegyekben és az apátságnál drámai, ködös kilátást nyújt. Este a tavaknál a nedves vidéki utakon óvatos vezetés szükséges az esőben.",
+            "ro": "Plimbarea matinală cu mașina pe lângă lac și dolmen vă menține uscat; ieșiți cu o umbrelă. La prânz, vizitele la biserică și castel sunt ușor de gestionat din mașină. După-amiaza, condusul pitoresc prin dealuri și abație oferă vederi dramatice, cețoase. Seara la lacuri necesită un condus atent pe drumurile rurale umede.",
+            "en": "Morning drive by the lake and dolmen keeps you dry; dash out briefly with a sturdy umbrella. Midday visits to the church and château are easy to manage directly from the car. Afternoon scenic drive through the hills and abbey offers dramatic, misty views. Evening by the lakes requires careful driving on wet, slippery rural roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plan d'eau du Soleil Levant",
+                "hu": "Plan d'eau du Soleil Levant",
+                "ro": "Plan d'eau du Soleil Levant",
+                "en": "Plan d'eau du Soleil Levant"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Regentropfen auf dem Wasser bequem vom Auto aus, bevor Sie kurz mit einem Regenschirm aussteigen.",
+                "hu": "Élvezze a vízre hulló esőcseppek látványát kényelmesen az autójából, mielőtt egy pillanatra kiszállna egy nagy esernyővel.",
+                "ro": "Bucurați-vă de priveliștea picăturilor de ploaie lovind apa din confortul mașinii înainte de a ieși scurt cu o umbrelă.",
+                "en": "Enjoy the calming view of raindrops hitting the water from the warm comfort of your car before stepping out briefly with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de la Lieue",
+                "hu": "Dolmen de la Lieue",
+                "ro": "Dolmen de la Lieue",
+                "en": "Dolmen de la Lieue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und tragen Sie wasserdichte Schuhe; der kurze Weg zu den Steinen kann bei Regen sehr schlammig werden.",
+                "hu": "Parkoljon a közelben, és viseljen vízálló cipőt; a kövekhez vezető rövid séta a felhőszakadások idején nagyon sarassá válhat.",
+                "ro": "Parcați aproape și purtați pantofi impermeabili; scurta plimbare până la pietre poate deveni foarte noroioasă în timpul averselor.",
+                "en": "Park close by and strictly wear waterproof shoes; the short walk to the ancient stones can get deeply muddy during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Antoine",
+                "hu": "Saint-Antoine templom",
+                "ro": "Biserica Saint-Antoine",
+                "en": "Saint-Antoine Church"
+              },
+              "tip_5lang": {
+                "de": "Bequemes Parken am Straßenrand macht dies zu einem perfekten trockenen Stopp; bewundern Sie die Architektur, ohne nass zu werden.",
+                "hu": "A kényelmes utcai parkolás miatt ez egy tökéletes száraz megálló; csodálja meg a lenyűgöző építészetet anélkül, hogy bőrig ázna.",
+                "ro": "Parcarea ușoară pe marginea drumului face din aceasta o oprire uscată perfectă; admirați arhitectura fără a vă uda deloc.",
+                "en": "Easy roadside parking makes this a completely perfect dry stop; admire the historic architecture inside without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montméry",
+                "hu": "Château de Montméry",
+                "ro": "Château de Montméry",
+                "en": "Château de Montméry"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt vor dem grauen Himmel dramatisch; halten Sie ein Handtuch im Auto bereit, um sich nach dem Foto abzutrocknen.",
+                "hu": "A kastély drámaian mutat a szürke égbolt előtt; tartson egy törölközőt az autóban, hogy megtörölközzön a gyors szabadtéri fotó után.",
+                "ro": "Castelul arată dramatic pe fundalul cerului gri; păstrați un prosop în mașină pentru a vă usca după o fotografie rapidă afară.",
+                "en": "The castle looks dramatic against grey skies; keep a dry towel in the car to wipe off after taking a quick, damp outdoor photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Monts d'Ambazac",
+                "hu": "Monts d'Ambazac",
+                "ro": "Monts d'Ambazac",
+                "en": "Monts d'Ambazac"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Bergstraßen, da nasses Herbstlaub den Bremsweg Ihres Autos erheblich verlängern kann.",
+                "hu": "Vezessen nagyon óvatosan a kanyargós hegyi utakon, mivel a nedves, lehullott falevelek jelentősen megnövelhetik az autó fékútját.",
+                "ro": "Conduceți cu prudență pe drumurile montane șerpuite, deoarece frunzele umede căzute pot crește semnificativ distanța de frânare.",
+                "en": "Drive incredibly carefully on the winding mountain roads, as wet fallen leaves on the asphalt can significantly increase your braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Grandmont",
+                "hu": "Grandmont apátság",
+                "ro": "Abația Grandmont",
+                "en": "Grandmont Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Atmosphäre wertet die alten Ruinen auf; tragen Sie feste Regenstiefel für den kurzen Spaziergang vom Parkplatz.",
+                "hu": "A ködös, párás atmoszféra kiemeli az ősi romokat; viseljen strapabíró gumicsizmát a parkolótól vezető rövid, de saras sétához.",
+                "ro": "Atmosfera cețoasă îmbunătățește ruinele antice; purtați cizme de ploaie rezistente pentru scurta plimbare de la zona de parcare.",
+                "en": "The misty atmosphere beautifully enhances the ancient ruins; wear sturdy rain boots for the short, potentially muddy walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Âne",
+                "hu": "Étang de l'Âne",
+                "ro": "Étang de l'Âne",
+                "en": "Étang de l'Âne"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster herunter, um den Regen auf dem Wasser zu hören, oder steigen Sie kurz mit einem stabilen Regenschirm aus.",
+                "hu": "Húzza le az ablakot, hogy hallgassa az eső kopogását a vízen, vagy szálljon ki egy rövid időre egy masszív, viharálló esernyővel.",
+                "ro": "Coborâți geamul pentru a auzi ploaia pe apă sau ieșiți pentru scurt timp cu o umbrelă robustă și mare.",
+                "en": "Roll down the car window to peacefully hear the rain hitting the water, or step out very briefly with a large, sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Pierre Millier",
+                "hu": "Étang de Pierre Millier",
+                "ro": "Étang de Pierre Millier",
+                "en": "Étang de Pierre Millier"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Nebelscheinwerfer ein, wenn die Sicht auf den ländlichen Straßen auf dem Rückweg vom letzten See stark abnimmt.",
+                "hu": "Kapcsolja be a ködlámpákat, ha a látási viszonyok drasztikusan romlanak a vidéki utakon, miközben visszafelé tart az utolsó tótól.",
+                "ro": "Folosiți farurile de ceață dacă vizibilitatea scade pe drumurile rurale întorcându-vă de la lacul final din itinerariu.",
+                "en": "Instantly use your fog lights if visibility drops heavily on the narrow rural roads while safely heading back from the final lake."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten Sie mit beheizter Kabine am See; der Frost glitzert. Mittags zeigen Kirche und Schloss karge, schöne Winterlandschaften. Nachmittags ist die Fahrt durch die Hügel zur Abtei vom Auto aus gemütlich. Abends an den Seen bedeutet die frühe Dunkelheit um 17 Uhr, dass Sie auf kurvigen Straßen bei Kälte sicher fahren müssen.",
+            "hu": "Reggel a tónál fűtött utastérrel indul; a dér gyönyörűen csillog. Délben a templom és a kastély zord, csodás téli tájat mutat. A délutáni autózás a hegyeken át az apátságig nagyon hangulatos belülről. Este a tavaknál a korai sötétedés miatt biztonságosan kell vezetni a kanyargós, fagyos utakon 17:00 óra után.",
+            "ro": "Începeți dimineața la lac cu habitaclul încălzit; gerul strălucește. La prânz, biserica și castelul dezvăluie peisaje de iarnă aspre, dar frumoase. După-amiaza, condusul prin dealuri către abație este confortabil din mașină. Seara la lacuri aduce întunericul devreme; conduceți în siguranță pe drumurile șerpuite la frig.",
+            "en": "Morning start by the lake and dolmen is beautifully frosty; keep the car heater on high. Midday stops at the church and château reveal stark, gorgeous winter landscapes. Afternoon drive through the hills to the abbey is perfectly cozy from inside the car. Evening at the lakes means early darkness; drive safely on winding roads as temperatures plummet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plan d'eau du Soleil Levant",
+                "hu": "Plan d'eau du Soleil Levant",
+                "ro": "Plan d'eau du Soleil Levant",
+                "en": "Plan d'eau du Soleil Levant"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie mit einer beheizten Autokabine; die gefrorenen Seeufer sehen im klaren Morgenlicht absolut atemberaubend aus.",
+                "hu": "Kezdje a napot az autó meleg utasterében; a tó befagyott, zúzmarás szélei lenyűgözően mutatnak a tiszta, csípős reggeli fényben.",
+                "ro": "Începeți cu o cabină de mașină încălzită; marginile înghețate ale lacului arată uimitor în lumina clară a dimineții de iarnă.",
+                "en": "Start comfortably with a fully heated car cabin; the beautifully frosted lake edges look absolutely stunning in the crisp morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de la Lieue",
+                "hu": "Dolmen de la Lieue",
+                "ro": "Dolmen de la Lieue",
+                "en": "Dolmen de la Lieue"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Weg zum Dolmen ist rutschig; tragen Sie Stiefel mit gutem Profil und holen Sie eine warme Jacke aus dem Kofferraum.",
+                "hu": "A dolmenhez vezető jeges út nagyon csúszós; viseljen jó tapadású csizmát, és vegyen elő egy igazán meleg kabátot a csomagtartóból.",
+                "ro": "Poteca înghețată spre dolmen este alunecoasă; purtați cizme cu aderență bună și luați o jachetă caldă din portbagaj.",
+                "en": "The icy path to the dolmen is extremely slippery; wear boots with heavy grip and immediately grab a warm winter jacket from the trunk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Antoine",
+                "hu": "Saint-Antoine templom",
+                "ro": "Biserica Saint-Antoine",
+                "en": "Saint-Antoine Church"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich die Beine zu vertreten und sich drinnen aufzuwärmen, falls die Autoheizung noch nicht voll läuft.",
+                "hu": "Kiváló helyszín arra, hogy kinyújtóztassa a lábát és felmelegedjen odabent, ha az autó fűtése még nem indult be teljesen.",
+                "ro": "Un loc minunat pentru a vă dezmorți picioarele și a vă încălzi înăuntru dacă încălzirea mașinii nu a pornit complet încă.",
+                "en": "A fantastic place to stretch your cramped legs and effectively warm up inside if the car's heater hasn't fully kicked in just yet."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montméry",
+                "hu": "Château de Montméry",
+                "ro": "Château de Montméry",
+                "en": "Château de Montméry"
+              },
+              "tip_5lang": {
+                "de": "Die blattlosen Winterbäume offenbaren die volle Größe des Schlosses; kleiden Sie sich warm für den kurzen Spaziergang vom Auto.",
+                "hu": "A lombtalan téli fák feltárják a kastély teljes méretét és pompáját; öltözzön fel melegen az autótól vezető rövid sétához.",
+                "ro": "Copacii de iarnă fără frunze dezvăluie scara completă a castelului; îmbrăcați-vă călduros pentru scurta plimbare de la mașină.",
+                "en": "The completely leafless winter trees gracefully reveal the full scale of the castle; dress warmly for the short, crisp walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monts d'Ambazac",
+                "hu": "Monts d'Ambazac",
+                "ro": "Monts d'Ambazac",
+                "en": "Monts d'Ambazac"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf schattigen Abschnitten der Bergstraße; die frostigen Aussichtspunkte sind den Halt absolut wert.",
+                "hu": "Fokozottan figyeljen a hegyi út árnyékos szakaszain megbúvó fekete jégre; a fagyos, panorámás kilátópontokért azonban megéri megállni.",
+                "ro": "Atenție la gheața neagră pe secțiunile umbrite ale drumului montan; punctele de belvedere geroase merită absolut oprirea.",
+                "en": "Intensely watch for black ice on deeply shaded sections of the mountain road; the frosty, sweeping scenic viewpoints are well worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Grandmont",
+                "hu": "Grandmont apátság",
+                "ro": "Abația Grandmont",
+                "en": "Grandmont Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die mit Frost bedeckten alten Steine sind sehr fotogen; planen Sie Ihren Besuch für das goldene, sanfte Nachmittagslicht.",
+                "hu": "A faggyal borított ősi kövek lenyűgözően fotogének; időzítse a látogatását a délutáni, aranylóan lágy téli fényviszonyokhoz.",
+                "ro": "Pietrele antice acoperite de ger sunt extrem de fotogenice; planificați-vă vizita pentru lumina aurie și moale a după-amiezii.",
+                "en": "The ancient stones fully covered in pristine frost are highly photogenic; time your visit precisely for the golden, low afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Âne",
+                "hu": "Étang de l'Âne",
+                "ro": "Étang de l'Âne",
+                "en": "Étang de l'Âne"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, eiskalter Stopp, um den ruhigen See zu bewundern; lassen Sie das Auto laufen, um eine warme Rückkehr zu gewährleisten.",
+                "hu": "Egy rövid, jéghideg megálló a csendes tó megcsodálására; hagyja járni az autó motorját, hogy biztosan egy meleg utastérbe térjen vissza.",
+                "ro": "O scurtă oprire înghețată pentru a admira lacul liniștit; lăsați mașina pornită pentru a asigura o întoarcere rapidă la căldură.",
+                "en": "A brief, freezing stop to quickly admire the quiet lake; strictly keep the car running to ensure a remarkably warm and cozy return."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Pierre Millier",
+                "hu": "Étang de Pierre Millier",
+                "ro": "Étang de Pierre Millier",
+                "en": "Étang de Pierre Millier"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17 Uhr an; eisige Landstraßen erfordern langsames, extrem vorsichtiges Fahren in der Dunkelheit.",
+                "hu": "Érkezzen meg a korai, 17:00 órás naplemente előtt; a jeges vidéki utakon a sötétben csakis lassú, rendkívül óvatos vezetés javasolt.",
+                "ro": "Ajungeți înainte de apusul devreme de la ora 17:00; drumurile rurale înghețate necesită un condus lent, extrem de precaut în întuneric.",
+                "en": "Arrive well before the extremely early 5 PM sunset; completely icy rural roads strictly require slow, highly cautious driving in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

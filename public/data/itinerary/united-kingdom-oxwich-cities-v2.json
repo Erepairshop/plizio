@@ -137,6 +137,168 @@
         "hu": "A délelőtt a Castell Oxwich nagyszerű romjainál kezdődik, történelmi hangulatot teremtve, mielőtt a St. Illtyd's templomhoz sétál. Délben az Oxwich-öböl hosszan elnyúló homokja várja, amely tökéletes egy pihentető tengerparti ebédhez. Délután a Nicholaston strand felé veszi az irányt, ahol a békés dűnék lenyűgöző panorámát nyújtanak. Az estét a Perriswood Központban zárja, ahol egy emlékezetes íjászkodás várja a naplementében.",
         "ro": "Dimineața începe cu ruinele de la Castell Oxwich, stabilind un ton istoric, urmată de o scurtă plimbare până la biserica St. Illtyd's. La prânz ajungeți la nisipurile întinse din Oxwich Bay, perfecte pentru un prânz relaxant pe litoral. După-amiaza continuați spre plaja Nicholaston, unde dunele liniștite oferă panorame spectaculoase. Seara se încheie la Centrul Perriswood, cu o sesiune memorabilă de tir cu arcul la apus.",
         "en": "Your morning starts with the grand ruins of Castell Oxwich, setting a historical tone for the day before a short walk to the ancient St. Illtyd's church. Midday brings you to the sweeping sands of Oxwich Bay, perfect for a relaxing seaside lunch and a gentle stroll. In the afternoon, you continue to Nicholaston Beach, where serene dunes offer spectacular coastal panoramas. The evening concludes at the Perriswood Centre, allowing for a memorable archery session as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im Schutze der dicken Mauern von Castell Oxwich. Der Regen verleiht den Ruinen eine mystische Atmosphäre.\n\nZur Mittagszeit bietet die St. Illtyd's Kirche einen trockenen Zufluchtsort. Lauschen Sie dem Trommeln der Tropfen auf dem Dach.\n\nAm Nachmittag wandern Sie an den nebligen Stränden von Oxwich und Nicholaston. Die Küste wirkt bei diesem Wetter besonders dramatisch.\n\nDen Tag beenden Sie im Bogenschießzentrum, wo viele Aktivitäten unter Dach stattfinden, sodass Sie trocken bleiben.",
+            "hu": "Kezdje a reggelt a Castell Oxwich vastag falai között, ahol az eső misztikus hangulatot áraszt a romokra. Kiváló menedék a zápor elől.\n\nDélben a St. Illtyd templom nyújt csendes és száraz pihenőt. Figyelje a tenger mormolását a ködös part mentén.\n\nDélután az Oxwich és Nicholaston strandok mentén sétálva élvezheti a drámai tájat, de ügyeljen a csúszós ösvényekre.\n\nAz estét a Perriswood központban zárja, ahol a fedett részeknek köszönhetően az eső ellenére is aktívan kikapcsolódhat.",
+            "ro": "Începeți dimineața sub protecția zidurilor groase de la Castell Oxwich. Ploaia oferă ruinelor o atmosferă mistică și un adăpost sigur.\n\nLa prânz, biserica St. Illtyd oferă un refugiu uscat. Ascultați sunetul ploii pe acoperișul vechi în timp ce vă odihniți.\n\nDupă-amiaza, plajele Oxwich și Nicholaston sunt învăluite în ceață, oferind peisaje dramatice. Atenție la potecile de coastă care pot fi alunecoase.\n\nÎncheiați ziua la centrul de tir cu arcul, unde activitățile acoperite vă permit să vă bucurați de seară fără să vă udați.",
+            "en": "Start your morning sheltered by the thick walls of Castell Oxwich. The rain adds a mystical atmosphere to the ruins while keeping you dry.\n\nAt noon, St. Illtyd's Church provides a quiet, dry sanctuary. Listen to the waves and rain from the safety of this historic building.\n\nIn the afternoon, the beaches of Oxwich and Nicholaston offer dramatic, misty views. Be careful on the coastal paths as they become slippery.\n\nEnd your day at the archery centre, where covered areas ensure you can enjoy the activities despite the wet weather outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell Oxwich",
+                "hu": "Castell Oxwich",
+                "ro": "Castell Oxwich",
+                "en": "Castell Oxwich"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innenräume des Tudor-Herrenhauses, um dem Regen zu entgehen; die massiven Steinmauern bieten perfekten Schutz vor den Küstenschauern.",
+                "hu": "Fedezze fel a Tudor-kori udvarház belső tereit, hogy elkerülje a záport; a masszív kőfalak tökéletes védelmet nyújtanak a tengerparti eső ellen.",
+                "ro": "Explorați interiorul conacului Tudor pentru a evita ploaia; zidurile masive de piatră oferă adăpostul perfect împotriva averselor de pe coastă.",
+                "en": "Explore the interiors of the Tudor manor to escape the downpour; the massive stone walls provide perfect shelter from the coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Illtyd's",
+                "hu": "St. Illtyd's",
+                "ro": "St. Illtyd's",
+                "en": "St. Illtyd's"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein idealer Ort für eine trockene Pause; bewundern Sie die historischen Details, während es draußen über der Bucht stürmt.",
+                "hu": "Ez a kis templom ideális hely egy száraz pihenőre; csodálja meg a történelmi részleteket, miközben kint viharzik az öböl felett.",
+                "ro": "Această biserică mică este locul ideal pentru o pauză uscată; admirați detaliile istorice în timp ce afară furtuna se dezlănțuie peste golf.",
+                "en": "This small church is an ideal spot for a dry break; admire the historic details while the storm rages over the bay outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Oxwich Bay",
+                "hu": "Oxwich Bay",
+                "ro": "Oxwich Bay",
+                "en": "Oxwich Bay"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Stiefel für den Strandspaziergang; der nasse Sand ist fest, aber die Pfade durch die Dünen können sehr schlammig sein.",
+                "hu": "Viseljen vízálló bakancsot a parti sétához; a vizes homok stabil, de a dűnéken átvezető ösvények nagyon sárosak lehetnek ilyenkor.",
+                "ro": "Purtați cizme impermeabile pentru plimbarea pe plajă; nisipul ud este ferm, dar potecile prin dune pot deveni foarte noroioase.",
+                "en": "Wear waterproof boots for the beach walk; the wet sand is firm, but the paths through the dunes can be very muddy right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Nicholaston Beach",
+                "hu": "Nicholaston Beach",
+                "ro": "Nicholaston Beach",
+                "en": "Nicholaston Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Bäumen am Waldrand, wenn der Regen stärker wird; die Aussicht auf die aufgewühlte See ist von dort aus fantastisch.",
+                "hu": "Keressen menedéket az erdőszéli fák alatt, ha felerősödik az eső; a felkorbácsolt tenger látványa onnan is lenyűgöző és drámai.",
+                "ro": "Căutați adăpost sub copacii de la marginea pădurii dacă ploaia se intensifică; vederea spre marea agitată este fantastică de acolo.",
+                "en": "Seek shelter under the trees at the woods' edge if the rain intensifies; the view of the choppy sea is fantastic and dramatic from there."
+              }
+            },
+            {
+              "name": {
+                "de": "Perriswood Archery & Falconry Centre",
+                "hu": "Perriswood Archery & Falconry Centre",
+                "ro": "Perriswood Archery & Falconry Centre",
+                "en": "Perriswood Archery & Falconry Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bogenschießstand, um trotz Regen aktiv zu bleiben; die Greifvogel-Präsentationen finden oft in geschützten Bereichen statt.",
+                "hu": "Használja a fedett íjászpályát, hogy az eső ellenére is aktív maradjon; a ragadozómadár-bemutatókat gyakran védett helyen tartják meg.",
+                "ro": "Utilizați poligonul de tir cu arcul acoperit pentru a rămâne activ în ciuda ploii; demonstrațiile cu șoimi au loc adesea în zone protejate.",
+                "en": "Use the covered archery range to stay active despite the rain; birds of prey displays are often held in sheltered areas during wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Castell Oxwich bietet klare Sicht auf die Küste. Kleiden Sie sich warm für den Wind, der von der See weht.\n\nMittags bietet die historische St. Illtyd's Kirche einen besinnlichen Ort der Ruhe. Die Kälte draußen lässt die Atmosphäre drinnen noch gemütlicher wirken.\n\nAm Nachmittag sollten Sie die Strände früh besuchen, da die Sonne gegen 17:00 Uhr untergeht. Das Winterlicht zaubert wunderschöne Farben auf den Sand.\n\nSobald die Dunkelheit einbricht, wärmen Sie sich im Perriswood Zentrum auf. Genießen Sie die winterliche Stille der Gower-Halbinsel.",
+            "hu": "A friss téli reggel a Castell Oxwichnál tiszta kilátást nyújt a partra. Öltözzön rétegesen a tenger felől érkező metsző szél ellen.\n\nDélben a történelmi St. Illtyd templom meghitt és csendes pihenőt kínál. A kinti hideg még hangulatosabbá teszi a belső teret.\n\nDélután korán látogasson el a strandokra, mert 17:00 körül már sötétedik. A téli naplemente arany színekbe öltözteti a homokos partot.\n\nAmint leszáll az éj, melegedjen fel a Perriswood központban. Élvezze a Gower-félsziget különleges, békés téli nyugalmát az esti órákban.",
+            "ro": "O dimineață răcoroasă de iarnă la Castell Oxwich oferă vederi clare asupra coastei. Îmbrăcați-vă gros pentru vântul tăios care suflă dinspre mare.\n\nLa prânz, biserica istorică St. Illtyd oferă un loc de liniște și reculegere. Frigul de afară face atmosfera din interior să pară și mai primitoare.\n\nDupă-amiaza, vizitați plajele devreme, deoarece soarele apune în jur de ora 17:00. Lumina de iarnă pictează culori superbe pe nisipul fin.\n\nImediat ce se lasă întunericul, încălziți-vă la centrul Perriswood. Bucurați-vă de liniștea hibernală a peninsulei Gower în timp ce vă relaxați.",
+            "en": "A crisp winter morning at Castell Oxwich offers clear views of the coastline. Dress warmly for the biting wind blowing in from the sea.\n\nAt noon, the historic St. Illtyd's Church provides a peaceful and reflective sanctuary. The cold outside makes the interior feel even more cozy.\n\nIn the afternoon, visit the beaches early as sunset occurs around 17:00. The winter light creates beautiful colors across the sandy shores.\n\nAs darkness falls, warm up at the Perriswood centre. Enjoy the unique winter tranquility of the Gower Peninsula during the evening hours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell Oxwich",
+                "hu": "Castell Oxwich",
+                "ro": "Castell Oxwich",
+                "en": "Castell Oxwich"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da das Schloss exponiert liegt; die klare Winterluft ermöglicht weite Blicke über den Bristolkanal.",
+                "hu": "Viseljen szélálló ruházatot, mivel a kastély nyitott helyen fekszik; a tiszta téli levegő távoli kilátást enged a Bristol-csatornára.",
+                "ro": "Purtați haine rezistente la vânt, deoarece castelul este expus; aerul clar de iarnă permite vederi îndepărtate peste Canalul Bristol.",
+                "en": "Wear windproof clothing as the castle is very exposed; the clear winter air allows for distant views across the Bristol Channel."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Illtyd's",
+                "hu": "St. Illtyd's",
+                "ro": "St. Illtyd's",
+                "en": "St. Illtyd's"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags für das beste Licht; der kleine Innenraum ist ein windgeschützter Ort für eine kurze Rast.",
+                "hu": "Délben látogassa meg a templomot a legjobb fényviszonyokért; a kis belső tér szélvédett helyet biztosít egy rövid pihenéshez.",
+                "ro": "Vizitați biserica la prânz pentru cea mai bună lumină; interiorul mic este un loc ferit de vânt pentru o scurtă odihnă.",
+                "en": "Visit the church at noon for the best natural light; the small interior is a wind-sheltered spot for a brief and quiet rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Oxwich Bay",
+                "hu": "Oxwich Bay",
+                "ro": "Oxwich Bay",
+                "en": "Oxwich Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Strand fast für sich allein; achten Sie auf die Gezeiten, da das Wasser im Winter besonders kalt und unruhig ist.",
+                "hu": "Élvezze a hatalmas strandot, ami ilyenkor szinte csak az öné; ügyeljen az ár-apályra, mert a téli tenger különösen hideg és nyugtalan.",
+                "ro": "Bucurați-vă de plaja vastă aproape singur; atenție la maree, deoarece apa mării este deosebit de rece și agitată în timpul iernii.",
+                "en": "Enjoy the vast beach almost to yourself; watch the tides carefully, as the winter sea is particularly cold and restless right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Nicholaston Beach",
+                "hu": "Nicholaston Beach",
+                "ro": "Nicholaston Beach",
+                "en": "Nicholaston Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Fotos während der frühen 'goldenen Stunde' vor 16:00 Uhr; der gefrorene Sand bietet eine einzigartige Textur für Landschaftsaufnahmen.",
+                "hu": "Készítsen fotókat a korai 'aranyóra' alatt 16:00 előtt; a fagyott homok egyedi textúrát kölcsönöz a tengerparti tájképeknek.",
+                "ro": "Faceți fotografii în timpul 'orei de aur' timpurii înainte de 16:00; nisipul înghețat oferă o textură unică pentru poze de peisaj.",
+                "en": "Take photos during the early 'golden hour' before 16:00; the frozen sand offers a unique texture for coastal landscape shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Perriswood Archery & Falconry Centre",
+                "hu": "Perriswood Archery & Falconry Centre",
+                "ro": "Perriswood Archery & Falconry Centre",
+                "en": "Perriswood Archery & Falconry Centre"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie Bogenschießen, um sich durch Bewegung warm zu halten; prüfen Sie die Öffnungszeiten, da diese im Winter kürzer sein können.",
+                "hu": "Próbálja ki az íjászatot, hogy a mozgás felmelegítse; ellenőrizze a nyitvatartást, mert télen hamarabb zárhatnak a rövidebb nappalok miatt.",
+                "ro": "Încercați tirul cu arcul pentru a vă încălzi prin mișcare; verificați programul, deoarece orele pot fi reduse în timpul iernii.",
+                "en": "Try archery to stay warm through movement; check the opening hours in advance, as they may be shorter during the winter season."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggelt a Penrice-kastély lenyűgöző birtokán kezdi, majd a békés St. Andrew templomhoz kerekezik egy kis csendes elmélkedésre. Délben felfedezheti a környék ipari múltját a szépen felújított Öreg Malomnál, amely az útvonal csúcspontja. A délután folyamán a titokzatos Oxwich-tornyokhoz és a csodásan megőrzött St. Nicholas's szentélyhez teker. Az este közeledtével tegye le a kerékpárt a Perriswood Központnál egy vidám íjászat erejéig.",
         "ro": "Începeți dimineața explorând domeniul impunător al Castelului Penrice, înainte de a pedala spre liniștita biserică St. Andrew. La prânz veți descoperi trecutul industrial al zonei la Moara Veche restaurată cu grijă, un punct de atracție fascinant. După-amiaza continuă cu o plimbare spre misterioasele Turnuri Oxwich și sanctuarul perfect conservat St. Nicholas's. Spre seară, lăsați bicicleta la Centrul Perriswood pentru activități distractive.",
         "en": "Set off this morning to explore the imposing grounds of Penrice Castle before cycling to the peaceful St. Andrew church for some quiet reflection. By midday, you will discover the area's industrial past at the beautifully restored Old Mill, a fascinating highlight of the route. Your afternoon features a ride to the mysterious Oxwich Towers and the perfectly preserved sanctuary of St. Nicholas's. As evening approaches, park your bike at Perriswood Centre for some fun archery activities."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Penrice Castle, da die Wege rutschig sein können. Regenjacken sind für diese ländliche Radtour unerlässlich.\n\nZur Mittagszeit bieten die St. Andrew Kirche und die Alte Mühle kurze Pausen im Trockenen. Achten Sie auf Pfützen auf den Nebenstraßen.\n\nAm Nachmittag geht es zu den Oxwich Towers und der St. Nicholas Kirche. Die feuchte Luft lässt das Grün der Gower-Landschaft leuchten.\n\nBeenden Sie Ihre Tour am Perriswood Zentrum. Hier können Sie Ihr Rad abstellen und sich bei Indoor-Aktivitäten vom Regen erholen.",
+            "hu": "Kezdje óvatosan a Penrice kastélynál, mivel az utak csúszósak lehetnek. Az esőkabát elengedhetetlen ehhez a vidéki kerékpáros túrához.\n\nDélben a St. Andrew templom és a Régi Malom nyújt rövid, száraz pihenőt. Ügyeljen a nagyobb tócsákra az alsóbbrendű utakon.\n\nDélután az Oxwich tornyok és a St. Nicholas templom felé haladva élvezheti a friss, eső áztatta táj ragyogó zöld színeit.\n\nZárja a túrát a Perriswood központban, ahol biztonságban leteheti a biciklit, és fedett programokkal pihenheti ki a nap fáradalmait.",
+            "ro": "Începeți cu prudență la Castelul Penrice, deoarece drumurile pot fi alunecoase. Pelerina de ploaie este esențială pentru această tură cu bicicleta.\n\nLa prânz, biserica St. Andrew și Vechea Moară oferă scurte pauze uscate. Atenție la bălțile mari de pe drumurile secundare.\n\nDupă-amiaza, pedalați spre Turnurile Oxwich și biserica St. Nicholas. Aerul umed face ca verdele peisajului Gower să strălucească intens.\n\nÎncheiați tura la centrul Perriswood. Aici puteți lăsa bicicleta și vă puteți relaxa cu activități de interior ferite de ploaie.",
+            "en": "Start carefully at Penrice Castle as the paths can be slippery. Waterproof gear is essential for this rural cycling tour in the rain.\n\nAt noon, St. Andrew’s Church and the Old Mill provide short, dry breaks. Watch out for deep puddles on the narrow country lanes.\n\nIn the afternoon, head towards Oxwich Towers and St. Nicholas's. The damp air makes the Gower landscape glow with vibrant green hues.\n\nEnd your tour at the Perriswood centre, where you can park your bike and recover from the rain with some indoor activities."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penrice Castle",
+                "hu": "Penrice Castle",
+                "ro": "Penrice Castle",
+                "en": "Penrice Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den Zufahrtswegen langsam; das nasse Kopfsteinpflaster und Laub können für Fahrradreifen sehr tückisch sein.",
+                "hu": "Haladjon lassan a bevezető utakon; a vizes macskakő és a nedves levelek nagyon csalókák és csúszósak lehetnek a bicikligumiknak.",
+                "ro": "Mergeți încet pe drumurile de acces; pavajul umed și frunzele ude pot fi foarte înșelătoare pentru cauciucurile bicicletei.",
+                "en": "Ride slowly on the access paths; wet cobblestones and damp leaves can be very treacherous and slippery for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Andrew",
+                "hu": "St. Andrew",
+                "ro": "St. Andrew",
+                "en": "St. Andrew"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenportal als Unterstand für einen schnellen Snack im Trockenen, bevor Sie die Fahrt durch das Dorf fortsetzen.",
+                "hu": "Használja a templom előcsarnokát menedékként egy gyors, száraz uzsonnához, mielőtt folytatná az utat a falun keresztül.",
+                "ro": "Folosiți pridvorul bisericii ca adăpost pentru o gustare rapidă la uscat înainte de a continua drumul prin sat.",
+                "en": "Use the church porch as a shelter for a quick dry snack before continuing your ride through the village lanes."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Mill",
+                "hu": "Old Mill",
+                "ro": "Old Mill",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung der Mühle ist bei Regen besonders stimmungsvoll; parken Sie Ihr Rad an einem geschützten Ort nahe der historischen Mauern.",
+                "hu": "A malom környéke esőben különösen hangulatos; parkolja le a biciklit egy védett helyen a történelmi falak közelében.",
+                "ro": "Împrejurimile morii sunt deosebit de atmosferice pe ploaie; parcați bicicleta într-un loc protejat lângă zidurile istorice.",
+                "en": "The surroundings of the mill are very atmospheric in the rain; park your bike in a sheltered spot near the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Oxwich Towers",
+                "hu": "Oxwich Towers",
+                "ro": "Oxwich Towers",
+                "en": "Oxwich Towers"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Pfützen verdeckt sein könnten; die Aussicht auf die Türme ist auch bei grauem Himmel majestätisch.",
+                "hu": "Ügyeljen a tócsák által eltakart kátyúkra; a tornyok látványa még szürke égbolt alatt is fenséges és fotogén marad.",
+                "ro": "Atenție la gropile ascunse de bălți; vederea turnurilor rămâne maiestuoasă și fotogenă chiar și sub un cer cenușiu.",
+                "en": "Watch out for potholes hidden by puddles; the view of the towers remains majestic and photogenic even under gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nicholas's",
+                "hu": "St. Nicholas's",
+                "ro": "St. Nicholas's",
+                "en": "St. Nicholas's"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen abzuwarten; prüfen Sie Ihre Bremsen, da die Abfahrt nach Oxwich bei Nässe mehr Bremsweg erfordert.",
+                "hu": "Csendes hely az eső kivárására; ellenőrizze a fékeket, mert a vizes úton az Oxwich felé tartó lejtő hosszabb féktávot igényel.",
+                "ro": "Un loc liniștit pentru a aștepta oprirea ploii; verificați frânele, deoarece coborârea spre Oxwich necesită o distanță de frânare mai mare.",
+                "en": "A quiet place to wait out the rain; check your brakes, as the descent to Oxwich requires a longer braking distance in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Perriswood Archery & Falconry Centre",
+                "hu": "Perriswood Archery & Falconry Centre",
+                "ro": "Perriswood Archery & Falconry Centre",
+                "en": "Perriswood Archery & Falconry Centre"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel Ihrer Tour bietet warme Getränke und überdachte Stände; ideal, um die nasse Radkleidung kurzzeitig zu vergessen.",
+                "hu": "A túra célpontja meleg italokat és fedett helyeket kínál; ideális, hogy egy kicsit elfelejtse a vizes kerékpáros ruházatot.",
+                "ro": "Destinația turei oferă băuturi calde și spații acoperite; ideal pentru a uita pentru o clipă de hainele de ciclism ude.",
+                "en": "The end of your tour offers warm drinks and covered stands; ideal for forgetting about your wet cycling gear for a while."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre winterliche Radtour am Penrice Castle. Die kahlen Bäume geben den Blick auf architektonische Details frei, die im Sommer verborgen sind.\n\nMittags erreichen Sie St. Andrew und die Alte Mühle. Tragen Sie windfeste Handschuhe, da der Fahrtwind bei Minusgraden sehr kalt sein kann.\n\nAm Nachmittag radeln Sie durch die ruhige Winterlandschaft zu den Oxwich Towers. Das tiefe Sonnenlicht sorgt für lange, dramatische Schatten.\n\nBeenden Sie die Tour vor Einbruch der Dunkelheit um 17:00 Uhr im Perriswood Zentrum. Die klare Luft macht die Rückfahrt besonders erfrischend.",
+            "hu": "Kezdje téli biciklitúráját a Penrice kastélynál. A kopár fák láthatóvá teszik azokat az építészeti részleteket, amiket nyáron elfed a lomb.\n\nDélben éri el a St. Andrew templomot és a Régi Malmot. Viseljen szélálló kesztyűt, mert a menetszél fagypont alatt nagyon hideg lehet.\n\nDélután tekerjen a csendes téli tájon át az Oxwich tornyokhoz. Az alacsony napállás hosszú és drámai árnyékokat vet az útra.\n\nZárja a túrát a sötétedés beállta előtt, 17:00 körül a Perriswood központban. A friss, tiszta levegő különösen élénkítővé teszi a visszafelé utat.",
+            "ro": "Începeți tura de iarnă la Castelul Penrice. Copacii desfrunziți dezvăluie detalii arhitecturale care vara sunt ascunse de frunzișul bogat.\n\nLa prânz ajungeți la biserica St. Andrew și Vechea Moară. Purtați mănuși rezistente la vânt, deoarece curentul poate fi foarte rece sub zero grade.\n\nDupă-amiaza pedalați prin peisajul liniștit de iarnă spre Turnurile Oxwich. Lumina joasă a soarelui proiectează umbre lungi și dramatice.\n\nÎncheiați tura înainte de lăsarea întunericului, în jur de ora 17:00, la centrul Perriswood. Aerul curat face drumul de întoarcere revigorant.",
+            "en": "Begin your winter bike tour at Penrice Castle. The bare trees reveal architectural details that are often hidden by foliage in summer.\n\nAt noon, you'll reach St. Andrew’s and the Old Mill. Wear windproof gloves, as the wind chill can be very cold at sub-zero temperatures.\n\nIn the afternoon, cycle through the quiet winter landscape to Oxwich Towers. The low sun creates long, dramatic shadows across your path.\n\nEnd the tour before darkness falls around 17:00 at the Perriswood centre. The crisp, clear air makes the return journey especially refreshing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penrice Castle",
+                "hu": "Penrice Castle",
+                "ro": "Penrice Castle",
+                "en": "Penrice Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe in schattigen Waldabschnitten; die klare Sicht auf die Burgruine ist im Winter am besten.",
+                "hu": "Ügyeljen a felfagyásokra az árnyékos erdei szakaszokon; a várromra nyíló tiszta kilátás télen a leglátványosabb a kopár fák között.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite de pădure; vederea clară spre ruinele castelului este cea mai bună iarna.",
+                "en": "Watch out for black ice in shaded wooded sections; the clear view of the castle ruins is at its best during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Andrew",
+                "hu": "St. Andrew",
+                "ro": "St. Andrew",
+                "en": "St. Andrew"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause im Inneren hilft, die Finger aufzuwärmen; bewundern Sie das alte Mauerwerk, das in der Wintersonne warm leuchtet.",
+                "hu": "Egy rövid belső pihenő segít felmelegíteni az ujjait; csodálja meg a régi falakat, amelyek a téli napsütésben melegen ragyognak.",
+                "ro": "O scurtă pauză în interior vă ajută să vă încălziți degetele; admirați zidăria veche care strălucește cald în soarele de iarnă.",
+                "en": "A short break inside will help warm up your fingers; admire the old stonework which glows warmly in the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Mill",
+                "hu": "Old Mill",
+                "ro": "Old Mill",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Der nahegelegene Bach wirkt im Winter fast kristallklar; parken Sie Ihr Rad sicher auf festem Untergrund, um Frostschäden zu vermeiden.",
+                "hu": "A közeli patak télen szinte kristálytiszta; parkolja le a biciklit biztonságosan szilárd talajon, hogy elkerülje a jeges csúszást.",
+                "ro": "Pârâul din apropiere pare aproape de cristal iarna; parcați bicicleta în siguranță pe teren ferm pentru a evita alunecarea pe gheață.",
+                "en": "The nearby stream looks almost crystal clear in winter; park your bike safely on firm ground to avoid any icy slips or falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Oxwich Towers",
+                "hu": "Oxwich Towers",
+                "ro": "Oxwich Towers",
+                "en": "Oxwich Towers"
+              },
+              "tip_5lang": {
+                "de": "Das Mauerwerk speichert kaum Wärme, halten Sie die Pause kurz und bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "A kőfalak ilyenkor nem tartják a meleget, tartsa röviden a pihenőt és maradjon mozgásban, hogy ne hűljön ki a teste.",
+                "ro": "Zidurile de piatră nu rețin căldura, așa că țineți pauza scurtă și rămâneți în mișcare pentru a nu vă răci prea tare.",
+                "en": "The stonework holds no heat right now, so keep your break short and stay in motion to prevent your body from cooling down."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nicholas's",
+                "hu": "St. Nicholas's",
+                "ro": "St. Nicholas's",
+                "en": "St. Nicholas's"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Lichter für die letzte Etappe; die früh einsetzende Dämmerung erfordert gute Sichtbarkeit auf den schmalen Straßen.",
+                "hu": "Ellenőrizze a lámpákat az utolsó szakasz előtt; a korai szürkület miatt elengedhetetlen a jó láthatóság a szűk utakon.",
+                "ro": "Verificați luminile înainte de ultima etapă; amurgul timpuriu necesită o vizibilitate bună pe drumurile înguste din zonă.",
+                "en": "Check your bike lights for the final leg; the early onset of twilight requires excellent visibility on these narrow country roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Perriswood Archery & Falconry Centre",
+                "hu": "Perriswood Archery & Falconry Centre",
+                "ro": "Perriswood Archery & Falconry Centre",
+                "en": "Perriswood Archery & Falconry Centre"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einem heißen Getränk im Café; die winterliche Stille hier ist perfekt, um den Tag Revue passieren zu lassen.",
+                "hu": "Jutalmazza meg magát egy forró itallal a kávézóban; a téli csend tökéletes helyszín a nap eseményeinek felidézéséhez.",
+                "ro": "Răsplătiți-vă cu o băutură fierbinte la cafenea; liniștea iernii de aici este perfectă pentru a trece în revistă evenimentele zilei.",
+                "en": "Reward yourself with a hot drink at the cafe; the winter stillness here is perfect for reflecting on the day's cycling journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós utazását a Slade-öböl sziklás partjainál, majd tegyen egy lenyűgöző kitérőt a Castell Oxwich romjainál. A dél tökéletes a pihenésre az Oxwich-öböl homokján és a közeli St. Illtyd's templom nyugodt építészetének megcsodálására. A délutáni autózás a szárazföld belsejébe, a Penrice-kastély hatalmas birtokaira és az Öreg Malomhoz vezet. Zárja utazását egy festői esti sétával a Nicholaston strand lenyűgöző dűnéi mentén.",
         "ro": "Începeți călătoria cu mașina pe țărmurile stâncoase din Slade Bay, urmată de o oprire fascinantă la ruinele de la Castell Oxwich. Prânzul este perfect pentru a vă relaxa pe nisipul din Oxwich Bay și pentru a admira arhitectura senină a bisericii St. Illtyd's. După-amiaza vă duce spre interior, la domeniul Castelului Penrice și la utilajele istorice ale Morii Vechi. Încheiați călătoria cu o plimbare pitorească de seară pe dunele de la Nicholaston.",
         "en": "Begin your road trip wandering the rocky outcrops of Slade Bay in the morning, followed by a fascinating stop at the ruins of Castell Oxwich. Midday is perfect for relaxing on the sands of Oxwich Bay and admiring the serene architecture of St. Illtyd's church nearby. The afternoon drive takes you inland to the sweeping estates of Penrice Castle and the historical machinery of the Old Mill. End your journey with a scenic evening stroll along the spectacular dunes of Nicholaston Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Slade Bay. Bei Regen können Sie die wilde Küste bequem vom trockenen Auto aus bewundern.\n\nMittags besuchen Sie Castell Oxwich und Oxwich Bay. Die kurzen Wege zwischen den Stopps halten Sie trocken, während Sie die Aussicht genießen.\n\nAm Nachmittag führt die Fahrt zur St. Illtyd's Kirche und zum Penrice Castle. Die grauen Wolken über den Ruinen bieten dramatische Fotomotive.\n\nBeenden Sie den Tag an der Alten Mühle und am Nicholaston Beach. Ein kurzer Spaziergang zum Strand im Regenmantel belebt die Sinne, bevor es zurück geht.",
+            "hu": "Kezdje a napot a Slade-öbölnél. Esőben kényelmesen, a száraz autóból is megcsodálhatja a vadregényes tengerparti kilátást.\n\nDélben látogasson el a Castell Oxwichhoz és az Oxwich-öbölhöz. A megállók közötti rövid távok segítenek, hogy száraz maradjon.\n\nDélután az út a St. Illtyd templomhoz és a Penrice kastélyhoz vezet. A romok feletti szürke felhők drámai fotótémát kínálnak.\n\nZárja a napot a Régi Malomnál és a Nicholaston strandnál. Egy rövid, esőkabátos séta a parton felfrissíti, mielőtt visszatérne a meleg autóba.",
+            "ro": "Începeți ziua la Slade Bay. Pe ploaie, puteți admira coasta sălbatică confortabil, direct din mașina dumneavoastră primitoare.\n\nLa prânz vizitați Castell Oxwich și Oxwich Bay. Distanțele scurte între opriri vă ajută să rămâneți uscat în timp ce savurați priveliștea.\n\nDupă-amiaza, drumul duce spre biserica St. Illtyd și Castelul Penrice. Norii cenușii de deasupra ruinelor oferă subiecte dramatice pentru poze.\n\nÎncheiați ziua la Vechea Moară și plaja Nicholaston. O scurtă plimbare cu pelerina pe plajă vă va revigora înainte de a pleca spre casă.",
+            "en": "Start your day at Slade Bay. In the rain, you can admire the wild coastline comfortably from the dryness of your car.\n\nAt noon, visit Castell Oxwich and Oxwich Bay. The short distances between stops help you stay dry while still enjoying the coastal views.\n\nIn the afternoon, head to St. Illtyd's Church and Penrice Castle. The gray clouds over the ruins provide dramatic photo opportunities.\n\nEnd the day at the Old Mill and Nicholaston Beach. A quick walk on the shore in your raincoat is invigorating before heading back to the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slade Bay",
+                "hu": "Slade Bay",
+                "ro": "Slade Bay",
+                "en": "Slade Bay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Aussichtspunkt; bei starkem Regen bietet das Autofenster einen perfekten Rahmen für Küstenfotos.",
+                "hu": "Parkoljon a lehető legközelebb a kilátóponthoz; erős esőben az autóablak tökéletes keretet ad a tengerparti fotókhoz.",
+                "ro": "Parcați cât mai aproape de punctul de belvedere; în caz de ploaie puternică, geamul mașinii oferă cadrul perfect pentru poze.",
+                "en": "Park as close as possible to the viewpoint; during heavy rain, the car window provides a perfect frame for coastal photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Oxwich",
+                "hu": "Castell Oxwich",
+                "ro": "Castell Oxwich",
+                "en": "Castell Oxwich"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur einen kurzen Fußweg vom Eingang entfernt; nutzen Sie die Zeit drinnen, um die Geschichte im Trockenen zu erkunden.",
+                "hu": "A parkoló csak egy rövid sétára van a bejárattól; használja ki a benti időt, hogy szárazon fedezze fel a kastély történetét.",
+                "ro": "Parcarea este la doar câțiva pași de intrare; folosiți timpul petrecut în interior pentru a explora istoria la adăpost.",
+                "en": "The car park is only a short walk from the entrance; use your time inside to explore the castle's history while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Oxwich Bay",
+                "hu": "Oxwich Bay",
+                "ro": "Oxwich Bay",
+                "en": "Oxwich Bay"
+              },
+              "tip_5lang": {
+                "de": "Es gibt ein Café am Parkplatz, ideal für eine Pause, wenn der Schauer zu stark wird, um am Strand spazieren zu gehen.",
+                "hu": "A parkolónál van egy kávézó, ami ideális menedék, ha a zápor túl erőssé válna egy kiadós tengerparti sétához.",
+                "ro": "Există o cafenea lângă parcare, ideală pentru o pauză dacă aversa devine prea puternică pentru o plimbare pe plajă.",
+                "en": "There is a cafe right by the car park, which is an ideal shelter if the downpour becomes too heavy for a beach stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Illtyd's",
+                "hu": "St. Illtyd's",
+                "ro": "St. Illtyd's",
+                "en": "St. Illtyd's"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zur Kirche kann bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie die mystische Ruhe des Ortes.",
+                "hu": "A templomhoz vezető szűk út esőben csúszós lehet; vezessen óvatosan, és élvezze a hely misztikus, csendes nyugalmát.",
+                "ro": "Drumul îngust spre biserică poate fi alunecos pe ploaie; conduceți cu atenție și bucurați-vă de liniștea mistică a locului.",
+                "en": "The narrow road to the church can be slippery in the rain; drive carefully and enjoy the mystical tranquility of this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Penrice Castle",
+                "hu": "Penrice Castle",
+                "ro": "Penrice Castle",
+                "en": "Penrice Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposante Anlage vom Auto aus oder nutzen Sie Regenpausen für kurze Erkundungen der äußeren Mauern.",
+                "hu": "Csodálja meg a lenyűgöző épületegyüttest az autóból, vagy használja ki az esőszünetet a külső falak gyors felfedezésére.",
+                "ro": "Admirați complexul impresionant din mașină sau profitați de pauzele de ploaie pentru o scurtă explorare a zidurilor exterioare.",
+                "en": "Admire the impressive complex from your car or take advantage of breaks in the rain for a quick exploration of the outer walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Mill",
+                "hu": "Old Mill",
+                "ro": "Old Mill",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen Fotostopp direkt von der Straße aus; die nassen Steine der Mühle glänzen wunderschön im Regenlicht.",
+                "hu": "Szép hely egy fotómegállóra közvetlenül az út mentén; a malom vizes kövei gyönyörűen csillognak az esős fényviszonyok között.",
+                "ro": "Un loc frumos pentru o oprire foto direct de pe drum; pietrele ude ale morii strălucesc frumos în lumina ploioasă.",
+                "en": "A lovely spot for a photo stop directly from the road; the mill's wet stones glisten beautifully in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Nicholaston Beach",
+                "hu": "Nicholaston Beach",
+                "ro": "Nicholaston Beach",
+                "en": "Nicholaston Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto laufen, während Sie den Blick auf die Bucht genießen; der Regen macht die Küste besonders wild.",
+                "hu": "Hagyja menni a fűtést az autóban, miközben az öbölre nyíló kilátást élvezi; az eső különösen vadregényessé teszi a partot.",
+                "ro": "Lăsați căldura pornită în mașină în timp ce admirați golful; ploaia face coasta să pară deosebit de sălbatică și liberă.",
+                "en": "Keep the car heater running while enjoying the bay view; the rain makes the coastline look particularly wild and untamed."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Slade Bay. Die Wintersonne lässt das Meer glitzern, während Sie im warmen Auto die Aussicht genießen.\n\nMittags besuchen Sie Castell Oxwich und die Oxwich Bay. Das klare Licht ist ideal für weite Panoramablicke über den Kanal.\n\nAm Nachmittag fahren Sie zur St. Illtyd's Kirche und zum Penrice Castle. Achten Sie auf mögliche Eisstellen auf den schattigen Landstraßen.\n\nBeenden Sie den Tag vor Sonnenuntergang um 17:00 Uhr am Nicholaston Beach. Die winterliche Dämmerung taucht die Landschaft in sanfte Pastelltöne.",
+            "hu": "Kezdje a napot a Slade-öbölnél. A téli napsütés megcsillan a tengeren, miközben ön a fűtött autó kényelméből gyönyörködik.\n\nDélben látogasson el a Castell Oxwichhoz és az Oxwich-öbölhöz. A tiszta fények ideálisak a Bristol-csatornára nyíló panorámához.\n\nDélután az út a St. Illtyd templomhoz és a Penrice kastélyhoz vezet. Ügyeljen az esetleges jeges foltokra az árnyékos utakon.\n\nZárja a napot a 17:00 körüli naplemente előtt a Nicholaston strandnál. A téli szürkület lágy pasztellszínekbe öltözteti a tájat.",
+            "ro": "Începeți ziua la Slade Bay. Soarele de iarnă face marea să scliprească, în timp ce savurați priveliștea din mașina încălzită.\n\nLa prânz vizitați Castell Oxwich și Oxwich Bay. Lumina clară este ideală pentru vederi panoramice vaste peste Canalul Bristol.\n\nDupă-amiaza, conduceți spre biserica St. Illtyd și Castelul Penrice. Atenție la posibilele porțiuni cu gheață pe drumurile umbrite.\n\nÎncheiați ziua înainte de apusul soarelui de la ora 17:00 la plaja Nicholaston. Amurgul de iarnă scaldă peisajul în tonuri calde de pastel.",
+            "en": "Start your day at Slade Bay. The winter sun makes the sea sparkle while you enjoy the view from the comfort of a heated car.\n\nAt noon, visit Castell Oxwich and Oxwich Bay. The clear light is ideal for wide panoramic views across the Bristol Channel.\n\nIn the afternoon, drive to St. Illtyd's Church and Penrice Castle. Watch out for potential icy patches on shaded rural roads.\n\nEnd your day before the 17:00 sunset at Nicholaston Beach. The winter twilight bathes the landscape in soft, beautiful pastel colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Slade Bay",
+                "hu": "Slade Bay",
+                "ro": "Slade Bay",
+                "en": "Slade Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Sommermassen; die Parkplätze sind im Winter meist leer und bieten beste Sicht auf die Brandung.",
+                "hu": "Élvezze a nyugalmat a nyári tömeg nélkül; a parkolók ilyenkor üresek, így a legjobb helyekről nézheti a téli hullámverést.",
+                "ro": "Bucurați-vă de liniște fără aglomerația de vară; parcările sunt libere, oferind cele mai bune locuri pentru a vedea valurile.",
+                "en": "Enjoy the peace without the summer crowds; the car parks are mostly empty, offering the best views of the winter surf."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Oxwich",
+                "hu": "Castell Oxwich",
+                "ro": "Castell Oxwich",
+                "en": "Castell Oxwich"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorher die Winteröffnungszeiten; die Burgruine wirkt in der tiefstehenden Sonne besonders plastisch und geschichtsträchtig.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást; a várrom az alacsonyan járó nap fényében különösen látványos és történelemhű képet mutat.",
+                "ro": "Verificați programul de iarnă în avans; ruinele castelului par deosebit de plastice și pline de istorie în lumina soarelui jos.",
+                "en": "Check winter opening hours in advance; the castle ruins look especially dramatic and historic in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Oxwich Bay",
+                "hu": "Oxwich Bay",
+                "ro": "Oxwich Bay",
+                "en": "Oxwich Bay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz für einen kurzen, knackigen Strandspaziergang; die Winterluft hier ist unglaublich erfrischend.",
+                "hu": "Használja a kiépített parkolót egy rövid, frissítő tengerparti sétához; a téli levegő itt hihetetlenül élénkítő és tiszta.",
+                "ro": "Folosiți parcarea amenajată pentru o scurtă plimbare revigorantă pe plajă; aerul de iarnă de aici este incredibil de proaspăt.",
+                "en": "Use the paved car park for a short, crisp beach walk; the winter air here is incredibly refreshing and invigorating right now."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Illtyd's",
+                "hu": "St. Illtyd's",
+                "ro": "St. Illtyd's",
+                "en": "St. Illtyd's"
+              },
+              "tip_5lang": {
+                "de": "Der Friedhof der Kirche ist im Winter sehr atmosphärisch; achten Sie auf den Weg, der bei Frost glatt sein kann.",
+                "hu": "A templomkert télen nagyon hangulatos; ügyeljen a gyalogútra, amely fagy esetén csúszós lehet a templom megközelítésekor.",
+                "ro": "Cimitirul bisericii este foarte atmosferic iarna; atenție la alee, care poate fi alunecoasă în caz de îngheț la intrare.",
+                "en": "The churchyard is very atmospheric in winter; be careful on the path, as it can be slippery if there is frost on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Penrice Castle",
+                "hu": "Penrice Castle",
+                "ro": "Penrice Castle",
+                "en": "Penrice Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Parkanlage; die gefrorenen Wiesen rund um das Schloss bieten ein malerisches, weißes Panorama.",
+                "hu": "Vezessen lassan a parkon keresztül; a kastély körüli deres mezők festői, fehér panorámát nyújtanak a téli napsütésben.",
+                "ro": "Conduceți încet prin parc; pajiștile înghețate din jurul castelului oferă o panoramă albă pitorească în soarele de iarnă.",
+                "en": "Drive slowly through the parkland; the frost-covered meadows around the castle offer a picturesque, white winter panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Mill",
+                "hu": "Old Mill",
+                "ro": "Old Mill",
+                "en": "Old Mill"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle ist ein toller Stopp für ein schnelles Foto; das dunkle Holz kontrastiert herrlich mit dem hellen Winterhimmel.",
+                "hu": "A régi malom remek megálló egy gyors fotóra; a sötét fa szerkezet csodás kontrasztot alkot a világos téli égbolttal.",
+                "ro": "Vechea moară este o oprire excelentă pentru o poză rapidă; lemnul închis contrastează superb cu cerul senin de iarnă.",
+                "en": "The old mill is a great stop for a quick photo; the dark wood contrasts beautifully with the bright and clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Nicholaston Beach",
+                "hu": "Nicholaston Beach",
+                "ro": "Nicholaston Beach",
+                "en": "Nicholaston Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bis zum Sonnenuntergang im Auto; die Farben am Horizont sind im Winter oft intensiver und klarer als im Sommer.",
+                "hu": "Maradjon az autóban a naplementéig; a színek a horizonton télen gyakran intenzívebbek és tisztábbak, mint a nyári párában.",
+                "ro": "Rămâneți în mașină până la apus; culorile de la orizont sunt adesea mai intense și mai clare iarna decât vara.",
+                "en": "Stay in your car until sunset; the colors on the horizon are often more intense and clear in winter than in the summer haze."
+              }
+            }
+          ]
+        }
       }
     }
   }

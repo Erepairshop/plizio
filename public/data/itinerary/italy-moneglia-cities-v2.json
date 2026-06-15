@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Monegliában a friss tengeri szellővel, miközben bejárja az ősi parti erődöket, amelyek a régió gazdag történelméről mesélnek.\nA dél közeledtével a homokos partok hívogatnak, hogy megpihenjen a liguriai napsütésben, és érezze a meleg homokot a lábujjai között.\nA délután lenyűgöző építészetű, békés történelmi templomok látogatásával folytatódik, melyek csendes menedéket nyújtanak.\nZárja az utazást kora este egy nyugodt tengerparti ponton, ahogy a naplemente arany árnyalatokkal festi meg a kristálytiszta, csillogó víztükröt.",
         "ro": "Începeți ziua în Moneglia respirând briza proaspătă a mării, în timp ce explorați vechile fortărețe care spun povești despre trecutul regiunii.\nLa amiază, plajele nisipoase vă invită să vă relaxați sub soarele blând, simțind nisipul cald între degetele de la picioare pe țărmul liniștit.\nDupă-amiaza continuă cu vizite la biserici istorice decorate cu arhitectură impresionantă, oferind un refugiu retras din agitația de pe coastă.\nÎncheiați călătoria seara, privind apusul care aruncă nuanțe aurii peste apele cristaline dintr-un punct de belvedere pașnic de la malul mării.",
         "en": "Start your day in Moneglia by breathing in the fresh sea breeze while wandering around the ancient coastal fortresses that tell tales of the region's rich past.\nAs midday approaches, the sandy shores invite you to relax under the gentle Ligurian sun, feeling the warm sand between your toes.\nThe afternoon continues with visits to serene historical churches adorned with stunning architecture, offering a quiet retreat from the lively coastal energy.\nConclude your journey as the evening sets in, watching the sunset cast golden hues over the crystalline waters from a peaceful seaside viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen an der Burg Monleone beginnt atmosphärisch, wenn die Wolken tief hängen. Mittags bieten die schmalen Gassen und Kirchenportale Schutz vor den Schauern. Am Nachmittag erzeugt der Regen auf dem Meer eine ruhige Melancholie am Strand. Abends reflektieren die nassen Steine das Licht der Laternen, während man in einem trockenen Café den Tag gemütlich ausklingen lässt.",
+            "hu": "A reggeli várnézés közben az eső elől a templomok freskói alá húzódhatunk menedékért. Délben a szűk carrugik árkádjai nyújtanak természetes ernyőt a sétálók számára. Délután a tenger morajlása az esővel vegyülve különleges, mély hangulatot áraszt a part mentén. Estére a vizes macskaköveken megcsillanó fények kísérnek minket egy meleg helyre, miközben a kopogó esőt hallgatjuk.",
+            "ro": "O dimineață ploioasă la castel începe cu nori joși, oferind o perspectivă dramatică asupra coastei. La prânz, arcadele străzilor înguste și bisericile oferă un adăpost perfect împotriva stropilor. După-amiaza, ploaia care cade peste mare creează o atmosferă liniștită pe plajă. Seara, luminile se reflectă pe pavajul umed, ghidându-vă spre un loc călduros pentru a încheia ziua.",
+            "en": "A rainy morning at the castle starts with a moody atmosphere as clouds hang low over the hills. At noon, the narrow alleys and church porches provide sanctuary from the showers. In the afternoon, rain hitting the sea surface creates a serene, melancholic vibe along the beach. By evening, lights reflect on the wet cobblestones, leading you to a cozy indoor spot to dry off and relax."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Monleone",
+                "hu": "Castello di Monleone",
+                "ro": "Castello di Monleone",
+                "en": "Castello di Monleone"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Regen besonders mystisch; tragen Sie feste Schuhe, da die alten Pfade bei Nässe sehr rutschig werden können.",
+                "hu": "A várromok esőben is méltóságteljesek, a környező kertek illata ilyenkor a legintenzívebb; viseljünk csúszásmentes talpú cipőt a köveken.",
+                "ro": "Ruinele castelului par mistice în ploaie; purtați încălțăminte stabilă, deoarece potecile vechi pot deveni foarte alunecoase când sunt ude.",
+                "en": "The castle ruins look mystical in the rain; wear sturdy shoes as the ancient stone paths can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giorgio",
+                "hu": "Chiesa di San Giorgio",
+                "ro": "Chiesa di San Giorgio",
+                "en": "Chiesa di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen idealen trockenen Zufluchtsort; bewundern Sie den Kreuzgang, während Sie das Trommeln des Regens auf dem Dach hören.",
+                "hu": "A templom belső tere tökéletes száraz menedék; csodáljuk meg a kerengőt és a freskókat, miközben az eső kopogását hallgatjuk a tetőn.",
+                "ro": "Biserica oferă un refugiu uscat ideal; admirați claustrul liniștit în timp ce ascultați sunetul ploii care cade pe acoperișul istoric.",
+                "en": "The church provides an ideal dry sanctuary; admire the peaceful cloister while listening to the rhythmic sound of rain on the ancient roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Letizia",
+                "hu": "Bagni Letizia",
+                "ro": "Bagni Letizia",
+                "en": "Bagni Letizia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer vom überdachten Bereich aus; die Brandung wirkt bei Regenwetter oft viel gewaltiger und lauter.",
+                "hu": "Élvezzük a szürke tenger látványát a fedett teraszról; a hullámtörés esős időben sokkal intenzívebb és látványosabb a parton.",
+                "ro": "Bucurați-vă de vederea mării gri din zona acoperită; sunetul valurilor este adesea mult mai puternic și impresionant pe timp de ploaie.",
+                "en": "Enjoy the view of the grey sea from the covered terrace area; the crashing waves often sound much more powerful and dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Moneglia Beach",
+                "hu": "Moneglia Beach",
+                "ro": "Moneglia Beach",
+                "en": "Moneglia Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand im Regen hat seinen eigenen Charme; ein stabiler Windschutzschirm ist bei der Meeresbrise unerlässlich.",
+                "hu": "A néptelen esős tengerpartnak különleges varázsa van; egy stabil esernyő kötelező kellék az erős tengeri szél miatt a homokos parton.",
+                "ro": "O plimbare pe plaja goală în ploaie are un farmec aparte; o umbrelă rezistentă la vânt este esențială din cauza brizelor marine.",
+                "en": "A walk on the empty beach in the rain has a unique charm; a windproof umbrella is essential due to the gusty sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Croce",
+                "hu": "Chiesa di Santa Croce",
+                "ro": "Chiesa di Santa Croce",
+                "en": "Chiesa di Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum zur Besinnung, während es draußen regnet; achten Sie auf die Stufen, die bei Nässe extrem glatt sein können.",
+                "hu": "A templom csendje tökéletes kontraszt a kinti viharhoz; vigyázzunk a bejáratnál, mert a márványlépcsők vizesen nagyon csúszósak.",
+                "ro": "Interiorul bisericii oferă o liniște perfectă în contrast cu ploaia; aveți grijă la trepte, pot fi extrem de alunecoase când sunt ude.",
+                "en": "The church's quiet interior is a perfect contrast to the rain outside; watch your step as the marble entrance can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Acquarium",
+                "hu": "Bagni Acquarium",
+                "ro": "Bagni Acquarium",
+                "en": "Bagni Acquarium"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche; wasserfeste Kleidung schützt Sie beim letzten Blick auf die Brandung.",
+                "hu": "Figyeljük meg a vízcseppek játékát a tenger felszínén; egy jó esőkabátban az utolsó tengerparti pillantás is felejthetetlen élmény marad.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața mării; o pelerină impermeabilă vă va proteja în timpul ultimei vederi spre valuri.",
+                "en": "Watch the play of raindrops on the sea surface; a high-quality raincoat will keep you dry during the final view of the crashing surf."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit frischer Meeresbrise an der Burg Monleone. Mittags steht die Sonne tief und lässt die Kirchenfassaden in warmem Licht erstrahlen. Am Nachmittag sinken die Temperaturen spürbar, was einen zügigen Spaziergang am Strand erfordert. Da die Sonne bereits gegen 17 Uhr untergeht, wird die Stadt abends früh in ein gemütliches, festliches Licht getaucht.",
+            "hu": "A téli reggel friss tengeri levegővel indul a várhegyen a csípős hidegben. Délben a templomok csendje és vastag falai között érezni a múltat a lemenő nap fényében. Délután a tengerparti séta során a téli nap alacsony szöge festi aranyra a hullámokat. Este a korai, ötnél kezdődő sötétedés miatt a város fényei már korán meghitt, békés hangulatot árasztanak.",
+            "ro": "O dimineață senină de iarnă începe cu briza proaspătă la zidurile castelului Monleone. La prânz, soarele jos luminează fațadele bisericilor în culori calde. După-amiaza, temperaturile scad, făcând plimbarea pe plajă revigorantă. Deoarece soarele apune în jurul orei 17:00, orașul este învăluit devreme într-o lumină caldă și festivă.",
+            "en": "A crisp winter morning starts with fresh sea air at the walls of Castle Monleone. At noon, the low sun illuminates the church facades in warm, golden light. In the afternoon, temperatures drop noticeably, making a brisk beach walk invigorating. With sunset around 5 PM, the town is early bathed in cozy lights, creating a peaceful evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Monleone",
+                "hu": "Castello di Monleone",
+                "ro": "Castello di Monleone",
+                "en": "Castello di Monleone"
+              },
+              "tip_5lang": {
+                "de": "Die Burgmauern schützen vor dem kalten Nordwind; genießen Sie die klare Sicht auf das Meer, die im Winter oft viel weiter reicht als im Sommer.",
+                "hu": "A várfalak védenek a hideg északi széltől; élvezzük a tiszta kilátást, amely télen sokkal távolabbra nyúlik a tenger felett, mint nyáron.",
+                "ro": "Zidurile castelului oferă protecție împotriva vântului rece; bucurați-vă de vizibilitatea clară asupra mării, care iarna este mult mai mare.",
+                "en": "The castle walls provide shelter from cold north winds; enjoy the crystal-clear sea views, which are often much sharper in winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giorgio",
+                "hu": "Chiesa di San Giorgio",
+                "ro": "Chiesa di San Giorgio",
+                "en": "Chiesa di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft wärmer als draußen; nutzen Sie den Ort für eine ruhige Pause und bewundern Sie die kunstvollen Altäre im Kerzenlicht.",
+                "hu": "A templomban gyakran melegebb van, mint kint; használjuk a helyet egy csendes pihenőre és csodáljuk meg az oltárokat a gyertyafényben.",
+                "ro": "În biserică este adesea mai cald decât afară; folosiți acest loc pentru o pauză liniștită și admirați altarele luminate de lumânări.",
+                "en": "The church interior is often warmer than outside; use this space for a quiet break and admire the ornate altars by candlelight."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Letizia",
+                "hu": "Bagni Letizia",
+                "ro": "Bagni Letizia",
+                "en": "Bagni Letizia"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und friedlich; ziehen Sie sich warm an, um die kühle, salzige Gischt bei einem kurzen Stopp zu genießen.",
+                "hu": "A strand télen néptelen és békés; öltözzünk fel melegen, hogy élvezhessük a hűvös, sós tengeri permetet a rövid parti megálló során.",
+                "ro": "Plaja este pustie și liniștită iarna; îmbrăcați-vă gros pentru a vă bucura de briza sărată și răcoroasă în timpul unei scurte opriri.",
+                "en": "The beach is deserted and peaceful in winter; dress in warm layers to enjoy the cool, salty sea spray during a quick coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Moneglia Beach",
+                "hu": "Moneglia Beach",
+                "ro": "Moneglia Beach",
+                "en": "Moneglia Beach"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne zaubert glitzernde Reflexe auf den Sand; ein heißes Getränk in der Thermoskanne macht den Spaziergang perfekt.",
+                "hu": "Az alacsonyan járó téli nap csillogó reflexeket vet a homokra; egy termoszban vitt forró ital teszi tökéletessé a tengerparti sétát.",
+                "ro": "Soarele de iarnă creează reflexii strălucitoare pe nisip; o băutură caldă la termos va face plimbarea pe plajă mult mai plăcută.",
+                "en": "The low winter sun creates sparkling reflections on the sand; bringing a hot drink in a thermos makes this beach walk perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Croce",
+                "hu": "Chiesa di Santa Croce",
+                "ro": "Chiesa di Santa Croce",
+                "en": "Chiesa di Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im sanften Winterlicht; im Inneren finden Sie Schutz vor der Kälte und eine andächtige Stille.",
+                "hu": "Csodáljuk meg a történelmi építészetet a lágy téli fényben; bent menedéket találunk a hideg elől és átélhetjük a meghitt csendet.",
+                "ro": "Admirați arhitectura istorică în lumina blândă de iarnă; în interior veți găsi adăpost împotriva frigului și o liniște profundă.",
+                "en": "Admire the historic architecture in the soft winter light; inside, you'll find shelter from the cold and a deeply peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Acquarium",
+                "hu": "Bagni Acquarium",
+                "ro": "Bagni Acquarium",
+                "en": "Bagni Acquarium"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt im Winter oft blauer und klarer; genießen Sie den weiten Horizont, bevor die Dämmerung bereits am frühen Abend einsetzt.",
+                "hu": "A tenger télen gyakran kékebbnek és tisztábbnak tűnik; élvezzük a tágas horizontot, mielőtt a szürkület már kora este beköszönt.",
+                "ro": "Marea pare adesea mai albastră și mai clară iarna; bucurați-vă de orizontul larg înainte ca amurgul să se lase devreme în seară.",
+                "en": "The sea often appears bluer and clearer in winter; enjoy the vast horizon before the twilight sets in during the early evening hours."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a napot Monegliában a friss tengeri szellővel, miközben bejárja az ősi parti erődöket, amelyek a régió gazdag történelméről mesélnek.\nA dél közeledtével a homokos partok hívogatnak, hogy megpihenjen a liguriai napsütésben, és érezze a meleg homokot a lábujjai között.\nA délután lenyűgöző építészetű, békés történelmi templomok látogatásával folytatódik, melyek csendes menedéket nyújtanak.\nZárja az utazást kora este egy nyugodt tengerparti ponton, ahogy a naplemente arany árnyalatokkal festi meg a kristálytiszta, csillogó víztükröt.",
         "ro": "Începeți ziua în Moneglia respirând briza proaspătă a mării, în timp ce explorați vechile fortărețe care spun povești despre trecutul regiunii.\nLa amiază, plajele nisipoase vă invită să vă relaxați sub soarele blând, simțind nisipul cald între degetele de la picioare pe țărmul liniștit.\nDupă-amiaza continuă cu vizite la biserici istorice decorate cu arhitectură impresionantă, oferind un refugiu retras din agitația de pe coastă.\nÎncheiați călătoria seara, privind apusul care aruncă nuanțe aurii peste apele cristaline dintr-un punct de belvedere pașnic de la malul mării.",
         "en": "Start your day in Moneglia by breathing in the fresh sea breeze while wandering around the ancient coastal fortresses that tell tales of the region's rich past.\nAs midday approaches, the sandy shores invite you to relax under the gentle Ligurian sun, feeling the warm sand between your toes.\nThe afternoon continues with visits to serene historical churches adorned with stunning architecture, offering a quiet retreat from the lively coastal energy.\nConclude your journey as the evening sets in, watching the sunset cast golden hues over the crystalline waters from a peaceful seaside viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start führt Sie auf zwei Rädern durch die glänzenden Straßen von Moneglia. Mittags bieten die Kirchen trockene Pausenplätze, während das Fahrrad sicher unter einem Vordach steht. Am Nachmittag ist auf den Küstenwegen Vorsicht geboten, da der Asphalt rutschig sein kann. Abends lädt die beleuchtete Altstadt zu einer kurzen, stimmungsvollen Fahrt durch den Regen ein.",
+            "hu": "Az esős reggelen két keréken fedezhetjük fel Moneglia csillogó utcáit. Délben a templomok nyújtanak száraz pihenőt, miközben a bringát egy eresz alatt hagyhatjuk. Délután a parti utakon fokozott óvatosság kell, mert az aszfalt csúszós lehet az esőtől. Este a kivilágított óvárosban egy rövid, hangulatos tekeréssel zárhatjuk a napot az esőben.",
+            "ro": "Un start ploios vă poartă pe două roți prin străzile lucioase din Moneglia. La prânz, bisericile oferă locuri de odihnă uscate, în timp ce bicicleta stă sub un adăpost. După-amiaza, este necesară prudență pe drumurile de coastă, deoarece asfaltul poate fi alunecos. Seara, orașul vechi luminat vă invită la o scurtă plimbare atmosferică prin ploaie.",
+            "en": "A rainy start takes you on two wheels through the glistening streets of Moneglia. At noon, churches offer dry resting spots while your bike stays sheltered under an eave. In the afternoon, extra caution is needed on coastal paths as the asphalt can be slippery. By evening, the illuminated old town invites a short, atmospheric ride through the gentle rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia La Secca",
+                "hu": "Spiaggia La Secca",
+                "ro": "Spiaggia La Secca",
+                "en": "Spiaggia La Secca"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg ist bei Regen rutschig; fahren Sie langsam und achten Sie auf Pfützen, die tiefer sein könnten, als sie im Wasserfilm wirken.",
+                "hu": "A parti út esőben csúszós; tekerjünk lassan és ügyeljünk a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek elsőre látszanak.",
+                "ro": "Drumul de coastă este alunecos pe ploaie; pedalați încet și aveți grijă la bălțile care pot fi mai adânci decât par la prima vedere.",
+                "en": "The coastal path is slippery in the rain; ride slowly and watch out for puddles that might be deeper than they appear on the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Monleone",
+                "hu": "Castello di Monleone",
+                "ro": "Castello di Monleone",
+                "en": "Castello di Monleone"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg ist bei Nässe anstrengend; prüfen Sie Ihre Bremsen vor der Abfahrt, da nasse Felgen einen längeren Bremsweg haben.",
+                "hu": "A várhoz vezető emelkedő vizesen fárasztó; ellenőrizzük a fékeket lejtmenet előtt, mert a vizes felniken hosszabb a fékút.",
+                "ro": "Urcarea spre castel este solicitantă pe timp umed; verificați frânele înainte de coborâre, deoarece jantele ude măresc distanța de frânare.",
+                "en": "The climb to the castle is demanding in the wet; check your brakes before the descent as wet rims require a longer braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giorgio",
+                "hu": "Chiesa di San Giorgio",
+                "ro": "Chiesa di San Giorgio",
+                "en": "Chiesa di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden ab; nutzen Sie die Pause im trockenen Kirchenschiff, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Támasszuk le a bringát az árkádok alatt; használjuk a templomi pihenőt, hogy lerázzuk az esőt a ruhánkról a száraz belső térben.",
+                "ro": "Lăsați bicicleta sub arcade; folosiți pauza în nava bisericii pentru a vă scutura pelerina de ploaie în acest spațiu protejat.",
+                "en": "Park your bike under the archways; use the break in the dry church nave to shake off the rain from your gear in a sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Libera Attrezzata Il Volto",
+                "hu": "Spiaggia Libera Attrezzata Il Volto",
+                "ro": "Spiaggia Libera Attrezzata Il Volto",
+                "en": "Spiaggia Libera Attrezzata Il Volto"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Brandung ist bei Regen gewaltig; achten Sie beim Abstellen des Rades auf sandigen Untergrund, der aufweichen kann.",
+                "hu": "A hullámok látványa esőben lenyűgöző; a bringa leállításakor ügyeljünk a homokos talajra, amely a víztől könnyen fellazulhat.",
+                "ro": "Vederea valurilor pe ploaie este impresionantă; când parcați bicicleta, atenție la nisipul care se poate înmuia foarte tare de la apă.",
+                "en": "The view of the surf in the rain is powerful; when parking your bike, be careful of the sandy ground which can soften significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Croce",
+                "hu": "Chiesa di Santa Croce",
+                "ro": "Chiesa di Santa Croce",
+                "en": "Chiesa di Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Lenkbewegungen auf den nassen Pflastersteinen vor der Kirche; der Innenraum bietet eine exzellente Regenpause.",
+                "hu": "Kerüljük a hirtelen kormánymozdulatokat a vizes macskaköveken a templom előtt; a belső tér kiváló hely egy hosszabb esőszünetre.",
+                "ro": "Evitați manevrele bruște pe pavajul umed din fața bisericii; interiorul oferă un loc excelent pentru o pauză prelungită de ploaie.",
+                "en": "Avoid sudden steering moves on the wet cobblestones in front of the church; the interior offers an excellent spot for a rain break."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Cinque",
+                "hu": "Bagni Cinque",
+                "ro": "Bagni Cinque",
+                "en": "Bagni Cinque"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Sattel und Griffe nach der Tour trocken; das salzige Regenwasser sollte später vom Rahmen abgespült werden, um Korrosion zu vermeiden.",
+                "hu": "Töröljük szárazra a nyerget a túra végén; a sós esővizet később érdemes lemosni a vázról, hogy megelőzzük az alkatrészek rozsdásodását.",
+                "ro": "Ștergeți șaua și mânerele la finalul turului; apa sărată de ploaie trebuie spălată ulterior de pe cadru pentru a preveni coroziunea.",
+                "en": "Wipe your saddle and grips dry after the tour; remember to rinse salty rain water off the frame later to prevent metal corrosion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet erfrischend an der Küste mit klarer Luft. Mittags wärmt die Sonne zwar noch etwas, aber in den Schatten der Kirchenmauern ist warme Kleidung nötig. Am Nachmittag kann die Meeresbrise kräftig auffrischen, treten Sie also kräftig in die Pedale. Da es bereits gegen 17 Uhr dunkel wird, ist eine gute Beleuchtung für die Rückfahrt durch die Stadt unerlässlich.",
+            "hu": "A téli bringázás frissítő reggel kezdődik a tiszta tengeri levegőn. Délben a napsütés még melegít, de az árnyékos templomfalaknál már kell a réteges öltözet. Délután a tengeri szél felerősödhet, tekerjünk tempósabban a hideg ellen. Mivel ötkor sötétedik, a lámpák és a láthatóság elengedhetetlen a városi tekeréshez.",
+            "ro": "Turul de iarnă cu bicicleta începe revigorant pe coastă cu aer curat. La prânz, soarele încă încălzește puțin, dar la umbra zidurilor bisericii aveți nevoie de haine groase. După-amiaza, briza mării se poate intensifica, deci pedalați viguros. Deoarece se întunecă la ora 17:00, luminile bune sunt esențiale pentru întoarcere.",
+            "en": "The winter bike tour starts refreshingly on the coast with crisp air. At noon, the sun still provides some warmth, but the shaded church walls require extra layers. In the afternoon, the sea breeze can pick up, so pedal vigorously to stay warm. Since it gets dark by 5 PM, good lights are essential for the return ride through town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia La Secca",
+                "hu": "Spiaggia La Secca",
+                "ro": "Spiaggia La Secca",
+                "en": "Spiaggia La Secca"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind am Meer im Winter sehr beißt; die Aussicht auf die winterlichen Wellen ist dafür fantastisch.",
+                "hu": "Viseljünk szélálló kesztyűt, mert a menetszél a tengerparton télen nagyon hideg; a téli hullámok látványa viszont kárpótol a fagyos percekrt.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer pe coastă este tăios iarna; vederea valurilor de iarnă este însă fantastică.",
+                "en": "Wear windproof gloves as the sea breeze can be biting in winter; however, the view of the winter waves is absolutely fantastic."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Monleone",
+                "hu": "Castello di Monleone",
+                "ro": "Castello di Monleone",
+                "en": "Castello di Monleone"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hilft, warm zu werden, aber ziehen Sie für die Abfahrt eine Jacke über; die tiefstehende Sonne kann die Sicht beim Fahren blenden.",
+                "hu": "Az emelkedő segít bemelegedni, de lejtmenet előtt vegyünk fel kabátot; az alacsonyan járó nap vakíthat tekerés közben a vár felé.",
+                "ro": "Urcarea vă ajută să vă încălziți, dar puneți-vă o jachetă înainte de coborâre; soarele jos vă poate orbi în timp ce pedalați spre castel.",
+                "en": "The climb will help you warm up, but put on a jacket before the descent; the low sun can be quite blinding while riding near the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giorgio",
+                "hu": "Chiesa di San Giorgio",
+                "ro": "Chiesa di San Giorgio",
+                "en": "Chiesa di San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Vorplatz für eine Trinkpause; die dicken Kirchenmauern strahlen eine angenehme, beständige Ruhe aus.",
+                "hu": "Használjuk a szélvédett előteret egy frissítő pihenőre; a templom vastag falai kellemes és állandó nyugalmat árasztanak a téli napon.",
+                "ro": "Folosiți curtea protejată de vânt pentru o pauză de hidratare; zidurile groase ale bisericii emană o liniște plăcută și constantă.",
+                "en": "Use the wind-sheltered courtyard for a hydration break; the thick church walls radiate a pleasant and constant sense of tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Libera Attrezzata Il Volto",
+                "hu": "Spiaggia Libera Attrezzata Il Volto",
+                "ro": "Spiaggia Libera Attrezzata Il Volto",
+                "en": "Spiaggia Libera Attrezzata Il Volto"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter oft hart gefroren oder sehr fest; genießen Sie die Einsamkeit am Strand, bevor Sie schnell weiterfahren, um nicht auszukühlen.",
+                "hu": "A homok télen gyakran keményre fagyott vagy nagyon tömör; élvezzük a tengerparti magányt, de tekerjünk tovább gyorsan, hogy ne hűljünk ki.",
+                "ro": "Nisipul este adesea înghețat sau foarte compact iarna; bucurați-vă de singurătatea plajei, apoi pedalați rapid pentru a nu vă răci corpul.",
+                "en": "The sand is often frozen hard or very firm in winter; enjoy the solitude of the beach, then pedal on quickly to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Croce",
+                "hu": "Chiesa di Santa Croce",
+                "ro": "Chiesa di Santa Croce",
+                "en": "Chiesa di Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als auf dem Rad; nehmen Sie sich Zeit für die Kunstwerke, um Ihre Finger für die Weiterfahrt aufzuwärmen.",
+                "hu": "Bent lényegesen melegebb van, mint a bringán; szánjunk időt a műalkotásokra, hogy ujjaink felmelegedjenek a további tekeréshez.",
+                "ro": "În interior este mult mai cald decât pe bicicletă; acordați-vă timp pentru artă ca să vă încălziți degetele înainte de a pleca mai departe.",
+                "en": "It is significantly warmer inside than on the bike; take time to appreciate the art while warming up your fingers for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Cinque",
+                "hu": "Bagni Cinque",
+                "ro": "Bagni Cinque",
+                "en": "Bagni Cinque"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt hier besonders schön ein; stellen Sie sicher, dass Ihre Reflektoren sauber sind, da Sie nun im Dunkeln zurückfahren werden.",
+                "hu": "A szürkület itt különösen szép látvány; ellenőrizzük, hogy a prizmák tiszták-e, mert innentől már sötétben fogunk visszatekerni a városba.",
+                "ro": "Amurgul este deosebit de frumos aici; asigurați-vă că reflectoarele sunt curate, deoarece vă veți întoarce în oraș pe întuneric.",
+                "en": "The twilight is particularly beautiful here; make sure your reflectors are clean, as you will be riding back to town in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje a napot Monegliában a friss tengeri szellővel, miközben bejárja az ősi parti erődöket, amelyek a régió gazdag történelméről mesélnek.\nA dél közeledtével a homokos partok hívogatnak, hogy megpihenjen a liguriai napsütésben, és érezze a meleg homokot a lábujjai között.\nA délután lenyűgöző építészetű, békés történelmi templomok látogatásával folytatódik, melyek csendes menedéket nyújtanak.\nZárja az utazást kora este egy nyugodt tengerparti ponton, ahogy a naplemente arany árnyalatokkal festi meg a kristálytiszta, csillogó víztükröt.",
         "ro": "Începeți ziua în Moneglia respirând briza proaspătă a mării, în timp ce explorați vechile fortărețe care spun povești despre trecutul regiunii.\nLa amiază, plajele nisipoase vă invită să vă relaxați sub soarele blând, simțind nisipul cald între degetele de la picioare pe țărmul liniștit.\nDupă-amiaza continuă cu vizite la biserici istorice decorate cu arhitectură impresionantă, oferind un refugiu retras din agitația de pe coastă.\nÎncheiați călătoria seara, privind apusul care aruncă nuanțe aurii peste apele cristaline dintr-un punct de belvedere pașnic de la malul mării.",
         "en": "Start your day in Moneglia by breathing in the fresh sea breeze while wandering around the ancient coastal fortresses that tell tales of the region's rich past.\nAs midday approaches, the sandy shores invite you to relax under the gentle Ligurian sun, feeling the warm sand between your toes.\nThe afternoon continues with visits to serene historical churches adorned with stunning architecture, offering a quiet retreat from the lively coastal energy.\nConclude your journey as the evening sets in, watching the sunset cast golden hues over the crystalline waters from a peaceful seaside viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich in Moneglia am besten mit dem Auto bewältigen, während die Tropfen auf das Dach trommeln. Mittags bieten die Kirchen trockene Besichtigungsmöglichkeiten mit nahen Parkplätzen. Am Nachmittag ist die Fahrt entlang der Küste bei Regen besonders dramatisch und bietet tolle Ausblicke aus dem trockenen Innenraum. Abends glänzt der Asphalt im Scheinwerferlicht auf dem Weg zu einem gemütlichen Restaurant.",
+            "hu": "Az esős nap Monegliában legkényelmesebben autóval hidalható át, miközben a cseppek dobolnak a tetőn. Délben a templomok száraz látnivalót kínálnak közeli parkolási lehetőséggel. Délután a parti autózás az esőben különösen drámai látványt nyújt a fűtött utastérből. Este a fényszórók fénye megcsillan a vizes aszfalton, miközben egy hangulatos étterem felé tartunk.",
+            "ro": "O zi ploioasă în Moneglia este cel mai bine parcursă cu mașina, în timp ce stropii bat în plafon. La prânz, bisericile oferă vizite uscate cu locuri de parcare în apropiere. După-amiaza, condusul pe coastă în ploaie este deosebit de dramatic, oferind priveliști superbe din interiorul cald. Seara, asfaltul lucește în lumina farurilor în drum spre un restaurant primitor.",
+            "en": "A rainy day in Moneglia is best handled by car, enjoying the sound of raindrops on the roof. At noon, the churches offer dry sightseeing with convenient parking nearby. In the afternoon, driving along the coast in the rain provides dramatic views from the comfort of your dry vehicle. By evening, the wet asphalt glimmers in your headlights as you head towards a cozy local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia La Secca",
+                "hu": "Spiaggia La Secca",
+                "ro": "Spiaggia La Secca",
+                "en": "Spiaggia La Secca"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie den Blick auf die tosenden Wellen; die Parkplätze sind bei diesem Wetter oft direkt am Strand frei.",
+                "hu": "Maradjunk az autóban és élvezzük a háborgó hullámok látványát; ilyenkor a parkolóhelyek gyakran közvetlenül a part mentén is szabadok.",
+                "ro": "Rămâneți în mașină și bucurați-vă de vederea valurilor învolburate; locurile de parcare sunt adesea libere chiar lângă plajă pe acest timp.",
+                "en": "Stay in the car and enjoy the view of the churning waves; parking spaces are often available right by the beach in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Monleone",
+                "hu": "Castello di Monleone",
+                "ro": "Castello di Monleone",
+                "en": "Castello di Monleone"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen, nassen Straßen zur Burg; nutzen Sie die kurzen Regenpausen für ein schnelles Foto der beeindruckenden Mauern.",
+                "hu": "Vezessünk óvatosan a várhoz vezető szűk, vizes utakon; használjuk ki a rövid esőszüneteket az impozáns falak gyors lefotózására.",
+                "ro": "Conduceți cu atenție pe drumurile înguste și ude spre castel; folosiți scurte pauze de ploaie pentru o fotografie rapidă a zidurilor impunătoare.",
+                "en": "Drive carefully on the narrow, wet roads leading to the castle; use short breaks in the rain for a quick photo of the impressive walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Moneglia Beach",
+                "hu": "Moneglia Beach",
+                "ro": "Moneglia Beach",
+                "en": "Moneglia Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Strand lässt Sie die Meeresluft schnuppern, bevor Sie wieder ins trockene Auto huschen; ideal für windiges Regenwetter.",
+                "hu": "Egy rövid megálló a parton lehetővé teszi a tengeri levegő élvezetét, mielőtt visszabújnánk a száraz autóba; ideális szeles, esős időben.",
+                "ro": "O scurtă oprire pe plajă vă permite să simțiți aerul mării înainte de a vă întoarce în mașina uscată; ideal pentru vreme vântoasă și ploioasă.",
+                "en": "A brief stop at the beach lets you catch a breath of sea air before retreating to the dry car; ideal for windy and rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Croce",
+                "hu": "Chiesa di Santa Croce",
+                "ro": "Chiesa di Santa Croce",
+                "en": "Chiesa di Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums, um den Fußweg im Regen kurz zu halten; die Kirche bietet eine wunderbare, trockene Auszeit von der Fahrt.",
+                "hu": "Parkoljunk a központ közelében, hogy lerövidítsük az esőben való gyaloglást; a templom csodás, száraz kikapcsolódást nyújt az autózás után.",
+                "ro": "Parcați aproape de centru pentru a scurta mersul pe jos prin ploaie; biserica oferă o pauză minunată și uscată de la condus.",
+                "en": "Park near the center to keep your walk in the rain short; the church offers a wonderful, dry respite from your driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Lemeglio",
+                "hu": "Chiesa di Lemeglio",
+                "ro": "Chiesa di Lemeglio",
+                "en": "Chiesa di Lemeglio"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet spektakuläre Ausblicke auf das regnerische Moneglia; achten Sie auf die rutschigen Kurven und genießen Sie das Panorama.",
+                "hu": "A felvezető út látványos kilátást nyújt az eső áztatta Monegliára; ügyeljünk a csúszós kanyarokra és élvezzük a panorámát az autóból.",
+                "ro": "Drumul spre biserică oferă vederi spectaculoase asupra orașului Moneglia sub ploaie; atenție la curbele alunecoase și bucurați-vă de panoramă.",
+                "en": "The drive up offers spectacular views of Moneglia in the rain; pay attention to slippery curves and enjoy the panorama from your car window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Moneglia beginnt mit einer Panoramafahrt bei frischen Temperaturen. Mittags laden die historischen Kirchen zu kurzen Stopps ein, wobei das Auto im Sonnenlicht schnell warm wird. Am Nachmittag bietet die Fahrt entlang der Küste weite Ausblicke auf das tiefblaue Wintermeer. Da es bereits gegen 17 Uhr dunkel wird, genießt man abends die festliche Beleuchtung der Stadt ganz entspannt vom Fahrersitz aus.",
+            "hu": "A tiszta téli nap Monegliában panorámás autózással indul a friss, hideg időben. Délben a történelmi templomok rövid megállókra hívnak, miközben az autó a napsütésben hamar átmelegszik. Délután a parti út tágas kilátást nyújt a mélykék téli tengerre. Mivel ötkor sötétedik, a város ünnepi fényei az autóból is kényelmesen és meghitten élvezhetők az esti órákban.",
+            "ro": "O zi senină de iarnă în Moneglia începe cu o plimbare panoramică la temperaturi scăzute. La prânz, bisericile istorice vă invită la scurte opriri, mașina încălzindu-se rapid la soare. După-amiaza, condusul pe coastă oferă vederi largi asupra mării albastre de iarnă. Deoarece se întunecă la ora 17:00, luminile festive ale orașului pot fi admirate relaxat din mașină.",
+            "en": "A clear winter day in Moneglia starts with a scenic drive in the crisp air. At noon, historic churches invite brief stops, while the car warms up quickly in the bright sun. In the afternoon, driving along the coast offers wide views of the deep blue winter sea. Since it gets dark by 5 PM, the town's festive lights can be enjoyed comfortably from your car in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia La Secca",
+                "hu": "Spiaggia La Secca",
+                "ro": "Spiaggia La Secca",
+                "en": "Spiaggia La Secca"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht die Farben des Meeres besonders intensiv; ein kurzer Spaziergang am Wasser belebt, bevor die Heizung im Auto wieder wärmt.",
+                "hu": "A tiszta téli levegő különösen intenzívvé teszi a tenger színeit; egy rövid séta a víznél felfrissít, mielőtt az autó fűtése újra átmelegít.",
+                "ro": "Aerul curat de iarnă face culorile mării deosebit de intense; o scurtă plimbare pe mal vă va revigora înainte de a reveni la căldura mașinii.",
+                "en": "The clear winter air makes the colors of the sea exceptionally intense; a short walk by the water is bracing before returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Monleone",
+                "hu": "Castello di Monleone",
+                "ro": "Castello di Monleone",
+                "en": "Castello di Monleone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem sonnigen Platz, um die Wärme zu speichern; der Blick auf die winterliche Küste von den Burgmauern aus ist im Winter ungestört.",
+                "hu": "Parkoljunk napos helyen, hogy megőrizzük a meleget; a téli partvidék látványa a várfalaktól ilyenkor zavartalan és lenyűgözően tiszta.",
+                "ro": "Parcați într-un loc însorit pentru a păstra căldura; vederea coastei de iarnă de lângă zidurile castelului este neîntreruptă și superbă acum.",
+                "en": "Park in a sunny spot to keep the heat in the car; the winter coastal views from the castle walls are breathtakingly clear and undisturbed."
+              }
+            },
+            {
+              "name": {
+                "de": "Moneglia Beach",
+                "hu": "Moneglia Beach",
+                "ro": "Moneglia Beach",
+                "en": "Moneglia Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den leeren Parkplatz direkt am Meer für einen schnellen Fotostopp; die tiefstehende Sonne sorgt für tolle Lichteffekte auf dem Sand.",
+                "hu": "Használjuk ki az üres tengerparti parkolót egy gyors fotómegállóra; az alacsonyan járó nap csodás fényhatásokat kelt a téli homokon.",
+                "ro": "Profitați de parcarea goală de pe malul mării pentru o oprire foto rapidă; soarele jos creează efecte de lumină superbe pe nisipul de iarnă.",
+                "en": "Take advantage of the empty beach parking for a quick photo stop; the low winter sun creates wonderful light effects on the cold sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Croce",
+                "hu": "Chiesa di Santa Croce",
+                "ro": "Chiesa di Santa Croce",
+                "en": "Chiesa di Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche halten die Kälte draußen; im Winter finden Sie hier eine ganz besondere, andächtige Stille abseits der Saison.",
+                "hu": "A templom vastag falai kint tartják a fagyos szelet; télen különleges, áhítatos csendet találunk itt, távol a főszezoni nyüzsgéstől.",
+                "ro": "Zidurile groase ale bisericii țin vântul rece afară; iarna veți găsi aici o liniște deosebită, departe de agitația sezonului turistic.",
+                "en": "The church's thick walls keep the freezing wind out; in winter, you'll find a special, prayerful silence away from the seasonal crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Lemeglio",
+                "hu": "Chiesa di Lemeglio",
+                "ro": "Chiesa di Lemeglio",
+                "en": "Chiesa di Lemeglio"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen in schattigen Kurven auf dem Weg nach oben; das winterliche Panorama über den Golf von Moneglia ist unbezahlbar.",
+                "hu": "Ügyeljünk a jeges foltokra az árnyékos kanyarokban a felfelé vezető úton; a téli panoráma a Moneglia-öbölre minden fáradtságot megér.",
+                "ro": "Atenție la porțiunile înghețate în curbele umbrite în timp ce urcați; panorama de iarnă asupra golfului Moneglia merită orice efort.",
+                "en": "Watch out for icy patches in shaded curves on your way up; the winter panorama over the Gulf of Moneglia is absolutely priceless."
+              }
+            }
+          ]
+        }
       }
     }
   }

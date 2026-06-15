@@ -160,6 +160,196 @@
         "hu": "Morgen: A napot a csendes városközpontban kezdjük, ahol megcsodáljuk a városháza klasszikus építészetét és a Saint-Barthélemy templom békés atmoszféráját.\n\nMittag: Sétánk továbbvezet a régió lenyűgöző múzeumaihoz, amelyek közelebb hozzák hozzánk Oignies gazdag ipari és vasúttörténeti múltját.\n\nNachmittag: Ebéd után elmerülünk a régi szénbányászat szívében, a Fosse 9-9bis-nél, amely a kemény földalatti munka monumentális emléke.\n\nAbend: Végül megmásszuk a rekultivált Terril 110-et, ahol a naplementében egy csodálatos panoráma jutalmaz minket, és a természet győzedelmeskedik az ipar felett.",
         "ro": "Morgen: Începem ziua în centrul liniștit al orașului, unde admirăm arhitectura clasică a primăriei și atmosfera pașnică a bisericii Saint-Barthélemy.\n\nMittag: Plimbarea ne poartă mai departe spre muzeele fascinante ale regiunii, care ne apropie de bogatul trecut industrial și feroviar al orașului Oignies.\n\nNachmittag: După prânz, pătrundem în inima vechii exploatări de cărbune la Fosse 9-9bis, o relicvă monumentală a muncii grele din subteran.\n\nAbend: În final, urcăm pe halda renaturată Terril 110, unde o panoramă magnifică la apus ne răsplătește, iar natura triumfă asupra industriei.",
         "en": "Morgen: We start the day in the quiet city center, admiring the classic architecture of the Town Hall and the peaceful atmosphere of the Saint-Barthélemy Church.\n\nMittag: Our walk takes us further to the region's fascinating museums, which bring us closer to Oignies' rich industrial and railway history.\n\nNachmittag: After lunch, we dive into the heart of the old coal mining era at Fosse 9-9bis, a monumental relic of hard underground labor.\n\nAbend: Finally, we climb the renatured Terril 110, where a magnificent panoramic view at sunset rewards us, and nature triumphs over industry."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Rathaus mit griffbereitem Regenschirm. Mittags bieten das faszinierende Eisenbahn- und Bergbaumuseum trockenen Unterschlupf. Nachmittags erkunden Sie die historische Zeche 9-9bis im Regen. Besteigen Sie abschließend vorsichtig die Halde Terril 110; die nassen Wege erfordern festes, wasserdichtes Schuhwerk.",
+            "hu": "Kezdje esős sétáját a városházánál, esernyőt tartva készenlétben. Délben a lenyűgöző vasúti és bányamúzeumok nyújtanak menedéket. Délután fedezze fel a történelmi 9-9bis bányát az esőben. Végül óvatosan mássza meg a Terril 110-et; a nedves, csúszós utakon elengedhetetlen a vízálló lábbeli.",
+            "ro": "Începeți plimbarea ploioasă la primărie, cu o umbrelă la îndemână. La prânz, muzeele feroviar și minier vă oferă un adăpost fascinant. După-amiaza, explorați situl istoric 9-9bis sub ploaie. Încheiați urcând cu grijă pe halda Terril 110; potecile umede necesită încălțăminte impermeabilă și rezistentă.",
+            "en": "Start your rainy walk at the town hall, keeping an umbrella handy. Midday offers shelter in the fascinating railway and mining museums. In the afternoon, explore the historic 9-9bis site under the rain. Conclude by carefully climbing Terril 110; the wet paths require sturdy, waterproof footwear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Oignies",
+                "hu": "Oignies Városháza",
+                "ro": "Primăria Oignies",
+                "en": "Oignies Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische Architektur des Rathauses unter Ihrem Regenschirm und beachten Sie die Details im Regen.",
+                "hu": "Csodálja meg a városháza klasszikus építészetét az esernyője alól, megfigyelve annak történelmi részleteit az esőben.",
+                "ro": "Admirați arhitectura clasică a primăriei de sub umbrelă, observând detaliile sale istorice chiar și pe timp de ploaie.",
+                "en": "Admire the classic architecture of the town hall from under your umbrella, noting its historical details in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser friedlichen Kirche vorübergehend Schutz, um sich aufzuwärmen und das schöne Innere zu bewundern.",
+                "hu": "Keressen átmeneti menedéket ebben a békés templomban, hogy megszáradjon és megcsodálja a gyönyörű ólomüveg ablakokat.",
+                "ro": "Căutați un adăpost temporar în această biserică liniștită pentru a vă usca și a-i admira interiorul tăcut și vitraliile.",
+                "en": "Seek temporary shelter inside this peaceful church to dry off and admire its beautiful stained glass and quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum CMCF Oignies",
+                "hu": "CMCF Oignies Vasútmúzeum",
+                "ro": "Muzeul Feroviar CMCF Oignies",
+                "en": "CMCF Oignies Railway Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die riesige Sammlung historischer Lokomotiven in den geräumigen, trockenen Hallen des Eisenbahnmuseums.",
+                "hu": "Fedezze fel a régi mozdonyok hatalmas gyűjteményét a lenyűgöző vasútmúzeum tágas, száraz, esőtől védett csarnokaiban.",
+                "ro": "Explorați vasta colecție de locomotive de epocă în holurile spațioase și uscate ale acestui fascinant muzeu feroviar.",
+                "en": "Explore the vast collection of vintage locomotives inside the spacious, dry halls of the fascinating railway museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Schaubergwerk Grube Nr. 2",
+                "hu": "2. számú akna Bányamúzeum",
+                "ro": "Mina-muzeu a puțului nr. 2",
+                "en": "Mine-image of Pit No. 2"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die unterirdische Bergbaugeschichte ein, wo die faszinierenden Ausstellungen bei jedem Wetter trocken bleiben.",
+                "hu": "Merüljön el a föld alatti bányászat történetében, ahol a kiállítások a kinti esős időjárástól függetlenül szárazak.",
+                "ro": "Pătrundeți în istoria mineritului subteran, unde expozițiile rămân perfect uscate, indiferent de vremea de afară.",
+                "en": "Dive into the fascinating underground mining history where the exhibits stay perfectly dry regardless of the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Grube 9-9bis",
+                "hu": "9-9bis bánya",
+                "ro": "Fosse 9-9bis",
+                "en": "Fosse 9-9bis"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das reiche industrielle Erbe dieser Zeche und nutzen Sie die überdachten Bereiche optimal aus.",
+                "hu": "Fedezze fel az impozáns bánya gazdag ipari örökségét, maximálisan kihasználva a kényelmes, fedett belső tereket.",
+                "ro": "Descoperiți bogata moștenire industrială a acestei mine, profitând din plin de zonele interioare ferite de ploaie.",
+                "en": "Discover the rich industrial heritage of this imposing mine site, taking full advantage of the sheltered indoor areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohlehalde Terril 110",
+                "hu": "Terril 110 meddőhányó",
+                "ro": "Halda Terril 110",
+                "en": "Slag Heap Terril 110"
+              },
+              "tip_5lang": {
+                "de": "Besteigen Sie die Halde in wasserdichten Schuhen vorsichtig; die nassen Wege sind rutschig, aber die Aussicht lohnt sich.",
+                "hu": "Vízálló bakancsban, óvatosan mássza meg a meddőhányót; a nedves fekete ösvények csúszósak, de a táj lenyűgöző.",
+                "ro": "Urcați cu grijă halda în cizme impermeabile; cărările umede sunt alunecoase, dar peisajul melancolic este absolut uimitor.",
+                "en": "Climb the slag heap carefully in waterproof boots; the wet black paths are slippery, but the moody landscape is stunning."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen winterlichen Spaziergang ab dem Rathaus. Mittags eignen sich die beheizten Industriemuseen perfekt zum Aufwärmen. Nachmittags heben sich die historischen Gebäude von 9-9bis markant vom blassen Himmel ab. Beenden Sie die Tour früh an der Halde Terril 110 für den Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Öltözzön fel melegen a téli sétához, amely a városházától indul. A dél tökéletes a fűtött, beltéri ipari múzeumok felfedezésére. Délután a 9-9bis történelmi bányaépületei lenyűgözőek a sápadt téli égbolt előtt. Érjen fel korán a Terril 110-re, hogy elcsípje a csodálatos naplementét 17:00 óra körül.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă pornind de la primărie. Amiaza este perfectă pentru a explora muzeele industriale încălzite. După-amiaza, structurile miniere istorice 9-9bis contrastează cu cerul palid. Ajungeți devreme la Terril 110 pentru a prinde apusul superb de iarnă în jurul orei 17:00.",
+            "en": "Bundle up for a brisk winter walk starting at the town hall. Midday is perfect for exploring the warm, indoor industrial museums. In the afternoon, the historic mining structures of 9-9bis look striking against the pale sky. Finish early at Terril 110 to catch the stunning winter sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Oignies",
+                "hu": "Oignies Városháza",
+                "ro": "Primăria Oignies",
+                "en": "Oignies Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den kühlen Morgen mit dem Blick auf die klare Fassade des Rathauses; tragen Sie beim Fotografieren warme Handschuhe.",
+                "hu": "Kezdje a csípős reggelt a városháza tiszta homlokzatának megtekintésével; viseljen meleg kesztyűt a fotózáshoz.",
+                "ro": "Începeți dimineața geroasă admirând fațada primăriei; purtați mănuși călduroase când fotografiați acest reper civic.",
+                "en": "Start your chilly morning viewing the town hall's crisp facade; wear warm gloves as you photograph this civic landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die ruhige Kirche ein, um dem eisigen Winterwind zu entfliehen und das warme Licht der Fenster zu genießen.",
+                "hu": "Lépjen be a csendes templomba, hogy elmeneküljön a metsző téli szél elől, és élvezze az ablakokon átszűrődő meleg fényeket.",
+                "ro": "Pășiți în biserica liniștită pentru a scăpa de vântul tăios de iarnă și bucurați-vă de lumina caldă a vitraliilor.",
+                "en": "Step inside the quiet church to escape the biting winter wind and enjoy the warm glow of light through its windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum CMCF Oignies",
+                "hu": "CMCF Oignies Vasútmúzeum",
+                "ro": "Muzeul Feroviar CMCF Oignies",
+                "en": "CMCF Oignies Railway Museum"
+              },
+              "tip_5lang": {
+                "de": "Das geschlossene Eisenbahnmuseum bietet einen gemütlichen Rückzugsort, um historische Züge abseits des Frosts zu bestaunen.",
+                "hu": "A zárt vasútmúzeum kényelmes menedéket nyújt, ahol a fagytól védve csodálhatja meg a lenyűgöző történelmi vonatokat.",
+                "ro": "Muzeul feroviar închis oferă un refugiu confortabil unde puteți admira trenuri istorice, departe de gerul de afară.",
+                "en": "The enclosed railway museum provides a comfortable, cool retreat where you can marvel at historic trains away from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Schaubergwerk Grube Nr. 2",
+                "hu": "2. számú akna Bányamúzeum",
+                "ro": "Mina-muzeu a puțului nr. 2",
+                "en": "Mine-image of Pit No. 2"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie die faszinierenden Indoor-Bergbauausstellungen erkunden – ein perfekter Schutz vor der Kälte.",
+                "hu": "Melegedjen fel a lenyűgöző beltéri bányászati kiállítások felfedezése közben, amely tökéletes menedék a fagyos időben.",
+                "ro": "Încălziți-vă explorând expozițiile miniere interioare, care oferă o evadare perfectă din calea temperaturilor scăzute.",
+                "en": "Warm up as you explore the immersive indoor mining exhibits, offering a perfect escape from the freezing outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Grube 9-9bis",
+                "hu": "9-9bis bánya",
+                "ro": "Fosse 9-9bis",
+                "en": "Fosse 9-9bis"
+              },
+              "tip_5lang": {
+                "de": "Die aufragenden Backsteingebäude sehen im Winterlicht großartig aus; tragen Sie einen dicken Schal bei der Erkundung.",
+                "hu": "A magasodó téglaépületek csodálatosan festenek a téli fényekben; tekerjen nyakába egy vastag sálat a terület bejárásakor.",
+                "ro": "Structurile impunătoare din cărămidă arată magnific în lumina iernii; purtați un fular gros când explorați incinta.",
+                "en": "The towering brick structures look magnificent in the winter light; wrap a thick scarf around you while exploring the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohlehalde Terril 110",
+                "hu": "Terril 110 meddőhányó",
+                "ro": "Halda Terril 110",
+                "en": "Slag Heap Terril 110"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel bis 16:30 Uhr für einen atemberaubenden winterlichen Sonnenuntergang, aber achten Sie auf Frost.",
+                "hu": "Érjen fel a csúcsra 16:30-ra a bányamedence feletti lélegzetelállító téli naplementéért, de vigyázzon a fagyos részekre.",
+                "ro": "Ajungeți în vârf până la 16:30 pentru un apus de iarnă uimitor peste bazinul minier, dar atenție la porțiunile înghețate.",
+                "en": "Reach the summit by 16:30 for a breathtaking winter sunset over the mining basin, but watch out for frosty patches."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Morgen: Egy frissítő kerékpártúra először a távoli Saint-Joseph kápolnához vezet, majd tovább a Mine-image mélyreható történelméhez.\n\nMittag: Átkarikázunk a városközponton, elhaladunk a CMCF történelmi vasútjai mellett, és megcsodáljuk a fenséges városházát, valamint a templomot.\n\nNachmittag: Az útvonal a monumentális Fosse 9-9bis bányakomplexumhoz vezet, ahol a Le Métaphone rendkívüli hangépítészete is meglep minket.\n\nAbend: A nap a Terril 110-hez vezető kerékpározással zárul, ahonnan egy meredek gyalogút felejthetetlen kilátást nyújt a hatalmas tájra.",
         "ro": "Morgen: O plimbare proaspătă cu bicicleta ne duce mai întâi la îndepărtata Capelă Saint-Joseph și apoi mai departe la istoria profundă a Mine-image.\n\nMittag: Pedalăm prin centrul urban, trecem de căile ferate istorice din CMCF și admirăm maiestuoasa primărie și biserica.\n\nNachmittag: Traseul ne conduce către complexul minier monumental Fosse 9-9bis, unde arhitectura sonoră extraordinară de la Le Métaphone ne surprinde.\n\nAbend: Ziua se încheie cu o plimbare spre Terril 110, unde o potecă abruptă ne oferă o priveliște de neuitat asupra peisajului vast.",
         "en": "Morgen: A brisk morning bike ride first takes us to the remote Chapelle Saint-Joseph and then onwards to the profound history of the Mine-image.\n\nMittag: We cycle through the urban center, passing the historic railways at the CMCF and admiring the majestic town hall and church.\n\nNachmittag: The route leads us to the monumental Fosse 9-9bis mining complex, where the extraordinary sonic architecture of Le Métaphone surprises us.\n\nAbend: The day ends with a ride to Terril 110, where a steep footpath provides an unforgettable view across the vast landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie Ihre beste wasserdichte Fahrradausrüstung für eine nasse Fahrt durch Oignies an. Vormittags bieten Kapelle und Museen trockenere Zwischenstopps. Nachmittags radeln Sie vorsichtig über nasse Straßen zu den Denkmälern. Beenden Sie das Abenteuer an der Halde Terril 110 auf rutschigen Wegen.",
+            "hu": "Vegye fel a legjobb vízálló kerékpáros felszerelését egy nedves Oignies-i túrához. A délelőtti kápolna és múzeumi megállók többnyire szárazon tartják. Délután óvatosan haladjon a vizes utakon a műemlékek felé. Zárja nedves kalandját a Terril 110-nél, nagyon ügyelve a csúszós ösvényekre.",
+            "ro": "Echipați-vă cu cele mai bune haine impermeabile pentru o cursă umedă prin Oignies. Opririle de dimineață la capelă și muzee vă țin la adăpost. După-amiaza, pedalați cu grijă pe străzile ude spre siturile de patrimoniu. Încheiați la Terril 110, având mare grijă la traseele alunecoase.",
+            "en": "Put on your best waterproof cycling gear for a wet ride through Oignies. Morning stops at the chapel and museums keep you mostly dry. In the afternoon, carefully navigate wet roads to the heritage sites. End your damp adventure at Terril 110, taking care on the slippery trails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Saint-Joseph Chapel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und betreten Sie diese charmante Kapelle, um den Regen abzuschütteln und einen trockenen Moment zu genießen.",
+                "hu": "Parkolja le kerékpárját, és lépjen be ebbe a bájos kápolnába, hogy lerázza magáról az esőt és élvezze a száraz, csendes perceket.",
+                "ro": "Parcați bicicleta și intrați în această capelă fermecătoare pentru a scăpa de ploaie și a vă bucura de un moment de liniște.",
+                "en": "Park your bike and step into this charming chapel to shake off the rain and enjoy a quiet, dry moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Schaubergwerk Grube Nr. 2",
+                "hu": "2. számú akna Bányamúzeum",
+                "ro": "Mina-muzeu a puțului nr. 2",
+                "en": "Mine-image of Pit No. 2"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Kleidung an der Garderobe und erkunden Sie stundenlang die trockenen, unterirdischen Stollen.",
+                "hu": "Hagyja vizes felszerelését a ruhatárban, és töltsön el pár lenyűgöző órát a száraz föld alatti bányajáratok felfedezésével.",
+                "ro": "Lăsați echipamentul ud la garderobă și petreceți câteva ore fascinante explorând galeriile miniere subterane și uscate.",
+                "en": "Leave your wet gear in the cloakroom and spend a fascinating couple of hours exploring the dry underground mining galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum CMCF Oignies",
+                "hu": "CMCF Oignies Vasútmúzeum",
+                "ro": "Muzeul Feroviar CMCF Oignies",
+                "en": "CMCF Oignies Railway Museum"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig zum Eisenbahnmuseum, wo Sie riesige historische Lokomotiven sicher vor dem Dauerregen bewundern können.",
+                "hu": "Kerékpározzon óvatosan a vasútmúzeumhoz, ahol a kitartó esőtől védve csodálhatja meg az óriási történelmi mozdonyokat.",
+                "ro": "Pedalați cu grijă spre muzeul feroviar, unde puteți admira locomotive istorice gigantice la adăpost de ploaia insistentă.",
+                "en": "Cycle carefully to the railway museum, where you can admire giant historical locomotives safely out of the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Oignies",
+                "hu": "Oignies Városháza",
+                "ro": "Primăria Oignies",
+                "en": "Oignies Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Architektur des Rathauses; seien Sie vorsichtig beim Bremsen auf dem nassen, rutschigen Kopfsteinpflaster.",
+                "hu": "Gyors megálló a városháza lenyűgöző építészetének megtekintésére; fékezzen óvatosan a közeli csúszós, nedves macskaköveken.",
+                "ro": "O scurtă oprire pentru a admira arhitectura primăriei; frânați cu atenție pe piatra cubică alunecoasă și umedă din apropiere.",
+                "en": "A quick stop to view the town hall's imposing architecture; be cautious when braking on the slick, wet cobblestones nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad an und suchen Sie in der Kirche einen trockenen Zufluchtsort, um Schauer abzuwarten und die Atmosphäre zu genießen.",
+                "hu": "Zárja le a biciklit, és keressen száraz menedéket a templomban, hogy elkerülje a záporokat és élvezze a békés hangulatot.",
+                "ro": "Legați bicicleta și găsiți un scurt sanctuar uscat în biserică, pentru a admira ambianța liniștită în timp ce evitați aversa.",
+                "en": "Lock your bike and take a brief, dry sanctuary inside the church to admire its peaceful ambiance while avoiding the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Grube 9-9bis",
+                "hu": "9-9bis bánya",
+                "ro": "Fosse 9-9bis",
+                "en": "Fosse 9-9bis"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Bergbaugebäude bieten zahlreiche überdachte Orte, um das Erbe zu erkunden, ohne völlig durchnässt zu werden.",
+                "hu": "A történelmi bányaépületek számos fedett helyet kínálnak a gazdag örökség felfedezésére anélkül, hogy teljesen elázna.",
+                "ro": "Clădirile miniere istorice oferă numeroase locuri acoperite pentru a explora patrimoniul fără a vă uda până la piele.",
+                "en": "The historical mining buildings offer numerous covered spots to explore the site's rich heritage without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Métaphone",
+                "hu": "Le Métaphone",
+                "ro": "Le Métaphone",
+                "en": "Le Métaphone"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die einzigartige Fassade des Konzertsaals; die nassen Oberflächen erzeugen oft wunderschöne Spiegelungen im Regen.",
+                "hu": "Csodálja meg a koncertterem egyedi homlokzatát; a nedves felületek gyakran gyönyörű tükröződéseket hoznak létre az esőben.",
+                "ro": "Admirați fațada unică a acestei săli de concerte; suprafețele ude creează adesea reflexii frumoase ale arhitecturii sale.",
+                "en": "Marvel at the unique facade of this concert hall; the wet surfaces often create beautiful reflections of its distinct architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohlehalde Terril 110",
+                "hu": "Terril 110 meddőhányó",
+                "ro": "Halda Terril 110",
+                "en": "Slag Heap Terril 110"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den unteren Wegen oder sichern Sie es unten; die nasse Schlacke ist sehr rutschig, wandern Sie äußerst vorsichtig.",
+                "hu": "Tolja fel a biciklit az alsó utakon vagy hagyja lent; a fekete meddő nedvesen nagyon csúszós, így csak rendkívül óvatosan túrázzon fel.",
+                "ro": "Împingeți bicicleta pe cărările de jos sau lăsați-o la bază; halda neagră e foarte alunecoasă udă, deci urcați cu mare prudență.",
+                "en": "Push your bike up the lowest paths or secure it at the base; the black slag is very slippery when wet, so hike up with extreme care."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tragen Sie Thermokleidung und winddichte Handschuhe für diese frische Winter-Radtour. Vormittags wärmen Sie sich in den Museen auf. Am Nachmittag bei den Denkmälern sollten Sie bedenken, dass die Sonne bereits gegen 16:30 Uhr untergeht. Stellen Sie sicher, dass Ihre Fahrradlichter für die Heimfahrt hell sind.",
+            "hu": "Viseljen termál rétegeket és szélálló kesztyűt ezen a frissítő téli kerékpártúrán. A délelőtti útvonal során a meleg múzeumokban olvadhat ki. Ahogy a délután halad a lenyűgöző műemlékek felé, ne feledje, hogy a nap 16:30 körül nyugszik. Gondoskodjon erős kerékpárlámpákról a hazaútra.",
+            "ro": "Purtați haine termice și mănuși rezistente la vânt pentru acest tur ciclist revigorant de iarnă. Dimineața vă veți dezgheța în muzeele călduroase. Pe măsură ce după-amiaza avansează spre siturile de patrimoniu, amintiți-vă că apusul e devreme, pe la 16:30. Asigurați-vă că aveți faruri bune pentru întoarcere.",
+            "en": "Wear thermal layers and windproof gloves for this brisk winter cycling tour. The morning route relies on warm museums to thaw out. As the afternoon progresses to the striking heritage sites, remember that sunset falls early around 16:30. Ensure your bike lights are bright for the ride home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Saint-Joseph Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre frostige Fahrt hier und wärmen Sie Ihre Hände in der kleinen Kapelle, während Sie die ruhige Schönheit bewundern.",
+                "hu": "Kezdje a fagyos utat itt, melegítse meg a kezét a kis kápolnában, miközben megcsodálja egyszerű, békés szépségét.",
+                "ro": "Începeți plimbarea geroasă aici, încălzindu-vă mâinile în mica capelă în timp ce îi admirați frumusețea simplă și senină.",
+                "en": "Start your frosty ride here, rubbing your hands warm inside the small chapel while admiring its simple, serene beauty."
+              }
+            },
+            {
+              "name": {
+                "de": "Schaubergwerk Grube Nr. 2",
+                "hu": "2. számú akna Bányamúzeum",
+                "ro": "Mina-muzeu a puțului nr. 2",
+                "en": "Mine-image of Pit No. 2"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der klirrenden Kälte auf dem Rad, indem Sie in die faszinierende, temperaturstabile unterirdische Bergbauwelt eintauchen.",
+                "hu": "Meneküljön el a metsző hideg elől, és merüljön el a lenyűgöző, stabil hőmérsékletű föld alatti bányászati környezetben.",
+                "ro": "Scăpați de frigul pătrunzător de pe bicicletă intrând în mediul minier subteran fascinant, unde temperatura este constantă.",
+                "en": "Escape the biting cold on your bike by delving into the fascinating, temperature-stable underground mining environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum CMCF Oignies",
+                "hu": "CMCF Oignies Vasútmúzeum",
+                "ro": "Muzeul Feroviar CMCF Oignies",
+                "en": "CMCF Oignies Railway Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und tauen Sie Ihre kalten Zehen in den großen Hallen auf, während Sie restaurierte historische Züge bestaunen.",
+                "hu": "Parkolja le a kerékpárt, és olvassza ki fagyott lábujjait a tágas beltéri csarnokokban, miközben felújított régi vonatokat csodál.",
+                "ro": "Parcați bicicleta și dezghețați-vă degetele în halele interioare spațioase, admirând în același timp trenurile de epocă restaurate.",
+                "en": "Park your bike and thaw your frozen toes in the expansive indoor halls while marveling at restored vintage trains."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Oignies",
+                "hu": "Oignies Városháza",
+                "ro": "Primăria Oignies",
+                "en": "Oignies Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus steht majestätisch gegen den kahlen Winterhimmel; bleiben Sie in Bewegung, während Sie ein schnelles Foto schießen.",
+                "hu": "A városháza fenségesen emelkedik a zord téli égbolt elé; maradjon mozgásban a melegért, miközben a nyeregből fotóz.",
+                "ro": "Primăria stă maiestuoasă sub cerul aspru de iarnă; continuați să vă mișcați pentru a vă încălzi, făcând o poză rapidă din șa.",
+                "en": "The town hall stands majestic against the stark winter sky; keep moving to stay warm as you snap a quick photo from your saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab, um einige Minuten der ruhigen Wärme und das schöne Winterlicht in der Kirche zu genießen.",
+                "hu": "Szálljon le a bicikliről, és élvezze a néhány perces csendes meleget, valamint a templomba beszűrődő gyönyörű téli fényeket.",
+                "ro": "Coborâți de pe bicicletă pentru a vă bucura de câteva minute de căldură și de lumina frumoasă de iarnă ce pătrunde în biserică.",
+                "en": "Step off your bike to enjoy a few minutes of quiet warmth and beautiful winter light filtering into the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Grube 9-9bis",
+                "hu": "9-9bis bánya",
+                "ro": "Fosse 9-9bis",
+                "en": "Fosse 9-9bis"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, wenn Sie über das weite, windgepeitschte Gelände dieser ikonischen historischen Zeche radeln.",
+                "hu": "Öltözzön fel jó melegen, miközben körbekerékpározza ennek az ikonikus, történelmi és szélfútta bányának a hatalmas területét.",
+                "ro": "Îmbrăcați-vă bine în timp ce pedalați pe terenul vast și bătut de vânt al acestui sit minier istoric și emblematic.",
+                "en": "Bundle up tightly as you cycle around the vast, wind-swept grounds of this iconic and historical mining site."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Métaphone",
+                "hu": "Le Métaphone",
+                "ro": "Le Métaphone",
+                "en": "Le Métaphone"
+              },
+              "tip_5lang": {
+                "de": "Wenn das frühe Nachmittagslicht schwindet, bietet die markante moderne Architektur ein hervorragendes winterliches Fotomotiv.",
+                "hu": "Ahogy a kora délutáni fények halványulnak, a modern építészet lenyűgöző téli fotótémát kínál ezen a különleges helyszínen.",
+                "ro": "Pe măsură ce lumina după-amiezii se estompează, arhitectura modernă și uimitoare oferă o oportunitate excelentă pentru poze de iarnă.",
+                "en": "As the early afternoon light fades, the striking modern architecture of this venue provides an excellent winter photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohlehalde Terril 110",
+                "hu": "Terril 110 meddőhányó",
+                "ro": "Halda Terril 110",
+                "en": "Slag Heap Terril 110"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie ab und wandern Sie für den Sonnenuntergang um 16:30 Uhr hinauf; sorgen Sie für voll geladene Fahrradlichter für den Rückweg.",
+                "hu": "Zárja le a biciklit, és túrázzon fel a 16:30-as naplementéhez; győződjön meg róla, hogy lámpái fel vannak töltve a sötét, fagyos hazaútra.",
+                "ro": "Legați bicicleta și urcați pentru apusul de la 16:30; asigurați-vă că farurile sunt încărcate pentru întoarcerea pe întuneric și frig.",
+                "en": "Lock up and hike the heap for a 16:30 sunset; ensure your bike lights are fully charged for the dark, chilly ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Morgen: Kényelmes autóutunkat a Mine-image-nél kezdjük, ahol mélyen elmerülünk Oignies bányászainak történelmi világában.\n\nMittag: A központ közelében parkolunk, hogy felfedezzük a CMCF modellvasútjait és a Saint-Barthélemy templom nyugodt pompáját.\n\nNachmittag: Egy rövid út elvisz minket a lenyűgöző Fosse 9-9bis létesítményhez és a bányászati múzeumhoz, amelyek az ipari örökséget ünneplik.\n\nAbend: A futurisztikus Le Métaphone megtekintése után a napot a Terril 110 megmászásával és annak csodálatos kilátásával zárjuk.",
         "ro": "Morgen: Începem călătoria noastră confortabilă cu mașina la Mine-image, unde pătrundem adânc în lumea istorică a minerilor din Oignies.\n\nMittag: Parcăm aproape de centru pentru a experimenta machetele feroviare ale CMCF și splendoarea liniștită a bisericii Saint-Barthélemy.\n\nNachmittag: O scurtă călătorie ne aduce la impresionanta facilitate Fosse 9-9bis și la Muzeul Mineritului, care celebrează moștenirea industrială.\n\nAbend: După o privire asupra futuristului Le Métaphone, încheiem ziua cu ascensiunea pe Terril 110 și cu priveliștea sa magnifică.",
         "en": "Morgen: We start our comfortable car journey at the Mine-image, where we delve deep into the historic world of the Oignies miners.\n\nMittag: We park near the center to experience the model railways of the CMCF and the quiet splendor of the Saint-Barthélemy Church.\n\nNachmittag: A short drive brings us to the impressive Fosse 9-9bis facility and the mining museum, which celebrate the region's industrial heritage.\n\nAbend: After a look at the futuristic Le Métaphone, we conclude the day with the climb up Terril 110 and its magnificent views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Oignies eignet sich perfekt für eine Autotour. Vormittags wechseln Sie bequem zwischen den trockenen Bergbau- und Eisenbahnmuseen. Nachmittags fahren Sie mit eingeschalteten Scheibenwischern zum historischen 9-9bis. Beenden Sie den Tag mit einem vorsichtigen Spaziergang auf die Halde Terril 110 in wasserdichten Schuhen.",
+            "hu": "Egy esős nap Oignies-ben tökéletes egy autós túrához. A délelőttöt kényelmesen eltöltheti a száraz bányászati és vasúti múzeumok között ingázva. Délután vezessen át a történelmi 9-9bis területére, járatva az ablaktörlőket. Zárásként óvatosan sétáljon fel a Terril 110-re; legyen a csomagtartóban egy erős, vízálló bakancs.",
+            "ro": "O zi ploioasă în Oignies este perfectă pentru un tur cu mașina. Dimineața trece ușor mergând între muzeele uscate ale mineritului și feroviare. După-amiaza, conduceți cu ștergătoarele pornite spre situl istoric 9-9bis. Încheiați cu o plimbare precaută pe Terril 110, asigurându-vă că aveți cizme impermeabile în portbagaj.",
+            "en": "A rainy day in Oignies is perfectly suited for a driving tour. The morning is easily spent hopping between the dry, indoor mining and railway museums. In the afternoon, drive smoothly to the historic 9-9bis site, keeping your wipers on. Finish with a cautious walk up Terril 110, ensuring you have sturdy, waterproof boots in the trunk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schaubergwerk Grube Nr. 2",
+                "hu": "2. számú akna Bányamúzeum",
+                "ro": "Mina-muzeu a puțului nr. 2",
+                "en": "Mine-image of Pit No. 2"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe dem Eingang und huschen Sie hinein, um die vollständig geschlossene, unterirdische Bergbauwelt vor Regen geschützt zu erkunden.",
+                "hu": "Parkoljon a bejárat közelében, és siessen be, hogy felfedezze a teljesen zárt föld alatti bányászati világot, messze az esőtől.",
+                "ro": "Parcați aproape de intrare și fugiți înăuntru pentru a explora lumea minieră subterană, complet închisă și ferită de ploaie.",
+                "en": "Park right near the entrance and dash inside to explore the immersive, fully enclosed underground mining world away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum CMCF Oignies",
+                "hu": "CMCF Oignies Vasútmúzeum",
+                "ro": "Muzeul Feroviar CMCF Oignies",
+                "en": "CMCF Oignies Railway Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Fahrt bringt Sie zu den riesigen, trockenen Eisenbahnhallen, wo Sie bequem die massiven historischen Lokomotiven bestaunen können.",
+                "hu": "Egy gyors út elviszi a hatalmas, száraz vasúti csarnokokhoz, ahol kényelmesen megcsodálhatja a masszív történelmi mozdonyokat.",
+                "ro": "Un scurt drum cu mașina vă duce la hangarele feroviare uriașe, unde puteți admira confortabil locomotivele istorice masive.",
+                "en": "A quick drive takes you to the vast, dry railway sheds where you can comfortably marvel at the massive historic locomotives."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie das Auto kurz mit Schirm, um in der Kirche einen trockenen, friedlichen Zufluchtsort mit schöner Architektur zu finden.",
+                "hu": "Hagyja el röviden az autót, esernyővel sétáljon a templomig, és találjon odabent egy száraz, békés menedéket az építészet csodálatához.",
+                "ro": "Lăsați mașina puțin și folosiți umbrela până la biserică, găsind înăuntru un refugiu uscat și liniștit pentru a admira arhitectura.",
+                "en": "Leave the car briefly and use an umbrella to reach the church, finding a dry, peaceful haven inside to admire its architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Grube 9-9bis",
+                "hu": "9-9bis bánya",
+                "ro": "Fosse 9-9bis",
+                "en": "Fosse 9-9bis"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Parkplatz und erkunden Sie die beeindruckenden Industriegebäude, wobei Sie bei starken Schauern die überdachten Bereiche nutzen.",
+                "hu": "Vezessen egyenesen a parkolóba, és fedezze fel a lenyűgöző ipari épületeket, kihasználva a fedett részeket heves záporok idején.",
+                "ro": "Conduceți direct în parcarea sitului și explorați clădirile industriale, folosind secțiunile lor acoperite în timpul averselor puternice.",
+                "en": "Drive directly to the site parking and explore the impressive industrial heritage buildings, using their covered sections during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbau- und Eisenbahnzentrum",
+                "hu": "Bányászati és Vasúti Központ",
+                "ro": "Centrul Minelor și Căilor Ferate",
+                "en": "Mining and Railway Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort der Anreise mit dem Auto, um dieses Zentrum trocken zu erkunden und die lokale Geschichte kennenzulernen.",
+                "hu": "Élvezze az autós érkezés kényelmét az egyesített központ alapos bejárásához, miközben teljesen szárazon ismeri meg a helyi történelmet.",
+                "ro": "Bucurați-vă de confortul mașinii pentru a explora amănunțit acest centru combinat, rămânând perfect uscat în timp ce aflați istoria.",
+                "en": "Enjoy the convenience of arriving by car to thoroughly explore this combined center, staying completely dry while learning the local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Métaphone",
+                "hu": "Le Métaphone",
+                "ro": "Le Métaphone",
+                "en": "Le Métaphone"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses architektonische Juwel aus dem beheizten Auto oder steigen Sie kurz aus für ein Foto der regennassen Oberflächen.",
+                "hu": "Tekintse meg ezt az építészeti gyöngyszemet fűtött autója kényelméből, vagy ugorjon ki gyorsan egy fotóra a nedves, csillogó felületekről.",
+                "ro": "Admirați această bijuterie din confortul mașinii încălzite sau ieșiți rapid pentru o poză a suprafețelor strălucitoare de ploaie.",
+                "en": "View this architectural gem from the comfort of your heated car, or dash out quickly for a photo of the rain-slicked surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohlehalde Terril 110",
+                "hu": "Terril 110 meddőhányó",
+                "ro": "Halda Terril 110",
+                "en": "Slag Heap Terril 110"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie wasserdichte Schuhe aus dem Kofferraum an, bevor Sie die rutschigen Wege hinaufsteigen; die dramatische, wolkige Aussicht lohnt sich.",
+                "hu": "Vegye fel a csomagtartóból a vízálló bakancsot, mielőtt elindulna a csúszós fekete utakon; a drámai, felhős kilátás teljesen megéri.",
+                "ro": "Schimbați-vă în cizme impermeabile din portbagaj înainte de a urca potecile alunecoase; priveliștile dramatice, înnorate merită tot efortul.",
+                "en": "Change into waterproof boots from your trunk before ascending the slippery black paths; the dramatic, cloudy views are entirely worth it."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Profitieren Sie von der Autoheizung auf dieser klaren Wintertour. Vormittags tauchen Sie perfekt in die temperierten Museen ein. Mittags haben Sie einen klaren, frostigen Blick auf 9-9bis. Fahren Sie vorsichtig auf eisigen Stellen und erreichen Sie Terril 110 vor der frühen Dämmerung um 16:30 Uhr.",
+            "hu": "Használja ki az autó fűtését ezen a csípős téli túrán. A délelőtt tökéletes a fűtött múzeumok alapos felfedezésére. A dél tiszta, fagyos kilátást kínál a 9-9bis műemlékekre. Vezessen óvatosan a jeges szakaszokon, és érjen a Terril 110-hez, mielőtt a korai, 16:30-as szürkület leszáll.",
+            "ro": "Profitați de încălzirea mașinii într-o zi geroasă. Dimineața e perfectă pentru o explorare a muzeelor cu temperatură controlată. Amiaza oferă priveliști clare, înghețate, ale sitului 9-9bis. Conduceți cu atenție pe zonele cu gheață și țintiți să ajungeți la Terril 110 înainte de amurgul de la 16:30.",
+            "en": "Take advantage of your car's heater on a crisp winter tour. The morning is perfect for deep dives into the temperature-controlled museums. Midday offers clear, frosty views of the 9-9bis heritage site. Ensure you drive cautiously on icy patches and aim to reach Terril 110 before the early 16:30 dusk settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schaubergwerk Grube Nr. 2",
+                "hu": "2. számú akna Bányamúzeum",
+                "ro": "Mina-muzeu a puțului nr. 2",
+                "en": "Mine-image of Pit No. 2"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Kälte hinter sich, wenn Sie aus dem beheizten Auto in die geschlossene und relativ warme Untertagewelt eintreten.",
+                "hu": "Hagyja maga mögött a hideget, ahogy a fűtött autóból belép a teljesen zárt és viszonylag meleg föld alatti bányászati világba.",
+                "ro": "Lăsați frigul în urmă pășind din mașina încălzită în lumea minieră subterană, complet închisă și relativ călduroasă.",
+                "en": "Leave the cold behind as you step from your heated car into the fully enclosed and relatively warm underground mining world."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum CMCF Oignies",
+                "hu": "CMCF Oignies Vasútmúzeum",
+                "ro": "Muzeul Feroviar CMCF Oignies",
+                "en": "CMCF Oignies Railway Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine kurze, warme Fahrt zu den Eisenbahnhallen, wo massive Dampflokomotiven sicher vor dem Winterfrost aufbewahrt werden.",
+                "hu": "Élvezze a gyors, meleg autózást a vasúti csarnokokhoz, ahol hatalmas gőzmozdonyokat őriznek biztonságban a téli fagytól.",
+                "ro": "Bucurați-vă de un drum scurt și cald până la halele feroviare, unde locomotive masive sunt păstrate departe de gerul iernii.",
+                "en": "Enjoy a quick, warm drive to the railway sheds, where massive steam locomotives are preserved safely away from the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélemy",
+                "hu": "Saint-Barthélemy templom",
+                "ro": "Biserica Saint-Barthélemy",
+                "en": "Saint-Barthélemy Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kühler Spaziergang vom Parkplatz bringt Sie in diese ruhige Kirche, die von der tief stehenden Wintersonne wunderschön beleuchtet wird.",
+                "hu": "Egy rövid fagyos séta a parkolótól ebbe a csendes templomba vezet, amelyet az alacsonyan járó téli nap gyönyörűen megvilágít.",
+                "ro": "O scurtă plimbare răcoroasă de la parcare vă duce în această biserică liniștită, luminată superb de soarele blând de iarnă.",
+                "en": "A brief chilly walk from your parking spot brings you into this quiet church, beautifully illuminated by the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Grube 9-9bis",
+                "hu": "9-9bis bánya",
+                "ro": "Fosse 9-9bis",
+                "en": "Fosse 9-9bis"
+              },
+              "tip_5lang": {
+                "de": "Die imposanten Backsteingebäude heben sich scharf vom Winterhimmel ab; ziehen Sie sich warm an, wenn Sie aussteigen, um das Gelände zu erkunden.",
+                "hu": "Az impozáns téglaépületek élesen rajzolódnak ki a téli égbolton; öltözzön fel melegen, amikor kiszáll az autóból felfedezni a területet.",
+                "ro": "Structurile impunătoare din cărămidă se conturează clar pe cerul de iarnă; îmbrăcați-vă bine la coborârea din mașină pentru a explora situl.",
+                "en": "The imposing brick structures stand sharply against the winter sky; dress warmly when stepping out of the car to explore the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergbau- und Eisenbahnzentrum",
+                "hu": "Bányászati és Vasúti Központ",
+                "ro": "Centrul Minelor și Căilor Ferate",
+                "en": "Mining and Railway Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und tauchen Sie in diesem Indoor-Zentrum tief in die regionale Geschichte ein und meiden Sie die eisigen Temperaturen.",
+                "hu": "Parkoljon kényelmesen közel, és merüljön el a regionális történelemben ebben a beltéri központban, teljesen elkerülve a fagyos hőmérsékletet.",
+                "ro": "Parcați aproape și pătrundeți în istoria regională în acest centru interior, evitând complet temperaturile scăzute de afară.",
+                "en": "Park conveniently close and dive deep into regional history in this indoor center, avoiding the freezing outdoor temperatures completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Métaphone",
+                "hu": "Le Métaphone",
+                "ro": "Le Métaphone",
+                "en": "Le Métaphone"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie kurz das Fenster herunter für ein Foto dieses einzigartigen Gebäudes, dessen Design in der kalten Luft extrem scharf wirkt.",
+                "hu": "Húzza le az ablakot egy pillanatra, hogy lefotózza ezt az egyedi épületet, amelynek letisztult dizájnja lenyűgöző a hideg téli levegőben.",
+                "ro": "Deschideți geamul puțin pentru a fotografia această clădire unică, al cărei design elegant arată incredibil de clar în aerul rece.",
+                "en": "Roll down your windows briefly to photograph this unique building, whose sleek design looks incredibly sharp in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohlehalde Terril 110",
+                "hu": "Terril 110 meddőhányó",
+                "ro": "Halda Terril 110",
+                "en": "Slag Heap Terril 110"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft für 16:30 Uhr ein, um den frühen Sonnenuntergang zu erleben; halten Sie später einen Eiskratzer griffbereit.",
+                "hu": "Időzítse érkezését 16:30-ra egy túrához és a látványos korai naplementéhez; később legyen kéznél jégkaparó az autó ablakaihoz.",
+                "ro": "Planificați sosirea la 16:30 pentru a urca și a prinde apusul devreme; țineți o racletă la îndemână pentru geamurile mașinii mai târziu.",
+                "en": "Time your arrival for 16:30 to hike up and catch a spectacular early sunset; keep an ice scraper handy for your car windows later."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A nap Corcubión kulturális szívében indul, ahol a helyi művészetet és a fenséges kúriákat fedezheti fel. Délben a plébániatemplom mellett elsétálva a tengerészeti múzeumban merülhet el a történelemben. A délután nyugodtabb tempót hoz a Quenxe strand védett homokján pihenve. Végül, ahogy közeledik az este, a vaskori romokhoz tett túra lenyűgöző kilátást nyújt az öbölre.",
         "ro": "Ziua începe în inima culturală din Corcubión, explorând arta locală și conacele istorice maiestuoase. La prânz, veți trece pe lângă biserica parohială și veți descoperi istoria maritimă la muzeu. După-amiaza încetinește ritmul cu o oprire relaxantă pe nisipul protejat de la plaja Quenxe. Spre seară, o drumeție la vechea așezare celtică oferă priveliști uimitoare asupra golfului.",
         "en": "Your day begins in the cultural heart of Corcubión, exploring the local arts scene and majestic historic manors. By midday, you will wander past the iconic parish church and delve into rich maritime history at the local museum. The afternoon slows down with a relaxing stop at the protected sands of Quenxe beach to soak in the sun. Finally, a rewarding hike offers stunning twilight views over the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Corcubión beginnt im Schutz der Casa da Cultura. Mittags bieten die massiven Mauern des Pazo dos Traba und der San-Marcos-Kirche Zuflucht vor den galicischen Schauern. Der Nachmittag im Schifffahrtsmuseum ist die perfekte Wahl, um trocken zu bleiben. Der Tag endet am Castro de Quenxe, wo der Nebel über der Bucht für eine mystische, wenn auch nasse Atmosphäre sorgt.",
+            "hu": "Az esős nap Corcubiónban a kultúrház fedett tereiben indul. Délben a Pazo dos Traba és a San Marcos templom vastag fala nyújt védelmet a szitáló esőben. A délutánt töltsük a Tengerészeti Múzeumban, amely a legjobb menedék a városban. Az estét a Castro de Quenxe romjai között zárjuk, ahol a tenger felől érkező köd titokzatos hangulatot áraszt, de vigyázzunk a csúszós talajon.",
+            "ro": "O zi ploioasă în Corcubión începe la adăpostul Casei da Cultura. La prânz, zidurile masive de la Pazo dos Traba și biserica San Marcos oferă refugiu împotriva averselor galiciene. Nachmittagul la Muzeul Maritim este alegerea perfectă pentru a rămâne uscat. Ziua se încheie la Castro de Quenxe, unde ceața de peste golf creează o atmosferă mistică, deși umedă.",
+            "en": "A rainy day in Corcubión starts under the shelter of the Casa da Cultura. At noon, the massive walls of Pazo dos Traba and San Marcos church provide refuge from the Galician showers. Spend the afternoon in the Maritime Museum, the perfect choice for staying dry. The day ends at Castro de Quenxe, where the mist over the bay creates a mystical, albeit wet, atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa da Cultura de Corcubión",
+                "hu": "Casa da Cultura de Corcubión",
+                "ro": "Casa da Cultura de Corcubión",
+                "en": "Casa da Cultura de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ausstellungen im Inneren dieses historischen Gebäudes, das einen sicheren Rückzugsort vor dem morgendlichen Regen bietet.",
+                "hu": "Csodálja meg a belső kiállításokat ebben a történelmi épületben, amely biztos menedéket nyújt a reggeli záporok elől.",
+                "ro": "Admirați expozițiile din interiorul acestei clădiri istorice, care oferă un refugiu sigur în fața ploii de dimineață.",
+                "en": "Admire the exhibitions inside this historic building, which offers a safe retreat from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo dos Traba",
+                "hu": "Pazo dos Traba",
+                "ro": "Pazo dos Traba",
+                "en": "Pazo dos Traba"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die herrschaftliche Fassade unter einem Regenschirm; die Architektur wirkt bei grauem Himmel besonders eindrucksvoll.",
+                "hu": "Tekintse meg az úri homlokzatot egy esernyő alól; az építészet különösen lenyűgöző a szürke égbolt alatt.",
+                "ro": "Priviți fațada nobiliară de sub o umbrelă; arhitectura pare deosebit de impresionantă sub cerul gri.",
+                "en": "View the noble facade from under an umbrella; the architecture looks particularly impressive under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Marcos de Corcubión",
+                "hu": "Igrexa de San Marcos de Corcubión",
+                "ro": "Igrexa de San Marcos de Corcubión",
+                "en": "Igrexa de San Marcos de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche für eine trockene Pause und bewundern Sie das gotische Interieur fernab vom prasselnden Regen.",
+                "hu": "Használja ki a templom csendjét egy száraz pihenőre, és csodálja meg a gótikus belsőt távol a kopogó esőtől.",
+                "ro": "Folosiți liniștea bisericii pentru o pauză uscată și admirați interiorul gotic departe de ploaia torențială.",
+                "en": "Use the silence of the church for a dry break and admire the Gothic interior away from the pelting rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Marítimo Seno de Corcubión",
+                "hu": "Museo Marítimo Seno de Corcubión",
+                "ro": "Museo Marítimo Seno de Corcubión",
+                "en": "Museo Marítimo Seno de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Seefahrtsgeschichte ein; dieses Museum ist der ideale Ort, um einen regnerischen Nachmittag sinnvoll zu füllen.",
+                "hu": "Merüljön el a tengerészeti történelemben; ez a múzeum ideális hely egy esős délután hasznos eltöltéséhez.",
+                "ro": "Aprofundați istoria maritimă; acest muzeu este locul ideal pentru a petrece util o după-amiază ploioasă.",
+                "en": "Dive deep into maritime history; this museum is the ideal place to spend a rainy afternoon meaningfully."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Quenxe",
+                "hu": "Praia de Quenxe",
+                "ro": "Praia de Quenxe",
+                "en": "Praia de Quenxe"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Ufer ist auch bei Regen erfrischend; tragen Sie wasserfeste Schuhe für den nassen Sand am Strand.",
+                "hu": "Egy rövid séta a parton esőben is frissítő; viseljen vízálló cipőt a strand nedves homokjában való járáshoz.",
+                "ro": "O scurtă plimbare pe țărm este revigorantă chiar și pe ploaie; purtați încălțăminte impermeabilă pentru nisipul ud.",
+                "en": "A short walk along the shore is refreshing even in the rain; wear waterproof shoes for the wet sand on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Quenxe",
+                "hu": "Castro de Quenxe",
+                "ro": "Castro de Quenxe",
+                "en": "Castro de Quenxe"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den rutschigen Steinen der Ruinen; der Blick auf die verregnete Bucht ist jedoch unvergleichlich stimmungsvoll.",
+                "hu": "Legyen óvatos a romok csúszós kövein; az esős öbölre nyíló kilátás azonban páratlanul hangulatos és egyedi élmény.",
+                "ro": "Fiți atenți pe pietrele alunecoase ale ruinelor; vederea spre golful ploios este însă incomparabil de atmosferică.",
+                "en": "Be careful on the slippery stones of the ruins; however, the view of the rainy bay is uniquely atmospheric."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Corcubión ist frisch und klar. Starten Sie kulturell in der Casa da Cultura, bevor Sie die historischen Pätze bei kühler Meeresbrise erkunden. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenbesichtigungen wie den Castro de Quenxe auf den frühen Nachmittag legen. Den Abend genießen Sie am besten in den beleuchteten Gassen des historischen Zentrums, wenn die Winterkälte einsetzt.",
+            "hu": "A téli reggel Corcubiónban friss és tiszta. Kezdje a napot kulturálisan a Casa da Cultura épületében, majd fedezze fel a történelmi helyszíneket a hűvös tengeri szélben. Mivel a nap 17:00 körül nyugszik, a szabadtéri látnivalókat, mint a Castro de Quenxe, kora délutánra érdemes időzíteni. Az estét töltse a történelmi központ kivilágított utcáin, élvezve a téli város nyugodt hangulatát.",
+            "ro": "Dimineața de iarnă în Corcubión este proaspătă și senină. Începeți cultural la Casa da Cultura înainte de a explora locurile istorice în briza rece a mării. Deoarece soarele apune deja în jurul orei 17:00, programați vizitele în aer liber la începutul după-amiezii. Seara este cel mai bine savurată pe străzile iluminate ale centrului istoric, când frigul iernii se instalează.",
+            "en": "A winter morning in Corcubión is crisp and clear. Start culturally at the Casa da Cultura before exploring the historical sites in the cool sea breeze. Since the sun sets around 17:00, schedule outdoor visits like Castro de Quenxe for the early afternoon. Enjoy the evening in the illuminated streets of the historic center as the winter chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa da Cultura de Corcubión",
+                "hu": "Casa da Cultura de Corcubión",
+                "ro": "Casa da Cultura de Corcubión",
+                "en": "Casa da Cultura de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume und die kulturelle Wärme, während die Wintersonne draußen tief am Horizont steht.",
+                "hu": "Élvezze a fűtött belső tereket és a kulturális élményeket, miközben a téli nap kint alacsonyan jár a látóhatáron.",
+                "ro": "Bucurați-vă de interioarele încălzite și de căldura culturală, în timp ce soarele de iarnă stă jos la orizont afară.",
+                "en": "Enjoy the heated interiors and cultural warmth while the winter sun sits low on the horizon outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo dos Traba",
+                "hu": "Pazo dos Traba",
+                "ro": "Pazo dos Traba",
+                "en": "Pazo dos Traba"
+              },
+              "tip_5lang": {
+                "de": "Die Granitfassade wirkt im harten Winterlicht besonders scharfkantig; ein kurzer Halt für Fotos lohnt sich trotz der Kälte.",
+                "hu": "A gránit homlokzat a kemény téli fényben különösen élesnek tűnik; a hideg ellenére is megéri egy rövid fotómegálló.",
+                "ro": "Fațada de granit pare deosebit de bine definită în lumina aspră de iarnă; merită o scurtă oprire pentru fotografii.",
+                "en": "The granite facade looks particularly sharp in the harsh winter light; a quick photo stop is worth it despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Marcos de Corcubión",
+                "hu": "Igrexa de San Marcos de Corcubión",
+                "ro": "Igrexa de San Marcos de Corcubión",
+                "en": "Igrexa de San Marcos de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da die alten Steinkirchen im Winter recht kühl sein können; die Atmosphäre ist dafür umso andächtiger.",
+                "hu": "Öltözzön rétegesen, mivel a régi kőtemplomok télen elég hűvösek lehetnek; a hangulat viszont ilyenkor a legáhitatosabb.",
+                "ro": "Purtați straturi calde, deoarece bisericile vechi de piatră pot fi destul de răcoroase iarna; atmosfera este însă mult mai pioasă.",
+                "en": "Wear warm layers as old stone churches can be quite chilly in winter; however, the atmosphere is even more devout."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Marítimo Seno de Corcubión",
+                "hu": "Museo Marítimo Seno de Corcubión",
+                "ro": "Museo Marítimo Seno de Corcubión",
+                "en": "Museo Marítimo Seno de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich am Nachmittag aufzuwärmen und gleichzeitig die maritime Seele der Region kennenzulernen.",
+                "hu": "Csodálatos hely a délutáni felmelegedéshez, miközben megismerheti a régió tengeri örökségét és szellemét.",
+                "ro": "Un loc minunat pentru a vă încălzi după-amiaza și pentru a cunoaște în același timp sufletul maritim al regiunii.",
+                "en": "A wonderful place to warm up in the afternoon while learning about the maritime soul of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Quenxe",
+                "hu": "Praia de Quenxe",
+                "ro": "Praia de Quenxe",
+                "en": "Praia de Quenxe"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersee ist oft stürmisch und beeindruckend; halten Sie Abstand zum Wasser, wenn die Brandung bei Flut stärker wird.",
+                "hu": "A téli tenger gyakran viharos és lenyűgöző; tartson távolságot a víztől, ha a hullámzás apálykor felerősödik.",
+                "ro": "Marea iarna este adesea furtunoasă și impresionantă; păstrați distanța față de apă dacă valurile devin mai puternice.",
+                "en": "The winter sea is often stormy and impressive; keep your distance from the water if the surf gets stronger at high tide."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Quenxe",
+                "hu": "Castro de Quenxe",
+                "ro": "Castro de Quenxe",
+                "en": "Castro de Quenxe"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen kurz vor 17:00 Uhr, um das goldene Winterlicht über der Bucht einzufangen, bevor es dunkel wird.",
+                "hu": "Látogassa meg a romokat röviddel 17:00 előtt, hogy elkapja az öböl feletti aranyló téli fényeket a sötétedés előtt.",
+                "ro": "Vizitați ruinele chiar înainte de ora 17:00 pentru a surprinde lumina aurie de iarnă deasupra golfului înainte de întuneric.",
+                "en": "Visit the ruins just before 17:00 to catch the golden winter light over the bay before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen a friss reggeli levegőn a kelta gyökerek és a csendes vidéki kápolnák felé Redonda szélén. Délidőben elérve az öblöt, tartson strandpihenőt és ismerje meg a tengerészeti örökséget. A délután folyamán a történelmi lakóépületek és kulturális központok felfedik a város építészeti báját. Az utazás a tengerparti szellővel ér véget Estorde fehér homokján egy tökéletes naplementéhez.",
         "ro": "Pedalați în aerul proaspăt al dimineții spre rădăcinile celtice antice și capelele rurale liniștite din Redonda. La prânz, ajungeți în golf pentru o pauză la plajă și explorarea moștenirii maritime. După-amiaza, fațadele istorice și centrele culturale din centru dezvăluie farmecul arhitectural. Plimbarea culminează cu briza de coastă la plaja Estorde pentru un apus perfect.",
         "en": "Pedal through the crisp morning air to uncover ancient Celtic roots and quiet rural chapels on the outskirts of Redonda. Moving towards the midday sun, you will reach the bay for a quick beach break and a deep dive into Corcubión's seafaring heritage. As the afternoon unfolds, the historic residential facades and cultural centers reveal the town's refined architectural charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Corcubión Vorsicht, besonders auf den Wegen zu den Castros. Starten Sie vorsichtig am Castro de Redonda. Mittags bietet das Schifffahrtsmuseum eine willkommene Pause vom nassen Wetter. Der Nachmittag führt durch die Stadt zu kulturellen Stopps, wobei Sie immer auf rutschiges Kopfsteinpflaster achten sollten. Ein kürzerer Ausflug zum Praia de Estorde schließt den feuchten Tag ab.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel Corcubiónban, különösen a Castros felé vezető utakon. Kezdjen óvatosan a Castro de Redondánál. Délben a Tengerészeti Múzeum kínál szívesen látott pihenőt a nedves idő elől. Délután a városon át kulturális megállók következnek, ügyelve a csúszós macskakövekre. A napot egy rövidebb kirándulás zárja a Praia de Estorde felé.",
+            "ro": "Ciclismul pe ploaie necesită prudență în Corcubión, în special pe drumurile spre Castros. Începeți cu atenție la Castro de Redonda. La prânz, Muzeul Maritim oferă o pauză binevenită de vremea umedă. După-amiaza trece prin oraș spre opriri culturale, fiind mereu atenți la pavajul alunecos. O scurtă excursie la Praia de Estorde încheie ziua umedă.",
+            "en": "Cycling in the rain requires caution in Corcubión, especially on the paths to the Castros. Start carefully at Castro de Redonda. At noon, the Maritime Museum offers a welcome break from the wet weather. The afternoon leads through the town to cultural stops, always watching out for slippery cobblestones. A shorter trip to Praia de Estorde closes the damp day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castro de Redonda",
+                "hu": "Castro de Redonda",
+                "ro": "Castro de Redonda",
+                "en": "Castro de Redonda"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade zum Castro können bei Regen schlammig sein; stellen Sie sicher, dass Ihre Reifen für unebenes, nasses Gelände geeignet sind.",
+                "hu": "A Castróhoz vezető ösvények sárgaek lehetnek esőben; győződjön meg róla, hogy gumijai alkalmasak a vizes, egyenetlen terepre.",
+                "ro": "Potecile spre Castro pot fi noroioase pe ploaie; asigurați-vă că anvelopele sunt potrivite pentru teren accidentat și ud.",
+                "en": "The paths to the Castro can be muddy in the rain; ensure your tires are suitable for uneven, wet terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Redonda",
+                "hu": "Igrexa de San Pedro de Redonda",
+                "ro": "Igrexa de San Pedro de Redonda",
+                "en": "Igrexa de San Pedro de Redonda"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für einen kurzen Halt, um den Regen abzuwarten; parken Sie Ihr Fahrrad an einer geschützten Stelle nahe der Mauer.",
+                "hu": "Nyugodt hely egy rövid megállóra, hogy megvárja az eső csendesedését; parkolja le kerékpárját védett helyen a fal közelében.",
+                "ro": "Un loc liniștit pentru o scurtă oprire pentru a aștepta trecerea ploii; parcați bicicleta într-un loc protejat lângă zid.",
+                "en": "A quiet place for a short stop to wait out the rain; park your bike in a sheltered spot near the wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Quenxe",
+                "hu": "Praia de Quenxe",
+                "ro": "Praia de Quenxe",
+                "en": "Praia de Quenxe"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt auf dem nassen Sand; der befestigte Weg oberhalb bietet eine sicherere Route bei Regen.",
+                "hu": "Kerülje a közvetlen kerékpározást a nedves homokon; a felette lévő szilárd burkolatú út biztonságosabb útvonalat kínál esőben.",
+                "ro": "Evitați să pedalați direct pe nisipul ud; poteca pavată de deasupra oferă o rută mai sigură pe timp de ploaie.",
+                "en": "Avoid riding directly on the wet sand; the paved path above offers a safer route in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Marítimo Seno de Corcubión",
+                "hu": "Museo Marítimo Seno de Corcubión",
+                "ro": "Museo Marítimo Seno de Corcubión",
+                "en": "Museo Marítimo Seno de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine längere Pause im Trockenen, um Ihre Regenbekleidung kurz zu lüften und sich aufzuwärmen.",
+                "hu": "Használja ki ezt a megállót egy hosszabb száraz pihenőre, hogy átszellőztesse esőruházatát és kicsit felmelegedjen.",
+                "ro": "Folosiți această oprire pentru o pauză mai lungă la uscat, pentru a vă aerisi echipamentul de ploaie și a vă încălzi.",
+                "en": "Use this stop for a longer dry break to air out your rain gear and warm up a little."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de José Sendón",
+                "hu": "Casa de José Sendón",
+                "ro": "Casa de José Sendón",
+                "en": "Casa de José Sendón"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das rutschige Kopfsteinpflaster in der Nähe dieses historischen Hauses; fahren Sie in den Kurven besonders langsam.",
+                "hu": "Ügyeljen a csúszós macskakövekre a történelmi ház közelében; a kanyarokban haladjon különösen lassan és óvatosan.",
+                "ro": "Atenție la pavajul alunecos din apropierea acestei case istorice; mergeți deosebit de încet în curbe.",
+                "en": "Watch out for slippery cobblestones near this historic house; take turns particularly slowly and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura de Corcubión",
+                "hu": "Casa da Cultura de Corcubión",
+                "ro": "Casa da Cultura de Corcubión",
+                "en": "Casa da Cultura de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Fahrrad kurz abzustellen und sich im Inneren über die lokale Geschichte und Kultur zu informieren.",
+                "hu": "Ideális hely a kerékpár rövid leállítására, miközben bent a helyi történelemről és kultúráról tájékozódhat.",
+                "ro": "Un loc ideal pentru a parca bicicleta scurt timp și pentru a vă informa despre istoria și cultura locală în interior.",
+                "en": "An ideal spot to park your bike briefly while you learn about local history and culture inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Estorde",
+                "hu": "Praia de Estorde",
+                "ro": "Praia de Estorde",
+                "en": "Praia de Estorde"
+              },
+              "tip_5lang": {
+                "de": "Der Rückweg kann bei Wind und Regen anstrengend sein; stellen Sie sicher, dass Ihre Beleuchtung für schlechte Sichtverhältnisse aktiv ist.",
+                "hu": "A visszautat a szél és az eső megnehezítheti; győződjön meg róla, hogy világítása működik a rossz látási viszonyok között.",
+                "ro": "Drumul de întoarcere poate fi obositor pe vânt și ploaie; asigurați-vă că luminile sunt active pentru vizibilitate redusă.",
+                "en": "The ride back can be tough in wind and rain; ensure your lights are active for poor visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Corcubión bietet klare Aussichten und kühle Luft. Starten Sie am Castro de Redonda, bevor die Kälte des Morgens nachlässt. Mittags führt die Route durch das sonnige Zentrum zu Museen, die Wärme bieten. Da es früh dunkel wird, sollten Sie Praia de Estorde bis 16:30 Uhr erreichen, um den Sonnenuntergang sicher zu erleben. Denken Sie an winddichte Kleidung für die Abfahrten an der Küste.",
+            "hu": "A téli kerékpározás Corcubiónban tiszta kilátást és friss levegőt kínál. Kezdjen a Castro de Redondánál, mielőtt a reggeli hideg enyhülne. Délben az útvonal a napos központon át vezet a meleget adó múzeumokhoz. Mivel korán sötétedik, a Praia de Estordét 16:30-ig érje el a biztonságos naplemente érdekében. Figyeljen a szélálló ruházatra a tengerparti szakaszokon.",
+            "ro": "Ciclismul de iarnă în Corcubión oferă vederi clare și aer rece. Începeți la Castro de Redonda înainte ca frigul dimineții să se domolească. La prânz, traseul trece prin centrul însorit spre muzee care oferă căldură. Deoarece se întunecă devreme, ajungeți la Praia de Estorde până la 16:30 pentru a vedea apusul în siguranță. Rețineți hainele rezistente la vânt.",
+            "en": "Winter cycling in Corcubión offers clear views and cool air. Start at Castro de Redonda before the morning chill eases. At noon, the route leads through the sunny center to museums offering warmth. Since it gets dark early, reach Praia de Estorde by 16:30 to experience the sunset safely. Remember windproof clothing for the coastal descents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castro de Redonda",
+                "hu": "Castro de Redonda",
+                "ro": "Castro de Redonda",
+                "en": "Castro de Redonda"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe; die kalte Meeresbrise am Castro kann die Finger beim Halten des Lenkers schnell auskühlen lassen.",
+                "hu": "Viseljen kesztyűt; a Castrónál fújó hideg tengeri szél gyorsan lehűtheti az ujjait a kormány fogása közben.",
+                "ro": "Purtați mănuși; briza rece a mării de la Castro vă poate răci rapid degetele în timp ce țineți ghidonul.",
+                "en": "Wear gloves; the cold sea breeze at the Castro can quickly chill your fingers while holding the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Redonda",
+                "hu": "Igrexa de San Pedro de Redonda",
+                "ro": "Igrexa de San Pedro de Redonda",
+                "en": "Igrexa de San Pedro de Redonda"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, ruhiger Stopp; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf den alten Kirchhof.",
+                "hu": "Rövid, nyugodt megálló; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a régi templomkertre.",
+                "ro": "O oprire scurtă și liniștită; soarele de iarnă care apune aruncă umbre lungi și dramatice pe vechiul cimitir.",
+                "en": "A short, quiet stop; the low winter sun casts long, dramatic shadows on the old churchyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Quenxe",
+                "hu": "Praia de Quenxe",
+                "ro": "Praia de Quenxe",
+                "en": "Praia de Quenxe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leere Promenade; im Winter haben Sie die Küstenstraße fast für sich allein, ideal für entspanntes Radfahren.",
+                "hu": "Élvezze az üres sétányt; télen szinte egyedül lesz a parti úton, ami ideális a nyugodt és zavartalan kerékpározáshoz.",
+                "ro": "Bucurați-vă de faleza goală; iarna aveți drumul de coastă aproape doar pentru voi, ideal pentru ciclism relaxat.",
+                "en": "Enjoy the empty promenade; in winter, you have the coastal road almost to yourself, ideal for relaxed cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Marítimo Seno de Corcubión",
+                "hu": "Museo Marítimo Seno de Corcubión",
+                "ro": "Museo Marítimo Seno de Corcubión",
+                "en": "Museo Marítimo Seno de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine Aufwärmpause am Mittag; nutzen Sie die Zeit im Gebäude, um sich für die Weiterfahrt zu regenerieren.",
+                "hu": "Tökéletes hely egy déli felmelegedésre; használja ki az épületben töltött időt a regenerálódásra a továbbindulás előtt.",
+                "ro": "Locul perfect pentru o pauză de încălzire la prânz; folosiți timpul în clădire pentru a vă regenera înainte de a pleca.",
+                "en": "The perfect spot for a midday warming break; use the time inside to regenerate before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de José Sendón",
+                "hu": "Casa de José Sendón",
+                "ro": "Casa de José Sendón",
+                "en": "Casa de José Sendón"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Wintertage lassen die Details der traditionellen Architektur besonders gut zur Geltung kommen; ideal für scharfe Fotos.",
+                "hu": "A tiszta téli napokon a hagyományos építészet részletei különösen jól érvényesülnek; ideális éles és tiszta fotókhoz.",
+                "ro": "Zilele senine de iarnă evidențiază detaliile arhitecturii tradiționale; ideal pentru fotografii clare.",
+                "en": "Clear winter days make the details of traditional architecture stand out particularly well; ideal for sharp photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura de Corcubión",
+                "hu": "Casa da Cultura de Corcubión",
+                "ro": "Casa da Cultura de Corcubión",
+                "en": "Casa da Cultura de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Boxenstopp im Warmen; informieren Sie sich über lokale Winterereignisse, bevor die Sonne tiefer sinkt.",
+                "hu": "Kulturális megálló a melegben; tájékozódjon a helyi téli eseményekről, mielőtt a nap még lejjebb ereszkedne.",
+                "ro": "O oprire culturală la căldură; informați-vă despre evenimentele locale de iarnă înainte ca soarele să apună mai mult.",
+                "en": "A cultural pit stop in the warm; find out about local winter events before the sun sinks lower."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Estorde",
+                "hu": "Praia de Estorde",
+                "ro": "Praia de Estorde",
+                "en": "Praia de Estorde"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vor 17:00 Uhr; das Licht am Strand ist im Winter spektakulär, aber die Temperaturen fallen nach Sonnenuntergang schnell.",
+                "hu": "Fejezze be a túrát 17:00 előtt; a fények a strandon télen lenyűgözőek, de a hőmérséklet napnyugta után gyorsan leesik.",
+                "ro": "Încheiați turul înainte de ora 17:00; lumina de pe plajă este spectaculoasă iarna, dar temperaturile scad rapid după apus.",
+                "en": "Finish your tour before 17:00; the light at the beach is spectacular in winter, but temperatures drop quickly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Indítsa be a motort a lenyűgöző atlanti panorámákért és az őskori felfedezésekért a déli sziklákon. Ebédidőben parkoljon le a történelmi központban a gótikus templom és a nagyszerű kőkúriák megcsodálásához. A késő délután kortárs kultúrára hív, mielőtt a part mentén egy érintetlen homokos menedékhez vezetne. Az autós túra az öböl túloldalán ér véget, nyugodt búcsút véve a naptól.",
         "ro": "Porniți motorul pentru dimineți cu panorame atlantice epice și explorări preistorice pe stâncile sudice. La prânz, parcați în centrul istoric pentru a admira biserica gotică și conacele de piatră grandioase. După-amiaza invită la cultură contemporană înainte de a merge de-a lungul coastei spre un paradis de nisip. Turul se încheie superb peste golf, cu țărmuri stâncoase izolate.",
         "en": "Start your engine for a morning of epic Atlantic panoramas and prehistoric explorations along the wild southern cliffs. By lunch time, park in the historic core to marvel at the Gothic maritime church and grand stone manors steeped in legend. Mid-afternoon invites a touch of contemporary culture before cruising to a pristine haven. Your driving tour ends beautifully across the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Corcubión mit dem Auto bei Regen ist komfortabel und ermöglicht weite Blicke trotz Nässe. Starten Sie an der 'blauen Bank', um die Gischt zu beobachten. Mittags bieten die Kirchen und Paläste in der Stadt trockene Besichtigungsmöglichkeiten. Der Nachmittag eignet sich für Ausstellungsbesuche und kurze Fahrten zu den Stränden, wo man die stürmische See sicher aus dem Fahrzeugfenster genießen kann.",
+            "hu": "Corcubión autóval esőben is kényelmes, lehetővé téve a távoli kilátást a nedves idő ellenére is. Kezdjen a „kék padnál”, hogy megfigyelhesse a tengeri habokat. Délben a város templomai és palotái száraz látogatási lehetőségeket kínálnak. A délután alkalmas kiállítások felkeresésére és rövid autózásra a strandokhoz, ahol a viharos tengert az autó ablakából is élvezheti.",
+            "ro": "Corcubión cu mașina pe ploaie este confortabil și permite vederi largi în ciuda umezelii. Începeți la „banca albastră” pentru a observa spuma mării. La prânz, bisericile și palatele din oraș oferă opțiuni de vizitare uscate. După-amiaza este potrivită pentru vizitarea expozițiilor și scurte drumuri spre plaje, unde marea furtunoasă poate fi admirată în siguranță de la fereastră.",
+            "en": "Corcubión by car in the rain is comfortable and allows for wide views despite the wetness. Start at the 'blue bench' to watch the sea spray. At noon, the churches and palaces in town offer dry sightseeing options. The afternoon is suitable for visiting exhibitions and short drives to the beaches, where the stormy sea can be enjoyed safely from the vehicle window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die blaue Bank",
+                "hu": "A kék pad",
+                "ro": "Banca albastră",
+                "en": "The blue bench"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das stürmische Meer direkt aus dem Auto, falls der Regen zu stark für die Bank im Freien ist.",
+                "hu": "Élvezze a drámai kilátást a viharos tengerre közvetlenül az autóból, ha az eső túl erős lenne a szabadtéri padhoz.",
+                "ro": "Bucurați-vă de vederea dramatică spre marea furtunoasă direct din mașină, în cazul în care ploaia este prea puternică pentru bancă.",
+                "en": "Enjoy the dramatic view of the stormy sea directly from the car if the rain is too heavy for the outdoor bench."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Redonda",
+                "hu": "Castro de Redonda",
+                "ro": "Castro de Redonda",
+                "en": "Castro de Redonda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; ein kurzer Sprint zu den Ruinen lohnt sich, um die neblige Atmosphäre der alten Stätte zu erleben.",
+                "hu": "Parkoljon a lehető legközelebb; egy rövid sprint a romokhoz megéri, hogy átélje az ősi hely ködös és misztikus hangulatát.",
+                "ro": "Parcați cât mai aproape posibil; un scurt sprint spre ruine merită pentru a experimenta atmosfera cețoasă a vechiului sit.",
+                "en": "Park as close as possible; a short sprint to the ruins is worth it to experience the misty atmosphere of the ancient site."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Marcos de Corcubión",
+                "hu": "Igrexa de San Marcos de Corcubión",
+                "ro": "Igrexa de San Marcos de Corcubión",
+                "en": "Igrexa de San Marcos de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine regenfreie Pause; die Kirche bietet Schutz und kulturellen Reichtum inmitten des nasskalten Wetters.",
+                "hu": "Ideális hely egy esőmentes pihenőre; a templom védelmet és kulturális gazdagságot kínál a nyirkos és hideg időben.",
+                "ro": "Un loc ideal pentru o pauză fără ploaie; biserica oferă protecție și bogăție culturală în mijlocul vremii umede și reci.",
+                "en": "An ideal spot for a rain-free break; the church offers shelter and cultural richness amidst the damp and cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo dos Traba",
+                "hu": "Pazo dos Traba",
+                "ro": "Pazo dos Traba",
+                "en": "Pazo dos Traba"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Herrenhaus im Vorbeifahren oder bei einem kurzen Halt; die nassen Steine glänzen im regnerischen Licht besonders schön.",
+                "hu": "Csodálja meg az udvarházat elhaladva mellette vagy egy rövid megálló során; a nedves kövek csillogása különleges az esős fényben.",
+                "ro": "Admirați conacul în trecere sau la o scurtă oprire; pietrele ude strălucesc deosebit de frumos în lumina ploioasă.",
+                "en": "Admire the manor house as you pass by or during a short stop; the wet stones glisten beautifully in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala de Exposición Municipal",
+                "hu": "Sala de Exposición Municipal",
+                "ro": "Sala de Exposición Municipal",
+                "en": "Sala de Exposición Municipal"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier eine entspannte Stunde im Trockenen; die Ausstellungen sind eine großartige Flucht vor den galicischen Regenschauern.",
+                "hu": "Töltsön el itt egy pihentető órát szárazon; a kiállítások nagyszerű menekülést jelentenek a galíciai záporok elől.",
+                "ro": "Petreceți aici o oră relaxată la uscat; expozițiile sunt o evadare grozavă din calea averselor galiciene.",
+                "en": "Spend a relaxed hour here in the dry; the exhibitions are a great escape from the Galician rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Estorde",
+                "hu": "Praia de Estorde",
+                "ro": "Praia de Estorde",
+                "en": "Praia de Estorde"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick auf die Brandung; genießen Sie die wilde Natur bequem aus Ihrem gewärmten Fahrzeug.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a hullámtörésre; élvezze a vad természetet kényelmesen, a fűtött autójából.",
+                "ro": "Parcarea oferă o vedere excelentă spre valuri; bucurați-vă de natura sălbatică confortabil din vehiculul încălzit.",
+                "en": "The parking lot offers a great view of the surf; enjoy the wild nature comfortably from your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Castelo",
+                "hu": "Praia do Castelo",
+                "ro": "Praia do Castelo",
+                "en": "Praia do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Strandspaziergang ist erfrischend; stellen Sie sicher, dass Ihre Scheibenwischer für die Rückfahrt gut funktionieren.",
+                "hu": "Egy rövid, esős tengerparti séta frissítő; győződjön meg róla, hogy az ablaktörlők jól működnek a visszautazáshoz.",
+                "ro": "O scurtă plimbare ploioasă pe plajă este revigorantă; asigurați-vă că ștergătoarele funcționează bine pentru drumul de întoarcere.",
+                "en": "A short, rainy beach walk is refreshing; make sure your windshield wipers are working well for the return journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Corcubión verspricht klare Horizonte und eine gemütliche Fahrt. Starten Sie mit der weiten Aussicht an der 'blauen Bank'. Mittags erkunden Sie das historische Zentrum, wobei das Auto als warmer Rückzugsort zwischen den kulturellen Stopps dient. Planen Sie die Strandbesuche für den Nachmittag ein, um das spektakuläre Winterlicht vor dem frühen Sonnenuntergang um 17:00 Uhr zu nutzen.",
+            "hu": "A téli autós túra Corcubiónban tiszta látóhatárt és kényelmes utazást ígér. Kezdjen a „kék pad” széles kilátásával. Délben fedezze fel a történelmi központot, ahol az autó meleg menedékként szolgál a kulturális megállók között. A strandlátogatásokat időzítse délutánra, hogy kihasználja a látványos téli fényeket a korai, 17:00-i naplemente előtt.",
+            "ro": "Un tur de iarnă cu mașina prin Corcubión promite orizonturi clare și o călătorie confortabilă. Începeți cu vederea largă de la „banca albastră”. La prânz explorați centrul istoric, mașina servind ca refugiu cald între opririle culturale. Planificați vizitele la plajă pentru după-amiază pentru a profita de lumina spectaculoasă înainte de apusul de la 17:00.",
+            "en": "A winter car tour through Corcubión promises clear horizons and a cozy ride. Start with the wide view at the 'blue bench'. At noon, explore the historic center, with the car serving as a warm retreat between cultural stops. Plan beach visits for the afternoon to take advantage of the spectacular winter light before the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die blaue Bank",
+                "hu": "A kék pad",
+                "ro": "Banca albastră",
+                "en": "The blue bench"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht am Morgen ist perfekt für Fotos; die kalte Luft ist am Meer besonders klar, was für eine weite Sicht sorgt.",
+                "hu": "A reggeli téli fények tökéletesek a fotózáshoz; a hideg levegő a tengerparton különösen tiszta, ami távoli kilátást biztosít.",
+                "ro": "Lumina de iarnă de dimineață este perfectă pentru fotografii; aerul rece este deosebit de clar la mare, asigurând o vedere largă.",
+                "en": "The winter light in the morning is perfect for photos; the cold air is particularly clear at the sea, ensuring a wide view."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Redonda",
+                "hu": "Castro de Redonda",
+                "ro": "Castro de Redonda",
+                "en": "Castro de Redonda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort früh am Tag, um die frostige Atmosphäre auf den Steinen zu erleben, bevor die Wintersonne sie erwärmt.",
+                "hu": "Látogassa meg ezt a helyet korán, hogy átélje a kövek fagyos hangulatát, mielőtt a téli nap sugarai felmelegítenék őket.",
+                "ro": "Vizitați acest loc devreme pentru a experimenta atmosfera înghețată de pe pietre înainte ca soarele de iarnă să le încălzească.",
+                "en": "Visit this place early in the day to experience the frosty atmosphere on the stones before the winter sun warms them up."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Marcos de Corcubión",
+                "hu": "Igrexa de San Marcos de Corcubión",
+                "ro": "Igrexa de San Marcos de Corcubión",
+                "en": "Igrexa de San Marcos de Corcubión"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine andächtige Stille; im Winter ist es im Inneren oft kühler als gedacht, behalten Sie Ihren Mantel an.",
+                "hu": "A templom áhitatos csendet kínál; télen a belső tér gyakran hűvösebb a vártnál, ezért érdemes a kabátot magán hagynia.",
+                "ro": "Biserica oferă o liniște pioasă; iarna, interiorul este adesea mai răcoros decât s-ar crede, păstrați haina pe voi.",
+                "en": "The church offers a devout silence; in winter, the interior is often cooler than expected, so keep your coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo dos Traba",
+                "hu": "Pazo dos Traba",
+                "ro": "Pazo dos Traba",
+                "en": "Pazo dos Traba"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für Fotos der historischen Architektur, bevor Sie sich im Auto wieder aufwärmen; das Licht ist mittags am besten.",
+                "hu": "Gyors fotómegálló a történelmi építészetnél, mielőtt visszatérne az autóba felmelegedni; a fények délben a legmegfelelőbbek.",
+                "ro": "O oprire rapidă pentru fotografii ale arhitecturii istorice înainte de a vă reîncălzi în mașină; lumina este cea mai bună la prânz.",
+                "en": "A quick photo stop for the historic architecture before warming up again in the car; the light is best at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala de Exposición Municipal",
+                "hu": "Sala de Exposición Municipal",
+                "ro": "Sala de Exposición Municipal",
+                "en": "Sala de Exposición Municipal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kulturellen Stopp als gemütliche Pause am Nachmittag, um die lokale Kunstszene in angenehmer Wärme zu entdecken.",
+                "hu": "Használja ezt a kulturális megállót kényelmes délutáni pihenőként, hogy kellemes melegben fedezze fel a helyi művészeti életet.",
+                "ro": "Folosiți această oprire culturală ca o pauză confortabilă de după-amiază pentru a descoperi scena artistică locală la căldură.",
+                "en": "Use this cultural stop as a cozy afternoon break to discover the local art scene in pleasant warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Estorde",
+                "hu": "Praia de Estorde",
+                "ro": "Praia de Estorde",
+                "en": "Praia de Estorde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ozean; im Winter ist das Licht hier besonders weich und ideal für Landschaftsaufnahmen.",
+                "hu": "Élvezze a tágas kilátást az óceánra; télen a fények itt különösen lágyak, ami ideális tájképek készítéséhez.",
+                "ro": "Bucurați-vă de vederea largă spre ocean; iarna lumina este aici deosebit de blândă și ideală pentru fotografii de peisaj.",
+                "en": "Enjoy the wide view of the ocean; in winter, the light here is particularly soft and ideal for landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Castelo",
+                "hu": "Praia do Castelo",
+                "ro": "Praia do Castelo",
+                "en": "Praia do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Strand vor dem Sonnenuntergang um 17:00 Uhr, um die letzten Strahlen auf dem Wasser zu sehen, bevor es abkühlt.",
+                "hu": "Érkezzen meg a strandra a 17:00-i naplemente előtt, hogy lássa az utolsó sugarakat a vízen, mielőtt jelentősen lehűlne a levegő.",
+                "ro": "Ajungeți la această plajă înainte de apusul de la ora 17:00 pentru a vedea ultimele raze pe apă înainte de a se răci.",
+                "en": "Reach this beach before the sunset at 17:00 to see the last rays on the water before it cools down."
+              }
+            }
+          ]
+        }
       }
     }
   }

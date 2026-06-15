@@ -160,6 +160,196 @@
         "hu": "A reggel a helyi kultúra felfedezésével indul a Wat Lamai templomban, majd egyedi művészeti alkotásokat csodálhatsz meg a Koko galériában. A délidőt a Lamai Beach aranyhomokos partján töltheted, ahol a lágy hullámok pihenésre csábítanak. A délután izgalmas kalandot ígér, ahogy a dzsungelben megbúvó Valentin-kő mellett elhaladva feljutsz a látványos Lamai kilátóhoz. Az este a nagymama és nagypapa szikláknál ér utol, felejthetetlen naplemente élményt nyújtva.",
         "ro": "Dimineața începe cu o explorare a culturii locale la Wat Lamai, urmată de descoperirea artei unice la galeria Koko. La amiază vă puteți relaxa pe țărmurile aurii ale plajei Lamai, unde nisipul fin și valurile blânde vă invită la odihnă. După-amiaza devine aventuroasă pe măsură ce treceți pe lângă Piatra Valentine din junglă pentru a ajunge la spectaculosul Lamai Viewpoint. Seara coboară la faimoasele stânci Bunica și Bunicul, oferind o atmosferă memorabilă la apus.",
         "en": "Morning begins with a deep dive into local culture at Wat Lamai, followed by exploring unique artistic expressions at the quaint Koko galery. Midday transitions to the golden shores of Lamai Beach, where soft sands and gentle waves invite you to unwind completely. Afternoon shifts to adventure as you trek past the jungle-clad Valentine Stone to reach the spectacular Lamai Viewpoint. Evening descends at the iconic Grandma and Grandpa Rocks, providing a memorable sunset atmosphere against the coastal horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch am Wat Lamai, wo die Regentropfen auf den goldenen Dächern tanzen. Suchen Sie Schutz in den kunstvollen Hallen.\n\nMittags bietet die Koko Galerie den perfekten trockenen Rückzugsort. Genießen Sie die Kunst, während draußen der tropische Guss niedergeht.\n\nNachmittags führt der Weg zu den Felsformationen. Die Pfade sind rutschig, wandern Sie vorsichtig zu den Aussichtspunkten.\n\nAbends beruhigt sich der Regen oft. Ein Strandspaziergang bei kühlerer Luft lässt den Tag friedlich unter einem Regenschirm ausklingen.",
+            "hu": "A reggel misztikus hangulatban indul a Wat Lamai templomnál, ahol az eső kopogása a tetőkön különleges ritmust ad. Keressen menedéket a díszes csarnokokban.\n\nDélben a Koko galéria nyújt tökéletes száraz pihenőt. Merüljön el a művészetben, amíg kint a trópusi zápor áztatja a tájat.\n\nDélután a sziklák felé vesszük az irányt. Az utak csúszósak lehetnek, így óvatosan közelítse meg a kilátópontokat a dús, zöld környezetben.\n\nEste az eső gyakran alábbhagy. Egy tengerparti séta a felfrissült levegőben, ernyővel a kézben tökéletes zárása a napnak.",
+            "ro": "Dimineața începe mistic la Wat Lamai, unde picăturile de ploaie dansează pe acoperișurile aurii. Adăpostiți-vă în pavilioanele frumos decorate.\n\nLa prânz, Galeria Koko oferă refugiul perfect și uscat. Bucurați-vă de artă în timp ce afară se dezlănțuie aversa tropicală.\n\nDupă-amiaza, traseul duce spre formațiunile stâncoase. Potecile sunt alunecoase, deci mergeți cu mare atenție spre punctele de belvedere.\n\nSeara, ploaia se mai domolește. O plimbare pe plajă cu umbrela, în aerul proaspăt și răcoros, încheie ziua într-un mod liniștit.",
+            "en": "The morning starts with a mystical vibe at Wat Lamai, as raindrops dance on golden roofs. Find shelter within the ornate temple halls.\n\nAt noon, Koko Gallery provides the perfect dry retreat. Immerse yourself in local art while the tropical downpour drenches the landscape outside.\n\nIn the afternoon, head towards the rocks. Paths can be slippery, so walk carefully toward the viewpoints through the lush, wet jungle.\n\nBy evening, the rain often eases. A beach stroll with an umbrella in the refreshed air is the perfect way to conclude your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Lamai",
+                "hu": "Wat Lamai",
+                "ro": "Wat Lamai",
+                "en": "Wat Lamai"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Tempelhallen, um die Architektur im Trockenen zu bewundern; achten Sie auf den glatten Marmorboden bei Nässe.",
+                "hu": "Használja ki a templom fedett csarnokait az építészet megcsodálására; az esős időben különösen figyeljen a csúszós márványpadlóra.",
+                "ro": "Folosiți sălile acoperite ale templului pentru a admira arhitectura la adăpost; atenție sporită la podeaua de marmură care devine alunecoasă.",
+                "en": "Utilize the covered temple halls to admire the architecture while staying dry; be extra careful on the marble floors which get slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Koko Galerie",
+                "hu": "Koko galéria",
+                "ro": "Galeria Koko",
+                "en": "Koko galery"
+              },
+              "tip_5lang": {
+                "de": "Dieser klimatisierte Innenraum ist der ideale Zufluchtsort vor schweren Schauern; genießen Sie moderne Kunst bei einem heißen thailändischen Tee.",
+                "hu": "Ez a légkondicionált belső tér ideális menedék a heves záporok elől; élvezze a modern művészetet egy csésze forró thai tea társaságában.",
+                "ro": "Acest spațiu interior climatizat este refugiul ideal împotriva averselor severe; savurați arta modernă alături de un ceai thailandez fierbinte.",
+                "en": "This air-conditioned indoor space is the ideal sanctuary from heavy showers; enjoy modern art while sipping on a warm Thai tea to relax."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Beach",
+                "hu": "Lamai Beach",
+                "ro": "Plaja Lamai",
+                "en": "Lamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von einer der überdachten Strandbars aus; der aufgewühlte Ozean bietet bei Regen eine dramatische Fotokulisse.",
+                "hu": "Figyelje a szürke tengert valamelyik fedett tengerparti bárból; a felkorbácsolt óceán drámai fotótémát kínál az esős szürkületben.",
+                "ro": "Observați marea agitată de la adăpostul unui bar de pe plajă; oceanul învolburat oferă un decor dramatic pentru fotografii pe timp de ploaie.",
+                "en": "Watch the grey sea from a covered beach bar; the churned-up ocean provides a dramatic photographic backdrop during the tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Valentinsstein",
+                "hu": "Valentin-kő",
+                "ro": "Piatra Valentine",
+                "en": "Valentine Stone"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad hierher kann sehr schlammig sein; tragen Sie feste Wanderschuhe und nutzen Sie die Bäume als natürlichen Regenschutz beim Aufstieg.",
+                "hu": "Az idevezető ösvény nagyon sáros lehet; viseljen túracipőt és használja a fákat természetes esernyőként a rövid emelkedő során.",
+                "ro": "Poteca spre piatră poate fi foarte noroioasă; purtați încălțăminte de drumeție și folosiți copacii ca protecție naturală împotriva ploii.",
+                "en": "The path here can get quite muddy; wear sturdy hiking shoes and use the dense tree canopy as a natural umbrella during the short climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Viewpoint",
+                "hu": "Lamai kilátó",
+                "ro": "Lamai Viewpoint",
+                "en": "Lamai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick wirkt im Regen neblig und mystisch; halten Sie sich am Geländer fest, da die Steinstufen bei Nässe extrem rutschig sind.",
+                "hu": "A kilátás esőben ködös és misztikus; kapaszkodjon erősen a korlátba, mert a kőlépcsők nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Panorama pare cețoasă și mistică pe ploaie; țineți-vă bine de balustradă, deoarece treptele de piatră sunt extrem de alunecoase.",
+                "en": "The view appears misty and mystical in the rain; hold onto the railings firmly as the stone steps become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Großmutter- und Großvaterfelsen",
+                "hu": "Nagymama és nagypapa sziklák",
+                "ro": "Stâncile Bunica și Bunicul",
+                "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, direkt auf die nassen Felsen zu klettern; bewundern Sie die bizarren Formen sicher vom befestigten Aussichtspunkt aus.",
+                "hu": "Kerülje el a közvetlen felmászást a nedves sziklákra; csodálja meg a bizarr formákat biztonságosan a kiépített kilátóteraszról.",
+                "ro": "Evitați să vă urcați direct pe stâncile ude; admirați formele bizare în siguranță de pe platforma de observare amenajată.",
+                "en": "Avoid climbing directly onto the wet rocks; admire the bizarre formations safely from the established viewpoint platform instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der thailändische Winter bietet perfekte Wandertemperaturen. Starten Sie früh am Wat Lamai, um die klare Morgenluft in den Gärten zu genießen.\n\nMittags ist die Sonne sanfter als sonst. Der Spaziergang zur Koko Galerie und zum Strand ist angenehm, ohne die drückende tropische Hitze.\n\nNachmittags sollten Sie den Aufstieg zum Viewpoint vor 16:30 Uhr planen. Die Sonne sinkt früh und taucht die Küste in goldenes Licht.\n\nAbends kühlt es merklich ab. Genießen Sie die frische Brise an den Granitfelsen, bevor es gegen 18:00 Uhr bereits dunkel ist.",
+            "hu": "A thaiföldi tél tökéletes hőmérsékletet kínál a túrázáshoz. Kezdjen korán a Wat Lamai-nál, élvezve a friss reggeli levegőt a kertekben.\n\nDélben a nap sugarai lágyabbak. A séta a Koko galériához és a tengerparthoz kellemes, nem érezni a nyomasztó trópusi hőséget.\n\nDélután érdemes a kilátót 16:30 előtt elérni. A nap korán nyugszik, arany színbe vonva az egész partvidéket.\n\nEste érezhetően lehűl a levegő. Élvezze a friss szellőt a szikláknál, mielőtt 18:00 körül teljesen ránk sötétedik.",
+            "ro": "Iarna thailandeză oferă temperaturi perfecte pentru drumeții. Începeți devreme la Wat Lamai, savurând aerul proaspăt de dimineață din grădini.\n\nLa prânz, soarele este mai blând. Plimbarea spre Galeria Koko și spre plajă este plăcută, fără căldura tropicală sufocantă.\n\nDupă-amiaza, planificați urcarea la belvedere înainte de ora 16:30. Soarele apune devreme, îmbrăcând coasta în lumini aurii.\n\nSeara, aerul se răcește vizibil. Bucurați-vă de briza proaspătă de lângă stânci înainte ca întunericul să se lase în jur de ora 18:00.",
+            "en": "The Thai winter offers perfect walking temperatures. Start early at Wat Lamai to enjoy the crisp morning air in the temple gardens.\n\nAt noon, the sun is gentler than usual. The walk to Koko Gallery and the beach is pleasant, without the oppressive tropical heat.\n\nIn the afternoon, plan your viewpoint climb before 4:30 PM. The sun sets early, bathing the coastline in a beautiful golden glow.\n\nBy evening, it cools down noticeably. Enjoy the fresh breeze by the rocks before total darkness sets in around 6:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Lamai",
+                "hu": "Wat Lamai",
+                "ro": "Wat Lamai",
+                "en": "Wat Lamai"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintersonne bringt die goldenen Details zum Strahlen; besuchen Sie den Tempel früh, um die friedliche Morgenmeditation zu erleben.",
+                "hu": "A tiszta téli napsütés ragyogóvá teszi az arany részleteket; látogasson el korán, hogy átélje a békés reggeli meditációt.",
+                "ro": "Soarele clar de iarnă face detaliile aurii să strălucească; vizitați templul devreme pentru a experimenta meditația matinală liniștită.",
+                "en": "The clear winter sun makes the golden details shine; visit early to experience the peaceful morning meditation session with the monks."
+              }
+            },
+            {
+              "name": {
+                "de": "Koko Galerie",
+                "hu": "Koko galéria",
+                "ro": "Galeria Koko",
+                "en": "Koko galery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagspause für die Galerie; auch im Winter ist die Mittagssonne stark, und die Klimaanlage bietet eine willkommene Erfrischung.",
+                "hu": "Használja ki a galériát az ebédszünetben; a téli nap is erős lehet délben, a légkondicionáló pedig kellemes felfrissülést nyújt.",
+                "ro": "Profitați de galerie în pauza de prânz; soarele de iarnă poate fi puternic la amiază, iar climatizarea oferă o răcorire binevenită.",
+                "en": "Visit the gallery during lunch; even in winter, the midday sun is strong, and the air conditioning offers a refreshing break from the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Beach",
+                "hu": "Lamai Beach",
+                "ro": "Plaja Lamai",
+                "en": "Lamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter oft ruhiger und klarer; ideal für einen langen Strandspaziergang, da der Sand nicht so heiß unter den Füßen brennt.",
+                "hu": "A víz télen gyakran nyugodtabb és tisztább; ideális egy hosszú parti sétához, mivel a homok nem égeti annyira a talpát.",
+                "ro": "Apa este adesea mai calmă și mai clară iarna; ideal pentru o plimbare lungă pe plajă, deoarece nisipul nu arde atât de tare la picioare.",
+                "en": "The water is often calmer and clearer in winter; it is ideal for a long beach walk as the sand isn't as scorching hot under your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Valentinsstein",
+                "hu": "Valentin-kő",
+                "ro": "Piatra Valentine",
+                "en": "Valentine Stone"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Luft garantiert eine exzellente Sicht; fotografieren Sie den Stein im weichen Nachmittagslicht für die besten Ergebnisse.",
+                "hu": "A száraz levegő kiváló látási viszonyokat garantál; fotózza a követ a lágy délutáni fényben a legjobb eredmény érdekében.",
+                "ro": "Aerul uscat garantează o vizibilitate excelentă; fotografiați piatra în lumina blândă a după-amiezii pentru cele mai bune rezultate.",
+                "en": "The dry winter air guarantees excellent visibility; photograph the stone in the soft afternoon light for the most romantic results."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Viewpoint",
+                "hu": "Lamai kilátó",
+                "ro": "Lamai Viewpoint",
+                "en": "Lamai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum Sonnenuntergang um 17:30 Uhr; bringen Sie eine leichte Jacke für den Abstieg mit, wenn die Temperaturen sinken.",
+                "hu": "Érkezzen időben a 17:30-as naplementéhez; hozzon egy könnyű dzsekit a lefelé úthoz, amikor a hőmérséklet hirtelen csökkenni kezd.",
+                "ro": "Sosiți la timp pentru apusul de la ora 17:30; aduceți o jachetă ușoară pentru coborâre, când temperaturile încep să scadă brusc.",
+                "en": "Arrive in time for the 5:30 PM sunset; bring a light jacket for the descent as temperatures can drop quickly once the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "Großmutter- und Großvaterfelsen",
+                "hu": "Nagymama és nagypapa sziklák",
+                "ro": "Stâncile Bunica și Bunicul",
+                "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern die Tageswärme; genießen Sie die angenehme Strahlungswärme beim Betrachten des Meeres in der Abenddämmerung.",
+                "hu": "A sziklák jól tárolják a nappali hőt; élvezze a kellemes kisugárzott meleget a tenger megfigyelése közben az esti szürkületben.",
+                "ro": "Stâncile rețin căldura zilei; bucurați-vă de căldura radiată plăcută în timp ce priviți marea în amurgul serii.",
+                "en": "The rocks retain the day's heat well; enjoy the pleasant radiating warmth while watching the sea during the early evening twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggel egy kerékpáros túrára hív a Silver Beach érintetlen homokjához, majd a gyönyörű Wat Lamai templomkomplexum meglátogatása következik. A délidő bőséges kikapcsolódást kínál a Lamai Beach kiterjedt partvonalán, mielőtt elmerülnél a Koko galéria kincseiben. A délután izgalmas emelkedőket tartogat, hogy felfedezd a Kobra-kő kilátót és a pazar Lamai kilátót. Az este a híres nagymama és nagypapa szikláknál zárja a túrát, amelyek melegen ragyognak az alkonyati fényben.",
         "ro": "Dimineața vă invită să pedalați spre nisipurile imaculate ale plajei Silver, urmată de o vizită spirituală senină la complexul de temple Wat Lamai. Amiaza oferă relaxare pe coasta extinsă a plajei Lamai înainte de a descoperi meșteșugurile locale la galeria Koko. După-amiaza implică o pedalare palpitantă la deal pentru a descoperi Cobra Stone Viewpoint și priveliștile ample de la Lamai Viewpoint. Seara vă încheie călătoria la faimoasele stânci Bunica și Bunicul, la apus.",
         "en": "Morning invites you to cycle towards the pristine sands of Silver Beach, followed by a serene spiritual visit to the beautiful Wat Lamai temple complex. Midday offers ample relaxation on the expansive coastline of Lamai Beach before diving into local crafts at Koko galery. Afternoon involves an exciting uphill pedal to discover the peculiar Cobra Stone Viewpoint and the sweeping Lamai Viewpoint. Evening wraps up your journey at the famous Grandma and Grandpa Rocks, glowing warmly in the fading coastal light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht. Beginnen Sie am Silver Beach, wenn die Schauer nachlassen, und nutzen Sie die befestigten Straßen.\n\nMittags bieten der Wat Lamai und die Koko Galerie sichere Unterstände. Warten Sie schwere Güsse bei einem kalten Getränk ab.\n\nNachmittags führt die Tour zu den Viewpoints. Achtung: Die steilen Wege können durch nasses Laub und Schlamm extrem rutschig sein.\n\nAbends beenden Sie die Runde an den Hin Ta Rocks. Fahren Sie langsam zurück, da die Sicht bei Dämmerung und Regen eingeschränkt ist.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel. Kezdjen a Silver Beach-nél, amikor a zápor alábbhagy, és maradjon a kiépített utakon.\n\nDélben a Wat Lamai és a Koko galéria biztonságos menedéket nyújt. Várja meg a hevesebb esőt egy frissítő mellett.\n\nDélután a túra a kilátók felé vezet. Figyelem: a meredek utak a nedves levelektől és a sártól rendkívül csúszósak lehetnek.\n\nEste fejezze be a kört a Hin Ta szikláknál. Lassan tekerjen vissza, mert a látótávolság esőben és szürkületben korlátozott.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență. Începeți la Silver Beach când aversele se domolesc și rămâneți pe drumurile asfaltate.\n\nLa prânz, Wat Lamai și Galeria Koko oferă adăposturi sigure. Așteptați trecerea ploilor torențiale cu o băutură răcoritoare.\n\nDupă-amiaza, turul duce spre punctele de belvedere. Atenție: drumurile abrupte pot fi extrem de alunecoase din cauza frunzelor ude.\n\nSeara, încheiați runda la stâncile Hin Ta. Pedalați încet înapoi, deoarece vizibilitatea este redusă la amurg pe timp de ploaie.",
+            "en": "Cycling in the rain requires caution. Start at Silver Beach when showers ease off, and stick to the paved main roads for safety.\n\nAt noon, Wat Lamai and Koko Gallery provide safe shelters. Wait out heavy downpours while enjoying a refreshing local drink.\n\nIn the afternoon, the tour heads to the viewpoints. Warning: steep paths can be extremely slippery due to wet leaves and mud.\n\nBy evening, finish your ride at Hin Ta rocks. Pedal back slowly as visibility is limited during twilight and rainy conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Silver Beach",
+                "hu": "Silver Beach",
+                "ro": "Plaja Silver",
+                "en": "Silver Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht bietet Schutz unter Palmen; parken Sie Ihr Rad an einem trockenen Ort, bevor Sie kurz ins warme Meer springen.",
+                "hu": "Az öböl pálmafái védelmet nyújtanak; parkolja le a bringát egy száraz helyen, mielőtt beugrana a meleg tengerbe az esőben.",
+                "ro": "Golful oferă protecție sub palmieri; parcați bicicleta într-un loc uscat înainte de a sări în marea caldă pe timp de ploaie.",
+                "en": "The bay's palm trees offer some shelter; park your bike in a dry spot before taking a quick dip in the warm sea during the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lamai",
+                "hu": "Wat Lamai",
+                "ro": "Wat Lamai",
+                "en": "Wat Lamai"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Tempelparkplatz für eine Pause; die überdachten Bereiche sind ideal, um die Regenkleidung kurz zu lüften.",
+                "hu": "Használja a templom parkolóját egy pihenőre; a fedett részek ideálisak az esőruházat rövid átszellőztetésére és pihenésre.",
+                "ro": "Folosiți parcarea templului pentru o pauză; zonele acoperite sunt ideale pentru a vă aerisi puțin pelerina de ploaie.",
+                "en": "Use the temple parking area for a break; the covered sections are ideal for airing out your rain gear and taking a rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Beach",
+                "hu": "Lamai Beach",
+                "ro": "Plaja Lamai",
+                "en": "Lamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Sand am Rand; suchen Sie sich eine Strandhütte, um den Blick auf die Wellen im Trockenen zu genießen.",
+                "hu": "Tekerjen óvatosan a nedves homokon a parton; keressen egy parti kunyhót, ahonnan szárazon élvezheti a hullámok látványát.",
+                "ro": "Pedalați cu atenție pe nisipul ud de la margine; căutați o colibă pe plajă pentru a savura vederea valurilor de la adăpost.",
+                "en": "Pedal carefully on the wet sand at the edge; find a beach hut where you can enjoy the view of the waves while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Koko Galerie",
+                "hu": "Koko galéria",
+                "ro": "Galeria Koko",
+                "en": "Koko galery"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Reifen zu prüfen, während Sie drinnen Kunst schauen; der Innenraum bietet Schutz vor dem stärksten Regen.",
+                "hu": "Tökéletes megálló a gumiabroncsok ellenőrzésére, amíg bent művészetet néz; a belső tér védelmet nyújt a legerősebb eső elől.",
+                "ro": "O oprire perfectă pentru a verifica anvelopele în timp ce admirați arta; interiorul oferă protecție contra celei mai grele ploi.",
+                "en": "A perfect stop to check your bike's tires while you enjoy the art inside; the gallery offers sanctuary from the heaviest rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cobra Stone Viewpoint",
+                "hu": "Kobra-kő kilátó",
+                "ro": "Cobra Stone Viewpoint",
+                "en": "Cobra Stone Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist steil und rutschig; schieben Sie Ihr Rad bei starkem Regen lieber, um Stürze auf dem nassen Asphalt zu vermeiden.",
+                "hu": "Az emelkedő meredek és csúszós; heves esőben inkább tolja a biciklit, hogy elkerülje az elesést a nedves aszfalton.",
+                "ro": "Urcarea este abruptă și alunecoasă; pe ploaie puternică mai bine împingeți bicicleta pentru a evita căzăturile pe asfaltul ud.",
+                "en": "The climb is steep and slippery; during heavy rain, it is better to push your bike to avoid falling on the wet asphalt surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Viewpoint",
+                "hu": "Lamai kilátó",
+                "ro": "Lamai Viewpoint",
+                "en": "Lamai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten und gehen Sie zu Fuß weiter; die Aussicht im Regen ist oft von dramatischen Wolkenformationen geprägt.",
+                "hu": "Hagyja a biciklit lent és menjen gyalog tovább; az esős kilátást gyakran látványos és drámai felhőalakzatok teszik különlegessé.",
+                "ro": "Lăsați bicicleta jos și continuați pe jos; panorama pe ploaie este adesea marcată de formațiuni de nori dramatice.",
+                "en": "Leave your bike below and continue on foot; the rainy view is often characterized by dramatic and spectacular cloud formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Großmutter- und Großvaterfelsen",
+                "hu": "Nagymama és nagypapa sziklák",
+                "ro": "Stâncile Bunica și Bunicul",
+                "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem Parkplatz, der bei Nässe glatt ist; genießen Sie den Anblick der gischtenden Wellen aus sicherer Distanz.",
+                "hu": "Fékezzen időben a parkolónál, mert nedvesen síkos; élvezze a felcsapó hullámok látványát biztonságos távolságból a köveknél.",
+                "ro": "Frânați din timp în parcare, care este alunecoasă când e udă; admirați valurile care se sparg de stânci de la o distanță sigură.",
+                "en": "Brake early in the parking lot as it gets slick when wet; enjoy the sight of crashing waves against the rocks from a safe distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die beste Zeit für eine Radtour. Die milde Luft am Silver Beach macht das Treten leicht, ohne dass man sofort überhitzt.\n\nMittags erreichen Sie bequem Wat Lamai und die Koko Galerie. Das Licht ist klar und perfekt für Fotos der Architektur und Kunst.\n\nNachmittags geht es bergauf zu den Viewpoints. Nutzen Sie die kühleren Stunden, aber behalten Sie die Uhr für den frühen Sonnenuntergang im Auge.\n\nAbends endet die Tour an den Granitfelsen. Die kühle Meeresbrise ist erfrischend, doch packen Sie für die Rückfahrt ein leichtes Tuch ein.",
+            "hu": "A tél a legjobb időszak egy bringás túrához. A Silver Beach enyhe levegője megkönnyíti a tekerést anélkül, hogy kimelegedne.\n\nDélben kényelmesen eléri a Wat Lamai-t és a Koko galériát. A fények tiszták, tökéletesek a fotózáshoz az épületek és a művek körül.\n\nDélután jöhet a hegymenet a kilátókhoz. Használja ki a hűvösebb órákat, de figyeljen az órájára a korai naplemente miatt.\n\nEste a szikláknál zárul a kör. A hűvös tengeri szellő frissítő, de a visszaútra érdemes egy vékonyabb kendőt vagy felsőt készíteni.",
+            "ro": "Iarna este cel mai bun moment pentru un tur cu bicicleta. Aerul blând de la Silver Beach face pedalatul ușor, fără a vă supraîncălzi.\n\nLa prânz, ajungeți confortabil la Wat Lamai și Galeria Koko. Lumina este clară, perfectă pentru fotografii ale arhitecturii și artei.\n\nDupă-amiaza, urmează urcarea spre punctele de belvedere. Profitați de orele mai răcoroase, dar fiți atenți la apusul devreme.\n\nSeara, turul se încheie la stâncile de granit. Briza mării este revigorantă, dar pregătiți o jachetă ușoară pentru drumul de întoarcere.",
+            "en": "Winter is the prime time for a cycling tour. The mild air at Silver Beach makes pedaling easy without causing immediate overheating.\n\nAt noon, you'll easily reach Wat Lamai and Koko Gallery. The light is crisp and clear, perfect for photographing the architecture and art.\n\nIn the afternoon, tackle the climbs to the viewpoints. Use the cooler hours to your advantage, but keep an eye on the time for the early sunset.\n\nBy evening, the tour ends at the granite rocks. The cool sea breeze is refreshing, but pack a light layer for the return ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Silver Beach",
+                "hu": "Silver Beach",
+                "ro": "Plaja Silver",
+                "en": "Silver Beach"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Winterwasser lädt zum Schnorcheln ein; binden Sie Ihr Rad sicher an, bevor Sie die Unterwelt der Bucht erkunden.",
+                "hu": "A kristálytiszta téli víz búvárkodásra hívogat; zárja le biztonságosan a biciklit, mielőtt felfedezné az öböl víz alatti világát.",
+                "ro": "Apa cristalină de iarnă invită la snorkeling; asigurați bine bicicleta înainte de a explora lumea subacvatică a golfului.",
+                "en": "The crystal-clear winter water is inviting for snorkeling; lock your bike securely before exploring the bay's underwater world."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lamai",
+                "hu": "Wat Lamai",
+                "ro": "Wat Lamai",
+                "en": "Wat Lamai"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagshitze ist moderat, ideal zum Parken im Halbschatten; bewundern Sie die farbenfrohen Tempeldetails im harten Winterlicht.",
+                "hu": "A déli hőség mérsékelt, ideális a félárnyékban való parkoláshoz; csodálja meg a színes részleteket az éles téli fényekben.",
+                "ro": "Căldura de la amiază este moderată, ideală pentru parcare la semiumbră; admirați detaliile colorate în lumina puternică de iarnă.",
+                "en": "Midday heat is moderate, ideal for parking in partial shade; admire the colorful temple details in the sharp winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Beach",
+                "hu": "Lamai Beach",
+                "ro": "Plaja Lamai",
+                "en": "Lamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Der feste Sand im Winter ist ideal zum Radfahren am Flutsaum; genießen Sie die kühle Brise, während Sie am Wasser entlanggleiten.",
+                "hu": "A téli kemény homok ideális a bringázáshoz a parton; élvezze a hűvös szellőt, miközve a víz mentén suhan a biciklivel.",
+                "ro": "Nisipul compact de iarnă este ideal pentru pedalat pe mal; bucurați-vă de briza răcoroasă în timp ce glisați de-a lungul apei.",
+                "en": "The firm winter sand is ideal for cycling along the shoreline; enjoy the cool breeze as you glide smoothly along the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Koko Galerie",
+                "hu": "Koko galéria",
+                "ro": "Galeria Koko",
+                "en": "Koko galery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Innenräume für eine Pause von der Sonne; die Galerie ist im Winter weniger überlaufen und bietet viel Ruhe.",
+                "hu": "Használja a hűvös belső tereket a nap elleni pihenőre; a galéria télen kevésbé zsúfolt, így nyugodtan élvezheti a műveket.",
+                "ro": "Folosiți interioarele răcoroase pentru o pauză de la soare; galeria este mai puțin aglomerată iarna și oferă multă liniște.",
+                "en": "Use the cool interiors for a break from the sun; the gallery is less crowded in winter, offering a peaceful atmosphere for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Cobra Stone Viewpoint",
+                "hu": "Kobra-kő kilátó",
+                "ro": "Cobra Stone Viewpoint",
+                "en": "Cobra Stone Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Dank niedriger Luftfeuchtigkeit ist die Sicht bis zum Festland möglich; treten Sie kräftig in die Pedale für dieses Panorama.",
+                "hu": "Az alacsony páratartalomnak köszönhetően elláthat akár a szárazföldig is; tekerjen erősen az emelkedőn a csodás panorámáért.",
+                "ro": "Datorită umidității scăzute, vizibilitatea este posibilă până la continent; pedalați cu forță pentru a ajunge la această panoramă.",
+                "en": "Thanks to low humidity, you might see all the way to the mainland; pedal hard on the incline for this spectacular panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Viewpoint",
+                "hu": "Lamai kilátó",
+                "ro": "Lamai Viewpoint",
+                "en": "Lamai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Abendsonne steht tiefer und wirft lange Schatten auf die Insel; sichern Sie Ihr Rad am Fuß des Weges vor dem Aufstieg.",
+                "hu": "Az esti nap alacsonyabban jár és hosszú árnyékokat vet a szigetre; rögzítse a biciklit az ösvény alján a felkapaszkodás előtt.",
+                "ro": "Soarele de seară este mai jos și aruncă umbre lungi peste insulă; asigurați bicicleta la baza potecii înainte de a urca.",
+                "en": "The evening sun sits lower, casting long shadows across the island; secure your bike at the path's base before making the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Großmutter- und Großvaterfelsen",
+                "hu": "Nagymama és nagypapa sziklák",
+                "ro": "Stâncile Bunica și Bunicul",
+                "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier kurz vor Sonnenuntergang; das Winterlicht lässt die Granitfelsen in warmen Orangetönen leuchten.",
+                "hu": "Zárja itt a napot közvetlenül naplemente előtt; a téli fények meleg narancssárga árnyalatba vonják a gránitsziklákat.",
+                "ro": "Încheiați ziua aici chiar înainte de apus; lumina de iarnă face stâncile de granit să strălucească în nuanțe calde de portocaliu.",
+                "en": "End your day here just before sunset; the winter light makes the granite rocks glow in beautiful warm orange and gold tones."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "A reggel egy kényelmes autózással indul a Golf Klub kilátóhoz, majd a Silver Beach rejtett sznorkelező paradicsomához vezet. A délidő elegánsan ötvözi a Wat Lamai spirituális nyugalmát egy pihentető tengerparti szünettel a Lamai Beach központi részein. A délután egy festői dél felé vezető utat kínál a Kobra-kő és a Lamai kilátók dzsungelpanorámájának meghódítására. Az este a nagymama és nagypapa sziklák megcsodálásával, majd a lenyűgöző Wat Sila Ngu templommal zárul.",
         "ro": "Dimineața începe cu o plimbare ușoară spre Golf Club Viewpoint, trecând rapid la paradisul ascuns de snorkeling de la Silver Beach. Amiaza combină grațios liniștea de la Wat Lamai cu o pauză relaxantă pe porțiunile centrale ale plajei Lamai. După-amiaza vă poartă într-o plimbare pitorească spre sud pentru a cuceri panoramele junglei la Cobra Stone și Lamai Viewpoint. Seara se încheie perfect la stâncile Bunica și Bunicul, înainte de a vă opri la uimitorul Wat Sila Ngu.",
         "en": "Morning starts with an easy drive to the elevated Golf Club Viewpoint, swiftly moving to the hidden snorkeling paradise of Silver Beach. Midday gracefully combines the spiritual tranquility of Wat Lamai with a relaxing beach break along the central stretches of Lamai Beach. Afternoon features a scenic drive south to conquer the jungle panoramas at both the Cobra Stone and Lamai Viewpoints. Evening concludes perfectly by marveling at the iconic Grandma and Grandpa Rocks before stopping by the striking Wat Sila Ngu."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Auto ist die beste Wahl bei Regen. Starten Sie trocken am Golf Club Viewpoint, während die Scheibenwischer die Aussicht befreien.\n\nMittags hüpfen Sie ohne nass zu werden zwischen Wat Lamai und der Koko Galerie hin und her. Parken Sie direkt vor den Eingängen.\n\nNachmittags erreichen Sie die Viewpoints bequem. Auch wenn es draußen schüttet, genießen Sie die Fahrt durch den sattgrünen Dschungel.\n\nAbends endet die Tour sicher am Wat Sila Ngu. Die Scheinwerfer spiegeln sich in den nassen Straßen und erzeugen eine besondere Stimmung.",
+            "hu": "Az autó a legjobb választás esőben. Kezdjen szárazon a Golf Club kilátónál, miközben az ablaktörlők tisztára törlik a panorámát.\n\nDélben ázzon meg nélkül ugrálhat a Wat Lamai és a Koko galéria között. Parkoljon közvetlenül a bejáratok előtt.\n\nDélután kényelmesen elérheti a kilátókat. Még ha kint szakad is, élvezze az utazást a buja, méregzöld dzsungelen keresztül.\n\nEste a túra biztonságban zárul a Wat Sila Ngu-nál. A fényszórók tükröződése a vizes utakon különleges hangulatot áraszt.",
+            "ro": "Mașina este cea mai bună alegere pe timp de ploaie. Începeți uscat la Golf Club Viewpoint, în timp ce ștergătoarele eliberează panorama.\n\nLa prânz, treceți fără să vă udați între Wat Lamai și Galeria Koko. Parcați direct în fața intrărilor pentru confort maxim.\n\nDupă-amiaza, ajungeți confortabil la punctele de belvedere. Chiar dacă afară plouă torențial, bucurați-vă de drumul prin jungla verde.\n\nSeara, turul se încheie în siguranță la Wat Sila Ngu. Reflexia farurilor pe străzile ude creează o atmosferă specială.",
+            "en": "A car is the ultimate choice during the rainy season. Start dry at the Golf Club Viewpoint while wipers clear the panoramic view for you.\n\nAt noon, hop between Wat Lamai and Koko Gallery without getting wet. Park your vehicle directly in front of the entrances for ease.\n\nIn the afternoon, reach the viewpoints comfortably. Even if it's pouring outside, enjoy the scenic drive through the lush, deep green jungle.\n\nBy evening, the tour ends safely at Wat Sila Ngu. The reflection of headlights on wet roads creates a unique and beautiful atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Golf Club Viewpoint",
+                "hu": "Golf Club kilátó",
+                "ro": "Golf Club Viewpoint",
+                "en": "Golf Club Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Auto; die hohen Palmen biegen sich im Regenwind und bieten ein wildes Naturschauspiel.",
+                "hu": "Élvezze a panorámát az autóból; a magas pálmák hajladoznak az esős szélben, vad és lenyűgöző természeti látványt nyújtva.",
+                "ro": "Bucurați-vă de panoramă din mașină; palmierii înalți se unduiesc în vântul ploios, oferind un spectacol natural sălbatic.",
+                "en": "Enjoy the panoramic view from inside your car; the tall palms swaying in the rainy wind offer a wild and impressive natural spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Beach",
+                "hu": "Silver Beach",
+                "ro": "Plaja Silver",
+                "en": "Silver Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strandzugang; so können Sie eine Regenpause schnell für einen kurzen Spaziergang am grauen Ufer nutzen.",
+                "hu": "Parkoljon közel a strandbejárathoz; így az eső szünetében gyorsan kiugorhat egy rövid sétára a szürke tengerparton.",
+                "ro": "Parcați aproape de accesul pe plajă; astfel puteți profita rapid de o pauză de ploaie pentru o scurtă plimbare pe țărmul gri.",
+                "en": "Park close to the beach access; this allows you to quickly use any break in the rain for a short walk along the moody grey shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lamai",
+                "hu": "Wat Lamai",
+                "ro": "Wat Lamai",
+                "en": "Wat Lamai"
+              },
+              "tip_5lang": {
+                "de": "Der Tempel bietet ausreichend Parkplätze im Schatten; bewundern Sie die glänzenden Oberflächen der Statuen im Regenlicht.",
+                "hu": "A templom elegendő árnyékos parkolót kínál; csodálja meg a szobrok csillogó felületét a különleges esős fényviszonyok között.",
+                "ro": "Templul oferă suficiente locuri de parcare la umbră; admirați suprafețele strălucitoare ale statuilor în lumina ploioasă.",
+                "en": "The temple offers ample shaded parking; admire the glistening surfaces of the statues in the unique lighting of a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Beach",
+                "hu": "Lamai Beach",
+                "ro": "Plaja Lamai",
+                "en": "Lamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im klimatisierten Wagen und beobachten Sie die Wellen; das monotone Prasseln auf das Autodach wirkt hier sehr beruhigend.",
+                "hu": "Maradjon a légkondicionált autóban és figyelje a hullámokat; az eső kopogása a tetőn itt rendkívül megnyugtató élmény.",
+                "ro": "Rămâneți în mașina climatizată și observați valurile; sunetul ploii pe plafonul mașinii este o experiență foarte relaxantă aici.",
+                "en": "Stay in your air-conditioned car and watch the waves; the rhythmic sound of rain on the roof is a very soothing experience here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cobra Stone Viewpoint",
+                "hu": "Kobra-kő kilátó",
+                "ro": "Cobra Stone Viewpoint",
+                "en": "Cobra Stone Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße erfordert volle Konzentration bei Nässe; nutzen Sie die Parkbuchten für Fotos, ohne das Auto verlassen zu müssen.",
+                "hu": "A szűk út teljes koncentrációt igényel nedvesen; használja a parkolóöblöket fotózáshoz anélkül, hogy ki kellene szállnia az autóból.",
+                "ro": "Drumul îngust necesită concentrare maximă pe ud; folosiți alveolele de parcare pentru fotografii fără a părăsi mașina.",
+                "en": "The narrow road requires full concentration when wet; use the parking lay-bys for photos without having to leave the car's shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Viewpoint",
+                "hu": "Lamai kilátó",
+                "ro": "Lamai Viewpoint",
+                "en": "Lamai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen guten Blick auf die heranziehenden Wolkenwände über dem Ozean; perfekt für Zeitraffer-Aufnahmen.",
+                "hu": "A parkolóból jó kilátás nyílik az óceán felett érkező felhőfalakra; tökéletes helyszín időzített videofelvételek készítéséhez.",
+                "ro": "Din parcare aveți o vedere bună asupra norilor care se apropie deasupra oceanului; perfect pentru filmări de tip time-lapse.",
+                "en": "From the parking lot, you have a great view of approaching cloud walls over the ocean; perfect for capturing time-lapse videos."
+              }
+            },
+            {
+              "name": {
+                "de": "Großmutter- und Großvaterfelsen",
+                "hu": "Nagymama és nagypapa sziklák",
+                "ro": "Stâncile Bunica și Bunicul",
+                "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz; nutzen Sie die kleinen Läden am Eingang für Souvenirs, während ein kurzer Schauer vorbeizieht.",
+                "hu": "Parkoljon a kiépített részen; használja ki a bejáratnál lévő kis boltokat szuvenír vásárlásra, amíg a zápor elvonul.",
+                "ro": "Parcați în zona amenajată; profitați de micile magazine de la intrare pentru suveniruri în timp ce trece o scurtă aversă.",
+                "en": "Park in the designated area; browse the small shops at the entrance for souvenirs while waiting for a short shower to pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sila Ngu",
+                "hu": "Wat Sila Ngu",
+                "ro": "Wat Sila Ngu",
+                "en": "Wat Sila Ngu"
+              },
+              "tip_5lang": {
+                "de": "Die rote Farbe des Tempels wirkt bei Regen besonders intensiv; parken Sie direkt daneben, um trockenen Fußes hineinzuschlüpfen.",
+                "hu": "A templom vörös színe esőben különösen intenzívnek tűnik; parkoljon közvetlenül mellette, hogy száraz lábbal bejuthasson.",
+                "ro": "Culoarea roșie a templului pare deosebit de intensă pe ploaie; parcați chiar lângă el pentru a intra fără să vă udați picioarele.",
+                "en": "The red color of the temple appears particularly intense in the rain; park right next to it to enter with dry feet and stay warm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Straßenverhältnisse ideal für Erkundungen. Starten Sie am Golf Club Viewpoint und genießen Sie die klare Weitsicht über die Bucht.\n\nMittags ist die Fahrt zum Silver Beach und Wat Lamai angenehm temperiert. Das Auto lässt sich leicht im Schatten der Palmen abstellen.\n\nNachmittags schlängelt sich der Weg durch die Hügel. Das weiche Winterlicht macht die Fahrt zu den Aussichtspunkten zu einem visuellen Genuss.\n\nAbends erreichen Sie Wat Sila Ngu pünktlich zum Sonnenuntergang. Die milde Abendluft lädt dazu ein, die Fenster zu öffnen und die Brise zu genießen.",
+            "hu": "Télen az útviszonyok ideálisak a felfedezéshez. Kezdjen a Golf Club kilátónál, és élvezze a tiszta, messzire nyúló panorámát az öböl felett.\n\nDélben az utazás a Silver Beach-hez és a Wat Lamai-hoz kellemes hőmérsékletű. Az autót könnyen leparkolhatja a pálmák árnyékában.\n\nDélután az út a dombokon keresztül kanyarog. A lágy téli fények vizuális élménnyé teszik a kilátópontokhoz vezető autózást.\n\nEste pontosan a naplementére ér a Wat Sila Ngu-hoz. Az enyhe esti levegő csábító, érdemes lehúzni az ablakokat és élvezni a szellőt.",
+            "ro": "Iarna, condițiile de drum sunt ideale pentru explorări. Începeți la Golf Club Viewpoint și bucurați-vă de vizibilitatea clară peste golf.\n\nLa prânz, drumul spre Silver Beach și Wat Lamai are o temperatură plăcută. Mașina poate fi parcată ușor la umbra palmierilor de pe traseu.\n\nDupă-amiaza, drumul șerpuiește prin dealuri. Lumina blândă de iarnă transformă drumul spre punctele de belvedere într-o plăcere vizuală.\n\nSeara, ajungeți la Wat Sila Ngu exact la timp pentru apus. Aerul blând de seară vă invită să deschideți geamurile și să savurați briza.",
+            "en": "Winter road conditions are ideal for exploring. Start at the Golf Club Viewpoint and enjoy the crystal-clear panoramic views over the bay.\n\nAt noon, the drive to Silver Beach and Wat Lamai is pleasantly cool. You'll find it easy to park your car in the shade of the local palms.\n\nIn the afternoon, the road winds through the hills. The soft winter light turns the drive to the viewpoints into a wonderful visual treat.\n\nBy evening, reach Wat Sila Ngu right in time for sunset. The mild evening air invites you to roll down the windows and enjoy the breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Golf Club Viewpoint",
+                "hu": "Golf Club kilátó",
+                "ro": "Golf Club Viewpoint",
+                "en": "Golf Club Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die niedrige Luftfeuchtigkeit erlaubt Blicke bis zu den Nachbarinseln; parken Sie am Rand für das ultimative Panorama-Foto.",
+                "hu": "Az alacsony páratartalom lehetővé teszi a kilátást a szomszédos szigetekre is; parkoljon a szélén a végső panorámafotóhoz.",
+                "ro": "Umiditatea scăzută permite vederea până la insulele vecine; parcați pe margine pentru fotografia panoramică supremă de iarnă.",
+                "en": "Low humidity allows for views all the way to the neighboring islands; park at the edge for the ultimate panoramic winter photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Silver Beach",
+                "hu": "Silver Beach",
+                "ro": "Plaja Silver",
+                "en": "Silver Beach"
+              },
+              "tip_5lang": {
+                "de": "Im Winter gibt es hier weniger Algen und glasklares Wasser; ein kurzer Stopp lohnt sich, da das Parken nun entspannter ist.",
+                "hu": "Télen itt kevesebb az alga és kristálytiszta a víz; egy rövid megálló megéri, mivel a parkolás ilyenkor sokkal nyugodtabb.",
+                "ro": "Iarna sunt mai puține alge și apa este cristalină; merită o scurtă oprire, deoarece parcarea este acum mult mai relaxată.",
+                "en": "In winter, there are fewer algae and crystal-clear water; a quick stop is worth it as parking is much more relaxed during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lamai",
+                "hu": "Wat Lamai",
+                "ro": "Wat Lamai",
+                "en": "Wat Lamai"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den lokalen Markt am Tempel; im Winter sind die frischen Früchte besonders vielfältig und das Klima ideal zum Bummeln.",
+                "hu": "Látogasson el a templom melletti helyi piacra; télen a friss gyümölcsök választéka bőséges, a klíma pedig ideális a nézelődéshez.",
+                "ro": "Vizitați piața locală de lângă templu; iarna fructele proaspete sunt deosebit de variate, iar clima este ideală pentru plimbare.",
+                "en": "Visit the local market near the temple; in winter, the fresh fruit variety is extensive, and the climate is ideal for strolling around."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Beach",
+                "hu": "Lamai Beach",
+                "ro": "Plaja Lamai",
+                "en": "Lamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den öffentlichen Parkplatz für einen Strandgang; die Wintersonne ist perfekt für ein Sonnenbad ohne extreme Hitze.",
+                "hu": "Használja a nyilvános parkolót egy strandoláshoz; a téli nap tökéletes a napozáshoz az extrém hőség elkerülése mellett.",
+                "ro": "Folosiți parcarea publică pentru o sesiune de plajă; soarele de iarnă este perfect pentru plajă fără căldură extremă.",
+                "en": "Use the public parking for a beach visit; the winter sun is perfect for sunbathing without the intensity of extreme tropical heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cobra Stone Viewpoint",
+                "hu": "Kobra-kő kilátó",
+                "ro": "Cobra Stone Viewpoint",
+                "en": "Cobra Stone Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise im offenen Fenster macht die Fahrt zum Genuss; halten Sie Ausschau nach Adlern, die im Winterwind kreisen.",
+                "hu": "A nyitott ablaknál beáramló hűvös szellő élvezetessé teszi az utat; figyeljen a sasokra, amelyek a téli szélben köröznek.",
+                "ro": "Briza răcoroasă de la geamul deschis face drumul o plăcere; căutați cu privirea vulturii care planează în vântul de iarnă.",
+                "en": "The cool breeze through an open window makes the drive a pleasure; keep an eye out for eagles circling in the winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamai Viewpoint",
+                "hu": "Lamai kilátó",
+                "ro": "Lamai Viewpoint",
+                "en": "Lamai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg vom Parkplatz ist im Winter weniger anstrengend; genießen Sie den weiten Blick über die grünen Palmenhaine.",
+                "hu": "A parkolótól való feljutás télen kevésbé megterhelő; élvezze a messzi kilátást a zöldellő pálmaligetek felett a tiszta időben.",
+                "ro": "Urcarea din parcare este mai puțin obositoare iarna; bucurați-vă de vederea largă peste plantațiile verzi de palmieri.",
+                "en": "The climb from the parking lot is less exhausting in winter; enjoy the wide view over the lush green palm groves in clear weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Großmutter- und Großvaterfelsen",
+                "hu": "Nagymama és nagypapa sziklák",
+                "ro": "Stâncile Bunica și Bunicul",
+                "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Wintersonne ist ideal für Porträts vor den bizarren Felsformationen am Ufer.",
+                "hu": "Az alacsonyan járó téli nap meleg fénye ideális portrék készítéséhez a parton lévő bizarr sziklaalakzatok előtt.",
+                "ro": "Lumina caldă a soarelui de iarnă este ideală pentru portrete în fața formațiunilor stâncoase bizare de pe țărm.",
+                "en": "The warm light of the low-hanging winter sun is ideal for taking portraits in front of the bizarre rock formations by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sila Ngu",
+                "hu": "Wat Sila Ngu",
+                "ro": "Wat Sila Ngu",
+                "en": "Wat Sila Ngu"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang über dem Meer vom Tempelgarten aus; die kühle Abendluft ist hier besonders erfrischend.",
+                "hu": "Figyelje a tenger feletti naplementét a templomkertből; a hűvös esti levegő itt különösen frissítő a nap végén.",
+                "ro": "Observați apusul deasupra mării din grădina templului; aerul răcoros de seară este deosebit de revigorant aici la final de zi.",
+                "en": "Watch the sunset over the sea from the temple gardens; the cool evening air is particularly refreshing here at the end of the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

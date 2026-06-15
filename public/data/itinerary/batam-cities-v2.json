@@ -137,6 +137,168 @@
         "hu": "Kezdje batami utazását a békés északi külvárosok felfedezésével, ahol elegáns mecsetek szolgálnak a helyi közösség fontos horgonyaként.\n\nAhogy a nap melegszik, navigáljon a nyüzsgő lakóutcákon, megfigyelve az iszlám és a keresztény istentiszteleti helyek harmonikus keveredését.\n\nDélután utazzon a különböző kerületek között, hogy felfedezze a nagyobb vallási központokat, amelyek mindegyike egyedi építészeti stílust kínál.\n\nZárja felfedezését egy elgondolkodtató pillanattal a városközpont közelében, értékelve Batam sokszínű és vendégszerető spirituális örökségét.",
         "ro": "Începeți călătoria prin Batam explorând suburbiile pașnice din nord, unde moscheile elegante stau ca niște piloni de bază ai comunității locale.\n\nPe măsură ce ziua se încălzește, navigați pe străzile rezidențiale vibrante, observând amestecul armonios al lăcașurilor de cult islamice și creștine.\n\nDupă-amiaza, deplasați-vă între cartiere distincte pentru a descoperi centre religioase mai mari, fiecare oferind stiluri arhitecturale unice.\n\nÎncheiați-vă explorarea cu un moment de reflecție aproape de centrul orașului, apreciind moștenirea spirituală diversă și primitoare a orașului Batam.",
         "en": "Begin your journey through Batam by exploring the peaceful northern suburbs, where elegant mosques stand as community anchors.\n\nAs the day warms up, navigate the vibrant residential streets, observing the harmonious blend of Islamic and Christian places of worship.\n\nIn the afternoon, hop between distinct neighborhoods to discover larger religious centers, each offering unique architectural styles.\n\nConclude your exploration with a reflective moment near the city center, appreciating Batam's diverse and welcoming spiritual heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Batam verleiht den Moscheen eine mystische Aura. Mittags finden Sie in den großzügigen Gebetshallen Schutz vor den tropischen Güssen. Am Nachmittag spiegeln sich die Minarette in den Pfützen, was dramatische Fotomotive bietet. Den Abend lassen Sie am besten in einem überdachten Bereich ausklingen, während der Regen sanft auf die Kuppeln der religiösen Bauten trommelt.",
+            "hu": "A reggeli eső Batamban misztikus aurát kölcsönöz a mecseteknek. Délben a tágas imatermek nyújtanak tökéletes menedéket a trópusi felhőszakadások elől. Délután a minaretek tükröződnek a tócsákban, ami drámai fotótémákat kínál az utazónak. Az estét érdemes egy fedett teraszon zárni, miközben figyeljük, ahogy az eső lágyan kopog a vallási épületek kupoláin.",
+            "ro": "O dimineață ploioasă în Batam oferă moscheilor o aură mistică. La prânz, sălile de rugăciune spațioase oferă adăpostul perfect împotriva ploilor tropicale. După-amiaza, minaretele se oglindesc în bălți, oferind motive fotografice dramatice. Încheiați seara într-o zonă acoperită, ascultând cum ploaia bate ușor pe cupolele clădirilor religioase.",
+            "en": "A rainy morning in Batam lends a mystical aura to the mosques. At noon, the spacious prayer halls provide the perfect shelter from tropical downpours. In the afternoon, the minarets reflect in the puddles, offering dramatic photo opportunities. End the evening in a covered area, watching the rain tap gently on the domes of the religious buildings."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Attawwabin",
+                "hu": "Masjid Attawwabin",
+                "ro": "Masjid Attawwabin",
+                "en": "Masjid Attawwabin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Vordach und achten Sie auf den rutschigen Marmorboden; die nassen Oberflächen lassen die Farben der Moschee heute besonders tief wirken.",
+                "hu": "Csodálja meg az építészetet az eresz alól, és ügyeljen a csúszós márványpadlóra; a nedves felületek miatt a mecset színei ma különösen mélynek és élénknek tűnnek.",
+                "ro": "Admirați arhitectura de sub streșini și aveți grijă la podeaua de marmură alunecoasă; suprafețele umede fac culorile moscheii să pară deosebit de profunde astăzi.",
+                "en": "Admire the architecture from under the eaves and watch out for the slippery marble floor; the wet surfaces make the mosque's colors look especially deep and vivid today."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda",
+                "hu": "Masjid Nurul Huda",
+                "ro": "Masjid Nurul Huda",
+                "en": "Masjid Nurul Huda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für Detailaufnahmen der Fassade; bringen Sie einen stabilen Regenschirm mit, da die Wege zwischen den Gebäuden ungeschützt sind.",
+                "hu": "Használja a fedett bejáratot a homlokzat részleteinek fotózásához; hozzon magával strapabíró esernyőt, mivel az épületek közötti utak nincsenek védve az esőtől.",
+                "ro": "Folosiți intrarea acoperită pentru fotografii detaliate ale fațadei; aduceți o umbrelă rezistentă, deoarece căile dintre clădiri nu sunt protejate de ploaie.",
+                "en": "Use the covered entrance area for detailed shots of the facade; bring a sturdy umbrella, as the paths between the buildings are not protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Islam",
+                "hu": "Masjid Nurul Islam",
+                "ro": "Masjid Nurul Islam",
+                "en": "Masjid Nurul Islam"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Stille im Inneren ist bei Regen besonders intensiv; tragen Sie wasserfeste Schuhe, um die kurzen, nassen Gehwege zwischen den religiösen Stätten zu meistern.",
+                "hu": "A belső spirituális csend esőben különösen intenzív; viseljen vízálló cipőt, hogy kényelmesen megtehesse a vallási helyszínek közötti rövid, de vizes szakaszokat.",
+                "ro": "Liniștea spirituală din interior este deosebit de intensă pe ploaie; purtați pantofi impermeabili pentru a parcurge distanțele scurte și umede dintre siturile religioase.",
+                "en": "The spiritual silence inside is especially intense during rain; wear waterproof shoes to comfortably navigate the short, wet walkways between the religious sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Mk Kng",
+                "hu": "Gereja Mk Kng",
+                "ro": "Gereja Mk Kng",
+                "en": "Gereja Mk Kng"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht im schlichten Innenraum der Kirche, während draußen der Regen fällt; die Fenster bieten einen beruhigenden Ausblick auf den nassgrünen Garten.",
+                "hu": "Keressen menedéket a templom egyszerű belső terében, miközben odakint esik; az ablakok megnyugtató kilátást nyújtanak a vizes, mélyzöld kertre.",
+                "ro": "Căutați refugiu în interiorul simplu al bisericii în timp ce afară plouă; ferestrele oferă o vedere liniștitoare spre grădina verde și umedă.",
+                "en": "Seek refuge in the simple interior of the church while it rains outside; the windows offer a calming view of the wet, deep green garden environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das Regenwasser von den Verzierungen abfließt, während Sie im trockenen Foyer warten; prüfen Sie Ihre Kleidung auf angemessene Bedeckung trotz der Nässe.",
+                "hu": "Figyelje meg, ahogy az esővíz lefolyik a díszítésekről, miközben a száraz előtérben várakozik; ügyeljen a ruházati előírásokra a vizes idő ellenére is.",
+                "ro": "Observați cum apa de ploaie se scurge de pe decorațiuni în timp ce așteptați în holul uscat; verificați dacă îmbrăcămintea este adecvată în ciuda umezelii.",
+                "en": "Watch how the rainwater drains off the decorations while you wait in the dry foyer; ensure your clothing remains appropriately modest despite the wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist angenehm kühl für einen Spaziergang zwischen den Tempeln. Mittags bietet das Innere der Sakralbauten eine willkommene Ruhepause vor der Brise. Da die Sonne bereits gegen 17 Uhr untergeht, sollten Sie die Highlights am frühen Nachmittag besuchen. Der Abend bricht schnell herein und hüllt die religiösen Stätten in ein warmes, kunstvolles Licht.",
+            "hu": "A téli reggel kellemesen hűvös a templomok közötti sétához. Délben a szakrális épületek belseje üdvözlendő pihenőt nyújt a kinti szél elől. Mivel a nap már 17 óra körül lemegy, érdemes a főbb látnivalókat kora délután felkeresni. Az este gyorsan leszáll, és meleg, művészi fénybe burkolja a vallási helyszíneket.",
+            "ro": "Dimineața de iarnă este plăcut de răcoroasă pentru o plimbare între temple. La prânz, interiorul clădirilor sacre oferă o pauză binemeritată de vânt. Deoarece soarele apune deja în jurul orei 17, vizitați atracțiile principale după-amiaza devreme. Seara se lasă repede, învăluind siturile religioase într-o lumină caldă și artistică.",
+            "en": "The winter morning is pleasantly cool for a walk between the temples. At noon, the interiors of the sacred buildings offer a welcome break from the breeze. Since the sun sets around 17:00, you should visit the highlights in the early afternoon. Evening falls quickly, enveloping the religious sites in warm, artistic lighting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Attawwabin",
+                "hu": "Masjid Attawwabin",
+                "ro": "Masjid Attawwabin",
+                "en": "Masjid Attawwabin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Licht des Vormittags für Architekturfotos ohne harte Schatten; die kühlen Fliesen im Inneren sind perfekt für eine meditative Pause.",
+                "hu": "Használja ki a délelőtti enyhe fényeket az építészeti fotókhoz erős árnyékok nélkül; a benti hűvös járólapok tökéletesek egy meditatív pihenőhöz.",
+                "ro": "Profitați de lumina blândă a dimineții pentru fotografii de arhitectură fără umbre dure; plăcile răcoroase din interior sunt perfecte pentru o pauză meditativă.",
+                "en": "Take advantage of the mild morning light for architectural photos without harsh shadows; the cool tiles inside are perfect for a meditative break."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda",
+                "hu": "Masjid Nurul Huda",
+                "ro": "Masjid Nurul Huda",
+                "en": "Masjid Nurul Huda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Außenbereich, bevor die frühe Dämmerung um 17 Uhr einsetzt; ein leichter Schal schützt Sie vor dem kühleren Winterwind.",
+                "hu": "Élvezze a szabadtéri rész nyugalmát, mielőtt a korai, 17 órai szürkület beáll; egy könnyű sál megvédi Önt a hűvösebb téli széltől.",
+                "ro": "Bucurați-vă de liniștea zonei exterioare înainte de amurgul devreme de la ora 17; un fular ușor vă va proteja de vântul mai rece de iarnă.",
+                "en": "Enjoy the tranquility of the outdoor area before the early dusk at 17:00 sets in; a light scarf will protect you from the cooler winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Islam",
+                "hu": "Masjid Nurul Islam",
+                "ro": "Masjid Nurul Islam",
+                "en": "Masjid Nurul Islam"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Wintertage lassen die Kuppeln gegen den blauen Himmel leuchten; planen Sie Ihren Besuch vor 16 Uhr, um das beste Tageslicht einzufangen.",
+                "hu": "A tiszta téli napokon a kupolák ragyognak a kék égbolt előtt; tervezze látogatását 16 óra elé, hogy elkapja a legjobb természetes fényeket.",
+                "ro": "Zilele senine de iarnă fac cupolele să strălucească pe fundalul cerului albastru; planificați vizita înainte de ora 16 pentru cea mai bună lumină.",
+                "en": "The clear winter days make the domes shine against the blue sky; plan your visit before 16:00 to catch the best natural daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Mk Kng",
+                "hu": "Gereja Mk Kng",
+                "ro": "Gereja Mk Kng",
+                "en": "Gereja Mk Kng"
+              },
+              "tip_5lang": {
+                "de": "Der Garten der Kirche wirkt im Winterlicht besonders friedlich; kommen Sie rechtzeitig vor dem frühen Sonnenuntergang um 17 Uhr an.",
+                "hu": "A templom kertje a téli fényben különösen békésnek hat; érkezzen meg időben a korai, 17 órai naplemente előtt.",
+                "ro": "Grădina bisericii pare deosebit de liniștită în lumina iernii; ajungeți din timp înainte de apusul devreme de la ora 17.",
+                "en": "The church garden feels especially peaceful in the winter light; arrive in good time before the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Einschalten der Außenbeleuchtung pünktlich zur frühen Dämmerung; der Übergang zum Abend ist hier im Winter besonders stimmungsvoll.",
+                "hu": "Figyelje meg a külső világítás felkapcsolását pontosan a korai szürkületkor; az esti átmenet itt télen különösen hangulatos és látványos.",
+                "ro": "Observați aprinderea iluminatului exterior exact la amurgul devreme; tranziția spre seară este deosebit de atmosferică aici în timpul iernii.",
+                "en": "Observe the exterior lighting being switched on exactly at early dusk; the transition to evening is particularly atmospheric here in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje batami utazását a békés északi külvárosok felfedezésével, ahol elegáns mecsetek szolgálnak a helyi közösség fontos horgonyaként.\n\nAhogy a nap melegszik, navigáljon a nyüzsgő lakóutcákon, megfigyelve az iszlám és a keresztény istentiszteleti helyek harmonikus keveredését.\n\nDélután utazzon a különböző kerületek között, hogy felfedezze a nagyobb vallási központokat, amelyek mindegyike egyedi építészeti stílust kínál.\n\nZárja felfedezését egy elgondolkodtató pillanattal a városközpont közelében, értékelve Batam sokszínű és vendégszerető spirituális örökségét.",
         "ro": "Începeți călătoria prin Batam explorând suburbiile pașnice din nord, unde moscheile elegante stau ca niște piloni de bază ai comunității locale.\n\nPe măsură ce ziua se încălzește, navigați pe străzile rezidențiale vibrante, observând amestecul armonios al lăcașurilor de cult islamice și creștine.\n\nDupă-amiaza, deplasați-vă între cartiere distincte pentru a descoperi centre religioase mai mari, fiecare oferind stiluri arhitecturale unice.\n\nÎncheiați-vă explorarea cu un moment de reflecție aproape de centrul orașului, apreciind moștenirea spirituală diversă și primitoare a orașului Batam.",
         "en": "Begin your journey through Batam by exploring the peaceful northern suburbs, where elegant mosques stand as community anchors.\n\nAs the day warms up, navigate the vibrant residential streets, observing the harmonious blend of Islamic and Christian places of worship.\n\nIn the afternoon, hop between distinct neighborhoods to discover larger religious centers, each offering unique architectural styles.\n\nConclude your exploration with a reflective moment near the city center, appreciating Batam's diverse and welcoming spiritual heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf Batams Straßen, aber die frische Luft ist belebend. Mittags sollten Sie längere Pausen an den Moscheen einplanen, um die stärksten Güsse abzuwarten. Achten Sie auf rutschige Markierungen und Pfützen, die Schlaglöcher verbergen könnten. Der Abend bietet bei nachlassendem Regen eine stimmungsvolle Fahrt durch die glänzenden Straßen der Stadt.",
+            "hu": "A kerékpártúra esőben óvatosságot igényel Batam útjain, de a friss levegő élénkítő. Délben érdemes hosszabb pihenőket tervezni a mecseteknél, hogy kivárjuk a leghevesebb esőzéseket. Ügyeljen a csúszós útburkolati jelekre és a kátyúkat elrejtő tócsákra. Az este a csendesedő esőben hangulatos tekerést kínál a város csillogó utcáin keresztül.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile din Batam, dar aerul proaspăt este revigorant. La prânz, planificați pauze mai lungi la moschei pentru a aștepta trecerea ploilor torențiale. Atenție la marcajele alunecoase și la bălțile care pot ascunde gropi. Seara oferă o plimbare atmosferică prin străzile strălucitoare ale orașului când ploaia se potolește.",
+            "en": "A bike tour in the rain requires caution on Batam's roads, but the fresh air is invigorating. At noon, plan longer breaks at the mosques to wait out the heaviest downpours. Watch out for slippery road markings and puddles that might hide potholes. The evening offers an atmospheric ride through the city's glistening streets as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Geraja Yehuwa",
+                "hu": "Geraja Yehuwa",
+                "ro": "Geraja Yehuwa",
+                "en": "Geraja Yehuwa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und prüfen Sie Ihre Bremsen; der Boden rund um die Kirche kann bei Nässe extrem glatt sein.",
+                "hu": "Parkolja le kerékpárját védett helyen, és ellenőrizze a fékeket; a templom körüli talaj nedvesen rendkívül csúszós lehet.",
+                "ro": "Parcați bicicleta într-un loc protejat și verificați frânele; solul din jurul bisericii poate fi extrem de alunecos când este ud.",
+                "en": "Park your bike in a sheltered spot and check your brakes; the ground around the church can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Ash Sirath",
+                "hu": "Masjid Ash Sirath",
+                "ro": "Masjid Ash Sirath",
+                "en": "Masjid Ash Sirath"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine Trockenpause und bewundern Sie die Architektur vom Eingang aus; stellen Sie sicher, dass Ihre Ausrüstung wasserdicht verpackt ist.",
+                "hu": "Használja a megállót egy száraz pihenőre, és csodálja meg az építészetet a bejáratból; győződjön meg róla, hogy felszerelése vízhatlanul van elcsomagolva.",
+                "ro": "Folosiți oprirea pentru o pauză uscată și admirați arhitectura de la intrare; asigurați-vă că echipamentul este ambalat în mod impermeabil.",
+                "en": "Use the stop for a dry break and admire the architecture from the entrance; make sure your equipment is packed in a waterproof manner."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Jabal Nur",
+                "hu": "Masjid Jabal Nur",
+                "ro": "Masjid Jabal Nur",
+                "en": "Masjid Jabal Nur"
+              },
+              "tip_5lang": {
+                "de": "Die erhöhte Lage bietet einen Blick auf die regnerische Landschaft; fahren Sie die Rampen besonders vorsichtig hinauf und hinunter, um Rutschen zu vermeiden.",
+                "hu": "A megemelt elhelyezkedés kilátást nyújt az esős tájra; a rámpákon különösen óvatosan közlekedjen felfelé és lefelé a megcsúszás elkerülése érdekében.",
+                "ro": "Locația ridicată oferă o vedere asupra peisajului ploios; urcați și coborâți rampele cu mare prudență pentru a evita alunecarea.",
+                "en": "The elevated location offers a view of the rainy landscape; ride up and down the ramps extra carefully to avoid sliding on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Regenjacke kurz zu lüften, während Sie im trockenen Bereich stehen; achten Sie auf den Verkehr, der bei Regen oft hektischer ist.",
+                "hu": "Jó hely az esőkabát rövid kiszellőztetésére, miközben a száraz részen áll; ügyeljen a forgalomra, amely esőben gyakran hektikusabb és kiszámíthatatlanabb.",
+                "ro": "Un loc bun pentru a aerisi scurt jacheta de ploaie în timp ce stați în zona uscată; atenție la trafic, care este adesea mai hectic pe ploaie.",
+                "en": "A good place to briefly air out your raincoat while standing in the dry area; pay attention to traffic, which is often more hectic during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Mk Kng",
+                "hu": "Gereja Mk Kng",
+                "ro": "Gereja Mk Kng",
+                "en": "Gereja Mk Kng"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel trocken, bevor Sie weiterfahren, und genießen Sie die kühle Luft; die Kirche bietet einen ruhigen Moment abseits der nassen Straßen.",
+                "hu": "Törölje szárazra a nyerget, mielőtt továbbindulna, és élvezze a hűvös levegőt; a templom csendes pillanatot kínál a vizes utaktól távol.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe și bucurați-vă de aerul răcoros; biserica oferă un moment de liniște departe de străzile umede.",
+                "en": "Wipe your saddle dry before continuing and enjoy the cool air; the church offers a quiet moment away from the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Islam",
+                "hu": "Masjid Nurul Islam",
+                "ro": "Masjid Nurul Islam",
+                "en": "Masjid Nurul Islam"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und trocknen Sie sich im Inneren ab; die reflektierenden nassen Kacheln im Hof sind ein tolles Motiv für ein Abschlussfoto.",
+                "hu": "Fejezze be itt a túrát, és szárítkozzon meg bent; az udvar visszatükröződő vizes járólapjai nagyszerű témát szolgáltatnak a zárófotóhoz.",
+                "ro": "Încheiați turul aici și uscați-vă în interior; plăcile umede reflectorizante din curte sunt un motiv excelent pentru o fotografie de final.",
+                "en": "End your tour here and dry off inside; the reflecting wet tiles in the courtyard are a great subject for a final photo of your journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühleren Wintertemperaturen sind ideal für eine ausgiebige Radtour in Batam. Mittags brennt die Sonne nicht so stark, was die Fahrt zwischen den religiösen Stätten sehr angenehm macht. Da es bereits um 17 Uhr dunkel wird, sollten Sie früh starten und Ihre Fahrradlichter vorab prüfen. Der Abend endet mit einer kühlen Brise und dem Anblick der beleuchteten Minarette gegen den frühen Nachthimmel.",
+            "hu": "A hűvösebb téli hőmérséklet ideális egy kiadós kerékpártúrához Batamban. Délben nem tűz olyan erősen a nap, ami nagyon kellemessé teszi a vallási helyszínek közötti tekerést. Mivel már 17 órakor sötétedik, induljon korán és ellenőrizze a lámpákat. Az este hűvös szellővel és a kora esti égbolton kirajzolódó kivilágított minaretek látványával zárul.",
+            "ro": "Temperaturile mai scăzute de iarnă sunt ideale pentru o tură lungă cu bicicleta în Batam. La prânz, soarele nu arde atât de tare, făcând plimbarea între siturile religioase foarte plăcută. Deoarece se întunecă deja la ora 17, porniți devreme și verificați luminile bicicletei. Seara se încheie cu o briză răcoroasă și vederea minaretelor iluminate.",
+            "en": "The cooler winter temperatures are ideal for an extensive bike tour in Batam. At noon, the sun is not so strong, making the ride between religious sites very pleasant. Since it gets dark as early as 17:00, start early and check your bike lights beforehand. The evening ends with a cool breeze and the sight of illuminated minarets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Geraja Yehuwa",
+                "hu": "Geraja Yehuwa",
+                "ro": "Geraja Yehuwa",
+                "en": "Geraja Yehuwa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht am Morgen und treten Sie kräftig in die Pedale; die kühle Luft macht die körperliche Anstrengung heute viel leichter.",
+                "hu": "Élvezze a tiszta reggeli kilátást, és tekerjen bátran; a hűvös levegő ma sokkal könnyebbé és élvezetesebbé teszi a fizikai megterhelést.",
+                "ro": "Bucurați-vă de vizibilitatea clară a dimineții și pedalați cu spor; aerul răcoros face efortul fizic mult mai ușor astăzi.",
+                "en": "Enjoy the clear morning view and pedal hard; the cool air makes the physical exertion much easier and more enjoyable today."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Ash Sirath",
+                "hu": "Masjid Ash Sirath",
+                "ro": "Masjid Ash Sirath",
+                "en": "Masjid Ash Sirath"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Schatten ist dank der Brise sehr erfrischend; nutzen Sie das weiche Winterlicht für Porträts vor der Moschee.",
+                "hu": "Egy rövid megálló az árnyékban a szellőnek köszönhetően nagyon frissítő; használja a lágy téli fényt a mecset előtt készített portrékhoz.",
+                "ro": "O scurtă oprire la umbră este foarte revigorantă datorită brizei; folosiți lumina moale de iarnă pentru portrete în fața moscheii.",
+                "en": "A short stop in the shade is very refreshing thanks to the breeze; use the soft winter light for portraits in front of the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Jabal Nur",
+                "hu": "Masjid Jabal Nur",
+                "ro": "Masjid Jabal Nur",
+                "en": "Masjid Jabal Nur"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei diesen Temperaturen kaum anstrengend; oben angekommen, erwartet Sie eine klare Fernsicht über das winterliche Batam.",
+                "hu": "Az emelkedő ilyen hőmérséklet mellett alig megterhelő; felérve tiszta kilátás várja a téli Batam felett, messzire ellátni a hűvös időben.",
+                "ro": "Urcarea este puțin obositoare la aceste temperaturi; odată ajuns sus, vă așteaptă o vedere clară asupra orașului Batam în haine de iarnă.",
+                "en": "The climb is hardly strenuous at these temperatures; once at the top, a clear view over winter Batam awaits you in the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Iman",
+                "hu": "Masjid Nurul Iman",
+                "ro": "Masjid Nurul Iman",
+                "en": "Masjid Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhr, um den 17-Uhr-Sonnenuntergang nicht zu verpassen; die goldene Stunde beginnt im Winter bereits deutlich früher.",
+                "hu": "Ügyeljen az időre, hogy ne maradjon le a 17 órai naplementéről; az aranyóra télen már lényegesen korábban elkezdődik és látványosabb.",
+                "ro": "Fiți atenți la ceas pentru a nu rata apusul de la ora 17; ora de aur începe mult mai devreme în timpul iernii.",
+                "en": "Keep an eye on the time so you don't miss the 17:00 sunset; the golden hour starts significantly earlier during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Mk Kng",
+                "hu": "Gereja Mk Kng",
+                "ro": "Gereja Mk Kng",
+                "en": "Gereja Mk Kng"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände der Kirche lädt zu einer kurzen Pause in der kühlen Luft ein; schalten Sie jetzt schon Ihre Fahrradlichter für den Heimweg ein.",
+                "hu": "A templom területe hívogató egy rövid pihenőre a hűvös levegőn; kapcsolja be már most a kerékpáros lámpákat a hazafelé vezető útra.",
+                "ro": "Terenul bisericii vă invită la o scurtă pauză în aerul răcoros; aprindeți deja luminile bicicletei pentru drumul spre casă.",
+                "en": "The church grounds invite you for a short break in the cool air; switch on your bike lights now for the journey home."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Islam",
+                "hu": "Masjid Nurul Islam",
+                "ro": "Masjid Nurul Islam",
+                "en": "Masjid Nurul Islam"
+              },
+              "tip_5lang": {
+                "de": "Der Anblick der beleuchteten Moschee pünktlich um 17 Uhr ist der perfekte Abschluss; ziehen Sie eine leichte Jacke für die Rückfahrt an.",
+                "hu": "A kivilágított mecset látványa pontosan 17 órakor a tökéletes befejezés; vegyen fel egy könnyű kabátot a hűvös visszaúthoz.",
+                "ro": "Vederea moscheii iluminate exact la ora 17 este finalul perfect; puneți-vă o jachetă ușoară pentru drumul de întoarcere.",
+                "en": "The sight of the illuminated mosque exactly at 17:00 is the perfect conclusion; put on a light jacket for the cool ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje batami utazását a békés északi külvárosok felfedezésével, ahol elegáns mecsetek szolgálnak a helyi közösség fontos horgonyaként.\n\nAhogy a nap melegszik, navigáljon a nyüzsgő lakóutcákon, megfigyelve az iszlám és a keresztény istentiszteleti helyek harmonikus keveredését.\n\nDélután utazzon a különböző kerületek között, hogy felfedezze a nagyobb vallási központokat, amelyek mindegyike egyedi építészeti stílust kínál.\n\nZárja felfedezését egy elgondolkodtató pillanattal a városközpont közelében, értékelve Batam sokszínű és vendégszerető spirituális örökségét.",
         "ro": "Începeți călătoria prin Batam explorând suburbiile pașnice din nord, unde moscheile elegante stau ca niște piloni de bază ai comunității locale.\n\nPe măsură ce ziua se încălzește, navigați pe străzile rezidențiale vibrante, observând amestecul armonios al lăcașurilor de cult islamice și creștine.\n\nDupă-amiaza, deplasați-vă între cartiere distincte pentru a descoperi centre religioase mai mari, fiecare oferind stiluri arhitecturale unice.\n\nÎncheiați-vă explorarea cu un moment de reflecție aproape de centrul orașului, apreciind moștenirea spirituală diversă și primitoare a orașului Batam.",
         "en": "Begin your journey through Batam by exploring the peaceful northern suburbs, where elegant mosques stand as community anchors.\n\nAs the day warms up, navigate the vibrant residential streets, observing the harmonious blend of Islamic and Christian places of worship.\n\nIn the afternoon, hop between distinct neighborhoods to discover larger religious centers, each offering unique architectural styles.\n\nConclude your exploration with a reflective moment near the city center, appreciating Batam's diverse and welcoming spiritual heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute das ideale Verkehrsmittel, um Batams religiöse Vielfalt trocken zu erkunden. Mittags können Sie die prachtvollen Fassaden bequem vom Fenster aus bewundern, während es draußen stürmt. Rechnen Sie mit mehr Verkehr und längeren Fahrzeiten durch Regen und Pfützen. Der Abend ist perfekt für eine Sightseeing-Fahrt, bei der die Lichter der Stadt im nassen Asphalt glitzern.",
+            "hu": "Az autó ma az ideális közlekedési eszköz Batam vallási sokszínűségének szárazon történő felfedezéséhez. Délben kényelmesen, az ablakból csodálhatja meg a pompás homlokzatokat, miközben odakint tombol a vihar. Számoljon nagyobb forgalommal és hosszabb menetidővel az eső és a tócsák miatt. Az este tökéletes egy városnéző autózáshoz, ahol a város fényei csillognak a vizes aszfalton.",
+            "ro": "Mașina este astăzi mijlocul de transport ideal pentru a explora diversitatea religioasă din Batam fără a vă uda. La prânz, puteți admira fațadele splendide confortabil de la fereastră în timp ce afară plouă torențial. Anticipați trafic mai intens și timpi de parcurs mai lungi din cauza ploii. Seara este perfectă pentru o plimbare, lumile orașului sclipind în asfaltul umed.",
+            "en": "The car is the ideal mode of transport today to explore Batam's religious diversity while staying dry. At noon, you can comfortably admire the magnificent facades from the window while it storms outside. Expect more traffic and longer travel times due to rain and puddles. The evening is perfect for a sightseeing drive with city lights glistening on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Irsadul Ikhlas",
+                "hu": "Masjid Irsadul Ikhlas",
+                "ro": "Masjid Irsadul Ikhlas",
+                "en": "Masjid Irsadul Ikhlas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die Moschee wirkt im grauen Regenlicht besonders ehrwürdig und ruhig.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy ne ázzon el; a mecset a szürke esős fényben különösen méltóságteljesnek és nyugodtnak hat.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; moscheea pare deosebit de venerabilă și liniștită în lumina gri a ploii.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the mosque looks particularly venerable and calm in the gray rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Attawwabin",
+                "hu": "Masjid Attawwabin",
+                "ro": "Masjid Attawwabin",
+                "en": "Masjid Attawwabin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der gewaschenen Farben der Fassade aus dem trockenen Auto heraus; nutzen Sie den Halt für eine kurze Meditation im Inneren.",
+                "hu": "Élvezze a homlokzat tiszta, esőmarta színeit a száraz autóból; használja ki a megállót egy rövid belső meditációra a csendes imateremben.",
+                "ro": "Bucurați-vă de vederea culorilor spălate ale fațadei din mașina uscată; folosiți oprirea pentru o scurtă meditație în interior.",
+                "en": "Enjoy the sight of the washed colors of the facade from the dry car; use the stop for a short meditation inside the quiet prayer hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda",
+                "hu": "Masjid Nurul Huda",
+                "ro": "Masjid Nurul Huda",
+                "en": "Masjid Nurul Huda"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Aussteigen die Tiefe der Pfützen auf dem Parkplatz; die Architektur bietet unter dem Dachvorsprung tolle Details für Fotos.",
+                "hu": "Kiszállás előtt ellenőrizze a tócsák mélységét a parkolóban; az építészet az eresz alatti részeken remek részleteket kínál a fotózáshoz.",
+                "ro": "Verificați adâncimea bălților din parcare înainte de a coborî; arhitectura oferă detalii excelente pentru fotografii sub streșini.",
+                "en": "Check the depth of puddles in the parking lot before getting out; the architecture offers great details for photos under the sheltered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Islam",
+                "hu": "Masjid Nurul Islam",
+                "ro": "Masjid Nurul Islam",
+                "en": "Masjid Nurul Islam"
+              },
+              "tip_5lang": {
+                "de": "Das Prasseln des Regens auf das Autodach schafft eine friedliche Atmosphäre vor der Besichtigung; achten Sie auf spritzendes Wasser beim Einparken.",
+                "hu": "Az autó tetőjén kopogó eső békés hangulatot teremt a látogatás előtt; ügyeljen a fröccsenő vízre a parkolás és a manőverezés közben.",
+                "ro": "Ropotul ploii pe plafonul mașinii creează o atmosferă pașnică înainte de vizită; atenție la apa stropită în timpul parcării.",
+                "en": "The patter of rain on the car roof creates a peaceful atmosphere before the visit; watch out for splashing water while parking and maneuvering."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Mk Kng",
+                "hu": "Gereja Mk Kng",
+                "ro": "Gereja Mk Kng",
+                "en": "Gereja Mk Kng"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Kirche bietet einen warmen Rückzugsort vor dem nasskalten Wetter; nutzen Sie die Klimaanlage im Auto, um beschlagene Scheiben zu vermeiden.",
+                "hu": "Az egyszerű templom meleg menedéket nyújt a nedves idő elől; használja az autó klímáját, hogy elkerülje az ablakok bepárásodását a nagy páratartalomban.",
+                "ro": "Biserica simplă oferă un refugiu cald împotriva vremii umede; folosiți aerul condiționat din mașină pentru a evita aburirea geamurilor.",
+                "en": "The simple church offers a warm retreat from the wet weather; use the car's air conditioning to avoid fogged windows in the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Jabal Nur",
+                "hu": "Masjid Jabal Nur",
+                "ro": "Masjid Jabal Nur",
+                "en": "Masjid Jabal Nur"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die regenverhangene Stadt; fahren Sie langsam auf den nassen Zufahrtsstraßen zum Hügel.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik az esőbe burkolózott városra; vezessen lassan a dombra vezető vizes és csúszós bekötőutakon.",
+                "ro": "Din parcare aveți o vedere excelentă asupra orașului acoperit de ploaie; conduceți încet pe drumurile de acces umede spre deal.",
+                "en": "From the parking lot, you have a great view of the rain-shrouded city; drive slowly on the wet and slippery access roads to the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Ash Sirath",
+                "hu": "Masjid Ash Sirath",
+                "ro": "Masjid Ash Sirath",
+                "en": "Masjid Ash Sirath"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen letzten trockenen Blick auf die islamische Baukunst; stellen Sie sicher, dass Ihre Regenschirme griffbereit im Auto liegen.",
+                "hu": "Ideális hely egy utolsó száraz pillantásra az iszlám építőművészetre; győződjön meg róla, hogy az esernyők kéznél vannak az autóban.",
+                "ro": "Un loc ideal pentru o ultimă privire uscată asupra arhitecturii islamice; asigurați-vă că umbrelele sunt la îndemână în mașină.",
+                "en": "An ideal place for one last dry look at Islamic architecture; ensure your umbrellas are within easy reach inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Geraja Yehuwa",
+                "hu": "Geraja Yehuwa",
+                "ro": "Geraja Yehuwa",
+                "en": "Geraja Yehuwa"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer gemütlichen Fahrt zurück, während der Regen nachlässt; die Lichter spiegeln sich wunderschön in den Pfützen.",
+                "hu": "Zárja a napot egy kényelmes visszaúttal, miközben az eső elcsendesedik; a fények gyönyörűen tükröződnek a vizes aszfalton és a tócsákban.",
+                "ro": "Încheiați ziua cu o plimbare confortabilă de întoarcere în timp ce ploaia se potolește; luminile se oglindesc frumos în bălți.",
+                "en": "End the day with a comfortable drive back as the rain subsides; the lights reflect beautifully in the puddles and on the wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch das winterliche Batam in einem klimatisierten Auto bei angenehmen Außentemperaturen. Mittags ist das Licht perfekt für klare Aufnahmen der Moscheen ohne das übliche flimmernde Hitzeglühen. Beachten Sie den frühen Sonnenuntergang um 17 Uhr und planen Sie Ihre Route entsprechend. Der Abend bietet bei kühler Brise eine wunderbare Atmosphäre, um die beleuchteten Sehenswürdigkeiten abzufahren.",
+            "hu": "Élvezze az autózást a téli Batamban, a kellemes külső hőmérséklet mellett a klimatizált utastérben. Délben a fények tökéletesek a mecsetek tiszta fotózásához, a szokásos remegő hőség nélkül. Vegye figyelembe a korai, 17 órai naplementét, és tervezze meg útvonalát ennek megfelelően. Az este a hűvös szellővel csodálatos hangulatot áraszt a kivilágított látnivalók felkereséséhez.",
+            "ro": "Bucurați-vă de plimbarea prin Batam de iarnă într-o mașină climatizată, la temperaturi exterioare plăcute. La prânz, lumina este perfectă pentru fotografii clare ale moscheilor, fără căldura obișnuită. Rețineți apusul devreme de la ora 17 și planificați ruta corespunzător. Seara oferă o atmosferă minunată cu o briză răcoroasă pentru a vedea obiectivele iluminate.",
+            "en": "Enjoy the drive through winter Batam in an air-conditioned car with pleasant outside temperatures. At noon, the light is perfect for clear shots of the mosques without the usual heat haze. Note the early sunset at 17:00 and plan your route accordingly. The evening offers a wonderful atmosphere with a cool breeze for visiting the illuminated sights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Irsadul Ikhlas",
+                "hu": "Masjid Irsadul Ikhlas",
+                "ro": "Masjid Irsadul Ikhlas",
+                "en": "Masjid Irsadul Ikhlas"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für exzellente Sichtverhältnisse auf die Fassade; nutzen Sie den Vormittag für die besten Lichtverhältnisse am Auto-Stopp.",
+                "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít a homlokzatra; használja ki a délelőttöt a legjobb fényviszonyokhoz ennél a megállónál.",
+                "ro": "Aerul curat de iarnă asigură condiții excelente de vizibilitate asupra fațadei; folosiți dimineața pentru cele mai bune condiții de lumină.",
+                "en": "The clear winter air provides excellent visibility of the facade; use the morning for the best lighting conditions at this car stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Attawwabin",
+                "hu": "Masjid Attawwabin",
+                "ro": "Masjid Attawwabin",
+                "en": "Masjid Attawwabin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen dem blauen Winterhimmel und der Architektur; ein kurzer Spaziergang im Freien ist bei diesen Temperaturen sehr angenehm.",
+                "hu": "Élvezze a kék téli égbolt és az építészet közötti kontrasztot; egy rövid szabadtéri séta ilyen hőmérséklet mellett nagyon kellemes és frissítő.",
+                "ro": "Bucurați-vă de contrastul dintre cerul albastru de iarnă și arhitectură; o scurtă plimbare în aer liber este foarte plăcută la aceste temperaturi.",
+                "en": "Enjoy the contrast between the blue winter sky and the architecture; a short outdoor walk is very pleasant and refreshing at these temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Huda",
+                "hu": "Masjid Nurul Huda",
+                "ro": "Masjid Nurul Huda",
+                "en": "Masjid Nurul Huda"
+              },
+              "tip_5lang": {
+                "de": "Das milde Mittagslicht lässt die Farben der Moschee sanfter wirken; parken Sie im Schatten, um die kühle Brise im Wagen zu halten.",
+                "hu": "Az enyhe déli fény a mecset színeit lágyabbnak mutatja; parkoljon árnyékban, hogy megőrizze a hűvös szellőt az autó utasterében.",
+                "ro": "Lumina blândă de la prânz face culorile moscheii să pară mai suave; parcați la umbră pentru a menține briza răcoroasă în mașină.",
+                "en": "The mild midday light makes the mosque's colors appear softer; park in the shade to keep the cool breeze inside the car's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nurul Islam",
+                "hu": "Masjid Nurul Islam",
+                "ro": "Masjid Nurul Islam",
+                "en": "Masjid Nurul Islam"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause, bevor die Sonne gegen 17 Uhr zu sinken beginnt; die Anlage wirkt im Winter besonders gepflegt und ruhig.",
+                "hu": "Ideális hely egy pihenőre, mielőtt a nap 17 óra körül süllyedni kezd; a komplexum télen különösen gondozottnak és békésnek hat.",
+                "ro": "Un loc ideal pentru o pauză înainte ca soarele să înceapă să apună în jurul orei 17; complexul pare deosebit de îngrijit și liniștit iarna.",
+                "en": "An ideal place for a break before the sun starts to sink around 17:00; the complex feels especially well-kept and peaceful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Mk Kng",
+                "hu": "Gereja Mk Kng",
+                "ro": "Gereja Mk Kng",
+                "en": "Gereja Mk Kng"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel von Licht und Schatten auf der Kirchenfassade am Nachmittag; die kühle Luft lädt zu einem kurzen Rundgang im Garten ein.",
+                "hu": "Figyelje meg a fények és árnyékok játékát a templom homlokzatán délután; a hűvös levegő hívogató egy rövid kerti körsétára.",
+                "ro": "Observați jocul de lumini și umbre pe fațada bisericii după-amiaza; aerul răcoros vă invită la o scurtă plimbare în grădină.",
+                "en": "Observe the play of light and shadow on the church facade in the afternoon; the cool air invites you for a short walk in the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Jabal Nur",
+                "hu": "Masjid Jabal Nur",
+                "ro": "Masjid Jabal Nur",
+                "en": "Masjid Jabal Nur"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17 Uhr an, um den Sonnenuntergang über Batam zu sehen; das Panorama im Winterlicht ist absolut spektakulär.",
+                "hu": "Érkezzen meg időben 17 óra előtt, hogy lássa a naplementét Batam felett; a panoráma a téli fényekben abszolút lenyűgöző és látványos.",
+                "ro": "Ajungeți la timp înainte de ora 17 pentru a vedea apusul peste Batam; panorama în lumina iernii este absolut spectaculoasă.",
+                "en": "Arrive in good time before 17:00 to see the sunset over Batam; the panorama in the winter light is absolutely spectacular and worth the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Ash Sirath",
+                "hu": "Masjid Ash Sirath",
+                "ro": "Masjid Ash Sirath",
+                "en": "Masjid Ash Sirath"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt nun schnell ein, schalten Sie Ihr Fahrlicht ein; die Architektur wird jetzt von den ersten warmen Strahlern beleuchtet.",
+                "hu": "A szürkület most már gyorsan beáll, kapcsolja be a fényszórókat; az építészetet most kezdik megvilágítani az első meleg fényű reflektorok.",
+                "ro": "Amurgul se lasă repede acum, aprindeți farurile; arhitectura este acum iluminată de primele proiectoare calde.",
+                "en": "Twilight is setting in quickly now, turn on your headlights; the architecture is now being illuminated by the first warm floodlights."
+              }
+            },
+            {
+              "name": {
+                "de": "Geraja Yehuwa",
+                "hu": "Geraja Yehuwa",
+                "ro": "Geraja Yehuwa",
+                "en": "Geraja Yehuwa"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die kunstvolle Nachtbeleuchtung zum Abschluss zu bewundern; genießen Sie die kühle Nachtluft durch das geöffnete Fenster.",
+                "hu": "Tökéletes hely a művészi éjszakai világítás megcsodálására a túra végén; élvezze a hűvös éjszakai levegőt a lehúzott ablakon keresztül.",
+                "ro": "Un loc perfect pentru a admira iluminatul nocturn artistic la final; bucurați-vă de aerul răcoros al nopții prin fereastra deschisă.",
+                "en": "A perfect place to admire the artistic night lighting at the end of the tour; enjoy the cool night air through the open car window."
+              }
+            }
+          ]
+        }
       }
     }
   }

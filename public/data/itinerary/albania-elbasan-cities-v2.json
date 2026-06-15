@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Elbasan gazdag történelmének felfedezésével az ősi várfalak és a kora keresztény gyökerek között.\n\nDélben fedezze fel a helyi kultúrát és örökséget a Néprajzi Múzeumban és a történelmi helyszíneken.\n\nDélután ismerje meg a város oktatási hagyatékát és az ókori római maradványokat.\n\nAz este közeledtével kapcsolódjon ki a kulturális központokban vagy a békés családi terekben.",
         "ro": "Începeți dimineața scufundându-vă în istoria bogată a Elbasanului în interiorul zidurilor antice ale castelului.\n\nLa amiază, explorați cultura și patrimoniul local la Muzeul Etnografic și locurile istorice.\n\nPetreceți după-amiaza descoperind moștenirea educațională a orașului și rămășițele romane antice.\n\nSpre seară, relaxați-vă la punctele culturale sau în spațiile pașnice pentru familii pentru a absorbi ritmul local.",
         "en": "Start your morning diving into Elbasan’s rich history within the ancient castle walls and its early Christian roots.\n\nBy midday, explore the local culture and heritage at the Ethnographic Museum and historic venues.\n\nSpend your afternoon discovering the city's educational legacy and ancient Roman remnants.\n\nAs evening approaches, wind down at cultural hotspots or peaceful family spaces to absorb the local rhythm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Burgmauern, wo die engen Gassen Schutz bieten. Mittags besichtigen wir die Basilika unter dem Regenschirm und achten auf rutschige Steine. Nachmittags finden wir Zuflucht im Ethnografischen Museum vor den Güssen. Der Abend endet im eleganten Skampa-Theater, das ein trockenes kulturelles Erlebnis bietet, während draußen der Regen prasselt.",
+            "hu": "Reggel a várnegyed szűk utcáin kezdünk, ahol a házak némi védelmet nyújtanak. Délben a bazilika romjait esernyő alatt fedezzük fel, vigyázva a csúszós kövekre. Délután a Néprajzi Múzeum belső tereiben találunk menedéket a záporok elől. Estére a Skampa Színház elegáns, fedett épülete nyújt tökéletes kulturális lezárást, miközben kint kopog az eső a tetőn.",
+            "ro": "Dimineața explorăm zidurile cetății, unde străzile înguste oferă adăpost. La prânz vizităm basilica sub umbrelă, atenți la pietrele alunecoase. După-amiaza găsim refugiu în Muzeul Etnografic pentru a evita ploaia. Seara se încheie la Teatrul Skampa, care oferă o experiență culturală uscată și elegantă, în timp ce afară ploaia bate în ferestre.",
+            "en": "Morning starts within the castle walls, where narrow alleys offer some shelter. At noon, we explore the basilica under umbrellas, wary of slippery stones. Afternoon provides refuge in the Ethnographic Museum to stay dry during downpours. The evening ends at the Skampa Theatre, offering a warm cultural escape while the rain taps on the roof outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Elbasan",
+                "hu": "Elbasan vára",
+                "ro": "Castelul Elbasan",
+                "en": "Elbasan Castle"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Torbögen der Altstadt; tragen Sie unbedingt wasserfeste Schuhe, da das Kopfsteinpflaster bei Regen extrem rutschig und tückisch werden kann.",
+                "hu": "Keressen menedéket az óváros kapualjai alatt; viseljen vízálló cipőt, mert a macskakő esőben rendkívül csúszóssá válik, és a mélyebb repedésekben megállhat a víz.",
+                "ro": "Căutați adăpost sub arcadele orașului vechi; purtați neapărat încălțăminte impermeabilă, deoarece pavajul devine extrem de alunecos și periculos atunci când plouă.",
+                "en": "Seek shelter under the old town archways; be sure to wear waterproof shoes as the cobblestones become extremely slippery and puddles tend to form in uneven spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Frühchristliche Basilika",
+                "hu": "Ókeresztény bazilika",
+                "ro": "Bazilica paleocreștină",
+                "en": "Paleochristian Basilica"
+              },
+              "tip_5lang": {
+                "de": "Die Mosaike leuchten bei Nässe intensiver, aber nutzen Sie einen großen Regenschirm, da das Gelände völlig offen ist; meiden Sie die Grasflächen wegen Schlammbildung.",
+                "hu": "A mozaikok színei élénkebbek a nedvességtől, de használjon nagy esernyőt a nyílt terepen; kerülje a füves részeket, mert esőzés után hamar sárossá és süppedőssé válnak.",
+                "ro": "Mozaicurile par mai vii când sunt ude, dar folosiți o umbrelă mare pe terenul deschis; evitați zonele cu iarbă deoarece devin noroioase și instabile după ploaie.",
+                "en": "The mosaics look more vibrant when wet, but use a large umbrella on the open ground; avoid the grassy areas as they become quite muddy and soft after heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses traditionelle Haus ist der perfekte Ort, um einen Regenschauer auszusitzen; genießen Sie die trockenen Ausstellungsräume und bewundern Sie die Handwerkskunst.",
+                "hu": "Ez a hagyományos ház tökéletes helyszín egy zápor átvészelésére; élvezze a száraz kiállítótermeket, és csodálja meg a kézműves remekeket a fedett veranda biztonságából.",
+                "ro": "Această casă tradițională este locul perfect pentru a aștepta trecerea ploii; bucurați-vă de sălile de expoziție uscate și admirați obiectele de artizanat local.",
+                "en": "This traditional house is the perfect spot to wait out a shower; enjoy the dry exhibition rooms and admire the craftsmanship from the safety of the covered veranda."
+              }
+            },
+            {
+              "name": {
+                "de": "Skampa-Theater",
+                "hu": "Skampa Színház",
+                "ro": "Teatrul Skampa",
+                "en": "Skampa Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das Theater bietet eine prachtvolle, trockene Umgebung für den Abend; prüfen Sie den Spielplan für Indoor-Events, um der Nässe im Freien stilvoll zu entkommen.",
+                "hu": "A színház pompás, száraz környezetet biztosít az estére; ellenőrizze a műsort benti előadásokért, hogy stílusosan menekülhessen el a kinti nyirkos időjárás elől.",
+                "ro": "Teatrul oferă un mediu splendid și uscat pentru seară; verificați programul pentru evenimente în interior, scăpând astfel cu stil de vremea umedă de afară.",
+                "en": "The theatre provides a grand, dry environment for the evening; check the schedule for indoor performances to escape the damp outdoor weather in a stylish way."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római színház",
+                "ro": "Teatrul Roman",
+                "en": "Teatri Roman"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Betreten der antiken Stufen, da der Stein bei Regen spiegelglatt sein kann; betrachten Sie die Ruinen am besten vom befestigten Weg am Rand aus.",
+                "hu": "Vigyázzon az antik lépcsőkre lépve, mert a kő esőben tükörsima és veszélyes lehet; a legjobb, ha a romokat a szélső, szilárd burkolatú útról tekinti meg ilyenkor.",
+                "ro": "Atenție când pășiți pe treptele antice, deoarece piatra poate fi extrem de alunecoasă; cel mai bine este să priviți ruinele de pe poteca pavată de la margine.",
+                "en": "Be careful when stepping on the ancient stones, as they can be mirror-smooth and dangerous in the rain; view the ruins from the paved perimeter path instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Aleksandër-Xhuvani-Museum",
+                "hu": "Aleksandër Xhuvani Múzeum",
+                "ro": "Muzeul Aleksandër Xhuvani",
+                "en": "Museum \"Aleksandër Xhuvani\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Kleidung zu trocknen, während Sie in die Geschichte eintauchen; vergessen Sie nicht, Ihren Schirm im Eingangsbereich abzustellen.",
+                "hu": "Használja ki a múzeumlátogatást a ruházata megszárítására, miközben elmélyed a történelemben; ne felejtse el az esernyőt a kijelölt tartóban hagyni a bejáratnál.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca hainele în timp ce explorați istoria locală; nu uitați să lăsați umbrela în suportul special de la intrare.",
+                "en": "Take advantage of the museum visit to dry off while immersing yourself in history; remember to leave your umbrella in the designated stand at the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der Burg, wo der Wind in den Gassen nachlässt. Mittags besuchen wir die Basilika zügig vor der Kälte. Der Nachmittag gehört den beheizten Museen, um uns aufzuwärmen. Wegen des frühen Sonnenuntergangs um 17:00 Uhr genießen wir die beleuchtete Stadtkulisse am Abend in der Nähe des Theaters bei einem heißen Getränk.",
+            "hu": "A friss téli reggelt a várfalak között indítjuk, ahol a szűk utcák védenek a széltől. Délben gyors látogatást teszünk a bazilikánál, majd a fűtött múzeumok felé vesszük az irányt. A korai, 17:00-s sötétedés miatt a délutánt már beltéren töltjük. Az estét a színház környéki kivilágított belvárosban zárjuk, egy forró tea társaságában.",
+            "ro": "O dimineață răcoroasă de iarnă începe în cetate, unde vântul este mai domol pe străduțe. La prânz vizităm rapid basilica înainte de a merge la căldură. După-amiaza este dedicată muzeelor încălzite pentru a ne dezgheța. Din cauza apusului devreme la ora 17:00, admirăm orașul iluminat seara lângă teatru cu o băutură caldă.",
+            "en": "A crisp winter morning begins in the castle, where walls shield us from the biting wind. At noon, we visit the basilica briefly before heading to heated museums to warm up. With sunset as early as 17:00, we enjoy the illuminated city charm near the theatre in the evening, warming our hands with a hot beverage."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Elbasan",
+                "hu": "Elbasan vára",
+                "ro": "Castelul Elbasan",
+                "en": "Elbasan Castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für den Spaziergang auf den Mauern, da der Wind hier oben beißend kalt sein kann; die Aussicht auf die verschneiten Berge ist jedoch grandios.",
+                "hu": "Öltözzön rétegesen a várfalakon tett sétához, mert a szél itt metszően hideg lehet; a környező havas hegycsúcsok látványa viszont kárpótolja a fázósabbakat.",
+                "ro": "Purtați haine groase pentru plimbarea pe ziduri, deoarece vântul poate fi tăios; totuși, priveliștea munților înzăpeziți din depărtare este absolut superbă.",
+                "en": "Wear warm layers for your walk along the walls, as the wind can be biting; however, the view of the surrounding snow-capped peaks is truly magnificent in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Frühchristliche Basilika",
+                "hu": "Ókeresztény bazilika",
+                "ro": "Bazilica paleocreștină",
+                "en": "Paleochristian Basilica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen zur Mittagszeit, wenn die Wintersonne am stärksten wärmt; achten Sie auf Froststellen auf den Steinen, die morgens glatt sein können.",
+                "hu": "A déli órákban látogassa meg a romokat, amikor a téli nap a legmelegebb; figyeljen a köveken maradt zúzmarára, amely reggelente csúszós felületet képezhet.",
+                "ro": "Vizitați ruinele la prânz, când soarele de iarnă este cel mai puternic; atenție la petele de îngheț de pe pietre, care pot fi alunecoase în primele ore ale zilei.",
+                "en": "Visit the ruins at midday when the winter sun is at its strongest; watch out for frost on the stones, which can create slippery patches in the early hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Wärme gut; nutzen Sie die Zeit hier, um sich aufzuwärmen, während Sie die gemütliche Atmosphäre eines alten albanischen Hauses erleben.",
+                "hu": "A vastag falak jól tartják a hőt; használja ki az időt a felmelegedésre, miközben megtapasztalja egy régi albán polgárház otthonos és barátságos téli hangulatát.",
+                "ro": "Zidurile groase rețin bine căldura; profitați de timp pentru a vă încălzi în timp ce experimentați atmosfera primitoare a unei vechi case burgheze albaneze.",
+                "en": "The thick walls retain heat well; use your time here to warm up while experiencing the cozy and welcoming winter atmosphere of an old Albanian citizen's house."
+              }
+            },
+            {
+              "name": {
+                "de": "Skampa-Theater",
+                "hu": "Skampa Színház",
+                "ro": "Teatrul Skampa",
+                "en": "Skampa Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nach Einbruch der Dunkelheit um 17:00 Uhr ist das beleuchtete Theater ein herrlicher Anblick; genießen Sie die festliche Stimmung in der beheizten Lobby vor der Show.",
+                "hu": "A sötétedés után, 17:00 körül kivilágított színház lenyűgöző látvány; élvezze az ünnepi hangulatot a fűtött előcsarnokban az esti előadás megkezdése előtt.",
+                "ro": "După lăsarea întunericului, în jurul orei 17:00, teatrul iluminat este o vedere superbă; bucurați-vă de atmosfera festivă în holul încălzit înainte de spectacol.",
+                "en": "After dark at 17:00, the illuminated theatre is a stunning sight; enjoy the festive atmosphere in the heated lobby before the evening performance starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római színház",
+                "ro": "Teatrul Roman",
+                "en": "Teatri Roman"
+              },
+              "tip_5lang": {
+                "de": "Das antike Gestein speichert die Kälte; halten Sie den Besuch kurz und bewegen Sie sich stetig, um warm zu bleiben, während Sie die architektonischen Details bewundern.",
+                "hu": "Az antik kövek ontják magukból a hideget; tartsa rövidre a látogatást, és maradjon mozgásban, hogy ne fázzon meg, miközben az építészeti részleteket csodálja.",
+                "ro": "Pietrele antice emană frig; păstrați vizita scurtă și rămâneți în mișcare pentru a nu îngheța în timp ce admirați detaliile arhitecturale ale sitului.",
+                "en": "The ancient stones radiate cold; keep your visit brief and stay moving to keep warm while you admire the architectural details of the historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Aleksandër-Xhuvani-Museum",
+                "hu": "Aleksandër Xhuvani Múzeum",
+                "ro": "Muzeul Aleksandër Xhuvani",
+                "en": "Museum \"Aleksandër Xhuvani\""
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag, um der sinkenden Außentemperatur zu entfliehen; die sanfte Beleuchtung im Inneren sorgt für eine sehr behagliche Stimmung.",
+                "hu": "Ideális helyszín késő délutánra, hogy elmeneküljön a süllyedő kinti hőmérséklet elől; a benti lágy világítás rendkívül meghitt hangulatot áraszt a téli napokon.",
+                "ro": "Un loc ideal pentru după-amiaza târzie pentru a scăpa de temperaturile scăzute; iluminarea blândă din interior creează o atmosferă foarte primitoare iarna.",
+                "en": "An ideal location for late afternoon to escape the dropping temperatures; the soft indoor lighting creates a very cozy atmosphere during the winter days."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggelt Elbasan gazdag történelmének felfedezésével az ősi várfalak és a kora keresztény gyökerek között.\n\nDélben fedezze fel a helyi kultúrát és örökséget a Néprajzi Múzeumban és a történelmi helyszíneken.\n\nDélután ismerje meg a város oktatási hagyatékát és az ókori római maradványokat.\n\nAz este közeledtével kapcsolódjon ki a kulturális központokban vagy a békés családi terekben.",
         "ro": "Începeți dimineața scufundându-vă în istoria bogată a Elbasanului în interiorul zidurilor antice ale castelului.\n\nLa amiază, explorați cultura și patrimoniul local la Muzeul Etnografic și locurile istorice.\n\nPetreceți după-amiaza descoperind moștenirea educațională a orașului și rămășițele romane antice.\n\nSpre seară, relaxați-vă la punctele culturale sau în spațiile pașnice pentru familii pentru a absorbi ritmul local.",
         "en": "Start your morning diving into Elbasan’s rich history within the ancient castle walls and its early Christian roots.\n\nBy midday, explore the local culture and heritage at the Ethnographic Museum and historic venues.\n\nSpend your afternoon discovering the city's educational legacy and ancient Roman remnants.\n\nAs evening approaches, wind down at cultural hotspots or peaceful family spaces to absorb the local rhythm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt vorsichtig auf nassen Reifen in der Burg. Mittags radeln wir schnell zwischen den Schauern zur Basilika. Nachmittags parken wir das Rad sicher beim Museum, um die Ausstellungen trocken zu genießen. Der Abend endet am Skampa-Theater, wo wir das Fahrrad unter einem Vordach abstellen und uns drinnen bei Kultur von der feuchten Fahrt erholen.",
+            "hu": "Óvatosan indul a nap a vár vizes kövein. Délben gyorsan tekerünk a bazilikához a két zápor közötti szünetben. Délután biztonságos, fedett helyen hagyjuk a bringát a múzeumnál, hogy szárazon nézhessük meg a tárlatot. Az estét a Skampa Színháznál zárjuk, ahol a kerékpárt az ereszek alá rejtjük, mi pedig bent melegedünk fel a nyirkos út után.",
+            "ro": "Ziua începe cu prudență pe cauciucuri ude în cetate. La prânz pedalăm rapid spre basilică între reprizele de ploaie. După-amiaza parcăm bicicleta la loc sigur lângă muzeu pentru a savura expozițiile la adăpost. Seara se încheie la Teatrul Skampa, unde lăsăm bicicleta sub o streașină și ne recuperăm la căldură după drumul umed.",
+            "en": "The day starts cautiously on wet tires through the castle. At noon, we cycle quickly between showers to reach the basilica. In the afternoon, we park the bike securely near the museum to enjoy the exhibits while staying dry. The evening ends at the Skampa Theatre, where we tuck the bike under an eave and warm up inside after the damp ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Elbasan",
+                "hu": "Elbasan vára",
+                "ro": "Castelul Elbasan",
+                "en": "Elbasan Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem vorsichtig über das nasse Kopfsteinpflaster in der Burg; nutzen Sie niedrige Gänge und vermeiden Sie abruptes Bremsen auf den glatten Steinen.",
+                "hu": "Rendkívül óvatosan hajtson a vár vizes macskakövein; használjon alacsony fokozatot, és kerülje a hirtelen fékezést a csúszós felületeken a balesetek elkerülésére.",
+                "ro": "Pedalați cu extremă prudență pe pavajul ud din cetate; folosiți viteze mici și evitați frânările bruște pe pietrele lucioase pentru a nu aluneca.",
+                "en": "Ride with extreme caution over the wet cobblestones in the castle; use low gears and avoid sudden braking on the slick stones to prevent any accidents."
+              }
+            },
+            {
+              "name": {
+                "de": "Frühchristliche Basilika",
+                "hu": "Ókeresztény bazilika",
+                "ro": "Bazilica paleocreștină",
+                "en": "Paleochristian Basilica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Grund und achten Sie auf Schlamm auf den Wegen; tragen Sie ein Regencape, da es beim Abstellen keinen unmittelbaren Wetterschutz gibt.",
+                "hu": "Parkoljon szilárd talajon, és figyeljen az utakon felgyülemlett sárra; viseljen esőköpenyt, mivel a romoknál nincs közvetlen fedett hely a kerékpár tárolására.",
+                "ro": "Parcați bicicleta pe teren solid și atenție la noroiul de pe alei; purtați o pelerină de ploaie, deoarece nu există adăpost imediat lângă ruine pentru bicicletă.",
+                "en": "Park your bike on solid ground and watch out for mud on the paths; wear a rain poncho, as there is no immediate shelter for the bike near the open ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine gute Gelegenheit für eine längere Pause im Trockenen; vergewissern Sie sich, dass Ihre Packtaschen wasserdicht verschlossen sind.",
+                "hu": "A múzeumlátogatás kiváló alkalom egy hosszabb száraz pihenőre; győződjön meg róla, hogy a kerékpáros táskái vízhatlanul le vannak zárva az eső elleni védelemként.",
+                "ro": "Vizita la muzeu este o ocazie excelentă pentru o pauză lungă la uscat; asigurați-vă că gențile de bicicletă sunt închise etanș pentru a proteja conținutul.",
+                "en": "The museum visit is a great opportunity for a longer dry break; make sure your bike panniers are tightly sealed to protect your belongings from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aleksandër-Xhuvani-Museum",
+                "hu": "Aleksandër Xhuvani Múzeum",
+                "ro": "Muzeul Aleksandër Xhuvani",
+                "en": "Museum \"Aleksandër Xhuvani\""
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Sichtverhältnisse bei Regen während der Anfahrt; ein gut funktionierendes Rücklicht ist wichtig, um im grauen Wetter besser gesehen zu werden.",
+                "hu": "Figyeljen a látási viszonyokra az esőben; egy jól működő hátsó lámpa elengedhetetlen, hogy a szürke, csapadékos időben is jól látható maradjon a forgalomban.",
+                "ro": "Atenție la vizibilitatea redusă pe ploaie în timpul deplasării; un stop funcțional este esențial pentru a fi văzut în traficul aglomerat și pe vreme gri.",
+                "en": "Pay attention to visibility in the rain during your ride; a well-functioning rear light is essential to stay visible in the grey, rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz Qamil Guranjaku",
+                "hu": "Qamil Guranjaku játszótér",
+                "ro": "Locul de joacă Qamil Guranjaku",
+                "en": "Kendi i lodrave i shkolles Qamil Guranjaku"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte sind bei Regen unbenutzbar und nass; nutzen Sie den Stopp nur kurz, um die Beine auszuschütteln, bevor es zum nächsten trockenen Ziel geht.",
+                "hu": "A játékok esőben vizesek és használhatatlanok; csak egy rövid pihenőre álljon meg, hogy átmozgassa a lábait, mielőtt továbbindulna a következő fedett helyszínre.",
+                "ro": "Echipamentele de joacă sunt ude și inutilizabile pe ploaie; opriți-vă doar scurt pentru a vă întinde picioarele înainte de a pleca spre următoarea destinație.",
+                "en": "The playground equipment is wet and unusable in the rain; stop only briefly to stretch your legs before moving on to the next indoor destination on your list."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Normalschule",
+                "hu": "Tanítóképző Múzeum",
+                "ro": "Muzeul Școlii Normale",
+                "en": "Muzeu i Shkollës Normale të Elbasanit"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer idealer Indoor-Stopp; wischen Sie den Sattel vor der Weiterfahrt gründlich ab, um nicht auf einer komplett nassen Fläche sitzen zu müssen.",
+                "hu": "Újabb kiváló beltéri megálló; mielőtt továbbindulna, alaposan törölje le a nyerget, hogy ne egy teljesen vizes felületen kelljen megtennie a hátralévő utat.",
+                "ro": "O altă oprire excelentă în interior; înainte de a pleca, ștergeți bine șaua pentru a nu sta pe o suprafață complet udă pe parcursul restului drumului.",
+                "en": "Another excellent indoor stop; before heading out again, wipe your saddle thoroughly so you don't have to sit on a completely wet surface for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Skampa-Theater",
+                "hu": "Skampa Színház",
+                "ro": "Teatrul Skampa",
+                "en": "Skampa Theatre"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad an einem geschützten Ort an; nach der Tour durch den Regen ist die warme Atmosphäre des Theaters die perfekte Belohnung für den Tag.",
+                "hu": "Zárja le a bringát egy védett helyen; az esős tekerés után a színház meleg és elegáns atmoszférája a tökéletes jutalom a nap végén minden kerékpárosnak.",
+                "ro": "Încuiați bicicleta într-un loc ferit; după pedalarea prin ploaie, atmosfera caldă a teatrului este recompensa perfectă pentru încheierea zilei de vizitare.",
+                "en": "Lock your bike in a sheltered spot; after cycling through the rain, the warm atmosphere of the theatre is the perfect reward at the end of your cycling day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir durch die Burg, wobei Handschuhe gegen den Fahrtwind unerlässlich sind. Mittags machen wir kurze Stopps an den Außenstätten und suchen bald die Wärme der Museen. Da es um 17:00 Uhr dunkel wird, beenden wir unsere Tour frühzeitig am Skampa-Theater und genießen den beleuchteten Stadtkern, bevor die Temperaturen stark sinken.",
+            "hu": "Kora reggel tekerünk át a váron, a menetszél ellen a kesztyű elengedhetetlen. Délben csak rövid időt töltünk a kültéri helyszíneken, hamar a fűtött múzeumok felé vesszük az irányt. Mivel 17:00-kor sötétedik, a túrát korán befejezzük a Skampa Színháznál, és még a nagy lehűlés előtt élvezzük a kivilágított belvárost.",
+            "ro": "Dis-de-dimineață pedalăm prin cetate, mănușile fiind esențiale împotriva vântului rece. La prânz facem opriri scurte la exterior și căutăm rapid căldura muzeelor. Deoarece se întunecă la ora 17:00, încheiem turul devreme la Teatrul Skampa, admirând centrul iluminat înainte ca temperaturile să scadă drastic.",
+            "en": "Early morning cycling through the castle requires gloves against the freezing wind. At noon, we make brief stops at outdoor sites, quickly moving to the warmth of museums. Since it gets dark at 17:00, we end the tour early at Skampa Theatre, enjoying the city lights before the evening temperatures drop significantly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg von Elbasan",
+                "hu": "Elbasan vára",
+                "ro": "Castelul Elbasan",
+                "en": "Elbasan Castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da der Fahrtwind zwischen den Mauern im Winter extrem auskühlen kann; halten Sie die Fahrtzeit auf den offenen Wegen kurz.",
+                "hu": "Viseljen szélálló ruházatot, mert a menetszél a várfalak között télen rendkívül lehűtheti a testét; tartsa rövidre a nyílt szakaszokon való biciklizést.",
+                "ro": "Purtați haine rezistente la vânt, deoarece curentul dintre ziduri vă poate răci rapid corpul iarna; limitați timpul petrecut pe secțiunile deschise.",
+                "en": "Wear windproof clothing as the wind between the castle walls can be extremely cold in winter; keep your riding time on the open sections as brief as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Frühchristliche Basilika",
+                "hu": "Ókeresztény bazilika",
+                "ro": "Bazilica paleocreștină",
+                "en": "Paleochristian Basilica"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Boden auf Reif oder Eis, bevor Sie absteigen; nutzen Sie die Mittagssonne für diesen Stopp, um die tiefste Kälte des Morgens zu vermeiden.",
+                "hu": "Ellenőrizze a talajt, nincs-e rajta dér vagy jég, mielőtt leszállna a bringáról; a déli napsütést válassza a látogatásra, hogy elkerülje a reggeli fagyokat.",
+                "ro": "Verificați solul pentru gheață înainte de a coborî de pe bicicletă; alegeți soarele de la prânz pentru vizită pentru a evita gerul de dimineață.",
+                "en": "Check the ground for frost or ice before dismounting your bike; choose the midday sun for your visit to avoid the harshest morning temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; Ihre Muskeln werden es Ihnen danken, bevor Sie die Fahrt durch die kühle Winterluft fortsetzen.",
+                "hu": "Használja ki a múzeumlátogatást egy alapos melegedő szünetnek; izmai hálásak lesznek a pihenőért, mielőtt újra a hűvös téli levegőn folytatná a tekerést.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză de încălzire; mușchii vă vor mulțumi pentru repaus înainte de a continua drumul prin aerul rece de iarnă.",
+                "en": "Use the museum visit as a thorough warming-up break; your muscles will appreciate the rest before you continue cycling through the cool winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Aleksandër-Xhuvani-Museum",
+                "hu": "Aleksandër Xhuvani Múzeum",
+                "ro": "Muzeul Aleksandër Xhuvani",
+                "en": "Museum \"Aleksandër Xhuvani\""
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Sicht im winterlichen Dämmerlicht ab 16:30 Uhr bereits deutlich nachlässt.",
+                "hu": "Győződjön meg róla, hogy a kerékpáros világítása kifogástalanul működik, mert a téli szürkületben 16:30 után már jelentősen romlanak a látási viszonyok.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează perfect, deoarece vizibilitatea scade semnificativ după ora 16:30 în amurgul de iarnă.",
+                "en": "Ensure your bike lighting is in perfect working order, as visibility drops significantly after 16:30 in the winter twilight hours during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz Qamil Guranjaku",
+                "hu": "Qamil Guranjaku játszótér",
+                "ro": "Locul de joacă Qamil Guranjaku",
+                "en": "Kendi i lodrave i shkolles Qamil Guranjaku"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft am Spielplatz lädt nicht zum Verweilen ein; machen Sie ein paar Dehnübungen und radeln Sie zügig weiter, um die Körperwärme zu halten.",
+                "hu": "A játszótér hideg levegője nem hívogat hosszas időzésre; végezzen pár nyújtó gyakorlatot, majd tekerjen tovább tempósan, hogy megőrizze testhőmérsékletét.",
+                "ro": "Aerul rece de la locul de joacă nu invită la popasuri lungi; faceți câteva exerciții de stretching și pedalați rapid mai departe pentru a menține căldura.",
+                "en": "The cold air at the playground doesn't invite long stays; do a few stretching exercises and cycle on briskly to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Normalschule",
+                "hu": "Tanítóképző Múzeum",
+                "ro": "Muzeul Școlii Normale",
+                "en": "Muzeu i Shkollës Normale të Elbasanit"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um kurz vor dem Ende der Tour noch einmal Energie im Warmen zu tanken; genießen Sie die historischen Exponate in aller Ruhe.",
+                "hu": "Kiváló helyszín, hogy a túra vége előtt még egyszer energiát gyűjtsön a melegben; élvezze a történelmi kiállítási tárgyakat teljes nyugalomban.",
+                "ro": "Un loc excelent pentru a acumula energie la căldură înainte de finalul turului; bucurați-vă de obiectele istorice expuse în deplină liniște.",
+                "en": "An excellent location to gather some energy in the warmth before the end of the tour; enjoy the historical exhibits in complete peace and comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Skampa-Theater",
+                "hu": "Skampa Színház",
+                "ro": "Teatrul Skampa",
+                "en": "Skampa Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nach dem frühen Sonnenuntergang ist das Theater der perfekte Abschluss; parken Sie das Rad und genießen Sie die warme, kulturelle Atmosphäre des Hauses.",
+                "hu": "A korai naplemente után a színház a tökéletes befejezés; parkolja le a bringát, és élvezze az épület meleg, kulturális atmoszféráját a nap végén.",
+                "ro": "După apusul devreme, teatrul este finalul perfect; parcați bicicleta și bucurați-vă de atmosfera caldă și culturală a clădirii la sfârșitul zilei.",
+                "en": "After the early sunset, the theatre is the perfect finale; park your bike and enjoy the warm, cultural atmosphere of the building to end your day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje a reggelt Elbasan gazdag történelmének felfedezésével az ősi várfalak és a kora keresztény gyökerek között.\n\nDélben fedezze fel a helyi kultúrát és örökséget a Néprajzi Múzeumban és a történelmi helyszíneken.\n\nDélután ismerje meg a város oktatási hagyatékát és az ókori római maradványokat.\n\nAz este közeledtével kapcsolódjon ki a kulturális központokban vagy a békés családi terekben.",
         "ro": "Începeți dimineața scufundându-vă în istoria bogată a Elbasanului în interiorul zidurilor antice ale castelului.\n\nLa amiază, explorați cultura și patrimoniul local la Muzeul Etnografic și locurile istorice.\n\nPetreceți după-amiaza descoperind moștenirea educațională a orașului și rămășițele romane antice.\n\nSpre seară, relaxați-vă la punctele culturale sau în spațiile pașnice pentru familii pentru a absorbi ritmul local.",
         "en": "Start your morning diving into Elbasan’s rich history within the ancient castle walls and its early Christian roots.\n\nBy midday, explore the local culture and heritage at the Ethnographic Museum and historic venues.\n\nSpend your afternoon discovering the city's educational legacy and ancient Roman remnants.\n\nAs evening approaches, wind down at cultural hotspots or peaceful family spaces to absorb the local rhythm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten bequem mit dem Auto und parken nah am Römischen Theater. Mittags erreichen wir die Burg trocken und nutzen die Parkplätze direkt vor den Mauern. Nachmittags bietet die Fahrt zum Ajek-Park eine Pause vom Regen im warmen Innenraum. Den Abend verbringen wir entspannt im Lambertini-Zentrum, während wir das Auto sicher in der Nähe abgestellt haben.",
+            "hu": "Kényelmesen, autóval indul a nap, közvetlenül a Római színháznál parkolunk. Délben szárazon érkezünk a várhoz, a falak melletti parkolókat használva. Délután az Ajek parkhoz vezető út pihenőt nyújt az eső elől a fűtött utastérben. Az estét az Imelda Lambertini Központban töltjük, miközben autónk biztonságban várakozik a közelben.",
+            "ro": "Începem confortabil cu mașina și parcăm chiar lângă Teatrul Roman. La prânz ajungem uscați la cetate, folosind parcările de lângă ziduri. După-amiaza, drumul spre parcul Ajek oferă o pauză de ploaie în habitaclul cald. Seara o petrecem relaxați la Centrul Imelda Lambertini, cu mașina parcată în siguranță în apropiere.",
+            "en": "The day begins comfortably by car, parking right next to the Roman Theatre. At noon, we arrive dry at the castle, using the parking lots near the walls. In the afternoon, the drive to Ajek Park provides a break from the rain in the warm cabin. We spend the evening relaxed at the Imelda Lambertini Center, with the car securely parked nearby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római színház",
+                "ro": "Teatrul Roman",
+                "en": "Teatri Roman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz so nah wie möglich am Eingang, um den Weg durch den Regen kurz zu halten; die vorderen Plätze sind bei Nässe oft weniger schlammig.",
+                "hu": "Használja a bejárathoz legközelebbi parkolóhelyet, hogy lerövidítse az esőben megtett utat; az elülső helyeknél általában kevesebb a sár és a mély pocsolya.",
+                "ro": "Folosiți locul de parcare cât mai aproape de intrare pentru a scurta drumul prin ploaie; locurile din față sunt de obicei mai puțin noroioase după precipitații.",
+                "en": "Use the parking spot closest to the entrance to shorten your walk in the rain; the front spots are usually less muddy and have fewer deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Elbasan",
+                "hu": "Elbasan vára",
+                "ro": "Castelul Elbasan",
+                "en": "Elbasan Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Manövrieren in den schmalen Zufahrten auf die spiegelglatten Steine; parken Sie das Auto so, dass Sie nicht in einer tiefen Pfütze aussteigen müssen.",
+                "hu": "Vigyázzon a manőverezéskor a szűk bejáratoknál a tükörsima kövekre; úgy parkoljon, hogy kiszálláskor ne egy mély pocsolyába kelljen lépnie az esőben.",
+                "ro": "Atenție la manevre în intrările înguste pe pietrele lucioase; parcați astfel încât să nu coborâți direct într-o baltă adâncă atunci când ieșiți din mașină.",
+                "en": "Be careful when maneuvering in narrow entrances on the slick stones; park in a way that avoids stepping directly into a deep puddle when you exit the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage im Auto hilft, beschlagene Scheiben nach dem Museumsbesuch schnell zu trocknen; parken Sie in den befestigten Seitenstraßen in der Nähe.",
+                "hu": "Az autó klímaberendezése segít gyorsan párátlanítani a szélvédőt a látogatás után; parkoljon a közeli szilárd burkolatú mellékutcákban a sár elkerülésére.",
+                "ro": "Aerul condiționat al mașinii ajută la dezaburirea rapidă a parbrizului după vizită; parcați pe străzile laterale pavate din apropiere pentru a evita noroiul.",
+                "en": "The car's air conditioning will help quickly defog the windshield after your visit; park on the nearby paved side streets to avoid messy mud and dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajek Familienpark",
+                "hu": "Ajek családi park",
+                "ro": "Parcul Ajek",
+                "en": "Ajek"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Parkplatz oft überschwemmt; prüfen Sie die Zufahrt vorsichtig und bleiben Sie für den Ausblick lieber kurz im trockenen Wagen sitzen.",
+                "hu": "Heves esőzéskor a parkoló gyakran víz alá kerülhet; óvatosan ellenőrizze a behajtót, és inkább maradjon a száraz autóban, ha a kilátást szeretné élvezni.",
+                "ro": "În caz de ploaie torențială, parcarea poate fi inundată; verificați cu atenție accesul și preferați să rămâneți în mașină pentru a admira priveliștea.",
+                "en": "During heavy rain, the parking area can often flood; check the entrance carefully and stay in the dry car if you just want to enjoy the outdoor view."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Normalschule",
+                "hu": "Tanítóképző Múzeum",
+                "ro": "Muzeul Școlii Normale",
+                "en": "Muzeu i Shkollës Normale të Elbasanit"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp mit guten Parkmöglichkeiten in der Umgebung; nutzen Sie die Zeit drinnen, während das Auto draußen vom Regen sauber gewaschen wird.",
+                "hu": "Ideális beltéri megálló jó parkolási lehetőségekkel a környéken; használja ki a benti időt, miközben az autó kint megázik, de Ön teljesen száraz marad.",
+                "ro": "O oprire ideală în interior cu opțiuni bune de parcare în zonă; profitați de timpul petrecut înăuntru în timp ce mașina stă afară în ploaie, ferită.",
+                "en": "An ideal indoor stop with good parking options nearby; take advantage of the indoor time while the car is outside, keeping you perfectly dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Imelda Lambertini Zentrum",
+                "hu": "Imelda Lambertini Központ",
+                "ro": "Centrul Imelda Lambertini",
+                "en": "Imelda Lambertini"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag entspannt im Inneren; das Auto wartet warm auf Sie für die Rückfahrt, sodass Sie nicht nass in den Abend starten müssen.",
+                "hu": "Zárja a napot kényelmesen bent; az autó melegen várja Önt a hazaútra, így nem kell ázottan nekivágnia az estének a látogatás befejezése után.",
+                "ro": "Încheiați ziua confortabil în interior; mașina vă așteaptă caldă pentru drumul de întoarcere, astfel încât să nu începeți seara uzi după vizită.",
+                "en": "End the day comfortably inside; the car waits warm for your return journey, so you don't have to start your evening damp after the final visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt im warmen Auto mit der Fahrt zum Römischen Theater. Mittags erreichen wir die Burg und genießen die klare Luft, bevor wir uns im Wagen wieder aufwärmen. Nachmittags besuchen wir die Museen, während das Auto in der Nähe parkt. Wegen des Sonnenuntergangs um 17:00 Uhr erleben wir die beleuchtete Stadt komfortabel aus dem Wagen oder bei kurzen Stopps im Zentrum.",
+            "hu": "A téli nap a fűtött autóban indul a Római színház felé. Délben érkezünk a várhoz, élvezzük a friss levegőt, majd gyorsan visszatérünk a meleg utastérbe. Délután a múzeumokat látogatjuk, autónkkal a közelben parkolva. A korai, 17:00-s sötétedés miatt a kivilágított várost kényelmesen, az autóból vagy rövid sétákkal fedezzük fel.",
+            "ro": "Ziua de iarnă începe în mașina încălzită spre Teatrul Roman. La prânz ajungem la cetate și ne bucurăm de aerul curat înainte de a ne încălzi din nou în vehicul. După-amiaza vizităm muzeele, cu mașina parcată aproape. Din cauza apusului la ora 17:00, admirăm orașul iluminat confortabil din mașină sau prin scurte opriri în centru.",
+            "en": "The winter day starts in a heated car driving to the Roman Theatre. At noon, we reach the castle, enjoying the crisp air before quickly returning to the warm cabin. In the afternoon, we visit museums with the car parked nearby. With sunset at 17:00, we experience the illuminated city comfortably from the car or during brief stops downtown."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Römisches Theater",
+                "hu": "Római színház",
+                "ro": "Teatrul Roman",
+                "en": "Teatri Roman"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Heizung vorzubereiten, falls Sie nach der Besichtigung schnell wieder ins Warme möchten; parken Sie direkt am Rand.",
+                "hu": "Hagyja a fűtést magasabb fokozaton, hogy a látogatás után gyorsan felmelegedhessen; parkoljon közvetlenül a szélén, hogy minimális legyen a kinti séta.",
+                "ro": "Lăsați încălzirea la un nivel ridicat pentru a vă putea încălzi rapid după vizită; parcați chiar la margine pentru a minimiza timpul petrecut în frig.",
+                "en": "Keep the heater on a high setting so you can warm up quickly after your visit; park right at the edge to minimize your time spent walking in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Elbasan",
+                "hu": "Elbasan vára",
+                "ro": "Castelul Elbasan",
+                "en": "Elbasan Castle"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisglätte in den schattigen Gassen der Burgzufahrt; parken Sie auf sonnigen Plätzen, damit das Auto während Ihres Aufenthalts nicht zu stark auskühlt.",
+                "hu": "Vigyázzon a jegesedésre a várbejárat árnyékos részein; parkoljon napos helyen, hogy az autó ne hűljön le túlságosan, amíg Ön a falak között sétál.",
+                "ro": "Atenție la polei în zonele umbrite de la intrarea în cetate; parcați la soare pentru ca mașina să nu se răcească prea tare în timp ce vă plimbați.",
+                "en": "Watch out for icy patches in the shaded areas of the castle entrance; park in a sunny spot so the car doesn't cool down too much while you're walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Ethnographisches Museum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic",
+                "en": "Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrt zwischen den Zielen, um die Hände an der Lüftung aufzuwärmen; Parkplätze finden sich meist problemlos in den umliegenden Straßen.",
+                "hu": "Használja ki az úti célok közötti autózást, hogy felmelegítse a kezét a szellőzőknél; parkolóhelyet általában könnyen talál a környező utcákban télen is.",
+                "ro": "Profitați de drumul dintre obiective pentru a vă încălzi mâinile la aeratoare; locurile de parcare se găsesc de obicei ușor pe străzile din jur iarna.",
+                "en": "Take advantage of the drive between stops to warm your hands at the vents; parking spaces are usually easy to find in the surrounding streets during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajek Familienpark",
+                "hu": "Ajek családi park",
+                "ro": "Parcul Ajek",
+                "en": "Ajek"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier oft windig; bewundern Sie den Park lieber aus dem Auto heraus, bevor Sie zum nächsten warmen Indoor-Ziel weiterfahren.",
+                "hu": "Télen itt gyakran fúj a szél; csodálja meg a parkot inkább az autóból, mielőtt továbbindulna a következő fűtött, beltéri úti célja felé a túra során.",
+                "ro": "Iarna este adesea vânt aici; admirați parcul mai degrabă din mașină înainte de a pleca spre următoarea destinație încălzită din itinerariul dumneavoastră.",
+                "en": "It's often windy here in winter; admire the park from the comfort of your car instead before moving on to the next warm indoor destination on your list."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Normalschule",
+                "hu": "Tanítóképző Múzeum",
+                "ro": "Muzeul Școlii Normale",
+                "en": "Muzeu i Shkollës Normale të Elbasanit"
+              },
+              "tip_5lang": {
+                "de": "Dank der kurzen Wege vom Parkplatz zum Museum bleiben Sie warm; genießen Sie die winterliche Ruhe in der geschichtsträchtigen Atmosphäre des Hauses.",
+                "hu": "A parkolótól a múzeumig tartó rövid útnak köszönhetően végig melegben maradhat; élvezze a téli nyugalmat a ház történelemmel átitatott belső tereiben.",
+                "ro": "Datorită drumului scurt de la parcare la muzeu, veți rămâne la căldură; bucurați-vă de liniștea iernii în atmosfera plină de istorie a clădirii.",
+                "en": "Thanks to the short walk from the parking area to the museum, you'll stay warm; enjoy the winter peace in the history-steeped atmosphere of the house."
+              }
+            },
+            {
+              "name": {
+                "de": "Imelda Lambertini Zentrum",
+                "hu": "Imelda Lambertini Központ",
+                "ro": "Centrul Imelda Lambertini",
+                "en": "Imelda Lambertini"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17:00 Uhr bereits dunkel ist, bietet das Zentrum einen gemütlichen, beleuchteten Abschluss; die Rückfahrt im warmen Auto ist danach sehr angenehm.",
+                "hu": "Mivel 17:00-kor már sötét van, a központ meghitt, kivilágított zárást kínál; a hazaút a fűtött autóban utána rendkívül kényelmes és pihentető lesz.",
+                "ro": "Deoarece este deja întuneric la ora 17:00, centrul oferă un final primitor și iluminat; drumul spre casă în mașina caldă va fi apoi foarte relaxant.",
+                "en": "Since it's already dark by 17:00, the center offers a cozy, illuminated finale; the journey home in a heated car will be very comfortable afterwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

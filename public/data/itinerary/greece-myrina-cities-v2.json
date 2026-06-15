@@ -160,6 +160,196 @@
         "hu": "A délelőtt Myrinában a Poszeidón-szoborral és egy frissítő sétával indul a Tourkikos Gialosnál. Ezt követően az ókori romok közé vezet az utunk.\nDélben a lenyűgöző Dapia erődöt fedezzük fel, amelynek falairól páratlan kilátás nyílik a tengerre. A hűvös szellő itt igazán felüdítő.\nDélután a kultúráé a főszerep: a Limnosz Múzeum gazdag leleteit tanulmányozzuk, majd a helyi hősök csendes emlékművénél pihenünk meg.\nAz este nyugodtan telik a központ sikátoraiban. Élvezze az Égei-tenger pihentető hangulatát egy pohár bor kíséretében.",
         "ro": "Dimineața în Myrina începe cu impunătoarea statuie a lui Poseidon și o promenadă la Tourkikos Gialos, înainte de a păși printre ruinele Anticei Myrina.\nLa prânz explorăm fortăreața Dapia, unde zidurile seculare ne oferă o panoramă uluitoare. Briza marină face urcușul mult mai plăcut aici.\nDupă-amiaza este dedicată culturii la Muzeul Lemnos, plin de artefacte preistorice, urmat de un scurt popas la monumentul eroilor, plin de liniște.\nSeara se încheie domol pe străduțele centrale, perfecte pentru a savura atmosfera mării Egee la o terasă locală primitoare.",
         "en": "Morning in Myrina starts with the iconic Poseidon statue and a refreshing stroll along Tourkikos Gialos, before stepping back in time at Ancient Myrina.\nMidday takes us to the impressive Dapia fortress, where the old walls offer breathtaking views. The sea breeze here is particularly refreshing.\nAfternoon shifts to cultural immersion at the Lemnos Museum, exploring its rich prehistoric finds, followed by a quiet moment at the local heroes' monument.\nThe evening winds down gracefully in the center’s charming alleys. Enjoy the relaxing Aegean atmosphere with a local dinner or a glass of wine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir Poseidon im Regen, während die Gischt dramatisch gegen die Kaimauer schlägt. Mittags suchen wir Schutz in den überdachten Gassen rund um den Tourkikos Gialos. Nachmittags erkunden wir die antiken Ruinen, wobei wir auf den rutschigen Pfaden Vorsicht walten lassen. Abends bietet das archäologische Museum eine trockene und faszinierende Zuflucht vor dem Wetter.",
+            "hu": "Reggel a Poszeidón-szobornál kezdünk, ahol az esőfüggöny drámai hátteret ad a tengernek. Délben a Tourkikos Gialos fedett árkádjai alatt pihenünk meg a sétában. Délután az ókori romok között kalandozunk, ügyelve a vizes, csúszós kövekre. Estére a múzeum belső terei nyújtanak tökéletes és száraz kulturális kikapcsolódást a város szívében.",
+            "ro": "Dimineața admirăm statuia lui Poseidon sub ploaie, cu marea agitată creând un decor dramatic. La prânz, ne adăpostim în zonele acoperite din Tourkikos Gialos pentru o scurtă pauză. După-amiaza explorăm ruinele antice, fiind atenți la potecile alunecoase dintre pietre. Seara, muzeul arheologic ne oferă un refugiu uscat și plin de istorie, departe de vremea neprietenoasă.",
+            "en": "In the morning, we view the Poseidon Statue as the rain adds a dramatic mist to the harbor. At noon, we find shelter under the covered spots of Tourkikos Gialos for a brief rest. Afternoon is spent at the ancient ruins, navigating the slippery stones with care. In the evening, the archaeological museum provides a dry and fascinating sanctuary from the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Poseidon-Statur",
+                "hu": "Poszeidón-szobor",
+                "ro": "Statuia lui Poseidon",
+                "en": "Poseidon Statue"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen vom Dreizack tropft und die Statue majestätisch im grauen Licht glänzt; ein fester Regenschirm ist wegen der Küstenwinde unerlässlich.",
+                "hu": "Figyeld meg, ahogy az esőcseppek leperegnek a szoborról, különleges hangulatot árasztva a szürkületben; a tengeri szél miatt egy viharálló esernyő kötelező kellék.",
+                "ro": "Observă cum picăturile de ploaie se scurg de pe trident, oferind statuii un aspect maiestuos în lumina gri; o umbrelă rezistentă la vânt este esențială aici.",
+                "en": "Watch the rain fall from the trident, making the statue look even more powerful against the gray sky; a sturdy umbrella is a must due to the coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourkikos Gialos",
+                "hu": "Tourkikos Gialos",
+                "ro": "Tourkikos Gialos",
+                "en": "Tourkikos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tanzenden Boote im Hafen von einem der gemütlichen, überdachten Cafés aus; wasserfeste Schuhe sind für die gepflasterten Wege ratsam.",
+                "hu": "Élvezd a ringatózó hajók látványát a kikötőben egy hangulatos fedett kávézó biztonságából; a kövezett utak miatt vízhatlan lábbeli viselése ajánlott.",
+                "ro": "Bucură-te de vederea bărcilor care dansează în port dintr-o cafenea primitoare și acoperită; încălțămintea impermeabilă este recomandată pentru drumurile pavate.",
+                "en": "Enjoy the sight of bobbing boats in the harbor from the safety of a cozy covered cafe; waterproof shoes are advised for the slick cobblestone paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Myrina",
+                "hu": "Ókori Myrina",
+                "ro": "Myrina Antică",
+                "en": "Ancient Myrina"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen wirken im Regen mystisch, doch die antiken Steine können sehr glatt sein; tragen Sie Schuhe mit gutem Profil und nutzen Sie eine Regenjacke.",
+                "hu": "Az ásatások misztikus látványt nyújtanak az esőben, de az antik kövek rendkívül csúszósak lehetnek; válassz tapadós talpú cipőt és viselj esőkabátot.",
+                "ro": "Săpăturile par mistice sub ploaie, însă pietrele antice pot fi foarte alunecoase; poartă încălțăminte cu aderență bună și folosește o pelerină de ploaie.",
+                "en": "The excavations look mystical in the rain, but the ancient stones can be very slippery; wear shoes with good grip and opt for a raincoat over an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Dapia von Limnos",
+                "hu": "Limnos Dapiája",
+                "ro": "Dapia din Lemnos",
+                "en": "Dapia of Lemnos"
+              },
+              "tip_5lang": {
+                "de": "Von den Festungsmauern haben Sie einen weiten Blick über die wolkenverhangene Ägäis; halten Sie sich an den Mauern fest, da die Stufen bei Nässe tückisch sind.",
+                "hu": "A várfalakról lenyűgöző kilátás nyílik a felhőkbe burkolózott Égei-tengerre; kapaszkodj a falakba, mert a lépcsők nedvesen csalókák lehetnek.",
+                "ro": "De pe zidurile cetății ai o vedere panoramică asupra mării acoperite de nori; ține-te de balustrade, deoarece treptele sunt înșelătoare când sunt ude.",
+                "en": "From the fortress walls, you have a vast view of the cloud-covered Aegean; hold onto the walls as the steps are treacherous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Limnos",
+                "hu": "Limnosz Múzeum",
+                "ro": "Muzeul Lemnos",
+                "en": "Lemnos Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Besuch der Indoor-Ausstellungen zur Inselgeschichte; geben Sie nasse Mäntel im Eingangsbereich ab, um die Exponate zu schonen.",
+                "hu": "Használd ki az esőt a sziget történelmét bemutató fedett kiállítások alapos felfedezésére; a vizes kabátokat hagyd a ruhatárban a műtárgyak védelme érdekében.",
+                "ro": "Profită de ploaie pentru o vizită detaliată a expozițiilor interioare despre istoria insulei; lasă hainele ude la intrare pentru a proteja exponatele.",
+                "en": "Use the rain as an excuse for an extensive visit to the indoor exhibits on island history; leave wet coats at the entrance to help preserve the artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal Pesonton Ierolokhiton",
+                "hu": "Pesonton Ierolokhiton emlékmű",
+                "ro": "Monumentul Pesonton Ierolokhiton",
+                "en": "Mnemeio Pesonton Ierolokhiton"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Halt am Denkmal, dessen weißer Marmor im Regen besonders rein wirkt; halten Sie sich danach für einen warmen Drink in der Nähe bereit.",
+                "hu": "Rövid, tiszteletteljes megálló az emlékműnél, melynek fehér márványa az esőben különösen tisztának tűnik; látogatás után keress egy közeli meleg teázót.",
+                "ro": "O oprire scurtă și solemnă la monument, al cărui marmură albă pare deosebit de curată sub ploaie; după vizită, caută un loc cald în apropiere pentru un ceai.",
+                "en": "A short, reflective stop at the memorial, whose white marble looks exceptionally pure in the rain; head to a nearby cafe for a warm drink immediately after."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Myrina ist frisch und klar, ideal für einen Spaziergang zur Poseidon-Statue. Mittags wärmen wir uns in den windgeschützten Gassen der Altstadt auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir die archäologischen Stätten am frühen Nachmittag. Den Abend verbringen wir gemütlich im Museum, bevor die Dunkelheit die Stadt einhüllt.",
+            "hu": "A téli reggel Myrinában friss és tiszta, tökéletes egy sétához a Poszeidón-szoborig. Délben az óváros szélvédett utcáin keressük a napsütötte sarkokat. Mivel a nap már 17:00 körül nyugovóra tér, a romokat kora délután keressük fel. Az estét a múzeum falai között töltjük, mielőtt a téli sötétség teljesen birtokba venné a kikötőt.",
+            "ro": "Dimineața de iarnă în Myrina este proaspătă și senină, ideală pentru o plimbare spre statuia lui Poseidon. La prânz, ne încălzim pe străzile ferite de vânt ale orașului vechi. Deoarece soarele apune în jurul orei 17:00, vizităm siturile arheologice devreme. Seara o petrecem confortabil în muzeu, înainte ca întunericul să cuprindă întregul oraș.",
+            "en": "The winter morning in Myrina is crisp and clear, perfect for a brisk walk to the Poseidon Statue. At noon, we warm up in the wind-sheltered alleys of the old town. Since the sun sets around 17:00, we visit the archaeological sites in the early afternoon. We spend the evening cozily inside the museum before the winter darkness falls over the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Poseidon-Statur",
+                "hu": "Poszeidón-szobor",
+                "ro": "Statuia lui Poseidon",
+                "en": "Poseidon Statue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Ägäis, die im Winter besonders weit reicht; eine winddichte Jacke ist wegen der kühlen Meeresbrise absolut notwendig.",
+                "hu": "Élvezd a kristálytiszta kilátást az Égei-tengerre, ami télen különösen messzire nyúlik; a hűvös tengeri szél miatt egy szélálló dzseki elengedhetetlen.",
+                "ro": "Bucură-te de vizibilitatea clară asupra mării, care iarna pare mult mai vastă; o jachetă rezistentă la vânt este absolut necesară din cauza brizelor reci.",
+                "en": "Enjoy the crystal-clear views across the Aegean, which stretch further in winter; a windproof jacket is essential against the sharp coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourkikos Gialos",
+                "hu": "Tourkikos Gialos",
+                "ro": "Tourkikos Gialos",
+                "en": "Tourkikos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das ruhige Winterleben der Fischer im Hafen fernab der Touristenmassen; kleiden Sie sich im Zwiebelprinzip, um für sonnige Abschnitte bereit zu sein.",
+                "hu": "Figyeld meg a halászok nyugodt téli életét a kikötőben, távol a turisták tömegétől; öltözz rétegesen, hogy a napsütéses pillanatokban is kényelmesen érezd magad.",
+                "ro": "Observă viața liniștită de iarnă a pescarilor în port, departe de aglomerație; îmbracă-te în straturi pentru a fi pregătit pentru momentele cu soare.",
+                "en": "Observe the quiet winter life of local fishermen in the harbor, far from the crowds; dress in layers to stay comfortable during any sunny intervals."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Myrina",
+                "hu": "Ókori Myrina",
+                "ro": "Myrina Antică",
+                "en": "Ancient Myrina"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen ohne die Sommerhitze, was den Aufstieg deutlich angenehmer macht; achten Sie auf den frühen Schattenwurf der Felsen am Nachmittag.",
+                "hu": "Fedezd fel a romokat a nyári hőség nélkül, ami sokkal kellemesebbé teszi a kapaszkodót; figyelj a sziklák korai árnyékaira a délutáni órákban.",
+                "ro": "Explorează ruinele fără căldura verii, ceea ce face urcarea mult mai plăcută; fii atent la umbrele lungi lăsate de stânci după-amiaza devreme.",
+                "en": "Explore the ruins without the summer heat, making the climb much more enjoyable; be mindful of the long shadows cast by the rocks in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Dapia von Limnos",
+                "hu": "Limnos Dapiája",
+                "ro": "Dapia din Lemnos",
+                "en": "Dapia of Lemnos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der Küste von den hohen Zinnen der Festung aus; tragen Sie Handschuhe, da der Wind an exponierten Stellen sehr eisig sein kann.",
+                "hu": "Éld át a tengerpart vad szépségét a vár legmagasabb pontjairól; viselj kesztyűt, mert a szél a nyitottabb részeken metszően hideg lehet.",
+                "ro": "Experimentează frumusețea sălbatică a coastei de pe meterezele înalte ale cetății; poartă mănuși, deoarece vântul poate fi înghețat în locurile expuse.",
+                "en": "Experience the rugged beauty of the coast from the high ramparts of the fortress; wear gloves as the wind can be biting at these exposed heights."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Limnos",
+                "hu": "Limnosz Múzeum",
+                "ro": "Muzeul Lemnos",
+                "en": "Lemnos Museum"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizten Räume laden zum Verweilen und tiefen Eintauchen in die antike Kultur ein; nutzen Sie die ruhigen Winterstunden für ein ungestörtes Studium der Funde.",
+                "hu": "A jól fűtött termek marasztalóak és lehetőséget adnak az antik kultúrában való elmélyülésre; használd ki a csendes téli órákat a leletek nyugodt tanulmányozására.",
+                "ro": "Sălile bine încălzite te invită să zăbovești și să te adâncești în cultura antică; profită de orele liniștite de iarnă pentru o studiere neîntreruptă a exponatelor.",
+                "en": "The well-heated rooms invite you to stay longer and dive deep into ancient culture; take advantage of the quiet winter hours for an undisturbed look at the finds."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal Pesonton Ierolokhiton",
+                "hu": "Pesonton Ierolokhiton emlékmű",
+                "ro": "Monumentul Pesonton Ierolokhiton",
+                "en": "Mnemeio Pesonton Ierolokhiton"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch kurz vor Sonnenuntergang bietet ein besonders emotionales Licht für Fotos; denken Sie daran, dass es nach 17:00 Uhr sehr schnell abkühlt.",
+                "hu": "A naplemente előtti látogatás különleges, érzelemdús fényeket kínál a fotózáshoz; ne feledd, hogy 17:00 után a hőmérséklet hirtelen zuhanni kezd.",
+                "ro": "Vizita chiar înainte de apus oferă o lumină emoționantă pentru fotografii; nu uita că temperatura scade foarte rapid după ora 17:00.",
+                "en": "Visiting just before sunset offers particularly emotional lighting for photos; remember that the temperature drops very quickly after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúránk a festői szélmalomnál indul, ahol friss szellő fúj. Egy rövid tekerés elvisz minket a bájos Tourkikos Gialos strandhoz.\nDélben elhagyjuk a partot, hogy felfedezzük az ókori Myrina romjait. Az oda vezető utak csodálatosan felfedezhetők kerékpárral.\nDélután a központba pedálozunk a Limnosz Múzeumhoz. Innen csak egy kőhajításnyira van az őskori Myrina ásatási területe.\nA napot Manosban fejezzük be nyugodtan. Az esti kerékpározás a víz mentén, naplemente idején, felejthetetlen élmény marad.",
         "ro": "Turul nostru cu bicicleta începe la moara de vânt pitorească, unde bate o briză proaspătă. O scurtă pedalare ne duce la fermecătoarea plajă Tourkikos Gialos.\nLa prânz părăsim coasta pentru a descoperi ruinele antice din Myrina. Traseele de acolo sunt minunate pentru a fi explorate cu bicicleta.\nDupă-amiaza ne îndreptăm spre centru către Muzeul Lemnos. De acolo este doar o aruncătură de băț până la situl de excavare al Myrinei Preistorice.\nÎncheiem ziua relaxant în Manos. Călătoria de seară de-a lungul apei la apus rămâne de neuitat și plină de farmec.",
         "en": "Our cycling tour starts at the picturesque windmill, enjoying a fresh coastal breeze. A quick pedal takes us to the charming Tourkikos Gialos beach.\nMidday we weave through town to discover the ancient ruins of Myrina. The surrounding routes are a delight to explore on two wheels.\nAfternoon involves cycling into the center for the Lemnos Museum. From there, it's just a short ride to the fascinating prehistoric excavation site.\nWe conclude the day at Manos with a relaxed vibe. The evening ride along the water as the sun sets will remain an unforgettable memory."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt zur Windmühle auf feuchten Straßen. Mittags radeln wir am Hafen entlang und nutzen die überdachten Bereiche für Pausen. Die antiken Stätten am Nachmittag erfordern volle Konzentration auf den teils schlammigen Wegen. Den Abschluss bildet ein Besuch im Museum, wo wir uns aufwärmen und die Fahrräder sicher abstellen können.",
+            "hu": "A nap óvatos tekeréssel kezdődik a szélmalomhoz a nedves aszfalton. Délben a kikötő mentén biciklizünk, kihasználva a fedett beállókat a pihenéshez. Délután az antik helyszínek megközelítése fokozott figyelmet igényel a néhol sáros utakon. A napot a múzeumnál zárjuk, ahol biztonságban lelakatolhatjuk a gépeket, amíg mi a tárlatot nézzük.",
+            "ro": "Ziua începe cu o pedalare precaută spre moara de vânt pe șoselele umede. La prânz mergem cu bicicleta de-a lungul portului, folosind zonele acoperite pentru pauze. Vizitarea siturilor antice după-amiaza necesită concentrare maximă pe drumurile parțial noroioase. Încheiem la muzeu, unde putem lăsa bicicletele în siguranță cât timp ne încălzim.",
+            "en": "The day starts with a cautious ride to the windmill on damp roads. At noon, we cycle along the harbor, utilizing covered areas for breaks. Visiting the ancient sites in the afternoon requires full focus on the sometimes muddy paths. We finish at the museum, where we can warm up and safely park the bikes while exploring the exhibits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die Windmühle",
+                "hu": "A Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Das historische Bauwerk wirkt vor dunklen Regenwolken besonders imposant; achten Sie beim Absteigen auf den rutschigen Untergrund rund um die Mühle.",
+                "hu": "A történelmi építmény különösen impozáns a sötét esőfelhők előtt; leszálláskor ügyelj a szélmalom körüli csúszós és egyenetlen talajra.",
+                "ro": "Structura istorică arată impunător în fața norilor negri de ploaie; ai grijă la solul alunecos din jurul morii când cobori de pe bicicletă.",
+                "en": "The historic structure looks imposing against dark rain clouds; watch out for the slippery ground around the mill when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourkikos Gialos",
+                "hu": "Tourkikos Gialos",
+                "ro": "Tourkikos Gialos",
+                "en": "Tourkikos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Radle vorsichtig über das nasse Kopfsteinpflaster im Hafenbereich; nutze die Zeit für eine kleine Pause in einem der trockenen Cafés am Wasser.",
+                "hu": "Tekerj óvatosan a vizes macskakövön a kikötő környékén; használj ki egy kis pihenőt az egyik vízparti, száraz kávézó fedett teraszán.",
+                "ro": "Pedalează cu atenție pe pavajul umed din zona portului; profită de timp pentru o scurtă pauză într-o cafenea uscată de pe malul apei.",
+                "en": "Ride carefully over the wet cobblestones in the harbor area; take a break in one of the dry waterfront cafes to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Myrina",
+                "hu": "Ókori Myrina",
+                "ro": "Myrina Antică",
+                "en": "Ancient Myrina"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem festen Punkt ab und erkunden Sie die rutschigen Ruinen zu Fuß; eine Regenjacke ist praktischer als ein Schirm beim Radfahren.",
+                "hu": "Hagyd a biciklit egy biztos ponton és gyalog fedezd fel a csúszós romokat; az esőkabát sokkal praktikusabb kerékpározáshoz, mint az esernyő.",
+                "ro": "Lasă bicicleta într-un loc sigur și explorează ruinele alunecoase pe jos; pelerina de ploaie este mult mai practică decât umbrela când ești pe bicicletă.",
+                "en": "Park your bike securely and explore the slippery ruins on foot; a raincoat is much more practical than an umbrella when cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Limnos",
+                "hu": "Limnosz Múzeum",
+                "ro": "Muzeul Lemnos",
+                "en": "Lemnos Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Kleidung zu trocknen und sich für die Weiterfahrt zu stärken; nutzen Sie die Fahrradständer in der Nähe des Eingangs.",
+                "hu": "Ideális megálló a ruhák megszárítására és az erők gyűjtésére a folytatáshoz; használd a bejárat közelében található kerékpártárolókat.",
+                "ro": "O oprire ideală pentru a-ți usca hainele și a prinde forțe pentru drum; folosește suporturile de biciclete din apropierea intrării.",
+                "en": "An ideal stop to dry your clothes and recharge for the rest of the ride; use the bike racks located conveniently near the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorisches Myrina",
+                "hu": "Történelem előtti Myrina",
+                "ro": "Myrina Preistorică",
+                "en": "Prehistoric Myrina"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorischen Pfade können bei Regen schlammig sein, planen Sie mehr Zeit ein; tragen Sie wasserfeste Überschuhe für eine trockenere Fahrt.",
+                "hu": "A történelem előtti ösvények sárosak lehetnek esőben, tervezz több időt a haladásra; viselj vízhatlan kamáslit a szárazabb lábakért.",
+                "ro": "Potecile preistorice pot fi noroioase pe ploaie, așa că rezervă-ți mai mult timp; poartă protecții impermeabile pentru încălțăminte ca să rămâi uscat.",
+                "en": "The prehistoric paths can get muddy in the rain, so allow extra time for travel; consider waterproof overshoes for a much drier riding experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Manos",
+                "hu": "Manos",
+                "ro": "Manos",
+                "en": "Manos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an einem geschützten Ort und prüfen Sie Ihre Bremsen nach der Fahrt im Regen; eine heiße Dusche ist der perfekte Abschluss.",
+                "hu": "Zárd a túrát egy védett helyen, és ellenőrizd a fékeket az esős menet után; egy forró zuhany a nap végén tökéletes lezárása a programnak.",
+                "ro": "Încheie turul într-un loc adăpostit și verifică frânele după mersul prin ploaie; un duș fierbinte este finalul perfect pentru această zi.",
+                "en": "End your tour at a sheltered spot and check your brakes after riding in the rain; a hot shower is the perfect way to finish this wet day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit der Fahrt zur Windmühle, wo der kühle Wind uns wachrüttelt. Mittags radeln wir entspannt durch die ruhigen Straßen von Myrina. Vor dem frühen Sonnenuntergang um 17:00 Uhr besichtigen wir die prähistorischen Stätten. Den späten Nachmittag nutzen wir für den Museumsbesuch, bevor wir im Dunkeln sicher zu unserem Ausgangspunkt zurückkehren.",
+            "hu": "A friss téli reggel a szélmalomhoz vezető úton kezdődik, ahol a hűvös szél azonnal felébreszt. Délben kényelmesen tekerünk Myrina csendes utcáin, élvezve a nyugalmat. A korai, 17:00-ás naplemente előtt meglátogatjuk a történelem előtti helyszíneket. A késő délutánt a múzeumban töltjük, majd sötétedés után óvatosan térünk vissza a bázisra.",
+            "ro": "O dimineață răcoroasă de iarnă începe cu drumul spre moara de vânt, unde vântul rece ne trezește instant. La prânz pedalăm relaxat pe străzile liniștite din Myrina. Înainte de apusul devreme de la ora 17:00, vizităm siturile preistorice. După-amiaza târzie o petrecem la muzeu, apoi ne întoarcem cu atenție pe întuneric.",
+            "en": "A crisp winter morning starts with a ride to the windmill, where the cool breeze wakes us up. At noon, we cycle leisurely through the quiet streets of Myrina. Before the early sunset at 17:00, we visit the prehistoric sites. We spend the late afternoon at the museum before returning safely in the dark to our starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die Windmühle",
+                "hu": "A Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Mühle ist im Winter schneidend kalt; tragen Sie unbedingt warme Handschuhe und eine Mütze unter dem Helm für maximalen Komfort.",
+                "hu": "A szélmalomnál télen metsző hideg szél fújhat; viselj meleg kesztyűt és a sisak alá húzható vékony sapkát a maximális kényelem érdekében.",
+                "ro": "Vântul de la moară este tăios iarna; poartă neapărat mănuși groase și o căciulă sub cască pentru un confort maxim în timpul pedalării.",
+                "en": "The wind at the mill can be biting cold in winter; be sure to wear warm gloves and a thin hat under your helmet for maximum comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourkikos Gialos",
+                "hu": "Tourkikos Gialos",
+                "ro": "Tourkikos Gialos",
+                "en": "Tourkikos Gialos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Hafen, aber achten Sie auf gefrorene Pfützen in schattigen Bereichen; helle Reflektoren sind für die trüben Tage ratsam.",
+                "hu": "Élvezd a tiszta téli levegőt a kikötőben, de ügyelj a fagyott tócsákra az árnyékos részeken; a borús nappalokon viselj jól látható fényvisszaverőket.",
+                "ro": "Bucură-te de aerul curat de iarnă din port, dar fii atent la bălțile înghețate din zonele umbrite; reflectorizantele sunt recomandate în zilele mohorâte.",
+                "en": "Enjoy the crisp winter air at the harbor, but watch out for frozen puddles in shaded areas; bright reflectors are advised for the gloomy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Myrina",
+                "hu": "Ókori Myrina",
+                "ro": "Myrina Antică",
+                "en": "Ancient Myrina"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zu den Ruinen hält Sie warm, doch oben weht oft eine starke Brise; eine winddichte Weste schützt Ihren Oberkörper vor dem Auskühlen.",
+                "hu": "A romokhoz vezető emelkedő felmelegít, de a tetőn gyakran erős szél fúj; egy szélálló mellény jól védi a felsőtestedet a kihűléstől.",
+                "ro": "Urcarea spre ruine te va menține cald, dar sus vântul bate adesea cu putere; o vestă rezistentă la vânt îți va proteja trunchiul de frig.",
+                "en": "The climb to the ruins will keep you warm, but a strong breeze often blows at the top; a windproof vest protects your core from getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Limnos",
+                "hu": "Limnosz Múzeum",
+                "ro": "Muzeul Lemnos",
+                "en": "Lemnos Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um steif gewordene Finger wieder aufzuwärmen; nutzen Sie die Zeit, bevor es draußen um 17:00 Uhr dunkel wird.",
+                "hu": "A múzeum tökéletes hely az elgémberedett ujjak felmelegítésére; használd ki az itt töltött időt, mielőtt kint 17:00-kor sötétedni kezd.",
+                "ro": "Muzeul este locul perfect pentru a-ți încălzi degetele amorțite; profită de timpul petrecut aici înainte să se întunece afară, la ora 17:00.",
+                "en": "The museum is the perfect place to warm up stiff fingers; make the most of your time inside before it gets dark outside at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Prähistorisches Myrina",
+                "hu": "Történelem előtti Myrina",
+                "ro": "Myrina Preistorică",
+                "en": "Prehistoric Myrina"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Stätte früh am Nachmittag, um das beste Licht für Ihre Fotos zu haben; achten Sie auf den Zustand der Wege bei Frost.",
+                "hu": "Látogasd meg a helyszínt kora délután, hogy a legjobb fényeket kapd el a fotókhoz; ügyelj az utak állapotára fagyos időben.",
+                "ro": "Vizitează situl după-amiaza devreme pentru a avea cea mai bună lumină la fotografii; fii atent la starea potecilor în caz de îngheț.",
+                "en": "Visit the site early in the afternoon to catch the best light for your photos; be mindful of the path conditions if there has been a frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Manos",
+                "hu": "Manos",
+                "ro": "Manos",
+                "en": "Manos"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg im Dunkeln einwandfrei funktioniert; eine Thermoskanne mit Tee ist ein toller Begleiter.",
+                "hu": "Győződj meg róla, hogy a kerékpár lámpái tökéletesen működnek a sötétben való visszatéréshez; egy termosz meleg teával remek útitárs.",
+                "ro": "Asigură-te că luminile bicicletei funcționează perfect pentru drumul de întoarcere pe întuneric; un termos cu ceai cald este un companion excelent.",
+                "en": "Ensure your bike lights are working perfectly for the return journey in the dark; a thermos of warm tea is a great companion for the ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós utazásunkat délen, a kiterjedt Platy strandon kezdjük egy pihentető reggellel. Innen kényelmesen autózunk a városba, a történelmi Dapiához.\nDélben a központban parkolunk, hogy nyugodtan megnézhessük Myrina lenyűgöző régészeti lelőhelyeit. A múzeum hűvös, kulturális pihenőt kínál.\nDélután észak felé vesszük az irányt autónkkal. A ciprusi harcosok emlékműve csendes megálló az Artemisz szentélye felé vezető úton.\nAz este a pihenésé Aulonasban. Az északi parton, a nyüzsgéstől távol fejezzük be a napot, miközben csodálatos kilátásban gyönyörködhetünk.",
         "ro": "Ne începem călătoria în sud, la plaja întinsă Platy, pentru o dimineață relaxantă. De acolo conducem confortabil spre oraș, spre istorica fortăreață Dapia.\nLa prânz parcăm central pentru a vedea în liniște siturile arheologice impresionante din Myrina. Muzeul oferă o pauză culturală și răcoroasă.\nDupă-amiaza ne îndreptăm cu mașina mai spre nord. Monumentul luptătorilor ciprioți este o oprire liniștită pe drumul către Sanctuarul lui Artemis.\nSeara aparține relaxării în Aulonas. Pe coasta de nord, departe de agitație, încheiem ziua bucurându-ne de priveliștile magnifice asupra mării.",
         "en": "We start our road trip in the south at the expansive Platy Beach for a relaxed morning. From there, it's a short scenic drive into town to the historic Dapia.\nMidday involves central parking to explore the impressive archaeological sites of Ancient Myrina. The museum then offers a cool, cultural retreat.\nIn the afternoon, we steer our car further north. The Memorial of the Cypriot Fighters serves as a quiet stopover on the way to the Sanctuary of Artemis.\nThe evening belongs to recreation in Aulonas. On this northern coast, away from the hustle, we end the day taking in the magnificent sea views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt mit einer Fahrt zum Platy Strand, wo wir die Brandung vom trockenen Auto aus beobachten. Mittags steuern wir die Festung an und nutzen Regenpausen für kurze Erkundungen. Die antiken Stätten und das Museum bieten am Nachmittag Schutz und Bildung. Der Tag endet sicher und trocken mit einer Fahrt zum malerischen Aulonas.",
+            "hu": "Az esős napot a Platy strandnál kezdjük, ahol a kocsiból figyeljük a tajtékzó hullámokat. Délben a vár felé vesszük az irányt, kihasználva az esőszüneteket a rövid kiszállásokra. Az antik romok és a múzeum délutáni látogatása védelmet és tudást kínál. A napot biztonságban és szárazon zárjuk egy autós kirándulással a festői Aulonasba.",
+            "ro": "Ziua ploioasă începe cu o plimbare spre plaja Platy, unde admirăm valurile din confortul mașinii. La prânz ne îndreptăm spre cetate, profitând de pauzele dintre reprizele de ploaie. Vizitarea ruinelor și a muzeului oferă adăpost și cultură după-amiaza. Încheiem ziua în siguranță, conducând spre pitorescul Aulonas.",
+            "en": "A rainy day starts with a drive to Platy Beach, where we watch the surf from the dry comfort of the car. At noon, we head to the fortress, using breaks in the rain for quick explorations. Visiting the ancient ruins and the museum provides shelter and education in the afternoon. The day ends safely and dryly with a scenic drive to Aulonas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Platy",
+                "hu": "Platy strand",
+                "ro": "Plaja Platy",
+                "en": "Platy Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt vom Parkplatz aus; halten Sie ein Handtuch im Auto bereit, falls Sie kurz aussteigen möchten.",
+                "hu": "Élvezd a viharos tenger látványát közvetlenül a parkolóból; tarts egy törölközőt az autóban, ha mégis ki szeretnél szállni egy rövid sétára.",
+                "ro": "Bucură-te de vederea mării învolburate direct din parcare; ține un prosop în mașină în caz că vrei să cobori pentru o scurtă plimbare.",
+                "en": "Enjoy the view of the stormy sea directly from the parking area; keep a towel in the car in case you decide to step out for a quick look."
+              }
+            },
+            {
+              "name": {
+                "de": "Dapia von Limnos",
+                "hu": "Limnos Dapiája",
+                "ro": "Dapia din Lemnos",
+                "en": "Dapia of Lemnos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Zugang, um den Weg im Regen kurz zu halten; eine Regenjacke ist wegen der Winde auf der Höhe ideal.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy lerövidítsd az esőben megtett utat; az esőkabát ideális a magasban fújó szelek miatt.",
+                "ro": "Parchează cât mai aproape de intrare pentru a scurta drumul prin ploaie; o pelerină este ideală din cauza vântului puternic de la înălțime.",
+                "en": "Park as close to the entrance as possible to minimize your walk in the rain; a raincoat is ideal due to the gusty winds at this elevation."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Myrina",
+                "hu": "Ókori Myrina",
+                "ro": "Myrina Antică",
+                "en": "Ancient Myrina"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Wege können rutschig sein, fahren Sie vorsichtig auf den Zufahrtsstraßen; nutzen Sie das Auto als Basis, um bei Starkregen abzuwarten.",
+                "hu": "Az antik utak csúszósak lehetnek, óvatosan vezess a bekötőutakon; használd az autót bázisként, és várd meg benne a hevesebb eső végét.",
+                "ro": "Drumurile antice pot fi alunecoase, condu cu atenție pe căile de acces; folosește mașina ca bază pentru a aștepta trecerea ploii torențiale.",
+                "en": "The ancient paths can be slick, so drive carefully on the access roads; use your car as a base to wait out any heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Limnos",
+                "hu": "Limnosz Múzeum",
+                "ro": "Muzeul Lemnos",
+                "en": "Lemnos Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Indoor-Stopp, der direkt mit dem Wagen erreichbar ist; achten Sie auf Pfützen auf dem Museumsparkplatz beim Ein- und Aussteigen.",
+                "hu": "Tökéletes fedett megálló, amely közvetlenül autóval is megközelíthető; ügyelj a tócsákra a múzeum parkolójában a ki- és beszálláskor.",
+                "ro": "O oprire interioară perfectă, accesibilă direct cu mașina; fii atent la bălțile din parcarea muzeului când urci sau cobori din vehicul.",
+                "en": "A perfect indoor stop that is easily accessible by car; watch out for puddles in the museum parking lot when getting in and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der zypriotischen Kämpfer",
+                "hu": "Ciprusi harcosok emlékműve",
+                "ro": "Monumentul luptătorilor ciprioți",
+                "en": "Memorial of the Cypriot Fighters"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für ein Foto vom Auto aus oder unter einem großen Schirm; die Scheibenwischer auf höchster Stufe sorgen für freie Sicht beim Fahren.",
+                "hu": "Rövid megálló egy fotó erejéig az autóból vagy egy nagy esernyő alatt; vezetés közben a gyors fokozatra állított ablaktörlő segít a látásban.",
+                "ro": "O scurtă oprire pentru o fotografie din mașină sau sub o umbrelă mare; folosește ștergătoarele la viteză maximă pentru vizibilitate bună la condus.",
+                "en": "A brief stop for a photo from the car or under a large umbrella; use high-speed wipers for the best visibility while driving between sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum der Artemis",
+                "hu": "Artemisz szentélye",
+                "ro": "Sanctuarul lui Artemis",
+                "en": "Sactuary of Artemis"
+              },
+              "tip_5lang": {
+                "de": "Die abgelegene Lage erfordert Vorsicht auf unbefestigten Straßen bei Regen; bleiben Sie auf den Hauptwegen, um ein Festfahren im Schlamm zu vermeiden.",
+                "hu": "A távoli helyszín óvatosságot igényel a nem aszfaltozott utakon esőben; maradj a főúton, hogy elkerüld a sárba ragadást.",
+                "ro": "Locația izolată necesită prudență pe drumurile neasfaltate pe ploaie; rămâi pe drumurile principale pentru a evita împotmolirea în noroi.",
+                "en": "The remote location requires caution on unpaved roads during rain; stick to the main paths to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Aulonas",
+                "hu": "Aulonas",
+                "ro": "Aulonas",
+                "en": "Aulonas"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag mit einer gemütlichen Fahrt durch die regnerische Landschaft ausklingen; prüfen Sie vor der Rückfahrt die Funktion Ihrer Autoscheinwerfer.",
+                "hu": "Zárd a napot egy kényelmes autózással az esőáztatta tájon keresztül; a visszaindulás előtt ellenőrizd a fényszórók működését.",
+                "ro": "Încheie ziua cu o plimbare relaxantă cu mașina prin peisajul ploios; verifică funcționarea farurilor înainte de drumul de întoarcere.",
+                "en": "End your day with a cozy drive through the rainy landscape; check that your headlights are clean and working before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen fahren wir zum Platy Strand, um die frische Meeresbrise zu genießen. Mittags erkunden wir die Festung Myrina, bevor die Kälte am Nachmittag zunimmt. Angesichts des frühen Sonnenuntergangs um 17:00 Uhr besuchen wir das Museum und die Artemis-Stätte rechtzeitig. Der Abend klingt warm im Auto auf dem Weg zurück nach Aulonas aus.",
+            "hu": "Egy tiszta téli reggelen a Platy strandhoz autózunk, hogy élvezzük a friss tengeri levegőt. Délben felfedezzük a várat, mielőtt a délutáni lehűlés megérkezne. A korai, 17:00-ás naplemente miatt a múzeumot és az Artemisz-szentélyt időben keressük fel. Az estét a jól fűtött autóban zárjuk, miközben visszatérünk Aulonas felé.",
+            "ro": "Într-o dimineață senină de iarnă, conducem spre plaja Platy pentru a ne bucura de briza proaspătă. La prânz explorăm cetatea înainte ca frigul să se intensifice. Având în vedere apusul devreme de la ora 17:00, vizităm muzeul și sanctuarul lui Artemis la timp. Seara se încheie la căldură în mașină, în drum spre Aulonas.",
+            "en": "On a clear winter morning, we drive to Platy Beach to enjoy the fresh sea breeze. At noon, we explore the Myrina fortress before the afternoon chill sets in. With the early sunset at 17:00, we visit the museum and the Artemis sanctuary in good time. The evening concludes warmly inside the car on our way back to Aulonas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Platy",
+                "hu": "Platy strand",
+                "ro": "Plaja Platy",
+                "en": "Platy Beach"
+              },
+              "tip_5lang": {
+                "de": "Die leere Winterküste bietet eine unglaubliche Ruhe; lassen Sie die Heizung im Auto laufen, um sich nach einem kurzen Strandgang schnell aufzuwärmen.",
+                "hu": "Az üres téli tengerpart hihetetlen nyugalmat áraszt; hagyd járni a fűtést az autóban, hogy egy rövid parti séta után gyorsan felmelegedhess.",
+                "ro": "Țărmul pustiu de iarnă oferă o liniște incredibilă; lasă căldura pornită în mașină pentru a te încălzi rapid după o scurtă plimbare pe plajă.",
+                "en": "The empty winter coastline offers incredible peace; keep the car heater on so you can warm up quickly after a short stroll on the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Dapia von Limnos",
+                "hu": "Limnos Dapiája",
+                "ro": "Dapia din Lemnos",
+                "en": "Dapia of Lemnos"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick, doch der Wind oben ist eisig; tragen Sie mehrere Schichten Kleidung für den Weg zur Festung.",
+                "hu": "A parkolóból nagyszerű a kilátás, de fent a szél metszően hideg; öltözz rétegesen a várhoz vezető rövid úthoz.",
+                "ro": "Din parcare ai o vedere excelentă, dar vântul sus este înghețat; poartă mai multe rânduri de haine pentru drumul spre cetate.",
+                "en": "The view from the parking area is great, but the wind at the top is icy; wear multiple layers for the walk up to the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Myrina",
+                "hu": "Ókori Myrina",
+                "ro": "Myrina Antică",
+                "en": "Ancient Myrina"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten über die Ruinen, ideal für Fotos; achten Sie auf glatte Stellen auf den schattigen Zufahrtswegen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a romokra, ami ideális fotózáshoz; ügyelj a csúszós foltokra az árnyékos bekötőutakon.",
+                "ro": "Soarele jos de iarnă lasă umbre lungi peste ruine, fiind ideal pentru fotografii; fii atent la porțiunile alunecoase de pe drumurile de acces umbrite.",
+                "en": "The low winter sun casts long shadows over the ruins, ideal for photography; watch out for slick spots on shaded access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Limnos",
+                "hu": "Limnosz Múzeum",
+                "ro": "Muzeul Lemnos",
+                "en": "Lemnos Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Museums für eine ausgiebige Pause am Nachmittag; das Parken in der Nähe ist im Winter meist völlig problemlos.",
+                "hu": "Használd ki a múzeum melegét egy kiadós délutáni pihenőhöz; a közeli parkolás télen általában teljesen zökkenőmentes.",
+                "ro": "Profită de căldura muzeului pentru o pauză lungă după-amiaza; parcarea în apropiere este de obicei facilă în timpul iernii.",
+                "en": "Take advantage of the museum's warmth for an extended afternoon break; parking nearby is usually very easy during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der zypriotischen Kämpfer",
+                "hu": "Ciprusi harcosok emlékműve",
+                "ro": "Monumentul luptătorilor ciprioți",
+                "en": "Memorial of the Cypriot Fighters"
+              },
+              "tip_5lang": {
+                "de": "Ein würdevoller Ort, der in der klaren Winterluft besonders ruhig wirkt; planen Sie den Stopp vor 16:30 Uhr ein, um noch Tageslicht zu haben.",
+                "hu": "Mély értelmű helyszín, amely a tiszta téli levegőben különösen nyugodt; tervezd a megállót 16:30 elé, hogy legyen még természetes fény.",
+                "ro": "Un loc demn care pare deosebit de liniștit în aerul curat de iarnă; planifică oprirea înainte de 16:30 pentru a mai avea lumină naturală.",
+                "en": "A dignified site that feels especially peaceful in the clear winter air; plan your stop before 16:30 to ensure you still have daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum der Artemis",
+                "hu": "Artemisz szentélye",
+                "ro": "Sanctuarul lui Artemis",
+                "en": "Sactuary of Artemis"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft unterstreicht den antiken Charakter dieses Ortes; stellen Sie sicher, dass Ihr Tank für die Fahrt in die abgelegene Region voll ist.",
+                "hu": "A kopár téli táj felerősíti a helyszín ókori jellegét; győződj meg róla, hogy elég üzemanyagod van a távolabbi régióba való autózáshoz.",
+                "ro": "Peisajul arid de iarnă accentuează caracterul antic al locului; asigură-te că ai destul combustibil pentru drumul în această regiune izolată.",
+                "en": "The stark winter landscape enhances the ancient feel of this site; make sure your fuel tank is sufficiently full for the drive to this remote area."
+              }
+            },
+            {
+              "name": {
+                "de": "Aulonas",
+                "hu": "Aulonas",
+                "ro": "Aulonas",
+                "en": "Aulonas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Rückfahrt bei einsetzender Dunkelheit ab 17:00 Uhr; die Sitzheizung im Auto macht den Abschluss besonders behaglich.",
+                "hu": "Élvezd a kényelmes visszautat az 17:00 körül kezdődő sötétedésben; az ülésfűtés az autóban különösen kellemessé teszi a nap zárását.",
+                "ro": "Bucură-te de drumul de întoarcere confortabil pe măsură ce se întunecă după ora 17:00; încălzirea în scaune face finalul zilei foarte plăcut.",
+                "en": "Enjoy the cozy drive back as darkness sets in from 17:00; seat heaters in the car will make the end of your trip extra comfortable."
+              }
+            }
+          ]
+        }
       }
     }
   }

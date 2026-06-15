@@ -137,6 +137,168 @@
         "hu": "Reggel: Kezdje a napot Château-Arnoux történelmi központjában, csodálja meg a Mairie építészetét, majd zökkenőmentesen váltson át a szomszédos kastély ősi területére.\nDél: Tegyen egy kényelmes sétát a külváros felé, hogy felfedezze a Saint-Jean kápolnát és a Prieuré csendes, sokatmondó romjait.\nDélután: Vegye az irányt dél felé a vízpartra, hogy egy pihentető délutánt töltsön el a Lac de l'Escale körüli természet és a madárvilág felfedezésével.\nEste: Zárja gyalogos túráját a tó nyugodt vizén megcsillanó naplemente látványával, visszagondolva a középkori történelem és a természet békés találkozására.",
         "ro": "Dimineața: Începeți ziua în nucleul istoric al Château-Arnoux, admirând arhitectura impresionantă a Primăriei înainte de a trece pe domeniul castelului vecin.\nPrânz: Faceți o plimbare liniștită spre periferie pentru a descoperi Capela Saint-Jean și ruinele tăcute și evocatoare ale Prieuré Saint-Pierre-ès-Liens.\nDupă-amiaza: Îndreptați-vă spre sud, spre malul apei, pentru o după-amiază profund relaxantă, explorând frumusețea naturală din jurul Lac de l'Escale.\nSeara: Încheiați turul pietonal cu o vedere la apus peste apele calme ale lacului, reflectând la o zi petrecută la intersecția dintre istoria medievală și natură.",
         "en": "Morning: Begin your day in the historic core of Château-Arnoux, admiring the grand architecture of the Mairie before transitioning seamlessly into the ancient grounds of the neighboring castle.\nMidday: Take a leisurely stroll towards the outskirts to discover the Saint-Jean Chapel and the quiet, evocative ruins of the Prieuré Saint-Pierre-ès-Liens.\nAfternoon: Head south towards the waterfront for a deeply relaxing afternoon exploring the natural beauty and diverse birdlife around Lac de l'Escale.\nEvening: Conclude your walking tour with a sunset view over the lake's calm waters, reflecting on a day spent tracing the gentle intersection of medieval history and nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Schutz des prächtigen Rathauses, wo Sie die Architektur ohne Nässe bewundern können. Mittags bietet das Schloss eine Zeitreise in trockenen Innenräumen. Am Nachmittag führt der Weg trotz Regens zu den Kapellen, wobei festes Schuhwerk auf den glitschigen Pfaden unerlässlich ist. Den Abend lassen wir am nebelverhangenen See ausklingen, dessen Atmosphäre im Regen fast mystisch wirkt.",
+            "hu": "A reggel a városháza óvó falai között indul, ahol az eső elől védve csodálhatjuk meg az épületet. Délben a kastély belső terei kínálnak száraz időutazást. Délután a kápolnák felé vesszük az irányt, de a csúszós ösvényeken a vízálló cipő elengedhetetlen. Az estét a ködös tóparton zárjuk, amely esőben különösen misztikus arcát mutatja, mielőtt megszárítkoznánk.",
+            "ro": "Dimineața începe la adăpostul primăriei, unde puteți admira arhitectura fără a vă uda. La prânz, castelul oferă o incursiune istorică în spații interioare uscate. După-amiaza, drumul continuă spre capele, unde încălțămintea impermeabilă este esențială pe potecile alunecoase. Seara se încheie pe malul lacului învăluit în ceață, a cărui atmosferă devine aproape mistică sub picăturile de ploaie.",
+            "en": "The morning begins under the shelter of the town hall, where you can admire the architecture while staying dry. At noon, the castle provides a historical journey in its indoor rooms. In the afternoon, the walk leads to the chapels; waterproof shoes are essential on the slippery paths. The evening ends by the misty lake, which takes on an almost mystical atmosphere in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Château-Arnoux-Saint-Auban",
+                "hu": "Château-Arnoux-Saint-Auban Városháza",
+                "ro": "Primăria din Château-Arnoux-Saint-Auban",
+                "en": "Town Hall of Château-Arnoux-Saint-Auban"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die kunstvollen Deckendetails im Inneren, während es draußen regnet; der überdachte Eingangsbereich ist ein idealer Treffpunkt bei Schauern.",
+                "hu": "Csodálja meg a belső mennyezeti díszítéseket, miközben kint esik; a fedett bejárati rész tökéletes találkozóhely a záporok idején.",
+                "ro": "Admirați detaliile ornamentate ale tavanului în interior în timp ce afară plouă; zona de intrare acoperită este un punct de întâlnire ideal în caz de averse.",
+                "en": "Admire the ornate ceiling details inside while it rains outside; the covered entrance area is an ideal meeting point during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Château-Arnoux",
+                "hu": "Château-Arnoux Kastély",
+                "ro": "Castelul Château-Arnoux",
+                "en": "Château-Arnoux Castle"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Regenpause für eine ausführliche Innenbesichtigung der Renaissance-Treppe; achten Sie auf die Stufen, die bei Feuchtigkeit rutschig sein können.",
+                "hu": "Használja ki az eső szünetét a reneszánsz lépcsőház alapos megtekintésére; ügyeljen a fokokra, mert a beszivárgó nedvességtől csúszósak lehetnek.",
+                "ro": "Profită de pauza de ploaie pentru o vizită detaliată a scării renascentiste; atenție la trepte, deoarece pot fi alunecoase din cauza umidității.",
+                "en": "Take advantage of the rain break for a detailed indoor visit of the Renaissance staircase; watch your step as the stones can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Jean",
+                "hu": "Saint-Jean Kápolna",
+                "ro": "Capela Saint-Jean",
+                "en": "Saint-Jean Chapel"
+              },
+              "tip_4lang": {
+                "de": "Diese kleine Kapelle bietet einen ruhigen, trockenen Rückzugsort; halten Sie Ihren Regenschirm am Eingang bereit, da der Weg dorthin ungeschützt ist.",
+                "hu": "Ez a kis kápolna csendes és száraz menedéket nyújt; tartsa készenlétben az esernyőjét, mert a kápolnához vezető út teljesen nyitott.",
+                "ro": "Această mică chapelă oferă un refugiu liniștit și uscat; pregătiți umbrela la intrare, deoarece drumul până aici este complet expus ploii.",
+                "en": "This small chapel offers a quiet and dry retreat; keep your umbrella ready at the entrance as the path leading here is completely unsheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Priorats Saint-Pierre-ès-Liens",
+                "hu": "Saint-Pierre-ès-Liens Perjeliség Romjai",
+                "ro": "Ruinele Prioriei Saint-Pierre-ès-Liens",
+                "en": "Ruins of Saint-Pierre-ès-Liens Priory"
+              },
+              "tip_4lang": {
+                "de": "Die alten Steine leuchten im Regen besonders intensiv; betreten Sie die Grasflächen vorsichtig, da der Boden nach dem Niederschlag sehr aufgeweicht ist.",
+                "hu": "A régi kövek esőben különösen intenzív színben pompáznak; óvatosan lépjen a füves területekre, mert a talaj ilyenkor nagyon felázik.",
+                "ro": "Pietrele vechi strălucesc intens în ploaie; pășiți cu grijă pe iarbă, deoarece solul devine foarte moale și noroios după precipitații.",
+                "en": "The ancient stones glow intensely in the rain; step carefully on the grassy areas as the ground becomes very soft and muddy after the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "See L'Escale",
+                "hu": "L'Escale-tó",
+                "ro": "Lacul Escale",
+                "en": "Lac de l'Escale"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche von einem der wenigen Unterstände aus; wasserfeste Wanderschuhe sind für das Seeufer nötig.",
+                "hu": "Figyelje a vízen táncoló esőcseppeket az egyik ritka fedett pihenőhelyről; a tóparti sétához mindenképpen vízálló túrabakancs javasolt.",
+                "ro": "Urmăriți picăturile de ploaie pe suprafața apei de la unul dintre puținele adăposturi; bocancii impermeabili sunt necesari pentru malul lacului.",
+                "en": "Watch the raindrops dancing on the water surface from one of the few shelters; waterproof hiking boots are highly recommended for the lakeshore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Rathaus, wobei die klare Luft die Sicht schärft. Mittags suchen wir die geschichtsträchtige Wärme des Schlosses auf. Am Nachmittag erkunden wir die Kapellen und Ruinen im sanften Winterlicht, bevor die Sonne gegen 17:00 Uhr hinter den Bergen verschwindet. Der Abend am See bietet eine stille, frostige Kulisse, ideal für einen kurzen Spaziergang in warmer Kleidung.",
+            "hu": "A friss téli reggel a városházánál indul, ahol a tiszta levegő élesíti a látást. Délben a kastély történelmi falai között keresünk menedéket a hideg elől. Délután a kápolnákat és romokat fedezzük fel a lágy téli fényben, mielőtt a nap 17:00 körül eltűnik a hegyek mögött. A tóparti este csendes, fagyos díszletet kínál, amely ideális egy rövid, rétegesen öltözött sétához.",
+            "ro": "O dimineață răcoroasă de iarnă începe la primărie, unde aerul curat ascute privirea. La prânz, căutăm căldura istorică a castelului. După-amiaza explorăm capelele și ruinele în lumina blândă a iernii, înainte ca soarele să apună după munți în jurul orei 17:00. Seara la lac oferă un decor înghețat și liniștit, ideal pentru o plimbare scurtă cu haine groase.",
+            "en": "A crisp winter morning begins at the town hall, where the clear air sharpens the views. At noon, we seek the historical warmth of the castle. In the afternoon, explore the chapels and ruins in the soft winter light before the sun disappears behind the mountains around 5:00 PM. The evening at the lake offers a silent, frosty backdrop, ideal for a short walk in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Château-Arnoux-Saint-Auban",
+                "hu": "Château-Arnoux-Saint-Auban Városháza",
+                "ro": "Primăria din Château-Arnoux-Saint-Auban",
+                "en": "Town Hall of Château-Arnoux-Saint-Auban"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Kontrast der kalten Außenluft zur prachtvollen Innenausstattung; Handschuhe sind bei der Besichtigung der Außenfassade ratsam.",
+                "hu": "Élvezze a külső hideg levegő és a pompás belső tér közötti kontrasztot; a homlokzat nézegetéséhez javasolt a kesztyű viselete.",
+                "ro": "Bucurați-vă de contrastul dintre aerul rece de afară și interiorul somptuos; mănușile sunt recomandate în timp ce admirați fațada exterioară.",
+                "en": "Enjoy the contrast between the cold outside air and the grand interior; wearing gloves is recommended while admiring the exterior facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Château-Arnoux",
+                "hu": "Château-Arnoux Kastély",
+                "ro": "Castelul Château-Arnoux",
+                "en": "Château-Arnoux Castle"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Kälte, bringen Sie also eine warme Jacke für die Innenräume mit; das Winterlicht fällt wunderbar durch die alten Fenster.",
+                "hu": "A vastag falak tartják a hideget, így a belső terekhez is vigyen meleg kabátot; a téli napfény gyönyörűen esik át a régi ablakokon.",
+                "ro": "Zidurile groase rețin frigul, așa că purtați o jachetă groasă și în interior; lumina de iarnă pătrunde superb prin ferestrele vechi.",
+                "en": "The thick walls retain the cold, so bring a warm jacket even for the interior; the winter light filters beautifully through the ancient windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Jean",
+                "hu": "Saint-Jean Kápolna",
+                "ro": "Capela Saint-Jean",
+                "en": "Saint-Jean Chapel"
+              },
+              "tip_4lang": {
+                "de": "In der Wintersonne leuchtet die Kapelle auf dem Hügel besonders hell; achten Sie auf den kalten Wind, der hier oben oft kräftiger weht.",
+                "hu": "A téli napsütésben a dombtetőn álló kápolna különösen fényesen ragyog; figyeljen a hideg szélre, amely itt fent gyakran erősebben fúj.",
+                "ro": "În soarele de iarnă, capela de pe deal strălucește foarte puternic; atenție la vântul rece care suflă adesea mai tare aici, la înălțime.",
+                "en": "In the winter sun, the chapel on the hill glows especially brightly; be aware of the cold wind, which often blows stronger up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Priorats Saint-Pierre-ès-Liens",
+                "hu": "Saint-Pierre-ès-Liens Perjeliség Romjai",
+                "ro": "Ruinele Prioriei Saint-Pierre-ès-Liens",
+                "en": "Ruins of Saint-Pierre-ès-Liens Priory"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die Ruinen am frühen Nachmittag für das beste Licht; Frost kann die Steine rutschig machen, gehen Sie daher besonders vorsichtig.",
+                "hu": "Látogassa meg a romokat kora délután a legjobb fényekért; a zúzmara csúszóssá teheti a köveket, ezért járjon különösen óvatosan.",
+                "ro": "Vizitați ruinele la începutul după-amiezii pentru cea mai bună lumină; chiciura poate face pietrele alunecoase, deci pășiți cu mare grijă.",
+                "en": "Visit the ruins in the early afternoon for the best lighting; frost can make the stones slippery, so walk with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "See L'Escale",
+                "hu": "L'Escale-tó",
+                "ro": "Lacul Escale",
+                "en": "Lac de l'Escale"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie winterliche Zugvögel auf dem ruhigen Wasser; planen Sie Ihren Aufenthalt so, dass Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zurück sind.",
+                "hu": "Figyelje meg a telelő vándormadarakat a nyugodt vízen; tervezze úgy a maradást, hogy a korai, 17:00 órai naplemente előtt visszaérjen.",
+                "ro": "Observați păsările migratoare de iarnă pe apa liniștită; planificați-vă vizita astfel încât să vă întoarceți înainte de apusul de la ora 17:00.",
+                "en": "Observe wintering migratory birds on the calm water; plan your stay to be back before the early sunset at 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel: Indítsa útját az ikonikus városháza és a fenséges Château-Arnoux kastély meglátogatásával, és szívja magába az építészeti örökséget indulás előtt.\nDél: Kerékpározzon északra Volonne falujába, álljon meg a városházánál, majd túrázzon fel az Église Saint-Martin panorámás romjaihoz.\nDélután: Élvezze a szellős utat délre a Lac de l'Escale partjáig, időt szakítva a helyi vízimadarak megfigyelésére és a nyugodt vizes élőhely élvezetére.\nEste: Fejezze be kerékpáros kalandját egy rövid kirándulással az Église Notre-Dame-de-Mandanois-hoz, megcsodálva annak csendes méltóságát a lágy esti fényben.",
         "ro": "Dimineața: Începeți plimbarea vizitând emblematica primărie și maiestuosul castel Château-Arnoux, bucurându-vă de moștenirea arhitecturală înainte de a porni la drum.\nPrânz: Pedalați spre nord până în satul pitoresc Volonne, oprindu-vă la primăria sa înainte de a urca la ruinele panoramice ale Église Saint-Martin.\nDupă-amiaza: Bucurați-vă de o plimbare răcoroasă spre sud, până pe malul Lac de l'Escale, făcându-vă timp pentru a admira mediul senin al zonelor umede.\nSeara: Încheiați aventura pe bicicletă cu o scurtă excursie la Église Notre-Dame-de-Mandanois, admirând demnitatea ei tăcută în lumina blândă a serii.",
         "en": "Morning: Kickstart your ride by visiting the iconic town hall and the majestic Château-Arnoux Castle, soaking in the architectural heritage before hitting the road.\nMidday: Cycle north to the quaint village of Volonne, stopping by its town hall before hiking up to the panoramic ruins of Église Saint-Martin.\nAfternoon: Enjoy a breezy ride south to the shores of Lac de l'Escale, taking time to watch the local waterfowl and enjoy the serene wetland environment.\nEvening: Wind down your cycling adventure with a short trip to the Église Notre-Dame-de-Mandanois, admiring its quiet dignity in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist die Radtour durch das Durance-Tal reizvoll, sofern man wasserfeste Kleidung trägt. Der Morgen startet beim Rathaus und führt zum Schloss, wo Sie Schutz finden. Mittags radeln wir vorsichtig nach Volonne, wobei die nassen Straßen volle Konzentration erfordern. Der Nachmittag gehört den Ruinen und dem See, bevor wir die Tour am Abend bei der Kirche von Mandanois im sanften Regen beenden.",
+            "hu": "Az eső ellenére a Durance-völgyi kerékpártúra izgalmas, ha van vízálló ruházatunk. A reggel a városházánál indul, majd a kastélyhoz tekerünk, ahol menedéket találunk. Délben óvatosan Volonne felé vesszük az irányt, a vizes aszfalt teljes koncentrációt igényel. A délután a romoké és a tóé, majd az estét a mandanois-i templomnál zárjuk a lágy esőben.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin valea Durance este atractiv dacă aveți haine impermeabile. Dimineața începe la primărie și continuă la castel, unde găsiți adăpost. La prânz pedalăm cu grijă spre Volonne, asfaltul ud necesitând concentrare maximă. După-amiaza este dedicată ruinelor și lacului, înainte de a încheia turul seara la biserica din Mandanois sub ploaia ușoară.",
+            "en": "Despite the rain, the bike tour through the Durance valley is charming if you wear waterproof gear. The morning starts at the town hall and leads to the castle for shelter. At noon, we cycle carefully to Volonne, as wet roads require full concentration. The afternoon is spent at the ruins and the lake, before ending the tour in the evening at the Church of Mandanois in the gentle rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Château-Arnoux-Saint-Auban",
+                "hu": "Château-Arnoux-Saint-Auban Városháza",
+                "ro": "Primăria din Château-Arnoux-Saint-Auban",
+                "en": "Town Hall of Château-Arnoux-Saint-Auban"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Bereich, um Ihre Regenausrüstung zu prüfen; parken Sie Ihr Rad an einem geschützten Ort nahe dem Eingang.",
+                "hu": "Használja a fedett részt az esővédő felszerelése ellenőrzésére; parkolja le kerékpárját egy védett helyen a bejárat közelében.",
+                "ro": "Folosiți zona acoperită pentru a vă verifica echipamentul de ploaie; parcați bicicleta într-un loc protejat lângă intrare.",
+                "en": "Use the covered area to check your rain gear; park your bike in a sheltered spot near the entrance before heading inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Château-Arnoux",
+                "hu": "Château-Arnoux Kastély",
+                "ro": "Castelul Château-Arnoux",
+                "en": "Château-Arnoux Castle"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um einen heftigen Schauer abzuwarten; die Innenräume bieten viel Geschichte, während die Fahrräder draußen im Ständer nass werden.",
+                "hu": "Ideális hely egy heves zápor kivárására; a belső terek rengeteg történetet kínálnak, miközben a bringák kint áznak a tárolóban.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse; interioarele oferă multă istorie în timp ce bicicletele stau afară în rastel.",
+                "en": "An ideal place to wait out a heavy shower; the interior rooms offer plenty of history while the bikes stay in the racks outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Volonne",
+                "hu": "Volonne Városháza",
+                "ro": "Primăria din Volonne",
+                "en": "Town Hall of Volonne"
+              },
+              "tip_4lang": {
+                "de": "Die Fahrt nach Volonne kann bei Regen rutschig sein, fahren Sie in den Kurven besonders langsam; das Rathaus bietet einen kurzen trockenen Stopp.",
+                "hu": "Az út Volonne felé esőben csúszós lehet, a kanyarokban tekerjen lassabban; a városháza épülete rövid, száraz megállót kínál.",
+                "ro": "Drumul spre Volonne poate fi alunecos pe ploaie, pedalați mai încet în curbe; clădirea primăriei oferă un scurt popas la uscat.",
+                "en": "The ride to Volonne can be slippery in the rain, slow down especially in the curves; the town hall building offers a short dry stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom Romjai",
+                "ro": "Ruinele Bisericii Saint-Martin",
+                "en": "Ruins of Saint-Martin Church"
+              },
+              "tip_4lang": {
+                "de": "Schützen Sie Ihre Kamera beim Fotografieren der Ruinen vor Nässe; der Boden um die Ruinen kann nach dem Regen sehr schlammig sein.",
+                "hu": "Fotózáskor óvja fényképezőgépét a nedvességtől; a romok körüli talaj eső után nagyon sáros lehet, ügyeljen a kerékpár támasztására.",
+                "ro": "Protejați-vă aparatul foto de umezeală când fotografiați ruinele; solul din jur poate fi foarte noroios după ploaie.",
+                "en": "Protect your camera from moisture while photographing the ruins; the ground around the site can be very muddy after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "See L'Escale",
+                "hu": "L'Escale-tó",
+                "ro": "Lacul Escale",
+                "en": "Lac de l'Escale"
+              },
+              "tip_4lang": {
+                "de": "Der Uferweg ist bei Regen eine Herausforderung für schmale Reifen; genießen Sie die graue, friedliche Stimmung des Sees unter Ihrem Regenponcho.",
+                "hu": "A tóparti út esőben kihívást jelenthet a vékony gumiknak; élvezze a tó szürke, békés hangulatát az esőponchoja alól.",
+                "ro": "Drumul de pe malul lacului poate fi o provocare pentru anvelopele înguste; bucurați-vă de atmosfera gri și pașnică sub pelerina de ploaie.",
+                "en": "The lakeside path can be a challenge for narrow tires in the rain; enjoy the grey, peaceful mood of the lake from under your rain poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-Mandanois",
+                "hu": "Notre-Dame-de-Mandanois Templom",
+                "ro": "Biserica Notre-Dame-de-Mandanois",
+                "en": "Church of Notre-Dame-de-Mandanois"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour im trockenen Kirchenschiff; wischen Sie den Sattel Ihres Rads gut ab, bevor Sie sich für den Heimweg wieder daraufsetzen.",
+                "hu": "Zárja a túrát a száraz templomhajóban; alaposan törölje le a nyerget, mielőtt újra felpattanna a bringára a hazaúthoz.",
+                "ro": "Încheiați turul în naosul uscat al bisericii; ștergeți bine șaua bicicletei înainte de a pleca spre casă prin ploaie.",
+                "en": "End your tour in the dry nave of the church; wipe your bike saddle thoroughly before heading back home in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Handschuhe und Ohrenschutz gegen den kalten Fahrtwind. Der Morgen beginnt am Rathaus und führt durch die stille Landschaft zum Schloss. Mittags geht es weiter nach Volonne, wo die tiefstehende Sonne lange Schatten wirft. Nachmittags erkunden wir die Ruinen und den See, bevor wir die Tour gegen 16:30 Uhr beenden, um der einsetzenden Dunkelheit und Kälte zu entgehen.",
+            "hu": "A téli kerékpártúra meleg kesztyűt és fülvédőt igényel a hideg menetszél ellen. A reggel a városházánál indul, és a csendes tájon át vezet a kastélyhoz. Délben Volonne felé folytatjuk, ahol az alacsonyan járó nap hosszú árnyékokat vet. Délután a romokat és a tavat érintjük, majd 16:30 körül zárjuk a túrát, elkerülve a hirtelen sötétedést és lehűlést.",
+            "ro": "Un tur cu bicicleta iarna necesită mănuși groase și protecție pentru urechi împotriva vântului rece. Dimineața începe la primărie și continuă prin peisajul liniștit spre castel. La prânz mergem spre Volonne, unde soarele jos proiectează umbre lungi. După-amiaza explorăm ruinele și lacul, încheind turul în jurul orei 16:30 pentru a evita întunericul și frigul.",
+            "en": "A winter bike tour requires warm gloves and ear protection against the cold wind. The morning starts at the town hall and leads through the quiet landscape to the castle. At noon, continue to Volonne, where the low sun casts long shadows. In the afternoon, visit the ruins and the lake, finishing the tour around 4:30 PM to avoid the onset of darkness and cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Château-Arnoux-Saint-Auban",
+                "hu": "Château-Arnoux-Saint-Auban Városháza",
+                "ro": "Primăria din Château-Arnoux-Saint-Auban",
+                "en": "Town Hall of Château-Arnoux-Saint-Auban"
+              },
+              "tip_4lang": {
+                "de": "Wärmen Sie sich kurz im Vorraum auf, bevor Sie die Fahrt fortsetzen; prüfen Sie den Luftdruck Ihrer Reifen, da dieser bei Kälte sinken kann.",
+                "hu": "Melegedjen meg kicsit az előtérben, mielőtt folytatná az utat; ellenőrizze a guminyomást, mert a hidegben lecsökkenhet.",
+                "ro": "Încălziți-vă puțin în hol înainte de a continua drumul; verificați presiunea pneurilor, deoarece aceasta poate scădea la temperaturi joase.",
+                "en": "Warm up briefly in the lobby before continuing your ride; check your tire pressure as it can drop in cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Château-Arnoux",
+                "hu": "Château-Arnoux Kastély",
+                "ro": "Castelul Château-Arnoux",
+                "en": "Château-Arnoux Castle"
+              },
+              "tip_4lang": {
+                "de": "Das Schloss bietet eine willkommene Pause vom kalten Wind; parken Sie Ihr Rad in Sichtweite, um schnell wieder aufbrechen zu können.",
+                "hu": "A kastély szívesen látott pihenőt kínál a hideg szél elől; parkolja a bringát látható helyre, hogy gyorsan folytathassa az utat.",
+                "ro": "Castelul oferă o pauză binevenită de la vântul rece; parcați bicicleta la vedere pentru a putea pleca rapid mai departe.",
+                "en": "The castle offers a welcome break from the cold wind; park your bike within sight so you can quickly set off again."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Volonne",
+                "hu": "Volonne Városháza",
+                "ro": "Primăria din Volonne",
+                "en": "Town Hall of Volonne"
+              },
+              "tip_4lang": {
+                "de": "Die Abfahrt nach Volonne kann im Winter sehr zugig sein, ziehen Sie eine winddichte Schicht an; das Rathaus markiert die Hälfte Ihrer Tour.",
+                "hu": "A Volonne-ba vezető lejtő télen nagyon huzatos lehet, vegyen fel szélálló réteget; a városháza a túra felét jelzi.",
+                "ro": "Coborârea spre Volonne poate fi foarte rece iarna, purtați un strat rezistent la vânt; primăria marchează jumătatea turului tău.",
+                "en": "The descent to Volonne can be very drafty in winter, wear a windproof layer; the town hall marks the halfway point of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom Romjai",
+                "ro": "Ruinele Bisericii Saint-Martin",
+                "en": "Ruins of Saint-Martin Church"
+              },
+              "tip_4lang": {
+                "de": "Im Winter sind die Ruinen oft menschenleer und sehr friedlich; achten Sie auf vereiste Stellen auf den unbefestigten Wegen rund um die Kirche.",
+                "hu": "Télen a romok gyakran néptelenek és nagyon békések; ügyeljen a jeges foltokra a templom körüli burkolatlan utakon.",
+                "ro": "Iarna ruinele sunt adesea pustii și foarte liniștite; atenție la porțiunile înghețate de pe drumurile neasfaltate din jurul bisericii.",
+                "en": "In winter, the ruins are often deserted and very peaceful; watch out for icy patches on the unpaved paths around the church."
+              }
+            },
+            {
+              "name": {
+                "de": "See L'Escale",
+                "hu": "L'Escale-tó",
+                "ro": "Lacul Escale",
+                "en": "Lac de l'Escale"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Winterluft am Seeufer, aber bleiben Sie in Bewegung, um warm zu bleiben; das Licht am späten Nachmittag ist ideal für Fotos.",
+                "hu": "Élvezze a tiszta téli levegőt a tóparton, de maradjon mozgásban, hogy ne fázzon meg; a késő délutáni fények ideálisak a fotózáshoz.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe malul lacului, dar rămâneți în mișcare pentru a nu îngheța; lumina de după-amiază este ideală pentru poze.",
+                "en": "Enjoy the clear winter air by the lakeshore, but keep moving to stay warm; the late afternoon light is perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-Mandanois",
+                "hu": "Notre-Dame-de-Mandanois Templom",
+                "ro": "Biserica Notre-Dame-de-Mandanois",
+                "en": "Church of Notre-Dame-de-Mandanois"
+              },
+              "tip_4lang": {
+                "de": "Ein letzter spiritueller Stopp, bevor es dunkel wird; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
+                "hu": "Egy utolsó lelki megálló, mielőtt besötétedik; győződjön meg róla, hogy a kerékpár világítása tökéletesen működik a hazaúthoz.",
+                "ro": "Un ultim popas spiritual înainte de lăsarea întunericului; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere.",
+                "en": "A final spiritual stop before it gets dark; ensure your bike lights are working perfectly for the ride back in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggel: Kezdje autós túráját a történelmi Château-Arnoux kastélynál, elmerülve a helyi középkori történelemben a városközpontban.\nDél: Vezessen Volonne-ba, hogy megcsodálja a városházát és az Église Saint-Martin figyelemre méltó romjait, amelyek a régió legjobb kilátópontjait kínálják.\nDélután: Haladjon délre a Chapelle de l'Immaculée-Conception mellett a Lac de l'Escale felé, ahol leparkolhat és tehet egy frissítő sétát a vízparton.\nEste: Zárja autós utazását egy festői vezetéssel a DFCI természeti területére, belélegezve a friss levegőt egy változatos városnéző nap után.",
         "ro": "Dimineața: Începeți turul cu mașina la istoricul castel Château-Arnoux, cufundându-vă în istoria medievală locală chiar în centrul orașului.\nPrânz: Conduceți la Volonne pentru a admira primăria și ruinele remarcabile ale Église Saint-Martin, care oferă unele dintre cele mai bune puncte de belvedere.\nDupă-amiaza: Îndreptați-vă spre sud pe lângă Chapelle de l'Immaculée-Conception spre Lac de l'Escale, unde puteți parca pentru o plimbare revigorantă pe malul apei.\nSeara: Încheiați-vă călătoria cu un drum pitoresc către zona naturală DFCI, respirând aer curat și reflectând la o zi diversă de explorare.",
         "en": "Morning: Start your driving tour at the historic Château-Arnoux Castle, immersing yourself in local medieval history right in the center of town.\nMidday: Drive to Volonne to admire its town hall and the remarkable ruins of Église Saint-Martin, offering some of the best vantage points in the region.\nAfternoon: Head south past the Chapelle de l'Immaculée-Conception towards Lac de l'Escale, where you can park and take a refreshing walk by the water.\nEvening: Conclude your road trip with a scenic drive out to the DFCI natural area, breathing in the fresh air and reflecting on a diverse day of sightseeing."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Region auch bei Regen bequem zu erkunden. Der Morgen beginnt trocken im Schloss, gefolgt von einer kurzen Fahrt zum Rathaus von Volonne. Mittags besichtigen wir die Ruinen, wobei der Regenschirm für den kurzen Fußweg bereitliegen sollte. Der Nachmittag führt zum See und zum DFCI-Gebiet, wo die Natur im Regen besonders frisch duftet, bevor wir den Abend im warmen Fahrzeug ausklingen lassen.",
+            "hu": "Autóval a régió esőben is kényelmesen felfedezhető. A reggel szárazon indul a kastélyban, majd egy rövid út következik Volonne városházájához. Délben a romokat nézzük meg, az esernyőt tartsuk készenlétben a rövid sétához. A délután a tóhoz és a DFCI területre vezet, ahol a természet illata esőben különösen friss, mielőtt az estét a meleg autóban zárnánk.",
+            "ro": "Cu mașina, regiunea poate fi explorată confortabil chiar și pe ploaie. Dimineața începe la uscat în castel, urmată de o scurtă călătorie spre primăria din Volonne. La prânz vizităm ruinele, având umbrela pregătită pentru scurta plimbare. După-amiaza ne duce la lac și în zona DFCI, unde natura miroase proaspăt sub ploaie, înainte de a încheia seara în confortul vehiculului.",
+            "en": "By car, the region can be explored comfortably even in the rain. The morning starts dry at the castle, followed by a short drive to the Volonne town hall. At noon, visit the ruins, keeping an umbrella ready for the short walk. The afternoon leads to the lake and the DFCI area, where nature smells especially fresh in the rain, before ending the evening in your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Château-Arnoux",
+                "hu": "Château-Arnoux Kastély",
+                "ro": "Castelul Château-Arnoux",
+                "en": "Château-Arnoux Castle"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie auf dem nahen Parkplatz, um den Fußweg im Regen kurz zu halten; die Innenbesichtigung ist die perfekte Schlechtwetter-Option.",
+                "hu": "Parkoljon a közeli parkolóban, hogy rövid legyen a séta az esőben; a belső látogatás tökéletes opció rossz idő esetén.",
+                "ro": "Parcați în parcarea apropiată pentru a scurta mersul prin ploaie; vizitarea interiorului este opțiunea perfectă pentru vreme rea.",
+                "en": "Park in the nearby lot to keep the walk in the rain short; the interior tour is the perfect bad-weather option for the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Volonne",
+                "hu": "Volonne Városháza",
+                "ro": "Primăria din Volonne",
+                "en": "Town Hall of Volonne"
+              },
+              "tip_4lang": {
+                "de": "Die Fahrt über die Brücke nach Volonne bietet bei Regen dramatische Ausblicke auf die Durance; das Rathaus ist vom Parkplatz aus schnell erreichbar.",
+                "hu": "A Volonne-ba vezető híd esőben drámai kilátást nyújt a Durance-ra; a városháza a parkolóból gyorsan elérhető.",
+                "ro": "Drumul peste pod spre Volonne oferă vederi dramatice asupra Durance-ului pe ploaie; primăria este rapid accesibilă din parcare.",
+                "en": "The drive over the bridge to Volonne offers dramatic views of the Durance in the rain; the town hall is quickly accessible from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom Romjai",
+                "ro": "Ruinele Bisericii Saint-Martin",
+                "en": "Ruins of Saint-Martin Church"
+              },
+              "tip_4lang": {
+                "de": "Vermeiden Sie das Parken auf unbefestigten Flächen, die bei Regen aufweichen könnten; ein schneller Fotostopp unter dem Regenschirm lohnt sich hier.",
+                "hu": "Kerülje a parkolást a burkolatlan felületeken, amelyek esőben felázhatnak; egy gyors fotómegálló az esernyő alól megéri itt.",
+                "ro": "Evitați parcarea pe suprafețe neasfaltate care se pot înmuia la ploaie; o scurtă oprire pentru poze sub umbrelă merită din plin.",
+                "en": "Avoid parking on unpaved surfaces that might soften in the rain; a quick photo stop under your umbrella is well worth it here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Kápolnája",
+                "ro": "Capela Imaculatei Concepții",
+                "en": "Chapel of the Immaculate Conception"
+              },
+              "tip_4lang": {
+                "de": "Die Kapelle bietet eine spirituelle und trockene Pause; achten Sie beim Aussteigen auf Pfützen, die sich oft vor dem Kircheneingang bilden.",
+                "hu": "A kápolna spirituális és száraz pihenőt kínál; kiszálláskor ügyeljen a tócsákra, amelyek gyakran a templombejárat előtt alakulnak ki.",
+                "ro": "Capela oferă un popas spiritual și uscat; la coborâre, atenție la bălțile care se formează adesea în fața intrării în biserică.",
+                "en": "The chapel offers a spiritual and dry break; watch out for puddles when getting out of the car, as they often form in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "See L'Escale",
+                "hu": "L'Escale-tó",
+                "ro": "Lacul Escale",
+                "en": "Lac de l'Escale"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den See direkt aus dem warmen Auto, falls es zu stark regnet; wasserfeste Kleidung ist für einen kurzen Ufergang nötig.",
+                "hu": "Élvezze a tóra nyíló kilátást közvetlenül a meleg autóból, ha túl erősen esne; a rövid parti sétához vízálló ruházat szükséges.",
+                "ro": "Bucurați-vă de vederea spre lac direct din mașina caldă dacă plouă prea tare; hainele impermeabile sunt necesare pentru o scurtă plimbare pe mal.",
+                "en": "Enjoy the lake views directly from your warm car if it rains too hard; waterproof clothing is necessary for a short walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturgebiet DFCI",
+                "hu": "DFCI Természetvédelmi Terület",
+                "ro": "Zona Naturală DFCI",
+                "en": "DFCI Nature Area"
+              },
+              "tip_4lang": {
+                "de": "Die unbefestigten Wege im DFCI-Gebiet können bei Regen für PKW schwierig sein; bleiben Sie auf den Hauptwegen und genießen Sie die Waldluft.",
+                "hu": "A DFCI terület burkolatlan útjai esőben nehezek lehetnek személyautóval; maradjon a főutakon, és élvezze a friss erdei levegőt.",
+                "ro": "Drumurile neasfaltate din zona DFCI pot fi dificile pentru mașini pe ploaie; rămâneți pe drumurile principale și bucurați-vă de aerul pădurii.",
+                "en": "Unpaved roads in the DFCI area can be tricky for cars in the rain; stay on the main paths and enjoy the fresh forest air from the window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Panoramafahrten durch die Haute-Provence sind dank der Sitzheizung ein Genuss. Der Morgen beginnt am Schloss, wo das Morgenlicht die Steine erwärmt. Nach einem Stopp in Volonne erkunden wir die winterlichen Ruinen und Kapellen. Der Nachmittag am See bietet klare Fernsichten auf die Alpen, bevor wir im Naturgebiet DFCI den Sonnenuntergang gegen 17:00 Uhr beobachten und dann im warmen Auto zurückkehren.",
+            "hu": "A téli panorámautak Felső-Provence-ban az autó fűtésének köszönhetően igazi élményt nyújtanak. A reggel a kastélynál indul, ahol a reggeli fények felmelegítik a köveket. Volonne után a téli romokat és kápolnákat érintjük. A délután a tónál tiszta kilátást kínál az Alpokra, majd a DFCI területen 17:00 körül megnézzük a naplementét.",
+            "ro": "Călătoriile panoramice de iarnă prin Haute-Provence sunt o plăcere datorită căldurii din mașină. Dimineața începe la castel, unde lumina dimineții încălzește pietrele. După Volonne, explorăm ruinele și capelele de iarnă. După-amiaza la lac oferă vederi clare spre Alpi, iar în zona DFCI vedem apusul în jur de ora 17:00 înainte de a ne întoarce.",
+            "en": "Winter scenic drives through Haute-Provence are a delight thanks to the car's heater. The morning starts at the castle, where the morning light warms the stones. After a stop in Volonne, explore the winter ruins and chapels. The afternoon at the lake offers clear views of the Alps, followed by sunset in the DFCI area around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Château-Arnoux",
+                "hu": "Château-Arnoux Kastély",
+                "ro": "Castelul Château-Arnoux",
+                "en": "Château-Arnoux Castle"
+              },
+              "tip_4lang": {
+                "de": "Die Innenbesichtigung bietet Schutz vor dem kalten Mistral-Wind; nutzen Sie das klare Winterlicht für beeindruckende Außenaufnahmen des Schlosses.",
+                "hu": "A belső látogatás védelmet nyújt a hideg misztrál szél ellen; használja ki a tiszta téli fényeket a kastély lenyűgöző külső fotózásához.",
+                "ro": "Vizitarea interiorului oferă protecție împotriva vântului rece Mistral; folosiți lumina clară de iarnă pentru fotografii exterioare impresionante.",
+                "en": "The interior tour offers protection from the cold Mistral wind; use the clear winter light for impressive exterior photos of the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Volonne",
+                "hu": "Volonne Városháza",
+                "ro": "Primăria din Volonne",
+                "en": "Town Hall of Volonne"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf eventuelle Glätte auf der Brücke nach Volonne; das Rathaus liegt im Herzen des Dorfes, das im Winter sehr beschaulich wirkt.",
+                "hu": "Ügyeljen az esetleges jegesedésre a Volonne-ba vezető hídon; a városháza a falu szívében található, amely télen nagyon békés hangulatot áraszt.",
+                "ro": "Atenție la posibila gheață pe podul spre Volonne; primăria se află în inima satului, care iarna pare foarte liniștit și pitoresc.",
+                "en": "Watch out for potential ice on the bridge to Volonne; the town hall is in the heart of the village, which feels very peaceful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen der Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom Romjai",
+                "ro": "Ruinele Bisericii Saint-Martin",
+                "en": "Ruins of Saint-Martin Church"
+              },
+              "tip_4lang": {
+                "de": "Die Ruinen wirken im Winterlicht besonders melancholisch; ziehen Sie sich für den kurzen Fußweg vom Parkplatz zu den Ruinen warm an.",
+                "hu": "A romok a téli fényben különösen melankolikusnak tűnnek; öltözzön fel melegen a parkolótól a romokig tartó rövid sétához.",
+                "ro": "Ruinele par deosebit de melancolice în lumina iernii; îmbrăcați-vă gros pentru scurta plimbare de la parcare până la situl istoric.",
+                "en": "The ruins look especially melancholic in the winter light; dress warmly for the short walk from the parking lot to the historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Kápolnája",
+                "ro": "Capela Imaculatei Concepții",
+                "en": "Chapel of the Immaculate Conception"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort für eine kurze Winterandacht; die Kapelle bietet Schutz vor der Kälte, falls der Wind im Tal zu stark weht.",
+                "hu": "Csendes hely egy rövid téli elcsendesedéshez; a kápolna védelmet nyújt a hideg ellen, ha a völgyben túl erősen fújna a szél.",
+                "ro": "Un loc liniștit pentru un scurt moment de reculegere; capela oferă protecție împotriva frigului dacă vântul suflă prea tare în vale.",
+                "en": "A quiet place for a brief winter reflection; the chapel provides shelter from the cold if the wind in the valley gets too strong."
+              }
+            },
+            {
+              "name": {
+                "de": "See L'Escale",
+                "hu": "L'Escale-tó",
+                "ro": "Lacul Escale",
+                "en": "Lac de l'Escale"
+              },
+              "tip_4lang": {
+                "de": "Der See spiegelt oft die schneebedeckten Gipfel in der Ferne wider; bleiben Sie für den Sonnenuntergang im Auto, um die Kälte zu meiden.",
+                "hu": "A tó gyakran tükrözi a távoli hófödte csúcsokat; maradjon az autóban a naplemente megtekintéséhez, hogy elkerülje a kinti fagyot.",
+                "ro": "Lacul reflectă adesea vârfurile înzăpezite din depărtare; rămâneți în mașină pentru a vedea apusul și a evita frigul de afară.",
+                "en": "The lake often reflects the snow-capped peaks in the distance; stay in the car to watch the sunset to avoid the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturgebiet DFCI",
+                "hu": "DFCI Természetvédelmi Terület",
+                "ro": "Zona Naturală DFCI",
+                "en": "DFCI Nature Area"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf vereiste Abschnitte auf den höhergelegenen Straßen; genießen Sie die winterliche Stille des Waldes vor der frühen Dunkelheit um 17:00 Uhr.",
+                "hu": "Ügyeljen a jeges szakaszokra a magasabban fekvő utakon; élvezze az erdő téli csendjét a korai, 17:00 órai sötétedés előtt.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile de la altitudine; bucurați-vă de liniștea iernii în pădure înainte de întunericul de la ora 17:00.",
+                "en": "Watch out for icy patches on the higher roads; enjoy the winter silence of the forest before the early darkness sets in at 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

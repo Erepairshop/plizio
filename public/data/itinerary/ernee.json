@@ -114,6 +114,140 @@
         "hu": "Kezdje a napot Ernée történelmi szívében, élvezve a Pannard-kastély fenséges hangulatát és a friss reggeli levegőt, mielőtt a zöldbe indulna.\n\nDél közeledtével merüljön el a Bizeuls vizes élőhelyek gazdag biodiverzitásában, élvezve a békés ebédszünetet a helyi növény- és állatvilág körében.\n\nA délután a művészeté a Louis Derbré Kulturális Térben, ahol a monumentális bronzszobrok lenyűgöző párbeszédet folytatnak a nyitott éggel.\n\nZárja sétáját a Charné kápolna békés esti látogatásával, visszagondolva a nap történelmi felfedezéseire, miközben a lemenő nap megvilágítja a falakat.",
         "ro": "Începeți-vă ziua plimbându-vă prin inima istorică a orașului Ernée, admirând atmosfera Castelului Pannard și aerul proaspăt al dimineții.\n\nLa prânz, cufundați-vă în bogata biodiversitate a zonelor umede Bizeuls, bucurându-vă de o pauză liniștită înconjurați de floră și faună.\n\nDupă-amiaza este dedicată artei la Espace Culturel Louis Derbré, unde sculpturile monumentale din bronz creează un dialog fascinant cu cerul deschis.\n\nÎncheiați-vă călătoria cu o vizită senină la Capela din Charné, reflectând asupra descoperirilor zilei în timp ce soarele apune peste pietrele antice.",
         "en": "Start your day walking through the historic heart of Ernée, taking in the majestic atmosphere of Pannard Castle and the crisp morning air before continuing to the lush natural landscapes just outside the urban center.\n\nAs noon approaches, immerse yourself in the rich biodiversity of the Bizeuls wetlands, enjoying a peaceful lunch break surrounded by native flora and fauna while listening to the soothing sounds of nature.\n\nThe afternoon is dedicated to art and culture at the expansive Espace Culturel Louis Derbré, where monumental bronze sculptures create a fascinating dialogue with the open sky and surrounding greenery.\n\nConclude your walking journey with a serene evening visit to the Chapelle de Charné, reflecting on the day's historical and cultural discoveries as the sun sets and bathes the ancient stone walls in warm light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Schloss mit einem Regenschirm. Navigieren Sie mittags vorsichtig auf den rutschigen Pfaden im Naturschutzgebiet. Der Nachmittag bietet einen trockenen Zufluchtsort im Kulturzentrum. Beenden Sie den regnerischen Abend in der ruhigen Kapelle.",
+            "hu": "Kezdje a reggelt a kastélynál egy erős esernyővel. Délben óvatosan sétáljon a természetvédelmi terület csúszós ösvényein. A délután száraz, fedett menedéket nyújt a kulturális központban. Este hallgassa az eső kopogását a csendes kápolnában.",
+            "ro": "Începeți dimineața la castel cu o umbrelă rezistentă. La prânz, navigați cu atenție pe cărările alunecoase din rezervația naturală. După-amiaza oferă un refugiu acoperit în centrul cultural. Încheiați seara ascultând ploaia la liniștita capelă.",
+            "en": "Start your morning at the castle with a sturdy umbrella. By noon, navigate the slippery paths of the nature reserve carefully. The afternoon offers a dry, indoor haven at the cultural center. Conclude your evening listening to the rain at the quiet chapel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Pannard",
+                "hu": "Pannard-kastély",
+                "ro": "Castelul Pannard",
+                "en": "Pannard Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die nasse Steinfassade des Schlosses; bringen Sie einen robusten Regenschirm für den ungeschützten Innenhof mit.",
+                "hu": "Csodálja meg a kastély nedves kőhomlokzatát; hozzon erős esernyőt a nyitott udvaron tett sétához.",
+                "ro": "Admirați fațada umedă de piatră a castelului; aduceți o umbrelă solidă pentru curtea expusă.",
+                "en": "Admire the wet stone facade of the castle; bring a sturdy umbrella for exploring the exposed courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionales Naturschutzgebiet Bizeuls",
+                "hu": "Bizeuls Regionális Természetvédelmi Terület",
+                "ro": "Rezervația naturală regională Bizeuls",
+                "en": "Bizeuls Regional Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nebligen Feuchtgebiete; tragen Sie wasserdichte Schuhe, da die rutschigen Wege sehr schlammig werden können.",
+                "hu": "Élvezze a ködös vizes élőhelyeket; viseljen vízálló cipőt, mert az erdei ösvények csúszósak és sarasak lehetnek.",
+                "ro": "Bucurați-vă de zonele umede încețoșate; purtați încălțăminte impermeabilă, deoarece traseele devin foarte noroioase.",
+                "en": "Enjoy the misty wetlands; wear waterproof boots as the woodland trails can get slippery and very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Louis Derbré",
+                "hu": "Louis Derbré Kulturális Tér",
+                "ro": "Spațiul Cultural Louis Derbré",
+                "en": "Espace Culturel Louis Derbré"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor dem Regen in diesen trockenen Innenräumen und bewundern Sie die monumentalen Skulpturen.",
+                "hu": "Keressen fedett menedéket az eső elől ebben a kiváló beltéri térben, és csodálja meg a monumentális szobrokat.",
+                "ro": "Căutați un adăpost uscat de ploaie în acest spațiu interior excelent și admirați sculpturile monumentale.",
+                "en": "Take refuge from the rain in this dry indoor space, taking your time to admire the monumental sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Charné",
+                "hu": "Charné kápolna",
+                "ro": "Capela din Charné",
+                "en": "Chapelle de Charné"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im Kirchenschiff; der Regen, der auf das alte Holzdach prasselt, wirkt sehr mystisch.",
+                "hu": "Keressen menedéket a hajóban; a régi fa tetőn kopogó eső mélyen misztikus, nyugtató hangulatot teremt.",
+                "ro": "Căutați adăpost în naos; ploaia care bate pe vechiul acoperiș de lemn adaugă un aer profund mistic.",
+                "en": "Seek shelter in the nave; the sound of rain tapping on the old wooden roof adds a deeply mystical feel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen klaren Wintermorgen am frostigen Schloss. Ziehen Sie sich mittags warm an für einen Spaziergang im Naturschutzgebiet. Wärmen Sie sich nachmittags im Kulturzentrum auf. Besuchen Sie die Kapelle vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Élvezze a csípős téli reggelt a zúzmarás kastély kertjében. Délben vegyen fel meleg rétegeket egy sétához a természetben. A délutánt töltse a kulturális térben felmelegedve. Látogassa meg a kápolnát a 17:00 körüli korai sötétedés előtt.",
+            "ro": "Bucurați-vă de o dimineață senină de iarnă la castelul înghețat. La prânz, îmbrăcați-vă în straturi pentru o plimbare în natură. După-amiaza încălziți-vă în centrul cultural. Vizitați capela înainte de apusul timpuriu de la ora 17:00.",
+            "en": "Enjoy a crisp winter morning at the frosty castle grounds. At noon, wear warm layers for a brisk walk through nature. Spend the afternoon thawing out inside the cultural space. Visit the chapel before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Pannard",
+                "hu": "Pannard-kastély",
+                "ro": "Castelul Pannard",
+                "en": "Pannard Castle"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Schlossanlagen sind wunderschön, aber kalt; tragen Sie dicke Handschuhe für die Außenwege.",
+                "hu": "A zúzmarás kastélyudvar gyönyörű, de nagyon hideg; viseljen vastag kesztyűt a szabadtéri sétához.",
+                "ro": "Domeniile înghețate ale castelului sunt superbe, dar reci; purtați mănuși groase pentru potecile exterioare.",
+                "en": "The frosty castle grounds are beautiful but freezing; wear thick gloves for walking the outdoor paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionales Naturschutzgebiet Bizeuls",
+                "hu": "Bizeuls Regionális Természetvédelmi Terület",
+                "ro": "Rezervația naturală regională Bizeuls",
+                "en": "Bizeuls Regional Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht die Vogelbeobachtung erfrischend; packen Sie sich gegen den kalten Morgenwind gut ein.",
+                "hu": "A csípős téli levegő felfrissíti a madármegfigyelést; öltözzön meleg rétegekbe a hideg szél ellen.",
+                "ro": "Aerul de iarnă face observarea păsărilor revigorantă; îmbrăcați-vă bine împotriva vântului rece de dimineață.",
+                "en": "Crisp winter air makes birdwatching refreshing; bundle up with warm layers against the cold morning wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Louis Derbré",
+                "hu": "Louis Derbré Kulturális Tér",
+                "ro": "Spațiul Cultural Louis Derbré",
+                "en": "Espace Culturel Louis Derbré"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, warmer Ort, um sich drinnen aufzuhalten, während man die beeindruckenden Kunstwerke betrachtet.",
+                "hu": "Tökéletes meleg hely a beltéri felmelegedéshez, miközben lenyűgöző helyi művészeti alkotásokat tekinthet meg.",
+                "ro": "Un loc cald perfect pentru a vă încălzi în interior în timp ce admirați operele de artă impresionante.",
+                "en": "A perfect warm place to thaw out indoors while viewing the impressive local art and sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Charné",
+                "hu": "Charné kápolna",
+                "ro": "Capela din Charné",
+                "en": "Chapelle de Charné"
+              },
+              "tip_5lang": {
+                "de": "Wunderschön im späten Winternachmittagslicht; die Steinböden können kalt sein, also tragen Sie warme Socken.",
+                "hu": "Gyönyörű a késő délutáni téli fényekben a korai sötétedés előtt; a kőpadló hideg lehet, viseljen meleg zoknit.",
+                "ro": "Superbă în lumina târzie de iarnă înainte de întuneric; podelele de piatră sunt reci, purtați șosete groase.",
+                "en": "Beautiful in the late afternoon winter light before early dusk; the stone floors can be cold, so wear warm socks."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +402,196 @@
         "hu": "Indítsa aktívan a napot az ősi Dolmen de la Contrie felé pedálozva, majd folytassa útját a békés Bizeuls természetvédelmi terület irányába.\n\nÉlvezze a déli napsütést a monumentális művészetek között a Louis Derbré Kulturális Térben, amely tökéletes helyszín egy rövid pihenőre.\n\nA délutáni túra az impozáns Pannard-kastély és a csendes Charné kápolna mellett halad el, elragadó építészeti kontrasztokat kínálva.\n\nFejezze be kerékpártúráját a Montenay tópartján, ahol a nyugodt esti vizek tükrözik a naplementét, tökéletes lezárást nyújtva az aktív napnak.",
         "ro": "Începeți dimineața pedalând spre anticul Dolmen de la Contrie, simțind briza revigorantă înainte de a vă îndrepta spre rezervația Bizeuls.\n\nBucurați-vă de soarele amiezii înconjurați de artă monumentală la Espace Culturel Louis Derbré, un loc perfect pentru a vă odihni picioarele.\n\nPlimbarea de după-amiază vă poartă pe lângă impunătorul Castel Pannard și liniștita Capelă din Charné, oferind contraste arhitecturale încântătoare.\n\nTerminați turul cu bicicleta relaxându-vă la lacul Montenay, unde apele liniștite de seară reflectă apusul perfect.",
         "en": "Kick off an active morning by pedaling to the ancient Dolmen de la Contrie, feeling the refreshing breeze as you cycle through history before navigating towards the serene Bizeuls nature reserve for a quiet break.\n\nEnjoy the midday sun surrounded by monumental art at Espace Culturel Louis Derbré, a perfect spot to rest your legs and marvel at massive bronze works before heading back towards the town's historical landmarks.\n\nYour afternoon ride takes you past the imposing Pannard Castle and the tranquil Chapelle de Charné, offering delightful architectural contrasts that are easily appreciated from the comfortable pace of your bicycle saddle.\n\nFinish your cycling tour with a relaxing glide down to the Jeux plan d'eau Montenay, where the calm evening waters reflect the sunset, providing a perfect, family-friendly atmosphere to wind down your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt zum Dolmen erfordert Regenkleidung. Mittags könnten die Naturpfade schlammig sein. Nachmittags gibt es einen trockenen Kulturstopp. Spätnachmittags ist der Wasserpark bei Regen sowieso nass.",
+            "hu": "A reggeli tekerés a dolmenhez esőkabátot igényel. Délben a természetvédelmi utak csúszósak lehetnek. Délután élvezze a fedett kulturális megállót. Késő délután a vízi park amúgy is vizes élményt nyújt.",
+            "ro": "Ciclismul de dimineață spre dolmen necesită pelerină de ploaie. La prânz, traseele naturale pot fi noroioase. După-amiaza oferă un stop cultural uscat. Parcul acvatic de seară e oricum umed.",
+            "en": "Morning ride to the dolmen requires rain gear. Midday nature trails might be slippery and muddy. Afternoon brings a dry, indoor cultural stop. Late afternoon water park is a wet experience anyway."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de la Contrie",
+                "hu": "Dolmen de la Contrie",
+                "ro": "Dolmen de la Contrie",
+                "en": "Dolmen de la Contrie"
+              },
+              "tip_5lang": {
+                "de": "Die uralten Steine wirken im Regen dramatisch; achten Sie auf rutschiges nasses Gras, wenn Sie absteigen.",
+                "hu": "Az ősi kövek drámaian festenek az esőben; leszálláskor ügyeljen a rendkívül csúszós nedves fűre.",
+                "ro": "Pietrele antice arată dramatic în ploaie; aveți grijă la iarba umedă și alunecoasă la coborâre.",
+                "en": "The ancient stones look dramatic in the rain; watch out for very slippery wet grass when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionales Naturschutzgebiet Bizeuls",
+                "hu": "Bizeuls Regionális Természetvédelmi Terület",
+                "ro": "Rezervația naturală regională Bizeuls",
+                "en": "Bizeuls Regional Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Holzstegen; die reiche, regengespeiste Vegetation ist ein wunderschöner Anblick.",
+                "hu": "Fokozott óvatossággal tekerjen a csúszós fa pallókon; a buja, eső áztatta növényzet gyönyörű látványt nyújt.",
+                "ro": "Ciclism cu prudență pe podețele de lemn umede; vegetația bogată hrănită de ploaie este o priveliște frumoasă.",
+                "en": "Cycle with extreme caution on slippery wet boardwalks; the rich, rain-fed vegetation is a beautiful sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Louis Derbré",
+                "hu": "Louis Derbré Kulturális Tér",
+                "ro": "Spațiul Cultural Louis Derbré",
+                "en": "Espace Culturel Louis Derbré"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und machen Sie eine Pause vom Regen im Inneren, um die riesigen Skulpturen zu bewundern.",
+                "hu": "Tegye le a biciklit, és tartson egy fedett pihenőt az eső elől, hogy megcsodálja a hatalmas szobrokat.",
+                "ro": "Parcați bicicleta și faceți o pauză de la ploaie în interior pentru a admira sculpturile masive.",
+                "en": "Park your bike and take a dry indoor break from the rain to admire the massive sculptural artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pannard",
+                "hu": "Pannard-kastély",
+                "ro": "Castelul Pannard",
+                "en": "Pannard Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Schlossmauern sind bei Nässe markant; schalten Sie bei trübem Wetter unbedingt Ihre Fahrradlichter ein.",
+                "hu": "A kastély falai esőben is lenyűgözőek; a borús idő miatt mindenképpen kapcsolja be a kerékpár lámpáit.",
+                "ro": "Zidurile castelului sunt impresionante când sunt umede; asigurați-vă că aprindeți luminile bicicletei pe vreme mohorâtă.",
+                "en": "The castle walls are striking when wet; be sure to keep your bike lights on during the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Charné",
+                "hu": "Charné kápolna",
+                "ro": "Capela din Charné",
+                "en": "Chapelle de Charné"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Unterstand vor dem Nieselregen; seien Sie vorsichtig auf den nassen Kopfsteinpflastern draußen.",
+                "hu": "Csendes menedék a szitáló eső elől; kint nagyon óvatosan tekerjen a csúszós nedves macskaköveken.",
+                "ro": "Un adăpost liniștit de burniță; fiți foarte prudenți pe pietrele cubice umede din exterior.",
+                "en": "A quiet shelter from the continuous drizzle; be extremely careful on the slippery wet cobblestones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserspielplatz Montenay",
+                "hu": "Montenay vízi játszótér",
+                "ro": "Parcul acvatic Montenay",
+                "en": "Montenay Water Park Games"
+              },
+              "tip_5lang": {
+                "de": "Sie werden beim Radfahren ohnehin nass, aber tragen Sie wasserdichte Kleidung, wenn Sie nur zuschauen wollen.",
+                "hu": "Biciklizés közben amúgy is megázott, de ha csak nézelődik a parkban, tartsa magán a vízálló felszerelést.",
+                "ro": "Oricum vă udați pedalând, dar păstrați hainele impermeabile dacă doar priviți instalațiile acvatice.",
+                "en": "You're getting wet cycling anyway, but keep your waterproof gear on if you are just watching the water features."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige morgendliche Radtour zum Megalith. Mittags frische Fahrt durch die Natur. Nachmittags warmer Kulturstopp drinnen. Beenden Sie die Tour unbedingt vor dem frühen Sonnenuntergang.",
+            "hu": "Fagyos reggeli bringázás a megalithoz. Délben frissítő tekerés a természetben. Délután melegedjen fel a kulturális térben. A korai sötétedés miatt érjen célba 17:00 előtt.",
+            "ro": "Ciclism matinal geros spre megalit. La prânz plimbare revigorantă prin natură. După-amiaza oprire culturală caldă. Finalizați turul neapărat înainte de apusul timpuriu.",
+            "en": "Frosty morning cycle to the megalith. Midday brisk ride through nature. Afternoon warm indoor cultural stop. Make sure to finish the tour before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de la Contrie",
+                "hu": "Dolmen de la Contrie",
+                "ro": "Dolmen de la Contrie",
+                "en": "Dolmen de la Contrie"
+              },
+              "tip_5lang": {
+                "de": "Der frostige Megalith ist atemberaubend; tragen Sie winddichte Radbekleidung für die offene Straße.",
+                "hu": "A zúzmarás megalit lenyűgöző; viseljen szélálló kerékpáros ruházatot és meleg réteget a nyílt útszakaszon.",
+                "ro": "Megalitul înghețat este uimitor; purtați echipament de ciclism rezistent la vânt pentru drumul deschis.",
+                "en": "The frosty megalith is stunning; wear windproof cycling gear and warm layers for the open road."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionales Naturschutzgebiet Bizeuls",
+                "hu": "Bizeuls Regionális Természetvédelmi Terület",
+                "ro": "Rezervația naturală regională Bizeuls",
+                "en": "Bizeuls Regional Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine frische Fahrt; achten Sie besonders am Morgen auf Eisflächen auf dem Weg.",
+                "hu": "A téli levegő frissítővé teszi a tekerést; reggel fokozottan ügyeljen az ösvényen lévő jégfoltokra.",
+                "ro": "Aerul de iarnă oferă o plimbare proaspătă; fiți atenți la peticele de gheață de pe traseu, mai ales dimineața.",
+                "en": "Crisp winter air makes for a refreshing ride; watch closely for hidden ice patches on the path in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Louis Derbré",
+                "hu": "Louis Derbré Kulturális Tér",
+                "ro": "Spațiul Cultural Louis Derbré",
+                "en": "Espace Culturel Louis Derbré"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Hände aufzuwärmen, während man im Innenbereich die lokale Kunst genießt.",
+                "hu": "Tökéletes fedett melegedőhely, ahol kiolvaszthatja a kezeit, miközben a beltéri művészeti kiállítást élvezi.",
+                "ro": "Un loc perfect pentru a vă dezgheța mâinile în timp ce vă bucurați de arta locală în interior.",
+                "en": "A perfect indoor spot to thaw out your cold hands while safely enjoying the local art exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pannard",
+                "hu": "Pannard-kastély",
+                "ro": "Castelul Pannard",
+                "en": "Pannard Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht beleuchtet das Schloss wunderschön; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A téli napfény gyönyörűen megvilágítja a kastélyt; folyamatosan mozogjon a hidegben, hogy melegen tartsa magát.",
+                "ro": "Lumina de iarnă luminează frumos castelul; continuați să vă mișcați pentru a vă menține căldura corporală.",
+                "en": "Winter light beautifully illuminates the castle architecture; keep moving around the grounds to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Charné",
+                "hu": "Charné kápolna",
+                "ro": "Capela din Charné",
+                "en": "Chapelle de Charné"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet eine friedliche, wenn auch kühle Rast vor der frühen Dämmerung; schalten Sie Lichter ein.",
+                "hu": "A kápolna békés, bár hűvös pihenőt nyújt a korai sötétedés előtt; készüljön fel a lámpák bekapcsolására.",
+                "ro": "Capela oferă un popas liniștit, deși răcoros, înainte de amurgul timpuriu; pregătiți luminile.",
+                "en": "The chapel offers a peaceful, albeit chilly, rest stop before the early dusk falls; get your bike lights ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserspielplatz Montenay",
+                "hu": "Montenay vízi játszótér",
+                "ro": "Parcul acvatic Montenay",
+                "en": "Montenay Water Park Games"
+              },
+              "tip_5lang": {
+                "de": "Wasserspiele haben Nebensaison, also genießen Sie die architektonischen Parkstrukturen und bleiben Sie warm.",
+                "hu": "A vízi játékoknak holtszezonja van, így inkább a park szerkezeti látványát élvezze meleg ruházatban.",
+                "ro": "Jocurile de apă sunt în extrasezon, așa că bucurați-vă de structurile parcului și păstrați-vă căldura.",
+                "en": "Water features are off-season, so enjoy viewing the park's structural designs while keeping your warm layers on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +769,224 @@
         "hu": "Kezdje autós túráját a lenyűgöző Notre-Dame de l'Assomption templomnál, majd vezessen a Pannard-kastély középkori pompája felé a tiszta égen.\n\nUtazzon tovább a vidékre, hogy felfedezze az ősi Dolmen de la Contrie-t, majd tegyen egy frissítő déli sétát a Bizeuls vizes élőhelyein.\n\nA délután kényelmes autózást tartogat a Louis Derbré szobraihoz és egy gyors megállót a festői Charné kápolnánál, sietség nélkül.\n\nZárja utazását a bájos Saint-Gervais-et-Saint-Protais templomnál, élvezve a békés szürkületi hangulatot, mielőtt visszatérne a központba.",
         "ro": "Începeți turul cu mașina la grandioasa Biserică Notre-Dame de l'Assomption, mergând spre splendoarea medievală a Castelului Pannard.\n\nConduceți spre mediul rural pentru a descoperi Dolmenul preistoric de la Contrie, urmat de o plimbare răcoritoare la prânz în rezervația Bizeuls.\n\nDupă-amiaza include o deplasare confortabilă la sculpturile monumentale de la Spațiul Cultural Louis Derbré și o oprire la Capela din Charné.\n\nÎncheiați călătoria vizitând fermecătoarea Biserică Saint-Gervais-et-Saint-Protais, bucurându-vă de atmosfera pașnică a crepuscului.",
         "en": "Embark on a comprehensive driving tour starting at the grand Church of Notre-Dame de l'Assomption, smoothly cruising through Ernée's outskirts to reach the medieval splendor of Pannard Castle under the clear morning sky.\n\nDrive further into the countryside to uncover the prehistoric Dolmen de la Contrie, followed by a refreshing midday walk in the Bizeuls wetlands, easily accessible and perfect for breaking up your driving itinerary.\n\nThe afternoon features a comfortable drive to the monumental sculptures at the Louis Derbré Cultural Space and a quick stop at the picturesque Chapelle de Charné, maximizing your sightseeing without feeling rushed.\n\nWrap up your extensive car journey by visiting the charming Église Saint-Gervais-et-Saint-Protais, enjoying the peaceful twilight atmosphere before heading back to the town center for a well-deserved traditional dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrten zwischen Kirche und Schloss. Mittagsfahrt zum Dolmen und Naturreservat im Nassen. Nachmittags entspannter Museumsbesuch drinnen. Abends trockene Kirchenbesichtigung.",
+            "hu": "Reggeli autózás a templom és a kastély között. Délben esős kitérő a dolmenhez és a természethez. A délután fedett, nyugodt múzeumlátogatást kínál. Este száraz templomi vizit zárja a napot.",
+            "ro": "Deplasări matinale între biserică și castel. Conducere la prânz spre dolmen și natură pe ploaie. După-amiaza oferă un muzeu acoperit. Seara se încheie cu o vizită uscată la biserică.",
+            "en": "Morning drives between the church and castle. Midday drive to the dolmen and nature reserve in the wet. Afternoon provides a relaxed indoor museum stop. Evening dry church visit concludes the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de l'Assomption",
+                "hu": "Notre-Dame de l'Assomption templom",
+                "ro": "Biserica Notre-Dame de l'Assomption",
+                "en": "Church of Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster von drinnen; parken Sie ganz in der Nähe, um dem starken Regen auszuweichen.",
+                "hu": "Csodálja meg az ólomüveg ablakokat bentről; parkoljon a bejárathoz közel, hogy elkerülje a heves esőzést.",
+                "ro": "Admirați vitraliile din interior; parcați foarte aproape pentru a evita ploaia abundentă.",
+                "en": "Admire the beautiful stained glass from inside; park closely to the entrance to avoid the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pannard",
+                "hu": "Pannard-kastély",
+                "ro": "Castelul Pannard",
+                "en": "Pannard Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie bei starkem Regen das Äußere aus dem Auto, oder nutzen Sie einen Schirm für den Hof.",
+                "hu": "Szakadó esőben akár az autóból is megcsodálhatja a külsejét, vagy használjon erős esernyőt az udvaron.",
+                "ro": "Bucurați-vă de exterior din mașină dacă plouă torențial, sau folosiți o umbrelă pentru curte.",
+                "en": "Enjoy the majestic exterior from the comfort of your car if it pours, or use an umbrella for the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de la Contrie",
+                "hu": "Dolmen de la Contrie",
+                "ro": "Dolmen de la Contrie",
+                "en": "Dolmen de la Contrie"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zu den Steinen; tragen Sie Gummistiefel für das schlammige Feld.",
+                "hu": "Csak egy rövid futás az autótól a kövekig; viseljen gumicsizmát, mert a mező rendkívül saras lehet.",
+                "ro": "O scurtă fugă de la mașină la pietre; purtați cizme de cauciuc pentru câmpul noroios.",
+                "en": "A short dash from the parked car to the ancient stones; wear rain boots for the inevitably muddy field."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionales Naturschutzgebiet Bizeuls",
+                "hu": "Bizeuls Regionális Természetvédelmi Terület",
+                "ro": "Rezervația naturală regională Bizeuls",
+                "en": "Bizeuls Regional Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Feuchtgebiete von geschützten Aussichtspunkten aus in der Nähe der Parkplätze.",
+                "hu": "Figyelje meg a vizes élőhelyeket a parkolóhoz közeli, fákkal némileg védett kilátópontokról esőkabátban.",
+                "ro": "Observați zonele umede din puncte de vizionare adăpostite din apropierea parcării.",
+                "en": "Observe the rich wetlands from more sheltered viewing points close to the parking areas wearing a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Louis Derbré",
+                "hu": "Louis Derbré Kulturális Tér",
+                "ro": "Spațiul Cultural Louis Derbré",
+                "en": "Espace Culturel Louis Derbré"
+              },
+              "tip_5lang": {
+                "de": "Hervorragende Aktivität bei Regen; parken Sie in der Nähe und genießen Sie die trockenen Innenexponate.",
+                "hu": "Kiváló fedett program esős napokra; parkoljon a közelben, és élvezze a benti kiállítások száraz kényelmét.",
+                "ro": "Activitate excelentă pentru zile ploioase; parcați aproape și bucurați-vă de expozițiile interioare uscate.",
+                "en": "Excellent rainy day activity; park nearby and comfortably enjoy the indoor exhibits without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Charné",
+                "hu": "Charné kápolna",
+                "ro": "Capela din Charné",
+                "en": "Chapelle de Charné"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie schnell hinein, um dem beruhigenden Geräusch des Regens auf dem historischen Dach zu lauschen.",
+                "hu": "Lépjen be gyorsan a száraz belső térbe, hogy hallgassa az eső nyugtató dobolását a történelmi tetőn.",
+                "ro": "Pășiți rapid înăuntru pentru a auzi sunetul calmant al ploii pe acoperișul istoric.",
+                "en": "Step quickly inside to stay dry and hear the calming, resonant sound of rain on the historic roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gervais-et-Saint-Protais",
+                "hu": "Saint-Gervais-et-Saint-Protais templom",
+                "ro": "Biserica Saint-Gervais-et-Saint-Protais",
+                "en": "Église Saint-Gervais-et-Saint-Protais"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderschönes, trockenes Heiligtum, um Ihre regnerische Fahrt durch die Stadt perfekt abzuschließen.",
+                "hu": "Egy gyönyörű, száraz szentély, amely tökéletesen lezárja az esős városi autós körútját.",
+                "ro": "Un sanctuar uscat și frumos pentru a încheia perfect turul cu mașina prin orașul ploios.",
+                "en": "A beautiful, completely dry sanctuary to perfectly end your wet driving tour around the town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Autofahrten zwischen frostigen historischen Stätten. Mittags kurze Winterspaziergänge. Nachmittags kulturelle Wärme. Abends vorsichtiges Fahren bei früher Dunkelheit.",
+            "hu": "Kényelmes, meleg autózás a fagyos történelmi helyszínek között. Délben frissítő rövid séták. A délután kulturális meleget nyújt. Este óvatos vezetés a korai sötétedés miatt.",
+            "ro": "Plimbări calde cu mașina între situri istorice înghețate. Scurte plimbări de iarnă la prânz. Căldură culturală după-amiaza. Conducere atentă seara, pe întuneric.",
+            "en": "Warm car trips between frosty historical sites. Midday short winter walks. Afternoon provides cultural warmth indoors. Evening requires careful driving in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de l'Assomption",
+                "hu": "Notre-Dame de l'Assomption templom",
+                "ro": "Biserica Notre-Dame de l'Assomption",
+                "en": "Church of Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist an Wintermorgen friedlich; ziehen Sie sich warm an, da sie oft unbeheizt ist.",
+                "hu": "A templom békés a téli reggeleken; öltözzön fel nagyon melegen, mivel az épület fűtetlen.",
+                "ro": "Biserica este pașnică într-o dimineață de iarnă; îmbrăcați-vă călduros, deoarece este neîncălzită.",
+                "en": "The church is peaceful on a winter morning; wrap up with warm layers as the interior is unheated."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pannard",
+                "hu": "Pannard-kastély",
+                "ro": "Castelul Pannard",
+                "en": "Pannard Castle"
+              },
+              "tip_5lang": {
+                "de": "Frostige Schlossaussichten sind sehr fotogen; lassen Sie die Autoheizung zwischen den Stopps laufen.",
+                "hu": "A zúzmarás kastély látványa rendkívül fotogén; a megállók között használja az autó fűtését.",
+                "ro": "Priveliștile înghețate ale castelului sunt fotogenice; lăsați încălzirea mașinii pornită între opriri.",
+                "en": "Frosty castle views are highly photogenic; keep the car heater running between your outdoor stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de la Contrie",
+                "hu": "Dolmen de la Contrie",
+                "ro": "Dolmen de la Contrie",
+                "en": "Dolmen de la Contrie"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft hebt die Steine hervor; ziehen Sie sich nach dem Verlassen des Autos warm an.",
+                "hu": "A kopár téli táj kiemeli az ősi köveket; az autóból kiszállva azonnal vegyen fel meleg réteget.",
+                "ro": "Peisajul golaș de iarnă evidențiază pietrele antice; îmbrăcați-vă gros după ce ieșiți din mașină.",
+                "en": "The barren winter landscape highlights the ancient stones; dress in warm layers when leaving the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionales Naturschutzgebiet Bizeuls",
+                "hu": "Bizeuls Regionális Természetvédelmi Terület",
+                "ro": "Rezervația naturală regională Bizeuls",
+                "en": "Bizeuls Regional Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen kurzen Spaziergang an der frischen Luft, bevor Sie in Ihr warmes Fahrzeug zurückkehren.",
+                "hu": "Tegyen egy frissítő, rövid sétát a hideg levegőn, majd térjen vissza a jól befűtött járműbe.",
+                "ro": "Bucurați-vă de o scurtă plimbare în aerul curat înainte de a vă întoarce la vehiculul cald.",
+                "en": "Enjoy a brisk, short walk in the crisp winter air before comfortably returning to your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Louis Derbré",
+                "hu": "Louis Derbré Kulturális Tér",
+                "ro": "Spațiul Cultural Louis Derbré",
+                "en": "Espace Culturel Louis Derbré"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit in diesem warmen kulturellen Zentrum, um die Kunstwerke im Detail zu betrachten.",
+                "hu": "Töltsön bőséges időt ebben a fűtött kulturális központban, és melegedjen át a műalkotások között.",
+                "ro": "Petreceți timp suficient în acest hub cultural cald vizionând piesele de artă în detaliu.",
+                "en": "Spend ample time inside this warm cultural hub viewing the art pieces and taking a break from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle von Charné",
+                "hu": "Charné kápolna",
+                "ro": "Capela din Charné",
+                "en": "Chapelle de Charné"
+              },
+              "tip_5lang": {
+                "de": "Die späte Wintersonne wirft wunderschöne Schatten in die Kapelle; besuchen Sie sie vor 17:00 Uhr.",
+                "hu": "A késő téli nap gyönyörű árnyékokat vet a kápolnában; mindenképp a korai sötétedés előtt érkezzen.",
+                "ro": "Soarele târziu de iarnă creează umbre frumoase în capelă; vizitați înainte de întunericul de la 17:00.",
+                "en": "The late afternoon winter sun creates beautiful shadows inside; make sure to visit before early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gervais-et-Saint-Protais",
+                "hu": "Saint-Gervais-et-Saint-Protais templom",
+                "ro": "Biserica Saint-Gervais-et-Saint-Protais",
+                "en": "Église Saint-Gervais-et-Saint-Protais"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor dem frühen Wintersonnenuntergang, um die Architektur sicher würdigen zu können.",
+                "hu": "Látogassa meg a templomot a korai téli naplemente előtt, majd vezessen rendkívül óvatosan a sötétben.",
+                "ro": "Vizitați înainte de apusul timpuriu de iarnă pentru a aprecia arhitectura în condiții de siguranță.",
+                "en": "Visit before the early winter sunset around 17:00 to fully appreciate the architecture before driving in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

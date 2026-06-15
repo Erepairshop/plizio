@@ -160,6 +160,196 @@
         "hu": "Sétánkat a reggeli fényben kezdjük, felfedezve a Ca l'Estartús és a Ca l'Americano homlokzatait. Délben a Cal Llibreter és a Can Llaurador de Dalt nyújt mélyebb betekintést a régió vidéki örökségébe. A délután lehetőséget ad a fenséges Torre Nova nyugodt meglátogatására, ahol a történelem megelevenedik. Végül, ahogy közeledik az este, a Ca l'Antiga nyugodt aurája zárja a napot ebben a negyedben.",
         "ro": "Începem plimbarea în lumina dimineții, explorând fațadele Ca l'Estartús și Ca l'Americano. La prânz, Cal Llibreter și Can Llaurador de Dalt oferă o privire profundă asupra moștenirii rurale și artizanale. După-amiaza permite o vizită relaxantă la maiestuoasa Torre Nova, unde istoria rămâne vie. În cele din urmă, pe măsură ce se apropie seara, aura liniștită de la Ca l'Antiga ne încheie ziua în acest cartier frumos.",
         "en": "We start our walking journey in the morning light, exploring the facades of Ca l'Estartús and Ca l'Americano to feel the heartbeat of Catalonia’s past. By midday, Cal Llibreter and Can Llaurador de Dalt offer a deeper glimpse into the region's rural and artisanal heritage. The afternoon allows for an unhurried visit to the majestic Torre Nova, where history stands tall. Finally, as evening nears, the tranquil aura of Ca l'Antiga wraps up our day in this beautifully preserved neighborhood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter dem schützenden Vordach historischer Mauern. Mittags bieten die engen Gassen Schutz vor dem Schauer, während die Steine glänzen. Am Nachmittag wird die Atmosphäre zwischen den alten Anwesen mystisch und ruhig. Der Abend endet früh, wenn sich die Lichter in den Pfützen spiegeln und Sie sich in ein trockenes Café zurückziehen.",
+            "hu": "Kezdje a reggelt a történelmi falak védelmező ereszei alatt. Délben a szűk utcák nyújtanak menedéket a zápor elől, miközben a kövek fényesen csillognak. Délután az ősi birtokok közötti hangulat misztikussá és csendessé válik az esőben. Az este korán véget ér, ahogy a fények tükröződnek a tócsákban, és Ön egy száraz kávézóba húzódik.",
+            "ro": "Începeți dimineața sub streșinile protectoare ale zidurilor istorice. La prânz, străzile înguste oferă adăpost împotriva aversei, în timp ce pietrele strălucesc. După-amiaza, atmosfera dintre proprietățile vechi devine mistică și liniștită. Seara se încheie devreme, când luminile se reflectă în bălți și vă retrageți într-o cafenea uscată.",
+            "en": "Start your morning under the protective eaves of historic walls. At noon, the narrow streets provide shelter from the downpour while the stones glisten. In the afternoon, the atmosphere between the old estates becomes mystical and quiet. The evening ends early as lights reflect in the puddles and you retreat to a dry cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ca l'Estartús",
+                "hu": "Ca l'Estartús",
+                "ro": "Ca l'Estartús",
+                "en": "Ca l'Estartús"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Details vom Hauseingang aus und tragen Sie rutschfeste Schuhe, da die nassen Steinstufen bei diesem Regenwetter besonders glatt sein können.",
+                "hu": "Csodálja meg a gótikus részleteket a ház bejárata alól, és viseljen csúszásmentes cipőt, mert a nedves lépcsők ebben az esős időben különösen veszélyesek lehetnek.",
+                "ro": "Admirați detaliile gotice de la intrarea casei și purtați pantofi antiderapanți, deoarece treptele de piatră umede pot fi deosebit de alunecoase pe această vreme ploioasă.",
+                "en": "Admire the Gothic details from the house entrance and wear non-slip shoes, as the wet stone steps can be particularly slippery in this rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ca l'Americano",
+                "hu": "Ca l'Americano",
+                "ro": "Ca l'Americano",
+                "en": "Ca l'Americano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden in der Nähe als Unterstand, um die Fassade in Ruhe zu betrachten, und halten Sie Ihren Regenschirm wegen der engen Gehwege besonders fest.",
+                "hu": "Használja a közeli árkádokat menedékként, hogy nyugodtan szemügyre vehesse a homlokzatot, és tartsa szorosan az esernyőjét a szűk járdák miatt a szeles esőben.",
+                "ro": "Folosiți arcadele din apropiere ca adăpost pentru a privi fațada în liniște și țineți umbrela strâns din cauza trotuarelor înguste în timpul ploii cu vânt.",
+                "en": "Use the nearby arcades as shelter to view the facade in peace, and hold your umbrella firmly due to the narrow sidewalks during the windy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Llibreter",
+                "hu": "Cal Llibreter",
+                "ro": "Cal Llibreter",
+                "en": "Cal Llibreter"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das Regenwasser von den alten Dachrinnen abläuft, während Sie im Schutz der Mauern stehen; wasserfeste Kleidung ist hier ein absolutes Muss.",
+                "hu": "Figyelje meg, hogyan folyik le az esővíz a régi ereszcsatornákról, miközben a falak védelmében áll; a vízhatlan ruházat itt elengedhetetlen a felfedezéshez.",
+                "ro": "Observați cum se scurge apa de ploaie din jgheaburile vechi în timp ce stați la adăpostul zidurilor; îmbrăcămintea impermeabilă este absolut necesară aici.",
+                "en": "Watch how the rainwater drains from the old gutters while standing in the shelter of the walls; waterproof clothing is an absolute must-have here."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Llaurador de Dalt",
+                "hu": "Can Llaurador de Dalt",
+                "ro": "Can Llaurador de Dalt",
+                "en": "Can Llaurador de Dalt"
+              },
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Regen besonders grün, aber bleiben Sie auf den befestigten Pfaden, um den Schlamm zu meiden und Ihre Füße trotz der Nässe trocken zu halten.",
+                "hu": "A kert esőben különösen zöldnek tűnik, de maradjon a kövezett ösvényeken, hogy elkerülje a sarat és szárazon tartsa a lábát a nedvesség ellenére is.",
+                "ro": "Grădina pare deosebit de verde în ploaie, dar rămâneți pe potecile pavate pentru a evita noroiul și pentru a vă menține picioarele uscate în ciuda umidității.",
+                "en": "The garden looks particularly green in the rain, but stay on the paved paths to avoid the mud and keep your feet dry despite the dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Nova",
+                "hu": "Torre Nova",
+                "ro": "Torre Nova",
+                "en": "Torre Nova"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurzzeitig Schutz unter den Bäumen, um den Turm gegen den grauen Himmel zu fotografieren; achten Sie dabei auf herabtropfendes Wasser von den Blättern.",
+                "hu": "Keressen rövid menedéket a fák alatt, hogy lefotózhassa a tornyot a szürke égbolttal szemben; ügyeljen a levelekről lehulló nagy vízcseppekre a kamera védelmében.",
+                "ro": "Căutați un scurt adăpost sub copaci pentru a fotografia turnul pe fundalul cerului gri; aveți grijă la picăturile de apă care cad de pe frunze.",
+                "en": "Seek brief shelter under the trees to photograph the tower against the gray sky; watch out for water dripping from the leaves to protect your camera."
+              }
+            },
+            {
+              "name": {
+                "de": "Ca l'Antiga",
+                "hu": "Ca l'Antiga",
+                "ro": "Ca l'Antiga",
+                "en": "Ca l'Antiga"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Trockenen und bewundern Sie die rustikale Architektur vom gegenüberliegenden Unterstand aus, bevor es draußen richtig dunkel und nass wird.",
+                "hu": "Fejezze be a túrát szárazon, és csodálja meg a rusztikus építészetet a szemközti fedett helyről, mielőtt odakint teljesen besötétedik és elered az intenzív eső.",
+                "ro": "Încheiați turul la uscat și admirați arhitectura rustică din adăpostul de vizavi, înainte ca afară să se întunece complet și să plouă intens.",
+                "en": "Finish the tour in the dry and admire the rustic architecture from the opposite shelter before it gets completely dark and starts raining heavily outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den Morgenspaziergang erfrischend. Mittags wärmt die tiefstehende Sonne die alten Steinfassaden leicht auf. Nutzen Sie den Nachmittag für die letzten Besichtigungen, da die Sonne bereits gegen 17:00 Uhr untergeht. Der Abend wird schnell kühl, ideal für einen heißen Tee in einer gemütlichen Stube.",
+            "hu": "A tiszta téli levegő frissítővé teszi a reggeli sétát. Délben az alacsonyan járó nap enyhén felmelegíti a régi kőhomlokzatokat. Használja ki a délutánt az utolsó látnivalókra, mert a nap már 17:00 körül lemegy. Az este gyorsan lehűl, ideális egy forró teához egy barátságos helyiségben.",
+            "ro": "Aerul curat de iarnă face plimbarea de dimineață revigorantă. La prânz, soarele de joasă altitudine încălzește ușor fațadele vechi de piatră. Profitați de după-amiază pentru ultimele obiective, deoarece soarele apune deja în jurul orei 17:00. Seara se răcește rapid, fiind ideală pentru un ceai fierbinte.",
+            "en": "The clear winter air makes the morning walk refreshing. At noon, the low sun slightly warms the old stone facades. Use the afternoon for the last sights, as the sun sets around 5:00 PM. The evening cools down quickly, ideal for a hot tea in a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ca l'Estartús",
+                "hu": "Ca l'Estartús",
+                "ro": "Ca l'Estartús",
+                "en": "Ca l'Estartús"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Fassade in der scharfen Wintersonne und tragen Sie Handschuhe, da die kühle Luft am frühen Morgen recht schneidend sein kann.",
+                "hu": "Élvezze a homlokzat tiszta látványát az éles téli napsütésben, és viseljen kesztyűt, mert a hűvös levegő kora reggel meglehetősen metsző lehet a szabadban.",
+                "ro": "Bucurați-vă de vederea clară a fațadei în soarele tăios de iarnă și purtați mănuși, deoarece aerul răcoros de dimineață poate fi destul de tăios afară.",
+                "en": "Enjoy the clear view of the facade in the sharp winter sun and wear gloves, as the cool morning air can be quite biting outdoors early on."
+              }
+            },
+            {
+              "name": {
+                "de": "Ca l'Americano",
+                "hu": "Ca l'Americano",
+                "ro": "Ca l'Americano",
+                "en": "Ca l'Americano"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht mittags perfekt, um die Details des Hauses zu beleuchten; halten Sie sich in Bewegung, um trotz der kühlen Brise im Schatten warm zu bleiben.",
+                "hu": "A nap délben tökéletesen áll, hogy megvilágítsa a ház részleteit; maradjon mozgásban, hogy a hűvös szellő ellenére is melegen tartsa magát az árnyékos részeken.",
+                "ro": "Soarele este perfect la prânz pentru a ilumina detaliile casei; rămâneți în mișcare pentru a vă menține cald în zonele umbrite, în ciuda brizei răcoroase.",
+                "en": "The sun is perfectly positioned at noon to illuminate the details of the house; stay moving to keep warm in the shaded areas despite the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Llibreter",
+                "hu": "Cal Llibreter",
+                "ro": "Cal Llibreter",
+                "en": "Cal Llibreter"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im sanften Winterlicht und tragen Sie einen warmen Schal, da der Wind in diesen engen Gassen oft deutlich kühler weht.",
+                "hu": "Csodálja meg a történelmi építészetet a lágy téli fényben, és viseljen meleg sálat, mivel a szél ezekben a szűk utcákban gyakran érezhetően hűvösebben fúj.",
+                "ro": "Admirați arhitectura istorică în lumina blândă de iarnă și purtați o eșarfă groasă, deoarece vântul suflă adesea mai rece în aceste străduțe înguste.",
+                "en": "Admire the historic architecture in the soft winter light and wear a warm scarf, as the wind often blows noticeably cooler in these narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Llaurador de Dalt",
+                "hu": "Can Llaurador de Dalt",
+                "ro": "Can Llaurador de Dalt",
+                "en": "Can Llaurador de Dalt"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz im Garten für eine kurze Pause, um die Winterwärme zu speichern, bevor die Schatten am Nachmittag länger und kälter werden.",
+                "hu": "Keressen egy napos helyet a kertben egy rövid pihenőre, hogy elraktározza a téli nap melegét, mielőtt az árnyékok délután hosszabbak és hidegebbek lesznek.",
+                "ro": "Căutați un loc însorit în grădină pentru o scurtă pauză, pentru a stoca căldura soarelui de iarnă înainte ca umbrele să devină mai lungi și mai reci după-amiaza.",
+                "en": "Find a sunny spot in the garden for a short break to store the winter sun's warmth before the shadows become longer and colder in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Nova",
+                "hu": "Torre Nova",
+                "ro": "Torre Nova",
+                "en": "Torre Nova"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf den Turm ist ohne Laub an den Bäumen besonders klar; beeilen Sie sich mit den Fotos, da das Licht kurz vor 17:00 Uhr schnell schwindet.",
+                "hu": "A toronyra nyíló kilátás a fák lombkoronája nélkül különösen tiszta; siessen a fotózással, mert a fény 17:00 előtt már gyorsan fogyni kezd a téli napokon.",
+                "ro": "Vederea spre turn este deosebit de clară fără frunzișul copacilor; grăbiți-vă cu fotografiile, deoarece lumina începe să scadă rapid înainte de ora 17:00.",
+                "en": "The view of the tower is particularly clear without the tree foliage; hurry with the photos, as the light starts to fade quickly before 5:00 PM in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ca l'Antiga",
+                "hu": "Ca l'Antiga",
+                "ro": "Ca l'Antiga",
+                "en": "Ca l'Antiga"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die letzten Sonnenstrahlen auf den alten Mauern und begeben Sie sich dann zügig nach Hause, da die Temperatur nach Sonnenuntergang drastisch sinkt.",
+                "hu": "Figyelje meg az utolsó napsugarakat a régi falakon, majd induljon hazafelé, mivel a hőmérséklet a naplemente után drasztikusan és gyorsan csökkenni fog.",
+                "ro": "Observați ultimele raze de soare pe zidurile vechi, apoi plecați spre casă, deoarece temperatura va scădea drastic și rapid după apusul soarelui.",
+                "en": "Watch the last rays of sun on the old walls, then head home quickly, as the temperature will drop drastically and rapidly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje a kerékpáros napot a Cal Llibreter-nél, megismerkedve a város történelmi varázsával. Dél körül tekerjen át a Torre Nova és a lenyűgöző Can Wertheim felé, élvezve a lágy szellőt. A délutáni túra a Can Mora-hoz visz, bemutatva a regionális építészeti ragyogást. A túrát kora este a Museu de Premià de Dalt múzeumban fejezi be, elmerülve a helyi mondavilágban.",
         "ro": "Începeți-vă ziua de ciclism la Cal Llibreter, familiarizându-vă cu farmecul istoric al orașului. În jurul prânzului, pedalați spre Torre Nova și uimitorul Can Wertheim, simțind briza ușoară. Plimbarea de după-amiază vă duce la Can Mora, prezentând strălucirea arhitecturală regională. Veți încheia turul la începutul serii la Museu de Premià de Dalt, cufundându-vă în tradiția locală.",
         "en": "Kick off your cycling day smoothly at Cal Llibreter, getting acquainted with the historical charm of the town. Around noon, ride over to Torre Nova and the stunning Can Wertheim, feeling the gentle breeze between stops. The afternoon ride takes you up to Can Mora, showcasing regional architectural brilliance. You will cap off the tour by early evening at the Museu de Premià de Dalt, immersing yourself in the local lore before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt erfordert volle Konzentration auf den glatten Wegen. Vormittags radeln Sie vorsichtig durch den leichten Nieselregen. Mittags suchen Sie sich einen trockenen Platz für Ihr Rad. Der Nachmittag bietet trotz Nässe dynamische Ausblicke. Denken Sie an gute Beleuchtung, wenn es gegen Abend trüb und dunkel wird.",
+            "hu": "Az esős kerékpározás teljes koncentrációt igényel a csúszós utakon. Délelőtt óvatosan tekerjen a szemerkélő esőben. Délben keressen egy száraz helyet a bringájának. A délután a nedvesség ellenére dinamikus kilátást nyújt. Gondoskodjon a jó világításról, ha estefelé borúsra fordul az idő.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită concentrare maximă pe drumurile alunecoase. Dimineața pedalați cu atenție prin burniță. La prânz, căutați un loc uscat pentru bicicletă. După-amiaza oferă priveliști dinamice în ciuda umezelii. Asigurați-vă că aveți iluminare bună dacă se întunecă spre seară.",
+            "en": "A rainy bike ride requires full concentration on the slippery paths. In the morning, cycle carefully through the drizzle. At noon, find a dry spot for your bike. The afternoon offers dynamic views despite the dampness. Make sure you have good lighting if it gets gloomy and dark towards evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cal Llibreter",
+                "hu": "Cal Llibreter",
+                "ro": "Cal Llibreter",
+                "en": "Cal Llibreter"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer geschützten Wand und wischen Sie den Sattel trocken, bevor Sie die historische Fassade unter Ihrem Regenponcho bewundern.",
+                "hu": "Parkolja a kerékpárját egy védett fal mellé, és törölje szárazra a nyerget, mielőtt az esőponchója alatt megcsodálná a történelmi homlokzatot.",
+                "ro": "Parcați bicicleta lângă un zid protejat și ștergeți șaua înainte de a admira fațada istorică de sub pelerina de ploaie.",
+                "en": "Park your bike against a protected wall and wipe the saddle dry before admiring the historic facade under your rain poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Nova",
+                "hu": "Torre Nova",
+                "ro": "Torre Nova",
+                "en": "Torre Nova"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Anhalten auf den nassen Boden und nutzen Sie die kurzen Regenpausen für ein schnelles Foto des markanten Turms, während Sie bremsbereit bleiben.",
+                "hu": "Megálláskor figyeljen a nedves talajra, és használja ki a rövid esőszüneteket a torony gyors lefotózásához, miközben mindig maradjon fékkész állapotban.",
+                "ro": "Aveți grijă la solul umed când opriți și folosiți scurtele pauze de ploaie pentru o fotografie rapidă a turnului, rămânând mereu gata de frânare.",
+                "en": "Watch out for the wet ground when stopping and use brief breaks in the rain for a quick photo of the tower, while always staying ready to brake."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Wertheim",
+                "hu": "Can Wertheim",
+                "ro": "Can Wertheim",
+                "en": "Can Wertheim"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen vor dem Anwesen, um nasse Füße zu verhindern, und prüfen Sie Ihre Bremsen regelmäßig bei der Fahrt durch den Regen.",
+                "hu": "Kerülje el a mély tócsákat az ingatlan előtt, hogy megelőzze a lába elázását, és rendszeresen ellenőrizze a fékeit az esőben való haladás közben.",
+                "ro": "Evitați bălțile adânci din fața proprietății pentru a preveni udarea picioarelor și verificați-vă frânele regulat în timp ce mergeți prin ploaie.",
+                "en": "Avoid deep puddles in front of the estate to prevent getting your feet soaked, and check your brakes regularly while riding through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mora",
+                "hu": "Can Mora",
+                "ro": "Can Mora",
+                "en": "Can Mora"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz an, um nicht auszukühlen, und bewundern Sie das Landhaus aus sicherer Entfernung, bevor Sie schnell zum nächsten trockenen Ziel weiterradeln.",
+                "hu": "Csak rövid időre álljon meg, hogy ne hűljön ki, és csodálja meg az udvarházat biztonságos távolságból, mielőtt gyorsan továbbtekerne a következő száraz célpont felé.",
+                "ro": "Opriți doar pentru scurt timp ca să nu vă răciți și admirați conacul de la o distanță sigură înainte de a pedala rapid spre următoarea destinație uscată.",
+                "en": "Stop only briefly to avoid getting chilled and admire the manor house from a safe distance before quickly cycling on to the next dry destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Premià de Dalt",
+                "hu": "Museu de Premià de Dalt",
+                "ro": "Museu de Premià de Dalt",
+                "en": "Museu de Premià de Dalt"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Museumseingang unter und nutzen Sie die Zeit drinnen, um Ihre Kleidung zu trocknen, während Sie in die lokale Geschichte eintauchen.",
+                "hu": "Tegye a kerékpárját a múzeum bejárata alá, és használja ki a bent töltött időt a ruhája megszárítására, miközben elmerül a helyi történelemben.",
+                "ro": "Lăsați bicicleta sub intrarea muzeului și folosiți timpul petrecut înăuntru pentru a vă usca hainele în timp ce explorați istoria locală.",
+                "en": "Leave your bike under the museum entrance and use the time inside to dry your clothes while immersing yourself in the local history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Zügiges Radfahren hält Sie in der Winterkälte warm. Starten Sie mit winddichter Kleidung in den klaren Morgen. Mittags laden sonnige Abschnitte zum Verweilen ein. Am Nachmittag sinkt die Sonne tief, was für dramatische Schatten sorgt. Beenden Sie Ihre Tour unbedingt vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A tempós kerékpározás melegen tartja a téli hidegben. Kezdje a tiszta reggelt szélálló ruházatban. Délben a napos szakaszok hívogatnak egy kis pihenőre. Délután a nap alacsonyan jár, ami drámai árnyékokat vet. Mindenképpen fejezze be a túrát a korai, 17:00-s naplemente előtt.",
+            "ro": "Pedalarea rapidă vă menține cald în frigul iernii. Începeți dimineața senină cu haine rezistente la vânt. La prânz, porțiunile însorite vă invită la scurte pauze. După-amiaza soarele coboară, creând umbre dramatice. Încheiați turul neapărat înainte de apusul de la ora 17:00.",
+            "en": "Brisk cycling keeps you warm in the winter cold. Start the clear morning with windproof clothing. At noon, sunny stretches invite you to linger. In the afternoon, the sun sinks low, creating dramatic shadows. Be sure to end your tour before the early sunset at 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cal Llibreter",
+                "hu": "Cal Llibreter",
+                "ro": "Cal Llibreter",
+                "en": "Cal Llibreter"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast der alten Mauern zum blauen Winterhimmel; achten Sie auf eisigen Wind in den Gassen und tragen Sie unbedingt warme Radhandschuhe.",
+                "hu": "Élvezze a régi falak és a kék téli égbolt közötti kontrasztot; ügyeljen a jeges szélre az utcákban, és feltétlenül viseljen meleg kerékpáros kesztyűt.",
+                "ro": "Bucurați-vă de contrastul dintre zidurile vechi și cerul albastru de iarnă; atenție la vântul înghețat de pe străzi și purtați neapărat mănuși calde de ciclism.",
+                "en": "Enjoy the contrast between the old walls and the blue winter sky; watch out for icy wind in the streets and definitely wear warm cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Nova",
+                "hu": "Torre Nova",
+                "ro": "Torre Nova",
+                "en": "Torre Nova"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im harten Winterlicht besonders imposant; halten Sie sich nur kurz für Fotos auf, damit Ihr Körper durch die Kälte nicht zu sehr auskühlt.",
+                "hu": "A torony különösen impozáns az éles téli fényben; csak rövid ideig álljon meg fotózni, hogy a teste ne hűljön ki túlságosan a hidegben való várakozáskor.",
+                "ro": "Turnul pare deosebit de impunător în lumina tăioasă de iarnă; opriți-vă doar scurt pentru fotografii, astfel încât corpul să nu se răcească prea tare în frig.",
+                "en": "The tower looks particularly imposing in the sharp winter light; stop only briefly for photos so that your body doesn't cool down too much in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Wertheim",
+                "hu": "Can Wertheim",
+                "ro": "Can Wertheim",
+                "en": "Can Wertheim"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne vor dem Anwesen für eine warme Trinkpause aus der Thermoskanne, bevor der kalte Schatten des Gebäudes Sie wieder einholt.",
+                "hu": "Használja ki a déli napsütést az ingatlan előtt egy meleg teára a termoszból, mielőtt az épület hideg árnyéka újra elérné Önt a téli délutánon.",
+                "ro": "Profitați de soarele de la prânz din fața proprietății pentru un ceai cald din termos, înainte ca umbra rece a clădirii să vă ajungă din nou din urmă.",
+                "en": "Take advantage of the midday sun in front of the estate for a warm tea from your thermos before the building's cold shadow catches up with you again."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mora",
+                "hu": "Can Mora",
+                "ro": "Can Mora",
+                "en": "Can Mora"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen Gärten des Landhauses, die nun den Blick auf die Architektur freigeben, und radeln Sie zügig weiter, um die Betriebstemperatur zu halten.",
+                "hu": "Csodálja meg az udvarház kopár kertjeit, amelyek most szabad utat engednek az építészet látványának, és tekerjen tovább élénken az üzemi hőmérséklet megtartásához.",
+                "ro": "Admirați grădinile desfrunzite ale conacului, care acum permit o vedere clară asupra arhitecturii, și pedalați vioi mai departe pentru a vă menține căldura.",
+                "en": "Admire the manor house's bare gardens, which now allow a clear view of the architecture, and cycle on briskly to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Premià de Dalt",
+                "hu": "Museu de Premià de Dalt",
+                "ro": "Museu de Premià de Dalt",
+                "en": "Museu de Premià de Dalt"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Museumsräumen auf, während es draußen um 17:00 Uhr dunkel wird; planen Sie Ihre Rückfahrt mit funktionierendem Licht am Fahrrad ein.",
+                "hu": "Melegedjen fel a múzeumi termekben, miközben odakint 17:00 körül besötétedik; tervezze meg a hazautat jól működő kerékpáros lámpákkal a sötétségben.",
+                "ro": "Încălziți-vă în sălile muzeului în timp ce afară se întunecă în jurul orei 17:00; planificați drumul de întoarcere cu lumini de bicicletă funcționale.",
+                "en": "Warm up in the museum rooms while it gets dark outside around 5:00 PM; plan your ride back with functioning bike lights for the winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje autós útvonalát a rusztikus Can Guarino-nál, befogadva e nagyszerű birtok békés reggeli hangulatát. Délben tegyen egy rövid ugrást a Can Cots és a Cal Llibreter felé. Délután kényelmesen utazzon el a Museu de Premià de Dalt múzeumba egy kis kultúráért. Zárja átfogó autós utazását alkonyatkor a Museu de l'Estampació Tèxtil-ben, megcsodálva az ipari sikereket.",
         "ro": "Începeți itinerariul cu mașina la rusticul Can Guarino, bucurându-vă de vibrațiile senine ale dimineții de la această moșie grandioasă. La prânz faceți o scurtă călătorie către Can Cots și Cal Llibreter. După-amiaza, conduceți ușor spre Museu de Premià de Dalt pentru o doză captivantă de cultură. Încheiați-vă excursia rutieră la lăsarea serii la Museu de l'Estampació Tèxtil, admirând triumfurile industriale.",
         "en": "Begin your driving itinerary at the rustic Can Guarino, taking in the serene morning vibes of this grand estate. Transition into midday with a short hop to Can Cots and Cal Llibreter, where history echoes in the stone walls. In the afternoon, cruise easily to the Museu de Premià de Dalt for an engaging dose of culture. Conclude your comprehensive road trip as dusk approaches at the Museu de l'Estampació Tèxtil, marveling at the region's industrial triumphs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist der perfekte Zufluchtsort vor dem Dauerregen. Genießen Sie die Fahrt durch die nebligen Hügel am Vormittag. Mittags parken Sie nah an den Sehenswürdigkeiten, um trocken zu bleiben. Der Nachmittag eignet sich hervorragend für Museumsbesuche. Am Abend glänzt der Asphalt im Scheinwerferlicht, während Sie gemütlich zurückfahren.",
+            "hu": "Az autó tökéletes menedék a tartós eső elől. Élvezze a délelőtti autózást a ködös dombok között. Délben parkoljon közel a látnivalókhoz, hogy száraz maradjon. A délután kiválóan alkalmas múzeumlátogatásra. Este az aszfalt csillog a fényszórók fényében, miközben kényelmesen visszautazik.",
+            "ro": "Mașina este refugiul perfect împotriva ploii persistente. Bucurați-vă de drumul prin dealurile cețoase dimineața. La prânz, parcați aproape de obiective pentru a rămâne uscat. După-amiaza este excelentă pentru vizitarea muzeelor. Seara, asfaltul strălucește sub faruri în timp ce vă întoarceți confortabil.",
+            "en": "The car is the perfect refuge from the persistent rain. Enjoy the drive through the misty hills in the morning. At noon, park close to the sights to stay dry. The afternoon is excellent for museum visits. In the evening, the asphalt glistens under the headlights as you drive back comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Can Guarino",
+                "hu": "Can Guarino",
+                "ro": "Can Guarino",
+                "en": "Can Guarino"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Fassade direkt aus dem Autofenster, wenn der Regen zu stark wird, und halten Sie Ihren Schirm für den kurzen Weg zum Tor bereit.",
+                "hu": "Nézze meg a történelmi homlokzatot közvetlenül az autó ablakából, ha az eső túl erősre fordul, és tartsa készenlétben az esernyőjét a kapuig tartó rövid útra.",
+                "ro": "Priviți fațada istorică direct de pe geamul mașinii dacă ploaia devine prea puternică și țineți umbrela pregătită pentru drumul scurt până la poartă.",
+                "en": "View the historic facade directly from the car window if the rain gets too heavy, and keep your umbrella ready for the short walk to the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Cots",
+                "hu": "Can Cots",
+                "ro": "Can Cots",
+                "en": "Can Cots"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe für einen schnellen Sprint zum Eingang und achten Sie auf Pfützen beim Aussteigen aus dem warmen Fahrzeug.",
+                "hu": "Használja a közeli parkolási lehetőségeket egy gyors sprinthez a bejáratig, és ügyeljen a tócsákra, amikor kiszáll a meleg járműből a nedves aszfaltra.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru un sprint rapid până la intrare și aveți grijă la bălți când coborâți din vehiculul cald pe asfaltul ud.",
+                "en": "Use nearby parking options for a quick sprint to the entrance and watch out for puddles when getting out of the warm vehicle onto the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Llibreter",
+                "hu": "Cal Llibreter",
+                "ro": "Cal Llibreter",
+                "en": "Cal Llibreter"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Sitzheizung an, während Sie kurz aussteigen, um das geschichtsträchtige Haus zu bewundern; die engen Straßen erfordern bei Nässe vorsichtiges Rangieren.",
+                "hu": "Hagyja bekapcsolva az ülésfűtést, amíg rövid időre kiszáll megcsodálni a patinás házat; a szűk utcák nedves időben óvatos manőverezést igényelnek az autóval.",
+                "ro": "Lăsați încălzirea în scaune pornită cât timp coborâți scurt pentru a admira casa istorică; străzile înguste necesită manevre atente pe timp de ploaie.",
+                "en": "Keep the seat heating on while you step out briefly to admire the historic house; the narrow streets require careful maneuvering in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Premià de Dalt",
+                "hu": "Museu de Premià de Dalt",
+                "ro": "Museu de Premià de Dalt",
+                "en": "Museu de Premià de Dalt"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen: Parken Sie auf dem Museumsparkplatz und verbringen Sie die nasseste Zeit des Tages geschützt zwischen den interessanten Exponaten.",
+                "hu": "Ideális megálló esőben: parkoljon le a múzeum parkolójában, és töltse a nap legesősebb időszakát védetten az érdekes kiállítási tárgyak között böngészve.",
+                "ro": "O oprire ideală pe ploaie: parcați în parcarea muzeului și petreceți cea mai ploioasă perioadă a zilei la adăpost, printre exponatele interesante.",
+                "en": "An ideal stop in the rain: park in the museum car park and spend the wettest part of the day protected among the interesting exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Estampació Tèxtil",
+                "hu": "Museu de l'Estampació Tèxtil",
+                "ro": "Museu de l'Estampació Tèxtil",
+                "en": "Museu de l'Estampació Tèxtil"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Ausflug in diesem weitläufigen Museum; im Auto können Sie nasse Schirme und Mäntel bequem verstauen, während Sie die Textilkunst genießen.",
+                "hu": "Fejezze be kirándulását ebben a tágas múzeumban; az autóban kényelmesen elhelyezheti a vizes ernyőket és kabátokat, amíg a textilvásznakat nézi.",
+                "ro": "Încheiați excursia în acest muzeu spațios; în mașină puteți depozita confortabil umbrelele și hainele ude în timp ce vă bucurați de arta textilă.",
+                "en": "Finish your trip in this spacious museum; you can conveniently store wet umbrellas and coats in the car while enjoying the textile art displays."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres beheizten Wagens auf der Fahrt zwischen den Anwesen. Die klare Wintermorgensicht ist spektakulär. Mittags finden Sie leicht Parkplätze unter der warmen Sonne. Am Nachmittag taucht das Licht die Stadt in Gold, bevor es um 17:00 Uhr dunkel wird. Der Abend im Auto ist sicher und warm.",
+            "hu": "Élvezze fűtött autója kényelmét a birtokok közötti utazás során. A tiszta téli reggeli kilátás lenyűgöző. Délben könnyen talál parkolóhelyet a meleg napsütésben. Délután a fények aranyba öltöztetik a várost, mielőtt 17:00-kor besötétedik. Az este az autóban biztonságos és meleg.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite în timp ce călătoriți între proprietăți. Vederea clară de dimineață este spectaculoasă. La prânz găsiți ușor parcare sub soarele cald. După-amiaza, lumina scaldă orașul în auriu înainte de a se întuneca la 17:00. Seara în mașină este caldă.",
+            "en": "Enjoy the comfort of your heated car while traveling between the estates. The clear winter morning view is spectacular. At noon, you can easily find parking under the warm sun. In the afternoon, the light bathes the city in gold before it gets dark at 5:00 PM. The evening in the car is safe and warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Can Guarino",
+                "hu": "Can Guarino",
+                "ro": "Can Guarino",
+                "en": "Can Guarino"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der klaren Winterluft besonders schön; lassen Sie die Jacke im Auto, wenn Sie nur für ein schnelles Foto am Tor aussteigen.",
+                "hu": "A homlokzat különösen szépen ragyog a tiszta téli levegőben; hagyja a kabátot az autóban, ha csak egy gyors fotó erejéig száll ki a kapunál a napsütésben.",
+                "ro": "Fațada strălucește deosebit de frumos în aerul curat de iarnă; lăsați jacheta în mașină dacă coborâți doar pentru o fotografie rapidă la poartă.",
+                "en": "The facade shines particularly beautifully in the clear winter air; leave your jacket in the car if you only get out for a quick photo at the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Cots",
+                "hu": "Can Cots",
+                "ro": "Can Cots",
+                "en": "Can Cots"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Autos, um schnell zwischen den Stationen zu wechseln, bevor die Kälte am Mittag die schattigen Bereiche des Anwesens übernimmt.",
+                "hu": "Használja ki az autó kényelmét a megállók közötti gyors váltáshoz, mielőtt a délidőben a hideg átveszi az uralmat az ingatlan árnyékos részei felett.",
+                "ro": "Folosiți confortul mașinii pentru a schimba rapid între stații, înainte ca frigul de la amiază să pună stăpânire pe zonele umbrite ale proprietății.",
+                "en": "Use the car's comfort to quickly switch between stops before the midday cold takes over the shaded areas of the estate in the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Llibreter",
+                "hu": "Cal Llibreter",
+                "ro": "Cal Llibreter",
+                "en": "Cal Llibreter"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die historischen Gassen und halten Sie kurz an; die tiefstehende Sonne bietet fantastisches Licht für Architekturaufnahmen.",
+                "hu": "Élvezze az autózást a történelmi utcákon és álljon meg egy pillanatra; az alacsonyan járó nap fantasztikus fényt kínál az építészeti fotókhoz.",
+                "ro": "Bucurați-vă de drumul prin străzile istorice și opriți-vă pentru un moment; soarele de joasă altitudine oferă o lumină fantastică pentru fotografii.",
+                "en": "Enjoy the drive through the historic streets and stop for a moment; the low sun offers fantastic light for architectural photos in the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Premià de Dalt",
+                "hu": "Museu de Premià de Dalt",
+                "ro": "Museu de Premià de Dalt",
+                "en": "Museu de Premià de Dalt"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und flüchten Sie in das warme Museum, während die Außentemperaturen am späten Nachmittag bereits spürbar zu sinken beginnen.",
+                "hu": "Parkoljon közvetlenül előtte, és meneküljön be a meleg múzeumba, miközben a kinti hőmérséklet késő délután már érezhetően csökkenni kezd a városban.",
+                "ro": "Parcați direct în față și refugiați-vă în muzeul cald, în timp ce temperatura exterioară începe deja să scadă sesizabil spre sfârșitul după-amiezii.",
+                "en": "Park directly in front and escape into the warm museum while the outside temperature already begins to drop noticeably in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de l'Estampació Tèxtil",
+                "hu": "Museu de l'Estampació Tèxtil",
+                "ro": "Museu de l'Estampació Tèxtil",
+                "en": "Museu de l'Estampació Tèxtil"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Warmen; wenn Sie gegen 17:00 Uhr zum Auto zurückkehren, ist es draußen bereits dunkel, aber Ihr Wagen wartet beheizt auf Sie.",
+                "hu": "Tökéletes befejezés a melegben; amikor 17:00 körül visszatér az autóhoz, odakint már sötét lesz, de a fűtött jármű kényelme várja Önt a hazaúthoz.",
+                "ro": "Finalul perfect la căldură; când vă întoarceți la mașină în jurul orei 17:00, afară va fi deja întuneric, dar vehiculul încălzit vă așteaptă confortabil.",
+                "en": "The perfect finish in the warmth; when you return to the car around 5:00 PM, it will already be dark outside, but your heated vehicle awaits you comfortably."
+              }
+            }
+          ]
+        }
       }
     }
   }

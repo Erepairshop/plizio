@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a királyi park elegáns környezetének felfedezésével. Délben merüljön el Norvégia kulturális és színházi történelmében a belvárosban. A délután szembesíti a 2011-es támadások megrázó közelmúltbeli történelmével. Zárja a napot az Akershus-erőd történelmi területén barangolva, miközben a több évszázados hadtörténet kel életre az alkonyatban.",
         "ro": "Începeți dimineața explorând împrejurimile elegante ale parcului regal. La prânz, scufundați-vă în istoria culturală și teatrală a Norvegiei în centrul orașului. După-amiaza vă aduce față în față cu istoria recentă a atacurilor din 2011. Încheiați-vă ziua rătăcind prin fortăreața istorică Akershus, asimilând secole de strategie militară odată cu lăsarea serii.",
         "en": "Start your morning exploring the elegant surroundings of the royal park. By midday, immerse yourself in Norway's cultural and theatrical history in the city center. The afternoon brings you face-to-face with the sobering recent history of the 2011 attacks. End your day wandering the historic grounds of the Akershus Fortress, taking in centuries of military strategy as dusk settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in den ehemaligen königlichen Ställen, die heute als Kunstgalerie dienen und perfekten Schutz vor dem Osloer Regen bieten. Mittags spazieren Sie mit dem Regenschirm zum Ibsen-Museum und zur Kulturgeschichte, wo Sie tief in die norwegische Seele eintauchen können. Am Nachmittag bietet das 22. Juli-Zentrum einen Ort der Reflexion im Trockenen. Den Abend verbringen Sie in den massiven Mauern der Festung Akershus, deren Museen Sie sicher durch das graue Wetter führen.",
+            "hu": "Kezdje a napot a királyi istállók fedett termeiben, ahol a művészet és a történelem találkozik, távol az osloi esőtől. Délben ernyővel felszerelkezve látogasson el az Ibsen Múzeumba és a Kultúrtörténeti Múzeumba, elmerülve a norvég örökségben. Délután a 22. juli-senteret nyújt méltóságteljes menedéket a csapadék elől. Az estét az Akershus-erőd vastag falai között, a HM és a Védelmi Múzeum kiállításain zárhatja, ahol garantáltan szárazon marad a látogatás végéig.",
+            "ro": "Începeți ziua în fostele grajduri regale, acum galerie de artă, oferind un adăpost perfect împotriva ploii din Oslo. La prânz, mergeți cu umbrela spre Muzeul Ibsen și cel de Istorie Culturală, explorând moștenirea norvegiană la interior. După-amiaza, centrul 22 iulie oferă un spațiu de reflecție protejat de intemperii. Seara este dedicată muzeelor din cadrul fortăreței Akershus, unde zidurile groase vă vor ține la adăpost în timp ce descoperiți istoria militară a țării.",
+            "en": "Start your day in the sheltered former royal stables, now an art gallery, providing a perfect escape from the Oslo rain. At noon, head with an umbrella to the Ibsen Museum and Cultural History Museum to dive deep into Norwegian heritage indoors. In the afternoon, the 22 July Centre offers a poignant and dry place for reflection. Spend your evening within the sturdy walls of Akershus Fortress, where the military museums keep you dry while you explore the nation's past."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dronning Sonjas kunststall",
+                "hu": "Dronning Sonjas kunststall",
+                "ro": "Dronning Sonjas kunststall",
+                "en": "Dronning Sonjas kunststall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie königliche Kunstschätze in den renovierten Ställen; der Weg durch den Schlosspark kann bei Regen rutschig sein, tragen Sie daher feste Schuhe.",
+                "hu": "Csodálja meg a királyi kincseket a felújított istállókban; a kastélyparkon átvezető út esőben csúszós lehet, ezért válasszon stabil, tapadós talpú lábbelit.",
+                "ro": "Admirați comorile artistice regale în grajdurile renovate; drumul prin parcul palatului poate fi alunecos pe ploaie, așa că purtați încălțăminte aderentă.",
+                "en": "Admire royal art treasures in the renovated stables; the path through the palace park can be slippery when wet, so wear sturdy shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "The Ibsen Museum",
+                "hu": "The Ibsen Museum",
+                "ro": "The Ibsen Museum",
+                "en": "The Ibsen Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das rekonstruierte Heim des Dramatikers im Trockenen; nutzen Sie die Garderobe am Eingang, um Ihren nassen Regenschirm sicher zu verstauen.",
+                "hu": "Fedezze fel a drámaíró rekonstruált otthonát a szárazban; használja a bejárati ruhatárat, hogy vizes esernyőjét biztonságosan és kényelmesen tárolhassa.",
+                "ro": "Explorați casa reconstruită a dramaturgului la interior; folosiți garderoba de la intrare pentru a vă lăsa umbrela udă în siguranță pe durata vizitei.",
+                "en": "Explore the playwright's reconstructed home indoors; use the cloakroom at the entrance to store your wet umbrella safely while you tour the rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Cultural History",
+                "hu": "Museum of Cultural History",
+                "ro": "Museum of Cultural History",
+                "en": "Museum of Cultural History"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie Wikingerschätze in den weitläufigen Hallen; das Museum ist ideal, um heftige Regengüsse bei einer Tasse Kaffee im Café abzuwarten.",
+                "hu": "Fedezze fel a viking kincseket a tágas termekben; a múzeum kiváló hely a nagyobb záporok átvészelésére, akár egy forró kávé mellett a belső kávézóban.",
+                "ro": "Descoperiți comorile vikinge în sălile spațioase; muzeul este ideal pentru a aștepta trecerea ploii torențiale la o cafea caldă în zona de relaxare.",
+                "en": "Discover Viking treasures in the spacious halls; the museum is a great place to wait out heavy downpours with a hot coffee in the on-site cafe area."
+              }
+            },
+            {
+              "name": {
+                "de": "22. juli-senteret",
+                "hu": "22. juli-senteret",
+                "ro": "22. juli-senteret",
+                "en": "22. juli-senteret"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Gedenkort im Regierungsviertel; der kurze Fußweg dorthin führt unter Vordächern entlang, die zeitweise Schutz vor dem Regen bieten.",
+                "hu": "Modern emlékhely a kormányzati negyedben; a rövid gyalogút ide többnyire ereszcsatornák és előtetők alatt vezet, így részben védve lesz az esőtől.",
+                "ro": "Un loc de memorie modern în cartierul guvernamental; drumul scurt până aici trece pe sub diverse copertine care oferă protecție temporară contra ploii.",
+                "en": "A modern memorial site in the government quarter; the short walk here follows routes with several overhangs that provide temporary shelter from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Norway's Resistance Museum",
+                "hu": "Norway's Resistance Museum",
+                "ro": "Norway's Resistance Museum",
+                "en": "Norway's Resistance Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Kriegsgeschichte ein, geschützt durch dicke Festungsmauern; achten Sie auf den Kopfsteinpflasterweg, der bei Nässe sehr glatt ist.",
+                "hu": "Merüljön el a háborús történelemben a vastag várfalak védelmében; ügyeljen a várudvar macskaköveire, mert nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Explorați istoria rezistenței la adăpostul zidurilor groase; aveți grijă pe pavajul cetății, deoarece piatra cubică devine foarte alunecoasă când plouă.",
+                "en": "Dive into resistance history protected by thick fortress walls; watch your step on the cobblestone paths as they become very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Defence Musuem",
+                "hu": "Defence Musuem",
+                "ro": "Defence Musuem",
+                "en": "Defence Musuem"
+              },
+              "tip_5lang": {
+                "de": "Ein riesiges Arsenal mit Militärgeschichte unter einem Dach; ideal für den Tagesausklang, da Sie hier bis zum Abend völlig trocken bleiben können.",
+                "hu": "Hatalmas fegyvertár katonai történelemmel egy fedél alatt; tökéletes zárása a napnak, mivel az egész tárlat fedett és óv az esti szemerkéléstől is.",
+                "ro": "Un arsenal imens cu istorie militară sub un singur acoperiș; ideal pentru finalul zilei, oferind un spațiu vast și uscat pentru explorare prelungită.",
+                "en": "A huge arsenal of military history under one roof; the perfect end to your day as the entire exhibition is indoors and keeps you completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Oslo bei einem Besuch der königlichen Kunstställe, wo Sie sich morgens in historischem Ambiente aufwärmen können. Mittags führen kurze Spaziergänge zwischen Ibsen- und Kulturhistorischem Museum durch die frische, klare Luft, bevor Sie die wohlige Wärme der Ausstellungen genießen. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt sich die Festung Akershus am späten Nachmittag in ein magisches Licht, das Ihren Besuch der Militärmuseen besonders atmosphärisch macht.",
+            "hu": "Élje át a téli Oslót a királyi istállókban, ahol a reggeli hideg elől a történelmi falak közé bújhat. Délben rövid séták vezetnek az Ibsen és a Kultúrtörténeti Múzeum között a friss levegőn, mielőtt élvezné a benti kellemes meleget. Mivel a nap már 17:00 körül lemegy, az Akershus-erőd késő délutánra mágikus fénybe öltözik, ami különleges hangulatot ad a Védelmi Múzeumban tett esti látogatásnak.",
+            "ro": "Experimentați Oslo în varianta de iarnă vizitând grajdurile regale, unde vă puteți încălzi dimineața într-un cadru istoric deosebit. La prânz, scurtele plimbări între muzee vă vor revigora cu aerul proaspăt înainte de a intra la căldura expozițiilor. Deoarece soarele apune în jurul orei 17:00, cetatea Akershus este învăluită într-o lumină magică după-amiaza târziu, oferind o atmosferă specială vizitei la muzee.",
+            "en": "Experience winter in Oslo with a visit to the royal stables, where you can warm up in a historical setting in the morning. At noon, short walks between the Ibsen and Cultural History museums offer fresh air before you enjoy the cozy warmth of the galleries. As the sun sets around 5:00 PM, Akershus Fortress becomes bathed in magical light by late afternoon, adding a special atmosphere to your evening museum tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dronning Sonjas kunststall",
+                "hu": "Dronning Sonjas kunststall",
+                "ro": "Dronning Sonjas kunststall",
+                "en": "Dronning Sonjas kunststall"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den eleganten Galerieräumen auf; die Wege im Schlosspark werden im Winter geräumt, können aber dennoch vereiste Stellen aufweisen.",
+                "hu": "Melegedjen fel az elegáns galériaterekben; a kastélypark útjait télen takarítják, de néhol előfordulhatnak jeges foltok, ezért lépkedjen óvatosan.",
+                "ro": "Încălziți-vă în spațiile elegante ale galeriei; aleile din parcul palatului sunt deszăpezite, dar pot apărea porțiuni cu gheață sub stratul subțire.",
+                "en": "Warm up in the elegant gallery spaces; the palace park paths are cleared in winter but may still have icy patches, so walk carefully on the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "The Ibsen Museum",
+                "hu": "The Ibsen Museum",
+                "ro": "The Ibsen Museum",
+                "en": "The Ibsen Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie Ibsens gemütliche Wohnung; tragen Sie Schichten, da es im Museum angenehm warm ist, der Weg dorthin aber durch die beißende Kälte führt.",
+                "hu": "Látogassa meg Ibsen hangulatos lakását; öltözzön rétegesen, mert bent kellemesen meleg van, de az odavezető út a metsző téli hidegben halad.",
+                "ro": "Vizitați apartamentul primitor al lui Ibsen; purtați straturi de haine deoarece interiorul este bine încălzit, contrastând cu frigul pătrunzător de afară.",
+                "en": "Visit Ibsen's cozy apartment; dress in layers as the museum is comfortably warm, contrasting with the biting cold you'll face on the walk there."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Cultural History",
+                "hu": "Museum of Cultural History",
+                "ro": "Museum of Cultural History",
+                "en": "Museum of Cultural History"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Mittagsstunden im Warmen zu verbringen; nutzen Sie die kostenlosen Schließfächer für Ihre schweren Wintermäntel während der Tour.",
+                "hu": "Ideális hely a délutáni órák melegben töltésére; használja az ingyenes szekrényeket nehéz télikabátja tárolására a kiállítás megtekintése alatt.",
+                "ro": "Locul ideal pentru a petrece orele prânzului la căldură; folosiți dulapurile gratuite pentru a lăsa hainele grele de iarnă pe durata turului.",
+                "en": "An ideal place to spend the midday hours in the warmth; use the free lockers for your heavy winter coats while you explore the Viking history."
+              }
+            },
+            {
+              "name": {
+                "de": "22. juli-senteret",
+                "hu": "22. juli-senteret",
+                "ro": "22. juli-senteret",
+                "en": "22. juli-senteret"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Zentrum bietet eine ruhige Atmosphäre zum Aufwärmen; der Weg durch die Stadt ist im Winter wunderschön mit festlicher Beleuchtung geschmückt.",
+                "hu": "A modern központ nyugodt környezetet biztosít a felmelegedéshez; a belvároson átvezető utat télen gyönyörű ünnepi fények díszítik a korai sötétben.",
+                "ro": "Centrul modern oferă o atmosferă liniștită pentru a vă încălzi; drumul prin oraș este decorat frumos cu lumini festive pe durata iernii.",
+                "en": "The modern centre provides a calm environment to warm up; the route through the city is beautifully decorated with festive lights during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Norway's Resistance Museum",
+                "hu": "Norway's Resistance Museum",
+                "ro": "Norway's Resistance Museum",
+                "en": "Norway's Resistance Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Winterkälte draußen; planen Sie Ihren Besuch vor Sonnenuntergang um 17 Uhr, um den Blick von der Festung noch im Hellen zu genießen.",
+                "hu": "A vastag falak jól kint tartják a téli fagyot; tervezze a látogatást 17 óra előtti időpontra, hogy a kilátást még világosban csodálhassa meg.",
+                "ro": "Zidurile groase țin frigul iernii la distanță; programați vizita înainte de apusul de la ora 17 pentru a vedea panorama cetății la lumina zilei.",
+                "en": "The thick walls keep the winter frost out; plan your visit before the 5 PM sunset to enjoy the fortress views while it's still light outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Defence Musuem",
+                "hu": "Defence Musuem",
+                "ro": "Defence Musuem",
+                "en": "Defence Musuem"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in dieser großen, beheizten Halle; nach dem Verlassen erwartet Sie die magische, dunkelblaue Winterdämmerung am Oslofjord.",
+                "hu": "Zárja a napot ebben a tágas, fűtött csarnokban; távozáskor már a varázslatos, sötétkék téli alkonyat fogadja az Oslo-fjord partján.",
+                "ro": "Încheiați ziua în această hală mare și încălzită; la ieșire veți fi întâmpinați de amurgul albastru magic al iernii de-a lungul fiordului Oslo.",
+                "en": "End your day in this large, heated hall; when you step out, you'll be greeted by the magical dark blue winter dusk over the Oslo Fjord."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Útja a vízparton kezdődik, ahol modern művészetet és kikötői kilátást élvezhet. Délben az egyetemi épületek felé halad, hogy kiterjedt kulturális leleteket fedezzen fel. A délután folyamán tekerjen át a kulturálisan sokszínű keleti negyedeken. Utazása a botanikus kert nyugodt, buja környezetében ér véget, amely tökéletes egy békés esti pihenéshez.",
         "ro": "Plimbarea începe pe faleză, admirând arta modernă și priveliștile portului. La prânz vă îndreptați spre clădirile universității pentru a descoperi artefacte culturale vaste. Pe măsură ce se lasă după-amiaza, pedalați prin cartierele estice diverse cultural. Călătoria se încheie în împrejurimile liniștite și luxuriante ale grădinilor botanice, perfecte pentru o seară de odihnă.",
         "en": "Your ride begins at the waterfront, taking in striking modern art and harbor views. Midday leads you up toward the university buildings to uncover extensive cultural artifacts. As the afternoon unfolds, pedal through the culturally diverse eastern neighborhoods. Your journey concludes in the tranquil, lush surroundings of the botanical gardens, perfect for a peaceful evening rest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am modernen Astrup Fearnley Museum, wo Architektur und Kunst im Regen glänzen. Auf dem Radweg am Hafen geht es zum Nobel-Friedenszentrum, perfekt für eine Pause im Trockenen. Mittags radeln Sie zur Kulturgeschichte, wobei Sie auf die glatten Schienen achten sollten. Nachmittags führen die Wege durch Tøyen zum Botanischen Garten, wo die Gewächshäuser eine tropische Zuflucht vor dem nassen Osloer Wetter bieten.",
+            "hu": "Kezdjen a modern Astrup Fearnley Múzeumnál, ahol az épület az esőben is lenyűgöző látványt nyújt. A kikötői kerékpárúton haladjon a Nobel Békeközpontig, amely remek fedett pihenőhely. Délben vigyázzon a síkos villamossínekre a Kultúrtörténeti Múzeum felé. Délután az út Tøyenbe vezet, ahol a Botanikus Kert üvegházai trópusi menedéket kínálnak az ázott osloi időjárás elől.",
+            "ro": "Începeți la modernul Muzeu Astrup Fearnley, unde arhitectura strălucește chiar și pe ploaie. Pe pista de biciclete din port ajungeți la Centrul Nobel, ideal pentru o pauză la uscat. La prânz, pedalați spre Muzeul de Istorie Culturală, atenți la șinele alunecoase de tramvai. După-amiaza, drumul trece prin Tøyen spre Grădina Botanică, unde serele oferă un refugiu tropical în fața ploii.",
+            "en": "Start at the modern Astrup Fearnley Museum, where the architecture looks stunning even in the rain. Bike along the harbor path to the Nobel Peace Center, a perfect dry break. At noon, head to the Cultural History Museum, being careful of slippery tram tracks. In the afternoon, the route leads to Tøyen, where the Botanical Garden's greenhouses offer a tropical escape from the wet Oslo weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Astrup Fearnley Museum",
+                "hu": "Astrup Fearnley Museum",
+                "ro": "Astrup Fearnley Museum",
+                "en": "Astrup Fearnley Museum"
+              },
+              "tip_5lang": {
+                "de": "Zeitgenössische Kunst direkt am Fjord; nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung kurz zu ordnen, bevor Sie hineingehen.",
+                "hu": "Kortárs művészet közvetlenül a fjord partján; használja a fedett bejáratot, hogy rendezze esőfelszerelését, mielőtt belépne a kiállítótérbe.",
+                "ro": "Artă contemporană chiar pe malul fiordului; folosiți zona de intrare acoperită pentru a vă aranja echipamentul de ploaie înainte de a intra.",
+                "en": "Contemporary art right on the fjord; use the sheltered entrance area to adjust your rain gear comfortably before heading inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Nobel Peace Center",
+                "hu": "Nobel Peace Center",
+                "ro": "Nobel Peace Center",
+                "en": "Nobel Peace Center"
+              },
+              "tip_5lang": {
+                "de": "Ein inspirierender Ort im alten Bahnhofsgebäude; parken Sie Ihr Rad an den überdachten Ständern nahe Aker Brygge, um den Sattel trocken zu halten.",
+                "hu": "Inspiráló helyszín a régi pályaudvaron; parkoljon a fedett tárolóknál az Aker Brygge közelében, hogy nyerge száraz maradjon a látogatás alatt.",
+                "ro": "Un loc inspirațional în vechea gară; parcați bicicleta în zonele acoperite de lângă Aker Brygge pentru a menține șaua uscată pe durata vizitei.",
+                "en": "An inspiring site in the old station building; park your bike in the covered racks near Aker Brygge to keep your seat dry while you are inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Cultural History",
+                "hu": "Museum of Cultural History",
+                "ro": "Museum of Cultural History",
+                "en": "Museum of Cultural History"
+              },
+              "tip_5lang": {
+                "de": "Großartige Wikingerausstellungen im Zentrum; meiden Sie beim Radeln die Straßenbahnschienen, da diese bei Nässe extrem rutschig für schmale Reifen sind.",
+                "hu": "Remek viking kiállítások a belvárosban; kerékpározáskor kerülje a villamossíneket, mert vizesen rendkívül csúszósak és veszélyesek a keskeny gumiknak.",
+                "ro": "Expoziții vikinge superbe în centru; evitați șinele de tramvai în timp ce pedalați, deoarece devin extrem de alunecoase pentru anvelope pe ploaie.",
+                "en": "Great Viking exhibits in the city centre; avoid the tram tracks while cycling as they become extremely slippery for bike tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jødisk museum",
+                "hu": "Jødisk museum",
+                "ro": "Jødisk museum",
+                "en": "Jødisk museum"
+              },
+              "tip_5lang": {
+                "de": "Ein kleines, feines Museum in einer ehemaligen Synagoge; der Weg führt durch steile Gassen, fahren Sie bei Regen vorsichtig bergab.",
+                "hu": "Kis, igényes múzeum egy egykori zsinagógában; az idevezető út meredek utcákon át visz, ezért esőben fokozott óvatossággal ereszkedjen le a lejtőn.",
+                "ro": "Un muzeu mic și rafinat într-o fostă sinagogă; drumul trece prin străzi în pantă, deci pedalați cu prudență la vale pe pavajul ud.",
+                "en": "A small, refined museum in a former synagogue; the route involves steep streets, so descend carefully on the wet pavement during rainy spells."
+              }
+            },
+            {
+              "name": {
+                "de": "Interkulturelt museum",
+                "hu": "Interkulturelt museum",
+                "ro": "Interkulturelt museum",
+                "en": "Interkulturelt museum"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über Oslos Vielfalt in Grønland; nutzen Sie den Fahrradweg entlang der Akerselva, der auch bei Regen gut befahrbar ist.",
+                "hu": "Ismerje meg Oslo sokszínűségét Grønland negyedében; használja az Akerselva menti kerékpárutat, amely esőben is jól és biztonságosan járható.",
+                "ro": "Aflați despre diversitatea din Oslo în zona Grønland; folosiți pista de biciclete de-a lungul râului Akerselva, care este sigură și pe ploaie.",
+                "en": "Learn about Oslo's diversity in the Grønland area; use the bike path along the Akerselva river, which remains safe and navigable even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "University Botanical Garden",
+                "hu": "University Botanical Garden",
+                "ro": "University Botanical Garden",
+                "en": "University Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie in die Palmenhäuser vor dem nassen Wetter; parken Sie Ihr Rad direkt am Eingang Tøyen und genießen Sie das feucht-warme Tropenklima.",
+                "hu": "Meneküljön a pálmaházakba az eső elől; parkoljon közvetlenül a Tøyen felőli bejáratnál, és élvezze a benti párás, trópusi meleget az üveg alatt.",
+                "ro": "Refugiați-vă în serele cu palmieri în fața ploii; parcați bicicleta chiar la intrarea Tøyen și bucurați-vă de climatul tropical cald din interior.",
+                "en": "Escape to the palm houses to hide from the rain; park your bike right at the Tøyen entrance and enjoy the warm, tropical climate inside the glass."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Oslo auf zwei Rädern, beginnend am Tjuvholmen, wo der Fjord oft dampft. Das Nobel-Friedenszentrum bietet einen warmen Stopp, bevor Sie vorsichtig durch die winterliche Innenstadt zum Kulturhistorischen Museum radeln. Am Nachmittag führt die Route durch das beleuchtete Grønland zum Botanischen Garten. Da es ab 17:00 Uhr dunkel wird, genießen Sie die frostige Fahrt durch die festlich beleuchteten Straßen zum Tagesabschluss.",
+            "hu": "Fedezze fel a téli Oslót két keréken, kezdve a Tjuvholmennél, ahol a fjord vize gyakran gőzölög a hidegben. A Nobel Békeközpont meleg pihenőt kínál, mielőtt óvatosan áttekernének a belvároson a Kultúrtörténeti Múzeumig. Délután az út a kivilágított Grønlandon át vezet a Botanikus Kertig. Mivel 17:00 után sötétedik, élvezze a fagyos, de hangulatos utat az ünnepi fényekkel díszített utcákon.",
+            "ro": "Explorați Oslo iarna pe două roți, pornind de la Tjuvholmen, unde fiordul adesea aburește în ger. Centrul Nobel oferă un popas călduros înainte de a pedala cu grijă spre Muzeul de Istorie Culturală. După-amiaza, ruta trece prin cartierul Grønland iluminat festiv spre Grădina Botanică. Deoarece se întunecă de la ora 17:00, bucurați-vă de plimbarea prin orașul decorat cu lumini de sărbătoare.",
+            "en": "Explore winter Oslo on two wheels, starting at Tjuvholmen where the fjord often steams in the cold air. The Nobel Peace Center offers a warm stop before cycling carefully through the city to the Cultural History Museum. In the afternoon, the route leads through brightly lit Grønland to the Botanical Garden. Since it gets dark from 5:00 PM, enjoy the frosty ride through the festively decorated streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Astrup Fearnley Museum",
+                "hu": "Astrup Fearnley Museum",
+                "ro": "Astrup Fearnley Museum",
+                "en": "Astrup Fearnley Museum"
+              },
+              "tip_5lang": {
+                "de": "Moderne Kunst in eisiger Kulisse am Wasser; tragen Sie warme Handschuhe für die Fahrt, da der Wind am Fjord im Winter sehr schneidend sein kann.",
+                "hu": "Modern művészet jeges környezetben a vízparton; viseljen meleg kesztyűt a tekeréshez, mert a fjord felől fújó téli szél nagyon metsző lehet.",
+                "ro": "Artă modernă într-un decor înghețat pe malul apei; purtați mănuși groase pentru drum, deoarece vântul dinspre fiord poate fi tăios iarna.",
+                "en": "Modern art in an icy waterfront setting; wear warm gloves for the ride as the wind coming off the fjord can be very biting during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Nobel Peace Center",
+                "hu": "Nobel Peace Center",
+                "ro": "Nobel Peace Center",
+                "en": "Nobel Peace Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den interaktiven Ausstellungen auf; achten Sie auf Glatteis auf dem Platz vor dem Zentrum, der oft erst spät gestreut wird.",
+                "hu": "Melegedjen fel az interaktív kiállításokon; ügyeljen a jegesedésre a központ előtti téren, amelyet télen néha csak később szórnak fel homokkal.",
+                "ro": "Încălziți-vă la expozițiile interactive din interior; atenție la gheața de pe piața din fața centrului, care poate fi alunecoasă dimineața devreme.",
+                "en": "Warm up at the interactive exhibits inside; watch out for ice on the square in front of the center, which can be slippery before it's gritted."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Cultural History",
+                "hu": "Museum of Cultural History",
+                "ro": "Museum of Cultural History",
+                "en": "Museum of Cultural History"
+              },
+              "tip_5lang": {
+                "de": "Vikingerschätze in wohliger Wärme; wenn Sie kein Rad mit Spikereifen haben, schieben Sie das Rad lieber über vereiste Kreuzungen in der Nähe.",
+                "hu": "Viking kincsek kellemes melegben; ha nincs szöges gumija, inkább tolja a kerékpárt a közeli jeges útkereszteződéseken a biztonság érdekében.",
+                "ro": "Comori vikinge la căldură; dacă nu aveți anvelope cu ținte, mai bine împingeți bicicleta pe intersecțiile înghețate din apropiere pentru siguranță.",
+                "en": "Viking treasures in cozy warmth; if you don't have studded tires, it's safer to walk your bike across any icy intersections you encounter nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Jødisk museum",
+                "hu": "Jødisk museum",
+                "ro": "Jødisk museum",
+                "en": "Jødisk museum"
+              },
+              "tip_5lang": {
+                "de": "Kulturelle Einblicke in familiärer Atmosphäre; der Anstieg zum Museum hält Sie warm, aber fahren Sie bei Schnee vorsichtig durch die Kurven.",
+                "hu": "Kulturális betekintés családias környezetben; a múzeumhoz vezető emelkedő segít bemelegedni, de a kanyarokban vigyázzon a havas, csúszós útra.",
+                "ro": "Perspective culturale într-o atmosferă primitoare; urcușul spre muzeu vă va încălzi, dar pedalați cu prudență în curbe dacă este zăpadă pe drum.",
+                "en": "Cultural insights in a friendly atmosphere; the climb to the museum will keep you warm, but take extra care on snowy turns along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Interkulturelt museum",
+                "hu": "Interkulturelt museum",
+                "ro": "Interkulturelt museum",
+                "en": "Interkulturelt museum"
+              },
+              "tip_5lang": {
+                "de": "Spannende Themen in einem historischen Gebäude; nutzen Sie die geräumten Hauptradwege, um sicher durch das winterliche Grønland zu gelangen.",
+                "hu": "Izgalmas témák egy történelmi épületben; használja a letakarított fő kerékpárutakat, hogy biztonságosan átvágjon a téli Grønland negyedén.",
+                "ro": "Teme fascinante într-o clădire istorică; folosiți pistele principale de biciclete deszăpezite pentru a traversa în siguranță cartierul Grønland.",
+                "en": "Exciting topics in a historic building; stick to the cleared main bike paths to navigate safely through the winter landscape of Grønland."
+              }
+            },
+            {
+              "name": {
+                "de": "University Botanical Garden",
+                "hu": "University Botanical Garden",
+                "ro": "University Botanical Garden",
+                "en": "University Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tropische Hitze im Victoriahaus; binden Sie Ihr Rad gut fest, da Schlösser bei extremer Kälte manchmal einfrieren können.",
+                "hu": "Élvezze a trópusi hőséget a Victoria-házban; rögzítse gondosan a kerékpárt, mert a zárak extrém hidegben néha hajlamosak a befagyásra.",
+                "ro": "Bucurați-vă de căldura tropicală din casa Victoria; asigurați bine bicicleta, dar atenție la încuietori care pot îngheța la temperaturi extreme.",
+                "en": "Enjoy the tropical heat in the Victoria House; lock your bike securely, but be aware that locks can sometimes freeze in extreme winter cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a napot nyugaton, felfedezve Oslo polgári történelmének mély gyökereit a kúriában. Délben vezessen a kikötő és az erőd felé, hogy megismerje a béke és a hadtörténet történeteit. A délután az óváros történelmi romjaihoz és a korai püspökséghez viszi. Fejezze be az utat a keleti campus közelében, megcsodálva a nemzet legnagyobb természettudományi gyűjteményeit.",
         "ro": "Începeți ziua în vest, explorând rădăcinile istoriei civice ale orașului Oslo la conac. La prânz, conduceți spre port și fortăreață pentru povești despre pace și istorie militară. După-amiaza vă duce la ruinele istorice și la vechea episcopie din Orașul Vechi. Terminați plimbarea lângă campusul de est, minunându-vă de cele mai mari colecții de istorie naturală ale națiunii.",
         "en": "Kick off the day in the west, exploring the deep roots of Oslo's civic history at the manor. By midday, drive toward the harbor and the fortress for stories of peace and military might. The afternoon takes you to the historic ruins and early bishopric in the Old Town. Finish the drive near the eastern campus, marveling at the nation's grandest natural history collections."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort Ihres Autos für eine regenfreie Tour durch Oslo, beginnend am Stadtmuseum im Frognerpark. Die kurzen Wege vom Parkplatz zu den Museen minimieren den Kontakt mit dem nassen Wetter. Mittags besuchen Sie das Nobel-Friedenszentrum und das Verteidigungsmuseum, wobei Sie direkt in den nahegelegenen Parkhäusern parken können. Den Tag beenden Sie im Naturhistorischen Museum, während Sie den Regen gemütlich von Ihrem warmen Fahrzeug aus beobachten.",
+            "hu": "Élvezze autója kényelmét ezen az esős napon, kezdve a Frogner-parkban található Várostörténeti Múzeumnál. A parkolótól a múzeumig tartó rövid út minimalizálja az esőben töltött időt. Délben a Nobel Békeközpont és a Védelmi Múzeum következik, ahol közvetlenül a közeli mélygarázsokban állhat meg. A napot a Természettudományi Múzeumnál zárhatja, miközben az autó ablakából nézheti a szakadó esőt.",
+            "ro": "Folosiți confortul mașinii pentru un tur prin Oslo fără ploaie, pornind de la Muzeul Orașului din parcul Frogner. Distanțele scurte de la parcare la muzee reduc la minimum expunerea la ploaie. La prânz, vizitați Centrul Nobel și Muzeul Apărării, parcând direct în garajele subterane din apropiere. Încheiați ziua la Muzeul de Istorie Naturală, privind ploaia de la adăpostul cald al vehiculului.",
+            "en": "Enjoy the comfort of your car for a rain-free tour of Oslo, starting at the City Museum in Frogner Park. The short distances from parking to museums minimize your time in the wet weather. At noon, visit the Nobel Peace Center and Defence Museum, parking directly in nearby underground garages. End your day at the Natural History Museum while watching the rain from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oslo City Museum",
+                "hu": "Oslo City Museum",
+                "ro": "Oslo City Museum",
+                "en": "Oslo City Museum"
+              },
+              "tip_5lang": {
+                "de": "Oslos Geschichte im Frognerpark; nutzen Sie den Parkplatz direkt am Museumseingang, um bei Regen nur wenige Meter laufen zu müssen.",
+                "hu": "Oslo története a Frogner-parkban; használja közvetlenül a múzeum bejárata melletti parkolót, így esőben csak pár métert kell gyalogolnia.",
+                "ro": "Istoria orașului în parcul Frogner; folosiți parcarea de lângă intrarea muzeului pentru a merge doar câțiva metri prin ploaie până la ușă.",
+                "en": "Oslo's history in Frogner Park; use the parking lot right next to the museum entrance to minimize your walk through the rain to the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronning Sonjas kunststall",
+                "hu": "Dronning Sonjas kunststall",
+                "ro": "Dronning Sonjas kunststall",
+                "en": "Dronning Sonjas kunststall"
+              },
+              "tip_5lang": {
+                "de": "Königliche Kunst in den Ställen; parken Sie in der Nähe der Parkveien, von wo aus der Weg zum Museumseingang am kürzesten ist.",
+                "hu": "Királyi művészet az istállókban; parkoljon a Parkveien környékén, innen a legrövidebb a séta a múzeum bejáratához az esernyő alatt.",
+                "ro": "Artă regală în grajduri; parcați în zona străzii Parkveien, de unde drumul până la intrarea muzeului este cel mai scurt pe timp de ploaie.",
+                "en": "Royal art in the stables; park near Parkveien, from where the walk to the museum entrance is shortest when you need to avoid the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nobel Peace Center",
+                "hu": "Nobel Peace Center",
+                "ro": "Nobel Peace Center",
+                "en": "Nobel Peace Center"
+              },
+              "tip_5lang": {
+                "de": "Friedensnobelpreisträger im Fokus; nutzen Sie das Parkhaus 'Aker Brygge', um trockenen Fußes fast bis zum Eingang des Zentrums zu gelangen.",
+                "hu": "A Nobel-békedíjasok nyomában; használja az 'Aker Brygge' parkolóházat, így szinte száraz lábbal érheti el a központ közeli bejáratát.",
+                "ro": "Laureații Premiului Nobel pentru Pace; folosiți parcarea subterană 'Aker Brygge' pentru a ajunge aproape uscat până la intrarea centrului.",
+                "en": "Focus on Nobel Peace Prize winners; use the 'Aker Brygge' parking garage to reach the center's entrance almost completely dry-footed."
+              }
+            },
+            {
+              "name": {
+                "de": "Defence Musuem",
+                "hu": "Defence Musuem",
+                "ro": "Defence Musuem",
+                "en": "Defence Musuem"
+              },
+              "tip_5lang": {
+                "de": "Militärgeschichte auf dem Festungsgelände; es gibt begrenzte Parkmöglichkeiten nahe dem Eingang, die bei Regen sehr begehrt sind.",
+                "hu": "Hadtörténelem az erőd területén; a bejárat közelében korlátozott számú parkolóhely van, amelyek esőben hamar megtelnek, érkezzen időben.",
+                "ro": "Istorie militară în incinta cetății; există locuri limitate de parcare lângă intrare, care sunt foarte căutate atunci când plouă afară.",
+                "en": "Military history within the fortress grounds; there is limited parking near the entrance which fills up quickly when it starts raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladegården",
+                "hu": "Ladegården",
+                "ro": "Ladegården",
+                "en": "Ladegården"
+              },
+              "tip_5lang": {
+                "de": "Ein historisches Juwel in Gamle Oslo; parken Sie in den umliegenden Straßen, aber achten Sie auf die strikten Parkregeln bei Regenwetter.",
+                "hu": "Történelmi ékszerdoboz Gamle Oslóban; parkoljon a környező utcákban, de esőben is figyeljen a szigorú zónákra és a parkolási díjakra.",
+                "ro": "O bijuterie istorică în Gamle Oslo; parcați pe străzile din jur, dar aveți grijă la regulile stricte de parcare chiar și pe vreme rea.",
+                "en": "A historical gem in Gamle Oslo; park in the surrounding streets, but be sure to follow the strict parking regulations even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Natural History Museum at the University of Oslo",
+                "hu": "Natural History Museum at the University of Oslo",
+                "ro": "Natural History Museum at the University of Oslo",
+                "en": "Natural History Museum at the University of Oslo"
+              },
+              "tip_5lang": {
+                "de": "Naturwunder in den Tøyen-Gärten; der große Parkplatz am Haupteingang ermöglicht einen schnellen Zugang zu den Ausstellungsgebäuden.",
+                "hu": "Természeti csodák a Tøyen-kertben; a főbejáratnál található nagy parkoló gyors és kényelmes bejutást tesz lehetővé a kiállítási épületekbe.",
+                "ro": "Minunile naturii în grădinile Tøyen; parcarea mare de la intrarea principală permite accesul rapid și facil în clădirile expoziționale.",
+                "en": "Natural wonders in the Tøyen gardens; the large parking lot at the main entrance allows quick and easy access to the exhibition buildings."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Oslo im Winter bequem mit dem Auto, während die Heizung für wohlige Wärme sorgt. Starten Sie am Stadtmuseum im verschneiten Frognerpark und genießen Sie die kurzen Wege ins Innere. Mittags führen die Fahrten durch das festlich beleuchtete Zentrum zum Nobel-Friedenszentrum und zur Festung Akershus. Da es ab 17:00 Uhr dunkel wird, bietet die Fahrt zum Naturhistorischen Museum am späten Nachmittag einen wunderbaren Blick auf das glitzernde winterliche Stadtbild.",
+            "hu": "Fedezze fel a téli Oslót kényelmesen autóval, miközben a fűtés kellemes meleget ad. Kezdjen a Várostörténeti Múzeumnál a havas Frogner-parkban, élvezve a rövid besétálást a melegbe. Délben az út az ünnepi fényekkel díszített belvároson át vezet a Nobel Békeközponthoz és az erődhöz. Mivel 17:00 után sötétedik, a délutáni autózás a Természettudományi Múzeum felé csodás kilátást nyújt a csillogó téli városra.",
+            "ro": "Descoperiți Oslo iarna confortabil cu mașina, în timp ce căldura din interior vă protejează de ger. Începeți la Muzeul Orașului în parcul Frogner înzăpezit, bucurându-vă de drumul scurt până la intrare. La prânz, traversați centrul iluminat festiv spre Centrul Nobel și cetatea Akershus. Deoarece se întunecă după ora 17:00, drumul spre Muzeul de Istorie Naturală oferă o priveliște superbă asupra orașului sclipitor.",
+            "en": "Discover winter Oslo comfortably by car, with the heater keeping you warm between stops. Start at the City Museum in snowy Frogner Park, enjoying the short walk into the warmth. At noon, drive through the festively decorated city centre to the Nobel Peace Center and Akershus Fortress. Since it gets dark after 5:00 PM, the afternoon drive to the Natural History Museum offers wonderful views of the glittering winter cityscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oslo City Museum",
+                "hu": "Oslo City Museum",
+                "ro": "Oslo City Museum",
+                "en": "Oslo City Museum"
+              },
+              "tip_5lang": {
+                "de": "Geschichte in einem herrschaftlichen Haus; der Parkplatz kann im Winter vereist sein, parken Sie vorsichtig und achten Sie auf Schneehaufen.",
+                "hu": "Történelem egy impozáns kúriában; a parkoló télen jeges lehet, ezért óvatosan manőverezzen és figyeljen a feltúrt hóbuckákra a szegélyeknél.",
+                "ro": "Istoria într-o conac impunător; parcarea poate fi înghețată iarna, deci parcați cu atenție și feriți-vă de mormanele de zăpadă de pe margini.",
+                "en": "History in an imposing manor house; the parking lot can be icy in winter, so maneuver carefully and watch out for snow piles near the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronning Sonjas kunststall",
+                "hu": "Dronning Sonjas kunststall",
+                "ro": "Dronning Sonjas kunststall",
+                "en": "Dronning Sonjas kunststall"
+              },
+              "tip_5lang": {
+                "de": "Königliche Galerien im Warmen; nutzen Sie die Parkhäuser in der Innenstadt, um Ihr Auto vor dem Einfrieren der Scheiben zu schützen.",
+                "hu": "Királyi galériák a melegben; használja a belvárosi parkolóházakat, hogy megóvja autóját a jegesedéstől és a szélvédők befagyásától.",
+                "ro": "Galerii regale la căldură; folosiți parcările subterane din centru pentru a vă proteja mașina de îngheț și pentru a evita curățarea parbrizului.",
+                "en": "Royal galleries in the warmth; use downtown parking garages to protect your car from frost and avoid having to scrape ice off the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Nobel Peace Center",
+                "hu": "Nobel Peace Center",
+                "ro": "Nobel Peace Center",
+                "en": "Nobel Peace Center"
+              },
+              "tip_5lang": {
+                "de": "Interaktive Friedensgeschichte; das Parkhaus 'Aker Brygge' bietet einen direkten, geschützten Zugang zur Umgebung des Zentrums.",
+                "hu": "Interaktív béketörténelem; az 'Aker Brygge' parkolóház közvetlen, védett feljutást biztosít a központ környékére, elkerülve a jeges szelet.",
+                "ro": "Istoria interactivă a păcii; parcarea 'Aker Brygge' oferă un acces protejat către zona centrului, ferindu-vă de vântul tăios de iarnă.",
+                "en": "Interactive peace history; the 'Aker Brygge' parking garage provides direct, sheltered access to the area around the center, avoiding icy winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Defence Musuem",
+                "hu": "Defence Musuem",
+                "ro": "Defence Musuem",
+                "en": "Defence Musuem"
+              },
+              "tip_5lang": {
+                "de": "Militärische Exponate in großen Hallen; die Auffahrt zur Festung kann im Winter steil und glatt sein, stellen Sie sicher, dass Sie Winterreifen haben.",
+                "hu": "Katonai kiállítások nagy csarnokokban; az erőd felé vezető út meredek és jeges lehet, győződjön meg róla, hogy autója jó téli gumikkal van felszerelve.",
+                "ro": "Expoziții militare în hale mari; drumul spre cetate poate fi abrupt și alunecos iarna, asigurați-vă că aveți anvelope de iarnă adecvate.",
+                "en": "Military exhibits in large halls; the drive up to the fortress can be steep and icy in winter, so ensure your car is equipped with good winter tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladegården",
+                "hu": "Ladegården",
+                "ro": "Ladegården",
+                "en": "Ladegården"
+              },
+              "tip_5lang": {
+                "de": "Barocke Architektur im Winterlicht; die engen Straßen von Gamle Oslo werden oft erst spät geräumt, fahren Sie hier besonders vorausschauend.",
+                "hu": "Barokk építészet téli fényekben; Gamle Oslo szűk utcáit gyakran csak később takarítják, ezért vezessen itt fokozott figyelemmel a hóban.",
+                "ro": "Arhitectură barocă în lumina iernii; străzile înguste din Gamle Oslo sunt deszăpezite mai târziu, deci conduceți cu prudență sporită pe aici.",
+                "en": "Baroque architecture in winter light; the narrow streets of Gamle Oslo are often cleared later, so drive with extra caution through the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Natural History Museum at the University of Oslo",
+                "hu": "Natural History Museum at the University of Oslo",
+                "ro": "Natural History Museum at the University of Oslo",
+                "en": "Natural History Museum at the University of Oslo"
+              },
+              "tip_5lang": {
+                "de": "Dinosaurier und Minerale im Warmen; nach 17 Uhr ist der Park stimmungsvoll beleuchtet, ideal für einen kurzen, knackigen Winterspaziergang zum Auto.",
+                "hu": "Dinoszauruszok és ásványok a melegben; 17 óra után a park hangulatosan van kivilágítva, tökéletes egy rövid, frissítő sétára az autóig.",
+                "ro": "Dinozauri și minerale la căldură; după ora 17 parcul este iluminat feeric, fiind ideal pentru o scurtă plimbare revigorantă până la mașină.",
+                "en": "Dinosaurs and minerals in the warmth; after 5 PM the park is atmospheric with lights, perfect for a short, crisp winter walk back to your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

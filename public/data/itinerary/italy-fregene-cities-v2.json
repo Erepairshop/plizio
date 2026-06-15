@@ -137,6 +137,168 @@
         "hu": "A reggel kulturálisan és nyugodtan kezdődik a helyi tengeri múzeumban. Délben az Il Pellicano és a Toni Fregene nyüzsgő strandjaihoz sétálunk. Délután a divatos Gilda Beachclub várja Önt. Este a csendes Lidonál, csodás naplemente kíséretében zárjuk a napot.",
         "ro": "Dimineața începe cultural și relaxat la muzeul maritim. La prânz ne îndreptăm spre plajele pline de viață de la Il Pellicano și Toni Fregene. După-amiaza vă așteaptă șicul Gilda Beachclub. Seara încheiem ziua pe plaja liniștită Lido, admirând un apus de soare superb.",
         "en": "The morning begins culturally and comfortably at the marine museum. At midday, we stroll to the lively beaches of Il Pellicano and Toni Fregene. In the afternoon, the chic Gilda beach club awaits you. In the evening, we end the day at the quiet Lido at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Vormittag im trockenen Museum, um moderne Kunst zu genießen. Mittags bietet ein überdachter Beachclub Schutz vor dem Regen mit Blick auf die aufgewühlte See. Am Nachmittag spazieren Sie mit festem Schirm zwischen den Lokalen am Ufer. Beenden Sie den Tag bei einem gemütlichen Abendessen im Innenbereich, während der Regen gegen die Scheiben peitscht.",
+            "hu": "Kezdje a reggelt a múzeum fedett tereiben, elkerülve az első záporokat. Ebédidőben keressen egy stabil tetővel rendelkező tengerparti klubot a hullámok megfigyeléséhez. Délután egy rövid, esernyős séta a parton frissítő élmény, ha figyel a csúszós szakaszokra. Az estét töltse egy hangulatos beltéri étteremben, hallgatva a tenger morajlását és az eső kopogását.",
+            "ro": "Începeți dimineața la muzeu pentru a evita ploaia și a admira arta contemporană. La prânz, alegeți un club de plajă cu terasă acoperită pentru a privi marea agitată în siguranță. După-amiaza, o plimbare scurtă cu umbrela pe faleză este revigorantă, dar atenție la porțiunile alunecoase. Încheiați ziua cu o cină caldă în interior, bucurându-vă de sunetul liniștitor al ploii.",
+            "en": "Start your morning inside the museum to stay dry while exploring unique art. For lunch, seek out a beach club with a solid roof to watch the stormy Tyrrhenian Sea in comfort. Spend the afternoon taking short walks with a sturdy umbrella between sheltered coastal spots. Finish your rainy day with a cozy indoor dinner as the sound of the storm adds a dramatic touch to the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Pianeta Azzurro",
+                "hu": "Museo Pianeta Azzurro",
+                "ro": "Museo Pianeta Azzurro",
+                "en": "Museo Pianeta Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Erkunden Sie die faszinierenden ökologischen Installationen in diesem geschützten Innenraum; ein perfekter Ort, um dem Regen zu entkommen und moderne Kunst zu genießen.",
+                "hu": "Fedezze fel a lenyűgöző ökológiai installációkat ebben a teljesen fedett kiállítótérben; tökéletes menedék az eső elől, ahol elmerülhet a modern művészetben.",
+                "ro": "Explorați instalațiile ecologice fascinante în acest spațiu interior protejat; este locul perfect pentru a scăpa de ploaie și a admira arta contemporană.",
+                "en": "Explore the fascinating ecological installations in this fully sheltered indoor space; it is a perfect sanctuary from the rain to immerse yourself in modern art."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Pellicano",
+                "hu": "Il Pellicano",
+                "ro": "Il Pellicano",
+                "en": "Il Pellicano"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den Regen über dem Meer von der überdachten Terrasse aus; fragen Sie nach einem Tisch im windgeschützten Bereich für maximalen Komfort.",
+                "hu": "Élvezze az eső áztatta tenger látványát a fedett teraszról; kérjen asztalt a szélvédett részen a maximális kényelem és a száraz ruhák érdekében.",
+                "ro": "Bucurați-vă de priveliștea mării sub ploaie de pe terasa acoperită; cereți o masă în zona ferită de vânt pentru confort maxim și pentru a rămâne uscat.",
+                "en": "Enjoy the view of the rain over the sea from the covered terrace; ask for a table in the wind-sheltered area for maximum comfort and to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Toni Fregene",
+                "hu": "Toni Fregene",
+                "ro": "Toni Fregene",
+                "en": "Toni Fregene"
+              },
+              "tip_4lang": {
+                "de": "Dieser Beachclub bietet gemütliche Innenplätze mit großen Fenstern; ideal, um die grauen Wellen zu beobachten, während man ein warmes Getränk genießt.",
+                "hu": "Ez a strandklub barátságos belső terekkel és nagy ablakokkal várja; ideális a szürke hullámok figyeléséhez egy forró ital mellett, távol az esőtől.",
+                "ro": "Acest club de plajă oferă spații interioare primitoare cu ferestre mari; ideal pentru a observa valurile cenușii cu o băutură caldă în mână, ferit de ploaie.",
+                "en": "This beach club offers welcoming indoor spaces with large windows; ideal for watching the grey waves with a warm drink in hand while staying away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gilda on the Beach",
+                "hu": "Gilda on the Beach",
+                "ro": "Gilda on the Beach",
+                "en": "Gilda on the Beach"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den eleganten Innenbereich für eine Kaffeepause; die entspannte Atmosphäre lässt Sie das schlechte Wetter draußen schnell vergessen.",
+                "hu": "Használja ki az elegáns belső teret egy kávészünethez; a pihentető légkör segít elfelejteni a kinti rossz időt, miközben a tenger morajlását hallgatja.",
+                "ro": "Profitați de spațiul interior elegant pentru o pauză de cafea; atmosfera relaxantă vă va face să uitați de vremea rea de afară în timp ce ascultați marea.",
+                "en": "Take advantage of the elegant indoor space for a coffee break; the relaxing atmosphere will make you forget the bad weather outside while listening to the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido",
+                "hu": "Lido",
+                "ro": "Lido",
+                "en": "Lido"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie den Tag im weitläufigen Restaurantbereich, der fest überdacht ist; genießen Sie lokale Küche, während das Wasser sicher draußen bleibt.",
+                "hu": "Zárja a napot a tágas, szilárd tetővel rendelkező éttermi részben; élvezze a helyi konyhát, miközben az eső biztonságosan a falakon kívül marad.",
+                "ro": "Încheiați ziua în zona spațioasă de restaurant cu acoperiș solid; savurați bucătăria locală în timp ce ploaia rămâne în siguranță în afara pereților.",
+                "en": "End the day in the spacious restaurant area with a solid roof; enjoy local cuisine while the rain stays safely outside the windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Fregene ist frisch und klar. Besuchen Sie das Museum für eine Prise Kultur in Wärme. Mittags wärmt die tiefe Wintersonne die Strandlokale, wo man hinter Glas speisen kann. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Nachmittagsspaziergang früh planen. Der Abend gehört der gemütlichen Gastronomie mit herzhaften italienischen Wintergerichten.",
+            "hu": "A téli reggel Fregenében friss és tiszta. Kezdje a múzeumban, ahol melegben élvezheti a kultúrát. Ebédnél az alacsonyan járó nap süti a parti helyeket, ahol üvegfalak mögött ehet. Mivel a nap korán, 17:00 körül nyugszik, a délutáni sétát időzítse korábbra. Az estét töltse egy fűtött étteremben, élvezve a kiadós olasz téli fogásokat és a kandalló melegét.",
+            "ro": "O dimineață de iarnă în Fregene este proaspătă și senină. Vizitați muzeul pentru un strop de cultură la căldură. La prânz, soarele blând de iarnă încălzește localurile de pe plajă unde puteți mânca în spatele geamurilor. Deoarece soarele apune devreme, în jur de ora 17:00, planificați plimbarea mai devreme. Seara este dedicată gastronomiei calde, cu preparate italiene de iarnă.",
+            "en": "A winter morning in Fregene is crisp and clear. Visit the museum for a touch of culture in warmth. At lunch, the low winter sun warms the beach spots where you can dine behind glass walls. Since the sun sets early around 5 PM, schedule your afternoon walk before dark. The evening belongs to cozy gastronomy with hearty Italian winter dishes and warm atmospheres."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Pianeta Azzurro",
+                "hu": "Museo Pianeta Azzurro",
+                "ro": "Museo Pianeta Azzurro",
+                "en": "Museo Pianeta Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die beheizten Galerien und die ruhige Winteratmosphäre; ein idealer Ort, um den Tag entspannt und warm zu beginnen.",
+                "hu": "Élvezze a fűtött galériákat és a csendes téli hangulatot; ideális hely a nap nyugodt és meleg indításához, távol a tengerparti széltől.",
+                "ro": "Bucurați-vă de galeriile încălzite și de atmosfera liniștită de iarnă; un loc ideal pentru a începe ziua relaxat și la căldură.",
+                "en": "Enjoy the heated galleries and the quiet winter atmosphere; an ideal place to start the day relaxed and warm, away from the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Pellicano",
+                "hu": "Il Pellicano",
+                "ro": "Il Pellicano",
+                "en": "Il Pellicano"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne auf der Terrasse ist herrlich; bringen Sie eine warme Jacke mit, um die frische Meeresbrise bei einem Mittagessen zu genießen.",
+                "hu": "A téli napsütés a teraszon csodálatos; hozzon egy meleg kabátot, hogy élvezhesse a friss tengeri szellőt egy kiadós ebéd közben.",
+                "ro": "Soarele de iarnă pe terasă este minunat; aduceți o jachetă groasă pentru a vă bucura de briza mării în timpul unui prânz consistent.",
+                "en": "The winter sun on the terrace is wonderful; bring a warm jacket to enjoy the fresh sea breeze during a hearty lunch with a view."
+              }
+            },
+            {
+              "name": {
+                "de": "Toni Fregene",
+                "hu": "Toni Fregene",
+                "ro": "Toni Fregene",
+                "en": "Toni Fregene"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie sich einen Platz hinter den Glaswänden, um das Meer ohne Kälte zu sehen; die Winterkarte bietet oft wärmende Spezialitäten.",
+                "hu": "Keressen helyet az üvegfalak mögött, hogy láthassa a tengert a hideg nélkül; a téli étlap gyakran kínál melengető helyi különlegességeket.",
+                "ro": "Căutați un loc în spatele pereților de sticlă pentru a vedea marea fără frig; meniul de iarnă oferă adesea specialități calde locale.",
+                "en": "Find a spot behind the glass walls to see the sea without the cold; the winter menu often offers warming local specialties and hot drinks."
+              }
+            },
+            {
+              "name": {
+                "de": "Gilda on the Beach",
+                "hu": "Gilda on the Beach",
+                "ro": "Gilda on the Beach",
+                "en": "Gilda on the Beach"
+              },
+              "tip_4lang": {
+                "de": "Erleben Sie das goldene Licht kurz vor Sonnenuntergang gegen 16:30 Uhr; der beheizte Innenbereich sorgt für eine luxuriöse Winterstimmung.",
+                "hu": "Élje át az arany óra fényeit közvetlenül a 17 órai napnyugta előtt; a fűtött belső tér luxus téli hangulatot áraszt a part mellett.",
+                "ro": "Experimentați lumina aurie chiar înainte de apusul de la ora 17:00; spațiul interior încălzit oferă o atmosferă de iarnă luxuriantă.",
+                "en": "Experience the golden hour light just before the 5 PM sunset; the heated indoor space provides a luxurious winter mood by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido",
+                "hu": "Lido",
+                "ro": "Lido",
+                "en": "Lido"
+              },
+              "tip_4lang": {
+                "de": "Wenn es dunkel wird, bietet dieser Ort einen warmen Rückzugsort; genießen Sie den Blick auf die nächtliche Küste bei einem Glas Rotwein.",
+                "hu": "Amikor besötétedik, ez a hely meleg menedéket nyújt; élvezze az éjszakai part látványát egy pohár vörösbor és finom ételek mellett.",
+                "ro": "Când se întunecă, acest loc oferă un refugiu cald; bucurați-vă de vederea coastei nocturne cu un pahar de vin roșu și mâncare bună.",
+                "en": "As it gets dark, this place offers a warm refuge; enjoy the view of the nightly coast with a glass of red wine and excellent local food."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel aktívan indul a nyüzsgő Singita Miracle Beach-en. Délben délre biciklizünk a friss tengeri ételekért és egy izgalmas múzeumlátogatásért. Délután pihenhet a bájos La Spiaggettán. Az estét trópusi hangulatban ünnepeljük a Hacienda OASI árnyékában.",
         "ro": "Dimineața începe activ pe aglomerata plajă Singita Miracle. La prânz pedalăm spre sud pentru fructe de mare proaspete și o vizită la muzeu. După-amiaza vă relaxați la fermecătorul La Spiaggetta. Seara este sărbătorită cu o atmosferă tropicală la Hacienda OASI.",
         "en": "The morning starts actively at the bustling Singita Miracle Beach. At midday, we pedal south for some fresh seafood and a fascinating museum visit. In the afternoon, you relax at the charming La Spiaggetta. The evening is celebrated tropically at Hacienda OASI."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig auf den nassen Straßen von Fregene. Starten Sie an einem geschützten Strandclub und nutzen Sie das Museum als trockenen Zwischenstopp am Vormittag. Mittags bieten die Lidos entlang der Küste sichere Unterstellmöglichkeiten für Fahrräder und Gäste. Nachmittags sind die Wege durch die Pinienwälder oft rutschig, also fahren Sie langsam und genießen Sie die frische Luft.",
+            "hu": "Óvatosan kerékpározzon Fregene nedves útjain. Kezdjen egy védett parti klubban, majd használja a múzeumot száraz pihenőként délelőtt. Ebédnél a tengerparti strandok biztonságos tárolót és fedett helyet kínálnak a bringásoknak. Délután a fenyvesek alatti utak csúszósak lehetnek, így hajtson lassan, élvezve az eső utáni friss illatokat és a tiszta levegőt.",
+            "ro": "Pedalați cu atenție pe străzile umede din Fregene. Începeți la un club de plajă protejat și folosiți muzeul ca oprire uscată în timpul dimineții. La prânz, lido-urile oferă adăpost sigur pentru biciclete și clienți. După-amiaza, potecile prin pădurea de pini pot fi alunecoase, deci mergeți încet și bucurați-vă de aerul curat după ploaie.",
+            "en": "Cycle carefully on Fregene's wet streets. Start at a sheltered beach club and use the museum as a dry morning stopover. At lunch, the lidos along the coast provide safe storage for bikes and covered seating for guests. In the afternoon, the paths through the pine forest can be slippery, so ride slowly and enjoy the fresh, rain-cleansed air by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Singita Miracle Beach",
+                "hu": "Singita Miracle Beach",
+                "ro": "Singita Miracle Beach",
+                "en": "Singita Miracle Beach"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Lounge-Bereich, um die erste Regenfront abzuwarten; stellen Sie Ihr Rad an einem windgeschützten Platz ab.",
+                "hu": "Használja a fedett társalgót az első esőhullám megvárásához; parkolja le kerékpárját egy szélvédett, védett helyen a bejárat közelében.",
+                "ro": "Folosiți zona de lounge acoperită pentru a aștepta trecerea primului val de ploaie; parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Use the covered lounge area to wait out the first rain front; park your bike in a wind-sheltered spot near the entrance for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "La Scialuppa",
+                "hu": "La Scialuppa",
+                "ro": "La Scialuppa",
+                "en": "La Scialuppa"
+              },
+              "tip_4lang": {
+                "de": "Ein toller Stopp für Radfahrer mit viel Platz im Trockenen; genießen Sie eine Pause vom Regen bei einem Snack auf der geschützten Veranda.",
+                "hu": "Nagyszerű megálló bringásoknak, sok hellyel a szárazon; élvezze a pihenőt a csapadék elől a védett verandán egy finom falat mellett.",
+                "ro": "O oprire excelentă pentru bicicliști, cu mult spațiu la uscat; bucurați-vă de o pauză de ploaie pe veranda protejată cu o gustare.",
+                "en": "A great stop for cyclists with plenty of dry space; enjoy a break from the rain on the sheltered veranda with a snack and a warm drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Pianeta Azzurro",
+                "hu": "Museo Pianeta Azzurro",
+                "ro": "Museo Pianeta Azzurro",
+                "en": "Museo Pianeta Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad am Eingang und verbringen Sie eine trockene Stunde mit Kunst; die Innenräume sind perfekt, um die Kleidung trocknen zu lassen.",
+                "hu": "Parkolja le a bringát a bejáratnál, és töltsön egy száraz órát a művészetekkel; a belső terek tökéletesek a ruhák megszárításához.",
+                "ro": "Parcați bicicleta la intrare și petreceți o oră la uscat printre opere de artă; interiorul este perfect pentru a vă lăsa hainele să se usuce.",
+                "en": "Park your bike at the entrance and spend a dry hour with art; the interiors are perfect for letting your clothes dry while you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "La Spiaggetta",
+                "hu": "La Spiaggetta",
+                "ro": "La Spiaggetta",
+                "en": "La Spiaggetta"
+              },
+              "tip_4lang": {
+                "de": "Vorsicht beim Befahren des Parkplatzes, der bei Regen rutschig sein kann; der überdachte Bereich bietet einen tollen Blick auf das graue Meer.",
+                "hu": "Vigyázzon a parkolóban, amely esőben csúszós lehet; a fedett részről nagyszerű kilátás nyílik a morajló szürke tengerre.",
+                "ro": "Atenție la intrarea în parcare, care poate fi alunecoasă pe ploaie; zona acoperită oferă o vedere excelentă spre marea cenușie.",
+                "en": "Be careful when entering the parking area, which can be slippery in the rain; the covered section offers a great view of the grey sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido",
+                "hu": "Lido",
+                "ro": "Lido",
+                "en": "Lido"
+              },
+              "tip_4lang": {
+                "de": "Hier finden Sie solide Überdachungen für eine längere Pause; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nasser Fahrbahn fortsetzen.",
+                "hu": "Itt stabil tetőket talál egy hosszabb pihenőhöz; ellenőrizze a fékeket, mielőtt folytatná az utat a vizes aszfalton.",
+                "ro": "Aici găsiți acoperișuri solide pentru o pauză mai lungă; verificați frânele înainte de a continua drumul pe carosabilul umed.",
+                "en": "Find solid roofing here for a longer break; check your brakes before continuing the ride on the wet pavement for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda OASI",
+                "hu": "Hacienda OASI",
+                "ro": "Hacienda OASI",
+                "en": "Hacienda OASI"
+              },
+              "tip_4lang": {
+                "de": "Ein warmer und trockener Abschluss Ihrer Tour; nutzen Sie den Innenbereich, um sich aufzuwärmen, bevor Sie das Rad endgültig abstellen.",
+                "hu": "Meleg és száraz zárása a túrának; használja a belső teret a felmelegedéshez, mielőtt végleg letenné a kerékpárt a nap végén.",
+                "ro": "Un final cald și uscat pentru turul tău; folosește zona interioară pentru a te încălzi înainte de a lăsa bicicleta definitiv.",
+                "en": "A warm and dry conclusion to your tour; use the indoor area to warm up before finally parking the bike for the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Fregene erfordert Schichten und Handschuhe gegen den Seewind. Starten Sie an einem sonnigen Strandabschnitt und nutzen Sie die Mittagsstunden für die Fahrt zwischen den Lidos. Das Museum bietet eine willkommene Aufwärmpause. Da es ab 16:30 Uhr dämmert, achten Sie auf funktionierende Lichter an Ihrem Rad. Beenden Sie die Tour in einem gemütlichen Club vor der Abendkälte.",
+            "hu": "A téli kerékpározáshoz Fregenében réteges öltözet és kesztyű kell a tengeri szél ellen. Kezdjen egy napos partrészen, és használja ki a déli órákat a lido-k közötti útra. A múzeum kellemes meleg pihenőt nyújt. Mivel 16:30 után szürkület van, ügyeljen a lámpákra a bringán. A túrát egy fűtött klubban zárja, mielőtt beállna az esti hideg.",
+            "ro": "Ciclismul de iarnă în Fregene necesită straturi și mănuși împotriva vântului marin. Începeți pe o porțiune însorită de plajă și profitați de orele prânzului. Muzeul oferă o pauză de încălzire binevenită. Deoarece se înserează după 16:30, asigurați-vă că aveți lumini funcționale. Încheiați turul într-un club primitor înainte de lăsarea frigului serii.",
+            "en": "Winter cycling in Fregene requires layers and gloves against the sea breeze. Start at a sunny beach section and use the midday hours for the ride between lidos. The museum offers a welcome warm-up break. As dusk sets in after 4:30 PM, ensure you have working lights on your bike. End the tour in a cozy club before the evening chill becomes too strong."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Singita Miracle Beach",
+                "hu": "Singita Miracle Beach",
+                "ro": "Singita Miracle Beach",
+                "en": "Singita Miracle Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne ist hier besonders intensiv; genießen Sie die klare Luft am Morgen, bevor Sie sich für die Weiterfahrt wieder warm einpacken.",
+                "hu": "A téli nap itt különösen intenzív; élvezze a tiszta reggeli levegőt, mielőtt újra melegen felöltözne a továbbhaladáshoz.",
+                "ro": "Soarele de iarnă este deosebit de intens aici; bucurați-vă de aerul curat al dimineții înainte de a vă înfofoli pentru drum.",
+                "en": "The winter sun is especially intense here; enjoy the clear morning air before wrapping up warm again for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "La Scialuppa",
+                "hu": "La Scialuppa",
+                "ro": "La Scialuppa",
+                "en": "La Scialuppa"
+              },
+              "tip_4lang": {
+                "de": "Perfekt für eine Mittagspause in der Wintersonne; die geschützten Ecken bieten Wärme für Radfahrer, die eine kurze Pause brauchen.",
+                "hu": "Tökéletes ebédszünet a téli napsütésben; a szélvédett sarkok meleget adnak a bringásoknak, akiknek szükségük van egy kis pihenőre.",
+                "ro": "Perfect pentru o pauză de prânz la soarele de iarnă; colțurile ferite oferă căldură bicicliștilor care au nevoie de o scurtă pauză.",
+                "en": "Perfect for a lunch break in the winter sun; the sheltered corners provide warmth for cyclists who need a short rest from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Pianeta Azzurro",
+                "hu": "Museo Pianeta Azzurro",
+                "ro": "Museo Pianeta Azzurro",
+                "en": "Museo Pianeta Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Heizung im Museum, um Ihre Glieder nach dem Radeln im Wind aufzuwärmen; die Kunstwerke wirken im Winterlicht besonders klar.",
+                "hu": "Használja ki a múzeum fűtését, hogy felmelegítse tagjait a szeles tekerés után; a műtárgyak a téli fényben különösen tisztának tűnnek.",
+                "ro": "Folosiți încălzirea din muzeu pentru a vă dezmorți după pedalatul în vânt; operele de artă par deosebit de clare în lumina iernii.",
+                "en": "Use the heating in the museum to warm your limbs after cycling in the wind; the artworks look especially clear in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "La Spiaggetta",
+                "hu": "La Spiaggetta",
+                "ro": "La Spiaggetta",
+                "en": "La Spiaggetta"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp vor dem frühen Sonnenuntergang; genießen Sie die Ruhe des Strandes im Winter, wenn kaum Touristen unterwegs sind.",
+                "hu": "Egy rövid megálló a korai napnyugta előtt; élvezze a tengerpart nyugalmát télen, amikor alig van turista a környéken.",
+                "ro": "O scurtă oprire înainte de apusul timpuriu; bucurați-vă de liniștea plajei iarna, când sunt foarte puțini turiști în zonă.",
+                "en": "A short stop before the early sunset; enjoy the tranquility of the beach in winter when there are very few tourists around."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido",
+                "hu": "Lido",
+                "ro": "Lido",
+                "en": "Lido"
+              },
+              "tip_4lang": {
+                "de": "Wenn die Dämmerung um 17:00 Uhr einsetzt, bietet dieser Ort eine warme Atmosphäre; ideal für einen Snack, bevor es im Dunkeln weitergeht.",
+                "hu": "Amikor 17:00-kor beáll a szürkület, ez a hely meleg légkört kínál; ideális egy falatozáshoz, mielőtt a sötétben folytatná az utat.",
+                "ro": "Când se lasă amurgul la ora 17:00, acest loc oferă o atmosferă caldă; ideal pentru o gustare înainte de a merge mai departe pe întuneric.",
+                "en": "As twilight sets in at 5 PM, this place offers a warm atmosphere; ideal for a snack before continuing the ride in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacienda OASI",
+                "hu": "Hacienda OASI",
+                "ro": "Hacienda OASI",
+                "en": "Hacienda OASI"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie Ihre Radtour in der Wärme dieses Beachclubs; die winterliche Beleuchtung sorgt für einen magischen Abschluss der Fahrt.",
+                "hu": "Zárja kerékpáros túráját ebben a fűtött strandklubban; a téli esti fények mágikus hangulatot adnak a nap végének.",
+                "ro": "Încheiați turul cu bicicleta la căldura acestui club de plajă; iluminarea de iarnă oferă un final magic plimbării tale.",
+                "en": "End your bike tour in the warmth of this beach club; the winter lighting provides a magical conclusion to your ride by the sea."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Reggel igyunk egy gyors kávét az Il Kioscóban, mielőtt az exkluzív Ondanomala felé indulnánk. Délben kényelmesen átvezetünk a múzeumhoz. Délután a hivatalos és kiválóan felszerelt katonai strandon pihenhet. A nap végül rendkívül békésen és csendben ér véget a Lidon.",
         "ro": "Dimineața luăm o cafea rapidă la Il Kiosco înainte de a merge la exclusivistul Ondanomala. La prânz conducem relaxat către muzeu. După-amiaza vă relaxați pe plaja militară formală și foarte bine organizată. Ziua se încheie liniștit și pașnic la frumoasa plajă Lido.",
         "en": "In the morning, grab a quick coffee at Il Kiosco before heading to the exclusive Ondanomala. At midday, we drive comfortably to the museum. In the afternoon, you can thoroughly relax at the formal military beach. The day ends peacefully at the sandy beach of Lido."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag in Fregene entspannt. Fahren Sie die Küstenstraße entlang und genießen Sie die Panoramaaussicht im Trockenen. Parken Sie direkt vor den Beachclubs für kurze Wege durch den Regen. Das Museum bietet einen ausgiebigen Zwischenstopp im Warmen. Mittags und nachmittags sind die Lidos perfekte Orte, um das Naturschauspiel des Sturms sicher hinter Glas zu beobachten.",
+            "hu": "Autóval a regenés esős nap is pihentető. Hajtson végig a parti úton, élvezve a panorámát a száraz utastérből. Parkoljon közvetlenül a strandklubok előtt, hogy elkerülje az ázást a rövid séták alatt. A múzeum bőséges időt kínál a melegben. Ebédnél és délután a lido-k tökéletes helyszínek a vihar megfigyeléséhez, biztonságban az üvegfalak mögött.",
+            "ro": "Cu mașina, o zi ploioasă în Fregene este relaxantă. Conduceți pe drumul de coastă și bucurați-vă de panoramă din interiorul uscat. Parcați chiar în fața cluburilor de plajă pentru a evita ploaia în timpul plimbărilor scurte. Muzeul oferă o oprire prelungită la căldură. La prânz și după-amiaza, lido-urile sunt locuri ideale pentru a privi furtuna în siguranță.",
+            "en": "By car, a rainy day in Fregene is relaxed and comfortable. Drive along the coastal road and enjoy the panoramic views from your dry vehicle. Park directly in front of the beach clubs to avoid getting wet during short walks. The museum provides an extended stop in the warmth. At lunch and in the afternoon, the lidos are perfect spots to watch the storm safely behind glass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Il Kiosco",
+                "hu": "Il Kiosco",
+                "ro": "Il Kiosco",
+                "en": "Il Kiosco"
+              },
+              "tip_4lang": {
+                "de": "Ein schneller Stopp für einen Espresso im Trockenen; parken Sie nah am Eingang, um nicht nass zu werden, während der Regen prasselt.",
+                "hu": "Egy gyors megálló egy eszpresszóra a szárazon; parkoljon közel a bejárathoz, hogy elkerülje az ázást, miközben kint kopog az eső.",
+                "ro": "O oprire rapidă pentru un espresso la uscat; parcați aproape de intrare pentru a nu vă uda în timp ce plouă torențial afară.",
+                "en": "A quick stop for an espresso while staying dry; park close to the entrance to avoid getting wet while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ondanomala Suite Club",
+                "hu": "Ondanomala Suite Club",
+                "ro": "Ondanomala Suite Club",
+                "en": "Ondanomala Suite Club"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Luxus des überdachten Bereichs mit Blick auf das stürmische Meer; ideal für eine Pause bei schlechtem Wetter.",
+                "hu": "Élvezze a luxust a fedett részen, kilátással a viharos tengerre; ideális helyszín egy pihentető szünethez rossz idő esetén is.",
+                "ro": "Bucurați-vă de luxul zonei acoperite cu vedere la marea învolburată; este locul ideal pentru o pauză relaxantă pe timp de vreme rea.",
+                "en": "Enjoy the luxury of the covered area with a view of the stormy sea; it is an ideal spot for a relaxing break even during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Riva",
+                "hu": "Riva",
+                "ro": "Riva",
+                "en": "Riva"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie bequem und genießen Sie die Aussicht aus dem Fenster; der Innenbereich ist gut beheizt und bietet Schutz vor Wind und Regen.",
+                "hu": "Parkoljon kényelmesen és élvezze a kilátást az ablakból; a belső tér jól fűtött, és tökéletes védelmet nyújt a szél és az eső ellen.",
+                "ro": "Parcați confortabil și bucurați-vă de vedere de la fereastră; interiorul este bine încălzit și oferă protecție împotriva vântului și ploii.",
+                "en": "Park comfortably and enjoy the view from the window; the interior is well-heated and offers perfect protection from the wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Pianeta Azzurro",
+                "hu": "Museo Pianeta Azzurro",
+                "ro": "Museo Pianeta Azzurro",
+                "en": "Museo Pianeta Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort für regnerische Stunden mit kulturellem Tiefgang; nutzen Sie den Parkplatz direkt vor der Tür für einen trockenen Zugang.",
+                "hu": "Ideális helyszín az esős órákhoz kulturális mélységgel; használja a közvetlenül az ajtó előtt lévő parkolót a száraz bejutáshoz.",
+                "ro": "Un loc ideal pentru orele ploioase cu profunzime culturală; folosiți parcarea direct din fața ușii pentru acces uscat în clădire.",
+                "en": "An ideal place for rainy hours with cultural depth; use the parking lot directly in front of the door for dry access to the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilimento Balneare Del Ministero Della Difesa",
+                "hu": "Stabilimento Balneare Del Ministero Della Difesa",
+                "ro": "Stabilimento Balneare Del Ministero Della Difesa",
+                "en": "Stabilimento Balneare Del Ministero Della Difesa"
+              },
+              "tip_4lang": {
+                "de": "Die solide Architektur bietet exzellenten Schutz; genießen Sie die maritime Atmosphäre, während Sie dem Regen sicher entkommen.",
+                "hu": "A szilárd építészet kiváló védelmet nyújt; élvezze a tengerparti hangulatot, miközben biztonságban elmenekül a kinti eső elől.",
+                "ro": "Arhitectura solidă oferă o protecție excelentă; bucurați-vă de atmosfera marină în timp ce scăpați în siguranță de ploaie.",
+                "en": "The solid architecture provides excellent protection; enjoy the maritime atmosphere while safely escaping the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido",
+                "hu": "Lido",
+                "ro": "Lido",
+                "en": "Lido"
+              },
+              "tip_4lang": {
+                "de": "Ein gemütlicher Abschluss im Innenbereich bei Kerzenschein; beobachten Sie das Wetter draußen bei einem exzellenten Abendessen.",
+                "hu": "Hangulatos beltéri zárás gyertyafénynél; figyelje a kinti időjárást egy kiváló vacsora mellett a biztonságos melegből.",
+                "ro": "O încheiere primitoare în interior la lumina lumânărilor; observați vremea de afară în timpul unei cine excelente la căldură.",
+                "en": "A cozy indoor conclusion by candlelight; watch the weather outside while enjoying an excellent dinner in the warm interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ermöglicht das Auto eine flexible Tour durch das ruhige Fregene. Genießen Sie die klare Sicht auf die Küste bei angenehmer Temperatur im Wagen. Das Museum ist am Vormittag ein warmer Anziehungspunkt. Mittags locken die sonnigen Fensterplätze der Beachclubs. Achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr; die Fahrt entlang der beleuchteten Promenade ist am Abend besonders stimmungsvoll.",
+            "hu": "Télen az autó rugalmas túrát tesz lehetővé a csendes Fregenében. Élvezze a tiszta kilátást a partra a kocsi kellemes hőmérsékletéből. A múzeum délelőtt meleg találkozópont. Ebédnél a strandklubok napos ablak melletti asztalai hívogatóak. Ügyeljen a korai, 17:00-i napnyugtára; a kivilágított sétány menti autózás este különösen hangulatos és látványos.",
+            "ro": "Iarna, mașina permite un tur flexibil prin Fregene cea liniștită. Bucurați-vă de vederea clară a coastei din temperatura plăcută a mașinii. Muzeul este un punct de atracție cald dimineața. La prânz, mesele însorite de lângă ferestrele cluburilor sunt primitoare. Atenție la apusul timpuriu de la ora 17:00; condusul pe faleza iluminată este foarte atmosferic.",
+            "en": "In winter, the car enables a flexible tour through quiet Fregene. Enjoy the clear coastal views from the pleasant temperature of your vehicle. The museum is a warm attraction in the morning. At lunch, the sunny window seats of the beach clubs are inviting. Be mindful of the early sunset at 5 PM; driving along the illuminated promenade in the evening is especially atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Il Kiosco",
+                "hu": "Il Kiosco",
+                "ro": "Il Kiosco",
+                "en": "Il Kiosco"
+              },
+              "tip_4lang": {
+                "de": "Holen Sie sich einen schnellen Kaffee zum Aufwärmen; die klare Winterluft am Morgen lässt sich am besten mit einem heißen Getränk genießen.",
+                "hu": "Igyon egy gyors kávét a felmelegedéshez; a reggeli tiszta téli levegőt a legjobb egy forró ital társaságában élvezni a parton.",
+                "ro": "Luați o cafea rapidă pentru a vă încălzi; aerul curat de iarnă al dimineții este cel mai bine savurat cu o băutură fierbinte.",
+                "en": "Grab a quick coffee to warm up; the clear winter air in the morning is best enjoyed with a hot drink in hand before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ondanomala Suite Club",
+                "hu": "Ondanomala Suite Club",
+                "ro": "Ondanomala Suite Club",
+                "en": "Ondanomala Suite Club"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne flutet den Innenbereich mit Licht; ein eleganter Ort für eine Pause, während die Temperatur draußen niedrig bleibt.",
+                "hu": "A téli nap fénnyel árasztja el a belső teret; elegáns helyszín egy pihenőhöz, miközben a kinti hőmérséklet alacsony marad.",
+                "ro": "Soarele de iarnă inundă interiorul cu lumină; un loc elegant pentru o pauză în timp ce temperatura exterioară rămâne scăzută.",
+                "en": "The winter sun floods the interior with light; an elegant spot for a break while the outside temperature remains low and crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Riva",
+                "hu": "Riva",
+                "ro": "Riva",
+                "en": "Riva"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie ein Mittagessen mit Panoramablick auf die Wintersee; der beheizte Bereich sorgt für Wohlbefinden bei jedem Wetter.",
+                "hu": "Élvezze az ebédet panorámás kilátással a téli tengerre; a fűtött rész gondoskodik a kényelemről minden időjárási körülmény között.",
+                "ro": "Savurați un prânz cu vedere panoramică la marea de iarnă; zona încălzită asigură confortul indiferent de vremea de afară.",
+                "en": "Enjoy a lunch with panoramic views of the winter sea; the heated area ensures comfort regardless of the weather conditions outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Pianeta Azzurro",
+                "hu": "Museo Pianeta Azzurro",
+                "ro": "Museo Pianeta Azzurro",
+                "en": "Museo Pianeta Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Verweilen Sie in den warmen Ausstellungsräumen; das klare Winterlicht bringt die Farben der Installationen besonders gut zur Geltung.",
+                "hu": "Időzzön a meleg kiállítótermekben; a tiszta téli fény különösen jól kiemeli az installációk színeit és részleteit a csendben.",
+                "ro": "Zăboviți în sălile calde de expoziție; lumina clară de iarnă pune în valoare culorile instalațiilor într-un mod deosebit.",
+                "en": "Linger in the warm exhibition rooms; the crisp winter light highlights the colors and details of the installations beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilimento Balneare Del Ministero Della Difesa",
+                "hu": "Stabilimento Balneare Del Ministero Della Difesa",
+                "ro": "Stabilimento Balneare Del Ministero Della Difesa",
+                "en": "Stabilimento Balneare Del Ministero Della Difesa"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Stopp am Nachmittag; genießen Sie die friedliche Atmosphäre der Nebensaison bequem in der Nähe Ihres Autos.",
+                "hu": "Egy nyugodt délutáni megálló; élvezze a holtszezon békés hangulatát kényelmesen, az autója közvetlen közelében parkolva.",
+                "ro": "O oprire liniștită după-amiaza; bucurați-vă de atmosfera pașnică a extrasezonului confortabil, chiar lângă mașină.",
+                "en": "A quiet afternoon stop; enjoy the peaceful atmosphere of the off-season comfortably, parking right next to the beach access."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido",
+                "hu": "Lido",
+                "ro": "Lido",
+                "en": "Lido"
+              },
+              "tip_4lang": {
+                "de": "Wenn es um 17:00 Uhr dunkel wird, bietet das Lido eine warme und einladende Atmosphäre für ein exquisites Winter-Dinner.",
+                "hu": "Amikor 17:00-kor besötétedik, a Lido meleg és hívogató légkört kínál egy fenséges téli vacsorához a tengerpart mentén.",
+                "ro": "Când se întunecă la ora 17:00, Lido oferă o atmosferă caldă și primitoare pentru o cină de iarnă rafinată la malul mării.",
+                "en": "As it gets dark at 5 PM, Lido offers a warm and inviting atmosphere for an exquisite winter dinner by the shore."
+              }
+            }
+          ]
+        }
       }
     }
   }

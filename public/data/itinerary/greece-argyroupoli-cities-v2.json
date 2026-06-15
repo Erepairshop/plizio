@@ -160,6 +160,196 @@
         "hu": "A reggel művészi inspirációval kezdődik a helyi galériában, amelyet egy lenyűgöző időutazás követ az ókori athéni síroknál. Délre elmerülhet Argirúpoli modern kulturális lüktetésében az Eneka Paideiasban. A délután egy kényelmes sétát tartogat a csodálatos szabadtéri Petrino Theatro zord kővarázsához. A nap a városi művészetek és a helyi ókori színház egyedülálló, téglalap alakú romjainak felfedezésével zárul.",
         "ro": "Dimineața începe cu inspirație artistică la galeria locală, urmată de o întoarcere fascinantă în timp la vechile morminte ateniene. La prânz, vă veți scufunda în pulsul cultural modern al orașului Argyroupoli la Eneka Paideias. După-amiaza aduce o plimbare relaxantă până la magnificul teatru în aer liber Petrino Theatro, plin de farmec. Ziua se încheie explorând artele municipale și ruinele unic dreptunghiulare ale anticului teatru local.",
         "en": "Your morning starts with artistic inspiration at the local gallery, followed by a fascinating step back in time at the ancient Athenian tombs. By midday, you will immerse yourself in Argyroupoli's modern cultural heartbeat at Eneka Paideias. The afternoon brings a leisurely stroll to the magnificent open-air Petrino Theatro, offering rugged stone charm. Your day concludes exploring municipal arts and the uniquely rectangular ruins of the ancient local theater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der Galerie, während der Regen draußen prasselt. Mittags führt ein kurzer, nasser Spaziergang zu den antiken Gräbern, wo ein Regenschirm unerlässlich ist. Der Nachmittag steht im Zeichen der Kultur in trockenen Innenräumen. Abends endet der Weg durch die glitzernden, feuchten Straßen von Argyroupoli.",
+            "hu": "Kezdje a napot a galéria védelmében, miközben kint kopog az eső. Délben egy rövid, vizes séta vezet az ősi sírokhoz, ahol az esernyő elengedhetetlen kellék lesz. A délutánt töltheti a kultúra jegyében, fedett színházi terekben. Az este az esőtől csillogó Argyroupoli utcáin ér véget, friss levegőn.",
+            "ro": "Începeți ziua protejați în galerie, în timp ce ploaia bate în geamuri. La prânz, o scurtă plimbare umedă vă duce la mormintele antice, unde umbrela este indispensabilă. După-amiaza este dedicată culturii în spații interioare uscate. Seara se încheie pe străzile strălucitoare și ude din Argyroupoli.",
+            "en": "Start your day sheltered in the gallery while the rain falls outside. At noon, a short, wet walk leads to the ancient tombs, where a sturdy umbrella is essential. Spend the afternoon immersed in culture within dry indoor theater spaces. The evening ends through the glistening, damp streets of Argyroupoli."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Art Gallery",
+                "hu": "Art Gallery",
+                "ro": "Art Gallery",
+                "en": "Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie moderne Kunstwerke in dieser geschützten Umgebung und entkommen Sie dem ersten Regenguss des Tages bei angenehmer Atmosphäre.",
+                "hu": "Csodálja meg a modern alkotásokat ebben a védett környezetben, így kellemes hangulatban kerülheti el a nap első nagy felhőszakadását.",
+                "ro": "Admirați operele de artă modernă în acest mediu protejat și evitați prima aversă a zilei într-o atmosferă foarte plăcută și relaxantă.",
+                "en": "Admire modern artworks in this sheltered environment, providing a perfect escape from the day's first downpour in a pleasant atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "hu": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "ro": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "en": "Taphoi tou arkhaiou Attikou Demou Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die antiken Stätten mit festem Schuhwerk, da die Pfade bei Nässe rutschig sein können; ein Regenschirm schützt Sie vor dem Wind.",
+                "hu": "Látogassa meg az ókori helyszínt stabil cipőben, mivel az ösvények csúszósak lehetnek; egy jó esernyő megvédi Önt a feltámadó széltől is.",
+                "ro": "Vizitați situl antic cu încălțăminte stabilă, deoarece potecile pot fi alunecoase; o umbrelă bună vă va proteja și de vântul de afară.",
+                "en": "Visit the ancient site with sturdy footwear as paths can be slippery; a good umbrella will protect you from the gusts of wind near the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Eneka Paideias",
+                "hu": "Eneka Paideias",
+                "ro": "Eneka Paideias",
+                "en": "Eneka Paideias"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die lokale Kultur in diesem trockenen Gebäude und nutzen Sie die Pause, um Ihre Regenbekleidung kurz durchzutrocknen.",
+                "hu": "Merüljön el a helyi kultúrában ebben a száraz épületben, és használja ki a pihenőt, hogy rövid időre megszárítsa az esőben átázott ruháit.",
+                "ro": "Cufundați-vă în cultura locală în această clădire uscată și profitați de pauză pentru a vă usca puțin hainele ude după plimbarea de afară.",
+                "en": "Immerse yourself in local culture inside this dry building and use the break to briefly dry off your rain gear before heading out again."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrino Theatro Arguroupoles",
+                "hu": "Petrino Theatro Arguroupoles",
+                "ro": "Petrino Theatro Arguroupoles",
+                "en": "Petrino Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Der Steinbau bietet eine stimmungsvolle Kulisse bei Regen; achten Sie auf die Stufen, die bei Feuchtigkeit etwas glatt werden können.",
+                "hu": "A kőépület hangulatos hátteret biztosít az esőben; ügyeljen a lépcsőkre, amelyek a nedvesség hatására kissé csúszóssá válhatnak a látogatáskor.",
+                "ro": "Clădirea de piatră oferă un decor atmosferic în ploaie; aveți grijă la trepte, care pot deveni ușor alunecoase din cauza umidității ridicate.",
+                "en": "The stone building provides an atmospheric backdrop in the rain; be careful on the steps, which can become slightly slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotiko Theatro Arguroupoles",
+                "hu": "Demotiko Theatro Arguroupoles",
+                "ro": "Demotiko Theatro Arguroupoles",
+                "en": "Demotiko Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Atmosphäre im Inneren des Theaters, während Sie draußen dem beruhigenden Geräusch des Regens lauschen können.",
+                "hu": "Élvezze a színház belső kulturális hangulatát, miközben kint az eső megnyugtató kopogását hallgathatja a tetőkön és az ablakokon.",
+                "ro": "Bucurați-vă de atmosfera culturală din interiorul teatrului, în timp ce afară puteți asculta sunetul liniștitor al ploii căzând pe acoperiș.",
+                "en": "Enjoy the cultural atmosphere inside the theater while listening to the soothing sound of the rain tapping on the roof and windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaio Theatro Euonumou",
+                "hu": "Arkhaio Theatro Euonumou",
+                "ro": "Arkhaio Theatro Euonumou",
+                "en": "Arkhaio Theatro Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das antike Theater trotz des Regens für dramatische Fotos; die nassen Steine heben die historischen Details besonders hervor.",
+                "hu": "A szitáló eső ellenére is látogasson el az ókori színházhoz; a nedves kövek különlegesen kiemelik a történelmi részleteket a fotókon.",
+                "ro": "Vizitați teatrul antic în ciuda ploii pentru fotografii dramatice; pietrele ude scot în evidență detaliile istorice într-un mod unic.",
+                "en": "Visit the ancient theater despite the rain for dramatic photos; the wet stones emphasize the historical details beautifully in the evening light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der beheizten Galerie. Mittags wärmt die tiefe Sonne die antiken Ausgrabungen, ideal für einen zügigen Spaziergang. Der Nachmittag wird in den gemütlichen Theatersälen verbracht, bevor um 17:00 Uhr die Dämmerung einsetzt. Den Abend lassen Sie in der kühlen, aber klaren Winterluft von Argyroupoli ausklingen.",
+            "hu": "A friss téli reggel a fűtött galériában kezdődik. Délben az alacsonyan járó nap süti az ókori ásatásokat, ami ideális egy tempós sétához. A délutánt töltse a barátságos színháztermekben, mielőtt 17:00-kor leszáll az est. Az estét Argyroupoli hűvös, de tiszta téli levegőjén sétálva zárhatja.",
+            "ro": "O dimineață proaspătă de iarnă începe în galeria încălzită. La prânz, soarele palid încălzește săpăturile antice, ideal pentru o plimbare rapidă. După-amiaza este petrecută în sălile primitoare de teatru, înainte ca amurgul să se lase la ora 17:00. Încheiați seara în aerul rece, dar curat al iernii.",
+            "en": "A crisp winter morning begins in the heated gallery. At noon, the low sun warms the ancient excavations, perfect for a brisk walk. Spend the afternoon in cozy theater halls before dusk sets in at 17:00. Conclude your evening by walking through the cool but clear winter air of Argyroupoli."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Art Gallery",
+                "hu": "Art Gallery",
+                "ro": "Art Gallery",
+                "en": "Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Inneren der Galerie, um die Kunstwerke ohne Wintermantel zu studieren und entspannt in den Tag zu starten.",
+                "hu": "Használja ki a galéria belső melegét, hogy télikabát nélkül tanulmányozhassa az alkotásokat, és kényelmesen induljon a napja.",
+                "ro": "Profitați de căldura din interiorul galeriei pentru a studia operele de artă fără haina de iarnă și pentru a începe ziua relaxat.",
+                "en": "Take advantage of the warmth inside the gallery to study the artworks without your heavy winter coat and start the day comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "hu": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "ro": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "en": "Taphoi tou arkhaiou Attikou Demou Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung für den Außenbesuch; die antiken Ruinen wirken im klaren Winterlicht besonders majestätisch.",
+                "hu": "Viseljen réteges öltözetet a szabadtéri látogatáshoz; az ókori romok a tiszta téli fényben különösen fenséges látványt nyújtanak.",
+                "ro": "Purtați haine în straturi pentru vizita în aer liber; ruinele antice arată deosebit de maiestuos în lumina clară a iernii.",
+                "en": "Wear layered clothing for the outdoor visit; the ancient ruins look particularly majestic in the sharp, clear winter light at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Eneka Paideias",
+                "hu": "Eneka Paideias",
+                "ro": "Eneka Paideias",
+                "en": "Eneka Paideias"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen und gleichzeitig tief in die griechische Bildungsgeschichte einzutauchen.",
+                "hu": "Ideális helyszín a séták közötti felmelegedésre, miközben mélyen elmerülhet a görög oktatástörténet érdekességeiben és titkaiban.",
+                "ro": "Un loc ideal pentru a vă încălzi între plimbări, în timp ce vă cufundați adânc în istoria educației grecești și secretele sale.",
+                "en": "An ideal place to warm up between walks while simultaneously diving deep into the fascinating history of Greek education."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrino Theatro Arguroupoles",
+                "hu": "Petrino Theatro Arguroupoles",
+                "ro": "Petrino Theatro Arguroupoles",
+                "en": "Petrino Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Steintheater am frühen Nachmittag, um die letzten warmen Sonnenstrahlen des Tages auf den Sitzreihen einzufangen.",
+                "hu": "Látogassa meg a kőszínházat kora délután, hogy elcsíphesse a nap utolsó meleg sugárzik a nézőtéri padsorokon és a falakon.",
+                "ro": "Vizitați teatrul de piatră după-amiaza devreme pentru a surprinde ultimele raze calde de soare ale zilei pe rândurile de scaune.",
+                "en": "Visit the stone theater in the early afternoon to catch the day's last warm rays of sunshine on the historic seating rows."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotiko Theatro Arguroupoles",
+                "hu": "Demotiko Theatro Arguroupoles",
+                "ro": "Demotiko Theatro Arguroupoles",
+                "en": "Demotiko Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort des beheizten Gemeindetheaters kurz vor Sonnenuntergang, wenn es draußen spürbar kühler wird.",
+                "hu": "Élvezze a fűtött önkormányzati színház kényelmét közvetlenül naplemente előtt, amikor kint már érezhetően hűvösebbé válik a levegő.",
+                "ro": "Bucurați-vă de confortul teatrului municipal încălzit chiar înainte de apusul soarelui, când afară devine vizibil mai rece.",
+                "en": "Enjoy the comfort of the heated municipal theater shortly before sunset, as the air outside begins to feel noticeably cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaio Theatro Euonumou",
+                "hu": "Arkhaio Theatro Euonumou",
+                "ro": "Arkhaio Theatro Euonumou",
+                "en": "Arkhaio Theatro Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour pünktlich zum frühen Sonnenuntergang um 17:00 Uhr; die blaue Stunde über dem Theater ist im Winter magisch.",
+                "hu": "Zárja a túrát pontosan a korai, 17:00-ás naplementére; a színház feletti kék óra télen egészen mágikus és felejthetetlen élmény.",
+                "ro": "Încheiați turul la timp pentru apusul devreme de la ora 17:00; ora albastră deasupra teatrului este magică în timpul iernii.",
+                "en": "End your tour in time for the early sunset at 17:00; the blue hour over the ancient theater is truly magical in the wintertime."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpártúráját a helyi színházi legendák tiszteletével a Maire Arone-nál, majd tekerjen az ókori színház figyelemre méltó, téglalap alakú romjaihoz. Délben tekintse meg a városi színház élénk közösségi művészetét és a Művészeti Galéria modern kiállításait. A délutáni utazás lombos utcákon halad át az oktatási központig és a kőből épült amfiteátrumig. Az este egy utolsó történelmi megállóval zárul a neves államférfiakról elmélkedve.",
         "ro": "Începeți turul cu bicicleta onorând legendele teatrale locale la Maire Arone, apoi pedalați către remarcabilele ruine dreptunghiulare ale Teatrului Antic. La prânz, descoperiți artele comunității la teatrul municipal și expozițiile de la Galeria de Artă. Plimbarea de după-amiază trece pe străzile înverzite până la centrul educațional și la impresionantul amfiteatru din piatră. Seara se încheie cu o oprire istorică finală, reflectând asupra oamenilor de stat ai Greciei.",
         "en": "Kick off your cycling tour honoring local theatrical legends at Maire Arone, then pedal to the remarkable rectangular ruins of the Ancient Theater. Around midday, check out the vibrant community arts at the municipal theater and modern exhibits at the Art Gallery. Your afternoon ride weaves through leafy streets to the educational hub and the striking stone amphitheater. The evening cools down with a final historical stop reflecting on Greece's renowned statesmen."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start erfordert Vorsicht auf dem Rad. Vormittags radeln Sie vorsichtig zu den kulturellen Stätten, während der Wind den Regen peitscht. Mittags bietet die Galerie eine lange, trockene Pause. Nachmittags geht es weiter zu den Theatern, wobei die Straßen spiegelglatt sein können. Der Tag endet mit einer kühlen Brise und Nässe am Denkmal.",
+            "hu": "Az esős kezdés óvatosságot igényel a kerékpáron. Délelőtt óvatosan tekerjen a kulturális helyszínek felé a szélben. Délben a galéria hosszú, száraz pihenőt kínál a bringásoknak. Délután a színházak felé folytatódik az út, ahol az aszfalt tükörsima lehet. A nap hűvös széllel és vizes ruhákkal zárul az emlékműnél.",
+            "ro": "Un început ploios necesită prudență pe bicicletă. Dimineața pedalați cu atenție spre siturile culturale în vânt. La prânz, galeria oferă o pauză lungă și uscată. După-amiaza continuă spre teatre, unde asfaltul poate fi foarte alunecos. Ziua se încheie cu o briză rece și umezeală la monument.",
+            "en": "A rainy start requires extra caution on your bike. In the morning, cycle carefully toward cultural sites as the wind blows the rain. At noon, the gallery offers a long, dry break for cyclists. Continue to the theaters in the afternoon, but watch out for slippery asphalt. The day ends with a cool breeze at the monument."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maire Arone",
+                "hu": "Maire Arone",
+                "ro": "Maire Arone",
+                "en": "Maire Arone"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie auffällige Regenbekleidung für bessere Sichtbarkeit und parken Sie Ihr Rad an einem geschützten Ort, bevor Sie das Gebäude betreten.",
+                "hu": "Viseljen feltűnő esőruházatot a jobb láthatóságért, és parkolja le a kerékpárt védett helyen, mielőtt belépne az épületbe.",
+                "ro": "Purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună și parcați bicicleta într-un loc protejat înainte de a intra.",
+                "en": "Wear high-visibility rain gear for better safety and park your bike in a sheltered spot before entering the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaio Theatro Euonumou",
+                "hu": "Arkhaio Theatro Euonumou",
+                "ro": "Arkhaio Theatro Euonumou",
+                "en": "Arkhaio Theatro Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade um das Theater können bei Regen schlammig sein; bremsen Sie auf dem Radweg dorthin vorsichtig ab, um nicht wegzurutschen.",
+                "hu": "A színház körüli ösvények sárosak lehetnek; az odavezető úton óvatosan fékezzen a kerékpárral, hogy elkerülje a megcsúszást a vizes úton.",
+                "ro": "Potecile din jurul teatrului pot fi noroioase; frânați cu atenție pe pistă pentru a evita alunecarea pe carosabilul umed.",
+                "en": "The paths around the theater can be muddy; brake gently on the cycling path to avoid sliding on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotiko Theatro Arguroupoles",
+                "hu": "Demotiko Theatro Arguroupoles",
+                "ro": "Demotiko Theatro Arguroupoles",
+                "en": "Demotiko Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Ausrüstung kurz zu ordnen, bevor Sie die kulturellen Highlights im Inneren genießen.",
+                "hu": "Használja a fedett bejárati részt a felszerelése gyors elrendezéséhez, mielőtt belépne élvezni a benti kulturális látnivalókat.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă aranja rapid echipamentul înainte de a vă bucura de atracțiile culturale din interior.",
+                "en": "Use the covered entrance area to quickly organize your gear before heading inside to enjoy the cultural highlights."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Gallery",
+                "hu": "Art Gallery",
+                "ro": "Art Gallery",
+                "en": "Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier eine ausgiebige Pause, um dem stärksten Regen zu entgehen; die Galerie bietet sicheren Schutz für Sie und Ihre Ausrüstung.",
+                "hu": "Töltsön itt egy hosszabb pihenőt, hogy elkerülje a leghevesebb esőt; a galéria biztonságos menedéket nyújt Önnek és a felszerelésének.",
+                "ro": "Petreceți aici o pauză mai lungă pentru a evita ploaia torențială; galeria oferă un adăpost sigur pentru dumneavoastră și echipament.",
+                "en": "Spend an extended break here to avoid the heaviest rain; the gallery provides a safe shelter for both you and your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Eneka Paideias",
+                "hu": "Eneka Paideias",
+                "ro": "Eneka Paideias",
+                "en": "Eneka Paideias"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen ist perfekt, um die Route für den restlichen Tag zu prüfen und die Wasserfestigkeit Ihrer Taschen zu checken.",
+                "hu": "Egy rövid megálló a szárazban tökéletes alkalom az útvonal ellenőrzésére és a táskák vízállóságának gyors felmérésére a folytatás előtt.",
+                "ro": "O scurtă oprire la uscat este perfectă pentru a verifica traseul și impermeabilitatea genților înainte de a continua drumul.",
+                "en": "A short dry stop is perfect for reviewing your route for the rest of the day and checking the waterproofness of your bike bags."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrino Theatro Arguroupoles",
+                "hu": "Petrino Theatro Arguroupoles",
+                "ro": "Petrino Theatro Arguroupoles",
+                "en": "Petrino Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf rutschige Steinflächen; das Theater wirkt im Regen besonders urig und bietet tolle Fotomotive für Mutige.",
+                "hu": "Parkoláskor ügyeljen a csúszós kőfelületekre; a színház az esőben különösen hangulatos és remek fotótémát kínál a bátor kerékpárosoknak.",
+                "ro": "Aveți grijă la suprafețele de piatră alunecoase la parcare; teatrul este foarte atmosferic în ploaie și oferă motive foto excelente.",
+                "en": "Watch out for slippery stone surfaces when parking; the theater looks very rustic in the rain and offers great photo ops for the brave."
+              }
+            },
+            {
+              "name": {
+                "de": "Eleutherios Benizelos",
+                "hu": "Eleutherios Benizelos",
+                "ro": "Eleutherios Benizelos",
+                "en": "Eleutherios Benizelos"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel gut ab, bevor Sie die Rückreise antreten; das Denkmal ist am Abend ein ruhiger, wenn auch nasser Ort.",
+                "hu": "Törölje le alaposan a nyerget, mielőtt elindulna visszafelé; az emlékmű este csendes, bár kissé vizes és szeles helyszín.",
+                "ro": "Ștergeți bine șaua înainte de a pleca înapoi; monumentul este un loc liniștit seara, deși destul de umed și vântos.",
+                "en": "Wipe your saddle thoroughly before starting the return journey; the monument is a peaceful, albeit wet, spot in the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt die Radfahrer in Argyroupoli. Vormittags wärmt die Bewegung auf dem Rad, während Sie zu den Theatern fahren. Mittags bietet die Galerie eine willkommene Aufwärmpause. Der Nachmittag führt Sie durch die klare Winterluft, doch ab 16:30 Uhr sollten Sie Licht einschalten. Der Tag endet pünktlich zum Sonnenuntergang um 17:00 Uhr am Denkmal.",
+            "hu": "Deres reggel köszönti a kerékpárosokat Argyroupoliban. Délelőtt a tekerés melegen tart, miközben a színházak felé halad. Délben a galéria kínál várva várt felmelegedési lehetőséget. A délután tiszta téli levegőben telik, de 16:30-tól kapcsolja be a lámpákat. A nap pontosan a 17:00-ás naplementekor zárul.",
+            "ro": "O dimineață geroasă îi întâmpină pe bicicliști în Argyroupoli. Dimineața, mișcarea pe bicicletă vă ține de cald spre teatre. La prânz, galeria oferă o pauză de încălzire binevenită. După-amiaza trece în aer curat, dar de la 16:30 aprindeți luminile. Ziua se încheie exact la apusul de la ora 17:00.",
+            "en": "A frosty morning greets cyclists in Argyroupoli. In the morning, the riding keeps you warm as you head toward the theaters. At noon, the gallery provides a welcome warming break. The afternoon is spent in clear winter air, but turn on your lights by 16:30. The day ends right at the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maire Arone",
+                "hu": "Maire Arone",
+                "ro": "Maire Arone",
+                "en": "Maire Arone"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die kalte Morgenluft kann auf dem Fahrrad ohne Schutz sehr beißend sein.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a hideg reggeli levegő védelem nélkül nagyon metsző lehet a kerékpáron ülve.",
+                "ro": "Purtați mănuși rezistente la vânt; aerul rece de dimineață poate fi foarte tăios pe bicicletă dacă nu aveți protecție adecvată.",
+                "en": "Wear windproof gloves for the ride; the cold morning air can be very biting on a bicycle without proper protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaio Theatro Euonumou",
+                "hu": "Arkhaio Theatro Euonumou",
+                "ro": "Arkhaio Theatro Euonumou",
+                "en": "Arkhaio Theatro Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das antike Theater, solange die Sonne noch hoch steht; der Wind in den offenen Ruinen ist im Winter recht kühl.",
+                "hu": "Látogassa meg az ókori színházat, amíg magasan jár a nap; a nyitott romok között a szél télen elég hűvös lehet a látogatáskor.",
+                "ro": "Vizitați teatrul antic cât timp soarele este încă sus; vântul printre ruinele deschise este destul de rece în timpul iernii.",
+                "en": "Visit the ancient theater while the sun is still high; the wind among the open ruins can be quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotiko Theatro Arguroupoles",
+                "hu": "Demotiko Theatro Arguroupoles",
+                "ro": "Demotiko Theatro Arguroupoles",
+                "en": "Demotiko Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für ein warmes Getränk in der Nähe, um Ihre Körpertemperatur nach der Fahrt im kalten Wind wieder zu stabilisieren.",
+                "hu": "Használja ki a megállót egy közeli meleg italra, hogy stabilizálja a testhőmérsékletét a hideg szélben való tekerés után.",
+                "ro": "Profitați de oprire pentru o băutură caldă în apropiere, pentru a vă stabiliza temperatura corpului după mersul prin vântul rece.",
+                "en": "Use the stop for a warm drink nearby to stabilize your body temperature after riding in the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Gallery",
+                "hu": "Art Gallery",
+                "ro": "Art Gallery",
+                "en": "Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Aufwärmpause zur Mittagszeit; genießen Sie die Kunst in einer warmen Umgebung, bevor Sie die letzte Etappe antreten.",
+                "hu": "Ideális felmelegedési pihenő délidőben; élvezze a művészetet meleg környezetben, mielőtt nekivágna a túra utolsó szakaszának.",
+                "ro": "Pauza ideală de încălzire la prânz; bucurați-vă de artă într-un mediu cald înainte de a porni în ultima etapă a traseului.",
+                "en": "The perfect warming break at midday; enjoy the art in a cozy environment before tackling the final leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Eneka Paideias",
+                "hu": "Eneka Paideias",
+                "ro": "Eneka Paideias",
+                "en": "Eneka Paideias"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Zwischenstopp im Warmen, der perfekt ist, um die müden Beine kurz auszuruhen und die Winterlandschaft von innen zu betrachten.",
+                "hu": "Egy kulturális köztes megálló a melegben, ami tökéletes a fáradt lábak pihentetésére és a téli táj benti megcsodálására.",
+                "ro": "O oprire culturală la căldură, perfectă pentru a vă odihni picioarele obosite și pentru a admira peisajul de iarnă din interior.",
+                "en": "A cultural pit stop in the warm, perfect for resting tired legs and admiring the winter landscape from behind a window."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrino Theatro Arguroupoles",
+                "hu": "Petrino Theatro Arguroupoles",
+                "ro": "Petrino Theatro Arguroupoles",
+                "en": "Petrino Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Theater vor 16:30 Uhr; danach sinken die Temperaturen schnell und das Licht für Fotos wird im Winter knapp.",
+                "hu": "Látogassa meg a színházat 16:30 előtt; ezután a hőmérséklet gyorsan csökken, és a fény is kevés lesz a fotózáshoz télen.",
+                "ro": "Vizitați teatrul înainte de 16:30; după aceea, temperaturile scad rapid și lumina pentru fotografii devine insuficientă iarna.",
+                "en": "Visit the theater before 16:30; after that, temperatures drop quickly and natural light for photos becomes scarce in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Eleutherios Benizelos",
+                "hu": "Eleutherios Benizelos",
+                "ro": "Eleutherios Benizelos",
+                "en": "Eleutherios Benizelos"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie unbedingt Ihre Fahrradbeleuchtung ein; der Sonnenuntergang um 17:00 Uhr markiert das kühle Ende Ihrer Wintertour.",
+                "hu": "Mindenképpen kapcsolja be a kerékpárlámpákat; a 17:00-ás naplemente jelzi a téli túra hűvös, de látványos befejezését.",
+                "ro": "Nu uitați să aprindeți luminile bicicletei; apusul de la ora 17:00 marchează sfârșitul rece al turului dumneavoastră de iarnă.",
+                "en": "Be sure to turn on your bicycle lights; the 17:00 sunset marks the chilly but spectacular end of your winter cycling tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós útját a Maire Arone kulturális tér megcsodálásával, mielőtt a figyelemre méltóan megőrzött helyi ókori színházhoz és a klasszikus sírokhoz hajtana. A délidő rengeteg időt enged a helyi Művészeti Galéria gazdag gyűjteményeinek bejárására. Délután egy furcsa látványossághoz – egy elhagyott Boeing 727-eshez – gurul, amelyet az Elefthériosz Venizelosz előtti tisztelgés követ. A nap megható emlékművekkel és egy gyönyörű szabadtéri kőszínházzal zárul.",
         "ro": "Începeți călătoria admirând spațiul cultural Maire Arone, înainte de a vă îndrepta spre teatrul antic local uimitor de bine conservat și mormintele clasice. Prânzul vă oferă mult timp pentru a explora colecțiile de la Galeria de Artă. După-amiaza, veți merge spre o atracție excentrică — un Boeing 727 abandonat — urmată de un omagiu adus omului de stat Eleutherios Benizelos. Ziua se încheie cu monumente emoționante și un frumos teatru de piatră în aer liber.",
         "en": "Start your drive admiring the Maire Arone cultural space before heading down to the remarkably preserved ancient local theater and classical tombs. Midday allows plenty of time to wander the rich collections at the local Art Gallery. In the afternoon, you will cruise to a quirky highlight—an abandoned Boeing 727—followed by a tribute to the statesman Eleutherios Benizelos. The day wraps up with poignant monuments and a beautiful open-air stone theater under the stars."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich im Auto am bequemsten verbringen. Vormittags fahren Sie trocken zwischen den antiken Stätten und Theatern hin und her. Mittags bietet die Galerie einen ausgiebigen Aufenthalt ohne Nässe. Nachmittags ist die Fahrt zum Flugzeug-Denkmal kurz und sicher. Der Tag endet entspannt bei prasselndem Regen am Fenster Ihres Fahrzeugs.",
+            "hu": "Az esős napot autóval a legkényelmesebb tölteni. Délelőtt szárazon utazhat az ókori helyszínek és színházak között. Délben a galéria kínál bőséges időt a művészetre, elkerülve a vizet. Délután a repülőgép-emlékműhöz vezető út rövid és biztonságos. A nap az autó ablakán kopogó eső mellett, pihentetően zárul.",
+            "ro": "O zi ploioasă este cel mai confortabil de petrecut cu mașina. Dimineața călătoriți uscat între siturile antice și teatre. La prânz, galeria oferă timp din belșug pentru artă, evitând apa. După-amiaza, drumul spre monumentul avionului este scurt și sigur. Ziua se încheie relaxant, cu ploaia bătând în geam.",
+            "en": "A rainy day is best spent comfortably in a car. In the morning, travel dry between ancient sites and theaters. At noon, the gallery offers ample time for art while staying completely dry. In the afternoon, the drive to the airplane monument is short and safe. The day ends relaxingly with rain tapping on your car window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maire Arone",
+                "hu": "Maire Arone",
+                "ro": "Maire Arone",
+                "en": "Maire Arone"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Gebäude, um die Zeit im Regen zu minimieren; die kulturellen Schätze warten im Trockenen.",
+                "hu": "Használja az épület előtti parkolót, hogy minimalizálja az esőben töltött időt; a kulturális kincsek bent, szárazon várják Önt.",
+                "ro": "Folosiți parcarea din fața clădirii pentru a minimiza timpul petrecut în ploaie; comorile culturale vă așteaptă în interior, la uscat.",
+                "en": "Use the parking lot right in front of the building to minimize your time in the rain; the cultural treasures await you safely inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaio Theatro Euonumou",
+                "hu": "Arkhaio Theatro Euonumou",
+                "ro": "Arkhaio Theatro Euonumou",
+                "en": "Arkhaio Theatro Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Theater reicht aus; die nassen Ruinen bieten im grauen Regenlicht eine ganz besondere Mystik.",
+                "hu": "Egy rövid sprint az autótól a színházig éppen elég; a vizes romok a szürke esős fényben egészen különleges misztikumot árasztanak.",
+                "ro": "Un scurt sprint de la mașină la teatru este suficient; ruinele ude oferă o mistică specială în lumina cenușie de ploaie.",
+                "en": "A quick sprint from the car to the theater is all you need; the wet ruins exude a very special mystery in the gray rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "hu": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "ro": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "en": "Taphoi tou arkhaiou Attikou Demou Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm im Auto griffbereit; die antiken Gräber sind auch bei schlechtem Wetter einen kurzen, gut geschützten Blick wert.",
+                "hu": "Tartsa az esernyőt kéznél az autóban; az ókori sírok rossz időben is megérnek egy rövid, de jól védett megtekintést a túra során.",
+                "ro": "Țineți umbrela la îndemână în mașină; mormintele antice merită o privire scurtă, dar bine protejată, chiar și pe vreme rea.",
+                "en": "Keep your umbrella handy in the car; the ancient tombs are worth a short, well-protected look even during poor weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Gallery",
+                "hu": "Art Gallery",
+                "ro": "Art Gallery",
+                "en": "Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist der perfekte Ort für die stärkste Regenphase des Tages; hier können Sie entspannt parken und die Kunst genießen.",
+                "hu": "A galéria tökéletes helyszín a nap leghevesebb esős szakaszára; itt kényelmesen parkolhat és nyugodtan élvezheti a művészetet.",
+                "ro": "Galeria este locul perfect pentru cea mai ploioasă perioadă a zilei; aici puteți parca confortabil și vă puteți bucura de artă.",
+                "en": "The gallery is the perfect location for the day's heaviest rain; you can park comfortably nearby and enjoy the art at your leisure."
+              }
+            },
+            {
+              "name": {
+                "de": "Boeing 727",
+                "hu": "Boeing 727",
+                "ro": "Boeing 727",
+                "en": "Boeing 727"
+              },
+              "tip_5lang": {
+                "de": "Das Flugzeug lässt sich wunderbar aus dem trockenen Auto heraus fotografieren; ein kurzer Halt am Straßenrand genügt für diesen Anblick.",
+                "hu": "A repülőgépet csodásan lefotózhatja a száraz autóból is; egy rövid megállás az út szélén éppen elég ehhez a látványhoz esőben.",
+                "ro": "Avionul poate fi fotografiat minunat din mașina uscată; o scurtă oprire pe marginea drumului este suficientă pentru această vedere.",
+                "en": "The airplane can be photographed beautifully from inside your dry car; a short roadside stop is enough to capture this unique sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Eleutherios Benizelos",
+                "hu": "Eleutherios Benizelos",
+                "ro": "Eleutherios Benizelos",
+                "en": "Eleutherios Benizelos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps; das Denkmal im Regen ist ein kurzer, aber geschichtsträchtiger Halt am Nachmittag.",
+                "hu": "Használja az autó fűtését a megállók között; az emlékmű az esőben egy rövid, de történelemmel teli megálló a délutáni órákban.",
+                "ro": "Folosiți căldura din mașină între opriri; monumentul în ploaie este o oprire scurtă, dar plină de istorie în timpul după-amiezii.",
+                "en": "Make use of the car heater between stops; the monument in the rain is a brief but history-filled visit during the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Amoiro Plasma",
+                "hu": "Amoiro Plasma",
+                "ro": "Amoiro Plasma",
+                "en": "Amoiro Plasma"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; dieser historische Ort bietet auch bei grauem Himmel eine tiefe, ernste Atmosphäre.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást; ez a történelmi helyszín szürke égbolt mellett is mély és komoly hangulatot áraszt.",
+                "ro": "Parcați aproape de intrare pentru a evita umezeala; acest sit istoric emană o atmosferă profundă și serioasă chiar și sub cer gri.",
+                "en": "Park close to the entrance to avoid getting wet; this historical site radiates a deep, solemn atmosphere even under gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrino Theatro Arguroupoles",
+                "hu": "Petrino Theatro Arguroupoles",
+                "ro": "Petrino Theatro Arguroupoles",
+                "en": "Petrino Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag gemütlich; das Steintheater wirkt im nassen Zustand sehr authentisch und ist per Auto bequem zu erreichen.",
+                "hu": "Zárja a napot kényelmesen; a kőszínház vizesen nagyon autentikus látványt nyújt, és autóval kényelmesen megközelíthető az esti órákban.",
+                "ro": "Încheiați ziua confortabil; teatrul de piatră arată foarte autentic când este ud și este ușor de accesat cu mașina seara.",
+                "en": "End the day comfortably; the stone theater looks very authentic when wet and is easily accessible by car in the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Luxus eines beheizten Autos an einem kalten Wintertag. Vormittags gleiten Sie warm von Kulturstopp zu Kulturstopp. Mittags ist die Galerie ein heller, warmer Fixpunkt. Der Nachmittag bietet klare Sicht auf monumentale Highlights, bevor die Sonne um 17:00 Uhr untergeht. Der Abend endet bei wohliger Wärme im Auto mit Blick auf die beleuchtete Stadt.",
+            "hu": "Élvezze a fűtött autó luxusát egy hideg téli napon. Délelőtt melegben suhanhat egyik kulturális megállótól a másikig. Délben a galéria világos, meleg fix pont a túrában. A délután tiszta kilátást nyújt a monumentális látnivalókra a 17:00-ás naplemente előtt. Az este a kocsiban ülve, a kivilágított város látványával zárul.",
+            "ro": "Bucurați-vă de luxul unei mașini încălzite într-o zi rece de iarnă. Dimineața alunecați la căldură de la o oprire culturală la alta. La prânz, galeria este un punct fix luminos și cald. După-amiaza oferă o vedere clară asupra atracțiilor monumentale înainte de apusul de la ora 17:00. Seara se încheie la căldură, cu vederea orașului iluminat.",
+            "en": "Enjoy the luxury of a heated car on a cold winter day. In the morning, glide warmly from one cultural stop to another. At noon, the gallery is a bright, warm highlight. The afternoon offers clear views of monumental sights before the 17:00 sunset. The evening ends in cozy warmth with a view of the illuminated city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maire Arone",
+                "hu": "Maire Arone",
+                "ro": "Maire Arone",
+                "en": "Maire Arone"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Wintertag entspannt im Warmen; das Auto ermöglicht Ihnen einen flexiblen Start ohne die morgendliche Kälte zu spüren.",
+                "hu": "Kezdje a téli napot kényelmesen a melegben; az autó rugalmas indulást tesz lehetővé anélkül, hogy érezné a csípős reggeli hideget.",
+                "ro": "Începeți ziua de iarnă relaxat la căldură; mașina vă permite un start flexibil fără a simți frigul pătrunzător al dimineții.",
+                "en": "Start your winter day relaxed in the warmth; the car allows for a flexible start without feeling the biting morning cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Arkhaio Theatro Euonumou",
+                "hu": "Arkhaio Theatro Euonumou",
+                "ro": "Arkhaio Theatro Euonumou",
+                "en": "Arkhaio Theatro Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Das antike Theater ist im Winter oft menschenleer; nutzen Sie das klare Licht für beeindruckende Fotos direkt nach der kurzen Fahrt.",
+                "hu": "Az ókori színház télen gyakran teljesen néptelen; használja ki a tiszta fényt lenyűgöző fotókhoz közvetlenül a rövid autózás után.",
+                "ro": "Teatrul antic este adesea pustiu iarna; profitați de lumina clară pentru fotografii impresionante imediat după scurtul drum cu mașina.",
+                "en": "The ancient theater is often deserted in winter; use the clear light for impressive photos immediately after your short drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "hu": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "ro": "Taphoi tou arkhaiou Attikou Demou Euonumou",
+                "en": "Taphoi tou arkhaiou Attikou Demou Euonumou"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp bei den Gräbern ist ideal, um die historische Bedeutung zu erfassen, bevor Sie wieder in das warme Fahrzeug steigen.",
+                "hu": "Egy gyors megálló a síroknál ideális a történelmi jelentőség befogadására, mielőtt gyorsan visszaszállna a kellemesen meleg autóba.",
+                "ro": "O oprire rapidă la morminte este ideală pentru a capta semnificația istorică înainte de a urca înapoi în vehiculul cald.",
+                "en": "A quick stop at the tombs is ideal for grasping the historical significance before hopping back into your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Gallery",
+                "hu": "Art Gallery",
+                "ro": "Art Gallery",
+                "en": "Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in der Galerie, um die Mittagszeit im Warmen zu verbringen und die moderne Kunstszene in aller Ruhe zu studieren.",
+                "hu": "Időzzön hosszabb ideig a galériában, hogy a délidőt a melegben töltse, és nyugodtan tanulmányozhassa a modern művészeti szcénát.",
+                "ro": "Zăboviți mai mult în galerie pentru a petrece amiaza la căldură și pentru a studia în liniște scena artistică modernă.",
+                "en": "Linger longer in the gallery to spend the midday in the warmth while studying the modern art scene at your own pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Boeing 727",
+                "hu": "Boeing 727",
+                "ro": "Boeing 727",
+                "en": "Boeing 727"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Sicht oft klarer; das Flugzeug-Denkmal bietet bei tiefstehender Sonne ein fantastisches Motiv für einen kurzen Halt.",
+                "hu": "Télen a látótávolság gyakran sokkal jobb; a repülőgép-emlékmű az alacsonyan járó napnál fantasztikus fotótéma egy rövid megálláshoz.",
+                "ro": "Iarna, vizibilitatea este adesea mai clară; monumentul avionului oferă un motiv fantastic pentru o scurtă oprire în lumina apusului.",
+                "en": "Visibility is often clearer in winter; the airplane monument offers a fantastic subject for a quick stop during the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Eleutherios Benizelos",
+                "hu": "Eleutherios Benizelos",
+                "ro": "Eleutherios Benizelos",
+                "en": "Eleutherios Benizelos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal am Nachmittag, wenn das goldene Winterlicht die Statue trifft; danach sorgt die Autoheizung wieder für Wärme.",
+                "hu": "Látogassa meg az emlékművet délután, amikor az aranyló téli fény megvilágítja a szobrot; utána az autó fűtése újra felmelegíti Önt.",
+                "ro": "Vizitați monumentul după-amiaza, când lumina aurie a iernii lovește statuia; apoi, căldura mașinii vă va reîncălzi rapid.",
+                "en": "Visit the monument in the afternoon when golden winter light hits the statue; afterward, the car heater will quickly warm you up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Amoiro Plasma",
+                "hu": "Amoiro Plasma",
+                "ro": "Amoiro Plasma",
+                "en": "Amoiro Plasma"
+              },
+              "tip_5lang": {
+                "de": "Dank der kurzen Wege vom Parkplatz bleibt Ihnen die Kälte erspart; tauchen Sie kurz in die Geschichte ein, bevor es zum letzten Stopp geht.",
+                "hu": "A parkolótól való rövid séta miatt megkíméli magát a hidegtől; merüljön el rövid időre a történelemben az utolsó megálló előtt.",
+                "ro": "Datorită distanței scurte de la parcare, veți fi ferit de frig; cufundați-vă scurt în istorie înainte de a merge la ultima oprire.",
+                "en": "Thanks to the short walk from the parking lot, you'll avoid the cold; dive briefly into history before heading to your final stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Petrino Theatro Arguroupoles",
+                "hu": "Petrino Theatro Arguroupoles",
+                "ro": "Petrino Theatro Arguroupoles",
+                "en": "Petrino Theatro Arguroupoles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den stimmungsvollen Abschluss Ihrer Tour bei Sonnenuntergang um 17:00 Uhr; die beleuchteten Steine wirken im Winter sehr edel.",
+                "hu": "Élvezze a túra hangulatos lezárását a 17:00-ás naplementekor; a kivilágított kövek télen nagyon nemes és elegáns látványt nyújtanak.",
+                "ro": "Bucurați-vă de finalul atmosferic al turului la apusul de la ora 17:00; pietrele iluminate arată foarte nobil și elegant în timpul iernii.",
+                "en": "Enjoy the atmospheric conclusion of your tour at the 17:00 sunset; the illuminated stones look very noble and elegant in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

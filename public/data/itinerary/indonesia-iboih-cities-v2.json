@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy békés sétával a történelmi Komplek Makamhoz, hogy átérezze a sziget szellemi gyökereit. Délben a Cot Punceu és az ikonikus Tugu Garuda mellett halad el, felfedezve a helyi örökséget. Délután látogasson el a buja Cot Labu-hoz és a Teluk Teupin Iboih lenyűgöző partjaihoz. Zárja az estét egy látványos naplementés sznorkelezéssel a kristálytiszta tengerben.",
         "ro": "Începeți dimineața cu o plimbare liniștită către istoricul Komplek Makam pentru a simți rădăcinile spirituale ale insulei. La prânz treceți pe lângă Cot Punceu și iconicul Tugu Garuda pentru a admira patrimoniul local. După-amiaza vă poartă spre verdele Cot Labu și țărmurile uimitoare din Teluk Teupin Iboih. Încheiați seara cu o sesiune spectaculoasă de snorkeling la apusul soarelui.",
         "en": "Start your morning with a serene walk to the historic Komplek Makam Aulia Kramat 44 to feel the island's spiritual roots. Midday brings you past Cot Punceu and the iconic Tugu Garuda, offering glimpses of local heritage. By afternoon, transition to the lush Cot Labu and the stunning shores of Teluk Teupin Iboih. Conclude your evening with spectacular snorkeling sessions as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens hüllt der Regen die heiligen Gräber in mystischen Nebel. Mittags erschweren rutschige Pfade den Aufstieg zu den Aussichtspunkten, weshalb festes Schuhwerk unerlässlich ist. Am Nachmittag bietet der dichte Dschungel begrenzten Schutz vor Schauern auf dem Weg zur Bucht. Abends reflektieren die Lichter von Iboih in den Pfützen, während man in einer überdachten Unterkunft dem Regen lauscht.",
+            "hu": "Reggel az eső áztatja a szent sírokat, misztikus ködbe burkolva a környéket. Délben a csúszós ösvények nehezítik a kilátók megközelítését, ezért a vízhatlan cipő elengedhetetlen. Délután a sűrű dzsungel némi védelmet nyújt a záporok elől az öböl felé vezető úton. Este az iboihi fények tükröződnek a pocsolyákban, miközben egy fedett teraszon hallgatjuk a trópusi eső kopogását.",
+            "ro": "Dimineața, ploaia învăluie mormintele sfinte într-o ceață mistică. La prânz, potecile alunecoase îngreunează urcarea spre punctele de belvedere, deci încălțămintea impermeabilă este esențială. După-amiaza, jungla deasă oferă un adăpost limitat împotriva averselor în drum spre golf. Seara, luminile din Iboih se reflectă în bălți, în timp ce vă odihniți într-un loc acoperit ascultând ploaia.",
+            "en": "In the morning, rain envelops the sacred tombs in a mystical mist. At noon, slippery paths make the climb to the viewpoints challenging, so waterproof footwear is essential. In the afternoon, the dense jungle provides limited shelter from showers on the way to the bay. In the evening, the lights of Iboih reflect in the puddles while you relax in a covered spot listening to the tropical rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Komplek Makam Aulia Kramat 44",
+                "hu": "Komplek Makam Aulia Kramat 44",
+                "ro": "Komplek Makam Aulia Kramat 44",
+                "en": "Komplek Makam Aulia Kramat 44"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die spirituelle Stätte im sanften Regen für eine besonders friedliche Atmosphäre, aber achten Sie auf die moosigen Stufen, die bei Nässe sehr rutschig sind.",
+                "hu": "Látogassa meg a spirituális helyszínt csendes esőben a különlegesen békés hangulatért, de ügyeljen a mohás lépcsőkre, amelyek nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Vizitați locul spiritual pe o ploaie ușoară pentru o atmosferă deosebit de liniștită, dar aveți grijă la treptele cu mușchi care devin foarte alunecoase când sunt ude.",
+                "en": "Visit the spiritual site in gentle rain for an especially peaceful atmosphere, but watch out for the mossy steps, which become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Punceu",
+                "hu": "Cot Punceu",
+                "ro": "Cot Punceu",
+                "en": "Cot Punceu"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet auch bei Wolken ein dramatisches Panorama über das Meer; tragen Sie eine Regenjacke, da der Wind hier oben die Schauer peitschen kann.",
+                "hu": "A kilátópont felhős időben is drámai panorámát nyújt a tengerre; viseljen esőkabátot, mert a szél itt fent erősen fújhatja a záporokat.",
+                "ro": "Punctul de belvedere oferă o panoramă dramatică asupra mării chiar și cu nori; purtați o pelerină de ploaie, deoarece vântul de aici poate intensifica aversele.",
+                "en": "The viewpoint offers a dramatic panorama over the sea even with clouds; wear a raincoat as the wind up here can whip the showers around quite strongly."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Garuda",
+                "hu": "Tugu Garuda",
+                "ro": "Tugu Garuda",
+                "en": "Tugu Garuda"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Denkmal kurzzeitig Schutz vor dem Guss und bewundern Sie die historischen Inschriften, während der Boden um das Monument schnell matschig wird.",
+                "hu": "Keressen rövid menedéket az emlékmű alatt a felhőszakadás elől, és csodálja meg a feliratokat, miközben az emlékmű körüli talaj esőben gyorsan sárossá válik.",
+                "ro": "Căutați adăpost temporar sub monument în timpul averselor și admirați inscripțiile, având în vedere că solul din jur devine rapid noroios pe timp de ploaie.",
+                "en": "Seek temporary shelter under the monument during downpours and admire the inscriptions, keeping in mind that the ground around the monument gets muddy quickly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Labu",
+                "hu": "Cot Labu",
+                "ro": "Cot Labu",
+                "en": "Cot Labu"
+              },
+              "tip_5lang": {
+                "de": "Der dichte Waldweg hierher bietet einen natürlichen Schirm gegen leichten Regen, aber halten Sie die Augen nach Pfützen offen, die den schmalen Pfad verdecken können.",
+                "hu": "A sűrű erdei út természetes ernyőt nyújt a szemerkélő eső ellen, de figyeljen a pocsolyákra, amelyek elfedhetik a keskeny ösvény egyenetlenségeit.",
+                "ro": "Drumul prin pădurea deasă oferă o umbrelă naturală împotriva ploii ușoare, dar fiți atenți la bălțile care pot ascunde denivelările potecii înguste.",
+                "en": "The dense forest path here provides a natural umbrella against light rain, but keep an eye out for puddles that can hide the unevenness of the narrow trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Iboih",
+                "hu": "Teluk Teupin Iboih",
+                "ro": "Teluk Teupin Iboih",
+                "en": "Teluk Teupin Iboih"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen grau und melancholisch; nutzen Sie die Zeit für einen Aufenthalt in einem der überdachten Warungs direkt am Wasser für beste Sicht.",
+                "hu": "Az öböl esőben szürke és melankolikus arcát mutatja; használja ki az időt egy fedett vízparti warungban, ahonnan szárazon élvezheti a tenger látványát.",
+                "ro": "Golful are un aspect gri și melancolic pe ploaie; profitați de timp într-un warung acoperit de pe malul apei, de unde puteți admira marea rămânând uscat.",
+                "en": "The bay shows a grey and melancholic side in the rain; spend some time in a covered waterfront warung where you can enjoy the sea view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Very good snorkeling",
+                "hu": "Very good snorkeling",
+                "ro": "Very good snorkeling",
+                "en": "Very good snorkeling"
+              },
+              "tip_5lang": {
+                "de": "Nass werden Sie beim Schnorcheln ohnehin, aber achten Sie bei Regen auf die eingeschränkte Sicht unter Wasser und die etwas stärkere Brandung am Ufer.",
+                "hu": "A sznorkelezés közben úgyis vizes lesz, de esőben számítson a korlátozottabb látótávolságra a víz alatt és a part menti erősebb hullámzásra.",
+                "ro": "Oricum vă veți uda la snorkeling, dar pe ploaie așteptați-vă la o vizibilitate redusă sub apă și la o hulă ceva mai puternică la mal.",
+                "en": "You'll get wet anyway while snorkeling, but expect limited visibility underwater and slightly stronger surf near the shore during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühleren Wintermorgen ist die Wanderung zu den Gräbern besonders erfrischend. Mittags steht die Sonne niedriger und taucht die Monumente in ein weiches, goldenes Licht. Ab dem frühen Nachmittag sollte man den Rückweg planen, da es im Dschungel bereits ab 16:30 Uhr dämmert. Der Abend endet früh bei einer warmen Meeresbrise, da die Sonne pünktlich gegen 17:00 Uhr hinter dem Horizont verschwindet.",
+            "hu": "A hűvösebb téli reggelen a sírokhoz vezető túra kifejezetten frissítő. Napközben a nap alacsonyabban jár, lágy aranyfénnyel vonva be az emlékműveket. Kora délutántól érdemes a visszautat tervezni, mert a dzsungelben már 16:30-kor szürkület van. Az este korán kezdődik a meleg tengeri szélben, mivel a nap pontban 17:00 órakor eltűnik a horizont mögött.",
+            "ro": "În dimineața mai răcoroasă de iarnă, drumeția spre morminte este deosebit de revigorantă. La prânz, soarele este mai jos, scăldând monumentele într-o lumină aurie caldă. De la începutul după-amiezii, planificați drumul de întoarcere, deoarece în junglă se înserează deja la 16:30. Seara începe devreme cu o briză caldă, soarele dispărând după orizont fix la ora 17:00.",
+            "en": "On a cooler winter morning, the hike to the tombs is especially refreshing. During the day, the sun sits lower, bathing the monuments in a soft, golden light. From early afternoon, plan your return trip, as dusk begins in the jungle as early as 4:30 PM. The evening starts early with a warm sea breeze, as the sun disappears behind the horizon at exactly 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Komplek Makam Aulia Kramat 44",
+                "hu": "Komplek Makam Aulia Kramat 44",
+                "ro": "Komplek Makam Aulia Kramat 44",
+                "en": "Komplek Makam Aulia Kramat 44"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milde Morgentemperatur für eine ausgiebige Erkundung ohne die drückende Hitze des Sommers; eine leichte Schicht Kleidung schützt vor dem Wind.",
+                "hu": "Használja ki az enyhe reggeli hőmérsékletet az alapos felfedezéshez a nyári hőség nélkül; egy vékony réteg ruha jól jöhet a hűvösebb szél ellen.",
+                "ro": "Profitați de temperatura blândă a dimineții pentru o explorare detaliată fără căldura verii; un strat subțire de haine vă va proteja de vântul răcoros.",
+                "en": "Take advantage of the mild morning temperature for a thorough exploration without the summer heat; a light layer of clothing protects against the cooler breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Punceu",
+                "hu": "Cot Punceu",
+                "ro": "Cot Punceu",
+                "en": "Cot Punceu"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Fernsicht oft klarer; genießen Sie den weiten Blick, aber halten Sie sich wegen des frühen Sonnenuntergangs nicht zu lange auf dem Hügel auf.",
+                "hu": "Télen a távoli kilátás gyakran tisztább; élvezze a tágas panorámát, de a korai naplemente miatt ne maradjon túl sokáig a dombtetőn.",
+                "ro": "Iarna, vizibilitatea la distanță este adesea mai clară; bucurați-vă de panorama vastă, dar nu zăboviți prea mult pe deal din cauza apusului timpuriu.",
+                "en": "In winter, the distant view is often clearer; enjoy the wide panorama, but don't stay too long on the hilltop due to the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Garuda",
+                "hu": "Tugu Garuda",
+                "ro": "Tugu Garuda",
+                "en": "Tugu Garuda"
+              },
+              "tip_5lang": {
+                "de": "Das Monument bietet im Winter tolle Fotomotive durch den niedrigen Sonnenstand; bringen Sie eine Taschenlampe mit, falls Sie den Rückweg unterschätzen.",
+                "hu": "Az emlékmű télen remek fotótéma az alacsony napállás miatt; vigyen magával zseblámpát, ha esetleg elszámolná a korai sötétedés miatti visszautat.",
+                "ro": "Monumentul oferă oportunități foto excelente iarna datorită soarelui jos; luați o lanternă în caz că subestimați drumul de întoarcere pe întuneric.",
+                "en": "The monument offers great photo opportunities in winter due to the low sun; bring a flashlight in case you underestimate the early onset of darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Labu",
+                "hu": "Cot Labu",
+                "ro": "Cot Labu",
+                "en": "Cot Labu"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Waldabschnitte können im Winter kühl sein; tragen Sie geschlossene Schuhe, um die Körperwärme auf dem feuchten Waldboden besser zu halten.",
+                "hu": "Az árnyékos erdei szakaszok télen hűvösek lehetnek; viseljen zárt cipőt, hogy jobban megőrizze lába melegét a nedves erdei talajon.",
+                "ro": "Secțiunile umbrite de pădure pot fi răcoroase iarna; purtați pantofi închiși pentru a menține mai bine căldura picioarelor pe solul umed al pădurii.",
+                "en": "The shaded forest sections can be chilly in winter; wear closed shoes to better retain body heat on the damp forest floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Iboih",
+                "hu": "Teluk Teupin Iboih",
+                "ro": "Teluk Teupin Iboih",
+                "en": "Teluk Teupin Iboih"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter angenehm warm, aber die Luft kühlt ab 16:00 Uhr schnell ab; halten Sie ein trockenes Handtuch und Wechselkleidung bereit.",
+                "hu": "A víz télen is kellemesen meleg, de a levegő 16:00 után gyorsan lehűl; legyen kéznél száraz törölköző és váltóruha a fürdőzés után.",
+                "ro": "Apa este plăcut de caldă iarna, dar aerul se răcește rapid după ora 16:00; aveți la îndemână un prosop uscat și haine de schimb după baie.",
+                "en": "The water remains pleasantly warm in winter, but the air cools down quickly after 4 PM; have a dry towel and change of clothes ready after swimming."
+              }
+            },
+            {
+              "name": {
+                "de": "Very good snorkeling",
+                "hu": "Very good snorkeling",
+                "ro": "Very good snorkeling",
+                "en": "Very good snorkeling"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie früh mit dem Schnorcheln, da das Licht für die Unterwasserwelt ab 15:30 Uhr merklich schwächer wird und die Sichtqualität schnell abnimmt.",
+                "hu": "Kezdje korán a sznorkelezést, mert a víz alatti világ megvilágítása 15:30 után észrevehetően gyengül, és a látási viszonyok gyorsan romlanak.",
+                "ro": "Începeți snorkelingul devreme, deoarece lumina pentru lumea subacvatică slăbește vizibil după 15:30, iar calitatea vizibilității scade rapid.",
+                "en": "Start snorkeling early as the light for the underwater world weakens noticeably after 3:30 PM, and the visibility quality drops off quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Pattanjon kerékpárra a Tugu Garuda emlékműnél, élvezve a friss levegőt és a helyi történelmet. Dél felé haladva tekerjen el a Cot Blang Iboih-hoz és a Teluk Teupin Iboih pezsgő partjaihoz. A délutánt érdemes a fantasztikus sznorkelező helyek felfedezésével tölteni a mélykék vizekben. Ahogy leszáll az est, tekerjen vissza a Teluk Teupin Ring és a Cot Punceu érintésével egy nyugodt befejezésért.",
         "ro": "Pedalați dimineața la iconicul Tugu Garuda, bucurându-vă de aerul proaspăt și de bogata istorie locală. Spre prânz, mergeți spre nord-vest către Cot Blang Iboih și țărmurile vibrante din Teluk Teupin Iboih. După-amiaza este ideală pentru a explora locurile uimitoare de snorkeling. Odată cu lăsarea serii, întoarceți-vă prin Teluk Teupin Ring și Cot Punceu pentru un final relaxant la amurg.",
         "en": "Pedal into the morning at the iconic Tugu Garuda, embracing the fresh air and rich local history. Towards midday, cycle northwest to Cot Blang Iboih and the vibrant shores of Teluk Teupin Iboih. Your afternoon is best spent enjoying amazing snorkeling spots and exploring the deep blue waters. As evening falls, ride back through Teluk Teupin Ring and Cot Punceu for a relaxing twilight finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den rutschigen Küstenstraßen von Iboih. Vormittags sind die Anstiege anstrengend, wenn das Wasser über den Asphalt rinnt. Mittags bieten kleine Unterstände am Wegesrand willkommene Pausen. Am Nachmittag spritzt der Schlamm auf den unbefestigten Wegen, was Schutzbleche am Rad unverzichtbar macht. Abends sollte man wegen der schlechten Sicht frühzeitig zum Ausgangspunkt zurückkehren.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Iboih csúszós parti útjain. Délelőtt a kapaszkodók fárasztóak, amikor a víz átfolyik az aszfalton. Délben az út menti kis beállók nyújtanak menedéket a pihenéshez. Délután a sár felverődik a földeutakon, ezért a sárvédő elengedhetetlen a kerékpáron. Este a rossz látási viszonyok miatt érdemes időben visszatérni a szállásra.",
+            "ro": "Mersul cu bicicleta pe ploaie necesită prudență pe drumurile de coastă alunecoase din Iboih. Dimineața, urcările sunt obositoare când apa curge pe asfalt. La prânz, micile adăposturi de pe marginea drumului oferă pauze binevenite. După-amiaza, noroiul sare de pe drumurile neasfaltate, făcând aripile bicicletei indispensabile. Seara, din cauza vizibilității reduse, reveniți devreme la punctul de plecare.",
+            "en": "Cycling in the rain requires caution on Iboih's slippery coastal roads. In the morning, climbs are taxing as water flows across the asphalt. At noon, small shelters along the roadside offer welcome breaks. In the afternoon, mud splashes up on unpaved paths, making fenders essential on your bike. In the evening, return to your starting point early due to poor visibility conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Garuda",
+                "hu": "Tugu Garuda",
+                "ro": "Tugu Garuda",
+                "en": "Tugu Garuda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad auf befestigtem Untergrund, um ein Einsinken im Matsch zu vermeiden, während Sie das Denkmal im Schutz eines Regenschirms erkunden.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, hogy elkerülje a sárba süllyedést, miközben esernyő védelmében fedezi fel az emlékművet.",
+                "ro": "Parcați bicicleta pe un teren solid pentru a evita scufundarea în noroi în timp ce explorați monumentul sub protecția unei umbrele.",
+                "en": "Park your bike on solid ground to avoid sinking into the mud while exploring the monument under the protection of an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Blang Iboih",
+                "hu": "Cot Blang Iboih",
+                "ro": "Cot Blang Iboih",
+                "en": "Cot Blang Iboih"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg per Rad ist bei Regen rutschig; nutzen Sie niedrige Gänge und prüfen Sie Ihre Bremsen gründlich, bevor Sie die Abfahrt antreten.",
+                "hu": "A kerékpáros emelkedő esőben csúszós; használjon alacsony sebességfokozatot, és alaposan ellenőrizze a fékeket a leereszkedés előtt.",
+                "ro": "Urcarea cu bicicleta este alunecoasă pe ploaie; folosiți viteze mici și verificați bine frânele înainte de a începe coborârea.",
+                "en": "The bike climb is slippery in the rain; use low gears and check your brakes thoroughly before starting the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Iboih",
+                "hu": "Teluk Teupin Iboih",
+                "ro": "Teluk Teupin Iboih",
+                "en": "Teluk Teupin Iboih"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter einem Vordach ab und genießen Sie einen heißen Tee in einem Warung, um sich aufzuwärmen, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Támassza le a biciklit egy előtető alá, és élvezzen egy forró teát valamelyik warungban, hogy átmelegedjen a folytatás előtt.",
+                "ro": "Parcați bicicleta sub o copertină și savurați un ceai fierbinte într-un warung pentru a vă încălzi înainte de a continua drumul.",
+                "en": "Park your bike under an overhang and enjoy a hot tea in a warung to warm up before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "amazing fishing/snorkelling",
+                "hu": "amazing fishing/snorkelling",
+                "ro": "amazing fishing/snorkelling",
+                "en": "amazing fishing/snorkelling"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Steine am Ufer extrem rutschig; lassen Sie die Radschuhe an oder nutzen Sie Wasserschuhe für sicheren Halt beim Einstieg.",
+                "hu": "Esőben a kövek a parton rendkívül csúszósak; hagyja magán a kerékpáros cipőt vagy használjon vízi cipőt a biztonságos bejutáshoz.",
+                "ro": "Pe ploaie, pietrele de la mal sunt extrem de alunecoase; păstrați pantofii de ciclism sau folosiți încălțăminte de apă pentru stabilitate.",
+                "en": "In the rain, the rocks at the shore are extremely slippery; keep your cycling shoes on or use water shoes for secure footing when entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Ring",
+                "hu": "Teluk Teupin Ring",
+                "ro": "Teluk Teupin Ring",
+                "en": "Teluk Teupin Ring"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße hier ist besonders windanfällig; halten Sie den Lenker fest und achten Sie auf herabfallende Äste während starker Böen.",
+                "hu": "A parti út itt különösen szeles lehet; fogja erősen a kormányt, és ügyeljen a leeső ágakra az erős széllökések idején.",
+                "ro": "Drumul de coastă este deosebit de expus vântului aici; țineți bine ghidonul și fiți atenți la crengile căzute în timpul rafalelor puternice.",
+                "en": "The coastal road here is particularly wind-prone; hold the handlebars firmly and watch out for falling branches during strong gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Punceu",
+                "hu": "Cot Punceu",
+                "ro": "Cot Punceu",
+                "en": "Cot Punceu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie bei Regen nur die Hauptstraßen für den Rückweg, da die kleinen Nebenpfade für Räder zu schlammig und unberechenbar werden können.",
+                "hu": "Esőben csak a főutat használja a visszaúthoz, mert a kis mellékösvények túl sárosak és kiszámíthatatlanok lehetnek a bringások számára.",
+                "ro": "Pe ploaie, folosiți doar drumul principal pentru întoarcere, deoarece potecile secundare pot deveni prea noroioase și imprevizibile pentru bicicletă.",
+                "en": "In the rain, use only the main road for the return trip, as small side paths can become too muddy and unpredictable for bikes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet die kühle Brise ideale Bedingungen für eine Radtour rund um Iboih. Vormittags ist das Licht perfekt für Panoramafotos auf den Hügeln. Mittags genießt man das angenehme Klima ohne die sommerliche Hitzeerschöpfung. Ab 16:00 Uhr verblasst das Licht jedoch schnell, was eine funktionierende Fahrradbeleuchtung zwingend erforderlich macht. Der Abend bricht gegen 17:00 Uhr rasch herein und kühlt spürbar ab.",
+            "hu": "Télen a hűvös szellő ideális feltételeket teremt egy Iboih környéki biciklitúrához. Délelőtt a fények tökéletesek a dombtetőkről készített panorámafotókhoz. Délben élvezheti a kellemes klímát a nyári hőség okozta kimerültség nélkül. 16:00 után azonban a fény gyorsan fogy, így a működő kerékpáros világítás kötelező. Az este 17:00 körül hirtelen köszönt be, és érezhetően lehűl az idő.",
+            "ro": "Iarna, briza răcoroasă oferă condiții ideale pentru o tură cu bicicleta în jurul Iboih. Dimineața, lumina este perfectă pentru fotografii panoramice de pe dealuri. La prânz, vă bucurați de climatul plăcut fără epuizarea cauzată de căldura verii. După ora 16:00, lumina scade rapid, deci iluminarea funcțională a bicicletei este obligatorie. Seara se instalează brusc în jurul orei 17:00, aducând o răcoare sesizabilă.",
+            "en": "In winter, the cool breeze provides ideal conditions for a bike tour around Iboih. In the morning, the light is perfect for panoramic photos from the hilltops. At noon, enjoy the pleasant climate without the summer heat exhaustion. After 4 PM, however, the light fades quickly, making working bike lights mandatory. Evening sets in suddenly around 5 PM and the temperature drops noticeably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Garuda",
+                "hu": "Tugu Garuda",
+                "ro": "Tugu Garuda",
+                "en": "Tugu Garuda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den Anstieg zum Monument; die klare Winterluft ermöglicht weite Sichtachsen bis zum indischen Ozean.",
+                "hu": "Használja ki a hűvös reggelt az emlékműhöz való feltekeréshez; a tiszta téli levegő távoli kilátást enged egészen az Indiai-óceánig.",
+                "ro": "Profitați de dimineața răcoroasă pentru urcarea la monument; aerul curat de iarnă permite o vizibilitate extinsă până la Oceanul Indian.",
+                "en": "Take advantage of the cool morning for the ride up to the monument; the clear winter air allows for distant views all the way to the Indian Ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Blang Iboih",
+                "hu": "Cot Blang Iboih",
+                "ro": "Cot Blang Iboih",
+                "en": "Cot Blang Iboih"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt im Winterwind kann kühl sein; tragen Sie eine Windjacke über Ihrem Trikot, um den Oberkörper während der schnellen Fahrt warm zu halten.",
+                "hu": "A téli szélben a lejtmenet hűvös lehet; viseljen széldzsekit a meze felett, hogy melegen tartsa felsőtestét a gyors gurulás közben.",
+                "ro": "Coborârea în vântul de iarnă poate fi rece; purtați o jachetă de vânt peste tricou pentru a vă menține corpul cald în timpul deplasării rapide.",
+                "en": "The descent in the winter wind can be chilly; wear a windbreaker over your jersey to keep your upper body warm during the fast ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Iboih",
+                "hu": "Teluk Teupin Iboih",
+                "ro": "Teluk Teupin Iboih",
+                "en": "Teluk Teupin Iboih"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Touristen mit Rädern unterwegs; genießen Sie die Ruhe im Dorf, bevor Sie Ihr Rad für die Weiterfahrt wieder satteln.",
+                "hu": "Télen kevesebb turista jár kerékpárral; élvezze a falu nyugalmát, mielőtt újra nyeregbe szállna a túra folytatásához.",
+                "ro": "Iarna sunt mai puțini turiști cu biciclete; bucurați-vă de liniștea satului înainte de a porni din nou la drum pe bicicletă.",
+                "en": "Fewer tourists are out on bikes in winter; enjoy the peace of the village before saddling up again to continue your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "amazing fishing/snorkelling",
+                "hu": "amazing fishing/snorkelling",
+                "ro": "amazing fishing/snorkelling",
+                "en": "amazing fishing/snorkelling"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Schnorcheln im warmen Wasser kühlt man auf dem Rad durch den Fahrtwind schnell aus; trocknen Sie sich gründlich ab und ziehen Sie sich warm an.",
+                "hu": "A meleg vízben való sznorkelezés után a menetszél miatt a biciklin gyorsan lehűlhet; törölközzön meg alaposan, és öltözzön fel melegen.",
+                "ro": "După snorkelingul în apa caldă, vântul vă poate face să tremurați pe bicicletă; ștergeți-vă bine și îmbrăcați-vă cu haine uscate.",
+                "en": "After snorkeling in the warm water, the headwind on the bike can cool you down quickly; dry off thoroughly and dress warmly before riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Teupin Ring",
+                "hu": "Teluk Teupin Ring",
+                "ro": "Teluk Teupin Ring",
+                "en": "Teluk Teupin Ring"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet am Nachmittag auf der Küstenstraße; tragen Sie eine Sonnenbrille, um entgegenkommende Fahrzeuge sicher zu erkennen.",
+                "hu": "Az alacsonyan járó téli nap délután vakíthat a parti úton; viseljen napszemüveget, hogy biztonságosan észlelje a szembejövő járműveket.",
+                "ro": "Soarele jos de iarnă poate fi orbitor după-amiaza pe drumul de coastă; purtați ochelari de soare pentru a vedea clar vehiculele care vin din față.",
+                "en": "The low winter sun can be blinding on the coastal road in the afternoon; wear sunglasses to safely spot oncoming vehicles."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Punceu",
+                "hu": "Cot Punceu",
+                "ro": "Cot Punceu",
+                "en": "Cot Punceu"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch hier spätestens um 16:30 Uhr, um den Rückweg noch bei Resthelligkeit und funktionierenden Lichtern sicher zu bewältigen.",
+                "hu": "Legkésőbb 16:30-kor fejezze be az itteni látogatást, hogy a visszautat még a maradék fénynél, működő lámpákkal, biztonságban tehesse meg.",
+                "ro": "Încheiați vizita aici cel târziu la 16:30 pentru a parcurge drumul de întoarcere în siguranță, profitând de lumina rămasă și având luminile aprinse.",
+                "en": "Finish your visit here by 4:30 PM at the latest to complete the return trip safely in the remaining light with your lights turned on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autózzon ki korán a szent Komplek Makamhoz és a Tugu Garudához, hogy megragadja a békés reggeli hangulatot. Délben kényelmesen utazzon végig a parton a Cot Parada és a Cot Lueng Angen lenyűgöző kilátópontjaihoz. A délutáni felfedezés délre vezet, a történelmi bunkerhez és a Cot Pawanghoz. Zárja a napot a Teluk Tiupin Gapang-nál, élvezve egy tengerparti vacsorát a csillagos ég alatt.",
         "ro": "Conduceți dimineața spre sacrul Komplek Makam și Tugu Garuda pentru a capta atmosfera liniștită. La prânz, călătoriți confortabil de-a lungul coastei spre Cot Parada și Cot Lueng Angen pentru priveliști panoramice ample. Explorările de după-amiază vă duc spre sud pentru a descoperi buncărul istoric și Cot Pawang. Încheiați ziua la Teluk Tiupin Gapang, savurând o cină lângă mare sub stele.",
         "en": "Drive out to the sacred Komplek Makam and Tugu Garuda early on, capturing the tranquil morning vibes of Iboih. By midday, cruise comfortably along the coast to Cot Parada and Cot Lueng Angen for wide scenic vistas. Afternoon explorations take you down south to discover the intriguing historical bunker and Cot Pawang. End the day at Teluk Tiupin Gapang, savoring a seaside dinner under the stars."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist im regnerischen Iboih die komfortabelste Wahl. Vormittags erreichen Sie die Gräber trocken, auch wenn die Straßen voller Wasser stehen. Mittags dient der Wagen als mobiler Schutzraum bei heftigen Güssen zwischen den Stationen. Am Nachmittag ermöglicht das Auto den Besuch entfernter Bunkersysteme trotz aufgeweichter Wege. Der Abend endet entspannt, da man unabhängig von Wind und Wetter sicher zurück zur Unterkunft gelangt.",
+            "hu": "Az autó a legkényelmesebb választás esős időben Iboihban. Délelőtt szárazon érheti el a sírokat, még ha az utak tele is vannak vízzel. Délben a gépkocsi mobil menedékként szolgál a heves felhőszakadások idején az állomások között. Délután az autó lehetővé teszi a távolabbi bunkerek felkeresését a felázott utak ellenére is. Az este nyugodtan telik, hiszen az időjárástól függetlenül biztonságban térhet vissza.",
+            "ro": "Mașina este cea mai confortabilă alegere în Iboih pe timp de ploaie. Dimineața ajungeți uscați la morminte, chiar dacă drumurile sunt pline de apă. La prânz, vehiculul servește drept adăpost mobil în timpul averselor puternice între opriri. După-amiaza, mașina permite vizitarea buncărelor îndepărtate în ciuda drumurilor înmuiate. Seara se încheie relaxat, ajungând în siguranță la cazare indiferent de vreme.",
+            "en": "The car is the most comfortable choice in rainy Iboih. In the morning, you reach the tombs dry even if the roads are full of water. At noon, the vehicle serves as a mobile shelter during heavy downpours between stops. In the afternoon, the car allows for visits to distant bunkers despite the soggy roads. The evening ends on a relaxed note as you return safely to your accommodation regardless of the weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Komplek Makam Aulia Kramat 44",
+                "hu": "Komplek Makam Aulia Kramat 44",
+                "ro": "Komplek Makam Aulia Kramat 44",
+                "en": "Komplek Makam Aulia Kramat 44"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Fußweg im Regen zu minimieren, und lassen Sie nasse Schirme im Kofferraum trocknen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimálisra csökkentse az esőben megtett sétát, a vizes ernyőket pedig hagyja a csomagtartóban száradni.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza mersul prin ploaie și lăsați umbrelele ude la uscat în portbagaj între opriri.",
+                "en": "Park as close to the entrance as possible to minimize walking in the rain, and leave wet umbrellas in the trunk to dry between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Garuda",
+                "hu": "Tugu Garuda",
+                "ro": "Tugu Garuda",
+                "en": "Tugu Garuda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Denkmal bei Starkregen zunächst aus dem Wageninneren, bevor Sie für ein schnelles Foto unter einem Baum Schutz suchen.",
+                "hu": "Heves esőben először az autóból csodálja meg az emlékművet, mielőtt egy gyors fotó erejéig kiszállna egy közeli fa védelmébe.",
+                "ro": "Pe ploaie torențială, admirați monumentul mai întâi din interiorul mașinii, înainte de a coborî pentru o fotografie rapidă sub protecția unui copac.",
+                "en": "In heavy rain, admire the monument from inside the car first before stepping out for a quick photo under the shelter of a nearby tree."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Parada",
+                "hu": "Cot Parada",
+                "ro": "Cot Parada",
+                "en": "Cot Parada"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die bei Regen mit Wasser gefüllt und schwer erkennbar sind; fahren Sie auf der Auffahrt zum Hügel besonders langsam.",
+                "hu": "Ügyeljen a kátyúkra, amelyek esőben megtelnek vízzel és nehezen észrevehetők; haladjon lassabban a dombra vezető feljárón.",
+                "ro": "Fiți atenți la gropile care se umplu cu apă pe ploaie și devin greu de observat; conduceți mai încet pe urcarea spre deal.",
+                "en": "Watch out for potholes that fill with water in the rain and are hard to spot; drive more slowly on the approach road up the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Lueng Angen",
+                "hu": "Cot Lueng Angen",
+                "ro": "Cot Lueng Angen",
+                "en": "Cot Lueng Angen"
+              },
+              "tip_5lang": {
+                "de": "Wegen der eingeschränkten Sicht durch beschlagene Scheiben sollten Sie die Klimaanlage nutzen, um das Wageninnere während der Fahrt zu entfeuchten.",
+                "hu": "A párás szélvédő miatti korlátozott látás ellen használja a légkondicionálót az utastér páramentesítésére a dombi szakaszokon.",
+                "ro": "Din cauza vizibilității reduse prin parbrizul aburit, folosiți aerul condiționat pentru a dezumidifica interiorul mașinii în timpul condusului.",
+                "en": "Due to limited visibility from fogged-up windows, use the air conditioning to dehumidify the car interior while driving the hilly sections."
+              }
+            },
+            {
+              "name": {
+                "de": "bunker",
+                "hu": "bunker",
+                "ro": "bunker",
+                "en": "bunker"
+              },
+              "tip_5lang": {
+                "de": "Bunker bieten bei Regen ein ideales Ziel, da sie im Inneren trocken sind, doch der Weg vom Parkplatz kann schlammig und rutschig sein.",
+                "hu": "A bunkerek ideális célpontok esőben, mivel belül szárazak, de a parkolótól vezető út sáros és csúszós lehet, így legyen óvatos.",
+                "ro": "Buncărele sunt o destinație ideală pe ploaie, fiind uscate în interior, însă drumul de la parcare poate fi noroios și alunecos.",
+                "en": "The bunkers are an ideal destination in the rain as they are dry inside, but the path from the parking lot can be muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Pawang",
+                "hu": "Cot Pawang",
+                "ro": "Cot Pawang",
+                "en": "Cot Pawang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Aussichtsplattform für das Panorama, falls der Regen zu stark für einen Spaziergang im Freien ist.",
+                "hu": "Használja az autót kilátóként a panoráma élvezetéhez, ha az eső túl erős lenne egy szabadtéri sétához a kilátóponton.",
+                "ro": "Folosiți mașina ca punct de observație pentru a vă bucura de panoramă dacă ploaia este prea puternică pentru o plimbare în aer liber.",
+                "en": "Use the car as a viewing platform to enjoy the panorama if the rain is too heavy for an outdoor walk at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Tiupin Gapang",
+                "hu": "Teluk Tiupin Gapang",
+                "ro": "Teluk Tiupin Gapang",
+                "en": "Teluk Tiupin Gapang"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den großen Bäumen am Strand für etwas natürlichen Schutz, während Sie den Wellen im Regen zusehen, bevor Sie zurückfahren.",
+                "hu": "Parkoljon a nagy fák alatt a parton, hogy némi természetes védelmet kapjon, miközben az esőben figyelheti a hullámokat a visszaindulás előtt.",
+                "ro": "Parcați sub copacii mari de pe plajă pentru puțin adăpost natural în timp ce urmăriți valurile pe ploaie înainte de a pleca spre cazare.",
+                "en": "Park under the large trees on the beach for some natural shelter while watching the waves in the rain before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das angenehme Winterwetter in Iboih lädt zu einer entspannten Ausfahrt ein. Vormittags ist das Licht in der klaren Luft perfekt für die ersten Stopps an den Gräbern. Mittags genießen Sie die milde Temperatur, da die Klimaanlage im Wagen kaum arbeiten muss. Ab 16:30 Uhr sinkt die Sonne merklich, was die Fahrt entlang der Küste in goldenes Licht taucht. Seien Sie pünktlich um 17:00 Uhr zurück, da die Dämmerung extrem kurz ist.",
+            "hu": "A kellemes téli időjárás Iboihban remek alkalom egy pihentető autózásra. Délelőtt a tiszta levegőben a fények tökéletesek az első megállókhoz a síroknál. Délben élvezheti az enyhe hőmérsékletet, a kocsi klímájának alig kell dolgoznia. 16:30 után a nap érezhetően süllyed, aranyfénnyel vonva be a parti utat. Érjen vissza 17:00-ra, mert a szürkület rendkívül rövid.",
+            "ro": "Vremea plăcută de iarnă din Iboih invită la o plimbare relaxantă cu mașina. Dimineața, în aerul curat, lumina este perfectă pentru primele opriri la morminte. La prânz, vă bucurați de temperatura blândă, aerul condiționat fiind abia necesar. După ora 16:30, soarele coboară vizibil, scăldând drumul de coastă într-o lumină aurie. Reveniți la timp pentru ora 17:00, deoarece amurgul este extrem de scurt.",
+            "en": "The pleasant winter weather in Iboih is perfect for a relaxed drive. In the morning, the light in the clear air is ideal for the first stops at the tombs. At noon, enjoy the mild temperature, as the car's AC barely needs to run. After 4:30 PM, the sun sinks noticeably, bathing the coastal road in golden light. Be back by 5:00 PM as the twilight period is extremely short."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Komplek Makam Aulia Kramat 44",
+                "hu": "Komplek Makam Aulia Kramat 44",
+                "ro": "Komplek Makam Aulia Kramat 44",
+                "en": "Komplek Makam Aulia Kramat 44"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den Besuch; die Parkplatzsuche ist im Winter entspannter, da weniger Touristenbusse die engen Wege blockieren.",
+                "hu": "Használja ki a hűvös reggelt a látogatáshoz; a parkolás télen egyszerűbb, mivel kevesebb turistabusz akadályozza a szűkebb utakat.",
+                "ro": "Profitați de dimineața răcoroasă pentru vizită; parcarea este mai ușoară iarna, fiind mai puține autocare care blochează drumurile înguste.",
+                "en": "Take advantage of the cool morning for your visit; parking is easier in winter as fewer tour buses block the narrow roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Garuda",
+                "hu": "Tugu Garuda",
+                "ro": "Tugu Garuda",
+                "en": "Tugu Garuda"
+              },
+              "tip_5lang": {
+                "de": "Das Monument leuchtet in der klaren Wintersonne besonders hell; im Auto ist es warm genug, um auch nach einem windigen Stopp schnell wieder aufzutauen.",
+                "hu": "Az emlékmű a tiszta téli napsütésben különösen fényes; az autóban hamar átmelegedhet egy szelesebb, szabadtéri nézelődés után.",
+                "ro": "Monumentul strălucește puternic în soarele clar de iarnă; în mașină vă veți încălzi rapid după o oprire vântoasă în aer liber.",
+                "en": "The monument shines particularly bright in the clear winter sun; inside the car, you can quickly warm up after a windy outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Parada",
+                "hu": "Cot Parada",
+                "ro": "Cot Parada",
+                "en": "Cot Parada"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Hügel bietet im Winter eine bessere Fernsicht; halten Sie am Straßenrand kurz an, um das Panorama ohne Hitzeflimmern zu fotografieren.",
+                "hu": "A dombra vezető út télen jobb távolabbi kilátást nyújt; álljon meg egy pillanatra az út szélén, hogy hőségvibrálás nélkül fotózhassa a panorámát.",
+                "ro": "Urcarea spre deal oferă o vizibilitate mai bună la distanță iarna; opriți scurt pe marginea drumului pentru a fotografia panorama fără distorsiunile căldurii.",
+                "en": "The drive up the hill offers better distant views in winter; stop briefly at the roadside to photograph the panorama without any heat haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Lueng Angen",
+                "hu": "Cot Lueng Angen",
+                "ro": "Cot Lueng Angen",
+                "en": "Cot Lueng Angen"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheinwerfer vor der Fahrt, da es am späten Nachmittag in den Waldpassagen früher dunkel wird als an der offenen Küste.",
+                "hu": "Ellenőrizze a fényszórókat indulás előtt, mert a késő délutáni órákban az erdei szakaszokon hamarabb sötétedik, mint a nyílt parton.",
+                "ro": "Verificați farurile înainte de plecare, deoarece după-amiaza târziu se întunecă mai devreme pe secțiunile de pădure decât pe coasta deschisă.",
+                "en": "Check your headlights before starting, as it gets dark earlier in the forest sections in the late afternoon than on the open coast."
+              }
+            },
+            {
+              "name": {
+                "de": "bunker",
+                "hu": "bunker",
+                "ro": "bunker",
+                "en": "bunker"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Bunker kann im Winter kühl und feucht sein; lassen Sie eine Jacke im Auto griffbereit, falls Ihnen nach der Besichtigung kalt wird.",
+                "hu": "A bunkerek belseje télen hűvös és nyirkos lehet; tartson egy kabátot az autóban, ha a látogatás után fázni kezdene.",
+                "ro": "Interiorul buncărelor poate fi rece și umed iarna; păstrați o jachetă la îndemână în mașină în caz că vă este frig după vizită.",
+                "en": "The interior of the bunkers can be cool and damp in winter; keep a jacket handy in the car in case you feel chilly after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Cot Pawang",
+                "hu": "Cot Pawang",
+                "ro": "Cot Pawang",
+                "en": "Cot Pawang"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Stopp für den frühen Nachmittag; die Wintersonne steht ideal für Fotos der Küstenlinie direkt vom befestigten Parkplatz aus.",
+                "hu": "Remek megálló kora délután; a téli nap állása ideális a partvonal fotózásához közvetlenül a szilárd burkolatú parkolóból.",
+                "ro": "O oprire excelentă pentru începutul după-amiezii; poziția soarelui de iarnă este ideală pentru fotografii ale coastei direct din parcare.",
+                "en": "A great stop for early afternoon; the position of the winter sun is ideal for photographing the coastline directly from the paved parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Teluk Tiupin Gapang",
+                "hu": "Teluk Tiupin Gapang",
+                "ro": "Teluk Tiupin Gapang",
+                "en": "Teluk Tiupin Gapang"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr vom Strand aus; dank des Autos sind Sie in wenigen Minuten zurück im warmen Hotel.",
+                "hu": "Figyelje meg a korai, 17:00 óra körüli naplementét a partról; az autónak köszönhetően pár perc alatt visszaérhet a meleg szálláshelyére.",
+                "ro": "Urmăriți apusul timpuriu în jurul orei 17:00 de pe plajă; datorită mașinii, veți ajunge înapoi la cazare în doar câteva minute.",
+                "en": "Watch the early sunset around 5:00 PM from the beach; thanks to the car, you'll be back at your warm accommodation in just a few minutes."
+              }
+            }
+          ]
+        }
       }
     }
   }

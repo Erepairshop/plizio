@@ -183,6 +183,224 @@
         "hu": "Kezdje a túrát a Valle Gran Rey feletti kilátóknál, és szívja magába a friss hegyi levegőt.\n\nDélben fedezzen fel ősi kápolnákat és bájos, történelemmel teli tereket.\n\nDélután az út a sziget kultúrájához, izgalmas múzeumokhoz és hagyományos házakhoz vezet.\n\nA nap a hatalmas szikláknál ér véget, a lemenő nap meleg, aranyló fényében fürdőzve.",
         "ro": "Începeți la punctele de belvedere deasupra Valle Gran Rey și respirați aerul de munte.\n\nLa prânz, descoperiți capele vechi și piețe pline de farmec și istorie bogată.\n\nDupă-amiaza, drumul duce spre cultura insulei, în muzee și case tradiționale vechi.\n\nZiua se încheie la stâncile masive, luminate cald și auriu de soarele minunat de la apus.",
         "en": "Start at the beautiful viewpoints above Valle Gran Rey and breathe the fresh mountain air.\n\nAt midday, deeply discover ancient chapels and charming squares full of local history.\n\nIn the afternoon, the path leads to island culture in local museums and traditional houses.\n\nThe day ends at the massive coastal cliffs bathed in the warm, golden light of the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch mit Nebelschwaden in den Bergen. Mittags bietet das Museum einen trockenen Rückzugsort vor den Schauern. Am Nachmittag erkunden wir die wolkenverhangenen Klippen auf vorsichtigen Pfaden. Den Abend lassen wir bei Wellenrauschen in einer überdachten Bar ausklingen.",
+            "hu": "A reggel misztikus ködfoltokkal indul a hegyek között. Délben a múzeum nyújt száraz menedéket a záporok elől. Délután az óvatosan járható, felhőbe burkolózott szirteket fedezzük fel. Az estét a kikötő egyik fedett teraszán zárjuk a hullámok morajlását hallgatva.",
+            "ro": "Dimineața începe mistic, cu fâșii de ceață printre munți. La prânz, muzeul oferă un refugiu uscat împotriva ploii. După-amiaza explorăm stâncile învăluite în nori pe poteci umede, cu prudență. Seara ne relaxăm la o terasă acoperită, ascultând sunetul oceanului.",
+            "en": "The morning starts mystically with fog drifting through the mountains. At midday, the museum provides a dry sanctuary from the showers. In the afternoon, we explore the cloud-shrouded cliffs on careful paths. We end the evening at a covered harbor bar listening to the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de la curva del Queso",
+                "hu": "Mirador de la curva del Queso",
+                "ro": "Mirador de la curva del Queso",
+                "en": "Mirador de la curva del Queso"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wolken dramatisch durch das Tal ziehen, und tragen Sie rutschfeste Schuhe für die nassen Aussichtsplattformen.",
+                "hu": "Figyeld meg a völgyben drámaian átvonuló felhőket, és viselj csúszásmentes cipőt a vizes kilátópontokon való biztonságos mozgáshoz.",
+                "ro": "Observați norii care trec dramatic prin vale și purtați încălțăminte antiderapantă pentru platformele de observație umede.",
+                "en": "Watch the clouds drift dramatically through the valley and wear non-slip shoes for safety on the wet observation platforms."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador César Manrique",
+                "hu": "Mirador César Manrique",
+                "ro": "Mirador César Manrique",
+                "en": "Mirador César Manrique"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die terrassierten Hänge im Regen und nutzen Sie die überdachten Bereiche der Anlage als Windschutz.",
+                "hu": "Élvezd az esőben fürdő teraszos lejtők látványát, és használd az építmény fedett részeit a szél és a csapadék elleni védelemhez.",
+                "ro": "Bucurați-vă de vederea versanților terasați în ploaie și folosiți zonele acoperite ale complexului ca adăpost împotriva vântului.",
+                "en": "Enjoy the view of the terraced slopes in the rain and use the covered areas of the facility as shelter from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Valle Gran Rey View",
+                "hu": "Valle Gran Rey View",
+                "ro": "Valle Gran Rey View",
+                "en": "Valle Gran Rey View"
+              },
+              "tip_5lang": {
+                "de": "Das satte Grün des Tals leuchtet bei Regen besonders intensiv; eine wasserdichte Hülle für Ihre Kamera ist hier unerlässlich.",
+                "hu": "A völgy buja zöldje esőben különösen intenzíven ragyog; a fényképezőgéphez vízálló tok használata itt elengedhetetlen a fotózáshoz.",
+                "ro": "Verdele luxuriant al văii strălucește intens pe ploaie; o husă impermeabilă pentru aparatul foto este esențială aici.",
+                "en": "The lush green of the valley shines intensely in the rain; a waterproof cover for your camera is essential here for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Ermita de Gerián",
+                "hu": "Plaza de la Ermita de Gerián",
+                "ro": "Plaza de la Ermita de Gerián",
+                "en": "Plaza de la Ermita de Gerián"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Vordächern der Kapelle Schutz vor dem Guss und bewundern Sie die Stille des nebligen Hochplateaus.",
+                "hu": "Keress menedéket a kápolna előtetője alatt a zápor elől, és csodáld meg a ködös fennsík különleges, mély csendjét.",
+                "ro": "Căutați adăpost sub streșinile capelei în timpul ploii și admirați liniștea profundă a platoului înalt și muntos.",
+                "en": "Seek shelter under the chapel's eaves during the downpour and admire the profound silence of the misty high plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Mérica",
+                "hu": "Casa de la Mérica",
+                "ro": "Casa de la Mérica",
+                "en": "Casa de la Mérica"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steinmauern bieten einen rauen Charme im Regen; achten Sie auf den schlammigen Untergrund beim Betreten der Ruinen.",
+                "hu": "A történelmi kőfalak nyers bájt árasztanak az esőben; ügyelj a felázott talajra, amikor belépsz a romos épület maradványai közé.",
+                "ro": "Zidurile istorice de piatră emană un farmec brut în ploaie; atenție la solul noroios când intrați printre ruine.",
+                "en": "The historic stone walls offer a raw charm in the rain; watch out for muddy ground when entering the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum «La Alameda»",
+                "hu": "Múzeum «La Alameda»",
+                "ro": "Muzeul «La Alameda»",
+                "en": "Museum «La Alameda»"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in den Ausstellungsräumen, um den heftigsten Regen abzuwarten und mehr über die Inselkultur zu erfahren.",
+                "hu": "Hosszabbítsd meg látogatásodat a kiállítótermekben, hogy megvárd a zápor végét, miközben elmélyedsz a sziget gazdag kultúrájában.",
+                "ro": "Prelungiți vizita în sălile de expoziție pentru a aștepta trecerea ploii, învățând mai multe despre cultura fascinantă a insulei.",
+                "en": "Extend your stay in the exhibition halls to wait out the heaviest rain while learning more about the island's rich culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Riscos de La Mérica",
+                "hu": "Riscos de La Mérica",
+                "ro": "Riscos de La Mérica",
+                "en": "Riscos de La Mérica"
+              },
+              "tip_5lang": {
+                "de": "Die Klippenpfade können bei Nässe sehr rutschig sein; halten Sie sich unbedingt an die markierten Wege und nutzen Sie Wanderstöcke.",
+                "hu": "A szirti ösvények vizesen rendkívül csúszósak lehetnek; maradj a kijelölt úton és használj túrabotot a stabilabb haladáshoz.",
+                "ro": "Potecile de pe stânci pot fi foarte alunecoase când sunt ude; rămâneți pe traseele marcate și folosiți bețe de drumeție.",
+                "en": "The cliff paths can be very slippery when wet; stick strictly to the marked trails and use hiking poles for stability."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft ermöglicht weite Blicke über den Atlantik. Den Mittag verbringen wir im sonnigen Tal bei angenehm milden Temperaturen. Da die Sonne bereits um 17:00 Uhr sinkt, nutzen wir das goldene Licht für die Wanderung. Der Abend wird kühl und erfordert eine warme Jacke.",
+            "hu": "A tiszta téli levegő messzi kilátást enged az Atlanti-óceánra. A delet a napfényes völgyben töltjük, kellemesen enyhe időben. Mivel a nap már 17:00-kor nyugszik, a túrához kihasználjuk az aranyló fényeket. Az este hűvös lesz, réteges öltözet ajánlott.",
+            "ro": "Aerul curat de iarnă permite vederi panoramice peste Atlantic. Prânzul îl petrecem în valea însorită, la temperaturi blânde. Deoarece soarele apune deja la ora 17:00, profităm de lumina aurie pentru drumeție. Seara devine răcoroasă, necesitând haine groase.",
+            "en": "The clear winter air allows for distant views across the Atlantic. We spend midday in the sunny valley in pleasantly mild temperatures. Since the sun sets at 17:00, we use the golden light for the hike. The evening turns cool and requires a warm jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de la curva del Queso",
+                "hu": "Mirador de la curva del Queso",
+                "ro": "Mirador de la curva del Queso",
+                "en": "Mirador de la curva del Queso"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klaren Winterhimmel für Fotos bis zur Nachbarinsel La Palma und tragen Sie eine winddichte Jacke gegen die Brise.",
+                "hu": "Használd ki a tiszta téli eget a szomszédos La Palma szigetéig tartó kilátáshoz, és viselj szélálló kabátot a hűvös fuvallat ellen.",
+                "ro": "Profită de cerul senin de iarnă pentru fotografii până la insula vecină La Palma și poartă o jachetă rezistentă la vânt.",
+                "en": "Take advantage of the clear winter skies for photos reaching as far as La Palma island and wear a windproof jacket against the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador César Manrique",
+                "hu": "Mirador César Manrique",
+                "ro": "Mirador César Manrique",
+                "en": "Mirador César Manrique"
+              },
+              "tip_5lang": {
+                "de": "Der flache Stand der Wintersonne erzeugt lange Schatten im Tal; ideal für dramatische Landschaftsaufnahmen am Vormittag.",
+                "hu": "A téli nap alacsony állása hosszú árnyékokat vet a völgyre; ez ideális a drámai tájképek készítéséhez a délelőtti órákban.",
+                "ro": "Poziția joasă a soarelui de iarnă creează umbre lungi în vale; ideal pentru fotografii de peisaj dramatice în cursul dimineții.",
+                "en": "The low winter sun creates long shadows across the valley; ideal for dramatic landscape photography during the morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Valle Gran Rey View",
+                "hu": "Valle Gran Rey View",
+                "ro": "Valle Gran Rey View",
+                "en": "Valle Gran Rey View"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milden Temperaturen, während Sie den Blick über die Palmenhaine schweifen lassen, die auch im Winter tiefgrün bleiben.",
+                "hu": "Élvezd az enyhe hőmérsékletet, miközben a pálmaligeteket nézed, amelyek a Kanári-szigeteken télen is mélyzöldek maradnak.",
+                "ro": "Bucurați-vă de temperaturile blânde în timp ce priviți plantațiile de palmieri, care rămân verzi și în timpul iernii.",
+                "en": "Enjoy the mild temperatures while looking out over the palm groves, which remain deep green even during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Ermita de Gerián",
+                "hu": "Plaza de la Ermita de Gerián",
+                "ro": "Plaza de la Ermita de Gerián",
+                "en": "Plaza de la Ermita de Gerián"
+              },
+              "tip_5lang": {
+                "de": "Die Stille hier oben ist im Winter besonders friedlich; packen Sie eine Thermoskanne mit Tee für eine wärmende Pause ein.",
+                "hu": "A csend itt fent télen különösen békés; vigyél magaddal teát egy termoszban a melegítő pihenőhöz a fennsíkon.",
+                "ro": "Liniștea de aici este deosebit de pașnică iarna; luați un termos cu ceai fierbinte pentru o pauză revigorantă pe platou.",
+                "en": "The silence up here is especially peaceful in winter; pack a thermos of tea for a warming break on the high plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Mérica",
+                "hu": "Casa de la Mérica",
+                "ro": "Casa de la Mérica",
+                "en": "Casa de la Mérica"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern tagsüber die Wärme der Wintersonne; ein perfekter Ort für ein Picknick, bevor die Sonne früh untergeht.",
+                "hu": "A kövek nappal elnyelik a téli nap melegét; tökéletes hely egy piknikhez, mielőtt a nap korán, délután ötkor nyugovóra térne.",
+                "ro": "Pietrele stochează căldura soarelui de iarnă în timpul zilei; un loc perfect pentru un picnic înainte de apusul timpuriu.",
+                "en": "The stones absorb the winter sun's heat during the day; a perfect spot for a picnic before the sun sets early at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum «La Alameda»",
+                "hu": "Múzeum «La Alameda»",
+                "ro": "Muzeul «La Alameda»",
+                "en": "Museum «La Alameda»"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den späten Nachmittag für den Museumsbesuch, wenn es draußen im Schatten der Klippen bereits merklich kühler wird.",
+                "hu": "A késő délutánt szánd a múzeumlátogatásra, amikor kint a sziklák árnyékában már érezhetően lehűl a levegő.",
+                "ro": "Folosiți după-amiaza târzie pentru vizitarea muzeului, când afară, la umbra stâncilor, devine deja mult mai răcoare.",
+                "en": "Use the late afternoon for the museum visit when it starts getting noticeably cooler outside in the shadow of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Riscos de La Mérica",
+                "hu": "Riscos de La Mérica",
+                "ro": "Riscos de La Mérica",
+                "en": "Riscos de La Mérica"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wanderung rechtzeitig vor 17:00 Uhr, um den spektakulären Wintersonnenuntergang sicher vom Plateau aus zu erleben.",
+                "hu": "Fejezd be a túrát időben 17:00 előtt, hogy a látványos téli naplementét még biztonságban, a fennsíkról csodálhasd meg.",
+                "ro": "Încheiați drumeția înainte de ora 17:00 pentru a admira apusul spectaculos de iarnă în siguranță de pe platou.",
+                "en": "Finish your hike well before 17:00 to witness the spectacular winter sunset safely from the plateau height."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdjen az Ermita del Santónál. A lejtők fantasztikus kilátást nyújtanak a teraszos hegyekre.\n\nDélben további kilátók csábítanak rövid, de annál látványosabb fotószünetekre.\n\nA délután kellemes kikapcsolódást és egy finom pikniket hoz egy zöldellő oázisban.\n\nEgy múzeumlátogatás zárja a túrát, mielőtt lassan leszállna a völgy nyugodt, esti békéje.",
         "ro": "Începeți la Ermita del Santo. Coborârile oferă vederi ample spre pantele terasate.\n\nLa prânz, alte puncte de belvedere invită la scurte și fantastice opriri pentru poze.\n\nDupă-amiaza aduce relaxare excelentă și un picnic delicios într-o oază de natură.\n\nO vizită la muzeu încheie traseul, înainte ca liniștea serii să se aștearnă peste vale.",
         "en": "Start at the remote Ermita del Santo. The steep descents offer views of terraced slopes.\n\nAt midday, several more beautiful viewpoints invite you for fantastic short photo stops.\n\nThe afternoon brings great relaxation and a lovely picnic in a lush natural oasis.\n\nA museum visit perfectly rounds off the tour before the valley's evening calm slowly settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt auf feuchten Straßen mit Vorsicht in den Kurven. Mittags machen wir eine ausgiebige Pause im Museum, um den Regenschauern zu entgehen. Am Nachmittag rollen wir gemütlich durch das neblige Tal. Der Abend ist perfekt für ein warmes Getränk in einer wetterfesten Unterkunft.",
+            "hu": "A túra nedves utakon indul, fokozott óvatossággal a kanyarokban. Délben hosszabb szünetet tartunk a múzeumban a záporok elkerülése végett. Délután kényelmesen gurulunk a ködös völgyben. Az este tökéletes egy meleg italhoz egy időjárásálló szálláson.",
+            "ro": "Călătoria începe pe drumuri umede, cu prudență sporită în curbe. La prânz facem o pauză lungă la muzeu pentru a evita aversa. După-amiaza coborâm relaxat prin valea cețoasă. Seara este perfectă pentru o băutură caldă într-un loc ferit de intemperii.",
+            "en": "The ride starts on damp roads with extra caution in the curves. At midday, we take an extended break at the museum to avoid the showers. In the afternoon, we cruise comfortably through the misty valley. The evening is perfect for a warm drink in weatherproof shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Ermita del Santo",
+                "hu": "Mirador Ermita del Santo",
+                "ro": "Mirador Ermita del Santo",
+                "en": "Mirador Ermita del Santo"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die steilen Straßen zum Aussichtspunkt können bei Nässe tückisch rutschig sein.",
+                "hu": "Indulás előtt ellenőrizd a fékeket; a kilátóhoz vezető meredek utak vizesen rendkívül csúszósak és veszélyesek lehetnek.",
+                "ro": "Verificați frânele înainte de plecare; drumurile abrupte spre punctul de observație pot fi înșelător de alunecoase pe ploaie.",
+                "en": "Check your brakes before starting; the steep roads to the viewpoint can be treacherously slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Retama",
+                "hu": "Mirador de la Retama",
+                "ro": "Mirador de la Retama",
+                "en": "Mirador de la Retama"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter den Bäumen und genießen Sie den Duft der feuchten Erde im Tal.",
+                "hu": "Hirtelen zápor esetén keress menedéket a fák alatt, és élvezd a völgyben felszálló friss, nedves föld illatát.",
+                "ro": "Căutați adăpost sub copaci în cazul unei averse bruște și bucurați-vă de mirosul pământului umed din vale.",
+                "en": "Seek shelter under the trees during a sudden shower and enjoy the scent of the damp earth rising from the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la curva del Queso",
+                "hu": "Mirador de la curva del Queso",
+                "ro": "Mirador de la curva del Queso",
+                "en": "Mirador de la curva del Queso"
+              },
+              "tip_5lang": {
+                "de": "Die Sichtweite kann durch Nebel eingeschränkt sein; schalten Sie Ihr Licht ein, um für Autofahrer besser sichtbar zu sein.",
+                "hu": "A látótávolság a köd miatt csökkenhet; kapcsold be a lámpákat, hogy az autósok számára jobban látható legyél a kanyarokban.",
+                "ro": "Vizibilitatea poate fi redusă din cauza ceții; aprindeți luminile pentru a fi mai vizibili pentru șoferi în curbe.",
+                "en": "Visibility may be reduced by fog; turn on your lights to be more visible to car drivers on the winding roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador César Manrique",
+                "hu": "Mirador César Manrique",
+                "ro": "Mirador César Manrique",
+                "en": "Mirador César Manrique"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Restaurantgebäude am Mirador für eine trockene Pause und bewundern Sie das Wolkenspiel über den Hängen.",
+                "hu": "Használd a kilátó éttermét egy száraz pihenőre, és csodáld meg a lejtők felett zajló látványos felhőjátékot.",
+                "ro": "Folosiți clădirea restaurantului de la Mirador pentru o pauză uscată și admirați jocul norilor deasupra versanților.",
+                "en": "Use the restaurant building at the viewpoint for a dry break and admire the play of clouds over the steep slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "La Tranquilla",
+                "hu": "La Tranquilla",
+                "ro": "La Tranquilla",
+                "en": "La Tranquilla"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallende Steinchen auf dem Weg nach einem Regenfall und fahren Sie in den Kurven besonders vorausschauend.",
+                "hu": "Ügyelj az eső után az útra hulló apró kövekre, és a kanyarokban vezess különösen előrelátóan és óvatosan.",
+                "ro": "Atenție la pietrele căzute pe drum după ploaie și conduceți cu multă prudență în curbe, anticipând obstacolele.",
+                "en": "Watch out for small falling rocks on the path after rain and ride with extra foresight and caution in the curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum «La Alameda»",
+                "hu": "Múzeum «La Alameda»",
+                "ro": "Muzeul «La Alameda»",
+                "en": "Museum «La Alameda»"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die nasse Kleidung kurz zu lüften und sich in den Ausstellungsräumen aufzuwärmen und zu bilden.",
+                "hu": "Ideális hely a nedves ruházat rövid szellőztetésére, miközben a kiállítótermekben felmelegszel és kulturálisan feltöltődsz.",
+                "ro": "Un loc ideal pentru a vă aerisi hainele umede și pentru a vă încălzi în timp ce vizitați sălile de expoziție.",
+                "en": "An ideal place to air out wet gear briefly while warming up and learning in the museum's exhibition rooms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft erfrischt bei der ersten Auffahrt. Mittags genießen wir die wärmende Sonne im Talboden. Da es ab 17:00 Uhr dunkel wird, planen wir eine frühe Rückkehr zum Hafen ein. Der Abend lädt zu einem gemütlichen Essen bei Kerzenschein ein.",
+            "hu": "A hűvös reggeli levegő felfrissít az első emelkedőnél. Délben a völgy alján élvezzük a melengető napsütést. Mivel 17:00-kor sötétedik, korai visszatérést tervezünk a kikötőbe. Az este egy hangulatos gyertyafényes vacsorára csábít.",
+            "ro": "Aerul răcoros de dimineață este revigorant la prima urcare. La prânz ne bucurăm de soarele cald în fundul văii. Deoarece se întunecă la 17:00, planificăm o întoarcere timpurie în port. Seara invită la o cină plăcută la lumina lumânărilor.",
+            "en": "The cool morning air is refreshing during the first ascent. At midday, we enjoy the warming sun at the valley floor. Since it gets dark at 17:00, we plan an early return to the harbor. The evening invites a cozy candlelit dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Ermita del Santo",
+                "hu": "Mirador Ermita del Santo",
+                "ro": "Mirador Ermita del Santo",
+                "en": "Mirador Ermita del Santo"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, da es im Schatten der Berge deutlich kühler ist als in der direkten Wintersonne am Aussichtspunkt.",
+                "hu": "Öltözz rétegesen, mert a hegyek árnyékában jóval hűvösebb van, mint a közvetlen téli napsütésben a kilátóponton.",
+                "ro": "Purtați haine în straturi, deoarece la umbra munților este mult mai răcoare decât în soarele direct de iarnă.",
+                "en": "Wear layers, as it is significantly cooler in the mountain shadows than in the direct winter sun at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Retama",
+                "hu": "Mirador de la Retama",
+                "ro": "Mirador de la Retama",
+                "en": "Mirador de la Retama"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden; eine Sonnenbrille ist auch im Winter für Radfahrer unerlässlich.",
+                "hu": "Az alacsonyan járó nap vakíthat vezetés közben; a napszemüveg télen is elengedhetetlen a biztonságos kerékpározáshoz.",
+                "ro": "Soarele jos poate fi orbitor în timpul condusului; ochelarii de soare sunt esențiali pentru bicicliști și iarna.",
+                "en": "The low sun can be blinding while riding; sunglasses are essential for cyclists even during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la curva del Queso",
+                "hu": "Mirador de la curva del Queso",
+                "ro": "Mirador de la curva del Queso",
+                "en": "Mirador de la curva del Queso"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht; im Winter sind die Konturen der Felsen durch das harte Licht besonders scharf gezeichnet.",
+                "hu": "Élvezd a tiszta kilátást; télen a sziklák kontúrjai a kemény fényben különösen élesen és részletesen rajzolódnak ki.",
+                "ro": "Bucurați-vă de vizibilitatea clară; iarna, contururile stâncilor sunt deosebit de clare datorită luminii puternice.",
+                "en": "Enjoy the clear views; in winter, the contours of the rocks are particularly sharp due to the crisp, hard light."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador César Manrique",
+                "hu": "Mirador César Manrique",
+                "ro": "Mirador César Manrique",
+                "en": "Mirador César Manrique"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem kanarischen Kaffee auf, bevor Sie die schnelle Abfahrt ins Tal bei kühlerem Fahrtwind antreten.",
+                "hu": "Melegedj fel egy kanári kávéval, mielőtt megkezdenéd a gyors ereszkedést a völgybe a hűvös menetszélben.",
+                "ro": "Încălziți-vă cu o cafea canariană înainte de a începe coborârea rapidă în vale, unde vântul va fi destul de rece.",
+                "en": "Warm up with a Canarian coffee before starting the fast descent into the valley with its cool riding wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Tranquilla",
+                "hu": "La Tranquilla",
+                "ro": "La Tranquilla",
+                "en": "La Tranquilla"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Ort im Tal, der auch im Winter viel Sonne abbekommt; perfekt für eine längere Rast im T-Shirt.",
+                "hu": "A völgy egy szélvédett pontja, amely télen is sok napot kap; tökéletes egy hosszabb pihenőre akár pólóban is.",
+                "ro": "Un loc adăpostit în vale care primește mult soare chiar și iarna; perfect pentru o pauză lungă în tricou.",
+                "en": "A sheltered spot in the valley that gets plenty of sun even in winter; perfect for a long break in a T-shirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum «La Alameda»",
+                "hu": "Múzeum «La Alameda»",
+                "ro": "Muzeul «La Alameda»",
+                "en": "Museum «La Alameda»"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Nachmittag, um die kühler werdende Zeit vor dem frühen Sonnenuntergang sinnvoll zu nutzen.",
+                "hu": "Látogass el a múzeumba késő délután, hogy hasznosan töltsd a hűvösebb időt a korai, 17:00-s naplemente előtt.",
+                "ro": "Vizitați muzeul după-amiaza târziu, pentru a folosi util timpul mai răcoros înainte de apusul timpuriu de la ora 17:00.",
+                "en": "Visit the museum in the late afternoon to make good use of the cooling hours before the early sunset at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Az utazás nyugodtan indul a tengerparton. Aztán kényelmesen kocsikázzon fel a hegyre.\n\nDélben élvezze a lenyűgöző panorámákat és az egyedi, varázslatos építészeti csodákat.\n\nDélután rejtett történelmi kincsekhez és a helyi kulturális múzeumhoz vezet az út.\n\nA meleg fényben megcsodálhatja a sziklákat, mielőtt a nap végleg a végtelen óceánba bukik.",
         "ro": "Călătoria începe liniștit pe plajă. Apoi urcați confortabil cu mașina pe munte.\n\nLa prânz vă bucurați de panorame uluitoare și de reperele arhitecturale excepționale.\n\nDupă-amiaza vizitați comori istorice ascunse și interesantul muzeu cultural local.\n\nÎn lumina caldă a serii, admirați stâncile abrupte înainte ca soarele să dispară în ocean.",
         "en": "The road trip starts quietly at the dark beach. Then comfortably cruise up the mountain.\n\nAt midday, enjoy stunning panoramas and exceptionally beautiful architectural highlights.\n\nIn the afternoon, head directly to hidden historical treasures and the local museum.\n\nIn the warm late light, admire the steep cliffs right before the sun sets into the ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt führt sicher durch die dramatische Wolkenlandschaft des Tals. Mittags genießen wir den Blick aus dem Autofenster auf den peitschenden Atlantik. Am Nachmittag erkunden wir die höher gelegenen Aussichtspunkte im Schutz des Wagens. Den Abend verbringen wir trocken in einem gemütlichen Restaurant.",
+            "hu": "Az autóút biztonságosan vezet át a völgy drámai felhőin. Délben az autó ablakából csodáljuk a korbácsoló Atlanti-óceánt. Délután a magasabban fekvő kilátópontokat fedezzük fel az autó nyújtotta védelemben. Az estét szárazon, egy hangulatos étteremben töltjük.",
+            "ro": "Călătoria cu mașina trece în siguranță prin peisajul dramatic de nori al văii. La prânz admirăm din mașină Atlanticul agitat. După-amiaza explorăm punctele de observație înalte, protejați în vehicul. Seara o petrecem la adăpost, într-un restaurant primitor.",
+            "en": "The drive leads safely through the valley's dramatic cloudscapes. At midday, we enjoy the view of the churning Atlantic from the car window. In the afternoon, we explore the high viewpoints protected by the car. We spend the evening dry in a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Heredia",
+                "hu": "Playa de Heredia",
+                "ro": "Playa de Heredia",
+                "en": "Playa de Heredia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die tosende Brandung aus der Sicherheit Ihres Autos und genießen Sie die rohe Gewalt der Natur bei Regen.",
+                "hu": "Figyeld a dübörgő hullámverést az autó biztonságából, és élvezd a természet nyers erejét a szakadó esőben.",
+                "ro": "Observați valurile puternice din siguranța mașinii și bucurați-vă de forța brută a naturii în timpul ploii.",
+                "en": "Watch the thundering surf from the safety of your car and enjoy nature's raw power during the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Ermita del Santo",
+                "hu": "Mirador Ermita del Santo",
+                "ro": "Mirador Ermita del Santo",
+                "en": "Mirador Ermita del Santo"
+              },
+              "tip_5lang": {
+                "de": "Die Serpentinen können bei Regen rutschig sein; fahren Sie langsam und nutzen Sie die Parkplätze direkt am Aussichtspunkt.",
+                "hu": "A szerpentinek esőben csúszósak lehetnek; vezess lassan és használd a közvetlenül a kilátó mellett található parkolókat.",
+                "ro": "Serpentinele pot fi alunecoase pe ploaie; conduceți încet și folosiți parcările situate chiar lângă punctul de observație.",
+                "en": "The serpentines can be slippery in the rain; drive slowly and use the parking spots directly at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "La Tranquilla",
+                "hu": "La Tranquilla",
+                "ro": "La Tranquilla",
+                "en": "La Tranquilla"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Aussichtspunkt lohnt sich, um die nebligen Abgründe des Tals kurzzeitig zu bestaunen.",
+                "hu": "Érdemes egy rövid sprintet tenni az autótól a kilátóig, hogy megcsodáld a völgy ködbe vesző, misztikus mélységeit.",
+                "ro": "O scurtă fugă de la mașină până la punctul de observație merită pentru a admira abisurile cețoase ale văii.",
+                "en": "A quick sprint from the car to the viewpoint is worth it to briefly marvel at the valley's misty, mystical depths."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador César Manrique",
+                "hu": "Mirador César Manrique",
+                "ro": "Mirador César Manrique",
+                "en": "Mirador César Manrique"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang des Gebäudes, um trocken ins Innere zu gelangen und den Panoramablick wettergeschützt zu genießen.",
+                "hu": "Parkolj közel az épület bejáratához, hogy szárazon juss be, és élvezd a panorámát az időjárástól védett belső térből.",
+                "ro": "Parcați aproape de intrarea în clădire pentru a intra fără să vă udați și admirați panorama protejați de intemperii.",
+                "en": "Park close to the building entrance to stay dry and enjoy the panoramic view from the weather-protected interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Ermita de Gerián",
+                "hu": "Plaza de la Ermita de Gerián",
+                "ro": "Plaza de la Ermita de Gerián",
+                "en": "Plaza de la Ermita de Gerián"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Wagen und lassen Sie die melancholische Stimmung der Kapelle im Nebel auf sich wirken.",
+                "hu": "Heves esőben maradj az autóban, és hagyd, hogy magával ragadjon a ködben álló kápolna melankolikus, magányos hangulata.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și lăsați-vă absorbiți de atmosfera melancolică a capelei în ceață.",
+                "en": "During heavy rain, stay in the car and soak in the melancholy atmosphere of the chapel standing in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Valle Gran Rey View",
+                "hu": "Valle Gran Rey View",
+                "ro": "Valle Gran Rey View",
+                "en": "Valle Gran Rey View"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Tals wirken durch die nasse Fahrbahn und die Wolken im Rückspiegel fast wie ein gemaltes Kunstwerk.",
+                "hu": "A völgy színei a vizes úttest és a felhők tükröződésében szinte egy festett műalkotásnak tűnnek a visszapillantó tükörben.",
+                "ro": "Culorile văii par aproape ca o operă de artă pictată, reflectate de drumul umed și de norii din oglinda retrovizoare.",
+                "en": "The colors of the valley look almost like a painted artwork reflected by the wet road and the clouds in your rearview mirror."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Mérica",
+                "hu": "Casa de la Mérica",
+                "ro": "Casa de la Mérica",
+                "en": "Casa de la Mérica"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpausen für einen kurzen Abstecher zu den Ruinen; ein Regenschirm ist wegen des Winds nur bedingt hilfreich.",
+                "hu": "Használd ki az esőszüneteket a romok felfedezésére; az erős szél miatt az esernyő itt csak korlátozottan használható.",
+                "ro": "Profitați de pauzele dintre averse pentru o scurtă vizită la ruine; umbrela este de puțin ajutor din cauza vântului.",
+                "en": "Use the breaks in the rain for a short detour to the ruins; an umbrella is of limited use here due to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Riscos de La Mérica",
+                "hu": "Riscos de La Mérica",
+                "ro": "Riscos de La Mérica",
+                "en": "Riscos de La Mérica"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Aussteigen bei extremem Wind an den Kanten; die Aussicht ist auch durch die Windschutzscheibe beeindruckend.",
+                "hu": "Erős szélben kerüld a kiszállást a sziklák szélén; a kilátás a szélvédőn keresztül is lenyűgöző és biztonságosabb.",
+                "ro": "Evitați coborârea din mașină la marginea stâncilor în caz de vânt puternic; vederea este impresionantă și prin parbriz.",
+                "en": "Avoid getting out of the car at the cliff edges in high winds; the view is impressive and safer through the windshield."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour startet bei strahlendem Sonnenschein und klarer Winterluft. Den Mittag verbringen wir an der Küste, wo es auch im Winter sommerlich warm sein kann. Wir nutzen das perfekte Licht des Nachmittags für Fotos. Da es um 17:00 Uhr dunkelt, endet die Fahrt bei einem herrlichen Sonnenuntergang.",
+            "hu": "A túra ragyogó napsütésben és tiszta téli levegőben indul. A delet a tengerparton töltjük, ahol télen is nyáriasan meleg lehet. A délutáni tökéletes fényeket fotózásra használjuk. Mivel 17:00-kor sötétedik, az út egy csodás naplementével zárul.",
+            "ro": "Turul începe sub un soare strălucitor și un aer curat de iarnă. Prânzul îl petrecem pe coastă, unde poate fi cald ca vara chiar și iarna. Profităm de lumina perfectă a după-amiezii pentru poze. Deoarece se întunecă la 17:00, drumul se încheie cu un apus superb.",
+            "en": "The tour starts in brilliant sunshine and crisp winter air. We spend midday at the coast, where it can be summer-warm even in winter. We use the perfect afternoon light for photos. Since it gets dark at 17:00, the drive ends with a magnificent sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Heredia",
+                "hu": "Playa de Heredia",
+                "ro": "Playa de Heredia",
+                "en": "Playa de Heredia"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist am Strand angenehm mild; ideal für einen langen Spaziergang, ohne die Hitze des Sommers.",
+                "hu": "A téli napsütés a tengerparton kellemesen enyhe; ideális egy hosszú sétához a nyári hőség megterhelő érzése nélkül.",
+                "ro": "Soarele de iarnă este plăcut și blând pe plajă; ideal pentru o plimbare lungă fără căldura toridă a verii.",
+                "en": "The winter sun is pleasantly mild at the beach; ideal for a long walk without the oppressive heat of summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Ermita del Santo",
+                "hu": "Mirador Ermita del Santo",
+                "ro": "Mirador Ermita del Santo",
+                "en": "Mirador Ermita del Santo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Nachbarinseln; im Winter ist die Luft oft sauberer und die Fernsicht spektakulär.",
+                "hu": "Élvezd a tiszta kilátást a szomszédos szigetekre; télen a levegő gyakran tisztább, így a látótávolság lenyűgöző.",
+                "ro": "Bucurați-vă de vederea clară spre insulele vecine; iarna aerul este adesea mai curat, iar vizibilitatea este spectaculoasă.",
+                "en": "Enjoy the clear views of neighboring islands; in winter, the air is often cleaner, making for spectacular visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "La Tranquilla",
+                "hu": "La Tranquilla",
+                "ro": "La Tranquilla",
+                "en": "La Tranquilla"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet das Tal in einem warmen Goldton; ein perfekter Moment für Landschaftsfotografie.",
+                "hu": "Az alacsonyan járó téli nap meleg arany tónusokkal világítja meg a völgyet; tökéletes pillanat a tájfotózáshoz.",
+                "ro": "Soarele jos de iarnă luminează valea în tonuri calde de auriu; un moment perfect pentru fotografia de peisaj.",
+                "en": "The low winter sun illuminates the valley in warm golden tones; a perfect moment for professional landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador César Manrique",
+                "hu": "Mirador César Manrique",
+                "ro": "Mirador César Manrique",
+                "en": "Mirador César Manrique"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger überlaufen; genießen Sie die Architektur und den Ausblick in aller Ruhe bei einem Heißgetränk.",
+                "hu": "Télen itt jóval kisebb a tömeg; élvezd az építészetet és a kilátást teljes nyugalomban egy forró ital mellett.",
+                "ro": "Iarna este mai puțin aglomerat aici; bucurați-vă de arhitectură și de priveliște în liniște, cu o băutură caldă.",
+                "en": "It's less crowded here in winter; enjoy the architecture and the view in total peace with a warm drink in hand."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la Ermita de Gerián",
+                "hu": "Plaza de la Ermita de Gerián",
+                "ro": "Plaza de la Ermita de Gerián",
+                "en": "Plaza de la Ermita de Gerián"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist hier oben besonders weich und schmeichelt den alten Gemäuern der Kapelle.",
+                "hu": "A kora délutáni fények itt fent különösen lágyak, és szépen kiemelik a kápolna ősi, patinás falait.",
+                "ro": "Lumina de după-amiază devreme este deosebit de blândă aici și pune în valoare zidurile vechi ale capelei.",
+                "en": "The early afternoon light is particularly soft up here, beautifully highlighting the chapel's ancient stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Valle Gran Rey View",
+                "hu": "Valle Gran Rey View",
+                "ro": "Valle Gran Rey View",
+                "en": "Valle Gran Rey View"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Schatten, die bereits ab 16:00 Uhr ins Tal kriechen; nutzen Sie die Zeit davor für Ihre besten Aufnahmen.",
+                "hu": "Ügyelj az árnyékokra, amelyek már 16:00 után elérik a völgyet; használd ki az időt előtte a legjobb felvételek elkészítéséhez.",
+                "ro": "Atenție la umbrele care încep să cuprindă valea încă de la ora 16:00; profitați de timpul de dinainte pentru poze.",
+                "en": "Watch for the shadows creeping into the valley as early as 16:00; use the time before that for your best shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Mérica",
+                "hu": "Casa de la Mérica",
+                "ro": "Casa de la Mérica",
+                "en": "Casa de la Mérica"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft lässt die Texturen der Steine und die umliegende Natur im Winter besonders plastisch erscheinen.",
+                "hu": "A tiszta levegő télen különösen plasztikussá teszi a kövek textúráját és a környező természet minden apró részletét.",
+                "ro": "Aerul curat face ca textura pietrelor și natura înconjurătoare să pară deosebit de clare și tridimensionale iarna.",
+                "en": "The clear air makes the stone textures and the surrounding nature appear particularly vivid and three-dimensional in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Riscos de La Mérica",
+                "hu": "Riscos de La Mérica",
+                "ro": "Riscos de La Mérica",
+                "en": "Riscos de La Mérica"
+              },
+              "tip_5lang": {
+                "de": "Bereiten Sie sich auf den Sonnenuntergang um 17:00 Uhr vor; dies ist einer der besten Orte der Insel, um ihn zu beobachten.",
+                "hu": "Készülj fel a 17:00-s naplementére; ez a sziget egyik legjobb pontja, hogy megcsodáld az ég alacsony téli fényeit.",
+                "ro": "Pregătiți-vă pentru apusul de la ora 17:00; acesta este unul dintre cele mai bune locuri de pe insulă pentru a-l observa.",
+                "en": "Prepare for the 17:00 sunset; this is one of the best spots on the island to watch the sun dip below the horizon."
+              }
+            }
+          ]
+        }
       }
     }
   }

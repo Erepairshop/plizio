@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy pihentető sétával a nyugati partokon, érezve a puha homokot a Plazhi Panorama-nál. Ahogy a nap melegszik, végigsétál az élénk központi strandokon, élvezve a frissítő tengeri szellőt. A délután változatosságot kínál, ahogy a keleti nyilvános szakaszok felé halad. Zárja a napot a védett Ramsar-terület természeti csodáinak felfedezésével, figyelve a naplementét a vizes élőhelyek felett.",
         "ro": "Începeți dimineața cu o plimbare relaxantă de-a lungul țărmurilor vestice, simțind nisipul fin. Pe măsură ce ziua se încălzește, veți rătăci prin plajele centrale pline de viață, bucurându-vă de briza mării. După-amiaza oferă o schimbare de ritm în timp ce mergeți spre zonele publice estice. Încheiați-vă ziua explorând minunile naturale ale zonei protejate Ramsar, privind apusul de soare peste zonele umede.",
         "en": "Begin your morning with a relaxing stroll along the western shores, feeling the soft sand at Plazhi Panorama. As the day warms up, you'll wander through the lively central beaches, mingling with locals and enjoying the refreshing sea breeze. The afternoon offers a change of pace as you walk towards the eastern public stretches. Conclude your day exploring the natural wonders of the protected Ramsar Site, watching the sunset over the wetlands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie die dramatische Seite der Adria, wenn der Regen auf das Meer peitscht. Mittags finden Sie in den überdachten Bereichen der Strandpromenade Schutz vor den Schauern. Am Nachmittag bietet der Spaziergang zum Ramsar-Gebiet trotz Nässe eine mystische Atmosphäre in den Lagunen. Abends lassen Sie den Tag gemütlich in einer der wetterfesten Bars im Zentrum ausklingen.",
+            "hu": "Reggel az Adriai-tenger drámai arcát láthatja, ahogy az eső mossa a partot. Délben a sétány fedett teraszai nyújtanak menedéket a záporok elől. Délután a Ramsar-terület lagúnái misztikus hangulatot árasztanak a nedves időben is, érdemes vízálló cipőt húzni. Este a városközpont egyik védett, meleg bárjában pihenhet meg a séta után, élvezve a tenger morajlását a távolból.",
+            "ro": "Dimineața, admirați latura dramatică a Adriaticii în timp ce ploaia cade peste mare. La prânz, găsiți adăpost pe terasele acoperite de-a lungul promenadei pentru a evita aversele. După-amiaza, plimbarea spre situl Ramsar oferă o atmosferă mistică printre lagune, în ciuda umezelii. Seara, încheiați ziua într-un mod relaxant într-unul dintre barurile protejate din centrul stațiunii.",
+            "en": "In the morning, witness the dramatic side of the Adriatic as rain hits the shore. At noon, find shelter under the covered terraces along the promenade to stay dry. In the afternoon, the lagoons of the Ramsar site offer a mystical atmosphere even in wet weather; waterproof shoes are a must. In the evening, retreat to a cozy, weather-protected bar in the center to relax after your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plazhi Panorama",
+                "hu": "Plazhi Panorama",
+                "ro": "Plazhi Panorama",
+                "en": "Plazhi Panorama"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die aufgewühlte, dunkle See unter den festen Terrassendächern; die salzige Luft ist bei Regen besonders intensiv und reinigend für die Atemwege.",
+                "hu": "Élvezze a felkorbácsolt, sötét tenger látványát a stabil tető alól; az esős időben a sós tengeri levegő különösen intenzív és tisztító hatású a légutakra, használja ki a frissességet.",
+                "ro": "Bucurați-vă de priveliștea mării agitate sub acoperișurile teraselor; aerul sărat este extrem de intens în timpul ploii, fiind benefic pentru respirație dacă purtați o jachetă impermeabilă.",
+                "en": "Enjoy the wide view of the turbulent, dark sea from under the solid terrace roofs; the salty air is particularly intense during rain, making it very refreshing if you have a raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi Jakaj",
+                "hu": "Plazhi Jakaj",
+                "ro": "Plazhi Jakaj",
+                "en": "Plazhi Jakaj"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf dem Sand und suchen Sie Schutz in den kleinen Strandpavillons, um die Ruhe der fast menschenleeren Küste bei diesem grauen Wetter zu spüren.",
+                "hu": "Figyelje az esőcseppeket a homokon a kis parti pavilonok védelméből; a szürke időben megtapasztalhatja a majdnem teljesen néptelen tengerpart különleges nyugalmát és csendjét.",
+                "ro": "Observați picăturile de ploaie pe nisip din adăpostul micilor pavilioane de pe plajă; pe vreme gri, puteți simți liniștea rară a coastei aproape pustii, departe de agitația obișnuită.",
+                "en": "Watch the raindrops hit the sand from the shelter of the small beach pavilions; in this grey weather, you can experience the rare tranquility of the almost deserted coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Public Beach",
+                "hu": "Public Beach",
+                "ro": "Public Beach",
+                "en": "Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege für einen Spaziergang, da der nasse Sand weich und rutschig sein kann; die Brandung wirkt bei Regen deutlich kraftvoller als an sonnigen Tagen.",
+                "hu": "Használja a kiépített utakat a sétához, mivel a nedves homok csúszós és süppedős lehet; az esőben a hullámtörés sokkal erőteljesebbnek tűnik, mint a megszokott napsütéses napokon.",
+                "ro": "Folosiți aleile pavate pentru plimbare, deoarece nisipul ud poate fi alunecos; valurile care se sparg la mal par mult mai puternice în timpul ploii decât în zilele însorite de vară.",
+                "en": "Use the paved paths for your walk as the wet sand can be slippery and soft; the surf appears much more powerful during the rain than it does on typical sunny summer days."
+              }
+            },
+            {
+              "name": {
+                "de": "Stela Beach",
+                "hu": "Stela Beach",
+                "ro": "Stela Beach",
+                "en": "Stela Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in einem der nahegelegenen Cafés mit Meerblick, um die stürmische Atmosphäre bei einem warmen Getränk trocken und sicher aus der ersten Reihe zu beobachten.",
+                "hu": "Keressen menedéket a közeli tengerre néző kávézók egyikében, hogy a viharos hangulatot egy meleg ital mellől, szárazon és biztonságban, az első sorból figyelhesse meg a parton.",
+                "ro": "Căutați refugiu într-una dintre cafenelele din apropiere cu vedere la mare, pentru a observa atmosfera furtunoasă de la fereastră, la adăpost, în timp ce savurați o băutură caldă.",
+                "en": "Seek refuge in one of the nearby cafes with a sea view to observe the stormy atmosphere safely from the front row while staying dry and enjoying a warm local drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazh Publik",
+                "hu": "Plazh Publik",
+                "ro": "Plazh Publik",
+                "en": "Plazh Publik"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Gang entlang der Wasserkante lohnt sich für die raue Ästhetik, doch achten Sie auf Pfützen auf den Zugangswegen und halten Sie einen Schirm gegen den Küstenwind fest.",
+                "hu": "A nyers esztétika miatt érdemes egy rövid sétát tenni a vízparton, de figyeljen a tócsákra a bevezető utakon, és tartsuk szorosan az esernyőt az erős tengeri szél miatt.",
+                "ro": "O scurtă plimbare pe mal merită pentru estetica brută a locului; atenție la bălțile de pe căile de acces și țineți umbrela strâns din cauza vântului puternic de pe coastă.",
+                "en": "A short walk along the water's edge is worth it for the raw aesthetic, but watch out for puddles on the access paths and hold your umbrella firmly against the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramsar Site",
+                "hu": "Ramsar Site",
+                "ro": "Ramsar Site",
+                "en": "Ramsar Site"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt im Regen wie eine verwunschene Welt; tragen Sie unbedingt Gummistiefel, da die Naturpfade aufweichen können, und beobachten Sie die Wasservögel im grauen Dunst.",
+                "hu": "A lagúna az esőben elvarázsolt világnak tűnik; viseljen gumicsizmát, mert a természetes ösvények felázhatnak, és figyelje meg a vízimadarakat a szürke ködös párában a nádas mentén.",
+                "ro": "Laguna pare o lume fermecată în ploaie; purtați cizme de cauciuc deoarece potecile naturale se pot noroi și observați păsările acvatice care se adăpostesc prin stufăriș.",
+                "en": "The lagoon looks like an enchanted world in the rain; be sure to wear rubber boots as the natural paths can get muddy, and watch the water birds through the grey mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens begrüßt Sie die klare, kalte Winterluft am Strand von Velipoja. Mittags steht die Sonne tief und taucht die Küste in ein sanftes, goldenes Licht, das zum Fotografieren einlädt. Nachmittags ist die beste Zeit für eine Wanderung im Ramsar-Gebiet, bevor es gegen 17:00 Uhr dunkel wird. Abends kehrt in der Siedlung Ruhe ein, perfekt für ein herzhaftes Essen in einem beheizten Restaurant.",
+            "hu": "Reggel a tiszta, hideg téli levegő üdvözli Önt Velipoja strandján, ami frissítően hat a lélekre. Délben az alacsonyan járó nap arany fénybe vonja a partot, ideális idő a fotózáshoz. Délután érdemes felfedezni a Ramsar-területet, de készüljön fel, hogy 17:00 körül már sötétedik. Este a település elcsendesedik, ilyenkor a legjobb egy fűtött helyi étteremben melegedni.",
+            "ro": "Dimineața, aerul rece și curat de iarnă vă întâmpină pe plaja din Velipoja. La prânz, soarele jos scaldă coasta într-o lumină aurie blândă, perfectă pentru fotografii spectaculoase. După-amiaza este momentul ideal pentru o plimbare în zona Ramsar înainte de apusul de la ora 17:00. Seara, liniștea cuprinde stațiunea, fiind ocazia perfectă pentru o cină caldă la un restaurant.",
+            "en": "In the morning, the clear, cold winter air greets you on Velipoja beach. At noon, the low sun bathes the coast in a gentle golden light, perfect for photography. The afternoon is the best time to explore the Ramsar area before it gets dark around 5:00 PM. In the evening, the settlement becomes very quiet, making it the perfect time for a hearty meal in a heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plazhi Panorama",
+                "hu": "Plazhi Panorama",
+                "ro": "Plazhi Panorama",
+                "en": "Plazhi Panorama"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht bis zum Horizont, die im Winter oft klarer ist als im Sommer; tragen Sie eine winddichte Jacke gegen die kühle Brise, die direkt vom offenen Meer kommt.",
+                "hu": "Élvezze a horizontig érő kilátást, amely télen gyakran tisztább, mint nyáron; viseljen szélálló kabátot a hűvös szellő ellen, amely közvetlenül a nyílt tenger felől érkezik a partra.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la orizont, care iarna este adesea mai bună; purtați o jachetă rezistentă la vânt împotriva brizei reci care vine direct dinspre largul mării.",
+                "en": "Enjoy the wide view to the horizon, which is often clearer in winter than in summer; wear a windproof jacket against the cool breeze coming directly from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi Jakaj",
+                "hu": "Plazhi Jakaj",
+                "ro": "Plazhi Jakaj",
+                "en": "Plazhi Jakaj"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang im weichen Sand fördert die Entspannung; achten Sie auf warme Socken und festes Schuhwerk, da der Boden im Winter die Feuchtigkeit der Nacht lange speichert.",
+                "hu": "Egy magányos séta a puha homokban segíti a kikapcsolódást; ügyeljen a meleg zoknira és a zárt cipőre, mivel a talaj télen sokáig megőrzi az éjszakai nyirkosságot és hideget.",
+                "ro": "O plimbare solitară pe nisipul moale ajută la relaxare; asigurați-vă că aveți șosete groase și încălțăminte solidă, deoarece solul reține mult timp umiditatea rece a nopții.",
+                "en": "A solitary walk in the soft sand promotes relaxation; make sure to wear warm socks and sturdy shoes as the ground retains the cold moisture from the night for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Public Beach",
+                "hu": "Public Beach",
+                "ro": "Public Beach",
+                "en": "Public Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der tiefstehenden Wintersonne auf den Wellen; die Reflexionen sind zu dieser Jahreszeit besonders intensiv, vergessen Sie daher trotz Kälte Ihre Sonnenbrille nicht.",
+                "hu": "Figyelje meg az alacsonyan járó téli nap játékát a hullámokon; a fényvisszaverődés ilyenkor különösen erős, ezért a hideg ellenére se felejtse el otthon a napszemüvegét a sétához.",
+                "ro": "Observați jocul soarelui de iarnă pe valuri; reflexiile sunt deosebit de intense în acest sezon, așa că nu vă uitați ochelarii de soare, chiar dacă temperaturile sunt scăzute.",
+                "en": "Watch the play of the low-lying winter sun on the waves; the reflections are particularly intense at this time of year, so don't forget your sunglasses despite the cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Stela Beach",
+                "hu": "Stela Beach",
+                "ro": "Stela Beach",
+                "en": "Stela Beach"
+              },
+              "tip_5lang": {
+                "de": "Die geschlossenen Strandbars wirken wie eine verlassene Kulisse; nutzen Sie die Stille für einen meditativen Moment und wärmen Sie sich danach schnell in einem der wenigen offenen Cafés auf.",
+                "hu": "A zárva tartó strandbárok olyanok, mint egy elhagyatott díszlet; használja ki a csendet egy meditatív pillanatra, majd melegedjen fel a kevés nyitva tartó kávézók egyikében.",
+                "ro": "Barurile închise de pe plajă par un decor abandonat; folosiți liniștea pentru un moment meditativ, apoi încălziți-vă rapid într-una dintre puținele cafenele deschise în zonă.",
+                "en": "The closed beach bars look like an abandoned movie set; use the silence for a meditative moment and then warm up quickly in one of the few open cafes nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazh Publik",
+                "hu": "Plazh Publik",
+                "ro": "Plazh Publik",
+                "en": "Plazh Publik"
+              },
+              "tip_5lang": {
+                "de": "Sammeln Sie Muscheln, die der Wintersturm an Land gespült hat; der Strand ist nun weitläufig und leer, was einen ganz eigenen, friedlichen Charme versprüht, weit weg vom Sommertrubel.",
+                "hu": "Gyűjtsön kagylókat, amiket a téli viharok sodortak a partra; a strand most tágas és üres, ami egy különleges, békés bájt kölcsönöz a helynek a nyári tömegtől távol.",
+                "ro": "Adunați scoici aduse la mal de furtunile de iarnă; plaja este acum vastă și goală, oferind un farmec pașnic și aparte, departe de aglomerația zgomotoasă a verii.",
+                "en": "Collect seashells washed ashore by winter storms; the beach is now vast and empty, which gives it its own peaceful charm, far away from the busy summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramsar Site",
+                "hu": "Ramsar Site",
+                "ro": "Ramsar Site",
+                "en": "Ramsar Site"
+              },
+              "tip_5lang": {
+                "de": "Tausende Zugvögel überwintern hier; bringen Sie ein Fernglas mit und beenden Sie die Tour vor Sonnenuntergang um 17 Uhr, da es im Marschland nach Einbruch der Dunkelheit sehr frostig wird.",
+                "hu": "Több ezer költöző madár telel itt; hozzon távcsövet a megfigyeléshez, és fejezze be a túrát 17 óra előtt, mert a mocsaras területen sötétedés után hirtelen lehűl a levegő.",
+                "ro": "Mii de păsări migratoare iernează aici; aduceți un binoclu și încheiați turul înainte de apusul de la ora 17:00, deoarece în zonele mlaștinoase se lasă gerul imediat după lăsarea serii.",
+                "en": "Thousands of migratory birds winter here; bring binoculars and finish your tour before sunset at 5 PM, as it gets very frosty in the marshlands once darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen a csendes nyugati szélétől, a Gjoleka partjától, élvezve a hűvös reggeli levegőt, miközben elhalad a strandkomplexumok mellett. A dél a Velipoja strand nyüzsgő szívébe hozza, ahol megmártózhat a tengerben. Délután kerékpározzon a homokos utakon a tágas keleti partok felé. Az utazás a nyugodt Ramsar-területnél ér véget, amely tökéletes hely a lábak pihentetésére és a természettel való kapcsolatteremtésre.",
         "ro": "Pedalați de la marginea liniștită a vestului la Gjoleka, bucurându-vă de aerul răcoros al dimineții. La prânz veți ajunge în inima vibrantă a plajei Velipoja, unde puteți face o baie răcoritoare. După-amiaza, mergeți cu bicicleta de-a lungul cărărilor nisipoase către țărmurile estice expansive. Călătoria se încheie la zona liniștită Ramsar, un loc perfect pentru a vă odihni picioarele și a vă conecta cu natura.",
         "en": "Pedal your way from the quiet western edge at Gjoleka, enjoying the cool morning air as you glide past the beach complexes. Midday brings you to the vibrant heart of Velipoja Beach, where you can easily park your bike and take a dip. In the afternoon, cycle along the sandy paths towards the expansive eastern shores. Your ride finishes at the serene Ramsar Site, a perfect place to rest your legs and connect with nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig über die nassen Straßen von Velipoja. Mittags bietet die kurze Fahrt zwischen den Strandabschnitten eine erfrischende Abkühlung, sofern Sie gute Regenkleidung tragen. Nachmittags erkunden Sie die Lagunenwege, die bei Regen rutschig sein können. Abends stellen Sie das Rad sicher unter und wärmen sich bei einer Tasse albanischen Tees in einem trockenen Lokal auf.",
+            "hu": "Reggel óvatosan tekerjen át Velipoja vizes utcáin a csúszásveszély miatt. Délben a strandok közötti rövid szakaszok felfrissülést hoznak, ha megfelelő esőruházatot visel. Délután fedezze fel a lagúnák menti utakat, de vigyázzon a sárral és a csúszós szakaszokkal. Este tegye biztonságos, fedett helyre a kerékpárt, és melegedjen fel egy csésze albán teával egy száraz helyi bisztróban.",
+            "ro": "Dimineața, pedalați cu atenție pe străzile ude din Velipoja. La prânz, scurta plimbare între secțiunile de plajă oferă o răcorire plăcută, cu condiția să purtați echipament impermeabil. După-amiaza, explorați potecile lagunei, care pot fi alunecoase când plouă. Seara, lăsați bicicleta la adăpost și încălziți-vă cu un ceai albanez într-un local primitor și uscat.",
+            "en": "In the morning, cycle carefully through the wet streets of Velipoja. At noon, the short ride between beach sections provides a refreshing break if you wear proper rain gear. In the afternoon, explore the lagoon paths, which can be slippery in the rain; watch out for mud. In the evening, park your bike securely under cover and warm up with a cup of Albanian tea in a dry local bistro."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gjoleka",
+                "hu": "Gjoleka",
+                "ro": "Gjoleka",
+                "en": "Gjoleka"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierte Straße ist hier bei Regen sicherer als die Sandpisten; prüfen Sie Ihre Bremsen vor der Abfahrt, da der Bremsweg auf nassem Untergrund deutlich länger ist.",
+                "hu": "Az aszfaltozott út esőben biztonságosabb itt, mint a homokos ösvények; indulás előtt ellenőrizze a fékeket, mert vizes úton a féktávolság jelentősen meghosszabbodik.",
+                "ro": "Drumul asfaltat este mai sigur aici pe ploaie decât potecile cu nisip; verificați frânele înainte de plecare, deoarece distanța de frânare este mult mai mare pe carosabil ud.",
+                "en": "The asphalt road is safer here in the rain than the sandy paths; check your brakes before starting, as the stopping distance is significantly longer on wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Kompleksi Elita",
+                "hu": "Kompleksi Elita",
+                "ro": "Kompleksi Elita",
+                "en": "Kompleksi Elita"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für eine kurze Trinkpause; die Gebäude bieten hier guten Windschutz, was das Radfahren bei böigem Regenwetter deutlich erleichtert.",
+                "hu": "Használja a fedett bejárati részeket egy rövid ivószünethez; az épületek jó szélfogók itt, ami jelentősen megkönnyíti a tekerést a széllökésekkel teli esős időben.",
+                "ro": "Folosiți zona de intrare acoperită pentru o scurtă pauză de hidratare; clădirile oferă o protecție bună împotriva vântului, facilitând pedalarea pe timp de ploaie cu rafale.",
+                "en": "Use the covered entrance areas for a quick water break; the buildings provide good wind protection, making cycling much easier during gusty, rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Velipoja Beach",
+                "hu": "Velipoja Beach",
+                "ro": "Velipoja Beach",
+                "en": "Velipoja Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Promenade, um Spritzwasser zu vermeiden; der Blick auf die graue Adria ist vom Fahrrad aus besonders weitläufig, wenn man zügig an den Schauern vorbeifährt.",
+                "hu": "Hajtson lassan a sétányon, hogy elkerülje a felcsapódó vizet; a szürke Adria látványa a kerékpárról nézve különösen tágasnak tűnik, ha gyorsan szeretne áthaladni a záporok között.",
+                "ro": "Pedalați încet pe promenadă pentru a evita stropirea; vederea spre marea gri este spectaculoasă de pe bicicletă, permițându-vă să treceți rapid printre zonele cu averse.",
+                "en": "Ride slowly on the promenade to avoid splashing water; the view of the grey Adriatic is particularly expansive from a bike, allowing you to move quickly between rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi Panorama",
+                "hu": "Plazhi Panorama",
+                "ro": "Plazhi Panorama",
+                "en": "Plazhi Panorama"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach eines Kiosks ab und genießen Sie den Panoramablick; achten Sie auf glatte Holzstege, die bei Nässe extrem gefährlich für Fahrradreifen sind.",
+                "hu": "Állítsa le a bringát egy kioszk előteteje alá, és élvezze a panorámát; ügyeljen a sima fapadlókra, amelyek vizesen rendkívül veszélyesek és csúszósak a kerékpárgumik számára.",
+                "ro": "Parcați bicicleta sub streașina unui chioșc și admirați panorama; atenție la platformele de lemn, care devin extrem de alunecoase pentru anvelopele bicicletei când sunt ude.",
+                "en": "Park your bike under the awning of a kiosk and enjoy the panoramic view; watch out for smooth wooden walkways, which are extremely dangerous for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Stela Beach",
+                "hu": "Stela Beach",
+                "ro": "Stela Beach",
+                "en": "Stela Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen Zwischenstopp im Trockenen; prüfen Sie Ihre Beleuchtung, da die Sichtbarkeit bei starkem Regen für andere Verkehrsteilnehmer stark eingeschränkt ist.",
+                "hu": "Ideális hely egy száraz pihenőhöz; ellenőrizze a világítást, mivel erős esőben a látási viszonyok korlátozottak, és fontos, hogy a többi közlekedő jól láthassa Önt.",
+                "ro": "Un loc ideal pentru o pauză la uscat; verificați sistemul de iluminare al bicicletei, deoarece vizibilitatea este redusă în timpul ploii abundente pentru ceilalți participanți la trafic.",
+                "en": "An ideal spot for a break in the dry; check your lights, as visibility is severely limited for other road users during heavy rain, making your safety lights essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazh Publik",
+                "hu": "Plazh Publik",
+                "ro": "Plazh Publik",
+                "en": "Plazh Publik"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die sandigen Zufahrten und bleiben Sie auf festem Boden; der Küstenwind kann hier beim Radfahren kräftig von der Seite drücken, fahren Sie daher vorausschauend.",
+                "hu": "Kerülje el a homokos bejárókat, és maradjon a szilárd talajon; a tengeri szél itt oldalról erősen megnyomhatja a kerékpárt tekerés közben, ezért hajtson körültekintően.",
+                "ro": "Evitați căile de acces cu nisip și rămâneți pe teren solid; vântul de coastă poate sufla puternic din lateral aici, așa că pedalați cu prudență și anticipați rafalele.",
+                "en": "Avoid the sandy access roads and stay on firm ground; the coastal wind can push strongly from the side here while cycling, so ride cautiously and anticipate the gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramsar Site",
+                "hu": "Ramsar Site",
+                "ro": "Ramsar Site",
+                "en": "Ramsar Site"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege erfordern breite Reifen und viel Geschick; im Regen ist das Gebiet besonders einsam, nehmen Sie eine wasserdichte Tasche für Ihre Wertsachen mit.",
+                "hu": "A rögzítetlen utak széles gumiabroncsot és ügyességet igényelnek; esőben a terület különösen magányos, hozzon magával vízálló táskát az értéktárgyai védelmére.",
+                "ro": "Drumurile neasfaltate necesită anvelope late și îndemânare; pe ploaie, zona este foarte solitară, deci luați o geantă impermeabilă pentru a vă proteja obiectele de valoare.",
+                "en": "The unpaved paths require wide tires and skill; in the rain, the area is especially lonely, so take a waterproof bag for your valuables to keep them dry while riding."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens startet Ihre Radtour in der erfrischenden Kälte der albanischen Küste. Mittags wärmt die Sonne Ihre Fahrt auf der flachen Strandpromenade, die im Winter fast autofrei ist. Nachmittags erreichen Sie das Ramsar-Gebiet, wo die kühle Luft die Sicht auf die Berge im Hinterland kristallklar macht. Abends sollten Sie vor 17 Uhr zurück sein, wenn die Temperaturen mit der Dunkelheit rapide sinken.",
+            "hu": "Reggel a kerékpártúra az albán partvidék frissítő hidegében indul. Délben a nap kellemesen melengeti az utat a sík tengerparti sétányon, amely télen szinte teljesen autómentes. Délután érje el a Ramsar-területet, ahol a hűvös levegő miatt a kilátás a háttérben lévő hegyekre kristálytiszta. Este érdemes 17 óra előtt visszaérni, mert a sötéttel együtt a hőmérséklet gyorsan zuhan.",
+            "ro": "Dimineața, începeți tura cu bicicleta în frigul revigorant al coastei albaneze. La prânz, soarele vă încălzește plimbarea pe promenada plată, care iarna este aproape liberă de mașini. După-amiaza, ajungeți în zona Ramsar, unde aerul rece face ca vederea spre munții din spate să fie extrem de clară. Seara, reveniți înainte de ora 17:00, deoarece temperaturile scad brusc odată cu întunericul.",
+            "en": "In the morning, start your bike tour in the refreshing cold of the Albanian coast. At noon, the sun warms your ride on the flat beach promenade, which is almost car-free in winter. In the afternoon, reach the Ramsar area, where the cool air makes the view of the mountains in the hinterland crystal clear. In the evening, return before 5 PM, as temperatures drop rapidly with the darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gjoleka",
+                "hu": "Gjoleka",
+                "ro": "Gjoleka",
+                "en": "Gjoleka"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den Fahrtwind; die Straßen sind im Winter trocken und griffig, was ein zügiges Tempo ermöglicht, um den Körper durch Bewegung warm zu halten.",
+                "hu": "Viseljen kesztyűt a menetszél ellen; az utak télen szárazak és jól tapadnak, ami lehetővé teszi a tempósabb haladást, így a mozgással melegen tarthatja a testét.",
+                "ro": "Purtați mănuși împotriva vântului rece; drumurile sunt uscate și au aderență bună iarna, permițând un ritm susținut pentru a vă menține corpul cald prin mișcare.",
+                "en": "Wear gloves against the wind chill; the roads are dry and provide good grip in winter, allowing for a steady pace to keep your body warm through constant movement."
+              }
+            },
+            {
+              "name": {
+                "de": "Kompleksi Elita",
+                "hu": "Kompleksi Elita",
+                "ro": "Kompleksi Elita",
+                "en": "Kompleksi Elita"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht besonders scharf; nutzen Sie den Halt für Dehnübungen, um die Gelenke trotz der niedrigen Temperaturen geschmeidig zu halten.",
+                "hu": "Az építészet a tiszta téli fényben különösen élesnek tűnik; használja ki a megállót nyújtó gyakorlatokra, hogy az ízületeit a hideg ellenére is rugalmasan tartsa.",
+                "ro": "Arhitectura pare deosebit de clară în lumina tăioasă de iarnă; profitați de oprire pentru câteva exerciții de stretching, menținându-vă articulațiile mobile în ciuda frigului.",
+                "en": "The architecture looks particularly sharp in the clear winter light; use this stop for some stretching to keep your joints supple despite the low outside temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Velipoja Beach",
+                "hu": "Velipoja Beach",
+                "ro": "Velipoja Beach",
+                "en": "Velipoja Beach"
+              },
+              "tip_5lang": {
+                "de": "Radfahren auf der leeren Strandstraße ist im Winter purer Luxus; genießen Sie die Freiheit ohne Touristenmassen, aber achten Sie auf Sandverwehungen, die glatt sein können.",
+                "hu": "Az üres tengerparti úton biciklizni télen tiszta luxus; élvezze a szabadságot a tömeg nélkül, de ügyeljen a homokátfúvásokra az úton, amik megcsúsztathatják a kereket.",
+                "ro": "Pedalatul pe drumul liber de lângă plajă este un lux iarna; bucurați-vă de libertate fără mase de turiști, dar fiți atenți la acumulările de nisip care pot fi înșelătoare.",
+                "en": "Cycling on the empty beach road is pure luxury in winter; enjoy the freedom without the crowds, but watch out for sand drifts on the road, which can be slippery for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi Panorama",
+                "hu": "Plazhi Panorama",
+                "ro": "Plazhi Panorama",
+                "en": "Plazhi Panorama"
+              },
+              "tip_5lang": {
+                "de": "Der tiefe Sonnenstand sorgt für lange Schatten und tolle Fotomotive; binden Sie Ihr Rad gut fest, da die Winterwinde an diesem exponierten Punkt oft kräftig wehen können.",
+                "hu": "Az alacsony napállás hosszú árnyékokat és remek fotótémákat kínál; rögzítse jól a bringát, mert a téli szél ezen a kitett ponton gyakran igen erősen és váratlanul fújhat.",
+                "ro": "Poziția joasă a soarelui creează umbre lungi și motive foto excelente; asigurați bine bicicleta, deoarece vânturile de iarnă pot sufla cu putere în acest punct expus.",
+                "en": "The low sun position provides long shadows and great photo opportunities; secure your bike well, as winter winds can often blow quite strongly at this exposed viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Stela Beach",
+                "hu": "Stela Beach",
+                "ro": "Stela Beach",
+                "en": "Stela Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe hier ist ideal, um kurz durchzuatmen; trinken Sie regelmäßig, auch wenn Sie keinen Durst verspüren, da die trockene Winterluft dem Körper viel Feuchtigkeit entzieht.",
+                "hu": "Az itt tapasztalható nyugalom ideális egy rövid pihenőhöz; igyon rendszeresen, még ha nem is érzi szomjasnak magát, mert a száraz téli levegő sok nedvességet von el a szervezettől.",
+                "ro": "Liniștea de aici este ideală pentru o scurtă pauză; hidratați-vă regulat, chiar dacă nu simțiți sete, deoarece aerul uscat de iarnă deshidratează corpul rapid în timpul efortului.",
+                "en": "The tranquility here is ideal for a quick breather; drink regularly even if you don't feel thirsty, as the dry winter air takes a lot of moisture from the body during exercise."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazh Publik",
+                "hu": "Plazh Publik",
+                "ro": "Plazh Publik",
+                "en": "Plazh Publik"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie ein Stück näher ans Wasser, wo der Sand fester ist; das Licht des späten Nachmittags ist hier besonders weich, was die Küstenlandschaft in Pastelltöne taucht.",
+                "hu": "Hajtson egy kicsit közelebb a vízhez, ahol a homok keményebb; a késő délutáni fény itt különösen lágy, ami pasztellszínekbe öltözteti az egész tengerparti tájat.",
+                "ro": "Pedalați puțin mai aproape de apă, unde nisipul este mai compact; lumina de după-amiază târzie este foarte blândă aici, îmbrăcând peisajul de coastă în nuanțe pastelate.",
+                "en": "Ride a bit closer to the water where the sand is firmer; the late afternoon light is particularly soft here, bathing the coastal landscape in beautiful pastel tones."
+              }
+            },
+            {
+              "name": {
+                "de": "Ramsar Site",
+                "hu": "Ramsar Site",
+                "ro": "Ramsar Site",
+                "en": "Ramsar Site"
+              },
+              "tip_5lang": {
+                "de": "Ein Paradies für Naturliebhaber ohne die Sommerhitze; bringen Sie eine Thermoskanne mit warmem Tee mit, um die Vogelbeobachtung im kalten Wind länger genießen zu können.",
+                "hu": "A természetkedvelők paradicsoma a nyári hőség nélkül; hozzon egy termoszt meleg teával, hogy a madármegfigyelést a hideg szélben is hosszabb ideig élvezhesse a parton.",
+                "ro": "Un paradis pentru iubitorii de natură fără căldura verii; aduceți un termos cu ceai cald pentru a vă bucura mai mult de observarea păsărilor în ciuda vântului rece de iarnă.",
+                "en": "A paradise for nature lovers without the summer heat; bring a thermos with warm tea to enjoy birdwatching for longer despite the cold winter wind in the lagoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós túráját a nyugodt Ramsar-területen, elmerülve a part menti vizes élőhelyek reggeli nyugalmában. Ahogy közeledik a dél, hajtson a népszerű nyilvános strandok felé, élvezve a központi fürdőhelyeket. Töltse a délutánt a híres Velipoja strand jól felszerelt napozóágyain pihenve. Fejezze be a napot a távoli nyugati csücsökben, Gjolekában, egy csendes és festői naplemente kíséretében.",
         "ro": "Începeți turul cu mașina la liniștitul sit Ramsar, cufundându-vă în calmul matinal al zonelor umede de coastă. Pe măsură ce se apropie prânzul, conduceți spre plajele publice populare, bucurându-vă de locurile centrale de scăldat. Petreceți-vă după-amiaza relaxându-vă pe șezlongurile bine echipate de pe renumita plajă. Terminați ziua conducând spre extremitatea vestică la Gjoleka pentru un apus liniștit.",
         "en": "Kick off your driving tour at the tranquil Ramsar Site, immersing yourself in the morning calm of the coastal wetlands. As midday approaches, drive towards the popular public beaches, enjoying quick hops between the lively central bathing spots. Spend your afternoon unwinding on the well-equipped sunbeds of the famous Velipoja Beach. Finish the day by driving to the far western tip at Gjoleka for a quiet and picturesque sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie gemütlich durch den Regen zum Ramsar-Gebiet, während die Scheibenwischer den Blick auf die Lagune freihalten. Mittags bietet das Auto den perfekten Rückzugsort vor den Schauern zwischen den Strandstationen. Nachmittags genießen Sie die dramatische Küstenlinie vom trockenen Beifahrersitz aus. Abends parken Sie nah am Restaurant, um trockenen Fußes zum Abendessen zu gelangen.",
+            "hu": "Reggel kényelmesen autózhat az esőben a Ramsar-terület felé, miközben az ablaktörlők tiszta kilátást biztosítanak a lagúnára. Délben az autó tökéletes menedéket nyújt a záporok elől a strandok közötti megállók során. Délután a száraz utastérből csodálhatja meg a drámai partvonalat és a viharos tengert. Este parkoljon közvetlenül az étterem mellett, hogy száraz lábbal érkezzen meg a vacsorához.",
+            "ro": "Dimineața, conduceți relaxat prin ploaie spre zona Ramsar, în timp ce ștergătoarele vă oferă o vedere clară asupra lagunei. La prânz, mașina este refugiul perfect împotriva averselor între opririle de pe plajă. După-amiaza, admirați linia dramatică a coastei din interiorul uscat al vehiculului. Seara, parcați aproape de restaurant pentru a ajunge la cină fără a vă uda picioarele prin ploaie.",
+            "en": "In the morning, drive comfortably through the rain to the Ramsar area while the wipers keep the lagoon view clear. At noon, the car provides the perfect retreat from the showers between beach stops. In the afternoon, enjoy the dramatic coastline from the dry passenger seat. In the evening, park close to the restaurant to reach your dinner without getting wet in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ramsar Site",
+                "hu": "Ramsar Site",
+                "ro": "Ramsar Site",
+                "en": "Ramsar Site"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht im aufgeweichten Boden steckenzubleiben; beobachten Sie die Flamingos direkt aus dem Auto, um die Tiere im Regen nicht aufzuscheuchen.",
+                "hu": "Parkoljon szilárd talajon, hogy ne ragadjon bele a felázott sárba; figyelje meg a madarakat közvetlenül az autóból, így az esőben sem zavarja meg az állatokat a természetes közegükben.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocat în solul moale; observați păsările direct din mașină pentru a nu le speria în timpul ploii și pentru a rămâne complet uscat.",
+                "en": "Park on firm ground to avoid getting stuck in the softened soil; observe the birds directly from your car to avoid disturbing them in the rain while you stay perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazh Publik",
+                "hu": "Plazh Publik",
+                "ro": "Plazh Publik",
+                "en": "Plazh Publik"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Strandzugang; bei Regen ist die Sicht oft getrübt, schalten Sie daher auch tagsüber das Abblendlicht ein, um für andere besser sichtbar zu sein.",
+                "hu": "Használja a közvetlenül a strandbejáratnál lévő parkolót; esőben a látási viszonyok gyakran rosszak, ezért nappal is kapcsolja be a tompított fényszórót a biztonságos közlekedéshez.",
+                "ro": "Folosiți parcarea de lângă accesul pe plajă; pe ploaie vizibilitatea este adesea redusă, așa că porniți faza scurtă chiar și ziua pentru a fi mai vizibil pentru ceilalți șoferi.",
+                "en": "Use the parking lot right at the beach access; visibility is often poor in the rain, so turn on your low beams even during the day to be more visible to other road users."
+              }
+            },
+            {
+              "name": {
+                "de": "Stela Beach",
+                "hu": "Stela Beach",
+                "ro": "Stela Beach",
+                "en": "Stela Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Café lohnt sich für den Meerblick; prüfen Sie vor der Weiterfahrt den Reifendruck, da nasse Straßen bei kühlem Regenwetter tückisch sein können.",
+                "hu": "Érdemes egy rövid sprintet tenni az autótól a kávézóig a tengeri kilátásért; továbbindulás előtt ellenőrizze a gumikat, mert a vizes utak csalókák lehetnek az esős időben.",
+                "ro": "O scurtă fugă de la mașină la cafenea merită pentru vederea la mare; verificați presiunea pneurilor înainte de a pleca, deoarece drumurile ude pot fi înșelătoare pe ploaie.",
+                "en": "A short sprint from the car to the cafe is worth it for the sea view; check your tire pressure before continuing, as wet roads can be treacherous in cool, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi Panorama",
+                "hu": "Plazhi Panorama",
+                "ro": "Plazhi Panorama",
+                "en": "Plazhi Panorama"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick durch das Schiebedach oder die Seitenscheiben; halten Sie ausreichend Abstand zu anderen Fahrzeugen auf den schmalen, nassen Küstenstraßen ein.",
+                "hu": "Élvezze a panorámát a tetőablakon vagy az oldalablakokon keresztül; tartson elegendő követési távolságot a többi járműtől a szűk és vizes tengerparti utakon a biztonságért.",
+                "ro": "Bucurați-vă de panorama prin trapa sau geamurile laterale; păstrați o distanță suficientă față de celelalte vehicule pe drumurile de coastă înguste și ude pentru siguranța dumneavoastră.",
+                "en": "Enjoy the panoramic view through the sunroof or side windows; maintain sufficient distance from other vehicles on the narrow, wet coastal roads for maximum safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Velipoja Beach",
+                "hu": "Velipoja Beach",
+                "ro": "Velipoja Beach",
+                "en": "Velipoja Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen wie eine graue Wüste; nutzen Sie die Klimaanlage gegen beschlagene Scheiben, damit Sie die raue Schönheit der Natur stets im Blick behalten können.",
+                "hu": "A strand esőben olyan, mint egy szürke sivatag; használja a légkondicionálót a szélvédő párátlanítására, hogy a természet nyers szépségét folyamatosan jól láthassa az autóból.",
+                "ro": "Plaja pare un deșert gri pe ploaie; folosiți aerul condiționat pentru a dezaburi geamurile, astfel încât să puteți admira frumusețea brută a naturii în condiții optime de vizibilitate.",
+                "en": "The beach looks like a grey desert in the rain; use the air conditioning to defog the windows so you can always keep the raw beauty of nature in clear view from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gjoleka",
+                "hu": "Gjoleka",
+                "ro": "Gjoleka",
+                "en": "Gjoleka"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen am Straßenrand, die Aquaplaning verursachen können; nach der Tour empfiehlt sich eine kurze Autowäsche, um das aggressive Meersalz vom Lack zu entfernen.",
+                "hu": "Ügyeljen az út szélén lévő mély tócsákra, amelyek vízenfutást okozhatnak; a túra után ajánlott egy gyors autómosás, hogy eltávolítsa az agresszív tengeri sót a karosszériáról.",
+                "ro": "Atenție la bălțile adânci de pe marginea drumului care pot provoca acvaplanare; după tură, se recomandă o spălare rapidă a mașinii pentru a îndepărta sarea marină corozivă de pe lac.",
+                "en": "Watch out for deep puddles at the roadside which can cause aquaplaning; after the tour, a quick car wash is recommended to remove aggressive sea salt from the vehicle's paintwork."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die beheizte Fahrt durch die ruhigen Winterlandschaften zum Ramsar-Gebiet. Mittags bietet das Auto Schutz vor dem kalten Küstenwind während Ihrer Entdeckungstour entlang der Adria. Nachmittags erleben Sie den spektakulären Winter-Sonnenuntergang bequem vom Fahrersitz aus. Abends parken Sie sicher im beleuchteten Zentrum und genießen die friedliche Atmosphäre der Nebensaison.",
+            "hu": "Reggel élvezze a fűtött utazást a csendes téli tájakon keresztül a Ramsar-terület felé. Délben az autó védelmet nyújt a hideg tengerparti szél ellen az Adriai-tenger menti felfedezőút során. Délután a kényelmes vezetőülésből csodálhatja meg a látványos téli naplementét a tenger felett. Este parkoljon a kivilágított központban, és élvezze az utószezon békés és nyugodt hangulatát.",
+            "ro": "Dimineața, bucurați-vă de o călătorie încălzită prin peisajele liniștite de iarnă spre zona Ramsar. La prânz, mașina oferă protecție împotriva vântului rece în timpul explorării de-a lungul Adriaticii. După-amiaza, admirați apusul spectaculos de iarnă confortabil, direct din scaunul șoferului. Seara, parcați în centrul luminat și bucurați-vă de atmosfera pașnică a extrasezonului.",
+            "en": "In the morning, enjoy a heated drive through the quiet winter landscapes to the Ramsar area. At noon, the car provides protection from the cold coastal wind during your discovery tour along the Adriatic. In the afternoon, witness the spectacular winter sunset comfortably from the driver's seat. In the evening, park in the illuminated center and enjoy the peaceful off-season atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ramsar Site",
+                "hu": "Ramsar Site",
+                "ro": "Ramsar Site",
+                "en": "Ramsar Site"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht in der Lagune ist perfekt für Naturaufnahmen; nutzen Sie das Auto als Ansitz für die Vogelbeobachtung, um im warmen Innenraum auf seltene Arten zu warten.",
+                "hu": "A lagúna téli fényei tökéletesek a természetfotózáshoz; használja az autót megfigyelőhelyként a madarakhoz, így a meleg utastérben várhatja meg a ritka fajok felbukkanását.",
+                "ro": "Lumina de iarnă din lagună este perfectă pentru fotografii; folosiți mașina ca punct de observație pentru păsări, așteptând speciile rare în interiorul cald al vehiculului.",
+                "en": "The winter light in the lagoon is perfect for nature photography; use your car as a hide for birdwatching, allowing you to wait for rare species in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazh Publik",
+                "hu": "Plazh Publik",
+                "ro": "Plazh Publik",
+                "en": "Plazh Publik"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter leer und direkt am Wasser verfügbar; genießen Sie die Weite der Küste bei einem kurzen Spaziergang, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A parkolók télen üresek és közvetlenül a vízparton elérhetőek; élvezze a part tágasságát egy rövid séta erejéig, mielőtt visszatérne az autóba felmelegedni a hideg szél után.",
+                "ro": "Parcările sunt libere iarna și disponibile chiar lângă apă; bucurați-vă de vastitatea coastei în timpul unei scurte plimbări, înainte de a vă reîncălzi în interiorul mașinii.",
+                "en": "Parking spaces are empty in winter and available right by the water; enjoy the vastness of the coast during a short walk before warming up again inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Stela Beach",
+                "hu": "Stela Beach",
+                "ro": "Stela Beach",
+                "en": "Stela Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Frostschutz in Ihrem Wischwasser, da die Temperaturen nachts unter den Gefrierpunkt sinken können; die klare Sicht auf die Adria ist im Winter besonders beeindruckend.",
+                "hu": "Ellenőrizze a fagyállót a szélvédőmosóban, mert a hőmérséklet éjszaka fagypont alá süllyedhet; a tiszta kilátás az Adriára télen különösen lenyűgöző és távoli horizontot kínál.",
+                "ro": "Verificați antigelul din lichidul de parbriz, deoarece temperaturile pot scădea sub îngheț noaptea; vederea clară spre Adriatică este deosebit de impresionantă în timpul iernii.",
+                "en": "Check the antifreeze in your windshield washer fluid as temperatures can drop below freezing at night; the clear view of the Adriatic is especially impressive during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi Panorama",
+                "hu": "Plazhi Panorama",
+                "ro": "Plazhi Panorama",
+                "en": "Plazhi Panorama"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um den Sonnenstand für Fotos zu nutzen; achten Sie auf Glätte durch gefrierende Gischt auf der Straße, wenn der Wind das Meerwasser auf den Asphalt peitscht.",
+                "hu": "Álljon meg rövid időre, hogy kihasználja a napállást a fotózáshoz; ügyeljen a lefagyott tengerpermet okozta csúszós szakaszokra, ha az erős szél a vizet az aszfaltra hordja.",
+                "ro": "Opriți scurt pentru a profita de poziția soarelui pentru fotografii; atenție la gheața formată din aerosoli marini pe șosea, atunci când vântul suflă apa mării pe asfalt.",
+                "en": "Stop briefly to take advantage of the sun's position for photos; watch out for slipperiness caused by freezing sea spray on the road when the wind blows water onto the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Velipoja Beach",
+                "hu": "Velipoja Beach",
+                "ro": "Velipoja Beach",
+                "en": "Velipoja Beach"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Strandpromenade bietet im Winter eine ganz eigene Ästhetik; nutzen Sie die Sitzheizung nach Ihrem Strandgang, um die Durchblutung in den kalten Füßen zu fördern.",
+                "hu": "Az elhagyatott sétány télen különleges esztétikát kínál; használja az ülésfűtést a parti séta után, hogy serkentse a vérkeringést a lehűlt lábaiban és gyorsan átmelegedjen.",
+                "ro": "Promenada părăsită oferă o estetică aparte iarna; folosiți încălzirea în scaune după plimbarea pe plajă pentru a stimula circulația în picioarele reci și a vă încălzi rapid.",
+                "en": "The deserted beach promenade offers its own unique aesthetic in winter; use the seat heating after your beach walk to stimulate circulation in cold feet and warm up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Gjoleka",
+                "hu": "Gjoleka",
+                "ro": "Gjoleka",
+                "en": "Gjoleka"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt, bevor es um 17 Uhr dunkel wird, da die Straßenbeleuchtung in einigen Außenbereichen spärlich ist; genießen Sie das Gefühl, die Küste fast für sich allein zu haben.",
+                "hu": "Fejezze be az utat 17 óra előtt, mielőtt teljesen besötétedik, mert a közvilágítás egyes külső részeken gyér; élvezze a közlekedést a szinte teljesen üres tengerparti utakon.",
+                "ro": "Încheiați călătoria înainte de ora 17:00, deoarece iluminatul public este slab în unele zone periferice; bucurați-vă de sentimentul de a avea întreaga coastă doar pentru dumneavoastră.",
+                "en": "Finish your drive before it gets dark at 5 PM, as street lighting is sparse in some outlying areas; enjoy the feeling of having the coast almost entirely to yourself in the off-season."
+              }
+            }
+          ]
+        }
       }
     }
   }

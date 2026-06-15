@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az elegáns Városházánál, és élvezze a helyi atmoszférát. Ezután sétáljon át a Le Signe-be, hogy megcsodálja az élvonalbeli grafikai tervezést.\nDélben látogassa meg a történelmi Donjon des Comtes de Champagne-t. Tartson egy kis szünetet a belváros egyik kényelmes, hangulatos kávézójában.\nDélután csodálja meg a Bazilika reneszánsz szobrait, majd fedezze fel a Chapelle des Jésuites lenyűgöző, barokk eleganciáját.\nFejezze be a sétát a fenséges Chaumont viaduktnál, és gyönyörködjön a völgy felett lemenő nap gyönyörű, esti fényeiben.",
         "ro": "Începeți dimineața la Primăria elegantă, bucurându-vă de atmosfera locală. Continuați spre Le Signe pentru a explora designul grafic de ultimă oră.\nLa prânz, vizitați istoricul Donjon des Comtes de Champagne. Luați o pauză relaxantă la o cafenea confortabilă din centrul frumos al orașului.\nDupă-amiaza, admirați sculpturile renascentiste din Bazilică, urmate de eleganța barocă a frumoasei Chapelle des Jésuites.\nÎncheiați-vă plimbarea la maiestuosul Viaduct din Chaumont, privind cum lumina serii transformă valea într-un peisaj de vis.",
         "en": "Start your morning at the elegant Town Hall, absorbing the classic local atmosphere. Continue to Le Signe to explore cutting-edge graphic design in a vibrant setting.\nAround midday, walk to the historic Donjon des Comtes de Champagne to admire medieval architecture. Enjoy a relaxing break at a nearby cafe before exploring further.\nIn the afternoon, marvel at the detailed Renaissance sculptures in the Basilica, followed by the Baroque elegance of the Chapelle des Jésuites.\nEnd your walk at the majestic Chaumont Viaduct, crossing the valley as the evening light paints the sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt am Rathaus, bevor wir uns in die trockenen Galerien von Le Signe flüchten. Mittags bieten die massiven Mauern des Donjons und der Basilika perfekten Unterschlupf vor den Schauern. Am Nachmittag spazieren wir durch die Chapelle des Jésuites, die heute besonders stimmungsvoll wirkt. Den Abend lassen wir am Viadukt ausklingen, wo die nassen Steine im Lampenlicht glänzen.",
+            "hu": "Reggel a Városháza ereszei alatt kezdünk, majd a Le Signe modern belső tereiben keresünk menedéket az eső elől. Délben a Donjon és a Bazilika vastag falai nyújtanak száraz pihenőt a városnézés közben. Délután a jezsuita kápolna misztikus félhomályában várjuk meg a zápor végét. Estére a viadukthoz érünk, ahol a vizes kövek csillogása különleges keretet ad az óriási építmény látványának.",
+            "ro": "Dimineața începe sub protecția primăriei, urmată de o vizită prelungită în spațiile interioare de la Le Signe pentru a evita ploaia. La prânz, donjonul și bazilica oferă adăpost solid și o atmosferă istorică caldă. După-amiaza este dedicată capelei iezuite, un refugiu spiritual uscat. Seara se încheie la viaduct, unde panorama cețoasă peste vale capătă un farmec melancolic sub picăturile de ploaie.",
+            "en": "The morning starts sheltered near the Town Hall, followed by a long escape into the indoor exhibitions of Le Signe. At noon, the thick walls of the Donjon and Basilica provide perfect cover from the showers. In the afternoon, the Jesuit Chapel offers a dry, atmospheric retreat. We end the day at the Viaduct, watching the rain dance on the monumental stone arches under the evening lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Chaumont",
+                "hu": "Chaumont Városháza",
+                "ro": "Primăria Chaumont",
+                "en": "Chaumont Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade vom überdachten Eingangsbereich aus; nutzen Sie die Zeit für ein Foto, während Sie auf eine Regenpause warten.",
+                "hu": "Csodálja meg a homlokzatot a fedett bejárat alól; használja ki az időt egy fotóra, miközben az eső alábbhagyására vár.",
+                "ro": "Admirați fațada de sub zona acoperită a intrării; folosiți momentul pentru o fotografie în timp ce așteptați oprirea ploii.",
+                "en": "Admire the facade from the sheltered entrance area; use the time for a quick photo while waiting for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Signe",
+                "hu": "Le Signe",
+                "ro": "Le Signe",
+                "en": "Le Signe"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum für Grafik ist der ideale Ort für Regentage; verbringen Sie mehr Zeit bei den Exponaten und nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "A grafikai központ ideális hely esős napokra; töltsön több időt a tárlatok között, és használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Centrul grafic este locul ideal pentru zilele ploioase; petreceți mai mult timp la expoziții și folosiți garderoba pentru haine ude.",
+                "en": "The graphic arts center is the perfect rainy day escape; spend extra time exploring exhibits and use the cloakroom for wet gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Donjon des Comtes de Champagne",
+                "hu": "Donjon des Comtes de Champagne",
+                "ro": "Donjon des Comtes de Champagne",
+                "en": "Donjon des Comtes de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Der massive Turm bietet Schutz vor Wind und Wetter; erkunden Sie die Innenräume und achten Sie auf die rutschigen Stufen im Außenbereich.",
+                "hu": "A masszív torony védelmet nyújt a szél és az eső elől; fedezze fel a belső tereket, de vigyázzon a csúszós külső lépcsőkre.",
+                "ro": "Turnul masiv oferă protecție împotriva vântului și ploii; explorați interiorul, dar atenție la treptele exterioare alunecoase.",
+                "en": "The massive tower offers solid protection from wind and rain; explore the interiors but watch out for slippery steps outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Bazilika",
+                "ro": "Bazilica Saint-Jean-Baptiste",
+                "en": "Basilica of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in diesem sakralen Juwel; die Ruhe im Inneren lässt Sie das prasselnde Geräusch des Regens auf den Fenstern genießen.",
+                "hu": "Keressen menedéket ebben a szakrális ékszerdobozban; a belső csendben élvezheti az ablakokon kopogó eső megnyugtató hangját.",
+                "ro": "Căutați refugiu în această bijuterie sacră; liniștea din interior vă permite să savurați sunetul ploii bătând în ferestre.",
+                "en": "Seek refuge in this sacred gem; the indoor silence lets you appreciate the rhythmic sound of rain against the stained glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Jésuites",
+                "hu": "Chapelle des Jésuites",
+                "ro": "Chapelle des Jésuites",
+                "en": "Chapelle des Jésuites"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender überdachter Stopp voller Kunst; nutzen Sie die Zeit, um die Deckenmalereien ohne Eile vor dem Wetter geschützt zu studieren.",
+                "hu": "Kiváló fedett megálló teli művészettel; használja ki az időt a mennyezeti festmények tanulmányozására, biztonságban az esőtől.",
+                "ro": "O oprire acoperită excelentă, plină de artă; folosiți timpul pentru a studia picturile de pe tavan, protejați de vremea de afară.",
+                "en": "An excellent indoor stop rich in art; take your time studying the ceiling paintings while staying completely dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt von Chaumont",
+                "hu": "Chaumont Viadukt",
+                "ro": "Viaductul din Chaumont",
+                "en": "Chaumont Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die untere Ebene des Viadukts für mehr Schutz; festes Schuhwerk ist wegen der nassen, glatten Oberflächen absolut notwendig.",
+                "hu": "Használja a viadukt alsó szintjét a jobb védelemért; a vizes, csúszós felületek miatt a tapadós talpú cipő elengedhetetlen.",
+                "ro": "Folosiți nivelul inferior al viaductului pentru mai multă protecție; încălțămintea aderentă este esențială pe suprafețele ude.",
+                "en": "Use the lower walkway of the viaduct for better shelter; sturdy footwear is vital due to the wet and slippery stone surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus startet den Tag mit klarer Luft. Mittags wärmen wir uns in den modernen Hallen von Le Signe bei Grafikdesign auf. Der Donjon und die Basilika bieten Schutz vor dem kalten Winterwind, während wir die Geschichte erkunden. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir das Viadukt pünktlich zur stimmungsvollen blauen Stunde.",
+            "hu": "A fagyos reggel tiszta levegővel indul a Városházánál. Délben a Le Signe fűtött termeiben melegszünk fel a modern grafikák között. A Donjon és a Bazilika vastag falai között rejtőzünk el a metsző téli szél elől a délutáni órákban. Mivel a nap korán, 17 óra körül nyugszik, a viadukthoz már a hangulatos esti kivilágítás idején érkezünk meg.",
+            "ro": "O dimineață geroasă la primărie începe ziua cu aer curat. La prânz, ne încălzim în sălile moderne de la Le Signe printre expoziții de grafică. Donjonul și bazilica oferă adăpost împotriva vântului tăios de iarnă în timpul explorării. Deoarece soarele apune devreme, în jurul orei 17:00, ajungem la viaduct exact pentru iluminatul nocturn spectaculos.",
+            "en": "A frosty morning at the Town Hall starts the day with crisp air. At noon, we warm up inside the heated galleries of Le Signe. The Donjon and Basilica provide a shield against the biting winter wind during our afternoon stroll. Since the sun sets early around 5 PM, we reach the Viaduct just in time to see it beautifully illuminated against the twilight sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Chaumont",
+                "hu": "Chaumont Városháza",
+                "ro": "Primăria Chaumont",
+                "en": "Chaumont Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Architektur; tragen Sie warme Handschuhe für Fotos, da die Metallgeländer im Freien sehr kalt sein können.",
+                "hu": "Csodálja meg a téli építészetet; viseljen meleg kesztyűt a fotózáshoz, mert a kinti fémkorlátok rendkívül hidegek lehetnek.",
+                "ro": "Admirați arhitectura de iarnă; purtați mănuși groase pentru poze, deoarece balustradele metalice exterioare pot fi foarte reci.",
+                "en": "Admire the winter architecture; wear warm gloves for photos as outdoor metal railings can be extremely cold in the morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Signe",
+                "hu": "Le Signe",
+                "ro": "Le Signe",
+                "en": "Le Signe"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich aufzuwärmen; genießen Sie die moderne Kunst in wohltemperierter Umgebung, bevor Sie den Stadtspaziergang fortsetzen.",
+                "hu": "Tökéletes hely a felmelegedésre; élvezze a modern művészetet a jól fűtött környezetben, mielőtt folytatná a városi sétát.",
+                "ro": "Locul perfect pentru a vă încălzi; bucurați-vă de arta modernă în mediul bine încălzit înainte de a continua plimbarea prin oraș.",
+                "en": "The perfect spot to warm up; enjoy modern art in a well-heated environment before continuing your cold-weather city exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Donjon des Comtes de Champagne",
+                "hu": "Donjon des Comtes de Champagne",
+                "ro": "Donjon des Comtes de Champagne",
+                "en": "Donjon des Comtes de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Wind ab; besuchen Sie das Museum im Inneren, um der Kälte zu entfliehen und Geschichte hautnah zu erleben.",
+                "hu": "A vastag falak felfogják a szelet; látogassa meg a belső múzeumot, hogy elmeneküljön a hideg elől és testközelből élje át a történelmet.",
+                "ro": "Zidurile groase opresc vântul; vizitați muzeul din interior pentru a scăpa de frig și pentru a experimenta istoria de aproape.",
+                "en": "The thick stone walls block the wind; visit the museum inside to escape the chill and experience history in a cozy setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Bazilika",
+                "ro": "Bazilica Saint-Jean-Baptiste",
+                "en": "Basilica of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "In der Basilika ist es oft kühler als gedacht; behalten Sie Ihren Mantel an und bewundern Sie das Licht, das tief durch die Wintersonne einfällt.",
+                "hu": "A bazilikában gyakran hűvösebb van, mint gondolná; tartsa magán a kabátját, és csodálja meg az alacsonyan járó téli nap fényeit.",
+                "ro": "În bazilică este adesea mai rău decât credeți; păstrați haina pe dvs. și admirați lumina iernii care pătrunde prin vitralii.",
+                "en": "It is often chillier inside the basilica than expected; keep your coat on and admire the low winter sun streaming through the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Jésuites",
+                "hu": "Chapelle des Jésuites",
+                "ro": "Chapelle des Jésuites",
+                "en": "Chapelle des Jésuites"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Ort; nutzen Sie diesen kurzen Stopp, um die barocke Pracht zu bewundern, während Sie sich vom Gehen erholen.",
+                "hu": "Csendes, szélvédett helyszín; használja ki ezt a rövid megállót a barokk pompa megcsodálására, miközben kipiheni a gyaloglást.",
+                "ro": "O locație liniștită, ferită de vânt; folosiți această scurtă oprire pentru a admira fastul baroc în timp ce vă odihniți după mers.",
+                "en": "A quiet spot sheltered from the wind; use this brief stop to admire the baroque splendor while taking a break from the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt von Chaumont",
+                "hu": "Chaumont Viadukt",
+                "ro": "Viaductul din Chaumont",
+                "en": "Chaumont Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr für die beste Sicht; die kalte Winterluft sorgt oft für eine besonders klare Fernsicht über das Tal.",
+                "hu": "Érkezzen 17 óra előtt a legjobb kilátásért; a hideg téli levegő gyakran különlegesen tiszta rálátást biztosít a völgyre.",
+                "ro": "Sosiți înainte de ora 17 pentru cea mai bună vedere; aerul rece de iarnă oferă adesea o vizibilitate clară asupra văii.",
+                "en": "Arrive before 5 PM for the best view; the cold winter air often provides exceptionally clear visibility across the entire valley."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a Városházánál, majd tekerjen egyenesen a Le Signe-hez némi kreatív inspirációért a kora reggeli órákban.\nDélben biciklizzen le a fenséges Chaumont viadukthoz. Szánjon időt a lenyűgöző építményre, és ebédeljen egyet a közvetlen közelben.\nDélután tekerjen fel a Donjon des Comtes de Champagne-hoz, majd látogassa meg a lenyűgöző Saint-Jean-Baptiste Bazilikát.\nZárja a napot egy békés utazással a Chapelle Sainte-Madeleine-hez, ahol kipihenheti magát és élvezheti a csendes esti környezetet.",
         "ro": "Începeți turul cu bicicleta la Primărie, apoi îndreptați-vă spre Le Signe pentru inspirație creativă înainte de sosirea aglomerației.\nLa prânz, pedalați către magnificul Viaduct din Chaumont. Acordați-vă timp pe structura impresionantă și luați un prânz rapid în apropiere.\nDupă-amiaza, urcați la Donjon des Comtes de Champagne, apoi vizitați uimitoarea Bazilică Saint-Jean-Baptiste.\nÎncheiați-vă ziua cu o plimbare liniștită la Chapelle Sainte-Madeleine, unde vă puteți relaxa complet și bucura de serile pașnice.",
         "en": "Kick off your cycling tour at the Town Hall, then head straight to Le Signe for some creative inspiration before the crowds arrive.\nBy midday, cycle down to the magnificent Chaumont Viaduct. Take your time riding along the impressive structure and grab a quick lunch nearby.\nIn the afternoon, cycle up to the Donjon des Comtes de Champagne, then visit the stunning Basilica of Saint-Jean-Baptiste.\nConclude your day with a peaceful ride to Chapelle Sainte-Madeleine, where you can unwind and enjoy the tranquil evening surroundings."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht auf den Pflastersteinen am Rathaus. Mittags bietet Le Signe einen trockenen Parkplatz und Kultur. Wir radeln zügig zum Viadukt, wo der Regen die Konstruktion mächtig wirken lässt. Nachmittags besuchen wir den Donjon und die Basilika, bevor wir die Tour an der Chapelle Sainte-Madeleine bei schwindendem Licht beenden.",
+            "hu": "A vizes kerékpártúra óvatosságot igényel a Városháza környéki macskaköveken. Délben a Le Signe száraz parkolót és kultúrát kínál. Gyorsan áttekerünk a viadukthoz, ahol az eső még monumentálisabbá teszi az építményt. Délután a Donjont és a Bazilikát érintjük, majd a túrát a Chapelle Sainte-Madeleine-nél zárjuk a szürkületben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pavajul de lângă primărie. La prânz, Le Signe oferă parcare uscată și cultură. Pedalăm rapid spre viaduct, unde ploaia face construcția să pară și mai impunătoare. După-amiaza vizităm donjonul și bazilica, încheind turul la Chapelle Sainte-Madeleine în lumina slabă a serii.",
+            "en": "A wet bike ride requires extra caution on the cobblestones near the Town Hall. At noon, Le Signe provides dry bike parking and indoor culture. We cycle briskly to the Viaduct, where the rain adds a powerful mood to the arches. Afternoon visits to the Donjon and Basilica follow, ending at Chapelle Sainte-Madeleine as the light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Chaumont",
+                "hu": "Chaumont Városháza",
+                "ro": "Primăria Chaumont",
+                "en": "Chaumont Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf nassen Steinen; stellen Sie sicher, dass Ihre Bremsen bei der Feuchtigkeit gut greifen, bevor Sie losfahren.",
+                "hu": "Vigyázzon az indulásnál a vizes köveken; indulás előtt győződjön meg róla, hogy a fékek jól fognak a nedves időben.",
+                "ro": "Atenție la plecare pe pietrele ude; asigurați-vă că frânele funcționează bine în condiții de umiditate înainte de a porni.",
+                "en": "Be careful when starting on wet stones; ensure your brakes are responsive in the damp conditions before heading into traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Signe",
+                "hu": "Le Signe",
+                "ro": "Le Signe",
+                "en": "Le Signe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich zum Abstellen des Rades; im Inneren können Sie sich abtrocknen, während Sie die Grafikkunst genießen.",
+                "hu": "Használja a fedett részt a bicikli leállításához; odabent megszárítkozhat, miközben a grafikai művészetet élvezi.",
+                "ro": "Folosiți zona acoperită pentru a lăsa bicicleta; în interior vă puteți usca în timp ce vă bucurați de arta grafică.",
+                "en": "Use the sheltered area to park your bike; head inside to dry off while immersing yourself in the world of graphic design."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt von Chaumont",
+                "hu": "Chaumont Viadukt",
+                "ro": "Viaductul din Chaumont",
+                "en": "Chaumont Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Viadukt, da der Wind bei Regen stark sein kann; wasserfeste Kleidung ist für diesen exponierten Abschnitt wichtig.",
+                "hu": "Hajtson lassan a viadukton, mert esőben a szél felerősödhet; a vízálló ruházat kulcsfontosságú ezen a nyitott szakaszon.",
+                "ro": "Mergeți încet pe viaduct, deoarece vântul poate fi puternic pe ploaie; îmbrăcămintea impermeabilă este vitală pe această secțiune.",
+                "en": "Ride slowly across the viaduct as wind gusts can be strong during rain; waterproof gear is essential for this exposed section."
+              }
+            },
+            {
+              "name": {
+                "de": "Donjon des Comtes de Champagne",
+                "hu": "Donjon des Comtes de Champagne",
+                "ro": "Donjon des Comtes de Champagne",
+                "en": "Donjon des Comtes de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Turm als Regenschutz; die Innenbesichtigung ist eine willkommene trockene Pause.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja a tornyot esővédőként; a belső látogatás örömteli száraz szünetet jelent.",
+                "ro": "Parcați bicicleta în siguranță și folosiți turnul ca adăpost; vizitarea interiorului este o pauză uscată binevenită.",
+                "en": "Park your bike securely and use the tower as a rain shield; the indoor tour provides a much-needed dry break from the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Bazilika",
+                "ro": "Bazilica Saint-Jean-Baptiste",
+                "en": "Basilica of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für spirituelle Ruhe und Schutz; achten Sie beim Absteigen auf den rutschigen Vorplatz der Basilika.",
+                "hu": "Rövid megálló a lelki nyugalomért és védelemért; a leszállásnál ügyeljen a bazilika előtti csúszós térburkolatra.",
+                "ro": "O scurtă oprire pentru liniște spirituală și protecție; atenție la coborâre pe pavajul alunecos din fața bazilicii.",
+                "en": "A brief stop for spiritual peace and shelter; watch your footing when dismounting on the slippery plaza in front of the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Madeleine",
+                "hu": "Chapelle Sainte-Madeleine",
+                "ro": "Chapelle Sainte-Madeleine",
+                "en": "Chapelle Sainte-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig bei nasser Fahrbahn; ein Licht am Rad ist bei Regen und einsetzender Dämmerung unerlässlich.",
+                "hu": "Zárja a túrát óvatosan a vizes úttesten; a kerékpárlámpa használata esőben és a sötétedés beálltakor elengedhetetlen.",
+                "ro": "Încheiați turul cu prudență pe carosabilul umed; utilizarea luminii la bicicletă este obligatorie pe ploaie și la lăsarea serii.",
+                "en": "End the tour carefully on the wet road; bike lights are essential during rain and as the evening darkness sets in."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei winterlichen Temperaturen radeln wir dick eingepackt vom Rathaus los. Mittags bietet Le Signe eine warme Pause zwischen modernen Plakaten. Die Fahrt zum Viadukt ist bei klarer Kälte erfrischend, bietet aber tolle Fotomotive. Nachmittags erkunden wir den Donjon und die Basilika, bevor wir vor dem frühen Sonnenuntergang die Kapelle Sainte-Madeleine erreichen.",
+            "hu": "Téli hőmérsékletben, alaposan felöltözve indulunk a Városházától. Délben a Le Signe fűtött tereiben tartunk szünetet a modern plakátok között. A viadukt felé vezető út a tiszta hidegben frissítő, és nagyszerű fotótémákat kínál. Délután a Donjont és a Bazilikát nézzük meg, majd a korai napnyugta előtt elérjük a Sainte-Madeleine kápolnát.",
+            "ro": "La temperaturi de iarnă, pornim bine înfofoliți de la primărie. La prânz, luăm o pauză caldă la Le Signe printre afișele moderne. Drumul spre viaduct este răcoros în aerul curat, dar oferă subiecte foto superbe. După-amiaza explorăm donjonul și bazilica, înainte de a ajunge la capela Sainte-Madeleine înainte de apus.",
+            "en": "Wrapped in warm layers, we set off from the Town Hall in wintry conditions. At noon, Le Signe offers a cozy break among modern posters. The ride to the Viaduct is refreshing in the crisp cold, offering brilliant photo opportunities. We explore the Donjon and Basilica in the afternoon, reaching Chapelle Sainte-Madeleine before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Chaumont",
+                "hu": "Chaumont Városháza",
+                "ro": "Primăria Chaumont",
+                "en": "Chaumont Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt; die kalte Luft am Morgen erfordert guten Schutz für Ihre Hände am Lenker.",
+                "hu": "Viseljen meleg kesztyűt a tekeréshez; a reggeli hideg levegőben szüksége lesz a kezei védelmére a kormányon.",
+                "ro": "Purtați mănuși groase pentru drum; aerul rece de dimineață necesită o protecție bună pentru mâini pe ghidon.",
+                "en": "Wear thick thermal gloves for the ride; the cold morning air makes hand protection on the handlebars absolutely necessary."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Signe",
+                "hu": "Le Signe",
+                "ro": "Le Signe",
+                "en": "Le Signe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp zum Aufwärmen; das beheizte Zentrum ist eine ideale Pause, um die Finger wieder beweglich zu machen.",
+                "hu": "Használja ezt a megállót a felmelegedésre; a fűtött központ ideális szünetet biztosít, hogy ujjai újra mozogni tudjanak.",
+                "ro": "Folosiți această oprire pentru a vă încălzi; centrul încălzit este o pauză ideală pentru a vă recăpăta mobilitatea degetelor.",
+                "en": "Use this stop to thaw out; the heated center is an ideal break to regain feeling in your fingers before cycling further."
+              }
+            },
+            {
+              "name": {
+                "de": "Viadukt von Chaumont",
+                "hu": "Chaumont Viadukt",
+                "ro": "Viaductul din Chaumont",
+                "en": "Chaumont Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelles Glatteis auf dem Viadukt; die exponierte Lage macht ihn im Winter besonders anfällig für Frost.",
+                "hu": "Ügyeljen az esetleges jegesedésre a viadukton; a nyitott elhelyezkedése miatt télen különösen hajlamos a fagyásra.",
+                "ro": "Atenție la eventualul polei de pe viaduct; locația expusă îl face deosebit de predispus la îngheț în timpul iernii.",
+                "en": "Watch out for black ice on the viaduct; its exposed location makes it particularly prone to freezing in winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Donjon des Comtes de Champagne",
+                "hu": "Donjon des Comtes de Champagne",
+                "ro": "Donjon des Comtes de Champagne",
+                "en": "Donjon des Comtes de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten Schutz vor dem schneidenden Wind; genießen Sie die historische Atmosphäre in der windstillen Umgebung.",
+                "hu": "A vastag falak védelmet nyújtanak a metsző szél ellen; élvezze a történelmi hangulatot a szélvédett környezetben.",
+                "ro": "Zidurile groase oferă protecție împotriva vântului tăios; bucurați-vă de atmosfera istorică în mediul ferit de vânt.",
+                "en": "The thick stone walls provide excellent shelter from the biting wind; enjoy the historic atmosphere in a windless setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Bazilika",
+                "ro": "Bazilica Saint-Jean-Baptiste",
+                "en": "Basilica of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein kühler, aber ruhiger Ort zum Innehalten; das flache Winterlicht sorgt für fantastische Schatteneffekte im Kirchenschiff.",
+                "hu": "Hűvös, de nyugodt hely az elcsendesedéshez; az alacsonyan lévő téli fény fantasztikus árnyékokat vet a hajóban.",
+                "ro": "Un loc răcoros, dar liniștit pentru reculegere; lumina joasă de iarnă creează umbre fantastice în naosul bisericii.",
+                "en": "A cool but peaceful place for reflection; the low winter light creates fantastic shadow play within the main nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Madeleine",
+                "hu": "Chapelle Sainte-Madeleine",
+                "ro": "Chapelle Sainte-Madeleine",
+                "en": "Chapelle Sainte-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit; die Winterdämmerung setzt früh ein, sorgen Sie für gute Sichtbarkeit.",
+                "hu": "Fejezze be a túrát sötétedés előtt; a téli szürkület korán beköszönt, gondoskodjon a jó láthatóságról.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; amurgul de iarnă vine devreme, asigurați-vă că sunteți vizibil.",
+                "en": "Finish your tour before nightfall; winter twilight sets in very early, so make sure you remain highly visible to cars."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje autós útját közvetlenül a látványos Chaumont viaduktnál, és élvezze hatalmas méreteit a kora reggeli napfényben.\nDélben hajtson be a központba, hogy meglátogassa a Le Signe-t. Egyen egy finom ebédet a belvárosban, mielőtt a történelmi Donjon felé indulna.\nDélután utazzon tovább a békés Chapelle de Saint-Aignan felfedezéséhez, és tegyen egy pihentető, kellemes sétát a csendes környéken.\nFejezze be útját a modern Église Notre-Dame du Rosaire-nél, elmélkedve a különböző építészeti stílusok lenyűgöző, esti kontrasztján.",
         "ro": "Începeți ziua de condus mergând direct la spectaculosul Viaduct din Chaumont, bucurându-vă de dimensiunile sale în lumina dimineții.\nLa prânz, conduceți în centru pentru a vizita Le Signe. Luați un prânz minunat înainte de a continua spre istoricul Donjon des Comtes de Champagne.\nDupă-amiaza, îndreptați-vă spre pașnica Chapelle de Saint-Aignan, făcând o plimbare relaxantă în împrejurimile foarte liniștite.\nÎncheiați călătoria la moderna Église Notre-Dame du Rosaire, reflectând la contrastul uimitor al stilurilor arhitecturale la final de zi.",
         "en": "Start your driving day by heading directly to the spectacular Chaumont Viaduct, enjoying its grand scale in the early morning light.\nBy midday, drive into the center to visit Le Signe. Have a wonderful lunch in the downtown area before continuing to the historic Donjon.\nIn the afternoon, head further out to explore the peaceful Chapelle de Saint-Aignan, taking a relaxing stroll in the surrounding area.\nFinish your journey at the modern Église Notre-Dame du Rosaire, reflecting on the striking contrast of architectural styles as the day ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt entspannt am Viadukt, während der Regen gegen die Scheiben prasselt. Mittags parken wir bequem direkt bei Le Signe für einen trockenen Museumsbesuch. Nachmittags geht es weiter zum Donjon und zur Kapelle Saint-Aignan, wobei wir die kurzen Wege im Regen genießen. Den Tag beenden wir trocken an der Kirche Notre-Dame du Rosaire.",
+            "hu": "Az autós túra kényelmesen indul a viaduktnál, miközben az eső a szélvédőn kopog. Délben közvetlenül a Le Signe mellett parkolunk le a száraz múzeumlátogatáshoz. Délután a Donjon és a Saint-Aignan kápolna következik, élvezve a rövid sétákat az esőben. A napot szárazon zárjuk a Notre-Dame du Rosaire templomnál.",
+            "ro": "Turul cu mașina începe relaxat la viaduct, în timp ce ploaia bate în parbriz. La prânz, parcăm confortabil chiar lângă Le Signe pentru o vizită uscată la muzeu. După-amiaza continuăm spre donjon și capela Saint-Aignan, profitând de distanțele scurte de mers prin ploaie. Încheiem ziua la adăpost, la biserica Notre-Dame du Rosaire.",
+            "en": "The car tour begins comfortably at the Viaduct as rain drums against the windows. At noon, we park conveniently right by Le Signe for a dry museum visit. In the afternoon, we head to the Donjon and Saint-Aignan chapel, enjoying the short dashes between sights. We end the day staying warm and dry at the Church of Notre-Dame du Rosaire."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viadukt von Chaumont",
+                "hu": "Chaumont Viadukt",
+                "ro": "Viaductul din Chaumont",
+                "en": "Chaumont Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und genießen Sie die Aussicht mit einem Regenschirm; das Viadukt wirkt im Regen besonders dramatisch.",
+                "hu": "Parkoljon a közelben, és esernyővel induljon a kilátásért; a viadukt esőben különösen drámai látványt nyújt.",
+                "ro": "Parcați în apropiere și folosiți umbrela pentru a vedea panorama; viaductul arată deosebit de dramatic pe ploaie.",
+                "en": "Park nearby and use an umbrella to see the view; the viaduct looks particularly dramatic and powerful in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Signe",
+                "hu": "Le Signe",
+                "ro": "Le Signe",
+                "en": "Le Signe"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp für Autofahrer bei Regen; nutzen Sie die Parkplätze in der Nähe, um fast trocken ins Gebäude zu gelangen.",
+                "hu": "Tökéletes megálló autósoknak esőben; használja a közeli parkolókat, hogy szinte szárazon juthasson be az épületbe.",
+                "ro": "O oprire perfectă pentru șoferi pe ploaie; folosiți parcările din apropiere pentru a intra în clădire aproape uscați.",
+                "en": "A perfect stop for drivers in the rain; use the nearby parking lots to reach the entrance with minimal exposure to the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Donjon des Comtes de Champagne",
+                "hu": "Donjon des Comtes de Champagne",
+                "ro": "Donjon des Comtes de Champagne",
+                "en": "Donjon des Comtes de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Die kurzen Wege vom Parkplatz zum Turm sind bei Schauern ideal; der Donjon bietet im Inneren dauerhaften Regenschutz.",
+                "hu": "A parkolótól a toronyig vezető rövid út ideális záporok idején; a Donjon belül tartós esővédelmet biztosít.",
+                "ro": "Distanța scurtă de la parcare la turn este ideală pe ploaie; donjonul oferă protecție permanentă în interior.",
+                "en": "The short walk from the parking area to the tower is ideal during showers; the Donjon provides a sturdy shield from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de Saint-Aignan",
+                "hu": "Chapelle de Saint-Aignan",
+                "ro": "Chapelle de Saint-Aignan",
+                "en": "Chapelle de Saint-Aignan"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zum Eingangsbereich; die Kapelle ist ein ruhiger Ort, um das Ende eines Regenschauers im Trockenen abzuwarten.",
+                "hu": "Hajtson közvetlenül a bejárathoz; a kápolna csendes hely, ahol szárazon várhatja meg egy-egy zápor elvonulását.",
+                "ro": "Conduceți direct spre zona intrării; capela este un loc liniștit unde puteți aștepta oprirea ploii la adăpost.",
+                "en": "Drive right up to the entrance area; the chapel is a peaceful spot to wait out a passing shower while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame du Rosaire",
+                "hu": "Église Notre-Dame du Rosaire",
+                "ro": "Église Notre-Dame du Rosaire",
+                "en": "Église Notre-Dame du Rosaire"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen zum Aufwärmen zwischen den Stopps; beenden Sie den Tag entspannt bei dieser geschützten Sehenswürdigkeit.",
+                "hu": "Használja az autót a felmelegedésre a megállók között; zárja a napot nyugodtan ennél a védett látnivalónál.",
+                "ro": "Folosiți mașina pentru a vă încălzi între opriri; încheiați ziua relaxat la acest obiectiv turistic bine protejat.",
+                "en": "Use the car to warm up between stops; end your day peacefully at this sheltered landmark while the rain continues outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto starten wir morgens am beeindruckenden Viadukt. Mittags bietet Le Signe eine warme kulturelle Pause im Zentrum von Chaumont. Nachmittags erkunden wir den Donjon und die Kapelle Saint-Aignan, wobei wir die winterliche Stadtkulisse bequem vom Wagen aus genießen. Der Tag endet pünktlich zum frühen Sonnenuntergang an der beleuchteten Kirche Notre-Dame.",
+            "hu": "A fűtött autóban kezdjük a reggelt a lenyűgöző viaduktnál. Délben a Le Signe kínál meleg kulturális pihenőt Chaumont központjában. Délután a Donjont és a Saint-Aignan kápolnát keressük fel, kényelmesen szemlélve a téli várost az autóból. A nap a korai napnyugtakor zárul a Notre-Dame templom esti fényeivel.",
+            "ro": "În mașina încălzită, începem dimineața la viaductul impresionant. La prânz, Le Signe oferă o pauză culturală caldă în centrul orașului Chaumont. După-amiaza vizităm donjonul și capela Saint-Aignan, admirând peisajul de iarnă din confortul mașinii. Ziua se încheie la apus, cu luminile de seară ale bisericii Notre-Dame.",
+            "en": "From the comfort of a heated car, we start the morning at the stunning Viaduct. At noon, Le Signe provides a warm cultural break in the heart of Chaumont. In the afternoon, we visit the Donjon and Saint-Aignan chapel, enjoying the wintry city views from the window. The day ends just as the early sun sets, highlighting the Church of Notre-Dame."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viadukt von Chaumont",
+                "hu": "Chaumont Viadukt",
+                "ro": "Viaductul din Chaumont",
+                "en": "Chaumont Viaduct"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick vom warmen Auto aus; steigen Sie nur kurz für ein Foto in der klaren Winterluft aus.",
+                "hu": "Élvezze a panorámát a meleg autóból; csak rövid időre szálljon ki egy fotó kedvéért a tiszta téli levegőben.",
+                "ro": "Bucurați-vă de panoramă din mașina caldă; coborâți doar scurt pentru o fotografie în aerul curat de iarnă.",
+                "en": "Enjoy the panoramic view from the warmth of your car; step out only briefly for a photo in the crisp, clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Signe",
+                "hu": "Le Signe",
+                "ro": "Le Signe",
+                "en": "Le Signe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das beheizte Parkhaus in der Nähe; drinnen erwartet Sie eine angenehme Temperatur für den Museumsbesuch.",
+                "hu": "Használja a közeli fűtött parkolót; odabent kellemes hőmérséklet várja a múzeumlátogatáshoz.",
+                "ro": "Folosiți parcarea încălzită din apropiere; în interior vă așteaptă o temperatură plăcută pentru vizitarea muzeului.",
+                "en": "Make use of nearby parking; inside, a comfortably heated environment awaits you for a long visit to the design galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Donjon des Comtes de Champagne",
+                "hu": "Donjon des Comtes de Champagne",
+                "ro": "Donjon des Comtes de Champagne",
+                "en": "Donjon des Comtes de Champagne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Weg zum Turm; im Winter ist die Fernsicht vom Hügel oft besonders weit und klar.",
+                "hu": "Ügyeljen a fagyott foltokra a toronyhoz vezető úton; télen a dombról nyíló kilátás gyakran különösen messzi és tiszta.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul spre turn; iarna, vizibilitatea de pe deal este adesea foarte clară și îndepărtată.",
+                "en": "Watch for icy patches on the walk to the tower; in winter, the view from the hill is often exceptionally far-reaching and clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de Saint-Aignan",
+                "hu": "Chapelle de Saint-Aignan",
+                "ro": "Chapelle de Saint-Aignan",
+                "en": "Chapelle de Saint-Aignan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, schöner Stopp; die Kapelle wirkt im fahlen Winterlicht besonders friedlich und bietet Schutz vor kaltem Wind.",
+                "hu": "Rövid, szép megálló; a kápolna a halvány téli fényben különösen békésnek tűnik, és védelmet nyújt a hideg szél ellen.",
+                "ro": "O oprire scurtă și frumoasă; capela pare deosebit de liniștită în lumina palidă de iarnă și oferă protecție contra vântului.",
+                "en": "A brief, beautiful stop; the chapel feels particularly peaceful in the pale winter light and offers a break from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame du Rosaire",
+                "hu": "Église Notre-Dame du Rosaire",
+                "ro": "Église Notre-Dame du Rosaire",
+                "en": "Église Notre-Dame du Rosaire"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor Einbruch der frühen Dunkelheit; die warmen Lichter im Inneren bilden einen schönen Kontrast zur Kälte.",
+                "hu": "Látogassa meg a templomot a korai sötétedés előtt; a belső meleg fények szép kontrasztot alkotnak a kinti hideggel.",
+                "ro": "Vizitați biserica înainte de lăsarea întunericului; luminile calde din interior creează un contrast frumos cu frigul de afară.",
+                "en": "Visit the church before the early sunset; the warm interior lighting provides a beautiful contrast to the freezing winter air."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a part mentén Seleno felé, beszívva a Jón-tenger friss levegőjét. Dél körül merüljön el a lenyűgöző víz alatti világban az Akváriumban. Délután fedezze fel a helyi spirituális gyökereket a Madonna Greca szentélynél, majd pihenjen a Spiaggia Grande homokján. Ahogy leszáll az est, az impozáns Torre Vecchia repítse vissza az időben a tenger feletti naplementében.",
         "ro": "Începeți dimineața cu o plimbare revigorantă pe coastă spre Seleno, respirând briza Mării Ionice. În jurul prânzului, explorați lumea subacvatică fascinantă la Acvariu, îmbinând învățarea cu relaxarea. După-amiaza, descoperiți rădăcinile spirituale locale la sanctuarul Madonna Greca, înainte de a vă relaxa la Spiaggia Grande. La lăsarea serii, impunătorul Torre Vecchia vă va transporta înapoi în timp.",
         "en": "Start your morning with a refreshing stroll along the coastline to Seleno, breathing in the fresh Ionian breeze. Around midday, dive into the fascinating underwater world at the Aquarium, blending learning with relaxation. In the afternoon, trace the local spiritual roots at the Madonna Greca sanctuary before unwinding on the sands of Spiaggia Grande. As evening falls, let Torre Vecchia transport you back in time."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer erfrischenden Brise bei Seleno, wo der Regen das Aroma des Meeres intensiviert. Mittags bietet das Aquarium den idealen trockenen Rückzugsort, um die Meeresfauna in aller Ruhe zu studieren. Am Nachmittag führt der Weg zur Madonna Greca, bevor der Spiaggia Grande in regnerischer Melancholie erstrahlt. Der Abend endet am Torre Vecchia, dessen alte Mauern im Regen besonders mystisch wirken.",
+            "hu": "A reggel párás partmenti sétával indul Seleno szikláinál, ahol a tenger illata felerősödik az esőben. Délben az Aquarium nyújt tökéletes és száraz menedéket a tengeri élővilág felfedezéséhez. Délután a Madonna Greca kútjánál tett látogatás után a Spiaggia Grande üres partja melankolikus szépséget áraszt. Az estét a Torre Vecchia őrtornyának sziluettje zárja a szemerkélő esőben, vízhatlan cipőben.",
+            "ro": "Dimineața începe cu o plimbare revigorantă la Seleno, unde ploaia intensifică parfumul mării. La prânz, Acvariul oferă adăpostul perfect și uscat pentru a explora fauna marină. După-amiaza vizităm fântâna Madonna Greca, urmată de o oprire pe Spiaggia Grande, care emană o frumusețe melancolică. Seara se încheie la Torre Vecchia, ale cărei ziduri vechi par mistice sub cerul ploios de coastă.",
+            "en": "The morning starts with a misty coastal walk at Seleno, where the scent of the sea is heightened by the rain. At noon, the Aquarium provides a perfect dry sanctuary to explore marine life. In the afternoon, visit the Madonna Greca site before seeing Spiaggia Grande, which radiates a melancholic beauty in the rain. The day ends at Torre Vecchia, looking mysterious under the drizzling sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seleno",
+                "hu": "Seleno",
+                "ro": "Seleno",
+                "en": "Seleno"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das aufgewühlte Meer von den Klippen; feste Wanderschuhe sind wegen der rutschigen Felsen bei Regen absolut notwendig.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát a sziklákról; a csúszós kövek miatt az esőben elengedhetetlen a stabil, bordázott talpú túracipő viselete.",
+                "ro": "Bucurați-vă de vederea dramatică a mării agitate de pe stânci; încălțămintea de trekking este esențială deoarece pietrele devin foarte alunecoase pe ploaie.",
+                "en": "Enjoy the dramatic view of the churning sea from the cliffs; sturdy hiking boots are essential as the rocks become very slippery during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses moderne Zentrum als idealen überdachten Unterschlupf, um die lokale Meeresfauna trocken und sicher vor dem Wetter zu bewundern.",
+                "hu": "Használja ki ezt a modern központot mint ideális fedett menedéket, ahol szárazon és biztonságban csodálhatja meg a helyi tengeri élővilág titkait.",
+                "ro": "Folosiți acest centru modern ca adăpost ideal acoperit, unde puteți admira fauna marină locală rămânând uscat și protejat de intemperiile de afară.",
+                "en": "Take advantage of this modern center as an ideal indoor shelter, where you can admire local marine life while staying dry and protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen spirituellen Ort, dessen Brunnen im Regen eine besondere Ruhe ausstrahlt; ein großer Regenschirm schützt Sie auf dem kurzen Weg dorthin.",
+                "hu": "Látogasson el erre a spirituális helyre, melynek kútja az esőben különös nyugalmat áraszt; egy nagy esernyő jól jön a rövid, nyitott szakaszon.",
+                "ro": "Vizitați acest loc spiritual, a cărui fântână emană o liniște aparte pe timp de ploaie; o umbrelă mare vă va proteja pe drumul scurt până acolo.",
+                "en": "Visit this spiritual site, where the well radiates a special calm in the rain; a large umbrella will keep you dry during the short walk to the spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Grande",
+                "hu": "Spiaggia Grande",
+                "ro": "Spiaggia Grande",
+                "en": "Spiaggia Grande"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Meeresoberfläche vom Rand der Promenade aus; der nasse Sand ist fest, aber wasserfeste Schuhe sind ratsam.",
+                "hu": "Figyelje a tenger felszínén táncoló esőcseppeket a sétány széléről; a nedves homok kemény ugyan, de a vízálló lábbeli erősen ajánlott a parton.",
+                "ro": "Priviți picăturile de ploaie dansând pe suprafața mării de la marginea falezei; nisipul ud este compact, dar încălțămintea impermeabilă este recomandată.",
+                "en": "Watch the raindrops dancing on the sea surface from the edge of the promenade; the wet sand is firm, but waterproof shoes are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vecchia",
+                "hu": "Torre Vecchia",
+                "ro": "Torre Vecchia",
+                "en": "Torre Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Die historische Silhouette des Turms wirkt bei grauem Himmel besonders imposant; halten Sie sich wegen der Windböen und Nässe von den steilen Kanten fern.",
+                "hu": "A torony történelmi sziluettje szürke égbolt alatt különösen lenyűgöző; a széllökések és a csúszós talaj miatt maradjon távol a meredek szélektől.",
+                "ro": "Silueta istorică a turnului pare impunătoare sub cerul cenușiu; din cauza rafalelor de vânt și a umezelii, stați departe de marginile abrupte.",
+                "en": "The tower's historical silhouette looks especially imposing under grey skies; stay well away from steep edges due to wind gusts and wet surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bei Seleno ist klar und belebend, ideal für einen Spaziergang in warmer Kleidung. Mittags bietet das Aquarium eine willkommene Aufwärmpause in den beheizten Ausstellungsräumen. Am Nachmittag leuchtet die Wintersonne tief über der Madonna Greca und dem Spiaggia Grande. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen Sie den Torre Vecchia pünktlich zur magischen blauen Stunde.",
+            "hu": "A téli reggel Selenonál tiszta és frissítő, ideális egy sétához réteges, meleg öltözetben. Délben az Aquarium fűtött kiállítóterei kínálnak kellemes pihenőt a hűvös elől. Délután a téli nap alacsonyan súrolja a Madonna Greca környékét és a partot. Mivel a nap már 17:00 körül lemegy, a Torre Vecchiához pont a kora esti szürkületben, a kék órában érkezünk.",
+            "ro": "Dimineața de iarnă la Seleno este senină și revigorantă, ideală pentru o plimbare cu haine groase. La prânz, expozițiile încălzite ale Acvariului oferă o pauză binemeritată de la frig. După-amiaza, soarele de iarnă luminează discret zona Madonna Greca și plaja. Deoarece soarele apune în jur de ora 17:00, veți ajunge la Torre Vecchia exact pentru ora albastră.",
+            "en": "A winter morning at Seleno is crisp and invigorating, perfect for a walk in warm layers. At noon, the heated exhibits of the Aquarium provide a welcome break from the cold. In the afternoon, the winter sun hangs low over the Madonna Greca site and the beach. As sunset is around 17:00, you will reach Torre Vecchia just in time for the magical blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seleno",
+                "hu": "Seleno",
+                "ro": "Seleno",
+                "en": "Seleno"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die kristallklare Fernsicht, die nur die kalte Winterluft bietet; eine winddichte Jacke schützt Sie vor der steifen Brise an der Küste.",
+                "hu": "Élje át a kristálytiszta távoli kilátást, amit csak a hideg téli levegő biztosít; egy szélálló dzseki megvédi Önt a partmenti erős széltől.",
+                "ro": "Experimentați vizibilitatea de cristal pe care o oferă doar aerul rece de iarnă; o jachetă rezistentă la vânt vă va proteja de briza aspră de coastă.",
+                "en": "Experience the crystal-clear distant views that only cold winter air can provide; a windproof jacket will protect you from the stiff coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um sich zwischen den Besichtigungen aufzuwärmen und in aller Ruhe die faszinierenden Meeresbewohner im Inneren zu beobachten.",
+                "hu": "Ez a tökéletes helyszín arra, hogy két látnivaló között felmelegedjen, és nyugodt körülmények között figyelje meg a lenyűgöző tengeri élőlényeket.",
+                "ro": "Acesta este locul perfect pentru a vă încălzi între vizite și pentru a observa în liniște creaturile marine fascinante în interiorul primitor.",
+                "en": "This is the perfect spot to warm up between sightseeing stops and observe the fascinating marine creatures in a cozy, indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille dieses Ortes ohne die Sommermassen; tragen Sie feste Schuhe, da die Wege im Winter oft feucht und etwas rutschig sein können.",
+                "hu": "Élvezze a hely csendjét a nyári tömeg nélkül; viseljen zárt cipőt, mert az ösvények télen gyakran nyirkosak és kissé csúszósak lehetnek.",
+                "ro": "Bucurați-vă de liniștea acestui loc fără mulțimile de vară; purtați pantofi închiși, deoarece potecile sunt adesea umede și alunecoase iarna.",
+                "en": "Enjoy the silence of this site without the summer crowds; wear closed shoes as the paths can often be damp and slightly slippery in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Grande",
+                "hu": "Spiaggia Grande",
+                "ro": "Spiaggia Grande",
+                "en": "Spiaggia Grande"
+              },
+              "tip_5lang": {
+                "de": "Ein langer Strandspaziergang in der kühlen Luft wirkt Wunder; mützen Sie sich gut ein, da die Meeresbrise im Winter deutlich kälter weht.",
+                "hu": "Egy hosszú parti séta a hűvös levegőn csodákra képes; vegyen fel meleg sapkát, mivel a tengeri szél télen jóval hidegebben fúj a parton.",
+                "ro": "O plimbare lungă pe plajă în aerul răcoros face minuni; puneți-vă o căciulă groasă, deoarece briza mării este mult mai rece pe timpul iernii.",
+                "en": "A long beach walk in the cool air works wonders; put on a warm hat as the sea breeze blows significantly colder during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vecchia",
+                "hu": "Torre Vecchia",
+                "ro": "Torre Vecchia",
+                "en": "Torre Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um den Sonnenuntergang hinter dem Turm zu erleben; die dämmernde Festung bietet ein fantastisches Fotomotiv im Winterlicht.",
+                "hu": "Érkezzen 17 óra előtt, hogy lássa a torony mögött lebukó napot; a szürkületi erődítmény fantasztikus fotótéma a téli fényekben.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul în spatele turnului; fortăreața în amurg oferă un subiect foto fantastic în lumina iernii.",
+                "en": "Arrive before 5 PM to catch the sunset behind the tower; the fortress at twilight offers a fantastic photo opportunity in the winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel tekerjen a történelembe a Pietra di Nastase ősi neolitikus sírjainál, majd ereszkedjen le Seleno nyugodt partjaihoz. Délben gazdagítsa utazását az Akvárium és a Madonna Greca szent kútjának meglátogatásával. Töltsön el egy napfényes délutánt a Capo Bianco drámai fehér sziklái felé kerékpározva, amely felejthetetlen kilátást nyújt. Zárja aktív napját a Torre Vecchia-nál a tengerparti szellőben.",
         "ro": "Porniți de dimineață spre istoria antică a mormintelor neolitice de la Pietra di Nastase, urmată de o plimbare brizoasă spre coasta liniștită din Seleno. La prânz, îmbogățiți-vă călătoria cu o vizită la Acvariu și la fântâna sacră Madonna Greca. Petreceți o după-amiază însorită pedalând spre stâncile albe dramatice de la Capo Bianco. Încheiați-vă ziua activă la Torre Vecchia, lăsând briza mării să vă răcorească.",
         "en": "Pedal into history this morning at the ancient Neolithic tombs of Pietra di Nastase, followed by a breezy ride down to the coastal calm of Seleno. By midday, enrich your journey with a visit to the Aquarium and the sacred well of the Madonna Greca. Spend a sun-drenched afternoon cycling toward the dramatic white cliffs of Capo Bianco, offering unforgettable views. End your active day at Torre Vecchia."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei den neolithischen Gräbern, wo die nassen Steine glänzen. Auf dem Weg nach Seleno und zum Aquarium ist Vorsicht geboten, da die Straßen bei Regen rutschig sind. Das Aquarium bietet die perfekte Mittagspause im Trockenen. Nachmittags geht es zur Madonna Greca und zum Capo Bianco, bevor die Tour am Torre Vecchia endet. Achten Sie auf gute Beleuchtung bei grauem Wetter.",
+            "hu": "A bringás túra a neolitikus síroknál indul, ahol a nedves kövek különösen csillognak. Seleno és az Aquarium felé óvatosan haladjunk a csúszós aszfalton; az akvárium ideális ebédidőre. Délután a Madonna Greca és Capo Bianco következik, majd a Torre Vecchiánál zárunk. A szürke időben használjon erős lámpákat, és viseljen vízhatlan esőkabátot.",
+            "ro": "Turul cu bicicleta începe la mormintele neolitice, unde pietrele umede strălucesc. Spre Seleno și Acvariu pedalați cu prudență pe asfaltul alunecos; acvariul este ideal pentru prânz. După-amiaza urmează Madonna Greca și Capo Bianco, încheind la Torre Vecchia. Folosiți lumini puternice pe vreme gri și purtați o pelerină de ploaie impermeabilă.",
+            "en": "The bike tour starts at the Neolithic tombs, where the wet stones glisten. Ride carefully towards Seleno and the Aquarium as roads are slippery; the aquarium is ideal for a lunch break. In the afternoon, visit Madonna Greca and Capo Bianco, ending at Torre Vecchia. Use bright lights in the grey weather and wear a waterproof rain jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pietra di Nastase tombe neolitico",
+                "hu": "Pietra di Nastase tombe neolitico",
+                "ro": "Pietra di Nastase tombe neolitico",
+                "en": "Pietra di Nastase tombe neolitico"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diese antiken Stätten vorsichtig, da der Boden um die Gräber schlammig sein kann; parken Sie Ihr Rad auf festem Untergrund.",
+                "hu": "Óvatosan járja körbe az ősi helyszínt, mert a sírok környéke sáros lehet; a kerékpárt mindenképpen szilárd talajon parkolja le az esőben.",
+                "ro": "Vizitați acest sit antic cu atenție, deoarece solul din jurul mormintelor poate fi noroios; parcați bicicleta pe o suprafață solidă.",
+                "en": "Visit this ancient site carefully as the ground around the tombs can be muddy; ensure you park your bike on a solid surface during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Seleno",
+                "hu": "Seleno",
+                "ro": "Seleno",
+                "en": "Seleno"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet dramatische Ausblicke, kann aber starken Seitenwind haben; halten Sie den Lenker bei Böen und Regen besonders fest.",
+                "hu": "A partmenti út drámai kilátást nyújt, de erős oldalszélre kell számítani; az esőben és széllökésekben fogja különösen erősen a kormányt.",
+                "ro": "Drumul de coastă oferă vederi dramatice, dar poate avea vânt lateral puternic; țineți ghidonul ferm în timpul rafalelor de vânt și ploii.",
+                "en": "The coastal road offers dramatic views but can have strong side winds; keep a firm grip on the handlebars during gusts and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung zu richten, bevor Sie die faszinierenden Ausstellungen im Trockenen besuchen.",
+                "hu": "Használja a fedett bejárati részt az esőruházat rendezésére, mielőtt belépne a száraz és érdekes kiállítótérbe a tengeri világot megcsodálni.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă ajusta echipamentul de ploaie înainte de a vizita expozițiile fascinante din interiorul uscat.",
+                "en": "Use the covered entrance area to adjust your rain gear before heading inside to explore the fascinating marine exhibits in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für spirituelle Einkehr; achten Sie beim Absteigen auf den rutschigen Untergrund direkt am Brunnen und den umliegenden Wegen.",
+                "hu": "Rövid megálló a lelki töltekezéshez; a kerékpárról leszállva ügyeljen a kút környékének és az utaknak a csúszós, nedves burkolatára.",
+                "ro": "O scurtă oprire pentru reculegere; la coborârea de pe bicicletă, aveți grijă la suprafețele umede și alunecoase din jurul fântânii.",
+                "en": "A short stop for spiritual reflection; when dismounting, watch out for slippery wet surfaces directly around the well and surrounding paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Capo Bianco",
+                "hu": "Capo Bianco",
+                "ro": "Capo Bianco",
+                "en": "Capo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Klippen leuchten auch bei grauem Himmel; bleiben Sie auf den befestigten Pfaden, da die unbefestigten Wege schnell aufweichen.",
+                "hu": "A fehér sziklák szürke égbolt mellett is ragyognak; maradjon a kiépített utakon, mert a földutak esőben gyorsan felázhatnak és sárosak lehetnek.",
+                "ro": "Stâncile albe strălucesc chiar și sub cerul gri; rămâneți pe potecile pavate, deoarece drumurile de pământ devin rapid noroioase pe ploaie.",
+                "en": "The white cliffs shine even under grey skies; stick to the paved paths as unpaved trails can quickly become muddy and soft in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vecchia",
+                "hu": "Torre Vecchia",
+                "ro": "Torre Vecchia",
+                "en": "Torre Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel der Tour; trocknen Sie Ihre Bremsen durch leichtes Betätigen vor der letzten Abfahrt, um volle Bremsleistung bei Nässe zu garantieren.",
+                "hu": "A túra célpontja; a végső lejtő előtt finom fékezgetéssel szárítsa meg a fékfelületeket a teljes fékerő biztosítása érdekében a vizes úton.",
+                "ro": "Destinația turului; uscați frânele prin acționări ușoare înainte de ultima coborâre pentru a asigura eficiența maximă pe carosabil ud.",
+                "en": "The tour's end; dry your brakes by applying them lightly before the final descent to ensure full stopping power on the wet surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die stille Landschaft Kalabriens. Morgens ist die Luft bei den Gräbern von Nastase besonders klar. Mittags wärmen Sie sich im Aquarium auf, bevor Sie am Nachmittag die Madonna Greca und das beeindruckende Capo Bianco besuchen. Da die Dämmerung früh einsetzt, sollten Sie den Torre Vecchia bis 16:30 Uhr erreichen, um den Sonnenuntergang sicher zu genießen.",
+            "hu": "A téli kerékpártúra Kalábria csendes tájain vezet át. Reggel a levegő a Nastase-síroknál különösen friss. Délben melegedjen fel az Aquariumban, mielőtt délután meglátogatná a Madonna Grecát és a lenyűgöző Capo Biancót. Mivel korán sötétedik, érdemes 16:30-ig elérni a Torre Vecchiát, hogy biztonságban élvezhesse a téli naplementét.",
+            "ro": "Turul cu bicicleta de iarnă trece prin peisajele liniștite ale Calabriei. Dimineața, aerul este foarte proaspăt la mormintele Nastase. La prânz, încălziți-vă la Acvariu înainte de a vizita Madonna Greca și Capo Bianco. Deoarece se întunecă devreme, ajungeți la Torre Vecchia până la ora 16:30 pentru a vedea apusul în siguranță.",
+            "en": "The winter bike tour passes through the quiet landscapes of Calabria. In the morning, the air at the Nastase tombs is especially crisp. Warm up at the Aquarium at noon before visiting Madonna Greca and the stunning Capo Bianco. Since it gets dark early, aim to reach Torre Vecchia by 16:30 to safely enjoy the winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pietra di Nastase tombe neolitico",
+                "hu": "Pietra di Nastase tombe neolitico",
+                "ro": "Pietra di Nastase tombe neolitico",
+                "en": "Pietra di Nastase tombe neolitico"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken in der Wintersonne sehr plastisch; tragen Sie warme Handschuhe, da der Fahrtwind bei den Abfahrten recht kalt sein kann.",
+                "hu": "Az ősi kövek a téli napsütésben nagyon látványosak; viseljen meleg kesztyűt, mert a menetszél a lejtőkön kifejezetten hideg lehet télen.",
+                "ro": "Pietrele antice arată spectaculos în soarele de iarnă; purtați mănuși groase, deoarece curentul de aer pe coborâri poate fi foarte rece iarna.",
+                "en": "The ancient stones look very striking in the winter sun; wear warm gloves as the wind chill on descents can be quite cold during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Seleno",
+                "hu": "Seleno",
+                "ro": "Seleno",
+                "en": "Seleno"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht über das Ionische Meer; ein Schlauchtuch schützt Ihr Gesicht vor der kalten Winterbrise während der Fahrt entlang der Küste.",
+                "hu": "Élvezze a tiszta kilátást a Jón-tengerre; egy csősál megvédi az arcát a hideg téli széltől, miközben a part mentén kerekezik.",
+                "ro": "Bucurați-vă de vederea clară spre Marea Ionică; o eșarfă tip tub vă va proteja fața de briza rece de iarnă în timp ce pedalați pe coastă.",
+                "en": "Enjoy the clear views over the Ionian Sea; a neck gaiter will protect your face from the cold winter breeze while riding along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Besuch, um Ihre Körpertemperatur im beheizten Gebäude wieder zu normalisieren.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és használja ki a látogatást arra, hogy a fűtött épületben visszaállítsa normál testhőmérsékletét.",
+                "ro": "Parcați bicicleta în siguranță și profitați de vizită pentru a vă regla temperatura corpului în interiorul clădirii încălzite.",
+                "en": "Park your bike securely and use the visit to get your body temperature back to normal inside the cozy, heated building."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause; im Winter ist es hier besonders friedlich, was ideal für eine besinnliche Unterbrechung der Tour ist.",
+                "hu": "Csendes hely egy rövid pihenőhöz; télen itt különleges nyugalom honol, ami ideális a túra egy rövid, elmélyült megszakításához.",
+                "ro": "Un loc liniștit pentru o scurtă pauză; iarna este o pace deosebită aici, ideală pentru o întrerupere meditativă a traseului.",
+                "en": "A quiet spot for a short break; in winter it is especially peaceful here, ideal for a contemplative interruption of your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Capo Bianco",
+                "hu": "Capo Bianco",
+                "ro": "Capo Bianco",
+                "en": "Capo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Strukturen der Klippen; achten Sie auf die Zeit, da das Licht nach 16 Uhr im Winter schnell schwächer wird.",
+                "hu": "Az alacsonyan járó nap kiemeli a sziklák szerkezetét; ügyeljen az időre, mert télen 16 óra után a fényviszonyok gyorsan romlanak.",
+                "ro": "Soarele jos subliniază texturile stâncilor; fiți atenți la timp, deoarece lumina scade rapid după ora 16:00 pe timpul iernii.",
+                "en": "The low sun emphasizes the cliff structures; keep an eye on the time as the light fades quickly after 4 PM during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vecchia",
+                "hu": "Torre Vecchia",
+                "ro": "Torre Vecchia",
+                "en": "Torre Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Das Finale der Tour; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Rückfahrt nach dem Sonnenuntergang um 17 Uhr dunkel sein wird.",
+                "hu": "A túra fináléja; győződjön meg róla, hogy a lámpái jól működnek, mivel az 17 órai naplemente utáni visszaút már sötétben történik.",
+                "ro": "Finalul turului; asigurați-vă că luminile bicicletei funcționează, deoarece drumul de întoarcere după apusul de la ora 17:00 va fi pe întuneric.",
+                "en": "The tour's finale; make sure your bike lights are working, as the return journey after the 5 PM sunset will be in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Induljon korán, hogy Vurga és Capo Piccolo békés nyugati partjainál élvezhesse a reggeli nyugalmat. Késő délelőtt váltson a történelemre a lenyűgöző Pietra di Nastase síroknál, mielőtt a központi partra, Selenóba hajtana. A délutánt könnyedén feloszthatja az Akvárium és a történelmi Madonna Greca helyszín között. A nap végén autózzon el a lenyűgöző Capo Bianco sziklák mellett, és nézze meg a szürkületet.",
         "ro": "Conduceți devreme pentru a vă bucura de țărmurile pașnice din vest la Vurga și Capo Piccolo. Faceți tranziția spre istorie dimineața târziu la fascinantele morminte Pietra di Nastase, înainte de a vă îndrepta spre Seleno. Petreceți-vă după-amiaza alternând între Acvariu și situl istoric Madonna Greca. Pe măsură ce ziua se încheie, conduceți pe lângă stâncile uimitoare de la Capo Bianco la amurg.",
         "en": "Drive out early to embrace the peaceful western shores at Vurga and Capo Piccolo, soaking in the morning tranquility. Transition to history by late morning at the fascinating Pietra di Nastase tombs before heading to the central coast at Seleno. Spend your afternoon seamlessly hopping between the Aquarium and the historic Madonna Greca site. As the day ends, cruise past the stunning Capo Bianco cliffs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Küste Kalabriens komfortabel und trocken. Vormittags besuchen Sie Vurga und Capo Piccolo, während der Regen gegen die Scheiben trommelt. Mittags bietet das Aquarium eine großartige überdachte Attraktion. Am Nachmittag geht es über die Madonna Greca zum Capo Bianco. Den Tag lassen Sie am Torre Vecchia ausklingen, wobei Sie stets flexibel auf Regenschauer reagieren können.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel a kalábriai partvidéket. Délelőtt Vurgát és Capo Piccolót látogatjuk meg, miközben az eső a szélvédőn kopog. Délben az Aquarium kínál remek fedett programot. Délután a Madonna Greca és Capo Bianco következik. A napot a Torre Vecchiánál zárjuk, miközben az autó rugalmasságot biztosít az eső elleni védekezésben.",
+            "ro": "Cu mașina explorați coasta Calabriei confortabil și la adăpost de ploaie. Dimineața vizităm Vurga și Capo Piccolo în sunetul ploii pe parbriz. La prânz, Acvariul oferă o atracție acoperită excelentă. După-amiaza urmează Madonna Greca și Capo Bianco. Încheiem ziua la Torre Vecchia, având flexibilitatea de a ne adăposti rapid în caz de aversă.",
+            "en": "Explore the Calabrian coast comfortably and dry by car. In the morning, visit Vurga and Capo Piccolo while the rain taps on the windshield. At noon, the Aquarium provides a great indoor attraction. In the afternoon, head to Madonna Greca and Capo Bianco. End the day at Torre Vecchia, enjoying the flexibility to dodge the showers whenever needed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vurga",
+                "hu": "Vurga",
+                "ro": "Vurga",
+                "en": "Vurga"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See direkt aus dem warmen Auto; die Parkplätze können bei Regen etwas schlammig sein, parken Sie also mit Bedacht.",
+                "hu": "Élvezze a háborgó tenger látványát közvetlenül a meleg autóból; a parkolók esőben sárosak lehetnek, ezért körültekintően válasszon megállóhelyet.",
+                "ro": "Bucurați-vă de vederea mării agitate direct din mașina caldă; parcările pot fi noroioase pe ploaie, deci parcați cu atenție pe locuri ferme.",
+                "en": "Enjoy the view of the rough sea directly from your warm car; parking areas can get muddy in the rain, so choose your spot carefully on firm ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Capo Piccolo",
+                "hu": "Capo Piccolo",
+                "ro": "Capo Piccolo",
+                "en": "Capo Piccolo"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Aussichtspunkt auch bei schlechtem Wetter; ein kurzer Sprint zum Rand bietet tolle Fotos, bevor Sie wieder ins trockene Auto schlüpfen.",
+                "hu": "Szép kilátópont rossz időben is; egy gyors futás a part szélére remek fotókat eredményez, mielőtt visszatérne a száraz és kényelmes autóba.",
+                "ro": "Un punct de observație frumos chiar și pe vreme rea; o scurtă ieșire până la margine oferă fotografii grozave înainte de a reveni în mașină.",
+                "en": "A beautiful viewpoint even in bad weather; a quick dash to the edge provides great photos before you hop back into the dry comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietra di Nastase tombe neolitico",
+                "hu": "Pietra di Nastase tombe neolitico",
+                "ro": "Pietra di Nastase tombe neolitico",
+                "en": "Pietra di Nastase tombe neolitico"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gräber nur kurz, wenn der Regen nachlässt; die Zufahrtswege können schmal und bei Nässe etwas rutschig sein.",
+                "hu": "Csak rövid időre látogassa meg a sírokat, amikor alábbhagy az eső; a bekötőutak keskenyek és nedvesen kissé csúszósak lehetnek az autóval.",
+                "ro": "Vizitați mormintele doar scurt când ploaia se potolește; drumurile de acces pot fi înguste și puțin alunecoase pe timp de umezeală.",
+                "en": "Visit the tombs briefly when the rain eases off; the access roads can be narrow and slightly slippery when wet, so drive with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Seleno",
+                "hu": "Seleno",
+                "ro": "Seleno",
+                "en": "Seleno"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Panoramastopp; nutzen Sie die erhöhte Sitzposition im Auto für weite Blicke über die Küste, ohne nass zu werden.",
+                "hu": "Tökéletes panorámás megálló; használja ki az autó magasabb üléspozícióját a part menti kilátáshoz anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Perfect pentru o oprire panoramică; folosiți poziția ridicată din mașină pentru vederi largi asupra coastei fără a vă uda în ploaie.",
+                "en": "Perfect for a panoramic stop; take advantage of the car's seating position for sweeping coastal views without getting soaked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang und verbringen Sie hier die regenreichste Zeit des Tages bei den faszinierenden Meeresbewohnern im Trockenen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, és töltse itt a nap legesősebb részét a lenyűgöző tengeri élőlények társaságában, fedett helyen.",
+                "ro": "Parcați direct la intrare și petreceți aici cea mai ploioasă parte a zilei admirând creaturile marine fascinante la adăpostul interiorului.",
+                "en": "Park right by the entrance and spend the rainiest part of the day here, discovering fascinating marine life in a completely dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Besuch dieses spirituellen Ortes ist auch bei Regen möglich; lassen Sie den Motor kurz laufen, um die Scheiben beschlagfrei zu halten.",
+                "hu": "A spirituális helyszín gyors meglátogatása esőben is lehetséges; tartsa tisztán a szélvédőt a párátlanítóval a biztonságos továbbhaladáshoz.",
+                "ro": "O vizită rapidă la acest loc spiritual este posibilă și pe ploaie; folosiți dezaburirea parbrizului pentru a asigura vizibilitatea la plecare.",
+                "en": "A quick visit to this spiritual site is possible even in rain; keep your windshield clear using the defroster for safe driving to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Capo Bianco",
+                "hu": "Capo Bianco",
+                "ro": "Capo Bianco",
+                "en": "Capo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Felsen bilden einen starken Kontrast zum dunklen Regenmeer; genießen Sie die Szenerie durch das Seitenfenster bei einem kurzen Halt.",
+                "hu": "A fehér sziklák erős kontrasztot alkotnak a sötét, esős tengerrel; élvezze a látványt az autóablakon keresztül egy rövid megálló során.",
+                "ro": "Stâncile albe creează un contrast puternic cu marea întunecată de ploaie; admirați peisajul prin geamul mașinii în timpul unei scurte opriri.",
+                "en": "The white rocks contrast sharply with the dark, rainy sea; enjoy the scenery through the car window during a brief and convenient stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vecchia",
+                "hu": "Torre Vecchia",
+                "ro": "Torre Vecchia",
+                "en": "Torre Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an diesem historischen Turm; bei starkem Regen bietet das Auto den besten Platz, um den Turm im fahlen Licht zu bewundern.",
+                "hu": "Zárja az utat ennél a történelmi toronynál; szakadó esőben az autó nyújtja a legjobb kilátópontot a torony megcsodálásához a szürkületben.",
+                "ro": "Încheiați călătoria la acest turn istoric; pe ploaie torențială, mașina oferă cel mai bun loc pentru a admira turnul în lumina slabă a serii.",
+                "en": "End your drive at this historical tower; in heavy rain, your car provides the best vantage point to admire the structure in the fading light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Entdeckungstour mit dem Auto entlang der Küste von Sant'Antonio. Vormittags besuchen Sie Vurga und Capo Piccolo in der klaren Winterluft. Mittags bietet das Aquarium eine angenehm beheizte Pause. Nachmittags erkunden Sie die neolithischen Stätten und Capo Bianco, bevor Sie gegen 17:00 Uhr den Torre Vecchia erreichen, um den frühen, aber spektakulären Sonnenuntergang zu erleben.",
+            "hu": "Téli felfedezőút autóval Sant'Antonio partvidékén. Délelőtt Vurgát és Capo Piccolót látogatjuk meg a tiszta téli levegőben. Délben az Aquarium kínál kellemesen fűtött pihenőt. Délután a neolitikus lelőhelyeket és Capo Biancót fedezzük fel, majd 17:00 körül elérjük a Torre Vecchiát, hogy megcsodáljuk a korai, de látványos naplementét.",
+            "ro": "Explorare de iarnă cu mașina pe coasta Sant'Antonio. Dimineața vizităm Vurga și Capo Piccolo în aerul curat de iarnă. La prânz, Acvariul oferă o pauză plăcută și încălzită. După-amiaza explorăm siturile neolitice și Capo Bianco, ajungând la Torre Vecchia în jur de ora 17:00 pentru apusul spectaculos.",
+            "en": "Winter exploration by car along the coast of Sant'Antonio. In the morning, visit Vurga and Capo Piccolo in the crisp winter air. At noon, the Aquarium provides a pleasantly heated break. In the afternoon, discover the Neolithic sites and Capo Bianco, reaching Torre Vecchia around 5 PM to experience the early but spectacular sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vurga",
+                "hu": "Vurga",
+                "ro": "Vurga",
+                "en": "Vurga"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist fantastisch; nutzen Sie die Standheizung Ihres Autos, um die Aussicht auf das Meer gemütlich und warm zu genießen.",
+                "hu": "A kilátás télen fantasztikusan tiszta; használja az autó fűtését, hogy kényelmesen és melegben élvezhesse a tengeri panorámát a megállóban.",
+                "ro": "Vizibilitatea iarna este fantastică; folosiți căldura din mașină pentru a vă bucura de panorama mării confortabil și la o temperatură plăcută.",
+                "en": "The winter views are fantastically clear; use your car's heater to enjoy the sweeping sea panorama in total comfort and warmth at this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Capo Piccolo",
+                "hu": "Capo Piccolo",
+                "ro": "Capo Piccolo",
+                "en": "Capo Piccolo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang an der frischen Luft ist belebend; kehren Sie danach schnell ins warme Auto zurück, um zur nächsten Station zu fahren.",
+                "hu": "Egy rövid séta a friss levegőn felpezsdítő; utána térjen vissza gyorsan a meleg autóba, hogy kényelmesen folytathassa az utat a következő pontig.",
+                "ro": "O scurtă plimbare în aerul curat este revigorantă; reveniți apoi rapid în mașina caldă pentru a continua drumul spre următoarea destinație.",
+                "en": "A short walk in the fresh winter air is invigorating; return quickly to your warm car afterwards to comfortably drive to the next station."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietra di Nastase tombe neolitico",
+                "hu": "Pietra di Nastase tombe neolitico",
+                "ro": "Pietra di Nastase tombe neolitico",
+                "en": "Pietra di Nastase tombe neolitico"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken im harten Winterlicht besonders beeindruckend; achten Sie auf Frost auf den Nebenstraßen bei frühen Fahrten am Morgen.",
+                "hu": "Az ősi kövek a téli fényben különösen lenyűgözőek; ügyeljen a reggeli fagyra a mellékutakon, ha korán indul útnak a lelőhely felé az autóval.",
+                "ro": "Pietrele antice par impresionante în lumina rece de iarnă; atenție la posibila polei pe drumurile secundare dacă porniți devreme dimineața.",
+                "en": "The ancient stones look especially impressive in the winter light; watch out for frost on side roads during early morning drives to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Seleno",
+                "hu": "Seleno",
+                "ro": "Seleno",
+                "en": "Seleno"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für Fotos ohne die sommerliche Hitze; der Parkplatz ist im Winter meist leer, sodass Sie direkt am Aussichtspunkt halten können.",
+                "hu": "Ideális helyszín fotózáshoz a nyári hőség nélkül; a parkoló télen többnyire üres, így közvetlenül a kilátópontnál tud megállni az autóval.",
+                "ro": "Locul ideal pentru fotografii fără căldura verii; parcarea este de obicei goală iarna, permițându-vă să opriți chiar lângă punctul de observație.",
+                "en": "An ideal spot for photos without the summer heat; the parking area is mostly empty in winter, allowing you to park right by the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "hu": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "ro": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM",
+                "en": "Aquarium - Centro di Educazione all’Ambiente Marino - CEAM"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Aufenthalt im beheizten Aquarium als perfekten Kontrast zur kühlen Außenluft, während Sie die Meeresfauna in Ruhe erkunden.",
+                "hu": "Élvezze a fűtött akváriumban töltött időt, ami tökéletes kontraszt a hűvös kinti levegővel; fedezze fel nyugodtan a tengeri élővilág titkait.",
+                "ro": "Bucurați-vă de timpul petrecut în acvariul încălzit, un contrast perfect cu aerul rece de afară, în timp ce explorați fauna marină în liniște.",
+                "en": "Enjoy your stay in the heated Aquarium as a perfect contrast to the cool outside air while you explore the marine fauna at your own pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "hu": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "ro": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca",
+                "en": "Pozzo, Fontana e Cespuglio (\"Troppa\") della Madonna Greca"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine andächtige Stille; der Ort ist leicht erreichbar und bietet eine kurze, besinnliche Pause auf Ihrer Autofahrt.",
+                "hu": "Télen áhítatos csend honol itt; a helyszín könnyen megközelíthető autóval, és rövid, elmélyült pihenőt kínál a partmenti autózás során.",
+                "ro": "Iarna domnește aici o liniște pioasă; locul este ușor accesibil și oferă o scurtă pauză meditativă în timpul călătoriei dumneavoastră cu mașina.",
+                "en": "A reverent silence prevails here in winter; the site is easily accessible and offers a short, contemplative break during your coastal drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Capo Bianco",
+                "hu": "Capo Bianco",
+                "ro": "Capo Bianco",
+                "en": "Capo Bianco"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Felsen leuchten im flachen Winterlicht besonders hell; ein kurzer Stopp am Wegesrand reicht für beeindruckende Panoramaaufnahmen aus.",
+                "hu": "A fehér sziklák az alacsony téli fényben különösen fényesen ragyognak; egy rövid megálló az út mentén elég a lenyűgöző panorámaképekhez.",
+                "ro": "Stâncile albe strălucesc intens în lumina joasă de iarnă; o scurtă oprire pe marginea drumului este suficientă pentru fotografii panoramice.",
+                "en": "The white rocks shine brightly in the low winter light; a brief stop along the road is enough for impressive panoramic photos of the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vecchia",
+                "hu": "Torre Vecchia",
+                "ro": "Torre Vecchia",
+                "en": "Torre Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight zum Abschluss; parken Sie rechtzeitig vor 17 Uhr, um den malerischen Sonnenuntergang über der historischen Anlage warm und trocken zu sehen.",
+                "hu": "A záró fénypont; parkoljon le időben 17 óra előtt, hogy a festői naplementét a történelmi toronynál melegben és kényelemben élvezhesse.",
+                "ro": "Punctul culminant al finalului; parcați înainte de ora 17:00 pentru a vedea apusul pitoresc peste turnul istoric din confortul mașinii.",
+                "en": "The final highlight; park in time before 5 PM to see the picturesque sunset over the historical site while staying warm and dry in your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

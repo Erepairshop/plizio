@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Xalapa történelmi központjában, gyönyörködjön a lenyűgöző katedrálisban és a nyüzsgő téren. \n\n Délben fedezzen fel olyan ikonikus történelmi nevezetességeket, mint a Juanote, és merüljön el a régió ökoszisztémáiban a Természettudományi Múzeumban. \n\n A délutánt a gyarmati építészetnek és az allegorikus művészetnek szenteljük, amely feltárja Xalapa történelmi mélységeit. \n\n Zárja gyalogtúráját egy kortárs művészeti galériában, ahol a modern Mexikó kreatív lüktetése kel életre az esti égbolt alatt.",
         "ro": "Începeți-vă dimineața în centrul istoric al orașului Xalapa, bucurându-vă de grandoarea Catedralei magnifice și a pieței pline de viață. \n\n Explorați la prânz repere istorice iconice precum Juanote și scufundați-vă în ecosistemele diverse ale regiunii la Muzeul de Istorie Naturală. \n\n După-amiaza este dedicată arhitecturii coloniale și artei alegorice, dezvăluind profunzimea istorică a orașului Xalapa. \n\n Încheiați turul de plimbare la o galerie de artă contemporană, unde pulsul creativ al Mexicului modern prinde viață.",
         "en": "Begin your morning in the historic core of Xalapa, soaking in the grandeur of the magnificent Cathedral and its surrounding bustling plaza. \n\n Transition towards midday by exploring iconic historical landmarks like Juanote and delving into the region's diverse ecosystems at the Natural History Museum. \n\n Your afternoon is dedicated to colonial architecture and allegorical art, revealing Xalapa's artistic and historical depth. \n\n Conclude your walking tour at a contemporary art gallery, where the creative pulse of modern Mexico comes alive under the evening sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Kathedrale, die einen trockenen Zufluchtsort vor dem berühmten Nebel von Xalapa bietet. Mittags sind die Kopfsteinpflasterwege bei Juanote rutschig, bewegen Sie sich daher vorsichtig mit dem Regenschirm. Nachmittags bieten die Museen perfekten Schutz und kulturelle Tiefe. Der Abend endet gemütlich in der Kunstgalerie, während draußen der Regen sanft auf die Straßen fällt.",
+            "hu": "Reggel a székesegyház belső tere nyújt menedéket a xalapai köd elől. Délben a Juanote szobor környékén a macskakövek csúszósak lehetnek, használjon esernyőt az átkeléshez. Délután a múzeumok fedett tárlatai között maradjon szárazon, miközben elmélyül a helyi történelemben. Az este a galéria meleg fényei között ér véget, távol a kinti szemerkéléstől.",
+            "ro": "Începeți dimineața la catedrală, un sanctuar uscat ferit de faimoasa ceață din Xalapa. La prânz, pavajul de lângă Juanote devine alunecos, așa că mergeți cu grijă sub umbrelă. După-amiaza, muzeele oferă adăpostul perfect pentru a explora cultura locală fără a vă uda. Seara se încheie plăcut în galeria de artă, în timp ce ploaia cade ușor peste oraș.",
+            "en": "Start your morning at the cathedral, a dry sanctuary from Xalapa’s famous mist. By noon, the cobblestones around Juanote become slick, so tread carefully with your umbrella. Spend the afternoon hopping between indoor museums to stay completely dry while absorbing the local culture. As evening falls, the warm glow of the art gallery provides a cozy end to a damp day in the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Catedral de la Inmaculada Concepción de Xalapa",
+                "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+                "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+                "en": "Catedral de la Inmaculada Concepción de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet einen majestätischen und trockenen Rückzugsort; bewundern Sie die Architektur im Inneren, während Sie darauf warten, dass der Regen draußen etwas nachlässt.",
+                "hu": "A székesegyház belső tere fenséges és száraz menedék; csodálja meg az oltárokat és az építészetet, miközben megvárja, hogy a kinti zápor egy kicsit csendesedjen.",
+                "ro": "Interiorul catedralei oferă un refugiu maiestuos și uscat; admirați arhitectura și altarele în timp ce așteptați ca ploaia de afară să se mai domolească puțin.",
+                "en": "The cathedral's interior offers a majestic and dry sanctuary; admire the architecture and altars while waiting for the drizzle outside to calm down for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Juanote",
+                "hu": "Juanote",
+                "ro": "Juanote",
+                "en": "Juanote"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Denkmal im Freien erfordert einen stabilen Regenschirm; achten Sie auf die nassen Stufen, da der Stein bei Nässe sehr rutschig werden kann.",
+                "hu": "Ez a szabadtéri emlékmű stabil esernyőt igényel; ügyeljen a nedves lépcsőkre és kövekre, mert a vizes burkolat rendkívül csúszóssá válhat a séta során.",
+                "ro": "Acest monument istoric în aer liber necesită o umbrelă stabilă; atenție la treptele umede, deoarece piatra poate deveni foarte alunecoasă când plouă.",
+                "en": "This outdoor historical monument requires a sturdy umbrella; watch your step on the wet pavement, as the stones can become quite slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Audiovisual de Historia Natural",
+                "hu": "Museo Audiovisual de Historia Natural",
+                "ro": "Museo Audiovisual de Historia Natural",
+                "en": "Museo Audiovisual de Historia Natural"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Tage, da alle Ausstellungen überdacht sind; nutzen Sie die interaktiven Displays, um trocken etwas über die Natur zu lernen.",
+                "hu": "Ideális helyszín esős napokra, mivel minden kiállítás fedett; használja az interaktív kijelzőket, hogy szárazon tanulhasson a természet világáról.",
+                "ro": "O locație ideală pentru zilele ploioase, deoarece toate expozițiile sunt acoperite; folosiți ecranele interactive pentru a învăța despre natură la adăpost.",
+                "en": "An ideal location for rainy days as all exhibits are indoor; use the interactive displays to learn about nature while staying completely dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Xalapa",
+                "hu": "Museo Casa de Xalapa",
+                "ro": "Museo Casa de Xalapa",
+                "en": "Museo Casa de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Das koloniale Gebäude bietet perfekten Schutz vor Regen; erkunden Sie die lokalen Exponate in den gemütlichen Räumen und lassen Sie Ihre nasse Kleidung an der Garderobe.",
+                "hu": "A gyarmati stílusú épület tökéletes védelmet nyújt; fedezze fel a helyi tárlatokat a hangulatos szobákban, a vizes kabátot pedig hagyja a ruhatárban.",
+                "ro": "Clădirea colonială oferă o protecție perfectă împotriva ploii; explorați exponatele locale în camerele primitoare și lăsați hainele ude la garderobă.",
+                "en": "The colonial-style building provides excellent protection from the rain; explore local exhibits in cozy rooms and leave your wet coat at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Cuatro Virtudes",
+                "hu": "Las Cuatro Virtudes",
+                "ro": "Las Cuatro Virtudes",
+                "en": "Las Cuatro Virtudes"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto dieser Skulpturen unter Ihrem Regenschirm; die nasse Bronze glänzt im Regen besonders schön, aber halten Sie sich am Geländer fest.",
+                "hu": "Készítsen egy gyors fotót a szobrokról az esernyője alól; a nedves bronz csodásan csillog az esőben, de a csúszós talaj miatt kapaszkodjon a korlátba.",
+                "ro": "Faceți o fotografie rapidă sculpturilor de sub umbrelă; bronzul umed strălucește frumos în ploaie, dar aveți grijă la solul alunecos din jur.",
+                "en": "Snap a quick photo of these sculptures from under your umbrella; the wet bronze shines beautifully in the rain, but hold onto the rails on the slick ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería de Arte Contemporáneo de Xalapa",
+                "hu": "Galería de Arte Contemporáneo de Xalapa",
+                "ro": "Galería de Arte Contemporáneo de Xalapa",
+                "en": "Galería de Arte Contemporáneo de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den Abend in dieser trockenen und modernen Galerie; die ruhige Atmosphäre ist der perfekte Ort, um den Tag entspannt und ohne Nässe ausklingen zu lassen.",
+                "hu": "Töltse az estét ebben a száraz és modern galériában; a csendes atmoszféra tökéletes helyszín a nap lezárásához, messze a kinti hűvös csapadéktól.",
+                "ro": "Petreceți seara în această galerie modernă și uscată; atmosfera liniștită este locul perfect pentru a încheia ziua relaxat, departe de umezeala de afară.",
+                "en": "Spend your evening in this dry and modern gallery; the quiet atmosphere is the perfect place to end your day relaxed, far from the chilly dampness outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen in Xalapa ist die Luft frisch; wärmen Sie sich in der Kathedrale auf. Mittags lädt die milde Wintersonne zu einem Spaziergang ein, doch ziehen Sie sich schichtweise an. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Museen am frühen Nachmittag besuchen. Den Abend verbringen Sie am besten in den beheizten Räumen der Kunstgalerie.",
+            "hu": "A tiszta téli reggeleken Xalapa levegője friss, kezdjen a katedrális falai között. Délben a gyenge téli napsütés ideális a sétához, de öltözzön rétegesen. Mivel a nap korán, 17:00 körül nyugszik, a múzeumokat kora délutánra időzítse. Az estét érdemes a galéria barátságos, belső tereiben tölteni, élvezve a művészetet.",
+            "ro": "În diminețile senine de iarnă, aerul din Xalapa este proaspăt; încălziți-vă în interiorul catedralei. La prânz, soarele blând de iarnă este ideal pentru plimbări, dar îmbrăcați-vă în straturi. Deoarece soarele apune devreme, în jur de ora 17:00, vizitați muzeele după-amiaza devreme. Seara este cel mai bine petrecută în spațiile primitoare ale galeriei.",
+            "en": "On clear winter mornings, Xalapa's air is crisp; warm up inside the cathedral first. At noon, the mild winter sun is ideal for walking, but wear layers to stay comfortable. Since the sun sets early around 17:00, schedule museum visits for the early afternoon. Spend your evening in the cozy indoor spaces of the art gallery, enjoying the local culture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Catedral de la Inmaculada Concepción de Xalapa",
+                "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+                "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+                "en": "Catedral de la Inmaculada Concepción de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kathedrale speichern die Wärme; ein idealer Ort, um der morgendlichen Winterkühle zu entfliehen und die Ruhe zu genießen.",
+                "hu": "A székesegyház vastag falai jól tartják a hőt; ideális helyszín a reggeli téli hűvös elöli menekülésre és a csendes szemlélődésre a padsorokban.",
+                "ro": "Zidurile groase ale catedralei păstrează bine căldura; este un loc ideal pentru a scăpa de răcoarea dimineții de iarnă și pentru meditație liniștită.",
+                "en": "The cathedral's thick walls retain warmth well; it is an ideal spot to escape the morning winter chill and enjoy some quiet contemplation indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Juanote",
+                "hu": "Juanote",
+                "ro": "Juanote",
+                "en": "Juanote"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet diese Statue mittags wunderschön; tragen Sie eine Mütze gegen den kühlen Wind, der oft durch die Gassen der Altstadt weht.",
+                "hu": "A téli napfény délidőben gyönyörűen megvilágítja a szobrot; viseljen sapkát a hűvös szél ellen, amely gyakran végigfúj az óváros szűk utcáin.",
+                "ro": "Soarele de iarnă luminează frumos această statuie la prânz; purtați o căciulă împotriva vântului rece care suflă adesea pe străzile vechi ale orașului.",
+                "en": "The winter sun illuminates this statue beautifully at noon; wear a hat against the cool breeze that often blows through the old town's narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Audiovisual de Historia Natural",
+                "hu": "Museo Audiovisual de Historia Natural",
+                "ro": "Museo Audiovisual de Historia Natural",
+                "en": "Museo Audiovisual de Historia Natural"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter angenehm temperiert; nutzen Sie den Nachmittag für einen längeren Aufenthalt, bevor es draußen früh dunkel wird.",
+                "hu": "A belső terek télen is kellemes hőmérsékletűek; használja ki a délutánt egy hosszabb látogatásra, mielőtt kint korán sötétedni kezdene.",
+                "ro": "Spațiile interioare au o temperatură plăcută iarna; profitați de după-amiază pentru o vizită mai lungă înainte ca afară să se întunece devreme.",
+                "en": "The interior spaces are kept at a pleasant temperature in winter; use the afternoon for a longer visit before it starts getting dark outside early."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Xalapa",
+                "hu": "Museo Casa de Xalapa",
+                "ro": "Museo Casa de Xalapa",
+                "en": "Museo Casa de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre in den windgeschützten Räumen; die warme Beleuchtung im Inneren lässt die Winterkälte draußen schnell vergessen.",
+                "hu": "Élvezze a történelmi hangulatot a szélvédett szobákban; a belső terek meleg világítása segít gyorsan elfelejteni a kinti téli zimankót.",
+                "ro": "Bucurați-vă de atmosfera istorică în camerele ferite de vânt; iluminarea caldă din interior vă va face să uitați rapid de frigul iernii de afară.",
+                "en": "Enjoy the historical atmosphere in the wind-protected rooms; the warm interior lighting helps you quickly forget the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Cuatro Virtudes",
+                "hu": "Las Cuatro Virtudes",
+                "ro": "Las Cuatro Virtudes",
+                "en": "Las Cuatro Virtudes"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang um 17:00 Uhr; das goldene Winterlicht verleiht den Skulpturen eine ganz besondere, mystische Ausstrahlung.",
+                "hu": "Látogasson el ide nem sokkal a 17:00-s naplemente előtt; az aranyló téli fények különleges, misztikus kisugárzást kölcsönöznek a szoborcsoportnak.",
+                "ro": "Vizitați acest loc cu puțin timp înainte de apusul de la ora 17:00; lumina aurie de iarnă oferă sculpturilor o aură mistică deosebită.",
+                "en": "Visit this spot shortly before the 17:00 sunset; the golden winter light gives the sculptures a special, mystical glow for your evening photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería de Arte Contemporáneo de Xalapa",
+                "hu": "Galería de Arte Contemporáneo de Xalapa",
+                "ro": "Galería de Arte Contemporáneo de Xalapa",
+                "en": "Galería de Arte Contemporáneo de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist der perfekte Ort für den frühen Winterabend; genießen Sie die Kunst in einer warmen Umgebung, während es draußen bereits dunkel ist.",
+                "hu": "A galéria tökéletes helyszín a korai téli estére; élvezze a műalkotásokat meleg környezetben, miközben kint már leszállt a korai sötétség.",
+                "ro": "Galeria este locul perfect pentru o seară devreme de iarnă; bucurați-vă de artă într-un mediu cald, în timp ce afară s-a lăsat deja întunericul.",
+                "en": "The gallery is the perfect venue for an early winter evening; enjoy the artworks in a warm environment while the early darkness has already fallen."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a buja természettel körülvett ökológiai parkban, belélegezve Xalapa friss hegyi levegőjét. \n\n Délben tekerjen el a látványos Antropológiai Múzeumba, amely az ország legmélyebb ókori műtárgyainak ad otthont. \n\n Délután utazzon vissza a történelmi belvárosba, hogy megcsodálja a nagy katedrálist és az utcákon elszórtan található történelmi emlékműveket. \n\n Zárja aktív napját a város híres kulturális központjaiban, felfedezve a vibráló zenei örökséget és a dinamikus helyi művészeti színteret.",
         "ro": "Începeți turul cu bicicleta înconjurat de natura luxuriantă a parcului ecologic, respirând aerul proaspăt de munte din Xalapa. \n\n La prânz, mergeți spre spectaculosul Muzeu de Antropologie, care găzduiește unele dintre cele mai profunde artefacte antice din țară. \n\n După-amiaza, mergeți în centrul istoric pentru a admira Catedrala măreață și monumentele istorice presărate de-a lungul străzilor. \n\n Încheiați-vă ziua activă explorând moștenirea muzicală și scena de artă locală din centrele culturale celebre ale orașului.",
         "en": "Start your bike tour surrounded by lush nature at the city's iconic ecological park, breathing in the fresh mountain air of Xalapa. \n\n Coast your way towards midday by visiting the spectacular Anthropology Museum, home to some of the most profound ancient artifacts in the country. \n\n In the afternoon, ride back into the historic downtown to admire the grand Cathedral and spot nearby historical monuments dotted along the streets. \n\n Wrap up your active day exploring the vibrant musical heritage and dynamic local art scenes in the city's celebrated cultural centers."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Xalapa erfordert Vorsicht auf den Waldwegen des Parks. Mittags bietet das Anthropologie-Museum eine riesige überdachte Fläche zum Parken und Erkunden. Achten Sie nachmittags auf rutschiges Kopfsteinpflaster in der Innenstadt. Der Abend in den Museen ist sicher und trocken, ideal um die nasse Ausrüstung kurz abzulegen.",
+            "hu": "A xalapai esőben való biciklizés óvatosságot igényel a park erdei útjain. Délben az Antropológiai Múzeum hatalmas fedett teret kínál a parkoláshoz és a felfedezéshez. Délután figyeljen a csúszós macskakövekre a belvárosban. Az esti múzeumlátogatás biztonságos és száraz, ideális a vizes felszerelés rövid pihentetéséhez.",
+            "ro": "Biciclatul prin ploaia din Xalapa necesită prudență pe potecile din parc. La prânz, Muzeul de Antropologie oferă un spațiu acoperit generos pentru parcare și explorare. După-amiaza, atenție la pavajul alunecos din centrul orașului. Seara la muzee este sigură și uscată, ideală pentru a lăsa echipamentul ud la intrare.",
+            "en": "Cycling through Xalapa's rain requires extra caution on the park's forested trails. At noon, the Anthropology Museum offers a vast indoor space to explore while staying dry. In the afternoon, watch out for slippery cobblestones in the city center. Evening museum visits are safe and dry, perfect for taking a break from the wet gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Ecológico Macuiltépetl",
+                "hu": "Parque Ecológico Macuiltépetl",
+                "ro": "Parque Ecológico Macuiltépetl",
+                "en": "Parque Ecológico Macuiltépetl"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können sehr schlammig und rutschig sein; fahren Sie langsam und genießen Sie den mystischen Anblick des nebelverhangenen Waldes unter Ihrem Regenschutz.",
+                "hu": "Az utak sárga és csúszósak lehetnek; tekerjen lassan, és élvezze a ködbe burkolózó erdő misztikus látványát az esővédő felszerelése alatt.",
+                "ro": "Potecile pot fi noroioase și alunecoase; pedalați încet și bucurați-vă de vederea mistică a pădurii înăbușite în ceață sub pelerina de ploaie.",
+                "en": "The trails can be muddy and very slippery; bike slowly and enjoy the mystical sight of the mist-covered forest from under your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Antropología de Xalapa",
+                "hu": "Museo de Antropología de Xalapa",
+                "ro": "Museo de Antropología de Xalapa",
+                "en": "Museo de Antropología de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Dieses riesige Museum ist der beste Zufluchtsort vor starkem Regen; parken Sie Ihr Rad sicher und verbringen Sie Stunden in den trockenen, beeindruckenden Hallen.",
+                "hu": "Ez a hatalmas múzeum a legjobb menedék a heves eső elől; parkoljon le biztonságosan, és töltsön órákat a száraz, lenyűgöző kiállítótermekben.",
+                "ro": "Acest muzeu imens este cel mai bun refugiu împotriva ploii torențiale; parcați bicicleta în siguranță și petreceți ore în șir în sălile uscate.",
+                "en": "This massive museum is the ultimate refuge from heavy rain; park your bike securely and spend hours exploring the impressive, dry exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Inmaculada Concepción de Xalapa",
+                "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+                "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+                "en": "Catedral de la Inmaculada Concepción de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um sich kurz abzutrocknen; die Kathedrale bietet einen ruhigen Moment abseits der nassen Straßen und des spritzenden Wassers.",
+                "hu": "Használja az előteret egy gyors száradáshoz; a székesegyház nyugodt pillanatot kínál a vizes utcák és a felverődő sár elől menekülve.",
+                "ro": "Folosiți pridvorul pentru a vă usca rapid; catedrala oferă un moment de liniște departe de străzile ude și de apa stropită de mașini.",
+                "en": "Use the vestibule to dry off quickly; the cathedral offers a quiet moment of respite from the wet streets and splashing puddles outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Cuatro Virtudes",
+                "hu": "Las Cuatro Virtudes",
+                "ro": "Las Cuatro Virtudes",
+                "en": "Las Cuatro Virtudes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den glatten Untergrund; die Statuen wirken im Regen dramatisch, aber Ihre Sicherheit auf den nassen Fliesen geht vor.",
+                "hu": "Leszálláskor ügyeljen a sima burkolatra; a szobrok drámai látványt nyújtanak az esőben, de a biztonsága a nedves köveken mindennél fontosabb.",
+                "ro": "Atenție la suprafața netedă când coborâți de pe bicicletă; statuile arată dramatic în ploaie, dar siguranța pe pietrele ude este prioritară.",
+                "en": "Be careful on the smooth surface when dismounting; the statues look dramatic in the rain, but your safety on the wet tiles comes first."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería Ramón Alva de la Canal",
+                "hu": "Galería Ramón Alva de la Canal",
+                "ro": "Galería Ramón Alva de la Canal",
+                "en": "Galería Ramón Alva de la Canal"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um das Radfahren kurz zu unterbrechen und trocken Kunst zu genießen; lassen Sie Ihre nasse Ausrüstung am Eingangsbereich stehen.",
+                "hu": "Csodás helyszín a tekerés megszakítására és a száraz művészeti élményre; a vizes felszerelést hagyja a bejárati részen a látogatás idejére.",
+                "ro": "Un loc minunat pentru a întrerupe pedalatul și a vă bucura de artă la uscat; lăsați echipamentul ud la intrare pe durata vizitei.",
+                "en": "A wonderful place to pause your ride and enjoy some art while dry; leave your wet gear near the entrance during your indoor exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Doña Falla Museo de la Música Veracruzana",
+                "hu": "Casa Doña Falla Museo de la Música Veracruzana",
+                "ro": "Casa Doña Falla Museo de la Música Veracruzana",
+                "en": "Casa Doña Falla Museo de la Música Veracruzana"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in diesem warmen Musikmuseum; die gemütliche Atmosphäre lässt Sie die Anstrengung der regnerischen Fahrt schnell vergessen.",
+                "hu": "Zárja a túrát ebben a barátságos zenei múzeumban; a hangulatos légkör segít gyorsan elfelejteni az esős tekerés minden nehézségét és fáradalmát.",
+                "ro": "Încheiați turul în acest muzeu al muzicii primitor; atmosfera caldă vă va face să uitați rapid de efortul pedalatului prin ploaie.",
+                "en": "End your rainy ride in this cozy music museum; the welcoming atmosphere will make you quickly forget the effort of cycling through the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare, kalte Winterluft bei einer morgendlichen Fahrt durch den Park. Mittags wärmt Sie die Sonne auf dem Weg zum großen Museum auf. Da es gegen 17:00 Uhr dunkel wird, sollten Sie Ihre Radtour früh beenden, um nicht in der Kälte zu fahren. Die Abendstunden in den Museen bieten einen warmen und kulturell bereichernden Abschluss.",
+            "hu": "Élvezze a tiszta, hideg téli levegőt a reggeli tekerés során a parkban. Délben a napsütés felmelegíti, miközben a nagy múzeum felé tart. Mivel 17:00 körül sötétedik, fejezze be korábban a biciklizést, hogy elkerülje az esti fagyosabb szelet. A múzeumi esték meleg és kulturális lezárást kínálnak a napnak.",
+            "ro": "Bucurați-vă de aerul curat și rece de iarnă în timpul unei plimbări matinale prin parc. La prânz, soarele vă va încălzi în drum spre marele muzeu. Deoarece se întunecă în jur de ora 17:00, încheiați tura cu bicicleta mai devreme. Seara la muzee oferă un final cald și bogat cultural pentru ziua voastră.",
+            "en": "Enjoy the crisp, cold winter air during a morning ride through the park. At noon, the sun will warm you up as you head toward the large museum. Since it gets dark around 17:00, finish your cycling early to avoid the evening chill. The museum evenings offer a warm and culturally rich conclusion to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Ecológico Macuiltépetl",
+                "hu": "Parque Ecológico Macuiltépetl",
+                "ro": "Parque Ecológico Macuiltépetl",
+                "en": "Parque Ecológico Macuiltépetl"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den Fahrtwind; die Aussicht auf die winterliche Stadt vom Gipfel aus ist bei der klaren Sicht besonders beeindruckend und weitläufig.",
+                "hu": "Viseljen kesztyűt a menetszél ellen; a téli város látványa a csúcsról a tiszta időben különösen lenyűgöző és messzire ellátszik a horizonton.",
+                "ro": "Purtați mănuși împotriva vântului; vederea orașului de iarnă de pe vârf este deosebit de impresionantă și clară în această perioadă a anului.",
+                "en": "Wear gloves against the biting wind; the view of the winter city from the summit is particularly impressive and clear during this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Antropología de Xalapa",
+                "hu": "Museo de Antropología de Xalapa",
+                "ro": "Museo de Antropología de Xalapa",
+                "en": "Museo de Antropología de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich nach der Fahrt aufzuwärmen; die weitläufigen Hallen sind angenehm temperiert und bieten Schutz vor der winterlichen Kälte draußen.",
+                "hu": "Tökéletes helyszín a bemelegedésre a tekerés után; a tágas csarnokok kellemesen temperáltak, és védelmet nyújtanak a kinti téli hideg ellen.",
+                "ro": "Un loc perfect pentru a vă încălzi după plimbare; sălile spațioase au o temperatură plăcută și oferă protecție împotriva frigului de iarnă.",
+                "en": "A perfect place to warm up after your ride; the spacious halls are pleasantly tempered and offer protection from the winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Inmaculada Concepción de Xalapa",
+                "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+                "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+                "en": "Catedral de la Inmaculada Concepción de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz inne, um die friedliche Atmosphäre zu genießen; die Innenwärme der Kathedrale ist nach einer kalten Abfahrt durch die Stadt sehr willkommen.",
+                "hu": "Álljon meg egy pillanatra, és élvezze a békés hangulatot; a székesegyház belső melege nagyon jólesik egy hideg, városon átvezető tekerés után.",
+                "ro": "Opriți-vă o clipă pentru a vă bucura de atmosfera liniștită; căldura interioară a catedralei este binevenită după o coborâre rece prin oraș.",
+                "en": "Stop for a moment to enjoy the peaceful atmosphere; the cathedral's inner warmth is very welcome after a cold ride through the city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Cuatro Virtudes",
+                "hu": "Las Cuatro Virtudes",
+                "ro": "Las Cuatro Virtudes",
+                "en": "Las Cuatro Virtudes"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht am frühen Nachmittag sorgt für tolle Kontraste; machen Sie Ihr Foto schnell, bevor die Schatten im Winter zu lang werden.",
+                "hu": "A kora délutáni alacsony napállás remek kontrasztokat teremt; készítse el a fotót gyorsan, mielőtt a téli árnyékok túl hosszúra nyúlnának a téren.",
+                "ro": "Lumina soarelui de după-amiază creează contraste grozave; faceți fotografia rapid înainte ca umbrele de iarnă să devină prea lungi pe pavaj.",
+                "en": "The early afternoon low sunlight creates great contrasts; take your photo quickly before the winter shadows become too long on the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería Ramón Alva de la Canal",
+                "hu": "Galería Ramón Alva de la Canal",
+                "ro": "Galería Ramón Alva de la Canal",
+                "en": "Galería Ramón Alva de la Canal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den späten Nachmittag für diese überdachte Galerie; es ist der ideale Ort, um sich auszuruhen, während die Temperaturen draußen bereits sinken.",
+                "hu": "Használja ki a késő délutánt ebben a fedett galériában; ez az ideális hely a pihenésre, miközben kint a hőmérséklet már érezhetően csökkenni kezd.",
+                "ro": "Folosiți după-amiaza târziu pentru această galerie acoperită; este locul ideal pentru odihnă în timp ce temperaturile de afară încep să scadă.",
+                "en": "Take advantage of the late afternoon in this covered gallery; it’s an ideal place to rest while the outside temperatures already begin to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Doña Falla Museo de la Música Veracruzana",
+                "hu": "Casa Doña Falla Museo de la Música Veracruzana",
+                "ro": "Casa Doña Falla Museo de la Música Veracruzana",
+                "en": "Casa Doña Falla Museo de la Música Veracruzana"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss Ihrer Wintertour; genießen Sie die musikalischen Exponate im Warmen, bevor Sie den Heimweg in der frühen Dunkelheit antreten.",
+                "hu": "A téli túra barátságos lezárása; élvezze a zenei kiállításokat a melegben, mielőtt a korai sötétségben elindulna hazafelé a biciklivel.",
+                "ro": "Un final primitor pentru turul de iarnă; bucurați-vă de expozițiile muzicale la căldură înainte de a pleca spre casă în întunericul serii.",
+                "en": "A cozy conclusion to your winter tour; enjoy the musical exhibits in the warmth before heading home in the early darkness of the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját a lélegzetelállító Antropológiai Múzeumban, és azonnal merüljön el Mexikó mély ókori gyökereiben. \n\n Délben tegyen egy festői utat az ökológiai parkba egy gyors természeti szünetre, mielőtt Xalapa történelmi központjába hajtana. \n\n A délután zökkenőmentes átmenetet kínál a helyi történelem és a kortárs esztétika között, miközben a galériák és múzeumok között ingázik. \n\n Zárja a napot egy békés autózással a város szélén található eldugott kolostorba, amely nyugodt befejezést nyújt a kiterjedt városi felfedezésnek.",
         "ro": "Începeți turul cu mașina la impresionantul Muzeu de Antropologie, scufundându-vă imediat în rădăcinile antice profunde ale Mexicului. \n\n La prânz, faceți o plimbare pitorească până la parcul ecologic pentru o scurtă pauză în natură, înainte de a coborî în centrul istoric. \n\n După-amiaza oferă o tranziție lină prin istoria locală și estetica contemporană, în timp ce vă deplasați între galerii și muzee. \n\n Încheiați cu o plimbare liniștită către o mănăstire retrasă, oferind un final senin explorării urbane extinse.",
         "en": "Launch your driving tour at the breathtaking Anthropology Museum, delving immediately into Mexico's profound ancient roots. \n\n By midday, take a scenic drive over to the ecological park for a quick nature break before cruising down to the bustling heart of Xalapa's historic center. \n\n The afternoon offers a smooth transition through local history and contemporary aesthetics as you hop between specialized galleries and museums. \n\n Conclude with a peaceful drive to a secluded monastery on the city's outskirts, providing a serene finish to your extensive urban exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie bestens gegen den Regen geschützt, achten Sie jedoch auf schlechte Sicht auf den Bergstraßen. Mittags ist das Parken am Anthropologie-Museum bequem und führt Sie direkt ins Trockene. Besuchen Sie nachmittags die Galerien im Stadtzentrum, wo das Auto Sie nah an den Eingang bringt. Der Abend endet mystisch in der abgelegenen Tempelanlage im Nebel.",
+            "hu": "Autóval védve van az esőtől, de ügyeljen a rossz látási viszonyokra a hegyi utakon. Délben a parkolás az Antropológiai Múzeumnál kényelmes, és egyenesen a szárazba vezet. Délután látogassa meg a belvárosi galériákat, ahol az autó közel visz a bejárathoz. Az este misztikusan zárul a távoli, ködbe burkolózó templomkomplexumnál.",
+            "ro": "Cu mașina sunteți protejat de ploaie, dar atenție la vizibilitatea redusă pe drumurile de munte. La prânz, parcarea la Muzeul de Antropologie este facilă și vă duce direct la adăpost. După-amiaza, vizitați galeriile din centru, unde mașina vă lasă aproape de intrare. Seara se încheie mistic la templul îndepărtat din ceață.",
+            "en": "By car, you are well-protected from the rain, but watch out for poor visibility on the mountain roads. At noon, parking at the Anthropology Museum is convenient and leads you straight into the dry halls. In the afternoon, visit city center galleries where the car gets you close to the entrance. The evening ends mystically at the remote temple in the mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Antropología de Xalapa",
+                "hu": "Museo de Antropología de Xalapa",
+                "ro": "Museo de Antropología de Xalapa",
+                "en": "Museo de Antropología de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um den Regen zu vermeiden; drinnen können Sie stundenlang trocken bleiben und die beeindruckenden olmekischen Köpfe bewundern.",
+                "hu": "Használja a közeli parkolót, hogy elkerülje az esőt; bent órákig szárazon maradhat, miközben megcsodálja a lenyűgöző olmék kőfejeket és emlékeket.",
+                "ro": "Folosiți parcarea apropiată pentru a evita ploaia; în interior puteți rămâne uscat ore în șir admirând capetele olmece impresionante.",
+                "en": "Use the nearby parking lot to avoid the rain; inside, you can stay dry for hours while admiring the impressive Olmec heads and ancient artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Macuiltépetl",
+                "hu": "Parque Ecológico Macuiltépetl",
+                "ro": "Parque Ecológico Macuiltépetl",
+                "en": "Parque Ecológico Macuiltépetl"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Auffahrt zum Park; der dichte Nebel im Regen macht die Fahrt durch den Wald zu einem abenteuerlichen und mystischen Erlebnis.",
+                "hu": "Vezessen óvatosan a parkhoz vezető felhajtón; az esőben kialakuló sűrű köd kalandossá és misztikussá teszi az erdei autózást a fák között.",
+                "ro": "Conduceți cu prudență pe drumul spre parc; ceața densă formată în ploaie face ca drumul prin pădure să fie o experiență aventuroasă și mistică.",
+                "en": "Drive carefully on the access road to the park; the dense mist formed in the rain makes the forest drive an adventurous and mystical experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Inmaculada Concepción de Xalapa",
+                "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+                "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+                "en": "Catedral de la Inmaculada Concepción de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein nahes Parkhaus, um nicht nass zu werden; die Kathedrale ist ein friedlicher, trockener Ort inmitten des hektischen, regnerischen Zentrums.",
+                "hu": "Keressen egy közeli parkolóházat, hogy ne ázzon el; a székesegyház békés, száraz menedék a hektikus és esős belvárosi forgatag közepén.",
+                "ro": "Căutați o parcare acoperită în apropiere pentru a nu vă uda; catedrala este un loc liniștit și uscat în mijlocul centrului agitat și ploios.",
+                "en": "Look for a nearby parking garage to avoid getting wet; the cathedral is a peaceful, dry haven in the middle of the hectic and rainy city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Xalapa",
+                "hu": "Museo Casa de Xalapa",
+                "ro": "Museo Casa de Xalapa",
+                "en": "Museo Casa de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Das Museum liegt günstig für einen schnellen Sprung aus dem Auto; genießen Sie die historischen Exponate in den trockenen Räumen der ehemaligen Residenz.",
+                "hu": "A múzeum elhelyezkedése kedvező egy gyors kiszálláshoz az autóból; élvezze a történelmi tárlatokat az egykori rezidencia száraz és védett szobáiban.",
+                "ro": "Muzeul este situat convenabil pentru o coborâre rapidă din mașină; bucurați-vă de exponatele istorice în camerele uscate ale fostei reședințe.",
+                "en": "The museum's location is convenient for a quick dash from the car; enjoy the historical exhibits in the dry rooms of the former residence."
+              }
+            },
+            {
+              "name": {
+                "de": "Flavia Galería",
+                "hu": "Flavia Galería",
+                "ro": "Flavia Galería",
+                "en": "Flavia Galería"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um dem Regen zu entkommen; diese moderne Galerie bietet eine warme und inspirierende Atmosphäre für einen entspannten Nachmittag.",
+                "hu": "Parkoljon közvetlenül előtte, hogy elmeneküljön az eső elől; ez a modern galéria meleg és inspiráló légkört kínál egy pihentető délutáni programhoz.",
+                "ro": "Parcați direct în față pentru a scăpa de ploaie; această galerie modernă oferă o atmosferă caldă și inspiratoare pentru o după-amiază relaxantă.",
+                "en": "Park directly in front to escape the rain; this modern gallery offers a warm and inspiring atmosphere for a relaxing afternoon indoor program."
+              }
+            },
+            {
+              "name": {
+                "de": "Dhammavihāra",
+                "hu": "Dhammavihāra",
+                "ro": "Dhammavihāra",
+                "en": "Dhammavihāra"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher im Regen erfordert volle Konzentration wegen des Nebels; die spirituelle Stille wirkt bei dem prasselnden Regen besonders intensiv und beruhigend.",
+                "hu": "Az idevezető út az esőben teljes koncentrációt igényel a köd miatt; a spirituális csend a kopogó esőben különösen intenzívnek és nyugtatónak hat.",
+                "ro": "Drumul până aici prin ploaie necesită concentrare maximă din cauza ceții; liniștea spirituală pare deosebit de intensă și calmantă în sunetul ploii.",
+                "en": "The drive here in the rain requires full concentration due to the fog; the spiritual silence feels particularly intense and calming during a downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Fahrt zum großen Museum besonders angenehm. Mittags bietet der Park weite Ausblicke in der frischen Luft, die Sie bequem vom Auto aus erreichen können. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Fahrt zur entfernten Tempelanlage rechtzeitig ein. Der Abend endet warm und sicher in der Stadt nach einer malerischen Winterfahrt.",
+            "hu": "Egy tiszta téli reggelen az út a nagy múzeumhoz különösen kellemes. Délben a park széles kilátást nyújt a friss levegőn, amelyet kényelmesen elérhet autóval. Mivel a nap 17:00 körül nyugszik, tervezze meg időben az utat a távoli templomhoz. Az este melegben és biztonságban zárul a városban a festői téli autózás után.",
+            "ro": "Într-o dimineață senină de iarnă, drumul spre marele muzeu este deosebit de plăcut. La prânz, parcul oferă vederi largi în aerul proaspăt, accesibile ușor cu mașina. Deoarece soarele apune în jur de ora 17:00, planificați din timp drumul spre templul îndepărtat. Seara se încheie la căldură și siguranță în oraș după un drum pitoresc.",
+            "en": "On a clear winter morning, the drive to the large museum is especially pleasant. At noon, the park offers wide views in the crisp air, easily accessible by car. Since the sun sets around 17:00, plan your drive to the remote temple in advance to see it in daylight. Your evening ends safely in the warmth of the city after a scenic winter drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Antropología de Xalapa",
+                "hu": "Museo de Antropología de Xalapa",
+                "ro": "Museo de Antropología de Xalapa",
+                "en": "Museo de Antropología de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Start in den Wintertag; die Innenräume sind gut beheizt, was den Besuch der riesigen Sammlung auch bei kühlen Außentemperaturen sehr angenehm macht.",
+                "hu": "Ideális kezdés a téli napon; a belső terek jól fűtöttek, ami a hatalmas gyűjtemény megtekintését hűvös külső hőmérséklet mellett is nagyon kellemessé teszi.",
+                "ro": "Un început ideal pentru o zi de iarnă; spațiile interioare sunt bine încălzite, făcând vizitarea colecției imense foarte plăcută chiar și pe frig.",
+                "en": "An ideal start for a winter day; the indoor spaces are well-heated, making the visit to the huge collection very pleasant even when it is cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Macuiltépetl",
+                "hu": "Parque Ecológico Macuiltépetl",
+                "ro": "Parque Ecológico Macuiltépetl",
+                "en": "Parque Ecológico Macuiltépetl"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die weite Sicht vom Auto aus; die kühle Brise auf dem Gipfel lässt sich am besten mit einer warmen Jacke ertragen.",
+                "hu": "Élvezze a tiszta téli levegőt és a messzire nyúló kilátást az autóból; a csúcson fújó hűvös szelet leginkább egy vastag télikabátban lehet elviselni.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de vederea largă din mașină; briza rece de pe vârf este cel mai bine suportată cu o jachetă groasă.",
+                "en": "Enjoy the crisp winter air and the far-reaching views from the car; the cool breeze at the summit is best endured with a warm winter jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Inmaculada Concepción de Xalapa",
+                "hu": "Catedral de la Inmaculada Concepción de Xalapa",
+                "ro": "Catedral de la Inmaculada Concepción de Xalapa",
+                "en": "Catedral de la Inmaculada Concepción de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet einen ruhigen und warmen Moment im winterlichen Zentrum; die dicken Mauern schützen perfekt vor dem kalten Wind in den Straßen.",
+                "hu": "A székesegyház nyugodt és meleg pillanatot kínál a téli belvárosban; a vastag falak tökéletesen védenek az utcákon végigsöprő hűvös szelek ellen.",
+                "ro": "Catedrala oferă un moment liniștit și cald în centrul de iarnă; zidurile groase protejează perfect împotriva vântului rece de pe străzi.",
+                "en": "The cathedral offers a quiet and warm moment in the winter city center; the thick walls protect you perfectly from the cold wind in the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Xalapa",
+                "hu": "Museo Casa de Xalapa",
+                "ro": "Museo Casa de Xalapa",
+                "en": "Museo Casa de Xalapa"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Zwischenstopp im Warmen; erkunden Sie die Geschichte der Stadt in den behaglichen Räumen, während draußen die milde Wintersonne scheint.",
+                "hu": "Hangulatos köztes megálló a melegben; fedezze fel a város történetét a barátságos szobákban, miközben kint a gyenge téli napsütés ragyog.",
+                "ro": "O oprire primitoare la căldură; explorați istoria orașului în camerele confortabile în timp ce afară strălucește soarele blând de iarnă.",
+                "en": "A cozy intermediate stop in the warmth; explore the city's history in the comfortable rooms while the mild winter sun shines brightly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Flavia Galería",
+                "hu": "Flavia Galería",
+                "ro": "Flavia Galería",
+                "en": "Flavia Galería"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den späten Nachmittag in dieser warmen Galerie; das moderne Ambiente ist der ideale Ort, um sich vor dem frühen Sonnenuntergang aufzuwärmen.",
+                "hu": "Töltse a késő délutánt ebben a meleg galériában; a modern környezet ideális helyszín a felmelegedésre a korai naplemente előtt.",
+                "ro": "Petreceți după-amiaza târziu în această galerie caldă; ambientul modern este locul ideal pentru a vă încălzi înainte de apusul devreme.",
+                "en": "Spend the late afternoon in this warm gallery; the modern ambience is the ideal place to warm up before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Dhammavihāra",
+                "hu": "Dhammavihāra",
+                "ro": "Dhammavihāra",
+                "en": "Dhammavihāra"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Anlage im letzten Tageslicht zu sehen; die winterliche Stille der Berge macht diesen Ort besonders friedlich.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy még a nappali fénynél láthassa a komplexumot; a hegyek téli csendje különösen békéssé teszi ezt a spirituális helyet.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea complexul în lumina zilei; liniștea de iarnă a munților face acest loc spiritual deosebit de pașnic.",
+                "en": "Arrive before 17:00 to see the complex in the last daylight; the winter silence of the mountains makes this spiritual place especially peaceful."
+              }
+            }
+          ]
+        }
       }
     }
   }

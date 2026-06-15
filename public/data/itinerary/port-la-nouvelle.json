@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a városközpontban található templomnál és a tengeri színháznál. Délben tegyen egy festői sétát a kikötői csatorna mentén az ikonikus világítótoronyhoz. A délutánt töltse pihenéssel a fő strand aranyhomokos partján. A napot a Sainte-Lucie sziget érintetlen és nyugodt természeti ösvényein tett békés esti sétával zárja.",
         "ro": "Începeți la biserica centrală și la teatrul maritim din apropiere. La prânz, faceți o plimbare pitorească de-a lungul canalului portuar spre farul emblematic. Petreceți după-amiaza relaxându-vă pe nisipul auriu al plajei principale. Încheiați cu o plimbare pașnică de seară prin natura neatinsă a insulei Sainte-Lucie, ascultând sunetele naturii.",
         "en": "Begin at the town's central church and the nearby maritime theater. Midday brings a scenic walk down the port canal to the iconic lighthouse for panoramic views. Spend the afternoon relaxing on the main beach's soft golden sands. Finish with a peaceful evening walk through the untouched nature and coastal paths of Sainte-Lucie Island."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche Schutz vor dem Regen und eine besinnliche Atmosphäre. Mittags beobachtet man vom Théâtre de la Mer aus die dramatischen Wellen. Nachmittags ist der Weg zum Leuchtturm windig und nass, aber die frische Meeresluft ist belebend. Abends wirkt die Insel Sainte-Lucie im Nebel fast magisch, während der Regen sanft auf die Lagune fällt.",
+            "hu": "Reggel a templom nyújt menedéket a zápor elől, meghitt csendet árasztva. Délben a Tenger Színházánál a viharos hullámok látványa lenyűgöző a fedett részek közelében. Délután a világítótoronyhoz vezető út szeles és vizes, de a sós pára frissítő. Este a Sainte-Lucie sziget ködös ösvényei misztikus hangulatot árasztanak az esőben.",
+            "ro": "Dimineața, biserica oferă adăpost împotriva ploii și o atmosferă liniștită. La prânz, de la Théâtre de la Mer, valurile dramatice oferă un spectacol impresionant. După-amiaza, drumul spre far este vântos și umed, dar aerul sărat este revigorant. Seara, insula Sainte-Lucie pare magică prin ceață, în timp ce ploaia cade ușor peste lagună.",
+            "en": "In the morning, the church provides shelter from the rain and a peaceful retreat. At noon, the Théâtre de la Mer offers a dramatic view of the crashing waves. In the afternoon, the walk to the lighthouse is windy and wet, but the salty air is invigorating. In the evening, Sainte-Lucie Island feels mystical in the mist as the rain falls over the lagoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Bon-Voyage",
+                "hu": "Notre-Dame-de-Bon-Voyage templom",
+                "ro": "Biserica Notre-Dame-de-Bon-Voyage",
+                "en": "Église Notre-Dame-de-Bon-Voyage"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Votivgaben der Seeleute im trockenen Innenraum und achten Sie beim Verlassen auf die rutschigen Steinstufen am Eingang.",
+                "hu": "Csodálja meg a tengerészek fogadalmi ajándékait a száraz belső térben, de kilépéskor ügyeljen a bejáratnál lévő csúszós kőlépcsőkre.",
+                "ro": "Admirați darurile votive ale marinarilor în interiorul uscat și aveți grijă la treptele de piatră alunecoase de la intrare când ieșiți.",
+                "en": "Admire the sailors' votive offerings in the dry interior, and be careful of the slippery stone steps at the entrance when leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de la Mer",
+                "hu": "A Tenger Színháza",
+                "ro": "Teatrul Mării",
+                "en": "Théâtre de la Mer"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche, um das graue Meer zu beobachten, und tragen Sie eine windfeste Regenjacke gegen die Gischt.",
+                "hu": "Használja a fedett részeket a szürke tenger megfigyelésére, és viseljen szélálló esőkabátot a felcsapó vízpermet ellen.",
+                "ro": "Folosiți zonele acoperite pentru a observa marea cenușie și purtați o jachetă de ploaie rezistentă la vânt împotriva stropilor de apă.",
+                "en": "Use the covered areas to observe the grey sea, and wear a windproof raincoat against the sea spray and splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Port-la-Nouvelle",
+                "hu": "Port-la-Nouvelle Világítótorony",
+                "ro": "Farul din Port-la-Nouvelle",
+                "en": "Phare de Port-la-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Der Deich kann bei Regen sehr rutschig sein; halten Sie sich mittig auf dem Weg und genießen Sie das einsame Panorama des Leuchtturms.",
+                "hu": "A gát esőben nagyon csúszós lehet; maradjon az út közepén, és élvezze a világítótorony magányos, viharos panorámáját.",
+                "ro": "Digul poate fi foarte alunecos pe ploaie; rămâneți pe mijlocul drumului și bucurați-vă de panorama solitară a farului în furtună.",
+                "en": "The jetty can be very slippery in the rain; stay in the middle of the path and enjoy the lonely, stormy panorama of the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Front de Mer",
+                "hu": "Tengerparti Fő Strand",
+                "ro": "Plaja Front de Mer",
+                "en": "Plage du Front de Mer"
+              },
+              "tip_5lang": {
+                "de": "Sammeln Sie Muscheln, die der Regen freigespült hat, und suchen Sie danach schnell Schutz in einem der nahen Cafés an der Promenade.",
+                "hu": "Gyűjtsön kagylókat, amiket az eső mosott ki a homokból, majd keressen gyorsan menedéket a sétány közeli kávézóinak egyikében.",
+                "ro": "Colectați scoicile scoase la iveală de ploaie, apoi căutați rapid adăpost în una dintre cafenelele de pe faleză din apropiere.",
+                "en": "Collect shells washed out of the sand by the rain, then quickly seek shelter in one of the nearby cafes along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Lucie Island",
+                "hu": "Sainte-Lucie Sziget",
+                "ro": "Insula Sainte-Lucie",
+                "en": "Sainte-Lucie Island"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie unter den Pinien, die einen natürlichen Schirm bilden, aber meiden Sie die unbefestigten Wege, die nun schlammig sein können.",
+                "hu": "Sétáljon a fenyők alatt, melyek természetes ernyőt tartanak, de kerülje a burkolatlan utakat, amelyek most sárosak lehetnek.",
+                "ro": "Plimbați-vă sub pini, care oferă o umbrelă naturală, dar evitați drumurile neasfaltate care pot fi acum pline de noroi.",
+                "en": "Walk under the pines, which act as a natural umbrella, but avoid unpaved paths that may now be muddy and difficult to traverse."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch in der geschützten Kirche. Mittags wärmt die tiefstehende Sonne am Théâtre de la Mer, während die Meeresbrise eisig weht. Der Spaziergang zum Leuchtturm erfordert warme Kleidung, bietet aber kristallklare Sicht. Nachmittags leuchtet der Strand im goldenen Winterlicht, bevor es gegen 17:00 Uhr auf Sainte-Lucie schnell dunkel wird.",
+            "hu": "A téli reggel frissen indul a védett templomban. Délben az alacsonyan járó nap megcsillan a Tenger Színházánál, de a szél metsző. A világítótoronyhoz vezető út meleg öltözetet igényel, ám a kilátás kristálytiszta. Délután a strand aranyló fényben úszik, majd 17:00 körül a Sainte-Lucie szigeten gyorsan leszáll az est.",
+            "ro": "Dimineața de iarnă începe proaspăt în biserica protejată. La prânz, soarele jos strălucește la Théâtre de la Mer, deși briza este tăioasă. Drumul spre far necesită haine groase, dar oferă o vizibilitate cristalină. După-amiaza, plaja strălucește în lumină aurie, înainte ca întunericul să se lase rapid pe insula Sainte-Lucie.",
+            "en": "The winter morning starts fresh in the sheltered church. At noon, the low sun sparkles at the Théâtre de la Mer, though the sea breeze is biting. The walk to the lighthouse requires warm layers but offers crystal-clear views. In the afternoon, the beach glows in golden light before darkness falls quickly around 5 PM on Sainte-Lucie."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Bon-Voyage",
+                "hu": "Notre-Dame-de-Bon-Voyage templom",
+                "ro": "Biserica Notre-Dame-de-Bon-Voyage",
+                "en": "Église Notre-Dame-de-Bon-Voyage"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille fernab der Kälte, aber behalten Sie den Mantel an, da das Steingebäude im Winter sehr kühl bleibt.",
+                "hu": "Élvezze a csendet távol a kinti hidegtől, de tartsa magán a kabátját, mert a kőépület télen is nagyon hűvös marad.",
+                "ro": "Bucurați-vă de liniște departe de frigul de afară, dar păstrați haina pe dvs., deoarece clădirea de piatră rămâne răcoroasă iarna.",
+                "en": "Enjoy the silence away from the cold outside, but keep your coat on as the stone building remains very chilly during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de la Mer",
+                "hu": "A Tenger Színháza",
+                "ro": "Teatrul Mării",
+                "en": "Théâtre de la Mer"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos ohne Touristenmassen; tragen Sie einen Schal gegen den starken Seewind am Ufer.",
+                "hu": "A téli nap tökéletes a turistatömeg nélküli fotózáshoz; viseljen sálat az erős tengeri szél ellen a parton.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii fără mulțimi de turiști; purtați o eșarfă împotriva vântului puternic de pe coastă.",
+                "en": "The winter sun is perfect for photos without tourist crowds; wear a scarf against the strong sea wind along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Port-la-Nouvelle",
+                "hu": "Port-la-Nouvelle Világítótorony",
+                "ro": "Farul din Port-la-Nouvelle",
+                "en": "Phare de Port-la-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser als im Sommer; eine Thermoskanne mit heißem Tee macht den Aufenthalt am Leuchtturm gemütlicher.",
+                "hu": "A látótávolság télen gyakran jobb, mint nyáron; egy termosz forró teával sokkal kellemesebbé teheti a tartózkodást a toronynál.",
+                "ro": "Vizibilitatea este adesea mai bună iarna decât vara; un termos cu ceai fierbinte va face vizita la far mult mai plăcută.",
+                "en": "Visibility is often better in winter than in summer; a thermos with hot tea will make your stay at the lighthouse much cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Front de Mer",
+                "hu": "Tengerparti Fő Strand",
+                "ro": "Plaja Front de Mer",
+                "en": "Plage du Front de Mer"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen schnellen, kräftigen Strandspaziergang; nutzen Sie das Licht der frühen Abenddämmerung für dramatische Landschaftsbilder.",
+                "hu": "Ideális egy gyors, élénkítő tengerparti sétához; használja a kora esti szürkület fényeit a drámai tájképek készítéséhez.",
+                "ro": "Ideal pentru o plimbare rapidă și revigorantă pe plajă; profitați de lumina amurgului timpuriu pentru fotografii dramatice.",
+                "en": "Ideal for a quick, bracing beach walk; use the light of the early evening twilight for dramatic landscape photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Lucie Island",
+                "hu": "Sainte-Lucie Sziget",
+                "ro": "Insula Sainte-Lucie",
+                "en": "Sainte-Lucie Island"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor 16:30 Uhr ein, damit Sie den Park verlassen, bevor es im dichten Wald stockfinster wird.",
+                "hu": "Tervezze meg a visszautat 16:30 előtt, hogy elhagyja a parkot, mielőtt a sűrű erdőben teljesen besötétedik.",
+                "ro": "Planificați drumul de întoarcere înainte de ora 16:30, pentru a părăsi parcul înainte de a se întuneca complet în pădurea deasă.",
+                "en": "Plan your return before 4:30 PM so that you leave the park before it gets pitch dark in the dense forested areas."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Reggel biciklizzen a történelmi templomtól a Garrigue-ban található rusztikus szabadtéri színházhoz. Délben tekerjen északra a lenyűgöző, rózsaszín árnyalatú sólepárlókhoz. Délután kövesse a festői kikötői csatornát a fenséges világítótoronyig. A kerékpártúrát a Montilles hatalmas déli strandjainál fejezze be, élvezve a tengeri szellőt.",
         "ro": "Pedalați dimineața de la biserica istorică până la teatrul rustic în aer liber din Garrigue. La prânz, mergeți spre nord către fascinantele saline cu nuanțele lor roz unice. După-amiaza, coborâți pe canalul pitoresc al portului către farul maiestuos. Terminați plimbarea pe plajele vaste din sud de la Montilles pentru a vă bucura de apus.",
         "en": "Cycle in the morning from the historic church to the rustic outdoor theater in the scrubland. Midday, ride north to the fascinating salt pans showing off unique pink hues. Afternoon sees you heading down the scenic port channel to the majestic lighthouse. Finish the ride relaxing at the expansive southern beaches of Montilles as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist die Radtour durch die Salzwiesen ein Erlebnis, wenn man vorsichtig fährt. Vormittags schützt die Kirche, mittags radelt man durch den Dunst zur Garrigue. Die Salinen von Sainte-Lucie wirken grau und mystisch. Nachmittags erreicht man den Leuchtturm bei peitschendem Wind, bevor die Tour am einsamen Strand von Montilles im sanften Regen endet.",
+            "hu": "Az eső ellenére a sós mocsarakon át vezető biciklitúra különleges élmény óvatos tempóban. Délelőtt a templom véd, délben a párás ködben tekerünk a Garrigue felé. A sólepárlók szürkén és misztikusan festenek. Délután a szélben érjük el a világítótornyot, majd a túra a magányos Montilles strandon ér véget a szemerkélő esőben.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin mlaștinile sărate este o experiență deosebită dacă pedalați cu atenție. Dimineața biserica vă protejează, la prânz pedalați prin ceață spre Garrigue. Salinele par cenușii și mistice. După-amiaza ajungeți la far pe un vânt puternic, iar turul se încheie pe plaja solitară Montilles sub o ploaie ușoară.",
+            "en": "Despite the rain, the bike tour through the salt marshes is a unique experience if you ride carefully. In the morning, the church offers shelter, then you pedal through the mist towards the Garrigue. The salt pans look grey and mystical. In the afternoon, you reach the lighthouse in the wind, before ending at the lonely Montilles beach in the gentle rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Bon-Voyage",
+                "hu": "Notre-Dame-de-Bon-Voyage templom",
+                "ro": "Biserica Notre-Dame-de-Bon-Voyage",
+                "en": "Église Notre-Dame-de-Bon-Voyage"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Trockenen unter dem Vordach, bevor Sie die Fahrt auf den nassen Straßen fortsetzen.",
+                "hu": "Ellenőrizze a fékeket a szárazon az előtető alatt, mielőtt folytatná az utat a vizes és csúszós utakon.",
+                "ro": "Verificați frânele la adăpost sub copertină înainte de a continua drumul pe străzile ude și alunecoase.",
+                "en": "Check your brakes in the dry area under the overhang before continuing your journey on the wet and slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre en Garrigue",
+                "hu": "Színház a Garrigue-ban",
+                "ro": "Teatrul din Garrigue",
+                "en": "Théâtre en Garrigue"
+              },
+              "tip_5lang": {
+                "de": "Die Naturpfade hier können schlammig sein; bleiben Sie auf den befestigten Wegen, um nicht mit den Reifen wegzurutschen.",
+                "hu": "A természeti ösvények sárosak lehetnek; maradjon a kövezett utakon, hogy elkerülje a kerekek megcsúszását a sárban.",
+                "ro": "Potecile naturale pot fi noroioase; rămâneți pe drumurile pavate pentru a evita deraparea roților în noroi.",
+                "en": "The nature trails here can be muddy; stay on the paved paths to avoid your tires slipping in the wet dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Salins de Sainte-Lucie",
+                "hu": "Sainte-Lucie Sólepárlók",
+                "ro": "Salinele Sainte-Lucie",
+                "en": "Salins de Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine gut sichtbare Regenjacke, da die Sicht über den weiten Salinen bei starkem Niederschlag eingeschränkt ist.",
+                "hu": "Viseljen jól látható esőkabátot, mivel a látótávolság a tágas sólepárlók felett erős esőben jelentősen lecsökkenhet.",
+                "ro": "Purtați o jachetă de ploaie reflectorizantă, deoarece vizibilitatea peste salinele vaste este redusă în timpul precipitațiilor abundente.",
+                "en": "Wear a high-visibility raincoat, as visibility over the vast salt pans can be significantly reduced during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Port-la-Nouvelle",
+                "hu": "Port-la-Nouvelle Világítótorony",
+                "ro": "Farul din Port-la-Nouvelle",
+                "en": "Phare de Port-la-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und achten Sie auf Pfützen; der Blick auf das aufgewühlte Meer ist die Mühe wert.",
+                "hu": "Parkolja le biztonságosan a biciklit, és ügyeljen a tócsákra; a felkavart tenger látványa megéri a fáradságot.",
+                "ro": "Parcați bicicleta în siguranță și atenție la bălți; vederea mării agitate merită cu siguranță tot efortul depus.",
+                "en": "Park your bike securely and watch out for deep puddles; the view of the churning sea is well worth the extra effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Montilles",
+                "hu": "Montilles Strand",
+                "ro": "Plaja Montilles",
+                "en": "Plage des Montilles"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren des tiefen, nassen Sandes; ein kurzes Foto vom befestigten Rand aus reicht bei diesem Wetter völlig aus.",
+                "hu": "Kerülje a mély, vizes homokon való biciklizést; egy gyors fotó a szilárd út széléről bőven elég ebben az időben.",
+                "ro": "Evitați să pedalați pe nisipul ud și adânc; o fotografie rapidă de la marginea drumului pavat este suficientă pe această vreme.",
+                "en": "Avoid cycling on deep, wet sand; a quick photo from the edge of the paved road is more than enough in this weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet frostig an der Kirche. Die klare Luft in der Garrigue ist beim Radeln erfrischend, erfordert aber Handschuhe. Mittags leuchten die Salinen schneeweiß in der Sonne. Am Leuchtturm peitscht der kalte Wind, doch die Sicht bis zu den Pyrenäen ist oft fantastisch. Die Tour endet früh am Strand von Montilles, bevor der Frost gegen 17:00 Uhr anzieht.",
+            "hu": "A téli túra fagyosan indul a templomnál. A Garrigue tiszta levegője frissítő tekerés közben, de kesztyű kötelező. Délben a sólepárlók hófehéren csillognak a napsütésben. A világítótoronynál metsző a szél, de a kilátás a Pireneusokig lenyűgöző. A túra korán véget ér a Montilles strandon, mielőtt 17:00 körül beállna az esti fagy.",
+            "ro": "Turul de iarnă începe înghețat la biserică. Aerul curat din Garrigue este revigorant în timp ce pedalați, dar mănușile sunt obligatorii. La prânz, salinele strălucesc alb în soare. La far, vântul este tăios, dar vederea până la Pirinei este adesea fantastică. Turul se încheie devreme pe plaja Montilles, înainte ca înghețul să se intensifice.",
+            "en": "The winter tour starts frosty at the church. The clear air in the Garrigue is refreshing while cycling, but gloves are a must. At noon, the salt pans glow snow-white in the sun. At the lighthouse, the wind is biting, but the view to the Pyrenees is often fantastic. The tour ends early at Montilles beach before the frost sets in around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Bon-Voyage",
+                "hu": "Notre-Dame-de-Bon-Voyage templom",
+                "ro": "Biserica Notre-Dame-de-Bon-Voyage",
+                "en": "Église Notre-Dame-de-Bon-Voyage"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände kurz im Inneren auf, bevor Sie die winterliche Fahrt durch die exponierten Küstengebiete antreten.",
+                "hu": "Melegítse fel a kezét kicsit bent, mielőtt nekivágna a téli biciklizésnek a nyitott part menti területeken.",
+                "ro": "Încălziți-vă mâinile puțin în interior înainte de a porni la drumul de iarnă prin zonele de coastă expuse.",
+                "en": "Warm your hands briefly inside before heading out for your winter ride through the exposed coastal areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre en Garrigue",
+                "hu": "Színház a Garrigue-ban",
+                "ro": "Teatrul din Garrigue",
+                "en": "Théâtre en Garrigue"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade sind im Winter fest und gut befahrbar; tragen Sie Ohrenschützer gegen den kalten Fahrtwind in den Hügeln.",
+                "hu": "Az ösvények télen szilárdak és jól járhatóak; viseljen fülvédőt a dombok közötti hideg menetszél ellen.",
+                "ro": "Potecile sunt ferme și ușor de parcurs iarna; purtați protecții pentru urechi împotriva vântului rece din dealuri.",
+                "en": "The trails are firm and easy to ride in winter; wear ear protectors against the cold wind as you cycle through the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Salins de Sainte-Lucie",
+                "hu": "Sainte-Lucie Sólepárlók",
+                "ro": "Salinele Sainte-Lucie",
+                "en": "Salins de Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Das Licht ist hier mittags am stärksten; eine Sonnenbrille schützt Ihre Augen vor der Reflexion der weißen Salzkrusten.",
+                "hu": "Itt délben a legerősebb a fény; a napszemüveg megvédi a szemét a fehér sókristályok erős visszatükröződésétől.",
+                "ro": "Lumina este cea mai puternică aici la prânz; ochelarii de soare vă vor proteja ochii de reflexia crustelor albe de sare.",
+                "en": "The light is strongest here at noon; sunglasses will protect your eyes from the reflection of the white salt crusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Port-la-Nouvelle",
+                "hu": "Port-la-Nouvelle Világítótorony",
+                "ro": "Farul din Port-la-Nouvelle",
+                "en": "Phare de Port-la-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Passen Sie auf plötzliche Windböen auf, die Ihr Rad erfassen könnten; halten Sie den Lenker auf dem Deich fest umschlungen.",
+                "hu": "Vigyázzon a hirtelen széllökésekre, melyek belekaphatnak a biciklibe; tartsa erősen a kormányt a gáton haladva.",
+                "ro": "Atenție la rafalele bruște de vânt care ar putea să vă dezechilibreze; țineți strâns ghidonul în timp ce mergeți pe dig.",
+                "en": "Watch out for sudden gusts of wind that could catch your bike; keep a firm grip on the handlebars while on the jetty."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Montilles",
+                "hu": "Montilles Strand",
+                "ro": "Plaja Montilles",
+                "en": "Plage des Montilles"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Temperaturen am offenen Strand drastisch sinken, sobald die Sonne hinter den Hügeln verschwindet.",
+                "hu": "Fejezze be gyorsan a túrát, mert a hőmérséklet drasztikusan esik a strandon, amint a nap eltűnik a dombok mögött.",
+                "ro": "Încheiați turul rapid, deoarece temperaturile scad drastic pe plajă imediat ce soarele dispare după dealuri.",
+                "en": "Finish your tour quickly, as temperatures drop drastically on the open beach as soon as the sun disappears behind the hills."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Reggel vezessen az egyedülálló szabadtéri színházhoz a bozótosban, majd a festői sólepárlókhoz. Délben kövesse a csatornát a lenyűgöző világítótoronyig egy rövid pihenőre. Délután parkoljon le a Sainte-Lucie sziget közelében egy magával ragadó természetjárásra. Este hajtson délre a hatalmas Étang de la Palme lagúnához, és élvezze a naplementét a víz felett.",
         "ro": "Conduceți dimineața la unicul teatru din Garrigue și la pitoreștile saline istorice. La prânz, urmați canalul până la farul impresionant pentru o scurtă pauză de relaxare. Parcați după-amiaza lângă insula Sainte-Lucie pentru o drumeție captivantă în natură. Seara, conduceți spre sud la vasta lagună Étang de la Palme pentru a vă bucura de apus.",
         "en": "Drive in the morning to the unique Garrigue theater and the picturesque historic salt pans. Midday, follow the canal down to the lighthouse and grab a quick bite near the port. Afternoon sees you parking near Sainte-Lucie Island for an immersive coastal nature hike. In the evening, drive south to the vast Étang de la Palme lagoon to enjoy a breathtaking sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Küstenlandschaft bequem vom Auto aus. Vormittags besuchen wir die Garrigue, wo der Regen die Kräuter duften lässt. Mittags bieten die Salinen eine dramatische Kulisse hinter regennassen Scheiben. Der kurze Gang zum Leuchtturm ist erfrischend. Nachmittags erkunden wir die Insel Sainte-Lucie im Dunst, bevor wir den Tag am Étang de la Palme bei prasselndem Regen ausklingen lassen.",
+            "hu": "Élvezze a tengerparti tájat kényelmesen, az autóból. Délelőtt a Garrigue-ba látogatunk, ahol az eső kiemeli a fűszernövények illatát. Délben a sólepárlók drámai látványt nyújtanak a vizes ablakon át. A világítótoronyhoz tett rövid séta frissítő. Délután a ködös Sainte-Lucie szigetet fedezzük fel, majd a napot az Étang de la Palme-nál zárjuk az esőben.",
+            "ro": "Bucurați-vă de peisajul de coastă confortabil, din mașină. Dimineața vizităm Garrigue, unde ploaia intensifică parfumul ierburilor. La prânz, salinele oferă un decor dramatic prin geamurile ude. Scurta plimbare la far este revigorantă. După-amiaza explorăm insula Sainte-Lucie în ceață, iar ziua se încheie la Étang de la Palme sub ploaie.",
+            "en": "Enjoy the coastal landscape comfortably from your car. In the morning, we visit the Garrigue, where the rain highlights the scent of herbs. At noon, the salt pans provide a dramatic backdrop through wet windows. A short walk to the lighthouse is refreshing. In the afternoon, we explore Sainte-Lucie in the mist, ending the day at Étang de la Palme in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Théâtre en Garrigue",
+                "hu": "Színház a Garrigue-ban",
+                "ro": "Teatrul din Garrigue",
+                "en": "Théâtre en Garrigue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und genießen Sie den Duft der nassen Garrigue-Vegetation bei einem kurzen Rundgang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, és élvezze a vizes Garrigue-növényzet illatát egy rövid körbesétálás során.",
+                "ro": "Parcați cât mai aproape de intrare și bucurați-vă de parfumul vegetației umede din Garrigue în timpul unei scurte plimbări.",
+                "en": "Park as close as possible to the entrance and enjoy the scent of the wet Garrigue vegetation during a quick walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Salins de Sainte-Lucie",
+                "hu": "Sainte-Lucie Sólepárlók",
+                "ro": "Salinele Sainte-Lucie",
+                "en": "Salins de Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße bietet tolle Fotostopps direkt aus dem Fenster; bei starkem Regen ist die Sicht vom Damm aus am besten.",
+                "hu": "A bekötőút remek fotómegállókat kínál közvetlenül az ablakból; erős esőben a gátról nyílik a legjobb kilátás.",
+                "ro": "Drumul de acces oferă opriri excelente pentru fotografii direct de la fereastră; pe ploaie torențială, vederea de pe dig este cea mai bună.",
+                "en": "The access road offers great photo stops directly from your window; in heavy rain, the view from the levee is at its best."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Port-la-Nouvelle",
+                "hu": "Port-la-Nouvelle Világítótorony",
+                "ro": "Farul din Port-la-Nouvelle",
+                "en": "Phare de Port-la-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Mole für einen schnellen Sprint zum Leuchtturm, um das tosende Meer aus der Nähe zu sehen.",
+                "hu": "Használja a mólónál lévő parkolót egy gyors sprinthez a világítótoronyhoz, hogy közelről lássa a háborgó tenger látványát.",
+                "ro": "Folosiți parcarea de lângă dig pentru un sprint rapid până la far, pentru a vedea de aproape spectacolul mării învolburate.",
+                "en": "Use the parking area near the jetty for a quick sprint to the lighthouse to see the churning sea from up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Lucie Island",
+                "hu": "Sainte-Lucie Sziget",
+                "ro": "Insula Sainte-Lucie",
+                "en": "Sainte-Lucie Island"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Parkflächen können schlammig sein; prüfen Sie den Untergrund, bevor Sie Ihr Auto für den Waldspaziergang abstellen.",
+                "hu": "A burkolatlan parkolóhelyek sárosak lehetnek; ellenőrizze a talajt, mielőtt leállítaná az autót az erdei sétához.",
+                "ro": "Locurile de parcare neasfaltate pot fi noroioase; verificați terenul înainte de a lăsa mașina pentru plimbarea prin pădure.",
+                "en": "The unpaved parking spots can be muddy; check the ground before leaving your car for a walk through the forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Palme",
+                "hu": "Étang de la Palme Lagúna",
+                "ro": "Laguna Étang de la Palme",
+                "en": "Étang de la Palme"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel direkt aus dem warmen Auto heraus, während der Regen malerische Kreise auf die Lagune zeichnet.",
+                "hu": "Figyelje meg a vízimadarakat közvetlenül a meleg autóból, miközben az eső festői köröket rajzol a lagúna felszínére.",
+                "ro": "Observați păsările de apă direct din confortul mașinii calde, în timp ce ploaia desenează cercuri pitorești pe suprafața lagunei.",
+                "en": "Observe the water birds directly from the warmth of your car while the rain draws picturesque ripples on the lagoon's surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag an der Küste. Vormittags erkunden wir die Garrigue bei scharfem Wind, bevor wir uns im Auto aufwärmen. Mittags glitzern die Salinen unter der Wintersonne. Der Leuchtturm bietet eine fantastische Fernsicht auf die schneebedeckten Gipfel. Nachmittags ist Sainte-Lucie ruhig und leer, bevor wir den Sonnenuntergang gegen 17:00 Uhr am Étang de la Palme genießen.",
+            "hu": "Tiszta téli nap a parton. Délelőtt a Garrigue-ot fedezzük fel a metsző szélben, majd az autóban melegszünk fel. Délben a sólepárlók ragyognak a téli napsütésben. A világítótoronytól mesés kilátás nyílik a hófödte csúcsokra. Délután Sainte-Lucie csendes és üres, majd 17:00 körül az Étang de la Palme-nál élvezzük a naplementét.",
+            "ro": "O zi senină de iarnă pe coastă. Dimineața explorăm Garrigue în vântul tăios, apoi ne încălzim în mașină. La prânz, salinele strălucesc sub soarele de iarnă. Farul oferă o vedere fabuloasă spre vârfurile înzăpezite. După-amiaza, Sainte-Lucie este liniștită, iar la ora 17:00 ne bucurăm de apus la Étang de la Palme.",
+            "en": "A clear winter day on the coast. In the morning, we explore the Garrigue in the biting wind before warming up in the car. At noon, the salt pans sparkle under the winter sun. The lighthouse offers a fabulous view of the snow-capped peaks. In the afternoon, Sainte-Lucie is quiet and empty before we enjoy the sunset at Étang de la Palme around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Théâtre en Garrigue",
+                "hu": "Színház a Garrigue-ban",
+                "ro": "Teatrul din Garrigue",
+                "en": "Théâtre en Garrigue"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Sitzheizung an; der Wind in den Hügeln ist im Winter besonders schneidend, auch bei strahlendem Sonnenschein.",
+                "hu": "Hagyja bekapcsolva az ülésfűtést; a dombok közötti szél télen különösen metsző, még ragyogó napsütésben is.",
+                "ro": "Lăsați încălzirea în scaune pornită; vântul din dealuri este deosebit de tăios iarna, chiar și sub soarele strălucitor.",
+                "en": "Keep the seat heating on; the wind in the hills is particularly biting in winter, even when the sun is shining brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Salins de Sainte-Lucie",
+                "hu": "Sainte-Lucie Sólepárlók",
+                "ro": "Salinele Sainte-Lucie",
+                "en": "Salins de Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Salzbecken reflektieren das Winterlicht sehr stark; tragen Sie unbedingt eine Sonnenbrille für eine bessere Sicht beim Fahren.",
+                "hu": "A fehér sómedencék nagyon erősen visszaverik a téli fényt; mindenképpen viseljen napszemüveget a jobb látási viszonyokért vezetés közben.",
+                "ro": "Bazinele albe de sare reflectă foarte puternic lumina iernii; purtați neapărat ochelari de soare pentru o mai bună vizibilitate la volan.",
+                "en": "The white salt basins reflect the winter light very strongly; be sure to wear sunglasses for better visibility while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Port-la-Nouvelle",
+                "hu": "Port-la-Nouvelle Világítótorony",
+                "ro": "Farul din Port-la-Nouvelle",
+                "en": "Phare de Port-la-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet Schutz vor dem Wind; steigen Sie kurz aus, um die klare Sicht auf die Pyrenäen am Horizont zu bewundern.",
+                "hu": "A parkoló szélvédett helyet kínál; szálljon ki egy pillanatra, hogy megcsodálja a tiszta kilátást a távoli Pireneusok hófödte csúcsaira.",
+                "ro": "Parcarea oferă protecție împotriva vântului; coborâți pentru o clipă ca să admirați vederea clară spre Pirineii înzăpeziți la orizont.",
+                "en": "The parking area offers protection from the wind; hop out for a moment to admire the clear view of the Pyrenees on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Lucie Island",
+                "hu": "Sainte-Lucie Sziget",
+                "ro": "Insula Sainte-Lucie",
+                "en": "Sainte-Lucie Island"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für einen kurzen Waldspaziergang; die Insel ist im Winter fast menschenleer und sehr friedlich.",
+                "hu": "Használja ki az utolsó nappali fényeket egy rövid erdei sétára; a sziget télen szinte teljesen néptelen és nagyon békés.",
+                "ro": "Profitați de ultimele raze de lumină pentru o scurtă plimbare; insula este aproape pustie iarna și oferă multă liniște.",
+                "en": "Take advantage of the last daylight for a short forest walk; the island is almost deserted in winter and very peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Palme",
+                "hu": "Étang de la Palme Lagúna",
+                "ro": "Laguna Étang de la Palme",
+                "en": "Étang de la Palme"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter besonders farbenfroh; parken Sie mit Blick nach Westen, um das Spektakel warm und trocken zu genießen.",
+                "hu": "A naplemente télen különösen színpompás; parkoljon nyugati irányba nézve, hogy melegen és szárazon élvezhesse a látványt.",
+                "ro": "Apusul este deosebit de colorat iarna; parcați cu fața spre vest pentru a vă bucura de spectacol la căldură și uscat.",
+                "en": "The winter sunset is particularly colorful; park facing west to enjoy the spectacle while staying warm and dry inside your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

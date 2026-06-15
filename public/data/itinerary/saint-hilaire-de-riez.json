@@ -137,6 +137,168 @@
         "hu": "A nap a nyugodt központban, a Saint-Hilaire templomnál kezdődik, majd egy rövid sétával a lenyűgöző sólepárlókhoz indulunk. Délben a tengerpartra, Riez környékére sétálunk egy frissítő pihenőre. A délutánt a hatalmas Grande plage de Sion tengerpartján töltjük, amely ideális a kikapcsolódásra. Végül a nap a lenyűgöző Les Cinq Pineaux szikláinál ér véget, ahol gyönyörű naplementét csodálhatunk meg a vadregényes parton.",
         "ro": "Ziua începe în centrul liniștit la Biserica Saint-Hilaire, urmată de o scurtă plimbare către fascinantele mlaștini de sare. La prânz, ne îndreptăm spre coasta din Riez pentru o pauză răcoritoare. După-amiaza este petrecută pe întinsa plajă Grande plage de Sion, ideală pentru relaxare sub razele soarelui. În cele din urmă, ziua se încheie la impresionantele stânci Les Cinq Pineaux, unde puteți asista la un apus de soare magnific.",
         "en": "The day begins in the quiet center at the Saint-Hilaire Church, followed by a short walk to the fascinating local salt marshes. At midday, we wander leisurely towards the coast at Riez for a refreshing coastal break. The afternoon is spent on the expansive Grande plage de Sion, perfect for deep relaxation. Finally, the day concludes at the impressive Les Cinq Pineaux, where you can witness a magnificent sunset along the rugged shoreline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen geschützt in der historischen Kirche, bevor Sie die feuchten, atmosphärischen Salinen erkunden. Mittags navigieren Sie durch Riez und nutzen Vordächer für kurze Pausen. Der Nachmittag führt Sie zum Strand von Sion, wo der Regen dem Ozean Dramatik verleiht. Beenden Sie den Tag an den Les Cinq Pineaux; robuste, wasserdichte Kleidung ist hier unerlässlich.",
+            "hu": "Kezdje a reggelt a történelmi templom menedékében, majd fedezze fel a hangulatos, esős sólepárlókat. Délben sétáljon Riez utcáin, kihasználva az ereszaljakat egy kis pihenőre. Délután a Sion strand várja, ahol az eső drámai színezetet ad az óceánnak. A nap végén nézze meg a Les Cinq Pineaux szikláinál megtörő hullámokat; a teljesen vízálló ruházat és cipő elengedhetetlen.",
+            "ro": "Începeți dimineața la adăpostul bisericii istorice, înainte de a explora mlaștinile sărate sub ploaie. La prânz, navigați prin Riez, folosind streșinile clădirilor pentru scurte pauze. După-amiaza la plaja Sion, ploaia adaugă o notă dramatică oceanului. Încheiați ziua admirând valurile puternice de la Les Cinq Pineaux; echipamentul impermeabil și robust este absolut necesar.",
+            "en": "Start your morning sheltered in the historic church before exploring the wet, atmospheric salt marshes. By midday, navigate the streets of Riez, using local overhangs for brief breaks. The afternoon takes you to the wide Sion beach, where the rain adds a dramatic touch to the ocean. Conclude the day watching the powerful waves crash against Les Cinq Pineaux; wear sturdy waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hilaire Church",
+                "hu": "Saint-Hilaire Church",
+                "ro": "Saint-Hilaire Church",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Buntglasfenster im trockenen, friedlichen Inneren dieser Kirche; ein perfekter geschützter Start an einem Regentag.",
+                "hu": "Csodálja meg a csodálatos ólomüveg ablakokat a történelmi templom száraz, békés belső terében; tökéletes, fedett menedék egy esős nap kezdetén.",
+                "ro": "Admirați vitraliile magnifice din interiorul uscat și liniștit al acestei biserici istorice; un început protejat perfect pentru o zi ploioasă.",
+                "en": "Admire the magnificent stained glass from the dry, peaceful interior of this historic church; it provides a perfect sheltered start to a rainy day walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Salt Marshes of Vie",
+                "hu": "Salt Marshes of Vie",
+                "ro": "Salt Marshes of Vie",
+                "en": "Salt Marshes of Vie"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Wege verstärken die Farben der Salinen; wasserdichte Stiefel sind Pflicht, um sicher auf den schlammigen Pfaden zu navigieren.",
+                "hu": "A nedves ösvények kiemelik a mocsarak élénk, borongós színeit; viseljen vízálló csizmát, hogy biztonságosan haladhasson a sáros utakon.",
+                "ro": "Cărările umede intensifică culorile vibrante ale mlaștinilor; purtați cizme impermeabile robuste pentru a naviga în siguranță pe potecile noroioase.",
+                "en": "The wet pathways distinctly enhance the vibrant, moody colors of the marshes; make sure to wear sturdy waterproof boots to navigate the muddy trails safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Riez",
+                "hu": "Riez",
+                "ro": "Riez",
+                "en": "Riez"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die lokalen Straßen und suchen Sie bei plötzlichen, starken Küstenschauern Schutz unter den großzügigen Vordächern der Gebäude.",
+                "hu": "Fedezze fel a helyi utcákat, és keressen menedéket az épületek kiugró tetői alatt a hirtelen lezúduló, heves tengerparti záporok elől.",
+                "ro": "Explorați străzile locale și găsiți adăpost sub streșinile generoase ale clădirilor în timpul averselor de coastă bruște și puternice.",
+                "en": "Explore the local streets and find shelter under generous building overhangs during any sudden, heavy coastal downpours while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande plage de Sion",
+                "hu": "Grande plage de Sion",
+                "ro": "Grande plage de Sion",
+                "en": "Grande plage de Sion"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Kraft des Ozeans von der Promenade aus; ein Regenschirm wird dem starken Wind hier höchstwahrscheinlich nicht standhalten.",
+                "hu": "Nézze meg az óceán nyers erejét a sétányról; egy átlagos esernyő valószínűleg egyáltalán nem bírja majd a nyílt víz felől érkező erős szelet.",
+                "ro": "Priviți puterea brută a oceanului de pe promenadă; o umbrelă va ceda foarte probabil în fața vânturilor puternice care suflă dinspre mare.",
+                "en": "See the ocean's raw power in the rain from the paved promenade; a standard umbrella will likely struggle against the strong, unrelenting sea winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Cinq Pineaux",
+                "hu": "Les Cinq Pineaux",
+                "ro": "Les Cinq Pineaux",
+                "en": "Les Cinq Pineaux"
+              },
+              "tip_5lang": {
+                "de": "Regen und brechende Wellen bieten ein Spektakel; bleiben Sie aus Sicherheitsgründen unbedingt fern von den extrem rutschigen Felskanten.",
+                "hu": "Az eső és a megtörő hullámok lenyűgöző látványt nyújtanak; a saját biztonsága érdekében maradjon távol a rendkívül csúszós sziklaszélektől.",
+                "ro": "Ploaia și valurile care se sparg creează un spectacol uimitor; pentru siguranța dumneavoastră, stați departe de rocile extrem de alunecoase de pe margine.",
+                "en": "The rain and crashing waves create a stunning visual spectacle here; for your safety, stay well back from the extremely slippery edge rocks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Morgen sind frostig an der Kirche und den gefrorenen Salinen. Mittags hält Sie der flotte Spaziergang durch Riez warm. Der Nachmittag bringt eine kühle Brise am Strand von Sion. Der Abend bricht früh gegen 17:00 Uhr herein und wirft lange Winterschatten über die Les Cinq Pineaux; kleiden Sie sich unbedingt in warmen Schichten.",
+            "hu": "A reggelek csípősek a templomnál és a fagyott sólepárlóknál. Délben a tempós séta Riez utcáin melegen tartja. A délután hűvös tengeri szellőt hoz a Sion strandon. Az este korán, 17:00 körül ereszkedik le, hosszú téli árnyékokat vetve a Les Cinq Pineaux szikláira; öltözzön meleg, réteges ruházatba a hideg ellen.",
+            "ro": "Diminețile sunt geroase la biserică și mlaștinile înghețate. La prânz, plimbarea rapidă prin Riez vă ține de cald. După-amiaza aduce brize reci de coastă la plaja Sion. Seara coboară devreme, în jurul orei 17:00, aruncând umbre lungi de iarnă peste Les Cinq Pineaux; îmbrăcați-vă în straturi foarte călduroase.",
+            "en": "Mornings are crisp at the church and frozen salt marshes. By midday, the brisk walk through Riez keeps you warm. The afternoon brings cool coastal breezes at the Sion beach. Evening falls early around 17:00, casting long winter shadows over Les Cinq Pineaux; ensure you dress heavily in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hilaire Church",
+                "hu": "Saint-Hilaire Church",
+                "ro": "Saint-Hilaire Church",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den friedlichen Wintermorgen in der Kirche; die dicken Steinmauern halten die rauen Küstenwinde effektiv draußen und bieten ein warmes Refugium.",
+                "hu": "Élvezze a békés téli reggelt a történelmi templomban; a vastag kőfalak hatékonyan kint tartják a zord tengerparti szeleket, meleg menedéket nyújtva.",
+                "ro": "Bucurați-vă de dimineața pașnică de iarnă în biserică; zidurile groase de piatră țin eficient afară vânturile aspre de coastă, oferind un sanctuar cald.",
+                "en": "Enjoy the peaceful winter morning inside the historic church; the heavy stone walls effectively keep the harsh coastal winds out, offering a warm sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Salt Marshes of Vie",
+                "hu": "Salt Marshes of Vie",
+                "ro": "Salt Marshes of Vie",
+                "en": "Salt Marshes of Vie"
+              },
+              "tip_5lang": {
+                "de": "Frost bedeckt im Winter oft die stillen Salinen; packen Sie sich gegen den kalten Morgenwind ein und genießen Sie die klare Luft.",
+                "hu": "Télen gyakran fagy borítja a csendes sólepárlókat; öltözzön fel jó melegen a csípős reggeli szél ellen, és élvezze a friss levegőt.",
+                "ro": "Înghețul acoperă adesea mlaștinile liniștite iarna; îmbrăcați-vă foarte gros împotriva vântului rece de dimineață și bucurați-vă de aerul proaspăt.",
+                "en": "Frost frequently coats the quiet salt pans during the winter months; wrap up warmly against the biting morning breeze and enjoy the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Riez",
+                "hu": "Riez",
+                "ro": "Riez",
+                "en": "Riez"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft macht den Spaziergang durch die Nachbarschaft belebend; bleiben Sie in flotter Bewegung, um Ihren Körper angenehm warm zu halten.",
+                "hu": "A friss téli levegő élénkítővé teszi a környéken tett sétát; mozogjon egyenletes, tempós lépésekkel, hogy a teste kellemesen meleg maradjon.",
+                "ro": "Aerul rece de iarnă face plimbarea prin cartier revigorantă; continuați să vă mișcați într-un ritm alert pentru a vă menține corpul confortabil de cald.",
+                "en": "The brisk winter air makes walking through the neighborhood quite invigorating; keep moving at a steady pace to stay comfortably warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande plage de Sion",
+                "hu": "Grande plage de Sion",
+                "ro": "Grande plage de Sion",
+                "en": "Grande plage de Sion"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter der blassen Wintersonne am leeren Strand; die kalte Meeresluft ist erfrischend, erfordert aber eine warme, winddichte Mütze.",
+                "hu": "Sétáljon az üres homokban a sápadt téli napsütésben; a hideg tengeri levegő frissítő, de mindenképpen vastag, szélálló sapkát igényel.",
+                "ro": "Plimbați-vă pe nisipul gol sub soarele palid de iarnă; aerul rece al mării este revigorant, dar necesită neapărat o căciulă groasă și rezistentă la vânt.",
+                "en": "Walk the empty sands under a pale winter sun; the cold sea air is incredibly refreshing but strictly requires a thick, windproof winter hat."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Cinq Pineaux",
+                "hu": "Les Cinq Pineaux",
+                "ro": "Les Cinq Pineaux",
+                "en": "Les Cinq Pineaux"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr an, um die Felsen leuchten zu sehen; der Küstenwind ist hier eisig, ziehen Sie Ihren Schal fest.",
+                "hu": "Érkezzen jóval a korai, 17:00 órai naplemente előtt; a tengerparti szél itt különösen jeges, ezért húzza össze szorosan a sálját és a kabátját.",
+                "ro": "Ajungeți bine înainte de apusul timpuriu de la 17:00; vântul de coastă de aici este extrem de înghețat, așa că înfășurați-vă fularul strâns.",
+                "en": "Arrive well before the early 17:00 sunset to see the rocks glow golden in the twilight; the coastal wind here is icy, so wrap your scarf tightly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a napot a hangulatos templomnál, és tekerjen a történelmi sólepárlókhoz, majd látogasson el a Bourrine du Bois Juquaud Múzeumba. Délben a Dino's Park izgalmas élményt kínál az egész család számára. A délután a festői La Parée Préneau partjához és a hatalmas Grande plage de Sionhoz vezet minket. Este élvezzük a frissítő tengeri szellőt és a festői naplementét a híres Les Cinq Pineaux sziklaalakzatoknál a parton.",
         "ro": "Începeți la biserica fermecătoare și pedalați către salinele istorice înainte de a merge la Muzeul Bourrine du Bois Juquaud. La prânz, Dino's Park oferă o experiență captivantă pentru întreaga familie. După-amiaza ne duce la pitoreasca plajă La Parée Préneau și la întinsa Grande plage de Sion. Seara, ne bucurăm de briza răcoroasă a mării și de un apus de soare pitoresc la faimoasele formațiuni stâncoase Les Cinq Pineaux.",
         "en": "Start at the charming church and cycle to the historic salt marshes before heading to the fascinating Bourrine du Bois Juquaud Museum. At midday, Dino's Park offers a thrilling experience right in the forest. The afternoon leads us to the scenic La Parée Préneau beach and the expansive Grande plage de Sion. In the evening, we enjoy the refreshing sea breeze and a picturesque ocean sunset at the famous Les Cinq Pineaux rock formations."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Fahrt an der Kirche. Radeln Sie vorsichtig zu den Salinen und zum Museum und achten Sie auf rutschiges Laub. Mittags vorbei am Dino's Park erfordert gute Schutzbleche. Am Nachmittag verlangen die nassen Wege zu den Stränden reduzierte Geschwindigkeit. Beenden Sie die Fahrt an den Les Cinq Pineaux; tragen Sie gut sichtbare Kleidung.",
+            "hu": "Kezdje esős túráját a templomnál. Kerekezzen óvatosan a mocsarak és a múzeum felé, ügyelve a csúszós falevelekre. Délben a Dino's Park melletti elhaladás jó sárvédőket igényel. Délután a strandokhoz vezető nedves utakon csökkentse a sebességet. Fejezze be a nyirkos utat a Les Cinq Pineaux-nál; viseljen jól láthatósági mellényt.",
+            "ro": "Începeți cursa umedă la biserică. Pedalați cu grijă spre mlaștini și muzeu, atenție la frunzele alunecoase. La prânz, pedalarea pe lângă Dino's Park necesită apărători bune. După-amiaza, traseele umede spre plaje cer viteză redusă. Terminați cursa la Les Cinq Pineaux; purtați echipament reflectorizant de înaltă vizibilitate.",
+            "en": "Start your wet ride at the church. Pedal carefully to the marshes and museum, watching for slippery leaves. Midday cycling past Dino's Park requires good fenders. In the afternoon, the wet trails to the beaches demand reduced speeds. Finish the damp ride at Les Cinq Pineaux; wear high-visibility gear for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hilaire Church",
+                "hu": "Saint-Hilaire Church",
+                "ro": "Saint-Hilaire Church",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre regnerische Fahrt mit einem trockenen Stopp in der Kirche; stellen Sie sicher, dass Ihre Fahrradlichter für maximale Sichtbarkeit eingeschaltet sind.",
+                "hu": "Kezdje az esős kerékpártúrát egy száraz pihenővel a templom belsejében; a rossz látási viszonyok miatt győződjön meg róla, hogy a lámpák be vannak kapcsolva.",
+                "ro": "Începeți plimbarea ploioasă cu o oprire uscată în biserică; asigurați-vă că luminile bicicletei sunt aprinse pentru vizibilitate maximă în condiții de ploaie.",
+                "en": "Start your rainy ride with a dry, peaceful stop inside the church; ensure your bike lights are fully turned on for maximum visibility in the gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Salt Marshes of Vie",
+                "hu": "Salt Marshes of Vie",
+                "ro": "Salt Marshes of Vie",
+                "en": "Salt Marshes of Vie"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können sehr rutschig sein; bremsen Sie sanft und genießen Sie die neblige Feuchtgebietslandschaft vom Sattel aus.",
+                "hu": "A burkolatlan utak nagyon csúszósak lehetnek az esőtől; fékezzen óvatosan, miközben a nyeregből élvezi a ködös, vizes élőhely egyedi látványát.",
+                "ro": "Potecile neasfaltate pot fi foarte alunecoase; frânați ușor și constant în timp ce vă bucurați de peisajul cețos al zonelor umede din șa.",
+                "en": "The unpaved paths can become quite slick in the rain; use your brakes gently and enjoy the moody, misty wetland landscape directly from your saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourrine du Bois Juquaud Museum",
+                "hu": "Bourrine du Bois Juquaud Museum",
+                "ro": "Bourrine du Bois Juquaud Museum",
+                "en": "Bourrine du Bois Juquaud Museum"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor dem Regen in den traditionellen Reetdachhäusern und wärmen Sie sich auf, während Sie das lokale Erbe entdecken.",
+                "hu": "Keressen menedéket a folyamatos eső elől a hagyományos nádfedeles házakban, és melegedjen fel, miközben felfedezi a helyi történelmi örökséget.",
+                "ro": "Refugiați-vă de ploaia constantă în interiorul caselor tradiționale cu acoperiș de stuf și încălziți-vă în timp ce descoperiți moștenirea locală.",
+                "en": "Take a much-needed refuge from the rain inside the traditional thatched cottages, warming up while you learn about the local historical heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Dino's Park",
+                "hu": "Dino's Park",
+                "ro": "Dino's Park",
+                "en": "Dino's Park"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege um den Park werden bei Nässe sehr schlammig; bleiben Sie bei starken Güssen zur Sicherheit auf den asphaltierten Hauptwegen.",
+                "hu": "A park körüli erdei utak nedves időben rendkívül sárosak lesznek; felhőszakadás idején a biztonság érdekében maradjon a kikövezett főutakon.",
+                "ro": "Potecile din pădurea din jurul parcului devin foarte noroioase la umezeală; rămâneți pe cărările principale asfaltate în timpul averselor puternice.",
+                "en": "The woodland tracks surrounding the park get exceedingly muddy when wet; stick strictly to the main paved paths during heavy downpours for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "La Parée Préneau",
+                "hu": "La Parée Préneau",
+                "ro": "La Parée Préneau",
+                "en": "La Parée Préneau"
+              },
+              "tip_5lang": {
+                "de": "Regenwasser sammelt sich oft auf diesen Küstenwegen; reduzieren Sie Ihr Tempo, um zu vermeiden, dass Ihre Unterschenkel komplett durchnässt werden.",
+                "hu": "Az esővíz gyakran mély tócsákban gyűlik össze ezeken a parti utakon; csökkentse a tempót, hogy elkerülje a lábszárainak teljes elázását.",
+                "ro": "Apa de ploaie se adună adesea în bălți adânci pe aceste poteci de coastă; reduceți ritmul pentru a evita udarea completă a picioarelor.",
+                "en": "Rainwater frequently pools into deep puddles on these coastal paths; proactively slow your pace to avoid completely soaking your lower legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande plage de Sion",
+                "hu": "Grande plage de Sion",
+                "ro": "Grande plage de Sion",
+                "en": "Grande plage de Sion"
+              },
+              "tip_5lang": {
+                "de": "Die Mischung aus nassem Sand und Asphalt ist rutschig; parken Sie das Fahrrad sicher und standfest, wenn der Küstenwind spürbar auffrischt.",
+                "hu": "A nedves homok és aszfalt keveréke különösen csúszós lehet; parkoljon le biztonságosan, amikor a tengerparti szél érezhetően felerősödik.",
+                "ro": "Amestecul de nisip ud și asfalt este deosebit de alunecos; parcați bicicleta în siguranță și stabil când vântul de coastă se întețește vizibil.",
+                "en": "The mixture of wet sand and asphalt can be treacherous on two wheels; park the bike securely as the coastal wind speeds begin to pick up noticeably."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Cinq Pineaux",
+                "hu": "Les Cinq Pineaux",
+                "ro": "Les Cinq Pineaux",
+                "en": "Les Cinq Pineaux"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf extrem rutschige, nasse Felsen am Endpunkt; steigen Sie ab und schieben Sie Ihr Fahrrad sicher zu den besten Aussichtspunkten.",
+                "hu": "Különösen ügyeljen az extrém csúszós nedves sziklákra a végponton; szálljon le, és tolja a kerékpárját a legjobb kilátópontokhoz a biztonságért.",
+                "ro": "Atenție mare la rocile umede extrem de alunecoase la punctul final; descălecați și împingeți bicicleta în siguranță spre punctele de belvedere.",
+                "en": "Watch out carefully for the extremely slippery wet rocks at the endpoint; dismount entirely and walk your bike to the best viewing spots safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Kirche erfordert Handschuhe und Schichten. Die Mittagsfahrt zum Museum und den Parks ist frisch und klar. Das Treten entlang der Küste wird am Nachmittag kühl, wenn die Sonne sinkt. Versuchen Sie, vor dem Sonnenuntergang um 17:00 Uhr an den Les Cinq Pineaux zu sein; die Lichter müssen geladen sein.",
+            "hu": "A fagyos reggeli kezdés a templomnál vastag kesztyűt és rétegeket igényel. A déli tekerés a múzeumhoz és a parkokhoz friss és tiszta. A délutáni parti kerékpározás hűvös lesz, ahogy a nap lejjebb ereszkedik. Cél, hogy a 17:00 órai naplemente előtt befejezze a Les Cinq Pineaux-nál feltöltött lámpákkal.",
+            "ro": "Un început de dimineață înghețat la biserică necesită mănuși groase. Cursa de prânz spre muzeu și parcuri este clară și rece. Pedalarea de după-amiază de-a lungul coastei devine friguroasă pe măsură ce soarele apune. Terminați înainte de apusul de la 17:00 la Les Cinq Pineaux, cu luminile complet încărcate.",
+            "en": "A frosty morning start at the church requires gloves and layers. The midday ride to the museum and parks is brisk and clear. Afternoon pedaling along the coast gets chilly as the sun drops. Aim to finish before the 17:00 sunset at Les Cinq Pineaux, keeping bike lights well charged and fully operational."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hilaire Church",
+                "hu": "Saint-Hilaire Church",
+                "ro": "Saint-Hilaire Church",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf, bevor Sie auf die frostigen Wege fahren; gute Thermohandschuhe sind für die Lenkergriffe heute wärmstens empfohlen.",
+                "hu": "Melegedjen fel bent, mielőtt a fagyos utakra lépne; a vastag, thermo kerékpáros kesztyű használata a kormány fogásához ma erősen ajánlott.",
+                "ro": "Încălziți-vă înăuntru înainte de a ieși pe traseele înghețate; mănușile termice de ciclism bune sunt foarte recomandate pentru prinderea ghidonului.",
+                "en": "Warm up inside before hitting the icy, frosty trails; thick thermal cycling gloves are highly recommended today to maintain your grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Salt Marshes of Vie",
+                "hu": "Salt Marshes of Vie",
+                "ro": "Salt Marshes of Vie",
+                "en": "Salt Marshes of Vie"
+              },
+              "tip_5lang": {
+                "de": "Morgenfrost auf den Pfaden macht das Kurvenfahren tückisch; fahren Sie vorsichtig und genießen Sie die klare Luft der kargen Winterlandschaft.",
+                "hu": "A reggeli fagy az utakon megnehezíti a kanyarodást; haladjon óvatosan, és élvezze a zord téli táj felett megülő kristálytiszta levegőt.",
+                "ro": "Înghețul de dimineață de pe poteci face virajele dificile; mergeți cu grijă și bucurați-vă de aerul clar și de peisajul de iarnă aspru.",
+                "en": "Morning frost on the unpaved paths makes cornering particularly tricky; ride smoothly and simply enjoy the crisp air of the stark winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourrine du Bois Juquaud Museum",
+                "hu": "Bourrine du Bois Juquaud Museum",
+                "ro": "Bourrine du Bois Juquaud Museum",
+                "en": "Bourrine du Bois Juquaud Museum"
+              },
+              "tip_5lang": {
+                "de": "Die traditionelle Architektur hebt sich scharf vom Winterhimmel ab; dies ist ein hervorragender Ort, um abzusteigen und die kalten Beine zu strecken.",
+                "hu": "A hagyományos építészet élesen elüt a hideg téli égbolttól; ez egy kiváló, szélvédett hely arra, hogy leszálljon és kinyújtóztassa a hideg lábait.",
+                "ro": "Arhitectura tradițională se conturează clar pe cerul de iarnă; acesta este un loc excelent pentru a descăleca și a vă întinde picioarele amorțite.",
+                "en": "The traditional thatched architecture stands out sharply against the winter sky; this is a great, sheltered place to dismount and stretch cold legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Dino's Park",
+                "hu": "Dino's Park",
+                "ro": "Dino's Park",
+                "en": "Dino's Park"
+              },
+              "tip_5lang": {
+                "de": "Das fehlende Laub verleiht den Waldgebieten eine karge Schönheit; achten Sie besonders in schattigen Bereichen auf verborgene, gefährliche Eisflächen.",
+                "hu": "A lombozat hiánya zord szépséget kölcsönöz az erdős részeknek; különösen az árnyékos kanyarokban vigyázzon a rejtett, veszélyes jeges foltokra.",
+                "ro": "Lipsa frunzelor oferă zonelor împădurite o frumusețe aspră; atenție mare la peticele de gheață periculoase ascunse, mai ales în zonele umbrite.",
+                "en": "The complete lack of summer foliage gives the wooded areas a stark beauty; watch out for hidden, dangerous icy patches specifically in shaded sections."
+              }
+            },
+            {
+              "name": {
+                "de": "La Parée Préneau",
+                "hu": "La Parée Préneau",
+                "ro": "La Parée Préneau",
+                "en": "La Parée Préneau"
+              },
+              "tip_5lang": {
+                "de": "Die stetige winterliche Meeresbrise bietet massiven Widerstand beim Fahren; tragen Sie unbedingt eine absolut winddichte Jacke für diesen Abschnitt.",
+                "hu": "A folyamatos téli tengeri szél komoly ellenállást fejt ki kerékpározás közben; feltétlenül viseljen teljesen szélálló kabátot ezen a nyílt szakaszon.",
+                "ro": "Briza constantă de iarnă a mării oferă o rezistență masivă la pedalare; purtați absolut o jachetă complet rezistentă la vânt pentru această secțiune.",
+                "en": "The steady winter sea breeze provides massive, chilling resistance as you ride; you must wear a fully windproof cycling jacket for this open stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande plage de Sion",
+                "hu": "Grande plage de Sion",
+                "ro": "Grande plage de Sion",
+                "en": "Grande plage de Sion"
+              },
+              "tip_5lang": {
+                "de": "Die blasse Sonne sinkt nachmittags schnell über dem Wasser; stellen Sie frühzeitig sicher, dass Ihre Fahrradlichter sauber und voll funktionsfähig sind.",
+                "hu": "A sápadt nap délután gyorsan ereszkedik a víz fölé; időben győződjön meg arról, hogy a kerékpár lámpái és prizmái tiszták és jól működnek.",
+                "ro": "Soarele palid coboară rapid peste apă după-amiaza; asigurați-vă din timp că luminile bicicletei sunt curate, puternice și complet funcționale.",
+                "en": "The pale sun sets rapidly low over the water in the late afternoon; ensure your bike reflectors and lights are clean and working well in advance."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Cinq Pineaux",
+                "hu": "Les Cinq Pineaux",
+                "ro": "Les Cinq Pineaux",
+                "en": "Les Cinq Pineaux"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zur frühen Dämmerung um 17:00 Uhr an; der eisige Wind direkt von den Felsen bedeutet, dass Sie hier nicht allzu lange verweilen sollten.",
+                "hu": "Érkezzen meg pontosan a kora esti, 17:00 órai szürkületre; a sziklák felől fújó jeges szél miatt tervezze rövidre, de annál látványosabbra a megállót.",
+                "ro": "Ajungeți la timp pentru amurgul timpuriu de la ora 17:00; vântul extrem de înghețat de pe stânci înseamnă că nu ar trebui să zăboviți prea mult aici.",
+                "en": "Arrive just as the early 17:00 dusk sets in; the distinctly icy wind blowing off the rocks means you shouldn't plan to linger too long at the edge."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Utazásunk a Saint-Hilaire templomnál kezdődik, ahonnan gyorsan eljutunk a lenyűgöző sólepárlókhoz és a történelmi Bourrine múzeumhoz. Délben a népszerű Demoiselles strandra hajtunk, majd izgalmas kalandokat élünk át a Dino's Parkban. A nyugodt délután festői megállókat kínál a La Parée Préneau és a Sion strandon. A nap látványosan ér véget egy felejthetetlen naplementével az óceánparti Les Cinq Pineaux szikláinál.",
         "ro": "Călătoria noastră începe la Biserica Saint-Hilaire, ducându-ne rapid la mlaștinile de sare și la muzeul istoric Bourrine. La prânz, conducem spre plaja populară Demoiselles și experimentăm aventuri palpitante la Dino's Park. După-amiaza relaxantă oferă opriri pitorești la La Parée Préneau și la plaja din Sion. Ziua se încheie spectaculos cu un apus de soare de neuitat la uimitoarele stânci oceanice Les Cinq Pineaux.",
         "en": "Our drive begins at the Saint-Hilaire Church, quickly taking us to the fascinating salt marshes and the historic Bourrine museum. At midday, we drive to the popular Demoiselles Beach and then experience thrilling adventures at Dino's Park. The relaxing afternoon features scenic coastal stops at La Parée Préneau and Sion beach. The day concludes spectacularly with an unforgettable ocean sunset at the stunning Les Cinq Pineaux rocks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig von der Kirche zu den nassen Salinen. Mittags bietet das Museum einen trockenen Zufluchtsort, bevor Sie den feuchten Sandstrand passieren. Die Fahrt entlang der Küste zum Dino's Park und nach Sion erfordert gute Scheibenwischer. Enden Sie an den Les Cinq Pineaux; achten Sie auf überflutete Parkplätze.",
+            "hu": "Vezessen óvatosan a templomtól a nedves mocsarakig. Délben a múzeum száraz menedéket nyújt, mielőtt elhaladna a vizes homokos tengerpart mellett. A parti autózás a Dino's Park és Sion felé jól működő ablaktörlőket igényel. Zárja az utat a Les Cinq Pineaux-nál; figyeljen a részben elárasztott parkolókra.",
+            "ro": "Conduceți cu grijă de la biserică la mlaștinile umede. La prânz, muzeul oferă un refugiu uscat înainte de a trece de nisipurile umede ale plajei. Condusul pe coastă spre Dino's Park și Sion necesită ștergătoare bune. Terminați la Les Cinq Pineaux; atenție la parcările care se pot inunda rapid.",
+            "en": "Drive carefully from the church to the wet marshes. Midday offers dry refuge at the museum before passing the wet sands of Demoiselles Beach. The afternoon drive along the coast to Dino's Park and Sion requires working wipers. End at Les Cinq Pineaux; watch for partly flooded coastal parking areas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hilaire Church",
+                "hu": "Saint-Hilaire Church",
+                "ro": "Saint-Hilaire Church",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, trockener Start für einen verregneten Roadtrip; parken Sie in der Nähe des Eingangs und genießen Sie die hallende Akustik im Inneren.",
+                "hu": "Tökéletes, száraz kezdés egy esős autós túrához; parkoljon közvetlenül a bejárat közelében, és élvezze a benti lenyűgöző, zengő akusztikát.",
+                "ro": "Un început uscat perfect pentru o excursie ploioasă cu mașina; parcați aproape de intrare și bucurați-vă de acustica impresionantă din interior.",
+                "en": "A perfect, thoroughly dry start to a rainy road trip; park close to the entrance and take time to simply enjoy the echoing acoustics inside the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Salt Marshes of Vie",
+                "hu": "Salt Marshes of Vie",
+                "ro": "Salt Marshes of Vie",
+                "en": "Salt Marshes of Vie"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die regengepeitschten Salinen bequem von Ihrem warmen Auto aus oder machen Sie einen ganz kurzen Spaziergang in Regenausrüstung.",
+                "hu": "Nézze meg az eső áztatta sólepárlókat a meleg autó kényelméből, vagy tegyen egy nagyon rövid, frissítő sétát teljes vízálló felszerelésben.",
+                "ro": "Priviți mlaștinile sărate bătute de ploaie din confortul mașinii calde sau faceți o plimbare foarte scurtă echipat complet cu haine impermeabile.",
+                "en": "View the rain-swept salt pans comfortably from the dry heater of your car, or bravely take a quick walk completely outfitted in waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourrine du Bois Juquaud Museum",
+                "hu": "Bourrine du Bois Juquaud Museum",
+                "ro": "Bourrine du Bois Juquaud Museum",
+                "en": "Bourrine du Bois Juquaud Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen, um die dicken Reetdächer zu bewundern, die historisch gebaut wurden, um starken Küstenregen abzuweisen.",
+                "hu": "Használja ki a záporok közötti rövidebb szüneteket a vastag nádtetők megtekintésére, amelyeket úgy építettek, hogy elvezessék a heves esőket.",
+                "ro": "Profitați de pauzele scurte de ploaie pentru a vedea acoperișurile groase de stuf, construite istoric pentru a respinge ploile grele de coastă.",
+                "en": "Hop out quickly between passing showers to examine the thick thatched roofs, which were historically designed to shed the heavy, relentless coastal rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Demoiselles Beach",
+                "hu": "Demoiselles Beach",
+                "ro": "Demoiselles Beach",
+                "en": "Demoiselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Der breite Strand sieht vom Parkplatz aus dramatisch aus; bleiben Sie bei sehr starkem Wind mit einer Thermoskanne heißem Kaffee im Auto sitzen.",
+                "hu": "A széles strand drámaian néz ki a parkolóból; nyugodtan maradjon bent egy termosz forró teával, ha túl erős a szél a kinti sétához.",
+                "ro": "Plaja largă arată incredibil de dramatic din parcare; rămâneți înăuntru cu un termos de ceai fierbinte dacă vântul este prea puternic pentru a ieși.",
+                "en": "The extremely wide beach looks highly dramatic from the parking area; choose to stay comfortably inside the car if the wind and rain are too fierce."
+              }
+            },
+            {
+              "name": {
+                "de": "Dino's Park",
+                "hu": "Dino's Park",
+                "ro": "Dino's Park",
+                "en": "Dino's Park"
+              },
+              "tip_5lang": {
+                "de": "Starkregen verwandelt die unbefestigten Parkflächen schnell in Schlamm; parken Sie vorsichtig am Rand und bringen Sie große Regenschirme mit.",
+                "hu": "A heves esőzés gyorsan sártengerré változtathatja a burkolatlan parkolót; parkoljon rendkívül óvatosan a peremeken, és vigyen magával nagy esernyőket.",
+                "ro": "Ploaia torențială transformă rapid parcările neasfaltate în noroi adânc; parcați cu mare grijă pe margini și aduceți neapărat umbrele mari.",
+                "en": "Heavy rain can quickly turn the unpaved parking sections into deep mud; park carefully on solid ground and bring large umbrellas for the forest walk."
+              }
+            },
+            {
+              "name": {
+                "de": "La Parée Préneau",
+                "hu": "La Parée Préneau",
+                "ro": "La Parée Préneau",
+                "en": "La Parée Préneau"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt direkt am Meer ist malerisch; fahren Sie bei Regen langsam und seien Sie extrem vorsichtig bei großen Wasseransammlungen auf der Straße.",
+                "hu": "A közvetlenül az óceánparti út csodás az esős ablakokon át; haladjon lassan, és legyen rendkívül óvatos a parti úton felgyülemlő mély tócsákkal.",
+                "ro": "Drumul pe lângă ocean este pitoresc prin geamurile plouate; conduceți încet și fiți extrem de precauți la bălțile mari care se adună pe drumul de coastă.",
+                "en": "The ocean drive is scenic with rain dramatically streaking the windows; be highly cautious of deep, sudden puddles accumulating on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande plage de Sion",
+                "hu": "Grande plage de Sion",
+                "ro": "Grande plage de Sion",
+                "en": "Grande plage de Sion"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie nur ganz kurz aus, um die kalte Ozeangischt im Gesicht zu spüren, und ziehen Sie sich dann schnell ins beheizte Auto zurück.",
+                "hu": "Szálljon ki csak egy röpke pillanatra, hogy érezze a hideg óceáni permetet, majd vonuljon vissza minél hamarabb a jól fűtött gépkocsiba.",
+                "ro": "Ieșiți doar pentru un moment scurt pentru a simți stropii reci ai oceanului pe față, apoi retrageți-vă rapid și confortabil în mașina încălzită.",
+                "en": "Step out briefly into the elements to actually feel the stinging ocean spray, then quickly retreat to the fully heated car to dry off and warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Cinq Pineaux",
+                "hu": "Les Cinq Pineaux",
+                "ro": "Les Cinq Pineaux",
+                "en": "Les Cinq Pineaux"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt im Auto, während stürmische Wellen spektakulär gegen die Felsen schlagen; fahren Sie aufgrund der schlechten Sicht sehr langsam.",
+                "hu": "Fejezze be az utat, figyelve a szikláknak csapódó viharos hullámokat az autóból; a visszaúton vezessen lassan a folyamatosan romló látási viszonyok miatt.",
+                "ro": "Încheiați drumul privind din mașină cum valurile furtunoase se izbesc spectaculos de stânci; conduceți lent la întoarcere din cauza vizibilității scăzute.",
+                "en": "Conclude the drive safely watching the stormy waves heavily smash against the rocks from your window; drive slowly homeward as coastal visibility drops."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das klare Winterfahren beginnt warm an der Kirche. Die Stopps an den Salinen und im Museum erfordern dicke Mäntel, aber das warme Auto wartet stets. Die Küstenfahrt vorbei an den Stränden ist im fahlen Nachmittagslicht wunderschön. Erreichen Sie die Les Cinq Pineaux vor 17:00 Uhr für den frühen Sonnenuntergang.",
+            "hu": "A friss téli autózás kényelmesen, melegen indul a templomtól. A mocsaraknál és a múzeumnál tett megállókhoz vastag kabát kell, de a meleg autó várja. A tengerparti autózás gyönyörű a sápadt délutáni fényben. Érjen a Les Cinq Pineaux-hoz 17:00 óra előtt, hogy elkapja a korai naplementét a hideg tenger felett.",
+            "ro": "Condusul clar de iarnă începe cald la biserică. Opririle la mlaștini și muzeu necesită paltoane groase, dar mașina caldă vă așteaptă mereu. Drumul de coastă pe lângă plaje este superb în lumina palidă a după-amiezii. Ajungeți la Les Cinq Pineaux înainte de ora 17:00 pentru apusul timpuriu peste marea rece.",
+            "en": "Crisp winter driving starts warmly at the church. Midday stops at the marshes and museum require heavy coats outside, but a warm car waits. The afternoon coastal drive past the beaches is beautiful in the pale light. Reach Les Cinq Pineaux before 17:00 to catch the early winter sunset over the cold sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hilaire Church",
+                "hu": "Saint-Hilaire Church",
+                "ro": "Saint-Hilaire Church",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Die starke Autoheizung macht den frostigen Morgen sehr angenehm; parken Sie und bewundern Sie die oft mit dickem Raureif bedeckte Steinarchitektur.",
+                "hu": "A jó autófűtés megkönnyíti a fagyos reggeli utat; parkoljon le kényelmesen, és csodálja meg a sűrű dérrel borított történelmi kőépítészetet.",
+                "ro": "Încălzirea mașinii face ca drumul matinal înghețat să fie foarte plăcut; parcați și admirați arhitectura istorică din piatră acoperită adesea de brumă.",
+                "en": "The car heater makes the chilly morning commute effortlessly easy; park close by and thoroughly admire the frost-tipped, frozen stone architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Salt Marshes of Vie",
+                "hu": "Salt Marshes of Vie",
+                "ro": "Salt Marshes of Vie",
+                "en": "Salt Marshes of Vie"
+              },
+              "tip_5lang": {
+                "de": "Die extrem tief stehende Wintersonne reflektiert stark auf den gefrorenen Flächen; halten Sie unbedingt immer eine Sonnenbrille beim Fahren bereit.",
+                "hu": "A nagyon alacsonyan járó téli nap vakítóan tükröződik a fagyott medencéken; vezetés közben tartson folyamatosan kéznél egy jó napszemüveget.",
+                "ro": "Soarele de iarnă foarte jos se reflectă orbitor pe suprafețele înghețate ale mlaștinilor; păstrați mereu ochelarii de soare la îndemână în timpul condusului.",
+                "en": "The low winter sun reflects blindingly off the flooded, frozen salt pans; actively keep your sunglasses handy to maintain good visibility while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourrine du Bois Juquaud Museum",
+                "hu": "Bourrine du Bois Juquaud Museum",
+                "ro": "Bourrine du Bois Juquaud Museum",
+                "en": "Bourrine du Bois Juquaud Museum"
+              },
+              "tip_5lang": {
+                "de": "Die eiskalte Luft bewahrt die absolute Stille der Anlage; tragen Sie beim Verlassen des Autos dicke Handschuhe, um warm und komfortabel zu bleiben.",
+                "hu": "A jéghideg levegő megőrzi a történelmi helyszín abszolút csendjét; amikor kiszáll az autóból, viseljen vastag kesztyűt, hogy kényelmesen meleg maradjon.",
+                "ro": "Aerul înghețat păstrează liniștea absolută a sitului tradițional; purtați mănuși groase când părăsiți mașina caldă pentru a rămâne confortabil.",
+                "en": "The freezing cold air entirely preserves the stillness of the traditional site; keep your hands tightly in your warm coat pockets while briefly walking outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Demoiselles Beach",
+                "hu": "Demoiselles Beach",
+                "ro": "Demoiselles Beach",
+                "en": "Demoiselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster für eine belebende Brise eisiger Meeresluft kurz herunter, bevor Sie die Heizung wieder voll aufdrehen und weiterfahren.",
+                "hu": "Húzza le az ablakot egy pillanatra egy élénkítő fuvallatnyi fagyos tengeri levegőért, mielőtt ismét feljebb venné a fűtést a következő szakaszhoz.",
+                "ro": "Coborâți geamul scurt pentru o briză revigorantă de aer de mare extrem de rece, înainte de a da din nou drumul la căldură la maximum pentru restul drumului.",
+                "en": "Roll down the car window temporarily for an invigorating blast of fresh, freezing sea air before promptly turning the internal heat completely back up."
+              }
+            },
+            {
+              "name": {
+                "de": "Dino's Park",
+                "hu": "Dino's Park",
+                "ro": "Dino's Park",
+                "en": "Dino's Park"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige, sehr leere Wintersaison garantiert einfaches Parken; der schnelle Spaziergang durch die kalten Ausstellungen gibt frische Energie.",
+                "hu": "A csendes, kifejezetten üres téli szezon rendkívül egyszerű, gyors parkolást jelent; a kiállításokon tett tempós séta új friss energiával tölti fel.",
+                "ro": "Sezonul de iarnă foarte liniștit și gol garantează o parcare extrem de ușoară; plimbarea rapidă prin expozițiile reci vă va menține ridicat nivelul de energie.",
+                "en": "The incredibly quiet, uncrowded winter season directly means very easy parking; the brisk, fast-paced walk through the outdoor exhibits keeps you warmly energized."
+              }
+            },
+            {
+              "name": {
+                "de": "La Parée Préneau",
+                "hu": "La Parée Préneau",
+                "ro": "La Parée Préneau",
+                "en": "La Parée Préneau"
+              },
+              "tip_5lang": {
+                "de": "Raue Winterbedingungen können unerwartet Sand auf den Asphalt wehen; fahren Sie hier stets sehr gleichmäßig und genießen Sie die karge Küstenlinie.",
+                "hu": "A zord téli útviszonyok miatt gyakran váratlanul homok kerülhet az aszfaltra; vezessen egyenletes tempóban, és élvezze a teljesen kihalt partszakaszt.",
+                "ro": "Condițiile aspre de iarnă pot aduce neașteptat nisip pe asfalt aici; conduceți foarte constant, fără mișcări bruște, și bucurați-vă de coasta dezgolită.",
+                "en": "Harsh winter weather conditions can unexpectedly blow loose sand onto the asphalt here; drive smoothly without sudden stops and simply enjoy the stark coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande plage de Sion",
+                "hu": "Grande plage de Sion",
+                "ro": "Grande plage de Sion",
+                "en": "Grande plage de Sion"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Strand ist im Winter meist menschenleer und bietet einen unglaublich friedlichen, melancholischen Blick direkt aus der Fahrerkabine.",
+                "hu": "A hatalmas strand télen többnyire teljesen kihalt, és hihetetlenül békés, kissé melankolikus kilátást nyújt a kényelmes vezetőülés melegéből.",
+                "ro": "Plaja imensă este în mare parte complet pustie iarna, oferind o priveliște incredibil de liniștită, melancolică, direct din confortul scaunului șoferului.",
+                "en": "The massive beach is mostly completely deserted in winter, proudly offering a beautifully moody, peaceful oceanic view right from the absolute comfort of the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Cinq Pineaux",
+                "hu": "Les Cinq Pineaux",
+                "ro": "Les Cinq Pineaux",
+                "en": "Les Cinq Pineaux"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie exakt für den Sonnenuntergang um 17:00 Uhr, um das Winterlicht zu sehen; achten Sie beim Aussteigen penibel auf schwarzes Eis auf den Steinen.",
+                "hu": "Időzítse érkezését pontosan a korai, 17:00 órai naplementére a legjobb fényekért; amikor kiszáll az autóból, fokozottan figyeljen a köveken lévő fekete jégre.",
+                "ro": "Planificați-vă sosirea exact pentru apusul de la ora 17:00 pentru a vedea lumina de iarnă; când ieșiți din mașină, fiți foarte atenți la gheața neagră de pe pietre.",
+                "en": "Perfectly time your arrival for the early 17:00 sunset to see the fading winter light dramatically hit the rocks; carefully watch your step for black ice patches on foot."
+              }
+            }
+          ]
+        }
       }
     }
   }

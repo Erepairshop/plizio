@@ -160,6 +160,196 @@
         "hu": "Sétáját a Carn Bosavern lankáin élvezhető tengerparti szellővel kezdi. Késő délelőtt merüljön el a történelemben a Plain-an-Gwarry-nál és a Nancherow Stúdióban. A délután a Kenidjack Arsenic Works drámai romjaihoz és a Cape Cornwall lenyűgöző kilátásához vezet. Utazása békésen zárul a Ballowall Barrow ősi köveinek megcsodálásával.",
         "ro": "Începeți plimbarea bucurându-vă de briza de coastă pe pantele de la Carn Bosavern. Spre prânz, cufundați-vă în istorie la anticul Plain-an-Gwarry și Nancherow Studio. După-amiaza vă conduce către ruinele Kenidjack Arsenic Works și priveliștile uluitoare de la Cape Cornwall. Călătoria se încheie pașnic, admirând pietrele antice de la Ballowall Barrow.",
         "en": "Begin your walking tour enjoying the coastal breezes on Carn Bosavern's slopes. By late morning, immerse yourself in history at the ancient Plain-an-Gwarry and Nancherow Studio. The afternoon leads you to the dramatic ruins of the Kenidjack Arsenic Works and stunning views from Cape Cornwall. Your journey peacefully concludes marveling at the ancient stones of Ballowall Barrow."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bosavern zeigt sich bei Regen von seiner rauen, mystischen Seite. Der Morgen beginnt mit nebelverhangenen Granitfelsen, während die Feuchtigkeit die Farben der Heide intensiviert. Mittags bietet das Nancherow Studio einen trockenen, kreativen Rückzugsort. Nachmittags peitscht der Wind am Cape Cornwall den Regen über die Klippen. Der Tag endet sicher, bevor die Dämmerung in den Wolken versinkt.",
+            "hu": "Bosavern esőben is lenyűgöző, vad arcát mutatja. A reggel ködbe burkolózó gránitsziklák között indul, ahol a nedvesség kiemeli a táj színeit. Délben a Nancherow Stúdió nyújt száraz, művészi menedéket. Délután a Cape Cornwall szikláinál az óceáni szél mossa az utakat. Az este biztonságban ér véget, még mielőtt a sűrű felhők teljesen elnyelnék a szürkületi fényeket.",
+            "ro": "Bosavern își dezvăluie latura aspră și mistică sub ploaie. Dimineața începe printre stânci de granit învăluite în ceață, unde umiditatea intensifică culorile landei. La prânz, Studioul Nancherow oferă un refugiu creativ și uscat. După-amiaza, vântul de la Cape Cornwall mână ploaia peste faleze. Ziua se încheie în siguranță, înainte ca amurgul să se piardă în norii densi.",
+            "en": "Bosavern shows its raw, mystical side in the rain. The morning begins among mist-shrouded granite rocks, where moisture intensifies the moorland colors. At noon, Nancherow Studio provides a dry, creative sanctuary. In the afternoon, the wind at Cape Cornwall whips the rain across the cliffs. The day ends safely before the twilight sinks into the heavy clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carn Bosavern",
+                "hu": "Carn Bosavern",
+                "ro": "Carn Bosavern",
+                "en": "Carn Bosavern"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel verleiht den Felsen eine magische Aura; tragen Sie feste, wasserfeste Wanderschuhe, da die umliegenden Graswege bei Nässe sehr rutschig sind.",
+                "hu": "A köd mágikus aurát kölcsönöz a szikláknak; viselj stabil, vízálló túrabakancsot, mert a füves ösvények nedvesen rendkívül csúszóssá válnak a területen.",
+                "ro": "Ceața conferă stâncilor o aură magică; purtați bocanci de munte impermeabili, deoarece potecile cu iarbă devin foarte alunecoase când sunt ude.",
+                "en": "The mist gives the rocks a magical aura; wear sturdy, waterproof hiking boots as the surrounding grassy paths become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-an-Gwarry",
+                "hu": "Plain-an-Gwarry",
+                "ro": "Plain-an-Gwarry",
+                "en": "Plain-an-Gwarry"
+              },
+              "tip_5lang": {
+                "de": "Dieses antike Amphitheater wirkt im Regen besonders geschichtsträchtig; suchen Sie unter den nahen Bäumen Schutz, falls ein kurzer Schauer niedergeht.",
+                "hu": "Ez az antik amfiteátrum esőben különösen történelmi hangulatú; keress menedéket a közeli fák alatt, ha egy hirtelen zápor zúdulna le a látogatásod alatt.",
+                "ro": "Acest amfiteatru antic pare plin de istorie sub ploaie; căutați adăpost sub copacii din apropiere dacă începe o aversă scurtă în timpul vizitei.",
+                "en": "This ancient amphitheater feels especially historic in the rain; seek shelter under the nearby trees if a short heavy shower comes down during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Nancherow Studio",
+                "hu": "Nancherow Stúdió",
+                "ro": "Studioul Nancherow",
+                "en": "Nancherow Studio"
+              },
+              "tip_5lang": {
+                "de": "Das Studio ist der ideale Ort, um dem Regen zu entkommen; genießen Sie die lokale Kunst in trockener Atmosphäre und nutzen Sie die Zeit für Gespräche.",
+                "hu": "A stúdió ideális hely az eső elöli meneküléshez; élvezd a helyi művészetet száraz környezetben, és használd ki az időt egy kis inspirálódásra.",
+                "ro": "Studioul este locul ideal pentru a scăpa de ploaie; bucurați-vă de arta locală într-o atmosferă uscată și folosiți timpul pentru o scurtă pauză.",
+                "en": "The studio is the ideal place to escape the rain; enjoy local art in a dry atmosphere and use the time to soak in some creative inspiration indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kenidjack Arsenic Works",
+                "hu": "Kenidjack Arzéngyár",
+                "ro": "Fabrica de Arsenic Kenidjack",
+                "en": "Kenidjack Arsenic Works"
+              },
+              "tip_5lang": {
+                "de": "Die industriellen Ruinen wirken bei grauem Himmel dramatisch; meiden Sie das Betreten loser Mauern, da der Regen das Mauerwerk instabil machen kann.",
+                "hu": "Az ipari romok drámai látványt nyújtanak a szürke égbolt alatt; kerülje a laza kőfalakra való felmászást, mert az eső fellazíthatja a régi falazatot.",
+                "ro": "Ruinele industriale par dramatice sub cerul gri; evitați escaladarea zidurilor șubrede, deoarece ploaia poate face zidăria veche instabilă.",
+                "en": "The industrial ruins look dramatic under gray skies; avoid stepping on loose walls as the rain can make the old masonry unstable and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cape Cornwall",
+                "hu": "Cape Cornwall",
+                "ro": "Cape Cornwall",
+                "en": "Cape Cornwall"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die tosende Gischt des Atlantiks; eine windfeste Regenjacke ist hier Pflicht, da der Wind den Regen fast waagerecht peitschen kann.",
+                "hu": "Éld át az Atlanti-óceán zúgó habjait; a szélálló esőkabát itt kötelező, mivel a szél szinte vízszintesen hordhatja az esőcseppeket a fokon.",
+                "ro": "Experimentați valurile înspumate ale Atlanticului; o jachetă de ploaie rezistentă la vânt este obligatorie aici, vântul bătând ploaia aproape orizontal.",
+                "en": "Experience the roaring spray of the Atlantic; a windproof raincoat is mandatory here, as the wind can whip the rain almost horizontally at the cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballowall Barrow",
+                "hu": "Ballowall Barrow",
+                "ro": "Ballowall Barrow",
+                "en": "Ballowall Barrow"
+              },
+              "tip_5lang": {
+                "de": "Das prähistorische Grab bietet bei Regen einen stillen Moment; achten Sie auf die Stufen, da der glatte Stein bei Feuchtigkeit tückisch sein kann.",
+                "hu": "A prehisztorikus sírhely esőben csendes, elmélkedő pillanatot kínál; ügyelj a lépcsőkre, mert a sima kőfelület nedvesen nagyon csalóka lehet.",
+                "ro": "Mormântul preistoric oferă un moment de liniște sub ploaie; atenție la trepte, deoarece piatra netedă poate fi înșelătoare când este umedă.",
+                "en": "This prehistoric burial site offers a quiet, contemplative moment in the rain; watch your step as the smooth stone can be treacherous when damp."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Bosavern ist geprägt von klarer, kalter Luft und kurzen Tagen. Der Morgen beginnt erfrischend auf den Anhöhen, wo der Reif die Landschaft glitzern lässt. Mittags wärmt der Besuch im Studio die Glieder auf. Der Nachmittag muss zügig genutzt werden, da die Sonne bereits gegen 17:00 Uhr hinter dem Horizont verschwindet. Der Abend lädt zu einem gemütlichen Ausklang in St Just ein.",
+            "hu": "A tél Bosavernben tiszta, hideg levegőt és rövid nappalokat hoz. A reggel frissítően indul a dombokon, ahol a dér csillogóvá teszi a tájat. Délben a stúdiólátogatás segít átmelegedni a túra közben. A délutánt aktívan kell kihasználni, mivel a nap már 17:00 körül eltűnik a látóhatárról. Az este St Just hangulatos fényeivel és melegével hívogat a nap végén.",
+            "ro": "Iarna în Bosavern este marcată de aer curat, rece și zile scurte. Dimineața începe revigorant pe înălțimi, unde chiciura face peisajul să strălucească. La prânz, vizita la studio încălzește simțurile. După-amiaza trebuie folosită eficient, deoarece soarele dispare după orizont în jurul orei 17:00. Seara invită la o încheiere caldă și relaxantă în St Just.",
+            "en": "Winter in Bosavern is defined by crisp, cold air and short daylight hours. The morning starts refreshingly on the hills, where frost makes the landscape sparkle. At noon, the studio visit helps warm up during the trek. The afternoon must be spent efficiently as the sun disappears behind the horizon around 17:00. The evening invites a cozy finish in nearby St Just."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carn Bosavern",
+                "hu": "Carn Bosavern",
+                "ro": "Carn Bosavern",
+                "en": "Carn Bosavern"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die frostige Heide; tragen Sie Thermokleidung, da der eiskalte Wind auf dem Gipfel ungehindert wehen kann.",
+                "hu": "Élvezd a kilátást a deres pusztaságra; viselj termoruházatot, mivel a jéghideg szél akadálytalanul fújhat fent a dombtetőn a téli reggelen.",
+                "ro": "Bucurați-vă de priveliștea peste landa înghețată; purtați haine termice, deoarece vântul înghețat bate fără oprire pe vârful dealului iarna.",
+                "en": "Enjoy the wide view over the frosty moorland; wear thermal layers as the freezing wind can blow unimpeded on the summit during winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Plain-an-Gwarry",
+                "hu": "Plain-an-Gwarry",
+                "ro": "Plain-an-Gwarry",
+                "en": "Plain-an-Gwarry"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht betont die Konturen des antiken Platzes; bewegen Sie sich stetig, um bei den kühlen Temperaturen nicht auszukühlen.",
+                "hu": "Az alacsonyan járó napfény gyönyörűen kiemeli az antik tér kontúrjait; mozogj folyamatosan, hogy a hűvös időben ne hűljön ki a tested.",
+                "ro": "Lumina slabă a soarelui subliniază contururile pieței antice; mențineți un ritm constant de mers pentru a nu vă răci la temperaturile scăzute.",
+                "en": "The low winter sunlight emphasizes the contours of this ancient site; keep moving steadily to maintain body heat in the cool temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Nancherow Studio",
+                "hu": "Nancherow Stúdió",
+                "ro": "Studioul Nancherow",
+                "en": "Nancherow Studio"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich zwischen den Wanderetappen aufzuwärmen; die helle Atmosphäre im Inneren ist ein schöner Kontrast zum Wintergrau draußen.",
+                "hu": "Ideális megálló az átmelegedéshez a gyaloglás szakaszai között; a belső tér világos hangulata szép kontrasztot alkot a kinti téli szürkeséggel.",
+                "ro": "O oprire ideală pentru a vă încălzi între etapele de mers; atmosfera luminoasă din interior oferă un contrast plăcut cu griul iernii de afară.",
+                "en": "An ideal stop to warm up between walking segments; the bright indoor atmosphere offers a lovely contrast to the winter grayness outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kenidjack Arsenic Works",
+                "hu": "Kenidjack Arzéngyár",
+                "ro": "Fabrica de Arsenic Kenidjack",
+                "en": "Kenidjack Arsenic Works"
+              },
+              "tip_5lang": {
+                "de": "Das Tal wirkt im Winterlicht besonders einsam und wild; achten Sie auf die Uhrzeit, damit Sie den Rückweg noch vor der frühen Dunkelheit antreten.",
+                "hu": "A völgy a téli fényben különösen magányosnak és vadnak tűnik; ügyelj az időre, hogy a korai sötétedés előtt megkezdhesd a visszautat.",
+                "ro": "Valea pare deosebit de solitară și sălbatică în lumina iernii; supravegheați ceasul pentru a porni pe drumul de întoarcere înainte de lăsarea serii.",
+                "en": "The valley looks particularly lonely and wild in winter light; keep an eye on the time so you can start heading back before the early darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Cape Cornwall",
+                "hu": "Cape Cornwall",
+                "ro": "Cape Cornwall",
+                "en": "Cape Cornwall"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonnenuntergänge sind hier oft spektakulär; bringen Sie eine Taschenlampe mit, falls Sie das letzte Licht bis zum Ende ausreizen möchten.",
+                "hu": "A téli naplementék gyakran látványosak ezen a ponton; hozz magaddal zseblámpát, ha az utolsó fényeket is ki szeretnéd élvezni a parton.",
+                "ro": "Apusurile de iarnă sunt adesea spectaculoase aici; aduceți o lanternă dacă doriți să savurați ultima lumină a zilei până la final.",
+                "en": "Winter sunsets are often spectacular at this point; bring a flashlight if you want to enjoy the last rays of light until the very end."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballowall Barrow",
+                "hu": "Ballowall Barrow",
+                "ro": "Ballowall Barrow",
+                "en": "Ballowall Barrow"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorischen Steine strahlen im Winter eine tiefe Ruhe aus; ziehen Sie eine Mütze und Handschuhe an, da es hier nach Sonnenuntergang schnell abkühlt.",
+                "hu": "A prehisztorikus kövek mély nyugalmat árasztanak télen; vegyél sapkát és kesztyűt, mert naplemente után a levegő gyorsan lehűl ezen a részen.",
+                "ro": "Pietrele preistorice emană o liniște profundă iarna; puneți-vă căciula și mănușile, deoarece se răcește rapid aici după apusul soarelui.",
+                "en": "The prehistoric stones radiate a deep calm in winter; put on a hat and gloves as it cools down rapidly here after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros kalandját a középkori Plain-an-Gwarry-nél, majd fedezze fel a Nancherow Stúdiót. Tekerjen el a Kenidjack Arsenic Works romjai mellett a Cape Cornwall kilátópontjához. Késő délután fedezze fel a St. Helen's Oratory-t és a Porth Nanven-t, mielőtt egy izgalmas leereszkedéssel zárná a napot a Cornwall Underground Adventures-nél.",
         "ro": "Începeți aventura pe bicicletă explorând istoria la Plain-an-Gwarry și apoi arta de la Nancherow Studio. Pedalați pe lângă ruinele Kenidjack Arsenic Works spre punctul de belvedere Cape Cornwall. Petreceți după-amiaza descoperind St. Helen's Oratory și Porth Nanven, înainte de a explora tunelurile de la Cornwall Underground Adventures.",
         "en": "Start your cycling adventure delving into medieval history at Plain-an-Gwarry before exploring the vibrant art at Nancherow Studio. Ride past the coastal ruins of Kenidjack Arsenic Works towards the breathtaking Cape Cornwall viewpoint. Spend your late afternoon discovering St. Helen's Oratory and Porth Nanven, before a final thrilling descent to Cornwall Underground Adventures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine dynamische Sicht auf Cornwall. Der Vormittag führt über glänzende Asphaltstraßen nach St Just. Das Studio bietet mittags eine willkommene Trockenpause. Nachmittags fordern die Küstenwege volle Konzentration bei nasser Fahrbahn. Der Tag schließt mit einem unterirdischen Abenteuer ab, wo das Wetter draußen keine Rolle mehr spielt.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de dinamikus betekintést nyújt Cornwall tájaiba. A délelőtt fényes aszfaltutakon vezet St Just felé. A stúdió délben szívesen látott száraz pihenőt kínál. Délután a parti utak teljes koncentrációt igényelnek a csúszós felület miatt. A nap egy föld alatti kalanddal zárul, ahol a kinti időjárás már egyáltalán nem számít.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă o vedere dinamică asupra Cornwall-ului. Dimineața duce pe șosele de asfalt lucioase spre St Just. Studioul oferă la prânz o pauză uscată binevenită. După-amiaza, drumurile de coastă cer concentrare maximă pe carosabilul umed. Ziua se încheie cu o aventură subterană, unde vremea de afară nu mai contează.",
+            "en": "A bike tour in the rain requires caution but offers a dynamic view of Cornwall's landscape. The morning leads over glistening asphalt roads towards St Just. The studio provides a welcome dry break at noon. In the afternoon, coastal paths demand full concentration due to the wet surface. The day concludes with an underground adventure where the weather outside no longer matters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plain-an-Gwarry",
+                "hu": "Plain-an-Gwarry",
+                "ro": "Plain-an-Gwarry",
+                "en": "Plain-an-Gwarry"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher auf festem Untergrund; der Rasen im Amphitheater kann bei Regen sehr weich und für Reifen rutschig werden.",
+                "hu": "Parkold a kerékpárt biztonságosan szilárd talajon; az amfiteátrum gyepe esőben nagyon felázhat és csúszóssá válhat a kerekek számára.",
+                "ro": "Parcați bicicleta în siguranță pe o suprafață solidă; gazonul din amfiteatru poate deveni foarte moale și alunecos pentru anvelope pe ploaie.",
+                "en": "Park your bike safely on solid ground; the grass in the amphitheater can become very soft and slippery for tires when it rains heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Nancherow Studio",
+                "hu": "Nancherow Stúdió",
+                "ro": "Studioul Nancherow",
+                "en": "Nancherow Studio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um Ihre Regenkleidung zu lüften; das trockene Studio bietet die perfekte Gelegenheit für eine kurze Regenerationspause.",
+                "hu": "Használd ki ezt a megállót az esőruházat átszellőztetésére; a száraz stúdió tökéletes lehetőséget nyújt egy rövid regeneráló pihenőhöz.",
+                "ro": "Folosiți această oprire pentru a vă aerisi hainele de ploaie; studioul uscat oferă ocazia perfectă pentru o scurtă pauză de regenerare.",
+                "en": "Use this stop to air out your rain gear; the dry studio provides the perfect opportunity for a brief restorative break during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kenidjack Arsenic Works",
+                "hu": "Kenidjack Arzéngyár",
+                "ro": "Fabrica de Arsenic Kenidjack",
+                "en": "Kenidjack Arsenic Works"
+              },
+              "tip_5lang": {
+                "de": "Die Wege hier können schlammig sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Az utak itt sárosak lehetnek; hajts lassabban és figyelj a tócsákra, amelyek mély kátyúkat rejthetnek a sötét víz alatt.",
+                "ro": "Drumurile de aici pot fi noroioase; pedalați încet și atenție la bălți, care ar putea ascunde gropi adânci sub suprafața apei.",
+                "en": "The paths here can get muddy; ride slowly and watch out for puddles that might hide deep potholes beneath the water's surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Cape Cornwall",
+                "hu": "Cape Cornwall",
+                "ro": "Cape Cornwall",
+                "en": "Cape Cornwall"
+              },
+              "tip_5lang": {
+                "de": "Starke Böen können das Radfahren hier erschweren; steigen Sie im Zweifelsfall ab und genießen Sie die Aussicht zu Fuß im Schutz Ihrer Kapuze.",
+                "hu": "Az erős széllökések megnehezíthetik a kerékpározást; kétség esetén szállj le és élvezd a kilátást gyalog, a kapucnid védelmében.",
+                "ro": "Rafalele puternice de vânt pot îngreuna mersul pe bicicletă; dacă aveți dubii, coborâți și savurați priveliștea pe jos, sub protecția glugii.",
+                "en": "Strong gusts can make cycling difficult here; if in doubt, dismount and enjoy the view on foot while staying protected by your hood."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Helen's Oratory",
+                "hu": "St. Helen's Oratory",
+                "ro": "St. Helen's Oratory",
+                "en": "St. Helen's Oratory"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten kaum Schutz, wirken aber im Regen sehr andächtig; prüfen Sie Ihre Bremsbeläge nach der Fahrt durch den nassen Sand.",
+                "hu": "A történelmi falak alig nyújtanak védelmet, de esőben nagyon áhitatosak; ellenőrizd a fékbetéteket a nedves homokon való áthaladás után.",
+                "ro": "Zidurile istorice oferă puțin adăpost, dar par foarte solemne sub ploaie; verificați plăcuțele de frână după parcurgerea nisipului umed.",
+                "en": "The historic walls offer little shelter but feel very solemn in the rain; check your brake pads after riding through any wet sand or grit."
+              }
+            },
+            {
+              "name": {
+                "de": "Porth Nanven",
+                "hu": "Porth Nanven",
+                "ro": "Porth Nanven",
+                "en": "Porth Nanven"
+              },
+              "tip_5lang": {
+                "de": "Die 'Eier-Felsen' sind bei Nässe extrem glatt; lassen Sie das Rad oben am Wegrand stehen und gehen Sie vorsichtig zum Strand hinunter.",
+                "hu": "A 'tojássziklák' nedvesen rendkívül csúszósak; hagyd a kerékpárt fent az út szélén, és óvatosan sétálj le a partra a kövek között.",
+                "ro": "Pietrele rotunde sunt extrem de alunecoase când sunt ude; lăsați bicicleta sus, la marginea drumului, și coborâți cu grijă spre plajă.",
+                "en": "The 'egg rocks' are extremely slippery when wet; leave your bike at the top of the path and walk down to the beach very carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Cornwall Underground Adventures",
+                "hu": "Cornwall Underground Adventures",
+                "ro": "Aventuri Subterane Cornwall",
+                "en": "Cornwall Underground Adventures"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Ziel für Regentage; unter Tage bleiben Sie trocken, während Sie die Bergbaugeschichte hautnah und abenteuerlich erleben.",
+                "hu": "A végső célpont esős napokra; a föld alatt szárazon maradsz, miközben testközelből és kalandosan ismered meg a bányászat múltját.",
+                "ro": "Destinația supremă pentru zilele ploioase; în subteran rămâneți uscat în timp ce experimentați istoria mineritului într-un mod aventuros.",
+                "en": "The ultimate destination for rainy days; underground you stay dry while experiencing mining history up close and adventurously."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im kornischen Winter bietet weite Ausblicke bei niedriger Sonne. Der Morgen beginnt kühl in St Just, wo die Finger an den Bremsen gefordert sind. Mittags bringt das Studio Wärme und Inspiration. Die Nachmittagsroute zum Cape muss vor Sonnenuntergang um 17:00 Uhr abgeschlossen sein. Der Tag endet mit einem spannenden Höhlenbesuch, der auch im Winter ein konstantes Klima bietet.",
+            "hu": "A kerékpározás a korni télben tágas kilátást nyújt az alacsony napállás mellett. A reggel hűvösen indul St Justben, ahol a fékek kezelése komoly figyelmet igényel. Délben a stúdió melegséget és inspirációt hoz. A Cape felé vezető délutáni utat be kell fejezni a 17:00 órai naplemente előtt. A nap egy izgalmas barlanglátogatással zárul, amely télen is állandó klímát biztosít.",
+            "ro": "Mersul pe bicicletă în iarna cornișă oferă priveliști largi sub soarele jos. Dimineața începe răcoros în St Just, unde degetele pe frâne sunt puse la încercare. La prânz, studioul aduce căldură și inspirație. Traseul de după-amiază spre Cape trebuie încheiat înainte de apusul de la ora 17:00. Ziua se termină cu o vizită palpitantă în peșteră, care oferă un climat constant chiar și iarna.",
+            "en": "Cycling in the Cornish winter offers wide vistas under the low sun. The morning starts cool in St Just, where cold fingers on the brakes are a challenge. At noon, the studio brings warmth and inspiration. The afternoon route to the Cape must be completed before the 17:00 sunset. The day ends with an exciting cave visit, which maintains a constant climate even in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plain-an-Gwarry",
+                "hu": "Plain-an-Gwarry",
+                "ro": "Plain-an-Gwarry",
+                "en": "Plain-an-Gwarry"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Handschuhe mit gutem Grip für die Fahrt; der historische Platz ist im klaren Winterlicht ein fantastisches Fotomotiv ohne Touristenmassen.",
+                "hu": "Használj jó tapadású kesztyűt a tekeréshez; a történelmi tér a tiszta téli fényben fantasztikus fotótéma a turisták tömegei nélkül.",
+                "ro": "Folosiți mănuși cu aderență bună pentru drum; piața istorică este un motiv fotografic fantastic în lumina clară a iernii, fără mulțimi de turiști.",
+                "en": "Use gloves with good grip for the ride; the historic square is a fantastic photo subject in the clear winter light without the tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Nancherow Studio",
+                "hu": "Nancherow Stúdió",
+                "ro": "Studioul Nancherow",
+                "en": "Nancherow Studio"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um steife Glieder aufzuwärmen; nehmen Sie sich Zeit, die Kunstwerke zu betrachten, bevor Sie die nächste kühle Etappe antreten.",
+                "hu": "Tökéletes hely a megmerevedett végtagok átmelegítésére; szánj időt a műalkotások megtekintésére, mielőtt nekivágnál a következő hűvös szakasznak.",
+                "ro": "Locul perfect pentru a vă încălzi membrele amorțite; acordați-vă timp pentru a admira operele de artă înainte de a porni în următoarea etapă răcoroasă.",
+                "en": "The perfect place to warm up stiff limbs; take your time viewing the artworks before heading out on the next cool segment of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kenidjack Arsenic Works",
+                "hu": "Kenidjack Arzéngyár",
+                "ro": "Fabrica de Arsenic Kenidjack",
+                "en": "Kenidjack Arsenic Works"
+              },
+              "tip_5lang": {
+                "de": "Der Weg durch das Tal kann im Schatten sehr kalt sein; tragen Sie eine Windweste, um den Fahrtwind bei den Abfahrten abzublocken.",
+                "hu": "A völgyön átvezető út az árnyékban nagyon hideg lehet; viselj szélálló mellényt, hogy blokkold a menetszelet a lejtőkön való haladáskor.",
+                "ro": "Drumul prin vale poate fi foarte rece la umbră; purtați o vestă anti-vânt pentru a bloca curentul de aer în timpul coborârilor.",
+                "en": "The path through the valley can be very cold in the shade; wear a windproof vest to block the chill during the downhill sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Cape Cornwall",
+                "hu": "Cape Cornwall",
+                "ro": "Cape Cornwall",
+                "en": "Cape Cornwall"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter golden und tief; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg voll funktionsfähig ist.",
+                "hu": "A délutáni fény télen aranyló és mélyen súrolja a tájat; győződj meg róla, hogy a kerékpáros világításod tökéletesen működik a visszautashoz.",
+                "ro": "Lumina de după-amiază este aurie și joasă iarna; asigurați-vă că luminile bicicletei sunt complet funcționale pentru drumul de întoarcere.",
+                "en": "The afternoon light is golden and low in winter; make sure your bike lights are fully functional for the ride back after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Helen's Oratory",
+                "hu": "St. Helen's Oratory",
+                "ro": "St. Helen's Oratory",
+                "en": "St. Helen's Oratory"
+              },
+              "tip_5lang": {
+                "de": "Die Einsamkeit dieses Ortes wird im Winter noch verstärkt; achten Sie auf mögliche Glätte auf den weniger befahrenen Nebenwegen zum Oratorium.",
+                "hu": "Ennek a helynek a magányát a tél csak tovább fokozza; figyelj az esetleges jegesedésre az oratóriumhoz vezető, kevésbé járt mellékutakon.",
+                "ro": "Singurătatea acestui loc este sporită iarna; atenție la eventualul polei pe drumurile secundare mai puțin circulate spre oratoriu.",
+                "en": "The solitude of this place is enhanced in winter; watch out for potential icy patches on the less-traveled side paths leading to the oratory."
+              }
+            },
+            {
+              "name": {
+                "de": "Porth Nanven",
+                "hu": "Porth Nanven",
+                "ro": "Porth Nanven",
+                "en": "Porth Nanven"
+              },
+              "tip_5lang": {
+                "de": "Die Winterbrandung kann hier sehr gewaltig sein; halten Sie einen sicheren Abstand zum Wasser, da unerwartete Wellen den Strand überspülen können.",
+                "hu": "A téli hullámverés itt nagyon erőteljes lehet; tarts biztonságos távolságot a víztől, mert váratlan hullámok önthetik el a partot.",
+                "ro": "Valurile de iarnă pot fi foarte puternice aici; păstrați o distanță de siguranță față de apă, deoarece valuri neașteptate pot mătura plaja.",
+                "en": "The winter surf can be very powerful here; keep a safe distance from the water, as unexpected rogue waves can sweep across the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Cornwall Underground Adventures",
+                "hu": "Cornwall Underground Adventures",
+                "ro": "Aventuri Subterane Cornwall",
+                "en": "Cornwall Underground Adventures"
+              },
+              "tip_5lang": {
+                "de": "Unter Tage ist die Temperatur im Winter oft angenehmer als draußen; ein perfekter, abenteuerlicher Abschluss, bevor es im Dunkeln zurückgeht.",
+                "hu": "A föld alatt a hőmérséklet télen gyakran kellemesebb, mint kint; tökéletes, kalandos zárás, mielőtt a sötétben elindulnál visszafelé.",
+                "ro": "În subteran, temperatura este adesea mai plăcută iarna decât afară; un final perfect și aventuros înainte de a pleca înapoi pe întuneric.",
+                "en": "Underground temperatures are often milder in winter than outside; it's a perfect adventurous finish before heading back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Autós kirándulása a cornwalli bányászmúlt mélyén indul az Adit és a Mine Shaft felfedezésével. Délben pihenjen meg Progónál, és sétáljon a Porth Nanven egyedi partján. A délután drámai örökségi helyszíneket tartogat a Ballowall Barrow-tól egészen a Cape Cornwallig. Az estét magasba törő ipari kémények és ősi aknák között zárja.",
         "ro": "Începeți călătoria cu mașina în trecutul minier la Adit și Mine Shaft. La prânz, relaxați-vă la Progo și plimbați-vă pe țărmul cu pietricele de la Porth Nanven. După-amiaza promite situri dramatice, de la Ballowall Barrow până la maiestuosul Cape Cornwall. Veți încheia seara explorând coșurile industriale impunătoare și puțurile de mină.",
         "en": "Kick off your road trip deep in Cornwall's mining past at the historic Adit and nearby Mine Shaft. By midday, take a relaxing pause at Progo and stroll along the unique pebble shores of Porth Nanven. The afternoon promises dramatic heritage sites from Ballowall Barrow up to the majestic Cape Cornwall. You will end the evening tracing towering industrial chimneys and ancient shafts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich das Bergbauerbe Cornwalls auch bei Regen komfortabel erkunden. Der Vormittag führt zu den Minenschächten, wobei das Fahrzeug als trockener Rückzugsort dient. Mittags bieten die Küstenorte Parkmöglichkeiten nah an den Sehenswürdigkeiten. Nachmittags genießt man den Blick auf das stürmische Cape aus der Wärme des Wagens. Der Tag endet sicher auf den beleuchteten Straßen von St Just.",
+            "hu": "Autóval Cornwall bányászati öröksége esőben is kényelmesen felfedezhető. A délelőtt a bányákhoz vezet, ahol a jármű száraz menedékként szolgál. Délben a parti települések parkolói közel vannak a látnivalókhoz. Délután a viharos Cape Cornwall látványa az autó melegéből is élvezhető. A nap biztonságban ér véget St Just kivilágított utcáin.",
+            "ro": "Cu mașina, moștenirea minieră a Cornwall-ului poate fi explorată confortabil chiar și pe ploaie. Dimineața duce la puțurile minelor, vehiculul servind ca refugiu uscat. La prânz, parcările din satele de coastă sunt aproape de obiective. După-amiaza, admirați Cape Cornwall furtunos din căldura mașinii. Ziua se încheie în siguranță pe străzile iluminate din St Just.",
+            "en": "By car, Cornwall's mining heritage can be explored comfortably even in the rain. The morning leads to the mine shafts, with the vehicle serving as a dry sanctuary. At noon, coastal parking spots are close to the sights. In the afternoon, enjoy the view of stormy Cape Cornwall from the warmth of your car. The day ends safely on the lit streets of St Just."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Adit",
+                "hu": "Adit",
+                "ro": "Adit",
+                "en": "Adit"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang kann durch Pfützen erschwert sein; parken Sie etwas abseits auf befestigtem Grund und nutzen Sie einen stabilen Regenschirm für den kurzen Weg.",
+                "hu": "A bejáratot tócsák nehezíthetik meg; parkolj kicsit távolabb, szilárd talajon, és használj stabil esernyőt a rövid gyalogúthoz.",
+                "ro": "Accesul poate fi îngreunat de bălți; parcați puțin mai departe pe teren consolidat și folosiți o umbrelă rezistentă pentru drumul scurt.",
+                "en": "Access might be hindered by puddles; park a bit further away on solid ground and use a sturdy umbrella for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Shaft",
+                "hu": "Mine Shaft",
+                "ro": "Mine Shaft",
+                "en": "Mine Shaft"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Tiefe bei Regen mit Vorsicht; die Ränder des Schachtes können rutschig sein, bleiben Sie hinter den Absperrungen.",
+                "hu": "Az esőben óvatosan vizsgáld meg a lenyűgöző mélységet; a bányaakna szélei csúszósak lehetnek, maradj mindig a korlátok és jelzések mögött.",
+                "ro": "Priviți adâncimea impresionantă cu prudență pe ploaie; marginile puțului pot fi alunecoase, rămâneți întotdeauna în spatele barierelor de protecție.",
+                "en": "Observe the impressive depth with caution in the rain; the shaft edges can be slippery, so always stay strictly behind the safety barriers."
+              }
+            },
+            {
+              "name": {
+                "de": "Progo",
+                "hu": "Progo",
+                "ro": "Progo",
+                "en": "Progo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; der Regen verleiht der Küste eine raue Ästhetik, die man am besten kurzzeitig im Freien genießt.",
+                "hu": "Egy rövid megálló egy fotóra; az eső nyers esztétikát kölcsönöz a partnak, amelyet a legjobb rövid ideig, a szabadban átélni.",
+                "ro": "O scurtă oprire pentru o fotografie; ploaia conferă coastei o estetică brută, care se savurează cel mai bine pentru scurt timp în aer liber.",
+                "en": "A brief stop for a photo; the rain adds a raw aesthetic to the coast, which is best enjoyed briefly outdoors before returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Porth Nanven",
+                "hu": "Porth Nanven",
+                "ro": "Porth Nanven",
+                "en": "Porth Nanven"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt erfordert bei Regen und schlechter Sicht besondere Aufmerksamkeit; nutzen Sie die Parkbucht oberhalb für einen schnellen Blick.",
+                "hu": "A szűk bekötőút esőben és rossz látási viszonyok között fokozott figyelmet igényel; használd a fenti parkolót egy gyors kitekintéshez.",
+                "ro": "Drumul îngust de acces necesită atenție sporită pe ploaie și vizibilitate redusă; folosiți spațiul de parcare de sus pentru o vedere rapidă.",
+                "en": "The narrow access road requires extra attention in rain and poor visibility; use the parking bay above for a quick look at the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballowall Barrow",
+                "hu": "Ballowall Barrow",
+                "ro": "Ballowall Barrow",
+                "en": "Ballowall Barrow"
+              },
+              "tip_5lang": {
+                "de": "Ein faszinierender Ort, auch im Regen; parken Sie direkt am Straßenrand und halten Sie den Besuch kurz, um nicht völlig durchnässt zu werden.",
+                "hu": "Lenyűgöző hely esőben is; parkolj közvetlenül az út szélén, és tartsd rövidre a látogatást, hogy ne ázz el teljesen a nyílt terepen.",
+                "ro": "Un loc fascinant chiar și pe ploaie; parcați chiar pe marginea drumului și păstrați vizita scurtă pentru a nu vă uda complet în câmp deschis.",
+                "en": "A fascinating site even in the rain; park right by the roadside and keep your visit brief to avoid getting completely soaked in the open."
+              }
+            },
+            {
+              "name": {
+                "de": "Cape Cornwall",
+                "hu": "Cape Cornwall",
+                "ro": "Cape Cornwall",
+                "en": "Cape Cornwall"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man einen tollen Blick auf die Brandung; bleiben Sie bei starkem Regen im Auto und beobachten Sie das Naturschauspiel.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a hullámverésre; heves esőben maradj az autóban, és onnan figyeld a természet látványos játékát.",
+                "ro": "Din parcare aveți o vedere excelentă asupra valurilor; în caz de ploaie torențială, rămâneți în mașină și observați spectacolul naturii.",
+                "en": "The parking lot offers a great view of the surf; during heavy rain, stay in the car and watch the spectacular natural display from comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Chimney",
+                "hu": "Chimney",
+                "ro": "Chimney",
+                "en": "Chimney"
+              },
+              "tip_5lang": {
+                "de": "Dieser markante Schornstein ist ein tolles Motiv gegen den grauen Himmel; ein schneller Stopp direkt an der Straße ist hier problemlos möglich.",
+                "hu": "Ez a jellegzetes kémény remek téma a szürke égbolt előtt; egy gyors megállás közvetlenül az út mentén itt zökkenőmentesen megoldható.",
+                "ro": "Acest coș de fum distinctiv este un motiv excelent pe fundalul cerului gri; o oprire rapidă chiar lângă drum este ușor de realizat aici.",
+                "en": "This distinctive chimney is a great subject against the gray sky; a quick stop right by the road is easily possible here for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "St Just Amalgamated Mine Shaft",
+                "hu": "St Just Amalgamated Mine Shaft",
+                "ro": "St Just Amalgamated Mine Shaft",
+                "en": "St Just Amalgamated Mine Shaft"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Geschichte Cornwalls hautnah; nutzen Sie die kurzen Regenpausen für einen Rundgang um die Ruinen auf dem unbefestigten Gelände.",
+                "hu": "Cornwall ipari történelme testközelből; használd ki a rövid esőszüneteket a romok körüli sétára a nem aszfaltozott területen.",
+                "ro": "Istoria industrială a Cornwall-ului de aproape; folosiți scurte pauze de ploaie pentru o plimbare în jurul ruinelor pe terenul neasfaltat.",
+                "en": "Cornwall's industrial history up close; take advantage of short rain breaks for a walk around the ruins on the unpaved grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten in Cornwall offenbaren die weite, einsame Landschaft im tiefen Licht. Der Vormittag führt zu den Minenruinen, während die Heizung für Komfort sorgt. Mittags ist das Parken in St Just stressfrei möglich. Der Nachmittag bietet am Cape Cornwall spektakuläre Winterfarben, bevor die Dunkelheit gegen 17:00 Uhr einsetzt. Der Tag endet entspannt mit einer Fahrt zurück durch die kornische Nacht.",
+            "hu": "A téli autózás Cornwallban feltárja a tágas, magányos tájat az alacsony fényeknél. A délelőtt a bányaromokhoz vezet, miközben az autó fűtése biztosítja a kényelmet. Délben a parkolás St Justben stresszmentesen megoldható. A délután látványos téli színeket kínál a Cape Cornwallnál, mielőtt 17:00 körül besötétedik. A nap pihentető autózással zárul a korni éjszakában.",
+            "ro": "Călătoriile cu mașina iarna în Cornwall dezvăluie peisajul vast și solitar în lumina joasă. Dimineața duce la ruinele minelor, în timp ce căldura din mașină asigură confortul. La prânz, parcarea în St Just este lipsită de stres. După-amiaza oferă culori spectaculoase de iarnă la Cape Cornwall înainte de lăsarea întunericului la 17:00. Ziua se încheie relaxat cu un drum prin noaptea cornișă.",
+            "en": "Winter drives in Cornwall reveal the vast, lonely landscape in low light. The morning leads to the mine ruins while the car's heater ensures comfort. At noon, parking in St Just is stress-free. The afternoon offers spectacular winter colors at Cape Cornwall before darkness sets in around 17:00. The day ends with a relaxed drive back through the Cornish night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Adit",
+                "hu": "Adit",
+                "ro": "Adit",
+                "en": "Adit"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung kann im Winter frostig und glatt sein; tragen Sie Schuhe mit gutem Profil für den kurzen Weg vom Auto zum Eingang des Stollens.",
+                "hu": "A környék télen deres és csúszós lehet; viselj jó profilú cipőt az autótól a tárna bejáratáig tartó rövid gyalogúton.",
+                "ro": "Împrejurimile pot fi înghețate și alunecoase iarna; purtați pantofi cu talpă aderentă pentru drumul scurt de la mașină la intrarea în galerie.",
+                "en": "The surroundings can be frosty and slick in winter; wear shoes with good tread for the short walk from the car to the adit entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Shaft",
+                "hu": "Mine Shaft",
+                "ro": "Mine Shaft",
+                "en": "Mine Shaft"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht erlaubt tiefe Einblicke in den Schacht; achten Sie auf eisige Stellen an den Aussichtspunkten nahe der Parkmöglichkeit.",
+                "hu": "A tiszta téli fény mély betekintést enged az aknába; figyelj a jeges foltokra a parkolóhoz közeli kilátópontokon.",
+                "ro": "Lumina clară a iernii permite o vedere adâncă în puț; atenție la porțiunile înghețate de la punctele de observație din apropierea parcării.",
+                "en": "The clear winter light allows deep views into the shaft; watch out for icy spots at the viewpoints near the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Progo",
+                "hu": "Progo",
+                "ro": "Progo",
+                "en": "Progo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Wagen; die tiefstehende Sonne erzeugt dramatische Schatten an der winterlichen Felsküste.",
+                "hu": "Élvezd a kilátást közvetlenül az autóból; az alacsonyan járó nap drámai árnyékokat vet a téli sziklás partvidéken.",
+                "ro": "Bucurați-vă de priveliște direct din mașină; soarele jos creează umbre dramatice pe coasta stâncoasă de iarnă.",
+                "en": "Enjoy the view directly from your vehicle; the low sun creates dramatic shadows on the winter rocky coastline at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Porth Nanven",
+                "hu": "Porth Nanven",
+                "ro": "Porth Nanven",
+                "en": "Porth Nanven"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Winterspaziergang am Strand; prüfen Sie vor der Abfahrt ins Tal die Bodenbeschaffenheit auf Reif oder Eis.",
+                "hu": "Szép hely egy rövid téli sétára a parton; a völgybe való lehajtás előtt ellenőrizd az útburkolatot a dér vagy jég miatt.",
+                "ro": "Un loc frumos pentru o scurtă plimbare de iarnă pe plajă; verificați starea drumului pentru chiciură sau gheață înainte de a coborî în vale.",
+                "en": "A beautiful spot for a short winter walk on the beach; check the road surface for frost or ice before driving down into the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballowall Barrow",
+                "hu": "Ballowall Barrow",
+                "ro": "Ballowall Barrow",
+                "en": "Ballowall Barrow"
+              },
+              "tip_5lang": {
+                "de": "Die antike Stätte wirkt in der Wintereinsamkeit besonders kraftvoll; halten Sie die Autotüren bei Windböen gut fest, wenn Sie aussteigen.",
+                "hu": "Az antik lelőhely a téli magányban különösen erőt sugároz; a széllökések idején fogd meg erősen az autó ajtaját kiszálláskor.",
+                "ro": "Situl antic pare deosebit de puternic în singurătatea iernii; țineți bine portiera mașinii la rafalele de vânt când coborâți.",
+                "en": "The ancient site feels especially powerful in the winter solitude; hold the car door firmly when getting out during strong wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Cape Cornwall",
+                "hu": "Cape Cornwall",
+                "ro": "Cape Cornwall",
+                "en": "Cape Cornwall"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft leerer; nutzen Sie die Chance für ein Foto ohne andere Fahrzeuge im Bild vor der Kulisse des Kaps.",
+                "hu": "A parkoló télen gyakran üresebb; használd ki az alkalmat egy olyan fotóra, ahol más járművek nem zavarják a fok látványát.",
+                "ro": "Parcarea este adesea mai goală iarna; profitați de ocazie pentru o fotografie fără alte vehicule în cadru, cu capul în fundal.",
+                "en": "The parking lot is often emptier in winter; take the chance for a photo without other vehicles in the frame against the cape's backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Chimney",
+                "hu": "Chimney",
+                "ro": "Chimney",
+                "en": "Chimney"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter Orientierungspunkt in der kargen Winterlandschaft; parken Sie kurz für einen schnellen Blick auf die Ingenieurskunst vergangener Tage.",
+                "hu": "Jellegzetes tájékozódási pont a kopár téli tájban; parkolj le rövid időre, hogy megcsodáld az elmúlt idők mérnöki teljesítményét.",
+                "ro": "Un punct de reper distinctiv în peisajul arid de iarnă; parcați scurt pentru o privire rapidă asupra ingineriei din vremurile apuse.",
+                "en": "A prominent landmark in the barren winter landscape; park briefly for a quick look at the engineering prowess of bygone days."
+              }
+            },
+            {
+              "name": {
+                "de": "St Just Amalgamated Mine Shaft",
+                "hu": "St Just Amalgamated Mine Shaft",
+                "ro": "St Just Amalgamated Mine Shaft",
+                "en": "St Just Amalgamated Mine Shaft"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch, bevor die Dämmerung einsetzt; das unebene Gelände kann im Halbdunkel und bei Kälte gefährlich sein.",
+                "hu": "Fejezd be a látogatást a szürkület beállta előtt; az egyenetlen terep a félhomályban és a hidegben veszélyes lehet a gyalogosok számára.",
+                "ro": "Încheiați vizita înainte de lăsarea serii; terenul accidentat poate fi periculos în semiobscuritate și la temperaturi scăzute.",
+                "en": "Finish your visit before twilight sets in; the uneven ground can be hazardous in the dim light and cold temperatures during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

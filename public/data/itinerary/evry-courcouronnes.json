@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a főpályaudvaron, majd haladjon tovább a modern Feltámadás katedrálisához.\nDélben sétáljon át a nyüzsgő egyetemi campuson, hogy elérje a tágas Parc de Coquibus-t.\nDélután vegye az irányt az Évry-i Nagy Mecset felé, és csodálja meg annak fenséges építészetét.\nAz estét az Arènes de l'Agora kulturális atmoszférájának élvezetével zárja.",
         "ro": "Începeți dimineața la gara principală, trecând rapid spre moderna Catedrală a Învierii.\nLa prânz, plimbați-vă prin campusul universitar vibrant pentru a ajunge în vastul Parc de Coquibus.\nDupă-amiaza, îndreptați-vă spre Marea Moschee din Évry pentru a-i admira arhitectura magnifică.\nÎncheiați-vă turul pietonal seara la Arènes de l'Agora, bucurându-vă de vibrația sa culturală.",
         "en": "Start your morning at the main station, quickly moving to the modern Cathedral of the Resurrection.\nBy midday, stroll through the vibrant university campus to reach the expansive Parc de Coquibus.\nIn the afternoon, head towards the Grand Mosque of Évry to admire its magnificent architecture.\nConclude your walking tour in the evening at the Arènes de l'Agora, soaking in the cultural vibe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Évry beginnt unter grauen Wolken am Bahnhof, wo die moderne Architektur im Regen glänzt. Mittags suchen wir Schutz in der beeindruckenden Kathedrale, deren runden Formen Geborgenheit bieten. Am Nachmittag führt der Weg durch die feuchten Gassen zur Universität. Den Abend verbringen wir im trockenen Agora-Zentrum, wo Kultur und Urbanität trotz des Wetters pulsieren.",
+            "hu": "A reggel szürkén indul a vasútállomásnál, ahol a modern épületek visszatükröződnek a pocsolyákban. Délben a katedrális különleges, kör alakú tere nyújt menedéket az eső elől. Délután az egyetem környékén sétálunk, figyelve a csúszós járdákra a park felé. Az estét az Agora fedett tereiben zárjuk, ahol a városi nyüzsgés a záporok ellenére is élénk marad, száraz és kényelmes környezetben.",
+            "ro": "Dimineața începe sub nori cenușii la gară, unde arhitectura modernă lucește în ploaie. La prânz, căutăm adăpost în catedrala impresionantă, ale cărei forme rotunde oferă protecție. După-amiaza, drumul ne poartă prin străzile umede spre universitate. Seara ne găsește în centrul Agora, unde cultura și urbanismul pulsează în ciuda vremii, într-un mediu uscat și primitor.",
+            "en": "The morning starts under grey clouds at the station, where modern architecture reflects in the puddles. At noon, the unique circular cathedral provides a perfect sanctuary from the rain. In the afternoon, we walk towards the university, careful of slippery paths near the park. We end the day inside the covered Agora complex, staying dry while enjoying the city's vibrant cultural heart."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Évry-Courcouronnes",
+                "hu": "Évry-Courcouronnes vasútállomás",
+                "ro": "Gara Évry-Courcouronnes",
+                "en": "Gare d'Évry-Courcouronnes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bahnsteige für den Check-in und halten Sie Ihren Regenschirm bereit, da der Wind zwischen den modernen Gebäuden oft kräftig weht.",
+                "hu": "Használja ki a peronok fedett részeit az érkezéskor, és tartsa készenlétben az esernyőjét, mert a modern épületek között a szél gyakran felerősíti a záporokat.",
+                "ro": "Profitați de zonele acoperite ale peroanelor la sosire și pregătiți umbrela, deoarece vântul dintre clădirile moderne intensifică adesea aversele de ploaie.",
+                "en": "Make use of the covered platforms upon arrival and keep your umbrella ready, as the wind between modern buildings can often whip up the rain unexpectedly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Évry",
+                "hu": "Évry Városháza",
+                "ro": "Primăria din Évry",
+                "en": "Hôtel de Ville d'Évry"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Backsteinarchitektur von den Arkaden aus, die trockenen Fußes einen tollen Blick auf den zentralen Platz und das moderne Stadtzentrum bieten.",
+                "hu": "Csodálja meg a téglaépítészetet az árkádok alól, amelyek szárazon biztosítanak remek rálátást a központi térre és a modern városközpont építészeti megoldásaira.",
+                "ro": "Admirați arhitectura din cărămidă de sub arcade, care vă permit să vedeți piața centrală fără să vă udați, oferind o perspectivă unică asupra centrului modern.",
+                "en": "Admire the brick architecture from under the arcades, which allow you to view the central square and modern city layout while staying perfectly dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Auferstehungskathedrale",
+                "hu": "Feltámadás katedrális",
+                "ro": "Catedrala Învierii",
+                "en": "Cathedral of the Resurrection"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um dem Regen zu entfliehen; das Licht, das durch das Glasdach fällt, wirkt bei bewölktem Himmel besonders mystisch und beruhigend.",
+                "hu": "Ez az ideális hely az eső elől való menekülésre; az üvegtetőn átszűrődő fény borús időben különösen misztikus és nyugodt hangulatot áraszt a belső térben.",
+                "ro": "Acesta este locul ideal pentru a scăpa de ploaie; lumina care se filtrează prin acoperișul de sticlă creează o atmosferă mistică și liniștitoare pe timp înnorat.",
+                "en": "This is the perfect refuge from the rain; the light filtering through the glass roof creates a mystical and calm atmosphere inside during overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Universität von Évry",
+                "hu": "Évry-i Egyetem",
+                "ro": "Universitatea din Évry",
+                "en": "University of Évry"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Verbindungsgänge zwischen den Fakultäten, um trocken zu bleiben, und beobachten Sie das studentische Treiben in den verglasten Gemeinschaftsbereichen.",
+                "hu": "Használja a karok közötti összekötő folyosókat, hogy száraz maradjon, és figyelje az egyetemi életet az üvegezett közösségi terek védelméből a szakadó esőben.",
+                "ro": "Folosiți culoarele de legătură dintre facultăți pentru a rămâne uscați și observați viața studențească din spațiile comune vitrate, feriți de ploaia de afară.",
+                "en": "Use the connecting walkways between faculties to stay dry, and observe the vibrant student life from the safety of the glazed communal areas during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Coquibus",
+                "hu": "Parc de Coquibus",
+                "ro": "Parc de Coquibus",
+                "en": "Parc de Coquibus"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind bei Regen sicher begehbar; genießen Sie das intensive Grün der nassen Vegetation, aber meiden Sie die unbefestigten Rasenflächen.",
+                "hu": "Az aszfaltozott utak esőben is biztonságosak; élvezze a nedves növényzet intenzív zöld színét, de kerülje a felázott, sáros gyepes területeket a séta során.",
+                "ro": "Potecile asfaltate sunt sigure chiar și pe ploaie; bucurați-vă de verdele intens al vegetației ude, dar evitați zonele cu iarbă care pot deveni noroioase.",
+                "en": "The paved paths remain safe in the rain; enjoy the intense green of the wet vegetation, but avoid the unpaved grassy areas which can become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Évry",
+                "hu": "Évry-i Nagy Mecset",
+                "ro": "Marea Moschee din Évry",
+                "en": "Grand Mosque of Évry"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Rückzugsort im Trockenen; achten Sie im Eingangsbereich auf rutschfeste Matten, wenn Sie Ihre nassen Schuhe vor dem Betreten der Gebetsräume ausziehen.",
+                "hu": "Pompás menedék a szárazban; a bejáratnál figyeljen a csúszásgátló szőnyegekre, amikor leveszi vizes cipőit, mielőtt belépne a lenyűgöző imaterekbe.",
+                "ro": "Un refugiu magnific la adăpost; atenție la covorașele antiderapante de la intrare când vă descălțați de pantofii uzi înainte de a intra în spațiile de rugăciune.",
+                "en": "A magnificent indoor refuge; watch out for non-slip mats at the entrance when removing your wet shoes before entering the stunning prayer halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Arènes de l'Agora",
+                "hu": "Arènes de l'Agora",
+                "ro": "Arènes de l'Agora",
+                "en": "Arènes de l'Agora"
+              },
+              "tip_5lang": {
+                "de": "Das angeschlossene Einkaufszentrum und die Arena sind komplett wetterfest; ideal, um den Tag gemütlich ausklingen zu lassen, ohne sich um den Regen sorgen zu müssen.",
+                "hu": "A kapcsolódó bevásárlóközpont és az aréna teljesen időjárásálló; ideális helyszín a nap lezárására, ahol az eső kopogása csak távoli zaj marad a fedél alatt.",
+                "ro": "Centrul comercial și arena sunt complet protejate de intemperii; este locul ideal pentru a încheia ziua fără să vă faceți griji cu privire la ploaia de afară.",
+                "en": "The connected mall and arena are completely weatherproof; it's the ideal spot to end your day comfortably while the rain beats down harmlessly outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Évry ist frisch, doch der Bahnhof bietet warme Wartehallen. Mittags wärmt die spirituelle Stille der Kathedrale Körper und Geist. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht für einen kurzen Spaziergang am Campus. Den Abend verbringen wir in den beheizten Hallen der Agora, wo die Lichter der Stadt in der frühen Dunkelheit festlich glänzen.",
+            "hu": "A téli reggel frissítően hideg az állomásnál, de a belső terek hamar felmelegítik. Délben a katedrális csendje és békéje nyújt lelki és fizikai menedéket a fagy elől. Mivel a nap korán, 17:00 körül nyugszik, a világos órákat az egyetemnél töltjük. Az estét az Agora fűtött soraiban zárjuk, élvezve a város fényeit, amelyek a korai sötétségben különösen hangulatosak.",
+            "ro": "Dimineața de iarnă este rece la gară, dar spațiile interioare oferă căldura necesară. La prânz, liniștea catedralei încălzește trupul și spiritul. Deoarece soarele apune devreme, în jur de ora 17:00, profităm de lumină pentru o scurtă plimbare la campus. Seara ne retragem în spațiile încălzite de la Agora, admirând luminile orașului care strălucesc în întunericul timpuriu.",
+            "en": "The winter morning is crisp at the station, but indoor waiting areas provide quick warmth. At noon, the cathedral's serene interior offers a peaceful and warm retreat from the frost. Since the sun sets early around 5 PM, we make the most of the daylight at the university campus. We finish the evening in the heated Agora complex, watching the city lights twinkle in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Évry-Courcouronnes",
+                "hu": "Évry-Courcouronnes vasútállomás",
+                "ro": "Gara Évry-Courcouronnes",
+                "en": "Gare d'Évry-Courcouronnes"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für den windigen Vorplatz, aber nutzen Sie die beheizten Innenbereiche des Bahnhofs, um sich vor dem Start der Tour kurz aufzuwärmen.",
+                "hu": "Öltözzön rétegesen a szeles állomástérhez, de használja ki az állomás fűtött belső részeit egy gyors bemelegedésre, mielőtt elkezdené a városi sétát.",
+                "ro": "Îmbrăcați-vă gros pentru zona vântoasă a gării, dar folosiți spațiile interioare încălzite pentru a vă încălzi înainte de a începe turul orașului.",
+                "en": "Dress in warm layers for the windy station forecourt, but take advantage of the heated indoor areas to warm up before starting your winter city walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Évry",
+                "hu": "Évry Városháza",
+                "ro": "Primăria din Évry",
+                "en": "Hôtel de Ville d'Évry"
+              },
+              "tip_5lang": {
+                "de": "Der rote Backstein wirkt im fahlen Winterlicht besonders warm; machen Sie ein Foto vom Platz, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "A vörös téglák a halvány téli fényben különösen melegnek tűnnek; készítsen fotót a térről, mielőtt a kora délutáni árnyékok túl hosszúra nyúlnának.",
+                "ro": "Cărămida roșie pare deosebit de caldă în lumina palidă a iernii; faceți o fotografie pieței înainte ca umbrele de după-amiază să devină prea lungi.",
+                "en": "The red bricks look especially warm in the pale winter light; snap a photo of the square before the early afternoon shadows start to lengthen significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Auferstehungskathedrale",
+                "hu": "Feltámadás katedrális",
+                "ro": "Catedrala Învierii",
+                "en": "Cathedral of the Resurrection"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; nutzen Sie den Aufenthalt für eine Meditation im Warmen und bewundern Sie die moderne Sakralkunst ohne Winterfrost.",
+                "hu": "A vastag falak távol tartják a kinti fagyot; használja ki a látogatást egy belső elcsendesedésre a melegben, és csodálja meg a szakrális művészetet fázás nélkül.",
+                "ro": "Zidurile groase țin frigul la distanță; profitați de vizită pentru un moment de meditație la căldură și admirați arta sacră modernă fără disconfortul iernii.",
+                "en": "The thick walls keep the winter chill at bay; use your visit for a quiet meditation in the warmth while admiring the modern sacred art away from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Universität von Évry",
+                "hu": "Évry-i Egyetem",
+                "ro": "Universitatea din Évry",
+                "en": "University of Évry"
+              },
+              "tip_5lang": {
+                "de": "In den Bibliotheken und Foyers herrscht eine wohlige Wärme; ein kurzer Stopp hier hilft, die Batterien für den restlichen Weg durch die kühle Stadt aufzuladen.",
+                "hu": "A könyvtárakban és aulákban kellemes meleg fogadja; egy rövid pihenő itt segít feltöltődni, mielőtt folytatná az utat a hűvös városi utcákon keresztül.",
+                "ro": "În biblioteci și holuri este o căldură plăcută; o scurtă oprire aici vă va ajuta să vă reîncărcați bateriile pentru restul drumului prin orașul rece.",
+                "en": "The libraries and foyers offer a welcoming warmth; a short break here helps recharge your energy before continuing through the chilly winter streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Coquibus",
+                "hu": "Parc de Coquibus",
+                "ro": "Parc de Coquibus",
+                "en": "Parc de Coquibus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die grafische Struktur der blattlosen Bäume, aber beeilen Sie sich, um das goldene Licht vor dem frühen Sonnenuntergang zu fangen.",
+                "hu": "Élvezze a friss téli levegőt és a lombtalan fák grafikus látványát, de siessen, hogy elkapja az aranyló fényeket a korai, 17 órai naplemente előtt.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de structura grafică a copacilor fără frunze, dar grăbiți-vă să surprindeți lumina aurie înainte de apusul timpuriu.",
+                "en": "Enjoy the crisp winter air and the skeletal beauty of the leafless trees, but hurry to catch the golden hour light before the early 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Évry",
+                "hu": "Évry-i Nagy Mecset",
+                "ro": "Marea Moschee din Évry",
+                "en": "Grand Mosque of Évry"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist angenehm temperiert; ein perfekter Ort, um sich aufzuwärmen und die prachtvolle Mosaikarbeit zu bestaunen, während es draußen dämmert.",
+                "hu": "A belső tér kellemesen temperált; tökéletes hely a bemelegedésre és a pompás mozaikok megcsodálására, miközben odakint már kezdenek kigyúlni az esti fények.",
+                "ro": "Interiorul are o temperatură plăcută; este locul perfect pentru a vă încălzi și a admira mozaicurile superbe în timp ce afară începe să se înnopteze.",
+                "en": "The interior is kept at a comfortable temperature; a perfect place to warm up and admire the magnificent mosaics as twilight begins to fall outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Arènes de l'Agora",
+                "hu": "Arènes de l'Agora",
+                "ro": "Arènes de l'Agora",
+                "en": "Arènes de l'Agora"
+              },
+              "tip_5lang": {
+                "de": "Da es nun dunkel ist, bietet die hell erleuchtete Agora eine sichere und warme Umgebung, um den Wintertag gemütlich und belebt ausklingen zu lassen.",
+                "hu": "Mivel már sötét van, a fényesen kivilágított Agora biztonságos és meleg környezetet kínál a téli nap lezárásához a városi nyüzsgés közepén.",
+                "ro": "Deoarece s-a întunecat deja, Agora luminată oferă un mediu sigur și cald pentru a încheia ziua de iarnă într-o atmosferă animată și confortabilă.",
+                "en": "Now that it's dark, the brightly lit Agora provides a safe and warm environment to finish your winter day amidst the lively urban atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje kerékpáros kalandját az állomáson, megcsodálva a közeli katedrálist és az ENSIIE épületét.\nDél körül tekerjen a Khanh-Anh Pagoda felé egy békés és lenyűgöző kulturális élményért.\nA délutánt töltse a Parc des Tourelles-en való átbiciklizéssel és a történelmi Château de Beauvoir felfedezésével.\nZárja a napot azzal, hogy a fenséges Nagy Mecsethez kerékpározik a kora esti fényekben.",
         "ro": "Începeți aventura pe bicicletă la gară, admirând catedrala din apropiere și arhitectura ENSIIE.\nPedalați spre Pagoda Khanh-Anh în jurul prânzului pentru o întâlnire culturală pașnică și impresionantă.\nPetreceți după-amiaza traversând Parc des Tourelles și explorând istoricul Château de Beauvoir.\nÎncheiați ziua pedalând spre maiestuoasa Mare Moschee exact la lăsarea serii.",
         "en": "Kick off your biking adventure at the station, admiring the nearby cathedral and ENSIIE architecture.\nCycle towards the Khanh-Anh Pagoda around midday for a peaceful and awe-inspiring cultural encounter.\nSpend your afternoon riding through Parc des Tourelles and exploring the historic Château de Beauvoir.\nFinish the day by cycling to the majestic Grand Mosque just as the evening light hits."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Évry im Regen erfordert Vorsicht auf den modernen Radwegen. Wir starten am Bahnhof und radeln zügig zur Kathedrale für eine erste Pause im Trockenen. Der Weg führt uns weiter zur Pagode, wobei wir auf Pfützen achten. Trotz des grauen Himmels glänzen die Schlösser und Parks in einem satten Grün, bis wir den Tag bei der Moschee ausklingen lassen.",
+            "hu": "Egy kerékpáros túra Évry-ben esőben óvatosságot igényel a modern bicikliutakon. Az állomástól indulunk, és gyorsan a katedrálishoz tekerünk az első fedett pihenőért. Az út a pagodához vezet tovább, figyelve a tócsákra és a csúszós kanyarokra. A szürke ég alatt is ragyogóan zöldek a parkok, mielőtt a napot a mecsetnél, fedett helyen fejeznénk be.",
+            "ro": "O tură cu bicicleta prin Évry pe ploaie necesită atenție sporită pe pistele moderne. Pornim de la gară și pedalăm rapid spre catedrală pentru prima pauză la adăpost. Drumul continuă spre pagodă, fiind atenți la bălți și curbe. În ciuda cerului gri, parcurile strălucesc într-un verde intens, înainte de a încheia ziua la marea moschee.",
+            "en": "Cycling through Évry in the rain requires extra care on the modern bike paths. We start at the station and pedal quickly to the cathedral for our first dry break. The route continues towards the pagoda, keeping an eye out for deep puddles and slippery turns. Despite the grey skies, the parks look lush and green before we finish our ride at the grand mosque."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Évry-Courcouronnes",
+                "hu": "Évry-Courcouronnes vasútállomás",
+                "ro": "Gara Évry-Courcouronnes",
+                "en": "Gare d'Évry-Courcouronnes"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; die metallenen Dehnungsfugen am Bahnhofsvorplatz können bei Nässe für Fahrradreifen sehr rutschig sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeit; az állomás előtti téren a fém dilatációs hézagok nedvesen rendkívül csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Verificați frânele înainte de plecare; îmbinările metalice din piața gării pot fi extrem de alunecoase pentru anvelopele de bicicletă când sunt ude.",
+                "en": "Check your brakes before setting off; the metal expansion joints in the station square can be extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Auferstehungskathedrale",
+                "hu": "Feltámadás katedrális",
+                "ro": "Catedrala Învierii",
+                "en": "Cathedral of the Resurrection"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad kurz abzustellen, während Sie das trockene Innere dieser architektonischen Besonderheit bewundern.",
+                "hu": "Használja a fedett bejárati részt a kerékpár rövid leállításához, amíg megcsodálja e különleges építészeti alkotás száraz és monumentális belső terét.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta scurt timp în timp ce admirați interiorul uscat și monumental al acestei piese arhitecturale.",
+                "en": "Use the sheltered entrance area to park your bike briefly while you admire the dry and monumental interior of this unique architectural masterpiece."
+              }
+            },
+            {
+              "name": {
+                "de": "ENSIIE (Ingenieurschule)",
+                "hu": "ENSIIE Mérnöki Iskola",
+                "ro": "Școala de Inginerie ENSIIE",
+                "en": "ENSIIE"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig über den Campus; bei Regen sind die glatten Betonflächen oft rutschig, suchen Sie Schutz unter den weiten Vordächern der Gebäude.",
+                "hu": "Tekerjen óvatosan a campus területén; esőben a sima betonfelületek gyakran csúszósak, keressen menedéket az épületek széles előtetői alatt a záporok idején.",
+                "ro": "Pedalați cu atenție prin campus; pe ploaie, suprafețele netede de beton sunt alunecoase, căutați adăpost sub streșinile largi ale clădirilor în timpul averselor.",
+                "en": "Cycle carefully through the campus; in the rain, smooth concrete surfaces are often slippery, so seek shelter under the wide eaves of the buildings during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Khanh-Anh-Pagode",
+                "hu": "Khanh-Anh Pagoda",
+                "ro": "Pagoda Khanh-Anh",
+                "en": "Khanh-Anh Pagoda"
+              },
+              "tip_5lang": {
+                "de": "Die bunte Fassade leuchtet auch im Regen; stellen Sie Ihr Rad unter den Bäumen ab und genießen Sie die friedliche Stille im überdachten Gebetsraum.",
+                "hu": "A színes homlokzat esőben is ragyog; állítsa le a biciklit a fák védelmében, és élvezze a békés csendet a pagoda fedett és díszes belső imaterében.",
+                "ro": "Fațada colorată strălucește chiar și pe ploaie; parcați bicicleta sub protecția copacilor și bucurați-vă de liniștea din spațiul de rugăciune acoperit.",
+                "en": "The colorful facade shines even in the rain; park your bike under the shelter of the trees and enjoy the peaceful silence in the pagoda's covered prayer hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Tourelles",
+                "hu": "Parc des Tourelles",
+                "ro": "Parc des Tourelles",
+                "en": "Parc des Tourelles"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die aufgeweichten Waldwege und bleiben Sie auf den befestigten Pfaden, um Schlammspritzer auf Ihrer Kleidung und dem Fahrrad zu minimieren.",
+                "hu": "Kerülje a felázott erdei utakat, maradjon a szilárd burkolatú ösvényeken, hogy elkerülje a sárfelcsapódást a ruházatára és a kerékpár vázára.",
+                "ro": "Evitați potecile de pământ ude și rămâneți pe cele pavate pentru a minimiza stropirea cu noroi pe haine și pe cadrul bicicletei în timpul plimbării.",
+                "en": "Avoid the soaked forest paths and stick to the paved trails to minimize mud splashes on your clothes and the bike frame during your ride through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Beauvoir",
+                "hu": "Château de Beauvoir",
+                "ro": "Castelul Beauvoir",
+                "en": "Château de Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Die historische Auffahrt kann bei Nässe tückisch sein; drosseln Sie Ihr Tempo und genießen Sie den Anblick des Schlosses aus einer trockenen Nische des Parks.",
+                "hu": "A történelmi feljáró nedvesen csalóka lehet; lassítson, és élvezze a kastély látványát a park egyik fedett kerti pavilonjából vagy fái alól.",
+                "ro": "Aleea istorică poate fi înșelătoare când este udă; reduceți viteza și bucurați-vă de vederea castelului de sub un pavilion acoperit sau de sub copaci.",
+                "en": "The historical driveway can be tricky when wet; slow down your pace and enjoy the view of the castle from a covered garden pavilion or under the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Évry",
+                "hu": "Évry-i Nagy Mecset",
+                "ro": "Marea Moschee din Évry",
+                "en": "Grand Mosque of Évry"
+              },
+              "tip_5lang": {
+                "de": "Ein perfektes Ziel, um die Tour trocken zu beenden; nutzen Sie die Fahrradständer in der Nähe des Eingangs und wärmen Sie sich in der prachtvollen Architektur auf.",
+                "hu": "Tökéletes célpont a túra száraz befejezéséhez; használja a bejárat közeli tárolókat, és melegedjen fel a lenyűgöző belső terekben a visszaút előtt.",
+                "ro": "O destinație perfectă pentru a încheia turul la uscat; folosiți rastelele de lângă intrare și încălziți-vă în spațiile interioare superbe ale moscheii.",
+                "en": "A perfect destination to finish your ride dry; use the racks near the entrance and warm up within the stunning architecture before your journey back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Évry ist erfrischend, erfordert aber warme Handschuhe gegen den Fahrtwind. Morgens gleiten wir durch die klare Luft zur Kathedrale. Wir nutzen die hellen Stunden für die Fahrt zur Pagode und durch die Parks, bevor die Kälte gegen Nachmittag zunimmt. Um 17:00 Uhr wird es dunkel, weshalb wir unsere Tour mit guter Beleuchtung an der prachtvollen Moschee beenden.",
+            "hu": "A téli kerékpározás Évry-ben frissítő, de a menetszél ellen meleg kesztyűre lesz szükség. Reggel a tiszta, fagyos levegőben gurulunk a katedrálishoz. Kihasználjuk a világos órákat a pagodához és a parkokon át vezető útra, mielőtt a délutáni lehűlés megérkezne. 17:00-kor sötétedik, így a túrát jó világítással, a kivilágított mecsetnél zárjuk.",
+            "ro": "Ciclismul de iarnă în Évry este revigorant, dar necesită mănuși groase împotriva vântului. Dimineața pedalăm prin aerul curat spre catedrală. Profităm de orele cu lumină pentru drumul spre pagodă și prin parcuri, înainte ca frigul să se intensifice. La ora 17:00 se întunecă, așa că încheiem turul cu lumini bune la marea moschee.",
+            "en": "Winter cycling in Évry is refreshing but requires warm gloves against the biting wind. In the morning, we glide through the crisp air to the cathedral. We use the daylight hours for the ride to the pagoda and through the parks before the afternoon chill sets in. Sunset is at 5 PM, so we finish our tour with good lights at the illuminated grand mosque."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Évry-Courcouronnes",
+                "hu": "Évry-Courcouronnes vasútállomás",
+                "ro": "Gara Évry-Courcouronnes",
+                "en": "Gare d'Évry-Courcouronnes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Reifglätte auf dem Bahnhofsplatz und stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang voll funktionsfähig ist.",
+                "hu": "Ügyeljen a hajnali zúzmarára az állomás előtti téren, és győződjön meg róla, hogy a világítása megfelelően működik a korai, 17 órai sötétedéshez.",
+                "ro": "Atenție la posibila polei în piața gării și asigurați-vă că luminile bicicletei funcționează corect pentru apusul timpuriu de la ora 17:00.",
+                "en": "Watch out for possible frost in the station square and ensure your bike lights are fully functional for the early 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Auferstehungskathedrale",
+                "hu": "Feltámadás katedrális",
+                "ro": "Catedrala Învierii",
+                "en": "Cathedral of the Resurrection"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die Wärme im Inneren; der moderne Backsteinbau speichert die spärliche Wintersonne und bietet eine behagliche Atmosphäre.",
+                "hu": "Állítsa le a kerékpárt, és élvezze a belső meleget; a modern téglaépület jól tartja a hőt, és barátságos menedéket nyújt a téli hideg elől.",
+                "ro": "Parcați bicicleta și bucurați-vă de căldura din interior; clădirea modernă din cărămidă păstrează bine căldura și oferă un refugiu primitor contra frigului.",
+                "en": "Park your bike and enjoy the warmth inside; the modern brick building retains heat well and offers a cozy sanctuary from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "ENSIIE (Ingenieurschule)",
+                "hu": "ENSIIE Mérnöki Iskola",
+                "ro": "Școala de Ingenierie ENSIIE",
+                "en": "ENSIIE"
+              },
+              "tip_5lang": {
+                "de": "Der Campus kann im Winter zugig sein; halten Sie sich für eine kurze Pause in den windgeschützten Eingangsbereichen der modernen Fakultätsgebäude auf.",
+                "hu": "A campus télen huzatos lehet; tartson egy rövid szünetet a modern egyetemi épületek szélvédett bejárati csarnokaiban, hogy ne hűljön ki túlságosan.",
+                "ro": "Campusul poate fi bântuit de vânt iarna; faceți o scurtă pauză în zonele de intrare ferite de vânt ale clădirilor universitare moderne pentru a vă încălzi.",
+                "en": "The campus can be quite drafty in winter; take a short break in the wind-sheltered entrance halls of the modern faculty buildings to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Khanh-Anh-Pagode",
+                "hu": "Khanh-Anh Pagoda",
+                "ro": "Pagoda Khanh-Anh",
+                "en": "Khanh-Anh Pagoda"
+              },
+              "tip_5lang": {
+                "de": "Die vergoldeten Dächer glänzen wunderschön in der klaren Winterluft; treten Sie ein, um im beheizten Gebetsraum zur Ruhe zu kommen und sich aufzuwärmen.",
+                "hu": "Az aranyozott tetők csodásan csillognak a tiszta téli levegőben; lépjen be a fűtött imaterembe, hogy egy kis lelki békét és testi meleget találjon.",
+                "ro": "Acoperișurile aurite strălucesc superb în aerul curat de iarnă; intrați în spațiul de rugăciune încălzit pentru a găsi liniște și căldură.",
+                "en": "The gilded roofs glitter beautifully in the crisp winter air; step inside the heated prayer hall to find some spiritual peace and physical warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Tourelles",
+                "hu": "Parc des Tourelles",
+                "ro": "Parc des Tourelles",
+                "en": "Parc des Tourelles"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zügig, um warm zu bleiben, und genießen Sie den freien Blick durch das entlaubte Unterholz; meiden Sie Schattenlöcher, in denen sich Eis halten kann.",
+                "hu": "Tekerjen tempósan, hogy ne fázzon, és élvezze a kilátást a ritkás téli erdőn át; kerülje az árnyékos foltokat, ahol a jég napközben is megmaradhat.",
+                "ro": "Pedalați într-un ritm susținut pentru a vă menține căldura și bucurați-vă de vizibilitatea prin pădurea rară; evitați zonele umbrite unde gheața persistă.",
+                "en": "Cycle at a steady pace to keep warm and enjoy the clear views through the leafless woods; avoid shaded patches where ice might linger during the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Beauvoir",
+                "hu": "Château de Beauvoir",
+                "ro": "Castelul Beauvoir",
+                "en": "Château de Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt in der Winterlandschaft sehr elegant; machen Sie Ihre Fotos schnell, bevor die Finger kalt werden, und nutzen Sie das letzte Tageslicht aus.",
+                "hu": "A kastély elegáns látványt nyújt a téli tájban; készítse el gyorsan a fotókat, mielőtt lefagynának az ujjai, és használja ki az utolsó világos perceket.",
+                "ro": "Castelul arată elegant în peisajul de iarnă; faceți fotografiile rapid înainte să vă înghețe degetele și profitați de ultimele momente de lumină.",
+                "en": "The castle looks elegant in the winter landscape; snap your photos quickly before your fingers get too cold, and make the most of the final daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Évry",
+                "hu": "Évry-i Nagy Mecset",
+                "ro": "Marea Moschee din Évry",
+                "en": "Grand Mosque of Évry"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im hellen Schein der Moschee; im Inneren finden Sie wohlige Wärme und eine prachtvolle Kulisse für den Abschluss Ihres Wintertages.",
+                "hu": "Zárja a túrát a mecset fényeiben; bent kellemes meleget és pompás környezetet talál a téli nap méltó befejezéséhez, mielőtt teljesen besötétedne.",
+                "ro": "Încheiați turul la luminile moscheii; în interior veți găsi o căldură plăcută și un decor superb pentru finalul zilei de iarnă, înainte de întuneric.",
+                "en": "End your ride by the mosque's lights; inside you will find welcoming warmth and a magnificent setting to conclude your winter day properly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Kezdje autós útját a Városházánál, rövid parkolással, hogy meglátogassa a különleges Feltámadás katedrálisát.\nA dél egy kis vásárlást és spirituális felfedezést tartogat a Le Spot Évry-nél, majd a Nagy Mecsetnél.\nA délutánt töltse a magasodó Khanh-Anh Pagoda csodálatával, mielőtt megpihenne a Parc Pompidou-ban.\nFejezze be autós túráját a klasszikus Château de Beauvoir-nál, elgondolkozva a modern és a régi keveredésén.",
         "ro": "Începeți traseul cu mașina la Primărie, parcând scurt pentru a vizita unica Catedrală a Învierii.\nAmiaza aduce un mix de explorare comercială și spirituală, conducând spre Le Spot Évry și Marea Moschee.\nPetreceți după-amiaza admirând impresionanta Pagodă Khanh-Anh înainte de a vă relaxa în Parc Pompidou.\nÎncheiați turul la clasicul Château de Beauvoir, reflectând asupra amestecului de modern și vechi.",
         "en": "Begin your drive at the Hôtel de Ville, parking briefly to visit the unique Cathedral of the Resurrection.\nMidday brings a mix of retail and spiritual exploration, driving to Le Spot Évry and then the Grand Mosque.\nSpend the afternoon marveling at the towering Khanh-Anh Pagoda before relaxing in Parc Pompidou.\nEnd your driving tour at the classic Château de Beauvoir, reflecting on the rich blend of modern and old."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Évry lässt sich bei Regen bequem mit dem Auto erkunden. Wir starten am Rathaus und fahren zur Kathedrale, wobei wir die Parkhäuser im Zentrum nutzen. Der Nachmittag führt uns zum Spot Évry, dem idealen Indoor-Ziel für Shopping und Freizeit. Wir besuchen die Moschee und die Pagode, ohne nass zu werden, und genießen den Blick auf die regenverhangenen Parks aus der Wärme des Wagens.",
+            "hu": "Évry esőben is kényelmesen felfedezhető autóval. A városházától indulunk a katedrálishoz, kihasználva a központi parkolóházak védelmét. A délutánt a Le Spot Évry-ben töltjük, amely ideális fedett helyszín a kikapcsolódáshoz. Ellátogatunk a mecsethez és a pagodához, miközben az autó ablakán át figyeljük az esőáztatta parkokat, teljesen szárazon maradva.",
+            "ro": "Évry poate fi explorat confortabil cu mașina pe ploaie. Pornim de la primărie spre catedrală, folosind parcările acoperite din centru. După-amiaza o petrecem la Le Spot Évry, destinația indoor ideală pentru relaxare. Vizităm moscheea și pagoda rămânând uscați, admirând parcurile plouate din confortul termic al mașinii.",
+            "en": "Évry is easily explored by car even in heavy rain. We start at the town hall and head to the cathedral, utilizing the central parking garages. The afternoon is spent at Le Spot Évry, the perfect indoor destination for leisure and dining. We visit the mosque and pagoda while staying dry, enjoying views of the rain-soaked parks from the warmth of the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Évry",
+                "hu": "Évry Városháza",
+                "ro": "Primăria din Évry",
+                "en": "Hôtel de Ville d'Évry"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus des Agora-Zentrums, um trockenen Fußes zum Rathausplatz zu gelangen und die moderne Architektur zu bewundern.",
+                "hu": "Használja az Agora központ közeli parkolóházát, így száraz lábbal érheti el a városháza terét, hogy megcsodálja a modern építészeti megoldásokat.",
+                "ro": "Folosiți parcarea acoperită de la centrul Agora pentru a ajunge la primărie fără să vă udați, putând admira astfel arhitectura modernă din jur.",
+                "en": "Use the nearby Agora shopping center parking garage to reach the town hall square dry-shod and admire the modern architectural surrounding."
+              }
+            },
+            {
+              "name": {
+                "de": "Auferstehungskathedrale",
+                "hu": "Feltámadás katedrális",
+                "ro": "Catedrala Învierii",
+                "en": "Cathedral of the Resurrection"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Tiefgarage unter dem Platz; der Aufzug bringt Sie fast unmittelbar zum Eingang dieses beeindruckenden sakralen Rundbaus.",
+                "hu": "Parkoljon közvetlenül a tér alatti mélygarázsban; a lift szinte közvetlenül a lenyűgöző kerek szakrális épület bejáratához viszi fel Önt az esőben.",
+                "ro": "Parcați direct în garajul subteran de sub piață; liftul vă va duce aproape direct la intrarea acestei impresionante clădiri religioase rotunde.",
+                "en": "Park directly in the underground garage beneath the square; the elevator takes you almost directly to the entrance of this impressive circular sacred building."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Spot Évry",
+                "hu": "Le Spot Évry",
+                "ro": "Le Spot Évry",
+                "en": "Le Spot Évry"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für einen Regentag; das riesige Glasdach schützt Sie, während Sie durch die zahlreichen Geschäfte und Restaurants flanieren.",
+                "hu": "Ez a tökéletes helyszín egy esős napra; a hatalmas üvegtető megvédi a csapadéktól, miközben az üzletek és éttermek között sétál a kellemes szárazban.",
+                "ro": "Acesta este locul perfect pentru o zi ploioasă; acoperișul uriaș de sticlă vă protejează în timp ce vă plimbați printre numeroasele magazine și restaurante.",
+                "en": "This is the perfect location for a rainy day; the massive glass roof protects you from the elements while you stroll through numerous shops and restaurants."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Évry",
+                "hu": "Évry-i Nagy Mecset",
+                "ro": "Marea Moschee din Évry",
+                "en": "Grand Mosque of Évry"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in der Nähe des Haupteingangs; halten Sie Ihren Schirm für den kurzen Weg bereit, um dann das prächtige, trockene Innere zu erkunden.",
+                "hu": "A főbejárat közelében találhatók parkolóhelyek; tartsa készenlétben az esernyőjét arra a rövid útra, amíg eléri a mecset pompás és száraz belső tereit.",
+                "ro": "Există locuri de parcare lângă intrarea principală; pregătiți umbrela pentru drumul scurt până la intrarea în interiorul splendid și uscat al moscheii.",
+                "en": "There are parking spaces available near the main entrance; have your umbrella ready for the short walk into the mosque's magnificent and dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Khanh-Anh-Pagode",
+                "hu": "Khanh-Anh Pagoda",
+                "ro": "Pagoda Khanh-Anh",
+                "en": "Khanh-Anh Pagoda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besucherparkplatz direkt vor dem Tor; so können Sie die Pagode besichtigen und den Regen bei einer meditativen Pause einfach vergessen.",
+                "hu": "Használja a közvetlenül a kapu előtti látogatói parkolót; így gyorsan bejuthat a pagodába, ahol egy meditatív szünet alatt elfelejtheti a kinti esőt.",
+                "ro": "Folosiți parcarea pentru vizitatori chiar din fața porții; astfel puteți intra rapid în pagodă, uitând de ploaia de afară în timpul unei pauze meditative.",
+                "en": "Use the visitor parking lot right in front of the gate; this allows quick access to the pagoda, where you can forget the rain during a meditative break."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Pompidou",
+                "hu": "Parc Pompidou",
+                "ro": "Parcul Pompidou",
+                "en": "Parc Pompidou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See aus dem geparkten Auto oder machen Sie einen kurzen Spaziergang mit Gummistiefeln auf den gut befestigten Wegen.",
+                "hu": "Élvezze a tóra nyíló kilátást a parkoló autóból, vagy tegyen egy rövid sétát gumicsizmában a jól karbantartott, szilárd burkolatú ösvényeken.",
+                "ro": "Bucurați-vă de vederea spre lac din mașina parcată sau faceți o scurtă plimbare cu cizme de cauciuc pe potecile bine întreținute și pavate.",
+                "en": "Enjoy the lake view from your parked car or take a short walk with rain boots on the well-maintained, paved paths around the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Beauvoir",
+                "hu": "Château de Beauvoir",
+                "ro": "Castelul Beauvoir",
+                "en": "Château de Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Auffahrt und bewundern Sie die Schlossfassade; der Regen verleiht dem historischen Mauerwerk eine besonders tiefe Farbnote.",
+                "hu": "Parkoljon a feljáró közelében, és csodálja meg a kastély homlokzatát; az eső különleges, mély tónust ad a történelmi falazat színeinek.",
+                "ro": "Parcați aproape de aleea de acces și admirați fațada castelului; ploaia oferă o nuanță deosebit de profundă culorilor zidăriei istorice.",
+                "en": "Park near the entrance driveway and admire the castle facade; the rain gives the historic masonry a particularly deep and rich color tone."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Évry bietet Wärme und Flexibilität. Wir starten am beheizten Rathaus und besuchen die Kathedrale. Den Mittag verbringen wir im Spot Évry, wo wir das Auto im warmen Parkhaus lassen. Da es um 17:00 Uhr dunkel wird, planen wir die Parkbesuche für den frühen Nachmittag und genießen den beleuchteten Abschluss bei der Moschee und dem Schloss.",
+            "hu": "A téli autós túra Évry-ben kényelmet és meleget biztosít. A városházától indulunk a katedrálishoz, élvezve a fűtött utasteret. A délutánt a Le Spot Évry-ben töltjük, ahol autónk is védett helyen pihen. Mivel 17:00-kor sötétedik, a parkokat kora délutánra időzítjük, a napot pedig a kivilágított mecsetnél és a kastélynál zárjuk, teljesen átmelegedve.",
+            "ro": "Un tur cu mașina prin Évry iarna oferă confort și căldură. Pornim de la primărie spre catedrală, profitând de habitaclul încălzit. Petrecem după-amiaza la Le Spot Évry, unde mașina stă în siguranță în parcarea acoperită. Deoarece se întunecă la ora 17:00, vizităm parcurile devreme și încheiem ziua la moschee și castel.",
+            "en": "A winter car tour of Évry offers maximum comfort and warmth. We start at the town hall and visit the cathedral, enjoying the heated cabin. The afternoon is spent at Le Spot Évry, with the car safely tucked in the parking garage. Since it gets dark at 5 PM, we schedule park visits for early afternoon and end the day at the illuminated mosque and castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Évry",
+                "hu": "Évry Városháza",
+                "ro": "Primăria din Évry",
+                "en": "Hôtel de Ville d'Évry"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten im Agora-Zentrum direkt daneben; so verbringen Sie nur minimale Zeit in der Kälte auf dem Weg zum Rathausplatz.",
+                "hu": "Használja a közvetlenül mellette lévő Agora központ parkolóit; így minimális időt kell a hidegben töltenie, amíg eléri a városháza modern terét.",
+                "ro": "Folosiți parcarea centrului Agora situată chiar lângă; astfel veți petrece un timp minim în frig în drum spre piața modernă a primăriei.",
+                "en": "Use the parking facilities at the Agora center right next door; this minimizes the time spent in the cold while walking to the town hall square."
+              }
+            },
+            {
+              "name": {
+                "de": "Auferstehungskathedrale",
+                "hu": "Feltámadás katedrális",
+                "ro": "Catedrala Învierii",
+                "en": "Cathedral of the Resurrection"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Auto im Parkhaus unter dem Platz ab; die Kathedrale bietet im Inneren eine angenehme Wärme, die perfekt für eine Winterpause ist.",
+                "hu": "Hagyja autóját a tér alatti parkolóházban; a katedrális belső tere kellemesen meleg, ami tökéletes helyszín egy kis téli pihenőhöz.",
+                "ro": "Lăsați mașina în parcarea de sub piață; interiorul catedralei oferă o căldură plăcută, fiind un loc perfect pentru o pauză de iarnă.",
+                "en": "Leave your car in the parking garage beneath the square; the cathedral's interior provides a pleasant warmth, perfect for a short winter break."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Spot Évry",
+                "hu": "Le Spot Évry",
+                "ro": "Le Spot Évry",
+                "en": "Le Spot Évry"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Freizeitzentrum ist im Winter bestens beheizt; lassen Sie Ihre dicken Mäntel im Auto, um entspannt durch die warmen Hallen zu schlendern.",
+                "hu": "A hatalmas szabadidőközpont télen kiválóan fűtött; hagyja a vastag kabátokat az autóban, hogy kényelmesen sétálhasson a meleg csarnokokban.",
+                "ro": "Centrul uriaș de relaxare este foarte bine încălzit iarna; lăsați haina groasă în mașină pentru a vă plimba relaxat prin spațiile interioare calde.",
+                "en": "The massive leisure center is excellently heated in winter; leave your heavy coats in the car to stroll comfortably through the warm indoor halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Évry",
+                "hu": "Évry-i Nagy Mecset",
+                "ro": "Marea Moschee din Évry",
+                "en": "Grand Mosque of Évry"
+              },
+              "tip_5lang": {
+                "de": "Dank der nahen Parkplätze müssen Sie kaum Zeit im Freien verbringen; genießen Sie die prächtige Architektur und die wohlige Wärme im Gebetsraum.",
+                "hu": "A közeli parkolóhelyeknek köszönhetően alig kell időt töltenie a szabadban; élvezze a pompás építészetet és a belső terek hívogató melegét.",
+                "ro": "Datorită locurilor de parcare apropiate, nu va trebui să stați mult afară; bucurați-vă de arhitectura superbă și de căldura din sala de rugăciune.",
+                "en": "Thanks to the nearby parking, you'll spend very little time outdoors; enjoy the magnificent architecture and the cozy warmth of the prayer halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Khanh-Anh-Pagode",
+                "hu": "Khanh-Anh Pagoda",
+                "ro": "Pagoda Khanh-Anh",
+                "en": "Khanh-Anh Pagoda"
+              },
+              "tip_5lang": {
+                "de": "Der Besucherparkplatz direkt vor dem Eingang spart Ihnen den Weg durch den kalten Wind; im Inneren erwartet Sie eine friedliche und warme Atmosphäre.",
+                "hu": "A közvetlenül a bejárat előtti parkoló megkíméli Önt a hideg széltől; a pagoda belső terében békés és kellemesen meleg környezet várja.",
+                "ro": "Parcarea chiar din fața intrării vă scutește de vântul rece; în interiorul pagodei vă așteaptă o atmosferă liniștită și plăcut încălzită.",
+                "en": "The parking lot directly in front of the entrance saves you from the cold wind; inside the pagoda, a peaceful and warm atmosphere awaits you."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Pompidou",
+                "hu": "Parc Pompidou",
+                "ro": "Parcul Pompidou",
+                "en": "Parc Pompidou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille des Sees vom warmen Auto aus oder machen Sie einen kurzen Spaziergang, bevor die Sonne gegen 17:00 Uhr untergeht.",
+                "hu": "Élvezze a tó téli nyugalmát a meleg autóból, vagy tegyen egy gyors sétát a friss levegőn, mielőtt a nap 17 órakor teljesen lebukna a horizont alá.",
+                "ro": "Bucurați-vă de liniștea hibernală a lacului din mașina caldă sau faceți o plimbare rapidă înainte ca soarele să apună complet la ora 17:00.",
+                "en": "Enjoy the winter serenity of the lake from your warm car or take a quick stroll in the fresh air before the sun sets completely at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Beauvoir",
+                "hu": "Château de Beauvoir",
+                "ro": "Castelul Beauvoir",
+                "en": "Château de Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss ist am späten Nachmittag oft festlich beleuchtet; bewundern Sie das Ensemble aus der Wärme Ihres Wagens, während die Dunkelheit hereinbricht.",
+                "hu": "A kastély késő délután gyakran ünnepi kivilágítást kap; csodálja meg az épületegyüttest az autója melegéből, miközben lassan teljesen besötétedik.",
+                "ro": "Castelul are adesea un iluminat festiv după-amiaza târziu; admirați ansamblul din căldura mașinii în timp ce se lasă întunericul peste oraș.",
+                "en": "The castle often features festive lighting in the late afternoon; admire the estate from the warmth of your car as the winter darkness falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

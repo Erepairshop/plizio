@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Mende történelmi központjában bolyongva, felfedezve a régi gabonapiacot és a középkori védműveket.\n\nDélben merüljön el a helyi folklórban a Gévaudan Múzeumban.\n\nA délutánt az impozáns katedrálisnak és a közeli remetelaknak szentelje.\n\nZárja a napot egy festői esti sétával a történelmi Notre-Dame hídon, élvezve a folyóra nyíló kilátást.",
         "ro": "Începeți dimineața plimbându-vă prin inima istorică a orașului Mende, descoperind vechea piață de cereale.\n\nLa prânz, explorați folclorul local la Muzeul Gévaudan.\n\nDupă-amiaza este dedicată catedralei impunătoare și schitului din apropiere pentru o reflecție liniștită.\n\nÎncheiați-vă ziua cu o plimbare de seară pe podul istoric Notre-Dame, admirând priveliștea.",
         "en": "Begin your morning wandering through the historical heart of Mende, discovering the old grain market and the medieval defense structures.\n\nBy midday, delve into local folklore and art at the Gévaudan Museum.\n\nThe afternoon is dedicated to the imposing Cathedral and the nearby Hermitage for quiet reflection.\n\nConclude your day with a scenic evening stroll over the historic Notre-Dame Bridge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit Schirm an den historischen Plätzen. Suchen Sie mittags Schutz im Museum und der Kathedrale. Der Nachmittagsspaziergang erfordert wasserfestes Schuhwerk und Vorsicht. Verbringen Sie den Abend gemütlich drinnen bei einem warmen Getränk.",
+            "hu": "Kezdje az esős reggelt a történelmi tereken, esernyővel a kézben. Délben keressen menedéket a múzeumban és a lenyűgöző katedrálisban. A délutáni séta a remetelakhoz vízálló cipőt kíván. Az estét töltsétek egy meleg, fedett helyen.",
+            "ro": "Începeți dimineața ploioasă în piețele istorice, la adăpostul umbrelei. La prânz, refugiați-vă în muzeu și impresionanta catedrală. Plimbarea de după-amiază necesită încălțăminte impermeabilă. Seara, retrageți-vă la căldură în interior.",
+            "en": "Start your wet morning at the historic squares, using an umbrella. Seek shelter midday in the fascinating museum and grand cathedral. The afternoon stroll to the hermitage and bridge requires waterproof gear. Spend the evening warming up indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place au Blé",
+                "hu": "Place au Blé",
+                "ro": "Place au Blé",
+                "en": "Place au Blé"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur des alten Weizenmarktes, aber achten Sie auf Ihre Schritte auf dem nassen und rutschigen Kopfsteinpflaster.",
+                "hu": "Csodálja meg az egykori búzapiac történelmi építészetét, de vigyázzon a lépteire a nedves és csúszós macskaköveken.",
+                "ro": "Admirați arhitectura istorică a vechii piețe de grâu, dar fiți atenți la pași pe piatra cubică umedă și alunecoasă.",
+                "en": "Admire the historic architecture of this former wheat market, but watch your step as the cobblestones can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Penitents Tower",
+                "hu": "Penitents Tower",
+                "ro": "Penitents Tower",
+                "en": "Penitents Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den mittelalterlichen Turm unter Ihrem Regenschirm; das historische Mauerwerk wirkt bei Regen besonders dramatisch.",
+                "hu": "Csodálja meg a középkori tornyot az esernyője alól; a történelmi kőfalak esőben különösen drámaian hatnak.",
+                "ro": "Priviți turnul medieval de sub umbrelă; zidăria istorică arată deosebit de dramatic în timpul ploii.",
+                "en": "Look up at this historic medieval tower from beneath your umbrella; the old stonework looks dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gévaudan Museum",
+                "hu": "Gévaudan Museum",
+                "ro": "Gévaudan Museum",
+                "en": "Gévaudan Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reiche lokale Geschichte und die Bestien-Legende drinnen – ein idealer, trockener Zufluchtsort vor dem Dauerregen.",
+                "hu": "Fedezze fel a helyi történelmet és a fenevad legendáját a falak között, ami ideális, száraz menedék a tartós eső elől.",
+                "ro": "Explorați istoria locală și legenda bestiei la interior, un refugiu uscat ideal împotriva ploii persistente.",
+                "en": "Explore the rich local history and the beast legend indoors, serving as an ideal dry refuge from the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-et-Saint-Privat Cathedral",
+                "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+                "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+                "en": "Notre-Dame-et-Saint-Privat Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen gotischen Innenräume und die bunten Fenster, während Sie im Kirchenschiff absolut trocken bleiben.",
+                "hu": "Csodálja meg a lenyűgöző gótikus belső teret és az ólomüveg ablakokat, miközben teljesen száraz marad a templomhajóban.",
+                "ro": "Admirați interioarele gotice magnifice și vitraliile colorate, rămânând perfect uscați în naosul catedralei.",
+                "en": "Marvel at the magnificent gothic interiors and beautiful stained glass while staying perfectly dry inside the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Privat Hermitage",
+                "hu": "Saint-Privat Hermitage",
+                "ro": "Saint-Privat Hermitage",
+                "en": "Saint-Privat Hermitage"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie vorsichtig zur Einsiedelei, da der Pfad schlammig sein kann; der neblige Blick auf das Tal ist unglaublich stimmungsvoll.",
+                "hu": "Túrázzon fel óvatosan a remetelakhoz, mert az ösvény saras lehet; a völgyre nyíló ködös kilátás hihetetlenül hangulatos.",
+                "ro": "Urcați cu grijă spre schit, deoarece poteca poate fi noroioasă; priveliștea cețoasă asupra văii este incredibil de melancolică.",
+                "en": "Trek up to the hermitage carefully as the path can be muddy; the misty views of the valley are incredibly moody."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Bridge",
+                "hu": "Notre-Dame Bridge",
+                "ro": "Notre-Dame Bridge",
+                "en": "Notre-Dame Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die mittelalterliche Brücke, aber halten Sie Ihren Regenschirm gut fest, da die Flussbrise oft kräftig weht.",
+                "hu": "Fotózza le a középkori hidat, de fogja erősen az esernyőjét, mivel a folyó felől fújó szél gyakran meglehetősen erős.",
+                "ro": "Fotografiați podul medieval, dar țineți bine de umbrelă, deoarece briza râului este adesea destul de puternică.",
+                "en": "Photograph the medieval bridge spanning the river, but hold onto your umbrella as the river breeze is often quite strong."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen klaren Wintermorgen an den Plätzen. Mittags bieten das Museum und die Kathedrale einen gemütlichen Rückzugsort. Genießen Sie nachmittags das Licht am Fluss und um 17 Uhr den frühen Sonnenuntergang. Abends lockt ein heißes Getränk drinnen.",
+            "hu": "Öltözzön rétegesen a hűvös téli reggeli sétához a történelmi tereken. Délben a múzeum és a katedrális nyújt kellemes menedéket a hideg elől. Élvezze a délutáni fényeket a hídnál a korai naplemente előtt. Este jöhet egy forró ital bent.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală de iarnă prin piețele istorice. La prânz, muzeul și catedrala oferă un refugiu călduros. Bucurați-vă de lumina după-amiezii la pod, înainte de apusul de la ora 17. Seara cere o băutură caldă.",
+            "en": "Wrap up warmly for a crisp winter morning walk through the historic squares. Midday offers a cozy retreat inside the museum and cathedral. Enjoy the afternoon light at the bridge before the early sunset around 5 PM. Evening calls for a hot drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place au Blé",
+                "hu": "Place au Blé",
+                "ro": "Place au Blé",
+                "en": "Place au Blé"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den historischen Weizenmarkt in winterlicher Atmosphäre und tragen Sie einen warmen Schal gegen die kalte Brise.",
+                "hu": "Fedezze fel a történelmi búzapiacot téli hangulatban, és viseljen meleg sálat a csípős szél ellen.",
+                "ro": "Descoperiți piața istorică de grâu în atmosferă de iarnă și purtați un fular călduros împotriva vântului rece.",
+                "en": "See the historic wheat market square wrapped in winter vibes, and be sure to wear a warm scarf against the chilling breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Penitents Tower",
+                "hu": "Penitents Tower",
+                "ro": "Penitents Tower",
+                "en": "Penitents Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposante Struktur des Turms, dessen dicke Steinmauern in der klaren, kalten Winterluft besonders eindrucksvoll wirken.",
+                "hu": "Vegye szemügyre a torony impozáns szerkezetét, amelynek vastag kőfalai a tiszta, hideg téli levegőben különösen lenyűgözőek.",
+                "ro": "Admirați structura impunătoare a turnului, ai cărui pereți groși de piatră ies în evidență în aerul rece de iarnă.",
+                "en": "Take in the imposing structure of the medieval tower; its stone walls look particularly striking in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Gévaudan Museum",
+                "hu": "Gévaudan Museum",
+                "ro": "Gévaudan Museum",
+                "en": "Gévaudan Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie im angenehm beheizten Museum in die Geschichte ein, ein perfekter Ort, um an Wintertagen kalte Hände aufzuwärmen.",
+                "hu": "Merüljön el a történelemben a kellemesen fűtött múzeumban, amely tökéletes hely a hideg téli napokon való felmelegedésre.",
+                "ro": "Scufundați-vă în istorie în muzeul confortabil încălzit, un loc perfect pentru a vă încălzi în zilele reci de iarnă.",
+                "en": "Dive into local history inside the comfortably heated museum, a perfect stop to warm your fingers and toes in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-et-Saint-Privat Cathedral",
+                "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+                "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+                "en": "Notre-Dame-et-Saint-Privat Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gotische Architektur und die warme Beleuchtung im Inneren, die ein friedliches und gemütliches Winterheiligtum bieten.",
+                "hu": "Élvezze a gótikus építészetet és a meleg belső világítást, amely békés és hangulatos téli menedéket nyújt.",
+                "ro": "Bucurați-vă de arhitectura gotică și de iluminatul cald din interior, care oferă un sanctuar de iarnă pașnic și primitor.",
+                "en": "Admire the gothic architecture and warm lighting of the interior, offering a peaceful and cozy winter sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Privat Hermitage",
+                "hu": "Saint-Privat Hermitage",
+                "ro": "Saint-Privat Hermitage",
+                "en": "Saint-Privat Hermitage"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zu dieser spirituellen Stätte für frostige Ausblicke, aber kehren Sie unbedingt vor der Dämmerung um 17 Uhr zurück.",
+                "hu": "Túrázzon el ehhez a spirituális helyhez a fagyos kilátásért, de feltétlenül térjen vissza a 17 órai sötétedés előtt.",
+                "ro": "Drumeți spre acest sit spiritual pentru priveliști înghețate, dar asigurați-vă că vă întoarceți înainte de lăsarea întunericului la ora 17.",
+                "en": "Hike to this spiritual site for stunning frost-covered views, but be sure to return before dusk sets in around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Bridge",
+                "hu": "Notre-Dame Bridge",
+                "ro": "Notre-Dame Bridge",
+                "en": "Notre-Dame Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie diese historische Brücke und genießen Sie den eisigen Flussblick, aber packen Sie sich wegen des eisigen Windes gut ein.",
+                "hu": "Sétáljon át a történelmi hídon, élvezve a jeges folyó látványát, de öltözzön be jól a csípős szél miatt.",
+                "ro": "Traversați acest pod istoric bucurându-vă de priveliștea râului înghețat, dar îmbrăcați-vă gros din cauza vântului tăios.",
+                "en": "Walk across this historic bridge enjoying the icy river views, but bundle up warmly as the wind can be biting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros utazása a festői Notre-Dame hídnál kezdődik, megcsodálva a reggeli fényeket.\n\nA dél a városközpontba invitálja, hogy megnézze a katedrálist, a bűnbánók tornyát és a múzeumot.\n\nDélután tekerjen el a Dinopediába egy őskori kalandra.\n\nAz este nyugodtan telik, miközben visszakerékpározik a városba, átgondolva az aktív napot.",
         "ro": "Călătoria pe bicicletă începe la podul pitoresc Notre-Dame, surprinzând lumina blândă a dimineții.\n\nPrânzul vă invită în centrul orașului pentru a admira catedrala și muzeul local.\n\nDupă-amiaza, pedalați spre Dinopedia pentru o aventură preistorică distractivă.\n\nSeara se încheie în timp ce vă întoarceți în oraș, reflectând la o zi activă.",
         "en": "Your cycling journey starts at the picturesque Notre-Dame Bridge, catching the gentle morning light.\n\nMidday invites you into the city center to admire the Cathedral, Penitents Tower, and local museum history.\n\nIn the afternoon, pedal your way out to Dinopedia for a fun, prehistoric adventure.\n\nThe evening winds down as you cycle back into town, reflecting on an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig auf nassen Straßen zur Brücke und Kathedrale. Mittags bietet das Museum eine angenehme Regenpause. Die Nachmittagstour zum Dinopark erfordert zwingend gute Regenkleidung. Trocknen Sie abends gemütlich drinnen.",
+            "hu": "Óvatosan tekerjen a nedves reggeli utcákon a történelmi hídhoz. Délben tartson egy esőszünetet a múzeumban. A délutáni túra a dinoszaurusz parkba jó esőruhát kíván. Az estét töltse bent, szárazon.",
+            "ro": "Bicicliți cu grijă pe străzile umede de dimineață. La prânz, luați o pauză de la ploaie explorând muzeul. Plimbarea de după-amiază spre parcul de dinozauri necesită pelerină. Seara, uscați-vă la interior.",
+            "en": "Cycle carefully through the wet morning streets to the historic bridge and cathedral. By noon, take a break from the rain inside the museum. Your afternoon ride to the dinosaur park requires good rain gear. Spend the evening drying off indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Bridge",
+                "hu": "Notre-Dame Bridge",
+                "ro": "Notre-Dame Bridge",
+                "en": "Notre-Dame Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die mittelalterliche Brücke, aber halten Sie Ihren Regenschirm gut fest, da die Flussbrise oft kräftig weht.",
+                "hu": "Fotózza le a középkori hidat, de fogja erősen az esernyőjét, mivel a folyó felől fújó szél gyakran meglehetősen erős.",
+                "ro": "Fotografiați podul medieval, dar țineți bine de umbrelă, deoarece briza râului este adesea destul de puternică.",
+                "en": "Photograph the medieval bridge spanning the river, but hold onto your umbrella as the river breeze is often quite strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-et-Saint-Privat Cathedral",
+                "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+                "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+                "en": "Notre-Dame-et-Saint-Privat Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen gotischen Innenräume und die bunten Fenster, während Sie im Kirchenschiff absolut trocken bleiben.",
+                "hu": "Csodálja meg a lenyűgöző gótikus belső teret és az ólomüveg ablakokat, miközben teljesen száraz marad a templomhajóban.",
+                "ro": "Admirați interioarele gotice magnifice și vitraliile colorate, rămânând perfect uscați în naosul catedralei.",
+                "en": "Marvel at the magnificent gothic interiors and beautiful stained glass while staying perfectly dry inside the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Penitents Tower",
+                "hu": "Penitents Tower",
+                "ro": "Penitents Tower",
+                "en": "Penitents Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den mittelalterlichen Turm unter Ihrem Regenschirm; das historische Mauerwerk wirkt bei Regen besonders dramatisch.",
+                "hu": "Csodálja meg a középkori tornyot az esernyője alól; a történelmi kőfalak esőben különösen drámaian hatnak.",
+                "ro": "Priviți turnul medieval de sub umbrelă; zidăria istorică arată deosebit de dramatic în timpul ploii.",
+                "en": "Look up at this historic medieval tower from beneath your umbrella; the old stonework looks dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gévaudan Museum",
+                "hu": "Gévaudan Museum",
+                "ro": "Gévaudan Museum",
+                "en": "Gévaudan Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reiche lokale Geschichte und die Bestien-Legende drinnen – ein idealer, trockener Zufluchtsort vor dem Dauerregen.",
+                "hu": "Fedezze fel a helyi történelmet és a fenevad legendáját a falak között, ami ideális, száraz menedék a tartós eső elől.",
+                "ro": "Explorați istoria locală și legenda bestiei la interior, un refugiu uscat ideal împotriva ploii persistente.",
+                "en": "Explore the rich local history and the beast legend indoors, serving as an ideal dry refuge from the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Place au Blé",
+                "hu": "Place au Blé",
+                "ro": "Place au Blé",
+                "en": "Place au Blé"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur des alten Weizenmarktes, aber achten Sie auf Ihre Schritte auf dem nassen und rutschigen Kopfsteinpflaster.",
+                "hu": "Csodálja meg az egykori búzapiac történelmi építészetét, de vigyázzon a lépteire a nedves és csúszós macskaköveken.",
+                "ro": "Admirați arhitectura istorică a vechii piețe de grâu, dar fiți atenți la pași pe piatra cubică umedă și alunecoasă.",
+                "en": "Admire the historic architecture of this former wheat market, but watch your step as the cobblestones can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopedia",
+                "hu": "Dinopedia",
+                "ro": "Dinopedia",
+                "en": "Dinopedia"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Dinosaurier im Waldpark; bringen Sie eine gute Regenjacke und wasserfeste Schuhe für die schlammigen Wege mit.",
+                "hu": "Fedezze fel a dinoszauruszokat az erdei parkban; hozzon jó esőkabátot és vízálló cipőt a saras ösvényekhez.",
+                "ro": "Descoperiți dinozaurii în parcul împădurit; aduceți o pelerină bună și încălțăminte impermeabilă pentru potecile noroioase.",
+                "en": "Discover animatronic dinosaurs in the wooded park; bring a good raincoat and waterproof shoes for the muddy trails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für die morgendliche Radtour zur Kathedrale warm ein. Mittags können Sie sich im Museum aufwärmen. Radeln Sie nachmittags zum Dinopark, aber denken Sie an den frühen Sonnenuntergang um 17 Uhr. Genießen Sie den Abend drinnen.",
+            "hu": "Öltözzön be alaposan a csípős reggeli bringázáshoz. Délben jól fog esni a felmelegedés a helyi múzeumban. Délután tekerjen el a dinóparkba, de számoljon a korai sötétedéssel. Élvezze a kuckózós estét.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală cu bicicleta. La prânz, încălziți-vă în muzeul local. Bicicliți spre parcul de dinozauri după-amiaza, dar fiți atenți la apusul timpuriu de la 17:00. Seara e pentru relaxare la interior.",
+            "en": "Bundle up for a crisp morning bike ride to the bridge and cathedral. Midday brings a welcome chance to warm up in the local museum. Cycle to the dinosaur park in the afternoon, but be aware of the early 5 PM sunset. Enjoy a cozy evening indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Bridge",
+                "hu": "Notre-Dame Bridge",
+                "ro": "Notre-Dame Bridge",
+                "en": "Notre-Dame Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie diese historische Brücke und genießen Sie den eisigen Flussblick, aber packen Sie sich wegen des eisigen Windes gut ein.",
+                "hu": "Sétáljon át a történelmi hídon, élvezve a jeges folyó látványát, de öltözzön be jól a csípős szél miatt.",
+                "ro": "Traversați acest pod istoric bucurându-vă de priveliștea râului înghețat, dar îmbrăcați-vă gros din cauza vântului tăios.",
+                "en": "Walk across this historic bridge enjoying the icy river views, but bundle up warmly as the wind can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-et-Saint-Privat Cathedral",
+                "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+                "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+                "en": "Notre-Dame-et-Saint-Privat Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gotische Architektur und die warme Beleuchtung im Inneren, die ein friedliches und gemütliches Winterheiligtum bieten.",
+                "hu": "Élvezze a gótikus építészetet és a meleg belső világítást, amely békés és hangulatos téli menedéket nyújt.",
+                "ro": "Bucurați-vă de arhitectura gotică și de iluminatul cald din interior, care oferă un sanctuar de iarnă pașnic și primitor.",
+                "en": "Admire the gothic architecture and warm lighting of the interior, offering a peaceful and cozy winter sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Penitents Tower",
+                "hu": "Penitents Tower",
+                "ro": "Penitents Tower",
+                "en": "Penitents Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposante Struktur des Turms, dessen dicke Steinmauern in der klaren, kalten Winterluft besonders eindrucksvoll wirken.",
+                "hu": "Vegye szemügyre a torony impozáns szerkezetét, amelynek vastag kőfalai a tiszta, hideg téli levegőben különösen lenyűgözőek.",
+                "ro": "Admirați structura impunătoare a turnului, ai cărui pereți groși de piatră ies în evidență în aerul rece de iarnă.",
+                "en": "Take in the imposing structure of the medieval tower; its stone walls look particularly striking in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Gévaudan Museum",
+                "hu": "Gévaudan Museum",
+                "ro": "Gévaudan Museum",
+                "en": "Gévaudan Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie im angenehm beheizten Museum in die Geschichte ein, ein perfekter Ort, um an Wintertagen kalte Hände aufzuwärmen.",
+                "hu": "Merüljön el a történelemben a kellemesen fűtött múzeumban, amely tökéletes hely a hideg téli napokon való felmelegedésre.",
+                "ro": "Scufundați-vă în istorie în muzeul confortabil încălzit, un loc perfect pentru a vă încălzi în zilele reci de iarnă.",
+                "en": "Dive into local history inside the comfortably heated museum, a perfect stop to warm your fingers and toes in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Place au Blé",
+                "hu": "Place au Blé",
+                "ro": "Place au Blé",
+                "en": "Place au Blé"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den historischen Weizenmarkt in winterlicher Atmosphäre und tragen Sie einen warmen Schal gegen die kalte Brise.",
+                "hu": "Fedezze fel a történelmi búzapiacot téli hangulatban, és viseljen meleg sálat a csípős szél ellen.",
+                "ro": "Descoperiți piața istorică de grâu în atmosferă de iarnă și purtați un fular călduros împotriva vântului rece.",
+                "en": "See the historic wheat market square wrapped in winter vibes, and be sure to wear a warm scarf against the chilling breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopedia",
+                "hu": "Dinopedia",
+                "ro": "Dinopedia",
+                "en": "Dinopedia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den Dinopark in der ruhigen Wintersaison; tragen Sie warme Schichten, da es im Freien sehr kühl wird.",
+                "hu": "Fedezze fel a dinóparkot a csendes téli szezonban; öltözzön rétegesen, mivel a szabadtéri részeken nagyon hideg van.",
+                "ro": "Explorați parcul de dinozauri în sezonul liniștit de iarnă; îmbrăcați-vă în straturi, deoarece secțiunile în aer liber sunt foarte reci.",
+                "en": "Explore the dinosaur park in the quiet winter season; dress in warm layers as the outdoor sections get very chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje a napot az ikonikus Notre-Dame hídnál, majd látogasson el a lélegzetelállító katedrálishoz.\n\nEbédidőben fedezze fel a városközpontot és a Gévaudan Múzeumot.\n\nA késő délután a városból kifelé vezet az izgalmas Dinopedia dinoszaurusz kiállításokhoz.\n\nZárja az utat egy csendes esti vezetéssel a Gros du Lac víztározóhoz, élvezve a természet nyugalmát.",
         "ro": "Începeți-vă ziua la podul emblematic Notre-Dame, înainte de a vizita impresionanta catedrală.\n\nLa prânz, explorați centrul orașului și vizitați Muzeul Gévaudan.\n\nDupă-amiaza târziu vă duce puțin în afara orașului, la expozițiile captivante de la Dinopedia.\n\nÎncheiați-vă călătoria cu o plimbare liniștită de seară spre rezervorul Gros du Lac.",
         "en": "Drive into Mende to start your day at the iconic Notre-Dame Bridge before visiting the Cathedral.\n\nFor lunch, explore the town center and visit the Gévaudan Museum to learn about local mysteries.\n\nThe late afternoon takes you slightly out of town to the exciting Dinopedia exhibits.\n\nFinish your road trip with a tranquil evening drive to the Gros du Lac reservoir."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem verregneten Morgen bequem zur Brücke und Kathedrale. Verbringen Sie einen trockenen Mittag im Museum. Die Nachmittagsfahrt zum Dinopark und See erfordert vorsichtiges Bremsen auf nassen Straßen. Genießen Sie ein gemütliches Abendessen drinnen.",
+            "hu": "Vezessen kényelmesen a hídhoz és a katedrálishoz ezen az esős reggelen. Töltsön egy száraz delet a múzeum kincseinek felfedezésével. A délutáni autózás a tóhoz óvatos fékezést igényel. Fogyasszon el egy meleg vacsorát.",
+            "ro": "Conduceți confortabil spre pod și catedrală în această dimineață ploioasă. Petreceți prânzul la uscat, explorând muzeul. Drumul de după-amiază spre lac necesită frânare atentă pe carosabilul umed. Savurați o cină la căldură.",
+            "en": "Drive comfortably to the bridge and cathedral this rainy morning. Spend a dry midday exploring the local museum's treasures. Your afternoon drive to the dinosaur park and lake requires careful braking on wet roads. Have a cozy dinner indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Bridge",
+                "hu": "Notre-Dame Bridge",
+                "ro": "Notre-Dame Bridge",
+                "en": "Notre-Dame Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die mittelalterliche Brücke, aber halten Sie Ihren Regenschirm gut fest, da die Flussbrise oft kräftig weht.",
+                "hu": "Fotózza le a középkori hidat, de fogja erősen az esernyőjét, mivel a folyó felől fújó szél gyakran meglehetősen erős.",
+                "ro": "Fotografiați podul medieval, dar țineți bine de umbrelă, deoarece briza râului este adesea destul de puternică.",
+                "en": "Photograph the medieval bridge spanning the river, but hold onto your umbrella as the river breeze is often quite strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-et-Saint-Privat Cathedral",
+                "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+                "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+                "en": "Notre-Dame-et-Saint-Privat Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen gotischen Innenräume und die bunten Fenster, während Sie im Kirchenschiff absolut trocken bleiben.",
+                "hu": "Csodálja meg a lenyűgöző gótikus belső teret és az ólomüveg ablakokat, miközben teljesen száraz marad a templomhajóban.",
+                "ro": "Admirați interioarele gotice magnifice și vitraliile colorate, rămânând perfect uscați în naosul catedralei.",
+                "en": "Marvel at the magnificent gothic interiors and beautiful stained glass while staying perfectly dry inside the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Privat Hermitage",
+                "hu": "Saint-Privat Hermitage",
+                "ro": "Saint-Privat Hermitage",
+                "en": "Saint-Privat Hermitage"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie vorsichtig zur Einsiedelei, da der Pfad schlammig sein kann; der neblige Blick auf das Tal ist unglaublich stimmungsvoll.",
+                "hu": "Túrázzon fel óvatosan a remetelakhoz, mert az ösvény saras lehet; a völgyre nyíló ködös kilátás hihetetlenül hangulatos.",
+                "ro": "Urcați cu grijă spre schit, deoarece poteca poate fi noroioasă; priveliștea cețoasă asupra văii este incredibil de melancolică.",
+                "en": "Trek up to the hermitage carefully as the path can be muddy; the misty views of the valley are incredibly moody."
+              }
+            },
+            {
+              "name": {
+                "de": "Gévaudan Museum",
+                "hu": "Gévaudan Museum",
+                "ro": "Gévaudan Museum",
+                "en": "Gévaudan Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reiche lokale Geschichte und die Bestien-Legende drinnen – ein idealer, trockener Zufluchtsort vor dem Dauerregen.",
+                "hu": "Fedezze fel a helyi történelmet és a fenevad legendáját a falak között, ami ideális, száraz menedék a tartós eső elől.",
+                "ro": "Explorați istoria locală și legenda bestiei la interior, un refugiu uscat ideal împotriva ploii persistente.",
+                "en": "Explore the rich local history and the beast legend indoors, serving as an ideal dry refuge from the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Place au Blé",
+                "hu": "Place au Blé",
+                "ro": "Place au Blé",
+                "en": "Place au Blé"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur des alten Weizenmarktes, aber achten Sie auf Ihre Schritte auf dem nassen und rutschigen Kopfsteinpflaster.",
+                "hu": "Csodálja meg az egykori búzapiac történelmi építészetét, de vigyázzon a lépteire a nedves és csúszós macskaköveken.",
+                "ro": "Admirați arhitectura istorică a vechii piețe de grâu, dar fiți atenți la pași pe piatra cubică umedă și alunecoasă.",
+                "en": "Admire the historic architecture of this former wheat market, but watch your step as the cobblestones can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopedia",
+                "hu": "Dinopedia",
+                "ro": "Dinopedia",
+                "en": "Dinopedia"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Dinosaurier im Waldpark; bringen Sie eine gute Regenjacke und wasserfeste Schuhe für die schlammigen Wege mit.",
+                "hu": "Fedezze fel a dinoszauruszokat az erdei parkban; hozzon jó esőkabátot és vízálló cipőt a saras ösvényekhez.",
+                "ro": "Descoperiți dinozaurii în parcul împădurit; aduceți o pelerină bună și încălțăminte impermeabilă pentru potecile noroioase.",
+                "en": "Discover animatronic dinosaurs in the wooded park; bring a good raincoat and waterproof shoes for the muddy trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Retenue D.F.C.I. du Gros du Lac",
+                "hu": "Retenue D.F.C.I. du Gros du Lac",
+                "ro": "Retenue D.F.C.I. du Gros du Lac",
+                "en": "Retenue D.F.C.I. du Gros du Lac"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die regnerische Landschaft am See; geeignete wasserdichte Stiefel sind für das nasse Gelände unerlässlich.",
+                "hu": "Tapasztalja meg az eső áztatta tájat a tónál; a megfelelő vízálló csizma elengedhetetlen a nedves terepen.",
+                "ro": "Experimentați peisajul ploios de la lac; cizmele impermeabile adecvate sunt esențiale pentru terenul umed.",
+                "en": "Experience the moody, rain-swept landscape around the lake; proper waterproof boots are essential for the wet terrain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine malerische Winterfahrt mit Heizung zu den historischen Stätten. Mittags können Sie das Museum erkunden und sich aufwärmen. Fahren Sie nachmittags zum See, bevor es um 17 Uhr dunkel wird. Parken Sie für ein warmes Abendessen.",
+            "hu": "Élvezze a festői téli autózást a fűtéssel a történelmi helyszínekhez. Délben fedezze fel a múzeumot egy kis plusz melegért. Délután vezessen el a tóhoz még a korai sötétedés előtt. Parkoljon le egy forró esti étkezéshez.",
+            "ro": "Bucurați-vă de o plimbare pitorească de iarnă cu mașina, cu căldura pornită. La prânz explorați muzeul pentru a vă încălzi. Conduceți spre lac după-amiaza înainte de lăsarea întunericului la 17:00. Parcați pentru o cină caldă.",
+            "en": "Enjoy a scenic winter drive to the historical sites with the heater on. Midday offers a chance to explore the museum and warm up further. Drive out to the lake in the afternoon before the early 5 PM dusk settles in. Park up for a warm evening meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Bridge",
+                "hu": "Notre-Dame Bridge",
+                "ro": "Notre-Dame Bridge",
+                "en": "Notre-Dame Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie diese historische Brücke und genießen Sie den eisigen Flussblick, aber packen Sie sich wegen des eisigen Windes gut ein.",
+                "hu": "Sétáljon át a történelmi hídon, élvezve a jeges folyó látványát, de öltözzön be jól a csípős szél miatt.",
+                "ro": "Traversați acest pod istoric bucurându-vă de priveliștea râului înghețat, dar îmbrăcați-vă gros din cauza vântului tăios.",
+                "en": "Walk across this historic bridge enjoying the icy river views, but bundle up warmly as the wind can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-et-Saint-Privat Cathedral",
+                "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+                "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+                "en": "Notre-Dame-et-Saint-Privat Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gotische Architektur und die warme Beleuchtung im Inneren, die ein friedliches und gemütliches Winterheiligtum bieten.",
+                "hu": "Élvezze a gótikus építészetet és a meleg belső világítást, amely békés és hangulatos téli menedéket nyújt.",
+                "ro": "Bucurați-vă de arhitectura gotică și de iluminatul cald din interior, care oferă un sanctuar de iarnă pașnic și primitor.",
+                "en": "Admire the gothic architecture and warm lighting of the interior, offering a peaceful and cozy winter sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Privat Hermitage",
+                "hu": "Saint-Privat Hermitage",
+                "ro": "Saint-Privat Hermitage",
+                "en": "Saint-Privat Hermitage"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zu dieser spirituellen Stätte für frostige Ausblicke, aber kehren Sie unbedingt vor der Dämmerung um 17 Uhr zurück.",
+                "hu": "Túrázzon el ehhez a spirituális helyhez a fagyos kilátásért, de feltétlenül térjen vissza a 17 órai sötétedés előtt.",
+                "ro": "Drumeți spre acest sit spiritual pentru priveliști înghețate, dar asigurați-vă că vă întoarceți înainte de lăsarea întunericului la ora 17.",
+                "en": "Hike to this spiritual site for stunning frost-covered views, but be sure to return before dusk sets in around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Gévaudan Museum",
+                "hu": "Gévaudan Museum",
+                "ro": "Gévaudan Museum",
+                "en": "Gévaudan Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie im angenehm beheizten Museum in die Geschichte ein, ein perfekter Ort, um an Wintertagen kalte Hände aufzuwärmen.",
+                "hu": "Merüljön el a történelemben a kellemesen fűtött múzeumban, amely tökéletes hely a hideg téli napokon való felmelegedésre.",
+                "ro": "Scufundați-vă în istorie în muzeul confortabil încălzit, un loc perfect pentru a vă încălzi în zilele reci de iarnă.",
+                "en": "Dive into local history inside the comfortably heated museum, a perfect stop to warm your fingers and toes in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Place au Blé",
+                "hu": "Place au Blé",
+                "ro": "Place au Blé",
+                "en": "Place au Blé"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den historischen Weizenmarkt in winterlicher Atmosphäre und tragen Sie einen warmen Schal gegen die kalte Brise.",
+                "hu": "Fedezze fel a történelmi búzapiacot téli hangulatban, és viseljen meleg sálat a csípős szél ellen.",
+                "ro": "Descoperiți piața istorică de grâu în atmosferă de iarnă și purtați un fular călduros împotriva vântului rece.",
+                "en": "See the historic wheat market square wrapped in winter vibes, and be sure to wear a warm scarf against the chilling breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinopedia",
+                "hu": "Dinopedia",
+                "ro": "Dinopedia",
+                "en": "Dinopedia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den Dinopark in der ruhigen Wintersaison; tragen Sie warme Schichten, da es im Freien sehr kühl wird.",
+                "hu": "Fedezze fel a dinóparkot a csendes téli szezonban; öltözzön rétegesen, mivel a szabadtéri részeken nagyon hideg van.",
+                "ro": "Explorați parcul de dinozauri în sezonul liniștit de iarnă; îmbrăcați-vă în straturi, deoarece secțiunile în aer liber sunt foarte reci.",
+                "en": "Explore the dinosaur park in the quiet winter season; dress in warm layers as the outdoor sections get very chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Retenue D.F.C.I. du Gros du Lac",
+                "hu": "Retenue D.F.C.I. du Gros du Lac",
+                "ro": "Retenue D.F.C.I. du Gros du Lac",
+                "en": "Retenue D.F.C.I. du Gros du Lac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine Fahrt zu diesem See für schöne Winterlandschaften, aber achten Sie auf vereiste Stellen auf den Zufahrtsstraßen.",
+                "hu": "Élvezze a tóhoz vezető utat a gyönyörű téli tájért, de ügyeljen a bekötőutak jeges szakaszaira.",
+                "ro": "Bucurați-vă de o plimbare spre acest lac pentru peisaje frumoase de iarnă, dar atenție la porțiunile înghețate de pe drumurile de acces.",
+                "en": "Enjoy a peaceful drive to this lake for beautiful winter scenery, but watch out for icy patches on the access roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

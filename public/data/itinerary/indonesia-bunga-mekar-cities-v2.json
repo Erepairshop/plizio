@@ -160,6 +160,196 @@
         "hu": "A reggel az ikonikus Kelingking kilátónál kezdődik, majd egy meredek túra következik a strandra. Délben egy elhagyatott házhoz teszünk kitérőt, mielőtt elérjük az Extreme Park Bali izgalmait. Délután a zord nyugati partvidéken kanyarogva lazul a tempó. A nap békésen zárul a Lumangan strandon, ahol lenyűgöző, rejtett sziklamedencék várják, hogy felfedezzük őket a tengerparton.",
         "ro": "Dimineața începe la faimosul punct de belvedere Kelingking, urmat de o drumeție pe plajă. La amiază vizitați o casă abandonată înainte de a ajunge la Extreme Park Bali. După-amiaza, călătoria devine mai liniștită, urmărind coasta vestică stâncoasă. Ziua se încheie pașnic la plaja Lumangan, unde piscinele naturale ascunse în stânci așteaptă să fie explorate în ritm relaxat.",
         "en": "Morning begins at the iconic Kelingking viewpoint, followed by a rewarding but steep hike down to its pristine beach. Midday offers a quirky detour to an abandoned house before reaching the thrills of Extreme Park Bali. In the afternoon, the journey mellows out by tracing the rugged western coastline. The day concludes peacefully at Lumangan Beach, where hidden rock pools await exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt neblig an den Klippen; die Aussicht ist dramatisch, aber die Sicht wechselhaft. Nutzen Sie einen Poncho. Mittags sind tropische Regengüsse häufig, suchen Sie Schutz in der Nähe der Wanderwege. Nachmittags werden die Pfade schlammig und rutschig; wandern Sie vorsichtig. Am Abend intensiviert sich der Regen, eine frühe Rückkehr zur Unterkunft ist die sicherste Wahl.",
+            "hu": "A reggel ködös a szikláknál, a látvány drámai, de a látási viszonyok változékonyak. Használjon esőpelerint. Délben gyakoriak a trópusi záporok, keressen menedéket az ösvények bejáratánál. Délután az utak sárossá és csúszóssá válnak, túrázzon óvatosan és stabil lábbeliben. Estére az eső felerősödik, így a biztonság érdekében érdemes korán visszatérni a szállásra.",
+            "ro": "Dimineața începe cu ceață pe stânci; vederea este dramatică, dar vizibilitatea fluctuează. Folosiți un poncho. La prânz, aversele tropicale sunt frecvente, așa că găsiți adăpost lângă intrările pe trasee. După-amiaza potecile devin noroioase și alunecoase; mergeți cu prudență. Seara, ploaia se intensifică, făcând întoarcerea timpurie la cazare cea mai sigură alegere.",
+            "en": "Morning starts with misty cliffs; the view is dramatic but visibility fluctuates. Use a poncho. Midday, tropical downpours are common, so find shelter near the trail entrances. Afternoon paths to the beaches become muddy and slippery; trek with caution and sturdy footwear. By evening, the rain intensifies, making an early return to your accommodation the safest choice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kelingking Aussichtspunkt",
+                "hu": "Kelingking naplemente kilátó",
+                "ro": "Punct de belvedere Kelingking",
+                "en": "Kelingking sunset view point"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad ist bei Regen sehr rutschig; tragen Sie griffige Wanderschuhe und warten Sie kurze Schauer unter den kleinen Unterständen am Eingang ab.",
+                "hu": "Az ösvény esőben rendkívül csúszós, ezért viseljen tapadós túracipőt, és várja meg a rövidebb záporok végét a bejáratnál lévő kis beülők alatt.",
+                "ro": "Poteca este foarte alunecoasă pe ploaie; purtați pantofi de drumeție cu aderență și așteptați trecerea scurtelor averse sub micile adăposturi de la intrare.",
+                "en": "The path is very slippery in the rain; wear high-grip hiking shoes and wait out short showers under the small shelters located at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Strand",
+                "hu": "Kelingking strand",
+                "ro": "Plaja Kelingking",
+                "en": "Kelingking Beach"
+              },
+              "tip_5lang": {
+                "de": "Der steile Abstieg ist bei Nässe gefährlich; steigen Sie nur bei leichtem Regen hinunter und halten Sie beide Hände für die Geländer frei.",
+                "hu": "A meredek lejutás nedves időben veszélyes; csak szemerkélő esőben induljon el, és tartsa szabadon mindkét kezét a korlátok használatához.",
+                "ro": "Coborârea abruptă este periculoasă pe umezeală; coborâți doar dacă plouă ușor și păstrați ambele mâini libere pentru a folosi balustradele.",
+                "en": "The steep descent is dangerous when wet; only attempt to go down during light drizzle and keep both hands free to use the safety railings."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlassenes Haus",
+                "hu": "Elhagyatott ház",
+                "ro": "Casa abandonată",
+                "en": "Maisn abandonnée"
+              },
+              "tip_5lang": {
+                "de": "Das alte Gebäude bietet einen guten kurzzeitigen Schutz vor Regen, aber achten Sie auf lose Deckenteile und rutschige Bodenfliesen im Inneren.",
+                "hu": "A régi épület kiváló rövid távú menedéket nyújt az eső elől, de ügyeljen a meglazult tetőelemekre és a benti csúszós padlólapokra.",
+                "ro": "Vechea clădire oferă un adăpost temporar bun împotriva ploii, dar aveți grijă la elementele de tavan desprinse și la plăcile de pardoseală alunecoase.",
+                "en": "The old building provides good short-term shelter from the rain, but watch out for loose ceiling parts and slippery floor tiles inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Extreme Park Bali",
+                "hu": "Extreme Park Bali",
+                "ro": "Extreme Park Bali",
+                "en": "Extreme Park Bali"
+              },
+              "tip_5lang": {
+                "de": "Viele Aktivitäten sind wetterabhängig; nutzen Sie die überdachten Bereiche für Fotos und fragen Sie nach Regenrabatten für die Schaukeln.",
+                "hu": "Sok tevékenység időjárásfüggő; használja a fedett részeket fotózáshoz, és kérdezzen rá az esős napi kedvezményekre a hinták használatakor.",
+                "ro": "Multe activități depind de vreme; folosiți zonele acoperite pentru fotografii și întrebați de reducerile pentru ploaie la utilizarea leagănelor.",
+                "en": "Many activities are weather-dependent; use the covered areas for photos and ask about rainy-day discounts for using the swings."
+              }
+            },
+            {
+              "name": {
+                "de": "Bulian Strand",
+                "hu": "Bulian strand",
+                "ro": "Plaja Bulian",
+                "en": "Bulian Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand wird fest und lässt sich schwerer begehen; suchen Sie Schutz unter den Kalksteinfelsen, um das tosende Meer trocken zu beobachten.",
+                "hu": "A homok keményebbé válik és nehezebb rajta járni; keressen menedéket a mészkősziklák alatt, hogy szárazon figyelhesse a morajló tengert.",
+                "ro": "Nisipul devine mai tare și mai greu de parcurs; căutați adăpost sub stâncile de calcar pentru a observa marea învolburată stând la uscat.",
+                "en": "The sand becomes firm and harder to walk on; seek shelter under the limestone overhangs to watch the crashing waves while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lumangan Strand",
+                "hu": "Lumangan strand",
+                "ro": "Plaja Lumangan",
+                "en": "Lumangan Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeitenbecken füllen sich schnell mit Regenwasser; bleiben Sie in der Nähe der Höhleneingänge, um bei plötzlichen Güssen trocken zu bleiben.",
+                "hu": "Az árapálymedencék gyorsan megtelnek esővízzel; maradjon a barlangbejáratok közelében, hogy hirtelen felhőszakadás esetén száraz maradhasson.",
+                "ro": "Bazinele naturale se umplu rapid cu apă de ploaie; rămâneți aproape de intrările în peșteri pentru a nu vă uda în caz de aversă bruscă.",
+                "en": "The tide pools fill quickly with rainwater; stay near the cave entrances to remain dry in case of a sudden tropical downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen ist erfrischend kühl, ideal für den Abstieg ohne die intensive Hitze. Mittags sorgt eine sanfte Brise für eine angenehme Küstenwanderung. Das Licht wird am Nachmittag früher golden, perfekt für Fotos vor der schnellen Dämmerung. Abends bricht die Dunkelheit gegen 17:00 Uhr ein; verlassen Sie die Pfade rechtzeitig, bevor es im Dschungel stockfinster wird.",
+            "hu": "A reggel frissítően hűvös, ideális a sziklák megmászásához az intenzív hőség nélkül. Délben enyhe szellő teszi kellemessé a parti sétát. Délután a fények korábban válnak aranyossá, tökéletes fotózáshoz a gyors alkonyat előtt. Este 17:00 körül besötétedik; hagyja el az ösvényeket időben, mielőtt a dzsungelben teljesen sötét lesz.",
+            "ro": "Dimineața este revigorant de răcoroasă, ideală pentru coborâre fără căldura intensă. La prânz, o briză ușoară face plimbarea pe coastă mult mai plăcută. Lumina devine aurie mai devreme, perfectă pentru poze înainte de amurgul rapid. Seara se întunecă în jur de ora 17:00; părăsiți potecile la timp înainte de lăsarea întunericului.",
+            "en": "Morning is refreshingly cool, ideal for the hike down without the intense heat. Midday provides a gentle breeze, making the coastal walk much more pleasant. Afternoon light turns golden earlier, ideal for photos before the quick dusk. Evening arrives by 5 PM; ensure you are off the trails before the sudden darkness sets in the jungle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kelingking Aussichtspunkt",
+                "hu": "Kelingking naplemente kilátó",
+                "ro": "Punct de belvedere Kelingking",
+                "en": "Kelingking sunset view point"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, da die Sonne tiefer steht und lange Schatten wirft; eine leichte Jacke schützt Sie vor dem kühlen Wind an der Kante.",
+                "hu": "Érkezzen korán, mert a nap alacsonyabban jár és hosszú árnyékokat vet; egy könnyű dzseki megvédi a peremen fújó hűvös széltől.",
+                "ro": "Veniți devreme deoarece soarele este mai jos și lasă umbre lungi; o jachetă ușoară vă va proteja de vântul răcoros de pe margine.",
+                "en": "Arrive early as the sun is lower and casts long shadows; a light jacket will protect you from the cool breeze blowing at the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Strand",
+                "hu": "Kelingking strand",
+                "ro": "Plaja Kelingking",
+                "en": "Kelingking Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist mittags nicht so heiß wie im Sommer; genießen Sie den Aufstieg in der kühleren Luft, was die Anstrengung deutlich reduziert.",
+                "hu": "A homok délben sem olyan forró, mint nyáron; élvezze a visszamászást a hűvösebb levegőben, ami jelentősen csökkenti a fizikai megterhelést.",
+                "ro": "Nisipul nu este la fel de fierbinte la prânz ca vara; bucurați-vă de urcare în aerul mai răcoros, ceea ce reduce considerabil efortul fizic.",
+                "en": "The sand is not as hot at midday as in summer; enjoy the climb back up in the cooler air, which significantly reduces physical exhaustion."
+              }
+            },
+            {
+              "name": {
+                "de": "Verlassenes Haus",
+                "hu": "Elhagyatott ház",
+                "ro": "Casa abandonată",
+                "en": "Maisn abandonnée"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Innentemperaturen laden zum Verweilen ein; nutzen Sie das weiche Nachmittagslicht für stimmungsvolle Porträts in den Ruinen.",
+                "hu": "A hűvösebb benti hőmérséklet maradásra csábít; használja ki a lágy délutáni fényeket hangulatos portrék készítéséhez a romok között.",
+                "ro": "Temperaturile interioare mai scăzute vă invită să zăboviți; profitați de lumina caldă de după-amiază pentru portrete reușite printre ruine.",
+                "en": "The cooler indoor temperatures invite you to linger; take advantage of the soft afternoon light for atmospheric portraits among the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Extreme Park Bali",
+                "hu": "Extreme Park Bali",
+                "ro": "Extreme Park Bali",
+                "en": "Extreme Park Bali"
+              },
+              "tip_5lang": {
+                "de": "Die Luftfeuchtigkeit ist niedriger, was die Aktivitäten angenehmer macht; planen Sie Ihren Besuch vor 16 Uhr, um das beste Licht zu nutzen.",
+                "hu": "A páratartalom alacsonyabb, ami kellemesebbé teszi a mozgást; tervezze a látogatást 16 óra elé, hogy kihasználja a legjobb fényviszonyokat.",
+                "ro": "Umiditatea este mai scăzută, ceea ce face activitățile mai plăcute; planificați vizita înainte de ora 16 pentru a prinde cea mai bună lumină.",
+                "en": "The humidity is lower, making activities much more comfortable; plan your visit before 4 PM to take advantage of the best lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Bulian Strand",
+                "hu": "Bulian strand",
+                "ro": "Plaja Bulian",
+                "en": "Bulian Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann etwas kühler sein, aber die Sonne ist sanfter; ideal für ein Picknick am Strand ohne die Gefahr eines Hitzschlags.",
+                "hu": "A víz kicsit hűvösebb lehet, de a nap sugárzása gyengébb; ideális helyszín egy tengerparti piknikhez a napszúrás veszélye nélkül.",
+                "ro": "Apa poate fi puțin mai rece, dar soarele este mai blând; locație ideală pentru un picnic pe plajă fără riscul de a face insolație.",
+                "en": "The water might be slightly cooler, but the sun is gentler; an ideal spot for a beach picnic without the risk of getting heatstroke."
+              }
+            },
+            {
+              "name": {
+                "de": "Lumangan Strand",
+                "hu": "Lumangan strand",
+                "ro": "Plaja Lumangan",
+                "en": "Lumangan Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang direkt von den Klippen oberhalb des Strandes; bringen Sie eine Taschenlampe für den Rückweg mit.",
+                "hu": "Nézze meg a korai naplementét közvetlenül a strand feletti sziklákról; hozzon magával zseblámpát a visszaúthoz a sötétedés miatt.",
+                "ro": "Urmăriți apusul timpuriu direct de pe stâncile de deasupra plajei; aduceți o lanternă pentru drumul de întoarcere din cauza întunericului.",
+                "en": "Watch the early sunset directly from the cliffs above the beach; bring a flashlight for the return trip as it gets dark very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a túrát a fenséges Kelingking kilátónál, mielőtt leereszkedik az öbölbe. Délben biciklizzen délre a Bana sziklához és a drámai Banah kőívhez. Délután egy festői tengerparti tekerés következik északnyugat felé a Tare lagúna türkizkék vizéhez. Az este a Manta Pointnál érkezik el, amely tökéletes lehetőséget nyújt a tengeri élőlények megfigyelésére a zord sziklákról.",
         "ro": "Începeți plimbarea la maiestuosul punct de belvedere Kelingking înainte de a coborî spre golf. La amiază, pedalați spre sud spre Bana Cliff și arcul de stâncă Banah. După-amiaza implică o pedalare pitorească spre nord-vest către apele turcoaz ale Lagunei Tare. Seara sosiți la Manta Point, oferind ocazia perfectă de a observa viața marină de pe stâncile abrupte uluitoare.",
         "en": "Kick off your ride at the majestic Kelingking viewpoint before taking a strenuous hike down to the bay. By midday, cycle south to Bana Cliff and the dramatic Banah rock arch. The afternoon involves a scenic coastal pedal northwest towards the turquoise waters of Tare Lagoon. Evening arrives at Manta Point, offering the perfect opportunity to spot marine life from the rugged cliffs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren auf nassen Straßen erfordert volle Konzentration und reduzierte Geschwindigkeit. Morgens ist der Asphalt besonders rutschig. Mittags können Sie unter Vordächern lokaler Warungs pausieren. Nachmittags kühlt der Regen die Luft ab, was das Treten erleichtert, aber die Sicht verschlechtert. Abends sollten Sie vor dem stärksten Regen sicher am Ziel ankommen.",
+            "hu": "A vizes utakon való biciklizés teljes koncentrációt és lassabb tempót igényel. Reggel az aszfalt különösen csúszós. Délben tartson szünetet a helyi kifőzdék előtetői alatt. Délután az eső lehűti a levegőt, ami könnyíti a tekerést, de rontja a látási viszonyokat. Estére érjen biztonságban a célhoz a legerősebb esőzés előtt.",
+            "ro": "Mersul pe bicicletă pe drumuri ude necesită concentrare maximă și viteză redusă. Dimineața asfaltul este deosebit de alunecos. La prânz puteți lua pauze sub copertinele localurilor. După-amiaza ploaia răcorește aerul, ușurând pedalatul, dar scade vizibilitatea. Seara ajungeți la destinație înainte de ploaia torențială.",
+            "en": "Cycling on wet roads requires full concentration and reduced speed. In the morning, the asphalt is especially slippery. At midday, take breaks under the canopies of local eateries. In the afternoon, the rain cools the air, making pedaling easier but worsening visibility. By evening, arrive safely at your destination before the heaviest downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kelingking Aussichtspunkt",
+                "hu": "Kelingking naplemente kilátó",
+                "ro": "Punct de belvedere Kelingking",
+                "en": "Kelingking sunset view point"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund, um ein Umkippen im Schlamm zu vermeiden, und decken Sie den Sattel mit einer Plastiktüte ab.",
+                "hu": "Parkolja a biciklit szilárd talajon, hogy ne dőljön el a sárban, és takarja le a nyerget egy nejlonzacskóval az elázás ellen.",
+                "ro": "Parcați bicicleta pe teren solid pentru a nu se răsturna în noroi și acoperiți șaua cu o pungă de plastic împotriva ploii.",
+                "en": "Park your bike on solid ground to prevent it from tipping over in the mud, and cover the seat with a plastic bag to keep it dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Strand",
+                "hu": "Kelingking strand",
+                "ro": "Plaja Kelingking",
+                "en": "Kelingking Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Wertsachen im wasserdichten Rucksack am Rad, wenn Sie den Abstieg wagen, da der Regen am Hang sehr plötzlich kommen kann.",
+                "hu": "Hagyja értékeit vízhatlan hátizsákban a biciklinél, ha leereszkedik, mivel a hegyoldalban az eső nagyon hirtelen érkezhet meg.",
+                "ro": "Lăsați obiectele de valoare într-un rucsac impermeabil la bicicletă dacă coborâți, deoarece ploaia pe versant poate veni foarte brusc.",
+                "en": "Leave your valuables in a waterproof backpack with your bike if you descend, as rain on the hillside can arrive very suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bana Klippen-Aussicht",
+                "hu": "Bana szikla kilátó",
+                "ro": "Punct de belvedere Bana Cliff",
+                "en": "Bana Cliff viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist schmal und kurvig; bremsen Sie frühzeitig vor den Kurven, da die Bremswirkung auf nasser Fahrbahn deutlich nachlässt.",
+                "hu": "Az odavezető út szűk és kanyargós; fékezzen időben a kanyarok előtt, mivel a fékhatás vizes úton jelentősen lecsökkenhet.",
+                "ro": "Drumul de acces este îngust și virajat; frânați din timp înainte de curbe, deoarece eficiența frânelor scade semnificativ pe carosabil ud.",
+                "en": "The access road is narrow and winding; brake early before turns, as braking effectiveness decreases significantly on wet pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangspunkt",
+                "hu": "Naplemente pont",
+                "ro": "Punctul de apus",
+                "en": "Sunset point"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie keinen klaren Sonnenuntergang, aber genießen Sie die dramatische Wolkenstimmung; halten Sie Lichter am Rad für die Rückfahrt bereit.",
+                "hu": "Ne számítson tiszta naplementére, de élvezze a drámai felhőket; készítse elő a bicikli lámpáit a szürkületi visszaúthoz.",
+                "ro": "Nu vă așteptați la un apus senin, dar bucurați-vă de norii dramatici; pregătiți luminile bicicletei pentru drumul de întoarcere pe amurg.",
+                "en": "Don't expect a clear sunset, but enjoy the dramatic cloud formations; have your bike lights ready for the ride back in the gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Banah Klippe",
+                "hu": "Banah szikla",
+                "ro": "Stânca Banah",
+                "en": "Banah Cliff"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, zu nah an die Kante zu treten, da der Boden durch den Regen unterspült sein könnte; bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Kerülje el, hogy túl közel lépjen a peremhez, mert a talaj az esőtől fellazulhatott; maradjon a kijelölt, szilárdabb ösvényeken.",
+                "ro": "Evitați să vă apropiați prea mult de margine, deoarece solul poate fi instabil din cauza ploii; rămâneți pe potecile marcate și solide.",
+                "en": "Avoid stepping too close to the edge as the ground might be eroded by rain; stay on the designated and more solid paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Tare Lagune",
+                "hu": "Tare lagúna",
+                "ro": "Laguna Tare",
+                "en": "Tare Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Lagune kann kleine Bäche bilden; fahren Sie langsam durch Pfützen, um versteckte Schlaglöcher im Asphalt zu vermeiden.",
+                "hu": "A lagúnához vezető úton kis patakok alakulhatnak ki; hajtson lassan a tócsákba, hogy elkerülje az aszfaltban lévő rejtett kátyúkat.",
+                "ro": "Drumul spre lagună poate forma mici pârâuri; conduceți încet prin bălți pentru a evita gropile ascunse în stratul de asfalt.",
+                "en": "The road to the lagoon may form small streams; ride slowly through puddles to avoid hidden potholes in the asphalt surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Manta Point",
+                "hu": "Manta Point",
+                "ro": "Punctul Manta",
+                "en": "Manta Point"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist windanfällig; halten Sie den Lenker bei Böen fest umschlossen und achten Sie auf herabfallende Äste auf der Fahrbahn.",
+                "hu": "A parti út szeles lehet; tartsa erősen a kormányt a széllökéseknél, és figyeljen az úttestre hullott faágakra az eső után.",
+                "ro": "Drumul de coastă este expus vântului; țineți bine ghidonul la rafale și fiți atenți la crengile căzute pe carosabil după ploaie.",
+                "en": "The coastal road is prone to wind; grip the handlebars firmly during gusts and watch out for fallen branches on the road after the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenluft macht den Start der Radtour belebend. Mittags scheint die Sonne angenehm warm, ohne zu brennen, was lange Fahrten ermöglicht. Am Nachmittag sollten Sie die Distanzen im Blick behalten, da das Tageslicht schnell schwindet. Der Abend beginnt früh; tragen Sie reflektierende Kleidung und stellen Sie sicher, dass Ihre Scheinwerfer voll funktionsfähig sind.",
+            "hu": "A hűvös reggeli levegő frissítővé teszi a biciklitúra indítását. Délben a nap kellemesen melegít anélkül, hogy égetne, így hosszabb távok is megtehetők. Délután ügyeljen a távolságokra, mert a nappali fény gyorsan eltűnik. Az este korán kezdődik; viseljen fényvisszaverő ruházatot és ellenőrizze a lámpákat.",
+            "ro": "Aerul răcoros de dimineață face startul turului cu bicicleta revigorant. La prânz soarele încălzește plăcut fără să ardă, permițând trasee lungi. După-amiaza aveți grijă la distanțe, deoarece lumina zilei dispare repede. Seara începe devreme; purtați haine reflectorizante și asigurați-vă că farurile funcționează.",
+            "en": "Cool morning air makes the start of the bike tour invigorating. At midday, the sun warms pleasantly without burning, allowing for longer rides. In the afternoon, keep an eye on distances as daylight fades quickly. Evening begins early; wear reflective clothing and ensure your lights are fully functional before it gets dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kelingking Aussichtspunkt",
+                "hu": "Kelingking naplemente kilátó",
+                "ro": "Punct de belvedere Kelingking",
+                "en": "Kelingking sunset view point"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühleren Temperaturen für Fotos ohne Schweißperlen; Parkplätze für Räder sind in der Nebensaison leichter zu finden.",
+                "hu": "Használja ki a hűvösebb időt az izzadságcseppek nélküli fotózáshoz; a bicikli-parkolókban ilyenkor sokkal könnyebb szabad helyet találni.",
+                "ro": "Profitați de temperaturile mai scăzute pentru poze fără efort; locurile de parcare pentru biciclete sunt mai ușor de găsit în extrasezon.",
+                "en": "Take advantage of the cooler temperatures for photos without sweating; bike parking spots are much easier to find during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Strand",
+                "hu": "Kelingking strand",
+                "ro": "Plaja Kelingking",
+                "en": "Kelingking Beach"
+              },
+              "tip_5lang": {
+                "de": "Die moderate Sonne erlaubt einen längeren Aufenthalt am Strand; packen Sie ein Handtuch ein, um sich nach dem Bad schnell abzutrocknen.",
+                "hu": "A mérsékelt napsütés hosszabb tengerparti tartózkodást tesz lehetővé; vigyen törölközőt, hogy fürdés után gyorsan megszáradhasson.",
+                "ro": "Soarele moderat permite o ședere mai lungă pe plajă; luați un prosop pentru a vă usca rapid după baie din cauza brizei răcoroase.",
+                "en": "The moderate sun allows for a longer stay on the beach; pack a towel to dry off quickly after a swim due to the cooler winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Bana Klippen-Aussicht",
+                "hu": "Bana szikla kilátó",
+                "ro": "Punct de belvedere Bana Cliff",
+                "en": "Bana Cliff viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft klarer; bringen Sie ein Fernglas mit, um die Schiffe am Horizont besser beobachten zu können.",
+                "hu": "A távoli kilátás télen gyakran tisztább; hozzon magával távcsövet, hogy jobban megfigyelhesse a horizonton elhaladó hajókat.",
+                "ro": "Vizibilitatea la distanță este adesea mai clară iarna; aduceți un binoclu pentru a observa mai bine navele de la orizont.",
+                "en": "The distant view is often clearer in winter; bring binoculars to better observe the ships passing on the far horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangspunkt",
+                "hu": "Naplemente pont",
+                "ro": "Punctul de apus",
+                "en": "Sunset point"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 16:45 Uhr hier, um das gesamte Farbspektrum zu sehen; die Farben sind in der trockeneren Luft intensiver.",
+                "hu": "Legyen itt legkésőbb 16:45-re, hogy lássa a teljes színspektrumot; a színek a szárazabb levegőben sokkal intenzívebbek ilyenkor.",
+                "ro": "Fiți aici cel târziu la 16:45 pentru a vedea spectrul complet de culori; nuanțele sunt mai intense în aerul mai uscat de iarnă.",
+                "en": "Be here by 4:45 PM at the latest to see the full color spectrum; the colors are much more intense in the drier winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Banah Klippe",
+                "hu": "Banah szikla",
+                "ro": "Stânca Banah",
+                "en": "Banah Cliff"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben stark wehen; eine windfeste Weste ist beim Radfahren und an der Aussichtsplattform sehr zu empfehlen.",
+                "hu": "A szél itt fent erősen fújhat; egy szélálló mellény viselése a tekeréskor és a kilátónál is kifejezetten ajánlott ebben az időben.",
+                "ro": "Vântul poate bate cu putere aici sus; purtarea unei veste rezistente la vânt este recomandată atât la pedalat, cât și la punctul de belvedere.",
+                "en": "The wind can blow strongly up here; wearing a windproof vest is highly recommended both for cycling and at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Tare Lagune",
+                "hu": "Tare lagúna",
+                "ro": "Laguna Tare",
+                "en": "Tare Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist ruhig und glasklar; perfekt für Fotos von den Reflexionen der Kalksteinfelsen im sanften Winterlicht.",
+                "hu": "A víz nyugodt és kristálytiszta; tökéletes a mészkősziklák tükröződésének fotózásához a lágy téli fényviszonyok mellett.",
+                "ro": "Apa este calmă și cristalină; perfectă pentru fotografierea reflexiilor stâncilor de calcar în lumina blândă a iernii.",
+                "en": "The water is calm and crystal clear; perfect for photographing the reflections of the limestone cliffs in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Manta Point",
+                "hu": "Manta Point",
+                "ro": "Punctul Manta",
+                "en": "Manta Point"
+              },
+              "tip_5lang": {
+                "de": "Die Mantarochen sind oft nah an der Oberfläche zu sehen; planen Sie den Rückweg so, dass Sie vor Einbruch der Dunkelheit im Dorf sind.",
+                "hu": "A manta ráják gyakran láthatók a felszín közelében; tervezze úgy a visszautat, hogy sötétedés előtt beérjen a lakott területre.",
+                "ro": "Diavolii de mare pot fi văzuți adesea aproape de suprafață; planificați drumul de întoarcere pentru a ajunge în sat înainte de întuneric.",
+                "en": "Manta rays are often visible near the surface; plan your return journey to reach the village before the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje a festői autózást a Manta Pointnál, majd pihenjen az eldugott Lumangan strandon. A dél kalandot hoz az Extreme Park Balin, amit a híres Kelingking szikla lenyűgöző kilátása követ. Délután ereszkedjen le a Kelingking strand érintetlen homokjára. Ahogy közeledik az este, vezessen délre a Banah sziklához, és zárja a napot egy látványos tengerparti naplementével.",
         "ro": "Începeți condusul pitoresc la Manta Point, înainte de a vă relaxa la plaja izolată Lumangan. Amiaza aduce aventură la Extreme Park Bali, urmată de priveliștile de la faimoasa stâncă Kelingking. După-amiaza, coborâți pe nisipurile imaculate ale plajei Kelingking. Spre seară, conduceți spre sud la Banah Cliff și încheiați cu un apus de soare de coastă cu adevărat spectaculos.",
         "en": "Start your scenic drive at Manta Point, scanning the ocean before relaxing at the secluded Lumangan Beach. Midday brings adventure at Extreme Park Bali, followed by the breathtaking vistas of the famous Kelingking Cliff. In the afternoon, descend to the pristine sands of Kelingking Beach. As evening approaches, drive south to Banah Cliff and end with a spectacular coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt bietet den besten Komfort bei tropischem Regen. Morgens können Sie die Aussicht trocken genießen, während es draußen stürmt. Mittags ist das Parken in der Nähe der Eingänge von Vorteil. Nachmittags können Straßenabschnitte überflutet sein; fahren Sie langsam. Abends ist die Sicht durch den Regen eingeschränkt, nutzen Sie die Nebelscheinwerfer für mehr Sicherheit.",
+            "hu": "Az autózás nyújtja a legnagyobb kényelmet trópusi esőben. Reggel szárazon élvezheti a kilátást, miközben kint tombol a vihar. Délben előnyös a bejáratokhoz közeli parkolás. Délután egyes útszakaszok víz alá kerülhetnek, ezért haladjon lassan. Este a látási viszonyok korlátozottak az eső miatt, használja a ködlámpákat a nagyobb biztonságért.",
+            "ro": "Călătoria cu mașina oferă cel mai bun confort pe ploaie tropicală. Dimineața vă puteți bucura de priveliște stând la uscat. La prânz parcarea aproape de intrări este un avantaj. După-amiaza unele porțiuni de drum pot fi inundate; conduceți încet. Seara vizibilitatea este limitată de ploaie, folosiți luminile de ceață pentru siguranță.",
+            "en": "Traveling by car offers the best comfort during tropical rain. In the morning, enjoy the views while staying dry. At midday, parking close to the entrances is a major advantage. In the afternoon, some road sections may be flooded, so drive slowly. By evening, visibility is limited by the rain, so use fog lights for increased safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manta Point",
+                "hu": "Manta Point",
+                "ro": "Punctul Manta",
+                "en": "Manta Point"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer bequem aus dem Auto; die hohen Wellen am Manta Point sind bei Sturm ein beeindruckendes Schauspiel.",
+                "hu": "Figyelje a felkorbácsolt tengert kényelmesen az autóból; a Manta Pointnál a magas hullámok viharos időben lenyűgöző látványt nyújtanak.",
+                "ro": "Observați marea agitată confortabil din mașină; valurile înalte de la Manta Point sunt un spectacol impresionant pe timp de furtună.",
+                "en": "Watch the churning sea comfortably from the car; the high waves at Manta Point are an impressive sight during stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Lumangan Strand",
+                "hu": "Lumangan strand",
+                "ro": "Plaja Lumangan",
+                "en": "Lumangan Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann matschig sein; lassen Sie den Motor nicht im Leerlauf, wenn Sie kurz aussteigen, um Fotos von der Höhle zu machen.",
+                "hu": "Az odavezető út sáros lehet; ne hagyja az autót járó motorral, ha csak rövid időre ugrik ki fotózni a barlangbejáratnál.",
+                "ro": "Drumul de acces poate fi noroios; nu lăsați motorul pornit dacă ieșiți doar scurt timp pentru a face poze la intrarea peșterii.",
+                "en": "The access road can be muddy; do not leave the car idling if you step out briefly to take photos at the cave entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Extreme Park Bali",
+                "hu": "Extreme Park Bali",
+                "ro": "Extreme Park Bali",
+                "en": "Extreme Park Bali"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Gelände, um den Weg im Regen zu minimieren; im Café des Parks können Sie Regenschauer gemütlich abwarten.",
+                "hu": "Használja a közvetlenül a park melletti parkolót, hogy minimalizálja az esőben való gyaloglást; a park kávézójában kényelmesen megvárhatja a záport.",
+                "ro": "Folosiți parcarea de lângă parc pentru a minimiza mersul prin ploaie; în cafeneaua parcului puteți aștepta confortabil trecerea averselor.",
+                "en": "Use the parking lot directly next to the grounds to minimize walking in the rain; you can comfortably wait out showers in the park's cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Aussichtspunkt",
+                "hu": "Kelingking naplemente kilátó",
+                "ro": "Punct de belvedere Kelingking",
+                "en": "Kelingking sunset view point"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm im Auto bereit; der Weg vom Parkplatz zum Aussichtspunkt ist kurz, aber ungeschützt vor vertikalem Regen.",
+                "hu": "Tartson esernyőt az autóban; a parkolótól a kilátóig vezető út rövid, de teljesen védtelen a hirtelen lezúduló trópusi esővel szemben.",
+                "ro": "Țineți o umbrelă în mașină; drumul de la parcare la punctul de belvedere este scurt, dar neprotejat de ploaia torențială bruscă.",
+                "en": "Keep an umbrella in the car; the path from the parking lot to the viewpoint is short but completely unprotected from sudden tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Strand",
+                "hu": "Kelingking strand",
+                "ro": "Plaja Kelingking",
+                "en": "Kelingking Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Abstieg nicht ratsam; genießen Sie die Aussicht auf die 'Dinosaurier-Bucht' durch die Scheibe bei einer Kaffeepause.",
+                "hu": "Erős esőben a lejutás nem javasolt; élvezze a „Dinoszaurusz-öböl” látványát az autó ablakából egy kényelmes kávészünet közben.",
+                "ro": "Pe ploaie puternică coborârea nu este recomandată; bucurați-vă de vederea golfului prin geamul mașinii în timpul unei pauze de cafea.",
+                "en": "Descending is not advised during heavy rain; enjoy the view of 'Dinosaur Bay' through the car window during a relaxed coffee break."
+              }
+            },
+            {
+              "name": {
+                "de": "Banah Klippe",
+                "hu": "Banah szikla",
+                "ro": "Stânca Banah",
+                "en": "Banah Cliff"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zur Banah Klippe ist bei Nässe rutschig; achten Sie auf entgegenkommende Mopeds, die bei Regen oft unsicher fahren.",
+                "hu": "A Banah-sziklához vezető út nedvesen csúszós; figyeljen a szembejövő motorosokra, akik esőben gyakran bizonytalanul közlekednek.",
+                "ro": "Drumul spre stânca Banah este alunecos pe umezeală; fiți atenți la motocicliștii care vin din sens opus și pot circula nesigur pe ploaie.",
+                "en": "The road to Banah Cliff is slippery when wet; watch out for oncoming scooters, which often drive erratically during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangspunkt",
+                "hu": "Naplemente pont",
+                "ro": "Punctul de apus",
+                "en": "Sunset point"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie im Auto auf Regenpausen, um für Fotos kurz auszusteigen; die Beleuchtung des Autos hilft beim Rangieren auf dunklen Parkplätzen.",
+                "hu": "Várja meg az autóban az esőszüneteket a fotózáshoz; az autó fényszórói nagy segítséget jelentenek a sötét parkolókban való manőverezéskor.",
+                "ro": "Așteptați în mașină pauzele de ploaie pentru fotografii; farurile mașinii ajută mult la manevrarea în parcările întunecate pe timp de seară.",
+                "en": "Wait in the car for breaks in the rain to take photos; the car's headlights will help significantly when maneuvering in dark parking lots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Winterluft mit heruntergelassenen Fenstern während der Fahrt. Morgens ist das Licht sanft und perfekt für die erste Etappe. Mittags bleibt der Innenraum angenehm temperiert, ohne dass die Klimaanlage auf Hochtouren laufen muss. Nachmittags rückt der Sonnenuntergang näher; planen Sie Ihre Route so, dass Sie rechtzeitig an den Klippen sind. Abends ist die Rückfahrt im Dunkeln komfortabel.",
+            "hu": "Élvezze a hűvös téli levegőt leengedett ablakokkal menet közben. Reggel a fények lágyak, tökéletesek az első szakaszhoz. Délben az autó utastere kellemes marad anélkül, hogy a klímát maximumon kellene járatni. Délután közeledik a naplemente; tervezze úgy az utat, hogy időben a sziklákhoz érjen. Este a sötétben való visszavezetés kényelmes az autóban.",
+            "ro": "Bucurați-vă de aerul răcoros cu geamurile coborâte în timpul mersului. Dimineața lumina este blândă, perfectă pentru prima etapă. La prânz interiorul mașinii rămâne plăcut fără a folosi aerul condiționat la maximum. După-amiaza apusul se apropie; planificați ruta să ajungeți la timp la stânci. Seara drumul de întoarcere pe întuneric este confortabil.",
+            "en": "Enjoy the cool winter air with the windows down while driving. In the morning, the light is soft and perfect for the first leg. At midday, the car interior stays pleasantly cool without needing the AC on full blast. In the afternoon, sunset approaches earlier; plan your route to reach the cliffs in time. By evening, the drive back in the dark is comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manta Point",
+                "hu": "Manta Point",
+                "ro": "Punctul Manta",
+                "en": "Manta Point"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine fantastische Sicht auf den Ozean; nutzen Sie den Vormittag für scharfe Aufnahmen der Küstenlinie.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást nyújt az óceánra; használja ki a délelőttöt a partvonalról készített éles felvételekhez.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate fantastică asupra oceanului; folosiți dimineața pentru fotografii clare ale liniei de coastă.",
+                "en": "The clear winter air provides fantastic visibility over the ocean; use the morning for sharp shots of the dramatic coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Lumangan Strand",
+                "hu": "Lumangan strand",
+                "ro": "Plaja Lumangan",
+                "en": "Lumangan Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist weniger staubig als im Sommer; genießen Sie den kurzen Spaziergang zum Strand in der angenehm kühlen Brise.",
+                "hu": "A parkoló kevésbé poros, mint nyáron; élvezze a strandhoz vezető rövid sétát a kellemesen hűvös tengerparti szellőben.",
+                "ro": "Parcarea este mai puțin prăfuită decât vara; bucurați-vă de scurta plimbare spre plajă în briza plăcută și răcoroasă a coastei.",
+                "en": "The parking area is less dusty than in summer; enjoy the short walk to the beach in the pleasantly cool and refreshing coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Extreme Park Bali",
+                "hu": "Extreme Park Bali",
+                "ro": "Extreme Park Bali",
+                "en": "Extreme Park Bali"
+              },
+              "tip_5lang": {
+                "de": "Die Temperaturen sind ideal für Außenaktivitäten; bringen Sie eine leichte Strickjacke mit, falls es im Schatten der Bäume kühl wird.",
+                "hu": "A hőmérséklet ideális a szabadtéri tevékenységekhez; hozzon egy könnyű kardigánt, ha a fák árnyékában hűvössé válna az idő.",
+                "ro": "Temperaturile sunt ideale pentru activități în aer liber; aduceți un cardigan ușor în caz că se face răcoare la umbra copacilor.",
+                "en": "Temperatures are ideal for outdoor activities; bring a light cardigan in case it gets cool while standing in the shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Aussichtspunkt",
+                "hu": "Kelingking naplemente kilátó",
+                "ro": "Punct de belvedere Kelingking",
+                "en": "Kelingking sunset view point"
+              },
+              "tip_5lang": {
+                "de": "In der Nebensaison gibt es weniger Stau auf der Zufahrtsstraße; nutzen Sie das goldene Licht kurz vor 17 Uhr für die besten Panoramafotos.",
+                "hu": "A főszezonon kívül kevesebb a forgalmi dugó az odavezető úton; használja ki az 17 óra előtti arany fényeket a legjobb panorámafotókhoz.",
+                "ro": "În afara sezonului este mai puțin trafic pe drumul de acces; profitați de lumina aurie de dinainte de ora 17 pentru cele mai bune panorame.",
+                "en": "Outside peak season, there is less traffic on the access road; take advantage of the golden light just before 5 PM for the best panoramas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kelingking Strand",
+                "hu": "Kelingking strand",
+                "ro": "Plaja Kelingking",
+                "en": "Kelingking Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg ist körperlich weniger anstrengend bei kühlem Wetter; lassen Sie keine Wertsachen sichtbar im Auto auf dem Parkplatz liegen.",
+                "hu": "A lejutás fizikailag kevésbé megterhelő hűvösebb időben; ne hagyjon semmilyen értéket látható helyen az autóban a parkolóban.",
+                "ro": "Coborârea este mai puțin solicitantă fizic pe vreme răcoroasă; nu lăsați obiecte de valoare la vedere în mașină în parcare.",
+                "en": "The descent is physically less taxing in cooler weather; do not leave any valuables visible inside the car while it's parked."
+              }
+            },
+            {
+              "name": {
+                "de": "Banah Klippe",
+                "hu": "Banah szikla",
+                "ro": "Stânca Banah",
+                "en": "Banah Cliff"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Textur der Felsen; ein Stativ hilft Ihnen, die Details der Klippen im schwindenden Licht einzufangen.",
+                "hu": "Az alacsonyan járó nap kiemeli a sziklák textúráját; egy állvány segíthet a sziklafal részleteinek megörökítésében a fogyatkozó fényben.",
+                "ro": "Soarele jos scoate în evidență textura stâncilor; un trepied vă poate ajuta să surprindeți detaliile falezei în lumina care scade.",
+                "en": "The low sun emphasizes the texture of the rocks; a tripod will help you capture the details of the cliffs in the fading winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangspunkt",
+                "hu": "Naplemente pont",
+                "ro": "Punctul de apus",
+                "en": "Sunset point"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet bereits gegen 17:15 Uhr statt; parken Sie das Auto so, dass Sie nach dem Erlebnis schnell und einfach wenden können.",
+                "hu": "A naplemente már 17:15 körül bekövetkezik; úgy parkoljon, hogy az élmény után gyorsan és egyszerűen meg tudjon fordulni a sötétben.",
+                "ro": "Apusul are loc deja în jurul orei 17:15; parcați astfel încât să puteți întoarce rapid și ușor mașina pe întuneric după eveniment.",
+                "en": "Sunset occurs as early as 5:15 PM; park your car so that you can quickly and easily turn around in the dark after the experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

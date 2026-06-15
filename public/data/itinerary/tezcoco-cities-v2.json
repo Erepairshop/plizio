@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Templo Mayor és a Los Melones romjainak felfedezésével. Délben tartson egy rövid szünetet a Juárez-emlékműnél, mielőtt elmerül a La Casa del Constituyente történelmében. Délután az ökológia kerül előtérbe a Museo Casa de la Tierra interaktív kiállításaival. Zárja történelmi sétáját Zillan csendes maradványai között, ahogy a nap lassan lenyugszik.",
         "ro": "Începeți dimineața explorând ruinele antice Templo Mayor și Los Melones. La prânz, faceți o scurtă pauză la Monumentul Juárez înainte de a pătrunde în istoria legislativă la La Casa del Constituyente. După-amiaza, treceți la ecologie cu expozițiile interactive de la Museo Casa de la Tierra. Încheiați-vă plimbarea istorică rătăcind prin vestigiile liniștite din Zillan.",
         "en": "Start your morning exploring the ancient Templo Mayor and Los Melones ruins, imagining the pre-Hispanic grandeur. Midday brings a short pause at the Juárez Monument before diving into the rich legislative history at La Casa del Constituyente. In the afternoon, shift to ecology with interactive displays at Museo Casa de la Tierra. Conclude your historical walk wandering through the quiet remnants of Zillan as the sun begins to lower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regen am Templo Mayor, bringen Sie einen Schirm mit. Mittags sind die Steine bei Los Melones rutschig, gehen Sie vorsichtig. Nachmittags bieten die Museen Casa del Constituyente und Casa de la Tierra perfekten Schutz vor dem Wetter. Der Abend endet bei den Ruinen von Zillan, wo die beleuchteten Mauern trotz des Schlamms im Zwielicht eine mystische Atmosphäre schaffen.",
+            "hu": "A reggel frissítő záporral indul a Templo Mayornál, vigyen esernyőt a romok közé. Délben Los Melones területén az eső áztatta kövek csúszósak, óvatosan lépkedjen. Délután a Casa del Constituyente és a Casa de la Tierra múzeumok tökéletes fedett menedéket nyújtanak. Az este Zillan kültéri romjainál ér véget, ahol a sár ellenére a megvilágított falak misztikus látványt nyújtanak a szürkületben.",
+            "ro": "Dimineața începe cu o ploaie răcoritoare la Templo Mayor, luați o umbrelă printre ruine. La prânz pietrele de la Los Melones sunt alunecoase, mergeți cu grijă. După-amiaza, muzeele Casa del Constituyente și Casa de la Tierra oferă adăpost perfect împotriva vremii. Seara se încheie la ruinele din Zillan, unde zidurile iluminate creează o atmosferă mistică în amurg, în ciuda noroiului.",
+            "en": "The morning starts with a refreshing shower at Templo Mayor, bring an umbrella to the ruins. At noon the rain-soaked stones at Los Melones are slippery, walk carefully. In the afternoon, the Casa del Constituyente and Casa de la Tierra museums provide perfect indoor shelter. The evening ends at the Zillan outdoor ruins, where despite the mud, the illuminated walls create a mystical sight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Templo Mayor de Texcoco",
+                "hu": "Templo Mayor de Texcoco",
+                "ro": "Templo Mayor de Texcoco",
+                "en": "Templo Mayor de Texcoco"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die antiken Altäre im Regen, aber achten Sie auf rutschige Stufen; ein Schirm ist Pflicht, da das Gelände offen ist und es kaum überdachte Bereiche bei den Ruinen gibt.",
+                "hu": "Nézze meg az ősi oltárokat az esőben, de vigyázzon a csúszós lépcsőkre; az esernyő kötelező, mert a terület nagy része nyitott, és kevés a fedett rész a romok közvetlen közelében.",
+                "ro": "Vedeți altarele antice în ploaie, dar atenție la treptele alunecoase; umbrela este obligatorie deoarece zona este deschisă și există puține spații acoperite lângă ruinele propriu-zise.",
+                "en": "See the ancient altars in the rain, but watch out for slippery steps; an umbrella is mandatory as the area is mostly open and there are few covered sections near the ruins themselves."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica de Los Melones",
+                "hu": "Zona Arqueológica de Los Melones",
+                "ro": "Zona Arqueológica de Los Melones",
+                "en": "Zona Arqueológica de Los Melones"
+              },
+              "tip_5lang": {
+                "de": "Die freigelegten Strukturen glänzen im Regen, was tolle Fotos ermöglicht; nutzen Sie die schützenden Vorsprünge am Eingang, um die historischen Details ohne nass zu werden zu studieren.",
+                "hu": "A feltárt falak csillognak az esőben, ami kiváló fotótéma; használja a bejáratnál lévő védőtetőket, hogy megcsodálja a történelmi részleteket anélkül, hogy teljesen elázna a túra során.",
+                "ro": "Zidurile excavate strălucesc în ploaie, oferind oportunități foto excelente; folosiți copertinele de la intrare pentru a admira detaliile istorice fără a vă uda complet în timpul turului.",
+                "en": "The excavated walls glisten in the rain, making for great photos; use the protective overhangs at the entrance to admire the historical details without getting soaked during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Juárez",
+                "hu": "Monumento a Juárez",
+                "ro": "Monumento a Juárez",
+                "en": "Monumento a Juárez"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen schnellen Stopp für ein Foto unter dem Schirm; die Statue wirkt im grauen Regenwetter besonders majestätisch, aber achten Sie auf die tiefen Pfützen rund um den Sockel.",
+                "hu": "Tegyen egy gyors kitérőt egy fotóra az esernyője alatt; a szobor méltóságteljesen fest a szürke esőben, de figyeljen a talapzat körül kialakuló mélyebb tócsákra és a csúszós járdára.",
+                "ro": "Faceți o scurtă oprire pentru o fotografie sub umbrelă; statuia arată maiestuos în ploaia cenușie, dar fiți atenți la bălțile adânci din jurul soclului și la trotuarul alunecos din zonă.",
+                "en": "Make a quick stop for a photo under your umbrella; the statue looks majestic in the grey rain, but watch out for deep puddles around the base and the slippery pavement in the vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa del Constituyente",
+                "hu": "La Casa del Constituyente",
+                "ro": "La Casa del Constituyente",
+                "en": "La Casa del Constituyente"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vor dem Regen in die dicken Mauern des Hauses; während Sie die Ausstellungen betrachten, können Sie trocknen, bevor Sie zum nächsten Ziel im historischen Zentrum weitergehen.",
+                "hu": "Az eső elől húzódjon be a történelmi kúria falai közé; a kiállítások megtekintése közben teljesen megszáradhat, mielőtt továbbindulna a történelmi központ következő szabadtéri pontja felé.",
+                "ro": "Refugiați-vă de ploaie între zidurile conacului istoric; în timp ce vizitați expozițiile, vă puteți usca complet înainte de a porni spre următorul punct în aer liber din centrul istoric.",
+                "en": "Escape the rain inside the thick walls of this historic mansion; while viewing the exhibits, you can dry off completely before heading to the next outdoor spot in the historic center."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de la Tierra",
+                "hu": "Museo Casa de la Tierra",
+                "ro": "Museo Casa de la Tierra",
+                "en": "Museo Casa de la Tierra"
+              },
+              "tip_5lang": {
+                "de": "Dieses interaktive Museum ist der ideale Zufluchtsort bei Gewitter; lernen Sie drinnen alles über das Klima der Erde, während draußen der Regen auf das Dach prasselt und für Abkühlung sorgt.",
+                "hu": "Ez az interaktív múzeum az ideális menedék vihar esetén; tanuljon a Föld klímájáról a zárt termekben, miközben kint az eső dobol a tetőn, és felfrissíti a város poros levegőjét aznapra.",
+                "ro": "Acest muzeu interactiv este refugiul ideal în caz de furtună; învățați despre clima Pământului în sălile închise, în timp ce afară ploaia bate în acoperiș și împrospătează aerul orașului.",
+                "en": "This interactive museum is the ideal sanctuary during a storm; learn about Earth's climate in the indoor halls while the rain drums on the roof and freshens up the city air for the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona arquelogica de Zillan",
+                "hu": "Zona arquelogica de Zillan",
+                "ro": "Zona arquelogica de Zillan",
+                "en": "Zona arquelogica de Zillan"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe, da der Boden hier schlammig werden kann; die Aussicht auf die nassen Ruinen im Abendlicht ist jedoch jede Mühe wert, wenn der Regen langsam nachlässt.",
+                "hu": "Viseljen vízálló cipőt, mert a talaj itt sárossá válhat az esőben; a vizes romok látványa az esti fényekben azonban minden fáradságot megér, ahogy a csapadék lassan csendesedni kezd a nap végén.",
+                "ro": "Purtați încălțăminte impermeabilă, deoarece solul poate deveni noroios în ploaie; vederea ruinelor ude în lumina serii merită însă orice efort, pe măsură ce ploaia începe să se potolească.",
+                "en": "Wear waterproof shoes as the ground here can get muddy in the rain; however, the sight of the wet ruins in the evening light is worth every effort as the rain slowly starts to subside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgenspaziergang im historischen Zentrum mit Schichten Kleidung. Mittags ist die Sonne angenehm, aber in den Museen ist ein Pullover nützlich. Nachmittags bieten die Säle der Casa de la Tierra angenehme Wärme. Da die Sonne gegen 17 Uhr untergeht, erreichen Sie die Ruinen von Zillan in der Dämmerung, wo die klaren Farben des Winterhimmels eine Kulisse bilden.",
+            "hu": "A hűvös reggelen réteges öltözetben kezdje a sétát a történelmi központban. Délre a nap ereje kellemes, de a múzeumok vastag falai között jól jön egy meleg pulóver. Délután a Casa de la Tierra interaktív termei melegséget kínálnak. A nap korán, délután öt körül kezd lebukni, így Zillan romjaihoz már a szürkületben érünk el, ahol a téli égbolt tiszta színei adnak hátteret.",
+            "ro": "Începeți plimbarea de dimineață în centrul istoric cu haine în straturi. La prânz soarele este plăcut, dar în muzee un pulover este util. După-amiaza, sălile de la Casa de la Tierra oferă căldură. Soarele apune devreme, în jur de ora 17, așa că ajungem la ruinele din Zillan în crepuscul, unde culorile clare ale cerului de iarnă oferă un fundal deosebit.",
+            "en": "Start your morning walk in the historic center with layered clothing. By noon the sun is pleasant, but inside museums, a warm sweater is useful. In the afternoon, the halls of Casa de la Tierra offer cozy warmth. The sun sets early around 17:00, so we reach the Zillan ruins in the twilight, where the clear colors of the winter sky provide a stunning backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Templo Mayor de Texcoco",
+                "hu": "Templo Mayor de Texcoco",
+                "ro": "Templo Mayor de Texcoco",
+                "en": "Templo Mayor de Texcoco"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen Schal zwischen den Steinmauern im kühlen Winterwind; der niedrige Sonnenstand am Morgen wirft fantastische Schatten auf die Ruinen, was ein besonderes Fotomotiv bietet.",
+                "hu": "A hűvös téli szélben a kőfalak között sétálva viseljen sálat; a reggeli alacsony napállás fantasztikus árnyékokat vet a romokra, ami különleges fotótémát kínál a látogatóknak a korai órákban.",
+                "ro": "Purtați o eșarfă între zidurile de piatră în vântul rece de iarnă; soarele jos de dimineață aruncă umbre fantastice asupra ruinelor, oferind un subiect foto special pentru vizitatori.",
+                "en": "Wear a scarf between the stone walls in the cool winter wind; the low morning sun casts fantastic shadows on the ruins, offering a special photo opportunity for visitors in the early hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica de Los Melones",
+                "hu": "Zona Arqueológica de Los Melones",
+                "ro": "Zona Arqueológica de Los Melones",
+                "en": "Zona Arqueológica de Los Melones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Mittagssonne an den offenen Stellen, aber meiden Sie die zugigen Gänge; die trockene Winterluft sorgt für eine hervorragende Sicht auf die antiken Bauelemente und Inschriften.",
+                "hu": "Élvezze a déli napsütést a nyitott részeken, de kerülje a huzatos folyosókat; a száraz téli levegő kiváló láthatóságot biztosít az ősi építészeti elemek és feliratok megfigyeléséhez a túra során.",
+                "ro": "Bucurați-vă de soarele de la prânz în zonele deschise, dar evitați coridoarele cu curent; aerul uscat de iarnă asigură o vizibilitate excelentă pentru observarea elementelor arhitecturale vechi.",
+                "en": "Enjoy the midday sun in the open areas, but avoid the drafty corridors; the dry winter air provides excellent visibility for observing the ancient architectural elements and inscriptions during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Juárez",
+                "hu": "Monumento a Juárez",
+                "ro": "Monumento a Juárez",
+                "en": "Monumento a Juárez"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Sonne am Fuße des Denkmals hilft beim Aufwärmen; die klare Winteratmosphäre lässt die Details der Statue besonders scharf hervortreten, bevor man in den Schatten geht.",
+                "hu": "Egy rövid megálló a napsütésben a talapzatnál segít felmelegedni; a tiszta téli atmoszféra miatt a szobor részletei különösen élesen látszanak, mielőtt továbbhaladna az árnyékosabb utcák felé.",
+                "ro": "O scurtă oprire la soare lângă soclu ajută la încălzire; atmosfera clară de iarnă face ca detaliile statuii să pară deosebit de clare înainte de a merge mai departe spre străzile mai umbrite.",
+                "en": "A short stop in the sun at the base of the monument helps with warming up; the clear winter atmosphere makes the statue's details stand out sharply before you move on to the shadier streets."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa del Constituyente",
+                "hu": "La Casa del Constituyente",
+                "ro": "La Casa del Constituyente",
+                "en": "La Casa del Constituyente"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme gut, was dieses Museum ideal zum Aufwärmen macht; bewundern Sie die Architektur des Innenhofs, geschützt vor dem kühlen Wind draußen im Winter.",
+                "hu": "A vastag falak jól tartják a hőt, így ez a múzeum ideális helyszín egy kis melegedésre; csodálja meg a belső udvar építészetét a hűvös szél elől védve, miközben a város történelmét tanulmányozza.",
+                "ro": "Zidurile groase rețin bine căldura, făcând acest muzeu ideal pentru o scurtă încălzire; admirați arhitectura curții interioare protejați de vântul rece de afară în timp ce studiați istoria.",
+                "en": "The thick walls retain heat well, making this museum an ideal spot for warming up; admire the courtyard architecture protected from the cool wind outside while you study the local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de la Tierra",
+                "hu": "Museo Casa de la Tierra",
+                "ro": "Museo Casa de la Tierra",
+                "en": "Museo Casa de la Tierra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenräume, um dem Winterfrost zu entkommen; die Multimedia-Shows zur Erde sind besonders gemütlich, wenn es draußen kälter wird und die Sonne langsam tiefer sinkt.",
+                "hu": "Használja ki a fűtött belső tereket, hogy elmeneküljön a téli fagytól; a Földről szóló multimédiás bemutatók különösen barátságosak, amikor kint hűvösebbre fordul az idő a délutáni órákban.",
+                "ro": "Profitat de spațiile interioare încălzite pentru a scăpa de frigul iernii; prezentările multimedia despre Pământ sunt deosebit de primitoare când afară se face mai frig în cursul după-amiezii.",
+                "en": "Take advantage of the heated interiors to escape the winter chill; the multimedia presentations about Earth are especially welcoming as the weather turns colder outside in the afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona arquelogica de Zillan",
+                "hu": "Zona arquelogica de Zillan",
+                "ro": "Zona arquelogica de Zillan",
+                "en": "Zona arquelogica de Zillan"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um den Sonnenuntergang über den Ruinen zu erleben; nehmen Sie eine warme Jacke mit, da die Temperatur sofort sinkt, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "Érkezzen meg délután 5 előtt, hogy elcsípje a naplementét a romok felett; vigyen meleg kabátot, mert a hőmérséklet azonnal zuhanni kezd, amint a nap eltűnik a távoli hegyek mögött a nap végén.",
+                "ro": "Arriveți înainte de ora 17 pentru a prinde apusul peste ruine; luați o jachetă groasă, deoarece temperatura începe să scadă imediat ce soarele dispare după munții îndepărtați la final de zi.",
+                "en": "Arrive before 17:00 to catch the sunset over the ruins; bring a warm jacket, as the temperature starts to drop immediately once the sun disappears behind the distant mountains at the day's end."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Induljon a történelmi Los Melones-től, majd tekerjen el a Hidalgo-emlékmű és az ikonikus El Sembrador szobor mellett. A dél tökéletes a hatalmas Museo Nacional de agricultura felfedezésére. Ezután csodálja meg a neoklasszikus Partenon egyedi építészetét. Fejezze be kerékpáros túráját az Auditorio Álvaro Carrillo kreatív atmoszférájának magába szívásával.",
         "ro": "Începeți traseul la istoricul Los Melones, înainte de a pedala pe lângă Monumentul Hidalgo și statuia El Sembrador. Prânzul este perfect pentru a explora masivul Museo Nacional de agricultura. Ulterior, admirați arhitectura unică a Partenonului neoclasic. Încheiați călătoria cu bicicleta bucurându-vă de atmosfera creativă de la Auditorio Álvaro Carrillo.",
         "en": "Kick off your ride at the historical Los Melones before cruising past the Hidalgo Monument and the iconic El Sembrador statue. Midday is perfect for diving deep into the massive Museo Nacional de agricultura and exploring its incredible murals. Afterwards, marvel at the neoclassical Partenon's unique architecture. End your cycling journey soaking up the creative atmosphere at the Auditorio Álvaro Carrillo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen in Texcoco ist möglich, erfordert aber Vorsicht. Achten Sie morgens bei Los Melones auf die Kurven. Mittags können Sie zwischen den Statuen schnell fahren, aber Schutzbleche sind ein Muss. Nachmittags machen Sie eine Pause in den Museen von Chapingo, bis der Sturm vorbeizieht. Abends achten Sie auf die Sichtbarkeit und die Tiefe der Pfützen auf dem Weg zum Auditorio.",
+            "hu": "Biciklizés esőben kihívás, de Texcoco lapos utcáin megoldható. Reggel a Los Melonesnél ügyeljen a kanyarokra. Délben a monumentális szobrok között gyorsan haladhat, de a sárvédő elengedhetetlen. Délután Chapingo múzeumaiban tarthat hosszabb pihenőt, amíg a vihar elvonul. Este az Auditorio felé tekerve figyeljen a láthatóságra és a tócsák mélységére a szürkületben.",
+            "ro": "Mersul cu bicicleta pe ploaie în Texcoco este o provocare, dar posibil pe străzile plate. Dimineața la Los Melones fiți atenți la curbe. La prânz puteți circula rapid între statui, dar apărătoarele sunt esențiale. După-amiaza faceți o pauză lungă în muzeele din Chapingo până trece furtuna. Seara, spre Auditorio, fiți atenți la vizibilitate și la adâncimea bălților în amurg.",
+            "en": "Cycling in the rain is a challenge but manageable on Texcoco's flat streets. In the morning at Los Melones, be careful on the turns. At noon you can move fast between the statues, but mudguards are essential. In the afternoon, take a long break in the Chapingo museums until the storm passes. In the evening heading to the Auditorio, watch your visibility and the depth of puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zona Arqueológica de Los Melones",
+                "hu": "Zona Arqueológica de Los Melones",
+                "ro": "Zona Arqueológica de Los Melones",
+                "en": "Zona Arqueológica de Los Melones"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da die nassen Steine sehr rutschig sind; stellen Sie Ihr Fahrrad unter dem Vordach am Eingang ab, um den Sattel während der Besichtigung trocken zu halten.",
+                "hu": "Ellenőrizze a fékeit indulás előtt, mert a vizes kövek rendkívül csúszósak; parkolja le a kerékpárt a bejáratnál lévő előtető alá, hogy az ülés száraz maradjon, amíg a romokat tanulmányozza.",
+                "ro": "Verificați frânele înainte de plecare, deoarece pietrele ude sunt extrem de alunecoase; parcați bicicleta sub copertina de la intrare pentru a menține șaua uscată în timp ce studiați ruinele.",
+                "en": "Check your brakes before starting as the wet stones are extremely slippery; park your bike under the overhang at the entrance to keep the seat dry while you explore the archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Miguel Hidalgo",
+                "hu": "Monumento a Miguel Hidalgo",
+                "ro": "Monumento a Miguel Hidalgo",
+                "en": "Monumento a Miguel Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig um das Denkmal herum, da sich bei Regen oft Öl auf der Fahrbahn ansammelt; halten Sie nur kurz für ein Foto an und nutzen Sie wasserfeste Handschuhe für besseren Grip.",
+                "hu": "Óvatosan kerülje meg az emlékművet, mert az esőben gyakran olajos réteg gyűlik össze az úttesten; csak rövid időre álljon meg fotózni, és használjon vízhatlan kesztyűt a biztosabb kormányzásért.",
+                "ro": "Ocoliți cu atenție monumentul, deoarece ploaia adună adesea un strat uleios pe carosabil; opriți doar scurt pentru fotografii și folosiți mănuși impermeabile pentru o aderență mai bună pe ghidon.",
+                "en": "Carefully circle the monument as rain often brings oily patches to the road surface; stop only briefly for photos and use waterproof gloves for a more secure grip on the handlebars in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "El Sembrador",
+                "hu": "El Sembrador",
+                "ro": "El Sembrador",
+                "en": "El Sembrador"
+              },
+              "tip_5lang": {
+                "de": "Die offene Kreuzung hier ist sehr windig bei Regen, halten Sie den Lenker fest; tragen Sie eine helle Regenjacke, damit Autofahrer Sie bei schlechter Sicht am Stadtrand besser erkennen können.",
+                "hu": "A nyitott kereszteződésnél az esőben erős széllökésekre számíthat, tartsa erősen a kormányt; viseljen élénk esődzsekit, hogy az autósok a rossz látási viszonyok között is hamar észrevegyék Önt.",
+                "ro": "La intersecția deschisă vă puteți aștepta la rafale de vânt în timpul ploii, țineți bine ghidonul; purtați o jachetă de ploaie strălucitoare pentru ca șoferii să vă observe rapid în condiții dificile.",
+                "en": "Expect strong wind gusts at this open intersection during the rain, keep a firm grip on the bars; wear a bright raincoat so drivers can spot you quickly in the poor visibility conditions today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Nacional de agricultura",
+                "hu": "Museo Nacional de agricultura",
+                "ro": "Museo Nacional de agricultura",
+                "en": "Museo Nacional de agricultura"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für eine lange Pause, um die Kleidung zu trocknen; nutzen Sie den überdachten Fahrradständer auf dem Campus von Chapingo, um Ihr Rad vor dem schlimmsten Regen zu schützen.",
+                "hu": "Ez a tökéletes hely egy hosszú pihenőre, hogy megszárítsa az öltözetét; használja a Chapingo kampuszán lévő fedett tárolót, hogy megvédje kerékpárját a zuhogó esőtől, amíg a múzeumban nézelődik.",
+                "ro": "Acesta este locul perfect pentru o pauză lungă pentru a vă usca hainele; folosiți rastelul acoperit din campusul Chapingo pentru a vă proteja bicicleta de ploaia torențială cât timp sunteți în muzeu.",
+                "en": "This is the perfect spot for a long break to dry your clothes; use the covered bike rack on the Chapingo campus to protect your bicycle from the heavy rain while you browse the museum exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenon",
+                "hu": "Partenon",
+                "ro": "Partenon",
+                "en": "Partenon"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können rutschig sein, fahren Sie also langsam auf das Gebäude zu; genießen Sie die Architektur von innen, während Sie darauf warten, dass der Regen nachlässt, bevor Sie weiterfahren.",
+                "hu": "A felvezető utak csúszósak lehetnek, így csak lassan közelítse meg az épületet; élvezze az építészetet belülről, amíg várakozik az eső csendesedésére, mielőtt a nap utolsó állomása felé venné az irányt.",
+                "ro": "Drumurile de acces pot fi alunecoase, așa că apropiați-vă de clădire cu viteză mică; admirați arhitectura din interior în timp ce așteptați să se oprească ploaia înainte de a pleca spre ultima oprire.",
+                "en": "The access paths can be slippery, so approach the building at low speed; enjoy the architecture from inside while waiting for the rain to ease up before heading to the final stop of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Álvaro Carrillo",
+                "hu": "Auditorio Álvaro Carrillo",
+                "ro": "Auditorio Álvaro Carrillo",
+                "en": "Auditorio Álvaro Carrillo"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei der Ankunft am Abend unbedingt Ihr Licht ein, um sicher zu sein; das Foyer bietet einen warmen Ort zum Ausruhen nach einer nassen Fahrt, bevor Sie den Rückweg antreten.",
+                "hu": "Az esti érkezésnél feltétlenül kapcsolja be a lámpáit a biztonság érdekében; az előcsarnok meleg helyet kínál a pihenésre a vizes tekerés után, mielőtt elindulna a szállása vagy a városközpont felé.",
+                "ro": "La sosirea de seară, asigurați-vă că aprindeți luminile pentru siguranță; foierul oferă un loc cald pentru odihnă după cursa prin ploaie, înainte de a pleca spre cazare sau spre centrul orașului.",
+                "en": "Be sure to turn on your lights for safety when arriving in the evening; the lobby offers a warm place to rest after the wet ride before you head back to your accommodation or the city center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Luft ist erfrischend für eine Radtour, erfordert aber warme Handschuhe. Beginnen Sie morgens bei Los Melones. Mittags bietet die Sonne auf den Straßen von Chapingo angenehme Wärme. Das Landwirtschaftsmuseum ist ein idealer Ort, um sich nachmittags in den beheizten Räumen aufzuwärmen. Beenden Sie die Tour am Auditorio vor 17 Uhr, bevor die Kälte nach Sonnenuntergang schnell zunimmt.",
+            "hu": "A hideg levegő frissítő a biciklizéshez, de meleg kesztyű szükséges. Reggel kezdjen Los Melonesnél. Délben a Chapingo útjain a napsütés kellemes meleget ad. A mezőgazdasági múzeum ideális hely a felmelegedésre délután a fűtött termekben. Fejezze be a túrát az Auditorio-nál 17 óra előtt, mert a sötétedés után a hideg gyorsan fokozódik.",
+            "ro": "Aerul rece este revigorant pentru ciclism, dar sunt necesare mănuși groase. Începeți dimineața la Los Melones. La prânz, soarele de pe străzile din Chapingo oferă o căldură plăcută. Muzeul agriculturii este locul ideal pentru încălzire după-amiaza. Încheiați turul la Auditorio înainte de ora 17, deoarece frigul se intensifică rapid după lăsarea întunericului.",
+            "en": "The crisp air is refreshing for cycling, but warm gloves are a necessity today. Start at Los Melones in the morning. At noon, the sun on Chapingo's roads provides pleasant warmth. The agricultural museum is an ideal spot for warming up in the afternoon. Finish the tour at the Auditorio before 17:00, as the cold intensifies quickly once the sun goes down."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zona Arqueológica de Los Melones",
+                "hu": "Zona Arqueológica de Los Melones",
+                "ro": "Zona Arqueológica de Los Melones",
+                "en": "Zona Arqueológica de Los Melones"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich viel, um die Körpertemperatur beim Erkunden der Ruinen hoch zu halten; die kühle Morgenluft macht den Aufstieg auf die Strukturen weniger anstrengend als in der Sommerhitze.",
+                "hu": "Mozogjon sokat, hogy fenntartsa testhőmérsékletét a romok felfedezése közben; a hűvös reggeli levegő miatt a falakra való felmászás kevésbé fárasztó, mint a nyári hőségben lenne a nap folyamán.",
+                "ro": "Muntați-vă mult pentru a vă menține temperatura corpului în timp ce explorați ruinele; aerul rece de dimineață face urcarea pe ziduri mai puțin obositoare decât ar fi în căldura verii de peste zi.",
+                "en": "Keep moving to maintain your body temperature while exploring the ruins; the cool morning air makes climbing the structures less tiring than it would be in the summer heat during the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Miguel Hidalgo",
+                "hu": "Monumento a Miguel Hidalgo",
+                "ro": "Monumento a Miguel Hidalgo",
+                "en": "Monumento a Miguel Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz in der Sonne an, um das Gesicht aufzuwärmen, bevor Sie weiterfahren; die Wintersonne steht tief und blendet oft, tragen Sie also eine Sonnenbrille für eine sicherere Fahrt in der Stadt.",
+                "hu": "Álljon meg rövid időre a napsütésben, hogy felmelegítse az arcát, mielőtt továbbtekerne; a téli nap alacsonyan jár és gyakran vakít, ezért viseljen napszemüveget a biztonságosabb városi közlekedéshez.",
+                "ro": "Opriți-vă scurt la soare pentru a vă încălzi fața înainte de a pedala mai departe; soarele de iarnă este jos și adesea orbește, așa că purtați ochelari de soare pentru o circulație urbană mai sigură.",
+                "en": "Stop briefly in the sun to warm your face before cycling on; the winter sun is low and often blinding, so wear sunglasses for safer urban navigation through the city streets today."
+              }
+            },
+            {
+              "name": {
+                "de": "El Sembrador",
+                "hu": "El Sembrador",
+                "ro": "El Sembrador",
+                "en": "El Sembrador"
+              },
+              "tip_5lang": {
+                "de": "Der Fahrtwind an dieser Kreuzung kann sehr beißend sein, achten Sie auf winddichte Kleidung; nutzen Sie den Schwung der flachen Straße, um warm zu bleiben, während Sie sich Chapingo nähern.",
+                "hu": "A menetszél ennél a kereszteződésnél metsző lehet, ügyeljen a szélálló öltözetre; használja ki a sík út adta lendületet, hogy melegen tartsa magát, miközben közeledik a Chapingo kampusz bejáratához.",
+                "ro": "Vântul la această intersecție poate fi tăios, asigurați-vă că aveți haine rezistente la vânt; profitați de drumul drept pentru a vă menține cald în timp ce vă apropiați de intrarea în campusul Chapingo.",
+                "en": "The wind at this intersection can be biting, ensure you have windproof clothing; take advantage of the flat road momentum to keep yourself warm as you approach the Chapingo campus entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Nacional de agricultura",
+                "hu": "Museo Nacional de agricultura",
+                "ro": "Museo Nacional de agricultura",
+                "en": "Museo Nacional de agricultura"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit in den beheizten Innenräumen, um die Chapingo-Fresken zu bewundern; das ist die beste Gelegenheit, die Kälte aus den Knochen zu vertreiben, bevor es am Nachmittag weitergeht.",
+                "hu": "Szánjon időt a fűtött belső terekre és a Chapingo-freskók megcsodálására; ez a legjobb alkalom, hogy kiűzze a hideget a tagjaiból, mielőtt folytatná a túrát a délutáni hűvösebb órákban.",
+                "ro": "Acordați-vă timp pentru spațiile interioare încălzite și pentru admirarea frescelor Chapingo; este cel mai bun moment pentru a scăpa de frig înainte de a continua turul în orele mai răcoroase.",
+                "en": "Take your time in the heated interiors to admire the Chapingo murals; this is the best opportunity to get the chill out of your bones before continuing the tour in the cooler afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Partenon",
+                "hu": "Partenon",
+                "ro": "Partenon",
+                "en": "Partenon"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur bietet guten Schutz vor dem kalten Wind, genießen Sie die Aussicht; der Stein speichert mittags etwas Sonnenwärme, was diesen Ort zu einem angenehmen Pausenstopp im Winter macht.",
+                "hu": "Az épület architektúrája jó védelmet nyújt a hideg szél ellen, élvezze a kilátást; a kőfalak délben elnyelnek némi napenergiát, így ez a helyszín kellemes pihenőhely a téli napsütésben.",
+                "ro": "Arhitectura clădirii oferă o protecție bună împotriva vântului rece, bucurați-vă de priveliște; zidurile de piatră absorb căldura soarelui la prânz, făcând din acest loc un punct de odihnă plăcut.",
+                "en": "The building's architecture provides good protection against the cold wind, enjoy the view; the stone walls absorb some solar heat at noon, making this a pleasant rest spot in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Álvaro Carrillo",
+                "hu": "Auditorio Álvaro Carrillo",
+                "ro": "Auditorio Álvaro Carrillo",
+                "en": "Auditorio Álvaro Carrillo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch zügig, damit Sie noch vor dem kompletten Dunkelwerden losfahren können; die winterliche Abenddämmerung ist wunderschön, aber die Temperatur sinkt extrem schnell ab.",
+                "hu": "Fejezze be látogatását időben, hogy még a teljes sötétedés előtt elindulhasson; a téli szürkület gyönyörű látványt nyújt, de a hőmérséklet rendkívül gyorsan zuhanni kezd a naplemente után.",
+                "ro": "Încheiați vizita la timp pentru a pleca înainte de lăsarea întunericului; amurgul de iarnă oferă o priveliște frumoasă, dar temperatura scade extrem de rapid imediat după apusul soarelui.",
+                "en": "Finish your visit in time to leave before total darkness sets in; the winter twilight offers a beautiful sight, but the temperature drops extremely fast once the sun has completely set for the day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját a Chapingo kampuszon a Nemzeti Mezőgazdasági Múzeum és az Auditorio Álvaro Carrillo felfedezésével. Délben északra, a város szívébe utazik, hogy megnézze a Templo Mayor-t. Délután ismerje meg a helyi történelmet a La Casa del Constituyente-ben, mielőtt meglátogatja a legendás Embarcaderót. Zárja a napot a hagyományos Plaza de toros megcsodálásával.",
         "ro": "Începeți turul cu mașina în campusul Chapingo pentru a explora Muzeul Național de Agricultură și Auditorio Álvaro Carrillo. Prânzul vă duce spre nord, în inima orașului, pentru a vedea Templo Mayor. După-amiaza, aflați istoria locală la La Casa del Constituyente înainte de a vizita legendarul Embarcadero. Terminați ziua admirând tradiționala Plaza de toros.",
         "en": "Begin your driving tour at the expansive Chapingo campus to explore the National Agriculture Museum, followed by the nearby Auditorio Álvaro Carrillo. Midday takes you north to the very heart of the city to see the ancient Templo Mayor. In the afternoon, learn local state history at La Casa del Constituyente before visiting the legendary Embarcadero. Finish your day marveling at the traditional Plaza de toros."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist der Regen kein Problem. Beginnen Sie morgens im Landwirtschaftsmuseum. Mittags bieten die Auditorien Komfort. Nachmittags liegen Templo Mayor und Constituyente nah beieinander, so dass Sie nur kurz im Regen laufen müssen. Abends könnte der Embarcadero nass sein, also beenden wir den Tag bei der Plaza de Toros, die im Regen eine dramatische Kulisse bietet.",
+            "hu": "Autóval az eső nem akadály, kezdje a reggelt a Mezőgazdasági Múzeumban. Délben az auditorumok fedett kényelmet nyújtanak. Délután a Templo Mayor és a Constituyente ház közel van egymáshoz, így csak keveset kell az esőben gyalogolnia. Este az Embarcadero vizes lehet, így a napot a Plaza de toros monumentális, eső áztatta falaival zárjuk a városi fényeknél.",
+            "ro": "Cu mașina ploaia nu este un obstacol, începeți dimineața la Muzeul Agriculturii. La prânz, auditoriile oferă confort acoperit. După-amiaza, Templo Mayor și Casa Constituyente sunt aproape una de alta, deci veți merge puțin prin ploaie. Seara, Embarcadero poate fi ud, așa că încheiem ziua la Plaza de toros, cu zidurile sale monumentale udate de ploaie.",
+            "en": "By car, the rain is no obstacle, start your morning at the Agriculture Museum. At noon, the auditoriums provide covered comfort. In the afternoon, Templo Mayor and the Constituyente house are close to each other, so you only need to walk a little in the rain. In the evening, the Embarcadero might be wet, so we close the day at Plaza de toros under the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Nacional de agricultura",
+                "hu": "Museo Nacional de agricultura",
+                "ro": "Museo Nacional de agricultura",
+                "en": "Museo Nacional de agricultura"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regenguss zu vermeiden; im Inneren können Sie Stunden verbringen, während Sie trocken bleiben und die reiche Agrargeschichte Mexikos studieren.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje a hirtelen záport; bent órákat tölthet el szárazon, miközben Mexikó gazdag mezőgazdasági történelmét és a híres freskókat tanulmányozza.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita aversa bruscă; în interior puteți petrece ore întregi la adăpost, studiind istoria agricolă bogată a Mexicului și frescele faimoase.",
+                "en": "Park as close to the entrance as possible to avoid the sudden downpour; you can spend hours inside staying dry while studying Mexico's rich agricultural history and the famous murals."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Álvaro Carrillo",
+                "hu": "Auditorio Álvaro Carrillo",
+                "ro": "Auditorio Álvaro Carrillo",
+                "en": "Auditorio Álvaro Carrillo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Zugangsbereich zum Aussteigen der Passagiere; das Gebäude bietet hervorragenden Schutz vor Regen und oft gibt es drinnen interessante kulturelle Ausstellungen zu sehen.",
+                "hu": "Használja a fedett felhajtót az utasok kiszállásához; az épület kiváló védelmet nyújt az eső elől, és bent gyakran érdekes kulturális kiállításokat vagy előadásokat is megtekinthet a látogatás alatt.",
+                "ro": "Folosiți rampa acoperită pentru debarcarea pasagerilor; clădirea oferă o protecție excelentă împotriva ploii și adesea puteți vedea expoziții culturale sau spectacole interesante în interior.",
+                "en": "Use the covered driveway for dropping off passengers; the building provides excellent protection from the rain, and inside you can often catch interesting cultural exhibits or performances."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo Mayor de Texcoco",
+                "hu": "Templo Mayor de Texcoco",
+                "ro": "Templo Mayor de Texcoco",
+                "en": "Templo Mayor de Texcoco"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Pfützen beim Parken in der Nähe der Ruinen; da die Besichtigung draußen stattfindet, nehmen Sie einen großen Schirm aus dem Auto mit, um die Altäre im Regen zu erkunden.",
+                "hu": "Figyeljen a mélyebb tócsákra a romok környéki parkoláskor; mivel a látogatás szabadtéri, vigyen magával egy nagyobb esernyőt az autóból, hogy kényelmesen felfedezhesse az ősi oltárokat az esőben.",
+                "ro": "Atenție la bălțile adânci când parcați în zona ruinelor; deoarece vizita este în aer liber, luați o umbrelă mare din mașină pentru a explora confortabil altarele antice în timpul ploii.",
+                "en": "Watch out for deep puddles when parking near the ruins; since the visit is outdoors, bring a large umbrella from the car to comfortably explore the ancient altars during the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa del Constituyente",
+                "hu": "La Casa del Constituyente",
+                "ro": "La Casa del Constituyente",
+                "en": "La Casa del Constituyente"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein großartiger Ort, um den schlimmsten Regen abzuwarten; die historischen Räume sind komplett überdacht, so dass Sie die koloniale Architektur genießen können, ohne nass zu werden.",
+                "hu": "Ez egy nagyszerű helyszín, hogy megvárja a hevesebb eső végét; a történelmi szobák teljesen fedettek, így anélkül élvezheti a gyarmati építészetet, hogy aggódnia kellene a beázás vagy az átázás miatt.",
+                "ro": "Acesta este un loc minunat pentru a aștepta sfârșitul ploii abundente; camerele istorice sunt complet acoperite, astfel încât vă puteți bucura de arhitectura colonială fără a vă uda deloc.",
+                "en": "This is a great spot to wait out the heavier rain; the historic rooms are completely covered, so you can enjoy the colonial architecture without having to worry about getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Embarcadero de Texcoco",
+                "hu": "Embarcadero de Texcoco",
+                "ro": "Embarcadero de Texcoco",
+                "en": "Embarcadero de Texcoco"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Embarcadero können bei Regen matschig sein, fahren Sie vorsichtig; betrachten Sie den See vom Auto aus, wenn der Regen zu stark ist, um die dramatische Aussicht zu genießen.",
+                "hu": "Az Embarcaderóhoz vezető utak sárosak lehetnek esőben, vezessen óvatosan; nézze a tó látványát az autóból, ha túl erősen esik, a ködös táj ilyenkor különlegesen drámai és megnyugtató arcát mutatja.",
+                "ro": "Drumurile spre Embarcadero pot fi noroioase pe ploaie, conduceți cu atenție; priviți lacul din mașină dacă plouă prea tare, peisajul cețos arată o față dramatică și liniștitoare în aceste momente.",
+                "en": "The roads to the Embarcadero can be muddy in the rain, drive carefully; watch the lake view from the car if it rains too hard, as the misty landscape shows a particularly dramatic and calm side."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de toros Silverio Perez",
+                "hu": "Plaza de toros Silverio Perez",
+                "ro": "Plaza de toros Silverio Perez",
+                "en": "Plaza de toros Silverio Perez"
+              },
+              "tip_5lang": {
+                "de": "Die Außenmauer der Arena bietet Schutz beim Aussteigen; bewundern Sie die Größe des Bauwerks von der Sicherheit Ihres Autos aus, bevor Sie für einen kurzen, nassen Rundgang nach draußen gehen.",
+                "hu": "Az aréna külső fala némi védelmet nyújt kiszálláskor; csodálja meg az építmény méreteit az autó biztonságából, mielőtt kiszállna egy rövid, esős körsétára a monumentális falak mentén.",
+                "ro": "Zidul exterior al arenei oferă o oarecare protecție la debarcare; admirați dimensiunile structurii din siguranța mașinii înainte de a coborî pentru o scurtă plimbare ploioasă pe lângă ziduri.",
+                "en": "The arena's outer wall provides some shelter when getting out; admire the structure's scale from the safety of your car before stepping out for a short, rainy walk along the monumental walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom Komfort des beheizten Autos aus besuchen wir morgens die Museen von Chapingo. Mittags bieten die Kulturprogramme des Auditorio Wärme. Nachmittags können Sie im Stadtzentrum nah am Templo Mayor parken, so dass Sie kaum Zeit in der Kälte verbringen müssen. Nach der kühlen Brise am Embarcadero beenden wir den Tag an der Plaza de Toros in der winterlichen Dunkelheit.",
+            "hu": "A fűtött autó kényelméből indulva Chapingo múzeumait nézzük meg reggel. Délben az Auditorio kulturális programjai kínálnak meleget. Délután a városközpontban a Templo Mayor közelében könnyen parkolhat, így minimális időt kell a hidegben töltenie. Este az Embarcadero hűvös szellője után a Silverio Perez aréna látványával zárjuk a napot a téli sötétben.",
+            "ro": "Din confortul mașinii încălzite, vizităm muzee din Chapingo dimineața. La prânz, programele culturale de la Auditorio oferă căldură. După-amiaza, puteți parca aproape de Templo Mayor în centrul orașului, petrecând minimul de timp în frig. După briza rece de la Embarcadero, încheiem ziua la Plaza de toros în întunericul de iarnă.",
+            "en": "Starting from the comfort of a heated car, we visit the Chapingo museums in the morning. At noon, the Auditorio's cultural programs offer warmth. In the afternoon, you can park near Templo Mayor in the city center, spending minimal time in the cold. After the cool breeze at the Embarcadero, we close the day at Plaza de toros in the winter darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Nacional de agricultura",
+                "hu": "Museo Nacional de agricultura",
+                "ro": "Museo Nacional de agricultura",
+                "en": "Museo Nacional de agricultura"
+              },
+              "tip_5lang": {
+                "de": "Trotz der Kälte ist der Museumsgarten wunderschön, aber planen Sie den Besuch für die Mittagsstunden; in den beheizten Innenräumen können Sie neben der Agrargeschichte auch die Chapingo-Fresken bewundern.",
+                "hu": "A téli hideg ellenére a múzeum kertje gyönyörű, de látogatását tervezze a déli órákra; a fűtött belső terekben a mezőgazdaság története mellett a híres Chapingo-freskókban is kényelmesen gyönyörködhet.",
+                "ro": "În ciuda frigului, grădina muzeului este frumoasă, dar planificați vizita pentru orele prânzului; în interioarele încălzite puteți admira frescele Chapingo alături de istoria agriculturii.",
+                "en": "Despite the winter cold, the museum garden is beautiful, but plan your visit for the midday hours; in the heated interiors, you can admire the famous Chapingo murals alongside agricultural history."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Álvaro Carrillo",
+                "hu": "Auditorio Álvaro Carrillo",
+                "ro": "Auditorio Álvaro Carrillo",
+                "en": "Auditorio Álvaro Carrillo"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Belüftungssystem sorgt auch im Winter für eine angenehme Temperatur im Inneren; schauen Sie sich das aktuelle Programm an, um eine Veranstaltung in der Wärme des Auditoriums zu genießen.",
+                "hu": "A modern szellőzőrendszer télen is kellemes hőmérsékletet biztosít a belső terekben; nézze meg az aktuális műsort, hogy élvezhesse az előadásokat vagy kiállításokat az auditórium barátságos melegében.",
+                "ro": "Sistemul modern de ventilație asigură o temperatură plăcută în interior chiar și iarna; verificați programul actual pentru a vă bucura de un spectacol sau expoziție în căldura primitoare a auditoriului.",
+                "en": "The modern ventilation system ensures a pleasant temperature inside even in winter; check the current schedule to enjoy a performance or exhibit in the welcoming warmth of the auditorium halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo Mayor de Texcoco",
+                "hu": "Templo Mayor de Texcoco",
+                "ro": "Templo Mayor de Texcoco",
+                "en": "Templo Mayor de Texcoco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand, um den Weg zu den Ruinen in der Kälte zu minimieren; die Wintersonne beleuchtet die antiken Steine am Nachmittag wunderschön, bevor sie hinter den Gebäuden der Stadt verschwindet.",
+                "hu": "Parkoljon az út szélén, hogy minimalizálja a romokhoz vezető utat a hidegben; a téli napfény délután gyönyörűen megvilágítja az ősi köveket, mielőtt a nap végleg eltűnik a város épületei mögött.",
+                "ro": "Parcați la marginea drumului pentru a minimiza distanța până la ruine în frig; lumina iernii luminează frumos pietrele antice după-amiaza, înainte ca soarele să dispară după clădirile orașului.",
+                "en": "Park at the roadside to minimize the walk to the ruins in the cold; the winter sunlight illuminates the ancient stones beautifully in the afternoon before disappearing behind the city buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa del Constituyente",
+                "hu": "La Casa del Constituyente",
+                "ro": "La Casa del Constituyente",
+                "en": "La Casa del Constituyente"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem winterlichen Wind, so dass der Innenhof recht angenehm bleibt; nutzen Sie diesen Stopp für eine kurze Pause vom Fahren und genießen Sie die stille, kühle Atmosphäre.",
+                "hu": "A vastag kőfalak védenek a téli szél ellen, így a belső udvar viszonylag kellemes marad; használja ezt a megállót egy rövid pihenőre a vezetés után, és élvezze a csendes, hűvös gyarmati környezetet.",
+                "ro": "Zidurile groase de piatră protejează împotriva vântului de iarnă, astfel încât curtea interioară rămâne plăcută; folosiți această oprire pentru o scurtă pauză de condus și bucurați-vă de atmosfera liniștită.",
+                "en": "The thick stone walls protect against the winter wind, so the inner courtyard remains fairly pleasant; use this stop for a short break from driving and enjoy the quiet, cool colonial atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Embarcadero de Texcoco",
+                "hu": "Embarcadero de Texcoco",
+                "ro": "Embarcadero de Texcoco",
+                "en": "Embarcadero de Texcoco"
+              },
+              "tip_5lang": {
+                "de": "Am Seeufer kann es im Winter sehr windig und kalt sein, bleiben Sie für die Aussicht im Auto; die klaren Winterabende bieten jedoch den besten Blick auf die fernen Lichter von Mexiko-Stadt über den See.",
+                "hu": "A tóparton télen nagyon szeles és hideg lehet, maradjon az autóban a kilátásért; a tiszta téli esték kínálják a legjobb rálátást Mexikóváros távoli fényeire a tó túlpartján a szürkület beálltakor.",
+                "ro": "Pe malul lacului poate fi foarte vânt și frig iarna, rămâneți în mașină pentru priveliște; serile senine de iarnă oferă cea mai bună vedere spre luminile îndepărtate ale Ciudad de México peste lac.",
+                "en": "It can be very windy and cold by the lakeshore in winter, stay in the car for the view; clear winter evenings offer the best sight of Mexico City's distant lights across the lake at twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de toros Silverio Perez",
+                "hu": "Plaza de toros Silverio Perez",
+                "ro": "Plaza de toros Silverio Perez",
+                "en": "Plaza de toros Silverio Perez"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, ist die Arena am Abend beleuchtet und sieht beeindruckend aus; genießen Sie den Anblick kurz von außen, bevor Sie die Heizung im Auto für den Rückweg wieder aufdrehen.",
+                "hu": "Mivel korán sötétedik, az aréna este ki van világítva, és lenyűgöző látványt nyújt; élvezze a látványt röviden kívülről, mielőtt visszatérne az autó fűtött kényelmébe a nap végén.",
+                "ro": "Deoarece se întunecă devreme, arena este iluminată seara și arată impresionant; bucurați-vă scurt de priveliște din exterior înainte de a vă întoarce în confortul încălzit al mașinii la final de zi.",
+                "en": "Since it gets dark early, the arena is lit up in the evening and looks impressive; enjoy the sight briefly from outside before returning to the heated comfort of your car at the end of the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

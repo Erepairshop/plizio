@@ -137,6 +137,168 @@
         "hu": "A reggel egy frissítő túrával kezdődik a Cefn Bryn hegygerincen, ahonnan pazar kilátás nyílik a félszigetre. Később a tengerpart felé ereszkedve élvezheti a Tor Bay nyugodt szépségét. A déli pihenő után merüljön el a Penmaen Burrows ősi világában. A délután az ikonikus Three Cliffs Baynél teljesedik ki, ahol a mészkőíveken áttörő tengert csodálhatja. Gyalogos kalandja békésen zárul a mindentől elzárt Pobbles Beach homokján, amely tökéletes esti menedék.",
         "ro": "Dimineața începe cu o drumeție revigorantă pe Cefn Bryn, oferind priveliști vaste. Mai târziu, coborâți spre coastă pentru a experimenta frumusețea liniștită a Tor Bay. După o pauză de prânz, scufundați-vă în ecourile antice ale Penmaen Burrows. După-amiaza se desfășoară spectaculos la emblematica Three Cliffs Bay, unde marea trece prin arcele de calcar. Aventura se încheie pașnic pe plaja retrasă Pobbles, un refugiu perfect pentru o seară de relaxare liniștită la ocean.",
         "en": "Morning begins with a refreshing hike up Cefn Bryn, offering vast vistas across the peninsula. Later, you descend toward the coast to experience the tranquil beauty of Tor Bay. After a midday break, immerse yourself in the ancient echoes of Penmaen Burrows. The afternoon unfolds spectacularly at the iconic Three Cliffs Bay, where you can watch the sea rush through the limestone arches. Your walking adventure concludes peacefully at the secluded Pobbles Beach, perfect for an evening rest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Cefn Bryn ist neblig und nass, die begrenzte Sicht schafft eine mystische Atmosphäre. Mittags suchen wir Schutz vor dem Wind in den Dünen, während der Regen auf die Felsen prasselt. Nachmittags bietet die Three Cliffs Bay mit der stürmischen See einen dramatischen Anblick. Abends beenden wir die Wanderung auf nassem Sand und achten auf die rutschigen Küstenpfade im Zwielicht.",
+            "hu": "A reggel ködös és esős a Cefn Bryn gerincén, a misztikus hangulat páratlan a korlátozott látótávolságban. Délben a dűnék között keresünk menedéket a szél elől, miközben az eső kopog a sziklákon. Délután a Three Cliffs Bay látványa a viharos tengerrel drámai élményt nyújt. Estére a nedves homok és a sötétedő égbolt alatt fejezzük be a túrát, ügyelve a csúszós ösvényekre a part mentén.",
+            "ro": "Dimineața pe Cefn Bryn este cețoasă și umedă, vizibilitatea redusă creând o atmosferă mistică. La prânz căutăm adăpost de vânt printre dune, în timp ce ploaia bate în stânci. După-amiaza, Three Cliffs Bay oferă o priveliște dramatică cu marea învolburată. Seara încheiem drumeția pe nisipul ud, fiind atenți la potecile de coastă alunecoase sub cerul care se întunecă rapid.",
+            "en": "Morning is misty and wet on Cefn Bryn, visibility is low but the atmosphere is mystical. At noon, seek shelter among the dunes from the wind as rain patters on the rocks. Afternoon views of Three Cliffs Bay with the stormy sea are dramatic. By evening, finish the hike under wet sands and darkening skies, being careful on slippery coastal paths as the light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cefn Bryn",
+                "hu": "Cefn Bryn",
+                "ro": "Cefn Bryn",
+                "en": "Cefn Bryn"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Bergrücken weht oft starker Wind; tragen Sie eine robuste Regenjacke und Bergschuhe, da die Pfade bei Nässe sehr rutschig und schlammig werden können.",
+                "hu": "A gerincen erős lehet a szél és az eső, viseljen strapabíró vízhatlan kabátot és túrabakancsot, mert az ösvények gyorsan sárossá és csúszóssá válhatnak.",
+                "ro": "Pe creastă vântul poate fi puternic; purtați o jachetă impermeabilă robustă și bocanci, deoarece potecile devin rapid noroioase și alunecoase la ploaie.",
+                "en": "Strong winds prevail on the ridge; wear a heavy waterproof jacket and hiking boots, as the paths become very muddy and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor Bay",
+                "hu": "Tor Bay",
+                "ro": "Tor Bay",
+                "en": "Tor Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zur Bucht ist bei Regen auf dem Kalkstein gefährlich; nutzen Sie Wanderstöcke für besseren Halt und meiden Sie die nassen Algen auf den Steinen.",
+                "hu": "Az öbölbe vezető út esőben csúszós lehet a mészkövön, használjon túrabotot a stabilitáshoz és kerülje a nedves algás köveket a part mentén.",
+                "ro": "Coborârea spre golf este periculoasă pe calcarul umed; folosiți bețe de trekking pentru stabilitate și evitați pietrele cu alge de la malul mării.",
+                "en": "The descent to the bay is tricky on wet limestone; use trekking poles for balance and stay away from slippery seaweed-covered rocks at the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "hu": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "ro": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "en": "Penmaen Burrows Megalith Chamber (Pen-y-crug)"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen bieten zwar Windschutz, doch das Grabmal ist ungeschützt; prüfen Sie die Steine vorsichtig, da sie bei Nässe extrem glatt sein können.",
+                "hu": "A dűnék némi szélvédelmet nyújtanak, de a sírkamra nyitott; óvatosan közelítse meg a köveket, mert az esőben rendkívül csúszóssá válnak.",
+                "ro": "Dunele oferă protecție contra vântului, dar situl este expus; examinați pietrele cu grijă, deoarece devin extrem de alunecoase când sunt ude.",
+                "en": "Dunes offer some wind protection, but the chamber is exposed; approach the stones carefully as they become extremely slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Cliffs Bay",
+                "hu": "Three Cliffs Bay",
+                "ro": "Three Cliffs Bay",
+                "en": "Three Cliffs Bay"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie den Fluss bei Regen nicht, da der Pegel schnell steigen kann; genießen Sie die dramatische Aussicht sicher von den oberen Klippenwegen.",
+                "hu": "Esőben ne kísérelje meg az átkelést a folyón a gyors vízszintemelkedés miatt; csodálja a drámai kilátást biztonságban a felső sziklaparti ösvényekről.",
+                "ro": "Nu încercați traversarea râului pe ploaie, nivelul poate crește rapid; admirați priveliștea dramatică în siguranță de pe potecile de deasupra falezei.",
+                "en": "Do not attempt to cross the river during rain as levels rise quickly; enjoy the dramatic stormy views safely from the upper cliff-side paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Pobbles Beach",
+                "hu": "Pobbles Beach",
+                "ro": "Pobbles Beach",
+                "en": "Pobbles Beach"
+              },
+              "tip_5lang": {
+                "de": "Unter den Klippen finden Sie kleine trockene Nischen, doch achten Sie auf die Flut, die bei Sturm schneller kommt und den Rückweg abschneiden kann.",
+                "hu": "A sziklák alatt találhat szárazabb zugokat, de figyeljen a dagályra, amely viharos időben gyorsabban érkezik és elvághatja a visszavezető utat.",
+                "ro": "Sub stânci puteți găsi nișe uscate, dar atenție la flux; pe furtună marea vine mai repede și vă poate bloca drumul de întoarcere spre sat.",
+                "en": "You can find dry spots under the cliffs, but watch the tide; stormy weather makes it rise faster, potentially cutting off your return path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns auf dem Gipfel, während die Reiflandschaft im schwachen Sonnenlicht funkelt. Mittags wird die Bedeutung von Schichten spürbar, wenn der Seewind an den Dünen auffrischt. Die tiefstehende Nachmittagssonne wirft lange Schatten auf die Klippen vor der frühen Dämmerung. Gegen 17 Uhr wird es bereits dunkel, also verlassen wir den Strand rechtzeitig.",
+            "hu": "A fagyos reggel friss levegővel köszönt a dombtetőn, a zúzmarás táj ragyog a gyenge napsütésben. Délben a réteges öltözködés fontossága felértékelődik, ahogy a tengeri szél felerősödik a dűnéknél. Délután a nap alacsonyan jár, hosszú árnyékokat vetve a sziklákra a korai alkonyat előtt. Este 5 óra körül már sötétedik, így a partot elhagyva a falu fényei felé indulunk.",
+            "ro": "O dimineață geroasă ne întâmpină pe deal, peisajul înghețat strălucind în lumina slabă a soarelui. La prânz, straturile de haine devin esențiale pe măsură ce vântul marin se intensifică lângă dune. Soarele de după-amiază aruncă umbre lungi pe faleze înainte de amurgul timpuriu. În jurul orei 17:00 se întunecă deja, deci părăsim plaja din timp spre sat.",
+            "en": "A frosty morning greets you on the hilltop, the hoarfrost landscape sparkling in weak winter sunlight. At noon, the importance of layering is clear as sea winds pick up by the dunes. The low afternoon sun casts long shadows on the cliffs before the early twilight. By 5 PM, it starts getting dark, so leave the shore early and head towards the warm village lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cefn Bryn",
+                "hu": "Cefn Bryn",
+                "ro": "Cefn Bryn",
+                "en": "Cefn Bryn"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur ist auf dem Kamm viel niedriger; nehmen Sie heißen Tee in einer Thermoskanne mit und tragen Sie Wollschichten gegen die beißende Kälte.",
+                "hu": "A dombtetőn a hőmérséklet jóval alacsonyabb; vigyen magával forró teát termoszban és viseljen gyapjú rétegeket a metsző hideg szél ellen.",
+                "ro": "Temperatura este mult mai scăzută pe creastă; luați ceai fierbinte într-un termos și purtați straturi de lână contra vântului tăios de iarnă.",
+                "en": "Temperatures are much lower on the ridge; bring hot tea in a thermos and wear wool layers to protect yourself against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor Bay",
+                "hu": "Tor Bay",
+                "ro": "Tor Bay",
+                "en": "Tor Bay"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht ist perfekt für Fotos, aber die Kälte zieht schnell ein; planen Sie, die Bucht bis spätestens 16 Uhr zu verlassen.",
+                "hu": "Az alacsony téli napfény tökéletes fotózáshoz, de a hideg gyorsan áthatóvá válik; tervezze úgy, hogy legkésőbb 16 órakor elhagyja az öblöt.",
+                "ro": "Lumina joasă a soarelui este perfectă pentru poze, dar frigul pătrunde rapid; planificați să părăsiți golful cel târziu la ora 16:00.",
+                "en": "Low winter sunlight is perfect for photography, but the cold sets in quickly; plan to leave the bay by 4 PM at the latest to stay safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "hu": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "ro": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "en": "Penmaen Burrows Megalith Chamber (Pen-y-crug)"
+              },
+              "tip_5lang": {
+                "de": "Die megalithischen Steine sind oft mit Reif bedeckt und sehen wunderschön aus, aber der Boden kann gefroren und uneben sein; achten Sie auf Ihren Tritt.",
+                "hu": "A megalitikus köveket gyakran zúzmara borítja, ami gyönyörű látvány, de a talaj fagyott és egyenetlen lehet; figyeljen minden lépésére a romoknál.",
+                "ro": "Pietrele megalitice sunt adesea acoperite de chiciură și arată superb, dar solul poate fi înghețat și denivelat; atenție la fiecare pas făcut.",
+                "en": "The megalithic stones are often covered in hoarfrost and look beautiful, but the ground can be frozen and uneven; watch your footing carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Cliffs Bay",
+                "hu": "Three Cliffs Bay",
+                "ro": "Three Cliffs Bay",
+                "en": "Three Cliffs Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und friedlich; ziehen Sie eine winddichte Mütze an, da der Luftzug zwischen den Klippen sehr eisig ist.",
+                "hu": "A strand télen szinte teljesen kihalt és békés; viseljen szélálló sapkát, mert a sziklák közötti légáramlat ilyenkor rendkívül jeges lehet.",
+                "ro": "Plaja este aproape pustie și liniștită iarna; purtați o căciulă rezistentă la vânt, deoarece curentul dintre stânci este extrem de rece acum.",
+                "en": "The beach is nearly deserted and peaceful in winter; wear a windproof hat as the draft between the cliffs can be extremely icy this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Pobbles Beach",
+                "hu": "Pobbles Beach",
+                "ro": "Pobbles Beach",
+                "en": "Pobbles Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Ufer, aber beginnen Sie den Rückweg vor 16:30 Uhr, damit Sie die Pfade noch vor der völligen Dunkelheit bewältigen.",
+                "hu": "Élvezze a magányt a parton, de kezdje meg a visszautat 16:30 előtt, hogy még a teljes sötétség beállta előtt elérje a biztonságos utakat.",
+                "ro": "Bucurați-vă de singurătatea de pe mal, dar începeți drumul de întoarcere înainte de 16:30 pentru a parcurge potecile înainte de întuneric.",
+                "en": "Enjoy the solitude on the shore, but start your return journey before 4:30 PM to navigate the trails before total darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kerékpártúra a titokzatos Parc le Breos sírkamrával indul egy buja völgyben. Rövid tekeréssel a történelmi Cathole Cave barlangot fedezheti fel a délelőtt folyamán. Délben a Cefn Bryn gerincre érve lenyűgöző panoráma fogadja, mielőtt a Penmaen Burrows felé indul. A délután a csodás Three Cliffs Bayt és a High Pennard Camp távoli romjait tartogatja. Végül a Pobbles Beach tengerpartján pihenhet meg, ahol a hullámok morajlása nyugtatja meg az elfáradt lábakat.",
         "ro": "Turul cu bicicleta începe la mormântul Parc le Breos, ascuns într-o vale luxuriantă. O scurtă pedalare vă duce la peștera istorică Cathole Cave. La prânz, urcați pe Cefn Bryn pentru a vă bucura de panorame ample ale peninsulei înainte de a continua spre Penmaen Burrows. După-amiaza vă aduce la magnifica Three Cliffs Bay și la ruinele izolate de la High Pennard Camp. În cele din urmă, încheiați călătoria pe plaja Pobbles, lăsând valurile să vă relaxeze.",
         "en": "Your cycling tour starts with the mysterious Parc le Breos Tomb, hidden within a lush valley. A short pedal takes you to the deep, historical Cathole Cave for a morning exploration. At midday, ride up to Cefn Bryn to enjoy sweeping panoramas of Gower before continuing to Penmaen Burrows. The afternoon brings you to the magnificent Three Cliffs Bay and the remote ruins of High Pennard Camp. Finally, end your journey at Pobbles Beach, letting the ocean waves soothe your tired legs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher Schlamm und Regen testen die Ausdauer auf den Waldwegen; ein wasserdichter Poncho ist unverzichtbar. Mittags bieten Höhlen trockenen Schutz während der Fahrt, während die Landschaft tiefgrün leuchtet. Nachmittags geht es vorsichtig über rutschige Hänge zur felsigen Küste. Abends belohnt der Blick auf die stürmische Brandung die Mühe vor der Rückkehr zur Reinigung.",
+            "hu": "A reggeli sár és eső próbára teszi a kitartást az erdei utak mentén, a vízhatlan köpeny kötelező felszerelés. Délben a barlangok nyújtanak némi száraz menedéket a bringázás közben, miközben a táj mélyzöldre vált a nedvességtől. Délután a csúszós lejtőkön óvatosan haladunk a sziklás part felé. Estére a viharos part látványa feledteti a fáradtságot a tisztítás előtt.",
+            "ro": "Noroiul de dimineață și ploaia testează rezistența pe potecile din pădure; pelerina impermeabilă este esențială. La prânz, peșterile oferă adăpost uscat, în timp ce peisajul devine verde intens de la umiditate. După-amiaza coborâm cu grijă pe pantele alunecoase spre coasta stâncoasă. Seara, priveliștea țărmului furtunos răsplătește efortul înainte de curățarea bicicletei.",
+            "en": "Morning mud and rain test your endurance along woodland paths; a waterproof poncho is essential for this ride. At noon, caves provide dry shelter while the landscape turns deep green from the moisture. In the afternoon, descend carefully on slippery slopes towards the rocky coast. By evening, the stormy shore views reward your effort before heading back for a gear cleanup."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc le Breos Chambered Tomb",
+                "hu": "Parc le Breos Chambered Tomb",
+                "ro": "Parc le Breos Chambered Tomb",
+                "en": "Parc le Breos Chambered Tomb"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Grabmal ist schlammig; bremsen Sie frühzeitig vor Kurven und meiden Sie die nassen Wurzeln, die für Reifen extrem rutschig sind.",
+                "hu": "A sírkamrához vezető út sáros; fékezzen időben a kanyarok előtt és kerülje a nedves gyökereket, amelyek rendkívül csúszósak a gumiknak.",
+                "ro": "Drumul spre mormânt este noroios; frânați din timp înaintea curbelor și evitați rădăcinile umede, care sunt extrem de alunecoase pentru anvelope.",
+                "en": "The path to the tomb is muddy; brake early before corners and avoid wet roots, which are extremely slippery for bike tires in these conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathole Cave",
+                "hu": "Cathole Cave",
+                "ro": "Cathole Cave",
+                "en": "Cathole Cave"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Höhle für eine trockene Pause; stellen Sie Ihr Rad sicher ab, da der Kalkstein am Eingang bei Regen sehr glatt wird.",
+                "hu": "Használja a barlangot egy száraz pihenőre; támassza le biztonságosan a biciklit, mert a bejáratnál a mészkő esőben nagyon csúszik.",
+                "ro": "Folosiți peștera pentru o pauză uscată; lăsați bicicleta în siguranță, deoarece calcarul de la intrare devine foarte alunecos la ploaie.",
+                "en": "Use the cave for a dry break; park your bike securely as the limestone at the entrance becomes very slick during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Cefn Bryn",
+                "hu": "Cefn Bryn",
+                "ro": "Cefn Bryn",
+                "en": "Cefn Bryn"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengend und windig; achten Sie auf Seitenwinde auf dem Grat und halten Sie beide Hände fest am Lenker.",
+                "hu": "Az emelkedő esőben fárasztó és szeles; ügyeljen az oldalszélre a gerincen, és tartsa mindkét kezét szilárdan a kormányon a biztonságért.",
+                "ro": "Urcarea este obositoare și vântoasă pe ploaie; atenție la vântul lateral pe creastă și țineți ambele mâini ferm pe ghidon pentru siguranță.",
+                "en": "The climb is tiring and windy in the rain; watch out for crosswinds on the ridge and keep both hands firmly on the handlebars for stability."
+              }
+            },
+            {
+              "name": {
+                "de": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "hu": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "ro": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "en": "Penmaen Burrows Megalith Chamber (Pen-y-crug)"
+              },
+              "tip_5lang": {
+                "de": "Der sandige Boden wird schwer zu befahren; schieben Sie Ihr Rad über die nassesten Stellen, um die Mechanik vor Schlamm und Sand zu schützen.",
+                "hu": "A homokos talaj nehezen járhatóvá válik; tolja a biciklit a legnedvesebb szakaszokon, hogy megóvja a váltót a sártól és a homoktól.",
+                "ro": "Solul nisipos devine greu de parcurs; împingeți bicicleta pe porțiunile cele mai ude pentru a proteja mecanismele de noroi și nisip.",
+                "en": "The sandy ground becomes difficult to ride; push your bike over the wettest sections to protect the mechanics from mud and sand buildup."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Cliffs Bay",
+                "hu": "Three Cliffs Bay",
+                "ro": "Three Cliffs Bay",
+                "en": "Three Cliffs Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht erfordert volle Konzentration; prüfen Sie Ihre Bremsen vor dem Gefälle, da die Felgen bei Nässe langsamer reagieren.",
+                "hu": "Az öbölhöz vezető lejtő teljes koncentrációt igényel; ellenőrizze a fékeket az ereszkedés előtt, mert nedvesen lassabban fognak.",
+                "ro": "Coborârea spre golf necesită concentrare maximă; verificați frânele înainte de pantă, deoarece jantele umede reacționează mai lent la frânare.",
+                "en": "The descent to the bay requires full focus; check your brakes before the slope, as wet rims respond more slowly than dry ones."
+              }
+            },
+            {
+              "name": {
+                "de": "High Pennard Camp",
+                "hu": "High Pennard Camp",
+                "ro": "High Pennard Camp",
+                "en": "High Pennard Camp"
+              },
+              "tip_5lang": {
+                "de": "Auf den Klippenwegen ist der Wind bei Regen extrem stark; halten Sie Abstand zum Rand, da die Böen Ihr Rad leicht versetzen können.",
+                "hu": "A sziklaparti utakon az esőben rendkívül erős a szél; tartson távolságot a peremtől, mert a széllökések könnyen meglökhetik a biciklit.",
+                "ro": "Pe drumurile de coastă vântul este foarte puternic pe ploaie; stați departe de margine, deoarece rafalele pot destabiliza ușor bicicleta.",
+                "en": "Wind is extremely strong on the cliff paths during rain; keep a safe distance from the edge as gusts can easily push your bike sideways."
+              }
+            },
+            {
+              "name": {
+                "de": "Pobbles Beach",
+                "hu": "Pobbles Beach",
+                "ro": "Pobbles Beach",
+                "en": "Pobbles Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Kette bei Salzwasser und Regen schnell rostet; reinigen Sie Ihr Rad sofort nach der Rückkehr gründlich.",
+                "hu": "Fejezze be gyorsan a túrát, mert a lánc a sós víz és eső miatt hamar rozsdásodik; tisztítsa meg alaposan a biciklit a visszaérkezés után.",
+                "ro": "Încheiați rapid tura, deoarece lanțul ruginește repede din cauza apei sărate și ploii; curățați bine bicicleta imediat după întoarcere.",
+                "en": "Finish your ride promptly as saltwater and rain cause the chain to rust quickly; give your bike a thorough cleaning immediately upon return."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahrt zu den historischen Gräbern im beißenden Winterwind; Handschuhe und Gesichtsmasken sind auf den Hügeln lebenswichtig. Mittags gleiten wir unter kaltem, aber klarem Himmel und achten auf gefrorene Pfützen. Das rötliche Licht der Nachmittagssonne beleuchtet die Klippen vor der frühen Dunkelheit. Um 17 Uhr endet das Tageslicht; Sorgen Sie für gute Beleuchtung zur Rückkehr.",
+            "hu": "A metsző téli szélben indulunk a történelmi sírok felé, a kesztyű és az arcmaszk elengedhetetlen a dombokon. Délben a rideg, de tiszta égbolt alatt suhanunk, a befagyott tócsákra figyelve az ösvényeken. Délután a lemenő nap vöröses fénye világítja meg a sziklákat a korai sötétedés előtt. Este 5-kor már véget ér a nappali fény, a lámpák segítenek a visszatérésben.",
+            "ro": "Pedalăm spre mormintele istorice în vântul tăios de iarnă; mănușile și masca sunt vitale pe dealuri. La prânz zburăm sub cerul rece dar senin, atenți la bălțile înghețate de pe poteci. Lumina roșiatică a apusului luminează stâncile înainte de întunericul timpuriu. La ora 17:00 lumina zilei dispare; asigurați-vă că farurile sunt gata pentru drum.",
+            "en": "Ride towards historical tombs in the biting winter wind; gloves and face masks are vital on the hills. At noon, glide under cold but clear skies, watching for frozen puddles on the trails. Reddish light from the setting sun illuminates the cliffs before early darkness. By 5 PM, daylight ends; ensure your bike lights are bright and ready to guide you back safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc le Breos Chambered Tomb",
+                "hu": "Parc le Breos Chambered Tomb",
+                "ro": "Parc le Breos Chambered Tomb",
+                "en": "Parc le Breos Chambered Tomb"
+              },
+              "tip_5lang": {
+                "de": "Der Waldweg kann vereist sein; fahren Sie mit niedrigem Reifendruck für besseren Grip auf dem gefrorenen Boden zwischen den alten Steinen.",
+                "hu": "Az erdei út jeges lehet; használjon alacsonyabb guminyomást a jobb tapadásért a fagyott talajon a történelmi kövek között.",
+                "ro": "Drumul prin pădure poate fi înghețat; folosiți o presiune mai mică în pneuri pentru aderență mai bună pe solul înghețat de lângă sit.",
+                "en": "The woodland path may be icy; use lower tire pressure for better grip on the frozen ground as you explore the ancient stone monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathole Cave",
+                "hu": "Cathole Cave",
+                "ro": "Cathole Cave",
+                "en": "Cathole Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle schützt vor dem Wind, aber der Aufstieg ist glatt; lassen Sie Ihre Radschuhe an, wenn sie Profil haben, oder seien Sie extrem vorsichtig.",
+                "hu": "A barlang véd a szél ellen, de a felvezető szakasz csúszós; legyen nagyon óvatos a bringás cipőben a fagyott sziklákon a bejáratnál.",
+                "ro": "Peștera protejează de vânt, dar urcarea este alunecoasă; fiți extrem de atenți cu pantofii de ciclism pe stâncile înghețate de la intrare.",
+                "en": "The cave protects from the wind, but the climb up is slick; be extremely careful with cycling shoes on the frozen rocks near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Cefn Bryn",
+                "hu": "Cefn Bryn",
+                "ro": "Cefn Bryn",
+                "en": "Cefn Bryn"
+              },
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt auf dem Kamm ist extrem; tragen Sie winddichte Kleidung, um ein Auskühlen bei der schnellen Abfahrt vom Gipfel zu verhindern.",
+                "hu": "A szél hűtőhatása a gerincen rendkívüli; viseljen szélálló ruházatot, hogy elkerülje a lehűlést a tetőről való gyors ereszkedés közben.",
+                "ro": "Efectul de răcire al vântului pe creastă este extrem; purtați haine rezistente la vânt pentru a evita hipotermia la coborârea rapidă de pe deal.",
+                "en": "The wind chill effect on the ridge is extreme; wear windproof clothing to prevent cooling down during the fast descent from the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "hu": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "ro": "Penmaen Burrows Megalith Chamber (Pen-y-crug)",
+                "en": "Penmaen Burrows Megalith Chamber (Pen-y-crug)"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter oft fest gefroren, was das Fahren erleichtert, aber achten Sie auf versteckte Eisplatten unter dünnem Sand.",
+                "hu": "A homok télen gyakran keményre fagy, ami megkönnyíti a haladást, de ügyeljen a homok alatt megbújó rejtett jégfoltokra a sírnál.",
+                "ro": "Nisipul este adesea înghețat bocnă, ceea ce ușurează rularea, dar atenție la petele de gheață ascunse sub un strat subțire de nisip.",
+                "en": "The sand is often frozen solid in winter, making riding easier, but watch out for hidden ice patches beneath thin layers of sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Cliffs Bay",
+                "hu": "Three Cliffs Bay",
+                "ro": "Three Cliffs Bay",
+                "en": "Three Cliffs Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht direkt über dem Meer unter; genießen Sie den Blick, aber brechen Sie sofort nach Sonnenuntergang auf, da es rasch eiskalt wird.",
+                "hu": "A téli nap közvetlenül a tenger felett nyugszik; élvezze a látványt, de induljon el azonnal naplemente után, mert a levegő hirtelen lehűl.",
+                "ro": "Soarele de iarnă apune direct peste mare; admirați peisajul, dar plecați imediat după apus, deoarece temperatura scade brusc la îngheț.",
+                "en": "The winter sun sets directly over the sea; enjoy the view, but depart immediately after sunset as temperatures drop to freezing instantly."
+              }
+            },
+            {
+              "name": {
+                "de": "High Pennard Camp",
+                "hu": "High Pennard Camp",
+                "ro": "High Pennard Camp",
+                "en": "High Pennard Camp"
+              },
+              "tip_5lang": {
+                "de": "Die Klippenpfade sind im Winter sehr exponiert; achten Sie auf Böen und sorgen Sie dafür, dass Ihre Hände in warmen Handschuhen beweglich bleiben.",
+                "hu": "A sziklaparti ösvények télen nagyon kitettek; ügyeljen a széllökésekre és biztosítsa, hogy kezei melegek maradjanak a fékek kezeléséhez.",
+                "ro": "Potecile de pe faleză sunt foarte expuse iarna; atenție la rafale și asigurați-vă că mâinile rămân calde pentru a putea acționa frânele.",
+                "en": "The cliff paths are very exposed in winter; watch out for gusts and ensure your hands stay warm enough to operate the brakes effectively."
+              }
+            },
+            {
+              "name": {
+                "de": "Pobbles Beach",
+                "hu": "Pobbles Beach",
+                "ro": "Pobbles Beach",
+                "en": "Pobbles Beach"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Beleuchtung spätestens um 16:30 Uhr ein; die Rückfahrt durch die Dünen erfordert bei Dämmerung gute Sicht und Vorsicht.",
+                "hu": "Kapcsolja be a világítást legkésőbb 16:30-kor; a dűnéken keresztüli visszautazás szürkületben jó látási viszonyokat és óvatosságot igényel.",
+                "ro": "Aprindeți luminile cel târziu la 16:30; drumul de întoarcere prin dune necesită vizibilitate bună și atenție sporită pe timp de amurg.",
+                "en": "Switch on your lights by 4:30 PM at the latest; the return journey through the dunes requires good visibility and extra caution in twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája a Cefn Bryn tetején kezdődik, ahonnan a Gower félsziget reggeli párás látványát élvezheti. Ereszkedjen le az erdős völgybe a Parc le Breos és a Cathole Cave ősi köveihez. Délben egy napfényes tengerparti megálló várja a tágas Tor Bay partján. Délután csodálja meg a Three Cliffs Corner lenyűgöző kilátását és a Cromen természetes sziklaképződményeit. Látványos autós utazását egy csendes naplemente-sétával zárhatja a Pobbles Beach homokján.",
         "ro": "Începeți turul auto pe Cefn Bryn pentru a asista la ceața dimineții ridicându-se de pe peninsula Gower. Conduceți în valea împădurită pentru a explora pietrele antice de la Parc le Breos și Cathole Cave. Prânzul cere o oprire de coastă însorită la Tor Bay. După-amiaza, minunați-vă de priveliștile uluitoare de la Three Cliffs Corner și de formațiunile stâncoase naturale Cromen. Încheiați călătoria cu o plimbare liniștită la apus pe plaja Pobbles.",
         "en": "Start your driving tour atop Cefn Bryn to witness morning mist rolling off the majestic Gower peninsula. Drive down to the wooded valley to explore the ancient stones of Parc le Breos and nearby Cathole Cave. Midday calls for a sunny coastal stop at the expansive Tor Bay. In the afternoon, marvel at the breathtaking vistas from Three Cliffs Corner and the natural rock formations of Cromen. Conclude your spectacular road trip with a quiet sunset stroll on Pobbles Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Morgen bewundern wir die Halbinsel Gower aus der Sicherheit des Autos und machen kurze Abstecher zu Aussichtspunkten. Mittags navigieren wir zwischen Höhlen und Dünen und nutzen das Fahrzeug als trockenen Unterschlupf zwischen den Schauern. Nachmittags fotografieren wir stürmische Küstenpanoramen. Abends beobachten wir die dunkle Bucht durch beschlagene Fenster.",
+            "hu": "Az esős reggelen az autó biztonságából csodáljuk a Gower-félszigetet, rövid sétákat téve a kilátókhoz. Délben a barlangok és dűnék között navigálunk, kihasználva a jármű nyújtotta száraz menedéket a záporok között. Délután a viharos tengerparti látképeket fotózzuk a parkolók közeléből. Estére a párás ablakok mögül nézzük a sötétedő öblöt, mielőtt egy meleg helyre hajtanánk.",
+            "ro": "Într-o dimineață ploioasă admirăm Peninsula Gower din siguranța mașinii, făcând scurte plimbări spre punctele de belvedere. La prânz navigăm printre peșteri și dune, folosind vehiculul ca adăpost uscat între averse. După-amiaza fotografiem panoramele de coastă furtunoase din parcări. Seara privim golful întunecat prin geamurile aburite înainte de a pleca spre cazare.",
+            "en": "On a rainy morning, admire the Gower Peninsula from the car's safety, taking short walks to the main viewpoints. At noon, navigate between caves and dunes, using the vehicle as dry shelter between the passing showers. In the afternoon, photograph stormy coastal vistas from nearby car parks to avoid the mud. By evening, watch the darkening bay through misty windows before a cozy drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cefn Bryn",
+                "hu": "Cefn Bryn",
+                "ro": "Cefn Bryn",
+                "en": "Cefn Bryn"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt an der Straße; genießen Sie den Panoramablick aus dem Auto, wenn der Regen oben auf dem Kamm zu stark wird.",
+                "hu": "Az út mentén közvetlen parkolók találhatók; élvezze a panorámát az autóból, ha a gerincen túl intenzívvé válna az eső és a szél.",
+                "ro": "Există parcări direct lângă drum; bucurați-vă de panorama din mașină dacă ploaia devine prea intensă sus pe creasta dealului.",
+                "en": "There are parking spots right along the road; enjoy the panoramic views from your car if the rain becomes too intense up on the ridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc le Breos Chambered Tomb",
+                "hu": "Parc le Breos Chambered Tomb",
+                "ro": "Parc le Breos Chambered Tomb",
+                "en": "Parc le Breos Chambered Tomb"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Taleingang; der kurze Fußweg zum Grab ist bei Regen schlammig, bringen Sie also Ersatzschuhe für die Weiterfahrt mit.",
+                "hu": "Parkoljon a völgy bejáratánál; a sírhoz vezető rövid séta esőben sáros, így hozzon váltócipőt az autóba a továbbutazáshoz.",
+                "ro": "Parcați la intrarea în vale; scurta plimbare spre mormânt este noroioasă pe ploaie, deci aduceți pantofi de schimb pentru mașină.",
+                "en": "Park at the valley entrance; the short walk to the tomb is muddy in the rain, so bring a change of shoes for the rest of your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathole Cave",
+                "hu": "Cathole Cave",
+                "ro": "Cathole Cave",
+                "en": "Cathole Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet perfekten Schutz vor einem plötzlichen Schauer; der Weg vom Parkplatz ist kurz, aber bei Nässe auf den Steinen rutschig.",
+                "hu": "A barlang tökéletes menedéket nyújt egy hirtelen zápor elől; a parkolótól vezető út rövid, de a nedves köveken óvatosan lépkedjen.",
+                "ro": "Peștera oferă adăpost perfect contra unei averse bruște; drumul de la parcare este scurt, dar fiți atenți pe pietrele ude la intrare.",
+                "en": "The cave provides perfect shelter from a sudden shower; the path from the parking area is short, but be careful on the wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor Bay",
+                "hu": "Tor Bay",
+                "ro": "Tor Bay",
+                "en": "Tor Bay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz in Penmaen; der Blick auf die Bucht im Regen ist dramatisch, aber meiden Sie die steilen, rutschigen Klippenpfade.",
+                "hu": "Használja a penmaeni parkolót; az öböl látványa esőben drámai, de kerülje a meredek, csúszós sziklaparti ösvényeket a biztonságáért.",
+                "ro": "Folosiți parcarea din Penmaen; vederea spre golf pe ploaie este dramatică, dar evitați potecile abrupte și alunecoase de pe faleză.",
+                "en": "Use the parking area in Penmaen; the view of the bay in the rain is dramatic, but avoid the steep, slippery cliff paths for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Cliffs Corner",
+                "hu": "Three Cliffs Corner",
+                "ro": "Three Cliffs Corner",
+                "en": "Three Cliffs Corner"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen Pfützen bilden; fahren Sie langsam und achten Sie auf Wanderer, die am Straßenrand Schutz suchen.",
+                "hu": "A szűk bekötőutakon esőben tócsák alakulhatnak ki; hajtson lassan és ügyeljen az út szélén menedéket kereső gyalogosokra.",
+                "ro": "Drumurile înguste de acces pot avea bălți mari pe ploaie; conduceți încet și atenție la pietonii care caută adăpost la marginea drumului.",
+                "en": "Narrow access roads can develop deep puddles in the rain; drive slowly and watch out for hikers seeking shelter by the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromen",
+                "hu": "Cromen",
+                "ro": "Cromen",
+                "en": "Cromen"
+              },
+              "tip_5lang": {
+                "de": "Dieser Aussichtspunkt ist gut erreichbar; bleiben Sie im Fahrzeug, um die stürmische See zu beobachten, wenn die Böen für einen Spaziergang zu stark sind.",
+                "hu": "Ez a kilátópont könnyen megközelíthető; maradjon a járműben a viharos tenger megfigyeléséhez, ha a széllökések túl erősek egy sétához.",
+                "ro": "Acest punct de belvedere este ușor accesibil; rămâneți în vehicul pentru a vedea marea învolburată dacă vântul este prea puternic pentru mers.",
+                "en": "This viewpoint is easily accessible; stay in the vehicle to watch the stormy sea if the wind gusts are too strong for a safe walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Pobbles Beach",
+                "hu": "Pobbles Beach",
+                "ro": "Pobbles Beach",
+                "en": "Pobbles Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und nutzen Sie die Klimaanlage gegen beschlagene Scheiben, während Sie den Regen über dem Ozean vor der Rückfahrt genießen.",
+                "hu": "Parkoljon le biztonságosan és használja a páramentesítőt, miközben az óceán feletti esőt figyeli az autóból a visszaindulás előtt.",
+                "ro": "Parcați în siguranță și folosiți dezaburirea geamurilor în timp ce priviți ploaia de peste ocean din mașină înainte de plecare.",
+                "en": "Park safely and use your defroster for misty windows while watching the rain over the ocean from your car before heading back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Auf vereisten Straßen beginnen wir den Tag vorsichtig in den Hügeln; die beheizte Kabine ist der beste Ort, um die Landschaft zu betrachten. Nach dem Besuch archäologischer Stätten kehren wir schnell vor dem Seewind ins warme Auto zurück. Nachmittags malen goldene Sonnenuntergangslichter die Buchten an. Abends führen uns Dorflichter im frühen Dunkel zu einem heißen Getränk.",
+            "hu": "A jeges utakon óvatosan kezdjük a napot a dombok között; a fűtött utastér a legjobb hely a táj szemlélésére. A régészeti helyszínek megtekintése után gyorsan visszatérünk a meleg autóba a tengeri szél elől. Délután a téli naplemente aranyló fényei festik át az öblöket. Estére a korai sötétben a falusi fények vezetnek minket egy forró italra.",
+            "ro": "Începem ziua cu grijă pe drumurile înghețate; cabina încălzită este cel mai bun loc pentru a admira peisajul iernatic. După vizitarea siturilor arheologice, revenim rapid în mașina caldă, feriți de vântul marin. După-amiaza, lumina aurie a apusului pictază golfurile. Seara, luminile satului ne ghidează prin întunericul timpuriu spre un ceai cald.",
+            "en": "Start the day carefully on icy roads among the hills; the heated cabin is the best place to view the scenery. After visiting archaeological sites, return quickly to the warm car to escape the biting sea wind. In the afternoon, golden sunset lights paint the bays beautifully. By evening, village lights guide you through the early dark for a well-deserved hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cefn Bryn",
+                "hu": "Cefn Bryn",
+                "ro": "Cefn Bryn",
+                "en": "Cefn Bryn"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis auf den exponierten Straßen; die Aussicht auf die verschneite oder gefrorene Halbinsel ist vom warmen Sitz aus herrlich.",
+                "hu": "Ügyeljen a fekete jégre a kitett utakon; a fagyos félsziget látványa a fűtött autóból is lenyűgöző, ne maradjon kint sokáig a hidegben.",
+                "ro": "Atenție la polei pe drumurile expuse; vederea spre peninsula înghețată este superbă din mașina caldă, nu stați prea mult afară în frig.",
+                "en": "Watch out for black ice on the exposed roads; the view of the frozen peninsula is magnificent from your warm seat, so don't linger too long outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc le Breos Chambered Tomb",
+                "hu": "Parc le Breos Chambered Tomb",
+                "ro": "Parc le Breos Chambered Tomb",
+                "en": "Parc le Breos Chambered Tomb"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Schatten vereist sein; machen Sie nur einen kurzen Spaziergang zum Grabmal, um die Kälte an den Knochen zu vermeiden.",
+                "hu": "A parkoló az árnyékos részeken jeges lehet; tegyen csak egy rövid sétát a sírkamrához, hogy elkerülje az átfagyást a tengeri szélben.",
+                "ro": "Parcarea poate fi înghețată în zonele cu umbră; faceți doar o scurtă plimbare spre mormânt pentru a evita frigul pătrunzător de afară.",
+                "en": "The parking area can be icy in shaded spots; keep your walk to the tomb brief to avoid getting chilled by the persistent sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cathole Cave",
+                "hu": "Cathole Cave",
+                "ro": "Cathole Cave",
+                "en": "Cathole Cave"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, aber heizen Sie den Innenraum vor dem Aussteigen gut auf, da der Weg zur Höhle im Winter sehr frostig ist.",
+                "hu": "Ne járassa feleslegesen a motort, de fűtse fel az utasteret kiszállás előtt, mert a barlanghoz vezető út télen rendkívül fagyos és szeles.",
+                "ro": "Nu lăsați motorul pornit inutil, dar încălziți bine mașina înainte de a ieși, deoarece drumul spre peșteră este foarte geros iarna.",
+                "en": "Don't idle unnecessarily, but warm up the interior before stepping out, as the short path to the cave is very frosty and windy in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Tor Bay",
+                "hu": "Tor Bay",
+                "ro": "Tor Bay",
+                "en": "Tor Bay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Wintersonne sehen können; der Abstieg zur Bucht dauert bei Kälte länger, planen Sie also genug Zeit vor 16 Uhr ein.",
+                "hu": "Parkoljon úgy, hogy lássa a téli naplementét; a hidegben az öbölbe való lejutás több időt vesz igénybe, tervezzen 16 óra előtti indulást.",
+                "ro": "Parcați astfel încât să vedeți apusul de iarnă; coborârea spre golf durează mai mult pe frig, deci planificați să plecați înainte de ora 16:00.",
+                "en": "Park where you can see the winter sunset; the descent to the bay takes longer in the cold, so plan your visit well before 4 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Three Cliffs Corner",
+                "hu": "Three Cliffs Corner",
+                "ro": "Three Cliffs Corner",
+                "en": "Three Cliffs Corner"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Straßen erfordern im Winter bei Reif volle Vorsicht; nutzen Sie die Parkbuchten für Fotos, ohne die Heizung im Auto zu verlassen.",
+                "hu": "A szűk utak téli zúzmarában teljes óvatosságot igényelnek; használja a parkolóöblöket fotózáshoz anélkül, hogy elhagyná a fűtött autót.",
+                "ro": "Drumurile înguste necesită prudență maximă pe polei; folosiți alveolele de parcare pentru poze fără a părăsi căldura din mașină.",
+                "en": "Narrow roads require full caution during winter frost; use the parking laybys for photos without even having to leave your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Cromen",
+                "hu": "Cromen",
+                "ro": "Cromen",
+                "en": "Cromen"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die raue See ist im Winter von der Klippenstraße aus fantastisch; halten Sie kurz an, aber achten Sie auf die frühe Dämmerung.",
+                "hu": "A zord téli tenger látványa fantasztikus a sziklaparti útról; álljon meg egy rövid időre, de ügyeljen a korán beálló szürkületre.",
+                "ro": "Vederea spre marea agitată de iarnă este fantastică de pe drumul de coastă; opriți scurt, dar fiți atenți la amurgul care vine repede.",
+                "en": "The view of the rough winter sea is fantastic from the cliff road; stop briefly for the vista, but be mindful of the fast-approaching twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Pobbles Beach",
+                "hu": "Pobbles Beach",
+                "ro": "Pobbles Beach",
+                "en": "Pobbles Beach"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Scheinwerfer frühzeitig ein; die Fahrt zurück zum Dorf in der frühen Dunkelheit erfordert Konzentration auf den kurvigen Wegen.",
+                "hu": "Kapcsolja be korán a fényszórókat; a kora esti sötétben való visszavezetés a faluba koncentrációt igényel a kanyargós és jeges utakon.",
+                "ro": "Aprindeți farurile devreme; condusul înapoi spre sat pe întunericul timpuriu necesită concentrare pe drumurile șerpuite și înghețate.",
+                "en": "Turn on your headlights early; driving back to the village in the early darkness requires extra concentration on the winding, icy roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

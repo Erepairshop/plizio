@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi parti erődök felfedezésével, majd sétáljon fel a fenséges királyi palotához és kertjeihez. Délben merüljön el a klasszikus autók lenyűgöző gyűjteményében. A délutánt nyugodt kápolnák és a békés folyóparti strandok felfedezésével töltheti. Zárja a napot a vízpart melletti történelmi mészégetők megtekintésével.",
         "ro": "Începeți dimineața explorând fortărețele de coastă istorice înainte de a urca spre palatul regal și grădinile sale maiestuoase. La prânz, admirați o colecție impresionantă de automobile clasice. După-amiaza se desfășoară cu opriri senine la capele locale și plaje liniștite pe râu. Încheiați ziua admirând cuptoarele istorice de var de lângă apă.",
         "en": "Start your morning exploring the historic coastal fortresses before wandering up to the majestic royal palace and gardens. By midday, delve into an impressive collection of classic automobiles. Your afternoon unfolds with serene stops at local chapels and calm river beaches. Conclude the day by admiring the historical lime kilns near the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Forte de Nossa Senhora do Vale, wo die Mauern Schutz vor der ersten Brise bieten. Mittags erkunden Sie die prächtigen Innenräume des Paço Real, um dem Regen zu entgehen. Am Nachmittag bietet das Automobilmuseum eine perfekte trockene Zuflucht. Der Abend klingt an den historischen Kalköfen aus, während der Regen sanft auf das nahe Meer prasselt.",
+            "hu": "Kezdje a reggelt a Forte de Nossa Senhora do Vale falai között, amelyek védelmet nyújtanak az eső ellen. Délben a Paço Real termeiben keressen menedéket a zápor elől. Délután az autómuzeum tökéletes fedett programot kínál. Az estét a történelmi mészégető kemencéknél zárja, figyelve, ahogy az eső mossa a tengerparti köveket, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Începeți dimineața la Forte de Nossa Senhora do Vale, unde zidurile oferă adăpost împotriva primilor stropi. La prânz, explorați interiorul palatului Paço Real pentru a rămâne uscați. După-amiaza este dedicată muzeului de automobile, o destinație perfectă de interior. Seara se încheie la vechile cuptoare de var, admirând oceanul sub cerul înnorat și atmosfera melancolică a țărmului.",
+            "en": "Start your morning at Forte de Nossa Senhora do Vale, where the stone structures provide some shelter from the drizzle. At noon, head inside the Paço Real to admire its architecture while staying dry. The afternoon is best spent in the vintage car museum's covered halls. Finish your evening by the historic lime kilns, watching the rain hit the Atlantic under the dim coastal lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte de Nossa Senhora do Vale",
+                "hu": "Forte de Nossa Senhora do Vale",
+                "ro": "Forte de Nossa Senhora do Vale",
+                "en": "Forte de Nossa Senhora do Vale"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsgräben und nutzen Sie die Torbögen als Unterstand bei plötzlichen Schauern; festes Schuhwerk ist auf den nassen Steinen wichtig.",
+                "hu": "Fedezze fel az erőd várárkait, és használja a boltíves kapukat menedékként hirtelen zápor esetén; a nedves köveken a csúszásmentes lábbeli elengedhetetlen.",
+                "ro": "Explorați șanțurile cetății și folosiți arcadele porților ca adăpost în caz de ploaie bruscă; încălțămintea aderentă este esențială pe pietrele ude.",
+                "en": "Explore the fort's trenches and use the arched gateways as shelter during sudden showers; non-slip footwear is essential on the wet historic stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Real de Caxias",
+                "hu": "Paço Real de Caxias",
+                "ro": "Paço Real de Caxias",
+                "en": "Paço Real de Caxias"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kacheln in den Innenräumen, die bei grauem Wetter besonders leuchten, und bringen Sie einen großen Schirm für die Gartenwege mit.",
+                "hu": "Csodálja meg a belső terek csempéit, amelyek a szürke időben is ragyognak, és vigyen magával egy nagy esernyőt a palota kertjének bejárásához.",
+                "ro": "Admirați plăcile ceramice din interior care strălucesc chiar și pe vreme gri și aduceți o umbrelă mare pentru a vizita grădinile palatului.",
+                "en": "Admire the indoor tiles that glow even in grey weather, and bring a large umbrella to navigate the palace gardens between the heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Clube Português de Automóveis Antigos",
+                "hu": "Clube Português de Automóveis Antigos",
+                "ro": "Clube Português de Automóveis Antigos",
+                "en": "Clube Português de Automóveis Antigos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen vollkommen überdachten Ort, um die glänzenden Oldtimer in Ruhe zu betrachten, während draußen der Regen gegen die Fenster peitscht.",
+                "hu": "Használja ki ezt a teljesen fedett helyszínt a csillogó veterán autók megtekintésére, miközben kint az eső veri az ablakokat; ideális menedék.",
+                "ro": "Profită de acest spațiu complet acoperit pentru a vedea mașinile de epocă strălucitoare în timp ce ploaia bate în geam; este refugiul ideal azi.",
+                "en": "Take advantage of this fully covered venue to view the gleaming vintage cars while the rain lashes against the windows; it is the perfect indoor escape."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor Jesus dos Navegantes",
+                "hu": "Capela do Senhor Jesus dos Navegantes",
+                "ro": "Capela do Senhor Jesus dos Navegantes",
+                "en": "Capela do Senhor Jesus dos Navegantes"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen besinnlichen, trockenen Ort; achten Sie beim Verlassen auf die sehr rutschigen Stufen im Eingangsbereich.",
+                "hu": "A kis kápolna meghitt és száraz helyszín a pihenéshez; távozáskor ügyeljen a bejárati lépcsőkre, amelyek esőben rendkívül csúszóssá válnak.",
+                "ro": "Mica capelă oferă un loc de odihnă intim și uscat; la plecare, aveți grijă la treptele de la intrare, care devin foarte alunecoase în ploaie.",
+                "en": "The small chapel offers an intimate and dry spot for a break; when leaving, be careful on the entrance steps which become very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Velha",
+                "hu": "Praia Velha",
+                "ro": "Praia Velha",
+                "en": "Praia Velha"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Ufer mit Regenmantel offenbart die raue Schönheit des Atlantiks; suchen Sie danach Schutz im nächsten Café am Bahnhof.",
+                "hu": "Egy rövid séta a parton esőkabátban felfedi az Atlanti-óceán nyers szépségét; utána keressen menedéket a vasútállomás melletti kávézók egyikében.",
+                "ro": "O scurtă plimbare pe plajă cu pelerina de ploaie dezvăluie frumusețea brută a Atlanticului; apoi căutați adăpost într-o cafenea de lângă gară.",
+                "en": "A short walk on the beach in a raincoat reveals the raw beauty of the Atlantic; afterwards, seek shelter in one of the cafes near the train station."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornos da Cal",
+                "hu": "Fornos da Cal",
+                "ro": "Fornos da Cal",
+                "en": "Fornos da Cal"
+              },
+              "tip_5lang": {
+                "de": "Diese historischen Strukturen bieten teilweise Überdachung; beobachten Sie von hier aus, wie der Regen den Horizont über dem Tejo verschluckt.",
+                "hu": "Ezek a történelmi építmények részleges fedettséget nyújtanak; figyelje innen, ahogy az esőfüggöny lassan elnyeli a horizontot a Tejo torkolata felett.",
+                "ro": "Aceste structuri istorice oferă acoperire parțială; observați de aici cum perdeaua de ploaie înghite încet orizontul deasupra estuarului Tejo.",
+                "en": "These historic structures provide partial cover; watch from here as the curtain of rain slowly swallows the horizon over the Tagus estuary."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem morgendlichen Spaziergang am Fort. Mittags wärmt die tiefstehende Sonne die Gärten des Paço Real. Der Nachmittag gehört dem Automobilmuseum, einem gemütlichen Rückzugsort vor der Kühle. Da die Sonne gegen 17:00 Uhr untergeht, bieten die Kalköfen eine dramatische Silhouette gegen den farbenfrohen Winterhimmel.",
+            "hu": "Élvezze a friss téli levegőt a reggeli sétán az erődnél. Délben az alacsonyan járó nap melegíti a Paço Real kertjeit. A délután az autómuzeumé, amely kellemes menedék a kinti hűvös elől. Mivel a nap 17:00 körül nyugszik, a mészégető kemencék drámai sziluettet alkotnak a színes téli égbolton.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul unei plimbări matinale la fort. La prânz, soarele blând încălzește grădinile palatului Paço Real. După-amiaza aparține muzeului de automobile, un refugiu cald. Deoarece soarele apune în jurul orei 17:00, cuptoarele de var oferă o siluetă dramatică pe cerul iernatic.",
+            "en": "Enjoy the crisp winter air during a morning walk by the fort. At noon, the low winter sun warms the gardens of Paço Real. The afternoon is perfect for the automobile museum, providing a cozy retreat from the chill. As the sun sets around 5:00 PM, the lime kilns create a dramatic silhouette against the colorful winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte de Nossa Senhora do Vale",
+                "hu": "Forte de Nossa Senhora do Vale",
+                "ro": "Forte de Nossa Senhora do Vale",
+                "en": "Forte de Nossa Senhora do Vale"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke, da die Meeresbrise im Winter recht schneidend sein kann, während Sie die Aussicht auf die Küste genießen.",
+                "hu": "Viseljen szélálló kabátot, mert a tengeri szél télen elég metsző lehet, miközben az erőd falairól csodálja a part menti panorámát.",
+                "ro": "Purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi destul de tăioasă iarna în timp ce admirați panorama de pe ziduri.",
+                "en": "Wear a windproof jacket as the sea breeze can be quite biting in winter while you enjoy the coastal panorama from the fort's ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Real de Caxias",
+                "hu": "Paço Real de Caxias",
+                "ro": "Paço Real de Caxias",
+                "en": "Paço Real de Caxias"
+              },
+              "tip_5lang": {
+                "de": "Die südlich ausgerichteten Gärten fangen das spärliche Winterlicht perfekt ein; ideal für Fotos ohne die großen Touristenmassen des Sommers.",
+                "hu": "A déli fekvésű kertek tökéletesen befogadják a téli napsütést; ideális időszak a fotózáshoz a nyári tömeg és a hőség nélkül.",
+                "ro": "Grădinile orientate spre sud captează perfect lumina slabă a iernii; este momentul ideal pentru fotografii fără aglomerația de vară.",
+                "en": "The south-facing gardens capture the winter sunlight perfectly; it is an ideal time for photos without the usual summer crowds or heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Clube Português de Automóveis Antigos",
+                "hu": "Clube Português de Automóveis Antigos",
+                "ro": "Clube Português de Automóveis Antigos",
+                "en": "Clube Português de Automóveis Antigos"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kühlsten Stunden des Tages; die beheizte Ausstellung macht das Bestaunen der Klassiker zu einem warmen Vergnügen.",
+                "hu": "Töltse itt a nap leghűvösebb óráit; a temperált kiállítótérben a veterán autók megcsodálása igazi melengető élmény lesz.",
+                "ro": "Petreceți aici cele mai răcoroase ore ale zilei; spațiul expozițional climatizat face din vizitarea mașinilor clasice o plăcere călduroasă.",
+                "en": "Spend the coldest hours of the day here; the climate-controlled exhibition space makes admiring vintage cars a warm and pleasant experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela do Senhor Jesus dos Navegantes",
+                "hu": "Capela do Senhor Jesus dos Navegantes",
+                "ro": "Capela do Senhor Jesus dos Navegantes",
+                "en": "Capela do Senhor Jesus dos Navegantes"
+              },
+              "tip_5lang": {
+                "de": "Die Stille der Wintermonate verleiht dieser Kapelle eine besondere Aura; perfekt für einen Moment der Ruhe vor dem frühen Einbruch der Dunkelheit.",
+                "hu": "A téli hónapok csendje különleges aurát kölcsönöz a kápolnának; tökéletes egy pillanatnyi nyugalomhoz a korai sötétedés előtt.",
+                "ro": "Liniștea lunilor de iarnă oferă o aură specială acestei capele; perfect pentru un moment de tihnă înainte de lăsarea timpurie a serii.",
+                "en": "The silence of the winter months gives this chapel a special aura; perfect for a moment of quiet reflection before the early onset of dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Velha",
+                "hu": "Praia Velha",
+                "ro": "Praia Velha",
+                "en": "Praia Velha"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Leere des Strandes im Winter; die tiefstehende Sonne glitzert wunderschön auf dem Wasser bei einem zügigen Spaziergang.",
+                "hu": "Élvezze a strand téli ürességét; az alacsonyan járó nap csodálatosan csillog a vízen egy frissítő, gyors tempójú tengerparti séta közben.",
+                "ro": "Bucurați-vă de plaja pustie iarna; soarele care apune strălucește superb pe apă în timpul unei plimbări revigorante pe malul mării.",
+                "en": "Enjoy the winter emptiness of the beach; the low sun glitters beautifully on the water during a brisk, refreshing seaside walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornos da Cal",
+                "hu": "Fornos da Cal",
+                "ro": "Fornos da Cal",
+                "en": "Fornos da Cal"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um das goldene Licht auf den Steinstrukturen zu sehen, bevor die winterliche Nacht schnell hereinbricht.",
+                "hu": "Érkezzen meg jóval 17:00 előtt, hogy lássa az aranyló fényeket a kőépítményeken, mielőtt a téli éjszaka gyorsan és hűvösen beköszönt.",
+                "ro": "Sosiți cu mult înainte de ora 17:00 pentru a vedea luminile aurii pe structurile de piatră, înainte ca noaptea de iarnă să se lase rapid.",
+                "en": "Arrive well before 5:00 PM to catch the golden light on the stone structures before the winter night sets in quickly and coolly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpározzon a reggeli szellőben a folyóparton, elhaladva az ikonikus világítótornyok és a tengerészek hangulatos kápolnái mellett. Délben a királyi birtok hatalmas kertjeit és a jól megőrzött parti erődítményeket keresi fel. Délután tekerjen Paço de Arcos felé, hogy megcsodálja a veterán autókat. A kerékpáros utat a helyi strand homokos partján pihenve zárja.",
         "ro": "Pedalați în briza dimineții de-a lungul râului, trecând pe lângă faruri iconice și capele fermecătoare ale marinarilor. La prânz ajungeți la grădinile grandioase ale domeniului regal și la apărările de coastă bine conservate. După-amiaza, mergeți spre Paço de Arcos pentru mașini de epocă. Terminați călătoria relaxându-vă pe plaja cu nisip.",
         "en": "Pedal through the morning breeze along the riverside, passing iconic lighthouses and charming sailors' chapels. Midday brings you to the grand gardens of the royal estate and well-preserved coastal defenses. As the afternoon progresses, ride towards Paço de Arcos to see vintage cars. Finish your cycling journey relaxing on the sandy stretches of the local beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang der nebligen Küste von Caxias. Am Morgen fordern die nassen Wege am Leuchtturm Vorsicht. Mittags bieten der Paço Real und das Fort stabile Unterstände für Pausen. Der Nachmittag im Museum ist der ideale Ort zum Aufwärmen, bevor die Tour bei kühlem Regen an der Küste von Paço de Arcos endet.",
+            "hu": "Frissítő tekerés Caxias ködös partvidékén. Reggel a világítótoronynál a nedves utak óvatosságra intenek. Délben a Paço Real és az erőd biztosít stabil menedéket a pihenőkhöz. A délutáni muzeumvizit ideális a felmelegedéshez, mielőtt a túra a hűvös esőben Paço de Arcos partján véget érne.",
+            "ro": "O plimbare revigorantă pe malul cețos din Caxias. Dimineața, drumurile ude de la far necesită prudență. La prânz, Paço Real și fortul oferă adăpost sigur pentru pauze. După-amiaza la muzeu este ideală pentru a vă încălzi înainte ca turul să se încheie în ploaia rece pe faleza din Paço de Arcos.",
+            "en": "A refreshing ride along Caxias' misty coastline. In the morning, wet paths near the lighthouse demand caution. At noon, Paço Real and the fort provide solid shelter for breaks. The afternoon museum visit is ideal for warming up before the tour concludes in the cool rain on the Paço de Arcos shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Farol do Esteiro",
+                "hu": "Farol do Esteiro",
+                "ro": "Farol do Esteiro",
+                "en": "Farol do Esteiro"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Markierungen auf dem Boden beim Bremsen; der Leuchtturm wirkt im Nebel besonders mystisch und fotogen.",
+                "hu": "Ügyeljen a csúszós útburkolati jelekre fékezéskor; a világítótorony a ködben különösen misztikus és fotogén látványt nyújt.",
+                "ro": "Aveți grijă la marcajele rutiere alunecoase când frânați; farul arată deosebit de mistic și fotogenic prin ceață.",
+                "en": "Watch out for slippery road markings when braking; the lighthouse looks particularly mystical and photogenic through the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora da Boa Viagem",
+                "hu": "Capela de Nossa Senhora da Boa Viagem",
+                "ro": "Capela de Nossa Senhora da Boa Viagem",
+                "en": "Capela de Nossa Senhora da Boa Viagem"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern in der Nähe unter; das Innere der Kapelle bietet einen ruhigen Ort, um die Regenkleidung zu ordnen.",
+                "hu": "Támassza le kerékpárját a közeli előtetők alá; a kápolna belseje nyugodt helyet kínál az esőruházat megigazításához és egy rövid imához.",
+                "ro": "Sprijiniți bicicleta sub streșinile din apropiere; interiorul capelei oferă un loc liniștit pentru a vă aranja hainele de ploaie.",
+                "en": "Lean your bike under the nearby eaves; the chapel interior offers a quiet place to adjust your rain gear and take a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Farol da Gibalta Barra do Sul Range",
+                "hu": "Farol da Gibalta Barra do Sul Range",
+                "ro": "Farol da Gibalta Barra do Sul Range",
+                "en": "Farol da Gibalta Barra do Sul Range"
+              },
+              "tip_5lang": {
+                "de": "Die Kurven hier können bei Nässe tückisch sein; halten Sie kurz an, um den Blick auf das stürmische Meer hinter dem Leuchtturm zu genießen.",
+                "hu": "A kanyarok itt trükkösek lehetnek nedves időben; álljon meg egy pillanatra, hogy megcsodálja a viharos tenger látványát a torony mögött.",
+                "ro": "Curbele de aici pot fi înșelătoare pe carosabil umed; opriți-vă un moment pentru a admira marea învolburată din spatele farului.",
+                "en": "The curves here can be tricky in wet weather; stop for a moment to admire the stormy sea views behind the lighthouse tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Real de Caxias",
+                "hu": "Paço Real de Caxias",
+                "ro": "Paço Real de Caxias",
+                "en": "Paço Real de Caxias"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Palastmauern als Windschutz beim Abstellen der Räder; die Statuen im Garten wirken im Regen besonders dramatisch.",
+                "hu": "Használja a palota falait szélfogóként a kerékpárok leállításakor; a kerti szobrok drámai látványt nyújtanak az esőben.",
+                "ro": "Folosiți zidurile palatului ca paravan împotriva vântului când parcați bicicletele; statuile din grădină arată dramatic în ploaie.",
+                "en": "Use the palace walls as a windbreak when parking your bikes; the garden statues look particularly dramatic in the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Nossa Senhora do Vale",
+                "hu": "Forte de Nossa Senhora do Vale",
+                "ro": "Forte de Nossa Senhora do Vale",
+                "en": "Forte de Nossa Senhora do Vale"
+              },
+              "tip_5lang": {
+                "de": "Die Steinbögen des Forts sind ideal, um die Kette zu prüfen oder kurz zu verschnaufen, während ein Regenschauer vorbeizieht.",
+                "hu": "Az erőd kőívei ideálisak a lánc ellenőrzésére vagy egy rövid pihenőre, amíg egy hirtelen zivatar elvonul a fejünk felett.",
+                "ro": "Bolțile de piatră ale fortului sunt ideale pentru a verifica lanțul sau pentru o scurtă pauză în timp ce trece o aversă de ploaie.",
+                "en": "The fort's stone arches are ideal for checking your bike chain or taking a short breather while a rain shower passes overhead."
+              }
+            },
+            {
+              "name": {
+                "de": "Clube Português de Automóveis Antigos",
+                "hu": "Clube Português de Automóveis Antigos",
+                "ro": "Clube Português de Automóveis Antigos",
+                "en": "Clube Português de Automóveis Antigos"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Jacke im Eingangsbereich und genießen Sie die trockene Wärme des Museums; perfekt, um die Beine nach der Fahrt auszuruhen.",
+                "hu": "Hagyja a vizes kabátot az előtérben, és élvezze a múzeum száraz melegét; tökéletes hely a lábak pihentetésére a tekerés után.",
+                "ro": "Lăsați haina udă la intrare și bucurați-vă de căldura muzeului; este locul perfect pentru a vă odihni picioarele după drum.",
+                "en": "Leave your wet jacket at the entrance and enjoy the museum's dry warmth; it is a perfect place to rest your legs after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Paço de Arcos",
+                "hu": "Praia de Paço de Arcos",
+                "ro": "Praia de Paço de Arcos",
+                "en": "Praia de Paço de Arcos"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Ufer kann Pfützen bilden; fahren Sie langsam und genießen Sie den Geruch des salzigen Regens am Ende Ihrer Tour.",
+                "hu": "A parti kerékpárúton tócsák alakulhatnak ki; hajtson lassan, és élvezze a sós eső illatát a túra befejezéseként a sétányon.",
+                "ro": "Pe pista de biciclete de pe mal pot apărea bălți; conduceți încet și bucurați-vă de mirosul ploii sărate la finalul turului.",
+                "en": "Puddles may form on the coastal bike path; ride slowly and enjoy the scent of the salty rain as you finish your tour on the promenade."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine zügige Wintertour mit weiten Ausblicken auf den Tejo. Der Morgen beginnt frisch an den Leuchttürmen mit kräftigem Wind. Mittags lädt der sonnige Palastgarten zu einer aktiven Pause ein. Am Nachmittag wärmt der Museumsbesuch die Glieder, bevor die Tour pünktlich zum Sonnenuntergang an der Promenade von Paço de Arcos endet.",
+            "hu": "Frissítő téli kerékpártúra tágas kilátással a Tejo folyóra. A reggel hűvösen indul a világítótornyoknál, erős széllel. Délben a napsütötte palotakert aktív pihenőre csábít. Délután a múzeumlátogatás felmelegíti a tagokat, mielőtt a túra pont a naplementekor érne véget a sétányon.",
+            "ro": "Un tur de iarnă revigorant cu vederi largi asupra râului Tejo. Dimineața începe răcoros la faruri, cu vânt puternic. La prânz, grădina palatului invită la o pauză activă. După-amiaza, vizita la muzeu vă va încălzi, înainte ca turul să se încheie exact la apus pe faleză.",
+            "en": "A brisk winter bike tour with wide views of the Tagus river. The morning starts coolly at the lighthouses with strong winds. At noon, the sunny palace garden invites an active break. The afternoon museum visit warms your limbs before the tour ends exactly at sunset on the Paço de Arcos promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Farol do Esteiro",
+                "hu": "Farol do Esteiro",
+                "ro": "Farol do Esteiro",
+                "en": "Farol do Esteiro"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermo-Handschuhe, da der Wind an diesem exponierten Punkt sehr kalt sein kann; die winterliche Fernsicht ist hier unschlagbar.",
+                "hu": "Viseljen hőtartó kesztyűt, mert a szél ezen a kitett ponton nagyon hideg lehet; a téli tiszta időben a látótávolság verhetetlen.",
+                "ro": "Purtați mănuși termice, deoarece vântul în acest punct expus poate fi foarte rece; vizibilitatea pe timp de iarnă este imbatabilă aici.",
+                "en": "Wear thermal gloves as the wind at this exposed point can be very cold; the winter clarity makes the views unbeatable here today."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora da Boa Viagem",
+                "hu": "Capela de Nossa Senhora da Boa Viagem",
+                "ro": "Capela de Nossa Senhora da Boa Viagem",
+                "en": "Capela de Nossa Senhora da Boa Viagem"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle liegt etwas windgeschützt; nutzen Sie den Halt, um warme Getränke aus Ihrer Thermoskanne zu genießen und kurz aufzutanken.",
+                "hu": "A kápolna szélvédett helyen fekszik; használja ki a megállót, hogy meleg teát igyon a termoszából, és kicsit feltöltődjön a továbbhaladás előtt.",
+                "ro": "Capela este situată într-un loc ferit de vânt; profitați de oprire pentru a bea un ceai cald din termos și pentru a vă reîncărca bateriile.",
+                "en": "The chapel is located in a sheltered spot; use the stop to drink some warm tea from your thermos and recharge before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Farol da Gibalta Barra do Sul Range",
+                "hu": "Farol da Gibalta Barra do Sul Range",
+                "ro": "Farol da Gibalta Barra do Sul Range",
+                "en": "Farol da Gibalta Barra do Sul Range"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren blenden; eine Sonnenbrille ist trotz der Kälte für die Sicherheit auf dem Rad wichtig.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; a napszemüveg a hideg ellenére is fontos a biztonságos közlekedéshez.",
+                "ro": "Soarele de iarnă aflat jos pe cer vă poate orbi în timp ce pedalați; ochelarii de soare sunt importanți pentru siguranță în ciuda frigului.",
+                "en": "The low winter sun can be blinding while riding; sunglasses are important for safety on the bike despite the cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Real de Caxias",
+                "hu": "Paço Real de Caxias",
+                "ro": "Paço Real de Caxias",
+                "en": "Paço Real de Caxias"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie die Räder im Sonnenlicht; ein kurzer Spaziergang durch die geometrischen Gärten hält den Kreislauf in der Winterkälte in Schwung.",
+                "hu": "Parkoljon a napos részeken; egy rövid séta a mértani kertekben segít fenntartani a testhőt és felpörgeti a keringést a téli hidegben.",
+                "ro": "Parcați bicicletele la soare; o scurtă plimbare prin grădinile geometrice ajută la menținerea căldurii corporale în frigul iernii.",
+                "en": "Park your bikes in the sunlight; a short walk through the geometric gardens helps maintain body heat and circulation in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Nossa Senhora do Vale",
+                "hu": "Forte de Nossa Senhora do Vale",
+                "ro": "Forte de Nossa Senhora do Vale",
+                "en": "Forte de Nossa Senhora do Vale"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steinmauern speichern mittags etwas Wärme; lehnen Sie sich kurz an und genießen Sie den Blick auf das glitzernde Wintermeer.",
+                "hu": "A régi kőfalak délidőben raktároznak némi meleget; dőljön nekik egy pillanatra, és élvezze a csillogó téli tenger látványát a bástyáról.",
+                "ro": "Zidurile vechi de piatră stochează puțină căldură la prânz; sprijiniți-vă de ele o clipă și admirați marea strălucitoare de pe bastion.",
+                "en": "The old stone walls store some warmth at midday; lean against them for a moment and enjoy the view of the glittering winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Clube Português de Automóveis Antigos",
+                "hu": "Clube Português de Automóveis Antigos",
+                "ro": "Clube Português de Automóveis Antigos",
+                "en": "Clube Português de Automóveis Antigos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmphase für den Endspurt; die trockene Luft im Inneren ist eine Wohltat nach dem kalten Küstenwind.",
+                "hu": "Használja a múzeumlátogatást bemelegítésként a végső szakasz előtt; a benti száraz levegő megváltás a hideg tengeri szél után.",
+                "ro": "Folosiți vizita la muzeu ca o etapă de încălzire înainte de final; aerul uscat din interior este o binecuvântare după vântul rece de coastă.",
+                "en": "Use the museum visit as a warm-up phase for the final stretch; the dry indoor air is a relief after the cold coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Paço de Arcos",
+                "hu": "Praia de Paço de Arcos",
+                "ro": "Praia de Paço de Arcos",
+                "en": "Praia de Paço de Arcos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor Einbruch der Dunkelheit um 17:00 Uhr; die Farben des winterlichen Sonnenuntergangs über dem Wasser sind spektakulär.",
+                "hu": "Fejezze be a túrát a sötétedés előtt, 17:00 körül; a téli naplemente színei a víz felett egészen látványosak és emlékezetesek.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului, în jurul orei 17:00; culorile apusului de iarnă peste apă sunt spectaculoase.",
+                "en": "Finish your ride before dark around 5:00 PM; the colors of the winter sunset over the water are spectacular and memorable."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós túráját a szárazföld belsejében egy történelmi szélmalomnál, majd látogasson el egy csodálatos hagyományos udvarházba. A delet az Alto das Lebres zöldellő kilátásának élvezetével töltse, mielőtt leereszkedik a partra. Délután fedezze fel a Paço Real királyi történelmét és a mészégetők ipari örökségét. Pihenjen a strandon, ahogy leszáll az este.",
         "ro": "Începeți turul cu mașina în interior la o moară de vânt istorică, urmată de vizitarea unui conac tradițional magnific. Petreceți prânzul bucurându-vă de priveliștile verzi de la Alto das Lebres înainte de a coborî spre coastă. După-amiaza, explorați istoria regală de la Paço Real și moștenirea industrială a cuptoarelor de var. Relaxați-vă pe plajă odată cu lăsarea serii.",
         "en": "Start your driving tour inland at a historic windmill, followed by a visit to a magnificent traditional manor house. Spend midday enjoying the expansive green views from Alto das Lebres before descending to the coast. In the afternoon, explore the regal history at Paço Real and the industrial heritage of the lime kilns. Relax at the beach as evening sets in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Caxias bequem vom Auto aus, während der Regen die Landschaft wäscht. Der Morgen beginnt an der Mühle mit dramatischen Ausblicken. Mittags bieten die Quinta und der Paço Real trockene historische Erlebnisse. Der Nachmittag an den Kalköfen zeigt die raue Seite der Küste, bevor Sie den Abend bei Meeresblick im trockenen Auto ausklingen lassen.",
+            "hu": "Fedezze fel Caxiast kényelmesen az autóból, miközben az eső mossa a tájat. A reggel a malomnál indul drámai kilátással. Délben a Quinta és a Paço Real nyújt száraz, történelmi élményeket. A délután a mészégető kemencéknél a part nyers oldalát mutatja meg, mielőtt az estét tengeri panorámával zárná az autóban ülve.",
+            "ro": "Explorați Caxias confortabil din mașină în timp ce ploaia spală peisajul. Dimineața începe la moară cu vederi dramatice. La prânz, Quinta și Paço Real oferă experiențe istorice la adăpost. După-amiaza la cuptoarele de var arată partea brută a coastei, înainte de a încheia seara cu o vedere la mare din mașină.",
+            "en": "Explore Caxias comfortably from your car while the rain refreshes the landscape. The morning starts at the mill with dramatic views. At noon, the Quinta and Paço Real provide dry historical experiences. The afternoon at the lime kilns shows the raw side of the coast before ending the evening with a sea view from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moinho da Peça",
+                "hu": "Moinho da Peça",
+                "ro": "Moinho da Peça",
+                "en": "Moinho da Peça"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; genießen Sie den Blick auf die Flügel der Mühle, während der Regen eine mystische Atmosphäre schafft.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; élvezze a malomvitorlák látványát, miközben az eső misztikus hangulatot áraszt a dombtetőn.",
+                "ro": "Parcați cât mai aproape de intrare; bucurați-vă de vederea morii în timp ce ploaia creează o atmosferă mistică pe deal.",
+                "en": "Park as close to the entrance as possible; enjoy the view of the mill sails while the rain creates a mystical atmosphere on the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta do Torneiro",
+                "hu": "Quinta do Torneiro",
+                "ro": "Quinta do Torneiro",
+                "en": "Quinta do Torneiro"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Anwesen bietet viele überdachte Bereiche; bewundern Sie die Architektur und die Innenhöfe, ohne nass zu werden.",
+                "hu": "Ez a történelmi birtok sok fedett résszel rendelkezik; csodálja meg az építészetet és a belső udvarokat anélkül, hogy elázna az esőben.",
+                "ro": "Această proprietate istorică are multe zone acoperite; admirați arhitectura și curțile interioare fără a vă uda în ploaie.",
+                "en": "This historic estate features many covered areas; admire the architecture and interior courtyards without getting soaked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alto das Lebres",
+                "hu": "Alto das Lebres",
+                "ro": "Alto das Lebres",
+                "en": "Alto das Lebres"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto; die erhöhte Position bietet einen weiten Blick über das neblige Tejo-Tal direkt durch die Windschutzscheibe.",
+                "hu": "Heves esőzés esetén maradjon az autóban; a magaslati pontról a szélvédőn keresztül is lenyűgöző kilátás nyílik a ködös Tejo-völgyre.",
+                "ro": "În caz de ploaie abundentă, rămâneți în mașină; punctul înalt oferă o vedere uimitoare asupra văii Tejo prin parbriz.",
+                "en": "In case of heavy rain, stay in the car; the elevated spot offers a stunning view over the misty Tagus valley right through your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Real de Caxias",
+                "hu": "Paço Real de Caxias",
+                "ro": "Paço Real de Caxias",
+                "en": "Paço Real de Caxias"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe des Eingangs; im Inneren des Palastes finden Sie Schutz und können die prachtvollen Kacheln in Ruhe bestaunen.",
+                "hu": "Használja a bejárat közeli parkolókat; a palota belsejében menedéket talál, és nyugodtan megcsodálhatja a pompás azulejo csempéket.",
+                "ro": "Folosiți parcările de lângă intrare; în interiorul palatului veți găsi adăpost și veți putea admira în liniște plăcile de azulejo superbe.",
+                "en": "Use the parking spaces near the entrance; inside the palace, you'll find shelter and can calmly admire the magnificent azulejo tiles."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornos da Cal",
+                "hu": "Fornos da Cal",
+                "ro": "Fornos da Cal",
+                "en": "Fornos da Cal"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zu den Öfen lohnt sich; die dunklen Steine wirken bei Regen besonders massiv und geschichtsträchtig.",
+                "hu": "Egy rövid futás az autótól a kemencékig megéri; a sötét kövek esőben különösen masszívnak és történelemben gazdagnak tűnnek.",
+                "ro": "O scurtă fugă de la mașină până la cuptoare merită; pietrele întunecate par deosebit de masive și pline de istorie în ploaie.",
+                "en": "A short dash from the car to the kilns is worth it; the dark stones look particularly massive and steeped in history in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Paço de Arcos",
+                "hu": "Praia de Paço de Arcos",
+                "ro": "Praia de Paço de Arcos",
+                "en": "Praia de Paço de Arcos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade; genießen Sie die stürmische See bei einem heißen Kaffee im Auto, während der Scheibenwischer den Blick freigibt.",
+                "hu": "Parkoljon közvetlenül a sétánynál; élvezze a viharos tenger látványát egy forró kávéval az autóban, miközben az ablaktörlő tisztítja a képet.",
+                "ro": "Parcați direct lângă faleză; bucurați-vă de marea învolburată cu o cafea fierbinte în mașină în timp ce ștergătoarele curăță parbrizul.",
+                "en": "Park right by the promenade; enjoy the stormy sea view with a hot coffee in the car while the wipers clear your view of the Atlantic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Winterfahrt durch die Hügel und Küstenwege von Caxias. Der Morgen beginnt mit klarer Sicht an der Mühle. Mittags leuchtet die Architektur der Quinta und des Palastes in der tiefen Sonne. Der Nachmittag bietet weite Ausblicke von den Höhen, bevor die Tour pünktlich zum farbenfrohen Sonnenuntergang am Strand endet.",
+            "hu": "Kellemes téli autózás Caxias dombjai és part menti útjai mentén. A reggel tiszta kilátással indul a malomnál. Délben a Quinta és a palota építészete ragyog az alacsonyan járó napfényben. A délután tágas panorámát kínál a magaslatokról, mielőtt a túra a látványos naplementekor véget érne.",
+            "ro": "O plimbare plăcută de iarnă cu mașina prin dealurile și drumurile de coastă din Caxias. Dimineața începe cu o vedere clară la moară. La prânz, arhitectura de la Quinta și palat strălucește în soarele iernii. După-amiaza oferă panorame largi de pe înălțimi, înainte de finalul de la apus.",
+            "en": "A pleasant winter drive through the hills and coastal roads of Caxias. The morning starts with clear views at the mill. At noon, the architecture of the Quinta and palace glows in the low sunlight. The afternoon offers wide panoramas from the heights before ending the tour at a spectacular sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moinho da Peça",
+                "hu": "Moinho da Peça",
+                "ro": "Moinho da Peça",
+                "en": "Moinho da Peça"
+              },
+              "tip_5lang": {
+                "de": "Dank der klaren Winterluft ist die Fernsicht von der Mühle aus heute exzellent; ideal für Landschaftsfotos direkt nach der Ankunft.",
+                "hu": "A tiszta téli levegőnek köszönhetően a távoli kilátás a malomtól ma kiváló; ideális tájképek készítéséhez közvetlenül az érkezés után.",
+                "ro": "Datorită aerului curat de iarnă, vederea de la moară este excelentă astăzi; ideal pentru fotografii de peisaj imediat după sosire.",
+                "en": "Thanks to the clear winter air, the distant view from the mill is excellent today; ideal for landscape photos right after you arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta do Torneiro",
+                "hu": "Quinta do Torneiro",
+                "ro": "Quinta do Torneiro",
+                "en": "Quinta do Torneiro"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne betont die Texturen der alten Mauern; nutzen Sie den Halt für einen kurzen, erfrischenden Gang durch den historischen Hof.",
+                "hu": "A téli napfény szépen kiemeli a régi falak textúráját; használja ki a megállót egy rövid, frissítő sétára a történelmi udvarban.",
+                "ro": "Soarele de iarnă evidențiază frumos textura zidurilor vechi; profitați de oprire pentru o scurtă plimbare revigorantă în curtea istorică.",
+                "en": "The winter sun beautifully highlights the textures of the old walls; use the stop for a short, refreshing walk in the historic courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Alto das Lebres",
+                "hu": "Alto das Lebres",
+                "ro": "Alto das Lebres",
+                "en": "Alto das Lebres"
+              },
+              "tip_5lang": {
+                "de": "Vom höchsten Punkt aus glitzert der Tejo im Winterlicht besonders stark; genießen Sie die Aussicht, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "A legmagasabb pontról a Tejo folyó különösen szépen csillog a téli fényben; élvezze a kilátást, mielőtt visszatérne az autó melegébe.",
+                "ro": "Din cel mai înalt punct, râul Tejo strălucește deosebit de frumos în lumina iernii; admirați vederea înainte de a reveni la căldura mașinii.",
+                "en": "From the highest point, the Tagus river glitters especially beautifully in the winter light; enjoy the view before returning to the car's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Paço Real de Caxias",
+                "hu": "Paço Real de Caxias",
+                "ro": "Paço Real de Caxias",
+                "en": "Paço Real de Caxias"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten sind im Winter sehr ruhig; nutzen Sie die Parkmöglichkeit direkt davor für einen schnellen Besuch der beeindruckenden Kaskaden.",
+                "hu": "A kertek télen nagyon csendesek; használja ki a közvetlen parkolási lehetőséget a lenyűgöző vízesések és szobrok gyors megtekintéséhez.",
+                "ro": "Grădinile sunt foarte liniștite iarna; profitați de parcarea directă pentru o vizită rapidă la cascadele și statuile impresionante.",
+                "en": "The gardens are very quiet in winter; take advantage of the nearby parking for a quick visit to the impressive cascades and statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornos da Cal",
+                "hu": "Fornos da Cal",
+                "ro": "Fornos da Cal",
+                "en": "Fornos da Cal"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag färbt die Steine warm ein; ein toller Ort für Fotos, kurz bevor die Sonne hinter dem Horizont verschwindet.",
+                "hu": "A késő délutáni fények meleg színekbe öltöztetik a köveket; nagyszerű hely a fotózáshoz, mielőtt a nap végleg eltűnik a horizont mögött.",
+                "ro": "Luminile de după-amiază târzie îmbracă pietrele în culori calde; un loc minunat pentru fotografii înainte ca soarele să dispară după orizont.",
+                "en": "The late afternoon light dresses the stones in warm colors; it is a great spot for photos just before the sun finally disappears behind the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Paço de Arcos",
+                "hu": "Praia de Paço de Arcos",
+                "ro": "Praia de Paço de Arcos",
+                "en": "Praia de Paço de Arcos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier gegen 17:00 Uhr; die winterliche Dämmerung über dem Meer ist vom warmen Auto aus ein friedlicher Abschluss.",
+                "hu": "Zárja itt a napot 17:00 körül; a tenger feletti téli szürkület a meleg autóból nézve békés lezárása lesz a mai kirándulásnak.",
+                "ro": "Încheiați ziua aici în jurul orei 17:00; amurgul de iarnă peste mare, privit din mașina caldă, este un final liniștit pentru excursia de azi.",
+                "en": "End your day here around 5:00 PM; the winter twilight over the sea, viewed from the warm car, is a peaceful conclusion to today's trip."
+              }
+            }
+          ]
+        }
       }
     }
   }

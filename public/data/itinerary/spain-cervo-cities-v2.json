@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a központi Santa María templomnál, mielőtt elindulna a kerámiagyár ősi épületei felé. Kora délután merüljön el a Sargadelos porcelán történetében a Pazo és a múzeum kiállításain. A nap lezárásaként fedezze fel Tagarreiros római kori emlékeit, ahonnan remek kilátás nyílik a lemenő napfényben.",
         "ro": "Începeți dimineața la biserica Santa María, în inima orașului Cervo. Apoi faceți o plimbare spre vechea fabrică de ceramică. După-amiaza este dedicată faimosului porțelan Sargadelos, vizitând conacul Pazo și muzeul istoric dedicat acestuia. Încheiați ziua relaxant la ruinele romane de la Tagarreiros, sub razele blânde ale serii.",
         "en": "Start your morning at the Igrexa de Santa María right in the heart of Cervo. Midday takes you through the historical streets to the Fábrica Vella. Spend your afternoon diving deep into the legacy of Sargadelos porcelain at the Pazo and the historical museum. End your day reflecting on history at the Roman ruins of Tagarreiros as evening falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag an der geschützten Kirche, während der Regen auf das Dach trommelt. Mittags bieten die historischen Industriegebäude der Keramikfabrik idealen Schutz vor den Schauern. Am Nachmittag erkunden Sie die Museumsräume, wo Sie trocken in die lokale Geschichte eintauchen können. Der Abend klingt gemütlich aus, wenn die nassen Steinwege von Cervo im sanften Licht glänzen.",
+            "hu": "Kezdje a napot a templom oltalmazó falai között, miközben az eső kopog a tetőn. Délben a patinás porcelángyár épületei nyújtanak tökéletes menedéket a záporok elől. Délután a múzeum belső tereiben merülhet el a történelemben, teljesen szárazon. Az este a Cervo ódon, vizes kövezetén megcsillanó fények között, egy ernyő alatt sétálva ér véget.",
+            "ro": "Începeți ziua sub protecția bisericii, ascultând ploaia care bate în acoperiș. La prânz, clădirile istorice ale fabricii de ceramică oferă adăpostul ideal împotriva averselor. După-amiaza, explorați sălile muzeului unde puteți descoperi istoria locală la căldură și uscat. Seara se încheie romantic, printre reflexiile luminilor pe străzile umede din Cervo.",
+            "en": "Start your day within the protective walls of the church as rain patters on the roof. At noon, the historic buildings of the pottery factory provide perfect shelter from the showers. In the afternoon, explore the museum's interior to stay dry while diving into local history. The evening ends beautifully as the wet stone paths of Cervo glisten under the soft streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Cervo",
+                "hu": "Igrexa de Santa María de Cervo",
+                "ro": "Igrexa de Santa María de Cervo",
+                "en": "Igrexa de Santa María de Cervo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Architektur im trockenen Innenraum und nutzen Sie den steinernen Kircheneingang als Sammelpunkt bei starkem Regen.",
+                "hu": "Csodálja meg a barokk belső teret szárazon, a templom kőboltozatos bejárata pedig kiváló gyülekezőhely maradhat egy hirtelen felhőszakadás idején.",
+                "ro": "Admirați arhitectura barocă în interiorul uscat și folosiți intrarea de piatră a bisericii ca punct de adunare în caz de ploaie torențială.",
+                "en": "Admire the Baroque architecture from the dry interior and use the stone porch of the church as a convenient meeting point during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica Vella de Louza de Sargadelos",
+                "hu": "Fábrica Vella de Louza de Sargadelos",
+                "ro": "Fábrica Vella de Louza de Sargadelos",
+                "en": "Fábrica Vella de Louza de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alten Industriehallen, die reichlich Schutz bieten; achten Sie auf den rutschigen Boden in den Außenbereichen zwischen den Gebäuden.",
+                "hu": "Fedezze fel a régi csarnokokat, amelyek bőséges védelmet nyújtanak; az épületek közötti kültéri részeken vigyázzon a csúszós, nedves talajra.",
+                "ro": "Explorați vechile hale industriale care oferă adăpost generos; aveți grijă la podeaua alunecoasă în zonele exterioare dintre clădiri.",
+                "en": "Explore the old industrial halls which offer plenty of cover; be careful of the slippery wet ground in the outdoor sections between the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Sargadelos",
+                "hu": "Pazo de Sargadelos",
+                "ro": "Pazo de Sargadelos",
+                "en": "Pazo de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die herrschaftliche Fassade unter einem Regenschirm und nutzen Sie die Dachvorsprünge, um die Details der galicischen Architektur zu bewundern.",
+                "hu": "Szemlélje a nemesi homlokzatot egy esernyő alól, és használja ki az ereszek védelmét a galíciai építészet apró részleteinek megfigyeléséhez.",
+                "ro": "Admirați fațada nobiliară de sub umbrelă și folosiți streșinile clădirii pentru a observa detaliile arhitecturii galiciene fără a vă uda.",
+                "en": "View the noble facade from under an umbrella and use the building's eaves for shelter while observing the fine details of Galician architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Sargadelos",
+                "hu": "Museo Histórico de Sargadelos",
+                "ro": "Museo Histórico de Sargadelos",
+                "en": "Museo Histórico de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort bei Regen; vertiefen Sie sich in die Keramiksammlung und lassen Sie Ihre nasse Kleidung an der Garderobe trocknen.",
+                "hu": "Ez a legjobb hely esős időben; merüljön el a porcelángyűjtemény látványában, és hagyja vizes kabátját a ruhatárban a látogatás idejére.",
+                "ro": "Acesta este cel mai bun loc pe ploaie; relaxați-vă admirând colecția de ceramică și lăsați hainele ude la garderobă pe durata vizitei.",
+                "en": "This is the best spot for a rainy day; immerse yourself in the pottery collection and leave your wet coat at the cloakroom while you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santiago de Sargadelos",
+                "hu": "Igrexa de Santiago de Sargadelos",
+                "ro": "Igrexa de Santiago de Sargadelos",
+                "en": "Igrexa de Santiago de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Museum führt Sie in diese stille Kirche, wo das Trommeln des Regens eine besonders andächtige Atmosphäre schafft.",
+                "hu": "Egy rövid futás a múzeumtól, és máris ebben a csendes templomban találja magát, ahol az eső kopogása különleges áhítatot kölcsönöz a térnek.",
+                "ro": "O scurtă fugă de la muzeu vă aduce în această biserică liniștită, unde sunetul ploii pe acoperiș creează o atmosferă deosebită de reculegere.",
+                "en": "A quick dash from the museum brings you to this quiet church, where the sound of rain on the roof creates a peaceful, meditative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Xacemeno Romano de Tagarreiros",
+                "hu": "Xacemeno Romano de Tagarreiros",
+                "ro": "Xacemeno Romano de Tagarreiros",
+                "en": "Xacemeno Romano de Tagarreiros"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für das Gelände; der Regen lässt die römischen Überreste dunkler und ihre Konturen deutlicher hervortreten.",
+                "hu": "Viseljen vízálló cipőt a terepbejáráshoz; az esőtől sötétebbé váló köveken a római kori maradványok kontúrjai még élesebben rajzolódnak ki.",
+                "ro": "Purtați încălțăminte impermeabilă pentru teren; ploaia face ca resturile romane să pară mai întunecate, evidențiind mai bine contururile.",
+                "en": "Wear waterproof shoes for the terrain; the rain makes the Roman remains appear darker, highlighting their historical contours more sharply."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Cervo im kühlen Wintermorgen, wenn die Luft kristallklar ist. Mittags wärmen Sie sich in den historischen Gebäuden von Sargadelos auf, während die tiefstehende Sonne lange Schatten wirft. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen Sie das goldene Nachmittagslicht für Fotos. Der Abend lädt zu einem gemütlichen Spaziergang in warmer Kleidung durch das beleuchtete Dorf ein.",
+            "hu": "Élje át Cervo hűvös téli reggelét, amikor a levegő kristálytiszta. Délben melegedjen fel Sargadelos történelmi falaiban, miközben az alacsonyan járó nap hosszú árnyékokat vet. Mivel 17:00 körül már sötétedik, használja ki a délutáni arany órákat a fotózáshoz. Az este hívogató, meleg ruhában tett sétára csábít a kivilágított faluban.",
+            "ro": "Experimentați dimineața răcoroasă de iarnă în Cervo, când aerul este deosebit de curat. La prânz, încălziți-vă în clădirile istorice din Sargadelos în timp ce soarele coborât proiectează umbre lungi. Deoarece se întunecă în jurul orei 17:00, profitați de lumina aurie de după-amiază. Seara vă invită la o plimbare prin satul luminat, bine îmbrăcați.",
+            "en": "Experience a crisp winter morning in Cervo with crystal clear air. At noon, warm up inside the historic Sargadelos buildings as the low sun casts long shadows. Since it gets dark around 17:00, make the most of the golden afternoon light for photos. The evening is perfect for a brisk walk through the illuminated village in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Cervo",
+                "hu": "Igrexa de Santa María de Cervo",
+                "ro": "Igrexa de Santa María de Cervo",
+                "en": "Igrexa de Santa María de Cervo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die windgeschützte Kirche für einen ruhigen Start; die Kälte bleibt draußen, während Sie die religiöse Kunst in Ruhe betrachten.",
+                "hu": "Kezdje a napot ebben a szélvédett templomban; a hideg kint marad, így nyugodtan merülhet el a vallási művészet látványában.",
+                "ro": "Folosiți biserica ferită de vânt pentru un început liniștit; frigul rămâne afară în timp ce admirați arta religioasă în tihnă.",
+                "en": "Use the wind-sheltered church for a peaceful start; the cold stays outside while you quietly enjoy the religious art and interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica Vella de Louza de Sargadelos",
+                "hu": "Fábrica Vella de Louza de Sargadelos",
+                "ro": "Fábrica Vella de Louza de Sargadelos",
+                "en": "Fábrica Vella de Louza de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern schützen vor dem Winterwind; tragen Sie mehrere Schichten, da es in den großen Hallen kühl sein kann.",
+                "hu": "A masszív kőfalak védenek a téli széltől; öltözzön rétegesen, mert a nagy belmagasságú csarnokokban hűvös lehet a levegő.",
+                "ro": "Zidurile masive de piatră oferă protecție împotriva vântului; îmbrăcați-vă în straturi, deoarece în halele mari poate fi destul de răcoare.",
+                "en": "The massive stone walls provide a break from the winter wind; dress in layers as the high-ceilinged halls can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Sargadelos",
+                "hu": "Pazo de Sargadelos",
+                "ro": "Pazo de Sargadelos",
+                "en": "Pazo de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Textur des Granits hervor; besuchen Sie den Ort kurz nach Mittag für die beste natürliche Beleuchtung.",
+                "hu": "A téli fények kiemelik a gránit textúráját; látogasson el ide röviddel dél után a legszebb természetes megvilágítás érdekében.",
+                "ro": "Lumina de iarnă scoate în evidență textura granitului; vizitați locul imediat după prânz pentru cea mai bună iluminare naturală.",
+                "en": "The winter light emphasizes the texture of the granite; visit shortly after noon to get the best natural illumination for your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Sargadelos",
+                "hu": "Museo Histórico de Sargadelos",
+                "ro": "Museo Histórico de Sargadelos",
+                "en": "Museo Histórico de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um der Winterkälte zu entfliehen; planen Sie hier die längste Aufenthaltszeit ein, um sich richtig aufzuwärmen.",
+                "hu": "A tökéletes hely, hogy elmeneküljön a téli hideg elől; tervezze ide a leghosszabb tartózkodást, hogy alaposan átmelegedhessen.",
+                "ro": "Locul perfect pentru a scăpa de frigul iernii; planificați aici cea mai lungă oprire pentru a vă încălzi corespunzător.",
+                "en": "The perfect place to escape the winter chill; plan your longest stay here to thoroughly warm up while enjoying the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santiago de Sargadelos",
+                "hu": "Igrexa de Santiago de Sargadelos",
+                "ro": "Igrexa de Santiago de Sargadelos",
+                "en": "Igrexa de Santiago de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die frühe Abenddämmerung die Kirchenfenster in tiefe Farben taucht; bringen Sie eine Taschenlampe für den Rückweg mit.",
+                "hu": "Figyelje meg, ahogy a korai szürkület mély színekbe öltözteti a templom ablakait; legyen önnél zseblámpa a visszaúthoz.",
+                "ro": "Observați cum amurgul timpuriu colorează ferestrele bisericii în nuanțe intense; aveți la îndemână o lanternă pentru drumul de întoarcere.",
+                "en": "Watch how the early twilight paints the church windows in deep colors; keep a small flashlight handy for the walk back in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Xacemeno Romano de Tagarreiros",
+                "hu": "Xacemeno Romano de Tagarreiros",
+                "ro": "Xacemeno Romano de Tagarreiros",
+                "en": "Xacemeno Romano de Tagarreiros"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabung vor 16:30 Uhr, um das Tageslicht zu nutzen; die Wintersonne lässt die antiken Steine fast golden wirken.",
+                "hu": "Még 16:30 előtt érjen ide, hogy lássa a romokat; a lemenő téli nap fénye szinte aranybarnára festi az antik köveket.",
+                "ro": "Vizitați situl înainte de ora 16:30 pentru a profita de lumină; soarele de iarnă face ca pietrele antice să pară aproape aurii.",
+                "en": "Visit the site before 16:30 to utilize the remaining daylight; the setting winter sun gives the ancient stones a golden hue."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Pattanjon nyeregbe, és a központból tekerjen a múzeum felé, hogy megismerje a helyi kerámiát. Délben a régi gyár és a római romok kínálnak történelmi utazást. Délután a part mentén haladva ősi sziklarajzokat és a Rueta-i földvárat csodálhatja meg. Az estét az O Fornelo nyugodt, parkosított környezetében zárhatja.",
         "ro": "Pedalați dimineața din centru spre Muzeul Istoric pentru a descoperi moștenirea porțelanului. La prânz, vizitați vechea fabrică și ruinele romane ascunse. După-amiaza vă poartă spre coastă pentru a explora petroglifele misterioase și situl antic Castro da Rueta. Seara, relaxați-vă în zona liniștită de la O Fornelo.",
         "en": "Pedal from the central church to the Historical Museum to uncover Cervo's porcelain legacy. Midday features a ride past the old factory and hidden Roman ruins. Your afternoon ride follows the coast to discover mysterious petroglyphs and the ancient Castro da Rueta. Wind down your evening with a peaceful stop at O Fornelo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig auf zwei Rädern, während der Regen die Landschaft erfrischt. Mittags bieten die Museen und Fabrikhallen von Sargadelos sichere Unterstände für Sie und Ihr Rad. Nachmittags führt die Route zu Küstenpunkten, wo die raue See bei Regen besonders dramatisch wirkt. Achten Sie auf den rutschigen Asphalt und beenden Sie die Tour, bevor die Sicht schlechter wird.",
+            "hu": "Induljon óvatosan két keréken, miközben az eső felfrissíti a tájat. Délben a sargadelosi múzeum és gyárcsarnokok biztosítanak fedett pihenőt Önnek és kerékpárjának. Délután az útvonal a tengerparti pontok felé vezet, ahol a haragos tenger látványa esőben lenyűgöző. Ügyeljen a csúszós aszfaltra, és fejezze be a túrát, mielőtt romlanak a látási viszonyok.",
+            "ro": "Porniți cu prudență pe două roți în timp ce ploaia împrospătează peisajul. La prânz, muzeul și halele din Sargadelos oferă adăpost sigur pentru dumneavoastră și bicicletă. După-amiaza, traseul duce spre coastă, unde marea agitată arată dramatic pe ploaie. Atenție la asfaltul alunecos și încheiați tura înainte ca vizibilitatea să scadă.",
+            "en": "Start cautiously on two wheels as the rain refreshes the landscape. At noon, the Sargadelos museum and factory halls provide dry shelters for you and your bike. In the afternoon, the route leads to coastal spots where the rough sea looks spectacular in the rain. Watch out for slippery asphalt and finish your ride before visibility drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Cervo",
+                "hu": "Igrexa de Santa María de Cervo",
+                "ro": "Igrexa de Santa María de Cervo",
+                "en": "Igrexa de Santa María de Cervo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und nutzen Sie die Kirchenpause, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
+                "hu": "Parkolja le kerékpárját az előtető alatt, és használja ki a templomi pihenőt, hogy megigazítsa esőfelszerelését a folytatáshoz.",
+                "ro": "Parcați bicicleta sub copertină și folosiți pauza la biserică pentru a vă ajusta echipamentul de ploaie pentru drum.",
+                "en": "Park your bike under the overhang and use the church break to adjust your rain gear properly for the rest of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Sargadelos",
+                "hu": "Museo Histórico de Sargadelos",
+                "ro": "Museo Histórico de Sargadelos",
+                "en": "Museo Histórico de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause; während Sie die Keramik bewundern, können Sie Ihre nassen Handschuhe kurzzeitig trocknen.",
+                "hu": "Ideális helyszín egy hosszabb pihenőhöz; amíg a porcelánokat csodálja, a vizes kesztyűit is megpróbálhatja némileg megszárítani.",
+                "ro": "Un loc ideal pentru o pauză mai lungă; în timp ce admirați ceramica, vă puteți lăsa mănușile ude la uscat pentru scurt timp.",
+                "en": "An ideal spot for a longer break; while you admire the pottery, you can give your wet gloves a chance to dry out slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica Vella de Louza de Sargadelos",
+                "hu": "Fábrica Vella de Louza de Sargadelos",
+                "ro": "Fábrica Vella de Louza de Sargadelos",
+                "en": "Fábrica Vella de Louza de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf dem Fabrikgelände langsam, da das Kopfsteinpflaster bei Nässe extrem rutschig für Fahrradreifen ist.",
+                "hu": "A gyár területén haladjon lassabban, mert a macskaköves részek vizesen rendkívül csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Circulați cu viteză redusă în zona fabricii, deoarece pavajul este extrem de alunecos pentru anvelopele de bicicletă când este ud.",
+                "en": "Ride slowly around the factory grounds as the cobblestones can be extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Xacemeno Romano de Tagarreiros",
+                "hu": "Xacemeno Romano de Tagarreiros",
+                "ro": "Xacemeno Romano de Tagarreiros",
+                "en": "Xacemeno Romano de Tagarreiros"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad auf festem Grund ab; der Boden rund um die Ausgrabung kann bei Regen schnell aufweichen und matschig werden.",
+                "hu": "Állítsa le a kerékpárt szilárd talajon; a romok körüli föld az esőben gyorsan felázhat és sarassá válhat.",
+                "ro": "Parcați bicicleta pe teren solid; pământul din jurul ruinelor se poate înmuia rapid și deveni noroios din cauza ploii.",
+                "en": "Park your bike on solid ground; the soil around the ruins can quickly become soft and muddy during rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Petróglifo da Rueta",
+                "hu": "Petróglifo da Rueta",
+                "ro": "Petróglifo da Rueta",
+                "en": "Petróglifo da Rueta"
+              },
+              "tip_5lang": {
+                "de": "Die eingravierten Muster sind bei Nässe oft besser sichtbar; achten Sie beim Absteigen auf den rutschigen, bemoosten Fels.",
+                "hu": "A vésett minták vizesen gyakran jobban látszanak; a leszállásnál ügyeljen a csúszós, mohás sziklafelületekre.",
+                "ro": "Modelele gravate sunt adesea mai vizibile când sunt ude; aveți grijă la pietrele cu mușchi care devin alunecoase la coborâre.",
+                "en": "The engraved patterns are often more visible when wet; be careful of slippery, mossy rocks when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Rueta",
+                "hu": "Castro da Rueta",
+                "ro": "Castro da Rueta",
+                "en": "Castro da Rueta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windigen Küstenabschnitt für einen schnellen Blick; die Gischt vermischt sich hier oft mit dem Regen zu einer wilden Atmosphäre.",
+                "hu": "A szeles tengerparti szakaszon csak egy gyors pillantást vessen a romokra; a sós permet itt gyakran keveredik az esővel.",
+                "ro": "Profitați de zona de coastă vântoasă pentru o privire rapidă; vaporii sărați se amestecă adesea aici cu ploaia, creând o atmosferă sălbatică.",
+                "en": "Take a quick look at the ruins along the windy coast; the sea spray often mixes with the rain here to create a wild atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "O Fornelo",
+                "hu": "O Fornelo",
+                "ro": "O Fornelo",
+                "en": "O Fornelo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und suchen Sie Schutz in den umliegenden Gebäuden; wischen Sie Ihre Bremsen trocken, um Korrosion zu vermeiden.",
+                "hu": "Fejezze be itt a túrát, és keressen menedéket a közeli épületeknél; törölje szárazra a kerékpár fékeit a korrózió megelőzése érdekében.",
+                "ro": "Încheiați tura aici și căutați adăpost la clădirile din apropiere; ștergeți frânele bicicletei pentru a preveni coroziunea.",
+                "en": "Finish your tour here and seek shelter nearby; remember to wipe your bike brakes dry to prevent corrosion after the rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour bei frischer, kalter Luft, die Ihre Sinne schärft. Mittags genießen Sie die geschützten Kulturstopps in Sargadelos, bevor Sie zur Küste aufbrechen. Das Licht am Nachmittag ist weich und ideal für weite Ausblicke über den Atlantik. Da die Sonne gegen 17:00 Uhr sinkt, planen Sie Ihre Rückkehr rechtzeitig ein, um nicht in die eisige Abendkälte zu geraten.",
+            "hu": "Kezdje téli túráját friss, hideg levegőn, amely felfrissíti az érzékeit. Délben élvezze a sargadelosi védett kulturális megállókat, mielőtt a part felé indulna. A délutáni fények lágyak, tökéletesek az Atlanti-óceán feletti panorámához. Mivel 17:00 körül lemegy a nap, tervezze meg időben a visszautat a fagyos esti hideg előtt.",
+            "ro": "Începeți tura de iarnă în aerul proaspăt și rece care vă ascute simțurile. La prânz, bucurați-vă de opririle culturale ferite din Sargadelos înainte de a pleca spre coastă. Lumina de după-amiază este blândă, ideală pentru panorame peste Atlantic. Deoarece soarele apune în jur de 17:00, planificați întoarcerea înainte de gerul serii.",
+            "en": "Start your winter bike tour in the fresh, crisp air that sharpens your senses. At noon, enjoy the sheltered cultural stops in Sargadelos before heading to the coast. The afternoon light is soft, perfect for wide views over the Atlantic. As the sun sets around 17:00, plan your return carefully to avoid the freezing evening temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Cervo",
+                "hu": "Igrexa de Santa María de Cervo",
+                "ro": "Igrexa de Santa María de Cervo",
+                "en": "Igrexa de Santa María de Cervo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Handschuhe zu richten; im Inneren der Kirche ist es spürbar windstiller als auf der offenen Straße.",
+                "hu": "Használja ki a megállót a kesztyűi megigazítására; a templom belsejében érezhetően szélcsendesebb az idő, mint a nyílt országúton.",
+                "ro": "Folosiți oprirea pentru a vă aranja mănușile; în interiorul bisericii este mult mai puțin vânt decât pe drumul deschis.",
+                "en": "Use this stop to adjust your gloves; it is noticeably calmer inside the church compared to the windy open roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Sargadelos",
+                "hu": "Museo Histórico de Sargadelos",
+                "ro": "Museo Histórico de Sargadelos",
+                "en": "Museo Histórico de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich im Museum auf; die Exponate bieten eine willkommene Ablenkung von der Winterkälte.",
+                "hu": "Parkolja le biztonságosan a biciklit, és melegedjen fel a múzeumban; a kiállítási tárgyak kellemes kikapcsolódást nyújtanak a kinti hideg után.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în muzeu; exponatele oferă o distragere binevenită de la frigul iernii.",
+                "en": "Park your bike securely and warm up inside the museum; the exhibits offer a welcome distraction from the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Fábrica Vella de Louza de Sargadelos",
+                "hu": "Fábrica Vella de Louza de Sargadelos",
+                "ro": "Fábrica Vella de Louza de Sargadelos",
+                "en": "Fábrica Vella de Louza de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen; die historischen Mauern werfen im Winter lange Schatten, in denen es oft kälter bleibt.",
+                "hu": "Ügyeljen a zúzmarára az utakon; a történelmi falak télen hosszú árnyékot vetnek, ahol a levegő gyakran jóval hidegebb marad.",
+                "ro": "Atenție la chiciura de pe drumuri; zidurile istorice proiectează umbre lungi iarna, unde temperatura rămâne adesea mai scăzută.",
+                "en": "Watch out for frost on the paths; the historic walls cast long winter shadows where temperatures often remain much lower."
+              }
+            },
+            {
+              "name": {
+                "de": "Xacemeno Romano de Tagarreiros",
+                "hu": "Xacemeno Romano de Tagarreiros",
+                "ro": "Xacemeno Romano de Tagarreiros",
+                "en": "Xacemeno Romano de Tagarreiros"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine können bei Frost rutschig sein; genießen Sie den Ausblick zügig, bevor der kalte Wind Sie wieder aufs Rad zwingt.",
+                "hu": "Az antik kövek fagy esetén csúszósak lehetnek; élvezze a kilátást tempósan, mielőtt a hideg szél visszakényszerítené a nyeregbe.",
+                "ro": "Pietrele antice pot fi alunecoase în caz de îngheț; bucurați-vă de priveliște rapid, înainte ca vântul rece să vă trimită înapoi pe bicicletă.",
+                "en": "The ancient stones can be slippery if there is frost; enjoy the view quickly before the cold wind forces you back onto your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Petróglifo da Rueta",
+                "hu": "Petróglifo da Rueta",
+                "ro": "Petróglifo da Rueta",
+                "en": "Petróglifo da Rueta"
+              },
+              "tip_5lang": {
+                "de": "Das flache Sonnenlicht am Nachmittag macht die Ritzungen deutlicher; tragen Sie eine winddichte Jacke für diesen exponierten Küstenabschnitt.",
+                "hu": "A délutáni lapos napsugárzás még jobban kiemeli a karcolatokat; viseljen szélálló dzsekit ezen a kitett tengerparti szakaszon.",
+                "ro": "Lumina piezișă de după-amiază face gravurile mai vizibile; purtați o jachetă rezistentă la vânt pe această secțiune de coastă expusă.",
+                "en": "The low afternoon sunlight makes the carvings more distinct; wear a windproof jacket for this exposed coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Rueta",
+                "hu": "Castro da Rueta",
+                "ro": "Castro da Rueta",
+                "en": "Castro da Rueta"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, da die Meeresbrise im Winter schneidend kalt ist; halten Sie die Kamera für ein schnelles Foto bereit.",
+                "hu": "Egy rövid megálló is elég, mert a tengeri szél télen metszően hideg; tartsa készenlétben a fényképezőgépet egy gyors fotóhoz.",
+                "ro": "O oprire scurtă este suficientă, deoarece briza mării este tăioasă iarna; aveți camera pregătită pentru o fotografie rapidă.",
+                "en": "A short stop is enough as the sea breeze is piercingly cold in winter; have your camera ready for a quick landscape photo."
+              }
+            },
+            {
+              "name": {
+                "de": "O Fornelo",
+                "hu": "O Fornelo",
+                "ro": "O Fornelo",
+                "en": "O Fornelo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Einbruch der Dunkelheit (ca. 17:00 Uhr) an; die winterliche Abenddämmerung am Meer ist wunderschön, aber sehr kühl.",
+                "hu": "Érkezzen meg még sötétedés (kb. 17:00) előtt; a téli szürkület a tengerparton gyönyörű, de a hőmérséklet ilyenkor gyorsan zuhan.",
+                "ro": "Ajungeți înainte de lăsarea întunericului (aprox. 17:00); amurgul de iarnă la malul mării este superb, dar foarte rece.",
+                "en": "Arrive before darkness falls (around 17:00); the winter twilight by the sea is beautiful, but the temperature drops very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Indítsa a napot autóval a Mourisca kőköröknél, felfedezve a vidék ősi titkait. Délben térjen vissza a városközpontba a templomhoz és a helyi kerámiamúzeumhoz. Délután a déli dombok ősi erődítményei és Vilaestrofe rejtett temploma várják. Az estét egy kellemes sétával zárhatja az O Fornelo pihenőhelyen.",
         "ro": "Conduceți dimineața spre cercurile de piatră antice pentru a explora preistoria regiunii. La prânz, întoarceți-vă în centru pentru a vizita biserica principală și muzeul porțelanului. După-amiaza vă poartă spre fortificațiile antice din sud și biserica pitorească din Vilaestrofe. Încheiați călătoria cu o seară liniștită la O Fornelo.",
         "en": "Drive out to the ancient henges in the morning to explore the deep prehistoric roots of the region. Midday brings you back to the center for the main church and the porcelain museum. Your afternoon includes a scenic drive to southern hill forts and the hidden church of Vilaestrofe. Finish the road trip with a relaxing evening at O Fornelo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch das neblige Galicien bequem von Ihrem Auto aus. Vormittags besuchen Sie die historischen Henges, während der Regen die grünen Hügel intensiviert. Mittags bieten die Museen von Sargadelos trockene Kulturstunden. Am Nachmittag steuern Sie Aussichtspunkte an, an denen Sie das Panorama direkt aus dem Fenster bewundern können, geschützt vor dem nassen Wetter.",
+            "hu": "Élvezze az utazást a ködös Galíciában, kényelmesen az autójából szemlélődve. Délelőtt látogassa meg a történelmi kőköröket, miközben az eső mélyíti a dombok zöldjét. Délben a sargadelosi múzeumok nyújtanak száraz kulturális élményt. Délután keressen olyan kilátópontokat, ahol közvetlenül az ablakból is csodálhatja a panorámát, védve a nedves időjárástól.",
+            "ro": "Bucurați-vă de călătoria prin Galiția ceațoasă, admirând peisajul confortabil din mașină. Dimineața vizitați monumentele istorice, în timp ce ploaia intensifică verdele dealurilor. La prânz, muzeele din Sargadelos oferă experiențe culturale la uscat. După-amiaza, mergeți la punctele de observație unde puteți admira panorama direct de la geamul mașinii.",
+            "en": "Enjoy the drive through misty Galicia from the comfort of your car. In the morning, visit the historic henges as the rain deepens the green of the hills. At noon, the Sargadelos museums provide a dry cultural experience. In the afternoon, head to viewpoints where you can admire the panorama directly from your window, protected from the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Henge de A Mourisca 1",
+                "hu": "Henge de A Mourisca 1",
+                "ro": "Henge de A Mourisca 1",
+                "en": "Henge de A Mourisca 1"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und nutzen Sie eine Regenjacke für den kurzen Weg zu den Steinen; der Boden kann sehr weich sein.",
+                "hu": "Parkoljon a lehető legközelebb, és használjon esőkabátot a kövekig tartó rövid úton; a talaj itt nagyon felázhat.",
+                "ro": "Parcați cât mai aproape și folosiți o pelerină de ploaie pentru drumul scurt până la pietre; solul poate fi foarte moale.",
+                "en": "Park as close as possible and wear a raincoat for the short walk to the stones; be aware that the ground can be quite soggy."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Pico Pequeno",
+                "hu": "Castro do Pico Pequeno",
+                "ro": "Castro do Pico Pequeno",
+                "en": "Castro do Pico Pequeno"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Hügelfestung durch die Scheibe; bei starkem Regen wirken die Ruinen im Nebel besonders mystisch.",
+                "hu": "Élvezze a dombtetőn lévő erőd látványát a szélvédő mögül; erős esőben a romok a ködben különösen misztikus hatást keltenek.",
+                "ro": "Admirați fortăreața de pe deal prin parbriz; pe ploaie puternică, ruinele par deosebit de mistice în mijlocul ceții.",
+                "en": "Enjoy the view of the hill fort through your windshield; in heavy rain, the ruins look especially mystical through the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Cervo",
+                "hu": "Igrexa de Santa María de Cervo",
+                "ro": "Igrexa de Santa María de Cervo",
+                "en": "Igrexa de Santa María de Cervo"
+              },
+              "tip_5lang": {
+                "de": "Ein sicherer, trockener Stopp; nutzen Sie die Parkmöglichkeit am Platz, um direkt vor dem Kircheneingang auszusteigen.",
+                "hu": "Biztonságos, száraz megálló; használja ki a főtéri parkolást, hogy szinte közvetlenül a templom bejáratánál szállhasson ki.",
+                "ro": "O oprire sigură și uscată; folosiți parcarea din piață pentru a coborî chiar în fața intrării în biserică.",
+                "en": "A safe and dry stop; use the parking at the square to get out of the car right in front of the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Sargadelos",
+                "hu": "Museo Histórico de Sargadelos",
+                "ro": "Museo Histórico de Sargadelos",
+                "en": "Museo Histórico de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Parkplatz; das Museum ist die ideale Zuflucht, um den heftigsten Regen des Tages auszusitzen.",
+                "hu": "Használja a kiépített parkolót; a múzeum ideális menedék, hogy itt várja meg a nap leghevesebb esőzésének végét.",
+                "ro": "Folosiți parcarea amenajată; muzeul este refugiul ideal pentru a aștepta trecerea celei mai intense ploi a zilei.",
+                "en": "Use the paved parking area; the museum is the perfect sanctuary to wait out the heaviest rain showers of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Senra",
+                "hu": "Castro da Senra",
+                "ro": "Castro da Senra",
+                "en": "Castro da Senra"
+              },
+              "tip_5lang": {
+                "de": "Der Zufahrtsweg kann bei Regen matschig sein; fahren Sie vorsichtig und bleiben Sie bei schlechter Sicht lieber im Fahrzeug.",
+                "hu": "A bekötőút esőben sáros lehet; vezessen óvatosan, és rossz látási viszonyok esetén maradjon inkább az autóban.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie; conduceți cu prudență și rămâneți în mașină dacă vizibilitatea este redusă.",
+                "en": "The access road can be muddy in the rain; drive carefully and consider staying in the vehicle if visibility is poor."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Román de Vilaestrofe",
+                "hu": "Igrexa de San Román de Vilaestrofe",
+                "ro": "Igrexa de San Román de Vilaestrofe",
+                "en": "Igrexa de San Román de Vilaestrofe"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um dem Prasseln des Regens im Inneren zu lauschen; halten Sie die Autotür beim Aussteigen fest, falls es windig ist.",
+                "hu": "Csendes helyszín, ahol bentről hallgathatja az eső kopogását; kiszálláskor fogja erősen az autóajtót, ha fúj a szél.",
+                "ro": "Un loc liniștit unde puteți asculta ploaia din interior; țineți bine ușa mașinii la coborâre dacă bate vântul tare.",
+                "en": "A quiet spot to listen to the rain from inside; hold your car door firmly when getting out if it's a windy day."
+              }
+            },
+            {
+              "name": {
+                "de": "O Fornelo",
+                "hu": "O Fornelo",
+                "ro": "O Fornelo",
+                "en": "O Fornelo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer aus dem sicheren Auto; die Wellen peitschen bei Regen oft eindrucksvoll gegen die Küstenfelsen.",
+                "hu": "Szemlélje a tengert az autó biztonságából; a hullámok esős időben gyakran látványosan csapkodják a part menti sziklákat.",
+                "ro": "Observați marea din siguranța mașinii; valurile se izbesc adesea spectaculos de stâncile coastei în zilele ploioase.",
+                "en": "Watch the sea from the safety of your car; the waves often crash impressively against the coastal rocks during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour durch das winterliche Cervo, während die Heizung für Komfort sorgt. Vormittags erkunden Sie die prähistorischen Stätten unter der klaren Wintersonne. Mittags bietet Sargadelos warme Innenräume und faszinierende Geschichte. Nutzen Sie das kurze Tageslicht bis 17:00 Uhr für die Küstenfahrt und genießen Sie die klare Sicht über den Atlantik, bevor die Frostnacht beginnt.",
+            "hu": "Kezdje autós túráját a téli Cervóban, miközben a fűtés biztosítja a kényelmet. Délelőtt fedezze fel a prehisztorikus lelőhelyeket a tiszta téli napsütésben. Délben Sargadelos meleg belső terei és lenyűgöző története várja. Használja ki a rövid nappali fényt 17:00-ig a tengerparti autózáshoz, élvezve a tiszta kilátást az Atlanti-óceánra.",
+            "ro": "Începeți turul cu mașina în Cervo de iarnă, în timp ce încălzirea vă asigură confortul. Dimineața explorați siturile preistorice sub soarele clar de iarnă. La prânz, Sargadelos vă așteaptă cu interioare calde și o istorie fascinantă. Profitați de lumina scurtă a zilei până la 17:00 pentru drumul de coastă și panoramele clare.",
+            "en": "Start your car tour through winter Cervo with the heater keeping you comfortable. In the morning, explore prehistoric sites under the clear winter sun. At noon, Sargadelos offers warm interiors and fascinating history. Make use of the short daylight until 17:00 for the coastal drive, enjoying clear views over the Atlantic before the frost sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Henge de A Mourisca 1",
+                "hu": "Henge de A Mourisca 1",
+                "ro": "Henge de A Mourisca 1",
+                "en": "Henge de A Mourisca 1"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Steine schärfer hervortreten; achten Sie beim Parken auf gefrorene Pfützen auf den unbefestigten Wegen.",
+                "hu": "A téli fényekben élesebben rajzolódnak ki a kövek; parkoláskor ügyeljen a befagyott tócsákra a burkolatlan utakon.",
+                "ro": "Lumina de iarnă face ca pietrele să pară mai conturate; aveți grijă la bălțile înghețate de pe drumurile neasfaltate când parcați.",
+                "en": "The winter light makes the stones stand out more sharply; watch out for frozen puddles on unpaved paths when parking your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Pico Pequeno",
+                "hu": "Castro do Pico Pequeno",
+                "ro": "Castro do Pico Pequeno",
+                "en": "Castro do Pico Pequeno"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das Tal, der im Winter oft klarer ist; lassen Sie den Motor nicht unnötig lange im Leerlauf laufen.",
+                "hu": "Élvezze a völgyre nyíló kilátást, amely télen gyakran sokkal tisztább; ne járassa feleslegesen hosszan a motort álló helyzetben.",
+                "ro": "Bucurați-vă de vederea largă asupra văii, care este adesea mai clară iarna; nu lăsați motorul pornit inutil cât timp staționați.",
+                "en": "Enjoy the wide view over the valley, which is often much clearer in winter; avoid idling the engine for too long while you take photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Cervo",
+                "hu": "Igrexa de Santa María de Cervo",
+                "ro": "Igrexa de Santa María de Cervo",
+                "en": "Igrexa de Santa María de Cervo"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort der Ruhe; die Steinmauern halten die Kälte gut ab, solange die Sonne nicht scheint.",
+                "hu": "A templom szélvédett és nyugodt helyszín; a vastag kőfalak jól kirekesztik a hideget, még ha kint fúj is a téli szél.",
+                "ro": "Biserica oferă un loc de liniște ferit de vânt; zidurile de piatră izolează bine frigul, asigurând un moment de respiro.",
+                "en": "The church provides a wind-sheltered sanctuary; the thick stone walls do a good job of blocking out the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Histórico de Sargadelos",
+                "hu": "Museo Histórico de Sargadelos",
+                "ro": "Museo Histórico de Sargadelos",
+                "en": "Museo Histórico de Sargadelos"
+              },
+              "tip_5lang": {
+                "de": "Der wärmste Stopp Ihrer Tour; verbringen Sie hier die Mittagszeit, um sich für die weiteren Außenbesichtigungen aufzuwärmen.",
+                "hu": "Túrája legmelegebb állomása; töltse itt a délidőt, hogy alaposan átmelegedjen a további szabadtéri látnivalók előtt.",
+                "ro": "Cea mai călduroasă oprire a turului; petreceți aici timpul amiezii pentru a vă încălzi înainte de următoarele vizite în exterior.",
+                "en": "The warmest stop on your tour; spend your midday here to thaw out before continuing with the outdoor sightseeing locations."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Senra",
+                "hu": "Castro da Senra",
+                "ro": "Castro da Senra",
+                "en": "Castro da Senra"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen auf der Zufahrt; die tiefstehende Wintersonne kann beim Fahren in diese Richtung stark blenden.",
+                "hu": "Ügyeljen a csúszós szakaszokra a bekötőúton; az alacsonyan járó téli nap ezen az úton haladva erősen elvakíthatja a sofőrt.",
+                "ro": "Atenție la porțiunile alunecoase de pe drumul de acces; soarele jos de iarnă poate fi foarte orbitor în timp ce conduceți spre sit.",
+                "en": "Watch out for slippery patches on the access road; the low winter sun can be quite blinding while driving in this direction."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Román de Vilaestrofe",
+                "hu": "Igrexa de San Román de Vilaestrofe",
+                "ro": "Igrexa de San Román de Vilaestrofe",
+                "en": "Igrexa de San Román de Vilaestrofe"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 16:30 Uhr, solange noch Tageslicht durch die Fenster fällt; im Winter wirkt das Licht besonders sanft.",
+                "hu": "Még 16:30 előtt látogasson el ide, amíg a nappali fény átszűrődik az ablakokon; télen a fények különösen lágyan világítják meg a belsőt.",
+                "ro": "Vizitați biserica înainte de 16:30, cât timp lumina zilei încă trece prin ferestre; iarna, lumina are o blândețe aparte în interior.",
+                "en": "Visit the church before 16:30 while daylight still filters through the windows; the winter light creates a very soft atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "O Fornelo",
+                "hu": "O Fornelo",
+                "ro": "O Fornelo",
+                "en": "O Fornelo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den winterlichen Sonnenuntergang über dem Meer gegen 17:15 Uhr aus dem Auto; die Farben am Horizont sind oft spektakulär.",
+                "hu": "Élvezze a téli naplementét a tenger felett 17:15 körül az autóból; a horizont színei ilyenkor gyakran látványosabbak, mint nyáron.",
+                "ro": "Admirați apusul de iarnă peste mare în jur de 17:15 din mașină; culorile orizontului sunt adesea spectaculoase în acest sezon.",
+                "en": "Enjoy the winter sunset over the sea around 17:15 from your car; the colors on the horizon are often more spectacular than in summer."
+              }
+            }
+          ]
+        }
       }
     }
   }

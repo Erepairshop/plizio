@@ -137,6 +137,168 @@
         "hu": "A délelőtt Vathy szívében, a régészeti múzeumban indul, ahol felfedezheti Ithaka mitikus múltját, majd dél felé véve az irányt megcsodálhatja Palaiokhora középkori romjait.\n\nA délidő egy kellemes part menti sétát ígér a Dexá strand felé. Ez az olajfákkal szegélyezett öböl tökéletes hely a lábak pihentetésére és a tengeri szellő élvezetére.\n\nDélután a történelmi velencei ágyúk várják, amelyek némán őrzik az öböl bejáratát. Ebből a magasságból igazán látványos kilátás nyílik a kikötőre és a tengerre.\n\nZárja a gyalogtúrát a Loutsa strandon, és pihenjen a nyugodt, sekély vízben az este közeledtével. Ez egy békés befejezése a történelemben és szépségben gazdag napnak.",
         "ro": "Dimineața dumneavoastră începe în inima orașului Vathy la muzeul arheologic, explorând trecutul mitic al Itacăi, înainte de a descoperi ruinele medievale din Palaiokhora.\n\nLa amiază veți face o schimbare de peisaj în timp ce vă plimbați de-a lungul coastei spre plaja Dexá. Acest golf mărginit de măslini este locul perfect pentru odihnă.\n\nDupă-amiaza vă așteaptă istoricele tunuri venețiene, care păzesc tăcute intrarea în golf. Priveliștea asupra portului de la acest punct de observație este cu adevărat spectaculoasă.\n\nÎncheiați-vă turul pietonal la plaja Loutsa, relaxându-vă în apele sale calme pe măsură ce se lasă seara. O concluzie pașnică a unei zile bogate în istorie și frumusețe de coastă.",
         "en": "Your morning starts in the heart of Vathy at the archaeological museum, exploring Ithaca's mythical past. From there, head south to uncover the medieval ruins of Palaiokhora.\n\nMidday invites a shift in scenery as you walk along the coast to Dexá beach. This olive-fringed cove is the perfect spot to rest your feet and enjoy the Ionian breeze.\n\nIn the afternoon, the historic Venetian cannons await you, silently guarding the bay's entrance. The views over the harbor from this vantage point are truly spectacular.\n\nEnd your walking tour at Loutsa beach, relaxing in its calm, shallow waters as the evening sets in. It's a peaceful conclusion to a day rich in history and coastal beauty."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vathy zeigt sich im Regen von seiner mystischen Seite. Der Vormittag gehört dem Museum, einem idealen trockenen Zufluchtsort. Mittags führt der Weg durch die engen Gassen, in denen Pfützen das bunte Hafenpanorama widerspiegeln. Am Nachmittag bietet der Spaziergang zu den Kanonen trotz grauer Wolken dramatische Ausblicke. Der Abend klingt gemütlich in einer der regensicheren Tavernen am Kai aus.",
+            "hu": "Vathy az esőben is varázslatos, a ködbe burkolózó öböl látványa felejthetetlen. A délelőttöt töltsük a múzeumban, ami tökéletes fedett program. Délben az óváros szűk utcáin sétálva élvezzük a friss illatokat, délután pedig a tengerparti sétányon figyelhetjük a hullámokat. Az este a kikötő fényeivel zárul, miközben az eső kopog a tavernák ponyváin, meghitt hangulatot teremtve a nap végére.",
+            "ro": "Vathy sub ploaie emană o melancolie poetică, ideală pentru explorări liniștite. Dimineața începe la adăpostul muzeului, urmată de o plimbare la prânz printre casele colorate ale portului. După-amiaza, drumul spre tunurile venețiene oferă perspective spectaculoase asupra mării agitate. Seara se încheie confortabil într-o tavernă de pe malul mării, unde sunetul ploii completează atmosfera relaxantă.",
+            "en": "Rainy Vathy offers a mystical atmosphere with the misty bay and fresh sea air. Spend your morning at the museum to stay dry, then enjoy a midday stroll through the narrow streets reflected in the puddles. Afternoon brings a walk to the cannons for dramatic views of the stormy Ionian Sea. The evening ends cozily in a sheltered waterfront tavern, watching the rain dance on the harbour's surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum Ithaka",
+                "hu": "Ithakai Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Itaca",
+                "en": "Ithaca archaeological museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zufluchtsort vor dem Regen, um tief in die antike Geschichte von Ithaka einzutauchen; nutzen Sie die Zeit für die detaillierten Exponate im Trockenen.",
+                "hu": "Kiváló menedék az eső elől, ahol elmélyedhetünk Ithaka ókori történelmében; érdemes alaposan végignézni a tárlókat, amíg a kinti zápor el nem csendesedik a város felett.",
+                "ro": "Un refugiu excelent împotriva ploii pentru a explora istoria antică a Itacăi; profitați de spațiul interior pentru a vedea exponatele detaliate fără grabă.",
+                "en": "An excellent indoor refuge from the rain to dive deep into Ithaca's ancient history; take your time with the detailed exhibits while staying perfectly dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora",
+                "hu": "Palaiokhora",
+                "ro": "Palaiokhora",
+                "en": "Palaiokhora"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Regen besonders antik, aber Vorsicht auf den Pfaden; tragen Sie unbedingt wasserfeste Wanderschuhe wegen der rutschigen Steine und des Schlamms.",
+                "hu": "A romok az esőben különösen misztikusak, de a terep ilyenkor nehéz; mindenképpen vízálló, csúszásmentes bakancsban induljunk el a sár és a csúszós kövek miatt.",
+                "ro": "Ruinele par deosebit de antice în ploaie, dar fiți atenți pe poteci; purtați bocanci impermeabili deoarece pietrele devin extrem de alunecoase și noroioase.",
+                "en": "The ruins look particularly ancient in the rain, but be careful on the paths; wear waterproof hiking boots as the stones become slippery and the ground muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Dexá",
+                "hu": "Dexá strand",
+                "ro": "Plaja Dexá",
+                "en": "Dexá"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Regentropfen auf der Meeresoberfläche unter dem Schutz der Olivenbäume; ein Regenschirm ist für diesen kurzen Strandspaziergang unerlässlich.",
+                "hu": "Élvezze a tenger felszínén táncoló esőcseppek látványát az olajfák lombjai alatti menedékből; egy stabil esernyő elengedhetetlen ehhez a rövid, de hangulatos parthoz.",
+                "ro": "Bucurați-vă de spectacolul ploii pe suprafața mării sub protecția măslinilor; o umbrelă este esențială pentru această scurtă oprire pe plaja pustie și liniștită.",
+                "en": "Enjoy the sight of raindrops hitting the sea surface from the shelter of the olive trees; a sturdy umbrella is essential for this brief but atmospheric beach visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Enetika Kanonia",
+                "hu": "Enetika kanonia",
+                "ro": "Enetika kanonia",
+                "en": "Enetika kanonia"
+              },
+              "tip_5lang": {
+                "de": "Die alten Kanonen glänzen im Regen und bieten ein tolles Fotomotiv vor dem grauen Himmel; achten Sie auf den nassen Mauern auf einen sicheren Stand beim Fotografieren.",
+                "hu": "A régi ágyúk vizesen megcsillannak, remek fotótémát nyújtva a szürke égbolt alatt; a várfalakon fokozottan ügyeljünk a lépteinkre, mert a kövek nagyon csúsznak.",
+                "ro": "Tunurile vechi strălucesc în ploaie, oferind un subiect fotografic excelent pe fundalul gri; aveți mare grijă pe zidurile umede pentru a nu aluneca în timpul vizitei.",
+                "en": "The old cannons glisten in the rain, providing a great photo subject against the gray sky; watch your footing on the wet stone walls to ensure a safe experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Loutsa",
+                "hu": "Loutsa strand",
+                "ro": "Plaja Loutsa",
+                "en": "Loutsa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Nebel über die Bucht zieht, während Sie in Regenkleidung den Wellen lauschen; halten Sie den Aufenthalt kurz, falls der Wind zu stark auffrischt.",
+                "hu": "Figyelje, ahogy a köd lassan átúszik az öböl felett, miközben esőkabátban hallgatja a hullámzást; érdemes rövidebbre fogni a nézelődést, ha feltámad a tengeri szél.",
+                "ro": "Urmăriți cum ceața trece peste golf în timp ce ascultați valurile protejat de haina de ploaie; scurtați vizita dacă vântul începe să bată prea tare dinspre mare.",
+                "en": "Watch the mist rolling over the bay while listening to the waves from inside your raincoat; keep the visit short if the sea breeze starts to pick up too much."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vathy im Winter ist ein Ort der Ruhe und der klaren Luft. Der Vormittag bietet milde Temperaturen für den Museumsbesuch. Mittags wärmt die tiefstehende Sonne die Hafenpromenade, ideal für einen Spaziergang. Am Nachmittag ziehen wir uns warm an für die Tour zu den Kanonen, um das goldene Licht zu genießen. Da die Sonne gegen 17:00 Uhr sinkt, endet der Tag früh bei einem heißen Getränk im Zentrum.",
+            "hu": "Vathy télen a nyugalom szigete, tiszta levegővel és tömeg nélkül. A délelőtti múzeumlátogatás után délben a kikötőben sétálva élvezhetjük a gyenge, de melengető napsütést. Délután érdemes rétegesen öltözni a part menti szél miatt, és korán elérni a kilátópontokat. Mivel 17:00 körül már sötétedik, az estét töltsük a fűtött kávézók egyikében, egy forró teával a kezünkben.",
+            "ro": "Vathy iarna este liniștit și autentic, oferind un aer curat și răcoros. Dimineața începe cu muzeul, iar la prânz soarele blând încălzește promenada portului. După-amiaza necesită haine groase pentru vizita la tunuri, de unde lumina aurie a iernii se vede superb. Deoarece soarele apune în jur de ora 17:00, ziua se încheie devreme cu o băutură caldă în centrul orașului.",
+            "en": "Vathy in winter is peaceful and authentic, with crisp air and no crowds. Start with a morning museum visit, then enjoy the midday sun warming the harbour front. Afternoon requires warm layers for the walk to the cannons to catch the winter golden hour. As sunset arrives around 17:00, finish your day early with a hot drink in a local cafe as the town lights up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum Ithaka",
+                "hu": "Ithakai Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Itaca",
+                "en": "Ithaca archaeological museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Start in den Wintertag; prüfen Sie die Winteröffnungszeiten im Voraus, da diese oft kürzer sind als in der Sommersaison.",
+                "hu": "Meleg és kulturális indítása a téli napnak; előre ellenőrizzük a téli nyitvatartást, mert ilyenkor gyakran korábban bezárnak a múzeumok, mint nyáron.",
+                "ro": "Un început cald pentru o zi de iarnă; verificați programul de iarnă în avans, deoarece orele de funcționare sunt adesea reduse față de sezonul estival.",
+                "en": "A warm and cultural start to your winter day; check the winter opening hours in advance, as they are often shorter than during the busy summer season."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora",
+                "hu": "Palaiokhora",
+                "ro": "Palaiokhora",
+                "en": "Palaiokhora"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie ohne die Sommerhitze zu den Ruinen; bringen Sie eine Thermoskanne mit Tee mit, da der Wind auf den Hügeln im Winter recht kühl wehen kann.",
+                "hu": "Élvezze a túrát a romokhoz a nyári hőség nélkül; vigyünk magunkkal egy termoszt forró teával, mert a dombtetőn a téli szél meglehetősen hűvös lehet.",
+                "ro": "Urcați la ruine fără canicula verii; aduceți un termos cu ceai cald, deoarece vântul de pe dealuri poate fi destul de tăios în lunile de iarnă.",
+                "en": "Enjoy the hike to the ruins without the summer heat; bring a thermos of hot tea as the wind on the hills can be quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Dexá",
+                "hu": "Dexá strand",
+                "ro": "Plaja Dexá",
+                "en": "Dexá"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen erfrischenden Winterspaziergang am menschenleeren Ufer; die klare Winterluft bietet eine fantastische Sicht bis auf das gegenüberliegende Festland.",
+                "hu": "Tökéletes helyszín egy frissítő téli sétához a néptelen parton; a tiszta téli levegőben ilyenkor fantasztikus kilátás nyílik a szemközti görög szárazföldre.",
+                "ro": "Ideal pentru o plimbare revigorantă pe malul pustiu; aerul clar de iarnă oferă o vizibilitate fantastică până la coasta continentală a Greciei.",
+                "en": "Perfect for a refreshing winter walk on the deserted shore; the clear winter air provides fantastic visibility all the way to the Greek mainland."
+              }
+            },
+            {
+              "name": {
+                "de": "Enetika Kanonia",
+                "hu": "Enetika kanonia",
+                "ro": "Enetika kanonia",
+                "en": "Enetika kanonia"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr hierher, um den frühen Sonnenuntergang über dem Ionischen Meer zu erleben; eine windfeste Jacke ist an diesem exponierten Ort ratsam.",
+                "hu": "Érkezzünk meg 16:30 előtt, hogy tanúi lehessünk a korai naplementének a Jón-tenger felett; a szeles kilátóponton szükségünk lesz egy szélálló téli kabátra.",
+                "ro": "Ajungeți înainte de ora 16:30 pentru a vedea apusul timpuriu peste Marea Ionică; o jachetă rezistentă la vânt este necesară în acest punct expus.",
+                "en": "Arrive before 16:30 to witness the early sunset over the Ionian Sea; a windproof winter jacket is highly recommended at this exposed viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Loutsa",
+                "hu": "Loutsa strand",
+                "ro": "Plaja Loutsa",
+                "en": "Loutsa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Bucht, bevor die Dämmerung einsetzt; im Winter wirkt das tiefblaue Wasser hier besonders intensiv und beruhigend.",
+                "hu": "Élvezze az öböl csendjét, mielőtt leszállna a korai szürkület; télen a víz sötétkék színe itt különösen intenzív és nyugtató látványt nyújt a sétálóknak.",
+                "ro": "Bucurați-vă de liniștea golfului înainte de căderea amurgului timpuriu; iarna, culoarea albastru închis a apei este extrem de intensă și relaxantă.",
+                "en": "Enjoy the silence of the bay before the early dusk sets in; in winter, the deep blue color of the water is particularly intense and soothing here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Tekerjen el korán a régészeti múzeumhoz egy kis ókori történelemért, majd folytassa útját a dombnak felfelé Palaiokhora középkori maradványai felé a melegedő délelőttben.\n\nDélben guruljon le a Dexá strand hívogató vizéhez. Egy frissítő úszás itt tökéletes pihenést biztosít, mielőtt visszapattanna a kerékpárra a további kalandokhoz.\n\nA délutáni kerékpározás a régi velencei ágyúk mellett vezet el, panorámás kilátást nyújtva az öbölre, majd elérve a nyugodt Loutsa partjait megpihenhet egy kicsit.\n\nAhogy közeledik az este, haladjon tovább a festői part menti úton Mnimata, majd végül a Skinos strand felé. Ezek a csendes helyek fenséges naplemente hangulatot árasztanak.",
         "ro": "Pedalați devreme spre muzeul arheologic pentru o porție de istorie antică, apoi continuați drumul spre vestigiile medievale din Palaiokhora pe măsură ce se încălzește.\n\nLa prânz, coborâți fără efort către apele primitoare ale plajei Dexá. O baie răcoritoare aici oferă pauza perfectă înainte de a vă întoarce pe bicicletă.\n\nCiclismul de după-amiază vă duce pe lângă vechile tunuri venețiene, oferind vedere panoramică la golf, înainte de a ajunge la țărmurile liniștite de la Loutsa.\n\nOdată cu lăsarea serii, mergeți mai departe pe drumul pitoresc de coastă până la Mnimata și plaja Skinos. Aceste locuri liniștite, parfumate cu pini, sunt perfecte la apus.",
         "en": "Pedal out early to the archaeological museum for a dose of ancient history, then continue your ride up toward the medieval remnants of Palaiokhora as the morning warms up.\n\nBy midday, cruise effortlessly down to the inviting waters of Dexá beach. A refreshing swim here provides the perfect break before hopping back on your bicycle.\n\nAfternoon cycling takes you past the old Venetian cannons, offering panoramic bay views, before reaching the calm and family-friendly shores of Loutsa for a quick rest.\n\nAs evening approaches, push further along the scenic coastal road to Mnimata and finally Skinos beach. These quiet, pine-scented spots offer a sublime sunset atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln im Regen auf Ithaka erfordert Konzentration und die richtige Ausrüstung. Der Vormittag startet mit Kultur im Museum. Mittags geht es vorsichtig auf asphaltierten Wegen Richtung Dexá. Am Nachmittag fordern die nassen Straßen nach Skinos volle Aufmerksamkeit, belohnen aber mit einsamen Ausblicken. Der Abend endet nach einer heißen Dusche in einer warmen Hafentaverne.",
+            "hu": "A kerékpározás az esős Ithakán odafigyelést és jó felszerelést igényel. A délelőtti múzeumlátogatás után délben óvatosan vágjunk neki az aszfaltos utaknak Dexá felé. Délután a Skinos felé vezető nedves úton a látvány kárpótol a nehézségekért, de a fékekre vigyázni kell. A napot egy forró zuhany után a kikötő egyik hívogató, fedett éttermében zárhatjuk.",
+            "ro": "Ciclismul pe ploaie în Itaca necesită concentrare și echipament adecvat. Dimineața începe cultural la muzeu, iar la prânz pornim cu atenție pe drumurile asfaltate spre Dexá. După-amiaza, traseul spre Skinos oferă peisaje solitare superbe, dar necesită prudență maximă pe carosabilul ud. Seara se încheie cu o masă caldă într-o tavernă protejată din port.",
+            "en": "Cycling in the rain on Ithaca requires focus and waterproof gear. Start your morning with culture at the museum, then carefully navigate the asphalt roads toward Dexá at midday. Afternoon brings a scenic but wet ride toward Skinos, where caution is needed on the slick descents. End your day with a hot shower and a meal in a sheltered waterfront tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum Ithaka",
+                "hu": "Ithakai Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Itaca",
+                "en": "Ithaca archaeological museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und genießen Sie die archäologischen Schätze, während draußen der Regen auf die Gassen prasselt.",
+                "hu": "Parkoljuk le a bringát egy védett helyen, és élvezzük a régészeti kincseket, miközben odakint az eső veri a kikötő macskaköves utcáit.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de comorile arheologice în timp ce afară ploaia cade peste străzile portului.",
+                "en": "Park your bike in a sheltered spot and enjoy the archaeological treasures while the rain falls on the cobblestone streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora",
+                "hu": "Palaiokhora",
+                "ro": "Palaiokhora",
+                "en": "Palaiokhora"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend, aber der Regen kühlt angenehm; achten Sie bei der Abfahrt auf Schlamm und rutschige Stellen auf dem Weg zu den Ruinen.",
+                "hu": "A felfelé vezető út nehéz, de az eső hűsít; a lefelé menetnél azonban vigyázzunk a sárra és a csúszós szakaszokra a romokhoz vezető ösvényen.",
+                "ro": "Urcarea este grea, dar ploaia răcorește; la coborâre aveți grijă la noroi și la porțiunile alunecoase de pe poteca spre ruinele vechi.",
+                "en": "The climb is tough but the rain provides a cooling effect; be extra careful on the descent due to mud and slippery patches on the path to the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Dexá",
+                "hu": "Dexá strand",
+                "ro": "Plaja Dexá",
+                "en": "Dexá"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Regencape, um die grauen Wellen zu beobachten; stellen Sie sicher, dass Ihre Bremsen nach der Fahrt im Nassen noch einwandfrei funktionieren.",
+                "hu": "Rövid megálló esőköpenyben a szürke hullámok megfigyelésére; győződjünk meg róla, hogy a fékek a vizes úton is megfelelően fognak az indulás előtt.",
+                "ro": "O scurtă oprire în pelerina de ploaie pentru a observa valurile gri; asigurați-vă că frânele funcționează corect după parcurgerea drumului ud.",
+                "en": "A brief stop in your rain poncho to watch the gray waves; make sure your brakes are functioning perfectly after riding on the wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Enetika Kanonia",
+                "hu": "Enetika kanonia",
+                "ro": "Enetika kanonia",
+                "en": "Enetika kanonia"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Bucht im Regen ist dramatisch; sichern Sie Ihr Fahrrad gut, da der Wind an diesem Punkt bei schlechtem Wetter stark sein kann.",
+                "hu": "Az öbölre nyíló kilátás esőben is drámai; támasszuk le stabilan a kerékpárt, mert a szél ezen a ponton rossz időben elég erős lehet.",
+                "ro": "Vederea spre golf în ploaie este dramatică; asigurați bine bicicleta, deoarece vântul poate fi puternic în acest punct în timpul intemperiilor.",
+                "en": "The view over the bay in the rain is dramatic; secure your bike well, as the wind can be quite strong at this exposed point during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Loutsa",
+                "hu": "Loutsa strand",
+                "ro": "Plaja Loutsa",
+                "en": "Loutsa"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ort für ein schnelles Foto vom verlassenen Ufer; verstauen Sie Ihre Kamera oder Ihr Handy unbedingt in einer wasserdichten Tasche.",
+                "hu": "Ideális hely egy gyors fotóhoz a kihalt partról; a fényképezőgépet vagy telefont mindenképpen tartsuk vízálló tokban a tekerés közben.",
+                "ro": "Locul ideal pentru o fotografie rapidă a țărmului pustiu; păstrați aparatul foto sau telefonul într-o geantă impermeabilă în timpul mersului.",
+                "en": "Ideal spot for a quick photo of the deserted shore; keep your camera or phone in a waterproof bag while cycling between the stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Mnimata",
+                "hu": "Mnimata",
+                "ro": "Mnimata",
+                "en": "Mnimata"
+              },
+              "tip_5lang": {
+                "de": "Die Straße hierher kann bei Regen rutschig sein; halten Sie genügend Abstand zum Fahrbahnrand und fahren Sie mit reduzierter Geschwindigkeit.",
+                "hu": "Az idevezető út esőben csúszós lehet; tartsunk biztonságos távolságot az út szélétől, és lassítsunk le a beláthatatlan kanyarok előtt a vizes aszfalton.",
+                "ro": "Drumul până aici poate fi alunecos pe ploaie; păstrați o distanță sigură de marginea carosabilului și reduceți viteza în curbe.",
+                "en": "The road here can be slippery in the rain; keep a safe distance from the road edge and reduce your speed on the wet asphalt surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Skinos",
+                "hu": "Skinos strand",
+                "ro": "Plaja Skinos",
+                "en": "Skinos"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit der Ruhe dieses abgelegenen Ortes; trocknen Sie nach der Ankunft Ihre Hände und Griffe für eine sichere Rückfahrt ab.",
+                "hu": "Jutalmazza meg magát ennek az elszigetelt helynek a nyugalmával; érkezés után szárítsuk meg a kezünket és a kormányt a biztonságos visszajutáshoz.",
+                "ro": "Răsplătiți-vă cu liniștea acestui loc izolat; după sosire, ștergeți-vă mâinile și mânerele bicicletei pentru un drum de întoarcere sigur.",
+                "en": "Reward yourself with the silence of this secluded spot; after arriving, dry your hands and the bike grips for a safe return journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das winterliche Ithaka mit dem Rad zu erkunden bedeutet klare Sicht und kühle Brisen. Der Vormittag startet frisch mit dem Museumsbesuch. Mittags wärmt die Sonne die Fahrt nach Palaiokhora auf angenehme Weise. Am Nachmittag geht es zügig weiter bis Skinos, um die goldenen Stunden vor der frühen Dämmerung zu nutzen. Da es ab 17:00 Uhr schnell dunkel wird, ist eine gute Beleuchtung am Rad Pflicht.",
+            "hu": "A téli Ithaka kerékpárral tiszta kilátást és frissítő fuvallatokat ígér. A délelőttöt kezdjük a múzeumban, majd délben használjuk ki a melengető napot a Palaiokhora felé vezető úton. Délután tekerjünk tempósan Skinos felé, hogy a 17:00 órai naplemente előtt visszaérjünk. A korai sötétedés miatt a jól működő kerékpár-világítás elengedhetetlen a biztonságos célba éréshez.",
+            "ro": "Explorarea Itacăi iarna pe bicicletă oferă vizibilitate clară și brize răcoroase. Dimineața începe la muzeu, iar la prânz profităm de soarele blând pentru drumul spre Palaiokhora. După-amiaza pedalăm spre Skinos pentru a surprinde lumina aurie înainte de amurg. Deoarece se întunecă rapid după ora 17:00, luminile funcționale la bicicletă sunt obligatorii.",
+            "en": "Exploring winter Ithaca by bike means clear views and crisp breezes. Start your morning at the museum, then take advantage of the midday sun for the ride to Palaiokhora. Afternoon brings a brisk cycle toward Skinos to enjoy the golden hour before the early dusk. Since it gets dark quickly after 17:00, reliable bike lights are mandatory for a safe return to town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum Ithaka",
+                "hu": "Ithakai Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Itaca",
+                "en": "Ithaca archaeological museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, bevor Sie die längere Tour starten; im Winter ist dies der perfekte Ort, um die Kälte der ersten Morgenstunden zu überbrücken.",
+                "hu": "Melegedjünk fel a múzeumban a hosszabb túra előtt; télen ez a tökéletes hely a kora reggeli hideg átvészelésére, mielőtt kisütne a nap az öböl felett.",
+                "ro": "Încălziți-vă în muzeu înainte de a porni la drum lung; iarna, acesta este locul perfect pentru a evita frigul primelor ore ale dimineții.",
+                "en": "Warm up in the museum before starting your longer ride; in winter, this is the perfect spot to avoid the early morning chill before the sun comes out."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhora",
+                "hu": "Palaiokhora",
+                "ro": "Palaiokhora",
+                "en": "Palaiokhora"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber oben angekommen sollten Sie eine zusätzliche Schicht anziehen; die Wintersonne beleuchtet die alten Ruinen wunderschön.",
+                "hu": "A felfelé tekerés melegen tart, de a csúcsra érve vegyünk fel még egy réteget; a téli napfény gyönyörűen világítja meg a régi romokat ilyenkor.",
+                "ro": "Urcarea vă va ține de cald, dar odată ajunși sus puneți-vă un strat în plus; soarele de iarnă luminează superb ruinele vechi în această perioadă.",
+                "en": "The uphill climb will keep you warm, but put on an extra layer once you reach the top; the winter sun illuminates the old ruins beautifully this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Dexá",
+                "hu": "Dexá strand",
+                "ro": "Plaja Dexá",
+                "en": "Dexá"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise ist erfrischend nach dem Radfahren; im Winter haben Sie diesen idyllischen Ort fast ganz für sich allein für eine kurze Pause.",
+                "hu": "A hűvös tengeri szellő frissítő a tekerés után; télen szinte teljesen egyedül élvezhetjük ezt az idilli helyet egy rövid pihenő erejéig a parton.",
+                "ro": "Briza răcoroasă a mării este revigorantă după efort; iarna veți avea acest loc idilic aproape în întregime pentru dumneavoastră pentru o scurtă pauză.",
+                "en": "The cool sea breeze is refreshing after cycling; in winter, you will have this idyllic spot almost entirely to yourself for a short break on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Enetika Kanonia",
+                "hu": "Enetika kanonia",
+                "ro": "Enetika kanonia",
+                "en": "Enetika kanonia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne die sommerlichen Menschenmassen; achten Sie auf die Zeit, um nicht im Dunkeln die Rückfahrt antreten zu müssen.",
+                "hu": "Élvezze a panorámát a nyári tömeg nélkül; figyeljünk az időre, hogy ne kelljen sötétben megkezdenünk a visszafelé vezető utat a kikötőbe.",
+                "ro": "Bucurați-vă de panoramă fără mulțimile de turiști din vară; fiți atenți la timp pentru a nu începe drumul de întoarcere pe întuneric total.",
+                "en": "Enjoy the panoramic view without the summer crowds; keep an eye on the time so you don't have to start your ride back in total darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Loutsa",
+                "hu": "Loutsa strand",
+                "ro": "Plaja Loutsa",
+                "en": "Loutsa"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Wasserfarbe hier tiefblau und klar; ein toller Ort für ein schnelles Foto, bevor die Sonne tiefer sinkt und es kühler wird.",
+                "hu": "Télen a víz színe itt mélykék és kristálytiszta; remek hely egy gyors fotóhoz, mielőtt a nap lejjebb süllyedne és hűvösebbé válna az idő.",
+                "ro": "Iarna, culoarea apei este de un albastru profund și clar; un loc grozav pentru o poză rapidă înainte ca soarele să apună și să se facă frig.",
+                "en": "In winter, the water color here is deep blue and crystal clear; a great spot for a quick photo before the sun drops lower and it gets colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Mnimata",
+                "hu": "Mnimata",
+                "ro": "Mnimata",
+                "en": "Mnimata"
+              },
+              "tip_5lang": {
+                "de": "Die einsame Küstenstraße bietet fantastische Ausblicke im Winterlicht; stellen Sie sicher, dass Ihre Scheinwerfer für die Rückfahrt einsatzbereit sind.",
+                "hu": "A kihalt parti út fantasztikus kilátást nyújt a téli fényekben; győződjünk meg róla, hogy az első lámpánk készen áll a hazaútra a szürkületben.",
+                "ro": "Drumul de coastă pustiu oferă vederi fantastice în lumina iernii; asigurați-vă că farurile sunt pregătite pentru drumul de întoarcere în amurg.",
+                "en": "The deserted coastal road offers fantastic views in the winter light; make sure your front lights are ready for the ride home in the gathering dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Skinos",
+                "hu": "Skinos strand",
+                "ro": "Plaja Skinos",
+                "en": "Skinos"
+              },
+              "tip_5lang": {
+                "de": "Der friedlichste Ort der Insel im Winter; verweilen Sie nicht zu lange, da die Temperatur sofort sinkt, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "A sziget legnyugodtabb helye a téli hónapokban; ne maradjunk túl sokáig, mert a hőmérséklet azonnal zuhanni kezd, amint a nap eltűnik a hegyek mögött.",
+                "ro": "Cel mai liniștit loc de pe insulă în timpul iernii; nu zăboviți prea mult, deoarece temperatura scade imediat ce soarele dispare după munți.",
+                "en": "The most peaceful place on the island during the winter; don't stay too long, as the temperature drops instantly once the sun vanishes behind the mountains."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a festői autózást Vathytól keletre egy frissítő reggeli fürdőzéssel a Sarakíniko-öbölben, amit a Filiatro strand vibráló hangulata és kiépített partja követ.\n\nDélben vezessen vissza a városközpontba, hogy a régészeti múzeumban elmerüljön a helyi örökségben, magába szívva Ithaka gazdag homéroszi és mükénéi történelmét.\n\nDélután kényelmesen haladjon végig a parti úton az olajfákkal árnyékolt Dexá strandig egy pihentető szünetre, majd hajtson fel a velencei ágyúkhoz a csodás öbölfotókért.\n\nZárja az autós túrát az eldugott Mnimata strandon alkonyatkor. A rövid út kristálytiszta vízzel és a tömegtől távoli, nyugodt természeti környezettel jutalmazza.",
         "ro": "Începeți traseul cu mașina la est de Vathy cu o baie matinală în golful Sarakíniko, urmată rapid de atmosfera vibrantă și țărmurile amenajate ale plajei Filiatro.\n\nÎn jurul prânzului, conduceți înapoi în centrul orașului pentru a vă cufunda în patrimoniul local la muzeul arheologic, absorbind bogata istorie homerică a insulei.\n\nDupă-amiaza, navigați confortabil pe drumul de coastă până la plaja Dexá pentru o pauză relaxantă, apoi urcați cu mașina la tunurile venețiene pentru fotografii magnifice.\n\nÎncheiați-vă călătoria la plaja retrasă Mnimata la lăsarea serii. Scurta plimbare vă recompensează cu ape cristaline și un mediu natural senin, departe de agitație.",
         "en": "Start your scenic drive east of Vathy with a refreshing morning swim at Sarakíniko cove, followed quickly by the vibrant atmosphere and organized shores of Filiatro beach.\n\nAround midday, drive back into the town center to immerse yourself in local heritage at the archaeological museum, absorbing the rich Homeric and Mycenaean history of Ithaca.\n\nIn the afternoon, comfortably navigate the coastal road to the olive-shaded Dexá beach for a relaxing pause, then drive up to the Venetian cannons for magnificent bay photos.\n\nWrap up your road trip at the secluded Mnimata beach as dusk settles. The short drive rewards you with crystal-clear waters and a serene natural environment away from the crowds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen der komfortabelste Weg, Ithaka zu erkunden. Vormittags führt die Fahrt sicher zu den entlegenen Stränden. Mittags bietet das Museum einen trockenen Kulturstopp im Zentrum. Nachmittags ermöglichen die Kanonen eine kurze Besichtigung zwischen den Schauern. Der Tag endet entspannt mit dem Wagen direkt vor einer der gemütlichen Tavernen in Vathy.",
+            "hu": "Az autó a legkényelmesebb módja Ithaka felfedezésének esős időben. Délelőtt biztonságban érhetjük el a távoli strandokat, szárazon maradva az út alatt. Délben a múzeumban tölthetjük a legcsapadékosabb órákat. Délután a Kanoniánál két zápor között tehetünk egy gyors sétát. A napot Vathy központjában zárhatjuk, közvetlenül a kiválasztott taverna közelében parkolva.",
+            "ro": "Mașina este cea mai confortabilă modalitate de a explora Itaca pe timp de ploaie. Dimineața conduceți în siguranță spre plajele îndepărtate, rămânând uscați. Prânzul este rezervat muzeului pentru un popas cultural la adăpost. După-amiaza permite o vizită rapidă la tunuri între două averse. Ziua se încheie relaxat parcând chiar lângă o tavernă primitoare din centrul orașului Vathy.",
+            "en": "The car is the most comfortable way to explore Ithaca during rainy weather. Spend your morning driving safely to remote beaches while staying dry inside. Midday is perfect for a cultural museum stop in the town center. Afternoon allows for a quick visit to the cannons between showers. End your day conveniently by parking right next to one of Vathy's cozy waterfront taverns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sarakíniko",
+                "hu": "Sarakíniko",
+                "ro": "Sarakíniko",
+                "en": "Sarakíniko"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen abgelegenen Strand bequem mit dem Auto; genießen Sie den Blick auf die Bucht durch die Windschutzscheibe bei einer Tasse Kaffee.",
+                "hu": "Érjük el ezt az elszigetelt strandot kényelmesen autóval; élvezzük az öbölre nyíló kilátást a szélvédő mögül egy pohár kávé mellett, amíg eláll az eső.",
+                "ro": "Ajungeți la această plajă izolată confortabil cu mașina; bucurați-vă de vederea spre golf prin parbriz în timp ce savurați o cafea la căldură.",
+                "en": "Reach this isolated beach comfortably by car; enjoy the view over the bay through your windshield with a cup of coffee until the rain lets up."
+              }
+            },
+            {
+              "name": {
+                "de": "Filiatro",
+                "hu": "Filiatro strand",
+                "ro": "Plaja Filiatro",
+                "en": "Filiatro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser für ein schnelles Foto; die Straße hierher kann eng und bei Nässe rutschig sein, fahren Sie daher besonders vorsichtig.",
+                "hu": "Parkoljunk közel a parthoz egy gyors fotó erejéig; az idevezető út keskeny és vizesen csúszós lehet, ezért vezessünk fokozott óvatossággal a kanyarokban.",
+                "ro": "Parcați aproape de apă pentru o fotografie rapidă; drumul până aici este îngust și poate fi alunecos pe ploaie, deci conduceți cu mare prudență.",
+                "en": "Park close to the water for a quick photo; the road here is narrow and can be slippery when wet, so drive with extra caution through the bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Ithaka",
+                "hu": "Ithakai Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Itaca",
+                "en": "Ithaca archaeological museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp im Stadtzentrum, wenn der Regen am stärksten ist; nutzen Sie die Parkmöglichkeiten in der Nähe, um trocken ins Gebäude zu gelangen.",
+                "hu": "Tökéletes megálló a városközpontban, amikor a leghevesebb az eső; használjuk a közeli parkolót, hogy minél kevesebbet kelljen a szabadban áznunk.",
+                "ro": "Oprirea perfectă în centrul orașului când ploaia este cea mai densă; folosiți parcarea din apropiere pentru a ajunge uscat în interiorul clădirii.",
+                "en": "The perfect stop in the town center when the rain is heaviest; use the nearby parking spaces to reach the building while staying as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Dexá",
+                "hu": "Dexá strand",
+                "ro": "Plaja Dexá",
+                "en": "Dexá"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt am Straßenrand bietet tolle Blicke auf die graue See; achten Sie beim Aussteigen auf vorbeifahrende Fahrzeuge bei schlechter Sicht.",
+                "hu": "Egy rövid megálló az út mentén remek kilátást nyújt a szürke tengerre; kiszálláskor ügyeljünk a szemközti forgalomra a korlátozott látási viszonyok miatt.",
+                "ro": "O scurtă oprire pe marginea drumului oferă vederi superbe spre marea gri; aveți grijă la trafic când coborâți din mașină din cauza vizibilității reduse.",
+                "en": "A brief stop along the roadside offers great views of the gray sea; be careful of passing traffic when getting out of the car due to limited visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Enetika Kanonia",
+                "hu": "Enetika kanonia",
+                "ro": "Enetika kanonia",
+                "en": "Enetika kanonia"
+              },
+              "tip_5lang": {
+                "de": "Die Kanonen sind vom Parkplatz aus schnell erreichbar; ein kurzer Sprint ermöglicht die Besichtigung, ohne im Regen komplett durchnässt zu werden.",
+                "hu": "Az ágyúk a parkolótól sétatávolságra vannak; egy gyors sprinttel megtekinthetjük őket anélkül, hogy teljesen bőrig áznánk a szakadó esőben.",
+                "ro": "Tunurile sunt la mică distanță de parcare; un sprint rapid vă permite să le vizitați fără a vă uda complet în timpul averselor de ploaie.",
+                "en": "The cannons are just a short walk from the parking area; a quick dash allows you to see them without getting completely soaked in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mnimata",
+                "hu": "Mnimata",
+                "ro": "Mnimata",
+                "en": "Mnimata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Küstenlandschaft sicher aus dem Auto heraus; schalten Sie bei starkem Regen unbedingt das Abblendlicht für bessere Sichtbarkeit ein.",
+                "hu": "Élvezze a vad tengerparti tájat biztonságban az autóból; heves esőben mindenképpen kapcsoljuk be a tompított fényszórót a jobb láthatóság érdekében.",
+                "ro": "Bucurați-vă de peisajul marin sălbatic în siguranță din mașină; pe ploaie torențială, aprindeți farurile pentru o mai bună vizibilitate în trafic.",
+                "en": "Enjoy the wild coastal landscape safely from your car; in heavy rain, be sure to turn on your dipped headlights for better visibility on the road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter auf Ithaka mit dem Auto bedeutet Unabhängigkeit und angenehme Wärme während der Fahrt. Vormittags erkunden wir die abgelegenen Buchten unter klarem Winterhimmel. Mittags machen wir einen Kulturstopp im Museum. Nachmittags geht es zu den Kanonen, um das intensive Licht der tiefstehenden Sonne einzufangen. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour bequem im beleuchteten Vathy.",
+            "hu": "A téli Ithaka felfedezése autóval szabadságot és kellemes meleget jelent az út során. Délelőtt a távoli öblöket keressük fel a tiszta téli égbolt alatt. Délben egy kulturális megállót iktatunk be a múzeumban. Délután a Kanoniánál várjuk meg az alacsonyan járó nap fényeit a fotózáshoz. Mivel 17:00-kor sötétedik, a túrát kényelmesen a kivilágított Vathy kikötőjében zárjuk.",
+            "ro": "Iarna în Itaca cu mașina înseamnă independență și căldură confortabilă în timpul drumului. Dimineața explorăm golful izolat sub cerul senin de iarnă. La prânz facem un popas cultural la muzeu. După-amiaza mergem la tunuri pentru a surprinde lumina intensă a soarelui de iarnă. Deoarece se întunecă la ora 17:00, încheiem turul confortabil în portul luminat din Vathy.",
+            "en": "Winter on Ithaca by car means independence and cozy warmth between stops. Start your morning exploring remote bays under the clear winter sky. Midday is for a cultural visit to the museum in town. Afternoon brings a drive to the cannons to catch the intense light of the low winter sun. Since it gets dark by 17:00, finish your tour conveniently in the beautifully lit Vathy harbour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sarakíniko",
+                "hu": "Sarakíniko",
+                "ro": "Sarakíniko",
+                "en": "Sarakíniko"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit dieses Ortes im Winter; die Heizung im Auto macht den Aufenthalt an der windigen Küste wesentlich angenehmer.",
+                "hu": "Élvezze a hely magányát a téli hónapokban; az autó fűtése sokkal kellemesebbé teszi a látogatást a szeles és hűvös tengerparton.",
+                "ro": "Bucurați-vă de singurătatea acestui loc iarna; căldura din mașină face oprirea pe coasta bătută de vânt mult mai plăcută și confortabilă.",
+                "en": "Enjoy the solitude of this spot in winter; having the car heater on makes the visit to the windy coast much more pleasant and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Filiatro",
+                "hu": "Filiatro strand",
+                "ro": "Plaja Filiatro",
+                "en": "Filiatro"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Fotostopp im klaren Winterlicht; die Straßen sind leer, aber achten Sie auf mögliches Geröll, das nach Winterstürmen auf dem Weg liegen kann.",
+                "hu": "Ideális fotómegálló a tiszta téli fényekben; az utak üresek, de ügyeljünk az esetleges úthibákra vagy kövekre a téli viharok után az aszfalton.",
+                "ro": "O oprire foto ideală în lumina clară a iernii; drumurile sunt goale, dar fiți atenți la eventualele pietre căzute pe carosabil după furtuni.",
+                "en": "An ideal photo stop in the clear winter light; the roads are empty, but watch out for potential debris on the pavement after winter storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Ithaka",
+                "hu": "Ithakai Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Itaca",
+                "en": "Ithaca archaeological museum"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer und informativer Stopp am Mittag; prüfen Sie die Winteröffnungszeiten, um den Besuch optimal in Ihren Fahrplan zu integrieren.",
+                "hu": "Meleg és tartalmas megálló délidőben; ellenőrizzük a téli nyitvatartást, hogy a látogatást zökkenőmentesen beilleszthessük a napi autós útvonalba.",
+                "ro": "O oprire caldă și informativă la prânz; verificați programul de iarnă pentru a integra vizita optim în programul dumneavoastră de condus.",
+                "en": "A warm and informative midday stop; check the winter opening hours to integrate the visit perfectly into your daily driving schedule."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Dexá",
+                "hu": "Dexá strand",
+                "ro": "Plaja Dexá",
+                "en": "Dexá"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang am leeren Strand; im Winter ist das Wasser hier oft ruhiger und bietet eine fast spiegelglatte Oberfläche für Fotos.",
+                "hu": "Tegyünk egy rövid sétát az üres strandon; télen a víz itt gyakran nyugodtabb, és szinte tükörsima felületet kínál a kikötőt ábrázoló fotókhoz.",
+                "ro": "Faceți o scurtă plimbare pe plaja pustie; iarna apa este adesea mai calmă aici, oferind o suprafață ca de oglindă pentru fotografii superbe.",
+                "en": "Take a short walk on the empty beach; in winter the water is often calmer here, offering an almost mirror-like surface for your harbour photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Enetika Kanonia",
+                "hu": "Enetika kanonia",
+                "ro": "Enetika kanonia",
+                "en": "Enetika kanonia"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um den frühen Sonnenuntergang gegen 17:00 Uhr zu sehen; parken Sie direkt am Aussichtspunkt, um danach schnell wieder im Warmen zu sein.",
+                "hu": "Tökéletes helyszín a korai, 17:00 órai naplemente megtekintéséhez; parkoljunk a kilátópontnál, hogy a látvány után gyorsan visszaérjünk a meleg autóba.",
+                "ro": "Perfect pentru a vedea apusul timpuriu în jur de ora 17:00; parcați chiar la punctul de belvedere pentru a reveni rapid la căldura mașinii.",
+                "en": "Perfect for watching the early sunset around 17:00; park right at the viewpoint to quickly return to the warmth of your car after the show."
+              }
+            },
+            {
+              "name": {
+                "de": "Mnimata",
+                "hu": "Mnimata",
+                "ro": "Mnimata",
+                "en": "Mnimata"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Küste ist im Winterlicht besonders eindrucksvoll; schalten Sie das Licht ein, da die Sicht in der frühen Dämmerung schnell nachlässt.",
+                "hu": "A part menti autózás a téli fényekben különösen hatásos; kapcsoljuk be a világítást, mert a látótávolság a korai szürkületben gyorsan csökkenhet.",
+                "ro": "Drumul de coastă este deosebit de spectaculos în lumina iernii; aprindeți luminile, deoarece vizibilitatea scade rapid odată cu amurgul timpuriu.",
+                "en": "Driving along the coast is especially impressive in the winter light; turn on your lights as visibility drops quickly during the early dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

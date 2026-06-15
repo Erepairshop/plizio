@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a falu szívében található történelmi templomnál, elmerülve a helyi atmoszférában. Ahogy melegszik az idő, sétáljon el a Praia da Arnela finom homokjához. Délután fedezze fel a szomszédos Osmo és Ermida strandokat, amelyek mindegyike egyedi parti bájjal rendelkezik. Zárja a napot a Castro da Illa da Estrela ősi kelta romjainak felfedezésével, ahonnan lenyűgöző kilátás nyílik a lemenő napra és a végtelen óceánra.",
         "ro": "Începeți dimineața la biserica istorică din inima satului, absorbind atmosfera locală liniștită. Pe măsură ce ziua se încălzește, faceți o scurtă plimbare până la Praia da Arnela pentru a vă bucura de nisip. După-amiaza, explorați plajele învecinate Osmo și Ermida, fiecare oferind un farmec de coastă unic. Încheiați ziua mergând spre vechile ruine celtice de la Castro da Illa da Estrela, minunându-vă de priveliștile spectaculoase ale soarelui la apus.",
         "en": "Begin your morning at the historic church in the heart of the village, soaking in the quiet local atmosphere. As the day warms up, take a short stroll to Praia da Arnela to enjoy the fine sand and gentle waves. In the afternoon, explore the neighboring beaches of Osmo and Ermida, each offering a unique coastal charm and tranquil setting. Conclude your day walking up to the ancient Celtic ruins of Castro da Illa da Estrela, marveling at the sweeping views of the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der kühlen Stille der Kirche, während der Regen gegen die alten Mauern peitscht. Mittags wirken die Strände unter dem grauen Himmel mystisch, doch die Pfade sind rutschig und erfordern festes Schuhwerk. Am Nachmittag hüllt Nebel die Ruinen des Castros ein und schafft eine geheimnisvolle Atmosphäre. Abends funkeln die Lichter des Hafens auf dem nassen Asphalt.",
+            "hu": "A reggel a templom hűvös csendjében indul, miközben az eső a vastag falakon kívül kopog. Délben a strandok a szürke ég alatt misztikus arcukat mutatják, de az utak csúszósak, így óvatos lépteket igényelnek. Délután köd borítja be a Castro romjait, különleges, titokzatos hangulatot árasztva. Este a kikötő fényei megcsillannak a vizes aszfalton, ahogy a város elcsendesedik.",
+            "ro": "Dimineața începe protejată în liniștea bisericii, în timp ce ploaia bate în zidurile vechi. La prânz, plajele par mistice sub cerul gri, dar potecile sunt alunecoase și necesită încălțăminte adecvată. După-amiaza, ceața învăluie ruinele Castro, creând o atmosferă misterioasă peste golf. Seara, luminile portului sclipesc pe asfaltul ud, oferind un final de zi melancolic dar frumos.",
+            "en": "The morning starts sheltered in the cool silence of the church while the rain patters against the ancient walls. At noon, the beaches look mystical under the gray sky, but the paths are slippery and require steady footing. In the afternoon, mist envelopes the Castro ruins, creating a mysterious atmosphere over the bay. In the evening, the harbor lights shimmer on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schlichte Interieur als Schutz vor dem Regen; nutzen Sie den überdachten Eingangsbereich, um Ihre Regenkleidung für den weiteren Weg zu ordnen.",
+                "hu": "Élvezze a belső tér csendjét az eső elől menekülve; használja a fedett bejáratot az esőkabát megigazítására, mielőtt továbbindulna a part menti szakaszra.",
+                "ro": "Bucurați-vă de liniștea interiorului în timp ce vă adăpostiți de ploaie; folosiți intrarea acoperită pentru a vă ajusta pelerina înainte de a continua drumul.",
+                "en": "Enjoy the quiet interior while sheltering from the rain; use the covered entrance porch to adjust your waterproof gear before heading to the coastal section."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Arnela",
+                "hu": "Praia da Arnela",
+                "ro": "Praia da Arnela",
+                "en": "Praia da Arnela"
+              },
+              "tip_5lang": {
+                "de": "Der dunkle Sand sieht im Regen dramatisch aus; bleiben Sie auf den befestigten Holzwegen, da der nasse Sand sehr tief und schwergängig sein kann.",
+                "hu": "A sötét homok drámai látványt nyújt az esőben; maradjon a kiépített fapallókon, mert a vizes homok mély és nehezen járható ilyenkor.",
+                "ro": "Nisipul închis la culoare arată dramatic în ploaie; rămâneți pe pasarelele de lemn, deoarece nisipul ud poate fi foarte greu de parcurs pe jos.",
+                "en": "The dark sand looks dramatic in the rain; stick to the wooden boardwalks, as the wet sand can be quite deep and difficult to walk on right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Osmo",
+                "hu": "Praia do Osmo",
+                "ro": "Praia do Osmo",
+                "en": "Praia do Osmo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei Schauern unter den Felsvorsprüngen Schutz; achten Sie auf den Gezeitenstand, da der Strand bei Regen oft schmaler wirkt als gewohnt.",
+                "hu": "Zivatar esetén keressen menedéket a sziklakiszögellések alatt; figyeljen az árapályra, mert esőben a part gyakran szűkebbnek tűnik a szokásosnál.",
+                "ro": "Căutați adăpost sub formațiunile stâncoase în caz de aversă; atenție la flux, deoarece plaja pare adesea mai îngustă pe timp de ploaie.",
+                "en": "Seek shelter under the rock overhangs during heavy showers; mind the tide, as the beach often feels narrower and more enclosed in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Ermida",
+                "hu": "Praia da Ermida",
+                "ro": "Praia da Ermida",
+                "en": "Praia da Ermida"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle in der Nähe bietet einen stimmungsvollen Anblick im Nebel; tragen Sie wasserfeste Schuhe, da der Zugangspfad kleine Pfützen bilden kann.",
+                "hu": "A közeli kis kápolna hangulatos látványt nyújt a ködben; viseljen vízálló cipőt, mert az odavezető ösvényen ilyenkor kisebb pocsolyák alakulnak ki.",
+                "ro": "Mica capelă din apropiere oferă o priveliște atmosferică în ceață; purtați pantofi impermeabili, deoarece poteca de acces poate forma mici bălți.",
+                "en": "The small chapel nearby offers an atmospheric sight in the mist; wear waterproof shoes as the access path tends to form small puddles in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Illa da Estrela",
+                "hu": "Castro da Illa da Estrela",
+                "ro": "Castro da Illa da Estrela",
+                "en": "Castro da Illa da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine sind bei Nässe extrem rutschig; halten Sie sich an die grasbewachsenen Ränder und genießen Sie den Blick auf die raue See.",
+                "hu": "A történelmi kövek nedvesen rendkívül csúszósak; maradjon a füves szegélyeken, és élvezze a kilátást a felkorbácsolt, haragos tengerre.",
+                "ro": "Pietrele istorice sunt extrem de alunecoase când sunt ude; rămâneți pe marginile înierbate și admirați marea agitată de la înălțime.",
+                "en": "The historical stones are extremely slippery when wet; stick to the grassy edges and enjoy the view of the churning, rough sea below."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Hafen verlangt nach dicken Schichten, bevor man die Stille der Kirche aufsucht. Mittags steht die Sonne tief und taucht die einsamen Strände in ein silbernes Licht. Da es bereits gegen 17:00 Uhr dunkel wird, sollte der Castro am frühen Nachmittag besucht werden. Der Tag endet gemütlich in einer der warm beleuchteten Kneipen im Ortskern bei einem Heißgetränk.",
+            "hu": "A kikötő fagyos reggele réteges öltözködést kíván, mielőtt betérnénk a templom csendjébe. Délben az alacsony napállás ezüstös fénybe vonja a kihalt strandokat. Mivel délután ötkor már sötétedik, a Castrót érdemes kora délután felkeresni. A nap egy forró ital mellett, a falu egyik melegen világító kis vendéglőjében ér véget.",
+            "ro": "Dimineața geroasă în port necesită haine groase înainte de a vizita liniștea bisericii. La prânz, soarele jos scaldă plajele pustii într-o lumină argintie superbă. Deoarece se întunecă deja în jur de ora 17:00, vizitați Castro devreme. Ziua se încheie confortabil într-o tavernă încălzită din centrul satului, cu o băutură caldă.",
+            "en": "The frosty morning at the harbor calls for warm layers before seeking the silence of the church. At noon, the low sun bathes the deserted beaches in a beautiful silvery light. Since it gets dark by 5:00 PM, visit the Castro in the early afternoon. The day ends cozily in one of the warmly lit taverns in the village center with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Küstenwind ab; nutzen Sie die ruhige Atmosphäre für eine kurze Rast, bevor Sie sich wieder der Kälte aussetzen.",
+                "hu": "A vastag falak jól felfogják a jeges tengeri szelet; használja ki a nyugodt belső teret egy rövid pihenőre, mielőtt újra kimenne a hidegbe.",
+                "ro": "Zidurile groase opresc vântul înghețat de coastă; profitați de atmosfera liniștită pentru o scurtă odihnă înainte de a înfrunta din nou frigul.",
+                "en": "The thick stone walls block the icy coastal wind; take advantage of the quiet atmosphere for a short rest before heading back out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Arnela",
+                "hu": "Praia da Arnela",
+                "ro": "Praia da Arnela",
+                "en": "Praia da Arnela"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Winters; tragen Sie eine winddichte Jacke, da die Brise hier am offenen Ufer besonders schneidend sein kann.",
+                "hu": "Élvezze a téli strand magányát; viseljen szélálló kabátot, mert a nyílt parton a tengeri szél ilyenkor különösen metsző tud lenni.",
+                "ro": "Bucurați-vă de singurătatea plajei pe timp de iarnă; purtați o jachetă rezistentă la vânt, deoarece briza poate fi tăioasă pe malul deschis.",
+                "en": "Enjoy the solitude of the beach in winter; wear a windproof jacket as the breeze can be particularly biting here on the open shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Osmo",
+                "hu": "Praia do Osmo",
+                "ro": "Praia do Osmo",
+                "en": "Praia do Osmo"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern kaum Wärme, also bleiben Sie in Bewegung; die klare Winterluft bietet jedoch eine fantastische Sicht bis zum Horizont.",
+                "hu": "A sziklák ilyenkor nem tartják a meleget, ezért maradjon mozgásban; a tiszta téli levegő viszont fantasztikus látótávolságot biztosít a horizontig.",
+                "ro": "Stâncile nu rețin căldura, așa că rămâneți în mișcare; aerul curat de iarnă oferă totuși o vizibilitate fantastică până la orizont.",
+                "en": "The rocks don't hold much heat now, so keep moving; however, the clear winter air provides fantastic visibility all the way to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Ermida",
+                "hu": "Praia da Ermida",
+                "ro": "Praia da Ermida",
+                "en": "Praia da Ermida"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Insel Estrela ist im weichen Winterlicht besonders fotogen; ziehen Sie Handschuhe an, um die Kamera länger halten zu können.",
+                "hu": "Az Estrela-szigetre nyíló kilátás a lágy téli fényekben különösen fotogén; húzzon kesztyűt, hogy kényelmesen fotózhasson a hideg szélben is.",
+                "ro": "Vederea spre Insula Estrela este deosebit de fotogenică în lumina blândă de iarnă; purtați mănuși pentru a putea manevra camera mai mult timp.",
+                "en": "The view towards Estrela Island is especially photogenic in the soft winter light; wear gloves so you can handle your camera comfortably in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Illa da Estrela",
+                "hu": "Castro da Illa da Estrela",
+                "ro": "Castro da Illa da Estrela",
+                "en": "Castro da Illa da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die frühen Farben des Sonnenuntergangs über den Ruinen; verlassen Sie den Hügel vor 17:00 Uhr, um den Abstieg im Tageslicht zu schaffen.",
+                "hu": "Csodálja meg a korai naplemente színeit a romok felett; délután ötkor induljon vissza a faluba, hogy még természetes fénynél fejezze be az ereszkedést.",
+                "ro": "Observați culorile timpurii ale apusului peste ruine; părăsiți dealul înainte de ora 17:00 pentru a face coborârea în siguranță pe lumină.",
+                "en": "Watch the early colors of the sunset over the ruins; leave the hill by 5:00 PM to ensure you complete the descent while there is still daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros túráját a békés Santo Adrán templomnál, élvezve a reggeli nyugalmat. Tekerjen végig a part mentén, hogy felfedezze Ermida és Osmo csendes strandjait. A központi templom melletti déli pihenő után folytassa útját a kagylós Praia das Cunchas felé. Aktív napja egy frissítő tekeréssel zárul a Faro do Roncudo felé, ahol a drámai sziklák és a hatalmas hullámok felejthetetlen atlanti élményt nyújtanak.",
         "ro": "Începeți călătoria cu bicicleta la biserica pașnică Santo Adrán, apreciind liniștea dimineții. Pedați de-a lungul coastei pentru a descoperi nisipurile liniștite de la Ermida și Osmo. După o pauză la amiază lângă biserica centrală, continuați-vă traseul spre Praia das Cunchas. Ziua activă se încheie cu o plimbare răcoroasă până la Faro do Roncudo, unde stâncile dramatice și valurile puternice creează un final atlantic de neuitat.",
         "en": "Kick off your cycling journey at the peaceful Santo Adrán church, appreciating the serene morning vibes. Pedal your way along the coastline to discover the tranquil sands of Ermida and Osmo. After a midday break near the central church of Nosa Señora, continue your ride towards the shell-scattered Praia das Cunchas. Your active day ends with a rewarding and breezy ride out to Faro do Roncudo, where the dramatic cliffs and crashing waves create an unforgettable Atlantic finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt vorsichtig auf den nassen Straßen zur Corme Aldea. Mittags bieten die Küstenabschnitte spektakuläre Wellengänge, doch das Bremsen auf dem feuchten Asphalt erfordert erhöhte Aufmerksamkeit. Am Nachmittag dient die Kirche im Hafen als trockener Zwischenstopp. Die Fahrt zum Roncudo-Leuchtturm ist windanfällig, belohnt aber mit dramatischer Gischt und rauer Atlantik-Atmosphäre.",
+            "hu": "A bringás nap óvatosan indul a vizes utakon Corme Aldea felé. Délben a parti szakaszok látványos hullámzást kínálnak, de a nedves aszfalton a fékezés fokozott figyelmet igényel. Délután a kikötői templom szolgál száraz pihenőhelyként. A Roncudo-világítótoronyhoz vezető út szeles, de a felcsapó sós permet és a vad atlanti hangulat kárpótolja a fáradozást.",
+            "ro": "Ziua pe bicicletă începe cu prudență pe drumurile ude spre Corme Aldea. La prânz, secțiunile de coastă oferă valuri spectaculoase, dar frânarea pe asfaltul umed necesită atenție sporită. După-amiaza, biserica din port servește ca punct de oprire uscat. Drumul spre farul Roncudo este expus vântului, dar răsplătește cu o atmosferă dramatică de Atlantic.",
+            "en": "The cycling day starts cautiously on the wet roads towards Corme Aldea. At noon, the coastal sections offer spectacular wave action, but braking on damp asphalt requires extra care. In the afternoon, the harbor church serves as a dry stopover. The ride to Roncudo Lighthouse is windy, but the dramatic sea spray and raw Atlantic vibes are worth it."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santo Adrán de Corme Aldea",
+                "hu": "Igrexa de Santo Adrán de Corme Aldea",
+                "ro": "Igrexa de Santo Adrán de Corme Aldea",
+                "en": "Igrexa de Santo Adrán de Corme Aldea"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt an der Kirche; das historische Gebäude bietet einen guten Windschutz für eine erste kurze Trinkpause im Regen.",
+                "hu": "Ellenőrizze a fékeket a templomtól való indulás előtt; a történelmi épület jó szélvédelmet nyújt egy rövid frissítőhöz a szakadó esőben.",
+                "ro": "Verificați frânele înainte de plecarea de la biserică; clădirea istorică oferă o bună protecție împotriva vântului pentru o scurtă pauză de hidratare.",
+                "en": "Check your brakes before departing from the church; the historic building provides good wind protection for a quick hydration break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Ermida",
+                "hu": "Praia da Ermida",
+                "ro": "Praia da Ermida",
+                "en": "Praia da Ermida"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund, um ein Einsinken im Matsch zu vermeiden; genießen Sie den Blick auf die Insel im grauen Küstennebel.",
+                "hu": "Parkolja a kerékpárt szilárd talajra, hogy elkerülje a sárba süllyedést; élvezze a szigetre nyíló kilátást a szürke tengeri ködön keresztül.",
+                "ro": "Parcați bicicleta pe teren solid pentru a evita scufundarea în noroi; bucurați-vă de vederea spre insulă prin ceața gri de coastă.",
+                "en": "Park your bike on firm ground to avoid sinking into the mud; enjoy the view of the island through the gray coastal mist from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Osmo",
+                "hu": "Praia do Osmo",
+                "ro": "Praia do Osmo",
+                "en": "Praia do Osmo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei den Kurven zum Strand hinunter, da sich hier Laub und Schmutz sammeln können; die Brandung ist bei Regen oft besonders kraftvoll.",
+                "hu": "Vigyázzon a strandra vezető kanyarokban, mert ilyenkor összegyűlhet a sár és a hordalék; a hullámzás esőben gyakran rendkívül erőteljes.",
+                "ro": "Atenție la curbele spre plajă, deoarece se pot acumula resturi și noroi; valurile sunt adesea deosebit de puternice pe timp de ploaie.",
+                "en": "Be careful on the turns down to the beach, as mud and debris can accumulate; the surf is often particularly powerful during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke festzuzurren; das Innere bietet eine trockene Pause, um die Karte für die letzte Etappe zum Leuchtturm zu prüfen.",
+                "hu": "Ideális hely az esőkabát megigazítására; a belső tér száraz pihenőt kínál, ahol ellenőrizheti az útvonalat a világítótoronyhoz vezető utolsó szakasz előtt.",
+                "ro": "Un loc ideal pentru a vă aranja pelerina de ploaie; interiorul oferă o pauză uscată pentru a verifica traseul spre ultima etapă, la far.",
+                "en": "An ideal spot to tighten your rain gear; the interior offers a dry break to check your map for the final stretch towards the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Cunchas",
+                "hu": "Praia das Cunchas",
+                "ro": "Praia das Cunchas",
+                "en": "Praia das Cunchas"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann durch Wasserpfützen erschwert sein; schauen Sie kurz auf die aufgewühlte See, bevor Sie den Anstieg zum Roncudo beginnen.",
+                "hu": "A strandra vezető utat pocsolyák nehezíthetik; vessen egy pillantást a felkorbácsolt tengerre, mielőtt megkezdi az emelkedőt a Roncudo felé.",
+                "ro": "Drumul spre plajă poate fi îngreunat de bălți; priviți marea agitată înainte de a începe urcarea spre farul Roncudo.",
+                "en": "The path to the beach might be hampered by puddles; take a quick look at the agitated sea before starting the climb towards Roncudo."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro do Roncudo",
+                "hu": "Faro do Roncudo",
+                "ro": "Faro do Roncudo",
+                "en": "Faro do Roncudo"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Leuchtturm sind bei Regen lebensgefährlich glatt; bleiben Sie auf der Straße und halten Sie den Lenker bei den starken Böen fest.",
+                "hu": "A világítótorony körüli sziklák esőben életveszélyesen csúszósak; maradjon az úton, és fogja erősen a kormányt az erős széllökések miatt.",
+                "ro": "Stâncile de la far sunt extrem de alunecoase pe ploaie; rămâneți pe drum și țineți bine ghidonul din cauza rafalelor puternice de vânt.",
+                "en": "The rocks at the lighthouse are dangerously slippery in the rain; stay on the road and grip your handlebars firmly against the strong gusts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen empfängt die Radfahrer auf dem Weg nach Corme Aldea. Die Mittagssonne bietet kaum Wärme, aber eine exzellente Sicht entlang der Küstenstraße. Da die Dämmerung früh einsetzt, ist eine funktionierende Beleuchtung am Rad für die Rückfahrt essenziell. Der finale Stopp am windgepeitschten Roncudo-Leuchtturm zeigt die rohe Gewalt des winterlichen Atlantiks, bevor man sich im Ort aufwärmt.",
+            "hu": "Tiszta, hideg téli reggel fogadja a bringásokat a Corme Aldea felé vezető úton. A déli napsütés alig ad meleget, de kiváló látótávolságot biztosít a parti úton. Mivel korán sötétedik, a kerékpár világítása elengedhetetlen a biztonságos visszatéréshez. A szeles Roncudo-világítótoronynál megtapasztalhatjuk a téli Atlanti-óceán nyers erejét, mielőtt a faluban felmelegednénk.",
+            "ro": "O dimineață de iarnă senină și rece îi întâmpină pe bicicliști în drum spre Corme Aldea. Soarele de la prânz oferă puțină căldură, dar o vizibilitate excelentă pe drumul de coastă. Deoarece amurgul vine devreme, iluminarea bicicletei este esențială. Finalul la farul Roncudo arată forța brută a Atlanticului iarna, înainte de a vă încălzi în sat.",
+            "en": "A clear, cold winter morning greets cyclists on the way to Corme Aldea. The midday sun provides little warmth but excellent visibility along the coastal road. Since dusk arrives early, working bike lights are essential for the return. The final stop at the windswept Roncudo Lighthouse reveals the raw power of the winter Atlantic before warming up in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santo Adrán de Corme Aldea",
+                "hu": "Igrexa de Santo Adrán de Corme Aldea",
+                "ro": "Igrexa de Santo Adrán de Corme Aldea",
+                "en": "Igrexa de Santo Adrán de Corme Aldea"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte in schattigen Abschnitten rund um die Kirche; tragen Sie Thermohandschuhe, da die Finger bei der Abfahrt schnell auskühlen.",
+                "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra a templom körüli árnyékos részeken; viseljen hőszigetelt kesztyűt, mert az ujjak gyorsan áthűlnek a lejtőkön.",
+                "ro": "Atenție la porțiunile cu chiciură în zonele umbrite din jurul bisericii; purtați mănuși termice, deoarece degetele îngheață repede la coborâre.",
+                "en": "Watch out for frosty patches in shaded sections around the church; wear thermal gloves as your fingers will cool down quickly on the descents."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Ermida",
+                "hu": "Praia da Ermida",
+                "ro": "Praia da Ermida",
+                "en": "Praia da Ermida"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Wind weht hier oft kräftig vom Meer; nutzen Sie die niedrige Mauer am Parkplatz als Windschutz für eine kurze Pause.",
+                "hu": "A téli szél gyakran erősen fúj a tenger felől; használja a parkoló melletti alacsony falat szélárnyékként egy rövid pihenőhöz.",
+                "ro": "Vântul de iarnă suflă adesea puternic dinspre mare; folosiți zidul mic de lângă parcare ca adăpost împotriva vântului pentru o scurtă pauză.",
+                "en": "The winter wind often blows strongly from the sea here; use the low wall near the parking area as a windbreak for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Osmo",
+                "hu": "Praia do Osmo",
+                "ro": "Praia do Osmo",
+                "en": "Praia do Osmo"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierte Zufahrt kann im Winter feucht und rutschig sein; genießen Sie das kristallklare Wasser, das im Winterlicht besonders blau leuchtet.",
+                "hu": "Az aszfaltozott lejáró télen nyirkos és csúszós lehet; csodálja meg a kristálytiszta vizet, amely a téli fényben különösen kéknek tűnik.",
+                "ro": "Accesul asfaltat poate fi umed și alunecos iarna; admirați apa cristalină care strălucește intens albastru în lumina rece a iernii.",
+                "en": "The paved access road can be damp and slippery in winter; enjoy the crystal-clear water, which glows a brilliant blue in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Beleuchtung für die nahende Dämmerung zu testen; die Kirchenmauern bieten Schutz vor den böigen Küstenwinden im Hafen.",
+                "hu": "Jó hely a világítás tesztelésére a közeledő szürkület előtt; a templomfalak védelmet nyújtanak a kikötőben fújó széllökések ellen.",
+                "ro": "Un loc bun pentru a testa luminile înainte de amurg; zidurile bisericii oferă protecție împotriva vântului rafale din port.",
+                "en": "A good place to test your lights before dusk approaches; the church walls provide protection from the gusty coastal winds in the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Cunchas",
+                "hu": "Praia das Cunchas",
+                "ro": "Praia das Cunchas",
+                "en": "Praia das Cunchas"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer; nutzen Sie die Ruhe für ein schnelles Foto, bevor Sie für den Anstieg zum Roncudo wieder in die Pedale treten.",
+                "hu": "A strand télen gyakran teljesen néptelen; használja ki a csendet egy gyors fotóra, mielőtt nekivágna a Roncudo felé vezető emelkedőnek.",
+                "ro": "Plaja este adesea pustie iarna; profitați de liniște pentru o fotografie rapidă înainte de a pedala spre urcarea către Roncudo.",
+                "en": "The beach is often deserted in winter; take advantage of the quiet for a quick photo before pedaling up the incline towards Roncudo."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro do Roncudo",
+                "hu": "Faro do Roncudo",
+                "ro": "Faro do Roncudo",
+                "en": "Faro do Roncudo"
+              },
+              "tip_5lang": {
+                "de": "Der Windchill-Effekt ist hier im Winter extrem; halten Sie den Aufenthalt kurz und treten Sie zügig den Rückweg an, bevor die Sonne um 17:00 Uhr sinkt.",
+                "hu": "A szélérzet itt télen rendkívül hideg; ne időzzön túl sokat, és induljon vissza a faluba, mielőtt a nap ötkor lebukik a horizont alá.",
+                "ro": "Efectul de răcire al vântului este extrem aici iarna; nu stați prea mult și porniți înapoi spre sat înainte ca soarele să apună la ora 17:00.",
+                "en": "The wind chill effect is extreme here in winter; keep your visit brief and head back to the village before the sun sets at 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje festői autózását a drámai Faro do Roncudónál, ahol a hatalmas óceáni szél azonnal felfrissíti. Vezessen vissza, hogy megpihenjen a Praia da Insua homokján, mielőtt meglátogatja a központi templomot. Délután élvezze a könnyen megközelíthető Praia da Arnela strandját, és fedezze fel a közeli ősi kelta romokat. Zárja tengerparti útját a távoli és érintetlen Praia de Riocovo strandon, figyelve, ahogy az alkonyat leszáll a zord tájra.",
         "ro": "Începeți traseul pitoresc la dramaticul Faro do Roncudo, lăsând vântul puternic al oceanului să vă revigoreze. Conduceți înapoi pentru a vă relaxa pe Praia da Insua înainte de a vizita biserica centrală. După-amiaza, bucurați-vă de accesul ușor la Praia da Arnela și explorați fascinantele ruine celtice din apropiere. Încheiați călătoria cu mașina la plaja retrasă Praia de Riocovo, urmărind cum amurgul se așterne peste peisajul accidentat.",
         "en": "Start your scenic drive at the dramatic Faro do Roncudo, letting the powerful ocean winds invigorate you. Drive back slightly to relax on the expansive sands of Praia da Insua before visiting the cultural heart at the central church. In the afternoon, enjoy the easy access to Praia da Arnela and explore the fascinating historical Celtic ruins nearby. Conclude your coastal road trip at the remote and pristine Praia de Riocovo, watching the twilight settle over the rugged landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am nebelverhangenen Roncudo-Leuchtturm, wo die Wellen dramatisch gegen die Klippen peitschen. Mittags bieten die Strände aus dem warmen Auto heraus einen melancholischen Anblick, während die Scheibenwischer im Takt des Regens arbeiten. Ein Besuch in der Hafenkirche bietet eine willkommene trockene Pause. Der Tag endet sicher am Riocovo-Strand, wo das Grau des Himmels und Meeres ineinander übergehen.",
+            "hu": "Az út a ködbe burkolózott Roncudo-világítótoronynál kezdődik, ahol a hullámok drámai módon csapkodják a sziklákat. Délben a strandok a meleg autóból nézve melankolikus látványt nyújtanak az esőben. A kikötői templom látogatása kellemes, száraz pihenőt jelent a nap folyamán. A túra a Riocovo-partnál zárul, ahol az ég és a tenger szürkesége szinte eggyé válik.",
+            "ro": "Călătoria începe la farul Roncudo învăluit în ceață, unde valurile se sparg dramatic de stânci. La prânz, plajele oferă o priveliște melancolică din mașina caldă, în timp ce ștergătoarele lucrează în ritmul ploii. O vizită la biserica din port oferă o pauză uscată binevenită. Ziua se încheie la plaja Riocovo, unde griul cerului și al mării se contopesc.",
+            "en": "The drive begins at the mist-shrouded Roncudo Lighthouse, where waves lash dramatically against the cliffs. At noon, the beaches offer a melancholic view from the warmth of the car while the wipers beat in time with the rain. A visit to the harbor church provides a welcome dry break. The day ends at Riocovo beach, where the gray of the sky and sea blend together."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro do Roncudo",
+                "hu": "Faro do Roncudo",
+                "ro": "Faro do Roncudo",
+                "en": "Faro do Roncudo"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick auf die tosende See; die schmale Straße zum Leuchtturm erfordert bei Nässe hohe Konzentration.",
+                "hu": "Heves esőben maradjon az autóban, és onnan csodálja a tajtékzó tengert; a világítótoronyhoz vezető keskeny út nagy koncentrációt igényel ilyenkor.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială pentru a admira marea învolburată; drumul îngust spre far necesită concentrare maximă pe timp de ploaie.",
+                "en": "Stay in the car during heavy rain to watch the churning sea; the narrow road to the lighthouse requires high concentration in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Insua",
+                "hu": "Praia da Insua",
+                "ro": "Praia da Insua",
+                "en": "Praia da Insua"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Aussichtspunkt lohnt sich trotz Regen; tragen Sie eine Kapuze, da der Wind das Wasser hier waagerecht über den Strand peitschen kann.",
+                "hu": "Egy rövid sprint a kilátóponthoz az eső ellenére is megéri; viseljen kapucnit, mert a szél itt vízszintesen hordhatja a csapadékot a part felett.",
+                "ro": "Un sprint scurt până la punctul de belvedere merită în ciuda ploii; purtați glugă, deoarece vântul poate sufla ploaia orizontal peste plajă.",
+                "en": "A short dash to the viewpoint is worth it despite the rain; wear a hood, as the wind can whip the rain horizontally across the shore here."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen schnellen Zugang zur Kirche; das massive Steingebäude ist der perfekte Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "Használja a közeli parkolót a templom gyors eléréséhez; a masszív kőépület tökéletes helyszín, hogy hallgassa az eső kopogását a vastag falakon kívül.",
+                "ro": "Folosiți parcarea din apropiere pentru acces rapid la biserică; clădirea masivă de piatră este locul perfect pentru a asculta ropotul ploii.",
+                "en": "Use the nearby parking for quick access to the church; the massive stone building is a perfect place to listen to the patter of rain from the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Arnela",
+                "hu": "Praia da Arnela",
+                "ro": "Praia da Arnela",
+                "en": "Praia da Arnela"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wellen bequem vom Fahrersitz aus; der Regen verstärkt die Farben der umliegenden Vegetation und Felsen.",
+                "hu": "Figyelje a hullámok játékát kényelmesen a vezetőülésből; az eső felerősíti a környező növényzet és a sziklák mély tónusú színeit.",
+                "ro": "Observați jocul valurilor confortabil de pe scaunul șoferului; ploaia intensifică culorile vegetației și ale stâncilor din jur.",
+                "en": "Watch the play of the waves comfortably from the driver's seat; the rain intensifies the colors of the surrounding vegetation and rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Illa da Estrela",
+                "hu": "Castro da Illa da Estrela",
+                "ro": "Castro da Illa da Estrela",
+                "en": "Castro da Illa da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken auf unbefestigten Flächen, da der Boden aufweichen kann; genießen Sie den mystischen Blick auf die Insel im Nebel.",
+                "hu": "Vigyázzon a parkolással a burkolatlan felületeken, mert a talaj felázhat; élvezze a szigetre nyíló misztikus kilátást a sűrű ködön keresztül.",
+                "ro": "Atenție la parcare pe suprafețele neasfaltate, deoarece solul se poate înmuia; admirați vederea mistică spre insulă prin ceața densă.",
+                "en": "Be careful when parking on unpaved surfaces as the ground may be soft; enjoy the mystical view of the island through the thick mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Riocovo",
+                "hu": "Praia de Riocovo",
+                "ro": "Praia de Riocovo",
+                "en": "Praia de Riocovo"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Scheinwerfer ein, da die Sichtverhältnisse am Abend bei Regen stark abnehmen; die tosende Brandung bietet eine kraftvolle Geräuschkulisse.",
+                "hu": "Kapcsolja be a fényszórókat, mert az esti esőben a látási viszonyok jelentősen romlanak; a morajló tenger ilyenkor lenyűgöző háttérzajt biztosít.",
+                "ro": "Aprindeți farurile, deoarece vizibilitatea scade semnificativ în ploaia de seară; marea învolburată oferă un fundal sonor impresionant.",
+                "en": "Turn on your headlights as visibility drops significantly in the evening rain; the roaring surf provides a powerful soundscape to end your tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt spektakulär am Roncudo-Leuchtturm, wo die kalte Atlantikluft für eine kristallklare Sicht sorgt. Mittags wärmt man sich im Auto auf, während man die einsamen Strände entlang der Küste abfährt. Die tiefstehende Sonne bietet wunderbare Fotomotive an der Hafenkirche und den antiken Ruinen. Da die Nacht gegen 17:00 Uhr hereinbricht, endet der Tag stimmungsvoll am Riocovo-Strand im letzten Dämmerlicht.",
+            "hu": "A téli autós túra látványosan indul a Roncudo-világítótoronynál, ahol a hideg atlanti levegő kristálytiszta kilátást biztosít. Délben az autó fűtése mellett élvezhetjük a kihalt strandok látványát a parti út mentén. Az alacsonyan járó nap csodás fényeket vet a templomra és az ősi romokra. Mivel ötkor besötétedik, a nap a Riocovo-partnál zárul, az alkonyat utolsó fényeiben.",
+            "ro": "Turul de iarnă începe spectaculos la farul Roncudo, unde aerul rece de Atlantic oferă o vizibilitate de cristal. La prânz, vă încălziți în mașină în timp ce treceți pe lângă plajele pustii de-a lungul coastei. Soarele jos oferă oportunități foto superbe la biserică și la ruinele antice. Deoarece noaptea cade în jur de ora 17:00, ziua se încheie la plaja Riocovo în amurg.",
+            "en": "The winter driving tour starts spectacularly at Roncudo Lighthouse, where the cold Atlantic air provides crystal-clear views. At noon, warm up in the car while driving past the deserted beaches along the coast. The low sun offers wonderful photo opportunities at the church and ancient ruins. As night falls around 5:00 PM, the day ends atmospherically at Riocovo beach in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro do Roncudo",
+                "hu": "Faro do Roncudo",
+                "ro": "Faro do Roncudo",
+                "en": "Faro do Roncudo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter unschlagbar; parken Sie windzugewandt, damit die Türen beim Öffnen nicht von den starken Böen erfasst werden.",
+                "hu": "A téli látótávolság verhetetlen ilyenkor; parkoljon széllel szemben, hogy az ajtókat ne rántsa ki a kezéből az erős tengeri szél nyitáskor.",
+                "ro": "Vizibilitatea pe timp de iarnă este imbatabilă; parcați cu fața în vânt pentru ca ușile să nu fie smulse de rafalele puternice la deschidere.",
+                "en": "The winter visibility is unbeatable; park facing the wind so the doors aren't caught and jerked by strong gusts when you open them."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Insua",
+                "hu": "Praia da Insua",
+                "ro": "Praia da Insua",
+                "en": "Praia da Insua"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Panoramaaufnahmen der Bucht; eine Thermoskanne mit heißem Tee im Auto macht die Pause perfekt.",
+                "hu": "A délelőtti fények ideálisak az öbölről készült panorámafotókhoz; egy termosz forró teával az autóban még élvezetesebbé teheti a megállót.",
+                "ro": "Lumina de dimineață este ideală pentru fotografii panoramice ale golfului; un termos cu ceai cald în mașină va face pauza perfectă.",
+                "en": "The morning light is ideal for panoramic photos of the bay; having a thermos of hot tea in the car makes this stop even more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+                "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz vor der beißenden Kälte; bewundern Sie die Architektur und nutzen Sie die Wärme des Gebäudes für einen Moment der Ruhe.",
+                "hu": "A belső tér védelmet nyújt a metsző téli hideg ellen; csodálja meg az építészetet, és használja ki az épület nyugalmát egy rövid pihenőre.",
+                "ro": "Interiorul oferă protecție împotriva frigului tăios; admirați arhitectura și profitați de liniștea clădirii pentru un moment de răgaz.",
+                "en": "The interior provides protection from the biting winter cold; admire the architecture and take advantage of the building's stillness for a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Arnela",
+                "hu": "Praia da Arnela",
+                "ro": "Praia da Arnela",
+                "en": "Praia da Arnela"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winterlicht fast unwirklich schön; bleiben Sie für Fotos in der Nähe des Autos, um sich schnell wieder aufwärmen zu können.",
+                "hu": "A strand szinte hihetetlenül szép a téli fényekben; maradjon az autó közelében a fotózáshoz, hogy bármikor gyorsan visszaülhessen a fűtött utastérbe.",
+                "ro": "Plaja arată aproape ireal de frumos în lumina iernii; rămâneți aproape de mașină pentru fotografii, pentru a vă putea reîncălzi rapid.",
+                "en": "The beach looks almost unreal in the winter light; stay near the car for photos so you can quickly jump back in and warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Illa da Estrela",
+                "hu": "Castro da Illa da Estrela",
+                "ro": "Castro da Illa da Estrela",
+                "en": "Castro da Illa da Estrela"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Nachmittagslicht betont die Konturen der antiken Siedlung; planen Sie Ihren Besuch so, dass Sie vor Sonnenuntergang um 17:00 Uhr wieder im Auto sind.",
+                "hu": "A lágy délutáni fények kiemelik az ősi település körvonalait; tervezze úgy a látogatást, hogy a naplemente előtt, ötkor már újra az autóban üljön.",
+                "ro": "Lumina blândă de după-amiază scoate în evidență contururile așezării antice; planificați vizita astfel încât să reveniți la mașină înainte de ora 17:00.",
+                "en": "The soft afternoon light highlights the contours of the ancient settlement; plan your visit to be back in the car before the 5:00 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Riocovo",
+                "hu": "Praia de Riocovo",
+                "ro": "Praia de Riocovo",
+                "en": "Praia de Riocovo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde am Strand aus dem Schutz Ihres Fahrzeugs; die winterliche Brandung ist ein beruhigender Abschluss für den Tag.",
+                "hu": "Élvezze a kék órát a tengerparton az autó védelméből; a téli hullámverés moraja megnyugtató lezárása ennek a hideg, de látványos napnak.",
+                "ro": "Bucurați-vă de ora albastră pe plajă din protecția vehiculului; sunetul valurilor de iarnă este un final relaxant pentru această zi rece.",
+                "en": "Enjoy the blue hour on the beach from the shelter of your vehicle; the winter surf is a soothing conclusion to this cold but scenic day."
+              }
+            }
+          ]
+        }
       }
     }
   }

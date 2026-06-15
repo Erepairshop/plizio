@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot Clonakilty spirituális és történelmi központjának felfedezésével.\nDélben: Sétáljon végig a hangulatos utcákon, és fedezze fel a régi sörfőzde ipari örökségét és a helyi emlékműveket.\nDélután: A délután folyamán élvezze a helyi lepárló gazdag ízeit, mielőtt a vízpart felé venné az irányt.\nEste: Zárja sétáját a bonyolult miniatűr falu megcsodálásával, és gondoljon vissza Nyugat-Cork szépségeire.",
         "ro": "Dimineața: Începeți ziua explorând nucleul spiritual și istoric al orașului Clonakilty.\nPrânz: Continuați prin străzile fermecătoare pentru a descoperi moștenirea industrială la vechea fabrică de bere și monumentele.\nDupă-amiaza: După-amiaza vă invită să savurați aromele bogate ale unei distilerii locale înainte de a vă îndrepta spre faleză.\nSeara: Încheiați-vă turul pietonal admirând satul în miniatură, reflectând la frumusețea zonei West Cork la lăsarea serii.",
         "en": "Morning: Start the day exploring the spiritual and historical core of Clonakilty.\nMidday: Continue through the charming streets to uncover the industrial heritage at the old brewery and the vibrant local monuments.\nAfternoon: The afternoon invites you to savor the rich flavors of a local distillery before heading towards the waterfront.\nEvening: End your walking tour marveling at the intricate miniature village, reflecting on the beauty of West Cork as the day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in den stimmungsvollen Kirchen der Stadt, die perfekten Schutz vor den atlantischen Schauern bieten. Mittags laden die historischen Brauereigebäude und Brennereien zu einer gemütlichen Erkundungstour im Trockenen ein. Am Nachmittag bietet das Eisenbahndorf unterhaltsame Indoor-Einblicke. Den Abend lassen Sie in den beleuchteten, regennassen Gassen der Altstadt ausklingen.",
+            "hu": "Kezdje a napot a város hangulatos templomaiban, amelyek tökéletes menedéket nyújtanak az atlanti záporok elől. Délben a történelmi sörfőzde és a lepárló épületei hívogatnak fedett felfedezésre. Délután a vasútmodell falu kínál száraz és szórakoztató látnivalókat. Az estét a város esőtől csillogó, kivilágított utcáin tett rövid sétával zárhatja.",
+            "ro": "Începeți ziua în bisericile atmosferice ale orașului, care oferă adăpost perfect împotriva ploilor atlantice. La prânz, clădirile istorice ale berăriei și distileriei vă invită la o explorare la adăpost. După-amiaza, satul miniatural oferă atracții acoperite și distractive. Încheiați seara cu o scurtă plimbare pe străzile luminate ale centrului vechi, strălucind sub ploaie.",
+            "en": "Start your day in the town's atmospheric churches, providing perfect shelter from Atlantic showers. At midday, the historical brewery and distillery buildings invite you for an indoor exploration. In the afternoon, the model railway village offers dry and entertaining sights. Conclude your evening with a short stroll through the illuminated, rain-slicked streets of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kilgarriffe Church",
+                "hu": "Kilgarriffe Church",
+                "ro": "Kilgarriffe Church",
+                "en": "Kilgarriffe Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Details des Innenraums dieser neugotischen Kirche, während Sie dem Prasseln des Regens auf das Dach lauschen; halten Sie Ihren Schirm am Eingang bereit.",
+                "hu": "Csodálja meg e neogótikus templom belső részleteit, miközben a tetőn kopogó esőt hallgatja; esernyőjét tartsa készenlétben a bejáratnál a kilépéshez.",
+                "ro": "Admirați detaliile interioare ale acestei biserici neogotice în timp ce ascultați ploaia bătând în acoperiș; pregătiți umbrela la ieșire pentru următoarea etapă.",
+                "en": "Admire the interior details of this neo-Gothic church while listening to the rain drumming on the roof; keep your umbrella ready at the entrance for your departure."
+              }
+            },
+            {
+              "name": {
+                "de": "Michael Collins Denkmal",
+                "hu": "Michael Collins szobor",
+                "ro": "Statuia lui Michael Collins",
+                "en": "Michael Collins Statue"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal steht unter freiem Himmel, daher empfiehlt sich ein schneller Fotostopp; die nassen Oberflächen verleihen der Statue einen dramatischen, dunklen Glanz.",
+                "hu": "Ez az emlékmű a szabad ég alatt áll, így egy gyors fotómegállót javasolunk; a vizes felületek drámai, sötét csillogást kölcsönöznek a szobornak a borús időben.",
+                "ro": "Acest monument este în aer liber, deci recomandăm o oprire rapidă pentru fotografii; suprafețele umede conferă statuii o strălucire dramatică pe vreme mohorâtă.",
+                "en": "This monument stands in the open air, so a quick photo stop is recommended; the wet surfaces give the statue a dramatic, dark luster in the overcast weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Deasys Old Brewery",
+                "hu": "Deasys Old Brewery",
+                "ro": "Deasys Old Brewery",
+                "en": "Deasys Old Brewery"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die robusten Mauern dieser alten Brauerei, die einen hervorragenden Schutz vor Wind bietet; achten Sie auf den Gehwegen auf rutschige Pflastersteine.",
+                "hu": "Fedezze fel a régi sörfőzde robusztus falait, amelyek kiváló védelmet nyújtanak a szél ellen; a környező járdákon ügyeljen a csúszós macskakövekre.",
+                "ro": "Explorați zidurile robuste ale vechii berării, care oferă o protecție excelentă împotriva vântului; pe trotuarele din jur, aveți grijă la pavajul alunecos.",
+                "en": "Explore the robust walls of this old brewery, which provide excellent protection from the wind; watch out for slippery cobblestones on the surrounding pavements."
+              }
+            },
+            {
+              "name": {
+                "de": "Methodistenkirche Clonakilty",
+                "hu": "Clonakilty-i metodista templom",
+                "ro": "Biserica Metodistă din Clonakilty",
+                "en": "Clonakilty Methodist Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen ruhigen, überdachten Raum für eine kurze Pause und genießen Sie die spirituelle Stille, während draußen ein typisch irischer Schauer vorbeizieht.",
+                "hu": "Használja ki ezt a nyugodt, fedett teret egy rövid pihenőre, és élvezze a spirituális csendet, miközben odakint egy tipikus ír zápor vonul át a város felett.",
+                "ro": "Profitați de acest spațiu liniștit și acoperit pentru o scurtă pauză, bucurându-vă de tăcerea spirituală în timp ce afară trece o aversă tipic irlandeză.",
+                "en": "Take advantage of this calm, covered space for a brief rest and enjoy the spiritual silence while a typical Irish shower passes over the town outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Brennerei",
+                "hu": "Clonakilty Lepárló",
+                "ro": "Distileria Clonakilty",
+                "en": "Clonakilty Distillery"
+              },
+              "tip_5lang": {
+                "de": "Eine Führung durch die Destillerie ist die ideale Indoor-Aktivität bei Regen; wärmen Sie sich bei einer Verkostung auf und lassen Sie Ihre Regenjacke trocknen.",
+                "hu": "A lepárlóban tett túra ideális fedett tevékenység esőben; melegedjen fel egy kóstolóval, és hagyja megszáradni esőkabátját a látogatás alatt.",
+                "ro": "Un tur al distileriei este activitatea ideală de interior pe ploaie; încălziți-vă cu o degustare și lăsați pelerina de ploaie să se usuce în timpul vizitei.",
+                "en": "A tour of the distillery is the ideal indoor activity in the rain; warm up with a tasting session and let your raincoat dry during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Modelleisenbahndorf",
+                "hu": "West Cork Vasútmodell Falu",
+                "ro": "Satul în miniatură West Cork",
+                "en": "West Cork Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungsbereiche im Innenraum und den Café-Waggon, um trocken zu bleiben; die Miniaturlandschaft wirkt bei Regen besonders charmant und mystisch.",
+                "hu": "Látogassa meg a belső kiállítótereket és a kávézó-vagonokat, hogy szárazon maradjon; a miniatűr táj különösen bájos és misztikus látványt nyújt esős időben.",
+                "ro": "Vizitați spațiile expoziționale interioare și vagoanele-cafenea pentru a rămâne uscat; peisajul în miniatură are un farmec mistic sub cerul înnorat.",
+                "en": "Visit the indoor exhibition areas and the café carriages to stay dry; the miniature landscape looks particularly charming and mystical in rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme von Clonakilty bei einer morgendlichen Tour durch die historischen Kirchen. Mittags bieten die lokalen Brennereien gemütliche Wärme und herzliche Gastfreundschaft. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenbesichtigungen auf den frühen Nachmittag legen. Den Abend genießen Sie am besten bei Kaminfeuer in einem der traditionellen Pubs.",
+            "hu": "Fedezze fel Clonakilty téli báját a történelmi templomok reggeli meglátogatásával. Délben a helyi lepárlók kínálnak meghitt meleget és vendégszeretetet. Mivel a nap már 17:00 körül nyugszik, a szabadtéri látnivalókat kora délutánra érdemes időzíteni. Az estét töltse egy hagyományos pub kandallója mellett, élvezve a helyi közösség barátságos morajlását.",
+            "ro": "Descoperiți farmecul de iarnă al orașului Clonakilty vizitând bisericile istorice dimineața. La prânz, distileriile locale oferă căldură și ospitalitate. Deoarece soarele apune în jur de ora 17:00, planificați vizitele în aer liber pentru începutul după-amiezii. Seara este cel mai bine petrecută lângă șemineul unui pub tradițional, în atmosfera locală.",
+            "en": "Experience the winter charm of Clonakilty with a morning tour of its historical churches. At midday, local distilleries offer cozy warmth and hospitality. As the sun sets around 5:00 PM, aim to visit outdoor sights in the early afternoon. Spend your evening by the fireplace of a traditional pub, enjoying the friendly local atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kilgarriffe Church",
+                "hu": "Kilgarriffe Church",
+                "ro": "Kilgarriffe Church",
+                "en": "Kilgarriffe Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, tragen Sie also eine warme Schicht; das weiche Winterlicht durch die Kirchenfenster erzeugt eine besonders friedliche Stimmung.",
+                "hu": "A vastag falak tárolják a hideget, ezért viseljen meleg réteget; a templomablakokon átszűrődő lágy téli fény különösen békés hangulatot áraszt a belső térben.",
+                "ro": "Zidurile groase rețin frigul, deci purtați haine călduroase; lumina blândă de iarnă prin ferestrele bisericii creează o atmosferă deosebit de liniștită.",
+                "en": "The thick walls retain the cold, so wear a warm layer; the soft winter light filtering through the church windows creates a particularly peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Michael Collins Denkmal",
+                "hu": "Michael Collins szobor",
+                "ro": "Statuia lui Michael Collins",
+                "en": "Michael Collins Statue"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um dem irischen Helden zu huldigen; die klare Winterluft sorgt oft für gestochen scharfe Fotos der Bronzestatue vor dem Marktplatz.",
+                "hu": "Egy rövid megálló elég, hogy tisztelegjen az ír hős előtt; a tiszta téli levegő gyakran tűéles fotókat tesz lehetővé a bronzszoborról a főtér hátterével.",
+                "ro": "O oprire scurtă este suficientă pentru a onora eroul irlandez; aerul rece și clar de iarnă permite fotografii foarte clare ale statuii de bronz în piața centrală.",
+                "en": "A short stop is enough to pay tribute to the Irish hero; the crisp winter air often allows for pin-sharp photos of the bronze statue against the market square."
+              }
+            },
+            {
+              "name": {
+                "de": "Deasys Old Brewery",
+                "hu": "Deasys Old Brewery",
+                "ro": "Deasys Old Brewery",
+                "en": "Deasys Old Brewery"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur von außen und nutzen Sie die nahegelegenen Gebäude als Windschutz gegen die kühle Brise vom Meer her.",
+                "hu": "Csodálja meg a történelmi építészetet kívülről, és használja a közeli épületeket szélárnyékként a tengerről érkező hűvös fuvallatok ellen a séta során.",
+                "ro": "Admirați arhitectura istorică din exterior și folosiți clădirile din apropiere ca paravan împotriva brizelor reci care vin dinspre mare în timpul plimbării.",
+                "en": "Admire the historical architecture from the outside and use nearby buildings as a windbreak against the chilly breezes coming from the sea during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Methodistenkirche Clonakilty",
+                "hu": "Clonakilty-i metodista templom",
+                "ro": "Biserica Metodistă din Clonakilty",
+                "en": "Clonakilty Methodist Church"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet eine willkommene Pause von der Kälte; achten Sie auf die Öffnungszeiten im Winter, die kürzer sein können als in der Hauptsaison.",
+                "hu": "Ez a helyszín kellemes pihenőt kínál a kinti hideg elől; ügyeljen a téli nyitvatartási időre, amely rövidebb lehet, mint a főszezonban.",
+                "ro": "Această locație oferă o pauză binemeritată de frigul de afară; verificați programul de iarnă, care poate fi mai scurt decât în plin sezon.",
+                "en": "This location offers a welcome break from the outdoor cold; pay attention to the winter opening hours, which may be shorter than in the peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Brennerei",
+                "hu": "Clonakilty Lepárló",
+                "ro": "Distileria Clonakilty",
+                "en": "Clonakilty Distillery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Besucherzentrum und probieren Sie einen lokalen Whiskey, der an kalten Wintertagen besonders gut von innen wärmt.",
+                "hu": "Élvezze a látogatóközpont barátságos melegét, és kóstoljon meg egy helyi whiskey-t, amely a hideg téli napokon különösen jól átmelegíti az embert.",
+                "ro": "Bucurați-vă de căldura primitoare a centrului de vizitatori și gustați un whiskey local, care vă va încălzi de minune în zilele reci de iarnă.",
+                "en": "Enjoy the welcoming warmth of the visitor centre and taste a local whiskey, which warms you up perfectly from the inside on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Modelleisenbahndorf",
+                "hu": "West Cork Vasútmodell Falu",
+                "ro": "Satul în miniatură West Cork",
+                "en": "West Cork Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Dorf am frühen Nachmittag, um das Tageslicht optimal zu nutzen; der Café-Waggon bietet eine gemütliche Atmosphäre für ein Heißgetränk zum Aufwärmen.",
+                "hu": "Látogassa meg a falut kora délután, hogy kihasználja a nappali fényt; a kávézó-vagon meghitt hangulatot áraszt egy melengető forró ital elfogyasztásához.",
+                "ro": "Vizitați satul la începutul după-amiezii pentru a profita de lumina zilei; vagonul-cafenea oferă o atmosferă intimă pentru o băutură caldă.",
+                "en": "Visit the village in the early afternoon to make the most of the daylight; the café carriage offers a cozy atmosphere for a warming hot drink."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Délelőtt: Kerékpározzon el a misztikus állókövekhez, mielőtt visszatérne a városközpontba egy kis vallástörténetért.\nDélben: Tekerjen át Clonakilty nyüzsgő szívén, tisztelegve a történelmi alakok és építészeti gyöngyszemek előtt.\nDélután: Pattanjon kerékpárra, és látogassa meg a híres helyi lepárlót és az öböl melletti elragadó vasútmodell-falut.\nEste: Fejezze be az utat a látogatóközpontban, ismerje meg a régió kulináris büszkeségét, és jutalmazza meg magát egy kóstolóval.",
         "ro": "Dimineața: Mergeți cu bicicleta până la pietrele mistice înainte de a vă întoarce în centrul orașului pentru a-i vedea istoria religioasă.\nPrânz: Pedalați prin inima plină de viață a orașului Clonakilty, aducând un omagiu figurilor istorice și bijuteriilor arhitecturale.\nDupă-amiaza: Urcați pe bicicletă pentru a vizita faimoasa distilerie locală și încântătorul sat în miniatură de pe malul golfului.\nSeara: Încheiați plimbarea la centrul de vizitatori pentru a afla despre mândria culinară a regiunii și răsfățați-vă cu o degustare.",
         "en": "Morning: Cycle out to the mystical standing stones before returning to the town center for a glimpse into its religious history.\nMidday: Ride through the bustling heart of Clonakilty, paying tribute to historical figures and architectural gems.\nAfternoon: Hop on your bike to visit the famous local distillery and the delightful model railway village by the bay.\nEvening: Finish your ride at the visitor centre to learn about the region's culinary pride and treat yourself to a well-earned tasting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Landstraßen rund um den Templebryan Steinkreis. In der Stadt bieten die Kirchen und Museen trockene Zwischenstopps, um sich zu sammeln. Mittags ist die Destillerie ein idealer Ort, um unter Dach zu entspannen. Achten Sie auf den Asphalt und nutzen Sie Reflektoren für eine bessere Sichtbarkeit bei trübem Wetter.",
+            "hu": "Az esős bringázás óvatosságot igényel a Templebryan kőkör körüli dűlőutakon. A városban a templomok és múzeumok száraz megállókat kínálnak az újratervezéshez. Délben a lepárló ideális hely a tető alatti pihenésre. Ügyeljen a vizes aszfaltra a kanyarokban, és használjon fényvisszaverőt a jobb láthatóságért a borús időben.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile din jurul cercului de piatră Templebryan. În oraș, bisericile și muzeele oferă opriri uscate pentru regrupare. La prânz, distileria este locul ideal pentru relaxare la adăpost. Atenție la asfaltul umed în curbe și folosiți elemente reflectorizante pentru vizibilitate.",
+            "en": "Cycling in the rain requires caution on the country roads around the Templebryan stone circle. In town, churches and museums offer dry stops to regroup. At midday, the distillery is an ideal place for relaxation under a roof. Watch out for wet asphalt in corners and use reflectors for better visibility in overcast weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Steinkreis von Templebryan",
+                "hu": "Templebryan kőkör",
+                "ro": "Cercul de pietre Templebryan",
+                "en": "Templebryan Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Steinkreis kann bei Regen schlammig sein, tragen Sie wasserfeste Schuhe; die alten Steine wirken im Nebel und Regen besonders geheimnisvoll.",
+                "hu": "A kőkörhöz vezető út esőben sáros lehet, viseljen vízálló cipőt; az ősi kövek a ködben és esőben különösen titokzatos és misztikus látványt nyújtanak.",
+                "ro": "Drumul spre cercul de pietre poate fi noroios pe ploaie, purtați încălțăminte impermeabilă; pietrele antice par misterioase în ceață și ploaie.",
+                "en": "The path to the stone circle can be muddy in the rain, wear waterproof shoes; the ancient stones look particularly mysterious and mystical in the mist and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kilgarriffe Church",
+                "hu": "Kilgarriffe Church",
+                "ro": "Kilgarriffe Church",
+                "en": "Kilgarriffe Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Stille im Inneren; ein idealer Moment, um die Regenkleidung kurz auszuschütteln.",
+                "hu": "Parkolja le kerékpárját egy védettebb helyen, és élvezze a benti csendet; ez ideális alkalom arra, hogy röviden lerázza a vizet az esőruházatáról.",
+                "ro": "Parcați bicicleta într-un loc mai protejat și bucurați-vă de liniștea din interior; este ocazia ideală pentru a scutura apa de pe echipamentul de ploaie.",
+                "en": "Park your bike in a more sheltered spot and enjoy the silence inside; this is an ideal moment to briefly shake the water off your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Michael Collins Denkmal",
+                "hu": "Michael Collins szobor",
+                "ro": "Statuia lui Michael Collins",
+                "en": "Michael Collins Statue"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Denkmal; achten Sie beim Absteigen auf den nassen Straßenbelag, der in diesem Bereich besonders rutschig sein kann.",
+                "hu": "Gyors megálló az emlékműnél; a leszálláskor ügyeljen a vizes útburkolatra, amely ezen a területen a festett jelek mentén különösen csúszós lehet.",
+                "ro": "O oprire rapidă la monument; la coborâre, atenție la carosabilul umed, care poate fi foarte alunecos în această zonă lângă marcajele rutiere.",
+                "en": "A quick stop at the monument; when dismounting, watch out for the wet road surface, which can be particularly slippery in this area near road markings."
+              }
+            },
+            {
+              "name": {
+                "de": "Methodistenkirche Clonakilty",
+                "hu": "Clonakilty-i metodista templom",
+                "ro": "Biserica Metodistă din Clonakilty",
+                "en": "Clonakilty Methodist Church"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer ruhiger Rückzugsort vor dem Regen; nutzen Sie die Zeit, um die Route für den Nachmittag auf Ihrem Smartphone im Trockenen zu prüfen.",
+                "hu": "Újabb nyugodt menedék az eső elől; használja ki az időt, hogy a szárazban ellenőrizze a délutáni útvonalat az okostelefonján a folytatás előtt.",
+                "ro": "Încă un adăpost liniștit împotriva ploii; profitați de timp pentru a verifica traseul de după-amiază pe smartphone, la adăpost, înainte de a continua.",
+                "en": "Another calm refuge from the rain; use the time to check your afternoon route on your smartphone in the dry before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Brennerei",
+                "hu": "Clonakilty Lepárló",
+                "ro": "Distileria Clonakilty",
+                "en": "Clonakilty Distillery"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie sich länger aufwärmen; falls Sie verkosten, schieben Sie Ihr Rad danach sicherheitshalber ein Stück durch den Regen.",
+                "hu": "Itt hosszabb időre felmelegedhet; ha részt vesz a kóstolón, utána a biztonság kedvéért tolja egy darabig a kerékpárját az esőben a következő pontig.",
+                "ro": "Aici vă puteți încălzi pentru mai mult timp; dacă participați la degustare, după aceea împingeți bicicleta o bucată pentru siguranță prin ploaie.",
+                "en": "You can warm up here for a longer period; if you take part in the tasting, push your bike for a while afterwards through the rain for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Modelleisenbahndorf",
+                "hu": "West Cork Vasútmodell Falu",
+                "ro": "Satul în miniatură West Cork",
+                "en": "West Cork Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet einen guten Blick auf die vorbeiziehenden Wolken; stellen Sie sicher, dass Ihre Satteltaschen gut verschlossen und wasserdicht sind.",
+                "hu": "A kávézó jó rálátást biztosít az elvonuló felhőkre; győződjön meg róla, hogy kerékpáros táskái jól le vannak zárva és teljesen vízhatlanok.",
+                "ro": "Cafeneaua oferă o vedere bună spre norii trecători; asigurați-vă că gențile de bicicletă sunt bine închise și complet impermeabile.",
+                "en": "The café provides a good view of the passing clouds; make sure your panniers are well-sealed and completely waterproof."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Blackpudding Besucherzentrum",
+                "hu": "Clonakilty Blackpudding Látogatóközpont",
+                "ro": "Centrul de vizitatori Clonakilty Blackpudding",
+                "en": "Clonakilty Blackpudding Visitor Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiges Ziel zum Abschluss, da fast alles im Innenraum stattfindet; die herzhaften Snacks geben Ihnen Kraft für die finale Fahrt durch den Regen.",
+                "hu": "Nagyszerű záró állomás, mivel szinte minden fedett térben zajlik; a kiadós falatok erőt adnak az utolsó esős szakasz leküzdéséhez a nap végén.",
+                "ro": "O destinație finală excelentă, deoarece aproape totul se desfășoară în interior; gustările consistente vă dau forță pentru ultima etapă prin ploaie.",
+                "en": "A great final stop since almost everything is indoors; the hearty snacks give you strength for the final rainy leg at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in West Cork bietet klare Luft und weite Ausblicke, erfordert aber gute Schichtung und Handschuhe gegen den Fahrtwind. Starten Sie früh beim Steinkreis, um das Morgenlicht zu nutzen. Mittags wärmen Sie sich in den Kirchen und der Destillerie auf. Beenden Sie Ihre Tour vor 17:00 Uhr, da die Sichtbarkeit auf den Landstraßen bei Dunkelheit stark abnimmt.",
+            "hu": "A téli bringázás West Corkban tiszta levegőt és távoli kilátást kínál, de réteges öltözködést és kesztyűt igényel a menetszél ellen. Kezdjen korán a kőkörnél, hogy kihasználja a reggeli fényt. Napközben melegedjen fel a templomokban és a lepárlóban. Fejezze be a túrát 17:00 előtt, mert a látási viszonyok sötétedés után gyorsan romlanak.",
+            "ro": "Ciclismul de iarnă în West Cork oferă aer curat și vederi panoramice, dar necesită haine stratificate și mănuși împotriva vântului. Începeți devreme la cercul de pietre pentru lumina dimineții. În timpul zilei, încălziți-vă în biserici și la distilerie. Terminați turul înainte de ora 17:00, deoarece vizibilitatea scade rapid după lăsarea serii.",
+            "en": "Winter cycling in West Cork offers crisp air and far-reaching views but requires layered clothing and gloves against the wind chill. Start early at the stone circle to catch the morning light. During the day, warm up in churches and the distillery. Finish your tour before 5:00 PM, as visibility decreases rapidly after dark on country roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Steinkreis von Templebryan",
+                "hu": "Templebryan kőkör",
+                "ro": "Cercul de pietre Templebryan",
+                "en": "Templebryan Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Morgenluft am Steinkreis ist belebend, aber ziehen Sie eine winddichte Jacke an, da der Ort exponiert auf einem Hügel liegt.",
+                "hu": "A fagyos reggeli levegő a kőkörnél frissítő, de húzzon szélálló kabátot, mivel a helyszín kitett, dombtetőn lévő területen fekszik.",
+                "ro": "Aerul înghețat de dimineață la cercul de pietre este înviorător, dar puneți o jachetă rezistentă la vânt, fiind o zonă expusă pe un deal.",
+                "en": "The frosty morning air at the stone circle is invigorating, but put on a windproof jacket as the site is exposed on a hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kilgarriffe Church",
+                "hu": "Kilgarriffe Church",
+                "ro": "Kilgarriffe Church",
+                "en": "Kilgarriffe Church"
+              },
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, die Handschuhe kurz auszuziehen und sich im Inneren zu sammeln; genießen Sie die winterliche Ruhe in der historischen Architektur.",
+                "hu": "Jó alkalom, hogy rövid időre levegye a kesztyűt és összeszedje magát a benti csendben; élvezze a téli nyugalmat a történelmi falak között.",
+                "ro": "O ocazie bună de a scoate mănușile pentru scurt timp și de a vă reculege în liniștea de interior; bucurați-vă de calmul iernii între zidurile istorice.",
+                "en": "A good opportunity to take off your gloves for a short time and regroup in the indoor silence; enjoy the winter peace within the historical walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Michael Collins Denkmal",
+                "hu": "Michael Collins szobor",
+                "ro": "Statuia lui Michael Collins",
+                "en": "Michael Collins Statue"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp auf dem Radweg; die klare Wintersonne lässt das Metall der Statue am späten Vormittag oft hell aufleuchten.",
+                "hu": "Gyors fotómegálló a kerékpárút mentén; a tiszta téli napsütésben a szobor fémfelülete délelőtt gyakran élesen megcsillan, remek kontrasztot adva.",
+                "ro": "O oprire rapidă pentru poze lângă pista de biciclete; în lumina clară a soarelui de iarnă, suprafața metalică a statuii strălucește puternic înainte de prânz.",
+                "en": "A quick photo stop along the bike path; in the clear winter sun, the metal surface of the statue often glints sharply in the late morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Methodistenkirche Clonakilty",
+                "hu": "Clonakilty-i metodista templom",
+                "ro": "Biserica Metodistă din Clonakilty",
+                "en": "Clonakilty Methodist Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den geschützten Raum für eine kurze Pause vom Fahrtwind; die Akustik im Inneren wirkt im Winter besonders intensiv und getragen.",
+                "hu": "Használja ki a védett teret egy rövid pihenőre a menetszél után; a benti akusztika télen különösen intenzívnek és méltóságteljesnek hat.",
+                "ro": "Folosiți spațiul protejat pentru o scurtă pauză după vântul de afară; acustica din interior pare deosebit de intensă și solemnă pe timp de iarnă.",
+                "en": "Take advantage of the sheltered space for a short break from the wind; the indoor acoustics feel particularly intense and solemn in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Brennerei",
+                "hu": "Clonakilty Lepárló",
+                "ro": "Distileria Clonakilty",
+                "en": "Clonakilty Distillery"
+              },
+              "tip_5lang": {
+                "de": "Die Destillerie bietet die nötige Wärme für die Mittagspause; ein heißer Tee oder Whiskey im Besucherzentrum bringt die Lebensgeister zurück.",
+                "hu": "A lepárló biztosítja a szükséges meleget az ebédszünethez; egy forró tea vagy whiskey a látogatóközpontban visszaadja az életkedvet a folytatáshoz.",
+                "ro": "Distileria oferă căldura necesară pentru pauza de prânz; un ceai fierbinte sau un whiskey la centrul de vizitatori vă va revigora spiritul.",
+                "en": "The distillery provides the necessary warmth for your lunch break; a hot tea or whiskey at the visitor centre will revive your spirits for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Modelleisenbahndorf",
+                "hu": "West Cork Vasútmodell Falu",
+                "ro": "Satul în miniatură West Cork",
+                "en": "West Cork Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Aufenthalt so, dass Sie noch vor Einbruch der Dämmerung weiterfahren können; die beheizten Innenbereiche sind ein Segen für Radfahrer.",
+                "hu": "Időzítse úgy a látogatást, hogy még a szürkület beállta előtt tovább tudjon indulni; a fűtött belső terek igazi áldást jelentenek a bringásoknak.",
+                "ro": "Planificați vizita astfel încât să puteți pleca înainte de lăsarea serii; spațiile interioare încălzite sunt o binecuvântare pentru bicicliști.",
+                "en": "Time your visit so that you can continue before dusk sets in; the heated indoor spaces are a true blessing for cyclists in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Blackpudding Besucherzentrum",
+                "hu": "Clonakilty Blackpudding Látogatóközpont",
+                "ro": "Centrul de vizitatori Clonakilty Blackpudding",
+                "en": "Clonakilty Blackpudding Visitor Centre"
+              },
+              "tip_5lang": {
+                "de": "Da es hier früh dunkel wird, ist dies ein idealer Indoor-Abschluss; prüfen Sie Ihre Fahrradbeleuchtung, bevor Sie den Rückweg antreten.",
+                "hu": "Mivel itt korán sötétedik, ez ideális fedett záróprogram; ellenőrizze a kerékpárvilágítást, mielőtt elindulna a visszaúton a nap végén.",
+                "ro": "Deoarece se întunecă devreme, acesta este un program de final ideal; verificați luminile bicicletei înainte de a porni pe drumul de întoarcere.",
+                "en": "Since it gets dark early here, this is an ideal indoor final program; check your bike lights before heading back at the end of the day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Délelőtt: Vezessen fel az ősi kőkörhöz, hogy egy kis őstörténettel indítsa a napot, mielőtt leereszkedne a városba.\nDélben: Parkoljon le a központban, hogy kényelmesen ugrálhasson a templomok, régi ipari helyszínek és modern látványosságok között.\nDélután: Tegyen egy rövid utat a vasútmodell-faluhoz, majd vegye az irányt nyugat felé, hogy felfedezze a híres véres hurka titkait.\nEste: Zárja tartalmas autós túráját egy pihentető és regeneráló kikapcsolódással a helyi egészség- és szabadidőklubban.",
         "ro": "Dimineața: Conduceți până la cercul de pietre antic pentru a vă începe ziua cu o notă de preistorie înainte de a coborî în oraș.\nPrânz: Parcați în centru pentru a vă deplasa confortabil între biserici, vechi situri industriale și atracții moderne.\nDupă-amiaza: Faceți o scurtă plimbare până la satul în miniatură și apoi mergeți spre vest pentru a descoperi secretele faimoasei budinci negre.\nSeara: Încheiați-vă turul auto plin de forță cu o sesiune relaxantă și revigorantă la clubul local de sănătate și agrement.",
         "en": "Morning: Drive up to the ancient stone circle to start your day with a touch of prehistory before descending into the town.\nMidday: Park in the center to comfortably hop between churches, old industrial sites, and modern attractions.\nAfternoon: Take a short drive to the model railway village and then head west to uncover the secrets of the famous black pudding.\nEvening: Conclude your robust driving tour with a relaxing and restorative session at the local health and leisure club."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Clonakilty auch bei Starkregen bequem zu erkunden. Beginnen Sie beim Steinkreis, wo Sie das Wetter aus dem Fenster beobachten können. In der Stadt ermöglichen kurze Wege zwischen den Parkplätzen und den Kirchen trockene Besichtigungen. Mittags und nachmittags bieten die Destillerie und das Modellbahndorf umfangreiche Indoor-Programme, während die Scheibenwischer draußen pausieren.",
+            "hu": "Autóval Clonakilty még heves esőzésben is kényelmesen felfedezhető. Kezdjen a kőkörnél, ahol az autóból is megcsodálhatja a tájat. A városban a parkolók és templomok közötti rövid távok száraz városnézést tesznek lehetővé. Délben és délután a lepárló és a vasútmodell falu bőséges fedett programot kínál, miközben odakint az ablaktörlők pihennek.",
+            "ro": "Cu mașina, Clonakilty poate fi explorat confortabil chiar și pe ploaie torențială. Începeți la cercul de pietre, admirând peisajul din mașină. În oraș, distanțele scurte între parcări și biserici permit vizite uscate. La prânz și după-amiaza, distileria și satul miniatural oferă programe variate la interior, în timp ce afară plouă.",
+            "en": "By car, Clonakilty can be explored comfortably even in heavy rain. Start at the stone circle, where you can admire the landscape from your vehicle. In town, short distances between parking lots and churches allow for dry sightseeing. At midday and in the afternoon, the distillery and model railway village offer plenty of indoor activities."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Steinkreis von Templebryan",
+                "hu": "Templebryan kőkör",
+                "ro": "Cercul de pietre Templebryan",
+                "en": "Templebryan Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Zugang; die Steine wirken bei grauem Himmel besonders monumental, ein schneller Sprung nach draußen für ein Foto lohnt sich.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a kövek szürke égbolt alatt különösen monumentálisnak hatnak, egy gyors fotó erejéig érdemes kiszállni.",
+                "ro": "Parcați cât mai aproape de intrare; pietrele par deosebit de monumentale sub cerul gri, merită să coborâți rapid pentru o fotografie între rafale.",
+                "en": "Park as close to the entrance as possible; the stones look particularly monumental under grey skies, and it's worth a quick jump out for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Kilgarriffe Church",
+                "hu": "Kilgarriffe Church",
+                "ro": "Kilgarriffe Church",
+                "en": "Kilgarriffe Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe des Eingangs; im Inneren der Kirche sind Sie völlig vor den Elementen geschützt und können die Ruhe genießen.",
+                "hu": "Használja a bejárat közeli parkolóhelyeket; a templom belsejében teljesen védve lesz az elemektől, és nyugodtan élvezheti a csendet és az építészetet.",
+                "ro": "Folosiți locurile de parcare din apropierea intrării; în interiorul bisericii veți fi complet protejat de elemente și vă puteți bucura de liniște.",
+                "en": "Use the parking spaces near the entrance; inside the church, you will be completely protected from the elements and can enjoy the peace and architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Deasys Old Brewery",
+                "hu": "Deasys Old Brewery",
+                "ro": "Deasys Old Brewery",
+                "en": "Deasys Old Brewery"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten guten Windschutz, wenn Sie vom Auto zur Besichtigung gehen; achten Sie beim Ein- und Ausparken auf große Pfützen.",
+                "hu": "A történelmi falak jó szélárnyékot adnak, miközben az autótól a látnivalóhoz sétál; a parkolásnál és kiszállásnál ügyeljen a mélyebb tócsákra az úttest szélén.",
+                "ro": "Zidurile istorice oferă un adăpost bun împotriva vântului în timp ce mergeți de la mașină la obiectiv; atenție la bălțile mari când parcați sau coborâți.",
+                "en": "The historical walls provide good wind protection as you walk from the car to the sight; watch out for deep puddles at the roadside when parking and exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Methodistenkirche Clonakilty",
+                "hu": "Clonakilty-i metodista templom",
+                "ro": "Biserica Metodistă din Clonakilty",
+                "en": "Clonakilty Methodist Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz bringt Sie in diese friedliche Oase; perfekt, um den stärksten Teil eines Regenschauers im Trockenen abzuwarten.",
+                "hu": "Egy rövid sprint a parkolótól, és már bent is van ebben a békés oázisban; tökéletes helyszín, hogy szárazon várja meg egy-egy hevesebb zápor végét.",
+                "ro": "Un sprint scurt de la parcare vă aduce în această oază de liniște; locul perfect pentru a aștepta trecerea unei averse mai torențiale la adăpost.",
+                "en": "A short sprint from the parking lot brings you into this peaceful oasis; perfect for waiting out the heaviest part of a rain shower in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Brennerei",
+                "hu": "Clonakilty Lepárló",
+                "ro": "Distileria Clonakilty",
+                "en": "Clonakilty Distillery"
+              },
+              "tip_5lang": {
+                "de": "Dank der guten Parkmöglichkeiten ist dies ein idealer Stopp; genießen Sie die Indoor-Tour und denken Sie an die 0-Promille-Grenze beim Fahren.",
+                "hu": "A jó parkolási lehetőség miatt ez ideális megálló esőben; élvezze a fedett túrát, de vezetés miatt a kóstolónál ügyeljen a zéró tolerancia elvére.",
+                "ro": "Datorită parcării bune, aceasta este o oprire ideală pe ploaie; bucurați-vă de turul interior, dar atenție la toleranța zero pentru alcool la volan.",
+                "en": "Thanks to the good parking facilities, this is an ideal stop in the rain; enjoy the indoor tour, but remember the zero-tolerance policy for driving."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Modelleisenbahndorf",
+                "hu": "West Cork Vasútmodell Falu",
+                "ro": "Satul în miniatură West Cork",
+                "en": "West Cork Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz und verbringen Sie Zeit im Café oder den Indoor-Ausstellungen, bis sich der Himmel vielleicht wieder etwas aufklärt.",
+                "hu": "Használja a tágas parkolót, és töltsön több időt a kávézóban vagy a belső kiállításokon, amíg az égbolt esetleg egy kicsit kitisztul odakint.",
+                "ro": "Folosiți parcarea spațioasă și petreceți timp în cafenea sau în expozițiile interioare până când cerul s-ar putea însenina puțin afară.",
+                "en": "Use the spacious parking lot and spend time in the café or indoor exhibitions until the sky hopefully clears up a bit outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Blackpudding Besucherzentrum",
+                "hu": "Clonakilty Blackpudding Látogatóközpont",
+                "ro": "Centrul de vizitatori Clonakilty Blackpudding",
+                "en": "Clonakilty Blackpudding Visitor Centre"
+              },
+              "tip_5lang": {
+                "de": "Fast das gesamte Erlebnis findet im Gebäude statt; decken Sie sich mit lokalen Köstlichkeiten ein, die Sie im trockenen Auto mit nach Hause nehmen können.",
+                "hu": "Szinte a teljes élmény épületen belül zajlik; vásároljon be helyi finomságokból, amelyeket a száraz autóban könnyen hazaszállíthat a nap végén.",
+                "ro": "Aproape întreaga experiență are loc în interior; cumpărați delicatese locale pe care le puteți transporta ușor cu mașina la finalul zilei.",
+                "en": "Almost the entire experience is indoors; stock up on local delicacies that you can easily carry home in your dry car at the end of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Park Health & Leisure Club",
+                "hu": "Clonakilty Park Health & Leisure Club",
+                "ro": "Clonakilty Park Health & Leisure Club",
+                "en": "Clonakilty Park Health & Leisure Club"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines Regentages; entspannen Sie im beheizten Pool oder in der Sauna, während es draußen weiter stürmt und regnet.",
+                "hu": "A tökéletes befejezés egy esős napra; relaxáljon a fűtött medencében vagy a szaunában, miközben odakint tovább tombol az őszi-téli eső.",
+                "ro": "Finalul perfect pentru o zi ploioasă; relaxați-vă în piscina încălzită sau la saună în timp ce afară ploaia continuă să cadă.",
+                "en": "The perfect end to a rainy day; relax in the heated pool or sauna while the autumn-winter rain continues to pour outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Clonakilty ist gemütlich und sicher. Beginnen Sie morgens beim Steinkreis, wo der Frost die Landschaft verzaubert. Den Rest des Tages verbringen Sie in den gut geheizten Museen und Kirchen der Stadt. Da es gegen 17:00 Uhr dunkel wird, bietet die Autofahrt zwischen den beleuchteten Sehenswürdigkeiten eine stimmungsvolle Atmosphäre, bevor Sie den Abend im Spa ausklingen lassen.",
+            "hu": "Egy téli autós túra Clonakiltyben kényelmes és biztonságos. Kezdje a reggelt a kőkörnél, ahol a dér varázslatossá teszi a tájat. A nap többi részét töltse a város jól fűtött múzeumaiban és templomaiban. Mivel 17:00 körül sötétedik, az autózás a kivilágított látnivalók között hangulatos élményt nyújt, mielőtt a napot a wellness központban zárná.",
+            "ro": "Un tur cu mașina iarna prin Clonakilty este confortabil și sigur. Începeți dimineața la cercul de pietre, unde chiciura transformă peisajul. Petreceți restul zilei în muzeele și bisericile bine încălzite. Deoarece se întunecă în jur de 17:00, condusul printre obiectivele luminate oferă o atmosferă plăcută înainte de spa.",
+            "en": "A winter car tour through Clonakilty is cozy and safe. Start your morning at the stone circle, where frost makes the landscape magical. Spend the rest of the day in the town's well-heated museums and churches. As it gets dark around 5:00 PM, driving between illuminated sights provides a lovely atmosphere before ending the day at the spa."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Steinkreis von Templebryan",
+                "hu": "Templebryan kőkör",
+                "ro": "Cercul de pietre Templebryan",
+                "en": "Templebryan Stone Circle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Heizung im Auto gut funktioniert, bevor Sie diesen exponierten Ort besuchen; die gefrorenen Gräser um die Steine sind ein tolles Fotomotiv.",
+                "hu": "Győződjön meg róla, hogy az autó fűtése jól működik, mielőtt ellátogat erre a kitett helyre; a kövek körüli fagyos fűszálak remek fotótémát szolgáltatnak.",
+                "ro": "Asigurați-vă că încălzirea mașinii funcționează bine înainte de a vizita acest loc expus; firele de iarbă înghețate din jurul pietrelor sunt un subiect foto excelent.",
+                "en": "Make sure your car's heater is working well before visiting this exposed site; the frozen blades of grass around the stones make for a great photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Kilgarriffe Church",
+                "hu": "Kilgarriffe Church",
+                "ro": "Kilgarriffe Church",
+                "en": "Kilgarriffe Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um die Zeit in der Kälte zu minimieren; die Innentemperatur kann niedrig sein, behalten Sie also Ihren Mantel für die Besichtigung an.",
+                "hu": "Parkoljon közvetlenül előtte, hogy minimalizálja a hidegben töltött időt; a benti hőmérséklet alacsony lehet, így érdemes a kabátot magán hagynia a nézelődéskor.",
+                "ro": "Parcați direct în față pentru a minimiza timpul petrecut în frig; temperatura interioară poate fi scăzută, deci păstrați haina pe dumneavoastră în timpul vizitei.",
+                "en": "Park directly in front to minimize time spent in the cold; the indoor temperature can be low, so it's best to keep your coat on during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Deasys Old Brewery",
+                "hu": "Deasys Old Brewery",
+                "ro": "Deasys Old Brewery",
+                "en": "Deasys Old Brewery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die historischen Fassaden aus dem warmen Auto heraus; im Winter wirkt das Mauerwerk durch die tiefstehende Sonne besonders texturreich.",
+                "hu": "Élvezze a történelmi homlokzatok látványát a meleg autóból; télen a falazat az alacsonyan járó nap fényében különösen texturáltnak és rusztikusnak hat.",
+                "ro": "Bucurați-vă de vederea fațadelor istorice din mașina caldă; iarna, zidăria pare deosebit de texturată în lumina soarelui care stă jos pe cer.",
+                "en": "Enjoy the view of the historical facades from your warm car; in winter, the masonry looks particularly textured in the low-lying sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Methodistenkirche Clonakilty",
+                "hu": "Clonakilty-i metodista templom",
+                "ro": "Biserica Metodistă din Clonakilty",
+                "en": "Clonakilty Methodist Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp für die Seele; beachten Sie die winterlichen Lichtverhältnisse im Inneren, die am frühen Nachmittag am schönsten sind.",
+                "hu": "Nyugodt megálló a léleknek; ügyeljen a benti téli fényviszonyokra, amelyek kora délután a legszebbek, meghitt hangulatot árasztva a térben.",
+                "ro": "O oprire liniștită pentru suflet; observați condițiile de lumină de iarnă din interior, care sunt cele mai frumoase la începutul după-amiezii.",
+                "en": "A calm stop for the soul; pay attention to the winter light conditions inside, which are most beautiful in the early afternoon, creating a cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Brennerei",
+                "hu": "Clonakilty Lepárló",
+                "ro": "Distileria Clonakilty",
+                "en": "Clonakilty Distillery"
+              },
+              "tip_5lang": {
+                "de": "Ideal für die kälteste Zeit des Tages; lassen Sie sich im Besucherzentrum aufwärmen, aber achten Sie darauf, dass der Fahrer keinen Alkohol konsumiert.",
+                "hu": "Ideális a nap leghidegebb szakaszára; melegedjen fel a látogatóközpontban, de ügyeljen rá, hogy a sofőr ne fogyasszon alkoholt a kóstoló során.",
+                "ro": "Ideal pentru cea mai rece perioadă a zilei; încălziți-vă în centrul de vizitatori, dar aveți grijă ca șoferul să nu consume alcool la degustare.",
+                "en": "Ideal for the coldest part of the day; warm up in the visitor centre, but make sure the driver does not consume any alcohol during the tasting."
+              }
+            },
+            {
+              "name": {
+                "de": "West Cork Modelleisenbahndorf",
+                "hu": "West Cork Vasútmodell Falu",
+                "ro": "Satul în miniatură West Cork",
+                "en": "West Cork Model Railway Village"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort, bevor es um 17:00 Uhr dunkel wird; die Miniaturzüge im Winterlicht zu sehen, ist ein magisches Erlebnis für die ganze Familie.",
+                "hu": "Látogassa meg ezt a helyet, mielőtt 17:00-kor besötétedik; a miniatűr vonatok látványa a téli fényekben varázslatos élmény az egész családnak.",
+                "ro": "Vizitați acest loc înainte de a se întuneca la 17:00; vederea trenulețelor miniaturale în lumina iernii este o experiență magică pentru toată familia.",
+                "en": "Visit this place before it gets dark at 5:00 PM; seeing the miniature trains in the winter light is a magical experience for the whole family."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Blackpudding Besucherzentrum",
+                "hu": "Clonakilty Blackpudding Látogatóközpont",
+                "ro": "Centrul de vizitatori Clonakilty Blackpudding",
+                "en": "Clonakilty Blackpudding Visitor Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein warmes Indoor-Ziel am späten Nachmittag; die interaktiven Displays sind eine gute Beschäftigung, wenn es draußen bereits dämmert.",
+                "hu": "Meleg beltéri célpont késő délutánra; az interaktív kijelzők remek elfoglaltságot jelentenek, amikor odakint már kezd szürkülni.",
+                "ro": "O destinație interioară călduroasă pentru după-amiaza târzie; afișajele interactive oferă o activitate bună când afară începe deja să se însereze.",
+                "en": "A warm indoor destination for late afternoon; the interactive displays provide a good activity when it's already starting to get dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Clonakilty Park Health & Leisure Club",
+                "hu": "Clonakilty Park Health & Leisure Club",
+                "ro": "Clonakilty Park Health & Leisure Club",
+                "en": "Clonakilty Park Health & Leisure Club"
+              },
+              "tip_5lang": {
+                "de": "Nach einem kühlen Wintertag gibt es nichts Besseres als das warme Wasser des Pools; genießen Sie den Luxus eines beheizten Spas zum Abschluss.",
+                "hu": "Egy hűvös téli nap után nincs is jobb, mint a medence meleg vize; élvezze a fűtött wellness részleg luxusát a nap tökéletes lezárásaként.",
+                "ro": "După o zi rece de iarnă, nimic nu este mai bun decât apa caldă a piscinei; bucurați-vă de luxul unui spa încălzit pentru o încheiere perfectă.",
+                "en": "After a chilly winter day, there is nothing better than the warm water of the pool; enjoy the luxury of a heated spa for the perfect conclusion."
+              }
+            }
+          ]
+        }
       }
     }
   }

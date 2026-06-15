@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi kultúra felfedezésével a nyüzsgő művészeti galériában. Délben sétáljon át a festői utcákon, és csodálja meg a történelmi mecseteket. A délutánt a tengerparti hatalmas szigeti erőd felfedezésének szentelheti. Fejezze be a napot a part menti romoknál, és élvezze a csodálatos égei-tengeri naplementét.",
         "ro": "Începeți dimineața scufundându-vă în cultura locală la galeria de artă vibrantă. La prânz, plimbați-vă pe străzile pitorești pentru a admira frumoasele moschei istorice. După-amiaza este dedicată explorării fortăreței masive de pe malul mării. Încheiați ziua mergând spre ruinele de coastă pentru a prinde un apus magnific peste Marea Egee.",
         "en": "Start your morning immersing yourself in local culture at the vibrant art gallery. By midday, wander through the quaint streets to admire the beautiful historic mosques. The afternoon is dedicated to exploring the massive island fortress by the sea. Conclude your day walking towards the coastal ruins to catch a magnificent sunset over the Aegean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt gemütlich in der Galerie, während der Regen gegen die Fenster prasselt. Mittags bieten die historischen Moscheen trockenen Unterschlupf und stille Einkehr. Am Nachmittag erkunden wir die Festung trotz grauer Wolken, wobei die nassen Mauern eine mystische Atmosphäre verströmen. Den Abschluss bildet ein Spaziergang zu den Ruinen, wenn der Regen hoffentlich in ein sanftes Nieseln übergeht.",
+            "hu": "A napot a galériában indítjuk, ahol a művészet védelmet nyújt az eső elől. Délben a mecsetek fedett oszlopcsarnokai alatt pihenünk meg, figyelve az óvárosi utcák macskakövein megcsillanó vizet. Délután a vár masszív falai között kalandozunk, ügyelve a csúszós lépcsőkre. Az estét a szélmalmoknál zárjuk, ahol a felhős égbolt alatt az Égei-tenger látványa borongósan is lenyűgöző.",
+            "ro": "Începem ziua la galerie, un loc perfect pentru a admira arta în timp ce afară plouă. La prânz, moscheile istorice oferă un adăpost uscat și o atmosferă liniștită. După-amiaza explorăm castelul Bozcaada, unde zidurile umede capătă o nuanță dramatică sub cerul gri. Încheiem ziua la morile de vânt, sperând că ploaia se va opri pentru a vedea marea în nuanțe de oțel.",
+            "en": "The day starts cozy in the art gallery while rain taps on the windows. At noon, the historic mosques provide dry shelter and a peaceful atmosphere. In the afternoon, we explore the castle despite the grey clouds, where the wet walls exude a mystical vibe. We finish with a walk to the ruined windmills, hoping the rain turns into a light drizzle for a dramatic view of the Aegean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rengigül Sanat Galerisi",
+                "hu": "Rengigül Sanat Galerisi",
+                "ro": "Rengigül Sanat Galerisi",
+                "en": "Rengigül Sanat Galerisi"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie lokale Kunstwerke in diesem charmanten Gebäude; die Galerie ist der ideale Ort, um dem Regen zu entfliehen und die kreative Seele der Insel trocken zu genießen.",
+                "hu": "Csodáld meg a helyi művészek alkotásait ebben a bájos épületben; a galéria tökéletes menedék a zápor elől, miközben szárazon élvezheted a sziget kreatív energiáit.",
+                "ro": "Admirați operele artiștilor locali în această clădire fermecătoare; galeria este refugiul ideal împotriva ploii, permițându-vă să explorați cultura insulei la adăpost.",
+                "en": "Admire works by local artists in this charming building; the gallery is a perfect refuge from the rain, letting you enjoy the island's creative soul while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Alay Bey Moschee",
+                "hu": "Alay Bey Mecset",
+                "ro": "Moscheea Alay Bey",
+                "en": "Alay Bey Cami"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen Details des Minaretts aus rotem Stein; das überdachte Portal bietet Schutz vor Güssen, während Sie die osmanische Architektur in aller Ruhe studieren.",
+                "hu": "Figyeld meg a vörös kőből épült minaret finom részleteit; a fedett bejárat védelmet nyújt az eső ellen, miközben nyugodtan tanulmányozhatod az oszmán építészet remekét.",
+                "ro": "Observați detaliile fine ale minaretului din piatră roșie; portalul acoperit oferă protecție împotriva ploii în timp ce studiați arhitectura otomană în liniște deplină.",
+                "en": "Observe the fine details of the red stone minaret; the covered entrance provides shelter from showers while you study the Ottoman architecture in total tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Köprülü Mehmet Paşa Moschee",
+                "hu": "Köprülü Mehmet Paşa Mecset",
+                "ro": "Moscheea Köprülü Mehmet Paşa",
+                "en": "Köprülü Mehmet Paşa Cami"
+              },
+              "tip_5lang": {
+                "de": "Diese zentrale Moschee besticht durch ihre schlichte Eleganz; nutzen Sie den trockenen Innenraum für einen Moment der Besinnung, bevor Sie Ihren Weg durch die nassen Gassen fortsetzen.",
+                "hu": "Ez a központi mecset egyszerű eleganciájával hódít; használd ki a száraz belső teret egy kis elcsendesedésre, mielőtt folytatnád utadat a vizes óvárosi utcákon.",
+                "ro": "Această moschee centrală impresionează prin eleganța sa simplă; folosiți interiorul uscat pentru un moment de liniște înainte de a continua drumul pe străzile umede.",
+                "en": "This central mosque impresses with its simple elegance; use the dry interior for a moment of reflection before continuing your walk through the wet old town streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Bozcaada",
+                "hu": "Bozcaada Erőd",
+                "ro": "Castelul Bozcaada",
+                "en": "Bozcaada Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mächtigen Bastionen mit Blick auf den Hafen; tragen Sie Schuhe mit gutem Grip, da die historischen Steine bei Regen extrem rutschig werden können.",
+                "hu": "Fedezd fel a hatalmas bástyákat a kikötőre néző kilátással; viselj tapadós talpú cipőt, mert a történelmi kövek az esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Explorați bastioanele impunătoare cu vedere spre port; purtați încălțăminte cu aderență bună, deoarece pietrele istorice pot deveni extrem de alunecoase pe ploaie.",
+                "en": "Explore the massive bastions with views over the harbor; wear shoes with good grip, as the historical stones can become extremely slippery when wet with rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aburga Ahmet Dede Grabmal",
+                "hu": "Aburga Ahmet Dede Türbéje",
+                "ro": "Mormântul Aburga Ahmet Dede",
+                "en": "Aburga Ahmet Dede Türbesi"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Legenden nahe der Küste; suchen Sie kurz unter den Bäumen Schutz und spüren Sie die spirituelle Ruhe dieses kleinen Monuments inmitten der stürmischen See.",
+                "hu": "Legendákkal övezett hely a parthoz közel; keress rövid menedéket a fák alatt, és érezd át a monumentális nyugalmát a háborgó tenger szomszédságában.",
+                "ro": "Un loc plin de legende aproape de coastă; căutați un scurt adăpost sub copaci și simțiți liniștea spirituală a monumentului lângă marea agitată de ploaie.",
+                "en": "A place of legends near the coast; seek brief shelter under the trees and feel the spiritual calm of this monument next to the stormy Aegean Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıkık Yel Değirmeni",
+                "hu": "Yıkık Yel Değirmeni",
+                "ro": "Yıkık Yel Değirmeni",
+                "en": "Yıkık Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Die verfallene Mühle bietet eine dramatische Kulisse; halten Sie Ihre Kamera unter einem Regenschirm bereit, um das Spiel der Wellen an der felsigen Küste einzufangen.",
+                "hu": "A romos malom drámai látványt nyújt az esőben; tartsd készenlétben a fényképezőgépedet az ernyő alatt, hogy megörökítsd a szikláknak csapódó hullámokat.",
+                "ro": "Moara ruinată oferă un peisaj dramatic pe ploaie; pregătiți camera sub umbrelă pentru a surprinde valurile care se sparg de coasta stâncoasă a insulei.",
+                "en": "The ruined mill offers a dramatic backdrop in the rain; keep your camera ready under an umbrella to capture the waves crashing against the rocky coast."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen auf Bozcaada beginnt in der wohlig warmen Galerie. Mittags spazieren wir durch die stillen Gassen zu den Moscheen, weit weg vom Sommertrubel. Der Nachmittag gehört der windgepeitschten Festung, von der man eine klare Sicht auf das tiefblaue Meer hat. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir die Windmühlen rechtzeitig für ein kurzes, intensives Lichtspiel.",
+            "hu": "A hűvös téli reggel a galéria barátságos melegében indul. Délben a csendes, turistáktól mentes utcákon sétálunk a mecsetek felé, élvezve a sziget nyugodt arcát. Délután a vár szeles falaidról csodáljuk a kristálytiszta téli kilátást. Mivel a nap már 17:00 körül lebukik, időben érkezünk a szélmalmokhoz, hogy elkapjuk az utolsó fényeket a korai sötétedés előtt.",
+            "ro": "O dimineață răcoroasă de iarnă începe în căldura galeriei de artă. La prânz, ne plimbăm prin liniștea deplină a străzilor către moschei, departe de agitația verii. După-amiaza aparține castelului bătut de vânt, oferind o vizibilitate clară asupra mării albastre. Deoarece soarele apune în jurul orei 17:00, ajungem la morile de vânt la timp pentru spectacolul final de lumină.",
+            "en": "A chilly winter morning on Bozcaada begins in the cozy warmth of the gallery. At noon, we walk through quiet, tourist-free streets to the mosques, enjoying the island's peaceful side. The afternoon is for the windswept castle, offering clear views over the deep blue sea. Since the sun sets around 17:00, we reach the windmills just in time for the final light before the early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rengigül Sanat Galerisi",
+                "hu": "Rengigül Sanat Galerisi",
+                "ro": "Rengigül Sanat Galerisi",
+                "en": "Rengigül Sanat Galerisi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison; die beheizte Galerie bietet eine wunderbare Gelegenheit, lokale Kultur ohne Eile und in angenehmer Wärme zu entdecken.",
+                "hu": "Élvezd a holtszezon nyugalmát; a fűtött galéria remek lehetőséget nyújt a helyi kultúra felfedezésére sietség nélkül, kellemes melegben.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului; galeria încălzită oferă o oportunitate minunată de a descoperi cultura locală fără grabă, la căldură.",
+                "en": "Enjoy the tranquility of the off-season; the heated gallery offers a wonderful opportunity to discover local culture without haste in pleasant warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Alay Bey Moschee",
+                "hu": "Alay Bey Mecset",
+                "ro": "Moscheea Alay Bey",
+                "en": "Alay Bey Cami"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt der kleine Hof besonders besinnlich; bewundern Sie das Mauerwerk im weichen Licht der tiefstehenden Sonne und tragen Sie einen warmen Schal gegen den Wind.",
+                "hu": "Télen a kis udvar különösen békés; csodáld meg a falazatot az alacsonyan járó nap puha fényében, és viselj meleg sálat a tengeri szél ellen.",
+                "ro": "Iarna, curtea mică pare deosebit de liniștită; admirați zidăria în lumina blândă a soarelui de iarnă și purtați o eșarfă groasă împotriva vântului.",
+                "en": "In winter, the small courtyard feels especially peaceful; admire the stonework in the soft low sunlight and wear a warm scarf against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Köprülü Mehmet Paşa Moschee",
+                "hu": "Köprülü Mehmet Paşa Mecset",
+                "ro": "Moscheea Köprülü Mehmet Paşa",
+                "en": "Köprülü Mehmet Paşa Cami"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort, wenn die Insel im Winterschlaf liegt; die Stille im Inneren ist perfekt, um der Kälte draußen kurz zu entkommen.",
+                "hu": "Látogasd meg ezt a történelmi helyet, amikor a sziget téli álmot alszik; a benti csend tökéletes arra, hogy rövid időre elmenekülj a kinti hideg elől.",
+                "ro": "Vizitați acest loc plin de istorie în timp ce insula doarme; liniștea din interior este perfectă pentru a scăpa pentru scurt timp de frigul de afară.",
+                "en": "Visit this historic site while the island is in winter hibernation; the silence inside is perfect for briefly escaping the cold air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Bozcaada",
+                "hu": "Bozcaada Erőd",
+                "ro": "Castelul Bozcaada",
+                "en": "Bozcaada Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festung frühzeitig, da sie im Winter früher schließt; die Aussichtspunkte sind oft windig, bieten aber eine unglaublich klare Fernsicht.",
+                "hu": "Fedezd fel az erődöt korán, mert télen korábban zár; a kilátópontok gyakran szelesek, de hihetetlenül tiszta panorámát nyújtanak a tengerre.",
+                "ro": "Explorați cetatea devreme, deoarece se închide mai devreme iarna; punctele de observație sunt vântoase, dar oferă o vizibilitate incredibil de clară.",
+                "en": "Explore the fortress early as it closes sooner in winter; the lookout points are often windy but offer incredibly clear views across the Aegean."
+              }
+            },
+            {
+              "name": {
+                "de": "Aburga Ahmet Dede Grabmal",
+                "hu": "Aburga Ahmet Dede Türbéje",
+                "ro": "Mormântul Aburga Ahmet Dede",
+                "en": "Aburga Ahmet Dede Türbesi"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für einen kurzen Halt; die kahlen Bäume im Winter verleihen dem Grabmal eine melancholische, aber würdevolle Atmosphäre direkt am Meer.",
+                "hu": "Magányos hely egy rövid megállásra; a kopár téli fák melankolikus, de méltóságteljes hangulatot kölcsönöznek a síremléknek közvetlenül a tengerparton.",
+                "ro": "Un loc solitar pentru o scurtă oprire; copacii golași de iarnă conferă mormântului o atmosferă melancolică, dar demnă, chiar lângă mare.",
+                "en": "A lonely spot for a quick stop; the bare winter trees give the tomb a melancholic but dignified atmosphere right by the seashore."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıkık Yel Değirmeni",
+                "hu": "Yıkık Yel Değirmeni",
+                "ro": "Yıkık Yel Değirmeni",
+                "en": "Yıkık Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hierher, um den Sonnenuntergang zu erleben; die winterliche Dämmerung färbt den Himmel oft in spektakuläre Violetttöne.",
+                "hu": "Érkezz meg ide 17:00 előtt, hogy lásd a naplementét; a téli szürkület gyakran látványos lila színekre festi az eget a romos malom felett.",
+                "ro": "Ajungeți aici înainte de ora 17:00 pentru a vedea apusul; amurgul de iarnă colorează adesea cerul în nuanțe spectaculoase de violet deasupra morii.",
+                "en": "Arrive here before 17:00 to catch the sunset; the winter twilight often paints the sky in spectacular violet tones over the ruined mill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggelt egy frissítő tekeréssel a fenséges erődnél. Délben kerekezzen ki az ősi nekropolisz és az ikonikus hegytetői szélmalmok felfedezéséhez. A délután egy hálás emelkedővel teszi próbára a sziget legmagasabb csúcsánál, a Göztepénél. Végül guruljon le a történelmi romos szélmalmok felé, hogy megpihenjen, ahogy az este leszáll a látványos tengerparti tájra.",
         "ro": "Începeți dimineața cu o plimbare răcoritoare, pornind de la castelul maiestuos. La prânz, pedalați pentru a descoperi vechea necropolă și morile de vânt emblematice de pe deal. După-amiaza vă provoacă cu o ascensiune plină de satisfacții spre cel mai înalt vârf al insulei, la Göztepe. În cele din urmă, coborâți spre morile de vânt ruinate istoric pentru a vă relaxa odată cu seara.",
         "en": "Begin your morning with a refreshing ride starting at the majestic castle. By midday, pedal out to discover the ancient necropolis and iconic hilltop windmills. The afternoon challenges you with a rewarding ascent to the island's highest peak at Göztepe. Finally, roll down towards the historic ruined windmills to relax as the evening descends over the spectacular coastal landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour an der Festung, wo die nassen Steine glänzen. Mittags radeln wir vorsichtig durch den Ort zur Nekropole, wobei wir Pfützen auf den unbefestigten Wegen meiden. Am Nachmittag führen uns die Wege zu den Windmühlen und zum Göztepe-Hügel, wo die kühle, feuchte Luft die Sinne schärft. Wir beenden die Tour an der Ruine, während der Wind den Regen peitscht.",
+            "hu": "Az eső ellenére a várnál kezdjük a biciklitúrát, ahol a vizes kövek fényesen csillognak. Délben óvatosan tekerünk a nekropolisz felé, kerülgetve a pocsolyákat a földutakon. Délután az út a szélmalmokhoz és a Göztepe dombra vezet, ahol a hűvös, párás levegő felfrissít. A túrát a romos malomnál zárjuk, miközben a szél korbácsolja az esőcseppeket a tenger felett.",
+            "ro": "În ciuda ploii, începem turul cu bicicleta la castel, unde pietrele umede strălucesc. La prânz, pedalăm cu grijă spre necropolă, evitând bălțile de pe drumurile neasfaltate. După-amiaza, traseul ne duce la morile de vânt și pe dealul Göztepe, unde aerul rece și umed împrospătează simțurile. Încheiem tura la moara ruinată, în timp ce vântul biciuiește ploaia deasupra mării.",
+            "en": "Despite the rain, we start our cycling tour at the fortress where the wet stones glisten. At noon, we cycle carefully toward the necropolis, avoiding puddles on the unpaved paths. In the afternoon, the trails lead to the windmills and Göztepe Hill, where the cool, damp air sharpens the senses. We end the tour at the ruined mill while the wind whips the rain across the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg Bozcaada",
+                "hu": "Bozcaada Erőd",
+                "ro": "Castelul Bozcaada",
+                "en": "Bozcaada Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher am Eingang ab; die Außenmauern bieten einen dramatischen Anblick im Regen, aber die Wege im Inneren können rutschig sein.",
+                "hu": "Zárd le biztonságosan a biciklidet a bejáratnál; a külső falak drámai látványt nyújtanak esőben, de a belső utak csúszósak lehetnek.",
+                "ro": "Parcați bicicleta în siguranță la intrare; zidurile exterioare oferă o priveliște dramatică pe ploaie, dar căile interioare pot fi alunecoase.",
+                "en": "Park your bike securely at the entrance; the outer walls offer a dramatic sight in the rain, but the interior paths can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Alay Bey Moschee",
+                "hu": "Alay Bey Mecset",
+                "ro": "Moscheea Alay Bey",
+                "en": "Alay Bey Cami"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Pause im Trockenen; die schmalen Gassen rund um die Moschee erfordern beim Radeln auf nassem Kopfsteinpflaster volle Konzentration.",
+                "hu": "Használd ki a megállót egy rövid száraz pihenőre; a mecset körüli szűk utcák nagy koncentrációt igényelnek a vizes macskaköveken való tekeréskor.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză la uscat; străzile înguste din jurul moscheii necesită concentrare maximă la pedalat pe pavajul umed.",
+                "en": "Use this stop for a short dry break; the narrow streets around the mosque require full concentration when cycling on wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropol Alanı",
+                "hu": "Nekropolisz",
+                "ro": "Necropola",
+                "en": "Nekropol Alanı"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Gräber wirken bei grauem Himmel besonders mystisch; meiden Sie bei starkem Regen die schlammigen Abschnitte des Geländes mit Ihrem Fahrrad.",
+                "hu": "Az antik sírok szürke égbolt alatt különösen misztikusak; heves esőzéskor kerüld el a terep sáros részeit a kerékpároddal.",
+                "ro": "Mormintele antice par deosebit de mistice sub cerul gri; în caz de ploaie puternică, evitați secțiunile noroioase ale terenului cu bicicleta.",
+                "en": "The ancient tombs look especially mystical under grey skies; avoid the muddy sections of the site with your bike during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Windmühlen",
+                "hu": "Régi Szélmalmok",
+                "ro": "Vechile Mori de Vânt",
+                "en": "Old Windmills"
+              },
+              "tip_5lang": {
+                "de": "Ein exponierter Ort, an dem der Wind oft den Regen herantreibt; halten Sie den Lenker fest und genießen Sie das raue Küstenpanorama von Ihrem Sattel aus.",
+                "hu": "Exponált hely, ahol a szél gyakran korbácsolja az esőt; fogd erősen a kormányt, és élvezd a nyers tengerparti panorámát a nyeregből.",
+                "ro": "Un loc expus unde vântul aduce adesea ploaia; țineți bine ghidonul și bucurați-vă de panorama aspră a coastei direct din șaua bicicletei.",
+                "en": "An exposed spot where the wind often drives the rain; keep a firm grip on the handlebars and enjoy the raw coastal panorama from your saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Einzelne Windmühle",
+                "hu": "Magányos Szélmalom",
+                "ro": "Moara de Vânt Solitară",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp bietet wenig Schutz, ist aber ideal für ein schnelles Foto; achten Sie auf die Bremswirkung Ihrer nassen Felgen beim Anhalten auf dem Hügel.",
+                "hu": "Ez a megálló kevés védelmet nyújt, de ideális egy gyors fotóhoz; ügyelj a vizes felnik féktávolságára, amikor megállsz a dombon.",
+                "ro": "Această oprire oferă puțin adăpost, dar este ideală pentru o fotografie rapidă; atenție la distanța de frânare pe jantele umede când opriți pe deal.",
+                "en": "This stop offers little shelter but is ideal for a quick photo; be mindful of the braking distance on wet rims when stopping on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Göztepe Hügel",
+                "hu": "Göztepe Hegy",
+                "ro": "Dealul Göztepe",
+                "en": "Göztepe"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengend, aber die Wolkenformationen über dem Meer sind die Mühe wert; fahren Sie die Serpentinen besonders vorsichtig hinunter.",
+                "hu": "A felfelé menet esőben fárasztó, de a tenger feletti felhők játéka megéri a fáradtságot; a szerpentineken lefelé tekerj különösen óvatosan.",
+                "ro": "Urcarea este obositoare pe ploaie, dar formațiunile de nori de deasupra mării merită efortul; coborâți serpentinele cu maximă precauție.",
+                "en": "The climb is strenuous in the rain, but the cloud formations over the sea are worth the effort; cycle down the serpentines with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıkık Yel Değirmeni",
+                "hu": "Yıkık Yel Değirmeni",
+                "ro": "Yıkık Yel Değirmeni",
+                "en": "Yıkık Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an dieser atmosphärischen Ruine; wischen Sie Ihr Fahrrad nach der Fahrt in der feuchten Meeresluft gut ab, um Korrosion zu vermeiden.",
+                "hu": "Zárd a túrát ennél a hangulatos romnál; a párás tengeri levegő után alaposan töröld át a biciklidet, hogy megelőzd a korróziót.",
+                "ro": "Încheiați tura la această ruină atmosferică; ștergeți bine bicicleta după mersul prin aerul umed și sărat pentru a preveni coroziunea.",
+                "en": "End your tour at this atmospheric ruin; wipe down your bike thoroughly after riding in the damp sea air to prevent any corrosion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintertag beginnt mit einer Entdeckungstour an der Festung. Mittags radeln wir durch die ruhigen Weinberge zur Nekropole, wobei der scharfe Wind für frische Energie sorgt. Der Nachmittag führt uns zu den Windmühlen und hinauf zum Göztepe, wo uns eine weite, klare Sicht erwartet. Wir müssen uns beeilen, da das Licht bereits gegen 16:30 Uhr schwindet und die Tour an der Ruine endet.",
+            "hu": "A napsütéses, de hideg téli nap az erőd felfedezésével indul. Délben a nyugodt szőlőskerteken keresztül tekerünk a nekropoliszhoz, miközben a csípős szél friss energiát ad. Délután a szélmalmokhoz és a Göztepe dombra megyünk, ahol tiszta kilátás vár ránk. Sietnünk kell, mert a fények már 16:30 körül fogynak, és a túra a romos malomnál ér véget.",
+            "ro": "O zi de iarnă însorită, dar rece, începe cu explorarea cetății. La prânz, pedalăm prin podgoriile liniștite spre necropolă, vântul tăios oferind o energie proaspătă. După-amiaza ne duce la morile de vânt și sus pe Göztepe, unde ne așteaptă o vizibilitate vastă. Trebuie să ne grăbim, deoarece lumina scade deja în jurul orei 16:30, iar tura se termină la ruină.",
+            "en": "A sunny but cold winter day starts with an exploration of the fortress. At noon, we cycle through quiet vineyards to the necropolis, with the biting wind providing fresh energy. The afternoon leads us to the windmills and up Göztepe, where vast, clear views await. We must hurry as light fades by 16:30, and the tour concludes at the ruined mill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Burg Bozcaada",
+                "hu": "Bozcaada Erőd",
+                "ro": "Castelul Bozcaada",
+                "en": "Bozcaada Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klaren Wintermorgende für Fotos von den Zinnen; tragen Sie winddichte Handschuhe, da der Metalllenker Ihres Fahrrads sehr kalt werden kann.",
+                "hu": "Használd ki a tiszta téli reggeleket a bástyákról készített fotókhoz; viselj szélálló kesztyűt, mert a kerékpár fém kormánya nagyon lehűlhet.",
+                "ro": "Profită de diminețile clare de iarnă pentru fotografii de pe ziduri; purtați mănuși rezistente la vânt, deoarece ghidonul metalic poate fi foarte rece.",
+                "en": "Take advantage of the clear winter mornings for photos from the battlements; wear windproof gloves as your bike's metal handlebars can get very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Alay Bey Moschee",
+                "hu": "Alay Bey Mecset",
+                "ro": "Moscheea Alay Bey",
+                "en": "Alay Bey Cami"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp in der leeren Altstadt; genießen Sie die Sonne an der Südmauer der Moschee, um sich für die nächste Etappe Ihrer Radtour aufzuwärmen.",
+                "hu": "Csendes megálló az üres óvárosban; élvezd a napsütést a mecset déli falánál, hogy felmelegedj a biciklitúra következő szakasza előtt.",
+                "ro": "O oprire liniștită în orașul vechi pustiu; bucurați-vă de soare lângă zidul sudic al moscheii pentru a vă încălzi înainte de următoarea etapă a traseului.",
+                "en": "A quiet stop in the empty old town; enjoy the sunshine by the south wall of the mosque to warm up for the next stage of your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropol Alanı",
+                "hu": "Nekropolisz",
+                "ro": "Necropola",
+                "en": "Nekropol Alanı"
+              },
+              "tip_5lang": {
+                "de": "Das weite Gelände bietet im Winter eine melancholische Schönheit; achten Sie beim Radeln auf den gefrorenen Boden, der an schattigen Stellen glatt sein kann.",
+                "hu": "A tágas terület télen melankolikus szépséget áraszt; tekerés közben ügyelj a fagyott talajra, amely az árnyékos részeken csúszós maradhat.",
+                "ro": "Terenul vast oferă o frumusețe melancolică iarna; aveți grijă la solul înghețat în timp ce pedalați, deoarece poate fi alunecos în zonele umbrite.",
+                "en": "The vast grounds offer a melancholic beauty in winter; watch out for frozen ground while cycling, as it can remain slick in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Windmühlen",
+                "hu": "Régi Szélmalmok",
+                "ro": "Vechile Mori de Vânt",
+                "en": "Old Windmills"
+              },
+              "tip_5lang": {
+                "de": "Die Windmühlen stehen im starken Nordwind; ein idealer Ort für eine kurze Pause im Windschatten einer Mauer, bevor Sie zum höchsten Punkt der Insel weiterfahren.",
+                "hu": "A szélmalmok az erős északi szélben állnak; ideális hely egy rövid pihenőre a falak szélárnyékában, mielőtt továbbtekernél a sziget legmagasabb pontjára.",
+                "ro": "Morile de vânt stau în bătaia vântului puternic de nord; un loc ideal pentru o scurtă pauză la adăpostul unui zid înainte de a urca spre cel mai înalt punct.",
+                "en": "The windmills stand in the strong north wind; an ideal spot for a short break in the lee of a wall before cycling to the island's highest point."
+              }
+            },
+            {
+              "name": {
+                "de": "Einzelne Windmühle",
+                "hu": "Magányos Szélmalom",
+                "ro": "Moara de Vânt Solitară",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die einsame Mühle wirkt im klaren Winterlicht fast wie gemalt; halten Sie sich wegen der frühen Dämmerung nicht zu lange auf, um sicher zurückzukommen.",
+                "hu": "A magányos malom a tiszta téli fényben szinte festményszerű; a korai szürkület miatt ne időzz túl sokat, hogy biztonságban érj vissza a városba.",
+                "ro": "Moara solitară pare pictată în lumina clară de iarnă; nu zăboviți prea mult din cauza amurgului timpuriu, pentru a vă întoarce în siguranță.",
+                "en": "The lonely mill looks almost painted in the clear winter light; don't stay too long due to the early dusk to ensure a safe return to town."
+              }
+            },
+            {
+              "name": {
+                "de": "Göztepe Hügel",
+                "hu": "Göztepe Hegy",
+                "ro": "Dealul Göztepe",
+                "en": "Göztepe"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt bietet im Winter eine fantastische Fernsicht bis zu den Nachbarinseln; ziehen Sie eine extra Schicht Kleidung für die rasante Abfahrt an.",
+                "hu": "A legmagasabb pontról télen fantasztikus kilátás nyílik a szomszédos szigetekre; vegyél fel egy extra réteg ruhát a gyors és hideg lejtmenethez.",
+                "ro": "Cel mai înalt punct oferă o vizibilitate fantastică până la insulele vecine; puneți un strat suplimentar de haine pentru coborârea rapidă și rece.",
+                "en": "The highest point offers fantastic visibility to neighboring islands in winter; put on an extra layer of clothing for the fast and chilly descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıkık Yel Değirmeni",
+                "hu": "Yıkık Yel Değirmeni",
+                "ro": "Yıkık Yel Değirmeni",
+                "en": "Yıkık Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss vor dem Sonnenuntergang um 17:00 Uhr; die Kälte des Abends lässt sich bei der schnellen Rückfahrt in den Hafen leicht vergessen.",
+                "hu": "Tökéletes zárópont az 17:00 körüli naplemente előtt; az esti hideget könnyen elfelejted a kikötőbe vezető gyors visszaúton.",
+                "ro": "Un punct final perfect înainte de apusul de la ora 17:00; frigul serii va fi uitat rapid în timpul întoarcerii accelerate spre port.",
+                "en": "A perfect final stop before the 17:00 sunset; the evening chill will be easily forgotten during the quick ride back to the harbor."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje a reggelt egy látványos autózással a sziget legmagasabb pontjára a páratlan kilátásért. Délben ereszkedjen le a part felé, hogy megcsodálja a magányos szélmalmokat és az ősi régészeti lelőhelyeket. A délutánt a grandiózus tengerparti erőd lenyűgöző építészetének szentelheti. Fejezze be szigeti körútját este a hangulatos utcák és egy inspiráló művészeti galéria felfedezésével.",
         "ro": "Începeți dimineața cu o plimbare spectaculoasă până la cel mai înalt punct de pe insulă pentru vederi inegalabile. La prânz, coborâți spre coastă pentru a admira morile de vânt solitare și siturile arheologice antice. După-amiaza este rezervată arhitecturii impunătoare a marelui castel de la malul mării. Încheiați călătoria seara, explorând străzile fermecătoare și o galerie de artă.",
         "en": "Start your morning with a spectacular drive up to the highest point on the island for unmatched views. By midday, descend towards the coast to marvel at solitary windmills and ancient archaeological sites. The afternoon is reserved for the imposing architecture of the grand seaside castle. Wrap up your island road trip exploring charming streets and an inspiring art gallery in the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Komfort des Autos erkunden wir Bozcaada, beginnend mit der nebligen Aussicht vom Göztepe. Mittags fahren wir zu den antiken Stätten, während der Regen die Landschaft in sattes Grün taucht. Der Nachmittag gehört der Festung und der Galerie, wo wir trocken in die Geschichte eintauchen können. Wir beenden die Tour gemütlich, während wir vom Auto aus den Wellen an der Küste zuschauen.",
+            "hu": "Az autó kényelmében fedezzük fel Bozcaadát, kezdve a Göztepe ködös panorámájával. Délben az antik emlékhelyekhez hajtunk, miközben az eső mélyzöldre festi a tájat. A délután a váré és a galériáé, ahol szárazon merülhetünk el a történelemben. A túrát kényelmesen zárjuk, az autóból figyelve a tengerparti szikláknak csapódó hullámokat.",
+            "ro": "Explorăm Bozcaada în confortul mașinii, începând cu panorama cețoasă de pe Göztepe. La prânz conducem spre siturile antice, în timp ce ploaia transformă peisajul într-un verde intens. După-amiaza aparține cetății și galeriei, unde ne putem delecta cu istoria la adăpost. Încheiem turul relaxați, privind din mașină valurile care se sparg de mal.",
+            "en": "In the comfort of the car, we explore Bozcaada, starting with the misty panoramic views from Göztepe. At noon, we drive to the ancient sites while the rain turns the landscape deep green. The afternoon is for the fortress and the gallery, where we can dive into history while staying dry. we finish the tour comfortably, watching the waves crash against the shore from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Göztepe Hügel",
+                "hu": "Göztepe Hegy",
+                "ro": "Dealul Göztepe",
+                "en": "Göztepe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Rundumblick direkt aus dem Auto, wenn der Regen zu stark wird; die Wolkenspiele über der Ägäis sind bei diesem Wetter besonders fotogen.",
+                "hu": "Élvezd a körpanorámát közvetlenül az autóból, ha túl erősen esne; az Égei-tenger feletti felhők játéka ilyenkor különösen fotogén.",
+                "ro": "Bucurați-vă de panorama circulară direct din mașină dacă plouă prea tare; spectacolul norilor deasupra Egeei este extrem de fotogenic pe acest tip de vreme.",
+                "en": "Enjoy the 360-degree view directly from the car if the rain gets too heavy; the play of clouds over the Aegean is particularly photogenic in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Einzelne Windmühle",
+                "hu": "Magányos Szélmalom",
+                "ro": "Moara de Vânt Solitară",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Mühle für einen kurzen Fotostopp; der Kontrast zwischen dem weißen Mauerwerk und dem dunklen Regenweg ist ein tolles Motiv.",
+                "hu": "Parkolj közel a malomhoz egy gyors fotómegállóra; a fehér falak és a sötét, esőáztatta út kontrasztja remek fotótéma.",
+                "ro": "Parcați aproape de moară pentru o scurtă oprire foto; contrastul dintre zidăria albă și drumul întunecat de ploaie este un motiv excelent pentru poze.",
+                "en": "Park close to the windmill for a quick photo stop; the contrast between the white stonework and the dark, rain-soaked road makes for a great subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropol Alanı",
+                "hu": "Nekropolisz",
+                "ro": "Necropola",
+                "en": "Nekropol Alanı"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zufahrt, um das Gelände ohne lange Fußwege im Regen zu sehen; die antiken Steine leuchten im nassen Zustand in kräftigen Farben.",
+                "hu": "Használd ki az autóút közelségét, hogy nagy gyaloglás nélkül lásd a területet az esőben; az antik kövek vizesen élénkebb színekben pompáznak.",
+                "ro": "Folosiți drumul de acces pentru a vedea situl fără a merge mult prin ploaie; pietrele antice capătă culori mai intense atunci când sunt umede.",
+                "en": "Use the access road to see the site without long walks in the rain; the ancient stones glow with more vibrant colors when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Bozcaada",
+                "hu": "Bozcaada Erőd",
+                "ro": "Castelul Bozcaada",
+                "en": "Bozcaada Castle"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt am Hafen; nutzen Sie Regenpausen für einen Gang auf die Mauern, um den stürmischen Blick auf das Meer zu genießen.",
+                "hu": "Parkolóhelyet közvetlenül a kikötőnél találsz; használd ki az esőszüneteket egy sétára a falakon, hogy élvezhesd a viharos tengeri kilátást.",
+                "ro": "Găsiți locuri de parcare chiar lângă port; profitați de pauzele dintre reprizele de ploaie pentru o plimbare pe ziduri și o vedere spectaculoasă.",
+                "en": "You can find parking spots right by the harbor; use the breaks in the rain for a walk on the walls to enjoy the stormy sea views."
+              }
+            },
+            {
+              "name": {
+                "de": "Aburga Ahmet Dede Grabmal",
+                "hu": "Aburga Ahmet Dede Türbéje",
+                "ro": "Mormântul Aburga Ahmet Dede",
+                "en": "Aburga Ahmet Dede Türbesi"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt direkt an der Straße; bewundern Sie dieses spirituelle Denkmal durch die Fensterscheiben, während der Regen die Küste peitscht.",
+                "hu": "Gyors megálló közvetlenül az út mentén; csodáld meg ezt a spirituális emlékművet az ablakon keresztül, miközben az eső veri a partot.",
+                "ro": "O oprire rapidă chiar lângă drum; admirați acest monument spiritual prin geamul mașinii în timp ce ploaia biciuiește țărmul insulei.",
+                "en": "A quick stop right by the road; admire this spiritual monument through the car windows while the rain lashes against the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Rengigül Sanat Galerisi",
+                "hu": "Rengigül Sanat Galerisi",
+                "ro": "Rengigül Sanat Galerisi",
+                "en": "Rengigül Sanat Galerisi"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Trockenen ausklingen zu lassen; parken Sie in der Nähe und tauchen Sie ein in die warme, inspirierende Welt der Kunst.",
+                "hu": "Tökéletes hely a nap szárazon történő lezárásához; parkolj a közelben, és merülj el a művészet meleg, inspiráló világában az eső elől menekülve.",
+                "ro": "Locul perfect pentru a încheia ziua la adăpost; parcați în apropiere și scufundați-vă în lumea caldă și plină de inspirație a artei locale.",
+                "en": "The perfect place to end the day in the dry; park nearby and immerse yourself in the warm, inspiring world of local art away from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen wir die winterliche Stille der Insel, angefangen bei der glasklaren Sicht vom Göztepe. Mittags erkunden wir die abgelegenen Windmühlen und die Nekropole, ohne uns um den kalten Wind sorgen zu müssen. Am Nachmittag besuchen wir die Festung und wärmen uns anschließend in der Galerie auf. Wir beenden die Fahrt pünktlich zum Sonnenuntergang um 17:00 Uhr am Hafen.",
+            "hu": "Autóval élvezzük a sziget téli csendjét, kezdve a Göztepe hegyről nyíló kristálytiszta kilátással. Délben a távoli szélmalmokat és a nekropoliszt keressük fel, nem törődve a hideg széllel. Délután a várat látogatjuk meg, majd a galériában melegszünk fel. A túrát pontosan az 17:00-kor esedékes naplementekor zárjuk a kikötőben.",
+            "ro": "Cu mașina ne bucurăm de liniștea hibernală a insulei, începând cu vizibilitatea de cristal de pe Göztepe. La prânz explorăm morile de vânt izolate și necropola, fără a ne face griji pentru vântul rece. După-amiaza vizităm cetatea și ne încălzim ulterior la galerie. Încheiem drumul exact la apusul de la ora 17:00, în zona portului.",
+            "en": "By car, we enjoy the island's winter silence, starting with the crystal-clear views from Göztepe Hill. At noon, we explore the remote windmills and the necropolis without worrying about the cold wind. In the afternoon, we visit the fortress and then warm up in the gallery. We conclude the drive exactly at the 17:00 sunset in the harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Göztepe Hügel",
+                "hu": "Göztepe Hegy",
+                "ro": "Dealul Göztepe",
+                "en": "Göztepe"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Sicht oft so klar, dass man bis zu den Dardanellen sehen kann; genießen Sie das Panorama aus der beheizten Kabine Ihres Autos.",
+                "hu": "Télen a kilátás gyakran olyan tiszta, hogy a Dardanellákig is ellátni; élvezd a panorámát az autód fűtött utasteréből a szeles csúcson.",
+                "ro": "Iarna, vizibilitatea este adesea atât de clară încât se pot vedea Dardanelele; bucurați-vă de panoramă din cabina încălzită a mașinii dumneavoastră.",
+                "en": "In winter, visibility is often so clear that you can see all the way to the Dardanelles; enjoy the panorama from the heated cabin of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Einzelne Windmühle",
+                "hu": "Magányos Szélmalom",
+                "ro": "Moara de Vânt Solitară",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle steht einsam im Winterwind; nutzen Sie das Auto als Windschutz für ein schnelles Foto vor der weiten, menschenleeren Küstenlandschaft.",
+                "hu": "A malom magányosan áll a téli szélben; használd az autót szélfogóként egy gyors fotóhoz a tágas, néptelen tengerparti táj előtt.",
+                "ro": "Moara stă solitară în vântul de iarnă; folosiți mașina ca paravan pentru o fotografie rapidă în fața peisajului de coastă pustiu.",
+                "en": "The mill stands lonely in the winter wind; use the car as a windbreak for a quick photo in front of the vast, deserted coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropol Alanı",
+                "hu": "Nekropolisz",
+                "ro": "Necropola",
+                "en": "Nekropol Alanı"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Gräber in der Ruhe der Nebensaison; die tiefstehende Wintersonne wirft lange Schatten, die dem Ort eine besondere Tiefe verleihen.",
+                "hu": "Fedezd fel az antik sírokat a holtszezon nyugalmában; az alacsonyan járó téli nap hosszú árnyékai különleges mélységet adnak a helynek.",
+                "ro": "Explorați mormintele antice în liniștea extrasezonului; soarele jos de iarnă aruncă umbre lungi care conferă locului o profunzime aparte.",
+                "en": "Explore the ancient tombs in the quiet of the off-season; the low winter sun casts long shadows that give the site a special depth."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Bozcaada",
+                "hu": "Bozcaada Erőd",
+                "ro": "Castelul Bozcaada",
+                "en": "Bozcaada Castle"
+              },
+              "tip_5lang": {
+                "de": "Die mächtige Festung ist im Winter fast menschenleer; parken Sie direkt am Kai und nehmen Sie sich Zeit für einen windigen, aber klärenden Rundgang.",
+                "hu": "A hatalmas erőd télen szinte néptelen; parkolj közvetlenül a rakparton, és szánj időt egy szeles, de gondolatébresztő sétára a falak mentén.",
+                "ro": "Cetatea impunătoare este aproape pustie iarna; parcați chiar pe chei și faceți-vă timp pentru o plimbare vântoasă, dar revigorantă pe ziduri.",
+                "en": "The massive fortress is almost deserted in winter; park right by the quay and take time for a windy but clarifying walk along the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Aburga Ahmet Dede Grabmal",
+                "hu": "Aburga Ahmet Dede Türbéje",
+                "ro": "Mormântul Aburga Ahmet Dede",
+                "en": "Aburga Ahmet Dede Türbesi"
+              },
+              "tip_5lang": {
+                "de": "Ein besinnlicher Ort für einen kurzen Stopp; die kühle Seeluft am Denkmal lässt sich am besten genießen, wenn man weiß, dass das warme Auto direkt daneben wartet.",
+                "hu": "Meghitt hely egy rövid megállóra; az emlékműnél belélegzett hűvös tengeri levegő után jól fog esni a közvetlenül mellette várakozó meleg autó.",
+                "ro": "Un loc liniștit pentru o scurtă oprire; aerul rece de la monument este mai ușor de suportat știind că mașina caldă vă așteaptă chiar lângă.",
+                "en": "A reflective spot for a quick stop; the cool sea air at the monument is best enjoyed knowing your warm car is waiting right next to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Rengigül Sanat Galerisi",
+                "hu": "Rengigül Sanat Galerisi",
+                "ro": "Rengigül Sanat Galerisi",
+                "en": "Rengigül Sanat Galerisi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der beheizten Galerie; die warme Atmosphäre und die lokale Kunst bilden den perfekten Kontrast zur winterlichen Kälte der Insel.",
+                "hu": "Zárd a napot a fűtött galériában; a meleg hangulat és a helyi művészet tökéletes kontrasztot alkot a sziget téli hidegével.",
+                "ro": "Încheiați ziua în galeria încălzită; atmosfera caldă și arta locală formează contrastul perfect cu frigul hibernal de pe insulă.",
+                "en": "End the day in the heated gallery; the warm atmosphere and local art provide the perfect contrast to the island's winter chill."
+              }
+            }
+          ]
+        }
       }
     }
   }

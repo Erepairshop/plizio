@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Mondello déli részének felfedezésével, csodálja meg a helyi templomot, és sétáljon a homokos tengerparton. Délben merüljön el a helyi kultúrában a szabadtéri színháznál. A délután egy festői sétából áll észak felé a sziklás partig. Fejezze be a napot azzal, hogy elmerül a Capo Gallo természetvédelmi terület érintetlen vadonjában, élvezve a természet nyugalmát.",
         "ro": "Începeți dimineața explorând partea de sud din Mondello, admirând biserica locală și plimbându-vă pe plaja cu nisip. La prânz, aprofundați cultura la teatrul în aer liber și luați prânzul. După-amiaza constă într-o plimbare pitorească spre nord, pe coasta stâncoasă de la Fossa del Gallo. Încheiați ziua scufundându-vă în sălbăticia neatinsă a rezervației naturale Capo Gallo.",
         "en": "Start your morning exploring the southern side of Mondello, admiring the local church and strolling along the sandy beach. By midday, delve into local culture at the open-air theater and grab a seaside lunch. Your afternoon consists of a scenic walk north to the rocky coast of Fossa del Gallo. Conclude the day immersing yourself in the untouched wilderness of the Capo Gallo reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der historischen Kirche, bevor der Schauer zunimmt. Mittags schlendern Sie mit einem robusten Regenschirm durch die nebligen, nassen Straßen von Mondello. Nachmittags genießen Sie die dramatische Aussicht auf das Naturreservat von befestigten Wegen aus, um rutschige Felsen zu meiden. Beenden Sie den Tag früh an einem gemütlichen und trockenen Ort.",
+            "hu": "Kezdje az esős reggelt a történelmi templom nyugalmában, mielőtt igazán rázendít. Délben sétáljon Mondello párás, tengerparti utcáin egy masszív esernyővel felszerelkezve. Délután élvezze a természetvédelmi terület drámai látványát a kiépített utakon maradva, elkerülve a rendkívül csúszós sziklákat. Zárja a napot korán egy meleg, fedett helyen, ahonnan nézheti az esőt.",
+            "ro": "Începeți dimineața ploioasă explorând biserica istorică, ferit de aversele puternice. La prânz, plimbați-vă pe străzile de coastă din Mondello la adăpostul unei umbrele rezistente. După-amiaza, admirați priveliștile dramatice ale rezervației naturale de pe aleile pavate, evitând stâncile alunecoase. Încheiați ziua devreme într-un loc confortabil, cald și complet uscat.",
+            "en": "Start your rainy morning exploring the historic church before the showers peak. By noon, stroll through the misty coastal streets of Mondello under a sturdy umbrella. In the afternoon, enjoy the dramatic, moody views of the natural reserve from paved paths, avoiding extremely slippery rocks. Wrap up the day early, finding a cozy indoor spot as the coastal rain continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maria Santissima Assunta",
+                "hu": "Maria Santissima Assunta",
+                "ro": "Maria Santissima Assunta",
+                "en": "Maria Santissima Assunta"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Innenarchitektur im Trockenen; es ist ein perfekter, kulturell reicher Schutz vor dem starken, ungemütlichen Morgenregen.",
+                "hu": "Csodálja meg a gyönyörű belső építészetet teljesen szárazon; kiváló és kulturálisan is gazdag menedékként szolgál a heves reggeli esőzések elől.",
+                "ro": "Admirați arhitectura interioară superbă stând la uscat; un refugiu perfect și bogat cultural pentru a scăpa de ploaia matinală puternică și rece.",
+                "en": "Admire the beautiful interior architecture while staying perfectly dry; it serves as an excellent and culturally rich shelter from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondello",
+                "hu": "Mondello",
+                "ro": "Mondello",
+                "en": "Mondello"
+              },
+              "tip_5lang": {
+                "de": "Der neblige Strand hat im Regen einen einzigartigen, wilden Charme, aber bleiben Sie unbedingt auf der befestigten Promenade, um Schlamm zu meiden.",
+                "hu": "A párás tengerpartnak különös, vad varázsa van esőben, de mindenképp maradjon a burkolt sétányon, hogy a cipője tiszta és viszonylag száraz maradjon.",
+                "ro": "Plaja învăluită în ceață are un farmec sălbatic unic pe ploaie, dar rămâneți pe promenada pavată pentru a evita zonele cu nisip noroios și ud.",
+                "en": "The misty beach has a unique, wild charm in the heavy rain, but definitely stay on the paved promenade to keep your shoes clean and relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Vito Zappallà",
+                "hu": "Teatro Vito Zappallà",
+                "ro": "Teatro Vito Zappallà",
+                "en": "Teatro Vito Zappallà"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das regennasse Freilufttheater von außen; halten Sie eine gute Regenjacke bereit, da es hier in der unmittelbaren Nähe wenig Schutz gibt.",
+                "hu": "Nézze meg a szabadtéri színház eső áztatta külsejét; készüljön vízálló kabáttal, mert nagyon kevés a fedett, esőtől védett hely a közvetlen közelben.",
+                "ro": "Vedeți exteriorul teatrului în aer liber spălat de ploaie; pregătiți o jachetă impermeabilă bună, deoarece adăpostul este foarte limitat în apropiere.",
+                "en": "See the open-air theater's exterior washed by the rain; have a waterproof jacket ready as there is very limited physical cover in the immediate area."
+              }
+            },
+            {
+              "name": {
+                "de": "Fossa del Gallo",
+                "hu": "Fossa del Gallo",
+                "ro": "Fossa del Gallo",
+                "en": "Fossa del Gallo"
+              },
+              "tip_5lang": {
+                "de": "Die dramatischen Wellen, die gegen die Küste schlagen, sind spektakulär anzusehen, aber achten Sie extrem auf die nassen und sehr rutschigen Felsen.",
+                "hu": "A partnak csapódó drámai hullámok lenyűgöző látványt nyújtanak, de rendkívüli módon ügyeljen a lépéseire a vizes és nagyon csúszós sziklafelületeken.",
+                "ro": "Valurile dramatice care se izbesc de coastă sunt spectaculoase, dar aveți mare grijă la suprafețele de stâncă extrem de umede și foarte alunecoase.",
+                "en": "The dramatic waves crashing against the rugged coast are spectacular to watch, but pay extreme attention to your footing on the wet, slippery rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Capo Gallo",
+                "hu": "Riserva Naturale Orientata Capo Gallo",
+                "ro": "Riserva Naturale Orientata Capo Gallo",
+                "en": "Riserva Naturale Orientata Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, da unbefestigte Pfade extrem schlammig werden; die dunkle Atmosphäre des Reservats ist bei grauem Himmel wunderschön.",
+                "hu": "Maradjon a főutakon, mivel a földes ösvények sártengerré válnak; a rezervátum borongós, vad hangulata egészen lenyűgöző a szürke, viharos ég alatt.",
+                "ro": "Rămâneți pe cărările principale, deoarece traseele de pământ devin noroioase; atmosfera sălbatică a rezervației e superbă sub cerul gri și furtunos.",
+                "en": "Stick to the main asphalt paths as dirt trails become extremely muddy; the moody, wild atmosphere of the reserve is beautiful under a grey, stormy sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen mit einem Spaziergang zur historischen Kirche. Mittags genießen Sie die leere Promenade von Mondello, warm eingepackt gegen die kühle Meeresbrise. Nachmittags erkunden Sie die rauen Küstenpfade des Naturreservats. Da die Sonne gegen 17:00 Uhr untergeht und die Temperaturen sinken, sollten Sie Ihr Outdoor-Abenteuer früh beenden.",
+            "hu": "Kezdje a csípős téli reggelt egy frissítő sétával a történelmi templomhoz. Délben élvezze a néptelen Mondello sétány szépségét, meleg rétegekbe burkolózva a hűvös tengeri szellő ellen. Délután fedezze fel a természetvédelmi terület vadregényes ösvényeit. Mivel a nap 17:00 körül lenyugszik és a levegő lehűl, fejezze be korán a szabadtéri kalandot.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare revigorantă către biserica istorică. La prânz, bucurați-vă de promenada liberă din Mondello, îmbrăcați bine împotriva brizei reci a mării. După-amiaza, explorați traseele de coastă sălbatice ale rezervației naturale. Odată cu apusul soarelui în jur de 17:00, temperaturile scad, așa că încheiați aventura devreme.",
+            "en": "Start your brisk winter morning with a refreshing walk to the historic church. By noon, enjoy the uncrowded beauty of the Mondello promenade, wrapped in warm layers against the crisp sea breeze. In the afternoon, explore the rugged coastal trails of the nature reserve. With the sun setting around 17:00 and temperatures dropping, finish your outdoor adventure early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maria Santissima Assunta",
+                "hu": "Maria Santissima Assunta",
+                "ro": "Maria Santissima Assunta",
+                "en": "Maria Santissima Assunta"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher, stiller Ort, um sich etwas aufzuwärmen und die Architektur abseits der schneidend kalten Winterluft am frühen Morgen zu bewundern.",
+                "hu": "Békés, csendes hely, ahol kicsit felmelegedhet és megcsodálhatja az építészetet, tökéletesen védve a metszően hideg kora reggeli téli levegőtől.",
+                "ro": "Un loc liniștit și pașnic pentru a vă încălzi ușor și a admira arhitectura departe de aerul tăios și foarte rece al dimineții timpurii de iarnă.",
+                "en": "A peaceful, quiet spot to warm up slightly and admire the interior architecture away from the biting and crisp winter morning air outside the doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondello",
+                "hu": "Mondello",
+                "ro": "Mondello",
+                "en": "Mondello"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am ruhigen Winterstrand; ziehen Sie sich unbedingt im Zwiebellook an, da der Küstenwind scharf sein kann, aber die Leere atemberaubend ist.",
+                "hu": "Sétáljon a békés téli parton; öltözzön vastag, meleg rétegekbe, mert a tengeri parti szél éles lehet, de a teljesen üres partszakasz lélegzetelállító.",
+                "ro": "Plimbați-vă pe plaja liniștită de iarnă; îmbrăcați-vă în straturi groase, deoarece vântul de coastă poate fi aspru, dar țărmul gol este pur și uimitor.",
+                "en": "Walk the peaceful winter beach; layer up well with thermal clothing as the coastal wind can be sharp, but the completely empty shores are breathtaking."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Vito Zappallà",
+                "hu": "Teatro Vito Zappallà",
+                "ro": "Teatro Vito Zappallà",
+                "en": "Teatro Vito Zappallà"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht erzeugt starke, schöne Schatten auf dem Gebäude; bringen Sie dicke Handschuhe mit, wenn Sie in der kühlen Brise fotografieren.",
+                "hu": "Az alacsony téli fények éles, szép árnyékokat vetnek az épületre; mindenképp hozzon vastag kesztyűt, ha fényképezni szeretne a hűvös parti szellőben.",
+                "ro": "Lumina joasă de iarnă creează umbre ascuțite pe clădire; aduceți mănuși groase dacă intenționați să faceți fotografii în briza rece a mării.",
+                "en": "The low winter light creates stark, beautiful shadows on the building; make sure to bring thick gloves as you take photos in the chilly coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fossa del Gallo",
+                "hu": "Fossa del Gallo",
+                "ro": "Fossa del Gallo",
+                "en": "Fossa del Gallo"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort für dramatische Winterfotografie, aber die rauen Küstenfelsen können morgens frostig sein, also tragen Sie sehr griffige Schuhe.",
+                "hu": "Kiváló helyszín drámai téli fotózáshoz, de a durva parti sziklák kora reggel fagyosak és csúszósak lehetnek, ezért viseljen jó tapadású túracipőt.",
+                "ro": "Un loc excelent pentru fotografia dramatică de iarnă, dar stâncile aspre de coastă pot fi înghețate dimineața, deci purtați încălțăminte cu aderență.",
+                "en": "A great spot for dramatic winter photography, but the rugged coastal rocks can be frosty or slippery in the morning, so wear heavily grippy boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Capo Gallo",
+                "hu": "Riserva Naturale Orientata Capo Gallo",
+                "ro": "Riserva Naturale Orientata Capo Gallo",
+                "en": "Riserva Naturale Orientata Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht extrem früh unter, starten Sie Ihre lange Wanderung also vor 14:30 Uhr, um vor der plötzlichen Dunkelheit und Kälte zurück zu sein.",
+                "hu": "A téli nap rendkívül korán nyugszik le, ezért kezdje a túrát legkésőbb 14:30-kor, hogy még a hirtelen sötétedés és az erős lehűlés előtt visszaérjen.",
+                "ro": "Soarele apune extrem de devreme iarna, așa că începeți drumeția înainte de 14:30 pentru a vă întoarce în siguranță înainte de întuneric și frig brusc.",
+                "en": "The winter sun sets extremely early, so ensure you start your hike before 14:30 to safely return before the sudden darkness and freezing cold set in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros utazása a színház kulturális látnivalóival kezdődik, majd végigteker a nyüzsgő Mondello strandon. Dél körül pedálozzon észak felé, hogy felfedezze a zord partvonalat a Fossa del Gallónál. A délután továbbviszi a történelmi Torre Amarihoz és az ikonikus világítótoronyhoz. Zárja aktív napját egy lenyűgöző panorámás kilátóponton, ahonnan kilátás nyílik az egész öbölre.",
         "ro": "Călătoria cu bicicleta începe cu informații culturale la teatru, înainte de a pedala de-a lungul plajei vibrante Mondello. Pe la prânz, mergeți spre nord pentru a descoperi coasta la Fossa del Gallo. După-amiaza vă duce mai departe către istoricul Torre Amari și farul iconic. Încheiați ziua activă la un punct de belvedere panoramic uimitor cu vedere la întregul golf superb.",
         "en": "Your cycling journey begins with cultural insights at the Teatro Vito Zappallà before cruising along the vibrant Mondello beach. Around midday, pedal northwards to discover the rugged coastline at Fossa del Gallo. The afternoon takes you further out to the historical Torre Amari and the iconic Faro. End your active day at a stunning panoramic viewpoint overlooking the entire beautiful gulf."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Radtag am Theater mit gut sichtbarer, wasserdichter Kleidung. Mittags radeln Sie über die nasse Promenade von Mondello, bremsen Sie sanft auf den rutschigen Straßen. Nachmittags erkunden Sie historische Türme und Panoramen, bleiben aber unbedingt auf befestigten Wegen, um tiefen Schlamm zu vermeiden. Fahren Sie vor der Dämmerung wegen schlechter Sicht zurück.",
+            "hu": "Kezdje az esős kerékpározást a színháznál, jól látható, vízálló felszerelésben. Délben tekerjen végig Mondello vizes sétányán, finoman fékezve a rendkívül csúszós utakon. Délután keresse fel a történelmi tornyokat és a panorámát, de maradjon szigorúan az aszfalton a sár elkerülése végett. Induljon vissza a szállásra még alkonyat előtt a romló látási viszonyok miatt.",
+            "ro": "Începeți ziua ploioasă de ciclism la teatru, purtând echipament impermeabil cu vizibilitate ridicată. La prânz, pedalați pe promenada udă din Mondello, frânând ușor pe drumurile foarte alunecoase. După-amiaza, vizitați turnurile istorice și panoramele, dar rămâneți strict pe rutele pavate pentru a evita noroiul adânc. Întoarceți-vă înainte de lăsarea serii din cauza vizibilității scăzute.",
+            "en": "Begin your rainy cycling day at the theater, wearing high-visibility waterproof gear. By noon, ride along Mondello's wet promenade, braking very gently on the slippery coastal roads. In the afternoon, tackle the historic towers and natural panoramas, but stick strictly to paved routes to avoid deep mud. Head back before dusk as visibility drops significantly in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Vito Zappallà",
+                "hu": "Teatro Vito Zappallà",
+                "ro": "Teatro Vito Zappallà",
+                "en": "Teatro Vito Zappallà"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Bremsen gründlich vor der Abfahrt; der glatte, gepflasterte Bereich um das Theater kann bei Nässe überraschend rutschig sein.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket; a színház körüli sima, burkolt tér kövezete nedvesen meglehetősen csúszós és balesetveszélyes lehet.",
+                "ro": "Verificați frânele foarte bine înainte de plecare; zona pavată și netedă din jurul teatrului poate fi surprinzător de alunecoasă când este udă.",
+                "en": "Thoroughly check your brakes before setting off; the smooth, paved public area around the theater can be surprisingly slick and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondello",
+                "hu": "Mondello",
+                "ro": "Mondello",
+                "en": "Mondello"
+              },
+              "tip_5lang": {
+                "de": "Im Regen die Promenade entlang zu radeln ist erfrischend, aber achten Sie auf tiefe Pfützen am Rand und nutzen Sie unbedingt ein gutes Schutzblech.",
+                "hu": "A sétányon esőben tekerni igazán frissítő élmény, de nagyon figyeljen a széleken lévő mély pocsolyás szakaszokra, és használjon jó sárvédőt.",
+                "ro": "Ciclismul pe promenadă pe timp de ploaie e revigorant, dar fiți atenți la porțiunile pline de apă de pe margine și folosiți neapărat o aripă bună.",
+                "en": "Cycling the long promenade in the rain is refreshing, but watch out for waterlogged sections on the edges and ensure you have a quality mudguard."
+              }
+            },
+            {
+              "name": {
+                "de": "Fossa del Gallo",
+                "hu": "Fossa del Gallo",
+                "ro": "Fossa del Gallo",
+                "en": "Fossa del Gallo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und gehen Sie zu Fuß weiter; der andauernde Regen macht diese unebenen Felsen an der Küste extrem tückisch zum Fahren.",
+                "hu": "Biztonságosan parkolja le a kerékpárt és sétáljon óvatosan; a folyamatos eső rendkívül veszélyessé és csúszóssá teszi ezeket a parti sziklákat.",
+                "ro": "Parcați bicicleta în siguranță și mergeți pe jos cu mare atenție; ploaia continuă face ca aceste stânci inegale de coastă să fie extrem de periculoase.",
+                "en": "Park your bike safely and walk carefully from here; the continuous rain makes these rugged, uneven coastal rocks extremely treacherous and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Amari",
+                "hu": "Torre Amari",
+                "ro": "Torre Amari",
+                "en": "Torre Amari"
+              },
+              "tip_5lang": {
+                "de": "Der historische Wachturm wirkt vor grauen Gewitterwolken imposant; decken Sie Ihren Sattel und Ihr Gepäck ab, da es hier absolut keinen Schutz gibt.",
+                "hu": "A történelmi őrtorony impozáns a sötétszürke viharfelhők előtt; gondosan takarja le a nyerget és a csomagját, mert a közelben egyáltalán nincs menedék.",
+                "ro": "Turnul istoric de pază arată impunător pe fundalul norilor gri de furtună; acoperiți-vă șaua și bagajele deoarece nu există absolut niciun adăpost aici.",
+                "en": "The historic watchtower looks incredibly imposing against grey storm clouds; keep your saddle covered as there's absolutely no natural shelter nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Capo Gallo",
+                "hu": "Faro di Capo Gallo",
+                "ro": "Faro di Capo Gallo",
+                "en": "Faro di Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm ist ein fantastischer, leuchtender Blickfang im Regen. Achten Sie auf nasses, sehr rutschiges Moos auf dem asphaltierten Weg dorthin.",
+                "hu": "A világítótorony fénye fantasztikus, drámai fókuszpont a szakadó esőben. Nagyon ügyeljen a nedves, csúszós mohára a megközelítési útvonal aszfaltján.",
+                "ro": "Farul este un punct focal luminos fantastic în ploaia deasă. Aveți mare grijă la mușchiul ud și foarte alunecos de pe cărarea pavată de acces.",
+                "en": "The lighthouse acts as a fantastic, glowing focal point in the heavy rain. Beware of wet, incredibly slippery moss on the paved approaching path."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorama",
+                "hu": "Panorama",
+                "ro": "Panorama",
+                "en": "Panorama"
+              },
+              "tip_5lang": {
+                "de": "Starker Regen schränkt die weite Sicht ein, aber die brechenden Wellen direkt unter Ihnen sind wunderschön. Lassen Sie Ihre Fahrradlichter eingeschaltet.",
+                "hu": "Az eső erősen korlátozza a távoli kilátást, de a közvetlenül lenti vad hullámtörés lenyűgöző. A rossz látási viszonyok miatt hagyja bekapcsolva a lámpát.",
+                "ro": "Ploaia abundentă limitează vizibilitatea la distanță, dar valurile care se sparg chiar dedesubt sunt superbe. Lăsați luminile bicicletei mereu aprinse.",
+                "en": "Heavy rain severely limits the distant visibility, but the aggressively crashing waves directly below are intensely beautiful. Keep your bike lights on."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterradtour in dicker, winddichter Kleidung gegen die beißende Morgenkälte. Mittags genießen Sie die völlig leeren Küstenstraßen von Mondello und halten sich durch ein gleichmäßiges, sportliches Tempo warm. Nachmittags bringt der stetige Anstieg zu den Türmen und Aussichtspunkten Ihren Kreislauf richtig in Schwung. Planen Sie unbedingt, die Tour vor 16:30 Uhr zu beenden.",
+            "hu": "Kezdje a téli bringázást vastag, szélálló rétegekkel, hogy kizárja a csípős reggeli hideget. Délben élvezze Mondello teljesen üres parti útjait, egyenletes, sportos tempóval melegen tartva magát. Délután a tornyokhoz és kilátókhoz vezető folyamatos emelkedő felpezsdíti a vérkeringést. Feltétlenül tervezze a tekerés befejezését 16:30 előtt, mert utána a hőmérséklet hirtelen zuhan.",
+            "ro": "Începeți plimbarea de iarnă cu bicicleta în straturi groase rezistente la vânt pentru a bloca frigul dimineții. La prânz, bucurați-vă de drumurile complet libere din Mondello, pedalând constant pentru a vă încălzi. După-amiaza, urcarea continuă spre turnuri și puncte de belvedere vă va pune sângele în mișcare puternic. Asigurați-vă că terminați traseul înainte de ora 16:30.",
+            "en": "Kick off your winter cycling trip wrapped in thick, windproof layers to block the biting morning chill. By noon, enjoy the completely empty coastal roads of Mondello, maintaining a steady, sporty pace to keep warm. In the afternoon, the continuous climb to the historical towers and viewpoints will keep your blood pumping. Make absolutely sure to finish your ride before 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Vito Zappallà",
+                "hu": "Teatro Vito Zappallà",
+                "ro": "Teatro Vito Zappallà",
+                "en": "Teatro Vito Zappallà"
+              },
+              "tip_5lang": {
+                "de": "Ein kühler Startpunkt an der Küste; behalten Sie Ihre dicken Thermohandschuhe unbedingt an, während Sie die frostige Winterarchitektur fotografieren.",
+                "hu": "Csípős kiindulópont a tengerparton; tartsa magán a vastag termokesztyűt, miközben megörökíti a zord, fagyos téli építészetet a hideg levegőn.",
+                "ro": "Un punct de plecare răcoros pe coastă; păstrați-vă mănușile termice groase pe mâini în timp ce captați arhitectura de iarnă înghețată și sobră.",
+                "en": "A brisk starting point right on the coast; keep your thick thermal gloves on as you capture the stark, frosty winter architecture in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondello",
+                "hu": "Mondello",
+                "ro": "Mondello",
+                "en": "Mondello"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Winterstrand ist wunderschön zu befahren, aber die Meeresbrise ist eiskalt; ein warmer Schal oder Gesichtsschutz wird hier dringend empfohlen.",
+                "hu": "Az elhagyatott téli part mentén csodás tekerni, de a tengeri szél fagyos; egy vastag csősál vagy arcvédő viselete itt tekerés közben erősen ajánlott.",
+                "ro": "Plaja pustie de iarnă e minunată pentru pedalat, dar briza mării este absolut înghețată; un fular cald sau o protecție pentru față este foarte recomandată.",
+                "en": "The deserted winter beach is beautiful to ride past, but the persistent sea breeze is freezing; a warm neck gaiter or face covering is highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Fossa del Gallo",
+                "hu": "Fossa del Gallo",
+                "ro": "Fossa del Gallo",
+                "en": "Fossa del Gallo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefährlichen Morgenfrost auf den stark schattigen Abschnitten, bevor Sie absteigen. Die wilde Winterdünung an den Felsen ist beeindruckend.",
+                "hu": "Erősen figyeljen a veszélyes reggeli dérre az árnyékos parti útszakaszokon, mielőtt leszállna. A téli tenger hatalmas hullámzása igazán lenyűgöző látvány.",
+                "ro": "Atenție la bruma matinală periculoasă pe porțiunile de coastă puternic umbrite înainte de a coborî. Valurile uriașe de iarnă care se sparg sunt impresionante.",
+                "en": "Watch out for dangerous morning frost on the heavily shaded coastal road sections before dismounting. The huge winter swell crashing against rocks is impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Amari",
+                "hu": "Torre Amari",
+                "ro": "Torre Amari",
+                "en": "Torre Amari"
+              },
+              "tip_5lang": {
+                "de": "Die sportliche Bergauffahrt wird Sie gut aufwärmen, aber die völlig exponierte Gegend um den alten Turm wird in den rauen Wintermonaten extrem windig.",
+                "hu": "A sportos, felfelé tartó tekerés kellemesen felmelegíti, de a régi torony körüli teljesen nyílt terület a zord téli hónapokban rendkívül és tartósan szeles.",
+                "ro": "Urcarea sportivă vă va încălzi bine, dar zona complet deschisă din jurul vechiului turn devine extrem de vântoasă în lunile aspre de iarnă.",
+                "en": "The sporty uphill ride will warm you up well, but the completely exposed, open area around the old tower gets extremely windy during the harsh winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Capo Gallo",
+                "hu": "Faro di Capo Gallo",
+                "ro": "Faro di Capo Gallo",
+                "en": "Faro di Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft lange, dramatische Schatten vom Leuchtturm, aber ziehen Sie sofort eine winddichte Jacke an, wenn Sie anhalten und abkühlen.",
+                "hu": "Az alacsony téli nap hosszú, drámai árnyékokat vet a világítótoronyról, de megálláskor azonnal vegyen fel egy szélálló kabátot a gyors kihűlés ellen.",
+                "ro": "Soarele jos de iarnă lasă umbre lungi și dramatice de la far, dar puneți-vă imediat o jachetă rezistentă la vânt când vă opriți pentru a nu vă răci.",
+                "en": "The low winter sun casts long, dramatic shadows from the lighthouse structure, but instantly put on a windbreaker when you stop to avoid sudden chilling."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorama",
+                "hu": "Panorama",
+                "ro": "Panorama",
+                "en": "Panorama"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die extrem klare, weite Wintersicht zu genießen, aber bleiben Sie nicht zu lange stehen, da Ihre Körpertemperatur schnell abfällt.",
+                "hu": "Álljon meg egy pillanatra az extrém tiszta, távoli téli kilátásért, de ne időzzön túl sokat egy helyben, mert a teste a menetszél hiányában is gyorsan kihűl.",
+                "ro": "Opriți-vă scurt pentru a savura priveliștea de iarnă extrem de clară și îndepărtată, dar nu stați prea mult, deoarece temperatura corpului va scădea rapid.",
+                "en": "Stop briefly to enjoy the extremely clear and crisp, distant winter views, but do not linger too long statically as your core body temperature will drop fast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját a békés Assunta templom meglátogatásával és egy frissítő sétával Mondello ikonikus strandján. Délben tegyen egy festői utazást a Capo Gallo rezervátum felé egy természetjárásra. Töltse a délutánt a történelmi Torre Amari felfedezésével és a tengerparti panoráma nyújtotta széles kilátással. Végül érje el a Capo Gallo világítótornyot egy fenséges naplementéért.",
         "ro": "Începeți turul cu mașina vizitând biserica pașnică Assunta și făcând o plimbare răcoritoare pe plaja iconică Mondello. Prânzul aduce o plimbare pitorească spre rezervația Capo Gallo pentru o plimbare în natură. Petreceți-vă după-amiaza explorând istoricul Torre Amari și bucurându-vă de priveliști ample dintr-o panoramă a coastei. În cele din urmă, ajungeți la far pentru apus.",
         "en": "Kick off your driving tour by visiting the peaceful Assunta church and taking a refreshing walk on Mondello's iconic beach. Midday brings a scenic drive towards the Capo Gallo reserve for an immersive nature walk. Spend your afternoon exploring the historical Torre Amari and taking in sweeping views from a coastal panorama. Finally, reach the Capo Gallo lighthouse for a majestic sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren regnerischen Morgen sehr bequem mit einer Fahrt zur Kirche und nutzen Sie das Auto als mobilen Unterschlupf. Mittags cruisen Sie an der Küste von Mondello und bewundern das wilde, unruhige Meer direkt aus dem warmen Auto. Nachmittags fahren Sie vorsichtig auf nassen Straßen zu den Türmen und Aussichtspunkten hinauf. Lassen Sie die Heizung und Lüftung an, um die beschlagenen Scheiben frei zu halten.",
+            "hu": "Kezdje az esős reggelt egy igazán kényelmes autózással a templomhoz, a járművet mozgó menedékként használva. Délben cirkáljon a Mondello parton, a fűtött utastérből csodálva a vadul hullámzó, borongós tengert. Délután nagyon óvatosan vezessen a vizes, csúszós parti utakon a történelmi tornyokhoz és kilátókhoz. Használja folyamatosan a klímát és a páramentesítőt a biztonságos, tiszta kilátás érdekében.",
+            "ro": "Începeți dimineața ploioasă conducând foarte confortabil către biserică, folosind mașina ca adăpost mobil. La prânz, plimbați-vă pe coasta Mondello, admirând marea sălbatică și mohorâtă din căldura vehiculului dumneavoastră. După-amiaza, navigați cu mare atenție pe drumurile ude și alunecoase spre turnurile istorice și panorame. Porniți ventilația și dezaburirea continuu pentru a menține o vizibilitate clară.",
+            "en": "Start your rainy morning comfortably driving directly to the church, using the car as your ultimate mobile shelter. By noon, cruise along the Mondello coast, appreciating the wild, moody sea from the warmth of your vehicle. In the afternoon, carefully navigate the wet, slick coastal roads up to the historic towers and scenic viewpoints. Keep your AC and defrosters running constantly to maintain clear visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maria Santissima Assunta",
+                "hu": "Maria Santissima Assunta",
+                "ro": "Maria Santissima Assunta",
+                "en": "Maria Santissima Assunta"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich am Eingang und nehmen Sie einen Regenschirm für den kurzen Weg mit; das Kircheninnere ist ruhig und völlig trocken.",
+                "hu": "Parkoljon az autóval a lehető legközelebb a bejárathoz, és vigyen esernyőt a rövid sétához; a történelmi templom belseje tökéletesen száraz és menedéket nyújt.",
+                "ro": "Parcați mașina cât mai aproape de intrare și luați o umbrelă pentru scurta plimbare afară; interiorul bisericii este liniștit, uscat și perfect protejat.",
+                "en": "Park your car as close to the entrance as possible and bring a sturdy umbrella for the short walk outside; the church interior is perfectly dry and sheltering."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondello",
+                "hu": "Mondello",
+                "ro": "Mondello",
+                "en": "Mondello"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den regnerischen Strand bequem von Ihrem sicher geparkten Auto aus und meiden Sie die nassen, extrem schlammigen Sandflächen am Ufer völlig.",
+                "hu": "Élvezze a borongós, eső áztatta part látványát a biztonságosan leparkolt autó kényelméből, teljesen elkerülve a rendkívül sáros és vizes homokos foltokat.",
+                "ro": "Admirați plaja mohorâtă și bătută de ploaie din confortul mașinii parcate în siguranță, evitând complet zonele de nisip extrem de umede și foarte noroioase.",
+                "en": "Enjoy the moody, rain-swept beach from the absolute comfort of your safely parked car, completely avoiding the extremely wet and muddy sandy patches on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Capo Gallo",
+                "hu": "Riserva Naturale Orientata Capo Gallo",
+                "ro": "Riserva Naturale Orientata Capo Gallo",
+                "en": "Riserva Naturale Orientata Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier im Reservat besonders vorsichtig, da sich auf den unebenen Zufahrtsstraßen bei starkem Regenfall schnell sehr tiefe Pfützen bilden können.",
+                "hu": "Vezessen itt a rezervátumban különösen óvatosan, mivel a heves esőzések során a kissé egyenetlen bekötőutakon nagyon mély, veszélyes tócsák gyűlhetnek össze.",
+                "ro": "Conduceți cu mare prudență aici în rezervație, deoarece drumurile de acces denivelate pot acumula bălți foarte adânci și ascunse în timpul ploilor abundente.",
+                "en": "Drive with extreme caution here in the nature reserve as the slightly uneven access roads can quickly accumulate very deep, hidden puddles during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Amari",
+                "hu": "Torre Amari",
+                "ro": "Torre Amari",
+                "en": "Torre Amari"
+              },
+              "tip_5lang": {
+                "de": "Der extrem dramatisch graue Himmel ist eine absolut tolle Kulisse für den Turm. Springen Sie für schnelle Erinnerungsfotos nur kurz mit der Regenjacke heraus.",
+                "hu": "A drámai sötétszürke égbolt egészen kiváló hátteret ad a történelmi toronynak. Csak ugorjon ki egyetlen percre esőkabátban, hogy elkészítse a fényképeket.",
+                "ro": "Cerul gri și foarte dramatic este un fundal absolut excelent pentru vechiul turn. Ieșiți doar foarte scurt cu o pelerină de ploaie pentru câteva fotografii rapide.",
+                "en": "The dramatically grey, stormy sky makes an absolutely great backdrop for the old tower. Just dash out very briefly with a thick raincoat for some quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorama",
+                "hu": "Panorama",
+                "ro": "Panorama",
+                "en": "Panorama"
+              },
+              "tip_5lang": {
+                "de": "Der andauernde Regen verschwimmt die Ferne, aber die gewaltig brechenden Wellen direkt unter den Klippen sind aus dem herrlich warmen Auto perfekt sichtbar.",
+                "hu": "A tartós eső erősen elmoshatja a távolságot, de a sziklák alatt közvetlenül és vadul megtörő hullámok tökéletesen láthatók a fűtött, meleg autó ablakából is.",
+                "ro": "Ploaia continuă poate încețoșa distanța, dar valurile uriașe care se sparg chiar sub stânci sunt perfect vizibile direct din interiorul cald și primitor al mașinii.",
+                "en": "The continuous rain might blur the far distance, but the violently crashing waves right below the cliffs are perfectly visible from the cozy warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Capo Gallo",
+                "hu": "Faro di Capo Gallo",
+                "ro": "Faro di Capo Gallo",
+                "en": "Faro di Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Das helle Licht des Leuchtturms schneidet wunderschön durch den dichten Starkregen; achten Sie beim Aussteigen unbedingt auf rutschigen Schlamm neben dem Auto.",
+                "hu": "A világítótorony erős fénye gyönyörűen áttöri a sűrű esőfüggönyt; nagyon ügyeljen a jármű melletti mély és csúszós sárra, amikor megpróbál kiszállni az autóból.",
+                "ro": "Lumina puternică a farului taie frumos prin ploaia deasă și grea; aveți mare grijă la noroiul alunecos și adânc de lângă vehicul atunci când încercați să coborâți.",
+                "en": "The lighthouse's bright beacon cuts beautifully through the heavy curtain of rain; watch out carefully for deep, slippery mud next to the vehicle when exiting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kühlen, klaren Wintermorgen mit einer gut beheizten Fahrt zur historischen Kirche. Mittags genießen Sie die atemberaubenden, völlig leeren Küstenstraßen von Mondello mit sehr kurzen Stopps an der frischen, eiskalten Meeresluft. Nachmittags fahren Sie in Ihrem warmen Auto bequem zu den hohen Aussichtspunkten. Beenden Sie die Tour bis spätestens 16:30 Uhr wegen des frühen Sonnenuntergangs.",
+            "hu": "Kezdje a fagyos, tiszta téli reggelt egy kellemesen fűtött autózással a történelmi templomhoz. Délben élvezze Mondello lélegzetelállító, teljesen üres parti útjait, csak nagyon rövid megállókkal a csípős tengeri levegőn. Délután kényelmesen, a meleg utastérből vezessen fel a festői panorámapontokhoz. Tervezze az út befejezését szigorúan 16:30-ra, a nagyon korai téli naplemente miatt.",
+            "ro": "Începeți dimineața rece și senină de iarnă cu o plimbare bine încălzită cu mașina până la biserica istorică. La prânz, bucurați-vă de drumurile de coastă complet libere, cu opriri foarte scurte în aerul tăios al mării. După-amiaza, navigați confortabil din habitaclul cald spre punctele de belvedere înalte. Terminați traseul până la cel târziu 16:30 din cauza apusului foarte timpuriu de iarnă.",
+            "en": "Start your chilly, clear winter morning with a pleasantly heated drive to the historical church. By noon, enjoy the breathtaking, completely empty coastal roads of Mondello, making only very quick stops in the brisk, freezing sea air. In the afternoon, comfortably navigate up to the high scenic viewpoints from your warm cabin. Aim to definitively finish by 16:30 as the winter sun sets incredibly early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maria Santissima Assunta",
+                "hu": "Maria Santissima Assunta",
+                "ro": "Maria Santissima Assunta",
+                "en": "Maria Santissima Assunta"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr angenehmer erster Stopp, um sich die Beine zu vertreten; ziehen Sie aber Ihren wärmsten Mantel an, bevor Sie in die frische, frostige Morgenluft treten.",
+                "hu": "Egy nagyon kellemes első megálló a lábak kinyújtására a kocsiból; viszont burkolózzon a legmelegebb kabátjába, mielőtt kilép a fagyos, csípős kora reggeli levegőre.",
+                "ro": "O primă oprire foarte plăcută pentru a vă întinde picioarele din mașină; totuși, îmbrăcați cea mai călduroasă haină înainte de a ieși în aerul geros al dimineții.",
+                "en": "A very pleasant first stop to stretch your legs out of the car; however, wrap up in your warmest winter coat before stepping out into the crisp, frosty morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mondello",
+                "hu": "Mondello",
+                "ro": "Mondello",
+                "en": "Mondello"
+              },
+              "tip_5lang": {
+                "de": "Parken am Strand ist im Winter unglaublich einfach; steigen Sie kurz aus, um die kalte Meeresbrise zu spüren, und kehren Sie dann schnell ins stark beheizte Auto zurück.",
+                "hu": "A parkolás a parti sétányon télen hihetetlenül egyszerű; szálljon ki egy percre, hogy érezze az erős, hideg tengeri szelet, majd vonuljon vissza a fűtött autóba.",
+                "ro": "Parcarea pe plajă este incredibil de ușoară iarna; coborâți scurt pentru a simți briza rece a mării, apoi retrageți-vă rapid în mașina foarte bine încălzită.",
+                "en": "Parking right on the beach is incredibly easy in the winter; step out briefly to feel the powerful, freezing sea breeze, then quickly retreat to your fully heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Orientata Capo Gallo",
+                "hu": "Riserva Naturale Orientata Capo Gallo",
+                "ro": "Riserva Naturale Orientata Capo Gallo",
+                "en": "Riserva Naturale Orientata Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Das tief stehende Winterlicht hebt die dramatischen Klippen fantastisch hervor. Ziehen Sie dicke Thermokleidung an, wenn Sie weit weg vom warmen Parkplatz gehen.",
+                "hu": "Az alacsony szögű téli napfény fantasztikusan kiemeli a drámai sziklákat. Vegyen fel vastag termorétegeket, ha messzire tervez sétálni a felmelegített parkolótól.",
+                "ro": "Lumina joasă de iarnă evidențiază fantastic stâncile dramatice. Purtați haine termice groase dacă plănuiți să mergeți departe de parcarea unde ați lăsat mașina caldă.",
+                "en": "The low-angled winter sunlight highlights the dramatic cliffs fantastically. Dress in thick thermal layers if you plan to walk far away from the warmth of the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Amari",
+                "hu": "Torre Amari",
+                "ro": "Torre Amari",
+                "en": "Torre Amari"
+              },
+              "tip_5lang": {
+                "de": "Da es überhaupt keine Sommermassen gibt, haben Sie freie Sicht auf den alten Turm. Achten Sie beim Verlassen des Autos aber sehr auf unsichtbare eisige Stellen.",
+                "hu": "A nyári turistatömegek teljes hiánya miatt abszolút zavartalan téli kilátás nyílik az öreg toronyra. Az autóból kiszállva azonban nagyon ügyeljen a láthatatlan jeges foltokra.",
+                "ro": "Fără aglomerația de vară, aveți vederi absolut neobstrucționate spre turnul vechi. Totuși, la coborârea din mașină, fiți foarte atenți la peticele invizibile de gheață.",
+                "en": "The complete lack of summer crowds means you have unimpeded winter views of the old tower. When leaving the car, however, watch out very closely for invisible icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Panorama",
+                "hu": "Panorama",
+                "ro": "Panorama",
+                "en": "Panorama"
+              },
+              "tip_5lang": {
+                "de": "Dies ist absolut der perfekte, windgeschützte Ort, um die herrliche goldene Stunde des frühen Wintersonnenuntergangs direkt vom bequemen Fahrersitz aus zu beobachten.",
+                "hu": "Ez egy abszolút tökéletes, a fagytól védett hely a korai téli naplemente csodás aranyórájának megfigyelésére, egyenesen a kényelmes, meleg vezetőülésből nézve.",
+                "ro": "Acesta este absolut locul perfect și ferit de vânt pentru a urmări superba oră de aur a apusului timpuriu de iarnă chiar din scaunul confortabil și cald al șoferului.",
+                "en": "This is absolutely the perfect, wind-protected spot to comfortably watch the gorgeous golden hour of the early winter sunset right from the comfort of the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Capo Gallo",
+                "hu": "Faro di Capo Gallo",
+                "ro": "Faro di Capo Gallo",
+                "en": "Faro di Capo Gallo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt bis 15:30 Uhr mit dem Auto an. Der klare Kontrast des strahlend weißen Turms zum dunklen, kalten Wintermeer ist durch die Windschutzscheibe atemberaubend.",
+                "hu": "Mindenképp érkezzen meg autóval 15:30-ra a helyszínre. A hófehér torony kontrasztja a sötét, fagyos téli tengerrel lenyűgöző látványt nyújt a szélvédőn keresztül.",
+                "ro": "Asigurați-vă că ajungeți cu mașina până la 15:30. Contrastul clar al turnului alb strălucitor cu marea întunecată și rece de iarnă este uimitor prin parbrizul mașinii.",
+                "en": "Make absolutely sure to arrive by car by 15:30. The stark contrast of the brilliant white tower against the dark, freezing winter sea is stunning through the windshield."
+              }
+            }
+          ]
+        }
       }
     }
   }

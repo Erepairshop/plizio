@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a hatalmas Plátano do Rossio árnyékában, mielőtt magába szívná a helyi kultúrát a színháznál. Délben vesszen el a kárpitmúzeum színes szálaiban és a Városi Múzeum szakrális történelmében. A délutánt a vár masszív falainak felfedezésére szánjuk. Zárja a napot a José Régio Múzeum költői és népművészeti gyűjteményeiben elmerülve.",
         "ro": "Începeți dimineața la umbra grandiosului Platan din Rossio înainte de a simți cultura locală la Teatro. La amiază, pierdeți-vă printre firele vibrante ale Muzeului de Tapiserie și istoria sacră a Muzeului Municipal. După-amiaza este dedicată explorării zidurilor robuste ale Castelului. Încheiați ziua cufundați în colecțiile poetice ale Muzeului José Régio.",
         "en": "Start your morning beneath the shade of the grand Plátano do Rossio before soaking up local culture at the nearby Teatro. By midday, lose yourself in the vibrant threads of the Tapeçaria Museum and the sacred history of the Municipal Museum. The afternoon is dedicated to exploring the robust walls of the Castle. Finish the day immersed in the poetic collections of the José Régio Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens schützt die Krone der Rossio-Platane vor leichtem Nieselregen, bevor es ins trockene Theater geht. Mittags bieten die Museen für Tapisserie und Stadtgeschichte perfekten Schutz vor den Güssen. Nachmittags erkunden wir die Burgruine zwischen den Schauern und wärmen uns in José Régios Haus auf. Abends glänzen die nassen Gassen Portalegres stimmungsvoll im Licht der Straßenlaternen.",
+            "hu": "Reggel a hatalmas Rossio-platán lombjai alatt kezdünk, majd a színház fedett épületébe vonulunk az eső elől. Délben a Gobelinmúzeum és a Városi Múzeum belső tereiben maradunk szárazon. Délután a vár bástyái között kalandozunk két zápor között, majd José Régio otthonában melegszünk fel. Este a vizes macskaköveken megcsillanó lámpafények teszik varázslatossá a történelmi belvárost.",
+            "ro": "Dimineața, coroana platanului din Rossio oferă un adăpost natural, urmată de vizita la teatru pentru a evita ploaia. La prânz, muzeele de tapiserie și istorie locală sunt refugiile perfecte împotriva vremii umede. După-amiaza explorăm castelul printre picături, terminând în casa călduroasă a lui José Régio. Seara, străzile umede din Portalegre strălucesc sub lumina difuză a felinarelor.",
+            "en": "In the morning, the Rossio plane tree provides natural shelter before we head into the dry theatre. At noon, the tapestry and municipal museums offer a perfect escape from the downpours. In the afternoon, we explore the castle between showers and find warmth in José Régio’s house. By evening, the wet cobblestones of Portalegre reflect the city lights in a beautifully atmospheric way."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plátano do Rossio",
+                "hu": "Plátano do Rossio",
+                "ro": "Plátano do Rossio",
+                "en": "Plátano do Rossio"
+              },
+              "tip_5lang": {
+                "de": "Die riesige Platane wirkt wie ein natürlicher Regenschirm; stellen Sie sich unter das dichte Laub, um die monumentale Größe dieses Naturdenkmals trocken zu bewundern.",
+                "hu": "A hatalmas platánfa természetes esernyőként véd a szemerkélő esőben; állj a sűrű lombkorona alá, és csodáld meg szárazon ezt a különleges természeti emléket.",
+                "ro": "Platanul uriaș acționează ca o umbrelă naturală; stați sub frunzișul dens pentru a admira dimensiunea monumentală a acestui monument al naturii fără a vă uda.",
+                "en": "The giant plane tree acts as a natural umbrella; stand under its dense foliage to admire the monumental scale of this natural landmark while staying relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Portalegrense",
+                "hu": "Teatro Portalegrense",
+                "ro": "Teatro Portalegrense",
+                "en": "Teatro Portalegrense"
+              },
+              "tip_5lang": {
+                "de": "Das Theater bietet ein elegantes Dach über dem Kopf; nutzen Sie die Zeit im Foyer, um die Architektur zu studieren, während draußen der Regen auf das Pflaster trommelt.",
+                "hu": "A színház elegáns menedéket nyújt az eső elől; használd ki az időt az előcsarnokban az építészet tanulmányozására, miközben odakint az eső dobol a macskakövön.",
+                "ro": "Teatrul oferă un adăpost elegant; folosiți timpul în foaier pentru a studia arhitectura, în timp ce afară ploaia bate ritmic în pavajul de granit.",
+                "en": "The theatre provides an elegant indoor escape; use your time in the foyer to study the architecture while the rain drums on the cobblestones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für Regentage, da die empfindlichen Wandteppiche in klimatisierten Hallen hängen; lassen Sie sich Zeit bei der Betrachtung der feinen Webkunst.",
+                "hu": "Ideális helyszín esős napokra, mivel a finom falikárpitok klimatizált termekben várnak; szánj bőven időt a lenyűgöző szövési technika részleteinek megismerésére.",
+                "ro": "Locul ideal pentru zilele ploioase, deoarece tapiseriile delicate sunt expuse în săli climatizate; acordați-vă timp pentru a observa detaliile fine ale artei țesutului.",
+                "en": "An ideal spot for rainy days, as the delicate tapestries are housed in climate-controlled halls; take your time admiring the intricate details of the weaving art."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Portalegre",
+                "hu": "Museu Municipal de Portalegre",
+                "ro": "Museu Municipal de Portalegre",
+                "en": "Museu Municipal de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die lokale Geschichte ein, während es draußen regnet; die Sakralkunstsammlung ist in den überdachten Räumen besonders eindrucksvoll beleuchtet.",
+                "hu": "Merülj el a helyi történelemben, miközben odakint esik; a szakrális művészeti gyűjtemény a fedett termekben különösen hangulatos megvilágítást kap.",
+                "ro": "Aprofundați istoria locală în timp ce afară plouă; colecția de artă sacră este iluminată spectaculos în spațiile interioare protejate de intemperii.",
+                "en": "Dive into local history while it rains outside; the sacred art collection is particularly atmospheric when viewed in the sheltered, well-lit indoor galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Portalegre",
+                "hu": "Castelo de Portalegre",
+                "ro": "Castelo de Portalegre",
+                "en": "Castelo de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Treppen, da der Granit bei Nässe rutschig wird; suchen Sie in den Turmzimmern Schutz und genießen Sie den Blick auf die verregnete Stadt.",
+                "hu": "Vigyázz a lépcsőkön, mert a gránit nedvesen csúszóssá válik; keress menedéket a toronyszobákban, és élvezd a kilátást az elázott város háztetőire.",
+                "ro": "Atenție pe scări, deoarece granitul devine alunecos când este ud; căutați adăpost în camerele turnului și admirați vederea peste orașul inundat de ploaie.",
+                "en": "Be careful on the stairs as the granite becomes slippery when wet; seek shelter in the tower rooms and enjoy the view over the rain-soaked city rooftops."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu José Régio",
+                "hu": "Museu José Régio",
+                "ro": "Museu José Régio",
+                "en": "Museu José Régio"
+              },
+              "tip_5lang": {
+                "de": "Die private Atmosphäre des Hauses ist bei Regen besonders gemütlich; bewundern Sie die umfangreiche Sammlung christlicher Volkskunst in aller Ruhe im Trockenen.",
+                "hu": "A ház privát atmoszférája esőben különösen meghitt; csodáld meg a hatalmas népi szakrális gyűjteményt nyugodt körülmények között, távol a külvilág zajától.",
+                "ro": "Atmosfera privată a casei este foarte primitoare pe timp de ploaie; admirați colecția vastă de artă sacră populară în liniște, la adăpost de vremea de afară.",
+                "en": "The private atmosphere of the house feels extra cozy during rain; admire the extensive collection of folk sacred art in peace, safely tucked away from the wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise durch den Rossio, während die nackte Platane skulptural wirkt. Mittags suchen wir die Wärme in den prachtvollen Museen der Stadt. Nachmittags nutzen wir das klare Winterlicht für Fotos an der Burg, bevor die Sonne gegen 17:00 Uhr untergeht. Abends genießen wir die frühe Dunkelheit, wenn die beleuchtete Altstadt in winterlichem Glanz erstrahlt.",
+            "hu": "Reggel friss szél fúj át a Rossio téren, ahol a kopasz platánfa szoborszerűen fest. Délben a város pompás múzeumaiban keresünk enyhülést a hideg ellen. Délután kihasználjuk a tiszta téli fényeket a várnál, mielőtt ötkor lemegy a nap. Este a korai sötétedésben gyönyörködünk a kivilágított óvárosban, amely ilyenkor különleges, téli fényben tündököl.",
+            "ro": "Dimineața, o briză proaspătă suflă prin Rossio, unde platanul desfrunzit arată ca o sculptură. La prânz, căutăm căldura în muzeele splendide ale orașului. După-amiaza profităm de lumina clară de iarnă la castel, înainte ca soarele să apună în jur de ora 17:00. Seara, ne bucurăm de întunericul timpuriu și de centrul vechi iluminat festiv.",
+            "en": "In the morning, a crisp breeze blows through Rossio, with the bare plane tree looking like a sculpture. At noon, we seek warmth in the city's grand museums. In the afternoon, we catch the clear winter light at the castle before the 5 PM sunset. By evening, the early darkness brings out the magic of the illuminated old town in its winter glory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plátano do Rossio",
+                "hu": "Plátano do Rossio",
+                "ro": "Plátano do Rossio",
+                "en": "Plátano do Rossio"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne Blätter ist die Struktur der Äste im Winterlicht beeindruckend; tragen Sie einen warmen Schal, da der Rossio-Platz oft windig ist.",
+                "hu": "Lombkorona nélkül is lenyűgöző az ágak szerkezete a téli fényben; viselj meleg sálat, mert a Rossio tér télen gyakran szeles és hűvös.",
+                "ro": "Chiar și fără frunze, structura ramurilor este impresionantă în lumina iernii; purtați un fular gros, deoarece piața Rossio este adesea vântoasă.",
+                "en": "Even without leaves, the branch structure is stunning in the winter light; wear a warm scarf as the Rossio square can be quite windy this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Portalegrense",
+                "hu": "Teatro Portalegrense",
+                "ro": "Teatro Portalegrense",
+                "en": "Teatro Portalegrense"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine kurze Aufwärmpause im Inneren; die Architektur des Theaters wirkt an grauen Wintertagen besonders prachtvoll.",
+                "hu": "Használd ki a látogatást egy rövid felmelegedésre az épületben; a színház építészete a szürke téli napokon is eleganciát sugároz a látogatóknak.",
+                "ro": "Folosiți vizita pentru o scurtă pauză de încălzire în interior; arhitectura teatrului pare deosebit de grandioasă în zilele gri de iarnă.",
+                "en": "Use this visit for a quick warm-up break inside; the theatre's architecture looks especially grand and inviting on grey winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Farben der Wandteppiche bieten einen schönen Kontrast zum winterlichen Grau draußen; genießen Sie die behagliche Atmosphäre der Ausstellungsräume.",
+                "hu": "A falikárpitok meleg színei tökéletes kontrasztot alkotnak a kinti téli szürkeséggel; élvezd a kiállítótermek otthonos és nyugodt hangulatát.",
+                "ro": "Culorile calde ale tapiseriilor oferă un contrast plăcut cu griul iernii de afară; bucurați-vă de atmosfera primitoare a sălilor de expoziție.",
+                "en": "The warm colors of the tapestries provide a lovely contrast to the winter grey outside; enjoy the cozy and hushed atmosphere of the exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Portalegre",
+                "hu": "Museu Municipal de Portalegre",
+                "ro": "Museu Municipal de Portalegre",
+                "en": "Museu Municipal de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhig und warm; bewundern Sie die feinen Details der religiösen Kunstwerke ohne den sommerlichen Besucherandrang.",
+                "hu": "Télen csendes és meleg az épület; csodáld meg a vallási műalkotások finom részleteit a nyári látogatóáradat nélkül, teljes nyugalomban.",
+                "ro": "Iarna este liniște și cald aici; admirați detaliile fine ale operelor de artă religioasă fără aglomerația specifică sezonului estival.",
+                "en": "It is quiet and warm here in winter; admire the fine details of the religious artworks without the summer crowds, in total tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Portalegre",
+                "hu": "Castelo de Portalegre",
+                "ro": "Castelo de Portalegre",
+                "en": "Castelo de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg vor 16:30 Uhr, um das goldene Licht kurz vor dem frühen Sonnenuntergang über den Dächern von Portalegre einzufangen.",
+                "hu": "Látogasd meg a várat 16:30 előtt, hogy elcsíphesd az aranyló fényeket a korai naplemente előtt Portalegre háztetői felett.",
+                "ro": "Vizitați castelul înainte de ora 16:30 pentru a surprinde lumina aurie de dinaintea apusului timpuriu peste acoperișurile orașului.",
+                "en": "Visit the castle before 4:30 PM to catch the golden light just before the early sunset over the rooftops of Portalegre."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu José Régio",
+                "hu": "Museu José Régio",
+                "ro": "Museu José Régio",
+                "en": "Museu José Régio"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Abschluss für einen Wintertag; die dicken Mauern halten die Kälte draußen, während Sie die persönliche Sammlung des Dichters erkunden.",
+                "hu": "Tökéletes zárása a téli napnak; a vastag falak kint tartják a hideget, miközben felfedezed a költő különleges és személyes gyűjteményét.",
+                "ro": "Un final minunat pentru o zi de iarnă; zidurile groase țin frigul afară în timp ce explorați colecția personală a poetului.",
+                "en": "A wonderful end to a winter day; the thick walls keep the cold out while you explore the poet's unique and personal collection."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje egy frissítő reggeli tekeréssel a Miradouro da Serra-hoz, majd guruljon le az ikonikus platánfához. A dél művészi ihletet hoz a Kárpitmúzeumban, majd történelmi megállót a várnál. Délután pihentesse meg lábait a Jardimban, mielőtt a Torrejão-vár lenyűgöző maradványaihoz hajtana. Az estét egy kellemes, pihentető kerékpározással zárja vissza a központ felé.",
         "ro": "Începeți cu o plimbare matinală spre Miradouro da Serra pentru priveliști peste Alentejo, apoi pedalați spre emblematicul Platan. Amiaza aduce inspirație la Muzeul de Tapiserie și o oprire istorică la Castel. După-amiaza, odihniți-vă picioarele la Jardim înainte de a vă îndrepta spre rămășițele Castelului Torrejão. Seara se încheie cu o plimbare relaxantă de întoarcere.",
         "en": "Begin with a breezy morning ride to the Miradouro da Serra for sweeping Alentejo views, then pedal down to the iconic Plátano. Midday brings artistic inspiration at the Tapestry Museum followed by a historical stop at the Castle. In the afternoon, rest your legs at the Jardim before making your way to the striking remains of Torrejão Castle. The evening concludes with a relaxed ride back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch den Nebel zur Serra, wo der Regen den Granit dunkel färbt. Mittags finden wir im Tapisserie-Museum einen trockenen Parkplatz und warme Hallen. Nachmittags führt die Tour trotz Nässe zur Burg und zum Stadtgarten, wobei wir besonders auf rutschige Kurven achten. Abends erreichen wir das Schloss Torrejão, das im Regen besonders mystisch wirkt.",
+            "hu": "Reggel a ködös Serra felé tekerünk, ahol az eső sötétre festi a gránitsziklákat. Délben a Gobelinmúzeumnál teszünk pihenőt, ahol száraz és kulturált környezetben várakozhatunk. Délután a vár és a kert felé vesszük az irányt, óvatosan manőverezve a vizes úton. Este a Torrejão-várnál fejezzük be a túrát, amely az esőben különösen misztikus arcát mutatja.",
+            "ro": "Dimineața pedalăm prin ceață spre Serra, unde ploaia colorează granitul în nuanțe închise. La prânz, găsim un loc de parcare uscat și săli calde la Muzeul de Tapiserie. După-amiaza, turul continuă spre castel și grădină, cu mare atenție la curbele alunecoase. Seara ajungem la Castelul Torrejão, care arată deosebit de mistic sub ploaie.",
+            "en": "In the morning, we cycle through the mist to Serra, where the rain darkens the granite rocks. At noon, we find dry parking and warm halls at the Tapestry Museum. In the afternoon, the tour leads to the castle and garden, with extra care taken on slippery corners. By evening, we reach Torrejão Castle, which looks particularly mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro da Serra",
+                "hu": "Miradouro da Serra",
+                "ro": "Miradouro da Serra",
+                "en": "Miradouro da Serra"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Kleidung; der Blick auf das vernebelte Portalegre ist dramatisch, aber der Wind kann den Regen peitschen.",
+                "hu": "Viselj vízhatlan ruházatot; a ködös Portalegre látványa drámai, de a szél miatt az eső vízszintesen is érkezhet a kilátónál.",
+                "ro": "Purtați haine impermeabile; vederea asupra orașului Portalegre în ceață este dramatică, dar vântul poate face ploaia foarte tăioasă.",
+                "en": "Wear waterproof gear; the view of misty Portalegre is dramatic, but the wind at the lookout can make the rain feel quite intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Plátano do Rossio",
+                "hu": "Plátano do Rossio",
+                "ro": "Plátano do Rossio",
+                "en": "Plátano do Rossio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter der Platane bietet Schutz; prüfen Sie hier kurz Ihre Bremsen, bevor Sie auf den nassen Straßen weiterfahren.",
+                "hu": "Egy rövid megálló a platán alatt védelmet nyújt; ellenőrizd itt a fékeket, mielőtt továbbhaladsz a vizes és néhol csúszós városi utakon.",
+                "ro": "O scurtă oprire sub platan oferă protecție; verificați frânele aici înainte de a continua pe străzile ude și alunecoase.",
+                "en": "A brief stop under the plane tree offers shelter; check your brakes here before continuing on the wet and sometimes slippery city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie die Pause, um im Trockenen die monumentalen Webwerke zu bewundern; perfekt zum Aufwärmen.",
+                "hu": "Zárd le biztonságosan a kerékpárt, és használd ki a szünetet a monumentális szőttesek megcsodálására; tökéletes hely a száradásra.",
+                "ro": "Parcați bicicleta în siguranță și profitați de pauză pentru a admira tapiseriile monumentale la adăpost; este locul perfect pentru a vă usca.",
+                "en": "Lock your bike securely and use the break to admire the monumental tapestries indoors; it's the perfect place to dry off for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Portalegre",
+                "hu": "Castelo de Portalegre",
+                "ro": "Castelo de Portalegre",
+                "en": "Castelo de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss ist bei Regen anstrengend und rutschig; fahren Sie langsam und genießen Sie den wolkenverhangenen Panoramablick.",
+                "hu": "A várhoz vezető emelkedő esőben fárasztó és csúszós lehet; hajts lassan, és élvezd a felhőkbe burkolózó panorámát a bástyákról.",
+                "ro": "Urcarea spre castel poate fi obositoare și alunecoasă pe ploaie; pedalați încet și bucurați-vă de panorama învăluită în nori de pe ziduri.",
+                "en": "The climb to the castle can be tiring and slippery in the rain; cycle slowly and enjoy the cloud-covered panoramic views from the battlements."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim",
+                "hu": "Jardim",
+                "ro": "Jardim",
+                "en": "Jardim"
+              },
+              "tip_5lang": {
+                "de": "Der Garten wirkt im Regen sehr grün und frisch; suchen Sie Schutz unter den Pavillons, falls ein starker Guss einsetzt.",
+                "hu": "A kert az esőben különösen zöldnek és frissnek hat; keress menedéket a pavilonok alatt, ha hirtelen felerősödne a zápor.",
+                "ro": "Grădina pare foarte verde și proaspătă pe ploaie; căutați adăpost sub pavilioane dacă aversa devine prea puternică.",
+                "en": "The garden looks remarkably green and fresh in the rain; seek shelter under the pavilions if a heavy downpour starts suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Torrejão",
+                "hu": "Castelo de Torrejão",
+                "ro": "Castelo de Torrejão",
+                "en": "Castelo de Torrejão"
+              },
+              "tip_5lang": {
+                "de": "Die Steine hier sind alt und uneben; stellen Sie Ihr Rad vorsichtig ab und genießen Sie die kühle, feuchte Luft in der Burgruine.",
+                "hu": "A kövek itt régiek és egyenetlenek; óvatosan támaszd le a bringát, és élvezd a hűvös, párás levegőt a várromok között.",
+                "ro": "Pietrele de aici sunt vechi și denivelate; parcați bicicleta cu grijă și bucurați-vă de aerul răcoros și umed printre ruine.",
+                "en": "The stones here are old and uneven; park your bike carefully and enjoy the cool, damp air among the atmospheric castle ruins."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Tour mit einer frostigen Abfahrt von der Serra, die klare Luft bietet Fernsicht bis zum Horizont. Mittags wärmen wir uns bei einem Museumsbesuch auf. Nachmittags führt die Route durch die kühlen Gassen zur Burg und zum Stadtgarten. Abends nutzen wir die letzten Sonnenstrahlen am Schloss Torrejão, bevor die winterliche Kälte Portalegre fest im Griff hat.",
+            "hu": "Reggel a túra fagyos lejtmenettel indul a Serráról, a tiszta levegő pedig távoli kilátást enged a horizontig. Délben egy múzeumlátogatással melegedünk fel. Délután a hűvös utcákon át tekerünk a várig és a városi kertig. Este az utolsó napsugarakat használjuk ki a Torrejão-várnál, mielőtt a téli hideg végleg átveszi az uralmat.",
+            "ro": "Dimineața turul începe cu o coborâre geroasă de pe Serra, aerul curat oferind vizibilitate până la orizont. La prânz, ne încălzim cu o vizită la muzeu. După-amiaza traseul trece prin străzile răcoroase spre castel și grădină. Seara profităm de ultimele raze de soare la Castelul Torrejão, înainte ca gerul iernii să cuprindă orașul.",
+            "en": "In the morning, the tour starts with a frosty descent from Serra; the crisp air offers long-distance views to the horizon. At noon, we warm up with a museum visit. In the afternoon, the route leads through cool streets to the castle and garden. By evening, we catch the last sun rays at Torrejão Castle before the winter chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro da Serra",
+                "hu": "Miradouro da Serra",
+                "ro": "Miradouro da Serra",
+                "en": "Miradouro da Serra"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für die Abfahrt; die Winterluft ist hier oben schneidend kalt, aber die Sicht auf die Stadt ist unschlagbar klar.",
+                "hu": "Viselj kesztyűt a lefelé úton; a téli levegő itt fent metsző lehet, de a városra nyíló kilátás ilyenkor a legtisztább.",
+                "ro": "Purtați mănuși pentru coborâre; aerul de iarnă este tăios aici sus, dar vederea asupra orașului este incredibil de clară.",
+                "en": "Wear gloves for the descent; the winter air up here can be biting, but the view over the city is unbeatably clear and sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Plátano do Rossio",
+                "hu": "Plátano do Rossio",
+                "ro": "Plátano do Rossio",
+                "en": "Plátano do Rossio"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Rossio; bewundern Sie den riesigen Baum in seiner Winterruhe, bevor Sie sich durch Bewegung wieder aufwärmen.",
+                "hu": "Gyors megálló a Rossión; csodáld meg az óriási fát téli álmában, majd tekerj tovább tempósan, hogy mozgással melegítsd fel magad.",
+                "ro": "O oprire rapidă în Rossio; admirați copacul uriaș în repausul său hibernal înainte de a continua să pedalați pentru a vă încălzi.",
+                "en": "A quick stop at Rossio; admire the giant tree in its winter dormant state before cycling onward to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die steifen Finger aufzuwärmen; genießen Sie die Textilkunst in den wohltemperierten Räumen des Museums.",
+                "hu": "Tökéletes hely az elgémberedett ujjak felmelegítésére; élvezd a textilgyűjteményt a múzeum kellemesen temperált belső tereiben.",
+                "ro": "Locul perfect pentru a vă încălzi degetele amorțite de frig; bucurați-vă de arta textilă în spațiile bine încălzite ale muzeului.",
+                "en": "The perfect place to warm up stiff fingers; enjoy the textile art in the museum's comfortably heated and well-maintained rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Portalegre",
+                "hu": "Castelo de Portalegre",
+                "ro": "Castelo de Portalegre",
+                "en": "Castelo de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tief; nutzen Sie das weiche Licht auf den Burgmauern für beeindruckende Fotos der historischen Anlage.",
+                "hu": "A nap télen alacsonyan jár; használd ki a várfalakra eső lágy fényeket a történelmi épületegyüttesről készített fotókhoz.",
+                "ro": "Soarele este jos iarna; profitați de lumina blândă de pe zidurile castelului pentru fotografii impresionante ale ansamblului istoric.",
+                "en": "The sun stays low in winter; take advantage of the soft light hitting the castle walls for impressive photos of the historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim",
+                "hu": "Jardim",
+                "ro": "Jardim",
+                "en": "Jardim"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im winterlichen Garten ist erholsam; bewegen Sie sich stetig, um trotz der kühlen Schattenbereiche nicht auszukühlen.",
+                "hu": "A téli kert csendje nagyon pihentető; mozogj folyamatosan, hogy a hűvös, árnyékos részeken se hűljön ki a tested.",
+                "ro": "Liniștea grădinii de iarnă este relaxantă; mențineți un ritm constant de mișcare pentru a nu vă răci în zonele umbrite.",
+                "en": "The silence of the winter garden is very peaceful; keep moving steadily to stay warm despite the cool shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Torrejão",
+                "hu": "Castelo de Torrejão",
+                "ro": "Castelo de Torrejão",
+                "en": "Castelo de Torrejão"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour, bevor es dunkel wird; die winterlichen Granitsteine strahlen am späten Nachmittag eine tiefe Kälte aus.",
+                "hu": "Fejezd be a túrát, mielőtt besötétedik; a téli gránitkövek késő délután már érezhetően árasztják magukból a hideget.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; pietrele de granit emană un frig pătrunzător spre sfârșitul după-amiezii.",
+                "en": "Finish your tour before it gets dark; the winter granite stones radiate a deep cold by late afternoon in the castle ruins."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autózzon fel korán a Miradouro da Serra-hoz a hihetetlen kilátásért, majd guruljon el a Rádio Portalegre mellett a város szívébe. A dél a híres Kárpitmúzeumé és a történelmi várkastélyé. Délután hajtson ki a stratégiai Torrejão várához és a robusztus Geodéziai jelzéshez. Zárja az utazást magas oktánszámú szórakozással a gokartpályán a naplemente közben.",
         "ro": "Conduceți devreme spre Miradouro da Serra pentru o panoramă de vis, apoi treceți pe lângă Rádio Portalegre. Amiaza este rezervată celebrului Muzeu de Tapiserie și explorării Castelului istoric. După-amiaza, mergeți la Castelul Torrejão și la Markerul Geodezic accidentat. Încheiați-vă călătoria cu multă adrenalină și distracție la Kartódromo, la apus.",
         "en": "Drive up early to the Miradouro da Serra for incredible views, then cruise past Rádio Portalegre to the heart of town. Midday is reserved for the famed Tapestry Museum and wandering the historic Castle grounds. In the afternoon, drive out to the strategic Torrejão Castle and the rugged Geodesic Marker. End your journey with high-octane fun at the Kartódromo as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir sicher im Auto zur Serra, wo die Wolken tief über den Gipfeln hängen. Mittags besuchen wir die Museen und das Radio, wobei wir die kurzen Wege vom Parkplatz schätzen. Nachmittags erkunden wir die Burgen von Portalegre und Torrejão, geschützt vor dem Wind. Abends endet der Tag am Kartódromo, wo wir den Regen von der überdachten Tribüne aus beobachten.",
+            "hu": "Reggel kényelmesen autózunk fel a Serrára, ahol a felhők mélyen a hegycsúcsok felett úsznak. Délben a múzeumokat és a rádiót látogatjuk meg, kihasználva a parkolók közelségét. Délután a várat és Torrejão romjait fedezzük fel, védve a metsző széltől. Este a Kartódromónál fejezzük be a napot, ahol a fedett lelátóról nézhetjük a vizes aszfalton csillogó fényeket.",
+            "ro": "Dimineața conducem confortabil spre Serra, unde norii plutesc jos deasupra culmilor. La prânz vizităm muzeele și radioul, profitând de parcările din apropiere. După-amiaza explorăm castelul și ruinele din Torrejão, protejați de vântul tăios. Seara se încheie la Kartódromo, unde putem privi reflexiile ploii pe asfalt de la adăpostul tribunei.",
+            "en": "In the morning, we drive comfortably to Serra, where clouds float low over the peaks. At noon, we visit the museums and radio station, enjoying the convenience of nearby parking. In the afternoon, we explore the castle and Torrejão ruins, sheltered from the biting wind. The day ends at the Kartódromo, where we can watch the rain's reflections from the covered stand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro da Serra",
+                "hu": "Miradouro da Serra",
+                "ro": "Miradouro da Serra",
+                "en": "Miradouro da Serra"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Panoramaaussicht durch die Scheiben; der Parkplatz bietet direkten Blick auf die Stadt.",
+                "hu": "Heves esőben maradj az autóban, és élvezd a panorámát a szélvédőn keresztül; a parkolóból közvetlen rálátás nyílik az elázott városra.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și bucurați-vă de panoramă prin parbriz; parcarea oferă o vedere directă spre oraș.",
+                "en": "In heavy rain, stay in the car and enjoy the panorama through the windshield; the parking area offers a direct view over the soaked city."
+              }
+            },
+            {
+              "name": {
+                "de": "Rádio Portalegre",
+                "hu": "Rádio Portalegre",
+                "ro": "Rádio Portalegre",
+                "en": "Rádio Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Ein interessanter Innenstopp; nutzen Sie die Gelegenheit, mehr über die lokale Kommunikation zu erfahren, während es draußen regnet.",
+                "hu": "Érdekes beltéri állomás; használd ki a lehetőséget, hogy többet tudj meg a helyi kommunikációról, miközben odakint kitartóan esik az eső.",
+                "ro": "O oprire interioară interesantă; profitați de ocazie pentru a afla mai multe despre comunicarea locală în timp ce afară plouă persistent.",
+                "en": "An interesting indoor stop; take the opportunity to learn more about local communications while the rain persists outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; das Museum bietet stundenlangen Schutz vor dem Wetter in einer faszinierenden Welt aus Wolle und Seide.",
+                "hu": "Parkolj minél közelebb a bejárathoz; a múzeum órákon át védelmet nyújt az időjárás elől a gyapjú és selyem lenyűgöző világában.",
+                "ro": "Parcați cât mai aproape de intrare; muzeul oferă ore întregi de protecție împotriva vremii în lumea fascinantă a lânii și mătăsii.",
+                "en": "Park as close to the entrance as possible; the museum provides hours of shelter from the weather in a fascinating world of wool and silk."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Portalegre",
+                "hu": "Castelo de Portalegre",
+                "ro": "Castelo de Portalegre",
+                "en": "Castelo de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Tor lohnt sich; im Inneren der Burgtürme bleiben Sie trocken und können die Geschichte Portalegres studieren.",
+                "hu": "Egy rövid futás a parkolótól a kapuig megéri; a bástyák és tornyok belsejében szárazon maradhatsz, miközben Portalegre történelmét tanulmányozod.",
+                "ro": "Un scurt sprint de la parcare la poartă merită; în interiorul turnurilor veți rămâne uscați în timp ce studiați istoria orașului.",
+                "en": "A quick dash from the parking lot to the gate is worth it; inside the towers, you'll stay dry while exploring Portalegre's long history."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Torrejão",
+                "hu": "Castelo de Torrejão",
+                "ro": "Castelo de Torrejão",
+                "en": "Castelo de Torrejão"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die unbefestigten Wege in der Nähe; genießen Sie den Anblick der Ruinen, die durch die Feuchtigkeit ihre Farbe verändern.",
+                "hu": "Ügyelj a vár körüli burkolatlan utakra az esőben; élvezd a romok látványát, amelyek a nedvesség hatására mélyebb színt öltenek.",
+                "ro": "Atenție la drumurile neasfaltate din apropiere pe ploaie; admirați ruinele care capătă o culoare mai intensă din cauza umidității.",
+                "en": "Watch out for unpaved paths nearby in the rain; enjoy the sight of the ruins, which take on a deeper color due to the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Marco Geodésico",
+                "hu": "Marco Geodésico",
+                "ro": "Marco Geodésico",
+                "en": "Marco Geodésico"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp im Regen für das Foto; der Blick auf die vernebelte Landschaft rund um Portalegre ist besonders atmosphärisch.",
+                "hu": "Csak egy rövid megálló az esőben a fotó kedvéért; a ködbe vesző táj Portalegre körül ilyenkor különösen hangulatos látványt nyújt.",
+                "ro": "Doar o scurtă oprire în ploaie pentru o fotografie; peisajul învăluit în ceață din jurul orașului este extrem de atmosferic acum.",
+                "en": "Just a short stop in the rain for a photo; the landscape fading into the mist around Portalegre is especially atmospheric now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kartódromo",
+                "hu": "Kartódromo",
+                "ro": "Kartódromo",
+                "en": "Kartódromo"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Betrieb bei Regen eingeschränkt ist; die vierteilige Strecke sieht bei Nässe glänzend und herausfordernd aus.",
+                "hu": "Ellenőrizd, hogy az eső miatt van-e korlátozás; a vizes aszfaltcsík csillogása és a kihívást jelentő kanyarok látványa is élvezetes a lelátóról.",
+                "ro": "Verificați dacă activitatea este limitată din cauza ploii; luciul asfaltului ud și curbele provocatoare sunt spectaculoase de pe tribună.",
+                "en": "Check if operations are limited due to rain; the shine of the wet asphalt and the challenging corners are impressive from the stands."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir mit eingeschalteter Heizung zur Serra, um die klare Winterluft und den weiten Blick zu genießen. Mittags bieten Radio und Museum angenehm temperierte Kulturpausen. Nachmittags besuchen wir die Burgen, wobei wir die tiefstehende Sonne für perfekte Lichtverhältnisse nutzen. Abends wärmen wir uns bei rasanten Runden am Kartódromo wieder auf, bevor die Nacht hereinbricht.",
+            "hu": "Reggel bekapcsolt fűtéssel autózunk fel a Serrára, hogy élvezzük a tiszta téli levegőt és a messzire nyíló kilátást. Délben a rádió és a múzeum kellemesen temperált helyszínein pihenünk meg. Délután a várakat keressük fel, kihasználva az alacsonyan járó nap tökéletes fényeit. Este a Kartódromónál pörgünk fel, mielőtt beállna a hideg téli éjszaka.",
+            "ro": "Dimineața conducem cu căldura pornită spre Serra pentru a ne bucura de aerul curat și de vederea panoramică. La prânz, radioul și muzeul oferă pauze culturale în spații bine încălzite. După-amiaza vizităm castelele, profitând de lumina perfectă a soarelui de iarnă. Seara ne încălzim cu câteva ture rapide la Kartódromo înainte de lăsarea nopții.",
+            "en": "In the morning, we drive to Serra with the heater on to enjoy the crisp winter air and the sweeping views. At noon, the radio station and museum offer cultural breaks in comfortably warm spaces. In the afternoon, we visit the castles, taking advantage of the low sun's perfect light. By evening, we warm up with some fast laps at the Kartódromo before night falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Miradouro da Serra",
+                "hu": "Miradouro da Serra",
+                "ro": "Miradouro da Serra",
+                "en": "Miradouro da Serra"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bietet hier oben eine fantastische Sichtweite; genießen Sie den Blick kurz draußen und wärmen Sie sich dann im Auto wieder auf.",
+                "hu": "A téli napfényben fantasztikus a látótávolság; élvezd a kilátást egy rövid ideig a szabadban, majd melegedj fel az autóban.",
+                "ro": "Soarele de iarnă oferă o vizibilitate fantastică aici sus; bucurați-vă de priveliște afară pentru scurt timp, apoi încălziți-vă în mașină.",
+                "en": "The winter sun offers fantastic visibility up here; enjoy the view outside for a short while and then warm back up in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Rádio Portalegre",
+                "hu": "Rádio Portalegre",
+                "ro": "Rádio Portalegre",
+                "en": "Rádio Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Innenstopp; erfahren Sie Interessantes über den regionalen Funkverkehr, ohne der winterlichen Kälte ausgesetzt zu sein.",
+                "hu": "Meghitt beltéri állomás; tudj meg érdekességeket a regionális rádiózásról anélkül, hogy kitennéd magad a téli hidegnek.",
+                "ro": "O oprire interioară primitoare; aflați lucruri interesante despre radioul regional fără a fi expuși gerului de iarnă.",
+                "en": "A cozy indoor stop; learn interesting facts about regional broadcasting without being exposed to the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+              },
+              "tip_5lang": {
+                "de": "Die Klimatisierung sorgt auch im Winter für angenehme Temperaturen; lassen Sie sich von der Farbenpracht der Wandteppiche verzaubern.",
+                "hu": "A légkondicionálás télen is kellemes hőmérsékletet biztosít; hagyd, hogy elvarázsoljon a falikárpitok gazdag színvilága a hideg napon.",
+                "ro": "Climatizarea asigură temperaturi plăcute și iarna; lăsați-vă fermecați de bogăția cromatică a tapiseriilor în această zi friguroasă.",
+                "en": "The climate control ensures pleasant temperatures even in winter; let yourself be enchanted by the vibrant colors of the tapestries."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Portalegre",
+                "hu": "Castelo de Portalegre",
+                "ro": "Castelo de Portalegre",
+                "en": "Castelo de Portalegre"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt den Granit der Burg golden schimmern; ein idealer Zeitpunkt für Architekturfotos ohne störende Schatten.",
+                "hu": "A téli fények aranylóvá varázsolják a vár gránitköveit; ideális időpont az építészeti fotókhoz a zavaró árnyékok nélkül.",
+                "ro": "Lumina iernii face granitul castelului să strălucească auriu; este momentul ideal pentru fotografii de arhitectură fără umbre deranjante.",
+                "en": "The winter light makes the castle's granite glow golden; it's an ideal time for architectural photos without harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Torrejão",
+                "hu": "Castelo de Torrejão",
+                "ro": "Castelo de Torrejão",
+                "en": "Castelo de Torrejão"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im tiefstehenden Sonnenlicht besonders plastisch; machen Sie einen kurzen Spaziergang, um den Kreislauf in Schwung zu halten.",
+                "hu": "A romok az alacsony napfényben különösen plasztikusnak hatnak; tegyél egy rövid sétát a falak között, hogy felpezsdítsd a vérkeringésed.",
+                "ro": "Ruinele par foarte reliefate în lumina joasă a soarelui; faceți o scurtă plimbare printre ziduri pentru a vă pune sângele în mișcare.",
+                "en": "The ruins look particularly striking in the low sunlight; take a short walk among the walls to keep your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Marco Geodésico",
+                "hu": "Marco Geodésico",
+                "ro": "Marco Geodésico",
+                "en": "Marco Geodésico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Alentejo; die kühle Luft sorgt für eine außergewöhnliche Klarheit am Horizont.",
+                "hu": "Élvezd a messzire nyúló kilátást a téli Alentejóra; a hűvös levegő rendkívüli tisztaságot kölcsönöz a távoli horizontnak.",
+                "ro": "Bucurați-vă de vederea panoramică peste Alentejo iarna; aerul rece oferă o claritate excepțională orizontului îndepărtat.",
+                "en": "Enjoy the far-reaching views over the winter Alentejo; the cool air provides extraordinary clarity to the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kartódromo",
+                "hu": "Kartódromo",
+                "ro": "Kartódromo",
+                "en": "Kartódromo"
+              },
+              "tip_5lang": {
+                "de": "Gegen die Kälte hilft Adrenalin; kleiden Sie sich windfest für das Rennen, da der Fahrtwind im Winter besonders eisig sein kann.",
+                "hu": "A hideg ellen a legjobb az adrenalin; öltözz szélállóan a versenyhez, mert a menetszél télen különösen fagyos lehet a pályán.",
+                "ro": "Adrenalina este cel mai bun remediu împotriva frigului; purtați haine rezistente la vânt, deoarece curentul poate fi tăios iarna.",
+                "en": "Adrenaline is the best remedy against the cold; dress in windproof layers for the race, as the wind can be biting on the track in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

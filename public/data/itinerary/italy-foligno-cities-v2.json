@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a déli nevezetességek, köztük a Il trenino dei canapè felfedezésével. A délidő a lenyűgöző Oratorio del Crocifisso és a CIAC kortárs művészetének elmélyülését kínálja. A délutánt a központi múzeumok és a fenséges Chiesa di San Giacomo bejárásával töltheti. Zárja a napot a különleges Calamita Cosmica megtekintésével, amely Foligno egyedi szellemiségét tükrözi.",
         "ro": "Începeți dimineața explorând atracțiile sudice, cum ar fi Il trenino dei canapè. La amiază, aprofundați arta și istoria la Oratorio del Crocifisso și galeria CIAC. Petreceți după-amiaza vizitând muzeele centrale și maiestuoasa biserică Chiesa di San Giacomo. Încheiați ziua admirând sculptura impresionantă Calamita Cosmica, care reflectă spiritul inovator și clasic al orașului.",
         "en": "Begin your morning exploring the southern landmarks like Il trenino dei canapè. Midday offers deep dives into the Oratorio del Crocifisso and modern art at the CIAC. Spend your afternoon wandering the central museums and the majestic Chiesa di San Giacomo. Conclude your day with the striking Calamita Cosmica, reflecting on Foligno's blend of ancient and avant-garde spirit."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Foligno bei Regen bietet eine wunderbare Gelegenheit, die prächtigen Innenräume der Stadt zu erkunden. Der Morgen beginnt mit einem kurzen Spaziergang unter dem Regenschirm zum Park, gefolgt von einem ausgiebigen Besuch in den barocken Oratorien.\n\nMittags suchen wir Schutz in den modernen Galerien. Die kurzen Wege zwischen den Museen im Zentrum sind auch bei Schauer gut zu bewältigen, da viele Gassen Schutz bieten.\n\nDer Nachmittag steht ganz im Zeichen der sakralen Kunst und Geschichte. In den Museen bleibt man trocken, während man die wertvollen Exponate bewundert. Die Atmosphäre in den alten Mauern ist bei prasselndem Regen besonders besinnlich.\n\nAbends erreichen wir die Calamita Cosmica. Das monumentale Skelett wirkt im grauen Licht des Regens fast noch mystischer. Ein wasserfester Mantel ist für diesen letzten Halt im Freien unerlässlich.",
+            "hu": "Foligno esőben is tartogat meglepetéseket, hiszen a város legszebb látnivalói fedett helyen vannak. A reggelt egy gyors parki sétával kezdjük az ernyők alatt, majd elmerülünk a barokk oratóriumok díszes és száraz világában.\n\nDélben a kortárs művészeté a főszerep, ahol a tágas terek tökéletes menedéket nyújtanak a záporok elől. A belvárosi utcák szűkek, így a házak fala mentén haladva kevesebb eső ér minket.\n\nDélután a vallási és várostörténeti gyűjteményeket járjuk végig. A múzeumi termekben és templomokban észre sem vesszük az odakint tomboló vihart, miközben Foligno kincseit tanulmányozzuk.\n\nAz este a Calamita Cosmica látványával zárul. A hatalmas csontváz a szürke esőfüggöny mögött egészen földöntúli látványt nyújt. Ügyeljünk a vizes, csúszós macskakövekre a séta utolsó szakaszán.",
+            "ro": "Foligno pe ploaie oferă o oportunitate excelentă de a descoperi interioarele prețioase ale orașului. Dimineața începe cu o scurtă plimbare sub umbrelă spre parc, urmată de o vizită prelungită în oratoriile baroce primitoare.\n\nLa prânz, ne refugiem în galeriile de artă contemporană. Distanțele scurte între muzee fac ca ploaia să nu fie un impediment major, străzile înguste oferind o protecție naturală parțială.\n\nDupă-amiaza este dedicată artei sacre și istoriei locale. În interiorul muzeelor și bisericilor, timpul trece repede în timp ce rămâneți uscați și admirați colecțiile impresionante ale orașului.\n\nSeara se încheie la Calamita Cosmica. Scheletul monumental pare și mai dramatic sub cerul plumburiu. O pelerină de ploaie este esențială pentru a admira această operă de artă în aer liber.",
+            "en": "Foligno in the rain is a perfect excuse to dive into its rich indoor cultural heritage. The morning starts with a brisk walk under an umbrella through the park, followed by shelter in the stunning baroque oratories.\n\nAt midday, contemporary art galleries provide a dry and inspiring refuge. The compact city center allows for quick dashes between museums, minimizing exposure to the elements.\n\nIn the afternoon, focus on religious art and history in the diocesan collections. The hushed atmosphere of the museums is particularly cozy while the rain drums against the historic windows.\n\nEvening concludes at the Calamita Cosmica. The giant skeleton takes on a mystical aura in the damp, grey light. Wear waterproof shoes as the pavement around the monument can collect puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Il trenino dei canapè",
+                "hu": "Il trenino dei canapè",
+                "ro": "Il trenino dei canapè",
+                "en": "Il trenino dei canapè"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese Eisenbahnskulptur im Park; bei Regen ist sie ein schneller Fotostopp, bevor Sie unter die nahen Bäume oder in das nächste Gebäude flüchten.",
+                "hu": "Csodáld meg ezt a parki vonat-szobrot; esőben csak egy gyors fotóra állj meg, majd keress menedéket a közeli fák alatt vagy a következő épületben.",
+                "ro": "Admirați această sculptură feroviară din parc; pe ploaie, este o oprire rapidă pentru fotografii înainte de a căuta adăpost sub copacii din apropiere.",
+                "en": "Admire this park train sculpture; in the rain, make it a quick photo stop before heading to the nearby trees or the next indoor attraction."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio del Crocifisso",
+                "hu": "Oratorio del Crocifisso",
+                "ro": "Oratorio del Crocifisso",
+                "en": "Oratorio del Crocifisso"
+              },
+              "tip_5lang": {
+                "de": "Dieses barocke Juwel bietet perfekten Schutz vor Regen; bestaunen Sie die vergoldeten Holzschnitzereien, während Sie im Trockenen verweilen.",
+                "hu": "Ez a barokk ékszerdoboz tökéletes menedék az eső elől; csodáld meg az aranyozott fafaragásokat, miközben élvezed a benti szárazságot.",
+                "ro": "Această bijuterie barocă oferă adăpostul perfect; admirați sculpturile în lemn aurit în timp ce rămâneți la adăpost de ploaie.",
+                "en": "This baroque gem offers perfect shelter from the rain; marvel at the gilded woodcarvings while staying completely dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Italiano di Arte Contemporanea",
+                "hu": "Centro Italiano di Arte Contemporanea",
+                "ro": "Centro Italiano di Arte Contemporanea",
+                "en": "Centro Italiano di Arte Contemporanea"
+              },
+              "tip_5lang": {
+                "de": "Die modernen, weitläufigen Hallen sind ideal für regnerische Tage; nutzen Sie die Garderobe für Ihre nassen Schirme, bevor Sie die Kunst genießen.",
+                "hu": "A modern, tágas csarnokok ideálisak esős napokra; használd a ruhatárat a vizes ernyőknek, mielőtt elmerülnél a kortárs művészetben.",
+                "ro": "Halele moderne și spațioase sunt ideale pentru zilele ploioase; folosiți garderoba pentru umbrelele ude înainte de a explora arta.",
+                "en": "The modern, spacious halls are ideal for rainy days; use the cloakroom for your wet umbrellas before immersing yourself in contemporary art."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Capitolare Diocesi di Foligno",
+                "hu": "Museo Capitolare Diocesi di Foligno",
+                "ro": "Museo Capitolare Diocesi di Foligno",
+                "en": "Museo Capitolare Diocesi di Foligno"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die religiösen Schätze im Inneren des Doms; der überdachte Eingangsbereich schützt Sie beim Warten auf den Einlass vor Schauern.",
+                "hu": "Fedezd fel a dóm belső vallási kincseit; a fedett bejárati rész megvéd a záporoktól, amíg a bejutásra vársz.",
+                "ro": "Explorați comorile religioase din interiorul domului; zona de intrare acoperită vă protejează de averse în timp ce așteptați accesul.",
+                "en": "Explore the religious treasures inside the cathedral complex; the covered entrance area keeps you dry while waiting to enter the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca civica",
+                "hu": "Pinacoteca civica",
+                "ro": "Pinacoteca civica",
+                "en": "Pinacoteca civica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palazzo Trinci und seine Fresken; die massiven Mauern lassen das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Látogasd meg a Palazzo Trinci-t és freskóit; a vaskos falak között teljesen elfelejtheted a kinti rossz időt.",
+                "ro": "Vizitați Palazzo Trinci și frescele sale; zidurile masive vă vor face să uitați complet de vremea rea de afară.",
+                "en": "Visit Palazzo Trinci and its stunning frescoes; the thick historic walls make you completely forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giacomo",
+                "hu": "Chiesa di San Giacomo",
+                "ro": "Chiesa di San Giacomo",
+                "en": "Chiesa di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Die gotische Atmosphäre ist bei Regen besonders eindrucksvoll; nutzen Sie den Besuch für eine ruhige Pause im trockenen Kirchenschiff.",
+                "hu": "A gótikus hangulat esőben különösen lenyűgöző; használd ki a látogatást egy csendes, száraz pihenőre a templomhajóban.",
+                "ro": "Atmosfera gotică este impresionantă pe ploaie; profitați de vizită pentru o pauză liniștită și uscată în nava bisericii.",
+                "en": "The Gothic atmosphere is especially evocative in the rain; use your visit for a quiet, dry break within the solemn nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamita Cosmica",
+                "hu": "Calamita Cosmica",
+                "ro": "Calamita Cosmica",
+                "en": "Calamita Cosmica"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Skelett befindet sich in einer ehemaligen Kirche; Sie sind also beim Staunen über dieses Monumentalwerk bestens vor Regen geschützt.",
+                "hu": "A hatalmas csontváz egy egykori templomban található, így nézelődés közben is fedett, biztonságos helyen vagy az eső elől.",
+                "ro": "Scheletul uriaș se află într-o fostă biserică; prin urmare, sunteți protejat de ploaie în timp ce admirați această lucrare monumentală.",
+                "en": "The giant skeleton is housed inside a former church, so you are perfectly sheltered from the rain while admiring this monumental work."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang durch Foligno hat einen ganz eigenen Charme. Die klare Luft am Morgen belebt, während wir die ersten Denkmäler besuchen. Warme Kleidung ist wichtig, da die Schatten in den engen Gassen kühl sind.\n\nMittags genießen wir die Wärme in den prachtvollen Museen. Die historischen Säle sind gut temperiert und bieten eine willkommene Pause von der winterlichen Kälte draußen.\n\nAm Nachmittag nutzen wir das weiche Winterlicht für Fotos der Kirchenfassaden. Da es gegen 17:00 Uhr dunkel wird, planen wir die Besuche so, dass wir die Außenansichten rechtzeitig sehen.\n\nDer Tag endet bei der Calamita Cosmica. In der Dämmerung wirkt das beleuchtete Skelett in der Stille der Kirche besonders kraftvoll. Ein heißes Getränk danach in einem der Cafés am Platz wärmt wieder auf.",
+            "hu": "A téli Foligno csendes és hangulatos. A reggeli csípős levegő frissítően hat, miközben a város első látnivalóit fedezzük fel. Öltözzünk rétegesen, mert a szűk utcák árnyékos részei ilyenkor hidegek.\n\nDélben a város gazdag múzeumaiba húzódunk be a fűtött termekbe. A Palazzo Trinci és a képtárak falai között nemcsak művészetet, hanem kellemes meleget is találunk.\n\nDélután érdemes kihasználni a korai lemenő nap sugarait a templomok fotózásához. Mivel 17 óra körül sötétedik, a külső helyszíneket vegyük előre a programban.\n\nAz este a Calamita Cosmica monumentális látványával zárul. A kora esti szürkületben a megvilágított csontváz misztikus élményt nyújt. Zárjuk a napot egy forró csokoládéval a főtéren.",
+            "ro": "O plimbare de iarnă prin Foligno are un farmec aparte. Aerul curat de dimineață este revigorant în timp ce vizităm primele monumente. Hainele groase sunt necesare, deoarece umbra străzilor înguste este răcoroasă.\n\nLa prânz, ne bucurăm de căldura muzeelor splendide. Sălile istorice sunt bine încălzite și oferă o pauză binemeritată de la frigul iernii de afară.\n\nDupă-amiaza, profităm de lumina blândă de iarnă pentru fotografii. Deoarece se întunecă în jurul orei 17:00, planificăm vizitele exterioare înainte de apus.\n\nZiua se încheie la Calamita Cosmica. În amurg, scheletul iluminat în liniștea bisericii pare extrem de puternic. O băutură caldă după vizită este perfectă pentru a vă reîncălzi.",
+            "en": "A winter walk through Foligno carries a unique, quiet charm. The crisp morning air is bracing as we visit the first landmarks. Layered clothing is essential, as the narrow, shaded streets can be quite cold.\n\nAt noon, we appreciate the warmth of the magnificent museums. The historic halls are heated, providing a comfortable environment to admire the art away from the winter chill.\n\nIn the afternoon, make the most of the golden winter light for photos. Since it gets dark around 17:00, prioritize outdoor views before the early sunset.\n\nThe day concludes at the Calamita Cosmica. In the early winter twilight, the lit-up skeleton inside the quiet church feels particularly profound. End your day with a warm drink at a nearby cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Il trenino dei canapè",
+                "hu": "Il trenino dei canapè",
+                "ro": "Il trenino dei canapè",
+                "en": "Il trenino dei canapè"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter oft frostig; machen Sie einen kurzen Stopp an der Skulptur und bewegen Sie sich zügig weiter, um warm zu bleiben.",
+                "hu": "A park télen gyakran deres és hűvös; állj meg egy gyors pillantásra a szobornál, majd haladj tovább tempósan, hogy megőrizd a testhődet.",
+                "ro": "Parcul este adesea înghețat iarna; faceți o oprire scurtă la sculptură și continuați drumul în pas vioi pentru a vă menține căldura.",
+                "en": "The park is often frosty in winter; take a quick look at the sculpture and keep moving at a brisk pace to stay warm in the open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio del Crocifisso",
+                "hu": "Oratorio del Crocifisso",
+                "ro": "Oratorio del Crocifisso",
+                "en": "Oratorio del Crocifisso"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich aufzuwärmen; die prunkvolle Ausstattung wirkt im warmen Innenlicht besonders einladend gegen die Winterkälte.",
+                "hu": "Csodálatos hely a felmelegedésre; a díszes belső tér a meleg fényekkel különösen hívogató a téli hideg ellenében.",
+                "ro": "Un loc minunat pentru a vă încălzi; interiorul somptuos pare extrem de primitor în lumina caldă, ferit de frigul iernii.",
+                "en": "A wonderful place to warm up; the lavish interior feels especially inviting in the warm indoor lighting against the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Italiano di Arte Contemporanea",
+                "hu": "Centro Italiano di Arte Contemporanea",
+                "ro": "Centro Italiano di Arte Contemporanea",
+                "en": "Centro Italiano di Arte Contemporanea"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Galerien bieten Schutz vor dem Winterwind; genießen Sie die moderne Kunst in entspannter, warmer Atmosphäre.",
+                "hu": "A fűtött galériák védelmet nyújtanak a téli szél elől; élvezd a modern művészetet kellemesen meleg és nyugodt környezetben.",
+                "ro": "Galeriile încălzite oferă protecție împotriva vântului de iarnă; bucurați-vă de arta modernă într-o atmosferă relaxată și caldă.",
+                "en": "The heated galleries provide a great escape from the winter wind; enjoy the modern art in a relaxed and comfortably warm atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Capitolare Diocesi di Foligno",
+                "hu": "Museo Capitolare Diocesi di Foligno",
+                "ro": "Museo Capitolare Diocesi di Foligno",
+                "en": "Museo Capitolare Diocesi di Foligno"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause im Warmen; die sakralen Schätze lassen sich ohne Winterjacke viel besser bewundern.",
+                "hu": "Használd ki a múzeumlátogatást egy hosszabb melegedőre; a vallási kincseket télikabát nélkül, kényelmesen is megcsodálhatod.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză prelungită la căldură; comorile sacre pot fi admirate mult mai bine fără haina de iarnă.",
+                "en": "Use this museum visit for an extended warm break; the sacred treasures are much better appreciated without the bulk of a winter coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca civica",
+                "hu": "Pinacoteca civica",
+                "ro": "Pinacoteca civica",
+                "en": "Pinacoteca civica"
+              },
+              "tip_5lang": {
+                "de": "Der Palazzo Trinci ist im Winter ein Muss; die gut temperierten Räume mit den berühmten Fresken bieten Kultur ohne zu frieren.",
+                "hu": "A Palazzo Trinci télen kötelező látnivaló; a fűtött termek a híres freskókkal igazi kulturális élményt nyújtanak fagyoskodás nélkül.",
+                "ro": "Palazzo Trinci este obligatoriu de vizitat iarna; încăperile bine încălzite cu fresce celebre oferă cultură fără a tremura de frig.",
+                "en": "Palazzo Trinci is a winter must-see; the well-tempered rooms featuring famous frescoes offer culture without the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giacomo",
+                "hu": "Chiesa di San Giacomo",
+                "ro": "Chiesa di San Giacomo",
+                "en": "Chiesa di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Kirchen können im Winter kühl sein; behalten Sie Ihren Schal an, während Sie die gotische Architektur in der stillen Winteratmosphäre bewundern.",
+                "hu": "A templomok télen hűvösek lehetnek; hagyd magadon a sáladat, miközben a gótikus építészetet csodálod a csendes téli áhítatban.",
+                "ro": "Bisericile pot fi răcoroase iarna; păstrați-vă fularul în timp ce admirați arhitectura gotică în atmosfera liniștită de iarnă.",
+                "en": "Churches can be chilly in winter; keep your scarf on while you admire the Gothic architecture in the quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamita Cosmica",
+                "hu": "Calamita Cosmica",
+                "ro": "Calamita Cosmica",
+                "en": "Calamita Cosmica"
+              },
+              "tip_5lang": {
+                "de": "In der früh einsetzenden Dunkelheit ist das beleuchtete Skelett besonders dramatisch; genießen Sie die Mystik dieses Ortes im Schutz der Mauern.",
+                "hu": "A korai sötétedésben a megvilágított csontváz különösen drámai látvány; élvezd a hely misztikumát a falak nyújtotta szélvédettségben.",
+                "ro": "În întunericul care se lasă devreme, scheletul iluminat este extrem de dramatic; bucurați-vă de misticismul acestui loc protejat de ziduri.",
+                "en": "In the early darkness, the illuminated skeleton looks exceptionally dramatic; enjoy the mysticism of this site sheltered within the old walls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpártúráját a modern Chiesa di San Paolo Apostolo épületénél, majd tekerjen a történelmi központba. Délben fedezze fel a Chiesa di San Nicolòt és a Pinacoteca civica gazdag gyűjteményét. A délutáni tekerés a Sant'Agostinohoz és a híres Calamita Cosmica szoborhoz vezet. Zárja a napot az ősi Strada romana csendes útjain, amely különösen naplementekor nyújt békés élményt.",
         "ro": "Începeți turul cu bicicleta la biserica modernă San Paolo Apostolo, apoi pedalați spre centrul istoric. Amiaza vă dezvăluie frumoasa Chiesa di San Nicolò și colecțiile bogate de la Pinacoteca civica. După-amiaza vă duce la Sant'Agostino și la faimoasa sculptură Calamita Cosmica. Încheiați ziua descoperind străvechea Strada romana, o retragere liniștită ideală la apusul soarelui.",
         "en": "Kick off your bike tour at the modern Chiesa di San Paolo Apostolo before riding into the historic core. Midday reveals the beautiful Chiesa di San Nicolò and the rich collections of Pinacoteca civica. Your afternoon pedal takes you to Sant'Agostino and the famous Calamita Cosmica sculpture. Wrap up the day by discovering the ancient Strada romana, a quiet retreat at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Foligno mit dem Rad bei Regen erfordert Vorsicht, aber die Stadt ist flach und gut befahrbar. Morgens starten wir mit Regenponcho zu den ersten Kirchen, wobei wir auf rutschiges Kopfsteinpflaster achten.\n\nMittags legen wir längere Pausen in den Museen ein, um das Rad sicher und trocken unterzustellen. Die kurzen Wege minimieren die Zeit im Regen zwischen den kulturellen Highlights.\n\nDer Nachmittag führt uns zu weiteren sakralen Bauten. Die Straßen sind bei Regen leerer, was das Radfahren entspannter macht, solange man wasserfeste Kleidung und gute Bremsen hat.\n\nZum Abschluss erreichen wir die Calamita Cosmica. Die beeindruckende Skulptur bietet einen würdigen Endpunkt, bevor wir uns auf den kurzen Rückweg machen. Achten Sie auf Pfützen in den tiefer gelegenen Gassen.",
+            "hu": "A kerékpározás Folignóban esőben is lehetséges, mivel a terep sík, de óvatosságot igényel. Reggel esőponchóban indulunk útnak, külön figyelve a csúszós macskakövekre a kanyarokban.\n\nDélben hosszabb pihenőket iktatunk be a múzeumokban, ahol a biciklit biztonságos, fedett helyen hagyhatjuk. A rövid távolságok miatt kevés időt kell ténylegesen az esőben töltenünk.\n\nDélután további templomokat látogatunk meg. Az esőben üresebbek az utcák, így zavartalanabbul haladhatunk, de a féktávolság ilyenkor megnő, erre ügyeljünk.\n\nA napot a Calamita Cosmica zárja. A monumentális műalkotás után már csak egy rövid tekerés vár ránk. Vigyázzunk az útmenti tócsákra, amelyek mélyebbek lehetnek a vártnál.",
+            "ro": "Explorarea orașului Foligno pe bicicletă pe ploaie necesită prudență, dar orașul plat este ușor de parcurs. Dimineața pornim cu pelerine de ploaie, fiind atenți la pavajul alunecos din intersecții.\n\nLa prânz, planificăm pauze mai lungi în muzee, lăsând bicicleta într-un loc sigur și ferit. Distanțele scurte între obiective minimizează timpul petrecut direct în ploaie.\n\nDupă-amiaza ne îndreptăm spre alte edificii sacre. Străzile sunt mai libere pe ploaie, ceea ce face pedalatul mai relaxant, cu condiția să aveți frâne bune și echipament impermeabil.\n\nÎncheiem la Calamita Cosmica. Această sculptură impresionantă oferă un final memorabil turului nostru. Fiți atenți la bălțile care se pot forma pe străzile mai joase din centrul vechi.",
+            "en": "Cycling through Foligno in the rain is manageable thanks to the flat terrain, but requires extra care. Start your morning in a rain poncho, staying alert for slippery cobblestones when turning.\n\nAt midday, schedule longer museum visits to dry off and keep your bike parked in a sheltered spot. The short distances between stops mean you won't be out in the downpour for long.\n\nSpend the afternoon visiting more churches. The streets are often quieter in the rain, making for a peaceful ride as long as you have good brakes and waterproof gear.\n\nFinish at the Calamita Cosmica. This impressive sculpture provides a grand finale before a short pedal back. Watch out for deep puddles that can hide in the uneven historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Diese moderne Kirche bietet eine weite, schützende Fassade; parken Sie Ihr Rad nah am Eingang, um beim Absteigen trocken zu bleiben.",
+                "hu": "Ez a modern templom széles, védelmet nyújtó homlokzattal rendelkezik; parkolj közel a bejárathoz, hogy leszálláskor is száraz maradj.",
+                "ro": "Această biserică modernă are o fațadă largă protectoare; parcați bicicleta aproape de intrare pentru a rămâne uscat la coborâre.",
+                "en": "This modern church features a wide, protective facade; park your bike close to the entrance to minimize getting wet when you dismount."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Nicolò",
+                "hu": "Chiesa di San Nicolò",
+                "ro": "Chiesa di San Nicolò",
+                "en": "Chiesa di San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter einem Vorsprung, bevor Sie die wertvollen Altarbilder im Inneren bestaunen und sich vom Regen erholen.",
+                "hu": "Zárd le a biciklidet egy eresztoldat alatt, mielőtt megcsodálnád a benti értékes oltárképeket és megpihennél az eső elől.",
+                "ro": "Asigurați bicicleta sub o streașină înainte de a admira altarele valoroase din interior și de a vă odihni ferit de ploaie.",
+                "en": "Secure your bike under an overhang before heading inside to admire the precious altarpieces and take a break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca civica",
+                "hu": "Pinacoteca civica",
+                "ro": "Pinacoteca civica",
+                "en": "Pinacoteca civica"
+              },
+              "tip_5lang": {
+                "de": "Die Pinakothek im Palazzo Trinci ist ideal für eine lange Regenpause; nutzen Sie den Innenhof zum geschützten Abstellen Ihres Rades.",
+                "hu": "A Palazzo Trinci képtára ideális egy hosszú eső-szünetre; használd a belső udvart a kerékpárod védett tárolására.",
+                "ro": "Pinacoteca din Palazzo Trinci este ideală pentru o pauză lungă de ploaie; folosiți curtea interioară pentru a lăsa bicicleta la adăpost.",
+                "en": "The gallery in Palazzo Trinci is ideal for a long rain break; use the inner courtyard to park your bike in a relatively sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Chiesa di Sant'Agostino",
+                "ro": "Chiesa di Sant'Agostino",
+                "en": "Chiesa di Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Anfahren auf der nassen Straße vor der Kirche auf die Fahrbahnmarkierungen, die bei Regen sehr glatt sein können.",
+                "hu": "Induláskor a templom előtti vizes úton figyelj az útburkolati jelekre, amelyek esőben rendkívül csúszóssá válhatnak.",
+                "ro": "La plecare, pe drumul ud din fața bisericii, fiți atenți la marcajele rutiere care pot deveni extrem de alunecoase pe ploaie.",
+                "en": "When starting off on the wet road in front of the church, be careful of road markings which can become very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamita Cosmica",
+                "hu": "Calamita Cosmica",
+                "ro": "Calamita Cosmica",
+                "en": "Calamita Cosmica"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im überdachten Bereich der ehemaligen Kirche ab, um das Monumentalwerk in aller Ruhe und trocken zu besichtigen.",
+                "hu": "Tedd le a biciklidet az egykori templom fedett részén, hogy nyugodtan és szárazon tekinthesd meg ezt a monumentális alkotást.",
+                "ro": "Lăsați bicicleta în zona acoperită a fostei biserici pentru a vedea această lucrare monumentală în liniște și la uscat.",
+                "en": "Park your bike in the covered area of the former church to view this monumental work in peace while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Strada romana",
+                "hu": "Strada romana",
+                "ro": "Strada romana",
+                "en": "Strada romana"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine können bei Nässe extrem rutschig sein; schieben Sie Ihr Rad hier lieber ein paar Meter, um sicher zu gehen.",
+                "hu": "Az ókori kövek vizesen rendkívül csúszósak lehetnek; itt inkább told a kerékpárt pár métert a biztonság kedvéért.",
+                "ro": "Pietrele antice pot fi extrem de alunecoase când sunt ude; mai bine împingeți bicicleta câțiva metri aici pentru siguranță.",
+                "en": "The ancient stones can be extremely slippery when wet; it's safer to walk your bike for a few meters at this historic site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Foligno im Winter ist belebend, solange man sich gegen den kalten Fahrtwind schützt. Morgens starten wir gut eingepackt mit Handschuhen zu den ersten architektonischen Highlights der Stadt.\n\nMittags suchen wir die Wärme der Museen auf. Da man sich beim Radfahren bewegt, kühlt man in den Pausen schnell aus, weshalb die gut geheizten Galerien eine perfekte Erholung bieten.\n\nDer Nachmittag wird genutzt, um die Außenbezirke zu erkunden, bevor die Sonne gegen 17:00 Uhr untergeht. Die tiefstehende Wintersonne taucht die Ziegelfassaden in ein wunderschönes, warmes Licht.\n\nDer Tag endet bei der Calamita Cosmica. Die kühle Stille der ehemaligen Kirche passt perfekt zur winterlichen Stimmung. Ein zügiges Tempo auf dem Rückweg hilft, die Körperwärme bis zum Ziel zu halten.",
+            "hu": "A téli biciklizés Folignóban frissítő élmény, ha megfelelően védekezünk a hideg menetszél ellen. Reggel kesztyűben és sálban vágunk neki az első építészeti látnivalók felfedezésének.\n\nDélben a múzeumok melegében pihenünk meg. Kerékpározás közben a test felmelegszik, de a megállásoknál gyorsan lehűlhetünk, így a fűtött termek ideálisak a regenerálódásra.\n\nDélután a város külsőbb részeit járjuk be, ügyelve arra, hogy 17 óra előtt, még világosban végezzünk. A téli nap alacsony szöge gyönyörű fénybe vonja a téglafalakat.\n\nA napot a Calamita Cosmica zárja. Az egykori templom hűvös csendje jól illik a téli hangulathoz. A visszaúton tekerjünk tempósabban, hogy ne fázzunk meg a célba érésig.",
+            "ro": "Ciclismul în Foligno iarna este revigorant, atâta timp cât vă protejați de vântul rece. Dimineața pornim bine echipați, cu mănuși și fular, spre primele atracții arhitecturale ale orașului.\n\nLa prânz, căutăm căldura muzeelor. Deoarece pedalatul vă încălzește, puteți răci rapid în pauze, așa că galeriile bine încălzite oferă recuperarea perfectă.\n\nDupă-amiaza este folosită pentru a explora zonele mai periferice înainte de apusul soarelui de la ora 17:00. Soarele jos de iarnă scaldă fațadele de cărămidă într-o lumină caldă superbă.\n\nZiua se încheie la Calamita Cosmica. Liniștea răcoroasă a fostei biserici se potrivește perfect cu atmosfera de iarnă. Un ritm susținut pe drumul de întoarcere vă va ajuta să vă mențineți căldura.",
+            "en": "Cycling in Foligno during winter is exhilarating as long as you protect yourself against the cold wind. Start your morning well-wrapped with gloves and a scarf as you head to the first highlights.\n\nAt midday, retreat to the warmth of the museums. While cycling keeps you warm, you can cool down quickly during breaks, so heated galleries are perfect for recovery.\n\nSpend the afternoon exploring the outskirts before the sun sets around 17:00. The low winter sun bathes the brick facades in a beautiful, warm golden light.\n\nFinish your ride at the Calamita Cosmica. The cool silence of the former church matches the winter mood perfectly. Keep a brisk pace on the way back to stay warm until you reach your destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur wirkt im klaren Winterlicht besonders scharf; tragen Sie windfeste Handschuhe für die Fahrt zu diesem exponierten Ort.",
+                "hu": "A modern építészet a tiszta téli fényben különösen karakteres; viselj szélálló kesztyűt, amikor ehhez a nyitottabb helyszínhez tekersz.",
+                "ro": "Arhitectura modernă pare extrem de clară în lumina rece de iarnă; purtați mănuși rezistente la vânt pentru drumul spre acest loc expus.",
+                "en": "The modern architecture looks particularly sharp in the clear winter light; wear windproof gloves for the ride to this more exposed site."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Nicolò",
+                "hu": "Chiesa di San Nicolò",
+                "ro": "Chiesa di San Nicolò",
+                "en": "Chiesa di San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, windgeschützte Pause; genießen Sie die sakrale Kunst, bevor Sie wieder in die winterliche Brise aufsteigen.",
+                "hu": "A templom csendes, szélvédett pihenőt kínál; élvezd a vallási művészetet, mielőtt újra nyeregbe szállnál a téli szélben.",
+                "ro": "Biserica oferă o pauză liniștită, ferită de vânt; bucurați-vă de arta sacră înainte de a urca din nou pe bicicletă în briza iernii.",
+                "en": "The church offers a quiet, wind-sheltered break; enjoy the sacred art before mounting your bike again in the brisk winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca civica",
+                "hu": "Pinacoteca civica",
+                "ro": "Pinacoteca civica",
+                "en": "Pinacoteca civica"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Glieder aufzuwärmen; lassen Sie sich Zeit in den beheizten Sälen, um die Kälte der Fahrt aus den Knochen zu vertreiben.",
+                "hu": "Ideális hely a tagjaid felmelegítésére; szánj időt a fűtött termekre, hogy kiűzd a tekerés közben felszedett hideget a csontjaidból.",
+                "ro": "Un loc ideal pentru a vă încălzi; acordați-vă timp în sălile încălzite pentru a alunga frigul acumulat în timpul mersului pe bicicletă.",
+                "en": "An ideal spot to warm up your limbs; take your time in the heated halls to chase away the chill from your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Chiesa di Sant'Agostino",
+                "ro": "Chiesa di Sant'Agostino",
+                "en": "Chiesa di Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade glänzt in der Wintersonne; machen Sie ein schnelles Foto und nutzen Sie die Bewegung beim Treten, um nicht auszukühlen.",
+                "hu": "A homlokzat ragyog a téli napsütésben; készíts egy gyors fotót, és használd a tekerés mozgását, hogy ne hűljön le a tested.",
+                "ro": "Fațada strălucește în soarele de iarnă; faceți o fotografie rapidă și folosiți mișcarea pedalatului pentru a nu vă răci.",
+                "en": "The facade gleams in the low winter sun; take a quick photo and use the physical exertion of pedaling to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamita Cosmica",
+                "hu": "Calamita Cosmica",
+                "ro": "Calamita Cosmica",
+                "en": "Calamita Cosmica"
+              },
+              "tip_5lang": {
+                "de": "In der ehemaligen Kirche herrscht eine kühle, aber trockene Stille; bewundern Sie das Skelett in der besonderen Ruhe der Wintersaison.",
+                "hu": "Az egykori templomban hűvös, de száraz csend honol; csodáld meg a csontvázat a téli szezonra jellemző különleges nyugalomban.",
+                "ro": "În fosta biserică domnește o liniște răcoroasă, dar uscată; admirați scheletul în liniștea deosebită a sezonului de iarnă.",
+                "en": "The former church has a cool but dry silence; admire the skeleton in the unique tranquility typical of the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Strada romana",
+                "hu": "Strada romana",
+                "ro": "Strada romana",
+                "en": "Strada romana"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf den alten Steinen; fahren Sie hier besonders vorsichtig oder steigen Sie kurz ab.",
+                "hu": "Ügyelj az esetleges jeges foltokra a régi köveken; tekerj itt különösen óvatosan, vagy szállj le egy rövid időre a biztonságért.",
+                "ro": "Atenție la posibilele porțiuni înghețate de pe pietrele vechi; pedalați cu mare atenție aici sau coborâți scurt de pe bicicletă.",
+                "en": "Watch out for potential icy patches on the ancient stones; cycle with extra caution here or dismount briefly for safety."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Indítsa autós útját az ókori tomba romana lenyűgöző régészeti lelőhelyénél, a központon kívül. Délben csodálja meg a Chiesa di San Paolo Apostolo merész építészetét és a Museo Capitolare kincseit. Délután álljon meg a Calamita Cosmica és a történelmi Locomotiva E.626.156 nevezetességeknél. Fejezze be a felfedezőutat a pihentető Anfiteatro Parco Hoffman szabadtéri komplexumában.",
         "ro": "Începeți traseul auto la vechea tomba romana, un sit arheologic impresionant din afara centrului. La amiază, admirați arhitectura curajoasă a bisericii San Paolo Apostolo și comorile de la Museo Capitolare. După-amiaza include opriri la Calamita Cosmica și la istorica Locomotiva E.626.156. Încheiați-vă călătoria relaxându-vă în spațiul verde plăcut de la Anfiteatro Parco Hoffman.",
         "en": "Start your driving route at the ancient tomba romana, an impressive archaeological site outside the center. By midday, admire the bold architecture of Chiesa di San Paolo Apostolo and the Museo Capitolare's treasures. The afternoon features a quick stop at the striking Calamita Cosmica and the historic Locomotiva E.626.156. Finish your tour at the relaxing Anfiteatro Parco Hoffman."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Foligno auch bei starkem Regen komfortabel erkunden. Wir starten morgens mit dem Besuch einer antiken Grabstätte, wobei wir direkt davor parken können, um trocken zu bleiben.\n\nMittags konzentrieren wir uns auf die Highlights im Zentrum. Parkhäuser in der Nähe der Museen ermöglichen kurze Wege im Freien. So bleibt die Kleidung trocken, während man die Kultur genießt.\n\nDer Nachmittag führt uns zu weiteren Sehenswürdigkeiten am Stadtrand. Die Heizung im Auto sorgt für ein angenehmes Klima zwischen den Stopps, und man kann den Regenschirm griffbereit im Wagen lassen.\n\nDer Tag endet entspannt bei der Calamita Cosmica. Da das Monument überdacht ist, stört der Regen nicht. Die Rückfahrt durch die beleuchteten, nassen Straßen von Foligno hat ihren ganz eigenen optischen Reiz.",
+            "hu": "Autóval Foligno még heves esőben is kényelmesen bejárható. A reggelt egy antik síremléknél kezdjük, ahol közvetlenül a bejáratnál parkolhatunk, így szinte száraz lábbal jutunk a látnivalóhoz.\n\nDélben a belvárosi múzeumokra koncentrálunk. A közeli parkolóházak lehetővé teszik, hogy csak minimális időt töltsünk a szabadban, így ruházatunk száraz marad a kulturális programok alatt.\n\nDélután a város szélén található látnivalókat keressük fel. Az autó fűtése kellemes környezetet biztosít a megállók között, az esernyőt pedig bármikor előkaphatjuk a hátsó ülésről.\n\nA napot a Calamita Cosmica látványával zárjuk. Mivel az alkotás fedett helyen van, az eső nem zavarja a nézelődést. A kivilágított, vizes utcákon való esti autózás különleges hangulatot áraszt.",
+            "ro": "Cu mașina, Foligno poate fi explorat confortabil chiar și pe ploaie torențială. Începem dimineața cu vizitarea unui mormânt antic, unde putem parca chiar în față pentru a rămâne uscați.\n\nLa prânz ne concentrăm pe punctele de interes din centru. Parcări etajate în apropierea muzeelor permit deplasări scurte în aer liber. Astfel, hainele rămân uscate în timp ce vă bucurați de cultură.\n\nDupă-amiaza ne conduce spre alte obiective de la marginea orașului. Încălzirea din mașină asigură un climat plăcut între opriri, iar umbrela poate fi lăsată la îndemână în vehicul.\n\nZiua se încheie relaxat la Calamita Cosmica. Deoarece monumentul este acoperit, ploaia nu deranjează. Drumul de întoarcere prin străzile iluminate și ude ale orașului are propriul farmec vizual.",
+            "en": "By car, Foligno can be explored in comfort even during heavy rain. Start your morning at an ancient tomb where you can park right out front, keeping your walk to the site short and dry.\n\nAt midday, focus on the central highlights. Multi-story car parks near the museums allow for very brief walks outdoors, ensuring you stay dry while hopping between cultural venues.\n\nSpend the afternoon visiting sights on the outskirts of town. The car’s heater keeps things cozy between stops, and you can keep your umbrella handy in the back seat at all times.\n\nEnd your day at the Calamita Cosmica. Since the monument is indoors, the rain won't spoil the experience. Driving back through Foligno’s lit, wet streets offers a unique and scenic atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "tomba romana",
+                "hu": "tomba romana",
+                "ro": "tomba romana",
+                "en": "tomba romana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; so können Sie dieses antike Monument besichtigen, ohne im Regen nass zu werden.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz; így anélkül tekintheted meg ezt az antik emléket, hogy eláznál az esőben.",
+                "ro": "Parcați cât mai aproape de intrare; astfel puteți vizita acest monument antic fără a vă uda pe ploaie.",
+                "en": "Park as close to the entrance as possible; this allows you to visit this ancient monument while minimizing your time out in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz vor der Kirche; der kurze Weg zum modernen Gebäude schützt Sie vor längerem Aufenthalt im Regen.",
+                "hu": "Használd a templom előtti nagy parkolót; a modern épületig tartó rövid séta megvéd a hosszas esőben való tartózkodástól.",
+                "ro": "Folosiți parcarea mare din fața bisericii; drumul scurt până la clădirea modernă vă protejează de expunerea prelungită la ploaie.",
+                "en": "Take advantage of the large parking lot in front of the church; the short walk to the modern building limits your exposure to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Capitolare Diocesi di Foligno",
+                "hu": "Museo Capitolare Diocesi di Foligno",
+                "ro": "Museo Capitolare Diocesi di Foligno",
+                "en": "Museo Capitolare Diocesi di Foligno"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie ein zentrumsnahes Parkhaus; von dort erreichen Sie das Museum schnell und meist unter schützenden Hausvorsprüngen.",
+                "hu": "Válassz egy belvárosi parkolóházat; onnan gyorsan és többnyire védett ereszek alatt érheted el a múzeum bejáratát.",
+                "ro": "Alegeți o parcare etajată aproape de centru; de acolo ajungeți la muzeu rapid și în mare parte pe sub streșini protectoare.",
+                "en": "Choose a central parking garage; from there, you can reach the museum quickly, mostly walking under protective building overhangs."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamita Cosmica",
+                "hu": "Calamita Cosmica",
+                "ro": "Calamita Cosmica",
+                "en": "Calamita Cosmica"
+              },
+              "tip_5lang": {
+                "de": "Das Monument ist in einer ehemaligen Kirche untergebracht; Sie können Ihr Auto in der Nähe abstellen und die Skulptur im Trockenen bestaunen.",
+                "hu": "Az alkotás egy egykori templomban kapott helyet; parkolj le a közelben, és csodáld meg a csontvázat teljesen fedett helyen.",
+                "ro": "Monumentul este găzduit într-o fostă biserică; puteți lăsa mașina în apropiere și admira sculptura la adăpost de ploaie.",
+                "en": "The monument is housed inside a former church; you can park nearby and admire the sculpture while staying perfectly dry indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Locomotiva E.626.156",
+                "hu": "Locomotiva E.626.156",
+                "ro": "Locomotiva E.626.156",
+                "en": "Locomotiva E.626.156"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Lokomotive direkt vom Wagen aus oder steigen Sie nur kurz für ein schnelles Foto bei Regen aus.",
+                "hu": "Tekintsd meg a történelmi mozdonyt közvetlenül az autóból, vagy csak egy gyors fotó erejéig szállj ki az esőben.",
+                "ro": "Admirați locomotiva istorică direct din mașină sau coborâți doar scurt pentru o fotografie rapidă dacă plouă.",
+                "en": "View the historic locomotive directly from your car or step out just briefly for a quick photo if the rain is persistent."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Parco Hoffman",
+                "hu": "Anfiteatro Parco Hoffman",
+                "ro": "Anfiteatro Parco Hoffman",
+                "en": "Anfiteatro Parco Hoffman"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick auf den Park; bei kurzen Pausen ist der Parkplatz direkt am Eingang ideal.",
+                "hu": "Heves esőben maradj az autóban és élvezd a park látványát; szünetekben a közvetlenül a bejáratnál lévő parkoló ideális a rövid sétához.",
+                "ro": "Pe ploaie torențială, rămâneți în mașină și admirați parcul; în pauze, parcarea direct de la intrare este ideală pentru o scurtă plimbare.",
+                "en": "In heavy rain, stay in the car and enjoy the park views; during breaks, the parking lot right at the entrance is ideal for a quick look."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Foligno im Winter mit dem Auto zu bereisen, ist die wärmste und entspannteste Option. Morgens starten wir gemütlich zur antiken Grabstätte, wobei die Sitzheizung den Start in den frostigen Tag versüßt.\n\nMittags parken wir nah am historischen Zentrum. Die beheizten Museen bieten eine wunderbare Ergänzung zur warmen Fahrt, und man muss keine dicken Schichten im Auto tragen.\n\nDer Nachmittag führt uns zu architektonischen Highlights, die im klaren Winterlicht besonders gut zur Geltung kommen. Da es früh dunkel wird, genießen wir die letzten Sonnenstrahlen bequem vom Wagen aus.\n\nDer Tag endet bei der Calamita Cosmica. Das Monument in der kühlen Kirche wirkt im Winterlicht fast magisch. Die anschließende Fahrt durch das weihnachtlich beleuchtete Foligno ist ein schöner Abschluss des Tages.",
+            "hu": "Télen Foligno felfedezése autóval a legmelegebb és legkényelmesebb választás. Reggel kényelmesen indulunk az antik síremlékhez, miközben az autó fűtése segít elviselni a kinti fagyos levegőt.\n\nDélben a történelmi központ közelében parkolunk le. A fűtött múzeumok tökéletes kiegészítői a meleg autózásnak, és nem kell sok réteg ruhát viselnünk a vezetés közben.\n\nDélután az építészeti remekműveket keressük fel, amelyek a tiszta téli fényben különösen szépen mutatnak. Mivel korán sötétedik, az utolsó napsugarakat kényelmesen az autóból élvezhetjük.\n\nA napot a Calamita Cosmica zárja. A hűvös templomban lévő alkotás téli fényben szinte mágikus hatást kelt. A karácsonyi fényekkel díszített Folignón való esti átutazás méltó zárása a napnak.",
+            "ro": "Călătoria prin Foligno cu mașina iarna este cea mai călduroasă și relaxantă opțiune. Începem dimineața confortabil spre mormântul antic, încălzirea din scaune făcând startul zilei geroase mult mai plăcut.\n\nLa prânz parcăm aproape de centrul istoric. Muzeele încălzite completează perfect călătoria călduroasă și nu trebuie să purtați multe straturi de haine în mașină.\n\nDupă-amiaza ne conduce spre bijuteriile arhitecturale care arată deosebit de bine în lumina clară de iarnă. Deoarece se întunecă devreme, ne bucurăm de ultimele raze de soare confortabil din vehicul.\n\nZiua se încheie la Calamita Cosmica. Monumentul din biserica răcoroasă pare aproape magic în lumina de iarnă. Drumul de întoarcere prin Foligno iluminat de sărbătoare este o încheiere frumoasă a zilei.",
+            "en": "Exploring Foligno by car in winter is the warmest and most relaxed choice. Start your morning comfortably as you drive to the ancient tomb, with the car's heater taking the edge off the frosty air.\n\nAt midday, park close to the historic center. The heated museums are a great follow-up to a warm drive, and you won't need to wear bulky layers while behind the wheel.\n\nSpend the afternoon visiting architectural highlights that look especially stunning in the crisp winter light. Since it gets dark early, you can enjoy the last bits of daylight from the comfort of your car.\n\nEnd the day at the Calamita Cosmica. The monument inside the cool church feels almost magical in the winter light. Driving through Foligno with its festive evening lights is a wonderful way to finish your tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "tomba romana",
+                "hu": "tomba romana",
+                "ro": "tomba romana",
+                "en": "tomba romana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Wagen, um sich zwischen dem Aussteigen an diesem oft windigen, freien Feldstandort immer wieder aufzuwärmen.",
+                "hu": "Használd az autó fűtését, hogy felmelegedj a kiszállások között ezen a gyakran szeles, nyitott területen található helyszínen.",
+                "ro": "Folosiți încălzirea din mașină pentru a vă reîncălzi între vizite la acest sit situat în câmp deschis, unde vântul poate fi tăios.",
+                "en": "Use the car's heater to warm up between dashes to this often windy, open-field site; keep your visits brief to avoid the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Paolo Apostolo",
+                "hu": "Chiesa di San Paolo Apostolo",
+                "ro": "Chiesa di San Paolo Apostolo",
+                "en": "Chiesa di San Paolo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Betonarchitektur kann im Winter kühl wirken; bewundern Sie das Lichtspiel im Inneren und kehren Sie dann in Ihr warmes Auto zurück.",
+                "hu": "A modern betonépítészet télen hűvösnek hathat; csodáld meg a benti fényjátékokat, majd térj vissza a fűtött autódba.",
+                "ro": "Arhitectura modernă din beton poate părea rece iarna; admirați jocurile de lumini din interior și apoi întoarceți-vă în mașina călduroasă.",
+                "en": "The modern concrete architecture can feel quite cool in winter; admire the play of light inside and then retreat to your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Capitolare Diocesi di Foligno",
+                "hu": "Museo Capitolare Diocesi di Foligno",
+                "ro": "Museo Capitolare Diocesi di Foligno",
+                "en": "Museo Capitolare Diocesi di Foligno"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Kälte zu vergessen; parken Sie in der Nähe, damit der Weg vom warmen Auto in das geheizte Museum kurz ist.",
+                "hu": "Ideális megálló a hideg elfelejtésére; parkolj a közelben, hogy a meleg autóból a fűtött múzeumba vezető út a lehető legrövidebb legyen.",
+                "ro": "O oprire ideală pentru a uita de frig; parcați în apropiere pentru ca drumul de la mașina caldă la muzeul încălzit să fie scurt.",
+                "en": "An ideal stop to escape the cold; park nearby to keep the walk from your warm car to the heated museum as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Calamita Cosmica",
+                "hu": "Calamita Cosmica",
+                "ro": "Calamita Cosmica",
+                "en": "Calamita Cosmica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Wunderwerk in der Stille des Winters; die ehemalige Kirche schützt vor Wind, ist aber kühl – behalten Sie Ihren Mantel an.",
+                "hu": "Látogasd meg ezt a csodát a tél csendjében; az egykori templom véd a széltől, de hűvös, így hagyd magadon a kabátodat.",
+                "ro": "Vizitați această minunăție în liniștea iernii; fosta biserică protejează de vânt, dar este răcoroasă – păstrați-vă haina pe dvs.",
+                "en": "Visit this marvel in the quiet of winter; the former church protects you from the wind but is cool inside, so keep your coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "Locomotiva E.626.156",
+                "hu": "Locomotiva E.626.156",
+                "ro": "Locomotiva E.626.156",
+                "en": "Locomotiva E.626.156"
+              },
+              "tip_5lang": {
+                "de": "Das Metall der Lokomotive glänzt im Winterfrost; betrachten Sie dieses technische Denkmal bequem aus dem Fenster Ihres geheizten Wagens.",
+                "hu": "A mozdony fémváza csillog a téli dérben; tekintsd meg ezt a technikai emléket kényelmesen, a fűtött autód ablakából.",
+                "ro": "Metalul locomotivei strălucește în gerul iernii; admirați acest monument tehnic confortabil, de la fereastra mașinii încălzite.",
+                "en": "The locomotive's metal skin gleams in the winter frost; view this technical monument comfortably from the window of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Parco Hoffman",
+                "hu": "Anfiteatro Parco Hoffman",
+                "ro": "Anfiteatro Parco Hoffman",
+                "en": "Anfiteatro Parco Hoffman"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter oft menschenleer und friedlich; genießen Sie die Ruhe bei einem kurzen Spaziergang, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A park télen gyakran néptelen és békés; élvezd a csendet egy rövid séta erejéig, mielőtt újra felmelegednél az autóban.",
+                "ro": "Parcul este adesea pustiu și liniștit iarna; bucurați-vă de liniște în timpul unei scurte plimbări înainte de a vă reîncălzi în mașină.",
+                "en": "The park is often deserted and peaceful in winter; enjoy the silence with a short stroll before warming up again in your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

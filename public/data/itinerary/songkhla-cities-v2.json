@@ -160,6 +160,196 @@
         "hu": "A reggel a sino-portugál építészetű óváros felfedezésével indul, majd a Nakhon Nai Múzeum gazdag thai-kínai történelme nyújt izgalmas kulturális betekintést.\nDélben a békés Wat Yang Thong templom lelki megnyugvást kínál, mielőtt elmerülne a Songkhla Nemzeti Múzeum lenyűgöző és kiterjedt kiállításaiban.\nDélután észak felé vesszük az irányt, hogy a Khao Tangkuan világítótoronyból megcsodáljuk a dús zöld félszigetre nyíló lenyűgöző panorámát.\nAz estét a Samila strandon zárjuk, ahol a hűsítő tengeri szellő kíséretében nézheti meg a híres Arany Sellő szobrát a lemenő nap fényében.",
         "ro": "Dimineața începe cu explorarea Orașului Vechi cu străzile sale chino-portugheze, urmată de o vizită la Muzeul Nakhon Nai pentru o doză bogată de istorie.\nLa prânz, vizitați Wat Yang Thong pentru o pauză spirituală liniștită, înainte de a explora galeriile extinse ale Muzeului Național Songkhla.\nDupă-amiaza, îndreptați-vă spre nord pentru a vă bucura de vederi panoramice uimitoare de la Farul Khao Tangkuan peste peninsula verde.\nSeara se încheie pe plaja Samila, relaxându-vă pe nisip lângă faimoasa statuie a Sirenei de Aur, mângâiați de briza răcoroasă a mării.",
         "en": "The morning begins with an exploration of Songkhla Old Town's Sino-Portuguese streets, followed by a fascinating historical deep dive at the Nakhon Nai Museum.\nMidday brings a moment of serene spiritual reflection at Wat Yang Thong before spending time in the extensive and captivating galleries of the National Museum.\nIn the afternoon, head upwards to the Khao Tangkuan Lighthouse to take in breathtaking sweeping views across the lush green peninsula and shimmering sea.\nConclude the evening relaxing on the golden sands of Samila Beach, catching the sea breeze by the iconic Golden Mermaid statue as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen unter den Arkaden der Altstadt. Mittags bieten die Museen einen trockenen Zufluchtsort vor den Schauern. Am Nachmittag sollten Sie auf dem Weg zum Leuchtturm vorsichtig sein, da die Wege rutschig sind. Beenden Sie den Tag am Strand, wo der stürmische Himmel eine dramatische Atmosphäre schafft, bevor Sie sich ins Trockene zurückziehen.",
+            "hu": "Kezdje az esős reggelt az óváros árkádjai alatt. Délben meneküljön a záporok elől a lenyűgöző helyi múzeumokba. Délután óvatosan haladjon a világítótorony felé, mivel az utak nagyon csúszósak lehetnek. Zárja a napot a strandon, ahol a tenger feletti viharos égbolt drámai látványt nyújt, mielőtt egy meleg, fedett kávézóba húzódna.",
+            "ro": "Începeți dimineața ploioasă sub arcadele orașului vechi. La prânz, refugiați-vă din calea ploii în muzeele locale. După-amiaza, navigați cu atenție spre far, deoarece potecile devin alunecoase. Încheiați ziua la plajă, unde cerul furtunos deasupra apei oferă o atmosferă dramatică, înainte de a găsi un loc uscat și cald.",
+            "en": "Start your rainy morning under the sheltered arcades of the Old Town. By midday, escape the showers inside the fascinating local museums. In the afternoon, navigate carefully to the lighthouse, as paths get slippery. Conclude your day at the beach, where the dramatic stormy skies over the water provide a spectacular, moody atmosphere before you head to a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Songkhla Altstadt",
+                "hu": "Songkhla Óvárosa",
+                "ro": "Orașul Vechi Songkhla",
+                "en": "Songkhla Old Town"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und bleiben Sie unter den breiten Dachvorsprüngen trocken; tragen Sie wasserfeste Schuhe für die Pfützen.",
+                "hu": "Csodálja meg az építészetet a széles ereszek alatt szárazon maradva; viseljen vízálló cipőt a felgyülemlő tócsák miatt.",
+                "ro": "Admirați arhitectura stând uscat sub streșinile late; purtați încălțăminte impermeabilă pentru a evita bălțile de pe drum.",
+                "en": "Admire the architecture while staying dry under the wide eaves; wear waterproof shoes to comfortably navigate the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Nakhon Nai Museum",
+                "hu": "Nakhon Nai Múzeum",
+                "ro": "Muzeul Nakhon Nai",
+                "en": "Nakhon Nai Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die exquisiten lokalen Artefakte in diesem wunderschön erhaltenen, trockenen Zufluchtsort während starker Regengüsse.",
+                "hu": "Fedezze fel a helyi műtárgyakat ebben a gyönyörűen megőrzött, száraz beltéri menedékben a heves esőzések idején.",
+                "ro": "Explorați artefactele locale în acest refugiu interior uscat și frumos conservat în timpul ploilor torențiale.",
+                "en": "Explore the exquisite local artifacts inside this beautifully preserved, dry indoor haven during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Yang Thong",
+                "hu": "Wat Yang Thong",
+                "ro": "Wat Yang Thong",
+                "en": "Wat Yang Thong"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Tempeldetails unter dem Hauptdach; achten Sie auf rutschige Fliesenböden zwischen den Pavillons.",
+                "hu": "Csodálja meg a templom részleteit a főtető alatt; ügyeljen a nagyon csúszós csempézett padlóra a pavilonok között.",
+                "ro": "Minunați-vă de detaliile templului sub acoperișul principal; atenție la podelele cu gresie alunecoasă între pavilioane.",
+                "en": "Marvel at the intricate temple details under the main roof; beware of slippery tiled floors when walking between pavilions."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Songkhla",
+                "hu": "Songkhla Nemzeti Múzeum",
+                "ro": "Muzeul Național Songkhla",
+                "en": "Songkhla National Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem großen Herrenhaus in die Geschichte ein; der perfekte geräumige Rückzugsort bei einem starken Regensturm.",
+                "hu": "Mélyedjen el a történelemben ebben a hatalmas kúriában; tökéletes, tágas menedékhely egy kiadós esőzés kivárására.",
+                "ro": "Aprofundați istoria regiunii în acest conac grandios; este refugiul spațios perfect pentru a aștepta trecerea ploii.",
+                "en": "Delve into the region's rich history inside this grand mansion; it's the perfect spacious retreat to wait out a heavy rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Tangkuan Leuchtturm",
+                "hu": "Khao Tangkuan Világítótorony",
+                "ro": "Farul Khao Tangkuan",
+                "en": "Khao Tangkuan Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Aussicht von oben, aber halten Sie sich gut fest, da die nassen Stufen ziemlich tückisch sein können.",
+                "hu": "Élvezze a ködös, hangulatos kilátást fentről, de kapaszkodjon erősen, mert a nedves lépcsők nagyon csúszósak lehetnek.",
+                "ro": "Bucurați-vă de priveliștile cețoase de sus, dar țineți-vă bine de balustrade, deoarece treptele umede pot fi periculoase.",
+                "en": "Enjoy the misty atmospheric views from the top, but hold the handrails tightly as the wet steps can be quite treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Samila Beach",
+                "hu": "Samila Strand",
+                "ro": "Plaja Samila",
+                "en": "Samila Beach"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Meerjungfrau-Statue vor dem stürmischen Himmel und ziehen Sie sich dann in ein nahegelegenes überdachtes Café zurück.",
+                "hu": "Nézze meg az ikonikus szobrot a viharos égbolt előtt, majd gyorsan húzódjon be egy közeli, fedett tengerparti kávézóba.",
+                "ro": "Vedeți statuia sirenei pe fundalul cerului furtunos, apoi retrageți-vă rapid într-o cafenea acoperită din apropiere.",
+                "en": "Take a quick walk to see the mermaid statue against the stormy sky, then retreat to a nearby covered cafe to stay dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen kühlen Morgenspaziergang durch die historischen Straßen. Die Mittagszeit bietet angenehme Temperaturen, um die Tempel und Museen ohne Überhitzung zu erkunden. Nutzen Sie am Nachmittag den klaren Himmel für Panoramablicke vom Leuchtturm. Gehen Sie früh zum Strand, um den Sonnenuntergang gegen 17:00 Uhr zu erleben, und packen Sie sich warm ein.",
+            "hu": "Élvezze a friss reggeli sétát a történelmi utcákon. A délidő kellemes hőmérsékletet biztosít a templomok és múzeumok izzadásmentes felfedezéséhez. Délután használja ki a tiszta eget a világítótoronyból nyíló panorámához. Érjen korán a partra, hogy elcsípje az 17:00 körüli naplementét, és vegyen fel egy meleg réteget.",
+            "ro": "Bucurați-vă de o plimbare matinală răcoroasă pe străzile istorice. Prânzul oferă temperaturi confortabile pentru explorarea templelor. Pe măsură ce după-amiaza avansează, profitați de cerul senin pentru vederi panoramice de la far. Mergeți devreme la plajă pentru a prinde apusul în jur de ora 17:00, îmbrăcându-vă călduros.",
+            "en": "Enjoy a crisp morning stroll through the historic streets. Midday offers comfortable temperatures for exploring the temples and museums without overheating. As the afternoon progresses, take advantage of the clear skies for panoramic views from the lighthouse. Head to the beach early to catch the beautiful sunset around 5 PM, wrapping up warmly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Songkhla Altstadt",
+                "hu": "Songkhla Óvárosa",
+                "ro": "Orașul Vechi Songkhla",
+                "en": "Songkhla Old Town"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie bequem durch die Straßen; bringen Sie eine leichte Jacke mit, da die morgendliche Meeresbrise frisch sein kann.",
+                "hu": "Sétáljon kényelmesen a történelmi utcákon; hozzon magával egy könnyű kabátot, mert a reggeli tengeri szellő hűvös lehet.",
+                "ro": "Plimbați-vă confortabil pe străzile istorice; aduceți o jachetă ușoară, deoarece briza mării de dimineață poate fi rece.",
+                "en": "Stroll comfortably through the historic streets; bring a light jacket as the morning sea breeze can feel quite crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Nakhon Nai Museum",
+                "hu": "Nakhon Nai Múzeum",
+                "ro": "Muzeul Nakhon Nai",
+                "en": "Nakhon Nai Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Holzschnitzereien in diesem traditionellen Haus, das in den Wintermonaten angenehm kühl bleibt.",
+                "hu": "Csodálja meg a fafaragásokat ebben a hagyományos házban, amely a téli hónapokban kellemesen hűvös marad.",
+                "ro": "Admirați sculpturile în lemn din această casă tradițională, care rămâne plăcut de răcoroasă în lunile de iarnă.",
+                "en": "Admire the woodcarvings and vintage collections in this traditional house, which stays pleasantly cool during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Yang Thong",
+                "hu": "Wat Yang Thong",
+                "ro": "Wat Yang Thong",
+                "en": "Wat Yang Thong"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Atmosphäre bei mildem Wetter; das Licht ist perfekt, um die verzierten Dächer zu fotografieren.",
+                "hu": "Értékelje a békés templomi hangulatot az enyhe időben; a fények tökéletesek a díszes tetők fotózásához.",
+                "ro": "Apreciați atmosfera pașnică a templului în vremea blândă; lumina este perfectă pentru a fotografia acoperișurile ornate.",
+                "en": "Appreciate the peaceful temple atmosphere in the mild weather; the light is perfect for photographing the ornate roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Songkhla",
+                "hu": "Songkhla Nemzeti Múzeum",
+                "ro": "Muzeul Național Songkhla",
+                "en": "Songkhla National Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Exponate bequem; das milde Winterwetter macht den Spaziergang über das Gelände zu einer Freude.",
+                "hu": "Fedezze fel a történelmi kiállításokat kényelmesen; az enyhe téli idő élvezetessé teszi a hatalmas múzeumkert bejárását.",
+                "ro": "Explorați confortabil exponatele istorice; vremea blândă de iarnă face ca plimbarea pe terenul muzeului să fie o încântare.",
+                "en": "Explore the historical exhibits comfortably; the mild winter weather makes walking the extensive museum grounds a delight."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Tangkuan Leuchtturm",
+                "hu": "Khao Tangkuan Világítótorony",
+                "ro": "Farul Khao Tangkuan",
+                "en": "Khao Tangkuan Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie für klare Winteraussichten hinauf; beginnen Sie Ihren Abstieg vor 17:00 Uhr, da es recht früh dunkel wird.",
+                "hu": "Másszon fel a tiszta téli kilátásért a városra; kezdje meg az ereszkedést 17:00 előtt, mivel elég korán sötétedik.",
+                "ro": "Urcați pentru priveliști clare de iarnă; începeți coborârea înainte de ora 17:00, deoarece se întunecă destul de devreme.",
+                "en": "Climb up for breathtaking, clear winter views; start your descent before 5 PM as it gets dark quite early."
+              }
+            },
+            {
+              "name": {
+                "de": "Samila Beach",
+                "hu": "Samila Strand",
+                "ro": "Plaja Samila",
+                "en": "Samila Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie sich in der kühlen Brise; bringen Sie einen warmen Pullover mit und genießen Sie den frühen, farbenfrohen Sonnenuntergang.",
+                "hu": "Pihenjen a hűvös késő délutáni szélben; hozzon magával egy meleg pulóvert, és élvezze a korai, élénk naplementét.",
+                "ro": "Relaxați-vă în briza răcoroasă; aduceți un pulover călduros și bucurați-vă de apusul devreme și plin de culoare.",
+                "en": "Relax in the cool late afternoon breeze; bring a warm sweater and enjoy the early, vibrant sunset over the ocean."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A napot egy kellemes kerékpározással kezdjük az Óváros történelmi negyedében, majd egy rövid spirituális pihenőt tartunk a Wat Yang Thong templomnál.\nDélben a Nemzeti Múzeumban mélyülhet el a történelemben, ezt követően pedig eltekerünk a lenyűgöző klasszikus Chaloem Thong Színház mellett.\nDélután egy kisebb emelkedő vezet a Khao Noi Palotához, majd a part mentén megcsodálhatja a víz hatalmát jelképező Nagy Naga Kígyó szobrát.\nAz este közeledtével guruljon le a Samila strandra, ahol a hűs homokon pihenve élvezheti a tengerparti nyugalmat és az aranyló naplementét.",
         "ro": "Dimineața aduce o plimbare cu bicicleta prin Orașul Vechi istoric, urmată de o oprire pașnică pentru reflecție la templul Wat Yang Thong.\nLa prânz, aprofundați istoria la Muzeul Național și apoi faceți un mic ocol pentru a admira frumoasa arhitectură a Teatrului Chaloem Thong.\nDupă-amiaza pedalați spre Palatul Khao Noi pentru o doză de istorie regală și admirați impresionanta sculptură a Marelui Șarpe Naga de pe coastă.\nSeara, coborâți spre plaja Samila pentru a vă relaxa pe nisipurile sale aurii, bucurându-vă de briza mării pe măsură ce căldura zilei dispare ușor.",
         "en": "Start the day pedaling smoothly through the historic Old Town alleys, stopping briefly for a moment of peace at the serene Wat Yang Thong temple.\nMidday invites a deep dive into the region's past at the National Museum, followed by a quick scenic ride past the classic Chaloem Thong Theater.\nIn the afternoon, head slightly uphill to explore the Khao Noi Palace grounds and marvel at the striking Great Serpent Naga sculpture near the coastline.\nCruise down to Samila Beach in the evening, unwinding on the soft sands to enjoy the sunset and cooling sea breeze after an active day out."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch die feuchten Morgenstraßen der Altstadt. Die Mittagszeit ist ideal, um Museum und Theater zu besuchen und bei starken Schauern trocken zu bleiben. Treten Sie am Nachmittag vorsichtig in Richtung Küste in die Pedale und achten Sie auf glatte Straßen. Sichern Sie Ihr Fahrrad am Strand und genießen Sie die dramatische, stimmungsvolle Meereskulisse.",
+            "hu": "Óvatosan kerékpározzon az óváros nedves reggeli utcáin. A délidő tökéletes a múzeum és a színház meglátogatására a záporok elől menekülve. Délután óvatosan tekerjen a part menti emlékművek felé, ügyelve a nagyon csúszós utakra. A parton biztonságosan zárja le a biciklit, és élvezze a drámai tengeri kilátást.",
+            "ro": "Ciclism cu atenție pe străzile umede ale orașului vechi. Prânzul este perfect pentru a vizita muzeul și teatrul, evitând ploile puternice. După-amiaza, pedalați cu prudență spre monumentele de coastă, atenție la drumurile alunecoase. Terminați la plajă, securizând bicicleta și admirând peisajul marin dramatic.",
+            "en": "Cycle carefully through the damp morning streets of the Old Town. Midday is perfect for visiting the museum and theater to stay dry during heavier showers. In the afternoon, pedal cautiously towards the coastal monuments, watching out for slick roads. Finish at the beach, securing your bike and enjoying the dramatic ocean scenery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Songkhla Altstadt",
+                "hu": "Songkhla Óvárosa",
+                "ro": "Orașul Vechi Songkhla",
+                "en": "Songkhla Old Town"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an den historischen Gebäuden vorbei; nasses Kopfsteinpflaster ist sehr rutschig, bremsen Sie sanft.",
+                "hu": "Lassan haladjon el az épületek mellett; a nedves macskakövek és festett vonalak nagyon csúszósak, fékezzen óvatosan.",
+                "ro": "Mergeți încet pe lângă clădirile de patrimoniu; pietrele cubice umede pot fi foarte alunecoase, frânați ușor.",
+                "en": "Ride slowly past the heritage buildings; the wet cobblestones and painted lines can be very slippery, so brake gently."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Yang Thong",
+                "hu": "Wat Yang Thong",
+                "ro": "Wat Yang Thong",
+                "en": "Wat Yang Thong"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Schutz des Tempels, um den Sattel trocken zu halten, während Sie das Heiligtum erkunden.",
+                "hu": "Parkolja le a kerékpárt a templom fedett része alá, hogy a nyereg száraz maradjon, amíg a belső szentélyt felfedezi.",
+                "ro": "Parcați bicicleta sub adăpostul templului pentru a menține șaua uscată în timp ce explorați sanctuarul interior.",
+                "en": "Park your bike under the temple's shelter to keep the saddle dry while you explore the beautiful, serene indoor sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Songkhla",
+                "hu": "Songkhla Nemzeti Múzeum",
+                "ro": "Muzeul Național Songkhla",
+                "en": "Songkhla National Museum"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad und gehen Sie hinein; dieses massive Gebäude bietet hervorragenden Schutz vor plötzlichen Regengüssen.",
+                "hu": "Zárja le a biciklit és menjen be; ez a hatalmas épület kiváló menedéket nyújt a hirtelen lezúduló esőzések elől.",
+                "ro": "Securizați bicicleta și intrați; această clădire masivă oferă un refugiu excelent împotriva averselor bruște.",
+                "en": "Secure your bike and head inside; this massive building offers excellent refuge from sudden downpours while exploring history."
+              }
+            },
+            {
+              "name": {
+                "de": "Chaloem Thong Songkhla Theater",
+                "hu": "Chaloem Thong Songkhla Színház",
+                "ro": "Teatrul Chaloem Thong Songkhla",
+                "en": "Chaloem Thong Songkhla Theater"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Kunstszene in diesem trockenen Kulturzentrum; ein großartiger Stopp, wenn der Regen zu stark wird.",
+                "hu": "Fedezze fel a helyi művészeti életet ebben a száraz kulturális központban; remek beltéri megálló, ha rákezdenek az esők.",
+                "ro": "Descoperiți scena artistică locală în acest centru cultural uscat; o oprire interioară excelentă când ploaia este puternică.",
+                "en": "Discover the vibrant local arts scene inside this dry cultural hub; a great indoor stop when the rain gets too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Noi Palast",
+                "hu": "Khao Noi Palota",
+                "ro": "Palatul Khao Noi",
+                "en": "Khao Noi Palace"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur von den asphaltierten Wegen aus; vermeiden Sie schlammige Grasflächen um Ihr geparktes Fahrrad.",
+                "hu": "Tekintse meg az építészetet a kövezett utakról; kerülje a sáros füves területeket a leparkolt kerékpárja körül.",
+                "ro": "Priviți arhitectura de pe căile pavate; evitați zonele cu iarbă noroioasă când vă plimbați în jurul bicicletei parcate.",
+                "en": "View the elegant architecture from the paved paths; avoid muddy grassy areas when walking around your parked bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlangenskulptur",
+                "hu": "A kígyó szobra",
+                "ro": "Sculptura șarpelui",
+                "en": "The sculpture of serpent"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den beeindruckenden Naga-Kopf; passen Sie auf der nassen Promenade auf Ihre Schritte und Ihre Reifen auf.",
+                "hu": "Nézze meg az impozáns Naga-fejet; ügyeljen a lépéseire és a gumik tapadására a nedves parti sétányon.",
+                "ro": "Vedeți capul impresionant de Naga; fiți atenți la pași și la anvelope pe promenada umedă.",
+                "en": "See the impressive Naga head spraying water; watch your step and your tires' grip on the wet coastal promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Samila Beach",
+                "hu": "Samila Strand",
+                "ro": "Plaja Samila",
+                "en": "Samila Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und bewundern Sie die Wolken; die starken Winde der Regenzeit sorgen für ein dramatisches Erlebnis.",
+                "hu": "Parkoljon le biztonságosan; az erős esős évszaki szelek miatt a tengerparti élmény igazán drámai és vadregényes.",
+                "ro": "Parcați în siguranță și admirați norii; vânturile puternice din sezonul ploios creează o experiență de coastă dramatică.",
+                "en": "Park safely and admire the cloudy skies; the strong rainy-season winds make for a dramatic coastal experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Treten Sie in der erfrischenden Winterluft durch die Altstadt in die Pedale. Mittags herrschen perfekte Radfahrbedingungen, um Tempel und Kulturstätten ohne die übliche tropische Hitze zu besuchen. Genießen Sie am Nachmittag eine komfortable Fahrt entlang der Küste. Kommen Sie am späten Nachmittag am Strand an, um den frühen Sonnenuntergang zu erleben, und tragen Sie eine zusätzliche Schicht für die Rückfahrt.",
+            "hu": "Tekerjen végig az óvároson a frissítő reggeli téli levegőben. A délidő tökéletes a kulturális helyszínek meglátogatására a szokásos trópusi hőség nélkül. Délután élvezze a kényelmes part menti utazást az emlékművekhez. Érjen a strandra késő délután a korai naplemente miatt, és feltétlenül legyen önnél egy plusz meleg réteg a visszaútra.",
+            "ro": "Pedalați energic prin orașul vechi în aerul răcoros al dimineții. Prânzul aduce condiții perfecte de ciclism pentru a vizita templele fără căldura tropicală. După-amiaza, bucurați-vă de o plimbare confortabilă de-a lungul coastei. Ajungeți la plajă după-amiaza târziu pentru apusul devreme, purtând un strat suplimentar pentru întoarcere.",
+            "en": "Pedal briskly through the Old Town in the refreshing morning winter air. Midday brings perfect cycling conditions for visiting cultural sites without the usual tropical heat. During the afternoon, enjoy a comfortable ride along the coast. Arrive at the beach by late afternoon to catch the early sunset, wearing an extra layer for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Songkhla Altstadt",
+                "hu": "Songkhla Óvárosa",
+                "ro": "Orașul Vechi Songkhla",
+                "en": "Songkhla Old Town"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine schweißfreie Fahrt durch das Viertel; der milde Wintermorgen ist die beste Zeit für die Architektur.",
+                "hu": "Élvezze az izzadásmentes tekerést az örökségvédelmi negyedben; az enyhe téli reggel a legjobb az épületek fotózásához.",
+                "ro": "Bucurați-vă de o plimbare fără transpirație prin cartierul de patrimoniu; dimineața blândă este cel mai bun moment.",
+                "en": "Enjoy a sweat-free ride through the heritage district; the mild winter morning is the best time to appreciate the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Yang Thong",
+                "hu": "Wat Yang Thong",
+                "ro": "Wat Yang Thong",
+                "en": "Wat Yang Thong"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Tempelgelände bequem; das kühlere Wetter macht das Radfahren zwischen den Pavillons sehr angenehm.",
+                "hu": "Fedezze fel a nyugodt templomkertet kényelmesen; a hűvösebb idő nagyon kellemesté teszi a pavilonok közötti kerékpározást.",
+                "ro": "Explorați confortabil terenurile liniștite; vremea mai rece face ca mersul cu bicicleta între pavilioane să fie foarte plăcut.",
+                "en": "Explore the tranquil temple grounds comfortably; the cooler weather makes cycling between the pavilions very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Songkhla",
+                "hu": "Songkhla Nemzeti Múzeum",
+                "ro": "Muzeul Național Songkhla",
+                "en": "Songkhla National Museum"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zu diesem Herrenhaus; die frische Luft macht die Erkundung der Außengärten zu einem echten Vergnügen.",
+                "hu": "Tekerjen ehhez a hatalmas kúriához; a friss téli levegő különösen élvezetessé teszi a külső kertek felfedezését is.",
+                "ro": "Ciclați până la acest conac grandios; aerul curat face ca explorarea grădinilor în aer liber să fie o încântare.",
+                "en": "Cycle up to this grand mansion; the crisp winter air makes exploring the extensive outdoor gardens highly enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Chaloem Thong Songkhla Theater",
+                "hu": "Chaloem Thong Songkhla Színház",
+                "ro": "Teatrul Chaloem Thong Songkhla",
+                "en": "Chaloem Thong Songkhla Theater"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie eine kulturelle Ausstellung im angenehmen Mittagsklima; parken Sie sicher und genießen Sie das Erbe.",
+                "hu": "Nézzen meg egy kulturális kiállítást a kellemes déli klímában; parkoljon biztonságosan, és élvezze a művészetet.",
+                "ro": "Prindeți o expoziție culturală în climatul confortabil de la prânz; parcați în siguranță și bucurați-vă de patrimoniu.",
+                "en": "Catch a cultural exhibition in the comfortable midday climate; park securely and enjoy the local artistic heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Noi Palast",
+                "hu": "Khao Noi Palota",
+                "ro": "Palatul Khao Noi",
+                "en": "Khao Noi Palace"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie am kühlen Nachmittag zu dieser Stätte; der klare Winterhimmel bietet eine hervorragende Sicht auf die Details.",
+                "hu": "Tekerjen fel ehhez a történelmi helyhez a hűvös délutánon; a tiszta téli égbolt kiváló látási viszonyokat biztosít.",
+                "ro": "Călătoriți la acest sit istoric în după-amiaza răcoroasă; cerul senin de iarnă oferă o vizibilitate excelentă.",
+                "en": "Ride up to this historic site in the cool afternoon; the clear winter skies offer excellent visibility for admiring details."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlangenskulptur",
+                "hu": "A kígyó szobra",
+                "ro": "Sculptura șarpelui",
+                "en": "The sculpture of serpent"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die frische Meeresbrise, wenn Sie zu diesem Denkmal radeln; das Nachmittagslicht ist im Winter atemberaubend.",
+                "hu": "Érezze a friss tengeri szellőt az emlékműnél; a délutáni fények itt lenyűgözőek a téli hónapokban.",
+                "ro": "Simțiți briza mării în timp ce pedalați spre acest monument; lumina după-amiezii aici este uimitoare în lunile de iarnă.",
+                "en": "Feel the brisk sea breeze as you cycle to this monument; the afternoon light here is stunning during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Samila Beach",
+                "hu": "Samila Strand",
+                "ro": "Plaja Samila",
+                "en": "Samila Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt am Strand, da die Sonne gegen 17:00 Uhr untergeht; ziehen Sie eine Windjacke an.",
+                "hu": "Fejezze be az utat a parton, amint a nap korán, 17:00 körül lenyugszik; vegyen fel egy széldzsekit a hűvös este ellen.",
+                "ro": "Terminați plimbarea la plajă, deoarece soarele apune devreme în jur de ora 17:00; îmbrăcați-vă cu un paravânt.",
+                "en": "End your ride at the beach as the sun sets early around 5 PM; bundle up with a windbreaker against the chilly evening breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Autóval kényelmesen megközelítheti a Nakhon Nai Múzeumot, majd tehet egy rövid, de annál látványosabb sétát Songkhla óvárosában.\nDélben a Wat Yang Thong templom nyújt lelki békét, majd a fenséges Nemzeti Múzeum felé vesszük az irányt a térség történetének felfedezésére.\nDélután felhajtunk a Khao Tangkuan világítótoronyhoz, készítünk pár képet a Naga Kígyó szobráról, és megnézzük a Khao Noi Palotát.\nKora este parkoljon le a Samila strand közelében, hogy egy kellemes tengerparti sétával zárja ezt a tartalmas és csodás utazást.",
         "ro": "Un drum scurt cu mașina vă duce la Muzeul Nakhon Nai, urmat de o scurtă plimbare prin străzile istorice vibrante ale Orașului Vechi.\nLa prânz, vizitați Wat Yang Thong pentru un moment de liniște, continuând apoi spre mărețul Muzeu Național Songkhla pentru context istoric.\nDupă-amiaza, conduceți până la Farul Khao Tangkuan și fotografiați impresionantul Șarpe Naga, oprindu-vă și la elegantul Palat Khao Noi.\nSeara, parcați aproape de plaja Samila pentru a vă bucura de o plimbare relaxantă pe coastă, încheind frumos călătoria dumneavoastră.",
         "en": "A comfortable morning drive takes you to the Nakhon Nai Museum, followed by a brief walking tour through the vibrant historical alleys of the Old Town.\nMidday includes a peaceful stop at Wat Yang Thong, then continuing onward to the majestic Songkhla National Museum for rich cultural context.\nIn the afternoon, drive up to the Khao Tangkuan Lighthouse, snap photos of the imposing Naga Serpent, and visit the elegant Khao Noi Palace.\nPark near Samila Beach in the early evening for a leisurely coastal stroll, watching the waves roll in as the perfect end to your journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Regentag bequem mit der Fahrt zum überdachten Museum. Navigieren Sie mittags vorsichtig zur Altstadt und halten Sie einen Regenschirm bereit. Machen Sie am Nachmittag eine vorsichtige Fahrt auf den nassen Hügel zum Leuchtturm, bevor Sie zu den Denkmälern fahren. Beenden Sie den Tag am Strand und beobachten Sie das stürmische Meer sicher aus der Wärme Ihres Autos.",
+            "hu": "Kezdje az esős napot kényelmes vezetéssel a fedett múzeumokhoz. Délben óvatosan navigáljon az óvárosban, és tartson kéznél egy jó esernyőt. Délután tegyen egy óvatos utat a nedves dombon a világítótoronyhoz, majd a part menti szobrokhoz. Zárja a napot a strandon, és nézze a viharos tengert az autója vagy egy kávézó melegéből.",
+            "ro": "Începeți ziua ploioasă conducând confortabil spre muzeul interior. La prânz, navigați cu atenție spre orașul vechi, păstrând o umbrelă la îndemână. După-amiaza, faceți o plimbare precaută pe deal spre far, apoi spre monumente. Terminați la plaja Samila, privind marea furtunoasă în siguranță din căldura mașinii dumneavoastră.",
+            "en": "Start your rainy day comfortably driving to the indoor museum. By noon, navigate carefully to the Old Town, keeping an umbrella handy for short walks. In the afternoon, take a scenic, cautious drive up the wet hill to the lighthouse before heading to the monuments. Finish at the beach, watching the stormy sea safely from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nakhon Nai Museum",
+                "hu": "Nakhon Nai Múzeum",
+                "ro": "Muzeul Nakhon Nai",
+                "en": "Nakhon Nai Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und treten Sie in dieses faszinierende Innenmuseum ein, ein perfekter trockener Start.",
+                "hu": "Parkoljon le közvetlenül a bejárat előtt, és lépjen be ebbe a lenyűgöző beltéri múzeumba, távol a heves esőtől.",
+                "ro": "Parcați chiar afară și pășiți în acest fascinant muzeu interior, un început perfect și uscat departe de ploaie.",
+                "en": "Park right outside and step straight into this fascinating indoor museum, a perfect dry start to your day away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Songkhla Altstadt",
+                "hu": "Songkhla Óvárosa",
+                "ro": "Orașul Vechi Songkhla",
+                "en": "Songkhla Old Town"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um die nassen Fassaden zu bewundern; verwenden Sie einen stabilen Regenschirm für Fotos.",
+                "hu": "Vezessen lassan, hogy megcsodálja a nedves, csillogó homlokzatokat; használjon masszív esernyőt, ha kiszáll fotózni.",
+                "ro": "Conduceți încet pentru a admira fațadele umede; folosiți o umbrelă rezistentă când ieșiți pentru fotografii.",
+                "en": "Drive slowly through the streets to admire the wet facades; use a sturdy umbrella when stepping out to take photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Yang Thong",
+                "hu": "Wat Yang Thong",
+                "ro": "Wat Yang Thong",
+                "en": "Wat Yang Thong"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Hauptheiligtum, um nicht nass zu werden; das Innere ist eine ruhige, trockene Flucht vor dem Wetter.",
+                "hu": "Parkoljon közel a fő szentélyhez; a bonyolult templombelső nyugodt, száraz menedéket nyújt az időjárás elől.",
+                "ro": "Parcați aproape de sanctuarul principal; interioarele templului sunt o evadare senină și uscată din calea vremii.",
+                "en": "Park close to the main sanctuary to avoid getting wet; the intricate interiors are a serene, dry escape from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Songkhla",
+                "hu": "Songkhla Nemzeti Múzeum",
+                "ro": "Muzeul Național Songkhla",
+                "en": "Songkhla National Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz; die weitläufigen Ausstellungen im Innenbereich bieten stundenlange, regengeschützte Erkundung.",
+                "hu": "Használja ki a nagy parkolót; a kiterjedt beltéri kiállítások órákig tartó, esőmentes felfedezést kínálnak.",
+                "ro": "Profitați de parcarea mare; expozițiile interioare extinse oferă ore de explorare fascinantă, fără ploaie.",
+                "en": "Take advantage of the large parking area; the expansive indoor exhibits offer hours of fascinating, rain-free exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Tangkuan Leuchtturm",
+                "hu": "Khao Tangkuan Világítótorony",
+                "ro": "Farul Khao Tangkuan",
+                "en": "Khao Tangkuan Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die glatten, nassen Straßen hinauf; tragen Sie rutschfeste Schuhe für die letzten nassen Stufen.",
+                "hu": "Vezessen nagyon óvatosan a csúszós, nedves utakon felfelé; viseljen csúszásgátló cipőt a végső nedves lépcsőkhöz.",
+                "ro": "Conduceți cu grijă pe drumurile umede și alunecoase; purtați pantofi antiderapanți pentru ultimele trepte umede.",
+                "en": "Drive carefully up the slick, wet roads; the misty views are dramatic, but wear non-slip shoes for the final steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlangenskulptur",
+                "hu": "A kígyó szobra",
+                "ro": "Sculptura șarpelui",
+                "en": "The sculpture of serpent"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um die Statue zu sehen; der stürmische Ozean verleiht dem Denkmal eine mythologische Atmosphäre.",
+                "hu": "Húzódjon le biztonságosan; a viharos tengeri háttér lenyűgöző, mitológiai hangulatot kölcsönöz az emlékműnek.",
+                "ro": "Trageți pe dreapta pentru a vedea statuia; fundalul oceanului furtunos adaugă o atmosferă mitologică monumentului.",
+                "en": "Pull over safely to see the grand statue; the stormy ocean backdrop adds a fierce, mythological feel to the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Noi Palast",
+                "hu": "Khao Noi Palota",
+                "ro": "Palatul Khao Noi",
+                "en": "Khao Noi Palace"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die königliche Residenz bequem von Ihrem Auto aus, wenn es in Strömen regnet.",
+                "hu": "Tekintse meg ezt a történelmi királyi rezidenciát kényelmesen az autójából, ha kint szakad az eső.",
+                "ro": "Priviți această reședință regală istorică din confortul mașinii dumneavoastră dacă plouă torențial afară.",
+                "en": "View this historic royal residence from the comfort of your car if it's pouring, or take a quick covered walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Samila Beach",
+                "hu": "Samila Strand",
+                "ro": "Plaja Samila",
+                "en": "Samila Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean, um die dramatischen Wellen zu beobachten, ohne nass zu werden.",
+                "hu": "Parkoljon az óceán felé fordulva, hogy az autóból, szárazon csodálhassa meg a partot verő drámai hullámokat.",
+                "ro": "Parcați cu fața la ocean pentru a urmări valurile dramatice lovind țărmul, fără a vă uda.",
+                "en": "Park facing the ocean to watch the dramatic waves hit the shore; enjoy the moody coastal atmosphere without getting soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintermorgen mit einer gemütlichen Fahrt zu den lokalen Museen. Mittags ist das milde Wetter perfekt für Tempel und Nationalmuseum. Die Nachmittagsfahrt entlang der Küste bietet unglaublich klare, frische Ausblicke vom Leuchtturm und Palast. Erreichen Sie den Strand am späten Nachmittag für den frühen Sonnenuntergang und bringen Sie eine Jacke für den Abend mit.",
+            "hu": "Kezdje a téli reggelt egy kényelmes vezetéssel a helyi múzeumokhoz. A délidő tökéletes a templom felfedezéséhez az enyhe, kellemes időben. A délutáni part menti kocsikázás hihetetlenül tiszta kilátást nyújt a világítótoronyból. Érjen a strandra késő délután, hogy élvezze a korai naplementét, és hozzon kabátot az estére.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare confortabilă spre muzeele locale. Prânzul este perfect pentru a explora templul în vremea blândă. Conducerea de după-amiază de-a lungul coastei oferă priveliști incredibil de clare de la far. Ajungeți la plajă târziu pentru apusul devreme, aducând o jachetă pentru seară.",
+            "en": "Begin your winter morning with a comfortable drive to the local museums. Midday is perfect for exploring the temple and national museum in the mild weather. The afternoon drive along the coast offers incredibly clear, crisp views from the lighthouse and palace. Reach the beach by late afternoon to enjoy the early sunset, bringing a jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nakhon Nai Museum",
+                "hu": "Nakhon Nai Múzeum",
+                "ro": "Muzeul Nakhon Nai",
+                "en": "Nakhon Nai Museum"
+              },
+              "tip_5lang": {
+                "de": "Der kühle Wintermorgen macht das Stöbern in diesem traditionellen, nicht klimatisierten Haus besonders angenehm.",
+                "hu": "A hűvös téli reggel különösen kellemesté teszi a nézelődést ebben a hagyományos, légkondicionálatlan házban.",
+                "ro": "Dimineața răcoroasă de iarnă face ca navigarea prin această casă tradițională, necondiționată, să fie plăcută.",
+                "en": "The cool winter morning makes browsing the antiques in this traditional, un-airconditioned house exceptionally pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Songkhla Altstadt",
+                "hu": "Songkhla Óvárosa",
+                "ro": "Orașul Vechi Songkhla",
+                "en": "Songkhla Old Town"
+              },
+              "tip_5lang": {
+                "de": "Cruisen Sie bequem vorbei; das klare Winterlicht ist absolut perfekt, um die bunten Fassaden zu fotografieren.",
+                "hu": "Guruljon el kényelmesen az épületek mellett; a tiszta téli fények tökéletesek a színes homlokzatok fotózásához.",
+                "ro": "Treceți confortabil pe lângă clădiri; lumina clară de iarnă este absolut perfectă pentru a fotografia fațadele colorate.",
+                "en": "Cruise comfortably past the buildings; the clear winter light is absolutely perfect for photographing the colorful facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Yang Thong",
+                "hu": "Wat Yang Thong",
+                "ro": "Wat Yang Thong",
+                "en": "Wat Yang Thong"
+              },
+              "tip_5lang": {
+                "de": "Die milden Mittagstemperaturen machen die Erkundung der Außenschreine deutlich angenehmer und entspannter.",
+                "hu": "Az enyhe déli hőmérséklet sokkal könnyebbé és pihentetőbbé teszi a szabadtéri szentélyek bejárását a meleg autó után.",
+                "ro": "Temperaturile blânde de la prânz fac explorarea altarelor în aer liber mult mai ușoară și mai relaxantă.",
+                "en": "The mild midday temperatures make exploring the outdoor shrines much easier and relaxing after a short drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Songkhla",
+                "hu": "Songkhla Nemzeti Múzeum",
+                "ro": "Muzeul Național Songkhla",
+                "en": "Songkhla National Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie einfach und schlendern Sie durch die Hallen; die frische Winterluft macht die Tour über das große Gelände herrlich.",
+                "hu": "Parkoljon le egyszerűen; a friss téli levegő örömtelivé teszi a sétát a hatalmas múzeum történelmi csarnokaiban és kertjében.",
+                "ro": "Parcați ușor și plimbați-vă; aerul proaspăt de iarnă face ca turul terenurilor mari ale muzeului să fie o încântare.",
+                "en": "Park easily and stroll the historic halls; the crisp winter air makes touring the large museum grounds delightful."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Tangkuan Leuchtturm",
+                "hu": "Khao Tangkuan Világítótorony",
+                "ro": "Farul Khao Tangkuan",
+                "en": "Khao Tangkuan Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hoch für Panoramablicke; die winterliche Atmosphäre bietet maximale Sicht auf die Stadt.",
+                "hu": "Kocsikázzon fel a panorámáért; a téli tiszta levegő maximális látási viszonyokat biztosít a város és a tó felett.",
+                "ro": "Conduceți pentru vederi panoramice; atmosfera de iarnă oferă o vizibilitate maximă a orașului.",
+                "en": "Drive up for spectacular panoramic views; the crisp winter atmosphere provides maximum visibility of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlangenskulptur",
+                "hu": "A kígyó szobra",
+                "ro": "Sculptura șarpelui",
+                "en": "The sculpture of serpent"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an der Küstenstraße; die winterliche Meeresbrise ist erfrischend, aber eine leichte Jacke wird empfohlen.",
+                "hu": "Álljon meg a part menti úton; a téli tengeri szellő frissítő, de egy könnyű kabát viselése ajánlott kiszálláskor.",
+                "ro": "Opriți pe drumul de coastă; briza mării de iarnă este revigorantă, dar se recomandă o jachetă ușoară.",
+                "en": "Stop by the coastal road to admire the statue; the winter sea breeze is refreshing, but a light jacket is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Noi Palast",
+                "hu": "Khao Noi Palota",
+                "ro": "Palatul Khao Noi",
+                "en": "Khao Noi Palace"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die schöne Architektur; die Nachmittagsbeleuchtung im Winter hebt die eleganten Details besonders hervor.",
+                "hu": "Fedezze fel a gyönyörű építészetet; a téli délutáni megvilágítás különösen szépen kiemeli az elegáns részleteket.",
+                "ro": "Explorați arhitectura frumoasă; iluminatul de după-amiază în timpul iernii evidențiază detaliile sale elegante.",
+                "en": "Explore the beautiful architecture; the afternoon lighting in winter really highlights its elegant historical details."
+              }
+            },
+            {
+              "name": {
+                "de": "Samila Beach",
+                "hu": "Samila Strand",
+                "ro": "Plaja Samila",
+                "en": "Samila Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am späten Nachmittag an; die Sonne geht früh unter, also packen Sie sich ein, um die Winterdämmerung zu beobachten.",
+                "hu": "Érkezzen késő délután a jó parkolóhelyért; a nap korán nyugszik, ezért öltözzön fel melegen a téli szürkülethez.",
+                "ro": "Ajungeți după-amiaza târziu; soarele apune devreme, așa că îmbrăcați-vă gros pentru a urmări amurgul de iarnă.",
+                "en": "Arrive by late afternoon to secure a good spot; the sun sets early, so bundle up to watch the beautiful winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a délnyugati strandok finom homokjának és békés légkörének felfedezésével. Délben hajózzon át a környező kis szigetekre, ahol vulkanikus kőzetek és privát trópusi kertek várják. Délután élvezze az exkluzív kilátást és a sznorkelezési lehetőségeket a koralltöredékek között. Zárja az estét egy érintetlen északi öbölben, ahogy az ég színei megváltoznak a békés hullámok felett.",
         "ro": "Începeți dimineața explorând nisipul fin și atmosfera serenă a plajelor din sud-vest. La prânz, o scurtă plimbare cu barca vă duce pe insulițe fascinante cu roci vulcanice și grădini tropicale private. După-amiaza, bucurați-vă de priveliști exclusive și oportunități de snorkeling printre fragmente de corali. Încheiați seara într-un golf nordic curat, admirând cerul colorat deasupra apelor.",
         "en": "Start your morning exploring the powdery sands and serene atmosphere of the southwestern beaches. Midday brings a boat hop to fascinating offshore islets showcasing volcanic rocks and private tropical gardens. In the afternoon, enjoy exclusive vistas and snorkeling opportunities among coral fragments. Conclude your evening at a pristine northern bay, watching the sky change colors over tranquil waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Regen erfordert eine wasserdichte Jacke. Mittags werden die Küstenwege rutschig. Am Nachmittag ist Vorsicht geboten, ein Drybag ist beim Inselhopping Pflicht. Suche dir abends einen gemütlichen, überdachten Platz.",
+            "hu": "A reggeli eső miatt vízálló kabáttal indulj. Délre a parti ösvények csúszóssá és sárgává válnak. Délután óvatosan haladj, a szigettúrához kell a vízálló táska. Este keress egy kényelmes, fedett helyet, amíg az eső kitart.",
+            "ro": "Ploaia de dimineață necesită o jachetă impermeabilă. Până la prânz, cărările devin alunecoase. După-amiaza cere prudență și un rucsac uscat pentru vizitarea insulelor. Seara, găsește un loc confortabil și acoperit.",
+            "en": "Morning rain hits the beach, so start with a waterproof jacket. By noon, coastal paths become slippery and muddy. The afternoon requires care and a dry bag for island hopping. Find a cozy, covered spot by evening as the rain continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Kratueng",
+                "hu": "Ao Kratueng",
+                "ro": "Ao Kratueng",
+                "en": "Ao Kratueng"
+              },
+              "tip_5lang": {
+                "de": "Beobachte den Regen über dem Meer von einem überdachten Platz; trage rutschfeste Schuhe, da der nasse Sand tückisch ist.",
+                "hu": "Nézd az esőt a tenger felett egy védett helyről; viselj stabil, csúszásmentes cipőt, mert a vizes homok trükkös.",
+                "ro": "Privește ploaia deasupra mării dintr-un loc adăpostit; poartă încălțăminte antiderapantă, deoarece nisipul ud e alunecos.",
+                "en": "Watch the rain over the sea from a sheltered spot nearby; wear sturdy, non-slip shoes as the wet sand is tricky."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Suan Yai",
+                "hu": "Ao Suan Yai",
+                "ro": "Ao Suan Yai",
+                "en": "Ao Suan Yai"
+              },
+              "tip_5lang": {
+                "de": "Der Sandweg wird jetzt ziemlich matschig. Bringe eine Regenjacke mit und genieße den dramatischen, bewölkten Himmel.",
+                "hu": "A homokos ösvény most elég saras lesz, így hozz vízálló kabátot, miközben élvezed a drámai, felhős égbolt látványát.",
+                "ro": "Cărarea de nisip devine noroioasă, așa că ia o jachetă impermeabilă în timp ce te bucuri de cerul dramatic și înnorat.",
+                "en": "The sandy path gets quite muddy now, so bring a waterproof jacket while enjoying the dramatic, cloudy skies above."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Kham",
+                "hu": "Koh Kham",
+                "ro": "Koh Kham",
+                "en": "Koh Kham"
+              },
+              "tip_5lang": {
+                "de": "Bootsfahrten sind nass; nutze einen Drybag für Elektronik und warte starke Schauer unter den dichten Inselbäumen ab.",
+                "hu": "A hajóutak ma vizesek; használj vízálló táskát az elektronikának, és várd ki a záporokat a vastag fák alatt.",
+                "ro": "Plimbările cu barca sunt ude azi; folosește un rucsac uscat și așteaptă trecerea averselor sub copacii de pe insulă.",
+                "en": "Boat rides are wet today; use a dry bag for electronics and wait out any heavy showers under the thick island trees."
+              }
+            },
+            {
+              "name": {
+                "de": "private island with entry fee. 200THB",
+                "hu": "private island with entry fee. 200THB",
+                "ro": "private island with entry fee. 200THB",
+                "en": "private island with entry fee. 200THB"
+              },
+              "tip_5lang": {
+                "de": "Die Gebühr lohnt sich für den überdachten Pavillon; bleibe trocken und beobachte die stürmischen Wellen an den Felsen.",
+                "hu": "A belépő megéri a fedett pavilon miatt; maradj teljesen szárazon, miközben nézed a szikláknak csapódó viharos hullámokat.",
+                "ro": "Taxa merită pentru pavilionul acoperit; rămâi complet uscat în timp ce privești valurile furtunoase lovindu-se de stânci.",
+                "en": "The fee is worth it for the covered pavilion; stay completely dry while watching the stormy waves crash on the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ta Long",
+                "hu": "Ao Ta Long",
+                "ro": "Ao Ta Long",
+                "en": "Ao Ta Long"
+              },
+              "tip_5lang": {
+                "de": "Beende deinen Spaziergang an der ruhigen Bucht; sei vorsichtig auf nassen Holzplanken und suche einen trockenen Ort.",
+                "hu": "Fejezd be a sétát a csendes öbölnél; légy nagyon óvatos a nedves fadeszkákon, és hamar keress egy száraz pihenőhelyet.",
+                "ro": "Încheie plimbarea lângă golful liniștit; fii foarte atent pe scândurile de lemn ude și găsește repede un loc uscat.",
+                "en": "End your walk near the calm bay area; be extremely careful on wet wooden planks and find a dry place to relax soon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Morgenluft erfordert eine warme Schicht. Der Mittag ist sonnig, aber angenehm mild. Nachmittags sinken die Temperaturen schnell. Genieße den frühen Sonnenuntergang um 17:00 Uhr und halte einen Pullover bereit.",
+            "hu": "A csípős reggeli levegő miatt kezdj meleg réteggel. A dél verőfényes, de frissítően enyhe. Délután a hőmérséklet gyorsan esik. Élvezd a korai, 17:00 körüli naplementét, és tarts kéznél pulóvert a sötét estére.",
+            "ro": "Aerul rece al dimineții cere un strat cald. Prânzul este însorit, dar răcoros. După-amiaza, temperaturile scad rapid. Bucură-te de apusul timpuriu de la 17:00 și ține un pulover la îndemână pentru seara întunecoasă.",
+            "en": "Crisp morning air means you should start with a warm layer. Noon is brilliantly sunny but refreshingly mild. Afternoon temperatures drop swiftly. Enjoy the early sunset around 17:00 and keep a sweater handy for the dark evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Kratueng",
+                "hu": "Ao Kratueng",
+                "ro": "Ao Kratueng",
+                "en": "Ao Kratueng"
+              },
+              "tip_5lang": {
+                "de": "Genieße die sanfte Morgenbrise am Strand; ein leichtes Langarmhemd wird für dieses kühle Wetter sehr empfohlen.",
+                "hu": "Élvezd a lágy reggeli szellőt a békés strandon; egy könnyű hosszú ujjú ing erősen ajánlott ehhez a hűvös időjáráshoz.",
+                "ro": "Bucură-te de briza blândă a dimineții pe plaja senină; o cămașă ușoară cu mâneci lungi este recomandată pentru această vreme.",
+                "en": "Enjoy the gentle morning breeze on the serene beach; a light long-sleeve shirt is highly recommended for this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Suan Yai",
+                "hu": "Ao Suan Yai",
+                "ro": "Ao Suan Yai",
+                "en": "Ao Suan Yai"
+              },
+              "tip_5lang": {
+                "de": "Perfektes mildes Wetter für einen langen Spaziergang; genieße den unglaublich klaren Winterhimmel über dem blauen Ozean.",
+                "hu": "Tökéletes, enyhe idő egy hosszú, festői sétához; élvezd a hihetetlenül tiszta téli eget a gyönyörű kék óceán felett.",
+                "ro": "Vreme blândă, perfectă pentru o plimbare lungă; bucură-te de cerul incredibil de senin de iarnă deasupra oceanului albastru.",
+                "en": "Perfect mild weather for a long, scenic stroll; enjoy the incredibly clear winter skies over the beautiful blue ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Kham",
+                "hu": "Koh Kham",
+                "ro": "Koh Kham",
+                "en": "Koh Kham"
+              },
+              "tip_5lang": {
+                "de": "Die deutlich kühleren Temperaturen machen die Erkundung der dunklen Vulkanfelsen heute viel angenehmer und weniger anstrengend.",
+                "hu": "A sokkal hűvösebb hőmérséklet miatt a sötét vulkáni sziklák felfedezése ma sokkal kellemesebb és kevésbé fárasztó.",
+                "ro": "Temperaturile mult mai scăzute fac explorarea rocilor vulcanice întunecate mult mai plăcută și mai puțin obositoare azi.",
+                "en": "The much cooler temperatures make exploring the dark volcanic rocks here significantly more pleasant and less tiring today."
+              }
+            },
+            {
+              "name": {
+                "de": "private island with entry fee. 200THB",
+                "hu": "private island with entry fee. 200THB",
+                "ro": "private island with entry fee. 200THB",
+                "en": "private island with entry fee. 200THB"
+              },
+              "tip_5lang": {
+                "de": "Entspanne bequem in der milden Sonne; die kühle Meeresbrise macht diesen exklusiven Stopp außergewöhnlich erfrischend.",
+                "hu": "Pihenj kényelmesen az enyhe napsütésben; a hűvös óceáni szellő kivételesen frissítővé teszi ezt az exkluzív megállót.",
+                "ro": "Relaxează-te confortabil la soarele blând; briza rece a oceanului face ca această oprire privată să fie foarte răcoritoare.",
+                "en": "Relax comfortably in the mild sun; the cool ocean breeze makes this exclusive private stop feel exceptionally refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ta Long",
+                "hu": "Ao Ta Long",
+                "ro": "Ao Ta Long",
+                "en": "Ao Ta Long"
+              },
+              "tip_5lang": {
+                "de": "Komme vor dem frühen Sonnenuntergang an; bringe eine extra warme Schicht mit, da die Abendkälte hier überraschend schnell einsetzt.",
+                "hu": "Érkezz a korai naplemente látványa előtt; hozz egy extra meleg réteget, mert az esti hideg meglepően gyorsan beáll itt.",
+                "ro": "Ajungi înainte de priveliștea apusului timpuriu; ia un strat extra cald, deoarece frigul serii se instalează surprinzător de repede.",
+                "en": "Arrive before the early sunset views; bring an extra warm layer as the evening chill sets in surprisingly fast here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel induljon el a sziget nyüzsgő mólójától, szívja magába a helyi halászati kultúrát, és álljon meg a központi templomnál. Délben az út tágas nyugati öblökhöz vezet, ahol a pálmafák tökéletes árnyékot adnak. Délután lehetősége van egy tengeri kirándulásra, mielőtt a csendesebb keleti részek felé pedálozna. Az estét egy türkizkék víz fölé nyúló, hosszú fa stégen sétálva fejezheti be.",
         "ro": "Pedalați dimineața departe de debarcaderul principal al insulei, asimilând cultura pescărească locală și oprindu-vă la templul central. La prânz, traseul vă duce spre golfuri vestice vaste, unde palmierii oferă umbră perfectă. După-amiaza continuă cu o excursie opțională în larg înainte de a pedala spre estul liniștit. Seara sosește pe un lung debarcader din lemn care se întinde în apele turcoaz.",
         "en": "Pedal away in the morning from the island's bustling main pier, soaking in the local fishing culture and stopping by the central temple. By midday, your ride takes you to expansive western bays where towering palms offer perfect shade for a rest. The afternoon continues with an optional offshore excursion before biking toward the remote eastern corners. Evening arrives on a long wooden pier extending into turquoise waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Fahrt erfordert einen Poncho. Mittags werden die Inselstraßen rutschig. Nachmittags verwandeln sich Feldwege in tiefen Matsch, fahre langsam. Finde abends einen sicheren, trockenen Unterstand.",
+            "hu": "A reggeli tekerés jó poncsót kíván. Délre a szigeti utak elég csúszósak lesznek. Délután a földutak sártengerré válnak, lassan pedálozz. Este keress egy biztonságos, fedett helyet, ahol megszáradhatsz a biciklivel.",
+            "ro": "Plimbarea de dimineață cere un poncho bun. La prânz, drumurile devin foarte alunecoase. După-amiaza, potecile se transformă în noroi, așa că pedalează încet. Seara, găsește un loc sigur și acoperit pentru a te usca.",
+            "en": "A morning ride demands a good poncho. By noon, island roads become quite slippery. Afternoon dirt trails turn to thick mud, so pedal slowly and carefully. In the evening, find a secure, covered spot to dry yourself and your bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Nid",
+                "hu": "Ao Nid",
+                "ro": "Ao Nid",
+                "en": "Ao Nid"
+              },
+              "tip_5lang": {
+                "de": "Der Pierbereich kann bei Regen extrem rutschig sein. Steige ab und schiebe dein Fahrrad vorsichtig, um Stürze zu vermeiden.",
+                "hu": "A móló környéke esőben rendkívül csúszós lehet, ezért szállj le, és óvatosan told a biciklit, hogy elkerüld az esést.",
+                "ro": "Zona debarcaderului poate fi extrem de alunecoasă pe ploaie; descalecă și împinge bicicleta cu grijă pentru a evita căzăturile.",
+                "en": "The pier area can be extremely slippery in the rain, so dismount and walk your bike carefully to avoid any bad falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohmak Temple",
+                "hu": "Kohmak Temple",
+                "ro": "Kohmak Temple",
+                "en": "Kohmak Temple"
+              },
+              "tip_5lang": {
+                "de": "Suche im Tempel Schutz, falls ein plötzlicher Regenguss einsetzt; stelle sicher, dass dein Rad unter dem großen Vordach steht.",
+                "hu": "Keress biztonságos menedéket a templomban, ha hirtelen zápor jön; parkold a biciklit a nagy előtető alá.",
+                "ro": "Caută adăpost în templu dacă începe o ploaie torențială; asigură-te că parchezi bicicleta sub baldachinul mare.",
+                "en": "Seek shelter safely inside the temple if a sudden downpour hits; ensure your bike is parked under the large canopy."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Kratueng",
+                "hu": "Ao Kratueng",
+                "ro": "Ao Kratueng",
+                "en": "Ao Kratueng"
+              },
+              "tip_5lang": {
+                "de": "Fahre langsam auf dem nassen, festen Sand; ein robuster, wasserdichter Rucksack ist für diesen Küstenabschnitt unerlässlich.",
+                "hu": "Tekerj lassan a nedves, tömörített homokon; egy strapabíró vízálló hátizsák abszolút elengedhetetlen ezen a partszakaszon.",
+                "ro": "Pedalează încet pe nisipul ud și compact; un rucsac impermeabil și robust este absolut esențial pentru această porțiune.",
+                "en": "Cycle slowly on the wet, compacted sand; a sturdy waterproof backpack is absolutely essential for this coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Suan Yai",
+                "hu": "Ao Suan Yai",
+                "ro": "Ao Suan Yai",
+                "en": "Ao Suan Yai"
+              },
+              "tip_5lang": {
+                "de": "Verstecke dich bei Schauern unter den großen Palmen; pass auf, da nasse, herabgefallene Blätter die Radwege tückisch machen.",
+                "hu": "Bújj el a nagy pálmafák alá a futó záporok idején; vigyázz, mert a nedves, lehullott levelek veszélyessé teszik az utat.",
+                "ro": "Ascunde-te sub palmierii mari în timpul averselor; atenție, frunzele ude și căzute fac pistele de biciclete foarte periculoase.",
+                "en": "Hide under the large palm trees during passing showers; beware that wet, fallen leaves make the cycling paths treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Kham",
+                "hu": "Koh Kham",
+                "ro": "Koh Kham",
+                "en": "Koh Kham"
+              },
+              "tip_5lang": {
+                "de": "Schließe dein Rad sicher auf der Hauptinsel ab; die Bootsfahrt erfordert volle Regenkleidung für die nasse Überfahrt.",
+                "hu": "Zárd le biztonságosan a bringát a fő szigeten; a hajóúthoz teljes esőfelszerelés kell a nyílt vízi átkelés átvészeléséhez.",
+                "ro": "Încuie bicicleta pe insula principală; călătoria cu barca necesită echipament complet de ploaie pentru traversarea apei.",
+                "en": "Lock your bike securely on the main island; the boat trip requires full rain gear to endure the wet, open water crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Pier at Cinnamon Art Resort and Spa",
+                "hu": "Pier at Cinnamon Art Resort and Spa",
+                "ro": "Pier at Cinnamon Art Resort and Spa",
+                "en": "Pier at Cinnamon Art Resort and Spa"
+              },
+              "tip_5lang": {
+                "de": "Die lange Holzbrücke ist heute gefährlich glatt; schiebe dein Fahrrad sanft und genieße den mystischen, nebligen Meerblick.",
+                "hu": "A hosszú fahíd ma veszélyesen csúszós; told a biciklit óvatosan, és élvezd a borongós, ködös tengeri kilátást biztonságból.",
+                "ro": "Podul lung de lemn este periculos de alunecos; mergi pe lângă bicicletă și bucură-te de priveliștea cețoasă în siguranță.",
+                "en": "The long wooden bridge is dangerously slick today; walk your bike gently and enjoy the moody, misty sea view from safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Flottes morgendliches Radfahren erfordert warme Schichten. Der Mittag ist angenehm kühl. Nachmittags werden die Schatten schnell länger. Plane, vor dem frühen Sonnenuntergang um 17:00 Uhr zurück zu sein, da es kalt wird.",
+            "hu": "A fürge reggeli tekeréshez meleg rétegek kellenek. A dél kellemesen hűvös, tökéletes a biciklizéshez. Délután az árnyékok gyorsan nőnek. Érj vissza a korai 17:00-es naplemente előtt, mert utána zuhan a hőmérséklet.",
+            "ro": "Ciclismul matinal alert necesită straturi calde. Prânzul este răcoros, perfect pentru pedalat. După-amiaza umbrele se lungesc. Planifică să te întorci înainte de apusul de la 17:00, deoarece temperaturile vor scădea brusc.",
+            "en": "Brisk morning cycling means you must wear warm layers. Midday is pleasantly cool and perfect for riding. Afternoon shadows lengthen quickly. Plan to be back before the early 17:00 sunset, as temperatures will plummet soon after."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Nid",
+                "hu": "Ao Nid",
+                "ro": "Ao Nid",
+                "en": "Ao Nid"
+              },
+              "tip_5lang": {
+                "de": "Beginne deine Fahrt mit einer leichten Jacke; die frische Morgenluft am Pier ist jetzt unglaublich erfrischend.",
+                "hu": "Kezdj egy könnyű kabátban az energikus utat; a csípős reggeli levegő a mólónál most hihetetlenül frissítő.",
+                "ro": "Începe plimbarea energică cu o jachetă ușoară; aerul proaspăt al dimineții de lângă debarcader este incredibil de revigorant.",
+                "en": "Start your energetic ride with a light jacket; the crisp morning air by the pier is incredibly refreshing right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kohmak Temple",
+                "hu": "Kohmak Temple",
+                "ro": "Kohmak Temple",
+                "en": "Kohmak Temple"
+              },
+              "tip_5lang": {
+                "de": "Das kühle Morgenwetter macht den kurzen Anstieg zum Tempel viel einfacher; genieße die friedliche, frische Atmosphäre.",
+                "hu": "A hűvös reggeli időjárás sokkal könnyebbé teszi a rövid mászást a templomhoz; élvezd a békés, friss atmoszférát.",
+                "ro": "Vremea răcoroasă de dimineață face urcarea scurtă spre templu mult mai ușoară; bucură-te de atmosfera liniștită și clară.",
+                "en": "The cool morning weather makes the short climb up to the temple much easier; enjoy the peaceful, crisp atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Kratueng",
+                "hu": "Ao Kratueng",
+                "ro": "Ao Kratueng",
+                "en": "Ao Kratueng"
+              },
+              "tip_5lang": {
+                "de": "Eine sanfte, kühle Winterbrise macht diesen schönen Strand perfekt für eine schnelle, angenehm schweißfreie Radpause.",
+                "hu": "Egy lágy, hűvös téli szellő tökéletessé teszi ezt a szép strandot egy gyors, kényelmes, izzadásmentes kerékpáros szünethez.",
+                "ro": "O briză blândă și rece de iarnă face această plajă perfectă pentru o pauză rapidă de ciclism, fără a transpira.",
+                "en": "A gentle, cool winter breeze makes this beautiful beach perfect for a quick, comfortably sweat-free cycling break."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Suan Yai",
+                "hu": "Ao Suan Yai",
+                "ro": "Ao Suan Yai",
+                "en": "Ao Suan Yai"
+              },
+              "tip_5lang": {
+                "de": "Genieße die hervorragende, klare Wintersicht; die perfekte kühle Luft ist absolut ideal zum Radfahren an der Küste.",
+                "hu": "Élvezd a kiemelkedően tiszta téli látási viszonyokat; a tökéletesen hűvös levegő abszolút ideális a parti tekeréshez.",
+                "ro": "Bucură-te de vizibilitatea clară de iarnă; aerul perfect de răcoros este absolut ideal pentru a pedala de-a lungul coastei.",
+                "en": "Enjoy the outstanding clear winter visibility; the perfectly cool air is absolutely ideal for pedaling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Koh Kham",
+                "hu": "Koh Kham",
+                "ro": "Koh Kham",
+                "en": "Koh Kham"
+              },
+              "tip_5lang": {
+                "de": "Mache die kurze Bootsfahrt in der milden Nachmittagssonne; ohne starkes Schwitzen hast du mehr Energie für Erkundungen.",
+                "hu": "Tedd meg a rövid hajóutat az enyhe délutáni napsütésben; az izzadás elkerülése több energiát hagy a felfedezésre.",
+                "ro": "Fă scurta plimbare cu barca în soarele blând de după-amiază; lipsa transpirației înseamnă mai multă energie pentru explorare.",
+                "en": "Take the short boat ride in the mild afternoon sun; avoiding heavy sweating means you have more energy to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Pier at Cinnamon Art Resort and Spa",
+                "hu": "Pier at Cinnamon Art Resort and Spa",
+                "ro": "Pier at Cinnamon Art Resort and Spa",
+                "en": "Pier at Cinnamon Art Resort and Spa"
+              },
+              "tip_5lang": {
+                "de": "Komme pünktlich an, um die spektakuläre frühe goldene Stunde zu erleben; bringe einen warmen Pullover für die Rückfahrt mit.",
+                "hu": "Érkezz biztonságban, hogy lásd a látványos korai aranyórát; hozz egy kényelmes pulóvert a hűlő esti visszaúthoz.",
+                "ro": "Ajungi la timp pentru a vedea spectaculoasa oră de aur timpurie; ia un pulover călduros pentru drumul de întoarcere pe răcoare.",
+                "en": "Arrive safely in time to witness the spectacular early golden hour; bring a cozy sweater for the cooling evening ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a szigeti autózást a kulturális központban, látogassa meg a fő templomot és figyelje meg a falu mindennapi életét. Dél közeledtével haladjon a homokos utakon a zord keleti partvonal és a lenyűgöző mólók felé. A délután laza gurulást kínál a nyugati oldalra, ahol hosszú, fehér homokos szakaszok várják. Zárja a napot egy látványos tengerparti naplemente megtekintésével a békés öbölből.",
         "ro": "Începeți plimbarea prin insulă din inima culturală, vizitând templul principal și observând viața zilnică a satului. Spre prânz, navigați pe drumurile nisipoase către țărmul estic accidentat și debarcadere uluitoare. După-amiaza oferă o croazieră relaxantă spre vest, dezvăluind întinderi de nisip alb și insule offshore. Încheiați ziua admirând un apus de soare spectaculos de pe o plajă superbă.",
         "en": "Kick off your island drive at the cultural heart by visiting the main temple and observing daily village life. As midday approaches, navigate the sandy tracks to the rugged eastern shoreline and breathtaking resort piers. The afternoon offers a smooth cruise across to the western side, revealing long stretches of white sand and offshore islands. Wind down your day soaking in a spectacular coastal sunset from the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahre morgens vorsichtig auf gefährlich nassen Straßen. Mittags können unbefestigte Parkplätze völlig matschig sein. Nachmittags behindern starke Schauer die Sicht, fahre achtsam. Bleibe abends sicher und trocken in deinem Fahrzeug.",
+            "hu": "Vezess óvatosan a veszélyesen vizes reggeli utakon. Délre a burkolatlan parkolók teljesen sarasak lehetnek. A délutáni záporok rontják a kilátást, haladj lassan. Este maradj biztonságban és szárazon a járművedben.",
+            "ro": "Condu cu grijă pe drumurile ude dimineața. Până la prânz, parcările neasfaltate devin pline de noroi. După-amiaza ploile abundente reduc vizibilitatea, fii prudent. Seara, rămâi în siguranță și la uscat în mașina ta.",
+            "en": "Drive carefully on dangerously wet morning roads. By noon, unpaved parking areas might be completely muddy. Afternoon heavy showers obscure driving views, so proceed with caution. In the evening, stay safe and dry inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kohmak Temple",
+                "hu": "Kohmak Temple",
+                "ro": "Kohmak Temple",
+                "en": "Kohmak Temple"
+              },
+              "tip_5lang": {
+                "de": "Parke so nah wie möglich am Eingang, um nicht durchnässt zu werden; das Innere des Tempels bietet eine ruhige, trockene Zuflucht.",
+                "hu": "Parkolj a bejárathoz a lehető legközelebb, hogy ne ázz el; a templom belseje nagyon csendes, száraz menedéket kínál.",
+                "ro": "Parchează cât mai aproape de intrare pentru a nu te uda; interiorul templului oferă un refugiu foarte liniștit și uscat.",
+                "en": "Park as close to the entrance as possible to avoid getting soaked; the temple interior offers a very quiet, dry refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nid",
+                "hu": "Ao Nid",
+                "ro": "Ao Nid",
+                "en": "Ao Nid"
+              },
+              "tip_5lang": {
+                "de": "Im aktiven Hafenbereich gibt es oft tiefe Pfützen; warte bequem im Auto, bis der stärkste Regen deutlich vorbeigezogen ist.",
+                "hu": "Az aktív kikötő környékén most mély tócsák vannak; várj kényelmesen a kocsiban, amíg a legnagyobb eső egyértelműen elvonul.",
+                "ro": "Zona activă a portului are adesea bălți adânci; așteaptă confortabil în mașină până când ploaia cea mai grea trece complet.",
+                "en": "The active harbor area often has deep puddles now; wait comfortably inside the car until the heaviest rain clearly passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Pai",
+                "hu": "Ao Pai",
+                "ro": "Ao Pai",
+                "en": "Ao Pai"
+              },
+              "tip_5lang": {
+                "de": "Achte beim Aussteigen aus dem Auto vorsichtig auf rutschigen Schlamm; bringe einen sehr großen Regenschirm für diesen kurzen Stopp mit.",
+                "hu": "Kiszálláskor nagyon vigyázz a csúszós sárra; hozz egy nagyon nagy esernyőt ehhez a rövid tengerparti megállóhoz.",
+                "ro": "Ai mare grijă la noroiul alunecos când ieși din mașină; ia o umbrelă foarte mare pentru această scurtă oprire pe coastă.",
+                "en": "Watch out carefully for slippery mud when exiting the car here; bring a very large umbrella for this brief coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Pier at Cinnamon Art Resort and Spa",
+                "hu": "Pier at Cinnamon Art Resort and Spa",
+                "ro": "Pier at Cinnamon Art Resort and Spa",
+                "en": "Pier at Cinnamon Art Resort and Spa"
+              },
+              "tip_5lang": {
+                "de": "Der Holzpier ist leider zu glatt, um sicher zu laufen; genieße einfach den mystischen, nebligen Meerblick vom trockenen Café aus.",
+                "hu": "A móló sajnos túl csúszós a biztonságos sétához; egyszerűen élvezd a borongós, ködös tengeri kilátást a közeli száraz kávézóból.",
+                "ro": "Din păcate, pontonul e prea alunecos pentru a merge în siguranță; bucură-te de priveliștea cețoasă din cafeneaua uscată din apropiere.",
+                "en": "The wooden pier is unfortunately too slick to walk safely; simply enjoy the moody, misty sea view from the nearby dry cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ta Long",
+                "hu": "Ao Ta Long",
+                "ro": "Ao Ta Long",
+                "en": "Ao Ta Long"
+              },
+              "tip_5lang": {
+                "de": "Schalte deine Scheinwerfer für bessere Sicht ein; der anhaltende Regen lässt den umgebenden dichten Dschungel erstaunlich lebendig wirken.",
+                "hu": "Tartsd bekapcsolva a fényszórókat a jobb kilátásért; a folyamatos eső lenyűgözően élénkké teszi a környező sűrű dzsungelt.",
+                "ro": "Ține farurile aprinse pentru vizibilitate; ploaia continuă face jungla densă din jur să pară uimitor de vibrantă și verde.",
+                "en": "Keep your headlights firmly on for better visibility; the ongoing rain makes the surrounding dense jungle look stunningly vibrant."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Suan Yai",
+                "hu": "Ao Suan Yai",
+                "ro": "Ao Suan Yai",
+                "en": "Ao Suan Yai"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein wirklich perfekter Ort, um den aufziehenden Sturm direkt aus dem trockenen Komfort deines geparkten Autos zu beobachten.",
+                "hu": "Ez egy igazán tökéletes hely arra, hogy a parkoló autód száraz kényelméből nézd, ahogy a hatalmas vihar megérkezik.",
+                "ro": "Acesta este un loc perfect pentru a privi furtuna puternică apropiindu-se, direct din confortul uscat al mașinii tale parcate.",
+                "en": "This is a truly perfect spot to watch the powerful storm roll in directly from the dry comfort of your parked car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrten sind schön kühl und sehr klar. Der Mittag bietet perfekten, milden Sonnenschein. Der Nachmittag wird überraschend schnell frisch. Genieße den tollen frühen Sonnenuntergang um 17:00 Uhr und bleibe abends im Auto warm.",
+            "hu": "A reggeli vezetés kellemesen hűvös és élénken tiszta. A dél tökéletes, enyhe napsütést kínál a felfedezéshez. A délután meglepően gyorsan lehűl. Élvezd a lenyűgöző korai, 17:00-es naplementét, és melegedj a kocsiban a sötét este során.",
+            "ro": "Plimbările cu mașina dimineața sunt răcoroase și clare. Prânzul oferă un soare blând, perfect pentru explorare. După-amiaza se răcește surprinzător de repede. Bucură-te de apusul de la 17:00 și încălzește-te în mașină seara.",
+            "en": "Morning drives are nicely cool and vividly clear. Noon offers perfect, mild sunshine for exploring. The afternoon gets chilly surprisingly fast. Enjoy the stunning early 17:00 sunset, keeping warm inside the car during the dark evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kohmak Temple",
+                "hu": "Kohmak Temple",
+                "ro": "Kohmak Temple",
+                "en": "Kohmak Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft ist hier gerade ziemlich frisch; trage immer einen bequemen leichten Pullover, wenn du das schattige Tempelgelände erkundest.",
+                "hu": "A reggeli levegő itt most eléggé csípős; mindig viselj kényelmes, könnyű pulóvert, amikor az árnyékos templomkertben barangolsz.",
+                "ro": "Aerul dimineții este destul de rece aici acum; poartă un pulover ușor și confortabil când explorezi curtea umbrită a templului.",
+                "en": "The morning air is quite brisk here right now; always wear a comfortable light sweater when exploring the shaded temple grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Nid",
+                "hu": "Ao Nid",
+                "ro": "Ao Nid",
+                "en": "Ao Nid"
+              },
+              "tip_5lang": {
+                "de": "Genieße die kristallklare Wintersicht vom erhöhten Pier aus; die kühle Meeresbrise ist heute sehr belebend und erfrischend.",
+                "hu": "Élvezd az abszolút kristálytiszta téli látási viszonyokat a megemelt mólóról; a beáramló hűvös óceáni szellő ma nagyon élénkítő.",
+                "ro": "Bucură-te de vizibilitatea clară de iarnă de pe pontonul înalt; briza rece a oceanului este foarte revigorantă astăzi.",
+                "en": "Enjoy the absolute crystal-clear winter visibility from the elevated pier; the incoming cool ocean breeze is very invigorating today."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Pai",
+                "hu": "Ao Pai",
+                "ro": "Ao Pai",
+                "en": "Ao Pai"
+              },
+              "tip_5lang": {
+                "de": "Die einzigartig milden Wintertemperaturen machen das gemütliche Spazieren um den Parkplatz und den nahegelegenen Strand sehr angenehm.",
+                "hu": "Az egyedülállóan enyhe téli hőmérséklet nagyon élvezetessé teszi a nyitott parkoló és a közeli strand körüli könnyed sétát.",
+                "ro": "Temperaturile unice și blânde de iarnă fac ca plimbarea ușoară prin parcarea deschisă și pe plaja din apropiere să fie foarte plăcută.",
+                "en": "The uniquely mild winter temperatures make gently walking around the open parking area and nearby beach highly enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Pier at Cinnamon Art Resort and Spa",
+                "hu": "Pier at Cinnamon Art Resort and Spa",
+                "ro": "Pier at Cinnamon Art Resort and Spa",
+                "en": "Pier at Cinnamon Art Resort and Spa"
+              },
+              "tip_5lang": {
+                "de": "Der sonst heiße Spaziergang auf dem malerischen Pier ist heute herrlich schweißfrei; hole dir danach ein warmes Getränk im Resort.",
+                "hu": "A festői mólón a szokásosan hosszú, forró séta ma csodálatosan izzadásmentes; utána igyál egy kellemesen meleg italt az üdülőhelyen.",
+                "ro": "Plimbarea lungă pe pontonul pitoresc este azi minunat de răcoroasă; după aceea, ia o băutură caldă la complexul turistic.",
+                "en": "The usually long, hot walk on the scenic pier is wonderfully sweat-free today; grab a pleasantly warm drink at the resort afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ta Long",
+                "hu": "Ao Ta Long",
+                "ro": "Ao Ta Long",
+                "en": "Ao Ta Long"
+              },
+              "tip_5lang": {
+                "de": "Die tiefere Nachmittagssonne wirft sehr lange, wunderbar dramatische Schatten; halte clevererweise eine warme Jacke im Auto für später bereit.",
+                "hu": "Az alacsonyabb délutáni nap nagyon hosszú, gyönyörűen drámai árnyékokat vet; okosan tarts készenlétben egy meleg kabátot az autóban későbbre.",
+                "ro": "Soarele coborât de după-amiază aruncă umbre lungi și frumos dramatice; ține inteligent o jachetă caldă pregătită în mașină pentru mai târziu.",
+                "en": "The lower afternoon sun casts very long, beautifully dramatic shadows; cleverly keep a warm jacket ready in the car for later."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Suan Yai",
+                "hu": "Ao Suan Yai",
+                "ro": "Ao Suan Yai",
+                "en": "Ao Suan Yai"
+              },
+              "tip_5lang": {
+                "de": "Komme pünktlich vor 17:00 Uhr für den spektakulären, frühen Sonnenuntergang an; ziehe dich warm an, da der Küstenwind schnell auffrischt.",
+                "hu": "Érkezz pontosan 17:00 előtt a látványos, korai sötét naplementéhez; öltözz fel jól, ahogy a parti téli szél gyorsan felerősödik.",
+                "ro": "Ajungi exact înainte de ora 17:00 pentru apusul spectaculos și timpuriu; îmbracă-te bine deoarece vântul de iarnă de pe coastă se întețește.",
+                "en": "Arrive precisely before 17:00 for the spectacular, early dark sunset; bundle up well as the coastal winter wind quickly picks up."
+              }
+            }
+          ]
+        }
       }
     }
   }

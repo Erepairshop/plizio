@@ -137,6 +137,168 @@
         "hu": "A délelőtt a helyi örökség felfedezésével kezdődik a Setúbal Múzeumban, majd egy séta következik a Teatro Animação kulturális központjához. A délidő tökéletes a Galeria Municipal képzőművészeti alkotásainak felfedezésére. Délután utazzon tovább a múltba a Museu de Arqueologiában. Az este gyönyörűen zárul a Fábrica Romana de Salga ősi romjai között.",
         "ro": "Dimineața începe cu o incursiune profundă în patrimoniul local la Muzeul din Setúbal, urmată de o plimbare spre centrul cultural Teatro Animação. Amiaza este perfectă pentru explorarea artelor vizuale la Galeria Municipală. După-amiaza, călătoriți mai departe în trecut la Muzeul de Arheologie. Seara se încheie frumos printre ruinele antice ale Fabricii Romane de Salga.",
         "en": "Morning begins with a deep dive into local heritage at the Museum of Setúbal, followed by a stroll to the cultural hub of Teatro Animação. Midday is perfect for exploring the visual arts at the Galeria Municipal. In the afternoon, journey further into the past at the Museu de Arqueologia. The evening wraps up beautifully among the ancient ruins of the Fábrica Romana de Salga."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Museum von Setúbal, einem perfekten Zufluchtsort vor dem Regen. Mittags bietet das Theater kulturelle Unterhaltung im Trockenen. Am Nachmittag erkunden Sie die Galerien der Stadt, während Sie von einem überdachten Ort zum nächsten schlendern. Der Abend endet bei den römischen Ruinen, wo Sie trotz des grauen Himmels die Geschichte der Stadt hautnah erleben können.",
+            "hu": "Kezdje a napot a Setúbal Múzeumban, amely tökéletes menedék az eső elől. Délben a színház kínál kulturális feltöltődést szárazon. Délután fedezze fel a város galériáit, miközben egyik fedett helyről a másikra sétál. Az este a római romoknál zárul, ahol a szürke égbolt ellenére is testközelből ismerheti meg a város történelmét. Vigyen magával strapabíró esernyőt.",
+            "ro": "Începeți ziua la Muzeul din Setúbal, un refugiu perfect împotriva ploii. La prânz, teatrul oferă divertisment cultural la adăpost. După-amiaza, explorați galeriile orașului, trecând rapid de la un spațiu acoperit la altul. Seara se încheie la ruinele romane, unde, în ciuda cerului gri, puteți experimenta istoria orașului de aproape. Nu uitați pelerina de ploaie pentru segmentele dintre obiective.",
+            "en": "Start your day at the Museum of Setúbal, a perfect sanctuary from the rain. At noon, the theater provides indoor cultural enrichment. In the afternoon, explore the city's galleries, moving quickly between covered spaces. The evening concludes at the Roman ruins, where you can experience history up close despite the grey skies. Keep a sturdy umbrella handy for the short walks between stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Setúbal",
+                "hu": "Setúbal Múzeum",
+                "ro": "Muzeul din Setúbal",
+                "en": "Museum of Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die flämischen Altarbilder im Inneren des Klosters, während der Regen gegen die Fenster prasselt; die Innenräume bieten einen hervorragenden und trockenen Schutz.",
+                "hu": "Csodálja meg a kolostor belső terében található flamand oltárképeket, miközben az eső kopog az ablakokon; a múzeum tágas termei kiváló és száraz menedéket nyújtanak.",
+                "ro": "Admirați altarele flamande din interiorul mănăstirii în timp ce ploaia bate în ferestre; interioarele spațioase oferă un adăpost excelent și uscat pentru vizitatori.",
+                "en": "Admire the Flemish altarpieces inside the monastery while the rain taps against the windows; the museum's interior provides an excellent and dry sanctuary for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Animação de Setúbal",
+                "hu": "Teatro Animação de Setúbal",
+                "ro": "Teatro Animação de Setúbal",
+                "en": "Teatro Animação de Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für ein kurzes Gespräch über die lokale Theaterszene im Foyer; die moderne Architektur hält Sie garantiert trocken und inspiriert.",
+                "hu": "Használja ki az esőszünetet egy rövid beszélgetésre a helyi színházi életről az előcsarnokban; a modern épület garantáltan szárazon tartja és inspirálja Önt.",
+                "ro": "Profită de pauza de ploaie pentru o scurtă discuție despre scena teatrală locală în foaier; arhitectura modernă te va menține cu siguranță uscat și inspirat.",
+                "en": "Take advantage of the rainy interval for a brief chat about the local theater scene in the foyer; the modern building is guaranteed to keep you dry and inspired."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Municipal",
+                "hu": "Galeria Municipal",
+                "ro": "Galeria Municipal",
+                "en": "Galeria Municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunst in dieser lichtdurchfluteten Galerie, die auch an grauen Regentagen eine helle und einladende Atmosphäre für Besucher bietet.",
+                "hu": "Élvezze a kortárs művészetet ebben a fényárban úszó galériában, amely még a szürke esős napokon is világos és hívogató légkört biztosít a látogatóknak.",
+                "ro": "Bucurați-vă de arta contemporană în această galerie plină de lumină, care oferă o atmosferă luminoasă și primitoare chiar și în zilele ploioase și gri.",
+                "en": "Enjoy contemporary art in this light-filled gallery, which provides a bright and welcoming atmosphere for visitors even on the greyest rainy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches und Ethnografisches Museum",
+                "hu": "Régészeti és Néprajzi Múzeum",
+                "ro": "Muzeul de Arheologie și Etnografie",
+                "en": "Museu de Arqueologia e Etnografia do Distrito de Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Geschichte der Region ein und nutzen Sie die Schließfächer, um nasse Mäntel und Schirme sicher und bequem zu verstauen.",
+                "hu": "Merüljön el a régió történelmében, és használja a múzeumi szekrényeket a nedves kabátok és esernyők biztonságos és kényelmes tárolására a látogatás alatt.",
+                "ro": "Explorați istoria profundă a regiunii și folosiți dulapurile muzeului pentru a depozita hainele și umbrelele ude în siguranță și confort pe durata vizitei.",
+                "en": "Dive deep into the region's history and utilize the museum lockers to store wet coats and umbrellas safely and conveniently while you explore the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Pökelfabrik",
+                "hu": "Római Halsózó Gyár",
+                "ro": "Fabrica Romană de Sărare",
+                "en": "Fábrica Romana de Salga"
+              },
+              "tip_5lang": {
+                "de": "Diese unterirdische Anlage bietet einen faszinierenden Einblick in die römische Industrie und schützt Sie gleichzeitig vor dem unbeständigen Wetter im Freien.",
+                "hu": "Ez a föld alatti létesítmény lenyűgöző betekintést nyújt a római iparba, miközben védelmet nyújt a kinti kiszámíthatatlan és nedves időjárás ellen.",
+                "ro": "Această facilitate subterană oferă o perspectivă fascinantă asupra industriei romane, protejându-vă în același timp de vremea instabilă și umedă de afară.",
+                "en": "This underground facility offers a fascinating glimpse into Roman industry while protecting you from the unpredictable and wet weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Winterluft bei einem Spaziergang durch das historische Zentrum. Am Morgen wärmen Sie sich in den dicken Mauern des Setúbal-Museums auf. Mittags und nachmittags bieten die Galerien und Museen gemütliche Pausen. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die römische Fabrik frühzeitig besuchen, um das schwindende Tageslicht optimal zu nutzen.",
+            "hu": "Élvezze a hűvös téli levegőt a történelmi központban tett séta során. Reggel melegedjen fel a Setúbal Múzeum vastag falai között. Délben és délután a galériák és múzeumok kínálnak kellemes pihenőt. Mivel a nap 17:00 körül nyugszik, érdemes korán meglátogatni a római gyárat, hogy a legtöbbet hozza ki a fogyatkozó nappali fényből.",
+            "ro": "Bucurați-vă de aerul rece de iarnă în timpul unei plimbări prin centrul istoric. Dimineața, încălziți-vă între zidurile groase ale Muzeului Setúbal. La prânz și după-amiaza, galeriile și muzeele oferă pauze confortabile. Deoarece soarele apune în jur de ora 17:00, vizitați fabrica romană devreme pentru a profita la maximum de lumina zilei.",
+            "en": "Enjoy the crisp winter air during a stroll through the historic center. In the morning, warm up within the thick walls of the Setúbal Museum. At noon and afternoon, galleries and museums offer cozy breaks. Since the sun sets around 17:00, visit the Roman factory early to make the most of the fading daylight and stay warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum von Setúbal",
+                "hu": "Setúbal Múzeum",
+                "ro": "Muzeul din Setúbal",
+                "en": "Museum of Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Winterkälte draußen; nutzen Sie den Besuch, um die beeindruckenden Manuelinik-Details in aller Ruhe und Wärme zu bewundern.",
+                "hu": "A vastag kőfalak kívül tartják a téli hideget; használja ki a látogatást a lenyűgöző mánuel stílusú részletek nyugodt és meleg környezetben való megcsodálására.",
+                "ro": "Zidurile groase de piatră țin frigul iernii afară; profită de vizită pentru a admira detaliile manueline impresionante într-un mediu calm și călduros.",
+                "en": "The thick stone walls keep the winter chill outside; use the visit to admire the impressive Manueline details in a calm and warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Animação de Setúbal",
+                "hu": "Teatro Animação de Setúbal",
+                "ro": "Teatro Animação de Setúbal",
+                "en": "Teatro Animação de Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Theater ist im Winter besonders behaglich; informieren Sie sich über Abendvorstellungen, die eine perfekte Ergänzung zum frühen Sonnenuntergang bieten.",
+                "hu": "A színházlátogatás télen különösen kellemes; tájékozódjon az esti előadásokról, amelyek tökéletes kiegészítői a korai naplementének és a hűvös estéknek.",
+                "ro": "O vizită la teatru este deosebit de plăcută iarna; informați-vă despre spectacolele de seară, care completează perfect apusul timpuriu și serile reci.",
+                "en": "A visit to the theater is especially pleasant in winter; check for evening performances that perfectly complement the early sunset and chilly evenings."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Municipal",
+                "hu": "Galeria Municipal",
+                "ro": "Galeria Municipal",
+                "en": "Galeria Municipal"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizte Galerie ist der ideale Ort, um dem Wind zu entkommen und lokale Kunstwerke in einer entspannten, warmen Atmosphäre zu genießen.",
+                "hu": "A jól fűtött galéria ideális hely a szél elől való menekülésre, ahol nyugodt és meleg légkörben élvezheti a helyi művészek alkotásait.",
+                "ro": "Galeria bine încălzită este locul ideal pentru a scăpa de vânt și pentru a savura operele de artă locale într-o atmosferă relaxată și caldă.",
+                "en": "The well-heated gallery is the ideal spot to escape the wind and enjoy local artworks in a relaxed, warm, and inviting atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches und Ethnografisches Museum",
+                "hu": "Régészeti és Néprajzi Múzeum",
+                "ro": "Muzeul de Arheologie și Etnografie",
+                "en": "Museu de Arqueologia e Etnografia do Distrito de Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für die umfangreichen Ausstellungen; die warme Beleuchtung schafft eine gemütliche Stimmung, während es draußen früher dunkel wird.",
+                "hu": "Használja ki a délutánt a kiterjedt kiállítások megtekintésére; a meleg világítás barátságos hangulatot áraszt, miközben kint korán sötétedni kezd.",
+                "ro": "Profită de după-amiază pentru a vedea expozițiile extinse; iluminatul cald creează o atmosferă primitoare în timp ce afară începe să se întunece devreme.",
+                "en": "Take advantage of the afternoon to see the extensive exhibits; the warm lighting creates a welcoming atmosphere as it begins to get dark early outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Pökelfabrik",
+                "hu": "Római Halsózó Gyár",
+                "ro": "Fabrica Romană de Sărare",
+                "en": "Fábrica Romana de Salga"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur in den archäologischen Stätten bietet Schutz vor frostigem Wind; besuchen Sie diesen Ort vor 16:30 Uhr, um das beste Licht zu haben.",
+                "hu": "A régészeti lelőhely állandó hőmérséklete védelmet nyújt a fagyos szél ellen; látogasson el ide 16:30 előtt, hogy a legmegfelelőbb fényviszonyokat fogja ki.",
+                "ro": "Temperatura constantă din situl arheologic oferă protecție împotriva vântului înghețat; vizitați acest loc înainte de 16:30 pentru cele mai bune condiții de lumină.",
+                "en": "The constant temperature in the archaeological site provides protection from the frosty wind; visit this spot before 16:30 for the best light conditions."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggeli kerékpározás az impozáns Forte de São Luiz Gonzaga erődnék kezdődik, majd egy kellemes tekerés következik a központi Setúbal Múzeumhoz. Délben megcsodálhatja a Galeria Municipal változatos kiállításait. A délutáni szellő a part mentén a Praia da Saúde-hoz vezet. Zárja a napot egy kihívást jelentő emelkedővel a Forte de São Filipe-hez a lélegzetelállító esti kilátásért.",
         "ro": "Plimbarea de dimineață începe la impresionanta Forte de São Luiz Gonzaga, urmată de o pedalare plăcută spre centrul Muzeului din Setúbal. Până la prânz, veți admira diversele expoziții de la Galeria Municipală. Briza de după-amiază vă ghidează de-a lungul coastei spre Praia da Saúde. Încheiați-vă ziua cu o urcare provocatoare la Forte de São Filipe pentru priveliști uluitoare seara.",
         "en": "The morning ride kicks off at the impressive Forte de São Luiz Gonzaga, followed by a pleasant pedal to the central Museum of Setúbal. By midday, you will be admiring the diverse exhibits at the Galeria Municipal. The afternoon breeze guides you along the coast to Praia da Saúde. Conclude your day with a challenging climb to Forte de São Filipe for breathtaking evening views over the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, besonders auf den Kopfsteinpflasterstraßen. Starten Sie am Fort São Luiz Gonzaga und nutzen Sie die Museen als Etappenziele zum Aufwärmen. Mittags erreichen Sie die Praia da Saúde, wo die raue See eine dramatische Kulisse bietet. Denken Sie an wasserfeste Kleidung und achten Sie auf rutschige Abschnitte beim Forte de São Filipe.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel, különösen a macskaköves utcákon. Kezdje a São Luiz Gonzaga erődnél, és használja a múzeumokat állomásként a felmelegedéshez. Délben érje el a Praia da Saúde-t, ahol a zord tenger drámai látványt nyújt. Ügyeljen a vízálló ruházatra és a csúszós szakaszokra a São Filipe erőd felé vezető úton.",
+            "ro": "O tură cu bicicleta prin ploaie necesită prudență, mai ales pe străzile pietruite. Începeți la Fortul São Luiz Gonzaga și folosiți muzeele ca puncte de oprire pentru încălzire. La prânz, ajungeți la Praia da Saúde, unde marea agitată oferă un decor dramatic. Purtați haine impermeabile și aveți grijă la porțiunile alunecoase spre Fortul São Filipe.",
+            "en": "Cycling in the rain requires caution, especially on cobblestone streets. Start at Forte de São Luiz Gonzaga and use museums as staging points to dry off. By noon, reach Praia da Saúde, where the rough sea provides a dramatic backdrop. Remember waterproof gear and watch out for slippery sections on the climb to Forte de São Filipe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte de São Luiz Gonzaga",
+                "hu": "Forte de São Luiz Gonzaga",
+                "ro": "Forte de São Luiz Gonzaga",
+                "en": "Forte de São Luiz Gonzaga"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den steinernen Torbögen Schutz vor Regengüssen; der Boden kann hier rutschig sein, also stellen Sie Ihr Fahrrad sicher ab.",
+                "hu": "Keressen menedéket a kőboltozatok alatt a zivatarok elől; a talaj itt csúszós lehet, ezért stabilan támassza le a kerékpárját.",
+                "ro": "Căutați adăpost sub arcadele de piatră în caz de aversă; solul poate fi alunecos aici, așa că parcați bicicleta cu mare atenție.",
+                "en": "Seek shelter under the stone archways during downpours; the ground can be slippery here, so park your bike securely and watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Setúbal",
+                "hu": "Setúbal Múzeum",
+                "ro": "Muzeul din Setúbal",
+                "en": "Museum of Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Fahrradständer in der Nähe des Eingangs und wärmen Sie sich in den Ausstellungsräumen auf, während Ihre Regenkleidung abtropfen kann.",
+                "hu": "Használja a bejárat közeli kerékpártárolót, és melegedjen fel a kiállítótermekben, amíg a vízálló ruházata egy kicsit lecsöpöghet.",
+                "ro": "Folosiți suportul de biciclete de lângă intrare și încălziți-vă în sălile de expoziție în timp ce echipamentul de ploaie se poate scurge.",
+                "en": "Use the bike rack near the entrance and warm up in the exhibition rooms while your waterproof gear has a chance to drip dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Municipal",
+                "hu": "Galeria Municipal",
+                "ro": "Galeria Municipal",
+                "en": "Galeria Municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zwischenstopp im Trockenen; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt fortsetzen, da nasse Beläge die Bremswirkung verzögern können.",
+                "hu": "Ideális megállóhely a szárazon; ellenőrizze a fékeket, mielőtt folytatná útját, mivel a nedves fékbetétek késleltethetik a fékezést.",
+                "ro": "Un punct de oprire ideal la uscat; verificați frânele înainte de a continua drumul, deoarece plăcuțele umede pot întârzia frânarea.",
+                "en": "An ideal stop in the dry; check your brakes before continuing your journey, as wet pads can significantly delay braking response."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Saúde",
+                "hu": "Praia da Saúde",
+                "ro": "Praia da Saúde",
+                "en": "Praia da Saúde"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von einem der ufernahen Cafés aus; die Radwege am Flussufer bieten auch bei Regen eine gute, ebene Fahrfläche.",
+                "hu": "Figyelje a viharos tengert a parti kávézók egyikéből; a folyóparti kerékpárutak esőben is jó, sík felületet biztosítanak a haladáshoz.",
+                "ro": "Observați marea agitată de la una dintre cafenelele de pe mal; pistele de biciclete de pe malul râului oferă o suprafață plană bună chiar și pe ploaie.",
+                "en": "Watch the stormy sea from one of the waterfront cafes; the riverside bike paths offer a good, flat surface for riding even in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Filipe",
+                "hu": "Forte de São Filipe",
+                "ro": "Forte de São Filipe",
+                "en": "Forte de São Filipe"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Fort ist steil und bei Regen rutschig; schalten Sie in einen niedrigen Gang und achten Sie auf Pfützen in den Kurven.",
+                "hu": "Az erődhöz vezető emelkedő meredek és esőben csúszós; váltson alacsonyabb sebességfokozatba, és ügyeljen a kanyarokban lévő tócsákra.",
+                "ro": "Urcarea spre fort este abruptă și alunecoasă pe ploaie; schimbați într-o viteză inferioară și aveți grijă la bălțile din curbe.",
+                "en": "The climb to the fort is steep and slippery in the rain; switch to a lower gear and watch out for puddles and debris in the corners."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Setúbal zeigt sich im Winter von seiner ruhigen Seite. Genießen Sie die klare Sicht vom Forte de São Luiz Gonzaga am Morgen. Die Radtour führt Sie durch das Zentrum, wo Museen angenehme Wärme spenden. Am Nachmittag bietet die Praia da Saúde eine frische Brise, bevor Sie zum Sonnenuntergang am Forte de São Filipe ankommen. Tragen Sie winddichte Kleidung für die Abfahrten.",
+            "hu": "Setúbal télen a nyugodt arcát mutatja. Élvezze a tiszta kilátást a São Luiz Gonzaga erődből reggel. A kerékpártúra a központon vezet keresztül, ahol a múzeumok kellemes meleget adnak. Délután a Praia da Saúde friss szellőt kínál, mielőtt a naplementére megérkezne a São Filipe erődhöz. Viseljen szélálló ruházatot a lejtőkhöz.",
+            "ro": "Setúbal își arată latura liniștită iarna. Bucurați-vă de vederea clară de la Fortul São Luiz Gonzaga dimineața. Turul cu bicicleta vă duce prin centru, unde muzeele oferă o căldură plăcută. După-amiaza, Praia da Saúde oferă o briză proaspătă înainte de a ajunge la Fortul São Filipe pentru apus. Purtați haine rezistente la vânt.",
+            "en": "Setúbal shows its quiet side in winter. Enjoy the clear views from Forte de São Luiz Gonzaga in the morning. The bike tour takes you through the center, where museums provide pleasant warmth. In the afternoon, Praia da Saúde offers a fresh breeze before arriving at Forte de São Filipe for sunset. Wear windproof clothing for the descents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte de São Luiz Gonzaga",
+                "hu": "Forte de São Luiz Gonzaga",
+                "ro": "Forte de São Luiz Gonzaga",
+                "en": "Forte de São Luiz Gonzaga"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht eine weite Sicht über die Stadt; tragen Sie Handschuhe, um Ihre Hände beim Fotografieren auf der Festung warm zu halten.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé a városra; viseljen kesztyűt, hogy melegen tartsa a kezét, miközben fotóz az erőd falairól.",
+                "ro": "Aerul curat de iarnă permite o vedere largă asupra orașului; purtați mănuși pentru a vă menține mâinile calde în timp ce fotografiați de pe fort.",
+                "en": "The crisp winter air allows for a wide view over the city; wear gloves to keep your hands warm while taking photos from the fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Setúbal",
+                "hu": "Setúbal Múzeum",
+                "ro": "Muzeul din Setúbal",
+                "en": "Museum of Setúbal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die windgeschützte Architektur des Kreuzgangs; im Winter ist es hier deutlich ruhiger als im Sommer.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és élvezze a kerengő szélvédett építészetét; télen itt lényegesen nagyobb a nyugalom, mint nyáron.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de arhitectura protejată de vânt a claustrului; iarna este mult mai liniște aici decât vara.",
+                "en": "Park your bike safely and enjoy the wind-sheltered architecture of the cloister; in winter, it is significantly quieter here than in the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Municipal",
+                "hu": "Galeria Municipal",
+                "ro": "Galeria Municipal",
+                "en": "Galeria Municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich kurz aufzuwärmen und moderne Kunst zu betrachten; die hellen Räume wirken im Winterlicht besonders einladend.",
+                "hu": "Tökéletes hely a rövid felmelegedéshez és a modern művészet megtekintéséhez; a világos terek a téli fényben különösen hívogatónak tűnnek.",
+                "ro": "Un loc perfect pentru a vă încălzi scurt și pentru a privi arta modernă; spațiile luminoase par deosebit de primitoare în lumina iernii.",
+                "en": "A perfect place to warm up briefly and view modern art; the bright spaces look especially inviting in the unique winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Saúde",
+                "hu": "Praia da Saúde",
+                "ro": "Praia da Saúde",
+                "en": "Praia da Saúde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den menschenleeren Strand und die frische Brise; halten Sie Ausschau nach Delfinen, die im Winter oft näher am Ufer zu sehen sind.",
+                "hu": "Élvezze az elhagyatott strandot és a friss szellőt; figyelje a delfineket, amelyek télen gyakran közelebb merészkednek a parthoz.",
+                "ro": "Bucurați-vă de plaja pustie și de briza proaspătă; fiți atenți la delfini, care iarna pot fi văzuți adesea mai aproape de țărm.",
+                "en": "Enjoy the deserted beach and the fresh breeze; keep an eye out for dolphins, which can often be seen closer to the shore during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de São Filipe",
+                "hu": "Forte de São Filipe",
+                "ro": "Forte de São Filipe",
+                "en": "Forte de São Filipe"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang über dem Sado zu erleben; die Pousada im Inneren bietet warme Getränke für durchgefrorene Radler.",
+                "hu": "Érkezzen 17:00 előtt, hogy átélje a Sado feletti naplementét; a belső Pousada meleg italokat kínál az átfázott kerékpárosoknak.",
+                "ro": "Ajungeți înainte de 17:00 pentru a vedea apusul peste Sado; Pousada din interior oferă băuturi calde pentru bicicliștii înfrigurați.",
+                "en": "Arrive before 17:00 to experience the sunset over the Sado; the Pousada inside offers warm drinks for chilled cyclists looking for a break."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje az autós túrát a Via Antiga do Viso ősi ösvényeinek felfedezésével, mielőtt dél felé indulna a Forte de Albarquel tengerparti erődhöz. A délidő pihentető pillanatokat kínál a gyönyörű Praia de Albarquelnél. Ahogy a délután halad előre, vezessen a Pedra Furada egyedülálló természeti képződményeihez. A nap tökéletesen zárul a Farol da Azedánál.",
         "ro": "Începeți turul cu mașina explorând cărările antice din Via Antiga do Viso înainte de a vă îndrepta spre sud către fortăreața de coastă Forte de Albarquel. Amiaza oferă momente de relaxare lângă valuri la frumoasa Praia de Albarquel. Pe măsură ce după-amiaza progresează, conduceți spre formațiunile naturale unice din Pedra Furada. Ziua se încheie perfect la Farol da Azeda.",
         "en": "Start your driving tour exploring the ancient pathways of Via Antiga do Viso before heading south to the coastal Forte de Albarquel. Midday offers relaxing moments by the waves at the beautiful Praia de Albarquel. As the afternoon progresses, drive to the unique natural formations of Pedra Furada. Your day concludes perfectly at Farol da Azeda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Setúbal auch bei starkem Regen komfortabel. Starten Sie an der Via Antiga do Viso und fahren Sie entlang der Küste zum Forte de Albarquel. Die Aussichtspunkte bieten auch durch die Windschutzscheibe spektakuläre Panoramen. Besuchen Sie Pedra Furada am Nachmittag und beenden Sie die Tour am Farol da Azeda, wo die Lichter bei Regen besonders stimmungsvoll wirken.",
+            "hu": "Autóval heves esőzésben is kényelmesen felfedezheti Setúbalt. Kezdje a Via Antiga do Viso-nál, és hajtson végig a parton az Albarquel erődig. A kilátópontok a szélvédőn keresztül is látványos panorámát nyújtanak. Délután látogasson el a Pedra Furada-hoz, és zárja a túrát az Azeda világítótoronynál, ahol a fények esőben különösen hangulatosak.",
+            "ro": "Cu mașina, puteți explora Setúbal confortabil chiar și pe ploaie torențială. Începeți la Via Antiga do Viso și conduceți de-a lungul coastei spre Fortul Albarquel. Punctele de belvedere oferă panorame spectaculoase chiar și prin parbriz. Vizitați Pedra Furada după-amiaza și încheiați turul la Farul Azeda, unde luminile sunt foarte atmosferice pe ploaie.",
+            "en": "By car, you can explore Setúbal comfortably even during heavy rain. Start at Via Antiga do Viso and drive along the coast to Forte de Albarquel. The viewpoints offer spectacular panoramas even through the windshield. Visit Pedra Furada in the afternoon and end the tour at Farol da Azeda, where the lights look especially atmospheric in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Via Antiga do Viso",
+                "hu": "Via Antiga do Viso",
+                "ro": "Via Antiga do Viso",
+                "en": "Via Antiga do Viso"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand, um die historischen Markierungen zu sehen; bleiben Sie bei starken Güssen im Auto und genießen Sie den Blick auf die grünen Hügel.",
+                "hu": "Parkoljon le az út mentén, hogy megtekinthesse a történelmi jelzéseket; heves záporok idején maradjon az autóban, és élvezze a kilátást a zöld dombokra.",
+                "ro": "Parcați pe marginea drumului pentru a vedea marcajele istorice; în caz de aversă torențială, rămâneți în mașină și admirați dealurile verzi.",
+                "en": "Park by the roadside to view the historical markers; during heavy downpours, stay in the car and enjoy the misty view of the surrounding green hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Albarquel",
+                "hu": "Forte de Albarquel",
+                "ro": "Forte de Albarquel",
+                "en": "Forte de Albarquel"
+              },
+              "tip_5lang": {
+                "de": "Das Fort bietet gute Parkmöglichkeiten; nutzen Sie die kurzen Regenpausen, um die Außenmauern zu erkunden, und suchen Sie sonst Schutz in den Innenräumen.",
+                "hu": "Az erődnél jók a parkolási lehetőségek; használja ki a rövid esőszüneteket a külső falak felfedezésére, egyébként pedig keressen menedéket a belső terekben.",
+                "ro": "Fortul oferă opțiuni bune de parcare; profitați de scurtele pauze de ploaie pentru a explora zidurile exterioare, altfel căutați adăpost în interior.",
+                "en": "The fort offers good parking options; take advantage of short rainy intervals to explore the outer walls, otherwise seek shelter within the interior spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Albarquel",
+                "hu": "Praia de Albarquel",
+                "ro": "Praia de Albarquel",
+                "en": "Praia de Albarquel"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wellen vom gemütlichen Inneren Ihres Fahrzeugs aus; die Parkplätze direkt am Strand bieten eine erstklassige Sicht auf den Sado.",
+                "hu": "Figyelje a hullámok játékát járműve kényelmes belsejéből; a közvetlenül a tengerparton található parkolók elsőrangú kilátást nyújtanak a Sado-folyóra.",
+                "ro": "Observați jocul valurilor din interiorul confortabil al vehiculului; parcările de pe plajă oferă o vedere de primă clasă asupra estuarului Sado.",
+                "en": "Watch the play of the waves from the cozy interior of your vehicle; the parking lots right by the beach offer a first-class view of the Sado estuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedra Furada",
+                "hu": "Pedra Furada",
+                "ro": "Pedra Furada",
+                "en": "Pedra Furada"
+              },
+              "tip_5lang": {
+                "de": "Der Boden rund um die Felsformation kann nach Regen sehr schlammig sein; tragen Sie festes Schuhwerk und achten Sie auf rutschige Steine beim Aussteigen.",
+                "hu": "A sziklaformáció körüli talaj eső után nagyon sáros lehet; viseljen strapabíró lábbelit, és ügyeljen a csúszós kövekre, amikor kiszáll az autóból.",
+                "ro": "Terenul din jurul formațiunii stâncoase poate fi foarte noroios după ploaie; purtați încălțăminte solidă și atenție la pietrele alunecoase la coborâre.",
+                "en": "The ground around the rock formation can be very muddy after rain; wear sturdy footwear and watch out for slippery stones when exiting your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Farol da Azeda",
+                "hu": "Farol da Azeda",
+                "ro": "Farol da Azeda",
+                "en": "Farol da Azeda"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Ort bei Regen; die Lichter des Hafens glitzern auf dem nassen Asphalt, was diesen Fotostopp auch bei schlechtem Wetter lohnenswert macht.",
+                "hu": "Drámai helyszín esőben; a kikötő fényei csillognak a nedves aszfalton, ami rossz időben is érdemessé teszi ezt a megállót a fotózásra.",
+                "ro": "Un loc dramatic pe ploaie; luminile portului sclipesc pe asfaltul ud, făcând această oprire foto utilă chiar și pe vreme nefavorabilă.",
+                "en": "A dramatic spot in the rain; the harbor lights glisten on the wet asphalt, making this photo stop worthwhile even in poor weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Pracht von Setúbal bequem mit dem Auto. Die Fahrt führt Sie zu historischen Stätten und atemberaubenden Aussichtspunkten wie dem Farol da Azeda. Am Vormittag und Mittag genießen Sie die milden Temperaturen im Küstenbereich. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie Ihren Besuch am Strand für den frühen Nachmittag, um das goldene Licht zu nutzen.",
+            "hu": "Fedezze fel Setúbal téli pompáját kényelmesen, autóval. Az út történelmi helyszínekhez és lélegzetelállító kilátópontokhoz vezet, mint például az Azeda világítótorony. Délelőtt és délben élvezze az enyhe hőmérsékletet a parti részeken. Mivel a nap 17:00 körül nyugszik, tervezze a tengerparti látogatást kora délutánra, hogy kihasználja az aranyló fényeket.",
+            "ro": "Experimentați splendoarea hibernală a orașului Setúbal confortabil cu mașina. Traseul vă duce la situri istorice și puncte de belvedere uluitoare, cum ar fi Farul Azeda. Dimineața și la prânz, bucurați-vă de temperaturile blânde din zona de coastă. Deoarece soarele apune în jur de 17:00, vizitați plaja după-amiaza devreme.",
+            "en": "Experience the winter splendor of Setúbal comfortably by car. The route takes you to historical sites and breathtaking viewpoints like Farol da Azeda. In the morning and noon, enjoy the mild temperatures along the coast. Since the sun sets around 17:00, plan your beach visit for early afternoon to catch the golden light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Via Antiga do Viso",
+                "hu": "Via Antiga do Viso",
+                "ro": "Via Antiga do Viso",
+                "en": "Via Antiga do Viso"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht, die typisch für den Winter in Portugal ist; die Hügel zeigen sich in einem saftigen Grün, das im Sommer oft fehlt.",
+                "hu": "Élvezze a Portugália telére jellemző tiszta tálati kilátást; a dombok üde zöld színben pompáznak, ami nyáron gyakran hiányzik a tájból.",
+                "ro": "Bucurați-vă de vederea clară la distanță, tipică iernii în Portugalia; dealurile sunt de un verde luxuriant, care adesea lipsește vara.",
+                "en": "Enjoy the clear long-distance views typical of winter in Portugal; the hills show a lush green color that is often missing during the dry summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Albarquel",
+                "hu": "Forte de Albarquel",
+                "ro": "Forte de Albarquel",
+                "en": "Forte de Albarquel"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise kann im Winter kühl sein; halten Sie Ihre Jacke bereit, wenn Sie das Auto verlassen, um die Befestigungsanlagen zu besichtigen.",
+                "hu": "A tengeri szellő télen hűvös lehet; tartsa készenlétben a kabátját, amikor kiszáll az autóból, hogy megtekintse az erődítményeket.",
+                "ro": "Briza mării poate fi rece iarna; aveți jacheta la îndemână când coborâți din mașină pentru a vizita fortificațiile istorice ale cetății.",
+                "en": "The sea breeze can be quite chilly in winter; keep your jacket ready when you leave the car to visit the impressive historical fortifications."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Albarquel",
+                "hu": "Praia de Albarquel",
+                "ro": "Praia de Albarquel",
+                "en": "Praia de Albarquel"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand ist im Winter sehr erholsam; das Auto bleibt ein warmer Rückzugsort, falls der Wind zu stark auffrischt.",
+                "hu": "A séta az üres tengerparton télen nagyon pihentető; az autó meleg menedék marad, ha a szél túlságosan felerősödne a parton.",
+                "ro": "O plimbare pe plaja pustie este foarte relaxantă iarna; mașina rămâne un refugiu cald în cazul în care vântul devine prea puternic la mal.",
+                "en": "A walk on the empty beach is very relaxing in winter; the car remains a warm sanctuary if the wind picks up too much along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedra Furada",
+                "hu": "Pedra Furada",
+                "ro": "Pedra Furada",
+                "en": "Pedra Furada"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort bei niedrig stehender Wintersonne für spektakuläre Schattenwürfe und Fotos ohne die üblichen Touristenmassen des Sommers.",
+                "hu": "Látogasson el ide az alacsonyan járó téli napsütésben a látványos árnyékokért és a nyári tömeg nélküli fotózási lehetőségért.",
+                "ro": "Vizitați acest loc când soarele de iarnă este jos pentru umbre spectaculoase și fotografii fără mulțimile obișnuite de turiști din vară.",
+                "en": "Visit this spot during low winter sun for spectacular shadows and photos without the usual tourist crowds found during the summer season."
+              }
+            },
+            {
+              "name": {
+                "de": "Farol da Azeda",
+                "hu": "Farol da Azeda",
+                "ro": "Farol da Azeda",
+                "en": "Farol da Azeda"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss vor Einbruch der Dunkelheit um 17:00 Uhr; genießen Sie den Blick auf die Lichter von Setúbal im klaren Winterhimmel.",
+                "hu": "Tökéletes befejezés a sötétség 17:00-as beállta előtt; élvezze Setúbal fényeinek látványát a tiszta téli égbolt alatt a torony mellől.",
+                "ro": "Finalul perfect înainte de lăsarea întunericului la ora 17:00; bucurați-vă de vederea luminilor din Setúbal sub cerul senin de iarnă.",
+                "en": "The perfect conclusion before darkness falls at 17:00; enjoy the view of the lights of Setúbal under the clear winter sky from the lighthouse."
+              }
+            }
+          ]
+        }
       }
     }
   }

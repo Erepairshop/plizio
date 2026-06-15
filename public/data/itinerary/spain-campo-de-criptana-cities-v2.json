@@ -137,6 +137,168 @@
         "hu": "Sétánkat a történelmi központban kezdjük a hangulatos Pósito épületével és a közeli plébániatemplommal. Délben a szűk utcákon felkapaszkodva megnézünk egy hagyományos barlangházat, amely a helyi életet tükrözi. A délután La Mancha híres szélmalmaié, amelyek Don Quijote klasszikus tájára engednek bepillantást. Napunkat a végtelen síkság feletti panorámakilátónál zárjuk a csodás naplemente kíséretében.",
         "ro": "Ne începem turul la pas în centrul istoric pentru a explora clădirea fermecătoare Pósito și marea biserică parohială. La amiază, urcăm pe străduțele înguste pentru a vizita o casă tradițională în peșteră. După-amiaza este dedicată celebrelor mori de vânt din La Mancha, amintind de peisajul clasic din Don Quijote. Încheiem ziua admirând apusul de soare de la punctul de belvedere cu vedere la câmpiile întinse.",
         "en": "We begin our walking tour in the historic center to explore the charming Pósito building and the grand parish church nearby. By midday, we hike up the narrow streets to visit a traditional cave house, reflecting authentic local life. The afternoon is dedicated to the famous windmills of La Mancha, offering a glimpse into the classic Don Quixote landscape. We end our day admiring the sunset at the panoramic viewpoint over the sprawling plains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im schützenden Pósito, während der Regen auf die alten Dächer trommelt. Mittags bietet die massive Kirche einen trockenen Zufluchtsort. Nachmittags erkunden wir das Höhlenhaus, das tief im Fels Schutz vor den Schauern bietet. Abends wirken die Windmühlen unter dem grauen Himmel mystisch, doch Vorsicht auf den rutschigen Pflastersteinen beim Aufstieg zum Aussichtspunkt.",
+            "hu": "A reggel a Pósito vaskos falai között indul, ahol az eső elől menekülve merülhetünk el a múltban. Délben a templom hűvös, de száraz hajója nyújt menedéket. Délután a barlanglakás mélyén, a sziklák között maradunk szárazon. Este a szélmalmok látványa a felhős égbolt előtt drámai, de a meredek, vizes utcákon és a kilátónál legyünk óvatosak a csúszásveszély miatt.",
+            "ro": "Dimineața începe în adăpostul oferit de Pósito, în timp ce ploaia bate în ferestre. La prânz, biserica masivă devine un refugiu primitor. După-amiaza explorăm casa-peșteră, unde stânca ne protejează complet de umezeală. Seara, morile de vânt sub cerul înnorat oferă un peisaj dramatic, dar aveți grijă pe străzile pavate care devin extrem de alunecoase în drum spre mirador.",
+            "en": "The morning starts inside the sturdy Pósito, a perfect refuge from the rhythmic rain. At noon, the parish church offers a dry sanctuary for reflection. Afternoon is spent in the cave house, carved into the hill to keep you dry. By evening, the windmills look dramatic against the stormy sky, but walk carefully on the slick cobblestones as you approach the viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pósito",
+                "hu": "Pósito",
+                "ro": "Pósito",
+                "en": "Pósito"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses historische Getreidemagazin als idealen ersten Stopp, um trocken zu bleiben und die lokale Geschichte in den Innenräumen zu studieren.",
+                "hu": "Használja ezt a történelmi magtárat ideális első megállóként, ahol fedett helyen ismerkedhet meg a helyi mezőgazdasági múlttal az eső elől védve.",
+                "ro": "Folosiți acest hambar istoric ca o primă oprire ideală pentru a rămâne uscat în timp ce studiați istoria locală în spațiile sale interioare.",
+                "en": "Use this historic granary as an ideal first stop to stay dry while exploring local agricultural history within its thick, protective walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la Asunción",
+                "hu": "Parroquia de Nuestra Señora de la Asunción",
+                "ro": "Parroquia de Nuestra Señora de la Asunción",
+                "en": "Parroquia de Nuestra Señora de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Innenausstattung der Kirche, während draußen ein Schauer niedergeht; ein ruhiger Ort, um das Wetter abzuwarten.",
+                "hu": "Csodálja meg a templom pompás belső terét, miközben odakint esik; ez a csendes hely tökéletes arra, hogy kivárja a zápor végét.",
+                "ro": "Admirați interiorul splendid al bisericii în timp ce afară plouă; este un loc liniștit și uscat unde puteți aștepta trecerea norilor.",
+                "en": "Admire the magnificent interior of the church while the rain falls outside; it is a peaceful, dry place to wait out a passing shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Cueva de la Pastora Marcela",
+                "hu": "Casa Cueva de la Pastora Marcela",
+                "ro": "Casa Cueva de la Pastora Marcela",
+                "en": "Casa Cueva de la Pastora Marcela"
+              },
+              "tip_5lang": {
+                "de": "Diese unterirdische Behausung ist der ultimative Regenschutz; entdecken Sie das authentische Höhlenleben, ohne nass zu werden.",
+                "hu": "Ez a földalatti lakhely a legjobb menedék az eső elől; fedezze fel az autentikus barlangi életet anélkül, hogy elázna a látogatás alatt.",
+                "ro": "Această locuință subterană este refugiul suprem împotriva ploii; descoperiți viața autentică în peșteră fără a vă uda deloc.",
+                "en": "This underground dwelling is the ultimate rain shelter; discover authentic cave living while staying completely dry inside the rock."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Infanto",
+                "hu": "Molino Infanto",
+                "ro": "Molino Infanto",
+                "en": "Molino Infanto"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere dieser Mühle, um das historische Mahlwerk zu sehen und gleichzeitig Schutz vor dem nassen Wetter zu finden.",
+                "hu": "Látogasson el a malom belsejébe, hogy megnézze a történelmi őrlőszerkezetet, miközben védelmet talál a nedves, szeles időjárás elől.",
+                "ro": "Vizitați interiorul acestei mori pentru a vedea mecanismul istoric de măcinare și pentru a vă proteja de vremea umedă și vânt.",
+                "en": "Visit the interior of this windmill to see the historic grinding machinery while finding shelter from the wet and windy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Molinos",
+                "hu": "Mirador de los Molinos",
+                "ro": "Mirador de los Molinos",
+                "en": "Mirador de los Molinos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die nassen Dächer, aber tragen Sie feste Schuhe, da die Felsen bei Regen sehr glatt sind.",
+                "hu": "Élvezze a drámai kilátást a vizes háztetőkre, de viseljen tapadós talpú cipőt, mert a sziklák és kövek esőben csúszóssá válnak.",
+                "ro": "Bucurați-vă de vederea dramatică asupra acoperișurilor ude, dar purtați încălțăminte aderentă, deoarece stâncile devin alunecoase la ploaie.",
+                "en": "Enjoy the dramatic view over the wet rooftops, but wear shoes with good grip as the rocks and steps become slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in La Mancha ist klarr und kalt, ideal für einen Besuch im Pósito. Mittags wärmt die Sonne die weißen Fassaden der Kirche. Nachmittags bietet die Casa Cueva eine natürliche Isolierung gegen den eisigen Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir die Windmühlen pünktlich zum goldenen Licht, bevor die nächtliche Kälte die Hügel einnimmt.",
+            "hu": "A reggel csípősen indul, a Pósito vastag falai között keressük az első kulturális élményt. Délben a templom körüli téren élvezzük a téli napsütést. Délután a barlanglakás természetes szigetelése óv meg a jeges széltől. Mivel 17:00 körül sötétedik, a malmokat még az aranyló fényben érjük el, de a kilátónál már készüljünk fel a gyorsan lehűlő esti levegőre.",
+            "ro": "Dimineața de iarnă este tăioasă, așa că începem explorarea în interiorul Pósito. La prânz, soarele palid luminează fațada bisericii. După-amiaza, casa-peșteră oferă o izolație naturală excelentă împotriva vântului rece de munte. Apusul fiind în jur de ora 17:00, ajungem la mori în lumina aurie, dar pregătiți-vă pentru frigul serii pe deal.",
+            "en": "The winter morning is crisp and cold, making the indoor Pósito an ideal start. By noon, the winter sun brightens the church facade. Afternoon visits to the cave house offer natural insulation from the biting winds. With sunset around 17:00, we reach the mills just in time for the golden hour before the sharp evening chill settles over the ridge."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pósito",
+                "hu": "Pósito",
+                "ro": "Pósito",
+                "en": "Pósito"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf und bewundern Sie die Architektur, während Sie der frostigen Morgenluft draußen entfliehen.",
+                "hu": "Melegedjen fel a kiállítótermekben és csodálja meg az építészetet, miközben elmenekül a kinti fagyos reggeli levegő elől.",
+                "ro": "Încălziți-vă în sălile de expoziție și admirați arhitectura în timp ce scăpați de aerul înghețat al dimineții de afară.",
+                "en": "Warm up in the exhibition halls and admire the architecture while escaping the frosty morning air of the Castilian plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la Asunción",
+                "hu": "Parroquia de Nuestra Señora de la Asunción",
+                "ro": "Parroquia de Nuestra Señora de la Asunción",
+                "en": "Parroquia de Nuestra Señora de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk hält die Kälte gut ab; genießen Sie die spirituelle Stille und die Wärme im Inneren dieser beeindruckenden Kirche.",
+                "hu": "A vaskos falak jól tartják a hőt; élvezze a spirituális csendet és a benti viszonylagos meleget ebben a lenyűgöző templomban.",
+                "ro": "Zidăria masivă reține căldura; bucurați-vă de liniștea spirituală și de căldura relativă din interiorul acestei biserici impresionante.",
+                "en": "The massive masonry keeps the cold at bay; enjoy the spiritual silence and the relative warmth inside this impressive church."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Cueva de la Pastora Marcela",
+                "hu": "Casa Cueva de la Pastora Marcela",
+                "ro": "Casa Cueva de la Pastora Marcela",
+                "en": "Casa Cueva de la Pastora Marcela"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlenwohnungen haben das ganze Jahr über eine konstante Temperatur; sie sind im Winter überraschend gemütlich und windstill.",
+                "hu": "A barlanglakások egész évben állandó hőmérsékletűek; télen meglepően barátságosak és védettek a metsző szél elől.",
+                "ro": "Locuințele în peșteră au o temperatură constantă tot anul; iarna sunt surprinzător de primitoare și ferite de vântul tăios.",
+                "en": "The cave dwellings maintain a constant temperature year-round; they are surprisingly cozy in winter and shielded from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Infanto",
+                "hu": "Molino Infanto",
+                "ro": "Molino Infanto",
+                "en": "Molino Infanto"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung für den Weg zur Mühle, da der Wind auf dem Hügel im Winter besonders kräftig wehen kann.",
+                "hu": "Viseljen szélálló ruházatot a malomhoz vezető úton, mert a dombtetőn a téli szél rendkívül erősen fújhat a nyílt terepen.",
+                "ro": "Purtați haine rezistente la vânt pentru drumul spre moară, deoarece vântul de pe deal poate fi foarte puternic în timpul iernii.",
+                "en": "Wear windproof clothing for the walk to the mill, as the winter wind on the hill can be particularly biting in the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Molinos",
+                "hu": "Mirador de los Molinos",
+                "ro": "Mirador de los Molinos",
+                "en": "Mirador de los Molinos"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hierher, um den Sonnenuntergang zu erleben, bevor die Temperaturen nach Einbruch der Dunkelheit rapide sinken.",
+                "hu": "Érkezzen 17:00 előtt, hogy elcsípje a naplementét, mielőtt a sötétedés után a hőmérséklet hirtelen és jelentősen lecsökken.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a surprinde apusul, înainte ca temperaturile să scadă brusc după lăsarea întunericului.",
+                "en": "Arrive before 17:00 to catch the winter sunset before the temperatures drop rapidly once the sun disappears behind the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a lenyűgöző Arco de la Feria-nál, majd tekerjen kényelmesen a Pósito körüli kulturális központ felé. Délben látogasson el a bájos Ermita de Santa Ana-hoz, és fedezze fel a különleges barlanglakásokat. Délután tekerjen fel a dombra az ikonikus történelmi szélmalmokhoz, mint a Molino Lagarto és a Pilón. Estefelé pihentesse meg lábait a kilátónál, miközben az emlékezetes manchai naplementében gyönyörködik.",
         "ro": "Începeți traseul pe bicicletă la impresionantul Arco de la Feria, înainte de a pedala ușor spre centrul cultural din jurul Pósito. La amiază, îndreptați-vă spre fermecătoarea Ermita de Santa Ana și descoperiți arhitectura unică a locuințelor în peșteră. După-amiaza, urcați dealul spre morile de vânt istorice iconice, în special Molino Lagarto și Pilón. Seara, odihniți-vă picioarele la punctul de belvedere, bucurându-vă de apusul de neuitat din La Mancha.",
         "en": "Kick off your cycling route at the striking Arco de la Feria before smoothly riding towards the cultural heart around the Pósito. At midday, navigate towards the charming Ermita de Santa Ana and uncover the unique cave dwelling architecture. In the afternoon, pedaling up the hill takes you close to the iconic historical windmills, specifically Molino Lagarto and Pilón. As evening falls, rest your legs at the viewpoint, soaking in the unforgettable La Mancha sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht am Arco de la Feria. Vormittags nutzen wir das Pósito als Basislager. Mittags radeln wir schnell zur Ermita, um trocken zu bleiben. Nachmittags verbringen wir viel Zeit im Höhlenhaus. Trotz des Regens ist die Fahrt zu den Mühlen oben auf dem Kamm ein Erlebnis, doch die Reifen verlieren auf dem nassen Untergrund leicht den Halt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel az Arco de la Feria környékén. Délelőtt a Pósito épületében találunk menedéket. Délben gyorsan tekerünk az Ermitához a záporok között. Délután a barlanglakás száraz mélyén pihenünk. A malmokhoz vezető út esőben is látványos, de a lejtőkön és kanyarokban vigyázzunk, mert a fehér kövek vizesen nagyon csúsznak.",
+            "ro": "Ciclismul pe ploaie necesită prudență la Arco de la Feria. Dimineața folosim Pósito ca bază uscată. La prânz pedalăm rapid spre Ermita între averse. După-amiaza stăm la adăpost în casa-peșteră. Drumul spre mori este spectaculos chiar și pe ploaie, dar aveți mare grijă la frânare pe pavajul ud care devine alunecos.",
+            "en": "Cycling in the rain requires caution near Arco de la Feria. Spend the morning exploring the Pósito to stay dry. At noon, pedal quickly to the Ermita between showers. Afternoon is best spent sheltered in the cave house. The ride to the windmills is atmospheric even in the rain, but watch your tires on the wet, slippery pavement during the climb."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de la Feria",
+                "hu": "Arco de la Feria",
+                "ro": "Arco de la Feria",
+                "en": "Arco de la Feria"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Bogen kurz Schutz vor dem Regen und prüfen Sie Ihre Bremsen, bevor Sie die nassen Straßen weiter befahren.",
+                "hu": "Keressen rövid menedéket az ív alatt az eső elől, és ellenőrizze a fékeit, mielőtt továbbhajtana a vizes, csúszós utcákon.",
+                "ro": "Căutați un scurt adăpost sub arcadă și verificați frânele înainte de a continua drumul pe străzile ude și alunecoase.",
+                "en": "Take brief shelter under the arch and check your brakes before continuing through the wet, slick streets of the lower town."
+              }
+            },
+            {
+              "name": {
+                "de": "Pósito",
+                "hu": "Pósito",
+                "ro": "Pósito",
+                "en": "Pósito"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher unter und genießen Sie die Ausstellung im Trockenen, während draußen ein heftiger Regenschauer niedergeht.",
+                "hu": "Támassza le a biciklit biztonságos helyen, és élvezze a kiállítást a szárazban, amíg odakint elvonul egy hevesebb zápor.",
+                "ro": "Parcați bicicleta într-un loc sigur și bucurați-vă de expoziție la adăpost, în timp ce afară trece o aversă mai puternică.",
+                "en": "Park your bike securely and enjoy the indoor museum while a heavy shower passes by, keeping you and your gear dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Ana",
+                "hu": "Ermita de Santa Ana",
+                "ro": "Ermita de Santa Ana",
+                "en": "Ermita de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen ruhigen und trockenen Ort für eine kurze Pause vom Radfahren im unbeständigen Regenwetter.",
+                "hu": "Ez a kis kápolna csendes és száraz helyszínt biztosít egy rövid pihenőhöz a változékony, esős időben való tekerés közben.",
+                "ro": "Această mică capelă oferă un loc liniștit și uscat pentru o scurtă pauză de la pedalat prin vremea ploioasă și schimbătoare.",
+                "en": "This small chapel provides a quiet and dry spot for a short break from cycling through the unpredictable rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Cueva de la Pastora Marcela",
+                "hu": "Casa Cueva de la Pastora Marcela",
+                "ro": "Casa Cueva de la Pastora Marcela",
+                "en": "Casa Cueva de la Pastora Marcela"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Straßen hinter sich und erkunden Sie die faszinierenden Höhlenräume, die perfekten Schutz vor dem Regen bieten.",
+                "hu": "Hagyja hátra a vizes utcákat, és fedezze fel a lenyűgöző barlang belsőket, amelyek tökéletes védelmet nyújtanak az eső ellen.",
+                "ro": "Lăsați în urmă străzile ude și explorați interioarele fascinante ale peșterii, care oferă protecție perfectă împotriva ploii.",
+                "en": "Leave the wet streets behind and explore the fascinating cave interiors, which offer perfect protection from the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Lagarto",
+                "hu": "Molino Lagarto",
+                "ro": "Molino Lagarto",
+                "en": "Molino Lagarto"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hierher kann bei Regen anstrengend und rutschig sein; schalten Sie in einen niedrigen Gang und fahren Sie vorsichtig.",
+                "hu": "Az ide vezető emelkedő esőben fárasztó és csúszós lehet; váltson alacsony fokozatba, és tekerjen óvatosan a felfelé vezető úton.",
+                "ro": "Urcarea până aici poate fi obositoare și alunecoasă pe ploaie; folosiți o viteză inferioară și pedalați cu mare atenție.",
+                "en": "The climb up here can be strenuous and slippery in the rain; switch to a low gear and pedal carefully on the uphill slope."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Pilón",
+                "hu": "Molino Pilón",
+                "ro": "Molino Pilón",
+                "en": "Molino Pilón"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum der Mühle für eine trockene Besichtigung, bevor Sie den letzten Abschnitt zum Aussichtspunkt antreten.",
+                "hu": "Használja ki a malom belső terét egy száraz látogatásra, mielőtt megkezdené az utolsó szakaszt a kilátó felé az esőben.",
+                "ro": "Vizitați interiorul morii pentru a rămâne uscat înainte de a începe ultima etapă a traseului spre mirador prin ploaie.",
+                "en": "Utilize the interior of the mill for a dry visit before starting the final leg of the journey towards the viewpoint in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Molinos",
+                "hu": "Mirador de los Molinos",
+                "ro": "Mirador de los Molinos",
+                "en": "Mirador de los Molinos"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt vom Mirador; die nassen weißen Steine sind extrem glatt, bremsen Sie frühzeitig und behutsam.",
+                "hu": "Vigyázzon a kilátótól lefelé menet; a vizes fehér kövek rendkívül síkosak, fékezzen időben és nagyon óvatosan a lejtőn.",
+                "ro": "Atenție la coborârea de la mirador; pietrele albe ude sunt extrem de alunecoase, frânați din timp și foarte ușor pe pantă.",
+                "en": "Be careful descending from the viewpoint; the wet white stones are extremely slick, so brake early and gently on the slope."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Campo de Criptana bietet klare Sichten, aber schneidenden Wind. Morgens am Arco de la Feria ist eine warme Jacke Pflicht. Mittags wärmt die Sonne uns am Pósito etwas auf. Nachmittags ist die Casa Cueva ein willkommener warmer Stopp. Vor 17:00 Uhr müssen wir die Mühlen erreichen, um den Sonnenuntergang zu sehen, bevor es bei Dunkelheit schlagartig eiskalt wird.",
+            "hu": "A téli biciklitúra tiszta kilátást, de metsző szelet tartogat. Reggel az Arco de la Feria-nál elengedhetetlen a meleg kabát és kesztyű. Délben a Pósito-nál a téli nap sugarai adnak némi meleget. Délután a barlanglakás természetes védelmet nyújt a szél ellen. 17:00 előtt el kell érnünk a malmokat a naplementéhez, mert sötétedés után hirtelen lehűl az idő.",
+            "ro": "O tură cu bicicleta iarna oferă vizibilitate bună, dar vânt tăios. Dimineața la Arco de la Feria, jacheta călduroasă este obligatorie. La prânz, soarele de iarnă ne încălzește puțin la Pósito. După-amiaza, casa-peșteră este un popas cald binevenit. Trebuie să ajungem la mori înainte de ora 17:00 pentru apus, deoarece după întuneric se face brusc foarte frig.",
+            "en": "A winter bike tour offers clear views but biting winds. Morning at Arco de la Feria requires warm layers and gloves. By noon, the winter sun provides some warmth at the Pósito. Afternoon visits to the cave house offer a welcome break from the wind. Aim to reach the windmills before 17:00 for the sunset, as temperatures plummet quickly once darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de la Feria",
+                "hu": "Arco de la Feria",
+                "ro": "Arco de la Feria",
+                "en": "Arco de la Feria"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt Handschuhe; der Fahrtwind am kühlen Wintermorgen kann die Hände beim Lenken schnell auskühlen lassen.",
+                "hu": "Mindenképpen viseljen kesztyűt; a hideg téli reggelen a menetszél gyorsan lehűtheti a kezét kormányzás közben.",
+                "ro": "Purtați neapărat mănuși; în dimineața rece de iarnă, curentul de aer vă poate îngheța rapid mâinile în timp ce conduceți.",
+                "en": "Be sure to wear gloves; the wind chill on a cold winter morning can quickly numb your hands while steering the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Pósito",
+                "hu": "Pósito",
+                "ro": "Pósito",
+                "en": "Pósito"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine Aufwärmpause im Inneren und bewundern Sie die Architektur fernab der frostigen Außenluft.",
+                "hu": "Használja ki ezt a megállót egy benti melegedőre, és csodálja meg az építészetet távol a kinti fagyos levegőtől.",
+                "ro": "Folosiți această oprire pentru o pauză de încălzire în interior și admirați arhitectura departe de aerul înghețat de afară.",
+                "en": "Use this stop for a warm-up break inside the building and admire the architecture away from the frosty outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Ana",
+                "hu": "Ermita de Santa Ana",
+                "ro": "Ermita de Santa Ana",
+                "en": "Ermita de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, windstiller Moment in der Kapelle hilft Ihnen, neue Energie für die Weiterfahrt durch die kalte Winterlandschaft zu sammeln.",
+                "hu": "Egy rövid, szélmentes pillanat a kápolnában segít új erőt gyűjteni a hideg téli tájon átvezető további tekeréshez.",
+                "ro": "Un scurt moment ferit de vânt în capelă vă va ajuta să vă reîncărcați energiile pentru continuarea drumului prin peisajul rece.",
+                "en": "A brief, windless moment inside the chapel will help you regain energy for the rest of your ride through the cold winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Cueva de la Pastora Marcela",
+                "hu": "Casa Cueva de la Pastora Marcela",
+                "ro": "Casa Cueva de la Pastora Marcela",
+                "en": "Casa Cueva de la Pastora Marcela"
+              },
+              "tip_5lang": {
+                "de": "Die natürliche Erdwärme der Höhle ist im Winter ein Segen; genießen Sie die konstante Temperatur ohne den beißenden Wind.",
+                "hu": "A barlang természetes földhője télen igazi áldás; élvezze az állandó hőmérsékletet a kinti metsző szél nélkül.",
+                "ro": "Căldura naturală a pământului din peșteră este o binecuvântare iarna; bucurați-vă de temperatura constantă fără vântul tăios.",
+                "en": "The natural geothermal warmth of the cave is a blessing in winter; enjoy the constant temperature without the biting outdoor wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Lagarto",
+                "hu": "Molino Lagarto",
+                "ro": "Molino Lagarto",
+                "en": "Molino Lagarto"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt Ihren Kreislauf in Schwung, aber oben angekommen kühlt der starke Wind Sie schnell wieder aus.",
+                "hu": "Az emelkedő megmozgatja a keringését, de amint felér a dombtetőre, az erős téli szél gyorsan újra lehűtheti a testét.",
+                "ro": "Urcarea vă va pune sângele în mișcare, dar odată ajuns sus pe deal, vântul puternic de iarnă vă va răci rapid din nou.",
+                "en": "The uphill climb will get your circulation going, but once at the top, the strong winter wind will cool you down quickly again."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Pilón",
+                "hu": "Molino Pilón",
+                "ro": "Molino Pilón",
+                "en": "Molino Pilón"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere, um sich vor dem letzten Etappenziel noch einmal kurz im windgeschützten Bereich aufzuwärmen.",
+                "hu": "Nézze meg a malom belsejét, hogy még egyszer utoljára felmelegedjen egy szélvédett helyen az utolsó célpont elérése előtt.",
+                "ro": "Vizitați interiorul morii pentru a vă mai încălzi puțin într-un loc ferit de vânt înainte de a ajunge la ultima destinație.",
+                "en": "Visit the interior to warm up once more in a wind-sheltered area before reaching the final destination of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Molinos",
+                "hu": "Mirador de los Molinos",
+                "ro": "Mirador de los Molinos",
+                "en": "Mirador de los Molinos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht für Fotos, aber treten Sie den Rückweg an, sobald die Sonne um 17:00 Uhr untergeht.",
+                "hu": "Élvezze a tiszta téli fényeket a fotózáshoz, de induljon vissza, amint a nap 17:00 körül elkezd lebukni a horizont alá.",
+                "ro": "Bucurați-vă de lumina clară de iarnă pentru fotografii, dar începeți drumul de întoarcere imediat ce soarele apune, în jur de ora 17:00.",
+                "en": "Enjoy the clear winter light for photography, but start your return journey as soon as the sun sets around 17:00 to avoid the freeze."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós kalandját az emlékműnél és a történelmi vásáríven áthaladva kezdje meg a város irányába. Dél körül parkoljon le a zenepavilon közelében, látogassa meg a lenyűgöző plébániatemplomot és a helyi múzeumot. Délutáni útja a dombra vezet, hogy testközelből is megcsodálhassa a fenséges Don Quijote-szélmalmokat, köztük a Cariari-t és az Infanto-t. Zárja a napot alkonyatkor a festői kilátónál, a hatalmas látóhatárban gyönyörködve.",
         "ro": "Începeți aventura cu mașina onorând istoria locală la steagul memorial și trecând pe sub arcul istoric al târgului. Pe la prânz, parcați lângă chioșcul muzical și vizitați uimitoarea biserică parohială înainte de a explora muzeul local. După-amiaza urcați dealul pentru a admira îndeaproape morile de vânt maiestuoase ale lui Don Quijote, precum Cariari și Infanto. Încheiați călătoria la lăsarea serii la belvedere, minunându-vă de orizontul vast.",
         "en": "Start your driving adventure honoring local history at the memorial flag and crossing the historic fair arch into town. Around noon, park near the musical kiosk and visit the stunning parish church before exploring the local museum's rich exhibits. Your afternoon drive ascends the hill to explore the majestic Don Quixote windmills like Cariari and Infanto up close. Wrap up the journey as dusk sets in at the scenic overlook, marveling at the vast horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund gegen den Regen. Morgens besichtigen wir Denkmäler bequem vom Fenster aus. Mittags bietet die Kirche eine trockene Pause. Nachmittags im Museum bleiben wir völlig geschützt. Die Fahrt zu den Mühlen ist bei Regen stimmungsvoll, aber parken Sie vorsichtig auf dem lehmigen Boden, der bei Nässe rutschig sein kann.",
+            "hu": "Az autó ma a legjobb barátja az eső ellen. Délelőtt a kényelmes ablakból tekintjük meg az emlékműveket. Délben a templom ad száraz pihenőt. Délután a múzeumban teljesen védve maradunk. A malmokhoz vezető út esőben is hangulatos, de parkoláskor vigyázzunk az agyagos talajra, ami vizesen csúszóssá válhat.",
+            "ro": "Mașina este astăzi cel mai bun prieten împotriva ploii. Dimineața admirăm monumentele din confortul ferestrei. La prânz, biserica oferă o pauză uscată. După-amiaza la muzeu rămânem complet protejați. Drumul spre mori este atmosferic pe ploaie, dar parcați cu atenție pe solul argilos care poate deveni alunecos.",
+            "en": "The car is your best ally against the rain today. Morning monuments are easily seen from your window. At noon, the church provides a dry escape. Spend the afternoon fully protected inside the museum. The drive to the windmills is atmospheric in the rain, but park carefully on the clay-like soil which gets slick when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+                "hu": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+                "ro": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+                "en": "Bandera de España en Memoria de las Víctimas del Terrorismo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Denkmal kurz aus dem Auto oder unter einem Regenschirm; es ist ein würdevoller Ort, auch bei grauem Wetter.",
+                "hu": "Tekintse meg ezt az emlékművet röviden az autóból vagy esernyő alatt; méltóságteljes helyszín még szürke, esős időben is.",
+                "ro": "Priviți acest monument scurt din mașină sau de sub o umbrelă; este un loc demn, chiar și pe o vreme gri și ploioasă.",
+                "en": "View this monument briefly from the comfort of your car or under an umbrella; it remains a dignified site even in gray, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de la Feria",
+                "hu": "Arco de la Feria",
+                "ro": "Arco de la Feria",
+                "en": "Arco de la Feria"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den historischen Bogen; die nassen Pflastersteine können für Reifen rutschig sein.",
+                "hu": "Hajtson át lassan a történelmi ív alatt; a vizes macskakövek és az aszfalt síkosak lehetnek az autóabroncsok számára is.",
+                "ro": "Conduceți încet prin arcada istorică; pavajul ud poate fi alunecos pentru anvelopele mașinii pe străzile înguste.",
+                "en": "Drive slowly through the historic arch; the wet cobblestones and asphalt can be slick for car tires on the narrow turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Quiosco de la Música",
+                "hu": "Quiosco de la Música",
+                "ro": "Quiosco de la Música",
+                "en": "Quiosco de la Música"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp vom Beifahrersitz aus reicht hier völlig, um den Charme des Pavillons im Regen festzuhalten.",
+                "hu": "Egy rövid fotómegálló az anyósülésről bőven elég itt, hogy elkapja a pavilon báját az esős városi környezetben.",
+                "ro": "O scurtă oprire pentru fotografii de pe scaunul pasagerului este suficientă aici pentru a surprinde farmecul pavilionului pe ploaie.",
+                "en": "A quick photo stop from the passenger seat is enough here to capture the charm of the pavilion in the rainy town square."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la Asunción",
+                "hu": "Parroquia de Nuestra Señora de la Asunción",
+                "ro": "Parroquia de Nuestra Señora de la Asunción",
+                "en": "Parroquia de Nuestra Señora de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie ins Innere, um die prächtige Decke im Trockenen zu bewundern.",
+                "hu": "Parkoljon a közelben, és siessen be az épületbe, hogy szárazon csodálhassa meg a lenyűgöző mennyezetet és belső teret.",
+                "ro": "Parcați în apropiere și grăbiți-vă în interior pentru a admira tavanul splendid și interiorul fără a vă uda de ploaie.",
+                "en": "Park nearby and dash inside to admire the magnificent ceiling and interior while staying completely dry and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Local Museum",
+                "hu": "Local Museum",
+                "ro": "Local Museum",
+                "en": "Local Museum"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel an einem Regentag; verbringen Sie hier viel Zeit, um die lokale Kultur ohne Nässe zu erkunden.",
+                "hu": "Ideális célpont egy esős napon; töltsön el itt hosszabb időt, hogy elmerüljön a helyi kultúrában a nedves idő elől védve.",
+                "ro": "Destinația ideală într-o zi ploioasă; petreceți aici mai mult timp pentru a explora cultura locală fără a simți umezeala de afară.",
+                "en": "The perfect destination for a rainy day; spend extended time here exploring local culture and artifacts fully protected from the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Cariari",
+                "hu": "Molino Cariari",
+                "ro": "Molino Cariari",
+                "en": "Molino Cariari"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis fast vor die Tür und genießen Sie den Anblick der Mühle im Regen, bevor Sie zum nächsten Highlight weiterfahren.",
+                "hu": "Hajtson majdnem az ajtóig, és élvezze a malom látványát az esőben, mielőtt továbbindulna a következő látnivaló felé.",
+                "ro": "Conduceți până aproape de intrare și bucurați-vă de vederea morii pe ploaie înainte de a pleca spre următoarea atracție.",
+                "en": "Drive almost to the doorstep and enjoy the sight of the windmill in the rain before continuing to the next highlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Infanto",
+                "hu": "Molino Infanto",
+                "ro": "Molino Infanto",
+                "en": "Molino Infanto"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere dieser Mühle als letzte trockene Station, bevor Sie den Mirador ansteuern.",
+                "hu": "Látogasson el a malom belsejébe, mint utolsó száraz állomásra, mielőtt az esőben továbbmenne a kilátó felé.",
+                "ro": "Vizitați interiorul acestei mori ca ultimă oprire uscată înainte de a vă îndrepta prin ploaie spre punctul de belvedere.",
+                "en": "Visit the interior of this mill as a final dry station before heading through the rain to the main viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Molinos",
+                "hu": "Mirador de los Molinos",
+                "ro": "Mirador de los Molinos",
+                "en": "Mirador de los Molinos"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama durch die Scheiben; die Aussicht ist auch so beeindruckend.",
+                "hu": "Heves eső esetén maradjon az autóban, és élvezze a panorámát az ablakon keresztül; a kilátás így is lenyűgöző és drámai.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați panorama prin geam; vederea este impresionantă și de aici.",
+                "en": "In case of heavy rain, stay in the car and enjoy the panorama through the windows; the view remains impressive and dramatic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto wohlige Wärme zwischen den Stopps in Campo de Criptana. Vormittags besuchen wir die Denkmäler der Unterstadt. Mittags ist die Kirche ein friedlicher, windgeschützter Ort. Nachmittags im Museum wärmen wir uns richtig auf. Da die Sonne gegen 17:00 Uhr untergeht, fahren wir rechtzeitig zum Hügel hinauf, um das letzte Licht an den Mühlen zu genießen.",
+            "hu": "Télen az autó kellemes meleget biztosít a Campo de Criptana-i megállók között. Délelőtt az alsóváros emlékműveit látogatjuk meg. Délben a templom békés, szélvédett helyszín. Délután a múzeumban alaposan felmelegedhetünk. Mivel 17:00 körül naplemente van, időben felhajtunk a dombra, hogy a malmoknál élvezzük az utolsó aranyló fényeket.",
+            "ro": "Iarna, mașina oferă o căldură plăcută între popasurile din Campo de Criptana. Dimineața vizităm monumentele din orașul de jos. La prânz, biserica este un loc liniștit și ferit de vânt. După-amiaza la muzeu ne încălzim bine. Deoarece soarele apune în jur de ora 17:00, urcăm din timp pe deal pentru a savura lumina la mori.",
+            "en": "In winter, the car provides cozy warmth between stops in Campo de Criptana. Morning is for the lower town monuments. At noon, the church is a peaceful, wind-sheltered refuge. Spend the afternoon warming up inside the museum. Since sunset is around 17:00, drive up the hill early to catch the fading golden light on the windmills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+                "hu": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+                "ro": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+                "en": "Bandera de España en Memoria de las Víctimas del Terrorismo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick kurz im warmen Auto; der kalte Winterwind weht hier unten oft recht kräftig.",
+                "hu": "Élvezze a látványt rövid ideig a meleg autóból; a hideg téli szél itt lenn az utcákon is gyakran erősen fújhat.",
+                "ro": "Bucurați-vă de priveliște pentru scurt timp din mașina caldă; vântul rece de iarnă bate adesea destul de tare aici jos.",
+                "en": "Enjoy the view briefly from your warm car; the cold winter wind often blows quite strongly even down here in the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de la Feria",
+                "hu": "Arco de la Feria",
+                "ro": "Arco de la Feria",
+                "en": "Arco de la Feria"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Glätte in schattigen Gassen, wenn Sie durch den historischen Bogen in die Altstadt fahren.",
+                "hu": "Ügyeljen az esetleges jegesedésre az árnyékos szűk utcákban, amikor a történelmi íven keresztül behajt az óvárosba.",
+                "ro": "Fiți atenți la posibila gheață pe străduțele umbrite când treceți prin arcada istorică spre centrul vechi al orașului.",
+                "en": "Watch out for potential icy patches in shaded narrow alleys as you drive through the historic arch into the old town area."
+              }
+            },
+            {
+              "name": {
+                "de": "Quiosco de la Música",
+                "hu": "Quiosco de la Música",
+                "ro": "Quiosco de la Música",
+                "en": "Quiosco de la Música"
+              },
+              "tip_5lang": {
+                "de": "Der Pavillon sieht im klaren Winterlicht wunderschön aus; ein kurzer Ausstieg für ein Foto lohnt sich trotz der Kälte.",
+                "hu": "A pavilon gyönyörűen mutat a tiszta téli fényben; egy rövid kiszállás egy fotó erejéig megéri a hideg ellenére is.",
+                "ro": "Pavilionul arată superb în lumina clară de iarnă; merită să coborâți scurt pentru o fotografie în ciuda frigului de afară.",
+                "en": "The pavilion looks beautiful in the clear winter light; a brief hop out of the car for a photo is worth it despite the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la Asunción",
+                "hu": "Parroquia de Nuestra Señora de la Asunción",
+                "ro": "Parroquia de Nuestra Señora de la Asunción",
+                "en": "Parroquia de Nuestra Señora de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Gelegenheit, sich aufzuwärmen und die Stille zu genießen, während die Heizung im Auto kurz pausiert.",
+                "hu": "A templom jó alkalmat kínál a felmelegedésre és a csend élvezetére, miközben az autó fűtése rövid pihenőt tart.",
+                "ro": "Biserica oferă o ocazie bună de a vă încălzi și de a vă bucura de liniște în timp ce încălzirea mașinii ia o scurtă pauză.",
+                "en": "The church offers a good opportunity to warm up and enjoy the silence while the car's heater takes a brief break."
+              }
+            },
+            {
+              "name": {
+                "de": "Local Museum",
+                "hu": "Local Museum",
+                "ro": "Local Museum",
+                "en": "Local Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den Nachmittag hier im Warmen und entdecken Sie die Schätze der Region, bevor es draußen dunkel wird.",
+                "hu": "Töltse a délutánt itt a melegben, és fedezze fel a régió kincseit, mielőtt odakint besötétedik és lehűl a levegő.",
+                "ro": "Petreceți după-amiaza aici, la căldură, și descoperiți comorile regiunii înainte ca afară să se întunece și să se răcească.",
+                "en": "Spend the afternoon warming up here and discover the treasures of the region before it gets dark and cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Cariari",
+                "hu": "Molino Cariari",
+                "ro": "Molino Cariari",
+                "en": "Molino Cariari"
+              },
+              "tip_5lang": {
+                "de": "Die Mühlen auf dem Kamm sind im Winter sehr windig; parken Sie so nah wie möglich, um die Kältebrücke kurz zu halten.",
+                "hu": "A dombtetőn lévő malmok télen rendkívül szelesek; parkoljon olyan közel, amennyire csak lehet, hogy elkerülje a hosszú kinti fagyoskodást.",
+                "ro": "Morile de pe culme sunt foarte expuse la vânt iarna; parcați cât mai aproape posibil pentru a evita expunerea prelungită la frig.",
+                "en": "The windmills on the ridge are very windy in winter; park as close as possible to minimize your exposure to the biting chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Molino Infanto",
+                "hu": "Molino Infanto",
+                "ro": "Molino Infanto",
+                "en": "Molino Infanto"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Mühle ist es windstill und deutlich angenehmer als auf der exponierten Hügelkuppe im Winterregen oder Frost.",
+                "hu": "A malom belsejében szélcsend van és sokkal kellemesebb az idő, mint a kitett dombtetőn a téli szélben vagy fagyban.",
+                "ro": "În interiorul morii nu bate vântul și este mult mai plăcut decât pe culmea dealului expusă vântului de iarnă sau înghețului.",
+                "en": "Inside the mill, it is windless and much more pleasant than on the exposed hilltop in the winter wind or frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Molinos",
+                "hu": "Mirador de los Molinos",
+                "ro": "Mirador de los Molinos",
+                "en": "Mirador de los Molinos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr vom Auto aus; die Aussicht ist spektakulär, während Sie gemütlich im Warmen sitzen.",
+                "hu": "Élvezze az 17:00 körüli naplementét az autóból; a panoráma látványos, miközben Ön kényelmesen ül a meleg utastérben.",
+                "ro": "Admirați apusul de la ora 17:00 direct din mașină; panorama este spectaculoasă în timp ce stați confortabil la căldură.",
+                "en": "Watch the 17:00 sunset from your car; the panoramic view is spectacular while you remain comfortably seated in the warmth."
+              }
+            }
+          ]
+        }
       }
     }
   }

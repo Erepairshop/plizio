@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi Sant'Antonio komplexumban, majd fedezze fel a Casa Rettorale varázsát. Délben kulturális elmélyülés várja a Guiso Múzeumban. Délután csodálja meg az elegáns San Giacomo Maggiore-t és a közeli szellemi helyszíneket. Fejezze be sétáját este a San Gavino templomnál, visszatekintve Orosei gazdag örökségére.",
         "ro": "Începeți dimineața la complexul istoric Sant'Antonio înainte de a explora farmecul Casei Rettorale. La amiază vă scufundați în cultura Muzeului Guiso. După-amiaza, admirați eleganta biserică San Giacomo Maggiore și siturile spirituale din apropiere. Încheiați-vă plimbarea ușoară seara la San Gavino, reflectând asupra moștenirii bogate din Orosei.",
         "en": "Start your morning at the historic Sant'Antonio complex before exploring the rustic charm of Casa Rettorale. Midday brings cultural immersion at the fascinating Guiso Museum. In the afternoon, marvel at the elegant San Giacomo Maggiore and nearby spiritual sites. Conclude your gentle walking tour in the evening at San Gavino, reflecting on Orosei's rich heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Sant'Antonio Komplex, dessen historische Mauern Schutz vor dem Regen bieten. Mittags lädt das Museum Guiso zu einer langen Erkundung der Miniaturbühnen ein, während es draußen stürmt. Der Nachmittag gehört den prächtigen Kirchen von Orosei, die trockene Zufluchtsorte voller Kunst sind. Den Abend lassen Sie gemütlich in den engen, geschützten Gassen des Zentrums ausklingen.",
+            "hu": "A napot a Sant'Antonio műemlékegyüttes fedett udvarain kezdjük, ahol az eső elől védve ismerhetjük meg a múltat. Délben a Guiso Múzeum belső terei nyújtanak menedéket a zivatar elől. Délután a város templomai között sétálva fedezzük fel a vallási örökséget, figyelve a csúszós macskakövekre. Az estét a történelmi központ egyik hangulatos épületében zárjuk, élvezve a kopogó eső hangját.",
+            "ro": "Începeți ziua la complexul Sant'Antonio, ale cărui ziduri groase oferă adăpost împotriva ploii. La prânz, Muzeul Guiso vă invită la o explorare prelungită a interioarelor sale fascinante. După-amiaza este dedicată bisericilor din Orosei, refugii ideale și uscate pline de artă sacră. Seara se încheie liniștit pe străzile înguste ale centrului vechi, unde clădirile istorice vă protejează de vânt.",
+            "en": "Start your day at the Sant'Antonio complex, where the historic structures provide shelter from the rain. At noon, the Guiso Museum is the perfect indoor retreat to admire unique miniature theaters. Spend your afternoon hopping between the town's beautiful churches to stay dry while exploring local art. End your evening in the cozy atmosphere of the old town, where the narrow streets offer some protection."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumentalkomplex Sant'Antonio",
+                "hu": "Sant'Antonio Műemlékegyüttes",
+                "ro": "Complexul Monumental Sant'Antonio",
+                "en": "Monumental Complex of Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Fresken im Inneren der Kirche; die Bogengänge des Hofes bieten einen trockenen Platz, um das Wetter abzuwarten.",
+                "hu": "Fedezze fel a középkori freskókat a templom belsejében; az udvar árkádjai kiváló és száraz pihenőhelyet nyújtanak az eső áztatta séta közben.",
+                "ro": "Explorați frescele medievale din interiorul bisericii; arcadele curții oferă un spațiu uscat și pitoresc pentru a aștepta trecerea ploii.",
+                "en": "Explore the medieval frescoes inside the church; the courtyard's archways provide a dry spot to pause and appreciate the historic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrhaus Su Probanu",
+                "hu": "Su Probanu Parókia",
+                "ro": "Casa Parohială Su Probanu",
+                "en": "Rectory House Su Probanu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade schnell und treten Sie dann ein; achten Sie auf die Stufen, die bei Nässe sehr rutschig werden können.",
+                "hu": "Csodálja meg a homlokzatot, majd húzódjon beljebb; ügyeljen a bejárati lépcsőkre, amelyek az esőtől rendkívül csúszóssá válhatnak.",
+                "ro": "Admirați fațada rapid și intrați în interior; aveți grijă la treptele de la intrare, care pot deveni foarte alunecoase din cauza umidității.",
+                "en": "Admire the facade briefly and head inside for shelter; be careful on the entrance steps, which can become quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Don Giovanni Guiso",
+                "hu": "Don Giovanni Guiso Múzeum",
+                "ro": "Muzeul Don Giovanni Guiso",
+                "en": "Don Giovanni Guiso Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort bei Regen; nehmen Sie sich Zeit für die Puppentheater-Sammlung in den klimatisierten und trockenen Räumen.",
+                "hu": "Ez a legjobb hely esős időben; szánjon bőséges időt a bábszínház-gyűjteményre a múzeum teljesen fedett és temperált termeiben.",
+                "ro": "Acesta este cel mai bun loc pe timp de ploaie; acordați-vă timp pentru colecția de teatre de păpuși în sălile interioare protejate.",
+                "en": "This is the ideal indoor stop during rain; take your time exploring the unique puppet theater collection in the dry, climate-controlled rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giacomo Maggiore",
+                "hu": "San Giacomo Maggiore templom",
+                "ro": "Biserica San Giacomo Maggiore",
+                "en": "Church of San Giacomo Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Kuppel ist ein Muss; nutzen Sie den Besuch, um die Regenpause für ein kurzes Gebet oder stille Betrachtung zu nutzen.",
+                "hu": "A pompás kupola lenyűgöző látvány; használja ki a látogatást egy csendes elmélyülésre, miközben kint elvonul a zápor.",
+                "ro": "Cupola magnifică este un element obligatoriu; folosiți vizita pentru o scurtă rugăciune sau meditație în timp ce așteptați oprirea ploii.",
+                "en": "The magnificent dome is a must-see; use your visit for a quiet moment of reflection while waiting for the rain to subside outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau der Gnaden",
+                "hu": "Kegyelmes Szűzanya-templom",
+                "ro": "Biserica Maicii Domnului a Harurilor",
+                "en": "Church of Our Lady of Graces"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Details im Schutz des Kirchenschiffs; ein stabiler Regenschirm ist für den kurzen Weg zur nächsten Station nötig.",
+                "hu": "Csodálja meg a barokk részleteket a hajó védelmében; a következő állomásig tartó rövid úthoz mindenképpen használjon stabil esernyőt.",
+                "ro": "Admirați detaliile baroce sub protecția navei bisericii; o umbrelă rezistentă este necesară pentru drumul scurt până la următoarea oprire.",
+                "en": "Admire the baroque details while sheltered within the nave; a sturdy umbrella is essential for the short walk to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Gavino",
+                "hu": "San Gavino templom",
+                "ro": "Biserica San Gavino",
+                "en": "Church of San Gavino"
+              },
+              "tip_5lang": {
+                "de": "Das schlichte Innere wirkt bei Regen besonders besinnlich; achten Sie beim Verlassen auf die Wasserlachen auf dem Vorplatz.",
+                "hu": "A letisztult belső tér esőben különösen meghitt; távozáskor ügyeljen a templom előtti téren kialakuló nagyobb tócsákra.",
+                "ro": "Interiorul simplu oferă o atmosferă liniștită pe ploaie; aveți grijă la bălțile care se formează în piața din fața bisericii la ieșire.",
+                "en": "The simple interior feels particularly peaceful during rain; watch out for puddles forming in the square outside as you depart."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Orosei beginnt frisch bei Sant'Antonio, wo die Geschichte ohne Sommertrubel atmet. Mittags wärmt ein Museumsbesuch Geist und Körper. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen Sie den Nachmittag für die Kirchen im warmen Licht der tiefstehenden Sonne. Der Abend endet in der blauen Stunde, wenn die beleuchteten Fassaden eine magische, kühle Atmosphäre schaffen.",
+            "hu": "A téli reggel friss levegővel köszönt ránk a Sant'Antonio műemlékegyüttesnél, ahol tömeg nélkül élvezhetjük a csendet. Délben a múzeum belső terei nyújtanak melegedőt. Mivel a nap korán, 17:00 körül nyugszik, a délutánt a templomok aranyfénybe öltözött falai között töltsük. Az este gyorsan lehűl, így érdemes rétegesen öltözködni a kivilágított óvárosi sétához.",
+            "ro": "Dimineața de iarnă în Orosei începe cu aer proaspăt la complexul Sant'Antonio, oferind o liniște rară. La prânz, vizita la muzeu este o ocazie excelentă de a vă încălzi. Deoarece soarele apune devreme, în jur de ora 17:00, profitați de după-amiază pentru a vedea bisericile în lumina caldă. Seara devine răcoroasă rapid, deci îmbrăcați-vă gros pentru plimbarea nocturnă.",
+            "en": "A winter morning in Orosei starts with crisp air at the Sant'Antonio complex, free from summer crowds. Warm up at noon with a fascinating museum visit. As the sun sets early around 5:00 PM, use the golden afternoon hours to visit the local churches. The evening cools down quickly, making the illuminated historic center look magical under a clear, chilly winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumentalkomplex Sant'Antonio",
+                "hu": "Sant'Antonio Műemlékegyüttes",
+                "ro": "Complexul Monumental Sant'Antonio",
+                "en": "Monumental Complex of Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison; tragen Sie eine warme Jacke, da die Steinmauern im Winter die Kälte stark speichern.",
+                "hu": "Élvezze a főszezonon kívüli nyugalmat; viseljen meleg kabátot, mert a vastag kőfalak télen alaposan átveszik és sugározzák a hideget.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului; purtați o jachetă groasă, deoarece zidurile de piatră rețin frigul în timpul iernii.",
+                "en": "Enjoy the peaceful off-season atmosphere; wear a warm jacket as the stone walls can feel quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrhaus Su Probanu",
+                "hu": "Su Probanu Parókia",
+                "ro": "Casa Parohială Su Probanu",
+                "en": "Rectory House Su Probanu"
+              },
+              "tip_5lang": {
+                "de": "Das flache Winterlicht hebt die architektonischen Details der Fassade hervor; ein Schal schützt vor dem kühlen Wind in den Gassen.",
+                "hu": "Az alacsony téli napfény szépen kiemeli a homlokzat részleteit; egy sál jól jöhet a szűk utcákban fújdogáló hűvös szél ellen.",
+                "ro": "Lumina joasă de iarnă scoate în evidență detaliile fațadei; un fular este util împotriva vântului rece care bate pe străduțe.",
+                "en": "The low winter sun beautifully highlights the architectural details; a scarf will protect you from the cool breeze in the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Don Giovanni Guiso",
+                "hu": "Don Giovanni Guiso Múzeum",
+                "ro": "Muzeul Don Giovanni Guiso",
+                "en": "Don Giovanni Guiso Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich mittags aufzuwärmen; die Sammlung ist im Winter genauso beeindruckend und ohne Wartezeiten zugänglich.",
+                "hu": "Ideális hely a déli felmelegedéshez; a gyűjtemény télen is lenyűgöző, és ilyenkor várakozás nélkül, kényelmesen megtekinthető.",
+                "ro": "Un loc ideal pentru a vă încălzi la prânz; colecția este la fel de impresionantă iarna și poate fi vizitată fără cozi.",
+                "en": "An excellent spot to warm up at midday; the collection is just as impressive in winter and can be enjoyed without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giacomo Maggiore",
+                "hu": "San Giacomo Maggiore templom",
+                "ro": "Biserica San Giacomo Maggiore",
+                "en": "Church of San Giacomo Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz vor der kühlen Winterluft; bewundern Sie die Kunstwerke in der stillen, andächtigen Atmosphäre des Winters.",
+                "hu": "A belső tér védelmet nyújt a hűvös téli levegő elől; csodálja meg a műalkotásokat a télre jellemző csendes, áhítatos hangulatban.",
+                "ro": "Interiorul oferă protecție împotriva aerului rece de iarnă; admirați operele de artă în atmosfera liniștită și pioasă a sezonului.",
+                "en": "The interior provides a welcome break from the cool winter air; admire the artworks in the quiet, reverent atmosphere of the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Unserer Lieben Frau der Gnaden",
+                "hu": "Kegyelmes Szűzanya-templom",
+                "ro": "Biserica Maicii Domnului a Harurilor",
+                "en": "Church of Our Lady of Graces"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn die Sonne die Fassade wärmt; drinnen bleibt es jedoch merklich kühl.",
+                "hu": "Kora délután látogassa meg, amikor a nap még süti a homlokzatot; odabent azonban számítson arra, hogy érezhetően hűvösebb lesz.",
+                "ro": "Vizitați biserica la începutul după-amiezii când soarele încălzește fațada; totuși, în interior temperatura rămâne destul de scăzută.",
+                "en": "Visit in the early afternoon when the sun warms the facade; be prepared for significantly cooler temperatures once you step inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Gavino",
+                "hu": "San Gavino templom",
+                "ro": "Biserica San Gavino",
+                "en": "Church of San Gavino"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um das letzte Tageslicht zu nutzen; danach kühlt es in Orosei im Winter sehr schnell ab.",
+                "hu": "Érkezzen 17:00 óra előtt, hogy kihasználja az utolsó fényeket; naplemente után télen Orosei levegője rendkívül gyorsan lehűl.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a profita de ultima lumină a zilei; după apus, temperatura în Orosei scade foarte rapid iarna.",
+                "en": "Arrive before 5:00 PM to catch the last daylight; after sunset, winter temperatures in Orosei drop very quickly, so dress accordingly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpározzon reggel a nyugodt Gyógyító Szentélyhez és a Nuraghe Panatta ősi köveihez. Délre térjen vissza a központba, hogy felfedezze a Guiso Múzeum színháztörténetét. Töltse a délutánt a San Giacomo és a történelmi Sant'Antonio komplexum megcsodálásával. Fejezze be esti túráját a San Giovanni Battistánál, miközben a nap lenyugszik a város felett.",
         "ro": "Porniți dimineața cu bicicleta spre Sanctuarul Remediului și pietrele antice de la Nuraghe Panatta. La prânz, reveniți în centru pentru a descoperi istoria Muzeului Guiso. Petreceți după-amiaza admirând San Giacomo și complexul istoric Sant'Antonio. Terminați-vă plimbarea de seară la San Giovanni Battista în timp ce soarele apune peste oraș.",
         "en": "Pedal out in the morning to the tranquil Sanctuary of the Remedy and the ancient stones of Nuraghe Panatta. By midday, return to the town center to uncover theatrical history at the Guiso Museum. Spend your afternoon admiring the grandeur of San Giacomo and the historic Sant'Antonio complex. Finish your evening ride at San Giovanni Battista as the sun sets over the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Landstraßen zu den Heiligtümern. Der Vormittag führt Sie zu religiösen Stätten, die trockene Pausen ermöglichen. Mittags bietet das Museum im Zentrum den perfekten Parkplatz und Schutz. Nachmittags erkunden Sie die historischen Kirchen der Stadt, während Sie auf rutschiges Kopfsteinpflaster achten. Ein Tag für wetterfeste Entdecker.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a szentélyekhez vezető utakon. A délelőttöt a vallási helyszínek felfedezésével töltjük, ahol szárazon pihenhetünk. Délben a központi múzeum tökéletes menedéket és parkolóhelyet kínál. Délután a városi templomokat járjuk be, ügyelve a csúszós macskakövekre. Ez a nap az igazán elszánt, vízhatlan felszereléssel bíró felfedezőké.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile spre sanctuare. Dimineața vă conduce la locuri religioase care permit pauze uscate. La prânz, muzeul central oferă adăpostul și locul de parcare perfect. După-amiaza explorați bisericile istorice, fiind atenți la pavajul umed și alunecos. O zi pentru exploratori echipați cu pelerine de ploaie rezistente.",
+            "en": "Cycling in the rain requires extra caution on the roads leading to the sanctuaries. Spend your morning visiting religious sites that offer dry intervals. At noon, the central museum provides the perfect shelter and bike parking. In the afternoon, explore the town's historic churches while staying alert for slippery cobblestones. A day for truly waterproof adventurers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heiligtum Unserer Lieben Frau vom Heilmittel",
+                "hu": "Gyógyító Szűzanya Szentély",
+                "ro": "Sanctuarul Maicii Domnului a Remediului",
+                "en": "Sanctuary of Our Lady of the Remedy"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; das Heiligtum bietet weite überdachte Bereiche, um den stärksten Regen abzuwarten.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a szentély tágas fedett részei kiválóak arra, hogy megvárjuk a leghevesebb eső végét.",
+                "ro": "Verificați frânele înainte de plecare; sanctuarul oferă zone acoperite largi unde puteți aștepta oprirea celei mai dense ploi.",
+                "en": "Check your brakes before setting off; the sanctuary has large covered areas where you can wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Panatta",
+                "hu": "Nuraghe Panatta",
+                "ro": "Nuraghe Panatta",
+                "en": "Nuraghe Panatta"
+              },
+              "tip_5lang": {
+                "de": "Der Weg kann schlammig sein; tragen Sie wasserfeste Schuhe und achten Sie auf rutschige Steine beim Erkunden der Ruinen.",
+                "hu": "Az odavezető út sáros lehet; viseljen vízálló cipőt és ügyeljen a csúszós kövekre a romok körüli gyalogos felfedezés során.",
+                "ro": "Drumul poate fi noroios; purtați încălțăminte impermeabilă și fiți atenți la pietrele alunecoase când explorați ruinele nuraghei.",
+                "en": "The path can be muddy; wear waterproof shoes and watch your step on slippery stones while exploring the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Don Giovanni Guiso",
+                "hu": "Don Giovanni Guiso Múzeum",
+                "ro": "Muzeul Don Giovanni Guiso",
+                "en": "Don Giovanni Guiso Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher unter und genießen Sie die trockenen Ausstellungsräume; ideal für eine längere Pause vom nassen Wetter.",
+                "hu": "Parkolja le biztonságban a kerékpárt és élvezze a száraz kiállítótereket; ideális helyszín egy hosszabb esőszünet tartásához.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de sălile de expoziție uscate; este locul ideal pentru o pauză lungă de vremea umedă.",
+                "en": "Park your bike securely and enjoy the dry exhibition halls; it is the perfect spot for an extended break from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giacomo Maggiore",
+                "hu": "San Giacomo Maggiore templom",
+                "ro": "Biserica San Giacomo Maggiore",
+                "en": "Church of San Giacomo Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das glatte Pflaster vor der Kirche; das prächtige Innere belohnt die Anfahrt durch den Regen mit Wärme.",
+                "hu": "Ügyeljen a templom előtti tükörsima burkolatra; a pompás belső tér melegséggel jutalmazza meg az esőben megtett utat.",
+                "ro": "Atenție la pavajul lucios din fața bisericii; interiorul magnific vă va răsplăti efortul de a pedala prin ploaie cu adăpost cald.",
+                "en": "Watch out for the slick pavement in front of the church; the magnificent interior rewards your rainy ride with warmth and art."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentalkomplex Sant'Antonio",
+                "hu": "Sant'Antonio Műemlékegyüttes",
+                "ro": "Complexul Monumental Sant'Antonio",
+                "en": "Monumental Complex of Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden zum Unterstellen; die historische Anlage bietet viel Schutz, um die Kleidung kurz trocknen zu lassen.",
+                "hu": "Használja az árkádokat kerékpártárolásra; a történelmi komplexum rengeteg védett helyet kínál a ruházat rövid szárításához.",
+                "ro": "Folosiți arcadele pentru a adăposti bicicleta; complexul istoric oferă multe locuri protejate pentru a vă usca puțin hainele.",
+                "en": "Use the archways to park your bike; the historic complex offers plenty of sheltered spots to dry off your gear for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giovanni Battista",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Church of San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann bei Regen eingeschränkt sein; fahren Sie mit Licht und genießen Sie die mystische Atmosphäre der einsamen Kirche.",
+                "hu": "Esőben a látási viszonyok romolhatnak; használjon lámpát és élvezze a magányos templom misztikus hangulatát a zivatarban.",
+                "ro": "Vizibilitatea poate fi redusă pe ploaie; folosiți luminile și bucurați-vă de atmosfera mistică a bisericii solitare în timpul ploii.",
+                "en": "Visibility may be reduced in the rain; use your bike lights and enjoy the mystical atmosphere of this lonely church in the storm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und weite Sichten. Morgens radeln Sie zu den Außenbezirken, wo die Kälte durch Bewegung erträglich wird. Mittags wärmt das Museum im Herzen von Orosei auf. Da es ab 17:00 Uhr dunkel wird, sollten Sie den Nachmittag für die Kirchen im Zentrum nutzen. Tragen Sie winddichte Kleidung gegen die frische Meeresbrise.",
+            "hu": "A téli kerékpártúra tiszta levegőt és távoli kilátást kínál. Reggel a külvárosi részek felé tekerünk, ahol a mozgás segít a hideg ellen. Délben az Orosei szívében található múzeumban melegedhetünk fel. Mivel 17:00-kor sötétedik, a délutánt a központi templomokra szánjuk. Viseljen szélálló ruházatot a tenger felől érkező hűvös fuvallatok ellen.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și vizibilitate mare. Dimineața pedalați spre periferie, unde mișcarea vă va ajuta să suportați frigul. La prânz, muzeul din inima orașului vă va încălzi. Deoarece se întunecă la ora 17:00, rezervați după-amiaza pentru bisericile centrale. Purtați haine rezistente la vânt contra brizelor marine reci.",
+            "en": "A winter bike tour offers crisp air and vast views. Pedal to the outskirts in the morning, where the active movement keeps the cold at bay. Warm up at midday in the museum in the heart of Orosei. Since it gets dark by 5:00 PM, focus your afternoon on the central churches. Wear windproof layers to protect against the fresh Mediterranean breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heiligtum Unserer Lieben Frau vom Heilmittel",
+                "hu": "Gyógyító Szűzanya Szentély",
+                "ro": "Sanctuarul Maicii Domnului a Remediului",
+                "en": "Sanctuary of Our Lady of the Remedy"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für die Fahrt; das Heiligtum ist im Winter wunderbar ruhig und lädt zu einer friedlichen Pause ein.",
+                "hu": "Viseljen kesztyűt az úthoz; a szentély télen csodálatosan csendes, így tökéletes helyszín egy békés, zavartalan pihenőhöz.",
+                "ro": "Purtați mănuși pentru drum; sanctuarul este minunat de liniștit iarna și vă invită la o pauză plină de pace și reculegere.",
+                "en": "Wear gloves for the ride; the sanctuary is wonderfully peaceful in winter and invites you for a quiet, undisturbed break."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Panatta",
+                "hu": "Nuraghe Panatta",
+                "ro": "Nuraghe Panatta",
+                "en": "Nuraghe Panatta"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für beste Fotos; ziehen Sie sich nach dem Radfahren warm an, wenn Sie die Ruinen zu Fuß erkunden.",
+                "hu": "A tiszta téli levegő remek fotókat ígér; a kerékpározás után öltözzön vissza melegen, mielőtt gyalogosan bejárná a romokat.",
+                "ro": "Aerul curat de iarnă asigură cele mai bune fotografii; îmbrăcați-vă bine după ce coborâți de pe bicicletă pentru a explora ruinele.",
+                "en": "The clear winter air ensures excellent photos; put on an extra layer after cycling before you start exploring the ruins on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Don Giovanni Guiso",
+                "hu": "Don Giovanni Guiso Múzeum",
+                "ro": "Muzeul Don Giovanni Guiso",
+                "en": "Don Giovanni Guiso Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit zum Aufwärmen im Museum; es ist der ideale Ort, um die Kälte der Fahrt kurz zu vergessen.",
+                "hu": "Használja ki a délidőt a múzeumi felmelegedésre; ez az ideális hely, hogy rövid időre elfelejtse a menetszél okozta hideget.",
+                "ro": "Folosiți timpul prânzului pentru a vă încălzi în muzeu; este locul ideal pentru a uita scurt de frigul resimțit în timpul pedalării.",
+                "en": "Use your lunchtime to warm up inside the museum; it is the perfect place to recover from the wind chill after your morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giacomo Maggiore",
+                "hu": "San Giacomo Maggiore templom",
+                "ro": "Biserica San Giacomo Maggiore",
+                "en": "Church of San Giacomo Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind kaum Touristen hier; genießen Sie die prächtige Architektur ganz ohne Hektik, bevor die Sonne untergeht.",
+                "hu": "Télen alig vannak itt turisták; élvezze a pompás építészetet teljes nyugalomban, mielőtt a nap korán lenyugodna az égen.",
+                "ro": "Iarna sunt foarte puțini turiști; bucurați-vă de arhitectura magnifică fără grabă, înainte ca soarele să apună devreme.",
+                "en": "Very few tourists visit in winter; enjoy the magnificent architecture in total tranquility before the sun sets early in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentalkomplex Sant'Antonio",
+                "hu": "Sant'Antonio Műemlékegyüttes",
+                "ro": "Complexul Monumental Sant'Antonio",
+                "en": "Monumental Complex of Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage bietet im Winter ein sehr authentisches Bild; achten Sie auf die Zeit, da es in den Gassen früh schattig wird.",
+                "hu": "A komplexum télen rendkívül hiteles arcát mutatja; ügyeljen az időre, mert a szűk utcákban hamar árnyékossá válik a levegő.",
+                "ro": "Complexul arată o față foarte autentică iarna; aveți grijă la timp, deoarece pe străduțe se lasă umbra și frigul foarte devreme.",
+                "en": "The complex shows its most authentic side in winter; keep an eye on the time as the narrow streets become shady and cold early."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Giovanni Battista",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Church of San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr; das Licht am späten Nachmittag auf den Feldern ist wunderschön, aber kühl.",
+                "hu": "Zárja le a túrát időben 17:00 előtt; a késő délutáni fények a mezőkön gyönyörűek, de a levegő ekkor már igen hűvös.",
+                "ro": "Încheiați turul la timp, înainte de ora 17:00; lumina de după-amiază peste câmpuri este superbă, dar temperatura scade brusc.",
+                "en": "Finish your tour by 5:00 PM; the late afternoon light over the fields is beautiful, but the temperature drops sharply at sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Induljon korán a hangulatos Loddhusio romokhoz és a történelmi Gyógyító Szentélyhez. A telet töltse a Nuraghe Panatta és a Nuraghe Muriè ősi építményeinek felfedezésével. Délután induljon a part menti védelmi pont, a Nurache 'e portu felé. Autós túráját a naplementében, az Orosei-ben található Sant'Antonio komplexumnál fejezze be.",
         "ro": "Conduceți devreme către ruinele Loddhusio și sanctuarul istoric al Remediului. Petreceți amiaza explorând structurile preistorice impresionante de la Nuraghe Panatta și Nuraghe Muriè. După-amiaza, îndreptați-vă spre situl de apărare de coastă Nurache 'e portu. Încheiați-vă turul auto înapoi în Orosei la complexul Sant'Antonio la lăsarea serii.",
         "en": "Drive out early to the atmospheric Loddhusio ruins and the historic Sanctuary of the Remedy. Spend midday exploring the impressive prehistoric structures of Nuraghe Panatta and Nuraghe Muriè. In the afternoon, head towards the coastal defense site of Nurache 'e portu. End your driving tour back in Orosei at the Sant'Antonio complex as dusk falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl bei Regen, um die weit verstreuten Nuraghen und Ruinen trocken zu erreichen. Der Vormittag führt zu mystischen Stätten im Umland, während das Auto als warmer Rückzugsort dient. Mittags erkunden Sie den Sant'Antonio Komplex im Zentrum. Ein regnerischer Tag auf Sardinien wird so zu einer komfortablen Zeitreise durch die Archäologie.",
+            "hu": "Az autó a legjobb választás esőben, hogy szárazon érjük el a távolabbi nuraghékat és romokat. A délelőtt a környék misztikus helyszíneire kalauzol, miközben a jármű meleg menedékként szolgál. Délben a központi Sant'Antonio komplexumot fedezzük fel. Egy esős szardíniai nap így kényelmes időutazássá válik a régészet és a történelem világában.",
+            "ro": "Mașina este cea mai bună alegere pe ploaie pentru a ajunge uscat la nuraghele și ruinele îndepărtate. Dimineața vă poartă spre locuri mistice din împrejurimi, mașina fiind un refugiu cald. La prânz, explorați complexul Sant'Antonio din centru. O zi ploioasă în Sardinia devine astfel o călătorie confortabilă în timp prin arheologie.",
+            "en": "A car is the best choice in the rain to reach the distant nuraghi and ruins comfortably dry. Spend your morning visiting mystical sites in the countryside, using the car as a warm retreat between stops. At noon, explore the Sant'Antonio complex in the center. A rainy Sardinian day thus becomes a comfortable journey through ancient archaeology."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ruinen von Loddhusio",
+                "hu": "Loddhusio Szűzanya romjai",
+                "ro": "Ruinele Maicii Domnului din Loddhusio",
+                "en": "Ruins of Our Lady of Loddhusio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; die Ruinen liegen im Freien, daher ist eine Regenjacke für den kurzen Fußweg unerlässlich.",
+                "hu": "Parkoljon a lehető legközelebb; a romok a szabad ég alatt vannak, így egy esőkabát elengedhetetlen a rövid gyalogúthoz.",
+                "ro": "Parcați cât mai aproape posibil; ruinele sunt în aer liber, deci o pelerină de ploaie este esențială pentru scurta plimbare.",
+                "en": "Park as close as possible; the ruins are outdoors, so a raincoat is essential for the short walk from your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum Unserer Lieben Frau vom Heilmittel",
+                "hu": "Gyógyító Szűzanya Szentély",
+                "ro": "Sanctuarul Maicii Domnului a Remediului",
+                "en": "Sanctuary of Our Lady of the Remedy"
+              },
+              "tip_5lang": {
+                "de": "Die weiten Portiken bieten exzellenten Schutz; nutzen Sie den Besuch für Fotos der nassen, glänzenden Steinstrukturen.",
+                "hu": "A tágas tornácok kiváló védelmet nyújtanak; használja ki a látogatást a vizesen csillogó kőépületek fotózására.",
+                "ro": "Porticurile largi oferă o protecție excelentă; folosiți vizita pentru a fotografia structurile de piatră care sclipesc sub ploaie.",
+                "en": "The wide porticos offer excellent protection; use your visit to take photos of the stone structures glistening in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Panatta",
+                "hu": "Nuraghe Panatta",
+                "ro": "Nuraghe Panatta",
+                "en": "Nuraghe Panatta"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Zufahrtswegen; der Boden kann aufgeweicht sein. Genießen Sie die dramatische Aussicht im Regen.",
+                "hu": "Vigyázzon a nem aszfaltozott utakon; a talaj felázhat az esőben. Élvezze a romok feletti drámai, felhős kilátást.",
+                "ro": "Atenție pe drumurile de acces neasfaltate; solul poate fi înmuiat de ploaie. Bucurați-vă de vederea dramatică sub nori.",
+                "en": "Be careful on unpaved access roads; the ground can get soft in the rain. Enjoy the dramatic, cloudy views over the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Muriè",
+                "hu": "Nuraghe Muriè",
+                "ro": "Nuraghe Muriè",
+                "en": "Nuraghe Muriè"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zur Nuraghe kann rutschig sein; wasserfeste Wanderschuhe bieten hier die nötige Sicherheit.",
+                "hu": "A parkolótól a nuraghéig tartó ösvény csúszós lehet; a vízálló túrabakancs itt nyújtja a legnagyobb biztonságot.",
+                "ro": "Poteca de la parcare la nuraghe poate fi alunecoasă; ghetele de munte impermeabile oferă siguranța necesară în acest loc.",
+                "en": "The path from the parking area to the nuraghe can be slippery; waterproof hiking boots provide the best safety here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nurache 'e portu",
+                "hu": "Nurache 'e portu",
+                "ro": "Nurache 'e portu",
+                "en": "Nurache 'e portu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpausen für kurze Erkundungstouren; das Innere der Nuraghe bietet nur bedingt Schutz vor eindringendem Wasser.",
+                "hu": "Használja ki az esőszüneteket a rövid felfedezésre; a nuraghe belseje csak korlátozottan véd a beszivárgó víz ellen.",
+                "ro": "Profitați de pauzele de ploaie pentru explorări scurte; interiorul nuraghei oferă protecție limitată contra infiltrațiilor.",
+                "en": "Take advantage of breaks in the rain for short explorations; the interior of the nuraghe offers limited shelter from leaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentalkomplex Sant'Antonio",
+                "hu": "Sant'Antonio Műemlékegyüttes",
+                "ro": "Complexul Monumental Sant'Antonio",
+                "en": "Monumental Complex of Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto im Zentrum stehen; die Anlage ist weitläufig und bietet viele überdachte Gänge für den Abschluss des Tages.",
+                "hu": "Hagyja az autót a központban; a komplexum tágas és sok fedett folyosót kínál a nap kényelmes befejezéséhez.",
+                "ro": "Lăsați mașina în centru; complexul este vast și oferă multe coridoare acoperite pentru încheierea zilei în mod plăcut.",
+                "en": "Leave your car in the town center; the complex is spacious and offers many covered walkways to finish your day comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ermöglicht das Auto eine effiziente Tour durch die antiken Stätten von Orosei, bevor es um 17:00 Uhr dunkel wird. Morgens erkunden Sie die Nuraghen im kühlen, aber klaren Licht. Mittags bietet die Stadt mit ihren historischen Mauern Schutz vor der Kälte. Der späte Nachmittag gehört den Küstenruinen, wo Sie den frühen Sonnenuntergang bequem vom Auto aus beobachten können.",
+            "hu": "Télen az autó lehetővé teszi Orosei ősi helyszíneinek hatékony bejárását, mielőtt 17:00-kor beállna a sötétség. Reggel a nuraghékat keressük fel a hűvös, de tiszta fényekben. Délben a város történelmi falai között pihenünk. A késő délutánt a parti romoknál töltjük, ahol a korai naplementét akár kényelmesen az autóból is megcsodálhatjuk.",
+            "ro": "Iarna, mașina permite un tur eficient al siturilor antice din Orosei înainte de lăsarea întunericului la ora 17:00. Dimineața explorați nuraghele în lumina rece și clară. La prânz, orașul oferă adăpost contra frigului. După-amiaza târziu este dedicată ruinelor de coastă, unde puteți admira apusul devreme confortabil din mașină.",
+            "en": "In winter, a car allows for an efficient tour of Orosei's ancient sites before darkness falls at 5:00 PM. Visit the nuraghi in the crisp morning light. Spend your midday warming up among the town's historic walls. The late afternoon is dedicated to coastal ruins, where you can watch the early winter sunset comfortably from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ruinen von Loddhusio",
+                "hu": "Loddhusio Szűzanya romjai",
+                "ro": "Ruinele Maicii Domnului din Loddhusio",
+                "en": "Ruins of Our Lady of Loddhusio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos; die Wintersonne steht tief und wirft lange Schatten auf die antiken Steine.",
+                "hu": "Használja ki a tiszta reggeli fényt a fotózáshoz; a téli nap alacsonyan jár, és hosszú árnyékokat vet az ősi kövekre.",
+                "ro": "Folosiți lumina clară a dimineții pentru fotografii; soarele de iarnă este jos și aruncă umbre lungi peste pietrele antice.",
+                "en": "Take advantage of the clear morning light for photos; the low winter sun casts long, dramatic shadows over the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligtum Unserer Lieben Frau vom Heilmittel",
+                "hu": "Gyógyító Szűzanya Szentély",
+                "ro": "Sanctuarul Maicii Domnului a Remediului",
+                "en": "Sanctuary of Our Lady of the Remedy"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort im Winter; die kühle Luft lässt die Stille der Anlage noch eindrucksvoller wirken. Tragen Sie winddichte Kleidung.",
+                "hu": "Csendes helyszín télen; a hűvös levegő még lenyűgözőbbé teszi a komplexum nyugalmát. Viseljen szélálló ruházatot.",
+                "ro": "Un loc liniștit iarna; aerul rece face ca tăcerea complexului să pară și mai impresionantă. Purtați haine rezistente la vânt.",
+                "en": "A peaceful spot in winter; the cool air makes the site's silence even more impressive. Wear windproof clothing for the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Panatta",
+                "hu": "Nuraghe Panatta",
+                "ro": "Nuraghe Panatta",
+                "en": "Nuraghe Panatta"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser; genießen Sie den weiten Blick über die Landschaft von der Anhöhe der Nuraghe aus.",
+                "hu": "Télen a távoli kilátás gyakran sokkal jobb; élvezze a panorámát a táj felett a nuraghe dombjáról a tiszta időben.",
+                "ro": "Vizibilitatea la distanță este adesea mai bună iarna; bucurați-vă de panorama peste peisaj de pe înălțimea nuraghei.",
+                "en": "Long-distance views are often better in winter; enjoy the vast panorama over the landscape from the nuraghe's elevated position."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Muriè",
+                "hu": "Nuraghe Muriè",
+                "ro": "Nuraghe Muriè",
+                "en": "Nuraghe Muriè"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang zur Nuraghe regt im Winter den Kreislauf an; danach wärmt das Auto für die Weiterfahrt.",
+                "hu": "Egy rövid, tempós séta a nuraghéig jól megmozgat a téli hidegben; utána az autóban gyorsan felmelegedhet a továbbhaladás előtt.",
+                "ro": "O plimbare scurtă și rapidă până la nuraghe vă va activa circulația iarna; ulterior, mașina vă va încălzi pentru drum.",
+                "en": "A short, brisk walk to the nuraghe is invigorating in the winter air; your car will be a warm refuge for the drive ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Nurache 'e portu",
+                "hu": "Nurache 'e portu",
+                "ro": "Nurache 'e portu",
+                "en": "Nurache 'e portu"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zum Meer bringt im Winter kühle Winde; bewundern Sie den Sonnenuntergang gegen 17:00 Uhr von diesem Aussichtspunkt.",
+                "hu": "A tenger közelsége télen hűvös szeleket hoz; csodálja meg a 17:00 körüli naplementét erről a kiváló kilátópontról.",
+                "ro": "Apropierea de mare aduce vânturi reci iarna; admirați apusul de soare în jurul orei 17:00 din acest punct de observație.",
+                "en": "The proximity to the sea brings cool winter winds; watch the beautiful sunset around 5:00 PM from this scenic vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentalkomplex Sant'Antonio",
+                "hu": "Sant'Antonio Műemlékegyüttes",
+                "ro": "Complexul Monumental Sant'Antonio",
+                "en": "Monumental Complex of Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Schutz der historischen Gebäude; die Beleuchtung der Anlage im Winterabend ist besonders atmosphärisch.",
+                "hu": "Zárja a napot a történelmi épületek védelmében; a komplexum esti kivilágítása télen különösen hangulatos látványt nyújt.",
+                "ro": "Încheiați ziua sub protecția clădirilor istorice; iluminarea complexului în serile de iarnă are o atmosferă deosebită.",
+                "en": "End your day sheltered by the historic buildings; the illumination of the complex on winter evenings is exceptionally atmospheric."
+              }
+            }
+          ]
+        }
       }
     }
   }

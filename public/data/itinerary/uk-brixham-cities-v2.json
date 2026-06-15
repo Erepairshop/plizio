@@ -160,6 +160,196 @@
         "hu": "A délelőtt a Helytörténeti Múzeumban kezdődik, majd a nyüzsgő Halpiac hangulatát élvezheti. Délben Orániai Vilmos szobránál és a kikötőben teszünk egy kellemes sétát. Délután a tengerészeti történelemé a főszerep a Golden Hind múzeumhajó fedélzetén. Az estét a Battery Gardens nyugodt parti panorámája zárja tökéletes békében.",
         "ro": "Dimineața începe la Muzeul de Patrimoniu, înainte de a simți atmosfera vibrantă a Pieței de Pește. La prânz admirați statuia lui William de Orania și vă plimbați prin portul plin de viață. După-amiaza trece la istoria maritimă la bordul navei-muzeu Golden Hind. Seara se încheie cu o priveliște de coastă liniștită la frumoasele Battery Gardens.",
         "en": "Morning begins at the Heritage Museum before taking in the vibrant atmosphere of the bustling Fish Market. Midday is spent admiring the historical William of Orange Statue and strolling the lively Brixham Harbour. Afternoon shifts to maritime history aboard the impressive Golden Hind Museum Ship. Evening concludes with tranquil coastal views at Battery Gardens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Museum, während draußen der Regen auf das Hafenbecken trommelt. Mittags beobachten wir das geschäftige Treiben am Fischmarkt unter schützenden Vordächern. Am Nachmittag bietet der Bauch des historischen Schiffes ein gemütliches Versteck vor den Schauern. Der Abend endet mit einer nebligen Brise in den Gärten; Vorsicht auf den rutschigen Klippenpfaden bei Nässe.",
+            "hu": "A reggelt a múzeum száraz falaiban indítjuk, miközben az eső a kikötő vizére kopog. Délben a halpiac védett részei alatt figyeljük a napi fogás érkezését a szürke ködben. Délután a történelmi hajó gyomrában lelünk menedéket a záporok elől. Az este ködös széllel zárul a kertekben; ügyeljen a csúszós parti ösvényekre a meredek sziklák mentén a nedves időben.",
+            "ro": "Dimineața începe la adăpost în muzeu, în timp ce ploaia bate în apele portului. La prânz, urmărim activitatea pieței de pește sub streșinile protectoare, în ciuda ceții cenușii. După-amiaza, interiorul navei istorice oferă un refugiu primitor împotriva averselor. Seara se încheie cu o briză umedă în grădini; atenție la potecile alunecoase de pe faleză în condiții de ploaie.",
+            "en": "Morning starts at the dry museum exploring local seafaring history while rain drums on the harbor. By noon, we visit the fish market, watching the catch arrive through the grey mist. Afternoon is spent inside the historic ship, listening to the rain on the deck above. Evening concludes with a misty walk at the gardens; be careful on the slippery coastal paths near the cliffs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brixham Heritage Museum",
+                "hu": "Brixham Helytörténeti Múzeum",
+                "ro": "Muzeul de Patrimoniu Brixham",
+                "en": "Brixham Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Zufluchtsort bei Regen, wo Sie die Fischereigeschichte trocken erkunden können; nutzen Sie die Schließfächer für Ihre nassen Mäntel.",
+                "hu": "A múzeum kiváló menedék a záporok elől, ahol a tengerészeti makettek mellett interaktív kiállítások várják; a látogatás idejére bátran használja a ruhatárat.",
+                "ro": "Muzeul este un refugiu ideal pe timp de ploaie, unde puteți explora istoria pescuitului la uscat; folosiți dulapurile pentru a vă lăsa hainele ude la intrare.",
+                "en": "The museum is an ideal refuge during rain, where you can explore fishing history in the dry; use the lockers to store your wet coats while you wander."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischmarkt",
+                "hu": "Halpiac",
+                "ro": "Piața de Pește",
+                "en": "Fish Market"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Auktionen in den überdachten Hallen, wo der Fang des Tages sicher vor dem Regen entladen wird; feste Schuhe verhindern Ausrutschen auf dem Boden.",
+                "hu": "Figyelje az árverést a fedett csarnokokban, ahol a napi fogást az esőtől védve rakodják ki; viseljen tapadós talpú cipőt a vizes és csúszós padlóburkolat miatt.",
+                "ro": "Urmăriți licitația în halele acoperite, unde captura zilei este descărcată la adăpost de ploaie; purtați încălțăminte aderentă deoarece podeaua poate fi alunecoasă.",
+                "en": "Watch the auctions in the covered halls where the daily catch is unloaded safely from the rain; wear sturdy shoes to prevent slipping on the wet floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Wilhelm von Oranien",
+                "hu": "Orániai Vilmos szobra",
+                "ro": "Statuia lui William de Orania",
+                "en": "William of Orange Statue"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp unter dem Regenschirm erinnert an die Landung von 1688; die glänzende Bronze wirkt bei Regen besonders dramatisch vor dem grauen Hafen.",
+                "hu": "Egy gyors fotó az esernyő alól emlékeztet az 1688-as partraszállásra; a fényes bronz esőben különösen drámaian mutat a szürke kikötői háttér előtt.",
+                "ro": "O scurtă oprire pentru poze sub umbrelă amintește de debarcarea din 1688; bronzul strălucitor arată spectaculos în ploaie pe fundalul gri al portului.",
+                "en": "A quick photo stop under your umbrella commemorates the 1688 landing; the shiny bronze looks particularly dramatic in the rain against the grey harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Brixham Harbour",
+                "hu": "Brixhami Kikötő",
+                "ro": "Portul Brixham",
+                "en": "Brixham Harbour"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tanzenden Boote von einem der Hafen-Cafés aus; wasserfeste Kleidung ist hier wegen der aufpeitschenden Gischt unerlässlich.",
+                "hu": "Élvezze a ringatózó hajók látványát a kikötői kávézók ablakából; a vízparton a felcsapó hullámok miatt a vízálló öltözet mindenképpen javasolt.",
+                "ro": "Bucurați-vă de vederea bărcatelor care dansează din ferestrele cafenelelor din port; îmbrăcămintea impermeabilă este esențială aici din cauza stropilor de apă.",
+                "en": "Enjoy the view of the bobbing boats from the windows of a harbor cafe; waterproof clothing is essential here due to the sea spray during windy rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Golden Hind",
+                "hu": "Golden Hind Múzeumhajó",
+                "ro": "Nava Muzeu Golden Hind",
+                "en": "Golden Hind Museum Ship"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die engen Decks unterhalb der Wasserlinie, die perfekten Schutz bieten; achten Sie auf die steilen, bei Nässe potenziell rutschigen Holztreppen.",
+                "hu": "Fedezze fel a vízvonal alatti szűk fedélzeteket, amelyek tökéletes védelmet nyújtanak; vigyázzon a meredek, vizes időben csúszós falépcsőkre a hajón.",
+                "ro": "Explorați punțile înguste de sub linia apei, care oferă o protecție perfectă; atenție la scările de lemn care pot deveni alunecoase în condiții de umiditate.",
+                "en": "Explore the cramped decks below the water line which offer perfect shelter; mind the steep wooden ladders that can be slippery during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Battery Gardens",
+                "hu": "Battery Gardens",
+                "ro": "Battery Gardens",
+                "en": "Battery Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Torbay ist bei Regen mystisch, aber meiden Sie die unbefestigten Pfade; festes Schuhwerk ist für die teils steilen Asphaltwege wichtig.",
+                "hu": "A kilátás az öbölre esőben misztikus, de kerülje a földutakat; a meredek aszfaltozott szakaszokon a sár miatt jó tapadású bakancs viselése ajánlott.",
+                "ro": "Vederea asupra golfului este mistică în ploaie, dar evitați potecile neamenajate; încălțămintea solidă este necesară pentru drumurile asfaltate înclinate.",
+                "en": "The view over Torbay is mystical in the rain, but stick to the paved paths; sturdy boots are recommended for the steep sections that may become muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt im beheizten Museum mit Seemannsgarn. Mittags glitzert die tiefstehende Wintersonne auf dem Fischmarkt, während die klare Luft die Sinne schärft. Am Nachmittag taucht die frühe Dämmerung den Hafen in ein magisches Licht. Der Tag endet früh um fünf bei Sonnenuntergang in den Gärten; warme Schichten sind für den eisigen Küstenwind unerlässlich.",
+            "hu": "A fagyos reggelt a fűtött múzeumban indítjuk, elmélyedve a tengeri történetekben. Délben a halpiacon a téli nap alacsony sugarai csillannak meg, a tiszta levegő pedig frissítően hat. Délután a korai szürkület mágikus fénybe vonja a kikötőt. A nap korán, ötkor ér véget a kertekben a naplementével; a réteges öltözködés kötelező a jeges parti szél ellen.",
+            "ro": "Dimineața geroasă începe în muzeul încălzit cu povești marinărești. La prânz, soarele de iarnă strălucește peste piața de pește, în timp ce aerul rece împrospătează simțurile. După-amiaza, amurgul timpuriu scaldă portul într-o lumină magică. Ziua se termină devreme la ora 17 în grădini; straturile calde sunt esențiale împotriva vântului înghețat.",
+            "en": "A frosty morning starts in the heated museum with maritime tales. By noon, the low winter sun glitters over the fish market as the crisp air sharpens the senses. In the afternoon, early twilight bathes the harbor in magical light. The day ends early at 17:00 with sunset in the gardens; warm layers are vital against the icy coastal wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brixham Heritage Museum",
+                "hu": "Brixham Helytörténeti Múzeum",
+                "ro": "Muzeul de Patrimoniu Brixham",
+                "en": "Brixham Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den historischen Exponaten auf, bevor es an den windigen Hafen geht; die Innenräume sind im Winter angenehm temperiert und gemütlich.",
+                "hu": "Melegedjen fel a történelmi tárlók között, mielőtt a szeles kikötőbe indulna; a belső terek télen is kellemesen fűtöttek és barátságos hangulatot árasztanak.",
+                "ro": "Încălziți-vă printre exponatele istorice înainte de a merge în portul vântos; interioarele sunt plăcut încălzite și primitoare în timpul lunilor de iarnă.",
+                "en": "Warm up among the historical exhibits before heading to the windy harbor; the indoor galleries are comfortably heated and very cozy during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischmarkt",
+                "hu": "Halpiac",
+                "ro": "Piața de Pește",
+                "en": "Fish Market"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Markt früh, um das Treffen der Kutter im klaren Morgenlicht zu sehen; Handschuhe sind beim Fotografieren am kalten Geländer sehr ratsam.",
+                "hu": "Látogasson ki korán, hogy láthassa a hajók érkezését a tiszta reggeli fényben; a fémkorlátok mentén a fotózáshoz egy meleg kesztyű viselése erősen ajánlott.",
+                "ro": "Vizitați piața devreme pentru a vedea ambarcațiunile în lumina clară a dimineții; mănușile sunt recomandate pentru fotografierea lângă balustradele reci.",
+                "en": "Visit the market early to see the trawlers arriving in the crisp morning light; wearing gloves is highly recommended when taking photos near cold railings."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Wilhelm von Oranien",
+                "hu": "Orániai Vilmos szobra",
+                "ro": "Statuia lui William de Orania",
+                "en": "William of Orange Statue"
+              },
+              "tip_5lang": {
+                "de": "Die Statue wirkt im klaren Winterlicht besonders scharf konturiert; nutzen Sie das weiche Licht der tiefstehenden Sonne für perfekte Porträtaufnahmen.",
+                "hu": "A szobor a tiszta téli fényben különösen éles kontúrokkal látszik; használja ki az alacsonyan járó nap lágy fényeit a tökéletes hangulatú portréfotókhoz.",
+                "ro": "Statuia pare a avea contururi foarte clare în lumina iernii; profitați de soarele slab de la amiază pentru a obține fotografii cu un aspect artistic.",
+                "en": "The statue appears with very sharp contours in the clear winter light; take advantage of the soft low sun for perfect atmospheric portrait photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Brixham Harbour",
+                "hu": "Brixhami Kikötő",
+                "ro": "Portul Brixham",
+                "en": "Brixham Harbour"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Winterbeleuchtung des Hafens, die in der frühen Dämmerung erstrahlt; ein heißes Getränk to-go wärmt die Hände beim Spaziergang am Kai.",
+                "hu": "Csodálja meg a kikötő téli fényeit, amelyek már a kora délutáni szürkületben felgyúlnak; egy forró ital a kézben sokat segít a mólón való séta közben.",
+                "ro": "Admirați luminile de iarnă ale portului care se aprind în amurgul timpuriu; o băutură caldă la pachet vă va încălzi mâinile în timpul plimbării pe chei.",
+                "en": "Admire the winter harbor lights that start glowing in the early twilight; a hot drink to-go will keep your hands warm while walking along the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Golden Hind",
+                "hu": "Golden Hind Múzeumhajó",
+                "ro": "Nava Muzeu Golden Hind",
+                "en": "Golden Hind Museum Ship"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die verkürzten Winteröffnungszeiten, um das Schiff vor der Dunkelheit zu erleben; die Holzdecks können bei Frost stellenweise glatt sein.",
+                "hu": "Ellenőrizze a rövidített téli nyitvatartást, hogy még sötétedés előtt bejárhassa a hajót; a fapadlók fagyos reggeleken helyenként csúszósak lehetnek.",
+                "ro": "Verificați programul scurt de iarnă pentru a vizita nava înainte de lăsarea întunericului; punțile de lemn pot fi alunecoase în diminețile cu îngheț.",
+                "en": "Check the shortened winter opening hours to ensure you see the ship before dark; the wooden decks can be slippery in patches during frosty mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Battery Gardens",
+                "hu": "Battery Gardens",
+                "ro": "Battery Gardens",
+                "en": "Battery Gardens"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang gegen 17 Uhr über der Bucht; der ungeschützte Standort erfordert eine winddichte Mütze gegen den Seewind.",
+                "hu": "Nézze meg a látványos naplementét délután 5 körül az öböl felett; a nyitott területen egy szélálló sapka elengedhetetlen a metsző tengeri szél ellen.",
+                "ro": "Urmăriți apusul spectaculos în jurul orei 17 deasupra golfului; locația expusă necesită o căciulă rezistentă la vânt împotriva brizei tăioase de mare.",
+                "en": "Watch the spectacular sunset around 17:00 over the bay; the exposed location requires a windproof hat against the biting sea breeze from the channel."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a helyi történelemmel a Múzeumban, majd tekerjen az ikonikus Golden Hind múzeumhajóhoz. A dél a nyüzsgő Brixhami Kikötőben éri, ahol magába szívhatja a tengeri energiákat. Délután a part mentén teker a Breakwater strandhoz és a Shoalstone tengervizes medencéhez. Az este a Berry Head Természetvédelmi Terület lenyűgöző panorámájával zárul.",
         "ro": "Începeți cu istoria locală la Muzeul de Patrimoniu, apoi pedalați spre faimoasa navă Golden Hind. Amiaza vă aduce în portul Brixham pentru a simți energia maritimă. După-amiaza pedalați de-a lungul coastei spre Breakwater Beach și piscina istorică Shoalstone. Seara se termină spectaculos în frumoasa rezervație naturală Berry Head.",
         "en": "Start with deep local history at the Brixham Heritage Museum before pedaling to the iconic Golden Hind Museum Ship. Midday brings you to the vibrant Brixham Harbour to soak in the maritime energy. Afternoon riding takes you along the coast to Breakwater Beach and the historic Shoalstone Seawater Pool. Evening finishes spectacularly at Berry Head Nature Reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start im Museum gibt Zeit für die Geschichte, bevor wir uns in die Sättel schwingen. Mittags flüchten wir unter das Deck der Golden Hind, um den Schauern zu entgehen. Der Nachmittag führt uns am nebligen Hafen entlang zum Strand, wo der Wind die Gischt peitscht. Den Abschluss bildet Berry Head; achten Sie auf den rutschigen Untergrund bei der Fahrt zu den Klippen.",
+            "hu": "Az esős reggel a múzeumban ad időt a történelemre, mielőtt nyeregbe szállnánk. Délben a Golden Hind fedélzete alá húzódunk az égi áldás elől. Délután a ködös kikötő mentén tekerünk a strand felé, ahol a szél korbácsolja a vizet. A napot Berry Head zárja; ügyeljen a csúszós talajra a sziklák felé vezető úton a nedves időben.",
+            "ro": "O dimineață ploioasă la muzeu ne oferă timp pentru istorie înainte de a porni la drum. La prânz, ne adăpostim sub puntea navei Golden Hind pentru a evita aversele. După-amiaza ne poartă de-a lungul portului cețos spre plajă, unde vântul biciuiește valurile. Finalul este la Berry Head; atenție la terenul alunecos pe drumul spre faleză.",
+            "en": "A rainy start at the museum allows time for history before we get in the saddle. By noon, we duck under the deck of the Golden Hind to escape the downpour. The afternoon takes us along the misty harbor to the beach where wind whips the spray. The day ends at Berry Head; watch out for slippery ground on the ride to the cliffs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brixham Heritage Museum",
+                "hu": "Brixham Helytörténeti Múzeum",
+                "ro": "Muzeul de Patrimoniu Brixham",
+                "en": "Brixham Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als trockene Basisstation; prüfen Sie hier noch einmal Ihre Bremsen, da die Abfahrten im Ort bei Regen tückisch sein können.",
+                "hu": "Használja a múzeumot száraz bázisként; ellenőrizze itt a fékeket, mivel a város meredek lejtői esőben rendkívül veszélyesek és csúszósak lehetnek.",
+                "ro": "Folosiți muzeul ca bază uscată; verificați frânele aici, deoarece coborârile din oraș pot fi înșelătoare și periculoase pe timp de ploaie torențială.",
+                "en": "Use the museum visit as a dry base station; check your brakes here as the local downhill sections can be treacherous and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Golden Hind",
+                "hu": "Golden Hind Múzeumhajó",
+                "ro": "Nava Muzeu Golden Hind",
+                "en": "Golden Hind Museum Ship"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Hafen fest und verbringen Sie die Regenzeit unter Deck; die engen Gänge bieten perfekten Schutz vor den Elementen und dem Wind.",
+                "hu": "Zárja le a biciklit a kikötőben, és töltse az esős időt a fedélzet alatt; a szűk folyosók tökéletes védelmet nyújtanak az elemek és a szél elől.",
+                "ro": "Încuiați bicicleta în port și petreceți timpul ploios sub punte; coridoarele înguste oferă protecție perfectă împotriva elementelor naturii și a vântului.",
+                "en": "Lock your bike at the harbor and spend the rainy spell below deck; the cramped passages offer perfect protection from the elements and the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Brixham Harbour",
+                "hu": "Brixhami Kikötő",
+                "ro": "Portul Brixham",
+                "en": "Brixham Harbour"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das nasse Kopfsteinpflaster am Kai; wasserfeste Taschen für Ihre Ausrüstung sind bei der Fahrt am Wasser unverzichtbar.",
+                "hu": "Tekerjen óvatosan a vizes macskakövön a móló mentén; a vízparti szakaszon a felszerelés számára vízhatlan táska használata mindenképpen javasolt.",
+                "ro": "Mergeți cu atenție pe pavajul umed de pe chei; gențile impermeabile pentru echipament sunt indispensabile la mersul cu bicicleta pe lângă apă.",
+                "en": "Ride carefully over the wet cobblestones along the quay; waterproof bags for your gear are indispensable when cycling near the water in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Breakwater Beach",
+                "hu": "Breakwater Strand",
+                "ro": "Plaja Breakwater",
+                "en": "Breakwater Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im nahen Bistro, wenn der Regen zu stark wird; der Blick auf die graue See ist von drinnen bei einem Tee besonders stimmungsvoll.",
+                "hu": "Keressen menedéket a közeli bisztróban, ha elered az eső; a szürke tenger látványa bentről, egy meleg tea mellett különösen hangulatos és megnyugtató.",
+                "ro": "Căutați adăpost în bistroul din apropiere dacă ploaia devine prea puternică; vederea mării gri din interior, cu un ceai, este foarte atmosferică.",
+                "en": "Seek shelter in the nearby bistro if the rain becomes too heavy; the view of the grey sea is very atmospheric from inside with a warm cup of tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Shoalstone Seawater Pool",
+                "hu": "Shoalstone Tengervizes Medence",
+                "ro": "Piscina cu Apă de Mare Shoalstone",
+                "en": "Shoalstone Seawater Pool"
+              },
+              "tip_5lang": {
+                "de": "Das Becken wirkt bei Regen fast surreal, wenn die Tropfen auf die Meeresoberfläche fallen; achten Sie auf den glatten Beton rund um das leere Becken.",
+                "hu": "A medence esőben szinte szürreális látványt nyújt a víztükörre hulló cseppekkel; ügyeljen a sima betonfelületre az üres medence körüli sétányon.",
+                "ro": "Piscina arată aproape ireal în ploaie când picăturile cad pe suprafața apei; atenție la betonul neted din jurul bazinului care devine alunecos.",
+                "en": "The pool looks almost surreal in the rain with droplets falling on the water surface; watch out for the smooth concrete around the pool area."
+              }
+            },
+            {
+              "name": {
+                "de": "Berry Head Nature Reserve",
+                "hu": "Berry Head Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Berry Head",
+                "en": "Berry Head Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Der Klippenweg ist bei Regen sehr windig; tragen Sie eine gute Regenjacke und bleiben Sie auf den Hauptwegen, um Schlamm und Rutschgefahr zu meiden.",
+                "hu": "A szikla menti út esőben nagyon szeles; viseljen jó esőkabátot és maradjon a főutakon, hogy elkerülje a sarat és az elcsúszás veszélyét.",
+                "ro": "Drumul de pe faleză este foarte vântos pe ploaie; purtați o pelerină bună și rămâneți pe căile principale pentru a evita noroiul și alunecarea.",
+                "en": "The cliff path is very windy in the rain; wear a good raincoat and stick to the main trails to avoid deep mud and the risk of slipping on rocks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit einer rasanten Fahrt zum Museum. Mittags erkunden wir die Golden Hind, wo der kalte Wind in den Masten pfeift. Am Nachmittag radeln wir entlang der Küste, während die Wintersonne tief über dem Meer steht. Der Tag endet bei Berry Head; bringen Sie helle Lichter mit, da der Rückweg nach 17 Uhr bereits im Dunkeln liegt.",
+            "hu": "A tiszta téli reggel egy frissítő tekeréssel indul a múzeum felé. Délben a Golden Hindet fedezzük fel, ahol a hideg szél fütyül az árbocok között. Délután a part mentén kerekezünk, miközben a téli nap alacsonyan jár a tenger felett. A nap Berry Headnél ér véget; hozzon erős lámpákat, mert az út ötkor már sötétben vezet.",
+            "ro": "O dimineață senină de iarnă începe cu o tură rapidă spre muzeu. La prânz explorăm Golden Hind, unde vântul rece șuieră printre catarge. După-amiaza pedalăm de-a lungul coastei sub soarele slab de iarnă. Ziua se încheie la Berry Head; aduceți lumini puternice deoarece drumul de întoarcere după ora 17 este deja pe întuneric.",
+            "en": "A clear winter morning starts with a brisk ride to the museum. By noon, we explore the Golden Hind where the cold wind whistles through the masts. In the afternoon, we cycle along the coast with the winter sun low over the sea. The day ends at Berry Head; bring bright lights as the return trip after 17:00 is in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brixham Heritage Museum",
+                "hu": "Brixham Helytörténeti Múzeum",
+                "ro": "Muzeul de Patrimoniu Brixham",
+                "en": "Brixham Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Muskeln aufzuwärmen und die Handschuhe zu trocknen; die Exponate im Inneren bieten eine willkommene Pause von der kalten Luft.",
+                "hu": "Használja ki a megállót az izmok bemelegítésére és a kesztyűk szárítására; a benti kiállítások kellemes pihenőt nyújtanak a kinti csípős levegő után.",
+                "ro": "Profită de oprire pentru a-ți încălzi mușchii și a-ți usca mănușile; exponatele din interior oferă o pauză binevenită de la aerul rece de afară.",
+                "en": "Use this stop to warm up your muscles and dry your gloves; the indoor exhibits provide a welcome break from the biting cold morning air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museumsschiff Golden Hind",
+                "hu": "Golden Hind Múzeumhajó",
+                "ro": "Nava Muzeu Golden Hind",
+                "en": "Golden Hind Museum Ship"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Decks können morgens gefroren sein; gehen Sie vorsichtig und genießen Sie das authentische Gefühl einer frostigen Seefahrt des 16. Jahrhunderts.",
+                "hu": "A fafedélzetek reggelente jegesek lehetnek; járjon óvatosan, és élvezze a 16. századi fagyos tengeri utazás autentikus és zord hangulatát.",
+                "ro": "Punțile de lemn pot fi înghețate dimineața; mergeți cu grijă și bucurați-vă de senzația autentică a unei călătorii pe mare înghețată din secolul XVI.",
+                "en": "The wooden decks can be frozen in the morning; walk carefully and enjoy the authentic feel of a 16th-century frosty sea voyage in the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Brixham Harbour",
+                "hu": "Brixhami Kikötő",
+                "ro": "Portul Brixham",
+                "en": "Brixham Harbour"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter weniger überlaufen; ein Schlauchschal schützt Ihr Gesicht vor dem beißenden Wind, der direkt vom offenen Meer herüberweht.",
+                "hu": "A kikötő télen kevésbé zsúfolt; egy csősál kiválóan megvédi az arcát a nyílt tenger felől érkező metsző és hideg széltől a mólón tekerve.",
+                "ro": "Portul este mai puțin aglomerat iarna; un fular circular vă va proteja fața de vântul tăios care suflă direct dinspre marea liberă pe chei.",
+                "en": "The harbor is less crowded in winter; a neck warmer will protect your face from the biting wind blowing directly from the open sea along the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Breakwater Beach",
+                "hu": "Breakwater Strand",
+                "ro": "Plaja Breakwater",
+                "en": "Breakwater Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause mit Blick auf das raue Wintermeer; stellen Sie sicher, dass Ihre Fahrradlampe für den bevorstehenden frühen Sonnenuntergang bereit ist.",
+                "hu": "Tartson egy pihenőt a zord téli tenger látványában gyönyörködve; győződjön meg róla, hogy a biciklilámpák készen állnak a korai naplementére.",
+                "ro": "Faceți o pauză privind marea agitată de iarnă; asigurați-vă că luminile bicicletei sunt pregătite pentru apusul soarelui care vine foarte devreme.",
+                "en": "Take a break while overlooking the rough winter sea; make sure your bike lights are fully charged and ready for the impending early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Shoalstone Seawater Pool",
+                "hu": "Shoalstone Tengervizes Medence",
+                "ro": "Piscina cu Apă de Mare Shoalstone",
+                "en": "Shoalstone Seawater Pool"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Becken leer, bietet aber eine dramatische Kulisse für Fotos; warme Socken sind wichtig, da die Füße beim Stehen schnell auskühlen.",
+                "hu": "Télen a medence üres, de drámai hátteret biztosít a fotókhoz; viseljen meleg zoknit, mert a lábak megálláskor gyorsan kihűlhetnek a kövön.",
+                "ro": "Iarna piscina este goală, dar oferă un cadru dramatic pentru fotografii; șosetele groase sunt importante deoarece picioarele se răcesc rapid pe beton.",
+                "en": "In winter the pool is empty but provides a dramatic backdrop for photos; warm socks are vital as feet cool down quickly when standing on the stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Berry Head Nature Reserve",
+                "hu": "Berry Head Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Berry Head",
+                "en": "Berry Head Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zur Isle of Portland; die Klippenpfade können bei Frost glatt sein, fahren Sie daher langsam und vorausschauend.",
+                "hu": "Élvezze a tiszta kilátást akár a Portland-szigetig; a szikla menti utak fagyban csúszósak lehetnek, ezért tekerjen lassan és körültekintően.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la Insula Portland; potecile de pe faleză pot fi înghețate, așa că pedalați încet și cu multă atenție.",
+                "en": "Enjoy the clear views as far as the Isle of Portland; cliff paths can be icy in winter, so ride slowly and stay alert for frozen patches on the trail."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A reggel a történelmi Lupton House-ban indul, majd az Elberry-öböl elzárt szépségéhez vezet az út. Délben a festői Churston-öböl és a nyüzsgő Brixhami Kikötő várja. Délután a Berry Head Természetvédelmi Terület lenyűgöző parti panorámája következik. Az estét a Sharkham Point drámai szikláinál tett békés séta zárja a lemenő nap fényében.",
         "ro": "Dimineața începe la istorica Lupton House înainte de a conduce spre frumusețea retrasă din Elberry Cove. Amiaza vă aduce la pitoreasca Churston Cove și în centrul plin de viață al portului Brixham. După-amiaza trece la panoramele ample de la Berry Head. Seara se încheie cu o plimbare liniștită la apus pe stâncile dramatice de la Sharkham Point.",
         "en": "Morning begins at the historic Lupton House before driving to the secluded beauty of Elberry Cove. Midday brings you to the picturesque Churston Cove and the bustling center of Brixham Harbour. Afternoon shifts to the sweeping coastal panoramas at Berry Head Nature Reserve. Evening concludes with a peaceful sunset walk at the dramatic cliffs of Sharkham Point."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag beginnt gemütlich im historischen Lupton House. Mittags erkunden wir die versteckten Buchten, wo das graue Meer gegen die Klippen peitscht. Am Nachmittag bietet der Hafen eine warme Basis für Beobachtungen aus dem Auto. Den Abschluss bildet Sharkham Point; die Wolken hängen tief über den Felsen und sorgen für eine dramatische Atmosphäre im sicheren Wagen.",
+            "hu": "Az esős nap kényelmesen indul a történelmi Lupton House-ban. Délben a rejtett öblöket fedezzük fel, ahol a szürke tenger a szikláknak csapódik. Délután a kikötő meleg bázist nyújt a nézelődéshez az autóból. A napot Sharkham Point zárja; a felhők alacsonyan szállnak a sziklák felett, drámai hangulatot árasztva a biztonságos utastérből nézve.",
+            "ro": "O zi ploioasă începe confortabil la conacul istoric Lupton House. La prânz explorăm golfurile ascunse unde marea gri se lovește de stânci. După-amiaza portul oferă o bază caldă pentru observații din mașină. Finalul este la Sharkham Point; norii coboară jos peste stânci, creând o atmosferă dramatică văzută din vehicul.",
+            "en": "A rainy day starts comfortably inside the historic Lupton House. At noon, we explore hidden coves where the grey sea lashes against the cliffs. In the afternoon, the harbor provides a warm base for watching the boats from the car. The day ends at Sharkham Point; low clouds hang over the rocks, creating a dramatic atmosphere from the safety of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lupton House",
+                "hu": "Lupton House",
+                "ro": "Lupton House",
+                "en": "Lupton House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prachtvollen Innenräume weit weg vom Regen; Parkplätze befinden sich direkt am Haus, sodass Sie kaum nass werden beim Aussteigen.",
+                "hu": "Élvezze a pompás belső tereket távol az esőtől; a parkolók közvetlenül a ház mellett találhatók, így kiszálláskor alig éri majd nedvesség.",
+                "ro": "Bucurați-vă de interioarele splendide departe de ploaie; parcarea este chiar lângă casă, deci nu vă veți uda aproape deloc la coborâre.",
+                "en": "Enjoy the grand interiors far away from the rain; parking is available right by the house, so you will stay dry when moving from the car to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Elberry Cove",
+                "hu": "Elberry-öböl",
+                "ro": "Golful Elberry",
+                "en": "Elberry Cove"
+              },
+              "tip_5lang": {
+                "de": "Vom nahen Parkplatz führt ein kurzer, teils matschiger Weg zur Bucht; festes Schuhwerk ist nötig, um die Ruinen im Regen sicher zu erkunden.",
+                "hu": "A közeli parkolótól rövid, részben sáros út vezet az öbölhöz; hordjon bakancsot, hogy az esőben is biztonságosan felfedezhesse a parti romokat.",
+                "ro": "De la parcarea apropiată un drum scurt și noroios duce spre golf; încălțămintea solidă este necesară pentru a explora ruinele în siguranță pe ploaie.",
+                "en": "From the nearby car park, a short and partly muddy path leads to the cove; wear boots to explore the shoreline ruins safely during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Churston Cove",
+                "hu": "Churston-öböl",
+                "ro": "Golful Churston",
+                "en": "Churston Cove"
+              },
+              "tip_5lang": {
+                "de": "Die steile Zufahrt zum Parkplatz erfordert bei Nässe Vorsicht; der Blick auf das aufgewühlte Meer ist vom Klippenrand aus besonders imposant.",
+                "hu": "A parkolóhoz vezető meredek út óvatosságot igényel esőben; a felkavart tenger látványa a szikla széléről nézve különösen lenyűgöző és vad.",
+                "ro": "Drumul abrupt spre parcare necesită prudență pe carosabil umed; vederea mării agitate de pe marginea falezei este extrem de impresionantă în ploaie.",
+                "en": "The steep access road to the car park requires caution in wet weather; the view of the churning sea from the cliff edge is particularly impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Brixham Harbour",
+                "hu": "Brixhami Kikötő",
+                "ro": "Portul Brixham",
+                "en": "Brixham Harbour"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkhäuser direkt am Hafen, um trocken zu den Cafés zu gelangen; bei starkem Regen bietet das Auto den besten Panoramablick.",
+                "hu": "Használja a kikötő melletti parkolóházakat, hogy szárazon jusson a kávézókhoz; nagy esőben az autó nyújtja a legjobb panorámát a hullámokra.",
+                "ro": "Folosiți parcările etajate de lângă port pentru a ajunge uscat la cafenele; în caz de ploaie torențială, mașina oferă cea mai bună panoramă.",
+                "en": "Use the multi-storey car parks near the harbor to reach cafes while staying dry; during heavy rain, the car provides the best panoramic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Berry Head Nature Reserve",
+                "hu": "Berry Head Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Berry Head",
+                "en": "Berry Head Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz vor dem Wind; die schmale Straße zum Leuchtturm kann bei Starkregen kleine Wasserläufe aufweisen, fahren Sie langsam.",
+                "hu": "A látogatóközpont védelmet nyújt a szél elől; a világítótorony felé vezető keskeny úton esőben vízátfolyások lehetnek, vezessen lassan.",
+                "ro": "Centrul de vizitare oferă adăpost împotriva vântului; drumul îngust spre far poate avea scurgeri de apă în caz de ploaie, conduceți cu viteză redusă.",
+                "en": "The visitor center provides shelter from the wind; the narrow road to the lighthouse may have small streams during heavy rain, so drive slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Sharkham Point",
+                "hu": "Sharkham Point",
+                "ro": "Sharkham Point",
+                "en": "Sharkham Point"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf dem befestigten Parkplatz, um den Blick auf die Klippen zu genießen; die unbefestigten Wege sind bei Regen extrem schlammig und rutschig.",
+                "hu": "Maradjon a kiépített parkolóban, hogy élvezze a kilátást a sziklákra; a kiépítetlen ösvények esőben rendkívül sárosak és csúszósak lehetnek.",
+                "ro": "Rămâneți în parcarea amenajată pentru a vă bucura de vederea spre stânci; potecile neamenajate sunt extrem de noroioase și alunecoase pe ploaie.",
+                "en": "Stay in the designated parking area to enjoy the cliff views; the unpaved trails become extremely muddy and slippery during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt stilvoll im Lupton House. Mittags fahren wir zu den einsamen Buchten, wo der Frost die Kiesel weiß färbt. Am Nachmittag leuchtet der Hafen in festlichem Glanz unter der tiefen Sonne. Der Tag endet um 17 Uhr bei Sharkham Point; die Heizung im Auto sorgt für Gemütlichkeit, während draußen der eisige Wind über die Klippen fegt.",
+            "hu": "A tiszta téli reggel stílusosan indul a Lupton House-ban. Délben az elhagyatott öblökhöz hajtunk, ahol a dér fehéren csillog a kavicsokon. Délután a kikötő ünnepi fényben úszik az alacsonyan járó nap alatt. A nap ötkor zárul Sharkham Pointnál; az autó fűtése kényelmet ad, miközben kint jeges szél söpör végig a sziklákon.",
+            "ro": "O dimineață senină de iarnă începe cu stil la Lupton House. La prânz mergem spre golfurile solitare unde promoroaca albește pietrișul. După-amiaza portul strălucește sub soarele slab de iarnă. Ziua se încheie la ora 17 la Sharkham Point; căldura din mașină oferă confort în timp ce afară vântul înghețat mătură stâncile.",
+            "en": "A clear winter morning starts with style at Lupton House. At noon, we drive to the lonely coves where frost turns the pebbles white. In the afternoon, the harbor glows in the low sun's festive light. The day ends at 17:00 at Sharkham Point; the car heater provides comfort while the icy wind sweeps over the cliffs outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lupton House",
+                "hu": "Lupton House",
+                "ro": "Lupton House",
+                "en": "Lupton House"
+              },
+              "tip_5lang": {
+                "de": "Das Haus wirkt im Winterlicht besonders majestätisch; prüfen Sie die Batterie Ihres Wagens, da die Kälte die Anfahrt durch die Hügel erschweren kann.",
+                "hu": "A ház a téli fényben különösen fenséges látványt nyújt; ellenőrizze az autó akkumulátorát, mert a hideg megnehezítheti a dombokon való átjutást.",
+                "ro": "Casa arată deosebit de maiestuos în lumina iernii; verificați bateria mașinii deoarece frigul poate îngreuna pornirea în zonele deluroase.",
+                "en": "The house looks particularly majestic in the winter light; check your car battery as the cold can make the hilly approach more difficult for some vehicles."
+              }
+            },
+            {
+              "name": {
+                "de": "Elberry Cove",
+                "hu": "Elberry-öböl",
+                "ro": "Golful Elberry",
+                "en": "Elberry Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter herrlich leer und ruhig; tragen Sie eine warme Mütze, da der Weg vom Parkplatz zum Wasser sehr zugig sein kann.",
+                "hu": "Az öböl télen csodálatosan üres és csendes; viseljen meleg sapkát, mivel a parkolótól a partig vezető út nagyon huzatos és szeles lehet.",
+                "ro": "Golful este minunat de pustiu și liniștit iarna; purtați o căciulă groasă deoarece drumul de la parcare spre apă poate fi foarte expus curentului.",
+                "en": "The cove is wonderfully empty and peaceful in winter; wear a warm hat as the walk from the car park to the water can be very draughty and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Churston Cove",
+                "hu": "Churston-öböl",
+                "ro": "Golful Churston",
+                "en": "Churston Cove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das tiefblaue Wintermeer; der Abstieg zur Bucht kann bei Frost glatt sein, nutzen Sie das Geländer am Wegrand.",
+                "hu": "Élvezze a tágas kilátást a mélykék téli tengerre; az öbölhöz vezető lejtő fagyban csúszós lehet, használja az út menti korlátokat a biztonságért.",
+                "ro": "Bucurați-vă de vederea largă spre marea de iarnă de un albastru închis; coborârea spre golf poate fi înghețată, folosiți balustrada de pe margine.",
+                "en": "Enjoy the wide views over the deep blue winter sea; the descent to the cove can be icy, so use the handrails along the path for extra safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Brixham Harbour",
+                "hu": "Brixhami Kikötő",
+                "ro": "Portul Brixham",
+                "en": "Brixham Harbour"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenparkplatz bietet eine tolle Aussicht auf die festlichen Lichter; im Winter finden Sie hier meist problemlos einen Platz direkt an der Kaimauer.",
+                "hu": "A kikötői parkolóból remek kilátás nyílik az ünnepi fényekre; télen általában könnyen talál helyet közvetlenül a móló mentén is.",
+                "ro": "Parcarea din port oferă o vedere excelentă spre luminile festive; iarna veți găsi de obicei un loc fără probleme chiar lângă zidul cheiului.",
+                "en": "The harbor car park offers a great view of the festive lights; in winter you can usually find a space right by the quay wall without any trouble."
+              }
+            },
+            {
+              "name": {
+                "de": "Berry Head Nature Reserve",
+                "hu": "Berry Head Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Berry Head",
+                "en": "Berry Head Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Das Café im Inneren der Festung ist ein warmer Rückzugsort; achten Sie auf Glatteis auf der Zufahrtsstraße, die oft im Schatten der Mauern liegt.",
+                "hu": "Az erőd belsejében lévő kávézó meleg menedéket nyújt; ügyeljen a jegesedésre a bevezető úton, amely gyakran a falak árnyékában marad.",
+                "ro": "Cafeneaua din interiorul fortăreței este un refugiu cald; atenție la gheața de pe drumul de acces care rămâne adesea în umbra zidurilor înalte.",
+                "en": "The cafe inside the fort is a warm sanctuary; watch out for black ice on the access road which often stays in the shadow of the thick stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Sharkham Point",
+                "hu": "Sharkham Point",
+                "ro": "Sharkham Point",
+                "en": "Sharkham Point"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Wintersonnenuntergang direkt aus dem warmen Auto; die klare Winterluft ermöglicht oft eine Sicht bis zur Küste von Dorset.",
+                "hu": "Élje át a korai téli naplementét közvetlenül a meleg autóból; a tiszta téli levegőben gyakran egészen a dorseti partokig is el lehet látni.",
+                "ro": "Experimentați apusul de iarnă direct din mașina încălzită; aerul clar de iarnă permite adesea vizibilitate până la coasta îndepărtată din Dorset.",
+                "en": "Experience the early winter sunset directly from your warm car; the clear winter air often allows views as far as the distant Dorset coastline."
+              }
+            }
+          ]
+        }
       }
     }
   }

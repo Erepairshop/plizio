@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a nyüzsgő Forum Constantin téren, hogy felszívja a helyi hangulatot és megcsodálja a templomot.\n\nDélben hagyja el a falut, és induljon az ősi romok felé, hogy felfedezze a régió történelmi gyökereit.\n\nDélután élvezze a természetet a védett partvidéki rezervátumokban, ahol a buja növényzet találkozik a tengerrel.\n\nZárja a napot a Debarquement Beach történelmi partjainál, megcsodálva a tenger feletti lenyűgöző naplementét.",
         "ro": "Începeți plimbarea la vibrantul Forum Constantin, absorbind atmosfera locală înainte de a admira biserica.\n\nLa prânz, coborâți din centrul satului spre ruinele antice, explorând rădăcinile istorice profunde ale regiunii.\n\nDupă-amiaza, conectați-vă cu natura în rezervațiile de coastă protejate, unde biodiversitatea întâlnește marea.\n\nÎncheiați călătoria pe țărmurile istorice ale plajei Debarquement, urmărind un apus superb peste apele mării.",
         "en": "Start your stroll at the bustling Forum Constantin, absorbing the local vibe before admiring the nearby church.\n\nMidday leads you from the village center towards ancient ruins, exploring the region's deep historical roots.\n\nIn the afternoon, connect with nature at the protected coastal reserves, where lush biodiversity meets the azure sea.\n\nConclude your journey on the historic shores of Debarquement Beach, watching a beautiful sunset over the calm waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt unter den Arkaden des Forums, wo man den Regen beobachten kann. Mittags bietet die Kirche Sainte-Croix einen trockenen und besinnlichen Rückzugsort. Am Nachmittag führt der Weg durch die duftende, nasse Natur von Pardigon bis zur Küste. Der Abend endet mit einem dramatischen Blick auf das stürmische Meer am Strand, bevor die Dämmerung einsetzt.",
+            "hu": "A reggel a Forum árkádjai alatt indul, védve az esőtől. Délben az Église Sainte-Croix belső tere kínál száraz és csendes pihenőt a túrázóknak. Délután a friss, esőáztatta Pardigon tanösvényein sétálunk a tenger felé, ahol a növények illata ilyenkor a legintenzívebb. Az este a viharos tenger látványával zárul a parton, miközben az esőfelhők elvonulnak a horizonton.",
+            "ro": "Dimineața începe sub arcadele Forumului, oferind adăpost împotriva stropilor de ploaie. La prânz, biserica Sainte-Croix devine un refugiu uscat și liniștit pentru reflecție. După-amiaza, plimbarea continuă prin natura parfumată și umedă din Pardigon spre coastă. Seara se încheie cu o priveliște dramatică a mării agitate pe plajă, înainte ca întunericul să se lase peste oraș.",
+            "en": "The morning starts protected under the Forum's arcades, watching the raindrops fall. At noon, the Sainte-Croix church provides a dry and peaceful retreat. In the afternoon, the path leads through the fragrant, wet nature of Pardigon towards the coast. The evening ends with a dramatic view of the stormy sea at the beach, just as the grey clouds start to settle over the horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forum Constantin",
+                "hu": "Forum Constantin",
+                "ro": "Forum Constantin",
+                "en": "Forum Constantin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Platzes, um die Architektur trocken zu bewundern; feste Wanderschuhe sind auf dem nassen Pflaster heute unverzichtbar.",
+                "hu": "Használd ki a tér fedett részeit az építészet megcsodálásához; a nedves macskakövön ma elengedhetetlen a csúszásmentes talpú túracipő viselése.",
+                "ro": "Folosiți zonele acoperite ale pieței pentru a admira arhitectura fără a vă uda; încălțămintea aderentă este esențială pe pavajul ud de astăzi.",
+                "en": "Use the covered areas of the square to admire the architecture while staying dry; non-slip hiking shoes are essential on the wet pavement today."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet perfekten Schutz vor Schauern; nutzen Sie die Ruhe für eine Besichtigung und schütteln Sie Ihren Regenschirm vor dem Eintreten gut ab.",
+                "hu": "A templombelső tökéletes menedéket nyújt a záporok elől; használd ki a csendet a nézelődésre, de belépés előtt alaposan rázd le az esernyődet.",
+                "ro": "Interiorul bisericii oferă protecție perfectă împotriva ploii; profitați de liniște pentru vizitare și scuturați bine umbrela înainte de a intra.",
+                "en": "The interior offers perfect shelter from the showers; use the quiet time for sightseeing and shake your umbrella thoroughly before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Pardigon",
+                "hu": "Pardigon",
+                "ro": "Pardigon",
+                "en": "Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Ruinen wirken im Regen besonders mystisch; achten Sie auf rutschige Steine und tragen Sie eine hochwertige wasserdichte Regenjacke.",
+                "hu": "A történelmi romok az esőben különösen misztikus látványt nyújtanak; vigyázz a csúszós kövekre és viselj kiváló minőségű, vízhatlan esőkabátot.",
+                "ro": "Ruinele istorice par mistice în ploaie; aveți grijă la pietrele alunecoase și purtați o jachetă de ploaie impermeabilă de înaltă calitate.",
+                "en": "The historical ruins look particularly mystical in the rain; watch out for slippery stones and wear a high-quality waterproof rain jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Site Naturel Remarquable de Pardigon",
+                "hu": "Site Naturel Remarquable de Pardigon",
+                "ro": "Site Naturel Remarquable de Pardigon",
+                "en": "Site Naturel Remarquable de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Der Duft der Pinien ist bei Feuchtigkeit intensiver; bleiben Sie auf den befestigten Wegen, da die sandigen Pfade jetzt sehr schlammig sein können.",
+                "hu": "A fenyők illata sokkal erősebb a párás levegőben; maradj a kijelölt utakon, mert a homokos ösvények mostanra nagyon sárossá válhattak.",
+                "ro": "Parfumul pinilor este mai intens în aerul umed; rămâneți pe potecile marcate, deoarece drumurile de nisip pot fi foarte noroioase acum.",
+                "en": "The scent of pines is much stronger in the damp air; stay on the marked paths as the sandy trails can become very muddy during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Debarquement Beach",
+                "hu": "Debarquement Beach",
+                "ro": "Debarquement Beach",
+                "en": "Debarquement Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von einer geschützten Bank aus; die feuchte Meeresbrise ist gesund, erfordert aber einen guten Windschutz.",
+                "hu": "Figyeld a szürke tengert egy védett padról; a nedves tengeri szellő egészséges, de ilyenkor szükséged lesz egy jó szélálló rétegre is.",
+                "ro": "Observați marea gri de pe o bancă adăpostită; briza umedă a mării este sănătoasă, dar necesită o protecție bună împotriva vântului.",
+                "en": "Watch the grey sea from a sheltered bench; the damp sea breeze is healthy but requires a good wind-resistant outer layer to stay warm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Forum weckt die Geister. Mittags wärmt die tiefstehende Sonne die Fassade der Kirche Sainte-Croix. Der Nachmittagsspaziergang durch Pardigon profitiert vom klaren, goldenen Licht des Winters. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den Strand pünktlich zum spektakulären Abendrot, bevor die Kälte anzieht.",
+            "hu": "A friss téli reggel a Forumon azonnal felébreszt. Délben az alacsonyan járó nap sugarai kellemesen melegítik az Église Sainte-Croix homlokzatát. A délutáni séta Pardigonban a tiszta, téli fényekben a legszebb. Mivel a nap 17:00 körül nyugszik, pontosan a látványos alkonyatra érünk a partra, mielőtt a levegő hirtelen lehűlne.",
+            "ro": "O dimineață răcoroasă de iarnă la Forum trezește toate simțurile. La prânz, soarele blând încălzește fațada bisericii Sainte-Croix. Plimbarea de după-amiază prin Pardigon beneficiază de lumina aurie și clară a iernii. Deoarece soarele apune în jur de ora 17:00, ajungem pe plajă exact la timp pentru amurg, înainte de frig.",
+            "en": "A crisp winter morning at the Forum wakes up your senses. At noon, the low winter sun warmly lights up the facade of Sainte-Croix. The afternoon walk through Pardigon benefits from the clear, golden winter light. Since sunset is around 17:00, we reach the beach just in time for the spectacular twilight before the cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forum Constantin",
+                "hu": "Forum Constantin",
+                "ro": "Forum Constantin",
+                "en": "Forum Constantin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf dem belebten Platz; tragen Sie eine warme Mütze, da der Wind in den Gassen oft kühler weht als erwartet.",
+                "hu": "Élvezd a tiszta téli levegőt a nyüzsgő téren; viselj meleg sapkát, mert a sikátorokban a szél gyakran hűvösebb, mint azt elsőre gondolnád.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în piața animată; purtați o căciulă călduroasă, deoarece vântul pe străduțe este adesea mai rece decât pare.",
+                "en": "Enjoy the clear winter air in the busy square; wear a warm hat as the wind in the alleys is often colder than you might expect."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; ein kurzer Besuch ist ideal, aber behalten Sie Ihren Mantel an, um im Inneren nicht auszukühlen.",
+                "hu": "A vastag falak ilyenkor tartják a hideget; a rövid látogatás ideális, de tartsd magadon a kabátodat, hogy ne fázz meg a belső térben.",
+                "ro": "Zidurile groase rețin frigul; o vizită scurtă este ideală, dar păstrați haina pe voi pentru a nu îngheța în interiorul răcoros.",
+                "en": "The thick stone walls retain the winter cold; a short visit is ideal, but keep your coat on to stay warm inside the cool interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pardigon",
+                "hu": "Pardigon",
+                "ro": "Pardigon",
+                "en": "Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen sind im Winter ohne Laub besser sichtbar; nutzen Sie das weiche Licht für Fotos, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "Az antik romok télen, lombkorona nélkül jobban láthatóak; használd ki a lágy fényeket a fotózáshoz, mielőtt kora délután megnyúlnának az árnyékok.",
+                "ro": "Ruinele antice sunt mai vizibile iarna fără frunziș; folosiți lumina blândă pentru fotografii înainte ca umbrele să se lungească devreme.",
+                "en": "The ancient ruins are more visible in winter without the leaves; take advantage of the soft light for photos before shadows lengthen early."
+              }
+            },
+            {
+              "name": {
+                "de": "Site Naturel Remarquable de Pardigon",
+                "hu": "Site Naturel Remarquable de Pardigon",
+                "ro": "Site Naturel Remarquable de Pardigon",
+                "en": "Site Naturel Remarquable de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Die Natur wirkt in der Winterruhe besonders friedlich; tragen Sie feste Stiefel, um Ihre Füße vor der Bodenkälte auf den Naturpfaden zu schützen.",
+                "hu": "A természet a téli nyugalomban különösen békés arcát mutatja; viselj bélelt bakancsot, hogy megvédd a lábadat a talaj felől érkező hidegtől.",
+                "ro": "Natura pare extrem de liniștită în somnul de iarnă; purtați ghete solide pentru a vă proteja picioarele de frigul solului pe poteci.",
+                "en": "Nature looks peaceful in its winter rest; wear sturdy boots to protect your feet from the ground cold while walking on the natural trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Debarquement Beach",
+                "hu": "Debarquement Beach",
+                "ro": "Debarquement Beach",
+                "en": "Debarquement Beach"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 17:00 Uhr für den Sonnenuntergang; nehmen Sie eine Thermoskanne mit Tee mit, um die Aussicht warm zu genießen.",
+                "hu": "Érj ki a partra 17:00 előtt a naplemente megtekintéséhez; vigyél magaddal egy termosz meleg teát, hogy átfagyás nélkül élvezhesd a látványt.",
+                "ro": "Ajungeți pe plajă înainte de ora 17:00 pentru apus; luați un termos cu ceai cald pentru a savura priveliștea fără a vă fi frig.",
+                "en": "Reach the beach before 17:00 to catch the sunset; bring a thermos of hot tea to enjoy the view comfortably as the temperature drops."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a túrát a szárazföld belsejében, felfedezve egy történelmi kőbánya vad szépségét és egy rejtett kápolnát.\n\nPedálozzon a part felé, elmerülve a festői mediterrán tájat formáló lenyűgöző római történelemben.\n\nKerékpározzon a lélegzetelállító természeti rezervátumok mentén, eljutva a védett parkoktól a napsütötte strandokig.\n\nZárja aktív napját a Bouillabaisse gyönyörű partjainál, élvezve a tengerparti naplementét a visszaindulás előtt.",
         "ro": "Începeți plimbarea spre interior pentru a descoperi frumusețea unei cariere istorice și a unei capele ascunse senine.\n\nPedalați spre coastă, aprofundând istoria romană fascinantă care a modelat acest peisaj mediteranean pitoresc.\n\nMergeți de-a lungul rezervațiilor naturale uluitoare, trecând de la parcurile protejate la plajele moi și însorite.\n\nÎncheiați ziua activă relaxându-vă pe țărmurile frumoase de la Bouillabaisse, bucurându-vă de apus înainte de a vă întoarce.",
         "en": "Kick off your ride heading inland to discover the rugged beauty of a historic serpentine quarry and a serene hidden chapel.\n\nPedal towards the coast, delving into the fascinating Roman history that shaped this picturesque Mediterranean landscape.\n\nRide along the breathtaking natural reserves, smoothly transitioning from protected parklands to soft, sun-drenched beaches.\n\nEnd your active day stretching out along the beautiful shores of Bouillabaisse, enjoying a coastal sunset before cycling back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt vorsichtig auf nassen Straßen in Richtung Steinbruch. Mittags führt die Fahrt zur Kapelle Pardigon, wobei man auf spritzendes Wasser achten muss. Der Nachmittag wird anspruchsvoll auf den aufgeweichten Wegen des Naturreservats. Am Abend erreichen wir die Strände, wo der Wind kräftig weht, bevor wir die Tour sicher und durchnässt beenden.",
+            "hu": "A reggel óvatos haladással indul a vizes utakon a bánya felé. Délben a Pardigon kápolnához tekerünk, figyelve a felcsapódó vízre és a pocsolyákra. A délután kihívást jelent a természetvédelmi terület felázott ösvényein. Este érjük el a partokat, ahol a szél felerősödik, mielőtt biztonságban, de alaposan megázva befejeznénk a túrát.",
+            "ro": "Dimineața începe cu prudență pe drumurile ude spre carieră. La prânz, pedalăm spre capela Pardigon, atenți la apa ce sare de pe asfalt. După-amiaza devine o provocare pe potecile noroioase ale rezervației naturale. Seara ajungem la plaje, unde vântul suflă cu putere, înainte de a încheia turul în siguranță, dar uzi.",
+            "en": "The morning starts cautiously on wet roads heading towards the quarry. At noon, we cycle to the Pardigon chapel, being careful of splashing water and puddles. The afternoon is challenging on the soaked paths of the nature reserve. In the evening, we reach the beaches where the wind picks up, before finishing the tour safely but quite wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancienne Carrière de Serpentinite",
+                "hu": "Ancienne Carrière de Serpentinite",
+                "ro": "Ancienne Carrière de Serpentinite",
+                "en": "Ancienne Carrière de Serpentinite"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier sehr schlammig und rutschig sein; prüfen Sie Ihre Bremsen vor der Abfahrt und fahren Sie langsam in die Kurven.",
+                "hu": "A talaj itt nagyon sáros és csúszós lehet; ellenőrizd a fékeidet az indulás előtt, és haladj lassan a kanyarokban a biztonságodért.",
+                "ro": "Solul poate fi foarte noroios și alunecos aici; verificați frânele înainte de plecare și abordați curbele cu viteză redusă pentru siguranță.",
+                "en": "The ground here can be very muddy and slippery; check your brakes before departure and take corners slowly for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "chapelle pardigon",
+                "hu": "chapelle pardigon",
+                "ro": "chapelle pardigon",
+                "en": "chapelle pardigon"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter dem Vordach schützt vor dem Schauer; tragen Sie eine neongelbe Regenweste, um bei schlechter Sicht gesehen zu werden.",
+                "hu": "Egy rövid megálló az előtető alatt megvéd a záportól; viselj fényvisszaverő esőmellényt, hogy rossz látási viszonyok mellett is észrevegyenek.",
+                "ro": "O oprire scurtă sub streșină vă protejează de ploaie; purtați o vestă reflectorizantă pentru a fi vizibili în condiții de vizibilitate redusă.",
+                "en": "A short stop under the overhang protects you from the shower; wear a high-visibility rain vest to be seen in poor light conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Pardigon",
+                "hu": "Pardigon",
+                "ro": "Pardigon",
+                "en": "Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig und bietet wenig Schutz; Schutzbleche am Fahrrad sind heute ein Muss, um die Kleidung vor Schmutz zu bewahren.",
+                "hu": "A terep tágas és kevés menedéket nyújt; a sárvédő használata ma kötelező, hogy megóvja a ruházatodat a felcsapódó kosztól.",
+                "ro": "Terenul este vast și oferă puțin adăpost; aripile la bicicletă sunt obligatorii astăzi pentru a vă proteja hainele de murdărie.",
+                "en": "The terrain is open with little shelter; mudguards are a must today to keep your clothes clean from the splashing dirt and mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Site Naturel Remarquable de Pardigon",
+                "hu": "Site Naturel Remarquable de Pardigon",
+                "ro": "Site Naturel Remarquable de Pardigon",
+                "en": "Site Naturel Remarquable de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Der Untergrund wechselt oft zwischen Sand und Fels; reduzieren Sie den Reifendruck leicht für besseren Grip auf dem nassen Naturpfad.",
+                "hu": "A talaj gyakran változik a homok és a szikla között; csökkentsd kicsit a guminyomást a jobb tapadásért a nedves erdei utakon.",
+                "ro": "Suprafața se schimbă des între nisip și stâncă; reduceți ușor presiunea în pneuri pentru o aderență mai bună pe poteca umedă.",
+                "en": "The surface often changes between sand and rock; slightly reduce tire pressure for better grip on the wet natural trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Debarquement Beach",
+                "hu": "Debarquement Beach",
+                "ro": "Debarquement Beach",
+                "en": "Debarquement Beach"
+              },
+              "tip_5lang": {
+                "de": "Starker Seitenwind kann das Radfahren erschweren; halten Sie den Lenker fest und meiden Sie die direkt am Wasser gelegenen, sandigen Abschnitte.",
+                "hu": "Az erős oldalszél megnehezítheti a biciklizést; fogd erősen a kormányt és kerüld a közvetlenül a vízparti, homokos szakaszokat.",
+                "ro": "Vântul lateral puternic poate îngreuna pedalatul; țineți strâns ghidonul și evitați secțiunile nisipoase direct de lângă apă.",
+                "en": "Strong crosswinds can make cycling difficult; grip the handlebars firmly and avoid the sandy sections directly by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Bouillabaisse",
+                "hu": "Plage de la Bouillabaisse",
+                "ro": "Plage de la Bouillabaisse",
+                "en": "Plage de la Bouillabaisse"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel ist erreicht, suchen Sie sich ein nahes Café zum Aufwärmen; reinigen Sie die Kette nach der Tour gründlich vom Salz und Sand.",
+                "hu": "A célba értél, keress egy közeli kávézót a felmelegedéshez; a túra után alaposan tisztítsd meg a láncot a ráragadt sótól és homoktól.",
+                "ro": "Ați ajuns la destinație, căutați o cafenea pentru a vă încălzi; curățați bine lanțul după tur de sare și nisipul depus.",
+                "en": "The goal is reached, find a nearby cafe to warm up; clean your chain thoroughly after the tour to remove salt and sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Fahrt zum Steinbruch ein, wobei Handschuhe gegen den Fahrtwind nötig sind. Mittags genießen wir die Sonne an der Kapelle Pardigon. Da es am Nachmittag schnell kühler wird, nutzen wir das goldene Licht in der Natur effizient. Um 17:00 Uhr endet die Tour am Strand im Sonnenuntergang, bevor die winterliche Nacht einbricht.",
+            "hu": "A tiszta téli reggel hívogató a bányához, de a menetszél ellen kesztyűre lesz szükség. Délben a Pardigon kápolnánál élvezzük a napsütést. Mivel délután gyorsan hűl a levegő, hatékonyan használjuk ki az aranyló fényeket a természetben. 17:00-kor a túra a parton ér véget a naplementében, mielőtt beállna a téli éjszaka.",
+            "ro": "O dimineață senină de iarnă invită la o tură spre carieră, dar mănușile sunt necesare împotriva vântului. La prânz savurăm soarele la capela Pardigon. Deoarece se răcește rapid după-amiaza, folosim eficient lumina aurie în natură. La ora 17:00 turul se încheie pe plajă la apus, înainte de noaptea geroasă.",
+            "en": "A clear winter morning invites a ride to the quarry, but gloves are necessary against the biting wind. At noon, we enjoy the sun at Pardigon chapel. As it cools down quickly in the afternoon, we use the golden light in nature efficiently. By 17:00, the tour ends at the beach in the sunset, before the winter night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancienne Carrière de Serpentinite",
+                "hu": "Ancienne Carrière de Serpentinite",
+                "ro": "Ancienne Carrière de Serpentinite",
+                "en": "Ancienne Carrière de Serpentinite"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen wirken im Winter besonders schroff; tragen Sie Windstopper-Kleidung, da es am Steinbruch durch die Thermik sehr zugig sein kann.",
+                "hu": "A sziklák télen különösen zordnak tűnnek; viselj szélálló ruházatot, mert a bányánál a termikus hatások miatt nagyon huzatos lehet az idő.",
+                "ro": "Stâncile par deosebit de aspre iarna; purtați haine rezistente la vânt, deoarece la carieră poate fi curent din cauza termicii locale.",
+                "en": "The rocks look particularly rugged in winter; wear windstopper clothing as it can be very drafty at the quarry due to local thermals."
+              }
+            },
+            {
+              "name": {
+                "de": "chapelle pardigon",
+                "hu": "chapelle pardigon",
+                "ro": "chapelle pardigon",
+                "en": "chapelle pardigon"
+              },
+              "tip_5lang": {
+                "de": "Ein sonniges Plätzchen an der Kapelle ist ideal für eine Pause; achten Sie darauf, nicht zu lange zu stehen, um nicht auszukühlen.",
+                "hu": "A kápolna melletti napos hely ideális egy rövid szünetre; vigyázz, ne állj meg túl hosszú időre, nehogy túlságosan lehűljön a tested.",
+                "ro": "Un loc însorit lângă capelă este ideal pentru o pauză; aveți grijă să nu stați prea mult timp nemișcați pentru a nu vă răci corpul.",
+                "en": "A sunny spot by the chapel is ideal for a break; be careful not to stay stationary for too long to avoid getting chilled by the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pardigon",
+                "hu": "Pardigon",
+                "ro": "Pardigon",
+                "en": "Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter lichter, was weite Ausblicke ermöglicht; kontrollieren Sie Ihr Fahrradlicht für den Rückweg in der frühen Dämmerung.",
+                "hu": "A növényzet télen ritkásabb, ami tágas kilátást tesz lehetővé; ellenőrizd a biciklilámpáidat a korai szürkületben való visszatéréshez.",
+                "ro": "Vegetația este mai rară iarna, permițând vederi largi; verificați luminile bicicletei pentru drumul de întoarcere în amurgul timpuriu.",
+                "en": "The vegetation is sparser in winter, allowing for wide views; check your bike lights for the return journey in the early twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Site Naturel Remarquable de Pardigon",
+                "hu": "Site Naturel Remarquable de Pardigon",
+                "ro": "Site Naturel Remarquable de Pardigon",
+                "en": "Site Naturel Remarquable de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist oft hart gefroren, was das Fahren erleichtert; Schichten aus Merinowolle halten Sie auf den schattigen Waldwegen warm.",
+                "hu": "A talaj gyakran keményre fagyott, ami megkönnyíti a haladást; a merinó gyapjú rétegek melegen tartanak az árnyékos erdei utakon is.",
+                "ro": "Solul este adesea înghețat, ceea ce ușurează pedalatul; straturile de lână merinos vă vor ține de cald pe potecile umbrite din pădure.",
+                "en": "The ground is often frozen hard, making cycling easier; merino wool layers will keep you warm on the shaded forest paths today."
+              }
+            },
+            {
+              "name": {
+                "de": "Debarquement Beach",
+                "hu": "Debarquement Beach",
+                "ro": "Debarquement Beach",
+                "en": "Debarquement Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich tief im Meer; tragen Sie eine Sonnenbrille, um die Reflexionen auf dem Wasser ohne Blendung zu genießen.",
+                "hu": "A téli nap alacsonyan tükröződik a tengeren; viselj napszemüveget, hogy vakítás nélkül élvezhesd a vízről visszaverődő fényeket.",
+                "ro": "Soarele de iarnă se reflectă jos în mare; purtați ochelari de soare pentru a savura reflexiile pe apă fără a fi orbiți de lumină.",
+                "en": "The winter sun reflects low on the sea surface; wear sunglasses to enjoy the water reflections without being dazzled by the glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Bouillabaisse",
+                "hu": "Plage de la Bouillabaisse",
+                "ro": "Plage de la Bouillabaisse",
+                "en": "Plage de la Bouillabaisse"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr; ziehen Sie sofort trockene Kleidung an, sobald Sie aufgehört haben zu treten.",
+                "hu": "Fejezd be a túrát pontosan a 17:00-s naplementére; amint abbahagytad a tekerést, azonnal vegyél fel száraz és meleg ruhát.",
+                "ro": "Încheiați turul la timp pentru apusul de la ora 17:00; schimbați-vă imediat cu haine uscate odată ce ați încetat să pedalați.",
+                "en": "Finish the tour in time for the 17:00 sunset; put on dry clothes immediately once you stop pedaling to prevent catching a cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje autós utazását a főváros építészeti látványosságaival, mielőtt a szárazföld lenyűgöző nevezetességei felé venné az irányt.\n\nVezessen a tengerparti síkságra, hogy felfedezze a régió gazdag múltjáról mesélő jelentős történelmi romokat.\n\nAz utazás csodálatos természetvédelmi területeken folytatódik, ahol egyenesen a történelmi partraszállások homokjára léphet.\n\nFejezze be átfogó túráját a félreeső Plage du Vergeron strandján, élvezve a csendes esti tengeri horizontot a visszatérés előtt.",
         "ro": "Începeți călătoria cu atracțiile arhitecturale ale orașului principal înainte de a conduce spre reperele din interior.\n\nConduceți spre câmpiile de coastă pentru a descoperi ruine antice, explorând locuri care povestesc trecutul bogat al zonei.\n\nTraseul continuă în rezervații naturale magnifice, unde puteți parca și păși direct pe nisipurile debarcărilor istorice.\n\nTerminați turul cuprinzător la izolata Plage du Vergeron, bucurându-vă de orizonturile pașnice ale mării pe timp de seară.",
         "en": "Start your road trip with the architectural highlights of the main town before driving towards the intriguing inland landmarks.\n\nDrive to the coastal plains to uncover significant ancient ruins, hopping between sites that narrate the area's rich past.\n\nThe journey continues into magnificent natural reserves, where you can park and step right onto sands of historical landings.\n\nFinish your comprehensive tour cruising to the secluded Plage du Vergeron, enjoying peaceful evening sea horizons."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt bequem im Auto mit dem Besuch des Forums. Mittags erreichen wir die Kirche, wobei das Auto als trockene Basis dient. Am Nachmittag erkunden wir die historischen Stätten und Steinbrüche, immer bereit für kurze Sprints zwischen Wagen und Sehenswürdigkeit. Der Abend klingt sicher an den stürmischen Küstenabschnitten aus.",
+            "hu": "Az esős reggel kényelmesen, az autóban kezdődik a Forum meglátogatásával. Délben a templomhoz érünk, az autó pedig száraz bázisként szolgál. Délután a történelmi helyszíneket és bányákat fedezzük fel, felkészülve a rövid sprintekre a kocsi és a látnivalók között. Az este biztonságban zárul a viharos tengerparti szakaszokon.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină cu vizitarea Forumului. La prânz ajungem la biserică, mașina servind drept bază uscată. După-amiaza explorăm siturile istorice și carierele, pregătiți pentru sprinturi scurte între mașină și obiective. Seara se încheie în siguranță pe secțiunile de coastă bătute de furtună.",
+            "en": "A rainy morning starts comfortably in the car visiting the Forum. At noon we reach the church, with the car serving as a dry base. In the afternoon we explore the historical sites and quarries, ready for short sprints between the vehicle and the sights. The evening ends safely at the stormy coastal sections watching the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forum Constantin",
+                "hu": "Forum Constantin",
+                "ro": "Forum Constantin",
+                "en": "Forum Constantin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Forum, um den Regen zu meiden; nutzen Sie die Zeit im Wagen, um die Route für die nächsten nassen Stopps zu planen.",
+                "hu": "Parkolj közel a Forumhoz, hogy elkerüld az esőt; használd ki az autóban töltött időt a következő vizes állomások útvonalának megtervezésére.",
+                "ro": "Parcați aproape de Forum pentru a evita ploaia; folosiți timpul în mașină pentru a planifica ruta pentru următoarele opriri umede.",
+                "en": "Park close to the Forum to avoid the rain; use the time in the car to plan the route for the next wet stops ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist direkt möglich, ideal bei Schauern; lassen Sie nasse Mäntel im Kofferraum, um die Feuchtigkeit nicht in den Innenraum zu bringen.",
+                "hu": "A megközelítés közvetlen, ami záporok esetén ideális; hagyd a vizes kabátokat a csomagtartóban, hogy ne vigyél be párát az utastérbe.",
+                "ro": "Accesul este direct, ideal în caz de averse; lăsați hainele ude în portbagaj pentru a nu aduce umiditate în interiorul mașinii.",
+                "en": "Direct access is possible, which is ideal during showers; leave wet coats in the trunk to keep humidity out of the car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Carrière de Serpentinite",
+                "hu": "Ancienne Carrière de Serpentinite",
+                "ro": "Ancienne Carrière de Serpentinite",
+                "en": "Ancienne Carrière de Serpentinite"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen rutschig sein; fahren Sie vorsichtig und achten Sie auf Pfützen, die tiefer sein könnten, als sie scheinen.",
+                "hu": "A felhajtó heves esőzéskor csúszós lehet; vezess óvatosan és ügyelj a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek látszanak.",
+                "ro": "Accesul poate fi alunecos în caz de ploi torențiale; conduceți cu atenție și feriți-vă de bălțile care pot fi mai adânci decât par.",
+                "en": "The access road can be slippery during heavy rain; drive carefully and watch out for puddles that might be deeper than they look."
+              }
+            },
+            {
+              "name": {
+                "de": "chapelle pardigon",
+                "hu": "chapelle pardigon",
+                "ro": "chapelle pardigon",
+                "en": "chapelle pardigon"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist direkt vom Parkplatz aus möglich; halten Sie ein Mikrofasertuch bereit, um die Kameralinse nach dem Einsatz zu trocknen.",
+                "hu": "Egy gyors fotómegálló közvetlenül a parkolóból is lehetséges; tarts kéznél egy mikroszálas kendőt a kamera lencséjének megszárításához használat után.",
+                "ro": "O oprire rapidă pentru fotografii este posibilă direct din parcare; aveți la îndemână o cârpă din microfibră pentru a usca lentila camerei.",
+                "en": "A quick photo stop is possible directly from the parking lot; keep a microfiber cloth handy to dry your camera lens after use."
+              }
+            },
+            {
+              "name": {
+                "de": "Pardigon",
+                "hu": "Pardigon",
+                "ro": "Pardigon",
+                "en": "Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem trockenen Fahrzeug; benutzen Sie die Sitzheizung, um sich nach kurzen Erkundungsgängen schnell aufzuwärmen.",
+                "hu": "Élvezd a panorámát a száraz gépjárműből; használd az ülésfűtést a gyors felmelegedéshez a rövid kinti felfedezőutak után.",
+                "ro": "Bucurați-vă de panoramă din vehiculul uscat; folosiți încălzirea în scaune pentru a vă încălzi rapid după scurtele explorări de afară.",
+                "en": "Enjoy the panoramic view from inside your dry vehicle; use the seat heaters to warm up quickly after short exploration walks outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Site Naturel Remarquable de Pardigon",
+                "hu": "Site Naturel Remarquable de Pardigon",
+                "ro": "Site Naturel Remarquable de Pardigon",
+                "en": "Site Naturel Remarquable de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Grund, um nicht im Schlamm steckenzubleiben; wasserfeste Fußmatten schützen den Wagenboden vor nassem Sand und Erde.",
+                "hu": "Parkolj szilárd talajon, hogy ne akadj el a sárban; a vízálló gumiszőnyegek megvédik az autó padlóját a nedves homoktól és földtől.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocați în noroi; covorașele impermeabile protejează podeaua mașinii de nisipul ud și pământ.",
+                "en": "Park on solid ground to avoid getting stuck in the mud; waterproof floor mats will protect the car's interior from wet sand and soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Debarquement Beach",
+                "hu": "Debarquement Beach",
+                "ro": "Debarquement Beach",
+                "en": "Debarquement Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresgischt kann Salz auf die Windschutzscheibe bringen; nutzen Sie die Scheibenwaschanlage großzügig für eine klare Sicht auf die Brandung.",
+                "hu": "A tengeri permet sót hagyhat a szélvédőn; használd bőségesen az ablakmosót, hogy tiszta rálátásod legyen a hullámzó tengerre.",
+                "ro": "Aerosolii marini pot lăsa sare pe parbriz; folosiți din abundență lichidul de parbriz pentru o vedere clară asupra valurilor.",
+                "en": "Sea spray can leave salt on the windshield; use the windshield washer generously for a clear view of the crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Vergeron",
+                "hu": "Plage du Vergeron",
+                "ro": "Plage du Vergeron",
+                "en": "Plage du Vergeron"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit Meerblick für das Abendessen im Auto; achten Sie beim Aussteigen auf Windböen, die die Türen aufreißen könnten.",
+                "hu": "Keress tengerre néző parkolóhelyet az autóban elfogyasztott vacsorához; kiszálláskor ügyelj a széllökésekre, amelyek feltéphetik az ajtókat.",
+                "ro": "Căutați un loc de parcare cu vedere la mare pentru cina în mașină; la coborâre, atenție la rafalele de vânt care pot smulge portierele.",
+                "en": "Find a parking spot with a sea view for dinner in the car; watch out for wind gusts that could jerk the doors open when exiting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintermorgen beginnt mit einer Panoramafahrt zum Forum. Mittags wärmt uns das Auto zwischen den kulturellen Stopps an der Kirche und dem Steinbruch. Der Nachmittag bietet spektakuläre Ausblicke im klaren Licht, während wir bequem von Ort zu Ort fahren. Pünktlich um 17:00 Uhr erleben wir den Sonnenuntergang am Vergeron-Strand, bevor die Kälte einsetzt.",
+            "hu": "A napsütéses téli reggel panorámás autózással indul a Forum felé. Délben az autó melege vár minket a templom és a bánya megtekintése között. A délután látványos kilátást kínál a tiszta fényekben, miközben kényelmesen közlekedünk a helyszínek között. Pontosan 17:00-kor élvezzük a naplementét a Vergeron-parton, mielőtt beállna a fagy.",
+            "ro": "O dimineață însorită de iarnă începe cu o tură panoramică spre Forum. La prânz, căldura mașinii ne așteaptă între vizitele la biserică și carieră. După-amiaza oferă vederi spectaculoase în lumina clară, în timp ce circulăm confortabil. La ora 17:00 fix savurăm apusul pe plaja Vergeron, înainte să se lase gerul.",
+            "en": "A sunny winter morning starts with a scenic drive to the Forum. At noon, the warmth of the car awaits us between cultural stops at the church and the quarry. The afternoon offers spectacular views in the clear light as we travel comfortably between sites. At exactly 17:00, we enjoy the sunset at Vergeron beach before the frost sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forum Constantin",
+                "hu": "Forum Constantin",
+                "ro": "Forum Constantin",
+                "en": "Forum Constantin"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter weniger belegt, was den Besuch erleichtert; nutzen Sie die Standheizung, falls vorhanden, für einen warmen Wiedereinstieg.",
+                "hu": "A parkolók télen kevésbé telítettek, ami megkönnyíti a látogatást; ha van állófűtésed, használd, hogy meleg autóba térhess vissza a nézelődés után.",
+                "ro": "Parcările sunt mai libere iarna, facilitând vizita; folosiți încălzirea staționară, dacă aveți, pentru o reîntoarcere plăcută în mașină.",
+                "en": "Parking lots are less crowded in winter, making the visit easy; use the stationary heater if available for a warm re-entry after sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Croix",
+                "hu": "Église Sainte-Croix",
+                "ro": "Église Sainte-Croix",
+                "en": "Église Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne fällt mittags wunderschön in den Wagen; lassen Sie keine Wertsachen sichtbar liegen, auch wenn es ruhig wirkt.",
+                "hu": "Az alacsonyan járó nap fényei délben gyönyörűen világítják meg az autót; ne hagyj értéktárgyat látható helyen, még ha csendesnek is tűnik a környék.",
+                "ro": "Lumina soarelui de iarnă pătrunde frumos în mașină la prânz; nu lăsați obiecte de valoare la vedere, chiar dacă zona pare liniștită.",
+                "en": "The low winter sun reflects beautifully inside the car at noon; do not leave any valuables visible even if the area seems very quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne Carrière de Serpentinite",
+                "hu": "Ancienne Carrière de Serpentinite",
+                "ro": "Ancienne Carrière de Serpentinite",
+                "en": "Ancienne Carrière de Serpentinite"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Wintertage bieten die beste Sicht auf die Felsformationen; prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage für kalte Nächte.",
+                "hu": "A tiszta téli napokon a legjobb a kilátás a sziklaformációkra; ellenőrizd a fagyállót az ablakmosóban a hideg éjszakák előtt.",
+                "ro": "Zilele clare de iarnă oferă cea mai bună vizibilitate asupra stâncilor; verificați antigelul din lichidul de parbriz pentru nopțile geroase.",
+                "en": "Clear winter days offer the best views of the rock formations; check the antifreeze in your windshield washer for the cold nights ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "chapelle pardigon",
+                "hu": "chapelle pardigon",
+                "ro": "chapelle pardigon",
+                "en": "chapelle pardigon"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick, ideal für Fotos ohne den Wagen zu verlassen; tragen Sie trotzdem eine Jacke für kurze Außenstopps.",
+                "hu": "A parkolóból nagyszerű a kilátás, ideális fotózáshoz anélkül, hogy kiszállnál; azért tarts kéznél egy kabátot a rövid kinti megállókhoz.",
+                "ro": "Parcarea oferă o priveliște excelentă, ideală pentru poze fără a coborî; totuși, purtați o jachetă pentru scurtele opriri afară.",
+                "en": "The parking lot offers a great view, ideal for photos without leaving the car; still, keep a jacket ready for short outdoor stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Pardigon",
+                "hu": "Pardigon",
+                "ro": "Pardigon",
+                "en": "Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Zufahrt oft frei von touristischem Verkehr; genießen Sie die Ruhe und nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+                "hu": "Télen az odavezető út gyakran mentes a turistaforgalomtól; élvezd a nyugalmat és használd a légkondicionálót a szélvédő párátlanítására.",
+                "ro": "Iarna, drumul de acces este adesea liber de trafic turistic; bucurați-vă de liniște și folosiți aerul condiționat pentru dezaburire.",
+                "en": "In winter, the access road is often free from tourist traffic; enjoy the peace and use the AC to keep the windows from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Site Naturel Remarquable de Pardigon",
+                "hu": "Site Naturel Remarquable de Pardigon",
+                "ro": "Site Naturel Remarquable de Pardigon",
+                "en": "Site Naturel Remarquable de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht die Farben der Vegetation im Winter kräftiger; parken Sie so, dass Sie die tiefstehende Sonne als Lichtquelle nutzen.",
+                "hu": "A hűvös levegő télen felerősíti a növényzet színeit; úgy parkolj, hogy ki tudd használni az alacsonyan járó nap fényeit a nézelődéshez.",
+                "ro": "Aerul rece face culorile vegetației mai intense iarna; parcați astfel încât să folosiți soarele jos ca sursă de lumină pentru vizionare.",
+                "en": "The cool air makes the colors of the vegetation more vivid in winter; park in a way that uses the low sun as a light source for viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Debarquement Beach",
+                "hu": "Debarquement Beach",
+                "ro": "Debarquement Beach",
+                "en": "Debarquement Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Straßensperrungen nach Winterstürmen; die Brandung ist im Winter oft kraftvoller und bietet ein tolles Schauspiel.",
+                "hu": "Ügyelj az esetleges útlezárásokra a téli viharok után; a hullámzás télen gyakran erőteljesebb, ami lenyűgöző látványt nyújt az autóból.",
+                "ro": "Atenție la eventualele drumuri închise după furtunile de iarnă; valurile sunt adesea mai puternice iarna, oferind un spectacol grozav.",
+                "en": "Watch out for potential road closures after winter storms; the surf is often more powerful in winter, providing a great show from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Vergeron",
+                "hu": "Plage du Vergeron",
+                "ro": "Plage du Vergeron",
+                "en": "Plage du Vergeron"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr ist der Höhepunkt des Tages; schalten Sie den Motor ab, um die Stille und das Licht ungestört zu genießen.",
+                "hu": "A 17:00-s naplemente a nap fénypontja; állítsd le a motort, hogy zavartalanul élvezhesd a csendet és az alkonyi fényeket az autódban.",
+                "ro": "Apusul de la ora 17:00 este punctul culminant al zilei; opriți motorul pentru a savura liniștea și lumina fără a fi deranjați.",
+                "en": "The 17:00 sunset is the highlight of the day; turn off the engine to enjoy the silence and the evening light undisturbed from your seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

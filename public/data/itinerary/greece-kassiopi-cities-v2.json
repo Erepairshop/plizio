@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő úszással a Kalamionas strandon, élvezve a kora mediterrán napsütést. Ahogy közeledik a dél, sétáljon fel a kassiopi várba, hogy felfedezze az évszázados történelmet. Töltse a délutánt a Bataria és a Karavi kristálytiszta vizei mellett pihenve, élvezve a nyugodt légkört. Zárja a napot az eldugott Kogevina strandon való kikapcsolódással és a tengeri szellővel.",
         "ro": "Începeți dimineața cu o baie răcoroasă la Plaja Kalamionas, bucurându-vă de soarele mediteranean. La prânz, urcați la Fortăreața Kassiopi pentru a descoperi istoria de secole și vederile de pe coastă. Petreceți după-amiaza relaxându-vă lângă apele cristaline de la Bataria și Karavi. Încheiați ziua relaxându-vă pe plaja izolată Kogevina, admirând culorile blânde ale apusului de soare.",
         "en": "Start your morning with a refreshing swim at Kalamionas Beach, soaking in the early Mediterranean sun. As midday approaches, hike up to Kassiopi Fortress to discover centuries of history and sweeping coastal views. Spend your afternoon relaxing by the crystalline waters of Bataria and Karavi, enjoying the tranquil atmosphere. End the day unwinding at the secluded Kogevina Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag trotz Regen am Kalamionas Beach, wo die Wellen eine dramatische Kulisse bieten. Mittags erkunden Sie die Festung, deren alte Mauern bei Nässe besonders mystisch wirken. Nachmittags spazieren Sie entlang der Küste zu den Bataria- und Karavi-Buchten. Abends kehren Sie in das Dorfzentrum zurück, um dem prasselnden Regen in einer gemütlichen Taverne zu lauschen.",
+            "hu": "Kezdje a napot a Kalamionas strandon, ahol az eső vadregényes hangulatot áraszt. Délben a vár romjai között barangolva érezheti a múltat, a nedves kövek mélyebb színeket öltenek. Délután a part menti ösvényeken haladva érheti el a Bataria és Karavi öblöket. Este húzódjon be a kikötő egyik fedett teraszára, és élvezze az eső illatát a tenger felett.",
+            "ro": "Începeți ziua la plaja Kalamionas, unde ploaia oferă un spectacol dramatic al valurilor. La prânz, explorați fortăreața, ale cărei ziduri vechi par mistice sub cerul gri. După-amiaza, plimbați-vă spre golfurile Bataria și Karavi, admirând coasta dantelată. Seara, retrageți-vă în centrul satului pentru a asculta ropotul ploii de la adăpostul unei taverne primitoare.",
+            "en": "Start your day at Kalamionas Beach, where the rain adds a dramatic touch to the scenery. At noon, explore the fortress, as the wet stones bring out the ancient atmosphere. In the afternoon, walk along the coast to Bataria and Karavi beaches, enjoying the moody coastal views. In the evening, head back to the village center to enjoy the sound of rain from a cozy, covered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalamionas Beach",
+                "hu": "Kalamionas strand",
+                "ro": "Plaja Kalamionas",
+                "en": "Kalamionas Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die aufgewühlte See; tragen Sie rutschfeste Schuhe, da die Kieselsteine bei Nässe extrem glatt sein können.",
+                "hu": "Csodálja meg a felkorbácsolt tengert; viseljen csúszásmentes cipőt, mert a vizes kavicsok nagyon csúszósak lehetnek.",
+                "ro": "Admirați marea agitată; purtați încălțăminte antiderapantă, deoarece pietrele umede pot fi extrem de alunecoase.",
+                "en": "Admire the choppy sea; wear non-slip shoes as the wet pebbles can be extremely slippery underfoot."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Kassiopi",
+                "hu": "Kassiopi vár",
+                "ro": "Fortăreața Kassiopi",
+                "en": "Kassiopi Fortress"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen im Schutz der alten Mauern; achten Sie auf tief hängende Zweige, die bei Regen schwerer sind.",
+                "hu": "Fedezze fel a romokat az ősi falak védelmében; figyeljen a belógó ágakra, amelyek az esőtől elnehezedve mélyebbre nyúlnak.",
+                "ro": "Explorați ruinele la adăpostul zidurilor vechi; atenție la ramurile joase, care sunt mai grele din cauza ploii.",
+                "en": "Explore the ruins under the shelter of ancient walls; watch out for low-hanging branches heavy with rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bataria",
+                "hu": "Bataria",
+                "ro": "Bataria",
+                "en": "Bataria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Küstenoptik; ein stabiler Regenschirm ist wegen des oft starken Windes an dieser Landspitze unerlässlich.",
+                "hu": "Élvezze a nyers tengerparti látványt; egy stabil esernyő elengedhetetlen a fokon gyakran fújó erős szél miatt.",
+                "ro": "Bucurați-vă de aspectul sălbatic al coastei; o umbrelă rezistentă este esențială din cauza vântului puternic de pe promontoriu.",
+                "en": "Enjoy the raw coastal look; a sturdy umbrella is essential due to the often strong winds at this headland."
+              }
+            },
+            {
+              "name": {
+                "de": "Karavi Beach",
+                "hu": "Karavi strand",
+                "ro": "Plaja Karavi",
+                "en": "Karavi Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Farbspiele des Wassers im Regen; suchen Sie unter den Felsvorsprüngen kurzzeitig Schutz vor Schauern.",
+                "hu": "Figyelje a víz színjátékát az esőben; keressen menedéket a sziklakiszögellések alatt a hirtelen zivatarok elől.",
+                "ro": "Observați jocurile de culori ale apei în ploaie; căutați adăpost sub stânci în timpul averselor trecătoare.",
+                "en": "Watch the water's color play in the rain; seek temporary shelter under the rock overhangs during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kogevina Beach",
+                "hu": "Kogevina strand",
+                "ro": "Plaja Kogevina",
+                "en": "Kogevina Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Weg an diesem friedlichen Ort; die Pfade dorthin können matschig sein, bleiben Sie auf den befestigten Wegen.",
+                "hu": "Zárja az utat ezen a békés helyen; az odavezető ösvények sárosak lehetnek, maradjon a kijelölt utakon.",
+                "ro": "Încheiați traseul în acest loc liniștit; potecile pot fi noroioase, așa că rămâneți pe drumurile principale.",
+                "en": "End your walk at this peaceful spot; the paths can be muddy, so stick to the firmer ground to stay dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Stille am Kalamionas Beach bei einem erfrischenden Morgenspaziergang. Mittags bietet die Festung weite Ausblicke über das ruhige Meer ohne die Sommerhitze. Der Nachmittag führt Sie zu den einsamen Stränden Bataria und Kogevina. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den frühen Abend für einen gemütlichen Abschluss am Hafen nutzen.",
+            "hu": "Élvezze a téli csendet a Kalamionas strandon egy frissítő reggeli séta keretében. Délben a vár tetejéről csodálhatja meg a nyugodt tengert, a nyári hőség nélkül. A délután folyamán látogasson el a Bataria és Kogevina öblökhöz, ahol ilyenkor senki sem zavarja. Mivel 17:00 körül sötétedik, az estét töltse a falu egyik fűtött vendéglőjében, élvezve a helyi vendégszeretetet.",
+            "ro": "Bucurați-vă de liniștea iernii la plaja Kalamionas în timpul unei plimbări revigorante de dimineață. La prânz, fortăreața oferă vederi panoramice asupra mării calme, fără căldura verii. După-amiaza vă poartă spre plajele pustii Bataria și Kogevina. Deoarece soarele apune în jur de ora 17:00, rezervați seara pentru o cină caldă și relaxantă lângă port.",
+            "en": "Enjoy the winter silence at Kalamionas Beach during a refreshing morning walk. At noon, the fortress offers wide views over the calm sea without the summer heat. The afternoon takes you to the secluded Bataria and Kogevina beaches. As the sun sets around 17:00, spend the early evening in a cozy local eatery, enjoying the peaceful atmosphere of the off-season."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kalamionas Beach",
+                "hu": "Kalamionas strand",
+                "ro": "Plaja Kalamionas",
+                "en": "Kalamionas Beach"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die kühle Meeresbrise ein; bringen Sie eine Thermoskanne mit warmem Tee für eine gemütliche Pause am Wasser mit.",
+                "hu": "Lélegezze be a hűvös tengeri szellőt; hozzon magával egy termoszt meleg teával egy kellemes vízparti pihenőhöz.",
+                "ro": "Respirați briza răcoroasă a mării; aduceți un termos cu ceai cald pentru o pauză relaxantă lângă apă.",
+                "en": "Breathe in the cool sea breeze; bring a thermos of warm tea for a cozy break by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Kassiopi",
+                "hu": "Kassiopi vár",
+                "ro": "Fortăreața Kassiopi",
+                "en": "Kassiopi Fortress"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille ohne Touristenscharen; tragen Sie mehrere Schichten Kleidung, da es im Schatten der Mauern kühl ist.",
+                "hu": "Élje át a csendet a turistahadak nélkül; öltözzön rétegesen, mert a falak árnyékában hűvös lehet az idő.",
+                "ro": "Experimentați liniștea fără mulțimi de turiști; purtați haine în mai multe straturi, deoarece la umbra zidurilor este răcoare.",
+                "en": "Experience the silence without the tourist crowds; wear layers as it can be chilly in the shadow of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bataria",
+                "hu": "Bataria",
+                "ro": "Bataria",
+                "en": "Bataria"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das klare Winterlicht; die Sonne steht tief und sorgt für dramatische Schatten auf den weißen Felsen.",
+                "hu": "Fotózza le a tiszta téli fényeket; az alacsony napállás drámai árnyékokat vet a fehér sziklákra.",
+                "ro": "Fotografiați lumina clară de iarnă; soarele jos creează umbre dramatice pe stâncile albe.",
+                "en": "Photograph the clear winter light; the low sun creates dramatic shadows on the white rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Karavi Beach",
+                "hu": "Karavi strand",
+                "ro": "Plaja Karavi",
+                "en": "Karavi Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an der Küste; achten Sie auf den frühen Sonnenuntergang und planen Sie Ihren Rückweg rechtzeitig.",
+                "hu": "Élvezze a magányt a parton; ügyeljen a korai naplementére, és időben tervezze meg a visszautat a faluba.",
+                "ro": "Bucurați-vă de singurătate pe malul mării; aveți grijă la apusul timpuriu și planificați întoarcerea din timp.",
+                "en": "Enjoy the solitude on the shore; be mindful of the early sunset and plan your return walk in time."
+              }
+            },
+            {
+              "name": {
+                "de": "Kogevina Beach",
+                "hu": "Kogevina strand",
+                "ro": "Plaja Kogevina",
+                "en": "Kogevina Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Zugvögel in der Bucht; eine warme Mütze schützt Sie vor dem kalten Wind, der im Winter oft vom Meer her weht.",
+                "hu": "Figyelje meg az öbölben pihenő vándormadarakat; egy meleg sapka megvédi a télen gyakran fújó hideg tengeri széltől.",
+                "ro": "Observați păsările migratoare în golf; o căciulă caldă vă va proteja de vântul rece care bate adesea dinspre mare iarna.",
+                "en": "Observe the migratory birds in the bay; a warm hat will protect you from the cold wind often blowing from the sea in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a part mentén az Imerolia strandhoz egy nyugodt reggeli fürdőzésre távol a tömegtől. Tekerjen a központ felé, hogy megtapasztalja a nyüzsgő Kalamionas strandot, majd fedezze fel a történelmi várat. Délután élvezze a festői útvonalat Bataria lenyűgöző fehér kavicsaihoz, amelyet egy kellemes utazás követ az Avlaki strandra. Zárja a napot az érintetlen Vrahli öbölben.",
         "ro": "Bicicliți de-a lungul coastei până la plaja Imerolia pentru o baie liniștită de dimineață. Mergeți spre centru pentru a experimenta plaja Kalamionas înainte de a explora Fortăreața Kassiopi. După-amiaza, bucurați-vă de traseul pitoresc către pietricelele albe de la Bataria, urmat de o plimbare plăcută până la plaja Avlaki. Încheiați cu o seară senină la golful virgin Vrahli, plin de pace.",
         "en": "Cycle along the coast to Imerolia Beach for a tranquil morning dip away from the crowds. Ride towards the center to experience the vibrant Kalamionas Beach before exploring the historic Kassiopi Fortress. In the afternoon, enjoy the scenic route to Bataria's stunning white pebbles, followed by a pleasant ride to the expansive Avlaki Beach. Conclude with a serene evening stop at the untouched Vrahli cove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Imerolia Beach, wo der Regen die Küste in weiches Grau taucht. Mittags führt die Route zur Festung; fahren Sie langsam auf dem kopfsteingepflasterten Weg, der bei Nässe glatt wird. Nachmittags geht es weiter zum Avlaki Beach, wobei Sie Regenponchos tragen sollten. Abends kehren Sie nach Kassiopi zurück, um Ihr Rad an einem trockenen Ort abzustellen.",
+            "hu": "Kezdjen óvatosan az Imerolia strandon, ahol az eső szürkére festi a partot. Délben az út a várhoz vezet; haladjon lassan a macskaköveken, mert vizesen rendkívül csúszósak. Délután tekerjen el az Avlaki strandig, útközben viseljen esőponcsót. Este térjen vissza Kassziopiba, és keressen egy száraz helyet a kerékpár leállításához.",
+            "ro": "Începeți cu prudență la plaja Imerolia, unde ploaia colorează coasta în gri sidefat. La prânz, traseul duce la cetate; pedalați încet pe drumul pietruit, care devine alunecos când este ud. După-amiaza, continuați spre plaja Avlaki, purtând pelerine de ploaie. Seara, reveniți în Kassiopi pentru a lăsa bicicleta la loc uscat.",
+            "en": "Start cautiously at Imerolia Beach, where the rain turns the coast into a soft grey. At noon, head to the fortress; ride slowly on the cobblestones as they become slippery when wet. In the afternoon, cycle to Avlaki Beach, making sure to wear waterproof gear. In the evening, return to Kassiopi to park your bike in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Imerolia Beach",
+                "hu": "Imerolia strand",
+                "ro": "Plaja Imerolia",
+                "en": "Imerolia Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; der nasse Asphalt an der Küstenstraße kann für Radfahrer sehr rutschig sein.",
+                "hu": "Ellenőrizze a fékeit indulás előtt; a part menti út vizes aszfaltja a kerékpárosok számára nagyon csúszós lehet.",
+                "ro": "Verificați frânele înainte de plecare; asfaltul umed de pe drumul de coastă poate fi foarte alunecos pentru bicicliști.",
+                "en": "Check your brakes before starting; the wet asphalt on the coastal road can be very slippery for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalamionas Beach",
+                "hu": "Kalamionas strand",
+                "ro": "Plaja Kalamionas",
+                "en": "Kalamionas Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Schauer Schutz unter den Arkaden am Hafen; die Gischt spritzt bei Regen oft bis auf den Weg.",
+                "hu": "Erős zápor esetén keressen menedéket a kikötői árkádok alatt; a tenger permete esőben gyakran az útig felcsap.",
+                "ro": "Căutați adăpost sub arcadele din port în timpul averselor; stropii de mare ajung adesea până pe drum când plouă.",
+                "en": "Seek shelter under the harbor arches during heavy showers; the sea spray often reaches the path when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Kassiopi",
+                "hu": "Kassiopi vár",
+                "ro": "Fortăreața Kassiopi",
+                "en": "Kassiopi Fortress"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad auf den steilen Abschnitten; die nassen Steine bieten kaum Halt für die Fahrradreifen.",
+                "hu": "Tolja a kerékpárt a meredek szakaszokon; a vizes kövek alig nyújtanak tapadást a kerékpárgumiknak.",
+                "ro": "Împingeți bicicleta pe secțiunile abrupte; pietrele umede nu oferă aproape deloc aderență pentru anvelope.",
+                "en": "Push your bike on the steep sections; the wet stones offer very little traction for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Bataria",
+                "hu": "Bataria",
+                "ro": "Bataria",
+                "en": "Bataria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick vom Rad aus; halten Sie Abstand zum Klippenrand, da der Boden durch den Regen aufgeweicht sein kann.",
+                "hu": "Élvezze a kilátást a nyeregből; tartson távolságot a szikla szélétől, mert a talaj az esőtől fellazulhat.",
+                "ro": "Bucurați-vă de priveliște de pe bicicletă; păstrați distanța de marginea falezei, deoarece solul poate fi instabil din cauza ploii.",
+                "en": "Enjoy the view from your bike; keep a safe distance from the cliff edge as the ground may be softened by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Avlaki Beach",
+                "hu": "Avlaki strand",
+                "ro": "Plaja Avlaki",
+                "en": "Avlaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine gut sichtbare Regenjacke; die Sicht für Autofahrer ist auf der schmalen Straße nach Avlaki bei Regen eingeschränkt.",
+                "hu": "Viseljen jól látható esőkabátot; az autósok látási viszonyai az Avlaki felé vezető keskeny úton esőben korlátozottak.",
+                "ro": "Purtați o jachetă de ploaie reflectorizantă; vizibilitatea șoferilor pe drumul îngust spre Avlaki este redusă când plouă.",
+                "en": "Wear a high-visibility rain jacket; visibility for drivers on the narrow road to Avlaki is limited during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrahli",
+                "hu": "Vrahli",
+                "ro": "Vrahli",
+                "en": "Vrahli"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig; reinigen Sie die Kette nach der Fahrt von Sand und Schlamm, die der Regen aufgewirbelt hat.",
+                "hu": "Fejezze be óvatosan a túrát; a kerékpározás után tisztítsa meg a láncot a homoktól és sártól, amit az eső felvert.",
+                "ro": "Încheiați turul cu atenție; curățați lanțul bicicletei după plimbare de nisipul și noroiul ridicate de ploaie.",
+                "en": "Finish your tour carefully; clean your bike chain after the ride to remove sand and mud kicked up by the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Wintertour am Imerolia Beach bei klarer, kalter Luft. Mittags bietet die Auffahrt zur Festung eine gute Gelegenheit, sich durch Bewegung aufzuwärmen. Der Nachmittag führt Sie zum weitläufigen Avlaki Beach, der im Winter fast verlassen ist. Da es um 17:00 Uhr dunkel wird, beenden Sie Ihre Fahrt bei Vrahli und genießen Sie die friedliche Stimmung.",
+            "hu": "Kezdje téli túráját az Imerolia strandon a friss, csípős levegőben. Délben a vár felé vezető emelkedő remek alkalom a bemelegedésre a mozgás által. A délután az Avlaki strandhoz vezet, amely télen szinte teljesen elhagyatott és békés. Mivel 17:00 körül sötétedik, fejezze be a tekerést Vrahlinál.",
+            "ro": "Începeți turul de iarnă la plaja Imerolia în aerul curat și rece. La prânz, urcarea spre fortăreață este o ocazie bună de a vă încălzi prin mișcare. După-amiaza vă duce la plaja Avlaki, care iarna este aproape pustie și liniștită. Deoarece se întunecă la ora 17:00, încheiați plimbarea la Vrahli.",
+            "en": "Start your winter bike tour at Imerolia Beach in the crisp, cold air. At noon, the climb to the fortress is a great way to warm up through movement. The afternoon takes you to the expansive Avlaki Beach, which is nearly deserted and peaceful in winter. Since it gets dark around 17:00, finish your ride at Vrahli."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Imerolia Beach",
+                "hu": "Imerolia strand",
+                "ro": "Plaja Imerolia",
+                "en": "Imerolia Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den flachen Abschnitt zum Warmfahren; Handschuhe sind bei der kühlen Meeresbrise im Winter unverzichtbar.",
+                "hu": "Használja a sík szakaszt a bemelegítéshez; a kesztyű elengedhetetlen a hűvös téli tengeri szellőben.",
+                "ro": "Folosiți secțiunea plană pentru încălzire; mănușile sunt esențiale din cauza brizei reci a mării iarna.",
+                "en": "Use the flat section to warm up your muscles; gloves are essential in the cool sea breeze in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalamionas Beach",
+                "hu": "Kalamionas strand",
+                "ro": "Plaja Kalamionas",
+                "en": "Kalamionas Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leere Küstenstraße; halten Sie kurz an, um den Blick auf das tiefblaue, ruhige Wintermeer zu bewundern.",
+                "hu": "Élvezze az üres part menti utat; álljon meg egy pillanatra, hogy megcsodálja a mélykék, nyugodt téli tengert.",
+                "ro": "Bucurați-vă de drumul de coastă liber; opriți-vă scurt pentru a admira marea albastră și calmă de iarnă.",
+                "en": "Enjoy the empty coastal road; stop for a moment to admire the deep blue, calm winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Kassiopi",
+                "hu": "Kassiopi vár",
+                "ro": "Fortăreața Kassiopi",
+                "en": "Kassiopi Fortress"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen ohne die sommerliche Hitze; bringen Sie ein Schloss mit, um Ihr Rad sicher am Eingang zu parken.",
+                "hu": "Fedezze fel a romokat a nyári hőség nélkül; hozzon lakatot, hogy kerékpárját biztonságban tudhassa a bejáratnál.",
+                "ro": "Explorați ruinele fără căldura verii; aduceți un sistem de blocare pentru a lăsa bicicleta în siguranță la intrare.",
+                "en": "Explore the ruins without the summer heat; bring a lock to keep your bike safe at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bataria",
+                "hu": "Bataria",
+                "ro": "Bataria",
+                "en": "Bataria"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel von Licht und Schatten auf den Felsen; die tiefstehende Wintersonne ist perfekt für Landschaftsfotos.",
+                "hu": "Figyelje a fények és árnyékok játékát a sziklákon; az alacsony téli napállás tökéletes a tájfotózáshoz.",
+                "ro": "Observați jocul de lumini și umbre pe stânci; soarele jos de iarnă este perfect pentru fotografii de peisaj.",
+                "en": "Watch the play of light and shadow on the rocks; the low winter sun is perfect for landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Avlaki Beach",
+                "hu": "Avlaki strand",
+                "ro": "Plaja Avlaki",
+                "en": "Avlaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Kiesstrand; im Winter weht oft ein kräftiger Wind, daher ist eine winddichte Jacke ratsam.",
+                "hu": "Élvezze a kavicsos strand nyugalmát; télen gyakran fúj az erős szél, ezért egy szélálló dzseki tanácsos.",
+                "ro": "Bucurați-vă de liniștea plajei cu pietriș; iarna vântul bate adesea puternic, așa că o jachetă de vânt este recomandată.",
+                "en": "Enjoy the peace on the pebble beach; a strong wind often blows in winter, so a windproof jacket is advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrahli",
+                "hu": "Vrahli",
+                "ro": "Vrahli",
+                "en": "Vrahli"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor 17:00 Uhr; sorgen Sie für funktionierende Lichter am Rad, falls Sie doch in die Dämmerung kommen.",
+                "hu": "Fejezze be a tekerést 17:00 előtt; gondoskodjon a működő lámpákról, ha mégis rásötétedne az út végén.",
+                "ro": "Încheiați plimbarea înainte de ora 17:00; asigurați-vă că aveți lumini funcționale dacă vă prinde amurgul.",
+                "en": "Finish your ride before 17:00; ensure you have working lights on your bike in case you get caught in the dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen a Syki strandhoz egy félreeső, buja növényzettel körülvett reggeli kezdéshez. Menjen a városba, hogy meglátogassa a fenséges várat, majd tegyen egy rövid sétát Batariába egy kis déli pihenésre. Később vezessen délre, hogy megtapasztalja Kogevina és Tzoufaka természeti szépségét. Zárja a napot Moshofili sziklás partjainak felfedezésével és csodálja meg a naplementét Vouvalomadriából.",
         "ro": "Conduceți spre plaja Syki pentru o dimineață izolată, înconjurată de verdeață luxuriantă. Mergeți în oraș pentru a vizita măreața Fortăreață Kassiopi, apoi faceți o scurtă plimbare până la Bataria pentru relaxare. Mai târziu, conduceți spre sud pentru a experimenta frumusețea naturală de la Kogevina și Tzoufaka. Încheiați ziua explorând țărmurile stâncoase din Moshofili și prindeți un apus de soare uimitor la Vouvalomadria.",
         "en": "Drive to Syki Beach for a secluded morning start surrounded by lush greenery and clear waters. Head into town to visit the majestic Kassiopi Fortress, then take a short walk to Bataria for midday relaxation. Later, drive south to experience the natural beauty of Kogevina and Tzoufaka. Wind down your day exploring the rocky shores of Moshofili and catch a stunning sunset from Vouvalomadria."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Regentag komfortabel am Syki Beach, wo Sie die Wellen direkt vom Auto aus beobachten können. Mittags erkunden Sie die Festung Kassiopi mit einem Regenschirm im Gepäck. Der Nachmittag führt Sie zu abgelegeneren Buchten wie Kogevina und Tzoufaka. Abends genießen Sie die gemütliche Fahrt zurück ins Dorf, während die Scheibenwischer den Rhythmus des Regens begleiten.",
+            "hu": "Kezdje az esős napot kényelmesen a Syki strandon, ahol akár az autóból is figyelheti a hullámokat. Délben látogassa meg a várat, egy esernyővel a kézben felfedezve a romokat. A délután folyamán autózzon el a távolabbi öblökhöz, mint Kogevina és Tzoufaka. Este élvezze a békés utat vissza a faluba, miközben hallgatja az eső kopogását.",
+            "ro": "Începeți ziua ploioasă confortabil la plaja Syki, unde puteți urmări valurile direct din mașină. La prânz, vizitați fortăreața Kassiopi, explorând ruinele cu o umbrelă la îndemână. După-amiaza, conduceți spre golfuri mai retrase, cum ar fi Kogevina și Tzoufaka. Seara, bucurați-vă de drumul liniștit înapoi în sat, ascultând ropotul ploii.",
+            "en": "Start your rainy day comfortably at Syki Beach, where you can watch the waves right from your car. At noon, visit the Kassiopi Fortress, exploring the ruins with an umbrella in hand. In the afternoon, drive to more remote bays like Kogevina and Tzoufaka. In the evening, enjoy the peaceful drive back to the village, listening to the rain's rhythm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Syki Beach",
+                "hu": "Syki strand",
+                "ro": "Plaja Syki",
+                "en": "Syki Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie freie Sicht auf das Meer haben; bei Regen ist die Brandung an diesem Abschnitt oft spektakulär.",
+                "hu": "Parkoljon úgy, hogy szabad kilátása legyen a tengerre; esőben a hullámverés ezen a szakaszon gyakran látványos.",
+                "ro": "Parcați astfel încât să aveți o vedere clară la mare; când plouă, valurile care se sparg aici sunt adesea spectaculoase.",
+                "en": "Park in a way that gives you a clear view of the sea; in the rain, the surf on this section is often spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Kassiopi",
+                "hu": "Kassiopi vár",
+                "ro": "Fortăreața Kassiopi",
+                "en": "Kassiopi Fortress"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen stabilen Regenschirm bereit; die Wege innerhalb der Festung können bei Regen schlammig und rutschig sein.",
+                "hu": "Készítsen elő egy stabil esernyőt; a vár területén belüli ösvények esőben sárosak és csúszósak lehetnek.",
+                "ro": "Aveți pregătită o umbrelă rezistentă; potecile din interiorul fortăreței pot fi noroioase și alunecoase când plouă.",
+                "en": "Keep a sturdy umbrella ready; the paths inside the fortress can be muddy and slippery when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Bataria",
+                "hu": "Bataria",
+                "ro": "Bataria",
+                "en": "Bataria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Kap; bleiben Sie im Auto, falls der Regen zu stark wird, die Aussicht ist auch durch die Scheibe toll.",
+                "hu": "Élvezze a kilátást a fokra; maradjon az autóban, ha az eső túl erős, a kilátás az üvegen keresztül is pazar.",
+                "ro": "Bucurați-vă de vederea spre capătul falezei; rămâneți în mașină dacă plouă prea tare, priveliștea este grozavă și prin parbriz.",
+                "en": "Enjoy the view of the headland; stay in the car if the rain gets too heavy, the view is great even through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Kogevina Beach",
+                "hu": "Kogevina strand",
+                "ro": "Plaja Kogevina",
+                "en": "Kogevina Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Zufahrt; der Regen kann loses Geröll auf den Weg spülen, achten Sie auf Hindernisse.",
+                "hu": "Vezessen óvatosan a keskeny bekötőúton; az eső hordalékot moshat az útra, figyeljen az esetleges akadályokra.",
+                "ro": "Conduceți cu prudență pe drumul de acces îngust; ploaia poate spăla resturi pe drum, așa că fiți atenți la obstacole.",
+                "en": "Drive carefully on the narrow access road; the rain can wash debris onto the path, so watch out for obstacles."
+              }
+            },
+            {
+              "name": {
+                "de": "Tzoufaka",
+                "hu": "Tzoufaka",
+                "ro": "Tzoufaka",
+                "en": "Tzoufaka"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg zum Strand nur mit wasserfesten Schuhen; der Boden ist hier oft lehmig und nimmt viel Wasser auf.",
+                "hu": "A strandra vezető rövid ösvényt csak vízálló cipőben használja; a talaj itt gyakran agyagos és sok vizet tart meg.",
+                "ro": "Folosiți poteca scurtă spre plajă doar cu încălțăminte impermeabilă; solul este adesea lutos și reține multă apă.",
+                "en": "Only use the short path to the beach with waterproof shoes; the soil here is often clayey and holds a lot of water."
+              }
+            },
+            {
+              "name": {
+                "de": "Moshofili",
+                "hu": "Moshofili",
+                "ro": "Moshofili",
+                "en": "Moshofili"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die grauen Wolken über der Küste; die Atmosphäre an diesem wilden Küstenabschnitt ist bei Regen besonders imposant.",
+                "hu": "Figyelje a szürke felhőket a part felett; a vad tengerparti szakasz hangulata esőben különösen lenyűgöző.",
+                "ro": "Observați norii gri deasupra coastei; atmosfera pe acest segment sălbatic de țărm este deosebit de impresionantă în ploaie.",
+                "en": "Watch the grey clouds over the coast; the atmosphere on this wild coastal stretch is particularly imposing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Vouvalomadria",
+                "hu": "Vouvalomadria",
+                "ro": "Vouvalomadria",
+                "en": "Vouvalomadria"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Scheibenwischer vor der Abfahrt; auf den kurvigen Küstenstraßen ist eine klare Sicht bei Regen entscheidend.",
+                "hu": "Ellenőrizze az ablaktörlőket indulás előtt; a kanyargós part menti utakon a tiszta kilátás esőben döntő fontosságú.",
+                "ro": "Verificați ștergătoarele înainte de plecare; pe drumurile de coastă șerpuite, vizibilitatea clară este crucială când plouă.",
+                "en": "Check your wipers before starting; on the winding coastal roads, clear visibility is crucial when driving in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt am Syki Beach, wenn das Meer in tiefem Blau leuchtet. Mittags bietet die Festung einen wunderbaren Panoramablick über die fast menschenleere Küste. Am Nachmittag erkunden Sie die Buchten von Kogevina bis Vouvalomadria in aller Ruhe. Da die Sonne gegen 17:00 Uhr sinkt, nutzen Sie das letzte Tageslicht für die Rückfahrt und parken Sie nahe am Hafen.",
+            "hu": "Kezdje téli autós útját a Syki strandon, amikor a tenger mélykék színben tündököl. Délben a vár csodás panorámát kínál a szinte teljesen néptelen tengerpartra. Délután fedezze fel az öblöket Kogevinától Vouvalomadriáig a legnagyobb nyugalomban. Mivel a nap 17:00 körül lebukik, használja ki az utolsó fényeket a visszautazáshoz.",
+            "ro": "Începeți călătoria de iarnă la plaja Syki, când marea strălucește în albastru profund. La prânz, fortăreața oferă o panoramă minunată asupra coastei aproape pustii. După-amiaza, explorați golfurile de la Kogevina la Vouvalomadria în deplină liniște. Deoarece soarele apune în jur de ora 17:00, folosiți ultima lumină pentru drumul de întoarcere.",
+            "en": "Start your winter drive at Syki Beach when the sea shines in deep blue. At noon, the fortress offers a wonderful panoramic view over the nearly deserted coastline. In the afternoon, explore the bays from Kogevina to Vouvalomadria in total peace. As the sun sets around 17:00, use the last daylight for the drive back to town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Syki Beach",
+                "hu": "Syki strand",
+                "ro": "Plaja Syki",
+                "en": "Syki Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen bequem aus dem warmen Auto; im Winter ist der Parkplatz leer und bietet beste Sicht.",
+                "hu": "Figyelje a hullámokat kényelmesen a fűtött autóból; télen a parkoló üres, így a legszebb kilátás nyílik a tengerre.",
+                "ro": "Observați valurile confortabil din mașina încălzită; iarna parcarea este goală, oferind cea mai bună vedere spre mare.",
+                "en": "Watch the waves comfortably from your warm car; in winter the parking lot is empty, offering the best views."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Kassiopi",
+                "hu": "Kassiopi vár",
+                "ro": "Fortăreața Kassiopi",
+                "en": "Kassiopi Fortress"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Luft für einen Rundgang; tragen Sie feste Schuhe, da die schattigen Pfade im Winter feucht bleiben.",
+                "hu": "Használja ki a hűvös időt egy sétához; viseljen zárt cipőt, mert az árnyékos ösvények télen nedvesek maradhatnak.",
+                "ro": "Profitați de aerul răcoros pentru o plimbare; purtați pantofi rezistenți, deoarece potecile umbrite rămân umede iarna.",
+                "en": "Take advantage of the cool air for a walk; wear sturdy shoes as the shaded paths stay damp in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bataria",
+                "hu": "Bataria",
+                "ro": "Bataria",
+                "en": "Bataria"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit ohne Hitze; nehmen Sie eine warme Jacke mit, da der Wind am Kap im Winter kräftig weht.",
+                "hu": "Élje át a vadregényes szépséget a hőség nélkül; vigyen meleg kabátot, mert a foknál télen erősen fúj a szél.",
+                "ro": "Experimentați frumusețea sălbatică fără căldură; luați o jachetă groasă, deoarece vântul bate puternic la capătul falezei iarna.",
+                "en": "Experience the wild beauty without the heat; take a warm jacket as the wind blows strongly at the cape in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kogevina Beach",
+                "hu": "Kogevina strand",
+                "ro": "Plaja Kogevina",
+                "en": "Kogevina Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Abgeschiedenheit; die Zufahrt ist schmal, aber im Winter gibt es kaum Gegenverkehr durch andere Autos.",
+                "hu": "Élvezze a téli elszigeteltséget; a bekötőút keskeny, de télen alig van szembejövő forgalom.",
+                "ro": "Bucurați-vă de izolarea de iarnă; drumul de acces este îngust, dar iarna nu există aproape deloc trafic din sens opus.",
+                "en": "Enjoy the winter isolation; the access road is narrow, but there is almost no oncoming traffic in the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Tzoufaka",
+                "hu": "Tzoufaka",
+                "ro": "Tzoufaka",
+                "en": "Tzoufaka"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto an der Küstenstraße; das klare Winterlicht lässt die fernen Berge Albaniens besonders nah erscheinen.",
+                "hu": "Álljon meg egy fotóra a part menti úton; a tiszta téli fényben Albánia távoli hegyei különösen közelinek tűnnek.",
+                "ro": "Opriți pentru o fotografie pe drumul de coastă; lumina clară de iarnă face ca munții Albaniei să pară foarte aproape.",
+                "en": "Stop for a photo along the coastal road; the clear winter light makes the distant Albanian mountains look very close."
+              }
+            },
+            {
+              "name": {
+                "de": "Moshofili",
+                "hu": "Moshofili",
+                "ro": "Moshofili",
+                "en": "Moshofili"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie versteckte Aussichtspunkte; parken Sie am Straßenrand und genießen Sie den Blick auf die raue Wintersee für einen Moment.",
+                "hu": "Fedezzen fel rejtett kilátópontokat; parkoljon az út szélén, és élvezze egy pillanatra a haragos téli tenger látványát.",
+                "ro": "Descoperiți puncte de observație ascunse; parcați pe marginea drumului și admirați marea agitată de iarnă pentru un moment.",
+                "en": "Discover hidden viewpoints; park on the roadside and enjoy the view of the rough winter sea for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Vouvalomadria",
+                "hu": "Vouvalomadria",
+                "ro": "Vouvalomadria",
+                "en": "Vouvalomadria"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Ausflug vor Einbruch der Dunkelheit; die unbeleuchteten Straßen erfordern bei der Rückreise am späten Nachmittag Vorsicht.",
+                "hu": "Fejezze be a kirándulást sötétedés előtt; a kivilágítatlan utak késő délután fokozott figyelmet igényelnek a visszaúton.",
+                "ro": "Încheiați excursia înainte de lăsarea întunericului; drumurile neiluminate necesită prudență sporită la întoarcerea spre seară.",
+                "en": "Finish your trip before dark; the unlit roads require extra caution when driving back in the late afternoon."
+              }
+            }
+          ]
+        }
       }
     }
   }

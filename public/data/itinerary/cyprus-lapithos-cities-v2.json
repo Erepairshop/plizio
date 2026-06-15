@@ -137,6 +137,168 @@
         "hu": "A reggel a hegyek lábánál kezdődik, a friss levegőn a zászlós kilátónál. A délben aktív túra veszi kezdetét a parkuru ösvényen a történelmi Katzouris felé. Délután felfedezi a Vrysi tou Barba ősi vízrendszerét. Az estét a Lapta tengerparti sétány hídján, a Földközi-tenger felett átívelő pihentető naplemente séta zárja.",
         "ro": "Dimineața începe urcând spre punctul de belvedere al steagurilor pentru aer proaspăt. La amiază, se transformă într-o drumeție activă pe traseul parkuru către istoricul Katzouris. După-amiaza, descoperiți sistemul antic de apă la Vrysi tou Barba. Seara se încheie cu o plimbare relaxantă la apus de soare pe podul pietonal de pe coastă din Lapta.",
         "en": "Morning begins by heading into the foothills towards the flag viewpoint for fresh air. Midday shifts into an active hike down the parkuru trail leading to historic Katzouris. In the afternoon, you uncover the ancient water system at Vrysi tou Barba. Evening wraps up with a relaxing sunset stroll over the Lapta Coastal Walkway bridge by the Mediterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit tiefen Wolken über dem Kyrenia-Gebirge, was den Aufstieg zu den Flaggen mystisch, aber feucht macht. Mittags erfordert der Baspinar-Pfad festes Schuhwerk für die schlammigen Abschnitte. Der Nachmittag eignet sich für die Ruinen von Katzouris und Barba, wo der Regen eine zeitlose Stille erzeugt. Abends endet der Spaziergang an der Küstenbrücke bei heftiger Brandung.",
+            "hu": "A reggel szürke felhőkkel indul a hegyek felett, vízálló cipő elengedhetetlen a Zászlók meglátogatásához. Délben a túraútvonal sárban úszhat, keressünk menedéket a sűrűbb növényzet alatt. Délután a történelmi romok között az eső misztikus és időtlen hangulatot áraszt. Estére a tengerparti szél felerősödik, érdemes korán befejezni a sétát a híd környéki csúszós szakaszok miatt.",
+            "ro": "Dimineața începe cu nori joși peste munți, făcând urcarea spre Steaguri atmosferică, dar umedă. La prânz, traseul Baspinar necesită încălțăminte solidă pentru porțiunile noroioase. După-amiaza este ideală pentru explorarea ruinelor Katzouris și Barba sub o ploaie ușoară. Seara se încheie la podul de coastă, unde valurile se sparg cu putere de țărm sub cerul ploios.",
+            "en": "Morning begins with mist clinging to the Kyrenia range, making the ascent to the Flags atmospheric but damp. At noon, the Baspinar trail requires sturdy boots for the muddy sections. Afternoon is best spent exploring the stone ruins of Katzouris and Barba, where the rain adds a timeless feel. Evening concludes at the coastal bridge, where the waves crash against the rocks under a rainy sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Flaggen",
+                "hu": "Zászlók",
+                "ro": "Steaguri",
+                "en": "Flags"
+              },
+              "tip_5lang": {
+                "de": "Diese riesigen Flaggen am Berghang sind bei Regen oft in Wolken gehüllt; tragen Sie feste Wanderschuhe, da die Pfade sehr rutschig und schlammig werden können.",
+                "hu": "A hegyoldalban fekvő monumentális zászlók esőben is lenyűgözőek, de a talaj csúszós lehet, ezért viseljen bordázott talpú túracipőt a biztonságos feljutás érdekében.",
+                "ro": "Aceste steaguri uriașe de pe munte sunt adesea învăluite în nori pe ploaie; purtați ghete de drumeție, deoarece potecile devin foarte alunecoase și noroioase.",
+                "en": "These massive flags on the mountainside are often shrouded in mist during rain; wear hiking boots as the paths can become very slippery and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapta Baspinar Parkuru Wanderweg",
+                "hu": "Lapta Baspinar Parkuru túraútvonal",
+                "ro": "Traseul de drumeție Lapta Baspinar Parkuru",
+                "en": "Lapta Baspinar Parkuru hiking trail"
+              },
+              "tip_5lang": {
+                "de": "Der Wanderweg führt durch dichte Vegetation, die bei leichtem Regen Schutz bietet; nutzen Sie wasserfeste Kleidung, um die frische, feuchte Waldluft zu genießen.",
+                "hu": "A túraútvonal dús növényzete természetes esernyőként szolgál szemerkélő esőben, de a köves részeken ügyeljen a lépteire a megnövekedett csúszásveszély miatt.",
+                "ro": "Vegetația densă a traseului oferă protecție în caz de ploaie ușoară; folosiți pelerina de ploaie pentru a vă bucura de aerul proaspăt și umed al pădurii.",
+                "en": "The dense vegetation along the trail offers natural cover during light rain; use waterproof gear to enjoy the fresh, damp forest air without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Katzouris",
+                "hu": "Katzouris",
+                "ro": "Katzouris",
+                "en": "Katzouris"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken im Regen besonders markant; suchen Sie bei starken Schauern unter den vorspringenden Steinen oder in der Nähe alter Torbögen Schutz.",
+                "hu": "A történelmi romok esőben is látogathatók, a kőfalak mentén pedig több helyen is találhatunk ideiglenes menedéket a hirtelen lezúduló záporok elől.",
+                "ro": "Zidurile istorice par deosebit de marcante în ploaie; căutați adăpost sub pietrele proeminente sau lângă arcadele vechi în cazul unei averse bruște.",
+                "en": "The historical walls look particularly striking in the rain; seek temporary shelter under protruding stones or near old archways during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrysi tou Barba",
+                "hu": "Vrysi tou Barba",
+                "ro": "Vrysi tou Barba",
+                "en": "Vrysi tou Barba"
+              },
+              "tip_5lang": {
+                "de": "Diese antike Stätte ist bei Regen oft menschenleer und ruhig; achten Sie auf den unebenen Boden und meiden Sie tiefe Pfützen zwischen den Ausgrabungen.",
+                "hu": "Ez az antik helyszín esőben rendkívül csendes és hangulatos; figyeljen az egyenetlen talajra és kerülje a mély tócsákat a romok közötti sétányokon.",
+                "ro": "Acest sit antic este adesea pustiu și liniștit pe ploaie; atenție la solul neuniform și evitați bălțile adânci dintre secțiunile excavate.",
+                "en": "This ancient site is often deserted and peaceful in the rain; watch out for uneven ground and avoid deep puddles between the excavated sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapta Küstenbrücke",
+                "hu": "Lapta tengerparti híd",
+                "ro": "Podul de coastă Lapta",
+                "en": "Lapta Coastal Walkway - bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist dem Wind und Regen stark ausgesetzt; halten Sie sich am Geländer fest, da die Holzplanken bei Nässe extrem rutschig sein können.",
+                "hu": "A híd ki van téve a szélnek és az esőnek, a fapadló pedig rendkívül csúszóssá válhat, ezért használja a korlátot a biztonságos átkelés érdekében.",
+                "ro": "Podul este expus vântului și ploii; țineți-vă de balustradă, deoarece scândurile de lemn pot fi extrem de alunecoase atunci când sunt ude.",
+                "en": "The bridge is highly exposed to wind and rain; hold onto the railing as the wooden planks can become extremely slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen ist knackig und belebend, ideal für den Aufstieg zu den Flaggen ohne die Sommerhitze. Mittags bietet der Baspinar-Pfad klare Sicht unter der milden Wintersonne. Der Nachmittag bringt lange Schatten an den antiken Stätten von Barba und erzeugt einen goldenen Glanz. Abends wird es gegen 17:00 Uhr dunkel; suchen Sie ein warmes Lokal auf, wenn die Temperaturen sinken.",
+            "hu": "A reggeli levegő friss és élénkítő, tökéletes a Zászlókhoz való feljutáshoz a nyári hőség nélkül. Délben a túraútvonal tiszta kilátást kínál a lágy téli napsütésben. Délután a hosszú árnyékok aranyfénybe vonják Barba antik romjait. Este 17:00 körül már sötétedik, így érdemes időben meleg helyre húzódni a tengerparti lehűlés elől.",
+            "ro": "Aerul dimineții este proaspăt și revigorant, perfect pentru urcarea la Steaguri fără căldura verii. Prânzul oferă vederi clare pe traseul Baspinar sub soarele blând de iarnă. După-amiaza aduce umbre lungi la siturile antice din Barba, creând o strălucire aurie. Seara vine devreme, pe la 17:00, așa că mergeți într-un loc cald când temperaturile scad.",
+            "en": "The morning air is crisp and invigorating, perfect for the climb to the Flags without the summer heat. Noon offers bright, clear views along the Baspinar hiking trail under a gentle winter sun. Afternoon brings long shadows to the ancient sites of Barba, creating a golden glow. Evening arrives early at 17:00, so head to a warm indoor spot as the coastal temperature drops rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Flaggen",
+                "hu": "Zászlók",
+                "ro": "Steaguri",
+                "en": "Flags"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht den Aufstieg angenehm; genießen Sie die weite Sicht bis zum Meer, aber nehmen Sie eine windfeste Jacke für den exponierten Gipfel mit.",
+                "hu": "A hűvös téli levegő kellemessé teszi a kapaszkodót; élvezze a tiszta kilátást a tengerre, de készüljön szélálló kabáttal a kitett hegyoldalra.",
+                "ro": "Aerul rece de iarnă face urcarea plăcută; bucurați-vă de vederea largă spre mare, dar luați o jachetă rezistentă la vânt pentru vârful expus.",
+                "en": "The cool winter air makes the climb pleasant; enjoy the far-reaching views to the sea, but bring a windproof jacket for the exposed summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapta Baspinar Parkuru Wanderweg",
+                "hu": "Lapta Baspinar Parkuru túraútvonal",
+                "ro": "Traseul de drumeție Lapta Baspinar Parkuru",
+                "en": "Lapta Baspinar Parkuru hiking trail"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter oft grüner und lebendiger; tragen Sie Schichten, da es im Schatten der Berge deutlich kühler als an der Küste sein kann.",
+                "hu": "A hűvös téli levegő ideális a túrázáshoz a dús növényzetű ösvényen; érdemes rétegesen öltözködni, mert az árnyékos völgyekben hirtelen csökkenhet a hőmérséklet.",
+                "ro": "Vegetația este adesea mai verde și mai vie iarna; purtați straturi, deoarece în umbra munților poate fi mult mai răcoare decât pe coastă.",
+                "en": "The vegetation is often greener and more vibrant in winter; wear layers as it can be significantly cooler in the mountain shadows than on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Katzouris",
+                "hu": "Katzouris",
+                "ro": "Katzouris",
+                "en": "Katzouris"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag, um die warme Wintersonne auf den alten Steinen zu nutzen, bevor die Temperaturen im Schatten schnell sinken.",
+                "hu": "Látogasson el ide kora délután, hogy kihasználja a köveket melegítő téli napsütést, mielőtt a nap lebukik a hegyek mögé és hirtelen lehűl a levegő.",
+                "ro": "Vizitați acest loc la începutul după-amiezii pentru a profita de soarele cald de iarnă pe pietrele vechi, înainte ca temperaturile să scadă rapid la umbră.",
+                "en": "Visit this spot in the early afternoon to catch the warm winter sun on the old stones before temperatures drop quickly in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrysi tou Barba",
+                "hu": "Vrysi tou Barba",
+                "ro": "Vrysi tou Barba",
+                "en": "Vrysi tou Barba"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Gräber sind im Winter besonders fotogen; nutzen Sie das weiche Licht des Nachmittags, aber achten Sie auf die kurze Tageslichtdauer.",
+                "hu": "Az antik sírhelyek télen különösen fotogének; használja ki a délutáni lágy fényeket, de ügyeljen rá, hogy ötkor már sötétedni kezd.",
+                "ro": "Mormintele antice sunt deosebit de fotogenice iarna; profită de lumina blândă a după-amiezii, dar fii atent la durata scurtă a luminii naturale.",
+                "en": "The ancient tombs are particularly photogenic in winter; take advantage of the soft afternoon light, but be mindful of the short daylight hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapta Küstenbrücke",
+                "hu": "Lapta tengerparti híd",
+                "ro": "Podul de coastă Lapta",
+                "en": "Lapta Coastal Walkway - bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über dem Meer ist im Winter spektakulär; bringen Sie einen Schal gegen die kühle Meeresbrise mit, die nach Sonnenuntergang auffrischt.",
+                "hu": "A téli naplemente a híd felől nézve látványos; hozzon sálat és sapkát a hideg tengeri szél ellen, amely napnyugta után azonnal felerősödik.",
+                "ro": "Apusul peste mare este spectaculos iarna; aduceți o eșarfă pentru briza rece a mării care se intensifică imediat după apusul soarelui.",
+                "en": "The sunset over the sea is spectacular in winter; bring a scarf for the chilly sea breeze that picks up immediately after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a dombok között megbúvó Katzouris régi kőromjainak felfedezésével. Guruljon le a Vrysi tou Barba árnyékába, mielőtt délre elérné a tengerparti sétányt. A délutáni tekerés kelet felé visz, hogy felfedezze Sotira történelmi rétegeit. Ahogy közeledik az este, fejezze be az utat a fenséges Acheiropoietos kolostornál.",
         "ro": "Începeți ziua de ciclism explorând ruinele vechi din piatră de la Katzouris, cuibărite în dealuri. Continuați coborârea spre umbra Vrysi tou Barba înainte de a atinge promenada de coastă la amiază. Pedalarea de după-amiază vă duce spre est pentru a explora Sotira. Pe măsură ce se apropie seara, încheiați plimbarea la maiestuoasa Mănăstire Acheiropoietos.",
         "en": "Start your cycling day exploring the old stone ruins of Katzouris nestled in the hills. Continue riding downhill to the shade of Vrysi tou Barba before touching the coastal walkway by midday. Afternoon pedaling takes you east to explore the historic layers of Sotira. As evening approaches, conclude your ride at the majestic Acheiropoietos Monastery and nearby religious ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtiges Radfahren auf nassen Straßen ist heute Pflicht. Der Morgen beginnt mit Nieselregen, was die Fahrt nach Katzouris rutschig macht. Mittags suchen wir Schutz in der Nähe von Vrysi tou Barba. Die Nachmittagsfahrt zum Kloster ist kurz und konzentriert. Abends meiden wir die Küstenwege wegen des starken Winds und beenden die Tour frühzeitig.",
+            "hu": "Ma óvatos kerékpározásra van szükség a vizes utakon. A reggel szemerkélő esővel indul, ami csúszóssá teszi az utat Katzouris felé. Délben keressünk fedett helyet Vrysi tou Barba közelében. A délutáni tekerés a kolostorig rövid és koncentrált. Estére kerüljük a tengerparti szakaszokat az erős szél miatt, és fejezzük be hamar a túrát.",
+            "ro": "Ciclismul prudent pe drumuri umede este obligatoriu astăzi. Dimineața începe cu burniță, făcând drumul spre Katzouris alunecos. La prânz căutăm adăpost lângă Vrysi tou Barba. Plimbarea de după-amiază spre mănăstire este scurtă și concentrată. Seara evităm drumurile de coastă din cauza vântului puternic și încheiem turul devreme.",
+            "en": "Careful cycling on wet roads is mandatory today. Morning starts with drizzle, making the ride to Katzouris slippery. At noon, we seek shelter near Vrysi tou Barba. The afternoon ride to the monastery is short and focused. In the evening, we avoid coastal paths due to strong winds and finish the tour early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Katzouris",
+                "hu": "Katzouris",
+                "ro": "Katzouris",
+                "en": "Katzouris"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine sind bei Nässe sehr rutschig; stellen Sie Ihr Fahrrad sicher auf festem Untergrund ab und erkunden Sie die Anlage vorsichtig zu Fuß.",
+                "hu": "Az antik kövek nedvesen nagyon csúszósak; állítsa le a biciklit stabil talajon, és gyalogosan, óvatos léptekkel fedezze fel a területet.",
+                "ro": "Pietrele antice sunt foarte alunecoase când sunt ude; parcați bicicleta pe teren stabil și explorați situl cu atenție pe jos.",
+                "en": "The ancient stones are very slippery when wet; park your bike securely on firm ground and explore the site carefully on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrysi tou Barba",
+                "hu": "Vrysi tou Barba",
+                "ro": "Vrysi tou Barba",
+                "en": "Vrysi tou Barba"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege hier können bei Regen schlammig werden; prüfen Sie Ihre Bremsen regelmäßig und fahren Sie langsam, um Unfälle zu vermeiden.",
+                "hu": "A burkolatlan utak esőben sarassá válhatnak; ellenőrizze rendszeresen a fékeket, és haladjon lassú tempóban a balesetek elkerülése végett.",
+                "ro": "Drumurile neasfaltate de aici pot deveni noroioase pe ploaie; verificați frânele regulat și conduceți încet pentru a evita accidentele.",
+                "en": "The unpaved roads here can become muddy in the rain; check your brakes regularly and ride at a slow pace to avoid any accidents."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapta Küstenbrücke",
+                "hu": "Lapta tengerparti híd",
+                "ro": "Podul de coastă Lapta",
+                "en": "Lapta Coastal Walkway - bridge"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie vom Rad ab und schieben Sie es über die Brücke; das nasse Holz bietet kaum Grip und der Seitenwind kann gefährlich sein.",
+                "hu": "Szálljon le a kerékpárról és tolja át a hídon; a vizes fa alig tapad, az erős oldalszél pedig könnyen kibillentheti az egyensúlyából.",
+                "ro": "Coborâți de pe bicicletă și împingeți-o peste pod; lemnul umed nu oferă aderență, iar vântul lateral poate fi periculos.",
+                "en": "Dismount your bike and push it across the bridge; the wet wood offers very little grip, and the side winds can be dangerous for riders."
+              }
+            },
+            {
+              "name": {
+                "de": "Sotira",
+                "hu": "Sotira",
+                "ro": "Sotira",
+                "en": "Sotira"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gassen sind bei Regen stimmungsvoll, aber eng; achten Sie auf glatte Pflastersteine und fahren Sie besonders vorausschauend.",
+                "hu": "A történelmi utcák esőben is hangulatosak, de szűkek; ügyeljen a simára kopott, vizes macskakövekre a biztonságos kanyarodás érdekében.",
+                "ro": "Străzile istorice sunt pline de atmosferă pe ploaie, dar înguste; atenție la pavajul umed și conduceți cu multă precauție.",
+                "en": "The historical streets are atmospheric in the rain but narrow; watch out for slick cobblestones to ensure safe cornering and braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Acheiropoietos",
+                "hu": "Acheiropoietos kolostor",
+                "ro": "Mănăstirea Acheiropoietos",
+                "en": "Acheiropoietos Monastery"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster bietet einige überdachte Bereiche, um kurz dem Regen zu entkommen; nutzen Sie die Zeit, um die Architektur im Schutze der Mauern zu bewundern.",
+                "hu": "A kolostor több fedett résszel is rendelkezik, ahol rövid időre menedéket találhat az eső elől; csodálja meg az építészetet a falak oltalma alatt.",
+                "ro": "Mănăstirea are câteva zone acoperite unde vă puteți adăposti de ploaie; profitați de timp pentru a admira arhitectura sub protecția zidurilor.",
+                "en": "The monastery has several covered areas to escape the rain for a while; use the time to admire the architecture under the shelter of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayios Evlavios",
+                "hu": "Ayios Evlavios",
+                "ro": "Ayios Evlavios",
+                "en": "Ayios Evlavios"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein ruhiger Endpunkt; wischen Sie Ihr Fahrrad trocken, bevor Sie es für die Rückfahrt vorbereiten, um Korrosion zu vermeiden.",
+                "hu": "Ez a kis templom csendes végpont; törölje szárazra a kerékpárt a visszaindulás előtt, hogy megelőzze az alkatrészek rozsdásodását.",
+                "ro": "Această mică biserică este un punct final liniștit; ștergeți bicicleta înainte de plecare pentru a preveni coroziunea componentelor.",
+                "en": "This small church is a quiet final stop; wipe down your bike before heading back to prevent corrosion on the chain and gears."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mehrlagige Kleidung ist für die heutige Radtour unerlässlich. Die Morgensonne wärmt die Fahrt nach Katzouris angenehm auf. Mittags ist das Wetter perfekt zum Radfahren ohne die Sommerhitze. Der Nachmittag endet, wenn die Sonne tief sinkt und es schnell kühl wird. Abends ist eine heiße Dusche nach der Rückkehr die beste Belohnung.",
+            "hu": "A réteges öltözködés elengedhetetlen a mai kerékpártúrához. A reggeli napsütés kellemesen felmelegíti az utat Katzouris felé. Délben az időjárás tökéletes a biciklizéshez a nyári hőség nélkül. A délután gyorsan véget ér, amint a nap alacsonyra süllyed és hirtelen lehűl a levegő. Este egy forró zuhany a legjobb jutalom.",
+            "ro": "Îmbrăcămintea în straturi este esențială pentru turul de astăzi. Soarele dimineții încălzește plăcut drumul spre Katzouris. La prânz, vremea este perfectă pentru ciclism fără căldura verii. După-amiaza se termină când soarele coboară și se răcește rapid. Seara, un duș fierbinte la întoarcere este cea mai bună recompensă.",
+            "en": "Layered clothes are essential for today's cycling trip. The morning sun warms the ride to Katzouris pleasantly. Noon is perfect for cycling without the intense summer heat. The afternoon ends as the sun dips low and the air cools rapidly. In the evening, a hot shower upon return is the best reward."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Katzouris",
+                "hu": "Katzouris",
+                "ro": "Katzouris",
+                "en": "Katzouris"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine Pause an den Ruinen; die Steine speichern etwas Wärme, was den Aufenthalt im Winter sehr angenehm macht.",
+                "hu": "Használja ki a déli napsütést egy pihenőre a romoknál; a kövek elraktározzák a meleget, így télen is kellemes itt az időzés.",
+                "ro": "Profită de soarele de la prânz pentru o pauză la ruine; pietrele stochează puțină căldură, ceea ce face șederea foarte plăcută iarna.",
+                "en": "Take advantage of the midday sun for a break at the ruins; the stones store some heat, making it very pleasant to stay here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrysi tou Barba",
+                "hu": "Vrysi tou Barba",
+                "ro": "Vrysi tou Barba",
+                "en": "Vrysi tou Barba"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sichtverhältnisse; ziehen Sie nach der Ankunft eine zusätzliche Schicht an, da man beim Stehenbleiben schnell auskühlt.",
+                "hu": "A tiszta téli levegő távoli kilátást biztosít; vegyen fel egy extra réteget megérkezéskor, mert megállva gyorsan lehűlhet a testhőmérséklete.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă; puneți un strat suplimentar la sosire, deoarece te răcești repede când te oprești.",
+                "en": "The clear winter air provides excellent far-reaching views; put on an extra layer upon arrival as you cool down quickly when stopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapta Küstenbrücke",
+                "hu": "Lapta tengerparti híd",
+                "ro": "Podul de coastă Lapta",
+                "en": "Lapta Coastal Walkway - bridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Wind an der Küste; achten Sie darauf, dass Ihre Handschuhe winddicht sind, da die Kälte auf dem Rad an den Händen am stärksten spürbar ist.",
+                "hu": "Élvezze a friss tengeri szelet a parton; ügyeljen rá, hogy a kesztyűje szélálló legyen, mert tekerés közben a kezek hűlnek le a leghamarabb.",
+                "ro": "Bucurați-vă de briza proaspătă de pe coastă; asigurați-vă că mănușile sunt rezistente la vânt, deoarece frigul se simte cel mai tare la mâini.",
+                "en": "Enjoy the fresh sea breeze along the coast; make sure your gloves are windproof, as the cold is felt most in your hands while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Sotira",
+                "hu": "Sotira",
+                "ro": "Sotira",
+                "en": "Sotira"
+              },
+              "tip_5lang": {
+                "de": "Die Dorfstraßen sind im Winter ruhig und leer; nutzen Sie die Zeit für Fotos ohne Touristenmassen, bevor das Licht am späten Nachmittag schwächer wird.",
+                "hu": "A falu utcái télen csendesek és üresek; használja ki az időt a tömegmentes fotózáshoz, mielőtt a késő délutáni fények elhalványulnának.",
+                "ro": "Străzile satului sunt liniștite și goale iarna; profită de timp pentru fotografii fără mulțimi, înainte ca lumina să scadă după-amiaza târziu.",
+                "en": "The village streets are quiet and empty in winter; use the time for photos without crowds before the late afternoon light begins to fade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Acheiropoietos",
+                "hu": "Acheiropoietos kolostor",
+                "ro": "Mănăstirea Acheiropoietos",
+                "en": "Acheiropoietos Monastery"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster wirkt im sanften Winterlicht besonders majestätisch; planen Sie Ihren Besuch so, dass Sie vor Sonnenuntergang wieder auf dem Rückweg sind.",
+                "hu": "A kolostor különösen méltóságteljes a lágy téli fényben; tervezze úgy a látogatást, hogy naplemente előtt már úton legyen visszafelé.",
+                "ro": "Mănăstirea pare deosebit de maiestuoasă în lumina blândă de iarnă; planificați vizita astfel încât să porniți înapoi înainte de apus.",
+                "en": "The monastery looks particularly majestic in the soft winter light; plan your visit so you're already on your way back before the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayios Evlavios",
+                "hu": "Ayios Evlavios",
+                "ro": "Ayios Evlavios",
+                "en": "Ayios Evlavios"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier zügig, da die Kälte nach Sonnenuntergang schnell zunimmt; eine Thermoskanne mit warmem Tee im Rucksack ist jetzt Gold wert.",
+                "hu": "Fejezze be itt gyorsan a túrát, mert naplemente után hirtelen nő a hidegérzet; egy termosz meleg tea a hátizsákban most aranyat ér.",
+                "ro": "Încheiați turul rapid aici, deoarece frigul crește brusc după apus; un termos cu ceai cald în rucsac este acum de neprețuit.",
+                "en": "Finish your tour here quickly as the cold increases sharply after sunset; a thermos of warm tea in your backpack is worth gold now."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Az autós túra a Selvili Tepe csúcsra való felhajtással kezdődik a sziget lenyűgöző hegygerincén. Ereszkedjen le a zászlókhoz, és ebéd előtt merüljön el a helyi történelemben a Cengiz abinál. A délutánt olyan különleges megállóknak szenteli, mint a Book Crossing és a Glass gaff. Az este a tengerpartra viszi, hogy megcsodálja Sotira és az Acheiropoietos sziluettjét.",
         "ro": "Excursia auto începe cu un drum spre Selvili Tepe, aflat pe creasta montană impresionantă a insulei. Coborâți spre steaguri și pătrundeți în istoria locală la Cengiz abi înainte de prânz. După-amiaza este dedicată unor opriri inedite precum Book Crossing și Glass gaff. Seara vă duce pe coastă pentru a admira siluetele dramatice de la Sotira și Acheiropoietos.",
         "en": "Your road trip begins with a drive to Selvili Tepe, standing atop the island's impressive mountain ridge. Descend towards the flags and delve into the local history at Cengiz abi before lunch. The afternoon is dedicated to quirky stops like the Book Crossing and Glass gaff in the main district. Evening takes you to the coast to witness the dramatic silhouettes of Sotira and Acheiropoietos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nebel auf dem Selvili Tepe macht die Fahrt heute abenteuerlich. Wir fahren vorsichtig durch Pfützen zur Küste hinunter. Die Stopps sind wegen des Regens kürzer, aber die Aussicht aus dem Auto bleibt grandios. Mittags ist es im Wagen gemütlich, während draußen der Regen gegen die Scheiben peitscht. Abends genießen wir die Stimmung an der Küste vom trockenen Innenraum aus.",
+            "hu": "A köd a Selvili Tepe csúcsán ma kalandossá teszi az utazást. Óvatosan hajtunk át a tócsákon a tengerpart felé. A megállók az eső miatt rövidebbek, de az autóból nyíló kilátás továbbra is pazar. Délben kényelmes a kocsiban ülni, miközben kint az eső veri az ablakot. Estére a tengerparti hangulatot a száraz utastérből élvezhetjük leginkább.",
+            "ro": "Ceața de pe Selvili Tepe face călătoria de astăzi aventuroasă. Conducem cu atenție prin bălți spre coastă. Oprirea este mai scurtă din cauza ploii, dar vederea din mașină rămâne grandioasă. La prânz este confortabil în mașină în timp ce afară ploaia bate în geamuri. Seara ne bucurăm de atmosfera de pe coastă din interiorul uscat al mașinii.",
+            "en": "Fog on Selvili Tepe makes the drive adventurous today. We drive carefully through puddles down to the coast. Stops are shorter due to the rain, but the views from the car remain grand. At noon, it's cozy in the car while rain lashes against the windows. In the evening, we enjoy the coastal atmosphere from the dry interior of our vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Selvili Tepe",
+                "hu": "Selvili Tepe",
+                "ro": "Selvili Tepe",
+                "en": "Selvili Tepe"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraße kann bei Regen rutschig und neblig sein; fahren Sie langsam und nutzen Sie das Fernlicht nur bei Bedarf, um die Sicht nicht zu verschlechtern.",
+                "hu": "A hegyi út esőben csúszós és ködös lehet; haladjon lassan, és csak szükség esetén használja a távolsági fényszórót a jobb látási viszonyokért.",
+                "ro": "Drumul montan poate fi alunecos și cețos pe ploaie; conduceți încet și folosiți faza lungă doar dacă este necesar pentru o vizibilitate mai bună.",
+                "en": "The mountain road can be slippery and foggy in the rain; drive slowly and use fog lights if necessary to maintain clear visibility on the turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Flaggen",
+                "hu": "Zászlók",
+                "ro": "Steaguri",
+                "en": "Flags"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Flaggen direkt vom Parkplatz aus, um nicht nass zu werden; der Kontrast der Farben gegen den grauen Himmel ist fotogen.",
+                "hu": "Élvezze a zászlók látványát közvetlenül a parkolóból, hogy ne ázzon el; a színek kontrasztja a szürke égbolt előtt különösen jól mutat a fotókon.",
+                "ro": "Bucurați-vă de vederea steagurilor direct din parcare pentru a nu vă uda; contrastul culorilor pe fundalul cerului gri este foarte fotogenic.",
+                "en": "Enjoy the sight of the flags directly from the parking area to stay dry; the contrast of colors against the grey sky is very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Cengiz abi",
+                "hu": "Cengiz abi",
+                "ro": "Cengiz abi",
+                "en": "Cengiz abi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trockenen Fußes zu diesem historischen Stopp zu gelangen; ein Regenschirm im Kofferraum ist heute ein Muss.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy száraz lábbal érjen ehhez a történelmi ponthoz; egy esernyő a csomagtartóban ma alapfelszerelés.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat la acest punct istoric; o umbrelă în portbagaj este astăzi o piesă esențială.",
+                "en": "Park as close to the entrance as possible to reach this historical stop dry-shod; having an umbrella in the trunk is a must-have today."
+              }
+            },
+            {
+              "name": {
+                "de": "Book Crossing",
+                "hu": "Book Crossing",
+                "ro": "Book Crossing",
+                "en": "Book Crossing"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp im Freien sollte kurz gehalten werden; wählen Sie schnell ein Buch aus oder machen Sie ein Foto vom Wagen aus, wenn es zu stark regnet.",
+                "hu": "Ezt a szabadtéri megállót érdemes rövidre fogni; válasszon gyorsan egy könyvet, vagy fotózzon az autóból, ha éppen elered az eső.",
+                "ro": "Această oprire în aer liber ar trebui să fie scurtă; alegeți rapid o carte sau faceți o fotografie din mașină dacă plouă prea tare.",
+                "en": "This outdoor stop should be kept brief; pick a book quickly or take a photo from the car window if the rain gets too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Glass gaff",
+                "hu": "Glass gaff",
+                "ro": "Glass gaff",
+                "en": "Glass gaff"
+              },
+              "tip_5lang": {
+                "de": "Die Glasflächen wirken bei Regen besonders glänzend; parken Sie gegenüber, um das Wahrzeichen ohne auszusteigen in Ruhe betrachten zu können.",
+                "hu": "Az üvegfelületek esőben különösen csillognak; parkoljon a szemközti oldalon, hogy kiszállás nélkül is alaposan szemügyre vehesse az építményt.",
+                "ro": "Suprafețele de sticlă strălucesc deosebit pe ploaie; parcați vis-a-vis pentru a observa monumentul în liniște fără a fi nevoie să coborâți.",
+                "en": "The glass surfaces look particularly shiny in the rain; park opposite to observe the landmark comfortably without having to get out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Acheiropoietos",
+                "hu": "Acheiropoietos kolostor",
+                "ro": "Mănăstirea Acheiropoietos",
+                "en": "Acheiropoietos Monastery"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster bietet Schutz vor dem Regen; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung, während es draußen am Meer stürmt.",
+                "hu": "A kolostor védelmet nyújt az eső elől; használja ki az időt egy alapos belső körbevezetésre, miközben kint a tengerparton tombol a szél.",
+                "ro": "Mănăstirea oferă protecție împotriva ploii; profită de timp pentru o vizită interioară detaliată în timp ce afară pe coastă este furtună.",
+                "en": "The monastery provides good shelter from the rain; use the time for a detailed indoor tour while the storm rages outside by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayios Evlavios",
+                "hu": "Ayios Evlavios",
+                "ro": "Ayios Evlavios",
+                "en": "Ayios Evlavios"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein friedlicher Ort bei Regen; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen auf dem unbefestigten Parkplatz.",
+                "hu": "A kis templom békés helyszín esőben is; az autóba való be- és kiszálláskor ügyeljen a mély tócsákra a burkolatlan parkoló területén.",
+                "ro": "Mica biserică este un loc liniștit pe ploaie; atenție la bălțile adânci din parcarea neasfaltată când urcați sau coborâți din mașină.",
+                "en": "The small church is a peaceful spot in the rain; watch out for deep puddles in the unpaved parking area when getting in or out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Sotira",
+                "hu": "Sotira",
+                "ro": "Sotira",
+                "en": "Sotira"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier gemütlich; suchen Sie sich einen Parkplatz mit Blick auf die beleuchtete Kirche, um die nasse Atmosphäre sicher zu genießen.",
+                "hu": "Zárja itt a napot hangulatosan; keressen egy olyan parkolóhelyet, ahonnan rálát a kivilágított templomra, így biztonságban élvezheti az esős estét.",
+                "ro": "Încheiați ziua într-un mod plăcut aici; căutați un loc de parcare cu vedere la biserica iluminată pentru a vă bucura în siguranță de seara ploioasă.",
+                "en": "End the day here atmospherically; find a parking spot with a view of the illuminated church to enjoy the rainy evening safely from your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Möglicher Frost auf den Gipfeln macht die Fahrt zum Selvili Tepe heute besonders reizvoll. Der klare Winterhimmel bietet eine fantastische Fernsicht während der gesamten Fahrt. Die Nachmittagssonne taucht das Kloster in ein warmes Gold, bevor es gegen 17:00 Uhr dunkel wird. Abends genießen wir ein warmes Abendessen in der Stadt, bevor die Kälte der Nacht einsetzt.",
+            "hu": "A csúcsokon tapasztalható fagy ma különösen vonzóvá teszi a Selvili Tepe felé vezető utat. A tiszta téli égbolt fantasztikus kilátást biztosít az egész út alatt. A délutáni nap aranyfénybe vonja a kolostort, mielőtt 17:00 körül besötétedne. Este egy meleg vacsora a városban a legjobb befejezés, mielőtt beállna az éjszakai hideg.",
+            "ro": "Posibilul îngheț de pe vârfuri face călătoria spre Selvili Tepe deosebit de atractivă astăzi. Cerul senin de iarnă oferă o vizibilitate fantastică pe tot parcursul drumului. Soarele de după-amiază scaldă mănăstirea în aur înainte de a se întuneca pe la 17:00. Seara ne bucurăm de o cină caldă în oraș înainte de lăsarea frigului.",
+            "en": "Possible frost on the peaks makes the drive to Selvili Tepe particularly appealing today. The clear winter sky offers fantastic visibility throughout the journey. Afternoon sun bathes the monastery in warm gold before darkness falls around 17:00. In the evening, enjoy a warm dinner in town before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Selvili Tepe",
+                "hu": "Selvili Tepe",
+                "ro": "Selvili Tepe",
+                "en": "Selvili Tepe"
+              },
+              "tip_5lang": {
+                "de": "Am Gipfel kann es im Winter extrem windig und kalt sein; bleiben Sie für die beste Aussicht im Auto oder steigen Sie nur kurz mit warmer Jacke aus.",
+                "hu": "A csúcson télen rendkívül szeles és hideg lehet az idő; a legjobb kilátásért maradjon a kocsiban, vagy csak rövid időre szálljon ki meleg kabátban.",
+                "ro": "Pe vârf poate fi extrem de vânt și frig iarna; rămâneți în mașină pentru cea mai bună vedere sau coborâți doar scurt timp cu o jachetă groasă.",
+                "en": "It can be extremely windy and cold at the summit in winter; stay in the car for the best views or step out only briefly with a very warm jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Flaggen",
+                "hu": "Zászlók",
+                "ro": "Steaguri",
+                "en": "Flags"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist oft besser als im Sommer; nutzen Sie ein Fernglas vom Parkplatz aus, um Details an der Küste und am Horizont zu entdecken.",
+                "hu": "A téli látótávolság gyakran jobb, mint nyáron; használjon távcsövet a parkolóból, hogy felfedezze a tengerpart és a horizont apró részleteit.",
+                "ro": "Vizibilitatea iarna este adesea mai bună decât vara; folosiți binoclul din parcare pentru a descoperi detalii de pe coastă și de la orizont.",
+                "en": "Winter visibility is often superior to summer; use binoculars from the parking area to spot distant details along the coast and horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Cengiz abi",
+                "hu": "Cengiz abi",
+                "ro": "Cengiz abi",
+                "en": "Cengiz abi"
+              },
+              "tip_5lang": {
+                "de": "Dieser geschichtsträchtige Ort ist im Winter ruhig und bietet gute Parkmöglichkeiten; nutzen Sie das weiche Licht für stimmungsvolle Außenaufnahmen.",
+                "hu": "Ez a történelmi helyszín télen csendes, és kiváló parkolási lehetőséget kínál; használja ki a lágy fényeket a hangulatos külső fotók készítéséhez.",
+                "ro": "Acest loc istoric este liniștit iarna și oferă condiții bune de parcare; profită de lumina blândă pentru fotografii exterioare pline de atmosferă.",
+                "en": "This historic spot is quiet in winter and offers easy parking; take advantage of the soft winter light for atmospheric exterior photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Book Crossing",
+                "hu": "Book Crossing",
+                "ro": "Book Crossing",
+                "en": "Book Crossing"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein neues Buch ist ideal; lesen Sie es später im warmen Wagen weiter, während Sie die Aussicht auf die winterliche Landschaft genießen.",
+                "hu": "Ideális egy rövid megálló egy új könyvért; olvassa tovább később a fűtött autóban, miközben a téli táj látványában gyönyörködik.",
+                "ro": "O scurtă oprire pentru o carte nouă este ideală; citiți-o mai târziu în mașina încălzită în timp ce admirați peisajul hibernal.",
+                "en": "A quick stop for a new book is ideal; you can read it later in the warmth of your car while enjoying the surrounding winter scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Glass gaff",
+                "hu": "Glass gaff",
+                "ro": "Glass gaff",
+                "en": "Glass gaff"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen spiegelt die tiefstehende Wintersonne wunderschön wider; parken Sie so, dass Sie das Lichtspiel ohne Blendung beobachten können.",
+                "hu": "Az építmény gyönyörűen tükrözi vissza az alacsonyan járó téli nap sugarait; parkoljon úgy, hogy vakítás nélkül figyelhesse meg a fények játékát.",
+                "ro": "Monumentul reflectă frumos soarele de iarnă care apune; parcați astfel încât să puteți observa jocul de lumini fără a fi orbit.",
+                "en": "The landmark reflects the low-lying winter sun beautifully; park in a spot where you can observe the light play without being dazzled by glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Acheiropoietos",
+                "hu": "Acheiropoietos kolostor",
+                "ro": "Mănăstirea Acheiropoietos",
+                "en": "Acheiropoietos Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise am Kloster ist im Winter sehr kühl; nutzen Sie die geschützten Innenhöfe für einen Rundgang und kehren Sie dann schnell ins warme Auto zurück.",
+                "hu": "A tengeri szél a kolostornál télen nagyon metsző; használja a védett belső udvarokat a körbejáráshoz, majd térjen vissza a fűtött utastérbe.",
+                "ro": "Briza mării la mănăstire este foarte rece iarna; folosiți curțile interioare protejate pentru vizită și apoi reveniți rapid în mașina caldă.",
+                "en": "The sea breeze at the monastery is very chilly in winter; use the sheltered courtyards for your tour and then return quickly to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayios Evlavios",
+                "hu": "Ayios Evlavios",
+                "ro": "Ayios Evlavios",
+                "en": "Ayios Evlavios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang, um das warme Licht auf den Mauern zu sehen; die Heizung im Wagen sollte für die Weiterfahrt bereit sein.",
+                "hu": "Látogasson el a templomhoz röviddel naplemente előtt a falakon megcsillanó fényekért; tartsa készenlétben az autó fűtését a továbbinduláshoz.",
+                "ro": "Vizitați biserica cu puțin timp înainte de apus pentru a vedea lumina caldă pe ziduri; încălzirea mașinii ar trebui să fie gata pentru plecare.",
+                "en": "Visit the church shortly before sunset to see the warm light on the walls; ensure your car's heater is ready for the drive to the final stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Sotira",
+                "hu": "Sotira",
+                "ro": "Sotira",
+                "en": "Sotira"
+              },
+              "tip_5lang": {
+                "de": "Der Ort ist abends stimmungsvoll beleuchtet; bleiben Sie im Auto und genießen Sie den Anblick, da die Temperaturen nach Einbruch der Dunkelheit stark fallen.",
+                "hu": "A helyszín este hangulatosan van kivilágítva; maradjon az autóban és onnan csodálja a látványt, mert sötétedés után a hőmérséklet hirtelen zuhan.",
+                "ro": "Locul este iluminat feeric seara; rămâneți în mașină și bucurați-vă de priveliște, deoarece temperaturile scad brusc după lăsarea întunericului.",
+                "en": "The site is atmospherically lit in the evening; stay in the car and enjoy the view as temperatures drop significantly once the sun goes down."
+              }
+            }
+          ]
+        }
       }
     }
   }

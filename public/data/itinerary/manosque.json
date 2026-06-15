@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Manosque történelmi szívében. Sétáljon a központi tereken, és látogassa meg az ősi román stílusú templomot. Az építészet letűnt korokról mesél. Dél körül a Parc de Drouille hűvös, árnyékos ösvényei hívogatnak egy pihentető szünetre. Délután merüljön el a provence-i irodalomban a Jean Giono Központban. Végül csodálja meg a hatalmas városkapukat, amelyek sziluettje tökéletes keretet ad az esti szürkületnek.",
         "ro": "Începeți-vă ziua în inima istorică a orașului Manosque. Plimbați-vă prin piețele centrale și vizitați vechea biserică romanică. Arhitectura spune povești din vremuri demult apuse. Pe la prânz, aleile răcoroase și umbrite din Parc de Drouille vă invită la o pauză relaxantă. După-amiaza, pătrundeți în literatura provensală la Centrul Jean Giono. La final, admirați porțile masive ale orașului, a căror siluetă oferă cadrul perfect pentru amurg.",
         "en": "Start your day in the historic heart of Manosque. Stroll through the central squares and visit the ancient Romanesque church. The architecture tells stories of bygone eras. Around midday, the cool, shaded paths of Parc de Drouille invite you for a relaxing break. In the afternoon, dive deep into Provençal literature at the Jean Giono Center. Finally, admire the massive city gates, their silhouettes providing the perfect frame for the evening dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag unter den Arkaden des Rathauses, wo das Pflaster bei Regen glänzt. Mittags bietet die Kirche Notre-Dame trockenen Zuflucht und spirituelle Ruhe. Am Nachmittag ist das Jean-Giono-Zentrum der ideale Ort, um sich in Literatur zu vertiefen, während es draußen stürmt. Der Abend endet an den historischen Stadttoren, die im grauen Licht eine mystische Atmosphäre ausstrahlen.",
+            "hu": "Kezdje a napot a városháza árkádjai alatt, ahol az esőben csillogó kövezet sajátos hangulatot áraszt. Délben a Notre-Dame templom nyújt száraz menedéket és csendes elmélyülést. Délután a Jean Giono Központ ideális hely a kultúrára, amíg kint esik. Az estét a történelmi városkapuknál zárjuk, melyek a szürkületi fényben és a vizes aszfalton tükröződve misztikus látványt nyújtanak.",
+            "ro": "Începeți ziua sub arcadele primăriei, unde pavajul strălucește sub ploaie. La prânz, biserica Notre-Dame oferă un adăpost uscat și liniște spirituală. După-amiaza, Centrul Jean Giono este locul ideal pentru cultură în timp ce afară plouă. Seara se încheie la porțile istorice ale orașului, care emană o atmosferă mistică reflectată în bălțile de pe străzile vechi.",
+            "en": "Start your day under the town hall arcades, where the pavement glistens in the rain. At noon, the Notre-Dame church provides dry shelter and spiritual peace. In the afternoon, the Jean Giono Center is the perfect indoor spot to enjoy literature while it pours outside. The evening concludes at the historic city gates, which look mystical reflected in the wet streets under the dim lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville Square",
+                "hu": "Hôtel de Ville Square",
+                "ro": "Hôtel de Ville Square",
+                "en": "Hôtel de Ville Square"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben auf dem nassen Marktplatz vom Schutz der umliegenden Arkaden aus und nutzen Sie wasserfeste Schuhe für das Kopfsteinpflaster.",
+                "hu": "Figyelje a vizes főtér nyüzsgését a környékbeli árkádok védelméből, és viseljen vízálló lábbelit a csúszós macskakövek miatt.",
+                "ro": "Observați agitația din piața umedă de sub protecția arcadelor din jur și purtați încălțăminte impermeabilă pentru pavajul alunecos.",
+                "en": "Observe the bustle of the wet square from the protection of nearby arcades and wear waterproof shoes for the slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Romigier",
+                "hu": "Church of Notre-Dame-de-Romigier",
+                "ro": "Church of Notre-Dame-de-Romigier",
+                "en": "Church of Notre-Dame-de-Romigier"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schwarze Madonna im Inneren, während das Trommeln des Regens auf dem Dach eine besonders andächtige Akustik erzeugt.",
+                "hu": "Csodálja meg a Fekete Madonnát a belső térben, miközben az eső kopogása a tetőn különlegesen áhítatos akusztikát teremt.",
+                "ro": "Admirați Madona Neagră în interior, în timp ce răpăitul ploii pe acoperiș creează o acustică deosebit de pioasă.",
+                "en": "Admire the Black Madonna inside while the drumming of rain on the roof creates a particularly solemn acoustic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de la Saunerie",
+                "hu": "Porte de la Saunerie",
+                "ro": "Porte de la Saunerie",
+                "en": "Porte de la Saunerie"
+              },
+              "tip_5lang": {
+                "de": "Dieses massive Steintor bietet kurzzeitig Schutz vor Schauern; betrachten Sie die Details der Befestigung, während Sie auf eine Regenpause warten.",
+                "hu": "Ez a masszív kőkapu rövid ideig védelmet nyújt a záporok elől; vizsgálja meg az erődítmény részleteit, miközben az eső szünetére vár.",
+                "ro": "Această poartă masivă de piatră oferă adăpost temporar împotriva averselor; studiați detaliile fortificației în timp ce așteptați oprirea ploii.",
+                "en": "This massive stone gate offers temporary shelter from showers; examine the fortification details while waiting for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Drouille",
+                "hu": "Parc de Drouille",
+                "ro": "Parc de Drouille",
+                "en": "Parc de Drouille"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Duft der nassen Pinien bei einem kurzen Spaziergang unter einem stabilen Regenschirm auf den befestigten Wegen.",
+                "hu": "Élvezze a vizes fenyők friss illatát egy rövid séta során egy stabil esernyő alatt, szigorúan a kiépített, kevésbé sáros utakon.",
+                "ro": "Bucurați-vă de mirosul proaspăt al pinilor uzi în timpul unei scurte plimbări sub o umbrelă solidă pe aleile pavate ale parcului.",
+                "en": "Enjoy the fresh scent of wet pines during a short walk under a sturdy umbrella, sticking to the paved paths to avoid mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean Giono Center",
+                "hu": "Jean Giono Center",
+                "ro": "Jean Giono Center",
+                "en": "Jean Giono Center"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier ausgiebig Zeit im Trockenen, um das literarische Erbe zu entdecken, und nutzen Sie die Garderobe für Ihre nassen Mäntel.",
+                "hu": "Töltsön itt hosszabb időt szárazon, fedezze fel az irodalmi örökséget, és használja a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Petreceți aici mai mult timp la adăpost pentru a descoperi moștenirea literară și folosiți garderoba pentru hainele umede.",
+                "en": "Spend extended time here in the dry to discover the literary heritage, and make use of the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte du Soubeyran",
+                "hu": "Porte du Soubeyran",
+                "ro": "Porte du Soubeyran",
+                "en": "Porte du Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Tores spiegelt sich abends wunderschön in den Pfützen; halten Sie Ihre Kamera unter einem Schutzcover bereit.",
+                "hu": "A kapu megvilágítása este gyönyörűen tükröződik a tócsákban; tartsa a fényképezőgépét védőtok alatt a legjobb esti fotókhoz.",
+                "ro": "Iluminarea porții se reflectă superb în bălți seara; păstrați aparatul foto sub o husă de protecție pentru fotografii reușite.",
+                "en": "The gate's lighting reflects beautifully in the puddles at night; keep your camera under a protective cover for the best shots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Manosque weckt die Sinne mit frischer Luft am Rathausplatz. Mittags wärmt die Sonne die alten Steinmauern der Kirche Notre-Dame. Nachmittags ist der Besuch im Jean-Giono-Zentrum perfekt, um der Kälte zu entfliehen, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend endet bei einer heißen Schokolade in der Nähe des Porte du Soubeyran.",
+            "hu": "A tiszta téli reggel Manosque-ban friss levegővel fogadja a városháza téren. Délben a nap bágyadtan melengeti a Notre-Dame templom ősi kőfalait. Délután a Jean Giono Központ látogatása tökéletes a hideg elől való menekülésre, mielőtt 17:00 körül lemegy a nap. Az este egy forró csokoládéval zárul a Porte du Soubeyran környéki hangulatos kávézók egyikében.",
+            "ro": "O dimineață senină de iarnă în Manosque vă întâmpină cu aer proaspăt în piața primăriei. La prânz, soarele încălzește blând zidurile vechi de piatră ale bisericii Notre-Dame. După-amiaza, vizita la Centrul Jean Giono este perfectă pentru a scăpa de frig înainte ca soarele să apună în jur de ora 17:00. Seara se încheie cu o ciocolată caldă lângă Porte du Soubeyran.",
+            "en": "A crisp winter morning in Manosque greets you with fresh air at the Town Hall square. At noon, the sun faintly warms the ancient stone walls of the Notre-Dame church. In the afternoon, a visit to the Jean Giono Center is perfect for escaping the cold before the sun sets around 5:00 PM. The evening ends with a hot chocolate in a cozy cafe near the Porte du Soubeyran."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville Square",
+                "hu": "Hôtel de Ville Square",
+                "ro": "Hôtel de Ville Square",
+                "en": "Hôtel de Ville Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die belebende Morgenkälte auf dem Platz, aber tragen Sie Schichten, da die schattigen Gassen deutlich kühler sind als die sonnigen Bereiche.",
+                "hu": "Élvezze a frissítő reggeli hideget a téren, de öltözzön rétegesen, mert az árnyékos sikátorok sokkal hűvösebbek a napos részeknél.",
+                "ro": "Bucurați-vă de frigul revigorant al dimineții în piață, dar îmbrăcați-vă în straturi, deoarece străzile umbrite sunt mult mai reci decât zonele însorite.",
+                "en": "Enjoy the invigorating morning chill in the square, but wear layers as the shaded alleys are significantly cooler than the sunny spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Romigier",
+                "hu": "Church of Notre-Dame-de-Romigier",
+                "ro": "Church of Notre-Dame-de-Romigier",
+                "en": "Church of Notre-Dame-de-Romigier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die stille Wärme im Inneren der Kirche für eine kurze Pause und bewundern Sie das sanfte Winterlicht, das durch die Fenster fällt.",
+                "hu": "Használja ki a templom belső csendes melegét egy rövid pihenőre, és csodálja meg az ablakokon beszűrődő lágy téli fényt.",
+                "ro": "Profitați de căldura liniștită din interiorul bisericii pentru o scurtă pauză și admirați lumina blândă de iarnă care trece prin ferestre.",
+                "en": "Take advantage of the quiet warmth inside the church for a short break and admire the soft winter light streaming through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de la Saunerie",
+                "hu": "Porte de la Saunerie",
+                "ro": "Porte de la Saunerie",
+                "en": "Porte de la Saunerie"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht setzt die Steine des Tores mittags perfekt in Szene; achten Sie auf glatte Stellen im Schatten des Bogens.",
+                "hu": "Az aranyló téli fény délben tökéletesen kiemeli a kapu köveit; figyeljen az esetleges jeges foltokra a boltív árnyékos oldalán.",
+                "ro": "Lumina aurie de iarnă evidențiază perfect pietrele porții la prânz; atenție la porțiunile alunecoase din umbra arcadei.",
+                "en": "The golden winter light highlights the gate's stones perfectly at noon; watch out for icy patches in the shadow of the archway."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Drouille",
+                "hu": "Parc de Drouille",
+                "ro": "Parc de Drouille",
+                "en": "Parc de Drouille"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang, um warm zu bleiben, und bewundern Sie die kahle, aber elegante Silhouette der Bäume gegen den blauen Himmel.",
+                "hu": "Sétáljon tempósan, hogy melegen tartsa magát, és csodálja meg a fák kopasz, de elegáns sziluettjét a tiszta téli égbolt előtt.",
+                "ro": "Plimbați-vă într-un ritm alert pentru a vă menține căldura și admirați silueta elegantă a copacilor golași pe fundalul cerului albastru.",
+                "en": "Walk briskly to stay warm and admire the bare but elegant silhouette of the trees against the clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean Giono Center",
+                "hu": "Jean Giono Center",
+                "ro": "Jean Giono Center",
+                "en": "Jean Giono Center"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den späten Nachmittag, um die Ausstellungen im Geheizten zu genießen, bevor die winterliche Dunkelheit draußen einsetzt.",
+                "hu": "Tökéletes helyszín a késő délutánhoz, hogy fűtött környezetben élvezze a kiállításokat, mielőtt odakint beállna a téli sötétség.",
+                "ro": "Locul perfect pentru după-amiaza târzie, pentru a vă bucura de expoziții într-un mediu încălzit înainte de lăsarea întunericului.",
+                "en": "The perfect spot for late afternoon to enjoy exhibits in a heated environment before the winter darkness sets in outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte du Soubeyran",
+                "hu": "Porte du Soubeyran",
+                "ro": "Porte du Soubeyran",
+                "en": "Porte du Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Tor kurz vor 17:00 Uhr, um das Abendrot einzufangen, und suchen Sie danach sofort ein nahegelegenes warmes Bistro auf.",
+                "hu": "Látogassa meg a kaput közvetlenül 17:00 előtt, hogy elkapja az alkonyi fényeket, majd keressen egy közeli meleg bisztrót a felmelegedéshez.",
+                "ro": "Vizitați poarta chiar înainte de ora 17:00 pentru a surprinde culorile amurgului, apoi căutați imediat un bistro cald în apropiere.",
+                "en": "Visit the gate just before 5:00 PM to catch the sunset colors, then immediately seek out a nearby warm bistro to heat up."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Pattanjon nyeregbe, és fedezze fel Manosque-ot két keréken! Induljon a Hôtel de Ville elől, ahol a reggeli nyüzsgés kezdődik. A Jean Giono Központ kulturális megállója után tekerjen fel a Tour du Mont d'Or-hoz. A kilátás a Durance-völgyre lélegzetelállító. Délután guruljon el kényelmesen az Osco Manosco ökológiai víztározóhoz. Fejezze be a túrát a Plan d'eau des Vannades tónál, ahol a víz az esti fényben csillog.",
         "ro": "Urcați pe bicicletă și explorați Manosque pe două roți! Începeți la Hôtel de Ville, unde începe forfota matinală. După o oprire culturală la Centrul Jean Giono, urcați spre Tour du Mont d'Or. Priveliștea asupra Văii Durance este uluitoare. După-amiaza, coborâți ușor către bazinul ecologic Osco Manosco. Încheiați turul la Plan d'eau des Vannades, unde apa strălucește în lumina serii.",
         "en": "Pedal your way through Manosque on two wheels! Start at the Hôtel de Ville, where the morning bustle begins. After a cultural stop at the Jean Giono Center, ride up to the Tour du Mont d'Or. The view over the Durance Valley is truly breathtaking. In the afternoon, roll leisurely to the ecological basin of Osco Manosco. Finish the tour at Plan d'eau des Vannades, with the water sparkling in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Manosque bei Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster der Altstadt. Nach dem Vormittag am Rathaus bietet das Jean-Giono-Zentrum eine lange Pause im Trockenen. Die Fahrt zum Tour du Mont d'Or ist anstrengend, aber die kühle Luft ist erfrischend. Den Abschluss bildet der Plan d'eau des Vannades, wo die Regentropfen auf der Wasseroberfläche ein ruhiges Muster bilden.",
+            "hu": "Az esős Manosque-ban való biciklizés óvatosságot igényel az óváros csúszós macskakövein. A városházi kezdés után a Jean Giono Központ nyújt hosszabb száraz pihenőt. A Mont d'Or toronyhoz vezető út megterhelő, de a hűvös levegő frissítő. A nap a Vannades-tónál zárul, ahol az esőcseppek nyugodt mintázatot rajzolnak a vízfelszínre.",
+            "ro": "Ciclismul în Manosque pe ploaie necesită prudență pe pavajul alunecos din orașul vechi. După dimineața la primărie, Centrul Jean Giono oferă o pauză lungă la uscat. Drumul spre Tour du Mont d'Or este solicitant, dar aerul rece este revigorant. Finalul este la Plan d'eau des Vannades, unde picăturile de ploaie formează modele liniștitoare pe suprafața apei.",
+            "en": "Cycling in Manosque in the rain requires caution on the slippery cobblestones of the old town. After a morning at the Town Hall, the Jean Giono Center offers a long dry break. The ride to Tour du Mont d'Or is demanding, but the cool air is refreshing. The day ends at Plan d'eau des Vannades, where raindrops create peaceful patterns on the water's surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville Square",
+                "hu": "Hôtel de Ville Square",
+                "ro": "Hôtel de Ville Square",
+                "en": "Hôtel de Ville Square"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf dem nassen Platz; die glatten Steine erfordern einen längeren Bremsweg für Fahrräder.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes téren; a csúszós kövek hosszabb féktávot igényelnek a kerékpárosoktól.",
+                "ro": "Verificați frânele înainte de pornire în piața umedă; pietrele alunecoase necesită o distanță de frânare mai mare pentru biciclete.",
+                "en": "Check your brakes before starting in the wet square; the slippery stones require a longer braking distance for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Romigier",
+                "hu": "Church of Notre-Dame-de-Romigier",
+                "ro": "Church of Notre-Dame-de-Romigier",
+                "en": "Church of Notre-Dame-de-Romigier"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und nutzen Sie die Kirchenbesichtigung, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Parkoljon le védett helyen, és használja ki a templomlátogatást, hogy röviden lerázza a vizet az esőruházatáról.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de vizita la biserică pentru a vă scutura scurt pelerina de ploaie.",
+                "en": "Park your bike in a sheltered spot and use the church visit to briefly shake the water off your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean Giono Center",
+                "hu": "Jean Giono Center",
+                "ro": "Jean Giono Center",
+                "en": "Jean Giono Center"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier einen längeren Aufenthalt ein, um schwere Regenschauer abzuwarten, während Ihr Fahrrad draußen gesichert ist.",
+                "hu": "Tervezzen ide hosszabb tartózkodást, hogy megvárja a hevesebb záporok végét, miközben kerékpárja kint biztonságban van.",
+                "ro": "Planificați o ședere mai lungă aici pentru a aștepta trecerea averselor grele, în timp ce bicicleta este asigurată afară.",
+                "en": "Plan an extended stay here to wait out heavy showers while your bike is secured outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour du Mont d'Or",
+                "hu": "Tour du Mont d'Or",
+                "ro": "Tour du Mont d'Or",
+                "en": "Tour du Mont d'Or"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann auf nassen Wegen rutschig sein; schalten Sie in einen niedrigen Gang und achten Sie auf Pfützen in den Kurven.",
+                "hu": "A kapaszkodó csúszós lehet a vizes utakon; váltson alacsony fokozatba, és figyeljen a kanyarokban megbújó tócsákra.",
+                "ro": "Urcarea poate fi alunecoasă pe drumurile ude; folosiți o viteză inferioară și aveți grijă la bălțile din curbe.",
+                "en": "The climb can be slippery on wet roads; shift to a low gear and watch out for puddles in the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin rétention pluvial Osco Manosco",
+                "hu": "Bassin rétention pluvial Osco Manosco",
+                "ro": "Bassin rétention pluvial Osco Manosco",
+                "en": "Bassin rétention pluvial Osco Manosco"
+              },
+              "tip_5lang": {
+                "de": "Dieses Becken erfüllt bei Regen seinen eigentlichen Zweck; beobachten Sie das Wassermanagement-System aus sicherer Entfernung vom Radweg.",
+                "hu": "Ez a medence esőben tölti be valódi funkcióját; figyelje meg a vízgazdálkodási rendszert biztonságos távolságból a kerékpárútról.",
+                "ro": "Acest bazin își îndeplinește rolul real pe ploaie; observați sistemul de gestionare a apei de la o distanță sigură de pe pistă.",
+                "en": "This basin fulfills its true purpose in the rain; observe the water management system from a safe distance on the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau des Vannades",
+                "hu": "Plan d'eau des Vannades",
+                "ro": "Plan d'eau des Vannades",
+                "en": "Plan d'eau des Vannades"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei Regen besonders melancholisch; nutzen Sie den überdachten Picknickbereich für eine letzte Pause vor der Rückfahrt.",
+                "hu": "A tó esőben különösen melankolikus; használja a fedett piknikezőhelyet egy utolsó pihenőre a visszaindulás előtt.",
+                "ro": "Lacul pare deosebit de melancolic pe ploaie; folosiți zona de picnic acoperită pentru o ultimă pauză înainte de întoarcere.",
+                "en": "The lake feels particularly melancholic in the rain; use the covered picnic area for a final break before cycling back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in der Provence bietet klare Sicht und kühle Brisen. Starten Sie dick eingepackt am Rathausplatz und wärmen Sie sich in der Kirche Notre-Dame auf. Die Fahrt zum Mont d'Or belohnt Sie mit einem weiten Panorama unter der tiefstehenden Wintersonne. Beenden Sie die Tour am Vannades-See, bevor die Kälte nach Sonnenuntergang um 17:00 Uhr deutlich spürbar wird.",
+            "hu": "A téli biciklizés Provence-ban tiszta kilátást és frissítő fuvallatokat kínál. Induljon vastagon felöltözve a városháza térről, és melegedjen fel a Notre-Dame templomban. A Mont d'Or felé vezető út széles panorámával jutalmaz az alacsonyan járó téli napfényben. Zárja a túrát a Vannades-tónál, mielőtt a 17:00-s napnyugta után hirtelen lehűlne a levegő.",
+            "ro": "Ciclismul de iarnă în Provence oferă vederi clare și brize răcoroase. Porniți bine înfofoliți din piața primăriei și încălziți-vă în biserica Notre-Dame. Drumul spre Mont d'Or vă răsplătește cu o panoramă vastă sub soarele de iarnă. Încheiați turul la lacul Vannades înainte ca frigul să devină pătrunzător după apusul de la ora 17:00.",
+            "en": "Winter cycling in Provence offers clear views and refreshing breezes. Start warmly dressed at the Town Hall square and warm up in the Notre-Dame church. The ride to Mont d'Or rewards you with a wide panorama under the low winter sun. End the tour at Lake Vannades before the chill becomes biting after the 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville Square",
+                "hu": "Hôtel de Ville Square",
+                "ro": "Hôtel de Ville Square",
+                "en": "Hôtel de Ville Square"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrten und starten Sie langsam, um Ihre Muskeln in der Morgenkälte aufzuwärmen.",
+                "hu": "Viseljen szélálló kesztyűt a lejtőkhöz, és kezdjen lassú tempóban, hogy az izmai bemelegedjenek a reggeli hidegben.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborâri și începeți în ritm lent pentru a vă încălzi mușchii în frigul dimineții.",
+                "en": "Wear windproof gloves for the descents and start at a slow pace to warm up your muscles in the morning cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Romigier",
+                "hu": "Church of Notre-Dame-de-Romigier",
+                "ro": "Church of Notre-Dame-de-Romigier",
+                "en": "Church of Notre-Dame-de-Romigier"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen die Kälte; lassen Sie Ihr Rad sicher verschlossen im Sichtbereich des Eingangs stehen.",
+                "hu": "Egy rövid belső megálló segít a hideg ellen; hagyja a kerékpárját biztonságosan lezárva a bejárat közelében.",
+                "ro": "O scurtă oprire în interior ajută împotriva frigului; lăsați bicicleta încuiată în siguranță la vedere lângă intrare.",
+                "en": "A short stop inside helps against the cold; leave your bike securely locked within sight of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean Giono Center",
+                "hu": "Jean Giono Center",
+                "ro": "Jean Giono Center",
+                "en": "Jean Giono Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Aufwärmpause; Radfahren bei Winterwind entzieht dem Körper schnell Energie.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb bemelegedésre; a téli szélben való biciklizés gyorsan kiveszi az energiát a szervezetből.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză lungă de încălzire; ciclismul în vântul de iarnă consumă rapid energia corpului.",
+                "en": "Use the museum visit for a longer warm-up break; cycling in the winter wind drains energy from the body quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour du Mont d'Or",
+                "hu": "Tour du Mont d'Or",
+                "ro": "Tour du Mont d'Or",
+                "en": "Tour du Mont d'Or"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben zieht es; ziehen Sie für den Panoramablick eine zusätzliche windfeste Schicht an.",
+                "hu": "A kapaszkodó melegen tart, de fent fúj a szél; vegyen fel egy extra szélálló réteget a panoráma megcsodálásához.",
+                "ro": "Urcarea vă va menține cald, dar sus bate vântul; puneți-vă un strat suplimentar rezistent la vânt pentru a admira panorama.",
+                "en": "The climb will keep you warm, but it's breezy at the top; put on an extra windproof layer to enjoy the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin rétention pluvial Osco Manosco",
+                "hu": "Bassin rétention pluvial Osco Manosco",
+                "ro": "Bassin rétention pluvial Osco Manosco",
+                "en": "Bassin rétention pluvial Osco Manosco"
+              },
+              "tip_5lang": {
+                "de": "Das Wasserbecken wirkt im Winterlicht oft wie ein Spiegel; achten Sie auf den Radwegen auf Reifglätte in schattigen Abschnitten.",
+                "hu": "A víztározó a téli fényben gyakran úgy fest, mint egy tükör; figyeljen a kerékpárutak árnyékos szakaszain az esetleges zúzmarára.",
+                "ro": "Bazinul de apă arată adesea ca o oglindă în lumina iernii; atenție la gheață pe pistele de biciclete în secțiunile umbrite.",
+                "en": "The water basin often looks like a mirror in the winter light; watch out for frost on the bike paths in shaded sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau des Vannades",
+                "hu": "Plan d'eau des Vannades",
+                "ro": "Plan d'eau des Vannades",
+                "en": "Plan d'eau des Vannades"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am fast menschenleeren See und kehren Sie vor 17:00 Uhr um, um nicht in der eisigen Dunkelheit zu fahren.",
+                "hu": "Élvezze a nyugalmat a szinte néptelen tónál, és induljon vissza 17:00 előtt, hogy elkerülje a jeges sötétben való tekerést.",
+                "ro": "Bucurați-vă de liniștea lacului aproape pustiu și întoarceți-vă înainte de ora 17:00 pentru a evita pedalatul în întunericul înghețat.",
+                "en": "Enjoy the peace at the almost deserted lake and turn back before 5:00 PM to avoid cycling in the freezing darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Egy autós túra lehetővé teszi, hogy az óvárost és a tágabb környéket is élvezze. Kezdjen a történelmi Porte du Soubeyran-nál. A Hôtel de Ville Square csupán egy kőhajításnyira van. Ezután vezessen a Thomassine Biodiverzitás Házhoz a ritka helyi flóra felfedezéséhez. Délután a Tour du Mont d'Or és Les Laurons kínál látványos kilátást. Zárja a napot pihentetően a festői Plan d'eau des Vannades tónál.",
         "ro": "Un tur cu mașina vă permite să vă bucurați atât de orașul vechi, cât și de împrejurimi. Începeți la istorica Porte du Soubeyran. Piața Hôtel de Ville este foarte aproape. Conduceți apoi către Casa Biodiversității Thomassine pentru a descoperi flora rară. După-amiaza, Tour du Mont d'Or și Les Laurons oferă priveliști spectaculoase. Încheiați ziua relaxându-vă la pitorescul Plan d'eau des Vannades.",
         "en": "A driving tour allows you to enjoy both the old town and the expansive surroundings. Start at the historic Porte du Soubeyran. The Hôtel de Ville Square is just a stone's throw away. Then, drive to the Thomassine Biodiversity House to discover rare regional flora. In the afternoon, the Tour du Mont d'Or and Les Laurons offer spectacular views and nature experiences. Unwind at the scenic Plan d'eau des Vannades as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Manosque auch bei starkem Regen bequem erkunden. Parken Sie nahe am Soubeyran-Tor für einen schnellen Zugang zur Altstadt. Mittags bietet die Thomassine Biodiversity House eine faszinierende Innenwelt. Nachmittags ist die Fahrt zum Mont d'Or sicher, und der Tag endet entspannt am Vannades-See, den man vom Auto aus beobachten kann.",
+            "hu": "Autóval Manosque még heves esőben is kényelmesen felfedezhető. Parkoljon a Soubeyran-kapu közelében a gyors óvárosi kijutáshoz. Délben a Thomassine Biodiverzitás Ház izgalmas belső kiállításokat kínál. Délután a Mont d'Or toronyhoz vezető út autóval biztonságos, a napot pedig a Vannades-tónál zárhatjuk, akár a kocsiból figyelve a vizet.",
+            "ro": "Cu mașina, Manosque poate fi explorat confortabil chiar și pe ploaie torențială. Parcați lângă poarta Soubeyran pentru acces rapid în orașul vechi. La prânz, Casa Biodiversității Thomassine oferă expoziții interioare fascinante. După-amiaza, drumul spre Mont d'Or este sigur, iar ziua se încheie relaxat la lacul Vannades, admirat direct din mașină.",
+            "en": "By car, Manosque can be comfortably explored even in heavy rain. Park near the Soubeyran gate for quick access to the old town. At noon, the Thomassine Biodiversity House offers fascinating indoor exhibits. In the afternoon, the drive to Mont d'Or is safe, and the day ends relaxingly at Lake Vannades, which can be observed from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte du Soubeyran",
+                "hu": "Porte du Soubeyran",
+                "ro": "Porte du Soubeyran",
+                "en": "Porte du Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um die historischen Tore ohne weite Wege im Regen zu besichtigen; halten Sie einen Schirm griffbereit.",
+                "hu": "Használja a közeli parkolót, hogy esőben is nagy gyaloglás nélkül nézhesse meg a kapukat; tartsa kéznél az esernyőt a rövid kiszálláshoz.",
+                "ro": "Folosiți parcarea din apropiere pentru a vedea porțile fără a merge mult prin ploaie; păstrați o umbrelă la îndemână pentru scurte ieșiri.",
+                "en": "Use the nearby parking to see the gates without walking far in the rain; keep an umbrella handy for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville Square",
+                "hu": "Hôtel de Ville Square",
+                "ro": "Hôtel de Ville Square",
+                "en": "Hôtel de Ville Square"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus in der Nähe des Zentrums, um trocken zu den Cafés am Platz zu gelangen, während die Scheibenwischer auf Hochtouren laufen.",
+                "hu": "Keressen egy mélygarázst a központ közelében, hogy szárazon jusson el a téri kávézókba, miközben az ablaktörlők teljes gőzzel dolgoznak.",
+                "ro": "Căutați o parcare acoperită lângă centru pentru a ajunge uscat la cafenelele din piață, în timp ce ștergătoarele lucrează la maximum.",
+                "en": "Look for a parking garage near the center to reach the square's cafes dryly while the windshield wipers work at full speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Thomassine Biodiversity House",
+                "hu": "Thomassine Biodiversity House",
+                "ro": "Thomassine Biodiversity House",
+                "en": "Thomassine Biodiversity House"
+              },
+              "tip_5lang": {
+                "de": "Dieses Ziel ist ideal bei Regen, da die Ausstellungen im Inneren über die regionale Natur informieren, ohne dass man nass wird.",
+                "hu": "Ez az úti cél ideális esőben, mivel a belső kiállítások a regionális természetről tájékoztatnak anélkül, hogy bárki elázna.",
+                "ro": "Această destinație este ideală pe ploaie, deoarece expozițiile interioare oferă informații despre natura regională fără a vă uda.",
+                "en": "This destination is ideal in the rain, as the indoor exhibits provide information about regional nature without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour du Mont d'Or",
+                "hu": "Tour du Mont d'Or",
+                "ro": "Tour du Mont d'Or",
+                "en": "Tour du Mont d'Or"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verregnete Landschaft direkt aus dem warmen Auto; die Zufahrt ist auch bei Nässe gut befahrbar.",
+                "hu": "Élvezze a kilátást az esős tájra közvetlenül a meleg autóból; a felvezető út nedves időben is jól járható gépjárművel.",
+                "ro": "Bucurați-vă de vederea asupra peisajului ploios direct din mașina caldă; drumul de acces este practicabil și pe timp umed.",
+                "en": "Enjoy the view of the rainy landscape directly from the warm car; the access road is easily navigable by vehicle even in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Laurons",
+                "hu": "Les Laurons",
+                "ro": "Les Laurons",
+                "en": "Les Laurons"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der nebligen Hügel reicht aus; bleiben Sie auf den asphaltierten Parkflächen, um Matsch zu vermeiden.",
+                "hu": "Egy rövid megálló a ködös dombok fotózásához bőven elég; maradjon az aszfaltozott parkolóhelyeken, hogy elkerülje a sarat.",
+                "ro": "O scurtă oprire pentru o fotografie a dealurilor cețoase este suficientă; rămâneți pe zonele de parcare asfaltate pentru a evita noroiul.",
+                "en": "A short stop to photograph the misty hills is enough; stay on the paved parking areas to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau des Vannades",
+                "hu": "Plan d'eau des Vannades",
+                "ro": "Plan d'eau des Vannades",
+                "en": "Plan d'eau des Vannades"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wellen im Regen vom Uferparkplatz aus und genießen Sie die Ruhe des Ortes in der Geborgenheit Ihres Wagens.",
+                "hu": "Figyelje a hullámok játékát az esőben a parti parkolóból, és élvezze a hely nyugalmát az autója biztonságából.",
+                "ro": "Observați jocul valurilor în ploaie din parcarea de pe mal și bucurați-vă de liniștea locului din siguranța mașinii.",
+                "en": "Watch the play of the waves in the rain from the shore parking lot and enjoy the peace of the place from the comfort of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Manosque bequem mit dem Auto, während die Heizung für Wohlbehagen sorgt. Vormittags bieten die Stadttore großartige Fotomotive im klaren Licht. Mittags führt die Fahrt zur Thomassine, wo man die Winterruhe der Natur erlebt. Der Nachmittag am Mont d'Or bietet ein weites Panorama, bevor man den Sonnenuntergang um 17:00 Uhr am Vannades-See genießt.",
+            "hu": "Fedezze fel a téli Manosque-ot kényelmesen autóval, miközben a fűtés biztosítja a komfortot. Délelőtt a városkapuk remek fotótémát kínálnak a tiszta fényben. Délben az út a Thomassine-hoz vezet, ahol a természet téli álmát figyelhetjük meg. A délután a Mont d'Ornál széles panorámát kínál, mielőtt a 17:00-s napnyugtát a Vannades-tónál élveznénk.",
+            "ro": "Experimentați Manosque-ul de iarnă confortabil cu mașina, în timp ce încălzirea vă asigură confortul. Dimineața, porțile orașului oferă oportunități foto grozave în lumina clară. La prânz, drumul duce la Thomassine, unde puteți observa liniștea iernii în natură. După-amiaza la Mont d'Or oferă o panoramă vastă înainte de apusul de la ora 17:00 la lacul Vannades.",
+            "en": "Experience winter in Manosque comfortably by car while the heater keeps you cozy. In the morning, the city gates provide great photo opportunities in the clear light. At noon, the drive leads to Thomassine, where you can observe nature's winter rest. The afternoon at Mont d'Or offers a wide panorama before enjoying the 5:00 PM sunset at Lake Vannades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte du Soubeyran",
+                "hu": "Porte du Soubeyran",
+                "ro": "Porte du Soubeyran",
+                "en": "Porte du Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz für ein Foto; das Mauerwerk wirkt in der klaren Winterluft besonders scharf gezeichnet.",
+                "hu": "Parkoljon le egy rövid fotóra; a falazat a tiszta téli levegőben különösen élesnek és kontrasztosnak tűnik.",
+                "ro": "Parcați scurt pentru o fotografie; zidăria pare deosebit de bine definită în aerul clar de iarnă.",
+                "en": "Park briefly for a photo; the stonework appears particularly sharp and well-defined in the clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville Square",
+                "hu": "Hôtel de Ville Square",
+                "ro": "Hôtel de Ville Square",
+                "en": "Hôtel de Ville Square"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze am Rand der Altstadt für einen kurzen, erfrischenden Gang zum Platz, bevor Sie wieder ins warme Auto steigen.",
+                "hu": "Használja az óváros szélén lévő parkolókat egy rövid, frissítő sétához a térig, mielőtt visszaszállna a meleg autóba.",
+                "ro": "Folosiți parcările de la marginea orașului vechi pentru o scurtă plimbare revigorantă până în piață, înainte de a reveni în mașina caldă.",
+                "en": "Use the parking spots at the edge of the old town for a short, refreshing walk to the square before returning to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Thomassine Biodiversity House",
+                "hu": "Thomassine Biodiversity House",
+                "ro": "Thomassine Biodiversity House",
+                "en": "Thomassine Biodiversity House"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten vorab; die Fahrt dorthin bietet wunderschöne Ausblicke auf die kahlen Obstgärten der Region.",
+                "hu": "Előre ellenőrizze a téli nyitvatartást; az odaút gyönyörű kilátást nyújt a régió kopár gyümölcsöseire.",
+                "ro": "Verificați programul de iarnă în prealabil; drumul până acolo oferă vederi superbe asupra livezilor golașe din regiune.",
+                "en": "Check winter opening hours in advance; the drive there offers beautiful views of the region's bare orchards."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour du Mont d'Or",
+                "hu": "Tour du Mont d'Or",
+                "ro": "Tour du Mont d'Or",
+                "en": "Tour du Mont d'Or"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser als im Sommer; steigen Sie nur kurz aus, da der Wind hier oben sehr schneidend sein kann.",
+                "hu": "A látótávolság télen gyakran jobb, mint nyáron; csak rövid időre szálljon ki, mert a szél itt fent nagyon metsző lehet.",
+                "ro": "Vizibilitatea este adesea mai bună iarna decât vara; ieșiți doar scurt din mașină, deoarece vântul poate fi tăios aici sus.",
+                "en": "Visibility is often better in winter than in summer; only step out briefly, as the wind up here can be very piercing."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Laurons",
+                "hu": "Les Laurons",
+                "ro": "Les Laurons",
+                "en": "Les Laurons"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den tiefstehenden Sonnenstand über den Hügeln; das Auto schützt Sie vor dem raschen Temperaturabfall am späten Nachmittag.",
+                "hu": "Figyelje az alacsonyan járó napot a dombok felett; az autó megvédi Önt a késő délutáni hirtelen hőmérséklet-csökkenéstől.",
+                "ro": "Observați soarele coborât peste dealuri; mașina vă protejează de scăderea bruscă a temperaturii la sfârșitul după-amiezii.",
+                "en": "Watch the low sun over the hills; the car protects you from the rapid temperature drop in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau des Vannades",
+                "hu": "Plan d'eau des Vannades",
+                "ro": "Plan d'eau des Vannades",
+                "en": "Plan d'eau des Vannades"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille am See bei laufender Heizung und fahren Sie rechtzeitig vor Einbruch der Dunkelheit um 17:00 Uhr zurück.",
+                "hu": "Élvezze a téli csendet a tónál a fűtött utastérből, és induljon vissza időben, mielőtt 17:00-kor beállna a sötétség.",
+                "ro": "Bucurați-vă de liniștea iernii la lac din interiorul încălzit și întoarceți-vă la timp înainte de lăsarea întunericului la ora 17:00.",
+                "en": "Enjoy the winter silence at the lake with the heater running, and head back in time before darkness falls at 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

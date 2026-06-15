@@ -137,6 +137,168 @@
         "hu": "A reggel a békés faluközpontban kezdődik a történelmi Église Saint-Martin templomnál, majd egy rövid séta következik a Belvédère-hez egy csodálos panorámáért.\nDél körül megvizsgálja a Vuache szeizmikus törésvonalának lenyűgöző geológiáját, mielőtt mélyebbre hatolna a helyi természeti tájban.\nA délután a zord terepen keresztül vezet, hogy felfedezze a fák között megbúvó történelmi jelentőségű Rocher du maquis sziklakibúvást.\nFejezze be gyalogos utazását a Grotte du Curé barlang felfedezésével, megtapasztalva a régió természetes barlangjainak csendes rejtélyét alkonyat előtt.",
         "ro": "Dimineața începe în centrul pașnic al satului la istorica Église Saint-Martin, urmată de o scurtă plimbare până la Belvédère pentru o panoramă magnifică.\nÎn jurul prânzului, veți investiga geologia fascinantă a faliei seismice Vuache înainte de a vă adânci în peisajul natural pitoresc al zonei locale.\nDupă-amiaza vă poartă prin terenul accidentat pentru a descoperi Rocher du maquis, o stâncă cu semnificație istorică ascunsă printre copaci de pe traseu.\nÎncheiați-vă călătoria pe jos cu o explorare a Grotte du Curé, experimentând misterul liniștit al cavernelor naturale ale regiunii înainte de lăsarea serii.",
         "en": "Your morning begins in the peaceful village center at the historic Église Saint-Martin, followed by a short walk up to the Belvédère for a magnificent introductory view.\nAround midday, you will investigate the fascinating geology of the Vuache seismic fault line before heading deeper into the local natural landscape.\nThe afternoon takes you through the rugged terrain to discover the historically significant Rocher du maquis hidden among the trees.\nConclude your walking journey with an exploration of the Grotte du Curé, experiencing the quiet mystery of the region's natural caverns before dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der schützenden Kirche Saint-Martin. Mittags bieten die feuchten Wälder um das Belvédère eine mystische, neblige Atmosphäre. Nachmittags erkunden Sie die geologischen Stätten und die Höhle mit wasserfestem Schuhwerk. Der Abend endet wegen des Wetters frühzeitig, suchen Sie sich ein trockenes Plätzchen zum Entspannen.",
+            "hu": "Kezdje az esős reggelt a menedéket nyújtó Saint-Martin templomban. Délben a Belvédère körüli nedves erdők misztikus, ködös hangulatot árasztanak. Délután vízálló cipőben és esőkabátban fedezze fel a geológiai csodákat és a barlangot. Az este a rossz idő miatt korán zárul, keressen egy kényelmes, száraz helyet a pihenésre.",
+            "ro": "Începeți dimineața ploioasă în siguranță, în adăpostul bisericii Saint-Martin. La prânz, pădurile umede din jurul Belvédère oferă o atmosferă mistică. După-amiaza, explorați siturile geologice și peștera cu încălțăminte impermeabilă. Seara se încheie devreme din cauza vremii, găsiți un loc uscat și cald pentru relaxare.",
+            "en": "Start your rainy morning safely inside the sheltering Saint-Martin Church. At noon, the damp woods around the Belvédère offer a mystical, foggy atmosphere. In the afternoon, explore the geological sites and the deep cave using sturdy waterproof footwear. The evening wraps up early due to the weather, find a dry place to relax."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historischen Fresken dieser friedlichen Kirche. Sie bietet den perfekten Zufluchtsort im Trockenen, während der Regen draußen prasselt.",
+                "hu": "Tekintse meg e békés templom történelmi freskóit. Tökéletes menedéket nyújt a szárazon, miközben odakint esik a reggeli zápor és fúj a szél.",
+                "ro": "Examinați frescele istorice din această biserică pașnică. Oferă refugiul perfect la adăpost, în timp ce ploaia de dimineață lovește puternic afară.",
+                "en": "Examine the historical frescoes of this peaceful church. It provides the perfect dry shelter while the morning rain pours down heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère",
+                "hu": "Belvédère",
+                "ro": "Belvédère",
+                "en": "Belvédère"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige, dramatische Aussicht auf das grüne Tal. Achten Sie jedoch auf rutschige Steine am Aussichtspunkt und gehen Sie sehr vorsichtig.",
+                "hu": "Élvezze a zöld völgy ködös, drámai panorámáját a magasból. Nagyon vigyázzon azonban a kilátónál lévő csúszós, vizes kövekre, és lépkedjen óvatosan.",
+                "ro": "Bucurați-vă de priveliștea cețoasă și dramatică a văii verzi. Aveți mare grijă la pietrele alunecoase de la punctul de belvedere și pășiți cu prudență.",
+                "en": "Enjoy the misty, dramatic panoramic view of the green valley below. Pay close attention to the slippery wet rocks at the viewpoint and tread carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "miroir de la faille sismique du Vuache",
+                "hu": "miroir de la faille sismique du Vuache",
+                "ro": "miroir de la faille sismique du Vuache",
+                "en": "miroir de la faille sismique du Vuache"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Verwerfung, deren nasse Gesteinswand im Regen intensiv spiegelt. Wasserfeste Kleidung und rutschfestes Schuhwerk sind hier Pflicht.",
+                "hu": "Csodálja meg a geológiai törésvonalat, amelynek nedves sziklafala intenzíven csillog. Vízálló ruházat és csúszásmentes túracipő itt mindenképpen kötelező.",
+                "ro": "Admirați falia geologică a cărei stâncă umedă strălucește intens în ploaie. Îmbrăcămintea impermeabilă și încălțămintea rezistentă sunt obligatorii aici.",
+                "en": "Marvel at the geological fault where the wet rock face reflects intensely in the rain. Waterproof clothing and non-slip hiking boots are strictly required here."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher du maquis",
+                "hu": "Rocher du maquis",
+                "ro": "Rocher du maquis",
+                "en": "Rocher du maquis"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diesen historischen Felsen tief im Wald, der Geschichten des Widerstands birgt. Die dichten Baumkronen dienen als natürlicher Regenschirm.",
+                "hu": "Fedezze fel ezt az erdő mélyén megbúvó, ellenállásról mesélő sziklát. A sűrű lombkorona ezen a helyen kiváló természetes esernyőként is szolgál.",
+                "ro": "Descoperiți această stâncă istorică ascunsă în pădure, plină de povești. Coronamentul dens al copacilor servește ca o umbrelă naturală împotriva ploii.",
+                "en": "Discover this historical rock deep in the forest, whispering tales of resistance. The dense tree canopy here serves as an excellent natural umbrella from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotte du Curé",
+                "hu": "Grotte du Curé",
+                "ro": "Grotte du Curé",
+                "en": "Grotte du Curé"
+              },
+              "tip_5lang": {
+                "de": "Erforschen Sie die tiefen Formationen dieser faszinierenden Höhle. Sie bietet hervorragenden Schutz vor dem Regen, seien Sie auf feuchte Wände gefasst.",
+                "hu": "Tárja fel e lenyűgöző barlang mély képződményeit és titkait. Kiváló védelmet nyújt az eső ellen, de készüljön fel a belső tér nedves, csepegő falaira.",
+                "ro": "Explorați formațiunile profunde ale acestei peșteri fascinante. Oferă o protecție excelentă împotriva ploii, dar fiți pregătit pentru pereții interiori umezi.",
+                "en": "Explore the deep rock formations and secrets of this fascinating cave. It provides excellent shelter from the rain, but be prepared for damp interior walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen startet ideal in der ruhigen Kirche, um sich zu sammeln. Mittags glitzert der Frost am Belvédère herrlich in der schwachen Wintersonne. Nachmittags führt der Weg zu den eisigen geologischen Wundern und der Höhle. Da die Dunkelheit abrupt gegen 17 Uhr hereinbricht, beenden Sie die Tour zeitig im Warmen.",
+            "hu": "Egy hűvös téli reggel ideálisan indul a csendes templomban a bemelegedésre. Délben a fagy csodásan csillog a Belvédère körül a gyenge téli napfényben. Délután az út fagyos geológiai csodákhoz és a barlanghoz vezet. Mivel a sötétedés 17 óra körül hirtelen érkezik, fejezze be a túrát időben.",
+            "ro": "O dimineață rece de iarnă începe ideal în biserica liniștită pentru reculegere. La prânz, gerul strălucește la Belvédère în soarele palid de iarnă. După-amiaza duce la minunile geologice înghețate și la peșteră. Deoarece întunericul cade brusc în jur de 17:00, terminați turul devreme la căldură.",
+            "en": "A chilly winter morning starts ideally in the quiet church to gather your thoughts. At noon, the frost sparkles at the Belvédère in the pale winter sun. The afternoon leads to icy geological wonders and the cave. Since darkness falls abruptly around 5 PM, make sure to finish your tour early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beschauliche Architektur. Suchen Sie hier etwas Wärme und Ruhe an diesem kalten Morgen, bevor die Wanderung in die Kälte richtig beginnt.",
+                "hu": "Csodálja meg a békés építészetet. Keressen itt egy kis meleget és nyugalmat ezen a hideg reggelen, mielőtt a téli túra igazán elkezdődne a szabadban.",
+                "ro": "Admirați arhitectura liniștită. Căutați puțină căldură și liniște aici în această dimineață rece, înainte ca drumeția de iarnă să înceapă afară.",
+                "en": "Admire the peaceful architecture. Find some warmth and tranquility here on this cold morning before the actual winter hike begins out in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère",
+                "hu": "Belvédère",
+                "ro": "Belvédère",
+                "en": "Belvédère"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick auf das frostige Tal ist in der klaren Winterluft grandios. Warme, winddichte Schichten gegen den eisigen Wind sind hier jedoch Pflicht.",
+                "hu": "A fagyos völgyre nyíló panoráma a tiszta téli levegőben lenyűgöző. A metsző szél miatt a meleg, szélálló réteges öltözet ezen a ponton szigorúan kötelező.",
+                "ro": "Priveliștea panoramică asupra văii înghețate este grandioasă în aerul curat. Straturile calde, rezistente la vânt sunt obligatorii aici împotriva frigului.",
+                "en": "The panoramic view of the frosty valley is magnificent in the crisp winter air. Warm, windproof layers against the icy wind are absolutely mandatory here."
+              }
+            },
+            {
+              "name": {
+                "de": "miroir de la faille sismique du Vuache",
+                "hu": "miroir de la faille sismique du Vuache",
+                "ro": "miroir de la faille sismique du Vuache",
+                "en": "miroir de la faille sismique du Vuache"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die vereiste geologische Bruchzone im fahlen winterlichen Licht. Seien Sie extrem vorsichtig, da die felsigen Pfade oft spiegelglatt sind.",
+                "hu": "Csodálja meg a jéggel borított geológiai törésvonalat a sápadt téli fényben. Legyen rendkívül óvatos, mivel a sziklás ösvények gyakran tükörsimák a fagytól.",
+                "ro": "Admirați zona de falie geologică înghețată în lumina palidă a iernii. Fiți extrem de atenți, deoarece cărările stâncoase sunt adesea acoperite de gheață.",
+                "en": "Marvel at the icy geological fault zone bathed in pale winter light. Be extremely careful, as the rocky pathways are often slick with black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher du maquis",
+                "hu": "Rocher du maquis",
+                "ro": "Rocher du maquis",
+                "en": "Rocher du maquis"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen mehr wärmende Wintersonne auf diesen markanten Felsen fallen. Dicke Handschuhe werden empfohlen, da die Steine eiskalt sind.",
+                "hu": "A csupasz fák több melegítő téli napfényt engednek erre a jellegzetes sziklára. Vastag kesztyű használata erősen ajánlott, mert a kövek jéghidegek.",
+                "ro": "Copacii golași lasă mai mult soare de iarnă să încălzească această stâncă. Se recomandă mănuși groase, deoarece pietrele sunt foarte reci la atingere.",
+                "en": "Bare trees allow more warming winter sun to hit this prominent historical rock. Wearing thick gloves is highly recommended, as the stones are freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotte du Curé",
+                "hu": "Grotte du Curé",
+                "ro": "Grotte du Curé",
+                "en": "Grotte du Curé"
+              },
+              "tip_5lang": {
+                "de": "In der dunklen Höhle ist die kühle Temperatur überraschend konstant. Planen Sie Ihren raschen Rückweg unbedingt, bevor es um 17 Uhr unweigerlich dunkel wird.",
+                "hu": "A sötét barlangban a hűvös hőmérséklet meglepően állandó. Feltétlenül tervezze meg a gyors visszaútját, mielőtt 17 órakor elkerülhetetlenül besötétedik.",
+                "ro": "Temperatura rece în peștera întunecată este constantă. Planificați-vă întoarcerea rapidă cu strictețe înainte să se întunece inevitabil la ora 17:00.",
+                "en": "The cool temperature inside the dark cave is surprisingly constant. Strictly plan your quick return trip before it inevitably gets pitch black at 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje egy kulturális élménnyel a helyi templomnál, mielőtt sebesen letekerné a nyugodt La Balme tóhoz, hogy élvezze a friss reggeli levegőt a parton.\nKerékpározzon a környék tektonikus csodái felé, időt szakítva a regionális topográfiát alakító látható szeizmikus törésvonalak alaposabb megfigyelésére.\nTedd próbára állóképességedet a Tête de la Mandallaz és a közeli Grotte du Curé felé vezető emelkedőn, elmerülve a zord hegyi környezet szépségében.\nFejezze be kerékpáros kalandját a La Mandallaz hegygerinc magas ösvényein, megörökítve a drámai késő délutáni napfényt a kiterjedt és gyönyörű völgyek felett.",
         "ro": "Începeți cu un reper cultural la biserica locală înainte de a pedala rapid spre liniștitul Lac La Balme pentru a vă bucura de aerul proaspăt al dimineții.\nPedalați spre minunile tectonice ale zonei, făcându-vă timp să observați liniile de falie seismică vizibile care au modelat topografia regională deosebită.\nTestați-vă rezistența cu o ascensiune spre Tête de la Mandallaz și Grotte du Curé din apropiere, cufundându-vă în peisajele montane accidentate.\nTerminați aventura pe bicicletă de-a lungul potecilor înalte de pe creasta La Mandallaz, prinzând lumina dramatică a soarelui de după-amiază peste văi.",
         "en": "Start with a cultural touchstone at the local church before pedaling briskly down to the tranquil Lake of La Balme to enjoy the fresh morning air.\nCycle towards the tectonic wonders of the area, taking time to observe the visible seismic fault lines that shaped the regional topography.\nTest your stamina with an ascent towards the Tête de la Mandallaz and the nearby Grotte du Curé, immersing yourself in the rugged mountain environments.\nFinish your cycling adventure along the high paths of La Mandallaz Ridge, catching the dramatic late afternoon sunlight across the sweeping valleys."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie die regnerische Radtour geschützt an der Kirche, bevor Sie aufmerksam zum nebligen Seeufer radeln. Mittags verlangen die schlammigen Waldwege besondere Vorsicht und Bremsbereitschaft. Nachmittags bieten Höhlen Unterschlupf, während Sie den Mandallaz-Rücken überqueren. Abends sollten Sie das Rad frühzeitig abstellen.",
+            "hu": "Kezdje az esős bringázást védve a templomnál, majd tekerjen óvatosan a ködös tópartra. Délben a sáros erdei utak fokozott óvatosságot és fék-készenlétet igényelnek. Délután a barlangok nyújtanak menedéket a Mandallaz gerincén. Este tegye le a kerékpárt időben a csúszós, sötétedő utak miatt.",
+            "ro": "Începeți plimbarea ploioasă la adăpostul bisericii, înainte de a pedala atent spre lacul cețos. La prânz, traseele noroioase necesită prudență suplimentară. După-amiaza, peșterile oferă refugiu pe creasta Mandallaz. Seara parcați bicicleta devreme din cauza drumurilor alunecoase.",
+            "en": "Start the rainy bike ride sheltered at the church before carefully cycling to the misty lake. At noon, the muddy forest paths demand extra caution and ready brakes. In the afternoon, caves offer shelter while traversing the Mandallaz ridge. In the evening, park the bike early to avoid slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade und nutzen Sie das Vordach als trockenen Startort, um die Regenausrüstung für Ihr Fahrrad und sich selbst richtig einzustellen.",
+                "hu": "Csodálja meg a homlokzatot, és használja a tetőt száraz indulási pontként, ahol beállíthatja az esővédő felszerelést a kerékpárján és önmagán is.",
+                "ro": "Admirați fațada și folosiți copertina ca punct de plecare uscat pentru a vă regla echipamentul de ploaie pentru bicicletă și pentru dumneavoastră.",
+                "en": "Admire the facade and use the canopy as a dry starting point to properly adjust the rain gear on your bike and yourself before hitting the wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of La Balme",
+                "hu": "Lake of La Balme",
+                "ro": "Lake of La Balme",
+                "en": "Lake of La Balme"
+              },
+              "tip_5lang": {
+                "de": "Der Regen zaubert fließende Muster auf den künstlichen See. Fahren Sie auf den nassen, teils unbefestigten Uferwegen sehr langsam und stets bremsbereit.",
+                "hu": "Az eső gyönyörű mintákat rajzol a mesterséges tó vizére. A nedves, helyenként burkolatlan parti utakon haladjon lassan, mindig fékezésre készen.",
+                "ro": "Ploaia creează modele fluide pe lacul artificial. Mergeți foarte încet pe potecile umede, uneori neasfaltate de pe mal și fiți mereu gata să frânați.",
+                "en": "The rain creates flowing patterns on the surface of the artificial lake. Ride very slowly on the wet, partly unpaved shore paths and be ready to brake."
+              }
+            },
+            {
+              "name": {
+                "de": "miroir de la faille sismique du Vuache",
+                "hu": "miroir de la faille sismique du Vuache",
+                "ro": "miroir de la faille sismique du Vuache",
+                "en": "miroir de la faille sismique du Vuache"
+              },
+              "tip_5lang": {
+                "de": "Dieser massive Fels glänzt im starken Regen besonders imposant. Stellen Sie das Rad sicher ab, da der weiche Boden schnell nachgibt und es umkippen könnte.",
+                "hu": "Ez a masszív szikla a heves esőzésben különösen lenyűgözően csillog. Támassza le stabilan a kerékpárt, mert a felázott, puha talajon könnyen eldőlhet.",
+                "ro": "Această stâncă masivă strălucește deosebit de impunător în ploaie. Parcați bicicleta în siguranță, deoarece solul moale și noroios cedează rapid.",
+                "en": "This massive rock shines impressively in the heavy rain. Park your bicycle securely on a hard surface, as the soft, muddy ground will easily give way."
+              }
+            },
+            {
+              "name": {
+                "de": "Tête de la Mandallaz",
+                "hu": "Tête de la Mandallaz",
+                "ro": "Tête de la Mandallaz",
+                "en": "Tête de la Mandallaz"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie den markanten Berggipfel, der im dichten Nebel mystisch wirkt. Eine starke, funktionierende Beleuchtung am Fahrrad ist hier überlebenswichtig.",
+                "hu": "Mássza meg a jellegzetes hegycsúcsot, amely a sűrű ködben misztikusnak hat. Az erős, megbízható kerékpáros világítás ezen a szakaszon életmentő lehet.",
+                "ro": "Urcați pe vârful izbitor al muntelui, care pare mistic în ceața densă. Un sistem de iluminat puternic pe bicicletă este vital pentru supraviețuire aici.",
+                "en": "Climb the striking mountain peak, which looks highly mystical in the dense fog. A strong, reliable lighting system on your bicycle is vital for safety here."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotte du Curé",
+                "hu": "Grotte du Curé",
+                "ro": "Grotte du Curé",
+                "en": "Grotte du Curé"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Innere dieser spannenden Grotte. Wärmen Sie sich kurz auf und trocknen Sie Ihre nasse Ausrüstung weit abseits des prasselnden Dauerregens.",
+                "hu": "Használja ki ennek az izgalmas barlangnak a belső terét. Melegedjen fel egy kicsit, és szárítsa meg vizes felszerelését távol a zuhogó, tartós esőtől.",
+                "ro": "Folosiți interiorul acestei grote captivante. Încălziți-vă scurt și uscați-vă echipamentul umed departe de ploaia torențială și continuă de afară.",
+                "en": "Make use of the interior of this exciting grotto. Warm up briefly and dry off your wet cycling gear far away from the pouring, continuous outdoor rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mandallaz Ridge",
+                "hu": "La Mandallaz Ridge",
+                "ro": "La Mandallaz Ridge",
+                "en": "La Mandallaz Ridge"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wolkenstimmung über dem Kamm. Die nassen Wurzeln auf dem Weg sind extrem rutschig; steigen Sie zu Ihrer Sicherheit ab und schieben Sie.",
+                "hu": "Csodálja meg a felhők játékát a gerinc felett. Az ösvényen lévő nedves gyökerek rendkívül csúszósak; a saját biztonsága érdekében szálljon le és tolja.",
+                "ro": "Admirați atmosfera înnorată de deasupra crestei. Rădăcinile umede de pe potecă sunt extrem de alunecoase; pentru siguranța dumneavoastră, descălecați.",
+                "en": "Admire the cloudy atmosphere over the ridge. The wet tree roots on the path are extremely slippery; dismount and push your bike for your own safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die vereiste Straße zur Kirche äußerste Aufmerksamkeit. Mittags glitzert der See herrlich, während Sie sich beim forschen Radeln aufwärmen. Der Nachmittag bringt sehr kalten Wind auf den ausgesetzten Höhen der Mandallaz. Beenden Sie die anstrengende Tour unbedingt vor der Dunkelheit um 17 Uhr.",
+            "hu": "Reggel a templomhoz vezető jeges út maximális figyelmet igényel. Délben a tó csodásan csillog, miközben az intenzív tekeréstől kimelegszik. A délután nagyon hideg szelet hoz a Mandallaz kitett magaslatain. Fejezze be a fárasztó túrát feltétlenül a 17 órás sötétedés előtt.",
+            "ro": "Dimineața, drumul înghețat spre biserică necesită atenție maximă. La prânz, lacul strălucește, în timp ce pedalatul intens vă încălzește. După-amiaza aduce vânt foarte rece pe înălțimile expuse Mandallaz. Terminați turul obositor cu siguranță înainte de întunericul de la 17:00.",
+            "en": "In the morning, the icy road to the church requires utmost attention. At noon, the lake sparkles beautifully while brisk cycling warms you up. The afternoon brings a very cold wind on the exposed heights of the Mandallaz. Make sure to end the demanding tour before darkness at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich die steinerne Kirche an. Ziehen Sie hier Ihre wärmsten Handschuhe an, denn die gefühlte Morgenkälte auf dem Fahrrad ist enorm schneidend.",
+                "hu": "Nézze meg a kőből épült templomot. Vegye fel a legmelegebb kesztyűjét itt, mert a menetszél miatt a reggeli hideg a kerékpáron elképesztően metsző.",
+                "ro": "Priviți biserica de piatră. Puneți-vă cele mai călduroase mănuși aici, deoarece frigul dimineții simțit pe bicicletă este enorm de tăios din cauza vântului.",
+                "en": "Take a look at the stone church. Put on your warmest winter gloves here, because the morning wind chill while riding the bicycle is incredibly piercing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of La Balme",
+                "hu": "Lake of La Balme",
+                "ro": "Lake of La Balme",
+                "en": "Lake of La Balme"
+              },
+              "tip_5lang": {
+                "de": "Die zugefrorenen, weißen Uferzonen des Sees sind malerisch. Meiden Sie beim Fahren jedoch unbedingt schwarze Eisplatten, die sich am Wegesrand bilden.",
+                "hu": "A tó befagyott, hófehér partszakaszai igazán festőiek. Kerékpározás közben azonban szigorúan kerülje el az út szélén kialakuló, láthatatlan fekete jeget.",
+                "ro": "Zonele de țărm albe, înghețate ale lacului sunt pitorești. Totuși, când mergeți, evitați cu strictețe gheața neagră care se formează pe marginea drumului.",
+                "en": "The frozen, white shorelines of the lake are highly picturesque. However, when riding, strictly avoid the patches of black ice that form along the path edges."
+              }
+            },
+            {
+              "name": {
+                "de": "miroir de la faille sismique du Vuache",
+                "hu": "miroir de la faille sismique du Vuache",
+                "ro": "miroir de la faille sismique du Vuache",
+                "en": "miroir de la faille sismique du Vuache"
+              },
+              "tip_5lang": {
+                "de": "An der steilen Gesteinswand hängen oft beeindruckende Eiszapfen. Die kühle, stehende Luft hier erfordert eine wärmende, absolut winddichte Radjacke.",
+                "hu": "A meredek sziklafalon gyakran lenyűgöző jégcsapok lógnak. A hűvös, megrekedt levegő miatt egy melegítő, teljesen szélálló kerékpáros kabát elengedhetetlen.",
+                "ro": "Țurțuri impresionanți atârnă adesea pe fațada abruptă. Aerul rece și stătut de aici necesită o jachetă de ciclism călduroasă și complet rezistentă la vânt.",
+                "en": "Impressive icicles often hang from the steep rock face. The chilly, stagnant air here requires wearing a warming, completely windproof cycling jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Tête de la Mandallaz",
+                "hu": "Tête de la Mandallaz",
+                "ro": "Tête de la Mandallaz",
+                "en": "Tête de la Mandallaz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das weite Winterpanorama. Der Anstieg wärmt Sie zwar auf, aber auf dem offenen Gipfel pfeift der Winterwind; ziehen Sie sofort eine Mütze auf.",
+                "hu": "Élvezze a tágas téli panorámát. A meredek emelkedő felmelegíti, de a nyitott csúcson fúj a téli szél; megállás után azonnal vegyen fel egy meleg sapkát.",
+                "ro": "Bucurați-vă de panorama vastă de iarnă. Urcarea vă încălzește, dar vântul de iarnă urlă pe vârful deschis; puneți-vă imediat o căciulă caldă la oprire.",
+                "en": "Enjoy the expansive winter panorama. The climb warms you up, but the howling winter wind strikes at the open peak; put on a warm beanie immediately upon stopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotte du Curé",
+                "hu": "Grotte du Curé",
+                "ro": "Grotte du Curé",
+                "en": "Grotte du Curé"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die mystischen Felsspalten. Dies ist eine willkommene, windgeschützte Pause; trinken Sie heißen Tee aus Ihrer Thermoskanne zum Aufwärmen.",
+                "hu": "Fedezze fel a misztikus hasadékokat. Ez egy szívesen látott, széltől védett pihenőhely; igyon egy forró teát a termoszából a belső felmelegedéshez.",
+                "ro": "Descoperiți crevasele mistice. Aceasta este o pauză binevenită, ferită de vânt; beți ceai fierbinte din termos pentru a vă încălzi corpul la interior.",
+                "en": "Discover the mystical rock crevices. This provides a very welcome, wind-protected break; drink some hot tea from your thermos to thoroughly warm up inside."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mandallaz Ridge",
+                "hu": "La Mandallaz Ridge",
+                "ro": "La Mandallaz Ridge",
+                "en": "La Mandallaz Ridge"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Gefühl der Höhe auf dem schmalen Grat. Die tiefstehende Wintersonne blendet hier sehr stark; setzen Sie eine Sonnenbrille auf und fahren Sie vorsichtig.",
+                "hu": "Élje át a magasság élményét a keskeny gerincen. Az alacsonyan járó téli nap itt nagyon erősen vakít; vegyen fel napszemüveget, és vezessen lassan.",
+                "ro": "Experimentați senzația de altitudine pe creasta îngustă. Soarele coborât de iarnă orbește foarte tare aici; puneți ochelari de soare și pedalați încet.",
+                "en": "Experience the feeling of high altitude on the narrow ridge. The low winter sun is extremely blinding here; wear sunglasses and ride forward very carefully."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autóútja a faluközpontban kezdődik a festői templomnál, mielőtt könnyedén legurulna a La Balme tó partjára egy békés és pihentető reggeli sétára.\nHajtson fel a dombok közé, hogy megbirkózzon a Tête de la Mandallaz körüli festői ösvényekkel, kihasználva a járművét, hogy gyorsan elérje a magasabb pontokat.\nFolytassa útját a festői hegyi utakon a La Mandallaz hegygerinc felé, amely lenyűgöző kilátást nyújt a változatos alpesi ökoszisztémára meredek túrázás nélkül.\nZárja a napot egy kellemes autózással a Haute-Savoie gyönyörű kertjeihez, sétálva a gondosan összeválogatott növényvilág között az este közeledtével.",
         "ro": "Călătoria cu mașina începe în centrul satului la biserică înainte de a coborî fără efort spre țărmurile pitorești ale Lacului La Balme pentru o plimbare.\nConduceți pe dealuri pentru a aborda traseele pitorești din jurul Tête de la Mandallaz, profitând de vehiculul dvs. pentru a ajunge rapid la înălțime.\nContinuați pe traseele montane pitorești până la creasta La Mandallaz, care oferă panorame vaste ale ecosistemului alpin divers fără o drumeție abruptă.\nÎncheiați ziua cu o plimbare ușoară cu mașina până la frumoasele Grădini din Haute-Savoie, relaxându-vă printre plantele atent îngrijite spre seară.",
         "en": "Your drive begins in the village center to see the quaint church before effortlessly cruising down to the scenic shores of Lake of La Balme for a peaceful stroll.\nDrive up into the hills to tackle the scenic trails surrounding the Tête de la Mandallaz, taking advantage of your vehicle to quickly reach the higher elevations.\nContinue along the scenic mountain routes to La Mandallaz Ridge, offering sweeping vistas of the diverse alpine ecosystem without the steep hike.\nWind down the day with a gentle drive to the beautiful Gardens of Haute-Savoie, walking among carefully curated flora as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem Regentag bringt Sie das Auto sicher und trocken von der Kirche zum See, wo Sie kurze, regengeschützte Stopps einlegen können. Mittags umfahren Sie die nassen Berge über asphaltierte Straßen. Nachmittags bieten die Gärten eine malerische, trübe Kulisse aus dem sicheren Autofenster. Der Tag endet gemütlich.",
+            "hu": "Egy esős napon az autó szárazon és biztonságosan viszi a templomtól a tóhoz, ahol rövid, védett megállókat tehet. Délben aszfaltozott utakon kerülheti meg a nedves hegyeket. Délután a kertek festői, borongós kulisszát nyújtanak a biztonságos ablakból. A nap kényelmesen zárul.",
+            "ro": "Într-o zi ploioasă, mașina vă duce uscat și sigur de la biserică la lac, permițând opriri scurte, protejate. La prânz, conduceți pe drumuri asfaltate pe lângă munții umezi. După-amiaza, grădinile oferă un peisaj pitoresc, sumbru din fereastra sigură a mașinii. Ziua se termină confortabil.",
+            "en": "On a rainy day, the car keeps you safe and dry from the church to the lake, allowing for short, protected stops. At noon, navigate around the wet mountains via paved roads. In the afternoon, the gardens offer a scenic, gloomy backdrop right from the safety of your window. The day ends comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich den Altarbereich an. Parken Sie möglichst nah und huschen Sie schnell ins trockene Kirchenschiff für eine besinnliche Pause vor dem Regen.",
+                "hu": "Nézze meg az oltárt. Parkoljon minél közelebb, és siessen be a száraz templomhajóba egy kis békés elmélkedésre, elmenekülve a kinti eső elől.",
+                "ro": "Priviți zona altarului. Parcați cât mai aproape și grăbiți-vă în naosul uscat pentru o pauză contemplativă liniștită, ascunzându-vă de ploaia de afară.",
+                "en": "Look at the beautiful altar area. Park as close as possible and hurry into the dry nave for a contemplative, peaceful break sheltered from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of La Balme",
+                "hu": "Lake of La Balme",
+                "ro": "Lake of La Balme",
+                "en": "Lake of La Balme"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wassertropfen auf dem weiten See bequem aus dem warmen Auto oder machen Sie einen sehr kurzen Spaziergang mit einem stabilen Schirm.",
+                "hu": "Figyelje a vízcseppeket a tágas tavon kényelmesen a fűtött autóból, vagy tegyen egy nagyon rövid sétát egy stabil, erős esernyővel a part mentén.",
+                "ro": "Urmăriți picăturile de apă pe lacul vast confortabil din mașina caldă sau faceți o plimbare foarte scurtă pe mal cu o umbrelă robustă.",
+                "en": "Watch the water droplets falling on the vast lake comfortably from your warm car, or take a very short walk along the shore with a sturdy, large umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Tête de la Mandallaz",
+                "hu": "Tête de la Mandallaz",
+                "ro": "Tête de la Mandallaz",
+                "en": "Tête de la Mandallaz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die dunklen Wälder. Die Serpentinen hinauf sind bei Nässe sehr rutschig; fahren Sie langsam, um den nebligen Gipfel sicher zu erreichen.",
+                "hu": "Élvezze a sötét erdőkre nyíló kilátást. A felfelé vezető szerpentinek nedvesen nagyon csúsznak; vezessen lassan, hogy biztonságosan elérje a ködös csúcsot.",
+                "ro": "Bucurați-vă de vederea pădurilor întunecate. Serpentinele sunt foarte alunecoase la umezeală; conduceți încet pentru a ajunge în siguranță la vârful cețos.",
+                "en": "Enjoy the view of the dark, dense forests. The winding mountain roads are extremely slippery when wet; drive very slowly to safely reach the foggy summit."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mandallaz Ridge",
+                "hu": "La Mandallaz Ridge",
+                "ro": "La Mandallaz Ridge",
+                "en": "La Mandallaz Ridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen, wolkenverhangenen Ausblick vom Parkplatz aus. Lassen Sie die Heizung an, um nasse Kleidung von kurzen Stopps zu trocknen.",
+                "hu": "Élvezze a drámai, felhős kilátást közvetlenül a parkolóból. Hagyja bekapcsolva a fűtést, hogy megszáradjon a rövid megállók során nedvessé vált ruhája.",
+                "ro": "Bucurați-vă de priveliștea dramatică plină de nori din parcare. Lăsați încălzirea mașinii pornită pentru a usca hainele umede de la opririle scurte.",
+                "en": "Enjoy the dramatic, cloud-covered view directly from the parking lot. Keep the car heater running on high to dry off any damp clothes from your short stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Gardens of Haute-Savoie",
+                "hu": "Gardens of Haute-Savoie",
+                "ro": "Gardens of Haute-Savoie",
+                "en": "Gardens of Haute-Savoie"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die botanische Vielfalt, die im Regen in sattem Grün erstrahlt. Tragen Sie Gummistiefel, wenn Sie die nassen Gartenwege betreten möchten.",
+                "hu": "Tekintse meg a botanikai sokszínűséget, amely az esőben élénkzölden ragyog. Viseljen gumicsizmát, ha közelebbről is be szeretné járni a nedves kerti utakat.",
+                "ro": "Priviți diversitatea botanică, care strălucește într-un verde intens în ploaie. Purtați cizme de cauciuc dacă doriți să mergeți pe cărările umede ale grădinii.",
+                "en": "Look at the rich botanical diversity that shines in vibrant green during the rain. Wear rubber boots if you decide to step out onto the very wet garden paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt mit eisigen Straßen, aber das warme Auto macht die Fahrt zum See äußerst angenehm. Mittags bietet die Passstraße schneebedeckte, funkelnde Gipfelpanoramen aus der Kabine. Nachmittags erreichen Sie die stillen winterlichen Gärten, bevor die früh einsetzende Dunkelheit gegen 17 Uhr die Rückreise einläutet.",
+            "hu": "A hideg téli reggel jeges utakkal indul, de a fűtött autó kényelmessé teszi az utat a tóhoz. Délben a hágó hófödte, szikrázó csúcsokat kínál az ablakból nézve. Délután eléri a csendes téli kerteket, mielőtt a 17 óra körül beálló korai sötétedés a biztonságos hazatérésre ösztönözné.",
+            "ro": "Dimineața rece de iarnă începe cu drumuri înghețate, dar mașina caldă face drumul spre lac foarte plăcut. La prânz, trecătoarea oferă panorame înzăpezite și sclipitoare din cabină. După-amiaza ajungeți la grădinile liniștite de iarnă, înainte ca întunericul să se lase devreme în jur de 17:00.",
+            "en": "A cold winter morning begins with icy roads, but the warm car makes the drive to the lake exceedingly pleasant. At noon, the mountain pass offers snow-capped, sparkling panoramas from the cabin. In the afternoon, you reach the quiet winter gardens before the early sunset around 5 PM signals your return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die historischen Mauern mit Raureif. Die kräftige Heizung im Auto lässt Sie schnell auftauen, nachdem Sie die kühle Winterluft gespürt haben.",
+                "hu": "Csodálja meg a zúzmarás történelmi falakat. Az autó erős fűtése segít gyorsan felolvadni, miután megtapasztalta a csípős, jeges téli levegőt a templomnál.",
+                "ro": "Admirați zidurile istorice acoperite cu chiciură. Încălzirea puternică a mașinii vă ajută să vă dezghețați rapid după ce ați simțit aerul rece de iarnă.",
+                "en": "Marvel at the historical walls covered in beautiful hoarfrost. The car heater helps you thaw out quickly after experiencing the crisp, freezing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of La Balme",
+                "hu": "Lake of La Balme",
+                "ro": "Lake of La Balme",
+                "en": "Lake of La Balme"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige, zugefrorene See ist ein perfektes, funkelndes Fotomotiv. Achten Sie auf tückisch vereiste Parkplätze beim Aussteigen aus dem Fahrzeug.",
+                "hu": "A hatalmas, befagyott tó egy tökéletes, szikrázó fotótéma. A járműből való kiszálláskor azonban nagyon ügyeljen a trükkösen jeges, csúszós parkolókra.",
+                "ro": "Lacul vast, înghețat este un motiv foto perfect și sclipitor. Aveți mare grijă la parcările înșelător de înghețate când coborâți din vehiculul dumneavoastră.",
+                "en": "The vast, fully frozen lake serves as a perfect, sparkling photo spot. Be extremely careful of treacherously icy parking lots when stepping out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Tête de la Mandallaz",
+                "hu": "Tête de la Mandallaz",
+                "ro": "Tête de la Mandallaz",
+                "en": "Tête de la Mandallaz"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie auf das hochgelegene Plateau. Bei Schnee sind hier Winterreifen absolute Pflicht; der weite Ausblick auf das glitzernde Tal ist die Fahrt wert.",
+                "hu": "Pillantson a magasan fekvő fennsíkra. Havazás esetén a téli gumi itt szigorúan kötelező; a csillogó völgyre nyíló tágas kilátás megéri az autózást.",
+                "ro": "Priviți platoul înalt. Anvelopele de iarnă sunt absolut obligatorii aici în caz de zăpadă; priveliștea vastă a văii strălucitoare merită cu siguranță drumul.",
+                "en": "Look out over the high-altitude plateau. Winter tires are absolutely mandatory here if it snows; the expansive view of the sparkling valley is worth the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mandallaz Ridge",
+                "hu": "La Mandallaz Ridge",
+                "ro": "La Mandallaz Ridge",
+                "en": "La Mandallaz Ridge"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die scharfen Felsformationen. Im Nachmittagslicht wirkt der Grat magisch; halten Sie eine warme Decke bereit, wenn Sie das Auto kurz verlassen.",
+                "hu": "Nézze meg az éles sziklaképződményeket. A délutáni fényben a gerinc varázslatos; tartson készenlétben egy meleg takarót, ha rövid időre elhagyja az autót.",
+                "ro": "Vedeți formațiunile stâncoase ascuțite. În lumina după-amiezii, creasta pare magică; păstrați o pătură caldă la îndemână dacă ieșiți scurt din mașină.",
+                "en": "See the sharp, jagged rock formations. In the afternoon light, the ridge looks highly magical; keep a warm blanket handy if you briefly step out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gardens of Haute-Savoie",
+                "hu": "Gardens of Haute-Savoie",
+                "ro": "Gardens of Haute-Savoie",
+                "en": "Gardens of Haute-Savoie"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die verlassene Anlage. Die frostigen Skulpturen und kahlen Bäume haben einen besonderen Charme; kehren Sie zurück, bevor es um 17 Uhr dunkel wird.",
+                "hu": "Csodálja meg az elhagyatott parkot. A fagyos szobrok és csupasz fák különleges bájjal bírnak; induljon vissza a szállásra, mielőtt 17 órakor teljesen sötét lesz.",
+                "ro": "Admirați parcul pustiu. Sculpturile înghețate și copacii golași au un farmec deosebit de iarnă; întoarceți-vă la cazare înainte să se întunece complet la 17:00.",
+                "en": "Admire the quiet, deserted park layout. The frosted sculptures and bare trees have a unique winter charm; return to your base before it gets fully dark at 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

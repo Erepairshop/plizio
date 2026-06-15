@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot a környék szívének felfedezésével, csodálja meg a történelmi közigazgatási központokat, és ismerje meg a múltat a megható emlékműveken keresztül.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a kellemes tengerparti szakaszok felé. Élvezze a megnyugtató tengeri szellőt és a tágas öbölben hajózó csónakok látványát.\n\nAfternoon: Merüljön el mélyebben a régió lenyűgöző katonai történelmében. Sétáljon a hidegháborús védelmi rendszerek tényleges maradványai között, amelyeket a part közelében állítottak fel.\n\nEvening: Zárja utazását a helyi kilátókból nyíló pazar naplemente látványával, amely tökéletesen tükrözi ennek az andalúz tengerparti városnak a csendes báját és nyugalmát.",
         "ro": "Morning: Începeți ziua explorând inima zonei, admirând centrele administrative istorice și învățând despre trecutul rezilient prin intermediul monumentelor emoționante.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre întinderile plăcute de coastă. Bucurați-vă de briza liniștitoare a mării și de vederea bărcilor navigând prin golf.\n\nAfternoon: Aprofundați-vă în istoria militară fascinantă a regiunii. Plimbați-vă printre rămășițele reale ale sistemelor de apărare din timpul Războiului Rece de pe coastă.\n\nEvening: Încheiați-vă călătoria admirând apusul de soare de la punctele de belvedere locale, reflectând perfect farmecul liniștit al acestui oraș de la malul mării din Andaluzia.",
         "en": "Morning: Start your day exploring the heart of the area, soaking in historical administration centers and learning about the resilient past through poignant monuments.\n\nMidday: As the sun climbs, make your way toward the pleasant coastal stretches. Enjoy the calming sea breeze and the sight of boats navigating through the expansive bay.\n\nAfternoon: Delve deeper into the region's fascinating military history. Walk among actual remnants of cold war defense systems set up strategically near the coast.\n\nEvening: Conclude your journey by taking in the sweeping sunset views from local vantage points, perfectly reflecting the quiet charm of this Andalusian seaside town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt im Rathaus, während der Regen gegen die Fenster prasselt. Mittags spazieren wir mit Schirm zum Denkmal, wo die graue Bucht eine melancholische Atmosphäre versprüht. Am Nachmittag trotzen wir dem Wetter am Strand, bevor wir uns in die historischen Viertel zurückziehen. Den Abend lassen wir bei den Raketen ausklingen, die im Nebel fast mystisch wirken.",
+            "hu": "A nap az önkormányzat épületében indul, védve az esőtől. Délben esernyővel sétálunk az emlékműhöz, ahol a szürke öböl melankolikus arcát mutatja. Délután a parton dacolunk az elemekkel, figyelve a hullámokat, majd a történelmi utcák felé vesszük az irányt. Az estét a rakétáknál zárjuk, amik a ködben és esőben különösen monumentális látványt nyújtanak.",
+            "ro": "Ziua începe la adăpost în primărie, în timp ce ploaia bate în geamuri. La prânz, cu umbrela în mână, mergem la monument, unde golful gri emană o atmosferă melancolică. După-amiaza înfruntăm vremea pe plajă, urmărind valurile, apoi ne retragem spre cartierele istorice. Seara se încheie la rachete, care par aproape mistice în ceață și ploaie.",
+            "en": "The day begins sheltered in the Town Hall while rain taps against the windows. At noon, we walk with umbrellas to the monument, where the gray bay offers a melancholic vibe. In the afternoon, we brave the elements on the beach, watching the waves before heading to historical spots. The evening ends at the missiles, which look almost mystical in the mist and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alcaldía de Puente Mayorga",
+                "hu": "Alcaldía de Puente Mayorga",
+                "ro": "Alcaldía de Puente Mayorga",
+                "en": "Alcaldía de Puente Mayorga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Innere des Rathauses als trockenen Startpunkt, um lokale Infos zu sammeln; achten Sie auf rutschige Stufen am Eingang.",
+                "hu": "Használja az önkormányzat épületét száraz kiindulópontként a helyi infókhoz; vigyázzon a bejáratnál a csúszós lépcsőkre.",
+                "ro": "Folosiți interiorul primăriei ca punct de plecare uscat pentru informații locale; atenție la treptele alunecoase de la intrare.",
+                "en": "Use the interior of the Town Hall as a dry starting point to gather local info; watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Fallecidos por la Explosión",
+                "hu": "Fallecidos por la Explosión",
+                "ro": "Fallecidos por la Explosión",
+                "en": "Fallecidos por la Explosión"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, respektvoller Stopp unter dem Regenschirm; das Denkmal wirkt bei grauem Himmel besonders eindrucksvoll und mahnend.",
+                "hu": "Rövid, tiszteletteljes megálló az esernyő alatt; az emlékmű a szürke égbolt alatt különösen hatásos és figyelmeztető látvány.",
+                "ro": "O oprire scurtă și respectuoasă sub umbrelă; monumentul pare deosebit de impresionant și solemn sub cerul gri.",
+                "en": "A short, respectful stop under the umbrella; the monument looks particularly impressive and solemn under the gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puente Mayorga-Campamento",
+                "hu": "Playa de Puente Mayorga-Campamento",
+                "ro": "Playa de Puente Mayorga-Campamento",
+                "en": "Playa de Puente Mayorga-Campamento"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Meer von der Uferpromenade aus; wasserfeste Schuhe sind wegen der Pfützen auf dem Weg unerlässlich.",
+                "hu": "Figyelje a zord tengert a sétányról; a vízálló cipő elengedhetetlen az úton lévő tócsák és a nedves homok miatt.",
+                "ro": "Observați marea agitată de pe faleză; încălțămintea impermeabilă este esențială din cauza bălților de pe drum.",
+                "en": "Watch the rough sea from the promenade; waterproof shoes are essential due to the puddles and wet sand on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Campamento",
+                "hu": "Campamento",
+                "ro": "Campamento",
+                "en": "Campamento"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Fassaden, die im Regen glänzen; suchen Sie Schutz unter den Vordächern der lokalen Geschäfte.",
+                "hu": "Fedezze fel az esőben csillogó történelmi homlokzatokat; keressen menedéket a helyi üzletek ereszei és előtetői alatt.",
+                "ro": "Explorați fațadele istorice care strălucesc în ploaie; căutați adăpost sub streșinile magazinelor locale.",
+                "en": "Explore the historical facades glistening in the rain; find shelter under the overhangs of local shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Misiles Hawk",
+                "hu": "Misiles Hawk",
+                "ro": "Misiles Hawk",
+                "en": "Misiles Hawk"
+              },
+              "tip_5lang": {
+                "de": "Die Raketen wirken im Nebel sehr dramatisch; halten Sie Ihren Schirm fest, da es an diesem exponierten Punkt windig sein kann.",
+                "hu": "A rakéták drámai látványt nyújtanak a ködben; tartsa erősen az ernyőjét, mert ezen a nyitott ponton szeles lehet az idő.",
+                "ro": "Rachetele arată dramatic în ceață; țineți bine umbrela, deoarece în acest punct expus vântul poate fi puternic.",
+                "en": "The missiles look dramatic in the mist; hold your umbrella tight as it can be windy at this exposed coastal point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Rathaus, die klare Luft schärft die Sinne. Mittags wärmt uns die milde spanische Wintersonne beim Denkmal, während wir den Blick auf Gibraltar genießen. Am Nachmittag spazieren wir am ruhigen Strand entlang, bevor die Sonne gegen 17:00 Uhr spektakulär untergeht. Den Abend verbringen wir bei den Raketen unter dem ersten Sternenhimmel.",
+            "hu": "A téli reggel frissen indul az önkormányzatnál, a tiszta levegő élesíti az érzékeket. Délben a gyenge téli napsütés melenget az emlékműnél, miközben Gibraltár látványában gyönyörködünk. Délután a csendes tengerparton sétálunk, mielőtt a nap 17:00 körül látványosan lebukik a horizont alá. Az estét a rakétáknál zárjuk az első csillagok alatt.",
+            "ro": "Dimineața de iarnă începe proaspăt la primărie, aerul curat ascuțind simțurile. La prânz, soarele blând de iarnă ne încălzește la monument, în timp ce admirăm Gibraltarul. După-amiaza ne plimbăm pe plaja liniștită, înainte ca soarele să apună spectaculos în jurul orei 17:00. Seara se încheie la rachete, sub primele stele ale nopții.",
+            "en": "The winter morning starts fresh at the Town Hall, the crisp air sharpening the senses. At noon, mild winter sun warms us by the monument while we enjoy the view of Gibraltar. In the afternoon, we stroll along the quiet beach before the sun sets spectacularly around 17:00. The evening concludes at the missiles under the first stars of the night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alcaldía de Puente Mayorga",
+                "hu": "Alcaldía de Puente Mayorga",
+                "ro": "Alcaldía de Puente Mayorga",
+                "en": "Alcaldía de Puente Mayorga"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um sich über winterliche Veranstaltungen zu informieren; ziehen Sie sich warm an für den ersten Fußweg.",
+                "hu": "Itt tájékozódhat a téli eseményekről; öltözzön rétegesen az első gyalogos szakaszhoz a hűvös reggeli szél miatt.",
+                "ro": "Informați-vă aici despre evenimentele de iarnă; îmbrăcați-vă gros pentru prima etapă a plimbării în aerul rece.",
+                "en": "Gather info here about winter events; dress in layers for the first walk in the cool morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fallecidos por la Explosión",
+                "hu": "Fallecidos por la Explosión",
+                "ro": "Fallecidos por la Explosión",
+                "en": "Fallecidos por la Explosión"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Bucht im Winter; die kühle Brise macht den Aufenthalt hier kurz aber erfrischend.",
+                "hu": "Élvezze a téli tiszta kilátást az öbölre; a hűvös szellő miatt a megálló rövid, de felfrissítő lesz.",
+                "ro": "Bucurați-vă de vizibilitatea clară asupra golfului iarna; briza rece face oprirea scurtă, dar revigorantă.",
+                "en": "Enjoy the clear winter views over the bay; the cool breeze makes the stop short but refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puente Mayorga-Campamento",
+                "hu": "Playa de Puente Mayorga-Campamento",
+                "ro": "Playa de Puente Mayorga-Campamento",
+                "en": "Playa de Puente Mayorga-Campamento"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast leer und ideal für einen ruhigen Spaziergang; tragen Sie eine windfeste Jacke gegen die Meeresbrise.",
+                "hu": "A tengerpart télen szinte üres, ideális egy csendes sétához; viseljen szélálló kabátot a tengeri szél ellen.",
+                "ro": "Plaja este aproape goală iarna, ideală pentru o plimbare liniștită; purtați o jachetă rezistentă la vânt.",
+                "en": "The beach is nearly empty in winter, ideal for a quiet stroll; wear a windproof jacket against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Campamento",
+                "hu": "Campamento",
+                "ro": "Campamento",
+                "en": "Campamento"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten auf die alten Mauern; nutzen Sie das goldene Licht für Fotos vor dem Sonnenuntergang.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a régi falakra; használja ki az aranyórát fotózáshoz a naplemente előtt.",
+                "ro": "Soarele jos aruncă umbre lungi pe zidurile vechi; profitați de lumina aurie pentru fotografii înainte de apus.",
+                "en": "The low sun casts long shadows on the old walls; take advantage of the golden hour for photos before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Misiles Hawk",
+                "hu": "Misiles Hawk",
+                "ro": "Misiles Hawk",
+                "en": "Misiles Hawk"
+              },
+              "tip_5lang": {
+                "de": "Da es nach 17:00 Uhr schnell dunkel wird, ist dies ein toller Ort für die Dämmerung; bringen Sie eine Taschenlampe für den Rückweg mit.",
+                "hu": "Mivel 17:00 után gyorsan sötétedik, ez remek hely a szürkülethez; vigyen lámpát a visszaúthoz a biztonság kedvéért.",
+                "ro": "Deoarece se întunecă repede după ora 17:00, este un loc ideal pentru amurg; aduceți o lanternă pentru drumul de întoarcere.",
+                "en": "As it gets dark quickly after 17:00, this is a great spot for twilight; bring a flashlight for the walk back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Morning: Kezdje a napot a környék szívének felfedezésével, csodálja meg a történelmi közigazgatási központokat, és ismerje meg a múltat a megható emlékműveken keresztül.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a kellemes tengerparti szakaszok felé. Élvezze a megnyugtató tengeri szellőt és a tágas öbölben hajózó csónakok látványát.\n\nAfternoon: Merüljön el mélyebben a régió lenyűgöző katonai történelmében. Sétáljon a hidegháborús védelmi rendszerek tényleges maradványai között, amelyeket a part közelében állítottak fel.\n\nEvening: Zárja utazását a helyi kilátókból nyíló pazar naplemente látványával, amely tökéletesen tükrözi ennek az andalúz tengerparti városnak a csendes báját és nyugalmát.",
         "ro": "Morning: Începeți ziua explorând inima zonei, admirând centrele administrative istorice și învățând despre trecutul rezilient prin intermediul monumentelor emoționante.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre întinderile plăcute de coastă. Bucurați-vă de briza liniștitoare a mării și de vederea bărcilor navigând prin golf.\n\nAfternoon: Aprofundați-vă în istoria militară fascinantă a regiunii. Plimbați-vă printre rămășițele reale ale sistemelor de apărare din timpul Războiului Rece de pe coastă.\n\nEvening: Încheiați-vă călătoria admirând apusul de soare de la punctele de belvedere locale, reflectând perfect farmecul liniștit al acestui oraș de la malul mării din Andaluzia.",
         "en": "Morning: Start your day exploring the heart of the area, soaking in historical administration centers and learning about the resilient past through poignant monuments.\n\nMidday: As the sun climbs, make your way toward the pleasant coastal stretches. Enjoy the calming sea breeze and the sight of boats navigating through the expansive bay.\n\nAfternoon: Delve deeper into the region's fascinating military history. Walk among actual remnants of cold war defense systems set up strategically near the coast.\n\nEvening: Conclude your journey by taking in the sweeping sunset views from local vantage points, perfectly reflecting the quiet charm of this Andalusian seaside town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start bei den römischen Ruinen, wo wir vorsichtig über die glitschigen Pfade radeln. Mittags suchen wir Schutz beim Denkmal und blicken auf den verregneten Hafen. Am Nachmittag führt uns die Route entlang der Küste, wobei wir Pfützen geschickt ausweichen. Der Tag endet an den Aussichtspunkten, wo die Lichter der Stadt im nassen Asphalt reflektieren.",
+            "hu": "Nedves kezdés a római romoknál, ahol óvatosan tekerünk a csúszós ösvényeken. Délben az emlékműnél keresünk menedéket, nézve az esős kikötőt. Délután a part mentén haladunk, ügyesen kerülgetve a tócsákat. A nap a kilátóknál ér véget, ahol a város fényei megcsillannak a vizes aszfalton, különleges hangulatot árasztva.",
+            "ro": "Un început umed la ruinele romane, unde pedalăm cu atenție pe potecile alunecoase. La prânz căutăm adăpost la monument, privind portul ploios. După-amiaza traseul ne poartă de-a lungul coastei, evitând bălțile cu abilitate. Ziua se încheie la punctele de belvedere, unde luminile orașului se reflectă în asfaltul ud.",
+            "en": "A wet start at the Roman ruins, where we cycle carefully over slippery paths. At noon, we seek shelter by the monument, watching the rainy harbor. In the afternoon, the route takes us along the coast, skillfully avoiding puddles. The day ends at the viewpoints, where city lights reflect on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Romano de Carteia",
+                "hu": "Teatro Romano de Carteia",
+                "ro": "Teatro Romano de Carteia",
+                "en": "Teatro Romano de Carteia"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Radeln auf unbefestigten Wegen bei den Ruinen; der Boden kann sehr schlammig und rutschig sein.",
+                "hu": "Legyen óvatos a romoknál a nem aszfaltozott utakon; a talaj nagyon sáros és csúszós lehet az eső miatt.",
+                "ro": "Atenție la pedalatul pe potecile neasfaltate de la ruine; solul poate fi foarte noroios și alunecos.",
+                "en": "Be careful cycling on unpaved paths near the ruins; the ground can be very muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein nebliges Foto; achten Sie auf die Bremswege auf der nassen Straße bergab.",
+                "hu": "Rövid megálló egy ködös fotóhoz; figyeljen a féktávolságra a vizes lejtőn lefelé haladva.",
+                "ro": "O oprire scurtă pentru o fotografie în ceață; atenție la distanța de frânare pe drumul ud la vale.",
+                "en": "A short stop for a misty photo; pay attention to braking distances on the wet downhill road."
+              }
+            },
+            {
+              "name": {
+                "de": "Fallecidos por la Explosión",
+                "hu": "Fallecidos por la Explosión",
+                "ro": "Fallecidos por la Explosión",
+                "en": "Fallecidos por la Explosión"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab und nutzen Sie die nahegelegenen Cafés, um sich kurz aufzuwärmen und zu trocknen.",
+                "hu": "Támassza le biztonságosan a biciklit, és használja a közeli kávézókat egy rövid bemelegedéshez és szárítkozáshoz.",
+                "ro": "Parcați bicicleta în siguranță și folosiți cafenelele din apropiere pentru a vă încălzi și usca puțin.",
+                "en": "Park your bike securely and use nearby cafes to warm up and dry off for a few minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puente Mayorga-Campamento",
+                "hu": "Playa de Puente Mayorga-Campamento",
+                "ro": "Playa de Puente Mayorga-Campamento",
+                "en": "Playa de Puente Mayorga-Campamento"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Promenade; der Sand kann in Verbindung mit Regen den Boden sehr rutschig machen.",
+                "hu": "Hajtson lassan a sétányon; a homok és az eső keveréke nagyon csúszóssá teheti a burkolatot.",
+                "ro": "Pedalați încet pe faleză; amestecul de nisip și ploaie poate face pavajul foarte alunecos.",
+                "en": "Cycle slowly on the promenade; the mixture of sand and rain can make the pavement very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Campamento",
+                "hu": "Campamento",
+                "ro": "Campamento",
+                "en": "Campamento"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Gassen bieten etwas Schutz vor Wind; achten Sie auf Autoverkehr, der bei Regen schlechtere Sicht hat.",
+                "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen; figyeljen az autósokra, akiknek esőben rosszabb a látási viszonyuk.",
+                "ro": "Străzile înguste oferă protecție împotriva vântului; atenție la șoferi, care au vizibilitate redusă pe ploaie.",
+                "en": "Narrow streets offer some wind protection; watch out for drivers who have reduced visibility in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Misiles Hawk",
+                "hu": "Misiles Hawk",
+                "ro": "Misiles Hawk",
+                "en": "Misiles Hawk"
+              },
+              "tip_5lang": {
+                "de": "Ein exponierter Ort; tragen Sie eine gute Regenjacke und prüfen Sie Ihre Lichter für die Weiterfahrt im Trüben.",
+                "hu": "Nyitott terület; viseljen jó esőkabátot, és ellenőrizze a lámpáit a szürkületi továbbhaladáshoz.",
+                "ro": "Zonă expusă; purtați o pelerină de ploaie bună și verificați luminile pentru continuarea drumului pe vizibilitate redusă.",
+                "en": "Exposed area; wear a good raincoat and check your lights for continuing in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Rocamar",
+                "hu": "Mirador Rocamar",
+                "ro": "Mirador Rocamar",
+                "en": "Mirador Rocamar"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier durch Laub und Nässe gefährlich glatt sein; genießen Sie den Blick kurz und radeln Sie vorsichtig heim.",
+                "hu": "A talaj itt a levelek és a nedvesség miatt veszélyesen csúszós lehet; nézzen körbe gyorsan, és óvatosan tekerjen haza.",
+                "ro": "Solul poate fi periculos de alunecos din cauza frunzelor și umezelii; admirați vederea rapid și pedalați cu grijă spre casă.",
+                "en": "The ground can be dangerously slippery due to leaves and moisture; enjoy the view quickly and cycle home carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag auf dem Rad beginnt frisch bei den Ruinen, Handschuhe sind ein Muss. Mittags genießen wir die weite Sicht vom Mirador, während die kühle Luft uns wach hält. Am Nachmittag radeln wir entspannt am leeren Strand entlang. Da die Sonne früh untergeht, erreichen wir den letzten Aussichtspunkt pünktlich zum Farbspektakel am Himmel, bevor die Kälte anzieht.",
+            "hu": "A téli bringás nap frissen indul a romoknál, a kesztyű kötelező kiegészítő. Délben élvezzük a tiszta kilátást a Miradorról, a hűvös levegő éberen tart minket. Délután kényelmesen tekerünk az üres tengerparton. Mivel a nap korán nyugszik, az utolsó kilátót pont a színes égi játék idején érjük el, mielőtt beállna az esti fagy.",
+            "ro": "Ziua de iarnă pe bicicletă începe răcoros la ruine, mănușile fiind obligatorii. La prânz ne bucurăm de vizibilitatea clară de la Mirador, aerul rece menținându-ne alerți. După-amiaza pedalăm relaxat pe plaja pustie. Deoarece apusul e devreme, ajungem la ultimul punct de belvedere la timp pentru spectacolul de culori.",
+            "en": "The winter cycling day starts cool at the ruins, gloves are a must. At noon, we enjoy the clear views from the Mirador, the crisp air keeping us alert. In the afternoon, we cycle leisurely along the empty beach. Since the sun sets early, we reach the last viewpoint just in time for the color show before the cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Romano de Carteia",
+                "hu": "Teatro Romano de Carteia",
+                "ro": "Teatro Romano de Carteia",
+                "en": "Teatro Romano de Carteia"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft ist hier sehr kalt; tragen Sie einen Schal, um Ihr Gesicht beim Fahren gegen den Fahrtwind zu schützen.",
+                "hu": "A reggeli levegő itt nagyon hideg; viseljen sálat, hogy védje az arcát a menetszéltől tekerés közben.",
+                "ro": "Aerul dimineții este foarte rece aici; purtați un fular pentru a vă proteja fața de vântul tăios în timp ce pedalați.",
+                "en": "The morning air is very cold here; wear a scarf to protect your face from the wind chill while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía"
+              },
+              "tip_5lang": {
+                "de": "Der Winter bietet die beste Fernsicht auf den Felsen von Gibraltar; halten Sie nur kurz an, um nicht auszukühlen.",
+                "hu": "A tél kínálja a legjobb kilátást a gibraltári sziklára; csak rövid ideig álljon meg, hogy ne hűljön ki a teste.",
+                "ro": "Iarna oferă cea mai bună vizibilitate spre Stânca Gibraltar; opriți doar scurt pentru a nu vă răci corpul.",
+                "en": "Winter offers the best long-distance views of the Rock of Gibraltar; stop only briefly to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Fallecidos por la Explosión",
+                "hu": "Fallecidos por la Explosión",
+                "ro": "Fallecidos por la Explosión",
+                "en": "Fallecidos por la Explosión"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine Pause; die Statuen werfen im Winterlicht besonders scharfe Konturen.",
+                "hu": "Használja ki a déli napsütést egy pihenőre; a szobrok a téli fényben különösen éles kontúrokkal látszanak.",
+                "ro": "Profitați de soarele de la prânz pentru o pauză; statuile au contururi foarte clare în lumina de iarnă.",
+                "en": "Take advantage of the midday sun for a break; the statues show very sharp contours in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puente Mayorga-Campamento",
+                "hu": "Playa de Puente Mayorga-Campamento",
+                "ro": "Playa de Puente Mayorga-Campamento",
+                "en": "Playa de Puente Mayorga-Campamento"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Ufer kann im Winter beißend sein; stellen Sie sicher, dass Ihre Ohren gut geschützt sind.",
+                "hu": "A parton a szél télen metsző lehet; győződjön meg róla, hogy a fülei jól védve vannak a hideg ellen.",
+                "ro": "Vântul de pe mal poate fi tăios iarna; asigurați-vă că urechile sunt bine protejate împotriva frigului.",
+                "en": "The wind on the shore can be biting in winter; make sure your ears are well protected against the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Campamento",
+                "hu": "Campamento",
+                "ro": "Campamento",
+                "en": "Campamento"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um in einem lokalen Laden einen heißen Tee zu kaufen, bevor das Licht gegen 16:30 Uhr schwindet.",
+                "hu": "Jó hely egy forró teára egy helyi boltban, mielőtt a fények 16:30 körül halványulni kezdenének.",
+                "ro": "Un loc bun pentru un ceai fierbinte la un magazin local, înainte ca lumina să scadă în jurul orei 16:30.",
+                "en": "A good place for a hot tea at a local shop before the light starts fading around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Misiles Hawk",
+                "hu": "Misiles Hawk",
+                "ro": "Misiles Hawk",
+                "en": "Misiles Hawk"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter atemberaubend; schalten Sie Ihre Fahrradbeleuchtung rechtzeitig ein.",
+                "hu": "A naplemente itt télen lélegzetelállító; kapcsolja be időben a kerékpárvilágítást a biztonságos továbbhaladáshoz.",
+                "ro": "Apusul este uluitor aici iarna; aprindeți luminile bicicletei la timp pentru o deplasare sigură.",
+                "en": "The sunset here is breathtaking in winter; turn on your bike lights in time for safe continued travel."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Rocamar",
+                "hu": "Mirador Rocamar",
+                "ro": "Mirador Rocamar",
+                "en": "Mirador Rocamar"
+              },
+              "tip_5lang": {
+                "de": "Nach 17:00 Uhr sinkt die Temperatur schnell; beenden Sie Ihre Tour zügig und genießen Sie den winterlichen Abendhimmel.",
+                "hu": "17:00 után a hőmérséklet gyorsan süllyed; fejezze be a túrát tempósan, és élvezze a téli esti égboltot.",
+                "ro": "După ora 17:00 temperatura scade rapid; finalizați turul în ritm alert și bucurați-vă de cerul de iarnă.",
+                "en": "After 17:00 the temperature drops quickly; finish your tour briskly and enjoy the winter evening sky."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Morning: Kezdje a napot a környék szívének felfedezésével, csodálja meg a történelmi közigazgatási központokat, és ismerje meg a múltat a megható emlékműveken keresztül.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a kellemes tengerparti szakaszok felé. Élvezze a megnyugtató tengeri szellőt és a tágas öbölben hajózó csónakok látványát.\n\nAfternoon: Merüljön el mélyebben a régió lenyűgöző katonai történelmében. Sétáljon a hidegháborús védelmi rendszerek tényleges maradványai között, amelyeket a part közelében állítottak fel.\n\nEvening: Zárja utazását a helyi kilátókból nyíló pazar naplemente látványával, amely tökéletesen tükrözi ennek az andalúz tengerparti városnak a csendes báját és nyugalmát.",
         "ro": "Morning: Începeți ziua explorând inima zonei, admirând centrele administrative istorice și învățând despre trecutul rezilient prin intermediul monumentelor emoționante.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre întinderile plăcute de coastă. Bucurați-vă de briza liniștitoare a mării și de vederea bărcilor navigând prin golf.\n\nAfternoon: Aprofundați-vă în istoria militară fascinantă a regiunii. Plimbați-vă printre rămășițele reale ale sistemelor de apărare din timpul Războiului Rece de pe coastă.\n\nEvening: Încheiați-vă călătoria admirând apusul de soare de la punctele de belvedere locale, reflectând perfect farmecul liniștit al acestui oraș de la malul mării din Andaluzia.",
         "en": "Morning: Start your day exploring the heart of the area, soaking in historical administration centers and learning about the resilient past through poignant monuments.\n\nMidday: As the sun climbs, make your way toward the pleasant coastal stretches. Enjoy the calming sea breeze and the sight of boats navigating through the expansive bay.\n\nAfternoon: Delve deeper into the region's fascinating military history. Walk among actual remnants of cold war defense systems set up strategically near the coast.\n\nEvening: Conclude your journey by taking in the sweeping sunset views from local vantage points, perfectly reflecting the quiet charm of this Andalusian seaside town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im komfortablen Auto erkunden wir die römischen Stätten, während der Regen die Steine dunkler färbt. Mittags genießen wir die Aussicht vom Mirador aus dem trockenen Fahrzeug. Am Nachmittag fahren wir zur Küste, wo wir die Brandung beobachten. Der Tag endet bei der Villa María Luisa, die im Regen besonders herrschaftlich und geheimnisvoll erscheint.",
+            "hu": "A kényelmes autóban fedezzük fel a római helyszíneket, miközben az eső sötétebbre festi a köveket. Délben a Miradorról csodáljuk a kilátást a száraz utastérből. Délután a partra hajtunk, figyelve a hullámverést a szélvédő mögül. A nap a Villa María Luisánál zárul, amely az esőben különösen fenségesnek és titokzatosnak tűnik.",
+            "ro": "În confortul mașinii explorăm siturile romane, în timp ce ploaia închide culoarea pietrelor. La prânz admirăm vederea de la Mirador din interiorul uscat al vehiculului. După-amiaza conducem spre coastă, urmărind valurile prin parbriz. Ziua se încheie la Villa María Luisa, care pare deosebit de maiestuoasă și misterioasă în ploaie.",
+            "en": "In the comfort of the car, we explore the Roman sites while the rain colors the stones darker. At noon, we admire the view from the Mirador from the dry interior of the vehicle. In the afternoon, we drive to the coast, watching the surf through the windshield. The day ends at Villa María Luisa, which looks particularly majestic and mysterious in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Yacimiento Arqueologico Romano Carteia",
+                "hu": "Yacimiento Arqueologico Romano Carteia",
+                "ro": "Yacimiento Arqueologico Romano Carteia",
+                "en": "Yacimiento Arqueologico Romano Carteia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Rundgang im Freien erfordert festes Schuhwerk und einen stabilen Schirm.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a szabadtéri körút szilárd lábbelit és erős esernyőt igényel.",
+                "ro": "Parcați cât mai aproape de intrare; turul în aer liber necesită încălțăminte solidă și o umbrelă rezistentă.",
+                "en": "Park as close to the entrance as possible; the outdoor tour requires sturdy footwear and a strong umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano de Carteia",
+                "hu": "Teatro Romano de Carteia",
+                "ro": "Teatro Romano de Carteia",
+                "en": "Teatro Romano de Carteia"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine können bei Regen sehr rutschig sein; genießen Sie den Anblick kurz und nutzen Sie die Heizung im Auto zum Aufwärmen.",
+                "hu": "Az ősi kövek esőben nagyon csúszósak lehetnek; nézze meg gyorsan, és használja az autó fűtését a bemelegedéshez.",
+                "ro": "Pietrele antice pot fi foarte alunecoase; vizitați rapid și folosiți încălzirea din mașină pentru a vă încălzi.",
+                "en": "The ancient stones can be very slippery; take a quick look and use the car heater to warm up afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem Auto, wenn der Regen zu stark ist; die beschlagenen Scheiben lassen sich leicht mit der Klimaanlage klären.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esik; a párás ablakokat könnyen letisztíthatja a légkondicionálóval.",
+                "ro": "Bucurați-vă de panoramă direct din mașină dacă plouă prea tare; geamurile aburite se curăță ușor cu climatizarea.",
+                "en": "Enjoy the panorama directly from the car if it rains too hard; fogged windows can be easily cleared with the AC."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcaldía de Puente Mayorga",
+                "hu": "Alcaldía de Puente Mayorga",
+                "ro": "Alcaldía de Puente Mayorga",
+                "en": "Alcaldía de Puente Mayorga"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe für einen schnellen Besuch; das Rathaus bietet einen guten Zufluchtsort vor heftigen Schauern.",
+                "hu": "Keressen parkolót a közelben egy gyors látogatáshoz; az önkormányzat jó menedéket nyújt a hevesebb záporok elől.",
+                "ro": "Căutați un loc de parcare în apropiere; primăria oferă un adăpost bun împotriva averselor mai puternice.",
+                "en": "Find a parking spot nearby for a quick visit; the Town Hall provides a good refuge from heavier showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puente Mayorga-Campamento",
+                "hu": "Playa de Puente Mayorga-Campamento",
+                "ro": "Playa de Puente Mayorga-Campamento",
+                "en": "Playa de Puente Mayorga-Campamento"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die wilde Brandung zu beobachten, ohne nass zu werden; ideal für dramatische Fotos.",
+                "hu": "Parkoljon tengerre néző kilátással, hogy megfigyelhesse a vad hullámverést anélkül, hogy elázna; ideális drámai fotókhoz.",
+                "ro": "Parcați cu vedere la mare pentru a observa valurile sălbatice fără a vă uda; ideal pentru fotografii dramatice.",
+                "en": "Park with a sea view to observe the wild surf without getting wet; ideal for dramatic photos from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Misiles Hawk",
+                "hu": "Misiles Hawk",
+                "ro": "Misiles Hawk",
+                "en": "Misiles Hawk"
+              },
+              "tip_5lang": {
+                "de": "Die Straße hier oben kann bei Regen neblig sein; fahren Sie langsam und achten Sie auf die Begrenzungen am Wegrand.",
+                "hu": "Az út idáig esőben ködös lehet; hajtson lassan, és figyeljen az út szélén lévő jelzésekre és akadályokra.",
+                "ro": "Drumul până aici poate fi cețos; conduceți încet și fiți atenți la marginile drumului și la eventualele obstacole.",
+                "en": "The road up here can be misty in the rain; drive slowly and pay attention to the roadside markers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Rocamar",
+                "hu": "Mirador Rocamar",
+                "ro": "Mirador Rocamar",
+                "en": "Mirador Rocamar"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Aussicht; achten Sie beim Aussteigen auf tiefe Pfützen und glitschige Stellen auf dem Parkplatz.",
+                "hu": "Rövid megálló a kilátásért; kiszálláskor ügyeljen a mély tócsákra és a csúszós felületekre a parkolóban.",
+                "ro": "O oprire scurtă pentru vedere; la coborâre, atenție la bălțile adânci și la suprafețele alunecoase din parcare.",
+                "en": "A short stop for the view; when getting out, watch out for deep puddles and slippery spots in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet Villa María Luisa",
+                "hu": "Chalet Villa María Luisa",
+                "ro": "Chalet Villa María Luisa",
+                "en": "Chalet Villa María Luisa"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchtete Villa sieht im Regen sehr atmosphärisch aus; parken Sie sicher und genießen Sie den Anblick zum Abschluss.",
+                "hu": "A kivilágított villa esőben nagyon hangulatos; parkoljon le biztonságosan, és élvezze a látványt a nap végén.",
+                "ro": "Vila iluminată arată foarte atmosferic în ploaie; parcați în siguranță și bucurați-vă de priveliște la finalul zilei.",
+                "en": "The illuminated villa looks very atmospheric in the rain; park safely and enjoy the sight at the end of your day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am Steuer zu den römischen Ruinen, wo die Sonne die alten Mauern beleuchtet. Mittags genießen wir die weite Fernsicht vom Mirador bei angenehmen Temperaturen im Auto. Am Nachmittag fahren wir die Küstenstraße entlang und bewundern das glitzernde Wasser. Den Tag lassen wir bei der Villa María Luisa ausklingen, während der frühe Sonnenuntergang den Himmel verfärbt.",
+            "hu": "Tiszta téli nap indul a római romok felé, ahol a napfény megvilágítja a régi falakat. Délben az autóból élvezzük a tiszta távoli kilátást a Miradorról, kellemes hőmérsékletben. Délután a parti úton haladunk, csodálva a csillogó vizet. A napot a Villa María Luisánál zárjuk, miközben a korai naplemente színesre festi az eget.",
+            "ro": "O zi senină de iarnă începe spre ruinele romane, unde soarele luminează zidurile vechi. La prânz admirăm vizibilitatea clară de la Mirador în temperatura plăcută din mașină. După-amiaza conducem pe drumul de coastă, admirând apa sclipitoare. Ziua se încheie la Villa María Luisa, în timp ce apusul colorează cerul.",
+            "en": "A clear winter day starts driving to the Roman ruins, where the sun illuminates the old walls. At noon, we enjoy the clear distant views from the Mirador in a pleasant temperature inside the car. In the afternoon, we drive along the coast road, admiring the sparkling water. The day concludes at Villa María Luisa as the early sunset colors the sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Yacimiento Arqueologico Romano Carteia",
+                "hu": "Yacimiento Arqueologico Romano Carteia",
+                "ro": "Yacimiento Arqueologico Romano Carteia",
+                "en": "Yacimiento Arqueologico Romano Carteia"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht den Rundgang angenehm; tragen Sie bequeme Kleidung und genießen Sie die Ruhe ohne Touristenmassen.",
+                "hu": "A hűvös téli levegő kellemessé teszi a sétát; viseljen kényelmes ruhát, és élvezze a nyugalmat a tömeg nélkül.",
+                "ro": "Aerul rece de iarnă face plimbarea plăcută; purtați haine confortabile și bucurați-vă de liniște fără mulțimi de turiști.",
+                "en": "The cool winter air makes the tour pleasant; wear comfortable clothes and enjoy the tranquility without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Romano de Carteia",
+                "hu": "Teatro Romano de Carteia",
+                "ro": "Teatro Romano de Carteia",
+                "en": "Teatro Romano de Carteia"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht ist ideal für Architekturfotos; achten Sie darauf, vor 16:30 Uhr hier zu sein, um das beste Licht zu nutzen.",
+                "hu": "A téli fények ideálisak építészeti fotókhoz; ügyeljen rá, hogy 16:30 előtt érkezzen a legjobb fényviszonyokhoz.",
+                "ro": "Lumina de iarnă este ideală pentru fotografii de arhitectură; asigurați-vă că ajungeți înainte de ora 16:30.",
+                "en": "Winter light is ideal for architectural photos; make sure to arrive before 16:30 to use the best lighting conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Bahía",
+                "hu": "Mirador de la Bahía",
+                "ro": "Mirador de la Bahía",
+                "en": "Mirador de la Bahía"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sieht man oft bis nach Afrika; nutzen Sie ein Fernglas für noch bessere Details aus dem warmen Auto.",
+                "hu": "Télen gyakran el lehet látni Afrikáig; használjon távcsövet a még jobb részletekért a meleg autóból.",
+                "ro": "Iarna se poate vedea adesea până în Africa; folosiți un binoclu pentru detalii și mai bune din mașina caldă.",
+                "en": "In winter you can often see as far as Africa; use binoculars for even better details from the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcaldía de Puente Mayorga",
+                "hu": "Alcaldía de Puente Mayorga",
+                "ro": "Alcaldía de Puente Mayorga",
+                "en": "Alcaldía de Puente Mayorga"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; das Rathaus ist im Winter oft festlich geschmückt, was ein schönes Fotomotiv darstellt.",
+                "hu": "Gyors megálló; az önkormányzat télen gyakran ünnepi díszben tündököl, ami szép fotótéma lehet.",
+                "ro": "O oprire rapidă; primăria este adesea decorată festiv iarna, reprezentând un subiect frumos de fotografie.",
+                "en": "A quick stop; the Town Hall is often festively decorated in winter, making for a nice photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puente Mayorga-Campamento",
+                "hu": "Playa de Puente Mayorga-Campamento",
+                "ro": "Playa de Puente Mayorga-Campamento",
+                "en": "Playa de Puente Mayorga-Campamento"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Kaffee im Auto mit Blick auf die winterliche Bucht; die Ruhe am Strand ist jetzt besonders erholsam.",
+                "hu": "Élvezzen egy kávét az autóban az öbölre nézve; a tengerparti nyugalom most különösen pihentető.",
+                "ro": "Savurați o cafea în mașină cu vedere la golf; liniștea plajei este acum deosebit de relaxantă.",
+                "en": "Enjoy a coffee in the car with a view of the bay; the tranquility on the beach is especially relaxing now."
+              }
+            },
+            {
+              "name": {
+                "de": "Misiles Hawk",
+                "hu": "Misiles Hawk",
+                "ro": "Misiles Hawk",
+                "en": "Misiles Hawk"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Sonnenuntergang gegen 17:00 Uhr; die Farben über dem Felsen von Gibraltar sind im Winter oft intensiver.",
+                "hu": "Tökéletes a naplemente megtekintéséhez 17:00 körül; a színek Gibraltár felett télen gyakran intenzívebbek.",
+                "ro": "Perfect pentru a vedea apusul în jurul orei 17:00; culorile peste Stânca Gibraltar sunt adesea mai intense iarna.",
+                "en": "Perfect for watching the sunset around 17:00; the colors over the Rock of Gibraltar are often more intense in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Rocamar",
+                "hu": "Mirador Rocamar",
+                "ro": "Mirador Rocamar",
+                "en": "Mirador Rocamar"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt früh ein; schalten Sie das Standlicht ein, während Sie die Aussicht im Winterabend genießen.",
+                "hu": "A szürkület korán beköszönt; kapcsolja be a helyzetjelzőt, miközben a téli esti kilátást élvezi.",
+                "ro": "Amurgul vine devreme; aprindeți luminile de poziție în timp ce vă bucurați de vederea serii de iarnă.",
+                "en": "Twilight sets in early; turn on your parking lights while enjoying the winter evening view."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet Villa María Luisa",
+                "hu": "Chalet Villa María Luisa",
+                "ro": "Chalet Villa María Luisa",
+                "en": "Chalet Villa María Luisa"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag im Warmen ab; die Villa strahlt im winterlichen Abendlicht eine ganz eigene Eleganz aus.",
+                "hu": "Zárja a napot a melegben; a villa a téli esti fényben egyfajta sajátos eleganciát áraszt.",
+                "ro": "Încheiați ziua la căldură; vila emană o eleganță aparte în lumina serii de iarnă.",
+                "en": "End your day in the warmth; the villa radiates a unique elegance in the winter evening light."
+              }
+            }
+          ]
+        }
       }
     }
   }

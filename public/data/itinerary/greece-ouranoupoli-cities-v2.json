@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a frissítő tengeri szellővel a nyüzsgő Paralia Ouranoupoli sétányon. Délben merüljön el a környék múltjában a Prosphorion torony és a poszt-bizánci vízvezeték megcsodálásával. Töltse a délutánt a tengerpart és a helyi rekreációs helyszínek felfedezésével. Zárja a túrát megnyugtató pillanatokkal a csillogó Földközi-tenger partján.",
         "ro": "Începeți dimineața simțind briza răcoroasă de-a lungul vibrantei Paralia Ouranoupoli. La prânz, aprofundați istoria admirând impunătorul Turn Prosphorion și fascinantul apeduct post-bizantin. Petreceți după-amiaza explorând plaja și locurile locale de recreere. Încheiați turul cu momente relaxante pe țărmul strălucitor al Mării Mediterane.",
         "en": "Start your morning feeling the refreshing breeze along the vibrant Paralia Ouranoupoli. By midday, delve into the area's deep roots by admiring the imposing Tower of Prosphorion and the fascinating Post-Byzantine Aqueduct. Spend the afternoon exploring the local beach areas and seaside recreational spots. End your walk with soothing moments by the sparkling Mediterranean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen beobachten wir am Hafen, wie der Regen auf die Wellen peitscht. Mittags bietet der massive Turm einen trockenen Zufluchtsort voller Geschichte. Am Nachmittag kann der Pfad zum Aquädukt rutschig sein; achten Sie auf festes Schuhwerk. Der Abend bringt eine ruhige Stimmung, wenn sich die Lichter des Dorfes in den nassen Straßen spiegeln und eine friedliche Atmosphäre schaffen.",
+            "hu": "Reggel a borongós kikötőben kezdünk, ahol az eső kopogása festi alá a tenger morajlását. Délben a torony múzeuma kínál száraz menedéket és történelmi titkokat. Délután a vízvezetékhez vezető ösvény csúszóssá válhat, de a látvány ködbe burkolózva is varázslatos. Estére a parti fények visszatükröződnek a vizes aszfalton, csendes és meghitt lezárást adva a napnak.",
+            "ro": "Dimineața observăm ploaia căzând peste valuri de la marginea portului. La prânz, turnul masiv oferă un sanctuar uscat și perspective istorice despre Muntele Athos. După-amiaza, poteca spre apeduct poate fi alunecoasă, deci atenție la pietrele umede. Seara aduce o atmosferă liniștită, luminile orașului reflectându-se pe străzile ude, oferind un final de zi relaxant.",
+            "en": "In the morning, we watch the rain hitting the waves from the harbor's edge. By noon, the massive tower provides a dry sanctuary and historical insights into Athonite life. In the afternoon, the path to the aqueduct can be slippery, so watch your step on the ancient stones. Evening brings a quiet atmosphere as village lights reflect on the wet streets, offering a peaceful end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paralia Ouranoupoli",
+                "hu": "Paralia Ouranoupoli",
+                "ro": "Paralia Ouranoupoli",
+                "en": "Paralia Ouranoupoli"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Gewitterwolken über dem Meer vom Ufer aus; nehmen Sie unbedingt einen windfesten Schirm gegen die starken Küstenböen mit.",
+                "hu": "Figyelje a tenger felett gyülekező viharfelhőket a partról; hozzon szélálló esernyőt a gyakori és erős parti széllökések miatt.",
+                "ro": "Priviți norii de furtună care se adună deasupra mării de pe țărm; aduceți o umbrelă rezistentă la vânt pentru rafalele puternice de coastă.",
+                "en": "Watch the storm clouds gathering over the sea from the shore; bring a windproof umbrella for the frequent and strong coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Prosphorion",
+                "hu": "Prosphorion torony",
+                "ro": "Turnul Prosphorion",
+                "en": "Tower of Prosphorion"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren des Turms erkunden Sie das Erbe der Athos-Mönche im Trockenen; die massiven dicken Mauern bieten idealen Schutz vor dem Regen.",
+                "hu": "A torony belsejében szárazon ismerkedhet meg az athoszi szerzetesek örökségével; a vastag falak kiváló menedéket nyújtanak az eső elől.",
+                "ro": "În interiorul turnului, explorați moștenirea călugărilor atoniți stând la uscat; zidurile masive și groase oferă un adăpost excelent.",
+                "en": "Inside the tower, explore the Athonite monks' heritage while staying dry; the massive thick walls provide excellent shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Ouranoupoli",
+                "hu": "Ouranoupoli strand",
+                "ro": "Plaja Ouranoupoli",
+                "en": "Ouranoupolis Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für die Aussicht auf der gepflasterten Promenade statt im nassen Sand; die Meeresfarben wirken im Regen viel dramatischer.",
+                "hu": "A vizes homok helyett maradjon a kövezett sétányon a kilátásért; az esőben a tenger színei és a hullámok sokkal drámaibbá válnak.",
+                "ro": "Rămâneți pe promenada pavată în locul nisipului umed pentru priveliști; culorile mării devin mult mai dramatice în timpul ploii.",
+                "en": "Stay on the paved promenade instead of the wet sand for the views; the sea colors and waves become much more dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Postbyzantinisches Aquädukt von Prosfori",
+                "hu": "Poszt-bizánci Prosfori vízvezeték",
+                "ro": "Apeductul post-bizantin din Prosfori",
+                "en": "Post-Byzantine Aqueduct of Prosfori"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine können nach dem Regen extrem rutschig sein; tragen Sie Wanderschuhe mit gutem Grip für eine sichere Erkundung der Ruinen.",
+                "hu": "Az ódon kövek rendkívül csúszósak lehetnek az eső után; viseljen bordázott talpú túracipőt a vízvezeték biztonságos felfedezéséhez.",
+                "ro": "Pietrele vechi pot fi extrem de alunecoase după ploaie; purtați bocanci de drumeție cu aderență bună pentru o explorare sigură a ruinelor.",
+                "en": "The ancient stones can be extremely slippery after rain; wear hiking boots with good grip for a safe exploration of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "skites bungalows pool und strand",
+                "hu": "skites bungalows pool und strand",
+                "ro": "skites bungalows pool und strand",
+                "en": "skites bungalows pool und strand"
+              },
+              "tip_5lang": {
+                "de": "Der Duft der Kiefern ist bei Regen an der Küste am intensivsten; suchen Sie eine überdachte Terrasse, um das Meeresrauschen zu genießen.",
+                "hu": "A fenyvesek illata esőben a legintenzívebb a part mentén; keressen egy fedett teraszt a hullámzás és a tengeri köd megfigyeléséhez.",
+                "ro": "Parfumul pinilor este cel mai intens pe coastă în timpul ploii; găsiți o terasă acoperită pentru a vă bucura de sunetul mării.",
+                "en": "The scent of pines is most intense by the coast during rain; find a covered terrace to watch the waves and the sea mist comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische morgendliche Meeresluft belebt Sie auf der leeren Promenade. Mittags ist das ruhige Museum im Turm der ideale Ort zum Aufwärmen und Eintauchen in die Geschichte. Am Nachmittag spüren Sie die Winterkälte im Schatten des Aquädukts, während die Sonne tief steht. Am Abend bricht die Dunkelheit vor 17 Uhr ein und die Lichter wirken besonders gemütlich.",
+            "hu": "A friss reggeli tengeri levegő felfrissít a kihalt sétányon. Délben a torony csendes múzeuma tökéletes hely a felmelegedésre és a történelembe való elmélyedésre. Délután a vízvezeték árnyékában érezni a tél hűvösét, ahogy a nap alacsonyan jár. Estére, már öt óra előtt leszáll a sötétség, a falu fényei pedig meghitt, békés hangulatot árasztanak.",
+            "ro": "Aerul proaspăt de mare de dimineață vă revitalizează pe promenada goală. La prânz, muzeul liniștit al turnului este locul perfect pentru a vă încălzi și a explora istoria. După-amiaza, simțiți răcoarea iernii în umbra apeductului, în timp ce soarele rămâne jos. Seara, întunericul cade înainte de ora 17:00, iar luminile satului creează o atmosferă primitoare.",
+            "en": "Fresh morning sea air revitalizes you on the empty promenade. At noon, the tower's quiet museum is the perfect place to warm up and dive into history. In the afternoon, feel the winter's chill in the aqueduct's shadow as the sun stays low in the sky. By evening, darkness falls before 5 PM, and the village lights create a cozy, peaceful atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paralia Ouranoupoli",
+                "hu": "Paralia Ouranoupoli",
+                "ro": "Paralia Ouranoupoli",
+                "en": "Paralia Ouranoupoli"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den menschenleeren Kai im Wintersonnenschein; halten Sie wegen des beißenden Windes unbedingt Schal und Mütze bereit.",
+                "hu": "Élvezze a tömegmentes mólót a téli napsütésben; a csípős szél miatt feltétlenül legyen önnél sál és sapka a parti séta során.",
+                "ro": "Bucurați-vă de debarcaderul fără mulțimi în soarele de iarnă; asigurați-vă că aveți un fular și o căciulă pentru vântul tăios.",
+                "en": "Enjoy the crowd-free pier in the winter sunshine; be sure to have a scarf and hat ready for the biting wind during your coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Prosphorion",
+                "hu": "Prosphorion torony",
+                "ro": "Turnul Prosphorion",
+                "en": "Tower of Prosphorion"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die ruhigste Zeit für die Ausstellung ohne Warteschlangen; nutzen Sie die Zeit, um die byzantinischen Details genau zu studieren.",
+                "hu": "Ilyenkor a legnyugodtabb a kiállítás, nincs sorban állás; használja ki az időt a bizánci részletek alapos, zavartalan megismerésére.",
+                "ro": "Acesta este cel mai liniștit moment pentru expoziție, fără cozi; profitați de timp pentru a studia detaliat detaliile bizantine.",
+                "en": "This is the quietest time for the exhibition with no queues; take your time to study the Byzantine details thoroughly and undisturbed."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Ouranoupoli",
+                "hu": "Ouranoupoli strand",
+                "ro": "Plaja Ouranoupoli",
+                "en": "Ouranoupolis Beach"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Meerblick lässt Sie an klaren Tagen bis zu den fernen Inseln sehen; kleiden Sie sich für den Spaziergang in Schichten.",
+                "hu": "A téli tenger látványa tiszta időben egészen a távoli szigetekig ellátni enged; öltözzön rétegesen a hideg parti szél ellen.",
+                "ro": "Vederea mării în timpul iernii vă permite să vedeți până la insulele îndepărtate în zilele senine; îmbrăcați-vă în straturi pentru plimbare.",
+                "en": "The winter sea view allows you to see as far as distant islands on clear days; dress in multiple layers against the cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Postbyzantinisches Aquädukt von Prosfori",
+                "hu": "Poszt-bizánci Prosfori vízvezeték",
+                "ro": "Apeductul post-bizantin din Prosfori",
+                "en": "Post-Byzantine Aqueduct of Prosfori"
+              },
+              "tip_5lang": {
+                "de": "Die blattlosen Bäume geben die volle Struktur des Aquädukts frei; beenden Sie Ihren Besuch unbedingt vor dem frühen Sonnenuntergang gegen 17 Uhr.",
+                "hu": "A lombmentes fák között a vízvezeték teljes szerkezete láthatóvá válik; fejezze be a látogatást még a korai naplemente előtt.",
+                "ro": "Copacii fără frunze dezvăluie întreaga structură a apeductului; asigurați-vă că terminați vizita înainte de apusul devreme de la ora 17.",
+                "en": "The leafless trees reveal the full structure of the ancient aqueduct; make sure to finish your visit before the early sunset around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "skites bungalows pool und strand",
+                "hu": "skites bungalows pool und strand",
+                "ro": "skites bungalows pool und strand",
+                "en": "skites bungalows pool und strand"
+              },
+              "tip_5lang": {
+                "de": "In der ruhigen Bucht hört man nur das Rauschen der Wellen; in der Ferne könnte der schneebedeckte Gipfel des Athos im klaren Licht auftauchen.",
+                "hu": "A csendes öbölben ilyenkor csak a hullámok zaját hallani; a távolban az Athosz-hegy hófödte csúcsa is felbukkanhat a tiszta téli levegőben.",
+                "ro": "În golful liniștit, se aude doar sunetul valurilor; vârful înzăpezit al Muntelui Athos ar putea apărea în depărtare în aerul clar.",
+                "en": "In the quiet bay, you can only hear the sound of the waves; the snow-capped peak of Mount Athos might appear in the clear winter air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen végig a Kampoudi és Paralia tengerpartokon a friss reggeli órákban. Délben folytassa útját a lenyűgöző Prosphorion torony és a történelmi vízvezeték felfedezésével. A délután elkalauzol a természet lágy ölén fekvő Zygos-kolostor varázslatos romjaihoz. Fejezze be kerékpáros kalandját a Klosterblick fenséges panorámájával.",
         "ro": "Pedalați dimineața pe plajele Kampoudi și Paralia. Continuați plimbarea la prânz pentru a explora impresionantul Turn Prosphorion și apeductul istoric. După-amiaza vă aduce la ruinele fascinante ale Mănăstirii Zygos, aflată în mijlocul naturii. Încheiați aventura pe bicicletă admirând priveliștea panoramică majestuoasă de la Klosterblick.",
         "en": "Pedal your way along the sandy stretches of Kampoudi and Paralia in the fresh morning air. Ride on at midday to explore the impressive Tower of Prosphorion and the historic aqueduct. The afternoon brings you to the fascinating ruins of the Monastery of Zygos nestled in nature. Conclude your cycling adventure by taking in the majestic panoramic vistas from Klosterblick."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Achten Sie bei der morgendlichen Fahrt auf rutschigen Asphalt auf dem Weg nach Kampoudi. Tagsüber lohnt es sich, am Hafen und Turm längere Pausen einzulegen, bis der Regen abzieht. Am Nachmittag können die unbefestigten Wege am Aquädukt schlammig sein; manövrieren Sie vorsichtig. Am Abend sind wegen der nassen Fahrbahn erhöhte Sichtbarkeit und Vorsicht geboten.",
+            "hu": "A reggeli tekerésnél figyeljünk a csúszós aszfaltra a Kampoudi felé vezető úton. Napközben a kikötőben és a toronynál érdemes hosszabb pihenőt tartani, amíg elvonul az eső. Délután a vízvezeték környéki földutak sarasak lehetnek, óvatosan manőverezzünk a sárban. Estére a vizes útburkolat és a korai sötétedés miatt fokozott láthatóságra és figyelemre van szükség.",
+            "ro": "În timpul cursei de dimineață, atenție la asfaltul alunecos de pe drumul spre Kampoudi. În timpul zilei, merită să faceți pauze mai lungi în port și la turn până trece ploaia. După-amiaza, drumurile de pământ de lângă apeduct pot fi noroioase, așa că manevrați cu atenție. Seara, sunt necesare vizibilitate sporită și precauție din cauza suprafețelor umede.",
+            "en": "During the morning ride, watch for slippery asphalt on the road towards Kampoudi. During the day, it's worth taking longer breaks at the harbor and tower while the rain passes. In the afternoon, the dirt roads near the aqueduct can be muddy, so maneuver carefully. By evening, increased visibility and caution are needed due to wet surfaces and early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kampoudi / Akrathos",
+                "hu": "Kampoudi / Akrathos",
+                "ro": "Kampoudi / Akrathos",
+                "en": "Kampoudi / Akrathos"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt in den Kurven wird bei Regen extrem rutschig; prüfen Sie Ihre Bremsen und halten Sie einen größeren Sicherheitsabstand zu anderen Fahrzeugen.",
+                "hu": "A kanyarokban az aszfalt síkossá válik az esőben; ellenőrizze a fékeket és tartson nagyobb követési távolságot a biztonság érdekében.",
+                "ro": "Asfaltul din curbe devine extrem de alunecos în ploaie; verificați frânele și păstrați o distanță mai mare de siguranță față de vehicule.",
+                "en": "The asphalt in the curves becomes extremely slippery in the rain; check your brakes and maintain a longer following distance for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ouranoupoli",
+                "hu": "Paralia Ouranoupoli",
+                "ro": "Paralia Ouranoupoli",
+                "en": "Paralia Ouranoupoli"
+              },
+              "tip_5lang": {
+                "de": "Rund um den Hafen sehen viele Fußgänger mit Schirmen Radfahrer schlechter; benutzen Sie Ihre Klingel oft und seien Sie besonders geduldig.",
+                "hu": "A kikötő környékén sok a gyalogos esernyővel, akik kevésbé látják a bringásokat; használjon csengőt és legyen türelmes a tömegben.",
+                "ro": "În jurul portului, mulți pietoni cu umbrele s-ar putea să nu vadă clar cicliștii; folosiți claxonul des și fiți deosebit de răbdători.",
+                "en": "Around the harbor, many pedestrians with umbrellas may not see cyclists clearly; use your bell often and be extra patient in the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Prosphorion",
+                "hu": "Prosphorion torony",
+                "ro": "Turnul Prosphorion",
+                "en": "Tower of Prosphorion"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem überdachten Ort ab, während Sie im Turm warten; die Steine am Fuße des massiven Turms sind bei Nässe sehr glatt.",
+                "hu": "Láncolja le a biciklit egy fedett helyen, amíg a torony belsejében várakozik; a kövek a torony tövében nedvesen nagyon csúszósak.",
+                "ro": "Încuiați bicicleta într-un loc acoperit în timp ce așteptați în interiorul turnului; pietrele de la baza turnului masiv sunt foarte lucioase.",
+                "en": "Lock your bike in a covered spot while you wait inside the tower; the stones at the base of the massive tower are very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Postbyzantinisches Aquädukt von Prosfori",
+                "hu": "Poszt-bizánci Prosfori vízvezeték",
+                "ro": "Apeductul post-bizantin din Prosfori",
+                "en": "Post-Byzantine Aqueduct of Prosfori"
+              },
+              "tip_5lang": {
+                "de": "Der Abschnitt zum Aquädukt kann sehr schlammig werden; Schutzbleche sind empfehlenswert, um Ihre Kleidung während der Fahrt sauber zu halten.",
+                "hu": "A vízvezetékhez vezető szakasz dagonyássá válhat; javasolt a sárvédő használata, hogy ruházata tiszta maradjon a tekerés során.",
+                "ro": "Secțiunea care duce la apeduct poate deveni foarte noroioasă; se recomandă utilizarea apărătorilor pentru a vă păstra hainele curate.",
+                "en": "The section leading to the aqueduct can become very muddy; using mudguards is highly recommended to keep your clothing clean during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Zygos",
+                "hu": "Zygos-kolostor",
+                "ro": "Mănăstirea Zygos",
+                "en": "Monastery of Zygos"
+              },
+              "tip_5lang": {
+                "de": "Grasflächen zwischen den Ruinen können tief und schlammig sein; schieben Sie Ihr Rad am Rand der Ausgrabungsstätte entlang, um nicht steckenzubleiben.",
+                "hu": "A romok közötti füves területek mélyebbek és sárosabbak lehetnek; tolja a kerékpárt az ásatási terület szélén, hogy elkerülje a süllyedést.",
+                "ro": "Zonele cu iarbă dintre ruine pot fi adânci și noroioase; împingeți bicicleta pe marginea sitului arheologic pentru a nu vă bloca.",
+                "en": "Grassy areas among the ruins can be deep and muddy; push your bike along the edge of the excavation site to avoid getting stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Klosterblick",
+                "hu": "Klosterblick",
+                "ro": "Klosterblick",
+                "en": "Klosterblick"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Aussichtspunkt sind bei Regen sehr gefährlich; bleiben Sie auf dem markierten Weg und gehen Sie nicht zu nah an den rutschigen Abgrund.",
+                "hu": "A kilátópontnál a sziklák esőben nagyon veszélyesek; maradjon a kijelölt úton és ne menjen túl közel a csúszós peremhez.",
+                "ro": "Stâncile de la punctul de belvedere sunt foarte periculoase în ploaie; rămâneți pe poteca marcată și nu vă apropiați de marginea alunecoasă.",
+                "en": "The rocks at the viewpoint are very dangerous in the rain; stay on the designated path and don't go too close to the slippery edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Radfahren in der kalten Morgenluft ist belebend, aber Schichtkleidung ist unerlässlich. Tagsüber ermöglicht das klare Wetter weite Ausblicke über das Meer vom Dorf und Aquädukt aus. Am Nachmittag berührt die Winterstille in den Ruinen des Klosters Zygos. Nach dem Sonnenuntergang sinkt die Temperatur rapide, kehren Sie also rechtzeitig vor der Dunkelheit zurück.",
+            "hu": "A hideg reggeli levegőben a tekerés felpezsdít, de a réteges öltözködés elengedhetetlen. Napközben a faluban és a vízvezetéknél a tiszta, páramentes időben messzire ellátni a tengeren. Délután a Zygos-kolostor romjai közt a téli csend és a történelem érint meg. Estére a naplemente után hirtelen lehűl a levegő, így érdemes időben visszaérni.",
+            "ro": "Mersul cu bicicleta în aerul rece de dimineață este revigorant, dar îmbrăcămintea stratificată este esențială. În timpul zilei, vremea senină permite vederi lungi asupra mării din sat și de la apeduct. După-amiaza, liniștea iernii printre ruinele Mănăstirii Zygos este impresionantă. După apus, temperatura scade rapid, așa că planificați întoarcerea devreme.",
+            "en": "Riding in the cold morning air is invigorating, but layered clothing is essential. During the day, the clear, mist-free weather allows for long views over the sea from the village and aqueduct. In the afternoon, the winter silence among the ruins of Zygos Monastery is touching. After sunset, the temperature drops quickly, so plan to return before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kampoudi / Akrathos",
+                "hu": "Kampoudi / Akrathos",
+                "ro": "Kampoudi / Akrathos",
+                "en": "Kampoudi / Akrathos"
+              },
+              "tip_5lang": {
+                "de": "Bei Abfahrten kann der Fahrtwind sehr kalt sein; verwenden Sie winddichte Handschuhe und eine Gesichtsmaske für den notwendigen Schutz.",
+                "hu": "A lejtőkön a menetszél nagyon hideg lehet; használjon szélálló kesztyűt és arcmaszkot a védelem érdekében a gyorsabb szakaszokon.",
+                "ro": "La coborâri, vântul poate fi foarte rece; folosiți mănuși rezistente la vânt și o mască de față pentru protecția necesară.",
+                "en": "On descents, the wind chill can be very cold; use windproof gloves and a face mask for necessary protection during fast stretches."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Ouranoupoli",
+                "hu": "Paralia Ouranoupoli",
+                "ro": "Paralia Ouranoupoli",
+                "en": "Paralia Ouranoupoli"
+              },
+              "tip_5lang": {
+                "de": "Die hohe Luftfeuchtigkeit am Hafen kann es kälter erscheinen lassen; machen Sie eine kurze Pause, um Ihre Kleidungsschichten zu prüfen.",
+                "hu": "A kikötőben a páratartalom miatt hidegebbnek érezheti az időt; álljon meg egy rövid pihenőre, hogy ellenőrizze és igazítsa a rétegeit.",
+                "ro": "Umiditatea ridicată din port poate face să pară mai frig; opriți-vă pentru o scurtă pauză pentru a vă verifica straturile de haine.",
+                "en": "High humidity at the harbor can make it feel much colder; stop for a brief break to check and adjust your clothing layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Prosphorion",
+                "hu": "Prosphorion torony",
+                "ro": "Turnul Prosphorion",
+                "en": "Tower of Prosphorion"
+              },
+              "tip_5lang": {
+                "de": "Denken Sie daran, dass Metallrahmen Ihres Rades schnell abkühlen; vermeiden Sie es, sie bei der Rast mit bloßen Händen zu berühren.",
+                "hu": "A kerékpártárolásnál ügyeljen, hogy a fém váz ilyenkor gyorsan lehűl; ne érjen hozzá csupasz kézzel a hideg alkatrészekhez.",
+                "ro": "Rețineți că cadrele metalice ale bicicletei se răcesc rapid; evitați să le atingeți cu mâinile goale în timpul staționării.",
+                "en": "When parking your bike, remember that metal frames cool down quickly; avoid touching cold parts with bare hands during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Postbyzantinisches Aquädukt von Prosfori",
+                "hu": "Poszt-bizánci Prosfori vízvezeték",
+                "ro": "Apeductul post-bizantin din Prosfori",
+                "en": "Post-Byzantine Aqueduct of Prosfori"
+              },
+              "tip_5lang": {
+                "de": "Im winterlichen Sonnenlicht zeichnen sich die Bögen scharf ab; machen Sie Ihre Fotos, bevor die Sonne gegen 16:30 Uhr hinter den Bergen verschwindet.",
+                "hu": "A téli napfényben a vízvezeték ívei élesen kirajzolódnak; készítse el a fotókat, mielőtt a nap fél öt körül a hegyek mögé bukik.",
+                "ro": "În lumina soarelui de iarnă, arcurile sunt clar definite; faceți fotografii înainte ca soarele să dispară după dealuri pe la ora 16:30.",
+                "en": "In the winter sunlight, the aqueduct's arches are sharply defined; take your photos before the sun drops behind the hills around 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Zygos",
+                "hu": "Zygos-kolostor",
+                "ro": "Mănăstirea Zygos",
+                "en": "Monastery of Zygos"
+              },
+              "tip_5lang": {
+                "de": "Zwischen den Klosterruinen gibt es jetzt keinen Schatten, was beim Aufwärmen hilft; genießen Sie die winterliche Einsamkeit am Rand von Athos.",
+                "hu": "A kolostor romjai között ilyenkor nincs árnyék, ami segíti a felmelegedést a napsütésben; élvezze a téli magányt az Athosz határán.",
+                "ro": "Nu există umbră printre ruinele mănăstirii acum, ceea ce vă ajută să vă încălziți; bucurați-vă de solitudinea iernii la marginea Athosului.",
+                "en": "There's no shade among the monastery ruins now, which helps you warm up in the sun; enjoy the winter solitude at the border of Athos."
+              }
+            },
+            {
+              "name": {
+                "de": "Klosterblick",
+                "hu": "Klosterblick",
+                "ro": "Klosterblick",
+                "en": "Klosterblick"
+              },
+              "tip_5lang": {
+                "de": "Am Aussichtspunkt kann der Wind auffrischen; bleiben Sie nicht zu lange stehen, um vor der Rückfahrt im kalten Abendwind nicht auszukühlen.",
+                "hu": "A kilátópontnál a szél felerősödhet; ne maradjon sokáig egy helyben, hogy ne hűljön ki a teste a visszaút előtt a hideg esti szélben.",
+                "ro": "Vântul se poate intensifica la punctul de belvedere; nu staționați prea mult timp pentru a evita răcirea înainte de drumul de întoarcere.",
+                "en": "The wind can pick up at the viewpoint; don't stay stationary for too long to avoid cooling down before the ride back in the cold evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A tengerparti pihenéssel induló délelőtt után kényelmesen utazhat a központba, hogy megcsodálja a Prosphorion torony építészeti csodáit. Délután könnyedén eljuthat a parti komplexumoktól a Zygos-kolostor és az ősi őrtornyok zord romjaihoz. A nap festői lezárásaként élvezze a Klosterblick panorámáját, amely békés rálátást nyújt a régióra.",
         "ro": "O dimineață relaxantă la plajă dă tonul zilei, înainte de a conduce rapid spre minunile arhitecturale din centru, cum ar fi Turnul Prosphorion. După-amiaza călătoriți confortabil de la complexele de coastă la ruinele brute ale Mănăstirii Zygos și vechile turnuri de veghe. Finalul pitoresc este oferit de Klosterblick, cu o panoramă pașnică asupra întregii regiuni.",
         "en": "A relaxing morning on the beach sets the tone before you quickly drive to the central architectural wonders, including the Tower of Prosphorion. In the afternoon, journey comfortably from coastal complexes to the rugged ruins of the Monastery of Zygos and ancient watchtowers. The picturesque finale is provided by Klosterblick, offering a peaceful panorama of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem verregneten Morgen können wir unsere Fahrt bequem im beheizten Auto beginnen. Tagsüber bietet das Auto zwischen den Besichtigungen von Turm und Aquädukt Schutz. Am Nachmittag fahren Sie auf den Wegen zu entlegeneren Ruinen wegen möglicher Überflutungen vorsichtig. Am Abend genießen Sie vom Autofenster aus den Blick auf das stürmische Meer.",
+            "hu": "Az esős reggelen kényelmesen vághatunk neki az útnak a fűtött autóban. Napközben a torony és a vízvezeték látogatása között a kocsi nyújt száraz menedéket a zivatarok elől. Délután a távolabbi romokhoz vezető utakon óvatosan vezessünk a vízátfolyások miatt. Estére a kivilágított faluba érkezve az autó ablakán keresztül is élvezhetjük a viharos tengert.",
+            "ro": "Într-o dimineață ploioasă, ne putem începe călătoria confortabil într-o mașină încălzită. În timpul zilei, mașina oferă un adăpost uscat între vizitarea turnului și a apeductului. După-amiaza, conduceți cu atenție pe drumurile care duc spre ruine mai îndepărtate din cauza posibilelor inundații. Seara, vă puteți bucura de vederea mării înfuriate prin geamul mașinii.",
+            "en": "On a rainy morning, we can start our journey comfortably in a heated car. During the day, the car provides a dry shelter between visiting the tower and the aqueduct. In the afternoon, drive carefully on roads leading to more distant ruins due to potential flooding. By evening, you can enjoy the stormy sea views from the car window as you arrive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kampoudi / Akrathos",
+                "hu": "Kampoudi / Akrathos",
+                "ro": "Kampoudi / Akrathos",
+                "en": "Kampoudi / Akrathos"
+              },
+              "tip_5lang": {
+                "de": "Der Boden auf Küstenparkplätzen kann durch den Regen aufweichen; suchen Sie sich einen festen, gepflasterten Platz zum sicheren Parken Ihres Autos.",
+                "hu": "A part menti parkolókban a talaj fellazulhat az esőtől; keressen szilárd burkolatú, kövezett helyet a megálláshoz a biztonság érdekében.",
+                "ro": "Terenul din parcările de pe coastă poate deveni moale din cauza ploii; căutați un loc ferm, pavat, pentru a parca vehiculul în siguranță.",
+                "en": "Ground in coastal parking lots can become soft from rain; look for a firm, paved spot to park your vehicle safely and avoid getting stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Prosphorion",
+                "hu": "Prosphorion torony",
+                "ro": "Turnul Prosphorion",
+                "en": "Tower of Prosphorion"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Turm, um auf dem kurzen Fußweg nicht nass zu werden; halten Sie Ihren Schirm für den Weg zum Museum bereit.",
+                "hu": "Parkoljon a lehető legközelebb a toronyhoz, hogy elkerülje az elázást a rövid séta alatt; készítse elő az esernyőjét a múzeumba menethez.",
+                "ro": "Parcați cât mai aproape de turn pentru a evita să vă udați în timpul scurtului drum pe jos; aveți umbrela pregătită pentru intrarea în muzeu.",
+                "en": "Park as close to the tower as possible to avoid getting wet during the short walk; have your umbrella ready for the dash to the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Postbyzantinisches Aquädukt von Prosfori",
+                "hu": "Poszt-bizánci Prosfori vízvezeték",
+                "ro": "Apeductul post-bizantin din Prosfori",
+                "en": "Post-Byzantine Aqueduct of Prosfori"
+              },
+              "tip_5lang": {
+                "de": "Das monumentale Bauwerk ist bei zu starkem Regen auch gut vom Autofenster aus zu sehen; warten Sie auf eine kurze Regenpause für Außenfotos.",
+                "hu": "Az autó ablakából is kiválóan látható a monumentális építmény, ha túl erősen esne az eső; várja meg a szünetet a külső fotók készítéséhez.",
+                "ro": "Structura monumentală este clar vizibilă de la fereastra mașinii dacă plouă prea tare; așteptați o pauză scurtă pentru a face fotografii exterioare.",
+                "en": "The monumental structure is clearly visible from the car window if it rains too hard; wait for a short break in the downpour for outdoor photos."
+              }
+            },
+            {
+              "name": {
+                "de": "skites bungalows pool und strand",
+                "hu": "skites bungalows pool und strand",
+                "ro": "skites bungalows pool und strand",
+                "en": "skites bungalows pool und strand"
+              },
+              "tip_5lang": {
+                "de": "Rund um den Strand kann die Sicht sinken; fahren Sie auf den schmaleren Küstenabschnitten wegen der Fußgänger mit Schirmen besonders langsam.",
+                "hu": "A strand környékén a látótávolság lecsökkenhet; vezessen lassan a szűkebb partszakaszon az esernyővel közlekedő gyalogosok miatt.",
+                "ro": "Vizibilitatea poate scădea în zona plajei; conduceți încet pe secțiunile de coastă mai înguste din cauza pietonilor cu umbrele.",
+                "en": "Visibility can drop around the beach area; drive slowly on the narrower coastal sections due to pedestrians moving with umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruine des Wehrturms",
+                "hu": "Védelmi torony romja",
+                "ro": "Ruina turnului de apărare",
+                "en": "Defensive Tower ruin"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg zu den Ruinen kann schlammig sein; halten Sie ein Ersatzpaar Schuhe im Auto bereit, um keinen Schlamm in den Innenraum zu tragen.",
+                "hu": "A romokhoz vezető rövid út saras lehet; tartson egy váltócipőt az autóban, hogy ne vigye be a sárt az utastérbe a látogatás után.",
+                "ro": "Poteca scurtă spre ruine poate fi noroioasă; păstrați o pereche de încălțăminte de rezervă în mașină pentru a evita noroiul în interior.",
+                "en": "The short path to the ruins can be muddy; keep a spare pair of shoes in the car to avoid tracking mud into the interior after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Zygos",
+                "hu": "Zygos-kolostor",
+                "ro": "Mănăstirea Zygos",
+                "en": "Monastery of Zygos"
+              },
+              "tip_5lang": {
+                "de": "Am Eingang können sich große Pfützen bilden; achten Sie beim Parken darauf, nicht im Schlamm neben der Straße mit den Reifen steckenzubleiben.",
+                "hu": "Az ásatási terület bejáratánál nagyobb tócsák alakulhatnak ki; figyeljen a parkolásnál, hogy ne ragadjon be a sárba az út szélén.",
+                "ro": "Se pot forma bălți mari la intrarea în sit; aveți grijă când parcați pentru a evita blocarea roților în noroiul de la marginea drumului.",
+                "en": "Large puddles can form at the excavation site entrance; be careful when parking to avoid getting your tires stuck in the mud by the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Klosterblick",
+                "hu": "Klosterblick",
+                "ro": "Klosterblick",
+                "en": "Klosterblick"
+              },
+              "tip_5lang": {
+                "de": "Wenn das Wetter das Aussteigen nicht zulässt, ist das Panorama auch vom Auto aus toll; der Blick aufs stürmische Meer ist sehr einprägsam.",
+                "hu": "Ha az időjárás nem engedi a kiszállást, a panoráma az autóból is lenyűgöző; a viharos tenger látványa emlékezetes élmény marad.",
+                "ro": "Dacă vremea nu permite ieșirea, panorama este încă uimitoare din mașină; vederea mării înfuriate este o experiență memorabilă.",
+                "en": "If the weather doesn't allow stepping out, the panorama is still stunning from the car; the stormy sea view is a memorable experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der frostigen Morgenluft ist der warme Innenraum des Autos entlang der Küstenstraße einladend. Tagsüber ist das Parken im Dorf und am Aquädukt ohne die Sommermassen einfach. Am Nachmittag ist die winterliche Landschaft auf dem Weg nach Zygos atemberaubend. Am Abend erreichen Sie den Aussichtspunkt vor dem frühen Sonnenuntergang gegen 17 Uhr.",
+            "hu": "A reggeli fagyos levegőben hívogató az autó meleg utastere a parti út mentén. Napközben a faluban és a vízvezetéknél könnyű parkolást találunk a nyári tömeg hiányában. Délután a Zygos-kolostor felé vezető úton a téli fényekben fürdő táj lenyűgöző látványt nyújt. Estére a korai naplemente előtt érjünk a kilátóhoz a fények játékáért.",
+            "ro": "În aerul înghețat de dimineață, interiorul cald al mașinii este primitor de-a lungul drumului de coastă. În timpul zilei, găsirea parcării în sat și lângă apeduct este ușoară fără mulțimile de vară. După-amiaza, peisajul scăldat în lumina iernii în drum spre Zygos este uimitor. Seara, ajungeți la punctul de belvedere înainte de apusul de la ora 17.",
+            "en": "In the freezing morning air, the car's warm interior is inviting along the coastal road. During the day, finding parking in the village and by the aqueduct is easy without the summer crowds. In the afternoon, the landscape bathed in winter light on the way to Zygos is stunning. By evening, reach the viewpoint before the early 5 PM sunset for the light show."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kampoudi / Akrathos",
+                "hu": "Kampoudi / Akrathos",
+                "ro": "Kampoudi / Akrathos",
+                "en": "Kampoudi / Akrathos"
+              },
+              "tip_5lang": {
+                "de": "Die Windschutzscheibe kann morgens vereist sein; nehmen Sie sich Zeit zum Enteisen, bevor Sie losfahren, um eine sichere Sicht auf die Straße zu haben.",
+                "hu": "Az autó szélvédője reggel jeges lehet; indulás előtt hagyjon időt a jégtelenítésre a biztonságos kilátás és a balesetmentes vezetés érdekében.",
+                "ro": "Parbrizul mașinii poate fi înghețat dimineața; acordați timp pentru degivrare înainte de a porni pentru o vedere sigură asupra drumului.",
+                "en": "The car windshield can be icy in the morning; allow time for de-icing before starting for a safe view of the road and a safe drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Prosphorion",
+                "hu": "Prosphorion torony",
+                "ro": "Turnul Prosphorion",
+                "en": "Tower of Prosphorion"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe sind im Winter fast immer frei; genießen Sie den Komfort und den kurzen, frostigen Weg zum warmen Turmmuseum.",
+                "hu": "A közeli parkolóhelyek télen szinte mindig szabadok; élvezze a kényelmet és a rövid sétát a torony múzeumáig a friss levegőn.",
+                "ro": "Locurile de parcare din apropiere sunt aproape întotdeauna disponibile iarna; bucurați-vă de confort și de drumul scurt până la muzeul turnului.",
+                "en": "Nearby parking spots are almost always available in winter; enjoy the convenience and the short, crisp walk to the warm tower museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Postbyzantinisches Aquädukt von Prosfori",
+                "hu": "Poszt-bizánci Prosfori vízvezeték",
+                "ro": "Apeductul post-bizantin din Prosfori",
+                "en": "Post-Byzantine Aqueduct of Prosfori"
+              },
+              "tip_5lang": {
+                "de": "Durch die tiefe Wintersonne ist das Licht perfekt zum Fotografieren; denken Sie daran, das Auto beim Stopp für die Rückkehr warm zu halten.",
+                "hu": "A téli nap alacsony állása miatt a fények tökéletesek a vízvezeték fotózásához; ne felejtse el fűteni az autót a rövid megálló alatt.",
+                "ro": "Datorită soarelui de iarnă jos, lumina este perfectă pentru fotografiere; nu uitați să păstrați mașina caldă în timpul opririi scurte.",
+                "en": "Due to the low winter sun, the light is perfect for photographing the arches; remember to keep the car warm during the short stop."
+              }
+            },
+            {
+              "name": {
+                "de": "skites bungalows pool und strand",
+                "hu": "skites bungalows pool und strand",
+                "ro": "skites bungalows pool und strand",
+                "en": "skites bungalows pool und strand"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenwind kann jetzt eiskalt sein; steigen Sie nur kurz aus dem Auto aus, um das winterliche Meer und das ruhige Ufer zu bewundern.",
+                "hu": "A part menti szél ilyenkor fagyos lehet; csak rövid időre szálljon ki a kocsiból, hogy megcsodálja a téli tengert és a csendes partot.",
+                "ro": "Vântul de coastă poate fi înghețat acum; ieșiți din mașină doar scurt timp pentru a admira marea de iarnă și țărmul liniștit.",
+                "en": "The coastal wind can be freezing now; step out of the car only briefly to admire the winter sea and the quiet, empty shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruine des Wehrturms",
+                "hu": "Védelmi torony romja",
+                "ro": "Ruina turnului de apărare",
+                "en": "Defensive Tower ruin"
+              },
+              "tip_5lang": {
+                "de": "Nach der Besichtigung können Sie sich sofort im Auto aufwärmen; nehmen Sie eine Thermoskanne mit heißem Tee für die kühleren Stunden mit.",
+                "hu": "A rövid látogatás után az autóban azonnal felmelegedhet; érdemes termoszban meleg teát vinni az útra a hűvösebb délutáni órákra.",
+                "ro": "Vă puteți încălzi în mașină imediat după vizită; merită să luați un termos cu ceai fierbinte pentru orele mai reci de după-amiază.",
+                "en": "You can warm up in the car immediately after your short visit; it's worth taking a thermos of hot tea for the cooler afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Zygos",
+                "hu": "Zygos-kolostor",
+                "ro": "Mănăstirea Zygos",
+                "en": "Monastery of Zygos"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie wegen der frühen Dämmerung, die Ruinen noch im Hellen zu erkunden; die Beleuchtung am Parkplatz ist im Winter sehr begrenzt.",
+                "hu": "A korai sötétedés miatt tervezze úgy, hogy még világosban befejezze a romok bejárását; a parkolóhely megvilágítása ilyenkor korlátozott.",
+                "ro": "Din cauza amurgului timpuriu, planificați să terminați explorarea ruinelor cât este lumină; iluminatul în parcare este foarte limitat iarna.",
+                "en": "Due to the early dusk, plan to finish exploring the ruins while it's still light; lighting at the parking area is very limited in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Klosterblick",
+                "hu": "Klosterblick",
+                "ro": "Klosterblick",
+                "en": "Klosterblick"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie 15 Minuten vor Sonnenuntergang an, um den Farbwechsel des Himmels bequem und warm von Ihrem Auto aus zu beobachten.",
+                "hu": "Érkezzen meg a naplemente előtt 15 perccel, hogy az autó kényelméből és melegéből nézhesse végig az égbolt színeinek változását.",
+                "ro": "Ajungeți cu 15 minute înainte de apus pentru a urmări schimbarea culorilor cerului din confortul și căldura mașinii dumneavoastră.",
+                "en": "Arrive 15 minutes before sunset to watch the sky's changing colors from the comfort and warmth of your car at the ridge viewpoint."
+              }
+            }
+          ]
+        }
       }
     }
   }

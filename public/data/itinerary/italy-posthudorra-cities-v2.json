@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a csodálatos San Gavino bazilikában, amely a román építészet remekműve. Délben merüljön el az ókori történelemben a Via Libro 53 hipogeumaiban, majd látogasson el a kikötői múzeumba. Késő délután fedezze fel a gazdag római múltat a régészeti múzeumban és a romoknál. Az estét a hangulatos világítótoronynál fejezze be, figyelve a naplementét a tenger felett.",
         "ro": "Începeți dimineața la magnifica Bazilică San Gavino, o capodoperă a arhitecturii romanice. La amiază, pătrundeți în istoria antică la hipogeul din Via Libro 53 și vizitați Muzeul Portului. Spre sfârșitul după-amiezii, explorați bogatul trecut roman la muzeul arheologic și la ruinele din apropiere. Încheiați seara relaxându-vă lângă farul atmosferic ce veghează asupra coastei luminate.",
         "en": "Begin your morning at the magnificent San Gavino Basilica, a true masterpiece of Romanesque architecture. Midday, delve into ancient history at the Via Libro 53 hypogeums and then visit the engaging Museo del porto. By late afternoon, explore the rich Roman past thoroughly at the archaeological museum and the adjacent ruins. Finish your evening relaxing by the atmospheric lighthouse on the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Basilika San Gavino, deren massives Inneres perfekten Schutz vor Schauern bietet. Mittags lädt das Hafenmuseum dazu ein, trocken in die maritime Geschichte einzutauchen. Am Nachmittag bietet das Archäologische Nationalmuseum faszinierende römische Schätze in moderner, wetterfester Umgebung. Der Abend am Leuchtturm ist stimmungsvoll, erfordert aber wegen des glatten Pflasters Vorsicht.",
+            "hu": "A reggel a San Gavino bazilikában indul, amelynek hatalmas belső tere kiváló menedék az eső elől. Délben a Kikötői Múzeum fedett kiállításai között ismerkedhetünk a múlttal. Délután a Nemzeti Régészeti Múzeum modern épülete kínál száraz és tartalmas programot. Este a világítótorony környékén a vizes kövezet tükröződései gyönyörűek, de a csúszós utak miatt csak óvatosan sétáljunk.",
+            "ro": "Dimineața începe la Bazilica San Gavino, al cărei interior masiv oferă un adăpost perfect împotriva averselor. La prânz, Muzeul Portului vă invită să descoperiți istoria maritimă într-un mediu uscat. După-amiaza, Muzeul Național de Arheologie oferă comori romane fascinante într-un cadru modern și protejat. Seara la far este plină de atmosferă, dar necesită prudență din cauza pavajului alunecos.",
+            "en": "The morning starts at the San Gavino Basilica, whose massive interior provides perfect shelter from showers. At noon, the Port Museum invites you to dive into maritime history in a dry environment. In the afternoon, the National Archaeological Museum offers fascinating Roman treasures in a modern, weatherproof setting. The evening by the lighthouse is atmospheric but requires caution due to slippery pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Gavino",
+                "hu": "San Gavino",
+                "ro": "San Gavino",
+                "en": "San Gavino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das beeindruckende romanische Kirchenschiff als trockenen Rückzugsort und bewundern Sie die antiken Sarkophage geschützt vor dem Regen.",
+                "hu": "Használja ki a lenyűgöző román stílusú hajót száraz menedékként, miközben az esőtől védetten csodálja meg az ősi szarkofágokat és oszlopokat.",
+                "ro": "Folosiți naosul romanic impresionant ca refugiu uscat în timp ce admirați sarcofagele antice, fiind complet protejat de ploaia de afară.",
+                "en": "Use the impressive Romanesque nave as a dry retreat while admiring the ancient sarcophagi, staying completely protected from the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Libro 53 Hypogean Tombs",
+                "hu": "Via Libro 53 Hipogeum Sírkamrák",
+                "ro": "Mormintele Hipogee Via Libro 53",
+                "en": "Via Libro 53 Hypogean Tombs"
+              },
+              "tip_5lang": {
+                "de": "Diese unterirdischen Gräber bieten natürlichen Schutz vor Nässe, doch die Eingangsstufen können bei Regen extrem rutschig sein; gehen Sie vorsichtig.",
+                "hu": "Ezek a földalatti sírok természetes védelmet nyújtanak a nedvesség ellen, de a lépcsők esőben rendkívül csúszósak lehetnek; közlekedjen óvatosan.",
+                "ro": "Aceste morminte subterane oferă protecție naturală împotriva umezelii, dar treptele de intrare pot fi extrem de alunecoase; mergeți cu mare prudență.",
+                "en": "These underground tombs offer natural protection from wetness, but the entry steps can be extremely slippery in the rain; proceed with great caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del porto",
+                "hu": "Kikötői Múzeum",
+                "ro": "Muzeul Portului",
+                "en": "Museo del porto"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um trocken zu bleiben, während Sie zwischen historischen Booten und maritimen Exponaten alles über die Seefahrt von Porto Torres lernen.",
+                "hu": "Ideális hely a szárazon maradáshoz, miközben történelmi hajók és tengerészeti kiállítási tárgyak között mindent megtudhat Porto Torres tengeri múltjáról.",
+                "ro": "Un loc ideal pentru a rămâne uscat în timp ce învățați totul despre istoria maritimă a orașului printre bărci istorice și exponate navale.",
+                "en": "An ideal place to stay dry while learning all about the maritime history of Porto Torres among historical boats and seafaring exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Porto",
+                "hu": "Kikötői Torony",
+                "ro": "Turnul Portului",
+                "en": "Torre del Porto"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen massiven Turm am besten aus der Ferne unter einem Schirm; die nassen Steinmauern wirken bei Regen besonders trutzig und grau.",
+                "hu": "Ezt a masszív tornyot leginkább távolról, esernyő alól érdemes nézni; a nedves kőfalak esőben különösen zordnak és történelminek hatnak a kikötőben.",
+                "ro": "Admirați acest turn masiv de la distanță, sub umbrelă; zidurile de piatră umede par deosebit de impunătoare și cenușii în lumina ploioasă a portului.",
+                "en": "Admire this massive tower from a distance under an umbrella; the wet stone walls look particularly imposing and grey in the rainy harbor light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier viel Zeit, um den Regenguss auszusitzen, während Sie die erstklassigen römischen Mosaike in den klimatisierten Räumen studieren.",
+                "hu": "Töltsön itt hosszabb időt, hogy kivárja az eső végét, miközben a világszínvonalú római mozaikokat tanulmányozza a modern és száraz termekben.",
+                "ro": "Petreceți mult timp aici pentru a evita ploaia în timp ce studiați mozaicurile romane de talie mondială în sălile moderne și climatizate.",
+                "en": "Spend plenty of time here to wait out the downpour while studying the world-class Roman mosaics in the modern and dry museum halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Turris Libisonis",
+                "hu": "Turris Libisonis Régészeti Terület",
+                "ro": "Zona Arheologică Turris Libisonis",
+                "en": "Area Archeologica di Turris Libisonis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Regenpausen für den Rundgang; die nassen Mosaike im Freien leuchten in kräftigeren Farben, aber achten Sie auf Pfützen auf den antiken Pfaden.",
+                "hu": "Használja ki az esőszüneteket a sétához; a nedves kültéri mozaikok színei ilyenkor élénkebbek, de ügyeljen a tócsákra az antik romok között.",
+                "ro": "Profitați de pauzele de ploaie pentru tur; culorile mozaicurilor exterioare umede sunt mai vii, dar atenție la bălțile de pe potecile antice.",
+                "en": "Take advantage of rain breaks for the tour; the colors of the wet outdoor mosaics are more vivid, but watch out for puddles on the ancient paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Porto Torres",
+                "hu": "Porto Torres Világítótorony",
+                "ro": "Farul din Porto Torres",
+                "en": "Faro di Porto Torres"
+              },
+              "tip_5lang": {
+                "de": "Ein windfester Regenmantel ist hier Pflicht; der Blick auf die aufgewühlte See und das Leuchtfeuer ist bei stürmischem Wetter besonders dramatisch.",
+                "hu": "Itt kötelező a szélálló esőkabát; a felkorbácsolt tenger és a jelzőfény látványa viharos időben különösen drámai és felejthetetlen élmény.",
+                "ro": "O pelerină de ploaie rezistentă la vânt este obligatorie aici; vederea mării agitate și a farului este deosebit de dramatică pe vreme furtunoasă.",
+                "en": "A windproof raincoat is mandatory here; the view of the churning sea and the lighthouse beam is particularly dramatic during stormy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterluft macht den Morgenspaziergang zur Basilika San Gavino belebend; die dicken Mauern halten im Inneren eine angenehme Temperatur. Mittags bieten die Museen am Hafen wohlige Wärme und tiefe Einblicke in die Antike. Beenden Sie die Besichtigung der archäologischen Stätten vor dem frühen Sonnenuntergang um 17:00 Uhr. Der Abend klingt bei beleuchteten Monumenten im klaren Winterlicht aus.",
+            "hu": "A hűvös téli levegő felfrissíti a reggeli sétát a San Gavino bazilikához, melynek falai közt kellemes az idő. Délben a kikötői múzeumok nyújtanak meleg menedéket és izgalmas látnivalókat. A régészeti területet érdemes a korai, 17:00 órai naplemente előtt bejárni a szép fények miatt. Az este a kivilágított műemlékek között, tiszta téli időben zárul.",
+            "ro": "Aerul răcoros de iarnă face plimbarea de dimineață la Bazilica San Gavino revigorantă; zidurile groase mențin o temperatură stabilă în interior. La prânz, muzeele din port oferă căldură și perspective profunde asupra antichității. Încheiați vizitarea siturilor arheologice înainte de apusul devreme de la ora 17:00. Seara se încheie printre monumentele luminate în lumina clară de iarnă.",
+            "en": "The cool winter air makes the morning walk to San Gavino Basilica invigorating; the thick walls maintain a stable temperature inside. At noon, the harbor museums offer warmth and deep insights into antiquity. Finish visiting the archaeological sites before the early sunset at 17:00 to catch the best light. The evening ends among illuminated monuments in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Gavino",
+                "hu": "San Gavino",
+                "ro": "San Gavino",
+                "en": "San Gavino"
+              },
+              "tip_5lang": {
+                "de": "Die massive Kirche wirkt im Winter besonders andächtig; tragen Sie eine warme Schicht, da es in der großen Krypta recht kühl werden kann.",
+                "hu": "A masszív templom télen különösen áhítatos hangulatú; viseljen meleg réteget, mert a nagy kriptában ilyenkor meglehetősen hűvös lehet az idő.",
+                "ro": "Biserica masivă are o atmosferă deosebit de pioasă iarna; purtați haine groase, deoarece în cripta mare poate fi destul de răcoare în acest sezon.",
+                "en": "The massive church has a particularly solemn atmosphere in winter; wear a warm layer as it can be quite chilly inside the large crypt."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Libro 53 Hypogean Tombs",
+                "hu": "Via Libro 53 Hipogeum Sírkamrák",
+                "ro": "Mormintele Hipogee Via Libro 53",
+                "en": "Via Libro 53 Hypogean Tombs"
+              },
+              "tip_5lang": {
+                "de": "Diese unterirdischen Gräber halten eine konstante Temperatur und bieten einen kurzen Schutz vor dem kalten Mistral-Wind, der oft über die Insel weht.",
+                "hu": "Ezek a földalatti sírok állandó hőmérsékletet tartanak, így rövid védelmet nyújtanak a szigeten gyakran fújó hideg misztrál szél elől.",
+                "ro": "Aceste morminte subterane mențin o temperatură constantă, oferind un scurt refugiu împotriva vântului rece Mistral care bate adesea peste insulă.",
+                "en": "These underground tombs maintain a constant temperature, offering a brief respite from the cold Mistral wind that often blows across the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del porto",
+                "hu": "Kikötői Múzeum",
+                "ro": "Muzeul Portului",
+                "en": "Museo del porto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Seefahrtsgeschichte in beheizten Räumen; es ist ein gemütlicher Zwischenstopp, bevor die Wintersonne am Nachmittag tiefer sinkt.",
+                "hu": "Élvezze a tengerészeti történelmet a fűtött termekben; ez egy hangulatos pihenő, mielőtt a téli nap délután alacsonyabbra süllyedne a kikötő felett.",
+                "ro": "Bucurați-vă de istoria maritimă în săli încălzite; este o oprire confortabilă înainte ca soarele de iarnă să coboare mai jos după-amiaza.",
+                "en": "Enjoy the maritime history in heated rooms; it's a cozy stop-over before the winter sun starts to sink lower in the afternoon sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Porto",
+                "hu": "Kikötői Torony",
+                "ro": "Turnul Portului",
+                "en": "Torre del Porto"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht betont die Textur der mittelalterlichen Mauern; halten Sie Ihre Kamera bereit für Fotos gegen den tiefblauen Winterhimmel.",
+                "hu": "A tiszta téli fény kiemeli a középkori falak textúráját; tartsa készenlétben a fényképezőgépét a mélykék téli égbolt előtti fotókhoz.",
+                "ro": "Lumina clară de iarnă subliniază textura zidurilor medievale; pregătiți camera pentru fotografii pe fundalul cerului de iarnă albastru intens.",
+                "en": "The clear winter light emphasizes the texture of the medieval walls; keep your camera ready for photos against the deep blue winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort am Nachmittag, um sich aufzuwärmen und in aller Ruhe die antike Geschichte von Turris Libisonis zu erkunden.",
+                "hu": "Tökéletes délutáni menedék a felmelegedéshez, miközben nyugodt körülmények között fedezi fel Turris Libisonis gazdag ókori történelmét.",
+                "ro": "Un refugiu perfect după-amiaza pentru a vă încălzi în timp ce explorați istoria antică a Turris Libisonis într-un cadru liniștit și confortabil.",
+                "en": "A perfect afternoon retreat to warm up while exploring the ancient history of Turris Libisonis in a quiet and comfortable setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Turris Libisonis",
+                "hu": "Turris Libisonis Régészeti Terület",
+                "ro": "Zona Arheologică Turris Libisonis",
+                "en": "Area Archeologica di Turris Libisonis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen vor 16:30 Uhr; das goldene Licht der tiefstehenden Wintersonne lässt die römischen Steine in warmen Farben leuchten.",
+                "hu": "Látogasson el a romokhoz 16:30 előtt; az alacsonyan járó téli nap aranyfénye meleg színekben ragyogtatja fel a római kori köveket.",
+                "ro": "Vizitați ruinele înainte de ora 16:30; lumina aurie a soarelui de iarnă face ca pietrele romane să strălucească în culori calde și magice.",
+                "en": "Visit the ruins before 16:30; the golden light of the low winter sun makes the Roman stones glow in warm and magical colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Porto Torres",
+                "hu": "Porto Torres Világítótorony",
+                "ro": "Farul din Porto Torres",
+                "en": "Faro di Porto Torres"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein für den abendlichen Blick; der Strahl des Leuchtfeuers wirkt in der klaren, kalten Winterluft besonders scharf.",
+                "hu": "Öltözzön fel melegen az esti kilátáshoz; a világítótorony fénye a tiszta, hideg téli levegőben különösen élesnek és messzire hatónak tűnik.",
+                "ro": "Îmbrăcați-vă gros pentru vederea de seară; fasciculul farului pare deosebit de clar în aerul rece și curat de iarnă de pe malul mării.",
+                "en": "Wrap up warm for the evening view; the lighthouse beam looks particularly sharp in the clear, cold winter air by the seaside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Indítsa a napot egy frissítő kerékpározással a Scogliolungo strandon. Délben csodálja meg az Andrea Parodi emlékművet és a békés San Gavino bazilikát. A délután az ókor jegyében telik a lenyűgöző Terme Metzke és a fenséges római híd meglátogatásával. Este kényelmesen tekerjen el a zöldellő Acquedolci parkba, ahol egy aktív és élményekkel teli nap után tökéletesen kikapcsolódhat.",
         "ro": "Începeți cu o plimbare revigorantă cu bicicleta la plaja Scogliolungo. La prânz, admirați monumentul lui Andrea Parodi și liniștita Bazilică San Gavino. După-amiaza este dedicată antichității, cu vizite la fascinantele Terme Metzke și la maiestuosul Pod Roman. Seara, pedalați încet spre verdele parc Acquedolci, unde vă puteți relaxa complet după o zi activă și plină de descoperiri.",
         "en": "Kick off your ride with a refreshing breeze at Scogliolungo beach. Midday, pause to admire the Andrea Parodi monument and the peaceful San Gavino Basilica. The afternoon is dedicated to antiquity with visits to the fascinating Terme Metzke and the majestic Roman Bridge. As evening sets in, pedal leisurely toward the lush greenery of Acquedolci, a perfect spot to unwind after an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem rutschigen Asphalt am Meer. Starten Sie vorsichtig am Strand und planen Sie längere Stopps in der Basilika oder den Museen ein, um Kleidung und Ausrüstung zu trocknen. Nutzen Sie die Radwege abseits der Hauptstraßen, um Spritzwasser von Autos zu vermeiden. Der Abend endet am besten mit einer gemütlichen Fahrt zurück zur Unterkunft.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a csúszós tengerparti aszfalton. Kezdjen lassabb tempóban a strandnál, és tervezzen hosszabb pihenőket a bazilikánál vagy múzeumoknál, hogy megszáradjon. Használja a főutaktól távolabbi utakat a gépjárművek felverődő vize miatt. Az este egy lassú, biztonságos visszatekeréssel zárul a szálláshelyre.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe asfaltul alunecos de lângă mare. Începeți cu atenție la plajă și planificați opriri mai lungi la bazilică sau muzee pentru a vă usca echipamentul. Folosiți pistele de biciclete departe de drumurile principale pentru a evita apa stropită de mașini. Seara se încheie cel mai bine cu o plimbare lentă înapoi spre cazare.",
+            "en": "Cycling in the rain requires caution on the slippery seaside asphalt. Start carefully at the beach and plan longer stops at the basilica or museums to dry your gear. Use bike paths away from main roads to avoid spray from cars. The evening ends best with a slow, safe ride back to your accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scogliolungo",
+                "hu": "Scogliolungo",
+                "ro": "Scogliolungo",
+                "en": "Scogliolungo"
+              },
+              "tip_5lang": {
+                "de": "Die Uferpromenade kann bei Nässe sehr glatt sein; fahren Sie langsam und genießen Sie den Blick auf das aufgewühlte, regenverhangene Meer.",
+                "hu": "A tengerparti sétány nedvesen nagyon csúszós lehet; tekerjen lassan, és élvezze a viharos, eső áztatta tenger látványát a biztonságos aszfaltról.",
+                "ro": "Promenada de la malul mării poate fi foarte alunecoasă când este udă; pedalați încet și bucurați-vă de vederea mării agitate sub ploaie.",
+                "en": "The seaside promenade can be very slippery when wet; cycle slowly and enjoy the view of the churning, rain-streaked sea from the safe path."
+              }
+            },
+            {
+              "name": {
+                "de": "Andrea Parodi",
+                "hu": "Andrea Parodi",
+                "ro": "Andrea Parodi",
+                "en": "Andrea Parodi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, exponierter Stopp in Ihrer Regenbekleidung; die moderne Skulptur wirkt unter dem grauen Himmel besonders minimalistisch und melancholisch.",
+                "hu": "Rövid, nyitott megálló az esőruházatában; a modern szobor a szürke égbolt alatt különösen minimalistának és melankolikusnak hat a parton.",
+                "ro": "O oprire scurtă și expusă în echipamentul de ploaie; sculptura modernă pare deosebit de minimalistă și melancholică sub cerul gri deasupra mării.",
+                "en": "A short, exposed stop in your rain gear; the modern sculpture looks particularly minimalist and melancholic under the grey sky by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "San Gavino",
+                "hu": "San Gavino",
+                "ro": "San Gavino",
+                "en": "San Gavino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Besuch der Basilika als ausgiebige Trockenpause in historisch-sakralem Ambiente.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és használja a bazilika látogatását alapos száradási szünetként a történelmi és szakrális környezetben.",
+                "ro": "Parcați bicicleta în siguranță și folosiți vizita la bazilică ca o pauză prelungită de uscare în ambianța istorică și sacră a lăcașului.",
+                "en": "Park your bike safely and use the visit to the basilica as an extensive drying break in the historical and sacred ambiance of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Metzke",
+                "hu": "Metzke Fürdő",
+                "ro": "Termele Metzke",
+                "en": "Terme Metzke"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruinen liegen im Freien; nutzen Sie eine Regenpause für die Besichtigung, da die nassen Steine die antiken Farben besser hervortreten lassen.",
+                "hu": "Ezek a romok a szabadban találhatók; használja ki az esőszünetet a megtekintésükhöz, mert a nedves kövek jobban kiemelik az antik színeket.",
+                "ro": "Aceste ruine sunt în aer liber; profitați de o pauză de ploaie pentru vizită, deoarece pietrele umede scot mai bine în evidență culorile antice.",
+                "en": "These ruins are outdoors; take advantage of a rain break for the visit, as the wet stones bring out the ancient colors more vividly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte Romano",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Ponte Romano"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke mit besonderer Vorsicht; die alten, abgetretenen Steine sind bei Nässe für Radreifen eine echte Herausforderung.",
+                "hu": "Különös óvatossággal keljen át a hídon; a régi, kopott kövek esőben valódi kihívást jelentenek a kerékpárgumik számára a csúszásveszély miatt.",
+                "ro": "Traversați podul cu o atenție deosebită; pietrele vechi și uzate sunt o adevărată provocare pentru anvelopele de bicicletă atunci când sunt ude.",
+                "en": "Cross the bridge with extra care; the old, worn stones are a real challenge for bike tires when wet due to the high risk of slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquedolci",
+                "hu": "Acquedolci",
+                "ro": "Acquedolci",
+                "en": "Acquedolci"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie auf diesem Küstenabschnitt gut sichtbare Regenbekleidung, um bei schlechter Sicht für andere Verkehrsteilnehmer erkennbar zu bleiben.",
+                "hu": "Ezen a tengerparti szakaszon viseljen jól látható esőruházatot, hogy rossz látási viszonyok között is észrevehető maradjon a többi közlekedő számára.",
+                "ro": "Purtați echipament de ploaie reflectorizant pe această secțiune de coastă pentru a rămâne vizibil celorlalți participanți la trafic în condiții precare.",
+                "en": "Wear high-visibility rain gear on this coastal stretch to remain noticeable to other road users in poor visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterbrise macht die Radtour entlang der Küste von Scogliolungo besonders belebend. Kleiden Sie sich nach dem Zwiebelprinzip, um gegen den kalten Wind geschützt zu sein. Nutzen Sie die Mittagsstunden für die Besichtigung der Basilika San Gavino, um sich aufzuwärmen. Beenden Sie die Tour bis 17:00 Uhr, da die Temperaturen nach Sonnenuntergang sehr schnell spürbar sinken.",
+            "hu": "A friss téli szellő különösen élénkítővé teszi a Scogliolungo menti kerékpározást. Öltözzön rétegesen, hogy védve legyen a hideg szél ellen a parton. A déli órákat használja ki a San Gavino bazilika megtekintésére, hogy kicsit felmelegedjen. A túrát fejezze be 17:00-ig, mert naplemente után a hőmérséklet rendkívül gyorsan és érezhetően csökken.",
+            "ro": "Briza proaspătă de iarnă face tura cu bicicleta de-a lungul coastei Scogliolungo deosebit de revigorantă. Îmbrăcați-vă în straturi pentru a fi protejat. Folosiți orele prânzului pentru a vizita Bazilica San Gavino și pentru a vă încălzi. Încheiați turul până la ora 17:00, deoarece temperaturile scad foarte repede după apusul soarelui.",
+            "en": "The fresh winter breeze makes cycling along the Scogliolungo coast particularly invigorating. Dress in layers to stay protected against the cold wind. Use the midday hours to visit the San Gavino Basilica to warm up. Finish the tour by 17:00, as temperatures drop very quickly and noticeably after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scogliolungo",
+                "hu": "Scogliolungo",
+                "ro": "Scogliolungo",
+                "en": "Scogliolungo"
+              },
+              "tip_5lang": {
+                "de": "Windfeste Handschuhe sind hier ratsam; genießen Sie die klare Sicht über das tiefblaue Meer, die nur die kalte Winterluft ermöglicht.",
+                "hu": "Itt tanácsos a szélálló kesztyű viselése; élvezze a tiszta kilátást a mélykék tengerre, amelyet csak a hideg téli levegő tesz lehetővé.",
+                "ro": "Mănușile rezistente la vânt sunt recomandate aici; bucurați-vă de vederea clară peste marea albastră, posibilă doar în aerul rece de iarnă.",
+                "en": "Windproof gloves are advisable here; enjoy the clear view over the deep blue sea, which only the cold winter air makes possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Andrea Parodi",
+                "hu": "Andrea Parodi",
+                "ro": "Andrea Parodi",
+                "en": "Andrea Parodi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp in der Morgensonne; die kühle Luft lässt die modernen Linien dieses Küstenmonuments besonders scharf hervortreten.",
+                "hu": "Rövid kulturális megálló a reggeli napsütésben; a hűvös levegőben a tengerparti emlékmű modern vonalai különösen élesen rajzolódnak ki.",
+                "ro": "O scurtă oprire culturală în soarele dimineții; aerul răcoros face ca liniile moderne ale acestui monument de coastă să pară foarte clare.",
+                "en": "A short cultural stop in the morning sun; the cool air makes the modern lines of this coastal monument stand out particularly sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "San Gavino",
+                "hu": "San Gavino",
+                "ro": "San Gavino",
+                "en": "San Gavino"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Halt im Windschatten der Basilika; nutzen Sie die Zeit im Inneren, um Ihre Finger für die Weiterfahrt wieder aufzuwärmen.",
+                "hu": "Üdvözlendő megálló a bazilika szélárnyékában; használja ki a benti időt, hogy újra felmelegítse az ujjait a kerékpározás folytatása előtt.",
+                "ro": "O oprire binevenită la adăpostul bazilicii; folosiți timpul petrecut în interior pentru a vă reîncălzi degetele pentru continuarea drumului.",
+                "en": "A welcome stop in the lee of the basilica; use the time inside to warm up your fingers again before continuing your cycle ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Metzke",
+                "hu": "Metzke Fürdő",
+                "ro": "Termele Metzke",
+                "en": "Terme Metzke"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die römischen Bäder in der Mittagssonne; der flache Lichtwinkel betont die Details des antiken Mauerwerks auf faszinierende Weise.",
+                "hu": "Fedezze fel a római fürdőket a déli napsütésben; az alacsony szögben érkező fény lenyűgöző módon emeli ki az antik falazat minden részletét.",
+                "ro": "Explorați băile romane în soarele amiezii; unghiul plat al luminii subliniază detaliile zidăriei antice într-un mod fascinant și clar.",
+                "en": "Explore the Roman baths in the midday sun; the flat angle of light emphasizes the details of the ancient masonry in a fascinating way."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte Romano",
+                "hu": "Római Híd",
+                "ro": "Podul Roman",
+                "en": "Ponte Romano"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke wirkt im weichen Winternachmittagslicht besonders prächtig; überqueren Sie sie vor 16:30 Uhr für die besten Lichtverhältnisse.",
+                "hu": "A híd különösen pompásan mutat a lágy téli délutáni fényben; a legjobb fényviszonyok érdekében 16:30 előtt keljen át rajta kerékpárral.",
+                "ro": "Podul arată deosebit de splendid în lumina caldă a după-amiezii de iarnă; traversați-l înainte de 16:30 pentru cele mai bune condiții de lumină.",
+                "en": "The bridge looks particularly splendid in the soft winter afternoon light; cross it before 16:30 for the best light conditions on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquedolci",
+                "hu": "Acquedolci",
+                "ro": "Acquedolci",
+                "en": "Acquedolci"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier, während die Sonne untergeht; die kalte Luft macht die Farben des Abendhimmels außergewöhnlich intensiv und klar.",
+                "hu": "Fejezze be itt a túrát a naplementében; a hideg levegő rendkívül intenzívvé és tisztává teszi az alkonyati égbolt színeit a tenger felett.",
+                "ro": "Încheiați turul aici în timpul apusului; aerul rece face culorile cerului de seară deasupra mării extraordinar de intense și clare.",
+                "en": "End your tour here as the sun sets; the cold air makes the colors of the evening sky over the sea exceptionally intense and clear."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós túráját lazán az Acquedolci pihenőövezetben. Délben hajtson a kikötőhöz, hogy megcsodálja a hatalmas Torre del Porto-t, mielőtt elmerülne a nemzeti régészeti múzeum kincseiben. Délután fedezze fel Turris Libisonis kiterjedt római kori romjait. Az estét a lenyűgöző ipartörténeti és katonai emlékek felfedezésével töltheti a part közelében, egyedülálló hangulatot élvezve.",
         "ro": "Începeți turul cu mașina relaxant în zona de agrement Acquedolci. La prânz, conduceți la port pentru a admira masivul Torre del Porto înainte de a vizita muzeul național de arheologie. După-amiaza, explorați ruinele romane extinse din Turris Libisonis. Seara o veți petrece descoperind istoria industrială fascinantă și relicvele militare din apropierea coastei.",
         "en": "Start your driving tour with a relaxing stop at the green Acquedolci recreational area. Midday, head to the marina to admire the massive Torre del Porto before delving into the national archaeological museum. In the afternoon, wander the extensive Roman ruins of Turris Libisonis. Spend your evening uncovering fascinating industrial history and World War II military relics near the coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die komfortabelste Wahl für einen Regentag in Porto Torres. Sie bleiben zwischen den Sehenswürdigkeiten trocken und können Regenschirme und Wechselkleidung leicht mitführen. Nutzen Sie die Nähe der Parkplätze zur Basilika San Gavino und dem Nationalmuseum für kurze Wege im Freien. Der Abend lässt sich entspannt bei einer Fahrt entlang der Küstenstraße mit Blick auf die stürmische See ausklingen.",
+            "hu": "Az autó a legkényelmesebb választás egy esős napra Porto Torresben. Szárazon maradhat a látnivalók között, és könnyen magával viheti az esernyőket. Használja ki a San Gavino bazilika és a Nemzeti Múzeum közeli parkolóit a rövid kinti szakaszok érdekében. Az este egy pihentető autózással zárulhat a tengerparti úton, ahonnan az autó ablakából csodálhatja a viharos tengert.",
+            "ro": "Mașina este cea mai confortabilă alegere pentru o zi ploioasă în Porto Torres. Rămâneți uscat între obiective și puteți transporta ușor umbrele și haine de schimb. Profitați de parcările apropiate de Bazilica San Gavino și Muzeul Național pentru a minimiza mersul prin ploaie. Seara se poate încheia relaxant cu o plimbare pe drumul de coastă, admirând marea agitată.",
+            "en": "The car is the most comfortable choice for a rainy day in Porto Torres. You stay dry between sights and can easily carry umbrellas and spare clothes. Take advantage of the parking lots near San Gavino Basilica and the National Museum for short walks outside. The evening can end relaxingly with a drive along the coastal road, viewing the stormy sea from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Acquedolci",
+                "hu": "Acquedolci",
+                "ro": "Acquedolci",
+                "en": "Acquedolci"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das prasselnde Regenwetter auf den Wellen bequem aus Ihrem Auto, bevor Sie für einen kurzen, erfrischenden Küstengang aussteigen.",
+                "hu": "Figyelje meg az autója kényelméből, ahogy az eső dobol a hullámokon, mielőtt kiszállna egy rövid, frissítő tengerparti sétára a parton.",
+                "ro": "Observați ploaia căzând peste valuri din confortul mașinii, înainte de a coborî pentru o scurtă plimbare răcoritoare pe malul mării.",
+                "en": "Observe the rain hitting the waves from the comfort of your car before stepping out for a short, refreshing coastal walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Porto",
+                "hu": "Kikötői Torony",
+                "ro": "Turnul Portului",
+                "en": "Torre del Porto"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Hafen und bewundern Sie den Turm; der graue Stein harmoniert bei Regen perfekt mit der melancholischen Stimmung des Hafens.",
+                "hu": "Parkoljon le közvetlenül a kikötőben és csodálja meg a tornyot; a szürke kőfalak esőben tökéletesen illeszkednek a kikötő melankolikus hangulatához.",
+                "ro": "Parcați direct în port și admirați turnul; piatra cenușie se armonizează perfect cu starea de spirit melancolică a portului în timpul ploii.",
+                "en": "Park directly at the harbor and admire the tower; the grey stone harmonizes perfectly with the melancholy mood of the port during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel bei Dauerregen; lassen Sie Ihren Schirm im Wagen und verbringen Sie Stunden inmitten der faszinierenden römischen Artefakte.",
+                "hu": "Ideális úti cél tartós esőben; hagyja az esernyőt a kocsiban, és töltsön órákat a lenyűgöző római kori leletek és mozaikok között.",
+                "ro": "Destinația ideală în caz de ploaie continuă; lăsați umbrela în mașină și petreceți ore întregi printre artefactele romane fascinante de aici.",
+                "en": "The ideal destination for continuous rain; leave your umbrella in the car and spend hours among the fascinating Roman artifacts and mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Turris Libisonis",
+                "hu": "Turris Libisonis Régészeti Terület",
+                "ro": "Zona Arheologică Turris Libisonis",
+                "en": "Area Archeologica di Turris Libisonis"
+              },
+              "tip_5lang": {
+                "de": "Da einige Bereiche unter freiem Himmel liegen, ist ein großer Schirm ratsam, um die weitläufigen römischen Ruinen und Straßen trockenen Fußes zu erkunden.",
+                "hu": "Mivel több rész a szabadban van, egy nagy esernyő javasolt, hogy száraz lábbal fedezhesse fel a kiterjedt római romokat és az antik utcákat.",
+                "ro": "Deoarece unele zone sunt în aer liber, se recomandă o umbrelă mare pentru a explora ruinele romane întinse și străzile antice fără a vă uda.",
+                "en": "Since some areas are outdoors, a large umbrella is recommended to explore the extensive Roman ruins and ancient streets while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Complesso industriale Ferromin S.a.",
+                "hu": "Ferromin S.a. Ipari Komplexum",
+                "ro": "Complexul Industrial Ferromin S.a.",
+                "en": "Complesso industriale Ferromin S.a."
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Anlage versprüht im Regen einen rauen Charme; die nassen Metall- und Betonstrukturen erzählen eindrucksvoll von der harten Arbeit.",
+                "hu": "Az ipari létesítmény nyers bájt áraszt az esőben; a nedves fém- és betonstruktúrák hatásosan mesélnek a múltbeli nehéz munkáról a területen.",
+                "ro": "Instalația industrială emană un farmec brut în ploaie; structurile umede de metal și beton spun povestea muncii grele din trecutul zonei.",
+                "en": "The industrial facility exudes a raw charm in the rain; the wet metal and concrete structures effectively tell the story of hard work in the past."
+              }
+            },
+            {
+              "name": {
+                "de": "Batteria antinave di Ponte romano",
+                "hu": "Ponte Romano Hajóelhárító Üteg",
+                "ro": "Bateria Antinavă Ponte Romano",
+                "en": "Batteria antinave di Ponte romano"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diese Militärgeschichte direkt aus dem Fenster oder bei einem kurzen Sprint; der Regen verstärkt die ernste Atmosphäre dieses Ortes.",
+                "hu": "Tekintse meg ezt a katonai emléket közvetlenül az autó ablakából; az eső tovább fokozza ennek a történelmi helyszínnek a komoly hangulatát.",
+                "ro": "Vizualizați acest sit militar direct de pe geamul mașinii; ploaia sporește atmosfera sobră și serioasă a acestui loc istoric important.",
+                "en": "View this military history directly from the car window; the rain further enhances the somber and serious atmosphere of this historic site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Autofahren in Porto Torres ist entspannt und bietet angenehme Wärme zwischen den Stopps. Nutzen Sie die Flexibilität, um alle Sehenswürdigkeiten vor dem Sonnenuntergang um 17:00 Uhr zu erreichen. Die kühle Morgenluft am Strand von Acquedolci lässt sich gut mit einer warmen Fahrt zur Basilika kombinieren. Genießen Sie die historische Stadt ohne sommerliche Menschenmassen und mit bequemen Parkmöglichkeiten direkt an den Monumenten.",
+            "hu": "A téli autózás Porto Torresben nyugodt és kellemes meleget biztosít a megállók között. Használja ki a rugalmasságot, hogy minden látnivalót elérjen a 17:00 órai naplemente előtt. Az Acquedolci strand hűvös reggeli levegője jól kombinálható egy fűtött autózással a bazilikához. Élvezze a történelmi várost a nyári tömeg nélkül, kényelmes parkolással közvetlenül a műemlékeknél.",
+            "ro": "Condusul pe timp de iarnă în Porto Torres este relaxant și oferă căldură plăcută între opriri. Profitați de flexibilitate pentru a ajunge la toate atracțiile înainte de apusul de la ora 17:00. Aerul răcoros al dimineții la plaja Acquedolci se combină bine cu o călătorie încălzită spre bazilică. Bucurați-vă de orașul istoric fără aglomerația de vară, cu parcări ușoare.",
+            "en": "Winter driving in Porto Torres is relaxed and provides pleasant warmth between stops. Use the flexibility to reach all sights before the 17:00 sunset. The cool morning air at Acquedolci beach combines well with a heated drive to the basilica. Enjoy the historical city without the summer crowds, with easy parking directly at the monuments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Acquedolci",
+                "hu": "Acquedolci",
+                "ro": "Acquedolci",
+                "en": "Acquedolci"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise am Morgen; das klare Winterlicht erlaubt es Ihnen, den fernen Horizont gestochen scharf aus dem Wagen zu sehen.",
+                "hu": "Élvezze a friss tengeri szellőt reggel; a tiszta téli fény lehetővé teszi, hogy az autó ablakából is tűélesen lássa a távoli horizontot a tenger felett.",
+                "ro": "Bucurați-vă de briza marină proaspătă dimineața; lumina clară de iarnă vă permite să vedeți orizontul îndepărtat foarte clar chiar de pe geamul mașinii.",
+                "en": "Enjoy the fresh sea breeze in the morning; the clear winter light allows you to see the distant horizon sharply even from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Porto",
+                "hu": "Kikötői Torony",
+                "ro": "Turnul Portului",
+                "en": "Torre del Porto"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist ein markanter Orientierungspunkt im Winterhafen; seine exponierte Lage macht ihn im tiefen Stand der Sonne besonders fotogen.",
+                "hu": "A torony jellegzetes tájékozódási pont a téli kikötőben; kiemelt helyzete miatt az alacsonyan járó napfényben különösen fotogén látványt nyújt.",
+                "ro": "Turnul este un punct de reper distinctiv în portul de iarnă; poziția sa expusă îl face deosebit de fotogenic în lumina joasă a soarelui.",
+                "en": "The tower is a distinctive landmark in the winter harbor; its prominent position makes it particularly photogenic in the low-angled sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Nemzeti Régészeti Múzeum",
+                "ro": "Muzeul Național de Arheologie",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer und lehrreicher Rückzugsort am späten Vormittag; die klimatisierten Räume sind perfekt für einen ausführlichen, gemütlichen Museumsbesuch.",
+                "hu": "Meleg és tanulságos menedék késő délelőtt; a temperált termek tökéletesek egy részletes, hangulatos múzeumlátogatáshoz a téli hideg elől.",
+                "ro": "Un refugiu cald și educativ la sfârșitul dimineții; sălile climatizate sunt perfecte pentru o vizită detaliată și confortabilă la muzeu.",
+                "en": "A warm and educational retreat in the late morning; the climate-controlled rooms are perfect for a detailed, cozy museum visit today."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Turris Libisonis",
+                "hu": "Turris Libisonis Régészeti Terület",
+                "ro": "Zona Arheologică Turris Libisonis",
+                "en": "Area Archeologica di Turris Libisonis"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Straßen am Nachmittag; die Steine speichern ein wenig Sonnenwärme und machen den Rundgang bei kühler Luft sehr angenehm.",
+                "hu": "Fedezze fel az antik utcákat délután; a kövek megőriznek valamennyit a nap melegéből, így a séta a hűvös levegő ellenére is kellemes élmény lesz.",
+                "ro": "Explorați străzile antice după-amiaza; pietrele rețin puțin din căldura soarelui, făcând turul foarte plăcut în ciuda aerului răcoros de iarnă.",
+                "en": "Explore the ancient streets in the afternoon; the stones retain a bit of warmth from the sun, making the tour very pleasant despite the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Complesso industriale Ferromin S.a.",
+                "hu": "Ferromin S.a. Ipari Komplexum",
+                "ro": "Complexul Industrial Ferromin S.a.",
+                "en": "Complesso industriale Ferromin S.a."
+              },
+              "tip_5lang": {
+                "de": "Der Industriekomplex wirkt im goldenen Winterlicht besonders eindrucksvoll; machen Sie Fotos, bevor die Schatten am Nachmittag zu lang werden.",
+                "hu": "Az ipari komplexum az aranybarna téli fényben különösen hatásos látvány; készítsen fotókat, mielőtt az árnyékok túl hosszúra nyúlnának délután.",
+                "ro": "Complexul industrial arată deosebit de impresionant în lumina aurie de iarnă; faceți fotografii înainte ca umbrele să devină prea lungi după-amiaza.",
+                "en": "The industrial complex looks particularly impressive in the golden winter light; take photos before the shadows get too long in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Batteria antinave di Ponte romano",
+                "hu": "Ponte Romano Hajóelhárító Üteg",
+                "ro": "Bateria Antinavă Ponte Romano",
+                "en": "Batteria antinave di Ponte romano"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort in der Abenddämmerung; die kalte Winterluft verleiht der Anlage eine fast mystische, historische Tiefe.",
+                "hu": "Látogasson el erre a történelmi helyszínre szürkületkor; a hideg téli levegő szinte misztikus, mély történelmi hangulatot kölcsönöz az ütegnek.",
+                "ro": "Vizitați acest loc plin de istorie la amurg; aerul rece de iarnă conferă bateriei o profunzime istorică aproape mistică și solemnă.",
+                "en": "Visit this historic site at dusk; the cold winter air gives the battery an almost mystical, deep historical atmosphere as the sun sets."
+              }
+            }
+          ]
+        }
       }
     }
   }

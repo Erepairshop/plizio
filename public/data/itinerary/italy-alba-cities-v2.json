@@ -160,6 +160,196 @@
         "hu": "A reggelt Alba gasztronómiai szívében, a Szarvasgomba Múzeumban kezdi, majd átsétál az ikonikus középkori csonkatoronyhoz. Délben megcsodálja a gyönyörű freskókkal díszített Városházát, és leereszkedik a katedrális földalatti titkai közé. A délutánt a Casa-torre Riva megtekintésével tölti, majd a Federico Eusebio Múzeumban merül el a régió ősi múltjában. Az estét egy pihentető séta zárja a történelmi sikátorokban.",
         "ro": "Dimineața dumneavoastră începe direct în inima gastronomică a Albei, la Muzeul Trufelor, urmată de o plimbare spre turnul medieval iconic. La amiază vizitați Primăria cu fresce superbe și coborâți în secretele subterane ale catedralei. După-amiaza o petreceți admirând Casa-torre Riva înainte de o explorare profundă a trecutului antic al regiunii la Muzeul Federico Eusebio. Seara se încheie cu o plimbare relaxantă prin aleile istorice.",
         "en": "Your morning begins by diving straight into the gastronomic heart of Alba at the Truffle Museum, followed by a stroll to the iconic medieval lowered tower. Midday features a visit to the beautifully frescoed Town Hall and descending into the cathedral's underground secrets. The afternoon is spent admiring the Casa-torre Riva before a deep dive into the region's ancient past at the Federico Eusebio Museum. The evening concludes with a relaxed wander through the historic alleyways."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Alba bei Regen ist dank seiner eleganten Arkaden charmant. Am Vormittag bieten die Museen trockenen Schutz vor den Tropfen. Mittags spazieren Sie geschützt unter den Portici durch die Altstadt. Nachmittags vertiefen Sie sich in die unterirdische Geschichte der Stadt. Am Abend spiegeln sich die Lichter der Türme wunderschön im nassen Kopfsteinpflaster der Piazza Risorgimento.",
+            "hu": "Alba esőben is bájos, köszönhetően az óváros elegáns árkádjainak. Reggel a múzeumok kínálnak száraz menedéket a záporok elől. Délben a fedett portikuszok alatt sétálva fedezheti fel a központot. Délután merüljön el a város földalatti történelmében a katedrális alatt. Este a középkori tornyok fényei csodásan tükröződnek a Piazza Risorgimento nedves macskakövén.",
+            "ro": "Alba pe ploaie este fermecătoare datorită arcadelor sale elegante. Dimineața, muzeele oferă un adăpost uscat împotriva stropilor. La prânz, plimbați-vă protejat sub porticuri prin centrul vechi. După-amiaza, explorați istoria subterană a orașului sub catedrală. Seara, luminile turnurilor se reflectă superb în pavajul umed din Piazza Risorgimento.",
+            "en": "Alba in the rain is charming thanks to its elegant arcades. In the morning, museums provide dry shelter from the showers. At noon, walk protected under the porticoes to explore the historic center. In the afternoon, dive into the city's underground history beneath the cathedral. In the evening, the tower lights reflect beautifully on the wet cobblestones of Piazza Risorgimento."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Tartufo",
+                "hu": "Museo del Tartufo",
+                "ro": "Museo del Tartufo",
+                "en": "Museo del Tartufo"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Welt der Trüffel in diesem modernen Museum, das einen perfekten Schutz vor dem Regen bietet; nutzen Sie die interaktiven Stationen im Trockenen.",
+                "hu": "Fedezze fel a szarvasgomba világát ebben a modern múzeumban, amely tökéletes menedéket nyújt az eső elől; élvezze az interaktív kiállítást teljesen szárazon.",
+                "ro": "Descoperiți lumea trufelor în acest muzeu modern, care oferă un adăpost perfect împotriva ploii; bucurați-vă de expozițiile interactive stând la căldură și uscat.",
+                "en": "Discover the world of truffles in this modern museum, which provides perfect shelter from the rain; enjoy the interactive exhibits while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Medioevale Abbassata",
+                "hu": "Torre Medioevale Abbassata",
+                "ro": "Torre Medioevale Abbassata",
+                "en": "Torre Medioevale Abbassata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen Backsteinturm von den nahegelegenen Arkaden aus, um nicht nass zu werden; die dunklen Ziegel wirken im Regen besonders markant und geschichtsträchtig.",
+                "hu": "Csodálja meg ezt a téglatornyot a közeli árkádok védelméből, hogy ne ázzon el; a sötét téglák az esőben még karakteresebb és történelmibb látványt nyújtanak.",
+                "ro": "Admirați acest turn de cărămidă din protecția arcadelor din apropiere pentru a nu vă uda; cărămizile închise la culoare par și mai impunătoare pe timp de ploaie.",
+                "en": "Admire this brick tower from the shelter of nearby arcades to avoid getting wet; the dark bricks look even more striking and historical in the rainy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Alba",
+                "hu": "Municipio di Alba",
+                "ro": "Municipio di Alba",
+                "en": "Municipio di Alba"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das Rathaus, um die historischen Fresken im Inneren zu bewundern und den Schauer abzuwarten; der Innenhof bietet einen stimmungsvollen, geschützten Blick.",
+                "hu": "Lépjen be a városházára, hogy megcsodálja a belső freskókat, amíg eláll az eső; a belső udvar hangulatos és védett betekintést nyújt a helyi építészetbe.",
+                "ro": "Intrați în primărie pentru a admira frescele interioare în timp ce așteptați să treacă ploaia; curtea interioară oferă o perspectivă protejată și plină de atmosferă.",
+                "en": "Step inside the town hall to admire the interior frescoes while waiting for the rain to stop; the inner courtyard offers an atmospheric, sheltered perspective."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "hu": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "ro": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "en": "Museo Diocesano di Alba e Museo della Cattedrale"
+              },
+              "tip_5lang": {
+                "de": "Die archäologischen Ausgrabungen unter der Kathedrale sind der ideale Ort für einen regnerischen Nachmittag; erkunden Sie die römischen Überreste völlig wetterunabhängig.",
+                "hu": "A székesegyház alatti régészeti ásatások ideális helyszínt jelentenek egy esős délutánon; fedezze fel a római kori maradványokat az időjárástól függetlenül.",
+                "ro": "Săpăturile arheologice de sub catedrală sunt locul ideal pentru o după-amiază ploioasă; explorați resturile romane fără a fi afectat de vremea de afară.",
+                "en": "The archaeological excavations beneath the cathedral are the ideal spot for a rainy afternoon; explore the Roman remains completely independently of the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-torre Riva",
+                "hu": "Casa-torre Riva",
+                "ro": "Casa-torre Riva",
+                "en": "Casa-torre Riva"
+              },
+              "tip_5lang": {
+                "de": "Dieser Wohnturm lässt sich am besten von einem der gegenüberliegenden überdachten Hauseingänge betrachten; achten Sie auf die nassen Details der gotischen Fensterbögen.",
+                "hu": "Ezt a lakótornyot leginkább a szemközti fedett kapualjakból érdemes szemügyre venni; figyelje meg a gótikus ablakívek részleteit a csillogó esőben.",
+                "ro": "Acest turn-locuință este cel mai bine observat din porțile acoperite de vizavi; observați detaliile arcadelor gotice ale ferestrelor care strălucesc în ploaie.",
+                "en": "This tower-house is best observed from one of the covered doorways opposite; notice the details of the Gothic window arches gleaming in the soft rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+                "hu": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+                "ro": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+                "en": "Museo Archeologico e Scienze Naturali Federico Eusebio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem umfassenden Museum, das reichlich Platz zum Trocknen bietet; die naturwissenschaftlichen Sammlungen sind bei grauem Wetter besonders spannend.",
+                "hu": "Zárja a napot ebben a sokszínű múzeumban, ahol bőven van hely megszárítkozni; a természettudományi gyűjtemények kifejezetten izgalmasak szürke időben.",
+                "ro": "Încheiați ziua în acest muzeu vast, care oferă mult spațiu pentru a vă usca; colecțiile de științe naturale sunt fascinante când cerul este gri afară.",
+                "en": "End your day in this comprehensive museum, which offers plenty of space to dry off; the natural science collections are particularly engaging in gloomy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Alba duftet nach gerösteten Haselnüssen und Wein. Am Vormittag wärmen Sie sich in den geschichtsträchtigen Museen auf. Mittags genießen Sie die klare, kalte Luft zwischen den mittelalterlichen Geschlechtertürmen. Da es bereits gegen 17:00 Uhr dunkel wird, erleben Sie den Nachmittag im goldenen Licht der tiefstehenden Sonne. Der Abend gehört der gemütlich beleuchteten Altstadt.",
+            "hu": "A téli Alba illata a pörkölt mogyoróra és a borra emlékeztet. Reggel melegedjen fel a város történelmi múzeumaiban. Délben élvezze a friss, hideg levegőt a középkori lakótornyok között. Mivel 17:00 körül már sötétedik, a délutánt az alacsonyan járó nap arany fényében töltheti. Az este a meghitten kivilágított óvárosé, ahol a hideg ellenére is jólesik egy rövid séta.",
+            "ro": "Iarna în Alba miroase a alune prăjite și vin. Dimineața, încălziți-vă în muzeele pline de istorie. La prânz, bucurați-vă de aerul rece și curat printre turnurile medievale. Deoarece se întunecă în jurul orei 17:00, petreceți după-amiaza în lumina aurie a soarelui care apune devreme. Seara aparține centrului vechi iluminat primitor, ideal pentru o plimbare scurtă.",
+            "en": "Winter in Alba smells of roasted hazelnuts and wine. In the morning, warm up in the city's historic museums. At noon, enjoy the crisp, cold air between the medieval towers. Since it gets dark around 17:00, spend the afternoon in the golden light of the low sun. The evening belongs to the cozily lit old town, where a short walk is pleasant despite the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Tartufo",
+                "hu": "Museo del Tartufo",
+                "ro": "Museo del Tartufo",
+                "en": "Museo del Tartufo"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm beheizt; erfahren Sie alles über die winterliche Trüffelernte, während Sie die wohlige Wärme im Inneren genießen.",
+                "hu": "A múzeum télen kellemesen fűtött; tudjon meg mindent a téli szarvasgomba-gyűjtésről, miközben élvezi a benti barátságos meleget.",
+                "ro": "Muzeul este încălzit plăcut iarna; aflați totul despre recoltarea trufelor de iarnă în timp ce vă bucurați de căldura primitoare din interior.",
+                "en": "The museum is pleasantly heated in winter; learn all about the winter truffle harvest while enjoying the welcoming warmth inside the modern facility."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Medioevale Abbassata",
+                "hu": "Torre Medioevale Abbassata",
+                "ro": "Torre Medioevale Abbassata",
+                "en": "Torre Medioevale Abbassata"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf diesen Turm; tragen Sie warme Handschuhe, um Fotos von der beeindruckenden Ziegelstruktur zu machen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet erre a toronyra; viseljen meleg kesztyűt, hogy kényelmesen fotózhassa a lenyűgöző téglaszerkezetet.",
+                "ro": "Soarele de iarnă proiectează umbre lungi pe acest turn; purtați mănuși groase pentru a putea fotografia confortabil structura impresionantă de cărămidă.",
+                "en": "The low winter sun casts long shadows on this tower; wear warm gloves so you can comfortably take photos of the impressive medieval brick structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Alba",
+                "hu": "Municipio di Alba",
+                "ro": "Municipio di Alba",
+                "en": "Municipio di Alba"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume, um der Kälte zu entfliehen; das Rathaus wirkt im Winterlicht besonders feierlich und bietet einen Einblick in die lokale Verwaltung.",
+                "hu": "Látogasson el a belső terekbe, hogy elmeneküljön a hideg elől; a városháza a téli fényben ünnepélyesnek hat, és betekintést enged a helyi közigazgatásba.",
+                "ro": "Vizitați spațiile interioare pentru a scăpa de frigul de afară; primăria pare deosebit de solemnă în lumina iernii și oferă o incursiune în administrația locală.",
+                "en": "Visit the interior rooms to escape the outside chill; the town hall feels particularly solemn in the winter light and offers a glimpse into local administration."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "hu": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "ro": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "en": "Museo Diocesano di Alba e Museo della Cattedrale"
+              },
+              "tip_5lang": {
+                "de": "In den unterirdischen Gängen herrscht im Winter eine konstante, milde Temperatur; nutzen Sie die frühen Abendstunden für diesen faszinierenden Indoor-Besuch.",
+                "hu": "A földalatti járatokban télen is állandó, enyhe a hőmérséklet; használja ki a korai sötétedést erre a lenyűgöző fedett programra.",
+                "ro": "În pasajele subterane temperatura este constantă și blândă chiar și iarna; profitați de întunericul care cade devreme pentru această vizită fascinantă la interior.",
+                "en": "The underground passages maintain a constant, mild temperature even in winter; take advantage of the early darkness for this fascinating indoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-torre Riva",
+                "hu": "Casa-torre Riva",
+                "ro": "Casa-torre Riva",
+                "en": "Casa-torre Riva"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der Straßenlaternen betont ab 16:30 Uhr die Konturen dieses Wohnturms; ideal für einen kurzen Halt auf dem Weg zu einem warmen Getränk.",
+                "hu": "Az utcai lámpák meleg fénye 16:30 után gyönyörűen kiemeli a lakótorony körvonalait; ideális megálló egy rövid sétán úton egy forró ital felé.",
+                "ro": "Lumina caldă a felinarelor subliniază conturul acestui turn după ora 16:30; este un popas ideal în drum spre o băutură caldă într-o cafenea apropiată.",
+                "en": "The warm light of street lamps highlights the tower's contours beautifully after 16:30; an ideal quick stop on your way to finding a warm beverage."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+                "hu": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+                "ro": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+                "en": "Museo Archeologico e Scienze Naturali Federico Eusebio"
+              },
+              "tip_5lang": {
+                "de": "Die umfangreichen Sammlungen bieten stundenlange Unterhaltung im Warmen; ein perfekter Ort, um den späten Winternachmittag lehrreich zu verbringen.",
+                "hu": "A gazdag gyűjtemény többórányi szórakozást nyújt a melegben; tökéletes helyszín a késő téli délután ismeretterjesztő eltöltéséhez.",
+                "ro": "Colecțiile bogate oferă ore întregi de divertisment la căldură; este locul perfect pentru a petrece educativ după-amiaza târzie de iarnă.",
+                "en": "The extensive collections provide hours of entertainment in the warmth; a perfect place to spend a late winter afternoon in an educational way."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a Cristo Re lenyűgöző építészetével, majd rója le tiszteletét a Repülősök Emlékművénél. Délben tekerjen be a belvárosba, hogy elmerüljön a Szarvasgomba Múzeumban és megcsodálja a Teatro Sociale homlokzatát. A délután egy pillanat alatt eltelik a szabadtéri Archeo Parco felfedezésével, majd a Santa Margherita békés freskói zárják a sort. Az este egy utolsó festői kerekezést kínál a külvárosban.",
         "ro": "Începeți ziua de ciclism cu arhitectura impresionantă de la Cristo Re, urmată de un omagiu la Monumentul Aviatorilor. La amiază pedalați spre centrul orașului pentru a vă scufunda în Muzeul Trufelor și a vedea fațada teatrului. După-amiaza trece rapid cu o oprire plină de informații la parcul arheologic în aer liber, încheindu-se cu frescele senine de la Santa Margherita. Seara permite o ultimă plimbare pitorească pe la periferie.",
         "en": "Start your cycling day with the striking architecture of Cristo Re, followed by paying respects at the Aviators Monument. Midday rolls along as you pedal into the city center to immerse yourself in the Truffle Museum and view the impressive facade of the Teatro Sociale. The afternoon breezes by with an insightful stop at the open-air Archeo Parco, concluding with the serene frescoes at Santa Margherita. The evening allows for a final scenic ride through the outskirts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Alba bei Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Starten Sie vormittags vorsichtig zu den Kirchen der Stadt. Mittags bieten die Alleen mit dichtem Blätterdach etwas Schutz. Nachmittags konzentrieren Sie sich auf Ziele mit guten Abstellmöglichkeiten unter Arkaden. Am Abend glänzt die Stadt in einem besonderen Licht, während Sie durch die feuchten Gassen rollen.",
+            "hu": "Az esős Alba kerékpáron óvatosságot igényel a csúszós macskaköveken. Reggel óvatosan vágjon neki a város templomainak felfedezéséhez. Délben a sűrűbb lombozatú fasorok nyújtanak némi védelmet. Délután válasszon olyan célpontokat, ahol az árkádok alatt biztonságosan lelakatolhatja a bringát. Este a város különleges fényekben ragyog, ahogy a vizes utcákon gurul.",
+            "ro": "Explorarea orașului Alba pe bicicletă în timp ce plouă necesită prudență pe pavajul alunecos. Dimineața, porniți cu grijă spre bisericile orașului. La prânz, bulevardele cu vegetație densă oferă puțină protecție. După-amiaza, alegeți destinații cu locuri de parcare acoperite sub arcade. Seara, orașul strălucește sub o lumină specială în timp ce pedalați pe străzile ude.",
+            "en": "Cycling in Alba in the rain requires caution on the slippery cobblestones. Start your morning carefully as you head to the city's churches. At noon, avenues with thick foliage provide some natural shelter. In the afternoon, focus on destinations with bike racks under arcades. In the evening, the city glows with a unique light as you roll through the damp streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di Cristo Re",
+                "hu": "Chiesa parrocchiale di Cristo Re",
+                "ro": "Chiesa parrocchiale di Cristo Re",
+                "en": "Chiesa parrocchiale di Cristo Re"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Vordach Schutz und bewundern Sie die moderne Architektur; achten Sie bei der Anfahrt auf die Markierungen der nassen Radwege.",
+                "hu": "Keressen menedéket az előtető alatt, és csodálja meg a modern építészetet; az ideúton figyeljen a vizes kerékpárút felfestéseire és a tapadásra.",
+                "ro": "Căutați adăpost sub streșină și admirați arhitectura modernă; fiți atenți la marcajele de pe pistele de biciclete care pot fi alunecoase când sunt ude.",
+                "en": "Seek shelter under the overhang and admire the modern architecture; pay close attention to the markings on the wet bike paths while arriving."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento agli Aviatori",
+                "hu": "Monumento agli Aviatori",
+                "ro": "Monumento agli Aviatori",
+                "en": "Monumento agli Aviatori"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Stopp am Denkmal; die glatten Metallflächen glänzen bei Nässe besonders stark, halten Sie festen Stand beim Absteigen.",
+                "hu": "Egy rövid, esős megálló az emlékműnél; a sima fémfelületek ilyenkor erősen csillognak, ügyeljen a biztos egyensúlyra, amikor leszáll a nyeregből.",
+                "ro": "O oprire scurtă și ploioasă la monument; suprafețele metalice lucioase strălucesc puternic în ploaie, aveți grijă la echilibru când coborâți de pe bicicletă.",
+                "en": "A brief, rainy stop at the monument; the smooth metal surfaces gleam intensely when wet, so ensure you have firm footing when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Tartufo",
+                "hu": "Museo del Tartufo",
+                "ro": "Museo del Tartufo",
+                "en": "Museo del Tartufo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine lange Regenpause im Trockenen; es gibt sichere Parkplätze in der Nähe, wo Ihr Rad geschützt stehen kann.",
+                "hu": "Használja ki ezt a megállót egy hosszabb esőszünetre a szárazon; a közelben találhatók biztonságos helyek, ahol a bringa is védve maradhat.",
+                "ro": "Profitați de această oprire pentru o pauză lungă de ploaie la interior; există locuri sigure de parcare în apropiere unde bicicleta poate sta protejată.",
+                "en": "Use this stop for a long rain break in the dry; there are secure parking spots nearby where your bike can remain relatively protected."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Sociale Giorgio Busca",
+                "hu": "Teatro Sociale Giorgio Busca",
+                "ro": "Teatro Sociale Giorgio Busca",
+                "en": "Teatro Sociale Giorgio Busca"
+              },
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Schutz für eine kurze Rast; bewundern Sie die Fassade, während Sie Ihre Regenkleidung für die Weiterfahrt richten.",
+                "hu": "A bejárati rész jó védelmet nyújt egy rövid pihenőhöz; csodálja meg a homlokzatot, amíg megigazítja esőfelszerelését a továbbhaladáshoz.",
+                "ro": "Zona de intrare oferă o bună protecție pentru un scurt popas; admirați fațada în timp ce vă ajustați pelerina de ploaie pentru continuarea drumului.",
+                "en": "The entrance area provides good shelter for a short rest; admire the facade while you adjust your rain gear for the next leg of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Archeo Parco",
+                "hu": "Archeo Parco",
+                "ro": "Archeo Parco",
+                "en": "Archeo Parco"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Parkwegen, da diese schlammig sein können; die Bäume bieten einen natürlichen Regenschirm für eine kurze Erkundung.",
+                "hu": "Hajtson óvatosan a parki utakon, mivel sárpöttyösek lehetnek; a fák természetes esernyőként szolgálnak egy rövid, frissítő felfedezéshez.",
+                "ro": "Pedalați cu grijă pe aleile parcului, deoarece pot fi noroioase; copacii oferă o umbrelă naturală pentru o scurtă explorare revigorantă.",
+                "en": "Ride cautiously on the park paths as they may be muddy; the trees act as a natural umbrella for a brief, refreshing exploration of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Margherita",
+                "hu": "Chiesa di Santa Margherita",
+                "ro": "Chiesa di Santa Margherita",
+                "en": "Chiesa di Santa Margherita"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss des Tages im Inneren der Kirche; wischen Sie den Sattel trocken, bevor Sie die letzte Strecke im Nieselregen antreten.",
+                "hu": "A nap csendes lezárása a templom belsejében; törölje szárazra a nyerget, mielőtt megtenné az utolsó szakaszt a szemerkélő esőben.",
+                "ro": "O încheiere liniștită a zilei în interiorul bisericii; ștergeți șaua bicicletei înainte de a porni pe ultimul segment prin ploaia măruntă.",
+                "en": "A quiet conclusion to your day inside the church; wipe your saddle dry before embarking on the final stretch through the light drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Alba ist erfrischend und bietet klare Ausblicke auf die Langhe-Hügel. Vormittags wärmt die Bewegung auf dem Weg zu den sakralen Bauten. Mittags steht die Sonne am höchsten und beleuchtet die Ziegelbauten in warmen Tönen. Nachmittags wird es schnell kühl, suchen Sie daher frühzeitig beheizte Stopps auf. Der Abend bricht früh an und taucht die Stadt in ein festliches Licht.",
+            "hu": "A téli Alba kerékpáron felfrissítő élmény, tiszta kilátással a környező dombokra. Reggel a mozgás segít bemelegedni a szakrális épületek felé menet. Délben a nap meleg tónusokkal világítja meg a téglafalakat. Délután gyorsan lehűl a levegő, ezért válasszon fűtött megállókat. Az este korán beköszönt, és ünnepi fényekbe öltözteti a várost.",
+            "ro": "Explorarea orașului Alba pe bicicletă iarna este revigorantă și oferă vederi clare spre dealurile din jur. Dimineața, mișcarea vă ajută să vă încălziți în drum spre clădirile sacre. La prânz, soarele luminează zidurile de cărămidă în tonuri calde. După-amiaza aerul se răcește rapid, așa că alegeți opriri încălzite. Seara se lasă devreme, îmbrăcând orașul în lumini festive.",
+            "en": "Cycling in winter in Alba is refreshing and offers clear views of the Langhe hills. In the morning, the movement helps you warm up as you visit sacred buildings. At noon, the sun highlights the brickwork in warm tones. In the afternoon, the air cools quickly, so pick heated stops. The evening arrives early, dressing the city in festive lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di Cristo Re",
+                "hu": "Chiesa parrocchiale di Cristo Re",
+                "ro": "Chiesa parrocchiale di Cristo Re",
+                "en": "Chiesa parrocchiale di Cristo Re"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren, um sich für die Weiterfahrt aufzuwärmen; die klare Winterluft lässt die moderne Fassade besonders scharf wirken.",
+                "hu": "Élvezze a benti csendet, hogy bemelegedjen a továbbhaladáshoz; a tiszta téli levegőben a modern homlokzat vonalai rendkívül élesnek tűnnek.",
+                "ro": "Bucurați-vă de liniștea din interior pentru a vă încălzi înainte de plecare; în aerul curat de iarnă, liniile fațadei moderne par extrem de clare.",
+                "en": "Enjoy the silence inside to warm up for the rest of your ride; in the crisp winter air, the modern facade's lines appear exceptionally sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento agli Aviatori",
+                "hu": "Monumento agli Aviatori",
+                "ro": "Monumento agli Aviatori",
+                "en": "Monumento agli Aviatori"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt an der frischen Luft; die metallene Struktur wirkt in der Wintersonne kühl und elegant, tragen Sie windfeste Kleidung.",
+                "hu": "Rövid megálló a friss levegőn; a fémszerkezet a téli napsütésben hűvösnek és elegánsnak hat, viseljen szélálló ruházatot a guruláshoz.",
+                "ro": "O scurtă oprire în aerul proaspăt; structura metalică pare rece și elegantă sub soarele de iarnă, purtați haine rezistente la vânt pentru pedalat.",
+                "en": "A quick stop in the fresh air; the metal structure looks cool and elegant in the winter sun, so be sure to wear windproof clothing while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Tartufo",
+                "hu": "Museo del Tartufo",
+                "ro": "Museo del Tartufo",
+                "en": "Museo del Tartufo"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um die Hände aufzuwärmen und in die Kultur einzutauchen; die modernen Innenräume sind ein perfekter Kontrast zur winterlichen Kälte draußen.",
+                "hu": "Ideális helyszín a kezek felmelegítéséhez és a kultúrában való elmerüléshez; a modern belső terek tökéletes kontrasztot alkotnak a kinti hideggel.",
+                "ro": "Locul ideal pentru a vă încălzi mâinile și a vă cufunda în cultură; spațiile interioare moderne oferă un contrast perfect cu frigul de afară.",
+                "en": "The perfect spot to warm your hands and immerse yourself in culture; the modern interiors provide a great contrast to the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Sociale Giorgio Busca",
+                "hu": "Teatro Sociale Giorgio Busca",
+                "ro": "Teatro Sociale Giorgio Busca",
+                "en": "Teatro Sociale Giorgio Busca"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Theater im sanften Nachmittagslicht; die umliegenden Cafés bieten nach diesem Halt die perfekte Gelegenheit für eine heiße Schokolade.",
+                "hu": "Csodálja meg a színházat a lágy délutáni fényben; a közeli kávézók tökéletes lehetőséget nyújtanak egy forró csokoládéra a megálló után.",
+                "ro": "Admirați teatrul în lumina blândă a după-amiezii; cafenelele din jur oferă ocazia perfectă pentru o ciocolată caldă după vizitarea acestui punct.",
+                "en": "Admire the theater in the soft afternoon light; the surrounding cafes offer the perfect opportunity for a hot chocolate after this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Archeo Parco",
+                "hu": "Archeo Parco",
+                "ro": "Archeo Parco",
+                "en": "Archeo Parco"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winter kahl, aber friedlich; nutzen Sie die letzte Helligkeit vor 17:00 Uhr, um die historischen Strukturen ohne Laub zu sehen.",
+                "hu": "A park télen kopárnak, de békésnek hat; használja ki az utolsó világos perceket 17:00 előtt, hogy lomb nélkül láthassa a történelmi romokat.",
+                "ro": "Parcul pare golaș iarna, dar liniștit; profitați de ultimele momente de lumină înainte de ora 17:00 pentru a vedea structurile fără frunziș.",
+                "en": "The park feels bare but peaceful in winter; take advantage of the last daylight before 17:00 to see the historical structures without foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Margherita",
+                "hu": "Chiesa di Santa Margherita",
+                "ro": "Chiesa di Santa Margherita",
+                "en": "Chiesa di Santa Margherita"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im warmen Kerzenschein der Kirche; die Rückfahrt durch die beleuchtete Stadt ist ein stimmungsvoller Abschluss des Tages.",
+                "hu": "Zárja a túrát a templom gyertyáinak meleg fényénél; a visszaút a kivilágított városon keresztül hangulatos lezárása a téli napnak.",
+                "ro": "Încheiați turul la lumina caldă a lumânărilor din biserică; drumul de întoarcere prin orașul iluminat este o finalizare plină de atmosferă.",
+                "en": "Conclude your tour by the warm candlelight of the church; the ride back through the illuminated city is an atmospheric end to your winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Először vezessen a csendes külvárosba, hogy felfedezze a bájos Santa Rosaliát és a Nostra Signora della Moretta élénk közösségi terét. Délben közelebb kerül a város pulzusához a Cristo Re és a Repülősök Emlékművének meglátogatásával. A délutánt Alba mély örökségének szenteli, felfedezve az Egyházmegyei Múzeumot és az Archeo Parco neolitikus területét. Élvezze a kényelmes estébe nyúló vacsorát egy helyi osteriában.",
         "ro": "Conduceți mai întâi spre periferia liniștită pentru a descoperi fermecătoarea Santa Rosalia și centrul comunitar de la Nostra Signora della Moretta. Amiaza vă aduce mai aproape de pulsul urban cu opriri la Cristo Re și Monumentul Aviatorilor. După-amiaza este dedicată patrimoniului profund al Albei, explorând Muzeul Diecezan și mergând pe terenurile neolitice de la Archeo Parco. Bucurați-vă de o seară relaxantă luând cina la o osterie locală.",
         "en": "Drive to the tranquil outskirts first to discover the charming Santa Rosalia and the active community hub at Nostra Signora della Moretta. Midday brings you closer to the urban pulse with stops at Cristo Re and the solemn Aviators Monument before parking near the historic center. The afternoon is dedicated to Alba’s deep heritage, exploring the Diocesan Museum and walking the Neolithic grounds of Archeo Parco. Enjoy a leisurely evening dining at a local osteria."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto durch Alba bei Regen zu fahren, bietet eine gemütliche und trockene Perspektive auf die Hügellandschaft. Vormittags steuern Sie sicher die höher gelegenen Kirchen an. Mittags parken Sie bequem in der Nähe der Museen, um lange Wege im Regen zu vermeiden. Nachmittags genießen Sie die nebligen Ausblicke auf die Weinberge. Am Abend glitzern die nassen Straßen unter Ihren Scheinwerfern.",
+            "hu": "Autóval bejárni az esős Albát kényelmes és száraz perspektívát kínál a dombvidékre. Reggel biztonságosan érheti el a magasabban fekvő templomokat. Délben parkoljon a múzeumok közvetlen közelében, hogy elkerülje a hosszú gyaloglást az esőben. Délután élvezze a ködös kilátást a szőlőültetvényekre. Este a vizes utak csillogása kíséri útján a városi fényekben.",
+            "ro": "Explorarea orașului Alba cu mașina pe ploaie oferă o perspectivă confortabilă și uscată asupra dealurilor. Dimineața, ajungeți în siguranță la bisericile situate la înălțime. La prânz, parcați aproape de muzee pentru a evita mersul lung prin ploaie. După-amiaza, bucurați-vă de vederile cețoase spre podgorii. Seara, străzile ude strălucesc sub farurile mașinii.",
+            "en": "Driving through Alba in the rain offers a cozy and dry perspective of the rolling hills. In the morning, safely navigate to the elevated churches. At noon, park conveniently close to museums to avoid long walks in the wet. In the afternoon, enjoy the misty views over the vineyards from your vehicle. In the evening, the wet streets glisten under your headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Rosalia",
+                "hu": "Santa Rosalia",
+                "ro": "Santa Rosalia",
+                "en": "Santa Rosalia"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt über die nassen Hügel bietet mystische Ausblicke; parken Sie direkt vor der Kirche, um trocken ins prachtvolle Innere zu gelangen.",
+                "hu": "A vizes dombokon átvezető út misztikus látványt nyújt; parkoljon közvetlenül a templom előtt, hogy szárazon jusson be a pompás belső térbe.",
+                "ro": "Drumul peste dealurile ude oferă vederi mistice; parcați direct în fața bisericii pentru a intra la adăpost în interiorul somptuos.",
+                "en": "The drive over the wet hills offers mystical views; park directly in front of the church to enter the magnificent interior without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Oratorio Nostra Signora della Moretta",
+                "hu": "Parrocchia Oratorio Nostra Signora della Moretta",
+                "ro": "Parrocchia Oratorio Nostra Signora della Moretta",
+                "en": "Parrocchia Oratorio Nostra Signora della Moretta"
+              },
+              "tip_5lang": {
+                "de": "Ein großzügiger Parkplatz macht diesen Stopp auch bei starkem Regen unkompliziert; bewundern Sie die Details der Kuppel im Schutz des Gebäudes.",
+                "hu": "A tágas parkoló még erős esőben is egyszerűvé teszi a látogatást; csodálja meg a kupola részleteit az épület nyújtotta védelemben.",
+                "ro": "Parcarea generoasă face vizita ușoară chiar și pe ploaie torențială; admirați detaliile cupolei din siguranța și protecția clădirii.",
+                "en": "The spacious parking area makes this stop hassle-free even in heavy rain; admire the dome's details within the protection of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di Cristo Re",
+                "hu": "Chiesa parrocchiale di Cristo Re",
+                "ro": "Chiesa parrocchiale di Cristo Re",
+                "en": "Chiesa parrocchiale di Cristo Re"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Glasfenster leuchten bei grauem Himmel besonders intensiv; nutzen Sie die Parkmöglichkeit direkt gegenüber für einen schnellen Wechsel.",
+                "hu": "A modern üvegablakok szürke égbolt mellett különösen intenzíven világítanak; használja a szemközti parkolót a gyors és száraz bejutáshoz.",
+                "ro": "Vitraliile moderne strălucesc intens sub cerul gri; folosiți parcarea de vizavi pentru a intra rapid și a evita ploaia de afară.",
+                "en": "The modern stained glass windows glow intensely against the gray sky; use the parking across the street for a quick and dry transition."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento agli Aviatori",
+                "hu": "Monumento agli Aviatori",
+                "ro": "Monumento agli Aviatori",
+                "en": "Monumento agli Aviatori"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz vom Auto aus oder nutzen Sie eine Regenpause; die umliegenden Bäume wirken im Regen sehr atmosphärisch.",
+                "hu": "Tekintse meg az emlékművet az autóból, vagy használja ki az eső szünetét; a környező fák az esőben nagyon hangulatos látványt nyújtanak.",
+                "ro": "Observați monumentul din mașină sau profitați de o pauză de ploaie; copacii din jur creează o atmosferă deosebită pe timp de ploaie.",
+                "en": "Observe the monument briefly from the car or take advantage of a break in the rain; the surrounding trees look very atmospheric in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "hu": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "ro": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "en": "Museo Diocesano di Alba e Museo della Cattedrale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in einem der zentrumsnahen Parkhäuser, um den Weg zum Museum trocken zu halten; die unterirdische Tour ist das Highlight bei Regen.",
+                "hu": "Parkoljon a belvárosi parkolóházak egyikében, hogy szárazon jusson a múzeumba; a földalatti túra a nap fénypontja esős időben.",
+                "ro": "Parcați într-una din parcările subterane din centru pentru a ajunge uscat la muzeu; turul subteran este punctul forte în zilele ploioase.",
+                "en": "Park in one of the central parking garages to keep your walk to the museum dry; the underground tour is a highlight on any rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Archeo Parco",
+                "hu": "Archeo Parco",
+                "ro": "Archeo Parco",
+                "en": "Archeo Parco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Anlage gemütlich vom warmen Fahrzeug aus; die nassen Ruinen erzählen bei Regen eine ganz eigene, stille Geschichte.",
+                "hu": "Élvezze a kilátást a parkra a fűtött jármű kényelméből; a nedves romok az esőben egy egészen sajátos, csendes történetet mesélnek el.",
+                "ro": "Bucurați-vă de vederea spre parc din confortul vehiculului încălzit; ruinele ude par să spună o poveste tăcută și aparte pe timp de ploaie.",
+                "en": "Enjoy the view of the park from the comfort of your warm vehicle; the wet ruins tell their own quiet, distinct story in the rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Alba verbindet Komfort mit spektakulären Aussichten auf die verschneiten Gipfel der Alpen in der Ferne. Vormittags sind die Straßen in den Hügeln oft klar und bieten tolle Fotostopps. Mittags wärmen Sie sich zwischen den Besichtigungen im Auto auf. Da es gegen 17:00 Uhr dunkel wird, planen Sie die Fahrten durch die Weinberge für den frühen Nachmittag. Der Abend endet im festlichen Lichterglanz.",
+            "hu": "A téli autózás Alba környékén a kényelmet ötvözi a távoli Alpok havas csúcsainak látványával. Reggel a dombok közötti utak gyakran tiszták, kiváló fotómegállókat kínálva. Délben a fűtött autóban pihenhet meg a látnivalók között. Mivel 17:00 körül sötétedik, a dűlők közötti autózást kora délutánra időzítse. Az este a város ünnepi fényeiben ér véget.",
+            "ro": "O călătorie cu mașina iarna prin Alba îmbină confortul cu vederile spectaculoase spre vârfurile înzăpezite ale Alpilor. Dimineața, drumurile dintre dealuri sunt adesea libere, oferind locuri de poze superbe. La prânz, vă puteți încălzi în mașină între vizite. Deoarece se întunecă în jur de 17:00, planificați plimbările printre vii pentru după-amiaza devreme.",
+            "en": "A winter drive through Alba combines comfort with spectacular views of the snowy Alpine peaks in the distance. In the morning, hill roads are often clear, offering great photo opportunities. At noon, warm up in the car between sightseeing stops. Since it gets dark around 17:00, plan your vineyard drives for the early afternoon. The evening ends in festive city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Rosalia",
+                "hu": "Santa Rosalia",
+                "ro": "Santa Rosalia",
+                "en": "Santa Rosalia"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet von hier einen fantastischen Weitblick auf die Alpen; nutzen Sie die Standheizung, während Sie das Panorama bewundern.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást nyújt innen az Alpokra; élvezze a panorámát a fűtött autóból, mielőtt belépne a templomba.",
+                "ro": "Aerul curat de iarnă oferă de aici o vedere fantastică spre Alpi; bucurați-vă de panoramă din mașina încălzită înainte de a vizita biserica.",
+                "en": "The crisp winter air offers a fantastic long-range view of the Alps from here; enjoy the panorama from your warm car before heading inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Oratorio Nostra Signora della Moretta",
+                "hu": "Parrocchia Oratorio Nostra Signora della Moretta",
+                "ro": "Parrocchia Oratorio Nostra Signora della Moretta",
+                "en": "Parrocchia Oratorio Nostra Signora della Moretta"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen Halt in der Kälte; die Kirche ist oft angenehm temperiert und bietet einen Moment der Besinnung fernab des Winterwindes.",
+                "hu": "Ideális megálló a hidegben; a templom gyakran kellemes hőmérsékletű, és lehetőséget ad az elmélyülésre, távol a metsző téli széltől.",
+                "ro": "Un loc de oprire ideal pe timp de frig; biserica are adesea o temperatură plăcută și oferă un moment de reculegere departe de vântul de iarnă.",
+                "en": "An ideal stop in the cold; the church often has a pleasant temperature and offers a moment of reflection away from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa parrocchiale di Cristo Re",
+                "hu": "Chiesa parrocchiale di Cristo Re",
+                "ro": "Chiesa parrocchiale di Cristo Re",
+                "en": "Chiesa parrocchiale di Cristo Re"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im harten Winterlicht; der kurze Weg vom Parkplatz ins Innere macht diesen Besuch auch bei Frost sehr angenehm.",
+                "hu": "Csodálja meg az építészetet az éles téli fényben; a parkolótól a bejáratig tartó rövid út fagyos időben is kényelmessé teszi a látogatást.",
+                "ro": "Admirați arhitectura în lumina puternică a iernii; drumul scurt de la parcare până la intrare face vizita confortabilă chiar și pe ger.",
+                "en": "Admire the architecture in the sharp winter light; the short walk from the parking area to the entrance makes this visit very pleasant even in frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento agli Aviatori",
+                "hu": "Monumento agli Aviatori",
+                "ro": "Monumento agli Aviatori",
+                "en": "Monumento agli Aviatori"
+              },
+              "tip_5lang": {
+                "de": "Die metallene Skulptur glänzt im Frost besonders schön; ein kurzer Fotostopp reicht aus, bevor Sie es sich im Auto wieder gemütlich machen.",
+                "hu": "A fémszobor a dérben vagy fagyban különösen szépen csillog; egy rövid fotómegálló is elég, mielőtt visszatérne az autó kényelmébe.",
+                "ro": "Sculptura metalică strălucește deosebit de frumos în chiciură; o scurtă oprire pentru poze este suficientă înainte de a reveni la căldura mașinii.",
+                "en": "The metal sculpture gleams beautifully in the frost; a quick photo stop is enough before you settle back into the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "hu": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "ro": "Museo Diocesano di Alba e Museo della Cattedrale",
+                "en": "Museo Diocesano di Alba e Museo della Cattedrale"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als warmen Zufluchtsort am Nachmittag; die unterirdischen Exponate sind vor jeglicher Winterkälte perfekt geschützt.",
+                "hu": "Használja a múzeumot meleg menedékként a délután folyamán; a földalatti kiállítások tökéletesen védettek minden téli hidegtől.",
+                "ro": "Folosiți muzeul ca un refugiu călduros în timpul după-amiezii; exponatele subterane sunt protejate perfect de orice frig de iarnă.",
+                "en": "Use the museum as a warm sanctuary during the afternoon; the underground exhibits are perfectly shielded from any outside winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Archeo Parco",
+                "hu": "Archeo Parco",
+                "ro": "Archeo Parco",
+                "en": "Archeo Parco"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht vor Sonnenuntergang um 17:00 Uhr ist magisch; parken Sie so, dass Sie den Blick auf die Anlage bei laufender Heizung genießen können.",
+                "hu": "Az 17:00-s naplemente előtti arany fények varázslatosak; parkoljon úgy, hogy a fűtött autóból is élvezhesse a látványt az utolsó világos percekben.",
+                "ro": "Luminile aurii de dinaintea apusului de la ora 17:00 sunt magice; parcați astfel încât să puteți admira parcul din mașina încălzită la finalul zilei.",
+                "en": "The golden light before the 17:00 sunset is magical; park in a way that allows you to enjoy the view of the site from your heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

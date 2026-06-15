@@ -137,6 +137,168 @@
         "hu": "A reggel a helyi kultúrával indul a Vergotis Központban, majd Lord Byron emléke következik. Délben egy festői sétával délre tartunk Lugia békés vidékére. A délutánt az Avithos strand napsütésében töltjük. Az este az ősi mükénéi temető lenyűgöző felfedezésével zárul.",
         "ro": "Dimineața începe cu o incursiune în cultura locală la Centrul Vergotis, urmată de un omagiu adus lui Byron. La prânz, o plimbare spre sud vă duce la liniștea din Lugia. După-amiaza vă relaxați la soare pe plaja Avithos. Seara se încheie cu explorarea fascinantului cimitir antic micenian.",
         "en": "Morning starts with a deep dive into local culture at the Vergotis Centre, followed by a tribute to Lord Byron. Midday leads you south on a scenic walk to Lugia for a peaceful retreat. Afternoon is spent basking in the sun at Avithos Beach. Evening concludes with an intriguing exploration of the ancient Mycenean Cemetery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Vergotis-Zentrum, um dem Regen zu entkommen. Mittags führt der Weg zur Küste, wo die salzige Gischt mit dem Regen verschmilzt – Vorsicht auf rutschigen Pfaden. Am Nachmittag bietet der mykenische Friedhof eine mystische Atmosphäre unter grauen Wolken. Der Abend in Ntomata ist ruhig, wenn die Lichter der Dorfstraße auf dem nassen Asphalt glänzen.",
+            "hu": "Kezdje a napot a Vergotis Központban, menekülve az égi áldás elől. Délben az út a part felé vezet, ahol a tengeri permet keveredik az esővel – vigyázzon a csúszós ösvényeken. Délután a mükénéi temető misztikus hangulatot áraszt a szürke felhők alatt. Az este Ntomata falujában csendes, ahogy az utcai lámpák fénye megcsillan a vizes aszfalton.",
+            "ro": "Începeți ziua la Centrul Vergotis pentru a scăpa de ploaie. La prânz, drumul spre coastă oferă un peisaj dramatic, dar atenție la potecile alunecoase de lângă mare. După-amiaza, cimitirul micenian capătă o aură mistică sub norii grei. Seara în Ntomata este liniștită, cu luminile satului reflectându-se frumos pe asfaltul umed și strălucitor.",
+            "en": "Start your day at the Vergotis Centre to escape the morning showers. At noon, the walk to the coast reveals a dramatic sea, but be careful on the slippery limestone paths. In the afternoon, the Mycenean cemetery offers a hauntingly beautiful atmosphere under the grey skies. Evening in Ntomata is peaceful as the village lights shimmer on the wet surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vergotis-Kulturzentrum",
+                "hu": "Vergotis Kulturális Központ",
+                "ro": "Centrul Cultural Vergotis",
+                "en": "Vergotis Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um die lokale Geschichte zu erkunden, während Sie den stärksten Regen im Trockenen abwarten.",
+                "hu": "Használja ki a belső tereket a helyi történelem felfedezésére, miközben szárazon várja meg a hevesebb esőzés végét.",
+                "ro": "Profitați de spațiile interioare pentru a explora istoria locală în timp ce așteptați la adăpost oprirea ploii torențiale.",
+                "en": "Take advantage of the indoor exhibits to explore local history while waiting for the heaviest rain to pass in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Büste von Lord Byron",
+                "hu": "Lord Byron mellszobra",
+                "ro": "Bustul lui Lord Byron",
+                "en": "Bust of Lord Byron"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien; achten Sie auf den rutschigen Boden rund um das Denkmal bei nassen Bedingungen.",
+                "hu": "Rövid megálló a szabadban; ügyeljen a csúszós talajra a mellszobor körül az esős, nedves időjárási körülmények között.",
+                "ro": "O oprire scurtă în aer liber; aveți grijă la solul alunecos din jurul monumentului în condiții de umiditate ridicată.",
+                "en": "A quick outdoor stop; be mindful of the slippery ground around the monument during these wet and rainy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Lugia",
+                "hu": "Lugia",
+                "ro": "Lugia",
+                "en": "Lugia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das Ionische Meer von einem geschützten Platz unter den Bäumen aus.",
+                "hu": "Élvezze a Jón-tenger drámai látványát egy védettebb, fák alatti helyről, miközben hallgatja az eső kopogását.",
+                "ro": "Bucurați-vă de vederea dramatică a Mării Ionice dintr-un loc protejat sub copaci în timp ce plouă ușor.",
+                "en": "Enjoy the dramatic views of the Ionian Sea from a sheltered spot under the trees while the rain falls softly."
+              }
+            },
+            {
+              "name": {
+                "de": "Avithos Strand",
+                "hu": "Avithos strand",
+                "ro": "Plaja Avithos",
+                "en": "Avithos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest; machen Sie einen kurzen Strandspaziergang, aber tragen Sie unbedingt eine wasserfeste Jacke.",
+                "hu": "A homok esőben keményebb; tegyen egy rövid sétát a parton, de mindenképpen viseljen vízálló kabátot a szél ellen.",
+                "ro": "Nisipul este compact când plouă; faceți o scurtă plimbare pe plajă, dar purtați neapărat o jachetă impermeabilă.",
+                "en": "The sand is firm when wet; enjoy a brisk beach walk but ensure you are wearing a reliable waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Mykenischer Friedhof von Mazarakata",
+                "hu": "Mazarakata mükénéi temetője",
+                "ro": "Cimitirul Micenian din Mazarakata",
+                "en": "Mycenean Cemetery of Mazarakata"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Gräber vorsichtig, da die Felsstufen bei Regen extrem rutschig und gefährlich sein können.",
+                "hu": "Fedezze fel óvatosan az ókori sírokat, mivel a kőlépcsők esőben rendkívül csúszósak és veszélyesek lehetve.",
+                "ro": "Explorați mormintele antice cu mare atenție, deoarece treptele de piatră pot fi extrem de alunecoase pe ploaie.",
+                "en": "Explore the ancient tombs carefully, as the stone steps can become extremely slippery and hazardous when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Ntomata ist frisch und klar. Ein Besuch im Kulturzentrum bietet Wärme, bevor Sie die menschenleeren Küstenwege erkunden. Genießen Sie die Einsamkeit an den Stränden, die im Winterlicht fast magisch wirken. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die mykenischen Ruinen am frühen Nachmittag besuchen, um das goldene Licht zu nutzen.",
+            "hu": "A téli reggel Ntomata környékén friss és tiszta. A kulturális központ meleget ad, mielőtt elindulna az üres tengerparti utakra. Élvezze a magányt a strandokon, amik a téli fényben szinte varázslatosak. Mivel a nap 17:00 körül nyugszik, a mükénéi romokat kora délután látogassa meg, hogy kihasználja az aranyló fényeket.",
+            "ro": "Dimineața de iarnă în Ntomata este răcoroasă și senină. Vizitați centrul cultural pentru căldură înainte de a explora potecile pustii de pe coastă. Bucurați-vă de singurătatea plajelor, care par magice în lumina iernii. Deoarece soarele apune în jur de ora 17:00, vizitați ruinele miceniene după-amiaza devreme pentru lumină.",
+            "en": "The winter morning in Ntomata is crisp and clear. Visit the cultural centre for warmth before exploring the deserted coastal paths. Enjoy the solitude of the beaches, which look magical in the soft winter light. Since the sun sets around 17:00, aim to reach the Mycenean ruins by early afternoon to catch the golden hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vergotis-Kulturzentrum",
+                "hu": "Vergotis Kulturális Központ",
+                "ro": "Centrul Cultural Vergotis",
+                "en": "Vergotis Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und die kulturellen Schätze Kefalonias abseits der sommerlichen Hitze zu bewundern.",
+                "hu": "Ideális hely a felmelegedéshez és Kefalónia kulturális kincseinek megcsodálásához, távol a nyári hőségtől.",
+                "ro": "Un loc ideal pentru a vă încălzi și pentru a admira comorile culturale ale Kefaloniei, departe de arșița verii.",
+                "en": "An ideal place to warm up and admire the cultural treasures of Kefalonia away from the summer heat and crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Büste von Lord Byron",
+                "hu": "Lord Byron mellszobra",
+                "ro": "Bustul lui Lord Byron",
+                "en": "Bust of Lord Byron"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet fantastische Fotomöglichkeiten; tragen Sie eine winddichte Jacke gegen die Meeresbrise.",
+                "hu": "A tiszta téli fény fantasztikus fotózási lehetőséget kínál; viseljen szélálló kabátot a tengeri szél ellen.",
+                "ro": "Lumina clară de iarnă oferă oportunități foto fantastice; purtați o jachetă rezistentă la vânt contra brizei.",
+                "en": "The clear winter light provides fantastic photo opportunities; wear a windproof jacket against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lugia",
+                "hu": "Lugia",
+                "ro": "Lugia",
+                "en": "Lugia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die wilden Winterwellen des Ionischen Meeres; die Einsamkeit hier ist in dieser Jahreszeit absolut friedlich.",
+                "hu": "Figyelje meg a Jón-tenger vad téli hullámait; a magány itt ebben az évszakban teljesen békés és megnyugtató.",
+                "ro": "Observați valurile sălbatice de iarnă ale Mării Ionice; singurătatea de aici este absolut liniștitoare în acest sezon.",
+                "en": "Observe the wild winter waves of the Ionian Sea; the solitude here is absolutely peaceful during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Avithos Strand",
+                "hu": "Avithos strand",
+                "ro": "Plaja Avithos",
+                "en": "Avithos Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Winterspaziergang; das Wasser ist zu kalt zum Schwimmen, aber die Luft ist unglaublich erfrischend.",
+                "hu": "Tökéletes egy élénk téli sétához; a víz túl hideg az úszáshoz, de a levegő hihetetlenül frissítő és tiszta.",
+                "ro": "Perfect pentru o plimbare revigorantă de iarnă; apa este prea rece pentru înot, dar aerul este incredibil de proaspăt.",
+                "en": "Perfect for a brisk winter walk; the water is too cold for swimming, but the air is incredibly refreshing and clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Mykenischer Friedhof von Mazarakata",
+                "hu": "Mazarakata mükénéi temetője",
+                "ro": "Cimitirul Micenian din Mazarakata",
+                "en": "Mycenean Cemetery of Mazarakata"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Stätte vor 16:30 Uhr, da es früh dunkel wird und die Anlage keine künstliche Beleuchtung hat.",
+                "hu": "Látogasson el ide 16:30 előtt, mivel korán sötétedik, és a területen nincs mesterséges világítás a sírok körül.",
+                "ro": "Vizitați situl înainte de ora 16:30, deoarece se întunecă devreme și complexul nu are iluminat artificial.",
+                "en": "Visit the site before 16:30, as it gets dark early and the area has no artificial lighting around the ancient tombs."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen a lenyűgöző szabadtéri amfiteátrumhoz a reggel folyamán, majd a Byron-sziklához a parti panorámáért. Délben a nyüzsgő Ammes strandon tarthat frissítő pihenőt. A délutáni kerékpározás Ai Helis sötétebb homokjához és a Vergotis Központhoz vezet. Az este a történelmi Mazarakata síroknál ér véget.",
         "ro": "Pedalați spre uimitorul amfiteatru în aer liber, apoi spre Stânca lui Byron pentru panorame costiere superbe. La prânz ajungeți la plaja plină de viață Ammes pentru o pauză. După-amiaza vă duce spre nisipurile de la Ai Helis și Centrul Vergotis. Seara se încheie la mormintele istorice Mazarakata.",
         "en": "Cycle towards the stunning open-air amphitheater to kick off your morning, then head to Byron's Rock for breathtaking coastal vistas. Midday brings you to the lively Ammes Beach for a refreshing break. Afternoon cycling takes you to the darker sands of Ai Helis and the cultural Vergotis Centre. Evening wraps up at the historic Mazarakata tombs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Ntomata Vorsicht, besonders auf den Gefällen. Starten Sie beim Amphitheater, aber meiden Sie die steilsten Wege. Das Kulturzentrum ist mittags ein willkommener trockener Zufluchtsort. Die Küstenstraßen sind bei Regen neblig und atmosphärisch, erfordern jedoch volle Konzentration und gute Bremsen, bevor Sie im Dunkeln wieder sicher ankommen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Ntomata környékén, főleg a lejtőkön. Kezdjen az amfiteátrumnál, de kerülje a meredek utakat. A kulturális központ délben kiváló száraz menedék. A tengerparti utak párásak és hangulatosak esőben, de teljes koncentrációt és jó fékeket igényelnek, mielőtt sötétben visszaérne.",
+            "ro": "Ciclismul pe ploaie necesită prudență în Ntomata, mai ales pe pante. Începeți la amfiteatru, dar evitați drumurile abrupte. Centrul cultural este un refugiu uscat binevenit la prânz. Drumurile de coastă sunt cețoase și atmosferice pe ploaie, dar necesită concentrare maximă și frâne bune înainte de întoarcere.",
+            "en": "Cycling in the rain requires caution around Ntomata, especially on the slopes. Start at the amphitheater but avoid the steepest paths. The cultural centre is a welcome dry haven at midday. The coastal roads are misty and atmospheric in the rain, requiring full concentration and good brakes before you head back safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freiluft-Amphitheater Kallithea",
+                "hu": "Kallithea szabadtéri amfiteátrum",
+                "ro": "Amfiteatrul în aer liber Kallithea",
+                "en": "Kallithea Open-Air Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen sind rutschig; genießen Sie die Aussicht von den überdachten Bereichen des Theaters aus.",
+                "hu": "A kőlépcsők csúszósak; élvezze a kilátást a színház fedettebb részeiről, miközben eláll az eső.",
+                "ro": "Treptele de piatră sunt alunecoase; bucurați-vă de priveliște din zonele mai protejate ale amfiteatrului.",
+                "en": "The stone steps are slippery when wet; enjoy the panoramic view from the sheltered parts of the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Byrons Felsen",
+                "hu": "Byron sziklája",
+                "ro": "Stânca lui Byron",
+                "en": "Byron's Rock"
+              },
+              "tip_5lang": {
+                "de": "Nasse Felsen sind gefährlich; bleiben Sie auf dem asphaltierten Weg und betrachten Sie das Denkmal aus sicherer Entfernung.",
+                "hu": "A vizes sziklák veszélyesek; maradjon az aszfaltozott úton, és biztonságos távolságból tekintse meg az emlékművet.",
+                "ro": "Stâncile umede sunt periculoase; rămâneți pe drumul asfaltat și priviți monumentul de la o distanță sigură.",
+                "en": "Wet rocks are hazardous; stay on the paved path and view the landmark from a safe distance during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammes Strand",
+                "hu": "Ammes strand",
+                "ro": "Plaja Ammes",
+                "en": "Ammes Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf der Küstenstraße; der Regen erzeugt einen mystischen Horizont über der Landebahn des Flughafens.",
+                "hu": "Ügyeljen a tócsákra a parti úton; az eső misztikus horizontot teremt a repülőtér kifutópályája felett.",
+                "ro": "Atenție la bălțile de pe drumul de coastă; ploaia creează un orizont mistic deasupra pistei aeroportului.",
+                "en": "Watch for puddles on the coastal road; the rain creates a misty, mystical horizon over the airport runway."
+              }
+            },
+            {
+              "name": {
+                "de": "Ai Helis Strand",
+                "hu": "Ai Helis strand",
+                "ro": "Plaja Ai Helis",
+                "en": "Ai helis beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt, um die grauen Wellen zu sehen; prüfen Sie Ihre Bremsen, bevor Sie den nassen Hügel wieder hinauffahren.",
+                "hu": "Rövid megálló a szürke hullámok megtekintésére; ellenőrizze a fékeket, mielőtt nekivág a vizes emelkedőnek.",
+                "ro": "O scurtă oprire pentru a vedea valurile gri; verificați frânele înainte de a urca panta umedă înapoi.",
+                "en": "A short stop to see the grey waves; check your brakes before ascending the wet hill back to the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergotis-Kulturzentrum",
+                "hu": "Vergotis Kulturális Központ",
+                "ro": "Centrul Cultural Vergotis",
+                "en": "Vergotis Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diese Zeit, um sich abzutrocknen und die Galerien zu erkunden, während ein Schauer vorüberzieht.",
+                "hu": "Használja ki ezt az időt a megszáradásra és a galériák felfedezésére, amíg egy nagyobb zápor elvonul a falu felett.",
+                "ro": "Folosiți acest timp pentru a vă usca și pentru a explora galeriile în timp ce trece o aversă de ploaie.",
+                "en": "Use this time to dry off and explore the indoor galleries while a heavy shower passes over the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Mykenischer Friedhof von Mazarakata",
+                "hu": "Mazarakata mükénéi temetője",
+                "ro": "Cimitirul Micenian din Mazarakata",
+                "en": "Mycenean Cemetery of Mazarakata"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Gräbern kann schlammig sein; parken Sie Ihr Rad auf festem Boden und gehen Sie vorsichtig zu Fuß weiter.",
+                "hu": "A sírokhoz vezető út sáros lehet; parkolja le a biciklit szilárd talajon, és óvatosan menjen tovább gyalog.",
+                "ro": "Calea spre morminte poate fi noroioasă; parcați bicicleta pe teren solid și continuați cu atenție pe jos.",
+                "en": "The path to the tombs can be muddy; park your bike on solid ground and walk carefully to the excavations."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich für eine winterliche Radtour warm an. Die Luft ist kühl, aber die Straßen sind leer und friedlich. Das morgendliche Amphitheater bietet klare Weitsichten. Mittags wärmen Sie sich im Kulturzentrum auf. Da es gegen 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung funktioniert, wenn Sie die mykenischen Ruinen bei Sonnenuntergang verlassen.",
+            "hu": "Öltözzön rétegesen a téli biciklitúrához. A levegő hűvös, de az utak üresek és békések. A reggeli amfiteátrum tiszta kilátást nyújt. Délben melegedjen fel a kulturális központban. Mivel 17:00 körül sötétedik, ellenőrizze a lámpákat, mielőtt a naplementében elhagyná a mükénéi romokat.",
+            "ro": "Îmbrăcați-vă gros pentru o tură de iarnă cu bicicleta. Aerul este rece, dar drumurile sunt libere. Amfiteatrul de dimineață oferă vederi clare. La prânz, încălziți-vă la centrul cultural. Deoarece se întunecă la 17:00, asigurați-vă că luminile bicicletei funcționează când plecați de la ruine.",
+            "en": "Layer up for a winter bike ride. The air is chilly, but the roads are empty and peaceful. The morning amphitheater offers clear panoramic views. Warm up at the cultural centre at midday. Since it gets dark around 17:00, ensure your bike lights are working when you leave the Mycenean ruins at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freiluft-Amphitheater Kallithea",
+                "hu": "Kallithea szabadtéri amfiteátrum",
+                "ro": "Amfiteatrul în aer liber Kallithea",
+                "en": "Kallithea Open-Air Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die majestätische Stille in der klaren Winterluft; das Amphitheater wirkt ohne die Sommertouristen noch größer.",
+                "hu": "Élvezze a fenséges csendet a tiszta téli levegőben; az amfiteátrum még nagyobbnak tűnik a nyári turisták nélkül.",
+                "ro": "Bucurați-vă de liniștea maiestuoasă în aerul curat de iarnă; amfiteatrul pare și mai mare fără turiști.",
+                "en": "Enjoy the majestic silence in the clear winter air; the amphitheater feels even grander without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Byrons Felsen",
+                "hu": "Byron sziklája",
+                "ro": "Stânca lui Byron",
+                "en": "Byron's Rock"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Stopp; der Wind kann hier scharf sein, lassen Sie also Ihre Handschuhe beim Erkunden an.",
+                "hu": "Rövid, frissítő megálló; a szél éles lehet itt, ezért hagyja magán a kesztyűt a felfedezés közben.",
+                "ro": "O oprire scurtă și revigorantă; vântul poate fi tăios aici, așa că păstrați-vă mănușile în timp ce explorați.",
+                "en": "A short, refreshing stop; the wind can be sharp here, so keep your gloves on while exploring the landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Ammes Strand",
+                "hu": "Ammes strand",
+                "ro": "Plaja Ammes",
+                "en": "Ammes Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer; ein friedlicher Ort, um die Wellen zu beobachten, bevor Sie kräftig weiterpedalieren.",
+                "hu": "A strand télen teljesen elhagyatott; békés hely a hullámok megfigyelésére, mielőtt újra erősen pedálozni kezdene.",
+                "ro": "Plaja este pustie iarna; un loc liniștit pentru a observa valurile înainte de a pedala din nou cu forță.",
+                "en": "The beach is deserted in winter; a peaceful spot to watch the waves before pedaling hard to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Ai Helis Strand",
+                "hu": "Ai Helis strand",
+                "ro": "Plaja Ai Helis",
+                "en": "Ai helis beach"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zurück wird Sie aufwärmen; genießen Sie den Blick auf die grünen Winterhügel von Kefalonia.",
+                "hu": "A visszaút felfelé felmelegíti majd; élvezze a kilátást Kefalónia zöldellő téli dombjaira a kerékpárról.",
+                "ro": "Urcarea înapoi vă va încălzi; bucurați-vă de vederea dealurilor verzi de iarnă ale Kefaloniei de pe bicicletă.",
+                "en": "The climb back up will warm you up quickly; enjoy the view of Kefalonia's lush green winter hills from the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergotis-Kulturzentrum",
+                "hu": "Vergotis Kulturális Központ",
+                "ro": "Centrul Cultural Vergotis",
+                "en": "Vergotis Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Eine willkommene Pause im Warmen; erfahren Sie mehr über die Kultur der Insel geschützt vor dem Winterwind.",
+                "hu": "Üdvözlendő pihenő a melegben; ismerje meg a sziget kultúráját a téli széltől védetten a falakon belül.",
+                "ro": "O pauză binevenită la căldură; aflați mai multe despre cultura insulei, protejat de vântul de iarnă.",
+                "en": "A welcome indoor break; learn about the island's rich culture while staying protected from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mykenischer Friedhof von Mazarakata",
+                "hu": "Mazarakata mükénéi temetője",
+                "ro": "Cimitirul Micenian din Mazarakata",
+                "en": "Mycenean Cemetery of Mazarakata"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen zur goldenen Stunde; die Stätte schließt im Winter oft früher, planen Sie also voraus.",
+                "hu": "Fedezze fel a romokat az aranyórában; a terület télen gyakran korábban zár, így tervezze meg előre az érkezést.",
+                "ro": "Explorați ruinele la ora de aur; situl se închide adesea mai devreme iarna, așa că planificați din timp vizita.",
+                "en": "Explore the ruins during the golden hour; the site often closes earlier in winter, so plan your arrival accordingly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje az autózást a Mazarakata sírok titkainak felfedezésével és Byron mellszobrának megcsodálásával. Délben a modern kultúra és a Kallitheas amfiteátrum fensége várja. Délután a parti kilátópontok és az Avithos békés vizei között ingázhat. Az este a Paliolinos strand eldugott naplementéjével csábít.",
         "ro": "Începeți plimbarea cu mașina explorând misterele mormintelor Mazarakata și admirând bustul lui Byron. Prânzul combină cultura la Centrul Vergotis cu grandoarea Amfiteatrului Kallitheas. După-amiaza săriți între punctele de belvedere de pe coastă și apele calme din Avithos. Seara vă invită la un apus retras pe plaja Paliolinos.",
         "en": "Start your drive exploring the mysteries of the Mazarakata tombs and admiring the Bust of Lord Byron. Midday combines modern culture at the Vergotis Centre with the grandeur of the Kallitheas Amphitheater. Afternoon sees you hopping between coastal viewpoints and the serene waters of Avithos. Evening invites you to a secluded sunset at Paliolinos beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Ntomata lässt sich am besten mit dem Auto bewältigen. Starten Sie bei den mykenischen Ruinen, wo Sie schnell Schutz finden. Mittags bietet das Kulturzentrum ein ausgedehntes Indoor-Programm. Die Fahrt entlang der Küste zu den Stränden ist sicher und trocken, und Sie können die dramatische Meeresansicht gemütlich aus dem Fenster genießen, bevor es dunkel wird.",
+            "hu": "Egy esős nap Ntomata környékén autóval a legkényelmesebb. Kezdjen a mükénéi romoknál, ahol gyorsan menedéket találhat. Délben a kulturális központ bőséges beltéri programot kínál. A tengerparti autózás biztonságos és száraz, a drámai tengeri kilátást pedig kényelmesen, az ablakból élvezheti, mielőtt beesteledik.",
+            "ro": "O zi ploioasă în Ntomata este cel mai bine parcursă cu mașina. Începeți la ruinele miceniene, unde puteți găsi rapid adăpost. La prânz, centrul cultural oferă un program interior bogat. Condusul de-a lungul coastei este sigur și uscat, iar priveliștea dramatică a mării poate fi admirată confortabil de la fereastră.",
+            "en": "A rainy day around Ntomata is most comfortably managed by car. Start at the Mycenean ruins, where you can find quick shelter. At noon, the cultural centre offers a substantial indoor experience. Driving along the coast to the beaches is safe and dry, and you can enjoy the dramatic sea views from your window before nightfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mykenischer Friedhof von Mazarakata",
+                "hu": "Mazarakata mükénéi temetője",
+                "ro": "Cimitirul Micenian din Mazarakata",
+                "en": "Mycenean Cemetery of Mazarakata"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um bei plötzlichen Schauern schnell wieder ins trockene Auto zu gelangen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy hirtelen zápor esetén gyorsan visszaérhessen a száraz autóhoz a romoktól.",
+                "ro": "Parcați aproape de intrare pentru a putea reveni rapid la mașina uscată în caz de aversă bruscă de ploaie.",
+                "en": "Park close to the entrance so you can quickly return to the dry car if a sudden heavy shower occurs."
+              }
+            },
+            {
+              "name": {
+                "de": "Büste von Lord Byron",
+                "hu": "Lord Byron mellszobra",
+                "ro": "Bustul lui Lord Byron",
+                "en": "Bust of Lord Byron"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp aus dem Auto heraus ist möglich, wenn der Regen für einen Spaziergang zu stark ist.",
+                "hu": "Rövid fotómegálló az autóból is lehetséges, ha az eső túl erős lenne egy hosszabb szabadtéri sétához.",
+                "ro": "O scurtă oprire foto este posibilă direct din mașină dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "A quick photo stop from the car is possible if the rain becomes too heavy for a walk around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergotis-Kulturzentrum",
+                "hu": "Vergotis Kulturális Központ",
+                "ro": "Centrul Cultural Vergotis",
+                "en": "Vergotis Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Auto zu parken und eine Stunde lang die Ausstellungen im Trockenen zu genießen.",
+                "hu": "Tökéletes hely az autó leparkolására és egy órányi kiállításnézésre, teljesen védve az esőtől és a széltől.",
+                "ro": "Locul perfect pentru a parca mașina și pentru a vă bucura de o oră de expoziții, la adăpost de ploaie.",
+                "en": "The perfect place to park the car and enjoy an hour of exhibits while staying completely sheltered from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Freiluft-Amphitheater Kallithea",
+                "hu": "Kallithea szabadtéri amfiteátrum",
+                "ro": "Amfiteatrul în aer liber Kallithea",
+                "en": "Anoikhto Amphitheatro <<Kallitheas>>"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Küste direkt vom Parkplatz aus, ohne nass zu werden.",
+                "hu": "Élvezze a tengerparti panorámát közvetlenül a parkolóból, anélkül, hogy ki kellene szállnia a szakadó esőbe.",
+                "ro": "Bucurați-vă de panorama de coastă direct din parcare, fără a fi nevoie să ieșiți în ploaia torențială.",
+                "en": "Enjoy the panoramic coastal views directly from the parking area without needing to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Byrons Felsen",
+                "hu": "Byron sziklája",
+                "ro": "Stânca lui Byron",
+                "en": "Byron's Rock"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf rutschigem Untergrund; betrachten Sie den Felsen kurz und fahren Sie dann weiter.",
+                "hu": "Vigyázzon a kiszállásnál a csúszós talajra; tekintse meg röviden a sziklát, majd folytassa az utat szárazon.",
+                "ro": "Atenție la coborârea din mașină pe terenul alunecos; priviți scurt stânca și continuați drumul la adăpost.",
+                "en": "Be careful when getting out of the car on the slippery ground; view the rock briefly and continue your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Ai Helis Strand",
+                "hu": "Ai Helis strand",
+                "ro": "Plaja Ai Helis",
+                "en": "Ai helis beach"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf die Bucht; die regnerische Stimmung macht die Küste sehr fotogen.",
+                "hu": "Az autóból remek kilátás nyílik az öbölre; az esős hangulat rendkívül fotogénné teszi a partvonalat.",
+                "ro": "Din mașină aveți o vedere excelentă spre golf; atmosfera ploioasă face coasta foarte fotogenică.",
+                "en": "You can get a great view of the bay from the car; the rainy mood makes the coastline very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Avithos Strand",
+                "hu": "Avithos strand",
+                "ro": "Plaja Avithos",
+                "en": "Avithos Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im warmen Auto und beobachten Sie, wie die Regentropfen auf das Meer treffen – ein beruhigender Anblick.",
+                "hu": "Maradjon a meleg autóban, és figyelje, ahogy az esőcseppek a tengerbe hullanak – megnyugtató látvány.",
+                "ro": "Rămâneți în mașina caldă și priviți cum picăturile de ploaie cad în mare – o vedere relaxantă.",
+                "en": "Stay in the warm car and watch the raindrops hitting the sea – a truly calming and beautiful sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Paliolinos Strand",
+                "hu": "Paliolinos strand",
+                "ro": "Plaja Paliolinos",
+                "en": "Paliolinos beach"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Strand kann bei starkem Regen rutschig sein; fahren Sie langsam und vorsichtig zum Parkplatz.",
+                "hu": "A strandhoz vezető út heves esőben csúszós lehet; hajtson lassan és óvatosan a parkoló felé.",
+                "ro": "Drumul spre plajă poate fi alunecos pe ploaie torențială; conduceți încet și cu atenție spre parcare.",
+                "en": "The road to the beach can be slippery in heavy rain; drive slowly and carefully towards the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Ntomata im Winter bequem mit dem Auto. Der Morgen beginnt bei den historischen Ruinen, gefolgt von einer wärmenden Pause im Kulturzentrum. Die leeren Küstenstraßen bieten atemberaubende Ausblicke ohne Parkplatznot. Da es bereits gegen 17:00 Uhr dunkel wird, können Sie die beleuchtete Dorfstraße am Abend für eine gemütliche Rückfahrt nutzen.",
+            "hu": "Fedezze fel Ntomata környékét télen kényelmesen, autóval. A reggel a történelmi romoknál indul, amit egy melegítő pihenő követ a kulturális központban. Az üres tengerparti utak lélegzetelállító kilátást nyújtanak parkolási gondok nélkül. Mivel 17:00 körül sötétedik, a kivilágított falusi utakat használhatja a hangulatos esti visszatéréshez.",
+            "ro": "Explorați Ntomata iarna confortabil cu mașina. Dimineața începe la ruinele istorice, urmată de o pauză de încălzire la centrul cultural. Drumurile pustii de coastă oferă vederi uimitoare fără grija parcării. Deoarece se întunecă la 17:00, puteți folosi străzile luminate ale satului pentru o întoarcere plăcută.",
+            "en": "Explore Ntomata in winter comfortably by car. Your morning starts at the historic ruins, followed by a warming break at the cultural centre. The empty coastal roads offer breathtaking views without any parking issues. Since it gets dark around 17:00, you can enjoy the illuminated village streets for a cozy evening drive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mykenischer Friedhof von Mazarakata",
+                "hu": "Mazarakata mükénéi temetője",
+                "ro": "Cimitirul Micenian din Mazarakata",
+                "en": "Mycenean Cemetery of Mazarakata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Besuch ohne die sommerlichen Menschenmassen; die kühle Luft macht das Erkunden der Gräber angenehm.",
+                "hu": "Élvezze a látogatást a nyári tömeg nélkül; a hűvös levegő kifejezetten kellemessé teszi a sírok felfedezését.",
+                "ro": "Bucurați-vă de vizită fără aglomerația de vară; aerul rece face explorarea mormintelor foarte plăcută.",
+                "en": "Enjoy the visit without the summer crowds; the cool winter air makes exploring the tombs much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Büste von Lord Byron",
+                "hu": "Lord Byron mellszobra",
+                "ro": "Bustul lui Lord Byron",
+                "en": "Bust of Lord Byron"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; die winterliche Klarheit lässt das Denkmal besonders imposant wirken.",
+                "hu": "Gyors megálló egy fotóra; a téli tisztaság az emlékművet különösen impozánssá és látványossá teszi.",
+                "ro": "O oprire rapidă pentru o fotografie; claritatea iernii face ca monumentul să pară deosebit de impunător.",
+                "en": "A quick stop for a photo; the winter clarity makes the monument look particularly imposing and impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Vergotis-Kulturzentrum",
+                "hu": "Vergotis Kulturális Központ",
+                "ro": "Centrul Cultural Vergotis",
+                "en": "Vergotis Cultural Centre"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich zwischen den Stationen aufzuwärmen und in die lokale Kunstszene einzutauchen.",
+                "hu": "Tökéletes hely a felmelegedésre az állomások között, miközben elmerül a helyi művészeti élet kincseiben.",
+                "ro": "Locul perfect pentru a vă încălzi între opriri în timp ce explorați scena artistică locală din interior.",
+                "en": "The perfect place to warm up between stops while immersing yourself in the local art scene and culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Freiluft-Amphitheater Kallithea",
+                "hu": "Kallithea szabadtéri amfiteátrum",
+                "ro": "Amfiteatrul în aer liber Kallithea",
+                "en": "Anoikhto Amphitheatro <<Kallitheas>>"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Meer im Winterlicht ist spektakulär; bringen Sie ein heißes Getränk im Auto mit.",
+                "hu": "A tengerre nyíló kilátás téli fényben látványos; hozzon magával egy forró italt az autóban a nézelődéshez.",
+                "ro": "Vederea spre mare în lumina iernii este spectaculoasă; aduceți o băutură caldă în mașină pentru drum.",
+                "en": "The sea view in the winter light is spectacular; bring a hot drink in the car to enjoy during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Byrons Felsen",
+                "hu": "Byron sziklája",
+                "ro": "Stânca lui Byron",
+                "en": "Byron's Rock"
+              },
+              "tip_5lang": {
+                "de": "Es kann windig sein; ein kurzer Spaziergang zur Aussichtsstelle genügt, bevor Sie zurück ins warme Auto steigen.",
+                "hu": "Szeles lehet az idő; egy rövid séta a kilátóponthoz elég, mielőtt visszaszállna a fűtött, meleg autóba.",
+                "ro": "Poate fi vântos; o scurtă plimbare până la punctul de observație este suficientă înainte de a reveni în mașină.",
+                "en": "It can be windy; a short walk to the viewpoint is enough before heading back to the warm car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Ai Helis Strand",
+                "hu": "Ai Helis strand",
+                "ro": "Plaja Ai Helis",
+                "en": "Ai helis beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das ruhige Wintermeer vom Parkplatz aus; die Abwesenheit von Menschen ist hier sehr entspannend.",
+                "hu": "Figyelje a nyugodt téli tengert a parkolóból; az emberek hiánya ilyenkor rendkívül pihentető és nyugodt.",
+                "ro": "Observați marea liniștită de iarnă din parcare; absența mulțimii este foarte relaxantă în acest sezon.",
+                "en": "Observe the calm winter sea from the parking area; the absence of crowds is very relaxing during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Avithos Strand",
+                "hu": "Avithos strand",
+                "ro": "Plaja Avithos",
+                "en": "Avithos Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen, erfrischenden Spaziergang am Wasser und genießen Sie die kühle, saubere Winterbrise.",
+                "hu": "Tegyen egy rövid, frissítő sétát a vízparton, és élvezze a hűvös, tiszta téli tengeri szellőt.",
+                "ro": "Faceți o scurtă plimbare revigorantă pe malul apei și bucurați-vă de briza rece și curată de iarnă.",
+                "en": "Take a short, refreshing walk by the water and enjoy the cool, clean winter sea breeze on your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Paliolinos Strand",
+                "hu": "Paliolinos strand",
+                "ro": "Plaja Paliolinos",
+                "en": "Paliolinos beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um die letzten Sonnenstrahlen über dem Horizont zu sehen, bevor es dunkel wird.",
+                "hu": "Érkezzen 16:45 előtt, hogy lássa az utolsó napsugarakat a horizont felett, mielőtt teljesen besötétedne.",
+                "ro": "Sosiți înainte de ora 16:45 pentru a vedea ultimele raze de soare peste orizont înainte de lăsarea serii.",
+                "en": "Arrive before 16:45 to catch the last rays of sun over the horizon before the early winter darkness falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

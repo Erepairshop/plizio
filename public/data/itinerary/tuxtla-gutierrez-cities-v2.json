@@ -160,6 +160,196 @@
         "hu": "A reggel a város lüktető szívében indul, ahol a helyi büszkeséget hirdető, lenyűgöző történelmi emlékműveket fedezheti fel. Egy rövid séta után elérkezik az ikonikus Marimba Múzeumhoz, ahol a régió zenei lelke igazán életre kel.\n\nDél közeledtével felfedezheti az impresszív regionális múzeumban őrzött prekolumbián leleteket. A nevezetességek közötti árnyékos ösvények kellemes felüdülést nyújtanak a trópusi melegben.\n\nA délután folyamán megcsodálhatja a városi színház letisztult, modern építészetét. Kényelmes sétáját folytatva elmerülhet a helyiek mindennapi életének nyüzsgő, mégis békés atmoszférájában.\n\nA nap egy családbarát parkban zárul, ahol a gyermekek nevetése és a színes árusok standjai vidám hangulatot teremtenek. Tökéletes helyszín a pihenésre és egy tartalmas városi séta lezárására.",
         "ro": "Dimineața dumneavoastră începe în inima vibrantă a orașului, explorând monumente istorice grandioase care celebrează mândria locală. O scurtă plimbare vă conduce apoi la emblematicul Muzeu Marimba, unde sufletul muzical prinde viață.\n\nSpre prânz, veți descoperi artefactele coloniale și precolumbiene păstrate în impresionantul muzeu regional. Aleile umbrite dintre atracții oferă un răgaz binevenit de la căldura tropicală.\n\nDupă-amiaza vă invită să apreciați arhitectura elegantă a teatrului orașului, un far al culturii moderne. Continuându-vă plimbarea relaxantă, vă veți bucura de atmosfera plină de viață a localnicilor.\n\nZiua dumneavoastră se încheie frumos într-un parc plin de viață, unde râsetele copiilor și tarabele vânzătorilor creează o scenă veselă. Este locul perfect pentru a vă relaxa după o explorare urbană.",
         "en": "Your morning begins in the vibrant heart of the city, exploring grand historical monuments that celebrate local pride. A short stroll then leads you to the iconic Marimba Museum, where the region's musical soul truly comes alive.\n\nAs midday approaches, you will discover the intricate colonial and pre-Columbian artifacts safely preserved inside the impressive regional museum. The shaded pathways between landmarks offer a welcome respite from the tropical warmth.\n\nThe afternoon invites you to appreciate the sleek architecture of the city theater, a beacon of modern culture. Continuing your leisurely walk, you will soak in the lively atmosphere as locals go about their daily routines.\n\nYour day concludes beautifully in a family-friendly park where the laughter of children and vibrant vendor stalls create a joyful scene. It is the perfect spot to sit back, relax, and reflect on a fulfilling day of urban exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen unter den Arkaden des Parks, da plötzliche Schauer typisch sind. Mittags bieten die Museen trockene Zuflucht und faszinierende Einblicke. Am Nachmittag ist der Regen oft am stärksten, bleiben Sie in den Galerien. Abends kühlt die Luft angenehm ab, aber achten Sie auf rutschige Gehwege und Pfützen in den Parks, während Sie den Tag sicher in überdachten Bereichen ausklingen lassen.",
+            "hu": "Kezdje a reggelt az árkádok alatt, az eső Tuxtla utcáin gyorsan érkezik, így érdemes a múzeumok fedezékébe húzódni. Délben a Marimba Múzeum fa hangszerei mellett várja meg az égi áldást. Délután a Regionális Múzeum tágas terei nyújtanak száraz menedéket. Estére az eső gyakran csendesedik, de a parkokban vigyázzon a csúszós utakra és a mély tócsákra a látogatás során.",
+            "ro": "Începeți dimineața sub arcadele parcului, deoarece ploile bruște sunt frecvente. La prânz, muzeele oferă un refugiu uscat și perspective fascinante. După-amiaza, când ploaia este de obicei mai intensă, rămâneți în galerii. Seara, aerul se răcește plăcut, dar aveți grijă la trotuarele alunecoase și la bălțile din parcuri, în timp ce încheiați ziua în siguranță în zonele acoperite.",
+            "en": "Start your morning under the park's arcades, as sudden showers are common in Tuxtla. At noon, the museums provide a dry refuge and fascinating cultural insights. In the afternoon, when the rain is usually heaviest, stay inside the galleries. In the evening, the air cools down pleasantly, but watch out for slippery pavements and puddles in the parks as you finish your walk safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento Parque Bicentenario",
+                "hu": "Monumento Parque Bicentenario",
+                "ro": "Monumento Parque Bicentenario",
+                "en": "Monumento Parque Bicentenario"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Torbögen als Schutz vor plötzlichen Güssen; die Steinböden können bei Nässe extrem rutschig werden, tragen Sie festes Schuhwerk.",
+                "hu": "Használja az íveket menedékként a hirtelen zivatarok elől; a kőburkolat vizesen rendkívül csúszós lehet, ügyeljen a biztonságos léptekre a séta alatt.",
+                "ro": "Folosiți arcadele ca adăpost împotriva averselor bruște; pavajul de piatră poate deveni extrem de alunecos când este ud, purtați încălțăminte aderentă.",
+                "en": "Use the archways as shelter from sudden downpours; the stone floors can become extremely slippery when wet, so wear shoes with good grip today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo De La Marimba",
+                "hu": "Museo De La Marimba",
+                "ro": "Museo De La Marimba",
+                "en": "Museo De La Marimba"
+              },
+              "tip_4lang": {
+                "de": "Ein perfekter Zufluchtsort bei Regen; lauschen Sie den warmen Klängen der Marimba, während draußen der Tropenregen lautstark auf das Dach trommelt.",
+                "hu": "Tökéletes menedék esőben; hallgassa a marimba meleg hangjait, miközben kint a trópusi eső hangosan kopog a tetőn, élvezze a száraz, akusztikus élményt.",
+                "ro": "Un refugiu perfect pe ploaie; ascultați sunetele calde ale marimbei în timp ce ploaia tropicală bate zgomotos pe acoperiș, oferind o ambianță unică.",
+                "en": "A perfect refuge during rain; listen to the warm sounds of the marimba while the tropical rain drums loudly on the roof, providing a unique ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "La Piedra Sabia",
+                "hu": "La Piedra Sabia",
+                "ro": "La Piedra Sabia",
+                "en": "La Piedra Sabia"
+              },
+              "tip_4lang": {
+                "de": "Halten Sie sich unter den dichten Bäumen am Denkmal auf, um trocken zu bleiben; die umliegenden Erdpfade können bei Regen schnell sehr schlammig werden.",
+                "hu": "Húzódjon az emlékmű melletti sűrű lombok alá, hogy száraz maradjon; a környező földutak esőben gyorsan sárossá válhatnak, kerülje a mély tócsákat.",
+                "ro": "Stați sub frunzișul dens de lângă monument pentru a rămâne uscat; potecile de pământ din jur pot deveni rapid noroioase, evitați zonele neasfaltate.",
+                "en": "Stay under the dense foliage near the monument to keep dry; the surrounding dirt paths can quickly become muddy, so stick to the paved sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Chiapas",
+                "hu": "Museo Regional de Chiapas",
+                "ro": "Museo Regional de Chiapas",
+                "en": "Museo Regional de Chiapas"
+              },
+              "tip_4lang": {
+                "de": "Die weitläufigen Innenräume sind ideal, um den stärksten Nachmittagsregen zu überbrücken; bewundern Sie Maya-Schätze im Trockenen und Warmen.",
+                "hu": "A tágas belső terek ideálisak a legerősebb délutáni eső átvészelésére; csodálja meg a maja kincseket szárazon és melegben a kiállítótermekben.",
+                "ro": "Interioarele spațioase sunt ideale pentru a aștepta trecerea celei mai puternice ploi de după-amiază; admirați comorile mayașe la adăpost și căldură.",
+                "en": "The spacious interiors are ideal for waiting out the heaviest afternoon rain; admire the Mayan treasures in the dry comfort of the exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Ciudad \"Emilio Rabasa\"",
+                "hu": "Teatro de la Ciudad \"Emilio Rabasa\"",
+                "ro": "Teatro de la Ciudad \"Emilio Rabasa\"",
+                "en": "Teatro de la Ciudad \"Emilio Rabasa\""
+              },
+              "tip_4lang": {
+                "de": "Das große Vordach bietet hervorragenden Schutz; prüfen Sie das Abendprogramm im Foyer, während Sie auf eine Regenpause für den weiteren Weg warten.",
+                "hu": "A hatalmas előtető kiváló védelmet nyújt; ellenőrizze az esti műsort az előtérben, amíg az eső elcsendesedik a továbbhaladáshoz, maradjon szárazon.",
+                "ro": "Copertina uriașă oferă o protecție excelentă; verificați programul de seară în foaier în timp ce așteptați o pauză în ploaie pentru a continua.",
+                "en": "The huge canopy offers excellent protection; check the evening schedule in the foyer while waiting for a break in the rain to continue your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque convivencia infantil",
+                "hu": "Parque convivencia infantil",
+                "ro": "Parque convivencia infantil",
+                "en": "Parque convivencia infantil"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie die überdachten Pavillons auf; der Park wirkt im Regen sehr mystisch, aber die Wege zum Ausgang können teilweise unter Wasser stehen.",
+                "hu": "Keresse fel a fedett pavilonokat; a park esőben misztikus hangulatú, de a kijárathoz vezető utak helyenként víz alá kerülhetnek, figyeljen a lába elé.",
+                "ro": "Căutați pavilioanele acoperite; parcul are o atmosferă mistică pe ploaie, dar potecile spre ieșire pot fi parțial inundate, mergeți cu mare grijă.",
+                "en": "Seek out the covered pavilions; the park has a mystical atmosphere in the rain, but paths to the exit may be partially flooded, so watch your step."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen ist perfekt für einen ausgiebigen Spaziergang, eine leichte Jacke ist jedoch ratsam. Mittags sorgt die milde Sonne für angenehme Wärme in den Parks. Am Nachmittag sinkt die Sonne tiefer und wirft lange, fotogene Schatten auf die Architektur. Da es bereits gegen 17:00 Uhr dunkel wird, endet der Tag in der gemütlich beleuchteten Atmosphäre des letzten Stopps.",
+            "hu": "A hűvös téli reggel ideális egy kiadós sétához, de egy könnyű dzseki ajánlott. Délben a lágy napsütés kellemes meleget ad a parkokban, élvezze a friss levegőt. Délután a nap alacsonyabban jár, hosszú, fotogén árnyékokat vetve az épületekre. Mivel 17:00 körül sötétedik, a napot már a park meghitt, esti fényeiben fejezheti be az utolsó állomáson.",
+            "ro": "Dimineața răcoroasă de iarnă este perfectă pentru o plimbare lungă, dar o jachetă ușoară este recomandată. La prânz, soarele blând oferă o căldură plăcută în parcuri. După-amiaza, soarele coboară, aruncând umbre lungi și fotogenice pe clădiri. Deoarece se întunecă în jur de ora 17:00, ziua se încheie în atmosfera luminată primitor a ultimei opriri.",
+            "en": "The cool winter morning is perfect for a long walk, but a light jacket is recommended. At noon, the mild sun provides pleasant warmth in the parks. In the afternoon, the sun sits lower, casting long, photogenic shadows on the architecture. Since it gets dark around 17:00, your day will end in the cozy, illuminated atmosphere of the final park stop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento Parque Bicentenario",
+                "hu": "Monumento Parque Bicentenario",
+                "ro": "Monumento Parque Bicentenario",
+                "en": "Monumento Parque Bicentenario"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Winterluft am Morgen; das weiche Licht betont die architektonischen Details des Denkmals besonders schön für Fotos.",
+                "hu": "Élvezze a tiszta reggeli téli levegőt; a lágy fények gyönyörűen kiemelik az emlékmű építészeti részleteit, ideális időpont a fényképezéshez.",
+                "ro": "Bucurați-vă de aerul curat de iarnă de dimineață; lumina blândă scoate în evidență detaliile arhitecturale ale monumentului, perfect pentru poze.",
+                "en": "Enjoy the crisp morning winter air; the soft light beautifully highlights the monument's architectural details, making it a perfect time for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo De La Marimba",
+                "hu": "Museo De La Marimba",
+                "ro": "Museo De La Marimba",
+                "en": "Museo De La Marimba"
+              },
+              "tip_4lang": {
+                "de": "Die hölzerne Akustik wirkt an kühleren Wintertagen besonders einladend; ein warmer Kaffee im Café gegenüber rundet den Museumsbesuch perfekt ab.",
+                "hu": "A fa hangszerek akusztikája különösen hívogató a hűvösebb téli napokon; egy meleg kávé a szemközti kávézóban tökéletesen kiegészíti a látogatást.",
+                "ro": "Acustica lemnului este deosebit de primitoare în zilele răcoroase de iarnă; o cafea caldă la cafeneaua de peste drum completează perfect vizita.",
+                "en": "The wooden acoustics feel especially inviting on cooler winter days; a warm coffee at the café across the street perfectly complements your museum visit."
+              }
+            },
+            {
+              "name": {
+                "de": "La Piedra Sabia",
+                "hu": "La Piedra Sabia",
+                "ro": "La Piedra Sabia",
+                "en": "La Piedra Sabia"
+              },
+              "tip_4lang": {
+                "de": "Der klare Winterhimmel bietet von hier aus eine exzellente Sicht auf die umliegenden Hügel; nutzen Sie die Mittagssonne für eine kurze Ruhepause.",
+                "hu": "A tiszta téli égbolt kiváló kilátást nyújt innen a környező dombokra; használja ki a déli napsütést egy rövid pihenőre az emlékmű mellett.",
+                "ro": "Cerul senin de iarnă oferă o vedere excelentă spre dealurile din jur; profitați de soarele de la prânz pentru o scurtă pauză lângă monument.",
+                "en": "The clear winter sky offers excellent views of the surrounding hills from here; take advantage of the midday sun for a short rest by the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Chiapas",
+                "hu": "Museo Regional de Chiapas",
+                "ro": "Museo Regional de Chiapas",
+                "en": "Museo Regional de Chiapas"
+              },
+              "tip_4lang": {
+                "de": "Die milden Temperaturen machen den Spaziergang durch den umliegenden botanischen Garten des Museums auch im Winter zu einem wahren Vergnügen.",
+                "hu": "Az enyhe hőmérséklet a múzeum körüli botanikus kertben tett sétát télen is igazi élménnyé teszi; a növényzet ilyenkor is buja és látványos.",
+                "ro": "Temperaturile blânde fac din plimbarea prin grădina botanică a muzeului o adevărată plăcere chiar și iarna; vegetația rămâne verde și bogată.",
+                "en": "The mild temperatures make strolling through the museum's surrounding botanical garden a true pleasure even in winter; the greenery remains lush."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la Ciudad \"Emilio Rabasa\"",
+                "hu": "Teatro de la Ciudad \"Emilio Rabasa\"",
+                "ro": "Teatro de la Ciudad \"Emilio Rabasa\"",
+                "en": "Teatro de la Ciudad \"Emilio Rabasa\""
+              },
+              "tip_4lang": {
+                "de": "Am späten Nachmittag erstrahlt die moderne Fassade im warmen Gold der tiefstehenden Wintersonne; ein idealer Moment für Architekturaufnahmen.",
+                "hu": "Késő délután a modern homlokzat az alacsonyan járó téli nap arany fényében tündököl; tökéletes pillanat az építészeti fotók készítéséhez.",
+                "ro": "După-amiaza târziu, fațada modernă strălucește în lumina aurie a soarelui de iarnă; este un moment ideal pentru fotografii de arhitectură.",
+                "en": "In the late afternoon, the modern facade glows in the golden light of the low winter sun; it is an ideal moment for stunning architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque convivencia infantil",
+                "hu": "Parque convivencia infantil",
+                "ro": "Parque convivencia infantil",
+                "en": "Parque convivencia infantil"
+              },
+              "tip_4lang": {
+                "de": "Da die Dämmerung gegen 17:00 Uhr einsetzt, ist dies der beste Ort, um die beleuchtete Abendstimmung zu genießen; halten Sie eine warme Jacke bereit.",
+                "hu": "Mivel a szürkület 17:00 körül kezdődik, ez a legjobb hely a kivilágított esti hangulat élvezéséhez; legyen kéznél egy meleg kabát a lehűléshez.",
+                "ro": "Deoarece amurgul începe în jur de ora 17:00, acesta este cel mai bun loc pentru a savura atmosfera serii; aveți o jachetă caldă la îndemână.",
+                "en": "Since dusk begins around 17:00, this is the best place to enjoy the illuminated evening atmosphere; have a warm jacket ready as it cools down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a tekerést a szolidaritást jelképező monumentális szobornál, mielőtt a széles sugárutakon a városközpont felé venné az irányt. Tuxtla reggeli energiája a kerékpár nyergéből tapasztalható meg a legjobban.\n\nDél körül hatalmas zászlók és történelmi terek mellett halad el, amelyek az állam polgári identitásának alapjai. Az útvonal zökkenőmentesen ötvözi a város monumentális léptékét a könnyen megközelíthető kulturális megállókkal.\n\nDélután tartson szünetet, hogy elmerüljön a főbb múzeumok lenyűgöző kiállításaiban. Ez a jól időzített kulturális feltöltődés megtöri a fizikai aktivitást, miközben gazdagítja Chiapasról szerzett ismereteit.\n\nA kerékpáros utazás egy kiemelkedő oktatási központ közelében ér véget, a központi kerület szélén. Itt élvezheti a hűsítő esti szellőt és egy frissítő helyi italt egy igazán aktív és inspiráló nap után.",
         "ro": "Începeți cursa la o sculptură monumentală care simbolizează solidaritatea, înainte de a pedala de-a lungul bulevardelor largi spre centrul orașului. Energia matinală a orașului Tuxtla este experimentată perfect din șaua unei biciclete.\n\nPână la prânz, veți pedala pe lângă steaguri uriașe și piețe istorice care ancorează identitatea civică a statului. Traseul dumneavoastră îmbină perfect scara monumentală a orașului cu opriri culturale ușor accesibile.\n\nDupă-amiaza, faceți o pauză pentru a vă adânci în expozițiile fascinante ale principalelor muzee. Această imersiune culturală bine ritmată întrerupe activitatea fizică, îmbogățindu-vă în același timp înțelegerea statului Chiapas.\n\nCălătoria cu bicicleta se încheie în apropierea unui auditorium proeminent la marginea districtului central. Aici, vă puteți bucura de briza răcoroasă a serii și de o băutură locală răcoritoare după o zi cu adevărat activă.",
         "en": "Start your ride at a monumental sculpture symbolizing solidarity before cruising along the wide avenues towards the city center. The morning energy of Tuxtla is perfectly experienced from the saddle of a bicycle.\n\nBy midday, you will pedal past soaring flags and historic plazas that anchor the civic identity of the state. Your route seamlessly blends the city's monumental scale with easily accessible, bike-friendly cultural stops.\n\nIn the afternoon, pause your ride to delve into the fascinating exhibitions of the main museums. This well-paced cultural immersion breaks up the physical activity while enriching your understanding of Chiapas.\n\nThe cycling journey winds down near a prominent educational auditorium on the edge of the central district. Here, you can enjoy the cooling evening breeze and a refreshing local drink after a truly active and inspiring day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf dem glatten Asphalt von Tuxtla. Starten Sie vorsichtig am Morgen und nutzen Sie die Museen für Pausen. Mittags sind die Schauer oft heftig, suchen Sie Schutz unter Brücken oder Dächern. Nachmittags ist die Sicht eingeschränkt, tragen Sie reflektierende Kleidung. Abends beruhigt sich das Wetter meist, aber achten Sie weiterhin auf tiefe Pfützen.",
+            "hu": "A reggeli gurulásnál ügyeljen a vizes aszfaltra, a bicikli fékútja jelentősen megnőhet a csapadékos időben. Délben keressen fedett tárolót, és látogasson el a kiállításokra, amíg a zápor elvonul. Délután a látótávolság csökkenhet, viseljen feltűnő ruházatot. Az esti órákra a sárvizek elkerülése a cél, használjon sárvédőt és világítást a biztonságos közlekedéshez.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe asfaltul alunecos din Tuxtla. Începeți cu grijă dimineața și folosiți muzeele pentru pauze. La prânz, aversele sunt adesea violente, căutați adăpost sub poduri sau acoperișuri. După-amiaza vizibilitatea este redusă, purtați haine reflectorizante. Seara vremea se liniștește, dar fiți atenți în continuare la bălțile adânci.",
+            "en": "Cycling in the rain requires caution on Tuxtla's slippery asphalt. Start carefully in the morning and use museum stops for breaks. At noon, showers are often heavy, so seek shelter under bridges or roofs. In the afternoon, visibility is reduced, so wear reflective clothing. In the evening, the weather usually settles, but stay alert for deep puddles and wet patches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antorcha de la Solidaridad",
+                "hu": "Antorcha de la Solidaridad",
+                "ro": "Antorcha de la Solidaridad",
+                "en": "Antorcha de la Solidaridad"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die Metalloberflächen rund um das Denkmal können bei Nässe spiegelglatt sein, fahren Sie hier besonders langsam.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; az emlékmű körüli fém és kőfelületek vizesen tükörsimák lehetnek, itt haladjon különösen lassan és óvatosan.",
+                "ro": "Verificați frânele înainte de plecare; suprafețele metalice din jurul monumentului pot fi extrem de alunecoase pe ploaie, circulați cu viteză redusă.",
+                "en": "Check your brakes before starting; the metal and stone surfaces around the monument can be mirror-smooth when wet, so cycle very slowly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandera Monumental",
+                "hu": "Bandera Monumental",
+                "ro": "Bandera Monumental",
+                "en": "Bandera Monumental"
+              },
+              "tip_4lang": {
+                "de": "Der Anstieg ist bei Regen rutschig; achten Sie auf die Fahrbahnmarkierungen, die bei Nässe extrem glatt werden, und halten Sie den Lenker fest im Griff.",
+                "hu": "Az emelkedő esőben csúszós; ügyeljen az útburkolati jelekre, amelyek vizesen rendkívül síkosak, tartsa stabilan a kormányt a felfelé úton.",
+                "ro": "Urcarea este alunecoasă pe ploaie; aveți grijă la marcajele rutiere care devin extrem de sicose când sunt ude și țineți ghidonul ferm la urcare.",
+                "en": "The climb is slippery in the rain; watch out for road markings which become extremely slick when wet, and keep a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Parque Bicentenario",
+                "hu": "Monumento Parque Bicentenario",
+                "ro": "Monumento Parque Bicentenario",
+                "en": "Monumento Parque Bicentenario"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer unter den Arkaden Schutz; stellen Sie Ihr Rad an einem trockenen Ort ab, um Rost an der Kette zu vermeiden.",
+                "hu": "Hirtelen zápor esetén keressen menedéket az árkádok alatt; állítsa le a kerékpárt száraz helyen, hogy elkerülje a lánc rozsdásodását a nagy esőben.",
+                "ro": "În caz de aversă bruscă, căutați adăpost sub arcade; lăsați bicicleta într-un loc uscat pentru a evita ruginirea lanțului din cauza umezelii mari.",
+                "en": "In case of a sudden shower, seek shelter under the arches; park your bike in a dry spot to prevent the chain from rusting during the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo De La Marimba",
+                "hu": "Museo De La Marimba",
+                "ro": "Museo De La Marimba",
+                "en": "Museo De La Marimba"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch als längere Pause, bis der Regen nachlässt; die Umgebung bietet gute überdachte Abstellmöglichkeiten für Ihr Fahrrad.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb pihenőre, amíg az eső csendesedik; a környéken jó fedett tárolási lehetőségek vannak a kerékpárnak.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză mai lungă până când ploaia se potolește; zona oferă bune posibilități de parcare acoperită pentru bicicletă.",
+                "en": "Use the museum visit for a longer break until the rain eases; the area offers good covered parking options for your bike to stay relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Chiapas",
+                "hu": "Museo Regional de Chiapas",
+                "ro": "Museo Regional de Chiapas",
+                "en": "Museo Regional de Chiapas"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf dem Weg hierher auf Aquaplaning in den Kurven; im Museumsbereich können Sie sich aufwärmen und Ihre Regenbekleidung kurz trocknen.",
+                "hu": "Idevezető úton ügyeljen a kanyarokban a vízenfutásra; a múzeumban felmelegedhet és rövid időre megszáríthatja esővédő ruházatát a nézelődés alatt.",
+                "ro": "Pe drumul spre muzeu, aveți grijă la acvaplanare în curbe; în interior vă puteți încălzi și vă puteți usca puțin echipamentul de ploaie.",
+                "en": "Watch out for aquaplaning in the corners on your way here; inside the museum, you can warm up and briefly dry your rain gear while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio del Colegio de Bachilleres",
+                "hu": "Auditorio del Colegio de Bachilleres",
+                "ro": "Auditorio del Colegio de Bachilleres",
+                "en": "Auditorio del Colegio de Bachilleres"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung für die Rückfahrt im Regen funktioniert; die Straßen sind bei Dunkelheit und Nässe schwerer einzuschätzen.",
+                "hu": "Győződjön meg róla, hogy a világítás megfelelően működik az esős visszauton; a sötét és vizes utak nehezebben beláthatóak, legyen óvatos az úton.",
+                "ro": "Asigurați-vă că luminile funcționează corect pentru drumul de întoarcere pe ploaie; drumurile ude și întunecate sunt mult mai greu de anticipat.",
+                "en": "Ensure your lights are working correctly for the ride back in the rain; dark and wet roads are harder to navigate, so be extra careful on the way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgende in Tuxtla sind frisch, perfekt für den Anstieg zur Flagge. Tragen Sie winddichte Kleidung für die Abfahrten. Mittags ist das Wetter ideal zum Radfahren, ohne die extreme Sommerhitze. Am Nachmittag genießen Sie die klare Sicht, aber achten Sie auf den tieferen Sonnenstand. Da es um 17:00 Uhr dunkel wird, planen Sie Ihre Rückfahrt mit funktionierendem Licht ein.",
+            "hu": "A téli reggeleken a menetszél hűvös lehet, réteges öltözködéssel vágjon neki az emlékművek felfedezésének. Délben a tiszta égbolt alatt kényelmesen tekerhet, nincs nyári hőség. Délután a nap alacsonyan jár, vigyázzon a szemébe tűző fénnyel a kerékpárúton. Mivel 17:00-kor már sötétedik, győződjön meg róla, hogy a lámpák megfelelően működnek a hazaúton.",
+            "ro": "Diminețile de iarnă sunt răcoroase, perfecte pentru urcarea spre steag. Purtați haine rezistente la vânt pentru coborâri. La prânz, vremea este ideală pentru ciclism, fără căldura extremă de vară. După-amiaza bucurați-vă de vizibilitatea clară, dar atenție la soarele jos. Deoarece se întunecă la 17:00, planificați drumul de întoarcere cu luminile aprinse.",
+            "en": "Winter mornings in Tuxtla are fresh, perfect for the climb to the flag. Wear windproof layers for the descents. At noon, the weather is ideal for cycling without the summer heat. In the afternoon, enjoy the clear views but watch out for the low sun glare. Since it gets dark by 17:00, ensure your bike lights are working for the final leg of your journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antorcha de la Solidaridad",
+                "hu": "Antorcha de la Solidaridad",
+                "ro": "Antorcha de la Solidaridad",
+                "en": "Antorcha de la Solidaridad"
+              },
+              "tip_4lang": {
+                "de": "Der morgendliche Fahrtwind kann recht kühl sein; tragen Sie Handschuhe und eine leichte Jacke, während Sie dieses Wahrzeichen am Morgen besuchen.",
+                "hu": "A reggeli menetszél meglepően hűvös lehet; viseljen kesztyűt és egy könnyű dzsekit, miközben reggel meglátogatja ezt a jellegzetes emlékművet.",
+                "ro": "Vântul de dimineață poate fi destul de rece; purtați mănuși și o jachetă ușoară în timp ce vizitați acest monument emblematic la prima oră.",
+                "en": "The morning wind while riding can be quite chilly; wear gloves and a light jacket while visiting this landmark monument in the early hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Bandera Monumental",
+                "hu": "Bandera Monumental",
+                "ro": "Bandera Monumental",
+                "en": "Bandera Monumental"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die kühleren Temperaturen für den steilen Anstieg; oben angekommen bietet die klare Winterluft eine unvergleichliche Fernsicht über die Stadt.",
+                "hu": "Használja ki a hűvösebb időt a meredek emelkedőhöz; felérve a tiszta téli levegő páratlan kilátást biztosít a városra, érdemes megállni egy fotóra.",
+                "ro": "Profitați de temperaturile mai scăzute pentru urcarea abruptă; odată ajuns sus, aerul curat oferă o vizibilitate de neegalat asupra orașului.",
+                "en": "Take advantage of the cooler temperatures for the steep climb; once at the top, the clear winter air provides unparalleled views over the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Parque Bicentenario",
+                "hu": "Monumento Parque Bicentenario",
+                "ro": "Monumento Parque Bicentenario",
+                "en": "Monumento Parque Bicentenario"
+              },
+              "tip_4lang": {
+                "de": "Die Mittagssonne wärmt angenehm, ohne zu brennen; ein idealer Ort für eine Pause auf Ihrer Radtour, bevor es weiter durch das Stadtzentrum geht.",
+                "hu": "A déli napsütés kellemesen melegít, de nem éget; ideális hely egy pihenőre a kerékpártúra alatt, mielőtt továbbhaladna a városközpont irányába.",
+                "ro": "Soarele de la prânz încălzește plăcut fără să ardă; este un loc ideal pentru o pauză în tura cu bicicleta înainte de a continua prin centrul orașului.",
+                "en": "The midday sun warms you pleasantly without burning; it's an ideal spot for a break during your bike tour before heading further into the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo De La Marimba",
+                "hu": "Museo De La Marimba",
+                "ro": "Museo De La Marimba",
+                "en": "Museo De La Marimba"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad in der Sonne, damit der Sattel nicht zu stark auskühlt; genießen Sie die warme, hölzerne Atmosphäre des Museums als Kontrast.",
+                "hu": "Parkolja a kerékpárt napsütötte helyen, hogy a nyereg ne hűljön ki túlságosan; élvezze a múzeum meleg, fás atmoszféráját a kinti hűvösebb szél után.",
+                "ro": "Parcați bicicleta la soare pentru ca șaua să nu se răcească prea tare; savurați atmosfera caldă din muzeu ca un contrast plăcut față de vânt.",
+                "en": "Park your bike in a sunny spot so the seat doesn't get too cold; enjoy the warm, wooden atmosphere of the museum as a contrast to the cool wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Chiapas",
+                "hu": "Museo Regional de Chiapas",
+                "ro": "Museo Regional de Chiapas",
+                "en": "Museo Regional de Chiapas"
+              },
+              "tip_4lang": {
+                "de": "Der Parkweg zum Museum ist im Winter besonders angenehm zu befahren; die niedrige Luftfeuchtigkeit macht die körperliche Anstrengung viel leichter.",
+                "hu": "A múzeumhoz vezető erdei út télen különösen kellemes kerékpárral; az alacsony páratartalom sokkal könnyebbé teszi a fizikai megterhelést a felfelé úton.",
+                "ro": "Poteca spre muzeu este deosebit de plăcută de parcurs cu bicicleta iarna; umiditatea scăzută face efortul fizic mult mai ușor de suportat la urcare.",
+                "en": "The park path to the museum is especially pleasant to cycle in winter; the low humidity makes the physical exertion feel much lighter on the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio del Colegio de Bachilleres",
+                "hu": "Auditorio del Colegio de Bachilleres",
+                "ro": "Auditorio del Colegio de Bachilleres",
+                "en": "Auditorio del Colegio de Bachilleres"
+              },
+              "tip_4lang": {
+                "de": "Da es um 17:00 Uhr dunkel wird, schalten Sie rechtzeitig das Licht ein; die kühle Abendluft erfordert für die Rückfahrt eine zusätzliche Kleidungsschicht.",
+                "hu": "Mivel 17:00-kor sötétedik, időben kapcsolja be a világítást; a hűvös esti levegő miatt a hazaúthoz szüksége lesz egy plusz réteg ruhára a szél ellen.",
+                "ro": "Deoarece se întunecă la ora 17:00, aprindeți luminile din timp; aerul răcoros de seară va necesita un strat suplimentar de haine pentru retur.",
+                "en": "Since it gets dark by 17:00, turn on your lights in time; the cool evening air will require an extra layer of clothing for the final ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A festői autózás a magasan fekvő kilátópontoknál kezdődik, ahonnan lélegzetelállító panoráma nyílik a kiterjedt Tuxtla-völgyre. A friss reggeli levegő és a tágas kilátás felejthetetlen bevezetést nyújt a helyi földrajzba.\n\nA városmagba ereszkedve a délidőt a mélyen gyökerező történelem és a dallamos hagyományok felfedezésének szenteljük a kiemelkedő múzeumokban. Az autó lehetővé teszi a zökkenőmentes átmenetet a természetből a kultúrába.\n\nA délután beköszöntével járműve dél felé viszi Önt, hogy megcsodálja Copoya Krisztusának hatalmas emlékművét. Az utazás tökéletesen összeköti a nyüzsgő városi környezetet a békés, magasan fekvő spirituális hellyel.\n\nA kaland egy kiterjedt látogatással éri el csúcspontját a világhírű regionális állatkertben, amely egy buja természetvédelmi területen fekszik. A napot egzotikus vadon élő állatokkal körülvéve zárja, miután könnyedén bejárta a várost.",
         "ro": "Călătoria dumneavoastră pitorească începe la punctele de belvedere aflate la mare altitudine, care oferă panorame uluitoare asupra vastei văi Tuxtla. Aerul proaspăt al dimineții oferă o introducere de neuitat în geografia locală.\n\nCoborând în centrul orașului, miezul zilei este dedicat descoperirii istoriei profund înrădăcinate și a tradițiilor melodioase în cadrul principalelor muzee. Având o mașină, tranziția de la înălțimile naturale la profunzimile culturale se face lin.\n\nOdată cu lăsarea după-amiezii, vehiculul vă duce spre sud pentru a vă minuna de impunătorul monument al lui Hristos din Copoya. Drumul pitoresc face legătura perfectă între mediul urban aglomerat și situl spiritual liniștit.\n\nAventura atinge apogeul cu o vizită prelungită la renumita grădină zoologică regională, situată într-o rezervație nativă luxuriantă. Veți încheia ziua înconjurați de animale exotice, după ce ați navigat cu ușurință prin tot orașul.",
         "en": "Your scenic drive kicks off at high-altitude viewpoints offering breathtaking panoramas over the sprawling Tuxtla valley. The crisp morning air and sweeping vistas provide an unforgettable introduction to the local geography.\n\nDescending into the city's core, midday is dedicated to uncovering the deep-rooted history and melodious traditions within the premier museums. Having a car allows for a smooth transition from natural heights to cultural depths.\n\nAs the afternoon sets in, your vehicle takes you southward to marvel at the towering Christ of Copoya monument. The scenic drive perfectly bridges the bustling urban environment and the serene, elevated spiritual site.\n\nThe adventure peaks with an extended visit to the world-renowned regional zoo, set within a lush native reserve. You will end the day surrounded by exotic wildlife, having effortlessly navigated the entire span of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die sicherste Wahl bei den tropischen Güssen in Tuxtla. Genießen Sie die morgendlichen Ausblicke, auch wenn Nebel die Sicht trübt. Mittags parken Sie nah an den Museen, um trocken ins Innere zu gelangen. Nachmittags ist die Fahrt zum Zoo bei Regen ein Erlebnis, da die Tiere oft aktiver sind. Abends kann der Verkehr stocken, planen Sie mehr Zeit für die Rückfahrt ein.",
+            "hu": "Az autó a legbiztonságosabb választás a trópusi záporok idején. Élvezze a reggeli kilátást, még ha a köd néha el is takarja a völgyet. Délben parkoljon minél közelebb a múzeumokhoz, hogy szárazon jusson be a kiállításokra. Délután az állatkerti út esőben is izgalmas, az állatok ilyenkor gyakran aktívabbak. Estére a forgalom lelassulhat, tervezzen több időt a városi közlekedésre.",
+            "ro": "Mașina este cea mai sigură alegere în timpul averselor tropicale din Tuxtla. Bucurați-vă de priveliștile matinale, chiar dacă ceața poate bloca vizibilitatea. La prânz, parcați cât mai aproape de muzee pentru a intra uscat la expoziții. După-amiaza, drumul spre grădina zoologică pe ploaie este o experiență, animalele fiind mai active. Seara traficul poate fi lent, planificați mai mult timp.",
+            "en": "A car is the safest choice during Tuxtla's tropical downpours. Enjoy the morning views from the lookouts, even if mist sometimes clouds the valley. At noon, park as close to the museums as possible to stay dry between stops. In the afternoon, the zoo visit is unique in the rain as many animals become more active. In the evening, traffic may slow down, so plan extra time for your drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador La Coyota",
+                "hu": "Mirador La Coyota",
+                "ro": "Mirador La Coyota",
+                "en": "Mirador La Coyota"
+              },
+              "tip_4lang": {
+                "de": "Die Bergstraße kann bei Regen rutschig sein; genießen Sie das Panorama aus dem Auto, falls es zu stark regnet, um auf die Plattform zu gehen.",
+                "hu": "A hegyi út esőben csúszós lehet; élvezze a panorámát az autóból, ha túl erősen esne ahhoz, hogy kimenjen a kilátóplatformra, maradjon szárazon.",
+                "ro": "Drumul montan poate fi alunecos pe ploaie; admirați panorama din mașină dacă plouă prea tare pentru a ieși pe platformă, rămâneți la adăpost.",
+                "en": "The mountain road can be slippery in the rain; enjoy the panorama from the car if it's raining too hard to step out onto the viewing platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Ceiba",
+                "hu": "Mirador Ceiba",
+                "ro": "Mirador Ceiba",
+                "en": "Mirador Ceiba"
+              },
+              "tip_4lang": {
+                "de": "Halten Sie die Fenster leicht geöffnet, um Beschlagen zu vermeiden; der Regen über dem Canyon bietet ein dramatisches und seltenes Naturschauspiel.",
+                "hu": "Tartsa az ablakokat kissé lehúzva a párásodás ellen; a kanyon feletti eső drámai és ritka természeti látványt nyújt, érdemes megállni egy pillanatra.",
+                "ro": "Țineți geamurile ușor deschise pentru a evita aburirea; ploaia deasupra canonului oferă un spectacol natural dramatic și rar, demn de admirat.",
+                "en": "Keep the windows slightly cracked to prevent fogging; the rain over the canyon offers a dramatic and rare natural spectacle that is worth seeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Chiapas",
+                "hu": "Museo Regional de Chiapas",
+                "ro": "Museo Regional de Chiapas",
+                "en": "Museo Regional de Chiapas"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz direkt am Eingang; so erreichen Sie die trockenen Ausstellungsräume mit nur wenigen Schritten durch den Regen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő aszfaltozott parkolót; így mindössze pár lépéssel, szárazon érheti el a múzeum kiállítótermeit a záporban.",
+                "ro": "Folosiți parcarea asfaltată direct de la intrare; astfel veți ajunge în sălile de expoziție uscat, făcând doar câțiva pași prin ploaia de afară.",
+                "en": "Use the paved parking lot directly at the entrance; this way you can reach the dry exhibition rooms with just a few steps through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo De La Marimba",
+                "hu": "Museo De La Marimba",
+                "ro": "Museo De La Marimba",
+                "en": "Museo De La Marimba"
+              },
+              "tip_4lang": {
+                "de": "In der Umgebung gibt es Parkhäuser, die Ihr Fahrzeug trocken halten; genießen Sie die Musik, während draußen der typische Nachmittagsregen fällt.",
+                "hu": "A környéken több fedett parkolóház is található, amely szárazon tartja az autót; élvezze a zenét, amíg kint a tipikus délutáni eső esik a városban.",
+                "ro": "În zonă există mai multe parcări supraetajate care vă vor ține mașina uscată; savurați muzica în timp ce afară cade ploaia tipică de după-amiază.",
+                "en": "There are several covered parking garages nearby to keep your vehicle dry; enjoy the music while the typical afternoon rain falls in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Cristo de Copoya",
+                "hu": "Cristo de Copoya",
+                "ro": "Cristo de Copoya",
+                "en": "Cristo de Copoya"
+              },
+              "tip_4lang": {
+                "de": "Die Wolken hängen hier oft tief; bei Regen wirkt die Statue besonders imposant, bleiben Sie für Fotos in der Nähe der überdachten Bereiche.",
+                "hu": "A felhők itt gyakran alacsonyan szállnak; esőben a szobor különösen impozáns látványt nyújt, maradjon a fedett részek közelében a fotózáshoz.",
+                "ro": "Norii sunt adesea joși aici; pe ploaie, statuia oferă o vedere impunătoare, stați aproape de zonele acoperite pentru a face fotografii reușite.",
+                "en": "The clouds often hang low here; in the rain, the statue looks especially imposing, so stay near the covered areas for the best photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "ZooMat",
+                "hu": "ZooMat",
+                "ro": "ZooMat",
+                "en": "ZooMat"
+              },
+              "tip_4lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, aber ein Regenschirm ist für die Wege zwischen den Gehegen unerlässlich; die Tiere lieben die feuchte Kühle.",
+                "hu": "A sűrű lombok némi védelmet nyújtanak, de az esernyő kötelező a kifutók közötti utakon; az állatok imádják a párás, hűvösebb időt az esőben.",
+                "ro": "Copacii oferă oarecare protecție, dar umbrela este obligatorie pe poteci; animalele adoră răcoarea umedă adusă de ploaie în timpul vizitei.",
+                "en": "The dense canopy offers some protection, but an umbrella is essential for the paths; the animals love the humid coolness brought by the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An klaren Wintertagen ist die Fahrt zu den Miradores ein Highlight mit exzellenter Fernsicht. Morgens ist es frisch, nutzen Sie die Heizung im Wagen. Mittags sind die Temperaturen perfekt für Besichtigungen ohne Hitze. Am Nachmittag taucht die Sonne den Canyon in warmes Licht. Da es bereits um 17:00 Uhr dunkel wird, endet Ihre Tour pünktlich zum malerischen Sonnenuntergang.",
+            "hu": "A tiszta téli napokon a kilátókhoz vezető út a nap fénypontja a kiváló látótávolság miatt. Reggelente hűvös van, használja az autó fűtését az induláskor. Délben a hőmérséklet ideális a városnézéshez a tikkasztó hőség nélkül. Délután a nap meleg fényekbe öltözteti a kanyont. Mivel 17:00-kor sötétedik, a túra épp a festői naplementére fejeződik be az állatkertnél.",
+            "ro": "În zilele senine de iarnă, drumul spre belvedere este punctul culminant datorită vizibilității excelente. Dimineața este răcoare, folosiți căldura din mașină. La prânz, temperaturile sunt ideale pentru vizite fără căldura sufocantă. După-amiaza soarele îmbracă canonul în culori calde. Deoarece se întunecă la 17:00, turul se încheie exact la apusul pitoresc.",
+            "en": "On clear winter days, the drive to the lookouts is the highlight of the day with excellent visibility. Mornings are fresh, so use the car's heater when starting out. At noon, temperatures are perfect for sightseeing without the stifling heat. In the afternoon, the sun bathes the canyon in warm light. Since it gets dark by 17:00, your tour ends just in time for a scenic sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador La Coyota",
+                "hu": "Mirador La Coyota",
+                "ro": "Mirador La Coyota",
+                "en": "Mirador La Coyota"
+              },
+              "tip_4lang": {
+                "de": "Die klare Winterluft ermöglicht am Morgen eine Sicht bis zum Horizont; packen Sie eine warme Jacke für den Aufenthalt auf der Aussichtsplattform ein.",
+                "hu": "A tiszta téli levegő reggelente akár a horizontig tartó kilátást is lehetővé tesz; vigyen magával egy meleg kabátot a kilátóplatformon való tartózkodáshoz.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate până la orizont dimineața; luați o jachetă caldă pentru timpul petrecut pe platforma de observare.",
+                "en": "The clear winter air allows for views all the way to the horizon in the morning; pack a warm jacket for your time on the viewing platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Ceiba",
+                "hu": "Mirador Ceiba",
+                "ro": "Mirador Ceiba",
+                "en": "Mirador Ceiba"
+              },
+              "tip_4lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Canyonwände in spektakulären Farben; ein Muss für Fotografen, da die Luft im Winter besonders trocken ist.",
+                "hu": "Az alacsonyan járó téli nap látványos színekbe öltözteti a kanyon falait; a fotósoknak kötelező megálló, mivel a levegő télen különösen száraz és tiszta.",
+                "ro": "Soarele jos de iarnă luminează pereții canonului în culori spectaculoase; este un loc obligatoriu pentru fotografi, aerul fiind foarte uscat și clar.",
+                "en": "The low winter sun illuminates the canyon walls in spectacular colors; it's a must-stop for photographers as the air is especially dry and clear now."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Chiapas",
+                "hu": "Museo Regional de Chiapas",
+                "ro": "Museo Regional de Chiapas",
+                "en": "Museo Regional de Chiapas"
+              },
+              "tip_4lang": {
+                "de": "Das Parken unter den Bäumen ist im Winter unbedenklich, da der Wagen nicht so schnell überhitzt; genießen Sie die entspannte Atmosphäre im Museum.",
+                "hu": "A fák alatti parkolás télen biztonságos, mivel az autó nem melegszik át olyan gyorsan; élvezze a múzeum nyugodt atmoszféráját a tömeg nélkül.",
+                "ro": "Parcarea sub copaci este sigură iarna, deoarece mașina nu se supraîncălzește rapid; bucurați-vă de atmosfera relaxată a muzeului fără aglomerație.",
+                "en": "Parking under the trees is safe in winter as the car won't overheat as quickly; enjoy the museum's relaxed atmosphere without the typical summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo De La Marimba",
+                "hu": "Museo De La Marimba",
+                "ro": "Museo De La Marimba",
+                "en": "Museo De La Marimba"
+              },
+              "tip_4lang": {
+                "de": "Die Mittagssonne im Winter ist perfekt, um das Viertel rund um das Museum zu erkunden; das Auto bleibt im Schatten angenehm kühl für die Weiterfahrt.",
+                "hu": "A téli déli napsütés tökéletes a múzeum környékének felfedezéséhez; az autó az árnyékban is kellemesen hűvös marad a továbbhaladáshoz, ne aggódjon.",
+                "ro": "Soarele de iarnă de la prânz este perfect pentru a explora zona din jurul muzeului; mașina va rămâne plăcut de răcoroasă la umbră pentru plecare.",
+                "en": "The winter midday sun is perfect for exploring the area around the museum; the car will stay pleasantly cool in the shade for your next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Cristo de Copoya",
+                "hu": "Cristo de Copoya",
+                "ro": "Cristo de Copoya",
+                "en": "Cristo de Copoya"
+              },
+              "tip_4lang": {
+                "de": "Hier oben weht im Winter oft ein kräftiger, kühler Wind; halten Sie eine winddichte Jacke bereit, wenn Sie für Fotos aus dem Auto aussteigen.",
+                "hu": "Itt fent télen gyakran fúj erős, hűvös szél; tartson készenlétben egy szélálló dzsekit, amikor kiszáll az autóból a fotók elkészítéséhez.",
+                "ro": "Aici sus bate adesea un vânt puternic și rece iarna; aveți pregătită o jachetă rezistentă la vânt când coborâți din mașină pentru fotografii.",
+                "en": "Up here, a strong and cool wind often blows in winter; have a windproof jacket ready when you step out of the car to take your souvenir photos."
+              }
+            },
+            {
+              "name": {
+                "de": "ZooMat",
+                "hu": "ZooMat",
+                "ro": "ZooMat",
+                "en": "ZooMat"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie den Zoo am späten Nachmittag; das milde Winterlicht und der Sonnenuntergang gegen 17:00 Uhr schaffen eine magische Stimmung im Urwald.",
+                "hu": "Látogasson el az állatkertbe késő délután; az enyhe téli fények és a 17:00 körüli naplemente varázslatos hangulatot áraszt a dzsungel közepén.",
+                "ro": "Vizitați grădina zoologică după-amiaza târziu; lumina blândă de iarnă și apusul de la ora 17:00 creează o atmosferă magică în mijlocul junglei.",
+                "en": "Visit the zoo in the late afternoon; the mild winter lights and the sunset around 17:00 create a magical atmosphere deep in the jungle setting."
+              }
+            }
+          ]
+        }
       }
     }
   }

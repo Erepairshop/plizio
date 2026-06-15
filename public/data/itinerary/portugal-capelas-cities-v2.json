@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot Capelas szívében a festői templomnál, majd merüljön el a történelemben a Capelas Múzeumban. Ezután a séta a partra vezet, ahol lenyűgöző kilátás várja. Délután a meredek sziklák mentén túrázhat a különböző csodálatos kilátópontok között. A nap békésen, a természet lágy ölén zárul a Calhau Miúdo pihentető környezetében.",
         "ro": "Începeți ziua relaxat în inima orașului Capelas la biserica pitorească, urmată de o scufundare în istorie la Muzeul Capelas. Apoi plimbarea vă duce pe coastă, unde vă așteaptă priveliști uimitoare. După-amiaza veți merge din punct de belvedere în punct de belvedere de-a lungul stâncilor abrupte. Ziua se încheie liniștit în mijlocul naturii la Calhau Miúdo.",
         "en": "Start your day relaxed in the heart of Capelas at the picturesque church, followed by a deep dive into local history at the Museu Capelas. Afterwards, your walk takes you to the rugged coast, where stunning views await. In the afternoon, you will stroll from viewpoint to viewpoint along the steep cliffs. The day ends peacefully surrounded by nature at Calhau Miúdo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden Stille der Dorfkirche, bevor Sie im ethnografischen Museum tief in die Geschichte eintauchen. Trotz Regen bieten die Küstenpfade dramatische Ausblicke auf das aufgewühlte Meer. Mittags finden Sie Schutz unter den Vordächern der Aussichtspunkte. Der Nachmittag führt Sie hinunter zum Hafen, wo die Wellen eindrucksvoll gegen die dunklen Felsen schlagen.",
+            "hu": "Kezdje a napot a falu templomának védelmező csendjében, majd merüljön el a helyi történelemben a múzeum fedett tárlatain. Az eső ellenére a parti ösvények drámai kilátást nyújtanak a felkorbácsolt tengerre. Délben a kilátók fedett részei alatt pihenhet. Délután ereszkedjen le a kikötőhöz, ahol a hullámok látványosan csapkodják a sötét sziklákat a szürke égbolt alatt.",
+            "ro": "Începeți ziua în liniștea protectoare a bisericii satului, apoi explorați istoria locală în interiorul muzeului. În ciuda ploii, potecile de pe coastă oferă priveliști dramatice asupra mării agitate. La prânz, găsiți adăpost sub acoperișurile punctelor de observare. După-amiaza vă duce spre port, unde valurile se lovesc spectaculos de stâncile întunecate sub cerul plumburiu.",
+            "en": "Start your day in the protective silence of the village church, then dive into local history at the museum’s indoor exhibits. Despite the rain, the coastal paths offer dramatic views of the turbulent sea. At noon, find shelter under the covers of the viewpoints. The afternoon leads you down to the harbor, where waves crash spectacularly against the dark rocks under the misty sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Apresentação",
+                "hu": "Igreja de Nossa Senhora da Apresentação",
+                "ro": "Igreja de Nossa Senhora da Apresentação",
+                "en": "Igreja de Nossa Senhora da Apresentação"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvollen Altäre im Inneren, während Sie dem Regen draußen lauschen; ein idealer, trockener Startpunkt.",
+                "hu": "Csodálja meg a pompás belső oltárokat, miközben a kinti esőt hallgatja; ideális és száraz kiindulópont a városnézéshez.",
+                "ro": "Admirați altarele interioare magnifice în timp ce ascultați ploaia de afară; un punct de plecare ideal și uscat.",
+                "en": "Admire the magnificent interior altars while listening to the rain outside; a perfect and dry starting point for your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Capelas",
+                "hu": "Museu Capelas",
+                "ro": "Museu Capelas",
+                "en": "Museu Capelas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das schlechte Wetter für einen ausgiebigen Besuch der Werkstätten; die überdachten Ausstellungen halten Sie lange trocken.",
+                "hu": "Használja ki a rossz időt a műhelyek alapos bejárására; a fedett kiállítóterek hosszú ideig szárazon tartják a látogatót.",
+                "ro": "Profită de vremea rea pentru o vizită lungă a atelierelor; spațiile expoziționale acoperite te vor menține uscat mult timp.",
+                "en": "Take advantage of the bad weather for a thorough visit to the workshops; the covered exhibition spaces keep you dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Maranhãu",
+                "hu": "Miradouro do Maranhãu",
+                "ro": "Miradouro do Maranhãu",
+                "en": "Miradouro do Maranhãu"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Küste wirkt von hier aus mystisch; achten Sie auf den rutschigen Boden am Rand und tragen Sie feste Schuhe.",
+                "hu": "A ködös tengerpart innen nézve misztikus hangulatot áraszt; figyeljen a csúszós peremekre és viseljen tapadós talpú cipőt.",
+                "ro": "Coasta cețoasă pare mistică de aici; aveți grijă la marginile alunecoase și purtați încălțăminte cu aderență bună.",
+                "en": "The misty coastline looks mystical from here; watch out for slippery edges and wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Vigia",
+                "hu": "Miradouro da Vigia",
+                "ro": "Miradouro da Vigia",
+                "en": "Miradouro da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wolken tief über den Klippen hängen; ein Regenponcho ist hier wegen des starken Windes praktischer als ein Schirm.",
+                "hu": "Nézze meg, ahogy a felhők alacsonyan szállnak a sziklák felett; az erős szél miatt egy esőponcsó praktikusabb itt az esernyőnél.",
+                "ro": "Priviți norii care plutesc jos deasupra stâncilor; din cauza vântului puternic, o pelerină este mai practică decât o umbrelă.",
+                "en": "Watch the clouds hanging low over the cliffs; due to strong winds, a rain poncho is more practical here than an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Pesceiros",
+                "hu": "Miradouro do Pesceiros",
+                "ro": "Miradouro do Pesceiros",
+                "en": "Miradouro do Pesceiros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosende Brandung; halten Sie Ihre Kamera unter der Jacke bereit für schnelle, dramatische Fotos.",
+                "hu": "Élvezze a kilátást a morajló hullámokra; tartsa a fényképezőgépét a kabátja alatt a gyors, drámai fotók elkészítéséhez.",
+                "ro": "Bucurați-vă de priveliștea valurilor care se sparg; țineți camera sub jachetă pregătită pentru fotografii rapide și dramatice.",
+                "en": "Enjoy the view of the roaring surf; keep your camera ready under your jacket for quick, dramatic shots of the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Fopo",
+                "hu": "Miradouro do Fopo",
+                "ro": "Miradouro do Fopo",
+                "en": "Miradouro do Fopo"
+              },
+              "tip_5lang": {
+                "de": "Die vulkanischen Felsen leuchten bei Regen besonders dunkel; suchen Sie kurz Schutz unter den Bäumen, um die Aussicht zu genießen.",
+                "hu": "A vulkáni sziklák esőben különösen sötéten fénylenek; keressen rövid menedéket a fák alatt, hogy megcsodálhassa a panorámát.",
+                "ro": "Stâncile vulcanice strălucesc deosebit de negru în ploaie; căutați un scurt adăpost sub copaci pentru a admira panorama.",
+                "en": "The volcanic rocks shine particularly dark in the rain; seek brief shelter under the trees to admire the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Calhau Miúdo",
+                "hu": "Calhau Miúdo",
+                "ro": "Calhau Miúdo",
+                "en": "Calhau Miúdo"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt bei Regen wilder und unzähmbarer; bleiben Sie auf den befestigten Wegen, da die Lavasteine extrem glatt werden.",
+                "hu": "A tenger esőben vadabbnak és szilajabbnak tűnik; maradjon a kiépített úton, mert a lávakövek rendkívül csúszóssá válnak.",
+                "ro": "Marea pare mai sălbatică și mai neîmblânzită în ploaie; rămâneți pe drumul pavat, deoarece pietrele de lavă devin alunecoase.",
+                "en": "The sea appears wilder and more untamable in the rain; stay on the paved path as the lava rocks become extremely slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Capelas ist frisch und oft von einer klaren Atlantikbrise geprägt. Die Kirche bietet einen warmen Rückzugsort zur Besinnung, bevor das Museum Sie für Stunden aufnimmt. Mittags wärmt die tiefstehende Sonne die Aussichtspunkte an der Nordküste. Da es bereits gegen 17:00 Uhr dunkel wird, endet Ihre Wanderung bei einem stimmungsvollen, frühen Sonnenuntergang am Hafen.",
+            "hu": "A téli reggel Capelas-ban friss és tiszta atlanti szellővel érkezik. A templom meleg menedéket nyújt az elmélyüléshez, mielőtt a múzeum órákra befogadná. Délben az alacsonyan járó nap sugarai megvilágítják az északi part kilátóit. Mivel 17:00 körül már sötétedik, a séta egy hangulatos, korai naplementével zárul a kikötőnél.",
+            "ro": "Dimineața de iarnă în Capelas este proaspătă, cu o briză atlantică curată. Biserica oferă un refugiu cald înainte ca muzeul să vă primească pentru câteva ore. La prânz, soarele blând luminează punctele de belvedere de pe coasta de nord. Deoarece se întunecă în jurul orei 17:00, plimbarea se încheie cu un apus spectaculos și timpuriu în port.",
+            "en": "A winter morning in Capelas is fresh, marked by a crisp Atlantic breeze. The church offers a warm retreat before the museum welcomes you for several hours. At noon, the low winter sun lights up the viewpoints along the north coast. Since it gets dark around 17:00, your walk ends with an atmospheric, early sunset at the harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Apresentação",
+                "hu": "Igreja de Nossa Senhora da Apresentação",
+                "ro": "Igreja de Nossa Senhora da Apresentação",
+                "en": "Igreja de Nossa Senhora da Apresentação"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milde Innenraumtemperatur für einen ruhigen Start; die dicken Mauern schützen gut vor der kühlen Morgenbrise.",
+                "hu": "Használja ki a belső tér kellemes hőmérsékletét a nyugodt kezdéshez; a vastag falak jól védenek a hűvös reggeli szél ellen.",
+                "ro": "Profitați de temperatura interioară blândă pentru un început liniștit; zidurile groase protejează bine de briza răcoroasă.",
+                "en": "Take advantage of the mild indoor temperature for a calm start; the thick walls protect well against the cool morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Capelas",
+                "hu": "Museu Capelas",
+                "ro": "Museu Capelas",
+                "en": "Museu Capelas"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier mehr Zeit ein, um sich zwischen den Exponaten aufzuwärmen; die historischen Werkstätten sind im Winter besonders gemütlich.",
+                "hu": "Tervezzen ide több időt, hogy felmelegedjen a kiállítások között; a történelmi műhelyek télen különösen hangulatosak és védettek.",
+                "ro": "Planificați mai mult timp aici pentru a vă încălzi printre exponate; atelierele istorice sunt deosebit de primitoare iarna.",
+                "en": "Plan for more time here to warm up among the exhibits; the historical workshops are particularly cozy and sheltered in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Maranhãu",
+                "hu": "Miradouro do Maranhãu",
+                "ro": "Miradouro do Maranhãu",
+                "en": "Miradouro do Maranhãu"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und erzeugt langes Licht über dem Meer; eine windfeste Jacke ist für den Aufenthalt hier unerlässlich.",
+                "hu": "A téli nap alacsonyan áll, hosszú árnyékokat és különleges fényeket vetve a tengerre; egy szélálló dzseki itt elengedhetetlen.",
+                "ro": "Soarele de iarnă apune jos, creând lumini lungi peste mare; o jachetă rezistentă la vânt este esențială pentru acest popas.",
+                "en": "The winter sun sits low, creating long light over the sea; a windproof jacket is essential for staying here comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Vigia",
+                "hu": "Miradouro da Vigia",
+                "ro": "Miradouro da Vigia",
+                "en": "Miradouro da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach der rauen Wintersee; die Luft ist im Winter besonders klar, was eine weite Sicht entlang der Küste ermöglicht.",
+                "hu": "Figyelje a haragos téli tengert; a levegő ilyenkor rendkívül tiszta, ami messzi kilátást tesz lehetővé a part mentén.",
+                "ro": "Observați marea agitată de iarnă; aerul este deosebit de clar acum, permițând o vizibilitate mare de-a lungul coastei.",
+                "en": "Watch the rough winter sea; the air is particularly clear in winter, allowing for a long-distance view along the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Pesceiros",
+                "hu": "Miradouro do Pesceiros",
+                "ro": "Miradouro do Pesceiros",
+                "en": "Miradouro do Pesceiros"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt spritzt im Winter oft hoch hinauf; tragen Sie warme Schichten, um die kühle, salzige Meeresbrise länger genießen zu können.",
+                "hu": "A permet télen gyakran magasra felcsap; viseljen réteges, meleg ruhát, hogy tovább élvezhesse a hűvös, sós tengeri szellőt.",
+                "ro": "Stropii de apă sar adesea sus iarna; purtați straturi calde pentru a vă bucura mai mult de briza marină răcoroasă și sărată.",
+                "en": "The spray often splashes high in winter; wear warm layers to enjoy the cool, salty sea breeze for a longer period."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Fopo",
+                "hu": "Miradouro do Fopo",
+                "ro": "Miradouro do Fopo",
+                "en": "Miradouro do Fopo"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein schnelles Foto vor Sonnenuntergang; das weiche Winterlicht betont die bizarren Formen der Klippen ideal.",
+                "hu": "Tökéletes hely egy gyors fotóhoz naplemente előtt; a lágy téli fény ideálisan hangsúlyozza a sziklák bizarr formáit.",
+                "ro": "Locul perfect pentru o fotografie rapidă înainte de apus; lumina blândă de iarnă subliniază ideal formele bizare ale stâncilor.",
+                "en": "Perfect spot for a quick photo before sunset; the soft winter light ideally emphasizes the bizarre shapes of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Calhau Miúdo",
+                "hu": "Calhau Miúdo",
+                "ro": "Calhau Miúdo",
+                "en": "Calhau Miúdo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier vor 17:00 Uhr; die schroffen Felsen im Dämmerlicht sind wunderschön, aber im Dunkeln schwer begehbar.",
+                "hu": "Fejezze be itt a napot 17:00 előtt; a sziklás part gyönyörű szürkületben, de sötétben nehezen járhatóvá válik.",
+                "ro": "Încheiați ziua aici înainte de ora 17:00; stâncile ascuțite sunt superbe în amurg, dar greu de parcurs pe întuneric.",
+                "en": "End your day here before 17:00; the rugged rocks are beautiful in the twilight but difficult to navigate in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "A kerékpártúra a központból indul, és hamar a tengerészeti múzeumhoz vezet, mielőtt felfedezné a tengerparti utat. Délben eléri a drámai sziklákat és a nyugati kilátók sötét köveit. Délután kényelmesen kerekezik a dombos tájon, újabb festői panorámák mellett elhaladva. Végül a napot az óceán partján, a hullámok hangjával a háttérben zárja.",
         "ro": "Plimbarea cu bicicleta începe în centru și vă duce rapid la muzeul maritim înainte de a explora drumul de coastă. La prânz ajungeți la stâncile dramatice și la pietrele întunecate din vest. După-amiaza pedalați confortabil prin peisajul deluros, trecând pe lângă mai multe priveliști pitorești. În cele din urmă, lăsați ziua să se încheie relaxant lângă ocean.",
         "en": "Your bike ride begins in the center and quickly leads to the maritime museum before you explore the coastal road. By midday, you will reach the dramatic cliffs and dark stones of the western viewpoints. In the afternoon, pedal comfortably through the hilly landscape, passing more picturesque panoramas. Finally, wind down your active day right by the ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert in Capelas Vorsicht auf dem glatten Asphalt. Starten Sie bei der Kirche und nutzen Sie die langen Pausen im Museum, um zu trocknen. Die Route zu den Aussichtspunkten führt über kurvige Straßen, die bei Nässe rutschig sein können. Achten Sie besonders auf die Bremswege bei Bergabfahrten zu den Klippen und genießen Sie die kühle, feuchte Atlantikluft.",
+            "hu": "Az esős kerékpározás Capelas-ban fokozott óvatosságot igényel a csúszós aszfalton. Kezdjen a templomnál, és használja ki a múzeumi szünetet a száradáshoz. A kilátókhoz vezető kanyargós utak nedvesen veszélyesek lehetnek. Figyeljen a féktávolságra a sziklák felé vezető lejtőkön, és élvezze a hűvös, párás atlanti levegőt a tekerés közben.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe asfaltul alunecos din Capelas. Începeți la biserică și folosiți pauza lungă de la muzeu pentru a vă usca. Drumurile sinuoase către belvedere pot fi periculoase când sunt ude. Atenție la distanța de frânare pe pantele către stânci și bucurați-vă de aerul umed al Atlanticului.",
+            "en": "A rainy bike ride in Capelas requires extra caution on the slippery asphalt. Start at the church and use the museum break to dry off. The winding roads to the viewpoints can be tricky when wet. Pay attention to braking distances on descents towards the cliffs and enjoy the cool, humid Atlantic air while cycling along the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Apresentação",
+                "hu": "Igreja de Nossa Senhora da Apresentação",
+                "ro": "Igreja de Nossa Senhora da Apresentação",
+                "en": "Igreja de Nossa Senhora da Apresentação"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vordach; die Kirche bietet einen trockenen Moment für den Check Ihrer Regenbekleidung.",
+                "hu": "Parkolja le kerékpárját egy előtető alatt; a templom száraz helyet kínál az esőruházat ellenőrzéséhez az indulás előtt.",
+                "ro": "Parcați bicicleta sub o copertină; biserica oferă un moment uscat pentru a vă verifica echipamentul de ploaie.",
+                "en": "Park your bike under a canopy; the church provides a dry moment to check your rain gear before starting your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Capelas",
+                "hu": "Museu Capelas",
+                "ro": "Museu Capelas",
+                "en": "Museu Capelas"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause; nutzen Sie die Zeit, um sich aufzuwärmen und Ihre Bremsbeläge kurz abzuwischen.",
+                "hu": "A tökéletes hely egy hosszabb pihenőhöz; használja ki az időt a bemelegedésre és a fékbetétek gyors áttörlésére.",
+                "ro": "Locul perfect pentru o pauză lungă; folosiți timpul pentru a vă încălzi și pentru a șterge rapid saboții de frână.",
+                "en": "The perfect spot for a longer break; use the time to warm up and quickly wipe down your brake pads for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Maranhãu",
+                "hu": "Miradouro do Maranhãu",
+                "ro": "Miradouro do Maranhãu",
+                "en": "Miradouro do Maranhãu"
+              },
+              "tip_5lang": {
+                "de": "Die Straße hierher kann durch nasses Laub rutschig sein; fahren Sie vorsichtig und genießen Sie den dramatischen Nebel über dem Meer.",
+                "hu": "Az idevezető út a nedves levelek miatt csúszós lehet; tekerjen óvatosan, és élvezze a tenger feletti drámai ködöt.",
+                "ro": "Drumul până aici poate fi alunecos din cauza frunzelor ude; pedalați cu grijă și admirați ceața dramatică de peste mare.",
+                "en": "The road here can be slippery due to wet leaves; ride carefully and enjoy the dramatic mist hanging over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro das Pedras Negras",
+                "hu": "Miradouro das Pedras Negras",
+                "ro": "Miradouro das Pedras Negras",
+                "en": "Miradouro das Pedras Negras"
+              },
+              "tip_5lang": {
+                "de": "Die schwarzen Felsen glänzen im Regen; parken Sie das Rad sicher auf festem Untergrund, da das Gras daneben aufgeweicht sein kann.",
+                "hu": "A fekete sziklák ragyognak az esőben; parkoljon stabil talajon, mert a fű mellette felázott és csúszós lehet.",
+                "ro": "Stâncile negre strălucesc în ploaie; parcați bicicleta pe teren solid, deoarece iarba de lângă poate fi îmbibată cu apă.",
+                "en": "The black rocks shine in the rain; park your bike on solid ground as the grass nearby might be soaked and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Sertão",
+                "hu": "Miradouro do Sertão",
+                "ro": "Miradouro do Sertão",
+                "en": "Miradouro do Sertão"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwind bei der Anfahrt; die Aussicht auf die raue Nordküste ist bei Regen besonders beeindruckend.",
+                "hu": "Figyeljen az oldalszélre az idevezető úton; a zord északi part látványa esőben különösen lenyűgöző és erőteljes.",
+                "ro": "Atenție la vântul lateral pe drum; priveliștea coastei de nord aspre este deosebit de impresionantă în condiții de ploaie.",
+                "en": "Watch out for crosswinds on the approach; the view of the rugged north coast is particularly impressive in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro das \"Capelas\"",
+                "hu": "Miradouro das \"Capelas\"",
+                "ro": "Miradouro das \"Capelas\"",
+                "en": "Miradouro das \"Capelas\""
+              },
+              "tip_5lang": {
+                "de": "Die berühmten Felsformationen wirken im grauen Licht skulptural; wischen Sie den Sattel vor der Weiterfahrt gut trocken.",
+                "hu": "A híres sziklaformációk szürke fényben szoborszerűnek tűnnek; a továbbindulás előtt alaposan törölje szárazra a nyerget.",
+                "ro": "Formațiunile stâncoase celebre par sculpturale în lumina gri; ștergeți bine șaua înainte de a pleca mai departe.",
+                "en": "The famous rock formations look sculptural in the grey light; wipe your saddle dry before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Vigia",
+                "hu": "Miradouro da Vigia",
+                "ro": "Miradouro da Vigia",
+                "en": "Miradouro da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Ein exponierter Punkt; halten Sie den Lenker bei Windböen fest und genießen Sie kurz den Blick, bevor Sie wieder Windschutz suchen.",
+                "hu": "Exponált pont; széllökések idején fogja erősen a kormányt, és csak rövid ideig élvezze a kilátást a szélvédett helyek előtt.",
+                "ro": "Un punct expus; țineți bine ghidonul la rafale de vânt și admirați scurt priveliștea înainte de a căuta adăpost.",
+                "en": "An exposed spot; hold the handlebars firmly during gusts and enjoy the view briefly before seeking wind protection again."
+              }
+            },
+            {
+              "name": {
+                "de": "Calhau Miúdo",
+                "hu": "Calhau Miúdo",
+                "ro": "Calhau Miúdo",
+                "en": "Calhau Miúdo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Steinen; die Gischt kann die Straße hier leicht befeuchten, was den Asphalt glatt macht.",
+                "hu": "Óvatosan szálljon le a nedves köveken; a felcsapó permet itt benedvesítheti az utat, ami csúszóssá teszi az aszfaltot.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pietrele ude; stropii pot umezi drumul aici, făcând asfaltul foarte alunecos.",
+                "en": "Be careful when dismounting on the wet stones; the sea spray can dampen the road here, making the asphalt slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Capelas besticht durch klare Luft und wenig Verkehr. Die Morgenkühle lässt sich durch die erste Etappe zur Kirche und die Bewegung gut ausgleichen. Das Museum bietet mittags eine willkommene Aufwärmpause. Nutzen Sie die hellen Stunden bis 16:00 Uhr intensiv, um die Aussichtspunkte zu besuchen, bevor die sinkenden Temperaturen und die frühe Dunkelheit die Rückfahrt einleiten.",
+            "hu": "A téli kerékpározás Capelas-ban a tiszta levegő és a gyér forgalom miatt élvezetes. A reggeli hűvöset a templomig tartó tekerés és a mozgás jól ellensúlyozza. A múzeum délben kiváló hely a felmelegedéshez. Használja ki a világos órákat 16:00-ig a kilátók meglátogatására, mielőtt a süllyedő hőmérséklet és a korai sötétedés miatt visszatérne.",
+            "ro": "Ciclismul de iarnă în Capelas impresionează prin aerul curat și traficul redus. Răcoarea dimineții este compensată de mișcare până la biserică. Muzeul oferă la prânz o pauză de încălzire binevenită. Folosiți orele de lumină până la 16:00 pentru a vizita punctele de belvedere, înainte ca temperaturile scăzute și întunericul să apară.",
+            "en": "Winter cycling in Capelas is delightful thanks to the clear air and light traffic. The morning chill is easily offset by the movement to the church. The museum provides a welcome warming break at noon. Make the most of the daylight until 16:00 to visit the viewpoints before the dropping temperatures and early darkness signal the return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Apresentação",
+                "hu": "Igreja de Nossa Senhora da Apresentação",
+                "ro": "Igreja de Nossa Senhora da Apresentação",
+                "en": "Igreja de Nossa Senhora da Apresentação"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Wärme; ein guter Ort, um die Handschuhe kurz auszuziehen und die Route zu planen.",
+                "hu": "A templom vastag falai tartják a meleget; jó hely a kesztyűk levételére és az útvonal áttekintésére a hűvös reggelen.",
+                "ro": "Zidurile groase ale bisericii păstrează căldura; un loc bun pentru a scoate mănușile și a planifica ruta în dimineața rece.",
+                "en": "The thick church walls retain warmth; a good spot to take off your gloves for a moment and plan your route in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Capelas",
+                "hu": "Museu Capelas",
+                "ro": "Museu Capelas",
+                "en": "Museu Capelas"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in den geschlossenen Räumen; die Bewegungspause hilft, die Körperwärme für die nächste Etappe zu speichern.",
+                "hu": "Időzzön többet a zárt terekben; a mozgásszünet segít megőrizni a testhőt a következő, szeles tengerparti szakasz előtt.",
+                "ro": "Zăboviți mai mult în spațiile închise; pauza de mișcare ajută la conservarea căldurii corporale pentru următoarea etapă.",
+                "en": "Stay longer in the indoor areas; the break from cycling helps retain body heat for the next windy coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Maranhãu",
+                "hu": "Miradouro do Maranhãu",
+                "ro": "Miradouro do Maranhãu",
+                "en": "Miradouro do Maranhãu"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter fantastisch; tragen Sie ein Stirnband unter dem Helm, um Ihre Ohren vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A távoli kilátás télen fantasztikus; viseljen fejpántot a sisak alatt, hogy megvédje füleit a hideg menetszéltől.",
+                "ro": "Vizibilitatea la distanță este fantastică iarna; purtați o bandană sub cască pentru a vă proteja urechile de vântul rece.",
+                "en": "The distant visibility is fantastic in winter; wear a headband under your helmet to protect your ears from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro das Pedras Negras",
+                "hu": "Miradouro das Pedras Negras",
+                "ro": "Miradouro das Pedras Negras",
+                "en": "Miradouro das Pedras Negras"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne betont die Textur der Felsen; ein kurzer Stopp reicht, um nicht zu sehr auszukühlen.",
+                "hu": "Az alacsonyan járó nap fénye kiemeli a sziklák textúráját; egy rövid megálló is elég, hogy ne hűljön ki túlságosan a teste.",
+                "ro": "Lumina soarelui de iarnă subliniază textura stâncilor; un popas scurt este suficient pentru a nu vă răci prea tare.",
+                "en": "The low sun highlights the texture of the rocks; a short stop is enough to avoid getting too cold while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Sertão",
+                "hu": "Miradouro do Sertão",
+                "ro": "Miradouro do Sertão",
+                "en": "Miradouro do Sertão"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise ist hier oben kräftig; halten Sie Thermokleidung bereit, um den weiten Blick auf den Ozean genießen zu können.",
+                "hu": "A hűvös szellő itt fent erőteljes; legyen kéznél technikai ruházat, hogy élvezhesse az óceánra nyíló széles panorámát.",
+                "ro": "Briza rece este puternică aici sus; aveți la îndemână haine termice pentru a vă bucura de panorama largă a oceanului.",
+                "en": "The cool breeze is strong up here; keep thermal clothing ready so you can enjoy the wide view of the ocean comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro das \"Capelas\"",
+                "hu": "Miradouro das \"Capelas\"",
+                "ro": "Miradouro das \"Capelas\"",
+                "en": "Miradouro das \"Capelas\""
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Fotos; im Winter sind hier kaum andere Touristen, was Ihnen freie Sicht für perfekte Aufnahmen bietet.",
+                "hu": "Kihagyhatatlan fotóhelyszín; télen alig van itt más turista, így zavartalanul készítheti el a tökéletes felvételeket.",
+                "ro": "Un loc obligatoriu pentru fotografii; iarna sunt puțini turiști aici, oferindu-vă vizibilitate liberă pentru cadre perfecte.",
+                "en": "A must-see photo spot; in winter, there are few other tourists here, giving you an unobstructed view for perfect shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Vigia",
+                "hu": "Miradouro da Vigia",
+                "ro": "Miradouro da Vigia",
+                "en": "Miradouro da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt den Horizont scharf erscheinen; achten Sie auf die Zeit, um vor der Dämmerung den Rückweg anzutreten.",
+                "hu": "A tiszta téli levegőben élesen kirajzolódik a horizont; figyeljen az időre, hogy a szürkület előtt megkezdje a visszautat.",
+                "ro": "Aerul curat de iarnă face orizontul să pară foarte clar; atenție la timp pentru a începe drumul de întoarcere înainte de amurg.",
+                "en": "The clear winter air makes the horizon appear sharp; keep an eye on the time to start your return journey before twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Calhau Miúdo",
+                "hu": "Calhau Miúdo",
+                "ro": "Calhau Miúdo",
+                "en": "Calhau Miúdo"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss bei 16:30 Uhr; das letzte Tageslicht auf den Wellen ist magisch, danach wird es schnell empfindlich kalt.",
+                "hu": "Ideális zárópont 16:30 körül; a hullámokon megcsillanó utolsó fények varázslatosak, utána azonban gyorsan lehűl a levegő.",
+                "ro": "Finalul ideal în jurul orei 16:30; ultima lumină pe valuri este magică, după care se face repede foarte frig.",
+                "en": "The ideal ending around 16:30; the last light on the waves is magical, but it gets significantly colder very quickly after."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "Induljon kényelmesen a múzeumból, hogy elmerüljön az azori kultúrában, mielőtt meglátogatná a központban lévő történelmi templomot. Ebédidőben a part mentén cirkál, és látványos szikláknál áll meg. A délután zökkenőmentes autózást kínál a sziget legjobb kilátópontjai között. A kirándulás nyugodtan ér véget az idilli partszakaszon.",
         "ro": "Începeți confortabil la muzeu pentru a vă scufunda în cultura din Azore înainte de a vizita biserica istorică. La prânz, navigați de-a lungul coastei și opriți-vă la stânci spectaculoase. După-amiaza vă oferă o plimbare fără probleme între cele mai bune puncte de belvedere ale insulei. Excursia se încheie relaxat pe porțiunea idilică de coastă.",
         "en": "Start comfortably at the museum to immerse yourself in Azorean culture before visiting the historic church in the center. At midday, cruise along the coastline and stop at spectacular rocky cliffs. The afternoon offers a seamless drive between the island's most stunning scenic viewpoints. The trip concludes peacefully at the idyllic coastal stretch."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Capelas auch bei starkem Regen ein Genuss. Sie starten trocken im Museum und besuchen danach die Kirche. Die Fahrt entlang der Küstenstraße bietet spektakuläre Ausblicke direkt aus dem Fenster, wenn der Regen gegen die Scheiben peitscht. Nutzen Sie die kurzen Regenpausen für schnelle Abstecher zu den Miradouros und genießen Sie die warme Geborgenheit Ihres Fahrzeugs.",
+            "hu": "Autóval Capelas még heves esőzésben is élvezetes. Szárazon kezdhet a múzeumban, majd meglátogathatja a templomot. A tengerparti út mentén az ablakból is látványos a panoráma, miközben az eső a szélvédőt mossa. Használja ki a csapadékmentes pillanatokat egy-egy gyors kiszállásra a kilátóknál, majd élvezze tovább az autó melegét.",
+            "ro": "Cu mașina, Capelas este o plăcere chiar și pe ploaie torențială. Începeți confortabil la muzeu, apoi vizitați biserica. Drumul de-a lungul coastei oferă panorame spectaculoase direct de la fereastră. Profitați de scurtele pauze de ploaie pentru opriri rapide la belvedere și bucurați-vă de siguranța caldă a vehiculului.",
+            "en": "Capelas is a delight by car even in heavy rain. You start dry at the museum and then visit the church. The drive along the coastal road offers spectacular views right from your window while rain lashes the windshield. Take advantage of brief dry spells for quick hops to the viewpoints and enjoy the cozy warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Capelas",
+                "hu": "Museu Capelas",
+                "ro": "Museu Capelas",
+                "en": "Museu Capelas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trocken ins Innere zu gelangen; die Ausstellungen sind perfekt für einen verregneten Vormittag.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy szárazon jusson be; a kiállítások tökéletesek egy esős délelőtt eltöltéséhez.",
+                "ro": "Parcați chiar la intrare pentru a ajunge uscat în interior; expozițiile sunt perfecte pentru o dimineață ploioasă.",
+                "en": "Park right at the entrance to stay dry on your way in; the exhibitions are perfect for spending a rainy morning indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Apresentação",
+                "hu": "Igreja de Nossa Senhora da Apresentação",
+                "ro": "Igreja de Nossa Senhora da Apresentação",
+                "en": "Igreja de Nossa Senhora da Apresentação"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Tür lohnt sich; das prachtvolle Innere bietet eine spirituelle Flucht vor dem trüben Wetter.",
+                "hu": "A parkolótól a bejáratig tartó rövid futás megéri; a pompás belső tér spirituális menekülést kínál a borús idő elől.",
+                "ro": "Un scurt sprint de la parcare la ușă merită; interiorul somptuos oferă o evadare spirituală din fața vremii mohorâte.",
+                "en": "A short sprint from the parking lot to the door is worth it; the grand interior offers a spiritual escape from the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Navio",
+                "hu": "Miradouro do Navio",
+                "ro": "Miradouro do Navio",
+                "en": "Miradouro do Navio"
+              },
+              "tip_5lang": {
+                "de": "Sie können oft im Auto sitzen bleiben und den Blick auf die 'Schiffsfelsen' genießen; die Scheibenwischer bieten Ihnen ein klares Bild.",
+                "hu": "Gyakran az autóban ülve is élvezheti a 'hajósziklák' látványát; az ablaktörlők tiszta képet adnak a drámai tengerpartról.",
+                "ro": "Puteți rămâne adesea în mașină pentru a admira stâncile; ștergătoarele vă vor oferi o imagine clară a coastei dramatice.",
+                "en": "You can often stay in the car and enjoy the view of the 'ship rocks'; the wipers will give you a clear view of the dramatic coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Sertão",
+                "hu": "Miradouro do Sertão",
+                "ro": "Miradouro do Sertão",
+                "en": "Miradouro do Sertão"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist steil; bei Regen bietet der Asphalt guten Grip, aber fahren Sie in den Kurven dennoch vorsichtig und langsam.",
+                "hu": "Az idevezető út meredek; esőben az aszfalt jól tapad, de a kanyarokban vezessen óvatosan és lassan a biztonság érdekében.",
+                "ro": "Drumul este abrupt; pe ploaie asfaltul are aderență bună, dar conduceți totuși cu prudență și viteză redusă în curbe.",
+                "en": "The approach is steep; the asphalt provides good grip in the rain, but still drive carefully and slowly through the curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro das Pedras Negras",
+                "hu": "Miradouro das Pedras Negras",
+                "ro": "Miradouro das Pedras Negras",
+                "en": "Miradouro das Pedras Negras"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steine glänzen nass besonders intensiv; steigen Sie kurz aus, wenn der Regen nachlässt, für ein kontrastreiches Foto.",
+                "hu": "A sötét kövek nedvesen különösen intenzíven ragyognak; szálljon ki rövid időre, ha az eső alábbhagy egy kontrasztos fotóért.",
+                "ro": "Pietrele negre strălucesc intens când sunt ude; coborâți scurt dacă ploaia se domolește pentru o fotografie plină de contrast.",
+                "en": "The dark stones shine intensely when wet; step out briefly if the rain eases off for a high-contrast photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Vigia",
+                "hu": "Miradouro da Vigia",
+                "ro": "Miradouro da Vigia",
+                "en": "Miradouro da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr windiger Ort; halten Sie die Autotür beim Öffnen fest, da starke Böen sie leicht aus der Hand reißen können.",
+                "hu": "Nagyon szeles pont; nyitáskor erősen fogja az autóajtót, mert az erős széllökések könnyen kikaphatják a kezéből.",
+                "ro": "Un loc foarte vântos; țineți bine ușa mașinii la deschidere, deoarece rafalele puternice o pot smulge ușor din mână.",
+                "en": "A very windy spot; hold the car door firmly when opening it, as strong gusts can easily catch it and pull it from your hand."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Pesceiros",
+                "hu": "Miradouro do Pesceiros",
+                "ro": "Miradouro do Pesceiros",
+                "en": "Miradouro do Pesceiros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tosenden Wellen aus dem Schutz des Wagens; die Brandung hier ist an Regentagen oft besonders gewaltig und laut.",
+                "hu": "Élvezze a morajló hullámokat az autó védelméből; a tajtékzó tenger esős napokon gyakran különösen hatalmas és hangos.",
+                "ro": "Admirați valurile din protecția mașinii; marea agitată este adesea extrem de impunătoare și zgomotoasă în zilele ploioase.",
+                "en": "Enjoy the roaring waves from the shelter of your car; the surf here is often particularly massive and loud on rainy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Calhau Miúdo",
+                "hu": "Calhau Miúdo",
+                "ro": "Calhau Miúdo",
+                "en": "Calhau Miúdo"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen Blick auf das wilde Wasser; bleiben Sie im Auto, wenn es zu stark regnet, und beobachten Sie die Gischt.",
+                "hu": "A parkolóból rálátni a vad vízre; ha túl erősen esik, maradjon az autóban, és figyelje a felcsapó fehér tajtékot.",
+                "ro": "Parcarea oferă o vedere spre apele sălbatice; dacă plouă prea tare, rămâneți în mașină și observați spuma albă a valurilor.",
+                "en": "The parking area overlooks the wild water; if it rains too hard, stay in the car and watch the white spray of the surf."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Capelas im Winter lässt sich am besten mit dem Komfort eines Mietwagens erkunden. Die morgendliche Kälte bleibt dank Heizung außen vor, während Sie zwischen den kulturellen Highlights und den windigen Klippen pendeln. Das Museum und die Kirche sind warme Zwischenstopps. Genießen Sie die klare Sicht an den Küstenstraßen und planen Sie Ihre Route so, dass Sie den frühen Sonnenuntergang gegen 17:00 Uhr am Meer erleben.",
+            "hu": "Capelas télen a bérautó kényelmével fedezhető fel a legjobban. A reggeli hideget a fűtés távol tartja, miközben a kulturális látnivalók és a szeles sziklák között ingázik. A múzeum és a templom meleg megállókat kínál. Élvezze a tiszta kilátást a tengerparti utakon, és tervezze úgy az útvonalat, hogy a 17:00 körüli korai naplementét a parton érje.",
+            "ro": "Capelas iarna se explorează cel mai bine cu confortul unei mașini. Frigul dimineții este ținut la distanță de încălzire în timp ce circulați între obiectivele culturale și stânci. Muzeul și biserica sunt popasuri calde. Bucurați-vă de vizibilitatea clară de pe drumurile de coastă și prindeți apusul de la ora 17:00 la malul mării.",
+            "en": "Exploring Capelas in winter is best done with the comfort of a car. The morning cold stays outside thanks to the heater as you commute between cultural highlights and windy cliffs. The museum and church offer warm stops. Enjoy the clear views on the coastal roads and plan your route to catch the early sunset around 17:00 by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Capelas",
+                "hu": "Museu Capelas",
+                "ro": "Museu Capelas",
+                "en": "Museu Capelas"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Vormittag gemütlich zu verbringen; die Innenräume sind gut geschützt vor der kühlen Meeresbrise.",
+                "hu": "Ideális hely a délelőtt kellemes eltöltéséhez; a belső terek jól védettek a hűvös tengeri szellőtől a téli napokon.",
+                "ro": "Un loc ideal pentru a petrece dimineața confortabil; interioarele sunt bine protejate de briza marină rece în zilele de iarnă.",
+                "en": "An ideal place to spend a cozy morning; the interior spaces are well-protected from the cool sea breeze on winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Apresentação",
+                "hu": "Igreja de Nossa Senhora da Apresentação",
+                "ro": "Igreja de Nossa Senhora da Apresentação",
+                "en": "Igreja de Nossa Senhora da Apresentação"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme; genießen Sie die Stille im Inneren, bevor Sie zur windigen Küstentour aufbrechen.",
+                "hu": "A vastag falak megőrzik a meleget; élvezze a benti csendet, mielőtt elindulna a szeles tengerparti kilátók felé.",
+                "ro": "Zidurile groase păstrează căldura; bucurați-vă de liniștea din interior înainte de a pleca spre coasta vântoasă.",
+                "en": "The thick walls retain warmth; enjoy the silence inside before heading out for your windy coastal tour of the viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Navio",
+                "hu": "Miradouro do Navio",
+                "ro": "Miradouro do Navio",
+                "en": "Miradouro do Navio"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Felsen scharf hervortreten; perfekt für Fotos direkt aus dem offenen Autofenster.",
+                "hu": "A tiszta téli fényben a sziklák élesen kirajzolódnak; tökéletes helyszín fotózáshoz akár a lehúzott autóablakból is.",
+                "ro": "Lumina clară de iarnă face ca stâncile să apară foarte clar; perfect pentru fotografii direct de la fereastra mașinii.",
+                "en": "The clear winter light makes the rocks stand out sharply; perfect for photos even directly from your open car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Sertão",
+                "hu": "Miradouro do Sertão",
+                "ro": "Miradouro do Sertão",
+                "en": "Miradouro do Sertão"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Atlantik; die warme Luft im Auto macht den kurzen Ausstieg bei Wind angenehmer.",
+                "hu": "Élvezze a széles kilátást az Atlanti-óceánra; az autó meleg levegője elviselhetőbbé teszi a rövid kiszállást a szélben.",
+                "ro": "Bucurați-vă de panorama largă a Atlanticului; aerul cald din mașină face scurta coborâre în vânt mai plăcută.",
+                "en": "Enjoy the wide view of the Atlantic; the warm air in the car makes the short step outside into the wind much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro das Pedras Negras",
+                "hu": "Miradouro das Pedras Negras",
+                "ro": "Miradouro das Pedras Negras",
+                "en": "Miradouro das Pedras Negras"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne erzeugt dramatische Schatten auf den schwarzen Felsen; ein schneller Stopp für tolle Lichteffekte.",
+                "hu": "Az alacsony téli nap drámai árnyékokat vet a fekete sziklákra; gyors megálló a nagyszerű fényhatások megörökítéséhez.",
+                "ro": "Soarele de iarnă creează umbre dramatice pe stâncile negre; un popas rapid pentru a surprinde efecte de lumină grozave.",
+                "en": "The low winter sun creates dramatic shadows on the black rocks; a quick stop to capture great lighting effects."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Vigia",
+                "hu": "Miradouro da Vigia",
+                "ro": "Miradouro da Vigia",
+                "en": "Miradouro da Vigia"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight bei Sonnenuntergang; bleiben Sie im Wagen, um die Farben am Himmel zu bewundern, während es draußen kühler wird.",
+                "hu": "Kiemelkedő pont naplementekor; maradjon az autóban, és csodálja az ég színeit, miközben kint egyre hűvösebbé válik az idő.",
+                "ro": "Un punct de referință la apus; rămâneți în mașină pentru a admira culorile cerului în timp ce afară se face tot mai frig.",
+                "en": "A highlight at sunset; stay in the car to admire the colors of the sky as it gets cooler outside toward the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Pesceiros",
+                "hu": "Miradouro do Pesceiros",
+                "ro": "Miradouro do Pesceiros",
+                "en": "Miradouro do Pesceiros"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung, die im Winter oft sehr kraftvoll ist; die Gischt sieht im weichen Nachmittagslicht großartig aus.",
+                "hu": "Figyelje a télen gyakran igen erőteljes hullámverést; a felcsapó permet nagyszerűen mutat a délutáni lágy fényekben.",
+                "ro": "Observați valurile care sunt adesea foarte puternice iarna; stropii de apă arată grozav în lumina blândă a după-amiezii.",
+                "en": "Watch the surf, which is often very powerful in winter; the spray looks great in the soft light of the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Calhau Miúdo",
+                "hu": "Calhau Miúdo",
+                "ro": "Calhau Miúdo",
+                "en": "Calhau Miúdo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier pünktlich zum Sonnenuntergang um 17:00 Uhr; die dunkle Silhouette der Felsen ist ein tolles Motiv.",
+                "hu": "Zárja itt a túrát pontosan a 17:00-s naplementére; a sziklák sötét sziluettje az alkonyatban remek fotótéma.",
+                "ro": "Încheiați turul aici la apusul de la ora 17:00; silueta întunecată a stâncilor în amurg este un subiect foto excelent.",
+                "en": "End your tour here right for the 17:00 sunset; the dark silhouette of the rocks in the twilight is a great photo subject."
+              }
+            }
+          ]
+        }
       }
     }
   }

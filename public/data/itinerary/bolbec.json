@@ -137,6 +137,168 @@
         "hu": "A reggel Bolbec szívében indul a protestáns templom és a Saint-Michel templom meglátogatásával. Délben megcsodálhatja a városházát, majd átsétál a Château du Val au Grès lenyűgöző birtokára. A délutánt a kastély parkjában és a közeli Sainte-Anne kápolnánál töltheti. A nap végére kényelmes tempóban fedezte fel a város történelmi örökségét.",
         "ro": "Dimineața începe în inima orașului Bolbec cu vizite la templul protestant și la biserica istorică Saint-Michel. La prânz veți admira Primăria, înainte de a merge la impresionantul Château du Val au Grès. După-amiaza vă bucurați de parcul castelului și de capela Sainte-Anne. Seara se încheie după o explorare relaxantă a patrimoniului central.",
         "en": "The morning begins in the heart of Bolbec with visits to Le temple and the majestic Saint-Michel Church, setting a historical tone. Around midday, you will admire the civic architecture at the Town Hall before walking over to the impressive Château du Val au Grès. The afternoon is spent enjoying the lush grounds and reflecting at the tranquil Chapelle Sainte-Anne nearby. As the tour concludes, you'll have experienced the core heritage of Bolbec at a leisurely pace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit wasserfester Kleidung bei den historischen Kirchen. Mittags bieten das Rathaus und das Schloss überdachte Zufluchtsorte vor den Schauern. Nachmittags ist auf den nassen, rutschigen Wegen zur Sainte-Anne besondere Vorsicht geboten. Der Abend klingt gemütlich und trocken in den warmen Innenräumen von Bolbec aus.",
+            "hu": "A reggel vízálló felszereléssel indul a történelmi templomoknál. Délben a városháza és a kastély fedett terei nyújtanak menedéket a záporok elől. Délután a Sainte-Anne kápolnához csúszós, nedves utakon kell rendkívül óvatosan sétálni. Az este meleg, benti pihenéssel és száradással zárul Bolbecben.",
+            "ro": "Dimineața începe cu echipament impermeabil explorând bisericile istorice. La prânz, primăria și castelul oferă un refugiu acoperit din calea ploii. După-amiaza cere atenție sporită pe aleile alunecoase spre Sainte-Anne. Seara se încheie cu o relaxare caldă și uscată în spațiile interioare din Bolbec.",
+            "en": "Morning starts with waterproof gear exploring the historic churches. Midday brings us to the town hall and castle where indoor spaces offer refuge from showers. Afternoon strolls to Sainte-Anne require caution on wet, slippery paths. Evening settles in with warm, dry indoor reflections in the heart of Bolbec."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le temple",
+                "hu": "Le temple",
+                "ro": "Le temple",
+                "en": "Le temple"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die robuste Architektur, während Sie dem Regen entfliehen; bringen Sie unbedingt einen stabilen Regenschirm und wasserfeste Schuhe mit.",
+                "hu": "Csodáld meg a robusztus építészetet, miközben menedéket találsz a záporok elől; mindenképpen hozz erős esernyőt és vízálló cipőt a rövid sétához.",
+                "ro": "Admiră arhitectura robustă în timp ce te adăpostești de ploile bruște; asigură-te că ai o umbrelă rezistentă și încălțăminte impermeabilă la plimbare.",
+                "en": "Admire the robust architecture while escaping the sudden downpours; make sure to bring a sturdy umbrella and waterproof shoes for the short walk here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Die Buntglasfenster wirken im Regen besonders stimmungsvoll; treten Sie ein, um sich aufzuwärmen und die rutschigen Außentreppen sicher zu meiden.",
+                "hu": "Az ólomüveg ablakok különösen hangulatosak esőben; lépj be, hogy megszáradj, és élvezd a békés belső teret, elkerülve a csúszós külső lépcsőket.",
+                "ro": "Vitraliile arată excepțional de melancolic în ploaie; intră să te usuci și să te bucuri de interiorul pașnic, evitând treptele exterioare alunecoase.",
+                "en": "The stained glass looks exceptionally moody in the rain; step inside to dry off and enjoy the peaceful interior while avoiding the slippery outside steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Bolbec",
+                "hu": "Bolbec városháza",
+                "ro": "Primăria Bolbec",
+                "en": "Bolbec Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die bürgerliche Eleganz unter Ihrem Regenschirm; der überdachte Eingangsbereich bietet eine willkommene Pause vom anhaltenden Nieselregen.",
+                "hu": "Szemléld meg a polgári eleganciát az esernyőd alól; a fedett bejárati rész rövid, de nagyon is üdvözölt felüdülést nyújt a kinti folyamatos szitálásból.",
+                "ro": "Privește eleganța civică de sub umbrela ta; zona de intrare acoperită oferă un scurt și binevenit răgaz de la burnița continuă de afară.",
+                "en": "View the civic elegance from under your umbrella; the covered entrance area provides a brief and welcome respite from the continuous drizzle outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Val au Grès",
+                "hu": "Château du Val au Grès",
+                "ro": "Château du Val au Grès",
+                "en": "Château du Val au Grès"
+              },
+              "tip_5lang": {
+                "de": "Die Parkanlagen sind bei Nässe üppig und lebendig, aber Sie sollten robuste, wasserdichte Wanderschuhe tragen, um die schlammigen Wege sicher zu meistern.",
+                "hu": "A birtok területe esőben buja és élénk zöld, de mindenképpen masszív vízálló túracipőt kell viselned, hogy biztonságosan haladj a sáros ösvényeken.",
+                "ro": "Domeniul este luxuriant și vibrant când este ud, dar trebuie să porți încălțăminte de drumeție impermeabilă pentru a parcurge în siguranță potecile noroioase.",
+                "en": "The estate grounds are lush and vibrant when wet, but you must wear sturdy waterproof hiking shoes to navigate the potentially muddy paths safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Sainte-Anne kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Die isolierte Kapelle bietet bei Regen eine stimmungsvolle Atmosphäre; achten Sie genau auf Ihre Schritte, da die nassen Steinwege sehr rutschig werden.",
+                "hu": "Az elszigetelt kápolna hangulatos, atmoszférikus környezetet kínál esőben; nagyon figyelj a lépéseidre, mert a nedves kőutak rendkívül csúszóssá válnak.",
+                "ro": "Capela izolată oferă un decor plin de atmosferă în ploaie; fii foarte atent la pașii tăi, deoarece aleile din piatră udă devin extrem de alunecoase.",
+                "en": "The isolated chapel offers a moody, atmospheric setting in the rain; pay close attention to your footing as the wet stone pathways get very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Morgenluft begleitet unseren Spaziergang durch die historischen Stätten. Mittags bieten Rathaus und Schloss frostige, aber wunderschöne Winteraussichten. Der Nachmittag endet früh bei Sainte-Anne, bevor die Dunkelheit einsetzt. Der Abend bricht mit dem Sonnenuntergang um 17:00 Uhr schnell herein, perfekt für ein warmes Getränk.",
+            "hu": "A csípős reggeli levegő végigkíséri sétánkat a történelmi helyszíneken. Délben a városháza és a kastély gyönyörű, de fagyos téli látványt nyújt. A délután hamar véget ér a Sainte-Anne-nál a sötétedés előtt. Az este korán, már 17:00 körül beköszönt, ami tökéletes ürügy egy meleg italra.",
+            "ro": "Aerul rece al dimineții ne însoțește plimbarea pe la siturile istorice. La prânz, primăria și castelul oferă peisaje de iarnă frumoase, dar geroase. După-amiaza se termină devreme la Sainte-Anne. Seara aduce un apus rapid în jurul orei 17:00, un moment perfect pentru o băutură caldă.",
+            "en": "Crisp morning air accompanies our walk through the historic sites. By noon, the town hall and castle grounds offer chilly but beautiful winter vistas. The afternoon wraps up early at Sainte-Anne before dusk. Evening brings a quick sunset around 17:00, making it the perfect time for a warm drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le temple",
+                "hu": "Le temple",
+                "ro": "Le temple",
+                "en": "Le temple"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein, bevor Sie diese historische Stätte bewundern; die dicken Steinmauern speichern die tiefe Winterkälte bis in die späten Morgenstunden.",
+                "hu": "Öltözz meleg rétegekbe, mielőtt megcsodálod ezt a történelmi helyszínt; a vastag kőfalak a csípős reggeli órákban is sokáig megőrzik a mély téli hideget.",
+                "ro": "Îmbracă-te în straturi calde înainte de a admira acest sit istoric; pereții săi groși de piatră tind să rețină frigul adânc al iernii până târziu dimineața.",
+                "en": "Wrap up in warm layers before admiring this historic site; its thick stone walls tend to retain the deep winter chill long into the crisp morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht, das durch die Fenster fällt, ist atemberaubend; behalten Sie Ihre Handschuhe an, da der weitläufige Innenraum recht zugig und kalt sein kann.",
+                "hu": "Az ablakokon átszűrődő téli fény lenyűgöző; tartsd magadon a kesztyűt, mert a hatalmas belső tér meglehetősen huzatos és hideg tud lenni.",
+                "ro": "Lumina de iarnă care se filtrează prin ferestre este uimitoare; păstrează-ți mănușile pe mâini, deoarece interiorul spațios poate fi destul de rece și cu curenți.",
+                "en": "The winter light filtering through the windows is stunning; keep your gloves on as the expansive interior can be quite drafty and cold during the season."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Bolbec",
+                "hu": "Bolbec városháza",
+                "ro": "Primăria Bolbec",
+                "en": "Bolbec Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die bürgerliche Fassade wirkt gegen einen grauen Winterhimmel sehr majestätisch; gehen Sie zügig umher, um Ihre Körpertemperatur in der Kälte aufrechtzuerhalten.",
+                "hu": "A polgári homlokzat fenségesen mutat a szürke téli égbolt előtt; sétálj fürgén, hogy fenntartsd a testhőmérsékletedet a csípős hidegben.",
+                "ro": "Fațada civică arată maiestuos pe un cer gri de iarnă; plimbă-te într-un ritm alert pentru a-ți menține temperatura corpului ridicată în frigul tăios.",
+                "en": "The civic facade looks stately against a grey winter sky; briskly walk around the perimeter to keep your body temperature up in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Val au Grès",
+                "hu": "Château du Val au Grès",
+                "ro": "Château du Val au Grès",
+                "en": "Château du Val au Grès"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume enthüllen die wahre Struktur des Schlosses; tragen Sie Thermosocken, da die gefrorenen Böden der Parkanlage sehr kalt durch die Sohlen wirken.",
+                "hu": "A csupasz fák felfedik a kastély valódi szerkezetét; viselj termózoknit, mert a fagyos talaj nagyon hideg tud lenni a cipőtalpon keresztül.",
+                "ro": "Copacii golași dezvăluie structura adevărată a castelului; poartă șosete termice, deoarece pământul înghețat transmite mult frig prin tălpile încălțămintei.",
+                "en": "The bare trees reveal the castle's true structure; wear thermal socks as the frozen grounds of the estate will transmit the bitter cold through your shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Sainte-Anne kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort unbedingt vor dem frühen Sonnenuntergang um 17:00 Uhr; der beißende Wind an dieser exponierten Stelle erfordert eine gute Wintermütze.",
+                "hu": "Mindenképpen a korai, 17:00 órás naplemente előtt látogass ide; a metsző szél ezen a kitett helyen egy jó, meleg téli sapkát is megkövetel.",
+                "ro": "Vizitează acest loc înainte de apusul devreme de la ora 17:00; vântul tăios de pe acest deal expus necesită o căciulă groasă de iarnă.",
+                "en": "Make sure to visit before the early 17:00 sunset to see it in daylight; the biting wind at this exposed location firmly requires a good winter hat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpártúra a központban kezdődik a városháza, a Saint-Michel és a protestáns templom érintésével. Délben a Château du Val au Grès felé teker, ahol bejárhatja a történelmi birtokot. Délután a Sainte-Anne kápolnához, majd délre, a Saint-Thomas templomhoz pedáloz. A túra a déli peremvidéken zárul, kellemes panorámával gazdagítva a napot.",
         "ro": "Turul cu bicicleta începe în centru la Primărie, biserica Saint-Michel și templul istoric. La prânz pedalați către Château du Val au Grès, unde explorați imensa proprietate istorică. După-amiaza mergeți la capela Sainte-Anne și apoi spre sud la biserica Saint-Thomas. Turul se încheie în periferia sudică, oferind perspective panoramice relaxante.",
         "en": "Your cycling journey starts in the town center, checking out the Town Hall and the notable Saint-Michel and Le temple churches. By midday, pedal towards the Château du Val au Grès, where you can park your bike and explore the extensive historical estate. In the afternoon, you ride to the serene Chapelle Sainte-Anne and then push southwards to the uniquely named Église Saint-Thomas. The bike tour wraps up in the southern outskirts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen auf dem Rad beginnt am Rathaus; tragen Sie eine wasserdichte Warnweste. Mittags bedeutet die Fahrt zum Schloss, nasses Laub zu umgehen. Der Nachmittag zur Sainte-Anne erfordert vorsichtiges Bremsen auf glatten Straßen. Abends müssen Sie Ihr Fahrrad nach der nassen Tour im Trockenen unterbringen.",
+            "hu": "Egy esős reggeli bringázás a városházánál indul; viselj vízálló, láthatósági kabátot. Délben a kastély felé nedves faleveleket kell kerülgetni. A délutáni tekerés a kápolnákhoz óvatos fékezést igényel a csúszós utakon. Az este azzal telik, hogy szárazra törlöd a kerékpárt a fedett szálláson.",
+            "ro": "O dimineață ploioasă pe bicicletă începe la primărie; poartă o jachetă impermeabilă vizibilă. La prânz, drumul spre castel înseamnă evitarea frunzelor ude. După-amiaza spre Sainte-Anne cere frânare atentă pe drumurile alunecoase. Seara trebuie să îți usuci bicicleta într-un spațiu acoperit.",
+            "en": "A rainy morning ride starts at the town hall; wear a high-vis waterproof jacket. Midday cycling to the castle means carefully navigating wet leaves. The afternoon route to Sainte-Anne requires gentle braking on slick roads. Evening calls for drying off your bike thoroughly indoors after a wet journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Bolbec",
+                "hu": "Bolbec városháza",
+                "ro": "Primăria Bolbec",
+                "en": "Bolbec Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre nasse Fahrt hier und bewundern Sie die Fassade; senken Sie den Reifendruck leicht, um auf dem rutschigen Pflaster besseren Halt zu haben.",
+                "hu": "Kezdd itt a nedves utadat és csodáld meg a homlokzatot; engedj ki egy kicsit a guminyomásból, hogy jobb legyen a tapadás a csúszós burkolaton.",
+                "ro": "Începe cursa udă aici și admiră fațada; scade ușor presiunea în anvelope pentru a avea o aderență mai bună pe pavajul alunecos.",
+                "en": "Start your wet ride here and admire the facade; lower your tire pressure slightly for better grip on the potentially slippery paved areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in dieser großen Kirche; benutzen Sie Schutzbleche an Ihrem Fahrrad, um Schlammspritzer auf dem Weg hierher zu vermeiden.",
+                "hu": "Keress menedéket ebben a hatalmas templomban; használj sárvédőt a kerékpárodon, hogy elkerüld a sárfelverődést útközben.",
+                "ro": "Caută adăpost în această biserică grandioasă; folosește apărători de noroi la bicicletă pentru a evita stropirea pe drumul până aici.",
+                "en": "Seek shelter inside this grand church; make sure to use fenders on your bike to avoid heavy mud spray on your way here."
+              }
+            },
+            {
+              "name": {
+                "de": "Le temple",
+                "hu": "Le temple",
+                "ro": "Le temple",
+                "en": "Le temple"
+              },
+              "tip_5lang": {
+                "de": "Die Steindetails stechen in der feuchten Luft hervor; parken Sie Ihr Fahrrad unter nahegelegenen Bäumen, um den Sattel relativ trocken zu halten.",
+                "hu": "A kőből faragott részletek kiemelkednek a párás levegőben; parkold le a bringát a közeli fák alatt, hogy a nyereg viszonylag száraz maradjon.",
+                "ro": "Detaliile din piatră ies în evidență în aerul umed; parchează bicicleta sub copacii din apropiere pentru a menține șaua relativ uscată.",
+                "en": "The stone details stand out in the damp air; park your bike safely under nearby trees to keep your saddle relatively dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Val au Grès",
+                "hu": "Château du Val au Grès",
+                "ro": "Château du Val au Grès",
+                "en": "Château du Val au Grès"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Laub macht das Anwesen farbenfroh; bremsen Sie frühzeitig auf dem Gefälle zum Schlossgelände, um nicht ins Rutschen zu geraten.",
+                "hu": "A nedves lombozat vibrálóvá teszi a birtokot; fékezz korán a kastély területére vezető lejtőn, nehogy megcsússz a sárban.",
+                "ro": "Frunzișul ud face domeniul mai vibrant; frânează din timp pe coborârea spre terenurile castelului pentru a nu aluneca.",
+                "en": "The wet foliage makes the estate vibrant; ensure you brake early on the descent to the castle grounds to avoid skidding on the slick surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Sainte-Anne kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dieser Kapelle eine mystische Note; achten Sie auf rutschiges nasses Laub auf dem Radweg, der hierhinauf führt.",
+                "hu": "Az eső misztikus hangulatot kölcsönöz a kápolnának; nagyon vigyázz a felvezető kerékpárúton heverő csúszós, nedves falevelekkel.",
+                "ro": "Ploaia adaugă o notă mistică acestei capele; fii atent la frunzele ude și alunecoase de pe pista de biciclete care urcă aici.",
+                "en": "The rain adds a mystical feel to this chapel; watch out carefully for slippery wet leaves scattered across the cycle path leading up to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Thomas-de-Cantorbéry",
+                "hu": "Saint-Thomas-de-Cantorbéry templom",
+                "ro": "Biserica Saint-Thomas-de-Cantorbéry",
+                "en": "Église Saint-Thomas-de-Cantorbéry"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Reise an dieser historischen Kirche; navigieren Sie vorsichtig über die glatten Landstraßen bei Ihrer Ankunft.",
+                "hu": "Fejezd be a nedves túrát ennél a történelmi templomnál; nagyon óvatosan navigálj a csúszós vidéki utakon a megérkezéskor.",
+                "ro": "Încheie-ți călătoria ploioasă la această biserică istorică; navighează cu mare grijă pe drumurile de țară alunecoase la sosire.",
+                "en": "End your wet journey at this historic church; carefully navigate the slick and muddy country roads as you finally arrive here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das frostige Morgenradeln startet am Zentrum; Thermohandschuhe sind Pflicht. Mittags lockt das Schloss mit klarer Winterluft. Die Nachmittagsfahrt zu den Kapellen ist ein Rennen gegen den frühen Sonnenuntergang um 17:00 Uhr. Abends wird es rasant dunkel, gute Fahrradbeleuchtung ist für den Heimweg überlebenswichtig.",
+            "hu": "A fagyos reggeli tekerés a központból indul; a termókesztyű kötelező. Délben a kastély tiszta téli levegővel csábít. A délutáni túra a kápolnákhoz versenyfutás a korai, 17:00 órás naplementével. Este hirtelen lesz sötét, így a megbízható kerékpárlámpa életmentő a hazaúton.",
+            "ro": "Ciclismul pe gerul dimineții începe în centru; mănușile termice sunt obligatorii. La prânz, castelul atrage cu aer de iarnă curat. Cursa de după-amiază spre capele este o cursă contra apusului de la 17:00. Seara se întunecă rapid, luminile puternice la bicicletă fiind vitale.",
+            "en": "Frosty morning cycling kicks off at the civic center; insulated cycling gloves are essential. Midday brings clear, crisp views at the castle. The afternoon ride to the chapels races against the early 17:00 sunset. Evening arrives quickly, demanding strong, fully charged bike lights for the dark journey home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Bolbec",
+                "hu": "Bolbec városháza",
+                "ro": "Primăria Bolbec",
+                "en": "Bolbec Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Der Frost hebt die klassischen Linien des Gebäudes hervor; stellen Sie sicher, dass Ihre Fahrradlichter für die kurzen Wintertage voll geladen sind.",
+                "hu": "A dér kiemeli az épület klasszikus vonalait; győződj meg róla, hogy a kerékpárlámpáid teljesen fel vannak töltve a rövid téli napokra.",
+                "ro": "Gerul evidențiază liniile clasice ale clădirii; asigură-te că luminile bicicletei sunt complet încărcate pentru zilele scurte de iarnă.",
+                "en": "The frost highlights the building's classic lines; ensure your bike lights are fully charged for the exceptionally short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach Ihrer kühlen Fahrt im Inneren auf; eine thermische Basisschicht ist heute unerlässlich, um auf dem Rad komfortabel zu bleiben.",
+                "hu": "Melegedj fel a hűvös tekerés után odabent; egy jó minőségű termó aláöltözet ma elengedhetetlen a kényelmes bringázáshoz.",
+                "ro": "Încălzește-te în interior după cursa ta rece; un strat de bază termic este esențial pentru a rămâne confortabil pe bicicletă astăzi.",
+                "en": "Warm up inside after your chilly ride; a reliable thermal base layer is absolutely essential to stay comfortable while cycling today."
+              }
+            },
+            {
+              "name": {
+                "de": "Le temple",
+                "hu": "Le temple",
+                "ro": "Le temple",
+                "en": "Le temple"
+              },
+              "tip_5lang": {
+                "de": "Der ruhige Wintermorgen verleiht diesem Ort Frieden; bleiben Sie in Bewegung, um Ihre Körperwärme in der eisigen Luft zu halten.",
+                "hu": "A csendes téli reggel békét kölcsönöz a helynek; maradj folyamatos mozgásban, hogy megőrizd a testhődet a fagyos levegőben.",
+                "ro": "Dimineața liniștită de iarnă adaugă pace acestui sit; continuă să te miști pentru a-ți menține căldura corporală în aerul înghețat.",
+                "en": "The quiet winter morning adds peace to this site; keep moving around the exterior to maintain your body heat in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Val au Grès",
+                "hu": "Château du Val au Grès",
+                "ro": "Château du Val au Grès",
+                "en": "Château du Val au Grès"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winteräste rahmen das Schloss wunderschön ein; achten Sie jedoch genau auf Glatteis auf den schattigen Radwegen.",
+                "hu": "A csupasz téli ágak gyönyörűen keretezik a kastélyt; azonban nagyon figyelj a fekete jégre a birtok árnyékos kerékpárútjain.",
+                "ro": "Crengile goale de iarnă încadrează castelul frumos; fii totuși foarte atent la gheața neagră de pe pistele umbrite ale domeniului.",
+                "en": "The stark winter branches frame the castle beautifully; however, watch carefully for dangerous black ice on the shaded cycling pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Sainte-Anne kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie hierhin, bevor die Sonne tief steht; der beißende Wind auf dieser ungeschützten Strecke erfordert eine gute winddichte Jacke.",
+                "hu": "Tekerj ide még azelőtt, hogy a nap alacsonyan járna; a metsző szél ezen a védtelen szakaszon egy kiváló szélálló dzsekit követel meg.",
+                "ro": "Ciclează până aici înainte ca soarele să coboare; vântul tăios de pe această rută expusă necesită o jachetă rezistentă la vânt de calitate.",
+                "en": "Cycle here before the sun drops low; the biting crosswind on this heavily exposed route requires a top-quality windproof cycling jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Thomas-de-Cantorbéry",
+                "hu": "Saint-Thomas-de-Cantorbéry templom",
+                "ro": "Biserica Saint-Thomas-de-Cantorbéry",
+                "en": "Église Saint-Thomas-de-Cantorbéry"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das schwindende Winterlicht an dieser letzten Station; schalten Sie Ihre hellen Lichter ein, da die Dämmerung rasch hereinbricht.",
+                "hu": "Élvezd a halványuló téli fényt ezen az utolsó állomáson; kapcsold be az erős lámpáidat, mert a szürkület rendkívül gyorsan leszáll.",
+                "ro": "Bucură-te de lumina slabă de iarnă la această ultimă oprire; aprinde luminile puternice, deoarece întunericul se lasă foarte rapid.",
+                "en": "Enjoy the fading winter light at this final stop; make sure to turn on your brightest lights as the deep dusk settles extremely rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autós útvonal északon, a Saint-Sauveur templomnál indul, mielőtt a Château du Val au Grès felé venné az irányt. Délben a központban a városházát és a Saint-Michel templomot nézheti meg. Délután a Sainte-Anne kápolnához, majd délnyugatra, a Saint-Eustache templomhoz vezet az út. Így a város minden távolabbi kincsét kényelmesen bejárta a nap végére.",
         "ro": "Cu mașina începeți în nord la Saint-Sauveur, înainte de a vedea impresionantul Château du Val au Grès. La prânz ajungeți în centru pentru opriri la Primărie și biserica Saint-Michel. După-amiaza conduceți la capela Sainte-Anne, iar apoi în sud-vest la biserica Saint-Eustache. Astfel, veți fi explorat eficient toate comorile arhitecturale dispersate ale orașului.",
         "en": "Driving allows you to start in the north at Église Saint-Sauveur before heading into the town to see the sprawling Château du Val au Grès. Midday brings you to the bustling center for quick stops at the Town Hall and Saint-Michel Church, easily moving between key sites. After lunch, a brief drive takes you to the peaceful Chapelle Sainte-Anne before cruising to the southwestern corner at Église Saint-Eustache. Concluding your driving itinerary, you will have efficiently covered Bolbec's most distant architectural treasures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Morgenfahrt bewahrt Sie vor Nässe an den Kirchen. Mittags erfordert das Parken in der Nähe von Rathaus und Schloss einen großen Regenschirm beim Aussteigen. Die Nachmittagsfahrt zu den äußeren Kapellen bedeutet, nasse und rutschige Straßen zu meistern. Abends ist wegen des starken Nieselregens beim Fahren besondere Vorsicht geboten.",
+            "hu": "Egy esős reggeli autózás melegen és szárazon tart a templomoknál. Délben a városháza és a kastély melletti parkolásnál nagy esernyőre lesz szükség kiszálláskor. A délutáni vezetés a külső kápolnákhoz nedves, csúszós utakat jelent. Este a heves szitálás miatt fokozott óvatosság szükséges a volán mögött Bolbecben.",
+            "ro": "O plimbare matinală ploioasă cu mașina te menține uscat la biserici. La prânz, parcarea lângă primărie și castel necesită o umbrelă mare la coborâre. Conducerea de după-amiază spre capelele exterioare înseamnă drumuri ude și alunecoase. Seara se impune prudență maximă la volan din cauza burniței dense.",
+            "en": "A rainy morning drive to the churches keeps you warm and dry. Midday parking near the town hall and castle requires a large umbrella when stepping out. The afternoon drive to the outer chapels means dealing with wet, slick roads. Evening driving in Bolbec demands extreme caution due to the heavy drizzle and glare."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Saint-Sauveur templom",
+                "ro": "Biserica Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur bequem aus dem trockenen Auto heraus, bevor Sie mit einem großen Regenschirm aussteigen.",
+                "hu": "Csodáld meg az építészetet a száraz autó kényelméből, mielőtt egy hatalmas esernyővel a kezedben kiszállnál körülnézni.",
+                "ro": "Admiră arhitectura din confortul mașinii tale uscate, înainte de a ieși afară protejat de o umbrelă de mari dimensiuni.",
+                "en": "Admire the architecture from the sheer comfort of your dry car before finally stepping out with a large, sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Val au Grès",
+                "hu": "Château du Val au Grès",
+                "ro": "Château du Val au Grès",
+                "en": "Château du Val au Grès"
+              },
+              "tip_5lang": {
+                "de": "Das regnerische Anwesen sieht tiefgrün aus; tragen Sie wasserdichte Gummistiefel, da der Parkplatzbereich sehr schlammig werden kann.",
+                "hu": "Az esős birtok mélyzöld színben pompázik; viselj vízálló gumicsizmát, mert a parkoló környéke hamar nagyon sárossá válhat.",
+                "ro": "Domeniul ploios arată de un verde profund; poartă cizme impermeabile, deoarece zona de parcare poate deveni foarte noroioasă.",
+                "en": "The rainy estate looks deeply green and lush; wear waterproof boots as the unpaved parking area can get quite muddy very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Bolbec",
+                "hu": "Bolbec városháza",
+                "ro": "Primăria Bolbec",
+                "en": "Bolbec Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Straßen reflektieren die Lichter des Gebäudes schön; parken Sie nah am Eingang, um die Zeit im Platzregen zu minimieren.",
+                "hu": "A nedves utcák gyönyörűen tükrözik az épület fényeit; parkolj minél közelebb a bejárathoz, hogy minimalizáld az esőben töltött időt.",
+                "ro": "Străzile ude reflectă frumos luminile clădirii; parchează aproape de intrare pentru a minimiza timpul petrecut în ploaia torențială.",
+                "en": "The wet streets reflect the building's lights beautifully; park close to the entrance to minimize your time walking in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem Regen im Inneren dieser prächtigen Kirche; fahren Sie langsam auf dem nassen Kopfsteinpflaster dorthin.",
+                "hu": "Keress menedéket az eső elől e csodálatos templom belsejében; vezess lassan és óvatosan a nedves macskaköves utakon arrafelé.",
+                "ro": "Caută refugiu din calea ploii în interiorul acestei biserici magnifice; condu încet pe piatra cubică udă când te apropii de ea.",
+                "en": "Take refuge from the heavy rain inside this magnificent church; remember to drive slowly on the wet cobblestones approaching it."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Sainte-Anne kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht diesem abgelegenen Ort eine melancholische Stimmung; stellen Sie sicher, dass Ihre Scheibenwischer für die Fahrt gut funktionieren.",
+                "hu": "Az eső elszigetelt, melankolikus hangulatot ad ennek a helynek; indulás előtt ellenőrizd, hogy az ablaktörlőid kifogástalanul működnek-e.",
+                "ro": "Ploaia oferă acestui loc izolat un aer melancolic; asigură-te că ștergătoarele de parbriz funcționează perfect pentru condus.",
+                "en": "The rain gives this spot a secluded, moody feel; ensure your windshield wipers are fully functioning for the drive up the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eustache",
+                "hu": "Saint-Eustache templom",
+                "ro": "Biserica Saint-Eustache",
+                "en": "Église Saint-Eustache"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Autotour hier; auf den ländlichen Straßen können sich große Pfützen bilden, reduzieren Sie also Ihre Geschwindigkeit deutlich.",
+                "hu": "Fejezd be a nedves autós túrát itt; a vidéki utakon hatalmas tócsák gyűlhetnek össze, ezért jelentősen csökkentsd a sebességedet.",
+                "ro": "Încheie turul ploios cu mașina aici; drumurile rurale pot aduna bălți mari, așa că redu-ți viteza în mod semnificativ pe traseu.",
+                "en": "End your wet driving tour here; the rural roads can pool with deep water, so reduce your speed significantly to avoid hydroplaning."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Morgenfahrt bietet eine warme Möglichkeit, das frostige Bolbec zu sehen. Mittags beim Rathaus und Schloss müssen Sie sich beim Verlassen des Autos warm einpacken. Der Nachmittag endet früh, da die Sonne schon um 17:00 Uhr untergeht. Der Abend naht schnell und macht die Autoheizung auf dem Rückweg zu einem wahren Luxus.",
+            "hu": "A kényelmes reggeli autózás meleg módot kínál a fagyos Bolbec felfedezésére. Délben a városházánál és a kastélynál jól fel kell öltözni, amikor kiszállsz a kocsiból. A délután korán véget ér, hiszen a nap már 17:00 órakor lebukik. Az este gyorsan közeledik, így az autó fűtése igazi luxus lesz a visszaúton.",
+            "ro": "O plimbare matinală confortabilă este un mod cald de a vedea Bolbecul înghețat. La prânz, la primărie și castel, trebuie să te înfofolești când ieși din mașină. După-amiaza se termină devreme, soarele apunând la 17:00. Seara se apropie rapid, făcând din căldura mașinii un adevărat lux la întoarcere.",
+            "en": "A cozy morning drive offers a warm way to see frosty Bolbec. Midday visits to the town hall and castle require bundling up heavily when leaving the car. The afternoon wraps up early as the sun sets completely by 17:00. Evening approaches fast, making the car's heater a welcome luxury on the way home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Saint-Sauveur templom",
+                "ro": "Biserica Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den kalten Tag hier; lassen Sie die Autoheizung laufen, um sich nach der Erkundung des frostigen Außenbereichs schnell aufzuwärmen.",
+                "hu": "Kezdd a hideg napot itt; hagyd járni az autó fűtését, hogy gyorsan felmelegedj, miután körbejártad a dérlepte külső területeket.",
+                "ro": "Începe ziua rece aici; lasă căldura mașinii pornită pentru a te încălzi rapid după ce ai explorat exteriorul înghețat.",
+                "en": "Start the chilly day here; keep the car heater running to warm up quickly after exploring the frosty exterior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Val au Grès",
+                "hu": "Château du Val au Grès",
+                "ro": "Château du Val au Grès",
+                "en": "Château du Val au Grès"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht inmitten kahler Winterbäume atemberaubend aus; achten Sie auf gefährliche Eisflächen auf dem schattigen Parkplatz.",
+                "hu": "A kastély lenyűgözően néz ki a csupasz téli fák között; nagyon vigyázz a veszélyes jégfoltokkal az árnyékos parkolóban.",
+                "ro": "Castelul arată uimitor printre copacii golași de iarnă; fii atent la peticele periculoase de gheață din parcarea umbrită.",
+                "en": "The castle looks stunning amidst bare winter trees; watch closely for dangerous icy patches in the deeply shaded parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Bolbec",
+                "hu": "Bolbec városháza",
+                "ro": "Primăria Bolbec",
+                "en": "Bolbec Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus steht stolz in der kalten Luft; ziehen Sie sich einen dicken Wintermantel an für den kurzen Weg von Ihrem Fahrzeug.",
+                "hu": "A városháza büszkén magasodik a hideg levegőben; vegyél fel egy vastag téli kabátot arra a rövid sétára is, amíg a járműtől odaérsz.",
+                "ro": "Primăria stă mândră în aerul rece; îmbracă un palton gros de iarnă chiar și pentru scurta plimbare de la vehiculul tău.",
+                "en": "The civic center stands proud in the biting cold air; wear a thick winter coat even for the short walk from your parked vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Saint-Michel templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft lässt das Kircheninnere noch imposanter wirken; halten Sie einen Eiskratzer bereit, falls Ihre Windschutzscheibe zufriert.",
+                "hu": "A hideg levegőtől a templombelső még impozánsabbnak hat; tarts készenlétben egy jégkaparót, ha esetleg befagyna a szélvédőd.",
+                "ro": "Aerul rece face interiorul bisericii să pară și mai impunător; ține la îndemână o racletă în caz că parbrizul îngheață.",
+                "en": "The cold air makes the church interior feel even more imposing; keep a scraper handy inside just in case your windshield frosts over."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Sainte-Anne",
+                "hu": "Sainte-Anne kápolna",
+                "ro": "Capela Sainte-Anne",
+                "en": "Chapelle Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hierhin vor dem frühen Sonnenuntergang um 17:00 Uhr, um die letzten Sonnenstrahlen zu erhaschen; die Landstraßen können sehr eisig sein.",
+                "hu": "Vezess ide még a korai, 17:00 órás naplemente előtt, hogy elkapd az utolsó fénysugarakat; a vidéki utak rendkívül jegesek lehetnek.",
+                "ro": "Condu aici înainte de apusul de la ora 17:00 pentru a prinde ultimele raze de soare; drumurile de țară pot fi foarte înghețate.",
+                "en": "Drive here before the early 17:00 sunset to safely catch the last rays of light; the exposed countryside roads can be very icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Eustache",
+                "hu": "Saint-Eustache templom",
+                "ro": "Biserica Saint-Eustache",
+                "en": "Église Saint-Eustache"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, wenn die winterliche Dämmerung über die Landschaft hereinbricht; prüfen Sie, ob Frostschutzmittel und Scheinwerfer winterfest sind.",
+                "hu": "Érkezz meg, amikor a téli szürkület leszáll a tájra; győződj meg róla, hogy az autód fagyállója és fényszórói készen állnak a télre.",
+                "ro": "Ajungi exact când amurgul de iarnă cade peste peisaj; asigură-te că antigelul și farurile mașinii sunt complet pregătite pentru iarnă.",
+                "en": "Arrive as the winter dusk heavily falls over the landscape; ensure your car's anti-freeze and headlights are completely winter-ready."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi püspöki palotánál kezdődik, melyet a fenséges Notre-Dame katedrális követ. A délidő a híres faliszőnyegé, amely feltárja a középkori történelmet. Délután a normandiai csata mélyreható emlékművét fedezzük fel. Az este egy utolsó elismerő sétával zárul a múzeum területén.",
         "ro": "Dimineața începe la palatul episcopal istoric, urmată de maiestuoasa Catedrală Notre-Dame. Amiaza este dedicată faimoasei tapiserii, dezvăluind istoria medievală. După-amiaza explorează profundul Memorial al Bătăliei pentru Normandia. Seara se încheie cu o plimbare de apreciere pe lângă muzeu.",
         "en": "Morning begins at the historic bishop's palace, followed by the majestic Notre-Dame Cathedral. Midday is dedicated to the famous tapestry, unraveling medieval history. Afternoon explores the profound Normandy Battle Memorial. Evening concludes with a final appreciative stroll near the tapestry museum grounds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz des ehemaligen Bischofspalasts. Mittags bietet die massive Kathedrale ein trockenes und würdevolles Refugium vor dem Regen. Der Nachmittag steht im Zeichen der Museen, deren beheizte Räume ideal für nasses Wetter sind. Abends spiegeln sich die Lichter der Stadt stimmungsvoll in den Pfützen der Kopfsteinpflastergassen.",
+            "hu": "Reggel a püspöki palota masszív falai között kezdünk, ahol az eső elől védve nézelődhetünk. Délben a katedrális monumentális belső tere nyújt tökéletes menedéket a zord időjárás elől. Délután a világhírű faliszőnyeg és a hadtörténeti múzeum fedett termeiben kalandozunk. Estére a kivilágított óváros vizes kövei csillognak a sötétben.",
+            "ro": "Începeți dimineața la adăpostul fostului palat episcopal. La prânz, catedrala masivă oferă un refugiu uscat și demn împotriva ploii. După-amiaza este dedicată muzeelor, ale căror săli încălzite sunt ideale pentru vremea umedă. Seara, luminile orașului se reflectă atmosferic în bălțile de pe străzile pietruite.",
+            "en": "Start the morning sheltered within the former Episcopal Palace. At noon, the massive cathedral provides a dry and dignified sanctuary from the rain. Spend the afternoon in the museums, whose heated rooms are ideal for wet weather. In the evening, the city lights reflect atmospherically in the puddles of the cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancien palais épiscopal, aktuell Rathaus",
+                "hu": "Egykori püspöki palota, ma Városháza",
+                "ro": "Fostul palat episcopal, în prezent primărie",
+                "en": "Former Episcopal Palace, currently City Hall"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Architektur von den überdachten Bereichen aus; tragen Sie rutschfeste Schuhe, da die Steinstufen bei Nässe sehr glatt werden können.",
+                "hu": "Csodálja meg az építészetet a fedett részekről; viseljen csúszásmentes talpú cipőt, mert a kőlépcsők az esőtől rendkívül síkossá válhatnak.",
+                "ro": "Admirați arhitectura din zonele acoperite; purtați încălțăminte antiderapantă, deoarece treptele de piatră pot deveni foarte alunecoase când sunt ude.",
+                "en": "Admire the architecture from the sheltered areas; wear non-slip shoes as the stone steps can become very slippery when wet during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als trockenen Rückzugsort; achten Sie beim Betreten auf die Matte, um mit nassen Sohlen nicht auf dem Marmor auszurutschen.",
+                "hu": "Használja a pompás belső teret száraz menedékként; belépéskor alaposan törölje meg a talpát, hogy ne csússzon meg a vizes cipővel a márványon.",
+                "ro": "Folosiți interiorul magnific ca refugiu uscat; la intrare, ștergeți-vă bine tălpile pentru a nu aluneca pe marmură cu încălțămintea udă.",
+                "en": "Use the magnificent interior as a dry retreat; wipe your feet thoroughly upon entry to avoid slipping on the marble with wet soles."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Wandteppichs von Bayeux",
+                "hu": "Bayeux-i Faliszőnyeg Múzeuma",
+                "ro": "Muzeul Tapiseriei din Bayeux",
+                "en": "Musée de la Tapisserie de Bayeux"
+              },
+              "tip_4lang": {
+                "de": "Die langen Galerien sind perfekt, um den Regen zu vergessen; nutzen Sie die Garderobe für nasse Mäntel, damit Sie die Ausstellung ungehindert genießen können.",
+                "hu": "A hosszú galériák tökéletesek arra, hogy elfelejtse az esőt; használja a ruhatárat a vizes kabátoknak, hogy kényelmesen élvezhesse a kiállítást.",
+                "ro": "Galeriile lungi sunt perfecte pentru a uita de ploaie; folosiți garderoba pentru haine ude pentru a vă bucura de expoziție în confort total.",
+                "en": "The long galleries are perfect for forgetting the rain; use the cloakroom for wet coats so you can enjoy the exhibition without extra weight."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedenkmuseum der Schlacht um die Normandie",
+                "hu": "Normandiai Csata Emlékmúzeuma",
+                "ro": "Muzeul Memorial al Bătăliei pentru Normandia",
+                "en": "Musée mémorial de la Bataille de Normandie"
+              },
+              "tip_4lang": {
+                "de": "Ein hervorragender Ort für regnerische Stunden mit vielen Innenexponaten; bringen Sie einen kompakten Regenschirm mit, den Sie leicht in der Tasche verstauen können.",
+                "hu": "Kiváló hely az esős órákhoz sok benti kiállítással; hozzon magával kompakt esernyőt, amit könnyen elrakhat a táskájába a benti séta alatt.",
+                "ro": "Un loc excelent pentru orele ploioase, cu multe exponate interioare; aduceți o umbrelă compactă pe care să o puteți depozita ușor în geantă.",
+                "en": "An excellent spot for rainy hours with many indoor exhibits; bring a compact umbrella that you can easily store in your bag during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Wandteppich von Bayeux (Historische Stätte)",
+                "hu": "Bayeux-i Faliszőnyeg (Történelmi Helyszín)",
+                "ro": "Tapiseria din Bayeux (Situl istoric)",
+                "en": "Bayeux Tapestry"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie den Tag trocken in der historischen Ausstellung; ein wasserdichter Rucksack schützt Ihre Souvenirs auf dem kurzen Weg zurück zur Unterkunft.",
+                "hu": "Zárja a napot szárazon a történelmi kiállításon; egy vízhatlan hátizsák megvédi a szuveníreket a szállásig tartó rövid, de esős úton.",
+                "ro": "Încheiați ziua la uscat în expoziția istorică; un rucsac impermeabil vă va proteja suvenirurile pe drumul scurt înapoi spre cazare.",
+                "en": "Finish the day dry at the historical exhibition; a waterproof backpack will protect your souvenirs on the short, rainy walk back to your base."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Palast weckt die Geister. Mittags wärmt das Kerzenlicht in der Kathedrale Körper und Seele. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir den Nachmittag intensiv in den Museen. Abends hüllt der Winterschleier die mittelalterlichen Gassen in eine besonders friedliche, fast mystische Atmosphäre.",
+            "hu": "A fagyos reggel a palotánál frissítően indul. Délben a katedrális gyertyafényes belső tere melegíti fel a testet és a lelket. Mivel a nap már 17 óra körül lemegy, a délutánt a múzeumok melegében töltjük. Estére a téli pára és a korai sötétség misztikus hangulatot áraszt a középkori utcákon.",
+            "ro": "Dimineața geroasă la palat trezește spiritul. La prânz, lumina lumânărilor din catedrală încălzește corpul și sufletul. Deoarece soarele apune deja în jur de ora 17:00, profităm intens de după-amiază în muzee. Seara, voalul iernii învăluie străzile medievale într-o atmosferă pașnică.",
+            "en": "The frosty morning at the palace wakes the spirits. At noon, the candlelight in the cathedral warms both body and soul. Since the sun sets by 5:00 PM, we use the afternoon intensively inside the museums. In the evening, the winter veil wraps the medieval streets in a peaceful, almost mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancien palais épiscopal, aktuell Rathaus",
+                "hu": "Egykori püspöki palota, ma Városháza",
+                "ro": "Fostul palat episcopal, în prezent primărie",
+                "en": "Former Episcopal Palace, currently City Hall"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die kahlen Gärten im Winterlicht; kleiden Sie sich im Zwiebelprinzip, um für den Wechsel zwischen Kälte und beheizten Innenräumen gewappnet zu sein.",
+                "hu": "Élvezze a kopár kertek látványát a téli fényben; öltözködjön rétegesen, hogy könnyen alkalmazkodjon a kinti hideg és a benti fűtött terek közötti különbséghez.",
+                "ro": "Bucurați-vă de vederea grădinilor golașe în lumina iernii; îmbrăcați-vă în straturi pentru a vă adapta ușor la trecerea de la frig la spațiile interioare încălzite.",
+                "en": "Enjoy the view of the bare gardens in winter light; dress in layers to easily adapt to the change between the cold outside and heated interior spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern halten die Kälte, aber der Anblick der Fenster bei tiefstehender Wintersonne ist magisch; behalten Sie Ihre Mütze und den Schal in der Kirche ruhig an.",
+                "hu": "A vastag falak tartják a hideget, de az ablakok látványa az alacsony téli napfényben varázslatos; nyugodtan hagyja magán a sálat a templomi látogatás során.",
+                "ro": "Zidurile groase rețin frigul, dar vederea ferestrelor în lumina soarelui de iarnă este magică; păstrați-vă fularul în timpul vizitei în interiorul bisericii.",
+                "en": "The thick walls keep the cold in, but the sight of the windows in low winter sun is magical; keep your scarf on during your visit to stay cozy inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Wandteppichs von Bayeux",
+                "hu": "Bayeux-i Faliszőnyeg Múzeuma",
+                "ro": "Muzeul Tapiseriei din Bayeux",
+                "en": "Musée de la Tapisserie de Bayeux"
+              },
+              "tip_4lang": {
+                "de": "Ein perfekter Ort, um sich für eine Stunde im Warmen aufzuhalten; die sanfte Beleuchtung der Ausstellung schafft eine behagliche Flucht vor dem grauen Wintertag.",
+                "hu": "Tökéletes hely, hogy egy órát a melegben töltsön; a kiállítás lágy megvilágítása meghitt menekülést nyújt a szürke téli nap elől a középkori kincsek között.",
+                "ro": "Un loc perfect pentru a petrece o oră la căldură; iluminarea blândă a expoziției oferă o evadare primitoare de ziua cenușie de iarnă printre comori.",
+                "en": "A perfect place to spend an hour in the warmth; the soft lighting of the exhibition provides a cozy escape from the grey winter day among medieval treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedenkmuseum der Schlacht um die Normandie",
+                "hu": "Normandiai Csata Emlékmúzeuma",
+                "ro": "Muzeul Memorial al Bătăliei pentru Normandia",
+                "en": "Musée mémorial de la Bataille de Normandie"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die beheizten Säle, um die Geschichte in Ruhe zu studieren; da es früh dunkel wird, planen Sie diesen Besuch vor 16 Uhr ein, um den Rückweg im Hellen zu haben.",
+                "hu": "Használja a fűtött termeket a történelem nyugodt tanulmányozásához; mivel korán sötétedik, tervezze a látogatást 16 óra elé, hogy világosban érjen vissza.",
+                "ro": "Folosiți sălile încălzite pentru a studia istoria în liniște; deoarece se întunecă devreme, planificați vizita înainte de ora 16:00 pentru a reveni pe lumină.",
+                "en": "Use the heated halls to study history in peace; as it gets dark early, plan your visit before 4:00 PM to make your way back while it is still light."
+              }
+            },
+            {
+              "name": {
+                "de": "Wandteppich von Bayeux (Historische Stätte)",
+                "hu": "Bayeux-i Faliszőnyeg (Történelmi Helyszín)",
+                "ro": "Tapiseria din Bayeux (Situl istoric)",
+                "en": "Bayeux Tapestry"
+              },
+              "tip_4lang": {
+                "de": "Zum Abschluss des Tages bietet dieser geschichtsträchtige Ort wohlige Wärme; draußen erwartet Sie nach dem Verlassen bereits die stimmungsvolle blaue Stunde des Winters.",
+                "hu": "A nap zárásaként ez a történelmi helyszín kellemes meleget kínál; a kijáratnál már a tél hangulatos kék órája és a kivilágított város fogadja Önt.",
+                "ro": "La finalul zilei, acest sit istoric oferă o căldură plăcută; la ieșire vă așteaptă deja ora albastră a iernii și orașul iluminat feeric.",
+                "en": "To end the day, this historic site offers pleasant warmth; upon exiting, the atmospheric winter blue hour and the lit-up city will already be greeting you."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje egy frissítő kerékpározással az ősi Saint-Vigor apátsághoz. A délidő a város szívébe vezet, hogy megtekintse az ikonikus faliszőnyeget és a nagy katedrálist. A délután a II. világháborús emlékmúzeumé a történelmi elmélkedéshez. Az este családi szórakozással zárul a Louny Parkban.",
         "ro": "Începeți cu o plimbare revigorantă către vechiul Priorat Saint-Vigor. Amiaza vă aduce în inima orașului pentru a vedea iconica Tapiserie din Bayeux și grandioasa Catedrală. După-amiaza trece la Muzeul Memorial al Doilea Război Mondial. Seara se relaxează cu distracție în familie la Louny Parc.",
         "en": "Start with a refreshing ride to the ancient Prieuré Saint-Vigor. Midday brings you into the city heart to view the iconic Bayeux Tapestry and the grand Cathedral. Afternoon shifts gears to the WWII Memorial Museum for historical reflection. Evening winds down with family fun at Louny Parc."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Disziplin, aber die kurzen Wege machen es möglich. Vormittags erkunden wir das Priorat, mittags suchen wir Schutz in der Kathedrale. Die Museen am Nachmittag bieten lange Trockenphasen für Ausrüstung und Fahrer. Die Wege können rutschig sein, also fahren Sie vorsichtig durch die nassen Gassen.",
+            "hu": "Az esőben való biciklizés fegyelmet igényel, de a rövid távolságok miatt teljesíthető. Délelőtt az apátságot nézzük meg, délben a katedrálisban keresünk menedéket. A délutáni múzeumok alatt a felszerelés is megszáradhat. Az utak csúszósak lehetnek, így óvatosan hajtson a vizes macskaköveken.",
+            "ro": "Mersul pe bicicletă în ploaie necesită disciplină, dar distanțele scurte îl fac posibil. Dimineața explorăm prioratul, la prânz căutăm adăpost în catedrală. Muzeele de după-amiază oferă perioade lungi de uscare pentru echipament. Drumurile pot fi alunecoase, deci conduceți cu atenție.",
+            "en": "Cycling in the rain requires discipline, but the short distances make it manageable. Explore the priory in the morning and seek shelter in the cathedral at noon. The afternoon museums offer long dry spells for gear and riders. Roads can be slippery, so ride carefully through the wet alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Priorat Saint-Vigor",
+                "hu": "Saint-Vigor Apátság",
+                "ro": "Prioratul Saint-Vigor",
+                "en": "Prieuré Saint-Vigor"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter Bäumen oder Vorsprüngen ab; tragen Sie eine regenfeste Hose, da das Spritzwasser auf dem Weg hierher Ihre Beine durchnässen kann.",
+                "hu": "Parkolja a biciklit fák vagy ereszek alá; viseljen esőnadrágot, mert az idevezető úton a felcsapódó víz könnyen eláztathatja a nadrágját.",
+                "ro": "Parcați bicicleta sub copaci sau streșini; purtați pantaloni de ploaie, deoarece apa împroșcată pe drumul până aici vă poate uda picioarele.",
+                "en": "Park your bike under trees or overhangs; wear rain trousers as the spray from the road on the way here can easily soak your legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Wandteppich von Bayeux",
+                "hu": "Bayeux-i Faliszőnyeg",
+                "ro": "Tapiseria din Bayeux",
+                "en": "Bayeux Tapestry"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Stopp, um sich aufzuwärmen und zu trocknen; nutzen Sie den Besuch, um Ihre Handschuhe auf einer Heizung (falls diskret möglich) zu lüften.",
+                "hu": "Ideális megálló a felmelegedéshez és száradáshoz; használja ki a látogatást, hogy a kesztyűit és a vizes kiegészítőit egy kicsit kiszellőztesse a beltérben.",
+                "ro": "O oprire ideală pentru a vă încălzi și usca; profitați de vizită pentru a vă aerisi mănușile și accesoriile ude în spațiul interior.",
+                "en": "An ideal stop to warm up and dry off; take advantage of the visit to air out your gloves and wet accessories in the indoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf rutschige Markierungen beim Parken vor der Kirche; im Inneren bietet die Stille eine willkommene Pause vom prasselnden Regen draußen.",
+                "hu": "Ügyeljen a csúszós felfestésekre a templom előtti parkoláskor; bent a csend és a nyugalom kellemes pihenőt nyújt a kinti doboló eső után.",
+                "ro": "Atenție la marcajele alunecoase când parcați în fața bisericii; în interior, liniștea oferă o pauză binemeritată de la ploaia torențială de afară.",
+                "en": "Watch out for slippery road markings when parking in front of the church; inside, the silence offers a welcome break from the drumming rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedenkmuseum der Schlacht um die Normandie",
+                "hu": "Normandiai Csata Emlékmúzeuma",
+                "ro": "Muzeul Memorial al Bătăliei pentru Normandia",
+                "en": "Musée mémorial de la Bataille de Normandie"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Schließfächer für Helm und nasse Regenkleidung; so können Sie sich ohne schweres Gepäck den beeindruckenden Exponaten widmen.",
+                "hu": "Használja az értékmegőrzőket a sisaknak és a vizes esőkabátnak; így nehéz csomagok nélkül szentelheti figyelmét a lenyűgöző kiállítási tárgyaknak.",
+                "ro": "Folosiți dulapurile pentru cască și pelerina de ploaie udă; astfel vă puteți dedica atenția exponatelor impresionante fără bagaje grele.",
+                "en": "Use the lockers for your helmet and wet rain gear; this way you can focus on the impressive exhibits without carrying heavy, damp items."
+              }
+            },
+            {
+              "name": {
+                "de": "Louny Parc",
+                "hu": "Louny Park",
+                "ro": "Louny Parc",
+                "en": "Louny Parc"
+              },
+              "tip_4lang": {
+                "de": "Der Parkbesuch fällt im Regen kürzer aus, bietet aber tolle Fotomotive; fahren Sie auf den befestigten Wegen, um Schlamm am Fahrrad zu vermeiden.",
+                "hu": "A parklátogatás esőben rövidebb lesz, de remek fotótémákat kínál; maradjon a szilárd burkolatú utakon, hogy elkerülje a sár felverődését a biciklire.",
+                "ro": "Vizita în parc va fi mai scurtă pe ploaie, dar oferă subiecte foto grozave; rămâneți pe aleile pavate pentru a evita stropirea bicicletei cu noroi.",
+                "en": "The park visit will be shorter in the rain but offers great photo ops; stay on the paved paths to avoid getting mud all over your bike and clothes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter ist belebend, solange man warm eingepackt ist. Der Vormittag am Priorat ist ruhig, mittags bietet die Kathedrale einen spirituellen Wärmestopp. Die Museen am Nachmittag sind perfekte Zufluchtsorte vor der Kälte. Da das Tageslicht gegen 17:00 Uhr schwindet, ist eine gute Fahrradbeleuchtung für den Rückweg unerlässlich.",
+            "hu": "A téli biciklizés frissítő, amíg melegen vagyunk felöltözve. A délelőtt az apátságnál nyugodt, délben a katedrális spirituális melegedőhely. A délutáni múzeumlátogatások tökéletes menedékek a hideg elől. Mivel a fény 17 óra körül elfogy, a jó világítás elengedhetetlen a hazatekeréshez.",
+            "ro": "Mersul pe bicicletă iarna este revigorant, atâta timp cât sunteți bine îmbrăcat. Dimineața la priorat este liniștită, la prânz catedrala este un punct de încălzire. Muzeele de după-amiază sunt refugii perfecte împotriva frigului. Deoarece lumina dispare în jur de ora 17:00, iluminarea bună este esențială.",
+            "en": "Winter cycling is invigorating as long as you are warmly dressed. The morning at the priory is peaceful, and the cathedral at noon is a spiritual warming spot. Afternoon museum visits are perfect escapes from the cold. Since daylight fades by 5:00 PM, good bike lights are essential for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Priorat Saint-Vigor",
+                "hu": "Saint-Vigor Apátság",
+                "ro": "Prioratul Saint-Vigor",
+                "en": "Prieuré Saint-Vigor"
+              },
+              "tip_4lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die frostige Morgenluft am Priorat wirkt besonders klar und lässt die Architektur scharf hervortreten.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a fagyos reggeli levegő az apátságnál rendkívül tiszta, és élesen kiemeli az építészeti részleteket.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drum; aerul înghețat de dimineață la priorat este extrem de clar și scoate în evidență detaliile arhitecturale.",
+                "en": "Wear windproof gloves for the ride; the frosty morning air at the priory is exceptionally clear and makes the architectural details stand out sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "Wandteppich von Bayeux",
+                "hu": "Bayeux-i Faliszőnyeg",
+                "ro": "Tapiseria din Bayeux",
+                "en": "Bayeux Tapestry"
+              },
+              "tip_4lang": {
+                "de": "Ein willkommener Ort, um die Finger wieder aufzuwärmen; die konstante Temperatur zum Schutz des Teppichs ist auch für Besucher im Winter sehr angenehm.",
+                "hu": "Itt végre felmelegítheti az ujjait; a faliszőnyeg védelme érdekében tartott állandó hőmérséklet a látogatók számára is nagyon kellemes a téli hideg után.",
+                "ro": "Aici vă puteți încălzi în sfârșit degetele; temperatura constantă menținută pentru protejarea tapiseriei este foarte plăcută și pentru vizitatori.",
+                "en": "A welcome spot to warm your fingers; the constant temperature maintained to protect the tapestry is also very pleasant for visitors in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe ohne die Touristenmassen des Sommers; bewegen Sie Ihre Zehen beim Stehen in der Kirche, um die Durchblutung bei der Kälte anzuregen.",
+                "hu": "Élvezze a nyugalmat a nyári turistatömeg nélkül; a templomban állva mozgassa meg a lábujjait, hogy serkentse a vérkeringést a hideg padlón.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară; în timp ce stați în biserică, mișcați-vă degetele de la picioare pentru a stimula circulația.",
+                "en": "Enjoy the tranquility without the summer tourist crowds; wiggle your toes while standing in the church to stimulate circulation on the cold floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedenkmuseum der Schlacht um die Normandie",
+                "hu": "Normandiai Csata Emlékmúzeuma",
+                "ro": "Muzeul Memorial al Bătăliei pentru Normandia",
+                "en": "Musée mémorial de la Bataille de Normandie"
+              },
+              "tip_4lang": {
+                "de": "Die Innenräume sind gut beheizt und bieten Schutz vor Winterwinden; kontrollieren Sie vor der Weiterfahrt Ihre Fahrradlichter für die dämmerigen Wege.",
+                "hu": "A belső terek jól fűtöttek és védelmet nyújtanak a téli szél ellen; a továbbindulás előtt ellenőrizze a lámpákat a már szürkületi utakhoz.",
+                "ro": "Spațiile interioare sunt bine încălzite și oferă protecție împotriva vântului; înainte de a pleca, verificați luminile bicicletei pentru drumul în amurg.",
+                "en": "The interior spaces are well heated and offer protection from winter winds; check your bike lights before moving on for the darkening twilight roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Louny Parc",
+                "hu": "Louny Park",
+                "ro": "Louny Parc",
+                "en": "Louny Parc"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer, erfrischender Abschluss im Park, bevor es ganz dunkel wird; die tiefstehende Sonne sorgt für lange Schatten und eine tolle Lichtstimmung.",
+                "hu": "Rövid, frissítő zárás a parkban, mielőtt teljesen besötétedik; az alacsonyan járó nap hosszú árnyékokat és különleges fényeket teremt a fák között.",
+                "ro": "O încheiere scurtă și revigorantă în parc înainte de întuneric; soarele jos creează umbre lungi și lumini speciale printre copacii desfrunziți.",
+                "en": "A short, refreshing finish in the park before it gets completely dark; the low sun creates long shadows and special lighting among the bare trees."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Az autózás kecsesen indul a festői Château de la Ferrière-nél, majd meglátogatja a történelmi apátságot. A délidő a városközpontba vezet a püspöki palotához és a magasodó katedrálishoz. Délután délre hajtunk a bájos Château de Crémel felfedezésére. Az este festői kilátással zárul a vidéken.",
         "ro": "Plimbarea începe cu grație la pitorescul Château de la Ferrière înainte de a vizita istorica Mănăstire. Amiaza face tranziția către centrul orașului pentru fostul palat episcopal și Catedrala impunătoare. După-amiaza se conduce spre sud pentru a descoperi fermecătorul Château de Crémel.",
         "en": "Your drive starts gracefully at the picturesque Château de la Ferrière before visiting the historic Priory. Midday transitions to the city core for the former bishop's palace and the towering Cathedral. Afternoon drives south to discover the charming Château de Crémel. Evening concludes with scenic views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund und bietet einen trockenen Hafen zwischen den Schlössern. Vormittags besuchen wir das Château de la Ferrière, mittags parken wir nah an der Kathedrale. Die Fahrt zum Priorat und zurück zum nächsten Schloss ist gemütlich, während der Regen gegen die Scheiben prasselt. Genießen Sie den Komfort, jederzeit ins Warme flüchten zu können.",
+            "hu": "Az autó ma a legjobb barátja, száraz menedéket nyújt a kastélyok között. Délelőtt a Château de la Ferrière-t nézzük meg, délben a katedrálishoz közel parkolunk. Az apátsághoz és a következő kastélyhoz vezető út kényelmes, miközben az eső az ablakon kopog. Élvezze a szabadságot, hogy bármikor fedél alá kerülhet.",
+            "ro": "Mașina este astăzi cel mai bun prieten, oferind un refugiu uscat între castele. Dimineața vizităm Château de la Ferrière, la prânz parcăm aproape de catedrală. Drumul spre priorat și spre următorul castel este confortabil în timp ce ploaia bate în geam. Bucurați-vă de confortul de a fi mereu la adăpost.",
+            "en": "The car is your best friend today, providing a dry haven between the châteaux. Visit Château de la Ferrière in the morning and park close to the cathedral at noon. The drive to the priory and the next castle is cozy as the rain drums on the windows. Enjoy the comfort of always being under a roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss de la Ferrière",
+                "hu": "Château de la Ferrière",
+                "ro": "Château de la Ferrière",
+                "en": "Château de la Ferrière"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Anblick des nassen Schlosses wirkt besonders dramatisch und historisch unter dem grauen Himmel.",
+                "hu": "Parkoljon minél közelebb a bejárathoz; a vizes kastély látványa kifejezetten drámai és történelmi hangulatot áraszt a szürke égbolt alatt.",
+                "ro": "Parcați cât mai aproape de intrare; vederea castelului ud este deosebit de dramatică și istorică sub cerul cenușiu de deasupra.",
+                "en": "Park as close to the entrance as possible; the sight of the wet château is particularly dramatic and historical under the grey sky above."
+              }
+            },
+            {
+              "name": {
+                "de": "Priorat Saint-Vigor",
+                "hu": "Saint-Vigor Apátság",
+                "ro": "Prioratul Saint-Vigor",
+                "en": "Prieuré Saint-Vigor"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das Auto als Umkleide für nasse Regenschirme; das Priorat bietet wunderbare Innenansichten, die Sie völlig trocken genießen können.",
+                "hu": "Használja az autót az esernyők tárolására; az apátság csodálatos belső látnivalókat kínál, amelyeket teljesen szárazon élvezhet végig.",
+                "ro": "Folosiți mașina pentru a depozita umbrelele ude; prioratul oferă vederi interioare minunate pe care le puteți savura fiind complet uscat.",
+                "en": "Use the car as a storage spot for wet umbrellas; the priory offers wonderful interior sights that you can enjoy while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemaliger Bischofspalast",
+                "hu": "Egykori Püspöki Palota",
+                "ro": "Fostul palat episcopal",
+                "en": "Ancien palais épiscopal"
+              },
+              "tip_4lang": {
+                "de": "In der Nähe gibt es mehrere Parkmöglichkeiten, die den Fußweg im Regen minimieren; bewundern Sie die prunkvolle Innenausstattung des heutigen Rathauses.",
+                "hu": "A közelben több parkolási lehetőség is van, így minimalizálható az esőben való gyaloglás; csodálja meg a mai városháza pazar belső díszítését.",
+                "ro": "Există mai multe opțiuni de parcare în apropiere pentru a minimiza mersul prin ploaie; admirați decorațiunile interioare somptuoase ale primăriei.",
+                "en": "There are several parking options nearby to minimize walking in the rain; admire the lavish interior decorations of what is now the City Hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_4lang": {
+                "de": "Lassen Sie Ihre schwere Regenkleidung im Auto, wenn Sie nah parken; die Kathedrale ist der perfekte Ort, um dem Wetter für eine Weile ganz zu entfliehen.",
+                "hu": "Hagyja a nehéz esőruházatot az autóban, ha sikerül közel parkolnia; a katedrális tökéletes hely, hogy egy időre teljesen elmeneküljön az időjárás elől.",
+                "ro": "Lăsați hainele grele de ploaie în mașină dacă parcați aproape; catedrala este locul perfect pentru a scăpa complet de vremea rea pentru o vreme.",
+                "en": "Leave heavy rain gear in the car if you manage to park nearby; the cathedral is the perfect place to escape the weather completely for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss de Crémel",
+                "hu": "Château de Crémel",
+                "ro": "Château de Crémel",
+                "en": "Château de Crémel"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie Ihre Tour komfortabel mit einer Fahrt zu diesem Schloss; die Heizung im Auto sorgt für Gemütlichkeit, während Sie die Aussicht genießen.",
+                "hu": "Zárja kényelmesen a túrát egy autózással ehhez a kastélyhoz; a fűtés biztosítja a komfortot, miközben a kastély környékének látványában gyönyörködik.",
+                "ro": "Încheiați turul confortabil cu o călătorie spre acest castel; căldura din mașină asigură confortul în timp ce admirați priveliștea împrejurimilor.",
+                "en": "End the tour comfortably with a drive to this château; the car heater ensures comfort while you enjoy the views of the castle surroundings."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch die Umgebung von Bayeux ist besonders reizvoll. Die Schlösser wirken im Frost wie aus einem Märchen. Zwischen den Stopps genießen Sie die Wärme Ihres Fahrzeugs. Da es bereits um 17:00 Uhr dunkel wird, erstrahlen die beleuchteten Monumente in der Dämmerung in einem ganz besonderen Glanz, den man am besten vom warmen Auto aus sieht.",
+            "hu": "A téli autózás Bayeux környékén rendkívül hangulatos. A kastélyok a zúzmarás tájban úgy festenek, mint egy tündérmesében. A megállók között élvezheti járműve melegét. Mivel 17 órakor már sötétedik, a kivilágított műemlékek az alkonyatban különleges fényben tündökölnek a városközpontban.",
+            "ro": "O plimbare cu mașina iarna în jurul orașului Bayeux este extrem de atmosferică. Castelele arată ca în povești în peisajul înghețat. Între opriri, vă bucurați de căldura vehiculului. Deoarece se întunecă la ora 17:00, monumentele iluminate strălucesc deosebit în amurg.",
+            "en": "A winter drive around Bayeux is exceptionally atmospheric. The châteaux look like something out of a fairy tale in the frosty landscape. Between stops, you can enjoy the warmth of your vehicle. Since it gets dark at 5:00 PM, the illuminated monuments shine with a special glow in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss de la Ferrière",
+                "hu": "Château de la Ferrière",
+                "ro": "Château de la Ferrière",
+                "en": "Château de la Ferrière"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Reifendruck für winterliche Straßen; das Schloss im kahlen Winterpark bietet ein klares, fast grafisches Fotomotiv.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást a téli utakra való tekintettel; a kastély a kopár téli parkban tiszta, szinte grafikus fotótémát kínál.",
+                "ro": "Verificați presiunea în anvelope înainte de plecare pentru drumurile de iarnă; castelul în parcul golaș oferă un subiect foto clar, aproape grafic.",
+                "en": "Check your tire pressure before leaving for the winter roads; the château in the bare winter park offers a clear, almost graphic photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Priorat Saint-Vigor",
+                "hu": "Saint-Vigor Apátság",
+                "ro": "Prioratul Saint-Vigor",
+                "en": "Prieuré Saint-Vigor"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Sitzheizung für die kurzen Etappen; die friedliche Stille des Priorats im Winter ist perfekt für einen Moment der inneren Einkehr.",
+                "hu": "Használja az ülésfűtést a rövid szakaszokon; az apátság békés csendje télen tökéletes helyszín egy rövid, elmélyült pillanathoz a fűtött beltérben.",
+                "ro": "Folosiți încălzirea în scaune pentru etapele scurte; liniștea pașnică a prioratului iarna este locul perfect pentru un moment de introspecție.",
+                "en": "Use the seat heating for the short stages; the peaceful silence of the priory in winter is a perfect setting for a quiet, reflective moment inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemaliger Bischofspalast",
+                "hu": "Egykori Püspöki Palota",
+                "ro": "Fostul palat episcopal",
+                "en": "Ancien palais épiscopal"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie zentral, um schnell zwischen dem warmen Auto und dem Palast wechseln zu können; die historischen Innenräume sind im Winter gut temperiert.",
+                "hu": "Parkoljon központi helyen, hogy gyorsan válthasson a meleg autó és a palota között; a történelmi belső terek télen is kellemesen temperáltak.",
+                "ro": "Parcați central pentru a putea trece rapid de la mașina caldă la palat; spațiile interioare istorice sunt bine temperate și pe timp de iarnă.",
+                "en": "Park centrally to quickly switch between the warm car and the palace; the historic interiors are well temperature-controlled even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame",
+                "hu": "Notre-Dame Katedrális",
+                "ro": "Catedrala Notre-Dame",
+                "en": "Notre-Dame Cathedral"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie bei der Parkplatzsuche auf Eisflächen in den Schatten der Kathedrale; das kühle Licht im Inneren verstärkt die mystische Atmosphäre der Krypta.",
+                "hu": "Parkolóhely keresésekor ügyeljen a jeges foltokra a katedrális árnyékos oldalán; a benti hűvös fény fokozza a kripta misztikus hangulatát.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite ale catedralei când parcați; lumina rece din interior sporește atmosfera mistică a criptei.",
+                "en": "Watch out for icy patches in the shadows of the cathedral when parking; the cool light inside enhances the mystical atmosphere of the crypt."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss de Crémel",
+                "hu": "Château de Crémel",
+                "ro": "Château de Crémel",
+                "en": "Château de Crémel"
+              },
+              "tip_4lang": {
+                "de": "Da es nun dunkel ist, genießen Sie den beleuchteten Anblick des Schlosses; ein warmer Tee im Auto rundet diesen winterlichen Ausflug perfekt ab.",
+                "hu": "Mivel már sötét van, élvezze a kastély kivilágított látványát; egy meleg tea az autóban ülve tökéletesen zárja le ezt a téli kirándulást.",
+                "ro": "Deoarece s-a întunecat, bucurați-vă de vederea iluminată a castelului; un ceai cald în mașină încheie perfect această excursie de iarnă.",
+                "en": "Since it is dark now, enjoy the illuminated sight of the château; a warm tea while sitting in the car perfectly concludes this winter excursion."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "A reggel La Storta katedrálisánál és a történelmi Cappella della visione-nél indul. Délben észak felé tart a San Giovanni Calabria és Isola Farnese középkori faluja felé. Délután fedezze fel a fenséges Castello Farnese-t és a bájos San Pancrazio templomot. Az este Veio ősi etruszk romjai között, az Apolló-szentélynél és a Villa Campettinél ér véget.",
         "ro": "Dimineața începe la Catedrala din La Storta și istorica Cappella della visione. Prânzul vă poartă spre nord, spre San Giovanni Calabria și satul medieval Isola Farnese. După-amiaza, explorați impunătorul Castello Farnese și fermecătoarea biserică San Pancrazio. Seara se încheie printre ruinele etrusce din Veio, la Sanctuarul lui Apollo și Villa Campetti.",
         "en": "Morning starts at La Storta's Cathedral and the historic Cappella della visione. Midday takes you north to San Giovanni Calabria and the medieval village of Isola Farnese. In the afternoon, explore the imposing Castello Farnese and the charming San Pancrazio church. Your evening concludes among the ancient Etruscan ruins of Veio at the Sanctuary of Apollo and Villa Campetti."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der schützenden Stille der Kathedrale, während der Regen gegen die Fenster trommelt. Mittags bieten die kleinen Kapellen entlang der Via Cassia willkommene trockene Pausen. Am Nachmittag erkunden Sie die archäologischen Stätten, wo die nassen Steine in sattem Glanz erstrahlen. Den Abend lassen Sie bei einem gemütlichen Spaziergang unter dem Regenschirm ausklingen.",
+            "hu": "Kezdje a napot a székesegyház védelmező csendjében, miközben az eső kopog az ablakokon. Délben a Via Cassia menti kis kápolnák nyújtanak száraz pihenőket a séta során. Délután az antik kövek fényes ragyogása kíséri az archeológiai park bejárását, ahol a sár elkerülése a cél. Az estét egy esernyős, frissítő séta zárja a csendes utcákon, kihasználva a párás levegő nyugalmát.",
+            "ro": "Începeți ziua în liniștea protectoare a catedralei, în timp ce ploaia bate în ferestre. La prânz, micile capele de-a lungul Via Cassia oferă pauze uscate binevenite. După-amiaza, explorați siturile arheologice unde pietrele umede strălucesc intens sub cerul gri. Încheiați seara cu o plimbare revigorantă sub umbrelă, bucurându-vă de aerul curat și de atmosfera calmă a orașului.",
+            "en": "Begin your day in the protective silence of the cathedral as rain drums against the windows. At midday, the small chapels along Via Cassia offer welcome dry breaks during your walk. In the afternoon, explore the archaeological sites where wet stones shine with a rich luster under the gray sky. End the evening with a refreshing umbrella walk, enjoying the calm and crisp air of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im Inneren und bleiben Sie während des Regenschauers im trockenen Kirchenschiff, während Sie die Ruhe des Ortes genießen.",
+                "hu": "Csodálja meg a modern belső teret, és maradjon a száraz hajóban az eső alatt, miközben élvezi a hely csendjét és a spirituális elmélyülést.",
+                "ro": "Admirați interiorul modern și rămâneți în nava uscată în timpul ploii, bucurându-vă de liniștea locului și de atmosfera de reculegere.",
+                "en": "Admire the modern interior and stay in the dry nave during the rain shower while enjoying the peace of the place and spiritual reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella della visione",
+                "hu": "Cappella della visione",
+                "ro": "Cappella della visione",
+                "en": "Cappella della visione"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort der Vision des Heiligen Ignatius und nutzen Sie den kleinen Innenraum als Schutz vor dem Platzregen.",
+                "hu": "Látogasson el Szent Ignác látomásának történelmi helyszínére, és használja a kis belső teret menedékként a hirtelen lezúduló zápor elől.",
+                "ro": "Vizitați acest loc istoric al viziunii Sfântului Ignațiu și folosiți interiorul mic ca adăpost împotriva unei ploi torențiale bruște.",
+                "en": "Visit this historical site of Saint Ignatius' vision and use the small interior space as a shelter from a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Giovanni Calabria",
+                "hu": "Cappella di San Giovanni Calabria",
+                "ro": "Cappella di San Giovanni Calabria",
+                "en": "Cappella di San Giovanni Calabria"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die spirituelle Bedeutung dieser Kapelle und halten Sie kurz inne, um Ihre Regenbekleidung für den weiteren Weg nach Norden zu richten.",
+                "hu": "Fedezze fel a kápolna szakrális jelentőségét, és tartson egy rövid szünetet, hogy megigazítsa esőfelszerelését az észak felé vezető úton.",
+                "ro": "Descoperiți semnificația spirituală a acestei capele și opriți-vă scurt pentru a vă ajusta echipamentul de ploaie pentru drumul spre nord.",
+                "en": "Discover the spiritual significance of this chapel and stop briefly to adjust your rain gear for the journey further north."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Farnese",
+                "hu": "Castello Farnese",
+                "ro": "Castello Farnese",
+                "en": "Castello Farnese"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die imposanten Mauern des Schlosses, die bei Regen besonders dramatisch wirken, und suchen Sie Schutz unter den vorspringenden Dächern.",
+                "hu": "Tekintse meg a kastély impozáns falait, amelyek esőben különösen drámai hatást keltenek, és keressen menedéket a kiugró tetőrészek alatt.",
+                "ro": "Observați zidurile impunătoare ale castelului, care par deosebit de dramatice în ploaie, și căutați adăpost sub cornișele proeminente.",
+                "en": "Observe the imposing walls of the castle, which look particularly dramatic in the rain, and seek shelter under the overhanging roof sections."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pancrazio",
+                "hu": "San Pancrazio",
+                "ro": "San Pancrazio",
+                "en": "San Pancrazio"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet eine intime Atmosphäre für ein Gebet; achten Sie beim Verlassen auf die rutschigen Stufen im Außenbereich.",
+                "hu": "Ez a kis templom meghitt hangulatot áraszt egy imához; távozáskor ügyeljen a csúszós lépcsőkre a kültéri részeken.",
+                "ro": "Această mică biserică oferă o atmosferă intimă pentru o rugăciune; la plecare, aveți grijă la treptele alunecoase de la exterior.",
+                "en": "This small church offers an intimate atmosphere for prayer; when leaving, be careful of the slippery steps in the outdoor areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario dell'Apollo loc. Portonaccio",
+                "hu": "Santuario dell'Apollo loc. Portonaccio",
+                "ro": "Santuario dell'Apollo loc. Portonaccio",
+                "en": "Santuario dell'Apollo loc. Portonaccio"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Fundamente, die im nassen Zustand ihre Farbe verändern; festes, wasserdichtes Schuhwerk ist für das unebene Gelände unerlässlich.",
+                "hu": "Fedezze fel az antik alapokat, amelyek nedvesen megváltoztatják színüket; a vízálló lábbeli elengedhetetlen az egyenetlen, vizes terepen.",
+                "ro": "Explorați fundațiile antice care își schimbă culoarea când sunt ude; încălțămintea impermeabilă este esențială pentru terenul denivelat.",
+                "en": "Explore the ancient foundations that change color when wet; waterproof footwear is essential for the uneven and muddy terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Area archeologica di Villa Campetti",
+                "hu": "Area archeologica di Villa Campetti",
+                "ro": "Area archeologica di Villa Campetti",
+                "en": "Area archeologica di Villa Campetti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpausen für Fotos der Ausgrabungen und achten Sie auf die Pfützen, die sich auf den historischen Pfaden bilden können.",
+                "hu": "Használja ki az esőszüneteket az ásatások fotózására, és ügyeljen a történelmi ösvényeken kialakuló tócsákra és a csúszós felületekre.",
+                "ro": "Profită de pauzele de ploaie pentru a fotografia excavațiile și fii atent la bălțile care se pot forma pe potecile istorice.",
+                "en": "Take advantage of rain breaks to photograph the excavations and watch out for puddles forming on the historical paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft schärft die Sicht auf die historischen Monumente von La Storta. Morgens wärmen Sie sich in der prachtvollen Kathedrale auf, bevor Sie die Wanderung fortsetzen. Mittags steht das Licht tief und taucht das Castello in goldenen Glanz. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen Sie die archäologischen Besichtigungen für den frühen Nachmittag ein.",
+            "hu": "A tiszta téli levegő élessé teszi a kilátást La Storta történelmi emlékeire. Reggel a pompás székesegyházban melegedhet fel, mielőtt folytatná a túrát. Délben a nap alacsonyan jár, aranyfénybe vonva a Castello falait. Mivel a nap 17:00 körül lenyugszik, az archeológiai látogatásokat érdemes kora délutánra időzíteni a természetes fény miatt.",
+            "ro": "Aerul clar de iarnă ascute vederea asupra monumentelor istorice din La Storta. Dimineața, încălziți-vă în catedrala splendidă înainte de a continua drumeția. La prânz, soarele stă jos, scăldând castelul în strălucire aurie. Deoarece soarele apune deja în jurul orei 17:00, planificați vizitele arheologice pentru începutul după-amiezii.",
+            "en": "The clear winter air sharpens the view of La Storta's historical monuments. In the morning, warm up in the splendid cathedral before continuing your hike. At midday, the sun hangs low, bathing the castle in a golden glow. Since the sun sets around 5:00 PM, plan your archaeological visits for the early afternoon to enjoy the daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Wärme im Inneren und bewundern Sie das Lichtspiel der Wintersonne in den modernen Glasfenstern der Kathedrale.",
+                "hu": "Élvezze a belső tér kellemes melegét, és csodálja meg a téli napsütés játékát a székesegyház modern üvegablakain keresztül.",
+                "ro": "Bucurați-vă de căldura plăcută din interior și admirați jocul de lumini al soarelui de iarnă prin vitraliile moderne ale catedralei.",
+                "en": "Enjoy the pleasant warmth inside and admire the play of winter sunlight through the cathedral's modern stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella della visione",
+                "hu": "Cappella della visione",
+                "ro": "Cappella della visione",
+                "en": "Cappella della visione"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die spirituelle Atmosphäre am Ort der Vision und nutzen Sie die Kapelle als kurzen Unterschlupf vor dem kalten Winterwind auf dem Weg.",
+                "hu": "Tapasztalja meg a látomás helyszínének spirituális erejét, és használja a kápolnát rövid menedékként a hideg téli szél elől a séta során.",
+                "ro": "Experimentați puterea spirituală a locului viziunii și folosiți capela ca un scurt refugiu împotriva vântului rece de iarnă în timpul plimbării.",
+                "en": "Experience the spiritual power of the site of the vision and use the chapel as a brief refuge from the cold winter wind during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Giovanni Calabria",
+                "hu": "Cappella di San Giovanni Calabria",
+                "ro": "Cappella di San Giovanni Calabria",
+                "en": "Cappella di San Giovanni Calabria"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zur inneren Einkehr; kleiden Sie sich nach dem Verlassen direkt wieder warm an, da der Weg nun freier und windanfälliger wird.",
+                "hu": "Csendes hely az elmélyüléshez; távozás után öltözzön fel melegen, mivel az út ezen szakasza nyitottabb és szelesebb lehet télen.",
+                "ro": "Un loc liniștit pentru reflecție; îmbrăcați-vă bine imediat după plecare, deoarece drumul devine mai expus vântului în această zonă.",
+                "en": "A quiet place for reflection; dress warmly immediately after leaving, as this stretch of the road is more exposed to the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Farnese",
+                "hu": "Castello Farnese",
+                "ro": "Castello Farnese",
+                "en": "Castello Farnese"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben im Winter eine bessere Sicht auf die Architektur des Schlosses frei; ideal für Fotos ohne störendes Laub.",
+                "hu": "A kopár fák télen jobb rálátást biztosítanak a kastély építészetére; ideális időszak fotózáshoz zavaró lombok nélkül.",
+                "ro": "Copacii golași oferă iarna o vedere mai bună asupra arhitecturii castelului; este momentul ideal pentru fotografii fără frunziș.",
+                "en": "The bare trees in winter provide a better view of the castle's architecture; it's an ideal time for photos without distracting foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pancrazio",
+                "hu": "San Pancrazio",
+                "ro": "San Pancrazio",
+                "en": "San Pancrazio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese historische Kirche kurz vor Sonnenuntergang, um die besondere Winterdämmerung über dem umliegenden Hügel zu erleben.",
+                "hu": "Látogassa meg ezt a történelmi templomot közvetlenül naplemente előtt, hogy átélje a különleges téli szürkületet a környező dombok felett.",
+                "ro": "Vizitați această biserică istorică chiar înainte de apus, pentru a experimenta amurgul special de iarnă peste dealurile din jur.",
+                "en": "Visit this historical church just before sunset to experience the special winter twilight over the surrounding hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario dell'Apollo loc. Portonaccio",
+                "hu": "Santuario dell'Apollo loc. Portonaccio",
+                "ro": "Santuario dell'Apollo loc. Portonaccio",
+                "en": "Santuario dell'Apollo loc. Portonaccio"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Ausgrabungspfaden; die tiefstehende Sonne sorgt für lange Schatten und dramatische Kontraste.",
+                "hu": "Ügyeljen a fagyott foltokra az ásatási útvonalakon; az alacsony napállás hosszú árnyékokat és drámai kontrasztokat hoz létre az antik romokon.",
+                "ro": "Aveți grijă la porțiunile înghețate de pe potecile sitului; soarele jos creează umbre lungi și contraste dramatice pe ruinele antice.",
+                "en": "Watch out for frozen patches on the excavation paths; the low sun creates long shadows and dramatic contrasts on the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Area archeologica di Villa Campetti",
+                "hu": "Area archeologica di Villa Campetti",
+                "ro": "Area archeologica di Villa Campetti",
+                "en": "Area archeologica di Villa Campetti"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Anlage zügig, bevor die Kälte am späten Nachmittag anzieht; Thermoskopfbedeckung und Handschuhe sind hier ratsam.",
+                "hu": "Tekintse meg a területet tempósan, mielőtt késő délután beköszönt a fagy; a meleg sapka és kesztyű használata itt kifejezetten ajánlott.",
+                "ro": "Vizitați situl într-un ritm alert înainte ca gerul să se instaleze după-amiaza târziu; purtarea unei căciuli groase și a mănușilor este recomandată.",
+                "en": "Tour the area at a brisk pace before the frost sets in during the late afternoon; wearing a warm hat and gloves is highly recommended here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a reggelt a csendes Péter és Pál templomtól a környék kápolnái felé kerekezve. Délben látogassa meg a katedrálist, mielőtt Isola Farnese középkori falujába teker. A délutánt Veio etruszk romjaihoz és az Apolló-szentélyhez vezető ösvényeken töltse. Este a Piazza d'Armi-n fejezze be a túrát, ahonnan panorámás kilátás nyílik a völgyre.",
         "ro": "Începeți dimineața pedalând de la liniștita biserică Sfinții Petru și Pavel spre capelele istorice. La prânz, vizitați Catedrala modernă înainte de a urca spre farmecul medieval din Isola Farnese. Petreceți după-amiaza pe traseele spre ruinele etrusce din Veio. Seara, încheiați la Piazza d'Armi pentru vederi panoramice uimitoare asupra văii.",
         "en": "Kick off the morning cycling from the quiet Saints Peter and Paul church toward the area's historic chapels. By midday, visit the modern Cathedral before riding up to the medieval charm of Isola Farnese. Spend your afternoon biking the trails to the breathtaking Etruscan ruins of Veio and the Sanctuary of Apollo. In the evening, end at Piazza d'Armi for panoramic valley views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen von La Storta. Morgens radeln Sie durch den Sprühregen zu den ersten Kirchen, wobei Schutzbleche unverzichtbar sind. Mittags nutzen Sie die Kathedrale für eine längere trockene Pause. Nachmittags sind die Wege zu den Ruinen oft schlammig, was den Ausflug zu einem kleinen Abenteuer macht. Abends ist gute Beleuchtung wichtig.",
+            "hu": "Az esős kerékpározás óvatosságot igényel La Storta csúszós útjain. Reggel a permetező esőben tekerjen az első templomokhoz, a sárvédő elengedhetetlen kellék. Délben a székesegyház nyújt hosszabb, száraz pihenőt az átázott ruhák ellen. Délután a romokhoz vezető utak sárosak lehetnek, ami kalandossá teszi a túrát. Este a látási viszonyok miatt a lámpák használata kötelező.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe drumurile alunecoase din La Storta. Dimineața pedalați prin burniță spre primele biserici, aripile de protecție fiind indispensabile. La prânz, folosiți catedrala pentru o pauză uscată prelungită. După-amiaza, drumurile spre ruine sunt adesea noroioase, transformând excursia într-o aventură. Seara, iluminarea bună este vitală.",
+            "en": "Cycling in the rain requires caution on the slippery roads of La Storta. In the morning, pedal through the drizzle to the first churches, where fenders are indispensable. At midday, use the cathedral for an extended dry break. In the afternoon, paths to the ruins can be muddy, turning the trip into a small adventure. In the evening, good lighting is vital for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und betreten Sie die Kirche, um den Regenschauer abzuwarten und die sakrale Kunst zu bewundern.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és lépjen be a templomba, hogy megvárja a zápor végét, miközben megcsodálja a szakrális művészetet.",
+                "ro": "Parcați bicicleta într-un loc protejat și intrați în biserică pentru a aștepta trecerea ploii și pentru a admira arta sacră.",
+                "en": "Park your bike in a protected spot and enter the church to wait out the rain shower while admiring the sacred art."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Giovanni Calabria",
+                "hu": "Cappella di San Giovanni Calabria",
+                "ro": "Cappella di San Giovanni Calabria",
+                "en": "Cappella di San Giovanni Calabria"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel trocken, bevor Sie weiterfahren; die Kapelle bietet einen kurzen Moment der Stille abseits der nassen Straße.",
+                "hu": "Törölje szárazra a nyerget, mielőtt továbbindulna; a kápolna rövid csendes pillanatot kínál távol a vizes aszfalttól és a forgalomtól.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe; capela oferă un scurt moment de liniște departe de drumul ud și de trafic.",
+                "en": "Wipe your saddle dry before moving on; the chapel offers a brief quiet moment away from the wet asphalt and traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella della visione",
+                "hu": "Cappella della visione",
+                "ro": "Cappella della visione",
+                "en": "Cappella della visione"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den markierten Wegen auf Rutschgefahr; die Kapelle ist ein idealer Punkt für eine kurze Trinkpause im Trockenen.",
+                "hu": "Ügyeljen a csúszásveszélyre a kerékpárról való leszálláskor; a kápolna ideális hely egy rövid, száraz frissítő szünethez az esőben.",
+                "ro": "Aveți grijă la pericolul de alunecare când coborâți de pe bicicletă; capela este un punct ideal pentru o scurtă pauză de hidratare la uscat.",
+                "en": "Watch out for slippery surfaces when dismounting; the chapel is an ideal spot for a short, dry refreshment break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt für eine gründliche Reinigung Ihrer Brille oder Ihres Visiers, da die Sicht bei Regen auf dem Rad eingeschränkt ist.",
+                "hu": "Használja ki a pihenőt a szemüvege vagy sisakrostélya alapos megtisztítására, mivel esőben a látási viszonyok korlátozottak kerékpározáskor.",
+                "ro": "Folosiți oprirea pentru o curățare temeinică a ochelarilor sau a vizierei, deoarece vizibilitatea este limitată pe bicicletă în timpul ploii.",
+                "en": "Use this stop for a thorough cleaning of your glasses or visor, as visibility is limited while cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Farnese",
+                "hu": "Castello Farnese",
+                "ro": "Castello Farnese",
+                "en": "Castello Farnese"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Nässe rutschig sein; genießen Sie den Blick auf die dunklen, nassen Mauern von einem trockenen Vorsprung aus.",
+                "hu": "A kastélyhoz vezető út nedvesen csúszós lehet; élvezze a sötét, vizes falak látványát egy száraz tetőpárkány védelméből.",
+                "ro": "Drumul spre castel poate fi alunecos când este ud; bucurați-vă de vederea zidurilor întunecate și umede din protecția unei cornișe uscate.",
+                "en": "The approach to the castle can be slippery when wet; enjoy the view of the dark, wet walls from the shelter of a dry ledge."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario dell'Apollo loc. Portonaccio",
+                "hu": "Santuario dell'Apollo loc. Portonaccio",
+                "ro": "Santuario dell'Apollo loc. Portonaccio",
+                "en": "Santuario dell'Apollo loc. Portonaccio"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt in die archäologische Zone zu fahren; parken Sie davor und achten Sie auf weichen Boden bei den Ruinen.",
+                "hu": "Kerülje a közvetlen kerékpározást az archeológiai zónában; parkoljon előtte, és ügyeljen a romok körüli felázott, puha talajra.",
+                "ro": "Evitați să pedalați direct în zona arheologică; parcați înainte și aveți grijă la solul moale și îmbibat cu apă din jurul ruinelor.",
+                "en": "Avoid cycling directly into the archaeological zone; park outside and watch out for soft, waterlogged ground around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Area archeologica di Villa Campetti",
+                "hu": "Area archeologica di Villa Campetti",
+                "ro": "Area archeologica di Villa Campetti",
+                "en": "Area archeologica di Villa Campetti"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen nach der Fahrt durch Pfützen; die antiken Wege sind bei Regen technisch anspruchsvoll und erfordern volle Konzentration.",
+                "hu": "Ellenőrizze a fékeket a tócsákon való áthaladás után; az antik utak esőben technikásak, és teljes koncentrációt igényelnek a bringástól.",
+                "ro": "Verificați frânele după trecerea prin bălți; potecile antice sunt solicitante din punct de vedere tehnic în ploaie și necesită concentrare maximă.",
+                "en": "Check your brakes after riding through puddles; the ancient paths are technically demanding in the rain and require full concentration."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Piazza d'Armi",
+                "hu": "Area Archeologica di Piazza d'Armi",
+                "ro": "Area Archeologica di Piazza d'Armi",
+                "en": "Area Archeologica di Piazza d'Armi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig, da die Sicht in der Dämmerung und bei Regen stark abnimmt; eine wasserdichte Regenjacke ist hier Gold wert.",
+                "hu": "Zárja óvatosan a túrát, mivel a látótávolság szürkületben és esőben jelentősen csökken; egy vízálló esőkabát itt aranyat ér a terepen.",
+                "ro": "Încheiați turul cu prudență, deoarece vizibilitatea scade semnificativ în amurg și ploaie; o pelerină de ploaie este extrem de utilă aici.",
+                "en": "Finish your tour cautiously as visibility decreases significantly in twilight and rain; a waterproof rain jacket is invaluable here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in La Storta bietet klare Luft und leere Wege. Morgens sind die Straßen oft frostig, daher ist ein langsames Tempo ratsam. Mittags wärmt die Sonne nur schwach, Handschuhe und Thermokleidung sind ein Muss. Da es früh dunkel wird, sollten Sie die archäologischen Highlights bis 15:30 Uhr besucht haben. Abends lockt die Heimfahrt durch die kühle, stille Hügellandschaft.",
+            "hu": "A téli kerékpározás La Storta környékén tiszta levegőt és üres utakat kínál. Reggel az utak gyakran fagyosak, ezért lassabb tempó és óvatosság javasolt. Délben a nap csak gyengén melegít, a kesztyű és a hőszigetelő ruházat elengedhetetlen. Mivel korán sötétedik, az archeológiai látnivalókat 15:30-ig érdemes bejárni. Az este hűvös és csendes gurulást ígér a dombok között.",
+            "ro": "Ciclismul de iarnă în La Storta oferă aer curat și drumuri libere. Dimineața, șoselele sunt adesea înghețate, așa că se recomandă un ritm lent. La prânz, soarele încălzește slab, mănușile și hainele termice fiind obligatorii. Deoarece se întunecă devreme, vizitați punctele arheologice până la ora 15:30. Seara promite o cursă răcoroasă și liniștită printre dealuri.",
+            "en": "Winter cycling in La Storta offers crisp air and empty paths. In the morning, roads are often frosty, so a slower pace is recommended. At midday, the sun warms only weakly, making gloves and thermal clothing a must. Since it gets dark early, aim to visit the archaeological highlights by 3:30 PM. The evening offers a cool, silent ride back through the hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Gliedmaßen aufzuwärmen; die Kirche bietet einen windgeschützten Raum vor der Weiterfahrt durch die kühle Landschaft.",
+                "hu": "Használja ki a megállót a végtagjai átmozgatására és felmelegítésére; a templom szélvédett helyet kínál a hűvös tájban való tekerés előtt.",
+                "ro": "Folosiți oprirea pentru a vă încălzi extremitățile; biserica oferă un spațiu ferit de vânt înainte de a continua drumul prin peisajul rece.",
+                "en": "Use this stop to move and warm up your limbs; the church offers a wind-sheltered space before continuing your ride through the chilly landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Giovanni Calabria",
+                "hu": "Cappella di San Giovanni Calabria",
+                "ro": "Cappella di San Giovanni Calabria",
+                "en": "Cappella di San Giovanni Calabria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp; achten Sie beim Wiederaufsteigen auf kalte Finger, die die Bremskraft beeinflussen könnten.",
+                "hu": "Rövid, elmélyült megálló; az induláskor ügyeljen a hideg ujjaira, amelyek befolyásolhatják a fékerő pontos adagolását a lejtőkön.",
+                "ro": "O oprire scurtă și meditativă; la plecare, aveți grijă la degetele reci care ar putea afecta dozarea precisă a forței de frânare.",
+                "en": "A short, reflective stop; when restarting, watch out for cold fingers, which could affect your precise braking control on slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella della visione",
+                "hu": "Cappella della visione",
+                "ro": "Cappella della visione",
+                "en": "Cappella della visione"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle liegt an einer exponierten Stelle; nutzen Sie den massiven Bau als Windschatten für eine kurze Energieriegel-Pause.",
+                "hu": "A kápolna egy kitettebb helyen található; használja a masszív épületet szélárnyékként egy rövid, energiapótló szünethez a hidegben.",
+                "ro": "Capela se află într-un loc mai expus; folosiți clădirea masivă ca adăpost împotriva vântului pentru o scurtă pauză de reenergizare.",
+                "en": "The chapel is located in a more exposed spot; use the solid building as a windbreak for a short energy-boost break in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier etwas mehr Zeit, um die Körpertemperatur zu regulieren; die moderne Kathedrale ist im Winter ein angenehmer Ruhepol.",
+                "hu": "Töltsön itt kicsit több időt a testhőmérséklete rendezésére; a modern székesegyház télen kellemes és meleg nyugalmi pont a túra alatt.",
+                "ro": "Petreceți ceva mai mult timp aici pentru a vă regla temperatura corpului; catedrala modernă este un punct de relaxare cald și plăcut iarna.",
+                "en": "Spend a bit more time here to regulate your body temperature; the modern cathedral is a pleasant and warm resting point in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Farnese",
+                "hu": "Castello Farnese",
+                "ro": "Castello Farnese",
+                "en": "Castello Farnese"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Festungsanlage; durch das fehlende Laub wirken die Mauern im winterlichen Licht besonders imposant.",
+                "hu": "Élvezze a tiszta rálátást az erődítményre; a lombkorona hiánya miatt a falak a téli fényben különösen impozánsnak és zordnak tűnnek.",
+                "ro": "Bucurați-vă de vederea clară asupra fortificației; absența frunzișului face ca zidurile să pară deosebit de impunătoare în lumina iernii.",
+                "en": "Enjoy the clear view of the fortification; the lack of foliage makes the walls look particularly imposing and rugged in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario dell'Apollo loc. Portonaccio",
+                "hu": "Santuario dell'Apollo loc. Portonaccio",
+                "ro": "Santuario dell'Apollo loc. Portonaccio",
+                "en": "Santuario dell'Apollo loc. Portonaccio"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Bodenfrost sehr rutschig sein; schieben Sie Ihr Rad in der Nähe der Ausgrabungen für maximale Sicherheit.",
+                "hu": "Az utak talajmenti fagy esetén nagyon csúszósak lehetnek; a maximális biztonság érdekében tolja a kerékpárt az ásatások közvetlen közelében.",
+                "ro": "Drumurile pot fi foarte alunecoase în caz de îngheț la sol; pentru siguranță maximă, împingeți bicicleta în apropierea excavațiilor.",
+                "en": "Paths can be very slippery in case of ground frost; for maximum safety, push your bike when in the immediate vicinity of the excavations."
+              }
+            },
+            {
+              "name": {
+                "de": "Area archeologica di Villa Campetti",
+                "hu": "Area archeologica di Villa Campetti",
+                "ro": "Area archeologica di Villa Campetti",
+                "en": "Area archeologica di Villa Campetti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für die Erkundung; die antiken Strukturen treten bei tiefstehender Wintersonne besonders plastisch hervor.",
+                "hu": "Használja ki az utolsó nappali fényeket a felfedezésre; az antik struktúrák az alacsonyan járó téli napfényben különösen plasztikusan látszanak.",
+                "ro": "Profită de ultimele lumini ale zilei pentru explorare; structurile antice apar deosebit de clar în lumina joasă a soarelui de iarnă.",
+                "en": "Take advantage of the last daylight for exploration; the ancient structures appear particularly vivid in the low winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Piazza d'Armi",
+                "hu": "Area Archeologica di Piazza d'Armi",
+                "ro": "Area Archeologica di Piazza d'Armi",
+                "en": "Area Archeologica di Piazza d'Armi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch rechtzeitig vor 16:30 Uhr; die Kälte zieht bei Sonnenuntergang schnell an, was die Rückfahrt anstrengender macht.",
+                "hu": "Fejezze be a látogatást időben, 16:30 előtt; a hideg naplemente után gyorsan fokozódik, ami megnehezíti a hazafelé tartó tekerést.",
+                "ro": "Încheiați vizita la timp, înainte de ora 16:30; gerul se intensifică rapid după apus, ceea ce face pedalarea spre casă mai dificilă.",
+                "en": "Finish your visit in good time before 4:30 PM; the cold intensifies quickly after sunset, making the ride home more strenuous."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -606,6 +1070,280 @@
         "hu": "A reggeli autózás La Storta vallási helyszíneit fedi le, könnyedén váltva a katedrális és a kápolnák között. Délben Isola Farnesébe érkezik, hogy megnézze a Castello Farnesét és a templomokat. A délután egy rövid utat tartogat a Veio Régészeti Parkba, az Apolló-szentélyhez. Az este egy festői autózással zárul az ősi Piazza d'Armi magaslatára.",
         "ro": "Conducerea de dimineață acoperă siturile religioase, trecând ușor de la Catedrală la capelele locale. Prânzul vă aduce la Isola Farnese pentru a vedea impunătorul Castello Farnese. După-amiaza include un scurt drum spre Parcul Arheologic Veio pentru a explora Sanctuarul lui Apollo. Seara se încheie cu o plimbare pitorească până la antica Piazza d'Armi.",
         "en": "Your morning drive covers La Storta's religious sites, easily hopping between the Cathedral and local chapels. Midday brings you to Isola Farnese to see the imposing Castello Farnese and nearby churches. The afternoon features a short drive into the Veio Archaeological Park to explore the Apollo Sanctuary. Evening concludes with a scenic drive up to the ancient Piazza d'Armi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie La Storta bei Regen besonders komfortabel. Morgens steuern Sie die Kathedrale an, wobei Sie direkt auf den nahegelegenen Parkplätzen halten können. Mittags bietet die Fahrt durch die verregnete Landschaft schöne Ausblicke aus dem trockenen Innenraum. Nachmittags erreichen Sie die archäologischen Parks bequem, sollten aber auf Pfützen auf den Zufahrten achten.",
+            "hu": "Autóval La Storta felfedezése esőben is rendkívül kényelmes marad. Reggel a székesegyházhoz hajthat, ahol közvetlenül a közeli parkolókban állhat meg, elkerülve az ázást. Délben a vizes tájon való autózás szép kilátást nyújt a száraz utastérből. Délután az archeológiai parkok könnyen elérhetőek, de ügyeljen a behajtó utakon kialakuló nagyobb tócsákra és a vízátfolyásokra.",
+            "ro": "Cu mașina, explorarea orașului La Storta în condiții de ploaie rămâne extrem de confortabilă. Dimineața vă îndreptați spre catedrală, unde puteți opri direct în parcările din apropiere. La prânz, drumul prin peisajul ploios oferă vederi frumoase din habitaclul uscat. După-amiaza, ajungeți ușor la parcurile arheologice, dar fiți atenți la bălțile mari de pe drumurile de acces.",
+            "en": "By car, exploring La Storta in the rain remains extremely comfortable. In the morning, head to the cathedral, where you can park directly in nearby lots to avoid getting wet. At midday, driving through the rainy landscape offers beautiful views from the dry cabin. In the afternoon, the archaeological parks are easily reachable, but watch out for large puddles on access roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bequemen Zugang vom Parkplatz direkt zum Eingang, um trotz des Regens trocken in die Kathedrale zu gelangen.",
+                "hu": "Használja ki a parkolóból a bejárathoz vezető közvetlen és rövid utat, hogy az eső ellenére szárazon juthasson be a székesegyházba.",
+                "ro": "Profitați de drumul scurt și direct de la parcare la intrare pentru a ajunge uscat în catedrală, în ciuda ploii.",
+                "en": "Take advantage of the short, direct path from the parking lot to the entrance to stay dry when entering the cathedral despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella della visione",
+                "hu": "Cappella della visione",
+                "ro": "Cappella della visione",
+                "en": "Cappella della visione"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Via Cassia; der kleine Stopp lässt sich bei Regen ideal takten, um zwischen den Schauern zur Kapelle zu huschen.",
+                "hu": "Álljon meg rövid időre a Via Cassia mentén; a látogatás ideális időzítésével két zápor között gyorsan bejuthat a kápolnába.",
+                "ro": "Opriți scurt de-a lungul Via Cassia; vizita poate fi temporizată ideal pentru a ajunge rapid în capelă între două reprize de ploaie.",
+                "en": "Stop briefly along Via Cassia; timing your visit between showers allows you to reach the chapel quickly and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Giovanni Calabria",
+                "hu": "Cappella di San Giovanni Calabria",
+                "ro": "Cappella di San Giovanni Calabria",
+                "en": "Cappella di San Giovanni Calabria"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment während der Fahrt; lassen Sie Ihre Regenbekleidung im Auto, wenn Sie nur kurz für ein Gebet in die Kapelle springen.",
+                "hu": "Csendes pillanat az autózás közben; hagyja az esőkabátot a kocsiban, ha csak egy rövid imára ugrik be a kápolna épületébe.",
+                "ro": "Un moment de liniște în timpul condusului; lăsați pelerina în mașină dacă intrați în capelă doar pentru o scurtă rugăciune.",
+                "en": "A quiet moment during your drive; leave your rain gear in the car if you are just popping into the chapel for a short prayer."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Gischt anderer Fahrzeuge bei der Anfahrt; die Kirche ist ein idealer, trockener Rückzugsort bei starkem Niederschlag.",
+                "hu": "Ügyeljen a többi jármű által felcsapott vízre az érkezéskor; a templom ideális, száraz menedék erős csapadék esetén a túra során.",
+                "ro": "Atenție la apa împroșcată de celelalte vehicule la sosire; biserica este un refugiu ideal și uscat în caz de precipitații abundente.",
+                "en": "Watch out for spray from other vehicles on arrival; the church is an ideal, dry retreat during heavy precipitation."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Farnese",
+                "hu": "Castello Farnese",
+                "ro": "Castello Farnese",
+                "en": "Castello Farnese"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Kulisse des Schlosses im Regen; Parkmöglichkeiten in der Nähe erlauben einen schnellen Besuch ohne langes Laufen.",
+                "hu": "Csodálja meg a kastély drámai látványát az esőben; a közeli parkolási lehetőség gyors látogatást tesz lehetővé hosszú gyaloglás nélkül.",
+                "ro": "Admirați vederea dramatică a castelului în ploaie; parcarea din apropiere permite o vizită rapidă fără a merge mult pe jos.",
+                "en": "Admire the dramatic sight of the castle in the rain; nearby parking allows for a quick visit without a long walk in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pancrazio",
+                "hu": "San Pancrazio",
+                "ro": "San Pancrazio",
+                "en": "San Pancrazio"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist per Auto leicht erreichbar; nutzen Sie die Zeit im Inneren für eine Pause von der Fahrt auf den nassen Straßen.",
+                "hu": "A kis templom autóval könnyen megközelíthető; használja ki a belső teret egy kis pihenőre a vizes utakon való vezetés után.",
+                "ro": "Mica biserică este ușor accesibilă cu mașina; folosiți interiorul pentru o scurtă pauză după condusul pe drumurile ude.",
+                "en": "The small church is easily accessible by car; use the interior for a short break after driving on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario dell'Apollo loc. Portonaccio",
+                "hu": "Santuario dell'Apollo loc. Portonaccio",
+                "ro": "Santuario dell'Apollo loc. Portonaccio",
+                "en": "Santuario dell'Apollo loc. Portonaccio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Untergrund, um nicht im Schlamm steckenzubleiben; der Blick auf die antike Stätte ist auch bei Regen faszinierend.",
+                "hu": "Parkoljon szilárd burkolatú helyen, hogy elkerülje az elakadást a sárban; az antik szentély látványa esőben is lenyűgöző marad.",
+                "ro": "Parcați pe o suprafață solidă pentru a evita blocarea în noroi; vederea sanctuarului antic rămâne fascinantă chiar și în ploaie.",
+                "en": "Park on a solid surface to avoid getting stuck in the mud; the view of the ancient sanctuary remains fascinating even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Area archeologica di Villa Campetti",
+                "hu": "Area archeologica di Villa Campetti",
+                "ro": "Area archeologica di Villa Campetti",
+                "en": "Area archeologica di Villa Campetti"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Sichtbehinderungen durch beschlagene Scheiben; nach dem Besuch können Sie im warmen Auto direkt Ihre nassen Schuhe wechseln.",
+                "hu": "Ügyeljen a párásodó szélvédő miatti korlátozott látásra; a látogatás után a meleg autóban rögtön átválthat száraz lábbelire.",
+                "ro": "Atenție la vizibilitatea limitată din cauza parbrizului aburit; după vizită, vă puteți schimba imediat încălțămintea udă în mașina caldă.",
+                "en": "Watch out for limited visibility due to a fogged windshield; after the visit, you can immediately change your wet shoes in the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Piazza d'Armi",
+                "hu": "Area Archeologica di Piazza d'Armi",
+                "ro": "Area Archeologica di Piazza d'Armi",
+                "en": "Area Archeologica di Piazza d'Armi"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen anspruchsvoll sein; genießen Sie das Ende der Tour mit dem Komfort Ihrer Sitzheizung auf dem Rückweg.",
+                "hu": "A behajtás heves esőzéskor kihívást jelenthet; élvezze a túra végét a hazaúton az ülésfűtés nyújtotta extra kényelemmel.",
+                "ro": "Accesul poate fi dificil în caz de ploaie torențială; bucurați-vă de finalul turului cu confortul oferit de încălzirea în scaune la întoarcere.",
+                "en": "Access can be challenging during heavy rain; enjoy the end of the tour with the comfort of your heated seats on the way home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch La Storta ist die effizienteste Art, alle Sehenswürdigkeiten bei Tageslicht zu sehen. Morgens genießen Sie die Fahrt durch frostige Hügel direkt zur warmen Kathedrale. Mittags bietet der Wagen Schutz vor dem schneidenden Wind. Da die Dämmerung früh einsetzt, erreichen Sie alle archäologischen Stätten bequem vor 16:30 Uhr. Abends fahren Sie entspannt durch die beleuchtete Stadt zurück.",
+            "hu": "A téli autós túra La Storta környékén a leghatékonyabb módja a látnivalók megtekintésének a rövid nappalok alatt. Reggel a fagyos dombok között autózva érkezhet a meleg székesegyházhoz. Délben a kocsi védelmet nyújt a metsző szél elől a megállók között. Mivel korán szürkület van, minden archeológiai helyszínt kényelmesen bejárhat 16:30 előtt. Az este nyugodt autózást ígér a kivilágított városban.",
+            "ro": "Un tur cu mașina iarna prin La Storta este cel mai eficient mod de a vedea obiectivele în timpul zilei scurte. Dimineața, pedalați prin dealurile înghețate direct spre catedrala caldă. La prânz, mașina oferă protecție împotriva vântului tăios între opriri. Deoarece amurgul vine devreme, puteți vizita toate siturile arheologice înainte de ora 16:30. Seara oferă un condus relaxat prin orașul iluminat.",
+            "en": "A winter car tour of La Storta is the most efficient way to see all the sights during the short daylight hours. In the morning, drive through the frosty hills directly to the warm cathedral. At midday, the car provides protection from the biting wind between stops. Since twilight comes early, you can comfortably visit all archaeological sites before 4:30 PM. The evening offers a relaxed drive through the lit-up town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+                "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um das Auto natürlich aufzuwärmen, während Sie die beeindruckende moderne Architektur der Kathedrale besichtigen.",
+                "hu": "Parkoljon napos helyen, hogy az autó természetes módon felmelegedjen, amíg Ön a székesegyház lenyűgöző modern építészetét tanulmányozza.",
+                "ro": "Parcați la soare pentru ca mașina să se încălzească natural în timp ce vizitați arhitectura modernă impresionantă a catedralei.",
+                "en": "Park in a sunny spot to let the car warm up naturally while you study the cathedral's impressive modern architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella della visione",
+                "hu": "Cappella della visione",
+                "ro": "Cappella della visione",
+                "en": "Cappella della visione"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier im Winter ideal; der kurze Weg vom Auto zur Kapelle schützt Sie vor einer längeren Auskühlung im Wind.",
+                "hu": "A téli időszakban egy gyors megálló itt ideális; az autótól a kápolnáig tartó rövid út megvédi Önt a szeles időben való tartós lehűléstől.",
+                "ro": "O oprire rapidă este ideală aici iarna; drumul scurt de la mașină la capelă vă protejează de răceala persistentă în timpul vântului.",
+                "en": "A quick stop is ideal here in winter; the short walk from the car to the chapel protects you from getting chilled in the windy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Giovanni Calabria",
+                "hu": "Cappella di San Giovanni Calabria",
+                "ro": "Cappella di San Giovanni Calabria",
+                "en": "Cappella di San Giovanni Calabria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Besinnung und prüfen Sie im Wagen Ihre Route, bevor Sie in die offeneren, windigeren Zonen weiterfahren.",
+                "hu": "Használja ki a megállót egy rövid elcsendesedésre, és ellenőrizze az útvonalat a kocsiban, mielőtt a nyitottabb, szelesebb zónák felé indulna.",
+                "ro": "Folosiți oprirea pentru o scurtă reflecție și verificați traseul în mașină înainte de a porni spre zonele mai deschise și vântoase.",
+                "en": "Use the stop for a brief moment of quiet and check your route in the car before heading towards the more open, windier zones."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt bietet im Winter weite Panoramablicke; im Inneren der Kirche können Sie die Kälte für einen Moment komplett vergessen.",
+                "hu": "Az idevezető út télen tágas panorámát kínál; a templom belsejében egy pillanatra teljesen elfelejtheti a kinti csípős hideget.",
+                "ro": "Drumul până aici oferă panorame vaste iarna; în interiorul bisericii puteți uita pentru un moment de frigul pătrunzător de afară.",
+                "en": "The road here offers vast panoramas in winter; inside the church, you can completely forget the biting cold outside for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Farnese",
+                "hu": "Castello Farnese",
+                "ro": "Castello Farnese",
+                "en": "Castello Farnese"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im harten Winterlicht besonders plastisch; machen Sie Fotos direkt aus dem Auto, wenn der Wind zu stark bläst.",
+                "hu": "A kastély a téli fényben különösen karakteresnek tűnik; készítsen fotókat akár az autóból is, ha a szél túl erősen fújna a dombtetőn.",
+                "ro": "Castelul pare deosebit de caracteristic în lumina iernii; faceți fotografii chiar din mașină dacă vântul bate prea tare pe vârful dealului.",
+                "en": "The castle looks particularly striking in the winter light; take photos even from the car if the wind blows too hard on the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pancrazio",
+                "hu": "San Pancrazio",
+                "ro": "San Pancrazio",
+                "en": "San Pancrazio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die Kältebrücke kurz zu halten; die warme Atmosphäre der Kirche ist eine Wohltat während der Autotour.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja a kint töltött időt; a templom meleg atmoszférája igazi felüdülés az autós túra során.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut afară; atmosfera caldă a bisericii este o adevărată relaxare în timpul turului.",
+                "en": "Park close to the entrance to minimize time spent outside; the church's warm atmosphere is a true relief during your car tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario dell'Apollo loc. Portonaccio",
+                "hu": "Santuario dell'Apollo loc. Portonaccio",
+                "ro": "Santuario dell'Apollo loc. Portonaccio",
+                "en": "Santuario dell'Apollo loc. Portonaccio"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenen Tau auf dem Parkplatz; die archäologische Stätte ist im Winter weniger besucht und bietet so exklusive Fotomotive.",
+                "hu": "Ügyeljen a fagyott párára a parkolóban; az archeológiai helyszín télen kevésbé látogatott, így exkluzív fotótémákat kínál a romok között.",
+                "ro": "Atenție la bruma înghețată din parcare; situl arheologic este mai puțin vizitat iarna, oferind astfel subiecte foto exclusive printre ruine.",
+                "en": "Watch out for frozen dew in the parking lot; the archaeological site is less visited in winter, offering exclusive photo opportunities among the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Area archeologica di Villa Campetti",
+                "hu": "Area archeologica di Villa Campetti",
+                "ro": "Area archeologica di Villa Campetti",
+                "en": "Area archeologica di Villa Campetti"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor 16:00 Uhr ein, um das goldene Licht der tiefstehenden Wintersonne für Ihre Besichtigung optimal zu nutzen.",
+                "hu": "Időzítse ezt a megállót 16:00 előttre, hogy a lemenő téli nap aranyfényeit a lehető legjobban kihasználhassa a terület bejárásakor.",
+                "ro": "Planificați această oprire înainte de ora 16:00, pentru a profita la maximum de lumina aurie a soarelui de iarnă la apus în timpul vizitei.",
+                "en": "Time this stop before 4:00 PM to make the best use of the golden winter sunset light while exploring the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Piazza d'Armi",
+                "hu": "Area Archeologica di Piazza d'Armi",
+                "ro": "Area Archeologica di Piazza d'Armi",
+                "en": "Area Archeologica di Piazza d'Armi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier bei einsetzender Dämmerung; die Rückfahrt im gut beheizten Wagen durch die dunklen Hügel ist sehr entspannend.",
+                "hu": "Zárja itt a napot a szürkület beálltakor; a visszaút a jól fűtött autóban a sötétedő dombok között rendkívül pihentető élmény lesz.",
+                "ro": "Încheiați ziua aici la lăsarea amurgului; drumul de întoarcere în mașina bine încălzită printre dealurile întunecate va fi relaxant.",
+                "en": "End your day here as twilight sets in; the drive back in a well-heated car through the darkening hills will be a very relaxing experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

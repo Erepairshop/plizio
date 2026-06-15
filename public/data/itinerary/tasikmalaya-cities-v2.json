@@ -137,6 +137,168 @@
         "hu": "A reggel békés spirituális energiát hoz a nagy mecsetekben.\n\nA dél történelmi útvonalakon és élénk utcákon átívelő utazásra hív.\n\nA délutánokat autentikus piacoknak vagy medencéknek szenteljük.\n\nAz este beköszöntével Jáva emlékei maradnak velünk.",
         "ro": "Dimineața aduce o energie pașnică la marile moschei.\n\nAmiaza invită la o călătorie prin rute istorice și străzi vibrante.\n\nDupă-amiezile sunt rezervate pentru piețe autentice sau piscine.\n\nSeara se instalează, lăsând amintiri de neuitat din Java.",
         "en": "Morning brings peaceful spiritual energy at grand mosques.\n\nMidday invites a journey through historical routes and vibrant streets.\n\nAfternoons are reserved for authentic markets or pool retreats.\n\nEvening sets in as trade winds down, leaving memories of Java."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der großen Moschee.\nMittags spazieren Sie mit einem Regenschirm vorsichtig durch das Bahnhofsviertel.\nNachmittags bieten lokale Moscheen einen guten Schutz.\nAbends erkunden Sie die überdachten Bereiche des Marktes.",
+            "hu": "Kezdd az esős reggelt a nagy mecset menedékében.\nDélben óvatosan sétálj az állomás körül, használj stabil esernyőt.\nDélután keress menedéket a helyi mecsetekben.\nEste vedd az irányt a nyüzsgő piac fedett részei felé, hogy száraz maradj.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în marea moschee.\nLa prânz, mergeți cu grijă prin zona stației folosind o umbrelă robustă.\nDupă-amiaza, găsiți refugiu cald în moscheile locale.\nSeara, explorați secțiunile acoperite ale pieței aglomerate.",
+            "en": "Start your rainy morning at the grand mosque for shelter.\nBy noon, navigate carefully around the station using a sturdy umbrella.\nIn the afternoon, find refuge in local mosques.\nIn the evening, explore the bustling market where covered sections keep you dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Agung",
+                "hu": "Masjid Agung",
+                "ro": "Masjid Agung",
+                "en": "Masjid Agung"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die riesige Gebetshalle und suchen Sie Schutz vor dem Regen; halten Sie Ihre Schuhe an einem trockenen Ort.",
+                "hu": "Csodáld meg a hatalmas imatermet az eső elől menedéket találva; tartsd a cipődet biztonságos, száraz helyen.",
+                "ro": "Admirați sala vastă de rugăciune adăpostindu-vă de ploaie; păstrați încălțămintea într-un loc uscat la intrare.",
+                "en": "Admire the vast prayer hall while taking shelter from the rain; keep your shoes in a dry spot near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Tasikmalaya",
+                "hu": "Tasikmalaya",
+                "ro": "Tasikmalaya",
+                "en": "Tasikmalaya"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den regnerischen Rhythmus der Stadt; achten Sie besonders auf die rutschigen Gehwege im Zentrum.",
+                "hu": "Figyeld a város esős ritmusát a központban, de lépkedj rendkívül óvatosan a nedves, csúszós járdákon.",
+                "ro": "Urmăriți ritmul ploios al orașului în centru, dar pășiți cu grijă pe trotuarele umede și alunecoase.",
+                "en": "Watch the city's rainy rhythm near the main area, but step carefully on the wet, slippery pavements."
+              }
+            },
+            {
+              "name": {
+                "de": "Jalur KA Tasikmalaya - Singaparna",
+                "hu": "Jalur KA Tasikmalaya - Singaparna",
+                "ro": "Jalur KA Tasikmalaya - Singaparna",
+                "en": "Jalur KA Tasikmalaya - Singaparna"
+              },
+              "tip_5lang": {
+                "de": "Die historische Bahntrasse wirkt im Regen sehr stimmungsvoll; tragen Sie wasserdichte Schuhe wegen der Pfützen.",
+                "hu": "A történelmi vasútvonal kifejezetten hangulatos az esőben; viselj vízálló cipőt a nagyobb tócsák elkerülése végett.",
+                "ro": "Traseul feroviar istoric este foarte melancolic pe ploaie; purtați încălțăminte impermeabilă pentru a evita bălțile.",
+                "en": "The historic rail path looks moody in the rain; wear waterproof shoes to navigate the large puddles safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Kautsar",
+                "hu": "Masjid Al-Kautsar",
+                "ro": "Masjid Al-Kautsar",
+                "en": "Masjid Al-Kautsar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre in dieser Moschee, ein perfekter überdachter Ort zum Ausruhen und Trocknen.",
+                "hu": "Élvezd a helyi mecset békés légkörét, amely tökéletes fedett pihenőhely a séta közbeni megszáradáshoz.",
+                "ro": "Bucurați-vă de atmosfera senină din această moschee, un loc acoperit perfect pentru a vă odihni și usca.",
+                "en": "Enjoy the serene atmosphere inside this local mosque, a perfect covered dry stop to rest your legs and warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Induk Cikurubuk",
+                "hu": "Pasar Induk Cikurubuk",
+                "ro": "Pasar Induk Cikurubuk",
+                "en": "Pasar Induk Cikurubuk"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Gassen des Marktes; ein Regenschirm ist jedoch zwischen den Ständen nützlich.",
+                "hu": "Fedezd fel a piac fedett sorait; a saját esernyő hasznos, amikor az árusok standjai közötti nyitott részen mész át.",
+                "ro": "Explorați aleile acoperite ale pieței; o umbrelă este utilă când treceți prin zonele deschise printre tarabe.",
+                "en": "Explore the covered alleys of the main market; an umbrella is still useful when crossing open sections between stalls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen warm eingepackt an der Zentralmoschee.\nMittags bietet der Spaziergang eine angenehm kühle Brise.\nDa die Sonne früh gegen 17:00 Uhr untergeht, besuchen Sie nachmittags die Schreine.\nBeenden Sie den Tag auf dem beleuchteten Markt.",
+            "hu": "Kezdd a téli reggelt meleg rétegekben a központi mecsetnél.\nDélben a vasút menti séta kellemes levegőt kínál.\nMivel a nap már 17:00 körül lenyugszik, délután látogasd meg a helyi szentélyeket.\nZárd a napot a piacon az esti fények alatt.",
+            "ro": "Începeți dimineața de iarnă cu haine călduroase la moscheea centrală.\nLa prânz, plimbarea pe calea ferată oferă o briză plăcută.\nDeoarece soarele apune pe la 17:00, vizitați sanctuarele după-amiaza.\nÎncheiați ziua în piața vibrantă sub luminile serii.",
+            "en": "Start your winter morning wrapped in warm layers at the central mosque.\nBy noon, the walk along the railway offers pleasant breezes.\nAs the sun sets early around 17:00, visit the local shrines.\nEnd your day at the vibrant market under the glowing evening lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Agung",
+                "hu": "Masjid Agung",
+                "ro": "Masjid Agung",
+                "en": "Masjid Agung"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft erfrischt den weiten Hof der Moschee; bringen Sie eine leichte Jacke zum Überziehen mit.",
+                "hu": "A hűvös reggeli levegő frissítővé teszi a nagy mecset udvarát; hozz magaddal egy könnyű kabátot a sétához.",
+                "ro": "Aerul rece al dimineții face curtea vastă a moscheii revigorantă; luați o jachetă ușoară cu dumneavoastră.",
+                "en": "The cool morning air makes the grand mosque's vast courtyard refreshing; bring a light jacket for the stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Tasikmalaya",
+                "hu": "Tasikmalaya",
+                "ro": "Tasikmalaya",
+                "en": "Tasikmalaya"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das geschäftige Zentrum; das kühlere Wetter ist ideal für ein zügiges, komfortables Schritttempo.",
+                "hu": "Fedezd fel a nyüzsgő városközpontot; a hűvösebb téli idő tökéletes egy tempós, kényelmes sétához.",
+                "ro": "Explorați centrul plin de viață; vremea mai rece de iarnă este perfectă pentru o plimbare confortabilă.",
+                "en": "Explore the bustling city center; the cooler winter weather is perfect for a brisk, comfortable walking pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Jalur KA Tasikmalaya - Singaparna",
+                "hu": "Jalur KA Tasikmalaya - Singaparna",
+                "ro": "Jalur KA Tasikmalaya - Singaparna",
+                "en": "Jalur KA Tasikmalaya - Singaparna"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie entlang der historischen Gleise; die Winterbrise ist angenehm, aber ziehen Sie sich bei Wind warm an.",
+                "hu": "Sétálj a történelmi sínek mentén; a téli szellő nagyon kellemes, de öltözz fel jobban, ha feltámad a szél.",
+                "ro": "Mergeți de-a lungul șinelor istorice; briza de iarnă este plăcută, dar îmbrăcați-vă bine dacă bate vântul.",
+                "en": "Walk along the historic tracks; the winter breeze is pleasant, but bundle up with a scarf if the wind picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Kautsar",
+                "hu": "Masjid Al-Kautsar",
+                "ro": "Masjid Al-Kautsar",
+                "en": "Masjid Al-Kautsar"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die ruhige Moschee ein, um sich aufzuwärmen und die wunderschöne Architektur in Ruhe zu bewundern.",
+                "hu": "Lépj be a békés mecsetbe felmelegedni, és csodáld meg nyugodtan a gyönyörű helyi építészeti részleteket.",
+                "ro": "Intrați în moscheea liniștită pentru a vă încălzi și admirați detaliile sale arhitecturale frumoase în pace.",
+                "en": "Step inside the serene mosque to warm up from the chill and admire its beautiful architectural details in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Induk Cikurubuk",
+                "hu": "Pasar Induk Cikurubuk",
+                "ro": "Pasar Induk Cikurubuk",
+                "en": "Pasar Induk Cikurubuk"
+              },
+              "tip_5lang": {
+                "de": "Der Markt erwacht in der frühen Dämmerung; tragen Sie einen warmen Pullover beim Stöbern durch die Stände.",
+                "hu": "A piac megelevenedik a korai sötétedéskor; viselj meleg pulóvert a nyüzsgő standok közötti böngészéshez.",
+                "ro": "Piața prinde viață la lăsarea timpurie a serii; purtați un pulover cald în timp ce explorați tarabele aglomerate.",
+                "en": "The market comes alive as dusk falls early; wear a warm sweater while browsing the bustling vendor stalls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggel békés spirituális energiát hoz a nagy mecsetekben.\n\nA dél történelmi útvonalakon és élénk utcákon átívelő utazásra hív.\n\nA délutánokat autentikus piacoknak vagy medencéknek szenteljük.\n\nAz este beköszöntével Jáva emlékei maradnak velünk.",
         "ro": "Dimineața aduce o energie pașnică la marile moschei.\n\nAmiaza invită la o călătorie prin rute istorice și străzi vibrante.\n\nDupă-amiezile sunt rezervate pentru piețe autentice sau piscine.\n\nSeara se instalează, lăsând amintiri de neuitat din Java.",
         "en": "Morning brings peaceful spiritual energy at grand mosques.\n\nMidday invites a journey through historical routes and vibrant streets.\n\nAfternoons are reserved for authentic markets or pool retreats.\n\nEvening sets in as trade winds down, leaving memories of Java."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an diesem regnerischen Morgen vorsichtig ab der großen Moschee.\nMittags fahren Sie mit Bedacht, da die Wege sehr rutschig sind.\nNachmittags suchen Sie Schutz im Schwimmbad und in Moscheen.\nEnden Sie abends sicher am überdachten Markt.",
+            "hu": "Óvatosan pedálozz ezen az esős reggelen a nagy mecsettől.\nDél körül fokozott figyelemmel tekerj, mivel az utak csúszósak.\nDélután keress menedéket az uszodánál és a mecsetekben.\nZárd nedves utadat a részben fedett esti piacon.",
+            "ro": "Pedalați cu grijă în această dimineață ploioasă de la moschee.\nLa prânz, mergeți cu atenție, deoarece drumurile vor fi alunecoase.\nDupă-amiaza, adăpostiți-vă la piscină și la moscheile locale.\nTerminați cursa de seară la piața parțial acoperită.",
+            "en": "Pedal carefully this rainy morning starting at the grand mosque.\nAround noon, ride with caution along the historic path as surfaces are slippery.\nIn the afternoon, take shelter at the pool area and local mosques.\nEnd your wet ride at the bustling, covered market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Agung",
+                "hu": "Masjid Agung",
+                "ro": "Masjid Agung",
+                "en": "Masjid Agung"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Fahrrad überdacht und bewundern Sie die Moschee, während Sie den starken Morgenschauer abwarten.",
+                "hu": "Parkold le a biciklit fedett helyen, és csodáld meg a mecsetet, amíg várod, hogy elálljon a reggeli zápor.",
+                "ro": "Parcați bicicleta la adăpost și admirați măreția moscheii în timp ce așteptați să treacă ploaia de dimineață.",
+                "en": "Park your bike under cover and admire the mosque's grandeur while waiting for the heavy morning shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Tasikmalaya",
+                "hu": "Tasikmalaya",
+                "ro": "Tasikmalaya",
+                "en": "Tasikmalaya"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie äußerst vorsichtig durch das Zentrum; nutzen Sie Schutzbleche, um Spritzer vom nassen Asphalt zu vermeiden.",
+                "hu": "Különös óvatossággal haladj át a városközponton; használj sárvédőt, hogy elkerüld a nedves aszfalt fröccsenéseit.",
+                "ro": "Mergeți cu prudență prin centrul orașului; folosiți apărători de noroi pentru a evita stropii de pe asfaltul umed.",
+                "en": "Ride cautiously through the busy city center; use mudguards to avoid messy splashes from the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Jalur KA Tasikmalaya - Singaparna",
+                "hu": "Jalur KA Tasikmalaya - Singaparna",
+                "ro": "Jalur KA Tasikmalaya - Singaparna",
+                "en": "Jalur KA Tasikmalaya - Singaparna"
+              },
+              "tip_5lang": {
+                "de": "Die Bahntrasse kann bei Regen sehr matschig und rutschig sein; drosseln Sie unbedingt Ihre Geschwindigkeit.",
+                "hu": "A történelmi vasútvonal esőben saras és csúszós lehet; mindenképpen csökkentsd a sebességet a balesetek elkerülésére.",
+                "ro": "Traseul feroviar poate fi noroios și alunecos pe ploaie; reduceți obligatoriu viteza pentru a nu cădea pe șinele ude.",
+                "en": "The historic rail trail can be very muddy in the rain; strongly reduce your speed to avoid slipping on the wet tracks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolam Renang Tirta Alam",
+                "hu": "Kolam Renang Tirta Alam",
+                "ro": "Kolam Renang Tirta Alam",
+                "en": "Kolam Renang Tirta Alam"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie trocken unter den überdachten Pavillons des Schwimmbads, während der Regen draußen stark prasselt.",
+                "hu": "Tarts szünetet és maradj szárazon az uszoda fedett pavilonjai alatt, amíg kint hevesen zuhog a trópusi eső.",
+                "ro": "Luați o pauză la adăpost sub pavilioanele acoperite ale piscinei în timp ce afară plouă torențial pe străzile orașului.",
+                "en": "Take a completely dry break from cycling under the pool's covered pavilions while the rain pours heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Inaayah TMC",
+                "hu": "Masjid Al Inaayah TMC",
+                "ro": "Masjid Al Inaayah TMC",
+                "en": "Masjid Al Inaayah TMC"
+              },
+              "tip_5lang": {
+                "de": "Ein toller, trockener Halt, um die Fahrradausrüstung abzutrocknen und in der modernen Moschee Ruhe zu finden.",
+                "hu": "Kiváló megálló a nedves bringás felszerelés megszárítására és a lelki nyugalom megtalálására ebben a mecsetben.",
+                "ro": "O oprire excelentă pentru a vă usca echipamentul de ciclism și a găsi liniște în această moschee modernă.",
+                "en": "A great indoor stop to dry off your wet cycling gear and find spiritual calm in this beautifully designed modern mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Induk Cikurubuk",
+                "hu": "Pasar Induk Cikurubuk",
+                "ro": "Pasar Induk Cikurubuk",
+                "en": "Pasar Induk Cikurubuk"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher ab und erkunden Sie die geschützten Gänge des Marktes, um trocken zu bleiben.",
+                "hu": "Zárd le biztonságosan a biciklit, és fedezd fel a piac védett sorait, hogy teljesen szárazon fejezd be a napot.",
+                "ro": "Securizați bicicleta și explorați aleile adăpostite ale pieței pentru a rămâne uscat la sfârșitul călătoriei.",
+                "en": "Lock your bike securely and explore the fully sheltered aisles of the market to conclude your ride without getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich für die frische Winterradtour morgens warm an.\nMittags macht die kühle Luft das Radeln besonders angenehm.\nDa die Dämmerung gegen 17:00 Uhr einsetzt, schalten Sie nachmittags das Licht ein.\nEnden Sie am abendlich beleuchteten Markt.",
+            "hu": "Öltözz rétegesen a frissítő téli biciklizéshez reggel.\nDélben a hűvösebb levegő élvezetessé teszi a tekerést izzadás nélkül.\nA 17:00 körüli korai sötétedés miatt délután kapcsold be a lámpákat.\nÉrj célba a kivilágított piacon.",
+            "ro": "Îmbrăcați-vă în straturi pentru o cursă de iarnă dimineața.\nLa prânz, aerul rece face pedalatul plăcut, fără a vă supraîncălzi.\nOdată cu întunericul de la 17:00, aprindeți farurile după-amiaza.\nTerminați cursa la piața frumos luminată seara.",
+            "en": "Layer up for a brisk winter bike ride starting at the grand mosque.\nBy noon, the cooler air makes cycling highly enjoyable without overheating.\nAs early dusk falls around 17:00, turn on your bike lights.\nFinish your ride at the warmly lit evening market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Agung",
+                "hu": "Masjid Agung",
+                "ro": "Masjid Agung",
+                "en": "Masjid Agung"
+              },
+              "tip_5lang": {
+                "de": "Die frische Morgenluft unterstreicht die majestätische Architektur; tragen Sie Handschuhe, um Ihre Hände warm zu halten.",
+                "hu": "A csípős reggeli levegő kiemeli a fenséges építészetet; viselj kesztyűt, hogy melegen tartsd a kezed tekerés közben.",
+                "ro": "Aerul rece al dimineții evidențiază arhitectura maiestuoasă; purtați mănuși pentru a vă încălzi mâinile pedalând.",
+                "en": "The crisp morning air highlights the majestic architecture; wear thin gloves to keep your hands warm while gripping the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Tasikmalaya",
+                "hu": "Tasikmalaya",
+                "ro": "Tasikmalaya",
+                "en": "Tasikmalaya"
+              },
+              "tip_5lang": {
+                "de": "Das Radeln durch das Zentrum ist bei Wintertemperaturen leichter; halten Sie ein stetiges Tempo zum Aufwärmen.",
+                "hu": "A városközpontban sokkal könnyebb tekerni a téli hőmérsékleten; tarts egyenletes tempót a kellemes melegérzethez.",
+                "ro": "Ciclismul prin centrul orașului este mult mai ușor la temperaturi de iarnă; păstrați un ritm constant pentru a vă încălzi.",
+                "en": "Cycling through the city center is much easier in winter temperatures; keep a steady pace to stay pleasantly warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Jalur KA Tasikmalaya - Singaparna",
+                "hu": "Jalur KA Tasikmalaya - Singaparna",
+                "ro": "Jalur KA Tasikmalaya - Singaparna",
+                "en": "Jalur KA Tasikmalaya - Singaparna"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den malerischen Bahnweg; die kühle Brise ist erfrischend, aber eine Windjacke ist sehr zu empfehlen.",
+                "hu": "Élvezd a festői vasúti ösvényt; a hűvös szellő frissítő, de egy kényelmes széldzseki viselése erősen ajánlott.",
+                "ro": "Bucurați-vă de traseul pitoresc; briza rece este revigorantă, dar o jachetă de vânt este foarte recomandată pe bicicletă.",
+                "en": "Enjoy the scenic rail trail; the cooler breeze is incredibly refreshing, but a light windbreaker jacket is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolam Renang Tirta Alam",
+                "hu": "Kolam Renang Tirta Alam",
+                "ro": "Kolam Renang Tirta Alam",
+                "en": "Kolam Renang Tirta Alam"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn es zum Schwimmen zu kühl ist, bietet der Komplex einen schönen Ort für eine heiße Tasse Tee zum Aufwärmen.",
+                "hu": "Még ha túl hideg is van az úszáshoz, az uszodakomplexum remek hely a pihenésre és egy forró tea elfogyasztására.",
+                "ro": "Chiar dacă e prea frig pentru înot, complexul oferă un loc plăcut pentru a vă odihni cu o ceașcă fierbinte de ceai.",
+                "en": "Even if it is too chilly to swim, the pool complex offers a nice relaxing spot to rest and grab a hot cup of local tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Inaayah TMC",
+                "hu": "Masjid Al Inaayah TMC",
+                "ro": "Masjid Al Inaayah TMC",
+                "en": "Masjid Al Inaayah TMC"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie hier, wenn der späte Nachmittag stark abkühlt; das Innere der Moschee bietet eine warme, friedliche Pause.",
+                "hu": "Állj meg itt, ahogy a késő délután erősen lehűl; a mecset belseje meleg és békés pihenőt nyújt a biciklizésben.",
+                "ro": "Opriți-vă aici când după-amiaza se răcorește puternic; interiorul moscheii oferă o pauză caldă și pașnică.",
+                "en": "Stop here as the late afternoon significantly cools down; the mosque's interior provides a very warm and peaceful cycling break."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Induk Cikurubuk",
+                "hu": "Pasar Induk Cikurubuk",
+                "ro": "Pasar Induk Cikurubuk",
+                "en": "Pasar Induk Cikurubuk"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie bei früh einbrechender Dunkelheit an; prüfen Sie Ihre Reflektoren und genießen Sie den beleuchteten Abendmarkt.",
+                "hu": "Érkezz meg a korai téli sötétedés idején; ellenőrizd a bringa fényvisszaverőit, és élvezd az esti piac nyüzsgését.",
+                "ro": "Ajungeți odată cu lăsarea întunericului devreme; asigurați-vă că reflectoarele sunt curate și bucurați-vă de piața luminată.",
+                "en": "Arrive as the early winter night sets in; ensure your bike reflectors are completely clean and enjoy the brightly lit evening market."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A reggel békés spirituális energiát hoz a nagy mecsetekben.\n\nA dél történelmi útvonalakon és élénk utcákon átívelő utazásra hív.\n\nA délutánokat autentikus piacoknak vagy medencéknek szenteljük.\n\nAz este beköszöntével Jáva emlékei maradnak velünk.",
         "ro": "Dimineața aduce o energie pașnică la marile moschei.\n\nAmiaza invită la o călătorie prin rute istorice și străzi vibrante.\n\nDupă-amiezile sunt rezervate pentru piețe autentice sau piscine.\n\nSeara se instalează, lăsând amintiri de neuitat din Java.",
         "en": "Morning brings peaceful spiritual energy at grand mosques.\n\nMidday invites a journey through historical routes and vibrant streets.\n\nAfternoons are reserved for authentic markets or pool retreats.\n\nEvening sets in as trade winds down, leaving memories of Java."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre regnerische Fahrt sicher am Morgen an der Moschee.\nMittags fahren Sie vorsichtig und langsam durch Pfützen.\nNachmittags besuchen Sie überdachte Anlagen und Moscheen.\nBeenden Sie den Tag bequem und trocken am Marktparkplatz.",
+            "hu": "Indulj biztonságos esős autózásra a helyi mecsettől.\nDélben óvatosan vezess, lassan hajts át a tócsákon az ablaktörlőket használva.\nDélután látogasd meg az uszoda fedett részeit és a mecseteket.\nParkolj le kényelmesen este a piac fedett részén.",
+            "ro": "Începeți plimbarea cu mașina pe ploaie de la moscheea locală.\nLa prânz, conduceți cu atenție și încet prin bălți folosind ștergătoarele.\nDupă-amiaza, vizitați facilitățile acoperite și moscheile.\nTerminați confortabil seara în parcarea acoperită a pieței.",
+            "en": "Start your rainy drive safely from the local mosque.\nBy noon, navigate near the historical tracks slowly through puddles using wipers.\nIn the afternoon, visit the indoor pool facilities and mosques.\nFinish comfortably at the market's covered parking area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Al Ilyas",
+                "hu": "Masjid Al Ilyas",
+                "ro": "Masjid Al Ilyas",
+                "en": "Masjid Al Ilyas"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Reise mit der Architektur; ein Regenschirm ist für den kurzen Weg vom Auto zur Tür ein Muss.",
+                "hu": "Kezdd az utat a békés építészet megcsodálásával; az esernyő kötelező az autótól a bejáratig való rövid sétához.",
+                "ro": "Începeți admirând arhitectura pașnică; o umbrelă este absolut necesară pentru plimbarea scurtă de la mașină la ușă.",
+                "en": "Begin your trip admiring the peaceful architecture from inside; an umbrella is an absolute must for the short walk from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Jalur KA Tasikmalaya - Singaparna",
+                "hu": "Jalur KA Tasikmalaya - Singaparna",
+                "ro": "Jalur KA Tasikmalaya - Singaparna",
+                "en": "Jalur KA Tasikmalaya - Singaparna"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie parallel zu den Gleisen und betrachten Sie die regenüberspülte Landschaft aus dem trockenen, warmen Auto.",
+                "hu": "Vezess párhuzamosan a történelmi sínekkel, és figyeld az eső áztatta tájat a jármű száraz, kényelmes belső teréből.",
+                "ro": "Conduceți paralel cu șinele istorice și priviți peisajul spălat de ploaie din confortul cald și uscat al vehiculului.",
+                "en": "Drive parallel to the historic tracks and slowly view the beautifully rain-washed scenery from the dry comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Tasikmalaya",
+                "hu": "Tasikmalaya",
+                "ro": "Tasikmalaya",
+                "en": "Tasikmalaya"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann viel Verkehr im Zentrum sein; planen Sie leichte Verzögerungen ein und halten Sie mehr Abstand.",
+                "hu": "A központban nagy lehet a forgalom a záporok idején; számíts kisebb késésekre, és tarts nagyobb biztonságos követési távolságot.",
+                "ro": "Traficul poate fi intens în timpul averselor în centru; anticipați mici întârzieri și păstrați o distanță mai mare de siguranță.",
+                "en": "Traffic can be quite heavy during downpours in the center; plan for slight delays and always keep a safe following distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung",
+                "hu": "Masjid Agung",
+                "ro": "Masjid Agung",
+                "en": "Masjid Agung"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah am Eingang wie möglich; die Moschee bietet riesige Veranden, um bei der Besichtigung komplett trocken zu bleiben.",
+                "hu": "Parkolj minél közelebb a bejárathoz; a nagy mecset hatalmas verandákat kínál, ahol teljesen száraz maradsz a nézelődés alatt.",
+                "ro": "Parcați cât mai aproape de intrare; marea moschee oferă verande masive pentru a rămâne complet uscat în timpul vizitei.",
+                "en": "Park as close to the entrance as possible; the stunning grand mosque offers massive verandas allowing you to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolam Renang Tirta Alam",
+                "hu": "Kolam Renang Tirta Alam",
+                "ro": "Kolam Renang Tirta Alam",
+                "en": "Kolam Renang Tirta Alam"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie den stärksten Regen in den überdachten Bereichen des Schwimmbads ab und genießen Sie das Rauschen des Wassers.",
+                "hu": "Várd ki a legnagyobb esőt az uszodakomplexum fedett részein, miközben biztonságban élvezed a heves zápor ritmikus hangját.",
+                "ro": "Așteptați trecerea ploii torențiale în zonele acoperite ale complexului bucurându-vă în siguranță de sunetul ritmic al apei.",
+                "en": "Wait out the heaviest rain safely in the covered sections of the pool complex while enjoying the rhythmic sound of the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Inaayah TMC",
+                "hu": "Masjid Al Inaayah TMC",
+                "ro": "Masjid Al Inaayah TMC",
+                "en": "Masjid Al Inaayah TMC"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Ästhetik wirkt auch bei trübem Wetter; sprinten Sie vom Auto, um die warme Innenbeleuchtung zu genießen.",
+                "hu": "A modern esztétika borús időben is feltűnő; fuss be az autóból, hogy azonnal megtapasztald a meleg, száraz belső világítást.",
+                "ro": "Estetica modernă este izbitoare chiar și pe vreme mohorâtă; fugiți din mașină pentru a experimenta iluminatul interior cald.",
+                "en": "The modern aesthetic is striking even in gloomy weather; dash quickly from your car to experience its very warm, dry interior lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Kautsar",
+                "hu": "Masjid Al-Kautsar",
+                "ro": "Masjid Al-Kautsar",
+                "en": "Masjid Al-Kautsar"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Halt auf der regnerischen Fahrt; der überdachte Eingang ermöglicht es, nasse Schuhe vor dem Eintritt bequem auszuziehen.",
+                "hu": "Békés megálló az esős autózás során; a tágas fedett bejáratnál kényelmesen leveheted a vizes cipőt, mielőtt a szőnyegre lépsz.",
+                "ro": "O oprire pașnică în drumul ploios; intrarea spațioasă acoperită vă permite să vă descălțați pantofii uzi înainte de a intra.",
+                "en": "A highly peaceful stop on your rainy drive; the large covered entrance allows you to remove wet shoes before stepping inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Induk Cikurubuk",
+                "hu": "Pasar Induk Cikurubuk",
+                "ro": "Pasar Induk Cikurubuk",
+                "en": "Pasar Induk Cikurubuk"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie extrem vorsichtig auf dem großen Parkplatz und bringen Sie einen großen Schirm mit, um die Markthallen zu erkunden.",
+                "hu": "Nagyon óvatosan navigálj a nagy parkolóban, és vigyél magaddal egy stabil esernyőt a piac hatalmas fedett csarnokainak bejárásához.",
+                "ro": "Navigați cu mare atenție prin parcarea plină de apă și luați o umbrelă robustă pentru a explora vastele hale acoperite.",
+                "en": "Navigate the large, wet parking lot very carefully, and bring a sturdy umbrella to comfortably browse the market's vast covered halls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche Winterfahrt am frühen Morgen.\nMittags sorgen kühlere Temperaturen für eine angenehme Fahrt in der Stadt.\nGegen 17:00 Uhr zum Sonnenuntergang schalten Sie nachmittags das Licht ein.\nBeenden Sie den Ausflug am hellen Markt.",
+            "hu": "Élvezd a kényelmes téli autózást már kora reggeltől.\nDélben a hűvösebb hőmérséklet ideális a városközpont felfedezéséhez.\nA 17:00 körüli naplementéhez közeledve délután kapcsold fel a fényszórókat.\nZárd az utat az esti, kivilágított piacon.",
+            "ro": "Bucurați-vă de o plimbare confortabilă cu mașina dis-de-dimineață.\nLa prânz, temperaturile reci sunt ideale pentru a explora centrul.\nPe măsură ce apusul se apropie la 17:00, aprindeți farurile după-amiaza.\nTerminați călătoria seara la piața luminată.",
+            "en": "Enjoy a cozy winter drive starting early in the morning.\nBy noon, the cooler temperatures keep the engine running smoothly downtown.\nWith sunset approaching around 17:00, turn on your headlights.\nEnd your road trip at the brightly lit night market stalls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Al Ilyas",
+                "hu": "Masjid Al Ilyas",
+                "ro": "Masjid Al Ilyas",
+                "en": "Masjid Al Ilyas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh; die Moschee wirkt im frischen Morgenlicht sehr friedlich, aber tragen Sie eine dicke Jacke beim Aussteigen.",
+                "hu": "Indítsd a motort korán; a mecset békésnek tűnik a csípős reggeli fényben, de vegyél fel egy vastag kabátot a kiszálláshoz.",
+                "ro": "Porniți motorul devreme; moscheea pare senină în lumina rece a dimineții, dar purtați o jachetă groasă când coborâți.",
+                "en": "Start your engine early; the mosque looks incredibly serene in the crisp morning light, but wear a thick jacket when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Jalur KA Tasikmalaya - Singaparna",
+                "hu": "Jalur KA Tasikmalaya - Singaparna",
+                "ro": "Jalur KA Tasikmalaya - Singaparna",
+                "en": "Jalur KA Tasikmalaya - Singaparna"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah für einen flotten Winterspaziergang an den Gleisen; die kühle Luft ist erfrischend vor der Rückkehr ins warme Auto.",
+                "hu": "Parkolj le a közelben egy tempós téli sétára a sínek mentén; a hűvös levegő hihetetlenül frissítő a meleg autóba való visszatérés előtt.",
+                "ro": "Parcați aproape pentru o plimbare scurtă pe lângă șine; aerul rece este extrem de revigorant înainte de a reveni în mașina caldă.",
+                "en": "Park nearby and take a brisk winter walk along the old rails; the cool air is wonderfully refreshing before getting back into the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tasikmalaya",
+                "hu": "Tasikmalaya",
+                "ro": "Tasikmalaya",
+                "en": "Tasikmalaya"
+              },
+              "tip_5lang": {
+                "de": "Autofahren in der Stadt ist im Winter ohne Hitzeflimmern sehr angenehm; kurbeln Sie die Fenster ruhig für etwas frische Luft herunter.",
+                "hu": "A téli autózás a városban sokkal kellemesebb, nyomasztó hőhullámok nélkül; húzd le az ablakokat nyugodtan egy kis friss levegőért.",
+                "ro": "Condusul prin oraș iarna este mai plăcut fără zăpușeala verii; deschideți geamurile complet pentru o briză de aer proaspăt.",
+                "en": "Winter driving through the city is highly pleasant with much less heat-haze; roll down the windows fully for a blast of fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung",
+                "hu": "Masjid Agung",
+                "ro": "Masjid Agung",
+                "en": "Masjid Agung"
+              },
+              "tip_5lang": {
+                "de": "Die Erhabenheit der Moschee hebt sich klar vom klaren Winterhimmel ab; behalten Sie den Pullover in den weiten, windigen Höfen an.",
+                "hu": "A mecset fenségessége élesen elüt a tiszta téli égtől; mindenképp tartsd magadon a meleg pulóvert, amíg bejárod az óriási nyitott udvarokat.",
+                "ro": "Măreția moscheii se distinge clar pe cerul senin de iarnă; păstrați puloverul pe dumneavoastră în curțile spațioase și răcoroase.",
+                "en": "The grandeur of the grand mosque stands out sharply against the clear winter sky; keep your sweater on while touring the vast open courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolam Renang Tirta Alam",
+                "hu": "Kolam Renang Tirta Alam",
+                "ro": "Kolam Renang Tirta Alam",
+                "en": "Kolam Renang Tirta Alam"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es draußen kühl ist, ist das Schwimmbad nicht überfüllt; genießen Sie ein Heißgetränk an den Ständen im warmen Auto.",
+                "hu": "Bár kint kifejezetten hűvös van, az uszoda környéke csendes; igyál egy forró italt a közeli standoknál, miközben az autóban melegszel.",
+                "ro": "Deși este frig afară, zona piscinei nu e aglomerată; bucurați-vă de o băutură caldă de la tarabe în timp ce vă încălziți în mașină.",
+                "en": "Though it's quite chilly outside, the pool area is pleasantly uncrowded; enjoy a hot drink from nearby stalls while warming up in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Inaayah TMC",
+                "hu": "Masjid Al Inaayah TMC",
+                "ro": "Masjid Al Inaayah TMC",
+                "en": "Masjid Al Inaayah TMC"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, wenn die Wintersonne tiefer steht; das sanfte Nachmittagslicht in der Moschee schafft eine wunderbar gemütliche Atmosphäre.",
+                "hu": "Érkezz meg, amikor a téli nap már lemenőben van; a mecset ablakain beszűrődő lágy délutáni fény csodálatosan meghitt hangulatot teremt.",
+                "ro": "Ajungeți când soarele de iarnă începe să apună; lumina blândă a după-amiezii care intră prin ferestre creează o atmosferă intimă minunată.",
+                "en": "Arrive just as the winter sun starts to dip; the extremely soft afternoon light entering the mosque’s windows creates a cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Kautsar",
+                "hu": "Masjid Al-Kautsar",
+                "ro": "Masjid Al-Kautsar",
+                "en": "Masjid Al-Kautsar"
+              },
+              "tip_5lang": {
+                "de": "Durch die frühe Dämmerung schalten sich die Lichter früher ein und verleihen dieser schönen Moschee einen warmen, goldenen Glanz.",
+                "hu": "A korai sötétedés miatt a külső fények hamarabb felkapcsolódnak, rendkívül meleg, barátságos arany ragyogást kölcsönözve a gyönyörű mecsetnek.",
+                "ro": "Întunericul timpuriu înseamnă că luminile se aprind mai devreme, dând acestei moschei frumoase o strălucire caldă și aurie primitoare.",
+                "en": "The early winter dusk means the exterior lights turn on sooner, giving this exceptionally beautiful mosque a warm and welcoming golden glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Induk Cikurubuk",
+                "hu": "Pasar Induk Cikurubuk",
+                "ro": "Pasar Induk Cikurubuk",
+                "en": "Pasar Induk Cikurubuk"
+              },
+              "tip_5lang": {
+                "de": "Die frühe Winternacht erschwert das Parken etwas, aber die hell erleuchteten Stände entschädigen mit warmen, frischen Snacks.",
+                "hu": "A korai téli éjszaka kissé megnehezíti a parkolást, de a fényesen kivilágított standok nagyszerű meleg helyi finomságokkal kárpótolnak a hidegért.",
+                "ro": "Noaptea timpurie de iarnă îngreunează ușor parcarea, dar tarabele puternic luminate compensează oferind gustări calde și proaspete.",
+                "en": "The early winter night makes navigating the parking lot slightly trickier, but the brightly lit vendor stalls offer fantastic warm local snacks."
+              }
+            }
+          ]
+        }
       }
     }
   }

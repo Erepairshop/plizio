@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a Sagrat Cor templom spirituális hangulatával, majd sétáljon el a grandiózus gótikus remekműhöz, a Santa Maria templomhoz. A dél a történelemé: fedezze fel a Castell Formós ősi romjait és a kiterjedt iszlám kori települést a Pla d'Almatán, a város magaslatain. Délután próbálja ki az aranymosást az Or del Segre Látogatóközpontban, majd pihenjen meg a Sant Domènec gyönyörű kerengőjében. Zárja a gyalogtúrát a Noguera Múzeumban, ahol nyomon követheti Balaguer mór gyökereit, miközben az este lassan leszáll a városra.",
         "ro": "Începeți dimineața absorbind atmosfera spirituală de la Biserica Sagrat Cor înainte de a vă plimba spre marea capodoperă gotică, Biserica Santa Maria. La amiază, explorați ruinele antice ale Castell Formós și vasta așezare islamică de la Pla d'Almatà, situate pe înălțimile orașului. După-amiaza, încercați-vă norocul la spălatul aurului la Centrul Or del Segre, urmat de o pauză senină în claustrul frumos al bisericii Sant Domènec. Încheiați turul cu o vizită captivantă la Museu de la Noguera, urmărind rădăcinile maure ale orașului Balaguer pe măsură ce seara se lasă ușor peste oraș.",
         "en": "Start your morning absorbing the spiritual atmosphere at Església del Sagrat Cor before wandering to the grand Gothic masterpiece, Església de Santa Maria. Midday invites a historical dive, exploring the ancient ruins of Castell Formós and the extensive Islamic settlement at Pla d'Almatà on the city's heights. In the afternoon, try your hand at gold panning at the Centre d'Interpretació de l'Or del Segre, followed by a serene pause in the beautiful cloister of Sant Domènec. Conclude your walking tour with an immersive visit to Museu de la Noguera, tracing the Moorish roots of Balaguer as evening gently settles over the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Segre-Ufer unter dem Regenschirm, wobei Sagrat Cor den ersten trockenen Unterschlupf bietet. Mittags suchen wir Schutz in der majestätischen Santa Maria Kirche, während der Regen gegen die gotischen Fenster peitscht. Am Nachmittag entdecken wir die Goldwasch-Tradition im fahrradfesten Museum. Der Abend endet im Museu de la Noguera, geschützt vor den nassen Gassen.",
+            "hu": "A reggelt esernyővel kezdjük a Segre partján, ahol a Sagrat Cor templom nyújtja az első fedett menedéket. Délben a monumentális Santa Maria falai között hallgatjuk az eső kopogását a gótikus köveken. Délután az aranymosó múzeum beltéri foglalkozásai tartanak minket szárazon. Az estét a Museu de la Noguera fűtött termeiben zárjuk, elkerülve a város csúszós, vizes macskaköveit.",
+            "ro": "Dimineața începe pe malul râului Segre sub umbrelă, Sagrat Cor oferind primul refugiu uscat în interiorul său liniștit. La prânz, pereții masivi ai bisericii Santa Maria ne protejează de ploaia care cade peste oraș. După-amiaza este dedicată muzeului aurului, unde activitățile interioare sunt perfecte. Seara se încheie la Museu de la Noguera, un spațiu călduros ferit de umezeala de afară.",
+            "en": "The morning starts along the Segre under an umbrella, with Sagrat Cor providing the first dry sanctuary. By noon, the thick walls of Santa Maria offer a safe haven while rain lashes against the Gothic windows. In the afternoon, we explore the gold-washing history inside the interpretation center. The evening concludes at the Museu de la Noguera, staying warm and dry as the streets glisten."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església del Sagrat Cor",
+                "hu": "Església del Sagrat Cor",
+                "ro": "Església del Sagrat Cor",
+                "en": "Església del Sagrat Cor"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im Inneren, während Sie dem Regen entfliehen; nutzen Sie die Matte am Eingang, um auf dem glatten Boden nicht auszurutschen.",
+                "hu": "Csodálja meg a modern belső építészetet, miközben az eső elől menekül; használja a lábtörlőt a bejáratnál, hogy ne csússzon meg a templom sima padlóján.",
+                "ro": "Admirați arhitectura modernă din interior în timp ce vă adăpostiți de ploaie; folosiți covorul de la intrare pentru a nu aluneca pe podeaua lucioasă.",
+                "en": "Admire the modern interior architecture while escaping the rain; use the mat at the entrance to avoid slipping on the smooth church floor during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Balaguer",
+                "hu": "Església de Santa Maria de Balaguer",
+                "ro": "Església de Santa Maria de Balaguer",
+                "en": "Església de Santa Maria de Balaguer"
+              },
+              "tip_5lang": {
+                "de": "Dieses gotische Juwel ist der perfekte Ort, um den stärksten Regen abzuwarten; die Akustik der Regentropfen auf dem hohen Dach ist im Inneren spektakulär.",
+                "hu": "Ez a gótikus ékszerdoboz tökéletes hely a zuhé átvészelésére; a magas tetőn kopogó eső hangja bentről hallgatva egészen különleges, spirituális élményt nyújt.",
+                "ro": "Această bijuterie gotică este locul ideal pentru a aștepta trecerea ploii; sunetul picăturilor pe acoperișul înalt oferă o atmosferă spectaculoasă în interior.",
+                "en": "This Gothic gem is the perfect place to wait out the heaviest rain; the acoustics of raindrops hitting the high roof create a spectacular atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Formós",
+                "hu": "Castell Formós",
+                "ro": "Castell Formós",
+                "en": "Castell Formós"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das graue Tal, aber seien Sie vorsichtig auf den Außenwegen; die alten Steine können bei Nässe extrem rutschig sein.",
+                "hu": "Élvezze a drámai kilátást a szürke völgyre, de legyen óvatos a külső ösvényeken; a régi kövek az esőben rendkívül csúszóssá válnak, viseljen bordázott talpú cipőt.",
+                "ro": "Bucurați-vă de vederea dramatică asupra văii gri, dar fiți precauți pe potecile exterioare; pietrele vechi pot deveni extrem de alunecoase când sunt ude.",
+                "en": "Enjoy the dramatic view over the grey valley, but be cautious on the outdoor paths; the ancient stones can become extremely slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic del Pla d'Almatà",
+                "hu": "Jaciment arqueològic del Pla d'Almatà",
+                "ro": "Jaciment arqueològic del Pla d'Almatà",
+                "en": "Jaciment arqueològic del Pla d'Almatà"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie vorrangig den überdachten Informationsbereich, um die Funde trocken zu studieren; das Gelände kann bei Regen stellenweise etwas schlammig werden.",
+                "hu": "Elsősorban a fedett információs részleget látogassa meg, hogy szárazon tanulmányozhassa a leleteket; a szabadtéri terület esőben helyenként saras lehet.",
+                "ro": "Vizitați în primul rând zona acoperită de informare pentru a studia vestigiile la adăpost; terenul sitului poate deveni noroios în timpul precipitațiilor.",
+                "en": "Focus on the covered interpretation area to study the remains while staying dry; the outdoor site grounds can become quite muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre d'Interpretació de l'Or del Segre",
+                "hu": "Centre d'Interpretació de l'Or del Segre",
+                "ro": "Centre d'Interpretació de l'Or del Segre",
+                "en": "Centre d'Interpretació de l'Or del Segre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Stunden, da alle Aktivitäten im Haus stattfinden; das Goldwaschen ist ein nasses Vergnügen, das Sie hier trocken erleben.",
+                "hu": "Ideális helyszín az esős órákra, mivel minden tevékenység beltérben zajlik; az aranymosás vizes hobbi, de itt legalább a feje felett biztosan tető lesz.",
+                "ro": "Un loc ideal pentru orele ploioase, deoarece toate activitățile se desfășoară în interior; căutarea aurului este o activitate udă, dar aici aveți un acoperiș.",
+                "en": "An ideal spot for rainy hours as all activities take place indoors; gold prospecting is a wet hobby, but here you can enjoy it under the safety of a roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Domènec",
+                "hu": "Sant Domènec",
+                "ro": "Sant Domènec",
+                "en": "Sant Domènec"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kreuzgang als natürlichen Schutzschirm, um die Architektur zu bewundern; die überdachten Gänge halten Sie trocken, während Sie die Ruhe genießen.",
+                "hu": "Használja a kerengőt természetes esernyőként az építészet megcsodálásához; a fedett folyosók szárazon tartják, miközben Ön a kolostor nyugalmát élvezi.",
+                "ro": "Folosiți claustrul ca pe o umbrelă naturală pentru a admira arhitectura; coridoarele acoperite vă vor ține la uscat în timp ce vă bucurați de liniștea locului.",
+                "en": "Use the cloister as a natural umbrella to admire the architecture; the covered walkways will keep you dry while you enjoy the peaceful atmosphere of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Noguera",
+                "hu": "Museu de la Noguera",
+                "ro": "Museu de la Noguera",
+                "en": "Museu de la Noguera"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem weitläufigen Museum, das kompletten Schutz bietet; geben Sie Ihren nassen Schirm an der Garderobe ab, bevor Sie losziehen.",
+                "hu": "Zárja a napot ebben a tágas múzeumban, amely teljes védelmet nyújt; adja le vizes esernyőjét a ruhatárban, mielőtt elmélyedne a gazdag helytörténeti tárlatban.",
+                "ro": "Încheiați ziua în acest muzeu spațios care oferă protecție completă; lăsați umbrela udă la garderobă înainte de a explora expozițiile fascinante de istorie.",
+                "en": "End your day in this spacious museum offering complete protection; leave your wet umbrella at the cloakroom before diving into the rich local history displays."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Wintermorgen beginnt in den Kirchen, deren dicke Mauern die Kälte speichern. Mittags suchen wir die Sonne auf dem Hügel des Castell Formós, bevor der Wind aus den Pyrenäen auffrischt. Am Nachmittag wärmen wir uns in den Museen auf, da die Sonne gegen 17:00 Uhr untergeht. Der Abend wird kurz und gemütlich in den beleuchteten Gassen der Altstadt verbracht.",
+            "hu": "A friss téli reggelen a templomok hűvös falaival kezdünk, ahol jól jön a réteges öltözet. Délben a vár dombján keressük a gyenge napsütést, miközben a Pyreneusok felől fúj a szél. Délután a múzeumok fűtött tereiben melegszünk fel, készülve a korai, 17:00 órai naplementére. Az estét a hangulatosan kivilágított főtéren zárjuk egy rövid séta után.",
+            "ro": "Dimineața rece de iarnă începe în biserici, unde zidurile groase păstrează frigul nopții. La prânz căutăm soarele pe dealul castelului, ferindu-ne de vântul rece dinspre Pirinei. După-amiaza ne încălzim în muzeele orașului, având în vedere că soarele apune devreme, în jur de ora 17:00. Seara se încheie devreme cu o plimbare scurtă pe străzile luminate.",
+            "en": "The crisp winter morning begins in the churches, where thick walls hold the overnight chill. At noon, we seek the sun on the castle hill before the Pyrenean wind picks up. In the afternoon, we warm up in the heated museums as the sun sets early around 17:00. The evening is spent enjoying the cozy lights of the historic center during a brisk walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església del Sagrat Cor",
+                "hu": "Església del Sagrat Cor",
+                "ro": "Església del Sagrat Cor",
+                "en": "Església del Sagrat Cor"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung macht diesen Ort zu einem idealen Startpunkt am kalten Morgen; genießen Sie die Ruhe, bevor Sie in die frische Winterluft treten.",
+                "hu": "A templom kellemes belső hőmérséklete miatt ideális kezdőpont a hideg reggelen; élvezze a csendet, mielőtt kilépne a friss, csípős téli levegőre.",
+                "ro": "Sistemul modern de încălzire face din acest loc un punct de start ideal în dimineața rece; bucurați-vă de liniște înainte de a ieși în aerul tăios.",
+                "en": "The comfortable indoor temperature makes this an ideal starting point on a cold morning; enjoy the silence before stepping back into the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Balaguer",
+                "hu": "Església de Santa Maria de Balaguer",
+                "ro": "Església de Santa Maria de Balaguer",
+                "en": "Església de Santa Maria de Balaguer"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen warmen Mantel, da die hohen Steinwände im Winter sehr kühl bleiben können; die klare Wintersonne lässt die Fenster besonders schön strahlen.",
+                "hu": "Viseljen meleg kabátot, mert a hatalmas kőfalak télen nagyon hidegek maradhatnak; a tiszta téli napsütésben viszont a gótikus ablakok fényei gyönyörűen ragyognak.",
+                "ro": "Purtați o haină groasă, deoarece zidurile înalte de piatră pot fi foarte reci iarna; soarele clar de iarnă face ca vitraliile să strălucească spectaculos.",
+                "en": "Wear a warm coat as the massive stone walls can stay very chilly in winter; the clear winter sun makes the windows glow beautifully despite the low temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Formós",
+                "hu": "Castell Formós",
+                "ro": "Castell Formós",
+                "en": "Castell Formós"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für den Aufstieg, wenn die Sonne am höchsten steht; der Wind auf dem Hügel kann im Winter schneidend kalt sein, schützen Sie Ihre Ohren.",
+                "hu": "A déli órákra időzítse a vár megtekintését, amikor a legmagasabb a napállás; a dombtetőn a szél metsző lehet, egy meleg sapka és sál sokat segít a nézelődésben.",
+                "ro": "Alegeți orele amiezii pentru urcare, când soarele este cel mai puternic; vântul pe deal poate fi tăios iarna, așa că asigurați-vă că aveți urechile protejate.",
+                "en": "Time your visit for midday when the sun is at its peak; the wind on the hill can be biting in winter, so a warm hat and scarf are essential for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic del Pla d'Almatà",
+                "hu": "Jaciment arqueològic del Pla d'Almatà",
+                "ro": "Jaciment arqueològic del Pla d'Almatà",
+                "en": "Jaciment arqueològic del Pla d'Almatà"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft betont die Konturen der Ruinen; beenden Sie den Rundgang zügig, bevor der Schatten des Berges die Temperatur am Nachmittag senkt.",
+                "hu": "A kopár téli táj jól kiemeli a romok körvonalait; fejezze be időben a szabadtéri sétát, mielőtt a hegy árnyéka miatt hirtelen lehűlne a levegő délután.",
+                "ro": "Peisajul golaș de iarnă scoate în evidență conturul ruinelor; terminați vizita rapid înainte ca umbra muntelui să scadă brusc temperatura după-amiaza.",
+                "en": "The barren winter landscape highlights the outlines of the ruins; finish your outdoor tour quickly before the mountain's shadow drops the temperature further."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre d'Interpretació de l'Or del Segre",
+                "hu": "Centre d'Interpretació de l'Or del Segre",
+                "ro": "Centre d'Interpretació de l'Or del Segre",
+                "en": "Centre d'Interpretació de l'Or del Segre"
+              },
+              "tip_5lang": {
+                "de": "In diesem warmen Museum können Sie sich perfekt aufwärmen, während draußen der Frost anzieht; das warme Licht im Inneren schafft eine gemütliche Atmosphäre.",
+                "hu": "Ebben a fűtött múzeumban tökéletesen felmelegedhet, miközben odakint kezd csípőssé válni a fagy; a benti meleg fények otthonos hangulatot árasztanak télen.",
+                "ro": "Vă puteți încălzi perfect în acest muzeu, în timp ce afară gerul devine tot mai aspru; lumina caldă din interior creează o atmosferă foarte primitoare.",
+                "en": "This heated museum is a perfect place to warm up while the frost settles outside; the warm interior lighting creates a cozy winter atmosphere for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Domènec",
+                "hu": "Sant Domènec",
+                "ro": "Sant Domènec",
+                "en": "Sant Domènec"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Winterlicht des späten Nachmittags; die Steinböden sind sehr kalt, tragen Sie Schuhe mit dicken Sohlen für Ihren Besuch.",
+                "hu": "Csodálja meg az építészetet a késő délutáni lágy téli fényben; a kőpadló ilyenkor nagyon hideg, ezért viseljen vastag talpú, jól szigetelt bakancsot.",
+                "ro": "Admirați arhitectura în lumina blândă de iarnă a după-amiezii târzii; podelele de piatră sunt foarte reci, purtați încălțăminte cu talpă groasă pentru vizită.",
+                "en": "Admire the architecture in the soft winter light of late afternoon; the stone floors are very cold, so wear thick-soled boots to keep your feet warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Noguera",
+                "hu": "Museu de la Noguera",
+                "ro": "Museu de la Noguera",
+                "en": "Museu de la Noguera"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die Zeit nach dem Sonnenuntergang um 17:00 Uhr zu verbringen; genießen Sie die fabelhafte Heizung und die reichen kulturellen Schätze.",
+                "hu": "Ideális helyszín az 17:00 órai naplemente utáni idő eltöltésére; élvezze a kiváló fűtést és a gazdag kulturális kincseket a sötétedő téli estén.",
+                "ro": "Locul ideal pentru a petrece timpul după apusul soarelui de la ora 17:00; bucurați-vă de încălzirea excelentă și de bogatele comori culturale expuse.",
+                "en": "The perfect place to spend time after the 17:00 sunset; enjoy the excellent heating and the rich cultural treasures while avoiding the biting evening frost."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a biciklis napot a Városi Színháznál, majd tekerjen el a Noguera Múzeumhoz, hogy felfedezze a régió lenyűgöző középkori leleteit. Ahogy közeledik a dél, látogasson el a Sant Josep templomhoz és a monumentális Santa Maria templomhoz, elmerülve az építészeti kontrasztokban. Délután tekerjen fel a Santa Maria d'Almatà és a Castell Formós magaslataira, ahonnan elsöprő panoráma nyílik az egész folyóvölgyre. Fejezze be az utat a Segre menti interaktív Aranyközpontban, és zárja a napot a La Mercantil modern kulturális helyszíne közelében.",
         "ro": "Începeți ziua de ciclism la Teatrul Municipal înainte de a merge la Museu de la Noguera pentru a descoperi fascinantele artefacte medievale ale regiunii. La amiază, plimbați-vă între biserica pitorească Sant Josep și monumentala Biserică Santa Maria, bucurându-vă de contrastele lor arhitecturale. Petreceți după-amiaza pedalând spre înălțimile Santa Maria d'Almatà și Castell Formós, admirând priveliștile panoramice ample asupra văii râului. Încheiați cursa explorând Centrul Interactiv al Aurului de-a lungul râului Segre, relaxându-vă cu o ultimă oprire lângă spațiul cultural modern, La Mercantil.",
         "en": "Kick off your cycling day at the Teatre municipal before riding to the Museu de la Noguera to uncover the region's fascinating medieval artifacts. As midday rolls in, hop between the quaint Església de Sant Josep and the monumental Església de Santa Maria, soaking in the architectural contrasts. Spend the afternoon pedaling up to the heights of Santa Maria d'Almatà and Castell Formós, enjoying sweeping panoramic views of the entire river valley. Finish your ride exploring the interactive Gold Center along the Segre, winding down with a final stop near the modern cultural venue, La Mercantil."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Stadttheater, wo wir wasserfeste Kleidung anlegen. Mittags radeln wir vorsichtig über glatte Fliesen zum Noguera-Museum. Am Nachmittag trotzen wir dem Regen auf dem Weg zum Schlossberg, nutzen aber jede Kirche als trockenen Pausenstopp. Der Tag endet bei der Mercantil, wo wir unsere Räder unterstellen und uns im Trockenen ausruhen.",
+            "hu": "A vizes kerékpártúra a színháznál indul, ahol felöltjük vízálló ruházatunkat. Délben óvatosan tekerünk a csúszós burkolaton a Noguera Múzeum felé. Délután a szakadó esőben is felkapaszkodunk a várhegyre, de minden templomot menedékként használunk az utak között. A napot a Mercantilnál zárjuk, ahol fedett helyen tárolhatjuk a bringákat.",
+            "ro": "O tură umedă cu bicicleta începe la teatru, unde ne echipăm cu haine impermeabile. La prânz pedalăm cu grijă pe pavajul alunecos spre Muzeul Noguera. După-amiaza înfruntăm ploaia spre dealul castelului, folosind bisericile ca puncte de oprire uscate. Ziua se încheie la Mercantil, unde putem lăsa bicicletele la adăpost în timp ce ne odihnim.",
+            "en": "A wet bike tour starts at the theatre, where we gear up with waterproof clothing. At noon, we pedal cautiously over slippery tiles toward the Noguera Museum. In the afternoon, we brave the rain to reach the castle hill, using every church as a dry pit stop. The day ends at La Mercantil, where we can park the bikes under cover and dry off indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatre municipal de Balaguer",
+                "hu": "Teatre municipal de Balaguer",
+                "ro": "Teatre municipal de Balaguer",
+                "en": "Teatre municipal de Balaguer"
+              },
+              "tip_5lang": {
+                "de": "Bereiten Sie Ihr Rad unter dem Vordach vor, bevor Sie in den Regen starten; prüfen Sie Ihre Bremsen, da nasse Felgen einen längeren Bremsweg benötigen.",
+                "hu": "Készítse fel a kerékpárját az épület előtetője alatt az indulásra; ellenőrizze a fékeket, mert a vizes felniken jelentősen megnő a fékút a városi forgalomban.",
+                "ro": "Pregătiți bicicleta sub copertina teatrului înainte de a porni în ploaie; verificați frânele, deoarece jantele ude necesită o distanță de frânare mai mare.",
+                "en": "Prepare your bike under the building's overhang before starting in the rain; check your brakes as wet rims require a longer stopping distance on city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Noguera",
+                "hu": "Museu de la Noguera",
+                "ro": "Museu de la Noguera",
+                "en": "Museu de la Noguera"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in den fahrradfreundlichen Ständern am Eingang; das Museum bietet eine lange, trockene Pause von der nassen Fahrt durch die Altstadt.",
+                "hu": "Parkoljon a bejáratnál található kerékpártámaszoknál; a múzeum hosszú, száraz pihenőt kínál az óváros vizes utcáin való tekerés után, használja ki az időt.",
+                "ro": "Parcați bicicleta în suporturile de la intrare; muzeul oferă o pauză lungă și uscată după pedalarea prin orașul ud, fiind locul perfect pentru reîncărcare.",
+                "en": "Park your bike at the racks near the entrance; the museum offers a long, dry break from the wet city streets, making it a perfect spot to warm up and dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Josep",
+                "hu": "Església de Sant Josep",
+                "ro": "Església de Sant Josep",
+                "en": "Església de Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller, überdachter Stopp, um die Regenjacke zu richten; der Vorplatz kann bei Nässe rutschig sein, steigen Sie beim Erreichen des Portals vorsichtig ab.",
+                "hu": "Gyors, fedett megálló a vízálló ruházat megigazítására; a templom előtti tér esőben csúszós lehet, óvatosan szálljon le a bicikliről a kapuhoz érve.",
+                "ro": "O oprire rapidă și acoperită pentru a vă ajusta pelerina de ploaie; piața din față poate fi alunecoasă, deci coborâți cu grijă de pe bicicletă la intrare.",
+                "en": "A quick, covered stop to adjust your rain gear; the square in front can be slippery when wet, so dismount carefully as you approach the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Balaguer",
+                "hu": "Església de Santa Maria de Balaguer",
+                "ro": "Església de Santa Maria de Balaguer",
+                "en": "Església de Santa Maria de Balaguer"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Bau als Wind- und Regenschutz für eine Pause; das Kopfsteinpflaster hier oben ist steil und bei Regen eine echte Herausforderung.",
+                "hu": "Használja a masszív épületet szél- és esővédőként egy rövid pihenőre; az idáig vezető macskaköves út meredek és esőben komoly kihívást jelent a kerekeknek.",
+                "ro": "Folosiți clădirea masivă ca scut împotriva vântului și ploii; drumul pietruit până aici este abrupt și reprezintă o provocare pe timp de ploaie.",
+                "en": "Use the massive structure as a shield against wind and rain for a short break; the cobblestone path up here is steep and challenging for tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria d'Almatà",
+                "hu": "Santa Maria d'Almatà",
+                "ro": "Santa Maria d'Almatà",
+                "en": "Santa Maria d'Almatà"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt wird bei Regen anstrengend, aber die Kirche bietet einen würdigen, trockenen Ort zur Besichtigung; achten Sie auf Pfützen in den Kurven.",
+                "hu": "A felfelé vezető út esőben fárasztóbb lehet, de a templom méltó és száraz helyszín a pihenésre; ügyeljen a kanyarokban megálló tócsákra az úttesten.",
+                "ro": "Urcarea devine obositoare pe ploaie, dar biserica oferă un loc demn și uscat pentru vizitare; atenție la bălțile care se formează în curbe pe șosea.",
+                "en": "The climb becomes more tiring in the rain, but the church offers a dignified, dry place to rest; watch out for deep puddles in the bends of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Formós",
+                "hu": "Castell Formós",
+                "ro": "Castell Formós",
+                "en": "Castell Formós"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf die nebligen Ruinen genügt heute; vermeiden Sie es, mit dem Rad auf die unbefestigten Wege zu fahren, da diese sehr schlammig sind.",
+                "hu": "Egy rövid pillantás a ködös romokra ma bőven elég; kerülje a kerékpárral való behajtást a burkolatlan utakra, mert azok mostanra mélyen feláztak és sarasak.",
+                "ro": "O privire scurtă asupra ruinelor cețoase este suficientă astăzi; evitați să intrați cu bicicleta pe potecile neamenajate, deoarece sunt pline de noroi.",
+                "en": "A quick look at the misty ruins is enough today; avoid taking your bike onto the unpaved paths as they become very muddy and difficult to navigate in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre d'Interpretació de l'Or del Segre",
+                "hu": "Centre d'Interpretació de l'Or del Segre",
+                "ro": "Centre d'Interpretació de l'Or del Segre",
+                "en": "Centre d'Interpretació de l'Or del Segre"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die perfekte Belohnung für die nasse Fahrt, da Sie hier lange im Warmen bleiben können; ziehen Sie Ihre nasse Jacke am Eingang aus.",
+                "hu": "Ez a tökéletes jutalom a vizes tekerés után, mivel itt hosszan a melegben maradhat; vegye le a vizes kabátját a bejáratnál, mielőtt belépne a kiállítótérbe.",
+                "ro": "Este recompensa perfectă după pedalarea prin ploaie, deoarece puteți sta mult timp la căldură; scoateți jacheta udă la intrare pentru confortul dumneavoastră.",
+                "en": "This is the perfect reward after a wet ride, as you can stay in the warmth for a long time; remove your wet jacket at the entrance before entering the exhibit."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mercantil",
+                "hu": "La Mercantil",
+                "ro": "La Mercantil",
+                "en": "La Mercantil"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem trockenen Ort und genießen Sie das kulturelle Programm; das Gebäude bietet einen großartigen Schutz für das Ende Ihrer Tour.",
+                "hu": "Zárja le kerékpárját egy száraz ponton, és élvezze a kulturális programot; az épület remek védelmet és pihenőhelyet nyújt a vizes túra méltó befejezéséhez.",
+                "ro": "Securizați bicicleta într-un loc uscat și bucurați-vă de programul cultural; clădirea oferă o protecție excelentă pentru finalul turului dumneavoastră umed.",
+                "en": "Lock your bike in a dry spot and enjoy the cultural program; the building provides great protection and a perfect place to conclude your wet cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour startet bei klarem Himmel am Theater. Mittags radeln wir flott zwischen den Museen, um durch die Bewegung warm zu bleiben. Am Nachmittag spüren wir den kalten Wind auf dem Hügel, genießen aber die klare Fernsicht bis zu den Pyrenäen. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour rechtzeitig bei der beleuchteten Mercantil.",
+            "hu": "A frissítő téli túra tiszta égbolt mellett indul a színháztól. Délben gyorsabb tempót diktálunk a múzeumok között, hogy a mozgás melegen tartson minket. Délután érezzük a hideg szelet a dombtetőn, de cserébe élvezzük a tiszta kilátást a havas Pyreneusokra. Mivel 17:00-kor sötétedik, a túrát időben befejezzük a kivilágított Mercantilnál.",
+            "ro": "O tură revigorantă de iarnă începe sub cerul senin la teatru. La prânz pedalăm energic între muzee pentru a ne menține căldura prin mișcare. După-amiaza simțim vântul rece pe deal, dar ne bucurăm de vizibilitatea clară spre Pirinei. Deoarece se întunecă la ora 17:00, terminăm tura la timp la centrul cultural Mercantil luminat.",
+            "en": "A refreshing winter tour starts under clear skies at the theatre. At noon, we keep a brisk pace between museums to stay warm through movement. In the afternoon, we feel the cold wind on the hill but enjoy the sharp views of the snowy Pyrenees. Since it gets dark at 17:00, we finish the tour promptly at the illuminated Mercantil."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatre municipal de Balaguer",
+                "hu": "Teatre municipal de Balaguer",
+                "ro": "Teatre municipal de Balaguer",
+                "en": "Teatre municipal de Balaguer"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für den Start am kalten Morgen; die Bewegung wird Sie bald aufwärmen, aber der Fahrtwind ist anfangs sehr frisch.",
+                "hu": "Viseljen szélálló kesztyűt a hideg reggeli induláshoz; a mozgás hamar felmelegíti, de a menetszél az elején még nagyon csípős lehet a kormányt fogva.",
+                "ro": "Purtați mănuși rezistente la vânt pentru startul în dimineața rece; mișcarea vă va încălzi curând, dar vântul produs de viteză este tăios la început.",
+                "en": "Wear windproof gloves for the cold morning start; movement will warm you up soon, but the wind chill can be very biting while holding the handlebars initially."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Noguera",
+                "hu": "Museu de la Noguera",
+                "ro": "Museu de la Noguera",
+                "en": "Museu de la Noguera"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Museums, um Ihre Finger für die Weiterfahrt zu revitalisieren; parken Sie in der Sonne, damit der Sattel nicht zu stark abkühlt.",
+                "hu": "Használja ki a múzeum melegét, hogy átmozgassa és felmelegítse ujjait a továbbindulás előtt; parkoljon napos helyen, hogy a nyereg ne hűljön ki túlságosan.",
+                "ro": "Folosiți căldura muzeului pentru a vă dezmorți degetele înainte de a continua tura; parcați la soare pentru ca șaua să nu se răcească prea tare.",
+                "en": "Take advantage of the museum's warmth to warm up your fingers before riding on; park in a sunny spot so your saddle doesn't get too cold while you're inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Josep",
+                "hu": "Església de Sant Josep",
+                "ro": "Església de Sant Josep",
+                "en": "Església de Sant Josep"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Sonne auf dem Vorplatz hilft gegen die Kälte; die Kirche bietet innen eine windgeschützte Pause vor der nächsten Etappe.",
+                "hu": "Egy rövid megálló a napsütötte előtéren segít elviselni a hideget; a templom belseje szélvédett pihenőt kínál a következő városi szakasz megtétele előtt.",
+                "ro": "O scurtă oprire la soare în piața din față ajută la combaterea frigului; interiorul bisericii oferă o pauză ferită de vânt înainte de următoarea etapă.",
+                "en": "A brief stop in the sun in the front square helps combat the chill; the church interior offers a wind-sheltered break before the next stage of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Maria de Balaguer",
+                "hu": "Església de Santa Maria de Balaguer",
+                "ro": "Església de Santa Maria de Balaguer",
+                "en": "Església de Santa Maria de Balaguer"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hierher wird Sie ordentlich ins Schwitzen bringen; ziehen Sie oben sofort wieder Ihre Jacke zu, um im kalten Wind nicht auszukühlen.",
+                "hu": "Az idáig vezető emelkedő alaposan megizzasztja majd; a tetőre érve azonnal húzza fel a cipzárt, hogy a hideg szélben ne fázzon meg a kimelegedett teste.",
+                "ro": "Urcarea până aici vă va face să transpirați; odată ajunși sus, închideți imediat jacheta pentru a nu răci în vântul tăios de iarnă de pe culme.",
+                "en": "The climb up here will definitely make you sweat; once at the top, zip up your jacket immediately to avoid catching a chill in the cold Pyrenean wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria d'Almatà",
+                "hu": "Santa Maria d'Almatà",
+                "ro": "Santa Maria d'Almatà",
+                "en": "Santa Maria d'Almatà"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos, aber achten Sie auf vereiste Stellen im Schatten; die niedrige Wintersonne blendet beim Radfahren auf dieser Höhe.",
+                "hu": "Élvezze a tiszta fényeket a fotózáshoz, de ügyeljen az árnyékos részeken az esetleges jeges foltokra; az alacsony téli nap elvakíthat tekerés közben.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii, dar atenție la zonele înghețate din umbră; soarele jos de iarnă vă poate orbi în timp ce pedalați la înălțime.",
+                "en": "Enjoy the clear light for photos, but watch out for icy patches in shaded areas; the low winter sun can be blinding while cycling at this elevation."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Formós",
+                "hu": "Castell Formós",
+                "ro": "Castell Formós",
+                "en": "Castell Formós"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die schneebedeckten Gipfel ist im Winter am besten; bleiben Sie in Bewegung, da der Stillstand auf dem exponierten Hügel schnell auskühlt.",
+                "hu": "A kilátás a havas hegycsúcsokra télen a legszebb; maradjon mozgásban a romok között is, mert a nyitott dombtetőn állva pillanatok alatt áthűl a levegő.",
+                "ro": "Vederea spre vârfurile înzăpezite este cea mai clară iarna; rămâneți în mișcare printre ruine, deoarece staționarea pe dealul expus vă va răci rapid.",
+                "en": "The long-distance view of snowy peaks is best in winter; stay in motion while exploring the ruins as standing still on the exposed hill will cool you down fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre d'Interpretació de l'Or del Segre",
+                "hu": "Centre d'Interpretació de l'Or del Segre",
+                "ro": "Centre d'Interpretació de l'Or del Segre",
+                "en": "Centre d'Interpretació de l'Or del Segre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich ausgiebig auf; die interaktiven Stationen sind eine willkommene Pause von der kalten Außenwelt.",
+                "hu": "Zárja le biztonságosan a kerékpárját, és melegedjen fel alaposan; az interaktív állomások kellemes kikapcsolódást nyújtanak a kinti fagyos világ után.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă bine în interior; stațiile interactive sunt o pauză binevenită de la lumea rece de afară pe durata vizitei.",
+                "en": "Park your bike securely and take your time to warm up; the interactive stations are a welcome break from the freezing outdoor air during your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mercantil",
+                "hu": "La Mercantil",
+                "ro": "La Mercantil",
+                "en": "La Mercantil"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor der Frost am Abend zu stark wird; das Gebäude ist wunderbar beleuchtet und bietet ein warmes Ende für einen sportlichen Tag.",
+                "hu": "Fejezze be a túrát, mielőtt az esti fagy túl erőssé válna; az épület gyönyörűen ki van világítva, és meleg befutót kínál a sportos téli nap végére.",
+                "ro": "Terminați tura înainte ca gerul serii să devină prea puternic; clădirea este superb luminată și oferă un final călduros pentru o zi sportivă de iarnă.",
+                "en": "Finish your tour before the evening frost sets in too hard; the building is beautifully lit and offers a warm conclusion to your active winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Kezdje autós túráját a külvárosban, ahol felfedezheti a Castell de la Ràpita középkori történetét és a Sant Jordi templom csendes varázsát. Délre hajtson vissza a város magaslatai felé, hogy bebarangolja a hatalmas, ősi iszlám települést a Pla d'Almatà régészeti lelőhelyen. A kora délután tökéletes egy rövid megállóra a Castell Formós romjainál, majd ismerkedjen meg a folyó aranytörténetével a közeli látogatóközpontban. Estefelé parkoljon le a városközpont közelében, hogy a Noguera Múzeumban elmerüljön Balaguer örökségében, és ezzel zárja le átfogó utazását.",
         "ro": "Începeți turul cu mașina evadând la periferie pentru a descoperi istoria medievală de la Castell de la Ràpita și farmecul liniștit al bisericii Sant Jordi. Până la amiază, conduceți înapoi spre înălțimile orașului pentru a vă plimba prin vasta așezare islamică antică de la situl arheologic Pla d'Almatà. După-amiaza devreme este perfectă pentru o oprire la ruinele Castell Formós înainte de a explora istoria auriferă a râului la centrul de interpretare. Parcați aproape de centru spre seară pentru a vă scufunda în moștenirea orașului Balaguer la Museu de la Noguera, încheindu-vă astfel călătoria.",
         "en": "Begin your driving tour by escaping to the outskirts to uncover the medieval history at Castell de la Ràpita and the quiet charm of Sant Jordi. By midday, drive back towards the city heights to wander through the vast ancient Islamic settlement at the Pla d'Almatà archaeological site. The early afternoon is perfect for a quick stop at the ruins of Castell Formós before engaging with the river's golden history at the nearby interpretation center. Park near the city center as evening approaches to dive deep into Balaguer's heritage at Museu de la Noguera, bringing your comprehensive journey to a close."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag mit dem Auto beginnt bei der Burg Ràpita, wo der Nebel die Ruinen einhüllt. Mittags dient das Fahrzeug als trockene Kapsel zwischen den historischen Stopps im Umland. Am Nachmittag konzentrieren wir uns auf die Museen im Zentrum, um dem stärksten Regen zu entgehen. Der Abend endet mit einer stimmungsvollen Fahrt durch die nassen, beleuchteten Straßen von Balaguer.",
+            "hu": "Az esős napot a Ràpita váránál kezdjük, ahol a köd misztikusan fonja körbe a romokat. Délben az autó száraz menedékként szolgál a külvárosi történelmi helyszínek között. Délután a belvárosi múzeumokra koncentrálunk, hogy elkerüljük a legnagyobb zuhét. Az este Balaguer vizes, fénylő utcáin való hangulatos autózással zárul, miközben az ablaktörlők ütemesen járnak.",
+            "ro": "O zi ploioasă cu mașina începe la Castelul Ràpita, unde ceața învăluie ruinele într-un mod misterios. La prânz, vehiculul servește ca adăpost uscat între opririle istorice din zonă. După-amiaza ne concentrăm pe muzeele din centru pentru a evita ploaia torențială. Seara se încheie cu o plimbare auto prin străzile ude și luminate ale orașului Balaguer.",
+            "en": "A rainy day by car begins at Ràpita Castle, where mist envelops the ruins mystically. At noon, the vehicle serves as a dry sanctuary between the suburban historical stops. In the afternoon, we focus on the downtown museums to avoid the heaviest rainfall. The evening concludes with a scenic drive through the wet, glowing streets of Balaguer as lights reflect on the tarmac."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de la Ràpita",
+                "hu": "Castell de la Ràpita",
+                "ro": "Castell de la Ràpita",
+                "en": "Castell de la Ràpita"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg im Regen kurz zu halten; die Aussicht auf das vernebelte Tal ist vom Auto aus besonders dramatisch.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat; a ködös völgyre nyíló kilátás az autóból nézve is rendkívül drámai.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; vederea asupra văii încețoșate este deosebit de dramatică privită din interiorul mașinii.",
+                "en": "Park as close to the entrance as possible to shorten your walk in the rain; the view of the misty valley is particularly dramatic when viewed from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jordi",
+                "hu": "Sant Jordi",
+                "ro": "Sant Jordi",
+                "en": "Sant Jordi"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen schnellen, trockenen Zufluchtsort; achten Sie auf die unbefestigten Parkflächen, die bei Regen aufweichen und rutschig werden können.",
+                "hu": "A kis kápolna gyors és száraz menedéket nyújt a látogatás alatt; ügyeljen a burkolatlan parkolóhelyekre, amelyek az esőtől felpuhulhatnak és csúszóssá válhatnak.",
+                "ro": "Mica capelă oferă un refugiu rapid și uscat pe durata vizitei; atenție la zonele de parcare neamenajate care se pot înmuia și deveni alunecoase din cauza ploii.",
+                "en": "The small chapel offers a quick, dry refuge during your visit; watch out for unpaved parking spots that might soften and become slippery due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic del Pla d'Almatà",
+                "hu": "Jaciment arqueològic del Pla d'Almatà",
+                "ro": "Jaciment arqueològic del Pla d'Almatà",
+                "en": "Jaciment arqueològic del Pla d'Almatà"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre schweren Regensachen im Auto und nehmen Sie nur einen Schirm für den kurzen Weg zum Infozentrum mit; das Gelände ist heute sehr matschig.",
+                "hu": "Hagyja a nehéz esőkabátokat az autóban, és csak egy esernyőt vigyen magával az információs központig; a régészeti terület ma nagyon sáros és nehezen járható.",
+                "ro": "Lăsați hainele grele de ploaie în mașină și luați doar o umbrelă până la centrul de informare; terenul sitului este foarte noroios și greu de parcurs astăzi.",
+                "en": "Leave heavy rain gear in the car and just take an umbrella for the short walk to the info center; the archaeological site is very muddy and difficult today."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Formós",
+                "hu": "Castell Formós",
+                "ro": "Castell Formós",
+                "en": "Castell Formós"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aussichtspunkt direkt am Parkplatz, um die Stadt im Regen zu bewundern; vermeiden Sie längere Wanderungen auf den rutschigen Burgmauern.",
+                "hu": "Használja a parkoló melletti kilátópontot a város megcsodálására az esőben; kerülje a hosszabb sétákat a várfalakon, mert azok most rendkívül csúszósak.",
+                "ro": "Folosiți punctul de observație de lângă parcare pentru a admira orașul prin ploaie; evitați plimbările lungi pe zidurile castelului, deoarece sunt foarte alunecoase.",
+                "en": "Use the viewpoint right next to the parking area to admire the city in the rain; avoid long walks on the castle walls as they are extremely slippery right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre d'Interpretació de l'Or del Segre",
+                "hu": "Centre d'Interpretació de l'Or del Segre",
+                "ro": "Centre d'Interpretació de l'Or del Segre",
+                "en": "Centre d'Interpretació de l'Or del Segre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahegelegenen Parkhaus, um trocken zum Museum zu gelangen; die interaktive Ausstellung ist die beste Flucht vor dem trüben Wetter draußen.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy teljesen szárazon jusson el a múzeumig; az interaktív kiállítás a legjobb menekülés a kinti barátságtalan, esős idő elől.",
+                "ro": "Parcați în parcarea acoperită din apropiere pentru a ajunge uscat la muzeu; expoziția interactivă este cea mai bună evadare din vremea mohorâtă de afară.",
+                "en": "Park in the nearby covered parking to reach the museum completely dry; the interactive exhibit is the best escape from the gloomy, rainy weather outside today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Noguera",
+                "hu": "Museu de la Noguera",
+                "ro": "Museu de la Noguera",
+                "en": "Museu de la Noguera"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein perfekter Abschluss für einen Regentag, da Sie hier Stunden verbringen können; der Weg vom Parkplatz zum Eingang ist kurz und eben.",
+                "hu": "A múzeum tökéletes zárása egy esős napnak, mivel órákat tölthet el benne; a parkolótól a bejáratig vezető út rövid és sík, így nem fog elázni útközben.",
+                "ro": "Muzeul este finalul perfect pentru o zi ploioasă, putând petrece ore în șir în interior; drumul de la parcare la intrare este scurt și plat, ferindu-vă de udare.",
+                "en": "The museum is a perfect end to a rainy day as you can spend hours inside; the walk from the parking lot to the entrance is short and flat, keeping you dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag mit dem Auto beginnt bei der hochgelegenen Burg Ràpita, wo wir die Aussicht im Warmen genießen. Mittags fahren wir zu den abgelegeneren Kapellen, wobei die Heizung für Komfort sorgt. Am Nachmittag besuchen wir die Museen im Zentrum, bevor die Sonne um 17:00 Uhr hinter den Bergen verschwindet. Den Abend lassen wir bei einer Fahrt durch die festlich beleuchtete Altstadt ausklingen.",
+            "hu": "A tiszta téli napot a magasan fekvő Ràpita váránál kezdjük, ahol az autó melegéből élvezhetjük a panorámát. Délben a távolabbi kápolnákhoz hajtunk, miközben a fűtés biztosítja a kényelmet. Délután a belvárosi múzeumokat látogatjuk meg, mielőtt a nap 17:00-kor eltűnne a hegyek mögött. Az estét a díszkivilágításban úszó óvárosban tett autós körrel zárjuk.",
+            "ro": "O zi senină de iarnă cu mașina începe la Castelul Ràpita, unde ne bucurăm de panoramă din confortul termic al vehiculului. La prânz conducem spre capelele mai îndepărtate, încălzirea mașinii fiind esențială. După-amiaza vizităm muzeele din centru înainte ca soarele să apună la ora 17:00. Încheiem seara cu un tur auto prin orașul vechi luminat festiv.",
+            "en": "A clear winter day by car begins at the elevated Ràpita Castle, where we enjoy the panorama from the warmth of the vehicle. At noon, we drive to the more remote chapels, with the car's heater ensuring comfort. In the afternoon, we visit the city museums before the sun disappears behind the mountains at 17:00. We end the evening with a drive through the festively lit old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de la Ràpita",
+                "hu": "Castell de la Ràpita",
+                "ro": "Castell de la Ràpita",
+                "en": "Castell de la Ràpita"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die schneebedeckten Gipfel direkt vom Auto aus; die Burgmauern sind im Winter extrem zugig und kalt für längere Aufenthalte.",
+                "hu": "Élvezze a havas hegycsúcsokra nyíló panorámát közvetlenül az autóból; a várfalak télen rendkívül huzatosak és hidegek egy hosszabb szabadtéri nézelődéshez.",
+                "ro": "Bucurați-vă de vederea spre vârfurile înzăpezite direct din mașină; zidurile castelului sunt foarte expuse vântului și reci pentru o ședere lungă afară iarna.",
+                "en": "Enjoy the wide view of the snowy peaks directly from your car; the castle walls are extremely drafty and cold for a long outdoor stay during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Jordi",
+                "hu": "Sant Jordi",
+                "ro": "Sant Jordi",
+                "en": "Sant Jordi"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht im klaren Winterlicht; die Kapelle ist im Winter oft kühler als draußen in der Sonne, behalten Sie Ihre Jacke an.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a tiszta téli fényben; a kápolna belseje télen gyakran hidegebb, mint kint a napon, ezért ne vegye le a kabátját bent sem.",
+                "ro": "Parcarea oferă o vedere excelentă în lumina clară de iarnă; interiorul capelei este adesea mai rece decât afară la soare, așa că păstrați jacheta pe dumneavoastră.",
+                "en": "The parking area offers a great view in the clear winter light; the chapel interior is often colder than being outside in the sun, so keep your coat on inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic del Pla d'Almatà",
+                "hu": "Jaciment arqueològic del Pla d'Almatà",
+                "ro": "Jaciment arqueològic del Pla d'Almatà",
+                "en": "Jaciment arqueològic del Pla d'Almatà"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen um die Mittagszeit, um die maximale Sonneneinstrahlung zu nutzen; der Boden ist im Winter hart gefroren und gut begehbar.",
+                "hu": "A déli órákban látogassa meg az ásatásokat, hogy kihasználja a maximális napsütést; a talaj télen keményre fagyott és jól járható a romok közötti sétához.",
+                "ro": "Vizitați vestigiile în jurul prânzului pentru a beneficia de soarele maxim; solul este înghețat și tare iarna, fiind ușor de parcurs pe jos printre ruine.",
+                "en": "Visit the excavations around midday to take advantage of maximum sunlight; the ground is frozen hard in winter and easy to walk on while exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Formós",
+                "hu": "Castell Formós",
+                "ro": "Castell Formós",
+                "en": "Castell Formós"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für Fotos von der winterlichen Skyline; die tiefe Sonne am frühen Nachmittag sorgt für dramatische Schattenwürfe auf den alten Mauern.",
+                "hu": "Egy gyors megálló a téli városkép fotózásához; a kora délutáni alacsony napállás drámai árnyékokat vet a régi falakra, ami kiváló témát nyújt a fényképezéshez.",
+                "ro": "O oprire rapidă pentru fotografii cu panorama de iarnă; soarele jos de după-amiază creează umbre dramatice pe zidurile vechi, ideale pentru pasionații de foto.",
+                "en": "A quick stop for photos of the winter skyline; the low early afternoon sun creates dramatic shadows on the ancient walls, perfect for striking photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre d'Interpretació de l'Or del Segre",
+                "hu": "Centre d'Interpretació de l'Or del Segre",
+                "ro": "Centre d'Interpretació de l'Or del Segre",
+                "en": "Centre d'Interpretació de l'Or del Segre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die gute Heizung des Gebäudes, um sich vor dem Abend aufzuwärmen; die interaktive Tour ist eine tolle Indoor-Aktivität für kurze Wintertage.",
+                "hu": "Használja ki az épület jó fűtését, hogy alaposan felmelegedjen az este előtt; az interaktív túra remek beltéri elfoglaltság a rövid és hideg téli napokon.",
+                "ro": "Beneficiați de încălzirea bună a clădirii pentru a vă încălzi înainte de lăsarea serii; turul interactiv este o activitate excelentă de interior pentru iarnă.",
+                "en": "Take advantage of the building's good heating to warm up before evening; the interactive tour is a great indoor activity during the short and cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Noguera",
+                "hu": "Museu de la Noguera",
+                "ro": "Museu de la Noguera",
+                "en": "Museu de la Noguera"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um bis zur Schließung zu bleiben, wenn es draußen bereits dunkel und frostig ist; das warme Ambiente macht den Besuch sehr angenehm.",
+                "hu": "Tökéletes helyszín a maradásra zárásig, amikor kint már sötét és fagyos az idő; a múzeum meleg hangulata nagyon kellemessé teszi a látogatást a téli estén.",
+                "ro": "Locul perfect pentru a sta până la închidere, când afară este deja întuneric și ger; ambianța caldă a muzeului face vizita foarte plăcută seara de iarnă.",
+                "en": "The perfect place to stay until closing time when it's already dark and freezing outside; the warm museum ambiance makes for a very pleasant winter evening visit."
+              }
+            }
+          ]
+        }
       }
     }
   }

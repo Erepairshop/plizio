@@ -160,6 +160,196 @@
         "hu": "Gyalogos túrája a Leicester Coke emlékműnél kezdődik, majd a békés Saint Withburga templom felé veszi az irányt. Délben a Walled Garden és a Holkham Hall várja. Délután a Holkham Stories Experience segítségével merülhet el a helyi örökségben. A nap egy pihentető sétával zárul a kiterjedt Holkham Park lenyűgöző természeti környezetében.",
         "ro": "Turul dumneavoastră pietonal începe la monumentul Leicester Coke înainte de a vă îndrepta spre biserica Saint Withburga. La prânz veți descoperi superba Walled Garden și Holkham Hall. După-amiaza, veți explora istoria locală la Holkham Stories Experience. Ziua se încheie cu o plimbare relaxantă prin parcul întins Holkham, înconjurat de natură.",
         "en": "Your walking tour begins at the towering Leicester Coke Monument before heading to the peaceful Saint Withburga church. Midday brings you to the vibrant Walled Garden and the architectural marvel of Holkham Hall. In the afternoon, you will delve into local heritage at the Holkham Stories Experience. The day concludes with a relaxing stroll through the expansive Holkham Park, surrounded by nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Denkmal mit wetterfester Kleidung. Mittags bieten die dicken Mauern von Saint Withburga und die Gewächshäuser im Walled Garden Schutz vor Schauern. Verbringen Sie den Nachmittag in den prachtvollen Innenräumen von Holkham Hall und der interaktiven Ausstellung. Am Abend genießen Sie die mystische Atmosphäre des Parks, während beleuchtete Wege Sie sicher führen.",
+            "hu": "Reggel a monumentális oszlopnál kezdünk vízálló öltözetben. Délben a templom falai és a kert üvegházai nyújtanak menedéket a záporok elől. Délután a Holkham Hall pazar belső tereit és az interaktív kiállítást fedezzük fel szárazon. Estére a park párás, misztikus hangulata marad, ahol a kivilágított ösvények mutatják az utat a nedves vidéken át.",
+            "ro": "Începeți dimineața la monument echipați cu haine impermeabile. La prânz, zidurile groase de la Saint Withburga și serele din Walled Garden oferă refugiu împotriva averselor. Petreceți după-amiaza explorând interioarele opulente de la Holkham Hall și expoziția interactivă. Seara, bucurați-vă de atmosfera misterioasă a parcului, unde potecile luminate vă ghidează prin domeniul umed.",
+            "en": "Start the morning at the monument with sturdy waterproof gear. At noon, the thick walls of Saint Withburga and the greenhouses of the Walled Garden offer refuge from the showers. Spend the afternoon exploring the opulent interiors of Holkham Hall and the interactive exhibit in comfort. By evening, enjoy the misty atmosphere of the park, where well-lit paths guide you through the damp estate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leicester Coke Monument",
+                "hu": "Leicester Coke Monument",
+                "ro": "Leicester Coke Monument",
+                "en": "Leicester Coke Monument"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal in Regenkleidung; die dunklen Töne des Sandsteins bilden bei grauem Himmel eine dramatische Kulisse für Fotos, während Sie auf den befestigten Wegen bleiben.",
+                "hu": "Vízálló ruházatban csodálja meg a monumentális oszlopot; az esős időben a sárga homokkő sötétebb árnyalatai különleges, drámai hátteret adnak a fotózáshoz a szürke égbolt alatt.",
+                "ro": "Admirați monumentul purtând haine impermeabile; tonurile închise ale gresiei oferă un fundal dramatic pentru fotografii sub cerul gri, în timp ce rămâneți pe potecile pavate.",
+                "en": "Admire the monumental column in waterproof gear; in rainy weather, the darker shades of the yellow sandstone provide a unique, dramatic backdrop for photos against the gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Withburga",
+                "hu": "Saint Withburga",
+                "ro": "Saint Withburga",
+                "en": "Saint Withburga"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der mittelalterlichen Kirche; die Stille im Inneren und das Prasseln des Regens auf das Dach bieten ein meditatives Erlebnis für Besucher in wasserfesten Stiefeln.",
+                "hu": "Meneküljön az eső elől a középkori templom falai közé; a belső tér csendje és a kopogó eső hangja a tetőn meditatív élményt nyújt a vízálló bakancsban érkezőknek a csendes vidéken.",
+                "ro": "Căutați adăpost între zidurile bisericii medievale; liniștea interiorului și sunetul ploii pe acoperiș oferă o experiență meditativă vizitatorilor echipați cu ghete impermeabile.",
+                "en": "Escape the rain inside the walls of the medieval church; the silence of the interior and the sound of rain on the roof provide a meditative experience for those in waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Walled Garden",
+                "hu": "Walled Garden",
+                "ro": "Walled Garden",
+                "en": "Walled Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Gewächshäuser bieten hervorragenden Schutz vor Schauern; achten Sie auf die rutschigen Kieswege und genießen Sie den frischen Blumenduft im Garten nach dem Regen unter dem Schirm.",
+                "hu": "Az üvegházak és a fedett pihenők kiváló menedéket nyújtanak a záporok idején; figyeljen a csúszós kavicsos utakra, és élvezze az eső utáni friss virágillatot a kertben ernyővel.",
+                "ro": "Serele și adăposturile oferă o protecție excelentă în timpul averselor; atenție la potecile alunecoase cu pietriș și bucurați-vă de parfumul proaspăt al florilor din grădină după ploaie.",
+                "en": "The greenhouses and covered shelters provide excellent refuge during showers; watch out for slippery gravel paths and enjoy the fresh scent of flowers in the garden after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Hall",
+                "hu": "Holkham Hall",
+                "ro": "Holkham Hall",
+                "en": "Holkham Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Marmorhalle ist der perfekte Ort, um anhaltenden Regen abzuwarten; zwischen den prächtigen Wandteppichen und Gemälden werden Sie das Unwetter draußen garantiert kaum bemerken.",
+                "hu": "A monumentális márványcsarnok és a belső tárlat tökéletes helyszín a tartós eső kivárására; a pazar kárpitok és festmények között észre sem veszi majd a kinti zivatart a látogatás alatt.",
+                "ro": "Holul de marmură și expoziția interioară sunt locurile perfecte pentru a aștepta trecerea ploii; printre tapițeriile și picturile somptuoase, nu veți observa furtuna de afară.",
+                "en": "The monumental marble hall and the interior exhibition are perfect for waiting out persistent rain; you won't even notice the storm outside among the opulent tapestries and paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Stories Experience",
+                "hu": "Holkham Stories Experience",
+                "ro": "Holkham Stories Experience",
+                "en": "Holkham Stories Experience"
+              },
+              "tip_5lang": {
+                "de": "Diese interaktive Ausstellung ist komplett überdacht und somit ideal bei schlechtem Wetter; lernen Sie die Geschichte des Anwesens im Trockenen kennen, während draußen Wolken vorbeiziehen.",
+                "hu": "Ez az interaktív kiállítás teljesen fedett, így ideális program rosszidő esetén; ismerje meg a birtok történelmét szárazon, miközben kint elvonulnak a viharfelhők a kastély mellett.",
+                "ro": "Această expoziție interactivă este complet acoperită, fiind ideală pe vreme rea; aflați istoria domeniului la adăpost, în timp ce norii de furtună trec pe lângă clădirile istorice.",
+                "en": "This interactive exhibition is completely covered, making it ideal for bad weather; learn about the estate's history in the dry while storm clouds pass outside by the historic buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Park",
+                "hu": "Holkham Park",
+                "ro": "Holkham Park",
+                "en": "Holkham Park"
+              },
+              "tip_5lang": {
+                "de": "Unter den Bäumen finden Sie vorübergehend Schutz, aber bleiben Sie auf den beleuchteten Asphaltwegen; in der feuchten Luft wagen sich die Hirsche oft näher an die Besucher heran.",
+                "hu": "A tágas parkban a fák alatt találhat ideiglenes fedezéket, de javasolt a kivilágított betonutakon maradni; a párás levegőben a szarvasok gyakran közelebb merészkednek az ösvényekhez.",
+                "ro": "Sub copaci puteți găsi adăpost temporar, dar se recomandă să rămâneți pe drumurile asfaltate luminate; în aerul umed, căprioarele îndrăznesc adesea să se apropie mai mult de vizitatori.",
+                "en": "You can find temporary shelter under the trees, but it's recommended to stay on the lit paved paths; in the damp air, deer often venture closer to the paths and curious visitors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen am Denkmal in warmer Kleidung. Mittags erleben Sie die Stille der Kirche und die winterliche Gartenlandschaft. Verbringen Sie den Nachmittag im beheizten Schloss und Museum, um dem Wind zu entgehen. Der Abend bricht früh gegen 17 Uhr an; genießen Sie die winterliche Dämmerung im Park, bevor sich die Dunkelheit über das Küstengebiet legt.",
+            "hu": "A csípős reggelen az oszlopnál kezdünk réteges öltözetben. Délben a templom csendje, majd a kert téli arca vár. A délután nagy részét a fűtött kastélyban és a múzeumban töltjük, menekülve a metsző szél elől. Az este korán, 17 óra körül érkezik; a parkban a téli alkonyat fényeit csodálhatjuk meg, mielőtt a sötétség beállna a tengerparti vidéken.",
+            "ro": "Începeți dimineața geroasă la monument îmbrăcați în straturi groase. La prânz, experimentați liniștea bisericii și peisajul de iarnă al grădinii. Petreceți după-amiaza în interiorul încălzit al conacului și în muzeu, evitând vântul tăios. Seara sosește devreme, la ora 17:00; admirați amurgul de iarnă în parc înainte ca întunericul să se lase peste zona de coastă.",
+            "en": "Start the crisp morning at the monument bundled in warm layers. At noon, experience the quiet peace of the church followed by the garden's winter landscape. Spend most of the afternoon inside the heated Hall and museum, escaping the biting wind. Evening arrives early around 5 PM; enjoy the winter twilight in the park before darkness fully sets in over this coastal estate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leicester Coke Monument",
+                "hu": "Leicester Coke Monument",
+                "ro": "Leicester Coke Monument",
+                "en": "Leicester Coke Monument"
+              },
+              "tip_5lang": {
+                "de": "An Wintermorgen ist der Anblick des gefrorenen Denkmals unter klarem Himmel beeindruckend; tragen Sie eine windfeste Jacke, da der Nordwind auf dem offenen Gelände viel kälter wirkt.",
+                "hu": "A téli reggeleken a fagyos oszlop látványa lenyűgöző a tiszta égbolt alatt; viseljen szélálló kabátot, mert a nyitott területen a hideg északi szél sokkal erősebben érződik a látogatóknak.",
+                "ro": "În diminețile de iarnă, vederea monumentului înghețat sub cerul senin este impresionantă; purtați o jachetă rezistentă la vânt, deoarece vântul de nord se simte mult mai rece pe teren deschis.",
+                "en": "On winter mornings, the sight of the frozen monument under a clear sky is impressive; wear a windproof jacket as the north wind feels much colder on the open ground to visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Withburga",
+                "hu": "Saint Withburga",
+                "ro": "Saint Withburga",
+                "en": "Saint Withburga"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche kann im Winter kühl sein, behalten Sie also Ihre warme Kleidung an; das frühe Winterlicht setzt die Fenster in ein besonderes Licht und schafft eine friedliche Atmosphäre.",
+                "hu": "A templom belső tere télen hűvös lehet, ezért tartsa magán a meleg rétegeket; a korai téli napsütés különleges fénybe vonja az ablakokat, békés hangulatot teremtve a vastag falak között.",
+                "ro": "Interiorul bisericii poate fi răcoros iarna, așa că păstrați straturile groase de haine; lumina timpurie de iarnă scaldă ferestrele într-o lumină specială, creând o atmosferă pașnică.",
+                "en": "The church interior can be chilly in winter, so keep your warm layers on; the early winter sunlight bathes the windows in a special light, creating a peaceful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Walled Garden",
+                "hu": "Walled Garden",
+                "ro": "Walled Garden",
+                "en": "Walled Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Struktur des Wintergartens und die frostigen Pflanzen sind auch jetzt reizvoll; in den Gewächshäusern finden Sie windgeschützte Ecken, aber warme Mützen und Handschuhe sind unerlässlich.",
+                "hu": "A téli kert szerkezete és a fagyos növények geometriája ilyenkor is vonzó; az üvegházakban kereshet némi szélvédett sarkot, de a meleg sapka és kesztyű elengedhetetlen a séta során.",
+                "ro": "Structura grădinii de iarnă și plantele înghețate sunt atrăgătoare și acum; în sere puteți găsi colțuri ferite de vânt, dar căciula și mănușile groase sunt esențiale pentru plimbare.",
+                "en": "The structure of the winter garden and the frosty plants are still attractive; you can find wind-sheltered corners in the greenhouses, but warm hats and gloves are essential for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Hall",
+                "hu": "Holkham Hall",
+                "ro": "Holkham Hall",
+                "en": "Holkham Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme im Inneren des Schlosses ist eine wahre Erleichterung nach dem Winterspaziergang; planen Sie den Besuch so, dass Sie vor der frühen Dunkelheit noch den Park sehen können.",
+                "hu": "A kastély belső melege igazi felüdülés a téli séta után; tervezze úgy a látogatást, hogy a korai sötétedés előtt még lássa a parkot, majd bent tölthesse el a délutánt a fűtött termekben.",
+                "ro": "Căldura din interiorul conacului este o adevărată relaxare după plimbarea de iarnă; planificați vizita astfel încât să vedeți parcul înainte de lăsarea întunericului, apoi stați înăuntru.",
+                "en": "The warmth inside the Hall is a true relief after the winter walk; plan your visit so you can see the park before the early darkness, then spend the afternoon in the heated rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Stories Experience",
+                "hu": "Holkham Stories Experience",
+                "ro": "Holkham Stories Experience",
+                "en": "Holkham Stories Experience"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geheimnisse des Anwesens in der gut beheizten Ausstellung; im Winter gibt es weniger Besucher, sodass Sie in Ruhe in die interaktiven Geschichten vor der Kälte eintauchen können.",
+                "hu": "Fedezze fel a birtok titkait a jól fűtött kiállítóteremben; a téli hónapokban kevesebb a látogató, így nyugodtan merülhet el az interaktív történetekben a kinti hideg elől menekülve.",
+                "ro": "Descoperiți secretele domeniului în sala de expoziții bine încălzită; iarna sunt mai puțini vizitatori, așa că vă puteți cufunda în liniște în poveștile interactive, feriți de frig.",
+                "en": "Discover the estate's secrets in the well-heated exhibition hall; in winter there are fewer visitors, so you can quietly immerse yourself in interactive stories away from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Park",
+                "hu": "Holkham Park",
+                "ro": "Holkham Park",
+                "en": "Holkham Park"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung bricht gegen 17 Uhr ein und taucht den Park in magisches Licht; ziehen Sie sich sehr warm an, da die Temperaturen auf den offenen Feldern bei Sonnenuntergang schnell sinken.",
+                "hu": "A téli alkonyat 17 óra körül érkezik a parkba, ami ilyenkor varázslatos fényeket kap; öltözzön nagyon melegen, mert a nyitott mezőkön a hőmérséklet gyorsan süllyedhet naplemente után.",
+                "ro": "Amurgul se lasă în jurul orei 17:00, scăldând parcul într-o lumină magică; îmbrăcați-vă foarte gros, deoarece temperaturile scad rapid pe câmpurile deschise după apusul soarelui.",
+                "en": "The winter twilight arrives around 5 PM, bathing the park in magical light; dress very warmly as temperatures can drop quickly on the open fields after the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros kalandját a Coke emlékműnél, majd tekerjen a Saint Withburga csendes területére. Dél körül fedezze fel a Walled Garden virágait és a grandiózus Holkham Hallt. Később a Holkham Stories kínál interaktív történelmet, majd tekerjen át a Holkham Parkon. Végül a hatalmas Holkham Beach partján élvezheti az esti tengerparti szellőt.",
         "ro": "Începeți aventura cu bicicleta la Monumentul Coke, apoi pedalați spre curtea liniștită a Saint Withburga. Pe la prânz, explorați Walled Garden și mărețul Holkham Hall. După-amiaza, Holkham Stories oferă istorie interactivă, urmată de o plimbare prin Holkham Park. În cele din urmă, pedalați până la vasta plajă Holkham pentru a vă bucura de briza mării.",
         "en": "Start your cycling adventure at the Coke Monument, then pedal to the quiet grounds of Saint Withburga. Around midday, explore the colourful Walled Garden and the grand Holkham Hall. As the afternoon unfolds, the Holkham Stories Experience offers interactive history, followed by a ride through Holkham Park. Finally, pedal out to the vast Holkham Beach to enjoy the evening coastal breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen auf dem Rad erfordert volle wasserdichte Ausrüstung. Radeln Sie vorsichtig zum Denkmal und zur Kirche, wo Sie kurzzeitig Schutz finden. Mittags bietet der Walled Garden Unterstand. Verbringen Sie den Nachmittag bei den Indoor-Attraktionen von Holkham Hall. Ein schneller Ritt zum Strand beendet den Tag, bevor Sie durch den nassen Park zurückkehren.",
+            "hu": "Az esős reggel a biciklin teljes vízhatlan felszerelést igényel. Tekerjen óvatosan az emlékműhöz és a templomhoz, ahol rövid menedéket találhat. Délben a Walled Garden kínál fedelet. A délutánt töltse a Holkham Hall fedett látnivalóinál. Egy gyors tekerés a tengerpartra zárja a napot, mielőtt a vizes parkon át visszatérne.",
+            "ro": "O dimineață ploioasă pe bicicletă necesită echipament impermeabil complet. Pedalați cu atenție către monument și biserică pentru scurt adăpost. La prânz, Walled Garden oferă protecție. Petreceți după-amiaza la atracțiile interioare de la Holkham Hall. O tură rapidă la plajă încheie ziua înainte de întoarcere.",
+            "en": "A rainy morning on the bike requires full waterproof gear. Cycle carefully to the monument and church for brief shelter. At noon, the Walled Garden offers cover. Spend the afternoon at the indoor attractions of Holkham Hall. A quick ride to the beach closes the day before returning through the wet park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leicester Coke Monument",
+                "hu": "Leicester Coke Monument",
+                "ro": "Leicester Coke Monument",
+                "en": "Leicester Coke Monument"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Weg zum Denkmal, aber achten Sie auf Pfützen und rutschiges Laub; in voller Regenmontur ist der monumentale Anblick auch bei trübem Wetter ein tolles Fotomotiv.",
+                "hu": "Használja a széles utat az emlékműig, de ügyeljen a tócsákra és a csúszós levelekre; teljes esőfelszerelésben a monumentális látvány borús időben is remek fotótéma a bicikliseknek.",
+                "ro": "Folosiți drumul lat până la monument, dar atenție la bălți și frunze alunecoase; în echipament complet de ploaie, vederea monumentală este un subiect foto grozav chiar și pe vreme mohorâtă.",
+                "en": "Use the wide path to the monument but watch out for puddles and slippery leaves; in full rain gear, the monumental sight is a great photo subject even in gloomy weather for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Withburga",
+                "hu": "Saint Withburga",
+                "ro": "Saint Withburga",
+                "en": "Saint Withburga"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und nutzen Sie die Kirchenbesichtigung, um kurzzeitig abzutrocknen; die dicken Mauern bieten perfekten Schutz vor plötzlichen Regengüssen.",
+                "hu": "Parkolja le a biciklit egy védett helyen, és használja ki a templomlátogatást, hogy rövid időre megszáradjon; a vastag falak tökéletes védelmet nyújtanak a hirtelen zivatarok elől.",
+                "ro": "Parcați bicicleta într-un loc ferit și profitați de vizitarea bisericii pentru a vă usca puțin; zidurile groase oferă protecție perfectă împotriva averselor bruște de ploaie pe traseu.",
+                "en": "Park your bike in a sheltered spot and take advantage of the church visit to dry off briefly; the thick walls provide perfect protection against sudden rain showers on your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Walled Garden",
+                "hu": "Walled Garden",
+                "ro": "Walled Garden",
+                "en": "Walled Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Gartenwege können bei Regen schlammig sein, fahren Sie also langsam; die Gewächshäuser sind ein idealer Ort für eine Pause, um den Schauer abzuwarten, bevor Sie zum Schloss weiterfahren.",
+                "hu": "A kerti utak esőben sárosak lehetnek, így haladjon lassan; az üvegházak ideális helyszínek egy pihenőhöz, hogy kivárja a záport, mielőtt továbbtekerne a közeli kastély felé.",
+                "ro": "Potecile din grădină pot fi noroioase pe ploaie, deci pedalați încet; serele sunt locuri ideale pentru o pauză pentru a aștepta trecerea ploii înainte de a pleca spre conacul din apropiere.",
+                "en": "Garden paths can be muddy in the rain, so ride slowly; the greenhouses are ideal spots for a break to wait out the shower before cycling on toward the nearby manor house."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Hall",
+                "hu": "Holkham Hall",
+                "ro": "Holkham Hall",
+                "en": "Holkham Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Besucherzentrum und verbringen Sie längere Zeit im Inneren des Schlosses; die luxuriösen Räume bieten einen wunderbaren Kontrast zur nassen Fahrt im Freien.",
+                "hu": "Parkolja le a biciklit a látogatóközpontnál, és töltsön hosszabb időt a kastély belsejében; a luxus kivitelű szobák csodás kontrasztot nyújtanak a kinti nedves és szeles tekerés után.",
+                "ro": "Parcați bicicleta la centrul pentru vizitatori și petreceți mai mult timp în interiorul conacului; camerele de lux oferă un contrast minunat cu tura umedă și vântoasă de afară.",
+                "en": "Park your bike at the visitor center and spend more time inside the Hall; the luxurious rooms provide a wonderful contrast to the wet and windy outdoor ride you just completed."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Stories Experience",
+                "hu": "Holkham Stories Experience",
+                "ro": "Holkham Stories Experience",
+                "en": "Holkham Stories Experience"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp ist perfekt für Radfahrer, da er komplett überdacht ist; nutzen Sie die interaktiven Stationen, um sich aufzuwärmen, während Ihr Rad draußen im geschützten Bereich wartet.",
+                "hu": "Ez a megálló tökéletes a bicikliseknek, mivel teljesen fedett; használja az interaktív állomásokat a bemelegedéshez, miközben a kerékpárja kint a védett tárolóban várakozik a parkban.",
+                "ro": "Această oprire este perfectă pentru bicicliști, fiind complet acoperită; folosiți stațiile interactive pentru a vă încălzi în timp ce bicicleta așteaptă afară în zona protejată.",
+                "en": "This stop is perfect for cyclists as it is completely covered; use the interactive stations to warm up while your bike waits outside in the protected storage area in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Park",
+                "hu": "Holkham Park",
+                "ro": "Holkham Park",
+                "en": "Holkham Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den asphaltierten Wegen, um Schlammspritzer zu vermeiden; der nasse Park wirkt im Regen sehr weitläufig und ruhig, ideal für eine atmosphärische Fahrt mit Schutzblechen.",
+                "hu": "Haladjon az aszfaltozott utakon, hogy elkerülje a sárfelverődést; a nedves park esőben nagyon tágasnak és nyugodtnak tűnik, ideális egy hangulatos tekeréshez sárvédős biciklivel.",
+                "ro": "Rămâneți pe drumurile asfaltate pentru a evita stropirea cu noroi; parcul umed pare foarte vast și liniștit pe ploaie, ideal pentru o tură atmosferică cu o bicicletă cu apărători.",
+                "en": "Stick to the paved roads to avoid mud splashes; the wet park feels very vast and calm in the rain, ideal for an atmospheric ride with a bike equipped with good mudguards."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Naturist Beach",
+                "hu": "Holkham Naturist Beach",
+                "ro": "Holkham Naturist Beach",
+                "en": "Holkham Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann sehr windig und sandig sein, fahren Sie vorsichtig; bei Regen ist der Strand fast menschenleer, was ein wildes und raues Naturerlebnis für mutige Radfahrer bietet.",
+                "hu": "A tengerparti út szeles és homokos lehet, tekerjen óvatosan; esőben a strand szinte néptelen, ami vad és nyers természeti élményt nyújt a bátor bicikliseknek a dűnék között a szélben.",
+                "ro": "Drumul spre plajă poate fi vântos și nisipos, pedalați cu atenție; pe ploaie plaja este aproape pustie, oferind o experiență naturală sălbatică pentru bicicliștii curajoși printre dune.",
+                "en": "The coastal path can be windy and sandy, ride carefully; in the rain the beach is almost deserted, offering a wild and raw natural experience for brave cyclists among the dunes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen auf dem Rad erfordert warme Schichten und Handschuhe. Die Fahrt zum Denkmal belebt, doch die Kälte an der Kirche ist spürbar. Mittags wärmen die Gewächshäuser kurz auf. Verbringen Sie den Nachmittag in der Wärme von Holkham Hall. Da die Sonne gegen 17 Uhr untergeht, planen Sie die Fahrt zum Strand frühzeitig ein, bevor es im Park dunkel wird.",
+            "hu": "A fagyos téli reggel a biciklin meleg rétegeket és kesztyűt igényel. Az emlékműhöz vezető út frissítő, de a templomnál már érezhető a hideg. Délben az üvegházakban melegedhetünk kicsit. A délutánt töltse a Holkham Hall melegében. Mivel a nap 17 óra körül nyugszik, a tengerparti utat tervezze korábbra, mielőtt a park sötétbe borulna.",
+            "ro": "O dimineață geroasă pe bicicletă necesită haine groase și mănuși. Drumul spre monument este revigorant, dar frigul se simte la biserică. La prânz vă puteți încălzi în sere. Petreceți după-amiaza la căldură în Holkham Hall. Deoarece soarele apune la 17:00, planificați tura la plajă mai devreme.",
+            "en": "A frosty winter morning on the bike requires warm layers and gloves. The ride to the monument is bracing, but the cold is felt at the church. At noon, warm up briefly in the greenhouses. Spend the afternoon in the warmth of Holkham Hall. Since the sun sets around 5 PM, plan the beach trip early before the park falls into darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leicester Coke Monument",
+                "hu": "Leicester Coke Monument",
+                "ro": "Leicester Coke Monument",
+                "en": "Leicester Coke Monument"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Luft macht die Fahrt zum Denkmal anstrengend, aber der weite Blick belohnt Sie; tragen Sie einen Gesichtsschutz gegen den kalten Fahrtwind auf den offenen Wegen im Anwesen.",
+                "hu": "A fagyos levegő megnehezíti a tekerést, de a távoli kilátás kárpótolja; viseljen arcmaszkot a hideg menetszél ellen a nyitott utakon, ahol a téli szél akadálytalanul fúj a birtokon.",
+                "ro": "Aerul înghețat face pedalarea dificilă, dar vederea în depărtare merită efortul; purtați o mască de față împotriva vântului rece pe drumurile deschise unde vântul bate nestingherit.",
+                "en": "The frosty air makes the ride challenging, but the distant view is rewarding; wear a face mask against the cold wind chill on the open roads where the winter wind blows unobstructed."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Withburga",
+                "hu": "Saint Withburga",
+                "ro": "Saint Withburga",
+                "en": "Saint Withburga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt an der Kirche für eine Pause vom Wind; im Inneren ist es still und geschützt, ideal um die kalten Finger aufzuwärmen, bevor Sie die Fahrt durch den Park fortsetzen.",
+                "hu": "Használja ki a templomi megállót egy szél elleni pihenőre; a belső tér csendes és védett, ideális a hideg ujjak felmelegítésére, mielőtt folytatná a tekerést a tágas parkon keresztül.",
+                "ro": "Profitați de oprirea la biserică pentru o pauză de vânt; interiorul este liniștit și protejat, ideal pentru a vă încălzi degetele reci înainte de a continua tura prin parcul vast.",
+                "en": "Take advantage of the church stop for a break from the wind; the interior is quiet and sheltered, ideal for warming up cold fingers before continuing your ride through the vast park."
+              }
+            },
+            {
+              "name": {
+                "de": "Walled Garden",
+                "hu": "Walled Garden",
+                "ro": "Walled Garden",
+                "en": "Walled Garden"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Garten ruhig und die gefrorenen Beete wirken geometrisch; die Gewächshäuser bieten eine willkommene windgeschützte Zone für Radfahrer auf ihrer Tour durch das Anwesen.",
+                "hu": "Télen a kert csendes, a fagyott ágyások geometriai formái ilyenkor is szépek; az üvegházak szívesen látott szélvédett zónát kínálnak a bicikliseknek a birtokon tett túrájuk során.",
+                "ro": "Iarna grădina este liniștită, iar formele geometrice ale straturilor înghețate sunt frumoase; serele oferă o zonă ferită de vânt binevenită pentru bicicliștii aflați în turul domeniului.",
+                "en": "In winter the garden is quiet, and the geometric shapes of the frozen beds are still beautiful; the greenhouses offer a welcome wind-sheltered zone for cyclists on their estate tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Hall",
+                "hu": "Holkham Hall",
+                "ro": "Holkham Hall",
+                "en": "Holkham Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die luxuriöse Wärme der Innenräume; die prachtvolle Marmorhalle ist ein idealer Ort, um die Kälte der Fahrt für eine Weile komplett zu vergessen.",
+                "hu": "Parkolja le a kerékpárt, és élvezze a belső terek luxus melegét; a pompás márványcsarnok ideális helyszín, hogy egy időre teljesen elfelejtse a kinti tekerés során átélt metsző hideget.",
+                "ro": "Parcați bicicleta și bucurați-vă de căldura de lux a interioarelor; holul splendid de marmură este locul ideal pentru a uita complet de frigul tăios resimțit în timpul pedalatului.",
+                "en": "Park your bike and enjoy the luxurious warmth of the interiors; the magnificent marble hall is the ideal place to completely forget the biting cold experienced during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Stories Experience",
+                "hu": "Holkham Stories Experience",
+                "ro": "Holkham Stories Experience",
+                "en": "Holkham Stories Experience"
+              },
+              "tip_5lang": {
+                "de": "In der gut beheizten Ausstellung können Sie sich gründlich aufwärmen; im Winter sind weniger Besucher da, was den Aufenthalt an den interaktiven Stationen noch angenehmer macht.",
+                "hu": "A jól fűtött kiállításon alaposan átmelegedhet a téli túra közben; ilyenkor kevesebb a látogató, ami még kellemesebbé teszi az interaktív állomások felfedezését a kastély melletti épületben.",
+                "ro": "Vă puteți încălzi bine în expoziția încălzită în timpul turei de iarnă; sunt mai puțini vizitatori acum, ceea ce face explorarea stațiilor interactive și mai plăcută în clădirea de lângă conac.",
+                "en": "You can warm up thoroughly in the heated exhibition during your winter ride; there are fewer visitors now, making the exploration of the interactive stations even more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Park",
+                "hu": "Holkham Park",
+                "ro": "Holkham Park",
+                "en": "Holkham Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig, um warm zu bleiben, aber achten Sie auf gefrorene Stellen auf dem Asphalt; das winterliche Licht im Park bei Sonnenuntergang gegen 17 Uhr ist für Radfahrer atemberaubend.",
+                "hu": "Haladjon tempósan, hogy melegen tartsa magát, de ügyeljen a fagyott foltokra az aszfalton; a park téli fényei a 17 óra körüli naplementében lélegzetelállítóak a kerékpárosok számára.",
+                "ro": "Pedalați într-un ritm susținut pentru a vă menține căldura, dar atenție la gheața de pe asfalt; luminile de iarnă ale parcului la apusul de la ora 17:00 sunt uluitoare pentru bicicliști.",
+                "en": "Ride at a steady pace to keep warm, but watch out for icy patches on the asphalt; the park's winter lights at the 5 PM sunset are breathtaking for cyclists on the open estate roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Naturist Beach",
+                "hu": "Holkham Naturist Beach",
+                "ro": "Holkham Naturist Beach",
+                "en": "Holkham Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind am Strand ist extrem kalt, tragen Sie Windstopper-Kleidung; der weite Blick über das frostige Meer und den leeren Strand ist ein unvergessliches, raues Naturerlebnis.",
+                "hu": "A tengerparti téli szél rendkívül hideg, viseljen szélálló ruházatot; a jeges tenger és az üres strand látványa felejthetetlen, nyers természeti élményt nyújt a dűnék közötti túra végén.",
+                "ro": "Vântul de iarnă de pe plajă este extrem de rece, purtați haine rezistente la vânt; vederea mării înghețate și a plajei pustii oferă o experiență naturală brută de neuitat printre dune.",
+                "en": "The winter wind on the beach is extremely cold, wear wind-stopper clothing; the view of the icy sea and the empty beach offers an unforgettable, raw natural experience among the dunes."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Vezessen az első állomásra, a békés Saint Withburga templomhoz. Délre bejárja a Walled Garden területét és megcsodálja a Holkham Hall lenyűgöző belső tereit. Délután egy rövid autózás következik a történelmi obeliszkhez és a Holkham Park szarvasaihoz. Zárja a napot a tengerpartra autózva, és tegyen egy nagy sétát a Holkham Beach végtelen homokdűnéi között.",
         "ro": "Conduceți spre prima oprire la biserica senină Saint Withburga, dând un ton pașnic. Până la prânz, veți rătăci prin Walled Garden și veți admira interioarele din Holkham Hall. După-amiaza include un scurt drum spre Obeliscul istoric și cerbii din Holkham Park. Încheiați ziua conducând până pe coastă pentru o plimbare pe nisipurile plajei Holkham.",
         "en": "Drive to your first stop at the serene Saint Withburga church, setting a peaceful tone. By midday, you will have wandered the Walled Garden and admired the stunning interiors of Holkham Hall. Your afternoon features a short drive to the historic Obelisk and the roaming deer of Holkham Park. Finish your day driving up to the coast for a walk along the vast, sweeping sands of Holkham Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto ist die komfortabelste Art, Holkham zu erkunden. Beginnen Sie bei der Kirche und dem Walled Garden und nutzen Sie die kurzen Wege vom Parkplatz. Der Nachmittag gehört Holkham Hall und dem Museum, wo Sie trocken bleiben. Ein Abstecher zum Obelisken und zum Strand rundet den Tag ab, während Sie die Aussicht aus dem warmen Auto genießen.",
+            "hu": "Az esős nap az autóban a legkényelmesebb módja Holkham felfedezésének. Kezdjen a templomnál és a Walled Garden-nél, kihasználva a parkolótól vezető rövid utakat. A délután a Holkham Hall-é és a múzeumé, ahol szárazon maradhat. Egy kitérő az Obeliszkhez és a strandhoz zárja a napot, miközben a kilátást a meleg autóból élvezheti.",
+            "ro": "O zi ploioasă cu mașina este cel mai confortabil mod de a explora Holkham. Începeți la biserică și Walled Garden, profitând de drumurile scurte de la parcare. După-amiaza aparține Holkham Hall și muzeului, unde veți rămâne uscați. O vizită la Obelisc și plajă încheie ziua din mașina caldă.",
+            "en": "A rainy day by car is the most comfortable way to explore Holkham. Start at the church and Walled Garden, taking advantage of the short walks from the parking lots. The afternoon belongs to Holkham Hall and the museum, where you stay dry. A detour to the Obelisk and the beach closes the day while enjoying the views from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Withburga",
+                "hu": "Saint Withburga",
+                "ro": "Saint Withburga",
+                "en": "Saint Withburga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und flüchten Sie schnell in die schützende Kirche; genießen Sie die Ruhe im Inneren, während der Regen draußen gegen die historischen Fenster prasselt.",
+                "hu": "Használja a közeli parkolót, és meneküljön be gyorsan a védelmező templomba; élvezze a belső csendet, miközben az eső kint a történelmi ablakokon kopog a látogatás ideje alatt.",
+                "ro": "Folosiți parcarea din apropiere și refugiați-vă rapid în biserica protectoare; bucurați-vă de liniștea interioară în timp ce ploaia bate în ferestrele istorice afară.",
+                "en": "Use the nearby parking and dash quickly into the protective church; enjoy the inner silence while the rain beats against the historic windows outside during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Walled Garden",
+                "hu": "Walled Garden",
+                "ro": "Walled Garden",
+                "en": "Walled Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und nutzen Sie die Gewächshäuser als trockenen Rückzugsort; die Wege können nass sein, daher ist festes Schuhwerk trotz Anreise mit dem Auto zu empfehlen.",
+                "hu": "Parkoljon a lehető legközelebb, és használja az üvegházakat száraz menedékként; az utak nedvesek lehetnek, így a zárt cipő ajánlott, hiába érkezik autóval a bejárathoz.",
+                "ro": "Parcați cât mai aproape posibil și folosiți serele ca refugiu uscat; potecile pot fi umede, așa că se recomandă încălțăminte închisă, chiar dacă veniți cu mașina la intrare.",
+                "en": "Park as close as possible and use the greenhouses as a dry refuge; paths can be wet, so closed shoes are recommended even if you arrive by car at the garden entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Hall",
+                "hu": "Holkham Hall",
+                "ro": "Holkham Hall",
+                "en": "Holkham Hall"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Stopp für Regentage, da Sie Stunden im trockenen und prächtigen Inneren verbringen können; der kurze Weg vom Parkplatz ist mit einem Schirm problemlos zu bewältigen.",
+                "hu": "Ez az ideális megálló esős napokra, mivel órákat tölthet a száraz és pompás belső térben; a parkolótól vezető rövid utat egy esernyővel könnyedén megteheti a kastélyig.",
+                "ro": "Aceasta este oprirea ideală pentru zilele ploioase, deoarece puteți petrece ore întregi în interiorul uscat și somptuos; drumul scurt de la parcare se parcurge ușor cu o umbrelă.",
+                "en": "This is the ideal stop for rainy days, as you can spend hours in the dry and magnificent interior; the short walk from the parking lot is easily managed with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisk",
+                "hu": "Obelisk",
+                "ro": "Obelisk",
+                "en": "Obelisk"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal am besten aus dem Auto oder machen Sie nur einen kurzen Fotostopp; der Weg ist exponiert und bei Regen sehr windig, bleiben Sie auf den befestigten Fahrwegen.",
+                "hu": "Az emlékművet a legjobb az autóból nézni, vagy csak egy rövid fotómegállót tartani; az út nyitott és esőben nagyon szeles, maradjon a megerősített kocsiutakon a megálláskor.",
+                "ro": "Cel mai bine este să vedeți monumentul din mașină sau să faceți doar o scurtă oprire foto; drumul este expus și foarte vântos pe ploaie, rămâneți pe drumurile pavate pentru mașini.",
+                "en": "It's best to view the monument from the car or just make a short photo stop; the path is exposed and very windy in the rain, stay on the reinforced estate roads when stopping."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Park",
+                "hu": "Holkham Park",
+                "ro": "Holkham Park",
+                "en": "Holkham Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkwege für eine langsame Fahrt durch das Anwesen und beobachten Sie das Wild vom Fenster aus; die feuchte Parklandschaft wirkt im Regen besonders weitläufig und ruhig.",
+                "hu": "Használja a park utait egy lassú autózáshoz a birtokon keresztül, és figyelje a vadakat az ablakból; a nedves táj esőben különösen tágasnak és nyugodtnak tűnik az autóból nézve.",
+                "ro": "Folosiți drumurile din parc pentru o plimbare lentă cu mașina prin domeniu și observați animalele de la fereastră; peisajul umed pare deosebit de vast și liniștit văzut din mașină.",
+                "en": "Use the park roads for a slow drive through the estate and watch the wildlife from your window; the damp landscape feels especially vast and calm when viewed from the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Naturist Beach",
+                "hu": "Holkham Naturist Beach",
+                "ro": "Holkham Naturist Beach",
+                "en": "Holkham Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Strandparkplatz und genießen Sie die stürmische Aussicht; ein kurzer Spaziergang zu den Dünen erfordert volle Regenmontur, aber die Rückkehr ins warme Auto ist danach herrlich.",
+                "hu": "Hajtson a strand parkolójába, és élvezze a viharos kilátást; egy rövid séta a dűnékhez teljes esőfelszerelést igényel, de utána a visszatérés a meleg autóba igazi felüdülés lesz.",
+                "ro": "Conduceți până la parcarea plajei și bucurați-vă de vederea furtunoasă; o scurtă plimbare la dune necesită echipament de ploaie, dar întoarcerea în mașina caldă va fi o plăcere.",
+                "en": "Drive to the beach parking lot and enjoy the stormy views; a short walk to the dunes requires full rain gear, but returning to the warm car afterwards will be a true relief."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto bietet wohlige Wärme zwischen den Stopps. Beginnen Sie bei der Kirche und dem Garten, wo die winterliche Ruhe einkehrt. Der Nachmittag in Holkham Hall ist dank Heizung sehr angenehm. Beachten Sie, dass die Sonne gegen 17 Uhr untergeht; besuchen Sie den Obelisken und den Strand rechtzeitig im Tageslicht, bevor Sie im Dunkeln zurückfahren.",
+            "hu": "A téli nap az autóval kellemes meleget kínál a megállók között. Kezdjen a templomnál és a kertnél, ahol ilyenkor téli nyugalom honol. A délután a Holkham Hallban a fűtésnek köszönhetően nagyon kellemes. Ügyeljen rá, hogy a nap 17 óra körül nyugszik; az Obeliszket és a strandot még világosban keresse fel, mielőtt sötétben indulna vissza.",
+            "ro": "O zi de iarnă cu mașina oferă căldură plăcută între opriri. Începeți la biserică și grădină, unde domnește liniștea iernii. După-amiaza la Holkham Hall este foarte plăcută datorită încălzirii. Rețineți că soarele apune la 17:00; vizitați Obeliscul și plaja cât e încă lumină.",
+            "en": "A winter day by car offers cozy warmth between stops. Start at the church and garden, where winter tranquility sets in. The afternoon at Holkham Hall is very pleasant thanks to the heating. Note that the sun sets around 5 PM; visit the Obelisk and the beach while it's still light before heading back in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Withburga",
+                "hu": "Saint Withburga",
+                "ro": "Saint Withburga",
+                "en": "Saint Withburga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen kurzen Weg zur Kirche; im Inneren ist es friedlich, aber ziehen Sie sich warm an, da historische Gebäude im Winter oft kühler bleiben als das Auto.",
+                "hu": "Használja a közeli parkolót a templomig vezető rövid úthoz; odabent békés a hangulat, de öltözzön melegen, mert a történelmi épületek télen hűvösebbek maradhatnak, mint az autója.",
+                "ro": "Folosiți parcarea din apropiere pentru drumul scurt până la biserică; înăuntru este liniște, dar îmbrăcați-vă gros, deoarece clădirile istorice sunt mai reci decât mașina iarna.",
+                "en": "Use the nearby parking for a short walk to the church; it's peaceful inside, but dress warmly as historic buildings often stay cooler than your car during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Walled Garden",
+                "hu": "Walled Garden",
+                "ro": "Walled Garden",
+                "en": "Walled Garden"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Gartenlandschaft ist vom Auto aus schön zu sehen, aber die Gewächshäuser laden zum Aussteigen ein; tragen Sie eine warme Mütze gegen den kalten Wind auf den freien Wegen.",
+                "hu": "A fagyos táj az autóból is szép, de az üvegházak kicsalogatják a látogatót; viseljen meleg sapkát a hideg szél ellen a nyitott kerti utakon, mielőtt visszatérne a fűtött utastérbe.",
+                "ro": "Peisajul înghețat este frumos văzut din mașină, dar serele vă invită afară; purtați o căciulă groasă împotriva vântului rece pe potecile deschise înainte de a reveni în mașină.",
+                "en": "The frozen landscape is beautiful from the car, but the greenhouses entice you out; wear a warm hat against the cold wind on the open paths before returning to your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Hall",
+                "hu": "Holkham Hall",
+                "ro": "Holkham Hall",
+                "en": "Holkham Hall"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der wärmste Ort Ihres Ausflugs; verbringen Sie den Nachmittag in den beheizten Prunkräumen und planen Sie den Ausgang so, dass Sie die winterliche Abenddämmerung im Park erleben.",
+                "hu": "Ez a kirándulás legmelegebb pontja; töltse a délutánt a fűtött dísztermekben, és időzítse a távozást úgy, hogy még lássa a park téli alkonyati fényeit az autóból a korai sötétedés előtt.",
+                "ro": "Acesta este cel mai cald punct al excursiei; petreceți după-amiaza în sălile încălzite și planificați plecarea astfel încât să vedeți amurgul de iarnă din parc din mașină.",
+                "en": "This is the warmest spot of your trip; spend the afternoon in the heated state rooms and time your exit to catch the winter twilight in the park from your car before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Obelisk",
+                "hu": "Obelisk",
+                "ro": "Obelisk",
+                "en": "Obelisk"
+              },
+              "tip_5lang": {
+                "de": "Vom Hügel beim Obelisken hat man einen weiten Blick über das frostige Anwesen; da es hier oben sehr zugig sein kann, empfiehlt es sich, die Aussicht direkt aus dem Auto zu genießen.",
+                "hu": "Az Obeliszk melletti dombról messzire ellátni a fagyos birtok felett; mivel itt fent nagyon huzatos lehet az idő, ajánlott a kilátást közvetlenül az autóból élvezni a téli hidegben.",
+                "ro": "De pe dealul de lângă Obelisc se vede departe peste domeniul înghețat; deoarece aici sus poate fi curent, se recomandă să admirați priveliștea direct din mașină în frigul iernii.",
+                "en": "From the hill by the Obelisk, you can see far across the frosty estate; as it can be very drafty up here, it's recommended to enjoy the view directly from your car in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Park",
+                "hu": "Holkham Park",
+                "ro": "Holkham Park",
+                "en": "Holkham Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Park, um die im Winter oft präsenteren Wildtiere zu beobachten; die tiefstehende Sonne gegen 17 Uhr erzeugt lange Schatten und ein wunderbares Fotolicht.",
+                "hu": "Hajtson lassan a parkon át, hogy megfigyelje a télen gyakran bátrabb vadállatokat; a 17 óra körüli alacsony napállás hosszú árnyékokat és csodás fotós fényeket teremt a téli tájban.",
+                "ro": "Conduceți lent prin parc pentru a observa animalele sălbatice, care iarna sunt mai curajoase; soarele jos de la ora 17:00 creează umbre lungi și o lumină foto minunată în peisaj.",
+                "en": "Drive slowly through the park to observe the wildlife, which is often bolder in winter; the low sun around 5 PM creates long shadows and wonderful photo lighting in the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Holkham Naturist Beach",
+                "hu": "Holkham Naturist Beach",
+                "ro": "Holkham Naturist Beach",
+                "en": "Holkham Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Strandparkplatz lohnt sich für die klare Sicht auf den Horizont; ein kurzer Gang zu den Dünen belebt ungemein, aber unterschätzen Sie nicht den eiskalten Meereswind im Winter.",
+                "hu": "A strand parkolójáig tartó út megéri a tiszta kilátást a horizontra; egy rövid séta a dűnékig felpezsdíti az embert, de ne becsülje alá a jéghideg tengeri szelet a téli hónapokban.",
+                "ro": "Drumul până la parcarea plajei merită pentru vederea clară spre orizont; o scurtă plimbare până la dune vă va revigora, dar nu subestimați vântul înghețat al mării în lunile de iarnă.",
+                "en": "The drive to the beach parking lot is worth it for the clear view of the horizon; a short walk to the dunes is invigorating, but don't underestimate the icy sea wind in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

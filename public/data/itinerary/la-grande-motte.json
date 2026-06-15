@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt La Grande-Motte építészetének szívében, ahol megcsodálhatja a templomot és átsétálhat a gyaloghídon.\n\nDélben élvezze a nyüzsgő hangulatot a családbarát Cyber Station környékén.\n\nDélután az út a tengerparti kikötő felé vezet, ahol luxushajókat csodálhat meg.\n\nAz estét lazítva zárja a Point Zéro és az Azur Plage homokos partjain, élvezve a lemenő nap sugarait.",
         "ro": "Începeți dimineața în centrul arhitectural al orașului La Grande-Motte, admirând biserica unică și plimbându-vă pe podul pietonal.\n\nLa prânz, bucurați-vă de atmosfera vibrantă din jurul Cyber Station.\n\nDupă-amiaza, drumul vă poartă spre portul plin de bărci luxoase și clădiri piramidale.\n\nÎncheiați seara relaxându-vă pe plajele Point Zéro și Azur Plage, sub razele blânde ale soarelui.",
         "en": "Start the morning in the architectural heart of La Grande-Motte, admiring the unique church and strolling across the pedestrian bridge.\n\nAt midday, enjoy the lively atmosphere near the family-friendly Cyber Station.\n\nIn the afternoon, your path leads to the marina to marvel at the luxurious yachts.\n\nEnd the evening relaxing on the sandy shores of Point Zéro and Azur Plage under the sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die moderne Kirche Schutz vor dem Regen. Mittags sind die Brücken glatt, daher ist Vorsicht geboten. Der Nachmittag in der Cyber Station ist ideal im Trockenen. Abends spiegeln sich die Lichter der Marina wunderschön auf dem nassen Asphalt, während die Meeresbrise die Regentropfen verweht.",
+            "hu": "Reggel a modern templom nyújt menedéket a zápor elől. Délben a gyaloghíd környékén óvatosan lépkedjünk a csúszós felületeken. Délután a Cyber Station tökéletes fedett program. Este a kikötő fényei megcsillannak a vizes aszfalton, a tenger sós párája pedig még intenzívebb az esőben.",
+            "ro": "Dimineața, biserica modernă oferă adăpost împotriva ploii. La prânz, podurile sunt alunecoase, deci mergeți cu prudență. După-amiaza la Cyber Station este ideală pentru a sta la uscat. Seara, luminile marinei se reflectă frumos pe asfaltul umed, în timp ce briza mării împrăștie picăturile.",
+            "en": "In the morning, the modern church provides shelter from the rain. At noon, the footbridges are slippery, so walk with caution. The afternoon at Cyber Station is ideal for staying dry. In the evening, the marina lights reflect beautifully on the wet asphalt, while the sea breeze carries the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Augustin",
+                "hu": "Saint-Augustin templom",
+                "ro": "Biserica Saint-Augustin",
+                "en": "Saint-Augustin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das markante Gebäude als trockenen Rückzugsort und bewundern Sie die Lichtspiele der modernen Architektur bei grauem Himmel.",
+                "hu": "Használja a jellegzetes épületet száraz menedékként, és csodálja meg a modern építészet fényjátékait a szürke égbolt alatt.",
+                "ro": "Folosiți clădirea distinctivă ca refugiu uscat și admirați jocurile de lumină ale arhitecturii moderne sub cerul gri.",
+                "en": "Use the striking building as a dry retreat and admire the light play of modern architecture under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Fußgängerbrücke Saint-Jean",
+                "hu": "Saint-Jean gyaloghíd",
+                "ro": "Pasarela Saint-Jean",
+                "en": "Saint-Jean Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke zügig wegen Rutschgefahr auf dem Holzbelag und nutzen Sie den Regenschirm als Windschutz.",
+                "hu": "Haladjon tempósan a hídon a fa burkolatú felületek csúszóssága miatt, és használja az esernyőt szélfogóként is.",
+                "ro": "Traversați podul rapid din cauza riscului de alunecare pe suprafețele de lemn și folosiți umbrela ca scut împotriva vântului.",
+                "en": "Cross the bridge quickly due to the slippery wooden surfaces and use your umbrella as a wind shield."
+              }
+            },
+            {
+              "name": {
+                "de": "Cyber Station",
+                "hu": "Cyber Station",
+                "ro": "Cyber Station",
+                "en": "Cyber Station"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um eine Stunde im Warmen zu verbringen, während draußen der stärkste Regen an die Scheiben peitscht.",
+                "hu": "Tökéletes helyszín egy órát melegben tölteni, miközben kint a legerősebb eső kopog az ablakokon.",
+                "ro": "Un loc perfect pentru a petrece o oră la căldură, în timp ce afară ploaia cea mai puternică bate în ferestre.",
+                "en": "A perfect place to spend an hour in the warm while the heaviest rain lashes against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von La Grande-Motte",
+                "hu": "La Grande-Motte jachtkikötője",
+                "ro": "Portul de agrement La Grande-Motte",
+                "en": "Marina of La Grande-Motte"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den Arkaden der umliegenden Gebäude, um trocken zu bleiben, während Sie die tanzenden Boote beobachten.",
+                "hu": "Sétáljon a környező épületek árkádjai alatt, hogy szárazon maradjon, miközben a ringatózó hajókat figyeli.",
+                "ro": "Plimbați-vă sub arcadele clădirilor din jur pentru a rămâne uscat în timp ce priviți bărcile care dansează.",
+                "en": "Walk under the arcades of the surrounding buildings to stay dry while watching the dancing boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Point Zéro",
+                "hu": "Point Zéro",
+                "ro": "Point Zéro",
+                "en": "Point Zéro"
+              },
+              "tip_5lang": {
+                "de": "Die raue See bietet bei Regen ein dramatisches Panorama; tragen Sie feste Regenbekleidung gegen die Gischt.",
+                "hu": "A vad tenger drámai panorámát nyújt esőben; viseljen strapabíró esőkabátot a felcsapó vízpermet ellen.",
+                "ro": "Marea agitată oferă o panoramă dramatică pe ploaie; purtați haine de ploaie rezistente împotriva stropilor.",
+                "en": "The rough sea offers a dramatic panorama in the rain; wear heavy-duty rain gear against the sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Azur Plage",
+                "hu": "Azur Plage",
+                "ro": "Azur Plage",
+                "en": "Azur Plage"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der strandnahen Überdachungen und genießen Sie das Rauschen der Wellen im Regen.",
+                "hu": "Keressen menedéket az egyik strandközeli tető alatt, és élvezze a hullámok morajlását az esőben.",
+                "ro": "Căutați adăpost sub una dintre copertinele de lângă plajă și bucurați-vă de vuietul valurilor în ploaie.",
+                "en": "Seek shelter under one of the beachfront coverings and enjoy the sound of the waves in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist klar und frisch an der Kirche. Mittags wärmen wir uns in den windgeschützten Gassen der Stadt auf. Der Nachmittag in der Cyber Station bietet eine willkommene Pause im Geheizten. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen, goldenen Schein am Point Zéro.",
+            "hu": "A téli reggel friss és csípős a Saint-Augustin körül. Délben a szélvédett belső utcákban keressünk utat. Délután a digitális állomás melegében pihenhetünk. Este a nap korán nyugszik a tenger felett, a Point Zéro épületei pedig különleges sziluettet alkotnak a fagyos alkonyatban.",
+            "ro": "Dimineața de iarnă este clară și proaspătă lângă biserică. La prânz, ne încălzim pe străzile ferite de vânt. După-amiaza la Cyber Station oferă o pauză binevenită la căldură. Deoarece soarele apune deja în jurul orei 17:00, ne bucurăm de strălucirea aurie timpurie la Point Zéro.",
+            "en": "The winter morning is crisp and fresh by the church. At noon, we warm up in the wind-protected streets. The afternoon at Cyber Station provides a welcome break in the heat. As the sun sets around 17:00, we enjoy the early golden glow at Point Zéro."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Augustin",
+                "hu": "Saint-Augustin templom",
+                "ro": "Biserica Saint-Augustin",
+                "en": "Saint-Augustin Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Betonwände speichern etwas Wärme; ein ruhiger Ort, um sich vor dem langen Winterspaziergang kurz aufzuwärmen.",
+                "hu": "A vastag betonfalak tartják a hőt; nyugodt hely egy rövid bemelegedéshez a hosszú téli séta előtt.",
+                "ro": "Pereții groși de beton rețin căldura; un loc liniștit pentru a vă încălzi scurt înainte de lunga plimbare de iarnă.",
+                "en": "The thick concrete walls retain some heat; a calm place to warm up briefly before the long winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Fußgängerbrücke Saint-Jean",
+                "hu": "Saint-Jean gyaloghíd",
+                "ro": "Pasarela Saint-Jean",
+                "en": "Saint-Jean Footbridge"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da der Wind hier ungehindert durchpfeift; der Blick auf die Architektur ist im Winterlicht klarer.",
+                "hu": "Öltözzön rétegesen, mert itt akadálytalanul fúj a szél; az építészeti látvány a téli fényben még tisztább.",
+                "ro": "Îmbrăcați-vă gros, deoarece vântul suflă nestingherit aici; vederea arhitecturală este mai clară în lumina iernii.",
+                "en": "Dress warmly as the wind blows freely here; the architectural view is clearer in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Cyber Station",
+                "hu": "Cyber Station",
+                "ro": "Cyber Station",
+                "en": "Cyber Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räumlichkeiten für eine digitale Pause, um die Finger für den Rest des Weges wieder aufzuwärmen.",
+                "hu": "Használja ki a fűtött helyiséget egy digitális szünetre, hogy ujjai újra bemelegedjenek az út hátralévő részéhez.",
+                "ro": "Profitați de spațiile încălzite pentru o pauză digitală, pentru a vă încălzi degetele pentru restul drumului.",
+                "en": "Take advantage of the heated premises for a digital break to warm up your fingers for the rest of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von La Grande-Motte",
+                "hu": "La Grande-Motte jachtkikötője",
+                "ro": "Portul de agrement La Grande-Motte",
+                "en": "Marina of La Grande-Motte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison; ohne die Sommermassen wirken die weißen Pyramidenbauten im Winterlicht fast magisch.",
+                "hu": "Élvezze az utószezon nyugalmát; a nyári tömeg nélkül a fehér piramisépületek szinte varázslatosak a téli fényben.",
+                "ro": "Bucurați-vă de liniștea extrasezonului; fără mulțimile de vară, clădirile piramidale albe par magice în lumina iernii.",
+                "en": "Enjoy the off-season peace; without the summer crowds, the white pyramid buildings look almost magical in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Point Zéro",
+                "hu": "Point Zéro",
+                "ro": "Point Zéro",
+                "en": "Point Zéro"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang über dem Meer zu erleben, bevor die Kälte der Nacht einsetzt.",
+                "hu": "Érkezzen 17:00 előtt, hogy átélje a tenger feletti naplementét, mielőtt beállna az éjszakai fagyos hideg.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea apusul peste mare înainte să se instaleze frigul nopții.",
+                "en": "Arrive before 17:00 to witness the sunset over the sea before the night chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Azur Plage",
+                "hu": "Azur Plage",
+                "ro": "Azur Plage",
+                "en": "Azur Plage"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Strandspaziergang hilft gegen den Winterblues; Mütze und Handschuhe sind wegen der Meeresbrise Pflicht.",
+                "hu": "Egy rövid, frissítő tengerparti séta segít a téli lehangoltság ellen; sapka és kesztyű a tengeri szél miatt kötelező.",
+                "ro": "O scurtă plimbare revigorantă pe plajă ajută împotriva melancoliei de iarnă; căciula și mănușile sunt obligatorii din cauza brizei.",
+                "en": "A short, refreshing beach walk helps against winter blues; hat and gloves are mandatory due to the sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Induljon reggel az idilli Étang de l'Or mellől, amely tökéletes a természet kedvelőinek és a friss levegőn kerékpározóknak.\n\nDélben kerekezzen tovább a Grand Travers és Couchant hosszú strandjai mentén.\n\nDélután a Rose des Sables pihenője után fedezze fel a belváros ikonikus építészetét.\n\nAz este a nyüzsgő kikötőben és a Point Zéro partján ér véget a gyönyörű naplemente kíséretében.",
         "ro": "Porniți dimineața de la idilicul Étang de l'Or, perfect pentru iubitorii de natură și cicliști în aerul proaspăt.\n\nLa prânz, pedalați de-a lungul plajelor întinse Grand Travers și Couchant.\n\nDupă-amiaza, în urma unei pauze la Rose des Sables, explorați arhitectura marcantă a centrului.\n\nSeara se încheie în portul animat și la Point Zéro, admirând un apus de soare superb pe malul mării.",
         "en": "Start the morning at the idyllic Étang de l'Or, perfect for nature lovers and cycling in the fresh morning air.\n\nAt midday, pedal along the expansive beaches of Grand Travers and Couchant.\n\nIn the afternoon, after a break at Rose des Sables, explore the striking architecture of the city center.\n\nThe evening ends at the vibrant marina and Point Zéro, enjoying a beautiful seaside sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zum Étang de l'Or ist bei Regen mystisch, aber Vorsicht auf den rutschigen Wegen. Mittags am Grand Travers peitscht der Wind den Regen seitlich. Die Kirche bietet eine trockene Pause. In der Marina spiegeln sich die Lichter in den Pfützen, was eine ganz eigene Ästhetik schafft.",
+            "hu": "Az Étang de l'Or felé vezető út esőben misztikus, de vigyázat a csúszós ösvényeken. Délben a Grand Traversnél a szél oldalról fújja az esőt. A templom száraz pihenőt kínál. A kikötőben a fények tükröződnek a tócsákban, ami sajátos esztétikát teremt.",
+            "ro": "Drumul spre Étang de l'Or este mistic pe ploaie, dar atenție la potecile alunecoase. La prânz, la Grand Travers, vântul suflă ploaia din lateral. Biserica oferă o pauză uscată. În marină, luminile se reflectă în bălți, creând o estetică aparte.",
+            "en": "The ride to Étang de l'Or is mystical in the rain, but watch out for slippery paths. At noon at Grand Travers, the wind blows rain sideways. The church offers a dry break. In the marina, lights reflect in puddles, creating a unique aesthetic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang de l'Or",
+                "hu": "Étang de l'Or",
+                "ro": "Étang de l'Or",
+                "en": "Étang de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Uferwegen, diese können bei Regen sehr schlammig und rutschig für Fahrradreifen sein.",
+                "hu": "Vigyázzon a kiépítetlen parti utakon, esőben ezek nagyon sárosak és csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Atenție pe potecile neamenajate de pe mal, acestea pot fi foarte noroioase și alunecoase pentru anvelopele de bicicletă pe ploaie.",
+                "en": "Be careful on the unpaved shore paths; they can get very muddy and slippery for bike tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Travers",
+                "hu": "Grand Travers",
+                "ro": "Grand Travers",
+                "en": "Grand Travers"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine gute Regenbrille, um trotz des peitschenden Windes und Wassers am Strandweg die Sicht zu behalten.",
+                "hu": "Viseljen jó minőségű esővédő szemüveget, hogy a parton verődő szél és víz ellenére is jól lásson.",
+                "ro": "Purtați ochelari de protecție buni pentru a menține vizibilitatea în ciuda vântului și a apei de pe drumul de coastă.",
+                "en": "Wear good rain goggles to maintain visibility despite the whipping wind and water along the coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Couchant",
+                "hu": "Couchant strand",
+                "ro": "Plaja Couchant",
+                "en": "Couchant Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Radwege nahe der Promenade, um tiefe Pfützen und weichen Sand auf dem Weg zu vermeiden.",
+                "hu": "Használja a sétány közeli aszfaltozott kerékpárutakat, hogy elkerülje a mély tócsákat és a felázott homokot.",
+                "ro": "Folosiți pistele de biciclete asfaltate de lângă faleză pentru a evita bălțile adânci și nisipul moale de pe drum.",
+                "en": "Use the paved bike paths near the promenade to avoid deep puddles and soft sand on your way."
+              }
+            },
+            {
+              "name": {
+                "de": "Rose des Sables",
+                "hu": "Rose des Sables",
+                "ro": "Rose des Sables",
+                "en": "Rose des Sables"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurz Schutz unter den architektonischen Strukturen, um den härtesten Regenschauer abzuwarten, bevor Sie weiterfahren.",
+                "hu": "Keressen rövid menedéket az építészeti struktúrák alatt, hogy megvárja a leghevesebb záport a továbbindulás előtt.",
+                "ro": "Căutați un scurt adăpost sub structurile arhitecturale pentru a aștepta trecerea celei mai grele ploi înainte de a pleca.",
+                "en": "Seek brief shelter under the architectural structures to wait out the heaviest downpour before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Augustin",
+                "hu": "Saint-Augustin templom",
+                "ro": "Biserica Saint-Augustin",
+                "en": "Saint-Augustin Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern ab und nutzen Sie die Kirche für eine willkommene Trockenpause.",
+                "hu": "Támassza le a biciklit az előtetők alatt, és használja a templomot egy jól megérdemelt száraz pihenőre.",
+                "ro": "Parcați bicicleta sub copertine și folosiți biserica pentru o pauză uscată binevenită.",
+                "en": "Park your bike under the overhangs and use the church for a welcome dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von La Grande-Motte",
+                "hu": "La Grande-Motte jachtkikötője",
+                "ro": "Portul de agrement La Grande-Motte",
+                "en": "Marina of La Grande-Motte"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die Metallstege am Hafen, diese werden bei Nässe extrem rutschig für schmale Reifen.",
+                "hu": "Közlekedjen óvatosan a kikötői fémhidakon, mert nedvesen rendkívül csúszóssá válnak a keskeny gumik számára.",
+                "ro": "Circulați cu prudență pe pasarelele metalice din port, deoarece devin extrem de alunecoase pentru anvelopele înguste când sunt ude.",
+                "en": "Ride carefully over the metal walkways in the harbor; they become extremely slippery for narrow tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Point Zéro",
+                "hu": "Point Zéro",
+                "ro": "Point Zéro",
+                "en": "Point Zéro"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour hier ab; die salzige Gischt bei Regen erfordert nach der Rückkehr eine gründliche Reinigung des Fahrrads.",
+                "hu": "Itt fejezze be a túrát; az esővel kevert sós pára miatt a visszatérés után alapos kerékpártisztítás szükséges.",
+                "ro": "Încheiați turul aici; briza sărată amestecată cu ploaia necesită o curățare temeinică a bicicletei la întoarcere.",
+                "en": "Finish your tour here; the salty spray mixed with rain requires a thorough bike cleaning after you return."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum See ist eiskalt, aber die klare Luft bietet weite Sicht. Mittags halten wir das Tempo am Grand Travers hoch, um warm zu bleiben. Die Kirche am Nachmittag ist ein wichtiger Aufwärmstopp. Da es früh dunkel wird, nutzen wir das letzte Tageslicht gegen 16:30 Uhr am Yachthafen.",
+            "hu": "A reggeli biciklizés a tónál jéghideg, de a tiszta levegő messzi kilátást enged. Délben tartsuk a tempót a Grand Traversnél, hogy melegen maradjunk. A délutáni templomlátogatás fontos melegedő megálló. Mivel korán sötétedik, a kikötőben használjuk ki az utolsó fényeket 16:30 körül.",
+            "ro": "Cursa de dimineață spre lac este înghețată, dar aerul curat oferă o vizibilitate vastă. La prânz, menținem ritmul la Grand Travers pentru a ne încălzi. Biserica de după-amiază este un punct important de încălzire. Deoarece se întunecă devreme, profităm de ultima lumină în jurul orei 16:30 în port.",
+            "en": "The morning ride to the lake is freezing, but the clear air offers distant views. At noon, keep the pace up at Grand Travers to stay warm. The afternoon church visit is an important warming stop. Since it gets dark early, use the last light around 16:30 at the marina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang de l'Or",
+                "hu": "Étang de l'Or",
+                "ro": "Étang de l'Or",
+                "en": "Étang de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der kalte Nordwind über dem offenen Wasser die Hände beim Lenken schnell auskühlt.",
+                "hu": "Viseljen szélálló kesztyűt, mert a nyílt víz felett fújó hideg északi szél gyorsan lehűti a kezeket kormányzás közben.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece vântul rece de nord de peste apă vă va răci rapid mâinile în timp ce virați.",
+                "en": "Wear windproof gloves as the cold north wind over the open water will quickly chill your hands while steering."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Travers",
+                "hu": "Grand Travers",
+                "ro": "Grand Travers",
+                "en": "Grand Travers"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet am Strandweg; eine Sonnenbrille ist trotz Kälte für die Sicherheit unerlässlich.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat a parti úton; a napszemüveg a hideg ellenére is elengedhetetlen a biztonsághoz.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor pe drumul de coastă; ochelarii de soare sunt esențiali pentru siguranță în ciuda frigului.",
+                "en": "The winter sun is low and can be blinding on the coastal path; sunglasses are essential for safety despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Couchant",
+                "hu": "Couchant strand",
+                "ro": "Plaja Couchant",
+                "en": "Couchant Beach"
+              },
+              "tip_5lang": {
+                "de": "Stoppen Sie nur kurz für Fotos, um durch die ständige Bewegung den Körper auf Temperatur zu halten.",
+                "hu": "Csak rövid időre álljon meg fotózni, hogy a folyamatos mozgással testhőmérsékletét szinten tartsa.",
+                "ro": "Opriți-vă doar scurt pentru fotografii pentru a vă menține temperatura corpului prin mișcare continuă.",
+                "en": "Stop only briefly for photos to keep your body temperature up through constant movement."
+              }
+            },
+            {
+              "name": {
+                "de": "Rose des Sables",
+                "hu": "Rose des Sables",
+                "ro": "Rose des Sables",
+                "en": "Rose des Sables"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Ort für Dehnübungen; die kalte Meeresluft erfordert aktive Muskeln, um Krämpfe beim Radfahren zu vermeiden.",
+                "hu": "Használja a helyszínt nyújtásra; a hideg tengeri levegőben aktív izmokra van szükség a görcsök elkerülése érdekében.",
+                "ro": "Folosiți locația pentru exerciții de stretching; aerul rece de mare necesită mușchi activi pentru a evita crampele.",
+                "en": "Use the spot for stretching; the cold sea air requires active muscles to avoid cramps while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Augustin",
+                "hu": "Saint-Augustin templom",
+                "ro": "Biserica Saint-Augustin",
+                "en": "Saint-Augustin Church"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist windgeschützt; ideal, um die Thermoskanne mit Tee auszupacken und neue Energie zu tanken.",
+                "hu": "A belső tér szélvédett; ideális hely, hogy elővegye a termoszát egy forró teára és újult erőre kapjon.",
+                "ro": "Interiorul este ferit de vânt; ideal pentru a scoate termosul cu ceai și pentru a vă reîncărca energiile.",
+                "en": "The interior is protected from the wind; ideal for taking out your thermos for some hot tea and recharging."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von La Grande-Motte",
+                "hu": "La Grande-Motte jachtkikötője",
+                "ro": "Portul de agrement La Grande-Motte",
+                "en": "Marina of La Grande-Motte"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Fahrradbeleuchtung vor der Abfahrt, da die Dämmerung im Winter bereits sehr früh einsetzt.",
+                "hu": "Indulás előtt ellenőrizze a kerékpár világítását, mivel télen már nagyon korán elkezdődik a szürkület.",
+                "ro": "Verificați luminile bicicletei înainte de plecare, deoarece amurgul începe foarte devreme iarna.",
+                "en": "Check your bike lights before departing, as dusk sets in very early during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Point Zéro",
+                "hu": "Point Zéro",
+                "ro": "Point Zéro",
+                "en": "Point Zéro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zum Horizont; die winterliche Luftfeuchtigkeit ist geringer, was die Sichtweite verbessert.",
+                "hu": "Élvezze a tiszta kilátást a horizontig; a téli páratartalom alacsonyabb, ami javítja a látótávolságot.",
+                "ro": "Bucurați-vă de vederea clară până la orizont; umiditatea iernii este mai scăzută, ceea ce îmbunătățește vizibilitatea.",
+                "en": "Enjoy the clear view to the horizon; winter humidity is lower, which improves visibility."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Reggel autózzon kényelmesen az Étang de l'Or és a Grand Travers felé, ahol hatalmas terek és természet várja a vízparton.\n\nDélben látogasson el Échirolles területére, és játsszon egy kört a minigolfpályán.\n\nDélután parkoljon le a központban, hogy felfedezze a templomot és a Couchant negyedet.\n\nZárja az estét egy kellemes, hangulatos sétával a jachtkikötőben és a Point Zéro homokos partjánál.",
         "ro": "Conduceți confortabil dimineața spre Étang de l'Or și Grand Travers, unde vă puteți bucura de spațiu și natură.\n\nLa prânz, vizitați zona Échirolles și jucați o rundă de minigolf cu familia.\n\nDupă-amiaza, parcați în centru pentru a explora biserica și cartierul plin de viață Couchant.\n\nÎncheiați seara cu o plimbare relaxantă prin portul pitoresc și pe plaja Point Zéro de la malul mării.",
         "en": "Drive comfortably in the morning to Étang de l'Or and Grand Travers, where you can enjoy wide open spaces and coastal nature.\n\nAt midday, visit the Échirolles recreation area and play a round of mini-golf with the family.\n\nIn the afternoon, park in the center to explore the church and the lively Couchant district.\n\nFinish the evening with a relaxing walk around the marina and the Point Zéro beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto bleiben Sie zwischen den Stopps trocken. Morgens am See reicht ein kurzer Blick aus dem Fenster. Mittags am Grand Travers parken wir nah am Geschehen. Die Kirche bietet eine ideale Pause im Trockenen. Abends am Point Zéro genießen wir die dramatische Meeresstimmung bequem vom Fahrzeug aus.",
+            "hu": "Az autóban szárazon maradhat a megállók között. Reggel a tónál elég egy rövid pillantás az ablakból. Délben a Grand Traversnél parkoljunk közel az eseményekhez. A templom ideális száraz szünetet kínál. Este a Point Zéro-nál a kocsi kényelméből csodálhatjuk a drámai tengeri hangulatot.",
+            "ro": "În mașină rămâneți uscat între opriri. Dimineața la lac, o scurtă privire pe geam este suficientă. La prânz la Grand Travers, parcăm aproape de acțiune. Biserica oferă o pauză ideală la uscat. Seara la Point Zéro, admirăm marea dramatică din confortul vehiculului.",
+            "en": "In the car, you stay dry between stops. In the morning at the lake, a quick look out the window is enough. At noon at Grand Travers, park close to the action. The church offers an ideal dry break. In the evening at Point Zéro, enjoy the dramatic sea atmosphere from the comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang de l'Or",
+                "hu": "Étang de l'Or",
+                "ro": "Étang de l'Or",
+                "en": "Étang de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um ein Einsinken des Fahrzeugs im aufgeweichten Boden am Seeufer zu vermeiden.",
+                "hu": "Parkoljon szilárd burkolaton, hogy elkerülje a jármű elsüllyedését a tóparti felázott talajon.",
+                "ro": "Parcați pe o suprafață solidă pentru a evita scufundarea vehiculului în solul înmuiat de pe malul lacului.",
+                "en": "Park on solid ground to avoid the vehicle sinking into the softened soil by the lakeshore."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Travers",
+                "hu": "Grand Travers",
+                "ro": "Grand Travers",
+                "en": "Grand Travers"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die küstennahen Parkplätze, um nur kurz dem Regen ausgesetzt zu sein, während Sie den Blick auf die Dünen genießen.",
+                "hu": "Használja a parthoz közeli parkolókat, hogy csak rövid ideig érje az eső, miközben a dűnék látványában gyönyörködik.",
+                "ro": "Folosiți parcările de lângă coastă pentru a fi expus la ploaie doar scurt timp în timp ce admirați dunele.",
+                "en": "Use the parking lots near the coast to be exposed to the rain for only a short time while enjoying the dune views."
+              }
+            },
+            {
+              "name": {
+                "de": "Échirolles",
+                "hu": "Échirolles",
+                "ro": "Échirolles",
+                "en": "Échirolles"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die verkehrsberuhigten Zonen, da Pfützen die Sicht auf Bodenwellen und Markierungen einschränken können.",
+                "hu": "Hajtson lassan a forgalomcsillapított övezetekben, mert a tócsák elfedhetik a fekvőrendőröket és az útburkolati jeleket.",
+                "ro": "Conduceți încet în zonele cu trafic limitat, deoarece bălțile pot ascunde denivelările și marcajele rutiere.",
+                "en": "Drive slowly in traffic-calmed zones, as puddles can hide speed bumps and road markings."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf",
+                "hu": "Minigolf",
+                "ro": "Minigolf",
+                "en": "Mini-Golf"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie vorab, ob die Anlage bei starkem Regen geöffnet ist; oft bietet das Clubhaus einen trockenen Unterstand.",
+                "hu": "Előre ellenőrizze, hogy nyitva van-e a pálya heves esőzésben; a klubház gyakran száraz menedéket nyújt.",
+                "ro": "Verificați din timp dacă terenul este deschis în caz de ploaie abundentă; adesea clubul oferă un adăpost uscat.",
+                "en": "Check in advance if the course is open during heavy rain; the clubhouse often provides dry shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Couchant",
+                "hu": "Couchant",
+                "ro": "Couchant",
+                "en": "Couchant"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum überdachten Teil der Promenade lohnt sich für den Blick auf das aufgewühlte Meer.",
+                "hu": "Egy rövid sprint a parkolóból a sétány fedett részéig megéri a felkorbácsolt tenger látványáért.",
+                "ro": "Un scurt sprint de la parcare până la partea acoperită a falezei merită pentru vederea mării agitate.",
+                "en": "A short sprint from the parking lot to the covered part of the promenade is worth it for the view of the churning sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Augustin",
+                "hu": "Saint-Augustin templom",
+                "ro": "Biserica Saint-Augustin",
+                "en": "Saint-Augustin Church"
+              },
+              "tip_5lang": {
+                "de": "Direkt vor der Kirche gibt es oft Parkmöglichkeiten; nutzen Sie den kurzen Weg, um trocken ins Innere zu gelangen.",
+                "hu": "Közvetlenül a templom előtt gyakran van parkolóhely; használja ki a rövid utat, hogy szárazon jusson be az épületbe.",
+                "ro": "Există adesea locuri de parcare chiar în fața bisericii; profitați de drumul scurt pentru a intra uscat în clădire.",
+                "en": "There are often parking spots right in front of the church; take advantage of the short path to get inside dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von La Grande-Motte",
+                "hu": "La Grande-Motte jachtkikötője",
+                "ro": "Portul de agrement La Grande-Motte",
+                "en": "Marina of La Grande-Motte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Hafenblick durch die Panoramascheibe Ihres Autos, während der Regen auf das Dach prasselt.",
+                "hu": "Élvezze a kikötői kilátást az autó panorámaablakán keresztül, miközben az eső kopog a tetőn.",
+                "ro": "Bucurați-vă de vederea portului prin geamul panoramic al mașinii în timp ce ploaia bate pe plafon.",
+                "en": "Enjoy the harbor view through your car's panoramic window while the rain drums on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Point Zéro",
+                "hu": "Point Zéro",
+                "ro": "Point Zéro",
+                "en": "Point Zéro"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt kann salzige Rückstände auf dem Auto hinterlassen; eine kurze Wäsche nach dem Ausflug ist empfehlenswert.",
+                "hu": "A tengeri permet sós lerakódásokat hagyhat az autón; a kirándulás után egy gyors mosás ajánlott.",
+                "ro": "Stropii de mare pot lăsa reziduuri de sare pe mașină; se recomandă o spălare rapidă după excursie.",
+                "en": "Sea spray can leave salty residue on the car; a quick wash after the trip is recommended."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Sitzheizung ist die winterliche Tour sehr komfortabel. Morgens am See bewundern wir den Frost auf den Schilfhalmen. Mittags am Grand Travers schützt das Auto vor dem beißenden Wind. Die Kirche bietet eine besinnliche Pause. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir den Point Zéro genau zur blauen Stunde.",
+            "hu": "Az ülésfűtésnek köszönhetően a téli túra nagyon kényelmes. Reggel a tónál a nádasokon megülő zúzmarát csodáljuk. Délben a Grand Traversnél az autó megvéd a metsző széltől. A templom meghitt szünetet kínál. Mivel a nap 17:00 körül nyugszik, a Point Zéro-hoz pontosan a kék órában érkezünk.",
+            "ro": "Datorită încălzirii în scaune, turul de iarnă este foarte confortabil. Dimineața la lac admirăm chiciura pe trestie. La prânz la Grand Travers, mașina ne protejează de vântul tăios. Biserica oferă o pauză liniștită. Deoarece soarele apune în jurul orei 17:00, ajungem la Point Zéro exact la ora albastră.",
+            "en": "Thanks to seat heating, the winter tour is very comfortable. In the morning at the lake, we admire the frost on the reeds. At noon at Grand Travers, the car protects us from the biting wind. The church offers a peaceful break. As the sun sets around 17:00, we reach Point Zéro exactly at the blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang de l'Or",
+                "hu": "Étang de l'Or",
+                "ro": "Étang de l'Or",
+                "en": "Étang de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf den Zufahrtswegen zum See, besonders in den frühen, schattigen Morgenstunden.",
+                "hu": "Ügyeljen a felfagyásokra a tóhoz vezető utakon, különösen a kora reggeli, árnyékos órákban.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile de acces spre lac, în special în orele timpurii și umbroase ale dimineții.",
+                "en": "Watch out for icy patches on the access roads to the lake, especially during the early, shaded morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Travers",
+                "hu": "Grand Travers",
+                "ro": "Grand Travers",
+                "en": "Grand Travers"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; genießen Sie den Blick auf die winterlichen Dünen kurz bei abgestelltem Fahrzeug.",
+                "hu": "Ne járassa feleslegesen a motort; élvezze a téli dűnék látványát rövid ideig leállított járművel.",
+                "ro": "Nu lăsați motorul pornit inutil; bucurați-vă de vederea dunelor de iarnă scurt timp cu vehiculul oprit.",
+                "en": "Don't leave the engine idling unnecessarily; enjoy the view of the winter dunes briefly with the vehicle turned off."
+              }
+            },
+            {
+              "name": {
+                "de": "Échirolles",
+                "hu": "Échirolles",
+                "ro": "Échirolles",
+                "en": "Échirolles"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann zwischen den Gebäuden blenden; stellen Sie sicher, dass Ihre Windschutzscheibe innen und außen sauber ist.",
+                "hu": "Az alacsonyan járó nap elvakíthat az épületek között; ügyeljen rá, hogy a szélvédő kívül-belül tiszta legyen.",
+                "ro": "Soarele jos poate fi orbitor între clădiri; asigurați-vă că parbrizul este curat pe interior și exterior.",
+                "en": "The low sun can be blinding between buildings; make sure your windshield is clean inside and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf",
+                "hu": "Minigolf",
+                "ro": "Minigolf",
+                "en": "Mini-Golf"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist weniger Betrieb; nutzen Sie die kurzen Wege vom Parkplatz, um die frische Luft bei einer schnellen Runde zu genießen.",
+                "hu": "Télen kisebb a forgalom; használja ki a rövid utat a parkolóból, hogy élvezze a friss levegőt egy gyors kör erejéig.",
+                "ro": "Iarna este mai puțin aglomerat; profitați de distanța scurtă de la parcare pentru a vă bucura de aerul curat la o rundă rapidă.",
+                "en": "It's less crowded in winter; take advantage of the short walk from the parking lot to enjoy the fresh air during a quick round."
+              }
+            },
+            {
+              "name": {
+                "de": "Couchant",
+                "hu": "Couchant",
+                "ro": "Couchant",
+                "en": "Couchant"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt am Meer sind im Winter leicht zu finden; ideal für einen schnellen Blick auf die Wellen ohne langes Suchen.",
+                "hu": "A közvetlen tengerparti parkolók télen könnyen elérhetők; ideális egy gyors pillantásra a hullámokra hosszú keresgélés nélkül.",
+                "ro": "Parcările direct de pe malul mării sunt ușor de găsit iarna; ideal pentru o privire rapidă la valuri fără căutări lungi.",
+                "en": "Beachfront parking is easy to find in winter; ideal for a quick look at the waves without searching for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Augustin",
+                "hu": "Saint-Augustin templom",
+                "ro": "Biserica Saint-Augustin",
+                "en": "Saint-Augustin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Heizung des Autos kurz zu entlasten und die kühle, spirituelle Atmosphäre im Inneren zu spüren.",
+                "hu": "Használja ki a megállót, hogy kicsit pihentesse az autó fűtését, és érezze a belső tér hűvös, spirituális atmoszféráját.",
+                "ro": "Profitați de oprire pentru a lăsa puțin încălzirea mașinii și pentru a simți atmosfera răcoroasă și spirituală din interior.",
+                "en": "Take advantage of the stop to give the car's heating a break and feel the cool, spiritual atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von La Grande-Motte",
+                "hu": "La Grande-Motte jachtkikötője",
+                "ro": "Portul de agrement La Grande-Motte",
+                "en": "Marina of La Grande-Motte"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am späten Nachmittag lässt die weißen Fassaden der Stadt im Winter besonders rein und beeindruckend wirken.",
+                "hu": "A késő délutáni lágy fények télen különösen tisztának és lenyűgözőnek mutatják a város fehér homlokzatait.",
+                "ro": "Lumina caldă de după-amiază târzie face ca fațadele albe ale orașului să pară deosebit de curate și impresionante iarna.",
+                "en": "The soft late afternoon light makes the white facades of the city look especially pure and impressive in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Point Zéro",
+                "hu": "Point Zéro",
+                "ro": "Point Zéro",
+                "en": "Point Zéro"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Sonnenuntergang im Auto; die Farben am Horizont sind im Winter oft intensiver und klarer als im Sommer.",
+                "hu": "Maradjon az autóban a naplementéhez; a horizont színei télen gyakran intenzívebbek és tisztábbak, mint nyáron.",
+                "ro": "Rămâneți în mașină pentru apus; culorile de la orizont sunt adesea mai intense și mai clare iarna decât vara.",
+                "en": "Stay in the car for the sunset; the colors on the horizon are often more intense and clearer in winter than in summer."
+              }
+            }
+          ]
+        }
       }
     }
   }

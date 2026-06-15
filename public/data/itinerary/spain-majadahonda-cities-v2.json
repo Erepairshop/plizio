@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Teatro por los Rincones kulturális központjában és a történelmi városházánál.\n\nDélben tegyen egy kellemes sétát észak felé, az El Abajón lenyűgöző örökségéhez.\n\nDélután merüljön el a helyi művészeti életben a Cuadros Clubban, és csodálja meg a békés San Miguel Arcángelt.\n\nAz estét a Párizs Park kiterjedt zöldövezetében tett pihentető sétával zárhatja.",
         "ro": "Începeți dimineața explorând inima culturală la Teatro por los Rincones și primăria istorică.\n\nLa amiază, faceți o plimbare plăcută spre nord către fascinanta moștenire de la El Abajón.\n\nDupă-amiaza, pătrundeți în scena de artă la Cuadros Club și admirați pașnicul San Miguel Arcángel.\n\nÎncheiați seara cu o plimbare relaxantă pe aleile verzi din întinsul Parc Paris.",
         "en": "Start your morning exploring the cultural heart at Teatro por los Rincones and the historic City Hall.\n\nMidday brings a pleasant stroll north towards the fascinating heritage of El Abajón.\n\nIn the afternoon, dive into the local art scene at Cuadros Club and admire the peaceful San Miguel Arcángel.\n\nConclude your evening with a relaxing walk through the expansive green paths of Paris Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Theater, wo der Regen draußen nur eine ferne Kulisse bildet. Mittags führt der Weg zum Rathausplatz, dessen Arkaden trockene Durchgänge bieten. Am Nachmittag dient der Cuadros Club als perfekter kultureller Unterschlupf vor den Schauern. Den Abschluss bildet ein kurzer, erfrischender Spaziergang durch den nebligen Park unter dem Schutz eines großen Schirms.",
+            "hu": "A reggel a színház falai között indul, ahol az eső kopogása csak hangulatos háttérzaj. Délben a városháza környékén sétálunk, kihasználva az épületek nyújtotta fedett részeket. Délután a Cuadros Club művészeti galériája nyújt menedéket a záporok elől. Az estét a parkban zárjuk, ahol a ködös táj különleges látványt nyújt, de a csúszós utak miatt óvatosan lépkedjünk az ernyőnk alatt.",
+            "ro": "Dimineața începe la adăpost în teatru, unde ploaia de afară devine doar un fundal sonor relaxant. La prânz, explorăm zona primăriei, folosind arcadele clădirilor pentru a rămâne uscați. După-amiaza, Cuadros Club oferă refugiul cultural perfect împotriva averselor. Seara se încheie cu o scurtă plimbare prin parcul cețos, unde natura miroase proaspăt sub protecția unei umbrele solide.",
+            "en": "The morning starts indoors at the theater, making the rain outside a mere atmospheric backdrop. At noon, we explore near the city hall, utilizing building overhangs to stay dry. In the afternoon, Cuadros Club serves as the perfect cultural refuge from the downpours. The day concludes with a refreshing walk through the misty park; the damp earth smells wonderful under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro por los Rincones",
+                "hu": "Teatro por los Rincones",
+                "ro": "Teatro por los Rincones",
+                "en": "Teatro por los Rincones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aufführungen im trockenen Innenraum und nutzen Sie die Garderobe, um Ihren nassen Regenschirm bequem zu verstauen.",
+                "hu": "Élvezze a bensőséges benti előadásokat a száraz nézőtéren, a vizes ernyőket pedig hagyja a ruhatárban a kényelmes nézelődéshez.",
+                "ro": "Bucurați-vă de spectacolele intime în interiorul primitor și lăsați umbrela umedă la garderobă pentru un confort deplin în timpul vizitei.",
+                "en": "Enjoy the intimate indoor performances in the cozy hall and make use of the cloakroom to store your wet umbrella while you watch."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Majadahonda",
+                "hu": "Majadahonda Városháza",
+                "ro": "Primăria Majadahonda",
+                "en": "Majadahonda City Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von den umliegenden Arkaden aus, die Ihnen auch bei starkem Regen eine gute Sicht ohne nass zu werden bieten.",
+                "hu": "Csodálja meg az épületet a környező árkádok alól, amelyek még heves esőben is száraz rálátást biztosítanak a történelmi homlokzatra.",
+                "ro": "Admirați arhitectura primăriei de sub arcadele din apropiere, care vă oferă o perspectivă excelentă fără a vă expune ploii directe.",
+                "en": "Admire the architecture from the surrounding arcades, which provide a great view of the facade while keeping you perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "El Abajón",
+                "hu": "El Abajón",
+                "ro": "El Abajón",
+                "en": "El Abajón"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Ort wirkt im Regen besonders mystisch, aber achten Sie auf das Kopfsteinpflaster, das bei Nässe sehr rutschig sein kann.",
+                "hu": "Ez a történelmi helyszín esőben különösen misztikus, de figyeljen a macskakövekre, mert nedvesen rendkívül csúszóssá válhatnak.",
+                "ro": "Acest loc istoric pare misterios sub ploaie, însă aveți grijă la pavajul de piatră care poate deveni foarte alunecos când este ud.",
+                "en": "This historic spot feels quite mystical in the rain, but watch your step on the cobblestones as they can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuadros Club",
+                "hu": "Cuadros Club",
+                "ro": "Cuadros Club",
+                "en": "Cuadros Club"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Club als idealen Zufluchtsort vor dem Wetter und vertiefen Sie sich in die Kunst, während draußen der Sturm tobt.",
+                "hu": "Használja a klubot ideális menedékként az időjárás elől, és merüljön el a művészetben, amíg odakint elvonul a nagyobb zápor.",
+                "ro": "Folosiți clubul ca pe un refugiu ideal împotriva vremii și scufundați-vă în artă în timp ce afară ploaia continuă să cadă.",
+                "en": "Use the club as an ideal escape from the elements and immerse yourself in the art collection while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Miguel Arcángel",
+                "hu": "San Miguel Arcángel Templom",
+                "ro": "Biserica San Miguel Arcángel",
+                "en": "San Miguel Arcángel Church"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik der Regentropfen auf dem Kirchendach erzeugt eine meditative Stille; tragen Sie wasserfeste Schuhe für den Weg zum Eingang.",
+                "hu": "A tetőn kopogó esőcseppek meditatív csendet árasztanak bent; a bejárathoz vezető úton viseljen vízálló cipőt a tócsák ellen.",
+                "ro": "Sunetul ploii pe acoperișul bisericii creează o atmosferă meditativă; purtați încălțăminte impermeabilă pentru drumul până la intrare.",
+                "en": "The sound of rain on the church roof creates a meditative silence inside; wear waterproof shoes for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pariser Park",
+                "hu": "Párizs Park",
+                "ro": "Parcul Paris",
+                "en": "Paris Park"
+              },
+              "tip_5lang": {
+                "de": "Die Seen wirken im Regen wie ein Gemälde, aber bleiben Sie auf den befestigten Wegen, um tiefen Matsch und nasse Füße zu vermeiden.",
+                "hu": "A tavak esőben olyanok, mint egy festmény, de maradjon a burkolt ösvényeken, hogy elkerülje a sarat és a lábak átázását.",
+                "ro": "Lacurile par desprinse dintr-un tablou pe ploaie, dar rămâneți pe aleile pavate pentru a evita noroiul și udarea picioarelor.",
+                "en": "The lakes look like a painting in the rain, but stay on the paved paths to avoid mud and keep your feet dry during the stroll."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im Theater, wo die Heizung für behagliche Wärme sorgt. Mittags wärmt ein kurzer Spaziergang zum historischen Rathaus bei klarem, kaltem Wetter auf. Der Nachmittag im Cuadros Club bietet Schutz vor dem sinkenden Thermometer. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir die blaue Stunde im winterlich kahlen, aber charmanten Park.",
+            "hu": "A friss téli reggel a színházban indul, ahol a fűtés kellemes meleget ad a látogatóknak. Délben a városháza felé vesszük az irányt, élvezve a csípős, de tiszta levegőt. A délutáni múzeumlátogatás során felmelegedhetünk a Cuadros Clubban. Mivel a nap korán, 17:00 körül nyugszik, a sötétedés előtti utolsó fényeket a téli álmát alvó parkban töltjük.",
+            "ro": "O dimineață răcoroasă de iarnă începe la teatru, unde încălzirea oferă un confort termic binevenit. La prânz, o plimbare spre primărie ne înviorează în aerul rece și curat. După-amiaza la Cuadros Club ne permite să ne încălzim printre opere de artă. Deoarece soarele apune devreme, în jurul orei 17:00, savurăm ora albastră în parcul iernatic înainte de lăsarea serii.",
+            "en": "A crisp winter morning starts at the theater, where the heating provides cozy warmth. At noon, a brisk walk to the city hall refreshes you in the clear, cold air. The afternoon at Cuadros Club is a great way to warm up as temperatures drop. Since the sun sets early around 17:00, we enjoy the blue hour in the charming winter park before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro por los Rincones",
+                "hu": "Teatro por los Rincones",
+                "ro": "Teatro por los Rincones",
+                "en": "Teatro por los Rincones"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie frühzeitig, um sich im geheizten Foyer aufzuwärmen, bevor Sie die kulturelle Darbietung in warmer Umgebung genießen.",
+                "hu": "Érkezzen időben, hogy a fűtött előtérben felmelegedhessen, mielőtt a kellemes hőmérsékletű nézőtéren átadná magát az előadásnak.",
+                "ro": "Sosiți devreme pentru a vă încălzi în foierul primitor înainte de a viziona spectacolul într-un mediu termic confortabil.",
+                "en": "Arrive a bit early to warm up in the heated foyer before enjoying the cultural performance in a cozy indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Majadahonda",
+                "hu": "Majadahonda Városháza",
+                "ro": "Primăria Majadahonda",
+                "en": "Majadahonda City Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft tiefe Schatten auf die Fassade; tragen Sie einen Schal gegen den kalten Wind auf dem offenen Platz davor.",
+                "hu": "A téli nap alacsonyan jár és hosszú árnyékokat vet a homlokzatra; viseljen sálat a nyitott téren fújó hideg szél ellen.",
+                "ro": "Soarele de iarnă proiectează umbre lungi pe fațadă; purtați un fular gros împotriva vântului rece din piața deschisă din față.",
+                "en": "The low winter sun casts long shadows on the facade; wear a warm scarf against the cold breeze in the open square in front."
+              }
+            },
+            {
+              "name": {
+                "de": "El Abajón",
+                "hu": "El Abajón",
+                "ro": "El Abajón",
+                "en": "El Abajón"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn die Temperaturen am höchsten sind, und bewundern Sie die klare Sicht ohne Sommerdunst.",
+                "hu": "Látogasson el ide délidőben, amikor a legenyhébb az idő, és csodálja meg a kristálytiszta kilátást a nyári pára nélkül.",
+                "ro": "Vizitați acest loc la prânz, când temperaturile sunt mai blânde, și admirați vizibilitatea clară fără pâcla specifică verii.",
+                "en": "Visit this spot around midday when the temperature is at its highest and enjoy the crystal-clear winter views without any haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuadros Club",
+                "hu": "Cuadros Club",
+                "ro": "Cuadros Club",
+                "en": "Cuadros Club"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für den späten Nachmittag, um der Kälte draußen zu entfliehen und sich bei Kunstbetrachtung aufzuwärmen.",
+                "hu": "Ez a tökéletes helyszín a késő délutánhoz, hogy elmeneküljön a kinti hideg elől, és művészetnézés közben felmelegedjen.",
+                "ro": "Acesta este locul perfect pentru după-amiaza târzie, oferind un refugiu cald împotriva gerului de afară printre galerii de artă.",
+                "en": "This is the perfect late afternoon spot to escape the outdoor chill and warm up while browsing the indoor art collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Miguel Arcángel",
+                "hu": "San Miguel Arcángel Templom",
+                "ro": "Biserica San Miguel Arcángel",
+                "en": "San Miguel Arcángel Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet eine friedliche Zuflucht vor dem Winterfrost; nutzen Sie die kurzen Wege zwischen den Gebäuden, um warm zu bleiben.",
+                "hu": "A belső tér békés menedéket nyújt a téli fagy elől; használja ki az épületek közti rövid távolságokat, hogy ne hűljön ki.",
+                "ro": "Interiorul oferă un refugiu liniștit împotriva gerului iernii; profitați de distanțele scurte între clădiri pentru a rămâne cald.",
+                "en": "The interior offers a peaceful sanctuary from the winter frost; take advantage of the short walking distances to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Pariser Park",
+                "hu": "Párizs Park",
+                "ro": "Parcul Paris",
+                "en": "Paris Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Ihren Spaziergang unbedingt vor 17:00 Uhr, um das letzte Tageslicht zu nutzen, bevor die winterliche Dunkelheit hereinbricht.",
+                "hu": "Mindenképpen 17:00 előtt tegye meg a sétát, hogy kihasználja az utolsó fényeket, mielőtt beáll a téli sötétség és hideg.",
+                "ro": "Faceți plimbarea neapărat înainte de ora 17:00 pentru a profita de ultima lumină, înainte de lăsarea întunericului și a frigului.",
+                "en": "Make sure to finish your walk before 17:00 to catch the last rays of daylight before the winter darkness and cold set in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa a túrát a Cotoblanco Kilátó panorámájával, majd tekerjen a vibráló Kulturális Színház felé.\n\nDélben a történelmi központon keresztül a lenyűgöző Városháza épületéhez érkezik.\n\nDélután kerékpározzon fel az El Abajónhoz és a nyüzsgő Pérez de la Riva Kulturális Központhoz.\n\nA napot a Párizs Park gyönyörű környezetében, a lenyugvó napfényben lazítva fejezheti be.",
         "ro": "Începeți traseul la Punctul de belvedere Cotoblanco, apoi pedalați spre Teatrul Cultural vibrant.\n\nLa amiază, traversați centrul istoric până la impresionanta Primărie a orașului.\n\nDupă-amiaza, mergeți cu bicicleta spre El Abajón și animatul Centru Cultural Pérez de la Riva.\n\nÎncheiați ziua de ciclism relaxându-vă în peisajul frumos din Parcul Paris, la apus.",
         "en": "Kick off your ride at Cotoblanco Viewpoint for panoramic views before pedaling to the vibrant Cultural Theater.\n\nMidday takes you through the historical center to the striking City Hall.\n\nIn the afternoon, cycle up to El Abajón and the bustling Pérez de la Riva Cultural Center.\n\nFinish your cycling day unwinding amidst the beautiful scenery of Paris Park as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour erfordert Vorsicht auf den Radwegen. Am Morgen bietet der Cotoblanco-Punkt eine dramatische Aussicht auf Wolkenformationen. Mittags dient das Carmen-Conde-Theater als trockener Stützpunkt. Nachmittags erkunden wir das Pérez-de-la-Riva-Zentrum, um den Schauern zu entgehen. Die Tour endet im Park, wo wir auf den nassen Wegen besonders vorsichtig bremsen sollten.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel a vizes utakon. Reggel a Cotoblanco kilátónál drámai felhőjátékot láthatunk. Napközben a Carmen Conde Színház nyújt száraz bázist a bringásoknak. Délután a Pérez de la Riva központban pihenünk meg a záporok elől. A túrát a parkban zárjuk, ahol a nedves aszfalton fokozott figyelemmel kell fékeznünk a csúszásveszély miatt.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție sporită pe pistele umede. Dimineața, punctul Cotoblanco oferă o vedere dramatică asupra norilor. La prânz, Teatrul Carmen Conde servește ca bază uscată pentru bicicliști. După-amiaza explorăm Centrul Pérez de la Riva pentru a evita aversele. Turul se încheie în parc, unde trebuie să frânăm cu grijă pe aleile ude.",
+            "en": "A rainy bike tour requires extra caution on the wet paths. In the morning, Cotoblanco Viewpoint offers dramatic views of passing storm clouds. At noon, Carmen Conde Theater provides a dry base for cyclists. In the afternoon, we explore the Pérez de la Riva Center to escape the heavier showers. The tour ends in the park, where you should brake carefully on the slick paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aussichtspunkt Cotoblanco",
+                "hu": "Cotoblanco Kilátó",
+                "ro": "Punctul de belvedere Cotoblanco",
+                "en": "Cotoblanco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier schlammig sein; stellen Sie Ihr Fahrrad auf festem Untergrund ab und genießen Sie das Spiel der Wolken.",
+                "hu": "A talaj itt sáros lehet; állítsa le a kerékpárt szilárd burkolaton, és élvezze az esőfelhők látványos vonulását a látóhatáron.",
+                "ro": "Solul poate fi noroios aici; parcați bicicleta pe o suprafață solidă și bucurați-vă de spectacolul norilor de ploaie la orizont.",
+                "en": "The ground can be muddy here; park your bike on a solid surface and enjoy the dramatic sight of rain clouds on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturtheater Carmen Conde",
+                "hu": "Carmen Conde Kulturális Színház",
+                "ro": "Teatrul Cultural Carmen Conde",
+                "en": "Carmen Conde Cultural Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften und sich im Trockenen über das aktuelle Kulturprogramm der Stadt zu informieren.",
+                "hu": "Ideális helyszín, hogy kicsit kiszellőztesse az esőruházatot, és a szárazban tájékozódjon a város aktuális kulturális kínálatáról.",
+                "ro": "Un loc ideal pentru a vă aerisi echipamentul de ploaie și pentru a vă informa la adăpost despre oferta culturală actuală a orașului.",
+                "en": "An ideal spot to air out your rain gear briefly and check out the city's current cultural offerings while staying dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Majadahonda",
+                "hu": "Majadahonda Városháza",
+                "ro": "Primăria Majadahonda",
+                "en": "Majadahonda City Hall"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf Fahrbahnmarkierungen, da diese bei Nässe extrem rutschig für Fahrradreifen sein können.",
+                "hu": "Leszálláskor ügyeljen az útfelfestésekre, mert azok nedvesen rendkívül csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Aveți grijă la marcajele rutiere când coborâți de pe bicicletă, deoarece pot fi extrem de alunecoase pentru anvelope pe ploaie.",
+                "en": "Be careful with road markings when dismounting, as they can be extremely slippery for bike tires during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "El Abajón",
+                "hu": "El Abajón",
+                "ro": "El Abajón",
+                "en": "El Abajón"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto an und bewahren Sie Ihr Handy in einer wasserdichten Hülle auf, um es vor Spritzwasser zu schützen.",
+                "hu": "Csak rövid időre álljon meg fotózni, és tartsa a telefonját vízálló tokban, hogy megvédje a felcsapódó víztől és esőtől.",
+                "ro": "Opriți-vă doar scurt pentru o fotografie și păstrați telefonul într-o husă impermeabilă pentru a-l proteja de stropii de apă.",
+                "en": "Stop only briefly for a photo and keep your phone in a waterproof case to protect it from splashes and the constant rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Pérez de la Riva",
+                "hu": "Pérez de la Riva Kulturális Központ",
+                "ro": "Centrul Cultural Pérez de la Riva",
+                "en": "Pérez de la Riva Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer in der Nähe und wärmen Sie sich im Inneren des modernen Zentrums bei einer Ausstellung auf.",
+                "hu": "Használja a közeli fedett kerékpártárolókat, és melegedjen fel a modern központ belső tereiben egy kiállítás megtekintése közben.",
+                "ro": "Folosiți rastelele de biciclete acoperite din apropiere și încălziți-vă în interiorul centrului modern vizitând o expoziție.",
+                "en": "Use the covered bike racks nearby and warm up inside the modern center's exhibition halls while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pariser Park",
+                "hu": "Párizs Park",
+                "ro": "Parcul Paris",
+                "en": "Paris Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Kurven, da herabgefallenes Laub in Verbindung mit Regen eine gefährliche Rutschbahn bilden kann.",
+                "hu": "Haladjon lassan a kanyarokban, mert a lehullott levelek az esővel keveredve veszélyesen csúszós felületet alkothatnak.",
+                "ro": "Circulați cu viteză redusă în curbe, deoarece frunzele căzute amestecate cu ploaia pot crea o suprafață foarte alunecoasă.",
+                "en": "Ride slowly through the curves, as fallen leaves mixed with rain can create a dangerously slippery surface on the paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare, kalte Luft von Majadahonda. Am Morgen bietet der Cotoblanco-Punkt eine weite Sicht über die kahle Landschaft. Mittags wärmen wir uns im Carmen-Conde-Theater auf, bevor es zum Rathaus weitergeht. Der Nachmittag im Pérez-de-la-Riva-Zentrum bietet die nötige Wärme vor dem letzten Etappenziel. Wegen der frühen Dunkelheit beenden wir die Tour im Park mit voller Beleuchtung.",
+            "hu": "A téli kerékpártúra Majadahonda tiszta és hideg levegőjén vezet keresztül. Reggel a Cotoblanco kilátótól messzire ellátni a kopár táj felett. Délben a Carmen Conde Színházban melegszünk fel, mielőtt a Városházához tekernénk. A délutáni pihenőt a Pérez de la Riva központban tartjuk a hideg ellen. A korai sötétedés miatt a parkban már égő lámpákkal fejezzük be a túrát.",
+            "ro": "Tura de iarnă cu bicicleta traversează aerul curat și rece din Majadahonda. Dimineața, punctul Cotoblanco oferă o vedere clară peste peisajul hibernal. La prânz, ne încălzim la Teatrul Carmen Conde înainte de a pedala spre Primărie. După-amiaza la Centrul Pérez de la Riva oferă căldura necesară. Din cauza întunericului timpuriu, încheiem turul în parc cu luminile aprinse.",
+            "en": "The winter bike tour takes you through the clear, chilly air of Majadahonda. In the morning, Cotoblanco Viewpoint offers expansive views over the winter landscape. At noon, we warm up at the Carmen Conde Theater before cycling to the City Hall. The afternoon break at the Pérez de la Riva Center provides much-needed warmth. Due to the early sunset, we finish the tour in the park with our bike lights on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aussichtspunkt Cotoblanco",
+                "hu": "Cotoblanco Kilátó",
+                "ro": "Punctul de belvedere Cotoblanco",
+                "en": "Cotoblanco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind an diesem exponierten Punkt im Winter besonders schneidend sein kann.",
+                "hu": "Viseljen szélálló kesztyűt, mert a menetszél ezen a nyitott ponton télen különösen metsző és hideg lehet a kerékpározáskor.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer în acest punct expus poate fi foarte tăios și rece iarna.",
+                "en": "Wear windproof gloves, as the wind chill at this exposed viewpoint can be particularly biting during winter cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturtheater Carmen Conde",
+                "hu": "Carmen Conde Kulturális Színház",
+                "ro": "Teatrul Cultural Carmen Conde",
+                "en": "Carmen Conde Cultural Theater"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt, um die Gelenke aufzuwärmen; die warme Innenluft ist eine Wohltat nach der kalten Fahrt.",
+                "hu": "Használja ki a pihenőt az ízületei átmozgatására és felmelegítésére; a benti meleg levegő megváltás a hideg tekerés után.",
+                "ro": "Profitați de popas pentru a vă încălzi articulațiile; aerul cald din interior este o binecuvântare după pedalatul prin frig.",
+                "en": "Take advantage of this break to warm up your joints; the warm indoor air is a great relief after riding in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Majadahonda",
+                "hu": "Majadahonda Városháza",
+                "ro": "Primăria Majadahonda",
+                "en": "Majadahonda City Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Sonne, um den Sattel für die Weiterfahrt nicht zu stark auskühlen zu lassen.",
+                "hu": "Parkolja le a kerékpárját a napsütötte részeken, hogy a nyereg ne hűljön ki túlságosan a túra folytatása előtt.",
+                "ro": "Parcați bicicleta la soare pentru a preveni răcirea excesivă a șeii înainte de a vă continua călătoria prin oraș.",
+                "en": "Try to park your bike in a sunny spot to prevent the saddle from getting too cold before you continue your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "El Abajón",
+                "hu": "El Abajón",
+                "ro": "El Abajón",
+                "en": "El Abajón"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet oft; vergessen Sie Ihre Sonnenbrille nicht, um die Straße sicher im Blick zu behalten.",
+                "hu": "Az alacsonyan járó téli nap gyakran vakít; ne felejtse el a napszemüvegét, hogy biztonságosan láthassa az utat tekerés közben.",
+                "ro": "Soarele de iarnă fiind jos pe cer vă poate orbi; nu uitați ochelarii de soare pentru a vedea drumul în siguranță.",
+                "en": "The low winter sun often creates a strong glare; don't forget your sunglasses to keep a safe eye on the road while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Pérez de la Riva",
+                "hu": "Pérez de la Riva Kulturális Központ",
+                "ro": "Centrul Cultural Pérez de la Riva",
+                "en": "Pérez de la Riva Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um die Thermoskanne aufzufüllen und sich vor der letzten Etappe des Tages noch einmal richtig aufzuwärmen.",
+                "hu": "Kiváló megálló, hogy újratöltse a termoszt, és az utolsó szakasz előtt még egyszer alaposan átmelegedjen a modern épületben.",
+                "ro": "Un popas excelent pentru a vă umple termosul și pentru a vă încălzi bine în clădirea modernă înainte de ultima etapă.",
+                "en": "An excellent stop to refill your thermos and get properly warmed up inside the modern building before the final leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Pariser Park",
+                "hu": "Párizs Park",
+                "ro": "Parcul Paris",
+                "en": "Paris Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Brücken im Park; diese Holz- oder Metallflächen können bei Kälte extrem glatt sein.",
+                "hu": "Ügyeljen a zúzmarára a park hídjain; ezek a fa- vagy fémfelületek hidegben rendkívül csúszósak és veszélyesek lehetnek.",
+                "ro": "Atenție la brumă pe podurile din parc; aceste suprafețe din lemn sau metal pot fi extrem de alunecoase pe timp de ger.",
+                "en": "Watch out for frost on the park bridges; these wood or metal surfaces can be extremely slippery and dangerous in the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a Párizs Parkban, majd vezessen a békés San Miguel Arcángelhez.\n\nDélben irány a Cuadros Club, hogy elmerüljön a helyi művészeti kifejezésmódokban.\n\nDélután fedezze fel az El Abajón történelmi jelentőségét és a lenyűgöző Alfredo Kraus Auditóriumot.\n\nAz autós túrát a Cotoblanco Kilátó csodálatos naplementés panorámájával zárhatja.",
         "ro": "Începeți dimineața cu o plimbare prin Parcul Paris înainte de a conduce spre Biserica San Miguel Arcángel.\n\nLa amiază, mergeți la Cuadros Club pentru a vă cufunda în arta locală.\n\nDupă-amiaza, descoperiți importanța istorică a zonei El Abajón și Auditoriul Alfredo Kraus.\n\nÎncheiați-vă turul cu mașina admirând apusul spectaculos de la Punctul de belvedere Cotoblanco.",
         "en": "Start your morning with a refreshing stroll around the expansive Paris Park before driving to San Miguel Arcángel.\n\nBy midday, head to Cuadros Club to immerse yourself in local artistic expressions.\n\nIn the afternoon, discover the historical significance of El Abajón and the Alfredo Kraus Auditorium.\n\nFinish your driving tour with spectacular sunset views at Cotoblanco Viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Majadahonda auch bei Regen komfortabel erkunden. Wir parken direkt am Park für einen kurzen Blick auf den See. Mittags bietet die Kirche eine ruhige, trockene Pause. Nachmittags verbringen wir viel Zeit im Cuadros Club und im Auditorium, um den stärksten Güssen zu entgehen. Den Tag beschließen wir am Cotoblanco-Punkt, wo wir die Aussicht gemütlich aus dem trockenen Wagen genießen können.",
+            "hu": "Autóval Majadahonda esőben is kényelmesen felfedezhető. Közvetlenül a park mellett parkolunk egy rövid tóparti nézelődéshez. Délben a templom nyújt csendes, száraz pihenőt. A délutánt a Cuadros Clubban és az Auditóriumban töltjük, elkerülve a leghevesebb záporokat. A napot a Cotoblanco kilátónál zárjuk, ahol a kocsi ablakából, szárazon élvezhetjük a látványt.",
+            "ro": "Cu mașina, Majadahonda poate fi explorată confortabil chiar și pe ploaie. Parcăm chiar lângă parc pentru o scurtă privire spre lac. La prânz, biserica oferă o pauză liniștită și uscată. După-amiaza o petrecem la Cuadros Club și la Auditoriu, evitând ploile torențiale. Încheiem ziua la punctul Cotoblanco, admirând peisajul din confortul și uscăciunea mașinii.",
+            "en": "By car, Majadahonda can be comfortably explored even in the rain. We park right by the park for a quick look at the lake. At noon, the church provides a quiet, dry break. In the afternoon, we spend time at the Cuadros Club and the Auditorium to avoid the heaviest downpours. We end the day at Cotoblanco Viewpoint, enjoying the scenery from the dry comfort of the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pariser Park",
+                "hu": "Párizs Park",
+                "ro": "Parcul Paris",
+                "en": "Paris Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg durch den Regen kurz zu halten; die Wege können Pfützen bilden.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat; az ösvényeken mély tócsák alakulhatnak ki.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; pe alei se pot forma bălți adânci și noroi.",
+                "en": "Park as close to the entrance as possible to shorten your time in the rain; the paths can develop deep puddles during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Miguel Arcángel",
+                "hu": "San Miguel Arcángel Templom",
+                "ro": "Biserica San Miguel Arcángel",
+                "en": "San Miguel Arcángel Church"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie die Scheibenheizung rechtzeitig ein, um Beschlagen durch die Feuchtigkeit beim Ein- und Aussteigen zu vermeiden.",
+                "hu": "Időben kapcsolja be a szélvédőfűtést, hogy elkerülje a párásodást, amit a ki- és beszálláskor bekerülő nedvesség okoz.",
+                "ro": "Porniți dezaburirea parbrizului din timp pentru a evita condensul cauzat de umiditatea adusă în mașină la urcare și coborâre.",
+                "en": "Turn on the windshield defroster early to prevent fogging caused by the moisture brought into the car when getting in and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuadros Club",
+                "hu": "Cuadros Club",
+                "ro": "Cuadros Club",
+                "en": "Cuadros Club"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze mit festem Untergrund, um beim Aussteigen nicht direkt in den Matsch oder tiefe Wasserlachen zu treten.",
+                "hu": "Használjon szilárd burkolatú parkolóhelyeket, hogy kiszálláskor ne közvetlenül a sárba vagy mély pocsolyákba lépjen.",
+                "ro": "Căutați locuri de parcare cu suprafață solidă pentru a nu călca direct în noroi sau în bălți adânce la coborârea din mașină.",
+                "en": "Look for parking spaces with a solid surface so you don't step directly into mud or deep puddles when exiting the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "El Abajón",
+                "hu": "El Abajón",
+                "ro": "El Abajón",
+                "en": "El Abajón"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Starkregen überschwemmt sein; fahren Sie langsam durch stehendes Wasser, um Aquaplaning zu vermeiden.",
+                "hu": "A hozzávezető utak heves esőben víz alá kerülhetnek; hajtson lassan az állóvízen keresztül az aquaplaning elkerülése érdekében.",
+                "ro": "Drumurile de acces pot fi inundate la ploi torențiale; conduceți încet prin apa acumulată pentru a evita acvaplanarea.",
+                "en": "Access roads may flood during heavy rain; drive slowly through standing water to avoid aquaplaning and maintain control."
+              }
+            },
+            {
+              "name": {
+                "de": "Alfredo Kraus Auditorium",
+                "hu": "Alfredo Kraus Auditórium",
+                "ro": "Auditoriul Alfredo Kraus",
+                "en": "Alfredo Kraus Auditorium"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein idealer Stopp, um das Auto im Parkhaus zu lassen und die Kultur im trockenen, modernen Gebäude zu genießen.",
+                "hu": "Ideális megálló, hogy az autót a mélygarázsban hagyva, szárazon élvezze a kultúrát ebben a modern és tágas épületben.",
+                "ro": "Un popas ideal pentru a lăsa mașina în parcarea subterană și a vă bucura de cultură la adăpost în această clădire modernă.",
+                "en": "An ideal stop to leave your car in the parking garage and enjoy the cultural events inside this modern, dry building."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Cotoblanco",
+                "hu": "Cotoblanco Kilátó",
+                "ro": "Punctul de belvedere Cotoblanco",
+                "en": "Cotoblanco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem Wagen; die Regentropfen auf der Scheibe verleihen der Landschaft einen malerischen Filter.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból; a szélvédőn lefutó esőcseppek festői szűrőt kölcsönöznek a tájnak.",
+                "ro": "Savurați panorama direct din mașină; picăturile de ploaie de pe parbriz oferă peisajului un aspect pitoresc de tablou.",
+                "en": "Enjoy the panorama directly from your car; the raindrops on the windshield give the landscape a picturesque, filtered look."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am frostigen Morgen am Park, während die Sitzheizung für Wärme sorgt. Mittags besuchen wir die Kirche, um einen Moment der Stille im Schutz der dicken Mauern zu finden. Der Nachmittag gehört der Kunst im Cuadros Club und im Auditorium. Den krönenden Abschluss bildet der Sonnenuntergang gegen 17:00 Uhr am Cotoblanco-Punkt, den wir warm eingepackt vom Fahrzeug aus bewundern.",
+            "hu": "A téli autós túra a fagyos reggelen a parknál indul, miközben az ülésfűtés gondoskodik a kényelemről. Délben a templomot keressük fel, hogy a vastag falak védelmében találjunk csendes pihenőt. A délután a művészeté a Cuadros Clubban és az Auditóriumban. A nap fénypontja a 17:00 körüli naplemente a Cotoblanco kilátónál, amit melegen, a kocsiból nézhetünk végig.",
+            "ro": "Turul de iarnă cu mașina începe într-o dimineață geroasă la parc, în timp ce încălzirea în scaune asigură confortul necesar. La prânz vizităm biserica pentru un moment de liniște între zidurile groase. După-amiaza este dedicată artei la Cuadros Club și Auditoriu. Punctul culminant este apusul de la ora 17:00 la punctul Cotoblanco, admirat din căldura mașinii.",
+            "en": "The winter car tour begins on a frosty morning at the park, with the seat heaters providing much-needed comfort. At noon, we visit the church to find a moment of peace within its thick, protective walls. The afternoon is dedicated to art at the Cuadros Club and the Auditorium. The highlight is the sunset around 17:00 at Cotoblanco Viewpoint, watched from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pariser Park",
+                "hu": "Párizs Park",
+                "ro": "Parcul Paris",
+                "en": "Paris Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz; die Schattenbereiche unter den Bäumen können am Morgen noch sehr glatt sein.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban; a fák alatti árnyékos részek reggelente még nagyon csúszósak és veszélyesek lehetnek.",
+                "ro": "Atenție la porțiunile înghețate din parcare; zonele umbrite de sub copaci pot fi foarte alunecoase la primele ore ale dimineții.",
+                "en": "Watch out for icy patches in the parking lot; shaded areas under the trees can remain very slippery in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Miguel Arcángel",
+                "hu": "San Miguel Arcángel Templom",
+                "ro": "Biserica San Miguel Arcángel",
+                "en": "San Miguel Arcángel Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen; die kurzen Wege zwischen den Stopps halten das Auto auch so angenehm temperiert.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben; a megállók közötti rövid távolságok is kellemes hőmérsékleten tartják az utasteret.",
+                "ro": "Nu lăsați motorul pornit inutil staționând; distanțele scurte între obiective vor menține mașina la o temperatură plăcută.",
+                "en": "Don't let the engine idle unnecessarily; the short distances between stops are enough to keep the car interior pleasantly warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuadros Club",
+                "hu": "Cuadros Club",
+                "ro": "Cuadros Club",
+                "en": "Cuadros Club"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Winterkälte draußen zu lassen; prüfen Sie vor der Abfahrt den Reifendruck, da dieser bei Kälte sinken kann.",
+                "hu": "Ideális hely, hogy kint hagyja a téli hideget; indulás előtt ellenőrizze a guminyomást, mert az a hidegben jelentősen csökkenhet.",
+                "ro": "Un loc ideal pentru a lăsa gerul afară; verificați presiunea în pneuri înainte de plecare, deoarece aceasta scade la temperaturi mici.",
+                "en": "A great place to escape the winter chill; check your tire pressure before leaving, as it often drops significantly in cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "El Abajón",
+                "hu": "El Abajón",
+                "ro": "El Abajón",
+                "en": "El Abajón"
+              },
+              "tip_5lang": {
+                "de": "Vergewissern Sie sich, dass genügend Frostschutzmittel in der Scheibenwaschanlage ist, um eine klare Sicht bei Streusalz auf den Straßen zu haben.",
+                "hu": "Győződjön meg róla, hogy van elég fagyálló a szélvédőmosóban, hogy tiszta legyen a kilátás az utakra szórt só és sár ellenére.",
+                "ro": "Asigurați-vă că aveți suficient lichid de parbriz antigel pentru a menține vizibilitatea în ciuda sării și noroiului de pe drumuri.",
+                "en": "Make sure you have enough antifreeze windshield fluid to maintain a clear view despite the salt and grime on the winter roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Alfredo Kraus Auditorium",
+                "hu": "Alfredo Kraus Auditórium",
+                "ro": "Auditoriul Alfredo Kraus",
+                "en": "Alfredo Kraus Auditorium"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Belüftungssystem sorgt für eine perfekte, warme Atmosphäre; ideal für einen längeren Aufenthalt am kalten Nachmittag.",
+                "hu": "A modern szellőzőrendszer tökéletes, meleg légkört biztosít; ideális egy hosszabb látogatáshoz a hűvös téli délutánon.",
+                "ro": "Sistemul modern de ventilație asigură o atmosferă caldă perfectă; ideal pentru o vizită prelungită într-o după-amiază rece.",
+                "en": "The modern ventilation system ensures a perfectly warm atmosphere; ideal for an extended visit on a cold winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Cotoblanco",
+                "hu": "Cotoblanco Kilátó",
+                "ro": "Punctul de belvedere Cotoblanco",
+                "en": "Cotoblanco Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, nutzen Sie das Abblendlicht bei der Rückfahrt durch die teils unbeleuchteten Außenbezirke.",
+                "hu": "Mivel a nap korán nyugszik, használja a tompított fényszórót a visszaúton a részben kivilágítatlan külvárosi részeken keresztül.",
+                "ro": "Deoarece soarele apune devreme, folosiți faza scurtă la întoarcere prin zonele periferice care pot fi parțial neiluminate.",
+                "en": "As the sun sets early, use your low beam headlights on the return journey through the partially unlit suburban areas."
+              }
+            }
+          ]
+        }
       }
     }
   }

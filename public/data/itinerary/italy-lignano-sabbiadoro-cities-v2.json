@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a napot a híres Sabbiadoro aranyhomokos partján. Az Adria feletti reggeli fények tökéletesek a békés kezdéshez, miközben felfedezi a kutyabarát zónákat és élvezi a szellőt.\nMidday: Ahogy a nap magasabbra hág, sétáljon át az ingyenes strandszakaszokra. Az élénk hangulat fokozódik, ahogy mindenki élvezi a tiszta, sekély vizet, ami ideális időszak a pihenésre.\nAfternoon: A délutánt az elegáns Portofino szektor és a sportos számozott strandirodák között töltheti. A partvonal a strandröplabdától és a nevetéstől hangos a barátságos napsütésben.\nEvening: Zárja a tengerparti sétát a nyüzsgő Ufficio 10 környékén. Élvezze a lassú sétát a sétányon, miközben az ég rózsaszínbe fordul, és álljon meg egy hagyományos olasz fagylaltra.",
         "ro": "Morning: Începeți ziua pășind pe faimosul nisip auriu din Sabbiadoro. Lumina dimineții peste Marea Adriatică este perfectă pentru un început liniștit, în timp ce explorați plaja.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre zonele de plajă liberă. Atmosfera devine vibrantă, localnicii bucurându-se de apele limpezi, fiind momentul ideal pentru relaxare.\nAfternoon: Petreceți după-amiaza mișcându-vă între sectorul elegant Portofino și atmosfera sportivă a oficiilor de plajă numerotate. Litoralul este plin de volei și râsete sub soarele cald.\nEvening: Încheiați plimbarea pe coastă în zona vibrantă Ufficio 10. Bucurați-vă de o plimbare lentă pe promenadă pe măsură ce cerul devine roz, oprindu-vă pentru o înghețată tradițională.",
         "en": "Morning: Begin your day by stepping onto the famous golden sands of Sabbiadoro. The morning light over the Adriatic Sea is perfect for a peaceful start as you explore the pet-friendly zones.\nMidday: As the sun climbs higher, transition towards the free beach areas. The lively atmosphere builds up as locals and tourists alike enjoy the clear, shallow waters for a relaxing midday break.\nAfternoon: Spend your afternoon moving between the elegant Portofino sector and the sporty vibes of the numbered beach offices. The shoreline buzzes with beach volleyball under the warm Italian sun.\nEvening: Conclude your coastal walk at the vibrant Ufficio 10 area. Enjoy a slow stroll along the promenade as the sky turns pink, perhaps stopping for a traditional gelato while you reflect on the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am verregneten Strand, wo die salzige Brise mit den Tropfen tanzt. Mittags suchen wir Schutz in den überdachten Bereichen entlang der Dünen. Am Nachmittag bewundern wir die stürmische Adria unter unseren Regenschirmen. Abends kehren wir über den nassen, spiegelnden Asphalt ins beleuchtete Zentrum zurück. Ein wasserfestes Outfit ist heute absolute Pflicht für alle.",
+            "hu": "Reggel a borongós tengerparton indulunk, ahol a sós permet keveredik az esővel. Délben a dűnék mentén keresünk fedett pihenőket a szakadó eső elől. Délután a sétány mentén, esernyők alatt csodáljuk a viharos Adriát. Estére a kivilágított, vizes aszfalton érünk vissza a központba. Egy jó esőkabát és vízálló cipő elengedhetetlen a mai napon, hogy szárazon maradjunk.",
+            "ro": "Dimineața începe pe plaja ploioasă, unde briza sărată se amestecă cu picăturile de apă. La prânz căutăm adăpost în zonele acoperite de-a lungul dunelor. După-amiaza admirăm marea Adriatică furtunoasă sub umbrelele noastre. Seara ne întoarcem spre centrul luminat pe asfaltul ud și reflectorizant. O ținută impermeabilă este absolut obligatorie astăzi pentru a ne simți confortabil.",
+            "en": "The morning starts on the rainy beach where the salty breeze dances with the raindrops. At noon, we seek shelter in the covered areas along the dunes. In the afternoon, we admire the stormy Adriatic Sea under our umbrellas. In the evening, we return to the lit center over the wet, reflecting asphalt. A waterproof outfit is an absolute must today to stay dry and enjoy the walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sabbiadoro",
+                "hu": "Sabbiadoro",
+                "ro": "Sabbiadoro",
+                "en": "Sabbiadoro"
+              },
+              "tip_5lang": {
+                "de": "Spaziergang am breiten Sandstrand, wo der Regen den Duft des Meeres intensiviert; tragen Sie wasserfeste Schuhe wegen des nassen Sandes und der Pfützen.",
+                "hu": "Séta a széles homokos parton, ahol az esőben különleges illata van a tengernek; viselj vízálló cipőt a vizes homok és a mélyebb tócsák elkerülése érdekében.",
+                "ro": "Plimbă-te pe plaja lată de nisip unde ploaia intensifică mirosul sărat al mării; poartă încălțăminte impermeabilă pentru a evita picioarele ude pe nisipul ud.",
+                "en": "Walk along the wide sandy beach where the rain brings out the unique scent of the sea; wear waterproof shoes to handle the wet sand and puddles comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunny Pet",
+                "hu": "Sunny Pet",
+                "ro": "Sunny Pet",
+                "en": "Sunny Pet"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die melancholische Stimmung des Hundestrandes im Regen; ein großer Regenschirm ist auf diesem offenen Gelände ohne Bäume unbedingt erforderlich.",
+                "hu": "Figyeld meg a kutyás strand melankolikus hangulatát a szakadó esőben; egy nagy esernyő kötelező ezen a nyílt területen, ahol kevés a természetes menedék.",
+                "ro": "Observă atmosfera melancolică a plajei pentru câini pe timp de ploaie; o umbrelă mare este esențială pe acest teren deschis fără adăposturi naturale.",
+                "en": "Observe the melancholy mood of the dog beach in the pouring rain; a large umbrella is essential on this open terrain where natural shelter is very limited."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera",
+                "hu": "Spiaggia libera",
+                "ro": "Spiaggia libera",
+                "en": "Spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen des freien Strandes bieten natürlichen Schutz gegen den Wind; Vorsicht vor den rutschigen Holzstegen entlang der Promenade bei Nässe.",
+                "hu": "A szabadstrand dűnéi természetes menedéket nyújtanak a szél ellen; vigyázz a csúszós fa pallókra a sétányon, és lépkedj óvatosan a vizes felületeken.",
+                "ro": "Dunele plajei libere oferă protecție naturală împotriva vântului; atenție la pasarelele de lemn alunecoase de-a lungul promenadei când sunt umede.",
+                "en": "The dunes of the free beach provide natural protection against the wind; watch out for slippery wooden walkways along the promenade when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Portofino",
+                "hu": "Portofino",
+                "ro": "Portofino",
+                "en": "Portofino"
+              },
+              "tip_5lang": {
+                "de": "Unter den Dachvorsprüngen der Gebäude können Sie die schäumenden Wellen beobachten; das Grollen des Meeres ist bei Regen noch kraftvoller und lauter.",
+                "hu": "A part menti épületek ereszei alá húzódva nézheted a tajtékzó hullámokat; a tenger morajlása esőben még erőteljesebb és misztikusabb hangélményt nyújt.",
+                "ro": "Adăpostește-te sub streșinile clădirilor pentru a privi valurile înspumate; vuietul mării este și mai puternic și impresionant atunci când plouă torențial.",
+                "en": "Shelter under the eaves of the buildings to watch the foaming waves; the roar of the sea is even more powerful and immersive during a heavy rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 11",
+                "hu": "Ufficio 11",
+                "ro": "Ufficio 11",
+                "en": "Ufficio 11"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpavillons wirken unter dem grauen Himmel wie abstrakte Kunstwerke; die überdachten Terrassen bieten gute Stopps für eine kurze Verschnaufpause.",
+                "hu": "A strandpavilonok zárva is építészeti látványt nyújtanak a szürke égbolt alatt; a fedett teraszok jó megállók egy rövid pihenőre a szakadó esőben.",
+                "ro": "Pavilioanele de pe plajă oferă o priveliște arhitecturală sub cerul gri; terasele acoperite sunt puncte bune de oprire pentru o scurtă pauză de odihnă.",
+                "en": "The beach pavilions offer an architectural sight even under the grey sky; the covered terraces are good stopping points for a short rest during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 10",
+                "hu": "Ufficio 10",
+                "ro": "Ufficio 10",
+                "en": "Ufficio 10"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang in der Nähe des Piers, wo Möwen Schutz vor dem Sturm suchen; eine windfeste Jacke ist hier am offenen Meer unerlässlich.",
+                "hu": "Fejezd be a sétát a móló közelében, ahol a sirályok a vihar elől menedéket keresnek; a szélálló kabát itt a nyílt tengerparton elengedhetetlen kellék.",
+                "ro": "Termină plimbarea lângă debarcader, unde pescărușii caută adăpost de furtună; o jachetă rezistentă la vânt este indispensabilă aici, la malul mării.",
+                "en": "Finish your walk near the pier where seagulls seek shelter from the storm; a windproof jacket is indispensable here by the open sea and strong gusts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der beißenden Morgenluft empfängt uns der Blick auf den menschenleeren Strand. Mittags beleuchten die schwachen Strahlen der Wintersonne den leeren Sand. Am Nachmittag fangen wir die rötlichen Lichter des Horizonts vor dem frühen Sonnenuntergang ein. Abends lockt die Wärme beheizter Innenräume im Zentrum. Kleiden Sie sich sehr warm, da der Seewind die Kälte verstärkt.",
+            "hu": "A reggeli csípős szélben a kihalt homokos part látványa fogad minket. Délben a téli nap gyenge sugarai világítják meg az üres strandot. Délután a korai sötétedés előtt még elkapjuk a horizont vöröses fényeit a tenger felett. Este a fűtött beltéri helyiségek melege hívogat a városban. Öltözzön nagyon melegen, mert a tengeri szél hidegebbnek érződik.",
+            "ro": "În aerul tăios al dimineții, vederea plajei pustii ne întâmpină cu o liniște rară. La prânz, razele slabe ale soarelui de iarnă luminează nisipul gol. După-amiaza surprindem luminile roșiatice ale orizontului înainte de apusul timpuriu. Seara, căldura spațiilor interioare din oraș ne atrage. Îmbracă-te foarte gros, deoarece vântul mării face frigul mai pătrunzător.",
+            "en": "In the biting morning air, the sight of the deserted sandy beach welcomes us. At noon, the weak rays of the winter sun illuminate the empty shore. In the afternoon, we catch the reddish lights of the horizon before the early sunset around 5 PM. In the evening, the warmth of heated indoor spaces in town beckons. Dress very warmly as the sea wind makes it feel much colder."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sabbiadoro",
+                "hu": "Sabbiadoro",
+                "ro": "Sabbiadoro",
+                "en": "Sabbiadoro"
+              },
+              "tip_5lang": {
+                "de": "Der Winterstrand strahlt nach dem Sommertrubel unendliche Ruhe aus; kleiden Sie sich in Schichten gegen den schneidenden Meereswind am offenen Ufer.",
+                "hu": "A téli tengerpart végtelen nyugalmat áraszt a nyári nyüzsgés után; öltözz rétegesen a metsző tengeri szél ellen, amely a nyílt parton ér utol.",
+                "ro": "Plaja de iarnă emană o liniște infinită după agitația verii; îmbracă-te în straturi împotriva vântului tăios al mării pe malul deschis și pustiu.",
+                "en": "The winter beach radiates infinite peace after the summer bustle; dress in layers against the biting sea wind that hits you on the open shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunny Pet",
+                "hu": "Sunny Pet",
+                "ro": "Sunny Pet",
+                "en": "Sunny Pet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die stillen Dünen, wo man jetzt nur noch einheimische Hundebesitzer trifft; ein Ohrenschutz ist am windigen Strand sehr empfehlenswert.",
+                "hu": "Nézd meg a csendes dűnéket, ahol ilyenkor csak a helyi kutyasétáltatókkal találkozhatsz; a fülvédő vagy egy meleg sapka jól jöhet a szeles parton.",
+                "ro": "Vizitează dunele liniștite unde acum poți întâlni doar localnici care își plimbă câinii; o protecție pentru urechi este recomandată pe plaja vântoasă.",
+                "en": "Visit the quiet dunes where you can only meet local dog owners at this time; ear protection or a warm hat is highly recommended on the windy beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera",
+                "hu": "Spiaggia libera",
+                "ro": "Spiaggia libera",
+                "en": "Spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Das wilde Gesicht des freien Strandes ist im Winter am spektakulärsten; starten Sie wegen des frühen Sonnenuntergangs rechtzeitig mit Ihrem Spaziergang.",
+                "hu": "A szabadstrand vadregényes arca télen a leglátványosabb a feltörő hullámokkal; a korai naplemente miatt indulj időben, hogy ne sötétben érj vissza.",
+                "ro": "Fața sălbatică a plajei libere este cea mai spectaculoasă iarna, cu valurile care se sparg; pornește la drum din timp din cauza apusului foarte devreme.",
+                "en": "The wild face of the free beach is most spectacular in winter with crashing waves; start your walk early enough because of the sunset around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Portofino",
+                "hu": "Portofino",
+                "ro": "Portofino",
+                "en": "Portofino"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Winterpanorama und das besondere Licht am Horizont; eine Thermoskanne mit einem heißen Getränk ist ein obligatorisches Zubehör.",
+                "hu": "Csodáld meg a téli panorámát és a különleges fényeket a horizonton; a meleg italos termosz kötelező kiegészítő a hideg elleni védekezéshez.",
+                "ro": "Admiră panorama de iarnă și lumina specială de la orizont; un termos cu o băutură caldă este un accesoriu obligatoriu pentru a te încălzi pe drum.",
+                "en": "Admire the winter panorama and the special light on the horizon; a thermos with a hot drink is a mandatory accessory to keep you warm on the go."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 11",
+                "hu": "Ufficio 11",
+                "ro": "Ufficio 11",
+                "en": "Ufficio 11"
+              },
+              "tip_5lang": {
+                "de": "Geometrische Strandstrukturen werfen an Winternachmittagen seltsame Schatten; nehmen Sie unbedingt einen dicken Schal und Handschuhe für diesen Abschnitt mit.",
+                "hu": "A geometrikus strandszerkezetek különös árnyékot vetnek a téli délutánon; sálat és kesztyűt mindenképpen vigyél magaddal erre a nyitott szakaszra.",
+                "ro": "Structurile geometrice de pe plajă aruncă umbre ciudate în după-amiezile de iarnă; ia neapărat o eșarfă groasă și mănuși pentru această secțiune.",
+                "en": "Geometric beach structures cast strange shadows on winter afternoons; be sure to bring a thick scarf and gloves for this open and cold section."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 10",
+                "hu": "Ufficio 10",
+                "ro": "Ufficio 10",
+                "en": "Ufficio 10"
+              },
+              "tip_5lang": {
+                "de": "Am Ende führen die Lichter des Piers in der frühen Dunkelheit zurück zur Stadt; achten Sie auf eventuell vereiste Stellen auf dem Boden.",
+                "hu": "A séta végén a móló kivilágított fényei vezetnek vissza a városba a korai sötétben; figyelj az esetlegesen jegesedő szakaszokra a burkolaton.",
+                "ro": "La sfârșit, luminile debarcaderului te ghidează înapoi spre oraș în întunericul timpuriu; atenție la eventualele porțiuni înghețate de pe jos.",
+                "en": "At the end, the lights of the pier guide you back to the city in the early darkness; watch out for any potentially icy patches on the pavement."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Morning: Kezdje kerékpártúráját a nyugodt Sun River térségében. A lágy reggeli szellő kíséri, miközben végigteker a kiterjedt homokos part mentén Sabbiadoro nyüzsgő szíve felé.\nMidday: Parkolja le a kerékpárt, hogy felfedezze az elegáns Portofino szektort. A hőséget tökéletesen ellensúlyozza egy gyors csobbanás a tiszta adriai vízben, amelyet pihenés követ a parton.\nAfternoon: Tekerjen tovább északkelet felé a jól karbantartott sétányokon, elhaladva a klasszikus fürdőhelyek, mint az Ausonia mellett. A vízi sportok vidám energiája veszi körül az úton.\nEvening: A nap végéhez közeledve érje el a legészakibb csücsköt, a Doggy Beach-et. Élvezze a vízben játszó háziállatok látványát, és gyönyörködjön a tengerparti naplementében.",
         "ro": "Morning: Începeți turul cu bicicleta în zona liniștită Sun River. Briza blândă a dimineții vă însoțește în timp ce pedalați de-a lungul coastei de nisip spre inima stațiunii Sabbiadoro.\nMidday: Parcați bicicleta pentru a explora elegantul sector Portofino. Căldura prânzului este perfect contracarată de o baie rapidă în apele Adriaticii, urmată de o odihnă relaxantă.\nAfternoon: Pedalați mai departe spre nord-est de-a lungul promenadelor, trecând pe lângă stabilimente clasice precum Ausonia. Energia vibrantă a sporturilor nautice vă înconjoară.\nEvening: Ajungeți la capătul nordic la Doggy Beach pe măsură ce ziua se încheie. Bucurați-vă de vederea animalelor jucându-se în apă și admirați un apus de soare uimitor la malul mării.",
         "en": "Morning: Kick off your cycling tour at the tranquil Sun River area, where the river meets the sea. The gentle morning breeze accompanies you as you pedal toward the bustling heart of Sabbiadoro.\nMidday: Park your bike to explore the elegant Portofino sector. The midday heat is perfectly countered by a quick dip in the clear Adriatic waters, followed by relaxing on a sunbed.\nAfternoon: Cycle further northeast along the well-maintained promenades, passing classic bathing establishments like Ausonia. The vibrant energy of beach games and chatter surrounds you.\nEvening: Reach the northernmost tip at Doggy Beach as the day winds down. Enjoy the heartwarming sight of pets playing in the water, and take in a stunning seaside sunset before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen starten wir auf dem Flussradweg, wo uns das Klopfen des Regens begleitet. Mittags biegen wir vorsichtig auf den nassen Asphalt Richtung Zentrum ab. Nachmittags bieten die Pinienwälder etwas Schutz vor dem Wasser von oben. Abends erreichen wir den beleuchteten Pier, während sich die Stadtlichter in den Pfützen spiegeln. Fahren Sie besonders vorsichtig.",
+            "hu": "Reggel a folyóparti kerékpárúton indulunk, ahol az eső kopogása kíséri utunkat. Délben a vizes aszfalton óvatosan kanyarodunk a központ felé. Délután a tengerparti fenyvesek adnak némi védelmet az égi áldás elől. Este a kivilágított mólóhoz érünk, miközben a város fényei tükröződnek a tócsákban. Tekerjen óvatosan a csúszós utakon.",
+            "ro": "Dimineața pornim pe pista de biciclete de pe malul râului, însoțiți de ropotul ploii. La prânz virăm cu atenție pe asfaltul ud spre centru. După-amiaza, pădurile de pini de pe malul mării oferă puțină protecție împotriva ploii. Seara ajungem la debarcaderul luminat, în timp ce luminile orașului se oglindesc în bălți. Condu cu mare atenție.",
+            "en": "In the morning, we start on the riverbank cycle path accompanied by the pitter-patter of rain. At noon, we turn carefully onto the wet asphalt towards the center. In the afternoon, coastal pine forests offer some protection from the rain. In the evening, we reach the lit pier as city lights reflect in the puddles. Ride extra carefully on the slippery surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sun River",
+                "hu": "Sun River",
+                "ro": "Sun River",
+                "en": "Sun River"
+              },
+              "tip_5lang": {
+                "de": "Die Mündung des Tagliamento wirkt bei nebligem Regenwetter mystisch; die Verwendung eines Schutzblechs wird wegen des aufspritzenden Wassers empfohlen.",
+                "hu": "A Tagliamento torkolata misztikus látványt nyújt a ködös, esős időben; a sárvédő használata javasolt a kerekek által felverődő víz és sár miatt.",
+                "ro": "Gura de vărsare a râului Tagliamento pare mistică pe vreme ploioasă și ceață; se recomandă folosirea aripilor la bicicletă din cauza apei împroșcate.",
+                "en": "The mouth of the Tagliamento river looks mystical in foggy, rainy weather; using a mudguard is recommended due to the water and mud splashing up."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabbiadoro",
+                "hu": "Sabbiadoro",
+                "ro": "Sabbiadoro",
+                "en": "Sabbiadoro"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Promenade entlang, wo das im Regen glänzende Pflaster eine besondere Atmosphäre schafft; bremsen Sie vorsichtig auf der rutschigen Straße.",
+                "hu": "Tekerj végig a parti sétányon, ahol az esőben csillogó kövezet különleges hangulatot áraszt; fékezz nagyon óvatosan a vizes és csúszós úton.",
+                "ro": "Pedalează de-a lungul promenadei unde pavajul strălucitor în ploaie creează o atmosferă specială; frânează cu atenție pe drumul alunecos.",
+                "en": "Ride along the promenade where the pavement shining in the rain creates a special atmosphere; brake very carefully on the wet and slippery road."
+              }
+            },
+            {
+              "name": {
+                "de": "Portofino",
+                "hu": "Portofino",
+                "ro": "Portofino",
+                "en": "Portofino"
+              },
+              "tip_5lang": {
+                "de": "Der Anblick der schaukelnden Boote im Hafen ist auch im Regen beruhigend; ein hochwertiges Regenponcho hilft sehr, während der Fahrt trocken zu bleiben.",
+                "hu": "A kikötő közeli részeken a ringatózó hajók látványa esőben is megnyugtató; egy jó minőségű esőponcsó sokat segít, hogy tekerés közben száraz maradj.",
+                "ro": "Vederea bărcilor care se balansează în port este liniștitoare chiar și pe ploaie; un ponou de ploaie de calitate te ajută mult să rămâi uscat pe drum.",
+                "en": "The sight of rocking boats in the harbor is soothing even in the rain; a high-quality rain poncho helps a lot to keep you dry while cycling along."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 10",
+                "hu": "Ufficio 10",
+                "ro": "Ufficio 10",
+                "en": "Ufficio 10"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Kraft des stürmischen Meeres aus sicherer Entfernung; die Sichtweite kann bei starkem Regen für Radfahrer deutlich eingeschränkt sein.",
+                "hu": "A strand bejáratai mentén haladva figyeld a viharos tenger erejét biztonságos távolságból; a látótávolság esőben jelentősen lecsökkenhet tekerés közben.",
+                "ro": "Observă forța mării furtunoase de la o distanță sigură; vizibilitatea poate fi redusă semnificativ pentru bicicliști în timpul ploii abundente.",
+                "en": "Observe the power of the stormy sea from a safe distance; visibility can decrease significantly for cyclists during heavy rain, so stay alert."
+              }
+            },
+            {
+              "name": {
+                "de": "Ausonia",
+                "hu": "Ausonia",
+                "ro": "Ausonia",
+                "en": "Ausonia"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie zwischen modernen Gebäuden die regennassen architektonischen Details; achten Sie in den Kurven auf die Fahrbahnbeschaffenheit.",
+                "hu": "A modern épületek között kanyarogva fedezd fel a város eső áztatta építészeti részleteit; vigyázz a vizes útra és a fehér felfestésekre a kanyarokban.",
+                "ro": "Descoperă detaliile arhitecturale ale orașului udate de ploaie printre clădirile moderne; atenție la starea drumului în curbe când este umed.",
+                "en": "Explore the rain-soaked architectural details of the city among modern buildings; watch out for wet road conditions and markings in the curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 6",
+                "hu": "Ufficio 6",
+                "ro": "Ufficio 6",
+                "en": "Ufficio 6"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg zwischen den Dünen ist jetzt völlig verlassen und friedlich; wischen Sie Ihre Brille oft ab, um während der Fahrt eine bessere Sicht zu haben.",
+                "hu": "A dűnék közötti kerékpárút ilyenkor teljesen elhagyatott és békés; a szemüvegedet töröld le gyakran a jobb látásért a szakadó esőben való haladáskor.",
+                "ro": "Pista de biciclete dintre dune este complet pustie și liniștită acum; șterge-ți des ochelarii pentru o vizibilitate mai bună în timp ce pedalezi prin ploaie.",
+                "en": "The cycle path between the dunes is completely deserted and peaceful now; wipe your glasses often for better visibility while riding through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 1-bis",
+                "hu": "Ufficio 1-bis",
+                "ro": "Ufficio 1-bis",
+                "en": "Ufficio 1-bis"
+              },
+              "tip_5lang": {
+                "de": "In Richtung Pier kann sich der Wind zusammen mit dem Regen verstärken; halten Sie den Lenker bei unerwarteten Böen besonders fest.",
+                "hu": "A mólóhoz közeledve a szél felerősödhet az esővel együtt; tarts szorosabb kormányfogást a váratlan széllökések miatt ezen a nyitott szakaszon.",
+                "ro": "Spre debarcader, vântul se poate intensifica odată cu ploaia; ține ghidonul mai strâns pentru rafalele neașteptate pe această porțiune deschisă.",
+                "en": "Approaching the pier, the wind can intensify along with the rain; keep a tighter grip on the handlebars for unexpected gusts on this open section."
+              }
+            },
+            {
+              "name": {
+                "de": "Doggy Beach",
+                "hu": "Doggy Beach",
+                "ro": "Doggy Beach",
+                "en": "Doggy Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Lichter des Leuchtturms zeigen in der Dämmerung den Weg; versuchen Sie nicht, im nassen Sand zu fahren, da das Rad dort leicht einsinken kann.",
+                "hu": "A világítótorony fényei mutatják az utat a szürkületben a túra végén; a vizes homokban ne próbálj meg tekerni, mert a kerék könnyen elakadhat és elsüllyedhet.",
+                "ro": "Luminile farului arată drumul în amurg la sfârșitul turului; nu încerca să pedalezi în nisipul ud, deoarece roata se poate bloca ușor.",
+                "en": "The lighthouse lights show the way in the twilight at the end of the tour; do not try to cycle in the wet sand as the wheel can easily get stuck."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen erfrischt die frostige Flussluft die Sinne zu Beginn der Radtour. Mittags fahren wir an der in der Wintersonne glitzernden Adria entlang. Am Nachmittag spenden die Straßenlaternen in der frühen Dämmerung das Licht für den Weg. Abends beenden wir die Tour an den eiskalten Geländern des Piers. Tragen Sie winddichte Kleidung, um nicht auszukühlen.",
+            "hu": "Reggel a fagyos folyóparti levegő frissíti fel az érzékeket a bringázás kezdetén. Délben a téli napfényben szikrázó Adria mellett haladunk el. Délután a korai szürkületben a parti lámpák adják a fényt az úthoz. Estére a móló jéghideg korlátjai között fejezzük be a látványos túrát. Viseljen szélálló ruházatot a hideg ellen.",
+            "ro": "Dimineața, aerul înghețat de pe malul râului împrospătează simțurile la începutul plimbării. La prânz, trecem pe lângă marea Adriatică sclipind în soarele de iarnă. După-amiaza, luminile de pe mal oferă lumina necesară pentru drum în amurgul timpuriu. Seara, încheiem turul spectaculos la balustradele înghețate ale debarcaderului.",
+            "en": "In the morning, the frosty riverbank air refreshes the senses at the start of the bike ride. At noon, we pass by the Adriatic sparkling in the winter sun. In the afternoon, coastal lamps provide light for the path in the early twilight. In the evening, we finish the spectacular tour at the ice-cold railings of the pier. Wear windproof clothing to stay warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sun River",
+                "hu": "Sun River",
+                "ro": "Sun River",
+                "en": "Sun River"
+              },
+              "tip_5lang": {
+                "de": "Die Mündung von Fluss und Meer erstrahlt unter klarem Himmel in Winterfarben; tragen Sie dicke Handschuhe für den frostigen Lenker.",
+                "hu": "A folyó és a tenger találkozása téli színekben pompázik a tiszta égbolt alatt; húzz vastag kesztyűt a fagyos kormány kényelmes fogásához.",
+                "ro": "Întâlnirea dintre râu și mare strălucește în culori de iarnă sub cerul senin; poartă mănuși groase pentru ghidonul înghețat.",
+                "en": "The meeting of river and sea shines in winter colors under the clear sky; wear thick gloves for a comfortable grip on the frosty handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabbiadoro",
+                "hu": "Sabbiadoro",
+                "ro": "Sabbiadoro",
+                "en": "Sabbiadoro"
+              },
+              "tip_5lang": {
+                "de": "Auf der menschenleeren Promenade können Sie frei in der frischen, salzigen Luft fahren; geschichtete Kleidung schützt vor dem kalten Fahrtwind.",
+                "hu": "A néptelen parti sétányon szabadon tekerhetsz a friss, sós levegőn; a réteges öltözködés megvéd a menetszéltől és a lehűléstől.",
+                "ro": "Pe promenada pustie poți pedala liber în aerul proaspăt și sărat; îmbrăcămintea în straturi te protejează de vântul rece de deplasare.",
+                "en": "On the deserted promenade, you can cycle freely in the fresh, salty air; layered clothing protects you from the cold wind chill while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Portofino",
+                "hu": "Portofino",
+                "ro": "Portofino",
+                "en": "Portofino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille nach dem Sommertrubel im Hafen; ein Ohrenschutz ist wegen des kalten Windes beim Radfahren unbedingt erforderlich.",
+                "hu": "Élvezd a csendet a nyári tömeg után és nézd meg a kikötő téli nyugalmát; a fülvédő kötelező a hideg szél miatt tekerés közben.",
+                "ro": "Bucură-te de liniște după agitația verii în port; o protecție pentru urechi este obligatorie din cauza vântului rece în timpul pedalării.",
+                "en": "Enjoy the silence after the summer bustle in the harbor; ear protection is mandatory due to the cold wind while cycling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 10",
+                "hu": "Ufficio 10",
+                "ro": "Ufficio 10",
+                "en": "Ufficio 10"
+              },
+              "tip_5lang": {
+                "de": "Der Anblick des winterlichen Meeres ist ein unvergessliches Erlebnis; planen Sie so, dass Sie vor Einbruch der Dunkelheit gegen 17 Uhr hier sind.",
+                "hu": "A kék minden árnyalatában játszó téli tenger látványa felejthetetlen élmény; tervezd úgy, hogy a sötétedés előtt, 17 óra körül ideérj.",
+                "ro": "Vederea mării de iarnă este o experiență de neuitat; planifică-ți timpul astfel încât să ajungi aici înainte de lăsarea întunericului, în jurul orei 17.",
+                "en": "The sight of the winter sea is an unforgettable experience; plan your ride to arrive here before darkness falls around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Ausonia",
+                "hu": "Ausonia",
+                "ro": "Ausonia",
+                "en": "Ausonia"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Linien des modernen Stadtteils kommen im Winterlicht am besten zur Geltung; achten Sie auf eventuell gefrorene Straßenabschnitte.",
+                "hu": "A modern városrész letisztult vonalai a téli fényben érvényesülnek a legjobban; figyelj az esetlegesen lefagyott vagy zúzmarás útszakaszokra.",
+                "ro": "Liniile clare ale cartierului modern sunt cel mai bine puse în valoare în lumina iernii; atenție la secțiunile de drum eventual înghețate.",
+                "en": "The clean lines of the modern district are best highlighted in the winter light; watch out for any potentially frozen or frosty road sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 6",
+                "hu": "Ufficio 6",
+                "ro": "Ufficio 6",
+                "en": "Ufficio 6"
+              },
+              "tip_5lang": {
+                "de": "Der Duft der Pinienwälder ist in der kalten, klaren Luft noch intensiver; fahren Sie langsamer, damit Sie durch den Fahrtwind nicht zu sehr auskühlen.",
+                "hu": "A fenyvesek illata ilyenkor még intenzívebb a hideg, tiszta levegőben; tekerj lassabban, hogy ne hűlj le túlságosan a menetszélben.",
+                "ro": "Parfumul pădurilor de pini este și mai intens în aerul rece și limpede; pedalează mai încet pentru a nu te răci prea tare din cauza vântului.",
+                "en": "The scent of the pine forests is even more intense in the cold, clear air; ride slower so you don't cool down too much from the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 1-bis",
+                "hu": "Ufficio 1-bis",
+                "ro": "Ufficio 1-bis",
+                "en": "Ufficio 1-bis"
+              },
+              "tip_5lang": {
+                "de": "In Richtung Pier begleiten die Lichter des rötlichen Sonnenuntergangs Ihren Weg; prüfen Sie unbedingt Ihre Fahrradbeleuchtung vor dem Start.",
+                "hu": "A móló irányába haladva a vöröses naplemente fényei kísérik utadat; a kerékpár lámpáit mindenképp ellenőrizd még az indulás előtt.",
+                "ro": "Spre debarcader, luminile apusului roșiatic îți însoțesc drumul; verifică neapărat luminile bicicletei înainte de a porni la drum.",
+                "en": "Heading towards the pier, the lights of the reddish sunset accompany your way; be sure to check your bike lights before you start the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Doggy Beach",
+                "hu": "Doggy Beach",
+                "ro": "Doggy Beach",
+                "en": "Doggy Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm steht als einsamer Wächter in der Winternacht am Endpunkt; trotz der Kälte entschädigt der Anblick für alles.",
+                "hu": "A világítótorony magányos őrként áll a téli éjszakában a túra végpontján; a hideg ellenére a kivilágított látvány kárpótol minden fáradtságért.",
+                "ro": "Farul stă ca un străjer singuratic în noaptea de iarnă la punctul final; în ciuda frigului, priveliștea compensează orice efort.",
+                "en": "The lighthouse stands as a lonely guardian in the winter night at the finish point; despite the cold, the illuminated view makes up for everything."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +927,168 @@
         "hu": "Morning: Autózzon el a város csendes Sun River részéhez, hogy elkapja a nyugodt reggeli hangulatot. A folyó és a tenger találkozása lenyűgöző hátteret teremt egy frissítő korai sétához.\nMidday: Helyezze át autóját közelebb a központi Sabbiadoro területhez. A déli nap kiemeli az Adria ragyogó színeit, arra csábítva, hogy fejest ugorjon a vízbe, vagy sütkérezzen a parti melegben.\nAfternoon: Vezessen kicsit keletebbre, hogy felfedezze az olyan forgalmas irodákat, mint az Ufficio 4/1-ter. A vízi sportok és a strandbárok energikus hangulata rengeteg szórakozást kínál.\nEvening: Fejezze be autós útvonalát a Doggy Beach melletti parkolókban. Élvezze a kutyabarát partok vidám hangulatát, miközben megnézi, ahogy a látványos naplemente megfesti az eget.",
         "ro": "Morning: Conduceți către marginea Sun River pentru a surprinde atmosfera matinală tăcută. Convergența dintre râu și mare creează un decor natural uimitor, ideal pentru o plimbare revigorantă.\nMidday: Mutați mașina mai aproape de zona centrală Sabbiadoro. Ora de aur a soarelui scoate în evidență culorile strălucitoare ale Adriaticii, invitându-vă să faceți o baie în apele răcoroase.\nAfternoon: Conduceți puțin spre est pentru a explora oficiile de plajă, cum ar fi Ufficio 4/1-ter. Atmosfera energică a sporturilor nautice și barurile animate oferă mult divertisment.\nEvening: Încheiați itinerariul cu mașina la parcările nordice de lângă Doggy Beach. Bucurați-vă de atmosfera plajelor prietenoase cu animalele în timp ce priviți un apus de soare spectaculos.",
         "en": "Morning: Drive to the tranquil Sun River edge of town to catch the quiet morning atmosphere. The convergence of river and sea here creates a stunning natural backdrop for a refreshing early walk.\nMidday: Relocate your car closer to the central Sabbiadoro area. The golden hour of the midday sun brings out the brilliant colors of the Adriatic, inviting you to dive into the cool waters.\nAfternoon: Drive slightly east to explore the busy numbered beach offices like Ufficio 4/1-ter. The energetic vibe of water sports and lively beach bars offers plenty of entertainment.\nEvening: Finish your driving itinerary at the northernmost parking areas near Doggy Beach. Enjoy the joyful atmosphere of the pet-friendly shores as you watch a spectacular sunset before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer Fahrt zur nebligen Flussmündung, während die Scheibenwischer den Rhythmus vorgeben. Mittags parken wir in der Nähe der Promenade und beobachten den Regen vom Auto aus. Nachmittags fahren wir entlang der Küstenstraße und genießen die dramatische Aussicht auf das Meer. Abends leuchten die Stadtlichter im Regen besonders hell. Bleiben Sie im Wagen trocken.",
+            "hu": "A nap ködös folyótorkolati autózással indul, miközben az ablaktörlők adják a ritmust. Délben a sétány közelében parkolunk, és az autóból figyeljük az esőt. Délután a part menti úton haladunk, élvezve a tenger drámai látványát. Este a város fényei különösen fényesen ragyognak az esőben. Maradjon szárazon az autó kényelmében, amíg lehet.",
+            "ro": "Ziua începe cu o plimbare cu mașina spre gura de vărsare a râului, în timp ce ștergătoarele dau ritmul. La prânz parcăm lângă promenadă și privim ploaia din mașină. După-amiaza conducem pe drumul de coastă, bucurându-ne de vederea dramatică a mării. Seara, luminile orașului strălucesc deosebit de tare în ploaie. Rămâi la adăpost în mașină.",
+            "en": "The day starts with a drive to the foggy river mouth as the wipers set the rhythm. At noon, we park near the promenade and watch the rain from the car. In the afternoon, we drive along the coastal road enjoying the dramatic sea views. In the evening, the city lights shine especially bright in the rain. Stay dry and comfortable inside the car while moving between stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sun River",
+                "hu": "Sun River",
+                "ro": "Sun River",
+                "en": "Sun River"
+              },
+              "tip_5lang": {
+                "de": "Das weite Panorama der Flussmündung ist auch aus dem Autofenster atemberaubend; vom Parkplatz aus haben Sie eine tolle und trockene Aussicht.",
+                "hu": "A folyótorkolat tágas panorámája az autó ablakából is lélégeztelállító a szakadó esőben; a közeli parkolóból nézve biztonságban és szárazon maradsz.",
+                "ro": "Panorama largă a gurii de vărsare a râului este uluitoare chiar și de la geamul mașinii; din parcare ai o vedere excelentă și rămâi uscat.",
+                "en": "The wide panorama of the river mouth is breathtaking even from the car window in heavy rain; you stay safe and dry watching from the nearby parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabbiadoro",
+                "hu": "Sabbiadoro",
+                "ro": "Sabbiadoro",
+                "en": "Sabbiadoro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums, um die vom Regen glänzende Hauptstraße zu bewundern; nutzen Sie die kurzen Regenpausen für einen kurzen Abstecher zum Ufer.",
+                "hu": "Parkolj a központ közelében, hogy megcsodáld az esőtől csillogó főutcát; használd ki a rövid esőszüneteket egy gyors sétára a vízpartig.",
+                "ro": "Parchează lângă centru pentru a admira strada principală strălucind de ploaie; profită de scurtele pauze de ploaie pentru o plimbare rapidă spre mal.",
+                "en": "Park near the center to admire the main street shining from the rain; take advantage of short rain breaks for a quick stroll to the waterfront."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 11",
+                "hu": "Ufficio 11",
+                "ro": "Ufficio 11",
+                "en": "Ufficio 11"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpavillons wirken bei grauem Wetter wie geometrische Skulpturen; halten Sie kurz am Straßenrand für ein schnelles Foto aus dem trockenen Wagen.",
+                "hu": "A strandpavilonok szürke időben geometrikus szobroknak tűnnek; állj meg rövid időre az út mentén egy gyors fotóra a száraz autó kényelméből.",
+                "ro": "Pavilioanele de pe plajă par sculpturi geometrice pe vreme gri; oprește scurt pe marginea drumului pentru o fotografie rapidă din mașina uscată.",
+                "en": "The beach pavilions look like geometric sculptures in grey weather; stop briefly at the roadside for a quick photo from the comfort of your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 4/1-ter",
+                "hu": "Ufficio 4/1-ter",
+                "ro": "Ufficio 4/1-ter",
+                "en": "Ufficio 4/1-ter"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von den Parkplätzen entlang der Küstenstraße; die Wellen peitschen bei Regen eindrucksvoll gegen den Strand.",
+                "hu": "Figyeld a viharos tengert a part menti út parkolóiból; a hullámok esőben lenyűgöző erővel csapkodják a homokos partot és a mólókat.",
+                "ro": "Observă marea furtunoasă din parcările de-a lungul drumului de coastă; valurile lovesc plaja cu o forță impresionantă în timpul ploii.",
+                "en": "Watch the stormy sea from the parking lots along the coastal road; the waves crash against the beach with impressive force during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Doggy Beach",
+                "hu": "Doggy Beach",
+                "ro": "Doggy Beach",
+                "en": "Doggy Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Licht des Leuchtturms schneidet am Abend durch den Regen und Nebel; parken Sie so nah wie möglich, um die Atmosphäre sicher zu genießen.",
+                "hu": "A világítótorony fénye este áthatol az esőn és a ködön; parkolj a lehető legközelebb, hogy biztonságban élvezhesd a különleges tengerparti hangulatot.",
+                "ro": "Lumina farului străpunge ploaia și ceața seara; parchează cât mai aproape posibil pentru a te bucura de atmosferă în siguranță.",
+                "en": "The lighthouse light cuts through the rain and fog in the evening; park as close as possible to enjoy the unique coastal atmosphere safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen fahren wir zur ruhigen Flussmündung, wo die Natur im Winterschlaf liegt. Mittags genießen wir die klare Sicht auf die Adria durch die Windschutzscheibe. Am Nachmittag erleben wir den frühen Sonnenuntergang von der Küstenstraße aus. Abends kehren wir in die festlich beleuchtete Stadt zurück. Nutzen Sie die Heizung Ihres Wagens, um zwischen den Stopps warm zu bleiben.",
+            "hu": "A fagyos reggelen a csendes folyótorkolathoz autózunk, ahol a természet téli álmot alszik. Délben a szélvédőn keresztül élvezzük a tiszta kilátást az Adriára. Délután a part menti útról éljük át a korai naplementét. Este a díszesen kivilágított városba térünk vissza. Használja az autó fűtését a megállók közötti gyors felmelegedéshez.",
+            "ro": "În dimineața geroasă conducem spre gura liniștită a râului, unde natura doarme somnul de iarnă. La prânz ne bucurăm de vederea clară spre Adriatică prin parbriz. După-amiaza experimentăm apusul timpuriu de pe drumul de coastă. Seara ne întoarcem în orașul luminat festiv. Folosește căldura mașinii pentru a te încălzi.",
+            "en": "On the frosty morning, we drive to the quiet river mouth where nature sleeps its winter sleep. At noon, we enjoy the clear view of the Adriatic through the windshield. In the afternoon, we experience the early sunset from the coastal road. In the evening, we return to the festively lit city. Use your car's heater to stay warm between the scenic stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sun River",
+                "hu": "Sun River",
+                "ro": "Sun River",
+                "en": "Sun River"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die gefroren wirkende Flussmündung unter dem klaren Winterhimmel; die Parkplätze bieten eine hervorragende Sicht ohne kalten Wind.",
+                "hu": "Látogasd meg a fagyosnak tűnő folyótorkolatot a tiszta téli égbolt alatt; a parkolók kiváló kilátást biztosítanak a hideg szél elviselése nélkül.",
+                "ro": "Vizitează gura de vărsare a râului sub cerul senin de iarnă; parcările oferă o vedere excelentă fără a simți vântul rece de afară.",
+                "en": "Visit the frozen-looking river mouth under the clear winter sky; the parking lots provide an excellent view without facing the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sabbiadoro",
+                "hu": "Sabbiadoro",
+                "ro": "Sabbiadoro",
+                "en": "Sabbiadoro"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die menschenleere Hauptstraße auf magische Weise; ein kurzer Stopp für einen heißen Kaffee im Zentrum ist sehr zu empfehlen.",
+                "hu": "A téli napfény varázslatosan világítja meg a néptelen főutcát; egy rövid megálló egy forró kávéra a központban nagyon ajánlott a felfrissüléshez.",
+                "ro": "Soarele de iarnă luminează magic strada principală pustie; o scurtă oprire pentru o cafea fierbinte în centru este foarte recomandată pentru relaxare.",
+                "en": "The winter sun magically illuminates the deserted main street; a short stop for a hot coffee in the center is highly recommended to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 11",
+                "hu": "Ufficio 11",
+                "ro": "Ufficio 11",
+                "en": "Ufficio 11"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klaren Linien der Strandpavillons im harten Winterlicht; der leere Parkplatz ermöglicht tolle Fotos direkt aus dem warmen Wagen.",
+                "hu": "Csodáld meg a strandpavilonok letisztult vonalait az éles téli fényben; az üres parkoló lehetővé teszi a remek fotókat közvetlenül a meleg autóból.",
+                "ro": "Admiră liniile clare ale pavilioanelor de pe plajă în lumina aspră a iernii; parcarea goală permite fotografii excelente direct din mașina caldă.",
+                "en": "Admire the clean lines of the beach pavilions in the sharp winter light; the empty parking lot allows for great photos directly from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufficio 4/1-ter",
+                "hu": "Ufficio 4/1-ter",
+                "ro": "Ufficio 4/1-ter",
+                "en": "Ufficio 4/1-ter"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Strand entlang, um das tiefblaue winterliche Meer zu sehen; halten Sie an, um die Stille und den frühen Sonnenuntergang zu genießen.",
+                "hu": "Autózz lassan a strand mentén, hogy lásd a mélykék téli tengert; állj meg egy pillanatra, hogy élvezd a csendet és a korai naplemente fényeit.",
+                "ro": "Condu încet de-a lungul plajei pentru a vedea marea de iarnă albastru închis; oprește-te pentru a te bucura de liniște și de apusul de soare timpuriu.",
+                "en": "Drive slowly along the beach to see the deep blue winter sea; stop for a moment to enjoy the silence and the beautiful colors of the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Doggy Beach",
+                "hu": "Doggy Beach",
+                "ro": "Doggy Beach",
+                "en": "Doggy Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt am Ende der Halbinsel im Winter besonders einsam; parken Sie so, dass die Scheinwerfer den Weg für einen kurzen Blick beleuchten.",
+                "hu": "A világítótorony a félsziget végén télen különösen magányosnak tűnik; parkolj úgy, hogy a fényszórók megvilágítsák az utat egy gyors nézelődéshez.",
+                "ro": "Farul pare deosebit de singuratic iarna la capătul peninsulei; parchează astfel încât farurile să lumineze drumul pentru o scurtă privire afară.",
+                "en": "The lighthouse looks especially lonely at the end of the peninsula in winter; park so your headlights illuminate the path for a quick look around."
+              }
+            }
+          ]
+        }
       }
     }
   }

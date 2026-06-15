@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot az egyedi barlanglakásoknál, majd csodálja meg a kastély kiemelkedő kortárs művészeti gyűjteményét.\n\nDélben a városháza neoklasszicista eleganciája nyújt lenyűgöző látványt.\n\nDélután ismerje meg a barokk templomot és a könyvnyomtatás művészetét.\n\nA nap békésen zárul a San Francisco kolostor történelmi és csendes falai között.",
         "ro": "Începeți ziua explorând locuințele tradiționale din peșteri și colecția de artă contemporană din castel.\n\nLa prânz, eleganța neoclasică a primăriei vă va impresiona cu siguranță.\n\nDupă-amiaza este dedicată superbei biserici baroce și artei tipăririi cărților.\n\nZiua se încheie liniștit între zidurile istorice ale mănăstirii San Francisco.",
         "en": "Start your day exploring the cave dwellings, then admire the outstanding contemporary art collection within the castle.\n\nAt midday, the town hall's neoclassical elegance offers a striking sight.\n\nThe afternoon invites you to discover the Baroque church and the art of book printing.\n\nYour day ends peacefully in the historic San Francisco convent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im faszinierenden Höhlenmuseum. Mittags bieten das nahegelegene Kunstmuseum und das Rathaus hervorragende Zufluchtsorte. Verbringen Sie den Nachmittag damit, das Kircheninnere und die Werkstatt zu bewundern. Am Abend bildet das historische Kloster einen trockenen Abschluss; achten Sie auf rutschige Pflastersteine auf Ihrem Weg.",
+            "hu": "Kezdje a borongós reggelt az egyedülálló barlangmúzeumban, menedéket találva az eső elől. Délben a művészeti múzeum és a városháza nyújt kiváló benti programot. A délutánt a templom lenyűgöző belső terében és a műhelyben töltheti. Kora este a történelmi kolostor száraz és csendes lezárást kínál a vizes sétának; óvatosan lépkedjen a csúszós macskaköveken.",
+            "ro": "Începeți dimineața ploioasă explorând fascinantul muzeu în peșteră. La prânz, muzeul de artă și primăria oferă un refugiu excelent în interior. Petreceți după-amiaza admirând interiorul bisericii și atelierul. Pe măsură ce se lasă seara, mănăstirea istorică oferă o concluzie uscată și liniștită pentru turul pietonal; aveți grijă la pietrele cubice alunecoase.",
+            "en": "Start your morning exploring the fascinating cave museum, escaping the rain early on. By midday, the nearby art museum and town hall offer excellent indoor refuges. Spend the rainy afternoon admiring the church interior and the Emilio Sdun workshop. As evening approaches, the historic convent provides a quiet, dry conclusion to your wet walking tour; mind the slippery cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa-Cueva y Museo Etnográfico",
+                "hu": "Casa-Cueva y Museo Etnográfico",
+                "ro": "Casa-Cueva y Museo Etnográfico",
+                "en": "Casa-Cueva y Museo Etnográfico"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die traditionelle Höhlenwohnung, die den Regen auf natürliche Weise abhält und einen faszinierenden, trockenen Einblick in das Leben bietet.",
+                "hu": "Fedezze fel a hagyományos barlanglakást, amely természetes menedéket nyújt az eső elől, lenyűgöző és teljesen száraz bepillantást engedve a múltba.",
+                "ro": "Explorați locuința tradițională din peșteră care respinge natural ploaia, oferind o privire fascinantă și perfect uscată asupra stilului de viață istoric.",
+                "en": "Explore the traditional cave dwelling that naturally repels the rain, offering a fascinating and perfectly dry glimpse into historical local lifestyles."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "en": "Museo de Arte \"Antonio Manuel Campoy\""
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstsammlung sicher im Trockenen und lassen Sie Ihren nassen Schirm im Foyer, um die lebhaften Meisterwerke in Ruhe zu genießen.",
+                "hu": "Csodálja meg a kortárs művészeti gyűjteményt biztonságban, zárt térben; hagyja vizes esernyőjét az előcsarnokban, és élvezze a lenyűgöző alkotásokat.",
+                "ro": "Admirați colecția impresionantă de artă contemporană la interior, lăsând umbrela udă în hol pentru a vă bucura pe deplin de capodoperele vibrante.",
+                "en": "Admire the impressive contemporary art collection safely indoors, leaving your wet umbrella in the lobby to fully enjoy the vibrant local masterpieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Cuevas del Almanzora",
+                "hu": "Ayuntamiento de Cuevas del Almanzora",
+                "ro": "Ayuntamiento de Cuevas del Almanzora",
+                "en": "Ayuntamiento de Cuevas del Almanzora"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das historische Rathaus, um plötzlichen Regengüssen zu entkommen und seine neoklassizistische Architektur im Trockenen zu bewundern.",
+                "hu": "Lépjen be a történelmi városházára, hogy elkerülje a hirtelen záporokat, és csodálja meg a neoklasszicista építészetet a kinti zord időjárás ellenére.",
+                "ro": "Intrați în primăria istorică pentru a scăpa de ploile bruște și admirați arhitectura sa neoclasică fără să vă faceți griji pentru vremea mohorâtă de afară.",
+                "en": "Step inside the historic town hall to escape sudden downpours and marvel at its neoclassical architecture without worrying about the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora de la Encarnación",
+                "hu": "Iglesia de Nuestra Señora de la Encarnación",
+                "ro": "Iglesia de Nuestra Señora de la Encarnación",
+                "en": "Iglesia de Nuestra Señora de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Altarbild in der Kirche und machen Sie eine friedliche, trockene Pause von den rutschigen, regennassen Pflastersteinen.",
+                "hu": "Csodálja meg a lenyűgöző barokk oltárképet a templom belsejében, békés és száraz pihenőt tartva a csúszós, esőtől nedves macskaköves utcák után.",
+                "ro": "Admirați magnificul altar baroc din interiorul acestei biserici, luând o pauză liniștită și uscată de la pietrele cubice alunecoase și ude de ploaie.",
+                "en": "Marvel at the magnificent baroque altarpiece inside this cavernous church, taking a peaceful, dry break from the slippery, rain-slicked cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Taller Emilio Sdun",
+                "hu": "Museo Taller Emilio Sdun",
+                "ro": "Museo Taller Emilio Sdun",
+                "en": "Museo Taller Emilio Sdun"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in dieser überdachten Werkstatt in die Welt der Typografie und Buchbinderei ein, eine fantastische Aktivität für regnerische Tage.",
+                "hu": "Merüljön el a tipográfia és a könyvkötészet izgalmas világában ebben a benti műhelyben, amely fantasztikus és tartalmas esős napi elfoglaltságot nyújt.",
+                "ro": "Pătrundeți în lumea tipografiei și a legătoriei de cărți în acest atelier interior, o activitate fantastică de zi ploioasă care vă va captiva.",
+                "en": "Delve into the fascinating world of typography and bookbinding in this indoor workshop, a fantastic rainy-day activity that keeps you fully engaged."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Francisco",
+                "hu": "Convento de San Francisco",
+                "ro": "Convento de San Francisco",
+                "en": "Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Kreuzgänge des Klosters und nutzen Sie die überdachten Wege, um trocken zu bleiben und die spirituelle Atmosphäre aufzusaugen.",
+                "hu": "Sétáljon végig a kolostor történelmi kerengőjén, használva a fedett sétányokat, hogy viszonylag száraz maradjon, miközben magába szívja a hangulatot.",
+                "ro": "Plimbați-vă prin mănăstirea istorică, folosind aleile acoperite pentru a rămâne uscați în timp ce absorbiți atmosfera profund spirituală.",
+                "en": "Walk through the historic cloisters of the convent, using its covered walkways to stay reasonably dry while absorbing the deep spiritual atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen in der Höhlenwohnung, die überraschend warm bleibt. Genießen Sie mittags die beheizten Räume des Kunstmuseums und des Rathauses. Das Nachmittagslicht hebt die Details der Kirche hervor, bevor Sie sich in die Werkstatt zurückziehen. Beenden Sie die Tour am Kloster, wenn der frühe Sonnenuntergang gegen 17:00 Uhr ein goldenes Licht wirft.",
+            "hu": "Indítsa a csípős téli reggelt a barlanglakásban, amely meglepően kellemes meleget tart. Délben élvezze a művészeti múzeum és a városháza fűtött belső tereit. A délutáni fény csodásan kiemeli a templom részleteit, mielőtt a hangulatos műhelybe húzódna. Zárja a napot a kolostornál, épp amikor a korai, 17:00 órai naplemente aranyló téli fényt vet a városra.",
+            "ro": "Începeți dimineața rece de iarnă în locuința din peșteră, care rămâne surprinzător de caldă. La prânz, bucurați-vă de interioarele încălzite ale muzeului de artă și ale primăriei. Lumina după-amiezii evidențiază detaliile bisericii înainte de a vă retrage în atelierul primitor. Încheiați la mănăstire exact când apusul timpuriu de la 17:00 aruncă o lumină aurie.",
+            "en": "Kick off your crisp winter morning in the unique cave dwelling, which stays surprisingly warm. Around noon, enjoy the heated interiors of the art museum and the majestic town hall. The afternoon light perfectly highlights the church's details before retreating into the cozy museum workshop. Wrap up at the convent just as the early sunset casts a golden winter glow at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa-Cueva y Museo Etnográfico",
+                "hu": "Casa-Cueva y Museo Etnográfico",
+                "ro": "Casa-Cueva y Museo Etnográfico",
+                "en": "Casa-Cueva y Museo Etnográfico"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das einzigartige Höhlenmuseum, wo die Isolierung der Erde das Innere warm hält, ein perfekter Rückzugsort vor der Winterkälte.",
+                "hu": "Fedezze fel az egyedülálló barlangmúzeumot, ahol a föld szigetelése meglepően melegen tartja a belső teret, tökéletes menedéket nyújtva a téli hideg elől.",
+                "ro": "Descoperiți muzeul unic din peșteră unde izolarea pământului menține interiorul surprinzător de cald, fiind un refugiu perfect din calea frigului iernii.",
+                "en": "Discover the unique cave museum where the earth's insulation keeps the interior surprisingly warm, making it a perfect retreat from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "en": "Museo de Arte \"Antonio Manuel Campoy\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Galerien dieses Kunstmuseums und lassen Sie die hellen, farbenfrohen Gemälde Ihren Geist wärmen und dem Winterwind entkommen.",
+                "hu": "Élvezze a szépművészeti múzeum fűtött galériáit, hagyja, hogy a világos, színes festmények felmelegítsék a lelkét a kinti csípős téli szél elől menekülve.",
+                "ro": "Bucurați-vă de galeriile încălzite ale acestui muzeu, lăsând picturile luminoase să vă încălzească spiritul în timp ce scăpați de briza rece de iarnă.",
+                "en": "Enjoy the heated galleries of this fine art museum, letting the bright, colorful paintings warm your spirit while escaping the crisp winter breeze outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Cuevas del Almanzora",
+                "hu": "Ayuntamiento de Cuevas del Almanzora",
+                "ro": "Ayuntamiento de Cuevas del Almanzora",
+                "en": "Ayuntamiento de Cuevas del Almanzora"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im großen Rathaus, einem gemütlichen Stopp auf Ihrer Route, wo Sie die lokale Regierungsgeschichte fernab der beißenden Kälte erleben.",
+                "hu": "Keressen menedéket a grandiózus városháza épületében, egy barátságos megálló a hideg elől, ahol megismerheti a helyi közigazgatás lenyűgöző történetét.",
+                "ro": "Adăpostiți-vă în clădirea grandioasă a primăriei, o oprire primitoare unde puteți aprecia istoria administrației locale departe de frigul pătrunzător.",
+                "en": "Take shelter in the grand town hall building, a cozy stop along your route where you can appreciate local governance history away from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora de la Encarnación",
+                "hu": "Iglesia de Nuestra Señora de la Encarnación",
+                "ro": "Iglesia de Nuestra Señora de la Encarnación",
+                "en": "Iglesia de Nuestra Señora de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht im Kirchenschiff, wo die dicken Steinmauern eine zugluftfreie Umgebung bieten, um die religiösen Skulpturen zu bewundern.",
+                "hu": "Keressen menedéket a templom monumentális hajójában, ahol a vastag kőfalak huzatmentes környezetet biztosítanak a vallási szobrok megcsodálásához.",
+                "ro": "Căutați refugiu în nava monumentală a bisericii, unde pereții groși de piatră oferă un mediu fără curenți pentru a admira sculpturile religioase.",
+                "en": "Seek refuge in the church's monumental nave, where the thick stone walls provide a draft-free environment to admire the exquisite religious sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Taller Emilio Sdun",
+                "hu": "Museo Taller Emilio Sdun",
+                "ro": "Museo Taller Emilio Sdun",
+                "en": "Museo Taller Emilio Sdun"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von den Druckkünsten in diesem warm beleuchteten Studio inspirieren, das eine komfortable Flucht während der frühen Winterdämmerung bietet.",
+                "hu": "Merítsen ihletet a nyomdászat művészetéből ebben a meleg fényű stúdióban, amely kényelmes és tanulságos menedéket nyújt a korai téli szürkület idején.",
+                "ro": "Lăsați-vă inspirați de arta tipografică în acest studio cald luminat, oferind o evadare confortabilă și educativă în timpul amurgului timpuriu de iarnă.",
+                "en": "Get inspired by the intricate printing arts in this warmly lit studio space, providing a comfortable and educational escape during the early winter dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Francisco",
+                "hu": "Convento de San Francisco",
+                "ro": "Convento de San Francisco",
+                "en": "Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Kloster vor 17:00 Uhr; die unbeheizte Architektur erfordert einen dicken Mantel, aber das Licht der goldenen Stunde ist magisch.",
+                "hu": "Fedezze fel a békés kolostort 17:00 előtt; a fűtetlen kőépület vastag télikabátot igényel, de a lemenő nap aranyló fényében a látvány egyenesen varázslatos.",
+                "ro": "Explorați mănăstirea înainte de ora 17:00; arhitectura sa neîncălzită necesită o haină groasă, dar lumina orelor de aur este absolut magică.",
+                "en": "Explore the serene convent before 17:00; its beautiful, unheated stone architecture requires a thick winter coat, but the golden hour lighting is magical."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpározzon reggel a lenyűgöző barlanglakásokhoz és a város szívében található művészeti galériához.\n\nDélben felfedezheti a városháza és a főtemplom történelmi építészetét.\n\nA délután a tipográfiai műhelyhez és a csendes kolostorkomplexumhoz vezet.\n\nA túrát a déli városrészben található San Antón templomnál zárhatja.",
         "ro": "Pedalați dimineața către locuințele din peșteri și galeria de artă din inima orașului.\n\nLa prânz, explorați arhitectura istorică a primăriei și a bisericii principale.\n\nDupă-amiaza vă poartă la atelierul de tipografie și la complexul monahal liniștit.\n\nÎncheiați turul la fermecătoarea biserică San Antón din partea de sud.",
         "en": "Cycle in the morning to the fascinating cave dwellings and the impressive art gallery in the heart of the city.\n\nMidday allows you to easily explore the historic town hall and the main church.\n\nThe afternoon takes you to the typography workshop and the quiet monastery.\n\nFinish your pleasant ride at the charming San Antón church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie im leichten Morgenregen zum Höhlenmuseum, um schnell Schutz zu finden. Mittags erreichen Sie das Kunstmuseum und Rathaus als perfekte Zwischenstopps. Fahren Sie nachmittags vorsichtig zur Kirche und Werkstatt und achten Sie auf rutschige Stellen. Der Abend endet am Kloster und der Kirche San Antón; tragen Sie Regenkleidung und bremsen Sie sanft.",
+            "hu": "Tekerjen az enyhe reggeli esőben a barlangmúzeumhoz, ahol rögtön menedékre lel. Délben a művészeti múzeum és a városháza kiváló benti pihenőt nyújt. A vizes délutáni szakaszon óvatosan haladjon a templom és a műhely felé, ügyelve a csúszós foltokra. Az este a kolostornál és a San Antón templomnál ér véget; viseljen vízálló felszerelést és fékezzen finoman.",
+            "ro": "Pedalați în ploaia ușoară de dimineață spre muzeul din peșteră pentru adăpost imediat. Prânzul vă aduce la muzeul de artă și primărie, opriri perfecte la interior. Continuați plimbarea umedă de după-amiază cu grijă spre biserică și atelier, atenți la zonele alunecoase. Seara se încheie la mănăstire și biserica San Antón; purtați echipament impermeabil și frânați ușor.",
+            "en": "Start pedaling in the light morning rain towards the cave museum for instant shelter. Midday brings you to the art museum and town hall, perfect indoor stops. Continue your wet afternoon ride carefully to the church and workshop, watching for slippery patches. The evening ends with the convent and San Antón church; wear quality waterproof gear and brake gently on wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa-Cueva y Museo Etnográfico",
+                "hu": "Casa-Cueva y Museo Etnográfico",
+                "ro": "Casa-Cueva y Museo Etnográfico",
+                "en": "Casa-Cueva y Museo Etnográfico"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die traditionelle Höhlenwohnung, die den Regen auf natürliche Weise abhält und einen faszinierenden, trockenen Einblick in das Leben bietet.",
+                "hu": "Fedezze fel a hagyományos barlanglakást, amely természetes menedéket nyújt az eső elől, lenyűgöző és teljesen száraz bepillantást engedve a múltba.",
+                "ro": "Explorați locuința tradițională din peșteră care respinge natural ploaia, oferind o privire fascinantă și perfect uscată asupra stilului de viață istoric.",
+                "en": "Explore the traditional cave dwelling that naturally repels the rain, offering a fascinating and perfectly dry glimpse into historical local lifestyles."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "en": "Museo de Arte \"Antonio Manuel Campoy\""
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstsammlung sicher im Trockenen und lassen Sie Ihren nassen Schirm im Foyer, um die lebhaften Meisterwerke in Ruhe zu genießen.",
+                "hu": "Csodálja meg a kortárs művészeti gyűjteményt biztonságban, zárt térben; hagyja vizes esernyőjét az előcsarnokban, és élvezze a lenyűgöző alkotásokat.",
+                "ro": "Admirați colecția impresionantă de artă contemporană la interior, lăsând umbrela udă în hol pentru a vă bucura pe deplin de capodoperele vibrante.",
+                "en": "Admire the impressive contemporary art collection safely indoors, leaving your wet umbrella in the lobby to fully enjoy the vibrant local masterpieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Cuevas del Almanzora",
+                "hu": "Ayuntamiento de Cuevas del Almanzora",
+                "ro": "Ayuntamiento de Cuevas del Almanzora",
+                "en": "Ayuntamiento de Cuevas del Almanzora"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das historische Rathaus, um plötzlichen Regengüssen zu entkommen und seine neoklassizistische Architektur im Trockenen zu bewundern.",
+                "hu": "Lépjen be a történelmi városházára, hogy elkerülje a hirtelen záporokat, és csodálja meg a neoklasszicista építészetet a kinti zord időjárás ellenére.",
+                "ro": "Intrați în primăria istorică pentru a scăpa de ploile bruște și admirați arhitectura sa neoclasică fără să vă faceți griji pentru vremea mohorâtă de afară.",
+                "en": "Step inside the historic town hall to escape sudden downpours and marvel at its neoclassical architecture without worrying about the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora de la Encarnación",
+                "hu": "Iglesia de Nuestra Señora de la Encarnación",
+                "ro": "Iglesia de Nuestra Señora de la Encarnación",
+                "en": "Iglesia de Nuestra Señora de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Altarbild in der Kirche und machen Sie eine friedliche, trockene Pause von den rutschigen, regennassen Pflastersteinen.",
+                "hu": "Csodálja meg a lenyűgöző barokk oltárképet a templom belsejében, békés és száraz pihenőt tartva a csúszós, esőtől nedves macskaköves utcák után.",
+                "ro": "Admirați magnificul altar baroc din interiorul acestei biserici, luând o pauză liniștită și uscată de la pietrele cubice alunecoase și ude de ploaie.",
+                "en": "Marvel at the magnificent baroque altarpiece inside this cavernous church, taking a peaceful, dry break from the slippery, rain-slicked cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Taller Emilio Sdun",
+                "hu": "Museo Taller Emilio Sdun",
+                "ro": "Museo Taller Emilio Sdun",
+                "en": "Museo Taller Emilio Sdun"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in dieser überdachten Werkstatt in die Welt der Typografie und Buchbinderei ein, eine fantastische Aktivität für regnerische Tage.",
+                "hu": "Merüljön el a tipográfia és a könyvkötészet izgalmas világában ebben a benti műhelyben, amely fantasztikus és tartalmas esős napi elfoglaltságot nyújt.",
+                "ro": "Pătrundeți în lumea tipografiei și a legătoriei de cărți în acest atelier interior, o activitate fantastică de zi ploioasă care vă va captiva.",
+                "en": "Delve into the fascinating world of typography and bookbinding in this indoor workshop, a fantastic rainy-day activity that keeps you fully engaged."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Francisco",
+                "hu": "Convento de San Francisco",
+                "ro": "Convento de San Francisco",
+                "en": "Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Kreuzgänge des Klosters und nutzen Sie die überdachten Wege, um trocken zu bleiben und die spirituelle Atmosphäre aufzusaugen.",
+                "hu": "Sétáljon végig a kolostor történelmi kerengőjén, használva a fedett sétányokat, hogy viszonylag száraz maradjon, miközben magába szívja a hangulatot.",
+                "ro": "Plimbați-vă prin mănăstirea istorică, folosind aleile acoperite pentru a rămâne uscați în timp ce absorbiți atmosfera profund spirituală.",
+                "en": "Walk through the historic cloisters of the convent, using its covered walkways to stay reasonably dry while absorbing the deep spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Antón",
+                "hu": "Iglesia de San Antón",
+                "ro": "Iglesia de San Antón",
+                "en": "Iglesia de San Antón"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese charmante Kirche, um sich von der nassen Fahrt zu trocknen und ihre schlichte Eleganz abseits von Schauern und Pfützen zu schätzen.",
+                "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megszáradjon a vizes utazás után, és értékelje az egyszerű eleganciát az esőzések és tócsák elől menekülve.",
+                "ro": "Intrați în această biserică fermecătoare pentru a vă usca după plimbare, apreciind eleganța sa simplă departe de ploile persistente și bălți.",
+                "en": "Step inside this charming local church to dry off from your wet ride, appreciating its simple elegance away from the persistent showers and puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Winterfahrt beginnt an der erstaunlich warmen Höhlenwohnung. Wärmen Sie sich mittags im Kunstmuseum und im großen Rathaus auf. Die Nachmittagssonne wärmt kurz, während Sie zur Kirche und Werkstatt radeln. Beenden Sie den kühlen Abend am Kloster und der Kirche San Antón kurz vor Sonnenuntergang um 17:00 Uhr; ziehen Sie sich warm gegen den kalten Wind an.",
+            "hu": "A frissítő téli biciklizés a meglepően meleg barlanglakásnál indul. Délben melegedjen fel a művészeti múzeumban és a városházán. A délutáni nap ad egy kis meleget, míg a templomhoz és a műhelyhez teker. Zárja a csípős estét a kolostornál és a San Antón templomnál még a 17:00 órás sötétedés előtt; öltözzön rétegesen a metsző szél ellen.",
+            "ro": "O plimbare revigorantă de iarnă începe la locuința din peșteră. La prânz, încălziți-vă în muzeul de artă și în grandioasa primărie. Soarele de după-amiază oferă o scurtă încălzire în timp ce pedalați spre biserică și atelier. Încheiați seara rece la mănăstire și biserica San Antón chiar înainte de apusul de la 17:00; îmbrăcați-vă în straturi împotriva vântului.",
+            "en": "A brisk winter ride starts at the surprisingly warm cave dwelling. By midday, warm up inside the art museum and the grand town hall. The afternoon sun provides a brief warming glow as you cycle to the historic church and the cozy workshop. Finish your chilly evening at the convent and San Antón church just before the 17:00 sunset; layer up well against the biting wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa-Cueva y Museo Etnográfico",
+                "hu": "Casa-Cueva y Museo Etnográfico",
+                "ro": "Casa-Cueva y Museo Etnográfico",
+                "en": "Casa-Cueva y Museo Etnográfico"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das einzigartige Höhlenmuseum, wo die Isolierung der Erde das Innere warm hält, ein perfekter Rückzugsort vor der Winterkälte.",
+                "hu": "Fedezze fel az egyedülálló barlangmúzeumot, ahol a föld szigetelése meglepően melegen tartja a belső teret, tökéletes menedéket nyújtva a téli hideg elől.",
+                "ro": "Descoperiți muzeul unic din peșteră unde izolarea pământului menține interiorul surprinzător de cald, fiind un refugiu perfect din calea frigului iernii.",
+                "en": "Discover the unique cave museum where the earth's insulation keeps the interior surprisingly warm, making it a perfect retreat from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "en": "Museo de Arte \"Antonio Manuel Campoy\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Galerien dieses Kunstmuseums und lassen Sie die hellen, farbenfrohen Gemälde Ihren Geist wärmen und dem Winterwind entkommen.",
+                "hu": "Élvezze a szépművészeti múzeum fűtött galériáit, hagyja, hogy a világos, színes festmények felmelegítsék a lelkét a kinti csípős téli szél elől menekülve.",
+                "ro": "Bucurați-vă de galeriile încălzite ale acestui muzeu, lăsând picturile luminoase să vă încălzească spiritul în timp ce scăpați de briza rece de iarnă.",
+                "en": "Enjoy the heated galleries of this fine art museum, letting the bright, colorful paintings warm your spirit while escaping the crisp winter breeze outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Cuevas del Almanzora",
+                "hu": "Ayuntamiento de Cuevas del Almanzora",
+                "ro": "Ayuntamiento de Cuevas del Almanzora",
+                "en": "Ayuntamiento de Cuevas del Almanzora"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im großen Rathaus, einem gemütlichen Stopp auf Ihrer Route, wo Sie die lokale Regierungsgeschichte fernab der beißenden Kälte erleben.",
+                "hu": "Keressen menedéket a grandiózus városháza épületében, egy barátságos megálló a hideg elől, ahol megismerheti a helyi közigazgatás lenyűgöző történetét.",
+                "ro": "Adăpostiți-vă în clădirea grandioasă a primăriei, o oprire primitoare unde puteți aprecia istoria administrației locale departe de frigul pătrunzător.",
+                "en": "Take shelter in the grand town hall building, a cozy stop along your route where you can appreciate local governance history away from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora de la Encarnación",
+                "hu": "Iglesia de Nuestra Señora de la Encarnación",
+                "ro": "Iglesia de Nuestra Señora de la Encarnación",
+                "en": "Iglesia de Nuestra Señora de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht im Kirchenschiff, wo die dicken Steinmauern eine zugluftfreie Umgebung bieten, um die religiösen Skulpturen zu bewundern.",
+                "hu": "Keressen menedéket a templom monumentális hajójában, ahol a vastag kőfalak huzatmentes környezetet biztosítanak a vallási szobrok megcsodálásához.",
+                "ro": "Căutați refugiu în nava monumentală a bisericii, unde pereții groși de piatră oferă un mediu fără curenți pentru a admira sculpturile religioase.",
+                "en": "Seek refuge in the church's monumental nave, where the thick stone walls provide a draft-free environment to admire the exquisite religious sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Taller Emilio Sdun",
+                "hu": "Museo Taller Emilio Sdun",
+                "ro": "Museo Taller Emilio Sdun",
+                "en": "Museo Taller Emilio Sdun"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von den Druckkünsten in diesem warm beleuchteten Studio inspirieren, das eine komfortable Flucht während der frühen Winterdämmerung bietet.",
+                "hu": "Merítsen ihletet a nyomdászat művészetéből ebben a meleg fényű stúdióban, amely kényelmes és tanulságos menedéket nyújt a korai téli szürkület idején.",
+                "ro": "Lăsați-vă inspirați de arta tipografică în acest studio cald luminat, oferind o evadare confortabilă și educativă în timpul amurgului timpuriu de iarnă.",
+                "en": "Get inspired by the intricate printing arts in this warmly lit studio space, providing a comfortable and educational escape during the early winter dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Francisco",
+                "hu": "Convento de San Francisco",
+                "ro": "Convento de San Francisco",
+                "en": "Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Kloster vor 17:00 Uhr; die unbeheizte Architektur erfordert einen dicken Mantel, aber das Licht der goldenen Stunde ist magisch.",
+                "hu": "Fedezze fel a békés kolostort 17:00 előtt; a fűtetlen kőépület vastag télikabátot igényel, de a lemenő nap aranyló fényében a látvány egyenesen varázslatos.",
+                "ro": "Explorați mănăstirea înainte de ora 17:00; arhitectura sa neîncălzită necesită o haină groasă, dar lumina orelor de aur este absolut magică.",
+                "en": "Explore the serene convent before 17:00; its beautiful, unheated stone architecture requires a thick winter coat, but the golden hour lighting is magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Antón",
+                "hu": "Iglesia de San Antón",
+                "ro": "Iglesia de San Antón",
+                "en": "Iglesia de San Antón"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese malerische Kirche am besten vor dem frühen Sonnenuntergang, der die Temperaturen senkt, und ziehen Sie sich warm gegen Zugluft an.",
+                "hu": "Látogasson el ebbe a hangulatos plébániatemplomba ideálisan még mielőtt a korai naplemente leviszi a hőmérsékletet, jól felöltözve a huzatos bejáratnál.",
+                "ro": "Vizitați această biserică pitorească înainte ca apusul timpuriu să scadă și mai mult temperaturile, îmbrăcându-vă bine împotriva curenților de la intrare.",
+                "en": "Visit this quaint parish church ideally before the early sunset drops the temperatures further, wrapping up well against the drafty old entranceward."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Autózzon reggel Almizaraque őskori romjaihoz, majd látogasson el az idilli San Antón templomhoz.\n\nDél körül érkezik a központba, ahol a kolostor és a nyomdamúzeum várja.\n\nDélután tegyen egy sétát a főtemplomtól az elegáns városházáig.\n\nA napot a kastély gazdag művészeti gyűjteménye és a hagyományos barlanglakások élménye zárja.",
         "ro": "Conduceți dimineața spre ruinele preistorice din Almizaraque și idilica biserică San Antón.\n\nÎn jurul prânzului ajungeți în centru, unde vă așteaptă mănăstirea și muzeul tipografiei.\n\nDupă-amiaza, faceți o plimbare de la biserica principală la eleganta primărie.\n\nZiua se încheie cu colecția de artă și fascinantele locuințe din peșteri.",
         "en": "Drive in the morning to the prehistoric ruins of Almizaraque and the idyllic San Antón church.\n\nAround midday, you reach the center to visit the convent and the printing museum.\n\nIn the afternoon, stroll from the main church to the elegant town hall.\n\nThe journey concludes with the castle's art collection and the traditional cave dwellings."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie früh zu den Almizaraque-Ruinen und nutzen Sie einen Schirm. Mittags parken Sie sicher an der Kirche und dem Kloster für Erkundungen im Innenbereich. Der regnerische Nachmittag ist perfekt für die Werkstatt, Hauptkirche und das Rathaus. Beenden Sie den Abend im Kunst- und Höhlenmuseum; fahren Sie vorsichtig, da die Straßen rutschig sein können.",
+            "hu": "Vezessen korán az Almizaraque romokhoz, esernyővel védve magát a kinti szakaszon. Délben parkoljon a templom és a kolostor közelében a benti programokhoz. Az esős délután tökéletes a műhely, a főtemplom és a városháza felfedezésére, minimális sétával. Zárja az estét a művészeti és barlangmúzeumoknál; vezessen óvatosan a csúszós utakon.",
+            "ro": "Conduceți devreme spre ruinele Almizaraque, folosind o umbrelă pentru scurta porțiune exterioară. La prânz, parcați în siguranță lângă biserică și mănăstire. După-amiaza ploioasă este perfectă pentru atelier, biserica principală și primărie, minimizând mersul pe jos. Încheiați seara la muzeele de artă și peșteră; conduceți cu prudență pe străzile alunecoase.",
+            "en": "Drive to the Almizaraque ruins early, using an umbrella for the short outdoor stretch. By midday, safely park near the church and convent for indoor exploration. The rainy afternoon is perfect for the workshop, main church, and town hall, minimizing outdoor walking. Finish the evening at the art and cave museums; drive carefully as the local streets can get slick when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Despoblado de Almizaraque",
+                "hu": "Despoblado de Almizaraque",
+                "ro": "Despoblado de Almizaraque",
+                "en": "Despoblado de Almizaraque"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm und wasserdichte Schuhe mit, um die Ruinen sicher zu erkunden, und halten Sie den Besuch kurz, bevor Sie ins Auto zurückkehren.",
+                "hu": "Hozzon magával erős esernyőt és vízálló cipőt a szabadtéri romok biztonságos felfedezéséhez; tartsa rövidre a látogatást, mielőtt visszatér a száraz autóba.",
+                "ro": "Aduceți o umbrelă și cizme impermeabile pentru a naviga în siguranță printre ruinele exterioare, scurtând vizita înainte de a vă întoarce în mașina uscată.",
+                "en": "Bring a sturdy umbrella and waterproof boots to navigate these ancient outdoor ruins safely, keeping your visit brief before returning to the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Antón",
+                "hu": "Iglesia de San Antón",
+                "ro": "Iglesia de San Antón",
+                "en": "Iglesia de San Antón"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese charmante Kirche, um sich von der nassen Fahrt zu trocknen und ihre schlichte Eleganz abseits von Schauern und Pfützen zu schätzen.",
+                "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megszáradjon a vizes utazás után, és értékelje az egyszerű eleganciát az esőzések és tócsák elől menekülve.",
+                "ro": "Intrați în această biserică fermecătoare pentru a vă usca după plimbare, apreciind eleganța sa simplă departe de ploile persistente și bălți.",
+                "en": "Step inside this charming local church to dry off from your wet ride, appreciating its simple elegance away from the persistent showers and puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Francisco",
+                "hu": "Convento de San Francisco",
+                "ro": "Convento de San Francisco",
+                "en": "Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Kreuzgänge des Klosters und nutzen Sie die überdachten Wege, um trocken zu bleiben und die spirituelle Atmosphäre aufzusaugen.",
+                "hu": "Sétáljon végig a kolostor történelmi kerengőjén, használva a fedett sétányokat, hogy viszonylag száraz maradjon, miközben magába szívja a hangulatot.",
+                "ro": "Plimbați-vă prin mănăstirea istorică, folosind aleile acoperite pentru a rămâne uscați în timp ce absorbiți atmosfera profund spirituală.",
+                "en": "Walk through the historic cloisters of the convent, using its covered walkways to stay reasonably dry while absorbing the deep spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Taller Emilio Sdun",
+                "hu": "Museo Taller Emilio Sdun",
+                "ro": "Museo Taller Emilio Sdun",
+                "en": "Museo Taller Emilio Sdun"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in dieser überdachten Werkstatt in die Welt der Typografie und Buchbinderei ein, eine fantastische Aktivität für regnerische Tage.",
+                "hu": "Merüljön el a tipográfia és a könyvkötészet izgalmas világában ebben a benti műhelyben, amely fantasztikus és tartalmas esős napi elfoglaltságot nyújt.",
+                "ro": "Pătrundeți în lumea tipografiei și a legătoriei de cărți în acest atelier interior, o activitate fantastică de zi ploioasă care vă va captiva.",
+                "en": "Delve into the fascinating world of typography and bookbinding in this indoor workshop, a fantastic rainy-day activity that keeps you fully engaged."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora de la Encarnación",
+                "hu": "Iglesia de Nuestra Señora de la Encarnación",
+                "ro": "Iglesia de Nuestra Señora de la Encarnación",
+                "en": "Iglesia de Nuestra Señora de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Altarbild in der Kirche und machen Sie eine friedliche, trockene Pause von den rutschigen, regennassen Pflastersteinen.",
+                "hu": "Csodálja meg a lenyűgöző barokk oltárképet a templom belsejében, békés és száraz pihenőt tartva a csúszós, esőtől nedves macskaköves utcák után.",
+                "ro": "Admirați magnificul altar baroc din interiorul acestei biserici, luând o pauză liniștită și uscată de la pietrele cubice alunecoase și ude de ploaie.",
+                "en": "Marvel at the magnificent baroque altarpiece inside this cavernous church, taking a peaceful, dry break from the slippery, rain-slicked cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Cuevas del Almanzora",
+                "hu": "Ayuntamiento de Cuevas del Almanzora",
+                "ro": "Ayuntamiento de Cuevas del Almanzora",
+                "en": "Ayuntamiento de Cuevas del Almanzora"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das historische Rathaus, um plötzlichen Regengüssen zu entkommen und seine neoklassizistische Architektur im Trockenen zu bewundern.",
+                "hu": "Lépjen be a történelmi városházára, hogy elkerülje a hirtelen záporokat, és csodálja meg a neoklasszicista építészetet a kinti zord időjárás ellenére.",
+                "ro": "Intrați în primăria istorică pentru a scăpa de ploile bruște și admirați arhitectura sa neoclasică fără să vă faceți griji pentru vremea mohorâtă de afară.",
+                "en": "Step inside the historic town hall to escape sudden downpours and marvel at its neoclassical architecture without worrying about the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "en": "Museo de Arte \"Antonio Manuel Campoy\""
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstsammlung sicher im Trockenen und lassen Sie Ihren nassen Schirm im Foyer, um die lebhaften Meisterwerke in Ruhe zu genießen.",
+                "hu": "Csodálja meg a kortárs művészeti gyűjteményt biztonságban, zárt térben; hagyja vizes esernyőjét az előcsarnokban, és élvezze a lenyűgöző alkotásokat.",
+                "ro": "Admirați colecția impresionantă de artă contemporană la interior, lăsând umbrela udă în hol pentru a vă bucura pe deplin de capodoperele vibrante.",
+                "en": "Admire the impressive contemporary art collection safely indoors, leaving your wet umbrella in the lobby to fully enjoy the vibrant local masterpieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Cueva y Museo Etnográfico",
+                "hu": "Casa-Cueva y Museo Etnográfico",
+                "ro": "Casa-Cueva y Museo Etnográfico",
+                "en": "Casa-Cueva y Museo Etnográfico"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die traditionelle Höhlenwohnung, die den Regen auf natürliche Weise abhält und einen faszinierenden, trockenen Einblick in das Leben bietet.",
+                "hu": "Fedezze fel a hagyományos barlanglakást, amely természetes menedéket nyújt az eső elől, lenyűgöző és teljesen száraz bepillantást engedve a múltba.",
+                "ro": "Explorați locuința tradițională din peșteră care respinge natural ploaia, oferind o privire fascinantă și perfect uscată asupra stilului de viață istoric.",
+                "en": "Explore the traditional cave dwelling that naturally repels the rain, offering a fascinating and perfectly dry glimpse into historical local lifestyles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt an den Ruinen von Almizaraque. Parken Sie mittags bei San Antón und dem Kloster, um die historischen Innenräume in warmen Schichten zu genießen. Verbringen Sie den klaren Nachmittag in der gemütlichen Werkstatt und der Kirche. Wenn es gegen 17:00 Uhr dunkel wird, wärmen Sie sich im Kunstmuseum und der einzigartigen Höhlenwohnung auf.",
+            "hu": "Kezdje a téli autózást az Almizaraque romoknál, mielőtt a nagy hideg beállna. Délben parkoljon a San Antón és a kolostor közelében, réteges ruházatban fedezve fel a történelmi belsőket. Töltse a csípős délutánt a hangulatos műhelyben és a templomban. Ahogy 17:00 körül sötétedik, fejezze be a napot a fűtött művészeti múzeumban és a barlanglakásban.",
+            "ro": "Începeți plimbarea de iarnă la ruinele Almizaraque înainte să se lase frigul. La prânz, parcați lângă San Antón și mănăstire pentru a admira interioarele în haine groase. Petreceți după-amiaza rece în atelierul primitor și biserica maiestuoasă. Când se întunecă în jur de 17:00, terminați la căldură în muzeul de artă și locuința din peșteră.",
+            "en": "Start your winter drive at the outdoor Almizaraque ruins before the chill sets in fully. At noon, park near San Antón and the convent to enjoy their historic but unheated interiors wrapped in warm layers. Spend the crisp afternoon in the cozy workshop and majestic church. As darkness falls around 17:00, finish warmly inside the art museum and the unique cave dwelling."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Despoblado de Almizaraque",
+                "hu": "Despoblado de Almizaraque",
+                "ro": "Despoblado de Almizaraque",
+                "en": "Despoblado de Almizaraque"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese faszinierende Stätte früh am Tag, wenn die Wintersonne die meiste Wärme bietet, und nutzen Sie die klare, kühle Sicht.",
+                "hu": "Fedezze fel ezt az izgalmas régészeti lelőhelyet a nap korai szakaszában, amikor a téli nap a legmelegebb, kihasználva a friss, tiszta látási viszonyokat.",
+                "ro": "Explorați acest sit arheologic devreme în zi când soarele de iarnă oferă cea mai multă căldură, profitând de vizibilitatea clară și proaspătă.",
+                "en": "Explore this fascinating archaeological site early in the day when the winter sun offers the most warmth, taking advantage of the crisp, clear visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Antón",
+                "hu": "Iglesia de San Antón",
+                "ro": "Iglesia de San Antón",
+                "en": "Iglesia de San Antón"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese malerische Kirche am besten vor dem frühen Sonnenuntergang, der die Temperaturen senkt, und ziehen Sie sich warm gegen Zugluft an.",
+                "hu": "Látogasson el ebbe a hangulatos plébániatemplomba ideálisan még mielőtt a korai naplemente leviszi a hőmérsékletet, jól felöltözve a huzatos bejáratnál.",
+                "ro": "Vizitați această biserică pitorească înainte ca apusul timpuriu să scadă și mai mult temperaturile, îmbrăcându-vă bine împotriva curenților de la intrare.",
+                "en": "Visit this quaint parish church ideally before the early sunset drops the temperatures further, wrapping up well against the drafty old entranceward."
+              }
+            },
+            {
+              "name": {
+                "de": "Convento de San Francisco",
+                "hu": "Convento de San Francisco",
+                "ro": "Convento de San Francisco",
+                "en": "Convento de San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Kloster vor 17:00 Uhr; die unbeheizte Architektur erfordert einen dicken Mantel, aber das Licht der goldenen Stunde ist magisch.",
+                "hu": "Fedezze fel a békés kolostort 17:00 előtt; a fűtetlen kőépület vastag télikabátot igényel, de a lemenő nap aranyló fényében a látvány egyenesen varázslatos.",
+                "ro": "Explorați mănăstirea înainte de ora 17:00; arhitectura sa neîncălzită necesită o haină groasă, dar lumina orelor de aur este absolut magică.",
+                "en": "Explore the serene convent before 17:00; its beautiful, unheated stone architecture requires a thick winter coat, but the golden hour lighting is magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Taller Emilio Sdun",
+                "hu": "Museo Taller Emilio Sdun",
+                "ro": "Museo Taller Emilio Sdun",
+                "en": "Museo Taller Emilio Sdun"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von den Druckkünsten in diesem warm beleuchteten Studio inspirieren, das eine komfortable Flucht während der frühen Winterdämmerung bietet.",
+                "hu": "Merítsen ihletet a nyomdászat művészetéből ebben a meleg fényű stúdióban, amely kényelmes és tanulságos menedéket nyújt a korai téli szürkület idején.",
+                "ro": "Lăsați-vă inspirați de arta tipografică în acest studio cald luminat, oferind o evadare confortabilă și educativă în timpul amurgului timpuriu de iarnă.",
+                "en": "Get inspired by the intricate printing arts in this warmly lit studio space, providing a comfortable and educational escape during the early winter dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Nuestra Señora de la Encarnación",
+                "hu": "Iglesia de Nuestra Señora de la Encarnación",
+                "ro": "Iglesia de Nuestra Señora de la Encarnación",
+                "en": "Iglesia de Nuestra Señora de la Encarnación"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht im Kirchenschiff, wo die dicken Steinmauern eine zugluftfreie Umgebung bieten, um die religiösen Skulpturen zu bewundern.",
+                "hu": "Keressen menedéket a templom monumentális hajójában, ahol a vastag kőfalak huzatmentes környezetet biztosítanak a vallási szobrok megcsodálásához.",
+                "ro": "Căutați refugiu în nava monumentală a bisericii, unde pereții groși de piatră oferă un mediu fără curenți pentru a admira sculpturile religioase.",
+                "en": "Seek refuge in the church's monumental nave, where the thick stone walls provide a draft-free environment to admire the exquisite religious sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Cuevas del Almanzora",
+                "hu": "Ayuntamiento de Cuevas del Almanzora",
+                "ro": "Ayuntamiento de Cuevas del Almanzora",
+                "en": "Ayuntamiento de Cuevas del Almanzora"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im großen Rathaus, einem gemütlichen Stopp auf Ihrer Route, wo Sie die lokale Regierungsgeschichte fernab der beißenden Kälte erleben.",
+                "hu": "Keressen menedéket a grandiózus városháza épületében, egy barátságos megálló a hideg elől, ahol megismerheti a helyi közigazgatás lenyűgöző történetét.",
+                "ro": "Adăpostiți-vă în clădirea grandioasă a primăriei, o oprire primitoare unde puteți aprecia istoria administrației locale departe de frigul pătrunzător.",
+                "en": "Take shelter in the grand town hall building, a cozy stop along your route where you can appreciate local governance history away from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+                "en": "Museo de Arte \"Antonio Manuel Campoy\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Galerien dieses Kunstmuseums und lassen Sie die hellen, farbenfrohen Gemälde Ihren Geist wärmen und dem Winterwind entkommen.",
+                "hu": "Élvezze a szépművészeti múzeum fűtött galériáit, hagyja, hogy a világos, színes festmények felmelegítsék a lelkét a kinti csípős téli szél elől menekülve.",
+                "ro": "Bucurați-vă de galeriile încălzite ale acestui muzeu, lăsând picturile luminoase să vă încălzească spiritul în timp ce scăpați de briza rece de iarnă.",
+                "en": "Enjoy the heated galleries of this fine art museum, letting the bright, colorful paintings warm your spirit while escaping the crisp winter breeze outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Cueva y Museo Etnográfico",
+                "hu": "Casa-Cueva y Museo Etnográfico",
+                "ro": "Casa-Cueva y Museo Etnográfico",
+                "en": "Casa-Cueva y Museo Etnográfico"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das einzigartige Höhlenmuseum, wo die Isolierung der Erde das Innere warm hält, ein perfekter Rückzugsort vor der Winterkälte.",
+                "hu": "Fedezze fel az egyedülálló barlangmúzeumot, ahol a föld szigetelése meglepően melegen tartja a belső teret, tökéletes menedéket nyújtva a téli hideg elől.",
+                "ro": "Descoperiți muzeul unic din peșteră unde izolarea pământului menține interiorul surprinzător de cald, fiind un refugiu perfect din calea frigului iernii.",
+                "en": "Discover the unique cave museum where the earth's insulation keeps the interior surprisingly warm, making it a perfect retreat from the winter chill."
+              }
+            }
+          ]
+        }
       }
     }
   }

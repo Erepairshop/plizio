@@ -137,6 +137,168 @@
         "hu": "Kezdje a nyüzsgő Place d'Armes téren, majd látogasson el a történelmi Saint-Marcellin templomba. \n\n Délben fedezze fel a Château du Mollard középkori romjait és a Le Bastion du Joud ősi erődítményeit. \n\n Délután tegyen egy festői sétát kelet felé, hogy felfedezze a nyugodt Église de la Transfigurationt. \n\n Zárja az estét egy helyi vacsorával, visszatekintve a város gazdag kulturális örökségére.",
         "ro": "Începeți la vibranta Place d'Armes, înainte de a vizita biserica istorică Saint-Marcellin. \n\n La amiază ajungeți la rămășițele medievale ale Château du Mollard și la vechile fortificații de la Le Bastion du Joud. \n\n După-amiază, faceți o plimbare pitorească spre est pentru a descoperi senina Biserică a Schimbării la Față. \n\n Încheiați seara cu o cină locală, reflectând asupra patrimoniului bogat.",
         "en": "Start at the lively Place d'Armes before visiting the historic Saint-Marcellin Church. \n\n Midday brings you to the medieval remnants of Château du Mollard and the ancient fortifications of Le Bastion du Joud. \n\n In the afternoon, take a scenic stroll eastwards to discover the serene Église de la Transfiguration. \n\n Conclude your evening with a relaxed local dinner, reflecting on the city's rich heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang an der Place d'Armes mit einem robusten Regenschirm. Suchen Sie am späten Vormittag Schutz in der historischen Kirche Saint-Marcellin. Navigieren Sie nachmittags vorsichtig um das Château du Mollard, da die Wege rutschig werden. Beenden Sie den feuchten Tag in der ruhigen Verklärungskirche, bevor Sie sich drinnen aufwärmen.",
+            "hu": "Kezdje esős sétáját a Place d'Armes téren, vízálló cipőben és esernyővel felszerelkezve. Délelőtt a történelmi Saint-Marcellin templomban találhat menedéket a záporok elől. Kora délután óvatosan járja be a Château du Mollard környékét a csúszós köveken. A vizes napot a békés Urunk Színeváltozása templomában zárja egy forró tea előtt.",
+            "ro": "Începeți plimbarea ploioasă în Place d'Armes cu o umbrelă robustă. Până la prânz, adăpostiți-vă în istorica Biserică Saint-Marcellin. După-amiaza, navigați cu grijă pe lângă Château du Mollard, unde cărările devin alunecoase. Încheiați ziua umedă în liniștita Biserică a Schimbării la Față, înainte de a găsi un loc cald în interior.",
+            "en": "Start your rainy walk at Place d'Armes, bringing a sturdy umbrella and waterproof shoes. Late morning, find excellent shelter in the historic Saint-Marcellin Church. By afternoon, navigate carefully around Château du Mollard as the old stones get very slippery. Conclude the damp afternoon inside the serene Église de la Transfiguration before returning indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place d'Armes",
+                "hu": "Place d'Armes",
+                "ro": "Place d'Armes",
+                "en": "Place d'Armes"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den historischen Platz sicher unter einem robusten Regenschirm; Vorsicht, die alten Pflastersteine werden im Regen sehr nass und berüchtigt rutschig.",
+                "hu": "Csodálja meg a történelmi teret a masszív esernyője alól; legyen nagyon óvatos, mert a régi macskakövek a heves esőzésben meglehetősen vizesek és csúszósak.",
+                "ro": "Admirați piața istorică în siguranță sub o umbrelă robustă; fiți foarte atenți, deoarece pietrele vechi devin destul de umede și notoriu de alunecoase în ploaie.",
+                "en": "Admire the historical square from safely under your sturdy umbrella; be very careful as the old cobblestones get quite wet and notoriously slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcellin",
+                "hu": "Saint-Marcellin templom",
+                "ro": "Biserica Saint-Marcellin",
+                "en": "Saint-Marcellin Church"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein hervorragender Regenschutz, wo Sie die atemberaubenden Buntglasfenster bewundern können, während Sie bei plötzlichen Regengüssen trocken bleiben.",
+                "hu": "Ez egy kiváló beltéri esőbeálló, ahol teljesen szárazon maradhat a hirtelen záporok idején, miközben megcsodálhatja a lenyűgöző ólomüveg ablakokat odabent.",
+                "ro": "Acesta este un refugiu excelent împotriva ploii, unde puteți admira vitraliile uimitoare, rămânând complet uscat în timpul averselor grele și bruște.",
+                "en": "This is an excellent indoor rain shelter where you can admire the stunning stained glass windows while staying completely dry during sudden heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Mollard",
+                "hu": "Château du Mollard",
+                "ro": "Château du Mollard",
+                "en": "Château du Mollard"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt wasserdichte Schuhe und achten Sie auf Ihre Schritte, da die grasbewachsenen Pfade um die Burgruine extrem matschig und rutschig werden.",
+                "hu": "Mindenképpen viseljen vízálló cipőt és nagyon figyeljen a lépéseire, mivel a kastélyromot körülvevő füves földutak az esőben rendkívül sárosak és csúszósak.",
+                "ro": "Asigurați-vă că purtați pantofi impermeabili și aveți grijă la pași, deoarece potecile înierbate din jurul ruinelor castelului devin extrem de noroioase.",
+                "en": "Make sure to wear fully waterproof shoes and watch your step carefully, as the grassy dirt paths surrounding the castle ruins get extremely muddy and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Bastion du Joud",
+                "hu": "Le Bastion du Joud",
+                "ro": "Le Bastion du Joud",
+                "en": "Le Bastion du Joud"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich Zeit und achten Sie genau auf Ihre Schritte, da die nassen historischen Steinstufen der alten Bastion bei Regen gefährlich rutschig werden.",
+                "hu": "Hagyjon elég időt magának és fokozottan ügyeljen a lépéseire, mert az ősi bástya nedves, történelmi kőlépcsői az esős időben kifejezetten csúszóssá válnak.",
+                "ro": "Luați-vă timp și fiți foarte atenți la pași când explorați această zonă, deoarece treptele istorice din piatră udă ale vechiului bastion devin extrem de alunecoase.",
+                "en": "Take your time and mind your step very carefully when exploring this area, as the wet historical stone steps of the ancient bastion become dangerously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Verklärungskirche",
+                "hu": "Urunk Színeváltozása templom",
+                "ro": "Biserica Schimbării la Față",
+                "en": "Église de la Transfiguration"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses friedliche Heiligtum als perfekten Ort, um sich nach einem nassen Nachmittagsspaziergang abzutrocknen, bevor Sie ein gemütliches Café suchen.",
+                "hu": "Használja ezt a békés belső szentélyt egy tökéletes helyként a száradásra a nedves délutáni séta végén, mielőtt keresne egy meleg, hangulatos közeli kávézót.",
+                "ro": "Folosiți acest sanctuar interior pașnic ca un loc perfect pentru a vă usca la sfârșitul plimbării umede, înainte de a găsi o cafenea caldă și confortabilă.",
+                "en": "Use this peaceful indoor sanctuary as a perfect spot to dry off at the end of your wet afternoon stroll before heading out to find a warm, cozy cafe nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren winterlichen Spaziergang an der Place d'Armes in warmen Schichten. Genießen Sie die morgendliche Ruhe in der Kirche Saint-Marcellin zum Aufwärmen. Die Nachmittagssonne taucht das Château du Mollard in schönes Licht. Beenden Sie die Tour an der Bastion du Joud und der Verklärungskirche vor der frühen Dämmerung gegen 17:00 Uhr.",
+            "hu": "Induljon téli sétájára a Place d'Armes térről, meleg réteges öltözetben. A délelőtti hideg elől húzódjon be a Saint-Marcellin templom csendjébe melegedni. Kora délután a Château du Mollard romjainál gyönyörű téli fények fogadják. Sétáját a Bastion du Joud és az Urunk Színeváltozása templománál fejezze be a korai sötétedés előtt.",
+            "ro": "Începeți plimbarea de iarnă în Place d'Armes, purtând straturi groase. Bucurați-vă de liniștea dimineții în Biserica Saint-Marcellin pentru a vă încălzi. După-amiaza, lumina de iarnă cade frumos pe Château du Mollard. Finalizați traseul la Bastion du Joud și Biserica Schimbării la Față, înainte ca soarele să apună devreme, la ora 17:00.",
+            "en": "Kick off your crisp winter walk at Place d'Armes wrapped in warm layers. Enjoy the calm morning ambiance at Saint-Marcellin Church to warm up. Afternoon sunlight hits Château du Mollard beautifully, though temperatures drop fast. Finish your historical stroll at Bastion du Joud and Église de la Transfiguration before the early dusk at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place d'Armes",
+                "hu": "Place d'Armes",
+                "ro": "Place d'Armes",
+                "en": "Place d'Armes"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Ihre schnellen Fotos in der Kälte; der offene Platz ist oft eisigen Winterwinden ausgesetzt, behalten Sie also Ihre wärmsten Handschuhe und Schal an.",
+                "hu": "Készítse el gyors fotóit a csípős hidegben; a nyitott tér gyakran ki van téve a fagyos téli szeleknek, ezért tartsa magán a legmelegebb kesztyűjét és sálját.",
+                "ro": "Faceți fotografii rapide în frigul tăios; piața deschisă este adesea expusă vânturilor înghețate de iarnă, așa că păstrați-vă cele mai calde mănuși și fularul.",
+                "en": "Take your quick, beautiful photos in the crisp cold; the open square is often exposed to freezing winter winds, so keep your warmest gloves and thick scarf on."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcellin",
+                "hu": "Saint-Marcellin templom",
+                "ro": "Biserica Saint-Marcellin",
+                "en": "Saint-Marcellin Church"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie hinein, um Ihre gefrorenen Hände aufzuwärmen; die unglaublich dicken Steinmauern leisten hervorragende Arbeit beim Blockieren der eisigen Winterwinde.",
+                "hu": "Lépjen be, hogy megfelelően felmelegítse fagyos kezeit; a hihetetlenül vastag kőfalak kiváló munkát végeznek a csontig hatoló, jeges téli szelek kizárásában.",
+                "ro": "Intrați pentru a vă încălzi mâinile înghețate; pereții de piatră incredibil de groși fac o treabă excelentă în blocarea completă a vânturilor reci de iarnă.",
+                "en": "Head inside to properly warm up your frozen hands; the incredibly thick stone walls do an excellent job of completely blocking out the freezing winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Mollard",
+                "hu": "Château du Mollard",
+                "ro": "Château du Mollard",
+                "en": "Château du Mollard"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare winterliche Aussicht auf die Landschaft, aber packen Sie sich wegen der exponierten, windigen Natur dieses hohen Geländes extra warm ein.",
+                "hu": "Élvezze a táj lenyűgözően tiszta téli kilátását, de ne felejtsen el extra melegen öltözni e magaslati, nyitott és szeles terep zord időjárási viszonyai miatt.",
+                "ro": "Bucurați-vă de priveliștile uimitor de clare de iarnă, dar nu uitați să vă îmbrăcați suplimentar din cauza naturii expuse și vântoase a acestui teren înalt.",
+                "en": "Enjoy the stunningly clear and crisp winter views of the landscape, but remember to bundle up extra warm due to the exposed, breezy nature of this high terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Bastion du Joud",
+                "hu": "Le Bastion du Joud",
+                "ro": "Le Bastion du Joud",
+                "en": "Le Bastion du Joud"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine speichern die eisigen Temperaturen; das Tragen von warmen, isolierten Handschuhen wird bei der Untersuchung der Ruinen dringend empfohlen.",
+                "hu": "Az ősi védelmi kövek megtartják a fagypont alatti hőmérsékletet és jéghidegek; meleg, szigetelt kesztyű viselése erősen ajánlott a történelmi romok vizsgálatakor.",
+                "ro": "Pietrele defensive antice rețin temperaturile de îngheț; purtarea unor mănuși calde și izolate este foarte recomandată în timp ce examinați aceste ruine vechi.",
+                "en": "The ancient defensive stones retain the freezing temperatures and feel like ice; wearing warm, insulated gloves is highly recommended while examining the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Verklärungskirche",
+                "hu": "Urunk Színeváltozása templom",
+                "ro": "Biserica Schimbării la Față",
+                "en": "Église de la Transfiguration"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre und wärmen Sie sich in den Seitenschiffen auf, kurz bevor sich die extrem frühe Winterdämmerung gegen 17:00 Uhr herabsenkt.",
+                "hu": "Élvezze a békés hangulatot és melegedjen fel a templom padjaiban, közvetlenül azelőtt, hogy a rendkívül korai téli sötétség 17:00 óra körül leszáll a városra.",
+                "ro": "Bucurați-vă de atmosfera senină și încălziți-vă în interiorul bisericii chiar înainte ca amurgul de iarnă extrem de timpuriu să se lase peste oraș în jur de 17:00.",
+                "en": "Enjoy the serene, dimly lit atmosphere and warm up inside the church aisles just before the extremely early winter dusk settles over the city around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Indítsa a kerékpártúrát a Place d'Armes téren és a közeli központi templomnál. \n\n Tekerjen el a Le Bastion du Joud mellett, majd észak felé a békés Église Saint-Véranhoz. \n\n Délután kerekezzen délre, és fedezze fel a Le Jardin Ferroviaire-t és a Château des Pauvrest. \n\n Este térjen vissza a központba, és élvezze a jól megérdemelt vacsorát egy aktív, városnézéssel töltött nap után.",
         "ro": "Începeți plimbarea cu bicicleta la Place d'Armes și la biserica centrală din apropiere. \n\n Pedalați pe lângă Le Bastion du Joud, apoi spre nord către liniștita Église Saint-Véran. \n\n Petreceți după-amiaza mergând spre sud pentru a explora Le Jardin Ferroviaire și intrigantul Château des Pauvres. \n\n Reveniți în centru pe măsură ce se lasă seara, bucurându-vă de o masă binemeritată după o zi activă.",
         "en": "Kick off your ride at the Place d'Armes and the nearby central church. \n\n Pedal past Le Bastion du Joud, then cycle north to admire the peaceful Église Saint-Véran. \n\n Spend your afternoon riding south to explore the interactive Le Jardin Ferroviaire and the intriguing Château des Pauvres. \n\n Return to the center as evening falls, enjoying a well-earned meal after an active day exploring the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie in wasserdichter Kleidung durch die Place d'Armes. Suchen Sie Schutz in der Kirche Saint-Marcellin, bevor Sie vorsichtig zur Bastion du Joud fahren. Die Nachmittagsfahrt zur Kirche Saint-Véran erfordert wegen nassem Asphalt Vorsicht. Beenden Sie die feuchte Tour am Jardin Ferroviaire und Château des Pauvres, achten Sie auf rutschigen Schlamm.",
+            "hu": "Vízálló, láthatósági ruházatban kerékpározzon a Place d'Armes téren. Keressen menedéket a Saint-Marcellin templomban, majd óvatosan tekerjen a Bastion du Joud felé. A délutáni út a Saint-Véran templomhoz csúszós aszfalton halad. Az esős túrát a Jardin Ferroviaire és a Château des Pauvres nedves útjain zárja, maximális figyelemmel.",
+            "ro": "Pedalați prin Place d'Armes purtând echipament impermeabil și vizibil. Refugiați-vă în Biserica Saint-Marcellin înainte de a merge spre Bastion du Joud. Drumul spre Biserica Saint-Véran necesită prudență din cauza asfaltului ud. Încheiați aventura ploioasă la Jardin Ferroviaire și Château des Pauvres, atenți la porțiunile alunecoase.",
+            "en": "Cycle through Place d'Armes wearing high-visibility waterproof gear. Take shelter at Saint-Marcellin Church before cautiously biking to Bastion du Joud. The afternoon ride to Église Saint-Véran requires care due to wet asphalt. End your rainy cycling adventure at Le Jardin Ferroviaire and Château des Pauvres, watching out for slippery muddy sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place d'Armes",
+                "hu": "Place d'Armes",
+                "ro": "Place d'Armes",
+                "en": "Place d'Armes"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie auf dem regennassen Pflaster frühzeitig und weichen Sie großen Pfützen aus, um ein Ausrutschen auf diesem historischen Stadtplatz zu vermeiden.",
+                "hu": "Kezdjen el korán fékezni az esőtől áztatott macskaköveken, és kerülje ki a nagyobb tócsákat, hogy elkerülje a megcsúszást ezen a történelmi városi téren.",
+                "ro": "Frânați devreme pe pietrele cubice udate de ploaie și ocoliți bălțile mari pentru a evita deraparea nedorită în această piață istorică a orașului.",
+                "en": "Brake early on the rain-soaked cobblestones and carefully avoid large puddles to prevent your bike tires from dangerously skidding in this historical square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcellin",
+                "hu": "Saint-Marcellin templom",
+                "ro": "Biserica Saint-Marcellin",
+                "en": "Saint-Marcellin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher draußen und nehmen Sie sich einen Moment Zeit, um im geschützten Kirchenschiff vor dem unerbittlichen Regen zu trocknen.",
+                "hu": "Támassza le kerékpárját biztonságosan odakint, és szánjon egy percet arra, hogy a védett, száraz templomhajóban megszáradjon a könyörtelen esőzés elől.",
+                "ro": "Parcați bicicleta în siguranță afară și acordați-vă un moment pentru a vă usca în naosul protejat al bisericii, departe de ploaia rece și neînduplecată.",
+                "en": "Park your bike safely outside and take a well-deserved moment to dry off inside the sheltered, peaceful nave away from the relentless pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Bastion du Joud",
+                "hu": "Le Bastion du Joud",
+                "ro": "Le Bastion du Joud",
+                "en": "Le Bastion du Joud"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem langsam an den nassen, historischen Mauern der alten Bastion vorbei; das nasse Laub auf dem Steinweg mindert die Traktion erheblich.",
+                "hu": "Fokozottan lassan tekerjen el a régi bástya nedves, történelmi falai mellett; a kőburkolaton lévő vizes őszi levelek jelentősen rontják a gumiabroncs tapadását.",
+                "ro": "Pedalați extrem de încet pe lângă zidurile istorice umede ale vechiului bastion; frunzele ude de pe calea de piatră reduc semnificativ tracțiunea roților.",
+                "en": "Ride extremely slowly past the wet, historical walls of the old bastion; the wet leaves scattered on the stone pathway will significantly reduce your tire traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Véran",
+                "hu": "Saint-Véran templom",
+                "ro": "Biserica Saint-Véran",
+                "en": "Église Saint-Véran"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem massiven Eingangsportal der Kirche Schutz, um sich während plötzlicher, heftiger Regenschauer trocken zu halten und die Route zu prüfen.",
+                "hu": "Keressen menedéket a templom masszív bejárati portálja alatt, hogy szárazon maradjon a hirtelen, heves felhőszakadások idején, és átgondolja a további útvonalat.",
+                "ro": "Căutați adăpost sub portalul masiv de la intrarea bisericii pentru a vă menține uscat în timpul averselor bruște și puternice și pentru a vă verifica traseul.",
+                "en": "Seek excellent shelter under the church's massive entrance portal to keep yourself dry during sudden, heavy downpours and safely double-check your cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Verklärungskirche",
+                "hu": "Urunk Színeváltozása templom",
+                "ro": "Biserica Schimbării la Față",
+                "en": "Église de la Transfiguration"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger, trockener Zwischenstopp für müde Radfahrer; seien Sie jedoch beim Absteigen vorsichtig, da die Pflastersteine vor dem Eingang sehr nass sind.",
+                "hu": "Kiváló, száraz pihenőhely a fáradt kerékpárosoknak; leszálláskor azonban legyen óvatos, mivel a bejárat előtti sima burkolat nagyon vizes és csúszik.",
+                "ro": "O oprire uscată excelentă pentru bicicliștii obosiți; cu toate acestea, aveți grijă la descălecare, deoarece pavajul din fața intrării este foarte ud și alunecos.",
+                "en": "A great, dry stopping point for tired cyclists; however, be cautious when dismounting as the smooth paving right in front of the entrance gets very wet and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jardin Ferroviaire",
+                "hu": "Le Jardin Ferroviaire",
+                "ro": "Le Jardin Ferroviaire",
+                "en": "Le Jardin Ferroviaire"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege im Park verwandeln sich schnell in tiefen Schlamm; bleiben Sie mit Ihrem Fahrrad strikt auf den asphaltierten oder geschotterten Abschnitten.",
+                "hu": "A park földútjai gyorsan mély sárrá változnak a heves esőzésben; kerékpárjával szigorúan csak az aszfaltozott vagy zúzottkővel borított szakaszokon maradjon.",
+                "ro": "Potecile de pământ din parc se transformă rapid în noroi adânc; rămâneți strict pe secțiunile asfaltate sau pietruite cu bicicleta pentru a evita blocarea.",
+                "en": "The dirt paths in the park quickly turn into deep, sticky mud; rigidly stick to the paved or crushed-gravel sections with your bike to avoid getting completely stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Pauvres",
+                "hu": "Château des Pauvres",
+                "ro": "Château des Pauvres",
+                "en": "Château des Pauvres"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Burgruine durch den Regenschleier, aber schalten Sie Ihre Lichter ein, da die starken Regenwolken diesen Bereich unerwartet dunkel machen.",
+                "hu": "Csodálja meg a várromot az esőfüggönyön keresztül, de kapcsolja be a kerékpárlámpáit, mert a sűrű, sötét esőfelhők váratlanul homályossá teszik ezt a területet.",
+                "ro": "Admirați ruinele castelului prin perdeaua de ploaie, dar aprindeți farurile, deoarece norii grei de ploaie fac această zonă împădurită neașteptat de întunecată.",
+                "en": "Admire the ruined castle through the veil of rain, but immediately turn on your bike lights as the heavy rain clouds make this area unexpectedly dark and gloomy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt an der Place d'Armes mit winddichten Schichten und Handschuhen. Wärmen Sie sich am Vormittag in der Kirche Saint-Marcellin auf. Fahren Sie zur Bastion du Joud und Kirche Saint-Véran. Achten Sie auf gute Fahrradbeleuchtung für den Nachmittag am Jardin Ferroviaire und Château des Pauvres vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Szélálló ruházatban és vastag kesztyűben induljon kerékpározni a Place d'Armes térről. Melegedjen fel délelőtt a Saint-Marcellin templomban. Szívja be a friss téli levegőt a Bastion du Joud és a Saint-Véran templom felé tekerve. Délután a Jardin Ferroviaire és a Château des Pauvres felé haladva kapcsolja be a lámpákat a 17:00 órás sötétedés miatt.",
+            "ro": "Începeți cursa de iarnă în Place d'Armes, purtând haine rezistente la vânt și mănuși. Încălziți-vă la Biserica Saint-Marcellin. Pedalați spre Bastion du Joud și Biserica Saint-Véran în aerul rece. Asigurați-vă că aveți lumini bune la bicicletă pentru după-amiaza la Jardin Ferroviaire și Château des Pauvres, înaintea apusului de la ora 17:00.",
+            "en": "Start your brisk winter ride at Place d'Armes, wearing windproof layers and thick gloves. Warm up inside Saint-Marcellin Church mid-morning. Ride to Bastion du Joud and Église Saint-Véran as the crisp winter air fills your lungs. Ensure you have good bike lights for the late afternoon at Jardin Ferroviaire and Château des Pauvres before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place d'Armes",
+                "hu": "Place d'Armes",
+                "ro": "Place d'Armes",
+                "en": "Place d'Armes"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck in der Kälte, bevor Sie den Platz verlassen, und achten Sie auf gefährliches Glatteis auf den schattigen Pflastersteinen.",
+                "hu": "Mielőtt elhagyja a teret, ellenőrizze a guminyomást a csípős hidegben, és fokozottan ügyeljen az árnyékos macskaköveken megbúvó veszélyes tükörjégre.",
+                "ro": "Verificați presiunea anvelopelor în frig înainte de a părăsi piața și fiți foarte atenți la gheața neagră periculoasă de pe pietrele cubice umbrite.",
+                "en": "Double-check your tire pressure in the freezing cold before leaving the square, and watch carefully for extremely dangerous black ice on the heavily shaded cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcellin",
+                "hu": "Saint-Marcellin templom",
+                "ro": "Biserica Saint-Marcellin",
+                "en": "Saint-Marcellin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Zwischenstopp drinnen, um das Gefühl in Ihren eisigen Fingern nach der eiskalten Morgenradfahrt in der Stadt wiederzuerlangen.",
+                "hu": "Használja ki ezt a fűtött, beltéri megállót, hogy a fagyos, jeges reggeli városi kerékpározás után visszanyerje az érzést az elgémberedett ujjaiban.",
+                "ro": "Profitați de această oprire interioară caldă pentru a vă recăpăta simțurile în degetele înghețate după cursa de dimineață extrem de rece prin oraș.",
+                "en": "Take full advantage of this warm indoor stop to completely regain the feeling in your freezing fingers after navigating the bitterly cold morning city ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Bastion du Joud",
+                "hu": "Le Bastion du Joud",
+                "ro": "Le Bastion du Joud",
+                "en": "Le Bastion du Joud"
+              },
+              "tip_5lang": {
+                "de": "Winterwinde können um die hohen Mauern der Bastion unerwartet stark sein; halten Sie den Lenker bei Böen mit dicken Handschuhen gut fest.",
+                "hu": "A téli szelek a bástya magas falai körül váratlanul felerősödhetnek; a hirtelen széllökések idején vastag kesztyűben is fogja szorosan a kerékpár kormányát.",
+                "ro": "Vânturile de iarnă pot fi neașteptat de puternice în jurul zidurilor înalte; țineți ferm ghidonul cu mănuși groase atunci când lovesc rafalele de vânt rece.",
+                "en": "Winter winds can funnel powerfully around the bastion's high walls; keep a firm, confident grip on your handlebars with thick gloves when sudden, icy gusts hit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Véran",
+                "hu": "Saint-Véran templom",
+                "ro": "Biserica Saint-Véran",
+                "en": "Église Saint-Véran"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihren kalten Körper im Kirchenschiff auf, bevor Sie Ihre winterliche Route fortsetzen; die kalte Luft entzieht beim Radfahren schnell Energie.",
+                "hu": "Melegítse fel fagyos testét a csendes templomhajóban, mielőtt folytatná a téli útvonalat; a jéghideg menetszél kerékpározás közben gyorsan elszívja az energiáját.",
+                "ro": "Încălziți-vă corpul înghețat în naosul liniștit al bisericii înainte de a continua traseul; aerul rece de iarnă epuizează rapid energia în timpul pedalării.",
+                "en": "Properly warm your freezing body inside the quiet church nave before continuing your route; the bitterly cold winter headwind drains cycling energy extremely fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Verklärungskirche",
+                "hu": "Urunk Színeváltozása templom",
+                "ro": "Biserica Schimbării la Față",
+                "en": "Église de la Transfiguration"
+              },
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Rückzugsort vor den sinkenden Nachmittagstemperaturen; stellen Sie sicher, dass Ihre Fahrradlichter bereit sind, wenn Sie wieder nach draußen gehen.",
+                "hu": "Kiváló menedék a gyorsan csökkenő késő délutáni hőmérséklet elől; győződjön meg róla, hogy a kerékpárlámpái fel vannak szerelve, mielőtt újra kilépne a hidegbe.",
+                "ro": "Un refugiu excelent împotriva scăderii bruște a temperaturilor de după-amiază; asigurați-vă că farurile bicicletei sunt pregătite când ieșiți din nou afară.",
+                "en": "An excellent retreat from the rapidly dropping late afternoon temperatures; strictly ensure your front and rear bike lights are ready before you head back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jardin Ferroviaire",
+                "hu": "Le Jardin Ferroviaire",
+                "ro": "Le Jardin Ferroviaire",
+                "en": "Le Jardin Ferroviaire"
+              },
+              "tip_5lang": {
+                "de": "Wunderschöner Raureif bedeckt oft die Pflanzen im Park, aber ziehen Sie sich gut an, da dieser offene Bereich durch den Wind extrem kalt werden kann.",
+                "hu": "Gyönyörű, csillogó zúzmara fedi gyakran a park növényeit, de öltözzön fel nagyon vastagon, mivel ez a nyílt terület a szél miatt szélsőségesen hideg lehet.",
+                "ro": "Chiciura frumoasă acoperă adesea plantele parcului, dar îmbrăcați-vă foarte gros, deoarece această zonă deschisă poate deveni extrem de rece din cauza vântului.",
+                "en": "Beautiful, sparkling frost often covers the park's winter plants, but bundle up heavily as this completely open, unprotected area gets severely cold in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Pauvres",
+                "hu": "Château des Pauvres",
+                "ro": "Château des Pauvres",
+                "en": "Château des Pauvres"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre hellen Fahrradlichter unbedingt ein, da die tiefen Winterschatten diesen bewaldeten historischen Bereich deutlich vor dem Sonnenuntergang verdunkeln.",
+                "hu": "Feltétlenül kapcsolja be az erős kerékpárlámpákat, mivel a mély téli árnyékok ezt az erdős, történelmi területet jóval a tényleges naplemente előtt elsötétítik.",
+                "ro": "Aprindeți farurile puternice ale bicicletei, deoarece umbrele adânci de iarnă întunecă această zonă istorică împădurită cu mult înainte de apusul efectiv.",
+                "en": "Absolutely turn on your brightest bike lights here, as the extremely deep, long winter shadows darken this wooded historical area long before the actual sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje a városközpontban, a Place d'Armes téren és a gyönyörű Saint-Marcellin templomnál. \n\n Vezessen délre, hogy meglátogassa a Jardin Ferroviaire-t és a Château des Pauvres történelmi területét. \n\n Délután hajtson el a nyugodt Karmelita kolostorhoz, mielőtt visszatérne az Église Saint-Véranhoz. \n\n Zárja a festői utazást kora este, egy hagyományos helyi étteremben pihenve.",
         "ro": "Începeți în centrul orașului la Place d'Armes și frumoasa biserică Saint-Marcellin. \n\n Conduceți spre sud pentru a vizita Jardin Ferroviaire și domeniul istoric Château des Pauvres. \n\n După-amiază, conduceți către mănăstirea Carmelită înainte de a vă întoarce la Église Saint-Véran. \n\n Încheiați-vă călătoria pitorească odată cu lăsarea serii, relaxându-vă la un restaurant tradițional din oraș.",
         "en": "Start with the town's core at Place d'Armes and the beautiful Saint-Marcellin Church. \n\n Drive south to visit the whimsical Jardin Ferroviaire and the historical grounds of Château des Pauvres. \n\n In the afternoon, drive out to the serene Carmelite Convent before heading back to see Église Saint-Véran. \n\n Conclude your scenic drive as evening sets in, relaxing at a traditional restaurant in town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zur Place d'Armes und parken Sie in der Nähe. Verbringen Sie den Morgen trocken in der schönen Kirche Saint-Marcellin. Erkunden Sie nachmittags Le Jardin Ferroviaire und Château des Pauvres zwischen den Regenschauern. Beenden Sie den feuchten Abend mit einer sicheren Fahrt zum Karmeliterkloster und zur Kirche Saint-Véran bei schlechter Sicht.",
+            "hu": "Vezessen kényelmesen a Place d'Armes-hoz, és parkoljon minél közelebb a záporok miatt. Töltse a délelőttöt a Saint-Marcellin templom száraz oltalma alatt. Kora délután két eső között fedezze fel a Jardin Ferroviaire-t és a Château des Pauvres-t. Az esős napot a Karmelita kolostor és a Saint-Véran templom látogatásával zárja, óvatosan vezetve a homályban.",
+            "ro": "Conduceți confortabil către Place d'Armes, parcând aproape pentru a evita ploaia. Petreceți dimineața la uscat în frumoasa Biserică Saint-Marcellin. După-amiaza, explorați Le Jardin Ferroviaire și Château des Pauvres printre averse. Încheiați seara umedă conducând cu grijă spre Mănăstirea Carmelită și Biserica Saint-Véran, pe fondul vizibilității reduse.",
+            "en": "Drive comfortably to Place d'Armes, parking close to avoid the rain. Spend the morning staying dry inside the beautiful Saint-Marcellin Church. In the afternoon, explore Le Jardin Ferroviaire and Château des Pauvres between rain showers. Finish the damp evening driving safely to the Carmelite Convent and Église Saint-Véran as road visibility drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place d'Armes",
+                "hu": "Place d'Armes",
+                "ro": "Place d'Armes",
+                "en": "Place d'Armes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich am Platz, um bei strömendem Regen trocken zu bleiben, und achten Sie beim Aussteigen auf tiefe Wasserpfützen.",
+                "hu": "Parkolja le autóját a lehető legközelebb a térhez, hogy a szakadó esőben száraz maradjon, és kiszálláskor fokozottan figyeljen a mély, rejtett pocsolyákra.",
+                "ro": "Parcați mașina cât mai aproape posibil pentru a rămâne uscat pe ploaie torențială și fiți foarte atenți la bălțile adânci ascunse când deschideți ușa.",
+                "en": "Park your car as closely as absolutely possible to the square to avoid getting soaked in the pouring rain, and watch for deep hidden puddles when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcellin",
+                "hu": "Saint-Marcellin templom",
+                "ro": "Biserica Saint-Marcellin",
+                "en": "Saint-Marcellin Church"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie schnell von Ihrem warmen Auto zum trockenen, geschützten Kircheneingang; drinnen können Sie die Architektur genießen, ohne völlig durchnässt zu werden.",
+                "hu": "Fussanak gyorsan a fűtött autóból a száraz, védett templombejáratig; odabent nyugodtan élvezhetik a lenyűgöző építészetet anélkül, hogy teljesen eláznának.",
+                "ro": "Fugiți rapid din mașina caldă către intrarea uscată și adăpostită a bisericii; înăuntru vă puteți bucura de arhitectură fără a fi complet uzi și rebegiți.",
+                "en": "Make a very quick dash from your warm car to the dry, sheltered church entrance; inside, you can peacefully enjoy the architecture without getting totally soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jardin Ferroviaire",
+                "hu": "Le Jardin Ferroviaire",
+                "ro": "Le Jardin Ferroviaire",
+                "en": "Le Jardin Ferroviaire"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den üppigen, nassen Park bequem von den Autositzen aus oder nehmen Sie einen großen, robusten Regenschirm für einen sehr kurzen, feuchten Spaziergang mit.",
+                "hu": "Csodálja meg a buja, eső áztatta parkot kényelmesen az autó üléseiből, vagy vigyen magával egy hatalmas, masszív esernyőt egy nagyon rövid, nedves sétához.",
+                "ro": "Admirați parcul umed și luxuriant din confortul scaunelor auto, sau luați o umbrelă mare și robustă pentru o scurtă plimbare pe potecile acoperite de apă.",
+                "en": "Comfortably admire the lush, wet park directly from inside your car seats, or aggressively deploy a massive, sturdy umbrella for a very short, damp outdoor stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Pauvres",
+                "hu": "Château des Pauvres",
+                "ro": "Château des Pauvres",
+                "en": "Château des Pauvres"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier extrem vorsichtig, da die ländliche Zufahrtsstraße zur Burg bei anhaltendem, starkem Regen unglaublich matschig, rutschig und unberechenbar wird.",
+                "hu": "Vezessen itt rendkívüli óvatossággal, mivel a kastélyhoz vezető vidéki bekötőút a tartós, heves esőzések során hihetetlenül sárossá, csúszóssá és kiszámíthatatlanná válik.",
+                "ro": "Conduceți cu extremă prudență, deoarece drumul rural de acces către castel devine incredibil de noroios, alunecos și imprevizibil pe timp de ploaie abundentă.",
+                "en": "Drive here with extreme caution, as the rural dirt access road leading up to the historic castle becomes incredibly muddy, dangerously slick, and fully unpredictable in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Karmeliterkloster",
+                "hu": "Karmelita kolostor",
+                "ro": "Mănăstirea Carmelită",
+                "en": "Carmelite Convent"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster bietet eine absolut friedliche, vollständig überdachte Zuflucht vor dem miserablen nassen Wetter; parken Sie für einen kurzen Spaziergang direkt am Tor.",
+                "hu": "A kolostor abszolút békés, teljesen fedett menedéket nyújt a barátságtalan, nyomorúságos nedves időjárás elől; a rövid séta érdekében parkoljon közvetlenül a kapunál.",
+                "ro": "Mănăstirea oferă un refugiu absolut pașnic și complet acoperit împotriva vremii umede mizerabile; parcați chiar la poartă pentru o plimbare scurtă la adăpost.",
+                "en": "The historical convent offers an absolutely peaceful, fully covered refuge from the miserable wet weather; purposely park right at the front gate for the shortest dash inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Verklärungskirche",
+                "hu": "Urunk Színeváltozása templom",
+                "ro": "Biserica Schimbării la Față",
+                "en": "Église de la Transfiguration"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wunderschöne Kunst im Trockenen, während Sie beruhigend zuhören, wie der schwere Regen sanft gegen die alten, historischen Fenster prasselt.",
+                "hu": "Élvezze a gyönyörű művészeti alkotásokat biztonságos szárazságban, miközben megnyugtatóan hallgatja, ahogy a súlyos esőcseppek lágyan kopognak a régi, történelmi ablakokon.",
+                "ro": "Bucurați-vă de arta frumoasă la uscat, în siguranță, în timp ce ascultați liniștitor cum ploaia grea bate încet în ferestrele vechi, istorice ale bisericii.",
+                "en": "Safely enjoy the beautiful religious art completely indoors while soothingly listening to the heavy, relentless rain gently hit the old, historical stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Véran",
+                "hu": "Saint-Véran templom",
+                "ro": "Biserica Saint-Véran",
+                "en": "Église Saint-Véran"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre verregnete Autotour mit einem trockenen, ruhigen Besuch hier; fahren Sie in der regnerischen Dämmerung vorsichtig zurück, die Sicht ist extrem schlecht.",
+                "hu": "Fejezze be esős autós túráját egy száraz, csendes látogatással itt; a szakadó, esős szürkületben rendkívül óvatosan hajtson vissza, mert a látási viszonyok borzalmasak.",
+                "ro": "Încheiați cursa auto ploioasă cu o vizită uscată și liniștită aici; conduceți cu mare grijă înapoi în amurgul ploios, deoarece vizibilitatea devine extrem de slabă.",
+                "en": "Finish your rainy driving tour with a completely dry, serene visit inside; strictly drive back carefully in the pouring dusk as the road visibility becomes dangerously terrible."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmes Auto ist ideal für Wintermorgen an der Place d'Armes. Genießen Sie die Wärme der Kirche Saint-Marcellin, bevor Sie zum Jardin Ferroviaire fahren. Die Winterlandschaft am Château des Pauvres ist beeindruckend. Beenden Sie die Tour am Karmeliterkloster und der Kirche Saint-Véran, fahren Sie vor Sonnenuntergang um 17:00 Uhr vorsichtig auf Frost.",
+            "hu": "A fűtött autó tökéletes menedék a téli reggelen a Place d'Armes-nál. Melegedjen fel a Saint-Marcellin templomban, majd vezessen a Jardin Ferroviaire-hez. Kora délután a Château des Pauvres téli környezete lenyűgöző. Fejezze be útját a Karmelita kolostornál és a Saint-Véran templomnál, figyelve a jeges utakra a 17:00 órás naplemente előtt.",
+            "ro": "O mașină caldă este perfectă pentru diminețile de iarnă în Place d'Armes. Bucurați-vă de căldura Bisericii Saint-Marcellin înainte de a conduce la Jardin Ferroviaire. Peisajul de iarnă de la Château des Pauvres este superb. Încheiați la Mănăstirea Carmelită și Biserica Saint-Véran, conducând atent pe drumuri înghețate înainte de ora 17:00.",
+            "en": "A deeply warm car is perfect for frosty winter mornings starting at Place d'Armes. Enjoy the indoor warmth of Saint-Marcellin Church before driving to Le Jardin Ferroviaire. The winter scenery at Château des Pauvres is stunning by early afternoon. Conclude at the Carmelite Convent and Église Saint-Véran, taking care on icy roads before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place d'Armes",
+                "hu": "Place d'Armes",
+                "ro": "Place d'Armes",
+                "en": "Place d'Armes"
+              },
+              "tip_5lang": {
+                "de": "Enteisen Sie Ihre Autoscheiben vollständig, bevor Sie an diesem eiskalten Morgen losfahren, und seien Sie beim Überqueren des oft gefrorenen Platzes extrem vorsichtig.",
+                "hu": "Ezen a fagyos, dermesztő reggelen indulás előtt teljesen jégmentesítse az autó ablakait, és legyen rendkívül óvatos, amikor átsétál a gyakran tükörjeges, csúszós téren.",
+                "ro": "Degivrați complet geamurile mașinii înainte de a pleca în această dimineață rece și fiți foarte precauți când traversați piața pietonală adesea înghețată.",
+                "en": "Completely defrost all your car windows before driving off this freezing morning, and be extremely cautious when walking across the often icy, wind-swept town square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcellin",
+                "hu": "Saint-Marcellin templom",
+                "ro": "Biserica Saint-Marcellin",
+                "en": "Saint-Marcellin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein äußerst komfortabler, warmer Ort, den Sie direkt nach dem Verlassen Ihres stark beheizten Autos erkunden können, um den eisigen, schneidenden Winden zu entkommen.",
+                "hu": "Rendkívül kényelmes, fűtött és meleg hely, amelyet közvetlenül a jól befűtött autójából kiszállva fedezhet fel, hogy azonnal elmeneküljön a jeges, metsző téli szelek elől.",
+                "ro": "Un loc extrem de confortabil și cald de explorat imediat după ce părăsiți mașina puternic încălzită, pentru a scăpa rapid de vânturile de iarnă înghețate și tăioase.",
+                "en": "An extremely comfortable, warm historical place to explore immediately after leaving your heated car, allowing you to instantly escape the bitter, freezing winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jardin Ferroviaire",
+                "hu": "Le Jardin Ferroviaire",
+                "ro": "Le Jardin Ferroviaire",
+                "en": "Le Jardin Ferroviaire"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene, glitzernde Winterlandschaft ist atemberaubend, aber achten Sie bei der Ankunft genau auf unsichtbares Glatteis auf dem schattigen Parkplatz.",
+                "hu": "A fagyott, csillogó téli táj egyszerűen lélegzetelállító, de érkezéskor fokozottan és folyamatosan ügyeljen a láthatatlan, rendkívül veszélyes tükörjégre az árnyékos parkolóban.",
+                "ro": "Peisajul înghețat și strălucitor este uluitor, dar fiți foarte atenți la gheața neagră invizibilă și periculoasă din zona de parcare umbrită când ajungeți.",
+                "en": "The frozen, sparkling winter landscape is breathtakingly stunning, but watch closely for totally invisible, highly dangerous black ice in the shaded parking area upon arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Pauvres",
+                "hu": "Château des Pauvres",
+                "ro": "Château des Pauvres",
+                "en": "Château des Pauvres"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr langsam, da die kleinen, ländlichen Straßen um die Burgruine am späten Winternachmittag extrem schnell vereisen und rutschig werden.",
+                "hu": "Vezessen nagyon lassan, mivel a várrom körüli keskeny, vidéki utak a késő téli délutánokon rendkívül gyorsan, váratlanul és alattomosan lefagynak.",
+                "ro": "Conduceți foarte încet, deoarece micile drumuri rurale din jurul ruinelor castelului îngheață extrem de repede și devin alunecoase la sfârșitul după-amiezii de iarnă.",
+                "en": "Drive very slowly and carefully, as the small, rural access roads around the historic castle ruins get completely iced over extremely fast in the late winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Karmeliterkloster",
+                "hu": "Karmelita kolostor",
+                "ro": "Mănăstirea Carmelită",
+                "en": "Carmelite Convent"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrzeug so nah wie möglich am Eingang, um Ihre unangenehme Exposition gegenüber den brutal eiskalten Winterwinden zu minimieren.",
+                "hu": "Parkolja le járművét a bejárathoz a lehető legközelebb, hogy teljesen minimalizálja a brutálisan fagyos, csontig hatoló téli szeleknek való kellemetlen kitettségét.",
+                "ro": "Parcați vehiculul cât mai aproape posibil de intrarea mănăstirii pentru a vă minimiza expunerea neplăcută la vânturile brutale și înghețate ale iernii.",
+                "en": "Purposefully park your vehicle as close to the main entrance as structurally possible to strictly minimize your unpleasant exposure to the brutally freezing winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Verklärungskirche",
+                "hu": "Urunk Színeváltozása templom",
+                "ro": "Biserica Schimbării la Față",
+                "en": "Église de la Transfiguration"
+              },
+              "tip_5lang": {
+                "de": "Ein äußerst gemütlicher und stimmungsvoller Stopp in der Dämmerung, um sich ein letztes Mal aufzuwärmen, bevor die bitterkalte, dunkle Winternacht über der Stadt hereinbricht.",
+                "hu": "Rendkívül hangulatos és békés megálló a korai szürkületben, ahol utoljára felmelegedhet, mielőtt a keservesen hideg, sötét téli éjszaka visszafordíthatatlanul leszáll a városra.",
+                "ro": "O oprire extrem de confortabilă și plină de atmosferă la amurg, pentru a vă încălzi înainte ca noaptea de iarnă, rece și întunecată, să se lase peste oraș.",
+                "en": "An extremely cozy, highly atmospheric historical stop at dusk to thoroughly warm up one last time before the bitterly cold, completely dark winter night firmly sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Véran",
+                "hu": "Saint-Véran templom",
+                "ro": "Biserica Saint-Véran",
+                "en": "Église Saint-Véran"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf dem Rückweg im Dunkeln äußerst vorsichtig, da die Straßenränder nach dem frühen Sonnenuntergang sehr stark zur gefährlichen Vereisung neigen.",
+                "hu": "A sötétben való visszautazás során legyen rendkívül óvatos, mivel az útpadkák és a hidak a korai naplemente után nagyon erősen hajlamosak a veszélyes, azonnali lefagyásra.",
+                "ro": "Conduceți cu mare atenție la întoarcere pe întuneric, deoarece marginile drumurilor sunt foarte predispuse la îngheț periculos imediat după apusul timpuriu.",
+                "en": "Drive back extremely carefully in the pitch dark, as the unprotected road edges and bridges are highly prone to dangerously freezing over rapidly after the early sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

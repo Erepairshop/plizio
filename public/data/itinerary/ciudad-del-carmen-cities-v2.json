@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot kulturális elmélyüléssel az egyetemi központban, majd készítsen egy gyors fotót a város színes betűinél. Délben: Merüljön el a régió történelmében a főmúzeumban, majd sétáljon le a történelmi hajóemlékműhöz. Délután: Folytassa útját dél felé, és tisztelegjen a helyi politikai történelem előtt a Colosio emlékműnél. Este: Zárja sétáját a nyugodt Playa Manigua strandon, élvezve a hűsítő tengeri szellőt és a jól megérdemelt parti kilátást.",
         "ro": "Dimineața: Începeți cu o imersiune culturală la centrul universitar și faceți o fotografie rapidă cu literele colorate ale orașului. La prânz: Descoperiți istoria regională la muzeul principal, înainte de a vă plimba spre monumentul istoric în formă de barcă. După-amiaza: Continuați spre sud pentru a onora istoria politică locală la monumentul Colosio. Seara: Încheiați turul relaxându-vă la Playa Manigua, bucurându-vă de briza mării și de o priveliște de coastă bine meritată.",
         "en": "Morning: Start with cultural immersion at the university center and grab a quick photo with the colorful city letters. Midday: Dive into regional history at the main museum before strolling down to the historical boat monument. Afternoon: Continue south to honor local political history at the Colosio monument as the heat of the day begins to fade. Evening: End your walking tour relaxing at Playa Manigua, enjoying the sea breeze and a well-deserved coastal view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Kulturzentrum UNACAR. Mittags bietet das Museum eine ideale Zuflucht vor den tropischen Güssen. Am Nachmittag führt der Weg entlang feuchter Straßen zur Glorieta, während der Wind an der Küste zunimmt. Der Abend an der Playa Manigua ist geprägt von einer dramatischen, regenverhangenen Meereskulisse und glänzenden Gehwegen.",
+            "hu": "A reggel a UNACAR kulturális központ fedett termeiben indul, távol a hirtelen zivataroktól. Délben a múzeum nyújt száraz menedéket a város felfedezése közben. Délután az eső áztatta utcákon át érjük el a Glorietát, ahol a tengeri szél felerősödhet. Az este a Playa Manigua partján zárul, ahol a szürke égbolt és a hullámzás különleges, melankolikus hangulatot áraszt.",
+            "ro": "Dimineața începe la adăpost în centrul cultural UNACAR. La prânz, muzeul oferă refugiul ideal împotriva averselor tropicale. După-amiaza continuăm pe străzile umede spre Glorieta, în timp ce vântul se intensifică la malul mării. Seara la Playa Manigua este marcată de un peisaj marin dramatic sub ploaie și de reflexiile luminilor pe asfaltul ud.",
+            "en": "The morning starts sheltered within the UNACAR cultural center. At noon, the museum provides an ideal refuge from tropical downpours. In the afternoon, the walk continues through damp streets towards the Glorieta as coastal winds pick up. The evening at Playa Manigua features a dramatic rainy seascape and the glimmer of city lights on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro cultural de la UNACAR",
+                "hu": "Centro cultural de la UNACAR",
+                "ro": "Centro cultural de la UNACAR",
+                "en": "Centro cultural de la UNACAR"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen in den weitläufigen Innenräumen und nutzen Sie die überdachten Gänge als perfekten Schutz vor dem morgendlichen Regen.",
+                "hu": "Fedezze fel a belső terek kiállításait, és használja a fedett folyosókat tökéletes menedékként a reggeli trópusi eső elől.",
+                "ro": "Explorați expozițiile din interior și folosiți coridoarele acoperite ca protecție perfectă împotriva ploii de dimineață.",
+                "en": "Explore the indoor exhibitions and use the covered walkways as a perfect sanctuary from the morning tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CARMEN",
+                "hu": "Letras CARMEN",
+                "ro": "Letras CARMEN",
+                "en": "Letras CARMEN"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto mit den bunten Buchstaben, wenn der Regen kurz nachlässt, aber achten Sie auf den rutschigen Untergrund beim Posieren.",
+                "hu": "Készítsen egy gyors fotót a színes betűkkel az esőszünetben, de ügyeljen a csúszós talajra a pózolás közben.",
+                "ro": "Faceți o fotografie rapidă cu literele colorate când ploaia se oprește scurt, dar aveți grijă la suprafața alunecoasă în timp ce pozați.",
+                "en": "Snap a quick photo with the colorful letters during a break in the rain, but be careful of the slippery ground while posing."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo",
+                "hu": "Museo",
+                "ro": "Museo",
+                "en": "Museo"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um die Geschichte der Insel im Trockenen zu vertiefen, während draußen der stärkste Mittagsregen niedergeht.",
+                "hu": "Ez az ideális helyszín a sziget történelmének felfedezésére, miközben odakint a leghevesebb déli eső áztatja az utcákat.",
+                "ro": "Acesta este locul ideal pentru a aprofunda istoria insulei la adăpost, în timp ce afară cade cea mai puternică ploaie de la amiază.",
+                "en": "This is the ideal place to delve into the island's history while staying dry during the heaviest midday rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "El Barquito",
+                "hu": "El Barquito",
+                "ro": "El Barquito",
+                "en": "El Barquito"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Monument von den nahegelegenen Arkaden aus, um trocken zu bleiben, und achten Sie auf Pfützen in der Umgebung.",
+                "hu": "Csodálja meg az emlékművet a közeli árkádok alól, hogy száraz maradjon, és ügyeljen a környező mélyebb tócsákra.",
+                "ro": "Admirați monumentul de sub arcadele din apropiere pentru a rămâne uscat și aveți grijă la bălțile din zonă.",
+                "en": "Admire the monument from the nearby arcades to stay dry, and keep an eye out for deep puddles in the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Glorieta Luis Donaldo Colosio",
+                "hu": "Glorieta Luis Donaldo Colosio",
+                "ro": "Glorieta Luis Donaldo Colosio",
+                "en": "Glorieta Luis Donaldo Colosio"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur bietet begrenzten Schutz, daher ist ein stabiler Regenschirm unerlässlich, um die Aussicht auf die stürmische Lagune zu genießen.",
+                "hu": "Az építmény korlátozott védelmet nyújt, így egy erős esernyő elengedhetetlen a viharos lagúnára nyíló kilátás élvezetéhez.",
+                "ro": "Arhitectura oferă adăpost limitat, așa că o umbrelă rezistentă este esențială pentru a vă bucura de vederea spre laguna agitată.",
+                "en": "The architecture offers limited shelter, so a sturdy umbrella is essential to enjoy the views of the stormy lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manigua",
+                "hu": "Playa Manigua",
+                "ro": "Playa Manigua",
+                "en": "Playa Manigua"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der Palapas am Strand und genießen Sie das Rauschen der Wellen bei Regen in einer authentischen Atmosphäre.",
+                "hu": "Keressen menedéket a tengerparti palapák egyikében, és élvezze a hullámok morajlását az esőben, autentikus környezetben.",
+                "ro": "Căutați adăpost într-una dintre palapas de pe plajă și bucurați-vă de sunetul valurilor pe ploaie, într-o atmosferă autentică.",
+                "en": "Find shelter in one of the beach palapas and enjoy the sound of the crashing waves in the rain for an atmospheric experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist mild und perfekt für einen Spaziergang zum Kulturzentrum. Mittags sorgt die angenehme Brise für Erfrischung beim Museumsbesuch. Da die Sonne bereits gegen 17:00 Uhr untergeht, taucht der frühe Abend die Küste in ein warmes, goldenes Licht. Den Abschluss bildet ein kühlerer, aber sternklarer Abend an der Playa Manigua.",
+            "hu": "A téli reggel enyhe és tökéletes egy sétához a kulturális központ felé. Napközben a friss szellő teszi kellemessé a múzeumi látogatást. Mivel a nap korán, 17:00 körül nyugszik, az alkonyat hamar aranyba vonja a partot. A napot a Playa Manigua hűvösebb, de tiszta levegőjű, csillagos estéje zárja.",
+            "ro": "Dimineața de iarnă este blândă și perfectă pentru o plimbare spre centrul cultural. La prânz, briza plăcută face vizita la muzeu foarte relaxantă. Deoarece soarele apune devreme, în jurul orei 17:00, amurgul scaldă malul mării într-o lumină aurie. Seara se încheie la Playa Manigua, cu un aer mai rece, dar senin.",
+            "en": "The winter morning is mild and perfect for a walk to the cultural center. At noon, the pleasant breeze makes visiting the museum very refreshing. Since the sun sets early around 17:00, the afternoon light bathes the coast in a warm golden glow. The day ends with a cooler but clear starry evening at Playa Manigua."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro cultural de la UNACAR",
+                "hu": "Centro cultural de la UNACAR",
+                "ro": "Centro cultural de la UNACAR",
+                "en": "Centro cultural de la UNACAR"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milden Temperaturen für einen Besuch der Außenanlagen des Zentrums, bevor Sie die klimatisierten Innenräume betreten.",
+                "hu": "Használja ki az enyhe hőmérsékletet a központ külső udvarainak megtekintésére, mielőtt belépne a temperált belső terekbe.",
+                "ro": "Profitați de temperaturile blânde pentru a vizita curțile exterioare ale centrului înainte de a intra în spațiile interioare.",
+                "en": "Take advantage of the mild temperatures to visit the center's outdoor courtyards before exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CARMEN",
+                "hu": "Letras CARMEN",
+                "ro": "Letras CARMEN",
+                "en": "Letras CARMEN"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht am Vormittag ist ideal für Fotos; bringen Sie eine leichte Jacke gegen die kühle Meeresbrise mit.",
+                "hu": "A délelőtti lágy fények ideálisak a fotózáshoz; vigyen magával egy könnyű kabátot a hűvös tengeri szél ellen.",
+                "ro": "Lumina blândă a dimineții este ideală pentru fotografii; aduceți o jachetă ușoară împotriva brizei răcoroase a mării.",
+                "en": "The soft morning light is ideal for photos; bring a light jacket to protect against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo",
+                "hu": "Museo",
+                "ro": "Museo",
+                "en": "Museo"
+              },
+              "tip_5lang": {
+                "de": "Die angenehme Lufttemperatur macht den Aufenthalt in den historischen Hallen besonders komfortabel und einladend.",
+                "hu": "A kellemes levegő különösen kényelmessé és hívogatóvá teszi az időtöltést a történelmi épület hűvösebb csarnokaiban.",
+                "ro": "Temperatura plăcută face ca timpul petrecut în sălile istorice să fie deosebit de confortabil și primitor.",
+                "en": "The pleasant air temperature makes spending time in the historic halls especially comfortable and inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "El Barquito",
+                "hu": "El Barquito",
+                "ro": "El Barquito",
+                "en": "El Barquito"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den historischen Platz ohne die extreme Sommerhitze; die tiefstehende Sonne bietet wunderbare Lichtschatten.",
+                "hu": "Élvezze a történelmi teret az extrém nyári hőség nélkül; az alacsonyabban járó nap csodás fény-árnyék játékot vetít.",
+                "ro": "Bucurați-vă de piața istorică fără căldura extremă a verii; soarele jos oferă un joc minunat de lumini și umbre.",
+                "en": "Enjoy the historic square without the extreme summer heat; the lower sun creates wonderful light and shadow patterns."
+              }
+            },
+            {
+              "name": {
+                "de": "Glorieta Luis Donaldo Colosio",
+                "hu": "Glorieta Luis Donaldo Colosio",
+                "ro": "Glorieta Luis Donaldo Colosio",
+                "en": "Glorieta Luis Donaldo Colosio"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 17:00 Uhr hier, um den schnellen Sonnenuntergang über der Lagune in herrlich kühler Atmosphäre zu erleben.",
+                "hu": "Érkezzen 17:00 körül, hogy tanúja legyen a lagúna feletti gyors naplementének a kellemesen friss levegőn.",
+                "ro": "Fiți aici în jurul orei 17:00 pentru a asista la apusul rapid de deasupra lagunei, într-o atmosferă plăcut de răcoroasă.",
+                "en": "Be here around 17:00 to witness the rapid sunset over the lagoon in a refreshingly cool atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manigua",
+                "hu": "Playa Manigua",
+                "ro": "Playa Manigua",
+                "en": "Playa Manigua"
+              },
+              "tip_5lang": {
+                "de": "Der Abend am Strand kann kühl werden; ein warmer Pullover ist ratsam, um die beleuchtete Küste länger zu genießen.",
+                "hu": "A tengerparti este hűvös lehet; egy meleg pulóver ajánlott, hogy hosszabb ideig élvezhesse a kivilágított partot.",
+                "ro": "Seara pe plajă poate fi răcoroasă; un pulover călduros este recomandat pentru a vă bucura mai mult de malul iluminat.",
+                "en": "The evening on the beach can get chilly; a warm sweater is recommended to enjoy the lit-up coastline for longer."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Délelőtt: Kerekezzen az északi parton, fedezze fel a történelmi ágyúkat, és rója le tiszteletét a régió tengerészei előtt a lenyűgöző emlékműveknél. Délben: Tekerjen a Kék Lagúna mólóhoz, ahol családias hangulat várja, majd látogasson el a helyi állatkertbe. Délután: Guruljon le a városi múzeumhoz, hogy gazdagítsa tudását, majd tegyen egy gyors kitérőt az ikonikus CARMEN felirathoz. Este: Fejezze be kerékpáros túráját az El Barquitónál, és csodálja meg a történelmi hajón megcsillanó naplemente színeit.",
         "ro": "Dimineața: Pedați de-a lungul coastei de nord, descoperind tunuri istorice și omagiind marinarii la monumentele maiestuoase. La prânz: Mergeți la digul Laguna Albastră pentru o atmosferă de familie și vizitați grădina zoologică locală pentru a vedea fauna. După-amiaza: Coborâți spre muzeul orașului pentru a vă îmbogăți cunoștințele, apoi vizitați rapid iconicul semn CARMEN. Seara: Încheiați călătoria cu bicicleta la El Barquito, admirând culorile apusului reflectându-se pe structura bărcii istorice.",
         "en": "Morning: Pedal along the northern shore, discovering historical cannons and paying respects to mariners at the majestic monuments. Midday: Ride to the Blue Lagoon pier for family-friendly vibes and visit the local zoo to see regional wildlife up close. Afternoon: Cruise down to the city museum to enrich your knowledge, then quickly visit the iconic CARMEN sign. Evening: Conclude your bike journey at El Barquito, admiring the sunset colors reflecting on the historical vessel structure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den glatten Straßen zur Glorieta. Mittags bieten der Muelle und das Museum überdachte Stopps. Am Nachmittag kann der Weg zum Zoo schlammig sein, daher ist langsameres Fahren ratsam. Der Abend endet bei nachlassendem Regen an den leuchtenden Letras und am Barquito, wo Pfützen die Lichter der Stadt reflektieren.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a Glorieta felé vezető csúszós utakon. Délben a Muelle és a múzeum kínál fedett megállókat. Délután az állatkert felé vezető út sáros lehet, így lassabb tempó javasolt. Az este a lecsendesedő esőben zárul a Letras betűinél és a Barquitónál, ahol a tócsák visszatükrözik a város fényeit.",
+            "ro": "Mersul cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase spre Glorieta. La prânz, Muelle și muzeul oferă opriri acoperite. După-amiaza, drumul spre grădina zoologică poate fi noroios, deci se recomandă o viteză redusă. Seara se încheie cu ploaia care se domolește la Letras și Barquito, unde bălțile reflectă luminile orașului.",
+            "en": "Cycling in the rain requires caution on the slippery roads to the Glorieta. At noon, the Muelle and the museum offer covered stops. In the afternoon, the path to the zoo may be muddy, so a slower pace is advised. The evening ends as the rain subsides at the Letras and Barquito, where puddles reflect the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Glorieta el Canon",
+                "hu": "Glorieta el Canon",
+                "ro": "Glorieta el Canon",
+                "en": "Glorieta el Canon"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Metallabdeckungen und Markierungen auf der Straße, die bei Regen für Fahrradreifen extrem rutschig werden.",
+                "hu": "Ügyeljen az úton lévő fémfedlapokra és felfestésekre, amelyek esőben rendkívül csúszóssá válnak a kerékpárgumik számára.",
+                "ro": "Aveți grijă la capacele metalice și marcajele de pe drum, care devin extrem de alunecoase pentru anvelopele de bicicletă pe ploaie.",
+                "en": "Watch out for metal covers and road markings, which become extremely slippery for bike tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentos Los Marinos",
+                "hu": "Monumentos Los Marinos",
+                "ro": "Monumentos Los Marinos",
+                "en": "Monumentos Los Marinos"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto; halten Sie Ihr Regenzeug bereit, da die Gischt der Lagune den Regen hier verstärken kann.",
+                "hu": "Gyors megálló egy fotóra; tartsa készenlétben az esőfelszerelését, mert a lagúna felcsapó vize itt fokozhatja az eső hatását.",
+                "ro": "O oprire rapidă pentru o fotografie; țineți echipamentul de ploaie la îndemână, deoarece stropii lagunei pot intensifica ploaia aici.",
+                "en": "A quick stop for a photo; keep your rain gear ready as the lagoon's spray can intensify the wetness here."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle Laguna Azul",
+                "hu": "Muelle Laguna Azul",
+                "ro": "Muelle Laguna Azul",
+                "en": "Muelle Laguna Azul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und suchen Sie Schutz unter den Dachkonstruktionen, während Sie den Regen über dem Wasser beobachten.",
+                "hu": "Parkolja le biztonságosan a biciklijét, és keressen menedéket a tetőszerkezetek alatt, miközben az esőt figyeli a víz felett.",
+                "ro": "Parcați bicicleta în siguranță și căutați adăpost sub structurile acoperite în timp ce priviți ploaia deasupra apei.",
+                "en": "Park your bike securely and find shelter under the roof structures while watching the rain fall over the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologico",
+                "hu": "Zoologico",
+                "ro": "Zoologico",
+                "en": "Zoologico"
+              },
+              "tip_5lang": {
+                "de": "Einige Wege können aufgeweicht sein; nutzen Sie die überdachten Beobachtungspunkte, um die Tiere im Regen zu sehen.",
+                "hu": "Néhány ösvény felázhat; használja a fedett megfigyelőpontokat, hogy szárazon láthassa az állatokat az esőben.",
+                "ro": "Unele poteci pot fi noroioase; folosiți punctele de observare acoperite pentru a vedea animalele pe ploaie.",
+                "en": "Some paths might be muddy; use the covered observation points to see the animals during the rain while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo",
+                "hu": "Museo",
+                "ro": "Museo",
+                "en": "Museo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen längeren Stopp, um sich aufzuwärmen und Ihre Kleidung zu trocknen, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Használja ki ezt a hosszabb megállót, hogy átmelegedjen és megszárítsa ruháit, mielőtt folytatná a kerékpározást.",
+                "ro": "Profitați de această oprire mai lungă pentru a vă încălzi și a vă usca hainele înainte de a continua drumul.",
+                "en": "Take advantage of this longer stop to warm up and dry your clothes before continuing your bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CARMEN",
+                "hu": "Letras CARMEN",
+                "ro": "Letras CARMEN",
+                "en": "Letras CARMEN"
+              },
+              "tip_5lang": {
+                "de": "Die glänzenden Buchstaben im Regen bieten ein einzigartiges Motiv; wischen Sie den Sattel vor der Weiterfahrt gut ab.",
+                "hu": "A fényes, eső áztatta betűk egyedi fotótémát kínálnak; alaposan törölje le a nyerget, mielőtt tovább indulna.",
+                "ro": "Literele strălucitoare sub ploaie oferă un subiect foto unic; ștergeți bine șaua înainte de a pleca mai departe.",
+                "en": "The shiny, rain-soaked letters offer a unique photo opportunity; wipe your seat thoroughly before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "El Barquito",
+                "hu": "El Barquito",
+                "ro": "El Barquito",
+                "en": "El Barquito"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour unter dem Schutz der nahen Gebäude; achten Sie bei Dunkelheit und Nässe auf die Bremswirkung.",
+                "hu": "Zárja a túrát a közeli épületek védelmében; ügyeljen a fékek hatékonyságára a sötétben és a vizes úton.",
+                "ro": "Încheiați turul sub protecția clădirilor din apropiere; aveți grijă la eficiența frânelor pe întuneric și drum ud.",
+                "en": "End your tour under the shelter of nearby buildings; be mindful of reduced braking efficiency in the dark and wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterbrise macht das Radfahren am Morgen besonders angenehm. Mittags ist die Sonne nicht zu stark, ideal für den Zoobesuch. Da es bereits gegen 17:00 Uhr dämmert, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung für den Abend an den Letras und am Barquito funktioniert. Die klare Abendluft sorgt für eine erfrischende Rückfahrt.",
+            "hu": "A hűvös téli szellő különösen kellemessé teszi a reggeli kerékpározást. Napközben a nap nem túl erős, ideális az állatkerti sétához. Mivel 17:00 körül már sötétedik, ellenőrizze a kerékpáros lámpákat az esti Letras és Barquito megállókhoz. A tiszta esti levegő frissítő befejezést nyújt a túrának.",
+            "ro": "Briza răcoroasă de iarnă face mersul cu bicicleta dimineața deosebit de plăcut. La prânz, soarele nu este prea puternic, fiind ideal pentru vizita la zoo. Deoarece se întunecă în jurul orei 17:00, asigurați-vă că luminile bicicletei funcționează pentru opririle de seară. Aerul curat oferă o încheiere revigorantă.",
+            "en": "The cool winter breeze makes morning cycling especially pleasant. At noon, the sun is mild, ideal for a zoo visit. Since it gets dark around 17:00, ensure your bike lights are working for the evening stops at Letras and Barquito. The clear evening air provides a refreshing finish to the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Glorieta el Canon",
+                "hu": "Glorieta el Canon",
+                "ro": "Glorieta el Canon",
+                "en": "Glorieta el Canon"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Startpunkt bei milden Temperaturen; eine Windjacke schützt Sie vor der frischen Morgenbrise auf dem Rad.",
+                "hu": "Tökéletes kiindulópont az enyhe hőmérsékletben; egy széldzseki megvédi Önt a friss reggeli szellőtől a biciklin.",
+                "ro": "Un punct de plecare perfect la temperaturi blânde; o jachetă de vânt vă va proteja de briza proaspătă a dimineții pe bicicletă.",
+                "en": "A perfect starting point in mild temperatures; a windbreaker will protect you from the fresh morning breeze while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentos Los Marinos",
+                "hu": "Monumentos Los Marinos",
+                "ro": "Monumentos Los Marinos",
+                "en": "Monumentos Los Marinos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die Lagune bei klarer Winterluft; die Sicht ist heute oft besonders weit und scharf.",
+                "hu": "Élvezze a lagúnára nyíló kilátást a tiszta téli levegőben; a látótávolság ilyenkor gyakran kiemelkedően jó.",
+                "ro": "Bucurați-vă de vederea largă asupra lagunei în aerul curat de iarnă; vizibilitatea este adesea foarte bună în această perioadă.",
+                "en": "Enjoy the wide view of the lagoon in the clear winter air; visibility is often exceptionally good during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle Laguna Azul",
+                "hu": "Muelle Laguna Azul",
+                "ro": "Muelle Laguna Azul",
+                "en": "Muelle Laguna Azul"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist angenehm mild, was den Aufenthalt am Wasser ohne die intensive Sommerhitze sehr erholsam macht.",
+                "hu": "A déli napsütés kellemesen enyhe, így a vízparti pihenés az intenzív nyári hőség nélkül is pihentető.",
+                "ro": "Soarele de la amiază este plăcut de blând, făcând relaxarea pe malul apei foarte odihnitoare fără căldura intensă a verii.",
+                "en": "The midday sun is pleasantly mild, making relaxation by the water very restful without the intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologico",
+                "hu": "Zoologico",
+                "ro": "Zoologico",
+                "en": "Zoologico"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind bei den kühleren Temperaturen oft aktiver als in der Mittagshitze des Sommers; ideal für Beobachtungen.",
+                "hu": "Az állatok a hűvösebb hőmérsékletben gyakran aktívabbak, mint a nyári hőségben; ideális időpont a megfigyelésükre.",
+                "ro": "Animalele sunt adesea mai active la temperaturi mai scăzute decât în căldura verii; este un moment ideal pentru observații.",
+                "en": "Animals are often more active in cooler temperatures than in the summer heat; it's an ideal time for observation."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo",
+                "hu": "Museo",
+                "ro": "Museo",
+                "en": "Museo"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer kultureller Stopp am Nachmittag; das historische Gebäude speichert die milde Wärme des Tages optimal.",
+                "hu": "Csodálatos kulturális megálló délután; a történelmi épület optimálisan megőrzi a nappali enyhe meleget.",
+                "ro": "O oprire culturală minunată după-amiaza; clădirea istorică păstrează optim căldura blândă a zilei.",
+                "en": "A wonderful cultural stop in the afternoon; the historic building optimally retains the day's mild warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Letras CARMEN",
+                "hu": "Letras CARMEN",
+                "ro": "Letras CARMEN",
+                "en": "Letras CARMEN"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht kurz vor 17:00 Uhr ist perfekt für Porträts; schalten Sie für die Weiterfahrt Ihr Fahrradlicht ein.",
+                "hu": "Az 17:00 előtti aranyfények tökéletesek a portrékhoz; a továbbinduláshoz már kapcsolja be a kerékpáros világítást.",
+                "ro": "Lumina aurie de dinainte de ora 17:00 este perfectă pentru portrete; activați luminile bicicletei pentru plecare.",
+                "en": "The golden light just before 17:00 is perfect for portraits; turn on your bike lights before moving to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "El Barquito",
+                "hu": "El Barquito",
+                "ro": "El Barquito",
+                "en": "El Barquito"
+              },
+              "tip_5lang": {
+                "de": "Der Abend ist nun deutlich kühler; ziehen Sie eine zusätzliche Schicht an, um die beleuchtete Szenerie entspannt zu genießen.",
+                "hu": "Az este már érezhetően hűvösebb; vegyen fel egy plusz réteget, hogy kényelmesen élvezhesse a kivilágított látványt.",
+                "ro": "Seara este acum considerabil mai răcoroasă; puneți un strat suplimentar de haine pentru a vă bucura de peisajul iluminat.",
+                "en": "The evening is now noticeably cooler; put on an extra layer to comfortably enjoy the illuminated scenery."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Délelőtt: Vezessen a sziget északi peremére, hogy felfedezze az állatkertet, és élvezze a festői vízpartot a Laguna Azul mólónál. Délben: Tekintse meg a közeli tengerészeti és katonai emlékműveket, mielőtt a városközpontba hajtana, hogy elmerüljön a múzeum kincseiben. Délután: Parkoljon le az egyetem közelében a kulturális kiállításokért, majd tegyen egy rövid utat a történelmi Barquito emlékműhöz. Este: Fejezze be a szigeti autózást a Playa Manigua esti szellőjével, amely tökéletes a pihenéshez egy sűrű nap után.",
         "ro": "Dimineața: Conduceți spre marginea de nord a insulei pentru a explora grădina zoologică și a vă bucura de faleza pitorească de la digul Laguna Albastră. La prânz: Vizitați monumentele maritime din apropiere înainte de a merge în centrul orașului pentru a explora istoria la muzeu. După-amiaza: Parcați lângă universitate pentru expoziții culturale, apoi faceți o scurtă plimbare cu mașina până la monumentul istoric Barquito. Seara: Încheiați traseul cu mașina cu o briză de seară la Playa Manigua, perfectă pentru relaxare după o zi plină.",
         "en": "Morning: Drive to the island's northern edge to explore the zoo and enjoy the scenic waterfront at the Laguna Azul pier. Midday: Check out the maritime and military monuments nearby before heading into the city center for a deep dive at the museum. Afternoon: Park near the university for cultural exhibitions and then take a short drive to the historical Barquito monument. Evening: Finish your comprehensive island drive with an evening breeze at Playa Manigua, perfect for unwinding after a busy day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Insel geschützt vor den tropischen Regengüssen. Die Fahrt beginnt am Zoo und führt über den Muelle zu den Monumenten. Das Museum und das Kulturzentrum UNACAR bieten ideale Innenräume, während es draußen stürmt. Der Abend endet an der Playa Manigua, wo Sie das Meeresspektakel bequem vom trockenen Fahrzeug aus beobachten können.",
+            "hu": "Autóval a trópusi esőzésektől védve fedezheti fel a szigetet. Az út az állatkerttől indul, és a Muelle érintésével halad a monumentumok felé. A múzeum és a UNACAR központ ideális belső programot kínálnak, miközben odakint vihar tombol. Az este a Playa Maniguán zárul, ahol a gépkocsi kényelméből figyelheti a tenger látványos hullámzását.",
+            "ro": "Cu mașina, explorați insula protejat de ploile tropicale. Traseul începe la zoo și continuă prin Muelle spre monumente. Muzeul și centrul UNACAR oferă spații interioare ideale în timp ce afară este furtună. Seara se încheie la Playa Manigua, unde puteți observa spectacolul mării confortabil, direct din interiorul vehiculului.",
+            "en": "By car, you can explore the island protected from tropical downpours. The journey begins at the zoo and continues through the Muelle to the monuments. The museum and the UNACAR center offer ideal indoor spaces while it storms outside. The evening ends at Playa Manigua, where you can comfortably watch the sea spectacle from your dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoologico",
+                "hu": "Zoologico",
+                "ro": "Zoologico",
+                "en": "Zoologico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und halten Sie Ihren Regenschirm für die kurzen Wege zwischen den Tiergehegen bereit.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, és tartsa készenlétben az esernyőjét a kifutók közötti rövid szakaszokon.",
+                "ro": "Parcați cât mai aproape de intrare și țineți umbrela la îndemână pentru distanțele scurte dintre țarcurile animalelor.",
+                "en": "Park as close to the entrance as possible and keep your umbrella ready for the short walks between animal enclosures."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle Laguna Azul",
+                "hu": "Muelle Laguna Azul",
+                "ro": "Muelle Laguna Azul",
+                "en": "Muelle Laguna Azul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Laguna Azul direkt aus dem Auto, um nicht nass zu werden, falls der Regen gerade besonders stark ist.",
+                "hu": "Élvezze a kilátást a Laguna Azulra közvetlenül az autóból, hogy ne ázzon el, ha éppen hevesen esik az eső.",
+                "ro": "Bucurați-vă de vederea spre Laguna Azul direct din mașină pentru a nu vă uda, în cazul în care plouă torențial.",
+                "en": "Enjoy the view of Laguna Azul directly from your car to stay dry if the rain is particularly heavy at the moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentos Los Marinos",
+                "hu": "Monumentos Los Marinos",
+                "ro": "Monumentos Los Marinos",
+                "en": "Monumentos Los Marinos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp; lassen Sie den Motor laufen, um die Scheiben bei der hohen Luftfeuchtigkeit beschlagfrei zu halten.",
+                "hu": "Rövid fotómegálló; hagyja járni a motort, hogy a magas páratartalom miatt ne párásodjanak be az ablakok.",
+                "ro": "O scurtă oprire pentru poze; lăsați motorul pornit pentru a preveni aburirea geamurilor din cauza umidității ridicate.",
+                "en": "A brief photo stop; keep the engine running to prevent the windows from fogging up due to the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Glorieta el Canon",
+                "hu": "Glorieta el Canon",
+                "ro": "Glorieta el Canon",
+                "en": "Glorieta el Canon"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen rund um die Glorieta können große Pfützen bilden; fahren Sie langsam, um Aquaplaning zu vermeiden.",
+                "hu": "A Glorieta körüli utakon nagy tócsák alakulhatnak ki; vezessen lassan az aquaplaning elkerülése érdekében.",
+                "ro": "Drumurile din jurul Glorietei pot forma bălți mari; conduceți încet pentru a evita acvaplanarea.",
+                "en": "The roads around the Glorieta can develop large puddles; drive slowly to avoid aquaplaning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo",
+                "hu": "Museo",
+                "ro": "Museo",
+                "en": "Museo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Regenpause; es gibt meist Parkmöglichkeiten in unmittelbarer Nähe zum Eingang.",
+                "hu": "Használja a múzeumlátogatást hosszabb esőszünetként; a bejárat közvetlen közelében általában könnyen talál parkolóhelyet.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă de ploaie; de obicei, există locuri de parcare chiar lângă intrare.",
+                "en": "Use the museum visit as an extended rain break; there are usually parking spots very close to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro cultural de la UNACAR",
+                "hu": "Centro cultural de la UNACAR",
+                "ro": "Centro cultural de la UNACAR",
+                "en": "Centro cultural de la UNACAR"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Nachmittage; die Architektur bietet exzellenten Schutz für den Weg vom Parkplatz ins Innere.",
+                "hu": "Ideális helyszín esős délutánokra; az épület kiváló védelmet nyújt a parkolótól a belső terekig tartó rövid úton.",
+                "ro": "O locație ideală pentru după-amiezile ploioase; arhitectura oferă protecție excelentă de la parcare până în interior.",
+                "en": "An ideal location for rainy afternoons; the architecture provides excellent shelter for the walk from the car to the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "El Barquito",
+                "hu": "El Barquito",
+                "ro": "El Barquito",
+                "en": "El Barquito"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das beleuchtete Monument durch die Windschutzscheibe, während der Regen die Farben der Stadtlichter intensiviert.",
+                "hu": "Csodálja meg a kivilágított emlékművet a szélvédőn keresztül, miközben az eső felerősíti a város fényeinek színeit.",
+                "ro": "Admirați monumentul iluminat prin parbriz, în timp ce ploaia intensifică culorile luminilor orașului.",
+                "en": "Admire the lit-up monument through your windshield as the rain intensifies the colors of the city lights."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manigua",
+                "hu": "Playa Manigua",
+                "ro": "Playa Manigua",
+                "en": "Playa Manigua"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag mit Blick auf die aufgewühlte See ausklingen; die Palapas bieten zusätzlichen Schutz für einen kurzen Gang zum Ufer.",
+                "hu": "Zárja a napot a felkavart tenger látványával; a palapák extra védelmet nyújtanak egy rövid parthoz vezető sétához.",
+                "ro": "Încheiați ziua cu vederea mării agitate; palapas oferă protecție suplimentară pentru o scurtă plimbare până la mal.",
+                "en": "End your day with a view of the turbulent sea; the palapas provide extra shelter for a quick walk to the water's edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour bietet Komfort bei milden Außentemperaturen. Der Vormittag am Zoo und am Muelle ist erfrischend. Da die Sonne gegen 17:00 Uhr untergeht, erleben Sie den späten Nachmittag im Museum und bei der UNACAR in einem wunderbaren Dämmerlicht. Der Abend an der Playa Manigua ist kühl, aber durch die klare Luft besonders sternenreich.",
+            "hu": "A téli autós túra kényelmet nyújt az enyhe külső hőmérséklet mellett. A délelőtt az állatkertben és a Muelle-nél frissítően indul. Mivel a nap 17:00 körül nyugszik, a múzeumban és a UNACAR központban töltött délutáni órák csodás alkonyi fényekben telnek. Az este a Playa Maniguán hűvös, de a tiszta levegő miatt különösen csillagos.",
+            "ro": "Turul cu mașina pe timp de iarnă oferă confort la temperaturi exterioare blânde. Dimineața la zoo și Muelle este revigorantă. Deoarece soarele apune în jurul orei 17:00, după-amiaza la muzeu și UNACAR se desfășoară într-o lumină de amurg superbă. Seara la Playa Manigua este răcoroasă, dar foarte senină.",
+            "en": "The winter car tour offers comfort in mild outdoor temperatures. The morning at the zoo and Muelle starts refreshingly. Since the sun sets around 17:00, the afternoon spent at the museum and UNACAR center is filled with beautiful twilight light. The evening at Playa Manigua is cool, but especially starry due to the clear air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoologico",
+                "hu": "Zoologico",
+                "ro": "Zoologico",
+                "en": "Zoologico"
+              },
+              "tip_5lang": {
+                "de": "Die milden Morgentemperaturen laden zu einem längeren Rundgang ein; im Auto benötigen Sie heute kaum die Klimaanlage.",
+                "hu": "Az enyhe reggeli hőmérséklet hosszabb sétára hív; az autóban ma alig lesz szüksége a légkondicionálóra.",
+                "ro": "Temperaturile blânde de dimineață invită la o plimbare mai lungă; în mașină, aproape că nu veți avea nevoie de aer condiționat.",
+                "en": "Mild morning temperatures invite a longer walk; you will hardly need the air conditioning in your car today."
+              }
+            },
+            {
+              "name": {
+                "de": "Muelle Laguna Azul",
+                "hu": "Muelle Laguna Azul",
+                "ro": "Muelle Laguna Azul",
+                "en": "Muelle Laguna Azul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Brise am Wasser; die Mittagssonne im Winter ist perfekt für einen entspannten Aufenthalt im Freien.",
+                "hu": "Élvezze a friss szellőt a vízparton; a téli déli napsütés tökéletes egy pihentető szabadtéri időtöltéshez.",
+                "ro": "Bucurați-vă de briza proaspătă de pe malul apei; soarele de iarnă de la amiază este perfect pentru timp petrecut afară.",
+                "en": "Enjoy the fresh breeze by the water; the winter midday sun is perfect for a relaxing outdoor stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumentos Los Marinos",
+                "hu": "Monumentos Los Marinos",
+                "ro": "Monumentos Los Marinos",
+                "en": "Monumentos Los Marinos"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Stopp für Fernsichten; die klare Winterluft ermöglicht heute scharfe Fotos der Lagune und der Umgebung.",
+                "hu": "Kiváló megálló a távoli kilátáshoz; a tiszta téli levegő ma éles fotókat tesz lehetővé a lagúnáról és a környékről.",
+                "ro": "O oprire excelentă pentru vederi la distanță; aerul curat de iarnă permite fotografii clare ale lagunei și împrejurimilor.",
+                "en": "A great stop for distant views; the clear winter air allows for sharp photos of the lagoon and surroundings today."
+              }
+            },
+            {
+              "name": {
+                "de": "Glorieta el Canon",
+                "hu": "Glorieta el Canon",
+                "ro": "Glorieta el Canon",
+                "en": "Glorieta el Canon"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Freien ist bei diesen Temperaturen sehr angenehm; nutzen Sie das weiche Nachmittagslicht für Ihre Aufnahmen.",
+                "hu": "A szabadban tartózkodás ilyenkor nagyon kellemes; használja ki a lágy délutáni fényeket a felvételeihez.",
+                "ro": "Timpul petrecut afară este foarte plăcut la aceste temperaturi; profitați de lumina blândă a după-amiezii pentru poze.",
+                "en": "Spending time outside is very pleasant at these temperatures; take advantage of the soft afternoon light for your shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo",
+                "hu": "Museo",
+                "ro": "Museo",
+                "en": "Museo"
+              },
+              "tip_5lang": {
+                "de": "Die milde Luft macht den Besuch des historischen Gebäudes besonders behaglich; ein idealer Rückzugsort am späten Nachmittag.",
+                "hu": "Az enyhe levegő különösen barátságossá teszi a történelmi épület látogatását; ideális helyszín késő délutánra.",
+                "ro": "Aerul blând face vizita la clădirea istorică deosebit de confortabilă; un refugiu ideal pentru după-amiaza târzie.",
+                "en": "The mild air makes visiting the historic building especially cozy; an ideal retreat for the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro cultural de la UNACAR",
+                "hu": "Centro cultural de la UNACAR",
+                "ro": "Centro cultural de la UNACAR",
+                "en": "Centro cultural de la UNACAR"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 17:00 Uhr hier, um den frühen Sonnenuntergang in der eleganten Architektur des Zentrums zu erleben.",
+                "hu": "Érkezzen 17:00 körül, hogy tanúja legyen a korai naplementének a központ elegáns építészeti környezetében.",
+                "ro": "Fiți aici în jurul orei 17:00 pentru a asista la apusul devreme în cadrul arhitectural elegant al centrului.",
+                "en": "Be here around 17:00 to experience the early sunset within the center's elegant architectural setting."
+              }
+            },
+            {
+              "name": {
+                "de": "El Barquito",
+                "hu": "El Barquito",
+                "ro": "El Barquito",
+                "en": "El Barquito"
+              },
+              "tip_5lang": {
+                "de": "Die Abenddämmerung setzt früh ein; genießen Sie das beleuchtete Monument, bevor es für den Strandbesuch merklich kühler wird.",
+                "hu": "Az alkonyat korán érkezik; élvezze a kivilágított emlékművet, mielőtt a tengerparti látogatáshoz érezhetően lehűl az idő.",
+                "ro": "Amurgul sosește devreme; bucurați-vă de monumentul iluminat înainte ca timpul să se răcească pentru vizita la plajă.",
+                "en": "Twilight arrives early; enjoy the illuminated monument before the temperature drops noticeably for the beach visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manigua",
+                "hu": "Playa Manigua",
+                "ro": "Playa Manigua",
+                "en": "Playa Manigua"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, wenn Sie das Auto verlassen; die winterliche Meeresluft ist nachts erfrischend kühl und klar.",
+                "hu": "Vigyen magával kabátot, ha kiszáll az autóból; a téli tengeri levegő éjszaka frissítően hűvös és tiszta.",
+                "ro": "Aduceți o jachetă dacă coborâți din mașină; aerul marin de iarnă este revigorant de răcoros și curat noaptea.",
+                "en": "Bring a jacket if you leave the car; the winter sea air is refreshingly cool and clear at night."
+              }
+            }
+          ]
+        }
       }
     }
   }

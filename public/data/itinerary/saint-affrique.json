@@ -137,6 +137,168 @@
         "hu": "A reggel az Espace Marionnettes lenyűgöző bábjai között indul, majd a gyönyörű Église Notre-Dame De La Miséricorde felé sétálunk. Délben a Saint-Affrique Church építészeti pompáját csodálhatja meg. Délután fedezze fel a békés Chapelle du couvent des Sœurs kápolnát. A nap a Caylus Rock sziklához vezető jutalmazó túrával és naplementével zárul.",
         "ro": "Dimineața începe printre marionetele fascinante de la Espace Marionnettes, înainte de o plimbare spre frumoasa Église Notre-Dame De La Miséricorde. La prânz vei admira Biserica Saint-Affrique și splendoarea sa arhitecturală. După-amiaza, descoperă liniștita Chapelle du couvent des Sœurs. Ziua se încheie cu o drumeție memorabilă pe Stânca Caylus la apus.",
         "en": "Morning begins among the fascinating puppets of Espace Marionnettes before a peaceful stroll to the beautiful Église Notre-Dame De La Miséricorde. Midday brings you to the imposing Saint-Affrique Church to admire its architectural splendor. In the afternoon, discover the serene Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle. The day concludes with a rewarding hike up Caylus Rock for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im gemütlichen Espace Marionnettes. Suchen Sie mittags Schutz in den nahegelegenen historischen Kirchen. Besteigen Sie nachmittags den Caylus-Felsen, aber tragen Sie wasserdichte Schuhe für die rutschigen Wege. Der Abend lädt zum Aufwärmen in einem warmen Café ein.",
+            "hu": "Kezdje az esős reggelt a varázslatos Espace Marionnettes kiállításon. Délben keressen menedéket a közeli történelmi templomokban. Délután mássza meg a Caylus-sziklához vezető utat, de viseljen vízálló cipőt a csúszós ösvények miatt. Az este tökéletes egy forró italra egy helyi kávézóban.",
+            "ro": "Începeți dimineața ploioasă la expoziția acoperită Espace Marionnettes. La prânz, adăpostiți-vă în bisericile istorice din apropiere. După-amiaza urcați pe Stânca Caylus, dar purtați încălțăminte impermeabilă pentru potecile alunecoase. Seara este perfectă pentru o băutură caldă într-o cafenea.",
+            "en": "Start your rainy morning indoors at the magical Espace Marionnettes. By midday, seek shelter in the nearby historic churches. Spend the afternoon climbing Caylus Rock, but wear sturdy, waterproof boots for the muddy paths. The evening is perfect for a warm drink in a local café to dry off."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Marionnettes",
+                "hu": "Espace Marionnettes",
+                "ro": "Espace Marionnettes",
+                "en": "Espace Marionnettes"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Start an einem Regentag; genießen Sie die Puppen komplett im Trockenen.",
+                "hu": "Tökéletes beltéri program egy esős napon; csodálja meg a bábokat teljesen szárazon.",
+                "ro": "Un început perfect la interior pentru o zi ploioasă; admirați marionetele la adăpost.",
+                "en": "Perfect indoor start to a rainy day; enjoy the intricate puppets while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame De La Miséricorde",
+                "hu": "Église Notre-Dame De La Miséricorde",
+                "ro": "Église Notre-Dame De La Miséricorde",
+                "en": "Église Notre-Dame De La Miséricorde"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und die bunten Fenster, die einen friedlichen Zufluchtsort vor dem Regen bieten.",
+                "hu": "Csodálja meg a lenyűgöző építészetet és az üvegablakokat, békés menedéket találva az eső elől.",
+                "ro": "Admirați arhitectura și vitraliile superbe, găsind un sanctuar liniștit și uscat ferit de ploaie.",
+                "en": "Admire the stunning architecture and stained glass, offering a peaceful and dry sanctuary from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Affrique Church",
+                "hu": "Saint-Affrique Church",
+                "ro": "Saint-Affrique Church",
+                "en": "Saint-Affrique Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie in Ruhe das historische Kirchenschiff, während es draußen regnet; halten Sie den Schirm bereit.",
+                "hu": "Fedezze fel a történelmi hajót, amíg kint zuhog az eső, de tartsa kéznél az esernyőjét a kilépéshez.",
+                "ro": "Explorați naosul istoric în timp ce plouă afară, dar păstrați umbrela la îndemână pentru ieșire.",
+                "en": "Take your time exploring the historic nave while the rain pours outside, keeping your umbrella handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+                "hu": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+                "ro": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+                "en": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort der Besinnung; die dicken Steinmauern bieten perfekten Schutz vor plötzlichen Schauern.",
+                "hu": "Csendes hely az elmélkedésre; a kőfalak kiváló védelmet nyújtanak a hirtelen záporok ellen.",
+                "ro": "Un loc liniștit pentru reflecție; zidurile de piatră oferă protecție excelentă împotriva averselor bruste.",
+                "en": "A quiet place for reflection; the stone walls offer excellent protection against sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Caylus Rock",
+                "hu": "Caylus Rock",
+                "ro": "Caylus Rock",
+                "en": "Caylus Rock"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei Regen dramatisch, aber gehen Sie vorsichtig, da die felsigen Pfade sehr rutschig sind.",
+                "hu": "A kilátás drámai az esőben, de lépjen óvatosan, mert a sziklás ösvények nagyon csúszósak lehetnek.",
+                "ro": "Priveliștile sunt dramatice pe ploaie, dar pășiți cu grijă deoarece cărările stâncoase pot fi foarte alunecoase.",
+                "en": "The views are dramatic in the rain, but step carefully as the rocky paths can become very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verbringen Sie einen frostigen Morgen im warmen Espace Marionnettes. Bewundern Sie mittags die Kirchen, um der Kälte zu entfliehen. Wandern Sie nachmittags auf den Caylus-Felsen für eine klare Wintersicht, bevor die Sonne um 17:00 Uhr untergeht. Der Abend ist für ein warmes Abendessen reserviert.",
+            "hu": "Töltsön egy fagyos reggelt a meleg Espace Marionnettes-ben. Dél körül csodálja meg a történelmi templomokat, hogy elmeneküljön a hideg szél elől. Délután mássza meg a Caylus-sziklához az utat a tiszta téli kilátásért a 17:00 órai naplemente előtt. Az estét egy meleg étteremben töltse.",
+            "ro": "Petreceți o dimineață geroasă în căldura de la Espace Marionnettes. La prânz, vizitați bisericile istorice pentru a scăpa de vântul rece. După-amiaza urcați pe Stânca Caylus pentru priveliști de iarnă înaintea apusului timpuriu de la 17:00. Seara luați cina într-un local primitor.",
+            "en": "Spend a frosty morning at the warm Espace Marionnettes. Around noon, marvel at the town's historical churches to escape the cold breeze. In the afternoon, hike up Caylus Rock for crisp winter views before the early 17:00 sunset. Spend the chilly evening dining warmly in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Marionnettes",
+                "hu": "Espace Marionnettes",
+                "ro": "Espace Marionnettes",
+                "en": "Espace Marionnettes"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den kalten Morgen in diesem beheizten Museum und bewundern Sie die Handwerkskunst der Puppen.",
+                "hu": "Kezdje a hideg reggelt ebben a fűtött múzeumban, és értékelje a hagyományos bábok kidolgozását.",
+                "ro": "Începeți dimineața rece în acest muzeu încălzit, admirând măiestria marionetelor tradiționale.",
+                "en": "Start your cold morning in this heated museum, appreciating the craftsmanship of traditional puppets."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame De La Miséricorde",
+                "hu": "Église Notre-Dame De La Miséricorde",
+                "ro": "Église Notre-Dame De La Miséricorde",
+                "en": "Église Notre-Dame De La Miséricorde"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind ab, sodass Sie das verzierte Innere friedlich bewundern können.",
+                "hu": "A vastag falak kint tartják a fagyos szelet, így békésen csodálhatja meg a díszes belsőt.",
+                "ro": "Zidurile groase țin vântul înghețat la distanță, permițându-vă să admirați în liniște interiorul ornamentat.",
+                "en": "The thick walls keep the freezing wind out, allowing you to peacefully admire its ornate interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Affrique Church",
+                "hu": "Saint-Affrique Church",
+                "ro": "Saint-Affrique Church",
+                "en": "Saint-Affrique Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre Hände aufzuwärmen und die durch die Fenster fallende winterliche Atmosphäre zu genießen.",
+                "hu": "Lépjen be, hogy felmelegítse a kezét, és élvezze az ablakokon átszűrődő békés téli hangulatot.",
+                "ro": "Intrați pentru a vă încălzi mâinile și bucurați-vă de atmosfera senină de iarnă ce pătrunde prin ferestre.",
+                "en": "Step inside to warm up your hands and enjoy the serene winter atmosphere filtering through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+                "hu": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+                "ro": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+                "en": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, geschlossener Ort, ideal, um sich aufzuwärmen, bevor es auf die kühlen Hügel geht.",
+                "hu": "Nyugodt, zárt megálló, amely ideális a felmelegedéshez, mielőtt elindulna a környező hideg dombok felé.",
+                "ro": "O oprire liniștită și închisă, ideală pentru a vă strânge căldura înainte de a porni spre dealurile din jur.",
+                "en": "A tranquil, enclosed stop ideal for gathering your warmth before heading out to the surrounding hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Caylus Rock",
+                "hu": "Caylus Rock",
+                "ro": "Caylus Rock",
+                "en": "Caylus Rock"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein; der frostige Panoramablick vor dem frühen Sonnenuntergang ist atemberaubend.",
+                "hu": "Öltözzön fel melegen; a csípős panoráma lenyűgöző közvetlenül a téli naplemente előtt.",
+                "ro": "Îmbrăcați-vă gros; priveliștea panoramică rece este uluitoare chiar înaintea apusului de iarnă.",
+                "en": "Bundle up warmly; the chilly panoramic views are stunning right before the early winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpártúrát az Espace Marionnettes bábjainak felfedezésével a város szívében. Délben a történelmi Saint-Affrique Church felé tekerünk, hogy megcsodáljuk belső terét. Délután a természetbe kerékpározunk, felfedezzük a Caylus Rock környékét és a Galtery dolment. Az este a Chapelle Saint-Vincent elzárt békéjében köszönt ránk.",
         "ro": "Începe turul pe bicicletă cu o vizită la Espace Marionnettes în inima orașului. La prânz, o scurtă plimbare te duce la istorica Biserică Saint-Affrique pentru a-i admira interiorul. După-amiaza, pedalează spre natură pentru a cuceri traseele din jurul Stâncii Caylus și a explora Dolmenul de Galtery. Seara se lasă grațios la izolată Capelă Saint-Vincent.",
         "en": "Kick off your cycling tour with a delightful visit to the Espace Marionnettes in the heart of town. Midday features a quick ride to the historic Saint-Affrique Church to appreciate its grand interior. In the afternoon, cycle out towards nature to conquer the trails around Caylus Rock and explore the ancient Dolmen de Galtery. Evening falls gracefully at the secluded Chapelle Saint-Vincent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig auf nassen Straßen zum Puppenmuseum. Fahren Sie mittags in wasserdichter Kleidung zur Kirche und zum Caylus-Felsen. Trotzen Sie nachmittags den schlammigen Wegen zum antiken Dolmen. Verbringen Sie den Abend drinnen, um Ihre Radkleidung zu trocknen.",
+            "hu": "Óvatosan kerékpározzon a nedves reggeli utakon a bábmúzeumhoz. Délben tekerjen a templomhoz és a Caylus-sziklához vízálló ruházatban. Délután dacoljon a saras ösvényekkel az ősi dolmenhez. Az estét töltse bent, megszárítva a kerékpáros ruháját.",
+            "ro": "Pedalați cu grijă pe drumurile ude de dimineață spre muzeul marionetelor. La prânz, mergeți spre biserică și Stânca Caylus în echipament impermeabil. După-amiaza înfruntați potecile noroioase spre dolmenul antic. Seara odihniți-vă la interior, uscându-vă hainele.",
+            "en": "Cycle carefully on wet morning roads to the puppet museum. By midday, pedal to the church and Caylus Rock in waterproof gear. In the afternoon, brave the muddy paths to the ancient dolmen and chapel. Spend the evening resting indoors, drying your cycling clothes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Marionnettes",
+                "hu": "Espace Marionnettes",
+                "ro": "Espace Marionnettes",
+                "en": "Espace Marionnettes"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr nasses Fahrrad draußen ab und genießen Sie eine trockene Stunde mit historischen Puppen.",
+                "hu": "Parkolja le vizes kerékpárját kint, és élvezzen egy száraz, lenyűgöző órát a történelmi bábokkal.",
+                "ro": "Parcați bicicleta udă afară și bucurați-vă de o oră uscată și fascinantă cu marionete istorice.",
+                "en": "Park your wet bike outside and enjoy a dry, fascinating hour with historic puppets."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Affrique Church",
+                "hu": "Saint-Affrique Church",
+                "ro": "Saint-Affrique Church",
+                "en": "Saint-Affrique Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschutz auf dem Sattel, während Sie im großen Kirchenschiff Schutz suchen.",
+                "hu": "Hagyja az esővédőt a nyergen, miközben menedéket és békét keres a hatalmas templomhajóban.",
+                "ro": "Lăsați husa de ploaie pe șa în timp ce căutați adăpost și liniște în naosul grandios.",
+                "en": "Leave your rain cover on the bike seat while you seek shelter and peace inside the grand nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Caylus Rock",
+                "hu": "Caylus Rock",
+                "ro": "Caylus Rock",
+                "en": "Caylus Rock"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie sanft auf der rutschigen Abfahrt; der Nieselregen verleiht dem Felsen eine mystische Aura.",
+                "hu": "Fékezzen óvatosan a csúszós lejtőn; a szitáló eső misztikus aurát kölcsönöz a sziklakibúvásnak.",
+                "ro": "Frânați ușor pe coborârea alunecoasă; ploaia măruntă adaugă o aură mistică acestui afloriment stâncos.",
+                "en": "Brake gently on the slippery descent; the misty rain adds a mystical aura to this rocky outcrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Galtery (B)",
+                "hu": "Dolmen de Galtery (B)",
+                "ro": "Dolmen de Galtery (B)",
+                "en": "Dolmen de Galtery (B)"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier unerlässlich; erkunden Sie diese mysteriöse Steinstruktur im nassen Schlamm.",
+                "hu": "A sárvédő itt elengedhetetlen; fedezze fel ezt a titokzatos, ősi kőépítményt a borongós esőben.",
+                "ro": "Aripile de noroi sunt esențiale aici; explorați această misterioasă structură de piatră în ploaia melancolică.",
+                "en": "Mudguards are essential here; explore this mysterious ancient stone structure in the moody rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Vincent",
+                "hu": "Chapelle Saint-Vincent",
+                "ro": "Chapelle Saint-Vincent",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommenes Dach nach einer nassen Fahrt, wo Sie Ihre Handschuhe vor der Rückfahrt auswringen können.",
+                "hu": "Egy szívesen látott tető egy nedves túra után, ahol kicsavarhatja a kesztyűjét a visszaindulás előtt.",
+                "ro": "Un acoperiș binevenit după o plimbare udă, oferind un spațiu liniștit pentru a vă stoarce mănușile.",
+                "en": "A welcome roof after a wet ride, offering a quiet space to wring out your gloves before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre rasche Fahrt im Morgenfrost zum Museum. Wärmen Sie sich mittags beim Anstieg zur Kirche und zum Felsen auf. Nachmittags wird es kühl auf dem Weg zum Dolmen. Kehren Sie vor 17:00 Uhr zurück, um eisige Straßen zu vermeiden.",
+            "hu": "Kezdje élénk túráját a reggeli fagyban a múzeum felé. Délben melegedjen fel a templomhoz és a Caylus-sziklához vezető emelkedőn. A délutáni hidegben tekerjen a dolmenhez. Térjen vissza a 17:00-s naplemente előtt, hogy elkerülje a jeges utakat.",
+            "ro": "Începeți plimbarea alertă în gerul dimineții spre muzeu. La prânz, încălziți-vă urcând spre biserică și Stânca Caylus. După-amiaza aduce frig pe drumul spre dolmen. Întoarceți-vă înainte de 17:00 pentru a evita drumurile înghețate.",
+            "en": "Start your brisk ride in the morning frost towards the museum. Around midday, warm up with a climb to the church and Caylus Rock. Afternoon brings a chill as you cycle to the dolmen. Return before the 17:00 sunset to avoid icy evening roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Marionnettes",
+                "hu": "Espace Marionnettes",
+                "ro": "Espace Marionnettes",
+                "en": "Espace Marionnettes"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre gefrorenen Finger in diesem gemütlichen Ausstellungsraum auf, bevor Sie weiterradeln.",
+                "hu": "Olvassza fel fagyott ujjait ebben a hangulatos kiállítótérben, mielőtt folytatná a téli kerékpártúrát.",
+                "ro": "Dezghețați-vă degetele în acest spațiu de expoziție primitor înainte de a continua turul de iarnă.",
+                "en": "Thaw your frozen fingers in this cozy exhibition space before continuing your winter cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Affrique Church",
+                "hu": "Saint-Affrique Church",
+                "ro": "Saint-Affrique Church",
+                "en": "Saint-Affrique Church"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause drinnen; die schweren Türen halten die Winterkälte draußen, während Sie zu Atem kommen.",
+                "hu": "Rövid beltéri pihenő; a nehéz ajtók kint tartják a téli hideget, amíg ön kifújja magát.",
+                "ro": "Un scurt respiro la interior; ușile grele țin frigul iernii afară în timp ce vă trageți sufletul.",
+                "en": "A brief indoor respite; the heavy doors keep the winter chill out while you catch your breath."
+              }
+            },
+            {
+              "name": {
+                "de": "Caylus Rock",
+                "hu": "Caylus Rock",
+                "ro": "Caylus Rock",
+                "en": "Caylus Rock"
+              },
+              "tip_5lang": {
+                "de": "Das Bergauftreten hält Sie warm und belohnt Sie mit einer klaren, frischen Wintersicht vom Gipfel.",
+                "hu": "A hegynek felfelé tekerés melegen tartja, és cserébe tiszta téli kilátást nyújt a csúcsról.",
+                "ro": "Pedalarea la deal vă va ține de cald, recompensându-vă cu priveliști clare de iarnă de pe vârf.",
+                "en": "The uphill pedaling will keep you warm, rewarding you with crisp, clear winter views from the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Galtery (B)",
+                "hu": "Dolmen de Galtery (B)",
+                "ro": "Dolmen de Galtery (B)",
+                "en": "Dolmen de Galtery (B)"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume lassen dieses antike Steinmonument in der kargen Landschaft noch markanter wirken.",
+                "hu": "A csupasz téli fák miatt ez az ősi kőemlékmű még lenyűgözőbb a kietlen tájon.",
+                "ro": "Copacii goi de iarnă fac acest monument antic de piatră și mai impresionant în peisajul pustiu.",
+                "en": "The bare winter trees make this ancient stone monument even more striking in the stark landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Vincent",
+                "hu": "Chapelle Saint-Vincent",
+                "ro": "Chapelle Saint-Vincent",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Ihr letzter Halt; genießen Sie die späte goldene Stunde, aber verweilen Sie nicht zu lange vor der Dämmerung.",
+                "hu": "Az utolsó megálló; élvezze a késő délutáni aranyórát, de ne időzzön túl sokat sötétedés előtt.",
+                "ro": "Ultima oprire; bucurați-vă de ora de aur a după-amiezii târziu, dar nu zăboviți prea mult înainte de amurg.",
+                "en": "Your final stop; enjoy the late afternoon golden hour here, but don't linger too long before dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje a napot a Caylus Rock felfedezésével, hogy korán élvezhesse a lenyűgöző völgyi kilátást. Délben a városközpontba autózunk, ahol a Saint-Affrique Church és az Espace Marionnettes vár. Délután fedezze fel a misztikus Galtery dolment és a Chapelle Saint-Vincent ősi falait. A napot a Château de Vailhauzy impozáns birtokának bejárásával zárjuk.",
         "ro": "Începe cu o plimbare matinală la Stânca Caylus pentru a admira priveliștea uluitoare a văii. La prânz, mergi în centrul orașului pentru a vizita Biserica Saint-Affrique și ineditul Espace Marionnettes. După-amiaza, condu spre misticul Dolmen de Galtery și vechea Capelă Saint-Vincent. Încheie ziua explorând domeniul impunător al Château de Vailhauzy.",
         "en": "Start with an energetic morning walk at Caylus Rock to take in the breathtaking valley views early. Midday shifts to the city center, admiring the grand Saint-Affrique Church and diving into the quirky Espace Marionnettes. In the afternoon, drive out to the mystical Dolmen de Galtery and the ancient Chapelle Saint-Vincent. Conclude the day exploring the imposing grounds of Château de Vailhauzy."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem regnerischen Morgen zum Caylus-Felsen und nutzen Sie einen Regenschirm. Navigieren Sie mittags zur warmen Kirche und zum trockenen Museum. Fahren Sie nachmittags vorsichtig zum Dolmen. Beenden Sie den nassen Tag mit einem geschützten Besuch im Schloss.",
+            "hu": "Vezessen a Caylus-sziklához egy esős reggelen, és használjon esernyőt a rövid sétához. Délben látogasson el a meleg templomba és a száraz múzeumba. A saras délutánon óvatosan vezessen a dolmenhez. Zárja a napot a lenyűgöző kastély fedett termeiben.",
+            "ro": "Conduceți spre Stânca Caylus într-o dimineață ploioasă, folosind umbrela. La prânz, îndreptați-vă spre biserica caldă și muzeul uscat. În după-amiaza noroioasă, conduceți cu grijă spre dolmen. Încheiați ziua udă cu o vizită la adăpostul castelului uimitor.",
+            "en": "Drive to Caylus Rock on a rainy morning, using an umbrella for the short walk. By noon, navigate to the warm church and dry museum. In the muddy afternoon, carefully drive to the dolmen and chapel. End your wet day with a sheltered visit to the stunning castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caylus Rock",
+                "hu": "Caylus Rock",
+                "ro": "Caylus Rock",
+                "en": "Caylus Rock"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie einen Schirm in den Kofferraum; die kurze, rutschige Wanderung lohnt sich für die wolkige Aussicht.",
+                "hu": "Dobjon be egy esernyőt a csomagtartóba; a csúszós, rövid túra a sziklához megéri a drámai kilátást.",
+                "ro": "Puneți o umbrelă în portbagaj; scurta drumeție alunecoasă merită priveliștile dramatice cu nori.",
+                "en": "Pack an umbrella in the trunk; the slippery short hike to the rock is worth the dramatic, cloudy views."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Affrique Church",
+                "hu": "Saint-Affrique Church",
+                "ro": "Saint-Affrique Church",
+                "en": "Saint-Affrique Church"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken ermöglicht es Ihnen, schnell hineinzuhuschen und dem Regen in eine trockene Umgebung zu entfliehen.",
+                "hu": "A közeli parkoló lehetővé teszi, hogy gyorsan beszaladjon, elmenekülve az eső elől a száraz környezetbe.",
+                "ro": "Parcarea ușoară din apropiere vă permite să fugiți rapid înăuntru, scăpând de ploaie într-un mediu uscat.",
+                "en": "Easy parking nearby allows you to quickly dash inside, escaping the rain into a serene, dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Marionnettes",
+                "hu": "Espace Marionnettes",
+                "ro": "Espace Marionnettes",
+                "en": "Espace Marionnettes"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer Zufluchtsort an Regentagen; genießen Sie die Kunst, während der Sturm vorüberzieht.",
+                "hu": "Fantasztikus menedék esős napokon; töltsön el egy órát a művészet élvezetével, amíg a vihar elvonul.",
+                "ro": "Un sanctuar fantastic pentru zile ploioase; petreceți o oră bucurându-vă de artă în timp ce furtuna trece.",
+                "en": "A fantastic rainy-day sanctuary; spend an hour enjoying the intricate art while the storm passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Galtery (B)",
+                "hu": "Dolmen de Galtery (B)",
+                "ro": "Dolmen de Galtery (B)",
+                "en": "Dolmen de Galtery (B)"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Zufahrt kann schlammig werden; fahren Sie vorsichtig und tragen Sie wasserdichte Schuhe.",
+                "hu": "A földút saras lehet, ezért óvatosan haladjon, és viseljen vízálló cipőt ennél az ősi megállónál.",
+                "ro": "Drumul de acces din pământ se poate înnoroia, deci înaintați cu grijă și purtați încălțăminte impermeabilă.",
+                "en": "The dirt access road can get muddy, so proceed carefully and wear waterproof shoes for this ancient stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Vincent",
+                "hu": "Chapelle Saint-Vincent",
+                "ro": "Chapelle Saint-Vincent",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang mit dem Schirm vom Auto, um diese historische Stätte zu bewundern.",
+                "hu": "Tegyen egy gyors sétát esernyővel az autótól, hogy megcsodálja ezt a történelmi helyszínt a csendes esőben.",
+                "ro": "Faceți o scurtă plimbare sub umbrelă de la mașină pentru a admira acest sit istoric în ploaia măruntă.",
+                "en": "Take a quick umbrella-covered walk from your car to admire this historic site amidst the gentle rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vailhauzy",
+                "hu": "Château de Vailhauzy",
+                "ro": "Château de Vailhauzy",
+                "en": "Château de Vailhauzy"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die großen Innenräume, wo Sie absolut trocken bleiben und die aristokratische Geschichte entdecken.",
+                "hu": "Fedezze fel a grandiózus belső tereket, ahol teljesen száraz maradhat, miközben feltárja a helyi történelmet.",
+                "ro": "Explorați interioarele grandioase unde puteți rămâne perfect uscat descoperind istoria aristocratică locală.",
+                "en": "Explore the grand interiors where you can stay perfectly dry while uncovering local aristocratic history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem frostigen Morgen zum Caylus-Felsen. Verlassen Sie sich mittags auf die Heizung Ihres Autos zwischen den Besuchen der Kirche und des gemütlichen Puppenmuseums. Erkunden Sie an einem kühlen Nachmittag den Dolmen, bevor Sie das Schloss vor dem frühen Sonnenuntergang erreichen.",
+            "hu": "Tegyen egy fagyos reggeli autózást a Caylus-sziklához. Délben támaszkodjon autója fűtésére a templom és a hangulatos múzeum között. A hideg délutánon fedezze fel a dolment és a kápolnát, mielőtt a látványos kastélyhoz érne a korai naplemente előtt.",
+            "ro": "Conduceți într-o dimineață geroasă până la Stânca Caylus. La prânz, bazați-vă pe căldura mașinii între vizitele la biserică și muzeul primitor. În după-amiaza rece, explorați dolmenul și capela înainte de a ajunge la castel înaintea apusului timpuriu de la 17:00.",
+            "en": "Take a frosty morning drive up to Caylus Rock. By midday, rely on your car's heater between visits to the local church and the cozy puppet museum. In the chilly afternoon, explore the dolmen and chapel before reaching the spectacular château, perfectly timed before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caylus Rock",
+                "hu": "Caylus Rock",
+                "ro": "Caylus Rock",
+                "en": "Caylus Rock"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost lässt den Felsen erstrahlen; steigen Sie kurz aus dem warmen Auto für ein paar winterliche Fotos.",
+                "hu": "A reggeli fagy ragyogóvá teszi a sziklát; lépjen ki röviden a meleg autóból, hogy készítsen néhány friss téli fotót.",
+                "ro": "Gerul dimineții face stânca să strălucească; ieșiți scurt din mașina caldă pentru câteva fotografii de iarnă.",
+                "en": "The morning frost makes the rock gleam; step out of your warm car briefly to snap some crisp winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Affrique Church",
+                "hu": "Saint-Affrique Church",
+                "ro": "Saint-Affrique Church",
+                "en": "Saint-Affrique Church"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um sich die Beine zu vertreten, ohne zu frieren, geschützt vor kaltem Wind.",
+                "hu": "Remek hely a lábak kinyújtására fagyoskodás nélkül, megcsodálva a hideg szelektől védett kőmunkákat.",
+                "ro": "Un loc excelent pentru a vă dezmorți picioarele fără a îngheța, admirând arhitectura ferită de vântul rece.",
+                "en": "A great place to stretch your legs without freezing, admiring the stonework shielded from the cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Marionnettes",
+                "hu": "Espace Marionnettes",
+                "ro": "Espace Marionnettes",
+                "en": "Espace Marionnettes"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie den sinkenden Mittagstemperaturen in diesem voll beheizten Raum und feiern Sie die Puppenspielkunst.",
+                "hu": "Meneküljön a csökkenő déli hőmérséklet elől ebbe a fűtött térbe, ünnepelve a hagyományos bábművészetet.",
+                "ro": "Scăpați de temperaturile în scădere ale prânzului în acest spațiu complet încălzit, celebrând arta marionetelor.",
+                "en": "Escape the dropping midday temperatures in this fully heated space, celebrating traditional puppetry."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Galtery (B)",
+                "hu": "Dolmen de Galtery (B)",
+                "ro": "Dolmen de Galtery (B)",
+                "en": "Dolmen de Galtery (B)"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft bietet eine dramatische Kulisse für dieses megalithische Grab nahe Ihres Parkplatzes.",
+                "hu": "A zord téli táj drámai hátteret ad ennek a megalitikus sírnak, amely csak egy rövid sétára van a parkolótól.",
+                "ro": "Peisajul sumbru de iarnă oferă un fundal dramatic pentru acest mormânt megalitic la scurtă distanță de mașină.",
+                "en": "The bleak winter landscape provides a dramatic backdrop for this megalithic tomb just a short walk from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Vincent",
+                "hu": "Chapelle Saint-Vincent",
+                "ro": "Chapelle Saint-Vincent",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das goldene, flache Wintersonnenlicht, das diese Kapelle beleuchtet, bevor die Kälte einsetzt.",
+                "hu": "Élvezze az aranyló, alacsony szögben beeső téli napfényt, amely megvilágítja ezt a bájos kápolnát az esti hideg előtt.",
+                "ro": "Bucurați-vă de lumina aurie a soarelui de iarnă care luminează această capelă fermecătoare înainte de frigul serii.",
+                "en": "Enjoy the golden, low-angle winter sunlight illuminating this charming chapel before the evening chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vailhauzy",
+                "hu": "Château de Vailhauzy",
+                "ro": "Château de Vailhauzy",
+                "en": "Château de Vailhauzy"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger letzter Halt, an dem die dicken Schlossmauern die Winterkälte abhalten, während Sie die Räume besichtigen.",
+                "hu": "Egy csodálatos utolsó megálló, ahol a vastag kastélyfalak kint tartják a téli hideget a történelmi szobák bejárása során.",
+                "ro": "O ultimă oprire magnifică, unde zidurile groase țin frigul iernii la distanță în timp ce vizitați camerele istorice.",
+                "en": "A magnificent final stop where thick castle walls keep the winter cold at bay as you tour the historic rooms."
+              }
+            }
+          ]
+        }
       }
     }
   }

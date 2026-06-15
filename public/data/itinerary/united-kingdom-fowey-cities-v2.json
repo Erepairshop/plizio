@@ -160,6 +160,196 @@
         "de": "Morning: Beginnen Sie Ihren Tag mit der frischen Meeresluft am natürlichen Hafen von Fowey, bevor Sie im Stadtmuseum in die lokale Geschichte eintauchen.\n\nMidday: Nachdem Sie in die maritime Geschichte eingetaucht sind, bewundern Sie die atemberaubende Architektur der St. Fimbarrus Church im Herzen der Stadt.\n\nAfternoon: Folgen Sie dem malerischen Küstenpfad zum Readymoney Cove Beach, wo Sie im Sand entspannen und das geschützte Wasser genießen können.\n\nEvening: Schließen Sie mit einem Spaziergang zum Saint Catherine's Castle und dem Point Light ab und beobachten Sie den Sonnenuntergang an der Küste.",
         "hu": "Morning: Kezdje a napot a friss tengeri levegővel Fowey természetes kikötőjében, mielőtt elmélyülne a helyi történelemben a városi múzeumban.\n\nMidday: Miután elmerült a tengerészeti történelemben, csodálja meg a St Fimbarrus templom lenyűgöző építészetét a város szívében.\n\nAfternoon: Kövesse a festői parti ösvényt a Readymoney Cove Beach felé, ahol megpihenhet a homokban és élvezheti a védett vizeket.\n\nEvening: Zárja a napot a Saint Catherine kastélyhoz és a szomszédos világítótoronyhoz tett sétával, figyelve, ahogy a naplemente megfesti a partot.",
         "ro": "Morning: Începeți-vă ziua respirând aerul proaspăt al mării în portul natural din Fowey, înainte de a explora istoria locală la muzeul orașului.\n\nMidday: După ce v-ați cufundat în istoria maritimă, admirați arhitectura uimitoare a Bisericii St Fimbarrus, chiar în inima orașului.\n\nAfternoon: Urmați traseul pitoresc de coastă către plaja Readymoney Cove, unde vă puteți relaxa pe nisip și vă puteți bucura de apele adăpostite.\n\nEvening: Încheiați cu o plimbare până la Castelul Saint Catherine și Farul Point adiacent, privind apusul pictând coasta din Cornwall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning begins with Fowey’s harbor shrouded in atmospheric mist, making the colorful houses pop against the grey. By noon, the narrow streets offer some shelter, but the local museum becomes a vital dry haven for history lovers. The afternoon coastal path to the castle is dramatic with crashing waves, though paths are slick. As evening falls, the glistening wet quay reflects the harbor lights beautifully.",
+            "de": "Der Morgen beginnt mit dem in atmosphärischen Nebel gehüllten Hafen von Fowey, vor dem sich die bunten Häuser abheben. Mittags bieten die engen Gassen etwas Schutz, doch das Stadtmuseum wird zum wichtigen trockenen Zufluchtsort. Der nachmittägliche Küstenpfad zur Burg ist bei tosender Brandung dramatisch, auch wenn die Wege rutschig sind. Am Abend spiegeln sich die Hafenlichter wunderschön im nassen Kai.",
+            "hu": "A reggel ködbe burkolózó kikötővel indul, ahol a színes házak élesen elütnek a szürkeségtől. Délre a szűk utcák némi menedéket nyújtanak, de a városi múzeum lesz az igazi száraz menedék a történelem kedvelőinek. Délután a vár felé vezető parti ösvény a morajló hullámokkal drámai látványt nyújt, bár az út csúszós. Este a vizes mólókon megcsillanó fények különleges hangulatot árasztanak a városban.",
+            "ro": "Dimineața începe cu portul Fowey învăluit într-o ceață atmosferică, casele colorate ieșind în evidență. La prânz, străzile înguste oferă puțin adăpost, dar muzeul orașului devine un refugiu uscat vital. După-amiaza, poteca de coastă spre castel este dramatică, cu valuri care se sparg de stânci, deși drumul este alunecos. Seara, cheiul umed reflectă luminile portului într-un mod spectaculos."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Fowey",
+                "de": "Fowey",
+                "hu": "Fowey",
+                "ro": "Fowey"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the misty harbor views from a covered bench near the water; bring a sturdy umbrella to handle the sudden coastal gusts while exploring the quay.",
+                "de": "Genießen Sie den Blick auf den nebligen Hafen von einer überdachten Bank aus und bringen Sie einen stabilen Regenschirm für die plötzlichen Küstenböen mit.",
+                "hu": "Élvezze a ködös kikötői panorámát egy fedett pad anyaga alól; vigyen magával erős esernyőt, amely bírja a hirtelen feltámadó tengerparti széllökéseket.",
+                "ro": "Bucurați-vă de priveliștea portului cețos de pe o bancă acoperită; luați o umbrelă rezistentă pentru a face față rafalelor bruște de vânt de pe coastă."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Town Museum",
+                "de": "Stadtmuseum Fowey",
+                "hu": "Fowey Városi Múzeum",
+                "ro": "Muzeul Orașului Fowey"
+              },
+              "tip_5lang": {
+                "en": "This is the perfect indoor refuge to explore local maritime heritage while the rain pours outside; check out the scale models of the town's historic ships.",
+                "de": "Dies ist der perfekte Zufluchtsort im Innenbereich, um das maritime Erbe zu erkunden; schauen Sie sich die Schiffsmodelle an, während es draußen regnet.",
+                "hu": "Tökéletes beltéri menedék a helyi tengerészeti örökség felfedezéséhez, amíg kint esik; nézze meg a város történelmi hajóinak méretarányos modelljeit.",
+                "ro": "Acesta este refugiul interior perfect pentru a explora moștenirea maritimă locală; admirați machetele corăbiilor istorice în timp ce afară plouă torențial."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Church (St Fimbarrus)",
+                "de": "Fowey Church (St Fimbarrus)",
+                "hu": "Fowey templom (St Fimbarrus)",
+                "ro": "Biserica Fowey (St Fimbarrus)"
+              },
+              "tip_5lang": {
+                "en": "Step inside to appreciate the medieval architecture and stay dry under the impressive carved roof; the interior remains peaceful even during heavy rainstorms.",
+                "de": "Bewundern Sie die mittelalterliche Architektur und bleiben Sie unter dem geschnitzten Dach trocken; das Innere ist auch bei starkem Regen ein Ort der Ruhe.",
+                "hu": "Lépjen be a középkori építészet megcsodálására, és maradjon szárazon az impozáns faragott tető alatt; a belső tér heves zivatar idején is békés.",
+                "ro": "Intrați pentru a admira arhitectura medievală și rămâneți uscați sub acoperișul sculptat; interiorul rămâne liniștit chiar și în timpul furtunilor de vară."
+              }
+            },
+            {
+              "name": {
+                "en": "Readymoney Cove Beach",
+                "de": "Readymoney Cove Beach",
+                "hu": "Readymoney Cove Beach",
+                "ro": "Readymoney Cove Beach"
+              },
+              "tip_5lang": {
+                "en": "The cove takes on a wild beauty in the rain with darker sands and surging tides; watch your step on the wet concrete slope leading to the water.",
+                "de": "Die Bucht entfaltet im Regen eine wilde Schönheit mit dunklem Sand; achten Sie auf den nassen Betonhang, der zum Wasser führt, da er sehr glatt ist.",
+                "hu": "Az öböl vadregényes arcát mutatja esőben a sötétebb homokkal és a morajló hullámokkal; vigyázzon a vízhez vezető vizes, csúszós betonlejtőn.",
+                "ro": "Golful capătă o frumusețe sălbatică în ploaie, cu nisipuri întunecate; atenție la panta de beton umedă care duce spre apă, deoarece devine alunecoasă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint Catherine's Castle",
+                "de": "Saint Catherine's Castle",
+                "hu": "Saint Catherine kastély",
+                "ro": "Castelul Saint Catherine"
+              },
+              "tip_5lang": {
+                "en": "Explore the stone ruins which provide some windbreak, though keep away from the cliff edges in high winds; waterproof footwear is essential for the muddy path.",
+                "de": "Erkunden Sie die Ruinen, die etwas Windschutz bieten, aber meiden Sie bei Sturm die Klippen; wasserfeste Schuhe sind für den schlammigen Pfad unerlässlich.",
+                "hu": "Fedezze fel a szélvédelmet nyújtó kőromokat, de viharos szélben maradjon távol a sziklaszélektől; a saras ösvényhez elengedhetetlen a vízálló lábbeli.",
+                "ro": "Explorați ruinele care oferă protecție împotriva vântului, dar stați departe de marginea faleză; încălțămintea impermeabilă este esențială pe poteca noroioasă."
+              }
+            },
+            {
+              "name": {
+                "en": "St Catherine's Point Light",
+                "de": "St Catherine's Point Light",
+                "hu": "St Catherine's Point világítótorony",
+                "ro": "Farul St Catherine's Point"
+              },
+              "tip_5lang": {
+                "en": "The beacon looks stoic against the grey skies and white-capped sea; keep your camera in a waterproof bag to capture the dramatic rainy coastline safely.",
+                "de": "Das Leuchtfeuer wirkt vor dem grauen Himmel und der schäumenden See sehr stoisch; bewahren Sie Ihre Kamera in einer Schutztasche auf, um Fotos zu machen.",
+                "hu": "A világítótorony méltóságteljesen dacol a szürke éggel és a habzó tengerrel; tartsa a fényképezőgépét vízálló táskában a drámai tengerparti fotókhoz.",
+                "ro": "Farul pare stoic pe fundalul cerului gri și al mării învolburate; păstrați aparatul foto într-o geantă impermeabilă pentru a surprinde coasta în siguranță."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Crisp winter air greets you at the harbor, where the low sun creates long, golden reflections on the water. By midday, the museum offers a warm, quiet space to escape the chill. The afternoon walk along the coast feels bracing and fresh, with the castle ruins standing stark against the winter sky. Darkness arrives early by 17:00, turning the town into a cozy cluster of twinkling lights.",
+            "de": "Klare Winterluft empfängt Sie am Hafen, wo die tiefstehende Sonne lange, goldene Reflexionen auf das Wasser zaubert. Mittags bietet das Museum einen warmen, ruhigen Ort. Der nachmittägliche Spaziergang an der Küste wirkt belebend, während die Burgruinen sich scharf vom Winterhimmel abheben. Ab 17:00 Uhr wird es dunkel und die Stadt verwandelt sich in ein Lichtermeer.",
+            "hu": "Friss téli levegő fogadja a kikötőben, ahol az alacsonyan járó nap hosszú, aranyló fényeket vet a vízre. Délidőben a múzeum meleg és csendes helyet kínál a hideg elől. A délutáni parti séta élénkítő és friss, a várromok pedig élesen kirajzolódnak a téli égbolton. A sötétség korán, délután 5 körül beáll, és a város barátságos fényekbe öltözik.",
+            "ro": "Aerul rece de iarnă vă întâmpină în port, unde soarele jos creează reflexii aurii pe apă. La prânz, muzeul oferă un spațiu cald și liniștit pentru a scăpa de frig. Plimbarea de după-amiază pe coastă este revigorantă, cu ruinele castelului profilate pe cerul de iarnă. Întunericul se lasă devreme, pe la ora 17:00, transformând orașul într-un loc primitor."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Fowey",
+                "de": "Fowey",
+                "hu": "Fowey",
+                "ro": "Fowey"
+              },
+              "tip_5lang": {
+                "en": "The harbor is peaceful without the summer crowds; wear warm thermal layers to enjoy the winter sunlight reflecting off the calm river waters.",
+                "de": "Der Hafen ist ohne die Sommermassen sehr friedlich; tragen Sie warme Thermokleidung, um das im ruhigen Flusswasser reflektierte Wintersonnenlicht zu genießen.",
+                "hu": "A kikötő a nyári tömeg nélkül békés; viseljen meleg aláöltözetet, hogy hosszan élvezhesse a nyugodt folyón megcsillanó téli napsütést.",
+                "ro": "Portul este liniștit fără aglomerația de vară; purtați straturi termice călduroase pentru a vă bucura de lumina iernii reflectată în apele calme."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Town Museum",
+                "de": "Stadtmuseum Fowey",
+                "hu": "Fowey Városi Múzeum",
+                "ro": "Muzeul Orașului Fowey"
+              },
+              "tip_5lang": {
+                "en": "Warm up inside this historic building while browsing through decades of Fowey’s past; it's a cozy spot to spend an hour away from the biting wind.",
+                "de": "Wärmen Sie sich in diesem historischen Gebäude auf, während Sie durch Jahrzehnte der Vergangenheit stöbern; ein gemütlicher Ort fernab des beißenden Windes.",
+                "hu": "Melegedjen fel ebben a patinás épületben, miközben Fowey múltjának emlékei között böngészik; barátságos hely egy óra eltöltésére a metsző szél elől.",
+                "ro": "Încălziți-vă în această clădire istorică în timp ce răsfoiți decenii din trecutul orașului; este un loc primitor pentru a scăpa de vântul tăios."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Church (St Fimbarrus)",
+                "de": "Fowey Church (St Fimbarrus)",
+                "hu": "Fowey templom (St Fimbarrus)",
+                "ro": "Biserica Fowey (St Fimbarrus)"
+              },
+              "tip_5lang": {
+                "en": "The church interior offers a quiet, sheltered atmosphere; notice how the low winter sun filters through the stained glass windows at midday.",
+                "de": "Das Kircheninnere bietet eine ruhige Atmosphäre; beobachten Sie, wie die tiefe Wintersonne mittags durch die Buntglasfenster in den Raum fällt.",
+                "hu": "A templom belső tere csendes, védett környezetet nyújt; figyelje meg, ahogy az alacsonyan járó téli napfény délben átszűrődik a színes üvegablakokon.",
+                "ro": "Interiorul bisericii oferă o atmosferă liniștită și adăpostită; observați cum soarele de iarnă se filtrează prin vitralii la orele prânzului."
+              }
+            },
+            {
+              "name": {
+                "en": "Readymoney Cove Beach",
+                "de": "Readymoney Cove Beach",
+                "hu": "Readymoney Cove Beach",
+                "ro": "Readymoney Cove Beach"
+              },
+              "tip_5lang": {
+                "en": "Bring a thermos of hot tea for a bracing walk on the sand; the cove is often sheltered from the strongest north winds, making it a pleasant winter stop.",
+                "de": "Bringen Sie eine Thermoskanne mit heißem Tee für einen belebenden Spaziergang mit; die Bucht ist oft vor starken Nordwinden geschützt und sehr angenehm.",
+                "hu": "Vigyen magával egy termosz forró teát a frissítő tengerparti sétához; az öböl gyakran védett az erős északi széltől, így kellemes téli megálló.",
+                "ro": "Luați un termos cu ceai fierbinte pentru o plimbare revigorantă pe nisip; golful este adesea ferit de vânturile puternice din nord, fiind plăcut iarna."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint Catherine's Castle",
+                "de": "Saint Catherine's Castle",
+                "hu": "Saint Catherine kastély",
+                "ro": "Castelul Saint Catherine"
+              },
+              "tip_5lang": {
+                "en": "The ruins look striking against a clear winter sky; be prepared for very early dusk and carry a torch if you plan to walk back after 16:30.",
+                "de": "Die Ruinen wirken vor einem klaren Winterhimmel besonders eindrucksvoll; achten Sie auf die frühe Dämmerung und nehmen Sie ab 16:30 Uhr eine Taschenlampe mit.",
+                "hu": "A romok lenyűgözően mutatnak a tiszta téli égbolt előtt; készüljön fel a korai szürkületre, és vigyen zseblámpát, ha délután fél 5 után indulna vissza.",
+                "ro": "Ruinele arată impresionant pe fundalul cerului senin de iarnă; fiți pregătiți pentru amurgul timpuriu și luați o lanternă dacă vă întoarceți după ora 16:30."
+              }
+            },
+            {
+              "name": {
+                "en": "St Catherine's Point Light",
+                "de": "St Catherine's Point Light",
+                "hu": "St Catherine's Point világítótorony",
+                "ro": "Farul St Catherine's Point"
+              },
+              "tip_5lang": {
+                "en": "The lighthouse provides a great vantage point for watching the winter sea swells; wear gloves as the metal railings can be freezing to the touch.",
+                "de": "Der Leuchtturm ist ein großartiger Ort, um die Dünung der Wintersee zu beobachten; tragen Sie Handschuhe, da das Metallgeländer eiskalt sein kann.",
+                "hu": "A világítótorony remek kilátópont a téli tenger hullámzásának megfigyeléséhez; viseljen kesztyűt, mert a fémkorlátok érintése fagyos lehet.",
+                "ro": "Farul oferă un punct de observație excelent pentru valurile de iarnă; purtați mănuși, deoarece balustradele metalice pot fi extrem de reci la atingere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "de": "Morning: Beginnen Sie Ihre Radtour in der Nähe des historischen Caffa Mill Obelisken und fahren Sie in einem stetigen Tempo in Richtung des Zentrums.\n\nMidday: Machen Sie eine kulturelle Pause, um die komplizierten Details der Fowey Church und die faszinierenden Exponate im Stadtmuseum zu erkunden.\n\nAfternoon: Radeln Sie entlang der Küstenroute zum Readymoney Cove Beach und genießen Sie eine erfrischende Pause am Meer, bevor Sie die Klippen in Angriff nehmen.\n\nEvening: Fahren Sie für dramatische Ausblicke zum Saint Catherine's Castle hinauf und lassen Sie Ihre Reise im ruhigen und abgelegenen Coombe Haven ausklingen.",
         "hu": "Morning: Kezdje kerékpártúráját a történelmi Caffa Mill obeliszk közelében, egyenletes tempót diktálva Fowey hangulatos központja felé.\n\nMidday: Tartson kulturális szünetet a Fowey templom bonyolult részleteinek és a helyi városi múzeum lenyűgöző kiállításainak felfedezésére.\n\nAfternoon: Tekerjen a festői tengerparti úton a Readymoney Cove Beach felé, élvezve a frissítő pihenőt a tengerparton, mielőtt megküzd a sziklákkal.\n\nEvening: Kerékpározzon fel a Saint Catherine kastélyhoz a drámai kilátásért, majd lazítson a nyugodt és félreeső Coombe Havenben.",
         "ro": "Morning: Începeți-vă turul cu bicicleta lângă istoricul Obelisc Caffa Mill, stabilind un ritm constant spre centrul fermecător al orașului Fowey.\n\nMidday: Luați o pauză culturală pentru a explora detaliile complicate ale Bisericii Fowey și exponatele fascinante din Muzeul Local al Orașului.\n\nAfternoon: Pedalați de-a lungul rutei de coastă spre Readymoney Cove Beach, bucurându-vă de o pauză răcoritoare la malul mării înainte de a aborda stâncile.\n\nEvening: Mergeți până la Castelul Saint Catherine pentru priveliști dramatice, apoi încheiați-vă călătoria la liniștitul și retrasul Coombe Haven."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling through Fowey in the rain requires focus as the historic quay stones get slippery. The morning starts with a misty climb to the Obelisk. By noon, the church and museum offer welcome breaks from the downpour. The afternoon ride to the coast is exhilarating but wet, with puddles forming along the lanes. Evening arrives with a damp ride back to the harbor’s cozy shelter.",
+            "de": "Radfahren durch Fowey im Regen erfordert Konzentration, da das historische Kopfsteinpflaster rutschig wird. Der Morgen beginnt mit einem nebligen Aufstieg zum Obelisken. Mittags bieten Kirche und Museum willkommene Pausen. Die nachmittägliche Fahrt zur Küste ist berauschend, aber nass, mit vielen Pfützen. Der Abend endet mit einer feuchten Rückfahrt zum schützenden Hafen.",
+            "hu": "Az esős Fowey-ban való biciklizés figyelmet igényel, mivel a történelmi móló kövei csúszóssá válnak. A reggel ködös kapaszkodással indul az obeliszkhez. Délben a templom és a múzeum kínál felüdülést a zápor elől. A délutáni tekerés a part felé izgalmas, de vizes, az utakon pocsolyák gyűlnek össze. Az este nyirkos visszaúttal zárul a kikötő meleg oltalma felé.",
+            "ro": "Ciclismul prin Fowey pe ploaie necesită concentrare, deoarece pietrele istorice de pe chei devin alunecoase. Dimineața începe cu o urcare cețoasă spre Obelisc. La prânz, biserica și muzeul oferă pauze binevenite. Cursa de după-amiază spre coastă este antrenantă, dar umedă, cu bălți pe drum. Seara se încheie cu o cursă umedă înapoi spre adăpostul portului."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Fowey/Caffa Mill Obelisk",
+                "de": "Fowey/Caffa Mill Obelisk",
+                "hu": "Fowey/Caffa Mill obeliszk",
+                "ro": "Obeliscul Fowey/Caffa Mill"
+              },
+              "tip_5lang": {
+                "en": "The climb is steep and can be slick; ensure your bike has good mudguards to prevent rain and road grime from soaking your back on the way up.",
+                "de": "Der Anstieg ist steil und kann glatt sein; achten Sie auf gute Schutzbleche an Ihrem Fahrrad, um sich vor Spritzwasser und Schmutz zu schützen.",
+                "hu": "Az emelkedő meredek és csúszós lehet; győződjön meg róla, hogy a kerékpárján van sárvédő, hogy megelőzze a felcsapódó esővizet és sarat.",
+                "ro": "Urcarea este abruptă și poate fi alunecoasă; asigurați-vă că bicicleta are apărători de noroi bune pentru a preveni stropirea cu apă și murdărie."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Church (St Fimbarrus)",
+                "de": "Fowey Church (St Fimbarrus)",
+                "hu": "Fowey templom (St Fimbarrus)",
+                "ro": "Biserica Fowey (St Fimbarrus)"
+              },
+              "tip_5lang": {
+                "en": "Park your bike securely outside and use the church as a dry spot to check your maps; the porch offers a small covered area to shake off your raincoat.",
+                "de": "Parken Sie Ihr Rad sicher draußen und nutzen Sie die Kirche als trockenen Ort für den Check der Route; der Vorbau bietet Schutz vor dem Regen.",
+                "hu": "Parkolja le biztonságosan a biciklit kint, és használja a templomot száraz helyként az útvonal ellenőrzéséhez; a tornác alatt lerázhatja a vizet a kabátjáról.",
+                "ro": "Parcați bicicleta în siguranță afară și folosiți biserica ca loc uscat pentru a verifica harta; pridvorul oferă un spațiu acoperit pentru haina de ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Town Museum",
+                "de": "Stadtmuseum Fowey",
+                "hu": "Fowey Városi Múzeum",
+                "ro": "Muzeul Orașului Fowey"
+              },
+              "tip_5lang": {
+                "en": "This is a great place to wait out a heavy downpour; use the indoor time to rest your legs while learning about the town's fascinating seafaring history.",
+                "de": "Ein großartiger Ort, um einen heftigen Regenschauer abzuwarten; nutzen Sie die Zeit drinnen, um Ihre Beine auszuruhen und etwas über die Seefahrt zu lernen.",
+                "hu": "Kiváló hely egy heves zápor kivárására; pihentesse meg a lábait a fedél alatt, miközben megismeri a város lenyűgöző tengerészeti múltját.",
+                "ro": "Este un loc excelent pentru a aștepta trecerea unei ploi torențiale; folosiți timpul pentru a vă odihni picioarele în timp ce învățați despre istoria locală."
+              }
+            },
+            {
+              "name": {
+                "en": "Readymoney Cove Beach",
+                "de": "Readymoney Cove Beach",
+                "hu": "Readymoney Cove Beach",
+                "ro": "Readymoney Cove Beach"
+              },
+              "tip_5lang": {
+                "en": "The path to the beach can gather deep puddles; test your brakes frequently as wet rims can significantly increase your stopping distance on the descent.",
+                "de": "Auf dem Weg zum Strand können sich tiefe Pfützen bilden; testen Sie regelmäßig Ihre Bremsen, da nasse Felgen den Bremsweg deutlich verlängern.",
+                "hu": "A strandra vezető úton mély pocsolyák alakulhatnak ki; tesztelje gyakran a féket, mivel a vizes felnik jelentősen megnövelik a féktávot a lejtőn.",
+                "ro": "Poteca spre plajă poate avea bălți adânci; testați frânele frecvent, deoarece jantele umede pot crește semnificativ distanța de frânare la coborâre."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint Catherine's Castle",
+                "de": "Saint Catherine's Castle",
+                "hu": "Saint Catherine kastély",
+                "ro": "Castelul Saint Catherine"
+              },
+              "tip_5lang": {
+                "en": "Leave your bike at the start of the final foot track as it gets too muddy for tires; walk the remaining short distance for a misty view of the ruins.",
+                "de": "Lassen Sie Ihr Rad am Anfang des Fußwegs stehen, da es für Reifen zu schlammig wird; gehen Sie das letzte Stück zu Fuß zur nebligen Burgruine.",
+                "hu": "Hagyja a kerékpárt a gyalogösvény elején, mert az út túl saras lesz a gumiabroncsoknak; a hátralévő rövid távot tegye meg gyalog a ködös romokhoz.",
+                "ro": "Lăsați bicicleta la începutul potecii pietonale, deoarece devine prea noroioasă; parcurgeți pe jos restul distanței pentru o vedere cețoasă a ruinelor."
+              }
+            },
+            {
+              "name": {
+                "en": "Coombe Haven",
+                "de": "Coombe Haven",
+                "hu": "Coombe Haven",
+                "ro": "Coombe Haven"
+              },
+              "tip_5lang": {
+                "en": "The trail to this secluded spot is wild and wet in the rain; wear high-visibility gear as light levels drop quickly during heavy coastal showers.",
+                "de": "Der Weg zu diesem abgelegenen Ort ist bei Regen wild und nass; tragen Sie gut sichtbare Kleidung, da das Licht bei Küstenschauern schnell nachlässt.",
+                "hu": "A távoli helyhez vezető ösvény vad és vizes esőben; viseljen láthatósági kiegészítőket, mert a fényviszonyok hirtelen romolhatnak a záporok alatt.",
+                "ro": "Traseul spre acest loc retras este sălbatic și umed pe ploaie; purtați echipament reflectorizant, deoarece vizibilitatea scade rapid în timpul ploilor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A winter bike tour of Fowey offers crisp air and unobstructed views of the river. Morning starts with a frosty climb to the obelisk, where the views are sharp and clear. Midday provides warm respite in the museum. The afternoon coastal ride is bracing, with early long shadows stretching across the cove. By 16:30, the fading light signals a brisk ride back to the twinkling town harbor.",
+            "de": "Eine winterliche Radtour durch Fowey bietet klare Luft und freie Sicht auf den Fluss. Der Morgen beginnt mit einem frostigen Aufstieg zum Obelisken. Mittags finden Sie Wärme im Museum. Die nachmittägliche Küstenfahrt ist belebend, mit langen Schatten über der Bucht. Ab 16:30 Uhr signalisiert das schwindende Licht die Rückfahrt zum funkelnden Stadthafen.",
+            "hu": "A téli biciklitúra Fowey-ban friss levegőt és akadálytalan kilátást kínál a folyóra. A reggel fagyos kapaszkodóval indul az obeliszkhez, ahol a panoráma éles és tiszta. Délidőben a múzeum ad meleg menedéket. A délutáni tengerparti tekerés élénkítő, hosszú árnyékok vetülnek az öbölre. Fél 5-kor a halványuló fények jelzik a gyors visszatérést a kikötőbe.",
+            "ro": "Un tur cu bicicleta prin Fowey iarna oferă aer curat și vederi libere spre râu. Dimineața începe cu o urcare înghețată spre obelisc, unde priveliștea este clară. Prânzul oferă un răgaz cald în muzeu. Cursa de după-amiază pe coastă este revigorantă, cu umbre lungi peste golf. După 16:30, lumina slabă semnalează întoarcerea rapidă spre portul orașului."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Fowey/Caffa Mill Obelisk",
+                "de": "Fowey/Caffa Mill Obelisk",
+                "hu": "Fowey/Caffa Mill obeliszk",
+                "ro": "Obeliscul Fowey/Caffa Mill"
+              },
+              "tip_5lang": {
+                "en": "The view of the Bodinnick ferry is crystal clear in winter; wear windproof gloves as the cold air can be sharp on your hands during the descent.",
+                "de": "Der Blick auf die Fähre ist im Winter glasklar; tragen Sie winddichte Handschuhe, da die kalte Luft bei der Abfahrt an den Händen sehr beißend sein kann.",
+                "hu": "A Bodinnick komp látványa kristálytiszta télen; viseljen szélálló kesztyűt, mert a hideg levegő metsző lehet a kezein a lejtőn lefelé menet.",
+                "ro": "Vederea spre feribot este extrem de clară iarna; purtați mănuși rezistente la vânt, deoarece aerul rece poate fi tăios la coborâre."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Church (St Fimbarrus)",
+                "de": "Fowey Church (St Fimbarrus)",
+                "hu": "Fowey templom (St Fimbarrus)",
+                "ro": "Biserica Fowey (St Fimbarrus)"
+              },
+              "tip_5lang": {
+                "en": "A peaceful indoor stop to rest while cycling; the thick stone walls keep the interior relatively tempered and away from the winter breeze.",
+                "de": "Ein friedlicher Zwischenstopp während der Radtour; die dicken Steinmauern halten das Innere temperiert und geschützt vor der winterlichen Brise.",
+                "hu": "Békés beltéri megálló pihenéshez tekerés közben; a vastag kőfalak viszonylag mérsékelt hőmérsékleten tartják a belső teret a téli széltől védve.",
+                "ro": "O oprire liniștită în interior pentru odihnă; pereții groși de piatră mențin interiorul relativ temperat și ferit de briza rece de iarnă."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Town Museum",
+                "de": "Stadtmuseum Fowey",
+                "hu": "Fowey Városi Múzeum",
+                "ro": "Muzeul Orașului Fowey"
+              },
+              "tip_5lang": {
+                "en": "The museum is a warm sanctuary for cyclists in winter; take advantage of the indoor environment to stretch and thaw out your fingers.",
+                "de": "Das Museum ist im Winter ein warmer Zufluchtsort für Radfahrer; nutzen Sie die Umgebung drinnen, um sich zu dehnen und Ihre Finger aufzuwärmen.",
+                "hu": "A múzeum meleg menedék a kerékpárosoknak télen; használja ki a beltéri környezetet a nyújtáshoz és az ujjai felmelegítéséhez.",
+                "ro": "Muzeul este un sanctuar cald pentru bicicliști iarna; profitați de mediul interior pentru a vă întinde și a vă încălzi degetele înghețate."
+              }
+            },
+            {
+              "name": {
+                "en": "Readymoney Cove Beach",
+                "de": "Readymoney Cove Beach",
+                "hu": "Readymoney Cove Beach",
+                "ro": "Readymoney Cove Beach"
+              },
+              "tip_5lang": {
+                "en": "The beach is often deserted and serene in winter; watch out for icy patches on the shaded road sections leading down to the cove.",
+                "de": "Der Strand ist im Winter oft menschenleer und ruhig; achten Sie auf vereiste Stellen auf den schattigen Straßenabschnitten hinunter zur Bucht.",
+                "hu": "A tengerpart télen gyakran elhagyatott és nyugodt; vigyázzon a jeges foltokra az öbölhöz vezető út árnyékos szakaszain.",
+                "ro": "Plaja este adesea pustie și senină iarna; atenție la porțiunile de drum înghețate de pe secțiunile umbrite care coboară spre golf."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint Catherine's Castle",
+                "de": "Saint Catherine's Castle",
+                "hu": "Saint Catherine kastély",
+                "ro": "Castelul Saint Catherine"
+              },
+              "tip_5lang": {
+                "en": "The low winter sun casts dramatic shadows through the castle’s gun ports; finish your visit before 16:00 to avoid riding back in the dark.",
+                "de": "Die tiefe Wintersonne wirft dramatische Schatten durch die Schießscharten; beenden Sie Ihren Besuch vor 16:00 Uhr, um nicht im Dunkeln zu fahren.",
+                "hu": "Az alacsony téli nap drámai árnyékokat vet a vár lőrésein keresztül; fejezze be a látogatást délután 4 előtt, hogy ne sötétben kelljen visszatekerni.",
+                "ro": "Soarele jos de iarnă proiectează umbre dramatice prin ambrazurile castelului; terminați vizita înainte de ora 16:00 pentru a nu merge pe întuneric."
+              }
+            },
+            {
+              "name": {
+                "en": "Coombe Haven",
+                "de": "Coombe Haven",
+                "hu": "Coombe Haven",
+                "ro": "Coombe Haven"
+              },
+              "tip_5lang": {
+                "en": "The valley path can be frosty and firm in winter, providing good traction; keep moving to maintain body heat as the valley stays shaded and cold.",
+                "de": "Der Talweg kann im Winter frostig und fest sein, was gute Traktion bietet; bleiben Sie in Bewegung, um die Körperwärme im kalten Tal zu halten.",
+                "hu": "A völgyi ösvény télen fagyos és kemény lehet, ami jó tapadást biztosít; maradjon mozgásban a testhő megőrzéséhez a hideg, árnyékos völgyben.",
+                "ro": "Poteca din vale poate fi înghețată și fermă iarna, oferind tracțiune bună; continuați să vă mișcați pentru a vă menține căldura corporală."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "de": "Morning: Beginnen Sie Ihr Fahrabenteuer östlich des Flusses an der historischen St. Wyllow Church und erkunden Sie die ruhigen Landstraßen von Lanteglos.\n\nMidday: Setzen Sie Ihre Reise durch die Landschaft fort, um die alte St. Wyllow Chapel und die charmante lokale Gemeinde St. John zu entdecken.\n\nAfternoon: Überqueren Sie den Fluss nach Fowey, um den Caffa Mill Obelisken zu sehen, und parken Sie das Auto, um die schöne Fowey Church zu Fuß zu besuchen.\n\nEvening: Fahren Sie in Richtung Küste, um die beeindruckenden Ruinen von Saint Catherine's Castle zu erkunden und den Tag mit herrlichem Meerblick abzurunden.",
         "hu": "Morning: Kezdje autós kalandját a folyótól keletre, a történelmi St Wyllow templomnál, felfedezve Lanteglos csendes vidéki útjait.\n\nMidday: Folytassa utazását a vidéken, hogy felfedezze az ősi St. Wyllow kápolnát és a hangulatos helyi St John plébániát.\n\nAfternoon: Keljen át a folyón Fowey felé, hogy megnézze a Caffa Mill obeliszket, majd parkolja le autóját, hogy gyalogosan látogassa meg a gyönyörű Fowey templomot.\n\nEvening: Vezessen le a tengerpart felé, hogy felfedezze a Saint Catherine kastély lenyűgöző romjait, és a napot lenyűgöző tengeri kilátással zárja.",
         "ro": "Morning: Începeți-vă aventura cu mașina la est de râu, la istorica biserică St Wyllow, explorând drumurile rurale liniștite din Lanteglos.\n\nMidday: Continuați-vă călătoria prin mediul rural pentru a descoperi vechea Capelă St. Wyllow și fermecătoarea parohie locală St John.\n\nAfternoon: Traversați râul spre Fowey pentru a vedea Obeliscul Caffa Mill, apoi parcați mașina pentru a vizita frumoasa biserică Fowey pe jos.\n\nEvening: Conduceți spre coastă pentru a explora ruinele impresionante ale Castelului Saint Catherine, încheind ziua cu priveliști uimitoare la mare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Driving through the lush Cornish landscape is beautiful in the rain, with green hills turning vibrant. Morning stops at rural churches provide perfect dry intervals. By noon, the drive to the Obelisk offers panoramic harbor views from the car. The afternoon involves a short, wet walk to the castle ruins. Evening concludes with a scenic, rainy drive through the town’s atmospheric lights.",
+            "de": "Fahrten durch die üppige kornische Landschaft sind bei Regen wunderschön, die grünen Hügel leuchten kräftig. Die morgendlichen Stopps an ländlichen Kirchen bieten perfekte trockene Intervalle. Mittags bietet die Fahrt zum Obelisken Hafenpanoramen aus dem Auto. Der Nachmittag beinhaltet einen kurzen Spaziergang zur Burgruine. Der Abend endet mit einer malerischen Fahrt durch die Lichter.",
+            "hu": "Az autóút a dús korni tájakon csodás esőben, a zöld dombok szinte vibrálnak a nedvességtől. A reggeli megállók a vidéki templomoknál tökéletes száraz pihenőket adnak. Délben az obeliszk felé vezető úton az autóból is élvezhető a kikötői panoráma. Délután egy rövid, vizes séta vár a várromokhoz. Az este látványos, esős autózással zárul a város fényei között.",
+            "ro": "Condusul prin peisajul luxuriant din Cornwall este superb pe ploaie, cu dealurile verzi devenind vibrante. Opririle de dimineață la bisericile rurale oferă intervale uscate perfecte. La prânz, drumul spre Obelisc oferă panorame portuare chiar din mașină. După-amiaza include o scurtă plimbare umedă spre ruine. Seara se încheie cu o plimbare pitorească printre luminile orașului."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "St Wyllow",
+                "de": "St Wyllow",
+                "hu": "St Wyllow",
+                "ro": "St Wyllow"
+              },
+              "tip_5lang": {
+                "en": "A peaceful rural church that’s easy to reach by car; the interior provides a solid roof to wait out a morning shower while admiring the ancient stones.",
+                "de": "Eine friedliche ländliche Kirche, die leicht mit dem Auto erreichbar ist; das Innere bietet Schutz, um einen Schauer bei den alten Steinen abzuwarten.",
+                "hu": "Békés vidéki templom, amely autóval könnyen megközelíthető; a belső tér száraz menedéket nyújt a reggeli zápor idejére a régi falak között.",
+                "ro": "O biserică rurală liniștită, ușor de accesat cu mașina; interiorul oferă un adăpost solid pentru a aștepta trecerea unei ploi de dimineață."
+              }
+            },
+            {
+              "name": {
+                "en": "St. Wyllow Chapel",
+                "de": "St. Wyllow Chapel",
+                "hu": "St. Wyllow kápolna",
+                "ro": "Capela St. Wyllow"
+              },
+              "tip_5lang": {
+                "en": "Small and evocative, this chapel is a great rainy day stop; park close to the entrance to minimize time spent in the rain while heading inside.",
+                "de": "Diese kleine und stimmungsvolle Kapelle ist ein toller Stopp bei Regen; parken Sie nah am Eingang, um möglichst trocken ins Innere zu gelangen.",
+                "hu": "Kicsi és hangulatos kápolna, remek megálló esős napokon; parkoljon közel a bejárathoz, hogy minimálisra csökkentse a kinti tartózkodást.",
+                "ro": "Mică și evocatoare, această chapelă este o oprire excelentă pe ploaie; parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "St John",
+                "de": "St John",
+                "hu": "St John",
+                "ro": "St John"
+              },
+              "tip_5lang": {
+                "en": "Another historic gem where you can take refuge from the weather; admire the intricate carvings while listening to the rain drumming on the roof.",
+                "de": "Ein weiteres historisches Juwel, in dem Sie Zuflucht vor dem Wetter finden; bewundern Sie die Schnitzereien, während der Regen aufs Dach trommelt.",
+                "hu": "Újabb történelmi gyöngyszem, ahol menedéket lelhet az időjárás elől; csodálja meg a faragványokat, miközben hallgatja a tetőn kopogó esőt.",
+                "ro": "O altă bijuterie istorică unde vă puteți refugia; admirați sculpturile complicate în timp ce ascultați ploaia bătând în acoperiș."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey/Caffa Mill Obelisk",
+                "de": "Fowey/Caffa Mill Obelisk",
+                "hu": "Fowey/Caffa Mill obeliszk",
+                "ro": "Obeliscul Fowey/Caffa Mill"
+              },
+              "tip_5lang": {
+                "en": "The obelisk is visible from the car park area; you can enjoy the view of the river and the ferry movements without even stepping out into the rain.",
+                "de": "Der Obelisk ist vom Parkplatz aus sichtbar; Sie können den Blick auf den Fluss und die Fähre genießen, ohne überhaupt in den Regen treten zu müssen.",
+                "hu": "Az obeliszk látható a parkolóból is; élvezheti a folyóra és a kompra nyíló kilátást anélkül, hogy ki kellene szállnia az autóba az esőben.",
+                "ro": "Obeliscul este vizibil din zona de parcare; puteți savura priveliștea râului și a feribotului fără a fi nevoie să ieșiți din mașină pe ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Church (St Fimbarrus)",
+                "de": "Fowey Church (St Fimbarrus)",
+                "hu": "Fowey templom (St Fimbarrus)",
+                "ro": "Biserica Fowey (St Fimbarrus)"
+              },
+              "tip_5lang": {
+                "en": "Centrally located with nearby parking, making it a convenient rainy day destination; the large interior is perfect for a slow, dry historical exploration.",
+                "de": "Zentral gelegen mit Parkplätzen in der Nähe; der große Innenraum eignet sich perfekt für eine langsame, trockene historische Erkundungstour.",
+                "hu": "Központi fekvésű, közeli parkolóval, így kényelmes esős napi célpont; a tágas belső tér ideális egy lassú, száraz történelmi felfedezéshez.",
+                "ro": "Situată central, cu parcare în apropiere, fiind o destinație convenabilă pe ploaie; interiorul mare este perfect pentru explorare istorică."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint Catherine's Castle",
+                "de": "Saint Catherine's Castle",
+                "hu": "Saint Catherine kastély",
+                "ro": "Castelul Saint Catherine"
+              },
+              "tip_5lang": {
+                "en": "The road nearby can be narrow and slippery in the rain; drive cautiously and keep a raincoat handy for the brief walk from the car to the ruins.",
+                "de": "Die Straße in der Nähe kann bei Regen eng und rutschig sein; fahren Sie vorsichtig und halten Sie einen Regenmantel für den kurzen Weg bereit.",
+                "hu": "A közeli út esőben szűk és csúszós lehet; vezessen óvatosan, és tartsa kéznél az esőkabátot az autó és a romok közötti rövid sétához.",
+                "ro": "Drumul din apropiere poate fi îngust și alunecos pe ploaie; conduceți cu prudență și aveți pelerina la îndemână pentru scurta plimbare."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter driving in Fowey is scenic and peaceful, with clear views across the dormant countryside. Morning visits to ancient churches feel evocative in the low light. By noon, the Obelisk offers a bright, crisp vantage point over the harbor. Afternoon brings the castle’s ruins into sharp relief against the early dusk. By 17:00, the drive back through the town is illuminated by warm window lights.",
+            "de": "Winterfahrten in Fowey sind malerisch und friedlich, mit klarem Blick über das ruhende Land. Die morgendlichen Besuche alter Kirchen wirken im schwachen Licht besonders stimmungsvoll. Mittags bietet der Obelisk einen hellen Blick auf den Hafen. Der Nachmittag rückt die Burgruine ins Rampenlicht der frühen Dämmerung. Ab 17:00 Uhr leuchten die Fenster der Stadt.",
+            "hu": "A téli autózás Fowey környékén látványos és békés, tiszta kilátással a pihenő tájra. A reggeli látogatások az ősi templomokban hangulatosak az alacsony fényekben. Délben az obeliszk ragyogó kilátópont a kikötő felett. A délután a várromokat állítja éles kontrasztba a korai szürkülettel. 5 órára a városon átvezető utat már az ablakokból kiszűrődő meleg fények kísérik.",
+            "ro": "Condusul iarna în Fowey este pitoresc și liniștit, cu vederi clare peste mediul rural latent. Vizitele de dimineață la bisericile vechi sunt evocatoare în lumina slabă. La prânz, Obeliscul oferă un punct de observație clar peste port. După-amiaza scoate în evidență ruinele castelului în amurgul timpuriu. După ora 17:00, drumul prin oraș este luminat cald."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "St Wyllow",
+                "de": "St Wyllow",
+                "hu": "St Wyllow",
+                "ro": "St Wyllow"
+              },
+              "tip_5lang": {
+                "en": "The church feels particularly peaceful in winter; make sure your car's heater is working well for the drive through the shaded, cool rural lanes.",
+                "de": "Die Kirche wirkt im Winter besonders friedlich; achten Sie darauf, dass die Heizung Ihres Autos für die Fahrt durch die kühlen Gassen gut funktioniert.",
+                "hu": "A templom különösen békés télen; győződjön meg róla, hogy az autó fűtése jól működik az árnyékos, hűvös vidéki utakon való vezetéshez.",
+                "ro": "Biserica pare deosebit de liniștită iarna; asigurați-vă că încălzirea mașinii funcționează bine pentru drumul prin benzile rurale răcoroase."
+              }
+            },
+            {
+              "name": {
+                "en": "St. Wyllow Chapel",
+                "de": "St. Wyllow Chapel",
+                "hu": "St. Wyllow kápolna",
+                "ro": "Capela St. Wyllow"
+              },
+              "tip_5lang": {
+                "en": "Admire the historic architecture in the soft winter light; the walk from the car park is short, keeping your exposure to the biting air at a minimum.",
+                "de": "Bewundern Sie die Architektur im weichen Winterlicht; der Weg vom Parkplatz ist kurz, sodass Sie der kalten Luft nur minimal ausgesetzt sind.",
+                "hu": "Csodálja meg a történelmi építészetet a lágy téli fényben; a parkolótól mért távolság rövid, így csak minimális ideig kell a metsző hidegben lennie.",
+                "ro": "Admirați arhitectura istorică în lumina blândă a iernii; plimbarea de la parcare este scurtă, minimizând expunerea la aerul tăios."
+              }
+            },
+            {
+              "name": {
+                "en": "St John",
+                "de": "St John",
+                "hu": "St John",
+                "ro": "St John"
+              },
+              "tip_5lang": {
+                "en": "A cozy indoor stop with centuries of history; check the car’s tyre pressure before heading out as winter temperatures can cause it to drop.",
+                "de": "Ein gemütlicher Zwischenstopp mit jahrhundertealter Geschichte; prüfen Sie den Reifendruck vor der Fahrt, da dieser bei Kälte sinken kann.",
+                "hu": "Hangulatos beltéri megálló évszázados történelemmel; ellenőrizze a guminyomást indulás előtt, mert a téli hidegben az lecsökkenhet.",
+                "ro": "O oprire interioară primitoare cu secole de istorie; verificați presiunea în anvelope, deoarece temperaturile scăzute o pot influença."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey/Caffa Mill Obelisk",
+                "de": "Fowey/Caffa Mill Obelisk",
+                "hu": "Fowey/Caffa Mill obeliszk",
+                "ro": "Obeliscul Fowey/Caffa Mill"
+              },
+              "tip_5lang": {
+                "en": "The clear winter air provides the best visibility for photos of the ferry crossing; you can warm up in the car between taking shots of the view.",
+                "de": "Die klare Winterluft bietet die beste Sicht für Fotos der Fähre; Sie können sich im Auto aufwärmen, nachdem Sie Fotos von der Aussicht gemacht haben.",
+                "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít a kompról készített fotókhoz; az autóban bármikor felmelegedhet a fényképezések között.",
+                "ro": "Aerul clar de iarnă oferă cea mai bună vizibilitate pentru fotografii; vă puteți încălzi în mașină între sesiunile de fotografiere a peisajului."
+              }
+            },
+            {
+              "name": {
+                "en": "Fowey Church (St Fimbarrus)",
+                "de": "Fowey Church (St Fimbarrus)",
+                "hu": "Fowey templom (St Fimbarrus)",
+                "ro": "Biserica Fowey (St Fimbarrus)"
+              },
+              "tip_5lang": {
+                "en": "The church interior is a quiet refuge from the winter wind; enjoy the stillness before driving through Fowey’s narrow, festively lit streets.",
+                "de": "Das Kircheninnere ist ein ruhiger Zufluchtsort vor dem Winterwind; genießen Sie die Stille vor der Fahrt durch die beleuchteten Gassen von Fowey.",
+                "hu": "A templom belső tere csendes menedék a téli szél elől; élvezze a nyugalmat, mielőtt áthajtana Fowey szűk, ünnepi fényekkel díszített utcáin.",
+                "ro": "Interiorul bisericii este un refugiu liniștit; bucurați-vă de tăcere înainte de a conduce pe străzile înguste și luminate festiv din Fowey."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint Catherine's Castle",
+                "de": "Saint Catherine's Castle",
+                "hu": "Saint Catherine kastély",
+                "ro": "Castelul Saint Catherine"
+              },
+              "tip_5lang": {
+                "en": "Visit before 16:00 to catch the final golden light on the ruins; be mindful of potential black ice on the small lanes leading back to the main road.",
+                "de": "Besuchen Sie die Ruinen vor 16:00 Uhr für das letzte goldene Licht; achten Sie auf mögliches Glatteis auf den kleinen Gassen zurück zur Hauptstraße.",
+                "hu": "Látogasson el ide délután 4 előtt, hogy elkapja az utolsó aranyló fényeket; ügyeljen az esetleges jegesedésre a főútra visszavezető kis utakon.",
+                "ro": "Vizitați înainte de ora 16:00 pentru a surprinde ultima lumină aurie; atenție la gheața de pe benzile mici care duc înapoi la drumul principal."
+              }
+            }
+          ]
+        }
       }
     }
   }

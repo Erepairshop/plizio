@@ -137,6 +137,168 @@
         "hu": "A nap Neuves-Maisons központjában, az Église Saint-Antoine templomnál indul. Egy kényelmes sétával érjük el a bányászok kápolnáját, amely a helyi történelmet őrzi. Délután felfedezzük a Saint-Remi templomot, mielőtt elmerülnénk a város ipari múltjában. A túra a lenyűgöző egykori bányában és a bányászati múzeumban ér véget, tisztelegve a régió öröksége előtt.",
         "ro": "Ziua începe în centrul Neuves-Maisons la Église Saint-Antoine. O plimbare plăcută ne conduce către capela minerilor, o mărturie a istoriei locale. După-amiaza explorăm biserica Saint-Remi înainte de a pătrunde în trecutul industrial. Traseul se încheie fascinant cu vizitarea vechii mine de fier și a muzeului dedicat, un omagiu adus patrimoniului minier al orașului.",
         "en": "The day begins in the center of Neuves-Maisons at the Église Saint-Antoine. A leisurely walk takes us to the miners' chapel, a place of deep local history. In the afternoon, we explore the Église Saint-Remi before delving into the city's industrial past. The day concludes with a fascinating visit to the historic iron mine and its museum, honoring the town's heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang in der Kirche Saint-Antoine. Mittags bieten die historischen Kapellen Schutz vor den Schauern. Der Nachmittag ist perfekt für das unterirdische Bergwerk Val de Fer, das völlig vor Regen geschützt ist. Beenden Sie den feuchten Tag im trockenen Museum.",
+            "hu": "Kezdje esős sétáját a védett Église Saint-Antoine-ban. Délben térjen be a történelmi kápolnákba, ahol menedéket talál a záporok elől. A délután ideális a földalatti Mine du Val de Fer felfedezésére, távol az esőtől. Zárja a nyirkos, de izgalmas napot a múzeum fedett, száraz termeiben.",
+            "ro": "Începeți plimbarea ploioasă la Église Saint-Antoine. La amiază, capelele istorice vă oferă un refugiu perfect împotriva ploii. După-amiaza este ideală pentru mina subterană Val de Fer, ferită complet de intemperii. Încheiați această zi umedă, dar fascinantă, în sălile uscate ale muzeului.",
+            "en": "Start your rainy walk at the warm Église Saint-Antoine. Midday brings you through historic chapels where you can shelter from the showers. Afternoon is perfect for the underground Mine du Val de Fer, entirely protected from the rain. Conclude your damp but fascinating day at the museum, staying completely dry indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Antoine",
+                "hu": "Église Saint-Antoine",
+                "ro": "Église Saint-Antoine",
+                "en": "Église Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster im Trockenen; halten Sie einen Regenschirm für den kurzen Weg bereit.",
+                "hu": "Csodálja meg az üvegablakokat, miközben menedéket talál az eső elől; tartson kéznél esernyőt a rövid sétához.",
+                "ro": "Admirați vitraliile la adăpost; păstrați o umbrelă la îndemână pentru scurta plimbare.",
+                "en": "Admire the stained glass while sheltering from the rain; keep an umbrella handy for the short walk ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Mineurs",
+                "hu": "Chapelle Notre-Dame-des-Mineurs",
+                "ro": "Chapelle Notre-Dame-des-Mineurs",
+                "en": "Chapelle Notre-Dame-des-Mineurs"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten tollen Schutz vor Schauern. Achten Sie auf nasse, rutschige Steine.",
+                "hu": "A bányászkápolna vastag falai remek menedéket nyújtanak a záporok idején. Vigyázzon a csúszós, nedves köveken.",
+                "ro": "Zidurile groase oferă un refugiu excelent de ploaie. Atenție la pietrele umede și alunecoase.",
+                "en": "The sturdy walls of this miners' chapel offer great refuge from heavy showers. Watch your step on wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Remi",
+                "hu": "Église Saint-Remi",
+                "ro": "Église Saint-Remi",
+                "en": "Église Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich zu trocknen und das friedliche Innere zu genießen. Tragen Sie wasserdichte Schuhe.",
+                "hu": "Lépjen be száradni egy kicsit, és élvezze a békés belsőt. Viseljen vízálló cipőt a kinti tócsák miatt.",
+                "ro": "Intrați pentru a vă usca și a vă bucura de interior. Purtați încălțăminte impermeabilă.",
+                "en": "Step inside to dry off and enjoy the peaceful interior. Wear waterproof shoes for the puddles outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine du Val de Fer",
+                "hu": "Mine du Val de Fer",
+                "ro": "Mine du Val de Fer",
+                "en": "Mine du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Regentage! Dieses historische Bergwerk hält Sie völlig trocken, während Sie die Geschichte erkunden.",
+                "hu": "Tökéletes esős napra! Ez a történelmi földalatti bánya teljesen szárazon tart, miközben a helyi örökséget kutatja.",
+                "ro": "Perfect pentru o zi ploioasă! Această mină subterană vă menține complet uscat în timpul explorării.",
+                "en": "Perfect for a rainy day! This historic underground mine keeps you completely dry while exploring local heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Musée du Val de Fer",
+                "hu": "Mine Musée du Val de Fer",
+                "ro": "Mine Musée du Val de Fer",
+                "en": "Mine Musée du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den nassen Nachmittag drinnen und lernen Sie etwas über die Geschichte. Alles ist überdacht.",
+                "hu": "Töltse a nedves délutánt kényelmesen, fedett helyen, a vasbányászat történetével. A kiállítások teljesen védettek.",
+                "ro": "Petreceți după-amiaza ploioasă în confortul interiorului, învățând despre istoria minieră.",
+                "en": "Spend your wet afternoon comfortably indoors learning about the iron mining history. The exhibits are fully covered."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihr Winterspaziergang beginnt in der schönen Kirche Saint-Antoine. Der Mittagskälte entkommen Sie in den gemütlichen Kapellen. Verbringen Sie den Nachmittag unter Tage im Eisenbergwerk bei stabilen Temperaturen. Beenden Sie den Tag vor dem frühen Sonnenuntergang um 17:00 Uhr im beheizten Museum.",
+            "hu": "Téli sétája az Église Saint-Antoine csendes szépségével indul. A déli hideg elől könnyedén behúzódhat a kápolnákba. A délutánt a vasbánya földalatti járataiban töltheti, ahol a hőmérséklet stabil marad. Zárja a napot a kora esti 17:00 órás naplemente előtt a fűtött múzeumban.",
+            "ro": "Plimbarea de iarnă începe cu frumusețea bisericii Saint-Antoine. Frigul amiezii este combătut intrând în capelele de pe traseu. Petreceți după-amiaza în subteran, în mina de fier, unde temperatura este constantă. Terminați înainte de apusul de la 17:00 în muzeul încălzit.",
+            "en": "Your winter walk begins with the quiet beauty of Église Saint-Antoine. Midday cold is easily beaten by stepping inside the chapels along the route. Spend your afternoon underground in the iron mine, where temperatures remain stable. Finish before the 17:00 sunset in the cozy, heated museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Antoine",
+                "hu": "Église Saint-Antoine",
+                "ro": "Église Saint-Antoine",
+                "en": "Église Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Aufwärmen der Hände. Kleiden Sie sich in warmen Schichten für den frostigen Morgen.",
+                "hu": "Tökéletes hely a kezek felmelegítésére az oltár csodálata közben. Öltözzön meleg rétegekbe a csípős reggeli levegőhöz.",
+                "ro": "Un loc perfect pentru a vă încălzi mâinile. Îmbrăcați-vă în straturi groase pentru dimineața geroasă.",
+                "en": "A perfect spot to warm up your hands while admiring the altar. Dress in warm layers for the chilly morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Mineurs",
+                "hu": "Chapelle Notre-Dame-des-Mineurs",
+                "ro": "Chapelle Notre-Dame-des-Mineurs",
+                "en": "Chapelle Notre-Dame-des-Mineurs"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steinmauern sind kühl, behalten Sie Ihren Schal an, während Sie dieses Heiligtum erkunden.",
+                "hu": "A történelmi kőfalak tartják a hideget, ezért hagyja magán a sálat, miközben ezt a bányászszentélyt felfedezi.",
+                "ro": "Zidurile istorice păstrează un aer rece; păstrați fularul în timp ce explorați acest sanctuar.",
+                "en": "The historic stone walls hold a crisp winter chill, so keep your scarf on while exploring this miners' sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Remi",
+                "hu": "Église Saint-Remi",
+                "ro": "Église Saint-Remi",
+                "en": "Église Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause vom beißenden Wind. Der geschlossene Raum bietet einen Moment der Aufwärmung.",
+                "hu": "Tartson egy rövid pihenőt a kinti metsző szél elől. A csendes, zárt tér lehetőséget ad egy kis felmelegedésre.",
+                "ro": "Luați o scurtă pauză de la vântul tăios. Spațiul închis oferă un moment pentru a vă încălzi.",
+                "en": "Take a brief respite from the biting wind outside. The calm, enclosed space offers a moment to restore your heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine du Val de Fer",
+                "hu": "Mine du Val de Fer",
+                "ro": "Mine du Val de Fer",
+                "en": "Mine du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Die Tunnel haben eine konstante Temperatur und fühlen sich oft wärmer an als die eiskalte Winterluft draußen.",
+                "hu": "A földalatti alagutak állandó hűvös hőmérsékletet tartanak, ami gyakran melegebbnek tűnik a fagyos kinti levegőnél.",
+                "ro": "Tunelurile au o temperatură constantă și par adesea mai calde decât aerul înghețat de afară.",
+                "en": "The underground tunnels maintain a constant cool temperature, often feeling warmer than the freezing winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Musée du Val de Fer",
+                "hu": "Mine Musée du Val de Fer",
+                "ro": "Mine Musée du Val de Fer",
+                "en": "Mine Musée du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wintertour im Warmen und gut Beleuchteten, noch bevor die Sonne um 17:00 Uhr untergeht.",
+                "hu": "Fejezze be téli túráját ezen a jól kivilágított, kényelmes benti helyszínen, jóval a 17:00 órás naplemente előtt.",
+                "ro": "Încheiați turul de iarnă în interiorul cald, cu mult înainte ca soarele să apună în jur de ora 17:00.",
+                "en": "Conclude your winter tour indoors where it is brightly lit and comfortable, well before the sun sets around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros napunkat a déli Église Saint-Julien-de-Brioude-nál kezdjük. Továbbgurulunk a központi templomhoz, majd az északnyugati vallási emlékeket fedezzük fel. Délután a történelmi vasércbányához tekerünk, hogy megismerjük a régió ipari kultúráját. A napot a bányászati múzeumban zárjuk, amely lenyűgöző részletességgel mutatja be a munkások mindennapjait és örökségét.",
         "ro": "Ziua pe bicicletă începe la biserica Saint-Julien-de-Brioude din sud. Pedalăm apoi către biserica centrală și monumentele spirituale din nord-vest. După-amiaza ne îndreptăm spre istorica mină de fier pentru a descoperi moștenirea industrială. Ziua se termină cu muzeul mineritului, care prezintă impresionant munca asiduă a minerilor și istoria zonei.",
         "en": "Our biking day starts at the Église Saint-Julien-de-Brioude in the south. We then ride to the central church and the spiritual sites in the northwest. In the afternoon, we pedal to the historic iron mine to experience the region's industrial culture firsthand. The day ends at the mining museum, which impressively documents the hard work of the local miners."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den Nieselregen zur Kirche Saint-Julien-de-Brioude. Mittags bieten historische Kapellen trockene Pausen. Verbringen Sie den Nachmittag geschützt tief im Bergwerk Val de Fer. Beenden Sie Ihre feuchte Fahrt im Museum, bevor Sie zurückkehren.",
+            "hu": "Óvatosan tekerjen az esős reggelen a Saint-Julien-de-Brioude templomhoz. Délben történelmi kápolnák sora kínál száraz pihenőt az eső elől. A délutánt a Val de Fer bánya mélyén, teljes védelemben töltheti. Zárja nedves kerékpározását a múzeumban, mielőtt hazatérne.",
+            "ro": "Pedați cu atenție prin ploaia matinală către biserica Saint-Julien-de-Brioude. La amiază, capelele istorice oferă pauze uscate. Petreceți după-amiaza la adăpost, adânc în mina Val de Fer. Încheiați cursa umedă la muzeu înainte de a vă întoarce.",
+            "en": "Pedal carefully through the morning drizzle to the Saint-Julien-de-Brioude church. Midday brings stops at several historic chapels, offering dry breaks from the rain. Spend your afternoon sheltered deep inside the Val de Fer mine. Finish your wet ride at the museum before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Julien-de-Brioude",
+                "hu": "Église Saint-Julien-de-Brioude",
+                "ro": "Église Saint-Julien-de-Brioude",
+                "en": "Église Saint-Julien-de-Brioude"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich drinnen ab. Achten Sie auf nasses, rutschiges Laub auf dem Weg.",
+                "hu": "Parkolja le a bringát és szárítkozzon bent. Ügyeljen a templomhoz vezető úton a csúszós, nedves falevelekre.",
+                "ro": "Parcați bicicleta și uscați-vă înăuntru. Atenție la frunzele umede și alunecoase de pe drum.",
+                "en": "Park your bike and dry your gear inside. Watch out for slippery wet leaves on the path approaching the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Antoine",
+                "hu": "Église Saint-Antoine",
+                "ro": "Église Saint-Antoine",
+                "en": "Église Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Das prächtige Innere bietet einen exzellenten Regenschutz. Prüfen Sie Ihre Bremsen auf den nassen Straßen.",
+                "hu": "A lenyűgöző belső tér kiváló menedék az eső elől. Ellenőrizze, hogy a kerékpár fékjei jól fognak-e a vizes úton.",
+                "ro": "Interiorul grandios oferă un excelent adăpost de ploaie. Verificați frânele pe drumurile umede.",
+                "en": "The grand interior provides an excellent rain shelter. Ensure your bike brakes are working well on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Mineurs",
+                "hu": "Chapelle Notre-Dame-des-Mineurs",
+                "ro": "Chapelle Notre-Dame-des-Mineurs",
+                "en": "Chapelle Notre-Dame-des-Mineurs"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze, trockene Pause ist hier willkommen. Ein wasserdichter Bezug für Ihren Fahrradsattel wird empfohlen.",
+                "hu": "Egy rövid, száraz pihenő e történelmi kápolnában nagyon is jól jön. Egy vízálló nyereghuzat erősen ajánlott.",
+                "ro": "O scurtă pauză uscată este binevenită aici. O husă impermeabilă pentru șa este foarte recomandată.",
+                "en": "A short dry break in this historic chapel is welcome. A waterproof cover for your bike seat is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Remi",
+                "hu": "Église Saint-Remi",
+                "ro": "Église Saint-Remi",
+                "en": "Église Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um den Schauern zu entkommen. Vorsicht auf den nassen Kopfsteinpflasterstraßen in der Nähe.",
+                "hu": "Lépjen be, hogy elmeneküljön a záporok elől. Legyen óvatos a közeli macskaköves utcákon, mert nedvesen nagyon csúsznak.",
+                "ro": "Intrați pentru a scăpa de averse. Atenție la străzile pietruite din apropiere, care devin alunecoase.",
+                "en": "Step inside to escape the showers. Be cautious on the cobblestone streets nearby, as they get very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine du Val de Fer",
+                "hu": "Mine du Val de Fer",
+                "ro": "Mine du Val de Fer",
+                "en": "Mine du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad ab und gehen Sie in die trockenen Tunnel. Eine perfekte Flucht vor dem Dauerregen.",
+                "hu": "Zárja le a bringát, és irány a száraz, védett földalatti alagútrendszer. Tökéletes menedék a kinti folyamatos eső elől.",
+                "ro": "Atingeți tunelurile subterane uscate și adăpostite. O evadare perfectă de ploaia continuă.",
+                "en": "Lock up and head into the dry, sheltered underground tunnels. A perfect escape from the continuous rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Musée du Val de Fer",
+                "hu": "Mine Musée du Val de Fer",
+                "ro": "Mine Musée du Val de Fer",
+                "en": "Mine Musée du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die trockenen Ausstellungen drinnen. Schalten Sie Ihr Fahrradlicht für die nasse Heimfahrt ein.",
+                "hu": "Élvezze a lenyűgöző benti kiállításokat teljesen szárazon. Kapcsolja be a lámpákat a borús, nedves hazaútra.",
+                "ro": "Bucurați-vă de expozițiile interioare complet uscate. Aprindeți luminile bicicletei pentru drumul umed spre casă.",
+                "en": "Enjoy the fascinating indoor exhibits completely dry. Make sure your bike lights are on for the gloomy, wet ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für die morgendliche Fahrt nach Saint-Julien-de-Brioude. Die Mittagskälte wird durch Besuche in den historischen Kapellen gemildert. Der Nachmittag führt in das stabile Klima des Eisenbergwerks. Beenden Sie die Tour im Museum, wenn die Sonne um 17:00 Uhr untergeht.",
+            "hu": "Öltözzön fel melegen a csípős reggeli tekeréshez a Saint-Julien-de-Brioude-hoz. A déli fagyot a történelmi kápolnák melegében enyhítheti. A délután a vasbánya stabil klímájú földalatti járataiba vezet. Zárja a napot a múzeumban, mielőtt a téli nap 17:00-kor lenyugszik.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală răcoroasă spre Saint-Julien-de-Brioude. Frigul amiezii este atenuat de vizitele în capelele istorice. După-amiaza vă duce în subteran, în climatul stabil al minei. Terminați la muzeu, deoarece soarele de iarnă apune devreme, la ora 17:00.",
+            "en": "Bundle up for a brisk morning ride to Saint-Julien-de-Brioude. The midday chill is softened by visits to the historic chapels where you can warm your hands. Afternoon takes you underground into the iron mine's stable climate. Finish at the museum as the winter sun sets early at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Julien-de-Brioude",
+                "hu": "Église Saint-Julien-de-Brioude",
+                "ro": "Église Saint-Julien-de-Brioude",
+                "en": "Église Saint-Julien-de-Brioude"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort zum Aufwärmen nach der kalten Fahrt. Tragen Sie winddichte Handschuhe zum Schutz.",
+                "hu": "Békés hely a felmelegedésre a hideg út után. Viseljen szélálló kesztyűt, hogy megvédje kezét a fagyos levegőtől.",
+                "ro": "Un loc liniștit pentru a vă încălzi după drumul rece. Purtați mănuși rezistente la vânt.",
+                "en": "A peaceful place to warm up after your cold ride. Wear windproof gloves to protect your hands from the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Antoine",
+                "hu": "Église Saint-Antoine",
+                "ro": "Église Saint-Antoine",
+                "en": "Église Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und entfliehen Sie der Kälte. Thermoschichten unter der Radkleidung sind wichtig.",
+                "hu": "Csodálja meg az építészetet, miközben elmenekül a csípős hideg elől. A kerékpáros ruha alatti termo réteg elengedhetetlen.",
+                "ro": "Admirați arhitectura în timp ce scăpați de frigul aspru. Straturile termice sub hainele de ciclism sunt esențiale.",
+                "en": "Admire the architecture while escaping the biting cold. Thermal layers under your cycling gear are essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Mineurs",
+                "hu": "Chapelle Notre-Dame-des-Mineurs",
+                "ro": "Chapelle Notre-Dame-des-Mineurs",
+                "en": "Chapelle Notre-Dame-des-Mineurs"
+              },
+              "tip_5lang": {
+                "de": "Das Steinheiligtum blockiert den Winterwind. Bleiben Sie in Bewegung, bevor Sie wieder aufs Rad steigen.",
+                "hu": "A kőszentély hűvös, de felfogja a téli szelet. Mozogjon folyamatosan a melegen tartásért, mielőtt újra nyeregbe pattan.",
+                "ro": "Sanctuarul de piatră blochează vântul de iarnă. Continuați să vă mișcați înainte de a urca pe bicicletă.",
+                "en": "The stone sanctuary is cool but blocks the winter wind. Keep moving to stay warm before hopping back on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Remi",
+                "hu": "Église Saint-Remi",
+                "ro": "Église Saint-Remi",
+                "en": "Église Saint-Remi"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Zuflucht vor den niedrigen Temperaturen. Achten Sie auf mögliche Eisflächen im Schatten.",
+                "hu": "Keressen menedéket a bent az alacsony téli hőmérséklet elől. Ügyeljen a közeli árnyékos utakon kialakuló jégfoltokra.",
+                "ro": "Refugiați-vă de temperaturile scăzute în interior. Atenție la posibilele petice de gheață pe drum.",
+                "en": "Take refuge from the low winter temperatures inside. Watch out for potential ice patches on the shaded roads nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine du Val de Fer",
+                "hu": "Mine du Val de Fer",
+                "ro": "Mine du Val de Fer",
+                "en": "Mine du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Tunnel bieten eine stabile Temperatur, oft wärmer als der frostige Wind über Tage.",
+                "hu": "A földalatti alagutak meglepően stabil hőmérsékletet biztosítanak, gyakran melegebbnek hatnak, mint a fenti fagyos szél.",
+                "ro": "Tunelurile oferă o temperatură stabilă, adesea mai caldă decât vântul înghețat de la suprafață.",
+                "en": "The underground tunnels offer a surprisingly stable temperature, often feeling warmer than the frosty wind above ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Musée du Val de Fer",
+                "hu": "Mine Musée du Val de Fer",
+                "ro": "Mine Musée du Val de Fer",
+                "en": "Mine Musée du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Abschluss in den beheizten Museumsräumen. Sorgen Sie für helle Lichter für die Fahrt in der frühen Dunkelheit.",
+                "hu": "Fejezze be a fűtött múzeumi termekben. Gondoskodjon róla, hogy erős lámpái legyenek a kora esti sötétségben való hazaúthoz.",
+                "ro": "Încheiați în sălile încălzite ale muzeului. Asigurați-vă că aveți lumini puternice pentru drumul în întuneric.",
+                "en": "Conclude in the heated museum rooms. Ensure your bike has bright lights for the ride back in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós túránkat a Fort Pélissier-nél kezdjük, ahonnan csodás kilátás nyílik a vidékre. Ezután a város jelentős templomait járjuk körbe délről északra haladva. Délután a Saint-Blaise templomhoz érkezünk, mielőtt az ipartörténeti emlékek felé vennénk az irányt. A nap a vasércbánya és múzeumának izgalmas felfedezésével zárul a város északi részén.",
         "ro": "Cu mașina explorăm mai întâi Fort Pélissier pentru o panoramă deosebită. Apoi vizităm bisericile importante din oraș, începând din sud. După-amiaza ajungem la biserica Saint-Blaise înainte de a ne concentra pe istoria industrială. Excursia culminează cu vizitarea fascinantă a minei de fier și a muzeului său, situate în partea de nord a orașului.",
         "en": "By car, we first explore Fort Pélissier, enjoying its great views. We then drive to the city's significant churches, starting in the south. In the afternoon, we reach the Église Saint-Blaise before turning our attention to the industrial history. The trip culminates in a fascinating visit to the iron mine and its dedicated museum in the northern part of town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie im Morgenregen vorsichtig zum Fort Pélissier. Mittags bieten die robusten Mauern der Kirchen perfekte trockene Unterstände. Der Nachmittag ist ideal für das komplett überdachte Bergwerk Val de Fer. Beenden Sie den Tag im Museum mit bequemen Parkplätzen in der Nähe.",
+            "hu": "Vezessen óvatosan a reggeli esőben a Fort Pélissier-hez. Délre a helyi templomok vaskos falai tökéletes, száraz menedéket nyújtanak. A délután ideális a teljesen fedett, földalatti Mine du Val de Fer bejárására. Zárja a napot a múzeumban, ahol kényelmesen parkolhat a közelben.",
+            "ro": "Conduceți cu prudență prin ploaia de dimineață către Fort Pélissier. La prânz, zidurile robuste ale bisericilor oferă adăposturi uscate perfecte. După-amiaza este ideală în mina subterană Val de Fer, complet acoperită. Încheiați ziua liniștit la muzeu, cu o parcare convenabilă în apropiere.",
+            "en": "Drive cautiously through the morning rain to Fort Pélissier. By noon, the robust walls of the local churches offer perfect dry shelters. Your afternoon is ideally spent in the completely covered, underground Mine du Val de Fer. End the day smoothly at the museum with convenient parking nearby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort Pélissier",
+                "hu": "Fort Pélissier",
+                "ro": "Fort Pélissier",
+                "en": "Fort Pélissier"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Schirm vom Parkplatz bereit. Das massive Bauwerk bietet tollen Schutz vor starkem Regen.",
+                "hu": "Tartsa kéznél az esernyőt, amikor a parkolóból besétál. A masszív építmény remek menedéket nyújt a heves eső elől.",
+                "ro": "Țineți umbrela la îndemână de la parcare. Structura masivă oferă un refugiu excelent de ploaia puternică.",
+                "en": "Keep your umbrella handy when walking from the parking lot. The massive structure provides great refuge from heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Julien-de-Brioude",
+                "hu": "Église Saint-Julien-de-Brioude",
+                "ro": "Église Saint-Julien-de-Brioude",
+                "en": "Église Saint-Julien-de-Brioude"
+              },
+              "tip_5lang": {
+                "de": "Huschen Sie hinein in die trockene Atmosphäre. Fahren Sie vorsichtig auf den rutschigen Landstraßen.",
+                "hu": "Siessen be, hogy élvezze a nyugodt, száraz légkört. Vezessen óvatosan, mert az ide vezető vidéki utak nagyon csúszósak lehetnek.",
+                "ro": "Grăbiți-vă înăuntru pentru o atmosferă uscată. Conduceți cu atenție, drumurile rurale pot fi alunecoase.",
+                "en": "Dash inside to enjoy the serene, dry atmosphere. Drive carefully, as the rural roads leading here can get very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Antoine",
+                "hu": "Église Saint-Antoine",
+                "ro": "Église Saint-Antoine",
+                "en": "Église Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das trockene Kirchenschiff. Parken Sie nah, um die Zeit im Regen auf ein Minimum zu reduzieren.",
+                "hu": "Lépjen be a száraz hajóba, hogy elmeneküljön a záporok elől. Parkoljon közel, hogy minél kevesebb időt töltsön az esőben.",
+                "ro": "Intrați în nava uscată a bisericii pentru a scăpa de ploaie. Parcați aproape pentru a evita umezeala.",
+                "en": "Step into the dry nave to escape the downpours. Park close by to minimize your time out in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Die robusten Steinmauern bieten hervorragenden Schutz vor Nässe. Sorgen Sie für gute Scheibenwischer.",
+                "hu": "A robusztus kőfalak kiváló védelmet nyújtanak a nedves elemekkel szemben. Gondoskodjon róla, hogy az ablaktörlők jól működjenek.",
+                "ro": "Zidurile de piatră oferă o protecție excelentă de umezeală. Asigurați-vă că ștergătoarele funcționează perfect.",
+                "en": "The robust stone walls offer excellent protection from the wet elements. Ensure your windshield wipers are fully functioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine du Val de Fer",
+                "hu": "Mine du Val de Fer",
+                "ro": "Mine du Val de Fer",
+                "en": "Mine du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Ein perfektes Regenprogramm! Die tiefen Schächte garantieren, dass Sie völlig wettergeschützt bleiben.",
+                "hu": "Tökéletes program esős napra! A mély földalatti aknák gondoskodnak arról, hogy teljesen védve maradjon a rossz időtől.",
+                "ro": "O activitate perfectă de ploaie! Puțurile adânci vă asigură că rămâneți complet protejat de vremea rea.",
+                "en": "A perfect rainy day activity! The deep underground shafts ensure you stay completely protected from the bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Musée du Val de Fer",
+                "hu": "Mine Musée du Val de Fer",
+                "ro": "Mine Musée du Val de Fer",
+                "en": "Mine Musée du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bequem in den Ausstellungen drinnen. Der Parkplatz direkt davor macht die Abfahrt leicht.",
+                "hu": "Fejezze be a napot a benti kiállítások kényelmes felfedezésével. A parkoló rögtön kint van, így a nedves távozás egyszerű lesz.",
+                "ro": "Încheiați ziua explorând confortabil expozițiile. Parcarea este chiar afară, ușurând plecarea ploioasă.",
+                "en": "Finish your day exploring the indoor exhibits comfortably. The parking area is right outside, making your wet departure easy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frostige Morgenfahrt zum historischen Fort Pélissier. Das beheizte Auto ist perfekt zwischen den Besuchen der kühlen Steinkirchen. Den Mittag verbringen Sie in den konstanten Temperaturen des unterirdischen Bergwerks. Genießen Sie das Museum, bevor die Sonne um 17:00 Uhr untergeht.",
+            "hu": "Kezdje a fagyos reggeli autózást a történelmi Fort Pélissier-hez. A fűtött autó tökéletes a hűvös kőtemplomok közötti utakon. A delet a földalatti bánya állandó hőmérsékletén töltheti. Élvezze a benti múzeumot, mielőtt a téli nap 17:00 órakor eltűnik a horizonton.",
+            "ro": "Începeți plimbarea matinală geroasă către istoricul Fort Pélissier. Mașina încălzită este perfectă între vizitele la bisericile răcoroase din piatră. Prânzul este petrecut în temperaturile constante ale minei. Bucurați-vă de muzeu înainte ca soarele de iarnă să apună la ora 17:00.",
+            "en": "Start your frosty morning drive to the historic Fort Pélissier. The heated car is perfect between visits to the beautifully chilled stone churches. Midday is spent in the steady temperatures of the underground mine. Enjoy the indoor museum before the winter sun vanishes at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort Pélissier",
+                "hu": "Fort Pélissier",
+                "ro": "Fort Pélissier",
+                "en": "Fort Pélissier"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist dem Wind ausgesetzt, ziehen Sie sich warm an. Die Autoheizung ist danach eine Erlösung.",
+                "hu": "A lenyűgöző erőd ki van téve a szélnek, ezért öltözzön fel melegen. Az autófűtés utána megváltás lesz.",
+                "ro": "Fortăreața este expusă vântului, îmbrăcați-vă gros. Căldura mașinii va fi o ușurare binevenită după aceea.",
+                "en": "The impressive fortress is exposed to the wind, so bundle up tightly. The car heater will be a welcome relief afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Julien-de-Brioude",
+                "hu": "Église Saint-Julien-de-Brioude",
+                "ro": "Église Saint-Julien-de-Brioude",
+                "en": "Église Saint-Julien-de-Brioude"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie schnell vom Auto, um dem Frost zu entgehen. Der Innenraum ist wunderbar zum Aufwärmen.",
+                "hu": "Sétáljon gyorsan az autótól, hogy elkerülje a fagyos hideget. A csendes belső tér csodálatos hely a pihenésre és felmelegedésre.",
+                "ro": "Mergeți repede de la mașină pentru a evita frigul. Interiorul liniștit este minunat pentru a vă încălzi.",
+                "en": "Walk quickly from the car to avoid the freezing chill. The quiet interior is a wonderful place to rest and warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Antoine",
+                "hu": "Église Saint-Antoine",
+                "ro": "Église Saint-Antoine",
+                "en": "Église Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schöne Winterlicht. Achten Sie beim Aussteigen auf vereiste Stellen auf dem Parkplatz.",
+                "hu": "Csodálja meg az ablakokon átszűrődő gyönyörű téli fényeket. Kiszálláskor ügyeljen a parkolóban lévő jeges foltokra.",
+                "ro": "Admirați lumina de iarnă prin ferestre. Atenție la peticele de gheață din parcare când coborâți.",
+                "en": "Admire the beautiful winter light filtering through the windows. Watch for icy patches in the parking area when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Der unbeheizte Stein kann kalt sein, behalten Sie Ihren Wintermantel bei der Erkundung unbedingt an.",
+                "hu": "A fűtetlen kő hideg lehet, ezért tartsa begombolva a téli kabátját, miközben felfedezi ezt a lenyűgöző örökséget.",
+                "ro": "Piatra neîncălzită poate fi rece, păstrați haina de iarnă închisă în timp ce explorați acest loc.",
+                "en": "The unheated stone can be cold, so keep your winter coat zipped up while exploring this fascinating piece of heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine du Val de Fer",
+                "hu": "Mine du Val de Fer",
+                "ro": "Mine du Val de Fer",
+                "en": "Mine du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Wind in die Mine, wo das Klima den ganzen Winter über bemerkenswert stabil bleibt.",
+                "hu": "Meneküljön el a felszíni metsző szelek elől a bányába, ahol a klíma egész télen át figyelemre méltóan stabil marad.",
+                "ro": "Scăpați de vântul tăios coborând în mină, unde climatul rămâne remarcabil de stabil toată iarna.",
+                "en": "Escape the biting surface winds by descending into the mine, where the climate remains remarkably stable all winter long."
+              }
+            },
+            {
+              "name": {
+                "de": "Mine Musée du Val de Fer",
+                "hu": "Mine Musée du Val de Fer",
+                "ro": "Mine Musée du Val de Fer",
+                "en": "Mine Musée du Val de Fer"
+              },
+              "tip_5lang": {
+                "de": "Ende der Tour in den beheizten Räumen. Fahren Sie vor 17:00 Uhr zurück, um Dunkelfahrten zu vermeiden.",
+                "hu": "Zárja a túrát a jól fűtött múzeumi terekben. Induljon vissza az autójához 17:00 előtt, hogy elkerülje az ismeretlen utak sötétben való vezetését.",
+                "ro": "Încheiați în spațiile încălzite. Întoarceți-vă la mașină înainte de 17:00 pentru a evita condusul pe întuneric.",
+                "en": "End the tour in the well-heated museum spaces. Head back to your car before 17:00 to avoid driving unfamiliar roads in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

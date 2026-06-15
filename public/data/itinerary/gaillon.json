@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Gaillon spirituális szívének felfedezésével, magába szívva a reggeli hangulatot. Sétáljon el az ikonikus reneszánsz kastélyhoz, és fedezze fel gazdag királyi történelmét. Töltse a délutánt a bájos Courtmoulin birtok és a történelmi templom bejárásával. Zárja a napot a gyönyörű Saint-Aubin templom békés esti meglátogatásával.",
         "ro": "Începeți-vă ziua explorând inima spirituală a Gaillonului, absorbind atmosfera dimineții. Plimbați-vă până la castelul renascentist iconic și descoperiți istoria sa regală. Petreceți-vă după-amiaza plimbându-vă spre fermecătorul domeniu Courtmoulin și templul istoric. Încheiați cu o vizită pașnică de seară la frumoasa biserică Saint-Aubin.",
         "en": "Begin your day exploring the spiritual heart of Gaillon, soaking in the morning atmosphere. Stroll to the iconic Renaissance castle and discover its rich royal history. Spend your afternoon wandering to the charming Courtmoulin estate and the historical temple. Conclude with a peaceful evening visit to the beautiful Saint-Aubin church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mit dem Trommeln des Regens auf den Fenstern von Saint-Ouen. Mittags bietet das Schloss Gaillon mit seinen weiten Sälen und Arkaden einen prachtvollen, trockenen Zufluchtsort. Am Nachmittag erfordern die Wege nach Courtmoulin festes, wasserdichtes Schuhwerk für die feuchten Pfade. Der Abend klingt in Saint-Aubin aus, wo sich die Lichter stimmungsvoll im nassen Asphalt spiegeln.",
+            "hu": "A reggel az eső kopogásával kezdődik a Saint-Ouen templom üvegablakain. Délben a gailloni kastély boltíves folyosói és belső terei nyújtanak fenséges menedéket a zápor elől. Délután a Courtmoulin felé vezető út vízhatlan lábbelit igényel a felázott ösvények miatt. Az este Saint-Aubinban ér véget, ahol az utcai fények hangulatosan tükröződnek a vizes aszfalton.",
+            "ro": "Dimineața începe cu sunetul ploii lovind ferestrele bisericii Saint-Ouen. La prânz, castelul Gaillon oferă un refugiu maiestuos și uscat sub arcadele sale monumentale. După-amiaza, plimbarea spre Courtmoulin necesită încălțăminte impermeabilă pentru potecile umede. Seara se încheie în Saint-Aubin, unde luminile stradale se oglindesc melancolic în asfaltul ud.",
+            "en": "Morning begins with the rhythmic sound of rain against the windows of Saint-Ouen. By noon, Gaillon Castle’s grand halls and arches provide a majestic, dry refuge from the drizzle. In the afternoon, the walk to Courtmoulin requires sturdy waterproof footwear for the damp paths. The evening ends in Saint-Aubin, where streetlights reflect atmospherically on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Ouen",
+                "hu": "Saint-Ouen templom",
+                "ro": "Biserica Saint-Ouen",
+                "en": "Saint-Ouen Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur im Inneren, während draußen der Regen fällt; die dicken Steinmauern halten Sie während der Besichtigung warm und trocken.",
+                "hu": "Csodálja meg a gótikus belső teret, miközben kint esik; a vastag kőfalak szárazon és biztonságban tartják az egész látogatás alatt.",
+                "ro": "Admirați arhitectura gotică din interior în timp ce plouă afară; zidurile groase de piatră vă vor menține uscat și la adăpost pe durata vizitei.",
+                "en": "Admire the Gothic architecture inside while the rain falls outside; the thick stone walls keep you dry and sheltered throughout your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Gaillon",
+                "hu": "Gaillon kastély",
+                "ro": "Castelul Gaillon",
+                "en": "Gaillon Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Renaissance-Gänge, um den Ehrenhof zu bestaunen, und bringen Sie einen großen Regenschirm für die Übergänge zwischen den Flügeln mit.",
+                "hu": "Használja a reneszánsz fedett folyosókat a díszudvar megtekintéséhez, és vigyen magával egy nagy esernyőt a szárnyak közötti átjáráshoz.",
+                "ro": "Folosiți galeriile acoperite de renaștere pentru a vedea curtea de onoare și luați o umbrelă mare pentru trecerile dintre aripi.",
+                "en": "Use the covered Renaissance galleries to view the courtyard of honor, and bring a large umbrella for the transitions between the castle wings."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Atelier",
+                "hu": "L'Atelier",
+                "ro": "L'Atelier",
+                "en": "L'Atelier"
+              },
+              "tip_5lang": {
+                "de": "Dieser moderne Kulturraum ist der ideale Ort, um die lokale Kunstszene im Trockenen zu entdecken; prüfen Sie Ihre Jacke am Eingang für mehr Komfort.",
+                "hu": "Ez a modern kulturális tér ideális hely a helyi művészet felfedezésére szárazon; tegye le a vizes kabátot a bejáratnál a kényelmesebb nézelődéshez.",
+                "ro": "Acest spațiu cultural modern este locul ideal pentru a descoperi arta locală la adăpost; lăsați haina umedă la intrare pentru confort.",
+                "en": "This modern cultural space is the ideal spot to discover local art while staying dry; check your wet coat at the entrance for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Courtmoulin",
+                "hu": "Courtmoulin kastély",
+                "ro": "Castelul Courtmoulin",
+                "en": "Courtmoulin Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Schlossfassade von einem geschützten Platz unter den Bäumen aus; achten Sie auf den rutschigen Boden auf den Waldwegen in der Nähe.",
+                "hu": "Tekintse meg a kastély homlokzatát a fák alatti védett helyekről; ügyeljen a csúszós talajra a közeli erdei ösvényeken.",
+                "ro": "Priviți fațada castelului dintr-un loc protejat sub copaci; atenție la solul alunecos pe potecile din pădurea apropiată.",
+                "en": "View the castle facade from sheltered spots under the trees; watch out for slippery ground on the nearby wooded paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Saint-Aubin-sur-Gaillon",
+                "hu": "Saint-Aubin-sur-Gaillon temploma",
+                "ro": "Templul din Saint-Aubin-sur-Gaillon",
+                "en": "Temple of Saint-Aubin-sur-Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses historische Monument zügig zwischen den Regenschauern; die nahegelegenen Steinmauern bieten einen kleinen Windschutz.",
+                "hu": "Fedezze fel ezt a történelmi emlékművet gyorsan két zápor között; a közeli kőfalak némi szélvédelmet nyújtanak a nézelődéshez.",
+                "ro": "Explorați acest monument istoric rapid între reprizele de ploaie; zidurile de piatră din apropiere oferă puțin adăpost contra vântului.",
+                "en": "Explore this historical monument quickly between rain showers; the nearby stone walls provide some wind protection while you observe."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aubin",
+                "hu": "Saint-Aubin templom",
+                "ro": "Biserica Saint-Aubin",
+                "en": "Saint-Aubin Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in der stillen Wärme dieses religiösen Gebäudes; klopfen Sie Ihre Schuhe am Eingang ab, um auf den Fliesen nicht auszurutschen.",
+                "hu": "Zárja a napot az épület csendes melegében; verje le a sarat a cipőjéről a bejáratnál, hogy elkerülje a csúszást a belső kövezeten.",
+                "ro": "Încheiați ziua în căldura liniștită a acestui lăcaș; ștergeți bine încălțămintea la intrare pentru a nu aluneca pe plăcile de piatră.",
+                "en": "End your day in the quiet warmth of this religious building; knock the mud off your shoes at the entry to avoid slipping on tiles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt Sie in den ruhigen Gassen von Gaillon. Mittags bietet das Schloss Schutz vor dem eisigen Wind, der durch das Seine-Tal fegt. Am Nachmittag taucht die tiefstehende Wintersonne das Schloss Courtmoulin in ein goldenes, kühles Licht. Da die Dunkelheit bereits gegen 17:00 Uhr hereinbricht, leuchten die Lichter von Saint-Aubin den Weg für den letzten Halt.",
+            "hu": "Dérlepte reggel fogadja az utazót Gaillon csendes utcáin. Napközben a várkastély falai óvnak a Szajna-völgy felől fújó metsző széltől. Délután az alacsonyan járó téli nap aranyló, hűvös fénybe vonja a Courtmoulin kastélyt. Mivel 17:00 körül már sötétedik, Saint-Aubin fényei mutatják az utat az utolsó állomáshoz.",
+            "ro": "O dimineață gerosă vă întâmpină pe străzile liniștite din Gaillon. La prânz, zidurile castelului oferă protecție împotriva vântului tăios din valea Senei. După-amiaza, soarele palid de iarnă scaldă castelul Courtmoulin într-o lumină aurie și rece. Deoarece se întunecă în jurul orei 17:00, luminile din Saint-Aubin ghidează drumul spre ultima oprire.",
+            "en": "A frosty morning greets you in the quiet lanes of Gaillon. By noon, the castle walls offer protection from the biting wind sweeping through the Seine valley. In the afternoon, the low winter sun bathes Courtmoulin Castle in a golden, cool light. As darkness falls around 17:00, the lights of Saint-Aubin guide the way for your final stop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Ouen",
+                "hu": "Saint-Ouen templom",
+                "ro": "Biserica Saint-Ouen",
+                "en": "Saint-Ouen Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille der Kirche am frühen Morgen; tragen Sie warme Wollsocken, da der alte Steinboden im Winter sehr kalt sein kann.",
+                "hu": "Élvezze a templom kora reggeli csendjét; viseljen vastag gyapjúzoknit, mert a régi kőpadló télen nagyon hideg tud lenni.",
+                "ro": "Bucurați-vă de liniștea bisericii dis-de-dimineață; purtați șosete groase de lână, deoarece podeaua veche de piatră este foarte rece iarna.",
+                "en": "Enjoy the peaceful silence of the church early in the morning; wear thick wool socks as the old stone floor can be very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Gaillon",
+                "hu": "Gaillon kastély",
+                "ro": "Castelul Gaillon",
+                "en": "Gaillon Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen Gärten, die den Blick auf die Architektur freigeben; wärmen Sie sich in den Innenräumen mit historischen Ausstellungen auf.",
+                "hu": "Csodálja meg a kopár kerteket, amelyek szabad utat engednek az építészet látványának; melegedjen fel a történelmi kiállításoknak helyet adó termekben.",
+                "ro": "Admirați grădinile desfrunzite care dezvăluie detaliile arhitecturale; încălziți-vă în interior vizitând expozițiile istorice.",
+                "en": "Admire the bare gardens which reveal clear views of the architecture; warm up inside while exploring the historical exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Atelier",
+                "hu": "L'Atelier",
+                "ro": "L'Atelier",
+                "en": "L'Atelier"
+              },
+              "tip_5lang": {
+                "de": "Diese beheizte Kultureinrichtung ist der perfekte Zwischenstopp zur Aufwärmung; nutzen Sie die Zeit, um lokale Publikationen im Warmen zu lesen.",
+                "hu": "Ez a fűtött kulturális intézmény tökéletes pihenőhely a felmelegedéshez; szánjon időt a helyi kiadványok böngészésére a melegben.",
+                "ro": "Această instituție culturală încălzită este oprirea perfectă pentru a vă dezmorți; profitați de ocazie pentru a citi publicații locale la căldură.",
+                "en": "This heated cultural facility is the perfect stop to warm up; take your time to browse local publications in the cozy interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Courtmoulin",
+                "hu": "Courtmoulin kastély",
+                "ro": "Castelul Courtmoulin",
+                "en": "Courtmoulin Castle"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine hervorragende Sicht auf das Schloss; tragen Sie Schal und Handschuhe für den Weg durch den ungeschützten Park.",
+                "hu": "A tiszta téli levegő kiváló láthatóságot biztosít a kastélyra; viseljen sálat és kesztyűt a park nyitottabb részein való átsétáláshoz.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă asupra castelului; purtați fular și mănuși pentru plimbarea prin parcul deschis.",
+                "en": "The clear winter air provides excellent visibility of the castle; wear a scarf and gloves for the walk through the exposed park grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Saint-Aubin-sur-Gaillon",
+                "hu": "Saint-Aubin-sur-Gaillon temploma",
+                "ro": "Templul din Saint-Aubin-sur-Gaillon",
+                "en": "Temple of Saint-Aubin-sur-Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im sanften Nachmittagslicht vor Sonnenuntergang; achten Sie auf Raureif, der die Steinstufen rutschig machen kann.",
+                "hu": "Látogassa meg ezt a helyet a lágy délutáni fényekben naplemente előtt; ügyeljen a zúzmarára, amely csúszóssá teheti a kőlépcsőket.",
+                "ro": "Vizitați acest loc în lumina blândă a după-amiezii înainte de apus; atenție la chiciura care poate face treptele de piatră alunecoase.",
+                "en": "Visit this site in the soft afternoon light before sunset; watch out for hoarfrost that can make the stone steps slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aubin",
+                "hu": "Saint-Aubin templom",
+                "ro": "Biserica Saint-Aubin",
+                "en": "Saint-Aubin Church"
+              },
+              "tip_5lang": {
+                "de": "Wenn die Nacht hereinbricht, bietet das beleuchtete Kircheninnere Trost und Wärme; ein Thermosbecher mit Tee ist ein guter Begleiter für den Rückweg.",
+                "hu": "Ahogy leszáll az éj, a kivilágított templombelső vigaszt és meleget nyújt; egy termosz meleg tea jó társ lehet a visszaúton.",
+                "ro": "Pe măsură ce se lasă noaptea, interiorul luminat al bisericii oferă confort; un termos cu ceai cald este un companion bun pentru drumul de întoarcere.",
+                "en": "As night falls, the illuminated church interior offers comfort and warmth; a thermos of hot tea is a good companion for the walk back."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros kalandját a híres Gaillon-kastélynál, megcsodálva annak nagyszerű építészetét. Tekerjen át a festői vidéken a lenyűgöző egykori karthauzi kolostorhoz. Délután kerekezzen dél felé, hogy felfedezze a gyönyörű vidéki kastélyokat és a történelmi Moulin Brulét. Fejezze be aktív napját a Saint-Aubin nyugodt hangulatában.",
         "ro": "Începeți-vă aventura cu bicicleta la faimosul Château de Gaillon, admirând arhitectura sa. Mergeți prin peisajul pitoresc până la impresionanta fostă mănăstire. După-amiaza, pedalați spre sud pentru a descoperi frumoase castele rurale și moara istorică Moulin Brulé. Încheiați-vă ziua activă absorbind ambianța liniștită a lui Saint-Aubin.",
         "en": "Start your cycling adventure at the famous Château de Gaillon, marvelling at its grand architecture. Ride through the scenic countryside to the impressive former Charterhouse. In the afternoon, pedal south to discover beautiful rural castles and the historic Moulin Brulé. End your active day absorbing the tranquil ambiance of Saint-Aubin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Schloss erfordert gute Schutzbleche und Regenbekleidung. Die Fahrt zur Kartause führt über feuchte Landstraßen, die Vorsicht in den Kurven verlangen. Mittags bieten die Schlossruinen von Couvicourt einen dramatischen Anblick unter dunklen Wolken. Der Rückweg am Fluss entlang kann schlammig sein, belohnt aber mit der frischen, reinen Luft nach dem Guss.",
+            "hu": "A kastélynál kezdődő esős start jó sárvédőt és esőruhát igényel. A karthauzi kolostorhoz vezető út nedves aszfalton halad, óvatosságot kérve a kanyarokban. Délben Couvicourt várkastélya drámai látványt nyújt a sötét felhők alatt. A folyó menti visszaút sáros lehet, de kárpótol a felhőszakadás utáni friss, tiszta levegő.",
+            "ro": "Un start ploios la castel necesită aripi bune la bicicletă și haine impermeabile. Drumul spre mănăstire pe asfalt umed cere prudență în curbe. La prânz, ruinele castelului Couvicourt oferă o priveliște dramatică sub norii grei. Drumul de întoarcere pe lângă râu poate fi noroios, dar aerul proaspăt de după ploaie merită efortul.",
+            "en": "A rainy start at the castle requires good mudguards and waterproof gear. The ride to the Charterhouse follows wet roads, requiring caution in the bends. At noon, Couvicourt Castle ruins offer a dramatic sight under dark clouds. The return path along the river may be muddy, but the fresh, clean air after the downpour is rewarding."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Gaillon",
+                "hu": "Gaillon kastély",
+                "ro": "Castelul Gaillon",
+                "en": "Gaillon Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Torbögen am Eingang, um den Sattel trocken zu halten, während Sie die Fassade aus der Nähe studieren.",
+                "hu": "Parkolja a kerékpárt a bejárati kapualjak alá, hogy a nyereg száraz maradjon, miközben közelről tanulmányozza a homlokzatot.",
+                "ro": "Parcați bicicleta sub arcadele de la intrare pentru a menține șaua uscată în timp ce studiați fațada de aproape.",
+                "en": "Park your bike under the entrance archways to keep the saddle dry while you study the facade details up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Kartause von Gaillon",
+                "hu": "Egykori gailloni karthauzi kolostor",
+                "ro": "Fosta Mănăstire Gaillon",
+                "en": "Former Charterhouse of Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hierher kann bei Nässe rutschig sein; nutzen Sie niedrigere Gänge und achten Sie auf Pfützen in den tiefer liegenden Bereichen.",
+                "hu": "Az idevezető emelkedő csúszós lehet nedves időben; használjon alacsonyabb sebességfokozatot és figyelje a tócsákat az alacsonyabb részeken.",
+                "ro": "Urcarea spre acest loc poate fi alunecoasă pe umiditate; folosiți viteze inferioare și atenție la bălțile din zonele joase.",
+                "en": "The climb here can be slippery when wet; use lower gears and watch out for puddles in the lower-lying areas of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Couvicourt",
+                "hu": "Couvicourt kastély",
+                "ro": "Castelul Couvicourt",
+                "en": "Couvicourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken bei Regen besonders melancholisch; halten Sie nur kurz an und bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "A romok esőben különösen melankolikusak; csak rövid ideig álljon meg, és maradjon a kövezett utakon a sár elkerülése érdekében.",
+                "ro": "Ruinele par deosebit de melancolice în ploaie; faceți doar o oprire scurtă și rămâneți pe drumurile pavate pentru a evita noroiul.",
+                "en": "The ruins look particularly melancholic in the rain; make only a short stop and stick to paved paths to avoid excessive mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Brulé",
+                "hu": "Moulin Brulé",
+                "ro": "Moulin Brulé",
+                "en": "Moulin Brulé"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zum Wasser bedeutet hohe Luftfeuchtigkeit; wischen Sie Ihre Bremsbeläge nach dem Stopp ab, um die Bremsleistung beizubehalten.",
+                "hu": "A víz közelsége nagy páratartalmat jelent; törölje le a fékpofákat a megálló után, hogy megőrizze a fékteljesítményt a lejtőn.",
+                "ro": "Apropierea de apă înseamnă umiditate ridicată; ștergeți saboții de frână după oprire pentru a menține performanța la coborâre.",
+                "en": "Proximity to water means high humidity; wipe your brake pads after the stop to maintain braking performance for the downhill stretches."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Jeufosse",
+                "hu": "Jeufosse kastély",
+                "ro": "Castelul Jeufosse",
+                "en": "Jeufosse Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss vom Straßenrand aus; tragen Sie eine helle Warnweste, um bei schlechter Sicht für Autos sichtbar zu sein.",
+                "hu": "Élvezze a kastély látványát az út széléről; viseljen láthatósági mellényt, hogy az autósok esőben is jól lássák Önt.",
+                "ro": "Bucurați-vă de vederea castelului de la marginea drumului; purtați o vestă reflectorizantă pentru a fi vizibil pentru mașini pe vizibilitate redusă.",
+                "en": "Enjoy the view of the castle from the roadside; wear a high-visibility vest to stay seen by cars during low-visibility rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aubin",
+                "hu": "Saint-Aubin templom",
+                "ro": "Biserica Saint-Aubin",
+                "en": "Saint-Aubin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen abzuwarten; stellen Sie sicher, dass Ihre Fahrradlichter für die Rückfahrt in der Dämmerung einsatzbereit sind.",
+                "hu": "Nyugodt hely az eső kivárásához; győződjön meg róla, hogy a kerékpáros lámpák működnek a szürkületi visszaúthoz.",
+                "ro": "Un loc liniștit unde puteți aștepta să treacă ploaia; asigurați-vă că luminile bicicletei sunt gata pentru drumul de întoarcere pe înserat.",
+                "en": "A quiet place to wait out a heavy shower; ensure your bike lights are ready for the return trip in the darkening twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Kälte beißt, während Sie zum Schloss radeln, aber die Bewegung wärmt Sie schnell auf. Die Route zur Kartause bietet einen weiten Blick über das frostige Tal. Mittags leuchtet der Stein von Couvicourt in der klaren, kalten Luft besonders hell. Achten Sie am Nachmittag auf vereiste Stellen im Schatten der Wälder. Denken Sie daran, dass der Tag früh endet, und genießen Sie die Ruhe.",
+            "hu": "A reggeli hideg csípős, miközben a kastély felé teker, de a mozgás hamar felmelegíti. A karthauzi kolostorhoz vezető út pazar kilátást nyújt a deres völgyre. Délben Couvicourt kövei különösen fehéren fénylenek a tiszta, hideg levegőben. Délután ügyeljen a jeges foltokra az erdők árnyékában. Ne feledje, a nap hamar véget ér, élvezze a téli csendet.",
+            "ro": "Frigul dimineții este tăios în timp ce pedalați spre castel, dar efortul vă va încălzi rapid. Traseul spre mănăstire oferă vederi largi peste valea înghețată. La prânz, piatra de la Couvicourt strălucește alb în aerul rece și curat. După-amiaza, atenție la porțiunile înghețate în umbra pădurilor. Rețineți că ziua se termină devreme, savurați liniștea.",
+            "en": "The morning cold is biting as you cycle toward the castle, but the exercise soon warms you up. The route to the Charterhouse offers wide views over the frosty valley. At noon, the stones of Couvicourt shine brightly in the clear, cold air. In the afternoon, watch for icy patches in the shadows of the woods. Remember the day ends early; enjoy the winter silence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Gaillon",
+                "hu": "Gaillon kastély",
+                "ro": "Castelul Gaillon",
+                "en": "Gaillon Castle"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an den warmen Steinen auf, die ein wenig Wintersonne eingefangen haben; tragen Sie Schichten für den Fahrtwind danach.",
+                "hu": "Melegítse fel a kezét a téli napsütést elnyelő köveken; viseljen réteges ruházatot a továbbindulás utáni menetszél ellen.",
+                "ro": "Încălziți-vă mâinile pe pietrele care au captat puținul soare de iarnă; purtați haine în straturi contra vântului de la deplasare.",
+                "en": "Warm your hands on the stones that have caught some winter sun; wear multiple layers to combat the wind chill when you restart."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Kartause von Gaillon",
+                "hu": "Egykori gailloni karthauzi kolostor",
+                "ro": "Fosta Mănăstire Gaillon",
+                "en": "Former Charterhouse of Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Landschaft betont die Einsamkeit dieses Ortes; achten Sie auf gefrorenen Raureif auf den Wegen rund um die Anlage.",
+                "hu": "A kopár táj hangsúlyozza a hely magányát; ügyeljen a fagyott zúzmarára az épületegyüttes körüli utakon.",
+                "ro": "Peisajul golaș accentuează singurătatea acestui loc; atenție la chiciura înghețată de pe aleile din jurul complexului.",
+                "en": "The bare landscape emphasizes the solitude of this site; watch out for frozen hoarfrost on the paths around the complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Couvicourt",
+                "hu": "Couvicourt kastély",
+                "ro": "Castelul Couvicourt",
+                "en": "Couvicourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen den Ruinen und dem blauen Winterhimmel ist perfekt für Fotos; halten Sie die Kamera in einer Innentasche warm.",
+                "hu": "A romok és a kék téli égbolt kontrasztja tökéletes a fotózáshoz; tartsa a fényképezőgépet meleg belső zsebben a megállók között.",
+                "ro": "Contrastul dintre ruine și cerul albastru de iarnă este perfect pentru poze; țineți camera într-un buzunar interior cald.",
+                "en": "The contrast between the ruins and the blue winter sky is perfect for photos; keep your camera in a warm inner pocket between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Brulé",
+                "hu": "Moulin Brulé",
+                "ro": "Moulin Brulé",
+                "en": "Moulin Brulé"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Eiskristalle an den Wasserpflanzen in der Nähe der Mühle; bewegen Sie Ihre Zehen regelmäßig, um die Durchblutung zu fördern.",
+                "hu": "Figyelje meg a jégkristályokat a vízi növényeken a malom közelében; mozgassa rendszeresen a lábujjait a vérkeringés fenntartásához.",
+                "ro": "Observați cristalele de gheață de pe plantele acvatice de lângă moară; mișcați degetele de la picioare regulat pentru circulație.",
+                "en": "Observe the ice crystals on the water plants near the mill; move your toes regularly to maintain circulation in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Jeufosse",
+                "hu": "Jeufosse kastély",
+                "ro": "Castelul Jeufosse",
+                "en": "Jeufosse Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für einen Blick auf die Architektur; tragen Sie reflektierende Kleidung, da die Dämmerung schnell eintritt.",
+                "hu": "Használja ki az utolsó nappali fényeket az építészet megtekintéséhez; viseljen fényvisszaverő ruhát, mert a szürkület hirtelen jön.",
+                "ro": "Profitați de ultima lumină a zilei pentru a vedea arhitectura; purtați haine reflectorizante deoarece amurgul se instalează rapid.",
+                "en": "Take advantage of the last daylight to view the architecture; wear reflective gear as the twilight arrives very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aubin",
+                "hu": "Saint-Aubin templom",
+                "ro": "Biserica Saint-Aubin",
+                "en": "Saint-Aubin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Besinnung vor der kalten Heimfahrt; ein heißes Getränk aus der Thermoskanne wärmt Sie für die letzte Etappe.",
+                "hu": "A csendes elmélyülés helye a hideg hazatérés előtt; egy termosznyi forró ital jól jöhet az utolsó szakasz megtétele előtt.",
+                "ro": "Un loc de reflecție înainte de drumul rece spre casă; o băutură fierbinte din termos vă va încălzi pentru ultima etapă.",
+                "en": "A place for quiet reflection before the cold ride home; a hot drink from a thermos will warm you for the final stretch."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Vezessen el a csodálatos karthauzi kolostorhoz, hogy megkezdje átfogó regionális túráját. Irány a városközpont, hogy megcsodálja a fő kastélyt és meglátogassa a kulturális Ateliert. Töltse a délutánt a tájon elszórt festői történelmi birtokok közötti autózással. Zárja kiterjedt utazását Couvicourt elegáns vidéki bájával.",
         "ro": "Conduceți până la magnifica mănăstire Gaillon pentru a începe turul regional cuprinzător. Mergeți în centrul orașului pentru a admira castelul principal și a vizita Atelierul cultural. Petreceți-vă după-amiaza conducând între moșiile istorice pitorești presărate peisaj. Încheiați călătoria dumneavoastră extinsă cu farmecul rural elegant al Couvicourt.",
         "en": "Drive to the magnificent Charterhouse of Gaillon to start your comprehensive regional tour. Head into the town center to admire the iconic main castle and visit the cultural Atelier. Spend your afternoon driving between picturesque historical estates dotted across the landscape. Conclude your extensive journey with the elegant rural charm of Couvicourt."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag ist perfekt, um die Schlösser von Gaillon bequem mit dem Auto zu erkunden. Vormittags besuchen Sie die Kartause, während die Scheibenwischer den Blick auf die Landschaft freihalten. Mittags bietet das Atelier einen warmen, kulturellen Rückzugsort. Die Fahrt durch die grüne Normandie ist auch im Regen ein Genuss, und am Abend erreichen Sie Saint-Aubin trocken und entspannt.",
+            "hu": "Egy esős nap tökéletes alkalom Gaillon kastélyainak kényelmes, autós felfedezéséhez. Délelőtt a karthauzi kolostort látogatja meg, miközben az ablaktörlők szabad utat engednek a tájnak. Délben az Atelier meleg, kulturális menedéket nyújt. A zöld Normandia esőben is gyönyörű, este pedig szárazon és pihenten érkezik meg Saint-Aubinba.",
+            "ro": "O zi ploioasă este ocazia perfectă pentru a explora castelele din Gaillon confortabil cu mașina. Dimineața vizitați mănăstirea în timp ce ștergătoarele curăță vederea spre peisaj. La prânz, Atelierul oferă un refugiu cultural cald. Normandia verde este superbă și în ploaie, iar seara ajungeți în Saint-Aubin uscat și relaxat.",
+            "en": "A rainy day is perfect for exploring Gaillon's castles comfortably by car. In the morning, visit the Charterhouse while the wipers clear the view of the landscape. At noon, the Atelier offers a warm, cultural retreat. Driving through green Normandy is beautiful even in the rain, and by evening you arrive at Saint-Aubin dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ehemalige Kartause von Gaillon",
+                "hu": "Egykori gailloni karthauzi kolostor",
+                "ro": "Fosta Mănăstire Gaillon",
+                "en": "Former Charterhouse of Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu vermeiden; nutzen Sie den Wagen, um Ihre nasse Ausrüstung zwischen den Stopps zu lagern.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz az eső elkerülése érdekében; használja az autót a vizes holmik tárolására a megállók között.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; folosiți mașina pentru a depozita echipamentul umed între vizite.",
+                "en": "Park as close to the entrance as possible to avoid the rain; use the car to store your wet umbrellas and gear between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Gaillon",
+                "hu": "Gaillon kastély",
+                "ro": "Castelul Gaillon",
+                "en": "Gaillon Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze am Schloss sind gut ausgeschildert; lassen Sie Ihre Regenjacke im Auto, wenn Sie nur kurz zum Foto-Spot unter den Arkaden springen.",
+                "hu": "A kastély parkolói jól jelzettek; hagyja az esőkabátot az autóban, ha csak egy gyors fotóra ugrik ki a fedett arkádok alá.",
+                "ro": "Parcările castelului sunt bine semnalizate; lăsați haina de ploaie în mașină dacă ieșiți doar pentru o poză rapidă sub arcade.",
+                "en": "Castle parking is well-signposted; you can leave your raincoat in the car if you just hop out for a quick photo under the arches."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Atelier",
+                "hu": "L'Atelier",
+                "ro": "L'Atelier",
+                "en": "L'Atelier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen schnellen Zugang zum Gebäude; dieser Ort ist ideal für eine längere kulturelle Pause im Trockenen.",
+                "hu": "Használja a közeli parkolót a gyors bejutáshoz; ez a hely ideális egy hosszabb kulturális pihenőre, távol a kinti esőtől.",
+                "ro": "Folosiți parcarea din apropiere pentru acces rapid; acest loc este ideal pentru o pauză culturală prelungită, ferit de ploaia de afară.",
+                "en": "Use the nearby parking for quick access to the building; this site is ideal for a longer cultural break away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Courtmoulin",
+                "hu": "Courtmoulin kastély",
+                "ro": "Castelul Courtmoulin",
+                "en": "Courtmoulin Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Schloss bequem aus dem Fenster Ihres Autos, wenn der Regen zu stark wird; die Zufahrtsstraßen bieten gute Ausblicke.",
+                "hu": "Tekintse meg a kastélyt kényelmesen az autó ablakából, ha túl erősen esik; a bevezető utak kiváló rálátást biztosítanak az épületre.",
+                "ro": "Priviți castelul confortabil de la fereastra mașinii dacă plouă prea tare; drumurile de acces oferă perspective excelente.",
+                "en": "View the castle comfortably from your car window if the rain gets too heavy; the access roads provide excellent views of the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Saint-Aubin-sur-Gaillon",
+                "hu": "Saint-Aubin-sur-Gaillon temploma",
+                "ro": "Templul din Saint-Aubin-sur-Gaillon",
+                "en": "Temple of Saint-Aubin-sur-Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Straßenrand für einen Blick auf dieses kleine Monument; achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
+                "hu": "Álljon meg rövid időre az út szélén, hogy megtekintse ezt a kis emlékművet; kiszálláskor ügyeljen a mély tócsákra az út mentén.",
+                "ro": "Opriți scurt la marginea drumului pentru a vedea acest mic monument; atenție la bălțile adânci de lângă carosabil când coborâți.",
+                "en": "Stop briefly at the roadside to view this small monument; watch out for deep puddles at the road edge when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aubin",
+                "hu": "Saint-Aubin templom",
+                "ro": "Biserica Saint-Aubin",
+                "en": "Saint-Aubin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz bringt Sie in den trockenen Innenraum; genießen Sie die Ruhe des Ortes, während das Auto draußen abkühlt.",
+                "hu": "Egy rövid sprint a parkolóból és máris a száraz belső térben van; élvezze a hely nyugalmát, miközben az autó kint hűl le.",
+                "ro": "Un sprint scurt de la parcare și sunteți în interiorul uscat; savurați liniștea locului în timp ce mașina se răcește afară.",
+                "en": "A quick dash from the parking lot gets you into the dry interior; enjoy the peace of the site while your car cools down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Jeufosse",
+                "hu": "Jeufosse kastély",
+                "ro": "Castelul Jeufosse",
+                "en": "Jeufosse Castle"
+              },
+              "tip_5lang": {
+                "de": "Die beste Sicht haben Sie direkt vom befestigten Parkbereich aus; halten Sie die Kamera bereit, um Fotos durch das offene Fenster zu machen.",
+                "hu": "A legjobb kilátás közvetlenül a kövezett parkolóhelyekről nyílik; tartsa készenlétben a fényképezőgépet a nyitott ablakon keresztüli fotózáshoz.",
+                "ro": "Cea mai bună vedere este direct din zona de parcare pavată; aveți camera pregătită pentru a face poze prin fereastra deschisă.",
+                "en": "The best view is directly from the paved parking areas; keep your camera ready to take photos through the open window."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Couvicourt",
+                "hu": "Couvicourt kastély",
+                "ro": "Castelul Couvicourt",
+                "en": "Couvicourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss des Tages, ohne nass zu werden; nutzen Sie die Heizung des Autos auf dem Weg zum nächsten Ziel oder zurück.",
+                "hu": "Szép zárása a napnak anélkül, hogy elázna; használja az autó fűtését a következő úticél felé vezető úton a pára ellen.",
+                "ro": "O încheiere frumoasă a zilei fără a vă uda; folosiți încălzirea mașinii în drum spre următoarea destinație contra umezelii.",
+                "en": "A nice end to the day without getting wet; use the car’s heater on the way to your next destination to clear any fogged windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Gaillon mit der behaglichen Wärme Ihres Autos. Vormittags bietet die Kartause in der klaren Luft ein scharfes Profil. Mittags ist das Atelier der ideale Ort für eine Pause abseits der Kälte. Die kurzen Wintertage bedeuten, dass Sie die Schlösser im warmen Licht der tiefstehenden Sonne sehen, bevor Sie am frühen Abend gemütlich in Saint-Aubin ankommen.",
+            "hu": "Fedezze fel a téli Gaillont az autója nyújtotta kellemes melegben. Délelőtt a karthauzi kolostor éles kontúrjai kirajzolódnak a tiszta levegőben. Délután az Atelier ideális hely egy pihenőre a hideg elől. A rövid téli napok miatt a kastélyokat az alacsony nap meleg fényében látja majd, mielőtt korán este megérkezne Saint-Aubinba.",
+            "ro": "Explorați Gaillonul hibernal în căldura plăcută a mașinii dumneavoastră. Dimineața, contururile mănăstirii se văd clar în aerul curat. După-amiaza, Atelierul este locul ideal pentru o pauză departe de frig. Zilele scurte de iarnă înseamnă că veți vedea castelele în lumina caldă a soarelui palid, înainte de a ajunge seara devreme în Saint-Aubin.",
+            "en": "Explore winter Gaillon with the cozy warmth of your car. In the morning, the Charterhouse’s sharp profile stands out in the clear air. At noon, the Atelier is the ideal spot for a break from the cold. Short winter days mean you’ll see the castles in the warm light of the low sun before arriving early evening in Saint-Aubin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ehemalige Kartause von Gaillon",
+                "hu": "Egykori gailloni karthauzi kolostor",
+                "ro": "Fosta Mănăstire Gaillon",
+                "en": "Former Charterhouse of Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den schattigen Zufahrtswegen; der Parkplatz kann am Morgen noch gefroren sein, gehen Sie vorsichtig zum Eingang.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos bekötőutakon; a parkoló reggel még fagyos lehet, óvatosan sétáljon a bejáratig.",
+                "ro": "Atenție la polei pe drumurile de acces umbrite; parcarea poate fi înghețată dimineața, mergeți cu grijă spre intrare.",
+                "en": "Watch out for black ice on shaded access roads; the parking lot may still be frozen in the morning, so walk carefully to the entry."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Gaillon",
+                "hu": "Gaillon kastély",
+                "ro": "Castelul Gaillon",
+                "en": "Gaillon Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die hellen Fassadensteine zum Leuchten; nutzen Sie die Sitzheizung nach dem Rundgang durch die kalten Schlossgärten.",
+                "hu": "A téli napfény ragyogóvá teszi a világos homlokzati köveket; használja az ülésfűtést a hideg kastélykertben tett séta után.",
+                "ro": "Soarele de iarnă face pietrele fațadei să strălucească; folosiți încălzirea în scaune după plimbarea prin grădinile reci ale castelului.",
+                "en": "Winter sunlight makes the light-colored facade stones glow; use your seat heaters after touring the cold castle gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Atelier",
+                "hu": "L'Atelier",
+                "ro": "L'Atelier",
+                "en": "L'Atelier"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Raum, um die Kälte für eine Weile zu vergessen; parken Sie direkt davor, um die Zeit im Freien zu minimieren.",
+                "hu": "Nagyszerűen fűtött tér, ahol egy időre elfelejtheti a kinti hideget; parkoljon közvetlenül az épület előtt a kinti tartózkodás minimalizálásához.",
+                "ro": "Un spațiu încălzit excelent unde puteți uita de frigul de afară; parcați chiar în față pentru a minimiza timpul petrecut în aer liber.",
+                "en": "A wonderfully heated space to forget the cold for a while; park directly in front to minimize your time spent outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Courtmoulin",
+                "hu": "Courtmoulin kastély",
+                "ro": "Castelul Courtmoulin",
+                "en": "Courtmoulin Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume im Winter erlauben Panoramablicke aus dem Auto; die Zufahrt durch den Wald kann bei Frost besonders malerisch sein.",
+                "hu": "A kopár téli fák panorámás kilátást engednek az autóból; az erdőn átvezető út fagyos időben különösen festői látványt nyújt.",
+                "ro": "Copacii desfrunziți permit vederi panoramice din mașină; drumul prin pădure poate fi deosebit de pitoresc pe timp de îngheț.",
+                "en": "The bare winter trees allow for panoramic views from your car; the drive through the woods can be particularly scenic during a frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel von Saint-Aubin-sur-Gaillon",
+                "hu": "Saint-Aubin-sur-Gaillon temploma",
+                "ro": "Templul din Saint-Aubin-sur-Gaillon",
+                "en": "Temple of Saint-Aubin-sur-Gaillon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den schnellen Stopp bei herrlicher Winterluft; prüfen Sie Ihren Reifendruck, da dieser bei sinkenden Temperaturen oft fällt.",
+                "hu": "Élvezze a gyors megállót a friss téli levegőn; ellenőrizze a guminyomást, mivel a süllyedő hőmérséklet miatt az gyakran csökken.",
+                "ro": "Bucurați-vă de oprirea rapidă în aerul proaspăt de iarnă; verificați presiunea în pneuri, deoarece scade adesea odată cu temperatura.",
+                "en": "Enjoy the quick stop in the crisp winter air; check your tire pressure as it often drops along with the falling temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Aubin",
+                "hu": "Saint-Aubin templom",
+                "ro": "Biserica Saint-Aubin",
+                "en": "Saint-Aubin Church"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren herrscht eine friedliche, kühle Stille; lassen Sie den Motor nicht unnötig laufen, während Sie kurz für ein Gebet oder Foto anhalten.",
+                "hu": "Odabent békés, hűvös csend fogadja; ne járassa feleslegesen a motort, amíg beugrik egy rövid imára vagy fotózásra.",
+                "ro": "În interior vă întâmpină o liniște pace; nu lăsați motorul pornit inutil cât timp intrați pentru o scurtă rugăciune sau poză.",
+                "en": "Inside, a peaceful and cool silence awaits you; don't leave the engine idling while you pop in for a quick prayer or photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Jeufosse",
+                "hu": "Jeufosse kastély",
+                "ro": "Castelul Jeufosse",
+                "en": "Jeufosse Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht besonders scharf; nutzen Sie das Fernlicht auf den dunkler werdenden Landstraßen danach.",
+                "hu": "Az építészet különösen élesen rajzolódik ki a tiszta téli fényben; használja a távolsági fényszórót a sötétedő országutakon.",
+                "ro": "Arhitectura pare deosebit de clară în lumina curată de iarnă; folosiți faza lungă pe drumurile naționale care se întunecă apoi.",
+                "en": "The architecture looks especially sharp in the clear winter light; use your high beams on the darkening country roads afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Couvicourt",
+                "hu": "Couvicourt kastély",
+                "ro": "Castelul Couvicourt",
+                "en": "Couvicourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Ort für den frühen Sonnenuntergang; prüfen Sie vor der Abfahrt, ob Ihre Scheibenwaschanlage genug Frostschutz hat.",
+                "hu": "Hangulatos hely a korai naplemente megtekintéséhez; indulás előtt ellenőrizze, hogy van-e elég fagyálló a szélvédőmosóban.",
+                "ro": "Un loc plin de atmosferă pentru apusul devreme; înainte de plecare, verificați dacă aveți destul lichid de parbriz anti-îngheț.",
+                "en": "An atmospheric spot for the early sunset; check before leaving if your windshield washer fluid has enough anti-freeze protection."
+              }
+            }
+          ]
+        }
       }
     }
   }

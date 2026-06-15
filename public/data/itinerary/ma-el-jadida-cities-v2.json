@@ -160,6 +160,196 @@
         "hu": "Reggel felfedezheti a történelmi portugál ciszternát, majd a Bastion of Angels bástyánál élvezheti a tengeri szellőt. Délben a lenyűgöző Phare Vert világítótoronyhoz sétál, ahonnan csodás a kilátás. Délután a Musée de la Résistance múzeumban merülhet el a történelemben, majd megtekinti a Théatre Afifi épületét. A napot a Palais du Gouverneur fenséges látványa zárja az esti fényekben.",
         "ro": "Dimineața explorați istorica Cisternă Portugheză și vă bucurați de briza mării la Bastion of Angels. La prânz, vizitați impresionantul Phare Vert care oferă priveliști superbe spre ocean. După-amiaza pătrundeți în istoria locală la Musée de la Résistance și admirați arhitectura de la Théatre Afifi. Ziua se încheie maiestuos la Palais du Gouverneur în lumina blândă a serii.",
         "en": "In the morning, explore the historic Portuguese Cistern and enjoy the ocean breeze at the Bastion of Angels. Midday brings you to the impressive Phare Vert with sweeping views of the Atlantic. During the afternoon, delve into local history at the Musée de la Résistance and admire the striking Théatre Afifi. The day concludes majestically at the Palais du Gouverneur under the evening sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt unter den schützenden Gewölben der portugiesischen Zisterne. Mittags nutzen wir die schmalen, überdachten Gassen der Medina, um trocken zum Museum zu gelangen. Am Nachmittag bieten das Theater und der Gouverneurspalast ideale Rückzugsorte vor den Schauern. Der Abend endet stimmungsvoll am Hafen, wo sich die Stadtlichter in den nassen Pflastersteinen spiegeln.",
+            "hu": "Az esős reggel a portugál ciszterna védett boltívei alatt indul, ahol a beszivárgó víz különleges hangulatot áraszt. Délben a medina szűk, fedettebb utcáin haladunk a múzeum felé, elkerülve a nagyobb pocsolyákat. Délután a színház és a Kormányzói Palota belső terei nyújtanak menedéket a záporok elől. Az estét a kikötő közelében, az eső áztatta köveken csillogó fényekkel zárjuk.",
+            "ro": "O dimineață ploioasă începe sub bolțile protectoare ale cisternei portugheze, unde infiltrațiile creează o atmosferă unică. La prânz, folosim străzile înguste și acoperite ale medinei pentru a ajunge uscați la muzeu. După-amiaza, teatrul și Palatul Guvernatorului oferă refugii ideale împotriva averselor. Seara se încheie în port, unde luminile orașului se oglindesc spectaculos în pavajul ud.",
+            "en": "A rainy morning begins under the protective vaults of the Portuguese Cistern, where seepage creates a unique ambiance. At noon, we use the narrow, sheltered streets of the medina to reach the museum while staying dry. In the afternoon, the theater and the Governor's Palace provide ideal retreats from the showers. The evening concludes at the harbor, with city lights reflecting beautifully on the wet stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cisterne Portuguese",
+                "hu": "Cisterne Portuguese",
+                "ro": "Cisterne Portuguese",
+                "en": "Cisterne Portuguese"
+              },
+              "tip_5lang": {
+                "de": "Dieses unterirdische Wunder ist bei Regen perfekt geschützt; achten Sie jedoch auf den extrem rutschigen Boden durch die Feuchtigkeit.",
+                "hu": "Ez a föld alatti csoda esőben is tökéletesen védett; ügyelj azonban a beszivárgó víz miatt rendkívül csúszóssá váló kőpadlóra.",
+                "ro": "Această minune subterană este perfect protejată de ploaie; totuși, atenție la podeaua de piatră care devine extrem de alunecoasă din cauza umidității.",
+                "en": "This underground wonder is perfectly sheltered from the rain; however, watch out for the stone floor which becomes extremely slippery from the seepage."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion of Angels",
+                "hu": "Bastion of Angels",
+                "ro": "Bastion of Angels",
+                "en": "Bastion of Angels"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue See bei Regen von den Mauern aus; tragen Sie eine feste Regenjacke gegen die Gischt und den starken Wind.",
+                "hu": "Csodáld meg a viharos tengert a bástyáról; viselj erős esőkabátot, mert a sós pára és a szél ilyenkor minden irányból érkezik.",
+                "ro": "Admirați marea agitată de pe ziduri în timpul ploii; purtați o pelerină rezistentă împotriva stropilor și a vântului puternic de coastă.",
+                "en": "Admire the rough sea from the ramparts during the rain; wear a sturdy raincoat against the sea spray and the strong coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare Vert",
+                "hu": "Phare Vert",
+                "ro": "Phare Vert",
+                "en": "Phare Vert"
+              },
+              "tip_5lang": {
+                "de": "Der grüne Leuchtturm wirkt im Nebel fast mystisch; halten Sie einen Schirm bereit, da der Weg dorthin völlig ungeschützt ist.",
+                "hu": "A zöld világítótorony ködös esőben egészen misztikus látvány; tarts készenlétben esernyőt, mert az odavezető út teljesen nyitott.",
+                "ro": "Farul verde pare aproape mistic în ceața ploioasă; aveți umbrela pregătită, deoarece drumul până acolo este complet expus intemperiilor.",
+                "en": "The green lighthouse looks almost mystical in the rainy mist; keep an umbrella ready as the path there is completely exposed to the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Résistance",
+                "hu": "Musée de la Résistance",
+                "ro": "Musée de la Résistance",
+                "en": "Musée de la Résistance"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Regenpause; die historischen Exponate lassen sich im trockenen Innenraum entspannt studieren.",
+                "hu": "Használd ki a múzeumlátogatást egy hosszabb esőpause-ra; a történelmi tárlatokat a száraz belső térben kényelmesen végigböngészheted.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de ploaie; exponatele istorice pot fi studiate în liniște în interiorul cald și uscat.",
+                "en": "Use the museum visit as an extended rain break; the historical exhibits can be studied comfortably in the dry indoor space."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre Afifi",
+                "hu": "Théatre Afifi",
+                "ro": "Théatre Afifi",
+                "en": "Théatre Afifi"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet im Regen besonders intensiv; suchen Sie unter dem Vordach Schutz und bewundern Sie die architektonischen Details.",
+                "hu": "A színház homlokzata esőben még intenzívebb színű; keress menedéket az előtető alatt, és csodáld meg az építészeti részleteket.",
+                "ro": "Fațada teatrului are culori intense pe ploaie; căutați adăpost sub streșină și admirați detaliile arhitecturale deosebite.",
+                "en": "The theater's facade has particularly intense colors in the rain; seek shelter under the canopy and admire the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais du Gouverneur",
+                "hu": "Palais du Gouverneur",
+                "ro": "Palais du Gouverneur",
+                "en": "Palais du Gouverneur"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Schutz der Palastmauern; die prachtvollen Innenräume lassen das graue Wetter draußen schnell vergessen.",
+                "hu": "Zárd a napot a palota falainak védelmében; a pompás belső terek segítenek elfelejteni a kinti szürke és esős időjárást.",
+                "ro": "Încheiați ziua la adăpostul zidurilor palatului; interioarele somptuoase vă vor face să uitați rapid de vremea gri de afară.",
+                "en": "End the day sheltered by the palace walls; the grand interior spaces will make you quickly forget the grey weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen erkunden wir die kühlen Gassen bei sanftem Sonnenlicht. Mittags bietet das Museum angenehme Wärme, während draußen die Meeresbrise weht. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir den Palast am frühen Nachmittag. Der Abend ist frisch, perfekt für einen kurzen Spaziergang in der festlich beleuchteten, ruhigen Medina.",
+            "hu": "A tiszta téli reggelen a várfalak mentén sétálunk, miközben az alacsony napfény megvilágítja az óvárost. Délben a múzeum fűtött kiállítóterei nyújtanak kényelmet a tengeri szél elől. Mivel a nap 17:00 körül lenyugszik, délután látogatjuk meg a palotát. Az este friss és hűvös, ideális egy rövid sétára a kivilágított, csendes medinában.",
+            "ro": "Într-o dimineață senină de iarnă, explorăm străzile răcoroase sub lumina blândă a soarelui. La prânz, muzeul oferă o căldură plăcută în timp ce briza mării bate afară. Deoarece soarele apune în jur de ora 17:00, vizităm palatul după-amiaza devreme. Seara este proaspătă, perfectă pentru o plimbare scurtă în medina liniștită și luminată.",
+            "en": "On a clear winter morning, we explore the cool streets under gentle sunlight. At noon, the museum offers pleasant warmth while the sea breeze blows outside. Since the sun sets around 5:00 PM, we visit the palace in the early afternoon. The evening is crisp, perfect for a short walk in the festively lit, quiet medina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cisterne Portuguese",
+                "hu": "Cisterne Portuguese",
+                "ro": "Cisterne Portuguese",
+                "en": "Cisterne Portuguese"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur in der Zisterne bleibt konstant; nutzen Sie die kühle Morgenluft für stimmungsvolle Fotos bei tiefstehender Wintersonne.",
+                "hu": "A ciszterna hőmérséklete télen is állandó; használd ki a hűvös reggeli levegőt a hangulatos fotókhoz az alacsony téli napsütésben.",
+                "ro": "Temperatura în cisternă rămâne constantă; profitați de aerul răcoros al dimineții pentru fotografii atmosferice sub soarele slab de iarnă.",
+                "en": "The temperature in the cistern remains constant; take advantage of the cool morning air for atmospheric photos under the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion of Angels",
+                "hu": "Bastion of Angels",
+                "ro": "Bastion of Angels",
+                "en": "Bastion of Angels"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an den Bastionen kann im Winter sehr eisig sein; ein warmer Schal und eine winddichte Jacke sind hier absolut notwendig.",
+                "hu": "A bástyákon a téli szél rendkívül metsző lehet; egy meleg sál és szélálló dzseki elengedhetetlen a tengeri kilátás élvezetéhez.",
+                "ro": "Vântul pe bastioane poate fi foarte tăios iarna; un fular călduros și o jachetă rezistentă la vânt sunt absolut necesare aici.",
+                "en": "The wind at the bastions can be very biting in winter; a warm scarf and a windproof jacket are absolutely necessary here."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare Vert",
+                "hu": "Phare Vert",
+                "ro": "Phare Vert",
+                "en": "Phare Vert"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht für den besten Blick auf den Leuchtturm; halten Sie den Aufenthalt kurz, um nicht auszukühlen.",
+                "hu": "Élvezd a tiszta téli fényeket, amelyek a legjobb rálátást biztosítják a toronyra; ne maradj sokáig egy helyben, hogy ne fázz meg.",
+                "ro": "Bucurați-vă de lumina clară de iarnă pentru cea mai bună vedere a farului; limitați timpul petrecut afară pentru a nu vă răci.",
+                "en": "Enjoy the clear winter light for the best view of the lighthouse; keep your stay brief to avoid getting too chilled by the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Résistance",
+                "hu": "Musée de la Résistance",
+                "ro": "Musée de la Résistance",
+                "en": "Musée de la Résistance"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort, um sich mittags aufzuwärmen; die dicken Mauern schützen gut vor der winterlichen Feuchtigkeit von See.",
+                "hu": "Ez a múzeum ideális hely a déli felmelegedéshez; a vastag falak jól védenek a tenger felől érkező téli nyirkos levegő ellen.",
+                "ro": "Acest muzeu este locul ideal pentru a vă încălzi la prânz; zidurile groase protejează bine de umiditatea iernatică de pe mare.",
+                "en": "This museum is the ideal place to warm up at noon; the thick walls provide good protection against the damp winter sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre Afifi",
+                "hu": "Théatre Afifi",
+                "ro": "Théatre Afifi",
+                "en": "Théatre Afifi"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Theater im goldenen Licht der frühen Nachmittagssonne; die Farben wirken im Winter oft viel sanfter und klarer.",
+                "hu": "Csodáld meg a színházat a kora délutáni nap aranyfényében; a színek télen gyakran sokkal lágyabbnak és tisztábbnak tűnnek.",
+                "ro": "Admirați teatrul în lumina aurie a soarelui de după-amiază devreme; culorile par adesea mult mai blânde și mai clare iarna.",
+                "en": "Admire the theater in the golden light of the early afternoon sun; colors often appear much softer and clearer during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais du Gouverneur",
+                "hu": "Palais du Gouverneur",
+                "ro": "Palais du Gouverneur",
+                "en": "Palais du Gouverneur"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast rechtzeitig vor dem Sonnenuntergang um 17 Uhr; die historische Pracht wirkt in der Dämmerung besonders edel.",
+                "hu": "Látogasd meg a palotát időben, még a 17 órai naplemente előtt; a történelmi pompa az alkonyatban különösen nemes látványt nyújt.",
+                "ro": "Vizitați palatul din timp, înainte de apusul de la ora 17:00; splendoarea istorică pare deosebit de nobilă în lumina amurgului.",
+                "en": "Visit the palace in good time before the 5 PM sunset; the historical grandeur looks especially noble in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A nap aktívan indul a Dar Edaw Lakdimnál, majd a misztikus portugál ciszterna következik. Délben az Angyalok bástyájához teker, majd a Plage Deauville homokos partján pihen. A délutánt a Palais du Gouverneur történelmi építészete határozza meg, lenyűgöző részletekkel. Kora este megérkezik a festői Phare Sidi Bouafi világítótoronyhoz, amely tökéletes egy felejthetetlen naplementéhez.",
         "ro": "Ziua începe activ la Dar Edaw Lakdim, urmat de mistica Cisternă Portugheză din centrul vechi. La prânz pedalați spre Bastion of Angels și vă relaxați pe nisipul de la Plage Deauville. După-amiaza este dedicată arhitecturii istorice a Palais du Gouverneur. Spre seară, ajungeți la pitorescul Phare Sidi Bouafi, un loc perfect pentru a admira un apus de soare de neuitat pe coastă.",
         "en": "Your day starts actively at Dar Edaw Lakdim, followed by the mystical Portuguese Cistern in the old town. At midday, cycle to the Bastion of Angels and relax on the expansive sands of Plage Deauville. The afternoon focuses on the historic architecture of the Palais du Gouverneur. In the early evening, you reach the picturesque Phare Sidi Bouafi, perfect for a memorable sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir El Jadida auf zwei Rädern. Morgens radeln wir vorsichtig durch die Medina zur Zisterne. Mittags folgen wir der Küstenstraße, wobei wir auf rutschige Abschnitte achten. Der Nachmittag führt uns zu historischen Palästen, während kurze Stopps unter Vordächern Schutz bieten. Am Abend glänzt der Leuchtturm im Regen, ein kraftvoller Abschluss der Tour.",
+            "hu": "Az eső ellenére két keréken fedezzük fel El Jadidát. Reggel óvatosan tekerünk át a medinán a ciszternához. Délben a tengerparti utat követjük, figyelve a csúszós szakaszokra. A délután történelmi palotákhoz vezet, miközben az ereszek alatt tartunk pihenőket. Este a világítótorony fénye csillog az esőben, ami méltó zárása a napnak.",
+            "ro": "În ciuda ploii, explorăm El Jadida pe două roți. Dimineața pedalăm cu atenție prin medina spre cisternă. La prânz urmăm drumul de coastă, fiind atenți la porțiunile alunecoase. După-amiaza ne duce la palate istorice, cu scurte opriri sub streșini pentru protecție. Seara, farul strălucește prin ploaie, un final memorabil pentru tur.",
+            "en": "Despite the rain, we explore El Jadida on two wheels. In the morning, we cycle carefully through the medina to the cistern. At noon, we follow the coastal road, watching out for slippery sections. The afternoon leads us to historical palaces, taking short breaks under awnings. In the evening, the lighthouse glows through the rain, a powerful end to the tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dar Edaw Lakdim",
+                "hu": "Dar Edaw Lakdim",
+                "ro": "Dar Edaw Lakdim",
+                "en": "Dar Edaw Lakdim"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und erkunden Sie die Mauern; die alten Steine können bei Nässe extrem glatt sein.",
+                "hu": "Parkold a biciklit fedett helyre, és gyalog fedezd fel a falakat; a régi kövek esőben rendkívül csúszósak lehetnek.",
+                "ro": "Parcați bicicleta într-un loc protejat și explorați zidurile; pietrele vechi pot fi extrem de alunecoase când sunt ude.",
+                "en": "Park your bike in a sheltered spot and explore the walls on foot; the old stones can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterne Portuguese",
+                "hu": "Cisterne Portuguese",
+                "ro": "Cisterne Portuguese",
+                "en": "Cisterne Portuguese"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen; nutzen Sie die Zeit, um Ihre Ausrüstung für die Weiterfahrt zu prüfen.",
+                "hu": "Ideális hely egy hosszabb száraz pihenőhöz; használd ki az időt a felszerelésed ellenőrzésére a további tekerés előtt.",
+                "ro": "Un loc ideal pentru o pauză lungă la uscat; folosiți timpul pentru a vă verifica echipamentul înainte de a continua drumul.",
+                "en": "An ideal spot for a longer dry break; use the time to check your gear before continuing your ride in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion of Angels",
+                "hu": "Bastion of Angels",
+                "ro": "Bastion of Angels",
+                "en": "Bastion of Angels"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstellen der Räder bei starkem Wind; die Gischt kann das Metall angreifen, wischen Sie das Rad später gut ab.",
+                "hu": "Vigyázz a biciklik leállításakor az erős szélben; a sós permet kikezdheti a fémrészeket, később töröld át alaposan a vázat.",
+                "ro": "Atenție la parcarea bicicletelor în vânt puternic; vaporii sărați pot afecta metalul, ștergeți bine bicicleta mai târziu.",
+                "en": "Be careful when parking bikes in strong winds; sea spray can affect the metal, so wipe down the frame thoroughly later."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Deauville",
+                "hu": "Plage Deauville",
+                "ro": "Plage Deauville",
+                "en": "Plage Deauville"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Strand kann Sandverwehungen aufweisen, die bei Regen matschig werden; fahren Sie hier besonders vorausschauend.",
+                "hu": "A strand melletti kerékpárút homokos lehet, ami az esőben sárossá válik; tekerj itt különös óvatossággal és figyelemmel.",
+                "ro": "Pista de biciclete de lângă plajă poate avea nisip care devine noroios la ploaie; pedalați aici cu prudență sporită.",
+                "en": "The bike path by the beach may have sand drifts that turn muddy in the rain; cycle here with extra caution and foresight."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais du Gouverneur",
+                "hu": "Palais du Gouverneur",
+                "ro": "Palais du Gouverneur",
+                "en": "Palais du Gouverneur"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Torbögen des Palastes; die Architektur bietet gute Möglichkeiten, einen heftigen Guss abzuwarten.",
+                "hu": "Keress menedéket a palota kapualjai alatt; az építészet jó lehetőséget kínál egy-egy hevesebb zápor biztonságos kivárására.",
+                "ro": "Căutați adăpost sub arcadele palatului; arhitectura oferă locuri bune pentru a aștepta trecerea unei averse mai puternice.",
+                "en": "Seek shelter under the palace archways; the architecture provides good opportunities to wait out a heavy downpour safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare Sidi Bouafi",
+                "hu": "Phare Sidi Bouafi",
+                "ro": "Phare Sidi Bouafi",
+                "en": "Phare Sidi Bouafi"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm markiert das Ende der Tour; achten Sie auf der Rückfahrt auf schlechte Sichtverhältnisse und funktionierendes Licht.",
+                "hu": "A világítótorony jelzi a túra végét; a visszaúton ügyelj a rossz látási viszonyokra és ellenőrizd a lámpáid működését.",
+                "ro": "Farul marchează finalul turului; la întoarcere, aveți grijă la vizibilitatea redusă și asigurați-vă că luminile funcționează.",
+                "en": "The lighthouse marks the end of the tour; on the ride back, watch out for poor visibility and ensure your lights are working."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintertag lädt zur Radtour entlang der Küste ein. Morgens genießen wir die klare Luft auf dem Weg zur Medina. Mittags radeln wir am Strand entlang, wobei die Wintersonne das Meer glitzern lässt. Am Nachmittag besuchen wir den Gouverneurspalast und erreichen den Leuchtturm pünktlich zum Sonnenuntergang um 17 Uhr. Der Abend klingt bei einer ruhigen Fahrt durch die kühle Stadt aus.",
+            "hu": "A friss téli nap hívogató egy tengerparti kerékpártúrához. Reggel élvezzük a tiszta levegőt a medina felé menet. Délben a strand mellett tekerünk, ahol a téli napfény megcsillan a vízen. Délután meglátogatjuk a palotát, és pontosan a 17 órai naplementére érünk a világítótoronyhoz. Az este a hűvös városban való nyugodt gurulással zárul.",
+            "ro": "O zi proaspătă de iarnă invită la o tură cu bicicleta pe coastă. Dimineața ne bucurăm de aerul curat în drum spre medina. La prânz pedalăm pe lângă plajă, unde soarele de iarnă face marea să sclipească. După-amiaza vizităm palatul și ajungem la far exact pentru apusul de la ora 17:00. Seara se încheie cu o plimbare liniștită prin orașul răcoros.",
+            "en": "A fresh winter day invites a bike ride along the coast. In the morning, we enjoy the crisp air on the way to the medina. At noon, we cycle by the beach, where the winter sun makes the sea sparkle. In the afternoon, we visit the palace and reach the lighthouse just in time for the 5 PM sunset. The evening concludes with a peaceful ride through the cool city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dar Edaw Lakdim",
+                "hu": "Dar Edaw Lakdim",
+                "ro": "Dar Edaw Lakdim",
+                "en": "Dar Edaw Lakdim"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenbrise ist hier oben spürbar; tragen Sie Handschuhe beim Radfahren, um die Finger für Fotos beweglich zu halten.",
+                "hu": "A hűvös reggeli szellő itt fent jól érezhető; viselj kesztyűt tekerés közben, hogy az ujjaid mozgékonyak maradjanak a fotózáshoz.",
+                "ro": "Briza răcoroasă a dimineții se simte aici; purtați mănuși când pedalați pentru a vă menține degetele mobile pentru fotografii.",
+                "en": "The cool morning breeze is noticeable up here; wear gloves while cycling to keep your fingers nimble for taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterne Portuguese",
+                "hu": "Cisterne Portuguese",
+                "ro": "Cisterne Portuguese",
+                "en": "Cisterne Portuguese"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Ort für eine Pause; das sanfte Winterlicht, das von oben einfällt, ist ideal für Aufnahmen.",
+                "hu": "Használd ki a szélvédett helyet egy pihenőre; a felülről beáramló lágy téli fény tökéletes a különleges felvételek készítéséhez.",
+                "ro": "Folosiți acest loc ferit de vânt pentru o pauză; lumina blândă de iarnă care intră de sus este ideală pentru fotografii.",
+                "en": "Take advantage of this wind-sheltered spot for a break; the soft winter light streaming from above is ideal for unique shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion of Angels",
+                "hu": "Bastion of Angels",
+                "ro": "Bastion of Angels",
+                "en": "Bastion of Angels"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den Atlantik ist im Winter besonders klar; ziehen Sie sich warm an, da der Fahrtwind die Kälte verstärkt.",
+                "hu": "Az Atlanti-óceánra nyíló kilátás télen különösen tiszta; öltözz melegen, mert a menetszél még hidegebbnek érződik a parton.",
+                "ro": "Vederea spre Atlantic este foarte clară iarna; îmbrăcați-vă bine, deoarece vântul din timpul mersului intensifică senzația de frig.",
+                "en": "The view of the Atlantic is especially clear in winter; dress warmly as the wind while cycling intensifies the cold on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Deauville",
+                "hu": "Plage Deauville",
+                "ro": "Plage Deauville",
+                "en": "Plage Deauville"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich leer für eine schnelle Fahrt; achten Sie auf feuchte Stellen im Schatten der Promenade.",
+                "hu": "A strand télen csodásan üres egy gyorsabb tekeréshez; ügyelj a sétány árnyékában megmaradó nyirkos, csúszós szakaszokra.",
+                "ro": "Plaja este minunat de goală iarna pentru o tură rapidă; atenție la porțiunile umede rămase la umbra promenadei.",
+                "en": "The beach is wonderfully empty in winter for a brisk ride; watch out for damp, slippery spots in the shadows of the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais du Gouverneur",
+                "hu": "Palais du Gouverneur",
+                "ro": "Palais du Gouverneur",
+                "en": "Palais du Gouverneur"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im warmen Licht der tiefstehenden Sonne; die Schattenwürfe sind im Winter besonders fotogen.",
+                "hu": "Csodáld meg az építészetet az alacsonyan járó nap meleg fényében; a hosszú árnyékok télen különösen fotogénné teszik a helyet.",
+                "ro": "Admirați arhitectura în lumina caldă a soarelui care apune; umbrele lungi de iarnă sunt extrem de fotogenice aici.",
+                "en": "Admire the architecture in the warm light of the low sun; the long winter shadows make the place especially photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare Sidi Bouafi",
+                "hu": "Phare Sidi Bouafi",
+                "ro": "Phare Sidi Bouafi",
+                "en": "Phare Sidi Bouafi"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang um 17 Uhr vor Ort sein; danach kühlt es schnell ab, planen Sie eine zügige Rückfahrt ein.",
+                "hu": "Érkezz pontosan a 17 órai naplementére; ezután a levegő gyorsan lehűl, így tervezz egy tempósabb hazautat a sötétben.",
+                "ro": "Fiți aici exact pentru apusul de la ora 17:00; după aceea se răcește rapid, așa că planificați o întoarcere promptă.",
+                "en": "Be here exactly for the 5 PM sunset; the temperature drops quickly afterwards, so plan for a brisk ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kényelmesen indul a Jawadnál, majd a festői Tayana felé veszi az irányt a városi hangulatért. Dél körül megtekinti a híres portugál ciszternát és a jellegzetes zöld világítótornyot a parton. A délután mély történelmi betekintést nyújt az Ellenállás Múzeumában, mielőtt a Plage Deauville-en sétálna egyet. A napot egy nyugodt este zárja a homokos Plage Mcdonald's partszakaszon.",
         "ro": "Începeți confortabil la Jawad și conduceți spre pitorescul Tayana pentru a simți pulsul orașului. La prânz, vizitați faimoasa Cisternă Portugheză și farul verde distinctiv de pe coastă. După-amiaza vă oferă perspective istorice la Muzeul Rezistenței, înainte de a lua o gură de aer proaspăt la Plage Deauville. O seară relaxantă vă așteaptă pe plaja mai retrasă Plage Mcdonald's.",
         "en": "Start comfortably at Jawad before driving to the scenic Tayana area to soak up the morning atmosphere. Around midday, visit the famous Portuguese Cistern and the distinctive green lighthouse. The afternoon offers deep historical insights at the Resistance Museum before getting some fresh air at Plage Deauville. Conclude your driving tour with a relaxing evening walk at Plage Mcdonald's."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für einen regnerischen Tag in El Jadida. Morgens fahren wir bequem zu den Aussichtspunkten der Medina. Mittags erkunden wir die Küste, wobei wir die Brandung sicher aus dem warmen Fahrzeug beobachten. Der Nachmittag gehört den Museen und Palästen, während das Auto uns trocken von Tür zu Tür bringt. Der Abend endet mit einer Panoramafahrt entlang der beleuchteten, regennassen Strände.",
+            "hu": "Az autó a legjobb választás egy esős napon El Jadidában. Reggel kényelmesen gurulunk a medina kilátópontjaihoz. Délben a partvidéket fedezzük fel, a hullámverést a meleg jármű biztonságából figyelve. A délután a múzeumé és a palotáké, miközben az autó szárazon juttat el egyik kaputól a másikig. Az este egy panorámaautózással zárul a kivilágított, eső áztatta part mentén.",
+            "ro": "Mașina este cea mai bună alegere pentru o zi ploioasă în El Jadida. Dimineața mergem confortabil spre punctele de belvedere ale medinei. La prânz explorăm coasta, admirând valurile din siguranța vehiculului cald. După-amiaza este dedicată muzeelor și palatelor, mașina ducându-ne uscați de la o poartă la alta. Seara se încheie cu o plimbare panoramică pe coasta luminată.",
+            "en": "The car is the best choice for a rainy day in El Jadida. In the morning, we drive comfortably to the medina's viewpoints. At noon, we explore the coast, watching the surf from the safety of our warm vehicle. The afternoon is dedicated to museums and palaces, with the car taking us dry from door to door. The evening ends with a panoramic drive along the illuminated, rain-soaked coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jawad",
+                "hu": "Jawad",
+                "ro": "Jawad",
+                "en": "Jawad"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den kurzen Fußweg im Regen zu minimieren; genießen Sie den Blick auf die nassen Stadtmauern.",
+                "hu": "Parkolj közel a bejárathoz, hogy minimalizáld az esőben való gyaloglást; élvezd a kilátást a vizes, sötétebb tónusú városfalakra.",
+                "ro": "Parcați aproape de intrare pentru a minimiza mersul prin ploaie; bucurați-vă de vederea zidurilor ude ale orașului din mașină.",
+                "en": "Park close to the entrance to minimize walking in the rain; enjoy the view of the wet, darker-toned city walls from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tayana",
+                "hu": "Tayana",
+                "ro": "Tayana",
+                "en": "Tayana"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Zusammenspiel von Regen und Meer direkt aus dem Auto; die Parkplätze bieten oft eine gute Sicht auf die Küste.",
+                "hu": "Figyeld meg az eső és a tenger játékát közvetlenül az autóból; a parkolóhelyek gyakran jó rálátást biztosítanak a partvidékre.",
+                "ro": "Observați jocul ploii cu marea direct din mașină; locurile de parcare oferă adesea o vedere bună asupra întregii coaste.",
+                "en": "Observe the interplay of rain and sea directly from the car; the parking spots often provide a good view of the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterne Portuguese",
+                "hu": "Cisterne Portuguese",
+                "ro": "Cisterne Portuguese",
+                "en": "Cisterne Portuguese"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um schwere Regenkleidung zwischenzulagern; der kurze Weg zur Zisterne ist auch bei Guss machbar.",
+                "hu": "Használd az autót bázisként a vizes esőkabátok tárolására; a ciszternáig tartó rövid út még komolyabb záporban is teljesíthető.",
+                "ro": "Folosiți mașina ca bază pentru a lăsa hainele de ploaie grele; drumul scurt până la cisternă este fezabil chiar și pe aversă.",
+                "en": "Use the car as a base to store wet rain gear; the short walk to the cistern is manageable even during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare Vert",
+                "hu": "Phare Vert",
+                "ro": "Phare Vert",
+                "en": "Phare Vert"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt bietet einen tollen Blick auf den Leuchtturm im Nebel; bleiben Sie bei starkem Regen im Wagen und machen Sie Fotos durch das Fenster.",
+                "hu": "Az odavezető út remek rálátást nyújt a ködös világítótoronyra; heves esőben maradj az autóban, és fotózz az ablakon keresztül.",
+                "ro": "Drumul oferă o vedere excelentă spre farul în ceață; pe ploaie torențială, rămâneți în mașină și faceți poze prin geam.",
+                "en": "The approach road offers a great view of the misty lighthouse; during heavy rain, stay in the car and take photos through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Résistance",
+                "hu": "Musée de la Résistance",
+                "ro": "Musée de la Résistance",
+                "en": "Musée de la Résistance"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nähe vorhanden; das Museum ist der perfekte Ort, um einen besonders heftigen Regenschauer im Trockenen auszusitzen.",
+                "hu": "Parkolóhelyek a közelben találhatók; a múzeum tökéletes hely arra, hogy egy különösen heves záport szárazon vészeljünk át.",
+                "ro": "Există locuri de parcare în apropiere; muzeul este locul perfect pentru a aștepta trecerea unei ploi torențiale la adăpost.",
+                "en": "Parking spaces are available nearby; the museum is the perfect place to wait out a particularly heavy downpour in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Deauville",
+                "hu": "Plage Deauville",
+                "ro": "Plage Deauville",
+                "en": "Plage Deauville"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Promenade entlang und genießen Sie die dramatische Meeresstimmung; das Auto schützt Sie vor dem sandigen Wind.",
+                "hu": "Autózz végig a sétányon, és élvezd a drámai tengeri hangulatot; a jármű megvéd a szél által felhordott homoktól és esőtől.",
+                "ro": "Conduceți de-a lungul promenadei și savurați atmosfera dramatică a mării; mașina vă protejează de nisipul purtat de vânt.",
+                "en": "Drive along the promenade and enjoy the dramatic sea mood; the car protects you from the wind-blown sand and the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Mcdonald's",
+                "hu": "Plage Mcdonald's",
+                "ro": "Plage Mcdonald's",
+                "en": "Plage Mcdonald's"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den stürmischen Ozean aus dem warmen Wagen; achten Sie auf Pfützen auf den Parkflächen.",
+                "hu": "Zárd a napot a viharos óceán látványával a meleg autóból; ügyelj a parkolóhelyeken kialakuló mélyebb pocsolyákra.",
+                "ro": "Încheiați ziua admirând oceanul furtunos din mașina caldă; atenție la bălțile adânci care se pot forma în zonele de parcare.",
+                "en": "End the day watching the stormy ocean from your warm car; watch out for deep puddles forming in the parking areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto bietet maximalen Komfort, um El Jadida zu erkunden. Morgens fahren wir durch die klare Luft zur Medina. Mittags erkunden wir die weiten Strände, wobei die Klimaanlage für angenehme Wärme sorgt. Am Nachmittag besuchen wir Museen und erreichen die Küste rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr. Den Abend verbringen wir bei einer entspannten Fahrt durch das beleuchtete Zentrum.",
+            "hu": "Egy téli nap az autóban maximális kényelmet nyújt El Jadida felfedezéséhez. Reggel a tiszta levegőn autózunk a medina felé. Délben a tágas strandokat fedezzük fel, miközben a fűtés kellemes meleget biztosít. Délután múzeumokat látogatunk, és még a korai, 17:00-s naplemente előtt elérjük a partot. Az estét egy pihentető autózással zárjuk a kivilágított központban.",
+            "ro": "O zi de iarnă în mașină oferă confort maxim pentru a explora El Jadida. Dimineața conducem prin aerul curat spre medina. La prânz explorăm plajele întinse, în timp ce căldura din mașină ne oferă confort. După-amiaza vizităm muzee și ajungem pe coastă înainte de apusul de la ora 17:00. Seara se încheie cu o plimbare relaxantă prin centrul luminat.",
+            "en": "A winter day in the car offers maximum comfort for exploring El Jadida. In the morning, we drive through the crisp air toward the medina. At noon, we explore the vast beaches while the heater keeps us cozy. In the afternoon, we visit museums and reach the coast before the early 5:00 PM sunset. The evening ends with a relaxed drive through the illuminated center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jawad",
+                "hu": "Jawad",
+                "ro": "Jawad",
+                "en": "Jawad"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Stadtmauern; im Auto bleiben Sie zwischen den Fotostopps angenehm warm.",
+                "hu": "Használd ki a tiszta téli fényt a városfalak fotózásához; az autóban két fotómegálló között kellemesen felmelegedhetsz.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu zidurile; în mașină veți rămâne la căldură între opririle pentru poze.",
+                "en": "Take advantage of the clear winter light for photos of the walls; stay warm in the car between your various photo stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Tayana",
+                "hu": "Tayana",
+                "ro": "Tayana",
+                "en": "Tayana"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter sehr kühl; genießen Sie die Aussicht durch die Windschutzscheibe bei einer kurzen Kaffeepause im Wagen.",
+                "hu": "A tengeri szellő télen nagyon hűvös; élvezd a kilátást a szélvédőn keresztül, miközben egy rövid kávészünetet tartasz az autóban.",
+                "ro": "Briza mării este foarte rece iarna; savurați vederea prin parbriz în timp ce faceți o scurtă pauză de cafea în mașină.",
+                "en": "The sea breeze is very cool in winter; enjoy the view through the windshield during a short coffee break inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterne Portuguese",
+                "hu": "Cisterne Portuguese",
+                "ro": "Cisterne Portuguese",
+                "en": "Cisterne Portuguese"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie strategisch, um die kühle Winterluft nur kurz spüren zu müssen; die Zisterne bietet drinnen konstante Temperaturen.",
+                "hu": "Parkolj stratégiailag jó helyen, hogy csak rövid ideig kelljen a téli hidegben lenned; a ciszterna odabent állandó hőmérsékletet nyújt.",
+                "ro": "Parcați strategic pentru a simți aerul rece de iarnă doar pentru scurt timp; cisterna oferă temperaturi constante în interior.",
+                "en": "Park strategically to minimize your time in the cold winter air; the cistern provides constant temperatures once you are inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare Vert",
+                "hu": "Phare Vert",
+                "ro": "Phare Vert",
+                "en": "Phare Vert"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt den grünen Turm besonders klar erscheinen; ideal für Landschaftsaufnahmen direkt vom Parkplatz aus.",
+                "hu": "A téli fényben a zöld torony különösen élesen látszik; ideális tájképek készítéséhez közvetlenül a parkolóból.",
+                "ro": "Lumina de iarnă face ca turnul verde să pară foarte clar; ideal pentru fotografii de peisaj direct din zona de parcare.",
+                "en": "The winter light makes the green tower appear very sharp; ideal for landscape shots directly from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Résistance",
+                "hu": "Musée de la Résistance",
+                "ro": "Musée de la Résistance",
+                "en": "Musée de la Résistance"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp am Nachmittag, um der Kälte draußen zu entfliehen; das Museum ist im Winter angenehm temperiert und leerer.",
+                "hu": "Tökéletes délutáni megálló, hogy elmenekülj a kinti hideg elől; a múzeum télen kellemes hőmérsékletű és kevésbé zsúfolt.",
+                "ro": "O oprire perfectă după-amiaza pentru a scăpa de frigul de afară; muzeul are o temperatură plăcută iarna și este mai liber.",
+                "en": "A perfect afternoon stop to escape the cold outside; the museum is pleasantly tempered in winter and less crowded."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Deauville",
+                "hu": "Plage Deauville",
+                "ro": "Plage Deauville",
+                "en": "Plage Deauville"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet im Winter freie Sicht ohne viel Verkehr; halten Sie kurz an, um den Sonnenuntergang über dem Meer zu sehen.",
+                "hu": "A tengerparti út télen tiszta kilátást nyújt nagy forgalom nélkül; állj meg egy pillanatra, hogy lásd a naplementét az óceán felett.",
+                "ro": "Drumul de coastă oferă o vedere clară iarna, fără trafic intens; opriți un moment pentru a vedea apusul peste mare.",
+                "en": "The coastal road offers clear views in winter without much traffic; stop for a moment to watch the sunset over the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Mcdonald's",
+                "hu": "Plage Mcdonald's",
+                "ro": "Plage Mcdonald's",
+                "en": "Plage Mcdonald's"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang um 17 Uhr erreichen; genießen Sie das Farbspektakel am Himmel gemütlich aus dem beheizten Auto.",
+                "hu": "Érkezz pontosan a 17 órai naplementére; élvezd az égbolt színjátékát kényelmesen a jól felfűtött autóból.",
+                "ro": "Ajungeți exact pentru apusul de la ora 17:00; savurați spectacolul de culori al cerului confortabil din mașina încălzită.",
+                "en": "Arrive exactly for the 5 PM sunset; enjoy the sky's color spectacle comfortably from within your well-heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

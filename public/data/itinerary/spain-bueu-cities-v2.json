@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi Beluso templomnál indul, majd a Praia de Tulla homokos partjára vezet. A délidő laza strandolásra csábít a békés partszakaszon. Délután fedezze fel a Mourisca romok ókori római történelmét. Ahogy közeledik az este, csodálja meg a békés naplementét a Praia da Bucieira érintetlen homokján.",
         "ro": "Dimineața începe la biserica istorică Beluso, înainte de a coborî spre țărmurile Praia de Tulla. Prânzul invită la plimbări relaxante pe plajele pașnice. După-amiaza, descoperiți istoria antică romană la ruinele Mourisca. Seara, priviți cum soarele apune liniștit peste nisipurile imaculate ale Praia da Bucieira.",
         "en": "Morning starts at the historic Beluso church before wandering down to the sandy shores of Praia de Tulla. Midday invites relaxed beach-hopping along the peaceful coast. In the afternoon, uncover ancient Roman history at the Mourisca ruins. As evening approaches, watch the sun set quietly over the pristine sands of Praia da Bucieira."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der historischen Kirche von Beluso. Mittags trotzen wir dem Regen an den wilden Stränden, wo die Brandung besonders beeindruckend ist. Am Nachmittag bieten die römischen Ausgrabungen einen kulturellen Rückzugsort. Der Abend klingt ruhig aus, während der Regen sanft auf die Bucht von Bueu peitscht.",
+            "hu": "A reggel védett helyen, a belusói templom falai között indul. Délben az esőben is lenyűgöző, vadregényes partokon sétálunk, ahol az óceán morajlása felerősödik. Délután a római villa romjai kínálnak kulturális kitérőt. Az este csendesen zárul, miközben az eső kopog a tengerparti sziklákon.",
+            "ro": "Dimineața începe la adăpostul bisericii istorice din Beluso. La prânz înfruntăm ploaia pe plajele sălbatice, unde valurile sunt deosebit de impresionante. După-amiaza, situl roman oferă un refugiu cultural fascinant. Seara se încheie liniștit, în timp ce ploaia cade ușor peste golful Bueu.",
+            "en": "The morning starts sheltered within the historic church of Beluso. At noon, we brave the rain along the wild beaches where the surf is particularly impressive. In the afternoon, the Roman ruins provide a cultural retreat. The evening winds down quietly as the rain patters softly over the Bay of Bueu."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Beluso",
+                "hu": "Igrexa de Santa María de Beluso",
+                "ro": "Igrexa de Santa María de Beluso",
+                "en": "Igrexa de Santa María de Beluso"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenschiff als trockenen Rückzugsort und bewundern Sie die romanischen Details, während draußen der Regen fällt.",
+                "hu": "Használja a templomhajót száraz menedékként, és csodálja meg a román stílusú részleteket, miközben odakint esik az eső.",
+                "ro": "Folosiți naosul bisericii ca refugiu uscat și admirați detaliile romanice în timp ce afară plouă torențial.",
+                "en": "Use the church nave as a dry sanctuary and admire the Romanesque details while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Tulla",
+                "hu": "Praia de Tulla",
+                "ro": "Praia de Tulla",
+                "en": "Praia de Tulla"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Wanderschuhe, da der Zugang zum Strand bei Nässe rutschig sein kann; die Wellen sind heute besonders fotogen.",
+                "hu": "Viseljen vízálló bakancsot, mert a partra vezető út esőben csúszós lehet; a hullámok ilyenkor különösen látványosak a fotókon.",
+                "ro": "Purtați încălțăminte impermeabilă, deoarece accesul la plajă poate fi alunecos pe ploaie; valurile sunt foarte fotogenice astăzi.",
+                "en": "Wear waterproof boots as the beach access can be slippery in the wet; the waves are particularly photogenic today."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cornide",
+                "hu": "Praia de Cornide",
+                "ro": "Praia de Cornide",
+                "en": "Praia de Cornide"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Küstenfelsen Schutz und beobachten Sie das dramatische Spiel der Wolken über dem grauen Atlantik.",
+                "hu": "Keressen menedéket a parti sziklák alatt, és figyelje a felhők drámai játékát a szürke Atlanti-óceán felett.",
+                "ro": "Căutați adăpost sub stâncile de la malul mării și observați jocul dramatic al norilor deasupra Atlanticului cenușiu.",
+                "en": "Seek shelter under the coastal rocks and watch the dramatic play of clouds over the grey Atlantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Mourisca",
+                "hu": "Praia da Mourisca",
+                "ro": "Praia da Mourisca",
+                "en": "Praia da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang im Regenmantel lohnt sich hier; der nasse Sand ist fest und ideal für eine schnelle Erkundung der Bucht.",
+                "hu": "Egy rövid séta esőkabátban itt is megéri; a vizes homok kemény és ideális az öböl gyors felfedezéséhez.",
+                "ro": "O scurtă plimbare în pelerină merită aici; nisipul ud este ferm și ideal pentru o explorare rapidă a golfului.",
+                "en": "A short walk in a raincoat is worth it here; the wet sand is firm and ideal for a quick exploration of the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Vila Romana da Mourisca",
+                "hu": "Vila Romana da Mourisca",
+                "ro": "Vila Romana da Mourisca",
+                "en": "Vila Romana da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern wirken im Regen besonders mystisch; achten Sie auf die Infotafeln, um mehr über die Fischsalzerei zu erfahren.",
+                "hu": "Az ősi falak esőben különösen misztikusnak tűnnek; olvassa el az információs táblákat a római kori halsózásról.",
+                "ro": "Zidurile antice par deosebit de mistice în ploaie; citiți panourile informative pentru a afla despre sărarea peștelui.",
+                "en": "The ancient walls look particularly mystical in the rain; check the information boards to learn about Roman fish salting."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Bucieira",
+                "hu": "Praia da Bucieira",
+                "ro": "Praia da Bucieira",
+                "en": "Praia da Bucieira"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Blick auf das neblige Meer; ein großer Regenschirm schützt Sie vor dem stetigen Küstenwind.",
+                "hu": "Zárja a túrát a ködös tenger látványával; egy nagy esernyő megvédi Önt a folyamatos parti széltől.",
+                "ro": "Încheiați turul cu o vedere spre marea cețoasă; o umbrelă mare vă va proteja de vântul constant de coastă.",
+                "en": "End the tour with a view of the misty sea; a large umbrella will protect you from the steady coastal wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Bueu ist frisch und klar. Wir besuchen die Kirche im milden Morgenlicht und wandern dann entlang der einsamen Strände, die jetzt eine besondere Ruhe ausstrahlen. Die römische Geschichte wärmt das Herz, während wir uns beeilen, die Tour vor dem frühen Sonnenuntergang um 17:00 Uhr zu beenden.",
+            "hu": "A téli reggel Bueuban friss és tiszta. A templomot az enyhe reggeli fényben látogatjuk meg, majd a néptelen strandokon sétálunk, amelyek most különleges nyugalmat árasztanak. A római történelem felmelegíti a lelket, miközben igyekszünk befejezni a túrát a korai, 17:00-s naplemente előtt.",
+            "ro": "Dimineața de iarnă în Bueu este proaspătă și senină. Vizităm biserica în lumina blândă a dimineții, apoi ne plimbăm pe plajele pustii care emană acum o liniște deosebită. Istoria romană ne încântă, în timp ce ne grăbim să terminăm turul înainte de apusul devreme de la ora 17:00.",
+            "en": "The winter morning in Bueu is fresh and clear. We visit the church in the mild morning light, then stroll along the deserted beaches which now radiate a special calm. Roman history warms the spirit while we hurry to finish the tour before the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Beluso",
+                "hu": "Igrexa de Santa María de Beluso",
+                "ro": "Igrexa de Santa María de Beluso",
+                "en": "Igrexa de Santa María de Beluso"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da es im Inneren der alten Steinkirche auch im Winter recht kühl sein kann.",
+                "hu": "Öltözzön rétegesen, mert a régi kőtemplom belseje télen is meglehetősen hűvös maradhat.",
+                "ro": "Purtați haine groase, deoarece interiorul vechii biserici de piatră poate fi destul de răcoros chiar și iarna.",
+                "en": "Wear warm layers, as the interior of the old stone church can remain quite chilly even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Tulla",
+                "hu": "Praia de Tulla",
+                "ro": "Praia de Tulla",
+                "en": "Praia de Tulla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Winters; der kalte Wind vom Atlantik erfordert eine gute Windjacke beim Strandspaziergang.",
+                "hu": "Élvezze a téli magányt; az Atlanti-óceán felől fújó hideg szél miatt jó szélkabátra lesz szüksége a parti sétához.",
+                "ro": "Bucurați-vă de singurătatea iernii; vântul rece dinspre Atlantic necesită o jachetă bună împotriva vântului la plimbare.",
+                "en": "Enjoy the winter solitude; the cold wind from the Atlantic requires a good windbreaker for your beach stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cornide",
+                "hu": "Praia de Cornide",
+                "ro": "Praia de Cornide",
+                "en": "Praia de Cornide"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf den Sand; ideal für stimmungsvolle Naturaufnahmen ohne Touristenmassen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a homokra; ideális hangulatos természetfotókhoz tömegek nélkül.",
+                "ro": "Soarele de iarnă proiectează umbre lungi pe nisip; este momentul ideal pentru fotografii de natură fără turiști.",
+                "en": "The low winter sun casts long shadows on the sand; ideal for atmospheric nature photos without the tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Mourisca",
+                "hu": "Praia da Mourisca",
+                "ro": "Praia da Mourisca",
+                "en": "Praia da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Marsch, um warm zu bleiben, und bewundern Sie das kristallklare Wasser, das im Winter besonders blau wirkt.",
+                "hu": "Gyalogoljon tempósan, hogy melegen tartsa magát, és csodálja meg a kristálytiszta vizet, amely télen különösen kéknek tűnik.",
+                "ro": "Mergeți într-un ritm vioi pentru a vă menține căldura și admirați apa cristalină care pare deosebit de albastră iarna.",
+                "en": "Walk at a brisk pace to stay warm and admire the crystal-clear water, which looks particularly blue in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Vila Romana da Mourisca",
+                "hu": "Vila Romana da Mourisca",
+                "ro": "Vila Romana da Mourisca",
+                "en": "Vila Romana da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Die archäologische Stätte ist im Winter frei von Vegetation; so lassen sich die Grundrisse der römischen Villa besser erkennen.",
+                "hu": "A régészeti lelőhely télen mentes a sűrű növényzettől; így a római villa alaprajza sokkal jobban kivehető.",
+                "ro": "Situl arheologic este lipsit de vegetație iarna; astfel, planul vilei romane poate fi observat mult mai bine.",
+                "en": "The archaeological site is free of dense vegetation in winter; this makes the layout of the Roman villa much easier to see."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Bucieira",
+                "hu": "Praia da Bucieira",
+                "ro": "Praia da Bucieira",
+                "en": "Praia da Bucieira"
+              },
+              "tip_5lang": {
+                "de": "Beeilen Sie sich zum Aussichtspunkt, um das letzte Tageslicht einzufangen; ab 17:00 Uhr sinken die Temperaturen spürbar.",
+                "hu": "Sietősen menjen a kilátóponthoz, hogy elkapja az utolsó fényeket; 17:00 után a hőmérséklet érezhetően csökkenni kezd.",
+                "ro": "Grăbiți-vă spre punctul de observație pentru a prinde ultima lumină; după ora 17:00, temperaturile scad vizibil.",
+                "en": "Hurry to the viewpoint to catch the last light; after 17:00, the temperatures start to drop noticeably."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggel a helyi örökséggel kezdődik, majd egy festői tekerés következik a római romokhoz. Délben eldugott öblöket fedezhet fel, mint Ancoradouro. A délután drámai kilátást nyújt az Os Moscallos-nál és a lenyűgöző Cabo Udra rezervátumban. Az aktív nap a Praia dos Barcos halászhajóinak békés látványával zárul.",
         "ro": "Dimineața începe cu patrimoniul local înainte de o plimbare spre ruinele romane. Prânzul explorează golfuri ascunse precum Ancoradouro. După-amiaza aduce vederi dramatice la Os Moscallos și maiestuoasa rezervație Cabo Udra. Ziua activă se încheie pașnic urmărind bărcile tradiționale de pescuit la Praia dos Barcos.",
         "en": "Morning begins with local heritage before a scenic ride to the Roman salting factory ruins. Midday explores tucked-away coves like Ancoradouro. Afternoon brings dramatic views at Os Moscallos and the majestic Cabo Udra nature reserve. The active day concludes peacefully by watching traditional fishing boats bobbing at Praia dos Barcos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour im Regen verlangt volle Konzentration auf den glatten Wegen. Wir starten an der Kirche und radeln zu den römischen Ruinen, während uns der Küstenwind begleitet. Mittags bietet das Kap Cabo Udra ein dramatisches Naturschauspiel. Wir kehren vor dem stärksten Guss zurück und genießen die frische, salzige Luft.",
+            "hu": "Az esős bringatúra teljes koncentrációt igényel a csúszós utakon. A templomtól indulunk a római romok felé, miközben a parti szél kísér minket. Délben a Cabo Udra fok drámai természeti látványt nyújt. A legnagyobb felhőszakadás előtt térünk vissza, élvezve a friss, sós tengeri levegőt.",
+            "ro": "Turul cu bicicleta pe ploaie necesită concentrare maximă pe drumurile alunecoase. Pornim de la biserică spre ruinele romane, acompaniați de vântul de coastă. La prânz, Capul Cabo Udra oferă un spectacol natural dramatic. Ne întoarcem înainte de aversa principală, savurând aerul proaspăt și sărat.",
+            "en": "The bike tour in the rain demands full concentration on the slippery paths. We start at the church and cycle towards the Roman ruins with the coastal wind as our companion. At noon, Cape Cabo Udra offers a dramatic natural spectacle. We return before the heaviest downpour, enjoying the fresh, salty air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Beluso",
+                "hu": "Igrexa de Santa María de Beluso",
+                "ro": "Igrexa de Santa María de Beluso",
+                "en": "Igrexa de Santa María de Beluso"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die nassen Pflastersteine rund um die Kirche können sehr rutschig sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a templom körüli nedves macskakövek nagyon csúszósak lehetnek.",
+                "ro": "Verificați frânele înainte de plecare; pavajul umed din jurul bisericii poate fi foarte alunecos.",
+                "en": "Check your brakes before setting off; the wet cobblestones around the church can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Vila Romana da Mourisca",
+                "hu": "Vila Romana da Mourisca",
+                "ro": "Vila Romana da Mourisca",
+                "en": "Vila Romana da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem stabilen Platz ab und nutzen Sie die Pause, um die römischen Salzanlagen im Regen zu besichtigen.",
+                "hu": "Állítsa le a kerékpárt egy stabil helyen, és használja ki a szünetet a római sózóhelyek megtekintésére az esőben.",
+                "ro": "Parcați bicicleta într-un loc stabil și profitați de pauză pentru a vizita instalațiile romane de sărare în ploaie.",
+                "en": "Park your bike in a stable spot and use the break to visit the Roman salting facilities in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "A Praia Pequena de Ancoradouro",
+                "hu": "A Praia Pequena de Ancoradouro",
+                "ro": "A Praia Pequena de Ancoradouro",
+                "en": "A Praia Pequena de Ancoradouro"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die sandigen Pfade, die bei Regen aufweichen; bleiben Sie auf den befestigten Wegen oberhalb des Strandes.",
+                "hu": "Kerülje a homokos ösvényeket, amelyek az esőtől feláznak; maradjon a strand feletti szilárd burkolatú utakon.",
+                "ro": "Evitați potecile de nisip care se înmoaie de la ploaie; rămâneți pe drumurile pavate de deasupra plajei.",
+                "en": "Avoid sandy paths that soften in the rain; stay on the paved roads above the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Os Moscallos",
+                "hu": "Os Moscallos",
+                "ro": "Os Moscallos",
+                "en": "Os Moscallos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten; eine gute Regenjacke hält den kalten Spritzschutz fern.",
+                "hu": "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek; egy jó esőkabát megvédi Önt a felverődő víztől.",
+                "ro": "Atenție la bălțile care pot ascunde gropi adânci; o jachetă de ploaie bună vă va proteja de stropii de apă.",
+                "en": "Watch out for puddles that might hide deep potholes; a good raincoat will keep the cold spray away."
+              }
+            },
+            {
+              "name": {
+                "de": "ZEC Cabo Udra",
+                "hu": "ZEC Cabo Udra",
+                "ro": "ZEC Cabo Udra",
+                "en": "ZEC Cabo Udra"
+              },
+              "tip_5lang": {
+                "de": "Am Kap weht oft starker Wind; halten Sie den Lenker fest und genießen Sie die Aussicht auf die stürmische See.",
+                "hu": "A foknál gyakran erős szél fúj; fogja erősen a kormányt, és élvezze a viharos tenger látványát.",
+                "ro": "La cap bate adesea un vânt puternic; țineți bine ghidonul și bucurați-vă de vederea mării înfuriate.",
+                "en": "Strong winds often blow at the cape; hold the handlebars firmly and enjoy the view of the stormy sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Barcos",
+                "hu": "Praia dos Barcos",
+                "ro": "Praia dos Barcos",
+                "en": "Praia dos Barcos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt zügig, bevor die Sicht schlechter wird; reinigen Sie Ihr Rad nach der Tour vom salzigen Schlamm.",
+                "hu": "Fejezze be gyorsan a tekerést, mielőtt romlanak a látási viszonyok; a túra után tisztítsa meg a bringát a sós sártól.",
+                "ro": "Încheiați rapid cursa înainte ca vizibilitatea să scadă; curățați bicicleta de noroiul sărat după tur.",
+                "en": "Finish the ride quickly before visibility worsens; clean your bike of salty mud after the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt uns durch die klare Luft Galiciens. Wir starten an der Kirche und genießen die leeren Straßen. Das Kap Cabo Udra ist im Winter ein Ort der Kraft und Stille. Die tiefstehende Sonne begleitet uns, aber wir müssen die Tour rechtzeitig beenden, da es nach 17:00 Uhr auf dem Rad schnell frostig wird.",
+            "hu": "A téli bringatúra Galícia tiszta levegőjén vezet keresztül. A templomtól indulunk, és élvezzük az üres utakat. A Cabo Udra fok télen az erő és a csend helyszíne. Az alacsonyan járó nap elkísér minket, de időben be kell fejeznünk a túrát, mert 17:00 után a bringán gyorsan fagyossá válik az idő.",
+            "ro": "Turul de iarnă cu bicicleta ne poartă prin aerul curat al Galiciei. Pornim de la biserică și ne bucurăm de drumurile pustii. Capul Cabo Udra este iarna un loc al puterii și liniștii. Soarele jos ne însoțește, dar trebuie să terminăm turul la timp, deoarece după ora 17:00 se face rapid foarte frig pe bicicletă.",
+            "en": "The winter bike tour leads us through the clear air of Galicia. We start at the church and enjoy the empty roads. Cape Cabo Udra is a place of power and silence in winter. The low sun accompanies us, but we must finish the tour in time, as it quickly becomes frosty on the bike after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Beluso",
+                "hu": "Igrexa de Santa María de Beluso",
+                "ro": "Igrexa de Santa María de Beluso",
+                "en": "Igrexa de Santa María de Beluso"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der kalte Fahrtwind Ihre Finger auf dem Weg zur Kirche schnell auskühlen lässt.",
+                "hu": "Viseljen meleg kesztyűt, mert a hideg menetszél a templom felé vezető úton gyorsan lehűtheti az ujjait.",
+                "ro": "Purtați mănuși groase, deoarece curentul de aer rece vă va îngheța rapid degetele pe drumul spre biserică.",
+                "en": "Wear warm gloves, as the cold wind will quickly chill your fingers on the way to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Vila Romana da Mourisca",
+                "hu": "Vila Romana da Mourisca",
+                "ro": "Vila Romana da Mourisca",
+                "en": "Vila Romana da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Aufwärmpause; die römischen Mauern bieten einen guten Windschutz für eine Rast.",
+                "hu": "Használja ki a megállót egy rövid bemelegítésre; a római falak jó szélfogót biztosítanak a pihenéshez.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de încălzire; zidurile romane oferă o protecție bună împotriva vântului.",
+                "en": "Use the stop for a quick warm-up break; the Roman walls offer good wind protection for a rest."
+              }
+            },
+            {
+              "name": {
+                "de": "A Praia Pequena de Ancoradouro",
+                "hu": "A Praia Pequena de Ancoradouro",
+                "ro": "A Praia Pequena de Ancoradouro",
+                "en": "A Praia Pequena de Ancoradouro"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das klare Winterlicht über der Bucht; die Kontraste sind jetzt ideal für beeindruckende Landschaftsfotos.",
+                "hu": "Csodálja meg a tiszta téli fényeket az öböl felett; a kontrasztok most ideálisak a lenyűgöző tájképekhez.",
+                "ro": "Admirați lumina clară de iarnă deasupra golfului; contrastele sunt acum ideale pentru fotografii de peisaj reușite.",
+                "en": "Admire the clear winter light over the bay; the contrasts are now ideal for impressive landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Os Moscallos",
+                "hu": "Os Moscallos",
+                "ro": "Os Moscallos",
+                "en": "Os Moscallos"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um die Körperwärme zu halten; die Küstenstraße ist im Winter fast verkehrsfrei und sehr entspannend.",
+                "hu": "Maradjon mozgásban, hogy megőrizze testhőjét; a parti út télen szinte forgalommentes és nagyon pihentető.",
+                "ro": "Rămâneți în mișcare pentru a vă menține căldura corporală; drumul de coastă este aproape liber iarna și foarte relaxant.",
+                "en": "Keep moving to maintain body heat; the coastal road is almost traffic-free in winter and very relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "ZEC Cabo Udra",
+                "hu": "ZEC Cabo Udra",
+                "ro": "ZEC Cabo Udra",
+                "en": "ZEC Cabo Udra"
+              },
+              "tip_5lang": {
+                "de": "Am Kap kann es sehr zugig sein; eine warme Mütze unter dem Helm schützt Sie vor dem kalten Atlantikwind.",
+                "hu": "A foknál nagyon huzatos lehet az idő; a sisak alatti meleg sapka megvédi Önt a hideg atlanti széltől.",
+                "ro": "La cap poate fi foarte mult curent; o căciulă caldă sub cască vă va proteja de vântul rece al Atlanticului.",
+                "en": "It can be very drafty at the cape; a warm cap under your helmet will protect you from the cold Atlantic wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Barcos",
+                "hu": "Praia dos Barcos",
+                "ro": "Praia dos Barcos",
+                "en": "Praia dos Barcos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um nicht in die eisige Dämmerung zu geraten; eine Thermoskanne mit Tee wirkt Wunder.",
+                "hu": "Fejezze be a túrát 17:00 előtt, hogy ne érje az utat a jeges szürkület; egy termosz meleg tea csodákra képes.",
+                "ro": "Terminați turul înainte de ora 17:00 pentru a nu fi surprins de amurgul înghețat; un termos cu ceai cald face minuni.",
+                "en": "Finish the tour before 17:00 to avoid the icy twilight; a thermos of hot tea works wonders."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "A reggel a bájos Beluso templomnál indul, mielőtt a Mourisca ókori római romjaihoz hajtana. A délidő a Cabo Udra rezervátum hatalmas természeti szépségébe kalauzolja. Délután a déli tengerparti szakaszokra, a Praia da Cunchosa felé veszi az irányt. Az autós utazás estéje pihenéssel zárul az A Area de Bon érintetlen homokján.",
         "ro": "Dimineața vizitează fermecătoarea biserică Beluso înainte de a conduce spre ruinele romane de la Mourisca. Prânzul vă duce în frumusețea naturală vastă a rezervației Cabo Udra. După-amiaza face tranziția către întinderile coastei sudice la Praia da Cunchosa. Seara se încheie cu nisipuri imaculate și relaxare la A Area de Bon.",
         "en": "Morning visits the charming Beluso church before a quick drive to the ancient Roman ruins at Mourisca. Midday takes you to the sprawling natural beauty of the Cabo Udra reserve. Afternoon transitions to the expansive southern coastal stretches at Praia da Cunchosa. Your road trip evening ends with pristine sands and relaxation at A Area de Bon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet den besten Schutz vor dem galicischen Regen. Wir besuchen die Kirche und die römische Villa bequem im Trockenen. Das Kap Cabo Udra ist der Höhepunkt, wo wir die gewaltigen Wellen aus dem sicheren Fahrzeug beobachten können. Der Tag endet gemütlich an den Stränden, während die Scheibenwischer den Takt vorgeben.",
+            "hu": "Az autós túra nyújtja a legjobb védelmet a galíciai eső ellen. Kényelmesen és szárazon látogatjuk meg a templomot és a római villát. A Cabo Udra fok a csúcspont, ahol a biztonságos autóból figyelhetjük a hatalmas hullámokat. A nap kellemesen zárul a strandoknál, miközben az ablaktörlők adják az ütemet.",
+            "ro": "Turul cu mașina oferă cea mai bună protecție împotriva ploii galiciene. Vizităm biserica și vila romană confortabil, la adăpost. Capul Cabo Udra este punctul culminant, unde putem observa valurile uriașe din siguranța vehiculului. Ziua se încheie plăcut la plaje, în ritmul ștergătoarelor.",
+            "en": "The car tour offers the best protection against the Galician rain. We visit the church and the Roman villa comfortably and dry. Cape Cabo Udra is the highlight, where we can watch the massive waves from the safety of the vehicle. The day ends pleasantly by the beaches, with the wipers setting the pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Beluso",
+                "hu": "Igrexa de Santa María de Beluso",
+                "ro": "Igrexa de Santa María de Beluso",
+                "en": "Igrexa de Santa María de Beluso"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen kurz zu halten; im Inneren der Kirche finden Sie Ruhe und ein trockenes Ambiente.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást; a templom belsejében nyugalomra és száraz környezetre lel.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; în interiorul bisericii veți găsi liniște și un mediu uscat.",
+                "en": "Park close to the entrance to avoid the rain; inside the church, you'll find peace and a dry atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Vila Romana da Mourisca",
+                "hu": "Vila Romana da Mourisca",
+                "ro": "Vila Romana da Mourisca",
+                "en": "Vila Romana da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt bei den Ruinen; ein Regenschirm ist für den kurzen Weg zu den antiken Mauern ratsam.",
+                "hu": "Használja a romok melletti parkolót; egy esernyő ajánlott a rövid úthoz, amíg eléri az antik falakat.",
+                "ro": "Folosiți parcarea de lângă ruine; o umbrelă este recomandată pentru drumul scurt până la zidurile antice.",
+                "en": "Use the parking lot right by the ruins; an umbrella is advisable for the short walk to the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "ZEC Cabo Udra",
+                "hu": "ZEC Cabo Udra",
+                "ro": "ZEC Cabo Udra",
+                "en": "ZEC Cabo Udra"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie im Auto bleiben und die dramatische Aussicht auf das stürmische Meer durch die Fenster genießen.",
+                "hu": "Heves esőzés esetén maradjon az autóban, és élvezze a viharos tenger drámai látványát az ablakokon keresztül.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și bucurați-vă de vederea dramatică a mării înfuriate prin geamuri.",
+                "en": "In case of heavy rain, stay in the car and enjoy the dramatic view of the stormy sea through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cunchosa",
+                "hu": "Praia da Cunchosa",
+                "ro": "Praia da Cunchosa",
+                "en": "Praia da Cunchosa"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher bei den Zufahrtsstraßen; die Bucht wirkt im Regen besonders abgeschieden und romantisch.",
+                "hu": "Ügyeljen a kátyúkra a bekötőutakon; az öböl esőben különösen elszigeteltnek és romantikusnak tűnik.",
+                "ro": "Atenție la gropile de pe drumurile de acces; golful pare deosebit de izolat și romantic în ploaie.",
+                "en": "Watch out for potholes on the access roads; the cove looks particularly isolated and romantic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "A Area de Bon",
+                "hu": "A Area de Bon",
+                "ro": "A Area de Bon",
+                "en": "A Area de Bon"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den Ozean; die Heizung im Auto sorgt nach den kurzen Strandgängen für Wohlbefinden.",
+                "hu": "Zárja a napot az óceán látványával; az autó fűtése gondoskodik a kényelemről a rövid parti séták után.",
+                "ro": "Încheiați ziua cu o privire spre ocean; încălzirea din mașină vă va oferi confort după scurte plimbări pe plajă.",
+                "en": "End the day with a view of the ocean; the car heater will ensure comfort after short beach walks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour mit dem Auto führt uns zu den verborgenen Schätzen von Bueu. Wir genießen die klare Fernsicht am Kap Cabo Udra und die geschichtsträchtige Ruhe der römischen Villa. Da die Sonne bereits um 17:00 Uhr untergeht, nutzen wir das Tageslicht optimal und beenden die Tour gemütlich im warmen Fahrzeug.",
+            "hu": "A téli autós kirándulás Bueu rejtett kincseihez vezet. Élvezzük a tiszta kilátást a Cabo Udra foknál és a római villa történelmi nyugalmát. Mivel a nap már 17:00-kor lemegy, optimálisan kihasználjuk a nappali fényt, és a túrát kényelmesen, a meleg autóban fejezzük be.",
+            "ro": "Excursia de iarnă cu mașina ne duce la comorile ascunse din Bueu. Ne bucurăm de vizibilitatea clară la Capul Cabo Udra și de liniștea plină de istorie a vilei romane. Deoarece soarele apune deja la ora 17:00, profităm la maximum de lumină și încheiem turul confortabil în vehiculul cald.",
+            "en": "The winter car trip leads us to the hidden treasures of Bueu. We enjoy the clear views at Cape Cabo Udra and the history-steeped calm of the Roman villa. Since the sun sets as early as 17:00, we make the most of the daylight and finish the tour comfortably in the warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Beluso",
+                "hu": "Igrexa de Santa María de Beluso",
+                "ro": "Igrexa de Santa María de Beluso",
+                "en": "Igrexa de Santa María de Beluso"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter eine andächtige Stille; stellen Sie die Klimaanlage im Auto auf eine angenehme Wärme ein.",
+                "hu": "A templom télen áhítatos csendet áraszt; állítsa be az autó légkondicionálóját kellemes melegre.",
+                "ro": "Biserica oferă o liniște pioasă iarna; reglați climatizarea mașinii la o temperatură plăcută.",
+                "en": "The church offers a prayerful silence in winter; set the car's climate control to a comfortable warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Vila Romana da Mourisca",
+                "hu": "Vila Romana da Mourisca",
+                "ro": "Vila Romana da Mourisca",
+                "en": "Vila Romana da Mourisca"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet die römischen Ruinen wunderschön; ein schneller Stopp reicht aus, um die Geschichte zu spüren.",
+                "hu": "Az alacsonyan járó nap gyönyörűen megvilágítja a római romokat; egy gyors megálló is elég, hogy átérezze a történelmet.",
+                "ro": "Soarele jos luminează frumos ruinele romane; o oprire rapidă este suficientă pentru a simți istoria locului.",
+                "en": "The low sun illuminates the Roman ruins beautifully; a quick stop is enough to feel the history."
+              }
+            },
+            {
+              "name": {
+                "de": "ZEC Cabo Udra",
+                "hu": "ZEC Cabo Udra",
+                "ro": "ZEC Cabo Udra",
+                "en": "ZEC Cabo Udra"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz am Kap bietet eine tolle Aussicht, ohne das Auto verlassen zu müssen, falls der Winterwind zu stark weht.",
+                "hu": "A foknál található parkoló nagyszerű kilátást nyújt anélkül, hogy ki kellene szállnia, ha túl erős a téli szél.",
+                "ro": "Parcarea de la cap oferă o vedere excelentă fără a fi nevoie să coborâți, în cazul în care vântul de iarnă este prea puternic.",
+                "en": "The parking lot at the cape offers a great view without having to get out if the winter wind is too strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cunchosa",
+                "hu": "Praia da Cunchosa",
+                "ro": "Praia da Cunchosa",
+                "en": "Praia da Cunchosa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das glitzernde Wasser im Winterlicht; die Zufahrt ist jetzt angenehm frei von Sommerverkehr.",
+                "hu": "Élvezze a csillogó víz látványát a téli fényben; a bekötőút most kellemesen mentes a nyári forgalomtól.",
+                "ro": "Admirați sclipirea apei în lumina iernii; drumul de acces este acum liber de traficul intens de vară.",
+                "en": "Enjoy the view of the sparkling water in the winter light; the access road is now pleasantly free of summer traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "A Area de Bon",
+                "hu": "A Area de Bon",
+                "ro": "A Area de Bon",
+                "en": "A Area de Bon"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie rechtzeitig vor 17:00 Uhr hier, um den Sonnenuntergang über dem Atlantik direkt vom Fahrersitz aus zu bewundern.",
+                "hu": "Legyen itt időben 17:00 előtt, hogy közvetlenül a vezetőülésből csodálhassa meg az atlanti naplementét.",
+                "ro": "Fiți aici înainte de ora 17:00 pentru a admira apusul peste Atlantic direct de pe scaunul șoferului.",
+                "en": "Be here in time before 17:00 to admire the sunset over the Atlantic directly from the driver's seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

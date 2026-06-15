@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot az északi parton El Togareyeenben, ahol a frissítő tengeri szellő azonnal felébreszti érzékeit.\nDél körül sétáljon át az elegáns Doaa El Samaa üdülőhelyen, és csodálja meg a gondozott ösvényeket, mielőtt elérné a szomszédos falut.\nA délután bőséges lehetőséget kínál a kikapcsolódásra El Marwa strandjain.\nA nap zárásaként Salsabeel lágy esti hangulattal várja egy parti sétára.",
         "ro": "Începeți-vă ziua pe coasta de nord la El Togareyeen, unde briza răcoroasă a mării vă va trezi imediat simțurile.\nLa amiază, plimbați-vă prin stațiunea Doaa El Samaa și admirați aleile îngrijite înainte de a ajunge în satul adiacent.\nDupă-amiaza oferă oportunități ample de relaxare pe plajele verzi din El Marwa.\nPentru a încheia, Salsabeel vă întâmpină cu o atmosferă blândă de seară la mal.",
         "en": "Start your day on the North Coast at El Togareyeen, where the refreshing sea breeze will instantly awaken your senses.\nAround midday, stroll through the elegant Doaa El Samaa resort and admire its manicured pathways before reaching the adjacent holiday village.\nThe afternoon offers ample opportunity to relax on the lush beaches of El Marwa.\nTo conclude, Salsabeel welcomes you for a seaside walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit mystischem Nebel über dem See; bleiben Sie auf befestigten Wegen. Mittags bieten die Arkaden des Resorts Schutz vor Regenschauern. Am Nachmittag genießen Sie die frische, gereinigte Luft in den Gärten. Den Abend lassen Sie in den gemütlichen Innenräumen von Salsabeel ausklingen, während Sie trocken den Regen auf der Wasseroberfläche beobachten.",
+            "hu": "A reggel misztikus köddel indul a tó felett; a sár elkerülése érdekében maradjon a kövezett utakon. Délben az üdülőhely fedett sétányai nyújtanak menedéket az átvonuló záporok elől. Délután élvezze a friss levegőt a kertekben. Az estét töltse a Salsabeel belső tereiben, ahonnan szárazon figyelheti a tó vizén táncoló esőcseppeket.",
+            "ro": "Dimineața începe cu o ceață mistică peste lac; rămâneți pe potecile pavate pentru a evita noroiul. La prânz, arcadele complexului oferă adăpost în timpul ploilor trecătoare. După-amiaza, bucurați-vă de aerul proaspăt din grădini. Seara se încheie în interior la Salsabeel, unde puteți privi ploaia pe suprafața apei rămânând uscat și confortabil.",
+            "en": "Morning begins with a mystical mist over the lake; stay on paved paths to avoid the mud. By noon, seek shelter under the resort's covered walkways during passing showers. In the afternoon, enjoy the crisp, rain-cleansed air in the gardens. Evening calls for a retreat to the indoor lounges of Salsabeel to watch the rain on the water while staying warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Togareyeen",
+                "hu": "El Togareyeen",
+                "ro": "El Togareyeen",
+                "en": "El Togareyeen"
+              },
+              "tip_5lang": {
+                "de": "El Togareyeen: Bewundern Sie den Nebel über dem Qarun-See vom Aussichtspunkt; tragen Sie wasserfeste Schuhe, da die Uferpfade bei Nässe sehr rutschig und schlammig werden.",
+                "hu": "El Togareyeen: Csodálja meg a Qarun-tó feletti misztikus ködöt a kilátópontról; viseljen vízálló bakancsot, mert a parti ösvények esőben rendkívül csúszóssá és sárossá válnak.",
+                "ro": "El Togareyeen: Admirați ceața mistică de peste Lacul Qarun de la punctul de observație; purtați ghete impermeabile, deoarece potecile de pe mal devin foarte alunecoase când plouă.",
+                "en": "El Togareyeen: Marvel at the mystical mist over Lake Qarun from the viewpoint; ensure you wear waterproof boots as the lakeside paths become very slippery and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa",
+                "hu": "Doaa El Samaa",
+                "ro": "Doaa El Samaa",
+                "en": "Doaa El Samaa"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa: Nutzen Sie die überdachten Verbindungsgänge zwischen den Gebäuden, um trocken zu bleiben; die graue Kulisse verleiht dem Resort eine ganz besondere Atmosphäre.",
+                "hu": "Doaa El Samaa: Használja az épületek közötti fedett folyosókat, hogy száraz maradjon; a szürke felhők és a tó párája különleges, drámai hangulatot kölcsönöz az üdülőnek.",
+                "ro": "Doaa El Samaa: Folosiți coridoarele acoperite dintre clădiri pentru a rămâne uscați; fundalul gri și vaporii de pe lac oferă complexului o atmosferă dramatică și specială.",
+                "en": "Doaa El Samaa: Use the covered walkways between the buildings to stay dry; the grey skies and lake mist provide a unique, dramatic atmosphere to the resort grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa Feriendorf",
+                "hu": "Doaa El Samaa Üdülőfalu",
+                "ro": "Satul de vacanță Doaa El Samaa",
+                "en": "Doaa El Samaa Village"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa Village: Erkunden Sie die Architektur vom Empfangsbereich aus; ein Regenschirm ist für den kurzen Weg zwischen den Villen trotz der Nähe unbedingt erforderlich.",
+                "hu": "Doaa El Samaa Village: Fedezze fel az építészeti részleteket a recepció védelméből; egy esernyő elengedhetetlen a villák közötti rövid, de nyitott szakaszok megtételéhez.",
+                "ro": "Satul de vacanță Doaa El Samaa: Explorați detaliile arhitecturale din zona recepției; o umbrelă este esențială pentru scurtul drum dintre vile, în ciuda distanței mici.",
+                "en": "Doaa El Samaa Village: Explore the architectural details from the shelter of the reception; an umbrella is essential for the short but open walks between the villas."
+              }
+            },
+            {
+              "name": {
+                "de": "El Marwa",
+                "hu": "El Marwa",
+                "ro": "El Marwa",
+                "en": "El Marwa"
+              },
+              "tip_5lang": {
+                "de": "El Marwa: Genießen Sie die intensiven Farben der nassen Pflanzen in den Gärten; halten Sie sich an die gepflasterten Wege, um tiefen Schlamm auf den Rasenflächen zu vermeiden.",
+                "hu": "El Marwa: Élvezze a nedves növényzet élénk színeit a kertekben; maradjon szigorúan a kövezett járdákon, hogy elkerülje a mély sarat a füves területeken az eső után.",
+                "ro": "El Marwa: Bucurați-vă de culorile vibrante ale vegetației umede din grădini; rămâneți strict pe aleile pavate pentru a evita noroiul adânc de pe iarbă după ploaie.",
+                "en": "El Marwa: Enjoy the vibrant colors of the wet greenery in the gardens; stay strictly on the paved paths to avoid deep mud on the grass areas during or after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Salsabeel",
+                "hu": "Salsabeel",
+                "ro": "Salsabeel",
+                "en": "Salsabeel"
+              },
+              "tip_5lang": {
+                "de": "Salsabeel: Suchen Sie sich einen Platz am Fenster im Innenbereich; die Aussicht auf den regnerischen See bei einem heißen Tee ist der perfekte Abschluss für diesen Tag.",
+                "hu": "Salsabeel: Keressen egy ablak melletti asztalt a belső térben; a viharos tó látványa egy forró tea mellett a legtökéletesebb befejezése ennek a rendhagyó napnak.",
+                "ro": "Salsabeel: Găsiți o masă lângă fereastră în interior; vederea lacului sub ploaie alături de un ceai fierbinte este cel mai bun mod de a încheia această zi neobișnuită.",
+                "en": "Salsabeel: Find a table by the window in the indoor area; watching the rain over the lake while enjoying a hot tea is the perfect way to end this unconventional day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Wintermorgen ist eine warme Jacke für den Spaziergang am See unerlässlich. Mittags wärmt die milde ägyptische Sonne angenehm auf den offenen Wegen. Da die Sonne bereits gegen 17:00 Uhr untergeht, beginnt der Nachmittag früh mit goldenem Licht. Den Abend verbringen Sie in den beheizten Lounges, da die Temperaturen nach Einbruch der Dunkelheit rasch sinken.",
+            "hu": "A hűvös téli reggelen elengedhetetlen a réteges öltözködés a tóparti sétához. Délben a lágy egyiptomi napsütés kellemes meleget ad a nyitott utakon. Mivel a nap már 17:00 körül lenyugszik, a délután arany fényekkel érkezik. Az estét töltse a fűtött közösségi terekben, mert a sötétedés után a hőmérséklet gyorsan csökken.",
+            "ro": "În dimineața răcoroasă de iarnă, îmbrăcămintea în straturi este esențială pentru plimbarea pe malul lacului. La prânz, soarele blând egiptean oferă o căldură plăcută pe aleile deschise. Deoarece soarele apune în jur de ora 17:00, după-amiaza vine devreme cu lumini aurii. Seara, retrageți-vă în spațiile încălzite, deoarece temperatura scade rapid după amurg.",
+            "en": "On a cool winter morning, layered clothing is essential for your lakeside stroll. By noon, the mild Egyptian sun provides pleasant warmth on the open paths. Since the sun sets around 17:00, the afternoon arrives early with golden light. Spend the evening in heated common areas, as temperatures drop rapidly once darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "El Togareyeen",
+                "hu": "El Togareyeen",
+                "ro": "El Togareyeen",
+                "en": "El Togareyeen"
+              },
+              "tip_5lang": {
+                "de": "El Togareyeen: Genießen Sie die kristallklare Sicht über den See in der trockenen Winterluft; ein leichter Schal schützt Sie vor der frischen Brise direkt am Wasser.",
+                "hu": "El Togareyeen: Élvezze a kristálytiszta kilátást a tóra a száraz téli levegőben; egy könnyű sál megvédi a víz felől érkező friss szellőtől a kora reggeli órákban.",
+                "ro": "El Togareyeen: Bucurați-vă de vizibilitatea clară peste lac în aerul uscat de iarnă; o eșarfă ușoară vă va proteja de briza rece care vine dinspre apă dimineața devreme.",
+                "en": "El Togareyeen: Enjoy the crystal-clear views across the lake in the dry winter air; a light scarf will protect you from the fresh breeze coming off the water early on."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa",
+                "hu": "Doaa El Samaa",
+                "ro": "Doaa El Samaa",
+                "en": "Doaa El Samaa"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa: Dies ist die beste Zeit für einen ausgiebigen Spaziergang ohne die Sommerhitze; nutzen Sie die Mittagssonne für Fotos im Garten bei perfektem Licht.",
+                "hu": "Doaa El Samaa: Ez a legjobb időszak egy hosszú sétára a tikkasztó hőség nélkül; használja ki a déli napsütést a kerti fotózáshoz a tökéletes téli fényekben.",
+                "ro": "Doaa El Samaa: Aceasta este cea mai bună perioadă pentru o plimbare lungă fără căldura verii; profitați de soarele de la prânz pentru fotografii în grădină în lumină perfectă.",
+                "en": "Doaa El Samaa: This is the best time for a long walk without the sweltering summer heat; take advantage of the midday sun for garden photos in perfect winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa Feriendorf",
+                "hu": "Doaa El Samaa Üdülőfalu",
+                "ro": "Satul de vacanță Doaa El Samaa",
+                "en": "Doaa El Samaa Village"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa Village: Die ruhige Nebensaison bietet eine friedliche Atmosphäre; erkunden Sie die Außenanlagen vor 15:30 Uhr, bevor es im Schatten der Gebäude kühler wird.",
+                "hu": "Doaa El Samaa Village: A csendes utószezon békés hangulatot áraszt; fedezze fel a kültéri részeket 15:30 előtt, mielőtt az épületek árnyékában hűvösebbé válik az idő.",
+                "ro": "Satul de vacanță Doaa El Samaa: Sezonul liniștit oferă o atmosferă pașnică; explorați zonele exterioare înainte de 15:30, înainte să se facă răcoare la umbra clădirilor.",
+                "en": "Doaa El Samaa Village: The quiet low season offers a peaceful atmosphere; explore the outdoor areas before 15:30, before it gets cooler in the shadows of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "El Marwa",
+                "hu": "El Marwa",
+                "ro": "El Marwa",
+                "en": "El Marwa"
+              },
+              "tip_5lang": {
+                "de": "El Marwa: Beobachten Sie das warme Licht der tiefstehenden Wintersonne auf der Architektur; suchen Sie sich rechtzeitig einen sonnigen Platz für eine kurze Pause.",
+                "hu": "El Marwa: Figyelje meg az alacsonyan járó téli nap meleg fényeit az épületeken; keressen időben egy napsütötte padot egy rövid pihenőhöz, amíg még magasan jár a nap.",
+                "ro": "El Marwa: Observați luminile calde ale soarelui de iarnă pe arhitectura clădirilor; găsiți din timp un loc însorit pentru o scurtă pauză cât timp soarele este încă sus.",
+                "en": "El Marwa: Observe the warm lights of the low winter sun on the architecture; find a sunny spot in time for a short break while the sun is still high enough."
+              }
+            },
+            {
+              "name": {
+                "de": "Salsabeel",
+                "hu": "Salsabeel",
+                "ro": "Salsabeel",
+                "en": "Salsabeel"
+              },
+              "tip_5lang": {
+                "de": "Salsabeel: Erreichen Sie diesen Ort vor 16:45 Uhr für den Sonnenuntergang; danach sollten Sie schnell ins Innere gehen, da die Winterkälte sofort nach Sonnenuntergang spürbar wird.",
+                "hu": "Salsabeel: Érkezzen meg 16:45 előtt a naplemente megtekintéséhez; utána érdemes gyorsan behúzódni, mert a téli hideg azonnal érezhetővé válik a napnyugta után.",
+                "ro": "Salsabeel: Ajungeți înainte de 16:45 pentru a vedea apusul; după aceea, intrați rapid în interior, deoarece frigul de iarnă se simte imediat după ce soarele apune.",
+                "en": "Salsabeel: Arrive before 16:45 to catch the sunset; afterwards, head inside quickly as the winter chill becomes noticeable immediately after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kerékpártúra a nyüzsgő Nice 1-ben kezdődik, ahol a reggeli nap arany fénnyel árasztja el a gyönyörű partvidéket.\nDélben nyugodtan tekerjen át El Bardees és El Togareyeen területén, miközben a hullámok zúgása kíséri.\nA délután a Doaa El Samaa-ba és az El Marwa-ba vezet, ahol csodálatos pihenőket tarthat.\nA Tiba Rose-ban töltött este a túra fényűző fénypontja a naplemente megcsodálásához.",
         "ro": "Turul cu bicicleta începe în animatul Nice 1, unde soarele dimineții scaldă coasta într-o lumină aurie spectaculoasă.\nLa prânz, pedalați relaxat prin El Bardees și El Togareyeen, mereu însoțiți de sunetul valurilor.\nDupă-amiaza vă duce în Doaa El Samaa și mai departe la El Marwa, unde puteți face pauze minunate la umbră.\nSeara la Tiba Rose este punctul culminant luxos al turului dvs.",
         "en": "Your bike tour begins at the vibrant Nice 1, where the morning sun bathes the stunning coastline in a golden light.\nAt midday, cycle leisurely through El Bardees and El Togareyeen, always accompanied by the sound of waves.\nThe afternoon leads you to central Doaa El Samaa and further to El Marwa, where you can take wonderful breaks in the shade.\nThe evening at Tiba Rose is the luxurious highlight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt mit Vorsicht auf den nassen Wegen am See. Mittags suchen wir Schutz in den Resorts, um die stärksten Schauer abzuwarten. Am Nachmittag radeln wir durch die frische, feuchte Luft, wobei wir auf rutschige Kurven achten. Der Tag endet am Tiba Rose, wo wir uns nach der nebligen Fahrt aufwärmen und die Fahrräder sicher unterstellen können.",
+            "hu": "A biciklis nap óvatossággal indul a tóparti nedves utakon. Délben az üdülőhelyeken keresünk menedéket a legerősebb záporok elől. Délután a friss, párás levegőben tekerünk tovább, figyelve a csúszós kanyarokra. A nap a Tiba Rose-nál ér véget, ahol a ködös túra után felmelegedhetünk és biztonságba helyezhetjük a kerékpárokat.",
+            "ro": "Ziua de ciclism începe cu prudență pe drumurile umede de pe malul lacului. La prânz, căutăm adăpost în complexuri pentru a evita cele mai puternice ploi. După-amiaza pedalăm prin aerul proaspăt și umed, fiind atenți la curbele alunecoase. Ziua se încheie la Tiba Rose, unde ne putem încălzi după tura prin ceață și putem depozita bicicletele.",
+            "en": "The cycling day begins with caution on the wet lakeside paths. By noon, we seek shelter in the resorts to wait out the heaviest showers. In the afternoon, we pedal through the fresh, damp air, staying alert for slippery corners. The day ends at Tiba Rose, where we can warm up after the misty ride and secure the bikes in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nice 1",
+                "hu": "Nice 1",
+                "ro": "Nice 1",
+                "en": "Nice 1"
+              },
+              "tip_5lang": {
+                "de": "Nice 1: Reduzieren Sie den Reifendruck leicht für besseren Halt auf nassem Sand; tragen Sie eine Regenjacke, da der Wind vom See die Feuchtigkeit schnell durchdringen lässt.",
+                "hu": "Nice 1: Csökkentse kissé a gumiabroncsok nyomását a jobb tapadás érdekében a nedves homokon; viseljen esőkabátot, mert a tavi szél gyorsan átfújja a nedves ruhát.",
+                "ro": "Nice 1: Reduceți ușor presiunea din anvelope pentru o aderență mai bună pe nisipul umed; purtați o jachetă de ploaie, deoarece vântul de pe lac pătrunde rapid prin haine.",
+                "en": "Nice 1: Slightly reduce tire pressure for better grip on wet sand; wear a rain jacket as the wind from the lake can make the dampness feel much colder while moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Nice 2",
+                "hu": "Nice 2",
+                "ro": "Nice 2",
+                "en": "Nice 2"
+              },
+              "tip_5lang": {
+                "de": "Nice 2: Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten; halten Sie die Bremswege länger, da die Bremsen auf nassen Felgen verzögert reagieren.",
+                "hu": "Nice 2: Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek; tartsanak nagyobb féktávot, mivel a vizes felniken a fékek lassabban és bizonytalanabbul fognak.",
+                "ro": "Nice 2: Atenție la bălțile care pot ascunde gropi adâncl; mențineți o distanță de frânare mai mare, deoarece frânele reacționează mai greu pe jantele umede.",
+                "en": "Nice 2: Watch out for puddles that might hide deep potholes; keep longer braking distances as brakes react more slowly on wet rims during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "El Bardees",
+                "hu": "El Bardees",
+                "ro": "El Bardees",
+                "en": "El Bardees"
+              },
+              "tip_5lang": {
+                "de": "El Bardees: Meiden Sie die glatten Gartenplatten und bleiben Sie auf dem Asphalt; die üppige Vegetation bietet hier einige natürliche Unterstände bei kurzem Nieselregen.",
+                "hu": "El Bardees: Kerülje a sima kerti járólapokat, maradjon az aszfalton; a dús növényzet itt természetes menedéket nyújt egy rövid szemerkélő eső esetén a kerékpárosoknak.",
+                "ro": "El Bardees: Evitați plăcile de grădină alunecoase și rămâneți pe asfalt; vegetația bogată oferă aici câteva adăposturi naturale în caz de burniță scurtă.",
+                "en": "El Bardees: Avoid the smooth garden tiles and stay on the asphalt; the lush vegetation here offers some natural shelter during short drizzles for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "El Togareyeen",
+                "hu": "El Togareyeen",
+                "ro": "El Togareyeen",
+                "en": "El Togareyeen"
+              },
+              "tip_5lang": {
+                "de": "El Togareyeen: Halten Sie kurz für die Aussicht, aber achten Sie auf den schlammigen Untergrund beim Absteigen; Schlamm an den Schuhen kann das Pedalieren später erschweren.",
+                "hu": "El Togareyeen: Álljon meg egy pillanatra a kilátásért, de figyeljen a sáros talajra leszálláskor; a cipőre tapadó sár később megnehezítheti a pedálozást és csúszóssá teheti azt.",
+                "ro": "El Togareyeen: Opriți-vă scurt pentru vedere, dar atenție la solul noroios la coborâre; noroiul de pe pantofi poate îngreuna pedalarea ulterior și poate deveni alunecos.",
+                "en": "El Togareyeen: Stop briefly for the view but watch for muddy ground when dismounting; mud on your shoes can make pedaling difficult and slippery later on."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa",
+                "hu": "Doaa El Samaa",
+                "ro": "Doaa El Samaa",
+                "en": "Doaa El Samaa"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa: Nutzen Sie die Lobby für eine kurze Aufwärmpause und prüfen Sie Ihre Kette auf Sand und Schmutz; das Resort bietet guten Schutz vor plötzlichen Windböen.",
+                "hu": "Doaa El Samaa: Használja a lobbit egy rövid pihenőre, és ellenőrizze a láncot, nincs-e rajta homok vagy sár; az üdülőhely jó védelmet nyújt a hirtelen szélrohamok ellen.",
+                "ro": "Doaa El Samaa: Folosiți recepția pentru o scurtă pauză și verificați lanțul de nisip sau noroi; complexul oferă o protecție bună împotriva rafalelor bruște de vânt.",
+                "en": "Doaa El Samaa: Use the lobby for a quick warm-up break and check your chain for sand or mud; the resort provides good protection against sudden wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "El Marwa",
+                "hu": "El Marwa",
+                "ro": "El Marwa",
+                "en": "El Marwa"
+              },
+              "tip_5lang": {
+                "de": "El Marwa: Fahren Sie vorsichtig durch die Kurven in den Gärten; nasses Laub auf dem Weg kann extrem rutschig sein, halten Sie Ihr Gewicht beim Lenken stabil.",
+                "hu": "El Marwa: Óvatosan kanyarodjon a kertekben; a nedves levelek az úton rendkívül csúszósak lehetnek, tartsa stabilan a kormányt és a testsúlyát a kanyarokban.",
+                "ro": "El Marwa: Virați cu atenție în grădini; frunzele umede de pe drum pot fi extrem de alunecoase, mențineți-vă greutatea stabilă pe ghidon în timpul virajelor.",
+                "en": "El Marwa: Corner carefully in the gardens; wet leaves on the path can be extremely slippery, so keep your weight balanced and your steering steady."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiba Rose",
+                "hu": "Tiba Rose",
+                "ro": "Tiba Rose",
+                "en": "Tiba Rose"
+              },
+              "tip_5lang": {
+                "de": "Tiba Rose: Trocknen Sie Ihre Ausrüstung sofort nach der Ankunft ab; der beheizte Innenbereich ist ideal, um die klamme Kleidung zu lüften und sich selbst aufzuwärmen.",
+                "hu": "Tiba Rose: Érkezés után azonnal szárítsa meg felszerelését; a fűtött belső tér ideális a nyirkos ruhák szellőztetésére és a test felmelegítésére a túra végén.",
+                "ro": "Tiba Rose: Uscați-vă echipamentul imediat după sosire; spațiul interior încălzit este ideal pentru a aerisi hainele umede și pentru a vă încălzi după tură.",
+                "en": "Tiba Rose: Dry your gear immediately upon arrival; the heated indoor area is ideal for airing out damp clothes and warming up after the misty cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen ist ideal für Radtouren, solange Sie Handschuhe gegen den kühlen Fahrtwind tragen. Mittags genießen wir die Sonne ohne die extreme Sommerhitze, was das Treten erleichtert. Am frühen Nachmittag nutzen wir das klare Licht für Panoramafotos vom See. Da es nach 17:00 Uhr schnell dunkel und kalt wird, planen wir die Ankunft am Tiba Rose noch vor Sonnenuntergang.",
+            "hu": "A ragyogó téli reggel ideális a kerékpározáshoz, amíg kesztyűt visel a hűvös menetszél ellen. Délben élvezzük a napsütést a tikkasztó hőség nélkül, ami megkönnyíti a haladást. Kora délután használja ki a tiszta fényeket a panorámás fotókhoz a tóról. Mivel 17:00 után gyorsan sötétedik és hűl le az idő, a naplementéig befejezzük a túrát.",
+            "ro": "O dimineață senină de iarnă este ideală pentru ciclism, atâta timp cât purtați mănuși împotriva vântului rece. La prânz, ne bucurăm de soare fără căldura extremă, ceea ce ușurează pedalarea. După-amiaza devreme, profităm de lumina clară pentru fotografii panoramice. Deoarece se întunecă rapid după ora 17:00, planificăm sosirea la Tiba Rose înainte de apus.",
+            "en": "A bright winter morning is ideal for cycling, provided you wear gloves against the cool wind. By noon, we enjoy the sun without the extreme heat, making the ride much easier. In the early afternoon, take advantage of the clear light for panoramic lake photos. As it gets dark and cold quickly after 17:00, we finish the tour by sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nice 1",
+                "hu": "Nice 1",
+                "ro": "Nice 1",
+                "en": "Nice 1"
+              },
+              "tip_5lang": {
+                "de": "Nice 1: Starten Sie mit mehreren Schichten Kleidung; der Fahrtwind am frühen Morgen kann am Seeufer trotz Sonnenschein sehr kühl sein, unterschätzen Sie die Brise nicht.",
+                "hu": "Nice 1: Induljon réteges öltözetben; a kora reggeli menetszél a tóparton a napsütés ellenére is nagyon hűvös lehet, ne becsülje alá a víz felőli szellőt.",
+                "ro": "Nice 1: Porniți îmbrăcați în straturi; vântul de dimineață pe malul lacului poate fi foarte rece în ciuda soarelui, nu subestimați briza dinspre apă.",
+                "en": "Nice 1: Start with multiple layers; the early morning wind by the lake can be very cool despite the sunshine, so do not underestimate the breeze from the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Nice 2",
+                "hu": "Nice 2",
+                "ro": "Nice 2",
+                "en": "Nice 2"
+              },
+              "tip_5lang": {
+                "de": "Nice 2: Die Wege sind im Winter fest und trocken, was das Fahren beschleunigt; achten Sie auf tiefstehende Sonne, die Sie in den Kurven blenden könnte.",
+                "hu": "Nice 2: Az utak télen kemények és szárazak, ami felgyorsítja a haladást; ügyeljen az alacsonyan járó napra, amely a kanyarokban hirtelen elvakíthatja a bicikliseket.",
+                "ro": "Nice 2: Drumurile sunt ferme și uscate iarna, ceea ce accelerează deplasarea; atenție la soarele jos care vă poate orbi brusc în curbe în timpul mersului.",
+                "en": "Nice 2: The paths are firm and dry in winter, allowing for faster travel; watch out for the low sun which might suddenly blind you in corners while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "El Bardees",
+                "hu": "El Bardees",
+                "ro": "El Bardees",
+                "en": "El Bardees"
+              },
+              "tip_5lang": {
+                "de": "El Bardees: Nutzen Sie die Mittagssonne in den offenen Gartenbereichen für eine Pause; die Winterblüte bietet hier eine farbenfrohe Kulisse für Ihre Radpause.",
+                "hu": "El Bardees: Használja ki a déli napsütést a nyitott kerti részeken egy pihenőre; a téli virágzás színes hátteret biztosít a kerékpáros megállónak.",
+                "ro": "El Bardees: Profitați de soarele de la prânz în zonele deschise ale grădinii pentru o pauză; înflorirea de iarnă oferă un fundal colorat pentru oprirea voastră.",
+                "en": "El Bardees: Take advantage of the midday sun in the open garden areas for a break; the winter blooms provide a colorful backdrop for your cycling stop."
+              }
+            },
+            {
+              "name": {
+                "de": "El Togareyeen",
+                "hu": "El Togareyeen",
+                "ro": "El Togareyeen",
+                "en": "El Togareyeen"
+              },
+              "tip_5lang": {
+                "de": "El Togareyeen: Die Fernsicht ist im Winter am besten, da kein sommerlicher Dunst die Sicht trübt; perfekt für Weitwinkelaufnahmen des gesamten Qarun-Sees.",
+                "hu": "El Togareyeen: A távoli kilátás télen a legjobb, mivel nincs nyári pára, ami elhomályosítaná a horizontot; tökéletes időpont a Qarun-tó panorámájának fotózásához.",
+                "ro": "El Togareyeen: Vizibilitatea la distanță este cea mai bună iarna, deoarece nu există pâclă de vară care să estompeze orizontul; perfect pentru fotografii panoramice.",
+                "en": "El Togareyeen: Long-distance visibility is best in winter as there is no summer haze to blur the horizon; perfect for wide-angle shots of the entire Lake Qarun."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa",
+                "hu": "Doaa El Samaa",
+                "ro": "Doaa El Samaa",
+                "en": "Doaa El Samaa"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa: Ein idealer Ort, um die oberste Kleidungsschicht zu lüften, während Sie in der Sonne stehen; trinken Sie ausreichend, auch wenn es nicht so heiß ist.",
+                "hu": "Doaa El Samaa: Ideális hely a felső ruharéteg szellőztetésére, amíg a napon áll; igyon elegendő folyadékot akkor is, ha a hűvös időben nem érzi szomjasnak magát.",
+                "ro": "Doaa El Samaa: Loc ideal pentru a aerisi stratul superior de haine cât stați la soare; beți suficiente lichide chiar dacă nu simțiți setea din cauza răcorii.",
+                "en": "Doaa El Samaa: Ideal spot to air out your top layer of clothing while standing in the sun; remember to drink enough fluids even if you don't feel thirsty in the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "El Marwa",
+                "hu": "El Marwa",
+                "ro": "El Marwa",
+                "en": "El Marwa"
+              },
+              "tip_5lang": {
+                "de": "El Marwa: Da die Schatten am Nachmittag länger werden, sollten Sie auf den Kontrast zwischen Licht und Dunkelheit auf dem Weg achten, um Unebenheiten zu erkennen.",
+                "hu": "El Marwa: Mivel délután a kerti árnyékok megnyúlnak, ügyeljen a fény és árnyék kontrasztjára az úton, hogy időben észrevegye az esetleges úthibákat.",
+                "ro": "El Marwa: Deoarece umbrele din grădină se lungesc după-amiaza, atenție la contrastul dintre lumină și întuneric pe drum pentru a observa eventualele denivelări.",
+                "en": "El Marwa: As afternoon shadows lengthen in the garden, watch for the contrast between light and dark on the path to spot any irregularities in time."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiba Rose",
+                "hu": "Tiba Rose",
+                "ro": "Tiba Rose",
+                "en": "Tiba Rose"
+              },
+              "tip_5lang": {
+                "de": "Tiba Rose: Kommen Sie an, bevor das Licht schwindet; das Resort bietet eine gemütliche Atmosphäre mit warmen Getränken, die den winterlichen Radtag perfekt abrunden.",
+                "hu": "Tiba Rose: Érkezzen meg, mielőtt elfogynának a fények; az üdülőhely barátságos légköre és a forró italok tökéletesen zárják a téli kerékpáros napot.",
+                "ro": "Tiba Rose: Ajungeți înainte ca lumina să dispară; atmosfera primitoare a complexului și băuturile calde vor încheia perfect ziua voastră de ciclism de iarnă.",
+                "en": "Tiba Rose: Arrive before the light fails; the resort's cozy atmosphere and hot drinks perfectly round off your winter cycling day after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Az autóút a legnyugatibb részen, a Suez Canal Resortnál kezdődik, amely ideális a csendes reggeli órákhoz a csillogó víz mellett.\nDél körül a Nice 1 és El Togareyeen felé veszi az irányt a lenyűgöző tengerparton.\nDélután kényelmesen leparkolhat az üdülőfaluban és az El Marwa területén, hogy élvezze a pihenést.\nEste végül eléri a Tiba Rose-t, ahol kiváló éttermek és pazar kilátás várja.",
         "ro": "Călătoria cu mașina începe în vestul îndepărtat, la Suez Canal Resort, ideal pentru orele liniștite ale dimineții lângă apă.\nÎn jurul prânzului, vă îndreptați spre Nice 1 și El Togareyeen pentru a explora facilitățile de agrement.\nDupă-amiaza parcați confortabil la satul de vacanță și El Marwa pentru a experimenta agitația relaxată a complexelor.\nSeara ajungeți la Tiba Rose pentru o cină excelentă.",
         "en": "The car journey begins far to the west at the Suez Canal Resort, ideal for quiet morning hours by the sparkling water.\nAround midday, you will head towards Nice 1 and El Togareyeen, where you can explore the diverse leisure facilities.\nIn the afternoon, park comfortably at the holiday village and El Marwa to experience the relaxed bustle firsthand.\nIn the evening, you finally reach Tiba Rose."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt sicher im trockenen Innenraum, während der Regen gegen die Scheiben trommelt. Mittags nutzen wir die überdachten Parkplätze der Resorts, um die Stops trocken zu erreichen. Am Nachmittag genießen wir die dramatische Aussicht auf den stürmischen See vom Auto aus. Der Tag endet bequem am Tiba Rose, wo wir dank naher Parkmöglichkeiten fast ohne nass zu werden ins Hotel gelangen.",
+            "hu": "Az autós túra biztonságban, a száraz utastérben indul, miközben az eső a szélvédőn kopog. Délben az üdülőhelyek fedett parkolóit használjuk, hogy szárazon érjük el a megállókat. Délután az autóból élvezzük a viharos tó drámai látványát. A nap kényelmesen a Tiba Rose-nál ér véget, ahol a közeli parkolásnak köszönhetően szinte ázás nélkül juthatunk be az épületbe.",
+            "ro": "Turul auto începe în siguranță, în interiorul uscat, în timp ce ploaia bate în parbriz. La prânz, folosim parcările acoperite ale complexurilor pentru a ajunge uscați la punctele de oprire. După-amiaza admirăm din mașină vederea dramatică a lacului sub furtună. Ziua se încheie confortabil la Tiba Rose, unde parcarea apropiată permite accesul în clădire fără a ne uda.",
+            "en": "The car tour begins safely in the dry cabin while rain drums on the windshield. By noon, we utilize the resorts' covered parking areas to reach our stops dry. In the afternoon, we enjoy the dramatic views of the stormy lake from the comfort of the car. The day ends conveniently at Tiba Rose, where close parking ensures we reach the building with minimal exposure to rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Suez Canal Resort",
+                "hu": "Suez Canal Resort",
+                "ro": "Suez Canal Resort",
+                "en": "Suez Canal Resort"
+              },
+              "tip_5lang": {
+                "de": "Suez Canal Resort: Nutzen Sie das Vordach am Haupteingang zum Aussteigen; bei starkem Regen ist die Sicht auf die Zufahrtsstraßen oft durch Gischt eingeschränkt.",
+                "hu": "Suez Canal Resort: Használja a főbejáratnál lévő előtetőt a kiszálláshoz; heves esőzéskor a látási viszonyok a bekötőutakon a vízfelverődés miatt korlátozottak lehetnek.",
+                "ro": "Suez Canal Resort: Folosiți copertina de la intrarea principală pentru a coborî; în timpul ploii abundente, vizibilitatea pe drumurile de acces poate fi limitată de apă.",
+                "en": "Suez Canal Resort: Use the canopy at the main entrance for dismounting; during heavy rain, visibility on the access roads may be limited due to water spray."
+              }
+            },
+            {
+              "name": {
+                "de": "El Balah",
+                "hu": "El Balah",
+                "ro": "El Balah",
+                "en": "El Balah"
+              },
+              "tip_5lang": {
+                "de": "El Balah: Bleiben Sie unbedingt auf den asphaltierten Straßen, da die unbefestigten Seitenstreifen nach Regen extrem weich werden und das Auto einsinken könnte.",
+                "hu": "El Balah: Mindenképpen maradjon az aszfaltozott utakon, mivel a burkolatlan útpadka az eső után rendkívül felpuhul, és az autó könnyen elakadhat a sárban.",
+                "ro": "El Balah: Rămâneți neapărat pe drumurile asfaltate, deoarece acostamentul neamenajat se înmoaie foarte mult după ploaie și mașina se poate împotmoli ușor.",
+                "en": "El Balah: Be sure to stay on the paved roads, as the unpaved road shoulders soften significantly after rain and the car could easily get stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Nice 1",
+                "hu": "Nice 1",
+                "ro": "Nice 1",
+                "en": "Nice 1"
+              },
+              "tip_5lang": {
+                "de": "Nice 1: Genießen Sie die Szenerie vom Auto aus, wenn der Regen zunimmt; die stürmische See bietet eine seltene und beeindruckende Fotokulisse direkt vom Parkplatz.",
+                "hu": "Nice 1: Élvezze a tájat az autóból, ha felerősödik az eső; a viharos tó ritka és lenyűgöző fotótémát kínál közvetlenül a parkolóból nézve is.",
+                "ro": "Nice 1: Bucurați-vă de peisaj din mașină dacă ploaia se intensifică; lacul agitat oferă un subiect foto rar și impresionant chiar și din parcare.",
+                "en": "Nice 1: Enjoy the scenery from the car if the rain intensifies; the stormy lake offers a rare and impressive photo subject even from the comfort of the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "El Togareyeen",
+                "hu": "El Togareyeen",
+                "ro": "El Togareyeen",
+                "en": "El Togareyeen"
+              },
+              "tip_5lang": {
+                "de": "El Togareyeen: Halten Sie einen Regenschirm für den kurzen Weg zum Aussichtspunkt bereit; die Wege sind fest, aber kleine Pfützen können sich schnell bilden.",
+                "hu": "El Togareyeen: Legyen kéznél esernyő a kilátóponthoz vezető rövid úton; az utak stabilak, de a tócsák gyorsan kialakulhatnak a gyalogos szakaszokon.",
+                "ro": "El Togareyeen: Aveți umbrela la îndemână pentru scurtul drum către punctul de observație; drumurile sunt stabile, dar bălțile se pot forma rapid pe porțiunile pietonale.",
+                "en": "El Togareyeen: Have an umbrella ready for the short walk to the viewpoint; the paths are solid, but puddles can form quickly on the pedestrian sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa Feriendorf",
+                "hu": "Doaa El Samaa Üdülőfalu",
+                "ro": "Satul de vacanță Doaa El Samaa",
+                "en": "Doaa El Samaa Village"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa Village: Parken Sie so nah wie möglich am Haupteingang der Anlage; die Lobby bietet einen trockenen Rückzugsort für eine Pause bei schlechtem Wetter.",
+                "hu": "Doaa El Samaa Village: Parkoljon a lehető legközelebb a komplexum főbejáratához; a lobbi száraz menedéket nyújt egy rövid pihenőhöz a rossz időben.",
+                "ro": "Satul de vacanță Doaa El Samaa: Parcați cât mai aproape de intrarea principală a complexului; recepția oferă un refugiu uscat pentru o scurtă pauză în caz de vreme rea.",
+                "en": "Doaa El Samaa Village: Park as close as possible to the main entrance of the complex; the lobby provides a dry retreat for a short break during the poor weather."
+              }
+            },
+            {
+              "name": {
+                "de": "El Marwa",
+                "hu": "El Marwa",
+                "ro": "El Marwa",
+                "en": "El Marwa"
+              },
+              "tip_5lang": {
+                "de": "El Marwa: Die Fahrt durch die Gärten ist bei Regen besonders reizvoll, da die Pflanzen intensiv glänzen; achten Sie beim Fahren auf tiefere Wasseransammlungen auf der Fahrbahn.",
+                "hu": "El Marwa: Az autóút a kerteken keresztül esőben is hangulatos, a növények ilyenkor élénkebben fénylenek; vezetés közben ügyeljen a mélyebb vízátfolyásokra az úton.",
+                "ro": "El Marwa: Drumul prin grădini este pitoresc chiar și pe ploaie, vegetația strălucind mai intens; în timp ce conduceți, atenție la acumulările mai mari de apă de pe drum.",
+                "en": "El Marwa: The drive through the gardens is atmospheric even in the rain as the plants shine more intensely; while driving, watch out for deeper water flow on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Salsabeel",
+                "hu": "Salsabeel",
+                "ro": "Salsabeel",
+                "en": "Salsabeel"
+              },
+              "tip_5lang": {
+                "de": "Salsabeel: Nutzen Sie den kurzen Weg vom Auto zum Restaurant; drinnen können Sie den Blick auf die Wellen genießen, ohne dem nasskalten Wind ausgesetzt zu sein.",
+                "hu": "Salsabeel: Használja ki az autóból az étterembe vezető rövid gyalogutat; bentről élvezheti a hullámzó tó látványát anélkül, hogy ki lenne téve a hideg, párás szélnek.",
+                "ro": "Salsabeel: Profitați de drumul scurt pe jos de la mașină la restaurant; din interior puteți admira valurile lacului fără a fi expuși vântului rece și umed.",
+                "en": "Salsabeel: Take advantage of the short walk from the car to the restaurant; inside you can enjoy the view of the waves without being exposed to the cold, damp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiba Rose",
+                "hu": "Tiba Rose",
+                "ro": "Tiba Rose",
+                "en": "Tiba Rose"
+              },
+              "tip_5lang": {
+                "de": "Tiba Rose: Die beleuchtete Einfahrt ist bei Regen gut sichtbar; parken Sie direkt am Eingang, um den Tag entspannt und trocken in der Hotelbar ausklingen zu lassen.",
+                "hu": "Tiba Rose: A kivilágított bejárat esőben is jól látható; parkoljon közvetlenül a bejáratnál, hogy a napot pihentetően és szárazon zárhassa a szálloda bárjában.",
+                "ro": "Tiba Rose: Intrarea iluminată este bine vizibilă pe ploaie; parcați direct la intrare pentru a încheia ziua relaxat și uscat în barul hotelului.",
+                "en": "Tiba Rose: The illuminated entrance is clearly visible in the rain; park directly at the entrance to end the day in a relaxed and dry manner at the hotel bar."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt angenehm warm dank der Autoheizung bei der Fahrt zum ersten Resort. Mittags ist das Wetter ideal für kurze Erkundungsgänge im Freien bei milder Sonne. Am frühen Nachmittag nutzen wir das klare Winterlicht für Fotos an den Aussichtspunkten. Den Abend beenden wir rechtzeitig vor dem frühen Sonnenuntergang gegen 17:00 Uhr, um die kühlen Abendstunden im warmen Hotel zu verbringen.",
+            "hu": "A téli reggel kellemesen indul az autó fűtésének köszönhetően az első üdülőhely felé tartva. Délben az időjárás ideális a rövid szabadtéri felfedezésekhez a lágy napsütésben. Kora délután használja ki a tiszta téli fényeket a kilátópontokon való fotózáshoz. A napot még az 17:00 körüli korai naplemente előtt befejezzük, hogy a hűvös estét már a meleg hotelben töltsük.",
+            "ro": "Dimineața de iarnă începe plăcut datorită căldurii din mașină în drum spre primul complex. La prânz, vremea este ideală pentru scurte explorări în aer liber sub soarele blând. După-amiaza devreme profităm de lumina clară de iarnă pentru fotografii la punctele de observație. Încheiem ziua înainte de apusul de la ora 17:00, pentru a petrece seara răcoroasă în căldura hotelului.",
+            "en": "The winter morning starts pleasantly thanks to the car's heater on the way to the first resort. By noon, the weather is ideal for short outdoor explorations in the mild sun. In the early afternoon, take advantage of the clear winter light for photos at the viewpoints. We finish the day before the early sunset around 17:00 to spend the cool evening in the warm hotel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Suez Canal Resort",
+                "hu": "Suez Canal Resort",
+                "ro": "Suez Canal Resort",
+                "en": "Suez Canal Resort"
+              },
+              "tip_5lang": {
+                "de": "Suez Canal Resort: Die klare Wintermorgenluft bietet eine fantastische Sicht auf das Resortgelände; halten Sie eine Jacke bereit, wenn Sie für Fotos kurz aussteigen.",
+                "hu": "Suez Canal Resort: A tiszta téli reggeli levegő fantasztikus kilátást nyújt az üdülő területére; legyen kéznél kabát, ha kiszáll az autóból egy gyors fotózás erejéig.",
+                "ro": "Suez Canal Resort: Aerul curat al dimineții de iarnă oferă o vedere fantastică asupra complexului; aveți jacheta la îndemână dacă coborâți din mașină pentru fotografii.",
+                "en": "Suez Canal Resort: The clear winter morning air offers a fantastic view of the resort grounds; keep a jacket handy if you step out of the car for quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "El Balah",
+                "hu": "El Balah",
+                "ro": "El Balah",
+                "en": "El Balah"
+              },
+              "tip_5lang": {
+                "de": "El Balah: Die tiefstehende Wintersonne leuchtet die Wüstenlandschaft perfekt aus; dies ist die beste Zeit für Panoramaaufnahmen ohne das sommerliche Hitzeflimmern.",
+                "hu": "El Balah: Az alacsonyan járó téli nap tökéletesen megvilágítja a sivatagi tájat; ez a legjobb időszak panorámafotók készítésére a nyári hőlégvibrálás nélkül.",
+                "ro": "El Balah: Soarele jos de iarnă luminează perfect peisajul deșertic; este cea mai bună perioadă pentru panorame, fără vibrațiile de căldură specifice verii.",
+                "en": "El Balah: The low winter sun illuminates the desert landscape perfectly; this is the best time for panoramic shots without the summer heat haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Nice 1",
+                "hu": "Nice 1",
+                "ro": "Nice 1",
+                "en": "Nice 1"
+              },
+              "tip_5lang": {
+                "de": "Nice 1: Ein kurzer Spaziergang am Ufer ist im Winter sehr erfrischend; das Auto bleibt in der milden Sonne angenehm temperiert und dient als Basis für den Ausflug.",
+                "hu": "Nice 1: Egy rövid parti séta télen nagyon frissítő; az autó a lágy napsütésben kellemes hőmérsékletű marad, és tökéletes bázisul szolgál a kiránduláshoz.",
+                "ro": "Nice 1: O scurtă plimbare pe mal iarna este foarte revigorantă; mașina rămâne la o temperatură plăcută sub soarele blând, servind ca bază pentru excursie.",
+                "en": "Nice 1: A short walk along the shore is very refreshing in winter; the car stays at a pleasant temperature in the mild sun and serves as a perfect base for the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "El Togareyeen",
+                "hu": "El Togareyeen",
+                "ro": "El Togareyeen",
+                "en": "El Togareyeen"
+              },
+              "tip_5lang": {
+                "de": "El Togareyeen: Die Sicht über den See ist kristallklar; nutzen Sie die trockene Luft für Weitwinkelaufnahmen der gesamten Region direkt von der Zufahrtsstraße aus.",
+                "hu": "El Togareyeen: A kilátás a tóra ilyenkor kristálytiszta; használja ki a száraz levegőt a teljes régió panorámafotózásához közvetlenül a bekötőút mellől.",
+                "ro": "El Togareyeen: Vederea spre lac este de o claritate rară; profitați de aerul uscat pentru fotografii panoramice ale regiunii direct de lângă drumul de acces.",
+                "en": "El Togareyeen: The view over the lake is crystal clear; take advantage of the dry air for panoramic photography of the entire region directly from the access road."
+              }
+            },
+            {
+              "name": {
+                "de": "Doaa El Samaa Feriendorf",
+                "hu": "Doaa El Samaa Üdülőfalu",
+                "ro": "Satul de vacanță Doaa El Samaa",
+                "en": "Doaa El Samaa Village"
+              },
+              "tip_5lang": {
+                "de": "Doaa El Samaa Village: Die Anlage ist in der Nebensaison sehr ruhig; genießen Sie die Architektur und die Gärten im sanften Mittagslicht bei angenehmen Temperaturen.",
+                "hu": "Doaa El Samaa Village: A komplexum az utószezonban nagyon csendes; élvezze az építészetet és a kerteket a lágy déli fényben és a kellemes téli hőmérsékletben.",
+                "ro": "Satul de vacanță Doaa El Samaa: Complexul este foarte liniștit în extrasezon; admirați arhitectura și grădinile în lumina blândă a prânzului și temperaturi plăcute.",
+                "en": "Doaa El Samaa Village: The complex is very quiet during the low season; enjoy the architecture and gardens in the soft midday light and pleasant winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "El Marwa",
+                "hu": "El Marwa",
+                "ro": "El Marwa",
+                "en": "El Marwa"
+              },
+              "tip_5lang": {
+                "de": "El Marwa: Da die Sonne im Winter tiefer steht, werfen die Gebäude lange Schatten; parken Sie so, dass Sie die letzten warmen Sonnenstrahlen im Auto noch genießen können.",
+                "hu": "El Marwa: Mivel a nap télen alacsonyabban jár, az épületek hosszú árnyékot vetnek; parkoljon úgy, hogy még élvezhesse az utolsó meleg napsugarakat az autóban.",
+                "ro": "El Marwa: Deoarece soarele este mai jos iarna, clădirile aruncă umbre lungi; parcați astfel încât să vă mai puteți bucura de ultimele raze calde de soare în mașină.",
+                "en": "El Marwa: Since the sun is lower in winter, the buildings cast long shadows; park so that you can still enjoy the last warm sunbeams while inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Salsabeel",
+                "hu": "Salsabeel",
+                "ro": "Salsabeel",
+                "en": "Salsabeel"
+              },
+              "tip_5lang": {
+                "de": "Salsabeel: Planen Sie Ihre Ankunft vor 16:30 Uhr, um den winterlichen Sonnenuntergang zu sehen; die Farben am Horizont sind in der kühlen Luft besonders intensiv.",
+                "hu": "Salsabeel: Érkezzen meg 16:30 előtt, hogy láthassa a téli naplementét; a horizont színei a hűvös és tiszta levegőben ilyenkor különösen intenzívek és látványosak.",
+                "ro": "Salsabeel: Ajungeți înainte de 16:30 pentru a vedea apusul de iarnă; culorile orizontului sunt deosebit de intense în aerul rece și curat din această perioadă.",
+                "en": "Salsabeel: Plan to arrive before 16:30 to witness the winter sunset; the colors on the horizon are particularly intense and spectacular in the cool, clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiba Rose",
+                "hu": "Tiba Rose",
+                "ro": "Tiba Rose",
+                "en": "Tiba Rose"
+              },
+              "tip_5lang": {
+                "de": "Tiba Rose: Nach Sonnenuntergang fallen die Temperaturen rapide; nutzen Sie die Hotelheizung und lassen Sie den Tag gemütlich bei einem heißen Getränk ausklingen.",
+                "hu": "Tiba Rose: Naplemente után a hőmérséklet gyorsan süllyed; használja ki a szálloda fűtését, és zárja a napot hangulatosan egy forró ital mellett a lobbiban.",
+                "ro": "Tiba Rose: După apus, temperaturile scad rapid; profitați de căldura hotelului și încheiați ziua într-un mod plăcut cu o băutură caldă în lobby.",
+                "en": "Tiba Rose: After sunset, temperatures drop rapidly; take advantage of the hotel's heating and end the day cozily with a hot drink in the lobby lounge."
+              }
+            }
+          ]
+        }
       }
     }
   }

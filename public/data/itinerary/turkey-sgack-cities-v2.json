@@ -183,6 +183,224 @@
         "hu": "A reggel a történelmi Sığacık váránál indul, mielőtt a világítótoronynál és a Küçük Akkum strandon pihenne. Délben a szárazföld felé haladva túrázzon fel a Teos Akropoliszhoz, ahonnan páratlan történelmi panoráma nyílik. A délután az őkori művészetre és hitre összpontosít, érintve a jó állapotú Színházat és a hatalmas Dionüszosz-templomot. A nap elegánsan zárul Teos központi romjai között, miközben a naplemente fénye megvilágítja az ősi köveket.",
         "ro": "Dimineața începe la Castelul Sığacık, oferind un ton istoric înainte de a vă relaxa la farul din apropiere și pe plaja Küçük Akkum. La prânz, urcați spre Acropola Teos pentru o panoramă uluitoare. După-amiaza se concentrează pe artă și credință, coborând la Teatrul antic și monumentalul Templu al lui Dionis. Ziua se încheie elegant în mijlocul ruinelor centrale din Teos, unde lumina apusului creează o atmosferă unică peste pietrele vechi.",
         "en": "Morning begins at the historic Sığacık Castle, setting a profound tone before enjoying sea breezes at the nearby lighthouse and relaxing at Küçük Akkum. Midday shifts inland, challenging you with a hike up to the Teos Acropolis for unmatched historical panoramas. The afternoon focuses on ancient arts and faith, descending to the well-preserved Theater and the grand Temple of Dionysos. The day elegantly concludes amidst the core ruins of Teos, letting the sunset glow illuminate ancient stones."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Mauern der Festung Schutz vor dem Regen. Mittags am Leuchtturm ist die stürmische See dramatisch, aber windig. Der Nachmittag in den Ruinen von Teos erfordert festes Schuhwerk für die schlammigen Pfade. Abends laden die überdachten Cafés am Hafen von Sığacık dazu ein, dem Prasseln des Regens bei einem Tee zuzusehen.",
+            "hu": "Reggel a vár belső utcáin keresünk menedéket az eső elől. Délben a világítótoronynál a viharos tenger látványa lenyűgöző, de szeles. Délután Teos romjai közt sárra és csúszós kövekre számítsunk az antik színház környékén. Este a kikötő fedett teraszai nyújtanak meghitt hangulatot a nap végén, ahol megpihenhetünk a vizes séta után.",
+            "ro": "Dimineața, zidurile cetății oferă adăpost împotriva ploii. La prânz, marea agitată de lângă far este dramatică, dar vântoasă. După-amiaza printre ruinele din Teos necesită încălțăminte aderentă pentru potecile noroioase. Seara, cafenelele acoperite din portul Sığacık sunt locul perfect pentru a privi ploaia la un ceai cald.",
+            "en": "In the morning, the fortress walls provide some shelter from the rain. At noon, the stormy sea near the lighthouse is dramatic but windy. The afternoon among the ruins of Teos requires sturdy shoes for the muddy paths. In the evening, the covered cafes at Sığacık harbor offer a cozy atmosphere to watch the rain fall over the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sığacık Kalesi",
+                "hu": "Sığacık Kalesi",
+                "ro": "Sığacık Kalesi",
+                "en": "Sığacık Kalesi"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die engen Gassen innerhalb der Festung, die etwas Schutz bieten; achten Sie auf die extrem rutschigen Kopfsteinpflaster bei Nässe.",
+                "hu": "Fedezze fel az erőd falain belüli szűk utcákat, amelyek némi védelmet nyújtanak; vigyázzon a vizes macskaköveken, mert rendkívül csúszósak.",
+                "ro": "Explorați străzile înguste din interiorul cetății care oferă puțin adăpost; atenție la pavajul din piatră care devine foarte alunecos când este ud.",
+                "en": "Explore the narrow streets inside the fortress walls which provide some shelter; watch your step on the wet cobblestones as they become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Deniz Feneri"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die tosende Gischt am Kap; ein stabiler Windschutz oder eine Regenjacke ist hier wegen der starken Böen unverzichtbar.",
+                "hu": "Élvezze a felcsapó hullámok látványát a foknál; a szél miatt egy viharálló esőkabát elengedhetetlen a világítótorony megközelítéséhez.",
+                "ro": "Bucurați-vă de vederea valurilor care se sparg de țărm; o jachetă impermeabilă rezistentă la vânt este esențială aici din cauza rafalelor puternice.",
+                "en": "Enjoy the view of the crashing waves at the cape; a windproof raincoat is essential here due to the strong gusts near the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Küçük Akkum Plajı",
+                "hu": "Küçük Akkum Plajı",
+                "ro": "Küçük Akkum Plajı",
+                "en": "Küçük Akkum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von einer der wenigen überdachten Stellen am Strand; der Sand ist fest, aber die Steine am Ufer sind glatt.",
+                "hu": "Nézze a szürke tengert a strand kevés fedett pontjának egyikéről; a homok ilyenkor kemény, de a parti kövek veszélyesen csúszhatnak.",
+                "ro": "Priviți marea cenușie dintr-unul din puținele locuri acoperite de pe plajă; nisipul este compact, dar pietrele de la mal sunt alunecoase.",
+                "en": "Watch the grey sea from one of the few covered spots on the beach; the sand is firm when wet, but the stones at the shore are slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Akropol",
+                "hu": "Teos Akropol",
+                "ro": "Teos Akropol",
+                "en": "Teos Akropol"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Akropolis bietet eine weite Sicht, kann aber sehr schlammig sein; bleiben Sie auf den grasbewachsenen Flächen für besseren Halt.",
+                "hu": "Az akropoliszra való feljutás szép kilátást ad, de az út sáros lehet; maradjon a füves részeken a jobb tapadás érdekében az esőben.",
+                "ro": "Urcarea spre acropolă oferă o vedere largă, dar poate fi noroioasă; rămâneți pe porțiunile cu iarbă pentru o aderență mai bună pe ploaie.",
+                "en": "The climb to the acropolis offers a wide view but can be very muddy; stay on the grassy patches for better traction during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Theater",
+                "hu": "Teos Theater",
+                "ro": "Teos Theater",
+                "en": "Teos Theater"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steinstufen sammeln Regenwasser und sind gefährlich glatt; bewundern Sie das Theater am besten sicher vom unteren Rand aus.",
+                "hu": "Az antik kőlépcsőkön megáll az esővíz és veszélyesen csúsznak; a legjobb, ha a színházat az alsó szintről, biztonságos távolságból csodálja meg.",
+                "ro": "Treptele antice din piatră colectează apa de ploaie și sunt periculoase; admirați teatrul de la baza acestuia pentru a evita alunecarea.",
+                "en": "The ancient stone steps collect rainwater and are dangerously slick; it is best to admire the theater safely from the lower ground level."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple of Dionysos",
+                "hu": "Temple of Dionysos",
+                "ro": "Temple of Dionysos",
+                "en": "Temple of Dionysos"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Regen besonders mystisch, aber Vorsicht vor tiefen Pfützen zwischen den Säulenfundamenten des Dionysos-Tempels.",
+                "hu": "A romok esőben különösen misztikusnak tűnnek, de vigyázzon a mély tócsákra a Dionüszosz-templom oszlopai és alapjai között.",
+                "ro": "Ruinele par deosebit de mistice în ploaie, dar aveți grijă la bălțile adânci dintre fundațiile coloanelor Templului lui Dionysos.",
+                "en": "The ruins look particularly mystical in the rain, but watch out for deep puddles between the column foundations of the Dionysos Temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos",
+                "hu": "Teos",
+                "ro": "Teos",
+                "en": "Teos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang zügig, da das Gelände kaum Unterstände bietet; halten Sie einen Regenschirm bereit für den Weg zurück zum Dorf.",
+                "hu": "Fejezze be gyorsan a körutat, mivel a területen alig van fedett rész; tartsa készenlétben az esernyőt a falu felé vezető visszaúton.",
+                "ro": "Încheiați turul rapid, deoarece situl oferă puține adăposturi; aveți umbrela pregătită pentru drumul de întoarcere spre sat.",
+                "en": "Finish the tour promptly as the site offers little shelter; keep your umbrella ready for the walk back towards the village center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt mit einer frischen Brise an der Burgmauer. Mittags wärmt die tiefstehende Sonne beim Spaziergang zum Leuchtturm kaum, aber die Sicht ist klar. Der Nachmittag in Teos endet früh, da es gegen 17:00 Uhr dunkel wird. Den Abend verbringt man am besten in den beheizten Innenräumen der gemütlichen Tavernen von Sığacık.",
+            "hu": "A hűvös téli reggel friss szellővel indul a várfalaknál. Délben a gyenge napsütés alig melegít a világítótorony felé, de a látótávolság kiváló. A délután Teos romjai között hamar véget ér a 17:00 körüli naplemente miatt. Az estét legkellemesebb Sığacık fűtött, barátságos vendéglőinek mélyén tölteni.",
+            "ro": "Dimineața răcoroasă de iarnă începe cu o briză proaspătă la zidurile cetății. La prânz, soarele palid abia încălzește drumul spre far, dar vizibilitatea este excelentă. După-amiaza în Teos se termină repede, apusul fiind în jur de ora 17:00. Seara se petrece cel mai bine în interiorul încălzit al tavernelor primitoare din Sığacık.",
+            "en": "The chilly winter morning starts with a fresh breeze by the castle walls. At noon, the low sun barely warms the walk to the lighthouse, but the air is crisp and clear. The afternoon in Teos ends early due to the 5 PM sunset. The evening is best spent inside the heated, cozy taverns of the Sığacık village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sığacık Kalesi",
+                "hu": "Sığacık Kalesi",
+                "ro": "Sığacık Kalesi",
+                "en": "Sığacık Kalesi"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung, da der Wind in den Festungsgassen im Winter sehr schneidend sein kann.",
+                "hu": "Öltözzön rétegesen, mert a várfalak közötti szűk utcákban télen nagyon metsző tud lenni a tengeri szél.",
+                "ro": "Îmbrăcați-vă în straturi, deoarece vântul printre zidurile cetății poate fi foarte tăios în timpul iernii.",
+                "en": "Dress in layers as the sea breeze channeled through the fortress streets can be very piercing in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Deniz Feneri",
+                "hu": "Deniz Feneri",
+                "ro": "Deniz Feneri",
+                "en": "Deniz Feneri"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht auf die Ägäis; nehmen Sie eine Thermoskanne mit einem heißen Getränk für die Pause am Leuchtturm mit.",
+                "hu": "A tiszta téli levegő távoli kilátást enged az Égei-tengerre; vigyen magával termoszt forró itallal a világítótoronynál tartott pihenőhöz.",
+                "ro": "Aerul curat de iarnă permite o vedere clară asupra mării; luați un termos cu o băutură caldă pentru pauza de la far.",
+                "en": "The clear winter air allows for distant views over the Aegean; bring a thermos with a hot drink for your break at the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Küçük Akkum Plajı",
+                "hu": "Küçük Akkum Plajı",
+                "ro": "Küçük Akkum Plajı",
+                "en": "Küçük Akkum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des leeren Strandes; auch wenn es zu kalt zum Baden ist, reflektiert der helle Sand das sanfte Winterlicht wunderschön.",
+                "hu": "Élvezze az üres strand csendjét; bár fürdeni túl hideg van, a világos homok gyönyörűen veri vissza a lágy téli fényeket.",
+                "ro": "Bucurați-vă de liniștea plajei pustii; deși este prea frig pentru înot, nisipul deschis reflectă superb lumina blândă a iernii.",
+                "en": "Enjoy the silence of the empty beach; although it is too cold for swimming, the pale sand reflects the soft winter light beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Akropol",
+                "hu": "Teos Akropol",
+                "ro": "Teos Akropol",
+                "en": "Teos Akropol"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben angekommen ist es zugig; stellen Sie sicher, dass Sie vor 16:00 Uhr wieder absteigen, bevor es dämmert.",
+                "hu": "A felfelé menet felmelegíti, de a tetőn huzatos az idő; ügyeljen rá, hogy 16:00-ig érjen vissza a lejtőn, mielőtt elszürkül a táj.",
+                "ro": "Urcarea vă va ține de cald, dar sus este curent; asigurați-vă că începeți coborârea înainte de ora 16:00, înainte de amurg.",
+                "en": "The climb will keep you warm, but it is drafty at the top; ensure you start your descent by 4 PM before the twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Theater",
+                "hu": "Teos Theater",
+                "ro": "Teos Theater",
+                "en": "Teos Theater"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte; nutzen Sie ein Sitzkissen, wenn Sie die Akustik des antiken Theaters länger genießen möchten.",
+                "hu": "A kövek árasztják magukból a hideget; használjon egy kispárnát vagy üljön a táskájára, ha hosszabban élvezné az antik színház akusztikáját.",
+                "ro": "Pietrele emană frig; folosiți o pernă de șezut dacă doriți să vă bucurați mai mult timp de acustica teatrului antic.",
+                "en": "The stones radiate cold; use a seat pad or sit on your bag if you want to enjoy the ancient theater's acoustics for a longer time."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple of Dionysos",
+                "hu": "Temple of Dionysos",
+                "ro": "Temple of Dionysos",
+                "en": "Temple of Dionysos"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Sonnenlicht im Winter wirft lange Schatten auf den Dionysos-Tempel, was ideal für stimmungsvolle Fotos ohne Touristenmassen ist.",
+                "hu": "A téli ferde napsugarak hosszú árnyékokat vetnek a Dionüszosz-templomra, ami ideális a hangulatos fotókhoz tömegek nélkül.",
+                "ro": "Lumina piezișă a iernii aruncă umbre lungi peste Templul lui Dionysos, fiind ideală pentru fotografii de atmosferă fără mulțimi.",
+                "en": "The slanting winter sunlight casts long shadows over the Dionysos Temple, making it ideal for atmospheric photos without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos",
+                "hu": "Teos",
+                "ro": "Teos",
+                "en": "Teos"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, sollten Sie Ihren Besuch hier bis 16:30 Uhr abschließen, um den Rückweg noch bei Resthelligkeit zu finden.",
+                "hu": "Mivel a nap korán nyugszik, fejezze be a látogatást 16:30-ig, hogy a visszautat még a maradék világosságban tehesse meg.",
+                "ro": "Deoarece soarele apune devreme, terminați vizita până la 16:30 pentru a găsi drumul de întoarcere pe lumină.",
+                "en": "As the sun sets early, finish your visit by 4:30 PM to ensure you can find your way back while there is still some natural light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Induljon a tekintélyes Sığacık várból, majd tekerjen a part mentén, hogy megcsodálja a Büyük Akkum és az eldugott Ekmeksiz strandokat. Délben az ősi partvonal felé veszi az irányt, pontosan ott megpihenve, ahol a Teos ókori kikötője virágzott. A délután a múlt kereskedelmi központján, a Teos Agorán és a festői Színházon vezet keresztül. Az este a hatalmas Teos területén ér véget, évszázados olajfaligetek között kerekezve a naplementében.",
         "ro": "Începeți la robustul Castel Sığacık înainte de a pedala de-a lungul coastei spre plajele Büyük Akkum și golful izolat Ekmeksiz. La prânz, vă îndreptați spre coasta antică, oprindu-vă exact unde prospera odată portul antic Teos. După-amiaza vă poartă prin inima comercială a trecutului la Agora Teos și la spectaculosul Teatru antic. Seara se încheie în vastul sit Teos, pedalând încet prin livezile de măslini seculari care înconjoară orașul.",
         "en": "Kick off your ride at the sturdy Sığacık Castle before pedaling along the coast to feel the sand at both Büyük Akkum and the secluded Ekmeksiz Beach. Midday leads you toward the ancient coastline, resting exactly where the Teos Antic Harbor once thrived. The afternoon takes you through the mercantile heart of the past at the Teos Agora and the scenic rows of the ancient Theater. Evening wraps up in the vast Teos site, cycling gently through century-old olive groves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf den rutschigen Straßen von Sığacık am Morgen. Der Weg zum Strand ist nass und windig, was das Treten erschwert. In den Ruinen von Teos am Nachmittag sind die unbefestigten Wege oft schlammig; schieben Sie das Rad an steilen Stellen. Abends kehren wir durchnässt, aber zufrieden zum Hafen zurück, um die Räder sicher unterzustellen.",
+            "hu": "Reggel óvatosan hajtsunk Sığacık csúszós aszfaltján. A tengerparti út szeles és vizes, ami nehezíti a haladást. Délután Teos romjai között a földutak sárosak lehetnek; a meredekebb részeken érdemes tolni a bringát. Este ázottan, de elégedetten érünk vissza a kikötőbe, ahol keressünk fedett tárolót a bicikliknek.",
+            "ro": "Atenție pe străzile alunecoase din Sığacık dimineața. Drumul spre plajă este ud și vântos, îngreunând pedalarea. După-amiaza în Teos, drumurile neasfaltate sunt noroioase; împingeți bicicleta în zonele abrupte. Seara ne întoarcem uzi spre port, căutând un loc acoperit pentru a lăsa bicicletele.",
+            "en": "Be careful on Sığacık's slippery streets in the morning. The coastal road is wet and windy, making pedaling harder. In the afternoon at Teos, unpaved paths are muddy; consider pushing your bike on steep sections. In the evening, we return soaked but satisfied to the harbor to find a sheltered spot for the bikes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sığacık Kalesi",
+                "hu": "Sığacık Kalesi",
+                "ro": "Sığacık Kalesi",
+                "en": "Sığacık Kalesi"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die glatten Steinwege innerhalb der Burg; parken Sie das Rad draußen und erkunden Sie den Innenbereich lieber zu Fuß.",
+                "hu": "Kerülje a várfalon belüli sima kőburkolatot; parkoljon le kint, és gyalog fedezze fel a belső részt a balesetek elkerülése végett.",
+                "ro": "Evitați pavajul lucios din interiorul cetății; parcați bicicleta afară și explorați interiorul pe jos pentru a evita accidentele.",
+                "en": "Avoid the smooth stone paving inside the castle; park outside and explore the interior on foot to prevent slipping on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Büyük Akkum Plajı",
+                "hu": "Büyük Akkum Plajı",
+                "ro": "Büyük Akkum Plajı",
+                "en": "Büyük Akkum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Seitenwinde auf dem Küstenweg; der Regen macht die Kurven zum Strand gefährlich, bremsen Sie frühzeitig ab.",
+                "hu": "Vigyázzon az oldalszélre a parti úton; az eső miatt a strandhoz vezető kanyarok veszélyesek, fékezzen időben a csúszós szakaszon.",
+                "ro": "Atenție la vântul lateral pe drumul de coastă; ploaia face virajele spre plajă periculoase, frânați din timp pe zonele umede.",
+                "en": "Watch out for crosswinds on the coastal road; the rain makes the turns to the beach dangerous, so brake early on the slick asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekmeksiz Beach",
+                "hu": "Ekmeksiz Beach",
+                "ro": "Ekmeksiz Beach",
+                "en": "Ekmeksiz Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher ist ungeschützt; tragen Sie eine komplette Regenmontur, da Sie durch tief hängende Wolken und Sprühregen fahren.",
+                "hu": "Az idevezető út teljesen nyitott; viseljen teljes esőfelszerelést, mert átázhat a tengeri permettől és a sűrű esőtől menet közben.",
+                "ro": "Drumul până aici este expus; purtați echipament complet de ploaie, deoarece veți trece prin zone cu multă umezeală și vânt.",
+                "en": "The path here is fully exposed; wear full rain gear as you will be riding through heavy spray and driving rain along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Antic Harbor",
+                "hu": "Teos Antic Harbor",
+                "ro": "Teos Antic Harbor",
+                "en": "Teos Antic Harbor"
+              },
+              "tip_5lang": {
+                "de": "Die Stege am Hafen sind extrem rutschig; halten Sie Abstand zum Wasserrand und sichern Sie das Rad an einem festen Pfosten.",
+                "hu": "A kikötői kövek és mólók rendkívül csúszósak; tartson távolságot a vízparttól, és rögzítse a bringát egy stabil oszlophoz.",
+                "ro": "Pietrele din port sunt extrem de alunecoase; păstrați distanța de marginea apei și asigurați bicicleta de un stâlp solid.",
+                "en": "The harbor stones and piers are extremely slippery; keep your distance from the water's edge and secure your bike to a sturdy post."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Agora",
+                "hu": "Teos Agora",
+                "ro": "Teos Agora",
+                "en": "Teos Agora"
+              },
+              "tip_5lang": {
+                "de": "Schlammige Pfützen können tief sein und lose Steine verbergen; fahren Sie langsam durch die Agora, um technische Defekte zu vermeiden.",
+                "hu": "A sáros tócsák mélyek lehetnek és laza köveket rejthetnek; hajtson lassan az Agora területén a technikai hibák elkerülése érdekében.",
+                "ro": "Bălțile noroioase pot fi adânci și pot ascunde pietre mobile; pedalați încet prin Agora pentru a evita defecțiunile tehnice.",
+                "en": "Muddy puddles can be deep and hide loose stones; ride slowly through the Agora area to avoid any mechanical issues with your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Theater",
+                "hu": "Teos Theater",
+                "ro": "Teos Theater",
+                "en": "Teos Theater"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad am Eingang des Theaters; der schlammige Untergrund macht das Fahren direkt an den Ruinen fast unmöglich.",
+                "hu": "Parkoljon le a színház bejáratánál; a sáros talaj szinte lehetetlenné teszi a tekerést közvetlenül a romok mellett.",
+                "ro": "Parcați bicicleta la intrarea în teatru; solul noroios face pedalarea direct lângă ruine aproape imposibilă.",
+                "en": "Park your bike at the theater entrance; the muddy ground makes riding directly next to the ruins almost impossible."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos",
+                "hu": "Teos",
+                "ro": "Teos",
+                "en": "Teos"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Rückfahrt im Regen; nasse Felgen haben einen deutlich längeren Bremsweg auf dem Weg zurück zum Dorf.",
+                "hu": "Ellenőrizze a fékeket az esős visszaindulás előtt; a vizes felnik miatt a fékút jelentősen megnő a faluba vezető lejtőkön.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie; jantele ude măresc considerabil distanța de frânare pe drumul spre sat.",
+                "en": "Check your brakes before heading back in the rain; wet rims result in a much longer braking distance on the way back to the village."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start in Sığacık bei klarem Himmel. Die Küstenstraße zum Strand ist im Winter windig, was warme Handschuhe erfordert. Mittags sind die Ruinen von Teos in weiches Licht getaucht, ideal zum Radeln ohne Hitze. Ab 16:30 Uhr wird es merklich kälter und dunkler, sodass wir das Radfahren beenden und uns aufwärmen.",
+            "hu": "Hűvös, tiszta reggel Sığacıkban. A tengerparti út a strand felé szeles, meleg kesztyűre szükség lesz a kormányon. Délben Teos romjai lágy fényben úsznak, tökéletes az idő a biciklizéshez hőség nélkül. 16:30 után érezhetően hűl a levegő, ideje befejezni a túrát és felmelegedni.",
+            "ro": "Un început răcoros în Sığacık sub un cer senin. Drumul spre plajă este vântos iarna, necesitând mănuși călduroase. La prânz, ruinele din Teos sunt scăldate într-o lumină blândă, ideală pentru pedalat fără caniculă. După ora 16:30 se face vizibil mai frig, așa că încheiem tura.",
+            "en": "A chilly but clear start in Sığacık. The coastal road to the beach is windy in winter, so warm gloves are a must on the handlebars. At noon, Teos ruins are bathed in soft light, perfect for cycling without the heat. After 4:30 PM, it gets noticeably colder, time to finish the ride and warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sığacık Kalesi",
+                "hu": "Sığacık Kalesi",
+                "ro": "Sığacık Kalesi",
+                "en": "Sığacık Kalesi"
+              },
+              "tip_5lang": {
+                "de": "Die Burgmauer schützt vor dem Wind, aber beim Radfahren kühlt man schnell aus; tragen Sie ein winddichtes Stirnband unter dem Helm.",
+                "hu": "A várfal véd a széltől, de a menetszélben hamar kihűlhet; viseljen szélálló fejpántot a sisak alatt a fülvédelme érdekében.",
+                "ro": "Zidul cetății protejează de vânt, dar în timpul mersului vă puteți răci rapid; purtați o bentiță rezistentă la vânt sub cască.",
+                "en": "The castle wall protects from the wind, but you can chill quickly while riding; wear a windproof headband under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Büyük Akkum Plajı",
+                "hu": "Büyük Akkum Plajı",
+                "ro": "Büyük Akkum Plajı",
+                "en": "Büyük Akkum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Strandweg ist im Winter verlassen und friedlich; nutzen Sie die leeren Parkplätze, um das Rad sicher abzustellen und kurz durchzuatmen.",
+                "hu": "A strandhoz vezető út télen elhagyatott és békés; használja ki az üres parkolókat a bringa biztonságos leállításához egy rövid pihenőre.",
+                "ro": "Drumul spre plajă este pustiu și liniștit iarna; folosiți parcările goale pentru a lăsa bicicleta în siguranță pentru o scurtă pauză.",
+                "en": "The beach road is deserted and peaceful in winter; take advantage of the empty parking lots to safely secure your bike for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekmeksiz Beach",
+                "hu": "Ekmeksiz Beach",
+                "ro": "Ekmeksiz Beach",
+                "en": "Ekmeksiz Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hierher hält den Kreislauf in Schwung; oben angekommen kühlt der kalte Seewind aber sofort ab, behalten Sie die Jacke an.",
+                "hu": "Az idevezető emelkedő pezsdíti a vérkeringést; a tetőre érve azonban a hideg tengeri szél azonnal lehűt, ne vegye le a kabátot.",
+                "ro": "Urcarea până aici vă va ține activ, dar odată ajunși sus, vântul rece de mare vă va răci imediat; nu vă scoateți jacheta.",
+                "en": "The climb up here gets your circulation going; however, at the top, the cold sea wind will chill you instantly, so keep your jacket on."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Antic Harbor",
+                "hu": "Teos Antic Harbor",
+                "ro": "Teos Antic Harbor",
+                "en": "Teos Antic Harbor"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Hafen sehr ruhig; achten Sie beim Fahren auf dem Kies auf loses Gestein, das durch Winterstürme auf den Weg gelangt ist.",
+                "hu": "Télen a kikötő nagyon csendes; a murvás úton ügyeljen a téli viharok által kihordott nagyobb kövekre, amelyek defektet okozhatnak.",
+                "ro": "Iarna, portul este foarte liniștit; pe drumul cu pietriș, fiți atenți la pietrele mari aduse de furtuni care pot cauza defecțiuni.",
+                "en": "The harbor is very quiet in winter; on the gravel path, watch out for larger stones washed up by winter storms that could cause a flat."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Agora",
+                "hu": "Teos Agora",
+                "ro": "Teos Agora",
+                "en": "Teos Agora"
+              },
+              "tip_5lang": {
+                "de": "Das ebene Gelände der Agora ist ideal zum entspannten Radeln; genießen Sie die Einsamkeit, aber behalten Sie die Uhrzeit im Auge.",
+                "hu": "Az Agora sík terepe ideális egy kényelmes tekeréshez; élvezze a magányt a romok között, de figyelje az idő múlását a korai sötétedés miatt.",
+                "ro": "Terenul plat al Agorei este ideal pentru o pedalare relaxată; bucurați-vă de singurătatea dintre ruine, dar monitorizați timpul.",
+                "en": "The flat terrain of the Agora is ideal for relaxed cycling; enjoy the solitude among the ruins but keep an eye on the time."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Theater",
+                "hu": "Teos Theater",
+                "ro": "Teos Theater",
+                "en": "Teos Theater"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und blendet beim Radfahren in Richtung Theater; eine Sonnenbrille ist auch im Winter für die Fahrsicherheit wichtig.",
+                "hu": "A nap alacsonyan jár és elvakíthat a színház felé tekerve; a napszemüveg télen is fontos a biztonságos biciklizéshez.",
+                "ro": "Soarele este jos și vă poate orbi în timp ce pedalați spre teatru; ochelarii de soare sunt importanți și iarna pentru siguranță.",
+                "en": "The sun is low and can blind you while cycling towards the theater; sunglasses are important for safety even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos",
+                "hu": "Teos",
+                "ro": "Teos",
+                "en": "Teos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour spätestens um 16:45 Uhr; ohne Beleuchtung am Rad ist die Rückfahrt nach Sonnenuntergang auf den Landstraßen riskant.",
+                "hu": "Legkésőbb 16:45-kor fejezze be a túrát; kerékpáros világítás nélkül a naplemente utáni visszautat kockázatos megtenni a közutakon.",
+                "ro": "Încheiați turul cel târziu la 16:45; fără lumini la bicicletă, drumul de întoarcere după apus este riscant pe drumurile publice.",
+                "en": "Finish the tour by 4:45 PM at the latest; without bike lights, the return trip after sunset is risky on the public roads."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Útja az impozáns Sığacık vártól indul, megalapozva a történelmi hangulatot, mielőtt a Labranda Lebedos közeli elegáns partvidékre hajtana. Délben elmerül az ókorban a Teos ókori kikötőjénél, felidézve a régió hatalmas tengeri múltját. A délután rövid utazásokat tartogat a nyüzsgő Teos Agora és a lenyűgöző Dionüszosz-templom között. Zárja a napot a központi Teos romjainál, végül pedig csodálja meg az Ekmeksiz strand csodás naplementéjét.",
         "ro": "Plimbarea cu mașina începe la impresionantul Castel Sığacık, coborând apoi spre coasta bine îngrijită de lângă Labranda Lebedos. La prânz faceți trecerea spre antichitate, parcând lângă Portul Antic Teos pentru a reflecta asupra istoriei maritime. După-amiaza implică deplasări scurte între vibranta Agora Teos și maiestuosul Templu al lui Dionis. Încheiați ziua explorând ruinele principale din Teos și admirând apusul la superba plajă Ekmeksiz.",
         "en": "Your drive starts at the impressive Sığacık Castle, setting a historical baseline before cruising down to the manicured coast near Labranda Lebedos. By midday, you transition into antiquity, parking near the serene Teos Antic Harbor to reflect on the region's ancient maritime power. The afternoon involves easy hops between the vibrant Teos Agora and the awe-inspiring Temple of Dionysos. Cap off your day exploring the main Teos ruins before watching the sunset at Ekmeksiz Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt durch Sığacık bei Regen entspannt. Mittags erreichen wir das Resort, wo man im Trockenen den Blick auf das graue Meer genießen kann. Der Nachmittag in den Ruinen von Teos ist nass; parken Sie so nah wie möglich an den Eingängen. Abends beleuchten die nassen Straßen den Weg zurück zum Hafen in einem besonderen Glanz.",
+            "hu": "Reggel kényelmes az út Sığacıkon keresztül az esőben. Délben a tengerparti üdülőnél fedett helyről élvezhetjük a szürke tenger látványát. Délután Teos romjai vizesek; parkoljon a lehető legközelebb a bejáratokhoz a sár elkerülése végett. Este a vizes aszfalton tükröződő fények különleges hangulatot adnak a kikötőbe vezető útnak.",
+            "ro": "Dimineața, drumul prin Sığacık pe ploaie este relaxant. La prânz ajungem la complexul de la malul mării, unde putem admira marea din locuri acoperite. După-amiaza la Teos este umedă; parcați cât mai aproape de intrări. Seara, luminile reflectate pe asfaltul ud oferă o atmosferă deosebită drumului spre port.",
+            "en": "In the morning, the drive through Sığacık in the rain is comfortable. At noon, we reach the seaside resort where you can enjoy the view of the grey sea from a sheltered spot. The afternoon at Teos is wet; park as close to the entrances as possible. In the evening, the lights reflecting on the wet asphalt give a special glow to the drive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sığacık Kalesi",
+                "hu": "Sığacık Kalesi",
+                "ro": "Sığacık Kalesi",
+                "en": "Sığacık Kalesi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Parkplatz am Hafen; die unbefestigten Flächen am Burgrand können bei Regen schnell aufweichen.",
+                "hu": "Parkoljon a kikötő melletti szilárd burkolatú parkolóban; a vár melletti földes részek esőben hamar felázhatnak és sárossá válhatnak.",
+                "ro": "Parcați în parcarea asfaltată de lângă port; zonele neamenajate de lângă cetate se pot înmuia rapid din cauza ploii.",
+                "en": "Park in the paved parking lot near the harbor; the unpaved areas by the castle edge can quickly become soft and muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Labranda Lebedos Princess",
+                "hu": "Labranda Lebedos Princess",
+                "ro": "Labranda Lebedos Princess",
+                "en": "Labranda Lebedos Princess"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Lobby oder das Café des Resorts für eine trockene Pause mit Panoramablick auf die stürmische Küste.",
+                "hu": "Használja az üdülő hallját vagy kávézóját egy száraz pihenőre, ahonnan panorámás kilátás nyílik a viharos tengerpartra.",
+                "ro": "Folosiți holul sau cafeneaua complexului pentru o pauză uscată, cu o vedere panoramică asupra coastei agitate.",
+                "en": "Use the resort lobby or café for a dry break with a panoramic view of the stormy coastline from behind the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Antic Harbor",
+                "hu": "Teos Antic Harbor",
+                "ro": "Teos Antic Harbor",
+                "en": "Teos Antic Harbor"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Zufahrtsstraße; Pfützen können tief sein und die Straßenränder sind bei Regen instabil.",
+                "hu": "Vezessen óvatosan a szűk bekötőúton; a tócsák mélyek lehetnek, és az útpadka esőben instabillá válhat a kikötő felé.",
+                "ro": "Conduceți cu atenție pe drumul îngust de acces; bălțile pot fi adânci, iar marginile drumului pot fi instabile din cauza ploii.",
+                "en": "Drive carefully on the narrow access road; puddles can be deep and the road shoulders may be unstable towards the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Agora",
+                "hu": "Teos Agora",
+                "ro": "Teos Agora",
+                "en": "Teos Agora"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto am Haupteingang ab; so minimieren Sie den Fußweg durch den Regen, um die zentralen Ruinen der Agora zu sehen.",
+                "hu": "Állítsa le az autót a főbejáratnál; így minimalizálhatja az esőben megtett utat az Agora központi romjaihoz.",
+                "ro": "Lăsați mașina la intrarea principală; astfel veți merge mai puțin prin ploaie pentru a vedea ruinele centrale din Agora.",
+                "en": "Park the car at the main entrance; this minimizes your walk through the rain to see the central ruins of the Agora."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple of Dionysos",
+                "hu": "Temple of Dionysos",
+                "ro": "Temple of Dionysos",
+                "en": "Temple of Dionysos"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Tempel kann rutschig sein; halten Sie eine Taschenlampe bereit, falls die Wolken den Nachmittag stark verdunkeln.",
+                "hu": "A parkolótól a templomig tartó út csúszós lehet; tartson készenlétben zseblámpát, ha a sötét felhők nagyon elhomályosítanák a délutánt.",
+                "ro": "Drumul de la parcare la templu poate fi alunecos; aveți o lanternă la îndemână dacă norii întunecă vizibil după-amiaza.",
+                "en": "The path from the parking to the temple can be slippery; have a flashlight ready if the dark clouds make the afternoon very dim."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos",
+                "hu": "Teos",
+                "ro": "Teos",
+                "en": "Teos"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto laufen, um die Scheiben zu beschlagen; genießen Sie den Blick auf die Ruinen gemütlich vom trockenen Fahrzeug aus.",
+                "hu": "Hagyja járni a fűtést az autóban a páramentesítéshez; élvezze a romok látványát kényelmesen, a száraz jármű ablakából.",
+                "ro": "Lăsați căldura pornită pentru dezaburire; bucurați-vă de vederea ruinelor confortabil, din interiorul uscat al vehiculului.",
+                "en": "Keep the car heater on to prevent fogging; enjoy the view of the ruins comfortably from inside your dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekmeksiz Beach",
+                "hu": "Ekmeksiz Beach",
+                "ro": "Ekmeksiz Beach",
+                "en": "Ekmeksiz Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt die Sichtverhältnisse; bei starkem Regen und Nebel ist die kurvenreiche Küstenstraße zurück nach Sığacık tückisch.",
+                "hu": "Indulás előtt ellenőrizze a látási viszonyokat; erős esőben és ködben a Sığacıkba vezető kanyargós parti út veszélyes lehet.",
+                "ro": "Verificați vizibilitatea înainte de plecare; în ploaie torențială sau ceață, drumul sinuos de coastă spre Sığacık este periculos.",
+                "en": "Check visibility before leaving; in heavy rain or fog, the winding coastal road back to Sığacık can be treacherous."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist es kühl in Sığacık, das Auto ist der perfekte Rückzugsort. Mittags bietet die Fahrt entlang der Küste klare Sicht auf die winterliche Ägäis. Der Nachmittag in Teos ist erfrischend, aber planen Sie die Rückkehr vor Sonnenuntergang um 17:00 Uhr. Abends kehren wir zum gemütlich beleuchteten Hafen zurück, wo das Parken im Winter einfach ist.",
+            "hu": "Hűvös reggel Sığacıkban, az autó tökéletes menedék a szél elől. Délben a tengerparti út mentén tiszta kilátás nyílik a téli Égei-tengerre. Teos délutáni felfedezése frissítő, de tervezze a visszautat a 17:00-s naplemente előtt. Este a hangulatosan kivilágított kikötőbe térünk vissza, ahol télen könnyű a parkolás.",
+            "ro": "Dimineață răcoroasă în Sığacık, mașina fiind refugiul perfect împotriva vântului. La prânz, drumul de coastă oferă o vedere clară asupra mării. Explorarea ruinelor Teos este revigorantă, dar planificați întoarcerea înainte de ora 17:00. Seara revenim în portul luminat, unde parcarea este ușoară iarna.",
+            "en": "A chilly morning in Sığacık, the car is the perfect refuge from the wind. At noon, the drive along the coast offers clear views of the winter Aegean. Exploring Teos in the afternoon is refreshing, but plan your return before the 5 PM sunset. In the evening, return to the warmly lit harbor where parking is easy in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sığacık Kalesi",
+                "hu": "Sığacık Kalesi",
+                "ro": "Sığacık Kalesi",
+                "en": "Sığacık Kalesi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Hafen; im Winter gibt es keine Parkplatznot, und Sie sind sofort im Schutz der Burgmauern.",
+                "hu": "Használja a közvetlenül a kikötő melletti parkolókat; télen nincs parkolóhiány, és percek alatt a védett várfalak közé érhet.",
+                "ro": "Folosiți parcările direct din port; iarna nu este lipsă de locuri și puteți ajunge imediat la adăpostul zidurilor cetății.",
+                "en": "Use the parking lots directly by the harbor; there is no shortage of spots in winter, and you'll be within the castle walls in minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Labranda Lebedos Princess",
+                "hu": "Labranda Lebedos Princess",
+                "ro": "Labranda Lebedos Princess",
+                "en": "Labranda Lebedos Princess"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter ruhig; parken Sie am Aussichtspunkt für ein paar schnelle Fotos der Küste, ohne lange in der Kälte zu stehen.",
+                "hu": "Az üdülő környéke télen csendes; parkoljon le a kilátópontnál pár gyors fotó erejéig, így nem kell sokáig a hidegben tartózkodnia.",
+                "ro": "Zona este liniștită iarna; parcați la punctul de belvedere pentru câteva fotografii rapide, fără a sta mult timp în frig.",
+                "en": "The resort area is quiet in winter; park at the viewpoint for a few quick photos of the coast without spending too much time in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Antic Harbor",
+                "hu": "Teos Antic Harbor",
+                "ro": "Teos Antic Harbor",
+                "en": "Teos Antic Harbor"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Ende der befestigten Straße; im Winter ist der Seewind hier besonders kalt, nehmen Sie eine dicke Jacke für den kurzen Gang zum Wasser mit.",
+                "hu": "Hajtson a szilárd út végéig; télen a tengeri szél itt különösen hideg, vegyen fel vastag kabátot a vízparti rövid sétához.",
+                "ro": "Conduceți până la capătul drumului amenajat; iarna vântul de mare este foarte rece aici, purtați o jachetă groasă pentru plimbarea scurtă.",
+                "en": "Drive to the end of the paved road; the sea wind is especially cold here in winter, so put on a heavy jacket for the short walk to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos Agora",
+                "hu": "Teos Agora",
+                "ro": "Teos Agora",
+                "en": "Teos Agora"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter den Olivenbäumen am Eingang; das Gelände der Agora ist im Winter sehr offen und zugig.",
+                "hu": "Parkoljon szélvédett helyen a bejáratnál lévő olajfák mögött; az Agora területe télen nagyon nyitott és huzatos lehet.",
+                "ro": "Parcați într-un loc ferit de vânt în spatele măslinilor de la intrare; zona Agorei este foarte deschisă și expusă iarna.",
+                "en": "Park in a wind-sheltered spot behind the olive trees at the entrance; the Agora area is very open and can be quite drafty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple of Dionysos",
+                "hu": "Temple of Dionysos",
+                "ro": "Temple of Dionysos",
+                "en": "Temple of Dionysos"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Sonne eignet sich hervorragend für Fotos; nutzen Sie das Auto, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Az alacsony téli nap meleg fényei kiválóak a fotózáshoz; használja az autót a felmelegedésre a romok megtekintése között.",
+                "ro": "Lumina caldă a soarelui de iarnă este excelentă pentru fotografii; folosiți mașina pentru a vă încălzi între vizitarea ruinelor.",
+                "en": "The warm light of the low winter sun is excellent for photography; use the car to warm up between viewing different parts of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Teos",
+                "hu": "Teos",
+                "ro": "Teos",
+                "en": "Teos"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihren Rundgang bis 16:45 Uhr ab, da die Temperaturen rapide sinken, sobald die Sonne hinter den Hügeln verschwindet.",
+                "hu": "Fejezze be a sétát 16:45-ig, mert a hőmérséklet gyorsan csökken, amint a nap eltűnik a dombok mögött.",
+                "ro": "Încheiați plimbarea până la 16:45, deoarece temperatura scade rapid imediat ce soarele dispare după dealuri.",
+                "en": "Finish your walk by 4:45 PM as the temperature drops rapidly as soon as the sun disappears behind the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekmeksiz Beach",
+                "hu": "Ekmeksiz Beach",
+                "ro": "Ekmeksiz Beach",
+                "en": "Ekmeksiz Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang sicher vom Auto aus; die erhöhten Parkplätze bieten einen Logenplatz für das Farbspiel über der Ägäis.",
+                "hu": "Élvezze a naplementét biztonságban, az autóból; a magasabban fekvő parkolók kiváló rálátást biztosítanak az Égei-tenger feletti színjátékra.",
+                "ro": "Bucurați-vă de apus în siguranță din mașină; parcările de la înălțime oferă o vedere excelentă asupra spectacolului de culori de peste mare.",
+                "en": "Enjoy the sunset safely from inside the car; the elevated parking spots offer a front-row seat for the color display over the Aegean."
+              }
+            }
+          ]
+        }
       }
     }
   }

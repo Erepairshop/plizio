@@ -183,6 +183,224 @@
         "hu": "Morning: Kezdje a napot a város adminisztratív szívének, a történelmi városházának és a környező terek hangulatának befogadásával.\nMidday: Sétáljon végig a kanyargós középkori utcákon, és látogasson el a gótikus és barokk stílusú, lenyűgöző vallási szentélyekbe.\nAfternoon: Merüljön el a helyi paloták arisztokratikus történelmében, csodálja meg Tudela elitjének díszes lépcsőházait és grandiózus udvarait.\nEvening: Zárja a gyalogtúrát a félelmetes Torre Monrealnál, élvezve az óváros ősi erődítményeire vetülő halványuló esti fényeket.",
         "ro": "Morning: Începeți ziua absorbind atmosfera primăriei istorice, inima administrativă a orașului, plină de viață și arhitectură deosebită.\nMidday: Plimbați-vă pe străzile medievale șerpuite, oprindu-vă la sanctuare religioase cheie care expun stiluri gotice și baroce complexe.\nAfternoon: Pătrundeți adânc în istoria aristocratică la palatele locale, admirând scările ornamentate și curțile mărețe ale elitei din Tudela.\nEvening: Încheiați turul pietonal la formidabilul Torre Monreal, bucurându-vă de lumina apusului peste fortificațiile antice ale orașului vechi.",
         "en": "Morning: Start the day by soaking in the administrative heart of the city at the historic town hall.\nMidday: Wander through the winding medieval streets, stopping at key religious sanctuaries that showcase intricate Gothic and Baroque styles.\nAfternoon: Dive deep into aristocratic history at the local palaces, marveling at the ornate stairs and grand courtyards of Tudela’s elite.\nEvening: Conclude your walking tour at the formidable Torre Monreal, enjoying the fading light over the old town's ancient fortifications."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tudela zeigt sich bei Regen von seiner geheimnisvollen Seite. Am Vormittag bieten die engen Gassen des jüdischen Viertels und die Arkaden der Plaza Nueva guten Schutz. Mittags laden die prachtvollen Paläste zu einer Reise in die Geschichte ein. Der Nachmittag gehört den sakralen Schätzen im trockenen Innenraum. Abends glänzen die nassen Pflastersteine im Schein der Straßenlaternen.",
+            "hu": "Tudela esőben is lenyűgöző, a szűk óvárosi utcák természetes ernyőként védenek. Reggel a főtér árkádjai alatt kezdünk, délben pedig a város nemesi palotáinak belső tereiben keresünk menedéket. Délután a templomok művészeti kincseit csodáljuk meg szárazon. Az este a vizes macskakövek csillogásával és a hangulatos, párás fényekkel zárul a történelmi falak között.",
+            "ro": "Tudela pe ploaie are un farmec aparte, cu străduțe înguste care oferă adăpost. Dimineața explorăm arcadele primăriei, iar la prânz ne refugiem în palatele nobiliare pline de istorie. După-amiaza este dedicată vizitării bisericilor, unde interiorul uscat adăpostește comori baroce. Seara, reflexiile luminilor pe asfaltul ud creează o atmosferă magică în centrul vechi.",
+            "en": "Tudela reveals a mysterious side in the rain. In the morning, the narrow Jewish Quarter streets and Plaza Nueva's arcades provide natural shelter. At noon, magnificent palaces invite you on an indoor journey through history. The afternoon is reserved for sacred treasures in dry interiors. By evening, the wet cobblestones glisten under the streetlights, creating a romantic vibe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Tudela",
+                "hu": "Ayuntamiento de Tudela",
+                "ro": "Ayuntamiento de Tudela",
+                "en": "Ayuntamiento de Tudela"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Rathauses, um die Renaissance-Fassade trocken zu bewundern; achten Sie auf den glatten Boden am Eingangsbereich bei Nässe.",
+                "hu": "Használja ki a városháza melletti árkádok védelmét a homlokzat megtekintéséhez; vigyázzon, mert a vizes kőburkolat a bejáratnál rendkívül csúszós lehet.",
+                "ro": "Folosiți arcadele primăriei pentru a admira fațada renascentistă fără a vă uda; aveți grijă la pavajul umed de la intrare care poate deveni alunecos.",
+                "en": "Use the town hall arcades to admire the Renaissance facade while staying dry; be careful as the wet stone pavement near the entrance can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Nicolás de Bari",
+                "hu": "Iglesia de San Nicolás de Bari",
+                "ro": "Iglesia de San Nicolás de Bari",
+                "en": "Iglesia de San Nicolás de Bari"
+              },
+              "tip_5lang": {
+                "de": "Der tiefe Eingangsbereich bietet perfekten Schutz vor Regen, während Sie das romanische Tympanon studieren; bringen Sie einen stabilen Regenschirm mit.",
+                "hu": "A mély bejárati rész tökéletes menedéket nyújt az eső elől, miközben a román kori domborművet nézi; egy strapabíró esernyő mindenképpen ajánlott itt.",
+                "ro": "Intrarea adâncă oferă adăpost perfect împotriva ploii în timp ce studiați timpanul romanic; asigurați-vă că aveți o umbrelă rezistentă la vânt.",
+                "en": "The deep entrance porch provides perfect shelter from the rain while you study the Romanesque tympanum; carry a sturdy umbrella for the short walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Marqués de Huarte",
+                "hu": "Palacio de Marqués de Huarte",
+                "ro": "Palacio de Marqués de Huarte",
+                "en": "Palacio de Marqués de Huarte"
+              },
+              "tip_5lang": {
+                "de": "Dieses barocke Juwel ist der ideale Zufluchtsort bei Regen; besichtigen Sie das prächtige Treppenhaus und die Archive im trockenen Innenraum.",
+                "hu": "Ez a barokk ékszerdoboz ideális menedék esőben; csodálja meg a pompás lépcsőházat és a városi levéltár kincseit a száraz, fedett belső térben.",
+                "ro": "Această bijuterie barocă este refugiul ideal pe ploaie; vizitați scara monumentală și arhivele orașului în interiorul generos și bine protejat.",
+                "en": "This Baroque gem is the ideal refuge during a downpour; explore the magnificent staircase and city archives in the comfort of the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia y convento del Carmen",
+                "hu": "Iglesia y convento del Carmen",
+                "ro": "Iglesia y convento del Carmen",
+                "en": "Iglesia y convento del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe des Klosters passt perfekt zur regnerischen Stimmung; bewundern Sie die Altarbilder im Inneren und nutzen Sie die Zeit für eine Pause.",
+                "hu": "A kolostor csendje tökéletesen illik az esős hangulathoz; csodálja meg a benti oltárképeket, és használja ki az időt egy rövid, nyugodt pihenőre.",
+                "ro": "Liniștea mănăstirii se potrivește perfect cu atmosfera ploioasă; admirați altarele din interior și profitați de moment pentru o pauză spirituală.",
+                "en": "The monastery's silence matches the rainy mood perfectly; admire the altarpieces inside and take advantage of the time for a peaceful break."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Compañía de María",
+                "hu": "Iglesia de la Compañía de María",
+                "ro": "Iglesia de la Compañía de María",
+                "en": "Iglesia de la Compañía de María"
+              },
+              "tip_5lang": {
+                "de": "Die achteckige Kirche bietet einen faszinierenden, trockenen Raum voller barocker Kunst; ideal, um einen kräftigen Regenschauer abzuwarten.",
+                "hu": "A nyolcszögletű templom lenyűgöző és száraz teret kínál, tele barokk művészettel; ideális helyszín egy intenzívebb zápor átvészelésére.",
+                "ro": "Biserica octogonală oferă un spațiu interior fascinant și uscat, plin de artă barocă; este locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "The octagonal church offers a fascinating dry space filled with Baroque art; it is the perfect spot to wait out a heavier burst of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de Gracia",
+                "hu": "Iglesia de Santa María de Gracia",
+                "ro": "Iglesia de Santa María de Gracia",
+                "en": "Iglesia de Santa María de Gracia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort, um dem Wetter zu entfliehen; die dicken Mauern dämpfen das Geräusch des prasselnden Regens wunderbar.",
+                "hu": "Látogasson el erre a történelmi helyszínre, hogy elmeneküljön az időjárás elől; a vastag falak csodásan tompítják a kinti eső kopogását.",
+                "ro": "Vizitați acest loc plin de istorie pentru a scăpa de intemperii; zidurile groase atenuează perfect sunetul ploii care bate în ferestre.",
+                "en": "Visit this historical site to escape the weather; the thick walls wonderfully muffle the sound of the rain pattering outside as you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Monreal",
+                "hu": "Torre Monreal",
+                "ro": "Torre Monreal",
+                "en": "Torre Monreal"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Camera Obscura im Inneren, um die Stadt trotz Regen aus einer einzigartigen, trockenen Perspektive zu sehen; wasserfeste Schuhe sind ratsam.",
+                "hu": "Nézze meg a benti Camera Obscurát, hogy esőben is egyedi, száraz perspektívából lássa a várost; a dombra menet vízálló lábbeli erősen ajánlott.",
+                "ro": "Vizitați Camera Obscura din interior pentru a vedea orașul dintr-o perspectivă unică și uscată; încălțămintea impermeabilă este necesară pentru urcare.",
+                "en": "Visit the Camera Obscura inside to see the city from a unique, dry perspective despite the rain; waterproof shoes are advised for the hill walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Tudela ist oft sonnig, aber von einem kalten Wind geprägt. Vormittags wärmt die tiefstehende Sonne die Fassaden der Altstadt. Mittags bieten die Museen und Kirchen wohlige Wärme. Am Nachmittag taucht das goldene Winterlicht die Stadt in sanfte Farben, bevor es gegen 17:00 Uhr dunkel wird. Der Abend lädt zu einem Spaziergang durch die festlich beleuchteten Straßen ein.",
+            "hu": "Tudela tele a hideg Cierzo széllel érkezik, de a téli napfény ragyogóvá teszi a teret. Reggel a friss levegőn járjuk be a központot, délben pedig a fűtött palotákban melegszünk fel. Délután a korai naplemente hosszú árnyékokat vet a várfalakra, 17 óra után pedig már a karácsonyi fények dominálnak. Érdemes rétegesen öltözni a hűvös, de száraz sétához.",
+            "ro": "Iarna în Tudela este marcată de vântul rece Cierzo, dar cerul rămâne adesea senin. Dimineața explorăm centrul istoric în aerul proaspăt, iar la prânz ne încălzim în muzeele și bisericile orașului. După-amiaza, lumina aurie a iernii creează cadre foto superbe înainte de apusul de la ora 17:00. Seara este perfectă pentru a admira iluminatul festiv din piețele centrale.",
+            "en": "Winter in Tudela is often crisp and sunny, though the cold Cierzo wind can be biting. In the morning, enjoy the fresh air in the old town. At noon, warm up inside the heated museums and churches. By afternoon, the golden winter light casts long shadows before the early 17:00 sunset. The evening is perfect for a brisk walk through the festively lit streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Tudela",
+                "hu": "Ayuntamiento de Tudela",
+                "ro": "Ayuntamiento de Tudela",
+                "en": "Ayuntamiento de Tudela"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne wärmt den Rathausplatz am Vormittag angenehm auf; tragen Sie eine winddichte Jacke gegen den kalten Cierzo-Wind aus dem Ebro-Tal.",
+                "hu": "A délelőtti napsütés kellemesen felmelegíti a városháza előtti teret; viseljen szélálló kabátot az Ebro-völgy felől fújó hideg Cierzo szél ellen.",
+                "ro": "Soarele de dimineață încălzește plăcut piața primăriei; purtați o jachetă rezistentă la vânt pentru a vă proteja de vântul rece Cierzo de pe Ebro.",
+                "en": "The morning sun warms the town hall square pleasantly; wear a windproof jacket to stay cozy against the cold Cierzo wind blowing from the Ebro valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Nicolás de Bari",
+                "hu": "Iglesia de San Nicolás de Bari",
+                "ro": "Iglesia de San Nicolás de Bari",
+                "en": "Iglesia de San Nicolás de Bari"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche bietet einen ruhigen und windgeschützten Ort; bewundern Sie die Details der Kapitelle ohne die Winterkälte der Gassen.",
+                "hu": "A templom belseje csendes és szélvédett helyszín a pihenéshez; csodálja meg a faragott oszlopfőket a szűk utcák téli hidege nélkül.",
+                "ro": "Interiorul bisericii oferă un loc liniștit și ferit de vânt; admirați detaliile capitelurilor fără a simți frigul pătrunzător de afară.",
+                "en": "The interior of the church offers a quiet and wind-sheltered spot; admire the details of the capitals without the winter chill of the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Marqués de Huarte",
+                "hu": "Palacio de Marqués de Huarte",
+                "ro": "Palacio de Marqués de Huarte",
+                "en": "Palacio de Marqués de Huarte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; das prächtige Treppenhaus ist auch im Winter ein beeindruckendes Fotomotiv ohne Windzug.",
+                "hu": "Használja ki a múzeumlátogatást egy kis melegedésre; a pompás lépcsőház télen is lenyűgöző fotótéma, ráadásul itt nem zavarja a hideg huzat.",
+                "ro": "Folosiți vizita la muzeu ca o pauză pentru a vă încălzi; scara monumentală este un subiect foto impresionant chiar și iarna, fiind ferită de curent.",
+                "en": "Use the museum visit as a warm-up break; the magnificent staircase is an impressive photo subject even in winter, sheltered from the draft."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia y convento del Carmen",
+                "hu": "Iglesia y convento del Carmen",
+                "ro": "Iglesia y convento del Carmen",
+                "en": "Iglesia y convento del Carmen"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Wärme des Klosters ist im Winter besonders einladend; planen Sie den Besuch zur Mittagszeit, wenn die Sonne am höchsten steht.",
+                "hu": "A kolostor lelki békéje télen különösen hívogató; tervezze a látogatást délidőre, amikor a kinti napfény a legerősebben világítja meg a bejáratot.",
+                "ro": "Căldura spirituală a mănăstirii este deosebit de primitoare iarna; planificați vizita la prânz, când soarele este cel mai sus pe cer.",
+                "en": "The spiritual warmth of the monastery is especially inviting in winter; plan your visit for midday when the sun is at its highest point outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Compañía de María",
+                "hu": "Iglesia de la Compañía de María",
+                "ro": "Iglesia de la Compañía de María",
+                "en": "Iglesia de la Compañía de María"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Pracht im geschützten Innenraum; die Akustik ist im Winter bei weniger Tourismus besonders eindrucksvoll.",
+                "hu": "Csodálja meg a barokk pompát a védett belső térben; az akusztika télen, a kevesebb turista mellett különösen lenyűgöző és tiszta.",
+                "ro": "Admirați splendoarea barocă în interiorul protejat; acustica este deosebit de impresionantă iarna, când sunt mai puțini turiști în jur.",
+                "en": "Admire the Baroque splendor in the protected interior; the acoustics are particularly impressive in winter with fewer tourists around."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa María de Gracia",
+                "hu": "Iglesia de Santa María de Gracia",
+                "ro": "Iglesia de Santa María de Gracia",
+                "en": "Iglesia de Santa María de Gracia"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp in dieser Kirche hilft, die Kälte zu vergessen; achten Sie auf die frühen Schatten, die das Gebäude am Nachmittag einhüllen.",
+                "hu": "Egy rövid, száraz megálló ebben a templomban segít elfelejteni a kinti hideget; figyelje meg a korai árnyékokat, amelyek délután körbeölelik az épületet.",
+                "ro": "O scurtă oprire în această biserică vă va ajuta să uitați de frig; observați umbrele lungi care încep să învăluie clădirea după-amiaza devreme.",
+                "en": "A short, dry stop in this church helps you forget the cold; notice the early shadows that begin to envelop the building in the mid-afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Monreal",
+                "hu": "Torre Monreal",
+                "ro": "Torre Monreal",
+                "en": "Torre Monreal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick kurz vor Sonnenuntergang um 17 Uhr; oben auf dem Hügel ist es im Winter deutlich windiger als im Tal.",
+                "hu": "Élvezze a panorámát közvetlenül a 17 órai naplemente előtt; a dombtetőn télen jelentősen erősebb a szél, mint a város védettebb utcáin.",
+                "ro": "Bucurați-vă de panorama orașului chiar înainte de apusul de la ora 17:00; pe deal vântul este mult mai puternic iarna decât în centrul vechi.",
+                "en": "Enjoy the panoramic view just before the 17:00 sunset; keep in mind that the hilltop is significantly windier in winter than the city streets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Morning: Tekerjen fel a dombtetőn álló emlékművekhez, hogy látványos panorámával köszöntse Tudelát és a hatalmas mezőgazdasági környezetet.\nMidday: Guruljon vissza a nyüzsgő óváros központjába, útba ejtve a történelmi romokat és az ikonikus városházát a kellemes kerékpárúton.\nAfternoon: Haladjon végig az elegáns paloták és bonyolult templomok között, nagyobb területet bejárva a különböző építészeti korszakok megismeréséért.\nEvening: Kövesse kerékpárral az ősi város határait, és a naplementében a Torre San Julián történelmi maradványainál fejezze be a napot.",
         "ro": "Morning: Pedați până la monumentele de pe deal pentru a vă bucura de o priveliște panoramică spectaculoasă asupra orașului Tudela și a împrejurimilor sale.\nMidday: Coborâți spre centrul vechi plin de viață, vizitând ruine istorice și emblematica primărie de-a lungul traseului dvs. relaxant.\nAfternoon: Alunecați printre palate elegante și biserici complexe, acoperind mai mult teren pentru a aprecia diversele epoci arhitecturale.\nEvening: Urmați vechile limite ale orașului pe bicicletă, încheindu-vă ziua la rămășițele istorice ale Turnului San Julián în timpul apusului.",
         "en": "Morning: Pedal up to the prominent hilltop monuments for a spectacular panoramic greeting of Tudela and its vast agricultural surroundings.\nMidday: Coast back down toward the bustling old town center, visiting historic ruins and the iconic city hall along your breezy route.\nAfternoon: Glide between elegant palaces and intricate churches, covering more ground to appreciate the diverse architectural eras.\nEvening: Follow the ancient city limits on your bike, wrapping up your day at the historic remnants of Torre San Julián as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Tudela bei Regen erfordert Vorsicht, bietet aber eine dynamische Sicht auf die Stadt. Morgens geht es zu den Monumenten auf den Hügeln, wo die Wege rutschig sein können. Mittags bieten die Museen im Zentrum eine willkommene Pause zum Trocknen. Nachmittags erkunden wir die historischen Viertel auf zwei Rädern, bevor wir den Tag bei einem warmen Getränk ausklingen lassen.",
+            "hu": "Az esős biciklis túra Tudelában óvatosságot igényel, de különleges élményt nyújt. Reggel a dombtetői emlékművekhez tekerünk, ahol a sár és a csúszós utak nehezíthetik a haladást. Délben a központi palotákban tartunk pihenőt, hogy megszáradjunk. Délután a városi szakaszokon folytatjuk az utat, figyelve a macskakövekre, majd egy forró tea mellett melegszünk fel.",
+            "ro": "O tură cu bicicleta prin Tudela pe ploaie necesită prudență, dar oferă o perspectivă dinamică. Dimineața urcăm la monumentele de pe deal, unde drumurile pot fi noroioase. La prânz, facem o pauză lungă la palatele din centru pentru a ne usca echipamentul. După-amiaza explorăm cartierele istorice pe două roți, având grijă la pavajul ud, și încheiem ziua la căldură.",
+            "en": "A bike tour through Tudela in the rain requires caution but offers a dynamic view of the city. In the morning, ride to the hilltop monuments where paths may be slippery or muddy. At noon, the central palaces provide a welcome break to dry off. Continue through the historic districts in the afternoon, being mindful of the wet cobblestones, before warming up with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al Corazón de Jesús",
+                "hu": "Monumento al Corazón de Jesús",
+                "ro": "Monumento al Corazón de Jesús",
+                "en": "Monumento al Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg per Rad ist bei Regen anstrengend und rutschig; prüfen Sie Ihre Bremsen vor der Abfahrt ins Tal und tragen Sie eine Regenjacke.",
+                "hu": "A kerékpáros feljutás esőben fárasztó és csúszós lehet; ellenőrizze a fékeket a völgybe való leereszkedés előtt, és viseljen jó esőkabátot.",
+                "ro": "Urcarea cu bicicleta pe ploaie este solicitantă și alunecoasă; verificați frânele înainte de coborârea spre oraș și purtați pelerină de ploaie.",
+                "en": "The bike climb in the rain is strenuous and slippery; check your brakes before the descent back to town and wear a high-quality raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinas de la ermita de San Miguel de Afuera",
+                "hu": "Ruinas de la ermita de San Miguel de Afuera",
+                "ro": "Ruinas de la ermita de San Miguel de Afuera",
+                "en": "Ruinas de la ermita de San Miguel de Afuera"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege rund um die Ruinen können bei Regen schlammig sein; ein Mountainbike oder breitere Reifen sind hier von großem Vorteil.",
+                "hu": "A romok körüli földutak esőben sárosak lehetnek; egy hegyi kerékpár vagy szélesebb gumiabroncs nagy előnyt jelent ezen a szakaszon.",
+                "ro": "Potecile din jurul ruinelor pot deveni noroioase pe ploaie; o bicicletă de munte sau anvelope mai late sunt de mare ajutor pe acest segment.",
+                "en": "The unpaved paths around the ruins can get muddy in the rain; a mountain bike or wider tires are a significant advantage on this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Tudela",
+                "hu": "Ayuntamiento de Tudela",
+                "ro": "Ayuntamiento de Tudela",
+                "en": "Ayuntamiento de Tudela"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter einem der Vorsprünge, während Sie das Rathaus besichtigen; der Platz ist bei Nässe für Radfahrer besonders rutschig.",
+                "hu": "Láncolja le a kerékpárját az egyik tetőpárkány alá, amíg a városházát nézi; a tér kövezete vizesen rendkívül csúszós a vékony kerekeknek.",
+                "ro": "Legarea bicicletei sub o streașină este recomandată în timp ce vizitați primăria; pavajul pieței este foarte alunecos pentru roțile subțiri.",
+                "en": "Secure your bike under a ledge while visiting the town hall; the square's pavement is extremely slippery for bicycles when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Nicolás de Bari",
+                "hu": "Iglesia de San Nicolás de Bari",
+                "ro": "Iglesia de San Nicolás de Bari",
+                "en": "Iglesia de San Nicolás de Bari"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, um sich unter dem Portal unterzustellen; wischen Sie den Sattel trocken, bevor Sie Ihre Fahrt durch die Altstadt fortsetzen.",
+                "hu": "Gyors megálló, hogy meghúzódjon a kapualj alatt; törölje szárazra a nyerget, mielőtt folytatná az útját az óváros szűk utcáin keresztül.",
+                "ro": "O oprire rapidă pentru a vă adăposti sub portal; ștergeți șaua înainte de a vă continua drumul prin străduțele înguste ale centrului vechi.",
+                "en": "A quick stop to take cover under the portal; wipe your seat dry before continuing your journey through the narrow streets of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Marqués de Huarte",
+                "hu": "Palacio de Marqués de Huarte",
+                "ro": "Palacio de Marqués de Huarte",
+                "en": "Palacio de Marqués de Huarte"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die längere Pause im trockenen Palast; ideal, um die Kleidung etwas trocknen zu lassen.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és élvezze a hosszabb pihenőt a száraz palotában; ideális időpont az átázott ruházat szárítására.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de o pauză lungă în palatul uscat; este momentul ideal pentru a vă mai usca hainele ude.",
+                "en": "Park your bike securely and enjoy a longer break inside the dry palace; it is an ideal time to let your damp clothing dry off a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Monreal",
+                "hu": "Torre Monreal",
+                "ro": "Torre Monreal",
+                "en": "Torre Monreal"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Camera Obscura ist steil; bei Regen sollten Sie den Radweg nutzen und auf Pfützen achten, die tiefe Löcher verbergen könnten.",
+                "hu": "A Camera Obscurához vezető emelkedő meredek; esőben használja a kerékpárutat, és ügyeljen a kátyúkat elrejtő mélyebb tócsákra.",
+                "ro": "Urcarea spre Camera Obscura este abruptă; pe ploaie folosiți pista de biciclete și atenție la bălțile care pot ascunde gropi adânci.",
+                "en": "The climb to the Camera Obscura is steep; in the rain, stay on the bike path and watch out for puddles that might hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Restos de la Torre San Julián",
+                "hu": "Restos de la Torre San Julián",
+                "ro": "Restos de la Torre San Julián",
+                "en": "Restos de la Torre San Julián"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig, da die Sicht bei Regen eingeschaltet sein muss; tragen Sie Reflektoren für eine sichere Rückfahrt in der Dämmerung.",
+                "hu": "Fejezze be óvatosan a túrát, mert esőben a látótávolság csökken; viseljen fényvisszaverőt a biztonságos szürkületi visszatérés érdekében.",
+                "ro": "Încheiați turul cu prudență, deoarece vizibilitatea scade pe ploaie; purtați elemente reflectorizante pentru o întoarcere sigură la amurg.",
+                "en": "Finish your tour carefully as visibility drops in the rain; wear reflective gear for a safe return journey during the murky twilight hours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren in Tudela im Winter ist bei klarem Himmel ein Vergnügen, solange man sich gegen den Wind schützt. Vormittags führt die Route zu den Panoramapunkten, wo die klare Winterluft weite Sichten ermöglicht. Mittags laden die historischen Gebäude im Stadtzentrum zu einer Aufwärmpause ein. Am Nachmittag nutzen wir das letzte Tageslicht, bevor wir die Tour pünktlich zum Sonnenuntergang beenden.",
+            "hu": "A téli kerékpározás Tudelában frissítő élmény, ha felkészülünk a Cierzo szélre. Reggel a panorámás pontokat keressük fel, ahol a tiszta téli levegő messzi kilátást enged. Napközben a városközpont történelmi falaiban keresünk enyhülést a hideg ellen. Délután az utolsó napsugarakat használjuk ki a tekeréshez, és a korai naplemente előtt befejezzük a túrát.",
+            "ro": "Ciclismul în Tudela pe timp de iarnă este o plăcere dacă sunteți protejat de vântul Cierzo. Dimineața pedalăm spre punctele panoramice unde aerul curat oferă vizibilitate maximă. La prânz, vizităm clădirile istorice pentru a ne recupera după frigul de afară. După-amiaza profităm de ultimele raze de soare, încheind traseul exact înainte de apusul devreme.",
+            "en": "Cycling in Tudela in winter is a delight on clear days, provided you protect yourself from the wind. In the morning, ride to the scenic viewpoints where the crisp air offers vast views. At noon, head to the historic city center to warm up indoors. Use the last rays of sunlight in the afternoon and plan to finish your ride before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al Corazón de Jesús",
+                "hu": "Monumento al Corazón de Jesús",
+                "ro": "Monumento al Corazón de Jesús",
+                "en": "Monumento al Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann im Winter eisig sein; tragen Sie eine Sturmhaube unter dem Helm und genießen Sie die klare Sicht auf die Pyrenäen.",
+                "hu": "A dombtetőn a szél télen jeges lehet; viseljen arcmaszkot a sisak alatt, és élvezze a tiszta kilátást egészen a Pireneusok vonulatáig.",
+                "ro": "Vântul de pe deal poate fi tăios iarna; purtați o cagulă sub cască și bucurați-vă de vederea clară până la munții Pirinei.",
+                "en": "The wind on the hilltop can be icy in winter; wear a neck gaiter or balaclava under your helmet and enjoy the clear views of the Pyrenees."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinas de la ermita de San Miguel de Afuera",
+                "hu": "Ruinas de la ermita de San Miguel de Afuera",
+                "ro": "Ruinas de la ermita de San Miguel de Afuera",
+                "en": "Ruinas de la ermita de San Miguel de Afuera"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können am frühen Morgen gefroren sein; fahren Sie vorsichtig über Reif und genießen Sie die mystische Winteratmosphäre der Ruinen.",
+                "hu": "A kora reggeli órákban az utak fagyottak lehetnek; hajtson óvatosan a zúzmarás szakaszon, és élvezze a romok misztikus téli hangulatát.",
+                "ro": "Potecile pot fi înghețate dimineața devreme; rulați cu prudență pe porțiunile cu brumă și admirați atmosfera mistică a ruinelor iarna.",
+                "en": "The paths can be frozen in the early morning; ride cautiously over frosty patches and enjoy the mystical winter atmosphere of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Tudela",
+                "hu": "Ayuntamiento de Tudela",
+                "ro": "Ayuntamiento de Tudela",
+                "en": "Ayuntamiento de Tudela"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist ein guter Ort, um kurz die Handschuhe auszuziehen und die Wintersonne zu genießen; parken Sie das Rad an einem sonnigen Platz.",
+                "hu": "A tér kiváló hely egy rövid pihenőre, ahol leveheti a kesztyűt a napsütésben; parkolja a kerékpárt egy napsütötte, szélvédett ponton.",
+                "ro": "Piața este un loc bun pentru a vă scoate mănușile și a profita de soarele iernii; parcați bicicleta într-un loc însorit și ferit.",
+                "en": "The square is a good spot to briefly take off your gloves and soak up the winter sun; park your bike in a sunny, sheltered area."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Nicolás de Bari",
+                "hu": "Iglesia de San Nicolás de Bari",
+                "ro": "Iglesia de San Nicolás de Bari",
+                "en": "Iglesia de San Nicolás de Bari"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingang, um sich kurz auszuruhen; die dicken Mauern speichern im Winter eine angenehme Grundtemperatur.",
+                "hu": "Használja ki a szélvédett bejáratot egy rövid pihenésre; a vastag falak télen is megőriznek egy elviselhető alaphőmérsékletet a belső térben.",
+                "ro": "Folosiți intrarea ferită de vânt pentru o scurtă odihnă; zidurile groase păstrează o temperatură acceptabilă în interior chiar și iarna.",
+                "en": "Take advantage of the wind-sheltered entrance for a brief rest; the thick walls maintain a tolerable base temperature inside during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Marqués de Huarte",
+                "hu": "Palacio de Marqués de Huarte",
+                "ro": "Palacio de Marqués de Huarte",
+                "en": "Palacio de Marqués de Huarte"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Aufwärmpause ein; das Museum bietet Schutz vor dem kalten Cierzo und faszinierende Einblicke in die Stadtgeschichte.",
+                "hu": "Tervezzen ide egy hosszabb melegedő szünetet; a múzeum védelmet nyújt a hideg Cierzo szél ellen, és lenyűgöző betekintést ad a város múltjába.",
+                "ro": "Planificați aici o pauză mai lungă de încălzire; muzeul oferă protecție împotriva vântului rece și o incursiune fascinantă în istoria locală.",
+                "en": "Plan a longer warm-up break here; the museum offers protection from the cold Cierzo wind and fascinating insights into the city's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Monreal",
+                "hu": "Torre Monreal",
+                "ro": "Torre Monreal",
+                "en": "Torre Monreal"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Camera Obscura, um die Stadt im warmen Winterlicht zu sehen; beim Radfahren bergauf wird Ihnen schnell wieder warm.",
+                "hu": "Látogasson el a Camera Obscurába, hogy a várost meleg téli fényben lássa; a dombra való feltekerés közben hamar visszanyeri testhőjét.",
+                "ro": "Vizitați Camera Obscura pentru a vedea orașul în lumina caldă a iernii; pedalatul la deal vă va ajuta să vă încălziți rapid corpul.",
+                "en": "Visit the Camera Obscura to see the city in warm winter light; the uphill cycle will quickly help you regain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Restos de la Torre San Julián",
+                "hu": "Restos de la Torre San Julián",
+                "ro": "Restos de la Torre San Julián",
+                "en": "Restos de la Torre San Julián"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 17:00 Uhr, um das Glühen der Ruinen im Sonnenuntergang zu sehen; ziehen Sie für die Rückfahrt eine extra Schicht an.",
+                "hu": "Érjen ide 17 óra előtt, hogy lássa a romok izzását a téli naplementében; a visszaútra vegyen fel egy extra réteg ruhát a lehűlés ellen.",
+                "ro": "Ajungeți aici înainte de ora 17:00 pentru a vedea ruinele în lumina apusului; puneți-vă un strat în plus de haine pentru drumul de întoarcere.",
+                "en": "Arrive here before 17:00 to see the ruins glowing in the winter sunset; put on an extra layer for the ride back as temperatures drop."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Morning: Autózzon el a csendes északi remetelakokhoz, és kezdje kirándulását spirituális békével, távol a városi reggeli nyüzsgéstől.\nMidday: Vigye közelebb járművét a városközponthoz, hogy könnyedén megközelíthesse a nagyszerű műemlékeket és az impozáns arisztokrata palotát.\nAfternoon: Élvezze a történelmi és vallási helyszínek közötti vezetés kényelmét, biztosítva, hogy fáradtság nélkül lássa Tudela legfőbb látnivalóit.\nEvening: Zárja autós túráját a városi szabadidős medencéknél, amely frissítő és pihentető lezárást kínál egy hosszú városnéző nap után.",
         "ro": "Morning: Conduceți către schiturile liniștite din nord, începându-vă excursia cu o pace spirituală departe de agitația urbană de dimineață.\nMidday: Mutați-vă mașina mai aproape de centrul orașului pentru a accesa fără efort marile monumente și palatul aristocratic impunător.\nAfternoon: Bucurați-vă de confortul de a conduce între site-urile istorice și religioase, asigurându-vă că vedeți punctele cheie fără oboseală.\nEvening: Terminați turul auto îndreptându-vă spre piscinele de recreere urbane, oferind un final revigorant și relaxant al unei zile lungi.",
         "en": "Morning: Drive out to the tranquil northern hermitages, starting your excursion with spiritual peace away from the urban morning hustle.\nMidday: Relocate your vehicle closer to the city center to effortlessly access the grand monuments and the imposing aristocratic palace.\nAfternoon: Enjoy the comfort of driving between distinct historic and religious sites, ensuring you see Tudela’s key highlights without fatigue.\nEvening: Finish your driving tour by heading to the urban recreational pools, offering a refreshing and relaxing end to a long day of sightseeing."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tudela mit dem Auto bei Regen ist komfortabel und ermöglicht es, die weiter entfernten Punkte trocken zu erreichen. Vormittags besuchen wir die Kapellen und Monumente am Stadtrand, während wir im Auto vor dem Wind geschützt sind. Mittags parken wir nahe der Altstadt für kurze Wege zu den Museen. Nachmittags genießen wir die Panoramafahrten durch die regenverhangene Landschaft des Ebro-Tals.",
+            "hu": "Az esős Tudela felfedezése autóval a legkényelmesebb módja a távolabbi pontok elérésének. Reggel a város szélén lévő kápolnákat és emlékműveket keressük fel, élvezve a fűtött utasteret. Délben a központ közelében parkolunk, hogy csak keveset kelljen az esőben gyalogolni a palotákig. Délután az Ebro-völgy párás, szürke tájaiban gyönyörködünk a szélvédő mögül.",
+            "ro": "Explorarea orașului Tudela cu mașina pe ploaie este cea mai confortabilă opțiune pentru a ajunge la punctele îndepărtate. Dimineața vizităm capelele de la periferie, stând la adăpost de vânt. La prânz parcăm aproape de centru pentru acces rapid la muzee. După-amiaza ne bucurăm de drumurile panoramice prin peisajul umed al văii Ebro, fără a ne uda.",
+            "en": "Exploring Tudela by car in the rain is the most comfortable way to reach outlying spots. In the morning, visit the chapels and monuments on the outskirts while staying dry and warm. At noon, park near the historic center for short walks to the museums. In the afternoon, enjoy scenic drives through the misty Ebro valley landscape from behind the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Santa Cruz - El Cristo",
+                "hu": "Ermita de Santa Cruz - El Cristo",
+                "ro": "Ermita de Santa Cruz - El Cristo",
+                "en": "Ermita de Santa Cruz - El Cristo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um den Regen zu vermeiden; die Sicht auf die Brücke ist bei Regen besonders atmosphärisch durch die Fenster.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy elkerülje az elázást; a híd látványa az esőben kifejezetten hangulatos az autó ablakán keresztül.",
+                "ro": "Parcați chiar la intrare pentru a evita ploaia; vederea spre pod este deosebit de atmosferică prin parbriz în timpul unei averse.",
+                "en": "Park right by the entrance to avoid getting wet; the view of the bridge is particularly atmospheric through the car window in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Corazón de Jesús",
+                "hu": "Monumento al Corazón de Jesús",
+                "ro": "Monumento al Corazón de Jesús",
+                "en": "Monumento al Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Auto, falls es zu stark regnet; der Parkplatz bietet eine gute Sicht über die Stadt ohne auszusteigen.",
+                "hu": "Élvezze a panorámát az autóból, ha túl erősen esne az eső; a parkolóhelyről kiváló kilátás nyílik a városra anélkül, hogy kiszállna.",
+                "ro": "Bucurați-vă de panorama orașului din mașină dacă plouă prea tare; parcarea oferă o vedere excelentă asupra orașului fără a coborî.",
+                "en": "Enjoy the panoramic view from the car if it's raining too hard; the parking area offers a great view of the city without needing to step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+                "hu": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+                "ro": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+                "en": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Auto zur Kirche, um trocken zu bleiben; die barocke Innenausstattung ist ein perfektes Ziel bei Regen.",
+                "hu": "Használja ki az autótól a templomig tartó rövid sétát, hogy száraz maradjon; a barokk belső díszítés tökéletes úti cél esős időben.",
+                "ro": "Profitați de distanța scurtă de la mașină la biserică pentru a nu vă uda; interiorul baroc este o destinație perfectă pe timp de ploaie.",
+                "en": "Take advantage of the short walk from the car to the church to stay dry; the Baroque interior is a perfect destination during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Marqués de Huarte",
+                "hu": "Palacio de Marqués de Huarte",
+                "ro": "Palacio de Marqués de Huarte",
+                "en": "Palacio de Marqués de Huarte"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der blauen Zone nahebei; die Innenbesichtigung des Palastes ist der ideale Zeitvertreib bei einem Schauer.",
+                "hu": "Keressen parkolóhelyet a közeli kék zónában; a palota belső megtekintése ideális időtöltés egy intenzívebb esőzés alkalmával.",
+                "ro": "Căutați un loc de parcare în zona albastră din apropiere; vizitarea interiorului palatului este activitatea ideală în timpul unei averse.",
+                "en": "Look for a parking spot in the nearby blue zone; touring the palace interior is the perfect activity during a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Monreal",
+                "hu": "Torre Monreal",
+                "ro": "Torre Monreal",
+                "en": "Torre Monreal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Turm vor, um den steilen, nassen Fußweg zu vermeiden; die Camera Obscura bietet ein trockenes Erlebnis.",
+                "hu": "Hajtson fel egészen a torony melletti parkolóig, hogy elkerülje a meredek, vizes sétát; a Camera Obscura száraz és izgalmas élményt nyújt.",
+                "ro": "Urcați cu mașina până la parcarea turnului pentru a evita urcușul pe jos prin ploaie; Camera Obscura oferă o experiență uscată și inedită.",
+                "en": "Drive right up to the tower parking to avoid the steep, wet walk; the Camera Obscura provides a dry and fascinating indoor experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Corazón de María",
+                "hu": "Monumento al Corazón de María",
+                "ro": "Monumento al Corazón de María",
+                "en": "Monumento al Corazón de María"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp direkt am Straßenrand; halten Sie den Motor für eine schnelle Weiterfahrt bereit, falls der Regen stärker wird.",
+                "hu": "Gyors fotómegálló közvetlenül az út szélén; tartsa készenlétben az autót a gyors továbbinduláshoz, ha eleredne az intenzív eső.",
+                "ro": "O oprire rapidă pentru poze chiar la marginea drumului; fiți gata de plecare imediată dacă ploaia devine prea puternică.",
+                "en": "A quick photo stop right by the roadside; be ready for a fast departure if the rain begins to intensify while you are there."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Urbanización Los Robles",
+                "hu": "Piscina Urbanización Los Robles",
+                "ro": "Piscina Urbanización Los Robles",
+                "en": "Piscina Urbanización Los Robles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrt durch das Wohnviertel als gemütlichen Ausklang; die Parkplatzsuche ist hier auch bei Regen völlig problemlos.",
+                "hu": "Használja a lakónegyeden átvezető autózást kellemes lezárásként; a parkolás itt esőben is teljesen problémamentes és kényelmes.",
+                "ro": "Folosiți drumul prin cartierul rezidențial ca o încheiere relaxantă; parcarea aici este facilă și comodă chiar și pe timp de ploaie.",
+                "en": "Use the drive through the residential area as a relaxing conclusion; parking here is easy and convenient even during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das ideale Mittel, um Tudela und seine Umgebung windgeschützt zu erkunden. Vormittags führt die Fahrt zu den sonnigen Aussichtspunkten über dem Ebro-Tal. Mittags genießen wir die Wärme im Wageninneren zwischen den Besuchen der historischen Paläste. Der Nachmittag bietet spektakuläre Lichtverhältnisse für Fotos, bevor wir den Tag gemütlich im warmen Stadtzentrum beenden.",
+            "hu": "Télen az autó a legideálisabb eszköz Tudela és környéke felfedezéséhez, megvédve minket a metsző széltől. Reggel a napsütötte kilátópontokhoz autózunk az Ebro felett. Napközben a fűtött utastér nyújt kényelmet a történelmi paloták látogatása között. Délután a lemenő nap különleges fényei mellett fotózhatunk, majd az estét a kivilágított belvárosban zárjuk.",
+            "ro": "Iarna, mașina este mijlocul ideal pentru a explora Tudela și împrejurimile, protejându-vă de vântul tăios. Dimineața conducem spre punctele panoramice însorite de deasupra văii Ebro. La prânz, ne bucurăm de căldura din mașină între vizitele la palatele istorice. După-amiaza oferă lumini spectaculoase pentru fotografii, înainte de a încheia ziua în centrul luminat.",
+            "en": "In winter, the car is the ideal way to explore Tudela and its surroundings while staying protected from the biting wind. In the morning, drive to the sunny viewpoints overlooking the Ebro valley. At noon, enjoy the warmth of the car between visits to the historic palaces. The afternoon provides spectacular lighting for photos before ending the day in the festive city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Santa Cruz - El Cristo",
+                "hu": "Ermita de Santa Cruz - El Cristo",
+                "ro": "Ermita de Santa Cruz - El Cristo",
+                "en": "Ermita de Santa Cruz - El Cristo"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung laufen, während Sie die Aussicht genießen; die Wintersonne spiegelt sich morgens herrlich im Fluss Ebro wider.",
+                "hu": "Hagyja bekapcsolva a fűtést, miközben a kilátásban gyönyörködik; a téli napfény reggel csodásan tükröződik az Ebro folyó vizén.",
+                "ro": "Lăsați căldura pornită în timp ce admirați priveliștea; soarele de iarnă se reflectă superb în apele râului Ebro dimineața devreme.",
+                "en": "Keep the heater running while you enjoy the view; the winter sun reflects beautifully on the Ebro River during the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Corazón de Jesús",
+                "hu": "Monumento al Corazón de Jesús",
+                "ro": "Monumento al Corazón de Jesús",
+                "en": "Monumento al Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist windanfällig; steigen Sie nur kurz aus, um die klare Sicht auf die schneebedeckten Gipfel der Pyrenäen im Norden zu bewundern.",
+                "hu": "A parkolóhely nagyon szeles lehet; csak rövid időre szálljon ki, hogy megcsodálja a Pireneusok hófödte csúcsait észak felé.",
+                "ro": "Parcarea este expusă vântului; coborâți doar scurt timp pentru a admira crestele înzăpezite ale Pirineilor care se văd clar spre nord.",
+                "en": "The parking area is very windy; step out only briefly to admire the clear view of the snow-capped Pyrenees peaks to the north."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+                "hu": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+                "ro": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+                "en": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine besinnliche Pause in der Wärme; parken Sie in den umliegenden Straßen, um die Winterkälte draußen zu lassen.",
+                "hu": "Ideális helyszín egy elcsendesedett pihenőre a melegben; parkoljon a környező utcákban, hogy kint hagyja a téli fagyos levegőt.",
+                "ro": "Un loc ideal pentru o pauză de reculegere la căldură; parcați pe străzile adiacente pentru a lăsa frigul iernii în afara bisericii.",
+                "en": "An ideal spot for a contemplative break in the warmth; park in the surrounding streets to leave the biting winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Marqués de Huarte",
+                "hu": "Palacio de Marqués de Huarte",
+                "ro": "Palacio de Marqués de Huarte",
+                "en": "Palacio de Marqués de Huarte"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Archiv und Museum bieten eine perfekte Flucht vor dem Cierzo-Wind; nutzen Sie die Zeit für eine gründliche Innenbesichtigung.",
+                "hu": "A fűtött levéltár és múzeum tökéletes menekülést kínál a Cierzo szél elől; használja ki az időt egy alapos belső körbejárásra.",
+                "ro": "Arhiva și muzeul încălzite oferă o scăpare perfectă de vântul Cierzo; profitați de timp pentru o vizită detaliată a interiorului.",
+                "en": "The heated archives and museum offer a perfect escape from the Cierzo wind; take your time for a thorough tour of the interior spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Monreal",
+                "hu": "Torre Monreal",
+                "ro": "Torre Monreal",
+                "en": "Torre Monreal"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Camera Obscura am Nachmittag für das beste Licht; der Parkplatz oben spart Ihnen den exponierten Fußweg im kalten Wind.",
+                "hu": "Látogasson el a Camera Obscurába délután a legjobb fényekért; a fenti parkoló megkíméli Önt a hideg szélnek kitett gyalogúttól.",
+                "ro": "Vizitați Camera Obscura după-amiaza pentru cea mai bună lumină; parcarea de sus vă scutește de urcușul expus la vântul rece de iarnă.",
+                "en": "Visit the Camera Obscura in the afternoon for the best light; the upper parking saves you from the walk exposed to the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Corazón de María",
+                "hu": "Monumento al Corazón de María",
+                "ro": "Monumento al Corazón de María",
+                "en": "Monumento al Corazón de María"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal liegt im Winter oft schon früh im Schatten; nutzen Sie das Auto für einen schnellen Stopp, bevor die Kälte gegen Abend anzieht.",
+                "hu": "Az emlékmű télen gyakran korán árnyékba kerül; használja az autót egy gyors megállóra, mielőtt az esti lehűlés igazán felerősödne.",
+                "ro": "Monumentul intră adesea în umbră devreme iarna; folosiți mașina pentru o oprire rapidă înainte ca frigul serii să se intensifice.",
+                "en": "The monument often falls into shadow early in winter; use the car for a quick stop before the evening chill becomes too intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Urbanización Los Robles",
+                "hu": "Piscina Urbanización Los Robles",
+                "ro": "Piscina Urbanización Los Robles",
+                "en": "Piscina Urbanización Los Robles"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Fahrt mit einer Runde durch das ruhige Viertel ab; die Parkplätze sind im Winter zahlreich und nah am Ziel gelegen.",
+                "hu": "Zárja az utat egy körrel a csendes negyedben; a parkolóhelyek télen bőségesek és közel vannak a kiválasztott célpontokhoz.",
+                "ro": "Încheiați traseul cu o tură prin cartierul liniștit; locurile de parcare sunt numeroase iarna și situate foarte aproape de destinație.",
+                "en": "Conclude your drive with a loop through the quiet neighborhood; parking spaces are plentiful in winter and located close to your stop."
+              }
+            }
+          ]
+        }
       }
     }
   }

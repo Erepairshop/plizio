@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy sétával Evosmosban, felfedezve a bájos közösségi színházakat és a gazdagon díszített Metamorphose tou Soteros templomot.\n\nDél közeledtével sétáljon el a modern Poluleitourgiko Kentro mellett a fenséges Agios Georgios felé, elmerülve a csendes külvárosi bájban.\n\nA délután egy lenyűgöző időutazásé a helyi Vasúti Múzeumban, ahol régi mozdonyok mutatják be Görögország egy letűnt korszakát.\n\nFejezze be gyalogos útját a grandiózus Ieros Naos Upsoseos Timiou Staurou közelében, és gondoljon vissza a jól sikerült napra a pihentető este előtt.",
         "ro": "Începeți dimineața plimbându-vă prin Evosmos, descoperind teatre fermecătoare și biserica decorată complex Metamorphose tou Soteros.\n\nSpre prânz, plimbați-vă pe lângă Poluleitourgiko Kentro spre maiestuosul Agios Georgios, scufundându-vă în farmecul liniștit al suburbiilor.\n\nDupă-amiaza este rezervată unei fascinante călătorii în timp la Muzeul Feroviar, unde locomotivele de epocă prezintă o altă eră a Greciei.\n\nÎncheiați călătoria pe jos lângă grandioasa biserică Ieros Naos Upsoseos Timiou Staurou, reflectând la o zi bine petrecută înainte de cină.",
         "en": "Begin your morning walking through Evosmos, discovering charming community theaters and the intricately decorated Metamorphose tou Soteros church.\n\nAs midday approaches, wander past the modern Poluleitourgiko Kentro towards the majestic Agios Georgios, immersing yourself in the quiet suburban charm.\n\nThe afternoon is reserved for a fascinating trip back in time at the local Railroad Museum, where vintage locomotives showcase a different era of Greece.\n\nConclude your walking journey near the grand Ieros Naos Upsoseos Timiou Staurou, reflecting on a day well spent before enjoying a relaxed evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter dem Schutz der Theaterarkaden. Mittags bietet das Eisenbahnmuseum einen trockenen Rückzugsort vor dem Regen. Nachmittags laden die Kirchen zur besinnlichen Pause im Trockenen ein. Der Abend klingt bei prasselndem Regen in der Nähe des Stadtzentrums gemütlich aus, während Sie die beleuchteten Straßen durch Ihren Regenschirm beobachten.",
+            "hu": "Kezdje a napot a színház árkádjai alatt, védve az esőtől. Délben a Vasúti Múzeum fedett terei nyújtanak tökéletes menedéket a záporok elől. Délután a templomok csendes belső tereiben pihenhet meg szárazon. Az este az eső kopogása mellett, a városközpont közeli fényekben, esernyővel a kézben is hangulatos zárása a napnak, figyelve a csillogó aszfaltot.",
+            "ro": "Începeți ziua sub protecția arcadelor teatrului. La prânz, Muzeul Feroviar oferă un refugiu uscat împotriva ploii. După-amiaza, bisericile vă invită la o pauză liniștită în interior. Seara se încheie plăcut cu sunetul ploii, aproape de centrul orașului, bucurându-vă de străzile luminate care se oglindesc în bălțile de pe trotuar.",
+            "en": "Start your day under the protection of the theater's overhangs. At noon, the Railroad Museum offers a dry retreat from the rain. In the afternoon, the churches provide a peaceful and dry indoor break. The evening ends cozily with the sound of rain, near the city center, as you enjoy the reflected city lights through the raindrops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anoikhto theatraki",
+                "hu": "Anoikhto theatraki",
+                "ro": "Anoikhto theatraki",
+                "en": "Anoikhto theatraki"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das kleine Theater zügig; bei Regen bieten die nahen Hauseingänge Schutz. Achten Sie auf die rutschigen Stufen im Außenbereich.",
+                "hu": "Tekintse meg a kis színházat gyorsan; eső esetén a közeli épületek bejáratai nyújtanak menedéket. Ügyeljen a kültéri lépcsők csúszósságára.",
+                "ro": "Vizitați rapid micul teatru; în caz de ploaie, intrările clădirilor din apropiere oferă adăpost. Atenție la treptele exterioare alunecoase.",
+                "en": "Visit the small theater quickly; if it rains, nearby building entrances provide shelter. Be careful of the slippery outdoor steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Metamorphose tou Soteros",
+                "hu": "Metamorphose tou Soteros",
+                "ro": "Metamorphose tou Soteros",
+                "en": "Metamorphose tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum dieser Kirche für eine trockene Pause. Bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "Használja ki a templom pompás belső terét egy száraz pihenőre. Csodálja meg az ikonokat, miközben odakint esik az eső.",
+                "ro": "Profitați de interiorul splendid al acestei biserici pentru o pauză uscată. Admirați icoanele în timp ce afară plouă torențial.",
+                "en": "Take advantage of the church's splendid interior for a dry break. Admire the icons while it is raining heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "hu": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "ro": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "en": "Theatro Kordeliou - Poluleitourgiko Kentro"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist ein idealer Ort, um dem Wetter zu entkommen. Prüfen Sie das Programm für kurzfristige Indoor-Ausstellungen.",
+                "hu": "Ez a kulturális központ ideális hely az időjárás elöli menekülésre. Ellenőrizze a programot rövid távú beltéri kiállításokért.",
+                "ro": "Acest centru cultural este locul ideal pentru a scăpa de vremea rea. Verificați programul pentru expoziții indoor temporare.",
+                "en": "This cultural center is an ideal spot to escape the weather. Check the schedule for any short-term indoor exhibitions available."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine warme, spirituelle Atmosphäre. Perfekt, um die Kleidung zu richten und den nächsten Schauer abzuwarten.",
+                "hu": "A templom meleg, spirituális légkört áraszt. Tökéletes hely a ruházat megigazítására és a következő zápor megvárására.",
+                "ro": "Biserica oferă o atmosferă caldă și spirituală. Este locul perfect pentru a vă aranja hainele și a aștepta următoarea ploaie.",
+                "en": "The church offers a warm, spiritual atmosphere. It is a perfect place to adjust your gear and wait out the next rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum",
+                "hu": "Vasúti Múzeum",
+                "ro": "Muzeul Feroviar",
+                "en": "Railroad Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight bei Regen: Erkunden Sie die alten Waggons im überdachten Bereich. Ein Muss für Technikfans, die im Trockenen bleiben wollen.",
+                "hu": "Az esős nap fénypontja: fedezze fel a régi vagonokat a fedett területen. Kötelező program a szárazon maradni vágyó technika-rajongóknak.",
+                "ro": "Punctul culminant al zilei ploioase: explorați vagoanele vechi în zona acoperită. Un must pentru fanii tehnicii care vor să rămână uscați.",
+                "en": "The highlight of a rainy day: explore the vintage carriages in the covered area. A must for tech fans who want to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Upsoseos Timiou Staurou",
+                "hu": "Ieros Naos Upsoseos Timiou Staurou",
+                "ro": "Ieros Naos Upsoseos Timiou Staurou",
+                "en": "Ieros Naos Upsoseos Timiou Staurou"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour in der Stille dieser Kirche ab. Der Regen draußen verstärkt die friedliche Stimmung im Kerzenschein.",
+                "hu": "Zárja a túrát e templom csendjében. A kinti eső csak fokozza a gyertyafényes, békés hangulatot a belső térben.",
+                "ro": "Încheiați turul în liniștea acestei biserici. Ploaia de afară doar intensifică atmosfera pașnică la lumina lumânărilor.",
+                "en": "Conclude your tour in the silence of this church. The rain outside only enhances the peaceful, candlelit atmosphere inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die frische Winterluft am Morgen ein, bevor Sie die warmen Kirchen besuchten. Das Eisenbahnmuseum bietet mittags eine willkommene Aufwärmpause. Da die Sonne bereits gegen 17:00 Uhr untergeht, taucht das goldene Abendlicht die Stadt früh in eine magische Atmosphäre. Beenden Sie den Tag in einer beheizten Taverne.",
+            "hu": "Szívja be a friss téli reggeli levegőt, mielőtt felkeresné a fűtött templomokat. A Vasúti Múzeum délben kellemes felmelegedést nyújt. Mivel a nap 17:00 körül lebukik, az esti fények korán varázslatos hangulatba öltöztetik a várost. Zárja a napot egy forró ital mellett egy helyi kávézóban.",
+            "ro": "Inspir some aerul proaspăt de iarnă dimineața, înainte de a vizita bisericile încălzite. Muzeul Feroviar oferă la prânz o pauză de încălzire binevenită. Deoarece soarele apune în jur de ora 17:00, lumina serii îmbracă orașul devreme într-o atmosferă magică. Încheiați ziua cu o băutură caldă.",
+            "en": "Breathe in the crisp winter morning air before visiting the warm interiors of the churches. The Railroad Museum provides a welcome warming break at midday. As the sun sets around 17:00, early evening light creates a magical atmosphere. Finish your cold day in a heated local tavern with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anoikhto theatraki",
+                "hu": "Anoikhto theatraki",
+                "ro": "Anoikhto theatraki",
+                "en": "Anoikhto theatraki"
+              },
+              "tip_5lang": {
+                "de": "Morgens ist es hier oft frostig; tragen Sie Thermokleidung, um die Architektur in Ruhe bewundern zu können, bevor es ins Warme geht.",
+                "hu": "Reggel gyakran fagyos itt a levegő; viseljen termóruházatot, hogy nyugodtan megcsodálhassa az építészetet a következő meleg helyszín előtt.",
+                "ro": "Dimineața este adesea ger aici; purtați haine termice pentru a admira arhitectura în liniște înainte de a merge la căldură.",
+                "en": "It is often frosty here in the morning; wear thermal layers to admire the architecture comfortably before heading to warmer spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Metamorphose tou Soteros",
+                "hu": "Metamorphose tou Soteros",
+                "ro": "Metamorphose tou Soteros",
+                "en": "Metamorphose tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Kälte ab. Genießen Sie die friedliche Stille und die Wärme der brennenden Kerzen im Inneren.",
+                "hu": "A templom vastag falai távol tartják a téli hideget. Élvezze a békés csendet és az égő gyertyák árasztotta enyhe meleget.",
+                "ro": "Zidurile groase ale bisericii țin frigul la distanță. Bucurați-vă de liniștea deplină și de căldura lumânărilor aprinse în interior.",
+                "en": "The thick church walls keep the winter chill at bay. Enjoy the peaceful silence and the gentle warmth of the burning candles inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "hu": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "ro": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "en": "Theatro Kordeliou - Poluleitourgiko Kentro"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist beheizt und bietet eine großartige Gelegenheit, sich zwischen den Spaziergängen kurz aufzuwärmen und Kunst zu genießen.",
+                "hu": "A belső tér fűtött, így remek alkalom nyílik a séták közötti gyors felmelegedésre, miközben helyi művészeti alkotásokat tekint meg.",
+                "ro": "Interiorul este încălzit, oferind o oportunitate excelentă de a vă încălzi rapid între plimbări și de a vă bucura de artă.",
+                "en": "The interior is heated, providing a great opportunity to warm up between walks while enjoying local cultural exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Vormittag für das beste Licht. Die Innenräume sind ein Zufluchtsort vor dem schneidenden Winterwind.",
+                "hu": "Látogassa meg a templomot késő délelőtt a legjobb fényekért. A belső terek menedéket nyújtanak a metsző téli szél elől.",
+                "ro": "Vizitați biserica la sfârșitul dimineții pentru cea mai bună lumină. Interioarele sunt un refugiu împotriva vântului tăios de iarnă.",
+                "en": "Visit the church in the late morning for the best light. The interiors serve as a sanctuary from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum",
+                "hu": "Vasúti Múzeum",
+                "ro": "Muzeul Feroviar",
+                "en": "Railroad Museum"
+              },
+              "tip_5lang": {
+                "de": "Ideal für den Winter, da viele Ausstellungsstücke drinnen sind. Planen Sie hier mehr Zeit ein, um sich vollständig aufzuwärmen.",
+                "hu": "Ideális téli program, mivel a legtöbb kiállítási tárgy fedett helyen van. Tervezzen ide több időt a teljes felmelegedéshez.",
+                "ro": "Ideal pentru iarnă, deoarece multe piese sunt în interior. Planificați mai mult timp aici pentru a vă încălzi complet.",
+                "en": "Ideal for winter as many exhibits are indoors. Plan to spend more time here to fully warm up before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Upsoseos Timiou Staurou",
+                "hu": "Ieros Naos Upsoseos Timiou Staurou",
+                "ro": "Ieros Naos Upsoseos Timiou Staurou",
+                "en": "Ieros Naos Upsoseos Timiou Staurou"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier kurz vor Sonnenuntergang (17:00). Das warme Licht im Inneren kontrastiert herrlich mit der Winterdämmerung.",
+                "hu": "Zárja itt a napot nem sokkal naplemente (17:00) előtt. A benti meleg fények csodás kontrasztot alkotnak a téli alkonnyal.",
+                "ro": "Încheiați ziua aici chiar înainte de apus (17:00). Luminile calde din interior contrastează superb cu amurgul de iarnă.",
+                "en": "Finish your day here just before sunset (17:00). The warm indoor lighting contrasts beautifully with the blue winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpáros kalandja Evosmos csendes utcáin kezdődik, helyi szabadtéri színházakat és gyönyörű ortodox templomokat látogatva.\n\nDél körül kösse ki kerékpárját a Vasúti Múzeumnál, hogy felfedezze a történelmi vonatokat, majd tekerjen el az Agios Nektarios szentélyéhez.\n\nTöltse a délutánt zöldterületek mellett elhaladva, és tartson egy jól megérdemelt pihenőt egy másik szabadtéri színháznál a friss levegőn.\n\nFejezze be útját az aranyórában a grandiózus Anastaseos tou Kuriou templom közelében, ahol a lemenő nap gyönyörűen megvilágítja a kupolákat.",
         "ro": "Aventura cu bicicleta începe pe străzile liniștite din Evosmos, vizitând teatre locale în aer liber și biserici ortodoxe frumoase.\n\nPe la prânz, parcați bicicleta la Muzeul Feroviar pentru a explora trenuri istorice, înainte de a merge la sanctuarul pașnic Agios Nektarios.\n\nPetreceți după-amiaza trecând pe lângă spații verzi și faceți o pauză binemeritată la un alt teatru în aer liber pentru a vă bucura de aer curat.\n\nTerminați plimbarea la ora de aur lângă grandioasa biserică Anastaseos tou Kuriou, unde soarele la apus îi luminează frumos cupolele.",
         "en": "Your cycling adventure starts with easy pedaling through Evosmos's quiet streets, visiting local open-air theaters and beautiful Orthodox churches.\n\nAround midday, chain up your bike at the Railroad Museum to explore historic trains before riding over to the peaceful sanctuary of Agios Nektarios.\n\nSpend the afternoon gliding past greenery and community spaces, taking a well-deserved break at another open-air theater to enjoy the fresh air.\n\nFinish your ride in the golden hour near the grand Anastaseos tou Kuriou church, where the setting sun beautifully illuminates its imposing domes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Evosmos' Straßen. Beginnen Sie vorsichtig und nutzen Sie die Kirchen für trockene Pausen. Das Eisenbahnmuseum ist der perfekte Ort, um das Fahrrad sicher abzustellen und drinnen zu verweilen. Der Nachmittag führt Sie durch glitzernde Pfützen zu weiteren spirituellen Stätten, bevor der Tag im Schutze der Dämmerung endet.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Evosmos utcáin. Kezdjen lassan, és használja a templomokat száraz pihenőként. A Vasúti Múzeum tökéletes hely a bringa leállítására és a benti nézelődésre. A délután csillogó tócsák között vezet további lelki helyszínekhez, mielőtt a nap a szürkület védelmében véget érne.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile din Evosmos. Începeți încet și folosiți bisericile ca popasuri uscate. Muzeul Feroviar este locul perfect pentru a lăsa bicicleta și a sta la interior. După-amiaza vă poartă printre bălți strălucitoare spre alte locuri spirituale, înainte ca ziua să se încheie.",
+            "en": "Cycling in the rain requires extra caution on Evosmos' streets. Start slowly and use the churches as dry rest stops. The Railroad Museum is the perfect place to park your bike and stay indoors for a while. The afternoon takes you through glistening puddles to more spiritual sites before the day ends in the gathering dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anoikhto theatraki",
+                "hu": "Anoikhto theatraki",
+                "ro": "Anoikhto theatraki",
+                "en": "Anoikhto theatraki"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf rutschigen Asphalt. Ein kurzer Stopp reicht aus, um die Atmosphäre trotz Regen einzufangen.",
+                "hu": "Leszálláskor ügyeljen a csúszós aszfaltra. Egy rövid megálló is elég, hogy elkapja a hangulatot az eső ellenére is.",
+                "ro": "Atenție la asfaltul alunecos când coborâți. O oprire scurtă este suficientă pentru a surprinde atmosfera în ciuda ploii.",
+                "en": "Watch out for slippery asphalt when dismounting. A quick stop is enough to capture the atmosphere despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Metamorphose tou Soteros",
+                "hu": "Metamorphose tou Soteros",
+                "ro": "Metamorphose tou Soteros",
+                "en": "Metamorphose tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen. Genießen Sie die Ruhe im Inneren dieser prächtigen Kirche.",
+                "hu": "Parkolja le a bringát közel a bejárathoz, hogy gyorsan szárazra érjen. Élvezze a békét e pompás templom falai között.",
+                "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la adăpost. Bucurați-vă de liniștea din interiorul acestei biserici.",
+                "en": "Park your bike close to the entrance to get inside quickly. Enjoy the tranquility within the walls of this magnificent church."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum",
+                "hu": "Vasúti Múzeum",
+                "ro": "Muzeul Feroviar",
+                "en": "Railroad Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Stopp, um die Regenkleidung zu lüften. Die großen Hallen bieten viel Platz zum Entdecken, ohne nass zu werden.",
+                "hu": "Ideális megálló az esőruházat szellőztetésére. A nagy csarnokok bőséges helyet kínálnak a felfedezésre anélkül, hogy megázna.",
+                "ro": "Popasul ideal pentru a aerisi hainele de ploaie. Halele mari oferă mult spațiu de explorare fără a vă uda deloc.",
+                "en": "The ideal stop to air out your rain gear. The large halls offer plenty of space to explore without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen nach der Fahrt im Nassen. Die Kirche bietet einen spirituellen Rückzugsort, während der Regen draußen prasselt.",
+                "hu": "Ellenőrizze a fékeket a vizes út után. A templom spirituális menedéket nyújt, miközben odakint kopog az eső a háztetőkön.",
+                "ro": "Verificați frânele după mersul pe carosabil ud. Biserica oferă un refugiu spiritual în timp ce ploaia bate în ferestre.",
+                "en": "Check your brakes after riding on wet roads. The church provides a spiritual sanctuary while the rain patters outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Anoikhto theatro",
+                "hu": "Anoikhto theatro",
+                "ro": "Anoikhto theatro",
+                "en": "Anoikhto theatro"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist sehr offen; halten Sie bei starkem Regen nach überdachten Bushaltestellen in der Nähe Ausschau für eine kurze Rast.",
+                "hu": "Ez a hely nagyon nyitott; heves esőben keressen közeli fedett buszmegállókat egy rövid kényszerpihenőre a biciklivel.",
+                "ro": "Acest loc este foarte deschis; în caz de ploaie torențială, căutați stații de autobuz acoperite în apropiere pentru un scurt popas.",
+                "en": "This spot is very exposed; in case of heavy rain, look for nearby covered bus stops for a quick rest with your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Paraskeue",
+                "hu": "Agia Paraskeue",
+                "ro": "Agia Paraskeue",
+                "en": "Agia Paraskeue"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein Juwel im Regen. Nutzen Sie den Moment für ein kurzes Gebet oder einfach, um im Trockenen zu verschnaufen.",
+                "hu": "A kis templom igazi ékszerdoboz az esőben. Használja ki a pillanatot egy rövid imára vagy csak egy száraz pihenőre.",
+                "ro": "Mica biserică este o bijuterie în ploaie. Profitați de moment pentru o scurtă rugăciune sau doar pentru a răsufla la uscat.",
+                "en": "The small church is a gem in the rain. Take a moment for a brief prayer or just to catch your breath in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Anastaseos tou Kuriou",
+                "hu": "Ieros Naos Anastaseos tou Kuriou",
+                "ro": "Ieros Naos Anastaseos tou Kuriou",
+                "en": "Ieros Naos Anastaseos tou Kuriou"
+              },
+              "tip_5lang": {
+                "de": "Säubern Sie Ihr Rad kurz von Schlamm, bevor Sie den Tag beenden. Die Kirche bildet einen majestätischen, trockenen Abschluss Ihrer Tour.",
+                "hu": "Röviden tisztítsa meg a biciklit a sártól, mielőtt befejezné a napot. A templom fenséges, száraz záróakkordja a túrának.",
+                "ro": "Curățați scurt bicicleta de noroi înainte de a termina ziua. Biserica reprezintă un final maiestuos și uscat al turului.",
+                "en": "Quickly clean your bike of mud before ending the day. The church provides a majestic, dry conclusion to your cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Evosmos bietet klare Sicht und kühle Brisen. Starten Sie mit warmen Handschuhen. Das Eisenbahnmuseum ist der perfekte Ort, um mittags die eingefrorenen Finger aufzuwärmen. Beachten Sie den frühen Sonnenuntergang um 17:00 Uhr; sorgen Sie für gute Beleuchtung an Ihrem Fahrrad für die letzte Etappe.",
+            "hu": "A téli biciklizés Evosmosban tiszta kilátást és hűvös szeleket kínál. Kezdjen meleg kesztyűben. A Vasúti Múzeum tökéletes hely délben az átfagyott ujjak felmelegítésére. Ügyeljen a korai, 17:00-s naplementére; gondoskodjon jó világításról a bringán az utolsó szakaszhoz.",
+            "ro": "Mersul pe bicicletă iarna în Evosmos oferă o vizibilitate clară și brize răcoroase. Începeți cu mănuși groase. Muzeul Feroviar este locul perfect pentru a vă încălzi mâinile la prânz. Atenție la apusul devreme de la 17:00; asigurați-vă că aveți lumini bune.",
+            "en": "Winter cycling in Evosmos offers clear views and cool breezes. Start with warm gloves. The Railroad Museum is the perfect spot to warm up frozen fingers at midday. Note the early sunset at 17:00; make sure you have good lights on your bike for the final leg of the trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anoikhto theatraki",
+                "hu": "Anoikhto theatraki",
+                "ro": "Anoikhto theatraki",
+                "en": "Anoikhto theatraki"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Morgenluft ist erfrischend, aber bleiben Sie in Bewegung, um nicht auszukühlen, während Sie das Theater bewundern.",
+                "hu": "A hideg reggeli levegő frissítő, de maradjon mozgásban, hogy ne hűljön ki, miközben a színház építészetét csodálja.",
+                "ro": "Aerul rece de dimineață este revigorant, dar rămâneți în mișcare pentru a nu îngheța în timp ce admirați teatrul.",
+                "en": "The cold morning air is refreshing, but keep moving to avoid catching a chill while admiring the theater's structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Metamorphose tou Soteros",
+                "hu": "Metamorphose tou Soteros",
+                "ro": "Metamorphose tou Soteros",
+                "en": "Metamorphose tou Soteros"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im warmen Inneren hilft, die Körpertemperatur zu halten. Genießen Sie die winterliche Stille der Kirche.",
+                "hu": "Egy rövid tartózkodás a meleg belső térben segít fenntartani a testhőt. Élvezze a templom téli, áhítatos csendjét.",
+                "ro": "O scurtă ședere în interiorul cald ajută la menținerea temperaturii corpului. Bucurați-vă de liniștea de iarnă a bisericii.",
+                "en": "A short stay in the warm interior helps maintain your body heat. Enjoy the peaceful winter silence of the church's sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum",
+                "hu": "Vasúti Múzeum",
+                "ro": "Muzeul Feroviar",
+                "en": "Railroad Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume ausgiebig zum Aufwärmen. Es ist der wärmste Punkt Ihrer Radtour vor der Weiterfahrt am Nachmittag.",
+                "hu": "Használja ki a belső tereket a felmelegedésre. Ez a bringatúra legmelegebb pontja a délutáni továbbindulás előtt.",
+                "ro": "Folosiți din plin spațiile interioare pentru a vă încălzi. Este cel mai călduros punct al turului înainte de a continua drumul.",
+                "en": "Make full use of the indoor areas to warm up. This is the warmest point of your bike tour before continuing in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die Kuppeln schön glänzen. Gehen Sie hinein, um sich kurz vor der windigen Weiterfahrt aufzuwärmen.",
+                "hu": "A téli napfény szépen megcsillan a kupolákon. Menjen be egy rövid melegedőre a szeles szakasz előtt.",
+                "ro": "Soarele de iarnă face cupolele să strălucească frumos. Intrați pentru a vă încălzi scurt înainte de porțiunea cu vânt.",
+                "en": "The winter sun makes the domes glisten beautifully. Go inside for a quick warm-up before the windy stretch ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Anoikhto theatro",
+                "hu": "Anoikhto theatro",
+                "ro": "Anoikhto theatro",
+                "en": "Anoikhto theatre"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen kurzen Fotostopp; der Wind weht hier im Winter oft stärker. Halten Sie Ihre Ohren mit einer Mütze warm.",
+                "hu": "Csak egy rövid fotómegállót tartsanak; télen itt gyakran erősebb a szél. Tartsa melegen a füleit egy jó sapkával.",
+                "ro": "Faceți doar o scurtă oprire pentru poze; iarna vântul suflă adesea mai tare aici. Purtați o căciulă călduroasă.",
+                "en": "Make only a quick photo stop; the wind often blows stronger here in winter. Keep your ears warm with a good beanie."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Paraskeue",
+                "hu": "Agia Paraskeue",
+                "ro": "Agia Paraskeue",
+                "en": "Agia Paraskeue"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein gemütlicher Rückzugsort. Perfekt, um sich kurz vor der letzten Etappe der Tour auszuruhen.",
+                "hu": "Ez a kis templom hangulatos menedék a hidegben. Tökéletes hely egy rövid pihenőre a túra utolsó szakasza előtt.",
+                "ro": "Această mică biserică este un refugiu primitor. Perfect pentru o scurtă odihnă înainte de ultima etapă a turului.",
+                "en": "This small church is a cozy retreat from the cold. It is a perfect spot for a brief rest before the final leg of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ieros Naos Anastaseos tou Kuriou",
+                "hu": "Ieros Naos Anastaseos tou Kuriou",
+                "ro": "Ieros Naos Anastaseos tou Kuriou",
+                "en": "Ieros Naos Anastaseos tou Kuriou"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Kirche im letzten Tageslicht zu sehen. Der Innenraum bietet einen feierlichen Winterabschluss.",
+                "hu": "Érkezzen 17:00 előtt, hogy még az utolsó nappali fénynél lássa a templomot. A belső tér ünnepi lezárást ad a napnak.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea biserica în ultima lumină a zilei. Interiorul oferă un final de zi solemn.",
+                "en": "Arrive before 17:00 to see the church in the last daylight. The interior provides a solemn and warm end to your winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós útját Nyugat-Evosmosban történelmi templomokkal, és merüljön el a régió közlekedéstörténetében a helyi Vasúti Múzeumban.\n\nDélben vezessen a forgalmas utcákon az Agios Nektarios és az Életadó Forrás temploma felé, értékelve a kerületek közötti gyors váltást.\n\nA délután az Ampelokipi területre viszi, ahol hatalmas kulturális központok és helyi amfiteátrumok mutatják be a közösség művészeti lelkét.\n\nZárja a napot egy kulturális fináléval az Állami Kortárs Művészeti Múzeumban, elmerülve a lélegzetelállító modern remekművekben vacsora előtt.",
         "ro": "Începeți călătoria în vestul Evosmos cu biserici istorice și o scufundare în istoria transporturilor la Muzeul Feroviar local.\n\nPână la prânz, conduceți pe străzile aglomerate spre Agios Nektarios și Biserica Izvorul Tămăduirii, apreciind ușurința de a schimba cartierele.\n\nDupă-amiaza vă duce în zona Ampelokipi, unde centrele culturale vaste și amfiteatrele locale prezintă sufletul artistic al comunității.\n\nÎncheiați ziua cu un final cultural magnific la Muzeul de Stat de Artă Contemporană, pierzându-vă în capodopere moderne înainte de cină.",
         "en": "Kick off your road trip in western Evosmos with historic churches and a deep dive into the region's transport history at the local Railroad Museum.\n\nBy midday, drive through the bustling streets towards Agios Nektarios and the Life-giving Spring Church, appreciating the ease of hopping between districts.\n\nThe afternoon takes you deep into the Ampelokipi area, where sprawling cultural centers and local amphitheaters showcase the artistic soul of the community.\n\nEnd your day with a magnificent cultural finale at the State Museum of Contemporary Art, losing yourself in breathtaking modern masterpieces before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto genießen Sie Evosmos geschützt vor den Elementen. Planen Sie Zeit für die Parkplatzsuche bei Regen ein. Die Kirchen bieten trockene Kulturstopps, während das Staatliche Museum am Nachmittag das perfekte Ziel für einen langen Aufenthalt im Trockenen ist. Lassen Sie den Tag entspannt ausklingen, während Sie durch die regennassen Straßen gleiten.",
+            "hu": "Autóval kényelmesen, az elemektől védve fedezheti fel Evosmost. Esőben számoljon több idővel a parkolóhely keresésekor. A templomok száraz kulturális megállókat kínálnak, az Állami Múzeum pedig délután tökéletes célpont egy hosszú, fedett programhoz. Zárja a napot lazítással, miközben az esőáztatta utcákon suhan át.",
+            "ro": "Cu mașina, veți descoperi Evosmos protejat de elemente. Alocați mai mult timp pentru căutarea parcării pe ploaie. Bisericile oferă opriri culturale uscate, iar Muzeul de Stat este destinația perfectă pentru o după-amiază la adăpost. Încheiați ziua relaxat, alunecând pe străzile ude.",
+            "en": "By car, you can explore Evosmos comfortably protected from the elements. Allow extra time for finding parking during the rain. The churches offer dry cultural stops, and the State Museum is the perfect afternoon destination for a long indoor visit. End your day relaxing as you glide through the rain-soaked streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ieros Naos Upsoseos Timiou Staurou",
+                "hu": "Ieros Naos Upsoseos Timiou Staurou",
+                "ro": "Ieros Naos Upsoseos Timiou Staurou",
+                "en": "Ieros Naos Upsoseos Timiou Staurou"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nass zu werden zu vermeiden. Die Kirche bietet einen spirituellen Start in den regnerischen Tag.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást. A templom spirituális kezdést nyújt az esős naphoz.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia. Biserica oferă un început spiritual pentru această zi ploioasă.",
+                "en": "Park as close to the entrance as possible to avoid getting wet. The church offers a spiritual start to your rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum",
+                "hu": "Vasúti Múzeum",
+                "ro": "Muzeul Feroviar",
+                "en": "Railroad Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum hat eigene Parkmöglichkeiten. Nutzen Sie die überdachten Bereiche zwischen den Gebäuden, um trocken zu bleiben.",
+                "hu": "A múzeumnak saját parkolója van. Használja a fedett részeket az épületek között, hogy szárazon maradjon a látogatás alatt.",
+                "ro": "Muzeul are parcare proprie. Folosiți zonele acoperite dintre clădiri pentru a rămâne uscat pe parcursul vizitei.",
+                "en": "The museum has its own parking. Use the covered walkways between buildings to stay dry during your interesting visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "hu": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "ro": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "en": "Theatro Kordeliou - Poluleitourgiko Kentro"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in den Seitenstraßen. Das Zentrum ist ein idealer Ort für eine längere Pause fernab vom Regen.",
+                "hu": "Keressen parkolóhelyet a mellékutcákban. A központ ideális hely egy hosszabb pihenőre, távol az esős időjárástól.",
+                "ro": "Căutați un loc de parcare pe străzile adiacente. Centrul este locul ideal pentru o pauză lungă, departe de ploaie.",
+                "en": "Look for a parking spot in the side streets. The center is an ideal place for a longer break away from the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Parkplatz. Die prächtige Kirche ist im Inneren ein Ort der Stille und Trockenheit.",
+                "hu": "Ügyeljen a tócsákra a parkolóban. A pompás templom belseje a csend és a szárazság szigete a városi forgalom közepette.",
+                "ro": "Atenție la bălțile din parcare. Interiorul bisericii superbe este o insulă de liniște și uscăciune în mijlocul orașului.",
+                "en": "Watch out for puddles in the parking area. The magnificent church interior is an island of silence and dryness."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der lebensspendenden Quelle",
+                "hu": "Életadó Forrás Temploma",
+                "ro": "Biserica Izvorul Tămăduirii",
+                "en": "Life-giving Spring Church"
+              },
+              "tip_5lang": {
+                "de": "Das Auto schützt Sie auf der Fahrt; ein kurzer Sprint bringt Sie in die heiligen Hallen dieser besonderen Kirche.",
+                "hu": "Az autó megvédi Önt az úton; egy rövid sprinttel már bent is lehet e különleges templom szent csarnokaiban.",
+                "ro": "Mașina vă protejează pe drum; un sprint scurt vă va duce în holurile sfinte ale acestei biserici deosebite.",
+                "en": "The car protects you on the way; a short sprint will get you inside the sacred halls of this special church."
+              }
+            },
+            {
+              "name": {
+                "de": "Anoikhto Theatro Ampelokepon",
+                "hu": "Anoikhto Theatro Ampelokepon",
+                "ro": "Anoikhto Theatro Ampelokepon",
+                "en": "Anoikhto Theatro Ampelokepon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick kurz vom Auto aus, falls es stark regnet. Die Architektur wirkt auch im Regen sehr imposant.",
+                "hu": "Élvezze a látványt röviden az autóból, ha szakad az eső. Az építészet esőben is rendkívül impozáns látványt nyújt.",
+                "ro": "Admirați vederea scurt din mașină dacă plouă torențial. Arhitectura arată impresionant chiar și sub picăturile de ploaie.",
+                "en": "Enjoy the view briefly from the car if it's pouring. The architecture looks very imposing even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alexes Minotes",
+                "hu": "Alexes Minotes",
+                "ro": "Alexes Minotes",
+                "en": "Alexes Minotes"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp flexibel; bei Regen sind die Innenräume der umliegenden Cafés gute Orte für eine Kaffeepause.",
+                "hu": "Tervezze rugalmasan ezt a megállót; esőben a környező kávézók belső terei kiválóak egy rövid frissítőre.",
+                "ro": "Planificați această oprire flexibil; în caz de ploaie, interioarele cafenelelor din jur sunt bune pentru o pauză.",
+                "en": "Plan this stop flexibly; in case of rain, the interiors of nearby cafes are great spots for a quick coffee break."
+              }
+            },
+            {
+              "name": {
+                "de": "Staatliches Museum für Zeitgenössische Kunst",
+                "hu": "Állami Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Stat de Artă Contemporană",
+                "en": "Kratiko Mouseio Sugkhrones Tekhnes"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss: Bleiben Sie lange drinnen, um die Kunstwerke zu bewundern, während es draußen ungemütlich ist.",
+                "hu": "A tökéletes zárás: maradjon bent hosszan, csodálja meg a műalkotásokat, amíg odakint barátságtalan az időjárás.",
+                "ro": "Finalul perfect: rămâneți în interior pentru a admira operele de artă în timp ce afară vremea este neprietenoasă.",
+                "en": "The perfect finale: stay inside for a long time to admire the artworks while the weather outside is unfriendly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Evosmos im Winter bequem mit dem Auto und genießen Sie die Sitzheizung zwischen den Stopps. Die Museen bieten mittags eine warme Atmosphäre für kulturelle Entdeckungen. Da es bereits gegen 17:00 Uhr dunkel wird, können Sie die beleuchtete Architektur der Kirchen im Abendlicht besonders gut bewundern. Beenden Sie die Tour in einem gemütlichen Restaurant.",
+            "hu": "Fedezze fel Evosmost télen kényelmesen, autóval, élvezve az ülésfűtést a megállók között. A múzeumok délben meleg környezetet biztosítanak a kulturális felfedezésekhez. Mivel 17:00 körül sötétedik, a templomok díszkivilágítását már korán megcsodálhatja. Zárja a túrát egy hangulatos, fűtött étteremben.",
+            "ro": "Explorați Evosmos iarna confortabil cu mașina, bucurându-vă de căldură între opriri. Muzeele oferă la prânz o atmosferă caldă. Deoarece se întunecă în jur de ora 17:00, puteți admira iluminatul bisericilor devreme. Încheiați turul la un restaurant primitor.",
+            "en": "Explore Evosmos in winter comfortably by car, enjoying the seat heaters between stops. The museums provide a warm environment for cultural discoveries at midday. Since it gets dark around 17:00, you can admire the illuminated church architecture early on. Finish your tour at a cozy, heated local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ieros Naos Upsoseos Timiou Staurou",
+                "hu": "Ieros Naos Upsoseos Timiou Staurou",
+                "ro": "Ieros Naos Upsoseos Timiou Staurou",
+                "en": "Ieros Naos Upsoseos Timiou Staurou"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag in der Wärme der Kirche. Die Kerzen schaffen eine behagliche Stimmung gegen den winterlichen Morgenfrost.",
+                "hu": "Kezdje a napot a templom melegében. A gyertyák barátságos hangulatot árasztanak a téli reggeli fagyokkal szemben.",
+                "ro": "Începeți ziua la căldură în biserică. Lumânările creează o atmosferă primitoare împotriva gerului de dimineață.",
+                "en": "Start your day in the warmth of the church. The candles create a cozy atmosphere against the winter morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Eisenbahnmuseum",
+                "hu": "Vasúti Múzeum",
+                "ro": "Muzeul Feroviar",
+                "en": "Railroad Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind ein guter Ort, um sich aufzuwärmen. Nehmen Sie sich Zeit für die Geschichte, fernab vom kalten Wind.",
+                "hu": "A kiállítótermek remek helyszínek a felmelegedésre. Szánjon időt a történelemre, távol a hideg téli széltől.",
+                "ro": "Sălile de expoziție sunt un loc bun pentru a vă încălzi. Alocați timp istoriei, departe de vântul rece de iarnă.",
+                "en": "The exhibition rooms are a great place to warm up. Take your time with history, away from the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "hu": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "ro": "Theatro Kordeliou - Poluleitourgiko Kentro",
+                "en": "Theatro Kordeliou - Poluleitourgiko Kentro"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Kulturzentrum bietet Schutz vor der Kälte. Ein idealer Stopp für eine kulturelle Pause zur Mittagszeit.",
+                "hu": "A fűtött kulturális központ védelmet nyújt a hideg ellen. Ideális megálló egy kulturális pihenőre a déli órákban.",
+                "ro": "Centrul cultural încălzit oferă protecție împotriva frigului. Un popas ideal pentru o pauză culturală la prânz.",
+                "en": "The heated cultural center provides protection from the cold. An ideal stop for a cultural break during the midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist großzügig und warm. Genießen Sie die prachtvolle Ausgestaltung, ohne zu frieren, während das Auto draußen wartet.",
+                "hu": "A belső tér tágas és meleg. Élvezze a pompás díszítést anélkül, hogy fázna, miközben az autó kint várja a parkolóban.",
+                "ro": "Interiorul este spațios și cald. Bucurați-vă de decorațiunile superbe fără a îngheța, în timp ce mașina așteaptă afară.",
+                "en": "The interior is spacious and warm. Enjoy the magnificent decorations without freezing, while your car waits in the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche der lebensspendenden Quelle",
+                "hu": "Életadó Forrás Temploma",
+                "ro": "Biserica Izvorul Tămăduirii",
+                "en": "Life-giving Spring Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen spirituellen Ort am Nachmittag. Die warme Atmosphäre im Inneren ist ein schöner Kontrast zur Winterkälte.",
+                "hu": "Látogassa meg ezt a spirituális helyet délután. A benti meleg légkör szép kontrasztot alkot a kinti téli hideggel.",
+                "ro": "Vizitați acest loc spiritual după-amiaza. Atmosfera caldă din interior este un contrast frumos cu frigul de iarnă.",
+                "en": "Visit this spiritual place in the afternoon. The warm atmosphere inside is a beautiful contrast to the winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Anoikhto Theatro Ampelokepon",
+                "hu": "Anoikhto Theatro Ampelokepon",
+                "ro": "Anoikhto Theatro Ampelokepon",
+                "en": "Anoikhto Theatro Ampelokepon"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp für Fotos im goldenen Nachmittagslicht. Die Wintersonne steht tief und erzeugt tolle Schatten.",
+                "hu": "Tartson egy rövid fotómegállót az aranyló délutáni fényekben. A téli nap alacsonyan jár, és csodás árnyékokat vet.",
+                "ro": "Faceți o scurtă oprire pentru poze în lumina aurie a după-amiezii. Soarele de iarnă este jos și creează umbre superbe.",
+                "en": "Make a short photo stop in the golden afternoon light. The winter sun is low, creating wonderful long shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Alexes Minotes",
+                "hu": "Alexes Minotes",
+                "ro": "Alexes Minotes",
+                "en": "Alexes Minotes"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Aufenthalt empfohlen, da es im Winter hier windig sein kann. Nutzen Sie das Auto als warmen Rückzugsort nach dem Besuch.",
+                "hu": "Rövid tartózkodás javasolt, mivel télen itt szeles lehet az idő. Használja az autót meleg menedékként a látogatás után.",
+                "ro": "Se recomandă o ședere scurtă, deoarece iarna poate fi vânt aici. Folosiți mașina ca refugiu cald după vizită.",
+                "en": "A short stay is recommended as it can be windy here in winter. Use the car as a warm retreat immediately after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Staatliches Museum für Zeitgenössische Kunst",
+                "hu": "Állami Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Stat de Artă Contemporană",
+                "en": "Kratiko Mouseio Sugkhrones Tekhnes"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im beheizten Museum. Bei Sonnenuntergang um 17:00 Uhr ist es drinnen am gemütlichsten.",
+                "hu": "Zárja a napot a fűtött múzeumban. A 17:00-s naplemente után bent a legkellemesebb az idő a művészet élvezetére.",
+                "ro": "Încheiați ziua în muzeul încălzit. După apusul de la ora 17:00, interiorul este cel mai plăcut loc pentru a fi.",
+                "en": "Conclude your day in the heated museum. After the 17:00 sunset, the interior is the coziest place to enjoy modern art."
+              }
+            }
+          ]
+        }
       }
     }
   }

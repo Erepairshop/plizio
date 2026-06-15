@@ -137,6 +137,168 @@
         "hu": "A napot Bandol bájos központjában kezdi a történelmi templom megtekintésével, amely reggel még csodálatos nyugalmat áraszt. Ezt követően sétáljon végig a nyüzsgő jachtkikötőn. Délben a kaszinó melletti sétány és a tágas, finom homokos központi strand hívogat. Kora délután végül a szélvédett Renécros-öbölben talál tökéletes kikapcsolódást és pihenést a tengerparton.",
         "ro": "Ziua dumneavoastră începe în centrul fermecător al orașului Bandol cu o vizită la biserica istorică, care emană o liniște minunată dimineața. Apoi veți face o plimbare de-a lungul portului animat de iahturi. La prânz, promenada de lângă cazinou și plaja principală cu nisip fin vă vor atrage atenția. La începutul după-amiezii, veți găsi în sfârșit relaxare la golful adăpostit de vânt Renécros.",
         "en": "Your day begins in the charming center of Bandol with a visit to the historic church, which radiates a wonderful tranquility in the morning. Afterwards, you will stroll along the bustling yacht marina. At midday, the promenade by the casino and the expansive fine-sand central beach beckon. In the early afternoon, you will finally find pure relaxation at the sheltered bay of Renécros."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt besinnlich unter dem schützenden Dach der Kirche. Mittags führt der Weg am Hafen entlang, wo die salzige Gischt mit dem Regen verschmilzt. Am Nachmittag bietet das Casino einen eleganten Rückzugsort vor den Schauern. Der Tag endet mit einem wehmütigen Blick auf die grauen Wellen der Strände, während man sich in die Wärme eines nahen Cafés flüchtet.",
+            "hu": "A reggel áhítattal indul a templom oltalmazó falai között. Délben a kikötő mentén sétálunk, ahol a sós tengeri permet keveredik az esővel. Délután a kaszinó elegáns menedéket nyújt a záporok elől. A nap a tengerparti hullámok szürke látványával zárul, miközben egy közeli kávézó melegébe húzódunk vissza az elázott utakról.",
+            "ro": "Dimineața începe cu liniște sub acoperișul protector al bisericii. La prânz, plimbarea prin port oferă un spectacol dramatic, unde ploaia întâlnește marea. După-amiaza, cazinoul devine refugiul ideal și elegant în fața rafalelor. Ziua se încheie cu o privire nostalgică spre valurile cenușii ale plajelor, căutând confortul unui local primitor.",
+            "en": "The morning starts with quiet reflection inside the church's sheltered interior. At noon, the port walk offers a dramatic scene where sea mist meets the rain. In the afternoon, the casino provides an elegant escape from the showers. The day ends with a moody view of the grey waves at the beaches, before retreating to the warmth of a nearby seaside bistro."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-François-de-Sales",
+                "hu": "Szalézi Szent Ferenc-templom",
+                "ro": "Biserica Saint-François-de-Sales",
+                "en": "Church of Saint-François-de-Sales"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Eleganz des Innenraums; die Kirche bietet den perfekten trockenen Zufluchtsort, um den heftigsten Regengüssen am Morgen zu entgehen.",
+                "hu": "Csodálja meg a belső tér letisztult eleganciáját; a templom tökéletes száraz menedéket nyújt, hogy elkerülje a reggeli leghevesebb záporokat.",
+                "ro": "Admirați eleganța sobră a interiorului; biserica oferă refugiul uscat perfect pentru a evita cele mai puternice averse de dimineață.",
+                "en": "Admire the simple elegance of the interior; the church provides the perfect dry sanctuary to avoid the heaviest morning downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Bandol",
+                "hu": "Bandol kikötő",
+                "ro": "Portul din Bandol",
+                "en": "Port of Bandol"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Tanzen der Regentropfen auf dem Meer unter den Arkaden der Uferpromenade, um trotz des Wetters die maritime Atmosphäre trocken zu genießen.",
+                "hu": "Figyelje az esőcseppek táncát a tengeren a part menti árkádok alól, így az időjárás ellenére is szárazon élvezheti a tengerparti hangulatot.",
+                "ro": "Priviți dansul picăturilor pe mare de sub arcadele falezei, bucurându-vă de atmosfera maritimă fără a vă uda direct în ploaie.",
+                "en": "Watch the raindrops dance on the sea from under the waterfront arcades, allowing you to enjoy the maritime atmosphere while staying mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino de Bandol",
+                "hu": "Bandol Kaszinó",
+                "ro": "Cazinoul din Bandol",
+                "en": "Bandol Casino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das elegante Ambiente für eine Spielpause im Trockenen; die prachtvollen Säle lassen das trübe Wetter draußen schnell in Vergessenheit geraten.",
+                "hu": "Használja ki az elegáns környezetet egy száraz játékos szünetre; a díszes termekben hamar elfelejti a kinti barátságtalan, borongós időt.",
+                "ro": "Profită de ambianța elegantă pentru o pauză de joc la adăpost; sălile somptuoase te vor face să uiți rapid de vremea mohorâtă de afară.",
+                "en": "Take advantage of the elegant setting for a dry gaming break; the grand halls will quickly make you forget the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Centrale",
+                "hu": "Központi strand",
+                "ro": "Plaja Centrală",
+                "en": "Central Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang mit festem Schuhwerk lohnt sich, um die Kraft der Brandung zu sehen; nutzen Sie die überdachten Terrassen der nahen Strandbars.",
+                "hu": "Egy rövid séta vízálló cipőben megéri a tajtékzó hullámok látványáért; használja a közeli strandbárok fedett teraszait a nézelődéshez.",
+                "ro": "O scurtă plimbare cu încălțăminte impermeabilă merită pentru spectacolul valurilor; folosiți terasele acoperite ale barurilor de pe plajă.",
+                "en": "A short walk with waterproof shoes is worth it for the view of the churning surf; use the covered terraces of nearby beach bars for shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Renécros",
+                "hu": "Renécros strand",
+                "ro": "Plaja Renécros",
+                "en": "Renécros Beach"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Bucht wirkt im Regen mystisch; ein großer Schirm ist hier Pflicht, da es kaum natürliche Unterstände direkt am Sandstrand gibt.",
+                "hu": "A védett öböl misztikus látványt nyújt az esőben; egy nagy esernyő kötelező, mivel a homokos parton kevés a természetes fedett terület.",
+                "ro": "Golful protejat are un aspect mistic pe ploaie; o umbrelă mare este obligatorie, deoarece există puține adăposturi naturale pe plajă.",
+                "en": "The sheltered bay looks mystical in the rain; a large umbrella is mandatory here as there are few natural shelters directly on the sandy shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den Morgenbesuch in der Kirche besonders friedlich. Mittags glitzert das tiefe Blau des Meeres im Hafen unter der sanften Wintersonne. Der Nachmittag wird im Kasino verbracht, wenn die Kühle zunimmt. Da die Sonne bereits gegen 17:00 Uhr sinkt, färben sich die Strände früh in dramatische Pastelltöne, ideal für einen zügigen, erfrischenden Spaziergang.",
+            "hu": "A tiszta téli levegő különösen békéssé teszi a reggeli templomlátogatást. Délben a tenger mélykékje csillog a kikötőben a lágy téli napsütésben. A délutánt a kaszinóban töltjük, ahogy hűlni kezd a levegő. Mivel a nap már 17 óra körül lebukik, a strandok korán drámai pasztellszínekbe öltöznek, ami ideális egy frissítő, tempós sétához.",
+            "ro": "Aerul curat de iarnă face vizita de dimineață la biserică extrem de liniștită. La prânz, albastrul mării strălucește în port sub soarele blând. După-amiaza este petrecută în cazinou pe măsură ce frigul se întețește. Deoarece soarele apune în jurul orei 17:00, plajele capătă nuanțe pastelate dramatice, perfecte pentru o plimbare revigorantă.",
+            "en": "The crisp winter air makes the morning church visit exceptionally peaceful. At noon, the deep blue of the sea sparkles in the port under the soft winter sun. The afternoon is spent in the casino as the chill increases. Since the sun sets around 5 PM, the beaches turn dramatic pastel colors early, perfect for a brisk and refreshing walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-François-de-Sales",
+                "hu": "Szalézi Szent Ferenc-templom",
+                "ro": "Biserica Saint-François-de-Sales",
+                "en": "Church of Saint-François-de-Sales"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille abseits der Sommermassen; die dicken Mauern speichern eine angenehme Kühle, tragen Sie dennoch eine warme Basisschicht Kleidung.",
+                "hu": "Élvezze a csendet a nyári tömeg nélkül; a vastag falak ilyenkor is tartják a hőt, de réteges öltözet javasolt a kinti hideg után.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de vară; zidurile groase mențin o temperatură constantă, dar purtați haine în straturi pentru confort.",
+                "en": "Enjoy the silence away from summer crowds; the thick walls offer a serene atmosphere, but wear a warm base layer for the transition from outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Bandol",
+                "hu": "Bandol kikötő",
+                "ro": "Portul din Bandol",
+                "en": "Port of Bandol"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie mittags am Kai, wenn die Sonne am höchsten steht; die Wintersonne ist hier am stärksten und wärmt angenehm bei Windstille.",
+                "hu": "Sétáljon délben a rakparton, amikor a legmagasabban jár a nap; a téli napsütés itt a legerősebb és szélcsendben kellemesen melegít.",
+                "ro": "Plimbați-vă pe chei la prânz, când soarele este cel mai sus; lumina de iarnă este puternică aici și oferă o căldură plăcută dacă nu bate vântul.",
+                "en": "Walk along the quay at noon when the sun is highest; the winter sun is strongest here and provides pleasant warmth during calm moments."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino de Bandol",
+                "hu": "Bandol Kaszinó",
+                "ro": "Cazinoul din Bandol",
+                "en": "Bandol Casino"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für den späten Nachmittag, um der sinkenden Temperatur zu entkommen und den glamourösen Winterschick von Bandol zu erleben.",
+                "hu": "Tökéletes helyszín késő délutánra, hogy elmeneküljünk a süllyedő hőmérséklet elől és megismerjük Bandol elegáns téli arcát.",
+                "ro": "Un loc perfect pentru după-amiaza târzie, pentru a scăpa de scăderea temperaturii și pentru a experimenta stilul glam de iarnă al orașului.",
+                "en": "A perfect location for late afternoon to escape the dropping temperatures and experience the glamorous winter chic of Bandol."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Centrale",
+                "hu": "Központi strand",
+                "ro": "Plaja Centrală",
+                "en": "Central Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das frühe Lichtspiel der Dämmerung gegen 16:30 Uhr; eine winddichte Jacke ist wegen der kühlen Meeresbrise im Winter unerlässlich.",
+                "hu": "Figyelje meg a szürkület korai fényeit 16:30 körül; egy szélálló dzseki elengedhetetlen a hűvös téli tengeri fuvallat miatt.",
+                "ro": "Observați jocul de lumini al amurgului timpuriu în jurul orei 16:30; o jachetă rezistentă la vânt este esențială din cauza brizei reci de iarnă.",
+                "en": "Observe the early twilight light show around 4:30 PM; a windproof jacket is essential due to the cool winter sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Renécros",
+                "hu": "Renécros strand",
+                "ro": "Plaja Renécros",
+                "en": "Renécros Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter oft menschenleer und ideal für Fotos; planen Sie den Besuch vor 17:00 Uhr ein, bevor es schlagartig dunkel wird.",
+                "hu": "Az öböl télen gyakran teljesen néptelen, így ideális fotózáshoz; tervezze a látogatást 17 óra elé, mielőtt hirtelen besötétedik.",
+                "ro": "Golful este adesea pustiu iarna, fiind ideal pentru fotografii; planificați vizita înainte de ora 17:00, când se întunecă brusc.",
+                "en": "The bay is often deserted in winter, making it ideal for photos; plan your visit before 5 PM before it suddenly gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját egy kis kultúrával Bandol szívében a régi templomnál, amelyet egy pihentető utazás követ a csillogó hajók mentén a kikötőben. A túra ezután nyugat felé vezet, ahol a Capélan sziklásabb partja egy rövid sznorkelezésre hívogat. Délben felfedezheti a környék csendesebb kavicsos strandjait. A kirándulás a napos Plage dorée-n ér véget, amely tökéletes egy kellemes délutáni úszáshoz.",
         "ro": "Începeți-vă turul cu bicicleta cu un pic de cultură în inima orașului Bandol, la vechea biserică, urmată de o plimbare relaxantă de-a lungul bărcilor sclipitoare din port. Turul vă duce apoi spre vest, unde coasta mai stâncoasă de la Capélan vă invită la o scurtă pauză de snorkeling. La prânz, veți explora plajele cu pietriș mai liniștite din zonă. Excursia se termină la însorita Plage dorée, perfectă pentru o oprire la înot.",
         "en": "Start your cycling tour with some culture in the heart of Bandol at the old church, followed by a relaxed ride past the glittering boats in the harbor. The tour then leads you westwards, where the rocky coastline at Capélan invites you for a short snorkeling break. At midday, you'll explore the quieter pebble beaches of the surrounding area. The trip concludes at the sunny Plage dorée, which is absolutely perfect for a swim."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour dynamische Ausblicke. Der Morgen beginnt geschützt bei der Kirche, gefolgt von einer vorsichtigen Fahrt zum Hafen. Mittags fordern die nassen Küstenstraßen zu den Stränden Aufmerksamkeit, belohnen aber mit einsamen Panoramen. Am Nachmittag radeln wir durch die frische, feuchte Luft zurück, wobei die glänzenden Straßen den Lichtern der Stadt ein besonderes Flair verleihen.",
+            "hu": "Az eső ellenére a kerékpártúra dinamikus élményt nyújt. A reggel a templomnál indul, majd óvatos tekerés következik a kikötőig. Délben a vizes tengerparti utak a strandok felé figyelmet igényelnek, de magányos panorámákkal hálálják meg. Délután a friss, párás levegőben tekerünk vissza, ahol a csillogó aszfalt különleges hangulatot ad a város fényeinek.",
+            "ro": "În ciuda ploii, turul cu bicicleta oferă vederi dinamice. Dimineața începe la adăpostul bisericii, urmată de o deplasare prudentă spre port. La prânz, drumurile umede de coastă spre plaje necesită atenție, dar oferă panorame solitare superbe. După-amiaza pedalăm prin aerul proaspăt și umed, asfaltul lucios reflectând luminile orașului.",
+            "en": "Despite the rain, the bike tour offers dynamic views. The morning starts sheltered at the church, followed by a cautious ride to the port. At noon, the wet coastal roads toward the beaches require focus but reward you with solitary panoramas. In the afternoon, we cycle back through the fresh, humid air, with glistening streets adding a special flair to the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-François-de-Sales",
+                "hu": "Szalézi Szent Ferenc-templom",
+                "ro": "Biserica Saint-François-de-Sales",
+                "en": "Church of Saint-François-de-Sales"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz zum sicheren Abstellen der Räder; das Innere bietet eine perfekte Pause, um die Regenkleidung kurz zu lüften.",
+                "hu": "Használja a templom előtti teret a biciklik biztonságos leállításához; a belső tér tökéletes hely az esőruha rövid átszellőztetéséhez.",
+                "ro": "Folosiți piațeta din fața bisericii pentru a parca bicicletele; interiorul oferü o pauză perfectă pentru a vă ajusta echipamentul de ploaie.",
+                "en": "Use the church forecourt for safe bike parking; the interior offers a perfect break to briefly air out your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Bandol",
+                "hu": "Bandol kikötő",
+                "ro": "Portul din Bandol",
+                "en": "Port of Bandol"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Kopfsteinpflaster am Hafen; die Sicht auf die schwankenden Boote im Regen ist vom Fahrrad aus einzigartig.",
+                "hu": "Tekerjen óvatosan a kikötő vizes macskakövein; az esőben ringatózó hajók látványa a kerékpárról nézve egészen egyedi és hangulatos.",
+                "ro": "Pedalați cu grijă pe pavajul umed din port; vederea baricadelor clătinate de ploaie este unică atunci când ești pe bicicletă.",
+                "en": "Cycle carefully on the wet cobblestones at the port; the view of the boats swaying in the rain is unique when seen from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Capélan",
+                "hu": "Capélan strand",
+                "ro": "Plaja Capélan",
+                "en": "Capélan Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen rutschig sein; bremsen Sie frühzeitig vor Kurven, um die wilde Schönheit der Brandung sicher zu genießen.",
+                "hu": "A tengerparti út esőben csúszós lehet; fékezzen időben a kanyarok előtt, hogy biztonságban élvezhesse a tajtékzó tenger vad szépségét.",
+                "ro": "Drumul de coastă poate fi alunecos pe ploaie; frânați din timp în curbe pentru a admira în siguranță frumusețea sălbatică a valurilor.",
+                "en": "The coastal road can be slippery in the rain; brake early before curves to safely enjoy the wild beauty of the crashing surf."
+              }
+            },
+            {
+              "name": {
+                "de": "La plage des Engraviers",
+                "hu": "Engraviers strand",
+                "ro": "Plaja Engraviers",
+                "en": "Engraviers Beach"
+              },
+              "tip_5lang": {
+                "de": "Dieser entlegene Stopp ist im Regen besonders ruhig; achten Sie auf festen Stand Ihres Fahrrads auf dem durchgeweichten Boden am Wegrand.",
+                "hu": "Ez a távoli megálló esőben különösen nyugodt; ügyeljen a kerékpár stabil kitámasztására az út menti felázott talajon.",
+                "ro": "Această oprire retrasă este extrem de liniștită pe ploaie; asigurați-vă că bicicleta este stabilă pe solul moale de la marginea drumului.",
+                "en": "This remote stop is exceptionally quiet in the rain; ensure your bike is standing firmly on the softened ground by the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage dorée",
+                "hu": "Arany strand",
+                "ro": "Plaja de Aur",
+                "en": "Golden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Rückweg bietet eine breite Straße; nutzen Sie Schutzbleche an Ihrem Rad, um sich vor dem aufgewirbelten Spritzwasser der Fahrbahn zu schützen.",
+                "hu": "A visszaút széles úton halad; használjon sárvédőt a kerékpárján, hogy megvédje magát az úttestről felverődő víztől és sártól.",
+                "ro": "Drumul de întoarcere este pe o șosea lată; folosiți apărători la bicicletă pentru a vă proteja de apa proiectată de roți pe carosabil.",
+                "en": "The ride back follows a wide road; use fenders on your bike to protect yourself from the spray kicked up from the road surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad erfordert warme Handschuhe, belohnt aber mit glasklarer Sicht. Morgens ist es bei der Kirche noch frisch. Mittags wärmt die Sonne am Hafen, während wir zu den entfernten Stränden aufbrechen. Der Nachmittag bietet goldene Lichtverhältnisse an der Küste. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour zügig, wenn die kühle Abendbrise vom Meer heraufzieht.",
+            "hu": "A téli kerékpártúra meleg kesztyűt igényel, de kristálytiszta kilátással jutalmaz. Reggel a templomnál még hűvös az idő. Délben a nap melegít a kikötőben, miközben a távolabbi strandok felé indulunk. A délután aranyló fényeket kínál a parton. Mivel 17 órakor sötétedik, a túrát tempósan fejezzük be, ahogy a hűvös esti tengeri szél feltámad.",
+            "ro": "Un tur de iarnă cu bicicleta necesită mănuși groase, dar oferă o vizibilitate de cristal. Dimineața este răcoroasă la biserică. La prânz, soarele încălzește portul în timp ce plecăm spre plajele îndepărtate. După-amiaza oferă lumini aurii pe coastă. Deoarece la ora 17:00 se întunecă, încheiem turul rapid odată cu briza rece de seară.",
+            "en": "A winter bike tour requires warm gloves but rewards you with crystal-clear views. It is chilly at the church in the morning. At noon, the sun warms the port as we head to the distant beaches. The afternoon offers golden light along the coast. Since it gets dark at 5 PM, we finish the tour briskly as the cool evening sea breeze picks up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-François-de-Sales",
+                "hu": "Szalézi Szent Ferenc-templom",
+                "ro": "Biserica Saint-François-de-Sales",
+                "en": "Church of Saint-François-de-Sales"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier mit Aufwärmübungen; die Kirche bietet einen windgeschützten Ort, um die Route für den kühlen Wintermorgen final zu prüfen.",
+                "hu": "Kezdjen itt bemelegítő gyakorlatokkal; a templom szélvédett helyet kínál az útvonal végleges ellenőrzéséhez a hűvös téli reggelen.",
+                "ro": "Începeți cu exerciții de încălzire; biserica oferă un loc ferit de vânt pentru a verifica traseul în această dimineață rece de iarnă.",
+                "en": "Start with some warm-up exercises here; the church offers a wind-sheltered spot to finalize your route for the chilly winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Port de Bandol",
+                "hu": "Bandol kikötő",
+                "ro": "Portul din Bandol",
+                "en": "Port of Bandol"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die intensive Wintersonne am Kai; die reflektierende Meeresoberfläche hilft, die Körpertemperatur beim Radeln angenehm zu halten.",
+                "hu": "Élvezze az intenzív téli napsütést a rakparton; a tengerfelszínről visszaverődő fény segít testhőmérsékletünk fenntartásában tekerés közben.",
+                "ro": "Bucurați-vă de soarele intens de iarnă pe chei; reflexia luminii din mare ajută la menținerea unei temperaturi plăcute în timp ce pedalați.",
+                "en": "Enjoy the intense winter sun at the quay; the reflecting sea surface helps keep your body temperature pleasant while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Capélan",
+                "hu": "Capélan strand",
+                "ro": "Plaja Capélan",
+                "en": "Capélan Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenbrise ist im Winter scharf; tragen Sie ein Multifunktionstuch unter dem Helm, um Kopf und Ohren vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A tengerparti szellő télen metsző lehet; viseljen csősálat a sisak alatt, hogy megvédje fejét és fülét a hideg menetszéltől.",
+                "ro": "Briza de coastă este tăioasă iarna; purtați o eșarfă tip tub sub cască pentru a vă proteja capul și urechile de vântul rece de deplasare.",
+                "en": "The coastal breeze is sharp in winter; wear a neck gaiter under your helmet to protect your head and ears from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La plage des Engraviers",
+                "hu": "Engraviers strand",
+                "ro": "Plaja Engraviers",
+                "en": "Engraviers Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für eine kurze Teepause aus der Thermoskanne; das kühle Licht sorgt für hervorragende Kontraste auf Ihren Urlaubsfotos.",
+                "hu": "Magányos hely egy rövid teaszünethez a termoszból; a hűvös fények kiváló kontrasztot biztosítanak a téli nyaralási fotókhoz.",
+                "ro": "Un loc solitar pentru o scurtă pauză de ceai din termos; lumina rece oferă contraste excelente pentru fotografiile de vacanță.",
+                "en": "A solitary spot for a quick tea break from a thermos; the cool light provides excellent contrast for your winter holiday photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage dorée",
+                "hu": "Arany strand",
+                "ro": "Plaja de Aur",
+                "en": "Golden Beach"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zügig zurück, bevor der Frost der Dämmerung einsetzt; prüfen Sie unbedingt die Funktion Ihrer Fahrradbeleuchtung vor der Abfahrt.",
+                "hu": "Tekerjen tempósan vissza, mielőtt a szürkületi fagy beállna; indulás előtt mindenképpen ellenőrizze a kerékpár világításának működését.",
+                "ro": "Pedalați rapid înapoi înainte de înghețul serii; verificați neapărat funcționarea luminilor bicicletei înainte de plecare.",
+                "en": "Cycle back briskly before the twilight frost sets in; be sure to check that your bike lights are working properly before departing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autóval feltérképezheti a Bandol körüli partszakasz teljes sokszínűségét. A délelőtt klasszikusan tengeri hangulatban indul az elegáns fő kikötőnél, majd a Capélan sziklás öbleihez vezet. Dél körül csodálatos kilátópontokat barangolhat be a Sentier du Littoral mentén, és kis, eldugott fenyőfás öblökben pihenhet. A nap tökéletes befejezéseként egy kis kitérőt tehet a szárazföld belsejébe egy helyi borkóstolóra.",
         "ro": "Cu mașina, veți descoperi întreaga diversitate a coastei din jurul orașului Bandol. Dimineața începe într-un stil maritim clasic la portul principal elegant și apoi vă duce rapid la golfurile stâncoase fascinante de lângă Capélan. În jurul prânzului, veți face o drumeție către punctele de belvedere de pe Sentier du Littoral și vă veți relaxa în golfuri ascunse. Finalul perfect este o excursie în interior pentru degustare de vinuri.",
         "en": "By car, you can access the entire diversity of the beautiful coastline around Bandol. The morning starts in a classic maritime style at the elegant main harbor and then takes you quickly to the rocky bays near Capélan. Around midday, you will hike to magnificent viewpoints on the Sentier du Littoral and relax in hidden pine coves. The perfect conclusion is a scenic inland detour for a lovely local wine tasting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt bietet maximalen Komfort bei Regen. Der Morgen beginnt am Hafen, wo man die Boote gemütlich aus dem trockenen Wagen beobachten kann. Mittags führen Küstenstraßen zu dramatischen Aussichtspunkten am Littoral. Der Nachmittag wird durch den Besuch des Port d'Alon und der Madrague-Bucht abgerundet, bevor der Tag in der gemütlichen Maison des Vins bei einer Weinprobe im Trockenen endet.",
+            "hu": "Az autós túra maximális kényelmet nyújt esőben is. A reggel a kikötőben indul, ahol a száraz autóból figyelhetjük a hajókat. Délben a part menti utak drámai kilátópontokhoz vezetnek a Littoral ösvénynél. A délután a Port d'Alon és Madrague öblök felkeresésével telik, majd a napot a Maison des Vins fedett kóstolótermében zárjuk.",
+            "ro": "Călătoria cu mașina oferă confort maxim pe ploaie. Dimineața începe în port, observând bărcile din interiorul uscat al vehiculului. La prânz, drumurile de coastă duc spre puncte de belvedere dramatice. După-amiaza include vizite la Port d'Alon și Madrague, iar ziua se încheie la Maison des Vins, cu o degustare într-un cadru protejat.",
+            "en": "The car tour offers maximum comfort during rain. The morning starts at the port, where you can watch the boats from the dry interior of the car. At noon, coastal roads lead to dramatic viewpoints by the Littoral trail. The afternoon features Port d'Alon and Madrague bay, ending the day at Maison des Vins with a cozy indoor wine tasting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port de Bandol",
+                "hu": "Bandol kikötő",
+                "ro": "Portul din Bandol",
+                "en": "Port of Bandol"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Quai, um den Blick auf das regnerische Meer zu genießen, ohne das Auto für lange Zeit verlassen zu müssen.",
+                "hu": "Parkoljon közel a rakparthoz, így az autóból is élvezheti az esős tenger látványát anélkül, hogy hosszú időre ki kellene szállnia.",
+                "ro": "Parcați aproape de chei pentru a savura vederea mării pe ploaie fără a fi nevoie să părăsiți mașina pentru mult timp.",
+                "en": "Park close to the quay to enjoy the view of the rainy sea without having to leave the comfort of your car for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Capélan",
+                "hu": "Capélan strand",
+                "ro": "Plaja Capélan",
+                "en": "Capélan Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbuchten für einen kurzen Foto-Stopp; die aufgewühlte See bietet bei Regen ein beeindruckendes, kraftvolles Naturschauspiel.",
+                "hu": "Használja a parkolóöblöket egy rövid fotómegállóhoz; a felkorbácsolt tenger esőben lenyűgöző és erőteljes természeti látványt nyújt.",
+                "ro": "Folosiți locurile de parcare pentru o scurtă oprire foto; marea agitată oferă un spectacol natural impresionant și plin de forță pe ploaie.",
+                "en": "Use the parking bays for a quick photo stop; the rough sea in the rain offers an impressive and powerful natural spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sentier du Littoral",
+                "hu": "Tengerparti ösvény",
+                "ro": "Calea de coastă",
+                "en": "Coastal Trail"
+              },
+              "tip_5lang": {
+                "de": "Da der Pfad rutschig sein kann, empfiehlt es sich, nur die Aussichtspunkte nahe der Parkplätze anzusteuern und feste Wanderschuhe zu tragen.",
+                "hu": "Mivel az ösvény csúszós lehet, javasoljuk, hogy csak a parkolókhoz közeli kilátópontokat keresse fel, és viseljen stabil túrabakancsot.",
+                "ro": "Deoarece poteca poate fi alunecoasă, se recomandă vizitarea doar a punctelor de belvedere de lângă parcare și purtarea bocancilor de munte.",
+                "en": "Since the trail can be slippery, it is recommended to visit only the viewpoints near the parking areas and wear sturdy hiking boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Port d'Alon",
+                "hu": "Port d'Alon strand",
+                "ro": "Plaja Port d'Alon",
+                "en": "Port d'Alon Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zur Bucht ist steil; bei Regen ist Vorsicht geboten. Genießen Sie stattdessen den Blick von den Klippenparkplätzen aus.",
+                "hu": "Az öbölhöz vezető lejtő meredek; esőben fokozott óvatosság szükséges. Élvezze inkább a kilátást a sziklák menti parkolókból.",
+                "ro": "Coborârea spre golf este abruptă; pe ploaie este necesară prudență sporită. Admirați mai degrabă vederea din parcările de pe stânci.",
+                "en": "The descent to the bay is steep; extra caution is needed in the rain. Instead, enjoy the view from the cliff-side parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Madrague",
+                "hu": "Madrague strand",
+                "ro": "Plaja Madrague",
+                "en": "Madrague Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Parkflächen; der Blick auf die Bucht ist im prasselnden Regen besonders dramatisch und ruhig.",
+                "hu": "Ügyeljen a tócsákra a burkolatlan parkolóhelyeken; az öböl látványa a kopogó esőben különösen drámai és megnyugtató élmény.",
+                "ro": "Atenție la bălțile din parcările neamenajate; vederea golfului sub ploaia torențială este extrem de dramatică și liniștitoare.",
+                "en": "Watch out for puddles in unpaved parking areas; the view of the bay in the pattering rain is particularly dramatic and calming."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Vins",
+                "hu": "A Borok Háza",
+                "ro": "Casa Vinurilor",
+                "en": "House of Wines"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss eines Regentages; parken Sie direkt davor und genießen Sie die exzellenten Weine in der warmen, trockenen Atmosphäre.",
+                "hu": "Egy esős nap ideális lezárása; parkoljon közvetlenül az épület előtt, és élvezze a kiváló borokat a meleg, száraz belső térben.",
+                "ro": "Finalul ideal pentru o zi ploioasă; parcați chiar în față și savurați vinurile excelente în atmosfera caldă și uscată din interior.",
+                "en": "The ideal conclusion to a rainy day; park right in front and enjoy the excellent wines in the warm, dry atmosphere inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenstraßen bieten mit dem Auto wunderbare Panoramaausblicke ohne die Sommerstaus. Der Morgen beginnt am belebten Hafen. Mittags erkunden wir die abgelegenen Pfade des Littoral und Port d'Alon, wo die Wintersonne das Meer glitzern lässt. Am Nachmittag führt die Route über die Madrague-Bucht zur Maison des Vins, rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli tengerparti utak autóval csodás panorámát kínálnak nyári dugók nélkül. A reggel a kikötőben indul. Délben a Littoral és Port d'Alon távolabbi ösvényeit fedezzük fel, ahol a téli nap megcsillan a vízen. Délután az út a Madrague öblön át vezet a Maison des Vins-hez, még a korai, 17 órai naplemente előtt.",
+            "ro": "Drumurile de coastă pe timp de iarnă oferă panorame superbe fără traficul de vară. Dimineața începe în port. La prânz explorăm potecile retrase din Littoral și Port d'Alon, unde soarele de iarnă face marea să sclipească. După-amiaza traseul trece prin Madrague spre Maison des Vins, înainte de apusul de la ora 17:00.",
+            "en": "Winter coastal roads by car offer wonderful panoramas without the summer traffic. The morning begins at the lively port. At noon, we explore the remote paths of the Littoral and Port d'Alon, where the winter sun makes the sea sparkle. The afternoon route leads through Madrague bay to Maison des Vins, just before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port de Bandol",
+                "hu": "Bandol kikötő",
+                "ro": "Portul din Bandol",
+                "en": "Port of Bandol"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter Parkplätze direkt am Hafen; nutzen Sie die Morgensonne für einen kurzen, erfrischenden Spaziergang an der Mole.",
+                "hu": "Télen sokkal könnyebben talál parkolót közvetlenül a kikötőben; használja ki a reggeli napsütést egy rövid, frissítő sétára a mólónál.",
+                "ro": "Iarna găsiți mult mai ușor locuri de parcare chiar în port; profitați de soarele dimineții pentru o scurtă plimbare revigorantă pe dig.",
+                "en": "In winter, you can find parking spaces right at the port much more easily; use the morning sun for a short, refreshing walk along the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Capélan",
+                "hu": "Capélan strand",
+                "ro": "Plaja Capélan",
+                "en": "Capélan Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Felsenküste ist im Winter ein herrlicher Ort für Fotos; die Heizung im Auto sorgt nach dem Aussteigen schnell wieder für wohlige Wärme.",
+                "hu": "A sziklás partfal télen lenyűgöző helyszín a fotózáshoz; az autó fűtése gyorsan felmelegíti, miután visszatér a kinti hűvös levegőről.",
+                "ro": "Faleza stâncoasă este un loc superb pentru fotografii iarna; căldura din mașină vă va reîncălzi rapid după ce reveniți de la aerul rece.",
+                "en": "The rocky coastline is a wonderful spot for photos in winter; the car's heater will quickly warm you up after returning from the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Sentier du Littoral",
+                "hu": "Tengerparti ösvény",
+                "ro": "Calea de coastă",
+                "en": "Coastal Trail"
+              },
+              "tip_5lang": {
+                "de": "Die kühle, saubere Luft ermöglicht weite Fernsichten; nehmen Sie warme Kleidung für die Abschnitte mit, die nicht windgeschützt sind.",
+                "hu": "A hűvös, tiszta levegő messzi kilátást tesz lehetővé; vigyen meleg ruhát azokra a szakaszokra, amelyek nincsenek védve a tengeri széltől.",
+                "ro": "Aerul rece și curat permite vederi la mare distanță; luați haine groase pentru porțiunile de drum care nu sunt ferite de vânt.",
+                "en": "The cool, clean air allows for far-reaching views; bring warm clothing for the sections of the trail that are not sheltered from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Port d'Alon",
+                "hu": "Port d'Alon strand",
+                "ro": "Plaja Port d'Alon",
+                "en": "Port d'Alon Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Ruhe dieses Naturjuwels; im Winter ist der Zugang oft einfacher, da keine sommerlichen Beschränkungen gelten.",
+                "hu": "Élvezze e természeti kincs abszolút nyugalmát; télen a hozzáférés is egyszerűbb, mivel nincsenek érvényben a nyári korlátozások.",
+                "ro": "Bucurați-vă de liniștea absolută a acestei bijuterii naturale; iarna accesul este adesea mai simplu, fără restricțiile din sezonul estival.",
+                "en": "Enjoy the absolute tranquility of this natural gem; in winter, access is often easier as there are no summer restrictions in place."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Madrague",
+                "hu": "Madrague strand",
+                "ro": "Plaja Madrague",
+                "en": "Madrague Beach"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht gegen 16:00 Uhr ist magisch; planen Sie Ihre Weiterfahrt zur Maison des Vins kurz danach ein, bevor die Dämmerung einsetzt.",
+                "hu": "Az aranyló fények 16:00 körül varázslatosak; tervezze a továbbindulást a Maison des Vins felé közvetlenül ezután, még a szürkület előtt.",
+                "ro": "Lumina aurie în jurul orei 16:00 este magică; planificați plecarea spre Maison des Vins imediat după, înainte de instalarea amurgului.",
+                "en": "The golden light around 4 PM is magical; plan your onward journey to Maison des Vins shortly after that, before twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Vins",
+                "hu": "A Borok Háza",
+                "ro": "Casa Vinurilor",
+                "en": "House of Wines"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer fachkundigen Verkostung auf; die gemütlichen Innenräume sind der perfekte Ort, um den frühen Abend zu begrüßen.",
+                "hu": "Melegedjen fel egy szakértő kóstolás közben; a barátságos belső terek tökéletesek a kora este köszöntéséhez és a nap lezárásához.",
+                "ro": "Încălziți-vă în timpul unei degustări specializate; interioarele primitoare sunt locul perfect pentru a întâmpina seara devreme.",
+                "en": "Warm up during an expert tasting session; the cozy interiors are the perfect place to welcome the early evening and end the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

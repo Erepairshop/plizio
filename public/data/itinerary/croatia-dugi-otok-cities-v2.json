@@ -137,6 +137,168 @@
         "hu": "A reggel fenséges kilátással kezdődik a Vrh Hrnjetine csúcsán, mielőtt átsétálnánk Škare sziklás karsztjain. A dél Šišlavica csendes zöld ösvényeire visz minket. Délután az Oštravica megmászása lélegzetelállító szigeti panorámával jutalmaz. A nap csodálatosan zárul egy pihentető úszással a gyönyörű Uvala Marnica öbölben.",
         "ro": "Dimineața începe cu vederi maiestuoase la Vrh Hrnjetine înainte de a merge prin carstul stâncos de la Škare. Amiaza ne aduce pe potecile verzi și liniștite din Šišlavica. După-amiaza, urcarea la Oštravica ne răsplătește cu priveliști insulare uluitoare. Ziua se încheie minunat cu o baie relaxantă în Uvala Marnica.",
         "en": "Morning starts with majestic views at Vrh Hrnjetine before walking through the rocky karst of Škare. Midday brings us to the tranquil green paths of Šišlavica for some peaceful rest. In the afternoon, the climb to Oštravica rewards with breathtaking island vistas. The day concludes wonderfully with a relaxing swim in Uvala Marnica."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regen, gute wasserdichte Ausrüstung ist absolute Pflicht. Mittags werden die Wege extrem schlammig, nasse Felsen erfordern große Vorsicht. Am Nachmittag bietet die Bucht einen dramatischen Anblick, aber kaum Schutz vor den Elementen. Den regnerischen Abend verbringt man am besten drinnen im Trockenen, um sich richtig aufzuwärmen.",
+            "hu": "A reggel esővel indul, a jó vízálló felszerelés ilyenkor elengedhetetlen. Délben az ösvények sártengerré válnak, a nedves sziklákon óvatosan kell lépkedni. Délután az öböl viharos, drámai látványt nyújt, de nagyon kevés a fedett menedék. Az esős estét a legjobb egy meleg, száraz szobában tölteni a ruhák szárításával.",
+            "ro": "Dimineața începe cu ploaie, necesitând un echipament impermeabil de încredere. La prânz, potecile devin foarte noroioase, iar stâncile ude cer mare atenție la pași. După-amiaza, golful oferă o priveliște dramatică, dar cu prea puțin adăpost. Seara ploioasă este cel mai bine de petrecut înăuntru, la uscat și căldură.",
+            "en": "The morning starts with steady rain, requiring excellent waterproof gear. By midday, dirt paths become muddy and slick rocks demand very careful steps. In the afternoon, the turbulent bay offers a dramatic, stormy view but very little shelter. The evening is definitely best spent indoors drying your wet clothes and resting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrh Hrnjetine",
+                "hu": "Vrh Hrnjetine",
+                "ro": "Vrh Hrnjetine",
+                "en": "Vrh Hrnjetine"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Atmosphäre am Gipfel; tragen Sie unbedingt rutschfeste Wanderschuhe, da der freiliegende Kalkstein bei Regen extrem glatt wird.",
+                "hu": "Élvezd a hegycsúcs hangulatos, ködös látványát; mindenképp viselj stabil, csúszásmentes túrabakancsot, mivel a szabad mészkő esőben rendkívül csúszós.",
+                "ro": "Bucurați-vă de atmosfera cețoasă de pe vârf; purtați bocanci de drumeție antiderapanți, deoarece calcarul expus devine extrem de alunecos la ploaie.",
+                "en": "Enjoy the atmospheric misty view from the peak; make sure to wear sturdy, non-slip hiking boots as the exposed limestone gets very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Škare",
+                "hu": "Škare",
+                "ro": "Škare",
+                "en": "Škare"
+              },
+              "tip_5lang": {
+                "de": "Die nasse Landschaft lässt die Vegetation leuchten; bringen Sie eine zuverlässige Regenjacke mit Kapuze mit, um sich vor plötzlichen Küstenschauern zu schützen.",
+                "hu": "A nedves táj élénk zöld színeket varázsol a növényzetbe; hozz magaddal egy megbízható, kapucnis esőkabátot a hirtelen lecsapó parti záporok ellen.",
+                "ro": "Peisajul umed scoate în evidență verdele viu al vegetației; aduceți o jachetă impermeabilă cu glugă pentru a vă proteja de aversele bruște de pe coastă.",
+                "en": "The wet landscape brings out vivid greens in the vegetation; bring a reliable waterproof jacket with a hood to protect against sudden coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Šišlavica",
+                "hu": "Šišlavica",
+                "ro": "Šišlavica",
+                "en": "Šišlavica"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Erkundung des Geländes auf schlammige Stellen; Trekkingstöcke bieten dringend benötigte Stabilität beim rutschigen Abstieg.",
+                "hu": "Figyelj a lépéseidre a saras szakaszokon a sziklás terepen; a túrabotok használata extra stabilitást nyújt a csúszós és nedves ereszkedés során.",
+                "ro": "Atenție la porțiunile noroioase explorând terenul accidentat; folosirea bețelor de trekking oferă stabilitatea necesară în timpul coborârii alunecoase.",
+                "en": "Watch your step on muddy patches in the rugged terrain; using trekking poles provides much-needed extra stability during the rainy and slick descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštravica",
+                "hu": "Oštravica",
+                "ro": "Oštravica",
+                "en": "Oštravica"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen zieht hier oft dichter Nebel auf; bleiben Sie immer auf dem markierten Weg und ziehen Sie einen wasserdichten Regenschutz über Ihren Rucksack.",
+                "hu": "Esőben gyakran sűrű köd ereszkedik ide, elrejtve a horizontot; mindig maradj a jelzett ösvényen, és tegyél vízálló esővédő huzatot a hátizsákodra.",
+                "ro": "Ceața deasă apare des aici pe timp de ploaie; rămâneți mereu pe poteca marcată și păstrați o husă de ploaie impermeabilă fixată bine pe rucsac.",
+                "en": "Heavy fog often rolls in here during the rain, hiding the horizon; always stay on the marked path and keep a waterproof rain cover over your backpack."
+              }
+            },
+            {
+              "name": {
+                "de": "Uvala Marnica",
+                "hu": "Uvala Marnica",
+                "ro": "Uvala Marnica",
+                "en": "Uvala Marnica"
+              },
+              "tip_5lang": {
+                "de": "Das aufgewühlte Meer in der Bucht sieht heute dramatisch aus; suchen Sie Schutz unter den Kiefern, aber nehmen Sie sich vor starken Windböen in Acht.",
+                "hu": "A viharos tenger az öbölben ma gyönyörűen drámai arcát mutatja; keress menedéket a parti fák alatt, de vigyázz a hirtelen lecsapó, erős széllökésekkel.",
+                "ro": "Marea agitată din golf arată de-a dreptul dramatic astăzi; căutați adăpost temporar sub copacii de coastă, dar atenție la rafalele de vânt bruște.",
+                "en": "The turbulent sea in the bay looks beautifully dramatic today; seek temporary shelter under coastal trees, but watch out for sudden, strong wind gusts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen bietet atemberaubende Fernsicht, aber scharfen Wind. Mittags wärmt die sanfte Sonne Ihre Wanderung über die Insel. Am Nachmittag werden die Schatten im rauen Gelände extrem schnell länger. Beenden Sie Ihre Tour unbedingt, bevor es um 17:00 Uhr komplett dunkel und bitterkalt wird.",
+            "hu": "A csípős téli reggel tiszta kilátást, de éles szeleket hoz. Délben a lágy napsütés kellemesen felmelegíti a gyalogtúrát. Délután az árnyékok nagyon gyorsan megnyúlnak a sziklás terepen. Mindenképpen fejezd be a sétát, és érj fedél alá a korai, 17:00 órás sötétedés és lehűlés előtt.",
+            "ro": "O dimineață de iarnă geroasă oferă vizibilitate clară, dar vânturi tăioase. La prânz, soarele blând vă încălzește drumeția. După-amiaza, umbrele se alungesc foarte repede pe terenul accidentat. Asigurați-vă că terminați plimbarea înainte de lăsarea întunericului, în jurul orei 17:00.",
+            "en": "A crisp winter morning offers stunning, clear visibility but sharp winds. Midday brings gentle sunshine to warm your hike across the island. Afternoon shadows grow long very quickly in the rugged terrain. Ensure you finish your walk and head back before the freezing early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrh Hrnjetine",
+                "hu": "Vrh Hrnjetine",
+                "ro": "Vrh Hrnjetine",
+                "en": "Vrh Hrnjetine"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft bietet kristallklare, endlose Panoramen; kleiden Sie sich in dicke, winddichte Schichten, um sich vor der eisigen Brise am Gipfel zu schützen.",
+                "hu": "A ropogós téli levegő kristálytiszta, végtelen panorámát nyújt; öltözz vastag, szélálló rétegekbe, hogy megvédjen a fagyos széltől a kitett hegycsúcson.",
+                "ro": "Aerul rece de iarnă oferă panorame nesfârșite și clare; îmbrăcați-vă în straturi groase, rezistente la vânt, pentru a vă proteja de briza înghețată de pe vârf.",
+                "en": "The crisp winter air offers crystal-clear, endless panoramas; dress in thick, windproof layers to protect yourself from the freezing breeze on the peak."
+              }
+            },
+            {
+              "name": {
+                "de": "Škare",
+                "hu": "Škare",
+                "ro": "Škare",
+                "en": "Škare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der touristenfreien Winterwege; eine kleine Thermosflasche mit heißem Tee ist sehr zu empfehlen, um hier Ihre Energie aufrechtzuerhalten.",
+                "hu": "Élvezd a turistáktól mentes téli ösvények abszolút csendjét; egy forró teával teli kis termosz hozatala erősen ajánlott, hogy fenntartsd a testhőmérsékleted.",
+                "ro": "Bucurați-vă de liniștea traseelor de iarnă fără turiști; este foarte recomandat să aduceți un termos mic cu ceai fierbinte pentru a vă menține energia caldă.",
+                "en": "Enjoy the absolute quiet of the tourist-free winter trails; bringing a small thermal flask filled with hot tea is highly recommended to keep your core warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Šišlavica",
+                "hu": "Šišlavica",
+                "ro": "Šišlavica",
+                "en": "Šišlavica"
+              },
+              "tip_5lang": {
+                "de": "In diesen schattigen Bereichen kann sich der Morgenfrost stundenlang halten; tragen Sie isolierte Wanderschuhe, um Ihre Füße vor dem gefrorenen Boden zu schützen.",
+                "hu": "A reggeli dér órákig megmaradhat ezeken az árnyékos területeken; viselj jól szigetelt túrabakancsot, hogy melegen tartsa a lábad a fagyos, köves talajon.",
+                "ro": "Bruma se poate menține ore în șir în aceste zone umbrite; purtați bocanci de drumeție izolați pentru a vă păstra picioarele calde pe solul înghețat.",
+                "en": "Morning frost may linger for hours in these shaded natural areas; wear well-insulated hiking boots to keep your feet warm against the freezing, rocky ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštravica",
+                "hu": "Oštravica",
+                "ro": "Oštravica",
+                "en": "Oštravica"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten; behalten Sie unbedingt eine warme Mütze auf, da die eisige Meeresbrise viel kälter ist, als sie aussieht.",
+                "hu": "Az alacsony téli nap gyönyörűen hosszú árnyékokat vet a tájra; feltétlenül tarts magadon egy meleg sapkát, mert a harapós tengeri szellő sokkal hidegebb, mint amilyennek látszik.",
+                "ro": "Soarele de iarnă aruncă umbre lungi și frumoase; păstrați neapărat o căciulă caldă pe cap, deoarece briza mării este mult mai rece decât pare la prima vedere.",
+                "en": "The low winter sun casts beautifully long shadows over the landscape; definitely keep a warm beanie hat on, as the biting sea breeze is colder than it looks."
+              }
+            },
+            {
+              "name": {
+                "de": "Uvala Marnica",
+                "hu": "Uvala Marnica",
+                "ro": "Uvala Marnica",
+                "en": "Uvala Marnica"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter friedlich und menschenleer; genießen Sie die Aussicht, aber machen Sie sich bald auf den Rückweg, um nicht nach 17:00 Uhr im Dunkeln zu gehen.",
+                "hu": "Az öböl békésen elhagyatott a téli hónapokban; élvezd a nyugodt kilátást, de indulj vissza hamar, hogy elkerüld a 17:00 óra utáni teljes sötétséget.",
+                "ro": "Golful este pustiu și liniștit în lunile de iarnă; bucurați-vă de priveliște, dar porniți înapoi curând pentru a evita mersul pe întuneric complet după ora 17:00.",
+                "en": "The bay is peacefully deserted during the cold winter months; enjoy the serene views, but start heading back soon to avoid walking in total darkness after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa az utat a Vrh Hrnjetine lenyűgöző kilátásával, majd guruljon át Škare egyedi formációihoz. A delet Šišlavica erdős nyugalmának és az Oštravica felé vezető emelkedőknek szenteljük. A délutáni tekerés Orljak magaslati szépsége mellett vezet el. Végül hűtse le fáradt izmait az idilli Uvala Marnica öbölben.",
         "ro": "Începeți plimbarea cu priveliștile ample de la Vrh Hrnjetine, pedalând pe lângă formațiunile unice din Škare. Amiaza este petrecută bucurându-vă de liniștea din Šišlavica și de urcările abrupte către Oštravica. Plimbarea de după-amiază vă duce la frumusețea din Orljak. În cele din urmă, răcoriți-vă în idilicul Uvala Marnica.",
         "en": "Kick off your ride with the sweeping views from Vrh Hrnjetine, rolling next to the unique formations of Škare. Midday is spent enjoying the forested serenity of Šišlavica and the sharp ascents to Oštravica. Afternoon riding takes you past the elevated beauty of Orljak. Finally, cool off your tired muscles in the idyllic Uvala Marnica."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt im Regen erfordert Schutzbleche und helle Warnkleidung. Mittags bedeutet der Dauerregen sehr vorsichtiges Bremsen auf nassen, rutschigen Straßen. Der nachmittägliche Küstenwind an der Bucht wird Ihre Balance auf dem Rad stark fordern. Am Abend ist eine heiße Dusche drinnen die perfekte, rettende Belohnung.",
+            "hu": "A reggeli esős tekeréshez elengedhetetlen a sárvédő és a láthatósági felszerelés. Délben a folyamatos csapadék miatt extrém óvatosan kell fékezni a csúszós aszfalton. Délután a parti szél komoly kihívást jelent az egyensúlyozásban. Este egy forró beltéri zuhany lesz a tökéletes, jól megérdemelt jutalom a fáradalmakért.",
+            "ro": "Călătoria de dimineață pe ploaie cere apărători de noroi și haine de înaltă vizibilitate. La prânz, ploaia continuă înseamnă o frânare foarte atentă pe drumurile ude. Vântul de coastă de după-amiază vă va testa serios echilibrul pe bicicletă. Seara, un duș fierbinte înăuntru este recompensa perfectă pentru acest efort.",
+            "en": "The wet morning ride heavily relies on mudguards and high-visibility cycling gear. By noon, continuous rain means extremely cautious braking on slick, wet roads. Afternoon coastal crosswinds near the bay will seriously challenge your cycling balance. In the evening, a hot indoor shower is the ultimate, well-deserved reward."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrh Hrnjetine",
+                "hu": "Vrh Hrnjetine",
+                "ro": "Vrh Hrnjetine",
+                "en": "Vrh Hrnjetine"
+              },
+              "tip_5lang": {
+                "de": "Neblige Gipfelaussichten sind atmosphärisch; prüfen Sie Ihre Fahrradbremsen sorgfältig, bevor Sie die nassen und rutschigen Straßen hinunterfahren.",
+                "hu": "A ködös hegycsúcs nagyon hangulatos; alaposan ellenőrizd a kerékpárod fékeit, mielőtt elkezdenél ereszkedni a nedves és csúszós utakon.",
+                "ro": "Priveliștea cețoasă de pe vârf are atmosferă; verificați cu atenție frânele bicicletei înainte de a coborî pe drumurile ude și alunecoase.",
+                "en": "Misty peak views are highly atmospheric; carefully check your bike brakes before you begin descending the wet and notoriously slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Škare",
+                "hu": "Škare",
+                "ro": "Škare",
+                "en": "Škare"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt das wilde Gefühl der Insel; tragen Sie zu Ihrer eigenen Sicherheit unbedingt eine gut sichtbare, wasserdichte Fahrradjacke.",
+                "hu": "Az eső felerősíti a sziget vad, természetes érzését; a saját biztonságod érdekében feltétlenül viselj jól látható, vízálló kerékpáros kabátot.",
+                "ro": "Ploaia accentuează senzația de sălbăticie a insulei; purtați o jachetă de ciclism impermeabilă și de înaltă vizibilitate pentru siguranța dumneavoastră.",
+                "en": "The heavy rain enhances the island's wild feel; make absolutely sure to wear a high-visibility, waterproof cycling jacket for your own safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Šišlavica",
+                "hu": "Šišlavica",
+                "ro": "Šišlavica",
+                "en": "Šišlavica"
+              },
+              "tip_5lang": {
+                "de": "Pfützen können tiefe Schlaglöcher verbergen; verringern Sie den Reifendruck leicht, um besseren Halt auf dem extrem rutschigen Untergrund zu haben.",
+                "hu": "A tócsák mély kátyúkat rejthetnek; engedj ki egy kis levegőt a kerekekből, hogy jobb tapadást érj el az extrém csúszós, nedves talajon.",
+                "ro": "Bălțile pot ascunde gropi adânci; reduceți ușor presiunea în anvelope pentru a avea o aderență mai bună pe terenul extrem de alunecos.",
+                "en": "Large puddles can easily hide deep potholes; lower your tire pressure just slightly to maintain better grip on the extremely slippery terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštravica",
+                "hu": "Oštravica",
+                "ro": "Oštravica",
+                "en": "Oštravica"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenregen kann hier unerbittlich sein; legen Sie eine kurze Pause ein, um Ihre Brille oder Ihr Visier für eine bessere Sicht abzuwischen.",
+                "hu": "A parti eső itt kíméletlen lehet; tarts egy rövid pihenőt, és töröld le a szemüvegedet vagy a sisakod rostélyát a tisztább látási viszonyokért.",
+                "ro": "Ploaia de coastă poate fi neobosită aici; luați o scurtă pauză pentru a vă șterge ochelarii sau viziera pentru o vizibilitate mai bună.",
+                "en": "The coastal rain can be quite relentless in this open area; take a brief pause to wipe your glasses or helmet visor for much better clear vision."
+              }
+            },
+            {
+              "name": {
+                "de": "Orljak",
+                "hu": "Orljak",
+                "ro": "Orljak",
+                "en": "Orljak"
+              },
+              "tip_5lang": {
+                "de": "Nasse Steine sind für dünne Reifen extrem tückisch; steigen Sie ab und schieben Sie Ihr Fahrrad, wenn sich der Weg zu glatt anfühlt.",
+                "hu": "A vékony gumik számára a nedves kövek rendkívül alattomosak; inkább szállj le, és told a kerékpárt, ha az ösvény túlságosan csúszósnak tűnik.",
+                "ro": "Pietrele ude sunt extrem de periculoase pentru anvelope; descălecați și împingeți bicicleta dacă poteca vi se pare prea alunecoasă.",
+                "en": "Wet stones are extremely treacherous for thin bike tires; completely dismount and safely push your bike if the rocky path feels far too slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Uvala Marnica",
+                "hu": "Uvala Marnica",
+                "ro": "Uvala Marnica",
+                "en": "Uvala Marnica"
+              },
+              "tip_5lang": {
+                "de": "Die turbulente See ist ein beeindruckender Anblick; suchen Sie ein natürliches Blätterdach, um sich und das Fahrrad vor dem heftigen Regen zu schützen.",
+                "hu": "A viharos tenger lenyűgöző látványt nyújt; keress egy természetes lombkoronát, amely megvédi a kerékpárt és téged is a heves, folyamatos esőtől.",
+                "ro": "Marea turbulentă este o priveliște impresionantă; găsiți un baldachin natural pentru a vă proteja bicicleta și pe dumneavoastră de ploaia torențială.",
+                "en": "The turbulent sea is a truly striking sight; find a natural thick tree canopy to briefly shield both yourself and your bicycle from the heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Morgen erfordert unbedingt Thermo-Radkleidung. Die Mittagssonne wärmt die kalten Inselstraßen leider nur sehr leicht auf. Wenn die Temperaturen am späten Nachmittag rasch fallen, sollten Sie das Tempo spürbar erhöhen. Beenden Sie die Fahrt rechtzeitig vor der frühen und eisigen Dämmerung um 17:00 Uhr.",
+            "hu": "A fagyos reggeli indulás szigorúan vastag, thermo kerékpáros ruházatot kíván. A déli napsütés csak nagyon kissé melegíti fel a hideg utakat. Ahogy délután a hőmérséklet hirtelen és gyorsan csökken, érdemes fokozni a tempót. Mindenképp érj a túra végére a korai, 17:00 órás téli, fagyos szürkület beállta előtt.",
+            "ro": "Un start geros de dimineață face ca echipamentul termic de ciclism să fie obligatoriu. Soarele de prânz încălzește abia ușor drumurile reci ale insulei. Când temperaturile scad brusc după-amiaza, va trebui să creșteți ritmul. Terminați cursa în siguranță înainte de amurgul timpuriu și înghețat de la ora 17:00.",
+            "en": "A highly frosty morning start means you must dress in proper thermal cycling gear. The midday sunshine only slightly warms the freezing island roads. As afternoon temperatures drop rapidly and sharply, pick up your pedaling pace. Ensure you finish your entire ride well before the early winter dusk hits at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrh Hrnjetine",
+                "hu": "Vrh Hrnjetine",
+                "ro": "Vrh Hrnjetine",
+                "en": "Vrh Hrnjetine"
+              },
+              "tip_5lang": {
+                "de": "Der klare Wintermorgen bietet atemberaubende Panoramen; tragen Sie isolierte Fahrradhandschuhe, um taube und eiskalte Hände bei der Abfahrt zu vermeiden.",
+                "hu": "A tiszta téli reggel lenyűgöző panorámát nyújt; viselj vastag, szigetelt kerékpáros kesztyűt, hogy megelőzd az ujjaid zsibbadását a gyors lejtőkön.",
+                "ro": "Dimineața clară de iarnă oferă panorame uimitoare; purtați mănuși izolate de ciclism pentru a preveni amorțirea mâinilor la coborârea rapidă.",
+                "en": "The crisp winter morning provides stunning panoramas; definitely wear thermal cycling gloves to entirely prevent numb hands during the fast descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Škare",
+                "hu": "Škare",
+                "ro": "Škare",
+                "en": "Škare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit der Winterlandschaft; ein absolut winddichter Base-Layer ist unerlässlich gegen die ständige, kalte Meeresbrise.",
+                "hu": "Élvezd a téli táj háborítatlan magányát; egy teljesen szélálló alsó öltözet nélkülözhetetlen a folyamatos, rendkívül hideg tengeri szellő ellen.",
+                "ro": "Bucurați-vă de singurătatea peisajului de iarnă; un strat de bază complet rezistent la vânt este esențial împotriva brizei reci a mării.",
+                "en": "Enjoy the profound solitude of the winter landscape; wearing a completely windproof base layer is utterly essential against the cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Šišlavica",
+                "hu": "Šišlavica",
+                "ro": "Šišlavica",
+                "en": "Šišlavica"
+              },
+              "tip_5lang": {
+                "de": "Straßenabschnitte im tiefen Schatten können fiese Eisflächen aufweisen; radeln Sie sehr vorsichtig und halten Sie ein stetiges, mäßiges Tempo.",
+                "hu": "A mély árnyékban lévő útszakaszokon veszélyes jégfoltok lehetnek; kerékpározz nagyon óvatosan, és tarts egyenletes, visszafogott tempót.",
+                "ro": "Secțiunile de drum aflate în umbră adâncă pot avea pete de gheață; pedalați cu foarte mare precauție și mențineți un ritm constant și moderat.",
+                "en": "Road sections lingering in deep shade might hide extremely slick ice patches; cycle cautiously and keep a very steady, moderate pace throughout."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštravica",
+                "hu": "Oštravica",
+                "ro": "Oštravica",
+                "en": "Oštravica"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne verursacht oft starke Blendung; tragen Sie polarisierte Sportbrillen, um das kalte, raue Gelände klar zu erkennen.",
+                "hu": "Az alacsony téli nap gyakran okoz erős vakítást; viselj polarizált sportnapszemüveget, hogy tisztán lásd a hideg, egyenetlen, sziklás terepet.",
+                "ro": "Soarele de iarnă creează des reflexii puternice; purtați ochelari de sport polarizați pentru a vedea clar terenul accidentat și rece.",
+                "en": "The low winter sun routinely causes severe glare; wear polarized sports sunglasses to clearly see every detail of the cold, rugged terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Orljak",
+                "hu": "Orljak",
+                "ro": "Orljak",
+                "en": "Orljak"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein schnelles, heißes Getränk aus Ihrer Thermoskanne an; fahren Sie jedoch bald weiter, um Ihre wertvolle Körperwärme nicht zu verlieren.",
+                "hu": "Állj meg egy gyors forró italra a termoszodból; de ne időzz sokat, és indulj tovább hamar, hogy ne veszítsd el az értékes testhőmérsékletedet.",
+                "ro": "Opriți-vă pentru o băutură caldă rapidă din termos; totuși, continuați drumul curând pentru a nu vă pierde căldura corporală prețioasă.",
+                "en": "Stop for a very quick hot drink out of your thermos; however, ensure you keep moving soon to maintain your highly valuable body heat intact."
+              }
+            },
+            {
+              "name": {
+                "de": "Uvala Marnica",
+                "hu": "Uvala Marnica",
+                "ro": "Uvala Marnica",
+                "en": "Uvala Marnica"
+              },
+              "tip_5lang": {
+                "de": "Das winterliche Meer ist oft wunderschön ruhig; packen Sie Ihre Ausrüstung schnell zusammen, um dem frühen Sonnenuntergang um 17:00 Uhr zuvorzukommen.",
+                "hu": "A téli tenger gyakran gyönyörűen nyugodt; pakold össze a felszerelésedet gyorsan, hogy még a korai, 17:00 órás naplemente előtt biztonságba érj.",
+                "ro": "Marea de iarnă este adesea frumos de calmă; strângeți-vă echipamentul rapid pentru a devansa apusul devreme, care are loc la ora 17:00.",
+                "en": "The winter sea is beautifully calm and quiet; pack up your gear very quickly to successfully beat the early, freezing sunset that hits by 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós útját a Vrh Hrnjetine magaslati kilátójánál, majd ereszkedjen le gyorsan a békés Uvala Marnica öbölhöz. A dél folyamán felfedezzük Oštravica, Orljak zord természetét és a Strašna peć híres cseppköveit. A késő délután kiemeli a Veli vrh csodálatos magasságait. Az utazás zökkenőmentesen ér véget Šišlavica zöld oázisában.",
         "ro": "Începeți condusul de la punctul înalt Vrh Hrnjetine, apoi coborâți rapid la serena Uvala Marnica. Amiaza aduce o explorare naturală accidentată în jurul Oštravica, Orljak și faimoasele stalactite din Strašna peć. După-amiaza târziu scoate în evidență înălțimile magnifice ale Veli vrh. Călătoria se termină la oaza verde din Šišlavica.",
         "en": "Begin your drive at the high vantage point of Vrh Hrnjetine, then descend quickly to the serene Uvala Marnica. Midday brings rugged natural exploration around Oštravica, Orljak, and the famous stalactites of Strašna peć. The late afternoon highlights the magnificent heights of Veli vrh. Your journey ends smoothly at the green oasis of Šišlavica."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt erfordert angepasste Geschwindigkeiten in nassen Kurven. Mittags bedeuten die Stopps meist kurze, nasse Sprints in den Regen. Höhlenbesuche am Nachmittag sind ideal, um dem schlechten Wetter zu entfliehen. Abendliche Fahrten erfordern auf den dunklen, nassen Straßen extreme Vorsicht.",
+            "hu": "A reggeli vezetés csökkentett sebességet kíván a nedves kanyarokban. Délben a megállók többnyire rövid, esős sprinteket jelentenek a látnivalókig. A délutáni barlanglátogatás ideális menedék a rossz időjárás elől. Az esti autózás a sötét, csúszós utakon extrém koncentrációt és óvatosságot igényel.",
+            "ro": "Conducerea de dimineață necesită viteze reduse în curbele ude. La prânz, opririle înseamnă adesea sprinturi scurte prin ploaie. Vizitarea peșterilor după-amiaza este o scăpare perfectă din vremea rea. Conducerea de seară pe drumurile umede și întunecate necesită o atenție și prudență extremă.",
+            "en": "The morning drive requires much slower speeds on slick, wet curves. Midday stops mean making brief, wet dashes straight into the rain. Afternoon cave visits act as a perfect, dry escape from the bad weather outside. Evening drives on unlit, wet island roads demand extreme caution from the driver."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrh Hrnjetine",
+                "hu": "Vrh Hrnjetine",
+                "ro": "Vrh Hrnjetine",
+                "en": "Vrh Hrnjetine"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den dramatischen Himmel bequem aus dem Auto; steigen Sie vorsichtig aus, da der unbefestigte Parkplatz bei Regen sofort sehr schlammig wird.",
+                "hu": "Csodáld meg a drámai égboltot az autó kényelméből; óvatosan szállj ki, mivel a burkolatlan parkolóterület esőben azonnal rendkívül sarassá válik.",
+                "ro": "Admirați cerul dramatic din confortul mașinii; coborâți cu grijă, deoarece zona de parcare neasfaltată devine foarte repede noroioasă la ploaie.",
+                "en": "Admire the dramatic, cloudy skies right from the car; step out very carefully as the unpaved parking area turns incredibly muddy in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Uvala Marnica",
+                "hu": "Uvala Marnica",
+                "ro": "Uvala Marnica",
+                "en": "Uvala Marnica"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen über die Bucht fegt; bringen Sie einen großen Regenschirm für den kurzen, aber sehr nassen Weg hinunter zum Ufer mit.",
+                "hu": "Figyeld, ahogy az esősávok végigsöpörnek az öblön; hozz magaddal egy hatalmas esernyőt a rövid, de garantáltan nedves sétához a partig.",
+                "ro": "Urmăriți cum ploaia mătură golful; luați o umbrelă mare și solidă pentru plimbarea scurtă, dar foarte udă, până la marginea apei.",
+                "en": "Watch the intense rain sweeping entirely across the bay; ensure you bring a large, sturdy umbrella for the short but very wet walk down to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštravica",
+                "hu": "Oštravica",
+                "ro": "Oštravica",
+                "en": "Oštravica"
+              },
+              "tip_5lang": {
+                "de": "Eingeschränkte Sicht ist bei starkem Regen häufig; schalten Sie die Nebelscheinwerfer ein und fahren Sie sicher rechts ran, um die Aussicht zu genießen.",
+                "hu": "Heves esőzéskor a látótávolság gyakran lecsökken; kapcsold be a ködlámpákat, és húzódj le biztonságosan az útról, hogy megcsodáld a zord kilátást.",
+                "ro": "Vizibilitatea redusă este comună în ploaie abundentă; folosiți farurile de ceață și trageți pe dreapta în siguranță pentru a vă bucura de peisaj.",
+                "en": "Sharply reduced visibility is common in heavy rain; turn on your fog lights and pull over safely onto the shoulder to properly enjoy the moody view."
+              }
+            },
+            {
+              "name": {
+                "de": "Orljak",
+                "hu": "Orljak",
+                "ro": "Orljak",
+                "en": "Orljak"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Kalkstein hier ist wie Eis; halten Sie Ihre regnerischen Fotostopps sehr kurz und bleiben Sie zur Sicherheit nah an den befestigten Flächen.",
+                "hu": "A nedves mészkő itt jégszerűen csúszik; tartsd az esős fotószüneteket nagyon rövidre, és a biztonság kedvéért maradj közel a burkolt felületekhez.",
+                "ro": "Calcarul ud de aici alunecă precum gheața; păstrați opririle foto foarte scurte pe ploaie și rămâneți aproape de suprafețele pavate pentru siguranță.",
+                "en": "The wet limestone here is literally as slick as ice; keep your rainy photo stops very brief and strictly stay near the paved surfaces for full safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Strašna peć",
+                "hu": "Strašna peć",
+                "ro": "Strašna peć",
+                "en": "Strašna peć"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, da die Höhle komplett überdacht ist; tragen Sie wasserdichte Schuhe, da am Höhleneingang oft viel Wasser von der Decke tropft.",
+                "hu": "Tökéletes esős megálló, mivel a barlang teljesen fedett; viselj vízálló cipőt, mert a barlang bejáratánál gyakran csepeg le a víz a sziklákról.",
+                "ro": "O oprire ideală, deoarece peștera este complet acoperită; purtați încălțăminte impermeabilă, intrarea peșterii picurând adesea multă apă din tavan.",
+                "en": "An ideal rainy day stop since the entire cave is covered; definitely wear waterproof shoes as the dramatic cave entrance drips heavy water from above."
+              }
+            },
+            {
+              "name": {
+                "de": "Veli vrh",
+                "hu": "Veli vrh",
+                "ro": "Veli vrh",
+                "en": "Veli vrh"
+              },
+              "tip_5lang": {
+                "de": "Tiefe Regenwolken könnten den Gipfel verdecken; lassen Sie die Autoheizung laufen, um Ihre nasse Kleidung zwischen den kurzen Stopps gut zu trocknen.",
+                "hu": "A mély esőfelhők teljesen eltakarhatják a csúcsot; hagyd bekapcsolva az autó fűtését, hogy a megállók között kényelmesen megszárítsd a nedves ruháidat.",
+                "ro": "Norii de ploaie ar putea ascunde vârful; lăsați încălzirea mașinii pornită pentru a vă usca bine hainele ude între opririle scurte pe care le faceți.",
+                "en": "Low rain clouds might completely obscure the summit; keep the car heater running high to quickly dry your wet clothes between your brief sightseeing stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Šišlavica",
+                "hu": "Šišlavica",
+                "ro": "Šišlavica",
+                "en": "Šišlavica"
+              },
+              "tip_5lang": {
+                "de": "Das düstere Wetter verwandelt die Landschaft total; fahren Sie extrem langsam und konzentriert auf den nassen, kurvigen Straßen zurück zu Ihrer Basis.",
+                "hu": "A zord időjárás teljesen átalakítja a táj hangulatát; vezess extrém lassan és koncentráltan a nedves, kanyargós utakon vissza a szállásod felé.",
+                "ro": "Vremea mohorâtă transformă complet peisajul; conduceți extrem de încet și concentrat pe drumurile ude și sinuoase înapoi spre baza dumneavoastră.",
+                "en": "The highly moody weather transforms the landscape totally; ensure you drive very slowly on the wet, sharply winding roads back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Morgenstunden erfordern sehr vorsichtiges Fahren auf glatten, vereisten Stellen. Die Mittagssonne sorgt für fantastische Lichtverhältnisse beim Sightseeing. Am Nachmittag werden die Schatten jedoch rasend schnell länger. Fahren Sie rechtzeitig und sicher zurück, da es bereits gegen 17:00 Uhr stockdunkel ist.",
+            "hu": "A fagyos reggelek nagyon óvatos vezetést követelnek meg a jeges, csúszós szakaszokon. A déli napsütés fantasztikus fényviszonyokat teremt a nézelődéshez. Délután az árnyékok elképesztő sebességgel nyúlnak meg. Indulj vissza időben és biztonságosan, mert 17:00 óra körül már teljes, koromsötét van.",
+            "ro": "Diminețile geroase necesită conducere foarte atentă pe porțiunile înghețate. Soarele prânzului creează condiții de lumină fantastice pentru vizitare. După-amiaza însă, umbrele se lungesc cu repeziciune. Conduceți înapoi în siguranță, deoarece se face întuneric beznă în jurul orei 17:00.",
+            "en": "Frosty morning starts absolutely require highly careful driving on icy road patches. Midday sunshine makes for brilliant sightseeing lighting across the island. Afternoon shadows lengthen surprisingly fast, however. Ensure you drive back safely as it gets pitch black outside by an early 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vrh Hrnjetine",
+                "hu": "Vrh Hrnjetine",
+                "ro": "Vrh Hrnjetine",
+                "en": "Vrh Hrnjetine"
+              },
+              "tip_5lang": {
+                "de": "Die eiskalte Winterluft bietet endlose Fernsichten über das Meer; stellen Sie sicher, dass die Autoheizung gut funktioniert, bevor Sie den Motor abstellen.",
+                "hu": "A jéghideg téli levegő végtelen kilátást nyújt a tengerre; ellenőrizd, hogy az autó fűtése tökéletesen működik-e, mielőtt huzamosabb időre leállítod a motort.",
+                "ro": "Aerul înghețat de iarnă oferă priveliști nesfârșite; asigurați-vă că încălzirea mașinii funcționează perfect înainte de a opri motorul pentru mult timp.",
+                "en": "The cold, clear winter air offers endless views over the water; make sure your car's heating system is working incredibly well to keep you comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Uvala Marnica",
+                "hu": "Uvala Marnica",
+                "ro": "Uvala Marnica",
+                "en": "Uvala Marnica"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige, leere Winterbucht in völliger Stille; packen Sie für alle Fälle immer eine extra warme Notfalldecke in den Kofferraum Ihres Autos.",
+                "hu": "Tapasztald meg a csendes, üres téli öböl békéjét; minden eshetőségre felkészülve mindig tarts egy extra vastag, meleg vészhelyzeti takarót a csomagtartóban.",
+                "ro": "Experimentați golful de iarnă liniștit și complet gol; împachetați întotdeauna o pătură caldă suplimentară de urgență în portbagajul mașinii dumneavoastră.",
+                "en": "Experience the deeply tranquil, totally empty winter bay; always pack an extra warm, heavy emergency blanket inside the trunk of your car just in case."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštravica",
+                "hu": "Oštravica",
+                "ro": "Oštravica",
+                "en": "Oštravica"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die rauen Felsen besonders dramatisch wirken; steigen Sie unbedingt mit einer dicken Windjacke gegen die eisige Meeresbrise aus.",
+                "hu": "A téli fények különösen drámaivá teszik a durva sziklákat; mindenképpen vastag széldzsekiben szállj ki a kocsiból az éles, fagyos tengeri szellő ellen.",
+                "ro": "Lumina de iarnă face stâncile aspre să iasă în evidență; coborâți cu un hanorac gros și rezistent la vânt împotriva brizei mării înghețate.",
+                "en": "The sharp winter lighting makes the rugged rocks pop visually; make sure to step out wearing a very thick windbreaker against the biting sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Orljak",
+                "hu": "Orljak",
+                "ro": "Orljak",
+                "en": "Orljak"
+              },
+              "tip_5lang": {
+                "de": "Starker Frost kann die ohnehin rauen Kanten des Aussichtspunkts rutschig machen; treten Sie vorsichtig auf und genießen Sie die klare, absolut lautlose Atmosphäre.",
+                "hu": "Az erős fagy csúszóssá teheti a kilátópont amúgy is durva peremeit; lépkedj rendkívül óvatosan, és élvezd a tiszta, teljesen hangtalan téli atmoszférát.",
+                "ro": "Înghețul puternic poate face marginile punctului de belvedere alunecoase; călcați cu mare atenție și bucurați-vă de atmosfera clară și complet tăcută.",
+                "en": "Heavy morning frost can make the viewpoint edges slippery; tread very carefully on foot and take time to enjoy the crisp, entirely silent atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Strašna peć",
+                "hu": "Strašna peć",
+                "ro": "Strašna peć",
+                "en": "Strašna peć"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur in der Höhle ist stabil, fühlt sich im Winter aber kalt an; bringen Sie eine dichte Fleecejacke mit, da Wintertouren hier oft frostig sind.",
+                "hu": "A barlang hőmérséklete stabil, de télen nagyon hidegnek érződik; hozz magaddal egy vastag polárdzsekit, mert a téli túrák bent meglehetősen fagyosak.",
+                "ro": "Temperatura peșterii este stabilă, dar se simte rece iarna; aduceți o jachetă groasă din lână, deoarece tururile de iarnă pot fi destul de friguroase.",
+                "en": "The cave temperature is highly stable but feels chilly; make sure to bring a warm fleece jacket, as the underground winter tours can be quite cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Veli vrh",
+                "hu": "Veli vrh",
+                "ro": "Veli vrh",
+                "en": "Veli vrh"
+              },
+              "tip_5lang": {
+                "de": "Die spektakulären Wintersonnenuntergänge beginnen früh; genießen Sie das herrliche goldene Licht, aber bereiten Sie sich auf sofort sinkende Temperaturen vor.",
+                "hu": "A látványos téli naplementék nagyon korán kezdődnek; élvezd a gyönyörű aranyórányi fényeket, de készülj fel a napnyugtával azonnal zuhanó hőmérsékletre.",
+                "ro": "Apusurile spectaculoase de iarnă încep devreme; bucurați-vă de lumina aurie, dar pregătiți-vă pentru temperaturile care scad imediat după dispariția soarelui.",
+                "en": "Spectacular winter sunsets begin remarkably early; enjoy the gorgeous golden hour light but be fully prepared for instantly rapidly dropping temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Šišlavica",
+                "hu": "Šišlavica",
+                "ro": "Šišlavica",
+                "en": "Šišlavica"
+              },
+              "tip_5lang": {
+                "de": "Das schwindende Licht malt den Himmel farbenfroh; starten Sie Ihre kurvige Rückfahrt auf jeden Fall, bevor gegen 17:00 Uhr die totale Dunkelheit einbricht.",
+                "hu": "A fogyatkozó fény csodás színekre festi az eget; mindenképpen kezdd meg a kanyargós visszaútat, mielőtt 17:00 órakor beállna a teljes, áthatolhatatlan sötétség.",
+                "ro": "Lumina palidă pictează cerul frumos; începeți cu siguranță drumul sinuos de întoarcere înainte să se lase întunericul total, care apare la ora 17:00.",
+                "en": "The fading light paints the sky beautifully; definitely start your winding drive back to base before complete, pitch-black darkness heavily falls at 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "A reggel Olot szívének elegáns modernista épületeivel kezdődik. Délben felfedezi a gazdag művészettörténetet, elmélyülve a híres helyi tájképfestők munkáiban. A délután a hagyományos kézművességnek van szentelve a Szentek Múzeumában. Az este békésen zárul egy fontos történelmi emlékműnél a régi macskaköves utcákon.",
         "ro": "Dimineața începe cu clădirile moderniste elegante din inima orașului Olot. La prânz, explorați istoria bogată a artei și aprofundați operele celebrilor peisagiști locali. După-amiaza este dedicată meșteșugurilor tradiționale din Muzeul Sfinților. Seara se încheie liniștit la un monument istoric important, aflat pe vechile străzi.",
         "en": "The morning begins with the elegant modernist buildings right in the heart of Olot. At midday, explore the rich art history, delving deep into the works of famous local landscape painters. The afternoon is dedicated to traditional craftsmanship at the Museum of Saints. The evening concludes peacefully at a significant historical monument in the old streets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den Vordächern modernistischer Fassaden, während der Regen die Farben der Stadt vertieft. Mittags bieten die Museen von Olot einen trockenen Zufluchtsort für Kunstliebhaber. Am Nachmittag laden kulturelle Zentren zum Verweilen im Warmen ein. Abends glänzen die nassen Gassen im Licht der Laternen; ein stabiler Regenschirm ist heute Ihr wichtigster Begleiter.",
+            "hu": "Reggel a modernista homlokzatok és kapualjak nyújtanak védelmet az első cseppek elől. Délben a város kiváló múzeumaiban találunk menedéket, ahol szárazon élvezhetjük a művészetet. Délután a kulturális központok belső terei hívogatnak, miközben kint elered az eső. Este a vizes kövön tükröződő fények teszik különlegessé a sétát; a vulkáni kövek nedvesen csúszhatnak, óvatosan lépkedjen.",
+            "ro": "Dimineața începe sub streșinile fațadelor moderniste, în timp ce ploaia intensifică culorile orașului. La prânz, muzeele din Olot oferă un refugiu uscat pentru iubitorii de artă. După-amiaza este dedicată spațiilor culturale interioare, ferite de stropii reci. Seara, luminile se reflectă superb pe asfaltul umed; aveți grijă la pavajul alunecos și nu uitați umbrela pentru o plimbare confortabilă.",
+            "en": "The morning starts under the eaves of Modernist facades as the rain deepens the city's colors. At noon, Olot's museums provide a dry haven for art lovers to explore local history. Afternoon is best spent in cozy cultural spaces while the rain falls outside. Evening brings a special glow to the wet streets; keep an umbrella handy and watch your step on the potentially slippery volcanic stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Solà Morales",
+                "hu": "Casa Solà Morales",
+                "ro": "Casa Solà Morales",
+                "en": "Casa Solà Morales"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kachelmotive unter einem Schirm; der Regen lässt die Farben der Fassade noch kräftiger leuchten als bei Sonnenschein.",
+                "hu": "Csodálja meg a homlokzat csempéit egy esernyő alól; az esővíz még élénkebbé teszi a színeket és kiemeli a modernista részleteket.",
+                "ro": "Admirați plăcile ceramice de sub o umbrelă; ploaia face culorile fațadei să strălucească mai intens decât în zilele însorite.",
+                "en": "Admire the iconic tiles from under an umbrella; the rain makes the facade's colors pop even more vividly than in direct sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Gaietà Vila",
+                "hu": "Casa Gaietà Vila",
+                "ro": "Casa Gaietà Vila",
+                "en": "Casa Gaietà Vila"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Arkaden, um die floralen Details zu betrachten; der nasse Stein offenbart feine Texturen der Bildhauerei.",
+                "hu": "Használja a közeli árkádokat a virágmotívumok megtekintéséhez; a nedves kő feltárja a szobrászati részletek finom textúráit.",
+                "ro": "Folosiți arcadele din apropiere pentru a vedea detaliile florale; piatra umedă dezvăluie texturi fine ale sculpturii moderniste.",
+                "en": "Use the nearby archways to spot the floral details; the damp stone reveals fine textures in the sculpture that are often missed."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Garrotxa",
+                "hu": "Museu de la Garrotxa",
+                "ro": "Museu de la Garrotxa",
+                "en": "Museu de la Garrotxa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen zu entkommen; genießen Sie die Landschaftsmalereien im Trockenen und nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Ideális hely az eső elől; élvezze a tájképeket szárazon, és használja a ruhatárat a vizes kabátok és esernyők biztonságos tárolására.",
+                "ro": "Locul ideal pentru a scăpa de ploaie; bucurați-vă de picturi la adăpost și folosiți garderoba pentru a lăsa hainele ude la intrare.",
+                "en": "The perfect place to escape the downpour; enjoy the landscape paintings indoors and use the cloakroom to store your wet gear safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Popular",
+                "hu": "Ateneu Popular",
+                "ro": "Ateneu Popular",
+                "en": "Ateneu Popular"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie den Schauer in diesem lebendigen Kulturzentrum ab; die hohen Decken bieten eine angenehme Atmosphäre bei grauem Wetter.",
+                "hu": "Várja meg a zápor végét ebben a vibráló kulturális központban; a tágas belső terek kellemes menedéket nyújtanak a szürke időben.",
+                "ro": "Așteptați trecerea ploii în acest centru cultural vibrant; plafoanele înalte oferă o atmosferă plăcută chiar și pe timp de furtună.",
+                "en": "Wait out the shower in this vibrant cultural hub; the high ceilings and local buzz provide a great refuge from the grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Pujador",
+                "hu": "Casa Pujador",
+                "ro": "Casa Pujador",
+                "en": "Casa Pujador"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Architektur zu bewundern; achten Sie auf die Pfützen, in denen sich die Turmspitze spiegelt.",
+                "hu": "Egy rövid megálló is elég az épület megcsodálásához; figyelje a tócsákat, amelyekben gyönyörűen tükröződik a díszes toronysisak.",
+                "ro": "O scurtă oprire este suficientă pentru a vedea clădirea; observați bălțile în care se reflectă spectaculos turla ornamentată.",
+                "en": "A brief stop is enough to admire the design; look for reflections in the puddles which capture the ornate tower beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu dels Sants",
+                "hu": "Museu dels Sants",
+                "ro": "Museu dels Sants",
+                "en": "Museu dels Sants"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Werkstatt-Atmosphäre ein, während es draußen stürmt; die Innenbeleuchtung wirkt an Regentagen besonders mystisch.",
+                "hu": "Merüljön el a műhely hangulatában, miközben kint tombol a vihar; a belső világítás esős napokon különösen misztikus hangulatot áraszt.",
+                "ro": "Explorați atmosfera atelierului în timp ce afară plouă; iluminarea interioară pare deosebit de mistică în zilele noroase și reci.",
+                "en": "Deep dive into the workshop atmosphere while it storms outside; the interior lighting feels extra mystical on a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Joan Pere Fontanella",
+                "hu": "Joan Pere Fontanella",
+                "ro": "Joan Pere Fontanella",
+                "en": "Joan Pere Fontanella"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Garrotxa-Landschaft wirkt hier besonders dramatisch; tragen Sie rutschfeste Schuhe für den Weg durch die historische Zone.",
+                "hu": "A ködös Garrotxa táj innen nézve különösen drámai; viseljen csúszásmentes talpú cipőt a történelmi negyed vizes macskakövein.",
+                "ro": "Peisajul cețos din Garrotxa arată dramatic de aici; purtați încălțăminte aderentă pentru pavajul umed din zona istorică veche.",
+                "en": "The misty Garrotxa landscape looks dramatically beautiful from here; wear non-slip shoes for the wet cobblestones in this area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Olot lässt die vulkanische Erde unter dem Frost glitzern. Mittags wärmen beheizte Museen Körper und Geist mit lokaler Geschichte. Am Nachmittag sinkt die Sonne früh hinter die Berge, was die Stadt in ein magisches Licht taucht. Abends sorgt die kühle Luft für eine belebende Atmosphäre; warme Kleidung und ein heißes Getränk sind nun unverzichtbar.",
+            "hu": "A tiszta téli reggelen Olot vulkáni talaja szinte szikrázik a zúzmarától. Délben a fűtött múzeumok melege kínál pihenőt és kulturális feltöltődést. Délután a nap korán, 17:00 körül bukik a hegyek mögé, hosszú árnyékokat vetve a terekre. Este a friss, hideg levegő hívogat egy rövid sétára; réteges öltözet és egy meleg sál elengedhetetlen a felfedezéshez.",
+            "ro": "O dimineață senină de iarnă face pământul vulcanic din Olot să sclipească sub brumă. La prânz, muzeele încălzite oferă un refugiu primitor și lecții de istorie. După-amiaza, soarele apune devreme, în jurul orei 17:00, scăldând orașul într-o lumină aurie. Seara, aerul rece devine revigorant; îmbrăcați-vă în straturi groase pentru a vă bucura de atmosfera liniștită.",
+            "en": "A crisp winter morning in Olot sees the volcanic soil sparkling under a light frost. At noon, heated museums offer warmth and a deep dive into local heritage. Afternoon light fades early as the sun dips behind the mountains by 5 PM. Evening brings a refreshing chill to the air; dress in warm layers and enjoy the cozy, quiet atmosphere of the winter streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Solà Morales",
+                "hu": "Casa Solà Morales",
+                "ro": "Casa Solà Morales",
+                "en": "Casa Solà Morales"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Winterlicht hebt die Reliefs der Fassade perfekt hervor; besuchen Sie diesen Ort früh, um die ersten Sonnenstrahlen zu fangen.",
+                "hu": "Az alacsony téli napfény tökéletesen kiemeli a homlokzat domborműveit; jöjjön korán, hogy elkapja az első melengető fénysugarakat.",
+                "ro": "Lumina joasă de iarnă evidențiază perfect reliefurile fațadei; vizitați locul devreme pentru a prinde primele raze de soare pe decor.",
+                "en": "The low winter sun highlights the facade's reliefs perfectly; arrive early to catch the first rays of light hitting the modernist details."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Gaietà Vila",
+                "hu": "Casa Gaietà Vila",
+                "ro": "Casa Gaietà Vila",
+                "en": "Casa Gaietà Vila"
+              },
+              "tip_5lang": {
+                "de": "In der kühlen Morgenluft wirken die Details scharf und klar; genießen Sie die Ruhe, da im Winter weniger Touristen die Sicht versperren.",
+                "hu": "A hűvös reggeli levegőben a részletek élesnek és tisztának tűnnek; élvezze a csendet, télen jóval kevesebb turista állja el a kilátást.",
+                "ro": "În aerul rece al dimineții, detaliile par clare și bine definite; profitați de liniște, iarna fiind mult mai puțini turiști în zonă.",
+                "en": "In the cool morning air, the details appear sharp and clear; enjoy the peace as winter means fewer tourists blocking your view."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Garrotxa",
+                "hu": "Museu de la Garrotxa",
+                "ro": "Museu de la Garrotxa",
+                "en": "Museu de la Garrotxa"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; die Landschaftsbilder zeigen oft die Region in genau diesem winterlichen Licht.",
+                "hu": "Melegedjen fel a fűtött kiállítótermekben; a tájképek gyakran épp ebben a különleges, téli megvilágításban ábrázolják a környéket.",
+                "ro": "Încălziți-vă în sălile de expoziție; picturile de peisaj surprind adesea regiunea exact în această lumină specifică de iarnă.",
+                "en": "Warm up inside the heated galleries; many of the landscape paintings depict the region in exactly this unique winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ateneu Popular",
+                "hu": "Ateneu Popular",
+                "ro": "Ateneu Popular",
+                "en": "Ateneu Popular"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Treffpunkt am Nachmittag; prüfen Sie das Programm auf Winterkonzerte oder lokale Vorträge im Warmen.",
+                "hu": "Hangulatos találkozóhely a délutáni órákban; nézze meg a programot, gyakran tartanak téli koncerteket vagy előadásokat bent.",
+                "ro": "Un punct de întâlnire primitor după-amiaza; verificați programul pentru concerte de iarnă sau prelegeri locale la căldură.",
+                "en": "A cozy meeting spot for the afternoon; check the schedule for winter concerts or local talks held in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Pujador",
+                "hu": "Casa Pujador",
+                "ro": "Casa Pujador",
+                "en": "Casa Pujador"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das Gebäude vor 16:30 Uhr, um das letzte goldene Licht zu nutzen, bevor die Dämmerung im Tal einsetzt.",
+                "hu": "Fotózza le az épületet 16:30 előtt, hogy kihasználja az utolsó arany fényeket, mielőtt a korai szürkület beállna a völgyben.",
+                "ro": "Fotografiați clădirea înainte de 16:30 pentru a prinde ultima lumină aurie, înainte ca amurgul să se lase peste vale.",
+                "en": "Photograph the building before 4:30 PM to catch the last golden light before the early winter twilight settles over the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu dels Sants",
+                "hu": "Museu dels Sants",
+                "ro": "Museu dels Sants",
+                "en": "Museu dels Sants"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Rückzugsort vor der Abendkälte; die stillen Hallen vermitteln im Winter eine besonders besinnliche Stimmung.",
+                "hu": "Csodálatos menedék az esti lehűlés elől; a csendes csarnokok télen különösen meghitt és áhítatos hangulatot árasztanak.",
+                "ro": "Un refugiu excelent împotriva frigului de seară; halele liniștite emană o atmosferă deosebit de contemplativă în timpul iernii.",
+                "en": "A wonderful retreat from the evening chill; the quiet halls convey a particularly contemplative and peaceful mood in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Joan Pere Fontanella",
+                "hu": "Joan Pere Fontanella",
+                "ro": "Joan Pere Fontanella",
+                "en": "Joan Pere Fontanella"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang über den Vulkanhügeln; ziehen Sie Handschuhe an, da es nach 17 Uhr schnell frostig wird.",
+                "hu": "Nézze végig a naplementét a vulkáni dombok felett; húzzon kesztyűt, mert 17 óra után a hőmérséklet gyorsan fagypont alá eshet.",
+                "ro": "Priviți apusul peste dealurile vulcanice; puneți-vă mănușile, deoarece temperatura scade rapid după ora 17:00.",
+                "en": "Watch the winter sunset over the volcanic hills; put on your gloves as the temperature drops quickly after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Sportosan indul a nap egy régi védőtoronynál, ahonnan remek kilátás nyílik a vulkanikus tájra. Délelőtt a csendes forrásokhoz és egy zöldellő kápolnához kerekezik. A délután érdekes betekintést nyújt a regionális természetvédelembe és a helyi művészetbe. A napot nyugodtan zárja a város történelmi központjában.",
         "ro": "Începeți sportiv la un vechi turn de apărare cu o vedere minunată asupra peisajului vulcanic. Dimineața, pedalați spre izvoarele liniștite și o capelă în mijlocul naturii. După-amiaza oferă perspective interesante asupra conservării regionale și a artei locale. Încheiați ziua relaxat, înapoi în centrul istoric al orașului.",
         "en": "You start sportily at an old defensive tower offering a great view over the volcanic landscape. In the morning, cycle to the quiet springs and a small chapel in the green. The afternoon offers interesting insights into regional nature conservation and local art. You end the day relaxed, back in the historic center of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt feucht auf den Wegen zum Montolivet. Mittags bieten die grünen Ufer des Flusses eine mystische Kulisse im Regen. Am Nachmittag ist Vorsicht auf nassen Waldwegen geboten, da Schlamm die Fahrt erschweren kann. Abends kehren Sie durch die glänzenden Straßen zum Zentrum zurück; gute Regenbekleidung und Schutzbleche sind heute ein Muss für jeden Radfahrer.",
+            "hu": "A nap nedves utakon indul a Montolivet felé. Délben a folyóparti zöld területek misztikus látványt nyújtanak az esőben. Délután legyen óvatos az erdei utakon, a sár nehezítheti a haladást és csúszóssá teheti a kanyarokat. Este a csillogó aszfalton térhet vissza a központba; a sárvédő és a jó minőségű esőkabát ma kötelező felszerelés a bringásoknak.",
+            "ro": "Ziua începe pe drumuri umede spre Montolivet. La prânz, malurile verzi ale râului oferă un decor mistic prin perdeaua de ploaie. După-amiaza, fiți atenți pe potecile de pădure, deoarece noroiul poate face înaintarea dificilă. Seara, reveniți spre centru pe străzile lucioase; aripile la bicicletă și o pelerină bună sunt esențiale astăzi.",
+            "en": "The day starts on damp paths heading towards Montolivet. At noon, the green riverbanks offer a mystical backdrop through the drizzle. Afternoon requires extra caution on forest trails, as mud can make handling tricky and slippery. Evening finds you returning to the center on shiny streets; mudguards and high-quality rain gear are essential for cyclists today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Montolivet",
+                "hu": "Torre de Montolivet",
+                "ro": "Turnul Montolivet",
+                "en": "Torre de Montolivet"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann rutschig sein; fahren Sie langsam und genießen Sie den Blick auf das nebelverhangene Olot von oben.",
+                "hu": "A felfelé vezető út csúszós lehet; tekerjen lassan, és élvezze a kilátást a ködfátyolba burkolózó Olot városára fentről.",
+                "ro": "Urcarea poate fi alunecoasă; pedalați încet și bucurați-vă de vederea asupra orașului Olot învăluit în ceață de sus.",
+                "en": "The climb can be slippery; ride slowly and enjoy the view of mist-covered Olot from the top of this volcanic lookout."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Roc",
+                "hu": "Sant Roc",
+                "ro": "Sant Roc",
+                "en": "Sant Roc"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze Pause unter dem Vordach; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt im Regen fortsetzen.",
+                "hu": "Kiváló hely egy rövid pihenőre az ereszek alatt; ellenőrizze a fékeket, mielőtt továbbindulna a vizes aszfalton.",
+                "ro": "Un loc bun pentru o scurtă pauză sub streșină; verificați frânele înainte de a continua drumul prin ploaie.",
+                "en": "A great spot for a short break under the eaves; check your brakes before continuing your ride on the wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre reproductor de cranc de riu",
+                "hu": "Centre reproductor de cranc de riu",
+                "ro": "Centre reproductor de cranc de riu",
+                "en": "Centre reproductor de cranc de riu"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserbecken wirken bei Regen noch natürlicher; stellen Sie Ihr Rad an einem geschützten Baum ab, während Sie schauen.",
+                "hu": "A vizes élőhelyek esőben még természetesebbnek hatnak; támassza le a bringát egy védett fa alá, amíg körülnéz a központban.",
+                "ro": "Bazinele par și mai naturale în timpul ploii; lăsați bicicleta sub un copac adăpostit în timp ce vizitați centrul.",
+                "en": "The water habitats look even more natural in the rain; park your bike under a sheltered tree while you take a quick look."
+              }
+            },
+            {
+              "name": {
+                "de": "Font Moixina",
+                "hu": "Font Moixina",
+                "ro": "Font Moixina",
+                "en": "Font Moixina"
+              },
+              "tip_5lang": {
+                "de": "Das Plätschern der Quelle vermischt sich mit dem Regengeräusch; achten Sie auf nasse Blätter auf dem Boden, die sehr glatt sind.",
+                "hu": "A forrás csobogása összeolvad az eső kopogásával; vigyázzon a földön lévő vizes levelekre, mert rendkívül csúszósak.",
+                "ro": "Susurul izvorului se împletește cu sunetul ploii; atenție la frunzele ude de pe jos, care pot fi extrem de alunecoase.",
+                "en": "The bubbling spring blends with the sound of rain; watch out for wet leaves on the ground, as they can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Malatosquer",
+                "hu": "Mirador del Malatosquer",
+                "ro": "Mirador del Malatosquer",
+                "en": "Mirador del Malatosquer"
+              },
+              "tip_5lang": {
+                "de": "Oft hängen die Wolken tief über dem Tal; wischen Sie den Sattel trocken, bevor Sie nach dem Fotostopp weiterfahren.",
+                "hu": "A felhők gyakran alacsonyan úsznak a völgy felett; törölje szárazra a nyerget, mielőtt a fotózás után továbbhajtana.",
+                "ro": "Norii plutesc adesea jos deasupra văii; ștergeți șaua înainte de a pleca mai departe după ce ați făcut fotografii.",
+                "en": "Clouds often hang low over the valley here; wipe your saddle dry before pedaling further after your photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Garrotxa",
+                "hu": "Museu de la Garrotxa",
+                "ro": "Museu de la Garrotxa",
+                "en": "Museu de la Garrotxa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe und gönnen Sie sich eine lange Pause im Trockenen, um die Kunst zu genießen.",
+                "hu": "Használja a közeli bringatárolókat, és tartson egy hosszabb pihenőt a száraz épületben, amíg megtekinti a kiállítást.",
+                "ro": "Folosiți suporturile de biciclete din apropiere și luați o pauză lungă la adăpost pentru a vă bucura de artă.",
+                "en": "Use the nearby bike racks and treat yourself to a long indoor break to enjoy the art while escaping the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Solà Morales",
+                "hu": "Casa Solà Morales",
+                "ro": "Casa Solà Morales",
+                "en": "Casa Solà Morales"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour im Stadtzentrum; parken Sie sicher und achten Sie beim Absteigen auf den rutschigen Untergrund.",
+                "hu": "A túra vége a belvárosban; parkoljon le biztonságosan, és ügyeljen a lábára a leugráskor, mert az aszfalt csúszhat.",
+                "ro": "Finalul turului în centrul orașului; parcați în siguranță și atenție la coborâre, pavajul poate fi alunecos.",
+                "en": "The end of your tour in the center; park securely and watch your footing when dismounting on the slick pavement."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft belebt die Fahrt hinauf zum Montolivet. Mittags scheint die Sonne oft hell, wärmt aber nur schwach auf den offenen Wegen. Am Nachmittag sollten Sie die Tour zügig beenden, da die Kälte mit dem schwindenden Licht schnell zunimmt. Abends glühen die Lichter der Stadt einladend; tragen Sie winddichte Handschuhe und eine warme Mütze unter dem Helm.",
+            "hu": "A friss téli levegő élénkítően hat a Montolivet felé vezető úton. Délben a nap gyakran ragyog, de az ereje már kevés a nyílt szakaszokon. Délután érdemes tempósabban haladni, mert a fényekkel együtt a hőmérséklet is hirtelen zuhan. Este a város fényei hívogatóan csillognak; a szélálló kesztyű és a sisak alatti sapka elengedhetetlen a fagyos menetszélben.",
+            "ro": "Aerul rece de iarnă este revigorant în urcarea spre Montolivet. La prânz, soarele strălucește adesea, dar încălzește puțin pe drumurile deschise. După-amiaza, grăbiți pasul, deoarece frigul se intensifică rapid odată cu lăsarea serii. Seara, luminile orașului sunt primitoare; purtați mănuși rezistente la vânt și o căciulă sub cască.",
+            "en": "Crisp winter air invigorates the ride up to Montolivet. At noon, the sun often shines brightly but provides little warmth on the open paths. Afternoon is the time to wrap up your tour quickly, as the chill intensifies as soon as the sun dips. Evening lights glow invitingly; windproof gloves and a warm liner under your helmet are essential for winter cycling."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Montolivet",
+                "hu": "Torre de Montolivet",
+                "ro": "Turnul Montolivet",
+                "en": "Torre de Montolivet"
+              },
+              "tip_5lang": {
+                "de": "Durch die kahlen Bäume ist die Sicht auf die Vulkane im Winter sogar noch freier; ziehen Sie sich nach dem Anstieg direkt wieder warm an.",
+                "hu": "A kopár fák között télen még szabadabb a kilátás a vulkánokra; az emelkedő után rögtön öltözzön vissza, nehogy megfázzon a szélben.",
+                "ro": "Printre copacii desfrunziți, vederea spre vulcani este și mai liberă iarna; îmbrăcați-vă imediat după urcare pentru a nu răci.",
+                "en": "Through the bare trees, the view of the volcanoes is even clearer in winter; layer back up immediately after your climb to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Roc",
+                "hu": "Sant Roc",
+                "ro": "Sant Roc",
+                "en": "Sant Roc"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne erreicht diesen Ort mittags oft gut; nutzen Sie die Wärme für eine kurze Trinkpause, bevor es im Schatten weitergeht.",
+                "hu": "A nap délben jól megvilágítja ezt a pontot; használja ki a melegét egy rövid ivószünetre, mielőtt az árnyékosabb részekre érne.",
+                "ro": "Soarele ajunge bine aici la prânz; profitați de căldură pentru o scurtă pauză de hidratare înainte de a intra la umbră.",
+                "en": "The sun hits this spot well at noon; use the warmth for a quick hydration break before heading into the colder shaded sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre reproductor de cranc de riu",
+                "hu": "Centre reproductor de cranc de riu",
+                "ro": "Centre reproductor de cranc de riu",
+                "en": "Centre reproductor de cranc de riu"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser dampft manchmal in der kalten Morgenluft; binden Sie Ihr Rad fest und bewegen Sie die Finger, um die Durchblutung zu fördern.",
+                "hu": "A víz néha gőzölög a hideg reggeli levegőben; támassza le a bringát, és mozgassa át az ujjait, hogy serkentse a vérkeringést.",
+                "ro": "Apa scoate uneori aburi în aerul rece al dimineții; lăsați bicicleta și mișcați-vă degetele pentru a menține circulația sângelui.",
+                "en": "The water sometimes steams in the cold morning air; park your bike and move your fingers to keep your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Font Moixina",
+                "hu": "Font Moixina",
+                "ro": "Font Moixina",
+                "en": "Font Moixina"
+              },
+              "tip_5lang": {
+                "de": "Die feuchten Wiesen können morgens gefroren sein; bleiben Sie auf den befestigten Wegen, um nicht wegzurutschen.",
+                "hu": "A nedves rétek reggelente fagyottak lehetnek; maradjon a kijelölt utakon, hogy elkerülje a jeges foltokon való megcsúszást.",
+                "ro": "Pajiștile umede pot fi înghețate dimineața; rămâneți pe drumurile pavate pentru a evita alunecarea pe porțiunile cu gheață.",
+                "en": "The damp meadows can be frozen in the mornings; stay on the paved paths to avoid slipping on icy patches near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Malatosquer",
+                "hu": "Mirador del Malatosquer",
+                "ro": "Mirador del Malatosquer",
+                "en": "Mirador del Malatosquer"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier im Winter oft stärker; machen Sie Ihr Foto schnell und setzen Sie die Fahrt fort, um in Bewegung zu bleiben.",
+                "hu": "A szél itt télen gyakran erősebben fúj; készítse el gyorsan a fotót, és induljon tovább, hogy mozgásban tartsa a testét.",
+                "ro": "Vântul bate adesea mai tare aici iarna; faceți fotografia rapid și continuați drumul pentru a rămâne în mișcare.",
+                "en": "The wind often whistles stronger here in winter; take your photo quickly and keep moving to stay warm while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Garrotxa",
+                "hu": "Museu de la Garrotxa",
+                "ro": "Museu de la Garrotxa",
+                "en": "Museu de la Garrotxa"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die eingefrorenen Glieder aufzuwärmen; parken Sie das Rad und verbringen Sie die kälteste Stunde des Tages drinnen.",
+                "hu": "Tökéletes megálló az átfagyott végtagok felmelegítésére; parkoljon le, és töltse a nap leghidegebb óráját a fűtött múzeumban.",
+                "ro": "O oprire perfectă pentru a vă încălzi; lăsați bicicleta și petreceți cea mai rece oră a zilei în interiorul muzeului.",
+                "en": "A perfect stop to warm up your frozen limbs; park the bike and spend the coldest hour of the day inside the warm gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Solà Morales",
+                "hu": "Casa Solà Morales",
+                "ro": "Casa Solà Morales",
+                "en": "Casa Solà Morales"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Einbruch der Dunkelheit; prüfen Sie Ihre Beleuchtung, falls es doch später wird.",
+                "hu": "Fejezze be a túrát időben, még sötétedés előtt; ellenőrizze a világítást, ha mégis rátalálna az este a városban.",
+                "ro": "Încheiați turul la timp înainte de lăsarea întunericului; verificați luminile bicicletei în caz că se face târziu.",
+                "en": "Finish your tour well before dark; double-check your bike lights just in case you stay a bit longer in the city center."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Autóval először a keleten fekvő modern szabadidős létesítményeket veszi célba. Ezután a központhoz közel parkol, hogy kényelmesen felfedezze a csodás építészetet és a múzeumokat. Később a város szélén található vulkanikus kilátókhoz hajt, amelyek nagyszerű témákat kínálnak. A kirándulás harmonikusan zárul egy tágas természeti parkban.",
         "ro": "Cu mașina, vă îndreptați mai întâi spre facilitățile moderne de agrement din est. Apoi parcați aproape de centru pentru a explora arhitectura magnifică și muzeele fascinante. Mai târziu, conduceți către punctele de observare vulcanice de la periferie, care oferă priveliști grozave. Excursia se încheie armonios într-un parc natural.",
         "en": "By car, you first head to the modern recreational facilities in the east. Afterwards, park close to the center to comfortably explore the magnificent architecture and fascinating museums. Later, you drive to the volcanic viewpoints on the outskirts, which offer great motifs. The trip ends harmoniously in a spacious natural park with clear springs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie entspannt bei Regen und fahren Sie direkt zum Schwimmbad. Mittags bieten die Museen im Zentrum bequeme Parkmöglichkeiten in der Nähe. Am Nachmittag führen kurze Fahrten zu den Aussichtspunkten, wo Sie die Landschaft aus dem trockenen Auto bewundern können. Abends glitzert Olot im Regen; achten Sie auf die Sichtverhältnisse bei Fahrten außerhalb der beleuchteten Zonen.",
+            "hu": "Kezdje a napot kényelmesen az esőben, és hajtson egyenesen az uszodához. Délben a központi múzeumok közelében keressen parkolót, így szárazon juthat be. Délután tegyen rövid kiruccanást a kilátókhoz, ahol az autóból is megcsodálhatja a tájat. Este Olot fényei csillognak a sötétben; legyen óvatos a kivilágítatlan utakon a város határában.",
+            "ro": "Începeți ziua relaxat pe ploaie și conduceți direct spre piscină. La prânz, muzeele din centru oferă opțiuni de parcare convenabile în apropiere. După-amiaza, faceți scurte călătorii spre punctele de belvedere, admirând peisajul din mașină. Seara, Olot sclipește sub ploaie; atenție sporită la vizibilitate pe drumurile din afara orașului.",
+            "en": "Start your rainy day comfortably and drive straight to the indoor pool. At noon, look for parking near the central museums for quick, dry access. Afternoon drives to the viewpoints allow you to enjoy the landscape from the warmth of your car. Evening sees Olot glittering in the dark; drive carefully as visibility may be reduced on the unlit roads outside town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina coberta del Club Natació Olot",
+                "hu": "Piscina coberta del Club Natació Olot",
+                "ro": "Piscina coberta del Club Natació Olot",
+                "en": "Piscina coberta del Club Natació Olot"
+              },
+              "tip_5lang": {
+                "de": "Das beste Ziel bei Starkregen; parken Sie direkt davor und genießen Sie das warme Wasser, während es draußen stürmt.",
+                "hu": "A legjobb úti cél heves esőzéskor; parkoljon közvetlenül a bejáratnál, és élvezze a meleg vizet, miközben kint tombol az ítéletidő.",
+                "ro": "Cea mai bună destinație pe ploaie torențială; parcați chiar în față și bucurați-vă de apa caldă în timp ce afară plouă.",
+                "en": "The ultimate destination for a heavy downpour; park right in front and enjoy the warm water while the storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Pujador",
+                "hu": "Casa Pujador",
+                "ro": "Casa Pujador",
+                "en": "Casa Pujador"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Straße, um das Gebäude zu bewundern; das nasse Metalldach reflektiert das graue Licht sehr elegant.",
+                "hu": "Álljon meg rövid időre az út szélén, hogy megcsodálja az épületet; a vizes fémtető elegánsan tükrözi vissza a szürke nappali fényt.",
+                "ro": "Opriți scurt pe marginea drumului pentru a admira clădirea; acoperișul metalic umed reflectă lumina gri într-un mod elegant.",
+                "en": "Pull over briefly to admire the building; the wet metal roof reflects the grey daylight in a very elegant, sophisticated way."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu dels Sants",
+                "hu": "Museu dels Sants",
+                "ro": "Museu dels Sants",
+                "en": "Museu dels Sants"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, um den Weg im Regen kurz zu halten; drinnen erwartet Sie eine faszinierende, trockene Welt.",
+                "hu": "Használja a közeli parkolóházat, hogy minimalizálja az esőben töltött időt; bent egy lenyűgöző és teljesen száraz világ várja.",
+                "ro": "Folosiți parcarea etajată din apropiere pentru a merge cât mai puțin prin ploaie; în interior vă așteaptă o lume fascinantă și uscată.",
+                "en": "Use the nearby parking garage to keep your walk in the rain short; a fascinating and completely dry world awaits you inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Montolivet",
+                "hu": "Torre de Montolivet",
+                "ro": "Turnul Montolivet",
+                "en": "Torre de Montolivet"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Nässe steil; achten Sie auf glatte Stellen auf der Straße und genießen Sie den Blick aus dem Autofenster.",
+                "hu": "A felfelé vezető út esőben meredek és csúszós; ügyeljen az úthibákra, és élvezze a panorámát akár az autó ablakából is.",
+                "ro": "Drumul de acces este abrupt pe timp de ploaie; atenție la porțiunile alunecoase și bucurați-vă de priveliște de la geamul mașinii.",
+                "en": "The access road is steep and slick in the rain; watch for slippery spots and enjoy the panoramic view from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Malatosquer",
+                "hu": "Mirador del Malatosquer",
+                "ro": "Mirador del Malatosquer",
+                "en": "Mirador del Malatosquer"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Regentage, da man direkt an den Aussichtspunkt heranfahren kann; die Wolkenstimmung über den Vulkanen ist einzigartig.",
+                "hu": "Tökéletes esős napokra, mivel közvetlenül a kilátóhoz hajthat; az egyedülálló felhőjáték a vulkánok felett lenyűgöző látvány.",
+                "ro": "Perfect pentru zilele ploioase, deoarece puteți conduce până la punctul de belvedere; atmosfera noroasă peste vulcani este unică.",
+                "en": "Perfect for rainy days as you can drive right up to the viewpoint; the moody cloud formations over the volcanoes are stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Font Moixina",
+                "hu": "Font Moixina",
+                "ro": "Font Moixina",
+                "en": "Font Moixina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Bäume, um trocken auszusteigen; die feuchte Waldluft ist nach dem Regen besonders erfrischend.",
+                "hu": "Parkoljon a fák árnyékában, hogy szárazon szálhasson ki; a nedves erdei levegő az eső után különösen frissítő és tiszta.",
+                "ro": "Parcați la umbra copacilor pentru a coborî la adăpost; aerul umed de pădure este deosebit de revigorant după ploaie.",
+                "en": "Park under the trees to stay dry while getting out; the damp forest air is especially refreshing and crisp after the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einer Fahrt zum beheizten Schwimmbad. Mittags ist das Parken im Zentrum ideal, um die Modernistischen Häuser bei klirrender Kälte kurz zu besuchen. Am Nachmittag bietet das Auto wohlige Wärme auf dem Weg zu den winterlichen Aussichtspunkten. Abends sinken die Temperaturen schnell unter den Gefrierpunkt; achten Sie auf mögliche Glätte in schattigen Kurven der Vulkanlandschaft.",
+            "hu": "A fagyos reggel az uszoda fűtött terében indul. Délben a központban érdemes parkolni, így a modernista házakat a metsző hidegben is gyorsan bejárhatjuk. Délután az autó melege nyújt kényelmet a téli táj felfedezése közben a kilátók felé vezető úton. Este a hőmérséklet gyorsan fagypont alá süllyed; ügyeljen a jegesedésre a vulkáni vidék árnyékos kanyarjaiban.",
+            "ro": "O dimineață geroasă începe cu o vizită la piscina încălzită. La prânz, parcarea în centru este ideală pentru a vedea casele moderniste fără a sta mult în frig. După-amiaza, mașina oferă căldura necesară în drum spre punctele de belvedere hibernale. Seara, temperaturile scad rapid sub îngheț; atenție la gheața de pe drum în curbele umbrite ale peisajului vulcanic.",
+            "en": "A frosty morning starts with a drive to the heated indoor pool. At noon, parking in the center is ideal for quick visits to Modernist sites while avoiding the biting cold. Afternoon drives provide a warm cabin while exploring the wintry landscapes at the viewpoints. Evening temperatures drop fast below freezing; watch for black ice in the shaded curves of the volcanic roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina coberta del Club Natació Olot",
+                "hu": "Piscina coberta del Club Natació Olot",
+                "ro": "Piscina coberta del Club Natació Olot",
+                "en": "Piscina coberta del Club Natació Olot"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Wintertag aktiv im Warmen; nutzen Sie die beheizten Umkleiden, um sich nach dem Schwimmen gut einzupacken.",
+                "hu": "Kezdje aktívan és melegben a téli napot; használja a fűtött öltözőket, hogy alaposan felöltözzön az úszás után a kinti hidegre.",
+                "ro": "Începeți ziua de iarnă activ la căldură; folosiți vestiarele încălzite pentru a vă îmbrăca bine după înot înainte de a ieși afară.",
+                "en": "Start your winter day actively in the warmth; use the heated changing rooms to wrap up well before heading back into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Pujador",
+                "hu": "Casa Pujador",
+                "ro": "Casa Pujador",
+                "en": "Casa Pujador"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Details des Gebäudes funkeln; schießen Sie Ihre Fotos schnell, bevor die Finger in der Kälte erstarren.",
+                "hu": "A tiszta téli fényben szinte ragyognak az épület díszei; készítse el a fotókat gyorsan, mielőtt az ujjai elgémberednének a hidegben.",
+                "ro": "Lumina clară de iarnă face detaliile clădirii să scânteieze; faceți fotografiile rapid înainte ca degetele să vă înghețe de frig.",
+                "en": "The clear winter light makes the building's details sparkle; take your photos quickly before your fingers get stiff from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu dels Sants",
+                "hu": "Museu dels Sants",
+                "ro": "Museu dels Sants",
+                "en": "Museu dels Sants"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Fahrten aufzuwärmen; die dicken Mauern halten die Kälte draußen und die Atmosphäre gemütlich.",
+                "hu": "Ideális hely a felmelegedésre két megálló között; a vastag falak távol tartják a kinti fagyot, a benti légkör pedig kifejezetten barátságos.",
+                "ro": "Locul ideal pentru a vă încălzi între opriri; zidurile groase țin frigul afară, iar atmosfera interioară este foarte primitoare.",
+                "en": "An ideal place to warm up between drives; the thick walls keep the frost outside and the interior atmosphere remains very cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Montolivet",
+                "hu": "Torre de Montolivet",
+                "ro": "Turnul Montolivet",
+                "en": "Torre de Montolivet"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie im Winter den Straßenzustand bei Frost; die Aussicht auf die schneebedeckten Gipfel in der Ferne ist im Januar atemberaubend.",
+                "hu": "Télen ellenőrizze az útviszonyokat a fagy miatt; a távolban lévő havas hegycsúcsok látványa januárban egészen lélegzetelállító.",
+                "ro": "Verificați starea drumului pe timp de îngheț; vederea spre vârfurile înzăpezite din depărtare este uluitoare în luna ianuarie.",
+                "en": "Check the road conditions for ice in winter; the view of distant snow-capped peaks is absolutely breathtaking during January."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Malatosquer",
+                "hu": "Mirador del Malatosquer",
+                "ro": "Mirador del Malatosquer",
+                "en": "Mirador del Malatosquer"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem warmen Auto; das Winterlicht sorgt für besonders kontrastreiche Fotos der Vulkankegel.",
+                "hu": "Élvezze a panorámát közvetlenül a fűtött autóból; a téli fények különösen kontrasztos és látványos fotókat eredményeznek a vulkánokról.",
+                "ro": "Bucurați-vă de panoramă direct din mașina încălzită; lumina de iarnă oferă un contrast excelent pentru fotografiile cu vulcani.",
+                "en": "Enjoy the panorama directly from your warm car; the winter light provides excellent contrast for photos of the volcanic cones."
+              }
+            },
+            {
+              "name": {
+                "de": "Font Moixina",
+                "hu": "Font Moixina",
+                "ro": "Font Moixina",
+                "en": "Font Moixina"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Quellen vor 16 Uhr, um das Tageslicht zu nutzen; die gefrorenen Gräser an den Wasserläufen sind ein tolles Fotomotiv.",
+                "hu": "Látogassa meg a forrásokat 16 óra előtt, hogy legyen még elég fény; a patakparti fagyos fűszálak remek fotótémát szolgáltatnak.",
+                "ro": "Vizitați izvoarele înainte de ora 16:00 pentru a profita de lumină; iarba înghețată de lângă apă este un subiect foto excelent.",
+                "en": "Visit the springs before 4 PM to catch the last light; the frost-covered grass along the water is a beautiful subject for photos."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot az impozáns Bab Sidi Abdelwahabnál, Oujda medinájának történelmi kapujánál. Ezután merüljön el a nyüzsgő sikátorokban, fedezze fel a hagyományos Souk El Ma piacot és a Les Trois Fontaines-t. A délután a kultúráé: a Musée Lalla Meryem és a lenyűgöző Dar Sebti palota várja. Este a Galerie D'Art Maghreb Al Arabi kortárs művészeti kiállításait érdemes megcsodálni.",
         "ro": "Începeți la impunătorul Bab Sidi Abdelwahab, poarta istorică de intrare în medina din Oujda. Cufundați-vă în străduțele pline de viață, explorând piața tradițională Souk El Ma și fermecătoarele Les Trois Fontaines. După-amiaza este dedicată culturii, vizitând Muzeul Lalla Meryem și impresionantul palat Dar Sebti. Seara, admirați arta locală la Galerie D'Art Maghreb Al Arabi.",
         "en": "Start at the imposing Bab Sidi Abdelwahab, the historic gateway to Oujda's medina. Dive into the bustling alleys to explore the traditional Souk El Ma and the charming Les Trois Fontaines. The afternoon is dedicated to culture, with deep insights at the Musée Lalla Meryem and the stunning Dar Sebti palace. In the evening, admire regional masterpieces at the Galerie D'Art Maghreb Al Arabi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Bab Sidi Abdelwahab, wo die massiven Mauern Schutz vor dem ersten Regen bieten. In der Medina bieten die überdachten Gassen des Souks einen natürlichen Schirm.\n\nMittags suchen Sie Zuflucht im Musée Lalla Meryem; die dicken Mauern halten die Feuchtigkeit draußen, während Sie die Exponate genießen.\n\nDer Nachmittag gehört der Kunst im Trockenen, wobei die Galerie Maghreb Al Arabi einen perfekten Abschluss bildet.\n\nAbends glänzen die nassen Pflastersteine im Laternenlicht, was der Stadt eine mystische, fast filmische Atmosphäre verleiht.",
+            "hu": "Kezdje a napot a Bab Sidi Abdelwahab kapunál, ahol a boltívek alatt menedéket találhat az eső elől. A medina szűk, fedett árusítóhelyei természetes ernyőként funkcionálnak.\n\nDélben húzódjon be a Lalla Meryem Múzeumba; a vastag falak és a belső terek tökéletes védelmet nyújtanak a kinti nyirkosság elől.\n\nDélután élvezze a művészetet a Galerie D'Art Maghreb Al Arabi száraz termeiben, miközben az eső kopog a tetőn.\n\nEstére a vizes aszfalt és a medina kövei megcsillannak a városi fényekben, különleges hangulatot árasztva.",
+            "ro": "Începeți ziua la Bab Sidi Abdelwahab, unde zidurile masive oferă adăpost împotriva ploii. În medina, aleile acoperite ale souk-ului servesc drept umbrelă naturală.\n\nLa prânz, refugiați-vă în Muzeul Lalla Meryem; interiorul spațios vă permite să explorați cultura locală fără a vă uda.\n\nDupă-amiaza este dedicată artei în spații închise, Galerie D'Art Maghreb Al Arabi fiind punctul final perfect.\n\nSeara, reflexiile luminilor pe pavajul umed creează o atmosferă magică pe străzile din Oujda, ideală pentru poze deosebite.",
+            "en": "Start your day at Bab Sidi Abdelwahab, where the massive arches provide shelter from the morning drizzle. In the Medina, the covered souk sections act as a natural umbrella.\n\nAt noon, find sanctuary in the Lalla Meryem Museum; its thick walls keep the dampness out while you explore the exhibits.\n\nSpend the afternoon enjoying art indoors at the Galerie D'Art Maghreb Al Arabi, a perfect spot to wait out the rain.\n\nIn the evening, the wet cobblestones reflect the city lights, creating a cinematic atmosphere throughout the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Sidi Abdelwahab",
+                "hu": "Bab Sidi Abdelwahab",
+                "ro": "Bab Sidi Abdelwahab",
+                "en": "Bab Sidi Abdelwahab"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die monumentale Architektur von unterhalb der Torbögen aus, um trocken zu bleiben, und achten Sie auf die rutschigen Steine am Eingang.",
+                "hu": "Csodálja meg a monumentális építészetet a boltívek alól, így szárazon maradhat, de vigyázzon a bejáratnál lévő csúszós kövekre.",
+                "ro": "Admirați arhitectura monumentală de sub arcadele porții pentru a rămâne uscat și aveți grijă la pietrele alunecoase de la intrare.",
+                "en": "Admire the monumental architecture from directly beneath the gate's arches to stay dry, and watch your step on the slippery entrance stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Souk El Ma",
+                "hu": "Souk El Ma",
+                "ro": "Souk El Ma",
+                "en": "Souk El Ma"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Marktes für einen gemütlichen Spaziergang; wasserfeste Schuhe sind in den tiefer liegenden Gassen unerlässlich.",
+                "hu": "Használja ki a piac fedett részeit egy kellemes sétához; a mélyebben fekvő utcákban elengedhetetlen a vízálló lábbeli.",
+                "ro": "Profitați de zonele acoperite ale pieței pentru o plimbare confortabilă; încălțămintea impermeabilă este esențială pe aleile mai joase.",
+                "en": "Take advantage of the market's covered sections for a dry stroll; waterproof shoes are essential as water can pool in the lower alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Trois Fontaines",
+                "hu": "Les Trois Fontaines",
+                "ro": "Les Trois Fontaines",
+                "en": "Les Trois Fontaines"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Blick auf diese historischen Brunnen reicht aus; halten Sie Ihren Regenschirm gut fest, da es in diesen Gassen windig sein kann.",
+                "hu": "Egy gyors, esős pillantás is elég ezekre a történelmi kutakra; fogja erősen az esernyőjét, mert a szűk utcákban felerősödhet a szél.",
+                "ro": "O privire rapidă prin ploaie la aceste fântâni istorice este suficientă; țineți umbrela bine, deoarece vântul se poate intensifica pe aceste alei.",
+                "en": "A quick look at these historic fountains is enough in the rain; hold your umbrella firmly as wind can funnel through these narrow passages."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Lalla Meryem",
+                "hu": "Musée Lalla Meryem",
+                "ro": "Musée Lalla Meryem",
+                "en": "Musée Lalla Meryem"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um einen starken Schauer abzuwarten; die Innenausstellungen bieten reichlich Kultur in einer trockenen und ruhigen Umgebung.",
+                "hu": "Ez az ideális hely egy nagyobb zápor átvészelésére; a belső kiállítások rengeteg látnivalót kínálnak száraz és nyugodt környezetben.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea unei averse; expozițiile interioare oferă multă cultură într-un mediu uscat și liniștit.",
+                "en": "This is the ideal place to wait out a heavy downpour; the indoor exhibits offer plenty of culture in a dry and serene environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar Sebti",
+                "hu": "Dar Sebti",
+                "ro": "Dar Sebti",
+                "en": "Dar Sebti"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diesen prächtigen Palast von innen, um die feinen Details zu bewundern, ohne vom Regen nass zu werden; ideal für Architekturfotos.",
+                "hu": "Tekintse meg ezt a pompás palotát belülről, hogy megcsodálhassa a finom részleteket anélkül, hogy elázna; kiváló helyszín építészeti fotókhoz.",
+                "ro": "Vizitați acest palat superb în interior pentru a admira detaliile fine fără a fi udat de ploaie; este un loc excelent pentru fotografii de interior.",
+                "en": "Visit this magnificent palace indoors to admire the fine details without getting soaked; it is an excellent spot for architectural photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie D'Art Maghreb Al Arabi",
+                "hu": "Galerie D'Art Maghreb Al Arabi",
+                "ro": "Galerie D'Art Maghreb Al Arabi",
+                "en": "Galerie D'Art Maghreb Al Arabi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in dieser modernen Galerie; der Innenraum ist warm und trocken, perfekt um lokale Kunstwerke bei Regenwetter zu genießen.",
+                "hu": "Zárja a túrát ebben a modern galériában; a belső tér meleg és száraz, tökéletes a helyi művészeti alkotások élvezetéhez esős időben.",
+                "ro": "Încheiați turul în această galerie modernă; interiorul este cald și uscat, perfect pentru a savura operele de artă locale pe timp de ploaie.",
+                "en": "End your tour in this modern gallery; the interior is warm and dry, making it perfect for enjoying local artwork during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine kühle Brise durch das Bab Sidi Abdelwahab, also tragen Sie warme Schichten. Das Sonnenlicht steht tief und wirft lange Schatten auf die Stadtmauern.\n\nMittags bieten die engen Gassen der Medina Schutz vor dem Wind, während die Wintersonne die Souks sanft erwärmt.\n\nNachmittags sollten Sie das Museum Lalla Meryem besuchen, bevor die Dämmerung gegen 17:00 Uhr einsetzt.\n\nAbends sinken die Temperaturen spürbar; wärmen Sie sich in den beleuchteten Straßen der Innenstadt auf, bevor es ganz dunkel wird.",
+            "hu": "Reggel hűvös szél fúj át a Bab Sidi Abdelwahab kapun, ezért öltözzön rétegesen. A téli nap alacsonyan jár, hosszú árnyékokat vetve a városfalakra.\n\nDélben a medina szűk utcái védelmet nyújtanak a szél ellen, miközben a napsütés kellemesen melengeti a souk árusait.\n\nDélután érdemes korán meglátogatni a Lalla Meryem Múzeumot, mert 17:00 óra körül már sötétedni kezd.\n\nEstére a hőmérséklet jelentősen visszaesik; élvezze a kivilágított belvárost, de legyen kéznél egy meleg sál és kabát.",
+            "ro": "Dimineața, o briză răcoroasă trece prin Bab Sidi Abdelwahab, deci purtați haine groase. Soarele de iarnă este blând, proiectând umbre lungi pe ziduri.\n\nLa prânz, străzile înguste ale medinei oferă adăpost împotriva vântului, în timp ce soarele încălzește ușor atmosfera în souk.\n\nDupă-amiaza, vizitați Muzeul Lalla Meryem înainte ca amurgul să se instaleze, în jurul orei 17:00.\n\nSeara, temperaturile scad considerabil; plimbați-vă pe străzile luminate ale centrului, dar asigurați-vă că aveți haine călduroase.",
+            "en": "In the morning, a cool breeze blows through Bab Sidi Abdelwahab, so dress in warm layers. The winter sun stays low, casting long shadows on the walls.\n\nAt noon, the narrow Medina streets offer shelter from the wind, while the sun gently warms the open areas of the souk.\n\nSpend the afternoon at the Lalla Meryem Museum before the early sunset arrives around 17:00.\n\nIn the evening, temperatures drop noticeably; enjoy the illuminated downtown streets, but make sure you have a warm coat ready."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Sidi Abdelwahab",
+                "hu": "Bab Sidi Abdelwahab",
+                "ro": "Bab Sidi Abdelwahab",
+                "en": "Bab Sidi Abdelwahab"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet das Tor wunderschön; tragen Sie eine winddichte Jacke, da der Platz vor dem Tor im Winter sehr zugig sein kann.",
+                "hu": "A reggeli nap gyönyörűen megvilágítja a kaput; viseljen szélálló kabátot, mert a kapu előtti tér télen nagyon huzatos lehet.",
+                "ro": "Soarele dimineții luminează poarta superb; purtați o jachetă rezistentă la vânt, deoarece piața din față poate fi foarte rece iarna.",
+                "en": "The morning sun illuminates the gate beautifully; wear a windproof jacket as the open square in front can be quite drafty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Souk El Ma",
+                "hu": "Souk El Ma",
+                "ro": "Souk El Ma",
+                "en": "Souk El Ma"
+              },
+              "tip_5lang": {
+                "de": "In den tiefen Gassen ist es kühler als auf den Hauptwegen; ein warmer Schal schützt Sie vor der kalten Zugluft zwischen den Verkaufsständen.",
+                "hu": "A mélyebb utcákban hűvösebb van, mint a főutakon; egy meleg sál megvédi a hideg huzattól az árusok standjai között.",
+                "ro": "Pe aleile adânci este mai răcoare decât pe drumurile principale; un fular călduros vă va proteja de curentul rece dintre tarabe.",
+                "en": "It is cooler in the deep alleys than on main paths; a warm scarf will protect you from the cold drafts between the market stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Trois Fontaines",
+                "hu": "Les Trois Fontaines",
+                "ro": "Les Trois Fontaines",
+                "en": "Les Trois Fontaines"
+              },
+              "tip_5lang": {
+                "de": "Die Brunnen wirken im klaren Winterlicht fast frostig; ein kurzer Stopp reicht aus, bevor Sie wieder die wärmende Sonne suchen.",
+                "hu": "A kutak szinte deresnek tűnnek a tiszta téli fényben; egy rövid megálló is elég, mielőtt újra a melengető napot keresné.",
+                "ro": "Fântânile par aproape înghețate în lumina clară de iarnă; o oprire scurtă este suficientă înainte de a căuta din nou soarele cald.",
+                "en": "The fountains look almost frosty in the clear winter light; a short stop is enough before moving back into the warming sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Lalla Meryem",
+                "hu": "Musée Lalla Meryem",
+                "ro": "Musée Lalla Meryem",
+                "en": "Musée Lalla Meryem"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen; die dicken Lehmwände bieten eine gute Isolierung gegen die winterliche Außenkälte.",
+                "hu": "Használja ki a múzeumlátogatást a felmelegedésre; a vastag vályogfalak jó hőszigetelést biztosítanak a téli kinti hideg ellen.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi; zidurile groase oferă o izolație bună împotriva frigului de afară de pe timpul iernii.",
+                "en": "Use the museum visit to warm up; the thick earthen walls provide good insulation against the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar Sebti",
+                "hu": "Dar Sebti",
+                "ro": "Dar Sebti",
+                "en": "Dar Sebti"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Decke im Inneren; die geschlossene Struktur schützt Sie hervorragend vor dem winterlichen Nachmittagswind.",
+                "hu": "Csodálja meg a belső díszes mennyezetet; a zárt épület kiválóan megvédi a téli délutáni széltől és a hidegtől.",
+                "ro": "Admirați tavanul decorat din interior; structura închisă vă protejează excelent de vântul rece de după-amiază de iarnă.",
+                "en": "Admire the ornate ceiling inside; the enclosed structure provides excellent protection from the winter afternoon winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie D'Art Maghreb Al Arabi",
+                "hu": "Galerie D'Art Maghreb Al Arabi",
+                "ro": "Galerie D'Art Maghreb Al Arabi",
+                "en": "Galerie D'Art Maghreb Al Arabi"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den frühen Sonnenuntergang; genießen Sie die Kunstwerke in der gemütlichen Atmosphäre, wenn es draußen schnell dunkel wird.",
+                "hu": "Ideális helyszín a korai naplemente idejére; élvezze a műalkotásokat a kellemes belső térben, amikor kint gyorsan sötétedik.",
+                "ro": "Un loc ideal pentru apusul timpuriu; bucurați-vă de operele de artă în atmosfera primitoare când afară se întunecă rapid.",
+                "en": "An ideal location for the early sunset; enjoy the artworks in the cozy indoor atmosphere as it gets dark quickly outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A biciklis túra az ikonikus Bab Sidi Abdelwahab kapunál kezdődik, majd a csendesebb Bab Ahl Jamel felé folytatódik. Délben a Nemzeti Mozgalom Múzeumában ismerkedhet meg Marokkó történelmével, majd a modern V. Mohamed Színházhoz teker. Késő délután fedezze fel Oujda kulturális központját, a napot pedig a Galerie d'Art kiállításain és a friss esti levegőn zárja le.",
         "ro": "Turul pe bicicletă începe la emblematica poartă Bab Sidi Abdelwahab, trecând apoi spre mai liniștita Bab Ahl Jamel. La prânz, descoperiți istoria recentă a Marocului la Muzeul Mișcării Naționale, apoi pedalați spre modernul Teatru Mohamed VI. După-amiaza târziu este perfectă pentru a explora Centrul Cultural din Oujda, încheind ziua la Galerie d'Art cu o expoziție relaxantă.",
         "en": "Your cycling tour begins at the iconic Bab Sidi Abdelwahab gate before heading to the quieter Bab Ahl Jamel. At midday, discover Morocco's recent history at the National Movement Museum, then ride to the modern Mohamed VI Theatre. The late afternoon is perfect for exploring Oujda's Cultural Center, ending your active day at the Galerie d'Art enjoying the cool evening breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht am Bab Sidi Abdelwahab wegen der rutschigen Steine. Fahren Sie langsam durch die Medina.\n\nMittags bieten Museen wie das Musée régional wichtige trockene Pausen, während Sie Ihr Fahrrad sicher unterstellen.\n\nNachmittags steuern Sie kulturelle Zentren an, die weite Innenräume haben, um sich vor dem anhaltenden Regen zu schützen.\n\nAbends sind die Straßen oft leerer, aber achten Sie auf Pfützen und die eingeschränkte Sicht bei Dunkelheit und Nässe.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a Bab Sidi Abdelwahab környékén a csúszós kövek miatt. Haladjon lassan a medinában.\n\nDélben a Regionális Múzeum fontos száraz pihenőt kínál, ahol biztonságban tudhatja kerékpárját is.\n\nDélután válasszon olyan kulturális központokat, amelyek tágas belső terekkel rendelkeznek, így védve marad az esőtől.\n\nEstére az utcák elcsendesednek, de figyeljen a tócsákra és a korlátozott látási viszonyokra a sötét, vizes utakon.",
+            "ro": "O tură cu bicicleta prin ploaie necesită prudență la Bab Sidi Abdelwahab din cauza pietrelor alunecoase. Circulați cu viteză redusă.\n\nLa prânz, muzeele precum cel Regional oferă pauze uscate esențiale, unde puteți lăsa bicicleta la adăpost.\n\nDupă-amiaza, îndreptați-vă spre centrele culturale cu spații interioare generoase pentru a vă proteja de ploaia persistentă.\n\nSeara, străzile sunt mai libere, dar fiți atenți la bălți și la vizibilitatea redusă pe carosabilul umed și întunecat.",
+            "en": "Cycling in the rain requires caution near Bab Sidi Abdelwahab due to slippery pavement. Ride slowly through the Medina area.\n\nAt noon, museums like the Regional Museum provide essential dry breaks while you park your bike under a nearby overhang.\n\nIn the afternoon, head for cultural centers with large indoor spaces to stay sheltered from the continuous rainfall.\n\nBy evening, the streets are quieter, but stay alert for puddles and limited visibility on the dark, wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Sidi Abdelwahab",
+                "hu": "Bab Sidi Abdelwahab",
+                "ro": "Bab Sidi Abdelwahab",
+                "en": "Bab Sidi Abdelwahab"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Pflaster vor dem Tor; nutzen Sie den breiten Bogen als kurzen Unterstand.",
+                "hu": "Kerülje az éles fékezést a kapu előtti vizes aszfalton; használja a széles boltívet rövid eső elleni menedékként.",
+                "ro": "Evitați frânările bruște pe pavajul umed din fața porții; folosiți arcada largă ca adăpost temporar pentru bicicletă.",
+                "en": "Avoid sharp braking on the wet pavement in front of the gate; use the wide arch as a brief shelter to check your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Ahl Jamel",
+                "hu": "Bab Ahl Jamel",
+                "ro": "Bab Ahl Jamel",
+                "en": "Bab Ahl Jamel"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders vorsichtig, da sich bei Regen in den Straßenecken Wasser sammeln kann; ein schnelles Foto reicht heute aus.",
+                "hu": "Itt különösen óvatosan közlekedjen, mert esőben víz gyűlhet össze az útmenti mélyedésekben; egy gyors fotó is elég ma.",
+                "ro": "Circulați cu mare atenție aici, deoarece apa se poate acumula în colțurile străzii; o fotografie rapidă este suficientă astăzi.",
+                "en": "Ride extra carefully here as rain can pool in the street corners; a quick photo stop is enough for this landmark today."
+              }
+            },
+            {
+              "name": {
+                "de": "Mueée régional du mouvement national",
+                "hu": "Mueée régional du mouvement national",
+                "ro": "Mueée régional du mouvement national",
+                "en": "Mueée régional du mouvement national"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer geschützten Stelle und nehmen Sie sich Zeit für die Ausstellungen, während es draußen regnet.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és szánjon időt a kiállításokra, amíg kint esik az eső.",
+                "ro": "Parcați bicicleta într-un loc protejat și acordați-vă timp pentru expoziții în timp ce afară plouă.",
+                "en": "Park your bike in a sheltered spot and take your time exploring the exhibits while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mohamed VI Theatre",
+                "hu": "Mohamed VI Theatre",
+                "ro": "Mohamed VI Theatre",
+                "en": "Mohamed VI Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Gebäude bietet weite Vordächer zum Unterstellen; genießen Sie die Architektur aus der trockenen Perspektive Ihres Rades.",
+                "hu": "A modern épület tágas előtetői alá behúzódhat a kerékpárral; csodálja meg az építészetet a száraz pontról.",
+                "ro": "Clădirea modernă oferă copertine largi unde vă puteți adăposti; admirați arhitectura dintr-o perspectivă uscată cu bicicleta.",
+                "en": "The modern building offers wide overhangs where you can seek cover; admire the architecture from a dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel d'Oujda",
+                "hu": "Centre Culturel d'Oujda",
+                "ro": "Centre Culturel d'Oujda",
+                "en": "Centre Culturel d'Oujda"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine längere Pause; nutzen Sie die kulturellen Veranstaltungen im Inneren, um dem Wetter zu entfliehen.",
+                "hu": "Tökéletes helyszín egy hosszabb pihenőhöz; válassza a belső kulturális programokat, hogy elmeneküljön az időjárás elől.",
+                "ro": "Un loc perfect pentru o pauză mai lungă; profitați de evenimentele culturale din interior pentru a scăpa de vremea rea.",
+                "en": "A perfect location for a longer break; take advantage of the indoor cultural events to escape the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie d'Art",
+                "hu": "Galerie d'Art",
+                "ro": "Galerie d'Art",
+                "en": "Galerie d'Art"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour mit einem Besuch im Trockenen ab; achten Sie beim Absteigen auf den rutschigen Gehweg vor dem Eingang.",
+                "hu": "Zárja a túrát egy száraz látogatással; a kerékpárról való leszálláskor figyeljen a bejárat előtti csúszós járdára.",
+                "ro": "Încheiați turul cu o vizită la interior; aveți grijă la trotuarul alunecos din fața intrării când coborâți de pe bicicletă.",
+                "en": "Conclude your tour with an indoor visit; be careful of the slippery sidewalk in front of the entrance when dismounting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen auf dem Fahrrad ist frisch, also sind Handschuhe ein Muss. Die Luft am Bab Sidi Abdelwahab ist klar und belebend.\n\nMittags wärmt die Sonne genug für eine Fahrt zwischen den Stadttoren, aber der Fahrtwind bleibt kühl.\n\nNachmittags sinkt die Sonne früh; planen Sie Ihre Rückkehr zum Mohamed VI Theater vor 17:00 Uhr ein.\n\nAbends ist gute Beleuchtung am Fahrrad zwingend erforderlich, da die Dämmerung in Oujda im Winter schnell und kalt einsetzt.",
+            "hu": "A téli reggel a kerékpáron frissítő, de a kesztyű kötelező. A levegő tiszta és élénkítő a Bab Sidi Abdelwahab környékén.\n\nDélben a nap már elég melegen süt a kapuk közötti tekeréshez, de a menetszél továbbra is hűvös marad.\n\nDélután a nap korán lebukik; tervezze meg a visszaérkezést a Mohamed VI Színházhoz még 17:00 óra előtt.\n\nEstére a jó világítás elengedhetetlen a kerékpáron, mivel a szürkület Oujdában télen gyorsan és hidegen érkezik.",
+            "ro": "Dimineața de iarnă pe bicicletă este revigorantă, deci mănușile sunt obligatorii. Aerul la Bab Sidi Abdelwahab este clar și curat.\n\nLa prânz, soarele încălzește suficient pentru o plimbare între porțile orașului, dar curentul de aer rămâne rece.\n\nDupă-amiaza, soarele apune devreme; planificați-vă întoarcerea la Teatrul Mohamed VI înainte de ora 17:00.\n\nSeara, iluminarea bună a bicicletei este imperativă, deoarece amurgul în Oujda vine rapid și rece pe timp de iarnă.",
+            "en": "A winter morning on a bike is refreshing, but gloves are a must. The air at Bab Sidi Abdelwahab is crisp and invigorating.\n\nAt noon, the sun warms up enough for a ride between the city gates, though the wind remains cool while moving.\n\nIn the afternoon, the sun sets early; aim to reach the Mohamed VI Theatre before the daylight fades around 17:00.\n\nBy evening, good bike lights are mandatory, as the winter twilight in Oujda arrives quickly and brings a sharp chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Sidi Abdelwahab",
+                "hu": "Bab Sidi Abdelwahab",
+                "ro": "Bab Sidi Abdelwahab",
+                "en": "Bab Sidi Abdelwahab"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um warm zu werden; die tiefstehende Wintersonne bietet ein tolles Licht für Fotos vom historischen Tor.",
+                "hu": "Induljon lendületesen, hogy bemelegedjen; az alacsonyan járó téli nap fantasztikus fényeket ad a történelmi kapu fotózásához.",
+                "ro": "Porniți energic pentru a vă încălzi; soarele jos de iarnă oferă o lumină fantastică pentru fotografiile cu poarta istorică.",
+                "en": "Start your ride briskly to warm up; the low winter sun provides fantastic lighting for photos of the historic gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Ahl Jamel",
+                "hu": "Bab Ahl Jamel",
+                "ro": "Bab Ahl Jamel",
+                "en": "Bab Ahl Jamel"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich im Windschatten der Mauern; im Winter weht hier oft ein scharfer Ostwind, der das Radfahren erschweren kann.",
+                "hu": "Maradjon a falak szélárnyékában; télen itt gyakran fúj éles keleti szél, ami nehezítheti a kerékpározást.",
+                "ro": "Rămâneți la adăpostul zidurilor; iarna, aici suflă adesea un vânt tăios dinspre est care poate îngreuna pedalarea.",
+                "en": "Stay in the lee of the walls; in winter, a sharp east wind often blows here, which can make cycling a bit more challenging."
+              }
+            },
+            {
+              "name": {
+                "de": "Mueée régional du mouvement national",
+                "hu": "Mueée régional du mouvement national",
+                "ro": "Mueée régional du mouvement national",
+                "en": "Mueée régional du mouvement national"
+              },
+              "tip_5lang": {
+                "de": "Eine ideale Aufwärmpause während der Fahrt; lassen Sie Ihr Rad sicher am Eingang stehen und genießen Sie die Wärme im Inneren.",
+                "hu": "Ideális bemelegítő pihenő tekerés közben; hagyja a kerékpárt biztonságban a bejáratnál, és élvezze a benti meleget.",
+                "ro": "O pauză ideală pentru încălzire în timpul cursei; lăsați bicicleta în siguranță la intrare și bucurați-vă de căldura din interior.",
+                "en": "An ideal warm-up break during your ride; leave your bike securely at the entrance and enjoy the warmth inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Mohamed VI Theatre",
+                "hu": "Mohamed VI Theatre",
+                "ro": "Mohamed VI Theatre",
+                "en": "Mohamed VI Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfassade reflektiert die späte Nachmittagssonne; ein schöner Stopp, bevor die Temperaturen nach 16:30 Uhr sinken.",
+                "hu": "Az üvegfalak visszaverik a késő délutáni napfényt; szép megálló, mielőtt 16:30 után a hőmérséklet gyorsan csökkenni kezdene.",
+                "ro": "Fațada de sticlă reflectă soarele de după-amiază târzie; este o oprire plăcută înainte ca temperaturile să scadă după ora 16:30.",
+                "en": "The glass facade reflects the late afternoon sun; a beautiful stop before temperatures start to drop after 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel d'Oujda",
+                "hu": "Centre Culturel d'Oujda",
+                "ro": "Centre Culturel d'Oujda",
+                "en": "Centre Culturel d'Oujda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Zentrum vor Einbruch der Dunkelheit; die Innenräume sind gut beheizt und bieten Schutz vor der Abendkälte.",
+                "hu": "Látogasson el ide még sötétedés előtt; a belső terek jól fűtöttek, és védelmet nyújtanak az esti lehűlés ellen.",
+                "ro": "Vizitați centrul înainte de lăsarea întunericului; spațiile interioare sunt bine încălzite și oferă protecție împotriva frigului serii.",
+                "en": "Visit the center before dark; the interior spaces are well-heated and provide a welcome shield against the evening cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie d'Art",
+                "hu": "Galerie d'Art",
+                "ro": "Galerie d'Art",
+                "en": "Galerie d'Art"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte letzte Stopp; stellen Sie sicher, dass Ihre Fahrradlichter für die kühle Rückfahrt in der winterlichen Dunkelheit funktionieren.",
+                "hu": "A tökéletes utolsó állomás; ellenőrizze, hogy a kerékpárlámpák jól működnek-e a hűvös, téli sötétben való hazaúthoz.",
+                "ro": "Ultima oprire perfectă; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere prin întunericul rece de iarnă.",
+                "en": "The perfect final stop; ensure your bike lights are functioning for the chilly ride back in the winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje útját délen a Roma történelmi helyszínénél, hogy átélje az ókori atmoszférát. Folytassa a Musée Ethnographique Lalla Aicha-ban a helyi szokások megismerésével, majd csodálja meg a Dar Sebti palotát. Délután az V. Mohamed Színház és a Kulturális Központ várja. Az estét a helyi vidámparkban töltheti, ahol kipihenheti a nap fáradalmait és élvezheti a város fényeit.",
         "ro": "Începeți traseul în sud, la situl istoric Roma, pentru o experiență antică unică. Continuați cu o vizită aprofundată la Muzeul Etnografic Lalla Aicha, urmată de grandoarea palatului Dar Sebti. După-amiaza este rezervată arhitecturii moderne a Teatrului Mohamed VI și Centrului Cultural. Seara, relaxați-vă la parcul de distracții, bucurându-vă de luminile vibrante ale orașului.",
         "en": "Start your drive in the south at the Roma historical site to experience a touch of antiquity. Continue to the Lalla Aicha Ethnographic Museum for deep local insights, followed by the grandeur of Dar Sebti palace. Your afternoon features the modern architecture of the Mohamed VI Theatre and the Cultural Center. In the evening, relax at the local amusement park and enjoy the city's vibrant lights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Regen ist das Auto das ideale Verkehrsmittel in Oujda. Starten Sie trocken bei Roma und genießen Sie die Fahrt durch die nassen Alleen.\n\nMittags parken Sie so nah wie möglich am Musée Ethnographique, um große Pfützen beim Aussteigen zu vermeiden.\n\nNachmittags bieten die kulturellen Zentren der Stadt hervorragende Parkmöglichkeiten und Schutz vor dem anhaltenden Regen.\n\nAbends ist die Fahrt zum Parc d'Attraction entspannt; auch wenn einige Fahrgeschäfte geschlossen sein könnten, ist die beleuchtete Szenerie vom Auto aus schön.",
+            "hu": "Esőben az autó az ideális közlekedési eszköz Oujdában. Kezdje szárazon a Roma étteremnél, és élvezze az utazást a vizes sugárutakon.\n\nDélben parkoljon a lehető legközelebb az Néprajzi Múzeumhoz, hogy elkerülje a nagy tócsákat kiszálláskor.\n\nDélután a város kulturális központjai kiváló parkolási lehetőséget és védelmet nyújtanak a folyamatos eső elől.\n\nEstére az út a vidámparkhoz kényelmes; még ha egyes játékok zárva is vannak, a kivilágított látvány az autóból is élvezetes.",
+            "ro": "Pe ploaie, mașina este mijlocul ideal de transport în Oujda. Porniți uscat de la Roma și bucurați-vă de drumul pe bulevardele umede.\n\nLa prânz, parcați cât mai aproape de Muzeul Etnografic pentru a evita bălțile mari la coborâre.\n\nDupă-amiaza, centrele culturale ale orașului oferă locuri bune de parcare și protecție împotriva ploii persistente.\n\nSeara, drumul spre parcul de distracții este relaxant; chiar dacă unele atracții pot fi închise, peisajul iluminat se vede frumos din mașină.",
+            "en": "In the rain, the car is the ideal way to get around Oujda. Start dry at Roma and enjoy driving through the glistening avenues.\n\nAt noon, park as close as possible to the Ethnographic Museum to avoid large puddles when stepping out.\n\nIn the afternoon, the city's cultural centers offer convenient parking and shelter from the steady rainfall.\n\nBy evening, the drive to the Amusement Park is comfortable; even if some rides are closed, the illuminated scenery is lovely from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Roma",
+                "hu": "Roma",
+                "ro": "Roma",
+                "en": "Roma"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bequemen Parkplatz direkt davor; so kommen Sie trocken in das Gebäude und können das Ambiente genießen.",
+                "hu": "Használja a közvetlenül előtte lévő kényelmes parkolót; így szárazon juthat be az épületbe és élvezheti a hangulatot.",
+                "ro": "Folosiți parcarea convenabilă chiar din față; astfel veți intra uscat în clădire și vă puteți bucura de ambianță.",
+                "en": "Use the convenient parking right in front; this way you can enter the building dry and enjoy the atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Ethnographique Lalla Aicha",
+                "hu": "Musée Ethnographique Lalla Aicha",
+                "ro": "Musée Ethnographique Lalla Aicha",
+                "en": "Musée Ethnographique Lalla Aicha"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für Regentage; die umfangreichen Innenausstellungen halten Sie lange Zeit im Trockenen beschäftigt.",
+                "hu": "Nagyszerű helyszín esős napokra; a gazdag belső kiállítások hosszú ideig szárazon tartják és lekötik a figyelmet.",
+                "ro": "Un loc excelent pentru zilele ploioase; expozițiile interioare bogate vă vor ține ocupat și uscat pentru mult timp.",
+                "en": "A great location for rainy days; the extensive indoor exhibits will keep you occupied and dry for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar Sebti",
+                "hu": "Dar Sebti",
+                "ro": "Dar Sebti",
+                "en": "Dar Sebti"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Allee; der kurze Weg zum Eingang des Palastes ist auch bei leichtem Regen gut zu bewältigen.",
+                "hu": "Parkoljon a sugárút mentén; a palota bejáratáig tartó rövid séta még szemerkélő esőben is könnyen teljesíthető.",
+                "ro": "Parcați de-a lungul bulevardului; drumul scurt până la intrarea palatului este ușor de parcurs chiar și pe o ploaie ușoară.",
+                "en": "Park along the avenue; the short walk to the palace entrance is manageable even during light rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mohamed VI Theatre",
+                "hu": "Mohamed VI Theatre",
+                "ro": "Mohamed VI Theatre",
+                "en": "Mohamed VI Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Theater hat einen überdachten Eingangsbereich, der ideal ist, um bei Regen ohne nass zu werden aus dem Auto zu steigen.",
+                "hu": "A modern színház fedett bejárati résszel rendelkezik, ami ideális az autóból való kiszálláshoz esőben, anélkül hogy elázna.",
+                "ro": "Teatrul modern are o zonă de intrare acoperită, ideală pentru a coborî din mașină pe ploaie fără a vă uda.",
+                "en": "The modern theatre has a covered entrance area, ideal for stepping out of the car in the rain without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel d'Oujda",
+                "hu": "Centre Culturel d'Oujda",
+                "ro": "Centre Culturel d'Oujda",
+                "en": "Centre Culturel d'Oujda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem bewachten Platz nebenan; die kulturellen Aktivitäten im Inneren sind die perfekte Flucht vor schlechtem Wetter.",
+                "hu": "Parkoljon a mellette lévő őrzött helyen; a benti kulturális programok tökéletes menekülést nyújtanak a rossz idő elől.",
+                "ro": "Parcați în locul păzit de alături; activitățile culturale din interior sunt evadarea perfectă din calea vremii rele.",
+                "en": "Park in the guarded area nearby; the indoor cultural activities are the perfect escape from the bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc d'Attraction et d'Animation d'Oujda",
+                "hu": "Parc d'Attraction et d'Animation d'Oujda",
+                "ro": "Parc d'Attraction et d'Animation d'Oujda",
+                "en": "Parc d'Attraction et d'Animation d'Oujda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park nur kurz für die Atmosphäre; bleiben Sie für Fotos im Auto, wenn der Regen am Abend stärker wird.",
+                "hu": "Csak rövid időre látogasson el a parkba a hangulat miatt; maradjon az autóban fotózni, ha este felerősödik az eső.",
+                "ro": "Vizitați parcul doar scurt pentru atmosferă; rămâneți în mașină pentru fotografii dacă ploaia se intensifică seara.",
+                "en": "Visit the park briefly for the atmosphere; stay in the car for photos if the rain intensifies in the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto beginnt angenehm warm mit der Heizung. Bei Roma können Sie den Tag in gemütlicher Atmosphäre planen.\n\nMittags bietet die Fahrt zum Néprajzi Múzeum Schutz vor dem schneidenden Wind, der oft durch die Straßen von Oujda weht.\n\nNachmittags ist das Mohamed VI Theater ein warmer Zufluchtsort, bevor die Sonne gegen 17:00 Uhr hinter dem Horizont verschwindet.\n\nAbends kühlt es draußen stark ab; nutzen Sie den Komfort Ihres Wagens, um die winterlich beleuchtete Stadt sicher und warm zu erkunden.",
+            "hu": "A téli nap az autóban kellemesen fűtve indul. A Roma étteremnél barátságos környezetben tervezheti meg a napot.\n\nDélben az út a Néprajzi Múzeumhoz védelmet nyújt a metsző szél ellen, amely gyakran fúj Oujda utcáin.\n\nDélután a Mohamed VI Színház meleg menedéket kínál, mielőtt a nap 17:00 óra körül eltűnik a horizont mögött.\n\nEstére a levegő erősen lehűl; használja ki autója kényelmét, hogy biztonságban és melegben fedezze fel a téli kivilágított várost.",
+            "ro": "O zi de iarnă în mașină începe plăcut cu încălzirea pornită. La Roma, puteți planifica ziua într-o atmosferă primitoare.\n\nLa prânz, drumul spre Muzeul Etnografic vă protejează de vântul tăios care suflă adesea pe străzile din Oujda.\n\nDupă-amiaza, Teatrul Mohamed VI este un refugiu călduros înainte ca soarele să apună în jurul orei 17:00.\n\nSeara, afară se răcește considerabil; profitați de confortul mașinii pentru a explora orașul iluminat de iarnă în siguranță și căldură.",
+            "en": "A winter day in the car starts comfortably with the heater on. At Roma, you can plan your day in a cozy indoor setting.\n\nAt noon, the drive to the Ethnographic Museum protects you from the biting wind that often sweeps through Oujda's streets.\n\nIn the afternoon, the Mohamed VI Theatre is a warm sanctuary before the sun dips below the horizon around 17:00.\n\nBy evening, the temperature drops sharply; use the comfort of your vehicle to explore the winter-lit city safely and warmly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Roma",
+                "hu": "Roma",
+                "ro": "Roma",
+                "en": "Roma"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den warmen Innenraum bei einem heißen Getränk; im Winter ist dies der perfekte Ort für einen gemütlichen Start.",
+                "hu": "Élvezze a meleg belső teret egy forró ital mellett; télen ez a tökéletes helyszín egy hangulatos induláshoz.",
+                "ro": "Bucurați-vă de interiorul cald cu o băutură fierbinte; iarna, acesta este locul perfect pentru un început confortabil.",
+                "en": "Enjoy the warm interior with a hot drink; in winter, this is the perfect spot for a cozy start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Ethnographique Lalla Aicha",
+                "hu": "Musée Ethnographique Lalla Aicha",
+                "ro": "Musée Ethnographique Lalla Aicha",
+                "en": "Musée Ethnographique Lalla Aicha"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme gut; ideal, um die winterliche Kälte für eine Weile komplett zu vergessen.",
+                "hu": "A vastag falak jól tartják a meleget; ideális hely, hogy egy időre teljesen elfelejtse a téli kinti hideget.",
+                "ro": "Zidurile groase rețin bine căldura; este locul ideal pentru a uita complet de frigul de iarnă pentru o vreme.",
+                "en": "The thick walls retain heat well; it is an ideal place to completely forget about the winter chill for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Dar Sebti",
+                "hu": "Dar Sebti",
+                "ro": "Dar Sebti",
+                "en": "Dar Sebti"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Palast am frühen Nachmittag, wenn das Licht am schönsten ist und die Innenräume noch die Tageswärme halten.",
+                "hu": "Látogassa meg a palotát kora délután, amikor a fények a legszebbek és a belső terek még tartják a nappali meleget.",
+                "ro": "Vizitați palatul la începutul după-amiezii, când lumina este cea mai frumoasă și interioarele păstrează încă căldura zilei.",
+                "en": "Visit the palace in the early afternoon when the light is most beautiful and the interiors still hold the day's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Mohamed VI Theatre",
+                "hu": "Mohamed VI Theatre",
+                "ro": "Mohamed VI Theatre",
+                "en": "Mohamed VI Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Belüftungssystem sorgt für angenehme Wärme; ein toller Stopp, um sich vor dem frühen Sonnenuntergang aufzuwärmen.",
+                "hu": "A modern szellőzőrendszer kellemes meleget biztosít; nagyszerű megálló a felmelegedéshez a korai naplemente előtt.",
+                "ro": "Sistemul modern de ventilație asigură o căldură plăcută; este o oprire excelentă pentru a vă încălzi înainte de apusul timpuriu.",
+                "en": "The modern ventilation system ensures a pleasant warmth; a great stop to warm up before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel d'Oujda",
+                "hu": "Centre Culturel d'Oujda",
+                "ro": "Centre Culturel d'Oujda",
+                "en": "Centre Culturel d'Oujda"
+              },
+              "tip_5lang": {
+                "de": "Ein lebendiger Ort auch im Winter; genießen Sie die kulturelle Wärme im Inneren, wenn es draußen gegen 17:00 Uhr dunkel wird.",
+                "hu": "Télen is élettel teli hely; élvezze a benti kulturális pezsgést, amikor kint 17:00 körül elkezd sötétedni.",
+                "ro": "Un loc plin de viață chiar și iarna; bucurați-vă de efervescența culturală din interior când afară se întunecă în jur de ora 17:00.",
+                "en": "A lively spot even in winter; enjoy the indoor cultural buzz as it starts to get dark outside around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc d'Attraction et d'Animation d'Oujda",
+                "hu": "Parc d'Attraction et d'Animation d'Oujda",
+                "ro": "Parc d'Attraction et d'Animation d'Oujda",
+                "en": "Parc d'Attraction et d'Animation d'Oujda"
+              },
+              "tip_5lang": {
+                "de": "Kleiden Sie sich sehr warm für den Außenbereich; der Park ist im Winter beleuchtet besonders stimmungsvoll für einen kurzen Rundgang.",
+                "hu": "Öltözzön nagyon melegen a kültéri részhez; a park télen kivilágítva különösen hangulatos egy rövid körsétához.",
+                "ro": "Îmbrăcați-vă foarte gros pentru exterior; parcul iluminat iarna este deosebit de sugestiv pentru o scurtă plimbare.",
+                "en": "Dress very warmly for the outdoor section; the park is particularly atmospheric when lit up in winter for a short stroll."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt Sant'Antioco ősi gyökereinek felfedezésével a Nuraghe és Sulki régészeti területén. A dél üdvözli a helyi hagyományokat a Néprajzi Múzeumban és a történelmi kilátást a Forte Su Pisuból. Délutánját a lenyűgöző katakombákban és a római kút felfedezésével töltheti. Az este csendes sétát kínál a helyi templomokhoz, megkoronázva ezt a gazdag történelmi utazást.",
         "ro": "Începeți dimineața explorând rădăcinile antice din Sant'Antioco la Nuraghe și zona arheologică Sulki. Amiaza vă invită la o incursiune în tradițiile locale la Muzeul Etnografic și la vederile istorice de la Forte Su Pisu. Petreceți după-amiaza coborând în fascinantele Catacombe înainte de a vizita Fântâna Romană. Seara aduce o plimbare liniștită la bisericile locale, încheind o călătorie istorică.",
         "en": "Start your morning exploring the ancient roots of Sant'Antioco at the Nuraghe and the vast archaeological area of Sulki. Midday invites a deep dive into local traditions at the Ethnographic Museum and historic views from Forte Su Pisu. Spend your afternoon descending into the fascinating Catacombe before visiting the monumental Fontana Romana. Evening brings a peaceful stroll to the local churches, concluding a fulfilling historical journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Nuraghe, wo der Regen eine mystische Atmosphäre schafft; tragen Sie unbedingt feste, wasserfeste Schuhe. Mittags bieten das Volkskundemuseum und die Katakomben den perfekten Schutz vor den Schauern. Am Nachmittag spazieren wir zur Fontana Romana und achten auf rutschige Gehwege. Der Abend endet an der Basilika, wo der Duft des Meeres nach dem Regen intensiver ist.",
+            "hu": "A reggel a Nuraghe kövei között indul, ahol az eső misztikus hangulatot áraszt; viseljen vízálló cipőt a sár ellen. Délben a Museo Etnografico és a katakombák nyújtanak tökéletes fedett menedéket a záporok elől. Délután a városi utcákon haladunk, vigyázva a csúszós járdákra a Fontana Romana felé. Az este a bazilikánál ér véget, ahol a tenger illata felerősödik a friss eső után.",
+            "ro": "Dimineața începe la Nuraghe, unde ploaia creează o atmosferă mistică; purtați încălțăminte impermeabilă pentru potecile noroioase. La prânz, Muzeul Etnografic și catacombele oferă adăpostul perfect împotriva averselor. După-amiaza ne plimbăm spre Fontana Romana, fiind atenți la trotuarele alunecoase. Seara se încheie la bazilică, unde mirosul mării este mult mai intens după ploaie.",
+            "en": "Morning starts at the Nuraghe, where rain creates a mystical atmosphere; wear waterproof shoes for the muddy trails. At noon, the Ethnographic Museum and catacombs provide perfect indoor shelter from the showers. In the afternoon, we walk towards Fontana Romana, being careful on slippery pavements. The evening ends at the basilica, where the scent of the sea is more intense after the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe",
+                "hu": "Nuraghe",
+                "ro": "Nuraghe",
+                "en": "Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die dunklen Basaltsteine, die im Regen glänzen, und nutzen Sie die Mauern als kurzen Windschutz bei Böen.",
+                "hu": "Csodálja meg az esőben fénylő sötét bazaltköveket, és használja a falakat szélfogóként a hirtelen érkező széllökések idején.",
+                "ro": "Admirați pietrele de bazalt care strălucesc în ploaie și folosiți zidurile ca paravan împotriva rafalelor bruște de vânt.",
+                "en": "Observe the dark basalt stones shining in the rain and use the thick walls as a brief windbreak during sudden gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Sulki",
+                "hu": "Sulki",
+                "ro": "Sulki",
+                "en": "Sulki"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die punischen Ruinen mit einem stabilen Schirm, da das Gelände offen ist und der Boden bei Nässe rutschig sein kann.",
+                "hu": "Fedezze fel a pun romokat egy stabil esernyővel, mivel a terep teljesen nyitott és a talaj nedvesen csúszóssá válik.",
+                "ro": "Explorați ruinele punice cu o umbrelă stabilă, deoarece terenul este deschis și solul devine alunecos când este ud.",
+                "en": "Explore the Punic ruins with a sturdy umbrella, as the site is fully exposed and the ground becomes slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Su Magasinu De Su Binu",
+                "hu": "Museo Etnografico Su Magasinu De Su Binu",
+                "ro": "Muzeul Etnografic Su Magasinu De Su Binu",
+                "en": "Museo Etnografico Su Magasinu De Su Binu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen wunderbaren Innenraum, um den stärksten Regen abzuwarten, während Sie tief in die sardische Weinkultur eintauchen.",
+                "hu": "Használja ki ezt a csodálatos belső teret a hevesebb eső kivárására, miközben elmélyed a szardíniai borkultúra rejtelmeiben.",
+                "ro": "Folosiți acest spațiu interior minunat pentru a aștepta trecerea ploii, în timp ce explorați cultura vinului din Sardinia.",
+                "en": "Take advantage of this wonderful indoor space to wait out the heaviest rain while diving deep into Sardinian wine culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Su Pisu",
+                "hu": "Forte Su Pisu",
+                "ro": "Forte Su Pisu",
+                "en": "Forte Su Pisu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das graue Meer von den Festungsmauern aus; halten Sie sich an den Geländern fest.",
+                "hu": "Élvezze a drámai kilátást a szürke tengerre a várfalakról; kapaszkodjon a korlátokba, mert a lépcsők esőben veszélyesek.",
+                "ro": "Bucurați-vă de priveliștea dramatică a mării cenușii de pe zidurile fortăreței; țineți-vă de balustrade pe scările umede.",
+                "en": "Enjoy the dramatic view of the grey sea from the fortress walls; hold onto the railings as the steps get slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacombe di Sant'Antioco",
+                "hu": "Sant'Antioco katakombái",
+                "ro": "Catacombele din Sant'Antioco",
+                "en": "Catacombe di Sant'Antioco"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge sind der ideale Zufluchtsort vor dem Wetter und bieten eine konstante, trockene Umgebung für Erkundungen.",
+                "hu": "A föld alatti folyosók ideális menedéket nyújtanak az időjárás elől, állandó és száraz környezetet biztosítva a felfedezéshez.",
+                "ro": "Culoarele subterane sunt refugiul ideal împotriva vremii, oferind un mediu constant și uscat pentru explorare.",
+                "en": "The underground passages are the ideal refuge from the weather, providing a constant and dry environment for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Romana",
+                "hu": "Fontana Romana",
+                "ro": "Fontana Romana",
+                "en": "Fontana Romana"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das antike Mauerwerk im weichen Licht des bewölkten Himmels; die Farben der Steine wirken jetzt viel gesättigter.",
+                "hu": "Nézze meg az antik falazatot a felhős égbolt lágy fényében; a kövek színei ilyenkor sokkal telítettebbnek tűnnek.",
+                "ro": "Observați zidăria antică în lumina difuză a cerului înnorat; culorile pietrelor par mult mai saturate în acest moment.",
+                "en": "View the ancient masonry in the soft light of the cloudy sky; the colors of the stones appear much more saturated now."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Goretti",
+                "hu": "Santa Maria Goretti",
+                "ro": "Santa Maria Goretti",
+                "en": "Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine stille, trockene Atempause; schütteln Sie Ihren Schirm draußen gründlich ab, bevor Sie eintreten.",
+                "hu": "Ez a templom csendes és száraz pihenőt kínál; rázza le alaposan az esernyőjét kint, mielőtt belépne a szentélybe.",
+                "ro": "Această biserică oferă un scurt popas liniștit și uscat; scuturați bine umbrela afară înainte de a intra în sanctuar.",
+                "en": "This church offers a quiet and dry respite; shake your umbrella thoroughly outside before entering the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Nostra Signora di Bonaria",
+                "hu": "Nostra Signora di Bonaria",
+                "ro": "Nostra Signora di Bonaria",
+                "en": "Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Schein der Innenbeleuchtung, während Sie dem Trommeln des Regens auf dem Kirchendach lauschen.",
+                "hu": "Zárja a napot a belső világítás meleg fényénél, miközben hallgatja az eső kopogását a templom tetőszerkezetén.",
+                "ro": "Încheiați ziua sub lumina caldă a interiorului, ascultând ropotul ploii pe acoperișul bisericii.",
+                "en": "End the day under the warm glow of the interior lighting while listening to the patter of rain on the church roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der morgendlichen Kühle starten wir an der Nuraghe, wobei die klare Winterluft eine weite Sicht ermöglicht. Mittags wärmen wir uns in den Museen auf, um dem kühlen Wind zu entgehen. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir die Fontana Romana im goldenen Licht des späten Nachmittags. Der Abend an der Basilika ist besonders stimmungsvoll und ruhig.",
+            "hu": "A reggeli hűvösben a Nuraghe falainál kezdünk, ahol a tiszta téli levegő távoli kilátást enged. Délben a múzeumok zárt tereiben melegszünk fel a csípős szél elől. Mivel a nap 17:00 körül nyugszik, a Fontana Romanát már az aranyos délutáni fényekben érjük el. Az este a bazilikánál különösen meghitt és csendes, távol a nyári tömegtől.",
+            "ro": "În răcoarea dimineții începem la Nuraghe, unde aerul curat de iarnă permite o vizibilitate excelentă. La prânz ne încălzim în muzee pentru a evita vântul tăios. Deoarece soarele apune în jur de ora 17:00, ajungem la Fontana Romana în lumina aurie a după-amiezii. Seara la bazilică este deosebit de intimă și liniștită.",
+            "en": "In the morning chill, we start at the Nuraghe walls, where the crisp winter air allows for distant views. At noon, we warm up inside the museums to escape the biting wind. Since the sun sets around 17:00, we reach Fontana Romana in the golden afternoon light. The evening at the basilica is particularly cozy and quiet, away from summer crowds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe",
+                "hu": "Nuraghe",
+                "ro": "Nuraghe",
+                "en": "Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da es auf der Anhöhe ziehen kann; die klare Luft bietet fantastische Fotos der antiken Struktur.",
+                "hu": "Viseljen szélálló ruházatot, mert a dombtetőn huzatos lehet az idő; a tiszta levegő fantasztikus fotókat tesz lehetővé.",
+                "ro": "Purtați haine rezistente la vânt, deoarece pe colină poate fi curent; aerul curat permite fotografii fantastice ale structurii.",
+                "en": "Wear windproof clothing as it can be breezy on the hill; the clear air allows for fantastic photos of the ancient structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Sulki",
+                "hu": "Sulki",
+                "ro": "Sulki",
+                "en": "Sulki"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen am Vormittag, wenn die Wintersonne die Steine wärmt und die Schatten für tolle Kontraste sorgen.",
+                "hu": "Délelőtt látogassa meg az ásatásokat, amikor a téli nap süti a köveket, és a hosszú árnyékok remek kontrasztot adnak.",
+                "ro": "Vizitați excavațiile dimineața, când soarele de iarnă încălzește pietrele și umbrele lungi oferă un contrast excelent.",
+                "en": "Visit the excavations in the morning when the winter sun warms the stones and long shadows provide great contrast."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Su Magasinu De Su Binu",
+                "hu": "Museo Etnografico Su Magasinu De Su Binu",
+                "ro": "Muzeul Etnografic Su Magasinu De Su Binu",
+                "en": "Museo Etnografico Su Magasinu De Su Binu"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und die Sardische Geschichte zu genießen, während draußen der kühle Seewind weht.",
+                "hu": "Ideális hely a felmelegedésre és a szardíniai történelem élvezetére, miközben kint fúj a hűvös tengeri szél.",
+                "ro": "Un loc ideal pentru a vă încălzi și a vă bucura de istoria sardă, în timp ce afară suflă vântul rece de mare.",
+                "en": "An ideal place to warm up and enjoy Sardinian history while the cool sea breeze blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Su Pisu",
+                "hu": "Forte Su Pisu",
+                "ro": "Forte Su Pisu",
+                "en": "Forte Su Pisu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Panorama der Insel bei tiefstehender Sonne; eine Mütze ist wegen des starken Winds an der Küste ratsam.",
+                "hu": "Csodálja meg a sziget panorámáját a lemenő nap fényében; a parton fújó erős szél miatt egy sapka viselése tanácsos.",
+                "ro": "Admirați panorama insulei în lumina soarelui care apune; purtarea unei căciuli este recomandată din cauza vântului puternic.",
+                "en": "Admire the island panorama in the low sun; wearing a hat is advisable due to the strong wind blowing on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacombe di Sant'Antioco",
+                "hu": "Sant'Antioco katakombái",
+                "ro": "Catacombele din Sant'Antioco",
+                "en": "Catacombe di Sant'Antioco"
+              },
+              "tip_5lang": {
+                "de": "In den Katakomben herrschen im Winter mildere Temperaturen als draußen, was sie zu einem angenehmen Zwischenstopp macht.",
+                "hu": "A katakombákban télen enyhébb a hőmérséklet, mint kint, ami kellemes pihenőhellyé teszi őket a városi séta során.",
+                "ro": "În catacombe, temperaturile sunt mai blânde iarna decât afară, ceea ce le face un popas plăcut în timpul plimbării.",
+                "en": "The catacombs have milder temperatures in winter than outside, making them a pleasant stop during your city walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Romana",
+                "hu": "Fontana Romana",
+                "ro": "Fontana Romana",
+                "en": "Fontana Romana"
+              },
+              "tip_5lang": {
+                "de": "Das antike Monument wirkt im weichen Winterlicht besonders edel; ideal für Fotos ohne die harten Schatten des Sommers.",
+                "hu": "Az antik műemlék a lágy téli fényben különösen nemesnek hat; ideális fotózáshoz a nyári erős árnyékok nélkül.",
+                "ro": "Monumentul antic pare deosebit de nobil în lumina blândă a iernii; ideal pentru fotografii fără umbrele dure ale verii.",
+                "en": "The ancient monument looks particularly noble in the soft winter light; ideal for photos without the harsh summer shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Goretti",
+                "hu": "Santa Maria Goretti",
+                "ro": "Santa Maria Goretti",
+                "en": "Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Kirche, kurz bevor die Dämmerung einsetzt und die Stadt in ein blaues Licht taucht.",
+                "hu": "Élvezze a templom nyugalmát közvetlenül a szürkület beállta előtt, amikor a várost kék fény árasztja el.",
+                "ro": "Bucurați-vă de liniștea bisericii chiar înainte de lăsarea serii, când orașul este inundat de o lumină albastră.",
+                "en": "Enjoy the tranquility of the church just before dusk sets in and the city is bathed in a blue light."
+              }
+            },
+            {
+              "name": {
+                "de": "Nostra Signora di Bonaria",
+                "hu": "Nostra Signora di Bonaria",
+                "ro": "Nostra Signora di Bonaria",
+                "en": "Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour in der beheizten Basilika ab, während draußen die winterliche Dunkelheit früh über die Insel hereinbricht.",
+                "hu": "Zárja a túrát a bazilikában, miközben kint a téli sötétség korán rátelepszik a szigetre és a tengerpartra.",
+                "ro": "Încheiați turul în bazilică, în timp ce afară întunericul de iarnă se așterne devreme peste insulă și țărm.",
+                "en": "Close your tour inside the basilica as winter darkness settles early over the island and the coastline outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -406,6 +652,252 @@
         "hu": "Kerékpáros napja békésen indul a Nostra Signora di Bonaria és a Santa Maria Goretti templomoknál. A dél a Fontana Romana történelmi kútjához és a katakombák földalatti rejtelmeihez vezet. Délután tekerjen fel a Forte Su Pisuhoz, valamint Sulki és a Nuraghe ősi romjaihoz. Az este egy frissítő utazást kínál az Antico Ponte Romano hídjához, ahonnan fenséges kilátás nyílik a sziget partjaira.",
         "ro": "Ziua de ciclism începe liniștit la Nostra Signora di Bonaria și Santa Maria Goretti. Amiaza vă îndreaptă spre istorica Fântână Romană și misterele subterane ale Catacombelor. După-amiaza, pedalați până la Forte Su Pisu și ruinele antice din Sulki și Nuraghe. Seara vă conduce într-o plimbare răcoritoare peste Antico Ponte Romano, oferind o vedere finală maiestuoasă a țărmurilor insulei.",
         "en": "Your cycling day starts peacefully at Nostra Signora di Bonaria and Santa Maria Goretti. Midday wheels you towards the historic Fontana Romana and the underground mysteries of the Catacombe. In the afternoon, pedal up to Forte Su Pisu and the ancient ruins of Sulki and Nuraghe. Evening leads you on a refreshing ride across the Antico Ponte Romano, offering a majestic final view of the island's shores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt an der Basilika, wobei Sie auf dem nassen Kopfsteinpflaster besonders vorsichtig sein sollten. Mittags steuern wir die Katakomben an, um dem Regen für eine Weile zu entkommen. Am Nachmittag führt die Route über Sulki zur Nuraghe, wobei Schlammspritzer auf den Wegen möglich sind. Wir beenden die Tour an der alten Brücke, wenn der Himmel hoffentlich aufklart.",
+            "hu": "A kerékpártúra a bazilikánál indul, ahol a nedves macskakövön különösen óvatosnak kell lenni. Délben a katakombákat vesszük célba, hogy egy időre elmeneküljünk az eső elől. Délután az út Sulki és a Nuraghe felé vezet, ahol sárfelverődésre lehet számítani. A túrát az ősi hídnál fejezzük be, remélve, hogy az ég addigra kitisztul.",
+            "ro": "Turul cu bicicleta începe la bazilică, unde trebuie să fiți extrem de precauți pe pavajul umed. La prânz ne îndreptăm spre catacombe pentru a scăpa de ploaie pentru o vreme. După-amiaza traseul duce prin Sulki spre Nuraghe, unde sunt posibile stropiri cu noroi. Încheiem turul la podul vechi, sperând că cerul se va însenina.",
+            "en": "The bike tour starts at the basilica, where you should be extra cautious on the wet cobblestones. At noon, we head to the catacombs to escape the rain for a while. In the afternoon, the route leads through Sulki to the Nuraghe, where mud splashes are possible on the paths. We finish the tour at the ancient bridge, hopefully as the sky clears up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nostra Signora di Bonaria",
+                "hu": "Nostra Signora di Bonaria",
+                "ro": "Nostra Signora di Bonaria",
+                "en": "Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die trockene Stille des Innenraums vor der Weiterfahrt.",
+                "hu": "Parkolja le biciklijét egy védett helyen, és élvezze a belső tér száraz csendjét a továbbindulás előtt.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de liniștea uscată a interiorului înainte de a pleca.",
+                "en": "Park your bike in a sheltered spot and enjoy the dry silence of the interior before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Goretti",
+                "hu": "Santa Maria Goretti",
+                "ro": "Santa Maria Goretti",
+                "en": "Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Boden vor der Kirche; das kurze Verweilen im Trockenen gibt neue Energie.",
+                "hu": "Ellenőrizze a fékeit a templom előtti nedves talajon; a rövid száraz pihenő új energiát ad a tekeréshez.",
+                "ro": "Verificați frânele pe solul umed din fața bisericii; scurtul popas la uscat vă oferă energie nouă.",
+                "en": "Check your brakes on the wet ground in front of the church; the short dry break provides new energy for riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Romana",
+                "hu": "Fontana Romana",
+                "ro": "Fontana Romana",
+                "en": "Fontana Romana"
+              },
+              "tip_5lang": {
+                "de": "Die Steine können sehr rutschig sein; steigen Sie vom Rad ab und führen Sie es vorsichtig um das Monument herum.",
+                "hu": "A kövek nagyon csúszósak lehetnek; szálljon le a bicikliről, és óvatosan tolja azt a műemlék körül.",
+                "ro": "Pietrele pot fi foarte alunecoase; coborâți de pe bicicletă și împingeți-o cu grijă în jurul monumentului.",
+                "en": "The stones can be very slippery; get off your bike and push it carefully around the ancient monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacombe di Sant'Antioco",
+                "hu": "Sant'Antioco katakombái",
+                "ro": "Catacombele din Sant'Antioco",
+                "en": "Catacombe di Sant'Antioco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Besichtigung als längere Pause vom Regen; Ihre Ausrüstung kann in der Zeit etwas abtropfen.",
+                "hu": "Használja a látogatást hosszabb szünetként az eső elől; a felszerelése addig is egy kicsit lecsepeghet.",
+                "ro": "Folosiți vizita ca o pauză mai lungă de ploaie; echipamentul se poate scurge puțin în acest timp.",
+                "en": "Use the visit as a longer break from the rain; your gear can drip dry a bit during the exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Su Pisu",
+                "hu": "Forte Su Pisu",
+                "ro": "Forte Su Pisu",
+                "en": "Forte Su Pisu"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Wind, der oben an der Festung stark wehen kann, und sichern Sie Ihr Fahrrad gut gegen Umfallen.",
+                "hu": "Ügyeljen a szélre, amely az erődnél erősen fújhat, és rögzítse jól a biciklijét, hogy ne boruljon fel.",
+                "ro": "Fiți atenți la vântul care poate sufla puternic la fortăreață și asigurați bine bicicleta împotriva răsturnării.",
+                "en": "Watch out for the wind that can blow strongly at the fortress and secure your bike well against falling over."
+              }
+            },
+            {
+              "name": {
+                "de": "Sulki",
+                "hu": "Sulki",
+                "ro": "Sulki",
+                "en": "Sulki"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch das Ausgrabungsgelände, da sich in den Vertiefungen tiefe Pfützen bilden können.",
+                "hu": "Hajtson lassan az ásatási területen, mivel a mélyedésekben mély tócsák alakulhatnak ki az eső után.",
+                "ro": "Conduceți încet prin zona de excavații, deoarece în adâncituri se pot forma bălți adânci după ploaie.",
+                "en": "Ride slowly through the excavation site as deep puddles can form in the depressions after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe",
+                "hu": "Nuraghe",
+                "ro": "Nuraghe",
+                "en": "Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengender; tragen Sie eine atmungsaktive Regenjacke, um nicht zu überhitzen.",
+                "hu": "Az emelkedő esőben fárasztóbb; viseljen légáteresztő esőkabátot, hogy ne hevüljön túl a tekerés közben.",
+                "ro": "Urcarea este mai obositoare în ploaie; purtați o jachetă impermeabilă respirabilă pentru a nu vă supraîncălzi.",
+                "en": "The climb is more tiring in the rain; wear a breathable raincoat to avoid overheating during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Ponte Romano",
+                "hu": "Antico Ponte Romano",
+                "ro": "Antico Ponte Romano",
+                "en": "Antico Ponte Romano"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig an der Brücke, da der Wind vom Meer hier besonders ungeschützt angreift; halten Sie den Lenker fest.",
+                "hu": "Legyen óvatos a hídnál, mert a tenger felőli szél itt védtelenül érheti; fogja erősen a kormányt.",
+                "ro": "Fiți precauți la pod, deoarece vântul dinspre mare vă poate lovi din plin; țineți bine de ghidon.",
+                "en": "Be cautious at the bridge as the sea wind can hit you unprotected here; keep a firm grip on the handlebars."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet an der Basilika unter strahlend blauem, kühlem Himmel. Mittags nutzen wir die Museen als warme Zwischenstopps, um die Hände aufzuwärmen. Am Nachmittag radeln wir zügig zur Nuraghe, bevor die Sonne um 17:00 Uhr untergeht. Die Tour endet am Antico Ponte Romano, wo die Abenddämmerung die Lagune in magische Farben taucht.",
+            "hu": "A téli kerékpártúra a bazilikánál indul a ragyogó kék, hűvös égbolt alatt. Délben a múzeumokat használjuk meleg pihenőként, hogy felmelegítsük a kezünket a menetszél után. Délután tempósan tekerünk a Nuraghe felé, mielőtt a nap 17:00-kor nyugovóra tér. A túra az ősi hídnál ér véget, ahol az alkonyi fények varázslatossá teszik a lagúnát.",
+            "ro": "Turul de iarnă cu bicicleta începe la bazilică sub cerul senin și rece. La prânz folosim muzeele ca popasuri calde pentru a ne încălzi mâinile. După-amiaza pedalăm rapid spre Nuraghe înainte ca soarele să apună la ora 17:00. Turul se încheie la podul roman, unde amurgul colorează laguna în nuanțe magice.",
+            "en": "The winter bike tour starts at the basilica under a bright blue, chilly sky. At noon, we use the museums as warm stops to thaw out our hands from the wind chill. In the afternoon, we pedal briskly to the Nuraghe before the sun sets at 17:00. The tour ends at the ancient bridge, where dusk paints the lagoon in magical colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nostra Signora di Bonaria",
+                "hu": "Nostra Signora di Bonaria",
+                "ro": "Nostra Signora di Bonaria",
+                "en": "Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Abfahrt von der Kirche unerlässlich, um die Finger gegen den kalten Wind zu schützen.",
+                "hu": "A kesztyű elengedhetetlen a templomtól való leguruláshoz, hogy megvédje ujjait a hideg menetszéltől.",
+                "ro": "Mănușile sunt esențiale pentru coborârea de la biserică, pentru a vă proteja degetele de vântul rece.",
+                "en": "Gloves are essential for the descent from the church to protect your fingers against the biting cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Goretti",
+                "hu": "Santa Maria Goretti",
+                "ro": "Santa Maria Goretti",
+                "en": "Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Sonnenlicht auf dem Vorplatz für eine kurze Vitamin-D-Pause, bevor es im Schatten wieder kühler wird.",
+                "hu": "Használja ki a napfényt a templom előtti téren egy rövid D-vitamin szünetre, mielőtt az árnyékban újra hűvösebb lenne.",
+                "ro": "Profitați de lumina soarelui din fața bisericii pentru o scurtă pauză, înainte ca umbra să aducă răcoarea.",
+                "en": "Take advantage of the sunlight in the square for a short vitamin D break before it gets cooler in the shade again."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Romana",
+                "hu": "Fontana Romana",
+                "ro": "Fontana Romana",
+                "en": "Fontana Romana"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Radfahren; eine Sonnenbrille ist auch im Winter sehr zu empfehlen.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat tekerés közben; a napszemüveg télen is erősen ajánlott kiegészítő.",
+                "ro": "Soarele de iarnă este jos și vă poate orbi în timp ce pedalați; ochelarii de soare sunt foarte recomandați și iarna.",
+                "en": "The winter sun is low and can blind you while cycling; sunglasses are highly recommended even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Catacombe di Sant'Antioco",
+                "hu": "Sant'Antioco katakombái",
+                "ro": "Catacombele din Sant'Antioco",
+                "en": "Catacombe di Sant'Antioco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die windstille Umgebung der Katakomben für eine erholsame Pause.",
+                "hu": "Parkolja le biciklijét biztonságosan, és élvezze a katakombák szélcsendes környezetét egy pihentető szünetre.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de mediul ferit de vânt al catacombelor pentru o pauză relaxantă.",
+                "en": "Park your bike safely and enjoy the windless environment of the catacombs for a restful break from riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Su Pisu",
+                "hu": "Forte Su Pisu",
+                "ro": "Forte Su Pisu",
+                "en": "Forte Su Pisu"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Festung kann im Winter eisig sein; ziehen Sie eine zusätzliche Schicht an, bevor Sie den Ausblick genießen.",
+                "hu": "Az erődnél fújó szél télen jeges lehet; vegyen fel egy plusz réteget, mielőtt élvezné a kilátást.",
+                "ro": "Vântul de la fortăreață poate fi înghețat iarna; puneți-vă un strat suplimentar înainte de a admira priveliștea.",
+                "en": "The wind at the fortress can be icy in winter; put on an extra layer before stopping to admire the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Sulki",
+                "hu": "Sulki",
+                "ro": "Sulki",
+                "en": "Sulki"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern keine Wärme; bleiben Sie in Bewegung, um nicht auszukühlen, während Sie die punischen Ruinen erkunden.",
+                "hu": "A kövek nem tárolnak hőt; maradjon mozgásban a romok felfedezése közben, hogy ne hűljön ki a teste.",
+                "ro": "Pietrele nu rețin căldura; rămâneți în mișcare în timp ce explorați ruinele pentru a nu vă răci corpul.",
+                "en": "The stones don't retain heat; stay in motion while exploring the ruins to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe",
+                "hu": "Nuraghe",
+                "ro": "Nuraghe",
+                "en": "Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Durch das Treten bergauf wird Ihnen warm, aber für den Rückweg sollten Sie unbedingt Ihre Jacke wieder fest verschließen.",
+                "hu": "A felfelé tekeréstől kimelegszik, de a visszaútra mindenképpen cipzárazza vissza a kabátját a hideg ellen.",
+                "ro": "Pedalatul la deal vă va încălzi, dar pentru drumul de întoarcere închideți bine jacheta împotriva frigului.",
+                "en": "Cycling uphill will warm you up, but be sure to zip your jacket back up tightly for the return journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Ponte Romano",
+                "hu": "Antico Ponte Romano",
+                "ro": "Antico Ponte Romano",
+                "en": "Antico Ponte Romano"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang fällt die Temperatur rapide; planen Sie, kurz nach Erreichen der Brücke wieder im Warmen zu sein.",
+                "hu": "Naplemente után a hőmérséklet gyorsan leesik; tervezze úgy, hogy a híd elérése után hamar meleg helyre érjen.",
+                "ro": "După apus, temperatura scade rapid; planificați să ajungeți într-un loc cald curând după ce vizitați podul.",
+                "en": "After sunset, the temperature drops rapidly; plan to be in a warm place soon after reaching the bridge."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1075,224 @@
         "hu": "Kezdje autós túráját az Antico Ponte Romano hídnál, megcsodálva az ősi mérnöki munkát. Délidőben gyorsan eljuthat a város csendes vallási helyszíneihez és a történelmi római kúthoz. Töltse a délutánt a Néprajzi Múzeum és Sulki kiterjedt ősi ösvényeinek felfedezésével. Az este közeledtével járja be a monumentális Nuraghe területét, tökéletes befejezést adva a kulturális utazásnak.",
         "ro": "Începeți turul cu mașina la vechiul Pod Roman, admirând ingineria antică. Amiaza permite o scurtă deplasare la siturile religioase liniștite și la istorica Fântână Romană. Petreceți după-amiaza adâncindu-vă în Muzeul Etnografic și cărările antice întinse din Sulki. Seara se apropie în timp ce explorați monumentalul Nuraghe, încheind o zi perfectă de cultură și istorie.",
         "en": "Kick off your driving tour at the Antico Ponte Romano, admiring the ancient engineering. Midday allows a quick hop to the town's serene religious sites and the historic Fontana Romana. Spend your afternoon diving deep into the Ethnographic Museum and the sprawling ancient paths of Sulki. Evening approaches as you explore the monumental Nuraghe, wrapping up a perfect day of culture and history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Tour bei Regen ideal, beginnend an der alten Brücke. Mittags genießen wir die trockene Fahrt zum Volkskundemuseum, während draußen der Regen auf das Dach trommelt. Am Nachmittag besuchen wir Sulki und die Nuraghe, wobei wir die kurzen Wege vom Parkplatz schätzen. Der Tag endet gemütlich im warmen Wagen an der Basilika.",
+            "hu": "Autóval az esős túra ideális, az ősi hídnál kezdve. Délben élvezzük a száraz utat a Museo Etnografico felé, miközben kint az eső kopog a tetőn. Délután meglátogatjuk Sulkit és a Nuraghét, értékelve a parkolótól mért rövid távolságokat. A nap kényelmesen, a meleg autóban ér véget a bazilikánál.",
+            "ro": "Cu mașina, turul pe ploaie este ideal, începând de la podul vechi. La prânz ne bucurăm de drumul uscat spre Muzeul Etnografic, în timp ce ploaia bate în plafon. După-amiaza vizităm Sulki și Nuraghe, apreciind distanțele scurte de la parcare. Ziua se încheie confortabil în mașina încălzită, la bazilică.",
+            "en": "By car, the rainy tour is ideal, starting at the ancient bridge. At noon, we enjoy the dry drive to the Ethnographic Museum while the rain drums on the roof outside. In the afternoon, we visit Sulki and the Nuraghe, appreciating the short walking distances from the parking lots. The day ends comfortably in the warm car at the basilica."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antico Ponte Romano",
+                "hu": "Antico Ponte Romano",
+                "ro": "Antico Ponte Romano",
+                "en": "Antico Ponte Romano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Brücke und beobachten Sie die Wellen der Lagune gemütlich aus dem trockenen Innenraum Ihres Wagens.",
+                "hu": "Parkoljon közel a hídhoz, és figyelje a lagúna hullámait kényelmesen, az autója száraz belső teréből.",
+                "ro": "Parcați aproape de pod și observați valurile lagunei confortabil, din interiorul uscat al mașinii.",
+                "en": "Park close to the bridge and watch the lagoon waves comfortably from the dry interior of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Nostra Signora di Bonaria",
+                "hu": "Nostra Signora di Bonaria",
+                "ro": "Nostra Signora di Bonaria",
+                "en": "Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Tür, um mit minimalem Regenkontakt in die prächtige Basilika zu gelangen.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolót, hogy minimális esővel érintkezve juthasson be a pompás bazilikába.",
+                "ro": "Folosiți parcarea direct din fața intrării pentru a intra în bazilică cu un contact minim cu ploaia de afară.",
+                "en": "Use the parking lot right in front of the door to enter the magnificent basilica with minimal contact with the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Goretti",
+                "hu": "Santa Maria Goretti",
+                "ro": "Santa Maria Goretti",
+                "en": "Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Kleidung im Auto, während Sie diesen ruhigen Ort besuchen, damit Sie danach wieder im Trockenen sitzen.",
+                "hu": "Hagyja a vizes ruháit az autóban a látogatás alatt, hogy utána ismét száraz és meleg környezetbe térhessen vissza.",
+                "ro": "Lăsați hainele ude în mașină în timpul vizitei, pentru a reveni apoi într-un mediu uscat și cald.",
+                "en": "Leave your wet clothes in the car during the visit so you can return to a dry and warm environment afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Romana",
+                "hu": "Fontana Romana",
+                "ro": "Fontana Romana",
+                "en": "Fontana Romana"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier perfekt; die antike Quelle wirkt im Regen besonders authentisch und geschichtsträchtig.",
+                "hu": "Egy gyors megálló itt tökéletes; az antik forrás az esőben különösen hitelesnek és történelminek hat.",
+                "ro": "O oprire rapidă aici este perfectă; izvorul antic pare deosebit de autentic și plin de istorie în ploaie.",
+                "en": "A quick stop here is perfect; the ancient spring feels particularly authentic and historic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Su Magasinu De Su Binu",
+                "hu": "Museo Etnografico Su Magasinu De Su Binu",
+                "ro": "Muzeul Etnografic Su Magasinu De Su Binu",
+                "en": "Museo Etnografico Su Magasinu De Su Binu"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine ausgiebige Regenpause; tauchen Sie in die sardische Kultur ein, während es draußen schüttet.",
+                "hu": "Tökéletes hely egy kiadós esőszünetre; merüljön el a szardíniai kultúrában, miközben kint szakad az eső.",
+                "ro": "Locul perfect pentru o pauză lungă de ploaie; scufundați-vă în cultura sardă în timp ce afară toarnă cu găleata.",
+                "en": "The perfect place for a long rain break; immerse yourself in Sardinian culture while it's pouring outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sulki",
+                "hu": "Sulki",
+                "ro": "Sulki",
+                "en": "Sulki"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Parkplätzen, da sich dort bei starkem Regen Schlamm bilden kann.",
+                "hu": "Vezessen óvatosan a nem aszfaltozott parkolókban, mivel heves esőzéskor sár alakulhat ki a területen.",
+                "ro": "Conduceți cu atenție în parcările neasfaltate, deoarece se poate forma noroi în timpul ploilor abundente.",
+                "en": "Drive carefully in the unpaved parking lots as mud can form there during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe",
+                "hu": "Nuraghe",
+                "ro": "Nuraghe",
+                "en": "Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Wagens, um sich nach dem kurzen, nassen Spaziergang zur Nuraghe sofort wieder aufzuwärmen.",
+                "hu": "Használja az autó fűtését, hogy a Nuraghe felé tett rövid, vizes séta után azonnal felmelegedjen a belső térben.",
+                "ro": "Folosiți căldura mașinii pentru a vă încălzi imediat după scurta plimbare umedă spre Nuraghe.",
+                "en": "Use your car's heater to warm up immediately after the short, wet walk to the Nuraghe site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt an der kühlen Meereslagune an der Brücke. Mittags genießen wir die beheizte Fahrt durch die historischen Gassen zum warmen Volkskundemuseum. Am Nachmittag steuern wir Sulki und die Nuraghe an, wobei wir die tiefstehende Wintersonne für tolle Fotos nutzen. Der Tag endet bei früh einsetzender Dunkelheit gegen 17:00 Uhr an der beleuchteten Basilika.",
+            "hu": "A téli autós túra a hűvös tengeri lagúnánál kezdődik a hídnál. Délben élvezzük a fűtött utazást a történelmi utcákon a meleg Museo Etnografico felé. Délután Sulkit és a Nuraghét vesszük célba, kihasználva az alacsony téli napfényt a fotózáshoz. A nap a korán, 17:00 körül beálló sötétségben ér véget a kivilágított bazilikánál.",
+            "ro": "Turul de iarnă cu mașina începe la laguna rece de la pod. La prânz ne bucurăm de drumul încălzit prin străzile istorice spre Muzeul Etnografic. După-amiaza vizităm Sulki și Nuraghe, profitând de soarele de iarnă pentru fotografii. Ziua se încheie odată cu lăsarea serii, în jur de ora 17:00, la bazilica iluminată.",
+            "en": "The winter car tour starts at the cool sea lagoon by the bridge. At noon, we enjoy the heated drive through historical streets to the warm Ethnographic Museum. In the afternoon, we head to Sulki and the Nuraghe, taking advantage of the low winter sun for great photos. The day ends as darkness sets in early around 17:00 at the illuminated basilica."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antico Ponte Romano",
+                "hu": "Antico Ponte Romano",
+                "ro": "Antico Ponte Romano",
+                "en": "Antico Ponte Romano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Lagune im klaren Winterlicht; im Auto bleiben Sie dabei vom kalten Seewind verschont.",
+                "hu": "Élvezze a kilátást a lagúnára a tiszta téli fényben; az autóban ülve megmenekül a hideg tengeri széltől.",
+                "ro": "Bucurați-vă de priveliștea lagunei în lumina clară de iarnă; în mașină sunteți feriți de vântul rece de mare.",
+                "en": "Enjoy the view of the lagoon in the clear winter light; staying in the car keeps you safe from the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Nostra Signora di Bonaria",
+                "hu": "Nostra Signora di Bonaria",
+                "ro": "Nostra Signora di Bonaria",
+                "en": "Nostra Signora di Bonaria"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Basilika speichern im Winter eine gewisse Kälte; behalten Sie Ihren Mantel auch im Inneren an.",
+                "hu": "A bazilika vastag falai télen tartják a hideget; tartsa magán a kabátját a látogatás alatt is a belső térben.",
+                "ro": "Zidurile groase ale bazilicii rețin frigul iarna; păstrați haina pe dumneavoastră și în interior în timpul vizitei.",
+                "en": "The thick walls of the basilica retain the cold in winter; keep your coat on even inside during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Goretti",
+                "hu": "Santa Maria Goretti",
+                "ro": "Santa Maria Goretti",
+                "en": "Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto, um diesen friedlichen Ort zu besuchen, bevor die Heizung im Wagen Sie wieder wärmt.",
+                "hu": "Használja ki a rövid sétát az autótól, hogy meglátogassa ezt a békés helyet, mielőtt a fűtés újra felmelegítené.",
+                "ro": "Profitați de drumul scurt de la mașină pentru a vizita acest loc liniștit, înainte ca căldura să vă reîncălzească.",
+                "en": "Take advantage of the short walk from the car to visit this peaceful spot before the heater warms you up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Romana",
+                "hu": "Fontana Romana",
+                "ro": "Fontana Romana",
+                "en": "Fontana Romana"
+              },
+              "tip_5lang": {
+                "de": "Das antike Monument wirkt im sanften Winterlicht besonders fotogen; steigen Sie für ein schnelles Erinnerungsfoto kurz aus.",
+                "hu": "Az antik műemlék a lágy téli fényben különösen fotogén; szálljon ki egy rövid időre egy gyors emlékfotó kedvéért.",
+                "ro": "Monumentul antic este foarte fotogenic în lumina blândă a iernii; coborâți pentru o fotografie rapidă de amintire.",
+                "en": "The ancient monument looks very photogenic in the soft winter light; hop out for a quick souvenir photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Su Magasinu De Su Binu",
+                "hu": "Museo Etnografico Su Magasinu De Su Binu",
+                "ro": "Muzeul Etnografic Su Magasinu De Su Binu",
+                "en": "Museo Etnografico Su Magasinu De Su Binu"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer, warmer Ort, um mehr über sardische Traditionen zu erfahren, ohne dem kalten Wind ausgesetzt zu sein.",
+                "hu": "Csodálatos, meleg hely a szardíniai hagyományok megismerésére, anélkül, hogy ki lenne téve a kinti hideg szélnek.",
+                "ro": "Un loc minunat și cald pentru a învăța despre tradițiile sarde, fără a fi expuși vântului rece de afară.",
+                "en": "A wonderful, warm place to learn about Sardinian traditions without being exposed to the cold wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sulki",
+                "hu": "Sulki",
+                "ro": "Sulki",
+                "en": "Sulki"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen am Nachmittag, wenn das warme Licht der Wintersonne die antiken Ausgrabungen perfekt in Szene setzt.",
+                "hu": "Látogassa meg a romokat délután, amikor a téli nap meleg fénye tökéletesen megvilágítja az antik ásatásokat.",
+                "ro": "Vizitați ruinele după-amiaza, când lumina caldă a soarelui de iarnă pune în valoare excavațiile antice.",
+                "en": "Visit the ruins in the afternoon when the warm light of the winter sun perfectly highlights the ancient excavations."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe",
+                "hu": "Nuraghe",
+                "ro": "Nuraghe",
+                "en": "Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Von hier oben haben Sie im Winter eine besonders klare Sicht; genießen Sie das Panorama, bevor es ab 17 Uhr dunkel wird.",
+                "hu": "Innen fentről télen különösen tiszta a kilátás; élvezze a panorámát, mielőtt 17 óra után beállna a sötétség.",
+                "ro": "De aici de sus aveți o vizibilitate deosebit de clară iarna; bucurați-vă de panoramă înainte de lăsarea serii, la ora 17.",
+                "en": "From up here, you have a particularly clear view in winter; enjoy the panorama before it gets dark after 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

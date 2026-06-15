@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az ipari örökség és a helyi művészetek felfedezésével. A délidő a városközpontot meghatározó fenséges helyi mecset és a történelmi műemlékek felé tereli a figyelmet. A délután egy békés sétát kínál az ősi Vörös Mecsethez. Zárja a napot a grandiózus Kanoman Palota bejárásával.",
         "ro": "Începeți dimineața explorând moștenirea industrială și artele locale. La prânz, atenția se mută spre maiestuoasa moschee locală și monumentele istorice din centrul orașului. După-amiaza oferă o plimbare liniștită către vechea Moschee Roșie. Încheiați ziua plimbându-vă prin grandiosul Palat Kanoman.",
         "en": "Begin your morning exploring the industrial heritage and vibrant local arts, setting a cultural tone. Midday shifts towards the majestic local mosque and historical monuments that anchor the city center. The afternoon offers a peaceful stroll to the ancient Red Mosque. Conclude your day walking through the grand Kanoman Palace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Lokomotivdenkmal, wo ein Schirm bei plötzlichen Schauern unerlässlich ist. Mittags bietet das Maskenmuseum einen trockenen Zufluchtsort, um die lokale Kultur im Trockenen zu studieren.\n\nAm Nachmittag finden wir unter den weiten Dächern der At-Taqwa Moschee Schutz vor dem Tropenregen. Der Weg zum Unabhängigkeitsdenkmal erfordert Vorsicht auf den nassen Gehwegen.\n\nSpäter bewundern wir die Rote Moschee von Panjunan, deren Innenhof bei Regen besonders mystisch wirkt. Das Dach bietet sicheren Halt während der schwersten Güsse.\n\nDer Abend endet im Kanoman Palast Museum. Hier können Sie die königliche Geschichte in aller Ruhe erkunden, während draußen der Regen gegen die alten Mauern peitscht.",
+            "hu": "A reggel a mozdonyemlékműnél indul, ahol egy masszív esernyő lesz a legjobb barátja a hirtelen partmenti záporok ellen. Délben a Maszk Múzeumba húzódunk be, amely tökéletes száraz menedék.\n\nKora délután az At-Taqwa mecset hatalmas tetőszerkezete alatt várjuk meg a trópusi eső csendesedését. A függetlenségi emlékműnél figyeljünk a csúszós útburkolatra.\n\nA Panjunan vörös mecsetje ilyenkor különleges, párás atmoszférát áraszt, a belső terek pedig védenek az égi áldástól. Este a Kanoman palota múzeumában zárjuk a napot, teljesen elszigetelve a kültéri sivatagtól.\n\nA városi séta végén a palota örökségvédelmi épületei között biztonságban maradunk az esti esőtől, miközben elmerülünk a szultanátus történelmében.",
+            "ro": "Dimineața începe la monumentul locomotivei, unde o umbrelă solidă este esențială împotriva ploilor tropicale bruște. La prânz, Muzeul Măștilor oferă un refugiu uscat și fascinant.\n\nDupă-amiaza ne adăpostim sub arcadele mari ale moscheii At-Taqwa în timp ce ploaia torențială curăță străzile. Aveți grijă la trotuarele umede în drum spre Monumentul Independenței.\n\nMoscheea Roșie din Panjunan capătă o aură mistică pe timp de ploaie, oferind un spațiu acoperit liniștit. Seara se încheie la Muzeul Palatului Kanoman, protejați de intemperii.\n\nÎncheiem turul pietonal explorând exponatele regale în interior, departe de umezeala serii, savurând istoria locală într-un cadru protejat și uscat.",
+            "en": "Morning starts at the locomotive monument, where a sturdy umbrella is essential against sudden coastal showers. By noon, the Mask Museum provides a perfect dry sanctuary to explore local culture.\n\nAfternoon finds us under the vast roof of At-Taqwa Mosque, sheltering from the tropical downpour. Be cautious of slippery surfaces while walking toward the Independence Monument.\n\nThe Red Mosque of Panjunan feels incredibly atmospheric in the rain; its covered areas offer a peaceful resting spot. Evening concludes safely inside the Kanoman Palace Heritage Museum.\n\nWe finish the walking tour surrounded by royal history, completely shielded from the evening rain within the sturdy walls of the palace's museum building."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokomotivdenkmal B 1304",
+                "hu": "B 1304 Lokomotív Emlékmű",
+                "ro": "Monumentul Locomotivei B 1304",
+                "en": "Monumen Lokomotif B 1304"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Lokomotive unter Ihrem Schirm; das nasse Metall glänzt im Regen besonders schön, aber achten Sie auf Pfützen am Boden.",
+                "hu": "Csodálja meg a történelmi mozdonyt az esernyője alól; a vizes fém különlegesen csillog az esőben, de vigyázzon a monumentum körüli mély tócsákra.",
+                "ro": "Admirați locomotiva istorică de sub umbrelă; metalul umed strălucește frumos în ploaie, dar fiți atenți la bălțile formate în jurul monumentului.",
+                "en": "Admire the historic locomotive from under your umbrella; the wet metal glints beautifully in the rain, but watch out for deep puddles around the base."
+              }
+            },
+            {
+              "name": {
+                "de": "Maskenmuseum Cirebon",
+                "hu": "Cirebon Maszk Múzeum",
+                "ro": "Muzeul Măștilor Cirebon",
+                "en": "Museum Topeng Cirebon"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte trockene Zufluchtsort, um die filigranen traditionellen Masken zu bewundern, während draußen der Tropenregen niedergeht.",
+                "hu": "Ez a múzeum tökéletes száraz menedéket nyújt a különleges tradicionális maszkok megtekintéséhez, miközben kint szakad a trópusi eső a város utcáin.",
+                "ro": "Acest muzeul este refugiul perfect pentru a admira măștile tradiționale delicate, în timp ce afară ploaia tropicală cade peste străzile orașului.",
+                "en": "This museum offers the perfect dry sanctuary to admire intricate traditional masks while the tropical rain pours outside on the city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya At-Taqwa",
+                "hu": "Masjid Raya At-Taqwa",
+                "ro": "Masjid Raya At-Taqwa",
+                "en": "Masjid Raya At-Taqwa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die weiten, überdachten Hallen der Moschee, um die Architektur zu bestaunen und gleichzeitig den schwersten Guss des Tages trocken abzuwarten.",
+                "hu": "Használja ki a mecset tágas, fedett csarnokait az építészet megcsodálására, miközben szárazon várja meg a nap leghevesebb felhőszakadását a falak között.",
+                "ro": "Folosiți holurile spațioase și acoperite ale moscheii pentru a admira arhitectura, așteptând în același timp ca cea mai grea ploaie a zilei să treacă.",
+                "en": "Utilize the mosque's spacious covered halls to admire the architecture while waiting for the heaviest downpour of the day to pass in dry comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Unabhängigkeitsdenkmal",
+                "hu": "Függetlenségi Emlékmű",
+                "ro": "Monumentul Independenței",
+                "en": "Tugu Kemerdekaan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp mit festem Schirm ist hier nötig; die nasse Steinstruktur wirkt bei bewölktem Himmel besonders würdevoll und geschichtsträchtig.",
+                "hu": "Egy rövid megálló szilárd esernyővel itt elengedhetetlen; a vizes kőfelület és a borús égbolt különösen méltóságteljes hangulatot áraszt az emlékműnél.",
+                "ro": "O oprire scurtă cu o umbrelă rezistentă este necesară; structura de piatră umedă arată deosebit de solemnă sub cerul înnorat de deasupra pieței.",
+                "en": "A quick stop with a sturdy umbrella is necessary here; the wet stone structure looks particularly solemn under the overcast sky of the plaza."
+              }
+            },
+            {
+              "name": {
+                "de": "Rote Moschee von Panjunan",
+                "hu": "Panjunan Vörös Mecset",
+                "ro": "Moscheea Roșie din Panjunan",
+                "en": "Red Mosque of Panjunan"
+              },
+              "tip_5lang": {
+                "de": "Die antiken roten Backsteine leuchten bei Nässe intensiv; suchen Sie Schutz in der historischen Gebetshalle, um dem prasselnden Regen zu lauschen.",
+                "hu": "Az ősi vörös téglák színe elmélyül a nedvességtől; keressen menedéket a történelmi imateremben, és hallgassa a kopogó esőt a tető alatt.",
+                "ro": "Cărămizile roșii vechi strălucesc intens când sunt ude; căutați adăpost în sala istorică de rugăciune pentru a asculta sunetul ploii pe acoperiș.",
+                "en": "The ancient red bricks glow intensely when wet; seek shelter in the historic prayer hall to listen to the rain drumming peacefully on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanoman Palast Erbe Museum",
+                "hu": "Kanoman Palota Örökségvédelmi Múzeum",
+                "ro": "Muzeul de Patrimoniu al Palatului Kanoman",
+                "en": "Kanoman Palace Heritage Building Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in diesen geschichtsträchtigen Mauern, wo Sie die königliche Geschichte erkunden können, während Sie vor dem Abendregen geschützt sind.",
+                "hu": "Zárja a túrát ezek között a történelmi falak között, ahol felfedezheti a királyi múltat, miközben teljesen védve marad az esti esőzésektől.",
+                "ro": "Încheiați turul între aceste ziduri istorice, unde puteți explora trecutul regal fiind complet protejat de ploaia de seară din Cirebon.",
+                "en": "End your tour within these historic walls, where you can explore the royal past while being completely shielded from the evening rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen ist angenehm kühl, ideal um das Lokomotivdenkmal zu besichtigen, bevor die Mittagshitze zunimmt. Die klare Winterluft macht das Gehen angenehm.\n\nMittags bietet das Maskenmuseum eine willkommene Pause in klimatisierten Räumen. Hier können Sie die Details der Ausstellungsstücke ohne die schwüle Hitze genießen.\n\nAm Nachmittag besuchen wir die At-Taqwa Moschee und das Unabhängigkeitsdenkmal. Die tiefstehende Wintersonne wirft lange, malerische Schatten auf die weißen Fassaden.\n\nDa die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den Kanoman Palast rechtzeitig. Wir genießen die historische Atmosphäre, bevor die Dunkelheit die Stadt früh einhüllt.",
+            "hu": "A reggel friss és hűvös, ideális a mozdonyemlékmű megtekintéséhez, mielőtt a déli pára felerősödne. A tiszta téli levegőben a séta kifejezetten kellemes.\n\nDélben a Maszk Múzeum kínál hűvös pihenőt a tűző nap elől. Itt nyugodtan elmélyedhetünk a részletekben anélkül, hogy a hőség megterhelő lenne.\n\nDélután az At-Taqwa mecset és a függetlenségi emlékmű felé vesszük az irányt. Az alacsonyan járó téli nap hosszú, festői árnyékokat vet a fehér falakra.\n\nMivel a nap már 17:00 körül nyugovóra tér, a Kanoman palotát még világosban elérjük. A túrát a múzeumban fejezzük be, mielőtt a korai sötétség leszállna.",
+            "ro": "Dimineața este plăcut de răcoroasă, fiind momentul ideal pentru a vedea monumentul locomotivei înainte ca umiditatea să crească. Aerul curat face mersul pe jos ușor.\n\nLa prânz, Muzeul Măștilor oferă o pauză binemeritată în interior. Bucurați-vă de detaliile exponatelor fără a simți căldura tropicală de afară.\n\nDupă-amiaza vizităm moscheea At-Taqwa și Monumentul Independenței. Soarele de iarnă, aflat jos pe cer, creează umbre lungi și dramatice pe clădirile albe.\n\nDeoarece soarele apune devreme, în jur de ora 17:00, ajungem la Palatul Kanoman la timp. Explorăm istoria regală înainte ca întunericul să cuprindă orașul.",
+            "en": "Morning is refreshingly cool, ideal for viewing the locomotive monument before the midday humidity rises. The clear winter air makes walking very pleasant.\n\nAt noon, the Mask Museum offers a welcome indoor break from the high sun. Enjoy the intricate details of the exhibits without the usual stifling heat.\n\nAfternoon takes us to the At-Taqwa Mosque and the Independence Monument. The low winter sun casts long, picturesque shadows across the white stone facades.\n\nSince the sun sets early around 5 PM, we reach the Kanoman Palace in good time. We finish our tour inside the museum as darkness quickly falls over the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lokomotivdenkmal B 1304",
+                "hu": "B 1304 Lokomotív Emlékmű",
+                "ro": "Monumentul Locomotivei B 1304",
+                "en": "Monumen Lokomotif B 1304"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal früh am Morgen, um die kühle Brise zu genießen; das weiche Morgenlicht ist ideal für detailreiche Fotos der Maschine.",
+                "hu": "Látogassa meg az emlékművet kora reggel a hűvös szellőben; a lágy reggeli fények tökéletesek a mozdony részletgazdag fotózásához a friss levegőn.",
+                "ro": "Vizitați monumentul dimineața devreme pentru a vă bucura de briza răcoroasă; lumina blândă este ideală pentru fotografii detaliate ale locomotivei.",
+                "en": "Visit the monument early in the morning to enjoy the cool breeze; the soft morning light is perfect for detailed photos of the historical engine."
+              }
+            },
+            {
+              "name": {
+                "de": "Maskenmuseum Cirebon",
+                "hu": "Cirebon Maszk Múzeum",
+                "ro": "Muzeul Măștilor Cirebon",
+                "en": "Museum Topeng Cirebon"
+              },
+              "tip_5lang": {
+                "de": "Die klimatisierten Räume sind mittags ein Segen; nehmen Sie sich Zeit für die Sammlung, bevor die Sonne am frühen Nachmittag bereits tief steht.",
+                "hu": "A hűvös belső terek délben igazi áldást jelentenek; szánjon időt a gyűjteményre, mielőtt a nap korán alacsonyra kerülne a téli égbolton.",
+                "ro": "Sălile cu temperatură controlată sunt o binecuvântare la prânz; acordați-vă timp pentru colecție înainte ca soarele să coboare pe cer.",
+                "en": "The indoor spaces are a blessing at midday; take your time with the collection before the winter sun starts its early descent in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya At-Taqwa",
+                "hu": "Masjid Raya At-Taqwa",
+                "ro": "Masjid Raya At-Taqwa",
+                "en": "Masjid Raya At-Taqwa"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Fassade strahlt im klaren Winterlicht besonders hell; planen Sie den Besuch zur Mittagszeit, wenn die Innentemperaturen am angenehmsten sind.",
+                "hu": "A fehér homlokzat ragyog a tiszta téli fényben; a látogatást délre időzítse, amikor a belső hőmérséklet a legkellemesebb a hűvös kövön.",
+                "ro": "Fațada albă strălucește sub lumina clară de iarnă; planificați vizita la prânz, când temperaturile interioare sunt cele mai plăcute pentru turiști.",
+                "en": "The white facade glows brightly in the clear winter light; plan your visit for midday when the indoor temperatures are most pleasant for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Unabhängigkeitsdenkmal",
+                "hu": "Függetlenségi Emlékmű",
+                "ro": "Monumentul Independenței",
+                "en": "Tugu Kemerdekaan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Bedeutung am Nachmittag; die tiefstehende Sonne erzeugt dramatische Schatten, die dem Monument mehr Tiefe verleihen.",
+                "hu": "Élvezze a történelmi helyszínt délután; az alacsonyan járó nap drámai árnyékokat vet, amelyek mélységet adnak az emlékműnek a fotókon.",
+                "ro": "Bucurați-vă de semnificația istorică după-amiaza; soarele aflat jos creează umbre dramatice care oferă monumentului o profunzime aparte.",
+                "en": "Enjoy the historical significance in the afternoon; the low sun creates dramatic shadows that give the monument extra depth in your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Rote Moschee von Panjunan",
+                "hu": "Panjunan Vörös Mecset",
+                "ro": "Moscheea Roșie din Panjunan",
+                "en": "Red Mosque of Panjunan"
+              },
+              "tip_5lang": {
+                "de": "Die Terrakottafarben leuchten im späten Winterlicht besonders warm; besuchen Sie diesen Ort unbedingt vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "A terrakotta színek melegen ragyognak a késő délutáni fényben; mindenképpen látogassa meg a helyet a korai, 17:00 órai napnyugta előtt.",
+                "ro": "Culorile teracotei strălucesc cald în lumina târzie de iarnă; vizitați neapărat acest loc înainte de apusul devreme de la ora 17:00.",
+                "en": "The terracotta colors glow warmly in the late winter light; be sure to visit this site before the early sunset which occurs around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanoman Palast Erbe Museum",
+                "hu": "Kanoman Palota Örökségvédelmi Múzeum",
+                "ro": "Muzeul de Patrimoniu al Palatului Kanoman",
+                "en": "Kanoman Palace Heritage Building Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale letzte Stopp, um die Dunkelheit zu vermeiden; das Innere bietet einen faszinierenden Einblick in das Erbe des Sultanats.",
+                "hu": "Ez az ideális utolsó állomás a korai sötétedés elkerülésére; a belső terek lenyűgöző betekintést nyújtanak a szultanátus örökségébe.",
+                "ro": "Aceasta este ultima oprire ideală pentru a evita întunericul timpuriu; interiorul oferă o perspectivă fascinantă asupra moștenirii sultanatului.",
+                "en": "This is the ideal final stop to avoid the early darkness; the interior provides a fascinating look into the heritage of the Cirebon sultanate."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt egy frissítő kerékpározással a szarvasparkba, mielőtt megcsodálná a főmecsetet. A déli tekerés mélyen a királyi negyedekbe visz, ahol évszázados palotákat fedezhet fel. A délután fenséges örökségvédelmi épületek között kanyarog. Zárja a napot a tengerparton egy vidám vízi parkban.",
         "ro": "Începeți dimineața cu o plimbare răcoritoare spre parcul cu cerbi înainte de a experimenta grandoarea moscheii principale. La prânz, pedalați adânc în districtele regale pentru a descoperi palate vechi de secole. După-amiaza se desfășoară printre arhitecturi de patrimoniu majestuoase. Terminați pe coasta aerisită la un parc acvatic plin de viață.",
         "en": "Start the morning with a refreshing ride to the deer park before experiencing the grandeur of the main mosque. Midday cycling takes you deep into the royal districts to uncover centuries-old palaces and sacred temples. The afternoon weaves through majestic heritage architecture. Finish up by the breezy coast at a lively waterland."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Hirschpark, wo nasse Wege Vorsicht erfordern. Ein Regenponcho ist beim Treten unerlässlich, um zwischen den Stopps trocken zu bleiben.\n\nZur Mittagszeit bietet die At-Taqwa Moschee eine sichere Abstellmöglichkeit für Räder unter Dach. Wir nutzen die Pause, um den stärksten Regen abzuwarten.\n\nAm Nachmittag radeln wir vorsichtig zum Kanoman Palast und zur Großen Moschee. Die Straßen können rutschig sein, daher ist ein langsames Tempo ratsam.\n\nDen Tag beenden wir im Waterland. Obwohl es nass ist, bietet die Anlage überdachte Cafés, von denen aus man den Regen über dem Meer beobachten kann.",
+            "hu": "A kerékpáros túra a szarvasparkban indul, ahol a vizes ösvényeken óvatosság szükséges. Egy jó esőponcsó elengedhetetlen a megállók közötti tekeréshez.\n\nDélben az At-Taqwa mecsetnél találunk fedett kerékpártárolót. Kihasználjuk a pihenőt, hogy megvárjuk a leghevesebb zivatar végét a falak védelmében.\n\nDélután óvatosan tekerünk a Kanoman palota és a Nagymecset felé. Az utak csúszósak lehetnek, így a lassabb tempó és a fokozott figyelem javasolt.\n\nA napot a Waterland területén zárjuk. Bár vizes az idő, a fedett kávézókban megpihenhetünk és nézhetjük a tenger feletti esőfüggönyt.",
+            "ro": "Turul cu bicicleta începe la parcul de cerbi, unde potecile umede necesită prudență. O pelerină de ploaie este esențială pentru a rămâne uscat între opriri.\n\nLa prânz, moscheea At-Taqwa oferă parcare acoperită pentru biciclete. Folosim pauza pentru a aștepta trecerea ploii torențiale sub protecția arcadei.\n\nDupă-amiaza pedalăm cu grijă spre Palatul Kanoman și Marea Moschee. Drumurile pot fi alunecoase, deci se recomandă o viteză redusă și atenție sporită.\n\nÎncheiem ziua la Waterland. Deși este umed, complexul are cafenele acoperite de unde puteți observa ploaia deasupra mării în deplin confort.",
+            "en": "The bike tour begins at the deer park, where wet paths require extra caution. A rain poncho is essential while pedaling to stay dry between stops.\n\nAt noon, At-Taqwa Mosque provides covered bike parking. We use the break to wait out the strongest downpour under the protection of the arches.\n\nAfternoon involves careful cycling toward Kanoman Palace and the Great Mosque. Roads can be slippery, so a slow pace and high alertness are advised.\n\nWe end the day at Waterland. Despite the wet weather, the facility offers covered cafes where you can watch the rain over the sea in comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taman Rusa Hirschpark",
+                "hu": "Taman Rusa Szarvaspark",
+                "ro": "Parcul de Cerbi Taman Rusa",
+                "en": "Taman Rusa"
+              },
+              "tip_5lang": {
+                "de": "Der Park kann im Regen schlammig sein; tragen Sie wasserfeste Schuhe und suchen Sie die Unterstände auf, wo die Hirsche oft Schutz suchen.",
+                "hu": "A park esőben sáros lehet; viseljen vízálló cipőt, és keresse a fedett részeket, ahol a szarvasok is gyakran meghúzódnak az égi áldás elől.",
+                "ro": "Parcul poate fi noroios pe ploaie; purtați încălțăminte impermeabilă și căutați adăposturile unde cerbii se strâng adesea pentru protecție.",
+                "en": "The park can be muddy in the rain; wear waterproof shoes and look for the sheltered areas where the deer often congregate for protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya At-Taqwa",
+                "hu": "Masjid Raya At-Taqwa",
+                "ro": "Masjid Raya At-Taqwa",
+                "en": "Masjid Raya At-Taqwa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich; die Moschee bietet viel Platz im Inneren, um trocken zu bleiben, während es draußen heftig regnet.",
+                "hu": "Parkolja le kerékpárját a fedett részen; a mecset bőséges belső teret kínál, hogy szárazon maradjon, miközben kint hevesen esik az eső.",
+                "ro": "Parcați bicicleta în zona acoperită; moscheea oferă mult spațiu în interior pentru a rămâne uscat în timp ce afară plouă torențial.",
+                "en": "Park your bike in the covered area; the mosque offers plenty of space inside to stay dry while it rains heavily outside on the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanoman Palast Erbe Museum",
+                "hu": "Kanoman Palota Örökségvédelmi Múzeum",
+                "ro": "Muzeul de Patrimoniu al Palatului Kanoman",
+                "en": "Kanoman Palace Heritage Building Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Ort, um die Räder kurz stehen zu lassen und die Geschichte unter Dach zu erkunden, während der Boden draußen abtrocknet.",
+                "hu": "A múzeum ideális hely, hogy rövid időre letegye a biciklit, és fedett helyen fedezze fel a történelmet, amíg kint felszáradnak a tócsák.",
+                "ro": "Muzeul este un loc ideal pentru a lăsa bicicletele și a explora istoria la adăpost, în timp ce solul de afară începe să se usuce puțin.",
+                "en": "The museum is an ideal spot to leave the bikes for a while and explore history under a roof while the ground outside begins to dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Cirebon",
+                "hu": "Cireboni Nagymecset",
+                "ro": "Marea Moschee din Cirebon",
+                "en": "Great Mosque of Cirebon"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist auch bei Regen beeindruckend; nutzen Sie die Veranden, um Ihr Rad und sich selbst vor den schweren Tropfen zu schützen.",
+                "hu": "Az építészet esőben is lenyűgöző; használja a tornácokat, hogy megvédje kerékpárját és saját magát is a súlyos esőcseppektől a látogatás alatt.",
+                "ro": "Arhitectura este impresionantă și pe ploaie; folosiți verandele pentru a vă proteja bicicleta și pe voi înșivă de picăturile grele de apă.",
+                "en": "The architecture is impressive even in the rain; use the verandas to protect your bike and yourself from the heavy tropical raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasepuhan Palast",
+                "hu": "Kasepuhan Palota",
+                "ro": "Palatul Kasepuhan",
+                "en": "Palace Kasepuhan"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Innenhof, die Ziegel können bei Nässe sehr rutschig sein; besuchen Sie die Ausstellungsräume im Inneren, um trocken zu bleiben.",
+                "hu": "Vigyázzon a belső udvaron, a téglák nedvesen nagyon csúszósak lehetnek; látogassa meg a belső kiállítótermeket, hogy szárazon maradjon.",
+                "ro": "Atenție în curtea interioară, cărămizile pot fi foarte alunecoase când sunt ude; vizitați sălile de expoziție din interior pentru a rămâne uscați.",
+                "en": "Watch your step in the courtyard as the bricks can be very slippery when wet; visit the indoor exhibition rooms to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirebon Waterland",
+                "hu": "Cirebon Waterland",
+                "ro": "Cirebon Waterland",
+                "en": "Cirebon Waterland Ade Irma Suryani"
+              },
+              "tip_5lang": {
+                "de": "Da es bereits regnet, macht das Wasser hier nichts aus; genießen Sie die Aussicht auf die See von einem der überdachten Stege oder Cafés.",
+                "hu": "Mivel már úgyis esik, itt nem számít a víz; élvezze a kilátást a tengerre az egyik fedett mólóról vagy a hangulatos kávézók egyikéből.",
+                "ro": "Din moment ce oricum plouă, apa nu mai contează aici; bucurați-vă de priveliștea spre mare de pe unul dintre pontoanele sau cafenelele acoperite.",
+                "en": "Since it's already raining, the water doesn't matter here; enjoy the sea view from one of the covered piers or cozy seaside cafes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radtour im Winter ist erfrischend kühl. Wir starten am Hirschpark und genießen das Radeln ohne die extreme tropische Feuchtigkeit.\n\nMittags machen wir an der At-Taqwa Moschee halt. Die kühlen Steinböden bieten eine angenehme Raststätte, während die Sonne am höchsten steht.\n\nAm Nachmittag erkunden wir den Kanoman Palast und die Große Moschee. Das klare Licht ist ideal, um die Details der traditionellen Architektur festzuhalten.\n\nDa der Sonnenuntergang bereits gegen 17:00 Uhr einsetzt, beenden wir unsere Tour im Waterland. Wir genießen die Meeresbrise, bevor es früh dunkel wird.",
+            "hu": "A reggeli kerékpározás télen üdítően hűvös. A szarvasparknál kezdünk, élvezve a tekerést a szélsőséges trópusi páratartalom és hőség nélkül.\n\nDélben az At-Taqwa mecsetnél állunk meg. A hűvös kőpadlók kellemes pihenőhelyet kínálnak, miközben a téli nap a legmagasabban jár.\n\nDélután a Kanoman palotát és a Nagymecsetet fedezzük fel. A tiszta fények ideálisak a tradicionális építészet apró részleteinek megörökítéséhez.\n\nMivel a naplemente már 17:00 körül beköszönt, a túrát a Waterlandnél fejezzük be. Élvezzük a tengeri szellőt, mielőtt korán ránk sötétedne.",
+            "ro": "Plimbarea cu bicicleta de dimineață este revigorant de răcoroasă. Începem la parcul de cerbi, bucurându-ne de pedalat fără umiditatea tropicală extremă.\n\nLa prânz ne oprim la moscheea At-Taqwa. Podelele reci de piatră oferă un loc de odihnă plăcut în timp ce soarele este la apogeu pe cerul clar.\n\nDupă-amiaza explorăm Palatul Kanoman și Marea Moschee. Lumina clară este ideală pentru a surprinde detaliile arhitecturii tradiționale locale.\n\nDeoarece apusul are loc în jur de ora 17:00, încheiem turul la Waterland. Ne bucurăm de briza mării înainte ca întunericul să se lase devreme.",
+            "en": "The morning bike ride in winter is refreshingly cool. We start at the deer park, enjoying the cycling without the extreme tropical humidity or heat.\n\nAt noon, we stop at At-Taqwa Mosque. The cool stone floors offer a pleasant resting place while the winter sun is at its highest point.\n\nAfternoon takes us to Kanoman Palace and the Great Mosque. The clear light is ideal for capturing the fine details of traditional local architecture.\n\nSince sunset occurs around 5 PM, we finish our tour at Waterland. We enjoy the sea breeze before darkness falls early over the coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taman Rusa Hirschpark",
+                "hu": "Taman Rusa Szarvaspark",
+                "ro": "Parcul de Cerbi Taman Rusa",
+                "en": "Taman Rusa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Hirschfütterung in der erfrischenden Morgenbrise; der Park ist in diesen kühleren Winterstunden am aktivsten und angenehmsten.",
+                "hu": "Élvezze a szarvasok etetését a frissítő reggeli szellőben; a park ezekben a hűvösebb téli órákban a legaktívabb és legkellemesebb helyszín.",
+                "ro": "Bucurați-vă de hrănirea cerbilor în briza răcoroasă a dimineții; parcul este cel mai activ și plăcut în aceste ore mai reci de iarnă.",
+                "en": "Enjoy feeding the deer in the refreshing morning breeze; the park is most active and pleasant during these cooler, clearer winter hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya At-Taqwa",
+                "hu": "Masjid Raya At-Taqwa",
+                "ro": "Masjid Raya At-Taqwa",
+                "en": "Masjid Raya At-Taqwa"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee wirkt im Winterlicht besonders hell; nutzen Sie die kühlen Marmorböden für eine kurze Rast, bevor Sie in den sonnigen Nachmittag radeln.",
+                "hu": "A mecset ragyog a téli fényben; használja ki a hűvös márványpadlót egy rövid pihenőre, mielőtt továbbtekerne a napsütötte délutánba.",
+                "ro": "Moscheea pare deosebit de luminoasă; folosiți podelele reci de marmură pentru o scurtă odihnă înainte de a pedala în după-amiaza însorită.",
+                "en": "The mosque looks especially bright in the winter light; use the cool marble floors for a short rest before cycling into the sunny afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanoman Palast Erbe Museum",
+                "hu": "Kanoman Palota Örökségvédelmi Múzeum",
+                "ro": "Muzeul de Patrimoniu al Palatului Kanoman",
+                "en": "Kanoman Palace Heritage Building Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag, um die Exponate im natürlichen Licht zu sehen; die Temperatur im Inneren ist im Winter perfekt.",
+                "hu": "Látogassa meg a múzeumot kora délután, hogy természetes fényben lássa a tárgyakat; a belső hőmérséklet télen tökéletes a nézelődéshez.",
+                "ro": "Vizitați muzeul după-amiaza devreme pentru a vedea exponatele în lumină naturală; temperatura din interior este perfectă pe timpul iernii.",
+                "en": "Visit the museum in the early afternoon to see the exhibits in natural light; the temperature inside is perfect during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee von Cirebon",
+                "hu": "Cireboni Nagymecset",
+                "ro": "Marea Moschee din Cirebon",
+                "en": "Große Moschee von Cirebon"
+              },
+              "tip_5lang": {
+                "de": "Das antike Holzwerk der Moschee kommt im klaren Winterlicht hervorragend zur Geltung; planen Sie Ihren Besuch vor dem frühen Sonnenuntergang.",
+                "hu": "A mecset ősi fafaragásai kiválóan érvényesülnek a tiszta téli fényben; tervezze a látogatást a korai naplemente előtti órákra.",
+                "ro": "Lemnăria veche a moscheii iese în evidență în lumina clară de iarnă; planificați vizita în orele de dinaintea apusului devreme de soare.",
+                "en": "The mosque's ancient woodwork stands out beautifully in the clear winter light; plan your visit for the hours before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasepuhan Palast",
+                "hu": "Kasepuhan Palota",
+                "ro": "Palatul Kasepuhan",
+                "en": "Palace Kasepuhan"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufige Anlage lässt sich bei den milderen Wintertemperaturen viel besser mit dem Rad und zu Fuß erkunden als in der Sommerhitze.",
+                "hu": "A kiterjedt palotakomplexum sokkal jobban felfedezhető a mérsékeltebb téli hőmérsékletben, mint a nyári tikkasztó hőség idején.",
+                "ro": "Complexul extins al palatului este mult mai ușor de explorat la temperaturile blânde de iarnă decât în căldura sufocantă a verii.",
+                "en": "The extensive palace complex is much easier to explore in the milder winter temperatures than in the sweltering heat of the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Cirebon Waterland",
+                "hu": "Cirebon Waterland",
+                "ro": "Cirebon Waterland",
+                "en": "Cirebon Waterland Ade Irma Suryani"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Radtour hier, um den Sonnenuntergang über dem Meer gegen 17:00 Uhr zu erleben; die Abendbrise kann im Winter kühl sein.",
+                "hu": "Itt fejezze be a kerékpáros túrát, hogy 17:00 körül láthassa a naplementét a tenger felett; az esti szellő télen hűvös lehet a parton.",
+                "ro": "Încheiați turul cu bicicleta aici pentru a vedea apusul peste mare în jurul orei 17:00; briza de seară poate fi răcoroasă iarna.",
+                "en": "Finish your bike tour here to catch the sunset over the sea around 5 PM; the evening breeze can be quite cool during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A reggeli vezetés a művészi maszk múzeumhoz, majd a szeles tengerparti világítótoronyhoz visz. A dél a tengerészeti történelem és a gyönyörű európai vallási építészet mélyebb megismeréséről szól. A délután a lenyűgöző királyi palota felfedezésének van szentelve. Zárja az estét szuvenírek vásárlásával egy nyüzsgő kereskedelmi központban.",
         "ro": "Dimineața conduceți către muzeul artistic al măștilor înainte de a merge la farul aerisit de pe coastă. Prânzul oferă o incursiune profundă în istoria maritimă și arhitectura religioasă europeană. După-amiaza este dedicată explorării opulentelor domenii ale palatului regal. Încheiați seara cumpărând suveniruri într-un centru comercial animat.",
         "en": "Morning driving takes you to the artistic mask museum before heading to the breezy coastal lighthouse. Midday features a deep dive into maritime history and beautiful European religious architecture. The afternoon is dedicated to exploring the opulent royal palace grounds. Conclude the evening shopping for souvenirs at a bustling trade center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour startet bequem am Maskenmuseum. Wir genießen die Fahrt durch das verregnete Cirebon, während wir im Wagen trocken und komfortabel bleiben.\n\nMittags besuchen wir den Leuchtturm und das Sarwajala Museum. Das Auto ermöglicht es uns, direkt vor den Eingängen zu parken und den Regen zu meiden.\n\nAm Nachmittag führt uns der Weg zur St. Josef Kirche und zum Kasepuhan Palast. Wir beobachten das bunte Treiben auf den nassen Straßen aus dem Fenster.\n\nDer Tag endet im Gunungsari Trade Centre. Dieses überdachte Einkaufszentrum ist der ideale Ort, um Souvenirs zu kaufen, während draußen ein Gewitter tobt.",
+            "hu": "Az autós túra kényelmesen indul a Maszk Múzeumnál. Élvezzük az utazást a vizes Cirebonon keresztül, miközben az autóban szárazon és komfortosan maradunk.\n\nDélben a világítótornyot és a Sarwajala múzeumot látogatjuk meg. Az autó lehetővé teszi, hogy közvetlenül a bejáratoknál álljunk meg, elkerülve az esőt.\n\nDélután a Szent József templom és a Kasepuhan palota következik. Az autó ablakából figyeljük a nedves utcák nyüzsgését és a trópusi esőfüggönyt.\n\nA napot a Gunungsari bevásárlóközpontban zárjuk. Ez a fedett komplexum ideális hely a szuvenírek beszerzésére, miközben kint dörög az ég.",
+            "ro": "Turul cu mașina începe confortabil la Muzeul Măștilor. Ne bucurăm de călătoria prin Cirebonul ploios, rămânând uscați și relaxați în interiorul vehiculului.\n\nLa prânz vizităm farul și Muzeul Sarwajala. Mașina ne permite să parcăm chiar lângă intrări, evitând astfel expunerea la ploaia torențială de afară.\n\nDupă-amiaza ne îndreptăm spre Biserica Sf. Iosif și Palatul Kasepuhan. Observăm agitația de pe străzile umede prin geamurile sigure ale mașinii.\n\nÎncheiem ziua la Centrul Comercial Gunungsari. Acest complex acoperit este locul ideal pentru cumpărături, în timp ce afară se dezlănțuie furtuna.",
+            "en": "The car tour starts comfortably at the Mask Museum. We enjoy driving through rainy Cirebon while staying dry and cozy inside the vehicle.\n\nAt noon, we visit the lighthouse and Sarwajala Museum. The car allows us to park right by the entrances, avoiding any exposure to the heavy rain.\n\nAfternoon takes us to St. Joseph's Church and Kasepuhan Palace. We watch the bustle of the wet streets from behind the safety of the car windows.\n\nWe end the day at Gunungsari Trade Centre. This covered complex is the ideal place to shop for souvenirs while a tropical thunderstorm rages outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maskenmuseum Cirebon",
+                "hu": "Cirebon Maszk Múzeum",
+                "ro": "Muzeul Măștilor Cirebon",
+                "en": "Museum Topeng Cirebon"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um dem ersten Regen zu entgehen; die Sammlung ist komplett überdacht und bietet einen tiefen Einblick in die lokale Handwerkskunst.",
+                "hu": "Kezdje itt a napot, hogy elkerülje az első záporokat; a gyűjtemény teljesen fedett, és mély betekintést nyújt a helyi kézműves hagyományokba.",
+                "ro": "Începeți aici pentru a evita primele ploi; colecția este complet acoperită și oferă o perspectivă profundă asupra meșteșugurilor locale tradiționale.",
+                "en": "Start here to escape the first rains of the day; the collection is completely indoors and offers a deep look into local traditional craftsmanship."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Cirebon",
+                "hu": "Cireboni Világítótorony",
+                "ro": "Farul din Cirebon",
+                "en": "Cirebon Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp vom Auto aus reicht bei Regen völlig; die weiße Struktur hebt sich dramatisch vom dunklen, wolkenverhangenen Himmel ab.",
+                "hu": "Esőben egy rövid fotómegálló az autóból is elegendő; a fehér építmény drámai látványt nyújt a sötét, felhős égbolt előtt a kikötőben.",
+                "ro": "O scurtă oprire pentru fotografii din mașină este suficientă pe ploaie; structura albă se detașează dramatic pe cerul întunecat și înnorat.",
+                "en": "A quick photo stop from the car is sufficient in the rain; the white structure stands out dramatically against the dark, overcast sky of the port."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritimes Museum Sarwajala",
+                "hu": "Sarwajala Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim Sarwajala",
+                "en": "Museum Bahari Sarwajala"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ein hervorragender Ort, um trocken zu bleiben; erkunden Sie die maritime Geschichte der Region, während draußen der Hafen im Regen versinkt.",
+                "hu": "Ez a múzeum kiváló helyszín, hogy szárazon maradjon; fedezze fel a régió tengerészeti múltját, miközben kint a kikötő az esőbe vész.",
+                "ro": "Acest muzeu este un loc excelent pentru a rămâne uscat; explorați istoria maritimă a regiunii în timp ce afară portul este cuprins de ploaie.",
+                "en": "This museum is an excellent place to stay dry; explore the region's maritime history while the port outside is engulfed in a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Katholische Kirche St. Josef",
+                "hu": "Szent József Katolikus Templom",
+                "ro": "Biserica Catolică Sfântul Iosif",
+                "en": "Saint Joseph Catholic Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche und trockene Atmosphäre für eine Besichtigung; parken Sie direkt davor, um die Pfützen auf dem Gehweg zu vermeiden.",
+                "hu": "A templom békés és száraz környezetet kínál a látogatáshoz; parkoljon közvetlenül előtte, hogy elkerülje a járdán lévő mély tócsákat.",
+                "ro": "Biserica oferă o atmosferă liniștită și uscată pentru vizitare; parcați chiar în față pentru a evita bălțile mari de pe trotuarul adiacent.",
+                "en": "The church offers a peaceful and dry environment for a visit; park directly in front to avoid the large puddles on the adjacent sidewalk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasepuhan Palast",
+                "hu": "Kasepuhan Palota",
+                "ro": "Palatul Kasepuhan",
+                "en": "Palace Kasepuhan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie vor allem die überdachten Pavillons und Museen der Anlage; der Regen verleiht den antiken Gärten eine ganz besondere Frische.",
+                "hu": "Látogassa meg elsősorban a fedett pavilonokat és múzeumokat a komplexumban; az eső különleges frissességet kölcsönöz az ősi kerteknek.",
+                "ro": "Vizitați în special pavilioanele acoperite și muzeele din complex; ploaia oferă o prospețime aparte grădinilor vechi ale palatului regal.",
+                "en": "Focus your visit on the covered pavilions and museums within the complex; the rain gives a special freshness to the ancient palace gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunungsari Einkaufszentrum",
+                "hu": "Gunungsari Kereskedelmi Központ",
+                "ro": "Centrul Comercial Gunungsari",
+                "en": "Gunungsari Trade Centre"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Einkaufszentrum ist der perfekte Abschluss für einen Regentag; hier können Sie im Trockenen bummeln und lokale Produkte kaufen.",
+                "hu": "Ez a modern kereskedelmi központ tökéletes befejezése egy esős napnak; itt szárazon sétálhat és vásárolhat helyi termékeket a hazatérés előtt.",
+                "ro": "Acest centru comercial modern este finalul perfect pentru o zi ploioasă; aici vă puteți plimba la uscat și puteți cumpăra produse locale.",
+                "en": "This modern trade centre is the perfect end to a rainy day; here you can stroll in the dry and shop for local products before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour im Winter beginnt am Maskenmuseum. Wir genießen die effiziente Klimatisierung, während wir die Stadt bei angenehmem Licht durchfahren.\n\nMittags steuern wir den Leuchtturm und das Sarwajala Museum an. Die Wintersonne ist intensiv, daher ist der Komfort eines klimatisierten Wagens sehr wertvoll.\n\nAm Nachmittag besuchen wir die St. Josef Kirche und den Kasepuhan Palast. Wir nutzen die hellen Stunden für Fotos, bevor das Licht gegen 16:30 Uhr schwächer wird.\n\nDer Tag endet im Gunungsari Trade Centre. Da es bereits gegen 17:00 Uhr dunkel wird, verbringen wir den frühen Abend entspannt in der beleuchteten Mall.",
+            "hu": "A téli autós túra a Maszk Múzeumnál kezdődik. Élvezzük a hatékony légkondicionálást, miközben a várost a kellemes téli fényekben járjuk be.\n\nDélben a világítótoronyhoz és a Sarwajala múzeumhoz autózunk. A téli nap intenzív lehet, így a hűvös utastér kényelme nagy érték a megállók között.\n\nDélután a Szent József templomot és a Kasepuhan palotát látogatjuk meg. Kihasználjuk a világos órákat, mielőtt a fények 16:30 után fogyni kezdenének.\n\nA nap a Gunungsari bevásárlóközpontban ér véget. Mivel 17:00 körül már sötétedik, a kora estét a kivilágított pláza hűvösében és biztonságában töltjük.",
+            "ro": "Turul cu mașina pe timp de iarnă începe la Muzeul Măștilor. Ne bucurăm de climatizarea eficientă în timp ce parcurgem orașul sub lumina plăcută a iernii.\n\nLa prânz ne îndreptăm spre far și Muzeul Sarwajala. Soarele de iarnă poate fi intens, deci confortul mașinii este valoros între vizitele la obiective.\n\nDupă-amiaza vizităm Biserica Sf. Iosif și Palatul Kasepuhan. Profităm de orele cu lumină înainte ca aceasta să scadă în intensitate după ora 16:30.\n\nZiua se încheie la Centrul Comercial Gunungsari. Deoarece se întunecă în jur de ora 17:00, petrecem începutul serii în siguranța mall-ului iluminat.",
+            "en": "The winter car tour starts at the Mask Museum. We enjoy the efficient air conditioning while driving through the city under the pleasant winter light.\n\nAt noon, we head to the lighthouse and Sarwajala Museum. The winter sun can be intense, so the comfort of a cool car interior is very valuable between stops.\n\nAfternoon takes us to St. Joseph's Church and Kasepuhan Palace. We make the most of the bright hours before the light begins to fade after 4:30 PM.\n\nThe day ends at Gunungsari Trade Centre. Since it gets dark around 5 PM, we spend the early evening relaxing in the safety of the well-lit mall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maskenmuseum Cirebon",
+                "hu": "Cirebon Maszk Múzeum",
+                "ro": "Muzeul Măștilor Cirebon",
+                "en": "Museum Topeng Cirebon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am Vormittag, wenn es noch angenehm kühl ist; die Sammlung bietet eine großartige Einführung in die Kultur der Region.",
+                "hu": "Látogassa meg a múzeumot délelőtt, amikor még kellemesen friss az idő; a gyűjtemény nagyszerü bevezetést nyújt a régió gazdag kultúrájába.",
+                "ro": "Vizitați muzeul dimineața, când este încă plăcut de răcoros; colecția oferă o introducere minunată în cultura bogată a acestei regiuni.",
+                "en": "Visit the museum in the morning when it's still pleasantly cool; the collection provides a great introduction to the region's rich culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Cirebon",
+                "hu": "Cireboni Világítótorony",
+                "ro": "Farul din Cirebon",
+                "en": "Cirebon Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Sichtverhältnisse am Hafen; machen Sie Ihre Fotos, bevor die Mittagssonne zu steil steht.",
+                "hu": "A tiszta téli fény fantasztikus látási viszonyokat biztosít a kikötőben; készítse el fotóit, mielőtt a déli nap túl magasra hágna az égen.",
+                "ro": "Lumina clară de iarnă oferă condiții de vizibilitate fantastice în port; faceți fotografii înainte ca soarele de prânz să fie prea sus.",
+                "en": "The clear winter light provides fantastic visibility at the port; take your photos before the midday sun gets too high in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Maritimes Museum Sarwajala",
+                "hu": "Sarwajala Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim Sarwajala",
+                "en": "Museum Bahari Sarwajala"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für die Mittagsstunden; das Museum ist klimatisiert und bietet eine willkommene Pause von der direkten Wintersonne draußen.",
+                "hu": "Ideális helyszín a déli órákra; a múzeum légkondicionált, és kellemes pihenőt nyújt a kinti erős téli napsütés elől a kikötő mellett.",
+                "ro": "Un loc ideal pentru orele prânzului; muzeul este climatizat și oferă o pauză binemeritată de la soarele puternic de iarnă de afară.",
+                "en": "An ideal spot for the midday hours; the museum is air-conditioned and offers a welcome break from the strong winter sun outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Katholische Kirche St. Josef",
+                "hu": "Szent József Katolikus Templom",
+                "ro": "Biserica Catolică Sfântul Iosif",
+                "en": "Saint Joseph Catholic Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag; das warme Licht fällt wunderbar durch die Fenster und sorgt für eine andächtige Stimmung im Inneren.",
+                "hu": "Látogassa meg a templomot kora délután; a meleg fények csodásan esnek be az ablakokon, áhítatos hangulatot teremtve a belső térben.",
+                "ro": "Vizitați biserica după-amiaza devreme; lumina caldă cade minunat prin ferestre, creând o atmosferă pioasă în interiorul lăcașului.",
+                "en": "Visit the church in the early afternoon; the warm light falls beautifully through the windows, creating a prayerful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasepuhan Palast",
+                "hu": "Kasepuhan Palota",
+                "ro": "Palatul Kasepuhan",
+                "en": "Palace Kasepuhan"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit ein, um die Anlage vor dem frühen Sonnenuntergang zu erkunden; das weiche Abendlicht lässt die alten Gebäude golden schimmern.",
+                "hu": "Szánjon elég időt a terület felfedezésére a korai naplemente előtt; a lágy esti fényben az ősi épületek szinte arany színben tündökölnek.",
+                "ro": "Alocați suficient timp pentru a explora complexul înainte de apusul devreme; lumina blândă de seară face clădirile vechi să strălucească auriu.",
+                "en": "Allow enough time to explore the grounds before the early sunset; the soft evening light makes the ancient buildings shimmer in golden tones."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunungsari Einkaufszentrum",
+                "hu": "Gunungsari Kereskedelmi Központ",
+                "ro": "Centrul Comercial Gunungsari",
+                "en": "Gunungsari Trade Centre"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den frühen Abend nach Sonnenuntergang; genießen Sie das Einkaufen und Abendessen in einer modernen, hell erleuchteten Umgebung.",
+                "hu": "Tökéletes választás a kora estére naplemente után; élvezze a vásárlást és a vacsorát ebben a modern, ragyogóan kivilágított környezetben.",
+                "ro": "Perfect pentru seara devreme, după apusul soarelui; bucurați-vă de cumpărături și cină în acest mediu modern și strălucitor iluminat.",
+                "en": "Perfect for the early evening after sunset; enjoy shopping and dinner in this modern, brightly lit environment as the day winds down."
+              }
+            }
+          ]
+        }
       }
     }
   }

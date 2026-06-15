@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Léguevin szívében egy nyugodt reggellel a helyi játszótereken, magába szívva a szelíd közösségi hangulatot, mielőtt a természet felé venné az irányt.\nA dél felé közeledve a falu utcáiról a Lac de la Mouline és a Lac des Petitis békés partjaira váltunk, ahol a buja zöld növényzet tökéletes pihenési környezetet biztosít.\nA délután arra csábít, hogy távolabb sétáljon, követve a festői ösvényeket, amelyek a távolabbi és csodálatosan békés Étang de Lutché felé vezetnek a nap hátralévő részében.\nZárja gyalogtúráját, amint a nap lemenőben van az Étang de Lutché felett, visszagondolva ennek a bájos francia községnek a természetes szépségére és nyugodt tempójára.",
         "ro": "Începeți ziua în inima localității Léguevin cu o dimineață relaxată la zonele de joacă locale, absorbind atmosfera blândă a comunității înainte de a vă îndrepta spre natură.\nLa prânz se face trecerea de la străzile satului la malurile senine de la Lac de la Mouline și Lac des Petitis, unde verdeața luxuriantă oferă un mediu perfect de odihnă.\nDupă-amiaza vă invită să vă plimbați mai departe, urmând potecile pitorești care duc spre Étang de Lutché, un loc mai izolat și minunat de pașnic pentru relaxare deplină.\nÎncheiați turul de plimbare pe măsură ce soarele coboară peste Étang de Lutché, reflectând asupra frumuseții naturale și a ritmului negrăbit al acestei fermecătoare comune franceze.",
         "en": "Start your day in the heart of Léguevin with a relaxed morning at the local play areas, soaking in the gentle community vibe before heading towards nature.\nMidday brings a shift from village streets to the serene shores of Lac de la Mouline and Lac des Petitis, where the lush greens provide a perfect resting environment.\nThe afternoon invites you to stroll further outwards, tracing the scenic pathways leading toward the more remote and wonderfully peaceful Étang de Lutché.\nConclude your walking tour as the sun lowers over Étang de Lutché, reflecting on the natural beauty and the unhurried pace of this charming French commune."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Léguevin erfordert wasserfeste Kleidung. Mittags sollten Sie die nassen Wege zu den Seen vorsichtig begehen. Suchen Sie nachmittags bei stärkerem Regen Schutz an den Spielplätzen. Der Abendspaziergang endet ruhig, während der stetige Regen die Natur am Wasser komplett erfrischt.",
+            "hu": "Esős reggel Léguevinben, vízálló cipő ajánlott a játszóterek felé. Délben óvatosan sétálj a tavak nedves ösvényein, ahol ilyenkor kevesebb az ember. Délután keress egy fedett menedéket, ha rákezdené. Az esős kora este friss levegőt és békés hangulatot hagy maga után az utolsó tó partján.",
+            "ro": "O dimineață ploioasă în Léguevin necesită echipament impermeabil pentru plimbare. La prânz, parcurgeți cu grijă potecile umede spre lacuri. După-amiaza, căutați adăpost pe lângă zonele de joacă. Plimbarea se încheie într-o seară liniștită, cu sunetul ploii pe fundalul lacului.",
+            "en": "A wet morning in Léguevin calls for waterproof gear as you visit the local parks. By noon, navigate the damp paths carefully towards the lakes. In the afternoon, find shelter near the playgrounds when the rain picks up. The evening walk ends quietly as the rain washes over the peaceful nature spots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux du Boulodrome",
+                "hu": "Aire de jeux du Boulodrome",
+                "ro": "Aire de jeux du Boulodrome",
+                "en": "Aire de jeux du Boulodrome"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte sind nass, bringen Sie ein Handtuch mit und tragen Sie wasserfeste Schuhe für den Rasen.",
+                "hu": "A játszótér eszközei vizesek, hozz egy rongyot a letörlésükhöz, és viselj jó vízálló cipőt a sár ellen.",
+                "ro": "Echipamentele pot fi ude, luați un prosop pentru a le șterge și purtați încălțăminte impermeabilă pe iarbă.",
+                "en": "The playground structures will be wet, so bring a towel to wipe them down and wear waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Mouline",
+                "hu": "Lac de la Mouline",
+                "ro": "Lac de la Mouline",
+                "en": "Lac de la Mouline"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege werden bei Regen extrem schlammig, festes Schuhwerk ist für einen sicheren Spaziergang unerlässlich.",
+                "hu": "A tóparti ösvények sárgossá válnak esőben, a biztonságos sétához elengedhetetlen a vízálló túracipő.",
+                "ro": "Potecile de lângă lac devin foarte noroioase pe ploaie, bocancii robuști fiind esențiali aici.",
+                "en": "The lakeside paths get muddy in the rain, making sturdy hiking boots essential for a safe walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Petitis",
+                "hu": "Lac des Petitis",
+                "ro": "Lac des Petitis",
+                "en": "Lac des Petitis"
+              },
+              "tip_5lang": {
+                "de": "Der Regen spiegelt sich schön auf dem Wasser, achten Sie jedoch auf nasses und rutschiges Gras am Ufer.",
+                "hu": "Az eső gyönyörű tükröződést hoz létre a vízen, de vigyázz a csúszós fűvel a part közvetlen közelében.",
+                "ro": "Ploaia creează reflexii frumoase pe apă, dar aveți grijă la iarba foarte alunecoasă de pe mal.",
+                "en": "Rain creates a beautiful reflection on the water, but be cautious of the slippery wet grass near the banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux de Hilès",
+                "hu": "Aire de jeux de Hilès",
+                "ro": "Aire de jeux de Hilès",
+                "en": "Aire de jeux de Hilès"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine Pause, wenn der Regen nachlässt; die nahen Bäume bieten einen leichten natürlichen Schutz.",
+                "hu": "Tarts egy rövid szünetet, ha alábbhagy az eső; a környező lombos fák nyújtanak némi természetes menedéket.",
+                "ro": "Faceți o scurtă pauză aici dacă ploaia se mai oprește; copacii din jur oferă un adăpost natural parțial.",
+                "en": "Take a short break here if the rain eases; the surrounding trees offer some light natural shelter from the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Lutché",
+                "hu": "Étang de Lutché",
+                "ro": "Étang de Lutché",
+                "en": "Étang de Lutché"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Atmosphäre ist sehr friedlich, auch wenn der Boden am Ufer heute ziemlich weich und nass bleibt.",
+                "hu": "A ködös, esős atmoszféra hihetetlenül békés, bár a talaj továbbra is meglehetősen puha és cuppogós ma.",
+                "ro": "Atmosfera cețoasă este foarte liniștită, deși pământul de la margine rămâne destul de moale și noroios.",
+                "en": "The misty atmosphere is incredibly peaceful, though the ground remains quite soft and muddy today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft begrüßt Sie morgens am Spielplatz, packen Sie sich warm ein. Mittags spendet die Sonne beim Spaziergang um die Seen etwas Wärme. Das Licht schwindet nachmittags schnell und taucht das Wasser in Magie. Beenden Sie den Spaziergang früh, da es um 17:00 Uhr stockdunkel und sehr kalt wird.",
+            "hu": "A játszótéren csípős téli reggel fogad, öltözz jó melegen. Délben a téli nap sugarai nyújtanak egy kis melegséget a tavak körül sétálva. Délután a fények gyorsan halványulnak, varázslatossá téve a vizet. Fejezd be a sétát korán, mert 17:00 órakor teljesen besötétedik és erősen lehűl a levegő.",
+            "ro": "Aerul rece de iarnă vă întâmpină dimineața, așa că îmbrăcați-vă gros. La prânz, soarele oferă puțină căldură pe malul lacurilor. După-amiaza, lumina scade rapid, dând apei un aspect magic. Încheiați plimbarea devreme, deoarece la ora 17:00 se întunecă complet și se face foarte frig.",
+            "en": "Crisp winter morning air greets you at the playgrounds, so wrap up warm in layers. By noon, the sunshine provides a little warmth as you walk around the lakes. The afternoon light starts fading quickly. Wrap up your walk early, as darkness falls completely by 17:00, bringing a severe chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux du Boulodrome",
+                "hu": "Aire de jeux du Boulodrome",
+                "ro": "Aire de jeux du Boulodrome",
+                "en": "Aire de jeux du Boulodrome"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um die eiskalten Metallstrukturen beim Erkunden bequem greifen zu können.",
+                "hu": "Viselj meleg kesztyűt, hogy kényelmesen megfoghass a jéghideg fém játékokat a reggeli felfedezés során.",
+                "ro": "Purtați mănuși călduroase pentru a putea atinge structurile metalice extrem de reci în timp ce explorați.",
+                "en": "Wear warm gloves so you can comfortably hold onto the freezing metal structures while exploring the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Mouline",
+                "hu": "Lac de la Mouline",
+                "ro": "Lac de la Mouline",
+                "en": "Lac de la Mouline"
+              },
+              "tip_5lang": {
+                "de": "Der Frost an den Pflanzen sieht atemberaubend aus, aber die Wege können eisig sein und erfordern Vorsicht.",
+                "hu": "A közeli növényeken lévő dér lenyűgöző, de az ösvények jegesek lehetnek és óvatos lépéseket igényelnek.",
+                "ro": "Gheața pe plante arată uimitor, dar potecile pot fi alunecoase iarna și necesită pași foarte atenți.",
+                "en": "The frost on the nearby plants looks stunning, but the paths can be icy and require careful, slow steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Petitis",
+                "hu": "Lac des Petitis",
+                "ro": "Lac des Petitis",
+                "en": "Lac des Petitis"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Thermoskanne mit heißem Tee mit, um sich am See aufzuwärmen, da es auch mittags kalt bleibt.",
+                "hu": "Hozz magaddal egy termosz forró teát, amit a tóparton élvezhetsz, mivel a téli hőmérséklet alacsony marad.",
+                "ro": "Aduceți un termos cu ceai fierbinte pentru a-l savura pe malul lacului, temperaturile fiind destul de scăzute.",
+                "en": "Bring a thermos of hot tea to enjoy by the lake side as the winter temperatures remain quite low all day."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux de Hilès",
+                "hu": "Aire de jeux de Hilès",
+                "ro": "Aire de jeux de Hilès",
+                "en": "Aire de jeux de Hilès"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um sich warm zu halten, da es hier kaum Schutz vor dem beißenden Wind gibt.",
+                "hu": "Maradj folyamatos mozgásban, hogy melegen tartsd magad, mivel itt nincs sok menedék a csípős téli szél elől.",
+                "ro": "Rămâneți în mișcare pentru a vă încălzi, deoarece aici nu există prea mult adăpost de vântul rece de iarnă.",
+                "en": "Keep moving to stay warm here, as there isn't much shelter from the biting winter wind crossing the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Lutché",
+                "hu": "Étang de Lutché",
+                "ro": "Étang de Lutché",
+                "en": "Étang de Lutché"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie hier das goldene Licht, bevor die Sonne um 17:00 Uhr schnell unter dem Horizont verschwindet.",
+                "hu": "Csípd el a gyönyörű aranyórai fényeket itt, mielőtt a nap 17:00 órakor hirtelen a horizont alá bukik.",
+                "ro": "Prindeți lumina frumoasă a orei de aur aici, înainte ca soarele să apună rapid sub orizont în jurul orei 17:00.",
+                "en": "Catch the beautiful golden hour light here before the sun drops rapidly below the horizon right around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpáros kalandja a város hangulatos parkjaiból indul, majd gyorsan átvált a híres Wald von Bouconne sűrű, kiterjedt lombkoronájára, hogy friss reggeli levegőt szívjon.\nDélre az ösvények mélyen az erdőbe és a Lac de la Bordette felé visznek, ahol az árnyék és a víz hűvös, frissítő szünetet teremt a hosszas és fárasztó pedálozásból.\nA délutáni tekerés nyugat felé söpör végig a tájon az Étang de Belloc és a Lutché felé, hatalmas nyitott kilátást és megszakítás nélküli ösvényeket kínálva a gyors utazáshoz.\nFejezze be a napot a városközpont felé kanyarodva a Lac des Petitisnél, pihentetve a lábát, miközben az alkonyat gyönyörűen leereszkedik a helyi tavak nyugtató vizére.",
         "ro": "Aventura pe bicicletă începe în parcurile fermecătoare ale orașului, trecând rapid la coronamentul dens al faimoasei păduri Wald von Bouconne pentru aerul proaspăt matinal.\nPână la prânz, traseele vă duc adânc în pădure și mai departe către Lac de la Bordette, unde umbra și apa creează o pauză răcoroasă și revigorantă de la pedalat intens.\nPlimbarea de după-amiază traversează peisajul spre vest până la Étang de Belloc și Lutché, oferind priveliști vaste și poteci neîntrerupte perfecte pentru o călătorie pitorească.\nÎncheiați ziua întorcându-vă spre centrul orașului la Lac des Petitis, lăsându-vă picioarele să se odihnească în timp ce amurgul se lasă frumos peste apele liniștitoare.",
         "en": "Your cycling adventure begins with the town's charming parks, quickly transitioning to the dense, sprawling canopy of the famous Wald von Bouconne for fresh morning air.\nBy midday, the trails take you deep into the forest and onwards to Lac de la Bordette, where the shade and water create a cool, refreshing break from pedaling.\nThe afternoon ride sweeps westward across the landscape to Étang de Belloc and Lutché, offering vast open views and uninterrupted paths perfect for a brisk, scenic journey.\nEnd the day winding back toward the town center at Lac des Petitis, letting your legs rest as dusk settles beautifully over the calming waters of the local lakes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Morgenfahrt erfordert wasserfeste und gut sichtbare Kleidung. Fahren Sie mittags vorsichtig durch den Wald, die nassen Blätter sind sehr rutschig. Nachmittags macht der Regen die Seen friedlich, aber die unbefestigten Wege schlammig. Die Rückfahrt am Abend erfordert starkes Licht im dunklen Regen.",
+            "hu": "Az esős reggeli tekeréshez húzz vízálló, jól láthatósági ruházatot. Délben óvatosan haladj az erdei ösvényeken, melyek csúszósak a nedves levelektől. Délután az eső békéssé teszi a tavakat, de sarassá az utakat. Az esti visszaúton a jó kerékpárlámpa elengedhetetlen a sötét esőben a biztonsághoz.",
+            "ro": "O plimbare matinală ploioasă pe bicicletă necesită haine impermeabile vizibile. La prânz, pedalați cu grijă pe potecile pline de frunze ude. După-amiaza, ploaia aduce liniște lacurilor, dar drumurile sunt noroioase. Călătoria de seară necesită lumini bune pentru vizibilitate pe timp de ploaie.",
+            "en": "A rainy morning ride means suiting up in high-vis waterproofs before hitting the trails. By noon, cycle carefully through the forest paths which will be slick with wet leaves. In the afternoon, the rain makes the lakes serene but paths muddy. The evening ride back requires good bike lights for visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux du Boulodrome",
+                "hu": "Aire de jeux du Boulodrome",
+                "ro": "Aire de jeux du Boulodrome",
+                "en": "Aire de jeux du Boulodrome"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig los; die asphaltierten Flächen um den Spielplatz sind bei Nässe oft extrem rutschig.",
+                "hu": "Indulj óvatosan; a játszótér körüli burkolt részek megtévesztően csúszósak lehetnek az esőtől nedvesen.",
+                "ro": "Începeți cu atenție; zonele pavate din jurul locului de joacă pot fi înșelător de alunecoase când sunt ude.",
+                "en": "Start with caution; the paved areas around the playground can be deceptively slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Mouline",
+                "hu": "Lac de la Mouline",
+                "ro": "Lac de la Mouline",
+                "en": "Lac de la Mouline"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den nassen Grasrändern am See besonders langsam, um unerwartetes Wegrutschen zu vermeiden.",
+                "hu": "Lassíts a tó körüli nedves füves szegélyeken, hogy elkerüld a kerék váratlan és balesetveszélyes megcsúszását.",
+                "ro": "Reduceți viteza pe marginile cu iarbă udă ale lacului pentru a evita derapajele neașteptate ale roților.",
+                "en": "Keep your speed down on the wet grass verges around the lake to avoid unexpected skids and falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Bouconne",
+                "hu": "Wald von Bouconne",
+                "ro": "Wald von Bouconne",
+                "en": "Wald von Bouconne"
+              },
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, aber achten Sie auf freiliegende Wurzeln und tiefen Schlamm auf dem Weg.",
+                "hu": "A lombok adnak némi menedéket az eső elől, de vigyázz a kiálló gyökerekkel és a sárral a fő ösvényeken.",
+                "ro": "Copacii oferă puțin adăpost, dar atenție mare la rădăcinile expuse și noroiul gros de pe potecile principale.",
+                "en": "The tree canopy offers some shelter, but beware of extremely slippery exposed roots and thick mud on the trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Bordette",
+                "hu": "Lac de la Bordette",
+                "ro": "Lac de la Bordette",
+                "en": "Lac de la Bordette"
+              },
+              "tip_5lang": {
+                "de": "Benutzen Sie Schutzbleche, da sich die Feldwege hier sehr schnell in einen nassen, schlammigen Sprühnebel verwandeln.",
+                "hu": "Használj sárvédőt, ha van, mert az itteni földutakról a kerekek nagyon gyorsan felcsapják a vizes sarat.",
+                "ro": "Folosiți apărători de noroi, deoarece drumurile de pământ de aici aruncă foarte repede multă murdărie udă.",
+                "en": "Use mudguards if you have them, as the dirt paths here turn into a muddy spray very quickly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Belloc",
+                "hu": "Étang de Belloc",
+                "ro": "Étang de Belloc",
+                "en": "Étang de Belloc"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz unter den großen Bäumen, um Ihre Brille oder Ihr Helmvisier von den störenden Regentropfen zu befreien.",
+                "hu": "Állj meg egy pillanatra a nagy fák alatt, hogy letöröld a szemüvegedről vagy a rostélyról az esőcseppeket.",
+                "ro": "Opriți-vă sub copacii mari un moment ca să vă ștergeți ochelarii sau viziera de picăturile de ploaie abundentă.",
+                "en": "Stop beneath the large trees for a moment to wipe your glasses or helmet visor clear of the accumulating raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Lutché",
+                "hu": "Étang de Lutché",
+                "ro": "Étang de Lutché",
+                "en": "Étang de Lutché"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie viel früher als sonst; die nassen Schotterwege um diesen See verlängern den Bremsweg deutlich.",
+                "hu": "Fékezz sokkal korábban a szokásosnál; a tó körüli nedves utakon jelentősen megnő a fékút a kerékpárral.",
+                "ro": "Frânați mult mai devreme decât de obicei; potecile ude din jurul acestui lac măresc dramatic distanța de oprire.",
+                "en": "Brake much earlier than usual; the wet paths around this lake dramatically increase stopping distances for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Petitis",
+                "hu": "Lac des Petitis",
+                "ro": "Lac des Petitis",
+                "en": "Lac des Petitis"
+              },
+              "tip_5lang": {
+                "de": "Das Licht schwindet; stellen Sie sicher, dass Ihre Reflektoren sauber sind und das Licht für den Heimweg blinkt.",
+                "hu": "A fény már kezd halványulni; a hazavezető útra ellenőrizd, hogy a prizmák tiszták és a lámpák villognak-e.",
+                "ro": "Lumina scade deja pe ploaie; asigurați-vă că reflectoarele sunt curate și luminile clipesc pentru drumul spre casă.",
+                "en": "By now the light is fading; ensure your reflectors are wiped clean and lights are flashing for the dark ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt erfordert Thermokleidung und winddichte Handschuhe. Mittags macht die Wintersonne die Waldwege magisch und etwas wärmer. Nachmittags kehrt die Kälte zurück, wenn Sie an zugefrorenen Seeufern vorbeifahren. Die Abendfahrt ist nach 17:00 Uhr komplett dunkel, starke Lampen und dicke Kleidung sind Pflicht.",
+            "hu": "A fagyos reggeli kerékpározáshoz termó aláöltözet és szélálló kesztyű kell. Délben a téli nap varázslatossá és kicsit melegebbé teszi az erdei utakat. Délután visszatér a hideg, ahogy eltekersz a befagyott tópartok mellett. Az esti tekerés 17:00 után vaksötét lesz, erős lámpa és vastag rétegek kellenek.",
+            "ro": "O plimbare înghețată pe bicicletă de dimineață necesită haine termice și mănuși antivânt. La prânz, soarele de iarnă face potecile forestiere mai calde. După-amiaza, frigul revine pe lângă lacurile înghețate. Călătoria de seară, după ora 17:00, va fi complet întunecată, farurile puternice fiind vitale.",
+            "en": "A frosty morning ride demands thermals and windproof gloves. By noon, the winter sun makes the forest trails quite magical and a bit warmer. In the afternoon, the chill returns as you bike past the frozen lake edges. The evening ride will be completely dark after 17:00, requiring strong headlamps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux du Boulodrome",
+                "hu": "Aire de jeux du Boulodrome",
+                "ro": "Aire de jeux du Boulodrome",
+                "en": "Aire de jeux du Boulodrome"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln langsam auf, da die eisige Winterluft die Gelenke am Morgen auf dem Rad steif macht.",
+                "hu": "Melegítsd be az izmaidat lassú tempóval, mert a hideg téli levegő reggel merevvé teszi az ízületeket a nyeregben.",
+                "ro": "Încălziți-vă mușchii într-un ritm lent la început, aerul rece de iarnă face articulațiile rigide dimineața pe bicicletă.",
+                "en": "Warm up your muscles with a slow pace first, as the cold winter air makes joints stiff in the morning on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Mouline",
+                "hu": "Lac de la Mouline",
+                "ro": "Lac de la Mouline",
+                "en": "Lac de la Mouline"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefährliches Blitzeis in den schattigen Bereichen um den See; nehmen Sie die Kurven sehr vorsichtig.",
+                "hu": "Figyelj a alattomos jégbordákra a tó körüli árnyékos szakaszokon; a kanyarokat extra óvatosan vedd be.",
+                "ro": "Atenție la gheața neagră periculoasă pe porțiunile umbrite din jurul lacului; luați curbele cu mare prudență.",
+                "en": "Watch out for dangerous black ice on the shaded sections of the path around the lake; corner very carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Bouconne",
+                "hu": "Wald von Bouconne",
+                "ro": "Wald von Bouconne",
+                "en": "Wald von Bouconne"
+              },
+              "tip_5lang": {
+                "de": "Der dichte Wald hält den eisigen Wind gut ab und ist somit der angenehmste und wärmste Teil Ihrer Winterfahrt.",
+                "hu": "A sűrű erdő jól felfogja a fagyos szelet, így ez lesz a téli tekerés legkényelmesebb és legmelegebb része.",
+                "ro": "Pădurea deasă blochează vântul înghețat, făcând-o cea mai confortabilă și mai caldă parte a plimbării de iarnă.",
+                "en": "The dense forest blocks the freezing wind nicely, making it the most comfortable and warmest part of your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Bordette",
+                "hu": "Lac de la Bordette",
+                "ro": "Lac de la Bordette",
+                "en": "Lac de la Bordette"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Pausen kurz, um beim Stehen am eiskalten Wasser im Fahrtwind nicht massiv an Körperwärme zu verlieren.",
+                "hu": "Tartsd rövidre a pihenőket, hogy ne veszíts hirtelen testhőt, amíg a jéghideg víz mellett állsz a fagyos szélben.",
+                "ro": "Faceți pauze scurte pentru a nu pierde rapid căldura corpului în timp ce stați lângă apa înghețată în bătaia vântului.",
+                "en": "Keep your breaks brief to avoid quickly losing body heat while standing still by the freezing water in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Belloc",
+                "hu": "Étang de Belloc",
+                "ro": "Étang de Belloc",
+                "en": "Étang de Belloc"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie Ihren Schal hoch, um Ihr Gesicht vor dem beißenden Wind vom offenen See während der Fahrt zu schützen.",
+                "hu": "Húzd fel a csősálad egészen az orrodig, hogy megvédd az arcod a nyílt tó felől fújó metsző, fagyos széltől.",
+                "ro": "Trageți-vă fularul peste nas pentru a vă proteja fața de vântul tăios și rece care suflă puternic de pe lacul deschis.",
+                "en": "Pull up your buff or scarf over your nose to protect your face from the biting wind whipping off the open lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Lutché",
+                "hu": "Étang de Lutché",
+                "ro": "Étang de Lutché",
+                "en": "Étang de Lutché"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht jetzt extrem tief; achten Sie auf blendende Reflexionen auf dem Wasser oder gefrorenen Stellen.",
+                "hu": "A nap most már nagyon alacsonyan jár; vigyázz a vízről vagy a fagyott foltokról visszaverődő vakító téli csillogással.",
+                "ro": "Soarele este extrem de jos acum; atenție mare la strălucirea orbitoare reflectată de pe apă sau porțiunile înghețate.",
+                "en": "The sun is very low now; be careful of blinding glare reflecting intensely off the water or frozen icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Petitis",
+                "hu": "Lac des Petitis",
+                "ro": "Lac des Petitis",
+                "en": "Lac des Petitis"
+              },
+              "tip_5lang": {
+                "de": "Es ist nach 17:00 Uhr, schalten Sie alle Lichter ein. Die Temperatur sinkt rapide, treten Sie stetig, um warm zu bleiben.",
+                "hu": "Elmúlt 17:00 óra, kapcsold be az összes lámpát. A hőmérséklet most gyorsan zuhan, tekerj egyenletesen a melegért.",
+                "ro": "E trecut de 17:00, aprindeți toate luminile. Temperatura scade mult acum, pedalați constant pentru a vă încălzi repede.",
+                "en": "It's past 17:00, switch on all your lights. The temperature plummets now, so pedal consistently to stay warm."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje egy gyors megállóval a családi játszótéren, mielőtt a nyugati tavakhoz hajtana; az Étang de Lutché és a Belloc lenyűgöző reggeli tükröződéseket kínál egymástól percekre.\nDél körül navigáljon a csendes vidéki utakon a Lac de la Bordette felé, megállva, hogy értékelje a nyitott mezőgazdasági területekről a sűrű erdők határai felé történő átmenetet.\nTöltse a délutánt a hatalmas Wald von Bouconne felfedezésével, pihentesse az autót, miközben rövid sétákat tesz a természetvédelmi területet uraló monumentális fák alatt.\nZárja az autós kirándulást azzal, hogy visszatér Léguevin közelebbi természetes helyeihez, és egy békés esti pillanattal fejezi be a Lac des Petitisnél, a város szélén.",
         "ro": "Începeți cu o scurtă oprire la locul de joacă înainte de a conduce spre lacurile vestice; Étang de Lutché și Belloc oferă reflexii matinale uimitoare la doar câteva minute distanță.\nÎn jurul prânzului, navigați pe drumurile rurale liniștite până la Lac de la Bordette, oprindu-vă pentru a aprecia tranziția de la câmpurile agricole deschise la marginile pădurii.\nPetreceți după-amiaza explorând masiva Wald von Bouconne, lăsând mașina să se odihnească în timp ce faceți plimbări scurte sub copacii monumentali din această rezervație.\nÎncheiați călătoria rutieră întorcându-vă la locurile naturale mai apropiate de Léguevin, terminând cu un moment pașnic de seară la Lac des Petitis, chiar la marginea orașului.",
         "en": "Start with a quick stop at the family playground before driving out to the western lakes; Étang de Lutché and Belloc provide stunning morning reflections just minutes apart.\nAround midday, navigate the quiet rural roads up to Lac de la Bordette, stopping to appreciate the transition from open agricultural fields to the dense woodland borders.\nSpend the afternoon exploring the massive Wald von Bouconne, letting the car rest while you take short walks under the monumental trees that dominate this nature reserve.\nConclude the road trip by circling back to Léguevin's closer natural spots, wrapping up with a peaceful evening moment at Lac des Petitis right by the town's edge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei einer regnerischen Morgenfahrt bleiben Sie zwischen den Zielen angenehm trocken. Mittags laufen die Scheibenwischer an den Seen auf Hochtouren; halten Sie einen Regenschirm bereit. Nachmittags werden die Waldwege schlammig, bleiben Sie besser auf befestigten Parkplätzen. Die Abendfahrt ist im Auto gemütlich, während der Regen prasselt.",
+            "hu": "Az esős reggeli autózás lehetővé teszi, hogy szárazon maradj a helyszínek között. Délben az ablaktörlők keményen dolgoznak majd a tavaknál; legyen mindig kéznél esernyő. Délután az erdei utak sarasak lesznek, így maradj a burkolt parkolóknál. Az esti autózás kényelmes és meleg, miközben az eső tisztára mossa a várost odakint.",
+            "ro": "O plimbare matinală cu mașina pe ploaie vă ține uscat între opriri. La prânz, ștergătoarele vor lucra intens în apropierea lacurilor; păstrați o umbrelă la îndemână. După-amiaza, drumurile forestiere devin noroioase, așa că rămâneți în parcările pavate. Călătoria de seară este confortabilă în mașină pe fundalul ploii constante.",
+            "en": "A rainy morning drive allows you to stay dry while hopping between spots. By noon, the wipers will be working hard as you park near the lakes; keep an umbrella handy. In the afternoon, the forest tracks get muddy, so stick to paved parking areas. The evening drive feels cozy inside the car, while the rain washes the city clean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux de Hilès",
+                "hu": "Aire de jeux de Hilès",
+                "ro": "Aire de jeux de Hilès",
+                "en": "Aire de jeux de Hilès"
+              },
+              "tip_5lang": {
+                "de": "Wenn der Regen für einen Spaziergang zu stark ist, können Sie den verlassenen Spielplatz vom warmen Auto aus betrachten.",
+                "hu": "Az autó melegéből és szárazából is megfigyelheted a játszóteret, ha az eső túl erős lenne egy kinti sétához.",
+                "ro": "Puteți observa locul de joacă pustiu din căldura mașinii dacă plouă prea tare pentru o plimbare afară.",
+                "en": "You can observe the empty playground from the warmth and dry of the car if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Lutché",
+                "hu": "Étang de Lutché",
+                "ro": "Étang de Lutché",
+                "en": "Étang de Lutché"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aussichtspunkt; wasserfeste Schuhe sind Pflicht, wenn Sie die schlammigen Wiesen verlassen.",
+                "hu": "Parkolj közel a kilátóponthoz; a magas szárú vízálló cipő kötelező, ha kilépsz a mély, saras füves területekre.",
+                "ro": "Parcați aproape de punctul de belvedere; încălțămintea impermeabilă e obligatorie pe iarba foarte noroioasă.",
+                "en": "Park close to the viewpoint; waterproof shoes are an absolute must if you step out into the muddy, grassy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Belloc",
+                "hu": "Étang de Belloc",
+                "ro": "Étang de Belloc",
+                "en": "Étang de Belloc"
+              },
+              "tip_5lang": {
+                "de": "Der Regen macht den See sehr atmosphärisch; öffnen Sie das Autofenster einen Spalt, um dem Regen auf dem Wasser zu lauschen.",
+                "hu": "Az eső elképesztően hangulatossá teszi a tavat; húzd le kicsit az ablakot, hogy hallgasd az esőcseppeket a víztükrön.",
+                "ro": "Ploaia face lacul foarte atmosferic; coborâți puțin geamul mașinii pentru a asculta picăturile de ploaie pe apă.",
+                "en": "The rain makes the lake incredibly atmospheric; roll down the window slightly to listen to the raindrops on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Bordette",
+                "hu": "Lac de la Bordette",
+                "ro": "Lac de la Bordette",
+                "en": "Lac de la Bordette"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den unbefestigten Straßen langsam, starker Regen kann schnell tiefe, versteckte Pfützen bilden.",
+                "hu": "Vezess lassan a közeledő burkolatlan utakon, mert a heves eső gyorsan mély, víz alatt rejtőző pocsolyákat képezhet.",
+                "ro": "Conduceți încet pe drumurile neasfaltate, ploaia abundentă poate forma rapid bălți adânci, ascunse sub apa tulbure.",
+                "en": "Drive slowly on the approaching unpaved roads, as heavy rain can quickly form deep, hidden puddles full of mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Bouconne",
+                "hu": "Wald von Bouconne",
+                "ro": "Wald von Bouconne",
+                "en": "Wald von Bouconne"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nur befestigte Parkplätze, die kleinen Waldwege verwandeln sich heute in weichen, rutschigen Schlamm.",
+                "hu": "Csak a fő, burkolt parkolókat használd, mert a kisebb erdei lehállók ma puha, csapdába ejtő sárrá válnak a kerekeknek.",
+                "ro": "Folosiți doar parcările principale pavate, micile refugii din pădure se transformă în noroi moale care prinde roțile.",
+                "en": "Use the main paved parking lots only, as the smaller forest pull-offs turn into soft, trapping mud today for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Mouline",
+                "hu": "Lac de la Mouline",
+                "ro": "Lac de la Mouline",
+                "en": "Lac de la Mouline"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto mit Regenschirm lässt Sie den nebligen See sehen, bevor Sie ins Trockene zurückkehren.",
+                "hu": "Egy rövid futás az autótól esernyővel lehetővé teszi, hogy megnézd a ködös tavat, mielőtt visszamész a szárazra.",
+                "ro": "O scurtă fugă de la mașină sub umbrelă vă permite să vedeți lacul cețos înainte de a reveni la interiorul uscat.",
+                "en": "A short dash from the car under an umbrella lets you see the misty lake before retreating to the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Petitis",
+                "hu": "Lac des Petitis",
+                "ro": "Lac des Petitis",
+                "en": "Lac des Petitis"
+              },
+              "tip_5lang": {
+                "de": "Am späten Nachmittag geht der Regen oft in Nieselregen über; nutzen Sie das Licht, um sicher aus dem Park zu finden.",
+                "hu": "Késő délutánra az eső gyakran szitálásba vált; használd az autó ködlámpáit a biztonságos navigáláshoz kifelé.",
+                "ro": "Spre sfârșitul după-amiezii ploaia devine măruntă; folosiți farurile de ceață pentru a ieși în siguranță din parc.",
+                "en": "By late afternoon the rain often settles into a drizzle; use the car headlights to safely navigate out of the damp park."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt mit dem Eiskratzen am Auto, bevor es zu den eisigen Orten geht. Mittags wird die Heizung Ihr bester Freund nach kurzen Spaziergängen am gefrorenen See. Nachmittags zaubert die tiefstehende Sonne schöne Szenen durch die kahlen Bäume. Um 17:00 Uhr wird es schlagartig dunkel und extrem kalt, die letzte Fahrt ist im warmen Auto aber sehr gemütlich.",
+            "hu": "Fagyos téli reggel, ami a szélvédő lekaparásával indul a jeges helyszínek felfedezése előtt. Délben az autó fűtése lesz a legjobb barátod a befagyott tavak melletti rövid séták után. Délután az alacsony napfény gyönyörű tájat fest. 17:00-kor hirtelen leszáll az este, a kinti hideg metsző lesz, de az utolsó út kellemesen meleg lesz az autó biztonságában.",
+            "ro": "O dimineață înghețată de iarnă începe cu curățarea parbrizului înainte de a explora orașul rece. La prânz, căldura din mașină va fi cel mai bun prieten după scurte plimbări pe lângă lacuri. După-amiaza, soarele apune frumos. Seara vine brusc la 17:00 cu ger tăios, făcând ultima călătorie întunecată, dar minunat de caldă în interiorul mașinii.",
+            "en": "A frosty winter morning means scraping the car windshield before exploring the icy city spots. By noon, the car heater will be your best friend after short walks near the frozen lakes. In the afternoon, the low winter sun sets beautiful scenes. The evening falls abruptly at 17:00 with freezing temperatures, making the final drive dark but wonderfully heated and snug inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux de Hilès",
+                "hu": "Aire de jeux de Hilès",
+                "ro": "Aire de jeux de Hilès",
+                "en": "Aire de jeux de Hilès"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie Ihre dicke Jacke an, bevor Sie aussteigen; die Metallspielgeräte strahlen an Wintermorgen intensive Kälte aus.",
+                "hu": "Vedd fel a vastag kabátod, mielőtt kiszállsz; a fém játékok intenzív hideget sugároznak a csípős téli reggeleken.",
+                "ro": "Puneți-vă haina groasă înainte de a ieși; structurile metalice radiază un frig intens în diminețile de iarnă înghețată.",
+                "en": "Put your thick coat on before stepping out; the metal play structures radiate intense cold on crisp winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Lutché",
+                "hu": "Étang de Lutché",
+                "ro": "Étang de Lutché",
+                "en": "Étang de Lutché"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Ufer des Sees lassen sich wunderschön direkt vom Parkplatz aus fotografieren, ohne tief in die Kälte zu müssen.",
+                "hu": "A tó jeges szélei gyönyörűek, és rögtön a parkoló mellől fotózhatók, anélkül, hogy sokat gyalogolnál a hidegben.",
+                "ro": "Marginile înghețate ale lacului sunt superbe pentru poze chiar lângă parcare, fără a merge mult pe jos în frigul tăios.",
+                "en": "The icy edges of the lake are beautiful to photograph right next to the parking spot without venturing far into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Belloc",
+                "hu": "Étang de Belloc",
+                "ro": "Étang de Belloc",
+                "en": "Étang de Belloc"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie heißen Kakao in der Thermoskanne mit, um ihn im Auto mit Blick auf das friedliche, gefrorene Wasser zu genießen.",
+                "hu": "Hozz egy termosz forró kakaót, amit a fűtött autóban élvezhetsz, miközben a békés, fagyos víztükröt nézed.",
+                "ro": "Aduceți un termos cu cacao fierbinte pentru a o savura în mașină în timp ce priviți apa liniștită și complet înghețată.",
+                "en": "Bring a thermos of hot cocoa to enjoy inside the warm car while overlooking the peaceful, frost-bitten water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Bordette",
+                "hu": "Lac de la Bordette",
+                "ro": "Lac de la Bordette",
+                "en": "Lac de la Bordette"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf die unbefestigten Parkplätze, schlammige Spurrillen frieren im Winter hart und können extrem holprig sein.",
+                "hu": "Óvatosan hajts be a földes parkolókba, mert a sáros keréknyomok télen kőkeményre fagynak és nagyon rázósak lehetnek az autónak.",
+                "ro": "Conduceți cu grijă în parcările de pământ, urmele de noroi îngheață bocnă iarna și pot scutura foarte tare mașina.",
+                "en": "Be cautious pulling into the dirt parking areas, as muddy ruts freeze solid in winter and can be very jarring for the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Bouconne",
+                "hu": "Wald von Bouconne",
+                "ro": "Wald von Bouconne",
+                "en": "Wald von Bouconne"
+              },
+              "tip_5lang": {
+                "de": "Durch die kahlen Winterbäume können Sie direkt von der Straße aus tief in den Wald blicken; achten Sie auf Wildtiere am Rand.",
+                "hu": "A csupasz téli fák között közvetlenül az útról is mélyebbre látsz az erdőben; tartsd a szemed az útszéli vadállatokon.",
+                "ro": "Copacii goi de iarnă vă permit să vedeți adânc în pădure direct de pe drum; fiți atenți la animalele sălbatice pe margine.",
+                "en": "The bare winter trees let you see deeper into the forest directly from the road; keep a close eye out for wildlife near the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de la Mouline",
+                "hu": "Lac de la Mouline",
+                "ro": "Lac de la Mouline",
+                "en": "Lac de la Mouline"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht am Nachmittag sehr tief; nutzen Sie die Autoblenden und polarisierte Brillen gegen die starke, gefährliche Blendung.",
+                "hu": "A nap kora délután már nagyon alacsonyan jár; használd az autó napellenzőit és napszemüveget a veszélyes vakítás ellen.",
+                "ro": "Soarele este extrem de jos la mijlocul după-amiezii; folosiți parasolarele mașinii și ochelari contra strălucirii periculoase.",
+                "en": "The sun sits extremely low by mid-afternoon; use your car visors and polarized sunglasses to cut the harsh, dangerous glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Petitis",
+                "hu": "Lac des Petitis",
+                "ro": "Lac des Petitis",
+                "en": "Lac des Petitis"
+              },
+              "tip_5lang": {
+                "de": "Gegen 17:00 Uhr wird es schnell stockdunkel. Stellen Sie die Heizung hoch, da die Außentemperatur jetzt deutlich unter null sinkt.",
+                "hu": "17:00 körül hirtelen vaksötét lesz. Gondoskodj róla, hogy a fűtés fel legyen tekerve, mert a kinti hőmérséklet jelentősen csökken.",
+                "ro": "Se face întuneric beznă rapid în jurul orei 17:00. Asigurați-vă că încălzirea e pornită tare, temperatura exterioară scade mult.",
+                "en": "It gets pitch black rapidly around 17:00. Ensure your car heating is turned up as the outside temperature drops significantly now."
+              }
+            }
+          ]
+        }
       }
     }
   }

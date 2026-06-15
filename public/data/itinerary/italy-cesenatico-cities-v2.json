@@ -160,6 +160,196 @@
         "hu": "Kezdje a sétát Cesenatico szívében a San Giacomo templomnál, mielőtt felfedezné a híres költő, Marino Moretti szülőházát. Délben sétáljon a festői csatornapart mentén a Leonardo da Vinci Művészeti Galériához. A délután történelmi tengeri bájjal kecsegtet a világító vitorla és a klasszikus világítótorony révén. Az estét a lenyűgöző lombgyűjtő emlékműnél fejezheti be egy kellemes pihenéssel.",
         "ro": "Începeți plimbarea în inima orașului Cesenatico la Biserica San Giacomo, înainte de a explora casa natală a faimosului poet Marino Moretti. La prânz, plimbați-vă de-a lungul portului canalului pitoresc către Galeria de Artă Leonardo da Vinci. După-amiaza oferă farmec maritim istoric, cu vela luminoasă și farul clasic. Încheiați seara confortabil la impresionantul monument al culegătorului de frunze.",
         "en": "Begin your walk in the heart of Cesenatico at the San Giacomo Church before exploring the birthplace of famous poet Marino Moretti. At midday, stroll along the picturesque canal harbor to the Leonardo da Vinci Art Gallery. The afternoon offers historical maritime charm with the luminous sail and the classic lighthouse. Conclude your evening comfortably at the impressive leaf gatherer monument."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt beschaulich am Kanal, wo der Regen die Farben der historischen Boote vertieft. Mittags bieten die Museen am Ufer perfekten Schutz und kulturelle Tiefe. Am Nachmittag führt der Weg zum Leuchtturm, begleitet vom Rauschen der Adria und fallenden Tropfen. Den Abend lassen wir bei den Denkmälern ausklingen, während die nassen Straßen die Lichter der Stadt magisch reflektieren.",
+            "hu": "A reggel a csatornaparton kezdődik, ahol az eső kopogása különleges ritmust ad a történelmi hajók látványának. Délben a múzeumok falai között találunk menedéket és kulturális feltöltődést. Délután a világítótorony felé vesszük az irányt, élvezve a viharos tenger illatát. Az este a kivilágított emlékművek és a vizes aszfalt csillogása mellett ér véget, az esernyőnk védelmében.",
+            "ro": "Dimineața începe liniștit pe malul canalului, unde ploaia intensifică culorile bărcilor istorice. La prânz, muzeele de pe mal oferă adăpostul perfect și o incursiune culturală profundă. După-amiaza, drumul duce spre far, acompaniat de sunetul mării și al picăturilor de ploaie. Seara se încheie lângă monumente, în timp ce străzile umede reflectă magic luminile calde ale orașului.",
+            "en": "The morning begins peacefully along the canal, where rain deepens the colors of the historic boats. At noon, the museums provide perfect shelter and rich cultural insights. In the afternoon, the walk leads toward the lighthouse, accompanied by the scent of the Adriatic. The evening concludes by the monuments, as the wet pavement beautifully reflects the city's golden lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Arcipretale San Giacomo Apostolo",
+                "hu": "Chiesa Arcipretale San Giacomo Apostolo",
+                "ro": "Chiesa Arcipretale San Giacomo Apostolo",
+                "en": "Chiesa Arcipretale San Giacomo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Pracht im Inneren, während Sie sich vom Regen aufwärmen, und achten Sie auf den potenziell rutschigen Marmorboden am Kircheneingang.",
+                "hu": "Csodálja meg a barokk belső teret, miközben menedéket talál az eső elől, de ügyeljen a bejáratnál a beázás miatt esetleg csúszós márványpadlóra.",
+                "ro": "Admirați splendoarea barocă a interiorului în timp ce vă adăpostiți de ploaie, având grijă la podeaua de marmură de la intrare care poate fi alunecoasă.",
+                "en": "Admire the baroque splendor of the interior while taking cover from the rain, and be careful of the marble floor near the entrance which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Musei di Marino Moretti",
+                "hu": "Casa Musei di Marino Moretti",
+                "ro": "Casa Musei di Marino Moretti",
+                "en": "Casa Musei di Marino Moretti"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Literaturgeschichte ein und nutzen Sie die Garderobe für Ihre nassen Mäntel, damit Sie die Exponate ganz entspannt genießen können.",
+                "hu": "Merüljön el az irodalomtörténetben, és használja a ruhatárat a vizes kabátoknak, hogy kényelmesen, szárazon böngészhesse a különleges kiállítási tárgyakat.",
+                "ro": "Explorați istoria literară și folosiți garderoba pentru hainele umede, astfel încât să vă puteți bucura de exponate într-o atmosferă caldă și relaxată.",
+                "en": "Immerse yourself in literary history and use the cloakroom for your wet coats so you can enjoy the exhibits comfortably in a dry and warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Galleria d'arte Leonardo da Vinci",
+                "hu": "Galleria d'arte Leonardo da Vinci",
+                "ro": "Galleria d'arte Leonardo da Vinci",
+                "en": "Galleria d'arte Leonardo da Vinci"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die modernen Kunstwerke als farbenfrohen Kontrast zum grauen Wetter draußen und lassen Sie sich Zeit in den gut beleuchteten Ausstellungsräumen.",
+                "hu": "Élvezze a modern műalkotásokat, amelyek színes kontrasztot adnak a kinti szürke időnek, és szánjon időt a jól megvilágított, tágas belső terek felfedezésére.",
+                "ro": "Bucurați-vă de operele de artă modernă ca un contrast colorat față de vremea gri de afară și zăboviți în sălile de expoziție bine iluminate și primitoare.",
+                "en": "Enjoy the modern artworks as a colorful contrast to the gray weather outside, and take your time exploring the well-lit and welcoming exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "La vela luminosa",
+                "hu": "La vela luminosa",
+                "ro": "La vela luminosa",
+                "en": "La vela luminosa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das Licht der Skulptur auf dem nassen Asphalt tanzt, und halten Sie Ihren Regenschirm gut fest, da es hier am Kanal windig sein kann.",
+                "hu": "Figyelje meg, hogyan táncol a szobor fénye a vizes aszfalton, és fogja szorosan az esernyőjét, mert a csatorna mentén ilyenkor felerősödhet a szél.",
+                "ro": "Observați cum lumina sculpturii dansează pe asfaltul umed și țineți umbrela strâns, deoarece vântul se poate intensifica de-a lungul canalului în timpul ploii.",
+                "en": "Watch how the sculpture's light dances on the wet pavement, and hold your umbrella firmly as the wind can pick up along the canal during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Cesenatico",
+                "hu": "Faro di Cesenatico",
+                "ro": "Faro di Cesenatico",
+                "en": "Faro di Cesenatico"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im Regen besonders melancholisch; tragen Sie wasserfeste Schuhe für den Weg über die oft pfützenreichen Kais zur Hafenmündung.",
+                "hu": "A világítótorony az esőben különösen melankolikus arcát mutatja; viseljen vízálló cipőt a kikötőmóló gyakran tócsás és csúszós kövezete miatt.",
+                "ro": "Farul arată deosebit de melancolic prin ploaie; purtați încălțăminte impermeabilă pentru drumul pe cheiul care poate avea multe bălți spre gura portului.",
+                "en": "The lighthouse looks particularly melancholic in the rain; wear waterproof shoes for the walk along the quayside which often collects deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento della raccoglitrice di Foglie",
+                "hu": "Monumento della raccoglitrice di Foglie",
+                "ro": "Monumento della raccoglitrice di Foglie",
+                "en": "Monumento della raccoglitrice di Foglie"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal im sanften Regen, der die herbstliche Symbolik unterstreicht, und finden Sie unter den nahen Arkaden einen trockenen Aussichtspunkt.",
+                "hu": "Tekintse meg az emlékművet a lágy esőben, amely kiemeli az őszi szimbolikát, és keressen a közeli árkádok alatt egy száraz pontot a nézelődéshez.",
+                "ro": "Admirați monumentul în ploaia ușoară care subliniază simbolistica sa tomnatică și căutați un punct de observație uscat sub arcadele din apropiere.",
+                "en": "View the monument in the gentle rain which emphasizes its autumnal symbolism, and find a dry spot under the nearby arcades for a comfortable look."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Porto Canale offenbart die maritime Seele Cesenaticos ohne Trubel. Mittags wärmen wir uns in den Museen auf, während das sanfte Winterlicht durch die Fenster fällt. Am frühen Nachmittag besuchen wir den Leuchtturm vor dem frühen Sonnenuntergang gegen 17 Uhr. Der Abend gehört der festlichen Beleuchtung und der kühlen, erfrischenden Meeresbrise.",
+            "hu": "A tiszta téli reggel a Porto Canale mentén felfedi Cesenatico igazi tengeri lelkét a tömeg nélkül. Délben a múzeumokban melegszünk fel, élvezve a lágy téli fényt. Kora délután meglátogatjuk a világítótornyot, még a 17 óra körüli korai naplemente előtt. Az este a díszkivilágításé és a hűvös, frissítő tengeri szellőé a kikötőben.",
+            "ro": "O dimineață senină de iarnă pe Porto Canale dezvăluie sufletul maritim al orașului Cesenatico fără aglomerație. La prânz ne încălzim în muzee, admirând lumina blândă de iarnă. După-amiaza devreme vizităm farul înainte de apusul prematur de la ora 17:00. Seara este dedicată iluminatului festiv și adierii răcoroase și revigorante a mării.",
+            "en": "A crisp winter morning along Porto Canale reveals Cesenatico's maritime soul without the crowds. At noon, we warm up inside the museums as soft winter light filters through. In the early afternoon, we visit the lighthouse before the early sunset around 5 PM. The evening is dedicated to festive lights and the cool, refreshing sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa Arcipretale San Giacomo Apostolo",
+                "hu": "Chiesa Arcipretale San Giacomo Apostolo",
+                "ro": "Chiesa Arcipretale San Giacomo Apostolo",
+                "en": "Chiesa Arcipretale San Giacomo Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die andächtige Stille der Kirche und nutzen Sie den geschützten Raum, um Ihre Handschuhe und Schals für den weiteren Weg zu richten.",
+                "hu": "Élvezze a templom áhítatos csendjét, és használja ki a szélvédett belső teret, hogy megigazítsa kesztyűjét és sálját a további sétához.",
+                "ro": "Bucurați-vă de liniștea evlavioasă a bisericii și folosiți spațiul protejat pentru a vă aranja mănușile și fularul pentru continuarea plimbării.",
+                "en": "Enjoy the prayerful silence of the church and use the sheltered interior to adjust your gloves and scarf before continuing your winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Musei di Marino Moretti",
+                "hu": "Casa Musei di Marino Moretti",
+                "ro": "Casa Musei di Marino Moretti",
+                "en": "Casa Musei di Marino Moretti"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Hausmuseum bietet eine gemütliche Atmosphäre; bewundern Sie die winterliche Sicht auf den Kanal durch die historischen Fenstergläser.",
+                "hu": "A fűtött házmúzeum barátságos légkört kínál; csodálja meg a csatornára nyíló téli kilátást a patinás, történelmi ablaküvegeken keresztül.",
+                "ro": "Casa memorială încălzită oferă o atmosferă primitoare; admirați vederea hibernală asupra canalului prin geamurile istorice pline de patină.",
+                "en": "The heated house museum offers a cozy atmosphere; admire the wintry view of the canal through the charming, historic window panes."
+              }
+            },
+            {
+              "name": {
+                "de": "Galleria d'arte Leonardo da Vinci",
+                "hu": "Galleria d'arte Leonardo da Vinci",
+                "ro": "Galleria d'arte Leonardo da Vinci",
+                "en": "Galleria d'arte Leonardo da Vinci"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kälteste Zeit des Tages in der Galerie und lassen Sie die Kunstwerke bei der warmen Innenbeleuchtung auf sich wirken.",
+                "hu": "Töltse a nap leghidegebb óráit a galériában, és hagyja, hogy a műalkotások a meleg beltéri világítás mellett fejtsék ki hatásukat önre.",
+                "ro": "Petreceți cele mai reci ore ale zilei în galerie și lăsați operele de artă să vă impresioneze sub lumina caldă a reflectoarelor interioare.",
+                "en": "Spend the coldest hours of the day in the gallery and let the artworks inspire you under the warm and inviting indoor lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "La vela luminosa",
+                "hu": "La vela luminosa",
+                "ro": "La vela luminosa",
+                "en": "La vela luminosa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Skulptur kurz vor 17 Uhr, wenn das künstliche Licht in der blauen Stunde gegen den kalten Winterhimmel besonders strahlt.",
+                "hu": "Látogassa meg a szobrot nem sokkal 17 óra előtt, amikor a kék órában a mesterséges fények ragyogása felerősödik a hideg téli égbolt előtt.",
+                "ro": "Vizitați sculptura puțin înainte de ora 17:00, când în ora albastră luminile artificiale strălucesc intens pe fundalul cerului rece de iarnă.",
+                "en": "Visit the sculpture shortly before 5 PM to see the artificial lights glow brilliantly against the cold winter sky during the blue hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Cesenatico",
+                "hu": "Faro di Cesenatico",
+                "ro": "Faro di Cesenatico",
+                "en": "Faro di Cesenatico"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Meer ist im Winter schneidend; ziehen Sie eine extra Schicht Kleidung an, um den weiten Blick über die einsame Adria zu genießen.",
+                "hu": "A tengeri szél télen metsző lehet; vegyen fel egy plusz réteg ruhát, hogy zavartalanul élvezhesse a kilátást a végtelen, néptelen Adriára.",
+                "ro": "Vântul mării este tăios iarna; puneți un strat suplimentar de haine pentru a vă bucura de vederea panoramică asupra Adriaticii solitare.",
+                "en": "The sea breeze is biting in winter; put on an extra layer of clothing to fully enjoy the expansive view over the vast, empty Adriatic Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento della raccoglitrice di Foglie",
+                "hu": "Monumento della raccoglitrice di Foglie",
+                "ro": "Monumento della raccoglitrice di Foglie",
+                "en": "Monumento della raccoglitrice di Foglie"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal in der winterlichen Ruhe des Parks und machen Sie sich dann zügig auf den Rückweg, bevor es gegen 17:30 Uhr ganz dunkel wird.",
+                "hu": "Tekintse meg az emlékművet a park téli nyugalmában, majd induljon vissza, mielőtt 17:30 körül teljesen besötétedik és lehűl a levegő.",
+                "ro": "Admirați monumentul în liniștea hibernală a parcului și porniți spre întoarcere înainte de a se întuneca complet în jurul orei 17:30.",
+                "en": "View the monument in the winter stillness of the park, then head back before it gets completely dark and much colder around 5:30 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kerékpártúra a lenyűgöző Spazio Pantaninál kezdődik, amely a kerékpáros hősnek állít emléket, majd a költői Casa Musei Moretti felé veszi az irányt. Délben a történelmi világítótoronyhoz teker, hogy beszívja a tengeri levegőt. A délután a természet jegyében telik a zöld Parco di Levante és a Parco Grande Torino átszelésével. Este a csendes San Giuseppe templom kínál meghitt lezárást a sportos napnak.",
         "ro": "Turul cu bicicleta începe la fascinantul Spazio Pantani, un omagiu adus eroului ciclismului, continuând spre poetica Casa Musei Moretti. La prânz, pedalați spre farul istoric pentru a respira briza mării. După-amiaza este dedicată naturii, traversând verdele Parco di Levante și Parco Grande Torino. Seara, liniștita biserică San Giuseppe oferă o încheiere contemplativă a explorării dumneavoastră sportive.",
         "en": "The bike tour starts at the fascinating Spazio Pantani, a tribute to the cycling hero, and takes you to the poetic Casa Musei Moretti. At midday, cycle to the historic lighthouse to breathe in the maritime breeze. The afternoon is dedicated to nature as you cruise through the green Parco di Levante and Parco Grande Torino. In the evening, the quiet San Giuseppe Church offers a contemplative conclusion to your sporty exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour im Regen beginnt am Spazio Pantani, wo die Geschichte des Piraten uns inspiriert. Mittags radeln wir vorsichtig entlang des Kanals zu den Museen. Am Nachmittag führt die Strecke durch die Parks, deren Grün im Regen besonders leuchtet. Der Abend endet bei der Kirche San Giuseppe, während wir auf den Radwegen auf nasse Blätter und rutschige Kurven achten.",
+            "hu": "Az esős bringázás a Spazio Pantaninál indul, ahol a Kalóz története inspirál minket. Délben óvatosan tekerünk a csatorna mentén a múzeumok felé. Délután a parkokon át vezet az utunk, melyek zöldje ilyenkor különösen élénk. Az este a San Giuseppe templomnál ér véget, miközben a kerékpárutakon figyelünk a vizes levelekre és a csúszós kanyarokra.",
+            "ro": "Turul cu bicicleta pe ploaie începe la Spazio Pantani, unde povestea „Piratului” ne inspiră. La prânz pedalăm cu atenție de-a lungul canalului spre muzee. După-amiaza, traseul trece prin parcuri, al căror verde este deosebit de viu pe ploaie. Seara se încheie la biserica San Giuseppe, fiind atenți pe pistele de biciclete la frunzele ude și curbele alunecoase.",
+            "en": "The rainy bike tour starts at Spazio Pantani, where the Pirate's story inspires us. At noon, we cycle carefully along the canal toward the museums. In the afternoon, the route passes through parks where the greenery looks vibrant in the rain. The evening ends at San Giuseppe Church, as we keep an eye out for wet leaves and slippery turns on the bike paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spazio Pantani",
+                "hu": "Spazio Pantani",
+                "ro": "Spazio Pantani",
+                "en": "Spazio Pantani"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich und widmen Sie sich der Radsportlegende, während es draußen regnet – ein Muss für jeden Radfan.",
+                "hu": "Parkolja le kerékpárját a fedett részen, és merüljön el a kerékpáros legenda életében, amíg odakint esik – ez minden bringás számára kötelező program.",
+                "ro": "Parcați bicicleta în zona acoperită și dedicați-vă legendei ciclismului în timp ce afară plouă – o oprire obligatorie pentru orice fan al pedalatului.",
+                "en": "Park your bike in the covered area and dedicate your time to the cycling legend while it rains outside – a must-visit for every cycling enthusiast."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Musei di Marino Moretti",
+                "hu": "Casa Musei di Marino Moretti",
+                "ro": "Casa Musei di Marino Moretti",
+                "en": "Casa Musei di Marino Moretti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Pause vom Regen und sichern Sie Ihr Rad an den Ständern nahe des Eingangs auf dem festen Untergrund.",
+                "hu": "Használja ki a múzeumlátogatást egy kis pihenőre az eső elől, és rögzítse kerékpárját a bejárat melletti szilárd talajú tárolókhoz.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de ploaie și asigurați-vă bicicleta la rastelele de lângă intrare, pe terenul stabil și plat.",
+                "en": "Use the museum visit as a break from the rain and secure your bike at the stands near the entrance on the firm, flat ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Cesenatico",
+                "hu": "Faro di Cesenatico",
+                "ro": "Faro di Cesenatico",
+                "en": "Faro di Cesenatico"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den gepflasterten Wegen zum Leuchtturm besonders langsam, da die nassen Steine bei Bremsmanövern sehr tückisch sein können.",
+                "hu": "A világítótoronyhoz vezető kövezett úton haladjon különösen lassan, mert a vizes kövek fékezéskor nagyon csalókák és csúszósak lehetnek.",
+                "ro": "Pedalați foarte încet pe drumul pavat spre far, deoarece pietrele umede pot fi foarte înșelătoare și alunecoase la frânare.",
+                "en": "Cycle very slowly on the paved path to the lighthouse, as the wet stones can be very treacherous and slippery when braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Levante",
+                "hu": "Parco di Levante",
+                "ro": "Parco di Levante",
+                "en": "Parco di Levante"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft im Park, aber meiden Sie unbefestigte Schlammwege; bleiben Sie auf den asphaltierten Hauptwegen für sicheren Halt.",
+                "hu": "Élvezze a friss levegőt a parkban, de kerülje a felázott, saras ösvényeket; maradjon az aszfaltozott főutakon a biztos tapadás érdekében.",
+                "ro": "Bucurați-vă de aerul proaspăt din parc, dar evitați potecile cu noroi; rămâneți pe aleile principale asfaltate pentru o aderență sigură.",
+                "en": "Enjoy the fresh air in the park, but avoid muddy unpaved paths; stay on the paved main routes for reliable tire grip and safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Grande Torino",
+                "hu": "Parco Grande Torino",
+                "ro": "Parco Grande Torino",
+                "en": "Parco Grande Torino"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die die Tiefe von Schlaglöchern verbergen könnten, und nutzen Sie die Bäume als natürlichen, aber nur kurzzeitigen Regenschutz.",
+                "hu": "Ügyeljen a tócsákra, amelyek elrejthetik az úthibák mélységét, és használja a fákat természetes, de csak rövid ideig tartó esővédőként.",
+                "ro": "Fiți atenți la bălțile care pot ascunde gropi adânci și folosiți copacii ca adăpost natural, dar doar temporar, împotriva ploii torențiale.",
+                "en": "Watch out for puddles that might hide deep potholes, and use the trees as natural, albeit temporary, protection from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel vor dem Abstellen trocken und genießen Sie die spirituelle Ruhe der Kirche als Belohnung für die tapfere Regenfahrt.",
+                "hu": "Törölje szárazra a nyergét, mielőtt leparkol, és élvezze a templom spirituális békéjét jutalomként a bátor, esős tekerés után.",
+                "ro": "Ștergeți șaua înainte de a parca și bucurați-vă de liniștea spirituală a bisericii ca recompensă pentru pedalarea curajoasă prin ploaie.",
+                "en": "Wipe your saddle dry before parking and enjoy the spiritual peace of the church as a reward for your brave rainy cycling session."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch am Spazio Pantani. Wir nutzen die hellen Mittagsstunden für die Fahrt entlang des Kanals und zu den Museen. Am Nachmittag radeln wir durch die stillen Parks zum Leuchtturm, um das goldene Licht vor 17 Uhr einzufangen. Der Abend wird kühl, daher beenden wir die Tour zügig an der Kirche San Giuseppe, bevor der Frost einsetzt.",
+            "hu": "A téli kerékpártúra frissen indul a Spazio Pantaninál. A világos déli órákat a csatorna menti tekerésre és múzeumlátogatásra használjuk. Délután a csendes parkokon át tekerünk a világítótoronyhoz, hogy elcsípjük az aranyló fényeket 17 óra előtt. Az este hűvös lesz, így a túrát gyorsan zárjuk a San Giuseppe templomnál.",
+            "ro": "Turul cu bicicleta iarna începe revigorant la Spazio Pantani. Folosim orele luminoase de prânz pentru drumul de-a lungul canalului și spre muzee. După-amiaza pedalăm prin parcurile liniștite spre far pentru a surprinde lumina aurie înainte de ora 17:00. Seara devine răcoroasă, așa că încheiem rapid turul la biserica San Giuseppe.",
+            "en": "The winter bike tour starts briskly at Spazio Pantani. We use the bright midday hours for cycling along the canal and visiting museums. In the afternoon, we ride through quiet parks to the lighthouse to catch the golden light before 5 PM. The evening gets chilly, so we finish the tour promptly at San Giuseppe Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spazio Pantani",
+                "hu": "Spazio Pantani",
+                "ro": "Spazio Pantani",
+                "en": "Spazio Pantani"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln in der Ausstellung auf, bevor Sie losfahren, und tragen Sie winddichte Handschuhe für die kühle Fahrt am Kanal.",
+                "hu": "Melegítse be izmait a kiállításon, mielőtt elindulna, és viseljen szélálló kesztyűt a csatorna menti hűvös tekeréshez.",
+                "ro": "Încălziți-vă mușchii în expoziție înainte de a pleca și purtați mănuși rezistente la vânt pentru pedalarea răcoroasă de-a lungul canalului.",
+                "en": "Warm up your muscles in the exhibition before you set off, and wear windproof gloves for the chilly ride along the open canal."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Musei di Marino Moretti",
+                "hu": "Casa Musei di Marino Moretti",
+                "ro": "Casa Musei di Marino Moretti",
+                "en": "Casa Musei di Marino Moretti"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Sonne, um den Sattel warm zu halten, und genießen Sie die kulturelle Pause im behaglich temperierten Museum.",
+                "hu": "Parkolja le kerékpárját a napon, hogy a nyereg ne hűljön ki teljesen, és élvezze a kulturális pihenőt a kellemes hőmérsékletű múzeumban.",
+                "ro": "Parcați bicicleta la soare pentru a păstra șaua caldă și bucurați-vă de pauza culturală în muzeul cu temperatură ambientală plăcută.",
+                "en": "Park your bike in the sun to keep the saddle from getting too cold, and enjoy the cultural break in the comfortably warm museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Cesenatico",
+                "hu": "Faro di Cesenatico",
+                "ro": "Faro di Cesenatico",
+                "en": "Faro di Cesenatico"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind an der Hafenmündung ist stark; treten Sie kräftig in die Pedale, um warm zu bleiben, und achten Sie auf mögliche Glätte.",
+                "hu": "A téli szél a kikötőmólónál erős lehet; tekerjen intenzívebben, hogy melegen tartsa magát, és ügyeljen az esetleges jeges foltokra.",
+                "ro": "Vântul de iarnă la gura portului este puternic; pedalați mai energic pentru a vă menține căldura și fiți atenți la posibilele zone înghețate.",
+                "en": "The winter wind at the harbor entrance is strong; pedal more vigorously to stay warm and watch out for potential icy patches on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Levante",
+                "hu": "Parco di Levante",
+                "ro": "Parco di Levante",
+                "en": "Parco di Levante"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht durch die laublosen Bäume und nutzen Sie die asphaltierten Wege, um zügig durch die kühle Parkluft zu kommen.",
+                "hu": "Élvezze a tiszta kilátást a lombtalan fák között, és használja az aszfaltozott utakat, hogy gyorsan haladhasson a hűvös parki levegőben.",
+                "ro": "Bucurați-vă de vizibilitatea clară printre copacii fără frunze și folosiți aleile asfaltate pentru a trece rapid prin aerul rece din parc.",
+                "en": "Enjoy the clear views through the leafless trees and use the paved paths to move quickly through the crisp and cool park air."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Grande Torino",
+                "hu": "Parco Grande Torino",
+                "ro": "Parco Grande Torino",
+                "en": "Parco Grande Torino"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann blenden; tragen Sie eine Sonnenbrille beim Radfahren und achten Sie auf Schattenbereiche, die kälter sind.",
+                "hu": "Az alacsonyan járó téli nap elvakíthatja; viseljen napszemüveget bringázás közben, és ügyeljen az árnyékos részekre, melyek jóval hidegebbek.",
+                "ro": "Soarele de iarnă aflat jos pe cer vă poate orbi; purtați ochelari de soare în timp ce pedalați și fiți atenți la zonele umbrite, mult mai reci.",
+                "en": "The low winter sun can be blinding; wear sunglasses while cycling and be careful in shaded areas, which are significantly colder than the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor dem Dunkelwerden und nutzen Sie das Kircheninnere für ein kurzes Gebet oder Moment der Ruhe zum Aufwärmen.",
+                "hu": "Fejezze be a túrát időben, még sötétedés előtt, és használja a templom belső terét egy rövid elcsendesedésre és végső felmelegedésre.",
+                "ro": "Încheiați turul la timp, înainte de lăsarea întunericului, și folosiți interiorul bisericii pentru un moment de liniște și încălzire finală.",
+                "en": "Finish your tour in good time before dark, and use the church interior for a brief moment of quiet and a final chance to warm up indoors."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje motorizált kirándulását a békés Santa Maria Goretti templomnál, amelyet az Atlantica vízipark frissítő szórakozása követ. Délben a tágas Parco di Ponente területén pihenhet, mielőtt felfedezné Marco Pantani örökségét a közeli múzeumban. A késő délután a parthoz, a történelmi világítótoronyhoz vonzza. Egy csendes esti séta a Parco di Levante területén tökéletesen lezárja ezt a változatos és kényelmes napot.",
         "ro": "Începeți excursia motorizată la pașnica biserică Santa Maria Goretti, urmată de distracție răcoritoare în parcul acvatic Atlantica. La prânz, vă puteți relaxa în spațiosul Parco di Ponente, înainte de a explora moștenirea lui Marco Pantani în muzeul din apropiere. După-amiaza târziu vă atrage spre coastă, la farul istoric. O plimbare liniștită de seară prin Parco di Levante completează perfect această zi variată și confortabilă.",
         "en": "Begin your motorized excursion at the peaceful Santa Maria Goretti Church, followed by refreshing fun at the Atlantica water park. At midday, you can relax in the spacious Parco di Ponente before exploring Marco Pantani's legacy in the nearby museum. The late afternoon draws you to the coast to the historic lighthouse. A quiet evening walk through the Parco di Levante perfectly rounds off this varied and comfortable day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im Regen beginnt komfortabel bei der Kirche Santa Maria Goretti. Wir nutzen das Auto, um trocken zwischen den Sehenswürdigkeiten und Museen zu pendeln. Am Nachmittag führt die Route zum Leuchtturm, wobei wir die Meereslandschaft aus dem geschützten Wagen genießen. Der Abend endet entspannt beim Parco di Levante, während wir auf die eingeschränkte Sicht und nasse Fahrbahnen achten.",
+            "hu": "Az esős autózás kényelmesen indul a Santa Maria Goretti templomnál. Az autót használjuk, hogy szárazon ingázzunk a látnivalók és múzeumok között. Délután a világítótoronyhoz hajtunk, élvezve a tengeri tájat a védett utastérből. Az este a Parco di Levante közelében zárul, miközben ügyelünk a korlátozott látási viszonyokra és a vizes utakra.",
+            "ro": "Călătoria cu mașina pe ploaie începe confortabil la biserica Santa Maria Goretti. Folosim mașina pentru a pendula uscați între atracții și muzee. După-amiaza, traseul duce spre far, bucurându-ne de peisajul marin din interiorul protejat al vehiculului. Seara se încheie relaxat lângă Parco di Levante, fiind atenți la vizibilitatea redusă și carosabilul umed.",
+            "en": "The rainy drive starts comfortably at Santa Maria Goretti Church. We use the car to commute dryly between sights and museums. In the afternoon, the route leads to the lighthouse, enjoying the seascape from the protected interior. The evening concludes peacefully near Parco di Levante, as we stay alert to limited visibility and wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria Goretti",
+                "hu": "Parrocchia Santa Maria Goretti",
+                "ro": "Parrocchia Santa Maria Goretti",
+                "en": "Parrocchia Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und halten Sie Ihren Regenschirm für den kurzen Weg zur Kirche bereit; bewundern Sie die moderne Architektur im Regen.",
+                "hu": "Használja a közeli parkolót, és készítse elő esernyőjét a templomhoz vezető rövid útra; csodálja meg a modern építészetet az esőfüggönyön át.",
+                "ro": "Folosiți parcarea din apropiere și pregătiți umbrela pentru drumul scurt spre biserică; admirați arhitectura modernă prin perdeaua de ploaie.",
+                "en": "Use the nearby parking lot and have your umbrella ready for the short walk to the church; admire the modern architecture through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantica",
+                "hu": "Atlantica",
+                "ro": "Atlantica",
+                "en": "Atlantica"
+              },
+              "tip_5lang": {
+                "de": "Da der Wasserpark bei Regen meist geschlossen ist, betrachten Sie die imposanten Rutschen vom Parkplatz aus als surreale Fotokulisse.",
+                "hu": "Mivel a vízipark esőben zárva tarthat, tekintse meg az impozáns csúszdákat a parkolóból, mint egy különleges, szürreális fotótémát.",
+                "ro": "Deoarece parcul acvatic poate fi închis pe ploaie, admirați toboganele impunătoare din parcare ca pe un subiect foto special și suprarealist.",
+                "en": "Since the water park may be closed during rain, view the impressive slides from the parking lot as a unique and surreal photo backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Ponente",
+                "hu": "Parco di Ponente",
+                "ro": "Parco di Ponente",
+                "en": "Parco di Ponente"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die parknahen Straßen und genießen Sie den Anblick der regenfeuchten Pinien direkt von Ihrem Autofenster aus.",
+                "hu": "Hajtson lassan a park melletti utcákon, és élvezze az esőáztatta fenyők látványát közvetlenül az autó ablakából, szárazon maradva.",
+                "ro": "Conduceți încet pe străzile de lângă parc și bucurați-vă de vederea pinilor udați de ploaie direct de la fereastra mașinii, rămânând uscați.",
+                "en": "Drive slowly along the streets next to the park and enjoy the view of the rain-soaked pines directly from your car window while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Spazio Pantani",
+                "hu": "Spazio Pantani",
+                "ro": "Spazio Pantani",
+                "en": "Spazio Pantani"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Bahnhofsbereich und nutzen Sie den Museumsbesuch für eine längere Pause vom Fahren im trüben Regenwetter.",
+                "hu": "Parkoljon közvetlenül az állomás környékén, és használja ki a múzeumlátogatást egy hosszabb pihenőre a borongós esőben való vezetés után.",
+                "ro": "Parcați direct în zona gării și folosiți vizita la muzeu pentru o pauză mai lungă de la condusul prin vremea ploioasă și mohorâtă.",
+                "en": "Park directly in the station area and use the museum visit for a longer break from driving through the gloomy and rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Cesenatico",
+                "hu": "Faro di Cesenatico",
+                "ro": "Faro di Cesenatico",
+                "en": "Faro di Cesenatico"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit Blick auf den Hafenkanal, um den Leuchtturm im Regen zu beobachten, ohne den Komfort des Wagens zu verlassen.",
+                "hu": "Keressen egy parkolóhelyet kilátással a kikötőcsatornára, hogy az autó kényelméből figyelhesse meg a világítótornyot a szakadó esőben.",
+                "ro": "Căutați un loc de parcare cu vedere la canalul portului pentru a observa farul prin ploaie fără a părăsi confortul mașinii.",
+                "en": "Find a parking spot with a view of the harbor canal to observe the lighthouse in the rain without leaving the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Levante",
+                "hu": "Parco di Levante",
+                "ro": "Parco di Levante",
+                "en": "Parco di Levante"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Regen sehr stimmungsvoll; parken Sie in der Nähe der Eingänge und unternehmen Sie nur einen kurzen, erfrischenden Spaziergang.",
+                "hu": "A park esőben is hangulatos; parkoljon a bejáratok közelében, és tegyen csak egy rövid, frissítő sétát a vizes aszfaltozott ösvényeken.",
+                "ro": "Parcul are o atmosferă deosebită pe ploaie; parcați aproape de intrări și faceți doar o scurtă plimbare revigorantă pe aleile asfaltate.",
+                "en": "The park is very atmospheric in the rain; park near the entrances and take just a short, refreshing walk on the paved paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour beginnt bei der modernen Kirche Santa Maria Goretti. Wir genießen die effiziente Fahrt zu den Museen und den Komfort der Sitzheizung. Am frühen Nachmittag steuern wir den Leuchtturm an, um das klare Winterpanorama zu erleben. Der Abend endet im Parco di Levante, wo wir die festlichen Lichter der Stadt im Rückspiegel bewundern, bevor es gegen 17:30 Uhr dunkel ist.",
+            "hu": "A téli autós kirándulás a modern Santa Maria Goretti templomnál indul. Élvezzük a hatékony közlekedést a múzeumok között és az ülésfűtés kényelmét. Kora délután a világítótoronyhoz hajtunk a tiszta téli panoráma kedvéért. Az este a Parco di Levante-nál zárul, miközben a visszapillantóban csodáljuk a város fényeit a 17:30-as sötétedés előtt.",
+            "ro": "Călătoria de iarnă cu mașina începe la moderna biserică Santa Maria Goretti. Ne bucurăm de drumul eficient spre muzee și de confortul încălzirii din scaune. După-amiaza devreme ne îndreptăm spre far pentru panorama clară de iarnă. Seara se încheie la Parco di Levante, admirând luminile festive în oglinda retrovizoare înainte de ora 17:30.",
+            "en": "The winter driving tour starts at the modern Santa Maria Goretti Church. We enjoy the efficient travel between museums and the comfort of the car's heating. In the early afternoon, we head to the lighthouse for the clear winter panorama. The evening ends at Parco di Levante, admiring the festive city lights in the rearview mirror before dark at 5:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parrocchia Santa Maria Goretti",
+                "hu": "Parrocchia Santa Maria Goretti",
+                "ro": "Parrocchia Santa Maria Goretti",
+                "en": "Parrocchia Santa Maria Goretti"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter oft gut beheizt; genießen Sie die spirituelle Wärme und die klare Akustik, bevor Sie Ihre Fahrt fortsetzen.",
+                "hu": "A templom télen gyakran kellemesen fűtött; élvezze a spirituális meleget és a tiszta akusztikát, mielőtt folytatná útját a hidegben.",
+                "ro": "Biserica este adesea bine încălzită iarna; bucurați-vă de căldura spirituală și de acustica clară înainte de a vă continua drumul.",
+                "en": "The church is often well-heated in winter; enjoy the spiritual warmth and clear acoustics before continuing your drive in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantica",
+                "hu": "Atlantica",
+                "ro": "Atlantica",
+                "en": "Atlantica"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Park stillgelegt; parken Sie kurz für ein paar Fotos der geometrischen Strukturen vor dem blassen Winterhimmel.",
+                "hu": "Télen a vízipark zárva tart; álljon meg egy rövid időre, hogy lefotózza a geometrikus csúszdákat a fakó téli égbolt háttere előtt.",
+                "ro": "Iarna parcul acvatic este închis; opriți scurt pentru câteva fotografii ale structurilor geometrice pe fundalul cerului palid de iarnă.",
+                "en": "The water park is closed in winter; park briefly for a few photos of the geometric structures against the pale winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Ponente",
+                "hu": "Parco di Ponente",
+                "ro": "Parco di Ponente",
+                "en": "Parco di Ponente"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die straßennahen Parkplätze für einen schnellen Blick in den winterlich-stillen Pinienwald, ohne weit in die Kälte gehen zu müssen.",
+                "hu": "Használja az út menti parkolókat egy gyors betekintéshez a téli, csendes fenyvesbe, anélkül, hogy messzire kellene gyalogolnia a hidegben.",
+                "ro": "Folosiți parcările de la marginea drumului pentru o privire rapidă în pădurea de pini liniștită, fără a merge mult prin frigul de afară.",
+                "en": "Use the roadside parking spots for a quick look into the quiet winter pine forest without having to walk far in the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Spazio Pantani",
+                "hu": "Spazio Pantani",
+                "ro": "Spazio Pantani",
+                "en": "Spazio Pantani"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe des Eingangs; das Museum ist ein idealer Ort, um sich zwischen den winterlichen Fahretappen aufzuwärmen.",
+                "hu": "Keressen parkolóhelyet közvetlenül a bejárat közelében; a múzeum ideális hely a felmelegedésre a téli autós etapok között.",
+                "ro": "Căutați un loc de parcare aproape de intrare; muzeul este locul ideal pentru a vă încălzi între etapele de condus prin frigul iernii.",
+                "en": "Find a parking spot right near the entrance; the museum is an ideal place to warm up between the various winter driving stages."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Cesenatico",
+                "hu": "Faro di Cesenatico",
+                "ro": "Faro di Cesenatico",
+                "en": "Faro di Cesenatico"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht am Meer ist perfekt für Fotos; bleiben Sie für das beste Panorama bis kurz vor dem Sonnenuntergang um 17 Uhr im Wagen.",
+                "hu": "A téli tengeri fények tökéletesek a fotózáshoz; a legjobb panoráma érdekében maradjon az autóban a 17 óra körüli naplemente előtti percekig.",
+                "ro": "Lumina de iarnă de la mare este perfectă pentru fotografii; rămâneți în mașină pentru cea mai bună panoramă până aproape de apusul de la ora 17:00.",
+                "en": "The winter light at the sea is perfect for photography; stay in the car for the best panorama until just before the sunset around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Levante",
+                "hu": "Parco di Levante",
+                "ro": "Parco di Levante",
+                "en": "Parco di Levante"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die gute Erreichbarkeit mit dem Auto für einen kurzen Abendbesuch, wenn die Parkwege in der frühen Dämmerung festlich beleuchtet sind.",
+                "hu": "Használja ki az autóval való könnyű megközelíthetőséget egy rövid esti látogatásra, amikor a park útjai az alkonyatban már ünnepi fényben úsznak.",
+                "ro": "Profitați de accesul ușor cu mașina pentru o scurtă vizită de seară, când aleile parcului sunt luminate festiv în amurgul timpuriu.",
+                "en": "Take advantage of the easy car access for a short evening visit when the park paths are festively lit in the early winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

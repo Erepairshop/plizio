@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot az Ao Rai Le strandon, ahol a lágy reggeli fény megvilágítja az impozáns mészkősziklákat. Dél körül merüljön el a Phra Nang Nai barlang hűvös atmoszférájában, és csodálja meg a cseppköveket, mielőtt a Raile Tawan Ok mangrovestrand felé indul. Délután pihenjen a festői Ao Phra Nangon, és látogassa meg az egyedülálló Phra Nang szentélyt a különleges felajánlásokkal. Az estét a Ton Sai strandon zárja, miközben egy fantasztikus naplementében gyönyörködik.",
         "ro": "Începeți ziua la plaja Ao Rai Le, unde lumina blândă a dimineții iluminează stâncile impunătoare de calcar. Spre prânz, pătrundeți în atmosfera răcoroasă a Peșterii Phra Nang Nai pentru a admira stalactitele, înainte de a explora mangrovele de la Raile Tawan Ok. După-amiaza relaxați-vă pe pitorescul Ao Phra Nang și vizitați sanctuarul inedit Phra Nang cu ofrandele sale unice. Seara se încheie pe plaja Ton Sai, admirând un apus de soare fantastic pe fundalul stâncilor.",
         "en": "Start your day at Ao Rai Le Beach, where the soft morning light illuminates the imposing limestone cliffs, creating a truly magical atmosphere. Around midday, dive into the cool environment of the Phra Nang Nai Cave to admire the stunning stalactites before heading to the Raile Tawan Ok mangroves. In the afternoon, relax at the picturesque Ao Phra Nang and visit the fascinating Phra Nang Shrine with its unique wooden offerings. The evening ends beautifully at Ton Sai Beach with a stunning tropical sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Westküste, wo die Kalksteinfelsen im Regen besonders dramatisch wirken. Mittags bietet die Phra Nang Nai Höhle trockenen Unterschlupf und faszinierende Formationen. Am Nachmittag führt der Weg entlang der Mangroven im Osten, die im Dunst mystisch glühen. Der Abend klingt gemütlich in einer der überdachten Strandbars aus, während der Tropenregen auf das Meer peitscht.",
+            "hu": "A reggel a nyugati parton indul, ahol a mészkősziklák az esőben különösen drámai látványt nyújtanak. Délben a Phra Nang Nai barlang kínál száraz menedéket és lenyűgöző formációkat. Délután az út a keleti mangroveerdők mentén vezet, melyek a párában misztikus fényben úsznak. Az este egy fedett tengerparti bárban zárul, miközben a trópusi eső a tengert mossa.",
+            "ro": "Dimineața începe pe coasta de vest, unde stâncile de calcar par deosebit de dramatice în ploaie. La prânz, peștera Phra Nang Nai oferă adăpost uscat și formațiuni fascinante. După-amiaza, poteca duce de-a lungul mangrovelor din est, care strălucesc mistic în ceață. Seara se încheie confortabil într-un bar acoperit de pe plajă, în timp ce ploaia tropicală lovește marea.",
+            "en": "Morning begins on the west coast, where limestone cliffs look particularly dramatic in the rain. At noon, Phra Nang Nai Cave offers dry shelter and fascinating formations. In the afternoon, the path leads along the eastern mangroves, which glow mystically in the mist. The evening ends comfortably in a covered beach bar while tropical rain lashes the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Rai Le",
+                "hu": "Ao Rai Le",
+                "ro": "Ao Rai Le",
+                "en": "Ao Rai Le"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Cafés am Strandrand, um das Schauspiel der tiefhängenden Wolken über den Klippen trocken zu genießen.",
+                "hu": "Használja a part menti fedett kávézókat, hogy szárazon élvezhesse a sziklák felett alacsonyan szálló felhők látványát.",
+                "ro": "Folosiți cafenelele acoperite de la marginea plajei pentru a vă bucura de spectacolul norilor joși deasupra stâncilor fără a vă uda.",
+                "en": "Use the covered cafes along the beach edge to dryly enjoy the spectacle of low-hanging clouds over the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Nai Höhle",
+                "hu": "Phra Nang Nai barlang",
+                "ro": "Peștera Phra Nang Nai",
+                "en": "Phra Nang Nai Cave"
+              },
+              "tip_5lang": {
+                "de": "Diese Höhle ist der ideale Zufluchtsort bei Starkregen; bestaunen Sie die beleuchteten Stalaktiten in der sicheren, trockenen Tiefe.",
+                "hu": "Ez a barlang ideális menedék heves esőzés idején; csodálja meg a kivilágított sztalaktitokat a biztonságos, száraz mélyben.",
+                "ro": "Această peșteră este refugiul ideal în timpul ploilor abundente; admirați stalactitele iluminate în adâncurile sigure și uscate.",
+                "en": "This cave is the ideal refuge during heavy rain; marvel at the illuminated stalactites in the safe, dry depths."
+              }
+            },
+            {
+              "name": {
+                "de": "Raile Tawan Ok Strand",
+                "hu": "Raile Tawan Ok strand",
+                "ro": "Plaja Raile Tawan Ok",
+                "en": "Raile Tawan Ok Beach"
+              },
+              "tip_5lang": {
+                "de": "Der befestigte Weg ist auch bei Nässe gut begehbar; beobachten Sie, wie der Regen die Mangrovenwälder in ein tiefes Grün taucht.",
+                "hu": "A kiépített út nedvesen is jól járható; figyelje meg, ahogy az eső mélyzöldre festi a mangroveerdőket a parton.",
+                "ro": "Poteca pavată este ușor de parcurs chiar și când este umedă; observați cum ploaia vopsește pădurile de mangrove într-un verde intens.",
+                "en": "The paved path is easy to walk even when wet; observe how the rain paints the mangrove forests in a deep green."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phra Nang",
+                "hu": "Ao Phra Nang",
+                "ro": "Ao Phra Nang",
+                "en": "Ao Phra Nang"
+              },
+              "tip_5lang": {
+                "de": "Die hohen Überhänge am Ende des Strandes bieten natürlichen Schutz; ein magischer Ort, um dem Rauschen des warmen Regens zuzuhören.",
+                "hu": "A strand végén lévő magas sziklaáthajlások természetes védelmet nyújtanak; varázslatos hely a meleg eső kopogásának hallgatására.",
+                "ro": "Surplombele înalte de stâncă de la capătul plajei oferă protecție naturală; un loc magic pentru a asculta sunetul ploii calde.",
+                "en": "The high rock overhangs at the end of the beach offer natural protection; a magical place to listen to the sound of warm rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Schrein",
+                "hu": "Phra Nang szentély",
+                "ro": "Sanctuarul Phra Nang",
+                "en": "Phra Nang Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der in der Grotte gelegene Schrein bleibt stets trocken; nutzen Sie die Zeit für eine meditative Pause und betrachten Sie die Opfergaben.",
+                "hu": "A barlangmélyedésben elhelyezett szentély mindig száraz marad; használja az időt egy meditatív szünetre és az áldozati ajándékok megtekintésére.",
+                "ro": "Sanctuarul situat în grotă rămâne mereu uscat; folosiți timpul pentru o pauză meditativă și priviți ofrandele depuse.",
+                "en": "The shrine located in the grotto always stays dry; use the time for a meditative break and view the offerings."
+              }
+            },
+            {
+              "name": {
+                "de": "Ton Sai Strand",
+                "hu": "Ton Sai strand",
+                "ro": "Plaja Ton Sai",
+                "en": "Ton Sai Beach"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Pfad über die Klippen, er wird extrem rutschig; wählen Sie bei starkem Regen lieber den Weg per Longtail-Boot.",
+                "hu": "Vigyázat a sziklákon átvezető ösvényen, mert rendkívül csúszóssá válik; heves esőben válassza inkább a hajós közlekedést.",
+                "ro": "Atenție pe poteca peste stânci, devine extrem de alunecoasă; în caz de ploaie abundentă, alegeți mai degrabă transportul cu barca.",
+                "en": "Caution on the path over the cliffs, it becomes extremely slippery; in heavy rain, prefer taking a longtail boat instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der klare Wintermorgen empfängt Sie mit angenehm kühlen Temperaturen für die Erkundung der Westbucht. Mittags ist die Luftfeuchtigkeit niedrig, ideal für den kurzen Aufstieg zur Höhle. Am Nachmittag taucht die tiefstehende Sonne die Kalksteinfelsen in goldenes Licht. Da es bereits gegen 17:30 Uhr dunkel wird, bietet der frühe Abend den perfekten Moment für ein Dinner unter den Sternen.",
+            "hu": "A tiszta téli reggel kellemesen hűvös hőmérséklettel várja a nyugati öböl felfedezéséhez. Délben az alacsony páratartalom ideális a barlanghoz vezető rövid emelkedőhöz. Délután az alacsonyan járó nap arany fénybe vonja a mészkősziklákat. Mivel fél hat körül sötétedik, a kora este tökéletes alkalmat kínál egy csillagfényes vacsorához.",
+            "ro": "Dimineața senină de iarnă vă întâmpină cu temperaturi plăcute pentru explorarea golfului de vest. La prânz, umiditatea scăzută este ideală pentru urcarea scurtă spre peșteră. După-amiaza, soarele jos scaldă stâncile de calcar în lumină aurie. Deoarece se întunecă în jurul orei 17:30, seara devreme oferă momentul perfect pentru o cină sub stele.",
+            "en": "The clear winter morning greets you with pleasantly cool temperatures for exploring the west bay. At noon, low humidity is ideal for the short climb to the cave. In the afternoon, the low sun bathes the limestone cliffs in golden light. As it gets dark around 5:30 PM, the early evening offers the perfect moment for a dinner under the stars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Rai Le",
+                "hu": "Ao Rai Le",
+                "ro": "Ao Rai Le",
+                "en": "Ao Rai Le"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weichen Sand bei milden Temperaturen; die Wintersonne ist intensiv, daher ist Sonnenschutz trotz der Brise wichtig.",
+                "hu": "Élvezze a puha homokot az enyhe hőmérsékletben; a téli nap erős, így a szellő ellenére is fontos a napvédelem.",
+                "ro": "Bucurați-vă de nisipul moale la temperaturi blânde; soarele de iarnă este intens, așa că protecția solară este importantă în ciuda brizelor.",
+                "en": "Enjoy the soft sand in mild temperatures; the winter sun is intense, so sun protection is important despite the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Nai Höhle",
+                "hu": "Phra Nang Nai barlang",
+                "ro": "Peștera Phra Nang Nai",
+                "en": "Phra Nang Nai Cave"
+              },
+              "tip_5lang": {
+                "de": "Das kühlere Wetter macht die Erkundung der Höhle angenehmer, da die Luft im Inneren im Winter weniger drückend wirkt.",
+                "hu": "A hűvösebb időjárás kellemesebbé teszi a barlang felfedezését, mivel télen a benti levegő kevésbé nyomasztó.",
+                "ro": "Vremea mai răcoroasă face explorarea peșterii mai plăcută, deoarece aerul din interior pare mai puțin sufocant iarna.",
+                "en": "The cooler weather makes exploring the cave more pleasant, as the air inside feels less oppressive in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Raile Tawan Ok Strand",
+                "hu": "Raile Tawan Ok strand",
+                "ro": "Plaja Raile Tawan Ok",
+                "en": "Raile Tawan Ok Beach"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dies der beste Ort für einen morgendlichen Spaziergang, wenn die Ostbrise für eine natürliche Erfrischung sorgt.",
+                "hu": "Télen ez a legjobb hely egy reggeli sétához, amikor a keleti szellő természetes felfrissülést nyújt a parton.",
+                "ro": "Iarna, acesta este cel mai bun loc pentru o plimbare matinală, când briza din est oferă o răcorire naturală pe plajă.",
+                "en": "In winter, this is the best place for a morning walk when the east breeze provides natural refreshment on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phra Nang",
+                "hu": "Ao Phra Nang",
+                "ro": "Ao Phra Nang",
+                "en": "Ao Phra Nang"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh am Nachmittag hierher, da die hohen Klippen den Strand im Winter schon ab 16 Uhr komplett beschatten.",
+                "hu": "Érkezzen korán délután, mert a magas sziklák télen már délután 4 órától teljesen árnyékba borítják a partot.",
+                "ro": "Veniți devreme după-amiaza, deoarece stâncile înalte umbresc complet plaja încă de la ora 16:00 în timpul iernii.",
+                "en": "Arrive early in the afternoon, as the high cliffs completely shade the beach as early as 4 PM in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Schrein",
+                "hu": "Phra Nang szentély",
+                "ro": "Sanctuarul Phra Nang",
+                "en": "Phra Nang Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet den Schrein am späten Nachmittag in einem warmen Licht, perfekt für stimmungsvolle Fotos.",
+                "hu": "Az alacsonyan járó téli nap késő délután meleg fénybe vonja a szentélyt, ami tökéletes a hangulatos fotók készítéséhez.",
+                "ro": "Soarele jos de iarnă luminează sanctuarul într-o lumină caldă la sfârșitul după-amiezii, perfect pentru fotografii atmosferice.",
+                "en": "The low winter sun illuminates the shrine in a warm light in the late afternoon, perfect for atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Ton Sai Strand",
+                "hu": "Ton Sai strand",
+                "ro": "Plaja Ton Sai",
+                "en": "Ton Sai Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht bis zum Ende aus; nach 17 Uhr kühlt es im Schatten der Felsen spürbar ab, bringen Sie ein leichtes Tuch mit.",
+                "hu": "Használja ki a nappali fényt a végéig; 17 óra után a sziklák árnyékában érezhetően hűl a levegő, vigyen magával egy kendőt.",
+                "ro": "Profitați de lumina zilei până la capăt; după ora 17:00 se răcește vizibil la umbra stâncilor, aduceți o eșarfă ușoară.",
+                "en": "Make the most of the daylight until the end; after 5 PM it cools down noticeably in the shade of the rocks, bring a light wrap."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A délelőtt békésen indul a csendes Little Rai Ley East strandon, majd a Phra Nang Nai barlang lenyűgöző formációinak felfedezésével folytatódik. Dél körül bejárja a Tufa barlangot a hűvös árnyékban, majd tovább kerékpározik a nyüzsgő Ao Rai Le felé. A délután festői utazást kínál a Raile Tawan Ok mangrovezdejéhez, amely tiszta kikapcsolódást nyújt. Este élvezheti a puha homokot és az Ao Phra Nang látványos naplementéjét a trópusi tengerparton.",
         "ro": "Dimineața începe pașnic pe plaja liniștită Little Rai Ley East, explorând apoi formațiunile spectaculoase din Peștera Phra Nang Nai. La prânz explorați structurile fascinante din Peștera Tufa la umbră răcoroasă și pedalați mai departe spre animatul Ao Rai Le. După-amiaza vă oferă o plimbare pitorească spre pădurea de mangrove de la Raile Tawan Ok, perfectă pentru relaxare. Seara bucurați-vă de nisipul fin și de apusul spectaculos pe fundalul tropical de la Ao Phra Nang.",
         "en": "The morning starts peacefully at the quiet Little Rai Ley East Beach before cycling towards the impressive natural formations of the Phra Nang Nai Cave. Around midday, explore the fascinating rock structures of the Tufa Cave in the cool shade, then ride on to the lively Ao Rai Le. The afternoon offers a highly scenic journey along the mangrove forests at Raile Tawan Ok, perfect for nature lovers. In the evening, soak in the stunning sunset views and soft sands at the iconic Ao Phra Nang beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am östlichen Ende, wo die Wege von dichten, nassen Palmen gesäumt sind. Mittags bietet die Höhlentour eine willkommene Pause vom Regen. Die Route führt nachmittags über befestigte Pfade, die auch bei Nässe sicher befahrbar sind. Der Abend endet in der Nähe der Pier, wo Sie schnell ein trockenes Plätzchen in den gemütlichen Lokalen finden.",
+            "hu": "A nap a keleti végén indul, ahol az utakat sűrű, vizes pálmák szegélyezik. Délben a barlangi túra szívesen látott szünetet jelent az esőben. A délutáni útvonal kiépített ösvényeken halad, melyek nedvesen is biztonságosak. Az este a móló közelében zárul, ahol gyorsan száraz helyet találhat a hangulatos vendéglőkben.",
+            "ro": "Ziua începe la capătul estic, unde potecile sunt mărginite de palmieri deși și uzi. La prânz, turul peșterii oferă o pauză binevenită de ploaie. Traseul de după-amiază urmează poteci pavate, sigure chiar și pe ploaie. Seara se încheie lângă debarcader, unde puteți găsi rapid un loc uscat în localurile primitoare.",
+            "en": "The day begins at the eastern end, where paths are lined with dense, wet palms. At noon, the cave tour offers a welcome break from the rain. The afternoon route follows paved paths that are safe even when wet. The evening ends near the pier, where you can quickly find a dry spot in the cozy restaurants."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Little Rai Ley East Strand",
+                "hu": "Little Rai Ley East strand",
+                "ro": "Plaja Little Rai Ley East",
+                "en": "Little Rai Ley East Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den Uferwegen; die Mangroven bieten hier einen interessanten Anblick im grauen Regenwetter.",
+                "hu": "Ügyeljen a tócsákra a parti utakon; a mangroveerdők itt érdekes látványt nyújtanak a szürke esős időben is.",
+                "ro": "Atenție la bălțile de pe potecile de pe mal; mangrovele oferă aici o priveliște interesantă chiar și pe vreme gri de ploaie.",
+                "en": "Watch out for puddles on the shore paths; the mangroves offer an interesting sight here even in gray rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Nai Höhle",
+                "hu": "Phra Nang Nai barlang",
+                "ro": "Peștera Phra Nang Nai",
+                "en": "Phra Nang Nai Cave"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Vordächern am Eingang und genießen Sie die trockene, faszinierende Welt der Tropfsteine.",
+                "hu": "Parkolja le kerékpárját a bejáratnál lévő előtetők alatt, és élvezze a cseppkövek száraz, lenyűgöző világát.",
+                "ro": "Parcați bicicleta sub copertinele de la intrare și bucurați-vă de lumea uscată și fascinantă a stalactitelor.",
+                "en": "Park your bike under the overhangs at the entrance and enjoy the dry, fascinating world of stalactites."
+              }
+            },
+            {
+              "name": {
+                "de": "Tufa Höhle",
+                "hu": "Tufa barlang",
+                "ro": "Peștera Tufa",
+                "en": "Tufa Cave"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber effektiver Stopp, um einen kräftigen Schauer abzuwarten; die Felsformationen sind hier besonders bizarr.",
+                "hu": "Rövid, de hatékony megálló egy heves zápor kivárására; a sziklaalakzatok itt különösen bizarr látványt nyújtanak.",
+                "ro": "O oprire scurtă dar eficientă pentru a aștepta trecerea unei averse; formațiunile stâncoase sunt deosebit de bizare aici.",
+                "en": "A short but effective stop to wait out a heavy shower; the rock formations here are particularly bizarre."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Rai Le",
+                "hu": "Ao Rai Le",
+                "ro": "Ao Rai Le",
+                "en": "Ao Rai Le"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den sandigen Verbindungen, da das Rad leicht wegrutschen kann; genießen Sie den dramatischen Blick auf das Meer.",
+                "hu": "Hajtson óvatosan a homokos összekötő utakon, mert a kerék könnyen megcsúszhat; élvezze a drámai kilátást a tengerre.",
+                "ro": "Conduceți cu atenție pe porțiunile nisipoase, deoarece roata poate aluneca ușor; bucurați-vă de vederea dramatică spre mare.",
+                "en": "Drive carefully on the sandy connections as the wheel can slip easily; enjoy the dramatic view of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Raile Tawan Ok Strand",
+                "hu": "Raile Tawan Ok strand",
+                "ro": "Plaja Raile Tawan Ok",
+                "en": "Raile Tawan Ok Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Gehweg für eine bequeme Fahrt zurück zum Zentrum, während es draußen warm regnet.",
+                "hu": "Használja a fedett járdát a kényelmes visszatéréshez a központba, miközben odakint meleg eső esik.",
+                "ro": "Folosiți trotuarul acoperit pentru o întoarcere confortabilă spre centru în timp ce afară plouă cald.",
+                "en": "Use the covered walkway for a comfortable ride back to the center while it rains warmly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phra Nang",
+                "hu": "Ao Phra Nang",
+                "ro": "Ao Phra Nang",
+                "en": "Ao Phra Nang"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und suchen Sie Schutz unter den riesigen Felswänden, die wie natürliche Regenschirme fungieren.",
+                "hu": "Állítsa le biztonságosan a kerékpárt, és keressen menedéket a hatalmas sziklafalak alatt, melyek természetes esernyőként védenek.",
+                "ro": "Parcați bicicleta în siguranță și căutați adăpost sub pereții uriași de stâncă, care funcționează ca umbrele naturale.",
+                "en": "Park your bike safely and seek shelter under the huge rock walls that act as natural umbrellas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen lädt zu einer entspannten Radtour durch das Railay-Resort ein. Mittags ist die Sonne stark, aber die geringe Luftfeuchtigkeit macht die Fahrt zwischen den Höhlen sehr angenehm. Am Nachmittag leuchten die Felsen im warmen Abendlicht. Denken Sie an die frühe Dämmerung ab 17 Uhr und beenden Sie Ihre Tour rechtzeitig für den Sonnenuntergang am Strand.",
+            "hu": "A hűvös téli reggel pihentető kerékpározásra csábít a Railay üdülőhelyen keresztül. Délben erős a nap, de az alacsony páratartalom kellemessé teszi a barlangok közötti utat. Délután a sziklák meleg esti fényben ragyognak. Ügyeljen a korai sötétedésre 17 órától, és fejezze be időben a túrát a tengerparti naplementéhez.",
+            "ro": "Dimineața răcoroasă de iarnă vă invită la o plimbare relaxantă cu bicicleta prin complexul Railay. La prânz soarele este puternic, dar umiditatea scăzută face drumul între peșteri foarte plăcut. După-amiaza, stâncile strălucesc în lumina caldă a serii. Atenție la amurgul timpuriu de la ora 17:00 și încheiați turul la timp pentru apusul pe plajă.",
+            "en": "The cool winter morning invites you to a relaxing bike ride through the Railay resort. At noon the sun is strong, but low humidity makes the ride between caves very pleasant. In the afternoon the rocks glow in the warm evening light. Be mindful of the early dusk starting at 5 PM and finish your tour in time for the sunset on the beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Little Rai Ley East Strand",
+                "hu": "Little Rai Ley East strand",
+                "ro": "Plaja Little Rai Ley East",
+                "en": "Little Rai Ley East Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die erfrischende Meeresbrise am Morgen; im Winter ist der Weg hier besonders staubfrei und angenehm zu befahren.",
+                "hu": "Élvezze a frissítő tengeri szellőt reggel; télen az út itt különösen pormentes és kellemesen tekerhető.",
+                "ro": "Bucurați-vă de briza revigorantă a mării dimineața; iarna, drumul de aici este deosebit de lipsit de praf și plăcut pentru ciclism.",
+                "en": "Enjoy the refreshing sea breeze in the morning; in winter the path here is particularly dust-free and pleasant to ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Nai Höhle",
+                "hu": "Phra Nang Nai barlang",
+                "ro": "Peștera Phra Nang Nai",
+                "en": "Phra Nang Nai Cave"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Kontrast zwischen der warmen Außenluft und dem kühlen Höhleninneren besonders erfrischend nach der Fahrt.",
+                "hu": "Télen a meleg kinti levegő és a barlang hűvös belseje közötti kontraszt különösen frissítő a kerékpározás után.",
+                "ro": "Iarna, contrastul dintre aerul cald de afară și interiorul răcoros al peșterii este deosebit de revigorant după plimbare.",
+                "en": "In winter, the contrast between the warm outside air and the cool cave interior is particularly refreshing after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Tufa Höhle",
+                "hu": "Tufa barlang",
+                "ro": "Peștera Tufa",
+                "en": "Tufa Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen spenden hier wertvollen Schatten für eine kurze Trinkpause während der sonnigen Mittagsstunden im Winter.",
+                "hu": "A sziklák itt értékes árnyékot adnak egy rövid ivószünethez a napsütéses téli déli órákban.",
+                "ro": "Stâncile oferă aici umbră prețioasă pentru o scurtă pauză de hidratare în timpul orelor însorite de prânz ale iernii.",
+                "en": "The rocks provide valuable shade here for a short water break during the sunny winter midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Rai Le",
+                "hu": "Ao Rai Le",
+                "ro": "Ao Rai Le",
+                "en": "Ao Rai Le"
+              },
+              "tip_5lang": {
+                "de": "Der Hauptstrand ist im Winter belebt; stellen Sie Ihr Rad etwas abseits ab, um den freien Blick auf die Boote zu genießen.",
+                "hu": "A főstrand télen élettel teli; parkolja le kerékpárját kicsit távolabb, hogy zavartalanul élvezhesse a kilátást a hajókra.",
+                "ro": "Plaja principală este plină de viață iarna; parcați bicicleta puțin mai departe pentru a vă bucura de vederea liberă spre bărci.",
+                "en": "The main beach is lively in winter; park your bike a bit further away to enjoy the unobstructed view of the boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Raile Tawan Ok Strand",
+                "hu": "Raile Tawan Ok strand",
+                "ro": "Plaja Raile Tawan Ok",
+                "en": "Raile Tawan Ok Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefstehende Sonne für Fotos der Pier-Anlage; im Winter ist das Licht hier besonders weich und fotogen.",
+                "hu": "Használja ki az alacsonyan járó napot a móló fotózásához; télen a fény itt különösen lágy és fotogén.",
+                "ro": "Profitați de soarele jos pentru fotografii ale debarcaderului; iarna, lumina de aici este deosebit de blândă și fotogenică.",
+                "en": "Use the low sun for photos of the pier area; in winter the light here is particularly soft and photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Phra Nang",
+                "hu": "Ao Phra Nang",
+                "ro": "Ao Phra Nang",
+                "en": "Ao Phra Nang"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier rechtzeitig; da die Sonne im Winter früh untergeht, ist dies der beste Ort für den Tagesabschluss.",
+                "hu": "Fejezze be itt időben a túrát; mivel télen korán nyugszik a nap, ez a legjobb hely a nap lezárására.",
+                "ro": "Încheiați turul aici la timp; deoarece soarele apune devreme iarna, acesta este cel mai bun loc pentru sfârșitul zilei.",
+                "en": "Finish your tour here in time; as the sun sets early in winter, this is the best place for the end of the day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "A napot a Khao Ao Nam Mao tágas kilátásával kezdi, majd a lenyűgöző Khao Ao Nang sziklaformációihoz vezet az útja. Délben röviden elmerül a Tufa barlang hűvösségében, mielőtt a nyüzsgő Ton Sai strandon ebédelne egy hangulatos helyen. Délután az Ao Rai Le kék vize és egy pihentető séta várja a Raile Tawan Ok strandon. A nap varázslatosan ér véget a Phra Nang szentélynél, ahol a hagyományok és a lélegzetelállító tengerpart találkozik egy lenyűgöző naplementében.",
         "ro": "Începeți ziua admirând priveliștile largi de la Khao Ao Nam Mao, continuând apoi spre spectaculosul Khao Ao Nang. La prânz vă răcoriți scurt în Peștera Tufa, înainte de a vizita plaja animată Ton Sai pentru un prânz relaxant la malul mării. După-amiaza vă așteaptă apele albastre de la Ao Rai Le și o scurtă plimbare pe Raile Tawan Ok. Ziua se încheie magic la sanctuarul Phra Nang, unde tradițiile locale și o plajă absolut uluitoare creează un apus de soare de neuitat.",
         "en": "You begin the day with the sweeping panoramic views from Khao Ao Nam Mao before continuing your scenic drive to the spectacular Khao Ao Nang. At midday, briefly cool off in the unique Tufa Cave before heading to the vibrant Ton Sai Beach for a relaxed beachfront lunch. The afternoon brings the crystal-blue waters of Ao Rai Le and a serene walk at Raile Tawan Ok. The day concludes magically at the Phra Nang Shrine, where local tradition and a breathtaking beach landscape perfectly intertwine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Hinterland von Ao Nam Mao, wo der Regen den Dschungel in sattem Grün leuchten lässt. Mittags bietet die Tufa-Höhle einen trockenen Stopp mit spektakulären Felsformationen. Nachmittags erkunden wir die Küstenstraße, die bei Regen oft menschenleer und mystisch ist. Der Abend endet am Phra Nang Schrein, wo die Grotte sicheren Schutz vor dem monsunartigen Guss bietet.",
+            "hu": "Az út Ao Nam Mao hátországában indul, ahol az eső harsány zöldre festi a dzsungelt. Délben a Tufa barlang kínál száraz megállót látványos sziklaalakzatokkal. Délután a tengerparti utat fedezzük fel, amely esőben gyakran néptelen és misztikus. Az este a Phra Nang szentélynél zárul, ahol a sziklaüreg biztonságos védelmet nyújt a monszunszerű eső elől.",
+            "ro": "Călătoria începe în hinterlandul Ao Nam Mao, unde ploaia face jungla să strălucească într-un verde intens. La prânz, peștera Tufa oferă o oprire uscată cu formațiuni spectaculoase. După-amiaza explorăm drumul de coastă, care pe ploaie este adesea pustiu și mistic. Seara se încheie la sanctuarul Phra Nang, unde grota oferă protecție sigură împotriva ploii torențiale.",
+            "en": "The journey begins in the hinterland of Ao Nam Mao, where the rain makes the jungle shine in lush green. At noon, the Tufa cave offers a dry stop with spectacular rock formations. In the afternoon we explore the coastal road, which is often deserted and mystical in the rain. The evening ends at the Phra Nang shrine, where the grotto offers safe protection from the monsoon-like downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khao Ao Nam Mao",
+                "hu": "Khao Ao Nam Mao",
+                "ro": "Khao Ao Nam Mao",
+                "en": "Khao Ao Nam Mao"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nebelverhangenen Berge aus dem trockenen Fahrzeug; die Landschaft wirkt im Regen besonders wild.",
+                "hu": "Élvezze a ködbe burkolózó hegyek látványát a száraz autóból; a táj esőben különösen vadregényes arcát mutatja.",
+                "ro": "Bucurați-vă de vederea munților învăluiți în ceață din vehiculul uscat; peisajul pare deosebit de sălbatic în ploaie.",
+                "en": "Enjoy the view of the mist-shrouded mountains from the dry vehicle; the landscape looks particularly wild in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Ao Nang",
+                "hu": "Khao Ao Nang",
+                "ro": "Khao Ao Nang",
+                "en": "Khao Ao Nang"
+              },
+              "tip_5lang": {
+                "de": "Kurze Fotostopps sind möglich; die steilen Klippen von Ao Nang wirken bei Regen durch die tiefziehenden Wolken noch gewaltiger.",
+                "hu": "Rövid fotómegállók lehetségesek; Ao Nang meredek sziklái esőben az alacsony felhők miatt még hatalmasabbnak tűnnek.",
+                "ro": "Sunt posibile scurte opriri pentru fotografii; stâncile abrupte din Ao Nang par și mai impunătoare în ploaie din cauza norilor joși.",
+                "en": "Short photo stops are possible; the steep cliffs of Ao Nang look even more massive in the rain due to the low-hanging clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Tufa Höhle",
+                "hu": "Tufa barlang",
+                "ro": "Peștera Tufa",
+                "en": "Tufa Cave"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen kräftigen Schauer im Trockenen zu verbringen und die bizarren Kalksteinüberhänge zu bewundern.",
+                "hu": "Ideális hely egy heves zápor szárazon való kivárására, miközben megcsodálhatja a bizarr mészkőáthajlásokat.",
+                "ro": "Un loc ideal pentru a petrece o aversă puternică la adăpost, admirând surplombele bizare de calcar.",
+                "en": "An ideal place to spend a heavy shower in the dry and admire the bizarre limestone overhangs."
+              }
+            },
+            {
+              "name": {
+                "de": "Ton Sai Strand",
+                "hu": "Ton Sai strand",
+                "ro": "Plaja Ton Sai",
+                "en": "Ton Sai Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in den überdachten Bereichen der Beach-Bars; der Regen sorgt hier für eine entspannte, fast meditative Atmosphäre.",
+                "hu": "Maradjon a tengerparti bárok fedett részein; az eső itt nyugodt, szinte meditatív hangulatot teremt a parton.",
+                "ro": "Rămâneți în zonele acoperite ale barurilor de pe plajă; ploaia creează aici o atmosferă relaxată, aproape meditativă.",
+                "en": "Stay in the covered areas of the beach bars; the rain creates a relaxed, almost meditative atmosphere here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Rai Le",
+                "hu": "Ao Rai Le",
+                "ro": "Ao Rai Le",
+                "en": "Ao Rai Le"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés bieten den perfekten Logenplatz, um das Peitschen der Wellen und den warmen Tropenregen auf dem Meer zu beobachten.",
+                "hu": "A kávézók tökéletes páholyt kínálnak a hullámverés és a tengerre hulló meleg trópusi eső megfigyeléséhez.",
+                "ro": "Cafenelele oferă locul perfect pentru a observa valurile și ploaia tropicală caldă căzând peste mare.",
+                "en": "The cafes offer the perfect ringside seat to watch the crashing waves and the warm tropical rain on the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Raile Tawan Ok Strand",
+                "hu": "Raile Tawan Ok strand",
+                "ro": "Plaja Raile Tawan Ok",
+                "en": "Raile Tawan Ok Beach"
+              },
+              "tip_5lang": {
+                "de": "Der betonierte Weg ermöglicht einen trockenen Transfer; genießen Sie die Aussicht auf die Mangroven im Regen.",
+                "hu": "A betonozott út száraz közlekedést tesz lehetővé; élvezze a kilátást az esőben ázó mangroveerdőkre.",
+                "ro": "Drumul betonat permite un transfer uscat; bucurați-vă de priveliștea mangrovelor sub ploaie.",
+                "en": "The paved road allows for dry transfer; enjoy the view of the mangroves in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Schrein",
+                "hu": "Phra Nang szentély",
+                "ro": "Sanctuarul Phra Nang",
+                "en": "Phra Nang Shrine"
+              },
+              "tip_5lang": {
+                "de": "In der tiefen Grotte sind Sie absolut sicher vor dem Regen; lauschen Sie den Legenden an diesem mystischen Ort.",
+                "hu": "A mély sziklaüregben teljesen biztonságban van az esőtől; hallgassa meg a legendákat ezen a misztikus helyen.",
+                "ro": "În grota adâncă sunteți în deplină siguranță de ploaie; ascultați legendele în acest loc mistic.",
+                "en": "In the deep grotto, you are absolutely safe from the rain; listen to the legends in this mystical place."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen ist ideal für die Fahrt durch die Karstlandschaft von Ao Nam Mao. Mittags genießen wir die trockene, klare Luft bei den Stopps an den Höhlen. Am Nachmittag leuchten die Buchten unter der tiefstehenden Sonne in kräftigen Blautönen. Beenden Sie den Tag frühzeitig am Phra Nang Schrein, da die Dunkelheit im Winter schon vor 18 Uhr einsetzt.",
+            "hu": "A ragyogó téli reggel ideális az Ao Nam Mao karsztvidékén való autózáshoz. Délben a száraz, tiszta levegőt élvezzük a barlangoknál tett megállóknál. Délután az öblök az alacsonyan járó nap alatt mélykék színekben tündökölnek. Zárja a napot korán a Phra Nang szentélynél, mert télen már 18 óra előtt besötétedik.",
+            "ro": "O dimineață strălucitoare de iarnă este ideală pentru a conduce prin peisajul carstic din Ao Nam Mao. La prânz ne bucurăm de aerul uscat și curat în timpul opririlor la peșteri. După-amiaza, golful strălucește în nuanțe intense de albastru sub soarele jos. Încheiați ziua devreme la sanctuarul Phra Nang, deoarece iarna se întunecă înainte de ora 18:00.",
+            "en": "A brilliant winter morning is ideal for driving through the karst landscape of Ao Nam Mao. At noon we enjoy the dry, clear air during stops at the caves. In the afternoon, the bays shine in deep blue tones under the low sun. End the day early at the Phra Nang shrine, as darkness sets in before 6 PM in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khao Ao Nam Mao",
+                "hu": "Khao Ao Nam Mao",
+                "ro": "Khao Ao Nam Mao",
+                "en": "Khao Ao Nam Mao"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für Panoramafotos; im Winter ist die Sicht auf die Bucht von hier aus besonders klar.",
+                "hu": "Használja ki a hűvös reggeli levegőt panorámafotókhoz; télen a kilátás az öbölre innen különösen tiszta.",
+                "ro": "Profitați de aerul răcoros al dimineții pentru fotografii panoramice; iarna, vizibilitatea asupra golfului este deosebit de clară de aici.",
+                "en": "Take advantage of the cool morning air for panoramic photos; in winter the view of the bay from here is particularly clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Ao Nang",
+                "hu": "Khao Ao Nang",
+                "ro": "Khao Ao Nang",
+                "en": "Khao Ao Nang"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die Kalksteinwände golden erstrahlen; ein kurzer Spaziergang am Aussichtspunkt ist jetzt sehr angenehm.",
+                "hu": "A téli nap aranylóan világítja meg a mészkőfalakat; egy rövid séta a kilátónál most nagyon kellemes.",
+                "ro": "Soarele de iarnă face pereții de calcar să strălucească auriu; o scurtă plimbare la punctul de belvedere este acum foarte plăcută.",
+                "en": "The winter sun makes the limestone walls glow golden; a short walk at the viewpoint is very pleasant now."
+              }
+            },
+            {
+              "name": {
+                "de": "Tufa Höhle",
+                "hu": "Tufa barlang",
+                "ro": "Peștera Tufa",
+                "en": "Tufa Cave"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Luft im Inneren als Kontrast zur Mittagssonne; im Winter ist die Luftfeuchtigkeit hier angenehm niedrig.",
+                "hu": "Élvezze a benti hűvös levegőt a déli nap ellenpontjaként; télen a páratartalom itt kellemesen alacsony.",
+                "ro": "Bucurați-vă de aerul răcoros din interior ca contrast cu soarele de prânz; iarna, umiditatea este aici plăcut de scăzută.",
+                "en": "Enjoy the cool air inside as a contrast to the midday sun; in winter the humidity here is pleasantly low."
+              }
+            },
+            {
+              "name": {
+                "de": "Ton Sai Strand",
+                "hu": "Ton Sai strand",
+                "ro": "Plaja Ton Sai",
+                "en": "Ton Sai Beach"
+              },
+              "tip_5lang": {
+                "de": "Ideal für ein entspanntes Mittagessen im Freien; die Winterbrise macht das Sitzen am Strand auch ohne Klimaanlage perfekt.",
+                "hu": "Ideális egy pihentető szabadtéri ebédhez; a téli szellő tökéletessé teszi a parton való időzést légkondicionáló nélkül is.",
+                "ro": "Ideal pentru un prânz relaxat în aer liber; briza de iarnă face șederea pe plajă perfectă chiar și fără aer condiționat.",
+                "en": "Ideal for a relaxed outdoor lunch; the winter breeze makes sitting on the beach perfect even without air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Rai Le",
+                "hu": "Ao Rai Le",
+                "ro": "Ao Rai Le",
+                "en": "Ao Rai Le"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht am Nachmittag perfekt für Fotos der Bucht; denken Sie an Sonnenschutz für den Strandspaziergang.",
+                "hu": "A téli nap délután tökéletesen áll az öböl fotózásához; ne feledkezzen meg a napvédelemről a tengerparti sétához.",
+                "ro": "Soarele de iarnă este perfect după-amiaza pentru fotografii ale golfului; nu uitați protecția solară pentru plimbarea pe plajă.",
+                "en": "The winter sun is perfectly positioned in the afternoon for photos of the bay; remember sun protection for your beach walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Raile Tawan Ok Strand",
+                "hu": "Raile Tawan Ok strand",
+                "ro": "Plaja Raile Tawan Ok",
+                "en": "Raile Tawan Ok Beach"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die frische Ostbrise am Nachmittag; im Winter ist die Luft hier besonders belebend für einen kurzen Zwischenstopp.",
+                "hu": "Érezze a friss keleti szellőt délután; télen a levegő itt különösen élénkítő egy rövid megállóhoz.",
+                "ro": "Simțiți briza proaspătă de est după-amiaza; iarna, aerul de aici este deosebit de revigorant pentru o scurtă oprire.",
+                "en": "Feel the fresh east breeze in the afternoon; in winter the air here is particularly invigorating for a short stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra Nang Schrein",
+                "hu": "Phra Nang szentély",
+                "ro": "Sanctuarul Phra Nang",
+                "en": "Phra Nang Shrine"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um die heiligen Grotten im letzten Sonnenlicht des Tages zu erleben, bevor es im Winter kühl wird.",
+                "hu": "Érkezzen 17 óra előtt, hogy láthassa a szent barlangokat a nap utolsó fényében, mielőtt télen lehűlne a levegő.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea grotele sacre în ultima lumină a zilei, înainte ca aerul să se răcească iarna.",
+                "en": "Arrive before 5 PM to see the sacred grottoes in the last light of the day before it gets cool in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

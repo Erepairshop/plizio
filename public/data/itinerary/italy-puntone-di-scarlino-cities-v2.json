@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi történelem felfedezésével a MAPS múzeumban, majd csodálja meg a közeli római villa ősi romjait. A dél tökéletes a tengerparti pihenésre, először a nyüzsgő kutyabarát strandon, majd a Puntone Beach puha homokján. Délután élvezze a festői sétát a Spiaggia Darsena mentén a kikötőben. Zárja aktív napját izgalmas csúszdákkal és családi szórakozással a Parco Acquatico Splash víziparkban.",
         "ro": "Începeți dimineața explorând istoria locală la muzeul MAPS, înainte de a admira ruinele antice ale Vilei Romane din apropiere. Amiaza este perfectă pentru relaxare pe coastă, vizitând mai întâi plaja pentru câini și apoi nisipul de la Puntone Beach. După-amiaza, bucurați-vă de o plimbare pitorească de-a lungul Spiaggia Darsena, lângă portul de agrement. Încheiați ziua activă cu tobogane palpitante la Parco Acquatico Splash.",
         "en": "Start your morning exploring the local history at the MAPS museum before marveling at the ancient ruins of the nearby Roman Villa. Midday is perfect for coastal relaxation, first visiting the vibrant dog-friendly beach and then settling on the soft sands of Puntone Beach. In the afternoon, enjoy a picturesque stroll along Spiaggia Darsena by the marina. Conclude your active day with thrilling slides and family fun at Parco Acquatico Splash."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im MAPS-Museum, wo Sie die Geschichte der Region trocken erkunden können. Mittags führt der Weg zur Villa Romana, wobei feste Schuhe für die nassen Pfade ratsam sind. Am Nachmittag erleben Sie die dramatische Atmosphäre der regnerischen Strände am Puntone und Darsena unter dem Schirm. Der Abend klingt ruhig am Hafen aus, während der Regen auf die Masten prasselt.",
+            "hu": "A reggel a MAPS múzeum fedett falai között indul, tökéletes menedéket nyújtva az eső elől. Délben a Villa Romana romjai között sétálunk, ahol a vizes kövek csúszósak lehetnek, így óvatosság ajánlott. Délután a tengerparti szakaszokon a viharos tenger látványa dominál az esernyő alól nézve. Az este a kikötő környékén ér véget, ahol a vizes aszfalt tükrözi a város fényeit.",
+            "ro": "Dimineața începe la adăpost în muzeul MAPS, explorând istoria locală fără a vă uda. La prânz, vizităm Villa Romana, unde potecile pot fi noroioase, deci purtați încălțăminte adecvată. După-amiaza este dedicată plajelor Puntone și Darsena, admirând marea agitată sub protecția umbrelei. Seara se încheie liniștit în zona portului, ascultând sunetul ploii pe ambarcațiuni.",
+            "en": "The morning starts under cover at the MAPS museum, perfect for staying dry while exploring. At noon, the walk continues to Villa Romana, where sturdy shoes are needed for the damp paths. In the afternoon, enjoy the dramatic views of Puntone and Darsena beaches from beneath an umbrella. The evening concludes peacefully by the harbor, with rain reflecting the ambient port lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MAPS",
+                "hu": "MAPS",
+                "ro": "MAPS",
+                "en": "MAPS"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für die archäologischen Schätze im Trockenen; bringen Sie einen großen Schirm für den kurzen Weg zum Eingang mit.",
+                "hu": "Használja ki a délelőttöt a régészeti kincsek felfedezésére a szárazon; vigyen egy nagy esernyőt a bejárathoz vezető rövid útra.",
+                "ro": "Profită de dimineață pentru a vedea comorile arheologice la adăpost; adu o umbrelă mare pentru scurta plimbare până la intrare.",
+                "en": "Take advantage of the morning to explore archaeological treasures in the dry; bring a large umbrella for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mosaike wirken im Regen besonders kontrastreich; achten Sie auf den rutschigen Boden bei den Außenanlagen der Ruinen.",
+                "hu": "Az ókori mozaikok színei intenzívebbek az esőben; ügyeljen a csúszós talajra a romkert szabadtéri szakaszain és a köves utakon.",
+                "ro": "Mozaicurile antice par mai contrastate în ploaie; aveți grijă la solul alunecos din secțiunile exterioare ale ruinelor romane.",
+                "en": "The ancient mosaics look particularly vibrant in the rain; watch out for the slippery ground in the outdoor sections of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "spiaggia cani",
+                "hu": "spiaggia cani",
+                "ro": "spiaggia cani",
+                "en": "spiaggia cani"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Spaziergang im Regen zeigt die wilde Seite der Küste; wasserfeste Schuhe sind hier wegen des nassen Sandes Pflicht.",
+                "hu": "Egy rövid, frissítő séta az esőben megmutatja a part vad oldalát; a vizes homok miatt a vízálló cipő viselése itt elengedhetetlen.",
+                "ro": "O scurtă plimbare revigorantă în ploaie arată latura sălbatică a coastei; pantofii impermeabili sunt obligatorii din cauza nisipului ud.",
+                "en": "A short, refreshing walk in the rain reveals the wild side of the coast; waterproof shoes are essential here due to the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Puntone Beach",
+                "hu": "Puntone Beach",
+                "ro": "Puntone Beach",
+                "en": "Puntone Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die grauen Wellen von einem geschützten Punkt aus; die regnerische Ruhe am Strand bietet eine ganz besondere Melancholie.",
+                "hu": "Figyelje a szürke hullámokat egy védett pontról; a tengerparti eső és a csend különleges, melankolikus hangulatot áraszt a látogatóknak.",
+                "ro": "Observați valurile cenușii dintr-un punct protejat; liniștea ploioasă de pe plajă oferă o stare de melancolie cu totul specială.",
+                "en": "Observe the grey waves from a sheltered spot; the rainy silence on the beach offers a very special, melancholic atmosphere for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Darsena",
+                "hu": "Spiaggia Darsena",
+                "ro": "Spiaggia Darsena",
+                "en": "Spiaggia Darsena"
+              },
+              "tip_5lang": {
+                "de": "Die Boote im Hafen wiegen sich sanft im Regen; ideal für Fotos der nebligen Küstenlinie, wenn Sie Ihre Kamera gut vor Nässe schützen.",
+                "hu": "A kikötő hajói lágyan ringatóznak az esőben; ideális helyszín a ködös partvonal fotózására, ha megfelelően védi a gépét a víztől.",
+                "ro": "Bărcile din port se leagănă ușor în ploaie; ideal pentru fotografii ale coastei cețoase, dacă vă protejați bine aparatul foto.",
+                "en": "The boats in the harbor sway gently in the rain; ideal for photos of the misty coastline if you protect your camera from the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Splash",
+                "hu": "Parco Acquatico Splash",
+                "ro": "Parco Acquatico Splash",
+                "en": "Parco Acquatico Splash"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn die Becken bei Regen weniger locken, ist die Anlage ein interessanter Anblick; halten Sie sich auf den befestigten Wegen auf.",
+                "hu": "Bár az esőben a medencék kevésbé hívogatóak, a park látványa ilyenkor is érdekes; maradjon a kiépített utakon a sár elkerülése végett.",
+                "ro": "Chiar dacă bazinele sunt mai puțin tentante pe ploaie, parcul este interesant de văzut; rămâneți pe potecile pavate pentru a evita noroiul.",
+                "en": "Even if the pools are less inviting in the rain, the park is an interesting sight; stay on the paved paths to avoid the mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im MAPS, wo die Kälte draußen bleibt. Mittags wärmt die tiefstehende Sonne die Villa Romana auf angenehme Weise. Der Nachmittag gehört den einsamen Stränden, die im Winterlicht glitzern, bevor es gegen 17:00 Uhr dunkel wird. Der Abend endet früh bei einer heißen Schokolade im Dorf, während die Meeresbrise draußen kräftig auffrischt.",
+            "hu": "A csípős téli reggel a MAPS múzeumban indul, ahol a falak védenek a hideg szél ellen. Délben az alacsonyan járó nap kellemesen megvilágítja a Villa Romana romjait. A délután az üres, téli fényben csillogó strandoké, mielőtt 17 óra körül leszáll az est. A nap egy forró ital mellett ér véget, miközben odakint felerősödik a jeges tengeri szél.",
+            "ro": "O dimineață răcoroasă de iarnă începe la MAPS, unde frigul rămâne afară. La prânz, soarele blând luminează plăcut ruinele Villa Romana. După-amiaza este pentru plajele pustii care sclipesc în lumina iernii, înainte de apusul de la ora 17:00. Seara se încheie devreme cu o băutură caldă, în timp ce briza mării devine tot mai tăioasă.",
+            "en": "A crisp winter morning starts at MAPS, keeping the cold at bay. At noon, the low winter sun pleasantly warms the Villa Romana ruins. The afternoon belongs to the deserted beaches, sparkling in the seasonal light before darkness falls at 5 PM. The day ends early with a warm drink indoors as the sea breeze picks up outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MAPS",
+                "hu": "MAPS",
+                "ro": "MAPS",
+                "en": "MAPS"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume bieten den perfekten Start in den kalten Tag; genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
+                "hu": "A fűtött kiállítóterek tökéletes kezdést biztosítanak a hideg napon; élvezze a csendet a nyári turistaáradat és a tömeg hiányában.",
+                "ro": "Sălile de expoziție încălzite oferă startul perfect pentru o zi rece; bucurați-vă de liniște fără mulțimile de turiști din timpul verii.",
+                "en": "The heated exhibition halls offer the perfect start to a cold day; enjoy the peace without the summer tourist crowds and noise."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da die Ruinen auf der Anhöhe dem Winterwind ausgesetzt sind; das klare Licht ist ideal für scharfe Fotos.",
+                "hu": "Viseljen szélálló ruházatot, mivel a dombtetőn lévő romok ki vannak téve a téli szélnek; a tiszta téli fény ideális az éles fotókhoz.",
+                "ro": "Purtați haine rezistente la vânt, deoarece ruinele de pe deal sunt expuse brizelor de iarnă; lumina clară este ideală pentru fotografii.",
+                "en": "Wear windproof clothing as the hilltop ruins are exposed to the winter wind; the clear seasonal light is ideal for sharp landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "spiaggia cani",
+                "hu": "spiaggia cani",
+                "ro": "spiaggia cani",
+                "en": "spiaggia cani"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich leer und bietet Platz für weite Blicke; ziehen Sie eine warme Mütze gegen die kalte Meeresbrise an.",
+                "hu": "A strand télen csodálatosan üres, tágas teret engedve a kilátásnak; vegyen fel meleg sapkát a metsző tengeri szél és hideg ellen.",
+                "ro": "Plaja este minunat de goală iarna, oferind spațiu pentru vederi panoramice; puneți-vă o căciulă groasă împotriva brizei reci a mării.",
+                "en": "The beach is wonderfully empty in winter, allowing for wide coastal views; wear a warm hat against the biting sea breeze and cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Puntone Beach",
+                "hu": "Puntone Beach",
+                "ro": "Puntone Beach",
+                "en": "Puntone Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang im weichen Winterlicht am Ufer ist Balsam für die Seele; achten Sie darauf, vor dem frühen Sonnenuntergang zurück zu sein.",
+                "hu": "Egy séta a puha téli fényekben a parton igazi feltöltődés; ügyeljen rá, hogy a korai naplemente előtt induljon vissza a szálláshelyére.",
+                "ro": "O plimbare în lumina caldă a iernii pe malul mării este relaxantă; asigurați-vă că vă întoarceți înainte de apusul devreme al soarelui.",
+                "en": "A walk in the soft winter light along the shore is balm for the soul; make sure to head back before the early sunset around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Darsena",
+                "hu": "Spiaggia Darsena",
+                "ro": "Spiaggia Darsena",
+                "en": "Spiaggia Darsena"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winter schläfrig und authentisch; nutzen Sie die goldene Stunde kurz vor 16:30 Uhr für die besten Lichtverhältnisse.",
+                "hu": "A kikötő télen álmos és autentikus arcát mutatja; használja ki az aranyórát 16:30 körül a legjobb fényviszonyok és színek eléréséhez.",
+                "ro": "Portul pare adormit și autentic în timpul iernii; profitați de ora de aur înainte de 16:30 pentru cele mai bune condiții de lumină.",
+                "en": "The harbor feels sleepy and authentic in winter; take advantage of the golden hour before 4:30 PM for the best lighting conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Splash",
+                "hu": "Parco Acquatico Splash",
+                "ro": "Parco Acquatico Splash",
+                "en": "Parco Acquatico Splash"
+              },
+              "tip_5lang": {
+                "de": "Obwohl der Badebetrieb ruht, ist die Skulptur-artige Anlage ein Motiv für Architekturfans; kleiden Sie sich für den Schattenbereich warm.",
+                "hu": "Bár a fürdőzés szünetel, a park szoborszerű építményei érdekesek az építészet kedvelőinek; öltözzön rétegesen az árnyékos részeken.",
+                "ro": "Deși scăldatul este oprit, structurile parcului sunt interesante pentru fanii arhitecturii; îmbrăcați-vă gros pentru zonele cu umbră.",
+                "en": "Although swimming is closed, the park's sculptural structures are great for architecture fans; dress warmly for the shaded areas."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpártúráját a természet lágy ölén, a Fémtartalmú-dombság Nemzeti Parkban. Délben tegye próbára magát az Il Tasso Scatenato kalandparkban, mielőtt elmerülne a bányászati örökségben a MAPS múzeumban. A délután visszaviszi az időben a római villához, amelyet egy szellős utazás követ a pihentető Puntone Beachre. Zárja a napot a Splash víziparkban és egy csodás naplementével a Mamai Beachen.",
         "ro": "Începeți turul cu bicicleta scufundat în natură la Parcul Național Colline Metallifere. La prânz, testați-vă abilitățile la parcul de aventură Il Tasso Scatenato înainte de a explora patrimoniul minier la muzeul MAPS. După-amiaza vă poartă înapoi în timp la Vila Romană, urmată de o plimbare către relaxanta Puntone Beach. Terminați cu distracție la parcul acvatic și un apus superb la Mamai Beach.",
         "en": "Kick off your cycling tour immersed in nature at the Metalliferous Hills National Park. By midday, challenge yourself at the Il Tasso Scatenato adventure park before delving into the region's mining heritage at the MAPS museum. The afternoon takes you back in time at the Roman Villa, followed by a breezy ride to the relaxing Puntone Beach. Finish with fun at the Splash Water Park and a beautiful sunset at Mamai Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet der Nationalpark Schutz unter den Pinien, doch die Wege sind rutschig. Am Mittag dient das MAPS als trockener Stopp, bevor es entlang der Küste weitergeht. Die Fahrt erfordert bei Nässe volle Konzentration, besonders in den Kurven. Der Tag endet mit einer kühlen, aber erfrischenden Brise am Mamai Beach, bevor Sie sich im Trockenen aufwärmen.",
+            "hu": "Az eső ellenére a nemzeti park fenyői némi védelmet nyújtanak, de az utak csúszósak. Délben a MAPS múzeum szolgál száraz pihenőként, mielőtt folytatnánk az utat a part mentén. A tekerés vizes úton teljes koncentrációt igényel, főleg a kanyarokban. A nap egy hűvös, de frissítő széllel zárul a Mamai Beachen, mielőtt megszárítkoznánk.",
+            "ro": "În ciuda ploii, pinii din parcul național oferă adăpost, dar potecile sunt alunecoase. La prânz, MAPS servește ca popas uscat înainte de a continua pe coastă. Mersul pe bicicletă necesită concentrare maximă pe carosabil ud, mai ales în curbe. Ziua se încheie cu o briză răcoroasă la Mamai Beach, înainte de a vă încălzi la interior.",
+            "en": "Despite the rain, the national park's pines offer some shelter, but paths are slippery. At noon, the MAPS museum serves as a dry stop before continuing along the coast. Cycling in the wet requires full concentration, especially in corners. The day ends with a cool but refreshing breeze at Mamai Beach before you warm up indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Nazionale Colline Metallifere",
+                "hu": "Parco Nazionale Colline Metallifere",
+                "ro": "Parco Nazionale Colline Metallifere",
+                "en": "Parco Nazionale Colline Metallifere"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nadelbedeckten Wegen, da diese sehr glatt sein können; die Pinien duften bei Regen besonders intensiv und frisch.",
+                "hu": "Óvatosan hajtson a tűlevéllel borított utakon, mert nagyon csúszhatnak; az esőben a fenyők illata különösen intenzív és frissítő.",
+                "ro": "Conduceți cu atenție pe potecile acoperite cu ace de pin, pot fi alunecoase; pinii miros deosebit de intens și proaspăt în timpul ploii.",
+                "en": "Ride carefully on needle-covered paths as they can be very slippery; the pines smell particularly intense and refreshing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Il tasso scatenato",
+                "hu": "Il tasso scatenato",
+                "ro": "Il tasso scatenato",
+                "en": "Il tasso scatenato"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem festen Untergrund, um Einsinken zu vermeiden; die Waldatmosphäre ist bei leichtem Nieselregen sehr mystisch.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, hogy elkerülje az elsüllyedést a sárban; az erdei hangulat misztikus az enyhe szemerkélő esőben.",
+                "ro": "Parcați bicicleta pe un teren solid pentru a evita scufundarea în noroi; atmosfera pădurii este mistică în timpul burniței ușoare.",
+                "en": "Park your bike on solid ground to avoid sinking into the mud; the forest atmosphere is quite mystical during light drizzling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "MAPS",
+                "hu": "MAPS",
+                "ro": "MAPS",
+                "en": "MAPS"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um Ihre Kleidung zu lüften und die Ausrüstung zu prüfen; drinnen bleiben Sie garantiert für eine Stunde trocken.",
+                "hu": "Használja ezt a megállót a ruházat szellőztetésére és a felszerelés ellenőrzésére; bent garantáltan száraz marad legalább egy órán át.",
+                "ro": "Folosiți acest popas pentru a vă aerisi hainele și a verifica echipamentul; în interior veți rămâne uscat garantat timp de o oră.",
+                "en": "Use this stop to air out your clothes and check your equipment; you are guaranteed to stay dry inside for at least an hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Der Bodenbelag bei den Ruinen kann bei Nässe tückisch sein; schieben Sie Ihr Rad am besten im unmittelbaren Bereich der Ausgrabung.",
+                "hu": "A romoknál a talaj trükkös lehet vizesen; a legjobb, ha az ásatás közvetlen területén inkább tolja a kerékpárt a biztonság érdekében.",
+                "ro": "Solul de la ruine poate fi înșelător când este ud; cel mai bine este să împingeți bicicleta în zona imediată a săpăturilor.",
+                "en": "The ground at the ruins can be treacherous when wet; it's best to push your bike in the immediate excavation area for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Puntone Beach",
+                "hu": "Puntone Beach",
+                "ro": "Puntone Beach",
+                "en": "Puntone Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt auf den nassen Sand zu fahren; genießen Sie den Blick auf das stürmische Meer vom Asphaltweg aus.",
+                "hu": "Kerülje el, hogy közvetlenül a vizes homokra hajtson a biciklivel; élvezze a viharos tenger látványát inkább az aszfaltozott útról.",
+                "ro": "Evitați să mergeți cu bicicleta direct pe nisipul ud; bucurați-vă de vederea mării agitate de pe drumul asfaltat de lângă plajă.",
+                "en": "Avoid riding your bike directly onto the wet sand; enjoy the view of the stormy sea from the paved path next to the beach instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Splash",
+                "hu": "Parco Acquatico Splash",
+                "ro": "Parco Acquatico Splash",
+                "en": "Parco Acquatico Splash"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für ein Foto der leeren Becken im Regen; achten Sie auf Pfützen auf dem Parkplatz, die tiefer sein können als gedacht.",
+                "hu": "Rövid megálló az üres medencék fotózásához az esőben; ügyeljen a parkoló mélyebb tócsáira, amelyek alatt kátyúk is lehetnek.",
+                "ro": "O scurtă oprire pentru o poză cu bazinele goale în ploaie; atenție la bălțile din parcare, care pot fi mai adânci decât par.",
+                "en": "A quick stop to photograph the empty pools in the rain; watch out for deep puddles in the parking lot that might hide potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamai Beach",
+                "hu": "Mamai Beach",
+                "ro": "Mamai Beach",
+                "en": "Mamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour bietet eine raue Schönheit; trocknen Sie Ihre Bremsen nach der Fahrt sorgfältig ab, um Korrosion vorzubeugen.",
+                "hu": "A túra vége vadregényes szépséget kínál; a tekerés után gondosan szárítsa meg a fékeket a korrózió megelőzése érdekében.",
+                "ro": "Finalul turului oferă o frumusețe brută; uscați cu grijă frânele după cursă pentru a preveni coroziunea cauzată de apă.",
+                "en": "The end of the tour offers raw coastal beauty; dry your brakes carefully after the ride to prevent corrosion from the rainwater."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start durch den Nationalpark weckt die Geister, die Luft ist kristallklar. Mittags bietet das MAPS eine willkommene Aufwärmpause. Die Küstenstraße glänzt im tiefen Winterlicht, während Sie Richtung Mamai Beach radeln. Da es ab 17:00 Uhr rasch dunkel wird, sollten Sie die Beleuchtung prüfen. Der Tag endet sportlich bei sinkenden Temperaturen und herrlicher Ruhe.",
+            "hu": "A nemzeti parkon keresztüli hűvös indítás felélénkíti a szellemet, a levegő kristálytiszta. Délben a MAPS múzeum kínál melegítő pihenőt. A part menti út ragyog a mély téli fényben, miközben a Mamai Beach felé teker. Mivel 17 óra után gyorsan sötétedik, ellenőrizze a világítást. A nap sportosan ér véget a süllyedő hőmérsékletben.",
+            "ro": "Un start răcoros prin parcul național revigorează spiritul, aerul fiind deosebit de clar. La prânz, MAPS oferă o pauză binemeritată pentru încălzire. Drumul de coastă strălucește în lumina iernii în timp ce pedalați spre Mamai Beach. Deoarece se întunecă rapid după ora 17:00, verificați luminile. Ziua se încheie sportiv, în liniște deplină.",
+            "en": "A cool start through the national park awakens the spirit, with crystal clear air. At noon, the MAPS museum offers a welcome warming break. The coastal road shines in the low winter light as you cycle toward Mamai Beach. As it gets dark quickly after 5 PM, check your lights. The day ends on a sporty note with dropping temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Nazionale Colline Metallifere",
+                "hu": "Parco Nazionale Colline Metallifere",
+                "ro": "Parco Nazionale Colline Metallifere",
+                "en": "Parco Nazionale Colline Metallifere"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten und Handschuhe, da der Fahrtwind im Wald sehr kalt sein kann; genießen Sie die klare Sicht bis zum Horizont.",
+                "hu": "Öltözzön rétegesen és viseljen kesztyűt, mert az erdei menetszél nagyon hideg lehet; élvezze a tiszta kilátást egészen a horizontig.",
+                "ro": "Purtați straturi și mănuși, deoarece vântul poate fi foarte rece în pădure; bucurați-vă de vizibilitatea clară până la orizont.",
+                "en": "Wear layers and gloves as the wind chill in the forest can be very cold; enjoy the clear visibility all the way to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Il tasso scatenato",
+                "hu": "Il tasso scatenato",
+                "ro": "Il tasso scatenato",
+                "en": "Il tasso scatenato"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im winterlichen Wald ist perfekt für eine kurze Trinkpause; halten Sie sich in Bewegung, um nicht zu stark auszukühlen.",
+                "hu": "A téli erdő csendje tökéletes egy rövid frissítő pihenőhöz; maradjon mozgásban a megállók alatt is, hogy elkerülje a túlzott lehűlést.",
+                "ro": "Liniștea pădurii de iarnă este perfectă pentru o scurtă pauză; rămâneți în mișcare pentru a nu vă răci prea tare în timpul opririi.",
+                "en": "The silence of the winter forest is perfect for a short drink break; keep moving during stops to avoid getting too chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "MAPS",
+                "hu": "MAPS",
+                "ro": "MAPS",
+                "en": "MAPS"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger aufzuwärmen und die Kultur zu genießen; nutzen Sie die Schließfächer für Ihre schwere Winterausrüstung.",
+                "hu": "Ideális hely az ujjak felmelegítésére és a kultúra élvezetére; használja a zárható szekrényeket a nehéz téli kerékpáros felszerelésnek.",
+                "ro": "Un loc ideal pentru a vă încălzi degetele și a vă bucura de cultură; folosiți dulapurile pentru echipamentul greu de iarnă.",
+                "en": "An ideal place to warm up your fingers and enjoy the culture; use the lockers to store your heavy winter cycling gear during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist im Winter gut befahrbar, aber oft windig; ein warmes Stirnband unter dem Helm schützt Ihre Ohren vor dem Frost.",
+                "hu": "A terület télen is jól járható, de gyakran szeles; a sisak alá vett meleg fejpánt megvédi a fülét a fagyos tengeri széltől.",
+                "ro": "Terenul este accesibil iarna, dar adesea vântos; o bentiță caldă sub cască vă va proteja urechile de frigul tăios de afară.",
+                "en": "The site is accessible in winter but often windy; a warm headband under your helmet will protect your ears from the freezing breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Puntone Beach",
+                "hu": "Puntone Beach",
+                "ro": "Puntone Beach",
+                "en": "Puntone Beach"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne glitzert fantastisch auf dem Meer; halten Sie kurz an, um das Lichtspiel ohne die Sommerhitze zu genießen.",
+                "hu": "Az alacsonyan járó nap fantasztikusan csillog a tengeren; álljon meg egy pillanatra, és élvezze a fényjátékot a nyári hőség nélkül.",
+                "ro": "Soarele blând sclipește fantastic pe mare; opriți-vă scurt pentru a vă bucura de jocul de lumini fără arșița verii de altădată.",
+                "en": "The low sun sparkles fantastically on the sea; stop briefly to enjoy the play of light without the typical summer heat and glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Splash",
+                "hu": "Parco Acquatico Splash",
+                "ro": "Parco Acquatico Splash",
+                "en": "Parco Acquatico Splash"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Rutschen bilden einen starken Kontrast zum blauen Winterhimmel; ein toller Fotostopp für ein schnelles Erinnerungsfoto.",
+                "hu": "A színes csúszdák erős kontrasztot alkotnak a kék téli éggel; kiváló helyszín egy gyors és látványos emlékfotó elkészítéséhez.",
+                "ro": "Toboganele colorate formează un contrast puternic cu cerul albastru de iarnă; un punct excelent pentru o fotografie de amintire.",
+                "en": "The colorful slides form a strong contrast with the blue winter sky; a great photo stop for a quick and vibrant souvenir picture."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamai Beach",
+                "hu": "Mamai Beach",
+                "ro": "Mamai Beach",
+                "en": "Mamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel bietet einen weiten Blick auf den Elbanischen Kanal; machen Sie sich zügig auf den Rückweg, bevor die Sonne ganz untergeht.",
+                "hu": "A végállomás tágas kilátást nyújt az Elba-csatornára; induljon vissza időben, mielőtt a nap teljesen eltűnne a horizont mögött.",
+                "ro": "Destinația oferă o vedere largă asupra canalului spre insula Elba; porniți înapoi rapid înainte ca soarele să apună de tot.",
+                "en": "The final stop offers a wide view of the Elba Channel; start your journey back promptly before the sun completely disappears."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje autós utazását a reggeli napsütés élvezetével az elegáns Mamai Beachen. A dél vízi izgalmakat kínál a Parco Acquatico Splashben, amelyet egy békés séta követ a hajókkal teli Spiaggia Darsena mentén. Délután fedezze fel az ősi romokat a római villánál és a helyi történelmet a MAPS múzeumban. Zárja a napot mászással az Il Tasso Scatenatoban és egy békés sétával a Colline Metallifere Parkban.",
         "ro": "Începeți plimbarea pitorească bucurându-vă de soarele dimineții la eleganta Mamai Beach. Amiaza oferă emoții acvatice la Parco Acquatico Splash, urmate de o plimbare liniștită de-a lungul Spiaggia Darsena. După-amiaza, descoperiți ruinele antice la Vila Romană și istoria locală la muzeul MAPS. Încheiați ziua cu cățărări la Il Tasso Scatenato și o plimbare pașnică în Parcul Național Colline Metallifere.",
         "en": "Begin your scenic drive by soaking up the morning sun at the stylish Mamai Beach. Midday offers aquatic thrills at Parco Acquatico Splash followed by a peaceful stroll along the boat-filled Spiaggia Darsena. In the afternoon, discover ancient ruins at the Roman Villa and uncover local history at the MAPS museum. Cap off the day with some climbing at Il Tasso Scatenato and a peaceful walk in the Colline Metallifere Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt bequem im Auto, während der Regen gegen die Scheiben trommelt. Vom Mamai Beach aus genießen Sie die stürmische See, bevor Sie zum MAPS weiterfahren, um dem Wetter ganz zu entfliehen. Mittags bietet die Villa Romana einen historischen Stopp mit kurzen Wegen ins Trockene. Der Tag endet sicher und entspannt bei einer Panoramafahrt entlang der Küste.",
+            "hu": "Az út kényelmesen, az autóban indul, miközben az eső a szélvédőn kopog. A Mamai Beachről megcsodálhatja a viharos tengert, mielőtt a MAPS múzeumba hajtana. Délben a Villa Romana kínál történelmi látnivalót, rövid sétával a parkolótól. A nap biztonságosan és lazán ér véget egy tengerparti panorámaautózással a vizes utakon.",
+            "ro": "Călătoria începe confortabil în mașină, în timp ce ploaia bate în parbriz. De la Mamai Beach admirați marea agitată înainte de a merge la MAPS pentru a scăpa de vremea rea. La prânz, Villa Romana oferă o oprire istorică cu acces rapid la adăpost. Ziua se încheie relaxat, cu o plimbare panoramică cu mașina de-a lungul coastei.",
+            "en": "The trip begins comfortably in the car as rain drums against the windshield. Enjoy the stormy sea from Mamai Beach before driving to the MAPS museum. At noon, Villa Romana offers a historical stop with a short walk from the parking lot. The day ends safely and relaxed with a scenic coastal drive along the misty shoreline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mamai Beach",
+                "hu": "Mamai Beach",
+                "ro": "Mamai Beach",
+                "en": "Mamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Brandung trocken zu beobachten; prüfen Sie die Scheibenwischer für eine klare Sicht auf die Küste.",
+                "hu": "Parkoljon a tengerre néző oldalon, hogy szárazon nézhesse a hullámokat; ellenőrizze az ablaktörlőket a tiszta kilátás érdekében.",
+                "ro": "Parcați cu fața spre mare pentru a vedea valurile fără a vă uda; verificați ștergătoarele pentru o vizibilitate clară asupra coastei.",
+                "en": "Park facing the sea to watch the waves while staying dry; check your wipers for a clear view of the dramatic rainy coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Splash",
+                "hu": "Parco Acquatico Splash",
+                "ro": "Parco Acquatico Splash",
+                "en": "Parco Acquatico Splash"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für die Aussicht; nutzen Sie die Parkplätze direkt am Eingang, um möglichst wenig Zeit im Regen verbringen zu müssen.",
+                "hu": "Gyors megálló a kilátásért; használja a közvetlenül a bejáratnál lévő parkolót, hogy minél kevesebb időt kelljen az esőben töltenie.",
+                "ro": "O oprire rapidă pentru priveliște; folosiți parcarea de lângă intrare pentru a petrece cât mai puțin timp afară în ploaie.",
+                "en": "A quick stop for the view; use the parking spots right by the entrance to minimize the time you need to spend out in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Darsena",
+                "hu": "Spiaggia Darsena",
+                "ro": "Spiaggia Darsena",
+                "en": "Spiaggia Darsena"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Hafenmauer bietet tolle Ausblicke auf die Boote im Regen; halten Sie die Fenster leicht offen gegen das Beschlagen.",
+                "hu": "A kikötői gát mentén haladva remek kilátás nyílik a hajókra; tartsa résnyire nyitva az ablakot, hogy elkerülje a belső párásodást.",
+                "ro": "Drumul de-a lungul digului oferă vederi excelente spre bărci; lăsați geamurile ușor deschise pentru a preveni aburirea lor în interior.",
+                "en": "Driving along the harbor wall offers great views of the boats in the rain; keep the windows slightly cracked to prevent fogging inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen zwischen zwei Regenschauern; der Parkplatz liegt nah genug für einen schnellen Sprint zu den Ruinen.",
+                "hu": "Látogassa meg az ásatást két esőzés között; a parkoló elég közel van ahhoz, hogy egy gyors sprinttel elérje a romok fedettebb részeit.",
+                "ro": "Vizitați situl între două reprize de ploaie; parcarea este destul de aproape pentru a ajunge rapid la zonele protejate ale ruinelor.",
+                "en": "Visit the excavations between rain showers; the parking lot is close enough for a quick sprint to the more sheltered parts of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "MAPS",
+                "hu": "MAPS",
+                "ro": "MAPS",
+                "en": "MAPS"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die nassen Jacken im Auto und genießen Sie das Museum unbeschwert; der Eingang ist barrierefrei und bei Regen gut erreichbar.",
+                "hu": "Hagyja a vizes kabátokat az autóban, és élvezze gondtalanul a múzeumot; a bejárat akadálymentes és esőben is könnyen megközelíthető.",
+                "ro": "Lăsați hainele ude în mașină și bucurați-vă de muzeu; intrarea este accesibilă și ușor de ajuns la ea chiar și pe timp de ploaie.",
+                "en": "Leave wet jackets in the car and enjoy the museum light; the entrance is accessible and easy to reach even during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Il tasso scatenato",
+                "hu": "Il tasso scatenato",
+                "ro": "Il tasso scatenato",
+                "en": "Il tasso scatenato"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch den nebligen Wald; die kurvige Straße erfordert bei Nässe eine vorsichtige Fahrweise und gute Reifen.",
+                "hu": "Élvezze az autózást a ködös erdőben; a kanyargós út vizesen óvatos vezetést és jó gumiabroncsokat igényel a biztonság érdekében.",
+                "ro": "Bucurați-vă de drumul prin pădurea cețoasă; șoseaua sinuoasă necesită o conducere prudentă și anvelope bune pe timp de ploaie.",
+                "en": "Enjoy the drive through the misty forest; the winding road requires careful driving and good tires when the asphalt is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Nazionale Colline Metallifere",
+                "hu": "Parco Nazionale Colline Metallifere",
+                "ro": "Parco Nazionale Colline Metallifere",
+                "en": "Parco Nazionale Colline Metallifere"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Aussichtspunkte an der Straße für Fotos der Landschaft; achten Sie beim Aussteigen auf rutschiges Laub auf dem Boden.",
+                "hu": "Használja az út menti kilátópontokat a táj fotózásához; kiszálláskor ügyeljen az úttestre mosott sárra és a csúszós levelekre.",
+                "ro": "Folosiți punctele de belvedere de pe drum pentru poze; aveți grijă la noroiul și frunzele alunecoase când coborâți din mașină.",
+                "en": "Use the roadside viewpoints for photos of the landscape; watch out for mud and slippery leaves when getting out of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Panoramafahrt zum Mamai Beach, wo die klare Luft für Fernsicht sorgt. Das MAPS bietet mittags wohlige Wärme und Kultur. Am Nachmittag erkunden Sie die Küste und die Villa Romana im goldenen Licht der Wintersonne. Da es um 17:00 Uhr dunkel wird, genießen Sie den frühen Feierabend bei einer gemütlichen Fahrt durch die beleuchtete Marina.",
+            "hu": "A téli nap panorámaautózással indul a Mamai Beachre, ahol a tiszta levegő távoli kilátást biztosít. A MAPS múzeum délben kellemes meleget és kultúrát kínál. Délután a partot és a Villa Romanát fedezzük fel a téli nap arany fényében. Mivel 17 órakor sötétedik, a napot egy hangulatos autózással zárjuk a kivilágított kikötőben.",
+            "ro": "Ziua de iarnă începe cu o plimbare panoramică spre Mamai Beach, unde aerul clar oferă vizibilitate maximă. MAPS oferă căldură și cultură la prânz. După-amiaza explorăm coasta și Villa Romana în lumina aurie a soarelui de iarnă. La ora 17:00 se întunecă, așa că încheiem cu o tură prin marina luminată.",
+            "en": "The winter day starts with a scenic drive to Mamai Beach, where the clear air provides distant views. MAPS offers cozy warmth and culture at noon. In the afternoon, explore the coast and Villa Romana in the golden light of the winter sun. As it gets dark by 5 PM, end the day with a pleasant drive through the illuminated marina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mamai Beach",
+                "hu": "Mamai Beach",
+                "ro": "Mamai Beach",
+                "en": "Mamai Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für Komfort beim Betrachten der leeren Winterstrände; die Sicht auf Elba ist an klaren Wintertagen am besten.",
+                "hu": "Az autó fűtése kényelmet nyújt az üres téli strandok nézegetése közben; a kilátás Elbára a tiszta téli napokon a legszebb.",
+                "ro": "Căldura din mașină oferă confort în timp ce admirați plajele pustii; vederea spre Elba este cea mai bună în zilele senine de iarnă.",
+                "en": "The car heater provides comfort while watching the empty winter beaches; the view of Elba is best on clear seasonal days."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Splash",
+                "hu": "Parco Acquatico Splash",
+                "ro": "Parco Acquatico Splash",
+                "en": "Parco Acquatico Splash"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Architekturfotos im harten Winterlicht; nutzen Sie die Parkplatznähe, um schnell wieder ins warme Auto zu schlüpfen.",
+                "hu": "Rövid megálló építészeti fotókhoz a kemény téli fényben; használja ki a közeli parkolót, hogy hamar visszaérjen a meleg autóba.",
+                "ro": "O scurtă oprire pentru fotografii în lumina puternică a iernii; parcați aproape pentru a reveni rapid în mașina încălzită.",
+                "en": "A short stop for architectural photos in the harsh winter light; use the nearby parking to quickly return to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Darsena",
+                "hu": "Spiaggia Darsena",
+                "ro": "Spiaggia Darsena",
+                "en": "Spiaggia Darsena"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Hafen entlang, um die Winterstimmung einzufangen; die tiefstehende Sonne sorgt für lange, dramatische Schatten.",
+                "hu": "Hajtson lassan a kikötő mentén, hogy elkapja a téli hangulatot; az alacsonyan járó nap hosszú, drámai árnyékokat vet a hajókra.",
+                "ro": "Conduceți încet de-a lungul portului pentru a surprinde atmosfera de iarnă; soarele jos creează umbre lungi și dramatice pe apă.",
+                "en": "Drive slowly along the harbor to capture the winter mood; the low sun creates long, dramatic shadows across the docked boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana",
+                "hu": "Villa romana",
+                "ro": "Villa romana",
+                "en": "Villa romana"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch ist im Winter sehr entspannt ohne Wartezeiten; nehmen Sie eine Thermoskanne mit Tee für die Besichtigung der Ruinen mit.",
+                "hu": "A látogatás télen nagyon nyugodt, várakozás nélkül; vigyen magával egy termoszt forró teával a romok bejárásához a hidegben.",
+                "ro": "O vizită iarna este relaxantă, fără timpi de așteptare; luați un termos cu ceai cald pentru explorarea ruinelor în aer liber.",
+                "en": "A visit in winter is very relaxed without wait times; take a thermos with hot tea for exploring the outdoor ruins in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "MAPS",
+                "hu": "MAPS",
+                "ro": "MAPS",
+                "en": "MAPS"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für die Mittagshitze... die es im Winter nicht gibt, aber für die Wärme drinnen; parken Sie direkt auf dem MAPS-Gelände.",
+                "hu": "A tökéletes hely a benti meleg élvezetésére a téli napon; parkoljon közvetlenül a MAPS területén a kényelmes bejutás érdekében.",
+                "ro": "Locul perfect pentru a vă bucura de căldura din interior; parcați direct în zona MAPS pentru un acces rapid și confortabil.",
+                "en": "The perfect place to enjoy indoor warmth on a winter day; park directly at the MAPS site for convenient and quick entry."
+              }
+            },
+            {
+              "name": {
+                "de": "Il tasso scatenato",
+                "hu": "Il tasso scatenato",
+                "ro": "Il tasso scatenato",
+                "en": "Il tasso scatenato"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch den entlaubten Wald bietet neue Perspektiven auf die Hügel; prüfen Sie vor Abfahrt den Reifendruck für kalte Straßen.",
+                "hu": "Az autózás a ritkább erdőben új távlatokat nyit a dombokra; indulás előtt ellenőrizze a keréknyomást a hideg útfelület miatt.",
+                "ro": "Drumul prin pădurea rară oferă noi perspective asupra dealurilor; verificați presiunea în pneuri înainte de plecare pe frig.",
+                "en": "Driving through the thin winter forest offers new perspectives; check your tire pressure before leaving due to the cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Nazionale Colline Metallifere",
+                "hu": "Parco Nazionale Colline Metallifere",
+                "ro": "Parco Nazionale Colline Metallifere",
+                "en": "Parco Nazionale Colline Metallifere"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den Sonnenuntergang vom Auto aus; die Farben am Winterhimmel sind oft besonders intensiv.",
+                "hu": "Zárja a napot a naplemente megtekintésével az autóból; a téli égbolt színei gyakran különösen intenzívek és látványosak ilyenkor.",
+                "ro": "Încheiați ziua admirând apusul din mașină; culorile cerului de iarnă sunt adesea deosebit de intense și spectaculoase acum.",
+                "en": "End the day watching the sunset from the comfort of your car; the colors in the winter sky are often particularly intense and vivid."
+              }
+            }
+          ]
+        }
       }
     }
   }

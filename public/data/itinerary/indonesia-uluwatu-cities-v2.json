@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Uluwatu nyüzsgő központjában, élvezve a trópusi hangulatot és felfedezve a helyi boltokat. Ez a tökéletes kiindulópont egy drámai parti sétához.\n\nDélben látogasson el az ikonikus Uluwatu templomba, amely elegánsan magasodik a hullámok felett. Ez a spirituális hely betekintést nyújt a balinéz kultúrába a lenyűgöző természeti tájon.\n\nDélután kövesse a tengerparti ösvényeket, hogy elérje a lélegzetelállító naplemente kilátókat. A zord sziklák és a végtelen óceán elképesztő fotózási lehetőségeket kínálnak.\n\nFejezze be sétáját a fenséges Karang Boma sziklánál. Az aranyóra közeledtével keressen egy kényelmes helyet, és nézze végig, ahogy a lemenő nap tüzes színekkel festi meg az eget.",
         "ro": "Începeți ziua în centrul vibrant al Uluwatu, bucurându-vă de atmosfera tropicală și descoperind magazinele locale. Acesta este începutul perfect pentru o explorare de coastă.\n\nLa prânz, îndreptați-vă spre iconicul Templu Uluwatu, așezat elegant deasupra valurilor puternice. Acest sit spiritual oferă o perspectivă asupra culturii balineze în mijlocul naturii.\n\nDupă-amiaza, urmați potecile de coastă pentru a ajunge la punctele de belvedere uimitoare. Stâncile abrupte și oceanul nesfârșit oferă oportunități incredibile pentru fotografie.\n\nÎncheiați-vă turul la maiestuoasa stâncă Karang Boma. Pe măsură ce se apropie ora de aur, găsiți un loc confortabil pentru a privi cum soarele apune, colorând cerul în nuanțe calde.",
         "en": "Start your day in the vibrant center of Uluwatu, soaking in the tropical atmosphere and discovering local shops. This sets the stage for a day of dramatic coastal exploration.\n\nBy midday, make your way to the iconic Uluwatu Temple, perched elegantly above the crashing waves. This deeply spiritual site provides insight into Balinese culture amidst stunning natural scenery.\n\nIn the afternoon, follow the coastal paths to reach breathtaking sunset viewpoints. The rugged cliffs and expansive ocean views offer incredible opportunities for photography and quiet reflection.\n\nConclude your walking tour at the majestic Karang Boma Cliff. As the golden hour approaches, find a comfortable spot to watch the sun dip below the horizon, painting the sky in fiery colors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit erfrischenden Schauern über den Klippen, daher ist ein Regenschirm für den Start unerlässlich. Mittags können Sie den tosenden Ozean unter den Tempeltraufen beobachten, während auch die Affen Schutz suchen. Am Nachmittag werden die Pfade entlang der Klippen rutschig, bewegen Sie sich also vorsichtig. Die dunklen Abendwolken bilden eine dramatische Kulisse für die Brandung.",
+            "hu": "A reggel frissítő záporral indul a sziklák felett, így az ernyő elengedhetetlen a kezdéshez. Délben a templom ereszei alatt figyelhetjük a morajló óceánt, miközben a majmok is menedéket keresnek. Délután a sziklák menti ösvények csúszóssá válnak, így óvatos léptekkel haladjunk. Az este sötét felhői drámai hátteret adnak a hullámverésnek a naplemente helyett.",
+            "ro": "Dimineața începe cu averse răcoritoare peste stânci, așa că o umbrelă este esențială pentru început. La prânz, puteți observa oceanul urlând de sub streșinile templului, în timp ce maimuțele caută și ele adăpost. După-amiaza, potecile de-a lungul stâncilor devin alunecoase, așa că mergeți cu pași precauți. Norii întunecați de seară oferă un fundal dramatic pentru valurile care se sparg.",
+            "en": "The morning begins with refreshing showers over the cliffs, so an umbrella is essential for the start. At noon, watch the roaring ocean from under the temple eaves while monkeys also seek shelter. In the afternoon, the paths along the cliffs become slippery, so move with cautious steps. The evening's dark clouds provide a dramatic backdrop to the crashing waves instead of a sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uluwatu",
+                "hu": "Uluwatu",
+                "ro": "Uluwatu",
+                "en": "Uluwatu"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde Gischt von den Klippen aus; tragen Sie feste Schuhe, da der Kalkstein bei Regen extrem rutschig wird.",
+                "hu": "Csodálja meg a vad hullámverést a sziklákról; viseljen tapadós talpú cipőt, mert a mészkő esőben rendkívül csúszóssá válik.",
+                "ro": "Admirați valurile sălbatice de pe stânci; purtați pantofi cu aderență bună, deoarece calcarul devine extrem de alunecos pe ploaie.",
+                "en": "Admire the wild surf from the cliffs; wear high-grip shoes as the limestone becomes extremely slippery during the tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu-Tempel",
+                "hu": "Uluwatu templom",
+                "ro": "Templul Uluwatu",
+                "en": "Uluwatu Temple"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den überdachten Pavillons und halten Sie Ihren Schirm fest, da Affen ihn bei Regen gerne stehlen.",
+                "hu": "Keressen menedéket a fedett pavilonokban, és fogja szorosan az ernyőjét, mert a majmok esőben még szívesebben lopják el.",
+                "ro": "Căutați adăpost în pavilioanele acoperite și țineți umbrela strâns, deoarece maimuțele tind să le fure mai des pe ploaie.",
+                "en": "Seek shelter in the covered pavilions and hold your umbrella firmly, as monkeys are even more likely to snatch it in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangs-Aussichtspunkt",
+                "hu": "Naplemente kilátó",
+                "ro": "Punct de belvedere la apus",
+                "en": "Sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne Sonne ist der Blick auf die dunklen Wolken über dem Meer mystisch; ein Regenponcho schützt Sie vor dem Wind.",
+                "hu": "Naplemente nélkül is misztikus a sötét felhők látványa az óceán felett; egy esőponcsó jól véd a feltámadó tengeri széltől.",
+                "ro": "Chiar și fără soare, vederea norilor negri peste ocean este mistică; o pelerină de ploaie vă va proteja de vântul puternic.",
+                "en": "Even without a clear sunset, the sight of dark clouds over the ocean is mystical; a rain poncho will protect you from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Pura Luhur",
+                "hu": "Sunset Pura Luhur",
+                "ro": "Sunset Pura Luhur",
+                "en": "Sunset Pura Luhur"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen die antiken Steine glänzen lässt; nutzen Sie die überdachten Bereiche für trockene Fotomöglichkeiten.",
+                "hu": "Figyelje meg, ahogy az eső megcsillogtatja az ősi köveket; használja a fedett részeket a száraz fotózási lehetőségekhez.",
+                "ro": "Observați cum ploaia face pietrele antice să strălucească; folosiți zonele acoperite pentru oportunități de fotografiere uscate.",
+                "en": "Watch how the rain makes the ancient stones glisten; utilize the covered areas for dry photography opportunities of the shrine."
+              }
+            },
+            {
+              "name": {
+                "de": "Karang Boma Klippe",
+                "hu": "Karang Boma szikla",
+                "ro": "Stânca Karang Boma",
+                "en": "Karang Boma Cliff"
+              },
+              "tip_5lang": {
+                "de": "Die Klippe ist bei Regen beeindruckend, aber bleiben Sie wegen des aufgeweichten Bodens weit vom ungesicherten Rand entfernt.",
+                "hu": "A sziklafal esőben is lenyűgöző, de a felázott talaj miatt maradjon távol a biztosítatlan peremtől a saját biztonsága érdekében.",
+                "ro": "Stânca este impresionantă pe ploaie, dar stați departe de marginea neasigurată din cauza solului moale pentru siguranța dvs.",
+                "en": "The cliff is impressive in the rain, but stay far back from the unsecured edge due to the soaked ground for your safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgenwind weht über die Klippen, daher ist eine leichte Jacke für den Spaziergang ratsam. Mittags ist die Sonne angenehm und nicht zu heiß für die vielen Treppen am Tempel. Am Nachmittag beginnt das goldene Licht bereits gegen 16 Uhr und taucht alles in warme Farben. Da die Sonne gegen 17 Uhr untergeht, wird es am Abend schnell kühl am Meer.",
+            "hu": "Hűvös reggeli szél fúj a sziklák felett, így egy könnyű dzseki tanácsos a sétához. Délben a napsütés kellemes, nem túl erős a templomi lépcsőzéshez. Délután az aranyfények már 16 óra körül mélyülni kezdenek, meleg színekbe öltöztetve a tájat. Mivel a nap 17 óra körül lebukik, az este hirtelen hűvössé válik a tengerparton.",
+            "ro": "O briză răcoroasă de dimineață suflă peste stânci, așa că o jachetă ușoară este recomandată pentru plimbare. La prânz, soarele este plăcut, nu prea fierbinte pentru numeroasele scări de la templu. După-amiaza, lumina aurie începe deja pe la ora 16, scăldând totul în culori calde. Deoarece soarele apune pe la ora 17, seara devine rapid răcoroasă.",
+            "en": "A cool morning breeze blows over the cliffs, so a light jacket is advisable for the walk. At noon, the sun is pleasant and not too hot for the many stairs at the temple. In the afternoon, the golden light starts as early as 4 PM, bathing everything in warm colors. As the sun sets around 5 PM, the evening quickly becomes chilly by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uluwatu",
+                "hu": "Uluwatu",
+                "ro": "Uluwatu",
+                "en": "Uluwatu"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Winterluft bietet die beste Fernsicht auf den Ozean; bringen Sie eine Windjacke für die exponierten Klippenpfade mit.",
+                "hu": "A száraz téli levegő biztosítja a legjobb kilátást az óceánra; vigyen szélkabátot a kitett szikla menti ösvényekre.",
+                "ro": "Aerul uscat de iarnă oferă cea mai bună vizibilitate asupra oceanului; aduceți o jachetă de vânt pentru potecile expuse de pe stânci.",
+                "en": "The dry winter air provides the best long-distance views of the ocean; bring a windbreaker for the exposed cliffside paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu-Tempel",
+                "hu": "Uluwatu templom",
+                "ro": "Templul Uluwatu",
+                "en": "Uluwatu Temple"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Temperaturen machen den Aufstieg viel leichter; genießen Sie die frühen Schatten der Tempelanlage gegen 16 Uhr.",
+                "hu": "A hűvösebb hőmérséklet sokkal könnyebbé teszi a felfelé menetelt; élvezze a templomkert korai árnyékait 16 óra körül.",
+                "ro": "Temperaturile mai scăzute fac urcarea mult mai ușoară; bucurați-vă de umbrele timpurii ale complexului de temple în jurul orei 16:00.",
+                "en": "The cooler temperatures make the climb much easier; enjoy the early shadows of the temple complex around 4 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangs-Aussichtspunkt",
+                "hu": "Naplemente kilátó",
+                "ro": "Punct de belvedere la apus",
+                "en": "Sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, da der Sonnenuntergang im Winter bereits gegen 17 Uhr stattfindet und der Horizont meist kristallklar ist.",
+                "hu": "Érkezzen korán, mivel a naplemente télen már 17 óra körül bekövetkezik, a horizont pedig ilyenkor általában kristálytiszta.",
+                "ro": "Veniți devreme, deoarece apusul în timpul iernii are loc deja în jurul orei 17:00, iar orizontul este de obicei cristal de clar.",
+                "en": "Arrive early as the sunset in winter occurs as early as 5 PM, and the horizon is usually crystal clear during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Pura Luhur",
+                "hu": "Sunset Pura Luhur",
+                "ro": "Sunset Pura Luhur",
+                "en": "Sunset Pura Luhur"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Sonnenlicht betont die Texturen der alten Steine; ziehen Sie sich nach Sonnenuntergang schnell eine Schicht drüber.",
+                "hu": "A lapos szögben érkező napfény kiemeli a régi kövek textúráját; naplemente után gyorsan vegyen fel egy melegebb réteget.",
+                "ro": "Lumina soarelui în unghi mic accentuează texturile pietrelor vechi; puneți-vă rapid un strat de haine după apusul soarelui.",
+                "en": "The low-angle sunlight emphasizes the textures of the old stones; quickly put on an extra layer after the sun disappears."
+              }
+            },
+            {
+              "name": {
+                "de": "Karang Boma Klippe",
+                "hu": "Karang Boma szikla",
+                "ro": "Stânca Karang Boma",
+                "en": "Karang Boma Cliff"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie den starken Wind am späten Nachmittag direkt an der Kante und genießen Sie das dramatische Licht der frühen Dämmerung.",
+                "hu": "Kerülje az erős késő délutáni szelet közvetlenül a szikla szélén, és élvezze a korai szürkület drámai fényeit.",
+                "ro": "Evitați vântul puternic de după-amiază târziu direct pe margine și bucurați-vă de lumina dramatică a amurgului timpuriu.",
+                "en": "Avoid the strong late afternoon wind directly at the edge and enjoy the dramatic light of the early winter dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a békés Pura Dalem Les-nél kezdődik, bemutatva a csendes spirituális életet távol a tömegtől. A lágy reggeli fények nyugodt légkört teremtenek.\n\nDélben tekerjen a lenyűgöző Rambu Suar Tanjung Mobulu világítótorony felé, mielőtt megérkezne Uluwatu központjába. Pihenjen meg egy kicsit, és élvezze a helyi kultúrát.\n\nDélután fedezze fel a legendás Uluwatu templomot és a környező kilátópontokat. A tengeri szellő frissítő megkönnyebbülést nyújt a drámai partvonal mentén.\n\nZárja a napot az impozáns Karang Boma sziklánál. Egy fárasztó kerékpározás után lazítson a szakadék szélén, és élvezze Bali legszebb naplemente panorámáját.",
         "ro": "Aventura cu bicicleta începe la liniștitul Pura Dalem Les, introducându-vă în viața spirituală departe de aglomerație. Lumina blândă a dimineții creează o atmosferă senină.\n\nLa prânz pedalați spre farul impresionant Rambu Suar Tanjung Mobulu, înainte de a ajunge în inima Uluwatu. Luați o pauză pentru a vă bucura de cultura locală vibrantă.\n\nDupă-amiaza, explorați legendarul Templu Uluwatu și punctele de belvedere naturale din jur. Briza mării oferă o ușurare răcoritoare pe măsură ce navigați de-a lungul coastei.\n\nÎncheiați ziua la impresionanta stâncă Karang Boma. După pedalat, relaxați-vă pe marginea prăpastiei și bucurați-vă de cele mai faimoase panorame la apus din Bali.",
         "en": "Your cycling adventure begins at the peaceful Pura Dalem Les, introducing you to the quiet spiritual life away from the crowds. The gentle morning light creates a serene ambiance.\n\nMidday sees you pedaling towards the striking Rambu Suar Tanjung Mobulu lighthouse, before rolling into the heart of Uluwatu. Take a moment to rest and enjoy the vibrant local culture.\n\nAs the afternoon unfolds, explore the legendary Uluwatu Temple and its surrounding natural viewpoints. The sea breeze offers refreshing relief as you navigate the dramatic coastline.\n\nEnd your day at the imposing Karang Boma Cliff. After a fulfilling day of cycling, relax by the precipice and enjoy one of Bali's most famous and breathtaking sunset panoramas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad erfordert Vorsicht bei nassen Straßen, prüfen Sie Ihre Bremsen gründlich. Mittags zwingen schwere Güsse oft zu einer Pause unter einem Warung-Dach, um den Sturm abzuwarten. Am Nachmittag ist die Landschaft üppig grün, aber Pfützen machen die Fahrt für Radfahrer anspruchsvoll. Der Abend bringt feuchten Dunst, wechseln Sie nasse Kleidung sofort für mehr Komfort.",
+            "hu": "A reggeli kerékpározás óvatosságot igényel a vizes utakon, alaposan ellenőrizze a fékeit. Délben a heves záporok gyakran egy warung eresze alá kényszerítik az embert. Délután a táj dús és zöld, de a tócsák próbára teszik a biciklisek ügyességét. Az este nedves párát hoz a partra, a kényelem érdekében érdemes gyorsan száraz ruhára váltani.",
+            "ro": "Dimineața pe bicicletă necesită prudență pe drumurile ude, verificați bine frânele. La prânz, aversele grele forțează adesea o pauză sub streașina unui warung. După-amiaza, peisajul este luxuriant, dar bălțile fac călătoria solicitantă pentru bicicliști. Seara aduce o ceață umedă, schimbați imediat hainele ude pentru confort.",
+            "en": "Morning rides require caution as the asphalt is slick, so check your brakes thoroughly before starting. By noon, heavy downpours often force a break under a roadside warung eaves to wait out the storm. In the afternoon, the landscape is lush and green, though puddles make the path challenging for cyclists. Evening brings a humid mist; change wet clothes quickly for comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pura Dalem Les",
+                "hu": "Pura Dalem Les",
+                "ro": "Pura Dalem Les",
+                "en": "Pura Dalem Les"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem trockenen Ort; der Tempelboden kann bei Regen extrem rutschig für Fahrradschuhe sein.",
+                "hu": "Parkolja le a biciklit száraz helyen; a templom padlója esőben rendkívül csúszós lehet a kerékpáros cipők számára.",
+                "ro": "Parcați bicicleta într-un loc uscat; podeaua templului poate fi extrem de alunecoasă pentru pantofii de ciclism pe ploaie.",
+                "en": "Park your bike in a dry spot; the temple floor can be extremely slippery for cycling shoes during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Rambu Suar Tanjung Mobulu",
+                "hu": "Rambu Suar Tanjung Mobulu",
+                "ro": "Rambu Suar Tanjung Mobulu",
+                "en": "Rambu Suar Tanjung Mobulu"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm kann schlammig sein; achten Sie auf tiefere Pfützen, die Schlaglöcher verbergen könnten.",
+                "hu": "A világítótoronyhoz vezető út saras lehet; ügyeljen a mélyebb tócsákra, amelyek kátyúkat rejthetnek.",
+                "ro": "Drumul spre far poate fi noroios; atenție la bălțile mai adânci care ar putea ascunde gropi în asfalt.",
+                "en": "The path to the lighthouse can be muddy; watch out for deeper puddles that might hide potholes in the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu",
+                "hu": "Uluwatu",
+                "ro": "Uluwatu",
+                "en": "Uluwatu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen als Chance für dramatische Fotos der Brandung, aber halten Sie die Kamera beim Fahren wasserdicht verpackt.",
+                "hu": "Használja ki az esőt a drámai hullámverés fotózásához, de menet közben tartsa a kamerát vízhatlan tokban.",
+                "ro": "Profită de ploaie pentru fotografii dramatice cu valurile, dar păstrează camera într-o husă impermeabilă în timp ce mergi.",
+                "en": "Use the rain as a chance for dramatic surf photos, but keep your camera in a waterproof bag while cycling between spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu-Tempel",
+                "hu": "Uluwatu templom",
+                "ro": "Templul Uluwatu",
+                "en": "Uluwatu Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Affen sind bei Regen oft unter Dächern versammelt; halten Sie Abstand, da sie auf nassem Boden unberechenbar sind.",
+                "hu": "A majmok esőben gyakran a tetők alatt gyűlnek össze; tartson távolságot, mert a vizes talajon kiszámíthatatlanok.",
+                "ro": "Maimuțele sunt adesea adunate sub acoperișuri pe ploaie; păstrați distanța, deoarece sunt imprevizibile pe sol umed.",
+                "en": "Monkeys often gather under roofs during rain; keep your distance as they can be unpredictable on wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangs-Aussichtspunkt",
+                "hu": "Naplemente kilátó",
+                "ro": "Punct de belvedere la apus",
+                "en": "Sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Wind das Radfahren zu nah an der Kante; die Sicht auf das stürmische Meer ist auch von weiter hinten toll.",
+                "hu": "Erős szélben kerülje a kerékpározást a szikla szélén; a viharos tenger látványa távolabbról is lenyűgöző.",
+                "ro": "Evitați ciclismul prea aproape de margine pe vânt puternic; vederea mării înfuriate este grozavă și de mai departe.",
+                "en": "Avoid cycling too close to the edge in high winds; the view of the stormy sea is great even from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Karang Boma Klippe",
+                "hu": "Karang Boma szikla",
+                "ro": "Stânca Karang Boma",
+                "en": "Karang Boma Cliff"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier sehr lehmig und rutschig; steigen Sie vom Rad ab und gehen Sie das letzte Stück zu Fuß.",
+                "hu": "A talaj itt nagyon agyagos és csúszós; szálljon le a bicikliről, és az utolsó szakaszt tegye meg gyalog.",
+                "ro": "Solul aici este foarte argilos și alunecos; coborâți de pe bicicletă și parcurgeți ultima porțiune pe jos.",
+                "en": "The ground here is very clayey and slippery; dismount your bike and walk the last section to the cliff edge safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgenwind macht das Radfahren belebend, aber Handschuhe könnten angenehm sein. Mittags ist die milde Wintersonne ideal für längere Fahrten ohne Überhitzung. Am Nachmittag werfen die Kalksteinfelsen lange Schatten auf die Straßen, was die Sicht leicht verändert. Am Abend sinkt die Temperatur nach 17 Uhr schnell, stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert.",
+            "hu": "A friss reggeli szél élénkítővé teszi a biciklizést, de egy vékony kesztyű jól jöhet. Délben az enyhe téli napsütés ideális a hosszabb távokhoz anélkül, hogy kimelegednénk. Délután a mészkősziklák hosszú árnyékot vetnek az utakra, ami megváltoztatja a látási viszonyokat. Este 17 óra után gyorsan hűl a levegő, ellenőrizze a lámpáit.",
+            "ro": "Un vânt proaspăt de dimineață face ciclismul revigorant, dar mănușile ar putea fi plăcute. La prânz, soarele blând de iarnă este ideal pentru călătorii lungi fără supraîncălzire. După-amiaza, stâncile de calcar aruncă umbre lungi pe drumuri. Seara, temperatura scade rapid după ora 17:00, asigurați-vă că luminile bicicletei funcționează.",
+            "en": "A fresh morning breeze makes cycling invigorating, but thin gloves might be comfortable. At noon, the mild winter sun is ideal for longer rides without overheating. In the afternoon, limestone cliffs cast long shadows on the roads, changing visibility. In the evening, the temperature drops quickly after 5 PM; ensure your bike lights are working."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pura Dalem Les",
+                "hu": "Pura Dalem Les",
+                "ro": "Pura Dalem Les",
+                "en": "Pura Dalem Les"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Brise im Tempelhof; die Steine heizen sich im Winter nicht so stark auf wie im Sommer.",
+                "hu": "Élvezze a hűvös szellőt a templomudvaron; a kövek télen nem melegszenek fel annyira, mint a nyári hőségben.",
+                "ro": "Bucurați-vă de briza răcoroasă din curtea templului; pietrele nu se încing la fel de tare iarna ca în timpul verii.",
+                "en": "Enjoy the cool breeze in the temple courtyard; the stones do not heat up as much in winter as they do in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Rambu Suar Tanjung Mobulu",
+                "hu": "Rambu Suar Tanjung Mobulu",
+                "ro": "Rambu Suar Tanjung Mobulu",
+                "en": "Rambu Suar Tanjung Mobulu"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist klarer, was den Blick vom Leuchtturm verbessert; tragen Sie beim Radfahren einen Halsschirm gegen den kühlen Fahrtwind.",
+                "hu": "A levegő tisztább, ami javítja a kilátást a toronytól; viseljen csősálat a kerékpározás közbeni hűvös menetszél ellen.",
+                "ro": "Aerul este mai clar, ceea ce îmbunătățește vederea de la far; purtați o eșarfă pentru gât împotriva vântului rece de rulare.",
+                "en": "The air is clearer, improving the view from the lighthouse area; wear a neck gaiter against the cool wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu",
+                "hu": "Uluwatu",
+                "ro": "Uluwatu",
+                "en": "Uluwatu"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tiefer, was fantastische Kontraste auf den Wellen erzeugt; parken Sie Ihr Rad im Schatten, um Kondensation zu vermeiden.",
+                "hu": "A téli nap alacsonyabban jár, ami fantasztikus kontrasztokat teremt a hullámokon; parkoljon árnyékban a páralecsapódás ellen.",
+                "ro": "Soarele de iarnă este mai jos, creând contraste fantastice pe valuri; parcați bicicleta la umbră pentru a evita condensul.",
+                "en": "The winter sun is lower, creating fantastic contrasts on the waves; park your bike in the shade to prevent seat condensation."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu-Tempel",
+                "hu": "Uluwatu templom",
+                "ro": "Templul Uluwatu",
+                "en": "Uluwatu Temple"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Besichtigungen ohne die extreme Hitze; bringen Sie eine Weste für den Rückweg auf dem Rad in der Dämmerung mit.",
+                "hu": "Ideális a nézelődésre az extrém hőség nélkül; vigyen egy mellényt a kerékpáros visszautazáshoz a szürkületben.",
+                "ro": "Ideal pentru vizitare fără căldura extremă; aduceți o vestă pentru drumul de întoarcere pe bicicletă la amurg.",
+                "en": "Ideal for sightseeing without the extreme tropical heat; bring a vest for the bike ride back in the early winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangs-Aussichtspunkt",
+                "hu": "Naplemente kilátó",
+                "ro": "Punct de belvedere la apus",
+                "en": "Sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter farbintensiver; machen Sie sich sofort nach dem Verschwinden der Sonne auf den Heimweg.",
+                "hu": "A naplemente télen színpompásabb; induljon haza közvetlenül azután, hogy a nap eltűnik a látóhatáron.",
+                "ro": "Apusul este mai colorat iarna; porniți spre casă imediat după ce soarele dispare de pe orizont.",
+                "en": "The sunset is more colorful in winter; head home immediately after the sun disappears to avoid cycling in total dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Karang Boma Klippe",
+                "hu": "Karang Boma szikla",
+                "ro": "Stânca Karang Boma",
+                "en": "Karang Boma Cliff"
+              },
+              "tip_5lang": {
+                "de": "Harte Windböen sind im Winter häufiger; sichern Sie Ihr Rad beim Abstellen gut gegen Umkippen durch Windstöße.",
+                "hu": "Télen gyakoribbak az erős széllökések; rögzítse jól a biciklit leállításkor, hogy a szél ne dönthesse fel.",
+                "ro": "Rafalele puternice de vânt sunt mai frecvente iarna; asigurați bine bicicleta la parcare pentru a nu fi răsturnată de vânt.",
+                "en": "Strong wind gusts are more frequent in winter; secure your bike well when parking to prevent it from being blown over."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje az utat a Pura Kulatnál, egy rejtett gyöngyszemnél, majd látogasson el a békés Pura Dalem Les-be. Ezek a templomok mély kulturális elmélyülést kínálnak a reggeli csendben.\n\nDélben nézze meg a parti világítótornyot, mielőtt az ikonikus Uluwatu templomhoz hajtana. Az autó kényelme révén könnyedén válthat az eldugott helyek és a főbb látványosságok között.\n\nDélután élvezze a sziklás kilátást, és túrázzon le az érintetlen Nyang Nyang strandhoz. A magas sziklák és a fehér homok drámai kontrasztja teljesen lenyűgöző.\n\nUtazása a sziklákon álló modern kápolnánál ér véget. Nézze végig, ahogy az ég rózsaszínre és narancssárgára változik az Indiai-óceán felett, tökéletes befejezést nyújtva.",
         "ro": "Începeți traseul la Pura Kulat, o bijuterie ascunsă care oferă liniște dimineața, urmată de Pura Dalem Les. Aceste temple oferă o imersiune culturală profundă.\n\nLa prânz, vizitați farul de coastă înainte de a vă îndrepta spre iconicul Templu Uluwatu. Confortul mașinii vă permite să treceți ușor de la locuri retrase la repere majore.\n\nDupă-amiaza, bucurați-vă de priveliștile de pe stânci și coborâți spre plaja curată Nyang Nyang. Contrastul dramatic dintre stâncile înalte și nisipul alb este fascinant.\n\nCălătoria se încheie la Capelă, o minune arhitecturală situată perfect pe stânci. Priviți cum cerul devine roz și portocaliu deasupra Oceanului Indian pentru un final perfect.",
         "en": "Start your scenic drive at Pura Kulat, a hidden gem offering profound early morning tranquility, followed by the equally serene Pura Dalem Les. These temples provide a deep cultural immersion.\n\nBy midday, visit the coastal lighthouse before heading to the iconic Uluwatu Temple. The convenience of a car lets you easily transition from secluded spots to major landmarks.\n\nIn the afternoon, enjoy sweeping cliffside views and make the trek down to the pristine Nyang Nyang beach. The dramatic contrast between the high cliffs and the white sand is mesmerizing.\n\nYour journey concludes at The Chapel, a stunning architectural marvel perfectly positioned on the cliffs. Watch the sky turn pink and orange over the Indian Ocean for a perfect finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen im Auto bietet Schutz vor dem tropischen Regen, nutzen Sie die Klimaanlage gegen Beschlag. Mittags sind die Straßen oft überflutet, fahren Sie langsam durch Wasseransammlungen. Am Nachmittag bieten die Aussichtspunkte vom Fenster aus dramatische Ausblicke auf den grauen Ozean. Abends sind die Fahrbedingungen bei starkem Regen schwierig, planen Sie mehr Zeit für die Rückfahrt ein.",
+            "hu": "Az autó védelmet nyújt a trópusi eső elől, használja a légkondicionálót a párásodás ellen. Délben az utak gyakran víz alatt állnak, lassan haladjon át a pocsolyákon. Délután a kilátópontok az ablakból is drámai látványt nyújtanak a szürke óceánra. Este a vezetési körülmények nehezek a felhőszakadásban, tervezzen több időt a hazaútra.",
+            "ro": "Dimineața în mașină oferă protecție împotriva ploii tropicale, folosiți aerul condiționat împotriva aburirii. La prânz, drumurile sunt adesea inundate, conduceți încet prin bălți. După-amiaza, punctele de belvedere oferă vederi dramatice spre ocean chiar și de la geam. Seara, condițiile de condus sunt grele pe ploaie torențială, planificați mai mult timp.",
+            "en": "The morning in the car provides shelter from tropical rain; use the AC to prevent the windshield from fogging up. At noon, roads are often flooded, so drive slowly through water accumulations. In the afternoon, viewpoints offer dramatic views of the gray ocean even from the window. Evening driving conditions are difficult in heavy rain; plan more time for the return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pura Kulat",
+                "hu": "Pura Kulat",
+                "ro": "Pura Kulat",
+                "en": "Pura Kulat"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu vermeiden; der Weg zum Tempel kann sehr matschig sein.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz az eső elkerülése végett; a templomhoz vezető út nagyon saras lehet.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; drumul spre templu poate fi foarte noroios.",
+                "en": "Park as close as possible to the entrance to avoid the rain; the path to the temple can be very muddy and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Dalem Les",
+                "hu": "Pura Dalem Les",
+                "ro": "Pura Dalem Les",
+                "en": "Pura Dalem Les"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm-Service des Fahrers, falls vorhanden; die antiken Tore sehen im Regen besonders mystisch aus.",
+                "hu": "Használja a sofőr esernyő-szolgáltatását, ha van; az ősi kapuk esőben különösen misztikus látványt nyújtanak.",
+                "ro": "Folosiți serviciul de umbrele al șoferului, dacă este disponibil; porțile antice arată deosebit de mistic pe ploaie.",
+                "en": "Use the driver's umbrella service if available; the ancient gates look particularly mystical in the tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rambu Suar Tanjung Mobulu",
+                "hu": "Rambu Suar Tanjung Mobulu",
+                "ro": "Rambu Suar Tanjung Mobulu",
+                "en": "Rambu Suar Tanjung Mobulu"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen tollen Blick auf den Leuchtturm; vermeiden Sie es, auf unbefestigten Seitenstreifen zu parken.",
+                "hu": "Az autóból remek kilátás nyílik a világítótoronyra; kerülje a parkolást a burkolatlan útpadkán a sár miatt.",
+                "ro": "Din mașină aveți o vedere excelentă spre far; evitați parcarea pe acostamentele neasfaltate din cauza noroiului.",
+                "en": "You get a great view of the lighthouse from the car; avoid parking on unpaved roadsides as the ground is soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu-Tempel",
+                "hu": "Uluwatu templom",
+                "ro": "Templul Uluwatu",
+                "en": "Uluwatu Temple"
+              },
+              "tip_5lang": {
+                "de": "Der Tempelbesuch erfordert trotz Auto einen kurzen Fußweg; achten Sie auf die nassen Treppenstufen beim Aufstieg.",
+                "hu": "A templomlátogatás az autó ellenére rövid gyaloglást igényel; ügyeljen a vizes lépcsőfokokra a felfelé menetnél.",
+                "ro": "Vizitarea templului necesită o scurtă plimbare în ciuda mașinii; atenție la treptele umede în timpul urcării.",
+                "en": "The temple visit requires a short walk despite having a car; be careful on the wet steps during the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangs-Aussichtspunkt",
+                "hu": "Naplemente kilátó",
+                "ro": "Punct de belvedere la apus",
+                "en": "Sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Gewitter im Fahrzeug; die Blitze über dem Indischen Ozean sind vom Auto aus sicher zu beobachten.",
+                "hu": "Heves vihar esetén maradjon a járműben; az Indiai-óceán feletti villámlás az autóból is biztonságosan megfigyelhető.",
+                "ro": "Rămâneți în vehicul în caz de furtună puternică; fulgerele peste Oceanul Indian pot fi observate în siguranță din mașină.",
+                "en": "Stay in the vehicle during heavy thunderstorms; lightning over the Indian Ocean is safe to watch from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Karang Boma Klippe",
+                "hu": "Karang Boma szikla",
+                "ro": "Stânca Karang Boma",
+                "en": "Karang Boma Cliff"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann sehr rutschig sein; lassen Sie Ihren Fahrer entscheiden, wie nah er an die Klippe heranfahren kann.",
+                "hu": "A behajtó út nagyon csúszós lehet; hagyja, hogy a sofőr döntse el, mennyire tud közel hajtani a sziklához.",
+                "ro": "Drumul de acces poate fi foarte alunecos; lăsați șoferul să decidă cât de aproape poate conduce de stâncă.",
+                "en": "The access road can be very slippery; let your driver decide how close they can safely get to the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Nyang Nyang",
+                "hu": "Nyang Nyang",
+                "ro": "Nyang Nyang",
+                "en": "Nyang Nyang"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem trockenen Auto; die Klippenstraße bietet tolle Fotostopps ohne nass zu werden.",
+                "hu": "Élvezze a panorámát a száraz autóból; a szikla menti út remek fotómegállókat kínál anélkül, hogy megázna.",
+                "ro": "Bucurați-vă de panoramă din mașina uscată; drumul de pe stâncă oferă opriri foto grozave fără a vă uda.",
+                "en": "Enjoy the panorama from the dry car; the cliff road offers great photo stops without you getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Kapelle",
+                "hu": "A Kápolna",
+                "ro": "Capela",
+                "en": "The Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den Abschluss des Tages im Regen; die moderne Architektur wirkt im trüben Licht sehr elegant.",
+                "hu": "Ideális hely a nap befejezéséhez esőben; a modern építészet a borús fényben is nagyon elegánsan hat.",
+                "ro": "Un loc ideal pentru încheierea zilei pe ploaie; arhitectura modernă arată foarte elegant în lumina tulbure.",
+                "en": "An ideal place to end the day in the rain; the modern architecture looks very elegant even in the gloomy light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen mit angenehmen Temperaturen im Auto, die Heizung ist meist nicht nötig. Mittags ist das Licht perfekt für Fotos aus dem Fenster, da die Luft sehr trocken und staubfrei ist. Am Nachmittag rückt der frühe Sonnenuntergang näher, planen Sie Ihre Stopps straff. Am Abend nach 17 Uhr kühlt es merklich ab, schließen Sie die Fenster für eine gemütliche Fahrt.",
+            "hu": "Tiszta téli reggel, kellemes hőmérséklettel az autóban, a fűtés általában nem szükséges. Délben a fények tökéletesek az ablakból való fotózáshoz, mivel a levegő száraz és pormentes. Délután a korai naplemente közeledik, tervezze szorosra a megállókat. Este 17 óra után érezhetően lehűl a levegő, zárja be az ablakokat a kényelmes utazáshoz.",
+            "ro": "O dimineață senină de iarnă, cu temperaturi plăcute în mașină. La prânz, lumina este perfectă pentru fotografii de la geam, deoarece aerul este foarte uscat. După-amiaza, apusul timpuriu se apropie, planificați-vă opririle riguros. Seara, după ora 17:00, se răcește vizibil, închideți geamurile pentru o călătorie confortabilă.",
+            "en": "A clear winter morning with pleasant temperatures in the car; AC is barely needed. At noon, the light is perfect for photos from the window as the air is dry and dust-free. In the afternoon, the early sunset approaches, so keep your stops brief to see everything. After 5 PM, it cools down noticeably; close the windows for a cozy ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pura Kulat",
+                "hu": "Pura Kulat",
+                "ro": "Pura Kulat",
+                "en": "Pura Kulat"
+              },
+              "tip_5lang": {
+                "de": "Das milde Wetter macht den kurzen Spaziergang vom Parkplatz zum Tempel sehr angenehm; genießen Sie die klare Sicht.",
+                "hu": "Az enyhe időjárás kellemessé teszi a rövid sétát a parkolótól a templomig; élvezze a tiszta kilátást.",
+                "ro": "Vremea blândă face scurta plimbare de la parcare la templu foarte plăcută; bucurați-vă de vederea clară.",
+                "en": "The mild weather makes the short walk from the parking lot to the temple very pleasant; enjoy the clear visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Dalem Les",
+                "hu": "Pura Dalem Les",
+                "ro": "Pura Dalem Les",
+                "en": "Pura Dalem Les"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstrukturen heizen sich nicht so stark auf; nutzen Sie die kühleren Stunden für detaillierte Tempelfotos.",
+                "hu": "A kőszerkezetek nem melegszenek fel annyira; használja ki a hűvösebb órákat a részletes templomi fotókhoz.",
+                "ro": "Structurile de piatră nu se încing atât de tare; profitați de orele mai răcoroase pentru fotografii detaliate ale templului.",
+                "en": "The stone structures do not heat up as much; take advantage of the cooler hours for detailed temple photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Rambu Suar Tanjung Mobulu",
+                "hu": "Rambu Suar Tanjung Mobulu",
+                "ro": "Rambu Suar Tanjung Mobulu",
+                "en": "Rambu Suar Tanjung Mobulu"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Horizont oft staubfrei, was eine unglaubliche Weitsicht vom Leuchtturm-Areal aus ermöglicht.",
+                "hu": "Télen a horizont gyakran pormentes, ami hihetetlen távolbalátást tesz lehetővé a világítótorony környékéről.",
+                "ro": "Iarna, orizontul este adesea lipsit de praf, ceea ce permite o vizibilitate incredibilă de la zona farului.",
+                "en": "In winter, the horizon is often dust-free, allowing for incredible long-distance views from the lighthouse area."
+              }
+            },
+            {
+              "name": {
+                "de": "Uluwatu-Tempel",
+                "hu": "Uluwatu templom",
+                "ro": "Templul Uluwatu",
+                "en": "Uluwatu Temple"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter weniger überfüllt; planen Sie den Besuch für 15:30 Uhr, um das beste Licht zu haben.",
+                "hu": "A parkoló télen kevésbé zsúfolt; tervezze a látogatást 15:30-ra, hogy a legjobb fényeket kapja el.",
+                "ro": "Parcarea este mai puțin aglomerată iarna; planificați vizita pentru ora 15:30 pentru a prinde cea mai bună lumină.",
+                "en": "The parking lot is less crowded in winter; plan your visit for 3:30 PM to catch the best golden light before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Sonnenuntergangs-Aussichtspunkt",
+                "hu": "Naplemente kilátó",
+                "ro": "Punct de belvedere la apus",
+                "en": "Sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Sonnenuntergang direkt aus dem Auto genießen können, falls es draußen zu windig wird.",
+                "hu": "Parkoljon úgy, hogy a naplementét közvetlenül az autóból is élvezhesse, ha kint túl szelesre fordulna az idő.",
+                "ro": "Parcați astfel încât să vă puteți bucura de apus direct din mașină, în cazul în care afară devine prea vântos.",
+                "en": "Park in a position where you can enjoy the sunset directly from the car if it gets too windy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Karang Boma Klippe",
+                "hu": "Karang Boma szikla",
+                "ro": "Stânca Karang Boma",
+                "en": "Karang Boma Cliff"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Jacke mit, wenn Sie das Auto verlassen; der Wind an der Klippe ist im Winter besonders frisch.",
+                "hu": "Vigyen magával dzsekit, ha kiszáll az autóból; a sziklánál fújó szél télen különösen frissítő tud lenni.",
+                "ro": "Aduceți o jachetă când coborâți din mașină; vântul de la stâncă este deosebit de răcoros în timpul iernii.",
+                "en": "Bring a jacket when you get out of the car; the wind at the cliff edge is particularly fresh during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Nyang Nyang",
+                "hu": "Nyang Nyang",
+                "ro": "Nyang Nyang",
+                "en": "Nyang Nyang"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt lange Schatten in der Landschaft; nutzen Sie die erhöhte Position für weite Landschaftsfotos.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a tájra; használja ki a magaslati pontot a tágas tájképekhez.",
+                "ro": "Soarele jos aruncă umbre lungi asupra peisajului; profitați de poziția înaltă pentru fotografii panoramice.",
+                "en": "The low-hanging sun creates long shadows across the landscape; use the elevated position for wide scenic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Kapelle",
+                "hu": "A Kápolna",
+                "ro": "Capela",
+                "en": "The Chapel"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude leuchtet im klaren Winterlicht besonders hell; ein perfekter, warmer Ort, um den Tag entspannt zu beenden.",
+                "hu": "Az épület a tiszta téli fényben különösen fényesen ragyog; tökéletes, meleg hely a nap nyugodt befejezéséhez.",
+                "ro": "Clădirea strălucește deosebit de tare în lumina clară de iarnă; un loc perfect și cald pentru a încheia ziua relaxat.",
+                "en": "The building glows brightly in the clear winter light; a perfect, warm spot to end the day in total relaxation."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "A reggel a történelmi Concello épületénél indul, majd a Praia de Laxe partján frissülhet fel. Délben a Museo do Mar kiállításai és a lenyűgöző Igrexa da Atalaia várják. Délután csodálja meg a szikrázó Praia dos Cristais-t és a Miradoiro da Insua panorámáját. Az estét a Faro de Laxe világítótorony naplementéje teszi tökéletessé.",
         "ro": "Dimineața începe la istoricul Concello, urmată de o oprire revigorantă la Praia de Laxe. La amiază, explorați exponatele de la Museo do Mar și impresionanta biserică Santa María da Atalaia. După-amiaza admirați plaja Praia dos Cristais și priveliștea de la Miradoiro da Insua. Seara se încheie perfect la farul din Laxe.",
         "en": "Morning begins at the historic Concello before a refreshing stop at Praia de Laxe. Midday takes you to the rich exhibits of Museo do Mar and the stunning Igrexa de Santa María da Atalaia. In the afternoon, marvel at the sparkling Praia dos Cristais and panoramic Miradoiro da Insua. Evening falls perfectly with sunset views at Faro de Laxe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Rathaus, wo Sie unter den Arkaden Schutz finden. Mittags bietet das Meeresmuseum eine ideale trockene Zuflucht, um in die Geschichte der Seefahrt einzutauchen. Nachmittags glänzen die Glasscherben am Strand bei Regen besonders intensiv; nutzen Sie feste Schuhe für die rutschigen Wege. Der Abend am Leuchtturm ist windig und rau, aber spektakulär.",
+            "hu": "A reggeli eső elől a városháza beugrói adnak menedéket, ahol megtervezheti a napot. Délben a tengerészeti múzeum falai között maradhat szárazon, miközben Laxe múltját ismeri meg. Délután a Praia dos Cristais üvegdarabjai különleges fénnyel ragyognak az esőben; a vizes köveken óvatosan járjon. Az este a világítótoronynál zárul, ahol az óceán ereje a szakadó esőben is lenyűgöző látvány.",
+            "ro": "Începeți dimineața ploioasă la primărie, folosind arcadele ca adăpost temporar. La prânz, Muzeul Mării oferă refugiul perfect pentru a explora istoria maritimă fără a vă uda. După-amiaza, fragmentele de sticlă de pe plajă strălucesc intens sub stropii de ploaie; atenție la potecile alunecoase. Seara la far este marcată de vânt și valuri spectaculoase, un final dramatic pentru o zi umedă.",
+            "en": "Start your rainy morning at the town hall, using the building's overhangs for shelter. At noon, the Maritime Museum provides a perfect dry haven to explore local history. In the afternoon, the glass shards at the beach glow intensely in the rain; wear sturdy boots as the paths become slippery. The evening at the lighthouse is windy and raw, but the view of the stormy Atlantic is unforgettable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Concello de Laxe",
+                "hu": "Concello de Laxe",
+                "ro": "Concello de Laxe",
+                "en": "Concello de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus sicherem Abstand unter einem Regenschirm und nutzen Sie den überdachten Eingangsbereich, um sich trocken zu orientieren.",
+                "hu": "Csodálja meg az épület homlokzatát az esernyő alól, és használja a fedett bejárati részt a száraz várakozáshoz és a környék felfedezésének megtervezéséhez.",
+                "ro": "Admirați fațada primăriei de sub umbrelă și folosiți zona de intrare acoperită pentru a vă orienta fără a fi expus direct precipitațiilor constante.",
+                "en": "Admire the granite facade from beneath your umbrella and use the sheltered entrance area to stay dry while you plan your next moves through the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Laxe",
+                "hu": "Praia de Laxe",
+                "ro": "Praia de Laxe",
+                "en": "Praia de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang auf der gepflasterten Promenade ist bei Regen sicherer als der nasse Sand; genießen Sie den Anblick der aufgewühlten See bei grauem Himmel.",
+                "hu": "A kövezett sétányon való séta esőben biztonságosabb, mint a süppedős homok; élvezze a felkavart tenger látványát a szürke égbolt alatt, vízálló cipőben.",
+                "ro": "O plimbare pe faleza pavată este mai sigură pe timp de ploaie decât mersul prin nisipul ud; admirați marea agitată sub cerul plumburiu de pe trotuar.",
+                "en": "A stroll along the paved promenade is much safer in the rain than walking on wet sand; enjoy the dramatic view of the choppy sea from the solid path."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um dem Regen zu entfliehen; nehmen Sie sich viel Zeit für die Ausstellungen im Inneren, während es draußen stürmt.",
+                "hu": "Ez a tökéletes hely az eső előli menekülésre; szánjon bőséges időt a belső kiállítások felfedezésére, miközben odakint tombol a tengeri vihar.",
+                "ro": "Acesta este locul ideal pentru a scăpa de ploaie; acordați-vă timp suficient pentru a explora expozițiile interioare în timp ce afară vremea este neprietenoasă.",
+                "en": "This is the ultimate spot to escape the rain; take your time exploring the indoor maritime exhibits while the storm rages outside on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María da Atalaia",
+                "hu": "Igrexa de Santa María da Atalaia",
+                "ro": "Igrexa de Santa María da Atalaia",
+                "en": "Igrexa de Santa María da Atalaia"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten perfekten Schutz vor Wind und Wetter; bewundern Sie die religiöse Kunst in der stillen, trockenen Atmosphäre der Kirche.",
+                "hu": "A vastag kőfalak tökéletes védelmet nyújtanak a szél és az eső ellen; csodálja meg a vallási művészetet a templom csendes, száraz atmoszférájában.",
+                "ro": "Zidurile groase de piatră oferă o protecție excelentă împotriva vântului și ploii; admirați arta religioasă în atmosfera liniștită și uscată a bisericii.",
+                "en": "The thick stone walls provide excellent shelter from the wind and rain; enjoy the religious art in the church's quiet and dry interior sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Cristais",
+                "hu": "Praia dos Cristais",
+                "ro": "Praia dos Cristais",
+                "en": "Praia dos Cristais"
+              },
+              "tip_5lang": {
+                "de": "Die geschliffenen Glasscherben leuchten im Regen besonders farbenfroh; seien Sie beim Abstieg vorsichtig, da die Felsen bei Nässe extrem rutschig sind.",
+                "hu": "A csiszolt üvegdarabok az esőtől vizesen különösen élénken csillognak; legyen nagyon óvatos a lejtőn, mert a sziklák ilyenkor rendkívül csúszósak lehetnek.",
+                "ro": "Fragmentele de sticlă șlefuită strălucesc mai colorat în ploaie; fiți foarte atenți la coborâre, deoarece stâncile umede devin extrem de alunecoase.",
+                "en": "The polished glass fragments glow vibrantly when wet from the rain; use extreme caution during the descent as the rocks become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro da Insua",
+                "hu": "Miradoiro da Insua",
+                "ro": "Miradoiro da Insua",
+                "en": "Miradoiro da Insua"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die neblige Küste nur kurz, da der Wind hier oben oft peitschenden Regen mit sich bringt; halten Sie Ihre Kapuze gut fest.",
+                "hu": "Csak rövid ideig élvezze a ködös partvidék látványát, mert a szél itt gyakran vízszintesen hordja az esőt; fogja erősen az esernyőjét vagy kapucniját.",
+                "ro": "Admirați coasta cețoasă doar pentru scurt timp, deoarece vântul de aici aduce adesea ploaie bătută; asigurați-vă bine gluga hainei impermeabile.",
+                "en": "Take a quick look at the misty coastline, as the wind here often blows rain sideways; keep your waterproof hood tightly secured against the gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Laxe",
+                "hu": "Faro de Laxe",
+                "ro": "Faro de Laxe",
+                "en": "Faro de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im Regen besonders trotzig; halten Sie großen Abstand zu den Klippen, da Gischt und Regen die Sicht und Trittsicherheit einschränken.",
+                "hu": "A világítótorony látványa az esőben különösen drámai; tartson tisztes távolságot a szikláktól, mert a sós pára és az eső rontja a látási viszonyokat.",
+                "ro": "Farul arată deosebit de dramatic în ploaie; păstrați o distanță sigură de marginea falezei, deoarece vizibilitatea și aderența sunt reduse considerabil.",
+                "en": "The lighthouse looks particularly dramatic in the rain; keep a very safe distance from the cliff edges as spray and rain reduce visibility and grip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen in Laxe beginnt am ruhigen Rathaus. Mittags wärmt Sie die Geschichte im Meeresmuseum auf, ein idealer Ort gegen die beißende Brise. Nachmittags taucht die tiefe Wintersonne den Glasstrand in ein magisches Licht, bevor es gegen 17:00 Uhr bereits dunkel wird. Den Abend verbringen Sie am Leuchtturm, um das frühe Erlöschen des Tages über dem Atlantik zu beobachten.",
+            "hu": "A friss téli reggel a csendes városházánál indul, ahol a tiszta levegő felfrissít. Délben a tengerészeti múzeum fűtött tereiben melegedhet fel a metsző tengeri szél után. Délután a Praia dos Cristais üvegcsillogása a korai naplementében a legszebb, hiszen 17:00 körül már sötétedik. Az estét a világítótoronynál zárja, figyelve a téli szürkület mélyülését.",
+            "ro": "O dimineață răcoroasă de iarnă începe la primăria liniștită din Laxe. La prânz, încălziți-vă în spațiile Muzeului Mării pentru a scăpa de briza tăioasă a oceanului. După-amiaza, soarele palid de iarnă luminează plaja de sticlă înainte de apusul timpuriu de la ora 17:00. Seara se încheie la far, unde puteți observa cum întunericul se așterne rapid peste apele reci.",
+            "en": "A crisp winter morning in Laxe starts at the quiet town hall. At noon, warm up inside the Maritime Museum, an ideal refuge from the biting coastal breeze. In the afternoon, the low winter sun casts a magical glow over Glass Beach before darkness arrives around 17:00. Spend the evening at the lighthouse to witness the early sunset over the vast Atlantic horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Concello de Laxe",
+                "hu": "Concello de Laxe",
+                "ro": "Concello de Laxe",
+                "en": "Concello de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Rundgang hier und tragen Sie mehrere Schichten Kleidung, da die kalte Morgenluft in den engen Gassen von Laxe lange verweilt.",
+                "hu": "Kezdje itt a sétát, és öltözzön rétegesen, mert a hideg reggeli levegő sokáig megmarad Laxe szűk, gránitépületekkel övezett utcáin.",
+                "ro": "Începeți traseul aici și purtați mai multe straturi de haine, deoarece aerul rece de dimineață persistă pe străzile înguste din Laxe.",
+                "en": "Start your walk here and dress in layers, as the cold morning air tends to linger in the narrow granite-lined streets of Laxe's old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Laxe",
+                "hu": "Praia de Laxe",
+                "ro": "Praia de Laxe",
+                "en": "Praia de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Strandes im Winter; ein winddichter Mantel ist unerlässlich, um die frische, salzige Brise ohne Frieren zu erleben.",
+                "hu": "Élvezze a strand téli magányát; egy szélálló kabát elengedhetetlen, hogy fázás nélkül tapasztalja meg a tenger friss, sós illatát a parton.",
+                "ro": "Bucurați-vă de singurătatea plajei pe timp de iarnă; o haină rezistentă la vânt este esențială pentru a simți briza sărată fără a îngheța.",
+                "en": "Enjoy the peaceful solitude of the beach in winter; a windproof coat is essential to experience the fresh, salty breeze without catching a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Museumsbesuch zur Mittagszeit, um sich in den beheizten Räumen aufzuwärmen und gleichzeitig die lokale Kultur kennenzulernen.",
+                "hu": "Használja ki a múzeumlátogatást a déli órákban, hogy a fűtött termekben felmelegedjen, miközben elmélyül a helyi tengerészeti kultúrában.",
+                "ro": "Profitați de vizita la muzeu la prânz pentru a vă încălzi în interior, în timp ce învățați despre bogata cultură maritimă a regiunii.",
+                "en": "Take advantage of the museum visit at midday to warm up in the indoor galleries while immersing yourself in the fascinating local maritime culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María da Atalaia",
+                "hu": "Igrexa de Santa María da Atalaia",
+                "ro": "Igrexa de Santa María da Atalaia",
+                "en": "Igrexa de Santa María da Atalaia"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, aber sie schützen auch vor dem schneidenden Wind; bewundern Sie, wie das tiefe Winterlicht durch die Fenster fällt.",
+                "hu": "A vastag falak ugyan tartják a hideget, de védenek a metsző széltől; figyelje meg, ahogy a lapos téli napfény bevilágítja az ódon belső teret.",
+                "ro": "Zidurile groase pot fi reci, dar oferă adăpost împotriva vântului tăios; observați cum lumina slabă de iarnă pătrunde prin ferestrele vechi.",
+                "en": "The thick walls might be chilly, but they offer great shelter from the biting wind; notice how the low winter light illuminates the ancient interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Cristais",
+                "hu": "Praia dos Cristais",
+                "ro": "Praia dos Cristais",
+                "en": "Praia dos Cristais"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen magischen Ort früh am Nachmittag, um die glitzernden Kristalle noch bei Tageslicht zu sehen, bevor die Schatten länger werden.",
+                "hu": "Látogasson el ide kora délután, hogy a csillogó kristályokat még teljes nappali fényben láthassa, mielőtt a téli árnyékok elnyúlnak az öbölben.",
+                "ro": "Vizitați acest loc magic devreme după-amiaza pentru a vedea cristalele strălucitoare în lumina zilei, înainte ca umbrele de iarnă să se lungească.",
+                "en": "Visit this magical spot early in the afternoon to see the sparkling crystals in full daylight before the long winter shadows cover the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro da Insua",
+                "hu": "Miradoiro da Insua",
+                "ro": "Miradoiro da Insua",
+                "en": "Miradoiro da Insua"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die stürmische winterliche See ist atemberaubend; tragen Sie eine Mütze und Handschuhe, da der Wind hier oben sehr kräftig weht.",
+                "hu": "A kilátás a viharos téli tengerre lélegzetelállító; viseljen sapkát és kesztyűt, mert a szél itt fent rendkívül erősen és hidegen fújhat.",
+                "ro": "Priveliștea asupra mării agitate de iarnă este uluitoare; purtați căciulă și mănuși, deoarece vântul de pe înălțimi suflă cu mare putere.",
+                "en": "The view of the turbulent winter sea is breathtaking; wear a hat and gloves as the wind at this height can be extremely strong and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Laxe",
+                "hu": "Faro de Laxe",
+                "ro": "Faro de Laxe",
+                "en": "Faro de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft gegen 16:45 Uhr, um den winterlichen Sonnenuntergang zu erleben, wenn das Leuchtfeuer in der dämmerigen Kälte zu rotieren beginnt.",
+                "hu": "Időzítse érkezését 16:45 környékére, hogy tanúja legyen a téli naplementének, amikor a világítótorony fénye elkezdi vágni a sűrűsödő szürkületet.",
+                "ro": "Plănuiți sosirea în jurul orei 16:45 pentru a prinde apusul de iarnă, exact când lumina farului începe să se rotească în frigul serii.",
+                "en": "Plan your arrival for around 16:45 to witness the winter sunset just as the lighthouse beam starts rotating in the gathering twilight chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpártúráját a szeles Praia de Laxe partján, majd merüljön el a Museo do Mar tengeri történelmében. Délben tekerjen az A Furna da Escuma drámai szikláihoz és a magasló Faro de Laxe-hez. Töltsön egy pihentető délutánt a Praia de Soesto aranyhomokos strandján. A túra az ősi Castro romjainál ér véget.",
         "ro": "Începeți turul cu bicicleta la Praia de Laxe înainte de a descoperi istoria maritimă la Museo do Mar. La amiază, pedalați spre stâncile de la A Furna da Escuma și farul impresionant. Petreceți o după-amiază relaxantă pe nisipul auriu de la Praia de Soesto. Călătoria se încheie cu explorarea ruinelor antice Castro.",
         "en": "Start your bike tour at the breezy Praia de Laxe before diving into maritime history at Museo do Mar. By midday, pedal towards the dramatic natural cliffs of A Furna da Escuma and the towering Faro de Laxe. Spend a relaxed afternoon enjoying the golden sands of Praia de Soesto. Conclude your ride by exploring the ancient Castro ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den nassen Straßen von Laxe. Vormittags am Strand ist der Boden rutschig, also fahren Sie langsam. Mittags bietet das Museum eine willkommene Pause zum Trocknen. Nachmittags führen die Wege zu Küstenphänomenen wie Furna da Escuma, wo die Gischt mit dem Regen verschmilzt. Beenden Sie den Tag frühzeitig, bevor die Sicht im Regen zu stark nachlässt.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel Laxe csúszós útjain. Délelőtt a strandon a nedves aszfalton lassítson a kanyarokban. Délben a múzeum kiváló megálló a felszerelés megszárítására. Délután az út a Furna da Escumához vezet, ahol a tenger habja és az eső összeér. Fejezze be a napot korán, mielőtt a látótávolság az esőben túlságosan lecsökkenne.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile umede din Laxe. Dimineața, pe lângă plajă, solul este alunecos, deci pedalați cu viteză redusă. La prânz, muzeul oferă o pauză binemeritată pentru a vă usca. După-amiaza, drumul spre Furna da Escuma vă arată forța naturii unde spuma mării se amestecă cu ploaia. Încheiați ziua devreme pentru siguranță.",
+            "en": "A rainy bike tour requires caution on Laxe's wet roads. In the morning by the beach, the ground is slippery, so keep your speed low in turns. At noon, the museum is a great stop to dry off your gear. In the afternoon, the route leads to Furna da Escuma, where sea foam and rain meet. End your day early before visibility drops too much due to the heavy rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Laxe",
+                "hu": "Praia de Laxe",
+                "ro": "Praia de Laxe",
+                "en": "Praia de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Promenade; der Sand auf dem nassen Pflaster kann die Reifen zum Rutschen bringen, besonders beim Bremsen.",
+                "hu": "Óvatosan tekerjen a sétányon; a vizes köveken lévő homok miatt a kerekek könnyen megcsúszhatnak, különösen hirtelen fékezésnél.",
+                "ro": "Pedalați cu grijă pe faleză; nisipul de pe pavajul umed poate face roțile să alunece, mai ales în timpul frânării bruște.",
+                "en": "Ride carefully along the promenade; the combination of sand and wet pavement can be very slippery, especially when braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und nutzen Sie die Pause, um Ihre Regenbekleidung zu lüften, während Sie die Exponate bewundern.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a szünetet az esőruhája kiszellőztetésére, miközben a kiállítást nézi.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți pauza pentru a vă aerisi echipamentul de ploaie în timp ce vizitați interiorul muzeului.",
+                "en": "Park your bike in a sheltered spot and use this break to air out your rain gear while you enjoy the fascinating indoor maritime exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "A Furna da Escuma",
+                "hu": "A Furna da Escuma",
+                "ro": "A Furna da Escuma",
+                "en": "A Furna da Escuma"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Felsspalte ist bei Regen extrem tückisch; steigen Sie vom Rad ab und nähern Sie sich zu Fuß mit großer Vorsicht.",
+                "hu": "A sziklahasadék körüli talaj esőben rendkívül csalóka; szálljon le a bicikliről, és gyalogosan, fokozott óvatossággal közelítse meg a látnivalót.",
+                "ro": "Terenul din jurul fisurii stâncoase este trădător pe ploaie; coborâți de pe bicicletă și apropiați-vă pe jos cu mare atenție de margine.",
+                "en": "The ground around the sea chasm is treacherous in the rain; dismount your bike and approach on foot with extreme caution due to slippery rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Laxe",
+                "hu": "Faro de Laxe",
+                "ro": "Faro de Laxe",
+                "en": "Faro de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Rechnen Sie auf dem Weg zum Leuchtturm mit starken Seitenwinden, die Ihr Fahrrad im Regen instabil machen können; halten Sie den Lenker fest.",
+                "hu": "A világítótorony felé vezető úton számítson erős oldalszélre, amely az esőben bizonytalanná teheti a biciklit; fogja erősen a kormányt.",
+                "ro": "Pe drumul spre far, așteptați-vă la rafale puternice de vânt lateral care pot destabiliza bicicleta pe ploaie; țineți bine de ghidon.",
+                "en": "Expect strong crosswinds on the way to the lighthouse, which can make your bike unstable in the rain; maintain a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Soesto",
+                "hu": "Praia de Soesto",
+                "ro": "Praia de Soesto",
+                "en": "Praia de Soesto"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege zum Strand können sehr schlammig sein; prüfen Sie Ihre Bremsen regelmäßig auf Dreck und Feuchtigkeit.",
+                "hu": "A strandhoz vezető burkolatlan utak nagyon sárosak lehetnek; rendszeresen ellenőrizze a fékeket, mert a sár és a víz ronthatja a hatékonyságukat.",
+                "ro": "Drumurile neasfaltate spre plajă pot fi foarte noroioase; verificați periodic frânele pentru a vă asigura că funcționează optim în condiții umede.",
+                "en": "The unpaved paths to the beach can become very muddy; check your brakes regularly for dirt and moisture to ensure they remain effective."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro",
+                "hu": "Castro",
+                "ro": "Castro",
+                "en": "Castro"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen nur bei nachlassendem Regen, da das Gras zwischen den Steinen sehr rutschig ist; achten Sie auf festen Tritt.",
+                "hu": "A romokat csak gyengülő esőben látogassa, mert a kövek közötti fű nagyon csúszós; ügyeljen a biztos léptekre a történelmi falak között.",
+                "ro": "Vizitați ruinele doar dacă ploaia se mai potolește, deoarece iarba dintre pietre este alunecoasă; pășiți cu grijă printre zidurile vechi.",
+                "en": "Visit the ruins only when the rain lets up, as the grass between the ancient stones is very slick; maintain sure footing during your exploration."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Laxe bietet klare Luft und leere Wege. Beginnen Sie am Strand, wo die Brise kühl ist. Mittags ist das Museum der perfekte Ort, um steife Finger aufzuwärmen. Die Nachmittagsroute führt entlang der Küste, wo das Licht der frühen Dämmerung ab 16:30 Uhr eine magische Atmosphäre schafft. Beenden Sie Ihre Tour am Castro, bevor die winterliche Dunkelheit gegen 17:00 Uhr hereinbricht.",
+            "hu": "A téli kerékpározás Laxe körül tiszta levegőt és üres utakat ígér. Kezdjen a strandon, ahol a hűvös szél frissítően hat. Délben a múzeum tökéletes hely az elgémberedett ujjak felmelegítésére. A délutáni útvonal a part mentén halad, ahol a szürkületi fények már 16:30-kor megjelennek. Fejezze be a túrát a Castrónál, mielőtt 17:00 körül besötétedik.",
+            "ro": "Ciclismul de iarnă în Laxe oferă aer curat și drumuri libere. Începeți la plajă, unde briza este răcoroasă. La prânz, muzeul este locul perfect pentru a vă încălzi degetele amorțite de frig. Traseul de după-amiază urmează coasta, unde lumina crepusculară creează o atmosferă magică după ora 16:30. Încheiați tura la Castro înainte ca întunericul să se lase la ora 17:00.",
+            "en": "Winter cycling in Laxe offers crisp air and empty paths. Start at the beach, where the breeze is cooling but fresh. At noon, the museum is the perfect place to warm up stiff fingers. The afternoon route follows the coast, where the early twilight light creates a magical atmosphere from 16:30. Finish your tour at the Castro before winter darkness falls around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Laxe",
+                "hu": "Praia de Laxe",
+                "ro": "Praia de Laxe",
+                "en": "Praia de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der kalte Fahrtwind am Strand Ihre Hände schnell auskühlen lässt; genießen Sie die klare Sicht aufs Meer.",
+                "hu": "Viseljen szélálló kesztyűt, mert a hideg menetszél a parton hamar lehűtheti a kezeit; élvezze a kristálytiszta kilátást a téli tengerre.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece aerul rece de pe malul mării vă poate îngheța mâinile rapid; admirați vizibilitatea clară a apei.",
+                "en": "Wear windproof gloves, as the cold air while riding along the shore can quickly numb your hands; enjoy the exceptionally clear sea views."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo do Mar",
+                "hu": "Museo do Mar",
+                "ro": "Museo do Mar",
+                "en": "Museo do Mar"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein strategischer Halt, um die Kälte abzuschütteln; erkunden Sie die Geschichte der Seefahrt in angenehmer Wärme, bevor Sie weiterfahren.",
+                "hu": "Ez egy stratégiai megálló, hogy lerázza magáról a hideget; fedezze fel a tengerészeti múltat kellemes melegben, mielőtt folytatná az utat.",
+                "ro": "Aceasta este o oprire strategică pentru a scăpa de frig; explorați istoria maritimă în căldura plăcută a muzeului înainte de a pleca din nou.",
+                "en": "This is a strategic stop to shake off the winter chill; explore the maritime history in pleasant warmth before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "A Furna da Escuma",
+                "hu": "A Furna da Escuma",
+                "ro": "A Furna da Escuma",
+                "en": "A Furna da Escuma"
+              },
+              "tip_5lang": {
+                "de": "Die winterlichen Wellen sind hier besonders kraftvoll; steigen Sie vom Rad ab und genießen Sie das Naturschauspiel warm eingepackt aus sicherer Distanz.",
+                "hu": "A téli hullámok itt különösen erőteljesek; szálljon le a bicikliről, és melegen felöltözve, biztonságos távolságból csodálja meg a természet erejét.",
+                "ro": "Valurile de iarnă sunt extrem de puternice aici; coborâți de pe bicicletă și admirați spectacolul naturii de la o distanță sigură, bine înfofolit.",
+                "en": "The winter waves are especially powerful here; dismount your bike and enjoy the natural spectacle from a safe distance, wrapped up warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Laxe",
+                "hu": "Faro de Laxe",
+                "ro": "Faro de Laxe",
+                "en": "Faro de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber oben am Leuchtturm zieht der Wind kräftig; halten Sie für das Foto kurz an und fahren Sie dann zügig weiter.",
+                "hu": "Az emelkedő segít melegen tartani, de a toronynál erős a szél; álljon meg egy gyors fotóra, majd tekerjen tovább, hogy ne hűljön le a teste.",
+                "ro": "Urcarea vă va ține cald, dar sus la far vântul suflă cu putere; opriți-vă scurt pentru o fotografie și apoi continuați drumul pentru a nu răci.",
+                "en": "The climb will keep you warm, but the wind at the lighthouse is biting; stop briefly for a photo and then keep moving to maintain body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Soesto",
+                "hu": "Praia de Soesto",
+                "ro": "Praia de Soesto",
+                "en": "Praia de Soesto"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ein Paradies für Surfer; beobachten Sie sie kurz aus dem Schutz der Dünen, bevor die Sonne tiefer sinkt.",
+                "hu": "A strand télen a szörfösök paradicsoma; figyelje őket rövid ideig a dűnék védelméből, mielőtt a nap túl alacsonyra süllyedne a látóhatáron.",
+                "ro": "Plaja este un paradis pentru surferi iarna; urmăriți-i pentru scurt timp din adăpostul dunelor, înainte ca soarele să coboare prea mult.",
+                "en": "The beach is a surfer's paradise in winter; watch them briefly from the shelter of the dunes before the sun drops too low on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro",
+                "hu": "Castro",
+                "ro": "Castro",
+                "en": "Castro"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen zügig, da es in der späten Nachmittagssonne schnell abkühlt; das tiefe Licht betont die alten Steinmauern wunderbar.",
+                "hu": "Látogassa meg a romokat tempósan, mert a késő délutáni napfényben gyorsan hűl a levegő; a súroló fény gyönyörűen kiemeli az ősi kőfalakat.",
+                "ro": "Vizitați ruinele rapid, deoarece temperatura scade brusc după-amiaza târziu; lumina joasă scoate frumos în evidență vechile ziduri de piatră.",
+                "en": "Visit the ruins briskly, as the temperature drops quickly in the late afternoon; the low light beautifully emphasizes the ancient stone walls."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A reggeli vezetés az Igrexa de Santa María de Serantes vidéki bájához és az ősi Castro de Lourido-hoz viszi. Délben a gyönyörű Igrexa de Santo Estevo következik, mielőtt eléri a távoli Praia do Castrillón-t. A délutánt a napsütötte Praia de Soesto partján érdemes tölteni. Zárja útját a parti kilátással a Faro de Laxe-nél.",
         "ro": "Dimineața cu mașina vă aduce la șarmul rural de la Igrexa de Santa María de Serantes și la vechiul Castro de Lourido. La amiază vizitați superba biserică Santo Estevo înainte de a ajunge la izolată Praia do Castrillón. După-amiaza este perfectă pentru a vă bucura de soare la Praia de Soesto. Încheiați călătoria la Faro de Laxe.",
         "en": "Morning driving brings you to the rural charm of Igrexa de Santa María de Serantes and the ancient Castro de Lourido. Midday continues with the beautiful Igrexa de Santo Estevo before arriving at the remote Praia do Castrillón. Afternoon is perfectly spent soaking up the sun at Praia de Soesto. End your road trip with spectacular coastal views at Faro de Laxe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Laxe bei Regen bietet Komfort und Schutz. Vormittags besuchen Sie die Kirchen von Serantes und Soesto, wo Sie trocken parken können. Mittags bewundern Sie die Küste durch die Scheiben oder bei kurzen Stopps. Nachmittags ist die Praia de Soesto vom Auto aus ein wildes Schauspiel. Der Tag endet am Leuchtturm, wo Sie das Wetterphänomen sicher aus dem Wagen beobachten können.",
+            "hu": "Az esős autós túra Laxe körül kényelmet és védelmet nyújt a víztől. Délelőtt látogassa meg Serantes és Soesto templomait, ahol közel tud parkolni a bejárathoz. Délben csodálja a partot az ablakon át vagy rövid kiszállásokkal. Délután a Soesto strand vad hullámai látványosak az autóból is. A nap a világítótoronynál zárul, ahonnan biztonságban nézheti a vihart.",
+            "ro": "O excursie cu mașina prin Laxe pe ploaie oferă confort și protecție. Dimineața, vizitați bisericile din Serantes și Soesto, unde puteți parca aproape de intrare. La prânz, admirați coasta prin parbriz sau în timpul unor scurte opriri. După-amiaza, plaja Soesto oferă un spectacol sălbatic. Ziua se încheie la far, unde puteți observa furtuna în siguranță din interiorul vehiculului.",
+            "en": "A rainy car tour through Laxe offers comfort and protection from the wet weather. In the morning, visit the churches of Serantes and Soesto, where you can park close to the doors. At noon, admire the coast through the windshield or during short stops. In the afternoon, Soesto Beach is a wild sight from the car. The day ends at the lighthouse, watching the storm safely from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Serantes",
+                "hu": "Igrexa de Santa María de Serantes",
+                "ro": "Igrexa de Santa María de Serantes",
+                "en": "Igrexa de Santa María de Serantes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu vermeiden; das Innere der Kirche ist ein herrlich trockener Ort für Besinnung.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a templom belseje remek száraz hely az elmélyülésre és a művészetre.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; interiorul bisericii este un loc uscat și liniștit, perfect pentru reflecție.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the church interior is a wonderfully dry spot for quiet reflection and art appreciation."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Lourido",
+                "hu": "Castro de Lourido",
+                "ro": "Castro de Lourido",
+                "en": "Castro de Lourido"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungsstätte ist sehr exponiert; steigen Sie nur bei einer Regenpause kurz aus, da die Wege schnell matschig und rutschig werden.",
+                "hu": "A feltárási terület nagyon kitett az időjárásnak; csak esőszünetben szálljon ki rövid időre, mert az utak hamar sárossá és csúszóssá válnak.",
+                "ro": "Situl este foarte expus; coborâți din mașină doar în timpul unei pauze de ploaie, deoarece potecile devin rapid noroioase și alunecoase.",
+                "en": "The archaeological site is very exposed; get out of the car only during a break in the rain, as the paths quickly become muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santo Estevo de Soesto",
+                "hu": "Igrexa de Santo Estevo de Soesto",
+                "ro": "Igrexa de Santo Estevo de Soesto",
+                "en": "Igrexa de Santo Estevo de Soesto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Halt als gemütliche Regenpause; die Architektur bietet tolle Fotomotive, ohne dass man lange draußen im Nassen stehen muss.",
+                "hu": "Használja ezt a megállót kellemes esőszünetként; az építészet nagyszerű fotótémákat kínál anélkül, hogy sokáig kint kellene áznia a szabadban.",
+                "ro": "Folosiți această oprire ca o pauză plăcută de ploaie; arhitectura oferă subiecte grozave pentru fotografii fără a sta prea mult în umezeală.",
+                "en": "Use this stop as a cozy break from the rain; the architecture offers great photo opportunities without having to stay outside in the wet for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Castrillón",
+                "hu": "Praia do Castrillón",
+                "ro": "Praia do Castrillón",
+                "en": "Praia do Castrillón"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer direkt vom Parkplatz aus; die Gischt kann bei starkem Wind bis zum Auto peitschen, was sehr eindrucksvoll ist.",
+                "hu": "Figyelje a viharos tengert közvetlenül a parkolóból; erős szélben a sós pára egészen az autóig elverhet, ami lenyűgöző látványt nyújt.",
+                "ro": "Observați marea agitată direct din parcare; spuma mării poate ajunge până la mașină în timpul vântului puternic, creând un tablou impresionant.",
+                "en": "Watch the stormy sea directly from the parking area; in strong winds, the spray can reach the car, providing an impressive and safe spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Soesto",
+                "hu": "Praia de Soesto",
+                "ro": "Praia de Soesto",
+                "en": "Praia de Soesto"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die wilden Farben der Küste; bleiben Sie im Wagen und genießen Sie die Panoramaaussicht auf die tosenden Atlantikwellen.",
+                "hu": "Az eső felerősíti a partvidék vad színeit; maradjon az autóban, és élvezze a panorámát a tajtékzó atlanti-óceáni hullámokra.",
+                "ro": "Ploaia intensifică culorile sălbatice ale coastei; rămâneți în mașină și bucurați-vă de panorama asupra valurilor înspumate ale Atlanticului.",
+                "en": "The rain intensifies the wild colors of the coastline; stay inside the car and enjoy the panoramic view of the crashing Atlantic waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Laxe",
+                "hu": "Faro de Laxe",
+                "ro": "Faro de Laxe",
+                "en": "Faro de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Ende der Straße; das Licht des Leuchtturms wirkt im prasselnden Regen besonders hell und navigiert sicher durch das Grau.",
+                "hu": "Hajtson el az út végéig; a világítótorony fénye a szakadó esőben különösen fényesnek tűnik, és biztonságosan mutatja az utat a szürkeségben.",
+                "ro": "Conduceți până la capătul drumului; lumina farului pare extrem de strălucitoare în ploaia torențială, ghidând simbolic prin griul atmosferei.",
+                "en": "Drive to the very end of the road; the lighthouse beam appears especially bright in the pouring rain, cutting through the grey coastal mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Laxe im Winter mit dem Auto zu erkunden, ist ideal für kurze Wege zwischen den Sehenswürdigkeiten. Vormittags besuchen Sie die historischen Kirchen in der kühlen Winterluft. Mittags bieten die Fahrten entlang der Küste spektakuläre Ausblicke auf den rauen Ozean. Nachmittags ist das Licht am Soesto-Strand vor dem frühen Sonnenuntergang um 17:00 Uhr am schönsten. Den Tag beenden Sie gemütlich am Leuchtturm.",
+            "hu": "Laxe téli felfedezése autóval ideális a látnivalók közötti gyors közlekedéshez. Délelőtt látogassa meg a történelmi templomokat a friss téli levegőben. Délben a part menti autózás lenyűgöző kilátást nyújt a zord óceánra. Délután a Soesto strand fényei a legszebbek a korai, 17:00 órai naplemente előtt. A napot kényelmesen a világítótoronynál zárja.",
+            "ro": "Explorarea orașului Laxe iarna cu mașina este ideală pentru deplasări rapide între atracții. Dimineața, vizitați bisericile istorice în aerul curat de iarnă. La prânz, traseul pe coastă oferă vederi spectaculoase asupra oceanului agitat. După-amiaza, lumina pe plaja Soesto este superbă înainte de apusul de la ora 17:00. Încheiați ziua confortabil la far.",
+            "en": "Exploring Laxe in winter by car is ideal for quick transitions between sights. In the morning, visit the historic churches in the crisp winter air. At noon, driving along the coast offers spectacular views of the rugged ocean. In the afternoon, the light at Soesto Beach is most beautiful before the early 17:00 sunset. End your day comfortably at the lighthouse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Serantes",
+                "hu": "Igrexa de Santa María de Serantes",
+                "ro": "Igrexa de Santa María de Serantes",
+                "en": "Igrexa de Santa María de Serantes"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto laufen, während Sie kurz aussteigen; die kalte Kirchenluft macht den Besuch zu einem erfrischenden Erlebnis.",
+                "hu": "Hagyja járni a fűtést az autóban, amíg kiszáll; a templom hűvös levegője és a csendes környezet frissítő élménnyé teszi a látogatást.",
+                "ro": "Lăsați căldura pornită în mașină în timp ce coborâți scurt; aerul rece din biserică face vizita o experiență revigorantă și autentică.",
+                "en": "Keep the car heater running while you step out briefly; the cool church air and quiet surroundings make for a refreshing and peaceful visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Lourido",
+                "hu": "Castro de Lourido",
+                "ro": "Castro de Lourido",
+                "en": "Castro de Lourido"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet die alten Ruinen wunderschön; ziehen Sie eine warme Jacke an, da es hier oben sehr windig sein kann.",
+                "hu": "A téli nap alacsonyan jár, és gyönyörűen megvilágítja az ősi romokat; vegyen fel meleg kabátot, mert ezen a dombon nagyon fújhat a szél.",
+                "ro": "Soarele de iarnă stă jos și luminează superb vechile ruine; purtați o jachetă groasă, deoarece pe acest deal vântul poate fi destul de tăios.",
+                "en": "The winter sun is low and illuminates the ancient ruins beautifully; put on a warm jacket as it can get quite windy up on this hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santo Estevo de Soesto",
+                "hu": "Igrexa de Santo Estevo de Soesto",
+                "ro": "Igrexa de Santo Estevo de Soesto",
+                "en": "Igrexa de Santo Estevo de Soesto"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Halt für Fotos im klaren Winterlicht; die umliegenden Felder wirken im Frost oder unter dem grauen Himmel besonders malerisch.",
+                "hu": "Remek megálló fotózáshoz a tiszta téli fényben; a környező mezők zúzmarásan vagy a szürke ég alatt is rendkívül festői látványt nyújtanak.",
+                "ro": "O oprire excelentă pentru fotografii în lumina clară de iarnă; câmpurile din jur arată pitoresc sub cerul gri sau în diminețile cu brumă.",
+                "en": "A great stop for photos in the clear winter light; the surrounding fields look particularly picturesque under the grey sky or with morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Castrillón",
+                "hu": "Praia do Castrillón",
+                "ro": "Praia do Castrillón",
+                "en": "Praia do Castrillón"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die einsame Bucht; im Winter sind Sie hier oft ganz allein und können die Kraft des Atlantiks ungestört spüren.",
+                "hu": "Élvezze a kilátást az elhagyatott öbölre; télen gyakran teljesen egyedül lehet itt, és zavartalanul érezheti az Atlanti-óceán nyers erejét.",
+                "ro": "Bucurați-vă de vederea spre golful pustiu; iarna sunteți adesea singur aici și puteți simți forța oceanului fără a fi deranjat de mulțime.",
+                "en": "Enjoy the view of the deserted cove; in winter, you are often completely alone here and can sense the raw power of the Atlantic undisturbed."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Soesto",
+                "hu": "Praia de Soesto",
+                "ro": "Praia de Soesto",
+                "en": "Praia de Soesto"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ein beliebter Ort für Surfer; beobachten Sie das Treiben warm im Auto sitzend mit einer Thermoskanne Tee.",
+                "hu": "A strand télen is népszerű a szörfösök körében; figyelje őket a meleg autóból, egy termosz tea társaságában, mielőtt továbbhajtana.",
+                "ro": "Plaja este populară printre surferi chiar și iarna; urmăriți-i din mașina încălzită, cu un termos de ceai, înainte de a pleca mai departe.",
+                "en": "The beach is popular with surfers even in winter; watch them from the warmth of your car with a thermos of tea before continuing your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Laxe",
+                "hu": "Faro de Laxe",
+                "ro": "Faro de Laxe",
+                "en": "Faro de Laxe"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um den Sonnenuntergang im Wagen zu erleben; das ferne Leuchtfeuer markiert das Ende des kurzen Wintertages.",
+                "hu": "Érkezzen meg jóval 17:00 előtt, hogy az autóból lássa a naplementét; a távoli világítótorony fénye jelzi a rövid téli nap végét.",
+                "ro": "Sosiți cu mult înainte de ora 17:00 pentru a vedea apusul din mașină; lumina farului din depărtare marchează sfârșitul scurt al zilei de iarnă.",
+                "en": "Arrive well before 17:00 to catch the sunset from your car; the distant lighthouse beam signals the end of the short winter day on the coast."
+              }
+            }
+          ]
+        }
       }
     }
   }

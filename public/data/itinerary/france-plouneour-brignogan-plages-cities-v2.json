@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a gazdag őskori örökség felfedezésével az ősi sztélénél, időt szánva a mély történelem megismerésére.\nAhogy közeledik a dél, folytassa a felfedezést az impozáns Menhir de menoignon meglátogatásával, amely büszkén magasodik a breton égbolt felé.\nA délután kulturális fordulatot vesz a Musée du Coquillage-ban, amelyet egy csendes elmélkedés követ az Église Sainte-Bernadette templomban.\nFejezze be kellemes sétáját a Plage du Garo strandon, ahol az aranyszínű homok és a tengeri szellő tökéletes, pihentető befejezést nyújt.",
         "ro": "Începeți plimbarea explorând bogata moștenire preistorică la vechea stelă, acordându-vă timp pentru a aprecia istoria profundă a locului.\nSpre prânz, continuați-vă descoperirea vizitând impunătorul Menhir de menoignon, care se înalță cu mândrie sub cerul breton.\nDupă-amiaza ia o întorsătură culturală la Musée du Coquillage, urmată de un moment de liniște la biserica Église Sainte-Bernadette.\nÎncheiați-vă plimbarea plăcută la Plage du Garo, unde nisipul auriu și briza mării oferă un final perfect și relaxant al zilei.",
         "en": "Begin your walking journey by delving into the rich prehistoric heritage at the ancient stele, taking your time to appreciate the deep history.\nAs noon approaches, continue your discovery by visiting the imposing Menhir de menoignon, standing proudly against the Breton sky.\nThe afternoon takes a cultural turn at the Musée du Coquillage, where intricate marine treasures await, followed by a quiet reflection at Église Sainte-Bernadette.\nConclude your pleasant stroll at Plage du Garo, where the golden sands and sea breeze provide a perfect, relaxing finish to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den mystischen Stelen, die im feinen bretonischen Regen besonders geheimnisvoll wirken. Achten Sie auf die rutschigen Pfade zwischen den historischen Stätten.\n\nMittags bietet das Muséum du Coquillage einen perfekten, trockenen Zufluchtsort. Hier können Sie die faszinierende Welt der Muscheln bestaunen, während draußen die Wolken über die Küste ziehen.\n\nAm Nachmittag finden Sie in der Kirche Sainte-Bernadette Ruhe und Schutz vor dem Wind. Die Stille des Innenraums bildet einen wunderbaren Kontrast zum prasselnden Regen.\n\nDer Abend endet am Plage du Garo, wo die Brandung bei Regen besonders kraftvoll erscheint. Die salzige Luft und die dunklen Felsen bieten eine dramatische Kulisse für den Abschluss.",
+            "hu": "A reggel az ősi sztéléknél és menhireknél indul, ahol az esőben még titokzatosabbnak tűnnek a kövek. Figyeljünk a csúszós ösvényekre a történelmi helyszínek között.\n\nDélben a Musée du Coquillage nyújt tökéletes, száraz menedéket. Itt a kagylók lenyűgöző világát fedezhetjük fel, miközben odakint sötét felhők vonulnak a part felett.\n\nDélután a Sainte-Bernadette templom falai között találunk nyugalmat és védelmet a szél elől. A belső tér csendje és az eső kopogása különleges hangulatot áraszt.\n\nAz este a Plage du Garo parton zárul, ahol az esős időben a tenger morajlása még erőteljesebbnek hat. A sós levegő és a sötét sziklák drámai keretet adnak a napnak.",
+            "ro": "Dimineața începe la stelele mistice, care par deosebit de enigmatice în ploaia fină bretonă. Atenție la potecile alunecoase între siturile istorice.\n\nLa prânz, Musée du Coquillage oferă un refugiu uscat perfect. Aici puteți admira lumea fascinantă a scoicilor în timp ce norii trec peste coastă afară.\n\nDupă-amiaza, veți găsi liniște și protecție împotriva vântului în Biserica Sainte-Bernadette. Liniștea interiorului formează un contrast minunat cu sunetul ploii.\n\nSeara se încheie la Plage du Garo, unde valurile par deosebit de puternice în timpul ploii. Aerul sărat și stâncile întunecate oferă un cadru dramatic pentru final.",
+            "en": "The morning starts at the mystical stelae, which look particularly enigmatic in the fine Breton rain. Watch out for slippery paths between the historical sites.\n\nAt lunchtime, the Musée du Coquillage provides a perfect, dry refuge. Here you can marvel at the fascinating world of shells while the clouds sweep across the coast outside.\n\nIn the afternoon, find peace and protection from the wind inside the Sainte-Bernadette Church. The silence of the interior forms a wonderful contrast to the patter of rain.\n\nThe evening ends at Plage du Garo, where the surf appears especially powerful in the rain. The salty air and dark rocks provide a dramatic backdrop for the conclusion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "stele",
+                "hu": "stele",
+                "ro": "stele",
+                "en": "stele"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Oberfläche der Stele lässt die alten Gravuren deutlicher hervortreten; nutzen Sie einen Regenschutz für Ihre Kamera beim Fotografieren.",
+                "hu": "A sztélé nedves felülete segít, hogy az ősi faragványok jobban kivehetőek legyenek; használj vízálló tokot a fényképezőgépedhez a fotózáskor.",
+                "ro": "Suprafața umedă a stelei face ca vechile gravuri să iasă mai mult în evidență; folosiți o protecție de ploaie pentru aparatul foto când fotografiați.",
+                "en": "The wet surface of the stele makes the ancient engravings stand out more clearly; use a rain cover for your camera when taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de menoignon",
+                "hu": "Menhir de menoignon",
+                "ro": "Menhir de menoignon",
+                "en": "Menhir de menoignon"
+              },
+              "tip_5lang": {
+                "de": "Der riesige Menhir wirkt im Nebel besonders imposant, aber der Boden kann sehr schlammig sein; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "A hatalmas menhir a ködben különösen impozáns látvány, de a talaj nagyon sáros lehet; feltétlenül viselj vízálló túrabakancsot ezen a szakaszon.",
+                "ro": "Menhirul uriaș arată deosebit de impunător în ceață, dar solul poate fi foarte noroios; purtați neapărat încălțăminte de drumeție impermeabilă.",
+                "en": "The giant menhir looks especially imposing in the mist, but the ground can be very muddy; be sure to wear waterproof hiking boots for this part."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Coquillage",
+                "hu": "Musée du Coquillage",
+                "ro": "Musée du Coquillage",
+                "en": "Musée du Coquillage"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort, um dem Starkregen zu entfliehen und die lokale Naturkunde zu erkunden; nehmen Sie sich Zeit für die Details.",
+                "hu": "Ez a múzeum ideális hely arra, hogy elmenekülj a heves eső elől és megismerd a helyi természetrajzot; szánj időt a részletes gyűjteményre.",
+                "ro": "Acest muzeu este locul ideal pentru a scăpa de ploaia torențială și a explora natura locală; acordați-vă timp pentru a studia detaliile colecției.",
+                "en": "This museum is the ideal place to escape the heavy rain and explore local natural history; take your time to admire the detailed shell collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Bernadette",
+                "hu": "Église Sainte-Bernadette",
+                "ro": "Église Sainte-Bernadette",
+                "en": "Église Sainte-Bernadette"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur bietet einen ruhigen Rückzugsort bei Sturm; klopfen Sie Ihre Regenjacke draußen ab, bevor Sie den stillen Raum betreten.",
+                "hu": "A letisztult építészet nyugodt menedéket nyújt vihar idején; rázd le a vizes kabátodat kint, mielőtt belépnél a csendes belső térbe.",
+                "ro": "Arhitectura simplă oferă un refugiu liniștit în timpul furtunii; scuturați-vă haina de ploaie afară înainte de a intra în spațiul tăcut.",
+                "en": "The simple architecture offers a peaceful retreat during a storm; shake off your raincoat outside before entering the quiet interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Garo",
+                "hu": "Plage du Garo",
+                "ro": "Plage du Garo",
+                "en": "Plage du Garo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das wilde Meer aus sicherer Entfernung, da die Felsen bei Regen extrem glatt sind; genießen Sie die Gischt im Gesicht.",
+                "hu": "Figyeld a vad tengert biztonságos távolságból, mert a sziklák esőben rendkívül csúszósak; élvezd az arcodba csapó sós permet frissességét.",
+                "ro": "Observați marea agitată de la o distanță sigură, deoarece stâncile sunt extrem de alunecoase în ploaie; bucurați-vă de prospețimea spray-ului marin.",
+                "en": "Observe the wild sea from a safe distance, as the rocks are extremely slippery in the rain; enjoy the freshness of the sea spray on your face."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an den alten Monumenten bietet eine weite Sicht über das gefrorene Land. Warme Handschuhe sind bei der Untersuchung der kalten Steine unerlässlich.\n\nMittags wärmen Sie sich im Muséum du Coquillage auf. Das milde Licht des Winters beleuchtet die Ausstellung auf eine ganz besondere, sanfte Weise.\n\nDer Nachmittag wird für einen Besuch der Kirche genutzt, wenn die tiefstehende Sonne lange Schatten durch die Fenster wirft. Es ist die beste Zeit für ruhige Besinnung.\n\nDa die Sonne bereits gegen 17:00 Uhr untergeht, erreichen Sie den Plage du Garo zur goldenen Stunde. Das Violett des Winterhimmels über den Granitfelsen ist ein unvergesslicher Anblick.",
+            "hu": "A tiszta téli reggel az ősi műemlékeknél messzire nyúló kilátást nyújt a fagyos tájra. A hideg kövek vizsgálatakor elengedhetetlen a meleg kesztyű.\n\nDélben a Musée du Coquillage falai között melegedhetünk fel. A téli nap gyenge fénye különleges, lágy megvilágítást ad a kiállított tárgyaknak.\n\nA délutáni órákban látogassunk el a templomba, amikor az alacsonyan járó nap hosszú árnyékokat vet az ablakokon keresztül. Ez a legjobb idő a csendes elmélyülésre.\n\nMivel a nap már 17:00 körül lemegy, a Plage du Garo partra az aranyórában érkezünk. A téli égbolt lila színei a gránitsziklák felett felejthetetlen látványt nyújtanak.",
+            "ro": "O dimineață senină de iarnă la monumentele vechi oferă o vedere largă asupra pământului înghețat. Mănușile călduroase sunt esențiale când examinați pietrele reci.\n\nLa prânz, încălziți-vă la Musée du Coquillage. Lumina blândă a iernii luminează expoziția într-un mod deosebit și delicat.\n\nDupă-amiaza este dedicată vizitării bisericii, când soarele jos aruncă umbre lungi prin ferestre. Este cel mai bun moment pentru o reflecție liniștită.\n\nDeoarece soarele apune deja în jurul orei 17:00, ajungeți la Plage du Garo la ora de aur. Violetul cerului de iarnă peste stâncile de granit este o priveliște de neuitat.",
+            "en": "A clear winter morning at the ancient monuments offers a wide view over the frozen land. Warm gloves are essential when examining the cold stones.\n\nAt noon, warm up in the Muséum du Coquillage. The mild winter light illuminates the exhibition in a very special, gentle way.\n\nThe afternoon is spent visiting the church when the low sun casts long shadows through the windows. It's the best time for quiet reflection.\n\nAs the sun sets by 17:00, you reach Plage du Garo during the golden hour. The purple of the winter sky over the granite rocks is an unforgettable sight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "stele",
+                "hu": "stele",
+                "ro": "stele",
+                "en": "stele"
+              },
+              "tip_5lang": {
+                "de": "Die Stele steht exponiert im Wind; tragen Sie eine windfeste Jacke, um die Details der historischen Markierung in Ruhe betrachten zu können.",
+                "hu": "A sztélé szélnek kitett helyen áll; viselj szélálló kabátot, hogy nyugodtan megcsodálhasd a történelmi jelzések minden apró részletét.",
+                "ro": "Stela stă expusă vântului; purtați o jachetă rezistentă la vânt pentru a putea privi în liniște detaliile marcajului istoric.",
+                "en": "The stele is exposed to the wind; wear a windproof jacket to observe the details of the historical marker in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de menoignon",
+                "hu": "Menhir de menoignon",
+                "ro": "Menhir de menoignon",
+                "en": "Menhir de menoignon"
+              },
+              "tip_5lang": {
+                "de": "Das umliegende Grasland kann im Winter gefroren und rutschig sein; gehen Sie vorsichtig, wenn Sie sich dem Menhir für ein Foto nähern.",
+                "hu": "A környező füves terület télen fagyott és csúszós lehet; óvatosan közelítsd meg a menhirt, ha közeli fotót szeretnél készíteni róla.",
+                "ro": "Pajiștea din jur poate fi înghețată și alunecoasă iarna; mergeți cu grijă când vă apropiați de menhir pentru o fotografie.",
+                "en": "The surrounding grassland can be frozen and slippery in winter; walk carefully when approaching the menhir for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Coquillage",
+                "hu": "Musée du Coquillage",
+                "ro": "Musée du Coquillage",
+                "en": "Musée du Coquillage"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine Pause vom kalten Seewind; die Farben der Muscheln wirken im Winterlicht besonders intensiv.",
+                "hu": "Használd ki a fűtött belső teret egy pihenőre a hideg tengeri szél után; a kagylók színei a téli fényben különösen intenzívnek tűnnek.",
+                "ro": "Folosiți interiorul încălzit pentru o pauză de la vântul rece de mare; culorile scoicilor par deosebit de intense în lumina iernii.",
+                "en": "Use the heated interior for a break from the cold sea wind; the colors of the shells appear particularly intense in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Bernadette",
+                "hu": "Église Sainte-Bernadette",
+                "ro": "Église Sainte-Bernadette",
+                "en": "Église Sainte-Bernadette"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; bleiben Sie in Bewegung oder ziehen Sie sich warm an, während Sie die religiöse Kunst bewundern.",
+                "hu": "A vastag falak tárolják a hideget; maradj mozgásban vagy öltözz fel jól, amíg a vallási művészeti alkotásokat csodálod a belső térben.",
+                "ro": "Zidurile groase rețin frigul; rămâneți în mișcare sau îmbrăcați-vă bine în timp ce admirați arta religioasă din interior.",
+                "en": "The thick walls retain the cold; stay in motion or dress warmly while admiring the religious art inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Garo",
+                "hu": "Plage du Garo",
+                "ro": "Plage du Garo",
+                "en": "Plage du Garo"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 16:30 Uhr, um das letzte Tageslicht auf den Felsen zu sehen; danach sinken die Temperaturen rapide ab.",
+                "hu": "Érj ki a partra 16:30 előtt, hogy lásd a nap utolsó fényeit a sziklákon; ezután a hőmérséklet nagyon gyorsan csökkenni kezd.",
+                "ro": "Ajungeți la plajă înainte de ora 16:30 pentru a vedea ultima lumină a zilei pe stânci; după aceea, temperaturile scad rapid.",
+                "en": "Reach the beach before 16:30 to see the last light of day on the rocks; after that, temperatures drop very rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját a természetben a madárlesnél, élvezve a kora reggeli madármozgást a part mentén.\nDélben kerékpározzon a szárazföld belseje felé, hogy felfedezze a Dolmen du Dievet rejtelmeit, egy buja növényzettel körülvett újkőkori helyszínt.\nDélután tekerjen a Plage de la Tour Blanche lenyűgöző fehér homokja felé, mielőtt megcsodálná a magasodó Menhir de Men Marz-t.\nUtazása a Plage des Chardons Bleus strandon ér véget, ahol megpihentetheti lábait és figyelheti a partot mosó hullámokat.",
         "ro": "Începeți-vă aventura cu bicicleta în natură la observatorul ornitologic, bucurându-vă de activitatea matinală a păsărilor pe coastă.\nLa prânz, pedalați spre interior pentru a descoperi misterele Dolmen du Dievet, un sit neolitic fascinant înconjurat de verdeață.\nDupă-amiaza, îndreptați-vă spre nisipul alb uimitor de la Plage de la Tour Blanche înainte de a admira impunătorul Menhir de Men Marz.\nCălătoria se încheie la Plage des Chardons Bleus, unde vă puteți odihni picioarele și puteți urmări valurile spălând țărmul stâncos.",
         "en": "Start your cycling adventure immersed in nature at the ornithological observatory, enjoying the early morning bird activity along the coast.\nBy midday, cycle inland to uncover the mysteries of the Dolmen du Dievet, a fascinating Neolithic site surrounded by lush greenery.\nIn the afternoon, pedal towards the stunning white sands of Plage de la Tour Blanche before marveling at the towering Menhir de Men Marz.\nYour ride finishes at Plage des Chardons Bleus, where you can rest your legs and watch the waves wash against the striking shoreline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour entlang der Küste erfordert gute Ausrüstung. Der Morgen am Observatorium ist ideal, um Vögel im Schutz der Hütte zu beobachten.\n\nMittags geht es zum Dolmen du Dievet. Der Regen lässt die Flechten auf den Steinen leuchten, doch die Wege können für Fahrräder rutschig sein.\n\nAm Nachmittag führt die Route zur Tour Blanche. Der Blick auf das graue Meer ist atemberaubend, solange Sie fest im Sattel bleiben und dem Wind trotzen.\n\nDer Abend endet an den Stränden im Norden. Trotz Nässe bietet die wilde Natur eine raue Schönheit, die man am besten mit einem warmen Getränk nach der Tour genießt.",
+            "hu": "Egy esős biciklitúra a parton jó felszerelést igényel. A reggel a madármegfigyelőnél ideális, ahol a bódé védelmében figyelhetjük az élővilágot.\n\nDélben a Dolmen du Dievet felé vesszük az irányt. Az eső kiemeli a kövek zuzmóit, de az utak csúszósak lehetnek a kerékpárok számára.\n\nDélután az útvonal a Tour Blanche-hoz vezet. A szürke tenger látványa lélegzetelállító, feltéve, ha stabilan ülsz a nyeregben a szél ellenére.\n\nAz este az északi strandokon zárul. A nedvesség ellenére a vad természet nyers szépsége lenyűgöző, amit a túra utáni meleg itallal tehetsz teljessé.",
+            "ro": "O tură cu bicicleta pe ploaie de-a lungul coastei necesită echipament bun. Dimineața la observator este ideală pentru a vedea păsările din adăpost.\n\nLa prânz mergem spre Dolmen du Dievet. Ploaia face lichenii de pe pietre să strălucească, dar drumurile pot fi alunecoase pentru biciclete.\n\nDupă-amiaza traseul duce la Tour Blanche. Vederea mării gri este uluitoare, atâta timp cât rămâneți ferm în șa și înfruntați vântul.\n\nSeara se încheie la plajele din nord. În ciuda umezelii, natura sălbatică oferă o frumusețe brută, savurată cel mai bine cu o băutură caldă după tur.",
+            "en": "A rainy bike ride along the coast requires good gear. The morning at the observatory is ideal for watching birds from the shelter of the hut.\n\nAt noon, head to the Dolmen du Dievet. The rain makes the lichens on the stones glow, but the paths can be slippery for bicycles.\n\nIn the afternoon, the route leads to Tour Blanche. The view of the grey sea is breathtaking, as long as you stay firm in the saddle and brave the wind.\n\nThe evening ends at the northern beaches. Despite the wet, the wild nature offers a raw beauty, best enjoyed with a warm drink after the tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Observatoire ornithologique",
+                "hu": "Observatoire ornithologique",
+                "ro": "Observatoire ornithologique",
+                "en": "Observatoire ornithologique"
+              },
+              "tip_5lang": {
+                "de": "Die Beobachtungshütte ist ein perfekter Unterstand bei Schauern; bringen Sie ein Fernglas mit, um die Vögel im Regen besser zu sehen.",
+                "hu": "A megfigyelő bódé tökéletes menedék záporok idején; vigyél magaddal távcsövet, hogy az esőben is jól lásd a madarak mozgását.",
+                "ro": "Adăpostul de observație este un refugiu perfect în timpul averselor; aduceți binoclul pentru a vedea mai bine păsările în ploaie.",
+                "en": "The observation hut is a perfect shelter during showers; bring binoculars to see the birds better in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Dievet",
+                "hu": "Dolmen du Dievet",
+                "ro": "Dolmen du Dievet",
+                "en": "Dolmen du Dievet"
+              },
+              "tip_5lang": {
+                "de": "Die Steine des Dolmens bieten kaum Schutz; nutzen Sie den kurzen Stopp für ein Foto und achten Sie auf die nassen, moosigen Pfade.",
+                "hu": "A dolmen kövei alig nyújtanak védelmet; csak egy rövid fotómegállót tarts, és nagyon ügyelj a nedves, mohás ösvényekre a géppel.",
+                "ro": "Pietrele dolmenului oferă puțină protecție; folosiți oprirea scurtă pentru o fotografie și atenție la potecile umede și cu mușchi.",
+                "en": "The stones of the dolmen offer little protection; use the short stop for a photo and watch out for the wet, mossy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Tour Blanche",
+                "hu": "Plage de la Tour Blanche",
+                "ro": "Plage de la Tour Blanche",
+                "en": "Plage de la Tour Blanche"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Turm ist bei Regen ein markanter Orientierungspunkt; reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+                "hu": "A fehér torony esőben is fontos tájékozódási pont; csökkentsd kicsit a guminyomást a jobb tapadás érdekében a nedves aszfalton.",
+                "ro": "Turnul alb este un punct de reper distinctiv în ploaie; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe asfalt ud.",
+                "en": "The white tower is a distinctive landmark in the rain; reduce tire pressure slightly for better grip on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Men Marz",
+                "hu": "Menhir de Men Marz",
+                "ro": "Menhir de Men Marz",
+                "en": "Menhir de Men Marz"
+              },
+              "tip_5lang": {
+                "de": "Dieser riesige Menhir steht direkt am Weg; halten Sie nur kurz, da der Wind hier an der Küste bei Regen sehr peitschend sein kann.",
+                "hu": "Ez a hatalmas menhir közvetlenül az út mellett áll; csak rövid ideig állj meg, mert a szél itt a parton esőben nagyon metsző lehet.",
+                "ro": "Acest menhir uriaș este chiar lângă drum; opriți doar scurt, deoarece vântul de pe coastă poate fi foarte tăios în timpul ploii.",
+                "en": "This huge menhir is right by the path; stop only briefly as the wind here on the coast can be very whipping during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Chardons Bleus",
+                "hu": "Plage des Chardons Bleus",
+                "ro": "Plage des Chardons Bleus",
+                "en": "Plage des Chardons Bleus"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt bei Regen dunkel und mächtig; stellen Sie Ihr Rad sicher ab, da die Böen an diesem exponierten Strandabschnitt zunehmen.",
+                "hu": "A tenger sötétnek és hatalmasnak tűnik esőben; állítsd le stabilan a biciklit, mert a széllökések ezen a nyitott parton felerősödnek.",
+                "ro": "Marea pare întunecată și puternică în ploaie; parcați bicicleta în siguranță, deoarece rafalele cresc pe această porțiune de plajă.",
+                "en": "The sea looks dark and powerful in the rain; park your bike securely as gusts increase on this exposed stretch of beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die stille, klare Küstenlandschaft. Am Morgen bietet das Observatorium eine friedliche Sicht auf die gefrorenen Sümpfe.\n\nMittags erreichen Sie den Dolmen du Dievet. Die klare Winterluft lässt die Granitsteine in der Sonne glänzen, doch Vorsicht vor vereisten Stellen auf den Wegen.\n\nNachmittags geht es weiter zur Tour Blanche, wo der kalte Wind die Sinne schärft. Die Sicht ist im Winter oft klarer als im Sommer.\n\nDer Rückweg muss zügig erfolgen, da es gegen 17:00 Uhr dunkel wird. Beenden Sie die Tour an den Chardons Bleus, bevor der Frost die Wege wieder rutschig macht.",
+            "hu": "A téli biciklitúra a csendes, tiszta parti tájon vezet keresztül. Reggel a megfigyelőhelyről békés kilátás nyílik a fagyott mocsarakra.\n\nDélben elérjük a Dolmen du Dievet-et. A tiszta téli levegőben a gránitkövek ragyognak a napsütésben, de vigyázz az utakon lévő jeges foltokkal.\n\nDélután folytatjuk az utat a Tour Blanche felé, ahol a hideg szél felfrissít. A látótávolság télen gyakran sokkal nagyobb, mint nyáron.\n\nA visszautat gyorsan meg kell tenni, mert 17:00 körül besötétedik. Zárd a túrát a Chardons Bleus-nél, mielőtt a fagy újra csúszóssá tenné az utat.",
+            "ro": "Tura de iarnă cu bicicleta trece prin peisajul de coastă liniștit și senin. Dimineața, observatorul oferă o vedere pașnică asupra mlaștinilor înghețate.\n\nLa prânz ajungeți la Dolmen du Dievet. Aerul curat de iarnă face pietrele de granit să strălucească, dar atenție la porțiunile înghețate de pe drum.\n\nDupă-amiaza continuați spre Tour Blanche, unde vântul rece ascute simțurile. Vizibilitatea iarna este adesea mai clară decât vara.\n\nDrumul de întoarcere trebuie făcut rapid, deoarece se întunecă în jurul orei 17:00. Încheiați tura la Chardons Bleus înainte ca înghețul să facă drumurile alunecoase.",
+            "en": "The winter bike tour leads through the quiet, clear coastal landscape. In the morning, the observatory offers a peaceful view of the frozen marshes.\n\nAt noon, you reach the Dolmen du Dievet. The clear winter air makes the granite stones shine in the sun, but watch out for icy patches on the paths.\n\nIn the afternoon, continue to Tour Blanche, where the cold wind sharpens the senses. Visibility is often clearer in winter than in summer.\n\nThe return journey must be quick, as it gets dark around 17:00. End the tour at Chardons Bleus before the frost makes the paths slippery again."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Observatoire ornithologique",
+                "hu": "Observatoire ornithologique",
+                "ro": "Observatoire ornithologique",
+                "en": "Observatoire ornithologique"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung, da das Stillstehen in der Beobachtungshütte bei Minusgraden schnell auskühlt; achten Sie auf Wintergäste unter den Vögeln.",
+                "hu": "Viselj termo ruházatot, mert a megfigyelő bódéban való egy helyben álláskor gyorsan lehűlsz; figyeld a ritka téli madárvendégeket.",
+                "ro": "Purtați haine termice, deoarece statul pe loc în adăpostul de observație vă va răci rapid la temperaturi negative; atenție la oaspeții de iarnă.",
+                "en": "Wear thermal clothing, as standing still in the observation hut at sub-zero temperatures cools you down quickly; watch for winter visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Dievet",
+                "hu": "Dolmen du Dievet",
+                "ro": "Dolmen du Dievet",
+                "en": "Dolmen du Dievet"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Dolmen kann gefroren sein; steigen Sie vom Rad ab und führen Sie es über die unebenen, harten Erdschollen.",
+                "hu": "A dolmen körüli talaj fagyott lehet; szállj le a bicikliről és told az egyenetlen, kemény földdarabokon a biztonság kedvéért.",
+                "ro": "Solul din jurul dolmenului poate fi înghețat; coborâți de pe bicicletă și mergeți pe lângă ea peste bucățile dure de pământ.",
+                "en": "The ground around the dolmen can be frozen; get off your bike and lead it over the uneven, hard clumps of earth for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Tour Blanche",
+                "hu": "Plage de la Tour Blanche",
+                "ro": "Plage de la Tour Blanche",
+                "en": "Plage de la Tour Blanche"
+              },
+              "tip_5lang": {
+                "de": "Die Tour Blanche bietet Schutz vor dem direkten Seewind; machen Sie hier eine kurze Teepause, um sich für die Weiterfahrt aufzuwärmen.",
+                "hu": "A Tour Blanche némi védelmet nyújt a közvetlen tengeri szél ellen; tarts itt egy rövid teaszünetet, hogy felmelegedj a folytatáshoz.",
+                "ro": "Tour Blanche oferă protecție împotriva vântului direct de mare; faceți o scurtă pauză de ceai aici pentru a vă încălzi pentru drum.",
+                "en": "Tour Blanche offers some protection from the direct sea wind; take a short tea break here to warm up for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Men Marz",
+                "hu": "Menhir de Men Marz",
+                "ro": "Menhir de Men Marz",
+                "en": "Menhir de Men Marz"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Wintersonne lässt den Menhir golden leuchten; ideal für ein schnelles Foto, bevor die Kälte in die Finger kriecht.",
+                "hu": "Az alacsonyan járó téli nap fénye aranyba öltözteti a menhirt; ideális egy gyors fotóhoz, mielőtt a hideg átjárná az ujjaidat.",
+                "ro": "Lumina soarelui jos de iarnă face menhirul să strălucească auriu; ideal pentru o fotografie rapidă înainte ca frigul să vă pătrundă.",
+                "en": "The light of the low winter sun makes the menhir glow golden; ideal for a quick photo before the cold creeps into your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Chardons Bleus",
+                "hu": "Plage des Chardons Bleus",
+                "ro": "Plage des Chardons Bleus",
+                "en": "Plage des Chardons Bleus"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour spätestens um 16:45 Uhr; ohne Sonne sinken die Temperaturen am Strand sofort unter den Gefrierpunkt.",
+                "hu": "Zárd a túrát legkésőbb 16:45-kor; napfény nélkül a hőmérséklet a parton azonnal fagypont alá süllyed a sötétedéssel.",
+                "ro": "Încheiați tura cel târziu la ora 16:45; fără soare, temperaturile de pe plajă scad imediat sub punctul de îngheț.",
+                "en": "End the tour by 16:45 at the latest; without sun, temperatures on the beach drop below freezing immediately as darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje festői autós utazását a város történelmi szívében, a Mairie déléguée-nél, magába szívva a különleges helyi atmoszférát.\nDél körül vezessen ki a kiterjedt Plage du Lividic-hez, ahol a hatalmas homokos partszakasz és az óceán lélegzetelállító panorámát nyújt.\nDélutánját a modern Église Sainte-Bernadette felfedezésével töltse, majd kapcsolódjon ki a védett, festői Plage du Petit Nice-en.\nFejezze be utazását a Plage des Crapauds strandon, amely ideális kilátópontot nyújt egy felejthetetlen tengerparti naplementéhez.",
         "ro": "Începeți-vă excursia pitorească cu mașina în inima istorică a orașului, la Mairie déléguée, absorbind atmosfera locală pitorească.\nConduceți spre expansiva Plage du Lividic în jurul prânzului, unde întinderile vaste de nisip și oceanul oferă o panoramă uimitoare.\nPetreceți după-amiaza explorând moderna Église Sainte-Bernadette și apoi relaxați-vă la pitoreasca Plage du Petit Nice.\nÎncheiați-vă călătoria la Plage des Crapauds, care oferă un punct de observație ideal pentru un apus de soare de neuitat pe coastă.",
         "en": "Kick off your scenic road trip in the historic heart of the town at the Mairie déléguée, soaking in the quaint local atmosphere.\nDrive out to the expansive Plage du Lividic around midday, where the vast stretches of sand and ocean offer a breathtaking panorama.\nSpend your afternoon exploring the modern Église Sainte-Bernadette and then unwinding at the sheltered, picturesque Plage du Petit Nice.\nWrap up your journey at Plage des Crapauds, providing an ideal vantage point for an unforgettable coastal sunset from the comfort of the shore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich die bretonische Küste auch bei starkem Regen komfortabel erkunden. Der Morgen beginnt am Rathaus, wo Sie direkt vor der Tür parken können.\n\nMittags führt die Fahrt zum Plage du Lividic. Genießen Sie den Panoramablick auf die stürmische See aus dem warmen Auto heraus, bevor Sie kurz aussteigen.\n\nDer Nachmittag ist für die Kirche Sainte-Bernadette reserviert. Das Prasseln des Regens auf dem Kirchendach schafft eine besinnliche Atmosphäre im Inneren.\n\nZum Abend hin geht es zu den Stränden Petit Nice und Crapauds. Die Scheibenwischer im Takt der Wellen begleiten Sie, während Sie die dramatische Küstenlinie sicher vom Fahrersitz aus betrachten.",
+            "hu": "Autóval a breton partvidék heves esőben is kényelmesen felfedezhető. A reggel a városházánál indul, ahol közvetlenül a bejáratnál parkolhatsz.\n\nDélben az út a Plage du Lividic-hez vezet. Élvezd a viharos tenger panorámáját a meleg autóból, mielőtt egy rövid sétára kiszállnál a friss levegőre.\n\nA délután a Sainte-Bernadette templomé. Az eső kopogása a templomtetőn meghitt és áhítatos hangulatot teremt a belső térben.\n\nEste a Petit Nice és Crapauds strandokat látogatjuk meg. Az ablaktörlők üteme és a hullámok látványa kísér, miközben biztonságban figyeled a drámai partvonalat.",
+            "ro": "Cu mașina, coasta bretonă poate fi explorată confortabil chiar și în condiții de ploaie torențială. Dimineața începe la primărie, unde puteți parca chiar în față.\n\nLa prânz, drumul duce la Plage du Lividic. Bucurați-vă de panorama mării învolburate din mașina caldă înainte de a coborî pentru scurt timp.\n\nDupă-amiaza este rezervată Bisericii Sainte-Bernadette. Ropotul ploii pe acoperișul bisericii creează o atmosferă contemplativă în interior.\n\nSpre seară mergem la plajele Petit Nice și Crapauds. Ștergătoarele în ritmul valurilor vă însoțesc în timp ce priviți linia dramatică a coastei din mașină.",
+            "en": "By car, the Breton coast can be comfortably explored even in heavy rain. The morning begins at the town hall, where you can park right outside the door.\n\nAt noon, the drive leads to Plage du Lividic. Enjoy the panoramic view of the stormy sea from the warm car before stepping out briefly.\n\nThe afternoon is reserved for the Sainte-Bernadette Church. The patter of rain on the church roof creates a contemplative atmosphere inside.\n\nTowards evening, head to the Petit Nice and Crapauds beaches. The wipers in rhythm with the waves accompany you as you view the dramatic coastline from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée - Plounéour-Trez",
+                "hu": "Mairie déléguée - Plounéour-Trez",
+                "ro": "Mairie déléguée - Plounéour-Trez",
+                "en": "Mairie déléguée - Plounéour-Trez"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt gegenüber für einen schnellen Zugang zum Gebäude, um bei Starkregen nicht nass zu werden; bewundern Sie die Architektur.",
+                "hu": "Használd a közvetlenül szemben lévő parkolót a gyors bejutáshoz, hogy ne ázz el a heves esőben; csodáld meg az épület klasszikus stílusát.",
+                "ro": "Folosiți parcarea de vizavi pentru acces rapid la clădire, pentru a nu vă uda în ploaia torențială; admirați arhitectura locală.",
+                "en": "Use the parking lot directly opposite for quick access to the building to avoid getting wet in heavy rain; admire the local architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Lividic",
+                "hu": "Plage du Lividic",
+                "ro": "Plage du Lividic",
+                "en": "Plage du Lividic"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer; bei Regen ist die Gischt besonders beeindruckend, während Sie im trockenen Auto sitzen bleiben können.",
+                "hu": "Parkolj a tengerre néző oldalon; esőben a felcsapó hullámok látványa különösen lenyűgöző a száraz autó kényelméből figyelve.",
+                "ro": "Parcați cu vedere la mare; în ploaie, spuma valurilor este deosebit de impresionantă în timp ce puteți rămâne în mașina uscată.",
+                "en": "Park facing the sea; in the rain, the spray is particularly impressive while you can stay dry inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Bernadette",
+                "hu": "Église Sainte-Bernadette",
+                "ro": "Église Sainte-Bernadette",
+                "en": "Église Sainte-Bernadette"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich aufzuwärmen und den Regen draußen zu lassen; die Akustik im Inneren ist bei Regen besonders beruhigend.",
+                "hu": "Ideális megálló, hogy felmelegedj és kizárd az esőt; a belső tér akusztikája esőben különösen megnyugtató és elmélyült hangulatot ad.",
+                "ro": "O oprire ideală pentru a vă încălzi și a lăsa ploaia afară; acustica din interior este deosebit de liniștitoare în timpul ploii.",
+                "en": "An ideal stop to warm up and leave the rain outside; the acoustics inside are particularly soothing during a rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Petit Nice",
+                "hu": "Plage du Petit Nice",
+                "ro": "Plage du Petit Nice",
+                "en": "Plage du Petit Nice"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen und Wind rutschig sein; fahren Sie vorsichtig und nutzen Sie die Haltebucht für einen Blick auf die Felsen.",
+                "hu": "A parti út esőben és szélben csúszós lehet; vezess óvatosan, és használd a pihenőhelyet a sziklákra nyíló kilátáshoz.",
+                "ro": "Drumul de coastă poate fi alunecos în ploaie și vânt; conduceți cu atenție și folosiți parcarea pentru o vedere asupra stâncilor.",
+                "en": "The coastal road can be slippery in rain and wind; drive carefully and use the pull-off area for a safe view of the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Crapauds",
+                "hu": "Plage des Crapauds",
+                "ro": "Plage des Crapauds",
+                "en": "Plage des Crapauds"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der Brandung vom Parkplatz aus; halten Sie die Fenster einen Spalt offen für die frische Meeresbrise.",
+                "hu": "Figyeld a hullámtörés természeti látványosságát a parkolóból; tartsd az ablakot egy résnyire nyitva a friss tengeri szellő kedvéért.",
+                "ro": "Observați spectacolul natural al valurilor din parcare; lăsați geamurile puțin deschise pentru briza proaspătă a mării.",
+                "en": "Watch the natural spectacle of the surf from the parking lot; keep the windows cracked open for the fresh sea breeze."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt entlang der Küste bietet spektakuläre Ausblicke bei angenehmer Wärme. Am Morgen ist das Rathaus ein guter Startpunkt für kurze Erkundungen.\n\nMittags erreichen Sie den Plage du Lividic, wo die tiefstehende Wintersonne das Wasser silbern glänzen lässt. Ein kurzer Strandspaziergang ist erfrischend.\n\nDer Nachmittag wird in der Kirche Sainte-Bernadette verbracht, einem Ort der Stille und Wärme abseits des kalten Küstenwinds.\n\nDa es früh dunkel wird, sollten Sie die Strände Petit Nice und Crapauds vor 16:30 Uhr anfahren. Das Farbspektakel des Sonnenuntergangs über dem Granit ist im Winter besonders intensiv.",
+            "hu": "A téli autózás a part mentén látványos kilátást kínál a fűtött utastér kényelméből. Reggel a városháza jó kiindulópont a rövid felfedezésekhez.\n\nDélben elérjük a Plage du Lividic-et, ahol az alacsonyan járó téli nap ezüstösre festi a vizet. Egy rövid parti séta nagyon frissítő.\n\nA délutánt a Sainte-Bernadette templomban töltjük, amely a csend és a meleg szigete a hideg parti szélben.\n\nMivel korán sötétedik, a Petit Nice és Crapauds strandokat 16:30 előtt érdemes felkeresni. A naplemente színei a gránitsziklákon télen különösen intenzívek.",
+            "ro": "Călătoria de iarnă cu mașina de-a lungul coastei oferă vederi spectaculoase din confortul călduros. Dimineața, primăria este un bun punct de plecare.\n\nLa prânz ajungeți la Plage du Lividic, unde soarele de iarnă face apa să strălucească argintiu. O scurtă plimbare pe plajă este revigorantă.\n\nDupă-amiaza este petrecută la Biserica Sainte-Bernadette, un loc de liniște și căldură departe de vântul rece de pe coastă.\n\nDeoarece se întunecă devreme, vizitați plajele Petit Nice și Crapauds înainte de 16:30. Spectacolul culorilor apusului peste granit este intens iarna.",
+            "en": "The winter drive along the coast offers spectacular views in pleasant warmth. In the morning, the town hall is a good starting point for short explorations.\n\nAt noon, reach Plage du Lividic, where the low winter sun makes the water shine silver. A short walk on the beach is refreshing.\n\nThe afternoon is spent at Sainte-Bernadette Church, a place of silence and warmth away from the cold coastal wind.\n\nAs it gets dark early, you should visit Petit Nice and Crapauds beaches before 16:30. The color spectacle of the sunset over the granite is intense in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie déléguée - Plounéour-Trez",
+                "hu": "Mairie déléguée - Plounéour-Trez",
+                "ro": "Mairie déléguée - Plounéour-Trez",
+                "en": "Mairie déléguée - Plounéour-Trez"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung kurz laufen, während Sie sich die Infotafeln draußen ansehen; der Kontrast zur kalten Außenluft ist belebend.",
+                "hu": "Hagyd kicsit menni a fűtést, amíg kint a tájékoztató táblákat nézed; a hideg kinti levegővel való kontraszt nagyon élénkítő hatású.",
+                "ro": "Lăsați căldura pornită în timp ce priviți panourile informative de afară; contrastul cu aerul rece de afară este revigorant.",
+                "en": "Keep the heater running briefly while you look at the info boards outside; the contrast with the cold outside air is invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Lividic",
+                "hu": "Plage du Lividic",
+                "ro": "Plage du Lividic",
+                "en": "Plage du Lividic"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer; nutzen Sie die Freiheit für ein tolles Panoramafoto direkt aus dem Seitenfenster Ihres Autos.",
+                "hu": "A parkoló télen szinte üres; használd ki a szabadságot egy remek panorámafotóhoz közvetlenül az autó oldalablakából készítve.",
+                "ro": "Parcarea este aproape goală iarna; profitați de libertate pentru o fotografie panoramică direct de la geamul mașinii.",
+                "en": "The parking lot is almost empty in winter; take advantage of the freedom for a great panoramic photo right from your car's side window."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Bernadette",
+                "hu": "Église Sainte-Bernadette",
+                "ro": "Église Sainte-Bernadette",
+                "en": "Église Sainte-Bernadette"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Parkplätze mit Windschatten durch die Kirchenmauer; so ist das Aussteigen bei frostigen Böen angenehmer.",
+                "hu": "Keress szélvédett parkolót a templomfal mellett; így a kiszállás a fagyos széllökésekben sokkal kellemesebb lesz ezen a ponton.",
+                "ro": "Căutați locuri de parcare ferite de vânt lângă zidul bisericii; astfel, coborârea din mașină în rafalele înghețate este mai plăcută.",
+                "en": "Look for parking spots sheltered from the wind by the church wall; it makes getting out in the frosty gusts much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Petit Nice",
+                "hu": "Plage du Petit Nice",
+                "ro": "Plage du Petit Nice",
+                "en": "Plage du Petit Nice"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier nachmittags perfekt für Fotos; bleiben Sie im Auto, um sich zwischen den Aufnahmen wieder aufzuwärmen.",
+                "hu": "A téli nap délután tökéletes szögben áll a fotózáshoz; maradj az autóban a felvételek között, hogy gyorsan felmelegedhess újra.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii după-amiaza; rămâneți în mașină pentru a vă reîncălzi între sesiunile foto.",
+                "en": "The winter sun is at a perfect angle for photos in the afternoon; stay in the car to warm up between shots at this scenic location."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Crapauds",
+                "hu": "Plage des Crapauds",
+                "ro": "Plage des Crapauds",
+                "en": "Plage des Crapauds"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um ca. 17:00 Uhr vom Parkplatz aus; schalten Sie das Standlicht ein, um gesehen zu werden.",
+                "hu": "Figyeld a naplementét 17:00 körül közvetlenül a parkolóból; kapcsold be a helyzetjelzőt a biztonság kedvéért a sötétedő parton.",
+                "ro": "Urmăriți apusul în jurul orei 17:00 din parcare; porniți luminile de poziție pentru a fi văzut pe malul care se întunecă.",
+                "en": "Watch the sunset at around 17:00 directly from the parking lot; turn on your parking lights for safety on the darkening coast."
+              }
+            }
+          ]
+        }
       }
     }
   }

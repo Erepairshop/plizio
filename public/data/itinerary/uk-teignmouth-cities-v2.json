@@ -160,6 +160,196 @@
         "hu": "A reggel a helyi örökség felfedezésével indul a múzeumban, majd egy kényelmes séta következik a The Den gyönyörűen gondozott pázsitján. \n\nDélben a helyi strandfürdő retró bája várja, ahol lehűlhet, mielőtt egy kellemes sétát tenne a klasszikus homokos tengerparton. \n\nA délután a hagyományos tengerparti szórakozásé a történelmi mólónál, elmerülve a hamisítatlan brit nyaralási atmoszférában. \n\nAz este a Gales Hill dombjára vezet, amely lélegzetelállító panorámával jutalmazza a torkolat felett, ahogy a nap kecsesen lenyugszik a partvonalon.",
         "ro": "Dimineața începe cu o explorare a patrimoniului local la muzeu, urmată de o plimbare relaxantă prin peluzele frumos îngrijite ale parcului The Den. \n\nLa prânz vă bucurați de farmecul retro al piscinei locale, unde vă puteți răcori înainte de a face o plimbare pe plaja clasică de nisip. \n\nDupă-amiaza este rezervată distracțiilor tradiționale de pe digul istoric, absorbind atmosfera tipică a vacanțelor britanice la malul mării. \n\nSeara urcă spre Gales Hill, răsplătindu-vă cu vederi panoramice uluitoare asupra estuarului în timp ce soarele apune grațios peste coastă.",
         "en": "Morning starts with a deep dive into local heritage at the museum, followed by a leisurely stroll through the beautifully manicured lawns of The Den. \n\nMidday brings you to the retro charm of the local lido, where you can cool off before enjoying a gentle walk along the classic sandy beach. \n\nAfternoon is reserved for traditional seaside amusements at the historic pier, soaking in the quintessential British holiday atmosphere by the water. \n\nEvening climbs up to Gales Hill, rewarding you with breathtaking panoramic views over the estuary as the sun sets gracefully over the coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie trocken im Museum, während der Regen gegen die Fenster prasselt. Mittags bietet der Den-Park wenig Schutz, halten Sie Ihren Schirm bereit. Nachmittags erleben Sie die dramatische Stimmung am Strand und auf dem Pier, wo die Spielhallen Unterschlupf bieten. Abends führt der Weg über Gales Hill, achten Sie bei Nässe auf den rutschigen Untergrund der Küstenpfade.",
+            "hu": "Kezdje a napot fedett helyen a múzeumban, amíg kint esik. Délben a Den park kevés menedéket nyújt, így az esernyő elengedhetetlen. Délután a tengerpart és a móló drámai arcát mutatja, a móló fedett árkádjai pedig jó szolgálatot tesznek. Este a Gales Hill felé vegye az irányt, de vigyázzon, mert a partmenti ösvények ilyenkor csúszósak és sárosak lehetnek.",
+            "ro": "Începeți ziua la adăpost în muzeu, în timp ce ploaia bate în geamuri. La prânz, parcul Den oferă puțină protecție, așa că țineți umbrela la îndemână. După-amiaza, plaja și debarcaderul oferă o atmosferă dramatică, iar arcadele de pe pier sunt ideale pentru refugiu. Seara, drumul spre Gales Hill necesită prudență, deoarece potecile de coastă devin alunecoase.",
+            "en": "Start your day dry at the museum while the rain falls outside. At midday, The Den offers little shelter, so keep your umbrella ready. In the afternoon, the beach and pier show a dramatic side; the pier's covered arcades are perfect for dodging showers. In the evening, head to Gales Hill, but be careful as the coastal paths can be quite slippery and muddy when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teign Heritage Centre",
+                "hu": "Teign Heritage Centre",
+                "ro": "Teign Heritage Centre",
+                "en": "Teign Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Start für Regentage; erkunden Sie die maritime Geschichte der Stadt in den warmen und trockenen Ausstellungsräumen des modernen Zentrums.",
+                "hu": "Ideális kezdés esős napokon; fedezze fel a város tengeri történelmét a modern központ meleg és száraz kiállítótermeiben, távol a kinti zuhétól.",
+                "ro": "Începutul ideal pentru zilele ploioase; explorați istoria maritimă a orașului în sălile de expoziție calde și uscate ale centrului modern.",
+                "en": "The ideal start for rainy days; explore the town's maritime history in the warm and dry exhibition rooms of this modern local heritage centre."
+              }
+            },
+            {
+              "name": {
+                "de": "The Den",
+                "hu": "The Den",
+                "ro": "The Den",
+                "en": "The Den"
+              },
+              "tip_5lang": {
+                "de": "Die offenen Grünflächen bieten kaum Schutz; nutzen Sie die kurzen Regenpausen für einen Spaziergang und tragen Sie unbedingt festes, wasserdichtes Schuhwerk.",
+                "hu": "A nyitott zöldfelületek alig adnak menedéket; használja ki a rövidebb esőszüneteket a sétára, és mindenképpen viseljen vízálló lábbelit a sár ellen.",
+                "ro": "Spațiile verzi deschise oferă puțin adăpost; profitați de pauzele scurte de ploaie pentru o plimbare și purtați neapărat încălțăminte impermeabilă.",
+                "en": "The open green spaces offer little shelter; use short breaks in the rain for a stroll and make sure to wear sturdy, waterproof footwear for the grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Lido",
+                "hu": "Teignmouth Lido",
+                "ro": "Teignmouth Lido",
+                "en": "Teignmouth Lido"
+              },
+              "tip_5lang": {
+                "de": "Das Freibad wirkt im Regen melancholisch schön; betrachten Sie die Architektur von außen und achten Sie auf die glatten Fliesen im Eingangsbereich.",
+                "hu": "A szabadtéri medence melankolikusan szép az esőben; csodálja meg az építészetét kívülről, de vigyázzon a bejárat környékén a síkos burkolatokkal.",
+                "ro": "Piscina în aer liber arată melancolic de frumos în ploaie; admirați arhitectura din exterior și atenție la gresia alunecoasă din zona de intrare.",
+                "en": "The open-air pool looks melancholically beautiful in the rain; admire the architecture from outside and watch out for slippery tiles near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Beach",
+                "hu": "Teignmouth Beach",
+                "ro": "Teignmouth Beach",
+                "en": "Teignmouth Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein nasser Strandspaziergang ist erfrischend; die Brandung ist bei Regen oft imposanter, aber bleiben Sie wegen der Flutgefahr fern von der Wasserkante.",
+                "hu": "Egy vizes tengerparti séta frissítő; a hullámverés esőben gyakran impozánsabb, de a dagály és a csúszós kövek miatt maradjon távol a víz közvetlen szélétől.",
+                "ro": "O plimbare pe plajă pe ploaie este revigorantă; valurile sunt adesea mai impunătoare, dar stați departe de marginea apei din cauza fluxului și a pietrelor.",
+                "en": "A wet beach walk is refreshing; the surf is often more impressive in the rain, but stay well back from the water's edge due to tides and slippery rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Pier",
+                "hu": "Teignmouth Pier",
+                "ro": "Teignmouth Pier",
+                "en": "Teignmouth Pier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Arkaden und Spielhallen als perfekten Zufluchtsort vor schweren Güssen, während Sie das Meer unter den Dielen toben hören.",
+                "hu": "Használja a fedett árkádokat és játéktermeket tökéletes búvóhelyként a heves záporok elől, miközben hallgatja a deszkák alatt tomboló tengert.",
+                "ro": "Folosiți arcadele acoperite și sălile de jocuri ca refugiu perfect împotriva averselor abundente, în timp ce ascultați marea dezlănțuită sub podele.",
+                "en": "Use the covered arcades and amusement halls as a perfect sanctuary from heavy downpours while you listen to the sea raging beneath the floorboards."
+              }
+            },
+            {
+              "name": {
+                "de": "Gales Hill",
+                "hu": "Gales Hill",
+                "ro": "Gales Hill",
+                "en": "Gales Hill"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist bei Wind ungeschützt; halten Sie Ihre Regenjacke gut geschlossen und achten Sie auf die rutschigen Graspfade am Hang.",
+                "hu": "A kilátópont szeles időben védtelen; tartsa jól bezárva az esőkabátját, és figyeljen oda a domboldal csúszós, füves ösvényeire a meredek részeken.",
+                "ro": "Punctul de belvedere este neprotejat în caz de vânt; țineți jacheta de ploaie bine închisă și atenție la potecile de iarbă alunecoase de pe coastă.",
+                "en": "The viewpoint is unprotected in windy weather; keep your raincoat tightly zipped and watch your footing on the slippery grass paths along the slope."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch im Heritage Centre. Mittags lädt der Den-Park zu einem zügigen Spaziergang ein, bevor die Kälte anzieht. Nachmittags färbt die frühe Wintersonne den Strand in kühles Licht. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Pier rechtzeitig besuchen und den Abend bei der Dämmerung auf Gales Hill mit Blick auf die Stadtlichter beenden.",
+            "hu": "A téli reggel frissen indul a Heritage Centre-ben. Délben a Den park egy élénkítő sétára hív, mielőtt a hideg igazán beállna. Délután a korai téli napfény hűvös színekbe öltözteti a partot. Mivel a nap 17:00 körül nyugszik, látogassa meg időben a mólót, az estét pedig zárja a szürkületben a Gales Hillen, a város fényeiben gyönyörködve.",
+            "ro": "Dimineața de iarnă începe răcoros la Heritage Centre. La prânz, parcul Den invită la o plimbare revigorantă înainte de lăsarea frigului. După-amiaza, soarele palid de iarnă colorează plaja în nuanțe reci. Deoarece soarele apune în jur de ora 17:00, vizitați debarcaderul din timp și încheiați seara la Gales Hill admirând luminile orașului.",
+            "en": "The winter morning starts fresh at the Heritage Centre. At midday, The Den invites a brisk walk before the cold settles in. In the afternoon, the early winter sun bathes the beach in cool light. As the sun sets around 17:00, visit the pier in good time and finish your evening at dusk on Gales Hill, watching the town lights flicker on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teign Heritage Centre",
+                "hu": "Teign Heritage Centre",
+                "ro": "Teign Heritage Centre",
+                "en": "Teign Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Ort für den Start; nutzen Sie die ruhigen Wintermonate, um die Exponate ohne die sommerlichen Touristenströme zu genießen.",
+                "hu": "Csodálatosan fűtött helyszín a kezdéshez; használja ki a csendes téli hónapokat a kiállítások megtekintésére a nyári turistaáradat nélkül.",
+                "ro": "Un loc minunat de încălzit pentru început; profitați de lunile liniștite de iarnă pentru a vedea exponatele fără fluxul de turiști de vară.",
+                "en": "A wonderfully heated place to start; take advantage of the quiet winter months to enjoy the exhibits without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "The Den",
+                "hu": "The Den",
+                "ro": "The Den",
+                "en": "The Den"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Rasenflächen sind im Morgenlicht malerisch; tragen Sie mehrere Schichten Kleidung, da der Wind vom Meer hier besonders beißend sein kann.",
+                "hu": "A deres pázsit festői a reggeli fényben; öltözzön rétegesen, mert a tenger felől érkező szél ilyenkor különösen metsző és hideg tud lenni a parkban.",
+                "ro": "Gazonul înghețat este pitoresc în lumina dimineții; purtați mai multe straturi de haine, deoarece vântul de pe mare poate fi tăios aici iarna.",
+                "en": "The frosty lawns are picturesque in the morning light; dress in layers, as the wind from the sea can be particularly biting here during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Lido",
+                "hu": "Teignmouth Lido",
+                "ro": "Teignmouth Lido",
+                "en": "Teignmouth Lido"
+              },
+              "tip_5lang": {
+                "de": "Obwohl das Schwimmbecken im Winter meist geschlossen ist, bietet die Art-déco-Anlage ein tolles Fotomotiv vor dem rauen Winterhimmel der Küste.",
+                "hu": "Bár a medence télen zárva tart, az Art Deco stílusú épületegyüttes kiváló fotótéma a part menti zord téli égbolt háttere előtt.",
+                "ro": "Deși piscina este închisă iarna, complexul Art Deco oferă un subiect foto excelent pe fundalul cerului de iarnă aspru de pe coastă.",
+                "en": "Although the pool is usually closed in winter, the Art Deco complex provides a great photo opportunity against the backdrop of the rugged winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Beach",
+                "hu": "Teignmouth Beach",
+                "ro": "Teignmouth Beach",
+                "en": "Teignmouth Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die Einsamkeit am Ufer; die tiefstehende Sonne sorgt für fantastische Lichtverhältnisse auf dem roten Sand.",
+                "hu": "Élvezze a tiszta téli levegőt és a part magányát; az alacsonyan járó nap fantasztikus fényviszonyokat teremt a jellegzetes vörös homokon.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de singurătatea de pe țărm; soarele de joasă altitudine creează condiții de lumină fantastice pe nisipul roșu.",
+                "en": "Enjoy the crisp winter air and the solitude of the shore; the low sun creates fantastic lighting conditions on the town's famous red sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Pier",
+                "hu": "Teignmouth Pier",
+                "ro": "Teignmouth Pier",
+                "en": "Teignmouth Pier"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Pier vor dem frühen Sonnenuntergang; die Innenbereiche sind ein guter Ort, um sich kurz aufzuwärmen, bevor es draußen dunkel wird.",
+                "hu": "Látogassa meg a mólót a korai naplemente előtt; a belső terek jó helyet kínálnak egy rövid felmelegedésre, mielőtt kint teljesen besötétedik.",
+                "ro": "Vizitați debarcaderul înainte de apusul devreme; spațiile interioare sunt un loc bun pentru a vă încălzi scurt înainte de a se întuneca afară.",
+                "en": "Visit the pier before the early sunset; the indoor amusement areas are a good place to warm up briefly before it gets dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gales Hill",
+                "hu": "Gales Hill",
+                "ro": "Gales Hill",
+                "en": "Gales Hill"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie zur blauen Stunde hierher; die Sicht auf die beleuchtete Stadt und das dunkle Meer ist im Winter besonders klar und stimmungsvoll.",
+                "hu": "Érkezzen a kék órában; a kivilágított városra és a sötét tengerre nyíló kilátás télen különösen tiszta és hangulatos a dombtetőről.",
+                "ro": "Veniți aici în ora albastră; vederea spre orașul iluminat și marea întunecată este deosebit de clară și atmosferică în timpul iernii.",
+                "en": "Arrive during the blue hour; the view of the illuminated town and the dark sea is exceptionally clear and atmospheric during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggeli kerékpározás a nyüzsgő mólónál kezdődik, élvezve a tengeri szellőt, mielőtt a lenyűgöző történelmi híd felé venné az irányt. \n\nDélben átteker a folyón, hogy felfedezze Shaldon csendesebb homokját, amely békés menedéket nyújt a fő üdülőhely tömegétől távol. \n\nA délutáni kalandok a rejtett Ness strandhoz és egy bájos kompúthoz vezetnek, ötvözve a festői kilátást a helyi közlekedéstörténettel. \n\nAz este a The Den parkban és a helyi örökségvédelmi központban zárul, kulturális és pihentető befejezést kínálva egy aktív napnak.",
         "ro": "Plimbarea matinală începe la digul plin de viață, permițându-vă să simțiți briza mării înainte de a pedala spre podul istoric impresionant. \n\nLa amiază pedalați peste râu pentru a explora nisipurile mai liniștite din Shaldon, oferind un refugiu pașnic departe de mulțimile stațiunii. \n\nAventurile de după-amiază vă duc la plaja ascunsă Ness și o călătorie fermecătoare cu feribotul, îmbinând peisajele cu istoria locală. \n\nSeara se încheie înapoi la The Den și la centrul de patrimoniu, oferind un final cultural relaxant pentru o zi activă prin estuar.",
         "en": "Your morning ride kicks off at the bustling pier, letting you enjoy the morning sea breeze before pedaling towards the impressive historic bridge. \n\nMidday finds you cycling across the river to explore the quieter sands of Shaldon, offering a peaceful retreat away from the main resort crowds. \n\nAfternoon adventures take you to the hidden Ness Beach and a charming ferry ride back, blending scenic views with a touch of local transport history. \n\nEvening winds down back at The Den and the local heritage centre, offering a relaxing cultural end to an active day exploring the beautiful estuary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am Pier, wo die salzige Gischt auf den Asphalt peitscht. Mittags führt die Fahrt über die Shaldon Bridge, die bei Nässe rutschig sein kann. Nachmittags erkunden Sie die Strände und nutzen die Fähre für eine kurze Pause. Beenden Sie den Tag im Heritage Centre, um sich nach der Fahrt durch den Regen im Trockenen aufzuwärmen.",
+            "hu": "Egy esős bringás nap a mólónál kezdődik, ahol a sós pára veri az aszfaltot. Délben az út a Shaldon-hídon át vezet, amely vizesen csúszós lehet. Délután fedezze fel a strandokat, és használja a kompot egy rövid pihenőre. A napot a Heritage Centre-ben zárja, ahol az esőben való tekerés után végre megszárítkozhat és felmelegedhet.",
+            "ro": "O zi ploioasă de ciclism începe la debarcader, unde vaporii sărați lovesc asfaltul. La prânz, drumul trece peste podul Shaldon, care poate fi alunecos pe ploaie. După-amiaza, explorați plajele și folosiți feribotul pentru o scurtă pauză. Încheiați ziua la Heritage Centre pentru a vă încălzi la adăpost după tura prin ploaie.",
+            "en": "A rainy cycling day starts at the pier, where salty spray hits the asphalt. At midday, the route crosses Shaldon Bridge, which can be slippery when wet. In the afternoon, explore the beaches and use the ferry for a quick break. Finish the day at the Heritage Centre to warm up in the dry after your ride through the coastal rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teignmouth Pier",
+                "hu": "Teignmouth Pier",
+                "ro": "Teignmouth Pier",
+                "en": "Teignmouth Pier"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; der Asphalt rund um den Pier kann durch den Mix aus Regen und Salzwasser sehr rutschig werden.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a móló körüli aszfalt az eső és a sós tengervíz keverékétől rendkívül csúszóssá válhat a gumik számára.",
+                "ro": "Verificați frânele înainte de plecare; asfaltul din jurul debarcaderului poate deveni foarte alunecos din cauza amestecului de ploaie și sare.",
+                "en": "Check your brakes before starting; the asphalt around the pier can become very slippery due to the mix of rain and saltwater spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Bridge",
+                "hu": "Shaldon Bridge",
+                "ro": "Shaldon Bridge",
+                "en": "Shaldon Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die Brücke; die Dehnungsfugen und Metallteile sind bei Nässe tückisch. Genießen Sie den Blick auf die graue Flussmündung.",
+                "hu": "Hajtson óvatosan a hídon; a tágulási hézagok és fémrészek trükkösek lehetnek vizesen. Élvezze a szürke torkolatra nyíló párás kilátást.",
+                "ro": "Conduceți cu atenție pe pod; rosturile de dilatare și elementele metalice sunt înșelătoare pe ploaie. Admirați estuarul cenușiu.",
+                "en": "Ride carefully across the bridge; the expansion joints and metal parts are treacherous when wet. Enjoy the misty view of the grey estuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Beach",
+                "hu": "Shaldon Beach",
+                "ro": "Shaldon Beach",
+                "en": "Shaldon Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Bäumen am Rand, wenn der Regen zu stark wird; der Sand ist bei Nässe fester und leichter zu befahren.",
+                "hu": "Keressen menedéket a széli fák alatt, ha túl erősen esne; a homok vizesen tömörebb és könnyebben járható a kerékpárral a part mentén.",
+                "ro": "Căutați adăpost sub copacii de pe margine dacă ploaia devine prea puternică; nisipul este mai compact și mai ușor de parcurs când este ud.",
+                "en": "Seek shelter under the trees at the edge if the rain gets too heavy; the sand is firmer and easier to cycle on near the shoreline when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ness Beach",
+                "hu": "Ness Beach",
+                "ro": "Ness Beach",
+                "en": "Ness Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Ness-Tunnel bietet einen willkommenen trockenen Abschnitt; achten Sie im Tunnel auf Pfützen und die Umstellung Ihrer Augen auf das Licht.",
+                "hu": "A Ness-alagút szívesen látott száraz szakaszt kínál; az alagútban ügyeljen a tócsákra és szeme alkalmazkodására a sötétebb fényviszonyokhoz.",
+                "ro": "Tunelul Ness oferă o secțiune uscată binevenită; atenție la bălțile din tunel și la adaptarea ochilor la schimbarea luminii la ieșire.",
+                "en": "The Ness Tunnel offers a welcome dry stretch; watch out for puddles inside and give your eyes a moment to adjust to the light at the exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Ferry",
+                "hu": "Shaldon Ferry",
+                "ro": "Shaldon Ferry",
+                "en": "Shaldon Ferry"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Überfahrt kann bei Regen windig sein; sichern Sie Ihr Rad gut auf dem Boot und ziehen Sie Ihre Kapuze fest gegen den Wind.",
+                "hu": "A rövid átkelés esőben szeles lehet; rögzítse jól a bringát a hajón, és húzza szorosra a kapucniját a metsző tengeri szél ellen.",
+                "ro": "Traversarea scurtă poate fi vântoasă pe ploaie; asigurați bine bicicleta pe barcă și strângeți gluga strâns împotriva vântului.",
+                "en": "The short crossing can be windy in the rain; secure your bike well on the boat and pull your hood tight against the driving coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "The Den",
+                "hu": "The Den",
+                "ro": "The Den",
+                "en": "The Den"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die aufgeweichten Rasenflächen und bleiben Sie auf den asphaltierten Wegen, um Schlammspritzer auf Ihrer Kleidung zu minimieren.",
+                "hu": "Kerülje el a felázott gyepet, és maradjon az aszfaltozott utakon, hogy minimalizálja a ruhájára fröccsenő sár és víz mennyiségét.",
+                "ro": "Evitați zonele de gazon îmbibate cu apă și rămâneți pe potecile asfaltate pentru a minimiza stropii de noroi de pe haine.",
+                "en": "Avoid the waterlogged lawns and stick to the paved paths to minimize mud splashes on your clothes while cycling through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Teign Heritage Centre",
+                "hu": "Teign Heritage Centre",
+                "ro": "Teign Heritage Centre",
+                "en": "Teign Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Abschluss; nutzen Sie die Fahrradständer vor dem Haus und genießen Sie die trockene Wärme des modernen Museumsgebäudes.",
+                "hu": "Tökéletes helyszín a befejezéshez; használja az épület előtti tárolókat, és élvezze a modern múzeumépület száraz melegét a túra után.",
+                "ro": "Un loc perfect pentru final; folosiți suporturile de biciclete din față și bucurați-vă de căldura uscată a clădirii moderne a muzeului.",
+                "en": "A perfect spot to finish; use the bike racks out front and enjoy the dry warmth of the modern museum building after your wet ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt am Pier unter stahlblauem Himmel. Mittags radeln Sie über die Shaldon Bridge, wo die kalte Brise die Sinne belebt. Die Strände von Shaldon und Ness bieten winterliche Ruhe. Beachten Sie, dass die Fähre früher schließen kann und die Sonne gegen 17:00 Uhr sinkt. Beenden Sie Ihre Tour im warmen Heritage Centre, bevor die Nacht über Teignmouth hereinbricht.",
+            "hu": "Tiszta téli nap indul a mólónál az acélkék égbolt alatt. Délben a Shaldon-hídon tekerhet át, ahol a hideg szellő felfrissíti az érzékeit. Shaldon és Ness strandjai téli nyugalmat árasztanak. Figyeljen rá, hogy a komp korábban zárhat, a nap pedig 17:00 körül nyugszik. Zárja a túrát a meleg Heritage Centre-ben, mielőtt leszáll az éj.",
+            "ro": "O zi senină de iarnă începe la debarcader sub un cer albastru-oțel. La prânz, traversați podul Shaldon, unde briza rece vă va revigora. Plajele Shaldon și Ness oferă liniște hibernală. Rețineți că feribotul se poate închide mai devreme, iar soarele apune în jur de ora 17:00. Încheiați tura la Heritage Centre înainte de lăsarea nopții.",
+            "en": "A clear winter day starts at the pier under steel-blue skies. At midday, cycle across Shaldon Bridge, where the cold breeze invigorates the senses. Shaldon and Ness beaches offer winter tranquility. Note that the ferry may close earlier, and the sun sets around 17:00. Finish your tour at the warm Heritage Centre before night falls over Teignmouth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teignmouth Pier",
+                "hu": "Teignmouth Pier",
+                "ro": "Teignmouth Pier",
+                "en": "Teignmouth Pier"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der kalte Metalllenker und der Seewind können Ihre Finger auf dem Pier schnell auskühlen lassen.",
+                "hu": "Viseljen meleg kesztyűt; a hideg fém kormány és a tengeri szél gyorsan lehűtheti az ujjait a móló környékén való tekerés közben.",
+                "ro": "Purtați mănuși groase; ghidonul metalic rece și vântul marin vă pot îngheța rapid degetele în timp ce mergeți pe debarcader.",
+                "en": "Wear warm gloves; the cold metal handlebars and the sea wind can quickly freeze your fingers while cycling around the pier area."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Bridge",
+                "hu": "Shaldon Bridge",
+                "ro": "Shaldon Bridge",
+                "en": "Shaldon Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte am frühen Morgen; die Holz- und Metallsegmente der Brücke können im Winter tückisch glatt sein.",
+                "hu": "Ügyeljen a reggeli zúzmarára; a híd fa- és fémburkolatai télen rendkívül csalókán csúszósak lehetnek a vékony kerekek számára.",
+                "ro": "Atenție la polei dimineața devreme; segmentele de lemn și metal ale podului pot fi înșelător de alunecoase în timpul iernii.",
+                "en": "Watch out for early morning frost; the wooden and metal segments of the bridge can be treacherously slippery during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Beach",
+                "hu": "Shaldon Beach",
+                "ro": "Shaldon Beach",
+                "en": "Shaldon Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht über die Mündung; das Licht ist im Winter schärfer und bietet großartige Ausblicke auf die gegenüberliegende Stadt.",
+                "hu": "Élvezze a tiszta kilátást a torkolatra; a téli fények élesebbek, így nagyszerű panoráma nyílik a szemközti városra és a dombokra.",
+                "ro": "Bucurați-vă de vederea clară asupra estuarului; lumina este mai tăioasă iarna și oferă perspective grozave asupra orașului de vizavi.",
+                "en": "Enjoy the clear view across the estuary; the winter light is sharper, offering great views of the town and hills on the opposite side."
+              }
+            },
+            {
+              "name": {
+                "de": "Ness Beach",
+                "hu": "Ness Beach",
+                "ro": "Ness Beach",
+                "en": "Ness Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad vor dem Tunnel und gehen Sie zu Fuß zum Strand; die kalte Meeresbrise ist hier am Ness-Felsen besonders erfrischend.",
+                "hu": "Parkolja le a bringát az alagút előtt, és menjen gyalog a partra; a hideg tengeri fuvallat itt a Ness-sziklánál különösen frissítő tud lenni.",
+                "ro": "Parcați bicicleta în fața tunelului și mergeți pe jos la plajă; briza rece a mării este deosebit de revigorantă aici, la stânca Ness.",
+                "en": "Park your bike before the tunnel and walk to the beach; the cold sea breeze is especially invigorating here by the iconic Ness headland."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Ferry",
+                "hu": "Shaldon Ferry",
+                "ro": "Shaldon Ferry",
+                "en": "Shaldon Ferry"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan der Fähre vorab; die Fahrten sind seltener und enden oft kurz vor der früh einsetzenden Dämmerung.",
+                "hu": "Előre ellenőrizze a komp téli menetrendjét; a járatok ritkábbak és gyakran már a korán beköszöntő szürkület előtt leállnak.",
+                "ro": "Verificați din timp programul de iarnă al feribotului; cursele sunt mai rare și se termină adesea înainte de amurgul timpuriu.",
+                "en": "Check the ferry's winter timetable in advance; services are less frequent and often finish just before the early winter dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "The Den",
+                "hu": "The Den",
+                "ro": "The Den",
+                "en": "The Den"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den flachen Park für einen zügigen Endspurt, um die Körperwärme zu halten, während die Wintersonne hinter den Hügeln verschwindet.",
+                "hu": "Használja ki a sík parkot egy élénkebb tekerésre, hogy megőrizze testhőjét, miközben a téli nap eltűnik a nyugati dombok mögött.",
+                "ro": "Folosiți parcul plan pentru un ultim sprint revigorant pentru a menține căldura corpului în timp ce soarele de iarnă dispare după dealuri.",
+                "en": "Use the flat park for a brisk final ride to keep your body heat up as the winter sun begins to disappear behind the western hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Teign Heritage Centre",
+                "hu": "Teign Heritage Centre",
+                "ro": "Teign Heritage Centre",
+                "en": "Teign Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Der ideale warme Hafen am Ende der Tour; wärmen Sie sich in der Ausstellung auf, während es draußen schnell dunkel und kalt wird.",
+                "hu": "Ideális meleg menedék a túra végén; melegedjen fel a kiállítások között, miközben kint gyorsan sötétedik és hűl a levegő.",
+                "ro": "Refugiul cald ideal la finalul turei; încălziți-vă în expoziție, în timp ce afară se întunecă rapid și se face foarte frig.",
+                "en": "The ideal warm haven at the end of your ride; warm up among the exhibits as it quickly becomes dark and cold outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós túráját a békés természetvédelmi területen, amely tökéletes egy reggeli sétához, mielőtt a fővárosba indulna egy adag tengerészeti történelemért. \n\nA dél összeköti a Teignmouth móló vibráló hangulatát egy festői autózással a torkolati hídon át, átvezetve a túlpart bájos hangulatába. \n\nA délután egy nosztalgikus kompútat és a félreeső Ness strand meglátogatását kínálja, majd a meglepően csendes Cherryred partvidék felfedezését. \n\nAz este a különleges árapály-homokpadnál, az East Pole-nál csúcsosodik ki, figyelve a táj drámai változását a devoni naplemente fényében.",
         "ro": "Începeți turul cu mașina la rezervația naturală, perfectă pentru o plimbare de dimineață, înainte de a vă îndrepta spre oraș pentru istoria maritimă. \n\nPrânzul conectează atmosfera vibrantă de la Teignmouth Pier cu o condusă pitorească peste pod, făcând tranziția către farmecul malului opus. \n\nDupă-amiaza include o plimbare nostalgică cu feribotul și o vizită la plaja izolată Ness, urmată de o explorare a litoralului liniștit Cherryred. \n\nSeara culminează la nisipurile unice ale East Pole, privind cum peisajul se schimbă dramatic pe măsură ce soarele apune peste frumoasa coastă.",
         "en": "Begin your driving tour at the peaceful nature reserve, perfect for a family morning walk before heading into the main town for a dose of maritime history. \n\nMidday connects the vibrant atmosphere of the Teignmouth Pier with a scenic drive over the estuary bridge, transitioning to the charm of the opposite bank. \n\nAfternoon features a nostalgic ferry ride and a visit to the secluded Ness Beach, followed by an exploration of the surprisingly quiet Cherryred shoreline. \n\nEvening culminates at the unique tidal sands of the East Pole, watching the landscape shift dramatically as the sun sets over the beautiful Devon coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag im Auto beginnt im Coombe Valley, wo der Wald Schutz bietet. Mittags parken Sie trocken am Heritage Centre. Nachmittags genießen Sie die Aussicht vom Auto aus am Pier und bei der Shaldon Bridge, während der Regen auf das Dach prasselt. Den Abend lassen Sie an den Küstenparkplätzen von Ness und Cherryred Beach ausklingen, mit Blick auf die stürmische See.",
+            "hu": "Egy pihentető esős nap az autóban a Coombe Valley-ben indul, ahol az erdő menedéket ad. Délben parkoljon a Heritage Centre közelében a száraz látogatáshoz. Délután élvezze a kilátást a mólónál és a Shaldon-hídnál, miközben az eső kopog a tetőn. Az estét a Ness és Cherryred Beach parkolóiban zárja, a viharos tengert figyelve a biztonságos utastérből.",
+            "ro": "O zi relaxantă pe ploaie cu mașina începe în Coombe Valley, unde pădurea oferă protecție. La prânz, parcați aproape de Heritage Centre. După-amiaza, admirați priveliștea de la pier și de la podul Shaldon în timp ce ploaia bate în plafon. Încheiați seara în parcările de la Ness și Cherryred Beach, privind marea agitată din confortul mașinii.",
+            "en": "A relaxed rainy day by car starts in Coombe Valley, where the trees provide shelter. At midday, park near the Heritage Centre for a dry visit. In the afternoon, enjoy the views from the pier and Shaldon Bridge while the rain drums on the car roof. Finish the evening at the Ness and Cherryred Beach parking areas, watching the stormy sea from the safety of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Coombe Valley LNR Play Area",
+                "hu": "Coombe Valley LNR Play Area",
+                "ro": "Coombe Valley LNR Play Area",
+                "en": "Coombe Valley LNR Play Area"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen; das dichte Blätterdach bietet einen natürlichen Schutz vor leichtem Regen während des kurzen Spaziergangs.",
+                "hu": "Parkoljon a fák közelében; a sűrű lombozat természetes védelmet nyújt az enyhébb eső ellen a rövid erdei séta során.",
+                "ro": "Parcați sub copaci; coronamentul des oferă o protecție naturală împotriva ploii ușoare în timpul scurtei plimbări prin pădure.",
+                "en": "Park under the trees; the dense canopy provides natural shelter from light rain during a quick stretch of your legs in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Teign Heritage Centre",
+                "hu": "Teign Heritage Centre",
+                "ro": "Teign Heritage Centre",
+                "en": "Teign Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz am Bahnhof; so minimieren Sie den Weg im Regen zum Haupteingang des trockenen Museums.",
+                "hu": "Használja a közeli vasútállomási parkolót; így minimalizálhatja az esőben töltött időt a száraz múzeum főbejáratáig.",
+                "ro": "Folosiți parcarea din apropiere de la gară; astfel minimizați distanța parcursă prin ploaie până la intrarea principală a muzeului.",
+                "en": "Use the nearby railway station car park; this minimizes your walk in the rain to the main entrance of the dry museum building."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Pier",
+                "hu": "Teignmouth Pier",
+                "ro": "Teignmouth Pier",
+                "en": "Teignmouth Pier"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt an der Promenade; Sie können die Aussicht auf den Pier und die Wellen gemütlich aus dem trockenen Auto genießen.",
+                "hu": "Keressen parkolót közvetlenül a sétányon; a mólóra és a hullámokra nyíló kilátást kényelmesen, a száraz autóból is élvezheti.",
+                "ro": "Căutați un loc de parcare direct pe faleză; puteți admira vederea spre debarcader și valuri din confortul mașinii uscate.",
+                "en": "Look for a parking spot directly on the promenade; you can enjoy the view of the pier and the waves from the comfort of your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Bridge",
+                "hu": "Shaldon Bridge",
+                "ro": "Shaldon Bridge",
+                "en": "Shaldon Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Brücke; bei starkem Regen bilden sich oft tiefe Pfützen am Fahrbahnrand. Achten Sie auf Gischt von entgegenkommenden Autos.",
+                "hu": "Hajtson lassan a hídon; heves esőzéskor gyakran mély tócsák alakulnak ki az út szélén. Vigyázzon a szembejövők által felcsapott vízre.",
+                "ro": "Conduceți încet pe pod; la ploi abundente se formează adesea bălți adânci pe marginea drumului. Atenție la apa împroșcată de alte mașini.",
+                "en": "Drive slowly across the bridge; heavy rain often creates deep puddles at the roadside. Watch out for spray from oncoming vehicles."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Ferry",
+                "hu": "Shaldon Ferry",
+                "ro": "Shaldon Ferry",
+                "en": "Shaldon Ferry"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf der Shaldon-Seite; der Blick auf das im Regen graue Teignmouth vom Ufer aus ist ein tolles Motiv für Fotos aus dem Fenster.",
+                "hu": "Parkoljon a shaldoni oldalon; az esőben szürkés Teignmouth látványa a partról remek téma az autó ablakából készített fotókhoz.",
+                "ro": "Parcați pe partea Shaldon; vederea spre Teignmouth cenușiu în ploaie de pe mal este un subiect excelent pentru fotografii de la fereastră.",
+                "en": "Park on the Shaldon side; the view of grey Teignmouth in the rain from the shore is a great subject for photos from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Ness Beach",
+                "hu": "Ness Beach",
+                "ro": "Ness Beach",
+                "en": "Ness Beach"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz am Ness ist ideal; von hier haben Sie einen weiten Blick über die Küste, ohne das Auto bei starkem Wind verlassen zu müssen.",
+                "hu": "A Ness nagy parkolója ideális; innen tágas kilátás nyílik a partra anélkül, hogy erős szélben el kellene hagynia az autó biztonságát.",
+                "ro": "Parcarea mare de la Ness este ideală; de aici aveți o vedere largă asupra coastei fără a fi nevoie să părăsiți mașina în vânt puternic.",
+                "en": "The large car park at the Ness is ideal; from here you have a sweeping view of the coast without needing to leave the car in strong winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Cherryred Beach",
+                "hu": "Cherryred Beach",
+                "ro": "Cherryred Beach",
+                "en": "Cherryred Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die schmalen Küstenstraßen bei Nässe; das Laub kann die Fahrbahn rutschig machen. Genießen Sie die wilde Atmosphäre der Klippen.",
+                "hu": "Ügyeljen a szűk parti utakra vizes időben; a lehullott levelek csúszóssá tehetik az utat. Élvezze a sziklák vad hangulatát az autóból.",
+                "ro": "Atenție la drumurile înguste de coastă pe ploaie; frunzele căzute pot face carosabilul alunecos. Admirați atmosfera sălbatică a stâncilor.",
+                "en": "Watch out on narrow coastal roads when wet; fallen leaves can make the surface slippery. Enjoy the wild cliff atmosphere from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "East Pole Sand",
+                "hu": "East Pole Sand",
+                "ro": "East Pole Sand",
+                "en": "East Pole Sand"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag zu beenden; beobachten Sie die Gezeiten und das Spiel des Regens auf der Meeresoberfläche direkt vom Parkplatz aus.",
+                "hu": "Szép hely a nap zárásához; figyelje az árapályt és az eső játékát a tenger felszínén közvetlenül a part menti parkolóhelyről.",
+                "ro": "Un loc frumos pentru a încheia ziua; observați mareea și jocul ploii pe suprafața mării direct din locul de parcare de pe coastă.",
+                "en": "A lovely spot to end the day; watch the tides and the rain dancing on the sea surface directly from your coastal parking spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag im Auto beginnt im frostigen Coombe Valley. Mittags bietet das Heritage Centre eine warme Pause. Nachmittags fahren Sie entlang der Küste zum Pier und über die Shaldon Bridge, während die tiefstehende Wintersonne alles golden färbt. Da es gegen 17:00 Uhr dunkel wird, genießen Sie den frühen Sonnenuntergang an den Aussichtspunkten von Ness und East Pole Sand.",
+            "hu": "Tiszta téli nap az autóban a fagyos Coombe Valley-ben indul. Délben a Heritage Centre kínál meleg pihenőt. Délután autózzon a part mentén a mólóhoz és a Shaldon-hídon át, miközben az alacsony téli nap mindent aranyba öltöztet. Mivel 17:00 körül sötétedik, élvezze a korai naplementét a Ness és az East Pole Sand kilátópontjairól.",
+            "ro": "O zi senină de iarnă cu mașina începe în Coombe Valley înghețată. La prânz, Heritage Centre oferă o pauză caldă. După-amiaza, conduceți de-a lungul coastei spre debarcader și peste podul Shaldon sub soarele de iarnă. Deoarece se întunecă în jur de ora 17:00, admirați apusul devreme de la Ness și East Pole Sand.",
+            "en": "A clear winter day by car starts in the frosty Coombe Valley. At midday, the Heritage Centre provides a warm break. In the afternoon, drive along the coast to the pier and across Shaldon Bridge while the low winter sun turns everything golden. As it gets dark around 17:00, enjoy the early sunset from the viewpoints at the Ness and East Pole Sand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Coombe Valley LNR Play Area",
+                "hu": "Coombe Valley LNR Play Area",
+                "ro": "Coombe Valley LNR Play Area",
+                "en": "Coombe Valley LNR Play Area"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Autos nach einem kurzen, erfrischenden Winterspaziergang im Tal, um sich für die Weiterfahrt schnell wieder aufzuwärmen.",
+                "hu": "Használja autója fűtését egy rövid, frissítő téli erdei séta után, hogy gyorsan felmelegedjen, mielőtt továbbhajtana a következő állomás felé.",
+                "ro": "Folosiți încălzirea mașinii după o scurtă plimbare revigorantă de iarnă prin vale, pentru a vă încălzi rapid înainte de a porni mai departe.",
+                "en": "Use your car's heater after a short, refreshing winter walk in the valley to warm up quickly before driving to the next coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Teign Heritage Centre",
+                "hu": "Teign Heritage Centre",
+                "ro": "Teign Heritage Centre",
+                "en": "Teign Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; die Winterluft am Bahnhof kann sehr kalt sein. Das Museum selbst ist ein herrlich warmer Ort für eine längere Pause.",
+                "hu": "Parkoljon a lehető legközelebb; a vasútállomás környékén a téli levegő nagyon hideg lehet. A múzeum maga remek meleg hely egy hosszabb pihenőre.",
+                "ro": "Parcați cât mai aproape; aerul de iarnă de la gară poate fi foarte rece. Muzeul în sine este un loc minunat de cald pentru o pauză lungă.",
+                "en": "Park as close as possible; the winter air by the railway station can be very cold. The museum itself is a brilliantly warm place for a long break."
+              }
+            },
+            {
+              "name": {
+                "de": "Teignmouth Pier",
+                "hu": "Teignmouth Pier",
+                "ro": "Teignmouth Pier",
+                "en": "Teignmouth Pier"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze an der Promenade bieten im Winter eine tolle Sicht auf die raue See, während Sie im warmen Auto vor dem eisigen Wind geschützt sind.",
+                "hu": "A sétány menti parkolók télen remek kilátást nyújtanak a zord tengerre, miközben a meleg autóban védve marad az átható jeges szél elől.",
+                "ro": "Parcările de pe faleză oferă o vedere excelentă asupra mării agitate iarna, în timp ce sunteți protejat de vântul înghețat în mașina caldă.",
+                "en": "The promenade parking spots offer great views of the rough winter sea while you stay protected from the icy winds inside your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Bridge",
+                "hu": "Shaldon Bridge",
+                "ro": "Shaldon Bridge",
+                "en": "Shaldon Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte auf der Brückenoberfläche bei Minusgraden; die Aussicht auf die gefrorenen Ufer der Mündung ist im Winter einmalig.",
+                "hu": "Ügyeljen az útfelület esetleges jegesedésére a hídon fagypont környékén; a torkolat fagyos partjainak látványa télen egészen egyedülálló élmény.",
+                "ro": "Atenție la poleiul de pe suprafața podului la temperaturi negative; vederea spre malurile înghețate ale estuarului este unică în timpul iernii.",
+                "en": "Watch out for potential ice on the bridge surface in freezing temperatures; the view of the frozen estuary banks is unique during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Shaldon Ferry",
+                "hu": "Shaldon Ferry",
+                "ro": "Shaldon Ferry",
+                "en": "Shaldon Ferry"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der kleinen Fähre vom warmen Fahrersitz aus; das Licht der tiefstehenden Sonne erzeugt tolle Reflexionen auf dem Wasser.",
+                "hu": "Figyelje a kis komp kikötését a meleg vezetőülésből; az alacsonyan járó nap fényei csodálatos tükröződéseket hoznak létre a hideg vízen.",
+                "ro": "Observați acostarea micului feribot din scaunul șoferului; lumina soarelui de joasă altitudine creează reflexii superbe pe apa rece.",
+                "en": "Watch the small ferry docking from your warm driver's seat; the low winter sun creates wonderful light reflections on the cold river water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ness Beach",
+                "hu": "Ness Beach",
+                "ro": "Ness Beach",
+                "en": "Ness Beach"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ness-Parkplatz für den frühen Sonnenuntergang; die weite Sicht nach Osten bietet im Winter oft spektakuläre Farben am Himmel.",
+                "hu": "Látogasson el a Ness parkolóba a korai naplementére; a tágas keleti kilátás télen gyakran látványos színekbe öltözteti a horizontot.",
+                "ro": "Vizitați parcarea Ness pentru apusul devreme; vederea largă spre est oferă adesea culori spectaculoase pe cer în timpul iernii.",
+                "en": "Visit the Ness car park for the early sunset; the wide eastward view often provides spectacular sky colours during the clear winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Cherryred Beach",
+                "hu": "Cherryred Beach",
+                "ro": "Cherryred Beach",
+                "en": "Cherryred Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Straßen; bei tiefstehender Sonne können Schatten die Sicht auf mögliche Eisstellen auf der Fahrbahn erschweren.",
+                "hu": "Hajtson óvatosan a kanyargós utakon; az alacsony napállás miatt az árnyékok elrejthetik az esetleges jeges foltokat az úttesten.",
+                "ro": "Conduceți cu atenție pe drumurile sinuoase; din cauza soarelui jos, umbrele pot ascunde eventualele porțiuni înghețate de pe carosabil.",
+                "en": "Drive carefully on the winding roads; with the low sun, shadows can hide potential icy patches on the road surface during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "East Pole Sand",
+                "hu": "East Pole Sand",
+                "ro": "East Pole Sand",
+                "en": "East Pole Sand"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Wintertag im Auto zu beenden und die Lichter von Teignmouth auf der anderen Seite des Wassers angehen zu sehen.",
+                "hu": "Tökéletes helyszín a téli nap befejezéséhez az autóban, miközben nézi, ahogy Teignmouth fényei kigyúlnak a víz túlsó partján a sötétedésben.",
+                "ro": "Un loc perfect pentru a încheia ziua de iarnă în mașină, privind cum se aprind luminile în Teignmouth pe partea cealaltă a apei.",
+                "en": "A perfect spot to end your winter day in the car, watching the lights of Teignmouth flicker on across the water as darkness falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

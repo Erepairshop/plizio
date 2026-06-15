@@ -137,6 +137,168 @@
         "hu": "Cala Ratjada-i gyalogtúrája Sa Torre Cega békés kertjeiben indul, ahol a művészet és a természet egybeolvad. Délben a gyönyörű part mentén Cala Gat és a sa Torre Esbucada romjai felé sétál. A délután a Far de Capdepera világítótorony lenyűgöző panorámájával jutalmazza meg. Végül kora este pihenjen meg Son Moll finom homokos tengerpartján, élvezve a naplemente fényeit.",
         "ro": "Turul pietonal prin Cala Ratjada începe în grădinile liniștite de la Sa Torre Cega, unde arta și natura se împletesc. Până la prânz, veți rătăci de-a lungul coastei spre Cala Gat și ruinele sa Torre Esbucada. După-amiaza vă răsplătește cu vederi panoramice de la farul Far de Capdepera. În cele din urmă, relaxați-vă pe nisipul fin de la Son Moll odată cu lăsarea serii.",
         "en": "Your walking tour of Cala Ratjada begins in the tranquil gardens of Sa Torre Cega, where art and nature blend seamlessly. By midday, you'll wander along the beautiful coast to Cala Gat and the rugged ruins of sa Torre Esbucada. The afternoon rewards you with sweeping panoramic views from the Far de Capdepera lighthouse. Finally, relax and unwind on the soft sands of Son Moll as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen geschützt in den Gärten der Sa Torre Cega. Mittags führt der Weg entlang der Küste, wo die salzige Brise den Regen begleitet. Am Nachmittag bietet der Leuchtturm einen dramatischen Ausblick auf die stürmische See. Beenden Sie den Tag in einem gemütlichen Lokal im Hafen, während die Tropfen gegen die Scheiben trommeln und die Lichter im nassen Asphalt reflektieren.",
+            "hu": "Kezdje a reggelt a Sa Torre Cega kertjeiben, ahol a fák némi védelmet nyújtanak. Délben a part menti szél és az eső illata kíséri utunkat a világítótorony felé. Délután a viharos tenger látványa nyújt drámai élményt a sziklákról. Az estét töltse a kikötő egyik fedett teraszán, figyelve az esőcseppek táncát a vízen és a vizes aszfalton megcsillanó fényeket.",
+            "ro": "Începeți dimineața la Sa Torre Cega, unde grădinile oferă un adăpost natural parțial. La prânz, plimbarea pe coastă devine spectaculoasă sub cerul înnorat și briza sărată. După-amiaza, farul oferă o priveliște dramatică asupra mării agitate de ploaie. Seara, retrageți-vă într-o cafenea portuară, savurând atmosfera intimă creată de sunetul ploii pe acoperiș și luminile orașului.",
+            "en": "Start your morning at Sa Torre Cega, where the lush gardens provide some natural cover. At noon, the coastal path offers a refreshing breeze and the scent of rain. In the afternoon, the lighthouse provides a dramatic vantage point over the stormy Mediterranean. End your day in a cozy harbor-side spot, watching the rain dance on the water while enjoying the warm atmosphere inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sa Torre Cega",
+                "hu": "Sa Torre Cega",
+                "ro": "Sa Torre Cega",
+                "en": "Sa Torre Cega"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Skulpturen zwischen den Pinien, die bei Regen einen intensiven Harzduft verströmen; feste Schuhe verhindern Ausrutschen auf den nassen Gartenwegen.",
+                "hu": "Csodálja meg a szobrokat a fenyők között, amelyek esőben intenzív gyantaillatot árasztanak; a stabil lábbeli segít elkerülni a csúszást a nedves kerti ösvényeken.",
+                "ro": "Admirați sculpturile printre pini, care emană un miros intens de rășină pe ploaie; încălțămintea aderentă previne alunecarea pe potecile umede din grădină.",
+                "en": "Admire the sculptures among the pines, which release an intense resin scent in the rain; sturdy shoes will prevent slipping on the wet garden paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Gat",
+                "hu": "Cala Gat",
+                "ro": "Cala Gat",
+                "en": "Cala Gat"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Bucht wirkt bei grauem Himmel mystisch und ruhig; nutzen Sie den überdachten Bereich der nahen Gebäude, um trocken die Brandung zu beobachten.",
+                "hu": "A kis öböl misztikus és nyugodt a szürke égbolt alatt; használja a közeli épületek fedett részeit, hogy szárazon figyelhesse a hullámverést a sziklákon.",
+                "ro": "Micuțul golf pare mistic și liniștit sub cerul gri; folosiți zonele acoperite ale clădirilor din apropiere pentru a observa valurile fără a vă uda.",
+                "en": "This small cove looks mystical and calm under grey skies; use the covered areas of nearby buildings to watch the surf while staying dry and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "sa Torre Esbucada",
+                "hu": "sa Torre Esbucada",
+                "ro": "sa Torre Esbucada",
+                "en": "sa Torre Esbucada"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen, die im Regen eine melancholische Atmosphäre ausstrahlen; achten Sie auf die rutschigen Steine und halten Sie Abstand zur Klippenkante.",
+                "hu": "Fedezze fel a romokat, amelyek az esőben melankolikus hangulatot árasztanak; ügyeljen a csúszós kövekre és tartson biztonságos távolságot a szikla szélétől.",
+                "ro": "Explorați ruinele care emană o atmosferă melancolică în ploaie; aveți grijă la pietrele alunecoase și păstrați o distanță sigură de marginea falezei.",
+                "en": "Explore the ruins that exude a melancholic atmosphere in the rain; watch out for slippery stones and keep a safe distance from the edge of the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Capdepera",
+                "hu": "Far de Capdepera",
+                "ro": "Far de Capdepera",
+                "en": "Far de Capdepera"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm ist ein idealer Ort, um die Kraft der Natur zu spüren; tragen Sie eine windfeste Regenjacke, da die Böen hier oben besonders stark sind.",
+                "hu": "A világítótorony ideális hely a természet erejének átélésére; viseljen szélálló esőkabátot, mert a széllökések itt fent különösen erősek lehetnek viharban.",
+                "ro": "Farul este locul ideal pentru a simți forța naturii; purtați o pelerină de ploaie rezistentă la vânt, deoarece rafalele sunt extrem de puternice aici sus.",
+                "en": "The lighthouse is an ideal spot to feel the power of nature; wear a windproof raincoat as the gusts can be especially strong up here during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Son Moll",
+                "hu": "Son Moll",
+                "ro": "Son Moll",
+                "en": "Son Moll"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am menschenleeren Sandstrand und genießen Sie die kühle Brise; der nahegelegene befestigte Weg ist auch bei Nässe gut begehbar und sicher.",
+                "hu": "Sétáljon a néptelen homokos tengerparton és élvezze a hűvös szellőt; a közeli kiépített sétány vizesen is jól járható és biztonságos marad a gyalogosoknak.",
+                "ro": "Plimbați-vă pe plaja de nisip pustie și bucurați-vă de briza răcoroasă; faleza amenajată din apropiere este sigură și ușor de parcurs chiar și pe ploaie.",
+                "en": "Stroll along the deserted sandy beach and enjoy the cool breeze; the nearby paved promenade remains safe and easy to walk on even when it is wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch bei der Sa Torre Cega unter der sanften Mittelmeersonne. Mittags wandern Sie zur Cala Gat, die nun menschenleer und friedlich wirkt. Am Nachmittag erreichen Sie den Leuchtturm pünktlich zum frühen Sonnenuntergang gegen 17 Uhr. Der Abend klingt im beleuchteten Ortskern aus, wo die kühle Meeresluft zu einem warmen Getränk in einer Bar einlädt.",
+            "hu": "A téli reggel frissen indul a Sa Torre Cega kertjeiben a lágy mediterrán napsütésben. Délben a Cala Gat öböl csendje és a tömeg hiánya nyújt tökéletes nyugalmat. Délután a világítótoronyhoz érve élvezheti a korai, 17 óra körüli naplementét a tenger felett. Az estét a hangulatos központban zárja, ahol a hűvös tengeri levegő után jól esik egy forró ital egy helyi bárban.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la Sa Torre Cega, sub soarele blând al Mediteranei. La prânz, Cala Gat oferă o liniște rară, fiind liberă de turiști. După-amiaza, vizitați farul pentru a prinde apusul devreme, în jur de ora 17:00, un spectacol de culori. Seara se încheie în centrul orașului, unde aerul rece vă va face să apreciați atmosfera caldă a unei cafenele locale.",
+            "en": "A winter morning begins crisp at Sa Torre Cega under the gentle Mediterranean sun. At noon, walk to Cala Gat, which feels peaceful and secluded without the summer crowds. In the afternoon, reach the lighthouse just in time for the early sunset around 5 PM, offering stunning views. End your evening in the town center, where the cool sea air makes a warm drink in a local cafe feel extra inviting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sa Torre Cega",
+                "hu": "Sa Torre Cega",
+                "ro": "Sa Torre Cega",
+                "en": "Sa Torre Cega"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten leuchten im klaren Winterlicht besonders schön; planen Sie den Besuch für die Mittagsstunden ein, wenn die Wintersonne am wärmsten ist.",
+                "hu": "A kertek különösen szépek a tiszta téli fényben; a látogatást a déli órákra tervezze, amikor a téli nap a legmelegebb és a legkellemesebb a sétához.",
+                "ro": "Grădinile arată minunat în lumina clară de iarnă; planificați vizita în jurul prânzului, când soarele de iarnă este cel mai cald și plăcut pentru plimbare.",
+                "en": "The gardens look particularly beautiful in the clear winter light; plan your visit for midday when the winter sun is at its warmest and most pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Gat",
+                "hu": "Cala Gat",
+                "ro": "Cala Gat",
+                "en": "Cala Gat"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Pause fernab der Sommermassen; Handschuhe sind für die Weiterfahrt entlang der Küste bei den kühlen Temperaturen ratsam.",
+                "hu": "Békés hely egy rövid pihenőhöz, távol a nyári tömegtől; a hűvös hőmérséklet miatt tanácsos kesztyűt és sálat viselni a tengerparti szakaszon.",
+                "ro": "Un loc liniștit pentru o scurtă pauză departe de aglomerația verii; din cauza temperaturilor scăzute, este recomandat să purtați mănuși pe malul mării.",
+                "en": "A peaceful spot for a short break away from the summer crowds; due to the cool temperatures, it is advisable to wear a scarf and gloves along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "sa Torre Esbucada",
+                "hu": "sa Torre Esbucada",
+                "ro": "sa Torre Esbucada",
+                "en": "sa Torre Esbucada"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Meer ist auch im Winter beeindruckend; kleiden Sie sich im Zwiebelprinzip, da der Wind an den Klippen viel kälter sein kann.",
+                "hu": "A tengerre néző kilátás télen is lenyűgöző és drámai; öltözzön rétegesen, mert a nyitott sziklákon a szél sokkal hidegebbnek érződik, mint a városban.",
+                "ro": "Vederea spre mare este impresionantă și dramatică chiar și iarna; îmbrăcați-vă în straturi, deoarece pe stâncile deschise vântul se simte mult mai rece.",
+                "en": "The view over the sea is impressive and dramatic even in winter; dress in layers because the wind on the open cliffs feels much colder than in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Capdepera",
+                "hu": "Far de Capdepera",
+                "ro": "Far de Capdepera",
+                "en": "Far de Capdepera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne die Sommerhitze; kommen Sie spätestens um 16:30 Uhr an, um den frühen Sonnenuntergang über dem Meer zu erleben.",
+                "hu": "Élvezze a panorámát a nyári hőség nélkül; érkezzen meg legkésőbb 16:30-ra, hogy láthassa a korai, 17 óra körüli naplementét a végtelen tenger felett.",
+                "ro": "Bucurați-vă de panorama superbă fără căldura verii; ajungeți cel târziu la ora 16:30 pentru a vedea apusul devreme, în jurul orei 17:00, peste mare.",
+                "en": "Enjoy the panoramic view without the summer heat; arrive by 4:30 PM at the latest to see the early sunset over the sea, which starts around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Son Moll",
+                "hu": "Son Moll",
+                "ro": "Son Moll",
+                "en": "Son Moll"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die kühle Meeresbrise am fast menschenleeren Strand; nach Sonnenuntergang sinkt die Temperatur schnell, sodass sich ein Cafébesuch lohnt.",
+                "hu": "Tapasztalja meg a hűvös tengeri szellőt a szinte üres strandon; a naplemente után a hőmérséklet gyorsan süllyed, így érdemes egy közeli fűtött bárba betérni.",
+                "ro": "Simțiți briza rece a mării pe plaja aproape goală; după apus, temperatura scade rapid, așa că merită să vă refugiați într-un bar încălzit din apropiere.",
+                "en": "Experience the cool sea breeze on the almost empty beach; after sunset, the temperature drops quickly, so it is worth heading to a heated bar nearby."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját a népszerű Son Moll strandon, élvezve a reggeli napsütést, majd tekerjen el a történelmi Sa Torre Cega felé. A dél egy frissítő megállót hoz az idilli Cala Gat öbölben és egy festői utat a lenyűgöző Far de Capdepera világítótoronyhoz. Zárja az aktív délutánt a Cala Agulla partján, ahol a széles homokos part és a hűvös fenyőerdők tökéletes kikapcsolódást nyújtanak.",
         "ro": "Începeți aventura cu bicicleta la populara plajă Son Moll, bucurându-vă de soarele dimineții înainte de a vă îndrepta spre istorica Sa Torre Cega. Prânzul aduce o oprire răcoritoare la golful idilic Cala Gat și o plimbare pitorească până la farul Far de Capdepera. Încheiați după-amiaza la cala Agulla, unde nisipurile fine și pădurile de pini oferă o relaxare perfectă la malul mării.",
         "en": "Kick off your cycling adventure at the popular Son Moll beach, soaking in the morning sun before heading to the historic Sa Torre Cega. Midday brings a refreshing stop at the idyllic Cala Gat cove and a scenic ride up to the striking Far de Capdepera lighthouse. Conclude your active afternoon at cala Agulla, where expansive sands and cool pine forests provide the perfect coastal wind-down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen, bietet aber leere Straßen. Morgens gleiten Sie durch die feuchte Luft zum Son Moll Strand. Mittags erreichen Sie die Sa Torre Cega, deren Mauern Schutz bieten. Am Nachmittag trotzen Sie dem Wetter bis zum Leuchtturm, bevor Sie den Tag in der Hafen region ausklingen lassen, wo die Lichter auf dem Asphalt glänzen.",
+            "hu": "Az esős kerékpározás óvatosságot igényel a csúszós utakon, de cserébe üres utakat kínál. Reggel a friss levegőn guruljon el a Son Moll strandig. Délben a Sa Torre Cega falai nyújtanak menedéket a zápor elől. Délután tekerjen fel a világítótoronyhoz a drámai kilátásért, majd fejezze be a napot a kikötőben, figyelve az esőben csillogó aszfaltot.",
+            "ro": "O tură cu bicicleta pe ploaie necesită atenție pe drumurile alunecoase, dar oferă trasee libere. Dimineața pedalați prin aerul curat spre plaja Son Moll. La prânz, zidurile de la Sa Torre Cega oferă un adăpost temporar. După-amiaza, urcați spre far pentru o priveliște spectaculoasă, apoi încheiați ziua în port, admirând reflexiile luminilor pe asfaltul umed.",
+            "en": "Cycling in the rain requires caution on slippery paths but rewards you with empty roads. In the morning, glide through the fresh air to Son Moll beach. At noon, the walls of Sa Torre Cega offer a brief shelter from the showers. In the afternoon, pedal up to the lighthouse for dramatic views, then end your day at the harbor, watching the lights reflect on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Son Moll",
+                "hu": "Son Moll",
+                "ro": "Son Moll",
+                "en": "Son Moll"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leere Strandpromenade im Regen; fahren Sie vorsichtig auf dem nassen Pflaster, da es bei Nässe extrem rutschig sein kann.",
+                "hu": "Élvezze az üres tengerparti sétányt az esőben; vezessen óvatosan a nedves kövön, mert a burkolat vizesen rendkívül csúszóssá és veszélyessé válhat.",
+                "ro": "Bucurați-vă de faleza goală pe ploaie; conduceți cu atenție pe pavajul umed, deoarece suprafața poate deveni extrem de alunecoasă când este udă.",
+                "en": "Enjoy the empty beach promenade in the rain; ride carefully on the wet pavement, as the surface can become extremely slippery and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Torre Cega",
+                "hu": "Sa Torre Cega",
+                "ro": "Sa Torre Cega",
+                "en": "Sa Torre Cega"
+              },
+              "tip_5lang": {
+                "de": "Die majestätischen Pinien bieten bei einem kurzen Schauer guten Schutz; parken Sie Ihr Rad im überdachten Eingangsbereich, um den Sattel trocken zu halten.",
+                "hu": "A fenséges fenyők jó védelmet nyújtanak egy rövid zápor esetén; parkolja le kerékpárját a fedett bejáratnál, hogy a nyereg száraz maradjon a látogatás alatt.",
+                "ro": "Pinii maiestuoși oferă o protecție bună în cazul unei averse scurte; parcați bicicleta la intrarea acoperită pentru a menține șaua uscată în timpul vizitei.",
+                "en": "The majestic pines provide good protection during a short shower; park your bike at the covered entrance to keep the saddle dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Gat",
+                "hu": "Cala Gat",
+                "ro": "Cala Gat",
+                "en": "Cala Gat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die wilden Wellen in der kleinen Bucht; achten Sie auf Pfützen auf dem schmalen Weg und tragen Sie unbedingt eine wasserfeste Hose.",
+                "hu": "Figyelje a vad hullámokat a kis öbölben; ügyeljen a tócsákra a keskeny ösvényen, és viseljen vízálló nadrágot, hogy elkerülje a felfröccsenő vizet.",
+                "ro": "Observați valurile sălbatice în micul golf; aveți grijă la bălțile de pe poteca îngustă și purtați pantaloni impermeabili pentru a evita stropirea.",
+                "en": "Watch the wild waves in the small cove; watch out for puddles on the narrow path and wear waterproof trousers to avoid getting soaked by splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Capdepera",
+                "hu": "Far de Capdepera",
+                "ro": "Far de Capdepera",
+                "en": "Far de Capdepera"
+              },
+              "tip_5lang": {
+                "de": "Der Weg bergauf ist bei Regen anstrengend, aber die Aussicht lohnt sich; prüfen Sie Ihre Bremsen vor der Abfahrt auf der nassen Straße gründlich.",
+                "hu": "Az emelkedő esőben megterhelő, de a kilátás megéri az erőfeszítést; a lejtmenet előtt alaposan ellenőrizze a fékeket a nedves és csúszós aszfalton.",
+                "ro": "Urcarea pe ploaie este solicitantă, dar vederea merită efortul; verificați bine frânele înainte de coborâre pe asfaltul umed și periculos de alunecos.",
+                "en": "The climb in the rain is demanding, but the view is worth the effort; check your brakes thoroughly before the descent on the wet and slippery asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "cala Agulla",
+                "hu": "cala Agulla",
+                "ro": "cala Agulla",
+                "en": "cala Agulla"
+              },
+              "tip_5lang": {
+                "de": "Der Pinienwald am Strand duftet bei Regen herrlich intensiv; bleiben Sie auf den befestigten Waldwegen, um nicht im matschigen Sand steckenzubleiben.",
+                "hu": "A tengerparti fenyőerdő illata esőben csodálatosan intenzív; maradjon a kiépített erdei utakon, hogy ne akadjon el a mély és sáros homokban a biciklivel.",
+                "ro": "Pădurea de pini de pe plajă are un miros minunat de intens în ploaie; rămâneți pe potecile amenajate pentru a nu rămâne blocat cu bicicleta în nisipul ud.",
+                "en": "The pine forest by the beach smells wonderfully intense in the rain; stay on the paved forest paths to avoid getting stuck in the deep and muddy sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die milde mallorquinische Luft. Morgens starten Sie am ruhigen Son Moll Strand. Mittags erkunden Sie die Gärten der Sa Torre Cega, die auch im Winter ihren Charme bewahren. Da die Sonne gegen 17 Uhr untergeht, sollten Sie den Nachmittag am Far de Capdepera verbringen. Der Abend endet gemütlich bei einem heißen Getränk im lebhaften Zentrum.",
+            "hu": "A téli kerékpártúra a lágy mallorcai levegőn vezet keresztül. Reggel induljon a csendes Son Moll strandról. Délben fedezze fel a Sa Torre Cega kertjeit, amelyek télen is megőrzik varázsukat. Mivel a nap 17 óra körül nyugszik, a délutánt töltse a Far de Capdeperánál. Az este egy forró ital mellett, a hangulatos városközpontban zárul, távol a nyári hőségtől.",
+            "ro": "Turul cu bicicleta iarna profită de aerul blând din Mallorca. Dimineața începe la plaja liniștită Son Moll. La prânz, explorați grădinile Sa Torre Cega, care își păstrează farmecul și iarna. Deoarece soarele apune în jur de ora 17:00, petreceți după-amiaza la Far de Capdepera. Seara se încheie confortabil cu o băutură caldă în centrul vibrant al orașului.",
+            "en": "A winter bike ride takes advantage of the mild Mallorcan air. Start your morning at the quiet Son Moll beach. At noon, explore the gardens of Sa Torre Cega, which maintain their charm even in winter. As the sun sets around 5 PM, spend your afternoon at Far de Capdepera. The evening ends cozily with a warm drink in the lively town center, away from the summer heat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Son Moll",
+                "hu": "Son Moll",
+                "ro": "Son Moll",
+                "en": "Son Moll"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die kühle Meeresbrise am fast menschenleeren Strand; tragen Sie mehrere Schichten Kleidung, um gegen den kalten Fahrtwind geschützt zu sein.",
+                "hu": "Élje át a hűvös tengeri szellőt a szinte néptelen strandon; öltözzön rétegesen, hogy hatékonyan védekezzen a hideg menetszél ellen a kerékpározás során.",
+                "ro": "Experimentați briza rece a mării pe plaja aproape pustie; îmbrăcați-vă în straturi pentru a vă proteja eficient împotriva vântului rece în timpul pedalării.",
+                "en": "Experience the cool sea breeze on the almost deserted beach; dress in layers to protect yourself effectively against the cold wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Torre Cega",
+                "hu": "Sa Torre Cega",
+                "ro": "Sa Torre Cega",
+                "en": "Sa Torre Cega"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten leuchten im klaren Winterlicht besonders schön; planen Sie den Besuch für die Mittagsstunden ein, wenn die Wintersonne am wärmsten ist.",
+                "hu": "A kertek a tiszta téli fényben különösen szépen mutatnak; a látogatást a déli órákra tervezze, amikor a téli napsütés a legmelegebb és legkellemesebb.",
+                "ro": "Grădinile arată deosebit de frumos în lumina clară de iarnă; planificați vizita la prânz, când soarele de iarnă este cel mai cald și mai plăcut.",
+                "en": "The gardens look particularly beautiful in the clear winter light; plan your visit for midday when the winter sun is at its warmest and most pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Gat",
+                "hu": "Cala Gat",
+                "ro": "Cala Gat",
+                "en": "Cala Gat"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Pause fernab der Sommermassen; Handschuhe sind für die Weiterfahrt entlang der Küste bei den kühlen Temperaturen ratsam.",
+                "hu": "Békés hely egy rövid pihenőhöz, távol a nyári hőségtől; a hűvös hőmérséklet miatt a tengerparti szakaszon kesztyű viselése javasolt a kerékpárosoknak.",
+                "ro": "Un loc liniștit pentru o scurtă pauză departe de căldura verii; din cauza temperaturilor scăzute, se recomandă purtarea mănușilor pe secțiunea de coastă.",
+                "en": "A peaceful spot for a short break away from the summer heat; due to the cool temperatures, wearing gloves is recommended for cyclists along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Capdepera",
+                "hu": "Far de Capdepera",
+                "ro": "Far de Capdepera",
+                "en": "Far de Capdepera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick ohne die Sommerhitze; kommen Sie spätestens um 16:30 Uhr an, um den frühen Sonnenuntergang über dem Meer zu erleben.",
+                "hu": "Élvezze a panorámát a nyári tömeg nélkül; érkezzen meg legkésőbb 16:30-ra, hogy láthassa a korai, 17 óra körüli naplementét a horizonton a tenger felett.",
+                "ro": "Bucurați-vă de panoramă fără aglomerația de vară; ajungeți cel târziu la ora 16:30 pentru a vedea apusul devreme, în jurul orei 17:00, peste mare.",
+                "en": "Enjoy the panoramic view without the summer crowds; arrive by 4:30 PM at the latest to see the early sunset over the sea, which starts around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "cala Agulla",
+                "hu": "cala Agulla",
+                "ro": "cala Agulla",
+                "en": "cala Agulla"
+              },
+              "tip_5lang": {
+                "de": "Die unberührte Natur wirkt im Winter besonders beeindruckend; achten Sie auf die Zeit, da es ab 17 Uhr schnell kühl und dunkel auf den Wegen wird.",
+                "hu": "Az érintetlen természet télen különösen lenyűgöző és tágas; ügyeljen az időre, mert 17 óra után gyorsan hűl a levegő és sötétedik az erdei utakon.",
+                "ro": "Natura neatinsă este deosebit de impresionantă și vastă iarna; aveți grijă la timp, deoarece după ora 17 aerul se răcește rapid și se întunecă pe drum.",
+                "en": "The untouched nature is particularly impressive and spacious in winter; mind the time as the air cools quickly and it gets dark on the forest paths after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +769,224 @@
         "hu": "Autózzon egyenesen az eldugott Caló des Beato felé egy csendes reggelért, majd haladjon tovább Son Moll és a kulturális kincs, Sa Torre Cega felé. A déli út a magasba törő Far de Capdepera világítótoronyhoz visz, lenyűgöző kilátással, amit a hatalmas Cala Agulla meglátogatása követ. A késő délutánt Cala Moltó érintetlen bájának és Cala na Llòbriga vad szépségének felfedezésével töltheti.",
         "ro": "Conduceți direct la retrasul Caló des Beato pentru o dimineață liniștită, apoi navigați spre Son Moll și bijuteria culturală Sa Torre Cega. Drumul de la prânz vă duce la farul impunător Far de Capdepera, urmat de o vizită la întinsa cala Agulla. Petreceți sfârșitul după-amiezii descoperind farmecul natural imaculat de la Cala Moltó și frumusețea sălbatică a golfului Cala na Llòbriga.",
         "en": "Drive straight to the secluded Caló des Beato for a quiet morning, then cruise over to Son Moll and the cultural gem of Sa Torre Cega. The midday drive takes you to the towering Far de Capdepera, offering incredible views of the sea, followed by a visit to the expansive cala Agulla. Spend your late afternoon discovering the pristine natural charm of Cala Moltó and the rugged beauty of Cala na Llòbriga."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Cala Ratjada heute besonders komfortabel. Starten Sie morgens an der Caló des Beato, während die Wischer den Rhythmus vorgeben. Mittags bietet die Fahrt zum Leuchtturm spektakuläre Ausblicke auf die gischtgepeitschte Küste. Nachmittags besuchen Sie die Buchten im Norden, wo der Regen das Meer in tiefes Grau taucht. Der Abend endet entspannt bei gutem Essen im Hafen.",
+            "hu": "Autóval ma különösen kényelmesen fedezheti fel Cala Ratjada környékét. Reggel induljon a Caló des Beato-hoz, miközben az ablaktörlők adják az ütemet. Délben a világítótoronyhoz vezető út során csodálja meg a viharos tenger hullámait. Délután látogasson el az északi öblökbe, ahol az eső mélyszürkére festi a vizet. Az este a kikötőben zárul egy ízletes vacsorával.",
+            "ro": "Cu mașina, explorarea orașului Cala Ratjada este extrem de confortabilă astăzi. Începeți dimineața la Caló des Beato, în sunetul ritmic al ștergătoarelor. La prânz, drumul spre far oferă panorame spectaculoase asupra coastei bătute de valuri. După-amiaza, vizitați golful din nord, unde ploaia transformă marea într-un gri profund. Seara se încheie relaxat în port.",
+            "en": "By car, exploring Cala Ratjada is especially comfortable today. Start your morning at Caló des Beato while the wipers keep the rhythm. At noon, the drive to the lighthouse offers spectacular views of the spray-swept coastline. In the afternoon, visit the northern bays where the rain paints the sea in deep grey. The evening ends in the harbor with a relaxing dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caló des Beato",
+                "hu": "Caló des Beato",
+                "ro": "Caló des Beato",
+                "en": "Caló des Beato"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser und genießen Sie die Aussicht aus dem trockenen Auto; die raue See bietet bei Regen ein faszinierendes Naturschauspiel.",
+                "hu": "Parkoljon közel a vízhez és élvezze a kilátást a száraz autóból; a viharos tenger esőben lenyűgöző természeti látványt nyújt a sziklás parton.",
+                "ro": "Parcați aproape de apă și bucurați-vă de vedere din mașina uscată; marea agitată oferă un spectacol natural fascinant pe coasta stâncoasă în timpul ploii.",
+                "en": "Park close to the water and enjoy the view from the dry car; the rough sea offers a fascinating natural spectacle on the rocky coast during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Son Moll",
+                "hu": "Son Moll",
+                "ro": "Son Moll",
+                "en": "Son Moll"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt an der Promenade für einen kurzen Blick aufs Meer; ein großer Regenschirm ist für den Weg zum nächsten Café unverzichtbar.",
+                "hu": "Használja a közvetlenül a sétány melletti parkolókat a gyors tengerparti nézelődéshez; egy nagy esernyő nélkülözhetetlen a közeli kávézók eléréséhez.",
+                "ro": "Folosiți parcările direct de lângă faleză pentru o privire rapidă spre mare; o umbrelă mare este indispensabilă pentru a ajunge la cafenelele din apropiere.",
+                "en": "Use the parking spaces directly next to the promenade for a quick look at the sea; a large umbrella is essential for getting to the nearby cafes dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Torre Cega",
+                "hu": "Sa Torre Cega",
+                "ro": "Sa Torre Cega",
+                "en": "Sa Torre Cega"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in der Villa, um dem Regen für eine Weile zu entkommen; das Gebäude bietet exzellenten Schutz und kulturellen Genuss.",
+                "hu": "Látogasson el a villa kiállításaira, hogy egy időre elmeneküljön az eső elől; az épület kiváló védelmet és kulturális élményt nyújt a látogatóknak.",
+                "ro": "Vizitați expozițiile din vilă pentru a scăpa de ploaie pentru o vreme; clădirea oferă o protecție excelentă și o experiență culturală deosebită.",
+                "en": "Visit the exhibitions in the villa to escape the rain for a while; the building offers excellent shelter and a great cultural experience for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Capdepera",
+                "hu": "Far de Capdepera",
+                "ro": "Far de Capdepera",
+                "en": "Far de Capdepera"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Leuchtturm ist bei Regen dramatisch und sicher im Fahrzeug; halten Sie an den Aussichtspunkten kurz an, ohne nass zu werden.",
+                "hu": "A világítótoronyhoz vezető út esőben is biztonságos és látványos az autóból; álljon meg a kilátópontoknál, hogy elázás nélkül fotózhassa a hullámokat.",
+                "ro": "Drumul spre far este sigur și spectacolos din mașină chiar și pe ploaie; opriți la punctele de belvedere pentru a fotografia valurile fără a vă uda.",
+                "en": "The drive to the lighthouse is safe and spectacular from the car even in the rain; stop at the viewpoints to photograph the waves without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "cala Agulla",
+                "hu": "cala Agulla",
+                "ro": "cala Agulla",
+                "en": "cala Agulla"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist im Winter oft leer und gut befahrbar; spazieren Sie kurz unter den schützenden Pinien, bevor der nächste Schauer einsetzt.",
+                "hu": "A nagy parkoló télen gyakran üres és jól járható az autókkal; tegyen egy rövid sétát a védelmet nyújtó fenyők alatt, mielőtt a következő zápor megérkezik.",
+                "ro": "Parcarea mare este adesea goală și ușor accesibilă iarna; faceți o scurtă plimbare sub pinii protectori înainte de a începe următoarea aversă de ploaie.",
+                "en": "The large car park is often empty and easy to navigate in winter; take a short walk under the protective pines before the next rain shower sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Moltó",
+                "hu": "Cala Moltó",
+                "ro": "Cala Moltó",
+                "en": "Cala Moltó"
+              },
+              "tip_5lang": {
+                "de": "Diese Bucht wirkt bei grauem Himmel besonders wild; beobachten Sie die Brandung sicher aus der Ferne von der erhöhten Straße aus.",
+                "hu": "Ez a természetes öböl a szürke égbolt alatt különösen vadnak és ősinek tűnik; figyelje a hullámverést biztonságos távolságból, az út menti parkolóból.",
+                "ro": "Acest golf natural pare deosebit de sălbatic sub cerul gri; observați valurile de la o distanță sigură, din parcarea de pe marginea drumului principal.",
+                "en": "This natural bay looks particularly wild and ancient under grey skies; watch the surf from a safe distance from the parking spot along the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala na Llòbriga",
+                "hu": "Cala na Llòbriga",
+                "ro": "Cala na Llòbriga",
+                "en": "Cala na Llòbriga"
+              },
+              "tip_5lang": {
+                "de": "Ein verstecktes Juwel, das auch bei Regen seinen rauen Charme behält; bleiben Sie im Wagen und lassen Sie die melancholische Stimmung auf sich wirken.",
+                "hu": "Rejtett gyöngyszem, amely esőben is megőrzi nyers báját; maradjon az autóban és hagyja, hogy a partvidék melankolikus hangulata magával ragadja Önt.",
+                "ro": "O bijuterie ascunsă care își păstrează farmecul brut chiar și pe ploaie; rămâneți în mașină și lăsați atmosfera melancolică a coastei să vă captiveze.",
+                "en": "A hidden gem that retains its raw charm even in the rain; stay in the car and let the melancholic atmosphere of the coastline captivate your senses."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour verbindet Freiheit mit Wärme. Morgens genießen Sie die Einsamkeit an der Caló des Beato. Mittags führt die Route durch das malerische Hinterland zur Sa Torre Cega. Da es bereits gegen 17 Uhr dunkel wird, bietet sich der Leuchtturm perfekt für den Sonnenuntergang an. Den Abend verbringen Sie im beleuchteten Hafenviertel, wo die Restaurants zur Einkehr einladen.",
+            "hu": "A téli autós túra a szabadság és a melegség tökéletes keveréke. Reggel élvezze a Caló des Beato magányát és csendjét. Délben az út a festői hátországon át vezet a Sa Torre Cega felé. Mivel 17 óra körül sötétedik, a világítótorony tökéletes helyszín a naplemente megtekintéséhez. Az estét a kivilágított kikötői negyedben töltse, ahol a helyi éttermek várják Önt.",
+            "ro": "Un tur cu mașina iarna îmbină libertatea cu confortul termic. Dimineața, bucurați-vă de singurătatea de la Caló des Beato. La prânz, traseul trece prin peisaje pitorești spre Sa Torre Cega. Deoarece se întunecă în jur de ora 17:00, farul este locul perfect pentru apus. Seara, relaxați-vă în zona portului iluminat, unde restaurantele locale vă invită la o masă caldă.",
+            "en": "A winter car tour combines freedom with warmth. In the morning, enjoy the solitude and peace of Caló des Beato. At noon, the route takes you through the picturesque countryside to Sa Torre Cega. Since it gets dark around 5 PM, the lighthouse is the perfect spot for sunset. Spend your evening in the illuminated harbor area, where local restaurants invite you in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caló des Beato",
+                "hu": "Caló des Beato",
+                "ro": "Caló des Beato",
+                "en": "Caló des Beato"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Wintersonne im geschützten Auto zu genießen; die Ruhe der Nebensaison macht diesen Platz zu einer echten Oase.",
+                "hu": "Tökéletes hely a téli napsütés élvezésére a védett autóban; a holtszezon nyugalma ezt a helyet igazi oázissá varázsolja a csendre vágyók számára.",
+                "ro": "Locul perfect pentru a vă bucura de soarele de iarnă în mașina protejată; liniștea extrasezonului transformă acest loc într-o adevărată oază de calm.",
+                "en": "A perfect spot to enjoy the winter sun from the sheltered car; the peace of the off-season turns this place into a real oasis for those seeking quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Son Moll",
+                "hu": "Son Moll",
+                "ro": "Son Moll",
+                "en": "Son Moll"
+              },
+              "tip_5lang": {
+                "de": "Parken ist im Winter stressfrei und oft direkt am Strand möglich; nutzen Sie die warme Heizung im Auto nach einem kurzen Strandspaziergang.",
+                "hu": "A parkolás télen stresszmentes, gyakran közvetlenül a strandnál is lehetséges; használja az autó fűtését a melegedéshez egy rövid parti séta után.",
+                "ro": "Parcarea iarna este lipsită de stres, fiind adesea posibilă direct lângă plajă; folosiți încălzirea mașinii pentru a vă încălzi după o scurtă plimbare.",
+                "en": "Parking in winter is stress-free and often possible directly at the beach; use the car heater to warm up after a short walk along the winter shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Torre Cega",
+                "hu": "Sa Torre Cega",
+                "ro": "Sa Torre Cega",
+                "en": "Sa Torre Cega"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur der Villa kommt im tiefstehenden Winterlicht toll zur Geltung; eine Thermoskanne mit heißem Tee macht die Pause im Garten perfekt.",
+                "hu": "A villa építészete a téli, alacsony napállásnál érvényesül a legjobban; egy termosz forró teával a pihenő a kertben még kellemesebbé és emlékezetessé válik.",
+                "ro": "Arhitectura vilei este pusă în evidență de lumina joasă a soarelui de iarnă; un termos cu ceai fierbinte va face pauza în grădină mult mai plăcută.",
+                "en": "The villa's architecture is highlighted by the low winter sun; a thermos of hot tea will make your break in the garden even more pleasant and memorable."
+              }
+            },
+            {
+              "name": {
+                "de": "Far de Capdepera",
+                "hu": "Far de Capdepera",
+                "ro": "Far de Capdepera",
+                "en": "Far de Capdepera"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für den Sonnenuntergang, der hier schon gegen 17 Uhr beginnt; nehmen Sie eine warme Decke mit, falls Sie aussteigen möchten.",
+                "hu": "A legjobb hely a naplemente megtekintéséhez, amely itt már 17 óra körül elkezdődik; vigyen magával egy meleg takarót, ha ki szeretne szállni az autóból.",
+                "ro": "Cel mai bun loc pentru apusul soarelui, care începe aici în jurul orei 17:00; luați o pătură caldă cu voi dacă doriți să coborâți din mașină.",
+                "en": "The best spot for the sunset, which starts here around 5 PM; take a warm blanket with you if you want to step out of the car to enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "cala Agulla",
+                "hu": "cala Agulla",
+                "ro": "cala Agulla",
+                "en": "cala Agulla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Dünenlandschaft ohne die Touristenströme; im Auto bleiben Sie flexibel, wenn die Temperaturen am späten Nachmittag sinken.",
+                "hu": "Élvezze a tágas dűnéket a nyári turisták tömege nélkül; az autóban rugalmas maradhat, amikor a hőmérséklet késő délután hirtelen süllyedni kezd.",
+                "ro": "Bucurați-vă de peisajul vast al dunelor fără mulțimile de turiști; în mașină rămâneți flexibil când temperaturile scad brusc după-amiaza târziu.",
+                "en": "Enjoy the vast dune landscape without the summer tourist crowds; staying in the car keeps you flexible when temperatures drop quickly in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Moltó",
+                "hu": "Cala Moltó",
+                "ro": "Cala Moltó",
+                "en": "Cala Moltó"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Küste leuchtet im klaren Winterlicht intensiv; parken Sie so, dass Sie das Lichtspiel auf den Wellen optimal vom Fenster aus beobachten können.",
+                "hu": "A sziklás part a tiszta téli fényben intenzív színekben ragyog; parkoljon úgy, hogy az autó ablakából optimálisan figyelhesse a fények játékát a vízen.",
+                "ro": "Coasta stâncoasă strălucește în culori intense în lumina clară de iarnă; parcați astfel încât să puteți observa optim jocul luminii pe valuri.",
+                "en": "The rocky coast shines in intense colors in the clear winter light; park so that you can optimally observe the play of light on the waves from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala na Llòbriga",
+                "hu": "Cala na Llòbriga",
+                "ro": "Cala na Llòbriga",
+                "en": "Cala na Llòbriga"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die unberührte Seite Mallorcas im Winter; planen Sie Ihre Rückfahrt vor 17:30 Uhr, bevor es ganz dunkel auf der Küstenstraße wird.",
+                "hu": "Fedezze fel Mallorca érintetlen oldalát a békés téli időszakban; tervezze meg a visszautat 17:30 előtt, mielőtt teljesen besötétedik a part menti úton.",
+                "ro": "Descoperiți latura neatinsă a insulei Mallorca în timpul iernii liniștite; planificați întoarcerea înainte de ora 17:30, înainte de a se întuneca de tot.",
+                "en": "Discover the untouched side of Mallorca during the peaceful winter time; plan your return before 5:30 PM, before it gets completely dark on the road."
+              }
+            }
+          ]
+        }
       }
     }
   }

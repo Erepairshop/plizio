@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt azzal, hogy magába szívja Skrapar gazdag kulturális történelmét a helyi múzeumban.\n\nDélben tegyen egy kényelmes sétát a folyóhoz, és pihenjen a festői Varishtit strandon.\n\nDélután csodálja meg a kanyon meredek falait, és keljen át a vízparti történelmi hidakon.\n\nFejezze be a napot a lapos folyami köveken pihenve, miközben a nap lenyugszik a gyönyörű Osumi folyó völgye felett.",
         "ro": "Începeți-vă dimineața absorbind istoria culturală bogată a Skrapar-ului la muzeul local.\n\nLa amiază, faceți o plimbare liniștită până la râu, relaxându-vă la pitoreasca Plazhi i Varishtit.\n\nDupă-amiaza, minunați-vă de pereții abrupți ai canionului și traversați podurile istorice de-a lungul apei.\n\nTerminați-vă ziua relaxându-vă pe pietrele plate ale râului, în timp ce soarele apune peste frumoasa vale a râului Osumi.",
         "en": "Start your morning absorbing the rich cultural history of Skrapar at the local museum.\n\nBy midday, take a leisurely stroll down to the river, relaxing at the scenic Plazhi i Varishtit.\n\nIn the afternoon, marvel at the steep canyon walls and cross the historic bridges along the waterside.\n\nFinish your day unwinding on the flat river stones as the sun sets over the beautiful Osumi river valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt geschützt im Museum, während der Regen gegen die Fenster prasselt. Mittags bietet der Blick auf den Osum-Fluss trotz grauer Wolken eine dramatische Kulisse. Nachmittags führen die Wege am Canyon-Rand entlang, wo Nebelschleier die Tiefe betonen. Den Abend lassen wir in der Stadtmitte ausklingen, wo kleine Cafés trockene Zuflucht und warme albanische Gastfreundschaft bieten.",
+            "hu": "A napot a múzeum védelmében kezdjük, miközben az eső veri az ablakokat. Délben az Osum-folyó látványa a szürke felhők alatt is drámai marad. Délután a kanyon peremén haladunk, ahol a ködfoltok kiemelik a mélységet. Az estét a városközpontban zárjuk, ahol a kis kávézók száraz menedéket és meleg albán vendégszeretetet kínálnak a túra végén.",
+            "ro": "Ziua începe la adăpost în muzeu, în timp ce ploaia bate în ferestre. La prânz, vederea asupra râului Osum rămâne dramatică chiar și sub norii gri. După-amiaza, potecile de pe marginea canionului dezvăluie abisul prin perdele de ceață. Încheiem seara în centrul orașului, unde cafenelele mici oferă refugiu uscat și ospitalitate albaneză caldă după plimbare.",
+            "en": "The day begins sheltered in the museum while rain drums against the windows. At noon, the view of the Osum River remains dramatic even under grey clouds. In the afternoon, paths along the canyon edge highlight the depth through patches of mist. We end the evening in the city center, where small cafes offer dry refuge and warm Albanian hospitality."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Historisches Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als trockenen Unterschlupf am Vormittag; die Ausstellungen zur Region Skrapar sind perfekt, um den stärksten Regen abzuwarten.",
+                "hu": "Használja a múzeumot száraz menedékként délelőtt; a Skrapar régió kiállításai tökéletesek arra, hogy kivárjuk a hevesebb esőzés végét.",
+                "ro": "Folosiți muzeul ca refugiu uscat în cursul dimineții; expozițiile despre regiunea Skrapar sunt perfecte pentru a aștepta oprirea ploii torențiale.",
+                "en": "Use the museum as a dry shelter in the morning; the exhibits on the Skrapar region are perfect for waiting out the heaviest rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Varishtit",
+                "hu": "Varishtit strand",
+                "ro": "Plaja Varishtit",
+                "en": "Varishtit Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Flusspegel steigt bei Regen schnell an; genießen Sie die Aussicht von den befestigten Wegen oben, um dem schlammigen Uferbereich fernzubleiben.",
+                "hu": "A folyó szintje esőben gyorsan megemelkedik; élvezze a kilátást a fenti kövezett utakról, hogy elkerülje a sáros partszakaszt.",
+                "ro": "Nivelul râului crește rapid în timpul ploii; bucurați-vă de priveliște de pe potecile pavate de sus pentru a evita zona mlăștinoasă de mal.",
+                "en": "The river level rises quickly during rain; enjoy the view from the paved paths above to stay away from the muddy shore area."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Die Balkone",
+                "hu": "Balkonok strand",
+                "ro": "Plaja Balcoanele",
+                "en": "The Balconies Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Felskanten sind bei Nässe extrem rutschig; halten Sie sich an die inneren Pfade und tragen Sie Schuhe mit sehr gutem Profil für sicheren Halt.",
+                "hu": "A sziklaszélek nedvesen rendkívül csúszósak; maradjon a belső ösvényeken, és viseljen jó tapadású cipőt a biztonságos közlekedéshez.",
+                "ro": "Marginile stâncoase sunt extrem de alunecoase când sunt ude; rămâneți pe potecile interioare și purtați încălțăminte cu aderență bună.",
+                "en": "The rocky edges are extremely slippery when wet; stick to the inner paths and wear shoes with good grip for secure movement."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Deutsche Brücke",
+                "hu": "Német híd strand",
+                "ro": "Plaja Podul German",
+                "en": "German Bridge Beach"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine glänzen im Regen, sind aber tückisch; überqueren Sie die Brücke vorsichtig und nutzen Sie einen Regenschirm als Gehhilfe.",
+                "hu": "A történelmi kövek csillognak az esőben, de csalókák; óvatosan keljen át a hídon, és használjon esernyőt támasztékként a csúszós felületen.",
+                "ro": "Pietrele istorice strălucesc în ploaie, dar sunt înșelătoare; traversați podul cu mare atenție, folosind umbrela pentru echilibru.",
+                "en": "The historical stones glisten in the rain but are treacherous; cross the bridge carefully and use an umbrella for balance on the slick surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Pllakat",
+                "hu": "Pllakat strand",
+                "ro": "Plaja Pllakat",
+                "en": "Pllakat Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Canyon wirkt bei grauem Himmel besonders gewaltig; achten Sie auf Windböen, die den Regen oft seitlich unter die Unterstände peitschen.",
+                "hu": "A kanyon különösen hatalmasnak tűnik szürke égbolt mellett; ügyeljen a széllökésekre, amelyek gyakran oldalról fújják az esőt a fedett részek alá.",
+                "ro": "Canionul pare deosebit de masiv sub cerul gri; atenție la rafalele de vânt care pot sufla ploaia lateral sub zonele adăpostite.",
+                "en": "The canyon looks especially massive under grey skies; watch out for wind gusts that often whip the rain sideways under the shelters."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit einer Zeitreise im beheizten Museum. Mittags reflektiert der kristallklare Fluss das kühle Sonnenlicht am Fuße des Canyons. Die Nachmittagsrunde entlang der Brücken erfordert warme Kleidung gegen den Wind. Da es bereits gegen 17:00 Uhr dunkel wird, kehren wir frühzeitig in den beleuchteten Stadtkern zurück, um den Tag gemütlich zu beenden.",
+            "hu": "A friss téli reggel időutazással kezdődik a fűtött múzeumban. Délben a kristálytiszta folyó tükrözi a hűvös napfényt a kanyon lábánál. A délutáni séta a hidak mentén réteges öltözetet igényel a hideg szél miatt. Mivel 17:00 körül már sötétedik, korán visszatérünk a kivilágított városközpontba, hogy kényelmesen zárjuk a napot.",
+            "ro": "O dimineață proaspătă de iarnă începe cu o călătorie în timp în muzeul încălzit. La prânz, râul cristalin reflectă lumina rece a soarelui la baza canionului. Plimbarea de după-amiază pe lângă poduri necesită haine groase împotriva vântului. Deoarece se întunecă în jur de ora 17:00, revenim devreme în centrul luminat al orașului.",
+            "en": "A crisp winter morning begins with a journey through time in the heated museum. At noon, the crystal-clear river reflects the cool sunlight at the base of the canyon. The afternoon walk along the bridges requires warm layers against the wind. Since it gets dark around 17:00, we return early to the lit city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Historisches Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren; das Museum ist der ideale Ort, um die Körpertemperatur zu regulieren, bevor Sie die Wanderung fortsetzen.",
+                "hu": "Élvezze a benti meleget; a múzeum ideális hely a testhőmérséklet stabilizálására, mielőtt folytatná a téli sétát a szabadban.",
+                "ro": "Bucurați-vă de căldura din interior; muzeul este locul ideal pentru a vă regla temperatura corpului înainte de a continua plimbarea.",
+                "en": "Enjoy the warmth inside; the museum is the ideal place to regulate your body temperature before continuing your winter walk outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Varishtit",
+                "hu": "Varishtit strand",
+                "ro": "Plaja Varishtit",
+                "en": "Varishtit Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am Flussgrund ist im Winter oft deutlich kühler; ein warmer Schal und eine Mütze sind unerlässlich, wenn Sie am Wasser verweilen.",
+                "hu": "A folyóparti levegő télen gyakran jóval hűvösebb; a meleg sál és sapka elengedhetetlen, ha hosszabb időt tölt a víz közelében.",
+                "ro": "Aerul de lângă râu este adesea mult mai rece iarna; eșarfa și căciula sunt esențiale dacă doriți să zăboviți lângă apă.",
+                "en": "The air at the riverbed is often much cooler in winter; a warm scarf and hat are essential if you linger near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Die Balkone",
+                "hu": "Balkonok strand",
+                "ro": "Plaja Balcoanele",
+                "en": "The Balconies Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht bietet die klarsten Fotomotive des Canyons; kommen Sie vor 15:30 Uhr hierher, um das beste Licht vor dem frühen Schattenwurf zu nutzen.",
+                "hu": "A téli fények nyújtják a legtisztább fotókat a kanyonról; jöjjön 15:30 előtt, hogy kihasználja a legjobb fényeket a korai árnyékok előtt.",
+                "ro": "Lumina de iarnă oferă cele mai clare fotografii ale canionului; veniți înainte de 15:30 pentru a profita de cea mai bună lumină.",
+                "en": "Winter light offers the clearest photo opportunities of the canyon; arrive before 15:30 to catch the best light before early shadows fall."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Deutsche Brücke",
+                "hu": "Német híd strand",
+                "ro": "Plaja Podul German",
+                "en": "German Bridge Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Steinen am frühen Morgen; die historische Brücke kann bei Frost glatt sein, treten Sie nur auf trockene Stellen.",
+                "hu": "Kora reggel ügyeljen a köveken lévő zúzmarára; a történelmi híd fagyban csúszós lehet, próbáljon csak a száraz részekre lépni.",
+                "ro": "Atenție la chiciura de pe pietre dimineața devreme; podul istoric poate fi alunecos în caz de îngheț, pășiți doar pe zonele uscate.",
+                "en": "Watch out for frost on the stones in the early morning; the historic bridge can be slippery in freezing weather, step only on dry spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Pllakat",
+                "hu": "Pllakat strand",
+                "ro": "Plaja Pllakat",
+                "en": "Pllakat Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch hier spätestens um 16:30 Uhr; die Temperaturen fallen rapide, sobald die Sonne hinter den Felswänden verschwindet.",
+                "hu": "Fejezze be itt a látogatást legkésőbb 16:30-kor; a hőmérséklet gyorsan zuhan, amint a nap eltűnik a sziklafalak mögött.",
+                "ro": "Încheiați vizita aici cel târziu la ora 16:30; temperaturile scad rapid imediat ce soarele dispare după pereții de stâncă.",
+                "en": "Finish your visit here by 16:30 at the latest; temperatures drop rapidly as soon as the sun disappears behind the canyon walls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpártúrát egy frissítő reggeli túrával fel a békés helyi víztározóhoz.\n\nA déli órák visszaviszik a városba egy kulturális elmélyülésre a múzeumban és egy folyóparti ebédszünetre.\n\nA délután folyamán rejtett folyami strandokat fedezhet fel, ahol lehűlhet és élvezheti a nyugodt vizet.\n\nKalandját a Skrapar vár ősi romjaihoz való feljutással fejezze be egy felejthetetlen naplementés panorámáért.",
         "ro": "Începeți-vă turul cu bicicleta cu o plimbare matinală revigorantă până la liniștitul rezervor local.\n\nAmiaza vă aduce înapoi în oraș pentru o imersiune culturală la muzeu și o pauză de prânz pe malul râului.\n\nDupă-amiaza implică explorarea plajelor ascunse ale râului, unde vă puteți răcori și vă puteți bucura de apele calme.\n\nÎncheiați-vă aventura urcând la ruinele antice ale Castelului Skrapar pentru o vedere de neuitat la apus.",
         "en": "Kick off your cycling tour with a refreshing morning ride up to the peaceful local reservoir.\n\nMidday brings you back to town for a cultural immersion at the museum and a riverside lunch break.\n\nThe afternoon involves exploring hidden river beaches where you can cool off and enjoy the calm waters.\n\nConclude your adventure by ascending to the ancient Skrapar Castle ruins for an unforgettable sunset view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour zum Stausee, wo die Hügel in tiefes Grün getaucht sind. Die Rückfahrt führt ins Museum für eine trockene Kulturpause. Mittags geht es am Fluss entlang, wo die Wege weich, aber befahrbar sind. Der Nachmittag zur Burg Skrapar fordert die Kondition bei nassem Untergrund, bevor wir die beleuchteten Straßen von Çorovodë erreichen.",
+            "hu": "Az eső ellenére elindulunk a víztározóhoz, ahol a dombok mélyzöld színben pompáznak. A visszaút a múzeumba vezet egy száraz kulturális szünetre. Délben a folyó mentén haladunk, ahol az utak puhák, de járhatóak. A délutáni túra a várhoz próbára teszi az erőnlétet a nedves talajon, mielőtt elérnénk Çorovodë fényeit.",
+            "ro": "În ciuda ploii, începem tura spre rezervor, unde dealurile sunt de un verde intens. Drumul de întoarcere duce la muzeu pentru o pauză culturală uscată. La prânz mergem de-a lungul râului, unde potecile sunt moi, dar practicabile. Urcarea la castel testează condiția fizică pe sol umed, înainte de a ajunge pe străzile luminate.",
+            "en": "Despite the rain, we start the bike tour to the reservoir where hills are bathed in deep green. The return trip leads to the museum for a dry cultural break. At noon, we cycle along the river where paths are soft but rideable. The afternoon ride to the castle tests endurance on wet ground before we reach the lit streets of Çorovodë."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Großes Gras-Reservoir",
+                "hu": "Nagy Fű-víztározó",
+                "ro": "Rezervorul Iarba Mare",
+                "en": "Big Grass Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Feldwege um den Stausee können schlammig sein; halten Sie eine gleichmäßige Trittfrequenz, um ein Wegrutschen der Reifen im Matsch zu vermeiden.",
+                "hu": "A víztározó körüli földutak sárosak lehetnek; tartson egyenletes tempót, hogy elkerülje a kerekek megcsúszását a sárban.",
+                "ro": "Drumurile de pământ din jurul rezervorului pot fi noroioase; mențineți o cadență constantă pentru a evita deraparea roților în noroi.",
+                "en": "The dirt paths around the reservoir can be muddy; maintain a steady cadence to avoid tires slipping in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher unter und nutzen Sie den Besuch, um die Regenkleidung zu lüften und sich in den Ausstellungsräumen aufzuwärmen.",
+                "hu": "Támassza le a biciklijét fedett helyen, és használja ki a látogatást az esőruházat szellőztetésére és a kiállítótermi bemelegedésre.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți vizita pentru a vă aerisi echipamentul de ploaie și a vă încălzi în sălile muzeului.",
+                "en": "Park your bike in a sheltered spot and use the visit to air out your rain gear and warm up in the exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Varishtit",
+                "hu": "Varishtit strand",
+                "ro": "Plaja Varishtit",
+                "en": "Varishtit Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf den nassen Kieswegen zum Fluss; die Bodenhaftung ist hier bei Regen deutlich reduziert.",
+                "hu": "Kerülje az éles fékezést a folyóhoz vezető nedves kavicsos utakon; a tapadás esőben jelentősen lecsökken ezeken a szakaszokon.",
+                "ro": "Evitați frânările bruște pe potecile cu pietriș umed spre râu; aderența este redusă semnificativ pe timp de ploaie.",
+                "en": "Avoid sharp braking on the wet gravel paths to the river; traction is significantly reduced here during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand der Furt",
+                "hu": "Gázló strand",
+                "ro": "Plaja Vadului",
+                "en": "Ford Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Furt kann bei Regen unpassierbar sein; bleiben Sie auf den Hauptwegen und nutzen Sie die Brücken, anstatt eine Durchquerung zu wagen.",
+                "hu": "A gázló esőben járhatatlanná válhat; maradjon a főutakon és használja a hidakat ahelyett, hogy megpróbálna átkelni a vízen.",
+                "ro": "Vadul poate deveni impracticabil în timpul ploii; rămâneți pe drumurile principale și folosiți podurile în loc să încercați traversarea.",
+                "en": "The ford can become impassable in the rain; stay on the main roads and use the bridges instead of attempting a crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Skrapar",
+                "hu": "Skrapar Vára",
+                "ro": "Castelul Skrapar",
+                "en": "Skrapar Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend, aber die Burg bietet tolle Nebel-Panoramen; prüfen Sie vor der Abfahrt unbedingt die Funktion Ihrer Bremsbeläge.",
+                "hu": "Az emelkedő fárasztó, de a vár ködös panorámája lenyűgöző; az indulás előtt feltétlenül ellenőrizze a fékbetétek állapotát a vizes lejtőhöz.",
+                "ro": "Urcarea este obositoare, dar castelul oferă panorame superbe prin ceață; verificați neapărat frânele înainte de coborârea pe ud.",
+                "en": "The climb is tough but the castle offers great misty panoramas; be sure to check your brake pads before the descent on wet ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt uns bergauf zum Stausee, wo die klare Luft die Fernsicht schärft. Zur Mittagszeit wärmen wir uns im Museum auf, bevor die Route am winterlich ruhigen Osum-Fluss fortgesetzt wird. Die Burg Skrapar bietet im Winterlicht spektakuläre Ausblicke auf die schneebedeckten Gipfel des Tomorr. Den Tag beenden wir zügig bei Einbruch der frühen Dämmerung in Çorovodë.",
+            "hu": "A fagyos kezdés a víztározóhoz vezet, ahol a tiszta levegő élesíti a távoli kilátást. Délben a múzeumban melegszünk fel, majd utunkat a téli nyugalmú Osum-folyó mellett folytatjuk. Skrapar vára téli fényben látványos kilátást nyújt a Tomorr havas csúcsaira. A napot gyorsan zárjuk a korai szürkület beálltával Çorovodëban.",
+            "ro": "Un început geros ne duce spre rezervor, unde aerul curat clarifică vizibilitatea la distanță. La prânz ne încălzim în muzeu, apoi continuăm pe lângă râul Osum, liniștit în straie de iarnă. Castelul Skrapar oferă vederi spectaculoase spre vârfurile înzăpezite ale Tomorr. Încheiem ziua rapid, odată cu lăsarea timpurie a serii.",
+            "en": "A frosty start leads us uphill to the reservoir where the clear air sharpens distant views. At noon we warm up in the museum before continuing along the wintry quiet Osum River. Skrapar Castle offers spectacular views of the snow-capped Tomorr peaks in winter light. We end the day quickly as the early dusk falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Großes Gras-Reservoir",
+                "hu": "Nagy Fű-víztározó",
+                "ro": "Rezervorul Iarba Mare",
+                "en": "Big Grass Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die freien Flächen am Stausee sind im Winter sehr zugig, was die gefühlte Temperatur stark sinken lässt.",
+                "hu": "Viseljen szélálló ruházatot; a víztározó körüli nyitott területek télen nagyon huzatosak, ami jelentősen csökkenti a hőérzetet.",
+                "ro": "Purtați haine rezistente la vânt; zonele deschise de lângă rezervor sunt foarte expuse iarna, scăzând mult temperatura resimțită.",
+                "en": "Wear windproof clothing; the open areas by the reservoir are very drafty in winter, significantly lowering the perceived temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein warmes Getränk; das Museum bietet den nötigen Kontrast zur Kälte draußen, um die Finger wieder beweglich zu machen.",
+                "hu": "Használja ki a szünetet egy meleg italra; a múzeum biztosítja a szükséges kontrasztot a kinti hideghez, hogy ujjai újra mozogni tudjanak.",
+                "ro": "Folosiți pauza pentru o băutură caldă; muzeul oferă contrastul necesar față de frigul de afară pentru a vă dezmorți degetele.",
+                "en": "Use the break for a warm drink; the museum provides the necessary contrast to the cold outside to get your fingers moving again."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Varishtit",
+                "hu": "Varishtit strand",
+                "ro": "Plaja Varishtit",
+                "en": "Varishtit Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist eiskalt; halten Sie Abstand zum Ufer, da gefrorene Gischt die Steine am Rand unsichtbar glatt machen kann.",
+                "hu": "A víz jéghideg; tartson távolságot a parttól, mert a fagyott permet láthatatlanul csúszóssá teheti a köveket a szegélynél.",
+                "ro": "Apa este înghețată; păstrați distanța față de mal, deoarece gheața formată din stropi poate face pietrele extrem de alunecoase.",
+                "en": "The water is ice cold; keep your distance from the shore as frozen spray can make the stones at the edge invisibly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand der Furt",
+                "hu": "Gázló strand",
+                "ro": "Plaja Vadului",
+                "en": "Ford Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, nasse Füße zu bekommen; bei Wintertemperaturen ist trockene Kleidung lebenswichtig für die restliche Fahrt zur Burg.",
+                "hu": "Mindenképpen kerülje el, hogy vizes legyen a lába; téli hőmérséklet mellett a száraz ruházat létfontosságú a várig tartó út hátralévő részén.",
+                "ro": "Evitați neapărat să vă udați la picioare; la temperaturile de iarnă, hainele uscate sunt vitale pentru restul drumului spre castel.",
+                "en": "Avoid getting wet feet at all costs; in winter temperatures, dry clothing is vital for the rest of the ride to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Skrapar",
+                "hu": "Skrapar Vára",
+                "ro": "Castelul Skrapar",
+                "en": "Skrapar Castle"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Abfahrt spätestens um 16:15 Uhr; das Licht schwindet im Tal schnell, und die Kälte nimmt bei der Abfahrt ohne Sonne extrem zu.",
+                "hu": "Legkésőbb 16:15-kor kezdje meg a leereszkedést; a fény gyorsan fogy a völgyben, és a hideg napfény nélkül drasztikusan fokozódik lefelé.",
+                "ro": "Începeți coborârea cel târziu la ora 16:15; lumina dispare repede în vale, iar frigul se intensifică extrem la coborâre fără soare.",
+                "en": "Start the descent by 16:15 at the latest; light fades fast in the valley and the cold intensifies extremely during a sunless descent."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a vezetési kalandot a városközponton kívül található, tornyosuló történelmi emlékmű felfedezésével.\n\nDélben váltson a nyugodt víztározó látványáról a helyi örökség mélyebb megismerésére a múzeumban.\n\nTöltse a délutánt azzal, hogy felnavigál a fenséges Skrapar várhoz, amely páratlan kilátást kínál a régióra.\n\nFejezze be a napot egy békés alkonyati autózással egy távoli természetes víztározóhoz, amelyet teljesen körülvesz a természet.",
         "ro": "Începeți-vă aventura la volan explorând monumentul istoric impunător chiar în afara centrului orașului.\n\nLa amiază, faceți tranziția de la priveliștile liniștite ale rezervorului la o scufundare profundă în moștenirea locală la muzeu.\n\nPetreceți-vă după-amiaza navigând până la maiestuosul Castel Skrapar, care oferă priveliști de neegalat ale regiunii.\n\nTerminați-vă ziua cu o plimbare liniștită la crepuscul către un rezervor natural îndepărtat, complet înconjurat de natură.",
         "en": "Begin your driving adventure by exploring the towering historical monument just outside the town center.\n\nBy midday, transition from the tranquil reservoir views to a deep dive into local heritage at the museum.\n\nSpend your afternoon navigating up to the majestic Skrapar Castle, offering unparalleled vistas of the region.\n\nFinish the day with a peaceful twilight drive to a distant natural reservoir, completely surrounded by nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt zum Lapidar bietet trockenen Komfort bei schlechtem Wetter. Weiter geht es zum Stausee, wo die tiefhängenden Wolken eine mystische Stimmung erzeugen. Mittags besuchen wir das Museum im Zentrum, bevor wir die kurvenreiche Straße zur Burg Skrapar erklimmen. Den Tag beschließt die Fahrt zum entlegenen Reservoir, dessen raue Natur im Regen besonders beeindruckend wirkt.",
+            "hu": "Az autóút a Lapidáriumhoz száraz kényelmet nyújt rossz időben. Folytatjuk utunkat a víztározóhoz, ahol az alacsonyan szálló felhők misztikus hangulatot árasztanak. Délben a központi múzeumba látogatunk, majd felkanyargunk a várhoz. A napot a távoli víztározónál zárjuk, amelynek nyers természete az esőben különösen lenyűgöző.",
+            "ro": "Drumul cu mașina spre Lapidar oferă confort uscat pe vreme rea. Continuăm spre rezervor, unde norii joși creează o atmosferă mistică. La prânz vizităm muzeul central, apoi urcăm pe drumul sinuos spre castel. Încheiem ziua la rezervorul îndepărtat, a cărui natură brută pare deosebit de impresionantă în ploaie.",
+            "en": "The drive to the Lapidar offers dry comfort in bad weather. We continue to the reservoir where low-hanging clouds create a mystical mood. At noon, we visit the central museum before climbing the winding road to the castle. The day concludes with a drive to the remote reservoir, whose raw nature looks particularly impressive in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lapidar",
+                "hu": "Lapidárium",
+                "ro": "Lapidar",
+                "en": "Lapidar"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ist gut befahrbar; genießen Sie den weiten Blick aus dem Fahrzeugfenster, falls der Regen für einen Spaziergang zu stark ist.",
+                "hu": "Az emlékmű jól megközelíthető autóval; élvezze a tágas kilátást a jármű ablakából, ha az eső túl erős egy gyalogos sétához.",
+                "ro": "Monumentul este ușor accesibil; bucurați-vă de priveliștea largă de la fereastra mașinii dacă ploaia este prea puternică pentru o plimbare.",
+                "en": "The monument is easily accessible; enjoy the wide view from the car window if the rain is too heavy for a walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Großes Gras-Reservoir",
+                "hu": "Nagy Fű-víztározó",
+                "ro": "Rezervorul Iarba Mare",
+                "en": "Big Grass Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Abschnitte können rutschig sein; schalten Sie in einen niedrigen Gang, um auf den nassen Steigungen mehr Traktion zu behalten.",
+                "hu": "A burkolatlan szakaszok csúszósak lehetnek; váltson alacsonyabb sebességfokozatba, hogy több tapadást biztosítson a nedves emelkedőkön.",
+                "ro": "Secțiunile neasfaltate pot fi alunecoase; folosiți o treaptă inferioară de viteză pentru a menține tracțiunea pe pantele umede.",
+                "en": "The unpaved sections can be slippery; switch to a lower gear to maintain more traction on the wet inclines."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt im Zentrum; dies ist der bequemste Stopp, um die lokale Kultur kennenzulernen, während es draußen in Strömen regnet.",
+                "hu": "Parkoljon közvetlenül a központban; ez a legkényelmesebb megálló a helyi kultúra megismeréséhez, miközben kint szakad az eső.",
+                "ro": "Parcați chiar în centru; este cea mai confortabilă oprire pentru a cunoaște cultura locală în timp ce afară plouă torențial.",
+                "en": "Park right in the center; this is the most convenient stop to learn about local culture while it's pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Skrapar",
+                "hu": "Skrapar Vára",
+                "ro": "Castelul Skrapar",
+                "en": "Skrapar Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in den engen Kurven; der Asphalt kann bei Regen glatt sein, und herabfallendes Geröll ist auf dieser Strecke möglich.",
+                "hu": "Vezessen óvatosan a szűk kanyarokban; az aszfalt esőben csúszós lehet, és ezen az útszakaszon kőfelverődés vagy omlás is előfordulhat.",
+                "ro": "Conduceți cu atenție în curbele strânse; asfaltul poate fi alunecos și sunt posibile căderi de pietre pe această porțiune de drum.",
+                "en": "Drive carefully in the tight curves; the asphalt can be slippery in the rain and falling debris is possible on this stretch of road."
+              }
+            },
+            {
+              "name": {
+                "de": "Abgelegener Stausee",
+                "hu": "Távoli Víztározó",
+                "ro": "Rezervorul Îndepărtat",
+                "en": "Remote Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vorab; die Straße zum entlegenen See ist bei Regen anspruchsvoll und erfordert volle Konzentration und gute Bodenhaftung.",
+                "hu": "Ellenőrizze előre a guminyomást; a távoli tóhoz vezető út esőben nagy kihívást jelent, teljes koncentrációt és jó tapadást igényel.",
+                "ro": "Verificați presiunea în anvelope; drumul spre lacul îndepărtat este solicitant pe ploaie și necesită concentrare maximă și aderență bună.",
+                "en": "Check your tire pressure beforehand; the road to the remote lake is challenging in the rain and requires full concentration and good grip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt mit der Fahrt zum Lapidar, wo der Tomorr-Berg im frischen Weiß leuchtet. Nach einem Besuch am Großen Gras-Reservoir wärmen wir uns im Museum auf. Die Fahrt zur Burg Skrapar bietet weite Sichtweiten über das schneebedeckte Umland. Den Abschluss bildet das entlegene Reservoir, wo die Stille des Winters in der rauen Bergwelt besonders spürbar ist.",
+            "hu": "Egy tiszta téli nap a Lapidáriumhoz vezető úttal kezdődik, ahol a Tomorr-hegy friss fehérben tündököl. A Nagy Fű-víztározó után a múzeumban melegszünk fel. A várhoz vezető út messzire nyúló kilátást kínál a havas vidékre. A záróhelyszín a távoli víztározó, ahol a tél csendje a vad hegyvidéken különösen érezhető.",
+            "ro": "O zi senină de iarnă începe cu drumul spre Lapidar, unde muntele Tomorr strălucește în alb proaspăt. După vizita la rezervor, ne încălzim în muzeu. Drumul spre castel oferă vizibilitate mare peste împrejurimile înzăpezite. Încheiem la rezervorul îndepărtat, unde liniștea iernii este palpabilă în lumea aspră a munților.",
+            "en": "A clear winter day begins with a drive to the Lapidar where Mount Tomorr shines in fresh white. After visiting the Big Grass Reservoir, we warm up in the museum. The drive to the castle offers long-distance views over the snowy countryside. We conclude at the remote reservoir where the winter silence is especially palpable in the rugged mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lapidar",
+                "hu": "Lapidárium",
+                "ro": "Lapidar",
+                "en": "Lapidar"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Kamera bereit; der Kontrast zwischen dem grauen Stein des Denkmals und den schneebedeckten Bergen im Hintergrund ist im Winter perfekt.",
+                "hu": "Készítse elő a fényképezőgépet; az emlékmű szürke köve és a háttérben lévő havas hegyek közötti kontraszt télen tökéletes látvány.",
+                "ro": "Pregătiți aparatul foto; contrastul dintre piatra gri a monumentului și munții înzăpeziți din fundal este perfect în timpul iernii.",
+                "en": "Keep your camera ready; the contrast between the monument's grey stone and the snow-capped mountains in the background is perfect in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Großes Gras-Reservoir",
+                "hu": "Nagy Fű-víztározó",
+                "ro": "Rezervorul Iarba Mare",
+                "en": "Big Grass Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Pfützen auf der Zufahrt; am frühen Vormittag kann Schattenfrost die Straße tückisch glatt machen.",
+                "hu": "Ügyeljen a jeges tócsákra a behajtónál; kora délelőtt az árnyékos helyeken a fagy csalókán csúszóssá teheti az utat.",
+                "ro": "Atenție la bălțile înghețate de pe drum; dimineața devreme, înghețul din zonele umbrite poate face șoseaua extrem de alunecoasă.",
+                "en": "Watch out for icy puddles on the access road; in the early morning, shadow frost can make the road treacherously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Winterkälte für eine Stunde zu vergessen; die Heizung sorgt für ein angenehmes Klima während des Rundgangs.",
+                "hu": "Ideális hely, hogy egy órára elfelejtse a téli hideget; a fűtés kellemes klímát biztosít a kiállítás megtekintése közben.",
+                "ro": "Un loc ideal pentru a uita de frigul iernii timp de o oră; încălzirea asigură o atmosferă plăcută în timpul vizitei.",
+                "en": "An ideal place to forget the winter cold for an hour; the heating ensures a pleasant climate during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Skrapar",
+                "hu": "Skrapar Vára",
+                "ro": "Castelul Skrapar",
+                "en": "Skrapar Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Panoramaaufnahmen; die Fernsicht reicht heute oft bis zu den am weitesten entfernten Gipfeln.",
+                "hu": "Használja ki a tiszta téli fényt a panorámafotókhoz; a látótávolság ilyenkor gyakran a legtávolabbi csúcsokig is elér.",
+                "ro": "Profitate de lumina clară de iarnă pentru fotografii panoramice; vizibilitatea ajunge adesea până la cele mai îndepărtate vârfuri.",
+                "en": "Take advantage of the clear winter light for panoramic shots; the visibility often extends to the furthest peaks today."
+              }
+            },
+            {
+              "name": {
+                "de": "Abgelegener Stausee",
+                "hu": "Távoli Víztározó",
+                "ro": "Rezervorul Îndepărtat",
+                "en": "Remote Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Tank gut gefüllt ist; in der entlegenen Bergregion sinken die Temperaturen ab 16:00 Uhr drastisch ab.",
+                "hu": "Győződjön meg róla, hogy elég üzemanyaga van; a távoli hegyvidéki régióban a hőmérséklet 16:00 után drasztikusan visszaesik.",
+                "ro": "Asigurați-vă că aveți suficient combustibil; în regiunea montană îndepărtată, temperaturile scad drastic după ora 16:00.",
+                "en": "Ensure your tank is well filled; in the remote mountain region, temperatures drop drastically starting from 16:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

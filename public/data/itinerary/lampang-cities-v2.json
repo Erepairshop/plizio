@@ -137,6 +137,168 @@
         "hu": "A reggel a Phum La Kon Múzeumban kezdődik, amely alapos bevezetést nyújt Lampang gyökereibe. Ezután tegyen egy rövid sétát a történelmi Óratoronyhoz, amely a város központi lüktető szíve.\n\nEbédre kóstolja meg a helyi észak-thai ételeket, mielőtt felfedezné a Lampang Művészeti Központot. Ez a nyugodt hely mély bepillantást enged a helyi hagyományos művészeti kifejezésekbe.\n\nFolytassa sétáját a MoungNgwazin épülethez, hogy megcsodálja egyedi mézeskalács stílusú építészetét, amely a virágzó tíkfakereskedelem korszakának csodálatos és látványos maradványa.\n\nA napot a Lampang Múzeumban zárja. Átfogó kiállításai gyönyörűen összekapcsolják mindazt, amit eddig látott, így adva tökéletes befejezést ennek a tartalmas kulturális gyalogtúrának.",
         "ro": "Dimineața începe la Muzeul Phum La Kon, oferind o introducere amănunțită în rădăcinile orașului Lampang. Apoi, faceți o scurtă plimbare până la Turnul cu Ceas, inima centrală a orașului.\n\nLa prânz, savurați preparate locale nord-thailandeze înainte de a explora Centrul de Arte. Acest loc liniștit oferă o privire profundă asupra expresiilor artistice locale tradiționale.\n\nContinuați-vă plimbarea spre Clădirea MoungNgwazin pentru a admira arhitectura sa unică în stil turtă dulce, o rămășiță minunată a epocii înfloritoare a comerțului cu lemn de tec.\n\nÎncheiați ziua la Muzeul Lampang. Expozițiile sale cuprinzătoare leagă frumos tot ceea ce ați văzut, oferind o concluzie satisfăcătoare a acestui tur cultural minunat de mers pe jos.",
         "en": "Morning begins at the local Phum La Kon Museum, offering a thorough introduction to Lampang's roots. Next, enjoy a short walk to the historic Clock Tower, the central beating heart of the city.\n\nFor lunch, savor local northern Thai dishes nearby before exploring the Lampang Arts Center. This tranquil spot presents a deep look into the local artistic expressions.\n\nContinue your stroll to the MoungNgwazin Building to admire its unique gingerbread-style architecture, a wonderful remnant of the thriving teak trade era in Lampang.\n\nEnd the day at the Lampang Museum. Its comprehensive exhibitions beautifully tie together everything you've seen, providing a satisfying conclusion to your cultural walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Phum La Kon Museum, einem idealen Rückzugsort vor den ersten Güssen. Mittags führt ein kurzer, regnerischer Spaziergang zum Uhrenturm und ins schützende Kunstzentrum. Am Nachmittag erkunden Sie das historische MoungNgwazin-Gebäude, bevor Sie den Tag im weitläufigen Lampang Museum ausklingen lassen. Abends bietet die Stadt trotz Regen eine ruhige, fast mystische Atmosphäre.",
+            "hu": "A reggel a Phum La Kon Múzeumban indul, ami tökéletes menedék az első záporok elől. Délben egy rövid, esernyős séta vár az Óratoronyhoz, majd a védelmet nyújtó Művészeti Központba. Délután a történelmi MoungNgwazin épületet fedezzük fel, mielőtt a napot a tágas Lampang Múzeumban zárnánk. Este a város az eső ellenére is nyugodt, szinte misztikus arcát mutatja a kivilágított utcákon.",
+            "ro": "Dimineața începe la Muzeul Phum La Kon, un refugiu ideal împotriva primelor ploi. La prânz, o scurtă plimbare cu umbrela vă duce la Turnul cu Ceas și apoi la Centrul de Arte. După-amiaza explorăm clădirea istorică MoungNgwazin, înainte de a încheia ziua în spațiosul Muzeu Lampang. Seara, orașul oferă o atmosferă liniștită și aproape mistică, în ciuda ploii care continuă să cadă.",
+            "en": "The morning starts at the Phum La Kon Museum, an ideal refuge from the first showers. At noon, a short, rainy walk leads to the Clock Tower and the sheltering Arts Center. In the afternoon, explore the historic MoungNgwazin Building before ending the day in the expansive Lampang Museum. In the evening, the city offers a calm, almost mystical atmosphere despite the persistent rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phum La Kon Museum",
+                "hu": "Phum La Kon Múzeum",
+                "ro": "Muzeul Phum La Kon",
+                "en": "Phum La Kon Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Stadtgeschichte in diesem charmanten Gebäude und nutzen Sie die Schirmständer im Eingangsbereich, um die Ausstellungen trocken zu genießen.",
+                "hu": "Fedezd fel a város történetét ebben a bájos épületben; használd a bejáratnál lévő esernyőtartókat, hogy szárazon élvezhesd a kiállításokat.",
+                "ro": "Descoperiți istoria orașului în această clădire fermecătoare; folosiți suporturile de umbrele de la intrare pentru a vă bucura de expoziții la uscat.",
+                "en": "Discover the city's history in this charming building and use the umbrella stands at the entrance to enjoy the exhibits while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am Wahrzeichen; suchen Sie bei plötzlichem Regen unter den umliegenden Vordächern der Geschäfte kurzzeitig Schutz.",
+                "hu": "Gyors fotómegálló a város jelképénél; hirtelen eső esetén keress ideiglenes menedéket a környező üzletek árkádjai és előtetői alatt.",
+                "ro": "O oprire rapidă pentru fotografii la simbolul orașului; în caz de ploaie bruscă, căutați adăpost temporar sub streșinile magazinelor din jur.",
+                "en": "A quick photo stop at the city's landmark; if it starts pouring, seek temporary shelter under the overhanging roofs of the nearby local shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Lampang Arts Center",
+                "hu": "Lampang Művészeti Központ",
+                "ro": "Centrul de Arte Lampang",
+                "en": "Lampang Arts Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Kunst in den überdachten Galerien und achten Sie auf die rutschigen Holzböden, wenn Sie mit nassen Schuhen eintreten.",
+                "hu": "Élvezd a helyi művészetet a fedett galériákban; ügyelj a csúszós fapadlóra, ha vizes cipővel lépsz be az épület területére.",
+                "ro": "Bucurați-vă de arta locală în galeriile acoperite și aveți grijă la podelele de lemn alunecoase dacă intrați cu încălțămintea udă.",
+                "en": "Enjoy local art in the covered galleries and be careful on the slippery wooden floors if you are entering with wet shoes after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "MoungNgwazin-Gebäude",
+                "hu": "MoungNgwazin Épület",
+                "ro": "Clădirea MoungNgwazin",
+                "en": "MoungNgwazin Building"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die filigrane Holzarchitektur von den geschützten Veranden aus, die einen perfekten Blick auf die regnerischen Gassen bieten.",
+                "hu": "Csodáld meg a filigrán faépítészetet a védett verandákról, ahonnan tökéletes kilátás nyílik az eső áztatta történelmi utcákra.",
+                "ro": "Admirați arhitectura filigranată din lemn de pe verandele protejate, care oferă o vedere perfectă asupra străzilor istorice udate de ploaie.",
+                "en": "Admire the intricate wooden architecture from the protected verandas, which offer a perfect view of the rain-soaked historic streets nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Lampang Museum",
+                "hu": "Lampang Múzeum",
+                "ro": "Muzeul Lampang",
+                "en": "Lampang Museum"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige Innere ist der ideale Ort, um das Ende des Tages im Trockenen zu verbringen, während draußen der Monsunregen prasselt.",
+                "hu": "A tágas belső tér ideális hely a nap végének szárazon történő eltöltéséhez, miközben kint a monszun eső kopog a tetőn.",
+                "ro": "Interiorul spațios este locul ideal pentru a petrece sfârșitul zilei la uscat, în timp ce afară ploaia musonică bate în acoperiș.",
+                "en": "The spacious interior is the ideal place to spend the end of the day staying dry while the monsoon rain drums on the roof outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen lädt zu einem erfrischenden Spaziergang zum Phum La Kon Museum ein. Mittags genießen Sie die milde Sonne am Uhrenturm und im Kunstzentrum, ohne die sonst übliche Hitze. Am Nachmittag tauchen Sie in die Geschichte des MoungNgwazin-Gebäudes ein. Da die Sonne gegen 17:00 Uhr untergeht, bietet das Lampang Museum einen warmen und hellen Abschluss des Tages.",
+            "hu": "A hűvös téli reggel frissítő sétára hív a Phum La Kon Múzeumhoz. Délben a lágy napsütést élvezhetjük az Óratoronynál és a Művészeti Központnál, a megszokott hőség nélkül. Délután a MoungNgwazin épület történetébe merülünk el. Mivel a nap 17:00 körül nyugszik, a Lampang Múzeum meleg és világos befejezést kínál a nap végére a korai sötétedés előtt.",
+            "ro": "Dimineața răcoroasă de iarnă vă invită la o plimbare revigorantă către Muzeul Phum La Kon. La prânz, vă bucurați de soarele blând la Turnul cu Ceas, fără căldura obișnuită. După-amiaza explorăm istoria clădirii MoungNgwazin. Deoarece soarele apune în jurul orei 17:00, Muzeul Lampang oferă un final cald și luminos pentru această zi.",
+            "en": "The cool winter morning invites a refreshing walk to the Phum La Kon Museum. At noon, enjoy the mild sun at the Clock Tower and Arts Center without the usual heat. In the afternoon, dive into the history of the MoungNgwazin Building. As the sun sets around 5 PM, the Lampang Museum provides a warm and bright conclusion to the day before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phum La Kon Museum",
+                "hu": "Phum La Kon Múzeum",
+                "ro": "Muzeul Phum La Kon",
+                "en": "Phum La Kon Museum"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Morgenstunden im Dezember sind perfekt, um die Ausstellungen ohne Klimaanlage zu genießen; bringen Sie eine leichte Strickjacke mit.",
+                "hu": "A hűvös decemberi reggelek tökéletesek a kiállítások élvezetéhez légkondicionálás nélkül is; hozz magaddal egy könnyű kardigánt a látogatáshoz.",
+                "ro": "Diminețile răcoroase de decembrie sunt perfecte pentru a savura expozițiile fără aer condiționat; aduceți un cardigan subțire pentru vizită.",
+                "en": "The cool December mornings are perfect for enjoying the exhibits even without air conditioning; bring a light cardigan for your early visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Fotos; nutzen Sie die angenehmen Temperaturen für einen ausgiebigen Rundgang um den Kreisel.",
+                "hu": "A tiszta téli fények fantasztikus fotókat eredményeznek; használd ki a kellemes hőmérsékletet egy alapos sétára a körforgalom körül.",
+                "ro": "Lumina clară de iarnă asigură fotografii fantastice; profitați de temperaturile plăcute pentru o plimbare lungă în jurul giratoriului.",
+                "en": "The clear winter light makes for fantastic photos; take advantage of the pleasant temperatures for an extended walk around the roundabout."
+              }
+            },
+            {
+              "name": {
+                "de": "Lampang Arts Center",
+                "hu": "Lampang Művészeti Központ",
+                "ro": "Centrul de Arte Lampang",
+                "en": "Lampang Arts Center"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft Open-Air-Workshops statt; genießen Sie die kreative Atmosphäre in der kühlen, trockenen Brise des Nachmittags.",
+                "hu": "Télen gyakran tartanak itt szabadtéri workshopokat; élvezd a kreatív légkört a délutáni hűvös, száraz szellőben a központ udvarán.",
+                "ro": "Iarna se organizează adesea ateliere în aer liber; bucurați-vă de atmosfera creativă în briza răcoroasă și uscată a după-amiezii.",
+                "en": "Outdoor workshops are often held here in winter; enjoy the creative atmosphere in the cool, dry afternoon breeze in the center's courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "MoungNgwazin-Gebäude",
+                "hu": "MoungNgwazin Épület",
+                "ro": "Clădirea MoungNgwazin",
+                "en": "MoungNgwazin Building"
+              },
+              "tip_5lang": {
+                "de": "Das warme Sonnenlicht am späten Nachmittag betont die Holzschnitzereien wunderschön; ideal für Architekturbegeisterte bei mildem Wetter.",
+                "hu": "A késő délutáni meleg napfény gyönyörűen kiemeli a fafaragásokat; ideális az építészet kedvelőinek a kellemes, enyhe téli időben.",
+                "ro": "Lumina caldă a soarelui de după-amiază scoate în evidență sculpturile în lemn; ideal pentru iubitorii de arhitectură pe vreme blândă.",
+                "en": "The warm late afternoon sunlight highlights the wood carvings beautifully; ideal for architecture enthusiasts in the pleasant winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Lampang Museum",
+                "hu": "Lampang Múzeum",
+                "ro": "Muzeul Lampang",
+                "en": "Lampang Museum"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, bietet das beleuchtete Museum einen sicheren und gemütlichen Abschluss; achten Sie auf den Temperaturabfall nach Sonnenuntergang.",
+                "hu": "Mivel korán sötétedik, a kivilágított múzeum biztonságos és hangulatos zárást kínál; ügyelj a naplemente utáni hirtelen lehűlésre.",
+                "ro": "Deoarece se întunecă devreme, muzeul iluminat oferă un final sigur și primitor; atenție la scăderea temperaturii după apusul soarelui.",
+                "en": "As it gets dark early, the illuminated museum offers a safe and cozy finish; be mindful of the sudden temperature drop after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros napot a Wat Si Rong Mueang-nál, és csodálja meg gyönyörű burmai dizájnját. Egy gyors tekerés az ikonikus Óratoronyhoz vezet, amely a történelmi központot jelöli.\n\nEgy frissítő pihenő után tekerjen a Wat Pong Sanuk felé. Ez a díjnyertes templom figyelemre méltó ősi építészetet és békés kertet kínál, ahol elmenekülhet a déli hőség elől.\n\nKerékpározzon tovább a MoungNgwazin épülethez. Ennek a lenyűgöző háznak a jellegzetes történelmi fa homlokzata büszke bizonyítéka a régió gazdag és rendkívül virágzó múltjának.\n\nVégső úti célja a Baan Sao Nak, a csodálatos 116 oszlopos tíkfa kúria. Klasszikus szobáinak felfedezése tökéletes és egyben nyugodt befejezést nyújt az aktív és tartalmas napnak.",
         "ro": "Începeți ziua de ciclism la Wat Si Rong Mueang pentru a admira designul său birmanez. O scurtă plimbare vă duce la emblematicul Turn cu Ceas, marcând centrul istoric.\n\nPedalați spre Wat Pong Sanuk după o pauză răcoritoare. Acest templu premiat oferă o arhitectură antică remarcabilă și o grădină pașnică pentru a scăpa de căldura amiezii.\n\nMergeți cu bicicleta până la Clădirea MoungNgwazin. Fațada sa istorică distinctivă din lemn stă ca un testament mândru al trecutului bogat și prosper al acestei regiuni thailandeze.\n\nDestinația finală este Baan Sao Nak, magnificul conac din lemn de tec cu 116 stâlpi. Explorarea camerelor sale clasice oferă un final perfect pentru o zi activă pe bicicletă.",
         "en": "Start your cycling day at Wat Si Rong Mueang to marvel at its beautiful Burmese design. A quick ride brings you to the iconic Clock Tower, marking the historic center.\n\nPedal towards Wat Pong Sanuk after a refreshing break. This award-winning temple offers remarkable ancient architecture and a peaceful garden to escape the midday heat.\n\nCycle down to the MoungNgwazin Building. Its distinctive historical wooden facade stands as a proud testament to the region's rich and prosperous past.\n\nYour final destination is Baan Sao Nak, the magnificent 116-pillar teak mansion. Exploring its classic rooms provides a perfect end to an active day on the bike."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Wat Si Rong Mueang erfordert Vorsicht auf den nassen Tempelböden. Mittags radeln Sie vorsichtig zum Uhrenturm und suchen Schutz beim Wat Pong Sanuk. Der Nachmittag führt zum MoungNgwazin-Gebäude, wobei Sie Pfützen meiden sollten. Den Abschluss bildet das Baan Sao Nak, wo Sie Ihr Fahrrad sicher unterstellen und im Trockenen die Geschichte genießen können.",
+            "hu": "Az esős kezdés a Wat Si Rong Mueangnál óvatosságot igényel a vizes templomi padlókon. Délben óvatosan tekerj az Óratoronyhoz, majd keress menedéket a Wat Pong Sanuknál. A délután a MoungNgwazin épülethez vezet, kerülve a nagyobb tócsákat. A napot a Baan Sao Nak zárja, ahol biztonságban leparkolhatod a biciklit és szárazon élvezheted a történelmet.",
+            "ro": "Un început ploios la Wat Si Rong Mueang necesită prudență pe podelele umede ale templului. La prânz, pedalați cu grijă spre Turnul cu Ceas și căutați adăpost la Wat Pong Sanuk. După-amiaza vă duce la clădirea MoungNgwazin, evitând bălțile mari. Finalul are loc la Baan Sao Nak, unde puteți parca bicicleta în siguranță și savura istoria la uscat.",
+            "en": "A rainy start at Wat Si Rong Mueang requires caution on the wet temple floors. At noon, cycle carefully to the Clock Tower and seek shelter at Wat Pong Sanuk. The afternoon leads to the MoungNgwazin Building, avoiding the larger puddles. The day concludes at Baan Sao Nak, where you can safely park your bike and enjoy history in the dry interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Si Rong Mueang",
+                "hu": "Wat Si Rong Mueang",
+                "ro": "Wat Si Rong Mueang",
+                "en": "Wat Si Rong Mueang"
+              },
+              "tip_5lang": {
+                "de": "Die Teakholz-Strukturen sind bei Regen besonders dunkel und eindrucksvoll; tragen Sie einen rutschfesten Regenponcho während der Fahrt.",
+                "hu": "A teakfa szerkezetek esőben különösen sötétek és hatásosak; viselj csúszásmentes esőpelerint a két megálló közötti biciklizés során.",
+                "ro": "Structurile din lemn de tec sunt deosebit de întunecate și impresionante pe ploaie; purtați o pelerină de ploaie în timpul deplasării.",
+                "en": "The teak structures are particularly dark and atmospheric in the rain; wear a non-slip rain poncho while cycling between the stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an für ein Foto, aber achten Sie auf den rutschigen Asphalt rund um den Kreisel bei nassen Fahrbedingungen.",
+                "hu": "Állj meg egy rövid fotóra, de ügyelj a csúszós aszfaltra a körforgalom körül, különösen vizes útviszonyok és erős forgalom esetén.",
+                "ro": "Opriți-vă scurt pentru o fotografie, dar aveți grijă la asfaltul alunecos din jurul giratoriului în condiții de drum umed și trafic.",
+                "en": "Stop briefly for a photo, but be very careful on the slippery asphalt around the roundabout during wet road conditions and traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Pong Sanuk",
+                "hu": "Wat Pong Sanuk",
+                "ro": "Wat Pong Sanuk",
+                "en": "Wat Pong Sanuk"
+              },
+              "tip_5lang": {
+                "de": "Dieser preisgekrönte Tempel bietet viele überdachte Bereiche; stellen Sie Ihr Rad unter einen Baum oder ein Vordach, um den Sattel trocken zu halten.",
+                "hu": "Ez a díjnyertes templom számos fedett résszel rendelkezik; állítsd a biciklit egy fa vagy előtető alá, hogy az ülés száraz maradjon.",
+                "ro": "Acest templu premiat are multe zone acoperite; lăsați bicicleta sub un copac sau o streșină pentru a păstra șaua uscată pe durata vizitei.",
+                "en": "This award-winning temple has many covered areas; park your bike under a tree or overhang to keep the seat dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "MoungNgwazin-Gebäude",
+                "hu": "MoungNgwazin Épület",
+                "ro": "Clădirea MoungNgwazin",
+                "en": "MoungNgwazin Building"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Zwischenstopp, um den Regen auf den Holzdächern zu beobachten; parken Sie das Rad sicher am Straßenrand außerhalb der Pfützen.",
+                "hu": "Szép megálló, ahol figyelheted az eső kopogását a fatetőkön; parkolj le biztonságosan az út szélén, elkerülve a mélyebb tócsákat.",
+                "ro": "O oprire frumoasă pentru a observa ploaia pe acoperișurile de lemn; parcați bicicleta în siguranță pe marginea drumului, evitând bălțile.",
+                "en": "A beautiful stop to watch the rain drum on the wooden roofs; park your bike safely at the roadside, avoiding the deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Sao Nak",
+                "hu": "Baan Sao Nak",
+                "ro": "Baan Sao Nak",
+                "en": "Baan Sao Nak"
+              },
+              "tip_5lang": {
+                "de": "Das 'Haus der vielen Säulen' bietet perfekten Schutz; erkunden Sie das Innere ausgiebig, während Sie auf das Nachlassen des Regens warten.",
+                "hu": "A 'sokoszlopos ház' tökéletes menedéket nyújt; fedezd fel alaposan a belső teret, amíg várod az eső elcsendesedését a nap végén.",
+                "ro": "„Casa cu multe coloane” oferă adăpostul perfect; explorați interiorul în detaliu în timp ce așteptați ca ploaia să se domolească.",
+                "en": "The 'house of many pillars' offers perfect shelter; explore the interior thoroughly while waiting for the rain to subside at day's end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Wintermorgen am Wat Si Rong Mueang ist ideal für Radfahrer. Mittags erreichen Sie den Uhrenturm und den friedlichen Wat Pong Sanuk bei angenehmen 25 Grad. Der Nachmittag am MoungNgwazin-Gebäude bietet bestes Licht für Fotos. Beenden Sie die Tour im Baan Sao Nak, bevor die kühle Abendbrise gegen 17:30 Uhr einsetzt und die Sonne zügig verschwindet.",
+            "hu": "A friss téli reggel a Wat Si Rong Mueangnál ideális a kerékpárosoknak. Délben az Óratoronytól a békés Wat Pong Sanukig tekersz a kellemes 25 fokban. A délután a MoungNgwazin épületnél kínálja a legjobb fényeket a fotózáshoz. Zárd a túrát a Baan Sao Naknál, mielőtt a hűvös esti szellő megérkezik 17:30 körül.",
+            "ro": "Dimineața proaspătă de iarnă la Wat Si Rong Mueang este ideală pentru bicicliști. La prânz, ajungeți la Turnul cu Ceas și la liniștitul Wat Pong Sanuk la 25 de grade. După-amiaza la clădirea MoungNgwazin oferă cea mai bună lumină pentru poze. Încheiați turul la Baan Sao Nak înainte de briza serii.",
+            "en": "The fresh winter morning at Wat Si Rong Mueang is ideal for cyclists. At noon, reach the Clock Tower and peaceful Wat Pong Sanuk in pleasant 25-degree weather. The afternoon at the MoungNgwazin Building offers the best light for photos. Finish the tour at Baan Sao Nak before the cool evening breeze arrives at 5:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Si Rong Mueang",
+                "hu": "Wat Si Rong Mueang",
+                "ro": "Wat Si Rong Mueang",
+                "en": "Wat Si Rong Mueang"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht die morgendliche Fahrt zum Tempel sehr angenehm; eine dünne Jacke schützt vor dem Fahrtwind im Schatten der Bäume.",
+                "hu": "A hűvös levegő nagyon kellemessé teszi a reggeli tekerést a templomhoz; egy vékony dzseki jól jöhet a menetszél ellen a fák árnyékában.",
+                "ro": "Aerul răcoros face plimbarea de dimineață spre templu foarte plăcută; o jachetă subțire prinde bine împotriva vântului la umbra copacilor.",
+                "en": "The cool air makes the morning ride to the temple very pleasant; a thin jacket is recommended against the wind in the shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne am Mittag ohne zu schwitzen; der Turm ist ein idealer Orientierungspunkt für Radfahrer in der flachen Wintersonne.",
+                "hu": "Élvezd a napsütést délben izzadás nélkül; a torony tökéletes tájékozódási pont a bicikliseknek a laposan érkező téli napsütésben.",
+                "ro": "Bucurați-vă de soare la prânz fără să transpirați; turnul este un punct de orientare ideal pentru bicicliști în lumina blândă de iarnă.",
+                "en": "Enjoy the midday sun without sweating; the tower is an ideal landmark for cyclists in the low winter sunlight during your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Pong Sanuk",
+                "hu": "Wat Pong Sanuk",
+                "ro": "Wat Pong Sanuk",
+                "en": "Wat Pong Sanuk"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Luft schont die antiken Holzstrukturen; parken Sie im Schatten und genießen Sie die kühle Brise auf dem kleinen Hügel des Tempels.",
+                "hu": "A száraz levegő kíméli az ősi faszerkezeteket; parkolj az árnyékban, és élvezd a hűvös szellőt a templom kis dombján a látogatás alatt.",
+                "ro": "Aerul uscat protejează structurile antice din lemn; parcați la umbră și bucurați-vă de briza răcoroasă pe micul deal al templului.",
+                "en": "The dry air helps preserve the ancient wooden structures; park in the shade and enjoy the cool breeze on the temple's small hill."
+              }
+            },
+            {
+              "name": {
+                "de": "MoungNgwazin-Gebäude",
+                "hu": "MoungNgwazin Épület",
+                "ro": "Clădirea MoungNgwazin",
+                "en": "MoungNgwazin Building"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht im Winter lässt die Details der Fassade besonders scharf hervortreten; perfekt für einen entspannten Radstopp am Nachmittag.",
+                "hu": "A téli tiszta látási viszonyok között a homlokzat részletei különösen élesen látszanak; tökéletes egy nyugodt délutáni biciklis pihenőhöz.",
+                "ro": "Vizibilitatea clară de iarnă face ca detaliile fațadei să iasă în evidență; perfect pentru o oprire relaxată cu bicicleta după-amiaza.",
+                "en": "The clear winter visibility makes the details of the facade stand out sharply; perfect for a relaxed afternoon cycling break here."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Sao Nak",
+                "hu": "Baan Sao Nak",
+                "ro": "Baan Sao Nak",
+                "en": "Baan Sao Nak"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Sonnenuntergang, da die Temperaturen im Winter nach 17 Uhr in Lampang spürbar und schnell sinken.",
+                "hu": "Fejezd be a túrát időben a naplemente előtt, mivel a hőmérséklet télen 17 óra után érezhetően és gyorsan csökkenni kezd Lampangban.",
+                "ro": "Încheiați turul la timp înainte de apus, deoarece temperaturile scad simțitor și rapid în Lampang după ora 17 în timpul iernii.",
+                "en": "Finish your tour well before sunset, as temperatures in Lampang drop noticeably and quickly after 5 PM during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje autós túráját a Thai Bank Múzeumban egy csendes, informatív reggelen. Ezután vezessen át a Wat Pong Sanuk templomhoz, hogy megcsodálja lenyűgöző, ősi Lanna dizájnját.\n\nEgy kényelmes ebédszünet után irány a Lanna Múzeum. A rövid autóút megkönnyíti, hogy teljesen elmerüljön a gazdag északi folklórban és a régió különleges, hagyományos építészetében.\n\nEgy rövid autózás elviszi a Baan Sao Nakhoz, ahol megcsodálhatja a lenyűgöző hagyományos tíkfa szerkezetet, amely hihetetlen, 116 tartóoszloppal rendelkezik a ház alatt.\n\nZárja a napot egy kellemes autózással a Dhanabadee Kerámia Múzeumba. A legendás csirkés tálak készítésének megfigyelése tökéletes fináléja a lampangi autós utazásnak.",
         "ro": "Începeți turul cu mașina la Muzeul Băncii Thailandeze pentru o dimineață liniștită. Apoi, conduceți către Wat Pong Sanuk pentru a admira designul său antic și impresionant Lanna.\n\nDupă o pauză de prânz confortabilă, mergeți la Muzeul Lanna. Scurtul drum vă ajută să vă scufundați rapid în folclorul bogat și arhitectura distinctă a nordului țării.\n\nO scurtă călătorie vă aduce la Baan Sao Nak, unde vă puteți minuna de impresionanta construcție tradițională din lemn de tec, cu nu mai puțin de 116 stâlpi de susținere incredibili.\n\nÎncheiați ziua cu un drum până la Muzeul de Ceramică Dhanabadee. Vizionarea creării legendarelor boluri cu pui este finalul perfect pentru călătoria dumneavoastră în Lampang.",
         "en": "Kick off your driving tour at the Thai Bank Museum for a quiet, insightful morning. Then, drive smoothly over to Wat Pong Sanuk to admire its impressive ancient Lanna design.\n\nAfter enjoying a comfortable lunch break, head to the Lanna Museum. The short drive makes it easy to immerse yourself in the rich folklore and distinct architecture of the North.\n\nA brief drive brings you to Baan Sao Nak, where you can marvel at the impressive traditional teakwood construction featuring an incredible 116 supporting pillars.\n\nConclude your day with a drive out to the Dhanabadee Ceramic Museum. Watching the legendary chicken bowls being crafted is the perfect finale to your Lampang road trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Tag im Auto beginnt beim Thai Bank Museum, geschützt vor dem Regen. Mittags führt die Fahrt zum Wat Pong Sanuk und weiter zum Lanna Museum, wobei Sie stets trocken bleiben. Der Nachmittag im Baan Sao Nak und Dhanabadee Ceramic Museum bietet faszinierende Einblicke in Innenräumen, während draußen der Regen fällt. Die Rückreise am Abend ist im trockenen PKW besonders komfortabel.",
+            "hu": "Egy pihentető autós nap kezdődik a Thai Bank Múzeumnál, védve az esőtől. Délben az út a Wat Pong Sanukhoz, majd a Lanna Múzeumhoz vezet, miközben végig szárazon maradsz. A délután a Baan Sao Nakban és a Dhanabadee Kerámia Múzeumban telik, lenyűgöző belső kiállításokkal az eső ellenére is. Az esti visszaút a száraz autóban különösen kényelmes.",
+            "ro": "O zi relaxantă cu mașina începe la Muzeul Băncii Thailandeze, protejat de ploaie. La prânz, drumul duce la Wat Pong Sanuk și apoi la Muzeul Lanna, rămânând mereu la uscat. După-amiaza la Baan Sao Nak și Muzeul Dhanabadee oferă incursiuni fascinante în interior, în timp ce afară plouă. Întoarcerea de seară în mașina uscată este foarte confortabilă.",
+            "en": "A relaxing car day begins at the Thai Bank Museum, sheltered from the rain. At noon, the drive leads to Wat Pong Sanuk and then the Lanna Museum, keeping you dry throughout. The afternoon spent at Baan Sao Nak and the Dhanabadee Ceramic Museum offers fascinating indoor insights while it rains outside. The evening return journey in a dry car is especially comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thai Bank Museum",
+                "hu": "Thai Bank Múzeum",
+                "ro": "Muzeul Băncii Thailandeze",
+                "en": "Thai Bank Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Gebäude, um den Weg durch den Regen kurz zu halten; das Museum bietet eine hervorragende Indoor-Alternative.",
+                "hu": "Használd a közvetlenül az épület melletti parkolót, hogy lerövidítsd az esőben megtett utat; a múzeum kiváló fedett programot kínál.",
+                "ro": "Folosiți parcarea de lângă clădire pentru a scurta drumul prin ploaie; muzeul oferă o alternativă excelentă de activitate în interior.",
+                "en": "Use the parking lot directly next to the building to minimize your walk in the rain; the museum offers an excellent indoor alternative."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Pong Sanuk",
+                "hu": "Wat Pong Sanuk",
+                "ro": "Wat Pong Sanuk",
+                "en": "Wat Pong Sanuk"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz unter den großen Bäumen; die Wege zwischen den Tempelgebäuden können bei Nässe etwas rutschig sein.",
+                "hu": "Keress parkolóhelyet a nagy fák alatt; a templomépületek közötti gyalogutak vizesen kissé csúszósak lehetnek, óvatosan közlekedj rajtuk.",
+                "ro": "Căutați un loc de parcare sub copacii mari; potecile dintre clădirile templului pot fi ușor alunecoase când sunt ude, mergeți cu grijă.",
+                "en": "Look for a parking spot under the large trees; the footpaths between the temple buildings can be a bit slippery when wet, so walk carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Lanna Museum",
+                "hu": "Lanna Múzeum",
+                "ro": "Muzeul Lanna",
+                "en": "Lanna Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Museum zu gelangen, wo Sie die reiche Kulturgeschichte geschützt vor dem Wetter erkunden können.",
+                "hu": "Parkolj közel a bejárathoz, hogy szárazon juss be a múzeumba, ahol az időjárástól védve fedezheted fel a gazdag kulturális örökséget.",
+                "ro": "Parcați aproape de intrare pentru a ajunge la uscat în muzeu, unde puteți explora istoria culturală bogată protejați de vremea rea.",
+                "en": "Park close to the entrance to reach the museum dry, where you can explore the rich cultural history well protected from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Sao Nak",
+                "hu": "Baan Sao Nak",
+                "ro": "Baan Sao Nak",
+                "en": "Baan Sao Nak"
+              },
+              "tip_5lang": {
+                "de": "Das massive Teakholz-Haus verströmt bei Regen einen wunderbaren Duft; nutzen Sie die Zeit für eine ausführliche Hausführung im Trockenen.",
+                "hu": "A masszív teakfa ház esőben csodálatos illatot áraszt; használd ki az időt egy alapos, fedett háznézésre a nap folyamán.",
+                "ro": "Casa masivă din lemn de tec emană un miros minunat pe ploaie; profitați de timp pentru un tur detaliat al casei la adăpost.",
+                "en": "The massive teak house exudes a wonderful scent in the rain; take advantage of the time for a thorough indoor house tour today."
+              }
+            },
+            {
+              "name": {
+                "de": "Dhanabadee Ceramic Museum",
+                "hu": "Dhanabadee Kerámia Múzeum",
+                "ro": "Muzeul de Ceramică Dhanabadee",
+                "en": "Dhanabadee Ceramic Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss eines Regentages; beobachten Sie die Keramikherstellung in den überdachten Hallen und kaufen Sie Souvenirs im Trockenen.",
+                "hu": "Ideális zárása egy esős napnak; figyeld meg a kerámiakészítést a fedett csarnokokban, és vásárolj ajándéktárgyakat száraz helyen.",
+                "ro": "Finalul ideal pentru o zi ploioasă; observați fabricarea ceramicii în halele acoperite și cumpărați suveniruri la adăpost de ploaie.",
+                "en": "The ideal end to a rainy day; watch ceramic production in the covered halls and browse for souvenirs while staying completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintertag beginnt im Thai Bank Museum bei angenehmen Temperaturen. Mittags führt die Tour zum Wat Pong Sanuk und dem Lanna Museum, wobei die Klimaanlage im Auto kaum nötig ist. Der Nachmittag im Baan Sao Nak und Dhanabadee Ceramic Museum profitiert vom klaren Winterlicht. Da es gegen 17:15 Uhr dunkel wird, bietet die Fahrt im warmen Auto einen gemütlichen Abschluss.",
+            "hu": "Egy napos téli nap kezdődik a Thai Bank Múzeumnál kellemes hőmérsékletben. Délben az út a Wat Pong Sanukhoz és a Lanna Múzeumhoz vezet, az autóban a klíma alig szükséges. A délután a Baan Sao Nakban és a Dhanabadee Kerámia Múzeumban a tiszta téli fényeket élvezi. Mivel 17:15 körül sötétedik, a meleg autóban való utazás kényelmes zárást kínál.",
+            "ro": "O zi însorită de iarnă începe la Muzeul Băncii Thailandeze. La prânz, turul continuă spre Wat Pong Sanuk și Muzeul Lanna, aerul condiționat fiind abia necesar. După-amiaza la Baan Sao Nak și Muzeul Dhanabadee profită de lumina clară de iarnă. Deoarece se întunecă în jur de 17:15, drumul în mașina caldă oferă un final confortabil.",
+            "en": "A sunny winter day starts at the Thai Bank Museum in pleasant temperatures. At noon, the tour leads to Wat Pong Sanuk and the Lanna Museum; air conditioning is barely needed. The afternoon at Baan Sao Nak and the Dhanabadee Ceramic Museum benefits from the clear winter light. As it gets dark around 5:15 PM, the warm car provides a cozy end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thai Bank Museum",
+                "hu": "Thai Bank Múzeum",
+                "ro": "Muzeul Băncii Thailandeze",
+                "en": "Thai Bank Museum"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die kühle Morgenbrise auf dem Gelände zu genießen; das Museum ist im Winter angenehm temperiert und hell.",
+                "hu": "Indulj korán, hogy élvezhesd a hűvös reggeli szellőt a területen; a múzeum télen kellemes hőmérsékletű és világos a látogatáshoz.",
+                "ro": "Porniți devreme pentru a vă bucura de briza răcoroasă de dimineață; muzeul are o temperatură plăcută și este luminos iarna.",
+                "en": "Start early to enjoy the cool morning breeze on the grounds; the museum is pleasantly temperate and bright during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Pong Sanuk",
+                "hu": "Wat Pong Sanuk",
+                "ro": "Wat Pong Sanuk",
+                "en": "Wat Pong Sanuk"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist im Winter mild; nutzen Sie die Parkplätze im Freien, da das Auto in der schwachen Sonne nicht zu heiß wird.",
+                "hu": "A déli napsütés télen enyhe; nyugodtan használd a szabadtéri parkolókat, mert az autó nem fog túlságosan felmelegedni a gyenge napon.",
+                "ro": "Soarele de la prânz este blând iarna; folosiți parcările în aer liber, deoarece mașina nu se va încinge prea tare sub soarele slab.",
+                "en": "The midday sun is mild in winter; feel free to use outdoor parking spots, as the car won't get too hot in the weak sunlight today."
+              }
+            },
+            {
+              "name": {
+                "de": "Lanna Museum",
+                "hu": "Lanna Múzeum",
+                "ro": "Muzeul Lanna",
+                "en": "Lanna Museum"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die traditionellen Lanna-Artefakte in bestem Glanz erstrahlen; ideal für Detailaufnahmen ohne Blitz.",
+                "hu": "A tiszta téli fényben a hagyományos Lanna műtárgyak a legjobb fényükben tündökölnek; ideális a vaku nélküli részletfotók készítéséhez.",
+                "ro": "În lumina clară de iarnă, artefactele tradiționale Lanna strălucesc în toată splendoarea; ideal pentru fotografii de detaliu fără blitz.",
+                "en": "In the clear winter light, the traditional Lanna artifacts shine in their best glory; ideal for detailed photos without using a flash."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Sao Nak",
+                "hu": "Baan Sao Nak",
+                "ro": "Baan Sao Nak",
+                "en": "Baan Sao Nak"
+              },
+              "tip_5lang": {
+                "de": "Die Holzhäuser speichern die Tageswärme gut; genießen Sie die historische Atmosphäre in der angenehmen Nachmittagssonne auf dem Gelände.",
+                "hu": "A faházak jól tartják a nappali meleget; élvezd a történelmi hangulatot a kellemes délutáni napsütésben a ház tágas udvarán.",
+                "ro": "Casele de lemn păstrează bine căldura zilei; bucurați-vă de atmosfera istorică sub soarele plăcut de după-amiază în curtea casei.",
+                "en": "The wooden houses hold the daytime heat well; enjoy the historic atmosphere in the pleasant afternoon sun on the house's spacious grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Dhanabadee Ceramic Museum",
+                "hu": "Dhanabadee Kerámia Múzeum",
+                "ro": "Muzeul de Ceramică Dhanabadee",
+                "en": "Dhanabadee Ceramic Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Hitze der Brennöfen ist im Winter besonders angenehm; beenden Sie den Besuch rechtzeitig, bevor es nach 17 Uhr schnell kühl wird.",
+                "hu": "Az égetőkemencék melege télen kifejezetten kellemes; fejezd be a látogatást időben, mielőtt 17 óra után gyorsan lehűl az idő.",
+                "ro": "Căldura cuptoarelor de ardere este foarte plăcută iarna; încheiați vizita la timp, înainte ca vremea să se răcească rapid după ora 17.",
+                "en": "The heat from the kilns is especially pleasant in winter; finish your visit on time before the air cools down quickly after 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel az Église Saint-Nicolas csendes nyugalmával indul, majd egy lenyűgöző építészeti séta következik a pompás Covet-kastélyban.\n\nDélben a Raimu Múzeumba látogatunk, ahol Franciaország gazdag filmtörténete tárul elénk.\n\nA délutánt a Chapelle Saint-Nicolas rusztikus bája és egy kellemes városi séta tölti ki.\n\nAz este a Le Bolmon mocsárhoz csábít, ahol a napot a természet lágy ölén és gyönyörű vízparti naplemente kíséretében zárhatja.",
         "ro": "Dimineața începe cu seninătatea liniștită a Bisericii Saint-Nicolas, urmată de un tur arhitectural fascinant al mărețului Castel Covet.\n\nLa prânz, vizitați Muzeul Raimu, unde se desfășoară bogata istorie cinematografică a Franței.\n\nDupă-amiaza este rezervată farmecului rustic al Capelei Saint-Nicolas și unei plimbări relaxante prin oraș.\n\nSeara vă atrage spre Mlaștina Le Bolmon, încheind ziua înconjurat de natură și apusuri spectaculoase.",
         "en": "Morning begins with the quiet serenity of Église Saint-Nicolas, followed by a fascinating architectural tour of the grand Covet Castle.\n\nMidday brings you to the Raimu Museum, where the rich cinematic history of France unfolds.\n\nAfternoon is reserved for the rustic charm of Chapelle Saint-Nicolas and a leisurely walk through town.\n\nEvening draws you to Le Bolmon Marsh, ending the day surrounded by nature and spectacular waterfront sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der Église Saint-Nicolas. Mittags erkunden Sie das überdachte Schloss Covet und das Raimu-Museum. Am Nachmittag trotzen Sie dem Nieselregen an der Chapelle Saint-Nicolas. Beenden Sie den Tag im Sumpfgebiet Le Bolmon, ziehen Sie aber unbedingt wasserfeste Schuhe für die schlammigen Wege an.",
+            "hu": "Kezdje az esős reggelt a Saint-Nicolas templom menedékében. Délben fedezze fel a fedett Covet-kastélyt és a Raimu Múzeumot. Délután dacoljon a szitáló esővel a Saint-Nicolas kápolnánál. A napot a Le Bolmon mocsárnál zárja, de a sáros ösvények miatt mindenképp vízálló cipőt viseljen a sétához.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în Biserica Saint-Nicolas. La prânz, explorați Castelul Covet și Muzeul Raimu aflate la interior. După-amiază, înfruntați burnița la Capela Saint-Nicolas. Încheiați ziua la Mlaștina Le Bolmon, dar purtați încălțăminte impermeabilă pentru potecile noroioase.",
+            "en": "Start your rainy morning taking shelter in the Église Saint-Nicolas. At noon, explore the indoor Covet Castle and Raimu Museum. In the afternoon, brave the drizzle at the Chapelle Saint-Nicolas. End your day at the Le Bolmon Marsh, making sure to wear waterproof boots for the muddy trails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen. Ein perfekter Ort, um dem morgendlichen Regen zu entfliehen.",
+                "hu": "Csodálja meg az építészetet szárazon. Tökéletes menedék a reggeli esőzések elől, mielőtt tovább indulna.",
+                "ro": "Admirați arhitectura la adăpost. Un loc perfect pentru a scăpa de ploaia matinală înainte de a continua.",
+                "en": "Admire the architecture while staying dry. A perfect shelter to escape the morning rain before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Covet",
+                "hu": "Covet-kastély",
+                "ro": "Castelul Covet",
+                "en": "Covet Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prunkvollen Innenräume dieses historischen Schlosses, während es draußen regnet.",
+                "hu": "Fedezze fel a történelmi kastély pompás belső tereit, miközben kint esik az eső a városban.",
+                "ro": "Explorați interioarele magnifice ale acestui castel istoric, în timp ce afară plouă neîncetat.",
+                "en": "Explore the magnificent interiors of this historic castle while the rain falls steadily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Raimu-Museum",
+                "hu": "Raimu Múzeum",
+                "ro": "Muzeul Raimu",
+                "en": "Raimu Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Kultur ein und wärmen Sie sich auf. Dieses Museum bietet idealen Schutz vor Nässe.",
+                "hu": "Merüljön el a kultúrában és melegedjen fel. Ez a múzeum ideális védelmet nyújt a nedves időjárás ellen.",
+                "ro": "Cufundați-vă în cultură și încălziți-vă. Acest muzeu oferă un refugiu ideal împotriva vremii umede.",
+                "en": "Immerse yourself in culture and warm up. This engaging museum provides an ideal refuge from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt am Wahrzeichen. Nehmen Sie einen stabilen Regenschirm mit, da es hier windig sein kann.",
+                "hu": "Rövid megálló a nevezetességnél. Hozzon magával erős esernyőt, mivel itt gyakran szeles lehet az idő.",
+                "ro": "O scurtă oprire la obiectivul turistic. Luați o umbrelă rezistentă, deoarece aici poate sufla vântul.",
+                "en": "A brief stop at this iconic landmark. Bring a sturdy umbrella as it can get quite windy in this area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet Le Bolmon",
+                "hu": "Le Bolmon mocsár",
+                "ro": "Mlaștina Le Bolmon",
+                "en": "Le Bolmon Marsh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Natur im Regen. Wasserfeste Schuhe sind für die schlammigen Pfade hier unerlässlich.",
+                "hu": "Élvezze a természetet esőben. A vízálló cipő elengedhetetlen a sáros ösvényeken való sétához.",
+                "ro": "Bucurați-vă de natură în ploaie. Încălțămintea impermeabilă este esențială pentru potecile noroioase de aici.",
+                "en": "Enjoy nature in the rain. Waterproof footwear is absolutely essential for navigating the muddy paths here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kühlen Wintermorgen in der Église Saint-Nicolas. Mittags besuchen Sie das prachtvolle Schloss Covet und das gemütliche Raimu-Museum. Nachmittags fangen Sie das goldene Licht an der Chapelle Saint-Nicolas ein. Beenden Sie die Tour vor dem frühen Sonnenuntergang gegen 17 Uhr mit einem flotten Spaziergang im frostigen Sumpfgebiet Le Bolmon.",
+            "hu": "Kezdje a csípős téli reggelt a Saint-Nicolas templomnál. A dél a pompás Covet-kastélyba és a hangulatos Raimu Múzeumba vezet. Délután csodálja meg a lemenő nap fényeit a Saint-Nicolas kápolnánál. A 17 óra körüli korai sötétedés előtt fejezze be a napot egy frissítő sétával a zúzmarás Le Bolmon mocsárnál.",
+            "ro": "Începeți dimineața geroasă de iarnă la Biserica Saint-Nicolas. La prânz, vizitați mărețul Castel Covet și primitorul Muzeu Raimu. După-amiaza, admirați lumina blândă la Capela Saint-Nicolas. Încheiați traseul înainte de apusul de la ora 17:00 cu o plimbare revigorantă prin Mlaștina Le Bolmon înghețată.",
+            "en": "Start your crisp winter morning at the Église Saint-Nicolas. Midday brings you to the grand Covet Castle and the cozy Raimu Museum. In the afternoon, catch the golden hour light at the Chapelle Saint-Nicolas. Finish before the early sunset around 5 PM with a brisk walk at the frosty Le Bolmon Marsh."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Besuch der Kirche erfrischend. Ziehen Sie sich warm an für die Erkundung.",
+                "hu": "A csípős reggeli levegő frissítővé teszi a templomlátogatást. Öltözzön melegen a felfedezéshez.",
+                "ro": "Aerul rece al dimineții face vizita la biserică revigorantă. Îmbrăcați-vă călduros pentru explorare.",
+                "en": "The crisp morning air makes visiting the church refreshing. Bundle up warmly for your exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Covet",
+                "hu": "Covet-kastély",
+                "ro": "Castelul Covet",
+                "en": "Covet Castle"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinwände des Schlosses können im Winter kühl sein. Behalten Sie Ihre Winterjacke an.",
+                "hu": "A kastély vaskos kőfalai télen hűvösek lehetnek. Érdemes magán tartania a vastag téli kabátját.",
+                "ro": "Zidurile groase de piatră ale castelului pot fi reci iarna. Este recomandat să purtați haina groasă.",
+                "en": "The massive stone walls of the castle can be chilly in winter. It's best to keep your winter coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "Raimu-Museum",
+                "hu": "Raimu Múzeum",
+                "ro": "Muzeul Raimu",
+                "en": "Raimu Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um sich an einem kalten Wintertag aufzuwärmen und gleichzeitig Kultur zu genießen.",
+                "hu": "Hangulatos hely, ahol felmelegedhet egy hideg téli napon, miközben élvezi a helyi kulturális értékeket.",
+                "ro": "Un loc confortabil pentru a vă încălzi într-o zi rece de iarnă, bucurându-vă în același timp de cultură.",
+                "en": "A cozy spot to warm up on a cold winter day while immersing yourself in local culture and history."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht für Fotos. Die Nachmittagssonne taucht die Kapelle in ein schönes Licht.",
+                "hu": "Használja ki a tiszta téli fényeket a fotózáshoz. A délutáni nap gyönyörű fénybe öltözteti a kápolnát.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii. Soarele după-amiezii scaldă capela într-o lumină frumoasă.",
+                "en": "Enjoy the crisp winter light for photography. The afternoon sun bathes the chapel in a beautiful glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet Le Bolmon",
+                "hu": "Le Bolmon mocsár",
+                "ro": "Mlaștina Le Bolmon",
+                "en": "Le Bolmon Marsh"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostige Schönheit des Sumpfes. Kehren Sie vor Einbruch der Dunkelheit gegen 17 Uhr zurück.",
+                "hu": "Csodálja meg a mocsár zúzmarás szépségét. Térjen vissza a korai, 17 óra körüli sötétedés előtt a városba.",
+                "ro": "Admirați frumusețea înghețată a mlaștinii. Întoarceți-vă înainte de lăsarea timpurie a întunericului în jur de ora 17:00.",
+                "en": "Experience the frosty beauty of the marsh. Make sure to return before the early darkness falls around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a reggelt kerékpározással a Chapelle Saint-Nicolas-hoz, és fedezze fel a Covet-kastély impozáns termeit.\n\nA dél tökéletes az Église Saint-Nicolas meglátogatására és a Raimu Múzeum kulturális örökségének megismerésére.\n\nA délutáni tekerés a Le Bolmon mocsár festői ösvényein visz végig a modern Église Saint-Laurent Imbert-ig.\n\nAz este a Notre-Dame de Pitié kápolnához vezető jutalmazó úttal zárul, ahonnan lélegzetelállító alkonyati panoráma nyílik.",
         "ro": "Începeți dimineața pedalând spre Capela Saint-Nicolas și explorând sălile impunătoare ale Castelului Covet.\n\nAmiaza este perfectă pentru a vizita Biserica Saint-Nicolas și Muzeul Raimu.\n\nPlimbarea de după-amiază vă poartă pe cărările pitorești ale Mlaștinii Le Bolmon înainte de a ajunge la moderna Biserică Saint-Laurent Imbert.\n\nSeara se încheie cu o urcare plină de satisfacții la Capela Notre-Dame de Pitié pentru o panoramă de neuitat la amurg.",
         "en": "Start the morning cycling to Chapelle Saint-Nicolas and exploring the stately halls of Covet Castle.\n\nMidday is perfect for visiting Église Saint-Nicolas and diving into cultural heritage at the Raimu Museum.\n\nAfternoon riding takes you along the scenic paths of Le Bolmon Marsh before reaching the modern Église Saint-Laurent Imbert.\n\nEvening concludes with a rewarding ride up to Notre-Dame de Pitié Chapel for breathtaking dusk panoramas over the lagoon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie auf nassen Morgengassen an der Chapelle Saint-Nicolas. Fahren Sie vorsichtig zum Schloss Covet. Mittags pausieren Sie im Trockenen der Église Saint-Nicolas und im Raimu-Museum. Nachmittags radeln Sie über die rutschigen Wege des Le Bolmon Sumpfes. Beenden Sie den regnerischen Abend an der Église Saint-Laurent Imbert und Notre-Dame de Pitié.",
+            "hu": "Kezdje a napot a nedves reggeli utcákon a Saint-Nicolas kápolnánál. Óvatosan tekerjen a fedett Covet-kastélyig. Délben pihenjen meg a Saint-Nicolas templomban és a Raimu Múzeumban az eső elől. Délután navigáljon a Le Bolmon mocsár csúszós ösvényein. Az estét a Saint-Laurent Imbert templomnál és a Notre-Dame de Pitié kápolnánál zárja.",
+            "ro": "Începeți pe străzile umede matinale la Capela Saint-Nicolas. Pedalați cu grijă spre Castelul Covet. La prânz, adăpostiți-vă în Biserica Saint-Nicolas și Muzeul Raimu. După-amiaza, parcurgeți potecile alunecoase ale Mlaștinii Le Bolmon. Încheiați seara ploioasă la Biserica Saint-Laurent Imbert și Notre-Dame de Pitié.",
+            "en": "Start out on wet morning streets at the Chapelle Saint-Nicolas. Ride carefully to the indoor refuge of Covet Castle. By midday, take a break at the Église Saint-Nicolas and Raimu Museum. In the afternoon, navigate the slick paths of Le Bolmon Marsh. Finish your evening at Église Saint-Laurent Imbert and Notre-Dame de Pitié."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Straßen rund um die Kapelle. Regenbekleidung ist hier ein Muss.",
+                "hu": "Óvatosan fékezzen a kápolna körüli nedves utakon. A megfelelő esőruházat viselése itt kötelező.",
+                "ro": "Frânați cu prudență pe drumurile umede din jurul capelei. Echipamentul de ploaie este obligatoriu aici.",
+                "en": "Brake cautiously on the wet streets surrounding the chapel. Proper rain gear is an absolute must here."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Covet",
+                "hu": "Covet-kastély",
+                "ro": "Castelul Covet",
+                "en": "Covet Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und genießen Sie das historische Innere dieses Schlosses fernab des Regens.",
+                "hu": "Tegye le kerékpárját egy védett helyre, és élvezze a történelmi kastély belső tereit az esőtől távol.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de interiorul istoric al acestui castel, departe de ploaie.",
+                "en": "Park your bike in a sheltered spot and enjoy the historic interior of this castle away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Eine willkommene Pause im Trockenen. Achten Sie auf rutschige Steinstufen beim Betreten der Kirche.",
+                "hu": "Kellemes pihenő száraz helyen. Ügyeljen a csúszós kőlépcsőkre, amikor belép ebbe a régi templomba.",
+                "ro": "O pauză binevenită la uscat. Atenție la treptele de piatră alunecoase când intrați în biserică.",
+                "en": "A welcome break in a dry place. Be very careful on the slippery stone steps as you enter the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Raimu-Museum",
+                "hu": "Raimu Múzeum",
+                "ro": "Muzeul Raimu",
+                "en": "Raimu Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und wärmen Sie sich auf. Das Museum ist perfekt für einen längeren, trockenen Aufenthalt.",
+                "hu": "Parkolja le a kerékpárt és melegedjen fel. A múzeum tökéletes egy hosszabb, száraz beltéri tartózkodásra.",
+                "ro": "Parcați bicicleta și încălziți-vă. Muzeul este perfect pentru o ședere prelungită într-un mediu uscat.",
+                "en": "Park your bike and warm up. This museum is absolutely perfect for a prolonged, dry indoor stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet Le Bolmon",
+                "hu": "Le Bolmon mocsár",
+                "ro": "Mlaștina Le Bolmon",
+                "en": "Le Bolmon Marsh"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den aufgeweichten Pfaden des Sumpfes. Spritzschutzbleche sind hier sehr empfehlenswert.",
+                "hu": "Haladjon lassan a mocsár felázott ösvényein. A sárvédő használata kifejezetten ajánlott ezen a szakaszon.",
+                "ro": "Pedalați încet pe potecile înmuiate ale mlaștinii. Apărătorile de noroi sunt foarte recomandate aici.",
+                "en": "Ride slowly on the soaked paths of the marsh. Mudguards for your bike are highly recommended on this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent Imbert",
+                "hu": "Saint-Laurent Imbert templom",
+                "ro": "Biserica Saint-Laurent Imbert",
+                "en": "Église Saint-Laurent Imbert"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Inneren Schutz vor dem Abendregen. Die Straßen hier können bei Nässe tückisch glatt sein.",
+                "hu": "Keressen menedéket a templomban az esti eső elől. Az itteni utcák nedvesen meglepően csúszósak lehetnek.",
+                "ro": "Căutați adăpost înăuntru de ploaia de seară. Străzile de aici pot fi înșelător de alunecoase când sunt ude.",
+                "en": "Seek shelter inside from the evening rain. The streets around here can be deceptively slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Pitié",
+                "hu": "Notre-Dame de Pitié kápolna",
+                "ro": "Capela Notre-Dame de Pitié",
+                "en": "Notre-Dame de Pitié Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Halt bietet Zuflucht. Achten Sie bei der abendlichen Rückfahrt auf nasse Laubstellen.",
+                "hu": "Az utolsó megálló menedéket nyújt. Az esti visszaúton fokozottan figyeljen a nedves falevelekre az úton.",
+                "ro": "Ultima oprire oferă refugiu. Atenție la frunzele umede de pe drum la întoarcerea de seară pe bicicletă.",
+                "en": "The final stop offers a refuge. Watch out for wet leaves on the road during your evening ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für die morgendliche Fahrt zur Chapelle Saint-Nicolas und zum Schloss Covet. Wärmen Sie sich mittags in der Église Saint-Nicolas und im Raimu-Museum auf. Nachmittags bietet das Sumpfgebiet Le Bolmon eine frische Fahrt. Da die Sonne gegen 17 Uhr untergeht, nutzen Sie Fahrradlichter für die Abendziele Église Saint-Laurent Imbert und Notre-Dame de Pitié.",
+            "hu": "Öltözzön fel melegen a reggeli tekeréshez a Saint-Nicolas kápolnához és a Covet-kastélyhoz. Délben melegedjen fel a Saint-Nicolas templomban és a Raimu Múzeumban. A délután frissítő utat kínál a Le Bolmon mocsárban. Mivel a nap 17 óra körül nyugszik, használjon kerékpárlámpát az esti úticélokhoz.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală spre Capela Saint-Nicolas și Castelul Covet. Încălziți-vă la prânz în Biserica Saint-Nicolas și Muzeul Raimu. După-amiaza oferă o cursă pitorească prin Mlaștina Le Bolmon. Deoarece apusul este la 17:00, folosiți lumini la bicicletă pentru obiectivele de seară.",
+            "en": "Bundle up for a brisk morning ride starting at the Chapelle Saint-Nicolas and Covet Castle. Warm up by midday inside the Église Saint-Nicolas and Raimu Museum. The afternoon offers a crisp ride through Le Bolmon Marsh. Since sunset is around 5 PM, ensure your bike lights are on for the final evening stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenbrise weckt Sie auf. Tragen Sie winddichte Handschuhe für einen angenehmen Start.",
+                "hu": "A hűvös reggeli szellő felélénkíti. Viseljen szélálló kesztyűt a kerékpározás kellemes indításához.",
+                "ro": "Briza rece a dimineții vă va trezi. Purtați mănuși rezistente la vânt pentru un început plăcut.",
+                "en": "The cool morning breeze will wake you up. Wear windproof gloves for a much more comfortable start."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Covet",
+                "hu": "Covet-kastély",
+                "ro": "Castelul Covet",
+                "en": "Covet Castle"
+              },
+              "tip_5lang": {
+                "de": "Eine großartige historische Kulisse am kalten Morgen. Im Inneren ist es etwas wärmer als auf dem Sattel.",
+                "hu": "Nagyszerű történelmi helyszín ezen a hideg reggelen. Bent egy fokkal melegebb van, mint a nyeregben.",
+                "ro": "Un peisaj istoric superb în această dimineață rece. Înăuntru este puțin mai cald decât pe șa.",
+                "en": "A great historic setting on this cold morning. Inside it is slightly warmer than sitting on the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie ab und lockern Sie Ihre Beine. Die stille Kirche bietet eine ruhige, kalte Winteratmosphäre.",
+                "hu": "Szálljon le és mozgassa át a lábát. A csendes templom békés, hűvös téli atmoszférát áraszt magából.",
+                "ro": "Descălecați și dezmorțiți-vă picioarele. Biserica liniștită oferă o atmosferă rece și pașnică de iarnă.",
+                "en": "Dismount and stretch your legs. The quiet church provides a very peaceful, cold winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Raimu-Museum",
+                "hu": "Raimu Múzeum",
+                "ro": "Muzeul Raimu",
+                "en": "Raimu Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine ideale Gelegenheit, sich mittags richtig aufzuwärmen, bevor Sie sich wieder auf das Fahrrad schwingen.",
+                "hu": "Ideális alkalom arra, hogy délben alaposan felmelegedjen, mielőtt újra a kerékpár nyergébe pattan.",
+                "ro": "O oportunitate ideală de a vă încălzi bine la prânz înainte de a vă urca din nou pe bicicletă.",
+                "en": "An ideal opportunity to warm up properly at midday before getting back onto your bicycle again."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet Le Bolmon",
+                "hu": "Le Bolmon mocsár",
+                "ro": "Mlaștina Le Bolmon",
+                "en": "Le Bolmon Marsh"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Luft hier ist wunderbar klar. Der Wind vom Wasser kann die gefühlte Temperatur senken.",
+                "hu": "A zúzmarás levegő itt csodálatosan tiszta. A víz felől fújó szél azonban csökkentheti a hőérzetet.",
+                "ro": "Aerul geros de aici este minunat de clar. Vântul de pe apă poate scădea însă temperatura resimțită.",
+                "en": "The frosty air here is wonderfully clear. The wind blowing off the water can lower the perceived temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent Imbert",
+                "hu": "Saint-Laurent Imbert templom",
+                "ro": "Biserica Saint-Laurent Imbert",
+                "en": "Église Saint-Laurent Imbert"
+              },
+              "tip_5lang": {
+                "de": "Im späten Nachmittagslicht wirkt diese Kirche besonders schön. Schalten Sie bald Ihre Fahrradlichter ein.",
+                "hu": "A késő délutáni fényekben ez a templom különösen szép. Hamarosan érdemes bekapcsolnia a kerékpárlámpát.",
+                "ro": "În lumina după-amiezii târzii, această biserică pare deosebit de frumoasă. Aprindeți luminile la bicicletă.",
+                "en": "In the late afternoon light, this church looks especially beautiful. Turn on your bike lights soon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Pitié",
+                "hu": "Notre-Dame de Pitié kápolna",
+                "ro": "Capela Notre-Dame de Pitié",
+                "en": "Notre-Dame de Pitié Chapel"
+              },
+              "tip_5lang": {
+                "de": "Es wird nun schnell dunkel. Beenden Sie die Tour hier und stellen Sie sicher, dass Ihre Beleuchtung funktioniert.",
+                "hu": "Most már gyorsan sötétedik. Fejezze be itt a túrát, és indulás előtt ellenőrizze a világítását.",
+                "ro": "Acum se întunecă repede. Încheiați turul aici și asigurați-vă că luminile bicicletei funcționează.",
+                "en": "It gets dark quickly now. Finish the tour here and make sure your bicycle lights are functioning well."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A reggel egy autózásra hív a Notre-Dame de Pitié kápolnához, ahonnan csodás kilátás nyílik, majd az ősi Portail megtekintése következik.\n\nDélben a modern Église Saint-Laurent Imbert templomot és a Covet-kastély királyi történelmét, valamint az Église Saint-Nicolas-t kötjük össze.\n\nA délutánt a Raimu Múzeum művészeti örökségének felfedezése és a Chapelle Saint-Nicolas meglátogatása tölti ki.\n\nEste egy rövid út vezet a Le Bolmon mocsárhoz egy békés naplemente-nézős sétára.",
         "ro": "Dimineața vă invită să conduceți până la Capela Notre-Dame de Pitié pentru o priveliște inspirată, urmată de o plimbare prin anticul Portail.\n\nAmiaza conectează Biserica Saint-Laurent Imbert cu istoria regală a Castelului Covet și a Bisericii Saint-Nicolas.\n\nDupă-amiaza este bine petrecută descoperind moștenirea artistică la Muzeul Raimu și Capela Saint-Nicolas.\n\nSeara permite o coborâre ușoară spre Mlaștina Le Bolmon pentru o plimbare liniștită la apus.",
         "en": "Morning invites you to drive up to Notre-Dame de Pitié Chapel for an inspiring view, followed by a walk through the ancient Portail.\n\nMidday connects the modern Église Saint-Laurent Imbert with the regal history of Covet Castle and Église Saint-Nicolas.\n\nAfternoon is well spent uncovering artistic legacy at the Raimu Museum and visiting Chapelle Saint-Nicolas.\n\nEvening allows for an easy drive down to Le Bolmon Marsh for a tranquil sunset stroll by the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre morgendliche Fahrt vorsichtig zur Notre-Dame de Pitié und zum Portail. Wenn der Regen mittags anhält, besuchen Sie die Église Saint-Laurent Imbert und das Schloss Covet. Der Nachmittag ist perfekt für die Église Saint-Nicolas und das Raimu-Museum. Beenden Sie den Tag an der Chapelle Saint-Nicolas und dem Sumpfgebiet Le Bolmon.",
+            "hu": "Kezdje a reggeli vezetést óvatosan a Notre-Dame de Pitié és a történelmi Portail felé. Ha az eső délben is kitart, látogasson el a Saint-Laurent Imbert templomba és a Covet-kastélyba. A délután tökéletes a fedett Saint-Nicolas templom és a Raimu Múzeum számára. A napot a Saint-Nicolas kápolnánál és a Le Bolmon mocsárnál zárja.",
+            "ro": "Începeți plimbarea cu mașina cu grijă spre Notre-Dame de Pitié și portalul istoric. Dacă ploaia continuă la prânz, vizitați Biserica Saint-Laurent Imbert și Castelul Covet. După-amiaza este perfectă pentru a vizita Biserica Saint-Nicolas și Muzeul Raimu. Încheiați ziua la Capela Saint-Nicolas și la Mlaștina Le Bolmon.",
+            "en": "Start your morning drive safely heading to Notre-Dame de Pitié and the historic Portail. As the rain continues towards midday, visit Église Saint-Laurent Imbert and Covet Castle. The afternoon is perfect for the indoor refuge of Église Saint-Nicolas and the Raimu Museum. End your day driving carefully to Chapelle Saint-Nicolas and Le Bolmon Marsh."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Pitié",
+                "hu": "Notre-Dame de Pitié kápolna",
+                "ro": "Capela Notre-Dame de Pitié",
+                "en": "Notre-Dame de Pitié Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein guter erster Halt. Achten Sie auf Wasserpfützen auf dem Parkplatz, bevor Sie aus dem Auto steigen.",
+                "hu": "Jó első megálló. Kiszállás előtt ügyeljen a parkolóban felgyülemlett víztócsákra a kocsija körül.",
+                "ro": "O primă oprire bună. Aveți grijă la bălțile de pe parcare înainte de a coborî din mașină.",
+                "en": "A great first stop. Watch out for deep water puddles in the parking area before stepping out of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Portail",
+                "hu": "Portail (Ősi kapu)",
+                "ro": "Portail",
+                "en": "Portail"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an diesem historischen Tor vorbei. Die alten Steine wirken im Regen besonders dramatisch.",
+                "hu": "Hajtson el lassan ezen történelmi kapu mellett. A régi kövek különösen drámaian hatnak az esőben.",
+                "ro": "Treceți încet pe lângă această poartă istorică. Pietrele vechi arată deosebit de dramatic în ploaie.",
+                "en": "Drive slowly past this historic gate. The ancient stones look particularly dramatic in the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent Imbert",
+                "hu": "Saint-Laurent Imbert templom",
+                "ro": "Biserica Saint-Laurent Imbert",
+                "en": "Église Saint-Laurent Imbert"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden. Die Kirche bietet eine trockene, ruhige Zuflucht.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon meg. A templom száraz és csendes menedéket biztosít.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda. Biserica oferă un refugiu uscat și foarte liniștit.",
+                "en": "Park close to the entrance to avoid getting wet. The church offers a dry and very peaceful refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Covet",
+                "hu": "Covet-kastély",
+                "ro": "Castelul Covet",
+                "en": "Covet Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss ist ideal bei schlechtem Wetter. Vergessen Sie Ihren Regenschirm für den kurzen Weg vom Auto nicht.",
+                "hu": "A kastély ideális rossz időben. Ne felejtse el az esernyőjét a parkolóból a bejáratig tartó rövid útra.",
+                "ro": "Castelul este ideal pe vreme rea. Nu uitați umbrela pentru drumul scurt de la mașină la intrare.",
+                "en": "The castle is ideal in bad weather. Don't forget your umbrella for the short walk from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur im Trockenen bewundern. Bei starkem Regen können die Straßen in der Nähe rutschig sein.",
+                "hu": "Csodálja meg az építészetet szárazon. Erős esőzés esetén a közeli utcák rendkívül csúszósak lehetnek.",
+                "ro": "Admirați arhitectura la uscat. Pe ploaie abundentă, străzile din apropiere pot fi foarte alunecoase.",
+                "en": "Admire the architecture while staying dry. The nearby streets can become very slippery during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Raimu-Museum",
+                "hu": "Raimu Múzeum",
+                "ro": "Muzeul Raimu",
+                "en": "Raimu Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den regnerischen Nachmittag. Die Innenräume sind warm und das Museum bietet eigene Parkplätze.",
+                "hu": "Tökéletes program a csapadékos délutánra. A belső terek melegek, és a múzeumhoz parkoló is tartozik.",
+                "ro": "Perfect pentru după-amiaza ploioasă. Interioarele sunt calde, iar muzeul oferă locuri de parcare.",
+                "en": "Perfect for the rainy afternoon. The interiors are warm and the museum often provides nearby parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp vom Auto aus ist hier möglich, wenn das Wetter zu ungemütlich zum Aussteigen wird.",
+                "hu": "Egy gyors fotómegálló az autóból is lehetséges itt, ha az időjárás túl zord lenne a kiszálláshoz.",
+                "ro": "O scurtă oprire pentru fotografii din mașină este posibilă aici dacă vremea este prea rea pentru a coborî.",
+                "en": "A quick photo stop from the car is possible here if the weather becomes too unpleasant to step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet Le Bolmon",
+                "hu": "Le Bolmon mocsár",
+                "ro": "Mlaștina Le Bolmon",
+                "en": "Le Bolmon Marsh"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Zufahrtsstraßen zum Sumpfgebiet bei starkem Regen oft unter Wasser stehen.",
+                "hu": "Vezessen óvatosan, mivel a mocsárhoz vezető bekötőutak heves esőzések idején gyakran víz alá kerülnek.",
+                "ro": "Conduceți cu atenție, deoarece drumurile de acces spre mlaștină sunt adesea inundate pe ploaie abundentă.",
+                "en": "Drive carefully, as the access roads leading to the marsh are often flooded during heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Drehen Sie die Autoheizung an diesem kalten Wintermorgen auf, wenn Sie zur Notre-Dame de Pitié und zum Portail fahren. Mittags bieten sich klare Ausblicke an der Église Saint-Laurent Imbert und am Schloss Covet. Verbringen Sie den Nachmittag drinnen in der Église Saint-Nicolas und im Raimu-Museum. Schließen Sie vor dem frühen Sonnenuntergang gegen 17 Uhr ab.",
+            "hu": "Tekere fel az autó fűtését ezen a hideg téli reggelen, miközben a Notre-Dame de Pitié és a Portail felé vezet. A dél tiszta kilátást kínál a Saint-Laurent Imbert templomnál és a Covet-kastélynál. Töltse a délutánt a meleg Saint-Nicolas templomban és a Raimu Múzeumban. A 17 óra körüli sötétedés előtt fejezze be útját a kápolnánál és a mocsárnál.",
+            "ro": "Porniți căldura în mașină în această dimineață rece de iarnă, conducând spre Notre-Dame de Pitié și Portail. Prânzul oferă priveliști clare la Biserica Saint-Laurent Imbert și Castelul Covet. Petreceți după-amiaza la căldură în Biserica Saint-Nicolas și Muzeul Raimu. Încheiați traseul la capelă și mlaștină înainte de apusul de la ora 17:00.",
+            "en": "Turn up the car heater on this cold winter morning as you drive to Notre-Dame de Pitié and the Portail. Midday offers crisp views at Église Saint-Laurent Imbert and Covet Castle. Spend your afternoon warming up inside Église Saint-Nicolas and the Raimu Museum. With sunset arriving early around 5 PM, conclude at the chapel and marsh before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de Pitié",
+                "hu": "Notre-Dame de Pitié kápolna",
+                "ro": "Capela Notre-Dame de Pitié",
+                "en": "Notre-Dame de Pitié Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger Morgen an der Kapelle. Das vorgeheizte Auto macht die Rückkehr nach dem Besuch besonders angenehm.",
+                "hu": "Fagyos reggel a kápolnánál. Az előmelegített autó különösen kényelmessé teszi a látogatás utáni visszatérést.",
+                "ro": "O dimineață geroasă la capelă. Mașina preîncălzită face întoarcerea după vizită deosebit de plăcută.",
+                "en": "A frosty morning at the chapel. Your pre-heated car makes the return after visiting especially pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Portail",
+                "hu": "Portail (Ősi kapu)",
+                "ro": "Portail",
+                "en": "Portail"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Tor. Im Winter gibt es weniger Verkehr, sodass Sie das Bauwerk in Ruhe betrachten können.",
+                "hu": "Gyors megálló a kapunál. Télen kevesebb a forgalom, így nyugodtan megtekintheti ezt a régi építményt.",
+                "ro": "O scurtă oprire la poartă. Iarna traficul este mai redus, așa că puteți privi monumentul în liniște.",
+                "en": "A quick stop at the gate. There is less traffic in winter, so you can view the ancient structure in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent Imbert",
+                "hu": "Saint-Laurent Imbert templom",
+                "ro": "Biserica Saint-Laurent Imbert",
+                "en": "Église Saint-Laurent Imbert"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Fassade wunderbar. Parken Sie direkt davor und behalten Sie Ihre Jacke an.",
+                "hu": "A téli napfény csodásan megvilágítja a homlokzatot. Parkoljon közvetlenül előtte, de tartsa magán a kabátját.",
+                "ro": "Soarele de iarnă luminează minunat fațada. Parcați direct în față, dar păstrați haina groasă pe dumneavoastră.",
+                "en": "The winter sun beautifully illuminates the facade. Park directly in front but make sure to keep your jacket on."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Covet",
+                "hu": "Covet-kastély",
+                "ro": "Castelul Covet",
+                "en": "Covet Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die massiven, kalten Steinhallen. Nach dem Besuch können Sie sich im Auto wieder aufwärmen.",
+                "hu": "Fedezze fel a masszív, hideg kőtermeket. A látogatás után szerencsére újra felmelegedhet a kocsiban.",
+                "ro": "Explorați sălile masive și reci de piatră. După vizită, vă veți putea încălzi din nou în mașină.",
+                "en": "Explore the massive, cold stone halls. After your visit, you will be able to warm up again inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft in der Kirche ist erfrischend. Nutzen Sie das Auto, um bequem zum nächsten Ziel zu kommen.",
+                "hu": "A templom hűvös levegője felfrissíti. Használja autóját, hogy kényelmesen eljusson a következő célállomásra.",
+                "ro": "Aerul rece din biserică este revigorant. Folosiți mașina pentru a ajunge confortabil la următoarea destinație.",
+                "en": "The cool air in the church is refreshing. Use your car to easily and comfortably reach your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Raimu-Museum",
+                "hu": "Raimu Múzeum",
+                "ro": "Muzeul Raimu",
+                "en": "Raimu Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine angenehme, warme Zuflucht an diesem kalten Nachmittag, bevor es dunkel wird.",
+                "hu": "A múzeum kellemes, meleg menedéket kínál ezen a hideg délutánon, mielőtt teljesen besötétedne a város.",
+                "ro": "Muzeul oferă un refugiu plăcut și cald în această după-amiază rece, înainte să se întunece afară.",
+                "en": "The museum offers a pleasant, warm refuge on this particularly cold afternoon before it gets completely dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht gegen 16 Uhr für einen Besuch, da die Sonne im Winter früh untergeht.",
+                "hu": "Használja ki az utolsó nappali fényeket 16 óra körül a látogatásra, mivel télen a nap korán lenyugszik.",
+                "ro": "Profitați de ultimele raze de lumină în jur de ora 16:00 pentru vizită, deoarece soarele apune devreme iarna.",
+                "en": "Utilize the last daylight around 4 PM for your visit, as the sun sets quite early during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet Le Bolmon",
+                "hu": "Le Bolmon mocsár",
+                "ro": "Mlaștina Le Bolmon",
+                "en": "Le Bolmon Marsh"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier in der Dämmerung. Die friedliche, frostige Landschaft vom warmen Auto aus zu betrachten, ist ein tolles Erlebnis vor der Rückfahrt.",
+                "hu": "Zárja a napot itt szürkületben. A fagyos, békés tájat a meleg autóból szemlélni egészen különleges élmény, mielőtt elindulna visszafelé.",
+                "ro": "Încheiați ziua aici la amurg. Să privești peisajul înghețat și pașnic din mașina caldă este o experiență grozavă înainte de a vă întoarce la hotel.",
+                "en": "End your day here at dusk. Watching the frosty, peaceful landscape from the comfort of a warm car is a truly great experience before heading back."
+              }
+            }
+          ]
+        }
       }
     }
   }

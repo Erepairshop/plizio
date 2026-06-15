@@ -183,6 +183,224 @@
         "hu": "A reggel a nyüzsgő Pannier Marketen és a történelmi St Mary's templomnál indul. Délben felfedezheti a Cooper Street butikjait, majd a festői Bideford Quay-t. A délután a művészeté a The Burtonben és a pihenésé a Victoria Park fáinak árnyékában. Az estét egy séta zárja a középkori Long Bridge-en, ahogy a nap lassan lenyugszik a horizonton.",
         "ro": "Dimineața începe la vibrantul Pannier Market și biserica istorică St Mary's. La prânz, explorați buticurile de pe Cooper Street înainte de a ajunge la pitorescul Bideford Quay. După-amiaza este pentru artă la The Burton și relaxare în Victoria Park. Seara se încheie cu o plimbare pitorească peste podul medieval Long Bridge la apusul soarelui.",
         "en": "Morning starts at the vibrant Pannier Market and historic St Mary's Church. Midday invites you to explore the boutiques on Cooper Street before reaching the scenic Bideford Quay. Afternoon is for discovering art at The Burton and relaxing under Victoria Park's trees. Evening concludes with a picturesque walk across the medieval Long Bridge as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt unter dem Dach des Pannier Market. Mittags bieten die St. Mary's Church und die engen Gassen Schutz vor Schauern. Nachmittags ist die Burton-Galerie der perfekte Ort für Kunstliebhaber im Trockenen. Abends sorgt der Blick von der Long Bridge trotz Regen für eine dramatische Kulisse, wenn die Lichter im Wasser reflektieren.",
+            "hu": "Kezdje a napot a Pannier Market védelmező fedele alatt. Délben a St Mary-templom és a szűk utcák kínálnak menedéket a záporok elől. Délután a Burton galéria a tökéletes beltéri helyszín a művészet kedvelőinek. Este a Long Bridge látványa az esőben is drámai, ahogy a fények tükröződnek a vízen, feltéve, hogy van nálunk esernyő.",
+            "ro": "Începeți ziua sub acoperișul protector al pieței Pannier. La prânz, biserica Sf. Maria și străzile înguste oferă adăpost împotriva averselor. După-amiaza, galeria Burton este locul interior perfect pentru iubitorii de artă. Seara, vederea de pe Long Bridge oferă un cadru dramatic chiar și pe ploaie, cu luminile reflectându-se în apă.",
+            "en": "Start your day sheltered under the Victorian roof of the Pannier Market. At midday, St Mary's Church and the narrow streets provide refuge from passing showers. In the afternoon, The Burton gallery is the ultimate indoor sanctuary for art enthusiasts. In the evening, the Long Bridge offers a dramatic scene as lights reflect on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bideford Pannier Market",
+                "hu": "Bideford Pannier Market",
+                "ro": "Bideford Pannier Market",
+                "en": "Bideford Pannier Market"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie im Trockenen nach lokalem Kunsthandwerk unter dem massiven Holzdach; ein idealer Ort, um dem Regen zu entkommen und regionale Schätze zu finden.",
+                "hu": "Böngésszen a helyi kézműves termékek között a masszív fatető alatt; ideális hely az eső elöli menekülésre és a különleges helyi kincsek felfedezésére.",
+                "ro": "Răsfoiți obiecte de artizanat local sub acoperișul masiv de lemn; un loc ideal pentru a scăpa de ploaie și pentru a găsi comori regionale deosebite.",
+                "en": "Browse local crafts under the massive timber roof; it is the ideal spot to escape the rain while discovering unique regional treasures and antiques."
+              }
+            },
+            {
+              "name": {
+                "de": "St Mary's Church",
+                "hu": "St Mary's Church",
+                "ro": "St Mary's Church",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Buntglasfenster in aller Ruhe, während draußen der Regen prasselt; die dicken Steinmauern bieten eine stille, trockene Atmosphäre.",
+                "hu": "Csodálja meg a pompás ólomüveg ablakokat teljes nyugalomban, miközben kint kopog az eső; a vastag kőfalak csendes és száraz menedéket nyújtanak.",
+                "ro": "Admirați vitraliile magnifice în liniște, în timp ce afară plouă; pereții groși de piatră oferă o atmosferă calmă și un adăpost uscat perfect.",
+                "en": "Admire the magnificent stained-glass windows in peace while the rain patters outside; the thick stone walls offer a quiet, dry and spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Cooper Street",
+                "hu": "Cooper Street",
+                "ro": "Cooper Street",
+                "en": "Cooper Street"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer der kleinen Läden für kurze Pausen beim Erkunden dieser historischen Gasse; Vorsicht vor den bei Nässe glatten Pflastersteinen.",
+                "hu": "Használja a kis boltok előtetőit rövid pihenőkre ezen a történelmi utcán; vigyázzon a nedves időben csúszóssá váló macskakövekre a séta során.",
+                "ro": "Folosiți copertinele micilor magazine pentru scurte pauze în această stradă istorică; atenție la pietrele cubice care devin alunecoase pe timp de ploaie.",
+                "en": "Use the shop awnings for short breaks while exploring this historic alley; be careful of the cobblestones which can become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Quay",
+                "hu": "Bideford Quay",
+                "ro": "Bideford Quay",
+                "en": "Bideford Quay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte Flut des Torridge von einem der überdachten Unterstände aus; die graue See bietet bei Regen einen faszinierenden Anblick.",
+                "hu": "Figyelje a Torridge folyó hullámzó apály-dagályát a fedett várókból; a szürke vízfelszín esőben is lenyűgöző és jellegzetesen angol látványt nyújt.",
+                "ro": "Observați fluxul agitat al râului Torridge din adăposturile acoperite; suprafața cenușie a apei oferă o priveliște fascinantă chiar și pe ploaie.",
+                "en": "Observe the churning tide of the River Torridge from the covered shelters; the grey waterscape offers a fascinating and atmospheric view in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "The Burton at Bideford",
+                "hu": "The Burton at Bideford",
+                "ro": "The Burton at Bideford",
+                "en": "The Burton at Bideford"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in den Galerien und dem Café, um den stärksten Güssen zu entgehen; die wechselnden Ausstellungen sind der beste Indoor-Tipp.",
+                "hu": "Hosszabbítsa meg látogatását a galériákban és a kávézóban, hogy elkerülje a nagyobb záporokat; az időszaki kiállítások a legjobb esőnapi programok.",
+                "ro": "Prelungiți vizita în galerii și la cafenea pentru a evita ploile torențiale; expozițiile temporare sunt cea mai bună recomandare pentru o zi ploioasă.",
+                "en": "Extend your stay in the galleries and café to avoid the heaviest downpours; the changing exhibitions are the town's best indoor cultural escape."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie auf den asphaltierten Wegen, um nasse Füße im Gras zu vermeiden; die Pavillons bieten guten Schutz bei plötzlichen Regenschauern.",
+                "hu": "Sétáljon az aszfaltozott ösvényeken, hogy elkerülje a vizes füvet; a park pavilonjai kiváló menedéket nyújtanak a hirtelen lezúduló záporok idején.",
+                "ro": "Plimbați-vă pe aleile asfaltate pentru a evita iarba udă; pavilioanele parcului oferă un adăpost bun în cazul unor averse de ploaie bruște.",
+                "en": "Walk on the paved paths to avoid soggy feet in the grass; the park's pavilions provide good shelter during sudden and heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Long Bridge",
+                "hu": "Bideford Long Bridge",
+                "ro": "Bideford Long Bridge",
+                "en": "Bideford Long Bridge"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich bei Wind und Regen gut am Geländer fest; die weite Sicht auf den nebligen Fluss ist trotz der Nässe ein krönender Abschluss.",
+                "hu": "Kapaszkodjon erősen a korlátba a szélben és esőben; a ködös folyóra nyíló tágas kilátás a vizes idő ellenére is méltó lezárása a napnak.",
+                "ro": "Țineți-vă bine de balustradă în vânt și ploaie; vederea panoramică asupra râului cețos este un final spectaculos în ciuda vremii umede.",
+                "en": "Hold onto the railings firmly in the wind and rain; the expansive view of the misty river is a rewarding conclusion despite the wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die frische Winterluft am Kai ein, bevor Sie sich im Pannier Market aufwärmen. Mittags lädt die gemütliche Cooper Street zum Verweilen in kleinen Läden ein. Da es bereits gegen 17:00 Uhr dunkel wird, verbringen Sie den späten Nachmittag in der warmen Burton-Galerie. Die beleuchtete Long Bridge bildet im Dunkeln einen festlichen Abschluss Ihres Winterspaziergangs.",
+            "hu": "Szippantson a friss téli levegőből a parton, mielőtt felmelegedne a Pannier Marketben. Délben a hangulatos Cooper Street hívogat a kis boltjaival. Mivel 17:00 körül már sötétedik, a késő délutánt töltse a meleg Burton galériában. A kivilágított Long Bridge a sötétben ünnepi és látványos zárása a téli sétának.",
+            "ro": "Respirați aerul proaspăt de iarnă pe faleză înainte de a vă încălzi în Piața Pannier. La prânz, strada Cooper vă invită în magazinele sale mici. Deoarece se întunecă în jurul orei 17:00, petreceți sfârșitul după-amiezii în galeria caldă Burton. Podul Lung iluminat este un final festiv al plimbării de iarnă.",
+            "en": "Enjoy the crisp winter air by the river before warming up inside the Pannier Market. At midday, the cozy shops of Cooper Street offer a warm welcome. As darkness falls around 17:00, spend the late afternoon in the heated Burton gallery. The illuminated Long Bridge provides a festive and scenic end to your winter walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bideford Pannier Market",
+                "hu": "Bideford Pannier Market",
+                "ro": "Bideford Pannier Market",
+                "en": "Bideford Pannier Market"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die geschäftige, warme Atmosphäre der Markthalle; perfekt, um lokale Delikatessen für gemütliche Winterabende einzukaufen.",
+                "hu": "Élvezze a piaccsarnok nyüzsgő, meleg hangulatát; tökéletes helyi finomságok beszerzésére a bekuckózós téli estékhez.",
+                "ro": "Bucurați-vă de atmosfera plină de viață și caldă a pieței; locul perfect pentru a cumpăra delicatese locale pentru seri de iarnă confortabile.",
+                "en": "Enjoy the bustling, warm atmosphere of the market hall; it's perfect for sourcing local delicacies for cozy winter evenings by the fire."
+              }
+            },
+            {
+              "name": {
+                "de": "St Mary's Church",
+                "hu": "St Mary's Church",
+                "ro": "St Mary's Church",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche für einen Moment der Besinnung; die massive Architektur schützt gut vor dem kalten Winterwind von der Küste.",
+                "hu": "Használja ki a templom csendjét egy kis elmélyülésre; a masszív épület kiválóan véd a tenger felől érkező metsző téli szél ellen.",
+                "ro": "Profitați de liniștea bisericii pentru un moment de reflexie; clădirea masivă protejează excelent împotriva vântului tăios de iarnă.",
+                "en": "Take advantage of the church's silence for reflection; the massive structure provides excellent shelter from the biting coastal winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cooper Street",
+                "hu": "Cooper Street",
+                "ro": "Cooper Street",
+                "en": "Cooper Street"
+              },
+              "tip_5lang": {
+                "de": "Die festlich dekorierten Schaufenster machen den Bummel besonders schön; ziehen Sie sich warm an, da der Wind durch die Gassen ziehen kann.",
+                "hu": "Az ünnepi díszbe öltözött kirakatok különlegessé teszik a nézelődést; öltözzön rétegesen, mert a szél könnyen besurran a szűk utcákba.",
+                "ro": "Vitrinele decorate festiv fac plimbarea deosebită; îmbrăcați-vă gros, deoarece vântul se poate strecura ușor prin străzile înguste.",
+                "en": "The festively decorated shop windows make browsing special; dress in layers, as the wind can channel through the narrow historic streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Quay",
+                "hu": "Bideford Quay",
+                "ro": "Bideford Quay",
+                "en": "Bideford Quay"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Spaziergang am Kai belebt die Geister; achten Sie auf die glatten Kanten in der Nähe des Wassers bei Frost.",
+                "hu": "Egy rövid, tempós séta a parton felpezsdíti a vérkeringést; fagyos időben ügyeljen a vízpart közeli csúszós felületekre.",
+                "ro": "O plimbare scurtă și rapidă pe faleză revigorează circulația; în caz de îngheț, aveți grijă la suprafețele alunecoase de lângă apă.",
+                "en": "A short, brisk walk along the quay will invigorate you; be mindful of potentially icy surfaces near the water's edge during frost."
+              }
+            },
+            {
+              "name": {
+                "de": "The Burton at Bideford",
+                "hu": "The Burton at Bideford",
+                "ro": "The Burton at Bideford",
+                "en": "The Burton at Bideford"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Galerien sind im Winter ein Segen; besuchen Sie den Shop für hochwertige Geschenke und wärmen Sie sich im gemütlichen Café auf.",
+                "hu": "A fűtött galériák télen igazi áldást jelentenek; keressen egyedi ajándékokat a boltban, és melegedjen fel a barátságos kávézóban.",
+                "ro": "Galeriile încălzite sunt o binecuvântare iarna; căutați cadouri unice în magazin și încălziți-vă în cafeneaua primitoare.",
+                "en": "The heated galleries are a true winter blessing; browse the shop for high-quality gifts and warm up in the cozy and inviting café."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park am frühen Nachmittag für das beste Licht; der Wintermorgenfrost verleiht den Statuen und Bäumen einen magischen Glanz.",
+                "hu": "Látogasson el a parkba kora délután a legjobb fényekért; a reggeli zúzmara mágikus csillogást kölcsönöz a szobroknak és a fáknak.",
+                "ro": "Vizitați parcul după-amiaza devreme pentru cea mai bună lumină; chiciura de dimineață oferă o strălucire magică statuilor și copacilor.",
+                "en": "Visit the park in the early afternoon for the best light; the morning frost gives the statues and trees a magical, crystalline glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Long Bridge",
+                "hu": "Bideford Long Bridge",
+                "ro": "Bideford Long Bridge",
+                "en": "Bideford Long Bridge"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr von der Brücke aus; die beleuchtete Stadt bietet ein wunderschönes Winterpanorama.",
+                "hu": "Csodálja meg a korai, 17:00 körüli naplementét a hídról; a kivilágított város látképe ilyenkor nyújtja a legszebb téli panorámát.",
+                "ro": "Admirați apusul timpuriu în jurul orei 17:00 de pe pod; vederea orașului iluminat oferă cea mai frumoasă panoramă de iarnă.",
+                "en": "Admire the early sunset around 17:00 from the bridge; the view of the illuminated town provides a stunning and cold winter panorama."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "A reggeli szellő a Bideford Quay-n köszönti, mielőtt áttekerné a Long Bridge történelmi boltíveit. Délben a békés, autómentes Tarka Trail-en tekerhet a folyó mellett. A délután folyamán felkapaszkodhat a Chudleigh erődbe a panorámáért, majd múzeumlátogatás következik. Az estét a Victoria Park lombos sugárútjain tett kellemes kerékpározás zárja.",
         "ro": "Briza dimineții vă întâmpină la Bideford Quay înainte de a pedala peste arcele istorice ale Long Bridge. La prânz mergeți pe pașnicul traseu fără mașini Tarka Trail de-a lungul râului. După-amiaza aduce o urcare la Chudleigh Fort pentru vederi panoramice. Seara oferă o plimbare lină prin aleile înverzite din liniștitul și relaxantul Victoria Park.",
         "en": "Morning breezes greet you at Bideford Quay before you cycle across the historic arches of Long Bridge. Midday sees you pedaling along the peaceful, car-free Tarka Trail alongside the river. Afternoon brings a climb to Chudleigh Fort for panoramic views, followed by museum visits. Evening offers a gentle ride back down through the leafy avenues of Victoria Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht am Kai und auf der Brücke. Der Tarka Trail kann schlammig sein, bietet aber Natur pur. Nutzen Sie Chudleigh Fort für einen schnellen Blick, bevor Sie sich in der Burton-Galerie aufwärmen. Denken Sie an wasserfeste Kleidung und Schutzbleche, um die Fahrt durch das nasse Victoria Park-Gelände zu genießen.",
+            "hu": "Az esős bringázás óvatosságot igényel a parton és a hídon. A Tarka Trail sáros lehet, de igazi természetközeli élményt nyújt. Látogasson el a Chudleigh Fort-hoz egy gyors nézelődésre, mielőtt felmelegedne a Burton galériában. Használjon vízálló ruházatot és sárvédőt a vizes Victoria Park felfedezéséhez.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe faleză și pe pod. Tarka Trail poate fi noroios, dar oferă o experiență autentică în natură. Vizitați Chudleigh Fort pentru o privire rapidă înainte de a vă încălzi în galeria Burton. Folosiți haine impermeabile pentru a vă bucura de Victoria Park.",
+            "en": "Cycling in the rain requires extra care on the quay and bridge. The Tarka Trail might be muddy but offers a raw natural experience. Take a quick look at Chudleigh Fort before finding warmth at The Burton. Ensure you have waterproof gear and mudguards for a comfortable ride through Victoria Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bideford Quay",
+                "hu": "Bideford Quay",
+                "ro": "Bideford Quay",
+                "en": "Bideford Quay"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Anfahren auf dem glatten Untergrund; nutzen Sie die breite Fläche, um sicher an den Pfützen am Rand vorbeizusteuern.",
+                "hu": "Legyen óvatos az indulásnál a csúszós talajon; használja a széles utat, hogy biztonságosan kikerülje a széleken lévő tócsákat.",
+                "ro": "Fiți atenți la plecare pe suprafața alunecoasă; folosiți drumul lat pentru a evita în siguranță bălțile de pe margini.",
+                "en": "Be careful when starting on the slippery surface; use the wide path to safely navigate around the puddles forming at the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Long Bridge",
+                "hu": "Bideford Long Bridge",
+                "ro": "Bideford Long Bridge",
+                "en": "Bideford Long Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da Windböen auf der Brücke bei Regen tückisch sein können; achten Sie auf den Autoverkehr bei schlechter Sicht.",
+                "hu": "Hajtson lassan, mert az esős szél könnyen kibillentheti egyensúlyából a hídon; figyeljen az autósokra a korlátozott látási viszonyok között.",
+                "ro": "Conduceți încet, deoarece rafalele de vânt pe pod pot fi înșelătoare pe ploaie; atenție la trafic în condiții de vizibilitate redusă.",
+                "en": "Ride slowly as wind gusts on the bridge can be tricky in the rain; pay extra attention to traffic during periods of low visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarka Trail",
+                "hu": "Tarka Trail",
+                "ro": "Tarka Trail",
+                "en": "Tarka Trail"
+              },
+              "tip_5lang": {
+                "de": "Rechnen Sie mit Pfützen auf dem Weg; die dichte Vegetation bietet stellenweise natürlichen Schutz vor leichtem Nieselregen.",
+                "hu": "Számítson tócsákra az úton; a sűrű növényzet helyenként természetes védelmet nyújt a gyengébb szitáló eső ellen a tekerés közben.",
+                "ro": "Așteptați-vă la bălți pe drum; vegetația deasă oferă pe alocuri protecție naturală împotriva ploii ușoare în timpul mersului.",
+                "en": "Expect some puddles on the path; the dense vegetation provides natural shelter from light drizzle in certain stretches of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Chudleigh Fort",
+                "hu": "Chudleigh Fort",
+                "ro": "Chudleigh Fort",
+                "en": "Chudleigh Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe anstrengend sein; genießen Sie den dramatischen Blick auf das graue Flusstal, bevor Sie schnell weiterfahren.",
+                "hu": "Az emelkedő megerőltető lehet nedves időben; élvezze a drámai kilátást a szürke folyóvölgyre, mielőtt gyorsan továbbtekerne a következő pontig.",
+                "ro": "Urcarea poate fi solicitantă pe vreme umedă; bucurați-vă de vederea dramatică asupra văii râului înainte de a pleca rapid mai departe.",
+                "en": "The climb can be strenuous in wet weather; enjoy the dramatic view over the grey river valley before quickly moving to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "The Burton at Bideford",
+                "hu": "The Burton at Bideford",
+                "ro": "The Burton at Bideford",
+                "en": "The Burton at Bideford"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrradständer in der Nähe und wärmen Sie sich im Café auf; ein perfekter Ort, um die Ausrüstung kurz zu trocknen.",
+                "hu": "Használja a közeli kerékpártárolókat, és melegedjen fel a kávézóban; tökéletes hely a felszerelés rövid ideig tartó megszárításához.",
+                "ro": "Folosiți suporturile de biciclete din apropiere și încălziți-vă la cafenea; un loc perfect pentru a vă usca rapid echipamentul.",
+                "en": "Use the nearby bike racks and warm up in the café; it is the perfect spot to dry your gear briefly while enjoying some local art."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren von Rasenflächen, um nicht steckenzubleiben; die befestigten Wege führen Sie sicher durch den nassen Park.",
+                "hu": "Kerülje a füves területeket, hogy ne ragadjon be a sárba; a burkolt utak biztonságosan vezetnek keresztül a vizes parkon.",
+                "ro": "Evitați zonele cu iarbă pentru a nu rămâne blocat în noroi; aleile pavate vă conduc în siguranță prin parcul umed.",
+                "en": "Avoid riding on the grass to prevent getting stuck in mud; the paved paths will lead you safely through the wet park grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Rad bietet klare Sichten am Kai und auf der Long Bridge. Auf dem Tarka Trail sollten Sie sich warm einpacken, da der Fahrtwind eisig sein kann. Besuchen Sie Chudleigh Fort für das Winterpanorama und planen Sie Ihren Stopp bei der Burton-Galerie gegen 16:00 Uhr ein, um der frühen Dunkelheit und Kälte zu entfliehen. Beenden Sie die Tour im beleuchteten Victoria Park.",
+            "hu": "A téli kerékpározás tiszta kilátást kínál a parton és a Long Bridge-en. A Tarka Trail-en öltözzön melegen, mert a menetszél metsző lehet. Látogasson el a Chudleigh Fort-hoz a téli panorámáért, és időzítse a Burton galériát 16:00 körülre, hogy elkerülje a korai sötétedést és a hideget. Zárja a túrát a kivilágított Victoria Parkban.",
+            "ro": "O excursie de iarnă cu bicicleta oferă vederi clare pe faleză și pe pod. Pe Tarka Trail, îmbrăcați-vă bine, deoarece vântul poate fi înghețat. Vizitați Chudleigh Fort pentru panorama de iarnă și planificați oprirea la galeria Burton în jurul orei 16:00 pentru a scăpa de întuneric și frig.",
+            "en": "A winter bike ride offers clear views along the quay and Long Bridge. Dress warmly for the Tarka Trail, as the wind chill can be biting. Visit Chudleigh Fort for the winter panorama and aim to reach The Burton by 16:00 to escape the early darkness and dropping temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bideford Quay",
+                "hu": "Bideford Quay",
+                "ro": "Bideford Quay",
+                "en": "Bideford Quay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, aber achten Sie auf gefrorene Stellen auf dem Asphalt; Handschuhe sind für diese Fahrt am Fluss unerlässlich.",
+                "hu": "Élvezze a tiszta téli levegőt, de ügyeljen az aszfalton lévő fagyott foltokra; a kesztyű elengedhetetlen a folyóparti tekeréshez.",
+                "ro": "Bucurați-vă de aerul curat de iarnă, dar atenție la porțiunile înghețate de pe asfalt; mănușile sunt esențiale pentru această plimbare.",
+                "en": "Enjoy the crisp winter air, but watch out for frozen patches on the asphalt; gloves are essential for this riverside winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Long Bridge",
+                "hu": "Bideford Long Bridge",
+                "ro": "Bideford Long Bridge",
+                "en": "Bideford Long Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann im Winter sehr kalt sein; halten Sie den Stopp kurz und genießen Sie das klare Stadtpanorama im Vorbeifahren.",
+                "hu": "A szél a hídon télen nagyon hideg lehet; tartsa rövidre a megállót, és élvezze a tiszta városi panorámát menet közben.",
+                "ro": "Vântul pe pod poate fi foarte rece iarna; scurtați oprirea și bucurați-vă de panorama clară a orașului din mers.",
+                "en": "The wind on the bridge can be very cold in winter; keep your stop brief and enjoy the clear town panorama as you cycle across."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarka Trail",
+                "hu": "Tarka Trail",
+                "ro": "Tarka Trail",
+                "en": "Tarka Trail"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Pfützen im Schatten der Bäume; die kahle Winterlandschaft ermöglicht weite Blicke, die im Sommer verborgen sind.",
+                "hu": "Ügyeljen a fák árnyékában lévő fagyott tócsákra; a kopár téli táj olyan messzi kilátást tesz lehetővé, ami nyáron rejtve marad.",
+                "ro": "Atenție la bălțile înghețate la umbra copacilor; peisajul golaș de iarnă permite vederi largi care sunt ascunse în timpul verii.",
+                "en": "Watch out for icy puddles in the shade of trees; the bare winter landscape allows for long-distance views hidden during the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Chudleigh Fort",
+                "hu": "Chudleigh Fort",
+                "ro": "Chudleigh Fort",
+                "en": "Chudleigh Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt Sie auf, aber oben zieht der Wind; genießen Sie das weite Winterpanorama und machen Sie ein schnelles Foto.",
+                "hu": "Az emelkedő segít bemelegedni, de fent erősebb a szél; élvezze a tágas téli panorámát, és készítsen egy gyors fotót a tájról.",
+                "ro": "Urcarea vă va încălzi, dar sus vântul este puternic; bucurați-vă de panorama vastă de iarnă și faceți o fotografie rapidă.",
+                "en": "The climb will warm you up, but it's windy at the top; enjoy the expansive winter panorama and take a quick photo of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "The Burton at Bideford",
+                "hu": "The Burton at Bideford",
+                "ro": "The Burton at Bideford",
+                "en": "The Burton at Bideford"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Aufwärmpause ein; das Café bietet heiße Getränke, die ideal sind, bevor es gegen 17:00 Uhr dunkel wird.",
+                "hu": "Tervezzen itt hosszabb melegedő szünetet; a kávézó forró italai ideálisak, mielőtt 17:00 körül teljesen besötétedne és lehűlne a levegő.",
+                "ro": "Planificați o pauză mai lungă de încălzire aici; cafeneaua oferă băuturi fierbinți ideale înainte de lăsarea întunericului în jurul orei 17:00.",
+                "en": "Plan a longer warm-up break here; the café's hot drinks are ideal before total darkness and cold set in around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im sanften Licht des späten Nachmittags; die beleuchteten Wege bieten eine sichere Fahrt zum Abschluss des Tages.",
+                "hu": "Zárja itt a túrát a késő délutáni lágy fényekben; a kivilágított utak biztonságos haladást tesznek lehetővé a nap végén.",
+                "ro": "Încheiați turul aici în lumina blândă a după-amiezii târzii; aleile iluminate oferă o deplasare sigură la finalul zilei.",
+                "en": "Conclude your ride here in the soft late-afternoon light; the illuminated paths ensure a safe journey as the winter day ends."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "A reggel tele van családi szórakozással, birkaversenyekkel a The BIG Sheep élményparkban. Délben Bideford központjába hajt, hogy böngésszen a piacon és gyönyörködjön a vízpartban. A délutáni autózás a part felé visz gokartozásra és minigolfozásra. Az estét egy békés séta zárja a Victoria Park gyönyörűen gondozott, nyugalmat árasztó kertjeiben.",
         "ro": "Dimineața este plină de distracție în familie, privind curse de oi la The BIG Sheep. Prânzul vă aduce în centrul Bidefordului pentru cumpărături și vederi la faleză. Plimbările de după-amiază vă duc spre coastă pentru go-kart și mini-golf. Seara se încheie liniștit cu o plimbare pașnică prin grădinile relaxante și verzi ale Victoria Park.",
         "en": "Morning is packed with family fun, watching sheep races and riding coasters at The BIG Sheep. Midday brings you into central Bideford for market browsing and waterfront views at the Quay. Afternoon drives take you toward the coast for competitive go-karting and mini-golf. Evening gently winds down with a peaceful stroll through the gardens of Victoria Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Bideford lässt sich ideal mit dem Auto bewältigen. Starten Sie bei The BIG Sheep, das viele Indoor-Attraktionen bietet. Parken Sie mittags am Pannier Market, um trocken einzukaufen. Nachmittags ist Pebble Ridge trotz Regen ein Erlebnis, gefolgt von einem kurzen Stopp am Kai. Den Tag beenden Sie entspannt mit einer Fahrt durch das nasse, aber grüne Victoria Park-Viertel.",
+            "hu": "Egy esős nap Bidefordban ideálisan felfedezhető autóval. Kezdjen a The BIG Sheep-nél, ahol számos fedett attrakció várja. Délben parkoljon a Pannier Marketnél a száraz vásárláshoz. Délután Pebble Ridge az esőben is különleges élmény, majd következhet egy rövid megálló a parton. Zárja a napot egy kényelmes autózással a vizes, de zöld Victoria Park környékén.",
+            "ro": "O zi ploioasă în Bideford poate fi parcursă ideal cu mașina. Începeți la The BIG Sheep, care oferă multe atracții interioare. La prânz, parcați lângă Piața Pannier pentru cumpărături la adăpost. După-amiaza, Pebble Ridge este o experiență deosebită chiar și pe ploaie, urmată de o oprire scurtă pe faleză.",
+            "en": "A rainy day in Bideford is best tackled by car. Start at The BIG Sheep, which boasts numerous indoor attractions. Park at the Pannier Market for dry shopping at midday. In the afternoon, Pebble Ridge is a unique experience even in the rain, followed by a short stop at the quay before ending the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The BIG Sheep",
+                "hu": "The BIG Sheep",
+                "ro": "The BIG Sheep",
+                "en": "The BIG Sheep"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die riesigen Indoor-Spielbereiche und Shows, um den Regen komplett zu vergessen; ideal für Familien an nassen Vormittagen.",
+                "hu": "Használja ki a hatalmas fedett játszótereket és bemutatókat, hogy teljesen elfelejtse az esőt; ideális családoknak vizes délelőttökön.",
+                "ro": "Profitați de zonele uriașe de joacă interioare și de spectacole pentru a uita de ploaie; ideal pentru familii în diminețile umede.",
+                "en": "Take full advantage of the massive indoor play areas and shows to forget the rain; it's the perfect family destination for wet mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Pannier Market",
+                "hu": "Bideford Pannier Market",
+                "ro": "Bideford Pannier Market",
+                "en": "Bideford Pannier Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahegelegenen Parkplatz, um den kurzen Weg zum Marktplatz trocken zu überbrücken; die Markthalle ist ein sicherer Hafen.",
+                "hu": "Parkoljon a közeli parkolóban, hogy szárazon tehesse meg a rövid utat a piacig; a csarnok biztos menedék a legnagyobb záporban is.",
+                "ro": "Parcați în parcarea din apropiere pentru a ajunge uscat la piață; hala pieței este un refugiu sigur chiar și în timpul ploilor torențiale.",
+                "en": "Park in the nearby lot to keep the short walk to the market dry; the historic market hall is a reliable sanctuary during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Quay",
+                "hu": "Bideford Quay",
+                "ro": "Bideford Quay",
+                "en": "Bideford Quay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss direkt aus dem warmen Auto; die Parkplätze am Kai bieten eine tolle Sicht auf den regnerischen Torridge.",
+                "hu": "Élvezze a folyóra nyíló kilátást közvetlenül a meleg autóból; a parti parkolók kiváló rálátást biztosítanak az esős Torridge folyóra.",
+                "ro": "Bucurați-vă de vederea la râu direct din mașina caldă; parcările de pe faleză oferă o perspectivă excelentă asupra râului Torridge pe ploaie.",
+                "en": "Enjoy the river views directly from your warm car; the quay parking spots offer a great vantage point of the rainy Torridge without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge Adventure Golf and Go Karts",
+                "hu": "Pebble Ridge Adventure Golf and Go Karts",
+                "ro": "Pebble Ridge Adventure Golf and Go Karts",
+                "en": "Pebble Ridge Adventure Golf and Go Karts"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Öffnungszeiten bei starkem Regen; die Go-Kart-Fahrt auf nasser Strecke bietet einen zusätzlichen Adrenalinkick.",
+                "hu": "Ellenőrizze az árakat és nyitvatartást erős esőben; a gokartozás a vizes pályán extra adrenalint és izgalmas kihívást jelenthet.",
+                "ro": "Verificați programul în caz de ploaie puternică; cursa de go-kart pe pista umedă oferă o doză suplimentară de adrenalină și distracție.",
+                "en": "Check opening times during heavy rain; a go-kart session on a wet track offers an extra adrenaline kick and a fun driving challenge."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Parkrand ermöglicht einen Blick ins Grüne; nutzen Sie die befestigten Wege für einen schnellen, trockenen Rundgang.",
+                "hu": "Egy rövid megálló a park szélén lehetővé teszi a zöld környezet élvezetét; használja a burkolt utakat egy gyors, száraz körúthoz.",
+                "ro": "O scurtă oprire la marginea parcului vă permite să vă bucurați de verdeață; folosiți aleile pavate pentru o plimbare rapidă și uscată.",
+                "en": "A brief stop at the park's edge allows you to enjoy the lush greenery; use the paved paths for a quick, relatively dry circuit of the grounds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterkomfort steht bei dieser Autotour im Vordergrund. Beginnen Sie bei The BIG Sheep mit seinen warmen Attraktionen. Der Pannier Market ist mittags der ideale Ort für winterliche Einkäufe. Nachmittags bietet Pebble Ridge frische Seeluft, bevor Sie den Kai im warmen Auto genießen. Beenden Sie den Tag gegen 17:00 Uhr im Victoria Park, wenn die Winterbeleuchtung die Stadt in ein sanftes Licht taucht.",
+            "hu": "A téli kényelem az első ezen az autós túrán. Kezdjen a The BIG Sheep-nél a meleg attrakciókkal. A Pannier Market délben ideális hely a téli vásárláshoz. Délután Pebble Ridge friss tengeri levegőt kínál, mielőtt a partot a meleg autóból csodálná meg. Zárja a napot 17:00 körül a Victoria Parkban, amikor a téli fények ünnepi díszbe öltöztetik a várost.",
+            "ro": "Confortul de iarnă este prioritar în acest tur cu mașina. Începeți la The BIG Sheep cu atracțiile sale calde. Piața Pannier este locul ideal la prânz pentru cumpărături de iarnă. După-amiaza, Pebble Ridge oferă aer marin proaspăt. Încheiați ziua în jurul orei 17:00 la Victoria Park, când luminile de iarnă decorează orașul.",
+            "en": "Winter comfort is the focus of this driving tour. Start at The BIG Sheep with its indoor warmth. The Pannier Market is the ideal midday spot for winter treats. In the afternoon, Pebble Ridge offers fresh sea air before you enjoy the quay from your car. End your day around 17:00 at Victoria Park as the winter lights begin to glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The BIG Sheep",
+                "hu": "The BIG Sheep",
+                "ro": "The BIG Sheep",
+                "en": "The BIG Sheep"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weihnachtlichen Events und die warmen Ställe; ein toller Ort, um den Wintertag in gemütlicher Umgebung zu beginnen.",
+                "hu": "Élvezze a karácsonyi eseményeket és a meleg istállókat; remek hely a téli nap indításához barátságos és fűtött környezetben.",
+                "ro": "Bucurați-vă de evenimentele de Crăciun și de grajdurile calde; un loc minunat pentru a începe ziua de iarnă într-un mediu primitor.",
+                "en": "Enjoy the seasonal Christmas events and the warm barns; it's a great place to start your winter day in a cozy and heated environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Pannier Market",
+                "hu": "Bideford Pannier Market",
+                "ro": "Bideford Pannier Market",
+                "en": "Bideford Pannier Market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach handgemachten Geschenken und wärmen Sie sich mit lokalem Gebäck auf; die Atmosphäre im Winter ist besonders einladend.",
+                "hu": "Keressen kézzel készült ajándékokat, és melegedjen fel helyi süteményekkel; a piac hangulata télen különösen barátságos és hívogató.",
+                "ro": "Căutați cadouri hand-made și încălziți-vă cu produse de patiserie locale; atmosfera pieței este deosebit de primitoare în timpul iernii.",
+                "en": "Look for handmade gifts and warm up with local pastries; the market's atmosphere is particularly welcoming and festive during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Bideford Quay",
+                "hu": "Bideford Quay",
+                "ro": "Bideford Quay",
+                "en": "Bideford Quay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für einen Moment am Wasser, um die Wintervögel auf dem Fluss zu beobachten; das Auto bietet dabei perfekten Schutz vor der Kälte.",
+                "hu": "Parkoljon le egy pillanatra a vízparton, hogy megfigyelje a folyón telelő madarakat; az autó közben tökéletes védelmet nyújt a metsző hideg ellen.",
+                "ro": "Parcați un moment lângă apă pentru a observa păsările de iarnă pe râu; mașina oferă protecție perfectă împotriva frigului tăios.",
+                "en": "Park for a moment by the water to observe the winter birds on the river; your car provides the perfect shield from the biting coastal cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge Adventure Golf and Go Karts",
+                "hu": "Pebble Ridge Adventure Golf and Go Karts",
+                "ro": "Pebble Ridge Adventure Golf and Go Karts",
+                "en": "Pebble Ridge Adventure Golf and Go Karts"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Aufenthalt an der frischen Meeresluft macht wach; wärmen Sie sich danach schnell im Auto auf dem Weg zum Park wieder auf.",
+                "hu": "Egy rövid időtöltés a friss tengeri levegőn felfrissíti; utána gyorsan melegedjen fel az autóban a park felé vezető úton.",
+                "ro": "O scurtă ședere în aerul curat al mării vă va revigora; încălziți-vă apoi rapid în mașină în drum spre parc.",
+                "en": "A brief stint in the fresh sea air will invigorate you; warm up quickly in the car afterwards on your way to the final park stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Park",
+                "hu": "Victoria Park",
+                "ro": "Victoria Park",
+                "en": "Victoria Park"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie gegen 17:00 Uhr, wie die Lichter der Stadt angehen; der Park bietet einen ruhigen Blick auf das nächtliche Winterpanorama.",
+                "hu": "Figyelje meg 17:00 körül, ahogy kigyúlnak a város fényei; a park csendes rálátást biztosít az éjszakai téli panorámára.",
+                "ro": "Observați în jurul orei 17:00 cum se aprind luminile orașului; parcul oferă o vedere liniștită asupra panoramei nocturne de iarnă.",
+                "en": "Observe the town lights flickering on around 17:00; the park provides a peaceful vantage point for the nocturnal winter panorama."
+              }
+            }
+          ]
+        }
       }
     }
   }

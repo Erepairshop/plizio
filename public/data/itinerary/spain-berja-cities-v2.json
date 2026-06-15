@@ -137,6 +137,168 @@
         "hu": "Kellemes reggeli sétánk Berja történelmi utcáin vezet keresztül, kezdve az ikonikus Torre de los Enciso-val. Délben a város árnyékos parkjaiban pihenünk, élvezve a természet nyugalmát. A délutánt olyan építészeti csodák és emlékművek jellemzik, mint a Cruz del Humilladero. A napot a helyi vallási szentélyek békés és elmélyült légkörében zárjuk le, egy csendes sétával.",
         "ro": "O plimbare matinală plăcută ne poartă pe străzile istorice din Berja, începând cu emblematicul Torre de los Enciso. La prânz ne relaxăm în parcurile umbrite ale orașului, bucurându-ne de natură. După-amiaza este marcată de minuni arhitecturale și monumente precum Cruz del Humilladero. Încheiem ziua în atmosfera pașnică și senină a sanctuarelor religioase locale.",
         "en": "A pleasant morning walk takes us through the historical streets of Berja, starting at the iconic Torre de los Enciso. At midday, we relax in the city's shaded parks, enjoying the tranquility of nature. The afternoon is characterized by architectural wonders and monuments such as the Cruz del Humilladero. We conclude the day in the peaceful atmosphere of the local religious sanctuaries."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Enciso-Turm wird von grauen Wolken begleitet, die einen sanften Regen über die Stadt bringen. Mittags bieten die Alleen der Parks zwar etwas Schutz unter den Bäumen, doch die Wege können rutschig sein. Am Nachmittag führt der Weg zum Kreuz von Humilladero, wo man die dramatische Wolkenstimmung genießen kann. Der Tag endet trocken in der prächtigen Kirche der Stadt.",
+            "hu": "A délelőtt az Enciso toronynál kezdődik, miközben az esőfelhők elfedik a hegyeket. Délben a parkok buja zöldje felfrissül a csapadéktól, de az ösvényeken vigyázni kell a tócsákra. Délután a Humilladero keresztjénél a ködös táj misztikus hangulatot áraszt. Az utazást a Nuestra Señora de las Mercedes templom belső terében zárjuk, ami biztos menedéket nyújt a felhőszakadás elől.",
+            "ro": "Dimineața la Turnul Enciso este marcată de nori cenușii și o ploaie ușoară care împrospătează aerul. La prânz, parcurile oferă un peisaj verde vibrant, dar aleile pot deveni alunecoase. După-amiaza, vizita la Crucea Humilladero necesită o pelerină de ploaie pentru a admira panorama încețoșată. Seara se încheie la adăpost, în interiorul bisericii monumentale, admirând detaliile arhitecturale.",
+            "en": "The morning at Enciso Tower starts with grey skies and a gentle drizzle refreshing the historic stones. At noon, the parks offer a lush green escape, though paths might be slippery under the rainfall. Afternoon brings a misty view at the Cross of Humilladero, requiring a good raincoat. The tour concludes safely indoors at the grand Church of las Mercedes, away from the evening showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enciso-Turm",
+                "hu": "Enciso torony",
+                "ro": "Turnul Enciso",
+                "en": "Enciso Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mudéjar-Details des Turms und nutzen Sie den Torbogen als trockenen Unterstand während eines Regenschauers.",
+                "hu": "Csodálja meg a torony mudéjar stílusát, és használja a kapualjat menedékként, ha hirtelen eleredne az eső a városnézés közben.",
+                "ro": "Admirați detaliile stilului mudéjar ale turnului și folosiți portalul acestuia ca adăpost uscat în timpul unei averse trecătoare.",
+                "en": "Admire the Mudéjar details of the tower and use its arched entrance as a dry shelter if a sudden rain shower starts during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Félix Rodríguez de la Fuente Park",
+                "hu": "Félix Rodríguez de la Fuente Park",
+                "ro": "Parcul Félix Rodríguez de la Fuente",
+                "en": "Félix Rodríguez de la Fuente Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft der nassen Erde zwischen den exotischen Pflanzen und achten Sie auf den rutschigen Untergrund bei den Statuen.",
+                "hu": "Élvezze a nedves föld illatát az egzotikus növények között, és ügyeljen a csúszós burkolatra a szobrok és sétányok környékén.",
+                "ro": "Bucurați-vă de mirosul pământului reavăn printre plantele exotice și aveți grijă la pavajul alunecos din apropierea statuilor.",
+                "en": "Enjoy the scent of damp earth among the exotic plants and watch your step on the slippery pavement near the statues and walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Park La Alpujarra",
+                "hu": "La Alpujarra Park",
+                "ro": "Parcul La Alpujarra",
+                "en": "La Alpujarra Park"
+              },
+              "tip_5lang": {
+                "de": "Die Brunnen verschmelzen mit dem Regen zu einer ruhigen Kulisse; finden Sie Schutz unter dem überdachten Pavillon im Parkzentrum.",
+                "hu": "A szökőkutak látványa esőben különösen megnyugtató; keressen menedéket a park központi fedett pavilonja alatt a zápor idejére.",
+                "ro": "Fântânile se contopesc cu ploaia într-un decor liniștitor; căutați adăpost sub pavilionul acoperit din centrul parcului pe durata averselor.",
+                "en": "The fountains blend with the rain for a peaceful scene; seek shelter under the covered gazebo in the park center during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kreuz von Humilladero",
+                "hu": "Humilladero keresztje",
+                "ro": "Crucea Humilladero",
+                "en": "Cross of Humilladero"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses historische Symbol vor der dramatischen Wolkenkulisse und tragen Sie feste Schuhe für den nassen Asphalt.",
+                "hu": "Tekintse meg ezt a történelmi szimbólumot a drámai felhők előtt, és viseljen tapadós talpú cipőt a vizes aszfalton való közlekedéshez.",
+                "ro": "Priviți acest simbol istoric pe fundalul dramatic al norilor și purtați încălțăminte aderentă pentru asfaltul ud din zonă.",
+                "en": "View this historical symbol against a dramatic cloudy backdrop and wear shoes with good grip for the wet asphalt in the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Nuestra Señora de las Mercedes",
+                "hu": "Nuestra Señora de las Mercedes templom",
+                "ro": "Biserica Nuestra Señora de las Mercedes",
+                "en": "Church of Nuestra Señora de las Mercedes"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das prächtige Innere der Kirche, das einen idealen und trockenen Abschluss für Ihren regnerischen Rundgang bietet.",
+                "hu": "Fedezze fel a templom lenyűgöző belső terét, amely tökéletes és száraz befejezést nyújt az esős városi sétának a nap végén.",
+                "ro": "Explorați interiorul impresionant al bisericii, care oferă un final perfect și uscat pentru plimbarea dumneavoastră prin oraș.",
+                "en": "Explore the impressive interior of the church, which provides a perfect and dry conclusion to your rainy city walk at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch am Enciso-Turm unter der tiefstehenden Sonne. Mittags wärmen die Sonnenstrahlen die Parkanlagen, doch der Wind aus der Sierra bleibt kühl. Am Nachmittag taucht das goldene Licht das Kreuz von Humilladero in eine besondere Atmosphäre. Da die Sonne gegen 17:00 Uhr untergeht, endet die Tour in der gemütlichen Stille der Kirche.",
+            "hu": "A friss téli reggel az Enciso toronynál indul, ahol a lemenő nap sugarai világítják meg a falakat. Délben a parkok napsütötte padjai kínálnak pihenőt, de a hegyi szél miatt réteges öltözet ajánlott. Délután a Humilladero keresztjénél élvezhetjük az utolsó fényeket. A nap 17:00 körül nyugszik, így az estét már a templom meleg csendjében töltjük.",
+            "ro": "O dimineață senină de iarnă începe la Turnul Enciso sub soarele blând, dar rece. La prânz, parcurile sunt scăldate în lumină, însă vântul dinspre munte necesită haine groase. După-amiaza, lumina aurie oferă o atmosferă specială la Crucea Humilladero. Deoarece soarele apune în jur de ora 17:00, turul se încheie în liniștea primitoare a bisericii.",
+            "en": "A crisp winter morning starts at Enciso Tower with clear skies and bright, low sun. At noon, the parks provide a sunny respite, but layered clothing is vital against the mountain breeze. Afternoon brings golden hues to the Cross of Humilladero. With sunset around 17:00, the tour ends in the peaceful warmth of the grand church as the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enciso-Turm",
+                "hu": "Enciso torony",
+                "ro": "Turnul Enciso",
+                "en": "Enciso Tower"
+              },
+              "tip_5lang": {
+                "de": "Das alte Mauerwerk leuchtet wunderschön in der tiefstehenden Wintersonne; ziehen Sie sich warm an, da es im Schatten kühl bleibt.",
+                "hu": "A régi falak gyönyörűen fénylenek a téli napsütésben; öltözzön melegen, mert az árnyékos részeken gyorsan lehűl a levegő.",
+                "ro": "Zidăria veche strălucește frumos în soarele de iarnă; îmbrăcați-vă gros, deoarece la umbră temperatura scade considerabil.",
+                "en": "The old stonework glows beautifully in the low winter sun; dress warmly as the shaded areas remain quite chilly throughout the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Félix Rodríguez de la Fuente Park",
+                "hu": "Félix Rodríguez de la Fuente Park",
+                "ro": "Parcul Félix Rodríguez de la Fuente",
+                "en": "Félix Rodríguez de la Fuente Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für einen Spaziergang in der Sonne und genießen Sie die klare Sicht auf die umliegenden Berge.",
+                "hu": "Használja ki a déli órákat a napsütötte sétára, és élvezze a tiszta kilátást a környező hófödte hegycsúcsokra a parkból.",
+                "ro": "Profitați de orele amiezii pentru o plimbare la soare și bucurați-vă de vizibilitatea clară asupra munților din jur prin coroanele rare.",
+                "en": "Take advantage of the noon sun for a pleasant walk and enjoy the clear views of the surrounding mountains from the park pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Park La Alpujarra",
+                "hu": "La Alpujarra Park",
+                "ro": "Parcul La Alpujarra",
+                "en": "La Alpujarra Park"
+              },
+              "tip_5lang": {
+                "de": "Die Winterruhe im Park ist ideal für Fotos; achten Sie auf gefrorenes Wasser an den Brunnenrändern bei starkem Frost.",
+                "hu": "A park téli nyugalma tökéletes a fotózáshoz; erős fagy esetén ügyeljen a szökőkutak szélein kialakuló jégrétegekre.",
+                "ro": "Liniștea iernii din parc este ideală pentru fotografii; aveți grijă la gheața ce se poate forma pe marginile fântânilor la temperaturi joase.",
+                "en": "The winter stillness in the park is ideal for photos; watch out for ice forming on the fountain edges during freezing mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kreuz von Humilladero",
+                "hu": "Humilladero keresztje",
+                "ro": "Crucea Humilladero",
+                "en": "Cross of Humilladero"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kreuz kurz vor Sonnenuntergang für ein tolles Lichtspiel und nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+                "hu": "Látogasson el a kereszthez röviddel naplemente előtt a fények miatt, és vigyen magával egy termoszt meleg teával a hideg ellen.",
+                "ro": "Vizitați crucea cu puțin timp înainte de apus pentru un joc de lumini superb și luați cu voi un termos cu ceai cald contra frigului.",
+                "en": "Visit the cross shortly before sunset for a beautiful play of light and carry a thermos with warm tea to stay cozy in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Nuestra Señora de las Mercedes",
+                "hu": "Nuestra Señora de las Mercedes templom",
+                "ro": "Biserica Nuestra Señora de las Mercedes",
+                "en": "Church of Nuestra Señora de las Mercedes"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum der Kirche ist ein friedlicher Zufluchtsort vor der Kälte; bewundern Sie die Kunstwerke in der warmen Atmosphäre.",
+                "hu": "A templom belső tere békés menedéket nyújt a kinti hideg elől; csodálja meg a műalkotásokat a meghitt, szélvédett környezetben.",
+                "ro": "Interiorul bisericii este un refugiu pașnic împotriva frigului; admirați operele de artă în atmosfera caldă și ferită de vânt.",
+                "en": "The church interior is a peaceful refuge from the cold outside; admire the artworks in the quiet, sheltered atmosphere as evening falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Sportos indulással kezdünk a Torre de los Enciso-nál, majd eltekerünk a kiterjedt Parque de La Alpujarra-hoz. Délben felfedezzük a középkori fürdőket és a lenyűgöző római amfiteátrum romjait. Délután Villavieja és az ősi arab fal maradványai felé vesszük az irányt, élvezve a kilátást. Este a kerékpározás fáradalmait a frissítő Piscina de la Tomillera medencéinél pihenjük ki.",
         "ro": "Începem sportiv la Torre de los Enciso, apoi pedalăm spre vastul Parque de La Alpujarra. La prânz explorăm băile medievale și ruinele impresionante ale amfiteatrului roman. După-amiaza ne îndreptăm spre rămășițele din Villavieja și vechiul zid arab, bucurându-ne de istorie. Seara ne relaxăm după efortul fizic la răcoroasa piscină La Tomillera, înconjurați de peisajul natural.",
         "en": "We start sportily at the Torre de los Enciso, then pedal to the extensive Parque de La Alpujarra. At midday, we explore the well-preserved medieval baths and the impressive ruins of the Roman amphitheater. In the afternoon, we head towards the remains of Villavieja and the ancient Arab wall. In the evening, we relax after the bike ride at the refreshing Piscina de la Tomillera."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt nass am Enciso-Turm, was Vorsicht auf den Pflastersteinen erfordert. Mittags führt die Fahrt durch den Park La Alpujarra, wo der Regen die Farben intensiviert. Nachmittags erkunden wir die historischen Stätten von Benejí und Villavieja, wobei Schutzbleche am Rad sehr ratsam sind. Die Tour endet am Schwimmbad, das im Regen eine melancholische Schönheit ausstrahlt.",
+            "hu": "A nap esőben indul az Enciso toronynál, ami fokozott figyelmet igényel a csúszós macskaköveken. Délben a La Alpujarra parkon át vezet az út, ahol az eső mélyíti a színeket. Délután Benejí és Villavieja történelmi romjait érintjük, ahol a sárvédő elengedhetetlen a kerékpáron. A túra a Tomillera medencénél ér véget, amely esős időben is különleges látványt nyújt.",
+            "ro": "Ziua începe cu ploaie la Turnul Enciso, necesitând prudență maximă pe pavajul ud. La prânz, traseul prin Parcul La Alpujarra oferă culori intense sub cerul înnorat. După-amiaza explorăm siturile din Benejí și Villavieja, unde aripile la bicicletă sunt esențiale împotriva noroiului. Turul se încheie la piscină, care emană o frumusețe melancolică sub picăturile de ploaie.",
+            "en": "The day starts wet at Enciso Tower, requiring extra caution on the slippery cobblestones. At noon, the ride through La Alpujarra Park offers vibrant colors intensified by the rain. Afternoon exploration of Benejí and Villavieja ruins needs mudguards on your bike to stay dry. The tour ends at the pool area, which radiates a unique, melancholic beauty during a rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enciso-Turm",
+                "hu": "Enciso torony",
+                "ro": "Turnul Enciso",
+                "en": "Enciso Tower"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Turm, da die nassen Straßen in Berja für Radfahrer tückisch sein können.",
+                "hu": "Ellenőrizze a fékeit a toronytól való indulás előtt, mivel Berja vizes utcái trükkösek és csúszósak lehetnek a kerékpárosoknak.",
+                "ro": "Verificați frânele înainte de a pleca de la turn, deoarece străzile ude din Berja pot fi înșelătoare pentru bicicliști.",
+                "en": "Check your brakes before departing from the tower, as the wet streets of Berja can be tricky and slippery for cyclists in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Park La Alpujarra",
+                "hu": "La Alpujarra Park",
+                "ro": "Parcul La Alpujarra",
+                "en": "La Alpujarra Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, um Pfützen zu vermeiden, und genießen Sie die frische, regengereinigte Luft unter den Bäumen.",
+                "hu": "Haladjon lassan a park ösvényein a tócsák elkerülése érdekében, és élvezze a friss, eső által megtisztított levegőt a fák alatt.",
+                "ro": "Mergeți încet pe aleile parcului pentru a evita bălțile și bucurați-vă de aerul proaspăt curățat de ploaie sub adăpostul copacilor.",
+                "en": "Ride slowly on the park paths to avoid puddles and enjoy the fresh, rain-cleaned air under the natural canopy of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Bäder in Benejí",
+                "hu": "Középkori fürdők Benejíben",
+                "ro": "Băile medievale din Benejí",
+                "en": "Medieval Baths in Benejí"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine können bei Nässe sehr glatt sein; parken Sie Ihr Rad sicher und erkunden Sie die Bäder vorsichtig zu Fuß.",
+                "hu": "Az ősi kövek nedvesen nagyon csúszósak lehetnek; parkolja le biztonságosan a biciklit, és óvatosan, gyalogosan fedezze fel a fürdőket.",
+                "ro": "Pietrele antice pot fi foarte alunecoase când sunt ude; parcați bicicleta în siguranță și explorați băile cu atenție, la pas.",
+                "en": "The ancient stones can be very slick when wet; park your bike securely and explore the baths carefully on foot to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Amphitheater",
+                "hu": "Római amfiteátrum",
+                "ro": "Amfiteatrul Roman",
+                "en": "Roman Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände um das Amphitheater kann schlammig werden; tragen Sie wasserfeste Überschuhe, um Ihre Füße beim Radeln trocken zu halten.",
+                "hu": "Az amfiteátrum körüli talaj sárossá válhat; viseljen vízálló cipővédőt, hogy lábai szárazak maradjanak a kerékpározás során.",
+                "ro": "Terenul din jurul amfiteatrului poate deveni noroios; purtați protecții impermeabile pentru încălțăminte ca să rămâneți uscați.",
+                "en": "The ground around the amphitheater can get muddy; wear waterproof shoe covers to keep your feet dry while cycling between the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Villavieja",
+                "hu": "Villavieja",
+                "ro": "Villavieja",
+                "en": "Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen von Villavieja bieten etwas Windschutz, aber achten Sie auf Wasserabflüsse, die über den Weg schießen könnten.",
+                "hu": "Villavieja szűk utcái némi szélvédettséget nyújtanak, de ügyeljen az úttesten átfolyó esővízre a lejtős szakaszokon.",
+                "ro": "Străzile înguste din Villavieja oferă protecție contra vântului, dar atenție la scurgerile de apă care pot traversa drumul.",
+                "en": "The narrow streets of Villavieja offer some wind protection, but watch out for rainwater runoff crossing the path on sloped sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Mauer von Villavieja",
+                "hu": "Villavieja arab fala",
+                "ro": "Zidul arab din Villavieja",
+                "en": "Arab Wall of Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den massiven Mauerresten kurz Schutz vor einem Schauer und genießen Sie den Blick auf das regnerische Tal.",
+                "hu": "Keressen rövid menedéket a masszív falmaradványok alatt egy-egy zápor idején, és élvezze a kilátást az eső áztatta völgyre.",
+                "ro": "Căutați un scurt adăpost sub resturile masive de zid în timpul unei averse și admirați valea pluvială de la înălțime.",
+                "en": "Seek brief shelter under the massive wall remains during a shower and enjoy the view of the rain-soaked valley from this vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad La Tomillera",
+                "hu": "La Tomillera medence",
+                "ro": "Piscina La Tomillera",
+                "en": "La Tomillera Pool"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Kälte nach dem Regen schnell einzieht; reflektierende Kleidung ist bei trübem Wetter wichtig.",
+                "hu": "Fejezze be gyorsan a túrát, mert az eső utáni lehűlés kellemetlen lehet; viseljen fényvisszaverő ruházatot a szürkületben.",
+                "ro": "Încheiați turul rapid deoarece frigul se instalează după ploaie; purtați haine reflectorizante pentru vizibilitate pe timp noros.",
+                "en": "Finish your tour promptly as it gets cold after the rain; wear reflective gear to stay visible in the overcast and dim conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger, aber sonniger Morgen lädt zur Radtour ab dem Enciso-Turm ein. Mittags genießen wir die kühle Brise im Park La Alpujarra, wobei Thermokleidung unverzichtbar ist. Die Fahrt zu den Bädern von Benejí und den römischen Ruinen führt durch klare Winterluft mit weiter Fernsicht. Da es nach 16:30 Uhr schnell abkühlt, erreichen wir Villavieja und das Schwimmbad noch vor dem frühen Sonnenuntergang.",
+            "hu": "Fagyos, de napsütötte reggel hívogat kerékpározásra az Enciso toronytól. Délben a La Alpujarra park hűvös szellőit élvezzük, ahol a termo-ruházat nélkülözhetetlen. A benejíi fürdők és a római romok felé vezető úton a kristálytiszta téli levegőben messzire ellátni. Mivel 16:30 után gyorsan hűl a levegő, Villavieját és a medencét még a korai naplemente előtt elérjük.",
+            "ro": "O dimineață gerosoasă, dar însorită, invită la o tură cu bicicleta de la Turnul Enciso. La prânz, briza rece din Parcul La Alpujarra face necesară îmbrăcămintea termică. Traseul spre băile din Benejí și ruinele romane oferă o vizibilitate excelentă datorită aerului curat de iarnă. Deoarece se răcește rapid după ora 16:30, ajungem la Villavieja și la piscină înainte de apusul timpuriu.",
+            "en": "A frosty but sunny morning invites a bike ride starting from Enciso Tower. At noon, we enjoy the cool breeze in La Alpujarra Park, where thermal clothing is essential for comfort. The ride to Benejí baths and Roman ruins offers crystal clear winter air and long-distance views. As it cools down quickly after 16:30, we reach Villavieja and the pool area just before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enciso-Turm",
+                "hu": "Enciso torony",
+                "ro": "Turnul Enciso",
+                "en": "Enciso Tower"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die erste Abfahrt; die Wintermorgen in den Bergen können beim Radfahren sehr schneidend sein.",
+                "hu": "Viseljen meleg kesztyűt az induláshoz; a hegyvidéki téli reggelek metszően hidegek lehetnek a kerékpáron a menetszél miatt.",
+                "ro": "Purtați mănuși groase pentru prima coborâre; diminețile de iarnă la munte pot fi tăioase când pedalați în viteză.",
+                "en": "Wear warm gloves for the initial descent; winter mornings in the mountains can be very biting when cycling against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Park La Alpujarra",
+                "hu": "La Alpujarra Park",
+                "ro": "Parcul La Alpujarra",
+                "en": "La Alpujarra Park"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne blendet beim Radeln; eine Sonnenbrille hilft, die winterliche Pracht des Parks sicher zu genießen.",
+                "hu": "Az alacsonyan járó nap elvakíthat kerékpározás közben; egy napszemüveg segít a park téli szépségének biztonságos élvezetében.",
+                "ro": "Soarele jos vă poate orbi în timp ce pedalați; o pereche de ochelari de soare vă va ajuta să vedeți clar potecile parcului.",
+                "en": "The low winter sun can be blinding while cycling; wear sunglasses to safely enjoy the wintry beauty of the park pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Bäder in Benejí",
+                "hu": "Középkori fürdők Benejíben",
+                "ro": "Băile medievale din Benejí",
+                "en": "Medieval Baths in Benejí"
+              },
+              "tip_5lang": {
+                "de": "Die historische Atmosphäre wirkt im Winterlicht fast magisch; halten Sie sich durch Bewegung warm, während Sie die Ruinen erkunden.",
+                "hu": "A történelmi atmoszféra szinte mágikus a téli fényben; maradjon mozgásban a romok felfedezése közben, hogy megőrizze testhőjét.",
+                "ro": "Atmosfera istorică pare aproape magică în lumina iernii; rămâneți în mișcare în timp ce explorați ruinele pentru a vă menține căldura.",
+                "en": "The historical atmosphere feels almost magical in the winter light; keep moving while exploring the ruins to stay warm in the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Amphitheater",
+                "hu": "Római amfiteátrum",
+                "ro": "Amfiteatrul Roman",
+                "en": "Roman Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die offene Lage macht das Gelände windanfällig; eine winddichte Jacke schützt Sie vor dem Auskühlen bei der Besichtigung.",
+                "hu": "A nyitott fekvés miatt a terület szélnek kitett; egy szélálló dzseki megvédi Önt a lehűléstől a romok megtekintése során.",
+                "ro": "Locația deschisă face terenul vulnerabil la vânt; o jachetă rezistentă la vânt vă va proteja de frig în timpul vizitei.",
+                "en": "The open location makes the site prone to wind; a windproof jacket will protect you from cooling down while viewing the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Villavieja",
+                "hu": "Villavieja",
+                "ro": "Villavieja",
+                "en": "Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die geschützten Gassen für eine kurze Trinkpause und genießen Sie die Ruhe des Viertels in der Nebensaison.",
+                "hu": "Használja ki a szélvédett utcákat egy rövid ivószünetre, és élvezze a negyed csendjét a téli holtszezon idején.",
+                "ro": "Folosiți străzile adăpostite pentru o scurtă pauză de hidratare și bucurați-vă de liniștea cartierului în extrasezon.",
+                "en": "Use the sheltered narrow streets for a quick hydration break and enjoy the quietness of the district during the winter off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Mauer von Villavieja",
+                "hu": "Villavieja arab fala",
+                "ro": "Zidul arab din Villavieja",
+                "en": "Arab Wall of Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Das Panorama der Sierra de Gádor ist im Winter besonders klar; machen Sie Ihre Fotos, bevor die Sonne hinter den Bergen verschwindet.",
+                "hu": "A Sierra de Gádor panorámája télen különösen tiszta; készítse el fotóit, mielőtt a nap végleg eltűnik a hegyek mögött.",
+                "ro": "Panorama asupra Sierra de Gádor este extrem de clară iarna; faceți poze înainte ca soarele să dispară după crestele munților.",
+                "en": "The panorama of the Sierra de Gádor is exceptionally clear in winter; take your photos before the sun vanishes behind the peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad La Tomillera",
+                "hu": "La Tomillera medence",
+                "ro": "Piscina La Tomillera",
+                "en": "La Tomillera Pool"
+              },
+              "tip_5lang": {
+                "de": "Gegen 17:00 Uhr wird es merklich dunkler; sorgen Sie für eine funktionierende Beleuchtung an Ihrem Fahrrad für den Rückweg.",
+                "hu": "17:00 óra után érezhetően sötétedik; gondoskodjon a kerékpár megfelelő világításáról a biztonságos hazatérés érdekében.",
+                "ro": "După ora 17:00 se întunecă vizibil; asigurați-vă că aveți lumini funcționale la bicicletă pentru drumul de întoarcere.",
+                "en": "It gets noticeably darker after 17:00; ensure you have working lights on your bike for a safe return journey as the cold sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "A nap egy látványos utazással kezdődik a Peñón de Santa Lucía felé, ahol lélegzetelállító kilátás vár ránk. Délben Berja történelmébe merülünk vallási helyszíneken és az ősi erődített tornyoknál. A délután elvisz minket a római amfiteátrum lenyűgöző romjaihoz és Villavieja régészeti kincseihez. A napot a jól megőrzött, nyugalmat árasztó középkori fürdőknél zárjuk.",
         "ro": "Ziua începe cu o plimbare spectaculoasă până la Peñón de Santa Lucía, unde ne așteaptă priveliști uimitoare. La prânz pătrundem adânc în istoria orașului la siturile religioase și turnurile vechi. După-amiaza ne duce la ruinele impresionante ale amfiteatrului roman și la comorile arheologice din Villavieja. Încheiem ziua vizitând băile medievale, admirând ingineria de odinioară.",
         "en": "The day begins with a spectacular drive to the Peñón de Santa Lucía, where breathtaking views await us. Around midday, we dive deep into Berja's history at religious sites and ancient fortified towers. The afternoon brings us to the impressive ruins of the Roman amphitheater and the archaeological treasures of Villavieja. We end the day admiring the engineering of the medieval baths."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt sicher im Auto mit der Fahrt zum Felsen von Santa Lucía, wo man den Blick aus dem Trockenen genießen kann. Mittags besuchen wir die Kirche und den Enciso-Turm, wobei nur kurze Sprints durch den Regen nötig sind. Nachmittags erkunden wir die römischen und arabischen Stätten, wobei man die Heizung zum Aufwärmen nutzen kann. Die Tour endet entspannt bei den Bädern von Benejí.",
+            "hu": "Az esős nap biztonságban, az autóban kezdődik a Santa Lucía sziklájánál, ahonnan szárazon élvezhetjük a kilátást. Délben a templomot és az Enciso tornyot látogatjuk meg, csak rövid szakaszokat kell megtenni az esőben. Délután a római és arab emlékeket fedezzük fel, miközben az autó fűtése segít megszáradni. A túra kényelmesen, a benejíi fürdőknél zárul.",
+            "ro": "Ziua ploioasă începe în siguranța mașinii cu o vizită la Stânca Sfintei Lucia, admirând peisajul de la adăpost. La prânz vizităm biserica și Turnul Enciso, fiind necesare doar scurte deplasări prin ploaie. După-amiaza explorăm siturile romane și arabe, folosind încălzirea mașinii pentru confort. Turul se încheie relaxat la băile medievale din Benejí.",
+            "en": "The rainy day starts safely in the car with a drive to the Rock of Santa Lucía, where you can enjoy the view from the dry interior. At noon, we visit the church and Enciso Tower, with only short dashes through the rain needed. Afternoon is spent exploring Roman and Arab sites, using the car heater to stay warm. The tour concludes comfortably at the Medieval Baths in Benejí."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Felsen von Santa Lucía",
+                "hu": "Santa Lucía sziklája",
+                "ro": "Stânca Sfintei Lucia",
+                "en": "Rock of Santa Lucía"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Aussicht durch die Windschutzscheibe genießen können, wenn der Regen gerade zu stark für einen Spaziergang ist.",
+                "hu": "Parkoljon úgy, hogy a szélvédőn keresztül élvezhesse a kilátást, ha az eső éppen túl intenzív lenne egy rövid kinti sétához.",
+                "ro": "Parcați astfel încât să puteți admira vederea prin parbriz dacă ploaia este prea intensă pentru o plimbare scurtă pe afară.",
+                "en": "Park in a way that allows you to enjoy the view through the windshield if the rain is too heavy for a short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Nuestra Señora de las Mercedes",
+                "hu": "Nuestra Señora de las Mercedes templom",
+                "ro": "Biserica Nuestra Señora de las Mercedes",
+                "en": "Church of Nuestra Señora de las Mercedes"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in der Nähe; nutzen Sie einen Regenschirm für den kurzen Weg zum Eingang dieses beeindruckenden Bauwerks.",
+                "hu": "A közelben több parkolóhely is található; használjon esernyőt az épület bejáratáig tartó rövid, de vizes sétához.",
+                "ro": "Există locuri de parcare în apropiere; folosiți o umbrelă pentru scurta plimbare până la intrarea acestei structuri impresionante.",
+                "en": "There are parking spots nearby; use an umbrella for the short walk to the entrance of this impressive neoclassical structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Enciso-Turm",
+                "hu": "Enciso torony",
+                "ro": "Turnul Enciso",
+                "en": "Enciso Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf enge Kurven bei Regen; der Turm bietet unter seinem Vordach Schutz, während Sie seine Geschichte studieren.",
+                "hu": "Ügyeljen a szűk kanyarokra esőben; a torony bejárati része menedéket nyújt, miközben a kihelyezett információs táblákat olvassa.",
+                "ro": "Atenție la curbele strânse pe timp de ploaie; turnul oferă adăpost sub portalul său în timp ce îi studiați istoria fascinantă.",
+                "en": "Watch out for tight turns in the rain; the tower's entrance provides shelter while you read about its fascinating history."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Amphitheater",
+                "hu": "Római amfiteátrum",
+                "ro": "Amfiteatrul Roman",
+                "en": "Roman Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf unbefestigten Abschnitten; die Ruinen wirken im Regen besonders archaisch und sind einen kurzen Stopp wert.",
+                "hu": "Vezessen óvatosan a burkolatlan szakaszokon; a romok esőben különösen archaikus hatást keltenek, megérnek egy rövid megállót.",
+                "ro": "Conduceți cu atenție pe porțiunile neasfaltate; ruinele par extrem de arhaice în ploaie și merită o scurtă oprire foto.",
+                "en": "Drive carefully on unpaved sections; the ruins look particularly archaic in the rain and are well worth a quick photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Villavieja",
+                "hu": "Villavieja",
+                "ro": "Villavieja",
+                "en": "Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Nässe rutschig sein; genießen Sie das historische Viertel und parken Sie auf befestigten Flächen.",
+                "hu": "A felvezető út vizesen csúszós lehet; élvezze a történelmi negyed látványát, és igyekezzen szilárd burkolatú helyen parkolni.",
+                "ro": "Accesul poate fi alunecos pe timp umed; bucurați-vă de cartierul istoric și parcați pe suprafețe consolidate pentru siguranță.",
+                "en": "The access road can be slippery when wet; enjoy the historic district and try to park on paved surfaces for better safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Mauer von Villavieja",
+                "hu": "Villavieja arab fala",
+                "ro": "Zidul arab din Villavieja",
+                "en": "Arab Wall of Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt, der auch bei Regen vom Auto aus gut erreichbar ist; nutzen Sie das weiche Licht für stimmungsvolle Bilder.",
+                "hu": "Kiváló kilátópont, amely esőben is könnyen elérhető autóval; használja ki a szórt fényeket a hangulatos tájképek készítéséhez.",
+                "ro": "Un punct de observație excelent, ușor accesibil cu mașina și pe ploaie; profitați de lumina difuză pentru fotografii de atmosferă.",
+                "en": "An excellent viewpoint easily accessible by car even in rain; take advantage of the soft light for atmospheric landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Bäder in Benejí",
+                "hu": "Középkori fürdők Benejíben",
+                "ro": "Băile medievale din Benejí",
+                "en": "Medieval Baths in Benejí"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie die Heizung im Auto an, während Sie kurz die Bäder besichtigen; wasserfeste Kleidung ist für den Weg vom Parkplatz nötig.",
+                "hu": "Kapcsolja be az autó fűtését a fürdők rövid megtekintése alatt; a parkolótól a bejáratig vízálló öltözet ajánlott a záporban.",
+                "ro": "Porniți încălzirea în mașină în timp ce vizitați scurt băile; hainele impermeabile sunt necesare pentru drumul de la parcare.",
+                "en": "Turn on the car heater while you briefly visit the baths; waterproof clothing is recommended for the walk from the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An diesem klaren Wintermorgen genießen wir die Fahrt zum Felsen von Santa Lucía bei bester Fernsicht. Mittags besuchen wir die Kirche und den Enciso-Turm, wobei die tiefstehende Sonne die Stadt in warmes Licht taucht. Die historische Tour zu den römischen und arabischen Ruinen am Nachmittag ist im beheizten Auto sehr angenehm. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag bei den Bädern in Benejí.",
+            "hu": "Ezen a tiszta téli reggelen a Santa Lucía sziklája felé autózva élvezhetjük a legjobb látási viszonyokat. Délben a templomot és az Enciso tornyot látogatjuk meg, miközben az alacsony nap meleg fénybe vonja a várost. A délutáni történelmi túra a római és arab romoknál kifejezetten kellemes a fűtött autóban. Mivel 17:00-kor sötétedik, a napot a benejíi fürdőknél zárjuk.",
+            "ro": "În această dimineață senină de iarnă, ne bucurăm de drumul spre Stânca Sfintei Lucia cu o vizibilitate maximă. La prânz vizităm biserica și Turnul Enciso, în timp ce soarele jos scaldă orașul în lumină caldă. Turul istoric de după-amiază la ruinele romane și arabe este foarte plăcut în mașina încălzită. Deoarece se întunecă la ora 17:00, încheiem ziua la băile din Benejí.",
+            "en": "On this clear winter morning, we enjoy the drive to the Rock of Santa Lucía with excellent visibility. At noon, we visit the church and Enciso Tower as the low sun bathes the town in warm golden light. The afternoon historical tour of Roman and Arab ruins is very pleasant in the heated car. With darkness falling at 17:00, we conclude our day at the Medieval Baths in Benejí."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Felsen von Santa Lucía",
+                "hu": "Santa Lucía sziklája",
+                "ro": "Stânca Sfintei Lucia",
+                "en": "Rock of Santa Lucía"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist sehr klar, was den Blick über das Tal spektakulär macht; ein kurzes Aussteigen für Fotos lohnt sich trotz Kälte.",
+                "hu": "A téli levegő nagyon tiszta, így a völgyre nyíló kilátás lenyűgöző; a hideg ellenére érdemes kiszállni egy-két fotó erejéig.",
+                "ro": "Aerul de iarnă este foarte curat, ceea ce face vederea peste vale spectaculoasă; merită să coborâți scurt pentru fotografii superbe.",
+                "en": "The winter air is very clear, making the view over the valley spectacular; it is worth stepping out briefly for photos despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Nuestra Señora de las Mercedes",
+                "hu": "Nuestra Señora de las Mercedes templom",
+                "ro": "Biserica Nuestra Señora de las Mercedes",
+                "en": "Church of Nuestra Señora de las Mercedes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den geschützten Parkplatz und genießen Sie die angenehme Stille im Kirchenschiff als Pause von der winterlichen Brise.",
+                "hu": "Használja a szélvédett parkolót, és élvezze a templomhajó kellemes csendjét, amely tökéletes pihenőt nyújt a téli szél elől.",
+                "ro": "Folosiți parcarea protejată și bucurați-vă de liniștea plăcută din nava bisericii ca o pauză binevenită de la briza iernatică.",
+                "en": "Use the sheltered parking nearby and enjoy the pleasant silence inside the church as a break from the biting winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Enciso-Turm",
+                "hu": "Enciso torony",
+                "ro": "Turnul Enciso",
+                "en": "Enciso Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und kann beim Fahren in den Gassen blenden; halten Sie Ihre Sonnenbrille auch im Winter griffbereit.",
+                "hu": "Az alacsonyan járó nap elvakíthat a szűk utcákban való vezetéskor; tartsa kéznél napszemüvegét a téli városnézés során is.",
+                "ro": "Soarele este jos și vă poate orbi când conduceți pe străduțe; păstrați ochelarii de soare la îndemână chiar și în timpul iernii.",
+                "en": "The sun is low and can be blinding when driving through the narrow streets; keep your sunglasses handy even during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Amphitheater",
+                "hu": "Római amfiteátrum",
+                "ro": "Amfiteatrul Roman",
+                "en": "Roman Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen liegen am Nachmittag im Schatten; ziehen Sie eine warme Jacke an, bevor Sie das Auto zur Besichtigung verlassen.",
+                "hu": "A romok délután már árnyékban vannak; vegyen fel meleg dzsekit, mielőtt kiszállna az autóból a terület bejárásához.",
+                "ro": "Ruinele sunt în umbră după-amiaza; puneți-vă o jachetă groasă înainte de a coborî din mașină pentru a vizita situl.",
+                "en": "The ruins are in shadow by the afternoon; put on a warm jacket before leaving the comfort of the car to explore the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Villavieja",
+                "hu": "Villavieja",
+                "ro": "Villavieja",
+                "en": "Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Viertel im sanften Winterlicht; die Wege sind trocken, aber die Temperaturen sinken hier oben merklich.",
+                "hu": "Fedezze fel a negyedet a lágy téli fényben; az utak szárazak, de a hőmérséklet itt fent érezhetően alacsonyabb a városénál.",
+                "ro": "Explorați cartierul în lumina blândă a iernii; drumurile sunt uscate, dar temperaturile scad vizibil în această zonă înaltă.",
+                "en": "Explore the district in the soft winter light; the paths are dry, but temperatures drop noticeably here compared to the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Mauer von Villavieja",
+                "hu": "Villavieja arab fala",
+                "ro": "Zidul arab din Villavieja",
+                "en": "Arab Wall of Villavieja"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Fotostopp vor der Dämmerung; die verschneiten Gipfel der Sierra Nevada sind oft in der Ferne zu sehen.",
+                "hu": "Tökéletes egy gyors fotómegállóhoz a szürkület előtt; a távolban gyakran látni a Sierra Nevada hófödte csúcsait is.",
+                "ro": "Perfect pentru o scurtă oprire foto înainte de amurg; culmile înzăpezite ale Sierra Nevada se văd adesea în depărtare.",
+                "en": "Perfect for a quick photo stop before twilight; the snowy peaks of the Sierra Nevada are often visible in the far distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Bäder in Benejí",
+                "hu": "Középkori fürdők Benejíben",
+                "ro": "Băile medievale din Benejí",
+                "en": "Medieval Baths in Benejí"
+              },
+              "tip_5lang": {
+                "de": "Die Tour endet bei Sonnenuntergang gegen 17:00 Uhr; genießen Sie die mystische Stimmung der beleuchteten Bäder in der Kälte.",
+                "hu": "A túra naplementekor, 17:00 körül ér véget; élvezze a kivilágított fürdők misztikus hangulatát a csípős esti hidegben.",
+                "ro": "Turul se încheie la apus, în jur de ora 17:00; bucurați-vă de atmosfera mistică a băilor iluminate în frigul serii.",
+                "en": "The tour ends at sunset around 17:00; enjoy the mystical atmosphere of the illuminated baths in the biting evening cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

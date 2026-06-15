@@ -137,6 +137,168 @@
         "hu": "A reggel egy kellemes tengerparti sétával indul, amely során felfedezheti a Bagni Ste és a Bagni Ciccio megnyugtató atmoszféráját.\n\nDélben a Bagni Nino pezsgő energiája várja, ahol a helyi strandkultúra igazán életre kel a szikrázó napsütésben.\n\nDélután az utazás a szárazföld belseje felé fordul, hogy megtapasztalhassa a Santuario Madonna dell'Ulivo lelki nyugalmát.\n\nAz este a történelmi Castellónál éri utol, amely lélegzetelállító naplementés kilátást nyújt a gyönyörű Chiavari városára.",
         "ro": "Dimineața începe cu o plimbare blândă de-a lungul coastei, explorând atmosferele liniștitoare de la malul mării din Bagni Ste și Bagni Ciccio.\n\nAmiaza aduce o energie vibrantă la Bagni Nino, unde cultura locală a plajei prinde cu adevărat viață sub soarele cald.\n\nDupă-amiaza, călătoria se îndreaptă spre interiorul orașului către seninătatea spirituală a Santuario Madonna dell'Ulivo.\n\nSeara coboară pe măsură ce ajungeți la istoricul Castello, oferind priveliști uluitoare la apus peste frumosul oraș Chiavari.",
         "en": "Morning begins with a gentle stroll along the coast, exploring the calming seaside atmospheres of Bagni Ste and Bagni Ciccio.\n\nMidday brings a vibrant energy at Bagni Nino, where the local beach culture truly comes alive under the bright sun.\n\nIn the afternoon, the journey turns inland towards the spiritual serenity of the beautiful Santuario Madonna dell'Ulivo.\n\nEvening falls as you reach the historic Castello, offering breathtaking sunset views over the picturesque town of Chiavari."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch, aber die Arkaden von Chiavari bieten idealen Schutz beim Gehen. Mittags empfiehlt es sich, unter den historischen Portici im Zentrum zu bleiben. Am Nachmittag ist auf dem Weg zum Heiligtum Vorsicht geboten, da die gepflasterten Pfade sehr rutschig sein können. Abends spiegeln die nassen Gassen das sanfte Licht der Laternen stimmungsvoll wider.",
+            "hu": "Reggel a tengerparti szél és az eső ellen a történelmi árkádok nyújtanak menedéket. Délben a központban, a dóm környékén keressünk fedett helyet a portikuszok alatt. Délután a domboldali kegyhelyek felé az út csúszós lehet, vigyázzunk a lépteinkre. Este a város esti fényei az esőben gyönyörűen tükröződnek a nedves kövön.",
+            "ro": "Dimineața aduce ploaie pe coastă, dar arcadele din Chiavari oferă adăpostul perfect pentru plimbare. La prânz, rămâneți sub porticurile istorice din centrul vechi pentru a evita umezeala. După-amiaza, drumul spre sanctuar poate fi alunecos, deci purtați încălțăminte cu talpă aderentă. Seara se încheie cu străzile umede reflectând romantic luminile calde ale orașului.",
+            "en": "Morning brings coastal rain, but Chiavari's famous arcades offer perfect shelter for walkers. By noon, stay under the protective porticos near the historic center. Afternoon climbs to the sanctuary require sturdy waterproof boots as the stone paths become quite slippery. Evening settles in with rain-slicked streets reflecting the warm glow of the streetlamps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Ste",
+                "hu": "Bagni Ste",
+                "ro": "Bagni Ste",
+                "en": "Bagni Ste"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Rauschen der Wellen im Regen von der überdachten Terrasse aus; bringen Sie wasserfeste Schuhe für den Strandspaziergang mit, da der Sand nass ist.",
+                "hu": "Élvezze a tenger morajlását az esőben is a fedett terasz védelmében; hozzon magával vízálló lábbelit a parti sétához, mert a homok ilyenkor nagyon mély és nedves.",
+                "ro": "Bucurați-vă de sunetul valurilor pe timp de ploaie de pe terasa acoperită; purtați încălțăminte impermeabilă pentru plimbarea pe plajă, deoarece nisipul este ud.",
+                "en": "Enjoy the sound of the crashing waves even in the rain from the covered terrace; bring waterproof footwear for the beach walk as the sand is heavy and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Ciccio",
+                "hu": "Bagni Ciccio",
+                "ro": "Bagni Ciccio",
+                "en": "Bagni Ciccio"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das graue Meer ist melancholisch schön; ein stabiler Regenschirm ist hier wegen der Küstenwinde unerlässlich, um die frische Meeresbrise zu genießen.",
+                "hu": "A szürke tenger és a nedves part látványa melankolikusan szép; egy erős esernyő kötelező kellék itt a tengerparti szél miatt a friss levegő élvezetéhez.",
+                "ro": "Vederea mării cenușii este de o frumusețe melancolică; o umbrelă rezistentă este esențială aici din cauza vântului de coastă pentru a savura briza mării.",
+                "en": "The view of the grey sea is melancholically beautiful; a sturdy umbrella is an essential accessory here due to coastal winds while enjoying the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Nino",
+                "hu": "Bagni Nino",
+                "ro": "Bagni Nino",
+                "en": "Bagni Nino"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Wasseroberfläche vom Schutz des Daches aus; achten Sie auf glatte Steine auf dem Weg zurück zur befestigten Straße.",
+                "hu": "Figyelje meg az esőcseppek kopogását a tenger felszínén a védelmet nyújtó tető alól; ügyeljen a csúszós kövekre a kiépített útra való visszatérés során.",
+                "ro": "Observați picăturile de ploaie pe suprafața mării de sub protecția acoperișului; atenție la pietrele alunecoase de pe drumul de întoarcere spre calea pavată.",
+                "en": "Watch the raindrops hitting the sea surface from the safety of the roofed area; be careful of slippery stones on your way back to the paved road."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna dell'Ulivo",
+                "hu": "Santuario Madonna dell'Ulivo",
+                "ro": "Santuario Madonna dell'Ulivo",
+                "en": "Santuario Madonna dell'Ulivo"
+              },
+              "tip_5lang": {
+                "de": "Die Stille des Heiligtums bietet eine perfekte Zuflucht vor dem Regen; der Blick auf das neblige Meer vom Hügel aus wirkt bei diesem Wetter fast mystisch.",
+                "hu": "A kegyhely belső csendje tökéletes menedéket nyújt a zápor elől; a dombról nyíló kilátás a párás tengerre ilyenkor egészen misztikus és különleges látvány.",
+                "ro": "Liniștea sanctuarului oferă un refugiu perfect împotriva ploii; vederea mării încețoșate de pe deal are un aspect aproape mistic în aceste condiții meteo.",
+                "en": "The sanctuary's quiet interior offers a perfect refuge from the rain; the view of the misty sea from the hill looks almost mystical in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello",
+                "hu": "Castello",
+                "ro": "Castello",
+                "en": "Castello"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie innerhalb der Burgmauern nach überdachten Bereichen für das Panorama; die Gartenwege können bei Regen schlammig sein, bleiben Sie auf den Steinen.",
+                "hu": "A várfalak között keressen fedett részeket a panoráma megcsodálásához; a kerti ösvények sárban csúszósak lehetnek, maradjon inkább a kövezett szakaszokon.",
+                "ro": "Căutați zone acoperite în interiorul zidurilor castelului pentru panoramă; potecile din grădină pot fi noroioase, deci rămâneți pe secțiunile pavate.",
+                "en": "Look for covered areas within the castle walls to enjoy the panorama; garden paths can be slippery in the mud, so stick to the paved sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und kühl; Schichtkleidung ist für den Küstenspaziergang unerlässlich. Mittags wärmt die Sonne etwas, doch der Seewind bleibt schneidend kalt. Erreichen Sie die Burg unbedingt vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Der Abend bricht früh an und lädt in die gemütliche Wärme der lokalen Cafés ein.",
+            "hu": "A téli reggel friss és csípős, a tengerparti sétányon jól jön a réteges öltözet a szél ellen. Délben a napsütés még melegítheti az arcunkat, de a szél hűvös marad. Délután a korai naplemente előtt érdemes elérni a várat a kilátásért. Az este korán köszönt be, a kávézók melege ilyenkor hívogató.",
+            "ro": "Dimineața de iarnă este rece și tăioasă; îmbrăcămintea stratificată este esențială pentru plimbarea pe faleză. La prânz, soarele poate fi plăcut, dar briza mării rămâne răcoroasă. Ajungeți la castel neapărat înainte de apusul de la ora 17:00. Seara vine repede, iar căldura cafenelelor locale devine foarte primitoare.",
+            "en": "The winter morning is crisp and chilly; layered clothing is essential for the coastal walk. By noon, the sun might offer some warmth, but the sea breeze remains sharp. Be sure to reach the castle before the early sunset at 5:00 PM for the best light. Evening arrives early, making cozy cafes very inviting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Ste",
+                "hu": "Bagni Ste",
+                "ro": "Bagni Ste",
+                "en": "Bagni Ste"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf das winterliche Meer ist erfrischend, aber der Wind ist kalt; tragen Sie mehrere Schichten und vergessen Sie Ihre Mütze für den Spaziergang nicht.",
+                "hu": "A téli tenger látványa frissítő, de a tengerparti szél hideg; öltözzön rétegesen és ne felejtse el a sapkát a sétához a fagyos fuvallatok ellen.",
+                "ro": "Vederea mării iarna este revigorantă, dar vântul de pe coastă este rece; îmbrăcați-vă în straturi și nu uitați căciula pentru plimbarea pe malul apei.",
+                "en": "The view of the winter sea is refreshing, but the coastal wind is cold; dress in layers and don't forget your hat for the walk against the chilly breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Ciccio",
+                "hu": "Bagni Ciccio",
+                "ro": "Bagni Ciccio",
+                "en": "Bagni Ciccio"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist jetzt leer und ideal für einsame Wanderungen; nutzen Sie das klare Winterlicht für Fotos, bevor es am späten Nachmittag dunkler wird.",
+                "hu": "A part ilyenkor üres és csendes, kiváló a magányos sétákhoz; használja ki a tiszta téli fényeket fotózáshoz, mielőtt késő délután sötétedni kezdene.",
+                "ro": "Plaja este goală acum, ideală pentru plimbări solitare; profitați de lumina clară de iarnă pentru fotografii înainte ca după-amiaza să devină întunecată.",
+                "en": "The beach is empty and quiet now, perfect for solitary walks; take advantage of the clear winter light for photos before it gets dark in late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Nino",
+                "hu": "Bagni Nino",
+                "ro": "Bagni Nino",
+                "en": "Bagni Nino"
+              },
+              "tip_5lang": {
+                "de": "Das Sonnenlicht glitzert wunderschön auf dem Wasser, aber suchen Sie sich eine windgeschützte Ecke, um die Kälte nicht zu spüren; ein heißer Tee hilft.",
+                "hu": "A téli napfény szépen csillog a vízen, de keressen szélvédett sarkot a pihenéshez, hogy ne fázzon; egy termoszban hozott forró tea sokat segíthet.",
+                "ro": "Lumina soarelui sclipește frumos pe apă, dar căutați un colț ferit de vânt pentru a nu simți frigul; un ceai fierbinte este binevenit pentru pauză.",
+                "en": "The winter sunlight glitters beautifully on the water, but find a wind-sheltered corner to rest from the cold; hot tea in a thermos is a great help."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna dell'Ulivo",
+                "hu": "Santuario Madonna dell'Ulivo",
+                "ro": "Santuario Madonna dell'Ulivo",
+                "en": "Santuario Madonna dell'Ulivo"
+              },
+              "tip_5lang": {
+                "de": "In den Innenräumen des Heiligtums ist es angenehm; die klare Winterluft ermöglicht ein Panorama, das bei guter Sicht bis weit zum Horizont reicht.",
+                "hu": "A kegyhely belső tereiben ilyenkor is kellemes a hőmérséklet; a tiszta téli levegőben a panoráma egészen a távoli horizontig ellát tiszta időben.",
+                "ro": "În interiorul sanctuarului temperatura este plăcută; aerul clar de iarnă permite o panoramă care se întinde până la orizont în zilele însorite.",
+                "en": "The sanctuary's interior remains pleasant in winter; the clear air allows for a panorama that reaches far across the horizon on sunny days."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello",
+                "hu": "Castello",
+                "ro": "Castello",
+                "en": "Castello"
+              },
+              "tip_5lang": {
+                "de": "Der Wintersonnenuntergang ist hier gegen 17:00 Uhr am schönsten; bringen Sie eine Taschenlampe für den Abstieg mit, da es nach dem Sonnenuntergang schnell kühl wird.",
+                "hu": "A téli naplemente innen a legszebb délután öt órakor; hozzon zseblámpát a leereszkedéshez, mert a naplemente után hirtelen lehűl a levegő.",
+                "ro": "Apusul de iarnă este cel mai frumos aici în jurul orei 17:00; aduceți o lanternă pentru coborâre, deoarece se întunecă și se răcește rapid după apus.",
+                "en": "The winter sunset is most beautiful from here at 5:00 PM; bring a flashlight for the descent as it gets dark and cold very quickly after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli tekerés a lenyűgöző természeti park zöldellő tájain kezdődik, amelyet egy békés megálló követ a Madonna delle Grazie szentélynél.\n\nDélben legurul a tengerpartra, hogy élvezze a frissítő sós szellőt a Bagni Ste nyugodt és barátságos partszakaszán.\n\nDélután a pedálozás felfelé, a Santuario Madonna dell'Ulivo és a történelmi San Martino di Maxena templom felé veszi az irányt.\n\nAz este közeledtével egy utolsó, kihívást jelentő emelkedő várja a Castellóhoz, ahol fenséges alkonyati panoráma nyílik a völgyre.",
         "ro": "Cursa ta de dimineață începe în peisajele luxuriante ale Parcului Natural, urmată de o oprire senină și liniștită la Madonna delle Grazie.\n\nLa amiază te vei plimba pe coastă, prinzând briza răcoroasă a mării la plaja relaxantă de la Bagni Ste.\n\nPedalarea de după-amiază te poartă spre Santuario Madonna dell'Ulivo și la istorica biserică San Martino di Maxena.\n\nPe măsură ce se apropie seara, o ultimă urcare plină de satisfacții te aduce la Castello pentru o panoramă maiestuoasă de amurg a văii.",
         "en": "Your morning ride kicks off in the lush landscapes of the Parco Naturale, followed by a serene stop at the beautiful Madonna delle Grazie.\n\nMidday sees you cruising down to the coast, catching the refreshing sea breezes at the relaxed seaside setting of Bagni Ste.\n\nAfternoon pedaling takes you gently uphill towards Santuario Madonna dell'Ulivo and the historic San Martino di Maxena.\n\nAs evening approaches, a rewarding final climb brings you to the Castello for a majestic twilight panorama over the entire valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Morgen können die Wege im Portofino-Park schlammig sein; bleiben Sie auf asphaltierten Radwegen. Mittags bieten die kühlen Innenräume der Heiligtümer eine trockene Pause vom Nieselregen. Vorsicht bei Abfahrten am Nachmittag, da Bremsen auf nassem Asphalt länger brauchen. Der Abend ist stimmungsvoll auf den glänzenden Straßen.",
+            "hu": "Az esős reggelen a Portofino Park ösvényei sarasak lehetnek, válasszunk inkább aszfaltozott utat a tekeréshez. Délben a kegyhelyek belső terei nyújtanak száraz pihenőt az eső elől. Délután a lejtőkön a fékek ellenőrzése létfontosságú a csúszós aszfalt miatt. Este a városi kivilágítás kísér a nedves utakon.",
+            "ro": "Într-o dimineață ploioasă, potecile din Parcul Portofino pot fi noroioase; alegeți rutele asfaltate pentru ciclism. La prânz, interioarele liniștite ale sanctuarelor oferă un răgaz uscat. După-amiaza, coborârile necesită prudență maximă din cauza asfaltului ud. Seara pedalatul este plăcut pe străzile luminate ce lucesc frumos în ploaie.",
+            "en": "On a rainy morning, Portofino Park trails can be muddy; stick to paved cycling routes for safety. By noon, the quiet interiors of the sanctuaries offer a dry break from the persistent drizzle. Afternoon descents require careful braking on the slick tarmac. Evening cycling is atmospheric as the rain-washed streets glow under the lamps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Naturale Regionale di Portofino",
+                "hu": "Parco Naturale Regionale di Portofino",
+                "ro": "Parco Naturale Regionale di Portofino",
+                "en": "Parco Naturale Regionale di Portofino"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen, da die Waldpfade tiefgründig schlammig sind; benutzen Sie unbedingt Schutzbleche an Ihrem Fahrrad gegen Spritzwasser.",
+                "hu": "Maradjon az aszfaltozott főutakon, mivel az erdei ösvények mélyen sarasak; használjon sárvédőt a kerékpárján, hogy megvédje ruházatát a felverődő víztől.",
+                "ro": "Rămâneți pe drumurile principale asfaltate, deoarece potecile din pădure sunt pline de noroi; folosiți apărători la bicicletă pentru a vă proteja de stropi.",
+                "en": "Stay on the paved main roads as the forest trails are deep in mud; use mudguards on your bike to protect your clothes from water splashes and dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonna delle Grazie",
+                "hu": "Madonna delle Grazie",
+                "ro": "Madonna delle Grazie",
+                "en": "Madonna delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Die Steine vor der Kirche sind bei Nässe extrem rutschig, steigen Sie lieber ab; unter dem Vordach können Sie trocken den Blick auf das Meer genießen.",
+                "hu": "A templom előtti kövek esőben rendkívül csúszósak, ezért szálljon le a bicikliről; a tető alatt szárazon csodálhatja meg a tengerre nyíló kilátást.",
+                "ro": "Pietrele din fața bisericii sunt extrem de alunecoase pe ploaie, deci coborâți de pe bicicletă; sub streașină puteți admira marea fără a vă uda.",
+                "en": "The stones in front of the church are extremely slippery when wet, so dismount your bike; under the porch, you can dryly admire the sea view."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Ste",
+                "hu": "Bagni Ste",
+                "ro": "Bagni Ste",
+                "en": "Bagni Ste"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenabschnitt kann bei Regen sehr windig sein, halten Sie den Lenker fest; machen Sie eine Pause auf der überdachten Terrasse, bevor Sie weiterradeln.",
+                "hu": "A tengerparti szakasz szeles lehet az esőben, ezért tartsa stabilan a kormányt; a fedett teraszon tartson egy rövid pihenőt a továbbhaladás előtt.",
+                "ro": "Secțiunea de coastă poate fi vântoasă pe ploaie, deci țineți bine ghidonul; faceți o pauză pe terasa acoperită înainte de a continua drumul.",
+                "en": "The coastal section can be very windy during rain, so hold your handlebars firmly; take a short break on the covered terrace before cycling further."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna dell'Ulivo",
+                "hu": "Santuario Madonna dell'Ulivo",
+                "ro": "Santuario Madonna dell'Ulivo",
+                "en": "Santuario Madonna dell'Ulivo"
+              },
+              "tip_5lang": {
+                "de": "Nasses Laub auf der Straße zum Heiligtum kann tückisch sein, fahren Sie langsam; die Stille des Innenraums ist ideal, um einen starken Schauer abzuwarten.",
+                "hu": "A kegyhelyhez vezető úton a nedves levelek csúszóssá tehetik az aszfaltot, hajtson lassabban; a belső csend ideális egy erősebb zápor átvészelésére.",
+                "ro": "Frunzele ude de pe drumul spre sanctuar pot fi înșelătoare, deci pedalați lent; liniștea interiorului este ideală pentru a aștepta trecerea unei averse.",
+                "en": "Wet leaves on the road to the sanctuary can be treacherous, so cycle slowly; the quiet interior is ideal for waiting out a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "San Martino di Maxena",
+                "hu": "San Martino di Maxena",
+                "ro": "San Martino di Maxena",
+                "en": "San Martino di Maxena"
+              },
+              "tip_5lang": {
+                "de": "Der Bremsweg verlängert sich auf nasser Fahrbahn erheblich, halten Sie mehr Abstand; die Kirche bietet einen geschützten Ort für eine kurze Verschnaufpause.",
+                "hu": "A féktávolság jelentősen megnő a nedves úton, ezért tartson nagyobb követési távolságot; a templom védett helyet kínál egy rövid pihenőhöz.",
+                "ro": "Distanța de frânare crește considerabil pe carosabil ud, deci păstrați distanța; biserica oferă un loc protejat pentru o scurtă pauză de odihnă.",
+                "en": "Braking distance increases significantly on wet roads, so keep a safe distance; the church provides a sheltered spot for a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello",
+                "hu": "Castello",
+                "ro": "Castello",
+                "en": "Castello"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den Wegen rund um die Burg, die tiefer sein können als gedacht; nutzen Sie die Vorsprünge für Fotos der regnerischen Stadt.",
+                "hu": "Figyeljen a pocsolyákra a vár körüli utakon, mivel mélyebbek lehetnek a vártnál; használja a vár kiszögelléseit az esős város fotózásához.",
+                "ro": "Atenție la bălțile de pe drumurile din jurul castelului, care pot fi mai adânci decât par; folosiți cornișele pentru fotografii cu orașul sub ploaie.",
+                "en": "Watch out for puddles on the paths around the castle, as they might be deeper than expected; use the castle overhangs to photograph the rainy city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgen bieten eine klare Sicht im Park, aber Fahrradhandschuhe sind gegen den kalten Fahrtwind ein Muss. Mittags sollten Sie in der Sonne fahren, um die Körperwärme zu halten. Da es um 17:00 Uhr dunkel wird, ist eine gute Beleuchtung für die Fahrt zur Burg wichtig. Der Abend endet mit dem gemütlichen Schein der beleuchteten Altstadt.",
+            "hu": "A téli reggelen a tiszta levegő kiváló látótávolságot biztosít a parkban, de a kesztyű kötelező a menetszél ellen. Délben a napos szakaszokon kerékpározzunk, hogy megőrizzük a testhőt. Délután ötkor már sötétedik, legyen jó világításunk a várhoz vezető úton. Este a kivilágított főtér meleg hangulata vár.",
+            "ro": "Diminețile de iarnă oferă o vizibilitate excelentă în parc, dar mănușile sunt obligatorii împotriva vântului rece. La prânz, pedalați pe secțiunile însorite pentru a vă menține căldura corporală. Seara vine devreme, la ora 17:00, deci asigurați-vă că luminile sunt aprinse. Finalul zilei aduce atmosfera caldă a pieței centrale.",
+            "en": "Winter mornings offer crystal-clear views in the park, but cycling gloves are a must against the cold wind. At noon, stick to sunny stretches to maintain body warmth during the ride. Afternoon brings an early sunset at 5:00 PM, so ensure your bike lights are bright for the castle climb. Evening ends with the cozy glow of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Naturale Regionale di Portofino",
+                "hu": "Parco Naturale Regionale di Portofino",
+                "ro": "Parco Naturale Regionale di Portofino",
+                "en": "Parco Naturale Regionale di Portofino"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär, aber in schattigen Waldabschnitten ist es deutlich kühler; halten Sie sich durch stetiges Treten warm.",
+                "hu": "A téli kilátás lenyűgöző, de az árnyékos erdei szakaszokon jóval hidegebb van; tartsa magát melegen folyamatos és egyenletes pedálozással.",
+                "ro": "Panorama de iarnă este spectaculoasă, dar în secțiunile umbrite de pădure este mult mai frig; mențineți-vă căldura pedalând constant pe tot traseul.",
+                "en": "Winter views are spectacular, but shaded forest sections are much cooler; keep yourself warm by maintaining a steady and constant pedaling pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonna delle Grazie",
+                "hu": "Madonna delle Grazie",
+                "ro": "Madonna delle Grazie",
+                "en": "Madonna delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet oft, tragen Sie eine Sonnenbrille beim Radfahren; nutzen Sie die windgeschützte Fassade für eine kurze Sonnenpause.",
+                "hu": "Az alacsonyan járó téli nap gyakran vakít, viseljen napszemüveget tekerés közben; használja a szélvédett falakat egy rövid, napos pihenőre.",
+                "ro": "Soarele jos de iarnă poate fi orbitor, deci purtați ochelari de soare când pedalați; folosiți fațada ferită de vânt pentru o scurtă pauză la soare.",
+                "en": "The low winter sun can be blinding, so wear sunglasses while cycling; use the wind-sheltered walls of the church for a brief sunny break."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Ste",
+                "hu": "Bagni Ste",
+                "ro": "Bagni Ste",
+                "en": "Bagni Ste"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter sehr kalt, tragen Sie ein Halstuch; genießen Sie den leeren Strandabschnitt, bevor Sie sich für die nächste Steigung bereit machen.",
+                "hu": "A tengeri szél télen nagyon hideg, viseljen sálat vagy csősálat; élvezze az üres partot, mielőtt felkészülne a következő kaptatóra a kerékpárral.",
+                "ro": "Briza mării este foarte rece iarna, purtați un fular pentru protecție; bucurați-vă de plaja goală înainte de a vă pregăti pentru următoarea urcare.",
+                "en": "The sea breeze is very cold in winter, so wear a neck warmer; enjoy the empty beach section before preparing for the next cycling incline."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna dell'Ulivo",
+                "hu": "Santuario Madonna dell'Ulivo",
+                "ro": "Santuario Madonna dell'Ulivo",
+                "en": "Santuario Madonna dell'Ulivo"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Anstieg kühlt der Körper schnell aus, ziehen Sie für die Pause eine Jacke über; die Aussicht bei klarem Winterhimmel ist hier oben einmalig.",
+                "hu": "A kaptató után a test gyorsan lehűlhet, vegyen fel egy plusz réteget a pihenőhöz; a kilátás a tiszta téli égbolt alatt itt a legszebb.",
+                "ro": "După urcare corpul se răcește rapid, puneți o jachetă în timpul pauzei; vederea sub cerul clar de iarnă este absolut unică de aici de sus.",
+                "en": "After the climb, your body cools down quickly, so put on an extra layer during the break; the view under the clear winter sky is unique here."
+              }
+            },
+            {
+              "name": {
+                "de": "San Martino di Maxena",
+                "hu": "San Martino di Maxena",
+                "ro": "San Martino di Maxena",
+                "en": "San Martino di Maxena"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf feuchte Stellen in Kurven, die im Winter kaum abtrocknen; die besinnliche Ruhe der Kirche passt perfekt zur klaren Winterstimmung.",
+                "hu": "Ügyeljen a kanyarokban a nedves foltokra, amelyek télen alig száradnak fel; a templom csendje tökéletesen illik a tiszta téli hangulathoz.",
+                "ro": "Atenție la porțiunile umede în curbe, care iarna se usucă greu; liniștea contemplativă a bisericii se potrivește perfect cu atmosfera clară de iarnă.",
+                "en": "Watch out for damp patches in the bends that hardly dry out in winter; the contemplative silence of the church matches the clear winter mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello",
+                "hu": "Castello",
+                "ro": "Castello",
+                "en": "Castello"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Burg vor 17:00 Uhr, um das Glühen des Horizonts zu sehen; prüfen Sie Ihre Beleuchtung für die anschließende Fahrt in die Stadt.",
+                "hu": "Érje el a várat délután 5 előtt, hogy láthassa a horizont vöröses izzását; ellenőrizze a világítását a városba való visszatérés előtt.",
+                "ro": "Ajungeți la castel înainte de ora 17:00 pentru a vedea apusul spectaculos; verificați luminile bicicletei pentru drumul de întoarcere spre oraș.",
+                "en": "Reach the castle before 5:00 PM to see the horizon glow; check your bike lights for the subsequent ride back down into the town center."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggeli autózás a Monte Telegrafo lenyűgöző történelmi magasságaival és a Parco Naturale lélegzetelállító szikláival veszi kezdetét.\n\nDélben a festői szárazföldi utakon navigálva meglátogathatja a rusztikus Sant'Antonino Martire és San Martino di Maxena templomokat.\n\nA délután folyamán felfedezheti a középkori Castello impozáns falait és a kulturálisan gazdag Santuario Madonna dell'Ulivo szentélyt.\n\nAz estéje egy pihentető tengerparti megállóval zárul a Bagni Nino nyüzsgő partjainál, a tenger sós illatával a levegőben.",
         "ro": "Plimbarea de dimineață începe cu înălțimile istorice fascinante de la Monte Telegrafo și stâncile uluitoare din Parco Naturale.\n\nAmiaza este petrecută navigând pe drumurile pitorești interioare pentru a vizita rusticul Sant'Antonino Martire și San Martino di Maxena.\n\nÎn timpul după-amiezii, veți explora zidurile impunătoare ale castelului medieval și Santuario Madonna dell'Ulivo, o zonă bogată cultural.\n\nSeara se încheie cu o oprire relaxantă pe malul mării la Bagni Nino, unde vă puteți bucura de apusul de soare liniștit pe coastă.",
         "en": "The morning drive starts with the fascinating historical heights of Monte Telegrafo and the breathtaking coastal cliffs of the Parco Naturale.\n\nMidday is spent peacefully navigating the picturesque inland roads to visit the rustic Sant'Antonino Martire and San Martino di Maxena.\n\nDuring the afternoon, you will explore the imposing walls of the medieval Castello and the culturally rich Santuario Madonna dell'Ulivo.\n\nYour evening smoothly concludes with a relaxing and refreshing seaside stop at the lively beachfront of Bagni Nino."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "An einem regnerischen Morgen können die Küstenstraßen neblig sein; fahren Sie vorsichtig in den Kurven. Mittags parken Sie nah an den Kapellen und nutzen einen stabilen Regenschirm für die kurzen Wege. Die Fahrt zur Burg am Nachmittag verlangt Aufmerksamkeit auf nasser Fahrbahn. Der Abendregen bietet vom Auto aus ein schönes Lichterspiel am Hafen.",
+            "hu": "Az esős reggelen a panorámautak párásak lehetnek, vezessünk fokozott óvatossággal a kanyarokban. Délben a kegyhelyek közelében parkoljunk le, és használjuk az esernyőt a rövid sétákhoz. Délután a várhoz vezető út csúszós lehet. Az esti esőben a kikötő fényei különleges látványt nyújtanak a védett autóból.",
+            "ro": "Într-o dimineață ploioasă, drumurile de coastă pot fi cețoase; conduceți cu atenție sporită în curbe. La prânz, parcați aproape de sanctuare și folosiți umbrela pentru scurtele vizite la interior. După-amiaza, urcarea spre castel necesită prudență pe carosabilul ud. Seara, ploaia creează un spectacol de lumini în port, vizibil din mașină.",
+            "en": "On a rainy morning, scenic coastal roads can be misty; drive carefully through the bends. At noon, park near the sanctuaries and use a sturdy umbrella for the short walks to the entrances. Afternoon climbs to the castle require caution on wet slopes. Evening rain creates a beautiful light show in the harbor as seen from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "manufatto ex Monte Telegrafo",
+                "hu": "manufatto ex Monte Telegrafo",
+                "ro": "manufatto ex Monte Telegrafo",
+                "en": "manufatto ex Monte Telegrafo"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht eingeschränkt sein, fahren Sie die engen Wege langsam an; genießen Sie den Blick auf die tosende See aus dem sicheren Auto.",
+                "hu": "Erős esőben a látótávolság korlátozott lehet, lassan hajtson a szűk utakon; élvezze a háborgó tenger látványát a biztonságos, száraz autóból.",
+                "ro": "Pe ploaie torențială vizibilitatea poate fi redusă, deci conduceți lent pe drumurile înguste; admirați marea agitată din confortul mașinii.",
+                "en": "In heavy rain, visibility can be limited, so drive slowly on the narrow roads; enjoy the view of the stormy sea from the safety of your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale di Portofino",
+                "hu": "Parco Naturale Regionale di Portofino",
+                "ro": "Parco Naturale Regionale di Portofino",
+                "en": "Parco Naturale Regionale di Portofino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Untergrund, um nicht im Schlamm steckenzubleiben; ein kurzer Spaziergang mit Regenjacke zum Aussichtspunkt lohnt sich trotz des Wetters.",
+                "hu": "Maradjon a szilárd burkolatú parkolókban, hogy elkerülje az elakadást a sárban; egy rövid séta esőkabátban a kilátóhoz az időjárás ellenére is megéri.",
+                "ro": "Parcați pe suprafețe solide pentru a evita noroiul; o scurtă plimbare cu pelerină de ploaie până la punctul de belvedere merită în ciuda vremii.",
+                "en": "Stick to paved parking areas to avoid getting stuck in the mud; a short walk with a raincoat to the viewpoint is worth it despite the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Antonino Martire di Sanguineto",
+                "hu": "Sant'Antonino Martire di Sanguineto",
+                "ro": "Sant'Antonino Martire di Sanguineto",
+                "en": "Sant'Antonino Martire di Sanguineto"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Dorf sind schmal und bei Nässe rutschig, achten Sie auf Gegenverkehr; die Kirche bietet einen trockenen Ort für stille Momente im Regen.",
+                "hu": "A faluba vezető utak szűkek és vizesen csúszósak, figyeljen a szembejövő forgalomra; a templom csendes és száraz helyet kínál az eső elől.",
+                "ro": "Drumurile spre sat sunt înguste și alunecoase când sunt ude, atenție la trafic; biserica oferă un loc uscat și liniștit pentru a evita ploaia.",
+                "en": "The roads to the village are narrow and slippery when wet, so watch for oncoming traffic; the church provides a quiet and dry place to stay out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "San Martino di Maxena",
+                "hu": "San Martino di Maxena",
+                "ro": "San Martino di Maxena",
+                "en": "San Martino di Maxena"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Scheibenwischer auf höchster Stufe für die beste Sicht in den Kurven; parken Sie direkt am Eingang, um möglichst trocken in die Kirche zu kommen.",
+                "hu": "Használja a szélvédőtörlőt a legjobb látási viszonyokért a kanyarokban; parkoljon közvetlenül a bejáratnál, hogy minél szárazabban jusson be a templomba.",
+                "ro": "Folosiți ștergătoarele la viteză maximă pentru vizibilitate bună în curbe; parcați chiar lângă intrare pentru a ajunge uscat în interiorul bisericii.",
+                "en": "Use your windshield wipers on the highest setting for better visibility in bends; park close to the entrance to reach the church as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello",
+                "hu": "Castello",
+                "ro": "Castello",
+                "en": "Castello"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg erfordert bei Regen volle Konzentration wegen Aquaplaning-Gefahr; genießen Sie den dramatischen Blick auf die graue Küste vom Auto aus.",
+                "hu": "A várba való feljutás esőben teljes koncentrációt igényel a csúszásveszély miatt; élvezze a drámai kilátást a szürke partvonalra a védett autóból.",
+                "ro": "Urcarea la castel necesită concentrare maximă pe ploaie din cauza riscului de derapare; admirați vederea dramatică asupra coastei din mașină.",
+                "en": "The climb to the castle requires full concentration during rain due to slippery roads; enjoy the dramatic view of the grey coastline from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna dell'Ulivo",
+                "hu": "Santuario Madonna dell'Ulivo",
+                "ro": "Santuario Madonna dell'Ulivo",
+                "en": "Santuario Madonna dell'Ulivo"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto laufen, um die Scheiben beschlagfrei zu halten, während Sie parken; der Weg zum Kircheneingang ist kurz, aber halten Sie den Schirm fest.",
+                "hu": "Hagyja járni a motort a páramentesítéshez, amíg várakozik a parkolóban; a templomig vezető út rövid, de tartsa erősen az esernyőt a szélben.",
+                "ro": "Lăsați motorul pornit pentru dezaburire în timp ce parcați; drumul până la intrarea în biserică este scurt, dar țineți bine umbrela în vânt.",
+                "en": "Keep the engine running for defogging while you park; the walk to the church entrance is short, but hold your umbrella firmly against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Nino",
+                "hu": "Bagni Nino",
+                "ro": "Bagni Nino",
+                "en": "Bagni Nino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Fahrt entlang der Uferstraße und beobachten Sie die Brandung; die Lichter der Stadt spiegeln sich wunderschön in den Pfützen.",
+                "hu": "Zárja a napot a tengerparti úton való autózással, figyelve a hullámverést; a város fényei gyönyörűen csillognak a pocsolyákban az út mentén.",
+                "ro": "Încheiați ziua cu o plimbare cu mașina pe faleză, observând valurile; luminile orașului se reflectă superb în bălțile de pe marginea drumului.",
+                "en": "End the day with a drive along the coastal road, watching the waves; the city lights reflect beautifully in the puddles along the seaside path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Wintersicht aus dem warmen Auto, aber achten Sie auf schattige, glatte Stellen auf den Höhenwegen. Mittags ist die Fahrt entlang der sonnigen Küste besonders reizvoll für Fotos. Besuchen Sie die Burg am Nachmittag unbedingt vor dem Sonnenuntergang um 17:00 Uhr. Abendliche Fahrten zeigen die beleuchtete Küste unter den Sternen.",
+            "hu": "A téli reggelen a tiszta égbolt alatt az autóban is élvezhetjük a tájat, de vigyázzunk a fagypont alatti, csúszós szakaszokra. Délben a napfényben fürdő part menti úton autózzunk a legjobb fényekért. Délután a korai sötétedés miatt a várat még világosban látogassuk meg. Este a város fényei a tengerparti útról nézve lenyűgözőek.",
+            "ro": "Bucurați-vă de peisajul de iarnă din căldura mașinii, dar atenție la porțiunile de drum umbrite care pot fi înghețate. La prânz, conduceți pe faleză pentru a surprinde cea mai frumoasă lumină mediteraneană. Vizitați castelul după-amiaza înainte de apusul de la ora 17:00. Seara, drumul pe coastă oferă o panoramă superbă a orașului.",
+            "en": "Enjoy the crisp winter views from the warmth of your car, but watch for icy patches on shaded high roads. At noon, cruise along the sunny coastline for the best Mediterranean light. Afternoon visits to the castle should be timed before the early 5:00 PM sunset. Evening drives reveal the stunningly lit coastline under the winter stars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "manufatto ex Monte Telegrafo",
+                "hu": "manufatto ex Monte Telegrafo",
+                "ro": "manufatto ex Monte Telegrafo",
+                "en": "manufatto ex Monte Telegrafo"
+              },
+              "tip_5lang": {
+                "de": "Bei klarem Winterwetter reicht die Sicht bis nach Korsika, halten Sie die Ferngläser bereit; die Parkplätze sind im Winter meist leer und gut zugänglich.",
+                "hu": "Tiszta téli időben a kilátás akár Korzikáig is ellátszhat, készítse elő a távcsövet; a parkolók ilyenkor üresek és könnyen megközelíthetőek az autóval.",
+                "ro": "Pe vreme clară de iarnă vizibilitatea ajunge până în Corsica, pregătiți binoclul; parcările sunt de regulă libere și ușor accesibile cu mașina.",
+                "en": "In clear winter weather, the view can reach as far as Corsica, so have your binoculars ready; parking areas are usually empty and easy to access now."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Naturale Regionale di Portofino",
+                "hu": "Parco Naturale Regionale di Portofino",
+                "ro": "Parco Naturale Regionale di Portofino",
+                "en": "Parco Naturale Regionale di Portofino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung des Autos für die Fahrt durch die kühleren Bergzonen; die tiefstehende Sonne bietet fantastische Kontraste für Ihre Landschaftsfotos.",
+                "hu": "Használja az autó fűtését a hűvösebb hegyi szakaszokon való áthaladáshoz; az alacsonyan járó nap fantasztikus kontrasztokat ad a tájfotókhoz.",
+                "ro": "Folosiți căldura din mașină pentru drumul prin zonele montane mai reci; soarele jos oferă contraste fantastice pentru fotografiile de peisaj.",
+                "en": "Use your car's heater during the drive through the cooler mountain zones; the low sun provides fantastic contrasts for your landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant'Antonino Martire di Sanguineto",
+                "hu": "Sant'Antonino Martire di Sanguineto",
+                "ro": "Sant'Antonino Martire di Sanguineto",
+                "en": "Sant'Antonino Martire di Sanguineto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif in schattigen Kurven, die Straßen zum Dorf können glatt sein; im Winter herrscht hier eine besonders andächtige Stille.",
+                "hu": "Ügyeljen a dérre az árnyékos kanyarokban, a faluba vezető utak jegesek lehetnek; télen itt különleges, áhítatos csend várja a látogatót a templomnál.",
+                "ro": "Atenție la chiciură în curbele umbrite, drumurile spre sat pot fi alunecoase; iarna aici domnește o liniște pioasă deosebită în jurul bisericii.",
+                "en": "Watch for frost in shaded bends, as the roads to the village can be slick; in winter, a particularly devout silence awaits visitors here at the church."
+              }
+            },
+            {
+              "name": {
+                "de": "San Martino di Maxena",
+                "hu": "San Martino di Maxena",
+                "ro": "San Martino di Maxena",
+                "en": "San Martino di Maxena"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um das Auto aufzuwärmen, während Sie die Kirche besuchen; das klare Winterlicht bringt die Farben der Fassade zum Leuchten.",
+                "hu": "Parkoljon napos helyen, hogy az autó felmelegedjen, amíg Ön a templomot látogatja; a tiszta téli fényben a homlokzat színei szinte ragyognak.",
+                "ro": "Parcați la soare pentru ca mașina să se încălzească în timp ce vizitați biserica; lumina clară de iarnă face culorile fațadei să strălucească frumos.",
+                "en": "Park in a sunny spot so the car warms up while you visit the church; the clear winter light makes the colors of the facade practically glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello",
+                "hu": "Castello",
+                "ro": "Castello",
+                "en": "Castello"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie rechtzeitig zum Sonnenuntergang um 17:00 Uhr hoch, um das Farbspiel zu erleben; die Fahrt bietet tolle Ausblicke auf das beleuchtete Chiavari.",
+                "hu": "Hajtson fel időben a délután 5 órai naplementéhez, hogy láthassa a színek játékát; az út közben remek kilátás nyílik a kivilágított Chiavarira.",
+                "ro": "Urcați la timp pentru apusul de la ora 17:00 pentru a vedea spectacolul culorilor; drumul oferă vederi superbe asupra orașului Chiavari iluminat.",
+                "en": "Drive up in time for the 5:00 PM sunset to experience the play of colors; the drive offers great views of the beautifully lit-up town of Chiavari."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario Madonna dell'Ulivo",
+                "hu": "Santuario Madonna dell'Ulivo",
+                "ro": "Santuario Madonna dell'Ulivo",
+                "en": "Santuario Madonna dell'Ulivo"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist im Winter bei klarem Himmel besonders schön, da das Meer glitzert; im Inneren des Heiligtums finden Sie Wärme und Ruhe.",
+                "hu": "A felvezető út télen, tiszta égbolt mellett különösen szép a csillogó tenger miatt; a kegyhely belsejében melegségre és nyugalomra találhat.",
+                "ro": "Urcarea este deosebit de frumoasă iarna sub cerul senin datorită mării sclipitoare; în interiorul sanctuarului veți găsi căldură și liniște.",
+                "en": "The drive up is especially beautiful in winter under clear skies as the sea glitters; inside the sanctuary, you will find warmth and peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Nino",
+                "hu": "Bagni Nino",
+                "ro": "Bagni Nino",
+                "en": "Bagni Nino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag gemütlich im warmen Auto mit Blick auf das winterliche Mittelmeer; die beleuchtete Uferpromenade ist im Winter sehr stimmungsvoll.",
+                "hu": "Zárja a napot kényelmesen a meleg autóban, a téli Földközi-tengerre nézve; a kivilágított tengerparti sétány télen is nagyon hangulatos látvány.",
+                "ro": "Încheiați ziua confortabil în mașina încălzită, privind spre Marea Mediterană; faleza iluminată este foarte atmosferică în serile de iarnă.",
+                "en": "End the day comfortably in your warm car, looking out at the winter Mediterranean; the lit-up seaside promenade is very atmospheric in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

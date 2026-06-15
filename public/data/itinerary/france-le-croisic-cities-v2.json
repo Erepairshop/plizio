@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Le Croisic szívében, felfedezve a helyi galériák művészeti örökségét és kiállításait. Délben sétáljon végig a központi utcákon, hogy megcsodálja a történelmi templom lenyűgöző építészetét. A délutánt töltse egy békés panorámás kilátóhelyen, ahonnan csodás táj tárul a szeme elé. Sétáját egy csendes esti látogatással zárja a félreeső történelmi kápolnánál.",
         "ro": "Începeți dimineața în inima orașului Le Croisic, explorând moștenirea artistică în galeriile locale. La prânz, plimbați-vă pe străzile centrale pentru a admira arhitectura complicată a bisericii istorice. Petreceți după-amiaza bucurându-vă de o vedere panoramică liniștită de la belvedere. Încheiați turul pietonal cu o plimbare liniștită de seară către capela istorică izolată.",
         "en": "Begin your morning in the heart of Le Croisic by exploring its artistic heritage at local galleries. Midday, wander through the central streets to admire the intricate architecture of the historic church. Spend your afternoon enjoying a peaceful panoramic view from the belvedere overlooking the landscape. Conclude your walking tour with a quiet evening stroll to the secluded historic chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den geschützten Galerien am Hafen, ein perfekter Ort, um dem Atlantikregen zu entfliehen. Mittags bietet die massive Steinkirche eine stille, trockene Zuflucht. Der Nachmittag vergeht zwischen Kunststudios und kurzen Spaziergängen mit einem festen Regenschirm. Am Abend legt sich grauer Nebel über die Stadt, was die historischen Kapellen noch geheimnisvoller wirken lässt.",
+            "hu": "A reggel a kikötő közeli galériákban indul, amelyek tökéletes menedéket nyújtanak az atlanti eső elől. Délben a gránitfalú templom csendes és száraz szentélyt biztosít. A délutánt művészeti stúdiók és rövid, esernyős kikötői séták töltik ki. Az este közeledtével a szürke köd beborítja a várost, még titokzatosabbá és meghittebbé téve a történelmi kápolnák környékét.",
+            "ro": "Dimineața începe în galeriile adăpostite de lângă port, o evadare perfectă de ploaia atlantică. La prânz, biserica masivă de piatră oferă un refugiu liniștit și uscat. După-amiaza trece între studiouri de artă și scurte plimbări cu o umbrelă rezistentă. Seara, ceața cenușie acoperă orașul, făcând capelele istorice să pară și mai misterioase și primitoare.",
+            "en": "Morning starts in the sheltered galleries near the port, a perfect escape from the Atlantic rain. At noon, the granite church provides a quiet, dry sanctuary. Afternoon is spent between art studios and quick walks along the harbor with a sturdy umbrella. Evening settles in as the grey mist covers the town, making the historic chapels feel even more mysterious and cozy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galerie Patrick Hugonnot",
+                "hu": "Galerie Patrick Hugonnot",
+                "ro": "Galerie Patrick Hugonnot",
+                "en": "Galerie Patrick Hugonnot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebendige maritime Kunst in diesem gemütlichen Innenraum; ein perfekter Ort, um trocken zu bleiben, während der Regen draußen auf den Hafen fällt.",
+                "hu": "Élvezze az élénk tengeri művészetet ebben a barátságos belső térben; tökéletes hely a szárazon maradáshoz, miközben odakint az eső a kikötőre hullik.",
+                "ro": "Bucurați-vă de arta maritimă vibrantă în acest spațiu interior primitor; este locul perfect pentru a rămâne uscat în timp ce ploaia cade peste port.",
+                "en": "Enjoy the vibrant maritime art in this cozy indoor space; it's a perfect spot to stay dry while the rain falls on the harbor outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Pitié",
+                "hu": "Église Notre-Dame de Pitié",
+                "ro": "Église Notre-Dame de Pitié",
+                "en": "Église Notre-Dame de Pitié"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern bieten ein stilles Refugium; bewundern Sie die Holzschnitzereien, während Sie darauf warten, dass der stärkste Regen vorbeizieht.",
+                "hu": "A masszív kőfalak csendes menedéket nyújtanak; csodálja meg a faragott famunkákat, miközben megvárja, amíg a leghevesebb zápor elvonul.",
+                "ro": "Zidurile masive de piatră oferă un refugiu silențios; admirați prelucrarea lemnului în timp ce așteptați să treacă cele mai abundente averse.",
+                "en": "The massive stone walls provide a silent, dry refuge; admire the intricate woodwork while waiting for the heaviest showers to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Chapleau",
+                "hu": "Galerie Chapleau",
+                "ro": "Galerie Chapleau",
+                "en": "Galerie Chapleau"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das künstlerische Erbe in dieser geschützten Villa; das graue Licht durch die Fenster verleiht den historischen Exponaten eine besondere Schönheit.",
+                "hu": "Fedezze fel a művészeti örökséget ebben a védett villában; az ablakokon beszűrődő szürke fény melankolikus szépséget kölcsönöz a történelmi kiállításnak.",
+                "ro": "Explorați moștenirea artistică în această vilă adăpostită; lumina cenușie de la ferestre adaugă o frumusețe aparte exponatelor istorice.",
+                "en": "Explore the artistic heritage in this sheltered villa; the grey light through the windows adds a melancholic beauty to the historical displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère Yves Chelet",
+                "hu": "Belvédère Yves Chelet",
+                "ro": "Belvédère Yves Chelet",
+                "en": "Belvédère Yves Chelet"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen kurzen Blick auf den stürmischen Atlantik; halten Sie Ihren Schirm gut fest, da der Küstenwind bei Regen sehr stark sein kann.",
+                "hu": "Vessen egy gyors pillantást a viharos Atlanti-óceánra; kapaszkodjon erősen az esernyőjébe, mert a parti szél esőben igen felerősödhet.",
+                "ro": "Aruncați o privire rapidă spre Atlanticul furtunos; țineți bine umbrela, deoarece vântul de coastă poate fi foarte puternic în timpul ploii.",
+                "en": "Take a quick look at the stormy Atlantic; keep a firm grip on your umbrella as the coastal wind can be quite strong during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Crucifix",
+                "hu": "Chapelle du Crucifix",
+                "ro": "Chapelle du Crucifix",
+                "en": "Chapelle du Crucifix"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Gang an dieser Kapelle; der Weg könnte rutschig sein, achten Sie also auf Ihre Schritte bei der Annäherung an das Denkmal.",
+                "hu": "Zárja a sétát ebben a történelmi kápolnában; az út csúszós lehet, ezért figyeljen a lépteire, ahogy megközelíti ezt a csendes, védett műemléket.",
+                "ro": "Încheiați plimbarea la această capelă istorică; poteca ar putea fi alunecoasă, așa că atenție la pași când vă apropiați de monument.",
+                "en": "Finish your walk at this historic chapel; the path might be slippery, so watch your step as you approach this quiet, sheltered monument."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgen am Hafen sind frisch, mit einer klaren Brise, die zum schnellen Gehen anregt. Mittags bieten die Museen angenehme Wärme und kulturelle Tiefe. Der Nachmittag ist kurz, die Sonne sinkt früh gegen 17:00 Uhr über die Granitküste. Der Abend gehört der gemütlichen Ruhe der beleuchteten Gassen, während der Wind draußen über das Meer fegt.",
+            "hu": "A téli reggelek frissek a kikötőben, a csípős szél gyorsabb tempóra ösztönöz. Délben a múzeumok kellemes meleget és kulturális mélységet kínálnak. A délután rövid, a nap korán, 17:00 körül bukik a gránitpart mögé. Az este a kivilágított utcák meghitt nyugalmáé, miközben odakint a tenger felől süvít a szél.",
+            "ro": "Diminețile de iarnă în port sunt proaspete, cu o briză tăioasă care îndeamnă la un mers vioi. La prânz, muzeele oferă căldură plăcută și profunzime culturală. După-amiaza este scurtă, soarele apunând devreme, în jurul orei 17:00, peste coasta de granit. Seara aparține liniștii primitoare a străzilor iluminate.",
+            "en": "Winter mornings by the harbor are crisp, with a biting breeze that encourages a brisk pace. At noon, the museums offer pleasant warmth and cultural depth. The afternoon is short, with the sun dipping early around 17:00 over the granite coast. Evening belongs to the cozy quiet of the illuminated streets while the wind sweeps in from the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galerie Patrick Hugonnot",
+                "hu": "Galerie Patrick Hugonnot",
+                "ro": "Galerie Patrick Hugonnot",
+                "en": "Galerie Patrick Hugonnot"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie lokale Meisterwerke betrachten; das weiche Winterlicht durch die Fenster schafft eine friedliche Atmosphäre.",
+                "hu": "Melegedjen fel a helyi mesterművek nézegetése közben; a galéria ablakain beszűrődő lágy téli fény békés hangulatot teremt a látogatók számára.",
+                "ro": "Încălziți-vă în timp ce vizionați capodoperele locale; lumina blândă de iarnă prin ferestrele galeriei creează o atmosferă foarte liniștită.",
+                "en": "Warm up while viewing local masterpieces; the soft winter sun through the gallery windows creates a very peaceful atmosphere for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Pitié",
+                "hu": "Église Notre-Dame de Pitié",
+                "ro": "Église Notre-Dame de Pitié",
+                "en": "Église Notre-Dame de Pitié"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der beißenden Meeresbrise in dieser Kirche; die Votivgaben der Seeleute wirken im weichen Winterlicht besonders rührend.",
+                "hu": "Meneküljön el a csípős tengeri szél elől ebbe a templomba; a tengerészek fogadalmi ajándékai még meghatóbbnak tűnnek a téli félhomályban.",
+                "ro": "Evadați de briza tăioasă a mării în această biserică; observați ofrandele marinarilor care par și mai emoționante în lumina slabă de iarnă.",
+                "en": "Escape the biting sea breeze inside this historic church; notice the sailors' offerings which seem even more poignant in the winter gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Chapleau",
+                "hu": "Galerie Chapleau",
+                "ro": "Galerie Chapleau",
+                "en": "Galerie Chapleau"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturell reicher Indoor-Stopp, der vor Kälte schützt; die Gärten haben im tiefen Licht des Dezembers eine einzigartige, herbe Schönheit.",
+                "hu": "Kulturálisan gazdag beltéri pihenő, amely megvéd a hidegtől; a környező kerteknek egyedi, zord szépsége van az alacsony téli napfényben.",
+                "ro": "O oprire interioară bogată cultural care vă protejează de frig; grădinile din jur au o frumusețe unică și austeră în lumina joasă de iarnă.",
+                "en": "A culturally rich indoor stop that protects you from the cold; the surrounding gardens have a unique, stark beauty in the low December light."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère Yves Chelet",
+                "hu": "Belvédère Yves Chelet",
+                "ro": "Belvédère Yves Chelet",
+                "en": "Belvédère Yves Chelet"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die belebende Kälte der Salzluft; der Wintersonnenuntergang über der Granitküste ist spektakulär, bringen Sie einen warmen Schal mit.",
+                "hu": "Tapasztalja meg a sós levegő élénkítő hidegét; a téli naplemente a gránitpart felett látványos, hozzon magával egy meleg sálat.",
+                "ro": "Experimentați frigul revigorant al aerului sărat; apusul de iarnă peste coasta de granit este spectaculos, așa că aduceți un fular călduros.",
+                "en": "Experience the invigorating cold of the salt air; the winter sunset over the granite coast is spectacular, so bring a warm scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Crucifix",
+                "hu": "Chapelle du Crucifix",
+                "ro": "Chapelle du Crucifix",
+                "en": "Chapelle du Crucifix"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor der Dunkelheit um 17:00 Uhr; das Leuchten des Granits in der Dämmerung ist magisch, tragen Sie einen warmen Mantel.",
+                "hu": "Látogasson el ide a 17:00-kor beálló sötétség előtt; a gránit ragyogása a szürkületben varázslatos, de viseljen meleg kabátot a sétához.",
+                "ro": "Vizitați acest loc înainte de întunericul de la ora 17:00; strălucirea granitului în amurg este magică, dar asigurați-vă că aveți o haină groasă.",
+                "en": "Visit this ancient site before the 17:00 darkness; the granite glow in the twilight is magical, but ensure you have a warm coat for the walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját a helyi örökségvédelmi házban, ahol megismerheti a város gazdag múltját. Délben tekerjen el egy régi szélmalom és egy kelta történelemmel átitatott ősi menhír mellett. Délután a vad partvonal mentén haladva nézze meg a híres Medve-sziklát és egy történelmi kúriát. A napot az izgalmas óceanárium környékén és egy északi kápolnánál zárja.",
         "ro": "Începeți aventura pe bicicletă descoperind moștenirea bogată a orașului la casa de patrimoniu local. La prânz, treceți pe lângă o veche moară de vânt și un menhir mistic plin de istorie celtică. După-amiaza, mergeți de-a lungul coastei sălbatice pentru a vedea celebra Stâncă a Ursului. Încheiați ziua vizitând zona captivantă a oceanariului și o capelă fermecătoare din nord.",
         "en": "Kick off your cycling adventure by learning about the town's rich heritage at the local heritage house. Midday takes you past an old windmill and a mystical ancient menhir steeped in Celtic history. In the afternoon, ride along the wild coast to see the famous Bear Rock and a historic manor. Wrap up your day visiting the exciting oceanarium area and a charming northern chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radmorgen beginnt mit einer Schicht wasserfester Kleidung für die Küstenwege. Mittags bieten die historischen Häuser eine willkommene Pause vom Regen. Am Nachmittag sind die Wege glitschig, also ist Vorsicht geboten, während man die dramatischen Klippen passiert. Der Abend endet früh in einer der wetterfesten Kapellen, während die See stürmisch bleibt.",
+            "hu": "A bringás reggel vízálló rétegekkel indul a parti utakon. Délben a történelmi házak kínálnak szívesen látott pihenőt az eső elől. Délután az utak csúszósak, ezért óvatosságra van szükség a drámai sziklák mentén. Az este korán véget ér az egyik időjárásálló kápolnában, miközben a tenger viharos marad.",
+            "ro": "Dimineața pe bicicletă începe cu haine impermeabile pentru potecile de coastă. La prânz, casele istorice oferă o pauză binevenită de ploaie. După-amiaza, drumurile sunt alunecoase, deci este necesară prudență pe lângă stâncile dramatice. Seara se încheie devreme într-una dintre capelele protejate.",
+            "en": "The cycling morning starts with waterproof layers for the coastal paths. At noon, historic houses provide a welcome break from the rain. In the afternoon, paths are slick, so caution is needed while passing the dramatic cliffs. The evening ends early in one of the weather-proof chapels while the sea remains stormy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du patrimoine croisicais",
+                "hu": "Maison du patrimoine croisicais",
+                "ro": "Maison du patrimoine croisicais",
+                "en": "Maison du patrimoine croisicais"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Indoor-Start; nutzen Sie die Zeit, um mehr über die Geschichte zu erfahren und eine Regenpause abzuwarten, bevor Sie weiterfahren.",
+                "hu": "Nagyszerű beltéri kezdés; használja ki az időt a helyi történelem megismerésére, és várja meg a szünetet az esőben, mielőtt továbbtekerne.",
+                "ro": "Un început excelent în interior; folosiți timpul pentru a învăța despre istoria locală și așteptați o pauză în ploaie înainte de a continua.",
+                "en": "A great indoor start to learn about local history; use this time to wait for a break in the rain before cycling further."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Bauvran",
+                "hu": "Moulin de Bauvran",
+                "ro": "Moulin de Bauvran",
+                "en": "Moulin de Bauvran"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp im Freien; seien Sie vorsichtig beim Anhalten, da das Gras und die Wege rund um die Mühle schlammig und rutschig sein können.",
+                "hu": "Gyors szabadtéri fotómegálló; legyen óvatos a megállásnál, mert a fű és az utak a malom körül sárral teliek és csúszósak lehetnek.",
+                "ro": "O oprire scurtă pentru poze în aer liber; fiți atenți la oprire, deoarece iarba și potecile din jurul morii pot fi noroioase și alunecoase.",
+                "en": "A quick outdoor photo stop; be careful when stopping your bike near the mill as the grass and paths can be quite muddy and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Pierre Longue",
+                "hu": "Menhir Pierre Longue",
+                "ro": "Menhir Pierre Longue",
+                "en": "Menhir Pierre Longue"
+              },
+              "tip_5lang": {
+                "de": "Dieser prähistorische Stein steht stolz im Nebel; der Küstenweg ist exponiert, tragen Sie daher hochwertige Regenbekleidung für diesen Abschnitt.",
+                "hu": "Ez az őskori kő büszkén áll a ködben; a parti út kitett a szélnek, ezért viseljen kiváló minőségű vízálló felszerelést ezen a szakaszon.",
+                "ro": "Acest menhir preistoric stă mândru în ceață; poteca de coastă este expusă, așa că purtați echipament impermeabil de calitate pentru această secțiune.",
+                "en": "This prehistoric stone stands tall in the mist; the coastal path is exposed, so wear high-quality waterproof gear for this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de l'Ours",
+                "hu": "Rocher de l'Ours",
+                "ro": "Rocher de l'Ours",
+                "en": "Rocher de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Der Felsen wirkt im Regen besonders dramatisch; halten Sie den Stopp kurz und prüfen Sie Ihre Bremsen auf der nassen Straße.",
+                "hu": "A szikla sötét, drámai arcát mutatja esőben; tartsa rövidre a megállót, és győződjön meg róla, hogy a fékek jól fognak a vizes úton.",
+                "ro": "Stânca capătă un aspect dramatic în ploaie; păstrați oprirea scurtă și asigurați-vă că frânele bicicletei funcționează bine pe drumul ud.",
+                "en": "The rock takes on a dark, dramatic look in the rain; keep your stop brief and ensure your bike's brakes are working well on the wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Kervaudu",
+                "hu": "Manoir de Kervaudu",
+                "ro": "Manoir de Kervaudu",
+                "en": "Manoir de Kervaudu"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur von einem geschützten Platz aus; die Bäume bieten etwas Schutz, aber der Küstenwind bleibt scharf.",
+                "hu": "Szemlélje a történelmi építészetet egy védett helyről; a környező fák nyújtanak némi fedezéket, de a parti szél továbbra is csípős.",
+                "ro": "Admirați arhitectura istorică dintr-un loc adăpostit; copacii din jur oferă puțină protecție, dar vântul de coastă rămâne destul de ascuțit.",
+                "en": "View the historic architecture from a sheltered spot; the surrounding trees provide some cover, but the coastal wind remains quite sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "3 Requins d'Australie",
+                "hu": "3 Requins d'Australie",
+                "ro": "3 Requins d'Australie",
+                "en": "3 Requins d'Australie"
+              },
+              "tip_5lang": {
+                "de": "Ein interessanter Stopp; die Innenbereiche sind eine Wohltat bei feuchtem Wetter, prüfen Sie vorher die Öffnungszeiten.",
+                "hu": "Érdekes szabadidős megálló; a beltéri részek megváltást jelentenek a nyirkos időben, de ellenőrizze a nyitvatartást.",
+                "ro": "O oprire recreativă interesantă; secțiunile interioare sunt o ușurare față de vremea umedă de afară, verificați programul de funcționare.",
+                "en": "An interesting recreational stop; indoor sections are a relief from the damp weather outside, check opening hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Vincent de Paul",
+                "hu": "Chapelle Saint-Vincent de Paul",
+                "ro": "Chapelle Saint-Vincent de Paul",
+                "en": "Chapelle Saint-Vincent de Paul"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Abschluss; der Innenraum bietet einen ruhigen Ort zum Trocknen und Reflektieren über die heutige Regenfahrt.",
+                "hu": "Békés befejezése a túrának; a belső tér csendes helyet kínál a megszárítkozáshoz és a mai esős utazás átgondolásához.",
+                "ro": "Un sfârșit liniștit pentru călătoria ta; interiorul oferă un loc calm pentru a te usca și a reflecta la drumul prin ploaie.",
+                "en": "A peaceful end to your ride; the interior offers a quiet place to dry off and reflect on the day's journey through the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gegen den atlantischen Wind sind Schichten beim Radfahren entscheidend. Der Morgen ist hell, aber kalt auf den exponierten Pfaden. Mittags bieten die Museen Wärme für gefrorene Finger. Am Nachmittag sinkt die Sonne früh, was die Küste in goldenes Licht taucht, bevor es um 17:00 Uhr dunkel wird. Der Abend endet am besten mit warmen Getränken im Stadtzentrum.",
+            "hu": "Az atlanti szél ellen réteges öltözékre van szükség a biciklizéshez. A reggel világos, de hideg a kitett ösvényeken. Délben a múzeumok meleget adnak a fagyos ujjaknak. Délután a nap korán süllyed, arany fénybe vonva a partot a 17:00-s sötétedés előtt. Az este a városközpontban, meleg italok mellett ér véget.",
+            "ro": "Straturile de haine sunt esențiale împotriva vântului atlantic în timp ce pedalați. Dimineața este luminoasă, dar rece pe potecile expuse. La prânz, muzeele oferă căldură degetelor înghețate. După-amiaza, soarele apune devreme, scăldând coasta în lumină aurie înainte de întunericul de la 17:00.",
+            "en": "Layers are key against the Atlantic wind while cycling. Morning is bright but cold on the exposed paths. At noon, museums offer warmth for frozen fingers. In the afternoon, the sun dips early, casting golden light on the coast before the 17:00 darkness. Evening is best finished with warm drinks in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du patrimoine croisicais",
+                "hu": "Maison du patrimoine croisicais",
+                "ro": "Maison du patrimoine croisicais",
+                "en": "Maison du patrimoine croisicais"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Indoor-Start, um Energie für die kalte Fahrt entlang der Küste zu sammeln; die Ausstellungen sind im Winter sehr ruhig.",
+                "hu": "Használja ki ezt a meleg beltéri kezdést, hogy erőt gyűjtsön a hideg parti tekeréshez; a kiállítások télen kifejezetten nyugodtak.",
+                "ro": "Folosiți acest început călduros în interior pentru a aduna energie pentru drumul rece de-a lungul coastei; expozițiile sunt foarte liniștite iarna.",
+                "en": "Use this warm indoor start to gather energy for the cold ride along the coast; the exhibits are very quiet during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Bauvran",
+                "hu": "Moulin de Bauvran",
+                "ro": "Moulin de Bauvran",
+                "en": "Moulin de Bauvran"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle wirkt gegen den klaren Winterhimmel sehr markant; halten Sie kurz für ein Foto an, aber bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A malom sziluettje élesen kirajzolódik a tiszta téli égen; álljon meg egy fotóra, de maradjon mozgásban, hogy ne hűljön ki.",
+                "ro": "Moara arată impresionant pe fundalul cerului senin de iarnă; opriți scurt pentru o fotografie, dar rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "The mill looks striking against the clear winter sky; stop briefly for a photo but keep moving to stay warm in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Pierre Longue",
+                "hu": "Menhir Pierre Longue",
+                "ro": "Menhir Pierre Longue",
+                "en": "Menhir Pierre Longue"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenluft ist hier besonders beißend; tragen Sie eine winddichte Schicht, während Sie dieses prähistorische Monument bewundern.",
+                "hu": "A parti levegő itt különösen csípős; viseljen szélálló réteget, miközben megcsodálja ezt az őskori emlékművet a hidegben.",
+                "ro": "Aerul de coastă este tăios aici; purtați un strat rezistent la vânt în timp ce admirați acest monument preistoric în frig.",
+                "en": "The coastal air is especially biting here; wear a windproof layer while you admire this prehistoric monument in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de l'Ours",
+                "hu": "Rocher de l'Ours",
+                "ro": "Rocher de l'Ours",
+                "en": "Rocher de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Der Bärenfelsen trotzt der winterlichen Brandung; ein kurzer, erfrischender Stopp, bevor Sie zum nächsten geschützten Ort weiterfahren.",
+                "hu": "A Medve-szikla dacol a téli hullámveréssel; rövid, frissítő megálló, mielőtt továbbtekerne a következő szélvédett pont felé.",
+                "ro": "Stânca Ursului înfruntă valurile iernii; o oprire scurtă și revigorantă înainte de a pedala spre următorul punct adăpostit.",
+                "en": "The Bear Rock braves the winter surf; a short, refreshing stop before you cycle on toward the next sheltered location."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Kervaudu",
+                "hu": "Manoir de Kervaudu",
+                "ro": "Manoir de Kervaudu",
+                "en": "Manoir de Kervaudu"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus strahlt in der tiefstehenden Sonne eine zeitlose Ruhe aus; die umliegenden Wege sind im Winter meist menschenleer.",
+                "hu": "Az udvarház időtlen nyugalmat áraszt az alacsonyan járó napfényben; a környező utak télen többnyire néptelenek és békések.",
+                "ro": "Conacul emană o liniște atemporală în lumina joasă a soarelui; potecile din jur sunt în mare parte pustii și pașnice iarna.",
+                "en": "The manor exudes a timeless calm in the low winter sun; the surrounding paths are mostly deserted and peaceful during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "3 Requins d'Australie",
+                "hu": "3 Requins d'Australie",
+                "ro": "3 Requins d'Australie",
+                "en": "3 Requins d'Australie"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich im Inneren aufzuwärmen; die interaktiven Exponate bieten eine tolle Pause von der kalten Küstenfahrt.",
+                "hu": "Tökéletes hely a benti felmelegedéshez; az interaktív kiállítások remek pihenőt nyújtanak a hideg parti bringázás után.",
+                "ro": "Un loc perfect pentru a vă încălzi în interior; expozițiile interactive oferă o pauză excelentă de la drumul rece de coastă.",
+                "en": "A perfect place to warm up inside; the interactive exhibits provide a great break from the cold coastal bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Vincent de Paul",
+                "hu": "Chapelle Saint-Vincent de Paul",
+                "ro": "Chapelle Saint-Vincent de Paul",
+                "en": "Chapelle Saint-Vincent de Paul"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor dem Sonnenuntergang um 17:00 Uhr; die Stille der Kapelle ist ein schöner Kontrast zum pfeifenden Winterwind.",
+                "hu": "Fejezze be a túrát itt a 17:00-s naplemente előtt; a kápolna csendje szép kontrasztot alkot a kinti fütyülő téli széllel.",
+                "ro": "Încheiați turul aici înainte de apusul de la 17:00; liniștea capelei este un contrast plăcut față de vântul șuierător de iarnă.",
+                "en": "Finish your tour here before the 17:00 sunset; the chapel's silence is a beautiful contrast to the whistling winter wind outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje autós túráját egy látványos tengerparti napfelkeltével, amely megadja az alaphangot a naphoz. Délben fedezze fel a tengeri csodákat az akvárium területén, majd egy közeli történelmi kúriát. A délutáni vezetés a festői vad parton halad végig, lenyűgöző sziklákkal és ősi menhírekkel. Végül pihenjen a tágas strandon, miközben az este leereszkedik a fenséges Atlanti-óceánra.",
         "ro": "Începeți turul cu mașina cu un răsărit spectaculos pe coastă pentru a stabili atmosfera zilei. La prânz, explorați minunile marine la acvariu și un mare conac istoric din apropiere. Conducerea de după-amiază urmează coasta pitorească sălbatică pentru a întâlni stânci naturale și pietre antice. În cele din urmă, relaxați-vă pe plaja întinsă în timp ce seara coboară peste maiestuosul ocean.",
         "en": "Start your driving tour with a spectacular coastal sunrise to set the tone for the day. Midday, explore the marine wonders at the aquarium area and a grand historical manor nearby. Your afternoon drive follows the scenic wild coast to encounter dramatic natural rocks and ancient standing stones. Finally, relax at the sprawling beach as evening descends over the majestic Atlantic ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich der Atlantikregen bequem umgehen. Der Morgen bietet dramatische Ausblicke auf die Brandung durch die Scheiben. Mittags sind die Museen und Galerien leicht erreichbar, ohne nass zu werden. Der Nachmittag führt entlang der Küstenstraße mit Panoramablick auf die graue See. Der Abend klingt gemütlich aus, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Autóval kényelmesen elkerülhető az atlanti eső. A reggel drámai kilátást kínál a hullámverésre a szélvédő mögül. Délben a múzeumok és galériák könnyen elérhetőek anélkül, hogy bőrig áznánk. A délután a parti úton vezet, panorámás kilátással a szürke tengerre. Az este meghitt hangulatban zárul, miközben az eső kopog a tetőn.",
+            "ro": "Cu mașina, ploaia atlantică poate fi evitată confortabil. Dimineața oferă vederi dramatice ale valurilor prin geamurile mașinii. La prânz, muzeele sunt ușor accesibile fără a vă uda. După-amiaza conduceți pe drumul de coastă cu vedere panoramică spre marea cenușie. Seara se încheie plăcut cu sunetul ploii pe plafon.",
+            "en": "By car, the Atlantic rain can be easily avoided. Morning offers dramatic views of the surf through the windshield. At noon, museums and galleries are easily accessible without getting soaked. The afternoon leads along the coastal road with panoramic views of the grey sea. The evening ends cozily with raindrops drumming on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sunrise",
+                "hu": "Sunrise",
+                "ro": "Sunrise",
+                "en": "Sunrise"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regenwolken über dem Ozean bequem von Ihrem Auto aus; der dramatische graue Horizont ist ein klassischer Anblick am Atlantik.",
+                "hu": "Figyelje az óceán felett elvonuló esőfelhőket az autó kényelméből; a drámai szürke horizont klasszikus atlanti látvány ilyenkor.",
+                "ro": "Urmăriți norii de ploaie deasupra oceanului din confortul mașinii; orizontul cenușiu dramatic este o vedere clasică la Atlantic.",
+                "en": "Watch the rain clouds roll over the ocean from the comfort of your car; the dramatic grey horizon is a classic Atlantic sight."
+              }
+            },
+            {
+              "name": {
+                "de": "3 Requins d'Australie",
+                "hu": "3 Requins d'Australie",
+                "ro": "3 Requins d'Australie",
+                "en": "3 Requins d'Australie"
+              },
+              "tip_5lang": {
+                "de": "Ein bequemer Stopp mit Parkplätzen in der Nähe; die Indoor-Exponate sind perfekt, um dem Küstenregen für eine Weile zu entfliehen.",
+                "hu": "Kényelmes megálló közeli parkolóval; a beltéri kiállítások tökéletesek arra, hogy egy időre elmeneküljünk a parti felhőszakadás elől.",
+                "ro": "O oprire convenabilă cu parcare în apropiere; expozițiile interioare sunt perfecte pentru a scăpa de aversa de coastă pentru o vreme.",
+                "en": "A convenient stop with nearby parking; the indoor exhibits are perfect for families looking to escape the coastal downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Kervaudu",
+                "hu": "Manoir de Kervaudu",
+                "ro": "Manoir de Kervaudu",
+                "en": "Manoir de Kervaudu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Mauerwerk des Herrenhauses vom Fahrzeug aus; der nasse Granit glänzt auch unter schweren Wolken wunderschön.",
+                "hu": "Csodálja meg az udvarház kőfalait a járműből vagy egy gyors kiszállással; a vizes gránit még a nehéz felhők alatt is szépen csillog.",
+                "ro": "Admirați zidăria conacului din vehicul sau cu o scurtă ieșire afară; granitul umed strălucește frumos chiar și sub norii grei.",
+                "en": "Admire the manor's stonework from your vehicle or a quick dash outside; the wet granite shines beautifully even under heavy clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de l'Ours",
+                "hu": "Rocher de l'Ours",
+                "ro": "Rocher de l'Ours",
+                "en": "Rocher de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um die Wellen an den Felsen zu sehen; so erleben Sie die Kraft des Atlantiks, ohne nass zu werden.",
+                "hu": "Parkoljon le a közelben, hogy lássa a sziklákon megtörő hullámokat; így átélheti az Atlanti-óceán erejét anélkül, hogy elázna.",
+                "ro": "Parcați în apropiere pentru a vedea valurile izbindu-se de stânci; este un mod sigur de a simți puterea Atlanticului fără a vă uda.",
+                "en": "Park close to see the waves crashing against the rocks; it's a safe way to experience the Atlantic's power without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Pierre Longue",
+                "hu": "Menhir Pierre Longue",
+                "ro": "Menhir Pierre Longue",
+                "en": "Menhir Pierre Longue"
+              },
+              "tip_5lang": {
+                "de": "Der stehende Stein wirkt vor einem stürmischen Himmel beeindruckend; der kurze Weg vom Auto lohnt sich für stimmungsvolle Fotos.",
+                "hu": "A magányos kő lenyűgözően mutat a viharos égbolt előtt; a rövid séta az autótól megéri a hangulatos fotók miatt.",
+                "ro": "Menhirul arată impresionant pe fundalul unui cer furtunos; scurta plimbare de la mașină merită pentru fotografii pline de atmosferă.",
+                "en": "The tall standing stone looks impressive against a stormy sky; the short walk from the car is worth it for the moody photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Bauvran",
+                "hu": "Moulin de Bauvran",
+                "ro": "Moulin de Bauvran",
+                "en": "Moulin de Bauvran"
+              },
+              "tip_5lang": {
+                "de": "Ein malerisches Wahrzeichen, das leicht mit dem Auto erreichbar ist; genießen Sie den Blick auf die Mühle durch die verregneten Scheiben.",
+                "hu": "Festői látványosság, amely autóval könnyen elérhető; élvezze a malom és a környék látványát az eső áztatta ablakon keresztül.",
+                "ro": "Un reper pitoresc ușor de accesat cu mașina; bucurați-vă de vederea morii și a împrejurimilor prin geamurile plouate.",
+                "en": "A picturesque landmark easily reached by car; enjoy the view of the mill and the surrounding countryside through the rain-streaked windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Saint-Michel",
+                "hu": "Plage Saint-Michel",
+                "ro": "Plage Saint-Michel",
+                "en": "Plage Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Flut vom Auto aus; der Strand ist im Regen leer und atmosphärisch, perfekt für einen kontemplativen Moment.",
+                "hu": "Figyelje a dagályt az autóból; a strand üres és hangulatos az esőben, tökéletes egy elmélyült pillanathoz a meleg járműben.",
+                "ro": "Urmăriți fluxul din mașină; plaja este pustie și plină de atmosferă în ploaie, perfectă pentru un moment contemplativ în vehicul.",
+                "en": "End the day watching the tide come in; the beach is empty and atmospheric in the rain, perfect for a contemplative moment in the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten an der Küste bieten ein warmes Interieur zwischen historischen Stätten. Der Morgen ist klar und bietet weite Sichten über das gefrorene Land. Mittags sind die kulturellen Stopps wohlig warm. Die Nachmittagsfahrt entlang der Klippen ist spektakulär, wenn die Sonne um 17:00 Uhr im Meer versinkt. Der Abend endet mit dem Blick auf die beleuchtete Hafenfront.",
+            "hu": "A téli autózás meleg belső teret kínál a történelmi helyszínek között. A reggel tiszta, messzire ellátni a fagyos tájon. Délben a kulturális megállók kellemesen melegek. A délutáni autózás a sziklák mentén látványos, ahogy a nap 17:00-kor a tengerbe vész. Az este a kivilágított kikötő látványával zárul.",
+            "ro": "Plimbările de iarnă pe coastă oferă un interior călduros între siturile istorice. Dimineața este senină, cu vederi largi peste peisajul înghețat. La prânz, opririle culturale sunt primitoare. Drumul de după-amiază de-a lungul stâncilor este spectaculos când soarele apune la 17:00.",
+            "en": "Winter coastal drives offer a warm interior between historical sites. Morning is clear, providing long views over the frozen landscape. At noon, cultural stops are toasty and warm. The afternoon drive along the cliffs is spectacular as the sun sinks into the sea at 17:00. Evening ends with views of the illuminated harbor front."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sunrise",
+                "hu": "Sunrise",
+                "ro": "Sunrise",
+                "en": "Sunrise"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Wintersonnenaufgang bequem im warmen Auto; das Licht bricht sich auf spektakuläre Weise an der kalten Atlantikküste.",
+                "hu": "Élje át a téli napfelkeltét a meleg autó kényelméből; a fények ilyenkor látványosan törnek meg a hideg atlanti partokon.",
+                "ro": "Experimentați răsăritul de iarnă din confortul mașinii; lumina se reflectă spectaculos pe coasta rece a Atlanticului.",
+                "en": "Experience the winter sunrise from the comfort of your warm car; the light breaks spectacularly on the cold Atlantic coast."
+              }
+            },
+            {
+              "name": {
+                "de": "3 Requins d'Australie",
+                "hu": "3 Requins d'Australie",
+                "ro": "3 Requins d'Australie",
+                "en": "3 Requins d'Australie"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte für eine Weile zu entfliehen; die Ausstellungen bieten eine warme und lehrreiche Pause für alle Altersgruppen.",
+                "hu": "Ideális hely, hogy egy időre elmeneküljünk a hideg elől; a kiállítások meleg és tanulságos pihenőt kínálnak minden korosztálynak.",
+                "ro": "Un loc ideal pentru a scăpa de frig pentru o vreme; expozițiile oferă o pauză caldă și educativă pentru toate vârstele.",
+                "en": "An ideal spot to escape the cold for a while; the exhibits offer a warm and educational break for all ages."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Kervaudu",
+                "hu": "Manoir de Kervaudu",
+                "ro": "Manoir de Kervaudu",
+                "en": "Manoir de Kervaudu"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Herrenhaus im klaren Winterlicht; die umliegenden kahlen Bäume geben den Blick auf die Architektur besonders frei.",
+                "hu": "Szemlélje az udvarházat a tiszta téli fényben; a környező csupasz fák között ilyenkor még jobban érvényesül az épület építészete.",
+                "ro": "Admirați conacul în lumina clară de iarnă; copacii desfrunziți din jur permit o vedere mai bună asupra arhitecturii clădirii.",
+                "en": "View the manor in the clear winter light; the surrounding bare trees allow for an even better view of the building's architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocher de l'Ours",
+                "hu": "Rocher de l'Ours",
+                "ro": "Rocher de l'Ours",
+                "en": "Rocher de l'Ours"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Blickpunkt von der Küstenstraße aus; der Fels wirkt in der tiefstehenden Wintersonne besonders massiv und beeindruckend.",
+                "hu": "Remek kilátópont a parti útról; a szikla az alacsonyan járó téli napfényben különösen masszívnak és lenyűgözőnek tűnik.",
+                "ro": "Un punct de observație excelent de pe drumul de coastă; stânca pare deosebit de masivă și impresionantă în lumina joasă a iernii.",
+                "en": "A great viewpoint from the coastal road; the rock looks especially massive and impressive in the low-angled winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Pierre Longue",
+                "hu": "Menhir Pierre Longue",
+                "ro": "Menhir Pierre Longue",
+                "en": "Menhir Pierre Longue"
+              },
+              "tip_5lang": {
+                "de": "Der Menhir steht einsam in der Winterlandschaft; ein kurzer Stopp für ein Foto lohnt sich, bevor man wieder ins warme Auto steigt.",
+                "hu": "A menhir magányosan áll a téli tájban; egy rövid fotómegálló erejéig érdemes kiszállni, mielőtt visszatérnénk a fűtött autóba.",
+                "ro": "Menhirul stă singuratic în peisajul de iarnă; merită o scurtă oprire pentru poze înainte de a reveni în mașina încălzită.",
+                "en": "The menhir stands lonely in the winter landscape; a short photo stop is worth it before jumping back into the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de Bauvran",
+                "hu": "Moulin de Bauvran",
+                "ro": "Moulin de Bauvran",
+                "en": "Moulin de Bauvran"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist im Winter ein ruhiger Anblick; genießen Sie die ländliche Atmosphäre, die in der kalten Jahreszeit besonders friedlich wirkt.",
+                "hu": "A malom télen is nyugodt látványt nyújt; élvezze a vidéki hangulatot, amely a hideg évszakban különösen békésnek hat.",
+                "ro": "Moara este o vedere liniștită iarna; bucurați-vă de atmosfera rurală care pare deosebit de pașnică în sezonul rece.",
+                "en": "The mill is a calm sight in winter; enjoy the rural atmosphere which feels especially peaceful during the cold season."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Saint-Michel",
+                "hu": "Plage Saint-Michel",
+                "ro": "Plage Saint-Michel",
+                "en": "Plage Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Blick auf den Winterstrand; bei 17:00 Uhr Sonnenuntergang leuchtet der Sand in warmen Goldtönen.",
+                "hu": "Zárja a napot a téli strand látványával; a 17:00-s naplementénél a homok meleg arany tónusokban ragyog a hideg ellenére.",
+                "ro": "Încheiați ziua cu vederea plajei de iarnă; la apusul de la ora 17:00, nisipul strălucește în tonuri calde de auriu.",
+                "en": "End the day watching the winter beach; with the 17:00 sunset, the sand glows in warm golden tones despite the cold air."
+              }
+            }
+          ]
+        }
       }
     }
   }

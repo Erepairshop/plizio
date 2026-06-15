@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi örökség felfedezésével a hangulatos Galerie de Dahouët-ben. \n\nA dél délután egy kis vidámságot hoz a Port Miniature-nél, majd tengerparti pihenés vár a La Mine d'Or-nál. \n\nDélután élvezze a kilátást a Phare de la Petite Muette-ből, és pihenjen az Anse du Pissot öbölben. \n\nZárja a napot a történelmi Corps de Garde megcsodálásával, ahogy a nap lassan lenyugszik.",
         "ro": "Începeți dimineața explorând moștenirea locală la fermecătoarea Galerie de Dahouët. \n\nLa prânz, descoperiți magia de la Port Miniature, urmată de relaxare de-a lungul coastei la La Mine d'Or. \n\nPetreceți după-amiaza admirând priveliștea de la Phare de la Petite Muette și odihnindu-vă la Anse du Pissot. \n\nÎncheiați ziua explorând istoricul Corps de Garde, în timp ce soarele începe să apună.",
         "en": "Start your morning immersing in the local heritage at the charming Galerie de Dahouët. \n\nMidday brings a whimsical touch at Port Miniature, followed by coastal relaxation along La Mine d'Or. \n\nSpend your afternoon capturing the views from Phare de la Petite Muette and resting at Anse du Pissot. \n\nConclude the day marveling at the historic Corps de Garde while the sun begins to lower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Galerie, während der Regen gegen die Scheiben peitscht. Mittags bietet der Hafen trotz grauer Wolken ein dramatisches Fotomotiv, doch die Kais sind rutschig. Am Nachmittag führen die Wege zur Mine d'Or durch feuchtes Grün; wasserfeste Schuhe sind hier Pflicht. Der Abend verkürzt sich durch das trübe Licht, was der Bucht eine mystische Ruhe verleiht.",
+            "hu": "A reggel a galéria fedett falai között indul, menedéket nyújtva az eső elől. Délben a kikötő látványa a szürke ég alatt is lenyűgöző, de a kövek csúszhatnak a víz miatt. Délután a Mine d'Or felé vezető ösvények sárosak lehetnek, így a vízálló bakancs elengedhetetlen. Az este korán és párásan köszönt be, a tengerparti sziklák ilyenkor mutatják legzordabb, legszebb arcukat.",
+            "ro": "Dimineața începe la adăpost în galerie, în timp ce ploaia bate în ferestre. La prânz, portul oferă un cadru dramatic pentru fotografii, dar digurile sunt alunecoase. După-amiaza, potecile spre Mine d'Or sunt umede și verzi; încălțămintea impermeabilă este obligatorie. Seara se lasă devreme din cauza cerului noros, oferind golfului o liniște mistică și relaxantă.",
+            "en": "Morning begins sheltered in the gallery while rain lashes against the windows. At noon, the harbor provides a dramatic backdrop for photos, but the quays are slippery. In the afternoon, the paths to Mine d'Or lead through damp greenery; waterproof boots are a must. The evening arrives early with the overcast sky, giving the bay a mystical and quiet atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Galerie de Dahouët",
+                "hu": "La Galerie de Dahouët",
+                "ro": "La Galerie de Dahouët",
+                "en": "La Galerie de Dahouët"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Kunst im trockenen Innenraum und warten Sie hier den stärksten Regenschauer bei einem inspirierenden Rundgang ab.",
+                "hu": "Élvezze a helyi művészetet a száraz belső térben, és várja meg itt a leghevesebb záporokat egy inspiráló körséta keretében.",
+                "ro": "Bucurați-vă de arta locală în interiorul uscat și așteptați aici trecerea celei mai intense averse în timpul unui tur inspirat.",
+                "en": "Enjoy local art in the dry interior and wait out the heaviest rain showers here during an inspiring stroll through the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Miniature",
+                "hu": "Port Miniature",
+                "ro": "Port Miniature",
+                "en": "Port Miniature"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die kleinen Boote im Regenbecken und achten Sie auf dem nassen Holzsteg besonders auf Ihre Trittsicherheit.",
+                "hu": "Nézze meg a kis hajókat az esőáztatta medencében, de a nedves fapallókon különösen ügyeljen a biztonságos léptekre.",
+                "ro": "Priviți micile ambarcațiuni în bazinul bătut de ploaie și aveți mare grijă la stabilitate pe platformele de lemn ude.",
+                "en": "View the small boats in the rain-swept basin and take extra care with your footing on the wet wooden walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mine d'Or",
+                "hu": "La Mine d'Or",
+                "ro": "La Mine d'Or",
+                "en": "La Mine d'Or"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Steilküste, die bei Regen golden glänzt, aber meiden Sie die Abbruchkanten wegen der erhöhten Rutschgefahr.",
+                "hu": "Fedezze fel a sziklákat, amelyek esőben aranyként csillognak, de a csúszásveszély miatt kerülje a közvetlen peremeket.",
+                "ro": "Explorați stâncile care strălucesc ca aurul în ploaie, dar evitați marginile abrupte din cauza riscului crescut de alunecare.",
+                "en": "Explore the cliffs that shine like gold in the rain, but stay away from the edges due to the increased risk of slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Petite Muette",
+                "hu": "Phare de la Petite Muette",
+                "ro": "Phare de la Petite Muette",
+                "en": "Phare de la Petite Muette"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wellen gegen den Leuchtturm schlagen, und halten Sie Ihre Kamera unter einem Regenschutz bereit.",
+                "hu": "Figyelje meg, ahogy a hullámok a világítótoronynak csapódnak, és tartsa a fényképezőgépét esővédő huzat alatt.",
+                "ro": "Observați cum valurile se izbesc de far și țineți aparatul foto pregătit sub o protecție specială împotriva ploii.",
+                "en": "Watch the waves crashing against the lighthouse and keep your camera ready under a waterproof cover for great shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Anse du Pissot",
+                "hu": "Anse du Pissot",
+                "ro": "Anse du Pissot",
+                "en": "Anse du Pissot"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Bäumen kurzzeitig Schutz und lauschen Sie dem beruhigenden Prasseln des Regens auf der Wasseroberfläche.",
+                "hu": "Keressen rövid időre menedéket a fák alatt, és hallgassa az eső nyugtató kopogását a tenger felszínén.",
+                "ro": "Căutați adăpost temporar sub copaci și ascultați sunetul relaxant al ploii care lovește suprafața apei.",
+                "en": "Seek temporary shelter under the trees and listen to the soothing sound of rain pattering on the sea surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Corps de Garde",
+                "hu": "Corps de Garde",
+                "ro": "Corps de Garde",
+                "en": "Corps de Garde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das historische Mauerwerk als Windschutz und genießen Sie den weiten Blick auf den wolkenverhangenen Ozean.",
+                "hu": "Használja a történelmi falakat szélfogóként, és élvezze a tágas kilátást a felhőkbe burkolózó óceánra.",
+                "ro": "Folosiți zidurile istorice ca paravan împotriva vântului și admirați vederea largă spre oceanul acoperit de nori.",
+                "en": "Use the historical stone walls as a windbreak and enjoy the expansive view of the cloud-covered ocean horizon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einem belebenden Spaziergang ein, bevor man sich in der warmen Galerie aufwärmt. Mittags funkelt die tiefstehende Sonne auf dem Hafenbecken. Der Nachmittag bietet frische Meeresluft an der Mine d'Or, doch die Kälte zieht schnell in die Kleidung ein. Da es gegen 17:00 Uhr dunkel wird, endet die Tour in der blauen Stunde mit einem malerischen Blick auf die Küste.",
+            "hu": "A tiszta téli reggel frissítő sétára hív, mielőtt a fűtött galériában felmelegedne. Napközben az alacsonyan járó nap sugarai megcsillannak a kikötő vizén. Délután a Mine d'Or sziklái közt metsző a szél, réteges öltözet kötelező. Mivel 17:00 körül sötétedik, a túra a kék óra fényeiben ér véget, amikor a partvonal körvonalai élessé és hideggé válnak.",
+            "ro": "O dimineață senină de iarnă invită la o plimbare revigorantă înainte de a vă încălzi în galeria primitoare. La prânz, soarele jos strălucește pe apa portului. După-amiaza aduce aer marin proaspăt la Mine d'Or, dar frigul pătrunde repede prin haine. Deoarece se întunecă în jur de ora 17:00, turul se încheie în lumina orei albastre cu o vedere pitorească.",
+            "en": "A clear winter morning invites an invigorating walk before warming up in the cozy gallery. At noon, the low sun sparkles on the harbor water. The afternoon brings fresh sea air at Mine d'Or, but the cold seeps through clothes quickly. As it gets dark around 17:00, the tour ends in the blue hour light with a picturesque view of the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Galerie de Dahouët",
+                "hu": "La Galerie de Dahouët",
+                "ro": "La Galerie de Dahouët",
+                "en": "La Galerie de Dahouët"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die geheizten Räume, um die Kunstwerke in aller Ruhe zu betrachten und Ihre Hände für den weiteren Weg aufzuwärmen.",
+                "hu": "Használja ki a fűtött tereket a műalkotások nyugodt megtekintésére, és melegítse fel kezeit a további útszakasz előtt.",
+                "ro": "Profitați de spațiile încălzite pentru a admira operele de artă în liniște și pentru a vă încălzi mâinile pentru restul drumului.",
+                "en": "Take advantage of the heated rooms to view the artworks in peace and warm up your hands for the journey ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Miniature",
+                "hu": "Port Miniature",
+                "ro": "Port Miniature",
+                "en": "Port Miniature"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille des Hafens im Winterlicht und tragen Sie Handschuhe, da Metallgeländer jetzt extrem kalt sind.",
+                "hu": "Csodálja meg a kikötő csendjét a téli fényekben, és viseljen kesztyűt, mert a fémkorlátok ilyenkor rendkívül hidegek.",
+                "ro": "Admirați liniștea portului în lumina iernii și purtați mănuși, deoarece balustradele metalice sunt extrem de reci acum.",
+                "en": "Admire the silence of the harbor in the winter light and wear gloves, as metal railings are extremely cold right now."
+              }
+            },
+            {
+              "name": {
+                "de": "La Mine d'Or",
+                "hu": "La Mine d'Or",
+                "ro": "La Mine d'Or",
+                "en": "La Mine d'Or"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sichtweiten; ziehen Sie eine winddichte Jacke an, um den Aufenthalt oben zu genießen.",
+                "hu": "A tiszta téli levegő nagy látótávolságot tesz lehetővé; vegyen fel szélálló dzsekit, hogy élvezhesse a fenti tartózkodást.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate excelentă; purtați o jachetă rezistentă la vânt pentru a vă bucura de peisaj.",
+                "en": "The clear winter air allows for great visibility; wear a windproof jacket to comfortably enjoy your stay at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Petite Muette",
+                "hu": "Phare de la Petite Muette",
+                "ro": "Phare de la Petite Muette",
+                "en": "Phare de la Petite Muette"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das harte Kontrastlicht am Leuchtturm und schützen Sie Ihr Gesicht mit einem Schal vor der beißenden Gischt.",
+                "hu": "Tapasztalja meg az éles kontrasztokat a toronynál, és védje arcát sállal a tenger felől érkező metsző szél és pára ellen.",
+                "ro": "Experimentați lumina contrastantă la far și protejați-vă fața cu un fular împotriva aerului marin tăios de iarnă.",
+                "en": "Experience the harsh contrasting light at the lighthouse and protect your face with a scarf from the biting sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Anse du Pissot",
+                "hu": "Anse du Pissot",
+                "ro": "Anse du Pissot",
+                "en": "Anse du Pissot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit der Bucht im Winter und bringen Sie eine Thermoskanne mit einem heißen Getränk für eine kurze Rast mit.",
+                "hu": "Élvezze az öböl magányát télen, és hozzon magával termoszt forró itallal egy rövid, lélekmelegítő pihenőhöz.",
+                "ro": "Bucurați-vă de singurătatea golfului în timpul iernii și aduceți un termos cu o băutură caldă pentru un scurt popas.",
+                "en": "Enjoy the solitude of the bay in winter and bring a thermos with a hot drink for a short, heart-warming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Corps de Garde",
+                "hu": "Corps de Garde",
+                "ro": "Corps de Garde",
+                "en": "Corps de Garde"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Meer und achten Sie auf gefrorene Stellen auf den steinernen Pfaden.",
+                "hu": "Figyelje meg a korai naplementét a tenger felett, és ügyeljen a jeges foltokra a köves, sziklás ösvényeken.",
+                "ro": "Observați apusul timpuriu peste mare și aveți grijă la porțiunile înghețate de pe potecile de piatră.",
+                "en": "Watch the early sunset over the sea and keep an eye out for frozen patches on the stony coastal paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje kerékpáros kalandját a nyugodt Port-morvan partján egy frissítő reggeli ébredéssel. \n\nDélben tekerjen a kikötő felé, hogy felfedezze a Galerie de Dahouët kulturális kincseit. \n\nDélután álljon meg a festői Phare de la Petite Muette-nél, mielőtt legurulna a hatalmas Plage du Val André strandhoz. \n\nZárja aktív napját egy békés pillanattal a tengerparti Chapelle Notre-Dame kápolnában.",
         "ro": "Începeți aventura cu bicicleta la liniștitul Port-morvan pentru un start revigorant pe coastă. \n\nLa prânz, mergeți spre port pentru a explora comorile culturale din cadrul Galerie de Dahouët. \n\nDupă-amiaza, opriți-vă la pitorescul Phare de la Petite Muette înainte de a coborî spre plaja Val André. \n\nÎncheiați-vă ziua activă cu un moment de pace la superba capelă Chapelle Notre-Dame.",
         "en": "Begin your cycling adventure at the tranquil Port-morvan for a refreshing coastal start. \n\nBy midday, ride towards the bustling port to explore the cultural treasures inside La Galerie de Dahouët. \n\nIn the afternoon, pause at the scenic Phare de la Petite Muette before riding down to the expansive Plage du Val André. \n\nEnd your active day with a moment of peace at the Chapelle Notre-Dame."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet erfrischend am Port-morvan, wobei Schutzbleche heute Gold wert sind. Mittags bietet die Galerie eine willkommene trockene Pause vom Küstenwind. Die Fahrt zum Val André führt über nasse Straßen, die erhöhte Vorsicht in den Kurven erfordern. Der Abend endet früher, da die Sicht bei Regen abnimmt; schalten Sie unbedingt Ihre Beleuchtung ein, um sicher zurückzukehren.",
+            "hu": "A bringatúra frissítően indul Port-morvannál, a sárvédő ma aranyat ér. Napközben a galéria nyújt száraz menedéket a parti szél elől. A Val André felé vezető út nedves aszfalton halad, ami a kanyarokban fokozott figyelmet igényel. A túra korábban ér véget, mivel esőben romlanak a látási viszonyok; feltétlenül kapcsolja be a lámpákat a biztonságos visszatéréshez.",
+            "ro": "Turul cu bicicleta începe revigorant la Port-morvan, unde aripile de protecție sunt esențiale astăzi. La prânz, galeria oferă o pauză uscată binevenită. Drumul spre Val André trece pe șosele ude, necesitând prudență sporită în curbe. Seara se încheie mai devreme, deoarece vizibilitatea scade; porniți neapărat luminile pentru o întoarcere în siguranță.",
+            "en": "The bike tour starts refreshingly at Port-morvan, where mudguards are worth their weight in gold today. At noon, the gallery offers a welcome dry break from the coastal wind. The ride to Val André follows wet roads, requiring extra caution in corners. The evening ends earlier as visibility decreases in the rain; be sure to turn on your lights for a safe return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port-morvan",
+                "hu": "Port-morvan",
+                "ro": "Port-morvan",
+                "en": "Port-morvan"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Ufer, da der nasse Untergrund den Bremsweg Ihres Rades deutlich verlängert.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a parton, mert a nedves talaj jelentősen meghosszabbítja a kerékpár fékútját.",
+                "ro": "Verificați frânele înainte de a pleca spre țărm, deoarece solul umed prelungește considerabil distanța de frânare.",
+                "en": "Check your brakes before heading to the shore, as the wet ground significantly increases your bike's stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "La Galerie de Dahouët",
+                "hu": "La Galerie de Dahouët",
+                "ro": "La Galerie de Dahouët",
+                "en": "La Galerie de Dahouët"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und nutzen Sie die Pause, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja ki a szünetet, hogy röviden lerázza a vizet az esőruházatáról.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de pauză pentru a scutura puțin echipamentul de ploaie.",
+                "en": "Park your bike in a sheltered spot and use the break to briefly shake off the water from your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Petite Muette",
+                "hu": "Phare de la Petite Muette",
+                "ro": "Phare de la Petite Muette",
+                "en": "Phare de la Petite Muette"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad zu nah an die Klippenkante zu fahren, da starke Windböen und Regen das Gleichgewicht stören können.",
+                "hu": "Kerülje a sziklaszirthez való túl közeli bringázást, mert az erős széllökések és az eső megzavarhatják az egyensúlyát.",
+                "ro": "Evitați să pedalați prea aproape de marginea falezei, deoarece rafalele puternice de vânt și ploaia vă pot dezechilibra.",
+                "en": "Avoid cycling too close to the cliff edge, as strong wind gusts and rain can easily disrupt your balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Val André",
+                "hu": "Plage du Val André",
+                "ro": "Plage du Val André",
+                "en": "Plage du Val André"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Strandpromenade, da nasser Sand auf dem Asphalt die Reifen sehr rutschig machen kann.",
+                "hu": "Hajtson óvatosan a tengerparti sétányon, mert az aszfaltra hordott nedves homok nagyon csúszóssá teheti a gumikat.",
+                "ro": "Pedalați cu atenție pe faleză, deoarece nisipul umed de pe asfalt poate face anvelopele foarte alunecoase.",
+                "en": "Ride carefully on the beach promenade, as wet sand on the asphalt can make your tires very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame",
+                "hu": "Chapelle Notre-Dame",
+                "ro": "Chapelle Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von der Anhöhe aus dem Schutz des Kircheneingangs und wischen Sie Ihren Sattel vor der Weiterfahrt trocken.",
+                "hu": "Élvezze a kilátást a dombtetőről a templom bejáratának védelméből, és törölje szárazra a nyerget az indulás előtt.",
+                "ro": "Admirați vederea de pe deal din adăpostul intrării în biserică și ștergeți șaua înainte de a pleca mai departe.",
+                "en": "Enjoy the hilltop view from the shelter of the church entrance and wipe your saddle dry before riding on."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Port-morvan ist frostig, aber die klare Sicht entschädigt für die Kälte. Mittags ist die Galerie der ideale Ort, um die Taubheit aus den Fingern zu vertreiben. Der Nachmittag am Val André ist windig; tragen Sie unbedingt eine winddichte Schicht über der Winterkleidung. Da die Sonne gegen 17:00 Uhr sinkt, wird die Chapelle Notre-Dame im warmen Licht des Abends zu einem magischen Endpunkt.",
+            "hu": "A téli reggel Port-morvannál fagyos, de a tiszta látómező kárpótol a hidegért. Délben a galéria ideális hely, hogy elűzze az ujjai zsibbadását a melegben. Délután a Val André partján szeles az idő; feltétlenül viseljen szélálló réteget a téli ruházat felett. Mivel a nap 17:00 körül lebukik, a Chapelle Notre-Dame az esti fényekben varázslatos végpontjává válik a túrának.",
+            "ro": "Dimineața de iarnă la Port-morvan este geroasă, dar vizibilitatea clară compensează frigul. La prânz, galeria este locul ideal pentru a vă încălzi mâinile amorțite. După-amiaza la Val André este vântoasă; purtați un strat rezistent la vânt peste hainele groase. Deoarece soarele apune în jur de ora 17:00, Chapelle Notre-Dame devine un punct final magic în lumina serii.",
+            "en": "The winter morning at Port-morvan is frosty, but the clear visibility makes up for the cold. At noon, the gallery is the ideal place to warm up your numb fingers. The afternoon at Val André is windy; be sure to wear a windproof layer over your winter clothes. As the sun sets around 17:00, Chapelle Notre-Dame becomes a magical endpoint in the evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port-morvan",
+                "hu": "Port-morvan",
+                "ro": "Port-morvan",
+                "en": "Port-morvan"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf den Wegen und halten Sie durch ständiges Treten Ihren Kreislauf bei den niedrigen Temperaturen in Schwung.",
+                "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra, és folyamatos tekeréssel tartsa mozgásban a keringését a hidegben.",
+                "ro": "Atenție la porțiunile cu chiciură de pe drum și mențineți-vă circulația activă pedalând constant la temperaturi scăzute.",
+                "en": "Watch out for frosty, slippery patches on the paths and keep your circulation going by pedaling steadily in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "La Galerie de Dahouët",
+                "hu": "La Galerie de Dahouët",
+                "ro": "La Galerie de Dahouët",
+                "en": "La Galerie de Dahouët"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine längere Pause im Warmen, um Ihre Körpertemperatur zu stabilisieren, bevor Sie wieder in den Fahrtwind gehen.",
+                "hu": "Engedjen meg magának egy hosszabb szünetet a melegben, hogy stabilizálja testhőjét, mielőtt újra a menetszélbe indulna.",
+                "ro": "Acordați-vă o pauză mai lungă la căldură pentru a vă stabiliza temperatura corpului înainte de a pleca din nou la drum.",
+                "en": "Allow yourself a longer break in the warmth to stabilize your body temperature before heading out into the wind again."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de la Petite Muette",
+                "hu": "Phare de la Petite Muette",
+                "ro": "Phare de la Petite Muette",
+                "en": "Phare de la Petite Muette"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Leuchtturm kann im Winter eisig sein; ein Gesichtsschutz oder ein eng anliegender Schal ist beim Radfahren ratsam.",
+                "hu": "A világítótoronynál a szél télen jéghideg lehet; kerékpározáskor arcvédő vagy szorosan illeszkedő sál használata javasolt.",
+                "ro": "Vântul la far poate fi înghețat iarna; se recomandă folosirea unei protecții faciale sau a unui fular strâns când pedalați.",
+                "en": "The wind at the lighthouse can be ice-cold in winter; a face mask or a tight-fitting scarf is advisable while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Val André",
+                "hu": "Plage du Val André",
+                "ro": "Plage du Val André",
+                "en": "Plage du Val André"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leere Promenade, aber bleiben Sie in Bewegung, da der kalte Seewind die Feuchtigkeit in die Kleidung drückt.",
+                "hu": "Élvezze az üres sétányt, de maradjon mozgásban, mert a hideg tengeri szél átnyomja a nedvességet a ruházaton.",
+                "ro": "Bucurați-vă de faleza pustie, dar rămâneți în mișcare, deoarece vântul rece de mare împinge umezeala în haine.",
+                "en": "Enjoy the empty promenade, but keep moving as the cold sea breeze pushes moisture through your clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame",
+                "hu": "Chapelle Notre-Dame",
+                "ro": "Chapelle Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für Fotos der Küste und bereiten Sie Ihre Beleuchtung für die Rückfahrt in der Dunkelheit vor.",
+                "hu": "Használja ki az utolsó nappali fényeket a part fotózásához, és készítse elő a lámpákat a sötétben történő visszautazáshoz.",
+                "ro": "Folosiți ultima lumină a zilei pentru fotografii ale coastei și pregătiți luminile pentru drumul de întoarcere pe întuneric.",
+                "en": "Use the last daylight for photos of the coast and prepare your lights for the return journey in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autózzon el kora reggel a zord grève du Vauglin strandhoz egy drámai tengerparti élményért. \n\nA dél hívogatja a békés Port-morvan felfedezésére és a helyi legendák megismerésére a galériában. \n\nDélután élvezze a napsütést és a puha homokot a népszerű Plage du Val André strandon. \n\nZárja az autós utazást a lenyűgöző Église Saint-Pierre-et-Saint-Paul meglátogatásával az este közeledtével.",
         "ro": "Conduceți dimineața devreme spre accidentata grève du Vauglin pentru o experiență dramatică la mare. \n\nPrânzul vă invită să explorați pașnicul Port-morvan și să vizitați uimitoarea Galerie de Dahouët. \n\nPetreceți după-amiaza bucurându-vă de soare pe nisipul fin al popularei Plage du Val André. \n\nÎncheiați excursia cu mașina cu o vizită la impresionanta Église Saint-Pierre-et-Saint-Paul la apus.",
         "en": "Drive to the rugged grève du Vauglin early in the morning for a dramatic seaside experience. \n\nMidday invites you to explore the peaceful Port-morvan and dive into local lore at La Galerie de Dahouët. \n\nSpend your afternoon enjoying the sun and soft sands at the popular Plage du Val André. \n\nConclude your road trip with a visit to the striking Église Saint-Pierre-et-Saint-Paul as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt entspannt an der Grève du Vauglin, während der Regen auf das Autodach trommelt. Mittags bietet die Galerie einen perfekten trockenen Zwischenstopp mit Kultur. Am Nachmittag laden die Strände vom Val André zu kurzen, erfrischenden Spaziergängen ein, bevor man sich im geheizten Wagen wieder aufwärmt. Der Abend endet an der Kirche Saint-Pierre, deren historische Mauern Schutz vor dem rauen Wetter bieten.",
+            "hu": "Az autós túra pihentetően indul a Grève du Vauglin partján, miközben az eső kopog a tetőn. Délben a galéria tökéletes száraz megálló egy kis kultúrához. Délután a Val André strandjai rövid, frissítő sétákra hívnak, mielőtt visszatérne a fűtött utastérbe. Az este a Saint-Pierre templomnál zárul, melynek történelmi falai biztonságos menedéket nyújtanak a zord időjárás elől.",
+            "ro": "Călătoria începe relaxat la Grève du Vauglin, în timp ce ploaia bate în plafonul mașinii. La prânz, galeria oferă un popas cultural perfect uscat. După-amiaza, plajele din Val André invită la scurte plimbări revigorante înainte de a vă reîntoarce în mașina încălzită. Seara se încheie la biserica Saint-Pierre, ale cărei ziduri istorice oferă protecție împotriva vremii aspre.",
+            "en": "The drive starts relaxingly at Grève du Vauglin as rain patters on the car roof. At noon, the gallery provides a perfect dry cultural stopover. In the afternoon, the beaches of Val André invite short, refreshing walks before warming up in the heated car again. The evening ends at Saint-Pierre church, whose historical walls offer protection from the harsh weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "grève du Vauglin",
+                "hu": "grève du Vauglin",
+                "ro": "grève du Vauglin",
+                "en": "grève du Vauglin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt aus dem Auto und parken Sie auf befestigtem Untergrund, um nicht im Matsch steckenzubleiben.",
+                "hu": "Élvezze a viharos tenger látványát közvetlenül az autóból, és parkoljon szilárd talajon, hogy ne akadjon el a sárban.",
+                "ro": "Admirați marea agitată direct din mașină și parcați pe teren solid pentru a nu rămâne blocat în noroi.",
+                "en": "Enjoy the view of the stormy sea directly from your car and park on solid ground to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Port-morvan",
+                "hu": "Port-morvan",
+                "ro": "Port-morvan",
+                "en": "Port-morvan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Ufer lohnt sich für die dramatische Gischt; halten Sie einen Regenschirm für den Weg vom Parkplatz bereit.",
+                "hu": "Egy rövid futás a partig megéri a látványért; tartson kéznél egy esernyőt a parkolótól a partig vezető úton.",
+                "ro": "O scurtă fugă până la țărm merită pentru peisajul dramatic; țineți o umbrelă la îndemână pentru drumul de la parcare.",
+                "en": "A short sprint to the shore is worth it for the dramatic spray; have an umbrella ready for the walk from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "La Galerie de Dahouët",
+                "hu": "La Galerie de Dahouët",
+                "ro": "La Galerie de Dahouët",
+                "en": "La Galerie de Dahouët"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen schnellen Zugang zum Gebäude und genießen Sie die warme, trockene Atmosphäre der Ausstellung.",
+                "hu": "Használja a közeli parkolót a gyors bejutáshoz, és élvezze a kiállítás meleg, száraz atmoszféráját a kinti eső ellenére.",
+                "ro": "Folosiți parcarea din apropiere pentru acces rapid în clădire și bucurați-vă de atmosfera caldă și uscată a expoziției.",
+                "en": "Use the nearby parking lot for quick access to the building and enjoy the warm, dry atmosphere of the exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Val André",
+                "hu": "Plage du Val André",
+                "ro": "Plage du Val André",
+                "en": "Plage du Val André"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wellen vom Auto aus oder machen Sie einen schnellen Strandspaziergang mit einer hochwertigen Regenjacke.",
+                "hu": "Figyelje a hullámok játékát az autóból, vagy tegyen egy gyors sétát a parton egy jó minőségű esőkabátban.",
+                "ro": "Observați jocul valurilor din mașină sau faceți o plimbare scurtă pe plajă echipat cu o pelerină de ploaie de calitate.",
+                "en": "Watch the play of the waves from the car or take a quick beach walk equipped with a high-quality raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Paul",
+                "hu": "Église Saint-Pierre-et-Saint-Paul",
+                "ro": "Église Saint-Pierre-et-Saint-Paul",
+                "en": "Église Saint-Pierre-et-Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen würdevollen und trockenen Abschluss; nutzen Sie die Zeit zur inneren Einkehr, während draußen der Regen fällt.",
+                "hu": "A templom méltóságteljes és száraz zárópont; használja az időt belső elcsendesedésre, miközben odakint esik az eső.",
+                "ro": "Biserica oferă un final demn și uscat; folosiți timpul pentru reflecție în timp ce afară plouă torențial.",
+                "en": "The church offers a dignified and dry conclusion; take time for quiet reflection while the rain falls outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen an der Grève du Vauglin zeigt die Küste in klarem, hartem Licht. Mittags ist die Galerie der ideale Ort zum Aufwärmen zwischen den Fahrten. Am Nachmittag bietet der Val André einsame Strände für kurze Fotostopps bei eisiger Brise. Da es gegen 17:00 Uhr dunkel wird, erstrahlt die Kirche Saint-Pierre-et-Saint-Paul in der Abenddämmerung besonders stimmungsvoll und lädt zu einem besinnlichen Abschluss ein.",
+            "hu": "A fagyos téli reggel a Grève du Vauglin-nél tiszta, éles fényekben mutatja meg a partot. Délben a galéria ideális hely a felmelegedésre az autózások között. Délután a Val André magányos strandjai várják egy-egy rövid fotómegállóra a jeges szélben. Mivel 17:00 körül sötétedik, a Saint-Pierre-et-Saint-Paul templom az alkonyatban különösen hangulatos és meghitt lezárása a napnak.",
+            "ro": "O dimineață geroasă de iarnă la Grève du Vauglin dezvăluie coasta în lumină clară și ascuțită. La prânz, galeria este locul ideal pentru încălzire între drumuri. După-amiaza, Val André oferă plaje pustii pentru scurte opriri foto în briza înghețată. Deoarece se întunecă în jur de ora 17:00, biserica Saint-Pierre-et-Saint-Paul strălucește în amurg, invitând la un final liniștit.",
+            "en": "A frosty winter morning at Grève du Vauglin reveals the coast in clear, sharp light. At noon, the gallery is the ideal place to warm up between drives. In the afternoon, Val André offers lonely beaches for short photo stops in the icy breeze. As it gets dark around 17:00, Saint-Pierre-et-Saint-Paul church shines in the twilight, inviting a peaceful conclusion to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "grève du Vauglin",
+                "hu": "grève du Vauglin",
+                "ro": "grève du Vauglin",
+                "en": "grève du Vauglin"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Stand kurz laufen, um die Scheiben eisfrei zu halten, während Sie das Panorama der Winterküste bewundern.",
+                "hu": "Hagyja rövid ideig járni a fűtést álló helyzetben, hogy a szélvédők páramentesek maradjanak, miközben a téli partvidékben gyönyörködik.",
+                "ro": "Lăsați încălzirea pornită scurt timp în timp ce staționați pentru a menține geamurile curate în timp ce admirați panorama iernii.",
+                "en": "Keep the heater running briefly while stationary to keep the windows clear while you admire the winter coast panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Port-morvan",
+                "hu": "Port-morvan",
+                "ro": "Port-morvan",
+                "en": "Port-morvan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basislager für kleine Erkundungen am Ufer und wärmen Sie sich nach jedem Fotostopp sofort wieder auf.",
+                "hu": "Használja az autót bázisként a parti felfedezésekhez, és minden fotómegálló után azonnal melegedjen fel az utastérben.",
+                "ro": "Folosiți mașina ca bază pentru mici explorări pe țărm și încălziți-vă imediat după fiecare oprire pentru fotografii.",
+                "en": "Use the car as a base camp for small explorations on the shore and warm up immediately after every photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "La Galerie de Dahouët",
+                "hu": "La Galerie de Dahouët",
+                "ro": "La Galerie de Dahouët",
+                "en": "La Galerie de Dahouët"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine hervorragende Möglichkeit, der Kälte für eine Stunde zu entfliehen und sich mit lokaler Kultur zu beschäftigen.",
+                "hu": "A galéria kiváló lehetőséget nyújt, hogy egy órára elmeneküljön a hideg elől, és elmerüljön a helyi kultúra szépségeiben.",
+                "ro": "Galeria oferă o oportunitate excelentă de a scăpa de frig pentru o oră și de a vă bucura de cultura locală.",
+                "en": "The gallery provides an excellent opportunity to escape the cold for an hour and engage with the beauty of local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Val André",
+                "hu": "Plage du Val André",
+                "ro": "Plage du Val André",
+                "en": "Plage du Val André"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade für einen windgeschützten Blick auf das Meer und machen Sie nur einen kurzen Gang an die frische Luft.",
+                "hu": "Parkoljon közvetlenül a sétánynál a szélvédett tengeri kilátáshoz, és csak egy rövid körre szálljon ki a friss levegőre.",
+                "ro": "Parcați direct pe faleză pentru o vedere spre mare protejată de vânt și faceți doar o scurtă ieșire în aerul rece.",
+                "en": "Park directly on the promenade for a wind-sheltered view of the sea and only step out for a short breath of fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Paul",
+                "hu": "Église Saint-Pierre-et-Saint-Paul",
+                "ro": "Église Saint-Pierre-et-Saint-Paul",
+                "en": "Église Saint-Pierre-et-Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor dem Einbruch der Dunkelheit und genießen Sie die spirituelle Wärme des beleuchteten Innenraums.",
+                "hu": "Látogassa meg a templomot még sötétedés előtt, és élvezze a kivilágított belső tér spirituális nyugalmát és melegét.",
+                "ro": "Vizitați biserica înainte de lăsarea întunericului și bucurați-vă de liniștea spirituală a interiorului iluminat.",
+                "en": "Visit the church before darkness falls and enjoy the spiritual peace and warmth of the illuminated interior."
+              }
+            }
+          ]
+        }
       }
     }
   }

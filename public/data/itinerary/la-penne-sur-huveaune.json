@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot La Penne-sur-Huveaune szívében a Saint-Laurent templomnál és az ókori római Pennelusnál. Délben fedezze fel a provence-i tájba illeszkedő történelmi Candolle vízvezetéket. Délután sétáljon el a régió nagyszerű birtokaihoz, a Château de la Reynarde-hoz és a Château Régis-hez. Az estét a festői Saint-Menet templom békés atmoszférájában zárhatja.",
         "ro": "Începeți în inima La Penne-sur-Huveaune cu biserica Saint-Laurent și anticul Pennelus roman. La prânz, explorați apeductul istoric Candolle din peisajul provensal. După-amiaza, plimbați-vă pe domeniile grandioase ale Château de la Reynarde și Château Régis. Seara se încheie liniștit la pitoreasca biserică Saint-Menet, bucurându-vă de atmosfera senină.",
         "en": "Start at the heart of La Penne-sur-Huveaune, exploring the reverence of Saint-Laurent Church before marveling at the ancient Roman Pennelus. Wander south midday to trace the historic Aqueduc de la Candolle. Transition in the afternoon to the grand estates, viewing the splendor of Château de la Reynarde and Château Régis. Conclude your tour at the quaint Église Saint-Menet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche Saint-Laurent Schutz vor den ersten Tropfen. Mittags führt der Weg zum Pennelus und zum Aquädukt über rutschige Pfade, wo ein fester Schirm wichtig ist. Nachmittags wirken die Schlösser Reynarde und Régis im Nebel mystisch, doch die Wege im Park sind schlammig. Abends endet die Tour trocken in der Kirche Saint-Menet, während der Regen auf die alten Dächer trommelt.",
+            "hu": "Reggel a Saint-Laurent templom belső tere kínál menedéket az eső elől. Délben a Pennelus és a vízvezeték felé vezető út csúszós lehet, érdemes vízálló cipőt viselni. Délután a Reynarde és Régis kastélyok látványa a szürke égbolt alatt is méltóságteljes, bár a park sárgul. Este a Saint-Menet templom csendes békéjében zárjuk a napot, miközben kint elcsendesedik a város.",
+            "ro": "Dimineața, Biserica Saint-Laurent oferă un refugiu primitor împotriva ploii. La prânz, drumul către Pennelus și apeduct poate fi alunecos, deci purtați încălțăminte cu aderență bună. După-amiaza, castelele Reynarde și Régis par desprinse din povești printre picăturile de ploaie. Seara se încheie la adăpostul Bisericii Saint-Menet, ascultând ritmul ploii pe străzile vechi ale orașului.",
+            "en": "In the morning, Saint-Laurent Church provides a dry start to your walk. By noon, the path to the Pennelus and the aqueduct requires a sturdy umbrella and careful steps on the wet stones. In the afternoon, the Reynarde and Régis castles look atmospheric in the mist, though the park trails may be muddy. The evening ends peacefully inside Saint-Menet Church as the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Kirchenschiff, um die Altäre zu bewundern, während Sie darauf warten, dass der stärkste Regen nachlässt.",
+                "hu": "Használja ki az időt a templomhajóban az oltárok megcsodálására, amíg megvárja, hogy a leghevesebb eső alábbhagyjon.",
+                "ro": "Profită de timpul petrecut în naos pentru a admira altarele în timp ce aștepți ca ploaia cea mai densă să se domolească.",
+                "en": "Take advantage of your time in the nave to admire the altars while waiting for the heaviest rain to subside for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Pennelus",
+                "hu": "A Pennelus",
+                "ro": "Pennelus",
+                "en": "The Pennelus"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Stufen zu diesem römischen Denkmal, da der Stein bei Nässe extrem glatt und rutschig sein kann.",
+                "hu": "Vigyázzon a római emlékműhöz vezető lépcsőkön, mert a kő vizesen rendkívül csúszós és veszélyes lehet a gyalogosoknak.",
+                "ro": "Atenție la treptele care duc spre acest monument roman, deoarece piatra poate fi extrem de alunecoasă când este udă.",
+                "en": "Be careful on the steps leading to this Roman monument, as the stone can be extremely slick and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduc de la Candolle",
+                "hu": "Candolle Vízvezeték",
+                "ro": "Apeductul de la Candolle",
+                "en": "Aqueduc de la Candolle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Stiefel, da sich unter den massiven Steinbögen des Aquädukts bei Regen tiefe Pfützen bilden.",
+                "hu": "Viseljen vízálló bakancsot, mivel a vízvezeték masszív kőívei alatt esőben mély tócsák és sár alakulhat ki az úton.",
+                "ro": "Purtați cizme impermeabile, deoarece sub arcadele masive de piatră ale apeductului se formează bălți adânci când plouă.",
+                "en": "Wear waterproof boots, as deep puddles and mud tend to form under the massive stone arches of the aqueduct during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Reynarde",
+                "hu": "Château de la Reynarde",
+                "ro": "Château de la Reynarde",
+                "en": "Château de la Reynarde"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die nasse Fassade von unter den dichten Bäumen aus, die einen natürlichen Schutz gegen den Regen bieten.",
+                "hu": "Csodálja meg a nedves homlokzatot a sűrű fák alól, amelyek természetes védelmet nyújtanak az eső ellen a kastély körül.",
+                "ro": "Admirați fațada umedă de sub copacii deși, care oferă o protecție naturală împotriva ploii în jurul castelului.",
+                "en": "Admire the wet facade from beneath the dense trees, which provide a natural canopy against the rain around the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Régis",
+                "hu": "Château Régis",
+                "ro": "Château Régis",
+                "en": "Château Régis"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Aufenthalt im Freien kurz und nutzen Sie Mauervorsprünge, um das Gebäude ohne nass zu werden zu betrachten.",
+                "hu": "Tartsa rövidre a kinti tartózkodást, és használja a falak kiugróit, hogy megtekinthesse az épületet anélkül, hogy bőrig ázna.",
+                "ro": "Păstrați vizita scurtă și folosiți proeminențele zidurilor pentru a vedea clădirea fără a vă uda până la piele.",
+                "en": "Keep your outdoor stay short and use the building's overhangs to view the architecture without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Menet",
+                "hu": "Saint-Menet templom",
+                "ro": "Biserica Saint-Menet",
+                "en": "Église Saint-Menet"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wanderung hier im Trockenen; die ruhige Atmosphäre ist perfekt, um sich vor dem Heimweg aufzuwärmen.",
+                "hu": "Fejezze be a sétát itt, száraz helyen; a nyugodt légkör tökéletes, hogy kicsit összeszedje magát a hazaút előtt.",
+                "ro": "Încheiați plimbarea aici, la uscat; atmosfera liniștită este perfectă pentru a vă reculege înainte de drumul spre casă.",
+                "en": "Finish your walk here in the dry; the calm atmosphere is perfect for gathering yourself before the journey back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise durch das Huveaune-Tal, ideal für einen zügigen Marsch zur Kirche Saint-Laurent. Mittags glänzt der Pennelus in der klaren Winterluft, doch man muss sich warm anziehen. Nachmittags werfen die Schlösser lange Schatten auf die kahlen Parks. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte die Kirche Saint-Menet im letzten Tageslicht besucht werden.",
+            "hu": "Reggel friss, fagyos szél fúj az Huveaune-völgyben, ami gyors tempóra ösztönöz a Saint-Laurent templomig. Délben a Pennelus kövei fehéren fénylenek a tiszta téli levegőben. Délután a kastélyok hosszú árnyékot vetnek a kopár parkokra, így érdemes rétegesen öltözni. Mivel 17 óra után sötétedik, a Saint-Menet templomot még az utolsó fényeknél keressük fel.",
+            "ro": "Dimineața, o briză rece străbate valea Huveaune, perfectă pentru un marș rapid spre Biserica Saint-Laurent. La prânz, Pennelus strălucește în aerul curat de iarnă, dar e nevoie de haine groase. După-amiaza, castelele proiectează umbre lungi peste parcurile golașe. Deoarece soarele apune în jur de ora 17:00, vizitați Biserica Saint-Menet în ultima lumină a zilei.",
+            "en": "Morning brings a crisp breeze to the Huveaune valley, perfect for a brisk walk to Saint-Laurent Church. By noon, the Pennelus stands out in the clear winter air, though warm layers are essential. Afternoon shadows stretch across the bare castle parks as the sun hangs low. Since sunset is around 5 PM, aim to reach Saint-Menet Church while there is still a glimmer of daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche kann im Winter sehr zugig sein; behalten Sie Ihren Mantel an, während Sie das historische Interieur erkunden.",
+                "hu": "A templom télen huzatos lehet; hagyja magán a kabátját, amíg a történelmi belső teret és az oltárokat felfedezi.",
+                "ro": "Biserica poate fi foarte răcoroasă iarna; păstrați haina pe dvs. în timp ce explorați interiorul istoric și altarele.",
+                "en": "The church can be quite drafty in winter; keep your coat on while you explore the historic interior and the altars."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Pennelus",
+                "hu": "A Pennelus",
+                "ro": "Pennelus",
+                "en": "The Pennelus"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet die beste Sicht auf die Details dieses römischen Grabmals ohne störendes Laub an den Bäumen.",
+                "hu": "A tiszta téli fényben látszanak legjobban a római síremlék részletei, mivel a fák kopár ágai nem takarják el a kilátást.",
+                "ro": "Lumina clară de iarnă oferă cea mai bună vizibilitate asupra detaliilor acestui mormânt roman, fără frunzișul copacilor.",
+                "en": "The clear winter light offers the best view of the Roman tomb's details, as bare branches don't obstruct the visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduc de la Candolle",
+                "hu": "Candolle Vízvezeték",
+                "ro": "Apeductul de la Candolle",
+                "en": "Aqueduc de la Candolle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Bereichen unter den Bögen, wo die Feuchtigkeit oft den ganzen Tag gefroren bleibt.",
+                "hu": "Ügyeljen a jeges foltokra az ívek alatti árnyékos részeken, ahol a nedvesség gyakran egész nap fagyott maradhat.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite de sub arcade, unde umezeala rămâne adesea înghețată toată ziua.",
+                "en": "Watch out for icy patches in the shaded areas under the arches, where moisture often remains frozen throughout the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Reynarde",
+                "hu": "Château de la Reynarde",
+                "ro": "Château de la Reynarde",
+                "en": "Château de la Reynarde"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter sehr weitläufig und offen; tragen Sie winddichte Kleidung, um den Spaziergang genießen zu können.",
+                "hu": "A park télen nagyon szellős és nyitott; viseljen szélálló ruházatot, hogy élvezni tudja a kastély körüli sétát.",
+                "ro": "Parcul este foarte aerisit și deschis iarna; purtați haine rezistente la vânt pentru a vă bucura de plimbarea la castel.",
+                "en": "The park is very open and breezy in winter; wear windproof clothing to stay comfortable during your walk to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Régis",
+                "hu": "Château Régis",
+                "ro": "Château Régis",
+                "en": "Château Régis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zügig, da die Kälte hier in der Nähe des Tals am Nachmittag oft deutlich spürbar zunimmt.",
+                "hu": "Látogassa meg gyorsan ezt a helyszínt, mivel a völgy közelsége miatt a hideg délutánra jelentősen felerősödhet.",
+                "ro": "Vizitați locația rapid, deoarece apropierea de vale face ca frigul să se intensifice considerabil spre după-amiază.",
+                "en": "Visit this site briskly, as the valley's proximity causes the temperature to drop significantly in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Menet",
+                "hu": "Saint-Menet templom",
+                "ro": "Biserica Saint-Menet",
+                "en": "Église Saint-Menet"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um das Innere noch bei Tageslicht zu sehen, bevor die winterliche Dunkelheit einsetzt.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy még természetes fénynél láthassa a templombelsőt, mielőtt beáll a téli sötétség.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea interiorul bisericii în lumină naturală, înainte de lăsarea întunericului.",
+                "en": "Arrive before 5 PM to see the church interior in natural light before the early winter darkness sets in completely."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpározást a Pennelus római örökségének megcsodálásával. Délben tekerjen le a kitaposott ösvényről La Candolle zord szépsége és a vízvezeték felé. Délután a zöldellő külvárosokban haladva fedezze fel a három kastélyt: a Reynarde-ot, a Régist és a híres Buzine-t. Végül pihentesse meg lábait a békés Saint-Christophe templomnál.",
         "ro": "Începeți ziua de ciclism admirând moștenirea romană de la Pennelus. La prânz, pedalați spre frumusețea accidentată a La Candolle și apeductul istoric. După-amiaza, traversați suburbiile verzi pentru a descoperi trioul de castele: Reynarde, Régis și faimosul Buzine. În cele din urmă, odihniți-vă picioarele la liniștita Biserică Saint-Christophe.",
         "en": "Kick off your cycling day marveling at the Roman legacy of The Pennelus. Midday takes you off the beaten path towards the rugged beauty of La Candolle and the imposing historic aqueduct. As the afternoon unfolds, pedal through the leafy suburbs to discover the trio of châteaux: Reynarde, Régis, and the famed Buzine. Finally, rest your legs at the peaceful Église Saint-Christophe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen im Huveaune-Tal erfordert Vorsicht beim Radfahren. Starten Sie beim Pennelus, wo der Asphalt rutschig sein kann. Mittags bieten das Aquädukt und La Candolle wenig Schutz, daher ist Regenbekleidung Pflicht. Nachmittags führen die Wege zu den Schlössern durch nasses Laub. Abends erreichen Sie die Kirche Saint-Christophe, wo Sie Ihr Rad abstellen und im Trockenen verschnaufen können.",
+            "hu": "Az eső az Huveaune-völgyben óvatosságot igényel kerékpározás közben. Kezdjen a Pennelusnál, ahol az aszfalt csúszós lehet. Délben a vízvezeték és La Candolle környéke nyitott, így a vízálló ruha kötelező. Délután a kastélyokhoz vezető utat nedves levelek boríthatják. Este a Saint-Christophe templomnál fejezheti be a túrát, ahol fedett helyen fújhatja ki magát.",
+            "ro": "Ploaia în valea Huveaune necesită prudență pe bicicletă. Începeți la Pennelus, unde asfaltul poate fi alunecos. La prânz, zona apeductului și La Candolle sunt expuse, deci costumul de ploaie este obligatoriu. După-amiaza, drumurile spre castele pot fi acoperite de frunze ude. Seara ajungeți la Biserica Saint-Christophe, unde vă puteți odihni la adăpost.",
+            "en": "Rain in the Huveaune valley calls for extra caution on two wheels. Start at the Pennelus, watching for slick pavement. At noon, the open spaces around the aqueduct and La Candolle offer little cover, making rain gear essential. Afternoon paths to the castles may be covered in slippery wet leaves. End your ride at Saint-Christophe Church, where you can park and dry off inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Der Pennelus",
+                "hu": "A Pennelus",
+                "ro": "Pennelus",
+                "en": "The Pennelus"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor dem Denkmal, da der Bodenbelag hier bei Nässe seine Griffigkeit für Reifen schnell verliert.",
+                "hu": "Fékezzen időben az emlékmű előtt, mivel az útfelület vizesen gyorsan elveszítheti tapadását a kerékpárgumik számára.",
+                "ro": "Frânați din timp în fața monumentului, deoarece suprafața drumului își poate pierde aderența pentru pneuri când este udă.",
+                "en": "Brake early before the monument, as the road surface can quickly lose its grip for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "La Candolle",
+                "hu": "La Candolle",
+                "ro": "La Candolle",
+                "en": "La Candolle"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengender; achten Sie auf eine gleichmäßige Trittfrequenz, um auf dem nassen Untergrund nicht wegzurutschen.",
+                "hu": "Az emelkedő esőben fárasztóbb; tartson egyenletes tempót, hogy elkerülje a hátsó kerék kipörgését a nedves talajon.",
+                "ro": "Urcarea este mai obositoare pe ploaie; mențineți un ritm constant pentru a evita deraparea roții spate pe solul umed.",
+                "en": "The climb is more taxing in the rain; maintain a steady cadence to avoid slipping on the wet ground while ascending."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduc de la Candolle",
+                "hu": "Candolle Vízvezeték",
+                "ro": "Apeductul de la Candolle",
+                "en": "Aqueduc de la Candolle"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen unter dem Aquädukt, da diese oft Schlaglöcher verbergen, die Ihr Rad beschädigen könnten.",
+                "hu": "Kerülje a mély tócsákat a vízvezeték alatt, mert gyakran kátyúkat rejtenek, amelyek kárt tehetnek a kerékpárjában.",
+                "ro": "Evitați bălțile adânci de sub apeduct, deoarece ascund adesea gropi care pot deteriora jantele bicicletei.",
+                "en": "Avoid deep puddles under the aqueduct, as they often hide potholes that could damage your bike's wheels or frame."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Reynarde",
+                "hu": "Château de la Reynarde",
+                "ro": "Château de la Reynarde",
+                "en": "Château de la Reynarde"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch den Park; nasses Laub auf den Wegen wirkt oft wie Schmierseife unter den Fahrradreifen.",
+                "hu": "Kerekezzen óvatosan a parkban; az utakon lévő nedves levelek olyanok, mintha szappanos vízen csúszna a gumi.",
+                "ro": "Mergeți cu grijă prin parc; frunzele ude de pe poteci acționează ca un strat de săpun sub roțile bicicletei.",
+                "en": "Ride carefully through the park; wet leaves on the paths can act like soap under your bike tires, causing sudden slips."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Régis",
+                "hu": "Château Régis",
+                "ro": "Château Régis",
+                "en": "Château Régis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Vordächer für eine kurze Trinkpause, um Ihre Handschuhe und Griffe so trocken wie möglich zu halten.",
+                "hu": "Használja az előtetőket egy rövid pihenőre, hogy a kesztyűit és a kormányt a lehető legszárazabban tarthassa.",
+                "ro": "Folosiți streșinile pentru o scurtă pauză de hidratare, păstrând mănușile și ghidonul cât mai uscate posibil.",
+                "en": "Use the building's overhangs for a quick break to keep your gloves and handlebars as dry as possible during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Buzine",
+                "hu": "Château de la Buzine",
+                "ro": "Château de la Buzine",
+                "en": "Château de la Buzine"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt bei Regen besonders melancholisch; ein tolles Fotomotiv, wenn Sie Ihre Kamera schnell wieder wegpacken.",
+                "hu": "A kastély esőben különösen melankolikus hangulatot áraszt; remek fotótéma, ha gyorsan el tudja rakni a gépét.",
+                "ro": "Castelul are o atmosferă melancolică pe ploaie; este un subiect foto excelent dacă puteți proteja rapid aparatul.",
+                "en": "The castle has a very melancholic vibe in the rain; it's a great photo subject if you can keep your camera dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Église Saint-Christophe"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier endgültig Schutz; das Innere der Kirche ist der ideale Ort, um sich nach der nassen Fahrt zu regenerieren.",
+                "hu": "Keressen itt végleges menedéket; a templom belseje ideális hely a regenerálódásra a vizes tekerés után.",
+                "ro": "Căutați aici refugiu final; interiorul bisericii este locul ideal pentru a vă reveni după cursa prin ploaie.",
+                "en": "Seek final shelter here; the church interior is an ideal place to recover and warm up after your wet ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad erfordert gute Handschuhe gegen den Fahrtwind. Starten Sie beim Pennelus und genießen Sie die klare Sicht. Mittags wärmt die Sonne in La Candolle etwas auf, aber bleiben Sie in Bewegung. Nachmittags kühlt es bei den Schlössern schnell ab, wenn die Schatten länger werden. Da es um 17:00 Uhr dunkel wird, stellen Sie sicher, dass Ihr Licht für das Ziel Saint-Christophe funktioniert.",
+            "hu": "A téli biciklis túrához elengedhetetlen a jó kesztyű a menetszél ellen. Kezdjen a Pennelusnál, élvezve a tiszta kilátást. Délben a nap La Candolle-nál kicsit felmelegíti az időt, de maradjon mozgásban. Délután a kastélyoknál a hosszú árnyékok miatt gyorsan hűl a levegő. Mivel 17 órakor sötétedik, ellenőrizze a lámpáit a Saint-Christophe templom felé.",
+            "ro": "O tură de iarnă pe bicicletă necesită mănuși bune împotriva vântului. Începeți la Pennelus și bucurați-vă de vizibilitatea clară. La prânz, soarele încălzește puțin la La Candolle, dar rămâneți în mișcare. După-amiaza, aerul se răcește rapid lângă castele. Deoarece se întunecă la ora 17:00, asigurați-vă că luminile funcționează spre Saint-Christophe.",
+            "en": "A winter bike tour requires quality gloves to fight the wind chill. Start at the Pennelus and enjoy the unobstructed views. At noon, the sun provides some warmth at La Candolle, but keep moving to stay warm. Late afternoon brings a quick chill as shadows stretch over the castles. With sunset at 5 PM, ensure your bike lights are working for the final stretch to Saint-Christophe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Der Pennelus",
+                "hu": "A Pennelus",
+                "ro": "Pennelus",
+                "en": "The Pennelus"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Morgenluft am Denkmal ist erfrischend; tragen Sie ein Halstuch, um Ihre Atemwege vor der Kälte zu schützen.",
+                "hu": "A fagyos reggeli levegő az emlékműnél frissítő; viseljen sálat, hogy védje a légutait a hideg menetszéltől.",
+                "ro": "Aerul înghețat de dimineață la monument este revigorant; purtați un fular pentru a vă proteja căile respiratorii.",
+                "en": "The frosty morning air at the monument is refreshing; wear a neck gaiter to protect your lungs from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Candolle",
+                "hu": "La Candolle",
+                "ro": "La Candolle",
+                "en": "La Candolle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Anstieg, um Ihre Körpertemperatur zu erhöhen, aber ziehen Sie oben sofort die Jacke zu, um nicht auszukühlen.",
+                "hu": "Használja ki az emelkedőt a testhőmérséklete növelésére, de a tetőn azonnal húzza fel a cipzárt, hogy ne fázzon meg.",
+                "ro": "Folosiți urcarea pentru a vă încălzi corpul, dar închideți imediat jacheta sus pentru a nu răci de la vânt.",
+                "en": "Use the climb to raise your body temperature, but zip up your jacket immediately at the top to avoid catching a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduc de la Candolle",
+                "hu": "Candolle Vízvezeték",
+                "ro": "Apeductul de la Candolle",
+                "en": "Aqueduc de la Candolle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Pause kurz; der Stein des Aquädukts strahlt im Winter eine Kälte aus, die man schnell in den Gelenken spürt.",
+                "hu": "Tartson rövid pihenőt; a vízvezeték kövei télen árasztják a hideget, amit hamar megérezhet az ízületeiben.",
+                "ro": "Păstrați pauza scurtă; piatra apeductului emană un frig iarna pe care îl veți simți rapid în articulații.",
+                "en": "Keep your break short; the stone of the aqueduct radiates cold in winter, which can quickly chill your joints."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Reynarde",
+                "hu": "Château de la Reynarde",
+                "ro": "Château de la Reynarde",
+                "en": "Château de la Reynarde"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unter dem Helm eine dünne Mütze, da der kalte Wind in den offenen Parkanlagen am Schloss sehr beißen kann.",
+                "hu": "Viseljen vékony sapkát a sisak alatt, mert a kastély nyitott parkjában a hideg szél nagyon fülhasogató tud lenni.",
+                "ro": "Purtați o căciulă subțire sub cască, deoarece vântul rece în parcul deschis al castelului poate fi foarte tăios.",
+                "en": "Wear a thin thermal cap under your helmet, as the cold wind in the open castle park can be quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Régis",
+                "hu": "Château Régis",
+                "ro": "Château Régis",
+                "en": "Château Régis"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet beim Fahren; eine Sonnenbrille hilft Ihnen, die Straße und das Schloss sicher zu sehen.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; egy napszemüveg segít az utat és a kastélyt is tisztán látni.",
+                "ro": "Soarele jos de iarnă vă poate orbi; o pereche de ochelari de soare vă va ajuta să vedeți drumul și castelul clar.",
+                "en": "The low winter sun can be blinding while riding; sunglasses will help you see the road and the castle safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Buzine",
+                "hu": "Château de la Buzine",
+                "ro": "Château de la Buzine",
+                "en": "Château de la Buzine"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Konturen des Schlosses gegen den blauen Winterhimmel sind herrlich; machen Sie ein schnelles Foto mit Handschuhen.",
+                "hu": "A kastély éles kontúrjai a kék téli égen gyönyörűek; készítsen egy gyors fotót, mielőtt túlságosan lehűlnének az ujjai.",
+                "ro": "Contururile clare ale castelului pe cerul albastru de iarnă sunt superbe; faceți o poză rapidă înainte de a vă îngheța mâinile.",
+                "en": "The castle's sharp outlines against the blue winter sky are stunning; snap a quick photo before your fingers get too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Église Saint-Christophe"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg im Dunkeln bereit ist, da die Dämmerung hier früh einsetzt.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái készen állnak a sötét hazaútra, mivel itt korán leszáll az alkony.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt gata pentru drumul de întoarcere pe întuneric, căci amurgul vine devreme aici.",
+                "en": "Make sure your bike lights are ready for the ride back in the dark, as twilight arrives very early here in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +968,280 @@
         "hu": "Kezdje az utazást a Saint-Laurent templomnál és az ikonikus Pennelusnál. Délben autózzon dél felé, hogy megcsodálja La Candolle-t és a vízvezetéket. A délután egy látványos kastélytúra a Reynarde, Régis, Buzine és Saint-Antoine között. Zárja a napot egy békés megállóval a Saint-Christophe templomnál, ahogy leszáll az est.",
         "ro": "Începeți cu mașina prin istoria locală la Biserica Saint-Laurent și la emblematicul Pennelus. La prânz, mergeți spre sud pentru a admira La Candolle și apeductul său majestuos. După-amiaza este un tur spectaculos al castelelor Reynarde, Régis, Buzine și Saint-Antoine. Încheiați ziua cu o oprire senină la Biserica Saint-Christophe la lăsarea serii.",
         "en": "Begin your drive through local history at Saint-Laurent Church and the iconic Pennelus. Midday, cruise south to admire the natural setting of La Candolle and its majestic aqueduct. The afternoon is a spectacular châteaux tour, moving effortlessly between Reynarde, Régis, Buzine, and Saint-Antoine. End the day with a serene stop at Église Saint-Christophe as dusk settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für eine Tour mit dem Auto durch La Penne-sur-Huveaune. Starten Sie trocken bei der Kirche Saint-Laurent. Mittags erreichen Sie La Candolle und das Aquädukt; parken Sie nah, um den Regen zu meiden. Nachmittags bieten die Schlösser eine tolle Kulisse vom Beifahrersitz aus. Abends endet die Fahrt bei der Kirche Saint-Christophe, während Sie die gemütliche Wärme im Wagen genießen.",
+            "hu": "Az esős idő tökéletes egy autós túrához La Penne-sur-Huveaune környékén. Kezdjen szárazon a Saint-Laurent templomnál. Délben La Candolle és a vízvezeték felé vegye az irányt; parkoljon közel, hogy elkerülje az ázást. Délután a kastélyok látványa az autóablakból is pazar. Este a Saint-Christophe templomnál fejezze be a napot, élvezve a kocsi kényelmes melegét.",
+            "ro": "O zi ploioasă este ideală pentru un tur cu mașina în La Penne-sur-Huveaune. Începeți la adăpost, la Biserica Saint-Laurent. La prânz, mergeți spre La Candolle și apeduct; parcați aproape pentru a evita ploaia. După-amiaza, castelele oferă un decor superb de la fereastra mașinii. Seara se încheie la Biserica Saint-Christophe, bucurându-vă de căldura din habitaclu.",
+            "en": "A rainy day is perfect for exploring La Penne-sur-Huveaune by car. Start your tour dry at Saint-Laurent Church. At noon, head to La Candolle and the aqueduct; park as close as possible to dodge the showers. In the afternoon, the castles provide a grand backdrop through your windshield. Finish at Saint-Christophe Church in the evening, enjoying the cozy warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Sprint durch den Regen ins trockene Kirchenschiff trocken zu überstehen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy a rövid sprintet az esőben szárazon megússza a templomhajóig.",
+                "ro": "Parcați cât mai aproape de intrare pentru a trece de scurtul sprint prin ploaie până în naos fără a vă uda prea tare.",
+                "en": "Park as close to the entrance as possible to minimize your dash through the rain into the dry nave of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Pennelus",
+                "hu": "A Pennelus",
+                "ro": "Pennelus",
+                "en": "The Pennelus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Aussichtspunkt; Sie können dieses römische Denkmal oft gut vom Parkplatz aus sehen, ohne auszusteigen.",
+                "hu": "Használja az autót kilátópontként; ezt a római emlékművet gyakran jól láthatja a parkolóból is, anélkül, hogy kiszállna.",
+                "ro": "Folosiți mașina ca punct de observație; puteți vedea acest monument roman destul de bine din parcare, fără a coborî.",
+                "en": "Use your car as a viewpoint; you can often get a good look at this Roman monument from the parking area without stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "La Candolle",
+                "hu": "La Candolle",
+                "ro": "La Candolle",
+                "en": "La Candolle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrten, da das Wasser bei Starkregen oft Erde auf die Straße spült.",
+                "hu": "Vezessen óvatosan a keskeny bekötőutakon, mivel heves esőben a víz gyakran sarat és hordalékot mos az úttestre.",
+                "ro": "Conduceți cu atenție pe drumurile înguste, deoarece ploaia torențială spală adesea noroiul și resturile pe carosabil.",
+                "en": "Drive carefully on the narrow access roads, as heavy rain often washes mud and debris onto the asphalt surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduc de la Candolle",
+                "hu": "Candolle Vízvezeték",
+                "ro": "Apeductul de la Candolle",
+                "en": "Aqueduc de la Candolle"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Scheibenwischer auf höchster Stufe, um die massiven Bögen des Aquädukts sicher im Blick zu behalten.",
+                "hu": "Tartsa az ablaktörlőket a legmagasabb fokozaton, hogy a vízvezeték masszív íveit biztonságosan szemügyre vehesse.",
+                "ro": "Lăsați ștergătoarele pe treapta maximă pentru a vedea clar arcadele masive ale apeductului în timp ce treceți pe lângă el.",
+                "en": "Keep your wipers on high speed to get a clear and safe look at the massive arches of the aqueduct as you pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Reynarde",
+                "hu": "Château de la Reynarde",
+                "ro": "Château de la Reynarde",
+                "en": "Château de la Reynarde"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Schloss kann bei Regen rutschig sein; fahren Sie langsam, um Pfützen und Schlamm im Parkbereich zu vermeiden.",
+                "hu": "A kastélyhoz vezető út esőben csúszós lehet; hajtson lassan, hogy elkerülje a tócsákat és a sarat a parkolóban.",
+                "ro": "Drumul spre castel poate fi alunecos pe ploaie; conduceți încet pentru a evita bălțile și noroiul din zona parcării.",
+                "en": "The access road to the castle can be slick in the rain; drive slowly to avoid deep puddles and mud in the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Régis",
+                "hu": "Château Régis",
+                "ro": "Château Régis",
+                "en": "Château Régis"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur durch das regennasse Fenster; das fließende Wasser erzeugt tolle Lichteffekte auf der Fassade.",
+                "hu": "Csodálja meg az építészetet az esőtől vizes ablakon keresztül; a lefolyó víz érdekes fényhatásokat kelt a homlokzaton.",
+                "ro": "Admirați arhitectura prin geamul ud de ploaie; apa care se scurge creează efecte de lumină interesante pe fațadă.",
+                "en": "Admire the architecture through your rain-streaked windows; the running water creates unique light effects on the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Buzine",
+                "hu": "Château de la Buzine",
+                "ro": "Château de la Buzine",
+                "en": "Château de la Buzine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf einem befestigten Platz, um bei Nässe nicht im aufgeweichten Boden der Parkanlage stecken zu bleiben.",
+                "hu": "Parkoljon szilárd burkolatú helyen, hogy esőben ne akadjon el a kastélypark felázott, puha talajában.",
+                "ro": "Parcați pe o suprafață pavată pentru a nu rămâne blocat în solul moale și îmbibat cu apă al parcului castelului.",
+                "en": "Park on a paved surface to ensure you don't get stuck in the soft, waterlogged ground of the castle park."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Saint-Antoine",
+                "hu": "Château Saint-Antoine",
+                "ro": "Château Saint-Antoine",
+                "en": "Château Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Gebäude lässt sich wunderbar vom warmen Innenraum Ihres Autos aus betrachten, während es draußen stürmt.",
+                "hu": "Ez a történelmi épület remekül szemügyre vehető az autója meleg utasteréből is, miközben odakint tombol a vihar.",
+                "ro": "Această clădire istorică poate fi admirată de minune din interiorul cald al mașinii, în timp ce afară plouă torențial.",
+                "en": "This historic building can be viewed comfortably from your warm car interior while the storm continues outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Église Saint-Christophe"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag im Trockenen ausklingen; die Kirche bietet den perfekten Abschluss für Ihre wetterfeste Autotour.",
+                "hu": "Zárja a napot szárazon; a templom tökéletes befejezése az időjárás viszontagságaitól védett autós túrának.",
+                "ro": "Încheiați ziua la uscat; biserica oferă finalul perfect pentru turul cu mașina protejat de intemperii.",
+                "en": "End your day in the dry; the church provides a perfect conclusion to your weather-protected car tour of the area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage im Auto bieten Komfort und tolle Ausblicke auf das Huveaune-Tal. Starten Sie bei der Kirche Saint-Laurent mit funktionierender Heizung. Mittags glänzen der Pennelus und La Candolle in der tiefstehenden Sonne. Nachmittags ist die Fahrt zwischen den Schlössern besonders stimmungsvoll. Da es gegen 17:00 Uhr dunkel wird, erreichen Sie Saint-Christophe im letzten Dämmerlicht der winterlichen Provence.",
+            "hu": "A téli autós nap kényelmet és gyönyörű kilátást kínál az Huveaune-völgyre. Kezdjen a Saint-Laurent templomnál, élvezve a jól működő fűtést. Délben a Pennelus és La Candolle fehéren fénylenek az alacsonyan járó napban. Délután a kastélyok közötti autózás különösen hangulatos. Mivel 17 óra körül sötétedik, a Saint-Christophe templomot az utolsó provence-i szürkületben éri el.",
+            "ro": "Zilele de iarnă în mașină oferă confort și priveliști superbe asupra văii Huveaune. Începeți la Biserica Saint-Laurent cu căldura pornită. La prânz, Pennelus și La Candolle strălucesc sub soarele jos de iarnă. După-amiaza, drumul între castele este deosebit de pitoresc. Deoarece se întunecă în jur de ora 17:00, ajungeți la Saint-Christophe în amurgul provensal.",
+            "en": "Winter days by car offer warmth and stunning vistas of the Huveaune valley. Start at Saint-Laurent Church with the heater running comfortably. By noon, the Pennelus and La Candolle shine under the low winter sun. The afternoon drive between the castles is especially atmospheric in the golden light. As darkness falls around 5 PM, you will reach Saint-Christophe in the final twilight of Provence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Saint-Laurent templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Saint-Laurent Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warm laufen, bevor Sie die Kirche betreten, damit es nach der Besichtigung wieder gemütlich ist.",
+                "hu": "Hagyja az autót kicsit bemelegedni, mielőtt bemegy a templomba, hogy a látogatás után rögtön kellemes meleg várja.",
+                "ro": "Lăsați mașina să se încălzească puțin înainte de a intra în biserică, pentru a avea confort termic imediat la întoarcere.",
+                "en": "Let the car warm up for a few minutes before entering the church so it's cozy when you return from your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Pennelus",
+                "hu": "A Pennelus",
+                "ro": "Pennelus",
+                "en": "The Pennelus"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht gestochen scharfe Fotos von diesem römischen Monument direkt durch die Windschutzscheibe.",
+                "hu": "A tiszta téli levegő lehetővé teszi, hogy tűéles fotókat készítsen a római emlékműről közvetlenül a szélvédőn keresztül.",
+                "ro": "Aerul curat de iarnă permite realizarea unor fotografii clare acestui monument roman direct prin parbrizul mașinii.",
+                "en": "The crisp winter air allows for crystal-clear photos of this Roman monument directly through your car's windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "La Candolle",
+                "hu": "La Candolle",
+                "ro": "La Candolle",
+                "en": "La Candolle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Straßen in den schattigen Talseiten, wenn Sie zu diesem Aussichtspunkt hochfahren.",
+                "hu": "Ügyeljen a zúzmarára az utakon a völgy árnyékos oldalain, amikor felhajt ehhez a szép kilátóponthoz.",
+                "ro": "Atenție la chiciura de pe carosabil în zonele umbrite ale văii când urcați spre acest punct de observație.",
+                "en": "Watch out for frost on the roads in the shaded parts of the valley as you drive up to this scenic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduc de la Candolle",
+                "hu": "Candolle Vízvezeték",
+                "ro": "Apeductul de la Candolle",
+                "en": "Aqueduc de la Candolle"
+              },
+              "tip_5lang": {
+                "de": "Das massive Bauwerk wirkt in der kahlen Winterlandschaft besonders beeindruckend; genießen Sie den Anblick aus dem warmen Auto.",
+                "hu": "A masszív építmény a kopár téli tájban különösen lenyűgöző; élvezze a látványt a fűtött autóból ülve.",
+                "ro": "Construcția masivă pare deosebit de impresionantă în peisajul golaș de iarnă; admirați vederea din mașina încălzită.",
+                "en": "The massive structure looks especially impressive in the bare winter landscape; enjoy the view from your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Reynarde",
+                "hu": "Château de la Reynarde",
+                "ro": "Château de la Reynarde",
+                "en": "Château de la Reynarde"
+              },
+              "tip_5lang": {
+                "de": "Die langen Schatten der Wintersonne verleihen dem Schloss eine dramatische Optik; ideal für Architektur-Liebhaber.",
+                "hu": "A téli nap hosszú árnyékai drámai megjelenést kölcsönöznek a kastélynak; ideális az építészet kedvelőinek.",
+                "ro": "Umbrele lungi ale soarelui de iarnă oferă castelului un aspect dramatic; ideal pentru pasionații de arhitectură.",
+                "en": "The long shadows cast by the winter sun give the castle a dramatic look; ideal for architecture enthusiasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Régis",
+                "hu": "Château Régis",
+                "ro": "Château Régis",
+                "en": "Château Régis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Beifahrerfenster für Fotos, da das Schloss im Winter nicht durch Blätter an den Bäumen verdeckt wird.",
+                "hu": "Használja az utasoldali ablakot a fotózáshoz, mivel télen a fák levelei nem takarják el a kastély homlokzatát.",
+                "ro": "Folosiți fereastra pasagerului pentru fotografii, deoarece iarna frunzele copacilor nu ascund fațada castelului.",
+                "en": "Use the passenger side window for photos, as the castle facade isn't hidden by leaves during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Buzine",
+                "hu": "Château de la Buzine",
+                "ro": "Château de la Buzine",
+                "en": "Château de la Buzine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz, um die Architektur zu bewundern; die kalte Luft draußen macht die Rückkehr ins warme Auto umso schöner.",
+                "hu": "Parkoljon le egy pillanatra, hogy megcsodálja az épületet; a kinti hideg után még jobb lesz visszaülni a melegbe.",
+                "ro": "Parcați o clipă pentru a admira clădirea; după frigul de afară, revenirea în mașina caldă va fi și mai plăcută.",
+                "en": "Park for a moment to admire the building; the cold air outside makes returning to your warm car even better."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Saint-Antoine",
+                "hu": "Château Saint-Antoine",
+                "ro": "Château Saint-Antoine",
+                "en": "Château Saint-Antoine"
+              },
+              "tip_5lang": {
+                "de": "Bei Sonnenuntergang leuchten die Steine des Schlosses in warmen Tönen; ein perfekter Moment, um kurz den Motor abzustellen.",
+                "hu": "Naplementekor a kastély kövei meleg tónusokban ragyognak; tökéletes pillanat, hogy egy percre leállítsa a motort.",
+                "ro": "La apus, pietrele castelului strălucesc în tonuri calde; este un moment perfect pentru a opri motorul o clipă.",
+                "en": "At sunset, the stones of the castle glow in warm tones; it's a perfect moment to briefly turn off the engine and look."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Église Saint-Christophe"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Parkbeleuchtung, da es im Winter bereits früh dunkel ist, wenn Sie diese letzte Station erreichen.",
+                "hu": "Figyeljen a parkoló világítására, mivel télen már sötét lesz, mire elérkezik ehhez az utolsó állomáshoz.",
+                "ro": "Fiți atenți la iluminatul parcării, deoarece iarna este deja întuneric când ajungeți la această ultimă oprire.",
+                "en": "Pay attention to the parking lot lighting, as it will already be dark by the time you reach this final stop in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A Ceriale-i reggel a lenyűgöző templomi építészettel és a Bagni Vittoria hűsítő pihenőjével indul. A dél a tengerpart mentén kényelmesen elvezeti a festői Bagni Lido azzurro és a Bagni Carlotta felé. Délután felfedezheti a Hansel e Gretel történelmi jelentőségét a városban. A napot a Bagni Cavallino Bianco esti, pihentető kikapcsolódása zárja.",
         "ro": "Dimineața în Ceriale începe cu arhitectura superbă a bisericii și o pauză revigorantă la Bagni Vittoria. Amiaza vă duce confortabil de-a lungul coastei către pitorescul Bagni Lido azzurro și Bagni Carlotta. După-amiaza veți explora importanța istorică a lui Hansel e Gretel. Ziua se încheie cu o relaxare de seară liniștită la Bagni Cavallino Bianco.",
         "en": "Your morning in Ceriale starts with the lovely church architecture and a refreshing pause at Bagni Vittoria. The midday leads you comfortably along the coast to the scenic Bagni Lido azzurro and Bagni Carlotta. In the afternoon, you will explore the historical significance of Hansel e Gretel in town. The day concludes with a relaxing evening rest at Bagni Cavallino Bianco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ceriale im Regen hat einen melancholischen Charme. Der Morgen beginnt geschützt in der Kirche, während draußen die Tropfen fallen. Mittags bietet die Hansel e Gretel Struktur einen gemütlichen Zufluchtsort. Nachmittags ist der Spaziergang entlang der Strandbäder mit einem Regenschirm sehr atmosphärisch, da das graue Meer auf den Sand trifft. Abends glänzen die nassen Gassen im Laternenlicht.",
+            "hu": "Ceriale esőben is különleges arcát mutatja. A reggel a templom hűvös, de száraz falai között indul. Délben a Hansel e Gretel épülete nyújt menedéket a zápor elől. Délután az esernyős séta a tengerparti strandok mentén borongósan szép, ahogy az esőcseppek a hullámokkal találkoznak. Az este a nedves kövön megcsillanó fényekkel zárul, figyelve a csúszós felületekre a korzón.",
+            "ro": "Ceriale în ploaie are un farmec melancolic. Dimineața începe la adăpost în biserică, în timp ce afară picăturile cad ritmic. La prânz, structura Hansel e Gretel oferă un refugiu primitor. După-amiaza, plimbarea cu umbrela pe lângă stabilimentele de plajă este foarte atmosferică, marea gri întâlnind nisipul ud. Seara se încheie cu reflexiile luminilor pe străzile umede.",
+            "en": "Ceriale in the rain has a melancholic charm. The morning starts sheltered in the church while drops fall outside. At noon, the Hansel e Gretel structure provides a cozy refuge. In the afternoon, an umbrella walk along the beach clubs is atmospheric as the grey sea meets the wet sand. The evening ends with lights reflecting on the damp pavement; watch for slippery spots on the promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Barockdetails im Inneren, während Sie vor dem Regen geschützt sind; achten Sie auf den nassen Boden im Eingangsbereich.",
+                "hu": "Csodálja meg a belső barokk részleteket, miközben védve van az esőtől; figyeljen a bejáratnál a vizes padló okozta csúszásveszélyre.",
+                "ro": "Admirați detaliile baroce din interior în timp ce sunteți protejat de ploaie; aveți grijă la podeaua umedă de la intrare.",
+                "en": "Admire the baroque details inside while staying protected from the rain; be careful of the wet floor near the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Vittoria",
+                "hu": "Bagni Vittoria",
+                "ro": "Bagni Vittoria",
+                "en": "Bagni Vittoria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer von der überdachten Terrasse aus; ein stabiler Regenschirm ist für den Weg dorthin unerlässlich.",
+                "hu": "Élvezze az esős tenger látványát a fedett teraszról; egy stabil esernyő elengedhetetlen a bejárathoz vezető rövid úton.",
+                "ro": "Bucurați-vă de vederea mării ploioase de pe terasa acoperită; o umbrelă rezistentă este esențială pentru drumul până acolo.",
+                "en": "Enjoy the view of the rainy sea from the covered terrace; a sturdy umbrella is essential for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Lido azzurro",
+                "hu": "Bagni Lido azzurro",
+                "ro": "Bagni Lido azzurro",
+                "en": "Bagni Lido azzurro"
+              },
+              "tip_5lang": {
+                "de": "Der Regen auf dem Sand erzeugt ein einzigartiges Geräusch; bleiben Sie unter dem Vordach, um die dramatische Küstenlinie zu beobachten.",
+                "hu": "A homokra hulló eső egyedi hangot áraszt; maradjon az előtető alatt, és figyelje a tengerpart drámai vonalait a szürkületben.",
+                "ro": "Ploaia pe nisip creează un sunet unic; rămâneți sub copertină pentru a observa linia dramatică a țărmului în timpul furtunii.",
+                "en": "The rain hitting the sand creates a unique sound; stay under the canopy to observe the dramatic coastline during the shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Carlotta",
+                "hu": "Bagni Carlotta",
+                "ro": "Bagni Carlotta",
+                "en": "Bagni Carlotta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Abstände zwischen den Stopps, um nicht zu nass zu werden; die Farben des Meeres wirken bei Regen besonders intensiv.",
+                "hu": "Használja ki a megállók közötti rövid távolságot, hogy ne ázzon el; a tenger színei esőben különösen mélynek és intenzívnek tűnnek.",
+                "ro": "Profitați de distanțele scurte dintre opriri pentru a nu vă uda prea tare; culorile mării par deosebit de intense pe timp de ploaie.",
+                "en": "Take advantage of the short distances between stops to avoid getting soaked; the sea colors look particularly intense in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hansel e Gretel",
+                "hu": "Hansel e Gretel",
+                "ro": "Hansel e Gretel",
+                "en": "Hansel e Gretel"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter historischer Rückzugsort mit warmer Atmosphäre; ideal für eine längere Pause, um die Kleidung etwas zu trocknen.",
+                "hu": "Tökéletes történelmi menedék meleg hangulattal; ideális egy hosszabb szünetre, hogy a ruházata kissé megszáradjon a pihenő alatt.",
+                "ro": "Un refugiu istoric perfect cu o atmosferă caldă; ideal pentru o pauză mai lungă pentru a vă usca puțin hainele la adăpost.",
+                "en": "A perfect historical retreat with a warm atmosphere; ideal for a longer break to let your clothes dry a bit while resting."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Cavallino Bianco",
+                "hu": "Bagni Cavallino Bianco",
+                "ro": "Bagni Cavallino Bianco",
+                "en": "Bagni Cavallino Bianco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Beobachten der Wellen unter Schutz; die Promenade ist malerisch, erfordert aber wasserfestes Schuhwerk.",
+                "hu": "Zárja a napot a hullámok figyelésével fedett helyről; a korzó festői, de vízálló lábbeli szükséges a tócsák elkerüléséhez.",
+                "ro": "Încheiați ziua urmărind valurile de la adăpost; promenada este pitorească, dar necesită încălțăminte impermeabilă pentru bălți.",
+                "en": "End the day watching the waves from a sheltered spot; the promenade is scenic but requires waterproof footwear for the puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Ceriale ist ruhig und erfrischend. Der Morgen beginnt in der warmen Kirche, ein friedlicher Start. Mittags wärmt die Sonne oft trotz kühler Brise. Der Nachmittag am Meer erfordert warme Schichten, da der Wind auffrischt. Da die Sonne gegen 17:00 Uhr untergeht, hüllt das frühe Zwielicht die Strandpromenade in ein sanftes Licht, bevor es Zeit für eine warme Einkehr ist.",
+            "hu": "A tél Cerialéban csendes és frissítő. A reggel a fűtött templomban indul, békés kezdést biztosítva. Napközben a nap gyakran süt a hűvös szél ellenére is. A délutáni tengerparti séta meleg rétegeket igényel a tengeri szél miatt. Mivel a nap 17:00 körül nyugszik, a korai szürkület lágy fénybe vonja a sétányt, mielőtt egy meleg helyre húzódna.",
+            "ro": "Iarna în Ceriale este liniștită și revigorantă. Dimineața începe în biserica caldă, oferind un start pașnic. La prânz, soarele strălucește adesea în ciuda brizelor reci. După-amiaza la malul mării necesită straturi groase, deoarece vântul se întețește. Apusul fiind în jur de ora 17:00, amurgul timpuriu scaldă faleza într-o lumină blândă.",
+            "en": "Winter in Ceriale is quiet and refreshing. The morning starts in the warm church, providing a peaceful beginning. At noon, the sun often shines despite cool breezes. The afternoon seaside walk requires warm layers as the sea wind picks up. Since the sun sets around 5 PM, early twilight bathes the promenade in soft light before it's time to head indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten eine friedliche, warme Zuflucht vor der Winterbrise; genießen Sie die Stille und die sakrale Kunst.",
+                "hu": "A vastag falak békés és meleg menedéket nyújtanak a téli szél elől; élvezze a csendet és a belső tér szakrális művészetét.",
+                "ro": "Zidurile groase oferă un refugiu liniștit și cald împotriva brizelor de iarnă; bucurați-vă de liniște și de arta sacră.",
+                "en": "The thick walls provide a peaceful, warm refuge from the winter breeze; enjoy the silence and the sacred art inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Vittoria",
+                "hu": "Bagni Vittoria",
+                "ro": "Bagni Vittoria",
+                "en": "Bagni Vittoria"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ruhig und eindrucksvoll; tragen Sie eine Windjacke, um den Blick auf das weite Meer zu genießen.",
+                "hu": "A tengerpart télen csendes és lenyűgöző; viseljen szélkabátot, hogy kényelmesen élvezhesse a nyílt tenger látványát a parton.",
+                "ro": "Plaja este liniștită și evocatoare iarna; purtați o jachetă de vânt pentru a vă bucura de vederea mării deschise.",
+                "en": "The beach is quiet and evocative in winter; wear a windbreaker to comfortably enjoy the view of the open sea from the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Lido azzurro",
+                "hu": "Bagni Lido azzurro",
+                "ro": "Bagni Lido azzurro",
+                "en": "Bagni Lido azzurro"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht ist scharf und wunderschön auf dem Wasser; ideal zum Fotografieren, aber vergessen Sie Ihre Handschuhe nicht.",
+                "hu": "A téli fények élesek és gyönyörűek a vízen; tökéletes időpont a fotózáshoz, de ne felejtse otthon a meleg kesztyűjét sem.",
+                "ro": "Lumina de iarnă este ascuțită și frumoasă pe apă; ideal pentru fotografii, dar nu vă uitați mănușile groase.",
+                "en": "The winter light is sharp and beautiful on the water; perfect for photography, but don't forget your warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Carlotta",
+                "hu": "Bagni Carlotta",
+                "ro": "Bagni Carlotta",
+                "en": "Bagni Carlotta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft während des Spaziergangs; ein warmer Schal ist in der Nähe des Wassers unbedingt erforderlich.",
+                "hu": "Élvezze a tiszta téli levegőt a séta közben; egy meleg sál és sapka feltétlenül szükséges a víz közelsége miatt.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în timpul plimbării; un fular călduros este absolut necesar în apropierea apei.",
+                "en": "Enjoy the crisp winter air during your walk; a warm scarf is absolutely essential near the water to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Hansel e Gretel",
+                "hu": "Hansel e Gretel",
+                "ro": "Hansel e Gretel",
+                "en": "Hansel e Gretel"
+              },
+              "tip_5lang": {
+                "de": "Das historische Ambiente wirkt in der kalten Jahreszeit noch intimer; machen Sie es sich im Inneren gemütlich.",
+                "hu": "A történelmi környezet a hideg évszakban még meghittebbnek tűnik; húzódjon be a belső térbe és élvezze az ódon hangulatot.",
+                "ro": "Ambianța istorică pare și mai intimă în sezonul rece; relaxați-vă în interior și bucurați-vă de decorul vechi.",
+                "en": "The historical setting feels even more intimate during the cold season; cozy up inside and enjoy the ancient atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Cavallino Bianco",
+                "hu": "Bagni Cavallino Bianco",
+                "ro": "Bagni Cavallino Bianco",
+                "en": "Bagni Cavallino Bianco"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang kommt früh und wirft lange Schatten auf den Sand; bringen Sie einen dicken Mantel für den Abend mit.",
+                "hu": "A nap korán nyugszik, hosszú árnyékokat vetve a homokra; hozzon egy vastag kabátot az esti tengerparti látványhoz.",
+                "ro": "Apusul vine devreme, aruncând umbre lungi pe nisip; aduceți un palton gros pentru a vedea marea în amurg.",
+                "en": "The sunset comes early, casting long shadows on the sand; bring a heavy coat to enjoy the evening sea view comfortably."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Egy kellemes reggeli bringázás elviszi a főtemplomtól a Bagni Rosa homokos partjára. Délben átszelheti a nyüzsgő utcákat, hogy megtekintse a történelmi Hansel e Gretel-t, majd ellátogat a Piccolo Teatro Caraibi-ba. A délutánt a Le Caravelle vízi park izgalmai töltik ki. Az este közeledtével a Bagni Martini partján pihenhet a gyönyörű tenger mellett.",
         "ro": "O plimbare matinală blândă vă duce de la biserica principală la nisipurile de la Bagni Rosa. La prânz, pedalați spre istoricul Hansel e Gretel și vizitați Piccolo Teatro Caraibi. După-amiaza este plină de entuziasm la parcul acvatic Le Caravelle. Seara se apropie în timp ce vă relaxați la Bagni Martini, chiar lângă marea fermecătoare.",
         "en": "A gentle morning ride brings you from the main church to the charming sands of Bagni Rosa. By midday, cycle through the vibrant streets to see the historic Hansel e Gretel before visiting the cultural stage of Piccolo Teatro Caraibi. Your afternoon is filled with excitement at the Le Caravelle water park. Evening approaches as you relax at Bagni Martini near the beautiful sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine frische Perspektive. Der Vormittag an der Kirche ist ein trockener Startpunkt. Mittags bieten historische Mauern Schutz. Nachmittags sind die Wege zum Wasserpark bei Nässe rutschig, daher ist langsames Fahren wichtig. Abends kehrt man mit dem Duft von feuchtem Asphalt und Meer zurück, gut eingepackt in Regenkleidung.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, de friss élményt nyújt. A délelőtti templomlátogatás száraz kezdőpont. Délben a történelmi falak adnak menedéket. Délután a vízipark felé vezető utak nedvesen csúszósak lehetnek, így a lassabb tempó javasolt. Este a nedves aszfalt és a tenger illatával térhetünk vissza, vízhatlan öltözetben.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită prudență, dar oferă o perspectivă proaspătă. Dimineața la biserică este un punct de plecare uscat. La prânz, zidurile istorice oferă protecție. După-amiaza, drumurile spre parcul acvatic sunt alunecoase când sunt ude, deci viteza redusă este importantă. Seara vă întoarceți cu mirosul asfaltului umed și al mării.",
+            "en": "Cycling in the rain requires caution but offers a fresh perspective. The morning at the church is a dry starting point. At noon, historical walls provide shelter. In the afternoon, paths towards the water park can be slippery when wet, so slow speed is essential. The evening ends with the scent of damp asphalt and the sea, well-wrapped in waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Portal, um den Sattel trocken zu halten; erkunden Sie die Kunstschätze im Inneren.",
+                "hu": "Parkolja le kerékpárját a boltív alatt, hogy a nyereg száraz maradjon; fedezze fel a belső tér művészeti kincseit.",
+                "ro": "Parcați bicicleta sub portal pentru a păstra șaua uscată; explorați comorile artistice din interior la adăpost.",
+                "en": "Park your bike under the portal to keep the seat dry while you explore the artistic treasures inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Rosa",
+                "hu": "Bagni Rosa",
+                "ro": "Bagni Rosa",
+                "en": "Bagni Rosa"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen rutschig sein; fahren Sie vorsichtig und genießen Sie den dramatischen grauen Horizont.",
+                "hu": "A tengerparti út esőben csúszós lehet; tekerjen óvatosan és élvezze a horizont drámai szürke árnyalatait.",
+                "ro": "Drumul de coastă poate fi alunecos pe ploaie; pedalați cu atenție și bucurați-vă de orizontul gri dramatic.",
+                "en": "The coastal road can be slippery in the rain; cycle carefully and enjoy the dramatic grey horizon over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Hansel e Gretel",
+                "hu": "Hansel e Gretel",
+                "ro": "Hansel e Gretel",
+                "en": "Hansel e Gretel"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Ort, um die Beine auszuruhen; das historische Gebäude bietet Schutz vor dem Nieselregen während der Pause.",
+                "hu": "Száraz hely a lábak megpihentetésére; a történelmi épület kiváló védelmet nyújt a szitáló eső elől a pihenő alatt.",
+                "ro": "Un loc uscat pentru a vă odihni picioarele; clădirea istorică oferă protecție împotriva burniței în timpul pauzei.",
+                "en": "A dry spot to rest your legs; the historical building offers great protection from the drizzle during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Piccolo Teatro Caraibi",
+                "hu": "Piccolo Teatro Caraibi",
+                "ro": "Piccolo Teatro Caraibi",
+                "en": "Piccolo Teatro Caraibi"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight mit festem Dach; ideal, um kurzzeitig dem Regen zu entkommen und den Ort zu erkunden.",
+                "hu": "Kulturális fénypont szilárd tetővel; ideális hely, hogy rövid időre elmeneküljön az eső elől és felfedezze a helyszínt.",
+                "ro": "Un punct de atracție cultural cu acoperiș solid; ideal pentru a scăpa scurt timp de ploaie și a explora locația.",
+                "en": "A cultural highlight with a solid roof; ideal for briefly escaping the rain while exploring this unique location."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Le Caravelle",
+                "hu": "Parco Acquatico Le Caravelle",
+                "ro": "Parco Acquatico Le Caravelle",
+                "en": "Parco Acquatico Le Caravelle"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung des Parks wirkt im Regen sehr üppig; achten Sie auf Schlamm auf den Radwegen in dieser Gegend.",
+                "hu": "A park környezete esőben is buja és zöld; ügyeljen a kerékpárutakon előforduló sárra ezen a területen.",
+                "ro": "Împrejurimile parcului par foarte luxuriante pe ploaie; aveți grijă la noroiul de pe pistele de biciclete din zonă.",
+                "en": "The park's surroundings look very lush in the rain; watch out for mud on the bike paths in this specific area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Martini",
+                "hu": "Bagni Martini",
+                "ro": "Bagni Martini",
+                "en": "Bagni Martini"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt mit dem Duft von Meer und Regen; behalten Sie Ihre Regenkleidung bis zum Schluss an.",
+                "hu": "Zárja a túrát a tenger és az eső friss illatával; tartsa magán a vízhatlan öltözetet a célba érésig.",
+                "ro": "Încheiați tura cu mirosul de mare și ploaie; păstrați echipamentul impermeabil până la finalul traseului.",
+                "en": "Finish your ride with the scent of the sea and rain; keep your waterproof gear on until the very end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Ceriale ist belebend. Der Vormittag an der Kirche bietet einen warmen Start. Die Fahrt entlang der Küste ist erfrischend, erfordert aber Handschuhe gegen den kalten Wind. Mittags ist das Licht am Theater besonders klar. Da es früh dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung funktioniert, um die dämmerige Rückfahrt am Meer sicher zu genießen.",
+            "hu": "A téli kerékpározás Cerialéban igazi felfrissülés. A délelőtti templomi látogatás meleg kezdést ad. A tengerparti tekerés élénkítő, de a hideg szél miatt kesztyű viselése javasolt. Délben a fények a színháznál különösen tiszták. Mivel korán sötétedik, ellenőrizze a lámpákat a biztonságos esti visszaúthoz a sétányon.",
+            "ro": "Ciclismul de iarnă în Ceriale este revigorant. Dimineața la biserică oferă un start cald. Plimbarea pe coastă este înviorătoare, dar necesită mănuși împotriva vântului rece. La prânz, lumina de la teatru este clară. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei funcționează pentru siguranță.",
+            "en": "Winter cycling in Ceriale is invigorating. The morning at the church offers a warm start. The ride along the coast is refreshing but requires gloves against the cold wind. At noon, the light at the theater is particularly clear. Since it gets dark early, ensure your bike lights are working for a safe evening ride along the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Startpunkt für Ihre Radtour; das Innere ist auch an kurzen Wintertagen hell und einladend.",
+                "hu": "Meleg kiindulópont a kerékpáros túrához; a belső tér a rövid téli napokon is világos és hívogató hangulatú.",
+                "ro": "Un punct de plecare cald pentru turul cu bicicleta; interiorul este luminos și primitor chiar și în zilele scurte de iarnă.",
+                "en": "A warm starting point for your cycling tour; the interior is bright and welcoming even on short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Rosa",
+                "hu": "Bagni Rosa",
+                "ro": "Bagni Rosa",
+                "en": "Bagni Rosa"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg ist im Winter windig; tragen Sie Thermohandschuhe, um den Lenker sicher im Griff zu behalten.",
+                "hu": "A tengerparti út télen szeles lehet; viseljen hőtartó kesztyűt, hogy a hidegben is biztosan tartsa a kormányt.",
+                "ro": "Poteca de coastă este vântoasă iarna; purtați mănuși termice pentru a menține o priză sigură pe ghidon.",
+                "en": "The coastal path is windy in winter; wear thermal gloves to keep a steady and warm grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Hansel e Gretel",
+                "hu": "Hansel e Gretel",
+                "ro": "Hansel e Gretel",
+                "en": "Hansel e Gretel"
+              },
+              "tip_5lang": {
+                "de": "Historischer Charme, der in der Kälte einladend wirkt; machen Sie eine Pause im geschützten Eingangsbereich.",
+                "hu": "Történelmi báj, amely a hidegben is hívogató; tartson rövid pihenőt a védett bejárati részen a szél elől.",
+                "ro": "Farmec istoric care pare primitor în frig; faceți o pauză în zona de intrare protejată pentru a vă încălzi.",
+                "en": "Historical charm that feels welcoming in the cold; take a break in the sheltered entrance area to block the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Piccolo Teatro Caraibi",
+                "hu": "Piccolo Teatro Caraibi",
+                "ro": "Piccolo Teatro Caraibi",
+                "en": "Piccolo Teatro Caraibi"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiges Ziel für einen Winterausflug; das Viertel hat in der frühen Abenddämmerung einen besonderen Glanz.",
+                "hu": "Nagyszerű úticél egy téli kerékpározáshoz; a környék a kora esti szürkületben különleges, ünnepi fényben úszik.",
+                "ro": "O destinație excelentă pentru o excursie de iarnă; cartierul are o strălucire deosebită în amurgul timpuriu.",
+                "en": "A great destination for a winter bike trip; the district has a unique and special glow in the early evening twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Le Caravelle",
+                "hu": "Parco Acquatico Le Caravelle",
+                "ro": "Parco Acquatico Le Caravelle",
+                "en": "Parco Acquatico Le Caravelle"
+              },
+              "tip_5lang": {
+                "de": "Die hügelige Gegend bietet tolle Ausblicke auf das Wintermeer; bereiten Sie sich auf die Abfahrt in der Kälte vor.",
+                "hu": "A dombos terület nagyszerű kilátást nyújt a téli tengerre; készüljön fel a hideg ellenszélre a lejtőkön.",
+                "ro": "Zona deluroasă oferă vederi minunate asupra mării iarna; pregătiți-vă pentru coborâre în aerul rece.",
+                "en": "The hilly area offers great views of the winter sea; be prepared for the cold descent back towards the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Martini",
+                "hu": "Bagni Martini",
+                "ro": "Bagni Martini",
+                "en": "Bagni Martini"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist einsam und wunderschön; die frühe Dämmerung sorgt für einen romantischen Abschluss Ihrer Radtour.",
+                "hu": "A tengerpart ilyenkor magányos és gyönyörű; a korai sötétedés romantikus befejezést ad a kerékpáros napnak.",
+                "ro": "Plaja este solitară și frumoasă; amurgul timpuriu oferă un final romantic plimbării dumneavoastră cu bicicleta.",
+                "en": "The beach is lonely and beautiful in winter; the early twilight makes for a romantic finish to your cycling day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját a paleontológiai múzeum ősi kövületeivel. Délben merüljön el a Rio Torsero természeti szépségében, és élvezze a Le Caravelle víziparkot. A délután visszavezet a városközpontba a főtemplomhoz és a történelmi Hansel e Gretelhez. Végül parkoljon le a Bagni Marino közelében, hogy megnézzen egy lenyűgöző tengerparti naplementét.",
         "ro": "Începeți turul cu mașina explorând fosile antice la Muzeul Paleontologic. La prânz, pătrundeți în frumusețea naturală de la Rio Torsero și experimentați fiorii parcului Le Caravelle. După-amiaza vă întoarceți în centru pentru biserica principală și istoricul Hansel e Gretel. În cele din urmă, parcați lângă Bagni Marino pentru un apus spectaculos.",
         "en": "Start your driving tour by exploring ancient fossils at the Paleontological Museum. By midday, delve into the natural beauty of Rio Torsero and experience the thrills of Le Caravelle water park. The afternoon transitions back to the city center, admiring the main church and the historic Hansel e Gretel. Finally, park near Bagni Marino to watch a spectacular coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Ceriale auch bei Regen bequem erkunden. Der Vormittag im Museum ist die perfekte Aktivität im Trockenen. Mittags bietet die Fahrt zum Naturschutzgebiet mystische Ausblicke durch die Scheiben. Nachmittags ist die Kirche ein schneller Stopp zwischen den Regenschauern. Der Tag endet entspannt mit dem Blick auf das aufgewühlte Meer direkt vom Parkplatz aus.",
+            "hu": "Autóval Ceriale esőben is kényelmesen felfedezhető. A délelőtti múzeumlátogatás tökéletes beltéri program. Délben a természetvédelmi terület felé vezető út misztikus látványt nyújt az ablakon keresztül. Délután a templom gyors megállót jelent a záporok között. A nap az autó kényelméből figyelt felkorbácsolt tenger látványával zárul a parton.",
+            "ro": "Cu mașina, Ceriale poate fi explorat confortabil chiar și pe ploaie. Dimineața la muzeu este activitatea perfectă la uscat. La prânz, drumul spre rezervație oferă vederi mistice prin parbriz. După-amiaza, biserica este o oprire rapidă între reprizele de ploaie. Ziua se încheie relaxat cu vederea mării agitate.",
+            "en": "By car, Ceriale can be explored comfortably even in the rain. The morning at the museum is the perfect dry activity. At noon, the drive to the nature reserve offers mystical views through the windows. In the afternoon, the church is a quick stop between showers. The day ends relaxed with a view of the churning sea directly from the comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo paleontologico Silvio Lai",
+                "hu": "Museo paleontologico Silvio Lai",
+                "ro": "Museo paleontologico Silvio Lai",
+                "en": "Museo paleontologico Silvio Lai"
+              },
+              "tip_5lang": {
+                "de": "Die beste Aktivität für einen Regentag; erkunden Sie die Fossilien in einer trockenen und lehrreichen Umgebung.",
+                "hu": "A legjobb program esős napokra; fedezze fel a fosszíliákat száraz és tanulságos környezetben, távol a csapadéktól.",
+                "ro": "Cea mai bună activitate pentru o zi ploioasă; explorați fosilele într-un mediu uscat și educativ.",
+                "en": "The best activity for a rainy day; explore the fossils in a dry and educational environment away from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Regionale di Rio Torsero",
+                "hu": "Riserva Regionale di Rio Torsero",
+                "ro": "Riserva Regionale di Rio Torsero",
+                "en": "Riserva Regionale di Rio Torsero"
+              },
+              "tip_5lang": {
+                "de": "Das Reservat wirkt im Nebel mystisch; betrachten Sie es vom Auto aus oder nutzen Sie einen kurzen Moment mit Regenmantel.",
+                "hu": "A rezervátum misztikusnak tűnik a ködben; figyelje meg az autóból, vagy használjon esőkabátot egy rövid sétához.",
+                "ro": "Rezervația pare mistică în ceață; observați-o din mașină sau folosiți o pelerină de ploaie pentru o scurtă ieșire.",
+                "en": "The reserve looks mystical in the mist; view it from the car or use a raincoat for a quick walk during a lull."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Le Caravelle",
+                "hu": "Parco Acquatico Le Caravelle",
+                "ro": "Parco Acquatico Le Caravelle",
+                "en": "Parco Acquatico Le Caravelle"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn der Park geschlossen ist, wirken die Architektur und das Gelände gegen den regnerischen Himmel sehr beeindruckend.",
+                "hu": "Még ha a park zárva is van, az építészet és a terület látványa az esős égbolt alatt is lenyűgöző és fotogén.",
+                "ro": "Chiar dacă parcul este închis, arhitectura și terenul par impresionante pe fundalul cerului ploios.",
+                "en": "Even if the park is closed, the architecture and scale of the grounds look impressive against the rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum barocken Innenraum; perfekt für eine friedliche Pause vom Regen.",
+                "hu": "Egy gyors sprint a parkolóból a barokk belső térig; tökéletes helyszín egy békés pihenőhöz az eső elől.",
+                "ro": "Un sprint scurt de la parcare până la interiorul baroc; perfect pentru o pauză liniștită de la ploaie.",
+                "en": "A quick dash from the parking lot to the baroque interior; perfect for a peaceful break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hansel e Gretel",
+                "hu": "Hansel e Gretel",
+                "ro": "Hansel e Gretel",
+                "en": "Hansel e Gretel"
+              },
+              "tip_5lang": {
+                "de": "Historischer Unterschlupf mit toller Atmosphäre; Parkplätze in der Nähe machen es zu einem einfachen Stopp bei Regen.",
+                "hu": "Történelmi menedék remek hangulattal; a közeli parkolási lehetőség egyszerűvé teszi a látogatást esőben is.",
+                "ro": "Refugiu istoric cu o atmosferă grozavă; parcarea din apropiere face ca aceasta să fie o oprire ușoară pe ploaie.",
+                "en": "Historical shelter with a great atmosphere; parking nearby makes it an easy stop to reach during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Marino",
+                "hu": "Bagni Marino",
+                "ro": "Bagni Marino",
+                "en": "Bagni Marino"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen auf die Wellen trifft, bequem vom Gebäude aus; die Küste wirkt bei diesem Wetter wild.",
+                "hu": "Figyelje az esőcseppek és a hullámok találkozását a kényelmes épületből; a tengerpart vadabbnak tűnik ilyenkor.",
+                "ro": "Urmăriți ploaia lovind valurile din confortul clădirii; coasta pare sălbatică pe acest tip de vreme.",
+                "en": "Watch the rain hitting the waves from the comfort of the building; the coast looks wild and beautiful in this weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Ceriale ist gemütlich. Die Heizung sorgt zwischen den Stopps für Komfort. Der Vormittag im Museum bietet einen warmen und lehrreichen Start. Nachmittags ist die Sicht auf die Ligurischen Hügel bei klarer Winterluft fantastisch. Da es gegen 17:00 Uhr dunkel wird, genießen Sie den Sonnenuntergang über dem Meer, bevor Sie den Tag in einem warmen Lokal beenden.",
+            "hu": "A téli autós túra Cerialéban kényelmes és otthonos. A fűtés biztosítja a komfortot a megállók között. A délelőtti múzeum meleg és tanulságos kezdés. Délután a kilátás a ligur dombokra a tiszta téli levegőben fantasztikus. Mivel 17:00 körül sötétedik, élvezze a tengeri naplementét az autóból, mielőtt befejezné a napot.",
+            "ro": "Un tur de iarnă cu mașina prin Ceriale este confortabil. Încălzirea oferă confort între opriri. Dimineața la muzeu oferă un start cald și educativ. După-amiaza, vizibilitatea asupra dealurilor ligurice este fantastică în aerul clar. Deoarece se întunecă în jur de ora 17:00, bucurați-vă de apusul peste mare.",
+            "en": "A winter car tour through Ceriale is cozy and convenient. The heater provides comfort between stops. The morning at the museum offers a warm and educational start. In the afternoon, the visibility of the Ligurian hills is fantastic in the clear winter air. Since it gets dark around 5 PM, enjoy the sunset over the sea before ending your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo paleontologico Silvio Lai",
+                "hu": "Museo paleontologico Silvio Lai",
+                "ro": "Museo paleontologico Silvio Lai",
+                "en": "Museo paleontologico Silvio Lai"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer und faszinierender Start in den Tag; die Innenexponate sind perfekt für einen Wintermorgen geeignet.",
+                "hu": "Meleg és lenyűgöző kezdése a napnak; a belső kiállítások tökéletesek egy hűvös téli délelőtt eltöltésére.",
+                "ro": "Un început de zi cald și fascinant; exponatele de interior sunt perfecte pentru o dimineață de iarnă.",
+                "en": "A warm and fascinating start to the day; the indoor exhibits are perfect for spending a winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Regionale di Rio Torsero",
+                "hu": "Riserva Regionale di Rio Torsero",
+                "ro": "Riserva Regionale di Rio Torsero",
+                "en": "Riserva Regionale di Rio Torsero"
+              },
+              "tip_5lang": {
+                "de": "Das Reservat ist im Winter ruhig; der Spaziergang ist kurz, aber die kalte Luft wirkt sehr erfrischend nach der Autofahrt.",
+                "hu": "A rezervátum télen nagyon csendes; a séta rövid, de a friss, hideg levegő rendkívül üdítő az autózás után.",
+                "ro": "Rezervația este liniștită iarna; plimbarea este scurtă, dar aerul rece este foarte revigorant după drumul cu mașina.",
+                "en": "The reserve is quiet in winter; the walk is short, but the crisp, cold air is very refreshing after the car ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Acquatico Le Caravelle",
+                "hu": "Parco Acquatico Le Caravelle",
+                "ro": "Parco Acquatico Le Caravelle",
+                "en": "Parco Acquatico Le Caravelle"
+              },
+              "tip_5lang": {
+                "de": "Der leere Wasserpark hat eine eigentümliche, ruhige Schönheit im Winterlicht; bleiben Sie im Auto warm, um die Aussicht zu genießen.",
+                "hu": "Az üres víziparknak sajátos, nyugodt szépsége van a téli fényben; élvezze a kilátást a fűtött autóból.",
+                "ro": "Parcul acvatic gol are o frumusețe aparte în lumina de iarnă; rămâneți la căldură în mașină pentru a admira priveliștea.",
+                "en": "The empty water park has a unique, quiet beauty in the winter light; stay warm in the car to enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "hu": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "ro": "Chiesa dei Santi Giovanni Battista ed Eugenio",
+                "en": "Chiesa dei Santi Giovanni Battista ed Eugenio"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet geistige und physische Wärme; achten Sie auf eventuelle Feiertagsdekorationen bei späten Besuchen.",
+                "hu": "A belső tér lelki és fizikai melegséget is nyújt; figyelje meg az ünnepi díszítést, ha a szezon végén látogat ide.",
+                "ro": "Interiorul oferă căldură spirituală și fizică; observați eventualele decorațiuni de sărbători la vizitele târzii.",
+                "en": "The interior provides spiritual and physical warmth; notice any holiday decorations if visiting late in the season."
+              }
+            },
+            {
+              "name": {
+                "de": "Hansel e Gretel",
+                "hu": "Hansel e Gretel",
+                "ro": "Hansel e Gretel",
+                "en": "Hansel e Gretel"
+              },
+              "tip_5lang": {
+                "de": "Ein historisches Wahrzeichen, das in der Wintersonne erstrahlt; die Steinmauern erzählen alte Geschichten in der Kälte.",
+                "hu": "Történelmi látnivaló, amely ragyog a téli napsütésben; az ősi kőfalak különleges történeteket mesélnek a hidegben.",
+                "ro": "Un reper istoric care strălucește în soarele de iarnă; zidurile de piatră spun povești vechi în frig.",
+                "en": "A historical landmark that shines in the winter sun; the ancient stone walls tell old stories in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Marino",
+                "hu": "Bagni Marino",
+                "ro": "Bagni Marino",
+                "en": "Bagni Marino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt mit dem Blick auf den winterlichen Sonnenuntergang; das frühe Dunkel lässt die Lichter der Stadt funkeln.",
+                "hu": "Zárja az autózást a téli naplemente látványával; a korai sötétségben a város fényei gyönyörűen csillognak.",
+                "ro": "Încheiați drumul cu vederea apusului de iarnă; întunericul timpuriu face ca luminile orașului să sclipească.",
+                "en": "End your drive with a view of the winter sunset; the early darkness makes the town lights sparkle beautifully."
+              }
+            }
+          ]
+        }
       }
     }
   }

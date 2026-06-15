@@ -183,6 +183,224 @@
         "hu": "Kezdje sétáját a város szívében, felfedezve a közigazgatási központot és a helyi kastély középkori maradványait. A reggeli fény tökéletesen megvilágítja az ősi köveket.\nDélben felfedezheti a környék mély spirituális gyökereit, meglátogatva a békés kőbarlangot és a központi templomot. Szánjon időt e történelmi helyszínek csendes atmoszférájának élvezetére.\nDélután az útvonal a gazdag orosz örökség felé fordul, amely meghatározza ezt az egyedülálló francia várost. A történelmi emigráns ház lenyűgöző bepillantást nyújt egy letűnt korszakba.\nZárja utazását az ortodox freskók és neves művészek végső nyughelyei között. A temető békés atmoszférája méltó és elgondolkodtató befejezést nyújt a napnak.",
         "ro": "Începeți turul pe jos în inima orașului, explorând centrul administrativ și rămășițele medievale ale castelului local. Lumina dimineții luminează perfect pietrele antice.\nPână la prânz, veți descoperi rădăcinile spirituale profunde ale zonei, vizitând grota pașnică de piatră și biserica centrală. Faceți-vă timp pentru a vă bucura de atmosfera liniștită.\nDupă-amiaza, itinerariul se îndreaptă spre bogata moștenire rusă care definește acest oraș francez unic. Casa istorică a emigranților oferă o privire fascinantă într-o epocă trecută.\nÎncheiați-vă călătoria printre frescele ortodoxe și locurile de odihnă ale unor artiști renumiți. Atmosfera senină a cimitirului oferă un final potrivit de reflexie a zilei.",
         "en": "Begin your walking tour in the heart of the town, exploring the administrative center and the medieval remnants of the local Château. The morning light perfectly illuminates the ancient stones.\nBy midday, you will discover the deep spiritual roots of the area, visiting the peaceful stone grotto and the central church. Take your time to enjoy the quiet atmosphere of these historic sites.\nIn the afternoon, the itinerary shifts towards the rich Russian heritage that defines this unique French town. The historical emigré house offers a fascinating glimpse into a past era.\nConclude your journey wandering among the Orthodox frescoes and the final resting places of renowned artists. The serene atmosphere of the cemetery provides a fittingly reflective end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die historischen Monumente unter dem Schutz eines Regenschirms, beginnend am Rathaus. Mittags bietet das Schloss eine willkommene trockene Zuflucht vor den Schauern. Am Nachmittag besuchen wir die Grotte und die Kirchen, wo das prasselnde Geräusch des Regens eine mystische Atmosphäre schafft. Abends endet der Spaziergang im russischen Viertel bei gedämpftem Licht.",
+            "hu": "Reggel esernyővel indulunk a város felfedezésére, érintve a városházát. Délben a kastély ódon falai nyújtanak menedéket a záporok elől. Délután a barlang és a templomok belső tereiben kalandozunk, ahol az eső kopogása különleges, áhítatos hangulatot teremt. Az esti órákban az orosz negyed ködös, romantikus fényei között, vigyázva a csúszós járdákra, fejezzük be a tartalmas városnézést.",
+            "ro": "Dimineața explorăm monumentele istorice sub protecția unei umbrele, începând de la primărie. La prânz, castelul oferă un refugiu uscat binevenit împotriva averselor. După-amiaza vizităm grota și bisericile, unde sunetul ploii creează o atmosferă mistică. Seara, plimbarea se încheie în cartierul rusesc, printre lumini difuze și trotuare umede, oferind o perspectivă melancolică asupra orașului.",
+            "en": "In the morning, we explore the historical monuments under the protection of an umbrella, starting at the Town Hall. At noon, the castle provides a welcome dry refuge from the showers. In the afternoon, we visit the grotto and the churches, where the sound of rain creates a mystical atmosphere. In the evening, the walk ends in the Russian quarter under dimmed lights and misty views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Városháza",
+                "ro": "Primăria din Sainte-Geneviève-des-Bois",
+                "en": "Town Hall of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Architektur vom überdachten Vorplatz aus; nutzen Sie den breiten Eingangsbereich, um Ihre Regenbekleidung in Ruhe zu ordnen.",
+                "hu": "Csodálja meg az épület elegáns homlokzatát a fedett előtérből, ahol nyugodtan lerázhatja az esernyőjét és felkészülhet a következő állomásra.",
+                "ro": "Admirați arhitectura elegantă de sub porticul acoperit; folosiți acest spațiu protejat pentru a vă ajusta pelerina de ploaie înainte de a continua drumul.",
+                "en": "Admire the elegant architecture from the covered forecourt; use this sheltered space to adjust your rain gear comfortably before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Kastély",
+                "ro": "Castelul din Sainte-Geneviève-des-Bois",
+                "en": "Castle of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss ist der ideale Ort, um dem Regen zu entkommen; die historischen Innenräume bieten Schutz und faszinierende Einblicke in die lokale Geschichte.",
+                "hu": "A kastély tökéletes menedék a zápor elől, ahol a vastag falak között szárazon fedezheti fel a város múltját és a nemesi lakosztályok hangulatát.",
+                "ro": "Castelul este locul ideal pentru a scăpa de ploaie; interioarele istorice oferă protecție și o incursiune fascinantă în istoria locală, departe de umezeală.",
+                "en": "The castle is the perfect place to escape the rain; its historic interiors offer dry shelter and a fascinating look into local heritage during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Geneviève Grotte",
+                "hu": "Sainte-Geneviève Barlang",
+                "ro": "Grota Sainte-Geneviève",
+                "en": "Sainte-Geneviève Grotto"
+              },
+              "tip_5lang": {
+                "de": "Die Grotte bietet natürlichen Schutz vor den Elementen; achten Sie auf den Boden, da die Steinstufen bei Nässe besonders rutschig sein können.",
+                "hu": "A barlang természetes védelmet nyújt a csapadék elől, de ügyeljen a lépteire, mert a nedves kőlépcsők ilyenkor rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Grota oferă protecție naturală împotriva elementelor; aveți grijă la pași, deoarece treptele de piatră pot fi extrem de alunecoase când sunt umede.",
+                "en": "The grotto provides natural shelter from the elements; be careful with your footing as the stone steps can be particularly slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Geneviève",
+                "hu": "Sainte-Geneviève Templom",
+                "ro": "Biserica Sainte-Geneviève",
+                "en": "Sainte-Geneviève Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Trockenheit im Kirchenschiff; dies ist ein hervorragender Moment, um die architektonischen Details ohne Eile zu betrachten.",
+                "hu": "Élvezze a templomhajó csendjét és szárazságát, miközben az ablakokon kopog az eső; remek alkalom a belső díszítés alapos és nyugodt megfigyelésére.",
+                "ro": "Bucurați-vă de liniștea și uscăciunea din interiorul bisericii; este un moment excelent pentru a studia detaliile arhitecturale fără a fi grăbit de ploaie.",
+                "en": "Enjoy the silence and dryness inside the church; this is an excellent time to observe the architectural details without being rushed by the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Russisches Haus",
+                "hu": "Orosz Ház",
+                "ro": "Casa Rusă",
+                "en": "Russian House"
+              },
+              "tip_5lang": {
+                "de": "Das Innere des Russischen Hauses bietet eine gemütliche und trockene Atmosphäre; lassen Sie Ihre nasse Jacke am Eingang, um die Ausstellung zu genießen.",
+                "hu": "Az Orosz Ház belső terei barátságos és száraz környezetet biztosítanak; érdemes a vizes kabátokat a bejáratnál hagyni a kényelmes nézelődéshez.",
+                "ro": "Interiorul Casei Ruse oferă o atmosferă primitoare și uscată; lăsați pelerina udă la intrare pentru a vizita expoziția în deplin confort.",
+                "en": "The interior of the Russian House offers a cozy and dry atmosphere; leave your wet outerwear at the entrance to enjoy the exhibits comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Entschlafen",
+                "hu": "Istenanya Elszenderedése Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohen Fresken leuchten auch an grauen Regentagen; der Innenraum bleibt warm und trocken, während draußen der Himmel weint.",
+                "hu": "A színes freskók még a szürke esős napokon is ragyognak a belső világításnál; a templom tere meleg és száraz menedék a kinti ítéletidőben.",
+                "ro": "Frescele colorate strălucesc chiar și în zilele gri de ploaie; interiorul rămâne cald și uscat în timp ce afară cerul este acoperit de nori grei.",
+                "en": "The colorful frescoes shine even on grey rainy days; the interior remains warm and dry while the sky weeps outside, offering spiritual comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Russischer Friedhof",
+                "hu": "Orosz Temető",
+                "ro": "Cimitirul Rus",
+                "en": "Russian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem Friedhof eine tiefe Melancholie; bleiben Sie auf den asphaltierten Wegen, um tiefen Pfützen und Schlamm auszuweichen.",
+                "hu": "Az eső mély melankóliát kölcsönöz a sírkertnek; maradjon az aszfaltozott utakon, hogy elkerülje a sarat és a mélyebb víztócsákat a sírok között.",
+                "ro": "Ploaia oferă cimitirului o melancolie profundă; rămâneți pe aleile asfaltate pentru a evita noroiul și bălțile mari formate între monumente.",
+                "en": "The rain adds a deep sense of melancholy to the cemetery; stick to the paved paths to avoid mud and deep puddles between the historic graves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens beginnen wir die Tour warm eingepackt am Rathaus. Mittags wärmen wir uns in den Mauern des Schlosses auf. Am frühen Nachmittag nutzen wir das schwindende Tageslicht für die religiösen Stätten. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Friedhofsbesuch rechtzeitig ein und beenden den Tag bei stimmungsvoller Abendbeleuchtung im Russischen Viertel.",
+            "hu": "Reggel alaposan felöltözve indulunk a városházától a csípős hidegben. Délben a kastély termeiben melegedünk fel egy kicsit. Kora délután kihasználjuk a kevés természetes fényt a templomok megtekintéséhez. Mivel 17:00 körül már sötétedik, a temetőt még világosban keressük fel, majd a napot az orosz negyed hangulatos esti fényeiben, egy forró tea reményében zárjuk.",
+            "ro": "Dimineața începem turul bine înfofoliți de la primărie, în aerul tăios. La prânz ne încălzim în incinta castelului. După-amiaza devreme profităm de lumina puțină pentru locurile religioase. Deoarece soarele apune în jur de ora 17:00, planificăm vizita la cimitir din timp, încheind ziua cu iluminatul ambiental superb din cartierul rusesc.",
+            "en": "In the morning, we start the tour warmly dressed at the Town Hall. At noon, we warm up inside the castle walls. In the early afternoon, we use the fading daylight for the religious sites. Since the sun sets around 5:00 PM, we schedule the cemetery visit early and end the day with the atmospheric evening lights of the Russian quarter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Városháza",
+                "ro": "Primăria din Sainte-Geneviève-des-Bois",
+                "en": "Town Hall of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier früh, um das Morgenlicht zu nutzen; die prachtvolle Fassade wirkt im klaren Winterlicht besonders scharf und fotogen.",
+                "hu": "Kezdje itt korán a napot, hogy kihasználja a reggeli fényeket; a díszes homlokzat a tiszta téli napsütésben különösen szép látványt nyújt.",
+                "ro": "Începeți aici devreme pentru a profita de lumina dimineții; fațada somptuoasă arată extrem de clar și fotogenic în aerul rece de iarnă.",
+                "en": "Start here early to make the most of the morning light; the grand facade looks particularly sharp and photogenic in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Kastély",
+                "ro": "Castelul din Sainte-Geneviève-des-Bois",
+                "en": "Castle of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schlossbesuch, um sich in den Innenräumen aufzuwärmen; die dicken Mauern halten die Kälte draußen und bieten ein mildes Klima.",
+                "hu": "Használja ki a kastélylátogatást a felmelegedésre; a vastag kőfalak bent tartják a mérsékelt meleget, így kényelmesen nézelődhet a hideg elől.",
+                "ro": "Profitați de vizita la castel pentru a vă încălzi în interior; zidurile groase țin frigul afară și oferă un climat mai blând pentru explorare.",
+                "en": "Use your visit to the castle to warm up inside; the thick stone walls keep the biting cold out and offer a milder climate for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Geneviève Grotte",
+                "hu": "Sainte-Geneviève Barlang",
+                "ro": "Grota Sainte-Geneviève",
+                "en": "Sainte-Geneviève Grotto"
+              },
+              "tip_5lang": {
+                "de": "Die Grotte schützt vor eisigem Wind, aber Vorsicht vor gefrorenem Kondenswasser auf dem Boden, das unsichtbare Eisflächen bilden kann.",
+                "hu": "A barlang védelmet nyújt a jeges szél ellen, de ügyeljen a talajra, mert a lecsapódó pára láthatatlan jégréteget alkothat a köveken.",
+                "ro": "Grota protejează împotriva vântului înghețat, dar atenție la condensul înghețat de pe sol, care poate forma porțiuni de gheață invizibile.",
+                "en": "The grotto shields you from icy winds, but watch out for frozen condensation on the floor, which can create invisible icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Geneviève",
+                "hu": "Sainte-Geneviève Templom",
+                "ro": "Biserica Sainte-Geneviève",
+                "en": "Sainte-Geneviève Church"
+              },
+              "tip_5lang": {
+                "de": "Kirchen sind im Winter oft sehr kühl; behalten Sie Ihren Mantel an, während Sie die religiöse Kunst in der ruhigen Atmosphäre bewundern.",
+                "hu": "A templomok télen gyakran igen hűvösek, ezért ne vegye le a kabátját bent sem, miközben a csendes áhítatban a vallási műtárgyakat nézi.",
+                "ro": "Bisericile sunt adesea răcoroase iarna; păstrați-vă haina pe dvs. în timp ce admirați arta religioasă în atmosfera liniștită a interiorului.",
+                "en": "Churches are often quite chilly in winter; keep your coat on while admiring the religious art in the quiet, reflective atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Russisches Haus",
+                "hu": "Orosz Ház",
+                "ro": "Casa Rusă",
+                "en": "Russian House"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine Pause im Warmen; genießen Sie die kulturelle Wärme dieses geschichtsträchtigen Ortes fernab der winterlichen Kälte.",
+                "hu": "Csodálatos hely egy kis melegedő pihenőhöz; élvezze e történelmi hely kulturális gazdagságát és a fűtött szobák nyújtotta kényelmet.",
+                "ro": "Un loc minunat pentru o pauză la căldură; bucurați-vă de căldura culturală a acestui loc istoric, departe de gerul de afară.",
+                "en": "A wonderful place for a break in the warm; enjoy the cultural richness of this historic site away from the biting winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Entschlafen",
+                "hu": "Istenanya Elszenderedése Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 16:30 Uhr, um die Ikonen bei schräg einfallendem Winterlicht zu sehen, bevor es draußen ganz dunkel wird.",
+                "hu": "Látogassa meg a templomot 16:30 előtt, hogy az ikonokat még a beszűrődő téli fényben láthassa, mielőtt odakint teljesen besötétedik.",
+                "ro": "Vizitați biserica înainte de ora 16:30 pentru a vedea icoanele în lumina piezișă a iernii, înainte ca afară să se întunece complet.",
+                "en": "Visit the church before 4:30 PM to see the icons in the slanting winter light before it gets completely dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Russischer Friedhof",
+                "hu": "Orosz Temető",
+                "ro": "Cimitirul Rus",
+                "en": "Russian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Der Friedhof schließt im Winter früher; planen Sie Ihren Besuch so, dass Sie die Anlage noch vor Einbruch der Dämmerung um 17:00 Uhr verlassen.",
+                "hu": "A temető télen korábban zár; tervezze úgy a látogatást, hogy a sötétedés beállta, azaz 17:00 előtt kényelmesen befejezze a sétát.",
+                "ro": "Cimitirul se închide mai devreme iarna; planificați vizita astfel încât să părăsiți incinta înainte de lăsarea serii, în jur de ora 17:00.",
+                "en": "The cemetery closes earlier in winter; plan your visit so that you leave the grounds before dusk falls around 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Tekerjen ki a város szélére, hogy megcsodálja a protestáns templom építészetét, mielőtt a nyüzsgő polgári központba indulna. A csípős reggeli levegő frissítő kezdést biztosít.\nA dél közeledtével biciklizzen el az ősi várfalak és a kedvelt helyi barlang mellett, majd haladjon a fő katolikus templom felé. A kompakt utcák tökéletesek a nyugodt tempójú kerékpározáshoz.\nA délutáni kerékpározás kulturális fordulatot vesz, amikor a város híres orosz negyedébe ér. Parkolja le kerékpárját, hogy teljesen felfedezze a történelmi rezidenciát, amely egykor száműzött művészeknek adott otthont.\nFejezze be kerékpártúráját a fenséges ortodox templomnál és a kiterjedt temetőnél. Az itteni békés, árnyékos ösvények nyugodt helyet kínálnak a ma látott változatos történelem átgondolására.",
         "ro": "Pedați spre marginea orașului pentru a admira arhitectura bisericii protestante înainte de a vă îndrepta spre centrul civic plin de viață. Aerul proaspăt al dimineții oferă un început revigorant.\nPe măsură ce se apropie prânzul, mergeți cu bicicleta pe lângă vechile ziduri ale castelului și grota locală iubită, îndreptându-vă spre biserica catolică principală. Străzile sunt perfecte pentru un ritm relaxat.\nCălătoria de după-amiază ia o turnură culturală, plonjând în faimosul cartier rus al orașului. Parcați bicicleta pentru a explora reședința istorică ce a găzduit cândva artiști și gânditori exilați.\nTerminați turul cu bicicleta la biserica ortodoxă maiestuoasă și cimitirul întins. Căile pașnice și umbrite de aici oferă un loc liniștit pentru a reflecta la istoria diversă pe care ați văzut-o astăzi.",
         "en": "Pedal your way into the town's outskirts to admire the Protestant church's architecture before heading into the bustling civic center. The crisp morning air makes for an invigorating start.\nAs noon approaches, cycle past the ancient castle walls and the beloved local grotto, weaving your way to the main Catholic church. The compact streets are perfect for a relaxed riding pace.\nYour afternoon ride takes a cultural turn, diving into the town's famous Russian quarter. Park your bike to fully explore the historical residence that once housed prominent exiled artists and thinkers.\nFinish your cycling tour at the majestic Orthodox church and the sprawling cemetery. The peaceful, shaded paths here offer a quiet place to reflect on the diverse history you have witnessed today."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig über nasse Straßen zur evangelischen Kirche. Mittags suchen wir Schutz im Schloss, während wir die Fahrräder sicher abstellen. Der Nachmittag führt uns durch den Regen zu den Grotte und Kirchen, wobei die Schutzbleche heute unerlässlich sind. Abends endet die Tour im russischen Viertel, wo wir uns nach der feuchten Fahrt aufwärmen können.",
+            "hu": "Reggel óvatosan pedálozunk a vizes utakon a protestáns templom felé. Délben a kastélynál tartunk hosszabb pihenőt, ahol a kerékpárokat is fedett helyre tehetjük. Délután az esőben folytatjuk az utat a barlang és a templomok felé; a sárvédő ma elengedhetetlen. Az estét az orosz negyedben zárjuk, ahol egy forró ital mellett pihenhetjük ki a vizes tekerést.",
+            "ro": "Dimineața pedalăm cu atenție pe străzile ude spre biserica protestantă. La prânz căutăm adăpost la castel, unde putem lăsa bicicletele în siguranță. După-amiaza ne poartă prin ploaie spre grotă și biserici; aripile de protecție sunt esențiale astăzi. Seara turul se încheie în cartierul rusesc, unde ne putem încălzi după drumul umed.",
+            "en": "In the morning, we cycle carefully over wet streets towards the Protestant church. At noon, we seek shelter at the castle while parking the bikes safely. The afternoon leads us through the rain to the grotto and churches; mudguards are essential today. The evening ends in the Russian quarter, where we can warm up after the damp ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vereinigte Protestantische Kirche",
+                "hu": "Egyesült Protestáns Templom",
+                "ro": "Biserica Protestantă Unită",
+                "en": "United Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad kurz abzustellen; prüfen Sie Ihre Bremsen, da nasse Felgen einen längeren Bremsweg haben.",
+                "hu": "Használja a fedett bejáratot a kerékpár biztonságos leállításához; ellenőrizze a fékeket, mert a vizes felniken a fékút jelentősen meghosszabbodik.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta; verificați frânele, deoarece jantele ude necesită o distanță de frânare mai mare.",
+                "en": "Use the covered entrance area to park your bike briefly; check your brakes as wet rims require a longer braking distance for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Városháza",
+                "ro": "Primăria din Sainte-Geneviève-des-Bois",
+                "en": "Town Hall of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz unter den Vordächern in der Nähe an; achten Sie beim Anfahren auf die Fahrbahnmarkierungen, die bei Regen sehr rutschig sind.",
+                "hu": "Álljon meg rövid időre a közeli előtetők alatt; elinduláskor vigyázzon az útburkolati jelekre, mert azok esőben rendkívül csúszóssá válnak.",
+                "ro": "Opriți-vă scurt sub copertinele din apropiere; aveți grijă la marcajele rutiere la pornire, deoarece sunt foarte alunecoase pe timp de ploaie.",
+                "en": "Stop briefly under nearby overhangs; watch out for road markings when pulling away, as they become very slippery during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Kastély",
+                "ro": "Castelul din Sainte-Geneviève-des-Bois",
+                "en": "Castle of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie eine längere Regenpause einlegen; die Schlossmauern bieten perfekten Schutz für Sie und einen windgeschützten Platz für Ihr Rad.",
+                "hu": "Itt tarthat egy hosszabb pihenőt az eső elől; a kastélyfalak tökéletes védelmet nyújtanak Önnek és szélvédett helyet a kerékpárjának.",
+                "ro": "Aici puteți face o pauză mai lungă de ploaie; zidurile castelului oferă protecție perfectă pentru dvs. și un loc ferit de vânt pentru bicicletă.",
+                "en": "Take a longer break from the rain here; the castle walls provide perfect shelter for you and a wind-protected spot for your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Geneviève Grotte",
+                "hu": "Sainte-Geneviève Barlang",
+                "ro": "Grota Sainte-Geneviève",
+                "en": "Sainte-Geneviève Grotto"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf dem nassen Naturboden; die Grotte bietet einen trockenen Ort, um die Regenjacke kurz zu lüften oder zu richten.",
+                "hu": "Vigyázzon a leszállásnál a nedves, természetes talajon; a barlang száraz helyet kínál az esőkabát megigazításához vagy egy kis pihenőhöz.",
+                "ro": "Atenție la descălecare pe solul natural umed; grota oferă un loc uscat pentru a vă aranja pelerina sau pentru a vă odihni puțin la adăpost.",
+                "en": "Be careful when dismounting on the wet natural ground; the grotto offers a dry spot to adjust your rain gear or take a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Geneviève",
+                "hu": "Sainte-Geneviève Templom",
+                "ro": "Biserica Sainte-Geneviève",
+                "en": "Sainte-Geneviève Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch zum Aufwärmen; achten Sie darauf, dass Ihr Licht eingeschaltet ist, da die Sicht bei Regen deutlich schlechter ist.",
+                "hu": "Használja ki a templomi látogatást a felmelegedésre; ellenőrizze, hogy égnek-e a lámpák, mert esőben a látótávolság jelentősen lecsökken.",
+                "ro": "Folosiți vizita la biserică pentru a vă încălzi; asigurați-vă că luminile bicicletei sunt aprinse, deoarece vizibilitatea scade mult pe ploaie.",
+                "en": "Use the church visit to warm up; make sure your bike lights are on, as visibility is significantly reduced during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Russisches Haus",
+                "hu": "Orosz Ház",
+                "ro": "Casa Rusă",
+                "en": "Russian House"
+              },
+              "tip_5lang": {
+                "de": "Hier ist eine gute Gelegenheit für eine längere Rast im Trockenen; stellen Sie Ihr Rad an einem gut sichtbaren, aber geschützten Ort ab.",
+                "hu": "Kiváló alkalom egy hosszabb száraz pihenőre; a kerékpárt jól látható, de az esőtől védett helyen hagyhatja a látogatás idejére.",
+                "ro": "O oportunitate excelentă pentru un popas uscat mai lung; parcați bicicleta într-un loc vizibil, dar protejat de ploaie în timpul vizitei.",
+                "en": "A great opportunity for a longer rest in the dry; park your bike in a visible but sheltered spot during your visit to the house."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Entschlafen",
+                "hu": "Istenanya Elszenderedése Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel trocken, bevor Sie weiterfahren; die besinnliche Atmosphäre im Inneren lässt den Stress der nassen Fahrt vergessen.",
+                "hu": "Törölje szárazra a nyerget, mielőtt tovább indulna; a belső tér meghitt hangulata segít elfelejteni a vizes út nehézségeit.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe; atmosfera liniștită din interior vă va ajuta să uitați de stresul drumului prin ploaie.",
+                "en": "Wipe your saddle dry before moving on; the peaceful atmosphere inside helps you forget the stress of cycling through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Russischer Friedhof",
+                "hu": "Orosz Temető",
+                "ro": "Cimitirul Rus",
+                "en": "Russian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den Friedhofswegen besonders langsam; das Laub kann auf dem nassen Asphalt eine gefährliche Rutschschicht bilden.",
+                "hu": "A temetői utakon közlekedjen rendkívül lassan; a vizes aszfalton lévő levelek veszélyes, csúszós réteget alkothatnak a kerekek alatt.",
+                "ro": "Mergeți foarte încet pe aleile cimitirului; frunzele ude pe asfaltul umed pot forma un strat alunecos și periculos sub roți.",
+                "en": "Ride extra slowly on the cemetery paths; wet leaves on the asphalt can create a dangerous, slippery layer under your tires."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir bei frostigen Temperaturen und klarem Himmel zur Kirche. Mittags wärmen wir uns im Schloss auf, während die Wintersonne tief steht. Der Nachmittag gehört den historischen Stätten im russischen Viertel. Da es bereits gegen 17:00 Uhr dunkel wird, beenden wir die Radtour frühzeitig und achten auf die Beleuchtung, während wir die frostige Abendluft genießen.",
+            "hu": "Reggel fagyos hőmérsékletben és tiszta égbolt mellett indulunk a templom felé. Délben a kastélyban melegszünk fel, miközben a téli nap alacsonyan jár. A délután az orosz negyed történelmi helyszíneié. Mivel 17:00 körül sötétedik, a kerékpározást időben befejezzük, ügyelve a világításra és a hideg esti szélre a visszaúton.",
+            "ro": "Dimineața începem la temperaturi de îngheț sub un cer senin spre biserică. La prânz ne încălzim la castel în timp ce soarele de iarnă stă jos pe cer. După-amiaza aparține locurilor istorice din cartierul rusesc. Deoarece se întunecă în jur de ora 17:00, încheiem tura devreme, atenți la lumini și la aerul rece.",
+            "en": "In the morning, we start in freezing temperatures and clear skies towards the church. At noon, we warm up at the castle while the winter sun stays low. The afternoon is dedicated to the historic sites in the Russian quarter. Since it gets dark around 5:00 PM, we finish the ride early, ensuring our lights are working in the frost."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vereinigte Protestantische Kirche",
+                "hu": "Egyesült Protestáns Templom",
+                "ro": "Biserica Protestantă Unită",
+                "en": "United Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind bei Frost die Finger schnell auskühlt; prüfen Sie den Reifendruck für besseren Grip auf kaltem Boden.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél fagyban hamar lehűti az ujjait; ellenőrizze a guminyomást a jobb tapadás érdekében a hideg aszfalton.",
+                "ro": "Purtați mănuși groase, deoarece vântul vă va îngheța rapid degetele pe ghidon; verificați presiunea pneurilor pentru aderență mai bună pe sol rece.",
+                "en": "Wear warm gloves as the wind chill quickly freezes your fingers; check your tire pressure for better grip on the cold, hard road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Városháza",
+                "ro": "Primăria din Sainte-Geneviève-des-Bois",
+                "en": "Town Hall of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Besichtigung kurz, um nicht auszukühlen; die klare Winterluft bietet jedoch eine hervorragende Sicht auf die Details der Fassade.",
+                "hu": "Tartsa rövidre a nézelődést, hogy ne hűljön ki túlságosan; a tiszta téli levegőben viszont minden építészeti részlet tűélesen látszik.",
+                "ro": "Păstrați vizita scurtă pentru a nu vă răci prea tare; totuși, aerul clar de iarnă oferă o vizibilitate excelentă asupra detaliilor fațadei.",
+                "en": "Keep the sightseeing brief to avoid getting too cold; however, the clear winter air provides excellent visibility of the facade's details."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Kastély",
+                "ro": "Castelul din Sainte-Geneviève-des-Bois",
+                "en": "Castle of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schlossbesuch für eine längere Aufwärmpause; bewegen Sie Ihre Zehen und Finger, um die Durchblutung nach der Fahrt anzuregen.",
+                "hu": "Használja ki a kastélyt egy hosszabb melegedő pihenőre; mozgassa át az ujjait és a lábfejét, hogy serkentse a vérkeringést a tekerés után.",
+                "ro": "Folosiți vizita la castel pentru o pauză lungă de încălzire; mișcați degetele de la mâini și picioare pentru a stimula circulația după drum.",
+                "en": "Take advantage of the castle visit for a long warming break; move your fingers and toes to stimulate circulation after the cold ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Geneviève Grotte",
+                "hu": "Sainte-Geneviève Barlang",
+                "ro": "Grota Sainte-Geneviève",
+                "en": "Sainte-Geneviève Grotto"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe auf den Waldwegen zur Grotte; fahren Sie besonders vorausschauend und vermeiden Sie abruptes Bremsen.",
+                "hu": "Vigyázzon a barlanghoz vezető erdei utakon az esetleges lefagyásokkal; tekerjen lassan és kerülje a hirtelen fékezést a csúszós részeken.",
+                "ro": "Atenție la porțiunile de drum înghețat spre grotă; pedalați cu prudență sporită și evitați frânările bruște pe suprafețele suspecte.",
+                "en": "Watch out for black ice on the paths to the grotto; cycle with extra caution and avoid sudden braking on potentially frozen patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Geneviève",
+                "hu": "Sainte-Geneviève Templom",
+                "ro": "Biserica Sainte-Geneviève",
+                "en": "Sainte-Geneviève Church"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Schutz vor dem Wind; prüfen Sie vor der Weiterfahrt Ihre Beleuchtung, da die Dämmerung im Winter sehr rasch einsetzt.",
+                "hu": "A belső tér védelmet nyújt a metsző szél ellen; továbbindulás előtt ellenőrizze a lámpákat, mert télen a szürkület váratlanul gyorsan jön.",
+                "ro": "Interiorul oferă protecție împotriva vântului tăios; înainte de plecare verificați luminile, deoarece amurgul se lasă foarte repede iarna.",
+                "en": "The interior provides shelter from the biting wind; check your lights before continuing, as twilight sets in very quickly during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Russisches Haus",
+                "hu": "Orosz Ház",
+                "ro": "Casa Rusă",
+                "en": "Russian House"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich vor der letzten Etappe gründlich aufzuwärmen; die warme Atmosphäre im Inneren ist ein wahrer Segen für Winterradler.",
+                "hu": "Ideális hely egy alapos átmelegedéshez az utolsó szakasz előtt; a belső fűtött terek igazi áldást jelentenek a téli kerékpárosoknak.",
+                "ro": "Un loc ideal pentru a vă încălzi bine înainte de ultima etapă; atmosfera caldă din interior este o binecuvântare pentru bicicliștii de iarnă.",
+                "en": "An ideal spot to warm up thoroughly before the last stage; the cozy indoor atmosphere is a true blessing for winter cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Entschlafen",
+                "hu": "Istenanya Elszenderedése Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Gold der Ikonen als Kontrast zur winterlichen Kälte draußen; achten Sie beim Verlassen auf den Temperaturunterschied.",
+                "hu": "Élvezze az ikonok aranyló melegségét kontrasztként a kinti hideggel; kilépéskor ügyeljen a hirtelen hőmérséklet-változásra és a szélre.",
+                "ro": "Bucurați-vă de aurul cald al icoanelor ca contrast pentru gerul de afară; la ieșire aveți grijă la diferența bruscă de temperatură.",
+                "en": "Enjoy the warm gold of the icons as a contrast to the winter cold outside; be mindful of the temperature drop when leaving the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Russischer Friedhof",
+                "hu": "Orosz Temető",
+                "ro": "Cimitirul Rus",
+                "en": "Russian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch spätestens um 16:45 Uhr; bei Dunkelheit und Frost ist die Rückfahrt mit dem Rad auf den Friedhofswegen zu gefährlich.",
+                "hu": "Legkésőbb 16:45-kor fejezze be a látogatást; sötétben és fagyban a temetői utakon való kerékpározás már túl veszélyes és nehézkes lenne.",
+                "ro": "Încheiați vizita cel târziu la 16:45; pe întuneric și îngheț, drumul de întoarcere pe aleile cimitirului devine mult prea periculos.",
+                "en": "Finish your visit by 4:45 PM at the latest; in darkness and frost, cycling back on the cemetery paths becomes much too hazardous."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -606,6 +1070,280 @@
         "hu": "Kezdje a napot egy pihentető sétával a Pierre Park hatalmas zöldterületein, kihasználva a könnyű parkolási lehetőségeket. Egy rövid autóút után a jellegzetes protestáns templomhoz érkezik.\nA délidő a város központi történelmi helyszínei közötti ugrálást jelenti, könnyedén navigálva a közigazgatási központtól a középkori várromokig. A vezetés lehetővé teszi e változatos helyek gyors bejárását.\nA délután az orosz negyed gazdag kulturális szövevényének felfedezésének van szentelve. Autóval egyszerűen át lehet jutni a történelmi háztól egyenesen a lélegzetelállító ortodox templomig.\nA nap a hatalmas orosz temetőben zárul, ahol bőven lesz ideje tiszteletét tenni a legendák sírjainál. Az autózás kényelme biztosítja, hogy maradjon még energiája a nap végére.",
         "ro": "Începeți ziua cu o plimbare relaxantă prin spațiile verzi vaste ale Parcului Pierre, profitând de parcarea ușoară. Un scurt drum cu mașina vă aduce apoi la biserica protestantă distinctă.\nMiezul zilei implică deplasarea între siturile istorice de bază ale orașului, navigând cu ușurință de la centrul administrativ la ruinele castelului medieval. Condusul vă permite să acoperiți rapid aceste locuri.\nDupă-amiaza este dedicată explorării bogatei tapiserii culturale a cartierului rus. Având o mașină este simplu să vă mutați de la casa istorică direct la biserica ortodoxă uluitoare.\nZiua se încheie la vastul cimitir rusesc, unde aveți suficient timp pentru a prezenta omagii la mormintele legendelor. Comoditatea condusului vă asigură că plecați cu energie rămasă.",
         "en": "Start the day with a relaxing stroll through the vast green spaces of Pierre Park, taking advantage of the easy parking. A short drive then brings you to the distinct Protestant church.\nMidday involves hopping between the town's core historical sites, easily navigating from the administrative center to the medieval castle ruins. Driving allows you to quickly cover these diverse central spots.\nThe afternoon is dedicated to exploring the rich cultural tapestry of the Russian quarter. Having a car makes it simple to move from the historical house directly to the breathtaking Orthodox church.\nYour day concludes at the vast Russian Cemetery, where ample time allows you to pay respects at the graves of legends. The convenience of driving ensures you leave with energy to spare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir den Pierre-Park trotz Regens bequem vom Auto aus und bei kurzen Spaziergängen. Mittags bietet das Schloss eine trockene Parkmöglichkeit in der Nähe und Schutz in den Räumen. Der Nachmittag führt uns trocken zu den verschiedenen Kirchen und dem russischen Viertel. Abends beenden wir die Tour entspannt, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Reggel a Pierre Parkot az autóból és rövid, esernyős séták alatt fedezzük fel. Délben a kastélynál könnyen találunk közeli parkolót, így szárazon jutunk be a falak közé. A délutáni órákban kényelmesen, az autóból nézve a várost látogatjuk végig a templomokat és az orosz negyedet. Az estét a kocsi biztonságában zárjuk, miközben az eső kopog a tetőn.",
+            "ro": "Dimineața ne bucurăm de Parcul Pierre confortabil din mașină și prin scurte plimbări cu umbrela. La prânz, castelul oferă opțiuni de parcare aproape, asigurând un acces uscat. După-amiaza ne poartă spre biserici și cartierul rusesc, feriți de intemperii. Seara încheiem turul relaxați în interiorul vehiculului, ascultând picăturile de ploaie pe plafon.",
+            "en": "In the morning, we enjoy Pierre Park comfortably from the car and during short umbrella walks. At noon, the castle offers nearby parking for dry access to the interiors. The afternoon takes us to various churches and the Russian quarter, staying sheltered from the weather. In the evening, we end the tour relaxed inside the car as raindrops drum on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pierre-Park",
+                "hu": "Pierre Park",
+                "ro": "Parcul Pierre",
+                "en": "Pierre Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze mit guter Sicht auf den Park; ein kurzer Spaziergang mit dem Regenschirm zum See lohnt sich trotz der Feuchtigkeit.",
+                "hu": "Használja a park melletti parkolókat, ahonnan jó a kilátás; egy rövid esernyős séta a tóhoz az eső ellenére is nagyon hangulatos élmény.",
+                "ro": "Folosiți locurile de parcare cu vedere bună spre parc; o scurtă plimbare cu umbrela până la lac merită efortul în ciuda umidității de afară.",
+                "en": "Use the parking spots with a good view of the park; a short umbrella walk to the lake is worth it despite the wet weather and damp grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Vereinigte Protestantische Kirche",
+                "hu": "Egyesült Protestantáns Templom",
+                "ro": "Biserica Protestantă Unită",
+                "en": "United Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az elázást; kiszálláskor ügyeljen az út szélén felgyülemlett mélyebb tócsákra.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; aveți grijă la coborâre la bălțile adânci formate adesea la marginea drumului.",
+                "en": "Park as close to the entrance as possible to stay dry; be careful when stepping out of the car as deep puddles often form by the curb."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Városháza",
+                "ro": "Primăria din Sainte-Geneviève-des-Bois",
+                "en": "Town Hall of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade durch die Windschutzscheibe; stellen Sie sicher, dass Ihre Scheibenwischer für die Weiterfahrt in gutem Zustand sind.",
+                "hu": "Csodálja meg a homlokzatot a szélvédőn keresztül; indulás előtt ellenőrizze az ablaktörlőket, mert a sűrű esőben szükség lesz rájuk.",
+                "ro": "Admirați fațada prin parbrizul mașinii; asigurați-vă că ștergătoarele sunt în stare bună pentru a continua drumul în siguranță prin ploaie.",
+                "en": "Admire the facade through your windshield; make sure your wipers are in good condition for the rest of the drive through the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Kastély",
+                "ro": "Castelul din Sainte-Geneviève-des-Bois",
+                "en": "Castle of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schlossbesuch als längere Pause vom Fahren im Regen; die Innenräume bieten eine faszinierende und vor allem trockene Abwechslung.",
+                "hu": "Használja ki a kastélyt egy hosszabb pihenőre az esős vezetés után; a belső terek érdekes és legfőképpen száraz programot kínálnak.",
+                "ro": "Folosiți vizita la castel ca pe o pauză de la condusul prin ploaie; interioarele oferă o alternativă fascinantă și, mai ales, uscată.",
+                "en": "Use the castle visit as a long break from driving in the rain; the interiors provide a fascinating and, above all, dry change of pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Geneviève Grotte",
+                "hu": "Sainte-Geneviève Barlang",
+                "ro": "Grota Sainte-Geneviève",
+                "en": "Sainte-Geneviève Grotto"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem unbefestigten Parkplatz der Grotte, da dieser schlammig sein kann; bleiben Sie im Auto, bis der stärkste Schauer vorbei ist.",
+                "hu": "Vezessen óvatosan a barlang melletti burkolatlan parkolóban, mert sáros lehet; várja meg az autóban, amíg a legnagyobb zápor elvonul.",
+                "ro": "Conduceți cu atenție în parcarea neasfaltată de la grotă, deoarece poate fi noroi; așteptați în mașină până trece aversa cea mai puternică.",
+                "en": "Drive carefully in the unpaved parking area near the grotto, as it can be muddy; wait in the car until the heaviest shower passes over."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Geneviève",
+                "hu": "Sainte-Geneviève Templom",
+                "ro": "Biserica Sainte-Geneviève",
+                "en": "Sainte-Geneviève Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Kircheneingang hält Sie trocken; nutzen Sie die Zeit drinnen, um die beschlagenen Autoscheiben trocknen zu lassen.",
+                "hu": "Egy rövid futás az autótól a templomajtóig segít szárazon maradni; bentlét alatt az autó szélvédője is volt ideje páramentesedni.",
+                "ro": "O scurtă fugă de la mașină la intrarea în biserică vă va menține uscat; folosiți timpul petrecut înăuntru pentru a lăsa parbrizul să se dezaburească.",
+                "en": "A quick dash from the car to the church entrance will keep you dry; use the time inside to allow your car windows to defog properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Russisches Haus",
+                "hu": "Orosz Ház",
+                "ro": "Casa Rusă",
+                "en": "Russian House"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Plätzen in der Nähe; das Russische Haus ist ein idealer Ort, um die regnerische Stimmung bei Kultur zu genießen.",
+                "hu": "Parkoljon a közeli kijelölt helyeken; az Orosz Ház ideális helyszín, hogy az esős időben egy kis kultúrával töltődjön fel szárazon.",
+                "ro": "Parcați în locurile marcate din apropiere; Casa Rusă este locul ideal pentru a vă bucura de cultură și a scăpa de atmosfera ploioasă.",
+                "en": "Park in the designated spots nearby; the Russian House is an ideal place to enjoy some culture while escaping the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Entschlafen",
+                "hu": "Istenanya Elszenderedése Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf die schlechte Sicht durch den Regen; die prachtvollen Farben im Inneren sind ein toller Kontrast zum grauen Wetter.",
+                "hu": "Parkoláskor ügyeljen a korlátozott látási viszonyokra; a belső tér pompás színei kiváló kontrasztot alkotnak a kinti szürke időjárással.",
+                "ro": "Aveți grijă la parcare din cauza vizibilității reduse de ploaie; culorile superbe din interior sunt un contrast excelent pentru vremea gri.",
+                "en": "Be careful when parking due to the reduced visibility from the rain; the magnificent colors inside offer a great contrast to the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Russischer Friedhof",
+                "hu": "Orosz Temető",
+                "ro": "Cimitirul Rus",
+                "en": "Russian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang; bei starkem Regen können Sie die Atmosphäre des Ortes auch bei einer langsamen Umfahrung spüren.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót; nagy esőben akár az autóból is átérezheti a hely különleges, melankolikus hangulatát.",
+                "ro": "Folosiți parcarea de la intrare; în caz de ploaie torențială, puteți simți atmosfera locului chiar și dintr-o scurtă oprire cu mașina.",
+                "en": "Use the parking lot right at the entrance; in heavy rain, you can still sense the unique atmosphere of the site from the comfort of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir den Pierre-Park im warmen Auto und bei kurzen Gängen an der frischen Luft. Mittags bietet das Schloss eine angenehme Pause in geheizten Räumen. Der Nachmittag ist den kulturellen Schätzen gewidmet, wobei die kurzen Wege zwischen den Parkplätzen und Sehenswürdigkeiten ideal sind. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag im gemütlich beleuchteten russischen Viertel.",
+            "hu": "Reggel a Pierre Parkot a fűtött autóból és rövid, frissítő sétákkal fedezzük fel. Délben a kastély termeiben tartunk pihenőt a hideg elől. A délután a kulturális kincseké, ahol az autóval könnyen és gyorsan közlekedhetünk a helyszínek között. Mivel 17:00-kor már sötétedik, a napot az orosz negyed hangulatos esti fényeiben fejezzük be.",
+            "ro": "Dimineața explorăm Parcul Pierre din mașina încălzită și prin scurte ieșiri în aerul rece. La prânz, castelul oferă o pauză plăcută în spații protejate. După-amiaza este dedicată comorilor culturale, profitând de distanțele scurte de la parcare la obiective. Deoarece se întunecă la ora 17:00, încheiem ziua în cartierul rusesc luminat ambiental.",
+            "en": "In the morning, we explore Pierre Park from a warm car and with short strolls in the crisp air. At noon, the castle provides a pleasant break in heated rooms. The afternoon is dedicated to cultural treasures, with short walks from parking spots to sites. Since it gets dark at 5:00 PM, we end the day in the beautifully lit Russian quarter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pierre-Park",
+                "hu": "Pierre Park",
+                "ro": "Parcul Pierre",
+                "en": "Pierre Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den zugefrorenen See vom warmen Auto aus; ein kurzer Spaziergang auf den geräumten Wegen ist sehr erfrischend.",
+                "hu": "Élvezze a kilátást a befagyott tóra a fűtött autóból; egy rövid séta a letakarított utakon a friss levegőn nagyon felfrissítő élmény lehet.",
+                "ro": "Bucurați-vă de vederea spre lacul înghețat din mașina caldă; o scurtă plimbare pe aleile curățate este extrem de revigorantă iarna.",
+                "en": "Enjoy the view of the frozen lake from your warm car; a short stroll on the cleared paths in the crisp air is very refreshing in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Vereinigte Protestantische Kirche",
+                "hu": "Egyesült Protestáns Templom",
+                "ro": "Biserica Protestantă Unită",
+                "en": "United Protestant Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto laufen, während Sie kurz aussteigen; die klare Wintersonne lässt die Fenster der Kirche wunderbar leuchten.",
+                "hu": "Hagyja járni a fűtést az autóban, amíg rövid időre kiszáll; a tiszta téli napsütésben a templom ablakai csodálatosan ragyognak.",
+                "ro": "Lăsați căldura pornită în mașină în timp ce coborâți scurt; soarele clar de iarnă face ca ferestrele bisericii să strălucească superb.",
+                "en": "Keep the car heater on while you step out briefly; the clear winter sun makes the church windows glow beautifully in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Városháza",
+                "ro": "Primăria din Sainte-Geneviève-des-Bois",
+                "en": "Town Hall of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für ein schnelles Foto direkt gegenüber; achten Sie auf Glatteis auf dem Kopfsteinpflaster rund um das Verwaltungsgebäude.",
+                "hu": "Parkoljon le közvetlenül szemben egy gyors fotó erejéig; ügyeljen a jegesedésre a hivatali épület körüli macskaköves utakon.",
+                "ro": "Parcați direct vizavi pentru o fotografie rapidă; atenție la porțiunile de polei de pe pavajul din jurul clădirii administrative.",
+                "en": "Park directly opposite for a quick photo; watch out for black ice on the cobblestones surrounding the administrative building."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss von Sainte-Geneviève-des-Bois",
+                "hu": "Sainte-Geneviève-des-Bois Kastély",
+                "ro": "Castelul din Sainte-Geneviève-des-Bois",
+                "en": "Castle of Sainte-Geneviève-des-Bois"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss bietet eine ideale Aufwärmpause zur Mittagszeit; nutzen Sie die Parkplätze im Schlosshof, um lange Wege in der Kälte zu vermeiden.",
+                "hu": "A kastély ideális melegedőhely a déli órákban; használja a belső udvari parkolókat, hogy elkerülje a hosszú gyaloglást a fagyos szélben.",
+                "ro": "Castelul oferă o pauză ideală de încălzire la prânz; folosiți parcarea din curte pentru a evita mersul pe jos prin vântul tăios.",
+                "en": "The castle provides an ideal warming break at noon; use the courtyard parking to avoid long walks in the freezing winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Geneviève Grotte",
+                "hu": "Sainte-Geneviève Barlang",
+                "ro": "Grota Sainte-Geneviève",
+                "en": "Sainte-Geneviève Grotto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Zufahrtsweg; die Grotte selbst ist im Winter ein stiller, fast magischer Ort ohne Besuchermassen.",
+                "hu": "Ügyeljen a befagyott tócsákra a behajtó úton; a barlang télen csendes, szinte mágikus helyszín, távol a nyári tömegtől.",
+                "ro": "Atenție la bălțile înghețate de pe drumul de acces; grota în sine este un loc liniștit, aproape magic iarna, fără mulțimile de turiști.",
+                "en": "Watch out for frozen puddles on the access road; the grotto itself is a quiet, almost magical place in winter without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Geneviève",
+                "hu": "Sainte-Geneviève Templom",
+                "ro": "Biserica Sainte-Geneviève",
+                "en": "Sainte-Geneviève Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Portals; die besinnliche Ruhe im Kirchenschiff lässt Sie die winterliche Kälte für einen Moment vergessen.",
+                "hu": "Parkoljon a főbejárat közelében; a templomhajó áhítatos csendjében egy pillanatra teljesen elfelejtheti a kinti fagyos időjárást.",
+                "ro": "Parcați aproape de poarta principală; liniștea din interiorul bisericii vă va face să uitați pentru un moment de gerul de afară.",
+                "en": "Park near the main portal; the peaceful silence in the nave allows you to forget the biting winter cold for a contemplative moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Russisches Haus",
+                "hu": "Orosz Ház",
+                "ro": "Casa Rusă",
+                "en": "Russian House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine gründliche Aufwärmphase; im Winter ist die russische Gastfreundschaft und Kultur besonders herzerwärmend.",
+                "hu": "Használja ki a látogatást egy alapos átmelegedésre; télen az orosz kultúra és vendégszeretet különösen szívmelengető élményt nyújt.",
+                "ro": "Profitați de vizită pentru a vă încălzi bine; iarna, cultura și ospitalitatea rusă sunt deosebit de primitoare și călduroase.",
+                "en": "Take advantage of the visit for a thorough warming phase; in winter, the Russian culture and hospitality feel especially heart-warming."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Mariä Entschlafen",
+                "hu": "Istenanya Elszenderedése Templom",
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "en": "Church of Our Lady of the Assumption"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die warme Innenbeleuchtung sorgt für eine magische Atmosphäre.",
+                "hu": "Látogassa meg a templomot 16:30 előtt a maradék fényben; a benti meleg fények és az illatok varázslatos hangulatot árasztanak télen.",
+                "ro": "Vizitați biserica înainte de 16:30 pentru a profita de ultima lumină; iluminatul interior cald creează o atmosferă magică iarna.",
+                "en": "Visit the church before 4:30 PM to catch the last daylight; the warm interior lighting creates a truly magical atmosphere in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Russischer Friedhof",
+                "hu": "Orosz Temető",
+                "ro": "Cimitirul Rus",
+                "en": "Russian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch so, dass Sie vor 17:00 Uhr wieder im Auto sind; die Kälte zieht bei Sonnenuntergang sehr schnell in die Knochen.",
+                "hu": "Tervezze úgy, hogy 17:00 előtt már visszaérjen az autóba; naplemente után a hideg pillanatok alatt átjárja az ember minden tagját.",
+                "ro": "Planificați vizita astfel încât să fiți înapoi în mașină înainte de ora 17:00; frigul devine tăios imediat după apusul soarelui.",
+                "en": "Plan your visit to be back in the car by 5:00 PM; the cold becomes very biting immediately after the winter sun sets below the horizon."
+              }
+            }
+          ]
+        }
       }
     }
   }

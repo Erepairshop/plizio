@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy nyugodt sétával Tabarka szívében, fedezze fel a jazz témájú emlékműveket és a lenyűgöző bazilika ősi romjait. Délben csodálja meg a Korallfa emlékművet, majd tartson egy pihentető szünetet a Bejiya strand homokján. Délután másszon fel a fenséges genovai erődbe, amely pazar tengeri kilátást és gazdag történelmet kínál. Zárja a napot a Tabarka Színház felé sétálva, amely tökéletes helyszín a partvidéki esti hangulat élvezetéhez.",
         "ro": "Începeți dimineața cu o plimbare relaxantă prin inima Tabarkăi, explorând monumentele de jazz și ruinele istorice ale Basilicii. La prânz admirați Monumentul Copacului de Corali înainte de a lua o pauză binemeritată pe nisipul plajei Bejiya. După-amiaza, urcați la maiestuosul Fort Genovez, care oferă vederi panoramice și o istorie bogată. Încheiați ziua plimbându-vă spre Teatrul Tabarka, un loc perfect pentru a vă bucura de atmosfera de seară a coastei.",
         "en": "Start your morning with a relaxed stroll through the heart of Tabarka, exploring its famous jazz-themed monuments and the historical ruins of La Basilique. Midday brings you to the lively center, admiring the Coral Tree Monument before taking a leisurely break on the sands of Bejiya Beach. In the afternoon, ascend to the majestic Genoese Fort, offering sweeping sea views and rich history. Conclude your day walking towards the Tabarka Theatre, a perfect spot to enjoy the evening coastal ambiance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang mit einem Schirm bei den Musikdenkmälern. Suchen Sie mittags Schutz bei den Ruinen des römischen Theaters und bewundern Sie das stürmische Meer am Strand. Der Nachmittag erfordert wasserfestes Schuhwerk für die rutschige genuesische Festung. Beenden Sie den Tag abends im überdachten Tabarka-Theater.",
+            "hu": "Kezdd esős sétádat a zeneműemlékeknél esernyővel a kézben. Délben keress fedezéket a római színház boltíveinél, majd nézd meg a hullámzó tengert a strandról. Délután a genovai erőd következik, ide csúszásmentes cipő és esőkabát kell. Este melegedj fel és szárkózz meg a Tabarka Színház kulturális programjain.",
+            "ro": "Începeți plimbarea ploioasă explorând monumentele muzicale cu o umbrelă. La amiază, căutați adăpost printre ruinele teatrului roman și admirați plaja furtunoasă. După-amiaza la Fortul Genovez necesită încălțăminte impermeabilă și atenție la pași. Încheiați seara la interior, vizitând Teatrul Tabarka.",
+            "en": "Start your rainy walk exploring the musical monuments with a sturdy umbrella. By midday, seek shelter in the Roman Theatre's ruins and marvel at the stormy sea at Bejiya Beach. The afternoon involves exploring the Genoese Fort, so wear waterproof shoes for the slippery stones. Conclude safely indoors at the Tabarka Theatre."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cello-Denkmal",
+                "hu": "Cselló emlékmű",
+                "ro": "Monumentul Violoncelului",
+                "en": "Cello Monument"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das Cello unter dem Schirm, da der Regen dem Tribut eine melancholische Note verleiht. Tragen Sie wasserfeste Schuhe.",
+                "hu": "Fotózd le a csellót esernyő alól, a szitáló eső melankolikus hangulatot ad az emlékműnek. Vízálló cipő ajánlott a sétához.",
+                "ro": "Fotografiați violoncelul sub umbrelă, deoarece ploaia adaugă o notă melancolică. Purtați încălțăminte rezistentă la apă și vânt.",
+                "en": "Take a quick photo of the cello under your umbrella, as the rain adds a melancholic vibe. Waterproof shoes are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater La Basilique",
+                "hu": "La Basilique római színház",
+                "ro": "Teatrul Roman La Basilique",
+                "en": "La Basilique Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Ruinen sind rutschig; suchen Sie kurzen Schutz unter den verbliebenen Steinbögen und gehen Sie vorsichtig.",
+                "hu": "A vizes romok nagyon csúszósak; keress gyors menedéket a megmaradt kőboltívek alatt, és lépkedj óvatosan a köveken.",
+                "ro": "Ruinele ude sunt alunecoase; căutați scurt adăpost sub arcadele de piatră rămase și pășiți cu mare atenție.",
+                "en": "The wet ruins are slippery, so wear sturdy boots while seeking brief shelter under the remaining ancient stone arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Korallenbaum-Denkmal",
+                "hu": "Korallfa emlékmű",
+                "ro": "Monumentul Copacului de Corali",
+                "en": "Coral Tree Monument"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die leuchtende Korallenskulptur im Regen; halten Sie die Kamera bedeckt und tragen Sie einen guten Regenmantel.",
+                "hu": "Csodáld meg az esőben csillogó korallszobrot; tartsd szárazon a kamerádat, és húzd össze jól az esőkabátodat.",
+                "ro": "Admirați sculptura vibrantă de corali strălucind în ploaie; protejați-vă camera și purtați o pelerină de ploaie bună.",
+                "en": "Admire the vibrant coral sculpture glistening in the rain; keep your camera covered and wear a quality raincoat here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bejiya-Strand",
+                "hu": "Bejiya strand",
+                "ro": "Plaja Bejiya",
+                "en": "Bejiya Beach"
+              },
+              "tip_5lang": {
+                "de": "Das stürmische Meer ist dramatisch, aber bleiben Sie vom Wasser fern und weichen Sie in ein überdachtes Café aus.",
+                "hu": "A viharos tenger drámai és gyönyörű, de maradj távol a víz határától, és inkább húzódj be egy fedett kávézóba.",
+                "ro": "Marea furtunoasă este dramatică, dar stați departe de apă și retrageți-vă într-o cafenea acoperită din apropiere.",
+                "en": "The stormy sea is dramatic and beautiful, but stay away from the waterline and retreat to a nearby covered café."
+              }
+            },
+            {
+              "name": {
+                "de": "Genuesische Festung von Tabarka",
+                "hu": "Tabarka genovai erődje",
+                "ro": "Fortul Genovez din Tabarka",
+                "en": "Genoese Fort of Tabarka"
+              },
+              "tip_5lang": {
+                "de": "Starker Wind und Regen fegen über die Festung; tragen Sie eine Windjacke und achten Sie auf das glatte Kopfsteinpflaster.",
+                "hu": "Erős szél és eső söpör végig az erődön; viselj szél- és vízálló kabátot, és vigyázz a csúszós macskaköveken.",
+                "ro": "Vânturi puternice și ploaie străbat fortul; purtați o jachetă de vânt și atenție la pavajul alunecos.",
+                "en": "Strong winds and driving rain sweep across the fort; wear a windbreaker and watch your step on the slick cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Tabarka-Theater",
+                "hu": "Tabarka Színház",
+                "ro": "Teatrul Tabarka",
+                "en": "Tabarka Theatre"
+              },
+              "tip_5lang": {
+                "de": "Eine ideale überdachte Zuflucht vor den Schauern; genießen Sie die Kultur und trocknen Sie sich an diesem geschützten Ort ab.",
+                "hu": "Tökéletes beltéri menedék a záporok elől; élvezd a kulturális kiállításokat, és száradj meg ezen a védett helyen.",
+                "ro": "O evadare ideală la interior din calea averselor; bucurați-vă de exponatele culturale și uscați-vă în acest loc protejat.",
+                "en": "An ideal indoor escape from the heavy showers; enjoy the cultural exhibits and dry off completely in this sheltered venue."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren winterlichen Spaziergang zu den Denkmälern im Morgenlicht. Mittags genießen Sie klare Sicht am römischen Theater und einen frischen Strandspaziergang. Erkunden Sie nachmittags die Festung in warmen Schichten gegen die kalte Meeresbrise. Besuchen Sie das Theater zum Aufwärmen, bevor die Sonne um 17 Uhr untergeht.",
+            "hu": "Indítsd a csípős téli sétát a zeneműemlékeknél a reggeli fényben. Délben tiszta kilátás vár a római színháznál és egy frissítő séta a tengerparton. Délután meleg rétegekben fedezd fel a hideg szélben álló genovai erődöt. Térj be a Tabarka Színházba felmelegedni a korai, 17 órás naplemente előtt.",
+            "ro": "Începeți plimbarea de iarnă admirând monumentele în lumina dimineții. La prânz, bucurați-vă de vizibilitatea clară la teatrul roman și de plaja răcoroasă. După-amiaza, îmbrăcați-vă gros cu straturi calde pentru a vizita Fortul Genovez. Vizitați teatrul pentru a vă încălzi înainte de apusul de la ora 17:00.",
+            "en": "Begin your crisp winter walk admiring the musical monuments in the morning light. Midday offers clear views at the Roman Theatre and a brisk stroll along Bejiya Beach. Spend the afternoon hiking up to the Genoese Fort, wearing warm layers against the sea breeze. Warm up at the Tabarka Theatre before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cello-Denkmal",
+                "hu": "Cselló emlékmű",
+                "ro": "Monumentul Violoncelului",
+                "en": "Cello Monument"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Winterluft am Cello ist frisch; tragen Sie warme Handschuhe, um dieses Wahrzeichen in der Kälte zu fotografieren.",
+                "hu": "A reggeli téli levegő csípős a cselló körül; viselj meleg kesztyűt, hogy kényelmesen lefotózd ezt az egyedi látványosságot.",
+                "ro": "Aerul dimineții de iarnă este rece; purtați mănuși calde pentru a fotografia acest reper local în frigul dimineții.",
+                "en": "The morning winter air is crisp around the cello; wear warm gloves to take a picture of this unique local landmark in the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater La Basilique",
+                "hu": "La Basilique római színház",
+                "ro": "Teatrul Roman La Basilique",
+                "en": "La Basilique Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Amphitheater ohne Menschenmassen im Winter, aber ziehen Sie sich warm an, da die Steine kalt abstrahlen.",
+                "hu": "Fedezd fel az ősi amfiteátrumot tömeg nélkül télen, de öltözz fel melegen, mert az árnyékos kőromok nagyon ontják a hideget.",
+                "ro": "Explorați amfiteatrul cu mai puține aglomerații iarna, dar îmbrăcați-vă gros, deoarece ruinele de piatră sunt foarte reci.",
+                "en": "Explore the ancient amphitheater with fewer crowds in winter, but dress warmly as the shaded stone ruins can feel quite cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Korallenbaum-Denkmal",
+                "hu": "Korallfa emlékmű",
+                "ro": "Monumentul Copacului de Corali",
+                "en": "Coral Tree Monument"
+              },
+              "tip_5lang": {
+                "de": "Die Rottöne der Koralle heben sich vom grauen Winterhimmel ab; knöpfen Sie Ihren Mantel gegen die kühle Meeresbrise zu.",
+                "hu": "A korall piros árnyalatai kiemelkednek a szürke téli égből; gombold be a kabátodat a hűvös óceáni szél ellen ezen a nyitott téren.",
+                "ro": "Nuanțele roșii ale coralului ies în evidență pe cerul gri de iarnă; închideți-vă haina împotriva brizei reci a oceanului.",
+                "en": "The red hues of the coral stand out against the grey winter sky; button up your coat against the chilly ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Bejiya-Strand",
+                "hu": "Bejiya strand",
+                "ro": "Plaja Bejiya",
+                "en": "Bejiya Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen belebenden Spaziergang am leeren Winterstrand, aber wickeln Sie sich einen Schal fest gegen den Küstenwind um.",
+                "hu": "Élvezd a frissítő sétát az üres téli strandon, de tekerj a nyakadba egy sálat, hogy védekezz a csípős parti szél ellen.",
+                "ro": "Bucurați-vă de o plimbare revigorantă pe plaja goală de iarnă, dar înfășurați-vă un fular strâns împotriva vânturilor de coastă.",
+                "en": "Enjoy a bracing walk on the empty winter beach, but wrap a scarf tightly to protect against the biting coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Genuesische Festung von Tabarka",
+                "hu": "Tabarka genovai erődje",
+                "ro": "Fortul Genovez din Tabarka",
+                "en": "Genoese Fort of Tabarka"
+              },
+              "tip_5lang": {
+                "de": "Der Meerblick ist im Winter sehr klar, seien Sie nur auf sinkende Temperaturen und kalte Böen in der Höhe vorbereitet.",
+                "hu": "A tengeri panoráma télen nagyon tiszta, de készülj fel a fentről érkező hideg széllökésekre és a csökkenő hőmérsékletre.",
+                "ro": "Vederile panoramice sunt clare iarna, doar fiți pregătiți pentru temperaturi scăzute și rafale reci de vânt la înălțime.",
+                "en": "The panoramic sea views are clear and crisp in winter, just be prepared for dropping temperatures and cold gusts up high."
+              }
+            },
+            {
+              "name": {
+                "de": "Tabarka-Theater",
+                "hu": "Tabarka Színház",
+                "ro": "Teatrul Tabarka",
+                "en": "Tabarka Theatre"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem kulturellen Zentrum vor dem frühen Sonnenuntergang um 17 Uhr auf und erkunden Sie die lokale Kunst.",
+                "hu": "Melegedj fel ebben a kulturális központban a korai 17 órás naplemente előtt, és élvezd a helyi művészetet kényelmesen.",
+                "ro": "Încălziți-vă în acest centru cultural înainte de apusul timpuriu de la ora 17:00, explorând artele locale într-un mediu confortabil.",
+                "en": "Warm up inside this cultural hub before the early 5 PM sunset, exploring the local arts in a cozy and heated environment."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Kerékpáros kalandja a festői parti utakon kezdődik, ahol a város örökségét kiemelő Szaxofon és Horgony emlékműveknél áll meg először. A nap közepén a városközpont felé veszi az irányt a Korallfa és a Cselló emlékművek, majd a Római Színház felfedezésére. A délutáni tekerés a Bejiya strandra vezet egy kis pihenőre, mielőtt felkerekezne a genovai erődbe. Zárja a túrát a Tabarka Színháznál, ahol a lenyűgöző naplemente látványában gyönyörködhet.",
         "ro": "Aventura pe bicicletă începe pe potecile pitorești de coastă, oprindu-vă la monumentele Saxofon și Ancoră care evidențiază moștenirea orașului. La prânz pedalați spre centrul orașului pentru a aprecia monumentele Copacul de Corali și Violoncel, explorând apoi Teatrul Roman. După-amiaza vă aduce o pauză pe plaja Bejiya înainte de a urca spre impresionantul Fort Genovez. Încheiați turul la Teatrul Tabarka, bucurându-vă de priveliștile asfințitului peste apa mării.",
         "en": "Your biking adventure begins along the scenic coastal paths, stopping first at the iconic Saxophone and Anchor monuments that highlight the city's heritage. Midday takes you deeper into the city to appreciate the Coral Tree and Cello monuments, followed by an exploration of the Roman Theatre. Afternoon riding leads you to a relaxing break at Bejiya Beach before pedaling up towards the impressive Genoese Fort. End your cycling journey at the Tabarka Theatre, enjoying the sunset views over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie die nasse Radtour bei den Denkmälern in guter Regenkleidung. Mittags erreichen Sie die Ruinen und den Strand; fahren Sie vorsichtig auf rutschigen Küstenwegen. Nachmittags radeln Sie zur Festung hinauf, Vorsicht bei nassen Steinen. Beenden Sie den Tag abends sicher und trocken im Theater.",
+            "hu": "Kezdd az esős bringatúrát a zeneműemlékeknél egy jó esőkabátban. Délben a római romok és a strand következik; óvatosan tekerj a csúszós parti utakon. Délután a genovai erődhöz tekersz, vigyázz a vizes kövekkel a lejtőn. Fejezd be a napot fedett, biztonságos helyen a Tabarka Színháznál.",
+            "ro": "Începeți turul ciclist pe ploaie la monumente, purtând o pelerină bună. La amiază, pedalați spre ruine și plajă; atenție pe cărările de coastă alunecoase. După-amiaza, urcați spre Fortul Genovez cu grijă pe pietrele ude. Încheiați ziua de ciclism în siguranță, la interior, la Teatrul Tabarka.",
+            "en": "Start your wet biking tour at the monuments, wearing a solid raincoat. Midday brings you to the Roman ruins and Bejiya Beach; ride carefully on slippery coastal paths. In the afternoon, ascend to the Genoese Fort with caution on wet stones. Conclude your rainy cycling day safely indoors at the Tabarka Theatre."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saxophon",
+                "hu": "Szaxofon",
+                "ro": "Saxofon",
+                "en": "Saxophone"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am Saxophon; wischen Sie den Sattel trocken und tragen Sie eine leuchtende Regenjacke für mehr Sicherheit.",
+                "hu": "Kezdd a vizes utat a szaxofonnál; töröld szárazra az ülést és viselj láthatósági esőkabátot a biztonság érdekében.",
+                "ro": "Începeți plimbarea la saxofon; ștergeți șaua și purtați o jachetă de ploaie reflectorizantă pentru siguranță sporită pe drum.",
+                "en": "Start your wet ride by the saxophone; wipe your saddle dry and wear a high-visibility rain jacket for safety in the gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Ankerdenkmal",
+                "hu": "Horgony emlékmű",
+                "ro": "Monumentul Ancorei",
+                "en": "Anchor Monument"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie sanft auf dem nassen Pflaster beim Anker; das maritime Thema passt perfekt zum strömenden Regenwetter.",
+                "hu": "Fékezz óvatosan a vizes aszfalton a horgony közelében; a tengeri téma különösen illik a szakadó esőhöz és viharhoz.",
+                "ro": "Frânați ușor pe pavajul ud lângă ancoră; tema maritimă se potrivește perfect cu ploaia torențială și atmosfera de coastă.",
+                "en": "Brake gently on the wet pavement near the anchor; the maritime theme feels remarkably fitting in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Korallenbaum-Denkmal",
+                "hu": "Korallfa emlékmű",
+                "ro": "Monumentul Copacului de Corali",
+                "en": "Coral Tree Monument"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Regenkapuze auf, während Sie das Denkmal betrachten; die rutschigen Fliesen erfordern vorsichtiges Fahren.",
+                "hu": "Hagyd fent a kapucnit a korallnál; a nedves csempék a szobor körül csúszósak lehetnek, így csak lassan tekerj át rajtuk.",
+                "ro": "Păstrați gluga pusă la monumentul coralului; plăcile alunecoase din jur necesită pedalare lentă și foarte atentă.",
+                "en": "Keep your rain hood up while viewing the coral monument; the slippery tiles around it require careful, slow cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Cello-Denkmal",
+                "hu": "Cselló emlékmű",
+                "ro": "Monumentul Violoncelului",
+                "en": "Cello Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein nasser Stopp am Cello; stellen Sie sicher, dass Ihre Fahrradlichter eingeschaltet sind, da die Sicht bei starkem Regen sinkt.",
+                "hu": "Egy vizes megálló a csellónál; ellenőrizd a biciklilámpákat, mert a sűrű esőben a látási viszonyok rohamosan romlanak.",
+                "ro": "O oprire udă la violoncel; asigurați-vă că luminile bicicletei sunt aprinse, vizibilitatea scade în ploile torențiale.",
+                "en": "A quick rainy stop at the cello; ensure your bike lights are firmly on as visibility drops sharply during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater La Basilique",
+                "hu": "La Basilique római színház",
+                "ro": "Teatrul Roman La Basilique",
+                "en": "La Basilique Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Fahrrad und suchen Sie Schutz in den Ruinen; nasse alte Steine sind extrem rutschig für Fahrradschuhe.",
+                "hu": "Parkold le a bringát és keress menedéket a romok közt; a vizes kövek rendkívül csúszósak, ha stoplis cipőben jársz.",
+                "ro": "Parcați bicicleta și adăpostiți-vă în ruine; pietrele vechi și ude sunt extrem de alunecoase pentru pantofii de ciclism.",
+                "en": "Park your bike and shelter in the ruins; wet ancient stones are incredibly slippery, so step carefully if wearing cycling cleats."
+              }
+            },
+            {
+              "name": {
+                "de": "Bejiya-Strand",
+                "hu": "Bejiya strand",
+                "ro": "Plaja Bejiya",
+                "en": "Bejiya Beach"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie schlammige Wege am stürmischen Strand; bleiben Sie auf der befestigten Promenade und achten Sie auf Seitenwinde.",
+                "hu": "Kerüld a saras ösvényeket a viharos tengerparton; maradj a lebetonozott sétányon, és vigyázz a hirtelen oldalszélre.",
+                "ro": "Evitați traseele noroioase de lângă plaja furtunoasă; rămâneți pe promenada pavată și atenție la vânturile laterale puternice.",
+                "en": "Avoid muddy tracks near the stormy beach; stick strictly to the paved promenade and watch out for strong, sudden crosswinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Genuesische Festung von Tabarka",
+                "hu": "Tabarka genovai erődje",
+                "ro": "Fortul Genovez din Tabarka",
+                "en": "Genoese Fort of Tabarka"
+              },
+              "tip_5lang": {
+                "de": "Die steile Fahrt zur Festung ist bei Regen glatt; nutzen Sie niedrige Gänge und seien Sie bei der Abfahrt extrem vorsichtig.",
+                "hu": "A meredek út az erődhöz esőben különösen csúszik; válts alacsony fokozatba, és lefelé jövet folyamatosan fékezz.",
+                "ro": "Urcarea abruptă spre fort este alunecoasă pe ploaie; folosiți trepte inferioare și fiți extrem de prudenți la coborâre.",
+                "en": "The steep ride up to the fort is slick in the rain; use lower gears and be extremely cautious on the wet, winding descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Tabarka-Theater",
+                "hu": "Tabarka Színház",
+                "ro": "Teatrul Tabarka",
+                "en": "Tabarka Theatre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Radtour hier; trocknen Sie sich drinnen ab und genießen Sie die Kunst, bis die Schauer nachlassen.",
+                "hu": "Fejezd be a vizes túrát itt; szárkózz meg odabent, és élvezd a helyi művészeti kiállítást, amíg a záporok alábbhagynak.",
+                "ro": "Încheiați aici călătoria udă; uscați-vă la interior și apreciați arta locală în timp ce așteptați să treacă ploile.",
+                "en": "End your wet cycling journey here; dry off entirely indoors and appreciate the local art while safely waiting out the showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine winterliche Radtour. Mittags erkunden Sie die Ruinen und genießen den leeren, windigen Strand. Die nachmittägliche Bergauffahrt zur Festung hält Sie warm, aber achten Sie auf den eiskalten Seewind. Beenden Sie den aktiven Tag vor 17 Uhr im beheizten Theater, bevor die frühe Dunkelheit einbricht.",
+            "hu": "Öltözz rétegesen a téli bringatúrához a műemlékek körül. Délben fedezd fel a romokat és a szeles, üres strandot. A délutáni kaptató a genovai erődhöz felmelegít, de a hegytetőn számíts jeges tengeri szélre. Zárd az aktív napot a meleg Tabarka Színháznál a 17 órás korai sötétedés előtt.",
+            "ro": "Îmbrăcați-vă cu straturi groase pentru turul ciclist de iarnă. La prânz, explorați ruinele și plaja liberă și vântoasă. Urcarea de după-amiază spre Fortul Genovez vă va încălzi, dar atenție la briza înghețată a mării. Finalizați ziua la teatrul încălzit înainte de apusul de la ora 17:00.",
+            "en": "Bundle up for a crisp winter cycling tour starting at the monuments. Around noon, explore the ruins and enjoy the breezy Bejiya Beach. The afternoon uphill ride to the Genoese Fort keeps you warm, but watch for chilling sea winds at the top. Finish your active day indoors at the Tabarka Theatre before the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saxophon",
+                "hu": "Szaxofon",
+                "ro": "Saxofon",
+                "en": "Saxophone"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer morgendlichen Fahrt zum Saxophon auf; Thermo-Fahrradhandschuhe sind ein Muss gegen die Kälte.",
+                "hu": "Melegedj be egy lendületes tekeréssel a szaxofonig; a thermo biciklis kesztyű elengedhetetlen a fagyos reggeli levegőn.",
+                "ro": "Încălziți-vă cu o plimbare matinală la saxofon; mănușile termice de ciclism sunt obligatorii împotriva aerului rece.",
+                "en": "Warm up with a brisk morning ride to the saxophone; thermal cycling gloves are an absolute must against the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ankerdenkmal",
+                "hu": "Horgony emlékmű",
+                "ro": "Monumentul Ancorei",
+                "en": "Anchor Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt den Anker erstrahlen; tragen Sie winddichte Schichten, da die Küstenbrise beim Treten eisig ist.",
+                "hu": "A téli fényben gyönyörűen csillog a horgony; viselj szélálló rétegeket, mert tekerés közben a parti szél jéghideg tud lenni.",
+                "ro": "Lumina de iarnă face ancora să strălucească; purtați straturi rezistente la vânt, briza coastei este înghețată la pedalare.",
+                "en": "The sharp winter light makes the anchor shine; wear windproof layers as the coastal breeze feels icy while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Korallenbaum-Denkmal",
+                "hu": "Korallfa emlékmű",
+                "ro": "Monumentul Copacului de Corali",
+                "en": "Coral Tree Monument"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Winteratmosphäre an dieser farbenfrohen Skulptur; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Élvezd a csendes téli hangulatot ennél a színes szobornál; ne állj meg sokáig, maradj mozgásban, hogy megőrizd a testhőd.",
+                "ro": "Bucurați-vă de atmosfera liniștită de iarnă la această sculptură colorată; mișcați-vă constant pentru a vă menține căldura.",
+                "en": "Enjoy the quiet winter atmosphere at this colorful sculpture; keep moving around it to efficiently maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cello-Denkmal",
+                "hu": "Cselló emlékmű",
+                "ro": "Monumentul Violoncelului",
+                "en": "Cello Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein frischer Stopp am Cello; nutzen Sie isolierte Flaschen, damit Ihr Getränk auf dieser kühlen Fahrt nicht gefriert.",
+                "hu": "Egy hűvös megálló a csellónál; használj szigetelt kulacsot, hogy az italod ne fagyjon meg ezen a csípős téli úton.",
+                "ro": "O oprire geroasă la violoncel; folosiți bidoane izolate pentru a preveni înghețarea băuturii în această plimbare rece.",
+                "en": "A crisp stop at the cello; use insulated water bottles to strictly prevent your drink from freezing on this chilly ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater La Basilique",
+                "hu": "La Basilique római színház",
+                "ro": "Teatrul Roman La Basilique",
+                "en": "La Basilique Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad durch die kalten, ruhigen Ruinen; der Winter ist die beste Zeit für ungestörte Fotos hier.",
+                "hu": "Told a biciklit a fagyos, csendes romok között; a tél a legjobb időszak arra, hogy zavartalanul fotózz ezen a helyen.",
+                "ro": "Mergeți pe lângă bicicletă prin ruinele reci și liniștite; iarna este cel mai bun moment pentru fotografii netulburate aici.",
+                "en": "Walk your bike around the cold, quiet ruins; winter is undeniably the best time for undisturbed and moody photography here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bejiya-Strand",
+                "hu": "Bejiya strand",
+                "ro": "Plaja Bejiya",
+                "en": "Bejiya Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Seeluft ist beißend und frisch; radeln Sie zügig entlang der Promenade, um sich vor dem frühen Sonnenuntergang warm zu halten.",
+                "hu": "A tengeri levegő harapós és friss; tekerj gyors ütemben a sétányon, hogy kimelegedj a korai naplemente és a lehűlés előtt.",
+                "ro": "Aerul mării este tăios și proaspăt; pedalați vioi pe promenadă pentru a vă menține cald înainte de apusul timpuriu.",
+                "en": "The sea air is biting and fresh; cycle briskly along the paved promenade to stay thoroughly warm before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Genuesische Festung von Tabarka",
+                "hu": "Tabarka genovai erődje",
+                "ro": "Fortul Genovez din Tabarka",
+                "en": "Genoese Fort of Tabarka"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wärmt Sie schnell auf, aber schließen Sie oben die Jacke gegen den eisigen Wind, der vom Meer weht.",
+                "hu": "A hegynek felfelé tekerés gyorsan felmelegít, de a tetőn azonnal húzd fel a cipzárt a tengerről fújó jéghideg szél miatt.",
+                "ro": "Urcarea dealului vă va încălzi rapid, dar încheiați jacheta la vârf împotriva vântului friguros ce bate dinspre mare.",
+                "en": "Pushing up the hill will warm you up quickly, but immediately zip your jacket at the top against the frigid sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tabarka-Theater",
+                "hu": "Tabarka Színház",
+                "ro": "Teatrul Tabarka",
+                "en": "Tabarka Theatre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Winterfahrt und gehen Sie hinein, um Ihre Hände zu wärmen; planen Sie die Heimkehr vor 17 Uhr ein.",
+                "hu": "Fejezd be a téli túrát, és lépj be a melegbe, hogy felolvaszd a kezeidet; tervezz úgy, hogy 17 óra előtt, még világosban hazaérj.",
+                "ro": "Finalizați cursa de iarnă și intrați pentru a vă încălzi mâinile; planificați să mergeți acasă înainte de întunericul de la 17:00.",
+                "en": "Finish your winter ride and step inside to warm your freezing hands; strictly plan to head home before the 5 PM darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +996,252 @@
         "hu": "Kezdje az autós túrát a Tabarka Színház meglátogatásával és egy rövid megállóval a Cselló emlékműnél, élvezve a nyitott tengerparti utakat. Délben barangoljon a bazilika romjai között, majd kényelmesen utazzon tovább a Korallfa, a Horgony és a Szaxofon emlékművekhez. A délutánt a Bejiya strand békés vize melletti pihenésre szánja. Az este közeledtével vezessen fel a fenséges genovai erődbe, hogy megcsodálhasson egy lélegzetelállító panorámás naplementét a Földközi-tenger felett.",
         "ro": "Începeți turul auto cu o vizită la Teatrul Tabarka și o scurtă oprire la Monumentul Violoncel, apreciind drumurile libere de coastă. La prânz plimbați-vă prin ruinele Basilicii și conduceți ușor între monumentele Copacul de Corali, Ancoră și Saxofon. După-amiaza este rezervată pentru o pauză liniștită la apele calme ale plajei Bejiya. Pe măsură ce se lasă seara, conduceți până la Fortul Genovez pentru a asista la un apus panoramic uimitor peste Marea Mediterană.",
         "en": "Start your driving tour with a grand visit to the Tabarka Theatre and a quick stop at the nearby Cello Monument, appreciating the open coastal roads. By midday, wander through the ruins of La Basilique and easily hop between the Coral Tree, Anchor, and Saxophone monuments. Your afternoon is reserved for a peaceful break by the calm waters of Bejiya Beach. As evening approaches, drive up to the majestic Genoese Fort to witness a breathtaking panoramic sunset over the Mediterranean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zuerst zum Theater, um dem starken Regen zu entgehen. Mittags gibt es kurze, nasse Stopps bei den Denkmälern; halten Sie einen Schirm im Auto griffbereit. Beobachten Sie nachmittags das stürmische Meer aus dem warmen Auto am Strand, bevor Sie die rutschige Festung erkunden. Fahren Sie abends auf nassen Straßen vorsichtig zurück.",
+            "hu": "Autózz először a Tabarka Színházhoz, hogy elkerüld a reggeli esőt. Délben rövid, esős megállók jönnek a zeneműemlékeknél; tarts könnyen elérhető helyen egy esernyőt a kocsiban. Délután nézd a viharos tengert a fűtött, száraz autóból a strandnál, majd jöhet az erőd. Este vezess óvatosan a csúszós, nedves utakon.",
+            "ro": "Conduceți dimineața la teatru pentru a scăpa de ploaia torențială. La prânz faceți opriri scurte la monumente; păstrați o umbrelă la îndemână în mașină. După-amiaza, priviți marea furtunoasă din mașina încălzită la plajă, înainte de a vizita fortul ud. Conduceți prudent înapoi spre seară pe drumul alunecos.",
+            "en": "Drive to the Tabarka Theatre first to safely escape the morning rain. Midday brings short, wet stops at the monuments; keep a large umbrella handy in the car. In the afternoon, watch the stormy sea from your heated car at Bejiya Beach before briefly exploring the wet Genoese Fort. Drive safely on slick roads as evening approaches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tabarka-Theater",
+                "hu": "Tabarka Színház",
+                "ro": "Teatrul Tabarka",
+                "en": "Tabarka Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, trockener Start; parken Sie nah am Eingang, um dem morgendlichen Regen auf dem kurzen Weg zu entgehen.",
+                "hu": "Tökéletes, száraz kezdése a túrának; parkolj minél közelebb a bejárathoz, hogy elkerüld a sűrű reggeli esőt a rövid úton.",
+                "ro": "Un început uscat perfect; parcați aproape de intrare pentru a evita ploaia puternică de dimineață pe drumul scurt.",
+                "en": "A perfect completely dry start to your tour; park close to the entrance to fully avoid the heavy morning rain on the way in."
+              }
+            },
+            {
+              "name": {
+                "de": "Cello-Denkmal",
+                "hu": "Cselló emlékmű",
+                "ro": "Monumentul Violoncelului",
+                "en": "Cello Monument"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Autofenster für ein schnelles Foto des Cellos herunter, so bleiben Sie während des Regengusses völlig trocken.",
+                "hu": "Húzd le az ablakot egy gyors fotó erejéig a csellóról, így a legnagyobb zápor közepette is teljesen száraz maradsz a kocsiban.",
+                "ro": "Coborâți geamul pentru o fotografie rapidă a violoncelului, menținându-vă complet uscat în timpul ploii torențiale.",
+                "en": "Roll down your car window for a quick photo of the cello, effectively keeping yourself completely dry during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater La Basilique",
+                "hu": "La Basilique római színház",
+                "ro": "Teatrul Roman La Basilique",
+                "en": "La Basilique Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Schirm mit, wenn Sie aussteigen; die nassen Ruinen sind faszinierend, bieten aber kaum echten Schutz.",
+                "hu": "Vigyél magaddal egy nagy esernyőt, amikor kiszállsz; a vizes romok lenyűgözőek, de nem igazán nyújtanak megbízható fedezéket.",
+                "ro": "Luați o umbrelă mare când coborâți; ruinele ude sunt fascinante, dar oferă un adăpost real destul de limitat.",
+                "en": "Bring a large umbrella when stepping out of the car; the wet ruins are fascinating but offer very limited natural shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Korallenbaum-Denkmal",
+                "hu": "Korallfa emlékmű",
+                "ro": "Monumentul Copacului de Corali",
+                "en": "Coral Tree Monument"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie vom Auto zur glänzenden Koralle im Regen und ziehen Sie sich dann schnell in die beheizte Kabine zurück.",
+                "hu": "Szaladj ki a leparkolt autóból, nézd meg az esőben csillogó korallt, majd gyorsan húzódj vissza a kényelmes, fűtött utastérbe.",
+                "ro": "Fugiți de la mașină pentru a vedea coralul lucios în ploaie, apoi retrageți-vă rapid în cabina bine încălzită a vehiculului.",
+                "en": "Dash out from your parked car to quickly view the glossy coral in the rain, then rapidly retreat to the comfortably heated cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Ankerdenkmal",
+                "hu": "Horgony emlékmű",
+                "ro": "Monumentul Ancorei",
+                "en": "Anchor Monument"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Anker vorbei, Straßen können glatt sein; die nasse Statue wirkt vor dem grauen Himmel sehr markant.",
+                "hu": "Hajts el lassan a horgony mellett, az utak csúszhatnak; a vizes tengeri szobor nagyon mutatós a szürke, viharos égbolt előtt.",
+                "ro": "Conduceți încet pe lângă ancoră, drumurile pot fi alunecoase; statuia udă pare foarte frapantă pe fundalul cerului gri.",
+                "en": "Drive slowly past the anchor as roads can be slick; the wet maritime statue looks incredibly striking against the grey, moody sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Saxophon",
+                "hu": "Szaxofon",
+                "ro": "Saxofon",
+                "en": "Saxophone"
+              },
+              "tip_5lang": {
+                "de": "Ein weiteres einfaches Drive-by-Denkmal; schalten Sie die Scheibenwischer ein und bewundern Sie es aus dem trockenen Auto.",
+                "hu": "Még egy könnyű autós látványosság; kapcsold be az ablaktörlőket, és csodáld meg a zenei emlékművet a száraz, meleg autóból.",
+                "ro": "Un alt monument ușor de văzut din mers; porniți ștergătoarele și admirați tributul muzical din interiorul mașinii uscate.",
+                "en": "Another easy drive-by monument; simply turn on your windshield wipers and visually admire the tribute from the dry car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Bejiya-Strand",
+                "hu": "Bejiya strand",
+                "ro": "Plaja Bejiya",
+                "en": "Bejiya Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Anblick der brechenden, stürmischen Wellen aus dem Komfort und der Wärme Ihres parkenden Fahrzeugs.",
+                "hu": "Élvezd a hatalmas, viharos hullámok drámai látványát a tengerparti parkolóból, a járműved kényelméből és védelmező melegéből.",
+                "ro": "Bucurați-vă de vederea dramatică a valurilor furtunoase din confortul și căldura vehiculului dumneavoastră parcat la mal.",
+                "en": "Safely enjoy the dramatic view of the crashing, stormy coastal waves entirely from the comfort and warmth of your parked vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Genuesische Festung von Tabarka",
+                "hu": "Tabarka genovai erődje",
+                "ro": "Fortul Genovez din Tabarka",
+                "en": "Genoese Fort of Tabarka"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die steile, nasse Zufahrtsstraße zur Festung hinauf; die nebligen Küstenblicke sind äußerst atmosphärisch.",
+                "hu": "Vezess óvatosan a meredek, vizes felhajtón az erődhöz; a fenti ködös, esős tengerparti kilátás hihetetlenül hangulatos.",
+                "ro": "Conduceți cu grijă pe drumul abrupt și ud spre fort; vederile cețoase de pe coastă de la vârf sunt extrem de atmosferice.",
+                "en": "Drive carefully up the steep, wet access road to the fort; the misty coastal views from the top parking are incredibly atmospheric."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre winterliche Fahrt am Theater. Die Stopps am Mittag bei den Denkmälern sind frisch, lassen Sie die Autoheizung also weiterlaufen. Machen Sie nachmittags einen kurzen, kühlen Spaziergang am Strand, bevor Sie gemütlich zur Festung hinauffahren. Beenden Sie die Tour frühzeitig im Warmen, da es bereits um 17 Uhr dunkel wird.",
+            "hu": "Kezdd a téli autózást a Tabarka Színháznál. A déli megállók a műemlékeknél csípősek, hagyd bekapcsolva a fűtést a kocsiban. Délután sétálj egy rövidet a hűvös, üres strandon, majd kényelmesen vezess fel a genovai erődhöz. Fejezd be a túrát korán, mert 17 órakor sötétedik, és hirtelen lehűl a levegő.",
+            "ro": "Începeți traseul de iarnă la teatru. Opririle de la prânz la monumente sunt răcoroase, așa că mențineți căldura pornită în mașină. După-amiaza, faceți o scurtă plimbare pe plaja rece înainte de a conduce confortabil la fort. Încheiați devreme turul, deoarece se întunecă și se răcește brusc la ora 17:00.",
+            "en": "Start your winter drive at the Tabarka Theatre. Midday stops at the monuments are brisk, so keep the car heater running consistently. In the afternoon, take a quick walk on the chilly Bejiya Beach before comfortably driving up to the Genoese Fort. Finish your scenic tour early as it gets completely dark by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tabarka-Theater",
+                "hu": "Tabarka Színház",
+                "ro": "Teatrul Tabarka",
+                "en": "Tabarka Theatre"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Fahrt im warmen Theater und erkunden Sie die lokale Kultur, bevor Sie sich der kühlen Küstenluft aussetzen.",
+                "hu": "Kezdd a túrát a meleg színházban, ismerd meg a helyi kultúrát, mielőtt kilépnél az autóhoz és szembenéznél a hűvös parti levegővel.",
+                "ro": "Începeți traseul în teatrul cald, explorând cultura locală înainte de a înfrunta aerul rece de pe coastă în mașina dumneavoastră.",
+                "en": "Begin your winter drive inside the warm theater, exploring local culture deeply before facing the chilly coastal air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cello-Denkmal",
+                "hu": "Cselló emlékmű",
+                "ro": "Monumentul Violoncelului",
+                "en": "Cello Monument"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Autoheizung zwischen den Stopps voll laufen; steigen Sie nur kurz in die Winterluft, um das Cello zu fotografieren.",
+                "hu": "Fűtsd fel a kocsit a megállók között; csak egy pillanatra szállj ki a csípős téli levegőre, hogy gyorsan lefotózd a csellót.",
+                "ro": "Lăsați căldura mașinii pornită la maxim între opriri; ieșiți scurt în aerul de iarnă doar pentru a fotografia violoncelul.",
+                "en": "Keep the car heater blasting between stops; step out briefly into the crisp winter morning just to photograph the cello."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Theater La Basilique",
+                "hu": "La Basilique római színház",
+                "ro": "Teatrul Roman La Basilique",
+                "en": "La Basilique Roman Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten über die Ruinen; ziehen Sie warme Schichten an, wenn Sie das beheizte Auto verlassen.",
+                "hu": "A téli nap hosszú árnyékokat vet a romokra; vegyél fel meleg rétegeket és vastag kabátot, mielőtt elhagyod a fűtött autót.",
+                "ro": "Soarele de iarnă aruncă umbre lungi; îmbrăcați-vă cu straturi groase de haine atunci când părăsiți mașina încălzită.",
+                "en": "The winter sun casts long shadows over the ruins; strictly dress in warm layers when leaving the heated car to explore safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Korallenbaum-Denkmal",
+                "hu": "Korallfa emlékmű",
+                "ro": "Monumentul Copacului de Corali",
+                "en": "Coral Tree Monument"
+              },
+              "tip_5lang": {
+                "de": "Die rote Koralle bietet einen schönen Farbtupfer vor dem blassen Winterhimmel; perfekt für ein schnelles, kühles Fotomotiv.",
+                "hu": "A piros korall nagyszerű színfolt a sápadt téli égbolt előtt; tökéletes egy gyors fotóhoz, mielőtt a hideg szél bekergetne a kocsiba.",
+                "ro": "Coralul roșu oferă o pată de culoare pe cerul palid de iarnă; perfect pentru o oprire foto rapidă și răcoroasă din mașină.",
+                "en": "The vibrant red coral offers a nice pop of color against the pale winter sky; absolutely perfect for a quick, chilly photo op."
+              }
+            },
+            {
+              "name": {
+                "de": "Ankerdenkmal",
+                "hu": "Horgony emlékmű",
+                "ro": "Monumentul Ancorei",
+                "en": "Anchor Monument"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersicht aus dem Autofenster; der maritime Anker steht stolz in der eisigen, starken Meeresbrise.",
+                "hu": "Élvezd a tiszta téli kilátást az autó ablakából; a tengeri horgony büszkén áll a kinti fagyos, erős parti szélben.",
+                "ro": "Bucurați-vă de vizibilitatea clară de iarnă de la geamul mașinii; ancora maritimă stă mândră în briza mării extrem de rece.",
+                "en": "Enjoy the clear winter visibility from your car window; the massive maritime anchor stands proud in the brisk, icy sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Saxophon",
+                "hu": "Szaxofon",
+                "ro": "Saxofon",
+                "en": "Saxophone"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt an diesem Denkmal; schnappen Sie sich ein heißes Thermosgetränk aus dem Auto, um beim Anschauen die Hände zu wärmen.",
+                "hu": "Gyors megálló a szaxofonnál; tölts egy forró teát a kocsiban lévő termoszodból, hogy felmelegítsd a kezeidet nézelődés közben.",
+                "ro": "O oprire rapidă la acest monument; luați o băutură caldă din termos pentru a vă încălzi mâinile în timp ce admirați structura.",
+                "en": "A very quick stop at this landmark; grab a hot thermos drink from the car to effectively warm your hands while looking."
+              }
+            },
+            {
+              "name": {
+                "de": "Bejiya-Strand",
+                "hu": "Bejiya strand",
+                "ro": "Plaja Bejiya",
+                "en": "Bejiya Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang auf dem eisigen Sand, parken Sie aber nah, um sich nach dem Wind schnell aufzuwärmen.",
+                "hu": "Sétálj egy rövidet a fagyos, hideg homokon, de parkolj minél közelebb, hogy a csípős szél után azonnal felmelegedhess az autóban.",
+                "ro": "Faceți o scurtă plimbare pe nisipul înghețat, dar țineți mașina aproape pentru a vă încălzi rapid după ce înfruntați vântul.",
+                "en": "Take a short walk on the frosty sand, but keep your car very nearby to warm up quickly after facing the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Genuesische Festung von Tabarka",
+                "hu": "Tabarka genovai erődje",
+                "ro": "Fortul Genovez din Tabarka",
+                "en": "Genoese Fort of Tabarka"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie rechtzeitig vor dem frühen Sonnenuntergang um 17 Uhr zur Festung; die Winde oben sind rau, also packen Sie sich gut ein.",
+                "hu": "Vezess fel az erődhöz még bőven a 17 órás naplemente előtt; a fenti szél kíméletlen, így vastag sál és sapka kötelező kiszálláskor.",
+                "ro": "Conduceți spre fort înainte de apusul de la ora 17:00; vânturile la altitudine iarna sunt aspre, așa că îmbrăcați-vă foarte gros.",
+                "en": "Drive up to the fort well before the early 5 PM sunset; the elevated winter winds are harsh, so bundle up tightly when exiting."
+              }
+            }
+          ]
+        }
       }
     }
   }

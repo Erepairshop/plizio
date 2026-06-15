@@ -183,6 +183,224 @@
         "hu": "Sétánkat a történelmi városházánál kezdjük, magunkba szívva Trancoso központjának középkori hangulatát, majd megcsodáljuk a régi postamesteri házat.\n\nDélben a Zsidó Kulturális Központba látogatunk, amely elengedhetetlen a régió örökségének megértéséhez, majd a Dózse-palotához sétálunk.\n\nDélután felfedezzük az impozáns trancosói kastélyt és a közeli Nossa Senhora da Fresta templomot, elmerülve a középkori építészetben.\n\nAz estét a Micha Velha ősi sziklasírjainak lenyűgöző látványával zárjuk, amely egyedülálló, misztikus befejezése az egész napos történelmi utazásunknak.",
         "ro": "Ne începem turul la primăria istorică, bucurându-ne de atmosfera medievală din centrul orașului Trancoso înainte de a admira vechea casă a dirigintelui poștei.\n\nLa prânz ajungem la Centrul de Cultură Iudaică, o vizită esențială pentru a înțelege patrimoniul regiunii, urmată de o plimbare spre Palatul Ducal.\n\nDupă-amiaza explorăm impunătorul Castel Trancoso și liniștita Biserică Nossa Senhora da Fresta din apropiere, cufundându-ne în detaliile istorice.\n\nSeara se încheie cu o vizită fascinantă la vechile morminte săpate în stâncă de la Micha Velha, un final mistic pentru ziua noastră perfectă de explorare.",
         "en": "We start our walking tour at the historic town hall, soaking in the medieval atmosphere of Trancoso's center before admiring the old postmaster's house.\n\nMidday brings us to the Jewish Culture Center, an essential visit to understand the region's diverse heritage, followed by a stroll to the stately Ducal Palace.\n\nIn the afternoon, we explore the imposing Trancoso Castle and the nearby tranquil Church of Nossa Senhora da Fresta to appreciate their ancient stones.\n\nThe evening concludes with a fascinating visit to the ancient rock-hewn graves of Micha Velha, providing a truly mystical end to our historical journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Rathaus Schutz vor den ersten Schauern auf dem zentralen Platz. Mittags ist das jüdische Zentrum ein idealer, warmer Zufluchtsort im Regen. Nachmittags wirken die Burgmauern im Nebel besonders mystisch; Vorsicht auf den rutschigen Steinstufen. Abends spiegelt sich das Licht in den Pfützen der Altstadt, was eine ganz besondere, melancholische Atmosphäre schafft.",
+            "hu": "Reggel a városháza védelmében kezdünk, elkerülve a záporokat. Délben a Zsidó Központ tökéletes fedett menedék és kulturális élmény a szakadó esőben. Délután a kastély ködös és misztikus; ügyeljen a csúszós macskakövekre a meredekebb részeken. Estére a sziklasírok látványa drámai marad, de a sár miatt vízálló bakancs használata és egy erős esernyő mindenképpen ajánlott.",
+            "ro": "Dimineața oferă adăpost în primărie pentru a evita primele averse din piața centrală. La prânz, centrul evreiesc este un refugiu interior cald și fascinant. După-amiaza, zidurile castelului par mistice prin ceață; atenție la treptele de piatră alunecoase. Seara, luminile orașului se reflectă în bălțile de pe străzile medievale, creând o atmosferă plină de melancolie.",
+            "en": "Morning starts under the shelter of the town hall to avoid early showers. At noon, the Jewish Center provides a perfect indoor refuge while exploring local history. In the afternoon, the castle walls look mystical in the mist; be careful on the slippery stone steps. Evening brings a unique atmosphere as city lights reflect in the puddles of the old medieval granite streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Trancoso",
+                "hu": "Trancoso Városháza",
+                "ro": "Primăria Trancoso",
+                "en": "Trancoso Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenbereich des Rathauses als trockenen Startpunkt; bewundern Sie die historischen Wappen, während Sie auf eine Regenpause warten.",
+                "hu": "Használja a városháza impozáns belső tereit száraz kezdőpontként; csodálja meg a történelmi címereket, amíg elvonul a reggeli zápor a főtér felett.",
+                "ro": "Folosiți interiorul impunător al primăriei ca punct de plecare uscat; admirați blazoanele istorice în timp ce așteptați să treacă ploaia de dimineață.",
+                "en": "Use the grand interior of the town hall as a dry starting point; admire the historical coats of arms while waiting for the morning shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa do Correio Mor",
+                "hu": "Régi Postamesteri Ház",
+                "ro": "Casa Dirigintelui Poștei",
+                "en": "Old Postmaster's House"
+              },
+              "tip_5lang": {
+                "de": "Die manuelinischen Details der Fassade glänzen bei Regen besonders schön; treten Sie in die Türbögen der Nachbarhäuser, um trocken zu bleiben.",
+                "hu": "A homlokzat mánuel stílusú díszei esőben különlegesen csillognak; húzódjon be a szomszédos házak árkádjai alá, hogy szárazon maradjon a nézelődés közben.",
+                "ro": "Detaliile manueline ale fațadei strălucesc frumos în ploaie; adăpostiți-vă sub arcadele caselor vecine pentru a rămâne uscat în timp ce observați clădirea.",
+                "en": "The Manueline details of the facade shine beautifully in the rain; step into the doorways of neighboring houses to stay dry while observing the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro da Cultura Judaica",
+                "hu": "Zsidó Kulturális Központ",
+                "ro": "Centrul de Cultură Iudaică",
+                "en": "Jewish Culture Center"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Museum ist der beste Ort, um bei starkem Regen Zeit zu verbringen; entdecken Sie die tiefe Geschichte der Conversos in absoluter Trockenheit.",
+                "hu": "Ez a modern múzeum a legjobb hely, ahol elidőzhet szakadó esőben; fedezze fel a konverzosok mély történelmét teljes szárazságban és nyugalomban.",
+                "ro": "Acest muzeu modern este cel mai bun loc pentru a petrece timpul în caz de ploaie torențială; descoperiți istoria profundă a evreilor în deplină uscăciune.",
+                "en": "This modern museum is the best place to spend time during heavy rain; discover the deep history of the Conversos in absolute dryness and comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Ducal",
+                "hu": "Dózse-palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten hervorragenden Schutz vor Wind und Wetter; nutzen Sie die überdachten Bereiche, um die Renaissance-Architektur zu studieren.",
+                "hu": "A vastag kőfalak kiváló védelmet nyújtanak a szél és az eső ellen; használja a fedett részeket a reneszánsz építészet alaposabb tanulmányozásához.",
+                "ro": "Zidurile groase de piatră oferă o protecție excelentă împotriva vântului și ploii; folosiți zonele acoperite pentru a studia arhitectura renascentistă.",
+                "en": "The thick stone walls provide excellent protection from wind and rain; use the covered areas to study the Renaissance architecture in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Trancoso",
+                "hu": "Trancosói Kastély",
+                "ro": "Castelul Trancoso",
+                "en": "Trancoso Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Bergfried bietet einen trockenen Aussichtspunkt; seien Sie auf den glitschigen Wehrgängen extrem vorsichtig und tragen Sie Schuhe mit gutem Profil.",
+                "hu": "A vár tornya száraz kilátópontot kínál; legyen rendkívül óvatos a csúszós várfalakon, és viseljen jó tapadású, bordázott talpú túrabakancsot.",
+                "ro": "Turnul principal oferă un punct de observație uscat; fiți extrem de atenți pe zidurile alunecoase și purtați încălțăminte cu aderență sporită.",
+                "en": "The keep offers a dry viewpoint; be extremely careful on the slippery ramparts and wear shoes with good tread to avoid any accidental falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Fresta",
+                "hu": "Nossa Senhora da Fresta Templom",
+                "ro": "Biserica Nossa Senhora da Fresta",
+                "en": "Church of Nossa Senhora da Fresta"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Kirche ist ein friedlicher Zufluchtsort vor dem prasselnden Regen; genießen Sie die Stille und die romanischen Details im Inneren.",
+                "hu": "Az egyszerű templom békés menedék a kopogó eső elől; élvezze a csendet és a román kori belső részleteket, amíg kint tombol az időjárás.",
+                "ro": "Biserica simplă este un refugiu liniștit de ploaia de afară; bucurați-vă de tăcere și de detaliile romanice din interior în timp ce vă odihniți.",
+                "en": "The simple church is a peaceful refuge from the pattering rain; enjoy the silence and the Romanesque interior details while taking a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres da Micha Velha",
+                "hu": "Micha Velha Sziklasírjai",
+                "ro": "Mormintele Rupestre Micha Velha",
+                "en": "Micha Velha Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu den Gräbern kann sehr matschig werden; wasserfeste Stiefel sind ein Muss, um diese mystischen Felsengräber im Regen zu erkunden.",
+                "hu": "A sírokhoz vezető ösvény nagyon sárossá válhat; a vízálló bakancs elengedhetetlen e misztikus sziklasírok esőben történő biztonságos felfedezéséhez.",
+                "ro": "Calea spre morminte poate deveni foarte noroioasă; cizmele impermeabile sunt obligatorii pentru a explora aceste morminte rupestre mistice în ploaie.",
+                "en": "The path to the graves can become very muddy; waterproof boots are a must to safely explore these mystical rock-cut tombs during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Trancoso ist oft frostig und klar. Wärmen Sie sich mittags in den Ausstellungen des jüdischen Viertels auf. Planen Sie den Burgbesuch unbedingt vor dem frühen Sonnenuntergang um 17:00 Uhr, wenn das goldene Licht die gefrorene Hochebene beleuchtet. Der Abend wird schnell sehr kalt, daher empfiehlt sich ein früher Rückzug in eine beheizte Unterkunft.",
+            "hu": "A téli reggelek Trancosóban gyakran fagyosak és tiszták. Délben melegedjen fel a zsidó negyed kiállításain, ahol a történelem életre kel. A vár látogatását mindenképpen a korai, 17:00 órás naplemente előttre tervezze, amikor az aranyfény megvilágítja a zúzmarás fennsíkot. Az este gyorsan lehűl, így érdemes korán visszahúzódni egy fűtött helyre.",
+            "ro": "Diminețile de iarnă în Trancoso sunt adesea geroase și senine. La prânz, încălziți-vă în expozițiile din cartierul evreiesc. Planificați vizita la castel înainte de apusul devreme de la ora 17:00, când lumina aurie luminează platoul înghețat. Seara devine rapid foarte rece, așa că se recomandă retragerea timpurie într-un spațiu încălzit.",
+            "en": "Winter mornings in Trancoso are often frosty and clear. Warm up at noon in the Jewish quarter's exhibitions. Plan your castle visit before the early sunset at 17:00, when golden light illuminates the frozen plateau. The evening turns cold very quickly, so an early retreat to a heated spot is highly recommended for comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Trancoso",
+                "hu": "Trancoso Városháza",
+                "ro": "Primăria Trancoso",
+                "en": "Trancoso Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag drinnen, um der Morgenkälte zu entfliehen; das historische Gebäude bietet eine warme Atmosphäre für den Beginn Ihrer Wintertour.",
+                "hu": "Kezdje a napot bent, hogy elkerülje a reggeli fagyokat; a történelmi épület meleg és méltóságteljes környezetet biztosít a téli túra indulásához.",
+                "ro": "Începeți ziua în interior pentru a scăpa de gerul dimineții; clădirea istorică oferă o atmosferă caldă pentru începutul turului de iarnă.",
+                "en": "Start your day inside to escape the morning frost; the historic building provides a warm atmosphere for the beginning of your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa do Correio Mor",
+                "hu": "Régi Postamesteri Ház",
+                "ro": "Casa Dirigintelui Poștei",
+                "en": "Old Postmaster's House"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die kunstvollen Steine; bewundern Sie die Fassade zügig, bevor die Kälte des Plateaus einsetzt.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a díszes kövekre; csodálja meg a homlokzatot gyorsan, mielőtt a fennsík hideg szele átjárná.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe pietrele sculptate; admirați fațada rapid, înainte ca vântul rece de pe platou să devină prea tăios.",
+                "en": "The low winter sun casts long shadows on the ornate stones; admire the facade quickly before the cold plateau wind sets in during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro da Cultura Judaica",
+                "hu": "Zsidó Kulturális Központ",
+                "ro": "Centrul de Cultură Iudaică",
+                "en": "Jewish Culture Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses geheizte Kulturzentrum für eine lange Mittagspause; es ist der perfekte Ort, um sich aufzuwärmen und viel über die Region zu lernen.",
+                "hu": "Használja ki ezt a fűtött kulturális központot egy hosszú ebédszünetre; tökéletes hely a felmelegedésre és a régió történelmének megismerésére.",
+                "ro": "Profitați de acest centru cultural încălzit pentru o pauză lungă; este locul perfect pentru a vă încălzi și a învăța despre istoria regiunii.",
+                "en": "Take advantage of this heated cultural center for a long break; it is the perfect place to warm up and learn about the region's rich history."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Ducal",
+                "hu": "Dózse-palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "In den Steinsälen kann es zugig sein; tragen Sie Thermalkleidung, um die Renaissance-Pracht auch bei niedrigen Temperaturen genießen zu können.",
+                "hu": "A kőtermekben huzatos lehet az idő; viseljen réteges termoruházatot, hogy alacsony hőmérséklet mellett is élvezhesse a reneszánsz pompát.",
+                "ro": "În sălile de piatră poate fi curent; purtați haine termice pentru a vă bucura de splendoarea renașterii chiar și la temperaturi scăzute.",
+                "en": "It can be drafty inside the stone halls; wear thermal layers to enjoy the Renaissance splendor even when the temperatures drop significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Trancoso",
+                "hu": "Trancosói Kastély",
+                "ro": "Castelul Trancoso",
+                "en": "Trancoso Castle"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Burg vor 16:30 Uhr, um den spektakulären Wintersonnenuntergang zu sehen; die klare Luft bietet eine Fernsicht bis zu den Bergen.",
+                "hu": "Érkezzen a várhoz 16:30 előtt, hogy láthassa a látványos téli naplementét; a tiszta levegőben ilyenkor ellátni egészen a távoli hegyekig.",
+                "ro": "Ajungeți la castel înainte de ora 16:30 pentru a vedea apusul spectaculos; aerul curat oferă o vizibilitate excelentă până la munții îndepărtați.",
+                "en": "Reach the castle before 16:30 to see the spectacular winter sunset; the clear air offers distant views all the way to the mountain ranges."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Fresta",
+                "hu": "Nossa Senhora da Fresta Templom",
+                "ro": "Biserica Nossa Senhora da Fresta",
+                "en": "Church of Nossa Senhora da Fresta"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch kurz vor Einbruch der Dunkelheit ist besonders stimmungsvoll; die kühle, sakrale Stille passt perfekt zur winterlichen Ruhe der Stadt.",
+                "hu": "A sötétedés előtti látogatás különösen hangulatos; a hűvös, szakrális csend tökéletesen illeszkedik a város téli nyugalmához és fényeihez.",
+                "ro": "Vizita chiar înainte de lăsarea întunericului este deosebit de sugestivă; liniștea sacră se potrivește perfect cu atmosfera calmă de iarnă.",
+                "en": "Visiting just before dark is especially atmospheric; the cool, sacred silence fits perfectly with the town's quiet winter ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres da Micha Velha",
+                "hu": "Micha Velha Sziklasírjai",
+                "ro": "Mormintele Rupestre Micha Velha",
+                "en": "Micha Velha Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie zügig zu diesem exponierten Ort; nach Sonnenuntergang um 17:00 Uhr sinken die Temperaturen auf dem offenen Feld extrem schnell ab.",
+                "hu": "Sétáljon tempósan ezen a kitett helyen; a 17:00 órai naplemente után a nyílt területen a hőmérséklet rendkívül gyorsan és drasztikusan süllyed.",
+                "ro": "Mergeți rapid spre acest loc expus; după apusul soarelui de la ora 17:00, temperaturile pe câmpul deschis scad extrem de repede.",
+                "en": "Walk briskly to this exposed site; after the 17:00 sunset, temperatures on the open field drop extremely fast, so dress very warmly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "A reggel a Kulturális Központban indul, amely kreatív alaphangot ad, mielőtt Trancoso történelmi városháza terére kerekeznénk.\n\nDélben a régi negyed szívébe utazunk, hogy meglátogassuk a zsidó kulturális központot, majd sebesen a nagyszerű Dózse-palotához tekerünk.\n\nA délutánt a robusztus trancosói kastélynak és a közeli, mély történelemmel átitatott São Tomé ősi sziklasíroknak szenteljük.\n\nAz este közeledtével felfedezzük a Micha Velha sírokat, és a békés Nossa Senhora da Fresta templomnál fejezzük be történelmi kerékpáros utunkat.",
         "ro": "Dimineața începe la Centrul Cultural, stabilind un ton creativ înainte de a pedala alert spre piața istorică a primăriei din Trancoso.\n\nLa prânz intrăm în inima vechiului cartier pentru a vizita Centrul de Cultură Iudaică, apoi pedalăm rapid spre marele Palat Ducal.\n\nDupă-amiaza este dedicată robustului Castel Trancoso și vechilor morminte de la São Tomé din apropiere, ambele pline de istorie captivantă.\n\nSeara se lasă în timp ce descoperim mormintele Micha Velha și ne încheiem călătoria cu bicicleta la liniștita Biserică Nossa Senhora da Fresta.",
         "en": "Morning begins at the Cultural Center, setting a creative tone before we cycle smoothly to the historic town hall square of Trancoso.\n\nMidday takes us into the heart of the old quarter to visit the Jewish Culture Center, then pedaling swiftly to the grand Ducal Palace.\n\nThe afternoon is dedicated to the robust Trancoso Castle and the nearby ancient graves of São Tomé, both steeped in deep, visible history.\n\nEvening falls as we discover the Micha Velha graves and finally finish our cycling journey at the peaceful Church of Nossa Senhora da Fresta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem glatten Granitpflaster. Starten Sie morgens im Kulturzentrum, um trocken zu bleiben. Mittags bietet das jüdische Viertel Schutz und Kultur. Nachmittags ist der Anstieg zur Burg anstrengend, aber die mystische Aussicht belohnt die Mühe. Beenden Sie die Tour frühzeitig, da die Sicht bei Regen auf den Straßen stark eingeschränkt ist.",
+            "hu": "Az esős bringázás óvatosságot igényel a csúszós gránitköveken. Kezdje a reggelt a Kulturális Központban, hogy száraz maradjon. Délben a zsidó negyed nyújt menedéket és mélyebb betekintést a múltba. Délután a várfalakhoz vezető út meredek és csúszós lehet, de a ködös kilátás megéri. Fejezze be korán a túrát, mert esőben a látási viszonyok sokat romlanak.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe pavajul alunecos de granit. Începeți dimineața la centrul cultural pentru a rămâne uscat. La prânz, cartierul evreiesc oferă adăpost și cultură. După-amiaza, urcarea spre castel este solicitantă, dar vederea mistică merită efortul. Încheiați turul devreme, deoarece vizibilitatea pe șosele este redusă în condiții de ploaie.",
+            "en": "Cycling in the rain requires caution on the slippery granite pavement. Start your morning at the Cultural Center to stay dry. At noon, the Jewish quarter offers both shelter and deep culture. In the afternoon, the climb to the castle is demanding but the misty views are rewarding. End your tour early as visibility on the wet streets becomes significantly limited."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Eingangsbereich; nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung für die Weiterfahrt zu ordnen.",
+                "hu": "Parkoljon a fedett bejáratnál; használja ki a bent töltött időt az esőruházat megfelelő igazítására a túra további szakaszai előtt.",
+                "ro": "Parcați bicicleta în zona acoperită de la intrare; folosiți timpul petrecut în interior pentru a vă ajusta echipamentul de ploaie.",
+                "en": "Park your bike in the covered entrance area; use the time inside to organize your rain gear properly for the rest of your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Trancoso",
+                "hu": "Trancoso Városháza",
+                "ro": "Primăria Trancoso",
+                "en": "Trancoso Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Pflaster vor dem Rathaus; treten Sie kurz ein, um sich aufzuwärmen und die Architektur zu bewundern.",
+                "hu": "Vigyázzon a fékezéssel a városháza előtti vizes köveken; ugorjon be egy pillanatra az épületbe, hogy felmelegedjen és megcsodálja a boltíveket.",
+                "ro": "Atenție la frânare pe pavajul ud din fața primăriei; intrați pentru o clipă să vă încălziți și să admirați detaliile arhitecturale.",
+                "en": "Be careful when braking on the wet pavement in front of the town hall; step inside briefly to warm up and admire the historic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro da Cultura Judaica",
+                "hu": "Zsidó Kulturális Központ",
+                "ro": "Centrul de Cultură Iudaică",
+                "en": "Jewish Culture Center"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen; die Ausstellungen sind weitläufig und bieten perfekten Schutz vor Regengüssen.",
+                "hu": "Ideális hely egy hosszabb, száraz pihenőhöz; a tágas kiállítóterek tökéletes védelmet nyújtanak a kinti záporok és a hűvös szél elől.",
+                "ro": "Un loc ideal pentru o pauză lungă la uscat; expozițiile sunt spațioase și oferă protecție perfectă împotriva averselor de ploaie.",
+                "en": "An ideal place for a long break in the dry; the spacious exhibitions offer perfect protection from sudden downpours and cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Ducal",
+                "hu": "Dózse-palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Mauern als Windschutz beim Abstellen der Räder; die überdachten Durchgänge halten Sie beim Besichtigen trocken.",
+                "hu": "Használja a masszív falakat szélfogóként a bringák leállításakor; a fedett átjárók segítenek szárazon maradni a palota megtekintése közben.",
+                "ro": "Folosiți zidurile masive ca paravan împotriva vântului când lăsați bicicletele; pasajele acoperite vă vor menține uscat în timpul vizitei.",
+                "en": "Use the massive walls as a windbreak when parking your bikes; the covered passages will keep you dry while exploring the palace grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Trancoso",
+                "hu": "Trancosói Kastély",
+                "ro": "Castelul Trancoso",
+                "en": "Trancoso Castle"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den steilen Wegen zur Burg; die nassen Granitstufen sind für Fahrradschuhe ohne Grip eine echte Rutschgefahr.",
+                "hu": "Tolja a biciklit a vár felé vezető meredek úton; a vizes gránitlépcsők a tapadás nélküli kerékpáros cipőkben igazi csúszásveszélyt jelentenek.",
+                "ro": "Împingeți bicicleta pe drumurile abrupte spre castel; treptele de granit ude reprezintă un risc real de alunecare pentru încălțămintea de ciclism.",
+                "en": "Push your bike on the steep paths to the castle; the wet granite steps are a real slipping hazard for cycling shoes without proper grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres de São Tomé",
+                "hu": "São Tomé Sziklasírjai",
+                "ro": "Mormintele Rupestre São Tomé",
+                "en": "São Tomé Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Felsengräber kann extrem rutschig sein; bleiben Sie auf den markierten Wegen und achten Sie auf sicheren Stand beim Fotografieren.",
+                "hu": "A sziklasírok környékén a talaj rendkívül csúszós lehet; maradjon a jelölt utakon, és ügyeljen a stabil állásra a fotózás közben.",
+                "ro": "Terenul din jurul mormintelor rupestre poate fi extrem de alunecos; rămâneți pe potecile marcate și aveți grijă la stabilitate când faceți poze.",
+                "en": "The ground around the rock-cut tombs can be extremely slippery; stay on the marked paths and ensure a stable footing while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres da Micha Velha",
+                "hu": "Micha Velha Sziklasírjai",
+                "ro": "Mormintele Rupestre Micha Velha",
+                "en": "Micha Velha Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie Schlamm auf den unbefestigten Wegen; prüfen Sie den Reifendruck Ihres Rads für besseren Halt auf dem nassen Untergrund zum Feld.",
+                "hu": "Számítson sárra a burkolatlan utakon; ellenőrizze a gumiabroncsok nyomását a jobb tapadás érdekében a nedves talajon a mező felé.",
+                "ro": "Așteptați-vă la noroi pe drumurile neasfaltate; verificați presiunea anvelopelor pentru o aderență mai bună pe terenul umed spre câmp.",
+                "en": "Expect mud on the unpaved paths; check your tire pressure for better grip on the wet ground leading out to the open field area."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Fresta",
+                "hu": "Nossa Senhora da Fresta Templom",
+                "ro": "Biserica Nossa Senhora da Fresta",
+                "en": "Church of Nossa Senhora da Fresta"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss im Trockenen; nutzen Sie den geschützten Eingang, um Ihre Ausrüstung für die Rückfahrt ins Hotel zu sortieren.",
+                "hu": "Csendes befejezés szárazon; használja a védett bejáratot a felszerelése rendezéséhez, mielőtt visszaindulna a szálláshelyére az esőben.",
+                "ro": "Un final liniștit la uscat; folosiți intrarea protejată pentru a vă organiza echipamentul înainte de a porni înapoi spre cazare prin ploaie.",
+                "en": "A quiet finish in the dry; use the protected entrance to organize your gear before heading back to your accommodation in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter auf der Hochebene ist erfrischend, aber windig. Starten Sie morgens im warmen Kulturzentrum. Mittags ist das jüdische Viertel ein Muss zum Aufwärmen. Beenden Sie die Tour unbedingt vor dem Sonnenuntergang um 17:00 Uhr, da die Temperaturen danach extrem schnell fallen. Tragen Sie winddichte Kleidung und Handschuhe für die Abfahrten.",
+            "hu": "A téli bringázás a fennsíkon frissítő, de szeles élmény. Kezdje a reggelt a meleg Kulturális Központban. Délben a zsidó negyed kötelező állomás a felmelegedéshez. A túrát mindenképpen fejezze be a 17:00 órai naplemente előtt, mert utána a hőmérséklet drasztikusan esik. Viseljen szélálló ruhát és kesztyűt a lejtőkhöz.",
+            "ro": "Ciclismul de iarnă pe platou este revigorant, dar vântos. Începeți dimineața la centrul cultural călduros. La prânz, cartierul evreiesc este obligatoriu pentru încălzire. Încheiați turul înainte de apusul de la ora 17:00, deoarece temperaturile scad drastic după aceea. Purtați haine rezistente la vânt și mănuși.",
+            "en": "Winter cycling on the plateau is refreshing but very windy. Start your morning at the warm Cultural Center. At noon, the Jewish quarter is a must-visit for warming up. Be sure to end your tour before the 17:00 sunset, as temperatures drop drastically afterwards. Wear windproof clothing and warm gloves for the descents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier gründlich auf, bevor Sie losfahren; die Ausstellungen bieten einen komfortablen Start bei niedrigen Außentemperaturen.",
+                "hu": "Melegedjen fel alaposan indulás előtt; a kiállítóterek komfortos kezdést biztosítanak a túrához az alacsony külső hőmérséklet ellenére is.",
+                "ro": "Încălziți-vă bine înainte de a pleca; spațiile de expoziție oferă un început confortabil pentru tur, în ciuda temperaturilor scăzute de afară.",
+                "en": "Warm up thoroughly here before starting your ride; the exhibition spaces provide a comfortable start despite the low outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Trancoso",
+                "hu": "Trancoso Városháza",
+                "ro": "Primăria Trancoso",
+                "en": "Trancoso Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet den Platz wunderschön, aber die Steine speichern die Kälte; halten Sie den Aufenthalt im Freien kurz und bewegen Sie sich.",
+                "hu": "A téli nap gyönyörűen megvilágítja a teret, de a kövek ontják a hideget; tartsa röviden a kinti tartózkodást, és mozogjon folyamatosan.",
+                "ro": "Soarele de iarnă luminează frumos piața, dar pietrele păstrează frigul; mențineți vizita scurtă în exterior și rămâneți în mișcare continuă.",
+                "en": "The winter sun illuminates the square beautifully, but the stones hold the cold; keep your outdoor stay brief and stay active to maintain warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro da Cultura Judaica",
+                "hu": "Zsidó Kulturális Központ",
+                "ro": "Centrul de Cultură Iudaică",
+                "en": "Jewish Culture Center"
+              },
+              "tip_5lang": {
+                "de": "Dieses Zentrum ist perfekt, um die gefrorenen Finger bei einer ausführlichen Besichtigung der Geschichte wieder aufzuwärmen.",
+                "hu": "Ez a központ tökéletes helyszín arra, hogy a történelem alapos megismerése közben felmelegítse elgémberedett ujjait és pihenjen egyet.",
+                "ro": "Acest centru este perfect pentru a vă încălzi degetele înghețate în timp ce explorați istoria locală printr-o vizită detaliată.",
+                "en": "This center is perfect for warming up your frozen fingers during an extensive visit through local history and culture in a heated space."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Ducal",
+                "hu": "Dózse-palota",
+                "ro": "Palatul Ducal",
+                "en": "Ducal Palace"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif am Boden beim Absteigen vom Rad; die historischen Durchgänge können im Schatten den ganzen Tag über gefroren sein.",
+                "hu": "Ügyeljen a dérre a talajon, amikor leszáll a bringáról; a történelmi átjárók az árnyékos részeken egész nap fagyosak és csúszósak maradhatnak.",
+                "ro": "Atenție la bruma de pe sol când coborâți de pe bicicletă; pasajele istorice umbrite pot rămâne înghețate și alunecoase pe tot parcursul zilei.",
+                "en": "Watch for frost on the ground when dismounting your bike; the shaded historical passages can remain frozen and slippery throughout the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Trancoso",
+                "hu": "Trancosói Kastély",
+                "ro": "Castelul Trancoso",
+                "en": "Trancoso Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Bergfried kann eisig sein; ziehen Sie eine extra Schicht an, bevor Sie den Panoramablick über die Hochebene genießen.",
+                "hu": "A szél a vár tornyában jeges lehet; vegyen fel egy extra réteget, mielőtt gyönyörködne a fennsík feletti panorámában a téli levegőn.",
+                "ro": "Vântul în turnul castelului poate fi tăios; puneți un strat suplimentar de haine înainte de a admira panorama peste platou în aerul rece.",
+                "en": "The wind on the keep can be icy; put on an extra layer of clothing before enjoying the panoramic views over the plateau in the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres de São Tomé",
+                "hu": "São Tomé Sziklasírjai",
+                "ro": "Mormintele Rupestre São Tomé",
+                "en": "São Tomé Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind im Winter oft glatt; tragen Sie Radschuhe mit Gummisohle für besseren Halt auf den Felsen bei der Besichtigung.",
+                "hu": "A sziklák télen gyakran csúszósak; viseljen gumitalpú kerékpáros cipőt a jobb tapadás érdekében, amikor a sírok környékén gyalogol.",
+                "ro": "Pietrele sunt adesea alunecoase iarna; purtați pantofi de ciclism cu talpă de cauciuc pentru o aderență mai bună în timpul vizitei la morminte.",
+                "en": "The rocks are often slippery in winter; wear rubber-soled cycling shoes for better grip when walking around the tombs in cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres da Micha Velha",
+                "hu": "Micha Velha Sziklasírjai",
+                "ro": "Mormintele Rupestre Micha Velha",
+                "en": "Micha Velha Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zügig vor 16:30 Uhr; sobald die Sonne sinkt, wird der kalte Wind auf dem Feld für Radfahrer sehr unangenehm.",
+                "hu": "Látogassa meg ezt a helyet tempósan 16:30 előtt; amint a nap lebukik, a mezőn fújó hideg szél nagyon kellemetlenné válik a bringásoknak.",
+                "ro": "Vizitați acest loc rapid înainte de ora 16:30; de îndată ce soarele apune, vântul rece de pe câmp devine foarte neplăcut pentru bicicliști.",
+                "en": "Visit this site briskly before 16:30; as soon as the sun goes down, the cold wind on the field becomes very uncomfortable for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Fresta",
+                "hu": "Nossa Senhora da Fresta Templom",
+                "ro": "Biserica Nossa Senhora da Fresta",
+                "en": "Church of Nossa Senhora da Fresta"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um die Tour bei winterlicher Dämmerung abzuschließen; die Beleuchtung der Kirche wirkt in der Kälte besonders einladend.",
+                "hu": "Szép helyszín a túra befejezéséhez a téli szürkületben; a templom világítása a hidegben különösen hívogató és megnyugtató látvány.",
+                "ro": "Un loc frumos pentru a încheia turul în amurgul de iarnă; iluminarea bisericii pare deosebit de primitoare în frigul de afară.",
+                "en": "A beautiful spot to end your tour in the winter twilight; the church's lighting looks especially inviting and peaceful in the cold air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "A napot egy frissítő megállóval kezdjük a városi medencéknél, könnyedén parkolva, mielőtt a Kulturális Központot kezdenénk felfedezni.\n\nDélben a városháza közelébe autózunk, és átsétálunk a Zsidó Kulturális Központba, hogy elmélyedjünk a helyi történelmi örökségben.\n\nA délután egyenesen a magasodó trancosói kastélyhoz visz minket, ahol saját tempónkban fedezhetjük fel az erős középkori védműveket.\n\nAhogy közeledik az este, egy rövid út elvezet minket São Tomé lenyűgöző sziklasírjaihoz, tökéletes történelmi lezárást nyújtva autós túránknak.",
         "ro": "Ne începem ziua cu o oprire revigorantă la piscinele municipale, parcând ușor înainte de a trece la Centrul Cultural pentru a explora expozițiile.\n\nLa prânz, conducem aproape de primărie și mergem pe jos până la Centrul de Cultură Iudaică, luându-ne timp pentru a absorbi patrimoniul local.\n\nDupă-amiaza ne aduce direct la impunătorul Castel Trancoso, unde putem explora la pas apărările medievale robuste și priveliștile uimitoare.\n\nPe măsură ce se apropie seara, un scurt drum cu mașina ne aduce la mormintele săpate în stâncă de la São Tomé, oferind o concluzie istorică perfectă.",
         "en": "We start our day with a refreshing stop at the municipal pools, parking easily before moving on to the Cultural Center to explore local exhibits.\n\nBy midday, we drive close to the town hall and walk to the nearby Jewish Culture Center, taking time to absorb the profound local heritage.\n\nAfternoon brings us directly to the towering Trancoso Castle, where we can safely park and explore the robust medieval defenses at our own pace.\n\nAs evening approaches, a short drive brings us to the fascinating rock graves of São Tomé, providing a perfect, historical conclusion to our driving tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Trancoso auch bei Regen komfortabel zu erkunden. Beginnen Sie morgens im städtischen Hallenbad. Mittags parken Sie nah am jüdischen Zentrum, um trocken zu bleiben. Nachmittags bietet die Burg trotz Regen dramatische Aussichten, die Sie nach einem kurzen Fußweg genießen können. Die Stadtmauer im Regenlicht ist ein beeindruckendes Fotomotiv aus dem Autofenster.",
+            "hu": "Autóval Trancoso esőben is kényelmesen felfedezhető. Kezdje a reggelt a városi fedett uszodában. Délben parkoljon a Zsidó Központ közelében, hogy szárazon jusson be a kiállításra. Délután a vár a szakadó eső ellenére is drámai kilátást nyújt egy rövid séta után. A városfalak az esős fényekben lenyűgöző látványt nyújtanak még az autó ablakából is.",
+            "ro": "Cu mașina, Trancoso poate fi explorat confortabil chiar și în condiții de ploaie. Începeți dimineața la piscina municipală acoperită. La prânz, parcați aproape de centrul evreiesc pentru a rămâne uscat. După-amiaza, castelul oferă vederi dramatice în ciuda ploii, după o scurtă plimbare. Zidurile orașului în lumina ploii sunt un subiect impresionant pentru poze din mașină.",
+            "en": "By car, Trancoso can be explored comfortably even in rainy conditions. Start your morning at the municipal indoor pool. At noon, park close to the Jewish Center to stay dry while entering. In the afternoon, the castle offers dramatic views despite the rain, accessible after a very short walk. The city walls in the rainy light provide impressive photo opportunities from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscinas Municipais de Trancoso",
+                "hu": "Trancosói Városi Medencék",
+                "ro": "Piscinele Municipale Trancoso",
+                "en": "Trancoso Municipal Pools"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen regnerischen Morgen; genießen Sie das warme Wasser im Innenbecken, während es draußen stürmt.",
+                "hu": "Tökéletes helyszín egy esős reggelen; élvezze a benti medencék meleg vizét, miközben odakint tombol az esős, szeles időjárás.",
+                "ro": "Locul perfect pentru o dimineață ploioasă; bucurați-vă de apa caldă din piscinele interioare în timp ce afară plouă torențial.",
+                "en": "The perfect location for a rainy morning; enjoy the warm water in the indoor pools while it is raining and windy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang; so gelangen Sie ohne nass zu werden zu den interessanten kulturellen Ausstellungen.",
+                "hu": "Használja a közvetlenül a bejárat előtt található parkolót; így anélkül juthat be az érdekes kulturális kiállításokra, hogy megázna.",
+                "ro": "Folosiți parcarea direct din fața intrării; astfel veți ajunge la expozițiile culturale interesante fără a vă uda în ploaie.",
+                "en": "Use the parking lot directly in front of the entrance; this way you can access the interesting cultural exhibitions without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Trancoso",
+                "hu": "Trancoso Városháza",
+                "ro": "Primăria Trancoso",
+                "en": "Trancoso Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Rande des historischen Zentrums; die Arkaden des Rathauses bieten einen guten Schutz vor plötzlichen Regengüssen beim Aussteigen.",
+                "hu": "Parkoljon a történelmi központ szélén; a városháza árkádjai kiváló védelmet nyújtanak a hirtelen záporok ellen a kiszállás után.",
+                "ro": "Parcați la marginea centrului istoric; arcadele primăriei oferă o protecție bună împotriva averselor bruște de ploaie după ce coborâți.",
+                "en": "Park at the edge of the historic center; the town hall's arches provide good shelter from sudden downpours after you exit your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro da Cultura Judaica",
+                "hu": "Zsidó Kulturális Központ",
+                "ro": "Centrul de Cultură Iudaică",
+                "en": "Jewish Culture Center"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight für Regentage; das moderne Gebäude ist vollständig überdacht und bietet eine tiefgründige Reise durch die Geschichte Portugals.",
+                "hu": "Kiemelt látnivaló esős napokra; a modern épület teljesen fedett, és mélyreható utazást kínál Portugália és a zsidóság történelmében.",
+                "ro": "O atracție de top pentru zilele ploioase; clădirea modernă este complet acoperită și oferă o călătorie profundă prin istoria Portugaliei.",
+                "en": "A top attraction for rainy days; the modern building is fully covered and offers a profound journey through Portuguese and Jewish history."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Trancoso",
+                "hu": "Trancosói Kastély",
+                "ro": "Castelul Trancoso",
+                "en": "Trancoso Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Blicke; parken Sie so nah wie möglich am Tor und nutzen Sie den Bergfried als trockenen Aussichtspunkt.",
+                "hu": "A felvezető út remek kilátást nyújt; parkoljon a lehető legközelebb a kapuhoz, és használja a vár tornyát száraz kilátópontként.",
+                "ro": "Drumul de acces oferă vederi minunate; parcați cât mai aproape de poartă și folosiți turnul castelului ca punct de observație uscat.",
+                "en": "The drive up offers great views; park as close as possible to the gate and use the castle keep as a dry and safe viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres de São Tomé",
+                "hu": "São Tomé Sziklasírjai",
+                "ro": "Mormintele Rupestre São Tomé",
+                "en": "São Tomé Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, bis der Regen nachlässt; der kurze Weg zu den Felsengräbern ist auf nassem Granit sehr rutschig.",
+                "hu": "Maradjon az autóban, amíg az eső alábbhagy; a sziklasírokhoz vezető rövid út a vizes grániton rendkívül csúszós lehet.",
+                "ro": "Rămâneți în mașină până când ploaia se mai potolește; drumul scurt spre mormintele rupestre este foarte alunecos pe granitul ud.",
+                "en": "Stay in the car until the rain eases off; the short path to the rock-cut tombs can be extremely slippery on the wet granite surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Heizung im Auto sind die frostigen Temperaturen in Trancoso kein Problem. Starten Sie morgens entspannt bei den Thermalbecken. Mittags bietet das jüdische Zentrum kulturelle Wärme. Achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr; das Licht auf der zúzmarás Hochebene ist vom Auto aus wunderbar zu beobachten. Die Fahrt zwischen den historischen Toren ist im Winterlicht besonders malerisch.",
+            "hu": "Az autó fűtésének köszönhetően a fagyos trancosói hőmérséklet nem akadály. Kezdje a reggelt pihentető módon a termálmedencéknél. Délben a Zsidó Központ nyújt kulturális melegséget. Ügyeljen a korai, 17:00 órás naplementére; a zúzmarás fennsíkra hulló fények az autóból is csodásak. A történelmi városkapuk közötti autózás a téli fényekben rendkívül festői.",
+            "ro": "Datorită încălzirii din mașină, temperaturile geroase din Trancoso nu sunt o problemă. Începeți dimineața relaxat la piscinele termale. La prânz, centrul evreiesc oferă căldură culturală. Atenție la apusul devreme de la ora 17:00; luminile peste platoul înghețat sunt minunate de privit din mașină. Drumul între porțile istorice este deosebit de pitoresc în lumina iernii.",
+            "en": "Thanks to the car's heating, the frosty temperatures in Trancoso are not an obstacle. Start your morning in a relaxed way at the thermal pools. At noon, the Jewish Center offers cultural warmth. Watch out for the early 17:00 sunset; the light over the frosty plateau is wonderful to observe from the car. Driving between historical gates is especially picturesque in winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscinas Municipais de Trancoso",
+                "hu": "Trancosói Városi Medencék",
+                "ro": "Piscinele Municipale Trancoso",
+                "en": "Trancoso Municipal Pools"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Wintertag mit einem warmen Bad; es ist die beste Methode, um die morgendliche Kälte des Hochlandes zu vergessen.",
+                "hu": "Kezdje a téli napot egy meleg fürdővel; ez a legjobb módszer arra, hogy elfelejtse a felföldi reggelek metsző hidegét és felfrissüljön.",
+                "ro": "Începeți ziua de iarnă cu o baie caldă; este cea mai bună metodă de a uita de gerul dimineții de pe platou și de a vă relaxa.",
+                "en": "Start your winter day with a warm swim; it is the best way to forget the morning highland chill and feel fully refreshed for your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural",
+                "hu": "Kulturális Központ",
+                "ro": "Centrul Cultural",
+                "en": "Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Ein gut geheizter Ort, um die regionale Kunst zu bewundern; verbringen Sie hier die kältesten Stunden des Vormittags in angenehmer Wärme.",
+                "hu": "Jól fűtött helyszín a regionális művészet megcsodálásához; töltse itt a délelőtt leghidegebb óráit kellemes melegben és nyugalomban.",
+                "ro": "Un loc bine încălzit pentru a admira arta regională; petreceți aici cele mai reci ore ale dimineții într-o căldură plăcută.",
+                "en": "A well-heated location to admire regional art; spend the coldest hours of the morning here in pleasant warmth and quiet comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Trancoso",
+                "hu": "Trancoso Városháza",
+                "ro": "Primäria Trancoso",
+                "en": "Trancoso Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter einfacher; genießen Sie den Blick auf das Rathaus und die klare Luft bei einem kurzen Rundgang.",
+                "hu": "Télen egyszerűbb a parkolás a központ közelében; élvezze a városházára nyíló kilátást és a friss, tiszta levegőt egy rövid séta során.",
+                "ro": "Parcarea este mai ușoară iarna lângă centru; bucurați-vă de vederea spre primărie și de aerul curat în timpul unei scurte plimbări.",
+                "en": "Parking is easier near the center in winter; enjoy the view of the town hall and the crisp, clear air during a short, brisk walk around."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro da Cultura Judaica",
+                "hu": "Zsidó Kulturális Központ",
+                "ro": "Centrul de Cultură Iudaică",
+                "en": "Jewish Culture Center"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Besichtigung ohne Frieren; das moderne Gebäude ist hervorragend isoliert und bietet viel Raum für Entdeckungen.",
+                "hu": "Tökéletes egy alapos, fagyoskodás nélküli látogatáshoz; a modern épület kiválóan szigetelt, és tágas teret kínál a felfedezéshez.",
+                "ro": "Perfect pentru o vizită detaliată fără a dârdui de frig; clădirea modernă este bine izolată și oferă spațiu generos pentru explorare.",
+                "en": "Perfect for an extensive visit without freezing; the modern building is excellently insulated and offers plenty of space for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Trancoso",
+                "hu": "Trancosói Kastély",
+                "ro": "Castelul Trancoso",
+                "en": "Trancoso Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr ist von den Mauern aus magisch; tragen Sie eine Mütze gegen den schneidenden Wind auf der Hochebene.",
+                "hu": "A 17:00 órai naplemente a várfalakról varázslatos; viseljen meleg sapkát a fennsíkon fújó metsző téli szél ellen a nézelődéskor.",
+                "ro": "Apusul de la ora 17:00 este magic de pe ziduri; purtați o căciulă groasă împotriva vântului tăios de pe platou în timpul vizitei.",
+                "en": "The 17:00 sunset from the ramparts is magical; wear a warm hat against the cutting winter wind on the plateau while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Sepulturas Rupestres de São Tomé",
+                "hu": "São Tomé Sziklasírjai",
+                "ro": "Mormintele Rupestre São Tomé",
+                "en": "São Tomé Rock Graves"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im letzten Tageslicht; die Felsen wirken bei winterlicher Dämmerung besonders eindrucksvoll und geheimnisvoll.",
+                "hu": "Látogassa meg ezt a helyet az utolsó nappali fényben; a sziklák a téli szürkületben különösen hatásos és titokzatos látványt nyújtanak.",
+                "ro": "Vizitați acest loc în ultima lumină a zilei; stâncile par deosebit de impresionante și misterioase în amurgul de iarnă.",
+                "en": "Visit this site in the last daylight; the rocks look especially impressive and mysterious in the fading winter twilight before dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

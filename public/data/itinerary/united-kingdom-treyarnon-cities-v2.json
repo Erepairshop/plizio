@@ -160,6 +160,196 @@
         "hu": "A reggel a látványos Porthcothan Beach-en indul, majd a közeli természetes tengeri medencéhez vezet. A délidő a Fox Cove drámai szikláihoz és a békés Pepper Cove-hoz viszi. Délután élvezze a pezsgő szörfös kultúrát a Treyarnon Beach-en. Az este a tágas Constantine Bay-nél zárul, ahonnan csodálatos óceáni panoráma és egy lenyűgöző cornwalli naplemente tárul ön elé.",
         "ro": "Dimineața începe la spectaculoasa plajă Porthcothan înainte de a vă îndrepta spre piscina naturală cu apă sărată. La amiază treceți pe lângă stâncile dramatice de la Fox Cove și liniștita Pepper Cove. După-amiaza, bucurați-vă de cultura vibrantă a surfului la Treyarnon Beach. Seara se încheie la Constantine Bay, cu vederi ample la ocean și un apus cornwallian spectaculos.",
         "en": "Your morning starts at the spectacular Porthcothan Beach before moving to the natural tidal pool nearby. Midday takes you past the dramatic cliffs of Fox Cove and the serene Pepper Cove. In the afternoon, soak up the vibrant surf culture at Treyarnon Beach. The evening concludes at the expansive Constantine Bay, offering sweeping ocean views and a spectacular Cornish sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Porthcothan Beach, wo Höhlen Schutz vor dem Nieselregen bieten. Mittags wandern wir auf rutschigen Klippenpfaden zur Fox Cove, was wasserfeste Stiefel erfordert. Am Nachmittag beobachten wir die stürmische Brandung am Treyarnon Beach, bevor wir uns in die Dünen zurückziehen. Am Abend trotzen wir dem Wind an der Constantine Bay und beenden die Wanderung bei Dämmerung.",
+            "hu": "Reggel a Porthcothan Beach drámai sziklái közt indulunk, ahol a barlangok nyújtanak menedéket a szitáló eső elől. Délben a sziklás ösvényeken haladunk, vigyázva a csúszós szakaszokra a Fox Cove felé. Délután Treyarnon hullámait csodáljuk, majd a dűnék védelmébe húzódunk. Este a Constantine Bay szeles partján zárjuk a napot, mielőtt a sötétedés és a nedves szél elől behúzódnánk.",
+            "ro": "Dimineața începe la Porthcothan Beach, unde peșterile oferă adăpost natural împotriva burniței. La prânz, navigăm pe potecile alunecoase spre Fox Cove, fiind necesari bocanci impermeabili. După-amiaza admirăm valurile la Treyarnon Beach înainte de a ne retrage în zona dunelor. Seara înfruntăm vântul la Constantine Bay, încheind drumeția costieră pe măsură ce lumina scade deasupra Atlanticului.",
+            "en": "Morning starts at Porthcothan Beach, where caves provide natural shelter from the drizzle. At noon, we navigate slippery cliff paths toward Fox Cove, requiring sturdy waterproof boots. Afternoon brings us to Treyarnon Beach to watch the stormy surf before retreating to the dunes. By evening, we brave the winds at Constantine Bay, concluding the wet coastal trek as the light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcothan Beach",
+                "hu": "Porthcothan Beach",
+                "ro": "Plaja Porthcothan",
+                "en": "Porthcothan Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Kulisse der Klippen im Regen und nutzen Sie die Höhlen am Ende des Strandes als natürlichen Unterstand bei starken Schauern.",
+                "hu": "Csodáld meg a sziklák drámai látványát az esőben, és használd a strand végén található barlangokat természetes menedékként egy nagyobb zápor idején.",
+                "ro": "Admirați peisajul dramatic al stâncilor în ploaie și folosiți peșterile de la capătul plajei ca adăpost natural în timpul averselor puternice.",
+                "en": "Admire the dramatic cliff scenery in the rain and use the caves at the end of the beach as a natural shelter during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Tidal pool",
+                "hu": "Tidal pool",
+                "ro": "Piscina naturală cu maree",
+                "en": "Tidal pool"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See von den Felsen aus, aber achten Sie auf rutschige Steine und halten Sie sich bei Flut vom Beckenrand fern.",
+                "hu": "Figyeld a felkorbácsolt tengert a sziklákról, de vigyázz a csúszós kövekre, és dagály idején maradj távol a medence szélétől.",
+                "ro": "Observați marea agitată de pe stânci, dar aveți grijă la pietrele alunecoase și stați departe de marginea piscinei în timpul fluxului.",
+                "en": "Watch the churned-up sea from the rocks, but be careful of slippery stones and stay away from the pool edge during high tide."
+              }
+            },
+            {
+              "name": {
+                "de": "Fox Cove",
+                "hu": "Fox Cove",
+                "ro": "Fox Cove",
+                "en": "Fox Cove"
+              },
+              "tip_5lang": {
+                "de": "Diese wilde Bucht wirkt im Nebel mystisch; tragen Sie knöchelhohe Wanderschuhe, da der Zugangspfad bei Regen sehr schlammig und rutschig werden kann.",
+                "hu": "Ez a vad öböl misztikus ködben; viselj magas szárú bakancsot, mert az odavezető ösvény esőben nagyon sáros és csúszós lehet.",
+                "ro": "Acest golf sălbatic pare mistic în ceață; purtați bocanci înalți, deoarece poteca de acces poate deveni foarte noroioasă și alunecoasă pe ploaie.",
+                "en": "This wild cove looks mystical in the mist; wear high-cut boots as the access path can become very muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pepper Cove",
+                "hu": "Pepper Cove",
+                "ro": "Pepper Cove",
+                "en": "Pepper Cove"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Felsformationen treten bei nasser Witterung deutlicher hervor; nutzen Sie ein Fernglas, um Seevögel in den geschützten Nischen zu beobachten.",
+                "hu": "A sötét sziklaalakzatok nedves időben még jobban kirajzolódnak; használj távcsövet a tengeri madarak megfigyeléséhez a védett résekben.",
+                "ro": "Formațiunile stâncoase întunecate ies mai mult în evidență pe vreme umedă; folosiți binoclul pentru a observa păsările marine în nișele protejate.",
+                "en": "The dark rock formations stand out more in wet weather; use binoculars to spot seabirds in the protected niches."
+              }
+            },
+            {
+              "name": {
+                "de": "Treyarnon Beach",
+                "hu": "Treyarnon Beach",
+                "ro": "Plaja Treyarnon",
+                "en": "Treyarnon Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um Surfer im Regen zu beobachten; finden Sie in den hohen Dünen Schutz vor dem direkten Wind und der salzigen Gischt.",
+                "hu": "Nagyszerű hely a szörfösök megfigyelésére esőben; keress menedéket a magas dűnék között a közvetlen szél és a sós permet elől.",
+                "ro": "Un loc excelent pentru a observa surferii în ploaie; căutați adăpost între dunele înalte împotriva vântului direct și a aerosolilor sărați.",
+                "en": "A great spot to watch surfers in the rain; find shelter among the high dunes from the direct wind and salty spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Constantine Bay",
+                "hu": "Constantine Bay",
+                "ro": "Constantine Bay",
+                "en": "Constantine Bay"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie auf dem oberen Küstenpfad, um der Gischt zu entgehen, und genießen Sie die Aussicht auf die stürmische See bei abnehmendem Licht.",
+                "hu": "Sétálj a felső parti ösvényen, hogy elkerüld a hullámpermetet, és élvezd a viharos tenger látványát a fogyatkozó fényben.",
+                "ro": "Mergeți pe poteca de coastă superioară pentru a evita vaporii de apă și bucurați-vă de vederea mării înfuriate în lumina care scade.",
+                "en": "Walk on the upper coastal path to avoid the spray and enjoy the view of the stormy sea in the fading light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen am Porthcothan Beach bietet klare Sicht. Mittags wärmen wir uns bei einem zügigen Marsch zur Fox Cove auf, während die Wintersonne tief steht. Am Nachmittag leuchtet der Treyarnon Beach im goldenen Licht, bevor die Kälte zunimmt. Den Tag beenden wir an der Constantine Bay rechtzeitig vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "A fagyos reggel a Porthcothan Beach-en tiszta kilátást ígér. Délben egy tempós sétával melegszünk fel a Fox Cove felé, miközben a téli nap alacsonyan jár. Délután Treyarnon aranyló fényben úszik, mielőtt beköszönt a metsző hideg. A napot a Constantine Bay-nél zárjuk, még a korai, 17:00 körüli naplemente előtt.",
+            "ro": "Dimineața geroasă la Porthcothan Beach oferă o vizibilitate clară. La prânz ne încălzim cu un marș rapid spre Fox Cove sub soarele jos de iarnă. După-amiaza, Treyarnon Beach strălucește în lumină aurie înainte ca frigul să se intensifice. Încheiem ziua la Constantine Bay înainte de apusul timpuriu de la ora 17:00.",
+            "en": "The frosty morning at Porthcothan Beach offers clear views. At noon, we warm up with a brisk walk toward Fox Cove under the low winter sun. Afternoon sees Treyarnon Beach glowing in golden light before the chill sets in. We end the day at Constantine Bay, well before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcothan Beach",
+                "hu": "Porthcothan Beach",
+                "ro": "Plaja Porthcothan",
+                "en": "Porthcothan Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand in der frischen Winterluft; tragen Sie Thermokleidung, da der Wind hier besonders schneidend sein kann.",
+                "hu": "Élvezd a strand magányát a friss téli levegőn; viselj termoruházatot, mert a szél itt különösen metsző lehet.",
+                "ro": "Bucurați-vă de singurătatea plajei în aerul proaspăt de iarnă; purtați haine termice, deoarece vântul poate fi deosebit de tăios aici.",
+                "en": "Enjoy the solitude of the beach in the fresh winter air; wear thermal clothing as the wind here can be particularly biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Tidal pool",
+                "hu": "Tidal pool",
+                "ro": "Piscina naturală cu maree",
+                "en": "Tidal pool"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist eiskalt, aber die Geologie ist bei tiefstehender Sonne faszinierend; meiden Sie nasse Algen, die im Winter gefrieren können.",
+                "hu": "A víz jéghideg, de a geológia lenyűgöző az alacsony napállásnál; kerüld a nedves algákat, amik télen ráfagyhatnak a sziklákra.",
+                "ro": "Apa este înghețată, dar geologia este fascinantă sub soarele jos; evitați algele umede care pot îngheța pe stânci iarna.",
+                "en": "The water is ice cold, but the geology is fascinating in the low sun; avoid wet algae which can freeze on the rocks in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Fox Cove",
+                "hu": "Fox Cove",
+                "ro": "Fox Cove",
+                "en": "Fox Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Inseln ist im Winter oft am besten; achten Sie auf Frost auf den Holzstufen des Pfades zum Strand hinunter.",
+                "hu": "A távoli kilátás a szigetekre télen gyakran a legjobb; ügyelj a zúzmarára az ösvény fából készült lépcsőin a strand felé menet.",
+                "ro": "Vederea la distanță spre insule este adesea cea mai bună iarna; atenție la chiciura de pe treptele de lemn ale potecii spre plajă.",
+                "en": "Distant views of the islands are often best in winter; watch out for frost on the wooden steps of the path down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Pepper Cove",
+                "hu": "Pepper Cove",
+                "ro": "Pepper Cove",
+                "en": "Pepper Cove"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor dem Nordwind; die Felsen speichern die Mittagssonne und bieten einen kurzen Moment relativer Wärme für eine Pause.",
+                "hu": "Az északi széltől védett hely; a sziklák tárolják a déli napsütést, és egy rövid pillanatig relatív meleget nyújtanak a pihenéshez.",
+                "ro": "Un loc protejat de vântul de nord; stâncile înmagazinează soarele de la prânz și oferă un scurt moment de căldură relativă pentru popas.",
+                "en": "A sheltered spot from the north wind; the rocks store the midday sun and offer a brief moment of relative warmth for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Treyarnon Beach",
+                "hu": "Treyarnon Beach",
+                "ro": "Plaja Treyarnon",
+                "en": "Treyarnon Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das goldene Licht auf dem Sand; suchen Sie die Nähe der Felsen am nördlichen Ende, um dem direkten Windschatten zu finden.",
+                "hu": "Figyeld az aranyló fényt a homokon; keress menedéket az északi végén lévő szikláknál, hogy szélárnyékba kerülj.",
+                "ro": "Observați lumina aurie pe nisip; căutați adăpost lângă stâncile de la capătul nordic pentru a fi feriți de vânt.",
+                "en": "Watch the golden light on the sand; seek shelter near the rocks at the northern end to stay out of the direct wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Constantine Bay",
+                "hu": "Constantine Bay",
+                "ro": "Constantine Bay",
+                "en": "Constantine Bay"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den Sonnenuntergang; bringen Sie eine Taschenlampe für den Rückweg mit, da es nach 17:00 Uhr sehr schnell dunkel wird.",
+                "hu": "Tökéletes hely a naplemente megtekintéséhez; hozz zseblámpát a visszaúthoz, mert 17:00 után nagyon gyorsan besötétedik.",
+                "ro": "Locul perfect pentru a vedea apusul; aduceți o lanternă pentru drumul de întoarcere, deoarece se întunecă rapid după ora 17:00.",
+                "en": "The perfect spot for the sunset; bring a flashlight for the return walk, as it gets dark very quickly after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A kora reggeli tekerés a Porthcothan Beach-en kezdődik, ahonnan a partvonal mentén a Fox Cove felé halad. Délben a Treyarnon Beach és a Booby's Bay zord szépsége várja önt. A délutáni túra a védett Mother Ivy's Bay-hez vezet egy pihentetőbb szakaszra. Végül az este a Harlyn Bay aranyos félholdjánál éri önt, amely tökéletes helyszín a kerékpározás utáni levezetéshez.",
         "ro": "Pedalarea de dimineață începe la Porthcothan Beach, ducându-vă rapid pe coasta dramatică spre Fox Cove. La prânz, veți pedala până la Treyarnon Beach și frumusețea aspră de la Booby's Bay. Călătoria de după-amiază vă aduce în adăpostitul Mother Ivy's Bay pentru o explorare relaxată. În final, seara cade peste semiluna aurie de la Harlyn Bay, perfectă pentru relaxare.",
         "en": "Morning pedals kick off at Porthcothan Beach, leading you swiftly up the dramatic coastline towards Fox Cove. By midday, you'll cycle into Treyarnon Beach and the rugged beauty of Booby's Bay. The afternoon journey brings you to the sheltered Mother Ivy's Bay for relaxed exploration. Finally, evening falls over the golden crescent of Harlyn Bay, perfect for unwinding after your ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Porthcothan Beach erfordert gute Regenbekleidung. Mittags radeln wir vorsichtig auf nassen Wegen zur Fox Cove, wobei wir Pfützen meiden. Am Nachmittag erreichen wir Treyarnon Beach und suchen kurz Unterschlupf. Den Tag beenden wir in Harlyn Bay und achten auf die Bremswirkung bei Nässe auf der letzten Abfahrt.",
+            "hu": "A reggel a Porthcothan Beach-en jó esőruházatot igényel. Délben óvatosan tekerünk a vizes utakon a Fox Cove felé, kerülve a tócsákat. Délután elérjük Treyarnon-t, ahol rövid menedéket keresünk. A napot Harlyn Bay-ben zárjuk, ügyelve a fékek hatékonyságára a nedves úton az utolsó lejtőn.",
+            "ro": "Dimineața la Porthcothan Beach necesită echipament bun de ploaie. La prânz pedalăm cu grijă pe drumurile ude spre Fox Cove, evitând bălțile. După-amiaza ajungem la Treyarnon Beach și căutăm un scurt adăpost. Încheiem ziua la Harlyn Bay, atenți la eficiența frânelor pe carosabil ud la ultima coborâre.",
+            "en": "Morning at Porthcothan Beach requires good rain gear. At noon, we cycle carefully on wet paths toward Fox Cove, avoiding deep puddles. Afternoon brings us to Treyarnon Beach for a brief sheltered break. We end the day at Harlyn Bay, paying close attention to braking distance on the wet descent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcothan Beach",
+                "hu": "Porthcothan Beach",
+                "ro": "Plaja Porthcothan",
+                "en": "Porthcothan Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Lichter vor der Abfahrt; die Gischt kann die Sicht einschränken, daher ist reflektierende Kleidung bei Regen unerlässlich.",
+                "hu": "Indulás előtt ellenőrizd a lámpákat; a tengeri permet korlátozhatja a látási viszonyokat, így a fényvisszaverő ruházat elengedhetetlen esőben.",
+                "ro": "Verificați luminile înainte de plecare; aerosolii marini pot limita vizibilitatea, deci îmbrăcămintea reflectorizantă este esențială pe ploaie.",
+                "en": "Check your lights before starting; sea spray can limit visibility, so reflective clothing is essential in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fox Cove",
+                "hu": "Fox Cove",
+                "ro": "Fox Cove",
+                "en": "Fox Cove"
+              },
+              "tip_5lang": {
+                "de": "Der unbefestigte Weg kann bei Regen schlammig sein; fahren Sie mit geringerem Reifendruck für besseren Grip auf den rutschigen Abschnitten.",
+                "hu": "A burkolatlan út esőben sáros lehet; tekerj alacsonyabb guminyomással a jobb tapadás érdekében a csúszós szakaszokon.",
+                "ro": "Drumul neasfaltat poate fi noroios pe ploaie; pedalați cu o presiune mai mică în anvelope pentru o aderență mai bună pe porțiunile alunecoase.",
+                "en": "The unpaved path can be muddy in the rain; ride with lower tire pressure for better grip on the slippery sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Treyarnon Beach",
+                "hu": "Treyarnon Beach",
+                "ro": "Plaja Treyarnon",
+                "en": "Treyarnon Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung; die salzige Meeresluft in Kombination mit Regen kann Metallteile schnell korrodieren lassen.",
+                "hu": "Használj vízálló túratáskákat a felszerelésedhez; a sós tengeri levegő az esővel kombinálva gyorsan korrodálhatja a fém alkatrészeket.",
+                "ro": "Folosiți genți impermeabile pentru echipament; aerul sărat combinat cu ploaia poate coroda rapid piesele metalice ale bicicletei.",
+                "en": "Use waterproof panniers for your gear; the salty sea air combined with rain can quickly corrode metal bike parts."
+              }
+            },
+            {
+              "name": {
+                "de": "Booby's Bay",
+                "hu": "Booby's Bay",
+                "ro": "Golful Booby's",
+                "en": "Booby's Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenwind kann hier stark von der Seite kommen; halten Sie den Lenker fest und meiden Sie die unmittelbare Kante des Klippenpfads.",
+                "hu": "A parti szél itt erősen oldalról fújhat; fogd erősen a kormányt, és kerüld a sziklaperem közvetlen szélét a kerékpárúton.",
+                "ro": "Vântul de coastă poate sufla puternic din lateral aici; țineți bine ghidonul și evitați marginea potecii de pe stânci.",
+                "en": "Coastal winds can blow strongly from the side here; keep a firm grip on the handlebars and stay away from the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Mother Ivy's Bay",
+                "hu": "Mother Ivy's Bay",
+                "ro": "Golful Mother Ivy's",
+                "en": "Mother Ivy's Bay"
+              },
+              "tip_5lang": {
+                "de": "Diese Bucht bietet etwas Schutz vor Westwinden; ein idealer Ort für eine kurze Pause, um die Bremsen von Sand und Schlamm zu befreien.",
+                "hu": "Ez az öböl némi védelmet nyújt a nyugati széltől; ideális hely egy rövid szünetre, hogy megtisztítsd a fékeket a homoktól és sártól.",
+                "ro": "Acest golf oferă protecție față de vânturile de vest; un loc ideal pentru o scurtă pauză pentru a curăța frânele de nisip și noroi.",
+                "en": "This bay offers some protection from westerly winds; an ideal spot for a short break to clean sand and mud off your brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Harlyn Bay",
+                "hu": "Harlyn Bay",
+                "ro": "Golful Harlyn",
+                "en": "Harlyn Bay"
+              },
+              "tip_5lang": {
+                "de": "Die breite Bucht wirkt im Regen imposant; stellen Sie sicher, dass Sie für den Rückweg trockene Kleidung bereithalten, um Auskühlung zu vermeiden.",
+                "hu": "A széles öböl impozáns látvány esőben; győződj meg róla, hogy van száraz ruhád a visszaútra, hogy elkerüld a lehűlést.",
+                "ro": "Golful larg este impunător pe ploaie; asigurați-vă că aveți haine uscate pentru drumul de întoarcere pentru a evita hipotermia.",
+                "en": "The wide bay looks imposing in the rain; make sure you have dry clothes ready for the return trip to avoid getting chilled."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in Porthcothan erfordert warme Handschuhe. Mittags genießen wir die klare Winterluft auf dem Weg zur Fox Cove. Am Nachmittag bietet Treyarnon Beach ein spektakuläres Lichtspiel. Die Tour endet in Harlyn Bay gegen 16:30 Uhr, da die Temperaturen bei Sonnenuntergang um 17:00 Uhr drastisch sinken.",
+            "hu": "A fagyos indításhoz Porthcothanban meleg kesztyűre lesz szükség. Délben a tiszta téli levegőt élvezzük a Fox Cove felé vezető úton. Délután Treyarnon látványos fényjátékot kínál. A túra Harlyn Bay-ben ér véget 16:30 körül, mivel a hőmérséklet a 17:00-as naplementekor drasztikusan visszaesik.",
+            "ro": "Un început geros în Porthcothan necesită mănuși calde. La prânz ne bucurăm de aerul curat de iarnă pe drumul spre Fox Cove. După-amiaza, Treyarnon Beach oferă un joc de lumini spectaculos. Turul se încheie la Harlyn Bay în jurul orei 16:30, deoarece temperaturile scad drastic la apusul de la ora 17:00.",
+            "en": "A frosty start in Porthcothan requires warm gloves. At noon, we enjoy the crisp winter air on the way to Fox Cove. Afternoon brings a spectacular light show at Treyarnon Beach. The tour ends at Harlyn Bay around 16:30, as temperatures drop drastically with the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcothan Beach",
+                "hu": "Porthcothan Beach",
+                "ro": "Plaja Porthcothan",
+                "en": "Porthcothan Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Straßenabschnitten; tragen Sie mehrere Schichten Kleidung, um flexibel auf den kühlen Fahrtwind zu reagieren.",
+                "hu": "Ügyelj a jeges foltokra az árnyékos útszakaszokon; viselj réteges öltözetet, hogy rugalmasan reagálhass a hűvös menetszélre.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile umbrite; purtați mai multe straturi de haine pentru a vă adapta la curentul de aer rece.",
+                "en": "Watch out for black ice on shaded road sections; wear multiple layers of clothing to stay flexible against the cold wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Fox Cove",
+                "hu": "Fox Cove",
+                "ro": "Fox Cove",
+                "en": "Fox Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; eine Sonnenbrille ist auch im Winter wichtig, um Hindernisse auf dem Pfad rechtzeitig zu erkennen.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat; a napszemüveg télen is fontos, hogy időben észrevedd az akadályokat az ösvényen.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; ochelarii de soare sunt importanți și iarna pentru a observa la timp obstacolele de pe potecă.",
+                "en": "The winter sun is low and can be blinding; sunglasses are important even in winter to spot obstacles on the path in time."
+              }
+            },
+            {
+              "name": {
+                "de": "Treyarnon Beach",
+                "hu": "Treyarnon Beach",
+                "ro": "Plaja Treyarnon",
+                "en": "Treyarnon Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter oft fester gefroren, was das Radfahren am Flutsaum erleichtert; genießen Sie die Weite des fast leeren Strandes.",
+                "hu": "A homok télen gyakran keményebbre fagy, ami megkönnyíti a tekerést a dagályvonalon; élvezd a szinte üres strand tágas tereit.",
+                "ro": "Nisipul este adesea mai tare iarna, ceea ce ușurează pedalatul la limita fluxului; bucurați-vă de imensitatea plajei aproape pustii.",
+                "en": "The sand is often frozen harder in winter, making cycling easier along the tide line; enjoy the expanse of the nearly empty beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Booby's Bay",
+                "hu": "Booby's Bay",
+                "ro": "Golful Booby's",
+                "en": "Booby's Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen wirken in der Wintersonne besonders plastisch; halten Sie kurz an, um den Körper durch Bewegung warm zu halten.",
+                "hu": "A sziklák a téli napsütésben különösen plasztikusnak tűnnek; állj meg egy rövid időre, és mozgasd át magad, hogy melegen tartsd a tested.",
+                "ro": "Stâncile par deosebit de conturate în soarele de iarnă; opriți-vă scurt pentru a vă încălzi corpul prin mișcare.",
+                "en": "The rocks look particularly sculpted in the winter sun; stop briefly and move around to keep your body warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Mother Ivy's Bay",
+                "hu": "Mother Ivy's Bay",
+                "ro": "Golful Mother Ivy's",
+                "en": "Mother Ivy's Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Thermoskanne Tee; nutzen Sie die Windstille in der Bucht, bevor Sie die letzte Etappe der Tour antreten.",
+                "hu": "Nyugodt hely egy termosz teához; használd ki a szélcsendet az öbölben, mielőtt belevágnál a túra utolsó szakaszába.",
+                "ro": "Un loc liniștit pentru un ceai la termos; profitați de absența vântului în golf înainte de a porni în ultima etapă a turului.",
+                "en": "A peaceful spot for a thermos of tea; take advantage of the lack of wind in the bay before starting the final leg of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Harlyn Bay",
+                "hu": "Harlyn Bay",
+                "ro": "Golful Harlyn",
+                "en": "Harlyn Bay"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Kälte zu vermeiden; der Parkplatz bietet eine gute Basis, um das Rad schnell im Auto zu verstauen.",
+                "hu": "Érj oda 17:00 előtt, hogy elkerüld a nagy hideget; a parkoló jó bázis, hogy gyorsan elpakold a kerékpárt az autóba.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a evita gerul; parcarea este o bază bună pentru a depozita rapid bicicleta în mașină.",
+                "en": "Arrive before 17:00 to avoid the intense cold; the car park is a good base to quickly pack the bike away in the car."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A parti autózás kora reggel a Porthcothan Beach aranyhomokjánál kezdődik. Délben a látványos partvonal mentén ugrálva ellátogat a Treyarnon Beach-re és a Booby's Bay zord szakaszaira. A délután a Mother Ivy's Bay védett nyugalmával és a Harlyn Bay széles térségeivel folytatódik. Az este a belföldön, St Merryn történelmi bájával éri el csúcspontját.",
         "ro": "Călătoria pe coastă cu mașina începe pe nisipurile aurii de la Porthcothan Beach în lumina dimineții. La prânz, săriți de-a lungul coastei spectaculoase pentru a vizita Treyarnon Beach și întinderile aspre de la Booby's Bay. După-amiaza continuă cu liniștea de la Mother Ivy's Bay și întinderile de la Harlyn Bay. Seara culminează în interiorul uscatului cu farmecul istoric al satului St Merryn.",
         "en": "Your coastal drive begins with the golden sands of Porthcothan Beach in the early morning light. For midday, hop along the spectacular coastline to visit Treyarnon Beach and the rugged stretches of Booby's Bay. The afternoon continues with the sheltered tranquility of Mother Ivy's Bay and the wide expanses of Harlyn Bay. The evening culminates inland with the historic charm of St Merryn."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens in Porthcothan beobachten wir den Regen aus dem Auto. Mittags fahren wir zum Treyarnon Beach, wo wir kurz zum Ufer eilen. Nachmittags erkunden wir die Küstenstraßen Richtung Mother Ivy's Bay, wobei wir auf Aquaplaning achten. Den Tag beenden wir in der St Merryn Kirche, einem perfekten trockenen Rückzugsort.",
+            "hu": "Reggel Porthcothanban az autóból figyeljük az esőt. Délben Treyarnon Beach-hez hajtunk, ahol teszünk egy rövid sétát a parton. Délután a Mother Ivy's Bay felé vezető parti utakat fedezzük fel, ügyelve a vízátfolyásokra. A napot a St Merryn templomban zárjuk, amely tökéletes száraz menedéket nyújt.",
+            "ro": "Dimineața în Porthcothan observăm ploaia din mașină. La prânz conducem spre Treyarnon Beach, unde facem o scurtă plimbare pe țărm. După-amiaza explorăm drumurile de coastă spre Mother Ivy's Bay, atenți la acvaplanare. Încheiem ziua la biserica din St Merryn, un refugiu uscat perfect.",
+            "en": "In the morning at Porthcothan, we watch the rain from the car. At noon, we drive to Treyarnon Beach for a quick stroll by the shore. Afternoon is spent exploring coastal roads toward Mother Ivy's Bay, watching for surface water. We end the day at St Merryn church, a perfect dry sanctuary from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcothan Beach",
+                "hu": "Porthcothan Beach",
+                "ro": "Plaja Porthcothan",
+                "en": "Porthcothan Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Sicht auf die Brandung; nutzen Sie die Wartezeit im Auto, um die Wellenbewegungen sicher zu beobachten.",
+                "hu": "A parkolóból jó kilátás nyílik a hullámtörésre; használd ki az autóban töltött várakozási időt a hullámok biztonságos megfigyelésére.",
+                "ro": "Parcarea oferă o vedere bună asupra valurilor; folosiți timpul de așteptare în mașină pentru a observa în siguranță mișcarea mării.",
+                "en": "The car park offers a good view of the surf; use the waiting time in the car to safely observe the wave action."
+              }
+            },
+            {
+              "name": {
+                "de": "Treyarnon Beach",
+                "hu": "Treyarnon Beach",
+                "ro": "Plaja Treyarnon",
+                "en": "Treyarnon Beach"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Regenschirm mit, um den kurzen Weg zum Strand trocken zu überstehen; der Wind am Ufer kann Regenschirme leicht umknicken.",
+                "hu": "Vigyél magaddal egy nagy esernyőt, hogy szárazon megúszd a rövid sétát a partig; a szél a parton könnyen kifordíthatja az esernyőt.",
+                "ro": "Luați o umbrelă mare pentru a parcurge uscat drumul scurt până la plajă; vântul de pe țărm poate deforma ușor umbrelele.",
+                "en": "Take a large umbrella for the short walk to the beach; however, the wind on the shore can easily flip umbrellas inside out."
+              }
+            },
+            {
+              "name": {
+                "de": "Booby's Bay",
+                "hu": "Booby's Bay",
+                "ro": "Golful Booby's",
+                "en": "Booby's Bay"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen durch Schlamm rutschig sein; fahren Sie langsam und achten Sie auf Entwässerungsgräben am Straßenrand.",
+                "hu": "A szűk bekötőutak esőben a sár miatt csúszósak lehetnek; vezess lassan, és ügyelj az út menti vízelvezető árkokra.",
+                "ro": "Drumurile înguste de acces pot fi alunecoase din cauza noroiului; conduceți încet și atenție la șanțurile de drenaj de la marginea drumului.",
+                "en": "The narrow access roads can be slippery due to mud in the rain; drive slowly and watch out for drainage ditches along the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mother Ivy's Bay",
+                "hu": "Mother Ivy's Bay",
+                "ro": "Golful Mother Ivy's",
+                "en": "Mother Ivy's Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht aus dem Fenster ist bei grauem Himmel besonders dramatisch; halten Sie an sicheren Stellen, um Fotos ohne auszusteigen zu machen.",
+                "hu": "Az ablakból nyíló kilátás szürke égbolt mellett különösen drámai; állj meg biztonságos helyeken, hogy kiszállás nélkül készíts fotókat.",
+                "ro": "Vederea de la fereastră este deosebit de dramatică sub cerul gri; opriți în locuri sigure pentru a face fotografii fără a coborî din mașină.",
+                "en": "The view from the window is especially dramatic under grey skies; stop in safe spots to take photos without getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Harlyn Bay",
+                "hu": "Harlyn Bay",
+                "ro": "Golful Harlyn",
+                "en": "Harlyn Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein großzügiger Parkplatz erlaubt es, direkt am Strand zu stehen; ideal, um die einsetzende Flut im Regen gemütlich im Warmen zu beobachten.",
+                "hu": "A tágas parkoló lehetővé teszi, hogy közvetlenül a strandnál állj meg; ideális a dagály megfigyeléséhez esőben a meleg autóból.",
+                "ro": "Parcarea spațioasă vă permite să stați chiar lângă plajă; ideal pentru a observa fluxul în ploaie din confortul mașinii calde.",
+                "en": "The spacious car park allows you to stay right by the beach; ideal for watching the incoming tide in the rain from the warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "St Merryn",
+                "hu": "St Merryn",
+                "ro": "St Merryn",
+                "en": "St Merryn"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historische Kirche, um dem Regen zu entfliehen; das Innere bietet eine ruhige Atmosphäre und Schutz vor dem ungemütlichen Wetter.",
+                "hu": "Látogasd meg a történelmi templomot, hogy elmenekülj az eső elől; a belső tér nyugodt légkört és védelmet nyújt a barátságtalan időben.",
+                "ro": "Vizitați biserica istorică pentru a scăpa de ploaie; interiorul oferă o atmosferă liniștită și protecție împotriva vremii nefavorabile.",
+                "en": "Visit the historic church to escape the rain; the interior provides a peaceful atmosphere and shelter from the inclement weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt in Porthcothan mit frostigen Straßen. Mittags fahren wir zum Treyarnon Beach und genießen den weiten Blick auf den Atlantik. Nachmittags besuchen wir die Mother Ivy's Bay im klaren Winterlicht. Die Tour endet in St Merryn bei Einbruch der Dunkelheit um 17:00 Uhr, bevor wir die Heizung voll aufdrehen.",
+            "hu": "A téli reggel Porthcothanban jeges utakkal indul. Délben Treyarnon Beach-hez hajtunk, élvezve a végtelen kilátást az Atlanti-óceánra. Délután ellátogatunk Mother Ivy's Bay-hez a tiszta téli fényben. A túra St Merrynben ér véget a 17:00-as sötétedéskor, mielőtt teljesen feltekernénk a fűtést.",
+            "ro": "Dimineața de iarnă începe în Porthcothan cu drumuri înghețate. La prânz conducem spre Treyarnon Beach, bucurându-ne de vederea spre Atlantic. După-amiaza vizităm Mother Ivy's Bay în lumina clară de iarnă. Turul se încheie la St Merryn la lăsarea întunericului, ora 17:00.",
+            "en": "Winter morning begins in Porthcothan with frosty roads. At noon, we drive to Treyarnon Beach, enjoying wide views of the Atlantic. Afternoon includes a visit to Mother Ivy's Bay in the crisp winter light. The tour ends in St Merryn as darkness falls at 17:00, before we turn up the car heater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcothan Beach",
+                "hu": "Porthcothan Beach",
+                "ro": "Plaja Porthcothan",
+                "en": "Porthcothan Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf vereisten Abschnitten; der Parkplatz kann im Winter glatt sein, achten Sie beim Aussteigen auf festen Untergrund.",
+                "hu": "Vezess óvatosan a jeges szakaszokon; a parkoló télen csúszós lehet, kiszálláskor ügyelj arra, hogy stabil talajra lépj.",
+                "ro": "Conduceți cu atenție pe porțiunile înghețate; parcarea poate fi alunecoasă iarna, asigurați-vă că aveți stabilitate când coborâți.",
+                "en": "Drive carefully on icy sections; the car park can be slippery in winter, so ensure you have firm footing when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Treyarnon Beach",
+                "hu": "Treyarnon Beach",
+                "ro": "Plaja Treyarnon",
+                "en": "Treyarnon Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne kann bei der Fahrt tief stehen; halten Sie eine Sonnenbrille bereit, um Blendungen auf den Küstenstraßen zu vermeiden.",
+                "hu": "A téli nap alacsonyan járhat vezetés közben; tarts készenlétben napszemüveget, hogy elkerüld az elvakítást a parti utakon.",
+                "ro": "Soarele de iarnă poate fi jos în timp ce conduceți; țineți la îndemână ochelarii de soare pentru a evita orbirea pe drumurile de coastă.",
+                "en": "The winter sun can be low while driving; keep sunglasses handy to avoid glare on the coastal roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Booby's Bay",
+                "hu": "Booby's Bay",
+                "ro": "Golful Booby's",
+                "en": "Booby's Bay"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Aussichtspunkt lohnt sich für die raue Wintersee; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "Egy rövid megálló a kilátópontnál megéri a zord téli tenger látványáért; ne járasd feleslegesen a motort, miközben a kilátást élvezed.",
+                "ro": "O scurtă oprire la punctul de belvedere merită pentru marea aspră de iarnă; nu lăsați motorul pornit inutil în timp ce admirați vederea.",
+                "en": "A short stop at the viewpoint is worth it for the rugged winter sea; don't leave the engine idling unnecessarily while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Mother Ivy's Bay",
+                "hu": "Mother Ivy's Bay",
+                "ro": "Golful Mother Ivy's",
+                "en": "Mother Ivy's Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Rettungsstation ist im Winter ein ruhiger Ort; erfahren Sie mehr über die harten Bedingungen der Seenotretter in der kalten Jahreszeit.",
+                "hu": "A mentőállomás télen nyugodt hely; tudj meg többet a tengeri mentők nehéz körülményeiről a hideg évszakban.",
+                "ro": "Stația de salvare este un loc liniștit iarna; aflați mai multe despre condițiile grele ale salvatorilor pe mare în sezonul rece.",
+                "en": "The lifeboat station is a quiet place in winter; learn more about the tough conditions for sea rescuers during the cold season."
+              }
+            },
+            {
+              "name": {
+                "de": "Harlyn Bay",
+                "hu": "Harlyn Bay",
+                "ro": "Golful Harlyn",
+                "en": "Harlyn Bay"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen, kräftigen Winterspaziergang am Flutsaum; danach bietet das Auto eine schnelle Möglichkeit, sich wieder aufzuwärmen.",
+                "hu": "Ideális egy rövid, élénk téli sétához a parton; utána az autó gyors lehetőséget kínál az újra felmelegedésre.",
+                "ro": "Ideal pentru o scurtă plimbare revigorantă de iarnă pe țărm; după aceea, mașina oferă o modalitate rapidă de a vă reîncălzi.",
+                "en": "Ideal for a short, brisk winter walk along the shore; afterwards, the car provides a quick way to warm up again."
+              }
+            },
+            {
+              "name": {
+                "de": "St Merryn",
+                "hu": "St Merryn",
+                "ro": "St Merryn",
+                "en": "St Merryn"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche wirkt bei früher Dunkelheit besonders stimmungsvoll; beenden Sie den Tag hier, bevor die Temperaturen nach 17:00 Uhr fallen.",
+                "hu": "A régi templom a korai sötétedésben különösen hangulatos; zárd itt a napot, mielőtt a hőmérséklet 17:00 után hirtelen leesne.",
+                "ro": "Biserica veche este deosebit de pitorească la lăsarea serii; încheiați ziua aici înainte ca temperaturile să scadă după ora 17:00.",
+                "en": "The old church is especially atmospheric in the early darkness; end your day here before temperatures drop after 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

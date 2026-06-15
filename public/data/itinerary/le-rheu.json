@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi Le Rheu kertváros felfedezésével, csodálva annak egyedi építészeti harmóniáját. Délben élvezze a Les Bruyères és a Les Petits Vergers nyugodt zöldterületeit. A délután a bájos Avenue des Acquets-n és a Le Champ Piquet nyitott pázsitjain vezet keresztül. Zárja a sétával töltött napot egy pihentető esti sétával a csendes, barátságos La Cranais környékén.",
         "ro": "Începeți dimineața explorând istoricul Oraș-Grădină Le Rheu, admirând armonia sa arhitecturală unică. La prânz, bucurați-vă de spațiile verzi calme din Les Bruyères și Les Petits Vergers. După-amiaza vă poartă pe fermecătoarea Avenue des Acquets și pe peluzele deschise din Le Champ Piquet. Încheiați-vă ziua de mers pe jos cu o plimbare relaxantă de seară prin cartierul liniștit La Cranais.",
         "en": "Begin your morning exploring the historic Le Rheu Garden City, marveling at its unique architectural harmony. By midday, enjoy the calm green spaces of Les Bruyères and Les Petits Vergers, perfect for a peaceful pause. The afternoon takes you down the charming Avenue des Acquets and the open lawns of Le Champ Piquet. Conclude your walking day with a relaxing evening stroll through the quiet, friendly neighborhood of La Cranais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in der Gartenstadt mit einem stabilen Regenschirm. Mittags bieten die Bäume von Les Bruyères natürlichen Schutz. Nachmittags spazieren Sie vorsichtig über nasse Wege der Avenue des Acquets. Beenden Sie den feuchten Tag in La Cranais und suchen Sie sich ein trockenes Plätzchen.",
+            "hu": "Kezdje az esős reggelt a Kertvárosban egy erős esernyővel. Délben a Les Bruyères fái nyújtanak természetes menedéket. Délután óvatosan sétáljon az Avenue des Acquets vizes ösvényein. Fejezze be a nedves sétát a La Cranais-nál, keresve egy száraz, kényelmes helyet.",
+            "ro": "Începeți dimineața ploioasă explorând Orașul Grădină cu o umbrelă rezistentă. La prânz, copacii din Les Bruyères oferă adăpost natural. După-amiaza, parcurgeți cu grijă potecile umede de pe Avenue des Acquets. Încheiați plimbarea umedă la La Cranais, găsind un loc uscat și confortabil.",
+            "en": "Start your rainy morning exploring the Garden City with a sturdy umbrella. By noon, the tree canopies at Les Bruyères offer natural shelter. In the afternoon, navigate the wet paths of Avenue des Acquets carefully. Conclude your damp walk at La Cranais, finding a cozy spot to dry off."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Rheu Gartenstadt",
+                "hu": "Le Rheu Kertváros",
+                "ro": "Orașul Grădină Le Rheu",
+                "en": "Le Rheu Garden City"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die regengewaschene Architektur; tragen Sie wasserdichte Schuhe für die nassen gepflasterten Wege.",
+                "hu": "Csodálja meg az eső áztatta építészetet; viseljen vízálló cipőt a vizes burkolatokon való kényelmes sétához.",
+                "ro": "Admirați arhitectura spălată de ploaie; purtați încălțăminte impermeabilă pentru a merge confortabil pe aleile ude.",
+                "en": "Admire the rain-washed architecture; bring waterproof shoes to navigate the wet paved areas comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bruyères",
+                "hu": "Les Bruyères",
+                "ro": "Les Bruyères",
+                "en": "Les Bruyères"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Laub bietet eine kurze Pause vom Regen, ideal zum kurzen Unterstellen und Verschnaufen.",
+                "hu": "A sűrű lombozat rövid menedéket nyújt az eső elől, tökéletes egy gyors, védett pihenőhöz.",
+                "ro": "Frunzișul dens oferă un scurt răgaz de la ploaie, perfect pentru o pauză rapidă la adăpost sub copaci.",
+                "en": "The dense foliage offers brief respite from the rain, perfect for a quick sheltered break from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Petits Vergers",
+                "hu": "Les Petits Vergers",
+                "ro": "Les Petits Vergers",
+                "en": "Les Petits Vergers"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen in den Obstgärten; ein kleines Handtuch ist nützlich für nasse Bänke bei einer Pause.",
+                "hu": "Nézze, ahogy az eső táplálja a gyümölcsösöket; vigyen egy kis törölközőt a vizes padok letörléséhez, ha megpihenne.",
+                "ro": "Priviți cum ploaia hrănește livezile; luați un prosop mic pentru a șterge băncile ude dacă vreți să vă odihniți.",
+                "en": "Watch the rain nourish the orchards; carry a small towel to wipe wet benches if you need a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue des Acquets",
+                "hu": "Avenue des Acquets",
+                "ro": "Avenue des Acquets",
+                "en": "Avenue des Acquets"
+              },
+              "tip_5lang": {
+                "de": "Die Allee wirkt im Regen mystisch, aber achten Sie auf rutschiges Laub auf den nassen Gehwegen.",
+                "hu": "A fákkal szegélyezett sugárút misztikus az esőben, de vigyázzon a csúszós, lehullott levelekre a járdán.",
+                "ro": "Bulevardul cu copaci pare mistic în ploaie, dar aveți grijă la frunzele căzute alunecoase de pe drum.",
+                "en": "The tree-lined avenue looks mystic in the rain, but watch your step on the slippery fallen leaves along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Champ Piquet",
+                "hu": "Le Champ Piquet",
+                "ro": "Le Champ Piquet",
+                "en": "Le Champ Piquet"
+              },
+              "tip_5lang": {
+                "de": "Offene Flächen bedeuten weniger Schutz, lassen Sie Ihre Regenkleidung geschlossen, während Sie die Luft genießen.",
+                "hu": "A nyitott terek kevesebb menedéket jelentenek, tartsa zártan az esőkabátot a friss levegőn való séta során.",
+                "ro": "Spațiile deschise înseamnă mai puțin adăpost, țineți pelerina de ploaie închisă în timp ce vă bucurați de aerul curat.",
+                "en": "Open spaces mean less shelter here, so keep your rain gear fully zipped while enjoying the fresh wet air."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cranais",
+                "hu": "La Cranais",
+                "ro": "La Cranais",
+                "en": "La Cranais"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss mit nahegelegenen Dächern; das nasse Grün bietet einen ruhigen Anblick zum Ausklang.",
+                "hu": "Tökéletes utolsó állomás egy közeli tető alatt; a vizes növényzet gyönyörű, békés látványt nyújt lezárásként.",
+                "ro": "O oprire finală perfectă cu acoperișuri în apropiere; verdeața umedă oferă o priveliște liniștită la final de zi.",
+                "en": "A perfect final stop to find a nearby canopy; the wet greenery provides a beautiful, tranquil closing view."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen frostigen Morgen in der Gartenstadt. Mittags sorgt die klare Luft in Les Bruyères für Bewegung. Am späten Nachmittag werden die Schatten in Le Champ Piquet länger. Beenden Sie die Tour in La Cranais vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Öltözzön melegen a fagyos reggeli sétához a Kertvárosban. Délben a Les Bruyères friss levegője mozgásban tartja. Késő délután az árnyékok megnyúlnak a Le Champ Piquet-nél. Fejezze be a sétát a La Cranais-nál a korai, 17:00 órás naplemente előtt.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală geroasă în Orașul Grădină. Prânzul aduce aer rece la Les Bruyères, menținându-vă activi. După-amiaza, umbrele se lungesc la Le Champ Piquet. Încheiați la La Cranais înainte de apusul timpuriu din jurul orei 17:00.",
+            "en": "Wrap up warmly for a frosty morning walk through the Garden City. Midday brings crisp air at Les Bruyères, keeping you moving. In the late afternoon, shadows stretch long at Le Champ Piquet. Conclude at La Cranais before the early 17:00 sunset sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Rheu Gartenstadt",
+                "hu": "Le Rheu Kertváros",
+                "ro": "Orașul Grădină Le Rheu",
+                "en": "Le Rheu Garden City"
+              },
+              "tip_5lang": {
+                "de": "Der Frost hebt architektonische Details hervor; tragen Sie Thermokleidung für den langen Aufenthalt in der Kälte.",
+                "hu": "A dér kiemeli az építészeti részleteket; viseljen termo rétegeket a hosszú első megálló során a hidegben.",
+                "ro": "Gerul evidențiază detaliile arhitecturale; purtați haine termice pentru a vă menține confortul la prima oprire.",
+                "en": "The frost highlights the architectural details; wear thermal layers to stay comfortable during the long initial stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bruyères",
+                "hu": "Les Bruyères",
+                "ro": "Les Bruyères",
+                "en": "Les Bruyères"
+              },
+              "tip_5lang": {
+                "de": "Kahlköpfige Äste lassen die Wintersonne durch; bleiben Sie in Bewegung, um sich draußen warm zu halten.",
+                "hu": "A csupasz ágak átengedik az alacsony téli napfényt; mozogjon fürgén, hogy megtartsa a testhőmérsékletét kint.",
+                "ro": "Ramurile goale lasă soarele de iarnă să treacă; mișcați-vă rapid pentru a vă menține căldura corporală afară.",
+                "en": "The bare branches let in the low winter sun; keep moving briskly to maintain your body heat while outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Petits Vergers",
+                "hu": "Les Petits Vergers",
+                "ro": "Les Petits Vergers",
+                "en": "Les Petits Vergers"
+              },
+              "tip_5lang": {
+                "de": "Die ruhenden Obstgärten sind friedlich; ein Heißgetränk in der Thermoskanne macht die Pause bei Kälte angenehm.",
+                "hu": "Az alvó gyümölcsösök békések; egy termoszban hozott forró ital élvezetessé teszi ezt a csendes pihenőt.",
+                "ro": "Livezile adormite sunt pașnice; o băutură caldă adusă într-un termos va face această pauză rece încântătoare.",
+                "en": "The dormant orchards are peaceful; a hot drink in an insulated flask will make this quiet break delightful."
+              }
+            },
+            {
+              "name": {
+                "de": "Avenue des Acquets",
+                "hu": "Avenue des Acquets",
+                "ro": "Avenue des Acquets",
+                "en": "Avenue des Acquets"
+              },
+              "tip_5lang": {
+                "de": "Winterwinde können durch diese Allee wehen, eine winddichte Jacke und ein dicker Schal sind hier wichtig.",
+                "hu": "A téli szelek végigsöpörhetnek ezen a sugárúton, így egy szélálló kabát és vastag sál elengedhetetlen itt.",
+                "ro": "Vântul de iarnă poate sufla pe acest bulevard, o jachetă rezistentă la vânt și un fular gros sunt esențiale.",
+                "en": "Winter winds can funnel down this avenue, so a windproof jacket and thick scarf are essential for this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Champ Piquet",
+                "hu": "Le Champ Piquet",
+                "ro": "Le Champ Piquet",
+                "en": "Le Champ Piquet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf winterliche Felder, aber achten Sie auf den kalten Boden, wenn Sie sitzen möchten.",
+                "hu": "Élvezze a téli mezők tágas látványát, de óvakodjon a hideg talajtól, ha le szeretne ülni megpihenni.",
+                "ro": "Bucurați-vă de priveliștile câmpurilor de iarnă, dar atenție la pământul rece dacă vreți să vă așezați puțin.",
+                "en": "Enjoy the wide, crisp views of the winter fields, but beware of the freezing ground if you plan to sit down."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cranais",
+                "hu": "La Cranais",
+                "ro": "La Cranais",
+                "en": "La Cranais"
+              },
+              "tip_5lang": {
+                "de": "Das schwindende Licht schafft eine tolle Atmosphäre; beenden Sie die Tour bald, da es nach Sonnenuntergang kalt wird.",
+                "hu": "A halványuló fény hangulatos atmoszférát teremt; fejezze be hamarosan, mert naplemente után erősen lehűl a levegő.",
+                "ro": "Lumina slabă creează o atmosferă deosebită; terminați curând, deoarece temperaturile scad drastic după apus.",
+                "en": "The fading light creates a moody atmosphere; finish up soon as temperatures drop sharply right after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kalandja a történelmi kertvárosban kezdődik, mielőtt a Le Champ Piquet zöldterületei felé gurulna. A dél kellemes utazást hoz a La Cranais-hoz és a romantikus Apigné kastélyhoz. Délután tekerjen fel a modern Le Rheu városházához, hogy megtekintse a polgári központot. Fejezze be az útvonalat este a Les Petits Vergers bájos, csendes környékén, élvezve az alkonyatot.",
         "ro": "Aventura dvs. cu bicicleta începe în Orașul-Grădină istoric, înainte de a pedala spre spațiile verzi din Le Champ Piquet. Prânzul aduce o plimbare plăcută spre La Cranais și o vizită spectaculoasă la romanticul Castel Apigné. După-amiaza, pedalați până la moderna Primărie din Le Rheu. Terminați-vă traseul seara în cartierul fermecător și liniștit din Les Petits Vergers.",
         "en": "Your cycling adventure starts at the historic Garden City before rolling over to the green spaces of Le Champ Piquet. Midday brings a pleasant ride to La Cranais and a spectacular visit to the romantic Château d'Apigné. In the afternoon, pedal up to the modern Le Rheu Town Hall to see the civic center. Finish your route in the evening amidst the charming, quiet neighborhood of Les Petits Vergers."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an nassen Morgenstraßen durch die Gartenstadt mit Warnkleidung. Mittags fahren Sie vorsichtig auf rutschigen Wegen zum Château d'Apigné. Nachmittagsschauer begleiten Sie zum Rathaus. Beenden Sie die feuchte Fahrt vor der Dämmerung in den Obstgärten.",
+            "hu": "Kezdje a kerékpározást a vizes reggeli utcákon a Kertvárosban, láthatósági felszerelésben. Délben óvatosan tekerjen a csúszós utakon az Apigné Kastély felé. A délutáni záporok elkísérik a Városházához. Fejezze be a nedves utat a gyümölcsösöknél szürkület előtt.",
+            "ro": "Începeți să pedalați pe străzile umede matinale din Orașul Grădină cu echipament vizibil. La prânz, navigați cu grijă pe căile alunecoase spre Château d'Apigné. Ploile de după-amiază vă însoțesc la Primărie. Terminați plimbarea umedă la livezi înainte de lăsarea serii.",
+            "en": "Start cycling on wet morning streets through the Garden City with high-visibility gear. By noon, carefully navigate slippery paths towards the majestic Château d'Apigné. Afternoon showers accompany you to the Town Hall. Complete your damp ride at the orchards before dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Rheu Gartenstadt",
+                "hu": "Le Rheu Kertváros",
+                "ro": "Orașul Grădină Le Rheu",
+                "en": "Le Rheu Garden City"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen sind rutschig; prüfen Sie die Bremsen und bewundern Sie die regengewaschenen Fassaden sicher.",
+                "hu": "Az utcák csúszósak lehetnek; indulás előtt ellenőrizze a fékeket, és biztonságosan csodálja a homlokzatokat.",
+                "ro": "Străzile pot fi alunecoase; verificați frânele înainte de plecare și admirați în siguranță fațadele spălate de ploaie.",
+                "en": "The streets can be slick; check your brakes before setting off and admire the rain-washed facades safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Champ Piquet",
+                "hu": "Le Champ Piquet",
+                "ro": "Le Champ Piquet",
+                "en": "Le Champ Piquet"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schlammige Stellen an den Feldrändern; ein moderates Tempo auf dem Rad wird dringend empfohlen.",
+                "hu": "Ügyeljen a saras foltokra a mezők szélén; a mérsékelt tempójú kerékpározás erősen ajánlott ezen a szakaszon.",
+                "ro": "Atenție la noroiul de pe marginea câmpului; mersul pe bicicletă într-un ritm moderat este recomandat aici.",
+                "en": "Watch out for muddy patches near the field edges; cycling at a moderate pace is highly recommended to avoid sliding."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cranais",
+                "hu": "La Cranais",
+                "ro": "La Cranais",
+                "en": "La Cranais"
+              },
+              "tip_5lang": {
+                "de": "Regenkleidung ist unerlässlich, da offene Strecken keinen Schutz vor plötzlichen Schauern oder Wind bieten.",
+                "hu": "Az esőruha itt elengedhetetlen, mivel a nyitott szakaszok nem nyújtanak menedéket a hirtelen záporok ellen.",
+                "ro": "Echipamentul de ploaie este esențial, deoarece zonele deschise nu oferă adăpost împotriva averselor bruște.",
+                "en": "Rain gear is essential here as open stretches offer no natural shelter against sudden showers or winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Apigné",
+                "hu": "Apigné Kastély",
+                "ro": "Castelul Apigné",
+                "en": "Château d'Apigné"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt dramatisch im Regen; suchen Sie einen überdachten Platz, um das Rad zu parken und sich abzutrocknen.",
+                "hu": "A kastély drámai az esőben; keressen egy fedett helyet a közelben, ahol leparkolhat és kicsit megszáradhat.",
+                "ro": "Castelul arată dramatic în ploaie; găsiți un loc acoperit pentru a parca bicicleta și a vă usca puțin hainele.",
+                "en": "The castle looks dramatic in the rain; find a covered spot nearby to park your bike and dry off slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Rheu",
+                "hu": "Le Rheu Városháza",
+                "ro": "Primăria din Le Rheu",
+                "en": "Le Rheu Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Der Rathausplatz ist gepflastert, aber nasses Laub ist rutschig; nutzen Sie wenn möglich überdachte Fahrradständer.",
+                "hu": "A környék burkolt, de vigyázzon a csúszós vizes levelekre; használjon fedett kerékpártárolót, ha lehetséges.",
+                "ro": "Zona Primăriei este pavată, dar atenție la frunzele umede alunecoase; folosiți parcări acoperite pentru biciclete.",
+                "en": "The Town Hall area is paved, but watch out for slippery wet leaves; use covered bike racks if available."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Petits Vergers",
+                "hu": "Les Petits Vergers",
+                "ro": "Les Petits Vergers",
+                "en": "Les Petits Vergers"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch nasse Obstgärten; etwas weniger Reifendruck verbessert den Grip bei Nässe.",
+                "hu": "Óvatosan tekerjen a vizes gyümölcsösökben; a guminyomás enyhe csökkentése javíthatja a tapadást az esőben.",
+                "ro": "Pedalați cu grijă prin livezile umede; scăderea ușoară a presiunii în anvelope poate îmbunătăți aderența pe ploaie.",
+                "en": "Ride carefully through the wet orchards; lowering your tire pressure slightly can improve grip in the slick rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine winterliche Morgenfahrt ab der Gartenstadt. Die Mittagssonne wärmt Sie leicht auf dem Weg zum Château d'Apigné. Nachmittags wird es am Rathaus kühl. Beenden Sie die frostige Runde in den Obstgärten vor der Dämmerung um 17:00 Uhr.",
+            "hu": "Öltözzön be a friss téli reggeli kerékpározáshoz a Kertvárosból indulva. A déli napfény kissé felmelegíti az Apigné Kastély felé. A délután hideget hoz a Városháza közelében. Fejezze be a fagyos kört a gyümölcsösöknél 17:00 előtt.",
+            "ro": "Îmbrăcați-vă bine pentru o cursă de iarnă matinală pornind din Orașul Grădină. Soarele de prânz vă încălzește ușor spre Château d'Apigné. După-amiaza aduce frig lângă Primărie. Terminați bucla geroasă la livezi înainte de întunericul de la 17:00.",
+            "en": "Bundle up for a crisp winter morning ride starting in the Garden City. Midday sun warms you slightly as you pedal toward the grand Château d'Apigné. Afternoon brings a chill near the Town Hall. Complete your frosty loop at the orchards just before the 17:00 twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Rheu Gartenstadt",
+                "hu": "Le Rheu Kertváros",
+                "ro": "Orașul Grădină Le Rheu",
+                "en": "Le Rheu Garden City"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Handschuhe für den Lenker; der Winterfrost lässt die urbane Architektur magisch aussehen.",
+                "hu": "Viseljen vastag kesztyűt a kormányzáshoz; a téli reggeli dér varázslatossá teszi a városi építészetet.",
+                "ro": "Purtați mănuși groase pentru a vă menține mâinile calde pe ghidon; gerul matinal face arhitectura magică.",
+                "en": "Wear thick gloves to keep your hands warm on the handlebars; the winter morning frost makes the architecture look magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Champ Piquet",
+                "hu": "Le Champ Piquet",
+                "ro": "Le Champ Piquet",
+                "en": "Le Champ Piquet"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie das Tempo hoch, um sich auf den offenen Feldern im Winterwind warm zu halten, es gibt keinen Schutz.",
+                "hu": "Tartsa a tempót, hogy testmeleget termeljen ezeken a nyílt mezőkön, ahol nincs szélárnyék a téli szél ellen.",
+                "ro": "Mențineți viteza pentru a vă încălzi corpul pe aceste câmpuri deschise, bătute neîncetat de vântul rece de iarnă.",
+                "en": "Keep your speed up to generate body heat in these open fields, which offer no break from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cranais",
+                "hu": "La Cranais",
+                "ro": "La Cranais",
+                "en": "La Cranais"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft ist belebend; stellen Sie sicher, dass Ihre Fahrradlichter für die frühe Dunkelheit geladen sind.",
+                "hu": "A hideg levegő itt élénkítő; ellenőrizze a kerékpárlámpákat, mivel az ég télen korán sötétedik ezen a szakaszon.",
+                "ro": "Aerul rece de aici este revigorant; asigurați-vă că luminile bicicletei sunt încărcate, cerul se întunecă devreme.",
+                "en": "The cold air here is invigorating; ensure your bike lights are charged and ready to go as the sky darkens early."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Apigné",
+                "hu": "Apigné Kastély",
+                "ro": "Castelul Apigné",
+                "en": "Château d'Apigné"
+              },
+              "tip_5lang": {
+                "de": "Das markante Schloss sieht vor einem grauen Winterhimmel wunderschön aus; ein perfekter Ort für heißen Tee.",
+                "hu": "A lenyűgöző kastély gyönyörű a szürke téli égbolt előtt; tökéletes hely megállni és a termoszból forró teát inni.",
+                "ro": "Castelul impresionant arată frumos pe un cer gri de iarnă; un loc perfect pentru a vă opri și a bea un ceai fierbinte.",
+                "en": "The striking castle looks beautiful against a grey winter sky; a perfect spot to pause and drink hot tea from a flask."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Rheu",
+                "hu": "Le Rheu Városháza",
+                "ro": "Primăria din Le Rheu",
+                "en": "Le Rheu Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Finger in nahegelegenen Cafés auf; das Bürgerzentrum ist auch im kalten Winter sehr schön anzusehen.",
+                "hu": "Keressen menedéket a közeli kávézókban, ha fázik a keze; a városközpont télen is hívogató és gyönyörű.",
+                "ro": "Refugiați-vă în cafenelele din apropiere dacă trebuie să vă dezghețați degetele; centrul civic este frumos iarna.",
+                "en": "Take refuge in nearby cafes if you need to thaw your fingers; the civic center is beautiful in the heart of winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Petits Vergers",
+                "hu": "Les Petits Vergers",
+                "ro": "Les Petits Vergers",
+                "en": "Les Petits Vergers"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume sind ein reiner Winteranblick; fahren Sie schnell heim, bevor die Temperaturen stark abfallen.",
+                "hu": "A csupasz fák rideg téli látványt nyújtanak; siessen haza, mert a hőmérséklet hamar lecsökken naplemente után.",
+                "ro": "Copacii goi sunt o priveliște de iarnă crudă; mergeți repede acasă, deoarece temperaturile vor scădea drastic acum.",
+                "en": "The bare trees are a stark winter sight; head home quickly after this stop as temperatures will plummet at sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túráját a modern Le Rheu városházánál kezdje, majd vegye az irányt a történelmi kertváros felé, hogy felfedezze annak gyönyörű elrendezését. A dél magában foglal egy gyors megállót a Le Champ Piquet-nél, mielőtt a luxus Apigné kastélyba látogatna. Töltse a délutánt a Le Petit Bois erdők vadregényes ösvényein. Az estét a La Cranais nyugodt utcáin tett sétával zárhatja le.",
         "ro": "Începeți turul cu mașina la moderna Primărie din Le Rheu, apoi îndreptați-vă spre orașul-grădină istoric pentru a explora aspectul său frumos. Prânzul include o oprire rapidă la Le Champ Piquet înainte de o vizită grandioasă la luxosul Castel Apigné. Petreceți-vă după-amiaza pe traseele accidentate din pădurea Le Petit Bois. Încheiați seara cu o plimbare liniștită prin La Cranais.",
         "en": "Start your driving tour at the modern Le Rheu Town Hall, then head to the historically significant Garden City to explore its beautiful layout. Midday features a quick stop at Le Champ Piquet before a grand visit to the luxurious Château d'Apigné and its serene lakes. Spend your afternoon hiking the rugged trails of Le Petit Bois Woods. Wind down your evening with a quiet stroll through La Cranais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine trockene Morgenfahrt zum Rathaus und huschen Sie unter einem Schirm hinaus. Mittags bietet die Fahrt verregnete Ausblicke auf Schloss und Gartenstadt. Nachmittags bei Le Petit Bois vorsichtig auf nassen Straßen fahren. Der feuchte Abend endet warm im Auto in La Cranais.",
+            "hu": "Élvezze a száraz reggeli autózást a Városházához, egy esernyővel gyorsan kiszaladva. Délben a Kertváros és az Apigné Kastély eső áztatta látványában gyönyörködhet. Délután a Le Petit Bois-nál óvatosan vezessen. Az esős este melegben ér véget az autóban a La Cranais-nál.",
+            "ro": "Bucurați-vă de un drum uscat dimineața spre Primărie, ieșind scurt sub o umbrelă. Prânzul oferă priveliști umede spre Orașul Grădină și Château d'Apigné. După-amiaza la Le Petit Bois necesită prudență pe drum. Seara ploioasă se termină la căldură în mașină la La Cranais.",
+            "en": "Enjoy a dry morning drive to the Town Hall, dashing out briefly under an umbrella. Midday driving offers scenic, rain-streaked views of the Garden City and Château d'Apigné. Afternoon roads past Le Petit Bois require caution. Evening ends wet but warm inside the car at La Cranais."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Le Rheu",
+                "hu": "Le Rheu Városháza",
+                "ro": "Primăria din Le Rheu",
+                "en": "Le Rheu Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; die städtische Architektur sieht auch bei starkem Regen und grauem Himmel edel aus.",
+                "hu": "Parkoljon minél közelebb; a városi építészet heves esőben és szürke ég alatt is előkelőnek és drámainak tűnik.",
+                "ro": "Parcați cât mai aproape posibil; arhitectura civică arată distins chiar și sub ploaie abundentă și cer gri.",
+                "en": "Park as close as possible to the entrance; the civic architecture looks distinguished even under heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Rheu Gartenstadt",
+                "hu": "Le Rheu Kertváros",
+                "ro": "Orașul Grădină Le Rheu",
+                "en": "Le Rheu Garden City"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das nasse Grün bequem aus dem Auto; steigen Sie nur bei leichtem Nieselregen für Fotos aus.",
+                "hu": "Élvezze a buja, víz áztatta zöldet az autó kényelméből; csak szemerkélő esőben szálljon ki rövid időre.",
+                "ro": "Bucurați-vă de verdeața umedă din confortul mașinii, ieșind doar în timpul burniței ușoare pentru poze.",
+                "en": "Enjoy the lush, water-soaked greenery from the comfort of your car, stepping out only during light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Champ Piquet",
+                "hu": "Le Champ Piquet",
+                "ro": "Le Champ Piquet",
+                "en": "Le Champ Piquet"
+              },
+              "tip_5lang": {
+                "de": "Der Regen macht den Boden schlammig; halten Sie Stiefel im Kofferraum bereit, falls Sie zu Fuß losziehen möchten.",
+                "hu": "Az eső sárossá teszi a talajt; tartson egy pár gumicsizmát a csomagtartóban, ha gyalog is felfedezné a területet.",
+                "ro": "Ploaia face pământul noroios; păstrați cizme în portbagaj dacă decideți să explorați pe jos zona rurală.",
+                "en": "The rain makes the ground muddy; keep a pair of boots in the trunk if you decide to explore on foot here."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Apigné",
+                "hu": "Apigné Kastély",
+                "ro": "Castelul Apigné",
+                "en": "Château d'Apigné"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort an Regentagen; huschen Sie schnell hinein, um die Innenräume trocken zu bewundern.",
+                "hu": "Tökéletes menedék esős napokon; szaladjon be gyorsan, hogy megcsodálja a belső teret anélkül, hogy bőrig ázna.",
+                "ro": "Un refugiu perfect în zilele ploioase; intrați repede pentru a admira interiorul fără a vă uda complet hainele.",
+                "en": "A perfect rainy day retreat; make a quick dash inside to admire the beautiful interior without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Petit Bois Wälder",
+                "hu": "Le Petit Bois erdők",
+                "ro": "Pădurea Le Petit Bois",
+                "en": "Le Petit Bois Woods"
+              },
+              "tip_5lang": {
+                "de": "Das Blätterdach bremst den Regen, aber Wege sind schlammig; fahren Sie langsam auf den nassen Waldstraßen.",
+                "hu": "A lombkorona felfogja az esőt, de az ösvények sárosak; vezessen óvatosan és lassan a környező vizes utakon.",
+                "ro": "Coronamentul pădurii oprește ploaia, dar potecile sunt noroioase; conduceți încet pe drumurile umede din jur.",
+                "en": "The forest canopy breaks the rain, but paths are muddy; drive slowly and carefully on the surrounding wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cranais",
+                "hu": "La Cranais",
+                "ro": "La Cranais",
+                "en": "La Cranais"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie das Fenster leicht, um den Regen auf den Blättern zu hören, bevor Sie Ihre gemütliche Fahrt beenden.",
+                "hu": "Húzza le az ablakot egy picit, hogy hallja az eső kopogását a leveleken, mielőtt befejezi a kényelmes utat.",
+                "ro": "Deschideți puțin geamul pentru a auzi ploaia lovind frunzele înainte de a încheia plimbarea confortabilă cu mașina.",
+                "en": "Roll down the window slightly to hear the rain hitting the leaves before concluding your comfortable, sheltered drive."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt beginnt an einem frostigen Morgen am Rathaus. Mittags passieren Sie die winterliche Gartenstadt und das Schloss Apigné. Nachmittags zeigt sich der gefrorene Wald Le Petit Bois. Erreichen Sie La Cranais sicher in der frühen Dunkelheit gegen 17:00 Uhr.",
+            "hu": "Egy fűtött autós út a Városházától indul egy fagyos reggelen. Délben a télies Kertváros és az elegáns Apigné Kastély mellett halad el. A délutáni autózás feltárja a zúzmarás erdőket. Biztonságosan érkezzen a La Cranais-hoz a gyorsan sötétedő estébe 17:00 körül.",
+            "ro": "O plimbare confortabilă începe la Primărie într-o dimineață geroasă. Prânzul vă duce pe lângă Orașul Grădină iernatic și elegantul Château d'Apigné. După-amiaza dezvăluie pădurile înghețate de la Le Petit Bois. Ajungeți la La Cranais în siguranță odată cu întunericul de la ora 17:00.",
+            "en": "A cozy heated drive starts at the Town Hall on a frosty morning. Midday brings you past the winter-bare Garden City and the elegant Château d'Apigné. Afternoon scenic driving reveals frosted woods at Le Petit Bois. Arrive at La Cranais safely as darkness falls quickly by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Le Rheu",
+                "hu": "Le Rheu Városháza",
+                "ro": "Primăria din Le Rheu",
+                "en": "Le Rheu Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft hebt die Fassade hervor; lassen Sie die Autoheizung laufen, um es beim Aussteigen warm zu haben.",
+                "hu": "A friss téli levegő kiemeli az épület homlokzatát; hagyja bekapcsolva a fűtést a kellemes meleg kabinért.",
+                "ro": "Aerul rece de iarnă evidențiază fațada clădirii; lăsați încălzirea pornită pentru a menține cabina mașinii caldă.",
+                "en": "The crisp winter air highlights the building's facade; let the car heater run to keep the cabin perfectly warm inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Rheu Gartenstadt",
+                "hu": "Le Rheu Kertváros",
+                "ro": "Orașul Grădină Le Rheu",
+                "en": "Le Rheu Garden City"
+              },
+              "tip_5lang": {
+                "de": "Kahle Bäume zeigen das komplette Layout der Gartenstadt; halten Sie im Winter immer einen Eiskratzer griffbereit.",
+                "hu": "A kopasz fák többet mutatnak a Kertváros elrendezéséből; télen tartson kéznél egy jégkaparót a szélvédőhöz.",
+                "ro": "Copacii goi dezvăluie mai mult din structura Orașului Grădină; păstrați o racletă pentru gheață la îndemână mereu.",
+                "en": "The bare trees reveal more of the Garden City's layout; keep an ice scraper handy for your windshield in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Champ Piquet",
+                "hu": "Le Champ Piquet",
+                "ro": "Le Champ Piquet",
+                "en": "Le Champ Piquet"
+              },
+              "tip_5lang": {
+                "de": "Frost bedeckt die weiten Felder wunderschön; halten Sie sicher an, um schnell ein Foto aus der Wärme zu machen.",
+                "hu": "A fagy gyönyörűen borítja a nyílt mezőket; húzódjon félre egy fotó erejéig anélkül, hogy sokáig kint fagyoskodna.",
+                "ro": "Gerul acoperă frumos câmpurile deschise; trageți pe dreapta pentru a face o fotografie fără a sta mult în frig.",
+                "en": "Frost covers the open fields beautifully; pull over safely to snap a photo without spending too long outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Apigné",
+                "hu": "Apigné Kastély",
+                "ro": "Castelul Apigné",
+                "en": "Château d'Apigné"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss ist ein fantastischer Winterzufluchtsort; trinken Sie hier drinnen einen heißen Kaffee zum Aufwärmen.",
+                "hu": "A kastély fantasztikus téli menedék; igyon egy forró kávét bent, mielőtt folytatná a festői autózást a hidegben.",
+                "ro": "Castelul este un refugiu de iarnă fantastic; luați o cafea caldă înăuntru înainte de a continua drumul pitoresc.",
+                "en": "The castle is a fantastic winter refuge; grab a hot coffee inside before continuing your scenic winter drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Petit Bois Wälder",
+                "hu": "Le Petit Bois erdők",
+                "ro": "Pădurea Le Petit Bois",
+                "en": "Le Petit Bois Woods"
+              },
+              "tip_5lang": {
+                "de": "Der kahle Wald hat eine gespenstische Schönheit; achten Sie auf Glatteis auf den kleinen, schattigen Straßen.",
+                "hu": "A kopár erdő kísérteties szépségű; vezessen óvatosan, és vigyázzon a fekete jégre a közeli, árnyékos kis utakon.",
+                "ro": "Pădurea fără frunze are o frumusețe bântuitoare; atenție la gheața neagră de pe drumurile mici și umbrite din zonă.",
+                "en": "The stark, leafless forest has a haunting beauty; watch carefully for black ice on the small shaded roads nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cranais",
+                "hu": "La Cranais",
+                "ro": "La Cranais",
+                "en": "La Cranais"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, da es schnell dunkel wird; die Autoscheinwerfer erhellen die frostige Umgebung hübsch.",
+                "hu": "Érkezzen 17:00 előtt, mert a nappali fény gyorsan eltűnik; a fényszórók drámaian megvilágítják a fagyos tájat.",
+                "ro": "Ajungeți înainte de 17:00, deoarece lumina zilei dispare rapid; farurile vor ilumina frumos împrejurimile geroase.",
+                "en": "Arrive before 17:00 as daylight disappears fast; the headlights will illuminate the quiet, frosty surroundings perfectly."
+              }
+            }
+          ]
+        }
       }
     }
   }

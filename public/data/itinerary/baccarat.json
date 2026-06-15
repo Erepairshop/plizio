@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a városházánál, majd lépjen be az Église Saint-Rémy varázslatos fényébe. A délidőt Baccarat világhírű kristályörökségének szenteljük a fő múzeumban. A délutánt a Gyűjtemény múzeum további lenyűgöző alkotásainak megcsodálásával töltheti. Zárja az estét egy békés sétával a történelmi Église Saint-Rémy de Deneuvre felé.",
         "ro": "Începeți dimineața la Hôtel de Ville înainte de a păși în lumina magică de la Église Saint-Rémy. Prânzul este dedicat faimoasei moșteniri a cristalului Baccarat la muzeul principal. Petreceți după-amiaza admirând mai multe lucrări rafinate la muzeul Colecției. Încheiați seara cu o plimbare liniștită către istorica Église Saint-Rémy de Deneuvre.",
         "en": "Start your morning exploring the central civic pride at the Hôtel de Ville before stepping into the magical light of Église Saint-Rémy. Midday is dedicated to Baccarat's world-famous crystal heritage at the main museum. Spend the afternoon marveling at more exquisite works in the Collection museum. Conclude your evening with a peaceful stroll to the historic Église Saint-Rémy de Deneuvre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Morgen am Rathaus und suchen Sie schnell Schutz in der Kirche. Mittags bieten die Baccarat-Museen perfekte trockene Zufluchtsorte mit faszinierenden Ausstellungen. Spazieren Sie nachmittags vorsichtig auf rutschigen Wegen zur Kirche in Deneuvre. Verbringen Sie den regnerischen Abend in einem gemütlichen, überdachten Lokal in der Nähe.",
+            "hu": "Kezdje az esős reggelt a városházánál, majd keressen menedéket a templomban. Délben a Baccarat múzeumok tökéletes, száraz beltéri programot kínálnak lenyűgöző kiállításokkal. Délután óvatosan sétáljon a csúszós utakon a Deneuvre-i templomhoz. Az estét töltse egy fedett, meleg helyen, miközben kint esik.",
+            "ro": "Începeți dimineața ploioasă la primărie, apoi adăpostiți-vă în biserică. La prânz, muzeele Baccarat oferă refugii interioare uscate cu expoziții fascinante. După-amiaza, plimbați-vă cu grijă pe potecile alunecoase spre biserica din Deneuvre. Petreceți seara ploioasă relaxându-vă într-un local acoperit.",
+            "en": "Start your wet morning at the city hall, then seek shelter in the nearby church. At midday, the Baccarat museums offer perfect dry, indoor retreats with stunning exhibits. In the afternoon, walk carefully on slippery paths to the church in Deneuvre. Spend your rainy evening relaxing in a cozy, covered venue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Baccarat",
+                "hu": "Hôtel de Ville de Baccarat",
+                "ro": "Hôtel de Ville de Baccarat",
+                "en": "Hôtel de Ville de Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses kurz unter Ihrem Regenschirm, bevor Sie in den nahegelegenen Attraktionen einen warmen Schutz suchen.",
+                "hu": "Csodálja meg a városháza lenyűgöző építészetét az esernyője alól, mielőtt a közeli beltéri látványosságokban keresne száraz és meleg menedéket a záporok elől.",
+                "ro": "Admirați arhitectura impresionantă a acestei primării de sub umbrela dumneavoastră, înainte de a căuta un adăpost uscat în atracțiile interioare din apropiere.",
+                "en": "Admire the stunning architecture of this local civic building briefly from under your umbrella before seeking warm shelter in the nearby indoor attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémy",
+                "hu": "Église Saint-Rémy",
+                "ro": "Église Saint-Rémy",
+                "en": "Église Saint-Rémy"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die atemberaubenden Baccarat-Kristallfenster an, ein perfektes visuelles Spektakel im Innenbereich, wenn es draußen in Strömen regnet.",
+                "hu": "Tekintse meg a lélegzetelállító Baccarat kristályablakokat; ez egy tökéletes beltéri vizuális élmény, miközben odakint szakad az eső a város utcáin.",
+                "ro": "Vedeți vitraliile uimitoare din cristal Baccarat, un spectacol vizual interior perfect și uscat atunci când plouă cu găleata pe străzile orașului.",
+                "en": "See the breathtaking Baccarat crystal windows, providing a perfect and completely dry indoor visual spectacle when it is pouring rain outside on the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat",
+                "hu": "Musée Baccarat",
+                "ro": "Musée Baccarat",
+                "en": "Musée Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die weltberühmte Geschichte der Kristallherstellung in diesem tollen Innenmuseum, das einen perfekten, trockenen Zufluchtsort vor dem Regen bietet.",
+                "hu": "Fedezze fel a kristálygyártás világhírű történetét ebben a fantasztikus beltéri múzeumban, amely tökéletes és teljesen száraz menedéket nyújt a felhőszakadás elől.",
+                "ro": "Descoperiți istoria faimoasă a cristalului în acest muzeu interior fantastic, oferind o evadare perfectă și complet uscată din calea ploilor torențiale de afară.",
+                "en": "Discover the world-famous history of crystal making in this fantastic indoor museum, offering a perfect, completely dry escape from the heavy downpours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat Collection",
+                "hu": "Musée Baccarat Collection",
+                "ro": "Musée Baccarat Collection",
+                "en": "Musée Baccarat Collection"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die exquisiten Kristallkollektionen in diesen warmen, trockenen Räumen, ideal, um an einem verregneten Nachmittag drinnen zu bleiben.",
+                "hu": "Csodálja meg a kiváló kristálygyűjteményeket ezekben a meleg, száraz termekben, ami ideális program, ha egy esős délutánon inkább bent maradna.",
+                "ro": "Minunați-vă de colecțiile rafinate de cristal în aceste camere calde și uscate, o activitate ideală pentru a rămâne înăuntru într-o după-amiază ploioasă.",
+                "en": "Marvel at the exquisite luxury crystal collections in these warm, completely dry rooms, an ideal activity for staying indoors on a wet and rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémy de Deneuvre",
+                "hu": "Église Saint-Rémy de Deneuvre",
+                "ro": "Église Saint-Rémy de Deneuvre",
+                "en": "Église Saint-Rémy de Deneuvre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese historische Kirche am Rande des Hügels; tragen Sie wasserdichte Schuhe und achten Sie beim Gehen auf rutschige Steine bei Nässe.",
+                "hu": "Látogassa meg ezt a történelmi templomot a domb szélén; viseljen vízálló cipőt, és nagyon vigyázzon a nedves, csúszós kövekre az esős séta során.",
+                "ro": "Vizitați această biserică istorică de pe marginea dealului; purtați încălțăminte impermeabilă și atenție la pietrele alunecoase în timpul ploii.",
+                "en": "Visit this historic church on the hill's edge; wear sturdy waterproof shoes and be very careful of slippery wet stones during your rainy walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich am kalten Morgen warm an, um das Rathaus zu sehen. Erwärmen Sie sich mittags in den gut beheizten Baccarat-Museen, wo die Kristalle wunderschön funkeln. Wandern Sie am Nachmittag zügig zur Kirche in Deneuvre, um warm zu bleiben. Beenden Sie Ihre Tour früh, da die Sonne im Winter bereits gegen 17:00 Uhr untergeht.",
+            "hu": "Öltözzön meleg rétegekbe a hideg reggeli sétához a városházánál. Délben melegedjen fel a fűtött Baccarat múzeumokban, ahol a kristályok csodásan csillognak. Délután tempósan sétáljon a Deneuvre-i templomhoz, hogy ne fázzon. Fejezze be a túrát korán, mivel a téli naplemente már 17:00 körül beköszönt.",
+            "ro": "Îmbrăcați-vă călduros pentru plimbarea rece de dimineață la primărie. La prânz, încălziți-vă în muzeele Baccarat, unde cristalele strălucesc frumos. După-amiaza, mergeți vioias spre biserica din Deneuvre pentru a vă menține cald. Încheiați turul devreme, deoarece soarele apune în jur de ora 17:00 iarna.",
+            "en": "Wear warm layers for your crisp morning walk by the city hall. At midday, warm up inside the heated Baccarat museums where the crystals sparkle beautifully. In the afternoon, walk briskly to the Deneuvre church to keep your body heat up. Conclude your tour early, as the winter sunset arrives around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Baccarat",
+                "hu": "Hôtel de Ville de Baccarat",
+                "ro": "Hôtel de Ville de Baccarat",
+                "en": "Hôtel de Ville de Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren frostigen Morgen an diesem Wahrzeichen; ziehen Sie Schal und Handschuhe an, bevor Sie sich auf den Weg zu den Museen machen.",
+                "hu": "Kezdje a fagyos reggelt ennél a klasszikus épületnél; húzzon sálat és kesztyűt, mielőtt elindulna a meleg múzeumok felé a hideg levegőn.",
+                "ro": "Începeți dimineața geroasă la acest reper civic; asigurați-vă că purtați un fular și mănuși înainte de a vă îndrepta spre muzeele calde.",
+                "en": "Start your frosty morning at this civic landmark; make sure to wear a thick scarf and gloves before heading out into the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémy",
+                "hu": "Église Saint-Rémy",
+                "ro": "Église Saint-Rémy",
+                "en": "Église Saint-Rémy"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die modernen Kristallfenster wunderschön; ein großartiger, warmer Ort, um dem kalten Wind zu entkommen.",
+                "hu": "Az alacsonyan járó téli nap csodásan megvilágítja a kristályablakokat; nagyszerű, meleg menedék, ahol elmenekülhet a csípős hideg szél elől.",
+                "ro": "Soarele de iarnă luminează frumos vitraliile moderne din cristal; un loc minunat și cald pentru a scăpa de vântul rece de afară.",
+                "en": "The low winter sun illuminates the modern crystal windows beautifully; a great, heated indoor space to escape the biting cold winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat",
+                "hu": "Musée Baccarat",
+                "ro": "Musée Baccarat",
+                "en": "Musée Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warmen Exponate, die die Kristallherstellung detailliert beschreiben, eine perfekte Möglichkeit, an einem frostigen Tag aufzutauen.",
+                "hu": "Élvezze a fűtött kiállítást, amely részletesen bemutatja a kristálygyártást; ez a tökéletes módja annak, hogy felolvadjon egy fagyos téli napon.",
+                "ro": "Bucurați-vă de expozițiile calde care detaliază producția de cristal, o modalitate perfectă de a vă dezgheța într-o zi geroasă de iarnă.",
+                "en": "Enjoy the warm, indoor exhibits detailing centuries of crystal crafting, a perfect way to defrost your hands on a freezing winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat Collection",
+                "hu": "Musée Baccarat Collection",
+                "ro": "Musée Baccarat Collection",
+                "en": "Musée Baccarat Collection"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kältesten Stunden des Tages drinnen und bewundern Sie die aufwendigen, funkelnden Kristallmeisterwerke in gut beheizten Räumen.",
+                "hu": "Töltse a nap leghidegebb óráit bent, és csodálja meg a bonyolult, csillogó kristály remekműveket a kiválóan fűtött, kellemes termekben.",
+                "ro": "Petreceți cele mai reci ore înăuntru, admirând capodoperele complexe și strălucitoare din cristal în camere excelent încălzite.",
+                "en": "Spend the coldest hours of the day indoors admiring the intricate, sparkling crystal masterpieces in wonderfully heated, comfortable rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémy de Deneuvre",
+                "hu": "Église Saint-Rémy de Deneuvre",
+                "ro": "Église Saint-Rémy de Deneuvre",
+                "en": "Église Saint-Rémy de Deneuvre"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang zu dieser alten Stätte, um warm zu bleiben, und planen Sie, vor der frühen Winterdämmerung gegen 17:00 Uhr zurückzukehren.",
+                "hu": "Tegyen egy tempós sétát ehhez az ősi helyszínhez, hogy melegen tartsa magát, és tervezze a visszaútját a 17:00 órai korai téli sötétedés előtt.",
+                "ro": "Faceți o plimbare rapidă până la acest sit antic pentru a vă încălzi, planificând să vă întoarceți înainte de lăsarea întunericului la ora 17:00.",
+                "en": "Take a brisk walk to this ancient site to keep warm, and plan to head back safely before the early winter dusk sets in around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a városházánál, majd tekerjen át a Musée Baccarat-ba. Délben folytassa a Gyűjtemény múzeumával a mélyebb ismeretekért. A délután délre viszi az ősi Premier Silorit szentély romjaihoz. Zárja a napot egy nyugodt kerékpározással a lenyűgöző Collégiale Sainte-Geneviève felé naplementekor.",
         "ro": "Începeți turul cu bicicleta la primărie, apoi pedalați spre fascinantul Musée Baccarat. La prânz, continuați spre muzeul Colecției pentru perspective mai profunde. După-amiaza vă duce în sud la ruinele antice ale sanctuarului Premier Silorit. Încheiați ziua cu o plimbare calmă către superba Collégiale Sainte-Geneviève la apus.",
         "en": "Kick off your cycling tour at the town hall, then ride over to the fascinating Musée Baccarat for a morning of glass art. At noon, continue to the Collection museum for deeper insights. The afternoon takes you south to the ancient ruins of the Premier Silorit sanctuary. Wrap up your day with a calm ride to the stunning Collégiale Sainte-Geneviève as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens im Regenmantel vorsichtig am Rathaus vorbei. Nutzen Sie mittags die Baccarat-Museen, um sich abzutrocknen. Fahren Sie nachmittags langsam auf nassen Straßen zu den historischen Stätten. Beenden Sie Ihre feuchte Tour am Abend in der beeindruckenden und trockenen Stiftskirche.",
+            "hu": "Reggel biciklizzen óvatosan esőkabátban a városháza mellett. Délben használja ki a Baccarat múzeumokat, hogy megszáradjon a benti melegben. Délután lassan tekerjen a nedves utakon az ókori romok felé. Fejezze be az esős túrát az impozáns, fedett kollégiumi templomban.",
+            "ro": "Pedalați cu grijă dimineața în pelerina de ploaie pe lângă primărie. La prânz, uscați-vă în muzeele Baccarat. După-amiaza, mergeți încet pe drumurile umede spre siturile istorice. Încheiați turul ploios seara, la impresionanta biserică colegială acoperită.",
+            "en": "Cycle carefully in your rain poncho past the city hall this morning. At midday, use the indoor Baccarat museums to dry off and warm up. In the afternoon, ride slowly on wet roads to the archaeological sites. End your rainy evening tour at the impressive, dry collegiate church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Baccarat",
+                "hu": "Hôtel de Ville de Baccarat",
+                "ro": "Hôtel de Ville de Baccarat",
+                "en": "Hôtel de Ville de Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie in Ihrem Regenponcho einen kurzen Fotostopp, bevor Sie vorsichtig auf nassen, rutschigen Straßen zu den Museen radeln.",
+                "hu": "Tegyen egy gyors fotószünetet az esőkabátjában, mielőtt óvatosan elindulna a nedves, csúszós utakon a száraz múzeumok felé.",
+                "ro": "Faceți o scurtă oprire foto în pelerina de ploaie înainte de a pedala cu mare grijă pe străzile umede și alunecoase spre muzee.",
+                "en": "Make a quick photo stop in your rain poncho before cycling with great caution on the wet, slippery roads toward the indoor museums."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat",
+                "hu": "Musée Baccarat",
+                "ro": "Musée Baccarat",
+                "en": "Musée Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad, trocknen Sie sich ab und erkunden Sie die faszinierende, komplett überdachte Geschichte der Glasherstellung.",
+                "hu": "Parkolja le a kerékpárját, szárítkozzon meg, és fedezze fel az üveggyártás lenyűgöző, teljesen fedett és vízmentes történetét.",
+                "ro": "Parcați bicicleta, uscați-vă și explorați istoria fascinantă și complet acoperită a fabricării sticlei de lux din Baccarat.",
+                "en": "Park your bike, dry off indoors, and thoroughly explore the fascinating, completely covered history of luxury glassmaking here."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat Collection",
+                "hu": "Musée Baccarat Collection",
+                "ro": "Musée Baccarat Collection",
+                "en": "Musée Baccarat Collection"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer warmer, trockener Museumsaufenthalt, um luxuriöse Kristallkunstwerke zu bewundern, während es draußen weiter regnet.",
+                "hu": "Egy újabb meleg, száraz múzeumi megálló, ahol luxus kristályműveket csodálhat meg, miközben odakint folyamatosan esik az eső.",
+                "ro": "O altă oprire caldă și uscată la muzeu pentru a admira opere de artă din cristal de lux, în timp ce ploaia continuă afară.",
+                "en": "Another delightfully warm, dry museum stop to admire luxury crystal artworks while the heavy rain continues to fall outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémy de Deneuvre",
+                "hu": "Église Saint-Rémy de Deneuvre",
+                "ro": "Église Saint-Rémy de Deneuvre",
+                "en": "Église Saint-Rémy de Deneuvre"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie auf nassen Abfahrten sehr vorsichtig ab, um diese friedliche, historische Kirche bei Regenwetter sicher zu besuchen.",
+                "hu": "Fékezzen nagyon óvatosan a nedves lejtőkön, hogy biztonságosan meglátogathassa ezt a békés, történelmi templomot esős időben.",
+                "ro": "Frânați cu mare grijă pe coborârile umede pentru a vizita în siguranță această biserică istorică și pașnică pe vreme ploioasă.",
+                "en": "Brake very carefully on wet downhills to safely visit this peaceful, historic church during the challenging rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "hu": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "ro": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "en": "Site archéologique du sanctuaire antique du Premier Silorit"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie robuste, wasserdichte Stiefel und Regenschutzkleidung, um diese antiken Ruinen im Freien bei Nässe sicher zu erkunden.",
+                "hu": "Viseljen erős, vízálló csizmát és esőruházatot, hogy biztonságosan felfedezze ezeket a szabadtéri ősi romokat a nedves sárban.",
+                "ro": "Purtați cizme impermeabile robuste și haine de ploaie pentru a explora în siguranță aceste ruine antice în aer liber pe ploaie.",
+                "en": "Wear sturdy waterproof boots and full rain gear to safely explore these exposed outdoor ancient ruins in the wet and muddy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Sainte-Geneviève",
+                "hu": "Collégiale Sainte-Geneviève",
+                "ro": "Collégiale Sainte-Geneviève",
+                "en": "Collégiale Sainte-Geneviève"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in dieser beeindruckenden Stiftskirche, einem perfekten und trockenen Abschluss Ihrer nassen Radtour durch die Stadt.",
+                "hu": "Keressen menedéket ebben a lenyűgöző templomban, amely tökéletes, száraz lezárása a nedves és fárasztó kerékpáros túrájának.",
+                "ro": "Căutați adăpost în această impresionantă biserică colegială, un final perfect și uscat pentru plimbarea dumneavoastră umedă cu bicicleta.",
+                "en": "Take dry shelter inside this highly impressive collegiate church, forming a perfect and safe conclusion to your wet cycling ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich morgens warm ein für eine frische Radtour in Baccarat. Mittags bieten die Museen wunderbar beheizte Pausen zwischen den kalten Fahrten. Planen Sie am Nachmittag die archäologische Stätte rechtzeitig ein, um die eisigen Straßen nach dem Sonnenuntergang um 17:00 Uhr zu vermeiden. Genießen Sie abends die ruhige Winterstimmung.",
+            "hu": "Öltözzön fel melegen a reggeli, frissítő kerékpározáshoz Baccaratban. Délben a fűtött múzeumok csodás pihenőt nyújtanak a hideg tekerések között. Délután időzítse a romok látogatását úgy, hogy elkerülje a 17:00 órai naplemente utáni jeges utakat. Este élvezze a csendes, téli hangulatot.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare revigorantă de dimineață. La prânz, muzeele încălzite oferă pauze minunate între drumurile reci. După-amiaza, planificați situl arheologic devreme pentru a evita drumurile înghețate după apusul soarelui la 17:00. Seara, bucurați-vă de atmosfera liniștită.",
+            "en": "Bundle up for a brisk winter morning cycle through Baccarat. At midday, the heated museums provide wonderful warm breaks between rides. In the afternoon, visit the archaeological site early to avoid icy roads after the 17:00 sunset. Relax in the quiet, chilly winter evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Baccarat",
+                "hu": "Hôtel de Ville de Baccarat",
+                "ro": "Hôtel de Ville de Baccarat",
+                "en": "Hôtel de Ville de Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre eisige Fahrt hier; stellen Sie sicher, dass Sie warme Handschuhe haben, bevor Sie den eiskalten Fahrtwind spüren.",
+                "hu": "Kezdje a fagyos túrát itt; győződjön meg róla, hogy meleg kesztyűje és sálja van, mielőtt a jeges menetszél az arcába csapna.",
+                "ro": "Începeți plimbarea rece aici; asigurați-vă că aveți mănuși calde înainte de a simți vântul înghețat în timp ce pedalați.",
+                "en": "Begin your frosty ride here; ensure you have thick, warm gloves before feeling the freezing wind on your hands as you pedal."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat",
+                "hu": "Musée Baccarat",
+                "ro": "Musée Baccarat",
+                "en": "Musée Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer Rückzugsort im Innenbereich, um beim Lernen über die Kristallproduktion aufzutauen und die Körperwärme zu steigern.",
+                "hu": "Fantasztikus beltéri menedék, ahol felolvadhat és visszanyerheti a testhőmérsékletét, miközben a kristálygyártásról tanul.",
+                "ro": "Un refugiu fantastic în interior pentru a vă dezgheța și a vă crește temperatura corpului în timp ce învățați despre cristal.",
+                "en": "A fantastic indoor retreat to completely defrost and regain your body heat while learning about the fascinating crystal production."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat Collection",
+                "hu": "Musée Baccarat Collection",
+                "ro": "Musée Baccarat Collection",
+                "en": "Musée Baccarat Collection"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie drinnen warm und geschützt vor dem beißenden Wind, umgeben vom brillanten Glanz historischer Kristallstücke.",
+                "hu": "Maradjon bent, melegben és védve a metsző hideg széltől, miközben történelmi kristálydarabok ragyogó fénye veszi körül.",
+                "ro": "Rămâneți cald înăuntru și protejat de vântul tăios, înconjurat de strălucirea pieselor istorice din cristal de Baccarat.",
+                "en": "Stay comfortably warm inside and protected from the biting winter wind, surrounded by the brilliant glow of historic crystal pieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémy de Deneuvre",
+                "hu": "Église Saint-Rémy de Deneuvre",
+                "ro": "Église Saint-Rémy de Deneuvre",
+                "en": "Église Saint-Rémy de Deneuvre"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale, um sich auf dem Weg zu dieser historischen Kirche warm zu halten, bevor die extreme Kälte einsetzt.",
+                "hu": "Tekerjen tempósan, hogy melegen tartsa a testét az e történelmi templomhoz vezető úton, még a délutáni extrém hideg beállta előtt.",
+                "ro": "Pedalați energic pentru a vă menține cald pe drumul spre această biserică istorică, înainte să se instaleze frigul extrem de seară.",
+                "en": "Pedal briskly to keep your body temperature up on the way to this historical church, well before the extreme late afternoon cold sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "hu": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "ro": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "en": "Site archéologique du sanctuaire antique du Premier Silorit"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese antiken römischen Ruinen bei Tageslicht; tragen Sie warme Schichten, da das offene Gelände vor 17:00 Uhr sehr kalt wird.",
+                "hu": "Fedezze fel a római romokat napvilágnál; viseljen extra meleg rétegeket, mert a nyitott terep nagyon lehűl a 17:00-es sötétedés előtt.",
+                "ro": "Explorați aceste ruine romane cât este ziuă; purtați straturi calde, deoarece terenul deschis devine rece înainte de apusul de la 17:00.",
+                "en": "Explore these fascinating ancient ruins while the sun is still up; wear extra warm layers as this open field gets chilly before 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Sainte-Geneviève",
+                "hu": "Collégiale Sainte-Geneviève",
+                "ro": "Collégiale Sainte-Geneviève",
+                "en": "Collégiale Sainte-Geneviève"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre kalte Fahrt an dieser ruhigen, geschlossenen Kirche, bevor die dunkle und frostige Winternacht die Straßen übernimmt.",
+                "hu": "Fejezze be a hideg túrát ennél a csendes, zárt templomnál, mielőtt a sötét és fagyos téli éjszaka teljesen átvenné az uralmat az utakon.",
+                "ro": "Încheiați-vă plimbarea rece la această biserică liniștită și închisă, înainte ca noaptea întunecată și înghețată de iarnă să preia controlul.",
+                "en": "End your cold ride at this serene, enclosed church, safely getting off the roads before the dark and frosty winter night sets in fully."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje az autós napot a központi Városházánál, majd parkoljon le a lenyűgöző Musée Baccarat közelében. Délben vezessen délre, hogy felfedezze az ősi történelmet a régészeti szentélynél. Töltse a délutánt a Collégiale Sainte-Geneviève lenyűgöző építészetének csodálatával. Vezessen ki az eldugott Église Saint-Joseph-hez egy csendes estéért.",
         "ro": "Începeți ziua de condus la Hôtel de Ville, apoi parcați aproape de spectaculosul Musée Baccarat. La prânz, conduceți spre sud pentru a descoperi istoria antică la sanctuarul arheologic. Petreceți după-amiaza admirând arhitectura grandioasă a Collégiale Sainte-Geneviève. Conduceți la izolată Église Saint-Joseph pentru o seară liniștită.",
         "en": "Begin your driving day at the central Hôtel de Ville, then easily park near the spectacular Musée Baccarat to marvel at crystal artistry. By midday, drive south to uncover the ancient history at the archaeological sanctuary. Spend your afternoon admiring the grand architecture of Collégiale Sainte-Geneviève. Drive out to the secluded Église Saint-Joseph for a quiet, reflective evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens bequem durch den Regen und parken Sie nahe der Sehenswürdigkeiten. Verbringen Sie den Mittag in den fantastischen, trockenen Museen. Bewaffnen Sie sich am Nachmittag mit einem Regenschirm für die kurzen Wege vom Auto zu den historischen Stätten. Genießen Sie den verregneten Abend bei einer Fahrt durch die Stadt.",
+            "hu": "Reggel vezessen kényelmesen az esőben, a látványosságok közelében parkolva. A délutánt töltse a száraz, lenyűgöző múzeumokban. Később fegyverkezzen fel egy esernyővel a parkolótól a történelmi helyszínekig tartó rövid sétákhoz. Este élvezze az esős város fényeit a fűtött autóból.",
+            "ro": "Conduceți confortabil dimineața prin ploaie, parcând aproape de atracții. Petreceți prânzul în muzeele uscate și fantastice. După-amiaza, luați o umbrelă pentru scurtele plimbări de la mașină la siturile istorice. Seara, bucurați-vă de luminile orașului ploios din mașina caldă.",
+            "en": "Drive comfortably through the morning rain, parking close to the main sights. Spend midday exploring the fantastic, entirely dry museums. In the afternoon, grab an umbrella for the short walks from your car to the historical sites. Enjoy the rainy evening lights from your heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Baccarat",
+                "hu": "Hôtel de Ville de Baccarat",
+                "ro": "Hôtel de Ville de Baccarat",
+                "en": "Hôtel de Ville de Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem Komfort Ihres Autos oder unter einem stabilen Regenschirm, um den starken Regengüssen zu entgehen.",
+                "hu": "Csodálja meg a homlokzatot az autója kényelméből vagy egy erős esernyő alól, hogy elkerülje az erős felhőszakadást az utcán.",
+                "ro": "Admirați fațada din confortul mașinii dumneavoastră sau sub o umbrelă robustă pentru a evita ploile torențiale de afară.",
+                "en": "Admire the detailed facade from the dry comfort of your car or securely under a sturdy umbrella to completely avoid the heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat",
+                "hu": "Musée Baccarat",
+                "ro": "Musée Baccarat",
+                "en": "Musée Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie dieses trockene, faszinierende Museum der Kristallkunst, das einen perfekten Unterschlupf bietet.",
+                "hu": "Parkoljon a közelben, és lépjen be ebbe a száraz, lenyűgöző kristályművészeti múzeumba, amely tökéletes menedéket nyújt az eső elől.",
+                "ro": "Parcați în apropiere și intrați în acest muzeu uscat și fascinant de artă a cristalului, oferind un adăpost perfect împotriva ploii.",
+                "en": "Park conveniently nearby and step inside this totally dry, fascinating museum of crystal arts, offering a perfect rainy day shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "hu": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "ro": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "en": "Site archéologique du sanctuaire antique du Premier Silorit"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen großen Regenschirm und wasserdichte Schuhe für die kurze Erkundung dieser nassen historischen Ruinen im Freien mit.",
+                "hu": "Hozzon magával egy nagy esernyőt és vízálló cipőt ezeknek a nedves, szabadtéri történelmi romoknak a rövid, de saras felfedezéséhez.",
+                "ro": "Aduceți o umbrelă mare și încălțăminte impermeabilă pentru explorarea scurtă a acestor ruine istorice în aer liber pe vreme umedă.",
+                "en": "Bring a large golf umbrella and sturdy waterproof shoes for the short but muddy outdoor exploration of these wet historical ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Sainte-Geneviève",
+                "hu": "Collégiale Sainte-Geneviève",
+                "ro": "Collégiale Sainte-Geneviève",
+                "en": "Collégiale Sainte-Geneviève"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto in diese wunderschöne, geschützte Stiftskirche, um dem unerbittlichen Regenwetter draußen zu entkommen.",
+                "hu": "Egy rövid sprint az autótól ebbe a gyönyörű, védett templomba, hogy elmeneküljön a kinti könyörtelen esős, viharos időjárás elől.",
+                "ro": "Un sprint scurt de la mașină în această biserică colegială frumoasă și protejată, pentru a scăpa de vremea ploioasă necruțătoare.",
+                "en": "Make a quick dash from your parked car into this beautiful, completely sheltered collegiate church to escape the relentless rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Église Saint-Joseph",
+                "ro": "Église Saint-Joseph",
+                "en": "Église Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre regnerische Fahrt mit der friedlichen Innenatmosphäre dieser Kirche ab, bevor Sie sicher zu Ihrer Unterkunft zurückfahren.",
+                "hu": "Zárja esős autózását ennek a templomnak a békés, fedett légkörével, mielőtt biztonságosan visszavezetne a meleg szálláshelyére.",
+                "ro": "Încheiați-vă drumul ploios cu atmosfera interioară pașnică a acestei biserici, înainte de a conduce în siguranță înapoi la cazare.",
+                "en": "Conclude your rainy driving tour with the peaceful, dry indoor ambiance of this quiet church before safely driving back to your hotel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie morgens die Heizung Ihres Autos zwischen den kalten Stopps. Mittags können Sie sich in den warmen Museen entspannen. Besuchen Sie nachmittags unbedingt die archäologische Stätte, bevor die Sonne um 17:00 Uhr untergeht. Genießen Sie den dunklen Winterabend entspannt auf dem Heimweg.",
+            "hu": "Reggel élvezze az autó fűtését a hideg megállók között. Délben pihenjen és melegedjen fel a fűtött múzeumokban. Délután feltétlenül látogassa meg a romokat, még a 17:00 órai naplemente előtt, nehogy sötétben botorkáljon. Este vezessen haza a békés, sötét téli tájon.",
+            "ro": "Folosiți încălzirea mașinii dimineața între opririle reci. La prânz, relaxați-vă în muzeele calde. După-amiaza, asigurați-vă că vizitați situl arheologic înainte ca soarele să apună la ora 17:00. Seara, conduceți relaxat spre casă în peisajul liniștit de iarnă.",
+            "en": "Utilize your car's heater this morning between the freezing outdoor stops. At midday, relax inside the warm museums. In the afternoon, make absolutely sure to visit the archaeological site before the sun sets at 17:00. Enjoy a relaxed drive home in the dark winter evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville de Baccarat",
+                "hu": "Hôtel de Ville de Baccarat",
+                "ro": "Hôtel de Ville de Baccarat",
+                "en": "Hôtel de Ville de Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Architektur zu sehen, bevor Sie sich in Ihr beheiztes Fahrzeug zurückziehen, um den kalten Winterwinden zu entgehen.",
+                "hu": "Egy rövid megálló az építészet megtekintésére, mielőtt visszavonulna a fűtött autójába, elkerülve a csípős téli szeleket.",
+                "ro": "O scurtă oprire pentru a vedea arhitectura înainte de a vă retrage în vehiculul încălzit, evitând vânturile reci de iarnă.",
+                "en": "A brief stop to see the architecture before quickly retreating to your heated vehicle, perfectly avoiding the freezing winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Baccarat",
+                "hu": "Musée Baccarat",
+                "ro": "Musée Baccarat",
+                "en": "Musée Baccarat"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Ihren extrem kalten Vormittag drinnen in diesem warmen Museum und bestaunen Sie die funkelnde Kristallgeschichte.",
+                "hu": "Töltse az extrém hideg délelőttöt bent ebben a meleg múzeumban, és csodálja meg a csillogó, évszázados kristálytörténelmet.",
+                "ro": "Petreceți dimineața extrem de rece în interiorul acestui muzeu cald, minunându-vă de istoria strălucitoare a cristalului.",
+                "en": "Spend your extremely cold morning safely indoors at this warm museum, marveling at the sparkling and luxurious crystal history."
+              }
+            },
+            {
+              "name": {
+                "de": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "hu": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "ro": "Site archéologique du sanctuaire antique du Premier Silorit",
+                "en": "Site archéologique du sanctuaire antique du Premier Silorit"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich gut ein für eine kurze Tour durch diese Ruinen im Freien, bevor es nach Sonnenuntergang gegen 17:00 Uhr bitterkalt wird.",
+                "hu": "Öltözzön fel nagyon vastagon ezeknek a szabadtéri romoknak a rövid bejárásához, mielőtt a 17:00 órai naplemente után keservesen hideg lesz.",
+                "ro": "Îmbrăcați-vă bine pentru un scurt tur al acestor ruine în aer liber, înainte să devină extrem de frig după apusul soarelui la 17:00.",
+                "en": "Bundle up very well for a quick outdoor tour of these ruins before the temperature drops bitterly cold after the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Sainte-Geneviève",
+                "hu": "Collégiale Sainte-Geneviève",
+                "ro": "Collégiale Sainte-Geneviève",
+                "en": "Collégiale Sainte-Geneviève"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in dieser historisch bedeutsamen und architektonisch atemberaubenden Kirche auf, nachdem Sie der eisigen Kälte getrotzt haben.",
+                "hu": "Melegedjen fel ebben a történelmileg jelentős és építészetileg lenyűgöző templomban, miután dacolt a kinti fagyos hideggel.",
+                "ro": "Încălziți-vă în această biserică cu o semnificație istorică și arhitectură uimitoare, după ce ați înfruntat frigul înghețat.",
+                "en": "Warm up inside this historically significant and architecturally stunning church right after braving the freezing temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Joseph",
+                "hu": "Église Saint-Joseph",
+                "ro": "Église Saint-Joseph",
+                "en": "Église Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Stopp, um Ihren Winterausflug zu beenden, wenn die Dämmerung hereinbricht und die Straßen dunkel und eisig werden.",
+                "hu": "Egy csendes, meleg megálló a téli kirándulás befejezéséhez, ahogy leszáll az alkonyat, és az utak sötétté és jegessé válnak.",
+                "ro": "O oprire liniștită și caldă pentru a vă încheia excursia de iarnă pe măsură ce se lasă amurgul, iar drumurile devin întunecate.",
+                "en": "A quiet, highly insulated warm stop to end your winter day trip just as dusk falls and the outside roads become dark and icy."
+              }
+            }
+          ]
+        }
       }
     }
   }

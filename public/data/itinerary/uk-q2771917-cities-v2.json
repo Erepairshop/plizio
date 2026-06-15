@@ -160,6 +160,196 @@
         "hu": "A reggel a St. Paul's templom békés meglátogatásával kezdődik, ahol a gyönyörű építészet elgondolkodtató hangulatot teremt. Egy rövid séta elviszi a The Peelhez, elmerülve a helyi történelemben.\n\nA délben az Oak House meglátogatása következik, egy újabb történelmi gyöngyszem, amely mély bepillantást nyújt a régió múltjába. Ezután a Lisieux-i Szent Teréz templom felé vesszük az irányt.\n\nA délután egy lazább és családbarátabb tempóra vált, amikor megérkezik a helyi játszótérre. Ez egy nagyszerű hely a pihenésre, miközben a legkisebbek szabadon játszhatnak a friss levegőn.\n\nAz este egy elragadó parti befejezéssel közeledik a Surfside Cafe minigolfpályájánál. Élvezze a barátságos versengést és egy jól megérdemelt finomságot a kellemes sétaút lezárásaként.",
         "ro": "Dimineața începe cu o vizită senină la St. Paul's, unde arhitectura frumoasă creează o atmosferă reflexivă. O scurtă plimbare vă duce la The Peel, cufundându-vă în istoria locală fascinantă.\n\nLa prânz veți vizita Oak House, o altă bijuterie istorică ce oferă o perspectivă profundă asupra trecutului. Apoi ne îndreptăm spre Biserica Sf. Tereza de Lisieux pentru un moment de liniște.\n\nDupă-amiaza trece la un ritm mai relaxat și familial pe măsură ce ajungeți la locul de joacă pentru copii. Este un loc minunat pentru a vă odihni și a lăsa copiii să se joace liber.\n\nSeara se apropie cu un final încântător pe coastă la Surfside Cafe Crazy Golf. Bucurați-vă de o competiție amicală și de o gustare bine meritată pentru a încheia acest tur pietonal relaxant.",
         "en": "Morning begins with a serene visit to St. Paul's, where beautiful architecture sets a reflective tone. A short stroll takes you to The Peel, immersing you in the local history.\n\nMidday features a visit to Oak House, another historical gem offering deep insights into the region's past. We then move towards the Church of St Teresa of Lisieux for a quiet moment.\n\nThe afternoon shifts to a more relaxed and family-friendly pace as you arrive at the local Children's Play Area. It's a great spot to rest and let the younger ones play.\n\nEvening approaches with a delightful coastal finish at the Surfside Cafe Crazy Golf. Enjoy some friendly competition and a well-deserved treat to conclude your leisurely walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der St. Paul's Kirche. Mittags bieten historische Gebäude wie das Oak House perfekten Unterschlupf vor dem Regen. Am Nachmittag führt der Weg entlang der Küste, wo festes Schuhwerk und Schirme bei der frischen Brise unerlässlich sind. Der Abend klingt gemütlich aus, während die nassen Straßen das Licht der Stadt sanft reflektieren.",
+            "hu": "A reggel esőben indul a templomnál, ahol a tető védelmet nyújt a készülődéshez. Délben a történelmi falak és az Oak House belső terei kínálnak menedéket a zápor elől. Délután a tengerparti szakaszon elkél a vízálló cipő és a stabil esernyő a szeles időben. Estére a városi fények megcsillannak a vizes aszfalton, mielőtt befejeznénk a sétát.",
+            "ro": "Dimineața începe la adăpostul bisericii St. Paul, feriți de picăturile de ploaie. La prânz, clădirile istorice oferă refugiul perfect pentru a explora fără a vă uda. După-amiaza, plimbarea pe coastă necesită încălțăminte impermeabilă și o umbrelă rezistentă la vânt. Seara se încheie liniștit, în timp ce luminile orașului se oglindesc frumos pe străzile umede.",
+            "en": "The morning starts under the shelter of the church porch while preparing for the day. At midday, historical sites like Oak House provide the perfect refuge from the downpour. In the afternoon, the coastal walk requires waterproof boots and a sturdy umbrella against the breeze. By evening, the wet streets reflect the city lights beautifully as we conclude our stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Paul's",
+                "hu": "St. Paul's",
+                "ro": "St. Paul's",
+                "en": "St. Paul's"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster im Inneren, während draußen der Regen prasselt; der Eingangsbereich bietet einen trockenen Ort zum Sammeln.",
+                "hu": "Csodáld meg a színes üvegablakokat belülről, miközben kint kopog az eső; a bejáratnál fedett helyen készülhetsz fel a következő szakaszra.",
+                "ro": "Admirați vitraliile din interior în timp ce ploaia bate în geam; pridvorul oferă un loc uscat pentru a vă organiza traseul următor.",
+                "en": "Admire the stained glass windows from inside while the rain patters outside; the porch provides a dry spot to plan your next move."
+              }
+            },
+            {
+              "name": {
+                "de": "The Peel",
+                "hu": "The Peel",
+                "ro": "The Peel",
+                "en": "The Peel"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken im Regen besonders mystisch; achten Sie auf die rutschigen Steine auf dem Weg zum Gebäude.",
+                "hu": "A történelmi falak különösen misztikusak az esőben; ügyelj a csúszós kövekre a bejárat felé vezető rövid úton.",
+                "ro": "Zidurile istorice par deosebit de mistice în ploaie; aveți grijă la pietrele alunecoase de pe poteca spre clădire.",
+                "en": "The historical walls look particularly mystical in the rain; watch out for slippery stones on the short path to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Oak House",
+                "hu": "Oak House",
+                "ro": "Oak House",
+                "en": "Oak House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt im Inneren für eine ausführliche Besichtigung, um dem stärksten Regen des Tages zu entgehen.",
+                "hu": "Használd ki a belső teret egy alaposabb nézelődésre, így elkerülheted a nap leghevesebb esőzését a fedél alatt.",
+                "ro": "Profită de interior pentru o vizită detaliată, evitând astfel cea mai densă ploaie a zilei sub acoperișul solid.",
+                "en": "Take advantage of the interior for a more detailed tour, avoiding the heaviest rain of the day under a solid roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of St Teresa of Lisieux",
+                "hu": "Church of St Teresa of Lisieux",
+                "ro": "Church of St Teresa of Lisieux",
+                "en": "Church of St Teresa of Lisieux"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre im Inneren lädt zur Besinnung ein, während man die Regenkleidung kurz ausschütteln kann.",
+                "hu": "A belső csendes atmoszféra tökéletes az elmélyüléshez, miközben az esőkabátodról is lerázhatod a vizet egy percre.",
+                "ro": "Atmosfera liniștită din interior invită la meditație, oferind și șansa de a vă scutura puțin haina de ploaie.",
+                "en": "The quiet atmosphere inside is perfect for reflection, also giving you a chance to shake off your raincoat for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Children's Play Area",
+                "hu": "Children's Play Area",
+                "ro": "Children's Play Area",
+                "en": "Children's Play Area"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Geräte oft nass; suchen Sie die überdachten Bereiche auf oder tragen Sie wasserfeste Spielkleidung.",
+                "hu": "Esőben a játékok vizesek lehetnek; keresd a fedettebb részeket, vagy használj teljesen vízálló öltözetet a gyerekeknek.",
+                "ro": "În caz de ploaie, echipamentele pot fi ude; căutați zonele mai adăpostite sau folosiți haine de joacă impermeabile.",
+                "en": "In the rain, equipment may be wet; look for sheltered areas or use fully waterproof play gear for the little ones."
+              }
+            },
+            {
+              "name": {
+                "de": "Surfside Cafe Crazy Golf",
+                "hu": "Surfside Cafe Crazy Golf",
+                "ro": "Surfside Cafe Crazy Golf",
+                "en": "Surfside Cafe Crazy Golf"
+              },
+              "tip_5lang": {
+                "de": "Das angrenzende Café ist der ideale Ort, um sich nach dem Spiel aufzuwärmen und den Blick auf das regnerische Meer zu genießen.",
+                "hu": "A szomszédos kávézó ideális hely a játék utáni felmelegedéshez, miközben az esős tengerparti látványban gyönyörködsz.",
+                "ro": "Cafeneaua adiacentă este locul ideal pentru a vă încălzi după joc, admirând marea sub stropii de ploaie.",
+                "en": "The adjacent cafe is the ideal spot to warm up after the game while enjoying the rainy coastal view through the glass."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der St. Paul's Kirche mit klarer Luft. Mittags wärmen wir uns in den historischen Räumen des Oak House auf, bevor die Sonne tiefer sinkt. Am Nachmittag genießen wir das goldene Winterlicht am Spielplatz, müssen aber die frühe Dämmerung beachten. Der Abend bricht gegen 17:00 Uhr herein und hüllt die Stadt in gemütliches Dunkel.",
+            "hu": "Friss téli reggel indul a templomnál, a csípős levegő gyorsabb tempóra ösztönöz. Délben az Oak House történelmi falai között melegszünk fel, mielőtt a nap lejjebb ereszkedne. Délután a téli napfényben fürdő játszótéren időzünk, de figyelnünk kell a korai sötétedésre. Este 5 óra körül már leszáll az éj, meghitt hangulatot árasztva.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserica St. Paul, cu aer curat și tăios. La prânz ne încălzim în interiorul istoric de la Oak House înainte ca soarele să coboare. După-amiaza ne bucurăm de lumina aurie de iarnă la locul de joacă, dar trebuie să fim atenți la amurgul timpuriu. Seara se așterne deja în jurul orei 17:00, aducând o atmosferă primitoare.",
+            "en": "A crisp winter morning starts at St. Paul's Church with sharp, clear air. At midday, we warm up inside the historical Oak House before the sun starts to dip. In the afternoon, we enjoy the golden winter light at the play area, but we must watch the early sunset. By 5 PM, darkness sets in, wrapping the town in a cozy, nocturnal atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Paul's",
+                "hu": "St. Paul's",
+                "ro": "St. Paul's",
+                "en": "St. Paul's"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Glätte auf den Stufen; das warme Licht im Inneren bietet einen angenehmen Kontrast zur Kälte draußen.",
+                "hu": "Figyelj az esetleges jegesedésre a lépcsőkön; a belső tér meleg fényei kellemes kontrasztot nyújtanak a kinti hideggel.",
+                "ro": "Atenție la eventualul polei de pe trepte; luminile calde din interior oferă un contrast plăcut cu frigul de afară.",
+                "en": "Watch out for potential ice on the steps; the warm interior lighting offers a pleasant contrast to the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "The Peel",
+                "hu": "The Peel",
+                "ro": "The Peel",
+                "en": "The Peel"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume um das Gebäude ermöglichen im Winter einen freien Blick auf die Architektur; ziehen Sie sich warm an.",
+                "hu": "A kopár fák télen szabadabb kilátást engednek az épület építészetére; öltözz rétegesen a külső szemlélődéshez.",
+                "ro": "Copacii golași permit iarna o vedere mai clară asupra arhitecturii clădirii; îmbrăcați-vă gros pentru exterior.",
+                "en": "The bare trees allow for a clearer view of the architecture in winter; dress in layers for the outdoor exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Oak House",
+                "hu": "Oak House",
+                "ro": "Oak House",
+                "en": "Oak House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre der historischen Räume, die an kalten Tagen besonders einladend wirken.",
+                "hu": "Élvezd a történelmi szobák meghitt hangulatát, amelyek a hideg téli napokon különösen marasztalóak.",
+                "ro": "Bucurați-vă de atmosfera primitoare a camerelor istorice, care par extrem de confortabile în zilele reci.",
+                "en": "Enjoy the cozy atmosphere of the historical rooms, which feel especially welcoming on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of St Teresa of Lisieux",
+                "hu": "Church of St Teresa of Lisieux",
+                "ro": "Church of St Teresa of Lisieux",
+                "en": "Church of St Teresa of Lisieux"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille im windgeschützten Inneren hilft, die Hände aufzuwärmen und neue Energie zu tanken.",
+                "hu": "Egy rövid csendes pillanat a szélvédett belső térben segít átmelegíteni a kezeidet és új energiát gyűjteni.",
+                "ro": "Un scurt moment de liniște în interiorul ferit de vânt vă ajută să vă încălziți mâinile și să vă reîncărcați bateriile.",
+                "en": "A short quiet moment in the wind-sheltered interior helps warm your hands and recharge your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Children's Play Area",
+                "hu": "Children's Play Area",
+                "ro": "Children's Play Area",
+                "en": "Children's Play Area"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 15:30 Uhr, um das restliche Tageslicht auszunutzen, da es im Winter schnell abkühlt.",
+                "hu": "Tervezd a látogatást délután fél 4 előttre, hogy kihasználd a maradék fényt, mert télen hamar hűlni kezd a levegő.",
+                "ro": "Planificați vizita înainte de ora 15:30 pentru a profita de lumină, deoarece iarna temperatura scade rapid spre seară.",
+                "en": "Plan your visit before 3:30 PM to make the most of the remaining daylight, as it cools down quickly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Surfside Cafe Crazy Golf",
+                "hu": "Surfside Cafe Crazy Golf",
+                "ro": "Surfside Cafe Crazy Golf",
+                "en": "Surfside Cafe Crazy Golf"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie nach einer schnellen Runde Golf einen heißen Kakao im Café, um den frühen Sonnenuntergang über dem Meer zu beobachten.",
+                "hu": "Egy gyors kör golf után igyál egy forró kakaót a kávézóban, és nézd meg a tenger feletti korai naplementét.",
+                "ro": "După o rundă rapidă de golf, savurați o ciocolată caldă la cafenea și priviți apusul timpuriu peste mare.",
+                "en": "After a quick round of golf, have a hot cocoa at the cafe and watch the early sunset over the sea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggel egy energikus tekeréssel kezdődik a Gwrych kastélyhoz, amely megadja a nap fenséges alaphangját. Innen az ősi Castell Cawr felé indul, hogy lenyűgöző kilátásban legyen része.\n\nDélben visszaereszkedik a városba, hogy megcsodálja a St. Paul's templom építészetét. Az útvonal ezután a helyi Szent Fát körülvevő misztikus legendák felfedezésére csábítja.\n\nDélután a tempó lelassul, ahogy átteker a The Warren gyönyörű természeti területén, amely tökéletes a vadvilág megfigyelésére és a fák árnyékában való csendes, nyugodt kikapcsolódásra.\n\nAz esti utazás a Szent György-templomot körülvevő csendes faluban ér véget. Ez egy békés, elgondolkodtató befejezése az aktív kerékpáros napnak a történelem és a zöld tájak között.",
         "ro": "Dimineața începe cu o plimbare plină de energie până la Castelul Gwrych, stabilind un ton maiestuos. De acolo, veți pedala spre anticul Castell Cawr pentru priveliști uimitoare.\n\nPână la prânz, coborâți înapoi spre oraș pentru a admira arhitectura bisericii St. Paul's. Traseul vă duce apoi să descoperiți legendele mistice care înconjoară Arborele Sacru.\n\nDupă-amiaza, ritmul încetinește pe măsură ce pedalați prin The Warren, o întindere naturală superbă, perfectă pentru a observa fauna sălbatică și a vă bucura de briza blândă pe poteci.\n\nCălătoria de seară se încheie în satul liniștit din jurul Bisericii Sf. Gheorghe. Este un final pașnic și reflexiv al unei zile active de ciclism prin istoria bogată și peisajele verzi.",
         "en": "The morning begins with an energetic ride up to Gwrych Castle, setting a majestic tone for the day. From there, you'll cycle towards the ancient Castell Cawr for breathtaking views.\n\nBy midday, you descend back towards town to admire the architecture at St. Paul's. The route then takes you to uncover the mystical legends surrounding the local Sacred Tree.\n\nIn the afternoon, the pace slows as you pedal through The Warren, a beautiful natural expanse perfect for wildlife spotting and enjoying a gentle breeze along the tree-lined paths.\n\nThe evening ride concludes in the quiet village surrounding St. George's Church. It’s a peaceful, reflective end to an active day of cycling through rich history and green landscapes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am Gwrych Castle, wo die Auffahrt bei Regen rutschig sein kann. Mittags bieten Kirchen wie St. Paul's eine willkommene Pause im Trockenen. Am Nachmittag führen die Wege durch bewaldete Gebiete, die vor dem stärksten Wind schützen. Der Abend endet nach einer vorsichtigen Fahrt auf nassen Straßen mit einer gründlichen Reinigung des Fahrrads vom Schlamm.",
+            "hu": "A bringatúra a Gwrych várnál indul, ahol az esőben csúszós lehet az emelkedő. Délben a St. Paul templom és más megállók nyújtanak száraz pihenőt az út mentén. Délután az erdősebb szakaszok védenek a legerősebb széltől, de vigyázz a tócsákra. Az este a vizes utakon való óvatos tekerés után a sár letakarításával végződik a kerékpárról.",
+            "ro": "Turul ciclist începe la Castelul Gwrych, unde urcarea poate fi alunecoasă pe ploaie. La prânz, bisericile precum St. Paul oferă o pauză binemeritată la uscat. După-amiaza, traseele prin zonele împădurite vă protejează de vântul puternic. Seara se încheie după o rulare prudentă pe drumuri ude, cu o curățare necesară a bicicletei de noroi.",
+            "en": "The bike tour starts at Gwrych Castle, where the climb can be slippery in the rain. At midday, churches like St. Paul's offer a welcome break in the dry. In the afternoon, the wooded sections protect you from the strongest winds. The evening ends after a cautious ride on wet roads with a thorough cleaning of the mud off your bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gwrych Castle",
+                "hu": "Gwrych Castle",
+                "ro": "Gwrych Castle",
+                "en": "Gwrych Castle"
+              },
+              "tip_5lang": {
+                "de": "Die dramatischen Ruinen sehen im Regen beeindruckend aus; parken Sie das Rad sicher und meiden Sie steile, schlammige Pfade.",
+                "hu": "A drámai romok lenyűgözőek az esőben; parkold le biztonságosan a bringát, és kerüld a meredek, sáros ösvényeket.",
+                "ro": "Ruinele dramatice arată impresionant în ploaie; parcați bicicleta în siguranță și evitați potecile abrupte și noroioase.",
+                "en": "The dramatic ruins look impressive in the rain; park your bike securely and avoid steep, muddy paths during the exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Cawr",
+                "hu": "Castell Cawr",
+                "ro": "Castell Cawr",
+                "en": "Castell Cawr"
+              },
+              "tip_5lang": {
+                "de": "Der bewaldete Hügel bietet etwas Schutz vor Regen, aber die Wurzeln auf dem Weg können für Reifen sehr tückisch sein.",
+                "hu": "Az erdős domboldal némi védelmet nyújt az eső ellen, de az úton lévő gyökerek nagyon csalókák lehetnek a gumiknak.",
+                "ro": "Dealul împădurit oferă o oarecare protecție împotriva ploii, dar rădăcinile de pe drum pot fi foarte înșelătoare pentru anvelope.",
+                "en": "The wooded hill offers some protection from the rain, but the roots on the path can be very treacherous for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Paul's",
+                "hu": "St. Paul's",
+                "ro": "St. Paul's",
+                "en": "St. Paul's"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um kurz zu verschnaufen und die Bremsen Ihres Fahrrads zu überprüfen.",
+                "hu": "Használd a fedett bejáratot egy rövid pihenőre, és ellenőrizd a fékeidet a vizes útszakaszok előtt.",
+                "ro": "Folosiți intrarea acoperită pentru un scurt popas și verificați-vă frânele înainte de următoarele porțiuni umede.",
+                "en": "Use the sheltered entrance for a quick breather and check your brakes before the next wet stretches of road."
+              }
+            },
+            {
+              "name": {
+                "de": "Sacred Tree/witches circle",
+                "hu": "Sacred Tree/witches circle,",
+                "ro": "Sacred Tree/witches circle",
+                "en": "Sacred Tree/witches circle"
+              },
+              "tip_5lang": {
+                "de": "Das mystische Ambiente wird durch Nebel und Regen verstärkt; stellen Sie sicher, dass Ihre Beleuchtung am Rad gut sichtbar ist.",
+                "hu": "A misztikus hangulatot csak fokozza a köd és az eső; győződj meg róla, hogy a kerékpárvilágításod jól látható a szürkületben.",
+                "ro": "Ambiția mistică este sporită de ceață și ploaie; asigurați-vă că luminile bicicletei sunt bine vizibile în vizibilitate redusă.",
+                "en": "The mystical ambience is enhanced by mist and rain; make sure your bike lights are clearly visible in the low light."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren",
+                "hu": "The Warren",
+                "ro": "The Warren",
+                "en": "The Warren"
+              },
+              "tip_5lang": {
+                "de": "Die sandigen Wege können bei Nässe schwer befahrbar sein; wählen Sie den festesten Untergrund für eine sicherere Fahrt.",
+                "hu": "A homokos ösvények vizesen nehezebben tekerhetőek; válaszd a legkeményebb talajt a biztonságosabb haladás érdekében.",
+                "ro": "Potecile nisipoase pot fi greu de parcurs când sunt ude; alegeți cel mai ferm teren pentru o rulare mai sigură.",
+                "en": "The sandy paths can be harder to cycle when wet; choose the firmest ground for a safer and easier ride."
+              }
+            },
+            {
+              "name": {
+                "de": "St. George's Church",
+                "hu": "St. George's Church",
+                "ro": "St. George's Church",
+                "en": "St. George's Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Moment der Ruhe im Inneren, während das Fahrrad draußen im Regen kurz „abgewaschen“ wird.",
+                "hu": "Zárd a túrát egy csendes pillanattal odabent, miközben a bringádat kint az eső „mossa le” egy kicsit.",
+                "ro": "Încheiați turul cu un moment de liniște în interior, în timp ce ploaia de afară vă „spală” puțin bicicleta.",
+                "en": "End the tour with a quiet moment inside, while the rain outside gives your bike a bit of a natural rinse."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet am frostigen Gwrych Castle. Mittags erreichen wir den Witches Circle, wo die tiefstehende Sonne lange Schatten wirft. Am Nachmittag radeln wir zügig durch The Warren, um die Körperwärme zu halten, bevor das Licht schwindet. Die Tour endet bei Einbruch der Dunkelheit um 17:00 Uhr an der St. George's Church, Zeit für warme Kleidung.",
+            "hu": "A téli bringázás a fagyos Gwrych várnál indul, a hideg menetszél ellen érdemes arcmaszkot húzni. Délben a Witches Circle-nél a laposan járó nap hosszú árnyékokat vet. Délután tempósan haladunk a The Warren területén, hogy tartsuk a testhőt a sötétedés előtt. A túra 5-kor ér véget a St. George templomnál, már lámpafénynél.",
+            "ro": "Turul de iarnă începe la Castelul Gwrych înghețat, vântul rece impunând o protecție adecvată a feței. La prânz, soarele jos proiectează umbre lungi la Witches Circle. După-amiaza pedalăm susținut prin The Warren pentru a ne menține căldura înainte de amurg. Turul se încheie la ora 17:00 la biserica St. George, deja sub lumina farurilor.",
+            "en": "The winter cycling tour starts at a frosty Gwrych Castle, requiring good face protection against the cold wind. At midday, the low sun casts long shadows at the Witches Circle. In the afternoon, we pedal briskly through The Warren to keep body heat up before dark. The tour ends at 5 PM at St. George's Church, already under the beam of our bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gwrych Castle",
+                "hu": "Gwrych Castle",
+                "ro": "Gwrych Castle",
+                "en": "Gwrych Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Mauern glänzen oft silbrig von Reif; tragen Sie Thermo-Handschuhe für den kalten Lenker während der Abfahrt.",
+                "hu": "A falak gyakran ezüstösen csillognak a dértől; viselj termokesztyűt a hideg kormányhoz a lejtmenet során.",
+                "ro": "Zidurile strălucesc adesea argintiu de la brumă; purtați mănuși termice pentru ghidonul rece în timpul coborârii.",
+                "en": "The walls often glisten silver with frost; wear thermal gloves for the cold handlebars during the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Cawr",
+                "hu": "Castell Cawr",
+                "ro": "Castell Cawr",
+                "en": "Castell Cawr"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt den Körper auf, aber oben zieht der Wind stärker; eine winddichte Jacke ist hier im Winter Pflicht.",
+                "hu": "Az emelkedő segít bemelegedni, de fent erősebb a szél; egy szélálló dzseki itt kötelező viselet télen.",
+                "ro": "Urcarea vă ajută să vă încălziți, dar sus vântul suflă mai tare; o jachetă rezistentă la vânt este obligatorie aici iarna.",
+                "en": "The climb helps you warm up, but the wind is stronger at the top; a windproof jacket is a must-wear here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Paul's",
+                "hu": "St. Paul's",
+                "ro": "St. Paul's",
+                "en": "St. Paul's"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Trinkpause aus der Thermoskanne, geschützt vor dem kalten Winterwind hinter den Mauern.",
+                "hu": "Ideális hely egy rövid teázásra a termoszból, a falak védelmében a hideg téli szél elől.",
+                "ro": "Un loc ideal pentru o scurtă pauză de ceai din termos, protejați de vântul rece de iarnă în spatele zidurilor.",
+                "en": "An ideal spot for a short tea break from your thermos, sheltered from the cold winter wind behind the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Sacred Tree/witches circle",
+                "hu": "Sacred Tree/witches circle,",
+                "ro": "Sacred Tree/witches circle",
+                "en": "Sacred Tree/witches circle"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht verleiht dem Ort eine besondere Ruhe; beeilen Sie sich, da der schattige Waldabschnitt schneller auskühlt.",
+                "hu": "A téli fények különleges nyugalmat árasztanak itt; ne időzz túl sokat, mert az árnyékos erdő hamarabb lehűl.",
+                "ro": "Lumina de iarnă oferă locului o liniște aparte; nu zăboviți prea mult, deoarece zona umbrită a pădurii se răcește rapid.",
+                "en": "The winter light gives this spot a special calm; don't linger too long as the shaded forest section cools down faster."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren",
+                "hu": "The Warren",
+                "ro": "The Warren",
+                "en": "The Warren"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Wege sind meist fester als im Sommer; genießen Sie die klare Sicht über die winterliche Küstenlandschaft.",
+                "hu": "A fagyott ösvények gyakran szilárdabbak, mint nyáron; élvezd a tiszta kilátást a téli tengerparti tájra.",
+                "ro": "Potecile înghețate sunt adesea mai ferme decât vara; bucurați-vă de vizibilitatea clară asupra peisajului de coastă.",
+                "en": "The frozen paths are often firmer than in summer; enjoy the clear views over the winter coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "St. George's Church",
+                "hu": "St. George's Church",
+                "ro": "St. George's Church",
+                "en": "St. George's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Licht für ein Foto der Kirche; schalten Sie für die Heimfahrt unbedingt alle Reflektoren ein.",
+                "hu": "Használd ki az utolsó fényeket egy fotóhoz; a hazaútra mindenképpen kapcsold be az összes fényvisszaverőt.",
+                "ro": "Profită de ultima lumină pentru o fotografie; pentru drumul spre casă, asigurați-vă că toate elementele reflectorizante sunt active.",
+                "en": "Use the last bit of light for a photo; make sure all your reflectors are visible for the ride home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Az autós utazás a vidéken kezdődik a Plas-uchaf víztározó frissítő meglátogatásával. A hatalmas vízfelület és a csendes légkör tökéletes reggeli kikapcsolódást kínál mindenkinek.\n\nDélben egy rövid autózás a békés Dolwen víztározóhoz vezet további természeti szépségekért. Ezután észak felé haladva áttér a nyílt vizektől a Szent György-templom történelmi környezetébe.\n\nA délután a Gwrych kastély nagyszerűségének felfedezésének van szentelve. A birtokhoz vezető kanyargós utak lélegzetelállító kilátást nyújtanak a tengerpartra és magukra a kiterjedt romokra.\n\nAz este leszálltával az út a Knightly's Fun Park nyüzsgő atmoszférájába vezet. Ez egy fantasztikus, energikus hely, ahol megünnepelheti egy hosszú, festői autózás végét a barátokkal.",
         "ro": "Călătoria începe în mediul rural profund cu o vizită revigorantă la Rezervorul Plas-uchaf. Apele întinse și atmosfera liniștită oferă o evadare perfectă în această dimineață.\n\nConducerea la prânz vă duce la liniștitul rezervor Dolwen pentru și mai multă frumusețe naturală. Apoi veți merge spre nord, trecând spre cadrul istoric al Bisericii Sf. Gheorghe.\n\nDupă-amiaza este dedicată explorării măreției Castelului Gwrych. Drumurile întortocheate până la moșie dezvăluie vederi uluitoare ale coastei și ale ruinelor întinse de pe deal.\n\nPe măsură ce se lasă seara, traseul duce la atmosfera vibrantă din Knightly's Fun Park. Este o locație fantastică pentru a sărbători sfârșitul unei călătorii pitorești cu familia.",
         "en": "The road trip begins in the deep countryside with a refreshing visit to the Plas-uchaf Reservoir. The sweeping waters and quiet atmosphere offer a perfect morning escape.\n\nMidday driving takes you a short distance to the tranquil Dolwen Reservoir for further natural beauty. You'll then cruise northward, transitioning from open waters to the historic setting of St. George's Church.\n\nThe afternoon is dedicated to exploring the grandeur of Gwrych Castle. The winding roads up to the estate reveal breathtaking views of the coastline and the sprawling ruins themselves.\n\nAs evening falls, the route leads to the vibrant atmosphere of Knightly's Fun Park. It's a fantastic, high-energy location to celebrate the end of a long, scenic drive with family and friends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt entspannt an den Stauseen, wo man den Regen bequem vom Auto aus beobachten kann. Mittags erreichen wir historische Orte, wobei die kurzen Wege zwischen Parkplatz und Eingang ideal für nasses Wetter sind. Am Nachmittag bietet der Fun Park überdachte Attraktionen. Der Abend endet mit einer sicheren Fahrt über die vom Regen glänzenden Landstraßen zurück.",
+            "hu": "Az út kényelmesen indul a víztározóknál, ahol az autóból nézheted az eső áztatta tájat. Délben a történelmi helyszínek rövid sétára vannak a parkolótól, így alig ázol meg. Délután a vidámpark fedett részei kínálnak szórakozást. Az este biztonságos vezetéssel zárul az esőtől csillogó országutakon a szállás felé.",
+            "ro": "Călătoria începe relaxat la rezervoare, admirând peisajul ploios din confortul mașinii. La prânz vizităm locurile istorice, traseele scurte de la parcare la intrare fiind ideale pe ploaie. După-amiaza, parcul de distracții oferă atracții acoperite. Seara se încheie cu un condus prudent pe drumurile strălucind sub stropii de ploaie.",
+            "en": "The drive starts relaxedly at the reservoirs, watching the rain-soaked landscape from the comfort of the car. At midday, historical sites are just a short walk from the parking lot, minimizing exposure to the rain. In the afternoon, the fun park offers sheltered attractions. The evening ends with a safe drive back along the rain-slicked country roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plas-uchaf Reservoir",
+                "hu": "Plas-uchaf Reservoir",
+                "ro": "Plas-uchaf Reservoir",
+                "en": "Plas-uchaf Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den aufpeitschenden Regen auf der Wasseroberfläche ist vom Parkplatz aus besonders dramatisch und trocken.",
+                "hu": "A vízfelszínen kopogó eső látványa a parkolóból nézve különösen drámai, miközben te szárazon maradsz az autóban.",
+                "ro": "Vederea ploii care bate în suprafața apei este deosebit de dramatică privită din parcare, în timp ce rămâneți uscați.",
+                "en": "The view of the rain hitting the water surface is particularly dramatic from the parking lot while you stay dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolwen Reservoir",
+                "hu": "Dolwen Reservoir",
+                "ro": "Dolwen Reservoir",
+                "en": "Dolwen Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang zum Damm lohnt sich nur mit gutem Regenzeug; ansonsten bietet das Auto das beste Panorama.",
+                "hu": "Egy rövid séta a gáthoz csak jó esőfelszereléssel ajánlott; egyébként az autó szélvédője mögül nyílik a legjobb panoráma.",
+                "ro": "O scurtă plimbare pe dig merită doar cu echipament de ploaie bun; altfel, mașina oferă cea mai bună panoramă ferită.",
+                "en": "A short walk to the dam is only recommended with good rain gear; otherwise, the car window offers the best sheltered panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "St. George's Church",
+                "hu": "St. George's Church",
+                "ro": "St. George's Church",
+                "en": "St. George's Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen, aber nassen Weg zur Kirche schnell zu überbrücken.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy a rövid, de vizes utat gyorsan megtedd a templomig.",
+                "ro": "Parcați cât mai aproape de intrare pentru a parcurge rapid drumul scurt, dar ud, până în interiorul bisericii.",
+                "en": "Park as close to the entrance as possible to quickly cover the short but wet path into the church building."
+              }
+            },
+            {
+              "name": {
+                "de": "Gwrych Castle",
+                "hu": "Gwrych Castle",
+                "ro": "Gwrych Castle",
+                "en": "Gwrych Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schlossparkplatz kann bei starkem Regen rutschig sein; fahren Sie langsam und achten Sie auf Pfützen.",
+                "hu": "A várparkolóhoz vezető út heves esőben csúszós lehet; vezess lassan és figyelj a mélyebb tócsákra az úton.",
+                "ro": "Drumul spre parcarea castelului poate fi alunecos pe ploaie torențială; conduceți încet și atenție la bălțile adânci.",
+                "en": "The drive to the castle parking can be slippery in heavy rain; drive slowly and watch out for deep puddles on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Knightly's Fun Park",
+                "hu": "Knightly's Fun Park",
+                "ro": "Knightly's Fun Park",
+                "en": "Knightly's Fun Park"
+              },
+              "tip_5lang": {
+                "de": "Viele Spielhallen und Attraktionen sind überdacht, was den Park zu einem perfekten Ziel für regnerische Nachmittage macht.",
+                "hu": "Számos játékgép és attrakció fedett helyen található, így a park tökéletes célpont esős délutánokra is.",
+                "ro": "Multe zone de jocuri și atracții sunt acoperite, transformând parcul într-o destinație perfectă pentru după-amiezi ploioase.",
+                "en": "Many arcades and attractions are undercover, making the park a perfect destination for rainy afternoon fun."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt uns durch die frostigen Hügel zu den Stauseen. Mittags genießen wir die mollige Wärme im Auto zwischen den historischen Stopps. Am Nachmittag erstrahlt das Gwrych Castle im tiefstehenden Winterlicht, ein tolles Fotomotiv. Wegen der frühen Dunkelheit gegen 17:00 Uhr planen wir die Rückfahrt über die beleuchteten Hauptstraßen gut ein.",
+            "hu": "A téli autózás a fagyos dombokon át vezet a víztározókhoz. Délben élvezzük az autó kellemes melegét a történelmi megállók között. Délután a Gwrych vár ragyog a laposan beeső téli fényben, fantasztikus fotótéma. A korai, 5 órai sötétedés miatt a hazafelé utat érdemes a kivilágított főutakon megtervezni.",
+            "ro": "Călătoria de iarnă ne poartă prin dealurile înghețate spre rezervoare. La prânz savurăm căldura din mașină între opririle istorice. După-amiaza, Castelul Gwrych strălucește în lumina joasă de iarnă, un decor perfect pentru poze. Din cauza întunericului ce vine la ora 17:00, planificăm drumul de întoarcere pe arterele luminate.",
+            "en": "The winter drive takes us through frosty hills to the reservoirs. At midday, we enjoy the cozy warmth of the car between historical stops. In the afternoon, Gwrych Castle glows in the low winter light, offering great photo opportunities. Due to darkness at 5 PM, we plan our return journey along well-lit main roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plas-uchaf Reservoir",
+                "hu": "Plas-uchaf Reservoir",
+                "ro": "Plas-uchaf Reservoir",
+                "en": "Plas-uchaf Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Uferränder sehen im Morgenlicht zauberhaft aus; nutzen Sie die Sitzheizung für eine komfortable Beobachtung.",
+                "hu": "A befagyott partmenti részek varázslatosak a reggeli fényben; használd az ülésfűtést a kényelmes nézelődéshez az autóból.",
+                "ro": "Marginile înghețate ale apei arată magic în lumina dimineții; folosiți încălzirea în scaune pentru o observare confortabilă.",
+                "en": "The frozen edges of the water look magical in the morning light; use the seat heating for a comfortable view from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolwen Reservoir",
+                "hu": "Dolwen Reservoir",
+                "ro": "Dolwen Reservoir",
+                "en": "Dolwen Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Parkplätzen in Wassernähe; die klare Winterluft bietet hier eine enorme Fernsicht.",
+                "hu": "Figyelj a fekete jégre a víz közeli parkolókban; a tiszta téli levegő itt elképesztő látótávolságot biztosít.",
+                "ro": "Atenție la gheața neagră din parcările de lângă apă; aerul clar de iarnă oferă aici o vizibilitate la distanță enormă.",
+                "en": "Watch out for black ice in the parking areas near the water; the clear winter air offers incredible long-distance views here."
+              }
+            },
+            {
+              "name": {
+                "de": "St. George's Church",
+                "hu": "St. George's Church",
+                "ro": "St. George's Church",
+                "en": "St. George's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren bietet eine Pause von der Winterkälte, bevor es mit der nächsten kurzen Fahrt weitergeht.",
+                "hu": "Egy benti látogatás remek alkalom a felmelegedésre a téli hidegből, mielőtt továbbhajtanál a következő rövid szakaszra.",
+                "ro": "O vizită în interior oferă o pauză necesară de la frigul iernii înainte de a continua cu următoarea etapă scurtă.",
+                "en": "A visit inside provides a break from the winter cold before continuing with the next short leg of your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Gwrych Castle",
+                "hu": "Gwrych Castle",
+                "ro": "Gwrych Castle",
+                "en": "Gwrych Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht besonders majestätisch; prüfen Sie vor der Abfahrt den Reifendruck wegen der Kälte.",
+                "hu": "A vár különösen fenséges a téli fényekben; indulás előtt ellenőrizd a guminyomást a hideg időjárás miatt.",
+                "ro": "Castelul pare deosebit de maiestuos în lumina iernii; verificați presiunea în pneuri înainte de plecare din cauza frigului.",
+                "en": "The castle looks especially majestic in the winter light; check your tire pressure before leaving due to the cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Knightly's Fun Park",
+                "hu": "Knightly's Fun Park",
+                "ro": "Knightly's Fun Park",
+                "en": "Knightly's Fun Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die bunte Beleuchtung, die in der frühen Winterdämmerung besonders leuchtend und festlich wirkt.",
+                "hu": "Élvezd a színes fényeket, amelyek a korai téli szürkületben különösen ragyogóak és ünnepi hangulatot árasztanak.",
+                "ro": "Bucurați-vă de luminile colorate, care par extrem de strălucitoare și festive în amurgul timpuriu de iarnă.",
+                "en": "Enjoy the colorful lights, which look especially bright and festive in the early winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

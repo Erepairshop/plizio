@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot egy északi sétával a festői parti ösvényen, felfedezve a Castell de Sant Antonio lenyűgöző maradványait és a történelmi parti ütegeket. Folytassa sétáját a félsziget csücskéig, hogy megvizsgálja a régebbi tüzérségi állásokat, mielőtt békét keresne a fehérre meszelt Ermita de Lorda kápolnában. Hagyja maga mögött a történelmi műemlékeket, és sétáljon dél felé a gyönyörű menorcai partvonal mentén, amíg el nem éri S'Arenalet hívogató homokját. Töltse az estét a parton pihenve, miközben a nap leereszkedik a Földközi-tenger felett, élvezve a nyugodt tengerparti hangulatot, mielőtt visszatérne Fornells szívébe.",
         "ro": "Începeți ziua mergând spre nord de-a lungul potecii pitorești de coastă, descoperind rămășițele impunătoare ale Castell de Sant Antonio și bateriile istorice. Continuați plimbarea până în vârful peninsulei pentru a examina vechile plasamente de artilerie înainte de a căuta un moment de pace la Ermita de Lorda. Lăsați în urmă monumentele istorice și plimbați-vă spre sud de-a lungul coastei frumoase menorcane, ajungând în cele din urmă la nisipurile atractive din S'Arenalet. Petreceți-vă seara relaxându-vă pe țărm în timp ce soarele coboară peste Mediterană, bucurându-vă de atmosfera liniștită de coastă înainte de a vă întoarce în Fornells.",
         "en": "Start your day walking north along the scenic coastal path, discovering the imposing remains of Castell de Sant Antonio and exploring the nearby historic batteries guarding the entrance. Continue your walk to the very tip of the peninsula to examine the older artillery placements before seeking a moment of peace at the whitewashed Ermita de Lorda. Leave the historic monuments behind and stroll southwards along the beautiful Menorcan coastline, eventually reaching the inviting sands of S'Arenalet for some relaxation. Spend your evening unwinding by the shore as the sun lowers over the Mediterranean, enjoying the tranquil coastal atmosphere before heading back to the heart of Fornells."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit feinem Sprühregen über dem Hafen, der die weiße Siedlung in ein mystisches Grau taucht. Mittags suchen wir Schutz in den dicken Mauern der Festung, während der Wind zunimmt. Am Nachmittag spazieren wir mit Regenschirmen entlang der Küstenpfade und beobachten die aufgewühlte See. Der Abend klingt in den glänzenden, nassen Gassen aus, wo das Licht der Laternen im Asphalt tanzt.",
+            "hu": "A reggel szürke ködben indul a kikötő felett, a sós pára és az eső illata betölti a levegőt. Délben a vár bástyái alá húzódunk, ahol a vastag falak védenek a feltámadó széltől. Délután a tengerparti ösvényeken a hullámok morajlása kísér minket az esernyők alatt. Este a falu sárga fényei tükröződnek a vizes aszfalton, meghitt nyugalmat árasztva a csendes, eső áztatta utcákon.",
+            "ro": "Dimineața începe cu o ploaie fină peste port, creând o atmosferă dramatică și melancolică în satul alb. La prânz, ne adăpostim între zidurile groase ale cetății pentru a evita rafalele de vânt. După-amiaza explorăm potecile de coastă sub umbrele, admirând marea agitată. Seara se încheie pe străzile ude care reflectă luminile calde ale felinarelor, într-o liniște deplină.",
+            "en": "The morning starts with a misty drizzle over the harbor, enveloping the white village in a soft grey veil. At noon, we find shelter within the fortress walls as the sea breeze turns into rain. Afternoon is spent along the coastal paths with umbrellas, watching the crashing waves. Evening brings a cozy glow to the wet pavements as the village settles into a quiet, rainy peace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Sant Antonio",
+                "hu": "Castell de Sant Antonio",
+                "ro": "Castell de Sant Antonio",
+                "en": "Castell de Sant Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern bieten hervorragenden Schutz vor plötzlichen Schauern; achten Sie auf den glatten Boden und tragen Sie rutschfeste Schuhe.",
+                "hu": "A masszív kőfalak kiváló menedéket nyújtanak a hirtelen záporok elől; ügyeljen a csúszós kőpadlóra és viseljen tapadós talpú cipőt.",
+                "ro": "Zidurile masive de piatră oferă un adăpost excelent împotriva averselor bruște; atenție la podeaua alunecoasă, purtați încălțăminte cu talpă aderentă.",
+                "en": "The massive stone walls provide excellent shelter from sudden showers; watch out for the slippery stone floors and wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Bateria de costa",
+                "hu": "Bateria de costa",
+                "ro": "Bateria de costa",
+                "en": "Bateria de costa"
+              },
+              "tip_5lang": {
+                "de": "An diesem exponierten Punkt peitscht der Regen oft horizontal; halten Sie Ihre Regenjacke fest geschlossen und meiden Sie die direkten Klippenränder.",
+                "hu": "Ezen a kitett ponton az eső gyakran vízszintesen ver; tartsa szorosan zárva az esőkabátját, és kerülje a közvetlen sziklaszéleket a csúszásveszély miatt.",
+                "ro": "În acest punct expus, ploaia bate adesea orizontal; țineți pelerina bine închisă și evitați marginile stâncoase din cauza riscului de alunecare.",
+                "en": "At this exposed point, rain often hits horizontally; keep your raincoat tightly closed and avoid the cliff edges due to the slippery terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua bateria de costa",
+                "hu": "Antigua bateria de costa",
+                "ro": "Antigua bateria de costa",
+                "en": "Antigua bateria de costa"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Ruinen wirken im Regen besonders dramatisch; nutzen Sie die überdachten Nischen für Fotos und schützen Sie Ihre Kameraausrüstung.",
+                "hu": "A történelmi romok az esőben különösen drámai hatást keltenek; használja a fedett fülkéket fotózáshoz, és alaposan védje az elektronikai eszközeit.",
+                "ro": "Ruinele istorice par deosebit de dramatice în ploaie; folosiți nișele acoperite pentru fotografii și protejați-vă echipamentul electronic.",
+                "en": "The historical ruins look particularly dramatic in the rain; use the covered niches for photos and make sure to protect your camera equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Lorda",
+                "hu": "Ermita de Lorda",
+                "ro": "Ermita de Lorda",
+                "en": "Ermita de Lorda"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle ist der perfekte Ort, um kurz trocken zu werden; genießen Sie die spirituelle Stille, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Ez a kis kápolna tökéletes hely egy rövid száradáshoz; élvezze a spirituális csendet, miközben kint az eső kopog a tetőn.",
+                "ro": "Această mică capelă este locul perfect pentru a vă usca puțin; bucurați-vă de liniștea spirituală în timp ce ploaia bate în acoperiș.",
+                "en": "This small chapel is the perfect place to dry off for a moment; enjoy the spiritual silence while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenalet (Fornells)",
+                "hu": "S'Arenalet (Fornells)",
+                "ro": "S'Arenalet (Fornells)",
+                "en": "S'Arenalet (Fornells)"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen menschenleer und wirkt wild; machen Sie nur einen kurzen Stopp für die Aussicht, bevor Sie in den Ort zurückkehren.",
+                "hu": "A strand esőben teljesen néptelen és vad arcát mutatja; csak egy rövid fotószünetet tartsunk itt, mielőtt visszatérnénk a falu fedett részeire.",
+                "ro": "Plaja este complet pustie și sălbatică pe ploaie; faceți doar o scurtă pauză pentru fotografii înainte de a vă întoarce în zona acoperită.",
+                "en": "The beach is completely deserted and wild in the rain; make only a short stop for the views before returning to the sheltered village areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Fornells ist klar und frisch, perfekt für einen belebenden Spaziergang am Hafen. Mittags wärmt die tiefstehende Sonne die weißen Fassaden, doch der Tramuntana-Wind erfordert warme Kleidung. Am Nachmittag taucht das goldene Licht die Küste in warme Farben, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend ist ruhig und friedlich, ideal für besinnliche Stunden.",
+            "hu": "A téli reggel Fornells-ben friss és tiszta, a kikötőben a hűvös levegő élénkítően hat. Délben az alacsonyan járó nap megvilágítja a fehér házfalakat, de a Tramuntana szél ellen vastag kabát kell. Délután az aranyóra korán érkezik, 17:00 körül már nyugovóra tér a nap a tenger felett. Az este csendes és fagyos, a falu ilyenkor mutatja legnyugodtabb arcát.",
+            "ro": "Dimineața de iarnă în Fornells este clară și răcoroasă, perfectă pentru o plimbare revigorantă în port. La prânz, soarele blând luminează fațadele albe, dar vântul Tramuntana necesită haine groase. După-amiaza, lumina aurie îmbracă coasta în culori calde înainte de apusul de la ora 17:00. Seara este foarte liniștită, satul fiind aproape adormit în frigul iernii.",
+            "en": "Winter morning in Fornells is crisp and clear, perfect for an invigorating walk by the quiet harbor. At noon, the low sun warms the white walls, but the Tramuntana wind calls for heavy layers. Afternoon brings a golden glow to the cliffs before the early sunset at 17:00. The evening is silent and peaceful, as the village rests in the cool Mediterranean winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Sant Antonio",
+                "hu": "Castell de Sant Antonio",
+                "ro": "Castell de Sant Antonio",
+                "en": "Castell de Sant Antonio"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist ideal für Panoramafotos ohne Dunst; ziehen Sie eine winddichte Jacke an, da es auf den Mauern sehr zugig sein kann.",
+                "hu": "A tiszta téli fény ideális a páramentes panorámafotókhoz; viseljen szélálló kabátot, mert a várfalakon ilyenkor nagyon felerősödik a légmozgás.",
+                "ro": "Lumina clară de iarnă este ideală pentru fotografii panoramice fără ceață; purtați o jachetă rezistentă la vânt, deoarece pe ziduri este curent.",
+                "en": "The clear winter light is ideal for panoramic photos without haze; wear a windproof jacket as it can get very drafty up on the castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bateria de costa",
+                "hu": "Bateria de costa",
+                "ro": "Bateria de costa",
+                "en": "Bateria de costa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem geschichtsträchtigen Ort; schützen Sie Ihre Ohren vor dem kalten Nordwind, der hier oft ungehindert weht.",
+                "hu": "Élvezze a magányt ezen a történelmi helyszínen; védje a fülét a hideg északi széltől, amely itt gyakran akadálytalanul süvít a tenger felől.",
+                "ro": "Bucurați-vă de singurătate în acest loc istoric; protejați-vă urechile de vântul rece din nord, care suflă aici adesea fără obstacole.",
+                "en": "Enjoy the solitude at this historical site; protect your ears from the cold northern wind that often blows unobstructed from the sea here."
+              }
+            },
+            {
+              "name": {
+                "de": "Antigua bateria de costa",
+                "hu": "Antigua bateria de costa",
+                "ro": "Antigua bateria de costa",
+                "en": "Antigua bateria de costa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die beeindruckende Winterbrandung aus sicherer Entfernung; die tiefstehende Sonne sorgt für fantastische Schattenwürfe in den Ruinen.",
+                "hu": "Figyelje meg a lenyűgöző téli hullámverést biztonságos távolságból; az alacsony napállás fantasztikus árnyékokat vet a régi romok között.",
+                "ro": "Observați valurile impresionante de iarnă de la o distanță sigură; soarele jos creează umbre fantastice printre ruinele vechii baterii.",
+                "en": "Observe the impressive winter surf from a safe distance; the low position of the sun creates fantastic shadows among the old ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Lorda",
+                "hu": "Ermita de Lorda",
+                "ro": "Ermita de Lorda",
+                "en": "Ermita de Lorda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die Stille hier ist im Winter besonders intensiv und beruhigend.",
+                "hu": "Látogassa meg a kápolnát 16:30 előtt, hogy kihasználja az utolsó fényeket; a csend itt télen különösen mély és megnyugtató élmény.",
+                "ro": "Vizitați capela înainte de ora 16:30 pentru a profita de ultima lumină; liniștea de aici este deosebit de profundă și relaxantă iarna.",
+                "en": "Visit the chapel before 16:30 to make use of the last daylight; the silence here in winter is a particularly deep and soothing experience."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenalet (Fornells)",
+                "hu": "S'Arenalet (Fornells)",
+                "ro": "S'Arenalet (Fornells)",
+                "en": "S'Arenalet (Fornells)"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang am leeren Strand wirkt wahre Wunder; kehren Sie vor Einbruch der Dunkelheit (ca. 17:00 Uhr) in den Ort zurück.",
+                "hu": "Egy tempós téli séta az üres strandon valóságos újjászületés; térjen vissza a faluba még a sötétedés beállta előtt, körülbelül 17:00-ig.",
+                "ro": "O plimbare rapidă de iarnă pe plaja goală este o adevărată revigorare; întoarceți-vă în sat înainte de lăsarea întunericului, în jur de ora 17:00.",
+                "en": "A brisk winter walk on the empty beach is truly rejuvenating; return to the village before darkness falls, around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon fel a Castell de Sant Antonio északi romjaihoz, majd tekerjen tovább a csendes Ermita de Lorda felé a csillogó tengerre nyíló látványos reggeli kilátásért. Kövesse a part menti ösvényeket kelet felé a Cala Cabra Salada irányába egy frissítő úszásért, majd figyelje meg a változatos vadvilágot az es Pou de s'Albufereta környékén. Guruljon dél felé a lenyűgöző Badia de Fornells mentén, megállva, hogy értékelje a nyüzsgő tengeri tevékenységeket és a hatalmas természetes öböl mélykék vizét pettyező színes vitorlákat. Fejezze be kerékpártúráját az egyedi színű Cala Rotja strandon, csobbanjon egy utolsót a hűsítő Földközi-tengerben, miközben az esti fény élénk árnyalatokra festi az eget.",
         "ro": "Pedalați până la ruinele nordice ale Castell de Sant Antonio, apoi continuați spre liniștita Ermita de Lorda pentru priveliști matinale spectaculoase asupra mării. Urmați traseele de coastă spre est către Cala Cabra Salada pentru o baie răcoritoare, iar mai târziu observați fauna diversă din jurul zonei es Pou de s'Albufereta. Alunecați spre sud de-a lungul impresionantei Badia de Fornells, oprindu-vă pentru a aprecia activitățile maritime pline de viață și pânzele colorate care punctează apele albastre. Încheiați-vă călătoria cu bicicleta la Cala Rotja, viu colorată, făcând o ultimă baie în apele mediteraneene răcoroase în timp ce lumina serii pictează cerul.",
         "en": "Cycle up to the northern ruins of Castell de Sant Antonio to delve into local history, then pedal onwards to the quiet Ermita de Lorda for spectacular morning views over the sparkling sea. Follow the coastal trails east towards Cala Cabra Salada for a refreshing swim, and later observe the diverse wildlife making its home around the serene es Pou de s'Albufereta. Glide south along the impressive Badia de Fornells, stopping to appreciate the bustling maritime activities and the colorful sails dotting the deep blue waters of the expansive natural bay. End your cycling journey at the uniquely colored Cala Rotja, taking a final dip in the cooling Mediterranean waters as the evening light paints the sky in vibrant shades before returning."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln im Regen erfordert Vorsicht auf den nassen Straßen von Fornells. Morgens starten wir zwischen den Schauern am Hafen. Mittags suchen wir unter Vordächern Schutz, während der Wind die Gischt hochpeitscht. Nachmittags erkunden wir die nahen Buchten, wobei wasserfeste Kleidung unerlässlich ist. Abends stellen wir die Räder trocken unter und genießen die Ruhe im Ort.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós utakon. Reggel a záporok között indulunk a kikötőből. Délben eresz alá húzódunk, miközben a szél felkorbácsolja a tengert. Délután a közeli öblöket keressük fel, ahol a vízálló öltözet elengedhetetlen. Este biztonságba helyezzük a bringákat és élvezzük a falu esős nyugalmát.",
+            "ro": "Mersul pe bicicletă în ploaie necesită atenție sporită pe drumurile alunecoase. Dimineața pornim printre averse din port. La prânz ne adăpostim sub streșini în timp ce vântul ridică apa mării. După-amiaza explorăm golful, unde echipamentul impermeabil este esențial. Seara parcăm bicicletele la loc uscat și ne bucurăm de liniștea satului.",
+            "en": "Cycling in the rain requires extra caution on the slippery roads of Fornells. In the morning, we start between showers at the harbor. At noon, we shelter under eaves as the wind whips up the sea spray. Afternoon is for exploring the nearby bays with essential waterproof gear. In the evening, we tuck the bikes away and enjoy the peaceful rainy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Sant Antonio",
+                "hu": "Castell de Sant Antonio",
+                "ro": "Castell de Sant Antonio",
+                "en": "Castell de Sant Antonio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem windgeschützten Ort; die Burgmauern bieten zwar Schutz, aber der Boden kann für Radschuhe extrem rutschig sein.",
+                "hu": "Parkolja le a kerékpárt szélvédett helyen; a várfalak ugyan védenek, de a talaj a stoplis biciklis cipőben rendkívül csúszós lehet.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt; zidurile cetății oferă protecție, dar solul poate fi extrem de alunecos pentru încălțămintea de ciclism.",
+                "en": "Park your bike in a wind-sheltered spot; the castle walls provide cover, but the ground can be extremely slippery for cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Lorda",
+                "hu": "Ermita de Lorda",
+                "ro": "Ermita de Lorda",
+                "en": "Ermita de Lorda"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle ist bei Regen schlammig; fahren Sie langsam und nutzen Sie die Kapelle als trockenen Rückzugsort für eine kurze Pause.",
+                "hu": "A kápolnához vezető út esőben sáros lehet; tekerjen lassan és használja a kápolnát száraz menedékként egy rövid pihenőre.",
+                "ro": "Drumul spre capelă poate fi noroios pe ploaie; pedalați încet și folosiți capela ca refugiu uscat pentru o scurtă pauză.",
+                "en": "The path to the chapel can be muddy in the rain; cycle slowly and use the chapel as a dry retreat for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cabra Salada",
+                "hu": "Cala Cabra Salada",
+                "ro": "Cala Cabra Salada",
+                "en": "Cala Cabra Salada"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zur Bucht ist steinig und bei Nässe gefährlich; lassen Sie das Rad oben stehen und gehen Sie vorsichtig zu Fuß weiter.",
+                "hu": "Az öbölhöz vezető lejtő köves és esőben veszélyes; hagyja a kerékpárt fent, és óvatosan, gyalogosan menjen le a partig.",
+                "ro": "Coborârea spre golf este pietroasă și periculoasă pe ploaie; lăsați bicicleta sus și continuați cu mare atenție pe jos.",
+                "en": "The descent to the bay is stony and dangerous when wet; leave your bike at the top and continue carefully on foot to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "es Pou de s'Albufereta",
+                "hu": "es Pou de s'Albufereta",
+                "ro": "es Pou de s'Albufereta",
+                "en": "es Pou de s'Albufereta"
+              },
+              "tip_5lang": {
+                "de": "Die feuchten Wiesenwege sind rutschig; halten Sie genügend Abstand zum Ufer und achten Sie auf Pfützen, die tiefer sein können als gedacht.",
+                "hu": "A nedves, füves utak csúszósak; tartson megfelelő távolságot a parttól, és ügyeljen a tócsákra, amelyek mélyebbek lehetnek a vártnál.",
+                "ro": "Potecile cu iarbă umedă sunt alunecoase; păstrați distanța față de mal și atenție la bălțile care pot fi mai adânci decât par.",
+                "en": "The damp, grassy paths are slippery; keep a safe distance from the shore and watch out for puddles that may be deeper than they look."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia de Fornells",
+                "hu": "Badia de Fornells",
+                "ro": "Badia de Fornells",
+                "en": "Badia de Fornells"
+              },
+              "tip_5lang": {
+                "de": "Die Uferstraße bietet bei Regen tolle Ausblicke auf die graue Bucht; tragen Sie auffällige Kleidung, um von Autofahrern besser gesehen zu werden.",
+                "hu": "A parti út esőben is szép kilátást nyújt a szürke öbölre; viseljen feltűnő színeket, hogy az autósok jobban észrevegyék a párás időben.",
+                "ro": "Drumul de coastă oferă priveliști frumoase spre golful gri; purtați culori stridente pentru a fi mai vizibil pentru șoferi pe vreme umedă.",
+                "en": "The coastal road offers great views of the grey bay even in rain; wear bright colors to be more visible to drivers in the misty weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Rotja",
+                "hu": "Cala Rotja",
+                "ro": "Cala Rotja",
+                "en": "Cala Rotja"
+              },
+              "tip_5lang": {
+                "de": "Das rote Gestein wirkt im Regen noch intensiver; meiden Sie bei starkem Wind das offene Gelände und kehren Sie zügig in den Ort zurück.",
+                "hu": "A vörös kőzetek színe esőben még intenzívebbé válik; erős szélben kerülje a nyílt terepet, és induljon vissza időben a faluba.",
+                "ro": "Culoarea rocilor roșii devine și mai intensă în ploaie; evitați terenul deschis în caz de vânt puternic și întoarceți-vă la timp.",
+                "en": "The red rocks look even more intense in the rain; avoid open areas during strong winds and head back to the village in good time."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Fornells ist ein Genuss für Sportler, die die Kühle lieben. Morgens ist die Luft frisch und die Straßen sind leer. Mittags radeln wir unter strahlend blauem Himmel, geschützt durch windfeste Schichten. Nachmittags nutzen wir das letzte Tageslicht für die Rückfahrt, bevor es um 17:00 Uhr abkühlt. Abends genießen wir das wohlige Gefühl nach der Bewegung in der Natur.",
+            "hu": "A téli bringázás Fornells környékén igazi sportos élmény a hűvös kedvelőinek. Reggel friss a levegő és üresek az utak. Délben ragyogó kék ég alatt tekerünk, szélálló rétegekkel védve magunkat. Délután kihasználjuk az utolsó fényeket a visszaúthoz, mielőtt 17:00-kor lehűl a levegő. Este a mozgás utáni kellemes fáradtsággal pihenünk meg a faluban.",
+            "ro": "Ciclismul de iarnă în jurul Fornells este o experiență sportivă revigorantă. Dimineața aerul este proaspăt și drumurile sunt pustii. La prânz pedalăm sub un cer albastru strălucitor, protejați de haine rezistente la vânt. După-amiaza profităm de ultima lumină înainte ca temperatura să scadă la ora 17:00. Seara ne relaxăm după efortul depus.",
+            "en": "Winter cycling around Fornells is a rewarding experience for those who like the chill. Morning air is crisp and roads are empty. At noon, we ride under bright blue skies, protected by windproof layers. In the afternoon, we use the last daylight for the return trip before it cools down at 17:00. Evening is for resting after an active day in nature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castell de Sant Antonio",
+                "hu": "Castell de Sant Antonio",
+                "ro": "Castell de Sant Antonio",
+                "en": "Castell de Sant Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Bucht ist im Winter glasklar; ziehen Sie nach dem Radeln sofort eine warme Schicht an, um nicht auszukühlen.",
+                "hu": "A kilátás az öbölre télen kristálytiszta; tekerés után azonnal vegyen fel egy meleg réteget, hogy ne fázzon meg a szeles várfalakon.",
+                "ro": "Priveliștea asupra golfului este extrem de clară iarna; după pedalat, puneți imediat o haină groasă pentru a nu răci în vântul de pe ziduri.",
+                "en": "The view over the bay is crystal clear in winter; put on a warm layer immediately after cycling to avoid catching a cold on the windy walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Lorda",
+                "hu": "Ermita de Lorda",
+                "ro": "Ermita de Lorda",
+                "en": "Ermita de Lorda"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause; die Kapelle bietet Schutz vor dem kalten Wind, sodass Sie in Ruhe einen warmen Tee trinken können.",
+                "hu": "Csendes hely egy pihenőre; a kápolna védelmet nyújt a hideg szél elől, így nyugodtan megihat egy meleg teát a falai között.",
+                "ro": "Un loc liniștit pentru o pauză; capela oferă protecție împotriva vântului rece, permițându-vă să savurați un ceai cald în tihnă.",
+                "en": "A quiet place for a break; the chapel offers protection from the cold wind, allowing you to enjoy a warm tea within its walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Cabra Salada",
+                "hu": "Cala Cabra Salada",
+                "ro": "Cala Cabra Salada",
+                "en": "Cala Cabra Salada"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter völlig verlassen; nutzen Sie das helle Sonnenlicht für Fotos, aber kalkulieren Sie die Zeit für den Rückweg großzügig ein.",
+                "hu": "Az öböl télen teljesen elhagyatott; használja ki a ragyogó napsütést fotózáshoz, de számoljon bőséges időt a visszaútra a korai sötétedés miatt.",
+                "ro": "Golful este complet pustiu iarna; profitați de soarele strălucitor pentru fotografii, dar planificați bine timpul de întoarcere.",
+                "en": "The bay is completely deserted in winter; take advantage of the bright sunlight for photos, but allow plenty of time for the return trip."
+              }
+            },
+            {
+              "name": {
+                "de": "es Pou de s'Albufereta",
+                "hu": "es Pou de s'Albufereta",
+                "ro": "es Pou de s'Albufereta",
+                "en": "es Pou de s'Albufereta"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Wintervögel am Wasser; tragen Sie warme Handschuhe und Überschuhe, da die Feuchtigkeit in dieser Gegend die Kälte verstärkt.",
+                "hu": "Figyelje meg a telelő madarakat a víznél; viseljen meleg kesztyűt és kamáslit, mivel a vízparti nedvesség felerősíti a hidegérzetet.",
+                "ro": "Observați păsările care iernează lângă apă; purtați mănuși groase și protecții pentru pantofi, deoarece umezeala accentuează frigul.",
+                "en": "Observe the wintering birds near the water; wear warm gloves and shoe covers, as the moisture near the shore intensifies the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia de Fornells",
+                "hu": "Badia de Fornells",
+                "ro": "Badia de Fornells",
+                "en": "Badia de Fornells"
+              },
+              "tip_5lang": {
+                "de": "Die flache Strecke entlang der Bucht ist ideal für das Wintertraining; genießen Sie die Weite und den tiefblauen Himmel über dem Meer.",
+                "hu": "Az öböl menti sík szakasz ideális a téli edzéshez; élvezze a tágas teret és a tenger feletti mélykék eget a hűvös időben.",
+                "ro": "Secțiunea plană de-a lungul golfului este ideală pentru antrenamentul de iarnă; bucurați-vă de spațiul deschis și de cerul albastru profund.",
+                "en": "The flat stretch along the bay is ideal for winter training; enjoy the open space and the deep blue sky over the sea in the cool weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Rotja",
+                "hu": "Cala Rotja",
+                "ro": "Cala Rotja",
+                "en": "Cala Rotja"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen roten Felsen und blauem Wintermeer ist spektakulär; kehren Sie vor 16:30 Uhr um, um nicht in die Dunkelheit zu geraten.",
+                "hu": "A vörös sziklák és a kék téli tenger kontrasztja látványos; forduljon vissza 16:30 előtt, hogy elkerülje a hirtelen beköszöntő sötétséget.",
+                "ro": "Contrastul dintre stâncile roșii și marea albastră de iarnă este spectaculos; întoarceți-vă înainte de 16:30 pentru a evita întunericul.",
+                "en": "The contrast between the red rocks and the blue winter sea is spectacular; turn back before 16:30 to avoid the sudden onset of darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen ki a távoli északi fokra, hogy megvizsgálja a történelmi katonai ütegeket, majd álljon meg a Castell de Sant Antonio erődítményben a sziget védelmi történelmének felfedezésére. Pattanjon be az autójába, és utazzon nyugat felé a Cala Tirant hatalmas homokjához, élvezve a robusztus hullámokat és a lenyűgöző dűnés tájakat, amelyek ezt a partszakaszt jellemzik. Cirkáljon vissza Fornells fő öble felé, tartson szünetet a nyílt vízi Torre de illa Sargantana megcsodálására, majd folytassa útját kelet felé a Cala Pudent rejtett vizének felfedezéséhez. Zárja festői autós körútját a Caló Verd fenyőkkel ölelt, eldugott öblében, ahol végignézheti, ahogy a lemenő nap tükröződik a nyugodt tengeren, mielőtt visszavezetne a városba.",
         "ro": "Conduceți spre capul nordic îndepărtat pentru a inspecta bateriile militare istorice, urmat de o oprire la Castell de Sant Antonio pentru a descoperi istoria defensivă a insulei. Urcați în mașină și călătoriți spre vest către nisipurile întinse din Cala Tirant, bucurându-vă de valurile robuste și de peisajele uimitoare cu dune care definesc această coastă. Conduceți înapoi spre golful principal Fornells, oprindu-vă pentru a admira Torre de illa Sargantana din larg înainte de a continua spre est pentru a găsi apele turcoaz din Cala Pudent. Încheiați călătoria pitorească cu mașina la Caló Verd, un golf retras înconjurat de pini, unde puteți privi apusul reflectându-se pe marea calmă înainte de a vă întoarce în oraș.",
         "en": "Drive out to the far northern cape to inspect the historical military batteries, followed by an immersive stop at Castell de Sant Antonio to uncover the fascinating defensive history of the island. Hop into your car and travel west to the expansive sands of Cala Tirant, enjoying the robust waves and stunning dune landscapes that define this beautiful stretch of Menorcan coastline. Cruise back towards the primary bay of Fornells, pausing to admire the offshore Torre de illa Sargantana before continuing your drive eastwards to find the hidden, turquoise waters of Cala Pudent. Conclude your scenic road trip at Caló Verd, a delightfully secluded cove surrounded by pine trees, where you can watch the sunset reflect off the calm sea before driving back to town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Fornells auch bei Regen komfortabel erkunden. Morgens genießen wir die Fahrt entlang der Küste, während die Scheibenwischer den Takt vorgeben. Mittags halten wir an Aussichtspunkten und beobachten das Wettergeschehen aus dem trockenen Innenraum. Nachmittags fahren wir zu entlegenen Buchten, wo das Auto als Basis dient. Abends parken wir im Ort und finden einen gemütlichen Platz.",
+            "hu": "Autóval az esős Fornells is kényelmesen felfedezhető. Reggel a parti úton autózunk, miközben az ablaktörlők ütemére figyeljük a tájat. Délben a kilátópontokon állunk meg, a száraz utastérből csodálva az elemek játékát. Délután a távolabbi öblöket keressük fel, ahol az autó biztos bázist nyújt. Este a faluban parkolunk le és egy hangulatos, fedett helyet keresünk.",
+            "ro": "Cu mașina, Fornells poate fi explorat confortabil chiar și pe ploaie. Dimineața conducem pe drumul de coastă, admirând peisajul prin parbrizul ud. La prânz oprim la puncte de belvedere, observând spectacolul naturii din interiorul uscat. După-amiaza vizităm golfuri îndepărtate, mașina fiind baza noastră sigură. Seara parcăm în sat și căutăm un loc primitor și acoperit.",
+            "en": "Exploring rainy Fornells is comfortable by car. In the morning, we drive along the coast while the wipers keep time with the view. At noon, we stop at viewpoints, watching the elements from the dry interior. In the afternoon, we visit distant bays where the car serves as a safe base. In the evening, we park in the village and find a cozy, sheltered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antigua bateria de costa",
+                "hu": "Antigua bateria de costa",
+                "ro": "Antigua bateria de costa",
+                "en": "Antigua bateria de costa"
+              },
+              "tip_5lang": {
+                "de": "Sie können fast bis zu den Ruinen fahren; bleiben Sie bei starken Güssen im Auto und genießen Sie den dramatischen Blick auf das graue Meer.",
+                "hu": "Majdnem a romokig autózhat; heves zivatar esetén maradjon a kocsiban, és élvezze a drámai kilátást a szürke, haragos tengerre.",
+                "ro": "Puteți conduce aproape până la ruine; în caz de ploaie torențială, rămâneți în mașină și admirați marea gri și agitată.",
+                "en": "You can drive almost right up to the ruins; in case of heavy downpours, stay in the car and enjoy the dramatic view of the grey sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Sant Antonio",
+                "hu": "Castell de Sant Antonio",
+                "ro": "Castell de Sant Antonio",
+                "en": "Castell de Sant Antonio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen kurzen Sprint zur Festung; die dicken Mauern sind der beste Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Használja a közeli parkolót egy gyors sprinthez a várig; a vastag falak a legjobb helyszínt nyújtják egy futó zápor átvészeléséhez.",
+                "ro": "Folosiți parcarea din apropiere pentru un sprint scurt până la cetate; zidurile groase sunt cel mai bun loc pentru a aștepta trecerea ploii.",
+                "en": "Use the nearby parking for a quick sprint to the fortress; the thick walls are the best place to wait out a passing shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Tirant",
+                "hu": "Cala Tirant",
+                "ro": "Cala Tirant",
+                "en": "Cala Tirant"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist bei Regen sehr windanfällig; parken Sie so, dass Sie aus dem Seitenfenster die Brandung beobachten können, ohne nass zu werden.",
+                "hu": "Az öböl esőben nagyon szeles; parkoljon úgy, hogy az oldalablakból figyelhesse a hullámverést anélkül, hogy elázna a kiszálláskor.",
+                "ro": "Golful este foarte vântos pe ploaie; parcați astfel încât să puteți observa valurile de pe geamul lateral fără a vă uda la coborâre.",
+                "en": "The bay is very windy in the rain; park so you can watch the surf from the side window without getting soaked when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia de Fornells",
+                "hu": "Badia de Fornells",
+                "ro": "Badia de Fornells",
+                "en": "Badia de Fornells"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die gesamte Uferstraße ab; die Sicht kann durch Beschlagen der Scheiben eingeschränkt sein, nutzen Sie die Klimaanlage zur Entfeuchtung.",
+                "hu": "Autózzon végig a parti úton; a látási viszonyokat korlátozhatja a szélvédő párásodása, használja a klímát a pára gyors eltávolításához.",
+                "ro": "Conduceți pe tot drumul de coastă; vizibilitatea poate fi redusă de aburirea parbrizului, folosiți aerul condiționat pentru dezaburire rapidă.",
+                "en": "Drive along the entire coastal road; visibility may be limited by fogging, so use the air conditioning to quickly clear the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de illa Sargantana",
+                "hu": "Torre de illa Sargantana",
+                "ro": "Torre de illa Sargantana",
+                "en": "Torre de illa Sargantana"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist von der Straße aus gut sichtbar; machen Sie Fotos durch das offene Fenster, um sich vor dem peitschenden Regen zu schützen.",
+                "hu": "A torony az útról is jól látható; készítsen fotókat a lehúzott ablakon keresztül, hogy megvédje magát a csapkodó esőtől.",
+                "ro": "Turnul este vizibil clar de pe drum; faceți fotografii prin fereastra deschisă pentru a vă proteja de ploaia care bate lateral.",
+                "en": "The tower is clearly visible from the road; take photos through the open window to protect yourself from the driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Pudent",
+                "hu": "Cala Pudent",
+                "ro": "Cala Pudent",
+                "en": "Cala Pudent"
+              },
+              "tip_5lang": {
+                "de": "Der Zufahrtsweg kann bei Regen rutschig sein; fahren Sie vorsichtig und prüfen Sie den Untergrund, bevor Sie das Auto auf unbefestigten Flächen parken.",
+                "hu": "A bekötőút esőben csúszós lehet; vezessen óvatosan, és ellenőrizze a talajt, mielőtt a kocsit burkolatlan felületen hagyná.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie; conduceți cu grijă și verificați solul înainte de a lăsa mașina pe suprafețe neasfaltate.",
+                "en": "The access road can be slippery in the rain; drive carefully and check the ground before leaving your car on unpaved surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Caló Verd",
+                "hu": "Caló Verd",
+                "ro": "Caló Verd",
+                "en": "Caló Verd"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf die wilde Küste aus dem warmen Auto; halten Sie eine Taschenlampe bereit, falls der Regen die Sicht trübt.",
+                "hu": "Zárja a napot a vad part látványával a meleg autóból; tartson kéznél elemlámpát, ha az eső és a korai sötétedés rontaná a látási viszonyokat.",
+                "ro": "Încheiați ziua cu priveliștea coastei sălbatice din mașina caldă; aveți o lanternă la îndemână dacă ploaia și întunericul reduc vizibilitatea.",
+                "en": "End the day with a view of the wild coast from the warm car; keep a flashlight handy if rain and early darkness reduce visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto offenbart die stille Schönheit Menorcas rund um Fornells. Morgens genießen wir die klare Sicht auf das Meer bei eingeschalteter Heizung. Mittags erkunden wir Küstenstraßen, die im Sommer überfüllt wären. Nachmittags erreichen wir entlegene Punkte pünktlich zum frühen Sonnenuntergang um 17:00 Uhr. Abends kehren wir in das beleuchtete, ruhige Dorf zurück.",
+            "hu": "A téli autós túra feltárja Fornells környékének csendes szépségét. Reggel a tiszta tengeri kilátást élvezzük a fűtött utastérből. Délben olyan parti utakat fedezünk fel, amelyek nyáron zsúfoltak lennének. Délután elérjük a távoli pontokat, éppen időben a korai, 17:00-s naplementére. Este a kivilágított, békés faluba térünk vissza pihenni.",
+            "ro": "Un tur cu mașina iarna dezvăluie frumusețea liniștită a zonei Fornells. Dimineața ne bucurăm de priveliștea clară a mării din interiorul încălzit. La prânz explorăm drumuri de coastă care vara ar fi supraaglomerate. După-amiaza ajungem la puncte îndepărtate la timp pentru apusul de la ora 17:00. Seara ne întoarcem în satul liniștit și luminat.",
+            "en": "A winter car tour reveals the quiet beauty of the Fornells area. In the morning, we enjoy clear sea views from the heated cabin. At noon, we explore coastal roads that would be overcrowded in summer. In the afternoon, we reach distant spots just in time for the early sunset at 17:00. In the evening, we return to the illuminated, peaceful village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antigua bateria de costa",
+                "hu": "Antigua bateria de costa",
+                "ro": "Antigua bateria de costa",
+                "en": "Antigua bateria de costa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Fotografieren; die Wintersonne steht tief und leuchtet die Ruinen perfekt für dramatische Aufnahmen aus.",
+                "hu": "Használja az autót szélfogóként fotózás közben; a téli nap alacsonyan áll, és tökéletesen megvilágítja a romokat a drámai felvételekhez.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului când fotografiați; soarele de iarnă este jos și luminează perfect ruinele pentru cadre dramatice.",
+                "en": "Use the car as a windbreak while taking photos; the winter sun is low and perfectly illuminates the ruins for dramatic shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Sant Antonio",
+                "hu": "Castell de Sant Antonio",
+                "ro": "Castell de Sant Antonio",
+                "en": "Castell de Sant Antonio"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter direkt am Hafen reichlich vorhanden; ein kurzer Spaziergang zur Festung lohnt sich wegen der klaren Fernsicht über die Bucht.",
+                "hu": "Télen bőségesen talál parkolóhelyet közvetlenül a kikötőben; egy rövid séta a várhoz megéri a kristálytiszta kilátás miatt az öböl felett.",
+                "ro": "Parcările sunt din abundență iarna direct în port; o scurtă plimbare până la cetate merită pentru vizibilitatea clară asupra golfului.",
+                "en": "Parking is plentiful in winter right by the harbor; a short walk to the fortress is worth it for the crystal-clear views over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Tirant",
+                "hu": "Cala Tirant",
+                "ro": "Cala Tirant",
+                "en": "Cala Tirant"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Winter völlig anders; parken Sie oben am Aussichtspunkt, um das Farbspiel des Wassers ohne den kalten Wind am Strand zu genießen.",
+                "hu": "Az öböl télen teljesen más arcát mutatja; parkoljon a kilátóponton, hogy élvezhesse a víz színeit anélkül, hogy kitenné magát a parti szélnek.",
+                "ro": "Golful arată complet diferit iarna; parcați la punctul de belvedere pentru a admira culorile apei fără a vă expune vântului rece de pe plajă.",
+                "en": "The bay looks completely different in winter; park at the viewpoint to enjoy the colors of the water without exposing yourself to the shore wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Badia de Fornells",
+                "hu": "Badia de Fornells",
+                "ro": "Badia de Fornells",
+                "en": "Badia de Fornells"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Ufer entlang ist im Winter besonders entspannt; halten Sie an den kleinen Buchten für Fotos vom spiegelglatten, kalten Wasser.",
+                "hu": "A parti kocsikázás télen kifejezetten pihentető; álljon meg a kis öblöknél, hogy lefotózhassa a tükörsima, hideg vizet és a csendes kikötőt.",
+                "ro": "Plimbarea cu mașina pe coastă este relaxantă iarna; opriți la micile golfuri pentru a fotografia apa ca oglinda și portul liniștit.",
+                "en": "Driving along the shore is very relaxing in winter; stop at the small bays to photograph the mirror-like cold water and the quiet harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de illa Sargantana",
+                "hu": "Torre de illa Sargantana",
+                "ro": "Torre de illa Sargantana",
+                "en": "Torre de illa Sargantana"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Punkt kurz vor Sonnenuntergang; das weiche Winterlicht lässt den Turm und die Insel in warmen Goldtönen erstrahlen.",
+                "hu": "Látogasson el ide közvetlenül naplemente előtt; a lágy téli fények aranyló tónusokba öltöztetik a tornyot és a szigetet a tenger közepén.",
+                "ro": "Vizitați acest punct chiar înainte de apus; lumina blândă de iarnă îmbracă turnul și insula în nuanțe aurii calde.",
+                "en": "Visit this spot just before sunset; the soft winter light bathes the tower and the island in warm golden tones in the middle of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Pudent",
+                "hu": "Cala Pudent",
+                "ro": "Cala Pudent",
+                "en": "Cala Pudent"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Reifendruck, da die Temperaturen im Winter sinken; die unbefestigten Wege sind im Winter oft fester als im Sommer.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást, mert télen csökken a hőmérséklet; a burkolatlan utak ilyenkor gyakran stabilabbak, mint a nyári porban.",
+                "ro": "Verificați presiunea în pneuri înainte de plecare; drumurile neasfaltate sunt adesea mai stabile iarna decât în praful verii.",
+                "en": "Check tire pressure before heading out as temperatures drop in winter; the unpaved roads are often more stable now than in the summer dust."
+              }
+            },
+            {
+              "name": {
+                "de": "Caló Verd",
+                "hu": "Caló Verd",
+                "ro": "Caló Verd",
+                "en": "Caló Verd"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie so, dass Sie pünktlich um 17:00 Uhr hier sind; die winterliche Dämmerung an dieser wilden Küste ist ein unvergesslicher Anblick.",
+                "hu": "Tervezze úgy, hogy pontban 17:00-kor itt legyen; a téli szürkület ezen a vad partvidéken felejthetetlen látványt és mély nyugalmat áraszt.",
+                "ro": "Plănuiți să ajungeți aici exact la ora 17:00; amurgul de iarnă pe această coastă sălbatică este o priveliște de neuitat și plină de liniște.",
+                "en": "Plan to be here precisely at 17:00; the winter twilight on this wild coast is an unforgettable sight that radiates deep peace."
+              }
+            }
+          ]
+        }
       }
     }
   }

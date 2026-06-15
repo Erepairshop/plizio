@@ -137,6 +137,168 @@
         "hu": "A napot Pino központjában kezdjük, ahol felfedezzük a fenséges Château Piccioni-t. Ezt követően elmélyülünk a közeli Santa Croce kápolna spirituális világában, amelynek freskói különleges történetet mesélnek el. Délután utunk a Chapelle San Guglielmo-hoz és a régi San Francesco kolostorhoz vezet, mielőtt a napot nyugodtan lezárnánk az idilli Plage de Scalo-n.",
         "ro": "Începem ziua în centrul orașului Pino explorând maiestuosul Castel Piccioni. Apoi pătrundem în lumea spirituală a capelei Santa Croce din apropiere, ale cărei fresce spun o poveste specială. După-amiaza, drumul ne duce la Chapelle San Guglielmo și la vechea mănăstire San Francesco, înainte de a încheia ziua relaxant pe plaja idilică de la Scalo.",
         "en": "We start the day in the center of Pino exploring the majestic Château Piccioni. Afterwards, we dive into the spiritual world of the nearby Santa Croce chapel, whose frescoes tell a very special story. In the afternoon, our path leads us to the Chapelle San Guglielmo and the old San Francesco convent, before calmly ending the day at the idyllic Plage de Scalo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Château Piccioni einen imposanten Anblick im Regen, während die dicken Mauern Schutz versprechen. Mittags dienen die historischen Kapellen als trockene Zufluchtsorte, um die sakrale Stille zu genießen. Nachmittags wirken die Ruinen von San Francesco im Nebel besonders mystisch. Abends beobachtet man die raue Brandung am Plage de Scalo am besten aus sicherer Entfernung.",
+            "hu": "Reggel a Château Piccioni falai között kezdünk, ahol az eső kopogása méltóságteljes hangulatot áraszt. Délben a Santa Croce kápolna nyújt száraz menedéket a belső terek felfedezéséhez. Délután a San Francesco romjai misztikus ködbe burkolóznak a tengerparti szélben. Este a Scalo öbölben a háborgó tenger látványa zárja a napot, mielőtt a belső falak közé húzódnánk a vihar elől.",
+            "ro": "Dimineața, Château Piccioni oferă o priveliște impunătoare sub ploaie, zidurile sale groase oferind adăpost. La prânz, capelele istorice servesc drept refugii uscate pentru a aprecia liniștea sacră. După-amiaza, ruinele San Francesco par deosebit de mistice în ceață. Seara, valurile agitate de la Plage de Scalo sunt admirate cel mai bine de la distanță sigură, sub protecția unei pelerine.",
+            "en": "In the morning, Château Piccioni stands grand against the grey sky, with stone porches providing shelter from the drizzle. At noon, the chapels offer a dry sanctuary to admire local religious art. In the afternoon, the ruins of San Francesco take on a mystical aura in the coastal mist. By evening, the wild waves at Scalo beach provide a dramatic finale before seeking warmth indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Piccioni",
+                "hu": "Château Piccioni",
+                "ro": "Château Piccioni",
+                "en": "Château Piccioni"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposante Fassade vom überdachten Eingangsbereich aus und nutzen Sie die Regenpausen für Fotos der dramatischen Wolken über dem Kap.",
+                "hu": "Csodálja meg az impozáns homlokzatot a fedett bejárat alól, és használja ki az esőszüneteket a fok feletti drámai felhők fotózására.",
+                "ro": "Admirați fațada impunătoare din zona de intrare acoperită și profitați de pauzele de ploaie pentru fotografii cu norii dramatici de deasupra capului.",
+                "en": "Admire the grand facade from the covered entrance area and use the breaks in the rain to photograph the dramatic clouds looming over the cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de confrérie Santa Croce",
+                "hu": "Chapelle de confrérie Santa Croce",
+                "ro": "Chapelle de confrérie Santa Croce",
+                "en": "Chapelle de confrérie Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Diese Kapelle ist der ideale Ort, um dem Regen zu entfliehen und die feinen Details des Altars in aller Ruhe und Trockenheit zu betrachten.",
+                "hu": "Ez a kápolna ideális hely az eső elől való menekülésre, ahol nyugodtan és szárazon szemlélheti meg az oltár finom kidolgozottságát.",
+                "ro": "Această chapelă este locul ideal pentru a scăpa de ploaie și pentru a observa detaliile fine ale altarului în liniște și la uscat.",
+                "en": "This chapel is the perfect spot to escape the rain and observe the fine details of the altar in total peace and dryness."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle San Guglielmo",
+                "hu": "Chapelle San Guglielmo",
+                "ro": "Chapelle San Guglielmo",
+                "en": "Chapelle San Guglielmo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem grasbewachsenen Pfad, der bei Nässe rutschig sein kann; die Kapelle wirkt im Regen wie ein einsamer Wächter über dem Meer.",
+                "hu": "Vigyázzon a füves ösvényen, amely nedvesen csúszós lehet; a kápolna az esőben magányos őrként magasodik a tenger felett.",
+                "ro": "Atenție pe poteca înierbată, care poate fi alunecoasă când este udă; capela arată ca un străjer singuratic deasupra mării în timpul ploii.",
+                "en": "Be careful on the grassy path, which can be slippery when wet; the chapel looks like a lonely sentinel over the sea in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "San Francesco (Ancien couvent)",
+                "hu": "San Francesco (Ancien couvent)",
+                "ro": "San Francesco (Ancien couvent)",
+                "en": "San Francesco (Ancien couvent)"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen verströmen bei Regen eine melancholische Schönheit; suchen Sie Schutz unter den verbliebenen Bogengängen und genießen Sie die Aussicht.",
+                "hu": "A romok esőben melankolikus szépséget árasztanak; keressen menedéket a megmaradt boltívek alatt, és élvezze a kilátást.",
+                "ro": "Ruinele emană o frumusețe melancolică în ploaie; căutați adăpost sub arcadele rămase și bucurați-vă de priveliște.",
+                "en": "The ruins exude a melancholy beauty in the rain; seek shelter under the remaining archways and enjoy the misty coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Scalo",
+                "hu": "Plage de Scalo",
+                "ro": "Plage de Scalo",
+                "en": "Plage de Scalo"
+              },
+              "tip_5lang": {
+                "de": "Das graue Meer wirkt heute besonders kraftvoll; bleiben Sie auf den befestigten Flächen, um Schlamm zu vermeiden und die Gischt zu beobachten.",
+                "hu": "A szürke tenger ma különösen erőteljesnek tűnik; maradjon a kövezett részeken, hogy elkerülje a sarat, és figyelje a felcsapó tajtékot.",
+                "ro": "Marea gri pare deosebit de puternică astăzi; rămâneți pe zonele pavate pentru a evita noroiul și pentru a observa spuma valurilor.",
+                "en": "The grey sea looks especially powerful today; stay on the paved areas to avoid the mud while watching the crashing white surf."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen glänzt das Schloss in der tiefstehenden Wintersonne, die klare Luft macht jedes Detail sichtbar. Mittags laden die geschützten Kapellen zu einem Moment der Besinnung ein, weit weg vom kalten Wind. Nachmittags färben sich die Ruinen von San Francesco in warmes Gold, bevor die Dämmerung früh einsetzt. Gegen 17:00 Uhr verblasst das Licht über dem Meer am Plage de Scalo.",
+            "hu": "Reggel a kastély csillog az alacsonyan járó téli napsütésben, a tiszta levegő minden részletet felerősít. Délben a szélvédett kápolnák belső nyugalma nyújt pihenőt a csípős hidegben. Délután a San Francesco romjai arany színben játszanak, mielőtt a korai alkonyat leszállna. 17:00 körül a fények gyorsan kialszanak a Scalo tengerpartja felett.",
+            "ro": "Dimineața, castelul strălucește în soarele jos de iarnă, aerul limpede făcând vizibil orice detaliu. La prânz, capelele protejate invită la un moment de reflecție, departe de vântul rece. După-amiaza, ruinele San Francesco capătă nuanțe aurii înainte ca amurgul să se lase devreme. În jurul orei 17:00, lumina pălește peste marea de la Plage de Scalo.",
+            "en": "The morning sun hits the castle at a sharp angle, highlighting its historic stonework in the crisp air. At noon, the sheltered interiors of the village chapels provide a quiet respite from the biting winter wind. Afternoon shadows lengthen quickly across the ruins of San Francesco, creating a dramatic scene. By 5 PM, the winter sunset paints the horizon at Scalo beach in deep purples."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Piccioni",
+                "hu": "Château Piccioni",
+                "ro": "Château Piccioni",
+                "en": "Château Piccioni"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da der Wind am Schloss im Winter schneidend sein kann; das klare Licht ist jedoch perfekt für Architekturfotos.",
+                "hu": "Öltözzön rétegesen, mert a kastélynál télen metsző lehet a szél; a tiszta fények viszont tökéletesek az építészeti fotókhoz.",
+                "ro": "Purtați haine groase, deoarece vântul la castel poate fi tăios iarna; totuși, lumina clară este perfectă pentru fotografii de arhitectură.",
+                "en": "Wear warm layers as the wind around the castle can be biting in winter; however, the clear light is perfect for architectural photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de confrérie Santa Croce",
+                "hu": "Chapelle de confrérie Santa Croce",
+                "ro": "Chapelle de confrérie Santa Croce",
+                "en": "Chapelle de confrérie Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen windgeschützten Ort für eine kurze Rast; die Kühle im Inneren ist im Winter oft angenehmer als der zugige Außenbereich.",
+                "hu": "Használja ki ezt a szélvédett helyet egy rövid pihenőre; a belső hűvös télen gyakran kellemesebb, mint a huzatos kültér.",
+                "ro": "Folosiți acest loc ferit de vânt pentru o scurtă odihnă; răcoarea din interior este adesea mai plăcută iarna decât exteriorul expus.",
+                "en": "Use this wind-sheltered spot for a brief rest; the indoor temperature is often more stable than the drafty outdoor areas in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle San Guglielmo",
+                "hu": "Chapelle San Guglielmo",
+                "ro": "Chapelle San Guglielmo",
+                "en": "Chapelle San Guglielmo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille der Nebensaison; bringen Sie eine Thermoskanne mit Tee mit, um sich beim Blick aufs Meer aufzuwärmen.",
+                "hu": "Élvezze a holtszezon teljes csendjét; vigyen magával egy termosz teát, hogy felmelegedjen, miközben a téli tengert nézi.",
+                "ro": "Bucurați-vă de liniștea absolută a extrasezonului; aduceți un termos cu ceai pentru a vă încălzi în timp ce priviți marea.",
+                "en": "Enjoy the absolute silence of the off-season; bring a thermos of hot tea to keep warm while gazing at the winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "San Francesco (Ancien couvent)",
+                "hu": "San Francesco (Ancien couvent)",
+                "ro": "San Francesco (Ancien couvent)",
+                "en": "San Francesco (Ancien couvent)"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Licht erzeugt hier fantastische Schattenwürfe; beenden Sie Ihren Besuch vor 16:30 Uhr, um sicher zurückzukommen.",
+                "hu": "Az alacsonyan járó nap fantasztikus árnyékokat vet itt; fejezze be a látogatást 16:30 előtt, hogy biztonságban visszaérjen.",
+                "ro": "Lumina joasă creează aici umbre fantastice; încheiați vizita înainte de ora 16:30 pentru a vă întoarce în siguranță înainte de întuneric.",
+                "en": "The low winter sun creates fantastic shadow play here; finish your visit by 4:30 PM to return safely before total darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Scalo",
+                "hu": "Plage de Scalo",
+                "ro": "Plage de Scalo",
+                "en": "Plage de Scalo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Strandspaziergang regt den Kreislauf an; beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt am Horizont.",
+                "hu": "Egy rövid, tempós tengerparti séta élénkíti a keringést; nézze meg a korai, 17:00 órai naplementét közvetlenül a horizonton.",
+                "ro": "O scurtă plimbare vioaie pe plajă stimulează circulația; urmăriți apusul devreme, în jurul orei 17:00, direct la orizont.",
+                "en": "A short, brisk walk on the beach will boost your circulation; watch the early sunset around 5 PM directly on the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpárral új perspektívából ismerjük meg Pino-t. A Château Piccioni és a Santa Croce kápolna után feltekerünk a lenyűgöző Tour de Sénèque-hez. Délután meglátogatjuk a félreeső Cappella di Santa Lucia-t és a festői Alisu-t, mielőtt egy utolsó, pihentető szakasz elvezetne minket a naplementéhez a Plage de Scalo-n.",
         "ro": "Cu bicicleta experimentăm Pino dintr-o nouă perspectivă. După startul la Castelul Piccioni și capela Santa Croce, pedalăm mai sus spre impresionantul Turn Sénèque. După-amiaza vizităm capela retrasă Santa Lucia și pitorescul Alisu, înainte ca o ultimă etapă relaxantă să ne ducă la plaja Scalo pentru un apus minunat.",
         "en": "On our bikes, we experience Pino from a fresh perspective. Starting at Château Piccioni and the Santa Croce chapel, we pedal up to the impressive Tour de Sénèque. In the afternoon, we visit the secluded Cappella di Santa Lucia and picturesque Alisu, before a final relaxing leg takes us to Plage de Scalo for the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrten am Kap Corse erfordern Vorsicht auf den kurvigen Straßen, bieten aber dramatische Ausblicke. Mittags finden Radfahrer in den kleinen Kapellen von Pino einen trockenen Rastplatz. Nachmittags führt die Tour hinauf zum Tour de Sénèque, der oft geheimnisvoll im Nebel verschwindet. Abends kehrt man mit dem beruhigenden Geräusch des Regens in die Unterkunft zurück.",
+            "hu": "Az esős bringázás a Cap Corse kanyargós útjain óvatosságot igényel, de drámai kilátást nyújt. Délben a pino-i kápolnák biztosítanak száraz pihenőhelyet a kerékpárosoknak. Délután a Tour de Sénèque felé vesszük az irányt, amely ilyenkor gyakran ködbe vész. Este a tengerparti eső megnyugtató neszével térünk vissza a szállásunkra.",
+            "ro": "Ciclismul pe ploaie pe drumurile șerpuite din Cap Corse necesită prudență, dar oferă priveliști dramatice. La prânz, bicicliștii găsesc un loc de odihnă uscat în micile capele din Pino. După-amiaza, turul urcă spre Tour de Sénèque, care adesea dispare misterios în ceață. Seara, ne întoarcem la cazare cu sunetul liniștitor al ploii.",
+            "en": "Rainy rides along the winding roads of Cape Corse require extra caution but offer breathtakingly dramatic vistas. At noon, the small chapels of Pino provide a dry spot for cyclists to take a breather. In the afternoon, the climb to Tour de Sénèque leads into the clouds, where the tower stands hidden in mist. By evening, the sound of rain on the coast marks the end of a wild ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Piccioni",
+                "hu": "Château Piccioni",
+                "ro": "Château Piccioni",
+                "en": "Château Piccioni"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer geschützten Stelle und nutzen Sie die Schlossmauer als Windfang, während Sie den Regen über dem Tal beobachten.",
+                "hu": "Parkolja le a bringát egy védett helyen, és használja a kastély falát szélfogóként, miközben az esőt figyeli a völgy felett.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți zidul castelului ca paravan împotriva vântului în timp ce observați ploaia peste vale.",
+                "en": "Park your bike in a sheltered spot and use the castle wall as a windbreaker while watching the rain move across the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de confrérie Santa Croce",
+                "hu": "Chapelle de confrérie Santa Croce",
+                "ro": "Chapelle de confrérie Santa Croce",
+                "en": "Chapelle de confrérie Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Regenkleidung zu richten; der Innenraum bietet eine wunderbare Akustik für das Prasseln der Tropfen.",
+                "hu": "Tökéletes megálló az esőruházat megigazításához; a belső tér csodálatos akusztikát nyújt az esőcseppek kopogásához.",
+                "ro": "O oprire perfectă pentru a vă aranja echipamentul de ploaie; interiorul oferă o acustică minunată pentru ropotul stropilor.",
+                "en": "A perfect stop to adjust your rain gear; the interior offers wonderful acoustics for the sound of raindrops outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Sénèque",
+                "hu": "Tour de Sénèque",
+                "ro": "Tour de Sénèque",
+                "en": "Tour de Sénèque"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt, die Straße kann durch nasses Laub rutschig sein; der Turm im Nebel ist ein unvergessliches, düsteres Fotomotiv.",
+                "hu": "Vigyázzon a felfelé vezető úton, a vizes levelek miatt csúszós lehet; a ködbe burkolózó torony felejthetetlen, komor fotótéma.",
+                "ro": "Atenție la urcare, drumul poate fi alunecos din cauza frunzelor ude; turnul în ceață este un motiv fotografic sumbru și de neuitat.",
+                "en": "Be cautious on the climb as wet leaves can make the road slippery; the tower shrouded in mist is an unforgettable, moody photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di Santa Lucia",
+                "hu": "Cappella di Santa Lucia",
+                "ro": "Cappella di Santa Lucia",
+                "en": "Cappella di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle ist ein wahrer Segen für nasse Radfahrer; wärmen Sie sich kurz auf, bevor Sie die Abfahrt zurück nach Pino antreten.",
+                "hu": "Ez a kis kápolna igazi áldás a megázott bringásoknak; melegedjen fel egy kicsit, mielőtt megkezdi a lejtmenetet vissza Pino-ba.",
+                "ro": "Această mică chapelă este o adevărată binecuvântare pentru bicicliștii udați; încălziți-vă puțin înainte de a începe coborârea spre Pino.",
+                "en": "This small chapel is a true blessing for wet cyclists; warm up for a moment before starting the descent back to Pino."
+              }
+            },
+            {
+              "name": {
+                "de": "Alisu",
+                "hu": "Alisu",
+                "ro": "Alisu",
+                "en": "Alisu"
+              },
+              "tip_5lang": {
+                "de": "Die üppige Vegetation wirkt im Regen besonders kräftig grün; achten Sie auf Pfützen in den Kurven auf dem Weg zu diesem Erholungsort.",
+                "hu": "A buja növényzet esőben különösen élénkzöldnek tűnik; ügyeljen a tócsákra a kanyarokban az üdülőhely felé vezető úton.",
+                "ro": "Vegetația luxuriantă pare de un verde deosebit de viu în ploaie; fiți atenți la bălțile din curbe pe drumul spre acest loc de recreere.",
+                "en": "The lush vegetation looks especially vibrant green in the rain; watch out for puddles in the corners on the road to this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Scalo",
+                "hu": "Plage de Scalo",
+                "ro": "Plage de Scalo",
+                "en": "Plage de Scalo"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit dem Blick auf die tosende See; stellen Sie sicher, dass Ihre Bremsen nach der feuchten Fahrt voll funktionsfähig sind.",
+                "hu": "Jutalmazza meg magát a háborgó tenger látványával; győződjön meg róla, hogy a fékjei tökéletesen fognak a vizes gurulás után.",
+                "ro": "Răsplătiți-vă cu vederea mării învolburate; asigurați-vă că frânele funcționează perfect după cursa pe drumuri umede.",
+                "en": "Reward yourself with the view of the roaring sea; ensure your brakes are fully functional after the damp coastal ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Kap Corse klare Sichtweiten bis zum Horizont, perfekt für Radtouren mit Fernblick. Mittags wärmt die Sonne in geschützten Lagen, während der Fahrtwind kühl bleibt. Nachmittags erreicht man den Tour de Sénèque bei dramatischem Lichtspiel. Da die Sonne gegen 17:00 Uhr untergeht, sollte die Tour am Plage de Scalo rechtzeitig beendet werden.",
+            "hu": "Télen a Cap Corse tiszta látási viszonyokat kínál egészen a horizontig, ideális a panorámás bringázáshoz. Délben a nap melege a szélvédett részeken érezhető, de a menetszél hűvös marad. Délután a Tour de Sénèque drámai fényekben úszik. Mivel a nap 17:00 körül lebukik, a Scalo-parti túrát időben be kell fejezni.",
+            "ro": "Iarna, Cap Corse oferă vizibilitate clară până la orizont, ideală pentru ture cu bicicleta cu vedere la distanță. La prânz, soarele încălzește în locurile ferite, în timp ce vântul rămâne rece. După-amiaza, se ajunge la Tour de Sénèque într-un joc dramatic de lumini. Deoarece soarele apune în jurul orei 17:00, turul trebuie încheiat la timp.",
+            "en": "Winter cycling on Cape Corse offers crystal-clear views stretching to the horizon, perfect for long-range panoramas. At noon, the sun feels warm in sheltered valleys, though the riding wind remains chilly. By afternoon, the light at Tour de Sénèque becomes golden and sharp. With sunset around 5 PM, ensure your ride to Scalo beach concludes while there's still light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Piccioni",
+                "hu": "Château Piccioni",
+                "ro": "Château Piccioni",
+                "en": "Château Piccioni"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss leuchtet im klaren Winterlicht fast weiß; tragen Sie winddichte Handschuhe für die kühlen Abfahrten vom Dorf.",
+                "hu": "A kastély szinte fehéren világít a tiszta téli fényben; viseljen szélálló kesztyűt a faluból induló hűvös lejtőkhöz.",
+                "ro": "Castelul strălucește aproape alb în lumina clară de iarnă; purtați mănuși rezistente la vânt pentru coborârile reci din sat.",
+                "en": "The castle glows almost white in the clear winter light; wear windproof gloves for the chilly descents starting from the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de confrérie Santa Croce",
+                "hu": "Chapelle de confrérie Santa Croce",
+                "ro": "Chapelle de confrérie Santa Croce",
+                "en": "Chapelle de confrérie Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz vor den oft starken Winterböen am Kap; ideal für einen kurzen Energieriegel-Stopp im Trockenen.",
+                "hu": "A kápolna védelmet nyújt a foknál gyakori erős téli széllökések elől; ideális egy gyors energiaszelet-szünetre a szárazon.",
+                "ro": "Capela oferă protecție împotriva rafalelor puternice de iarnă; ideală pentru o scurtă pauză de reîncărcare la adăpost.",
+                "en": "The chapel provides protection from the frequent strong winter gusts; ideal for a quick energy bar break in a dry spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Sénèque",
+                "hu": "Tour de Sénèque",
+                "ro": "Tour de Sénèque",
+                "en": "Tour de Sénèque"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär und reicht oft bis zum italienischen Festland; halten Sie den Stopp kurz, um nicht auszukühlen.",
+                "hu": "A téli panoráma lenyűgöző, gyakran az olasz szárazföldig is ellátni; tartsa röviden a megállót, nehogy túlságosan lehűljön.",
+                "ro": "Vederea la distanță iarna este spectaculoasă, ajungând adesea până în Italia; păstrați oprirea scurtă pentru a nu vă răci.",
+                "en": "The winter visibility is spectacular, often reaching the Italian mainland; keep the stop brief so your body temperature doesn't drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di Santa Lucia",
+                "hu": "Cappella di Santa Lucia",
+                "ro": "Cappella di Santa Lucia",
+                "en": "Cappella di Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für Reflexion; das Mauerwerk speichert tagsüber ein wenig Sonnenwärme, was den Stopp angenehmer macht.",
+                "hu": "Magányos hely az elmélyüléshez; a falak napközben tárolnak egy kevés napmeleget, ami kellemesebbé teszi a megállót.",
+                "ro": "Un loc solitar pentru reflecție; zidăria stochează puțină căldură solară în timpul zilei, făcând oprirea mai plăcută.",
+                "en": "A solitary place for reflection; the stonework stores a bit of sun warmth during the day, making the stop more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Alisu",
+                "hu": "Alisu",
+                "ro": "Alisu",
+                "en": "Alisu"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe hier ist absolut; achten Sie auf die Schatten auf der Straße, da dort Feuchtigkeit länger gefroren bleiben kann.",
+                "hu": "A téli nyugalom itt teljes; ügyeljen az úton lévő árnyékos részekre, mert ott a nedvesség tovább maradhat fagyos.",
+                "ro": "Liniștea de iarnă aici este absolută; atenție la umbrele de pe drum, deoarece umezeala poate rămâne înghețată mai mult timp.",
+                "en": "The winter stillness here is absolute; watch out for shadows on the road where moisture might stay frozen longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Scalo",
+                "hu": "Plage de Scalo",
+                "ro": "Plage de Scalo",
+                "en": "Plage de Scalo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr und genießen Sie die kühle Meeresluft mit ausreichend warmer Kleidung.",
+                "hu": "Fejezze be a túrát pontosan a 17:00 órai naplementekor, és élvezze a hűvös tengeri levegőt megfelelően meleg ruházatban.",
+                "ro": "Încheiați turul la timp pentru apusul de la ora 17:00 și bucurați-vă de aerul rece al mării cu haine suficient de groase.",
+                "en": "Finish your ride right at the 5 PM sunset and enjoy the crisp sea air, ensuring you have enough warm gear for the final stretch."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túránk lehetőséget kínál arra, hogy egyetlen nap alatt megcsodálhassuk a Korzika-fok sokszínűségét Pino körül. A Monte Minerbio és a Monte Cupieta lélegzetelállító kilátásával kezdünk, majd Pino történelmi szívébe utazunk. A délután a magasabban fekvő Tour de Sénèque-é és egy festői tengerparti autózásé Alisu-ba egy felejthetetlen befejezésért.",
         "ro": "Turul nostru cu mașina ne oferă ocazia să vedem întreaga diversitate a Capului Corsica din jurul Pino într-o singură zi. Începem cu priveliști uluitoare de la Monte Minerbio și Monte Cupieta, apoi vizităm inima istorică a Pino. După-amiaza aparține turnului înalt Sénèque și unei plimbări pitorești pe coastă până la Alisu pentru un final memorabil.",
         "en": "Our car tour provides the opportunity to see the full diversity of Cap Corse around Pino in just one day. We start with breathtaking views from Monte Minerbio and Monte Cupieta, then visit the historic heart of Pino. The afternoon is dedicated to the elevated Tour de Sénèque and a scenic coastal drive down to Alisu for a memorable finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt am Kap Corse im Regen ist dank der Panoramafenster sicher und komfortabel. Morgens genießt man den Nebel über Monte Minerbio aus der warmen Kabine. Mittags erkundet man Pino und seine Kapellen bei kurzen Sprints durch den Regen. Nachmittags führt die Fahrt sicher hinauf zum Tour de Sénèque, während man abends das Meeresrauschen im Auto hört.",
+            "hu": "Az esős autózás a Cap Corse-on kényelmes és biztonságos a panorámaablakoknak köszönhetően. Reggel a Monte Minerbio feletti ködöt a meleg utastérből csodálhatjuk. Délben Pino kápolnáit rövid, esőn keresztüli sétákkal fedezzük fel. Délután az autó biztonságában kapaszkodunk fel a Tour de Sénèque-hez, este pedig a kocsiból hallgatjuk a tenger zúgását.",
+            "ro": "O călătorie cu mașina în Cap Corse pe ploaie este sigură și confortabilă datorită ferestrelor panoramice. Dimineața, ceața peste Monte Minerbio este admirată din cabina caldă. La prânz, explorăm Pino și capelele sale prin scurte reprize prin ploaie. După-amiaza, urcăm în siguranță spre Tour de Sénèque, iar seara ascultăm marea din mașină.",
+            "en": "Driving Cape Corse in the rain is cozy and safe, offering great views through the windshield. In the morning, watch the mist roll over Monte Minerbio from your heated cabin. At noon, explore Pino's historic chapels with quick dashes between raindrops. In the afternoon, the climb to Tour de Sénèque is easy by car, followed by a dramatic evening by the stormy coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monte Minerbio",
+                "hu": "Monte Minerbio",
+                "ro": "Monte Minerbio",
+                "en": "Monte Minerbio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nebligen Berge direkt aus dem Auto; der Regen verwandelt die Landschaft in ein stimmungsvolles Gemälde.",
+                "hu": "Élvezze a ködös hegyek látványát közvetlenül az autóból; az eső hangulatos festménnyé varázsolja a tájat.",
+                "ro": "Bucurați-vă de vederea munților înnebuliți direct din mașină; ploaia transformă peisajul într-un tablou plin de atmosferă.",
+                "en": "Enjoy the view of the misty mountains directly from your car; the rain transforms the landscape into a moody, living painting."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Cupieta",
+                "hu": "Monte Cupieta",
+                "ro": "Monte Cupieta",
+                "en": "Monte Cupieta"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet der Gipfelparkplatz einen dramatischen Rundumblick, ohne dass Sie nass werden müssen.",
+                "hu": "Erős esőben a csúcsparkoló drámai körpanorámát kínál anélkül, hogy ki kellene szállnia a száraz autóból.",
+                "ro": "În caz de ploaie torențială, parcarea din vârf oferă o panoramă dramatică fără a fi nevoie să vă udați.",
+                "en": "In heavy rain, the summit parking area offers a dramatic 360-degree view without you having to leave the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Piccioni",
+                "hu": "Château Piccioni",
+                "ro": "Château Piccioni",
+                "en": "Château Piccioni"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen kurzen Besuch; das Schloss wirkt in den Grautönen des Regens besonders geschichtsträchtig.",
+                "hu": "Használja a közeli parkolót egy rövid látogatáshoz; a kastély az eső szürke tónusaiban különösen történelmi hangulatot áraszt.",
+                "ro": "Folosiți parcarea din apropiere pentru o vizită scurtă; castelul pare deosebit de istoric în tonurile gri ale ploii.",
+                "en": "Use the nearby parking for a short visit; the castle looks particularly steeped in history amidst the grey tones of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de confrérie Santa Croce",
+                "hu": "Chapelle de confrérie Santa Croce",
+                "ro": "Chapelle de confrérie Santa Croce",
+                "en": "Chapelle de confrérie Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Beine zu vertreten; die Kapelle ist nur wenige Schritte vom Parkplatz entfernt und bietet perfekten Schutz.",
+                "hu": "Ideális megálló a lábak átmozgatásához; a kápolna csak néhány lépésre van a parkolótól, és tökéletes menedéket nyújt.",
+                "ro": "O oprire ideală pentru a vă întinde picioarele; capela este la doar câțiva pași de parcare și oferă adăpost perfect.",
+                "en": "An ideal stop to stretch your legs; the chapel is just steps away from the parking area and offers perfect shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Sénèque",
+                "hu": "Tour de Sénèque",
+                "ro": "Tour de Sénèque",
+                "en": "Tour de Sénèque"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen, nassen Straße; der Turm im Nebel ist auch durch das Fenster ein faszinierendes Motiv.",
+                "hu": "Vezessen óvatosan a keskeny, vizes úton; a ködbe vesző torony az ablakon keresztül is lenyűgöző látvány.",
+                "ro": "Conduceți cu atenție pe drumul îngust și umed; turnul în ceață este un motiv fascinant chiar și prin fereastra mașinii.",
+                "en": "Drive carefully on the narrow, wet road; the tower shrouded in mist is a fascinating subject even through the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Gîtes Sénèque",
+                "hu": "Les Gîtes Sénèque",
+                "ro": "Les Gîtes Sénèque",
+                "en": "Les Gîtes Sénèque"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort strahlt bei Regen eine besondere Ruhe aus; parken Sie nah am Eingang, um trocken in den geschützten Bereich zu gelangen.",
+                "hu": "Ez a hely esőben különleges nyugalmat áraszt; parkoljon közel a bejárathoz, hogy szárazon jusson be a védett területre.",
+                "ro": "Acest loc emană o liniște deosebită în ploaie; parcați aproape de intrare pentru a ajunge uscat în zona protejată.",
+                "en": "This place radiates a special tranquility in the rain; park close to the entrance to reach the sheltered area without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Alisu",
+                "hu": "Alisu",
+                "ro": "Alisu",
+                "en": "Alisu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das üppige Grün; der Scheibenwischer-Rhythmus untermalt die meditative Atmosphäre der Küstenstraße.",
+                "hu": "Élvezze az utazást a buja zöld tájon át; az ablaktörlő ritmusa felerősíti a parti út meditatív hangulatát.",
+                "ro": "Bucurați-vă de drumul prin verdeața luxuriantă; ritmul ștergătoarelor subliniază atmosfera meditativă a drumului de coastă.",
+                "en": "Enjoy the drive through the lush greenery; the rhythm of the wipers enhances the meditative atmosphere of the coastal road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist die Autofahrt am Kap Corse ein Genuss aus Licht und Weite. Morgens sind die Berggipfel wie Monte Minerbio oft in strahlendes, klares Sonnenlicht getaucht. Mittags besichtigt man die historischen Bauten von Pino in der angenehmen Wärme des Autos zwischen den Stopps. Nachmittags erreicht man den Tour de Sénèque vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Télen az autós túra a Cap Corse-on a fények és a távlatok élvezete. Reggel a hegycsúcsok, mint a Monte Minerbio, ragyogó, tiszta napsütésben fürdenek. Délben Pino történelmi épületeit fedezzük fel, miközben az autó melege vár minket a megállók között. Délután a Tour de Sénèque-hez még a korai, 17:00 órai naplemente előtt megérkezünk.",
+            "ro": "Iarna, călătoria cu mașina în Cap Corse este o plăcere a luminii și a spațiului. Dimineața, vârfurile munților precum Monte Minerbio sunt adesea scăldate în soare strălucitor. La prânz, vizităm clădirile istorice din Pino, beneficiind de căldura mașinii între opriri. După-amiaza, se ajunge la Tour de Sénèque înainte de apusul devreme de la ora 17:00.",
+            "en": "Winter driving on Cape Corse is a feast of light and vast horizons. In the morning, peaks like Monte Minerbio are often bathed in brilliant, sharp sunlight. At noon, visit Pino's historic sites while enjoying the car's heater between stops. In the afternoon, reach Tour de Sénèque in time to witness the dramatic early sunset at 5 PM over the Mediterranean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monte Minerbio",
+                "hu": "Monte Minerbio",
+                "ro": "Monte Minerbio",
+                "en": "Monte Minerbio"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter unschlagbar; parken Sie für ein paar Minuten mit Blick nach Westen, um die Meeresweite zu genießen.",
+                "hu": "A téli panoráma verhetetlen; parkoljon le pár percre nyugat felé nézve, hogy kiélvezze a tenger végtelenségét.",
+                "ro": "Vederea la distanță este imbatabilă iarna; parcați câteva minute cu fața spre vest pentru a vă bucura de imensitatea mării.",
+                "en": "The long-distance visibility is unbeatable in winter; park for a few minutes facing west to enjoy the vastness of the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Cupieta",
+                "hu": "Monte Cupieta",
+                "ro": "Monte Cupieta",
+                "en": "Monte Cupieta"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche vereiste Stellen im Schatten der Felsen; die klare Luft bietet fantastische Fotobedingungen vom Gipfel.",
+                "hu": "Ügyeljen a sziklák árnyékában lévő esetleges jeges foltokra; a tiszta levegő fantasztikus fotózási feltételeket kínál a csúcsról.",
+                "ro": "Fiți atenți la posibilele porțiuni înghețate în umbra stâncilor; aerul limpede oferă condiții fantastice de fotografiere din vârf.",
+                "en": "Watch out for potential icy patches in the shadows of the rocks; the crisp air provides fantastic photography conditions from the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Piccioni",
+                "hu": "Château Piccioni",
+                "ro": "Château Piccioni",
+                "en": "Château Piccioni"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im harten Winterlicht fast skulptural; wärmen Sie den Wagen vor der Weiterfahrt kurz auf, um Komfort zu bewahren.",
+                "hu": "A kastély szinte szoborszerű a kemény téli fényben; melegítse be a kocsit a továbbindulás előtt a maximális kényelemért.",
+                "ro": "Castelul pare aproape sculptural în lumina aspră de iarnă; încălziți mașina înainte de a pleca mai departe pentru confort.",
+                "en": "The castle looks almost sculptural in the harsh winter light; warm up the car before continuing to maintain maximum comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de confrérie Santa Croce",
+                "hu": "Chapelle de confrérie Santa Croce",
+                "ro": "Chapelle de confrérie Santa Croce",
+                "en": "Chapelle de confrérie Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den kurzen Spaziergang in der klaren Luft; die Kapelle bietet einen windstillen Rückzugsort für ein paar Minuten.",
+                "hu": "Élvezze a rövid sétát a tiszta levegőn; a kápolna szélcsendes menedéket nyújt néhány percre a falun belül.",
+                "ro": "Bucurați-vă de scurta plimbare în aerul limpede; capela oferă un refugiu ferit de vânt pentru câteva minute.",
+                "en": "Enjoy the short walk in the crisp air; the chapel provides a windless retreat for a few minutes within the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Sénèque",
+                "hu": "Tour de Sénèque",
+                "ro": "Tour de Sénèque",
+                "en": "Tour de Sénèque"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hinauf ist im Winter oft einsam und friedlich; nutzen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang.",
+                "hu": "A felfelé vezető út télen gyakran magányos és békés; használja ki az aranyló fényeket a korai naplemente előtt.",
+                "ro": "Drumul spre vârf este adesea solitar și liniștit iarna; profitați de luminile aurii chiar înainte de apusul devreme.",
+                "en": "The drive up is often solitary and peaceful in winter; take advantage of the golden light just before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Gîtes Sénèque",
+                "hu": "Les Gîtes Sénèque",
+                "ro": "Les Gîtes Sénèque",
+                "en": "Les Gîtes Sénèque"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp in der Nebensaison; die Steinmauern wirken in der tiefstehenden Sonne besonders warm und einladend.",
+                "hu": "Csendes megálló a holtszezonban; a kőfalak az alacsonyan járó napfényben különösen melegnek és hívogatónak tűnnek.",
+                "ro": "O oprire liniștită în extrasezon; zidurile de piatră par deosebit de calde și primitoare în lumina soarelui de iarnă.",
+                "en": "A quiet stop during the off-season; the stone walls look particularly warm and inviting in the low winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Alisu",
+                "hu": "Alisu",
+                "ro": "Alisu",
+                "en": "Alisu"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag vor 17:00 Uhr ab; die Rückfahrt entlang der Küste bei Dämmerung ist mit dem Auto sicher und stimmungsvoll.",
+                "hu": "Zárja a napot 17:00 előtt; a tengerparti visszautat az alkonyatban biztonságosan és hangulatosan teheti meg autóval.",
+                "ro": "Încheiați ziua înainte de ora 17:00; drumul de întoarcere de-a lungul coastei la amurg este sigur și plin de atmosferă cu mașina.",
+                "en": "Conclude your day before 5 PM; the coastal drive back during twilight is safe and atmospheric from the comfort of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

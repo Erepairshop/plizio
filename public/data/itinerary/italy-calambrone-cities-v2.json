@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot Calambrone szívében, fedezze fel a Chiesa di Santa Rosa modern vonalait, mielőtt belélegezné a friss tengerparti levegőt a védett Duna di Calambrone dűnéinél.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a Social Beach hívogató partjai felé, ahol a nyüzsgő légkör és a puha homok tökéletes hátteret biztosít egy pihentető déli szünethez.\n\nAfternoon: Folytassa sétáját a part mentén a Lido Viciente felé, merüljön el a nyüzsgő strandkultúrában, hallgassa a szelíd hullámokat és szívja magába a meleg mediterrán napsütést.\n\nEvening: Zárja gyalogos túráját a Le Dune strandon, és nézze meg a Tirrén-tenger felett lemenő lenyűgöző naplementét, miközben a lágy tengeri szellő kellemesen lehűti az esti levegőt.",
         "ro": "Morning: Începeți ziua în inima orașului Calambrone, descoperind liniile moderne ale Chiesa di Santa Rosa înainte de a respira aerul proaspăt la rezervația naturală Duna di Calambrone.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre țărmurile primitoare de la Social Beach, unde atmosfera plină de viață și nisipul fin oferă cadrul perfect pentru o pauză relaxantă.\n\nAfternoon: Continuați-vă plimbarea de-a lungul coastei către Lido Viciente, scufundându-vă în cultura vibrantă a plajei, ascultând valurile blânde și bucurându-vă de căldura mediteraneană.\n\nEvening: Încheiați turul pietonal la plaja Le Dune, urmărind apusul spectaculos peste Marea Tireniană în timp ce briza blândă a mării răcorește frumos aerul seral.",
         "en": "Morning: Start your day in the heart of Calambrone, discovering the modern lines of Chiesa di Santa Rosa before breathing in the fresh coastal air at the protected Duna di Calambrone.\n\nMidday: As the sun climbs, head towards the inviting shores of Social Beach, where the lively atmosphere and soft sands provide the perfect backdrop for a relaxing midday break.\n\nAfternoon: Continue your stroll along the coast to Lido Viciente, immersing yourself in the vibrant beach culture, listening to the gentle waves, and soaking up the Mediterranean warmth.\n\nEvening: Conclude your walking tour at Le Dune beach, watching the spectacular sunset over the Tyrrhenian Sea as the gentle sea breeze cools the evening air beautifully."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die moderne Kirche Schutz vor dem ersten Guss. Mittags wandern wir unter dem Schirm an den feuchten Dünen entlang, wo die Luft besonders salzig riecht. Nachmittags blicken wir auf das graue, aufgewühlte Meer bei den Strandbädern. Abends reflektieren die Pfützen das Licht der Straßenlaternen, während wir uns ein trockenes Plätzchen suchen.",
+            "hu": "Reggel a templom modern belső tere nyújt menedéket a zápor elől. Délben az esernyők alatt sétálunk a dűnék mentén, élvezve a tenger sós illatát. Délután a szürke, viharos hullámokat figyeljük a strandok fedett teraszairól. Este a vizes aszfalton megcsillanó fények kísérnek minket, miközben egy meleg, száraz helyre tartunk az erősödő szélben.",
+            "ro": "Dimineața, interiorul modern al bisericii oferă un refugiu perfect împotriva ploii. La prânz, ne plimbăm cu umbrela de-a lungul dunelor, unde aerul este sărat și revigorant. După-amiaza, admirăm marea agitată de pe terasele acoperite ale plajelor. Seara, luminile orașului se oglindesc în bălți, creând o atmosferă melancolică în timp ce căutăm un loc uscat.",
+            "en": "In the morning, the modern church interior provides a perfect shelter from the rain. At noon, we walk with umbrellas along the dunes, where the air is fresh and salty. In the afternoon, we watch the stormy waves from the covered terraces of the beach clubs. By evening, city lights reflect in the puddles as we head towards a warm, dry spot in the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Rosa",
+                "hu": "Chiesa di Santa Rosa",
+                "ro": "Chiesa di Santa Rosa",
+                "en": "Chiesa di Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im trockenen Inneren; die Lichtverhältnisse bei Regen verleihen dem Raum eine besonders andächtige Stimmung.",
+                "hu": "Csodálja meg a modern építészetet a száraz belső térben; az esős időben beszűrődő fények különleges, áhítatos hangulatot kölcsönöznek a helynek.",
+                "ro": "Admirați arhitectura modernă în interiorul uscat; lumina care pătrunde în zilele ploioase oferă spațiului o atmosferă deosebit de contemplativă.",
+                "en": "Admire the modern architecture in the dry interior; the lighting during rainy weather gives the space a particularly solemn and peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna di Calambrone",
+                "hu": "Duna di Calambrone",
+                "ro": "Duna di Calambrone",
+                "en": "Duna di Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand ist fester und leichter zu begehen, aber meiden Sie tiefe Pfützen in der Nähe der Vegetation; ein stabiler Schirm ist hier Pflicht.",
+                "hu": "A vizes homok keményebb és könnyebben járható, de kerülje a mélyebb tócsákat a növényzet közelében; egy viharálló esernyő itt elengedhetetlen kellék.",
+                "ro": "Nisipul ud este mai compact și mai ușor de parcurs, dar evitați bălțile adânci de lângă vegetație; o umbrelă rezistentă la vânt este obligatorie aici.",
+                "en": "The wet sand is firmer and easier to walk on, but avoid deep puddles near the vegetation; a windproof umbrella is essential on these open dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Social Beach Calambrone",
+                "hu": "Social Beach Calambrone",
+                "ro": "Social Beach Calambrone",
+                "en": "Social Beach Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische Meer von einem geschützten Unterstand aus; die raue Brandung bei Regen bietet ein beeindruckendes Naturschauspiel.",
+                "hu": "Figyelje a drámai tengert egy védett menedékből; az esőben feltámadó hullámok lenyűgöző látványt nyújtanak, viseljen vízálló cipőt a parton.",
+                "ro": "Observați marea dramatică dintr-un adăpost protejat; valurile mari în timpul ploii oferă un spectacol natural impresionant, purtați încălțăminte impermeabilă.",
+                "en": "Watch the dramatic sea from a sheltered spot; the crashing waves in the rain offer an impressive natural spectacle, and waterproof shoes are recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Viciente",
+                "hu": "Lido Viciente",
+                "ro": "Lido Viciente",
+                "en": "Lido Viciente"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Holzstege, um Ihre Füße im nassen Sand relativ trocken zu halten, während Sie die melancholische Schönheit der leeren Küste genießen.",
+                "hu": "Használja a fapallókat, hogy lábai viszonylag szárazak maradjanak a vizes homokban, miközben élvezi az üres tengerpart melankolikus szépségét.",
+                "ro": "Folosiți pasarelele de lemn pentru a vă păstra picioarele relativ uscate în nisipul ud, în timp ce savurați frumusețea melancolică a coastei pustii.",
+                "en": "Use the wooden walkways to keep your feet relatively dry in the wet sand while enjoying the melancholic beauty of the deserted coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Dune beach",
+                "hu": "Le Dune beach",
+                "ro": "Le Dune beach",
+                "en": "Le Dune beach"
+              },
+              "tip_5lang": {
+                "de": "Der Regen, der auf die Meeresoberfläche trifft, erzeugt ein beruhigendes Geräusch; beenden Sie die Tour unter einem Vordach mit Blick auf den Horizont.",
+                "hu": "A tenger felszínén kopogó eső megnyugtató hangot áraszt; fejezze be a túrát egy előtető alatt, a szürke horizontot fürkészve.",
+                "ro": "Ploaia care cade pe suprafața mării creează un sunet relaxant; încheiați turul sub o streașină, privind orizontul gri și valurile constante.",
+                "en": "The sound of rain hitting the sea surface is incredibly soothing; end your walk under a canopy while gazing at the dramatic gray horizon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der stillen Kirche. Mittags wärmt die blasse Wintersonne unseren Spaziergang durch die goldenen Dünen. Nachmittags genießen wir die absolute Einsamkeit am weiten Strand bei klarer Luft. Gegen 17:00 Uhr sinkt die Sonne tief und färbt den Himmel intensiv, bevor wir uns in die Wärme zurückziehen.",
+            "hu": "A fagyos reggel a csendes templom falai között kezdődik. Délben a halvány téli napsütés melengeti sétánkat az aranyszínű dűnék között. Délután élvezzük a tengerparti magányt és a kristálytiszta, friss levegőt. 17:00 óra körül a nap gyorsan bukik a horizont alá, mi pedig a korai sötétedés elől meleg helyre húzódunk.",
+            "ro": "O dimineață geroasă începe la biserica liniștită. La prânz, soarele palid de iarnă ne încălzește plimbarea prin dunele aurii. După-amiaza, ne bucurăm de singurătatea plajei și de aerul curat și tăios. În jurul orei 17:00, soarele apune rapid, iar noi ne retragem la căldură înainte de lăsarea întunericului.",
+            "en": "A frosty morning begins at the quiet church. At noon, the pale winter sun warms our walk through the golden dunes. In the afternoon, we enjoy the absolute solitude of the beach and the crisp, fresh air. Around 5 PM, the sun sets rapidly, painting the sky in deep colors before we retreat to the warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Rosa",
+                "hu": "Chiesa di Santa Rosa",
+                "ro": "Chiesa di Santa Rosa",
+                "en": "Chiesa di Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kalten Tag in diesem windgeschützten Rückzugsort; die dicken Mauern speichern eine angenehme Stille fernab der Winterbrise.",
+                "hu": "Kezdje a hideg napot ebben a szélvédett menedékben; a vastag falak megőrizik a csendet és nyugalmat a téli tengerparti szél elől menekülve.",
+                "ro": "Începeți ziua rece în acest refugiu ferit de vânt; pereții groși mențin o liniște plăcută, departe de briza tăioasă a iernii.",
+                "en": "Start your cold day in this wind-sheltered sanctuary; the thick walls preserve a peaceful silence away from the biting winter sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna di Calambrone",
+                "hu": "Duna di Calambrone",
+                "ro": "Duna di Calambrone",
+                "en": "Duna di Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und lässt den Sand golden leuchten; tragen Sie eine winddichte Jacke, da der Seewind hier besonders scharf wehen kann.",
+                "hu": "A téli nap alacsonyan jár, amitől a homok aranyszínben tündököl; viseljen szélálló kabátot, mert a tengeri szél itt különösen éles lehet.",
+                "ro": "Soarele de iarnă este jos și face nisipul să strălucească auriu; purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi foarte tăioasă.",
+                "en": "The low winter sun makes the sand glow golden; wear a windproof jacket as the sea breeze can be particularly sharp and cold on the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Social Beach Calambrone",
+                "hu": "Social Beach Calambrone",
+                "ro": "Social Beach Calambrone",
+                "en": "Social Beach Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die seltene Ruhe am menschenleeren Ufer; die klare Winterluft ermöglicht oft eine weite Sicht bis zum Horizont, ideal für Fotos.",
+                "hu": "Élvezze a ritka nyugalmat az elnéptelenedett parton; a tiszta téli levegőben gyakran ellátni a távoli horizontig, ami tökéletes a fotózáshoz.",
+                "ro": "Bucurați-vă de liniștea rară de pe malul pustiu; aerul curat de iarnă permite adesea o vizibilitate excelentă până la orizont, ideal pentru fotografii.",
+                "en": "Enjoy the rare tranquility of the deserted shore; the clear winter air often allows for long-distance views to the horizon, perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Viciente",
+                "hu": "Lido Viciente",
+                "ro": "Lido Viciente",
+                "en": "Lido Viciente"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang hält Sie warm; achten Sie auf die Seevögel, die im Winter ungestört an diesem Küstenabschnitt nach Futter suchen.",
+                "hu": "A tempós séta segít megőrizni a testhőt; figyelje meg a tengeri madarakat, amelyek télen zavartalanul keresgélnek élelmet a parton.",
+                "ro": "O plimbare vioaie vă va menține căldura corporală; observați păsările marine care caută hrană nestingherite pe acest segment de coastă iarna.",
+                "en": "A brisk walk will help you stay warm; keep an eye out for sea birds that forage undisturbed along this stretch of the coast during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Dune beach",
+                "hu": "Le Dune beach",
+                "ro": "Le Dune beach",
+                "en": "Le Dune beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; die Kälte macht die Farben am Himmel besonders intensiv und klar.",
+                "hu": "Nézze meg a korai naplementét 17:00 óra körül; a hideg levegő miatt az ég színei ilyenkor különösen intenzívek és élesek.",
+                "ro": "Urmăriți apusul timpuriu în jurul orei 17:00; aerul rece face ca culorile cerului să fie deosebit de intense și clare în acest sezon.",
+                "en": "Watch the early sunset around 5 PM; the cold air makes the colors of the sky exceptionally intense and vibrant during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Morning: Tekerjen ki korán a buja Oasi Bosco di Cornacchiaia területére, hogy megfigyelhesse az ébredő vadvilágot, majd térjen vissza a városközpontba a Chiesa di Santa Rosa szépségéhez.\n\nMidday: Fedezze fel a Duna di Calambrone egyedülálló parti ökoszisztémáját, mielőtt megpihenne a Social Beach-en, napimádók és a nyüzsgő tengerparti energia által körülvéve.\n\nAfternoon: Kerékpározzon el a tűzoltóállomás mellett, és csatlakozzon a helyiekhez a Spiaggia libera szabadstrandon, élvezve a hűsítő vizet és az autentikus olasz nyári hangulatot.\n\nEvening: Fejezze be az utat a Bagno Meloria strandon, ahol leparkolhatja kerékpárját, és még egyszer megmártózhat a habokban, miközben az alkonyat lenyűgöző színekre festi az eget.",
         "ro": "Morning: Pedalați devreme către luxurianta Oasi Bosco di Cornacchiaia pentru a surprinde viața sălbatică trezindu-se, apoi mergeți spre centru pentru a admira frumoasa Chiesa di Santa Rosa.\n\nMidday: Explorați ecosistemul unic de coastă la Duna di Calambrone înainte de a lua o odihnă bine meritată la Social Beach, înconjurați de alți iubitori de soare și energie vibrantă.\n\nAfternoon: Mergeți lin cu bicicleta pe lângă stația de pompieri și alăturați-vă localnicilor la Spiaggia libera, bucurându-vă de apele răcoroase și de atmosfera verii italiene autentice.\n\nEvening: Terminați plimbarea la Bagno Meloria, unde vă puteți parca bicicleta și vă puteți scufunda în valuri o ultimă dată, în timp ce lumina estompată pictează cerul în culori uimitoare.",
         "en": "Morning: Pedal out to the lush Oasi Bosco di Cornacchiaia early to catch the wildlife waking up, then ride back to the town center to admire the quiet beauty of Chiesa di Santa Rosa.\n\nMidday: Explore the unique coastal ecosystem at Duna di Calambrone before taking a well-deserved rest at Social Beach, surrounded by fellow sun-seekers and vibrant coastal energy.\n\nAfternoon: Cycle smoothly past the Vigili del fuoco station and join the locals at Spiaggia libera, enjoying the refreshing waters and the authentic Italian summer atmosphere.\n\nEvening: Finish your ride at Bagno Meloria, where you can park your bike and dive into the waves one last time as the fading light paints the sky in stunning twilight colors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Wald schützt uns morgens vor leichtem Regen. Mittags radeln wir vorsichtig auf nassen Straßen zur Kirche. Nachmittags folgen wir der Küstenlinie, wobei wir Pfützen und rutschigen Sand meiden. Abends beenden wir die Tour frühzeitig, da die Sicht bei Regen und Dämmerung stark abnimmt.",
+            "hu": "Reggel az erdő lombkoronája némi védelmet nyújt a szemerkélő esőben. Délben óvatosan tekerünk a vizes aszfalton a templom felé. Délután a part menti utakon haladunk, kerülve a csúszós szakaszokat és a pocsolyákat. Estére a látási viszonyok romlanak, ezért érdemes korán befejezni a vizes túrát.",
+            "ro": "Dimineața, coronamentul pădurii oferă protecție împotriva ploii ușoare. La prânz, pedalăm cu atenție pe asfaltul ud către biserică. După-amiaza urmăm linia coastei, evitând porțiunile alunecoase și bălțile mari. Seara, vizibilitatea scade, așa că încheiem turul mai devreme pentru siguranță.",
+            "en": "In the morning, the forest canopy provides some protection from the light rain. At noon, we cycle carefully on wet asphalt towards the church. In the afternoon, we follow the coastline, avoiding slippery spots and puddles. By evening, visibility drops significantly, making it wise to finish the tour early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi Bosco di Cornacchiaia",
+                "hu": "Oasi Bosco di Cornacchiaia",
+                "ro": "Oasi Bosco di Cornacchiaia",
+                "en": "Oasi Bosco di Cornacchiaia"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten Schutz, aber die Wege können schlammig sein; achten Sie auf rutschige Wurzeln und fahren Sie mit angepasstem Reifendruck.",
+                "hu": "A fák védelmet nyújtanak, de az utak sárosak lehetnek; ügyeljen a csúszós gyökerekre és tekerjen óvatosabban a nedves erdei talajon.",
+                "ro": "Copacii oferă adăpost, dar potecile pot fi noroioase; atenție la rădăcinile alunecoase și adaptați viteza la condițiile terenului umed.",
+                "en": "The trees offer some shelter, but paths can be muddy; watch out for slippery roots and adjust your speed for the damp forest ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Rosa",
+                "hu": "Chiesa di Santa Rosa",
+                "ro": "Chiesa di Santa Rosa",
+                "en": "Chiesa di Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause, um die Bremsen zu prüfen; das moderne Vordach bietet einen trockenen Stellplatz für Ihr Fahrrad.",
+                "hu": "Ideális hely egy pihenőre, ahol ellenőrizheti a fékeket; a modern előtető alatt száraz helyet talál a biciklije számára is.",
+                "ro": "Un loc ideal pentru o pauză și verificarea frânelor; streașina modernă oferă un loc uscat pentru a parca bicicleta temporar.",
+                "en": "An ideal spot for a break to check your brakes; the modern canopy provides a dry place to park your bike while you rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna di Calambrone",
+                "hu": "Duna di Calambrone",
+                "ro": "Duna di Calambrone",
+                "en": "Duna di Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren des weichen Sandes im Regen; bleiben Sie auf den befestigten Wegen, um die regnerische Aussicht sicher zu genießen.",
+                "hu": "Kerülje a puha homokon való tekerést az esőben; maradjon a kijelölt utakon, hogy biztonságosan élvezhesse a dűnék vizes látványát.",
+                "ro": "Evitați pedalatul pe nisipul moale în timpul ploii; rămâneți pe drumurile pavate pentru a admira în siguranță peisajul dunelor ude.",
+                "en": "Avoid cycling on soft sand during the rain; stick to the paved paths to safely enjoy the damp views of the coastal dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Social Beach Calambrone",
+                "hu": "Social Beach Calambrone",
+                "ro": "Social Beach Calambrone",
+                "en": "Social Beach Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie helle, wasserfeste Kleidung; auf der Küstenstraße ist die Sicht für Autofahrer bei Regen eingeschränkt, nutzen Sie Ihre Beleuchtung.",
+                "hu": "Viseljen világos, vízálló ruházatot; a tengerparti úton az autósok látási viszonyai romlanak esőben, használja a kerékpáros lámpákat.",
+                "ro": "Purtați haine reflectorizante și impermeabile; pe drumul de coastă vizibilitatea șoferilor este redusă pe ploaie, folosiți farurile bicicletei.",
+                "en": "Wear bright, waterproof gear; visibility for drivers on the coastal road is reduced in the rain, so ensure your bike lights are turned on."
+              }
+            },
+            {
+              "name": {
+                "de": "Vigili del fuoco",
+                "hu": "Vigili del fuoco",
+                "ro": "Vigili del fuoco",
+                "en": "Vigili del fuoco"
+              },
+              "tip_5lang": {
+                "de": "Dieser Abschnitt ist dem Wind ausgesetzt; halten Sie den Lenker bei Böen fest umschlungen und achten Sie auf Pfützen auf der Fahrbahn.",
+                "hu": "Ez a szakasz erősen kitett a szélnek; markolja erősen a kormányt a széllökésekben, és figyeljen az úttesten kialakuló tócsákra.",
+                "ro": "Această secțiune este expusă vântului; țineți bine ghidonul în timpul rafalelor și fiți atenți la bălțile formate pe carosabil.",
+                "en": "This section is very exposed to the wind; maintain a firm grip on your handlebars during gusts and watch out for puddles on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera",
+                "hu": "Spiaggia libera",
+                "ro": "Spiaggia libera",
+                "en": "Spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Grund; der Regen macht den Uferbereich instabil, genießen Sie die Aussicht mit sicherem Stand.",
+                "hu": "Parkolja le a biciklit szilárd talajon; az eső instabillá teheti a part menti homokot, élvezze a kilátást biztonságos távolságból.",
+                "ro": "Parcați bicicleta pe teren solid; ploaia poate face nisipul de pe mal instabil, bucurați-vă de priveliște de la o distanță sigură.",
+                "en": "Park your bike on solid ground; the rain can make the shore sand unstable, so enjoy the view from a safe, firm vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Meloria",
+                "hu": "Bagno Meloria",
+                "ro": "Bagno Meloria",
+                "en": "Bagno Meloria"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem geschützten Ort; prüfen Sie nach der Fahrt Ihre Kette auf Sand und Feuchtigkeit, um Rost vorzubeugen.",
+                "hu": "Zárja le kerékpárját egy védett helyen; a túra után ellenőrizze a láncot, távolítsa el a homokot és a nedvességet a rozsda megelőzésére.",
+                "ro": "Asigurați bicicleta într-un loc protejat; după tur, verificați lanțul și îndepărtați nisipul și umezeala pentru a preveni rugina.",
+                "en": "Secure your bike in a sheltered spot; after the ride, check your chain for sand and moisture to prevent rust and ensure longevity."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Wald glänzt morgens im Reif. Mittags radeln wir in der klaren Wintersonne zur modernen Kirche. Nachmittags genießen wir die weite, leere Küste bei scharfem Seewind. Ab 16:30 Uhr bereiten wir uns auf den Sonnenuntergang vor; Licht am Rad ist wegen der frühen Dunkelheit zwingend erforderlich.",
+            "hu": "A deres erdő látványa fogad minket a csípős reggelen. Délben a kristálytiszta téli napsütésben tekerünk a modern templomhoz. Délután a kihalt tengerparti utakon küzdünk a friss széllel és élvezzük a magányt. 16:30 után készülni kell a sötétedésre; a kerékpáros lámpa kötelező.",
+            "ro": "Pădurea înghețată strălucește dimineața sub brumă. La prânz, pedalăm sub soarele clar de iarnă către biserica modernă. După-amiaza savurăm drumurile de coastă pustii și aerul tăios. După ora 16:30, ne pregătim pentru întuneric; luminile bicicletei sunt obligatorii.",
+            "en": "The frosty forest sparkles with rime in the crisp morning air. At noon, we cycle under the clear winter sun to the modern church. In the afternoon, we enjoy the empty coastal roads and the sharp sea breeze. After 4:30 PM, prepare for darkness; bike lights are absolutely mandatory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi Bosco di Cornacchiaia",
+                "hu": "Oasi Bosco di Cornacchiaia",
+                "ro": "Oasi Bosco di Cornacchiaia",
+                "en": "Oasi Bosco di Cornacchiaia"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermohandschuhe; im schattigen Wald ist es deutlich kälter, aber die kahlen Bäume lassen mehr wärmendes Sonnenlicht durch.",
+                "hu": "Viseljen termokesztyűt; az árnyékos erdőben sokkal hidegebb van, de a kopasz ágak között több melengető napfény jut be ilyenkor.",
+                "ro": "Purtați mănuși termice; în pădurea umbrită este mult mai frig, dar ramurile golașe lasă să treacă mai multă lumină solară binevenită.",
+                "en": "Wear thermal gloves; it is much colder in the shaded forest, but the bare branches allow more warming sunlight to reach the trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Rosa",
+                "hu": "Chiesa di Santa Rosa",
+                "ro": "Chiesa di Santa Rosa",
+                "en": "Chiesa di Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Vorplatz für eine kurze Pause; die moderne Fassade reflektiert das helle, kalte Winterlicht für tolle Fotos.",
+                "hu": "Használja ki a szélcsendes előteret egy rövid pihenőre; a modern homlokzat visszaveri a hideg téli fényt, ami kiváló fotótémát nyújt.",
+                "ro": "Profitați de piațeta ferită de vânt pentru o scurtă pauză; fațada modernă reflectă lumina rece de iarnă, oferind un cadru excelent pentru poze.",
+                "en": "Take advantage of the wind-sheltered square for a short break; the modern facade reflects the bright winter light, making for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna di Calambrone",
+                "hu": "Duna di Calambrone",
+                "ro": "Duna di Calambrone",
+                "en": "Duna di Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen bieten einen leichten Windschutz beim Radeln; genießen Sie den goldenen Sand, der im flachen Winterlicht besonders plastisch wirkt.",
+                "hu": "A dűnék némi szélvédelmet nyújtanak tekerés közben; élvezze az aranyszínű homokot, amely az alacsony téli fényben különösen látványos.",
+                "ro": "Dunele oferă o ușoară protecție împotriva vântului în timp ce pedalați; admirați nisipul auriu care arată spectaculos în lumina joasă a iernii.",
+                "en": "The dunes provide some wind protection while cycling; enjoy the golden sand, which looks particularly textured in the low winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Social Beach Calambrone",
+                "hu": "Social Beach Calambrone",
+                "ro": "Social Beach Calambrone",
+                "en": "Social Beach Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihr Tempo konstant, um die Körperwärme zu halten; die klare Luft bietet einen ungestörten Blick auf den toskanischen Archipel.",
+                "hu": "Tartson egyenletes tempót a testhő megőrzéséhez; a tiszta levegő zavartalan kilátást nyújt a toszkán szigetvilág távoli körvonalaira.",
+                "ro": "Mențineți un ritm constant pentru a vă păstra căldura; aerul curat oferă o vedere neobstrucționată către arhipelagul toscan la orizont.",
+                "en": "Maintain a steady pace to keep your body heat up; the clear air offers an undisturbed view of the distant Tuscan archipelago outlines."
+              }
+            },
+            {
+              "name": {
+                "de": "Vigili del fuoco",
+                "hu": "Vigili del fuoco",
+                "ro": "Vigili del fuoco",
+                "en": "Vigili del fuoco"
+              },
+              "tip_5lang": {
+                "de": "Dieser Abschnitt ist sehr exponiert; tragen Sie einen Schlauchschal gegen den eisigen Seewind, der hier ungehindert von Norden weht.",
+                "hu": "Ez a szakasz nagyon kitett a szélnek; viseljen csősálat a jeges tengeri szél ellen, amely itt akadálytalanul fúj észak felől.",
+                "ro": "Această secțiune este foarte expusă; purtați un fular tip tub împotriva vântului înghețat care bate nestingherit dinspre nord.",
+                "en": "This section is very exposed; wear a neck gaiter against the icy sea wind that blows unobstructed from the north along this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera",
+                "hu": "Spiaggia libera",
+                "ro": "Spiaggia libera",
+                "en": "Spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wintervögel am Ufer; die Stille der Nebensaison macht diesen Ort zu einem friedlichen Halt für Naturliebhaber auf zwei Rädern.",
+                "hu": "Figyelje meg a parton pihenő téli madarakat; a főszezonon kívüli csend békés megállót kínál a természetkedvelő kerékpárosoknak.",
+                "ro": "Observați păsările de iarnă de pe mal; liniștea din afara sezonului transformă acest loc într-o oprire pașnică pentru iubitorii de natură.",
+                "en": "Observe the winter birds on the shore; the off-season silence makes this a peaceful stop for nature-loving cyclists to enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Meloria",
+                "hu": "Bagno Meloria",
+                "ro": "Bagno Meloria",
+                "en": "Bagno Meloria"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie spätestens jetzt Ihre Beleuchtung ein; die Dämmerung setzt im Winter rasch ein, sorgen Sie für gute Sichtbarkeit auf dem Rückweg.",
+                "hu": "Legkésőbb most kapcsolja be a világítást; a szürkület télen hirtelen köszönt be, gondoskodjon a jó láthatóságról a hazaúton.",
+                "ro": "Aprindeți luminile cel târziu acum; amurgul se lasă rapid iarna, asigurați-vă că sunteți vizibil pentru drumul de întoarcere.",
+                "en": "Turn on your lights by now at the latest; twilight sets in very quickly in winter, so ensure you are visible for the ride back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Morning: Vezessen a csodálatos Oasi Bosco di Cornacchiaia területére, hogy a természet lágy ölén kezdje a napot, majd induljon Calambrone felé a modernista Chiesa di Santa Rosa templomhoz.\n\nMidday: Parkoljon le a védett Duna di Calambrone közelében, hogy szemügyre vegye az érintetlen homokdűnéket, majd menjen egyenesen a Le Dune hatalmas strandjára egy fantasztikus déli úszásra.\n\nAfternoon: Folytassa tengerparti útját a Stabilimento balneare Paracadutisti felé, és merüljön el az energikus hangulatban, ahol a helyiek sportolni és kikapcsolódni gyűlnek össze.\n\nEvening: Parkoljon le a Bagno Rosalba strandon, hogy stílusosan fejezze be a napot; pihenjen egy koktéllal ebben az északi létesítményben, ahogy a nap lassan a horizont alá bukik.",
         "ro": "Morning: Conduceți către superba Oasi Bosco di Cornacchiaia pentru a începe ziua în mijlocul naturii, deplasându-vă ulterior în Calambrone pentru a vizita modernista Chiesa di Santa Rosa.\n\nMidday: Parcați lângă Duna di Calambrone pentru a asista la nisipurile naturale imaculate, apoi mergeți direct la întinderile vaste de la plaja Le Dune pentru o baie fantastică.\n\nAfternoon: Continuați călătoria pe coastă spre Stabilimento balneare Paracadutisti, scufundându-vă în vibrația energică unde localnicii se adună pentru sport și petrecerea timpului liber.\n\nEvening: Parcați la Bagno Rosalba pentru a vă încheia ziua cu stil; relaxați-vă la această facilitate de top din nord cu un cocktail, în timp ce soarele coboară încet sub orizont.",
         "en": "Morning: Drive to the magnificent Oasi Bosco di Cornacchiaia to start your day enveloped in deep nature, later moving into Calambrone to visit the modernist Chiesa di Santa Rosa.\n\nMidday: Park near the protected Duna di Calambrone to witness the pristine natural sands, then head straight to the vast expanses of Le Dune beach for a fantastic midday swim.\n\nAfternoon: Continue your coastal road trip to Stabilimento balneare Paracadutisti, diving into the energetic beachfront vibe where locals gather for sports and leisure under the sun.\n\nEvening: Park up at Bagno Rosalba to end your day trip in style; relax at this premier northern establishment with a cocktail as the sun slowly dips below the distant horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Fahrt durch den sattgrünen, regennassen Wald. Mittags parken wir bequem direkt vor der Kirche. Nachmittags beobachten wir das Meer aus dem warmen Auto oder unter einem Schirm an den Aussichtspunkten. Abends lassen wir die Tour bei prasselndem Regen auf dem Autodach gemütlich ausklingen.",
+            "hu": "Reggel a sűrű, vizes erdőn keresztül autózunk, élvezve a látványt. Délben kényelmesen, közvetlenül a templom előtt parkolunk le. Délután a tenger hullámait a fűtött autóból vagy esernyő alól figyeljük a kilátópontoknál. Este a túrát az autótetőn kopogó eső hangja mellett, szárazon fejezzük be.",
+            "ro": "Dimineața conducem prin pădurea verde și udă, admirând peisajul din mașină. La prânz parcăm confortabil chiar în fața bisericii. După-amiaza observăm valurile mării din interiorul încălzit sau de sub umbrelă la punctele de belvedere. Seara încheiem turul la adăpost, ascultând ploaia pe plafon.",
+            "en": "In the morning, we enjoy driving through the lush, rain-soaked forest. At noon, we park conveniently right in front of the church. In the afternoon, we watch the sea waves from the warm car or under an umbrella at the viewpoints. By evening, we finish the tour dry, listening to the rain on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi Bosco di Cornacchiaia",
+                "hu": "Oasi Bosco di Cornacchiaia",
+                "ro": "Oasi Bosco di Cornacchiaia",
+                "en": "Oasi Bosco di Cornacchiaia"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feuchte Vegetation vom Parkplatz aus; der Wald duftet bei Regen besonders intensiv nach Erde und Kiefernadeln.",
+                "hu": "Figyelje meg a dús, vizes növényzetet a parkolóból; az erdőnek esőben különösen intenzív föld- és fenyőillata van, érdemes lehúzni az ablakot.",
+                "ro": "Observați vegetația umedă din parcare; pădurea are un miros deosebit de intens de pământ și pini pe ploaie, merită să deschideți geamul.",
+                "en": "Observe the lush, wet vegetation from the parking area; the forest has an especially intense scent of earth and pine during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Rosa",
+                "hu": "Chiesa di Santa Rosa",
+                "ro": "Chiesa di Santa Rosa",
+                "en": "Chiesa di Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Parkmöglichkeiten, um trocken ins Innere zu gelangen; die Kirche bietet einen ruhigen Rückzugsort vor dem nassen Wetter.",
+                "hu": "Használja a közeli parkolókat, hogy szárazon jusson be; a templom csendes menedéket nyújt az esős időjárás elől a spirituális elmélyüléshez.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a intra fără să vă udați; biserica oferă un refugiu liniștit împotriva vremii ploioase de afară.",
+                "en": "Use the nearby parking spaces to reach the entrance dry; the church offers a quiet and spiritual retreat from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna di Calambrone",
+                "hu": "Duna di Calambrone",
+                "ro": "Duna di Calambrone",
+                "en": "Duna di Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Gang zum Aussichtspunkt lohnt sich; das graue Meer und die dunklen Wolken bieten eine dramatische, filmreife Kulisse.",
+                "hu": "Egy rövid séta a kilátóig megéri a fáradtságot; a szürke tenger és a sötét felhők drámai, filmszerű hátteret nyújtanak a dűnék felett.",
+                "ro": "O scurtă plimbare până la punctul de belvedere merită efortul; marea gri și norii întunecați oferă un decor dramatic, aproape cinematografic.",
+                "en": "A short walk to the viewpoint is worth it; the gray sea and dark clouds provide a dramatic, cinematic backdrop over the coastal dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Dune beach",
+                "hu": "Le Dune beach",
+                "ro": "Le Dune beach",
+                "en": "Le Dune beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Küstenabschnitt bequem von Ihrem Fahrzeug aus; der Regen schafft eine private, fast magische Atmosphäre am Strand.",
+                "hu": "Élvezze a tengerparti kilátást kényelmesen az autójából; az eső privát, szinte varázslatos hangulatot teremt az elnéptelenedett strandon.",
+                "ro": "Bucurați-vă de priveliștea coastei confortabil din vehicul; ploaia creează o atmosferă privată, aproape magică, pe plaja pustie.",
+                "en": "Enjoy the coastal view comfortably from your vehicle; the rain creates a private, almost magical atmosphere on the deserted beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilimento balneare Paracadutisti",
+                "hu": "Stabilimento balneare Paracadutisti",
+                "ro": "Stabilimento balneare Paracadutisti",
+                "en": "Stabilimento balneare Paracadutisti"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung bei leicht geöffnetem Fenster, um das Meer zu hören; fahren Sie auf den nassen Straßen besonders vorsichtig.",
+                "hu": "Figyelje a hullámtörést résnyire lehúzott ablak mellett, hogy hallja a tengert; vezessen különösen óvatosan a vizes, csúszós utakon.",
+                "ro": "Urmăriți valurile care se sparg cu geamul ușor deschis pentru a auzi marea; conduceți cu atenție sporită pe drumurile ude și alunecoase.",
+                "en": "Watch the crashing waves with the window slightly open to hear the sea; drive with extra caution on the wet and slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Rosalba",
+                "hu": "Bagno Rosalba",
+                "ro": "Bagno Rosalba",
+                "en": "Bagno Rosalba"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Halt bietet einen melancholischen Blick auf das Saisonende; die Regentropfen auf den Scheiben verleihen der Szenerie einen weichen Fokus.",
+                "hu": "Az utolsó állomás melankolikus kilátást nyújt a szezon végére; a szélvédőn lepergő esőcseppek lágy fókuszba helyezik a tengerparti tájat.",
+                "ro": "Ultima oprire oferă o vedere melancolică asupra sfârșitului de sezon; picăturile de ploaie de pe geam dau peisajului un aspect difuz și poetic.",
+                "en": "The final stop offers a melancholic view of the season's end; the raindrops on the windshield give the coastal scenery a poetic, soft focus."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Fahrt durch den kahlen Wald ein. Mittags besichtigen wir die moderne Kirche in der hellen Januarsone. Nachmittags wärmen wir uns im Auto zwischen den kurzen Stopps an den goldenen Dünen auf. Gegen 17:00 Uhr erleben wir den intensiven Sonnenuntergang direkt an der Küste, bevor es dunkel wird.",
+            "hu": "A tiszta téli reggel autózásra hív a ritkás erdőn át. Délben a modern templomot látogatjuk meg a szikrázó januári napsütésben. Délután az autó melegében pihenünk a dűnéknél tett rövid, frissítő séták között. 17:00 óra körül a tengerpartról csodáljuk meg az intenzív színekben játszó naplementét.",
+            "ro": "O dimineață senină de iarnă ne invită la o plimbare prin pădurea rară. La prânz vizităm biserica modernă sub soarele strălucitor de ianuarie. După-amiaza ne încălzim în mașină între scurte plimbări revigorante la dune. În jurul orei 17:00 admirăm apusul intens de pe malul mării.",
+            "en": "A clear winter morning invites a drive through the sparse forest. At noon, we visit the modern church in the sparkling January sun. In the afternoon, we warm up in the car between short, refreshing walks at the golden dunes. Around 5 PM, we admire the intense sunset from the shore before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi Bosco di Cornacchiaia",
+                "hu": "Oasi Bosco di Cornacchiaia",
+                "ro": "Oasi Bosco di Cornacchiaia",
+                "en": "Oasi Bosco di Cornacchiaia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick durch die blattlosen Bäume; das klare Winterlicht lässt die Strukturen des Waldes deutlicher hervortreten als im Sommer.",
+                "hu": "Élvezze a kilátást a lombtalan fák között; a tiszta téli fényben az erdő szerkezete sokkal élesebben kirajzolódik, mint a nyári hőségben.",
+                "ro": "Bucurați-vă de vedere printre copacii desfrunziți; lumina clară de iarnă face ca structurile pădurii să fie mult mai vizibile decât vara.",
+                "en": "Enjoy the view through the leafless trees; the clear winter light makes the forest structures appear much sharper than in the summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Rosa",
+                "hu": "Chiesa di Santa Rosa",
+                "ro": "Chiesa di Santa Rosa",
+                "en": "Chiesa di Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am sonnigen Vorplatz; die geometrischen Linien der Kirche kommen im flachen Winterlicht besonders gut zur Geltung.",
+                "hu": "Parkoljon közvetlenül a napsütötte előtéren; a templom geometrikus vonalai az alacsony téli napfényben különösen jól érvényesülnek.",
+                "ro": "Parcați direct în piațeta însorită; liniile geometrice ale bisericii sunt puse în valoare de lumina joasă a soarelui de iarnă.",
+                "en": "Park directly in the sunny square; the geometric lines of the church are beautifully highlighted by the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna di Calambrone",
+                "hu": "Duna di Calambrone",
+                "ro": "Duna di Calambrone",
+                "en": "Duna di Calambrone"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die frische Meeresluft; die Dünen leuchten im Winter golden und bieten ein ruhiges Panorama ohne Badegäste.",
+                "hu": "Egy rövid megálló a friss tengeri levegőért; a dűnék télen aranyszínben pompáznak, és zavartalan panorámát nyújtanak fürdőzők nélkül.",
+                "ro": "O scurtă oprire pentru aerul proaspăt de mare; dunele strălucesc auriu iarna și oferă o panoramă liniștită, fără turiști la plajă.",
+                "en": "A quick stop to breathe the fresh sea air; the dunes glow golden in winter and offer a peaceful panorama without any summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Dune beach",
+                "hu": "Le Dune beach",
+                "ro": "Le Dune beach",
+                "en": "Le Dune beach"
+              },
+              "tip_5lang": {
+                "de": "Idealer Ort für einen kurzen Winterspaziergang; die absolute Stille der Nebensaison macht die Küste zu einem Ort der Entspannung.",
+                "hu": "Ideális helyszín egy rövid téli sétához; a főszezonon kívüli teljes csend a tengerpartot a nyugalom és feltöltődés szigetévé teszi.",
+                "ro": "Locul ideal pentru o scurtă plimbare de iarnă; liniștea deplină din afara sezonului transformă coasta într-un spațiu de relaxare.",
+                "en": "An ideal location for a short winter walk; the absolute silence of the off-season turns the coast into a place for true relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilimento balneare Paracadutisti",
+                "hu": "Stabilimento balneare Paracadutisti",
+                "ro": "Stabilimento balneare Paracadutisti",
+                "en": "Stabilimento balneare Paracadutisti"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den weiten Horizont unter dem blassblauen Himmel; eine Thermoskanne Tee im Auto macht diesen Halt noch gemütlicher.",
+                "hu": "Csodálja meg a tágas horizontot a halványkék ég alatt; egy termosz meleg tea az autóban még hangulatosabbá teszi ezt a megállót.",
+                "ro": "Admirați orizontul vast sub cerul albastru pal; un termos cu ceai cald în mașină va face această oprire și mai plăcută.",
+                "en": "Admire the vast horizon under the pale blue sky; a thermos of hot tea in the car will make this winter stop even more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Rosalba",
+                "hu": "Bagno Rosalba",
+                "ro": "Bagno Rosalba",
+                "en": "Bagno Rosalba"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr; die kalte Luft macht die Farben am Horizont außergewöhnlich klar und leuchtend.",
+                "hu": "Figyelje meg a naplementét 17:00 óra körül; a hideg levegő miatt a horizont színei rendkívül tiszták és ragyogóak ilyenkor.",
+                "ro": "Urmăriți apusul soarelui în jurul orei 17:00; aerul rece face culorile de la orizont extrem de clare și strălucitoare în acest sezon.",
+                "en": "Watch the sunset around 5 PM; the cold air makes the colors on the horizon exceptionally clear and brilliant during the winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Holywell szívében, élvezve a Fő utca varázsát, mielőtt meglátogatja a történelmi Szent Jakab-templomot. Délre eléri a híres Szent Winefride-kutat. A délutánt a középkori Wat's Dyke felfedezésével töltheti. Zárja a gyalogos túrát egy békés esti sétával a kiterjedt Greenfield Valley Heritage Park lenyűgöző és csendes, zöldellő környezetében.",
         "ro": "Începeți dimineața în inima orașului Holywell, bucurându-vă de farmecul străzii principale înainte de a vizita Biserica istorică St. James. Până la prânz veți ajunge la faimoasa Fântână Sf. Winefride. Petreceți-vă după-amiaza explorând digul medieval Wat's Dyke. Încheiați-vă turul cu o plimbare liniștită de seară prin Parcul de Patrimoniu Greenfield Valley.",
         "en": "Start your morning in the heart of Holywell, taking in the local charm of the High Street before visiting the historic St. James' Church. By midday, you'll reach the famous St. Winefride's Well, immersing yourself in local legends. Spend your afternoon tracing the medieval Wat's Dyke. Conclude your walking tour with a peaceful evening stroll through the expansive Greenfield Valley Heritage Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter den Vordächern der High Street, wo Sie den Regen meiden können. Mittags bieten die massiven Mauern der St. James' Church und der Brunnenanlage trockenen Unterschlupf. Am Nachmittag erkunden Sie das Greenfield Valley, dessen dichte Bäume einen natürlichen Schirm bilden. Am Abend kehren Sie durch die glitzernden, nassen Straßen zurück ins Zentrum.",
+            "hu": "Reggel a High Street üzleteinek árkádjai alatt kezdünk, ahol az eső elől is menedéket találunk. Délben a Szent Jakab-templom és a kút belső terei nyújtanak védelmet, miközben a zápor kopog a tetőkön. Délután a völgy sűrűbb lombkoronái alatt sétálunk, figyelve a csúszós ösvényekre. Este a városi fények tükröződnek a nedves aszfalton, miközben egy forró ital mellett pihenünk.",
+            "ro": "Dimineața începe sub copertinele de pe High Street, evitând ploaia. La prânz, zidurile groase ale Bisericii St. James și complexul fântânii oferă adăpost uscat. După-amiaza, explorați Greenfield Valley, unde coronamentul des al copacilor acționează ca o umbrelă naturală. Seara, vă întoarceți prin străzile ude și lucioase spre centru, bucurându-vă de atmosfera melancolică.",
+            "en": "Start your morning under the shop awnings of High Street to stay dry. At midday, the sturdy walls of St. James' Church and the well complex provide excellent indoor shelter. In the afternoon, explore Greenfield Valley, where the dense tree canopy offers natural protection from showers. End your evening by returning through the glistening wet streets as the city lights reflect off the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holywell High Street",
+                "hu": "Holywell Fő utca",
+                "ro": "Holywell High Street",
+                "en": "Holywell High Street"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ladenpassagen als Schutz vor Schauern und tragen Sie imprägnierte Schuhe für die nassen Gehwege.",
+                "hu": "Használja az üzletek előtti árkádokat eső elleni védelemként, és viseljen impregnált cipőt a nedves járdákhoz.",
+                "ro": "Folosiți arcadele magazinelor pentru a vă proteja de ploaie și purtați încălțăminte impermeabilă pe trotuarele umede.",
+                "en": "Utilize the shopfront awnings as shelter from showers and wear waterproof shoes for the wet pavements."
+              }
+            },
+            {
+              "name": {
+                "de": "St. James' Church",
+                "hu": "Szent Jakab-templom",
+                "ro": "Biserica St. James",
+                "en": "St. James' Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere bietet perfekten Schutz vor Regen; bewundern Sie die Glasmalereien im diffusen, grauen Licht.",
+                "hu": "A belső tér tökéletes védelmet nyújt az eső elől; csodálja meg az ólomüvegeket a szórt, szürke fényben.",
+                "ro": "Interiorul oferă protecție perfectă împotriva ploii; admirați vitraliile în lumina difuză și gri a zilei.",
+                "en": "The interior offers perfect protection from the rain; admire the stained glass in the diffused, moody light."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Winefride's Well",
+                "hu": "Szent Winefride-kút",
+                "ro": "Fântâna Sf. Winefride",
+                "en": "St. Winefride's Well"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den überdachten Kreuzgang, um die heilige Quelle trocken zu betrachten, wenn es draußen stark regnet.",
+                "hu": "Keresse fel a fedett kerengőt, ahonnan szárazon figyelheti a szent forrást, ha odakint erősen esne az eső.",
+                "ro": "Vizitați claustrul acoperit pentru a observa fântâna sfântă stând la uscat atunci când afară plouă torențial.",
+                "en": "Visit the covered cloister to observe the sacred spring while staying dry when it rains heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat's Dyke",
+                "hu": "Wat's Dyke",
+                "ro": "Wat's Dyke",
+                "en": "Wat's Dyke"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein; feste Wanderschuhe sind hier ein Muss, um auf dem rutschigen Untergrund Halt zu finden.",
+                "hu": "Az ösvény sáros lehet; a stabil túrabakancs itt kötelező, hogy tartást biztosítson a csúszós talajon.",
+                "ro": "Poteca poate fi noroioasă; bocancii de drumeție sunt obligatorii pentru a avea aderență pe terenul alunecos.",
+                "en": "The path can be muddy; sturdy hiking boots are a must here to provide grip on the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Heritage Park",
+                "hu": "Greenfield Valley Heritage Park",
+                "ro": "Parcul de Patrimoniu Greenfield Valley",
+                "en": "Greenfield Valley Heritage Park"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie bei heftigem Regen in das Besucherzentrum und genießen Sie die mystische Stimmung im nebligen Tal.",
+                "hu": "Heves esőben meneküljön a látogatóközpontba, és élvezze a ködös völgy misztikus hangulatát a fák alatt.",
+                "ro": "Refugiați-vă în centrul pentru vizitatori în caz de ploaie grea și admirați valea cețoasă printre arbori.",
+                "en": "Retreat to the visitor center during heavy rain and enjoy the mystical atmosphere of the misty valley."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weckt Sie die frostige Luft in der High Street auf. Mittags bestaunen Sie die zarten Dampfschwaden über dem heiligen Brunnen, die in der Kälte aufsteigen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das letzte Tageslicht im Greenfield Valley. Den Abend verbringen Sie in der wohligen Wärme eines lokalen Pubs, während draußen der Frost die Stadt überzieht.",
+            "hu": "Reggel a fagyos Fő utcán indulunk, ahol a friss téli levegő azonnal felébreszt. Délben a szent kút felett gomolygó párát csodáljuk, ami misztikus látvány a hidegben. Mivel a nap 17:00 körül nyugszik, az utolsó fényeket a völgyben töltjük. Az estét egy helyi pub melegében zárjuk, miközben odakint a dér belepi a várost.",
+            "ro": "Dimineața, aerul înghețat de pe High Street vă va trezi instantaneu. La prânz, admirați aburii care se ridică din fântâna sfântă, un spectacol mistic în frigul iernii. Deoarece soarele apune în jurul orei 17:00, profitați de ultima lumină în Greenfield Valley. Seara o petreceți la căldura unui pub local, în timp ce gerul cuprinde orașul.",
+            "en": "The frosty morning air on High Street will instantly wake you up. At midday, admire the steam rising from the sacred well, a mystical sight in the winter chill. As the sun sets around 5:00 PM, make the most of the remaining daylight in Greenfield Valley. Spend your evening in the cozy warmth of a local pub as the frost settles over the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holywell High Street",
+                "hu": "Holywell Fő utca",
+                "ro": "Holywell High Street",
+                "en": "Holywell High Street"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Kaffee auf, bevor Sie den windigen Spaziergang durch das frostige Stadtzentrum fortsetzen.",
+                "hu": "Melegedjen fel egy forró kávéval, mielőtt folytatná a szeles sétát a fagyos városközpontban.",
+                "ro": "Încălziți-vă cu o cafea fierbinte înainte de a continua plimbarea vântoasă prin centrul înghețat al orașului.",
+                "en": "Warm up with a hot coffee before continuing your windy walk through the frosty town center."
+              }
+            },
+            {
+              "name": {
+                "de": "St. James' Church",
+                "hu": "Szent Jakab-templom",
+                "ro": "Biserica St. James",
+                "en": "St. James' Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille und Wärme; achten Sie auf glatte Stellen an den Außentreppen.",
+                "hu": "Térjen be a templomba egy pillanatnyi csendre és melegre; ügyeljen a jeges foltokra a külső lépcsőkön.",
+                "ro": "Intrați în biserică pentru un moment de liniște și căldură; atenție la porțiunile înghețate de pe scările exterioare.",
+                "en": "Step inside the church for a moment of silence and warmth; watch out for icy patches on the exterior steps."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Winefride's Well",
+                "hu": "Szent Winefride-kút",
+                "ro": "Fântâna Sf. Winefride",
+                "en": "St. Winefride's Well"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser hat eine konstante Temperatur; der aufsteigende Dampf wirkt im Winter besonders magisch auf Fotos.",
+                "hu": "A víz hőmérséklete állandó; a felszálló pára télen különösen mágikus látványt nyújt a fotókon.",
+                "ro": "Apa are o temperatură constantă; aburii care se ridică oferă un aspect magic fotografiilor pe timp de iarnă.",
+                "en": "The water has a constant temperature; the rising steam looks especially magical in winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat's Dyke",
+                "hu": "Wat's Dyke",
+                "ro": "Wat's Dyke",
+                "en": "Wat's Dyke"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung, da der Wind hier ungeschützt über den Wall wehen kann; genießen Sie die klare Winterluft.",
+                "hu": "Viseljen hőtartó ruházatot, mert a szél akadálytalanul fújhat a sáncon; élvezze a tiszta téli levegőt.",
+                "ro": "Purtați haine termice, deoarece vântul poate bate cu putere pe dig; bucurați-vă de aerul curat de iarnă.",
+                "en": "Wear thermal clothing as the wind can blow unobstructed across the dyke; enjoy the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Heritage Park",
+                "hu": "Greenfield Valley Heritage Park",
+                "ro": "Parcul de Patrimoniu Greenfield Valley",
+                "en": "Greenfield Valley Heritage Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 16:30 Uhr, da es im Tal schnell dunkel wird; Handschuhe für den Abstieg einpacken.",
+                "hu": "Fejezze be a látogatást 16:30 előtt, mert a völgyben hamar sötétedik; vigyen kesztyűt a leereszkedéshez.",
+                "ro": "Încheiați vizita înainte de ora 16:30, deoarece se întunecă repede în vale; purtați mănuși pentru coborâre.",
+                "en": "Finish your visit before 4:30 PM as it gets dark quickly in the valley; pack gloves for the descent."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen ki a városközpontból a reggeli kávé után a Fő utcán, elérve Szent Winefride kútjának szent vizét. A dél egy energikus utat kínál a Wat's Dyke-hoz, majd a Múzeumhoz. A délután a Heritage Park zöld ösvényein folytatódik. Fejezze be kerékpáros útját a történelmi Basingwerk Apátság nagyszerű és inspiráló romjainak felfedezésével.",
         "ro": "Porniți cu bicicleta din centrul orașului după o cafea, ajungând la apele sacre ale Fântânii Sf. Winefride. Prânzul oferă o plimbare energică către Wat's Dyke, urmată de Muzeul Greenfield Valley. După-amiaza continuă pe cărările verzi ale parcului de patrimoniu. Încheiați-vă călătoria explorând rămășițele mărețe ale Abației istorice Basingwerk.",
         "en": "Pedal your way out of the town centre after a morning coffee on the High Street, reaching the sacred waters of St. Winefride's Well. Midday offers an energetic ride to Wat's Dyke followed by the fascinating Greenfield Valley Museum. Your afternoon continues through the Heritage Park's green paths. Finish your cycling journey exploring the grand remains of the historic Basingwerk Abbey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter verlangt heute volle Konzentration auf dem Rad. Morgens starten Sie vorsichtig auf der High Street. Mittags halten Sie am Brunnen, wo das Wasser von oben und unten fließt. Am Nachmittag führt die Fahrt durch das Greenfield Valley, wo die Wege rutschig sein können. Den Abend lassen Sie ruhig ausklingen, nachdem Sie Ihre Ausrüstung getrocknet haben.",
+            "hu": "Az esős idő ma teljes koncentrációt igényel a nyeregben. Reggel óvatosan indulunk a Fő utcáról. Délben megállunk a kútnál, ahol alulról és felülről is folyik a víz. Délután a Greenfield Valley-n tekerünk keresztül, ahol az utak csúszósak lehetnek. Az estét nyugodtan zárjuk, miután megszárítottuk a felszerelésünket.",
+            "ro": "Vremea ploioasă necesită astăzi concentrare maximă pe bicicletă. Dimineața porniți cu grijă de pe High Street. La prânz opriți la fântână, unde apa curge de pretutindeni. După-amiaza, traseul trece prin Greenfield Valley, unde drumurile pot fi alunecoase. Seara se încheie liniștit, după ce v-ați uscat echipamentul.",
+            "en": "Rainy weather demands full concentration on the bike today. Start cautiously from High Street in the morning. At midday, stop at the well where water flows from above and below. In the afternoon, cycle through Greenfield Valley, where paths can be slippery. End the evening quietly after drying off your gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holywell High Street",
+                "hu": "Holywell Fő utca",
+                "ro": "Holywell High Street",
+                "en": "Holywell High Street"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Kopfsteinpflaster; fahren Sie langsam und nutzen Sie Regenbekleidung mit hoher Sichtbarkeit.",
+                "hu": "Ügyeljen a vizes macskakövekre; tekerjen lassan, és viseljen jól látható esőruházatot a biztonságért.",
+                "ro": "Atenție la pavajul umed; pedalați încet și purtați haine de ploaie reflectorizante pentru siguranță.",
+                "en": "Watch out for wet cobblestones; cycle slowly and wear high-visibility rain gear for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Winefride's Well",
+                "hu": "Szent Winefride-kút",
+                "ro": "Fântâna Sf. Winefride",
+                "en": "St. Winefride's Well"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter einem Vorsprung; der Brunnenbereich bietet guten Schutz für eine kurze Pause vom Regen.",
+                "hu": "Láncolja le a biciklit egy eresz alá; a kút környéke jó menedéket nyújt egy rövid szünetre az esőben.",
+                "ro": "Asigurați bicicleta sub o streașină; zona fântânii oferă un adăpost bun pentru o pauză scurtă de ploaie.",
+                "en": "Secure your bike under an overhang; the well area provides good shelter for a short break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat's Dyke",
+                "hu": "Wat's Dyke",
+                "ro": "Wat's Dyke",
+                "en": "Wat's Dyke"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche sind hier unerlässlich, um Schlammspritzer auf der nassen Erdwall-Route zu vermeiden.",
+                "hu": "A sárvédő itt elengedhetetlen, hogy elkerülje a sárfelverődést a vizes földsáncon vezető úton.",
+                "ro": "Apărătorile de noroi sunt esențiale aici pentru a evita stropirea pe traseul umed de pe dig.",
+                "en": "Mudguards are essential here to avoid mud splashes on the wet earthen dyke route."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Museum",
+                "hu": "Greenfield Valley Múzeum",
+                "ro": "Muzeul Greenfield Valley",
+                "en": "Greenfield Valley Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Museumsgebäude für eine längere Pause im Trockenen; die Ausstellungen sind ideal bei Regen.",
+                "hu": "Használja a múzeum épületeit egy hosszabb száraz szünetre; a kiállítások ideálisak esős időben.",
+                "ro": "Folosiți clădirile muzeului pentru o pauză mai lungă la uscat; expozițiile sunt ideale pe timp de ploaie.",
+                "en": "Use the museum buildings for a longer break in the dry; the exhibitions are ideal for rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Heritage Park",
+                "hu": "Greenfield Valley Heritage Park",
+                "ro": "Parcul de Patrimoniu Greenfield Valley",
+                "en": "Greenfield Valley Heritage Park"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei Gefällen; bremsen Sie frühzeitig, da Bremsbeläge auf nassen Felgen weniger effektiv arbeiten.",
+                "hu": "Vigyázat a lejtőkön; fékezzen időben, mert a fékbetétek kevésbé hatékonyak a nedves felniken.",
+                "ro": "Atenție la pante; frânați din timp, deoarece saboții de frână sunt mai puțini eficienți pe jante umede.",
+                "en": "Caution on descents; brake early as brake pads are less effective on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Basingwerk Abbey",
+                "hu": "Basingwerk Apátság",
+                "ro": "Abația Basingwerk",
+                "en": "Basingwerk Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur begrenzten Schutz; ein wasserdichter Helmüberzug hält den Kopf beim Erkunden trocken.",
+                "hu": "A romok csak korlátozott védelmet nyújtanak; egy vízálló sisakhuzat szárazon tartja a fejét felfedezés közben.",
+                "ro": "Ruinele oferă protecție limitată; o husă impermeabilă pentru cască vă va menține capul uscat în timpul explorării.",
+                "en": "The ruins offer limited shelter; a waterproof helmet cover will keep your head dry while exploring."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Wintermorgen auf zwei Rädern. Mittags wärmen Sie sich kurz am Brunnen auf, bevor die Fahrt zum Museum weitergeht. Am Nachmittag radeln Sie durch das stille Greenfield Valley, wobei Sie das Licht vor dem frühen Sonnenuntergang nutzen. Abends entspannen Sie in der Wärme, während das Rad sicher im Trockenen steht.",
+            "hu": "Fagyos kezdés a téli reggelen két keréken. Délben röviden felmelegedünk a kútnál, mielőtt folytatnánk az utat a múzeum felé. Délután a csendes Greenfield Valley-n tekerünk át, kihasználva a fényt a korai naplemente előtt. Este a melegben pihenünk, miközben a bicikli biztonságban, szárazon áll.",
+            "ro": "Un început înghețat de dimineață de iarnă pe două roți. La prânz vă încălziți scurt la fântână înainte de a continua drumul spre muzeu. După-amiaza pedalați prin Greenfield Valley cea liniștită, profitând de lumină înainte de apus. Seara vă relaxați la căldură, cu bicicleta la loc sigur.",
+            "en": "A frosty start to a winter morning on two wheels. At midday, warm up briefly at the well before continuing to the museum. In the afternoon, cycle through the quiet Greenfield Valley, catching the light before the early sunset. Spend the evening relaxing in the warmth while your bike is stored safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holywell High Street",
+                "hu": "Holywell Fő utca",
+                "ro": "Holywell High Street",
+                "en": "Holywell High Street"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um klamme Finger beim Schalten in der klirrenden Morgenkälte zu vermeiden.",
+                "hu": "Viseljen szélálló kesztyűt, hogy elkerülje az elgémberedett ujjakat váltás közben a metsző reggeli hidegben.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a evita degetele amorțite la schimbarea vitezelor în frigul dimineții.",
+                "en": "Wear windproof gloves to avoid numb fingers when shifting gears in the biting morning cold."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Winefride's Well",
+                "hu": "Szent Winefride-kút",
+                "ro": "Fântâna Sf. Winefride",
+                "en": "St. Winefride's Well"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am Brunnen ist oft etwas milder; nutzen Sie den Ort für eine kurze Aufwärmpause für Gesicht und Hände.",
+                "hu": "A levegő a kútnál gyakran valamivel enyhébb; használja a helyet az arc és a kezek rövid felmelegítésére.",
+                "ro": "Aerul de lângă fântână este adesea mai blând; folosiți locul pentru o scurtă pauză de încălzire a feței și mâinilor.",
+                "en": "The air near the well is often slightly milder; use the spot for a short warm-up break for your face and hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat's Dyke",
+                "hu": "Wat's Dyke",
+                "ro": "Wat's Dyke",
+                "en": "Wat's Dyke"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenen Boden auf dem Pfad; reduzieren Sie den Reifendruck leicht für bessere Traktion auf Eis.",
+                "hu": "Ügyeljen a fagyott talajra az ösvényen; csökkentse kissé a guminyomást a jobb tapadásért a jégen.",
+                "ro": "Atenție la solul înghețat de pe potecă; reduceți ușor presiunea în pneuri pentru o tracțiune mai bună pe gheață.",
+                "en": "Watch out for frozen ground on the path; slightly reduce tire pressure for better traction on icy spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Museum",
+                "hu": "Greenfield Valley Múzeum",
+                "ro": "Muzeul Greenfield Valley",
+                "en": "Greenfield Valley Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier Zeit im Inneren ein, um die Körpertemperatur wieder zu regulieren; beheizte Räume sind vorhanden.",
+                "hu": "Tervezzen be benti időt a testhőmérséklet helyreállítására; a fűtött terek rendelkezésre állnak.",
+                "ro": "Planificați timp în interior pentru a vă regla temperatura corpului; sunt disponibile spații încălzite.",
+                "en": "Plan some indoor time here to regulate your body temperature; heated spaces are available."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Heritage Park",
+                "hu": "Greenfield Valley Heritage Park",
+                "ro": "Parcul de Patrimoniu Greenfield Valley",
+                "en": "Greenfield Valley Heritage Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Tal kühlen im Schatten schnell aus; eine helle Beleuchtung ist für den Rückweg ab 16:30 Uhr nötig.",
+                "hu": "A völgyi utak az árnyékban hamar lehűlnek; erős világítás szükséges a visszaúthoz 16:30 után.",
+                "ro": "Drumurile din vale se răcesc rapid la umbră; iluminarea puternică este necesară pentru drumul de întoarcere după 16:30.",
+                "en": "Valley paths cool down quickly in the shade; powerful lighting is needed for the return journey after 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Basingwerk Abbey",
+                "hu": "Basingwerk Apátság",
+                "ro": "Abația Basingwerk",
+                "en": "Basingwerk Abbey"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie bei Glätte vom Rad ab und gehen Sie die letzten Meter zu den Ruinen zu Fuß, um Stürze zu vermeiden.",
+                "hu": "Jegesedés esetén szálljon le a bicikliről, és gyalog tegye meg az utolsó métereket a romokhoz az esések elkerülésére.",
+                "ro": "Dacă este polei, coborâți de pe bicicletă și mergeți ultimii metri pe jos spre ruine pentru a evita căzăturile.",
+                "en": "In case of ice, dismount your bike and walk the last few meters to the ruins to avoid any falls."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje autós túráját egy frissítő indulással a Holywell Szabadidőközpontban, mielőtt a történelmi Szent Winefride-kúthoz hajtana. Élvezze a déli elmerülést a helyi történelemben a Greenfield Valley Múzeumban. A délután elviszi a Basingwerk Apátság romjaihoz. Zárja a napot délre autózva, hogy megcsodálja a Holywelli Városháza lenyűgöző polgári építészetét.",
         "ro": "Începeți turul cu mașina la Centrul de Agrement Holywell înainte de a conduce rapid spre istorica Fântână Sf. Winefride. Bucurați-vă la prânz de istoria locală la Muzeul Greenfield Valley. După-amiaza vă aduce la ruinele maiestuoase ale Abației Basingwerk. Încheiați excursia conducând spre sud pentru a admira arhitectura Primăriei Holywell.",
         "en": "Begin your driving tour with a refreshing start at the Holywell Leisure Centre before making a quick drive to the historic St. Winefride's Well. Enjoy a midday deep dive into local history at the Greenfield Valley Museum. The afternoon brings you to the majestic ruins of Basingwerk Abbey. Conclude your day trip by driving south to admire the impressive civic architecture of Holywell Town Hall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen genießen Sie heute maximalen Komfort im Auto. Morgens parken Sie bequem am Leisure Centre. Mittags geht es zum Brunnen, wo Sie nur kurz durch den Regen zum Eingang huschen müssen. Am Nachmittag besuchen Sie das Museum und die Abtei, wobei Sie die Heizung zwischen den Stopps genießen. Der Abend endet trocken und entspannt im Stadtzentrum.",
+            "hu": "Az eső ellenére ma maximális kényelemben lesz része az autóban. Reggel kényelmesen parkolunk a Szabadidőközpontnál. Délben a kúthoz hajtunk, ahol csak röviden kell az esőben szaladni a bejáratig. Délután a múzeumot és az apátságot látogatjuk meg, élvezve a fűtést a megállók között. Az este szárazon és nyugodtan zárul a városközpontban.",
+            "ro": "În ciuda ploii, astăzi vă bucurați de confort maxim în mașină. Dimineața parcați comod la Centrul de Agrement. La prânz mergeți spre fântână, unde trebuie doar să fugiți scurt prin ploaie până la intrare. După-amiaza vizitați muzeul și abația, bucurându-vă de căldură între opriri. Seara se încheie la uscat și relaxat în centrul orașului.",
+            "en": "Despite the rain, you'll enjoy maximum comfort in your car today. In the morning, park conveniently at the Leisure Centre. At midday, head to the well, where you only need a quick dash through the rain to the entrance. Spend the afternoon visiting the museum and abbey, enjoying the car heater between stops. Your evening ends dry and relaxed in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holywell Leisure Centre",
+                "hu": "Holywell Szabadidőközpont",
+                "ro": "Centrul de Agrement Holywell",
+                "en": "Holywell Leisure Centre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um bei Schauern trocken ins Gebäude zu gelangen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy esőben is szárazon jusson be az épületbe.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge la uscat în clădire în timpul averselor.",
+                "en": "Park as close to the entrance as possible to reach the building dry during rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Winefride's Well",
+                "hu": "Szent Winefride-kút",
+                "ro": "Fântâna Sf. Winefride",
+                "en": "St. Winefride's Well"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm griffbereit im Auto für den kurzen Fußweg vom Parkplatz zur Quelle.",
+                "hu": "Tartsa esernyőjét karnyújtásnyira az autóban a parkolótól a forrásig tartó rövid sétához.",
+                "ro": "Țineți umbrela la îndemână în mașină pentru scurta plimbare de la parcare până la izvor.",
+                "en": "Keep your umbrella within reach in the car for the short walk from the parking area to the spring."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Museum",
+                "hu": "Greenfield Valley Múzeum",
+                "ro": "Muzeul Greenfield Valley",
+                "en": "Greenfield Valley Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet überdachte Bereiche; nutzen Sie die Fahrt dorthin, um die Kleidung mit der Klimaanlage zu trocknen.",
+                "hu": "A múzeum fedett területeket kínál; használja az odautat a ruházat szárítására a légkondicionálóval.",
+                "ro": "Muzeul oferă zone acoperite; folosiți drumul până acolo pentru a vă usca hainele cu ajutorul climatizării.",
+                "en": "The museum offers covered areas; use the drive there to dry your clothes using the car's air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Basingwerk Abbey",
+                "hu": "Basingwerk Apátság",
+                "ro": "Abația Basingwerk",
+                "en": "Basingwerk Abbey"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah an den Ruinen; warten Sie im Auto, bis ein heftiger Schauer nachlässt, bevor Sie aussteigen.",
+                "hu": "A parkoló közel van a romokhoz; várja meg az autóban, amíg a heves zápor alábbhagy, mielőtt kiszállna.",
+                "ro": "Parcarea este aproape de ruine; așteptați în mașină până când o aversă puternică trece înainte de a coborî.",
+                "en": "The parking lot is close to the ruins; wait in the car for heavy showers to pass before stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Holywell Town Hall",
+                "hu": "Holywelli Városháza",
+                "ro": "Primăria Holywell",
+                "en": "Holywell Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Parkplätze mit Asphaltbelag, um beim Aussteigen nicht in tiefe Pfützen oder Schlamm zu treten.",
+                "hu": "Használjon aszfaltozott parkolóhelyeket, hogy kiszálláskor ne lépjen mély tócsákba vagy sárba.",
+                "ro": "Folosiți locuri de parcare asfaltate pentru a evita bălțile adânci sau noroiul la coborârea din mașină.",
+                "en": "Use paved parking spots to avoid stepping into deep puddles or mud when getting out of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die winterliche Landschaft von Holywell aus dem warmen Auto. Morgens starten Sie mit Sitzheizung am Leisure Centre. Mittags bewundern Sie den Dampf am Brunnen, bevor Sie zum Museum weiterfahren. Da es früh dunkel wird, sind die beleuchteten Ruinen der Abtei ein Highlight am späten Nachmittag. Den Abend lassen Sie bei angenehmer Wärme ausklingen.",
+            "hu": "Élvezze Holywell téli tájait a meleg autóból. Reggel ülésfűtéssel indulunk a Szabadidőközpontnál. Délben a kút páráját csodáljuk, mielőtt továbbhajtanánk a múzeumhoz. Mivel korán sötétedik, az apátság kivilágított romjai az uzsonnaidő fénypontjai. Az estét kellemes melegben zárjuk.",
+            "ro": "Admirați peisajele de iarnă din Holywell din căldura mașinii. Dimineața porniți cu încălzirea în scaune de la Centrul de Agrement. La prânz admirați aburii fântânii înainte de a merge la muzeu. Deoarece se întunecă devreme, ruinele iluminate ale abației sunt punctul culminant al după-amiezii. Seara se încheie la o temperatură plăcută.",
+            "en": "Enjoy Holywell's winter landscapes from the comfort of a warm car. Start your morning with seat heaters at the Leisure Centre. At midday, admire the steam at the well before driving to the museum. As it gets dark early, the abbey's ruins are a late afternoon highlight. End your evening in pleasant warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holywell Leisure Centre",
+                "hu": "Holywell Szabadidőközpont",
+                "ro": "Centrul de Agrement Holywell",
+                "en": "Holywell Leisure Centre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Abfahrt; kalte Temperaturen können den Druck in den Reifen senken.",
+                "hu": "Ellenőrizze a guminyomást indulás előtt; a hideg hőmérséklet csökkentheti a nyomást az abroncsokban.",
+                "ro": "Verificați presiunea în anvelope înainte de plecare; temperaturile scăzute pot scădea presiunea din pneuri.",
+                "en": "Check your tire pressure before leaving; cold temperatures can cause a drop in tire pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Winefride's Well",
+                "hu": "Szent Winefride-kút",
+                "ro": "Fântâna Sf. Winefride",
+                "en": "St. Winefride's Well"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz; die Wege zur Quelle werden bei Frost oft gestreut, seien Sie dennoch vorsichtig.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban; a forráshoz vezető utakat fagyban gyakran sózzák, de legyen óvatos.",
+                "ro": "Atenție la polei în parcare; potecile spre izvor sunt adesea presărate cu sare, dar fiți totuși prudenți.",
+                "en": "Watch out for black ice in the parking lot; paths to the spring are often gritted, but remain cautious."
+              }
+            },
+            {
+              "name": {
+                "de": "Greenfield Valley Museum",
+                "hu": "Greenfield Valley Múzeum",
+                "ro": "Muzeul Greenfield Valley",
+                "en": "Greenfield Valley Museum"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; die Museumshallen bieten genug Wärme für eine angenehme Pause.",
+                "hu": "Ne járassa feleslegesen a motort; a múzeumi csarnokok elég meleget nyújtanak egy kellemes szünethez.",
+                "ro": "Nu lăsați motorul pornit inutil; sălile muzeului oferă destulă căldură pentru o pauză plăcută.",
+                "en": "Don't leave the engine idling unnecessarily; the museum halls provide enough warmth for a comfortable break."
+              }
+            },
+            {
+              "name": {
+                "de": "Basingwerk Abbey",
+                "hu": "Basingwerk Apátság",
+                "ro": "Abația Basingwerk",
+                "en": "Basingwerk Abbey"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen vor 16:30 Uhr, um das restliche Tageslicht für Fotos der frostigen Steine zu nutzen.",
+                "hu": "Látogassa meg a romokat 16:30 előtt, hogy kihasználja a maradék fényt a fagyos kövek fotózásához.",
+                "ro": "Vizitați ruinele înainte de 16:30 pentru a profita de lumina rămasă pentru fotografierea pietrelor înghețate.",
+                "en": "Visit the ruins before 4:30 PM to make the most of the remaining daylight for photos of the frosty stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Holywell Town Hall",
+                "hu": "Holywelli Városháza",
+                "ro": "Primăria Holywell",
+                "en": "Holywell Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheibenwaschanlage mit Frostschutz gefüllt ist, da Salz auf den Straßen die Sicht trüben kann.",
+                "hu": "Ellenőrizze, hogy a szélvédőmosó fagyállóval van-e feltöltve, mert az utak sózása rontja a kilátást.",
+                "ro": "Asigurați-vă că aveți lichid de parbriz antigel, deoarece sarea de pe drumuri poate murdări parbrizul rapid.",
+                "en": "Ensure your windshield washer fluid is winter-ready, as road salt can quickly smear your vision."
+              }
+            }
+          ]
+        }
       }
     }
   }

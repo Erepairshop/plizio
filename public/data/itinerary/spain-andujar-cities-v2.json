@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a fenséges Arco de Capuchinosnál. Dél körül a Museo Históricóban merülhet el a helyi történelemben, mielőtt felfedezné a központ régi kúriáit. Délután a gótikus Iglesia de San Bartolomé kínál csendes menedéket. A nap hangulatos sétával zárul a folyón átívelő ókori római hídon, ahonnan gyönyörű kilátás nyílik a lemenő napfényben.",
         "ro": "Începeți ziua la maiestuosul Arco de Capuchinos. La prânz, aprofundați istoria locală la Museo Histórico, înainte de a explora vechile conace nobiliare din centrul orașului. După-amiaza, biserica gotică San Bartolomé vă oferă un refugiu liniștit. Ziua se încheie într-o atmosferă magică pe podul roman antic, admirând apele liniștite ale râului.",
         "en": "Start your day at the majestic Arco de Capuchinos. Around midday, dive deep into local history at the Museo Histórico before exploring the grand old mansions in the city center. In the afternoon, the Gothic Iglesia de San Bartolomé provides a peaceful retreat. The day ends atmospherically on the ancient Roman bridge crossing the beautiful river."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Arco de Capuchinos, ideal um den ersten Schauer abzuwarten. Mittags bieten die dicken Mauern des Historischen Museums ein perfektes, trockenes Refugium voller Kultur. Am Nachmittag spazieren wir mit dem Schirm zwischen den Adelspalästen und der Kirche San Bartolomé. Abends wirkt die alte Brücke im Regen mystisch, doch Vorsicht auf den rutschigen Steinen.",
+            "hu": "A reggel az Arco de Capuchinos íve alatt indul, amely kiváló menedék az eső elől. Délben a Történeti Múzeum fedett tereiben merülünk el Andújar múltjában, elkerülve a saras utcákat. Délután az esernyők alatt gyors látogatást teszünk a paloták homlokzatainál és a templomban. Este a római híd kövei csúszóssá válhatnak a párás időben, ezért óvatos léptekkel zárjuk a napot a folyóparton.",
+            "ro": "Dimineața începe sub Arco de Capuchinos, un loc perfect pentru a te adăposti de ploaia ușoară. La prânz, Muzeul Istoric oferă un refugiu uscat și fascinant printre artefacte antice. După-amiaza explorăm fațadele palatelor sub umbrelă, făcând o oprire prelungită în biserica San Bartolomé. Seara, podul roman capătă un aer mistic în ploaie, dar atenție sporită la pavajul care devine alunecos.",
+            "en": "Morning begins under the protective Arco de Capuchinos, ideal for sheltering from the first drops of rain. At noon, the Historical Museum provides a perfect indoor escape to explore the city's rich heritage comfortably. In the afternoon, we walk with umbrellas between palace facades and the church of San Bartolomé. By evening, the Roman bridge looks mystical in the mist, but mind the slippery stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de Capuchinos",
+                "hu": "Arco de Capuchinos",
+                "ro": "Arco de Capuchinos",
+                "en": "Arco de Capuchinos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das breite Tor als ersten trockenen Treffpunkt und bewundern Sie die Details des Mauerwerks, während Sie auf eine Regenpause warten.",
+                "hu": "Használja a széles kapualjat első száraz találkozási pontként, és csodálja meg a falazat részleteit, miközben az eső alábbhagyására vár.",
+                "ro": "Folosiți arcada largă ca prim punct de întâlnire ferit de ploaie și admirați detaliile zidăriei în timp ce așteptați o pauză de la precipitații.",
+                "en": "Use the wide archway as your first dry meeting point and admire the masonry details while waiting for a break in the rain before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in den archäologischen Sälen, um dem Wetter zu trotzen; die Innenräume sind perfekt klimatisiert und absolut trocken.",
+                "hu": "Hosszabbítsa meg a látogatást a régészeti termekben, hogy elkerülje az égi áldást; a belső terek tökéletesen szárazak és rendkívül tartalmasak.",
+                "ro": "Prelungiți vizita în sălile arheologice pentru a evita vremea de afară; interioarele sunt perfect uscate și oferă o perspectivă istorică bogată.",
+                "en": "Extend your stay in the archaeological halls to escape the downpour; the interiors are perfectly dry and offer a rich perspective on local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Cárdenas y Valdivia",
+                "hu": "Casa de los Cárdenas y Valdivia",
+                "ro": "Casa de los Cárdenas y Valdivia",
+                "en": "Casa de los Cárdenas y Valdivia"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die prächtige Fassade aus der Entfernung unter einem Vordach gegenüber, um die Wappen ohne nass werdende Kamera zu fotografieren.",
+                "hu": "Csodálja meg a pompás homlokzatot a szemközti előtetők alól, így az esernyővel sem kell bajlódnia a családi címerek fotózása közben.",
+                "ro": "Admirați fațada splendidă de sub o streșină de vizavi, astfel încât să puteți fotografia blazoanele familiei fără a vă uda echipamentul.",
+                "en": "Admire the splendid facade from under a nearby eave across the street to photograph the family crests without getting your camera wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Portada de Casa de los Albarracin",
+                "hu": "Casa de los Albarracin Portál",
+                "ro": "Portalul Casa de los Albarracin",
+                "en": "Portada de Casa de los Albarracin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regengeschützter Stopp unter dem Portal reicht aus, um die kunstvollen Steinmetzarbeiten zu bewundern, bevor es zum nächsten Innenraum geht.",
+                "hu": "Egy rövid, esőtől védett megálló a portál alatt bőven elég, hogy megcsodálja a faragványokat, mielőtt a következő fedett helyszínre indulna.",
+                "ro": "O scurtă oprire sub portal este suficientă pentru a admira sculpturile în piatră înainte de a vă grăbi spre următorul obiectiv de interior.",
+                "en": "A brief stop under the portal is enough to admire the intricate stonework before rushing to the next indoor location to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Facade of the Palacio de los Pérez de Vargas y Gormaz",
+                "hu": "A Pérez de Vargas y Gormaz Palota Homlokzata",
+                "ro": "Fațada Palacio de los Pérez de Vargas y Gormaz",
+                "en": "Facade of the Palacio de los Pérez de Vargas y Gormaz"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Steine der Fassade wirken bei Regen besonders kontrastreich; nutzen Sie die kurzen Intervalle zwischen den Schauern für ein schnelles Foto.",
+                "hu": "A homlokzat sötét kövei esőben különösen kontrasztosak; használja ki a záporok közötti rövid szüneteket egy gyors, hangulatos fotó elkészítéséhez.",
+                "ro": "Pietrele întunecate ale fațadei par deosebit de contrastate în ploaie; profitați de pauzele scurte dintre averse pentru o fotografie rapidă.",
+                "en": "The dark stones of the facade look particularly striking in the rain; use the brief intervals between showers for a quick, atmospheric photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "San Bartolomé Templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Iglesia de San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche und trockene Atmosphäre; nutzen Sie die Zeit im Inneren, um die gotischen Details fernab der nassen Straßen zu genießen.",
+                "hu": "A templom békés és száraz menedéket nyújt; használja ki az időt a gótikus részletek megcsodálására, távol a város vizes, zajos utcáitól.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat; profitați de timpul petrecut în interior pentru a admira detaliile gotice departe de străzile ude.",
+                "en": "The church offers a peaceful and dry sanctuary; take your time to admire the Gothic details away from the wet and noisy city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano de Andújar",
+                "hu": "Andújar Római Hídja",
+                "ro": "Podul Roman din Andújar",
+                "en": "Puente Romano de Andújar"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigem Kopfsteinpflaster; der Blick auf den anschwellenden Fluss unter dem Regenmantel ist jedoch einzigartig dramatisch.",
+                "hu": "Vigyázzon a tócsákra és a csúszós macskakövekre; a megáradt folyó látványa az esőfüggöny mögül azonban egyedülállóan drámai élményt nyújt.",
+                "ro": "Atenție la bălți și la pavajul alunecos; vederea râului umflat prin perdeaua de ploaie oferă totuși o experiență dramatică unică.",
+                "en": "Watch out for puddles and slippery cobblestones; however, the view of the rising river through the rain curtain is uniquely dramatic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Wintermorgen leuchtet der Arco de Capuchinos im klaren Licht. Mittags wärmen wir uns im Historischen Museum auf, während die Wintersonne tief steht. Da es bereits gegen 17:00 Uhr dunkel wird, besuchen wir die Palastfassaden am frühen Nachmittag. Der Tag endet mit einem frostigen, aber wunderschönen Sonnenuntergang an der römischen Brücke, wobei warme Kleidung für die Brise vom Fluss nötig ist.",
+            "hu": "A hűvös téli reggelen az Arco de Capuchinos tiszta fényben ragyog. Délben a Történeti Múzeum kiállításai között melegedünk fel, kihasználva a beltéri programot. Mivel 17:00 körül már sötétedik, a palotákat kora délután keressük fel. A napot a római hídnál zárjuk a fagyos, de gyönyörű naplementében, ahol a folyó felől érkező szél miatt fontos a réteges öltözet.",
+            "ro": "În dimineața răcoroasă de iarnă, Arco de Capuchinos strălucește sub lumina clară. La prânz ne încălzim printre exponatele Muzeului Istoric, profitând de atmosfera caldă. Deoarece se întunecă în jur de ora 17:00, vizităm palatele devreme. Ziua se încheie cu un apus înghețat dar superb la podul roman, unde hainele groase sunt esențiale din cauza brizei râului.",
+            "en": "On a cool winter morning, Arco de Capuchinos shines in the crisp, clear light. At noon, we warm up inside the Historical Museum while the sun stays low. Since it gets dark around 17:00, we visit the palace facades in the early afternoon. The day ends with a freezing but beautiful sunset at the Roman Bridge, where warm layers are essential against the river breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de Capuchinos",
+                "hu": "Arco de Capuchinos",
+                "ro": "Arco de Capuchinos",
+                "en": "Arco de Capuchinos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick durch den Bogen am Morgen; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf das alte Mauerwerk.",
+                "hu": "Élvezze a tiszta kilátást a kapun keresztül reggel; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet az ősi falakra.",
+                "ro": "Bucurați-vă de vederea clară prin arcadă dimineața; soarele jos de iarnă aruncă umbre lungi și dramatice pe zidăria veche.",
+                "en": "Enjoy the clear view through the arch in the morning; the low winter sun casts long, dramatic shadows on the ancient masonry."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Besichtigungen im beheizten Inneren aufzuwärmen und in aller Ruhe die Bronzezeit-Funde zu studieren.",
+                "hu": "Ideális helyszín a felmelegedésre a fűtött termekben; tanulmányozza nyugodt körülmények között a bronzkori leleteket a kinti hideg elől menekülve.",
+                "ro": "Un loc ideal pentru a vă încălzi în interiorul încălzit; studiați în liniște descoperirile din epoca bronzului, adăpostindu-vă de frig.",
+                "en": "An ideal place to warm up in the heated interior; take your time studying the Bronze Age artifacts while escaping the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Cárdenas y Valdivia",
+                "hu": "Casa de los Cárdenas y Valdivia",
+                "ro": "Casa de los Cárdenas y Valdivia",
+                "en": "Casa de los Cárdenas y Valdivia"
+              },
+              "tip_5lang": {
+                "de": "Die Steinfassade speichert die kühle Winterluft; machen Sie Ihre Fotos zügig und nutzen Sie die sonnigen Abschnitte der Straße für mehr Wärme.",
+                "hu": "A kőhomlokzat árasztja a téli hideget; készítse el gyorsan a fotókat, és maradjon az utca napos oldalán, hogy egy kis meleget gyűjtsön.",
+                "ro": "Fațada de piatră reține aerul rece de iarnă; faceți fotografiile rapid și rămâneți pe partea însorită a străzii pentru a vă încălzi puțin.",
+                "en": "The stone facade radiates the winter cold; take your photos quickly and try to stay on the sunny side of the street to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Portada de Casa de los Albarracin",
+                "hu": "Casa de los Albarracin Portál",
+                "ro": "Portalul Casa de los Albarracin",
+                "en": "Portada de Casa de los Albarracin"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal vor 15:00 Uhr, um das beste natürliche Licht auf den Details zu haben, bevor die Sonne hinter den Gebäuden verschwindet.",
+                "hu": "Látogassa meg ezt az emlékművet 15:00 előtt, hogy a legjobb természetes fényben lássa a részleteket, mielőtt a nap eltűnik a házak mögött.",
+                "ro": "Vizitați acest monument înainte de ora 15:00 pentru a vedea detaliile în cea mai bună lumină naturală, înainte ca soarele să apună după clădiri.",
+                "en": "Visit this monument before 15:00 to see the details in the best natural light before the sun disappears behind the surrounding buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Facade of the Palacio de los Pérez de Vargas y Gormaz",
+                "hu": "A Pérez de Vargas y Gormaz Palota Homlokzata",
+                "ro": "Fațada Palacio de los Pérez de Vargas y Gormaz",
+                "en": "Facade of the Palacio de los Pérez de Vargas y Gormaz"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Härte der Architektur kommt ohne störendes Laub der umliegenden Bäume besonders gut zur Geltung; perfekt für architektonische Aufnahmen.",
+                "hu": "Az építészet téli szigorúsága a környező fák lombkoronája nélkül még jobban érvényesül; tökéletes időszak tiszta építészeti fotók készítésére.",
+                "ro": "Severitatea iernatică a arhitecturii este pusă în valoare fără frunzișul copacilor din jur; este perioada perfectă pentru fotografii arhitecturale clare.",
+                "en": "The wintry starkness of the architecture is even more apparent without the foliage of nearby trees; a perfect time for clear architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "San Bartolomé Templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Iglesia de San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, dass Kirchen im Winter oft sehr kühl sind; behalten Sie Ihren Mantel an, während Sie die beeindruckenden Altäre und Kapellen bewundern.",
+                "hu": "Vegye figyelembe, hogy a templomok télen gyakran igen hűvösek; tartsa magán a kabátját, miközben a lenyűgöző oltárokat és kápolnákat csodálja.",
+                "ro": "Rețineți că bisericile sunt adesea foarte reci iarna; păstrați haina pe dvs. în timp ce admirați altarele și capelele impresionante.",
+                "en": "Keep in mind that churches are often very chilly in winter; keep your coat on while admiring the impressive altars and chapels inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano de Andújar",
+                "hu": "Andújar Római Hídja",
+                "ro": "Podul Roman din Andújar",
+                "en": "Puente Romano de Andújar"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich um 16:45 Uhr an, um den Sonnenuntergang über dem Fluss zu erleben, bevor die Kälte nach Sonnenuntergang deutlich spürbar wird.",
+                "hu": "Érkezzen pontosan 16:45-re, hogy elcsípje a folyó feletti naplementét, mielőtt a sötétedés utáni hirtelen lehűlés érezhetővé válna.",
+                "ro": "Sosiți exact la ora 16:45 pentru a prinde apusul peste râu, înainte ca răceala de după lăsarea întunericului să devină cu adevărat resimțită.",
+                "en": "Arrive exactly at 16:45 to catch the sunset over the river before the sharp post-sunset chill sets in and the light fades completely."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kerékpározzon az Arco de Capuchinostól a Teatro Principal felé. Délben két keréken fedezheti fel a történelmi óvárost és a lenyűgöző Rincón Cordobést. A délután a művészeté a Museo González Oreában, valamint a San Bartolomé templom csodálatos építészetéé. A napot egy pihentető tekerés zárja az ősi római hídhoz, gyönyörű természeti környezetben.",
         "ro": "Porniți pe bicicletă de la Arco de Capuchinos spre Teatro Principal. La prânz, explorați centrul istoric și fascinantul Rincón Cordobés pe două roți. După-amiaza este dedicată artei la Museo González Orea și arhitecturii bisericii San Bartolomé. O plimbare relaxantă până la Podul Roman reprezintă încheierea perfectă a acestei zile pline de descoperiri.",
         "en": "Pedal from the Arco de Capuchinos towards the Teatro Principal. At midday, explore the historic old town and the fascinating Rincón Cordobés on two wheels. The afternoon is dedicated to art at the Museo González Orea and the stunning architecture of San Bartolomé. A relaxing ride to the Roman Bridge forms the perfect, scenic conclusion to your trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig über das nasse Kopfsteinpflaster von Andújar. Der Morgen beginnt am Arco de Capuchinos, gefolgt von einem Besuch im trockenen Teatro Principal. Mittags dient das Historische Museum als kultureller Regenschutz. Am Nachmittag steuern wir Museen und Kirchen an, um Zeit im Freien zu minimieren. Die Tour endet an der römischen Brücke, wo Sie wegen des rutschigen Untergrunds beim Bremsen besonders achtsam sein müssen.",
+            "hu": "Kerekezzen óvatosan Andújar vizes macskakövein. A reggel az Arco de Capuchinosnál indul, majd a Teatro Principal fedett nézőterén pihenünk. Délben a Történeti Múzeum nyújt menedéket a záporok elől. Délután múzeumokat és templomokat érintünk, hogy minimálisra csökkentsük a kinti tartózkodást. A túra a római hídnál zárul, ahol a csúszós út miatt különös figyelmet igényel a fékezés.",
+            "ro": "Pedalați cu atenție pe pavajul ud din Andújar. Dimineața începe la Arco de Capuchinos, urmată de o vizită la adăpostul teatrului Principal. La prânz, Muzeul Istoric servește drept protecție culturală împotriva ploii. După-amiaza vizităm muzee și biserici pentru a minimiza timpul petrecut afară. Turul se încheie la podul roman, unde pavajul alunecos necesită o frânare foarte prudentă.",
+            "en": "Cycle carefully over the wet cobblestones of Andújar. The morning starts at Arco de Capuchinos, followed by a visit to the dry Teatro Principal. At noon, the Historical Museum serves as a cultural rain shelter. In the afternoon, we target museums and churches to minimize outdoor time. The tour ends at the Roman Bridge, where the slippery surface requires extra caution when braking."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de Capuchinos",
+                "hu": "Arco de Capuchinos",
+                "ro": "Arco de Capuchinos",
+                "en": "Arco de Capuchinos"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier unter dem Torbogen Ihre Bremsen und ziehen Sie Ihre Regenjacke fest, bevor Sie die Fahrt auf den glatten Straßen fortsetzen.",
+                "hu": "Ellenőrizze fékjeit a kapualj védelmében, és igazítsa meg esőkabátját, mielőtt folytatná az utat a csúszós városi utcákon.",
+                "ro": "Verificați frânele sub protecția arcadei și ajustați-vă pelerina de ploaie înainte de a continua drumul pe străzile alunecoase.",
+                "en": "Check your brakes under the shelter of the archway and secure your raincoat before continuing your ride on the slick city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Principal",
+                "hu": "Fő Színház",
+                "ro": "Teatrul Principal",
+                "en": "Teatro Principal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine längere Pause im Trockenen; das Theater bietet eine elegante Flucht vor dem prasselnden Regen draußen.",
+                "hu": "Használja ki ezt a megállót egy hosszabb száraz pihenőre; a színház elegáns menekülést nyújt a kint doboló eső elől.",
+                "ro": "Profitați de această oprire pentru o pauză prelungită la uscat; teatrul oferă o evadare elegantă de ploaia de afară.",
+                "en": "Take advantage of this stop for a longer dry break; the theater offers an elegant escape from the rain drumming outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang und verbringen Sie die regenreichste Zeit des Mittags zwischen den faszinierenden Ausstellungsstücken.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, és töltse a délidő legesősebb óráit a lenyűgöző kiállítási tárgyak között, szárazon.",
+                "ro": "Parcați bicicleta aproape de intrare și petreceți orele cele mai ploioase ale prânzului printre exponatele fascinante, la căldură.",
+                "en": "Park your bike close to the entrance and spend the rainiest midday hours among the fascinating exhibits in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Cárdenas y Valdivia",
+                "hu": "Casa de los Cárdenas y Valdivia",
+                "ro": "Casa de los Cárdenas y Valdivia",
+                "en": "Casa de los Cárdenas y Valdivia"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Blick vom Fahrrad aus reicht; bei Regen glänzt der Stein des Palastes wunderschön, laden Sie aber zum Fotografieren kurz ab.",
+                "hu": "Egy gyors pillantás a bicikliről is elég; esőben gyönyörűen csillog a palota köve, de a fotózáshoz keressen egy fedett részt.",
+                "ro": "O privire rapidă de pe bicicletă este suficientă; în ploaie piatra palatului strălucește frumos, dar căutați un loc acoperit pentru poze.",
+                "en": "A quick glance from the bike is enough; the palace stone shines beautifully in the rain, but find a covered spot to take photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Rincon Cordobés",
+                "hu": "Rincón Cordobés",
+                "ro": "Rincón Cordobés",
+                "en": "Rincon Cordobés"
+              },
+              "tip_5lang": {
+                "de": "Dieser charmante Winkel ist oft etwas geschützt; ideal für einen kurzen Halt, um die Karte zu prüfen, ohne dass das Display nass wird.",
+                "hu": "Ez a bájos sarok gyakran szélvédett; ideális egy rövid megállóra, hogy ellenőrizze az útvonalat anélkül, hogy elázna a telefonja.",
+                "ro": "Acest colț fermecător este adesea protejat; este ideal pentru o scurtă oprire pentru a verifica harta fără a vă uda telefonul.",
+                "en": "This charming corner is often sheltered; ideal for a short stop to check your route without getting your phone or map soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Antonio González Orea Museum of Plastic Arts",
+                "hu": "Antonio González Orea Képzőművészeti Múzeum",
+                "ro": "Muzeul de Arte Plastice Antonio González Orea",
+                "en": "Antonio González Orea Museum of Plastic Arts"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie Ihren Beinen eine Pause und erkunden Sie die modernen Skulpturen im Trockenen, während Ihr Rad sicher am Eingang lehnt.",
+                "hu": "Pihentesse meg a lábait, és fedezze fel a modern szobrokat szárazon, amíg a kerékpárja biztonságban pihen a bejárat mellett.",
+                "ro": "Odihniți-vă picioarele și explorați sculpturile moderne la uscat, în timp ce bicicleta stă în siguranță lângă intrare.",
+                "en": "Give your legs a rest and explore the modern sculptures in the dry while your bike stays safely parked near the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "San Bartolomé Templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Iglesia de San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Portal für einen Moment des Innehaltens; das Innere der Kirche ist ein herrlich ruhiger Zufluchtsort vor dem Wetter.",
+                "hu": "Használja a portált egy pillanatnyi megállásra; a templom belseje csodálatosan nyugodt és száraz menedék a zord időjárás elől.",
+                "ro": "Folosiți portalul pentru un moment de răgaz; interiorul bisericii este un refugiu minunat de liniștit și uscat împotriva ploii.",
+                "en": "Use the portal for a moment of pause; the interior of the church is a wonderfully peaceful and dry sanctuary from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano de Andújar",
+                "hu": "Andújar Római Hídja",
+                "ro": "Podul Roman din Andújar",
+                "en": "Puente Romano de Andújar"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Stehen und mit geringem Tempo über die Brücke; die nassen Römersteine sind extrem glatt, bieten aber ein tolles Fotomotiv.",
+                "hu": "Haladjon lassú tempóban a hídon; a vizes római kövek rendkívül csúszósak, de a látvány az esőben így is lenyűgöző marad.",
+                "ro": "Traversați podul cu viteză redusă; pietrele romane ude sunt extrem de alunecoase, dar peisajul în ploaie rămâne impresionant.",
+                "en": "Cross the bridge at a slow pace; the wet Roman stones are extremely slippery, but the scenery in the rain remains truly impressive."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Radtour durch das winterliche Andújar erwartet Sie. Starten Sie warm eingepackt am Arco de Capuchinos. Die Museen und das Theater bieten willkommene Aufwärmpausen während der Tour. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir die Route kompakt. Das Finale an der römischen Brücke belohnt Sie mit klarem Winterhimmel und einem weiten Blick, bevor die Abendkälte zum Rückzug zwingt.",
+            "hu": "Élénkítő kerékpáros túra várja a téli Andújarban. Induljon melegen felöltözve az Arco de Capuchinos-tól. A múzeumok és a színház kiváló alkalmat nyújtanak a felmelegedésre a túra során. Mivel 17:00-kor már sötétedik, a programot kompakt módon állítottuk össze. A római hídnál záruló szakasz tiszta téli égbolttal jutalmazza, mielőtt az esti fagy visszavonulásra késztetne.",
+            "ro": "O tură revigorantă cu bicicleta prin Andújarul de iarnă vă așteaptă. Porniți bine îmbrăcați de la Arco de Capuchinos. Muzeele și teatrul oferă ocazii excelente de încălzire pe parcursul traseului. Deoarece soarele apune la ora 17:00, am planificat ruta compact. Finalul la podul roman vă răsplătește cu un cer senin de iarnă înainte ca gerul serii să apară.",
+            "en": "An invigorating winter cycle through Andújar awaits. Start well-wrapped at Arco de Capuchinos. Museums and the theater provide excellent warming breaks throughout the tour. Since the sun sets at 17:00, the route is kept compact. The finale at the Roman Bridge rewards you with clear winter skies and great views before the evening chill sets in properly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de Capuchinos",
+                "hu": "Arco de Capuchinos",
+                "ro": "Arco de Capuchinos",
+                "en": "Arco de Capuchinos"
+              },
+              "tip_5lang": {
+                "de": "Die frische Morgenluft am Bogen weckt die Geister; stellen Sie sicher, dass Ihre Handschuhe griffbereit sind für die erste Etappe.",
+                "hu": "A friss reggeli levegő a kapunál felébreszti az érzékeket; győződjön meg róla, hogy a kesztyűje kéznél van az első szakaszhoz.",
+                "ro": "Aerul curat de dimineață de la arcadă vă va trezi simțurile; asigurați-vă că aveți mănușile la îndemână pentru prima etapă.",
+                "en": "The fresh morning air at the arch will wake you up; make sure your gloves are ready for the first leg of your winter cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Principal",
+                "hu": "Fő Színház",
+                "ro": "Teatrul Principal",
+                "en": "Teatro Principal"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Foyer wärmt auf; bewundern Sie die Architektur dieses kulturellen Juwels, bevor Sie die nächste Strecke radeln.",
+                "hu": "Egy rövid megálló az előtérben segít felmelegedni; csodálja meg a kulturális ékszerdoboz építészetét, mielőtt továbbkerekezne.",
+                "ro": "O scurtă oprire în foier vă va ajuta să vă încălziți; admirați arhitectura acestei bijuterii culturale înainte de a pedala mai departe.",
+                "en": "A short stop in the foyer helps you warm up; admire the architecture of this cultural gem before cycling on to the next location."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre schweren Wintersachen kurz abzulegen und entspannt die archäologischen Schätze zu erkunden.",
+                "hu": "Használja a ruhatárat, hogy rövid időre letegye nehéz téli ruháit, és kényelmesen fedezze fel a régészeti kincseket a melegben.",
+                "ro": "Folosiți garderoba pentru a vă lăsa hainele groase de iarnă și explorați confortabil comorile arheologice la căldură.",
+                "en": "Use the cloakroom to briefly drop off your heavy winter gear and comfortably explore the archaeological treasures in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de los Cárdenas y Valdivia",
+                "hu": "Casa de los Cárdenas y Valdivia",
+                "ro": "Casa de los Cárdenas y Valdivia",
+                "en": "Casa de los Cárdenas y Valdivia"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht mittags perfekt für ein Foto der Fassade; die kühle Luft lässt die Farben der Wappen besonders klar erscheinen.",
+                "hu": "Délben a napállás tökéletes a homlokzat fotózásához; a hűvös, tiszta levegőben a címerek színei különösen élénken érvényesülnek.",
+                "ro": "La prânz, soarele este perfect pentru o fotografie a fațadei; aerul rece și curat face ca culorile blazoanelor să pară foarte vii.",
+                "en": "At noon, the sun is perfectly positioned for a photo of the facade; the cool, clear air makes the colors of the crests appear vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Rincon Cordobés",
+                "hu": "Rincón Cordobés",
+                "ro": "Rincón Cordobés",
+                "en": "Rincon Cordobés"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, geschützter Platz, um kurz innezuhalten; genießen Sie die winterliche Stille dieses typisch andalusischen Winkels.",
+                "hu": "Egy apró, szélvédett tér egy rövid pihenőre; élvezze a téli csendet ebben a tipikus andalúz stílusú, hangulatos sarokban.",
+                "ro": "O piațetă mică și protejată pentru o scurtă pauză; bucurați-vă de liniștea iernii în acest colț tipic andaluz plin de farmec.",
+                "en": "A tiny, sheltered square for a short rest; enjoy the winter silence in this typical, charming Andalusian-style corner of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Antonio González Orea Museum of Plastic Arts",
+                "hu": "Antonio González Orea Képzőművészeti Múzeum",
+                "ro": "Muzeul de Arte Plastice Antonio González Orea",
+                "en": "Antonio González Orea Museum of Plastic Arts"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Museumsräume sind im Winter ein Segen; tauchen Sie ein in die Kunstwelt, während Sie Ihre Hände für die Weiterfahrt wärmen.",
+                "hu": "A világos múzeumi terek télen valóságos áldást jelentenek; merüljön el a művészetben, amíg felmelegíti kezeit a folytatáshoz.",
+                "ro": "Spațiile luminoase ale muzeului sunt o binecuvântare iarna; cufundați-vă în artă în timp ce vă încălziți mâinile pentru drum.",
+                "en": "The bright museum spaces are a blessing in winter; immerse yourself in art while warming up your hands for the next leg of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "San Bartolomé Templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Iglesia de San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Die monumentale Kirche ist im Winter ein kühler Ort; bewundern Sie die Architektur zügig und genießen Sie die spirituelle Ruhe.",
+                "hu": "A monumentális templom télen hűvös helyszín; csodálja meg gyorsan az építészetet, és élvezze a szakrális hely nyugalmát.",
+                "ro": "Biserica monumentală este un loc răcoros iarna; admirați rapid arhitectura și bucurați-vă de liniștea spirituală a locației.",
+                "en": "The monumental church is a cool venue in winter; admire the architecture swiftly and enjoy the spiritual peace of the location."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano de Andújar",
+                "hu": "Andújar Római Hídja",
+                "ro": "Podul Roman din Andújar",
+                "en": "Puente Romano de Andújar"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vor 17:00 Uhr, um das letzte Gold der Sonne auf den Steinen zu sehen, bevor der kalte Abendwind einsetzt.",
+                "hu": "Zárja a túrát 17:00 előtt, hogy lássa az utolsó aranyló napsugarakat a köveken, mielőtt a hideg esti szél feltámadna a folyó felett.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a vedea ultimele raze aurii pe pietre, înainte ca vântul rece de seară să înceapă.",
+                "en": "Finish your tour before 17:00 to see the last golden rays of the sun on the stones before the cold evening wind starts to blow."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Kezdje kényelmesen a napot a város északnyugati részén található Museo González Oreánál. Délben hajtson a történelmi terek közelébe, hogy megtekintse az Albarracin ház portálját és a városi múzeumot. A délután a történelmi Arco de Capuchinoshoz vezeti. Végül vezessen el a római hídhoz, hogy ott csendes, békés környezetben köszöntse az estét.",
         "ro": "Începeți confortabil la Museo González Orea, în nord-vestul orașului. La prânz, conduceți aproape de piețele istorice pentru a vizita portalul Casa de los Albarracin și muzeul orașului. După-amiaza vă aduce la istoricul Arco de Capuchinos. În cele din urmă, îndreptați-vă spre Podul Roman pentru a întâmpina seara într-o atmosferă liniștită și relaxantă.",
         "en": "Start comfortably at the Museo González Orea in the northwest of the city. At midday, drive near the historic squares to visit the Casa de los Albarracin portal and the city museum. The afternoon brings you to the historic Arco de Capuchinos. Finally, drive to the Roman Bridge to quietly ring in the evening with beautiful views over the peaceful water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Andújar bequem und trocken vom Auto aus. Der Morgen startet am Museum für Bildende Künste mit nahen Parkmöglichkeiten. Mittags springen wir zwischen Kirchen und Museen hin und her, um kaum nass zu werden. Der Regen verleiht den historischen Fassaden einen glänzenden Look, den man perfekt aus dem Wagen betrachten kann. Die Tour endet an der römischen Brücke, wo ein kurzer, regengeschützter Stopp für den Ausblick genügt.",
+            "hu": "Fedezze fel Andújar értékeit kényelmesen és szárazon az autóból. A reggel a Képzőművészeti Múzeumnál indul, közvetlen parkolással. Napközben a templomok és múzeumok között ingázunk, minimálisra csökkentve az esőben töltött időt. Az eső csillogóvá varázsolja a történelmi homlokzatokat, ami az ablakból is remekül látszik. A nap a római hídnál zárul, ahol egy rövid megálló is elég a panorámához.",
+            "ro": "Explorați valorile orașului Andújar confortabil și uscat din mașină. Dimineața începe la Muzeul de Arte Plastice, cu parcare directă. În timpul zilei alternăm între biserici și muzee, minimizând timpul petrecut în ploaie. Ploaia face fațadele istorice să strălucească, oferind o vedere excelentă prin geam. Ziua se încheie la podul roman, unde o scurtă oprire este suficientă pentru panoramă.",
+            "en": "Explore Andújar's treasures comfortably and dry from your car. The morning starts at the Museum of Plastic Arts with nearby parking. Throughout the day, we hop between churches and museums, minimizing time spent in the rain. The rain makes the historic facades shimmer, providing a great view through the window. The day ends at the Roman Bridge, where a short stop is enough for the panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antonio González Orea Museum of Plastic Arts",
+                "hu": "Antonio González Orea Képzőművészeti Múzeum",
+                "ro": "Muzeul de Arte Plastice Antonio González Orea",
+                "en": "Antonio González Orea Museum of Plastic Arts"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trockenen Fußes in die Welt der modernen Skulpturen und Gemälde einzutauchen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy száraz lábbal érkezzen meg a modern szobrok és festmények világába.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge cu picioarele uscate în lumea sculpturilor și picturilor moderne.",
+                "en": "Park as close to the entrance as possible to arrive with dry feet into the fascinating world of modern sculptures and paintings."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "San Bartolomé Templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Iglesia de San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Passagiere direkt am Portal aussteigen; das Innere bietet eine prächtige und trockene Kulisse für eine Regenpause.",
+                "hu": "Engedje ki az utasokat közvetlenül a kapunál; a belső tér pompás és száraz környezetet biztosít egy kis pihenőhöz az eső elől.",
+                "ro": "Lăsați pasagerii chiar la poartă; interiorul oferă un cadru splendid și uscat pentru o mică pauză de la ploaia de afară.",
+                "en": "Drop off passengers right at the gate; the interior provides a splendid and dry setting for a short break from the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Portada de Casa de los Albarracin",
+                "hu": "Casa de los Albarracin Portál",
+                "ro": "Portalul Casa de los Albarracin",
+                "en": "Portada de Casa de los Albarracin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Straßenrand genügt, um die Details des Portals durch das Seitenfenster zu bewundern, ohne nass zu werden.",
+                "hu": "Egy rövid megálló az út szélén elég, hogy megcsodálja a portál részleteit az autó ablakán keresztül anélkül, hogy elázna.",
+                "ro": "O scurtă oprire la marginea drumului este suficientă pentru a admira detaliile portalului prin geamul mașinii, fără a vă uda.",
+                "en": "A short stop at the side of the road is enough to admire the portal's details through the car window without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen längeren Stopp für einen intensiven Museumsbesuch, während draußen der stärkste Regen des Tages niedergeht.",
+                "hu": "Használja ki ezt a hosszabb megállót egy alapos múzeumlátogatásra, miközben kint a nap leghevesebb esőzése zajlik.",
+                "ro": "Profitați de această oprire mai lungă pentru o vizită amănunțită la muzeu, în timp ce afară are loc cea mai intensă ploaie.",
+                "en": "Take advantage of this longer stop for a thorough museum visit while the heaviest rain of the day falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de Capuchinos",
+                "hu": "Arco de Capuchinos",
+                "ro": "Arco de Capuchinos",
+                "en": "Arco de Capuchinos"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam unter dem Bogen hindurch, falls erlaubt; die historische Struktur wirkt bei Regen besonders massiv und eindrucksvoll.",
+                "hu": "Hajtson át lassan a kapu alatt, ha a forgalom engedi; a történelmi építmény esőben különösen monumentálisnak és lenyűgözőnek hat.",
+                "ro": "Traversați încet pe sub poartă, dacă traficul permite; structura istorică pare deosebit de monumentală și impresionantă în ploaie.",
+                "en": "Drive slowly under the arch if traffic permits; the historical structure looks especially monumental and impressive in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano de Andújar",
+                "hu": "Andújar Római Hídja",
+                "ro": "Podul Roman din Andújar",
+                "en": "Puente Romano de Andújar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Brückenkopf und genießen Sie den Blick auf den Guadalquivir vom warmen Wagen aus, um die Fahrt trocken zu beenden.",
+                "hu": "Parkoljon le a hídfőnél, és élvezze a Guadalquivir folyóra nyíló kilátást a meleg autóból, így szárazon fejezheti be a túrát.",
+                "ro": "Parcați la capătul podului și bucurați-vă de vederea spre râul Guadalquivir din mașina caldă, terminând turul la uscat.",
+                "en": "Park at the bridgehead and enjoy the view of the Guadalquivir river from your warm car, finishing your city tour perfectly dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Andújar im Winter lässt sich ideal mit dem Wagen erkunden, der stets für angenehme Wärme sorgt. Wir starten am beheizten Kunstmuseum und steuern dann die religiösen und historischen Highlights an. Die Wintersonne taucht die Fassaden in ein sanftes Licht, das man am besten am frühen Nachmittag einfängt. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag an der römischen Brücke genau zum Sonnenuntergang.",
+            "hu": "A téli Andújar ideálisan felfedezhető autóval, amely folyamatosan kellemes meleget biztosít. A fűtött Képzőművészeti Múzeumnál kezdünk, majd a vallási és történelmi látnivalók felé vesszük az irányt. A téli napfény lágy fénybe vonja a homlokzatokat kora délután. Mivel 17:00-kor már sötétedik, a napot a római hídnál zárjuk, pontosan a naplemente idején.",
+            "ro": "Andújarul de iarnă poate fi explorat ideal cu mașina, care oferă în permanență o căldură plăcută. Începem la Muzeul de Arte Plastice încălzit, apoi ne îndreptăm spre atracțiile religioase și istorice. Lumina iernii scaldă fațadele într-o claritate aparte după-amiaza. Deoarece se întunecă la ora 17:00, încheiem ziua la podul roman, exact la apus.",
+            "en": "Winter in Andújar is ideally explored by car, which provides constant pleasant warmth between stops. We start at the heated Museum of Plastic Arts and then head towards the religious and historical highlights. The winter sun bathes the facades in soft light in the early afternoon. Since it gets dark at 17:00, we end the day at the Roman Bridge exactly at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antonio González Orea Museum of Plastic Arts",
+                "hu": "Antonio González Orea Képzőművészeti Múzeum",
+                "ro": "Muzeul de Arte Plastice Antonio González Orea",
+                "en": "Antonio González Orea Museum of Plastic Arts"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohltemperierten Ausstellungsräume; dies ist der perfekte Ort, um den Tag gemütlich und voller Kunst zu beginnen.",
+                "hu": "Élvezze a kellemes hőmérsékletű kiállítótereket; ez a tökéletes helyszín a nap kényelmes és művészettel teli megkezdéséhez.",
+                "ro": "Bucurați-vă de spațiile expoziționale bine temperate; acesta este locul perfect pentru a începe ziua confortabil și plin de artă.",
+                "en": "Enjoy the well-tempered exhibition spaces; this is the perfect location to start your day comfortably and full of artistic inspiration."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de San Bartolomé",
+                "hu": "San Bartolomé Templom",
+                "ro": "Biserica San Bartolomé",
+                "en": "Iglesia de San Bartolomé"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Winterjacke auch im Inneren an, da historische Kirchen oft kühl sind, aber die Altäre im Winterlicht herrlich strahlen.",
+                "hu": "Tartsa magán a téli kabátját bent is, mert a történelmi templomok hűvösek lehetnek, de az oltárok ragyogóak a téli fényben.",
+                "ro": "Păstrați haina de iarnă și în interior, deoarece bisericile istorice pot fi reci, dar altarele strălucesc superb în lumina iernii.",
+                "en": "Keep your winter coat on inside as historic churches can be chilly, but the altars look absolutely radiant in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Portada de Casa de los Albarracin",
+                "hu": "Casa de los Albarracin Portál",
+                "ro": "Portalul Casa de los Albarracin",
+                "en": "Portada de Casa de los Albarracin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parklücke gegenüber für einen schnellen Blick; die tiefstehende Sonne hebt die Steinmetzarbeiten des Portals hervor.",
+                "hu": "Használja ki a szemközti parkolóhelyet egy gyors megállóra; az alacsonyan járó nap remekül kiemeli a portál kőfaragványait.",
+                "ro": "Profitați de locul de parcare de vizavi pentru o oprire rapidă; soarele jos scoate în evidență sculpturile în piatră ale portalului.",
+                "en": "Take advantage of a nearby parking spot for a quick look; the low-hanging sun highlights the portal's stonework beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Historical Museum",
+                "hu": "Történeti Múzeum",
+                "ro": "Muzeul Istoric",
+                "en": "Historical Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Autofahrten aufzuwärmen und tief in die Geschichte der Region einzutauchen.",
+                "hu": "Ideális helyszín a felmelegedésre az autós szakaszok között, miközben mélyen elmerül a régió gazdag történelmében.",
+                "ro": "Un loc ideal pentru a vă încălzi între etapele de condus, în timp ce vă cufundați în istoria bogată a regiunii.",
+                "en": "An ideal place to warm up between driving stretches while immersing yourself deeply in the region's rich historical heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de Capuchinos",
+                "hu": "Arco de Capuchinos",
+                "ro": "Arco de Capuchinos",
+                "en": "Arco de Capuchinos"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam heran, um den Bogen gegen den klaren Winterhimmel zu sehen; ein kurzes Foto aus dem Wagenfenster lohnt sich.",
+                "hu": "Hajtson közelebb lassítva, hogy lássa a kaput a tiszta téli égbolt előtt; egy gyors fotó az ablakból mindenképpen megéri.",
+                "ro": "Apropiați-vă încet pentru a vedea arcada pe fundalul cerului senin de iarnă; o fotografie rapidă de la geam merită din plin.",
+                "en": "Approach slowly to see the arch against the clear winter sky; a quick photo from the car window is definitely worth the effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Romano de Andújar",
+                "hu": "Andújar Római Hídja",
+                "ro": "Podul Roman din Andújar",
+                "en": "Puente Romano de Andújar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie pünktlich zum Sonnenuntergang um 17:00 Uhr; die Farben über dem Guadalquivir sind im Winter besonders intensiv.",
+                "hu": "Parkoljon le pontosan a 17:00 órai naplementére; a Guadalquivir feletti színek télen különösen intenzívek és látványosak.",
+                "ro": "Parcați exact pentru apusul de la ora 17:00; culorile de deasupra râului Guadalquivir sunt deosebit de intense și spectaculoase iarna.",
+                "en": "Park exactly for the 17:00 sunset; the colors over the Guadalquivir river are particularly intense and spectacular during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

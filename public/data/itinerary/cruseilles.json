@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Saint-Maurice templomnál, majd sétáljon el a békés Dronières-tóhoz. Délben pihenjen meg a Dronières parkban egy kellemes piknikkel. Délután túrázzon dél felé a lenyűgöző szurdokok kilátóihoz. Az este fenségesen zárul a híres Pont de la Caille függőhíd lenyűgöző építészeti csodájának megtekintésével.",
         "ro": "Începeți ziua la Biserica Saint-Maurice înainte de a vă plimba spre liniștitul Lac Dronières. La amiază, relaxați-vă în Parcul Dronières cu un picnic plăcut. După-amiaza, mergeți spre sud pentru a vedea defileurile uluitoare. Seara se încheie maiestuos la faimosul pod suspendat Pont de la Caille, o minune inginerească.",
         "en": "Start your day at the Saint-Maurice Church before strolling towards the peaceful Lake of Dronières. At midday, relax in Dronières Park with a leisurely picnic. In the afternoon, hike south to experience the breathtaking gorges and viewpoints. Your evening ends majestically at the famous Pont de la Caille suspension bridge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen in der schützenden Kirche. Mittags erkunden Sie den See und Park; wasserdichte Kleidung ist hier für schlammige Wege unerlässlich. Nachmittags nähern Sie sich vorsichtig dem Aussichtspunkt und der historischen Brücke, da die nassen Steine sehr rutschig sind. Lassen Sie den regnerischen Tag am Abend in einer trockenen Unterkunft gemütlich ausklingen.",
+            "hu": "Kezdje a reggelt a menedéket nyújtó templomban. Délben tegyen vízálló sétát a tónál és a parkban, ügyelve a felázott, sáros ösvényekre. Délután óvatosan közelítse meg a szurdokot és a hidat, a nedves felületek nagyon csúszósak lehetnek. Este térjen vissza a szállására, hogy biztonságban és szárazon pihenje ki a kalandos, esős napot.",
+            "ro": "Începeți dimineața în biserica primitoare, la adăpost. La prânz, explorați lacul și parcul, folosind pelerine de ploaie pentru potecile noroioase. După-amiaza, admirați defileul și podul istoric cu mare atenție, deoarece suprafețele umede sunt foarte alunecoase. Seara, încheiați ziua ploioasă la căldură, într-un loc sigur și uscat.",
+            "en": "Start your morning at the sheltering church. By noon, brave the rain at the lake and the park, wearing good waterproofs for the muddy walking paths. In the afternoon, cautiously approach the gorge viewpoint and the historic bridge, as wet surfaces can be extremely slippery. Finish your rainy trek safely in the evening indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maurice",
+                "hu": "Saint-Maurice templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, die auch an trüben Tagen leuchten; ein perfekter, trockener Zufluchtsort vor den morgendlichen Schauern.",
+                "hu": "Csodálja meg az üvegablakokat, amelyek borús napokon is gyönyörűen világítanak; tökéletes száraz menedék a reggeli záporok elől.",
+                "ro": "Admirați vitraliile care se luminează frumos chiar și în zilele gri; un adăpost uscat perfect pentru a scăpa de ploile de dimineață.",
+                "en": "Admire the stained glass that beautifully lights up even on gloomy days; it provides a perfect, dry shelter from heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-See",
+                "hu": "Dronières-tó",
+                "ro": "Lacul Dronières",
+                "en": "Lake of Dronières"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem See eine mystische Atmosphäre; tragen Sie unbedingt wasserdichte Stiefel, da die Uferwege sehr schlammig werden.",
+                "hu": "Az eső misztikus hangulatot kölcsönöz a víznek; mindenképp viseljen vízálló bakancsot, mert a parti sétányok nagyon sárosak lesznek.",
+                "ro": "Ploaia creează o atmosferă mistică pe apă; purtați cizme impermeabile, deoarece potecile de pe malul lacului devin foarte noroioase.",
+                "en": "The rain creates a highly moody atmosphere on the water; be sure to wear sturdy, waterproof boots as the lakeside paths get very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-Park",
+                "hu": "Dronières park",
+                "ro": "Parcul Dronières",
+                "en": "Dronières Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das nasse Grün unter Ihrem Regenschirm; bleiben Sie auf den befestigten Wegen, um das Ausrutschen auf nassem Gras zu vermeiden.",
+                "hu": "Élvezze a buja növényzetet az esernyője alól; maradjon a burkolt ösvényeken, hogy elkerülje a nedves, csúszós füvön való elesést.",
+                "ro": "Bucurați-vă de verdeața udă de sub umbrela dvs.; rămâneți pe traseele pavate pentru a evita alunecarea pe iarba foarte udă.",
+                "en": "Enjoy the lush, wet greenery from safely under your umbrella; strictly stay on the paved trails to avoid slipping on the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Schlucht",
+                "hu": "Szurdok kilátó",
+                "ro": "Punctul de belvedere al defileului",
+                "en": "Gorges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Regen lässt die tiefe Schlucht dramatisch wirken; halten Sie sich gut am Geländer fest, da die Aussichtsplattform extrem rutschig ist.",
+                "hu": "Az eső drámaivá teszi a mély szurdok látványát; kapaszkodjon erősen a korlátba, mivel a kilátó területe rendkívül csúszóssá válhat.",
+                "ro": "Ploaia face defileul să arate dramatic; țineți-vă bine de balustrade, deoarece zona de vizualizare devine extrem de alunecoasă.",
+                "en": "The rain makes the deep gorge look incredibly dramatic; grip the safety railings carefully as the viewing area gets extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de la Caille",
+                "hu": "Pont de la Caille",
+                "ro": "Pont de la Caille",
+                "en": "Pont de la Caille"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel um die Hängebrücke ist sehr fotogen; gehen Sie langsam und vorsichtig über die nassen Planken, um nicht auszurutschen.",
+                "hu": "A függőhíd körüli köd rendkívül fotogén; sétáljon nagyon lassan és óvatosan a nedves deszkákon, hogy elkerülje az elcsúszást.",
+                "ro": "Ceața din jurul podului suspendat este foarte fotogenică; mergeți încet pe scândurile umede pentru a preveni alunecarea accidentală.",
+                "en": "The mist around the suspension bridge is highly photogenic; walk very slowly across the wet wooden planks to prevent slipping."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der historischen Kirche. Mittags genießen Sie die eisige Stille am See und Park in dicken, warmen Schichten. Nachmittags bieten Schlucht und Brücke spektakuläre, aber windige Ausblicke. Achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr und beenden Sie die Tour rechtzeitig.",
+            "hu": "A csípős téli reggel a fűtött templomnál indul. Délben élvezze a fagyos tó és park nyugalmát meleg, vastag rétegekbe öltözve. Délután a szurdok és a híd lenyűgöző, de szeles téli látványt nyújt. Figyeljen a korai, 17 óra körüli sötétedésre, és fejezze be a sétát még világosban.",
+            "ro": "O dimineață de iarnă proaspătă începe la biserică. La prânz, bucurați-vă de liniștea lacului și a parcului îmbrăcați cu straturi groase. După-amiaza aduce peisaje spectaculoase, dar vântoase la defileu și pod. Atenție la apusul timpuriu în jur de ora 17:00, încheiați plimbarea devreme.",
+            "en": "A crisp winter morning starts at the historic church. By noon, enjoy the chilly, quiet atmosphere at the lake and park, dressed in warm layers. The afternoon brings spectacular but windy views at the gorge and bridge. Be mindful of the early sunset around 17:00 and finish your walk before dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maurice",
+                "hu": "Saint-Maurice templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der ruhigen Kirche auf, bevor Sie hinaus in die Kälte gehen; die Architektur wirkt im Winterlicht besonders friedlich.",
+                "hu": "Melegedjen fel a csendes templomban, mielőtt kilép a hidegbe; az építészet a téli fényben különösen békésnek és lenyűgözőnek hat.",
+                "ro": "Încălziți-vă în biserica liniștită înainte de a ieși în frig; arhitectura pare deosebit de pașnică în lumina blândă a iernii.",
+                "en": "Warm up inside the quiet church before stepping out into the cold; the architecture looks especially peaceful in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-See",
+                "hu": "Dronières-tó",
+                "ro": "Lacul Dronières",
+                "en": "Lake of Dronières"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die oft zugefrorene Seeoberfläche; dicke Handschuhe sind Pflicht, da der eiskalte Wind am Wasser ungeschützt weht.",
+                "hu": "Csodálja meg a gyakran befagyott tó felszínét; a vastag kesztyű kötelező, mivel a jéghideg szél a vízparton védtelenül éri.",
+                "ro": "Admirați suprafața adesea înghețată a lacului; mănușile groase sunt obligatorii, deoarece vântul înghețat suflă neprotejat pe apă.",
+                "en": "Admire the often frozen surface of the lake; thick gloves are an absolute must as the freezing wind blows completely unshielded here."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-Park",
+                "hu": "Dronières park",
+                "ro": "Parcul Dronières",
+                "en": "Dronières Park"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie zügig durch die kahlen Bäume, um warm zu bleiben; achten Sie auf versteckte Eisflächen auf den schattigen Fußwegen.",
+                "hu": "Sétáljon tempósan a csupasz fák között, hogy melegen tartsa magát; figyeljen a rejtett jégfoltokra az árnyékos sétányokon.",
+                "ro": "Mergeți rapid printre copacii goi pentru a vă încălzi; fiți foarte atenți la peticele de gheață ascunse pe aleile umbrite din parc.",
+                "en": "Walk briskly through the bare trees to keep your body warm; watch out carefully for hidden ice patches on the shaded walking paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Schlucht",
+                "hu": "Szurdok kilátó",
+                "ro": "Punctul de belvedere al defileului",
+                "en": "Gorges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet hier eine endlose Fernsicht; eine winddichte Jacke ist entscheidend, um die eisigen Böen abzuwehren.",
+                "hu": "A tiszta téli levegő végtelen kilátást nyújt innen; egy szélálló kabát kritikus fontosságú a jeges széllökések kivédésére.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate nesfârșită; o jachetă rezistentă la vânt este crucială pentru a respinge rafalele înghețate.",
+                "en": "The clear winter air offers endless visibility from here; a truly windproof jacket is crucial to block out the harsh, icy gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de la Caille",
+                "hu": "Pont de la Caille",
+                "ro": "Pont de la Caille",
+                "en": "Pont de la Caille"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die beeindruckende Konstruktion im Winterlicht; beenden Sie den Besuch rasch, da es nach 16:30 Uhr extrem dunkel und kalt wird.",
+                "hu": "Tapasztalja meg a lenyűgöző szerkezetet téli fényben; fejezze be a látogatást hamar, mert 16:30 után extrém sötét és hideg lesz.",
+                "ro": "Experimentați construcția impresionantă în lumina iernii; terminați vizita rapid, deoarece după ora 16:30 devine foarte întuneric.",
+                "en": "Experience the striking structure in the winter light; wrap up your visit quickly, as it gets extremely dark and freezing after 16:30."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Induljon a városközpontból, és kerékpározzon fel az idilli Dronières-tóhoz és parkhoz. Délben guruljon le a hatalmas hidak kilátópontjaihoz. Délután fedezze fel a történelmi Pont de la Caille-t és a régi termálfürdőt. Az este folyamán végül elteker a Château-Vieux lenyűgöző, ősi romjaihoz.",
         "ro": "Porniți dimineața din centrul orașului și pedalați până la lacul și parcul idilic Dronières. La prânz, coborâți spre punctele de belvedere ale marilor poduri. După-amiaza, explorați podul istoric Pont de la Caille și vechile băi termale. Seara vă conduce în cele din urmă spre ruinele fascinante de la Château-Vieux.",
         "en": "Start your morning in the town center and pedal up to the idyllic lake and park of Dronières. At midday, ride down to the viewpoints overlooking the great bridges. In the afternoon, explore the historic Pont de la Caille and the old thermal baths. The evening finally leads you to the fascinating ruins of Château-Vieux."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsichtige Morgenfahrt bei Nässe ab der Kirche. Die Strecke zu See und Park erfordert wasserdichte Radkleidung und Schutzbleche. Mittags an Brücken und Aussichtspunkten extrem auf Laub und glatten Asphalt achten. Nachmittagsfahrt zu Thermen und Schloss: Bremsen Sie frühzeitig und kommen Sie sicher an.",
+            "hu": "Óvatos reggeli tekerés a nedves utakon a templomtól. A tóhoz és parkhoz vezető út vízálló ruházatot és sárvédőt igényel. Délben a hidaknál és kilátóknál nagyon figyeljen a csúszós aszfaltra és a falevelekre. Délutáni út a fürdőhöz és kastélyhoz: fékezzen időben az esőben.",
+            "ro": "Plimbare matinală prudentă pe ploaie de la biserică. Traseul spre lac și parc necesită haine impermeabile și apărători de noroi. La prânz, la poduri și puncte de belvedere, atenție la frunze și asfalt alunecos. După-amiaza spre băi și castel: frânați devreme pe carosabilul ud.",
+            "en": "Careful morning ride on wet roads starting from the church. Biking to the lake and park requires good waterproof gear and mudguards. Midday at the bridges and viewpoints requires extreme caution on slippery asphalt and wet leaves. Afternoon ride to the baths and château: brake early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maurice",
+                "hu": "Saint-Maurice templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach, um Ihre Regenkleidung zu richten; ein kurzer, trockener Startpunkt, bevor Sie sich auf die nassen Straßen wagen.",
+                "hu": "Használja az előtetőt a vízálló felszerelés beállítására; egy rövid, száraz kiindulópont, mielőtt kimerészkedik a nedves utakra.",
+                "ro": "Folosiți copertina pentru a vă ajusta echipamentul de ploaie; un punct de plecare uscat înainte de a vă aventura pe drumurile ude.",
+                "en": "Use the porch overhang to perfectly adjust your rain gear; it's a dry starting point before venturing out onto the slippery wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-See",
+                "hu": "Dronières-tó",
+                "ro": "Lacul Dronières",
+                "en": "Lake of Dronières"
+              },
+              "tip_5lang": {
+                "de": "Der Regenpegel am See ist faszinierend; fahren Sie auf den Uferwegen langsam, da der schlammige Untergrund die Reifen wegrutschen lässt.",
+                "hu": "A tó esős látképe lenyűgöző; lassan haladjon a parti utakon, mert a felázott, sáros talajon a kerékpár gumiabroncsai könnyen megcsúsznak.",
+                "ro": "Nivelul ploii pe lac este fascinant; mergeți încet pe cărările de pe mal, deoarece suprafața noroioasă face ca anvelopele să alunece.",
+                "en": "The rain sweeping across the lake is fascinating; ride very slowly on the bank paths as the muddy ground will easily make tires slip."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-Park",
+                "hu": "Dronières park",
+                "ro": "Parcul Dronières",
+                "en": "Dronières Park"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz vor starken Schauern; bleiben Sie strikt auf den Schotterwegen, nasses Gras ist mit dem Rad gefährlich.",
+                "hu": "A fák némi védelmet nyújtanak a heves záporok ellen; maradjon szigorúan a kavicsos utakon, a nedves fű kerékpárral nagyon veszélyes.",
+                "ro": "Copacii oferă o oarecare protecție împotriva averselor puternice; rămâneți strict pe potecile de pietriș, iarba udă este periculoasă.",
+                "en": "The dense trees offer some protection from heavy downpours; stay strictly on gravel paths, as wet grass is highly dangerous on a bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Brücken",
+                "hu": "Hidak kilátója",
+                "ro": "Punctul de belvedere al podurilor",
+                "en": "Bridges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der dramatische Blick in die regnerische Schlucht lohnt sich; bremsen Sie vor dem Aussichtspunkt sanft, um nicht ins Rutschen zu kommen.",
+                "hu": "A drámai kilátás az esős szurdokra megéri; a kilátó előtt finoman fékezzen, nehogy megcsússzon a vizes aszfalton vagy a leveleken.",
+                "ro": "Vederea dramatică spre defileul ploios merită efortul; frânați ușor înainte de punctul de belvedere pentru a nu derapa pe asfaltul ud.",
+                "en": "The dramatic view into the rainy gorge is well worth it; brake gently long before the viewpoint to avoid sliding on the wet pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de la Caille",
+                "hu": "Pont de la Caille",
+                "ro": "Pont de la Caille",
+                "en": "Pont de la Caille"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Brücke wirkt mystisch; steigen Sie unbedingt ab und schieben Sie das Rad, die nassen Holzplanken bieten null Grip.",
+                "hu": "A ködös híd misztikusnak hat; mindenképpen szálljon le és tolja a kerékpárt, a nedves fadeszkák egyáltalán nem biztosítanak tapadást.",
+                "ro": "Podul cețos pare mistic; asigurați-vă că descălecați și împingeți bicicleta, scândurile umede din lemn nu oferă deloc aderență.",
+                "en": "The misty bridge looks incredibly mystical; absolutely dismount and push your bike, as the wet wooden planks offer zero tire grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Thermen",
+                "hu": "Régi termálfürdő",
+                "ro": "Vechile băi termale",
+                "en": "Old Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Ruinen leuchten in dunklen Farben; stellen Sie das Rad sicher ab und achten Sie beim Gehen auf bemooste, glatte Steine.",
+                "hu": "A nedves romok sötét színekben pompáznak; parkolja le biztonságosan a kerékpárt, és séta közben ügyeljen a mohás, csúszós kövekre.",
+                "ro": "Ruinele umede strălucesc în culori închise; parcați bicicleta în siguranță și aveți grijă la pietrele acoperite de mușchi, foarte netede.",
+                "en": "The wet ruins take on rich, dark colors; park your bike securely and watch your step carefully on the mossy, extremely slick stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Château-Vieux",
+                "hu": "Château-Vieux",
+                "ro": "Château-Vieux",
+                "en": "Château-Vieux"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Regen sehr imposant; die steile Zufahrt hinab erfordert ständige Bremsbereitschaft wegen heruntergefallener Äste.",
+                "hu": "A kastély az esőben igen impozáns; a meredek lejtős felhajtón folyamatosan készen kell állni a fékezésre a lehullott ágak miatt.",
+                "ro": "Castelul este foarte impunător pe ploaie; drumul abrupt de acces necesită pregătire constantă de frânare din cauza crengilor căzute.",
+                "en": "The old château looks highly imposing in the rain; the steep access road requires constant brake readiness due to fallen wet branches."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Morgenfahrt zum Aufwärmen an der Kirche. Am See und Park bläst ein eisiger Fahrtwind, Thermokleidung und gute Handschuhe sind Pflicht. Mittags an den Brücken friert man schnell aus, Pausen kurz halten. Nachmittagsfahrt zu Thermen und Schloss: Unbedingt rechtzeitig vor der frühen Dunkelheit (17:00) mit gutem Fahrradlicht beenden.",
+            "hu": "Hideg reggeli tekerés, bemelegítés a templomnál. A tónál és parkban jeges menetszél fúj, a termo ruházat és vastag kesztyű kötelező. Délben a hidaknál hamar áthűl az ember, tartsa rövidre a pihenőket. Délutáni út a fürdőhöz és kastélyhoz: érjen célba a korai, 17 órai sötétedés előtt, működő lámpákkal.",
+            "ro": "Cursă matinală rece, încălzire la biserică. La lac și parc suflă un vânt înghețat, hainele termice și mănușile sunt obligatorii. La prânz, la poduri, vă răciți rapid, faceți pauze scurte. După-amiaza spre băi și castel: asigurați-vă că terminați înainte de întunericul timpuriu (17:00) cu lumini bune la bicicletă.",
+            "en": "Cold morning ride starts at the church to warm up. An icy headwind blows by the lake and park; thermal gear and good gloves are mandatory. Midday at the bridges you will cool down rapidly, keep stops short. Afternoon ride to the baths and château: finish before the early 17:00 dusk with strong bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maurice",
+                "hu": "Saint-Maurice templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich vor dem Radfahren aufzuwärmen; überprüfen Sie hier im Windschatten nochmals Ihre Winterausrüstung.",
+                "hu": "Kiváló hely a bemelegítésre kerékpározás előtt; ellenőrizze még egyszer a téli felszerelését itt, szélvédett helyen.",
+                "ro": "Un loc excelent pentru a vă încălzi înainte de a merge cu bicicleta; verificați încă o dată echipamentul de iarnă aici, la adăpost.",
+                "en": "An excellent spot to physically warm up before biking; double-check your thermal winter gear here in the sheltered, windless area."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-See",
+                "hu": "Dronières-tó",
+                "ro": "Lacul Dronières",
+                "en": "Lake of Dronières"
+              },
+              "tip_5lang": {
+                "de": "Die zugefrorenen Ränder des Sees glitzern; der Fahrtwind hier ist beißend kalt, ziehen Sie den Reißverschluss Ihrer Jacke ganz hoch.",
+                "hu": "A tó befagyott szélei csillognak; a menetszél itt metszően hideg, húzza fel teljesen a kabátja cipzárját, mielőtt továbbteker.",
+                "ro": "Marginile înghețate ale lacului strălucesc; vântul din mers este extrem de rece aici, trageți fermoarul jachetei până sus.",
+                "en": "The frozen edges of the lake glisten nicely; the biking headwind here is bitterly cold, so zip your windproof jacket all the way up."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-Park",
+                "hu": "Dronières park",
+                "ro": "Parcul Dronières",
+                "en": "Dronières Park"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen viel Wintersonne durch; Vorsicht in den Schattenbereichen, dort hält sich oft unsichtbares, gefährliches Glatteis.",
+                "hu": "A csupasz fák sok téli napsütést engednek át; vigyázzon az árnyékos részeken, ott gyakran megbújik a láthatatlan, veszélyes tükörjég.",
+                "ro": "Copacii goi lasă să treacă mult soare de iarnă; atenție în zonele umbrite, acolo se ascunde adesea gheață neagră invizibilă și periculoasă.",
+                "en": "The bare trees let through pleasant winter sun; be very careful in the shaded areas, as invisible, dangerous black ice often lingers there."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Brücken",
+                "hu": "Hidak kilátója",
+                "ro": "Punctul de belvedere al podurilor",
+                "en": "Bridges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläre Sicht ohne störendes Laub; der offene Aussichtspunkt bietet dem eisigen Wind volle Angriffsfläche, halten Sie die Pause kurz.",
+                "hu": "Látványos kilátás zavaró lombok nélkül; a nyitott kilátó teljes támadási felületet ad a jeges szélnek, tartsa rövidre a pihenőt.",
+                "ro": "Vedere spectaculoasă fără frunze deranjante; punctul deschis oferă vântului înghețat o țintă perfectă, faceți o pauză scurtă.",
+                "en": "Spectacular visibility without any blocking foliage; the open viewpoint gives the icy wind a full target, so keep your resting pause short."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de la Caille",
+                "hu": "Pont de la Caille",
+                "ro": "Pont de la Caille",
+                "en": "Pont de la Caille"
+              },
+              "tip_5lang": {
+                "de": "Ein monumentaler Anblick bei Frost; auf der Hängebrücke pfeift der Wind eisig, schieben Sie das Rad zügig, um nicht auszukühlen.",
+                "hu": "Monumentális látvány fagyban; a függőhídon a szél jegesen fütyül, tolja át a kerékpárt tempósan, nehogy túlságosan áthűljön.",
+                "ro": "O priveliște monumentală la îngheț; pe podul suspendat vântul șuieră rece, împingeți bicicleta rapid pentru a nu vă răci prea mult.",
+                "en": "A monumental sight covered in frost; the wind howls icily on the suspension bridge, push your bike briskly to avoid freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Thermen",
+                "hu": "Régi termálfürdő",
+                "ro": "Vechile băi termale",
+                "en": "Old Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Die vereisten Ruinenwände sind ein tolles Fotomotiv; der Abstieg erfordert höchste Konzentration, da die Bremsbeläge bei Kälte hart werden.",
+                "hu": "A jeges romfalak remek fotótémát nyújtanak; az ereszkedés maximális koncentrációt igényel, mivel a fékbetétek a hidegben felkeményednek.",
+                "ro": "Zidurile înghețate ale ruinelor sunt un motiv foto excelent; coborârea necesită concentrare maximă, deoarece plăcuțele de frână se întăresc la frig.",
+                "en": "The icy ruin walls make a great photo subject; the descent requires maximum focus, as rubber brake pads tend to harden in the extreme cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Château-Vieux",
+                "hu": "Château-Vieux",
+                "ro": "Château-Vieux",
+                "en": "Château-Vieux"
+              },
+              "tip_5lang": {
+                "de": "Im Winterlicht wirken die alten Gemäuer besonders stolz; starten Sie die Rückfahrt unbedingt vor 17:00 Uhr und schalten Sie das Licht ein.",
+                "hu": "A téli fényben a régi falak különösen büszkének hatnak; mindenképpen kezdje meg a visszaútját 17:00 előtt, és kapcsolja be a lámpáit.",
+                "ro": "În lumina iernii, zidurile vechi par deosebit de mândre; asigurați-vă că începeți călătoria de întoarcere înainte de ora 17:00 și porniți luminile.",
+                "en": "In the low winter light, the old walls look especially proud; absolutely start your return ride before 17:00 and turn on all bike lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Egy kényelmes kezdés a központi templomtól gyorsan eljuttatja a Dronières-tó körüli rekreációs területekre. Délben elvezet a Château-Vieux-hoz, hogy felfedezze az ősi romokat. A délutánt a lenyűgöző szurdokoknak és a termálfürdő romjainak szenteljük. Este megcsodálhatja a gigantikus Pont de la Caille-t.",
         "ro": "Un început confortabil vă duce rapid de la biserica centrală la zonele de recreere din jurul Lacului Dronières. La amiază, conduceți la Château-Vieux pentru a explora ruinele antice. După-amiaza este dedicată defileurilor impresionante și ruinelor băilor termale. Seara veți admira giganticul Pont de la Caille.",
         "en": "A comfortable start takes you quickly from the central church to the recreation areas around Lake Dronières. At midday, drive to Château-Vieux to explore the ancient ruins. The afternoon is dedicated to the impressive gorges and the ruins of the old thermal baths. In the evening, you will marvel at the gigantic Pont de la Caille."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gemütliche Regenfahrt am Morgen ab der Kirche. Am See und Park können Sie das Wetter meist vom warmen Auto aus genießen, kurze Wege unter dem Schirm. Nachmittagsfahrt zu Schloss und Thermen mit nassen, schlammigen Parkplätzen. Die Aussichtspunkte und die Brücke bieten zum Abend hin dramatische Regenmotive bei sicherer Fahrt.",
+            "hu": "Kényelmes esős autózás reggel a templomtól. A tónál és a parkban a meleg autóból vagy esernyő alatt rövid sétákkal élvezheti a tájat. Délutáni út a kastélyhoz és a fürdőhöz sáros parkolókkal. A kilátók és a híd estefelé drámai esős fotótémákat kínálnak biztonságos vezetés mellett.",
+            "ro": "Plimbare confortabilă pe ploaie dimineața, de la biserică. La lac și parc, vă puteți bucura de vreme în mare parte din mașina caldă, plimbări scurte sub umbrelă. După-amiaza spre castel și băi, parcările pot fi noroioase. Punctele de belvedere și podul oferă motive dramatice de ploaie spre seară.",
+            "en": "Cozy rainy drive in the morning starting at the church. At the lake and park, enjoy the views mostly from the warm car or with quick umbrella walks. Afternoon drive to the château and baths entails muddy parking spots. The viewpoints and bridge offer dramatic rainy evening scenery with safe, dry driving."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maurice",
+                "hu": "Saint-Maurice templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und flüchten Sie schnell hinein; drinnen erwartet Sie ein trockener Raum mit stimmungsvollem Licht trotz Regen.",
+                "hu": "Parkoljon közel a bejárathoz, és siessen be; bent száraz menedék és hangulatos fények várják az esős idő ellenére is.",
+                "ro": "Parcați aproape de intrare și fugiți repede înăuntru; vă așteaptă un spațiu uscat cu o lumină atmosferică, în ciuda ploii de afară.",
+                "en": "Park very close to the entrance and dash inside; a dry, quiet space awaits with atmospheric lighting despite the heavy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-See",
+                "hu": "Dronières-tó",
+                "ro": "Lacul Dronières",
+                "en": "Lake of Dronières"
+              },
+              "tip_5lang": {
+                "de": "Der Regen tropft malerisch auf den See; Sie können die Aussicht bequem aus dem Auto genießen oder einen sehr kurzen Schirm-Spaziergang machen.",
+                "hu": "Az eső festőien csepeg a tóra; kényelmesen élvezheti a kilátást a meleg autóból, vagy tehet egy nagyon rövid sétát esernyővel.",
+                "ro": "Ploaia picură pitoresc pe lac; puteți admira vederea confortabil din mașină sau puteți face o plimbare foarte scurtă cu umbrela.",
+                "en": "The rain drips picturesquely onto the lake; you can comfortably enjoy the view from the car or take a very short umbrella walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-Park",
+                "hu": "Dronières park",
+                "ro": "Parcul Dronières",
+                "en": "Dronières Park"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie extrem schwere Regengüsse einfach im Auto ab; der Parkplatz ist befestigt, aber die Grasflächen im Park sind nass und weich.",
+                "hu": "A leghevesebb záporokat egyszerűen várja ki az autóban; a parkoló burkolt, de a park füves területei nagyon nedvesek és süppedősek.",
+                "ro": "Așteptați pur și simplu ploile torențiale în mașină; parcarea este pavată, dar zonele cu iarbă din parc sunt ude și foarte moi.",
+                "en": "Simply wait out the heaviest downpours securely in your car; the parking lot is paved, but the park's grass areas are wet and sinkable."
+              }
+            },
+            {
+              "name": {
+                "de": "Château-Vieux",
+                "hu": "Château-Vieux",
+                "ro": "Château-Vieux",
+                "en": "Château-Vieux"
+              },
+              "tip_5lang": {
+                "de": "Im Nebel und Regen sieht das alte Gemäuer fast gespenstisch aus; fahren Sie die schmalen Zufahrtswege bei schlechter Sicht besonders langsam.",
+                "hu": "Ködös, esős időben a régi épület szinte kísértetiesnek hat; a rossz látási viszonyok miatt különösen lassan vezessen a szűk felhajtókon.",
+                "ro": "În ceață și ploaie, vechea clădire arată aproape fantomatic; conduceți deosebit de încet pe drumurile înguste de acces cu vizibilitate redusă.",
+                "en": "In thick fog and rain, the old walls look almost ghostly; drive the narrow access roads extremely slowly during poor visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Thermen",
+                "hu": "Régi termálfürdő",
+                "ro": "Vechile băi termale",
+                "en": "Old Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Die regennassen Ruinen sind faszinierend; der kurze Weg vom Auto kann schlammig sein, ziehen Sie feste, wasserdichte Schuhe an.",
+                "hu": "Az eső áztatta romok lenyűgözőek; az autótól vezető rövid út nagyon sáros lehet, vegyen fel strapabíró, vízálló cipőt.",
+                "ro": "Ruinele ude de ploaie sunt fascinante; drumul scurt de la mașină poate fi plin de noroi, purtați încălțăminte solidă, impermeabilă.",
+                "en": "The rain-soaked ruins are highly fascinating; the short walk from the car can be very muddy, so absolutely wear sturdy, waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Schlucht",
+                "hu": "Szurdok kilátó",
+                "ro": "Punctul de belvedere al defileului",
+                "en": "Gorges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie tief hängende Wolken durch die Schlucht ziehen; steigen Sie nur mit guter Bodenhaftung aus, der Asphalt ist spiegelglatt.",
+                "hu": "Figyelje meg, ahogy az alacsony felhők áthúznak a szurdokon; csak jó tapadású cipőben szálljon ki, az aszfalt tükörsima lehet.",
+                "ro": "Urmăriți norii joși cum trec prin defileu; coborâți din mașină doar cu încălțăminte cu aderență bună, asfaltul este extrem de alunecos.",
+                "en": "Watch the low-hanging clouds drift through the gorge; only step out of the car with good grip shoes, as the viewpoint asphalt is slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Brücken",
+                "hu": "Hidak kilátója",
+                "ro": "Punctul de belvedere al podurilor",
+                "en": "Bridges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Brücken wirken im Regen mächtig; bei echtem Wolkenbruch können Sie die Aussicht durch die Windschutzscheibe bei laufenden Wischern genießen.",
+                "hu": "A hidak az esőben hatalmasnak tűnnek; igazi felhőszakadás esetén a kilátást a szélvédőn keresztül, működő ablaktörlők mellett is élvezheti.",
+                "ro": "Podurile par masive în ploaie; într-o ploaie torențială, vă puteți bucura de priveliște prin parbriz, cu ștergătoarele în funcțiune.",
+                "en": "The bridges look massive in the rain; during a true downpour, you can easily enjoy the view through the windshield with wipers running."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de la Caille",
+                "hu": "Pont de la Caille",
+                "ro": "Pont de la Caille",
+                "en": "Pont de la Caille"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für mystische Regenfotos von der Brücke; laufen Sie vom sicheren Parkplatz aus sehr bedacht über die extrem glatten Brückenplanken.",
+                "hu": "Tökéletes helyszín misztikus esős fotókhoz; a biztonságos parkolóból kisétálva nagyon óvatosan lépkedjen a rendkívül csúszós híddeszkákon.",
+                "ro": "Perfect pentru fotografii mistice de ploaie de pe pod; de la parcarea sigură, mergeți foarte atent pe scândurile extrem de alunecoase ale podului.",
+                "en": "Perfect spot for mystical rainy photos of the bridge; walk from the safe parking lot very deliberately over the extremely slick bridge planks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt warm und entspannt an der Kirche. See und Park verzaubern mit Frost, lassen sich aber mit laufender Heizung gut erkunden. Die Nachmittagsfahrt zu Schloss und Thermen verlangt Vorsicht vor vereisten Kurven. Brücken und Aussichtspunkte bieten bei klarer Kälte Weitblick, bevor die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "A téli autóstúra melegen és pihentetően indul a templomtól. A tó és a park a fagyott tájjal varázsol el, a meleg autóból könnyen bejárható. A délutáni út a kastélyhoz és a fürdőhöz óvatosságot igényel a jeges kanyarokban. A hidak tiszta hidegben hatalmas látótávolságot nyújtanak a 17 órai naplemente előtt.",
+            "ro": "Turul de iarnă cu mașina începe cald la biserică. Lacul și parcul încântă cu gerul lor, dar pot fi explorate confortabil din mașina încălzită. Conducerea de după-amiază spre castel necesită atenție la curbele înghețate. Podurile oferă o vizibilitate clară înainte de apusul soarelui în jurul orei 17:00.",
+            "en": "The winter car tour starts warm and relaxed at the church. The lake and park enchant with frost, easily explored with the car heater running. The afternoon drive to the château and baths demands caution on icy curves. Bridges and viewpoints offer crisp, clear visibility before the sun sets around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maurice",
+                "hu": "Saint-Maurice templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Saint-Maurice Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto ruhig warm werden; die Kirche ist ein angenehmer, kurzer Stopp im Kalten mit faszinierendem Lichteinfall durch die Fenster.",
+                "hu": "Hagyja, hogy az autó felmelegedjen; a templom egy kellemes, rövid megálló a hidegben, ahol lenyűgöző fények szűrődnek be az ablakokon.",
+                "ro": "Lăsați mașina să se încălzească; biserica este o oprire plăcută, scurtă în frig, cu o lumină fascinantă care pătrunde prin ferestre.",
+                "en": "Let your car warm up nicely; the church is a pleasant, quick stop in the bitter cold with fascinating winter light filtering through the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-See",
+                "hu": "Dronières-tó",
+                "ro": "Lacul Dronières",
+                "en": "Lake of Dronières"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Uferlandschaft funkelt herrlich; steigen Sie für ein Foto aus, flüchten Sie aber schnell zurück ins wohlig warme Auto.",
+                "hu": "A fagyos partvidék csodálatosan szikrázik; szálljon ki egy gyors fotó erejéig, majd siessen vissza a kellemesen meleg autóba.",
+                "ro": "Peisajul înghețat de pe mal scânteiază; coborâți pentru o fotografie rapidă, dar refugiați-vă rapid înapoi în mașina caldă și primitoare.",
+                "en": "The frosty shoreline sparkles wonderfully; step out briefly for a crisp photo, but quickly retreat back into the pleasantly warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Dronières-Park",
+                "hu": "Dronières park",
+                "ro": "Parcul Dronières",
+                "en": "Dronières Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen sehr zügigen Spaziergang, um frische Winterluft zu schnappen; die Autostraßen dorthin sind bei Frost oft sehr rutschig.",
+                "hu": "Tegyen egy nagyon tempós sétát, hogy friss téli levegőt szívjon; az odavezető autóutak fagy idején gyakran rendkívül csúszósak lehetnek.",
+                "ro": "Faceți doar o plimbare rapidă pentru a lua o gură de aer proaspăt de iarnă; drumurile auto către parc sunt adesea foarte alunecoase la îngheț.",
+                "en": "Take only a very brisk walk to get some fresh winter air; the car roads leading into the park area are often quite slippery during frosts."
+              }
+            },
+            {
+              "name": {
+                "de": "Château-Vieux",
+                "hu": "Château-Vieux",
+                "ro": "Château-Vieux",
+                "en": "Château-Vieux"
+              },
+              "tip_5lang": {
+                "de": "Das alte Schloss ist oft romantisch mit Raureif überzogen; die Zufahrt am Hang erfordert gute Winterreifen, da Eisplatten dort lange überdauern.",
+                "hu": "A régi kastélyt gyakran romantikus zúzmara borítja; a lejtős felhajtón jó téli gumik kellenek, mert a jégfoltok sokáig megmaradnak.",
+                "ro": "Castelul vechi este adesea acoperit romantic de chiciură; accesul în pantă necesită anvelope bune de iarnă, deoarece peticele de gheață persistă.",
+                "en": "The old château is often romantically covered in hoarfrost; the sloped access requires good winter tires, as ice patches survive long here."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Thermen",
+                "hu": "Régi termálfürdő",
+                "ro": "Vechile băi termale",
+                "en": "Old Thermal Baths"
+              },
+              "tip_5lang": {
+                "de": "Verschneite Ruinen bieten ein ruhiges Bild; Vorsicht beim Aussteigen aus dem Auto, die Steine um die Parkbucht sind oft spiegelglatt gefroren.",
+                "hu": "A hólepte romok békés képet nyújtanak; vigyázzon az autóból való kiszálláskor, a parkoló körüli kövek gyakran tükörsimára fagynak.",
+                "ro": "Ruinele înzăpezite oferă o imagine liniștită; aveți grijă la coborârea din mașină, pietrele din jurul parcării sunt adesea înghețate și netede.",
+                "en": "Snow-covered ruins offer a very peaceful sight; be careful stepping out of your car, as the stones around the parking bay freeze mirror-smooth."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Schlucht",
+                "hu": "Szurdok kilátó",
+                "ro": "Punctul de belvedere al defileului",
+                "en": "Gorges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die klare Kaltluft sorgt für brillante Farben in der Schlucht; ziehen Sie Ihren dicken Mantel an, bevor Sie die gut beheizte Fahrerkabine verlassen.",
+                "hu": "A tiszta hideg levegő briliáns színeket varázsol a szurdokba; vegye fel a vastag kabátját, mielőtt elhagyja a jól fűtött utasteret.",
+                "ro": "Aerul rece oferă culori strălucitoare în defileu; puneți-vă haina groasă de iarnă înainte de a părăsi cabina bine încălzită a mașinii.",
+                "en": "The clear cold air provides brilliant visual colors in the gorge; put on your thick coat before leaving the comfort of your well-heated car cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt der Brücken",
+                "hu": "Hidak kilátója",
+                "ro": "Punctul de belvedere al podurilor",
+                "en": "Bridges Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, ungetrübten Winterblick; der Wind weht hier eisig, also halten Sie den Motor für eine schnelle Aufwärmphase danach bereit.",
+                "hu": "Élvezze a széles, zavartalan téli kilátást; a szél itt jéghideg, így tartsa készenlétben a motort egy gyors felmelegedéshez utána.",
+                "ro": "Bucurați-vă de vederea largă de iarnă; vântul bate cu gheață aici, așa că țineți motorul pregătit pentru o încălzire rapidă după ce admirați peisajul.",
+                "en": "Enjoy the wide, unclouded winter view; the wind blows icily here, so keep the car engine ready for a quick warm-up session immediately after."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de la Caille",
+                "hu": "Pont de la Caille",
+                "ro": "Pont de la Caille",
+                "en": "Pont de la Caille"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang um 17:00 Uhr leuchtet die Brücke fantastisch; fahren Sie danach vorsichtig zurück, da die Straßen extrem schnell überfrieren.",
+                "hu": "Pontban a 17 órai naplementekor a híd fantasztikusan ragyog; utána óvatosan vezessen vissza, mert az utak sötétedés után extrém gyorsan lefagynak.",
+                "ro": "La apusul soarelui la ora 17:00, podul strălucește fantastic; conduceți cu grijă înapoi, deoarece drumurile îngheață extrem de repede pe întuneric.",
+                "en": "Just in time for the 17:00 sunset, the bridge glows fantastically; drive back very carefully afterwards, as roads freeze extremely quickly in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

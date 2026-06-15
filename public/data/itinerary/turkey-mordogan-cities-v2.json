@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Mordoğan szívében, és csodálja meg az Atatürk-emlékművet, valamint a kikötő történelmi halászszobrát, amely remek fotótémát nyújt.\nDélben sétáljon el a Kocakum Plajı homokos partjára, ahol megpihenhet, vagy csobbanhat egyet a tengerben, mielőtt folytatná útját a malom felé.\nA délutánt az Ahmet Meram szélmalom lenyűgöző panorámája uralja, amelyet egy kényelmes séta követ a kalózok egykori rejtekhelyeként ismert Korsan strandhoz.\nAz estét a sziklás Kayalık parton zárhatja, ahol a nyugodt tengerparti szellő és a lemenő nap sugarai tökéletes befejezést nyújtanak.",
         "ro": "Începeți dimineața în inima orașului Mordoğan, admirând monumentul lui Atatürk și statuia pescarului din portul pitoresc. Lumina de dimineață este perfectă pentru plimbări.\nLa prânz, mergeți spre plaja Kocakum pentru a vă relaxa pe nisipul cald sau pentru a face o baie rapidă în mare, înainte de a urca spre vechea moară de vânt.\nDupă-amiaza vă aduce la moara de vânt Ahmet Meram pentru vederi panoramice superbe, urmate de o coborâre liniștită către ascunsa Plajă a Piraților.\nÎncheiați seara pe țărmul stâncos de la Kayalık Plajı, bucurându-vă de briza calmă a mării și de razele apusului într-o atmosferă extrem de relaxantă.",
         "en": "Start your morning in the heart of Mordoğan, admiring the Atatürk Monument and the historic Fisherman's Statue at the scenic harbor. The morning light is perfect for a stroll.\nAt midday, walk over to Kocakum Beach to relax on the sandy shores or enjoy a refreshing dip in the sea before heading towards the old windmill.\nThe afternoon brings you to the Ahmet Meram Windmill for stunning panoramic coastal views, followed by a leisurely descent to the secluded Pirate Beach.\nEnd your evening on the rocky shores of Kayalık Beach, soaking in the calm sea breeze and the final rays of the sun in complete relaxation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mordoğan zeigt sich bei Regen von seiner dramatischen Seite. Starten Sie mit festem Schirm am Hafenbecken. Mittags finden Sie in den kleinen Gassen Unterschlupf in urigen Cafés. Der Nachmittag gehört dem wilden Meer, wenn die Gischt gegen die Promenade peitscht. Den Abend lassen Sie bei gedämpftem Licht und prasselndem Regen in einer gemütlichen Hafenbar ausklingen.",
+            "hu": "Mordoğan esőben is különleges arcát mutatja. Kezdje a reggelt egy stabil esernyővel a kikötőnél. Délben a szűk utcák kis kávézói nyújtanak menedéket a zápor elől. Délután a vad tenger látványa dominál, ahogy a habok a sétánynak csapódnak. Az estét töltse egy hangulatos kikötői bárban, hallgatva a tetőn kopogó eső megnyugtató neszét.",
+            "ro": "Mordoğan își arată o latură dramatică pe ploaie. Începeți dimineața cu o umbrelă solidă lângă port. La prânz, micile cafenele de pe străduțe oferă adăpost de aversă. După-amiaza este dedicată mării agitate, când valurile se izbesc de faleză. Încheiați seara într-un bar primitor din port, ascultând sunetul relaxant al ploii care bate în geam.",
+            "en": "Mordoğan reveals a dramatic side in the rain. Start your morning with a sturdy umbrella by the harbor. At noon, small cafes in the narrow streets offer shelter from the downpour. The afternoon belongs to the wild sea as the spray crashes against the promenade. End the evening in a cozy harbor bar, listening to the soothing sound of rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal vor dem grauen Himmel; Vorsicht beim Treppensteigen, da der Marmorboden bei Nässe extrem rutschig wird.",
+                "hu": "Csodálja meg az emlékművet a drámai szürke égbolt előtt; vigyázzon a lépcsőknél, mert a márványfelület vizesen rendkívül csúszóssá válik.",
+                "ro": "Admirați monumentul pe fundalul cerului cenușiu; aveți grijă la trepte, deoarece suprafața de marmură devine extrem de alunecoasă când este udă.",
+                "en": "Admire the monument against the dramatic grey sky; be careful on the steps as the marble surface becomes extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkçı Anıt",
+                "hu": "Balıkçı Anıt",
+                "ro": "Balıkçı Anıt",
+                "en": "Balıkçı Anıt"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal ehrt die Fischer der Region; nutzen Sie die nahegelegenen Vordächer der Läden, um trocken zu bleiben und Fotos zu machen.",
+                "hu": "Ez az emlékmű a helyi halászok előtt tiszteleg; használja a közeli boltok előtetőit, hogy szárazon maradva készíthessen néhány fotót.",
+                "ro": "Acest monument onorează pescarii locali; folosiți copertinele magazinelor din apropiere pentru a rămâne uscat în timp ce faceți fotografii.",
+                "en": "This monument honors local fishermen; use the nearby shop awnings to stay dry while taking some atmospheric photos of the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Kocakum Plajı",
+                "hu": "Kocakum Plajı",
+                "ro": "Kocakum Plajı",
+                "en": "Kocakum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf dem Meer; Gummistiefel sind ideal für einen kurzen Spaziergang am festen, nassen Sandstreifen.",
+                "hu": "Figyelje a tengeren táncoló esőcseppek játékát; egy gumicsizma ideális választás egy rövid sétához a tömör, nedves homokos parton.",
+                "ro": "Urmăriți jocul picăturilor de ploaie pe mare; cizmele de cauciuc sunt ideale pentru o scurtă plimbare pe fâșia de nisip ud și compact.",
+                "en": "Watch the play of raindrops on the sea surface; rubber boots are ideal for a short walk along the firm, wet sandy stretch of the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Ahmet Meram Yel Değirmeni",
+                "hu": "Ahmet Meram Yel Değirmeni",
+                "ro": "Ahmet Meram Yel Değirmeni",
+                "en": "Ahmet Meram Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Die alte Windmühle wirkt im Regen sehr mystisch; halten Sie Ihren Besuch kurz und suchen Sie danach Schutz im Inneren eines nahen Gebäudes.",
+                "hu": "A régi szélmalom misztikus látványt nyújt az esőben; tartsa rövidre a látogatást, majd keressen menedéket a közeli épületek egyikében.",
+                "ro": "Vechea moară de vânt arată mistic în ploaie; scurtați vizita și căutați adăpost în interiorul unei clădiri din apropiere imediat după.",
+                "en": "The old windmill looks quite mystical in the rain; keep your visit brief and seek shelter inside a nearby building right after viewing it."
+              }
+            },
+            {
+              "name": {
+                "de": "Korsan Plajı",
+                "hu": "Korsan Plajı",
+                "ro": "Korsan Plajı",
+                "en": "Korsan Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen bieten bei Regen ein raues Panorama; bleiben Sie auf den befestigten Wegen, um Schlamm und rutschige Kanten zu meiden.",
+                "hu": "A sziklaformációk zord, de látványos panorámát nyújtanak esőben; maradjon a kijelölt utakon, hogy elkerülje a sarat és a csúszós peremeket.",
+                "ro": "Formațiunile stâncoase oferă o panoramă aspră pe ploaie; rămâneți pe potecile amenajate pentru a evita noroiul și marginile alunecoase.",
+                "en": "The rock formations offer a rugged panorama in the rain; stay on the paved paths to avoid mud and slippery edges near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayalık Plajı",
+                "hu": "Kayalık Plajı",
+                "ro": "Kayalık Plajı",
+                "en": "Kayalık Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an der felsigen Küste; ein hochwertiger Regenponcho ist hier unerlässlich, da der Wind den Regen oft seitlich peitscht.",
+                "hu": "Élvezze a magányt a sziklás parton; egy jó minőségű esőponcsó itt elengedhetetlen, mivel a szél gyakran oldalról fújja a csapadékot.",
+                "ro": "Bucurați-vă de singurătate pe țărmul stâncos; un pelerină de ploaie de calitate este esențială aici, deoarece vântul suflă adesea ploaia lateral.",
+                "en": "Enjoy the solitude on the rocky shore; a high-quality rain poncho is essential here as the wind often blows the rain sideways."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mordoğan im Winter ist ruhig und erfrischend kühl. Beginnen Sie den Tag warm eingepackt mit einem Blick auf das tiefblaue Meer. Mittags wärmen lokale Suppen in den Restaurants Körper und Seele. Da die Sonne gegen 17:00 Uhr sinkt, nutzen Sie das goldene Licht des Nachmittags. Der Abend gehört der wohligen Wärme am Kamin in Ihrer Unterkunft.",
+            "hu": "Mordoğan télen csendes és frissítően hűvös. Kezdje a napot melegen felöltözve, gyönyörködve a mélykék tengerben. Délben a helyi levesek melengetik meg a testet és a lelket az éttermekben. Mivel a nap 17:00 körül nyugszik, használja ki a délutáni aranyló fényeket. Az este a szálláshely kandallójának kellemes melegéé.",
+            "ro": "Mordoğan iarna este liniștit și răcoritor. Începeți ziua bine îmbrăcat, admirând marea de un albastru profund. La prânz, supele locale vă vor încălzi corpul și sufletul în restaurante. Deoarece soarele apune în jur de ora 17:00, profitați de lumina aurie a după-amiezii. Seara aparține căldurii plăcute de lângă șemineu.",
+            "en": "Mordoğan in winter is quiet and refreshingly cool. Start the day bundled up warm with a view of the deep blue sea. At noon, local soups in the restaurants warm body and soul. Since the sun sets around 17:00, make the most of the golden afternoon light. The evening belongs to the cozy warmth by the fireplace at your stay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Kopf frei; tragen Sie eine winddichte Jacke, da die Brise vom Meer im Winter deutlich kälter weht.",
+                "hu": "A hűvös reggeli levegő kitisztítja a fejet; viseljen szélálló kabátot, mivel a tenger felől érkező szél télen jóval hidegebb.",
+                "ro": "Aerul răcoros de dimineață vă va împrospăta; purtați o jachetă rezistentă la vânt, deoarece briza mării este mult mai rece iarna.",
+                "en": "The cool morning air clears the mind; wear a windproof jacket as the breeze from the sea blows significantly colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkçı Anıt",
+                "hu": "Balıkçı Anıt",
+                "ro": "Balıkçı Anıt",
+                "en": "Balıkçı Anıt"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung ohne Touristenmassen; wärmen Sie Ihre Hände an einem Becher heißem Çay, den Sie an einem nahen Kiosk kaufen können.",
+                "hu": "Nyugodt hely az elmélkedésre turistatömegek nélkül; melengesse a kezeit egy pohár forró teával, amit a közeli árusoknál vehet.",
+                "ro": "Un loc liniștit pentru reflecție, fără mase de turiști; încălziți-vă mâinile cu un pahar de ceai fierbinte cumpărat de la un chioșc din apropiere.",
+                "en": "A peaceful spot for reflection without the tourist crowds; warm your hands with a cup of hot Çay bought from a nearby kiosk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kocakum Plajı",
+                "hu": "Kocakum Plajı",
+                "ro": "Kocakum Plajı",
+                "en": "Kocakum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Ägäische Meer; Schal und Mütze sind Pflicht für den Aufenthalt am windigen Ufer.",
+                "hu": "Élvezze a tágas kilátást a téli Égei-tengerre; a sál és a sapka kötelező viselet a szeles tengerparti tartózkodáshoz.",
+                "ro": "Bucurați-vă de vederea largă asupra Mării Egee în haine de iarnă; fularul și căciula sunt obligatorii pentru șederea pe țărmul vântos.",
+                "en": "Enjoy the expansive view over the wintry Aegean Sea; a scarf and hat are mandatory for spending time on the windy shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Ahmet Meram Yel Değirmeni",
+                "hu": "Ahmet Meram Yel Değirmeni",
+                "ro": "Ahmet Meram Yel Değirmeni",
+                "en": "Ahmet Meram Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht ist perfekt für Architekturfotos; besuchen Sie die Mühle vor 16:30 Uhr, um das beste Tageslicht zu nutzen.",
+                "hu": "A lágy téli fények tökéletesek az építészeti fotókhoz; látogassa meg a malmot 16:30 előtt, hogy kihasználja a legjobb fényviszonyokat.",
+                "ro": "Lumina blândă de iarnă este perfectă pentru fotografii de arhitectură; vizitați moara înainte de 16:30 pentru a profita de cea mai bună lumină.",
+                "en": "The soft winter light is perfect for architectural photos; visit the windmill before 16:30 to catch the best remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Korsan Plajı",
+                "hu": "Korsan Plajı",
+                "ro": "Korsan Plajı",
+                "en": "Korsan Plajı"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Bucht in völliger Stille; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr und planen Sie den Rückweg rechtzeitig ein.",
+                "hu": "Fedezze fel az öblöt teljes csendben; figyeljen a korai, 17:00 körüli naplementére, és tervezze meg időben a visszautat.",
+                "ro": "Explorați golful în liniște deplină; aveți grijă la apusul devreme din jurul orei 17:00 și planificați drumul de întoarcere din timp.",
+                "en": "Explore the bay in total silence; keep an eye on the early sunset around 17:00 and plan your walk back well in advance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayalık Plajı",
+                "hu": "Kayalık Plajı",
+                "ro": "Kayalık Plajı",
+                "en": "Kayalık Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort für den Sonnenuntergang; bringen Sie eine Thermoskanne mit heißem Getränk mit, um die Kälte während des Wartens zu vertreiben.",
+                "hu": "Pazar helyszín a naplemente megtekintéséhez; vigyen magával egy termoszt forró itallal, hogy elűzze a hideget a várakozás közben.",
+                "ro": "Un loc superb pentru a vedea apusul; aduceți un termos cu o băutură fierbinte pentru a alunga frigul în timp ce așteptați.",
+                "en": "A magnificent spot for watching the sunset; bring a thermos with a hot drink to ward off the chill while you wait for the colors to change."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A nap egy frissítő kerékpározással indul az északi Ardıç strandhoz, ahol a nyugodt vizek és a tengerparti friss levegő tökéletes kezdést biztosítanak.\nDélben tekerjen be a szárazföld felé, hogy megtekintse a békés Ayşe Kadın mecsetet, majd térjen vissza a nyüzsgő központba az Atatürk-emlékműhöz.\nDélután fedezze fel a Kocakum strandot, majd tekerjen fel az ikonikus Ahmet Meram szélmalomhoz, ahonnan csodálatos panoráma nyílik a partra.\nAz estét a Kayalık strand sziklái között töltheti, ahol a biciklit letámasztva gyönyörködhet a naplemente fényeiben és a tenger hullámaiban.",
         "ro": "Ziua începe cu o plimbare revigorantă cu bicicleta până la plaja Ardıç din nord, unde apele liniștite oferă un început de zi cu adevărat relaxant.\nLa prânz, pedalați spre interior pentru a vizita pașnica Moschee Ayşe Kadın, înainte de a reveni în centrul plin de viață la Monumentul lui Atatürk.\nDupă-amiaza, explorați plaja centrală Kocakum și apoi urcați cu bicicleta până la emblematica moară de vânt Ahmet Meram pentru vederi uimitoare.\nSeara vă poartă spre țărmul stâncos de la Kayalık Plajı, unde vă puteți odihni admirând culorile apusului reflectate pe suprafața mării.",
         "en": "Your day begins with a refreshing ride to Ardıç Beach in the north, where the calm waters and fresh sea breeze offer a perfect, relaxing start.\nAt midday, cycle inland to visit the peaceful Ayşe Kadın Mosque, before returning to the bustling center to admire the prominent Atatürk Monument.\nIn the afternoon, explore the sandy Kocakum Beach and then pedal up to the iconic Ahmet Meram Windmill for stunning panoramic views of the coast.\nThe evening brings you to the rocky shores of Kayalık Beach, where you can park your bike and enjoy the sunset reflecting over the gentle waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht und die richtige Ausrüstung. Starten Sie mit guter Regenbekleidung entlang der Küstenstraße. Mittags dienen überdachte Bushaltestellen oder Cafés als Rastplätze. Nachmittags fordern nasse Asphaltpassagen Ihre volle Konzentration. Abends belohnen Sie sich mit einer warmen Dusche und einem herzhaften Essen.",
+            "hu": "Az esős kerékpározás óvatosságot és megfelelő felszerelést igényel. Kezdje a napot jó esőruházatban a part menti úton. Délben fedett buszmegállók vagy kávézók szolgálnak pihenőhelyként. Délután a nedves aszfalt teljes koncentrációt igényel. Este jutalmazza meg magát egy forró zuhanyval és egy kiadós vacsorával.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență și echipament adecvat. Începeți ziua cu haine impermeabile bune pe drumul de coastă. La prânz, stațiile de autobuz acoperite sau cafenelele servesc ca locuri de odihnă. După-amiaza, porțiunile de asfalt umed cer concentrare maximă. Seara, răsplătiți-vă cu un duș fierbinte și o masă copioasă.",
+            "en": "Cycling in the rain requires caution and the right gear. Start the day with good rainwear along the coastal road. At noon, covered bus stops or cafes serve as rest areas. In the afternoon, wet asphalt sections demand your full concentration. In the evening, reward yourself with a hot shower and a hearty meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ardıç Plajı",
+                "hu": "Ardıç Plajı",
+                "ro": "Ardıç Plajı",
+                "en": "Ardıç Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen verlassen und weit; prüfen Sie vor der Weiterfahrt den Reifendruck, um mehr Grip auf dem nassen Boden zu haben.",
+                "hu": "A strand esőben elhagyatottnak és tágasnak tűnik; indulás előtt ellenőrizze a guminyomást a jobb tapadás érdekében a nedves talajon.",
+                "ro": "Plaja pare pustie și vastă pe ploaie; verificați presiunea în anvelope înainte de a pleca pentru o aderență mai bună pe solul umed.",
+                "en": "The beach looks deserted and vast in the rain; check your tire pressure before moving on to ensure better grip on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayşe Kadın Camii",
+                "hu": "Ayşe Kadın Camii",
+                "ro": "Ayşe Kadın Camii",
+                "en": "Ayşe Kadın Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet einen friedlichen, trockenen Ort für eine Pause; lassen Sie Ihr Fahrrad unter einem Baum oder Vordach stehen, um den Sattel trocken zu halten.",
+                "hu": "A mecset békés, száraz helyet kínál a pihenéshez; hagyja kerékpárját egy fa vagy előtető alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Moscheea oferă un loc liniștit și uscat pentru o pauză; lăsați bicicleta sub un copac sau o copertină pentru a păstra șaua uscată.",
+                "en": "The mosque offers a peaceful, dry spot for a break; leave your bike under a tree or awning to keep the saddle dry while you visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Denkmal; achten Sie beim Absteigen auf rutschige Markierungen auf der Straße und tragen Sie helle Kleidung für bessere Sichtbarkeit.",
+                "hu": "Rövid megálló az emlékműnél; leszálláskor ügyeljen a csúszós útburkolati jelekre, és viseljen élénk ruházatot a jobb láthatóságért.",
+                "ro": "O scurtă oprire la monument; atenție la marcajele rutiere alunecoase când coborâți și purtați haine reflectorizante pentru vizibilitate.",
+                "en": "A quick stop at the monument; watch out for slippery road markings when dismounting and wear bright clothing for better visibility in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kocakum Plajı",
+                "hu": "Kocakum Plajı",
+                "ro": "Kocakum Plajı",
+                "en": "Kocakum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenluft ist bei Regen besonders frisch; meiden Sie Pfützen, da diese tiefe Löcher verbergen können, die für Radfahrer gefährlich sind.",
+                "hu": "A tengerparti levegő esőben különösen friss; kerülje a tócsákat, mert azok mély kátyúkat rejthetnek, amik veszélyesek a bringásokra.",
+                "ro": "Aerul de coastă este deosebit de proaspăt pe ploaie; evitați bălțile, deoarece acestea pot ascunde gropi adânci, periculoase pentru bicicliști.",
+                "en": "The coastal air is especially fresh in the rain; avoid puddles as they can hide deep potholes that are dangerous for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Ahmet Meram Yel Değirmeni",
+                "hu": "Ahmet Meram Yel Değirmeni",
+                "ro": "Ahmet Meram Yel Değirmeni",
+                "en": "Ahmet Meram Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Ein schönes Fotomotiv auch bei grauem Wetter; wischen Sie die Bremsbeläge kurz ab, um die volle Bremsleistung für die Abfahrt zu gewährleisten.",
+                "hu": "Szép fotótéma szürke időben is; törölje le röviden a fékbetéteket, hogy biztosítsa a teljes fékhatást a lejtőkhöz.",
+                "ro": "Un motiv fotografic frumos chiar și pe vreme gri; ștergeți scurt saboții de frână pentru a asigura eficiența maximă la coborâre.",
+                "en": "A beautiful photo subject even in grey weather; wipe your brake pads briefly to ensure full braking power for any downhill sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayalık Plajı",
+                "hu": "Kayalık Plajı",
+                "ro": "Kayalık Plajı",
+                "en": "Kayalık Plajı"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel Ihrer Tour an den Klippen; suchen Sie sich einen geschützten Platz zum Abstellen des Rades und genießen Sie den Blick auf das raue Meer.",
+                "hu": "Túrájának célpontja a szikláknál; keressen egy védett helyet a kerékpár leállításához, és élvezze a kilátást a haragos tengerre.",
+                "ro": "Destinația turului tău la stânci; caută un loc ferit pentru a lăsa bicicleta și bucură-te de vederea mării învolburate.",
+                "en": "The destination of your tour by the cliffs; find a sheltered spot to park your bike and enjoy the view of the rough, dark sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Mordoğan ist bei klarem Himmel ein Genuss. Starten Sie morgens mit Handschuhen und Stirnband gegen den kühlen Fahrtwind. Mittags laden sonnige Plätze an Hauswänden für eine kurze Pause ein. Der Nachmittag bietet scharfe Kontraste und weite Sichtweiten über das Wasser. Kehren Sie vor Einbruch der Dunkelheit um 17:00 Uhr zurück.",
+            "hu": "A téli kerékpározás Mordoğanban tiszta égbolt mellett igazi élvezet. Kezdje a reggelt kesztyűben és fejpántban a hűvös menetszél ellen. Délben a házfalak menti napos helyek hívogatnak egy rövid pihenőre. Délután éles kontrasztok és nagy látótávolság vár a víz felett. Térjen vissza a sötétség beállta, 17:00 előtt.",
+            "ro": "Mersul cu bicicleta iarna în Mordoğan este o plăcere pe cer senin. Începeți dimineața cu mănuși și bentiță împotriva vântului rece de mișcare. La prânz, locurile însorite de lângă pereții caselor invită la o scurtă pauză. După-amiaza oferă contraste clare și vizibilitate mare peste apă. Întoarceți-vă înainte de ora 17:00.",
+            "en": "Winter cycling in Mordoğan is a delight under clear skies. Start the morning with gloves and a headband against the cool wind. At noon, sunny spots by house walls invite you for a short break. The afternoon offers sharp contrasts and long-distance views over the water. Return before darkness falls at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ardıç Plajı",
+                "hu": "Ardıç Plajı",
+                "ro": "Ardıç Plajı",
+                "en": "Ardıç Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Start am leeren Strand; bewegen Sie Ihre Finger und Zehen regelmäßig, um die Durchblutung während der Fahrt in der Kälte zu fördern.",
+                "hu": "Nyugodt kezdés az üres strandon; mozgassa rendszeresen az ujjait és lábujjait, hogy serkentse a vérkeringést a hidegben való tekerés alatt.",
+                "ro": "Un început liniștit pe plaja goală; mișcați-vă degetele de la mâini și picioare regulat pentru a stimula circulația în timpul mersului pe frig.",
+                "en": "A peaceful start on the empty beach; move your fingers and toes regularly to stimulate circulation during the ride in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayşe Kadın Camii",
+                "hu": "Ayşe Kadın Camii",
+                "ro": "Ayşe Kadın Camii",
+                "en": "Ayşe Kadın Camii"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen historischen Ort; nutzen Sie die Innenbesichtigung, um sich kurz aufzuwärmen, bevor es zurück auf das Fahrrad geht.",
+                "hu": "Látogasson el erre a történelmi helyre; használja ki a belső tér megtekintését egy rövid felmelegedésre, mielőtt visszapattanna a nyeregbe.",
+                "ro": "Vizitați acest loc istoric; profitați de vizitarea interiorului pentru a vă încălzi puțin înainte de a urca din nou pe bicicletă.",
+                "en": "Visit this historical site; take the opportunity to warm up inside briefly before getting back on your bike for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Ein Wahrzeichen im Zentrum; trinken Sie zwischendurch etwas Warmes aus Ihrer Thermosflasche, um die Körpertemperatur stabil zu halten.",
+                "hu": "Egy jelkép a központban; igyon közben valami meleget a kulacsából, hogy stabilan tartsa a testhőmérsékletét a hűvösben.",
+                "ro": "Un simbol în centru; beți ceva cald din termos între timp pentru a vă menține temperatura corpului stabilă pe parcursul zilei.",
+                "en": "A landmark in the center; drink something warm from your thermos occasionally to keep your body temperature stable in the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kocakum Plajı",
+                "hu": "Kocakum Plajı",
+                "ro": "Kocakum Plajı",
+                "en": "Kocakum Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert auf dem Wasser; achten Sie auf schattige Abschnitte auf der Straße, dort kann es deutlich kühler sein als in der Sonne.",
+                "hu": "A téli napfény szikrázik a vízen; ügyeljen az úton az árnyékos szakaszokra, ott jelentősen hidegebb lehet, mint a napon.",
+                "ro": "Soarele de iarnă scânteiază pe apă; atenție la secțiunile umbrite de pe drum, acolo poate fi mult mai frig decât la soare.",
+                "en": "The winter sun sparkles on the water; watch out for shaded sections on the road, as it can be much cooler there than in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Ahmet Meram Yel Değirmeni",
+                "hu": "Ahmet Meram Yel Değirmeni",
+                "ro": "Ahmet Meram Yel Değirmeni",
+                "en": "Ahmet Meram Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt; ziehen Sie für die folgende Abfahrt eine zusätzliche Schicht an, da der Fahrtwind den Körper schnell auskühlen lässt.",
+                "hu": "Remek kilátópont; vegyen fel egy plusz réteget a következő lejtőhöz, mivel a menetszél gyorsan lehűtheti a testét.",
+                "ro": "Un punct de belvedere excelent; puneți-vă un strat suplimentar pentru coborârea următoare, deoarece vântul vă poate răci rapid corpul.",
+                "en": "A great viewpoint; put on an extra layer for the following downhill section, as the wind chill can quickly cool your body down."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayalık Plajı",
+                "hu": "Kayalık Plajı",
+                "ro": "Kayalık Plajı",
+                "en": "Kayalık Plajı"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Tour bei klarem Winterlicht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, falls es bei der Rückkehr schon dämmert.",
+                "hu": "A túra lezárása tiszta téli fényeknél; győződjön meg róla, hogy a kerékpáros lámpái működnek, ha a visszatéréskor már szürkület lenne.",
+                "ro": "Încheierea turului în lumină clară de iarnă; asigurați-vă că luminile bicicletei funcționează, în caz că se înserează la întoarcere.",
+                "en": "Ending the tour in clear winter light; make sure your bike lights are working in case it starts to get dark during your return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje az autós túrát a szárazföldön található bájos Ayşe Kadın mecsetnél, majd hajtson el a tágas Ardıç strandhoz, hogy élvezze a reggeli napsütést.\nDélben látogasson el az exkluzív Seal Beach Clubba egy kis pihenésre, majd fedezze fel Mordoğan központját és az impozáns Atatürk-emlékművet.\nDélután fotózza le a kikötői halászszobrot, majd guruljon fel az Ahmet Meram szélmalomhoz, ahonnan lélegzetelállító kilátás nyílik a tengerre.\nZárja a napot a félreeső Korsan strandon, ahol leparkolhatja autóját, és a lenyugvó nap fényében élvezheti a festői öböl csendjét.",
         "ro": "Începeți plimbarea la fermecătoarea Moschee Ayşe Kadın din interiorul orașului, urmată de o scurtă călătorie spre plaja spațioasă Ardıç pentru soarele dimineții.\nLa prânz, conduceți către exclusivistul Seal Beach Club pentru relaxare, înainte de a vizita centrul orașului Mordoğan și Monumentul lui Atatürk.\nDupă-amiaza oferă timp pentru a fotografia Statuia Pescarului și apoi pentru a urca la moara de vânt Ahmet Meram, admirând panorama de coastă.\nÎncheiați turul la izolata Plajă a Piraților, unde puteți parca mașina și vă puteți bucura de golful idilic în lumina blândă a apusului de soare.",
         "en": "Start your drive inland at the charming Ayşe Kadın Mosque, followed by a short trip to the spacious Ardıç Beach to catch the early morning sun.\nAt midday, drive over to the upscale Seal Beach Club for some premium relaxation before heading into Mordoğan’s center to see the Atatürk Monument.\nThe afternoon allows time to photograph the Fisherman's Statue at the harbor and then drive up to the Ahmet Meram Windmill to admire the coastal panorama.\nConclude your tour at the secluded Pirate Beach, where you can park the car and fully enjoy the idyllic cove as the sun gently sets over the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Mordoğan bei Regen besonders komfortabel. Starten Sie trocken und warm zu den historischen Stätten im Hinterland. Mittags parken Sie direkt vor den besten Fischrestaurants am Hafen. Nachmittags genießen Sie die Panoramafahrt entlang der Küste, während der Regen gegen die Scheiben trommelt. Der Abend endet entspannt in Ihrer gemütlichen Unterkunft.",
+            "hu": "Autóval különösen kényelmesen fedezheti fel Mordoğant esőben. Induljon szárazon és melegen a hátország történelmi helyszínei felé. Délben parkoljon le közvetlenül a kikötő legjobb haléttermei előtt. Délután élvezze a panorámautat a part mentén, miközben az eső a szélvédőn kopog. Az este pihentetően zárul a kényelmes szállásán.",
+            "ro": "Cu mașina, explorați Mordoğan pe ploaie într-un mod deosebit de confortabil. Începeți ziua la adăpost spre locurile istorice din interior. La prânz, parcați chiar în fața celor mai bune restaurante de pește din port. După-amiaza, bucurați-vă de drumul panoramic de-a lungul coastei. Seara se încheie relaxant la cazarea dvs. primitoare.",
+            "en": "By car, you can explore Mordoğan in the rain with maximum comfort. Start dry and warm towards the historical sites in the hinterland. At noon, park right in front of the best fish restaurants at the harbor. In the afternoon, enjoy the panoramic drive along the coast while rain drums on the windshield. The evening ends relaxingly at your cozy stay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayşe Kadın Camii",
+                "hu": "Ayşe Kadın Camii",
+                "ro": "Ayşe Kadın Camii",
+                "en": "Ayşe Kadın Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Regen sehr besinnlich; parken Sie auf befestigtem Untergrund, um nicht im aufgeweichten Boden stecken zu bleiben.",
+                "hu": "Az építészet esőben nagyon megnyugtató látvány; parkoljon szilárd burkolaton, hogy elkerülje az elakadást a felázott talajon.",
+                "ro": "Arhitectura arată foarte contemplativ pe ploaie; parcați pe o suprafață solidă pentru a evita să rămâneți blocat în solul înmuiat.",
+                "en": "The architecture looks very contemplative in the rain; park on a solid surface to avoid getting stuck in the softened ground nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardıç Plajı",
+                "hu": "Ardıç Plajı",
+                "ro": "Ardıç Plajı",
+                "en": "Ardıç Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer aus dem warmen Auto; lassen Sie die Scheibenwischer auf Intervall, um immer freie Sicht auf die Bucht zu haben.",
+                "hu": "Élvezze a tengerre nyíló kilátást a meleg autóból; használja az ablaktörlő szakaszos üzemmódját, hogy mindig tiszta maradjon a panoráma.",
+                "ro": "Bucurați-vă de vederea la mare din mașina caldă; lăsați ștergătoarele pe interval pentru a avea mereu o vedere clară asupra golfului.",
+                "en": "Enjoy the sea view from the warmth of your car; keep your windshield wipers on interval to ensure a constantly clear view of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Seal Beach Club",
+                "hu": "Seal Beach Club",
+                "ro": "Seal Beach Club",
+                "en": "Seal Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Stopp an der Küste; nutzen Sie die Parkplätze nah am Eingang, um möglichst trocken in den überdachten Bereich zu gelangen.",
+                "hu": "Modern megálló a parton; használja a bejárathoz közeli parkolóhelyeket, hogy minél szárazabban juthasson be a fedett részekre.",
+                "ro": "O oprire modernă pe coastă; folosiți locurile de parcare aproape de intrare pentru a ajunge cât mai uscat în zona acoperită.",
+                "en": "A modern coastal stop; use the parking spaces close to the entrance to reach the sheltered areas while staying as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Zentrales Denkmal im Ort; achten Sie beim Einparken auf Fußgänger mit Regenschirmen, die Ihre Sicht behindern könnten.",
+                "hu": "Központi emlékmű a településen; parkoláskor ügyeljen az esernyős gyalogosokra, akik korlátozhatják a kilátást a manőverezés közben.",
+                "ro": "Monument central în localitate; atenție la pietonii cu umbrele când parcați, deoarece aceștia vă pot bloca vizibilitatea în oglinzi.",
+                "en": "Central monument in town; watch out for pedestrians with umbrellas when parking, as they might obstruct your view during maneuvers."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkçı Anıt",
+                "hu": "Balıkçı Anıt",
+                "ro": "Balıkçı Anıt",
+                "en": "Balıkçı Anıt"
+              },
+              "tip_5lang": {
+                "de": "Ein Symbol der lokalen Kultur; nutzen Sie den Stopp für ein Foto aus dem Fenster oder einen ganz kurzen Gang an die frische, regnerische Luft.",
+                "hu": "A helyi kultúra szimbóluma; használja ki a megállót egy ablakból lőtt fotóra vagy egy rövid sétára a friss, esős levegőn.",
+                "ro": "Un simbol al culturii locale; profitați de oprire pentru o fotografie de la fereastră sau o scurtă ieșire în aerul proaspăt și ploios.",
+                "en": "A symbol of local culture; use this stop for a photo from the window or a very brief walk in the fresh, rainy coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ahmet Meram Yel Değirmeni",
+                "hu": "Ahmet Meram Yel Değirmeni",
+                "ro": "Ahmet Meram Yel Değirmeni",
+                "en": "Ahmet Meram Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle thront über der Stadt; fahren Sie vorsichtig auf der schmalen Zufahrt, da der Asphalt bei Regen sehr rutschig sein kann.",
+                "hu": "A malom a város felett trónol; hajtson óvatosan a szűk bekötőúton, mivel az aszfalt esőben rendkívül csúszós lehet.",
+                "ro": "Moara tronează deasupra orașului; conduceți cu atenție pe drumul îngust de acces, deoarece asfaltul poate fi foarte alunecos pe ploaie.",
+                "en": "The windmill towers over the town; drive carefully on the narrow access road, as the asphalt can be very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Korsan Plajı",
+                "hu": "Korsan Plajı",
+                "ro": "Korsan Plajı",
+                "en": "Korsan Plajı"
+              },
+              "tip_5lang": {
+                "de": "Abgeschiedene Bucht für Naturfreunde; prüfen Sie, ob die Scheinwerfer sauber sind, um bei dem trüben Regenwetter besser gesehen zu werden.",
+                "hu": "Eldugott öböl a természetbarátoknak; ellenőrizze, hogy a fényszórók tiszták-e, hogy jobban látszódjon a borús, esős időben.",
+                "ro": "Golf retras pentru iubitorii de natură; verificați dacă farurile sunt curate pentru a fi mai vizibil pe vremea mohorâtă și ploioasă.",
+                "en": "Secluded bay for nature lovers; ensure your headlights are clean to be more visible in the gloomy, rainy weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Mordoğan im Winter ganz entspannt mit dem Auto. Morgens genießen Sie die Fahrt durch die klare, kühle Luft bei laufender Heizung. Mittags finden Sie leicht Parkplätze direkt im Zentrum für einen Restaurantbesuch. Der Nachmittag lockt mit weiten Panoramablicken von erhöhten Punkten. Da es um 17:00 Uhr dunkel wird, planen Sie die Rückfahrt rechtzeitig ein.",
+            "hu": "Fedezze fel Mordoğant télen teljesen ellazulva, autóval. Reggel élvezze az utazást a tiszta, hűvös levegőn, járó fűtés mellett. Délben könnyen talál parkolóhelyet a központban egy éttermi látogatáshoz. A délután tágas panorámával csábít a magaslati pontokról. Mivel 17:00-kor sötétedik, tervezze meg időben a visszautat.",
+            "ro": "Descoperiți Mordoğan iarna relaxat, cu mașina. Dimineața, bucurați-vă de drum în aerul curat și rece, cu căldura pornită. La prânz, veți găsi ușor parcare chiar în centru pentru o vizită la restaurant. După-amiaza vă atrage cu panorame largi din punctele înalte. Deoarece se întunecă la 17:00, planificați drumul înapoi.",
+            "en": "Discover Mordoğan in winter fully relaxed by car. In the morning, enjoy the drive through the clear, cool air with the heater on. At noon, you'll easily find parking spaces right in the center for a restaurant visit. The afternoon beckons with wide panoramic views from elevated points. Since it gets dark at 17:00, plan your return trip early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayşe Kadın Camii",
+                "hu": "Ayşe Kadın Camii",
+                "ro": "Ayşe Kadın Camii",
+                "en": "Ayşe Kadın Camii"
+              },
+              "tip_5lang": {
+                "de": "Historische Stätte in winterlicher Ruhe; lassen Sie die Heizung im Auto kurz nachlaufen, um beim Wiedereinstieg eine wohlige Wärme vorzufinden.",
+                "hu": "Történelmi helyszín téli nyugalomban; hagyja kicsit menni a fűtést az autóban, hogy visszaszálláskor kellemes meleg fogadja.",
+                "ro": "Loc istoric în liniște de iarnă; lăsați căldura în mașină să mai meargă puțin pentru a găsi o temperatură plăcută la întoarcere.",
+                "en": "Historical site in winter serenity; let the car heater run for a moment before leaving so you return to a warm cabin after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardıç Plajı",
+                "hu": "Ardıç Plajı",
+                "ro": "Ardıç Plajı",
+                "en": "Ardıç Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Strand im Winterschlaf; nutzen Sie die Zeit für einen kurzen, zügigen Spaziergang am Wasser, um den Kreislauf in Schwung zu bringen.",
+                "hu": "A strand téli álmot alszik; használja ki az időt egy rövid, tempós sétára a vízparton, hogy felpörgesse a vérkeringését a hűvösben.",
+                "ro": "Plaja în somn de iarnă; profitați de timp pentru o scurtă plimbare vioaie pe malul apei pentru a vă pune sângele în mișcare.",
+                "en": "The beach in hibernation; use the time for a short, brisk walk by the water to get your circulation going in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Seal Beach Club",
+                "hu": "Seal Beach Club",
+                "ro": "Seal Beach Club",
+                "en": "Seal Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Moderner Spot mit Meerblick; prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage, falls die Temperaturen nachts stark sinken.",
+                "hu": "Modern pont tengeri kilátással; ellenőrizze a fagyállót a szélvédőmosóban, ha a hőmérséklet éjszaka jelentősen visszaesne.",
+                "ro": "Punct modern cu vedere la mare; verificați antigelul din lichidul de parbriz, în caz că temperaturile scad semnificativ noaptea.",
+                "en": "Modern spot with sea views; check the frost protection in your windshield washer fluid if temperatures are expected to drop at night."
+              }
+            },
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Denkmal im Stadtzentrum; parken Sie so, dass Sie die Wintersonne nutzen können, um den Innenraum des Wagens natürlich aufzuheizen.",
+                "hu": "Emlékmű a városközpontban; parkoljon úgy, hogy kihasználja a téli napsütést, ami természetes módon felmelegíti az autó utasterét.",
+                "ro": "Monument în centrul orașului; parcați astfel încât să profitați de soarele de iarnă pentru a încălzi natural interiorul mașinii.",
+                "en": "Monument in the town center; park in a spot where you can utilize the winter sun to naturally warm up the car's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Balıkçı Anıt",
+                "hu": "Balıkçı Anıt",
+                "ro": "Balıkçı Anıt",
+                "en": "Balıkçı Anıt"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Fixpunkt; genießen Sie die klare Sicht auf die Fischerboote im Hafen, die im Winter oft im Trockenen liegen.",
+                "hu": "Kulturális igazodási pont; élvezze a tiszta kilátást a kikötőben lévő halászhajókra, amelyek télen gyakran a szárazon pihennek.",
+                "ro": "Un punct fix cultural; bucurați-vă de vederea clară asupra bărcilor de pescuit din port, care iarna sunt adesea scoase la uscat.",
+                "en": "A cultural fixed point; enjoy the clear view of the fishing boats in the harbor, which are often kept on dry land during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ahmet Meram Yel Değirmeni",
+                "hu": "Ahmet Meram Yel Değirmeni",
+                "ro": "Ahmet Meram Yel Değirmeni",
+                "en": "Ahmet Meram Yel Değirmeni"
+              },
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den Nachmittag; denken Sie an Sonnenbrillen, da die tiefstehende Wintersonne beim Autofahren stark blenden kann.",
+                "hu": "A legjobb kilátópont délutánra; ne felejtse el a napszemüveget, mivel az alacsonyan járó téli nap vezetés közben erősen vakíthat.",
+                "ro": "Cel mai bun punct de belvedere pentru după-amiază; nu uitați ochelarii de soare, deoarece soarele jos de iarnă vă poate orbi la volan.",
+                "en": "Best viewpoint for the afternoon; remember your sunglasses, as the low-lying winter sun can be very blinding while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Korsan Plajı",
+                "hu": "Korsan Plajı",
+                "ro": "Korsan Plajı",
+                "en": "Korsan Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort zum Sonnenuntergang; prüfen Sie die Reifentiefe für besseren Grip auf den kühlen, eventuell feuchten Küstenstraßen.",
+                "hu": "Magányos helyszín a naplementéhez; ellenőrizze a gumiabroncsok profilmélységét a jobb tapadásért a hűvös, esetleg nyirkos parti utakon.",
+                "ro": "Un loc solitar pentru apus; verificați adâncimea profilului anvelopelor pentru o aderență mai bună pe drumurile de coastă reci și umede.",
+                "en": "A lonely spot for the sunset; check your tire tread depth for better grip on the cool and potentially damp coastal roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

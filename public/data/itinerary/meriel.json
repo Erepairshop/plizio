@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Mériel falu varázsának és Gabin filmes örökségének felfedezésével. Délben sétáljon a buja Oise-völgy és a történelmi romok felé. A délutánt a tanösvényeknek és az elegáns kastélyoknak szentelheti, amelyek közelebb hozzák a régió királyi múltját. Az este a környező történelmi plébániatemplomoknál tett csendes elmélkedéssel zárul, miközben a nap lassan nyugovóra tér.",
         "ro": "Începeți dimineața cufundându-vă în farmecul satului Mériel și moștenirea cinematografică a lui Gabin. Până la prânz, îndreptați-vă spre valea luxuriantă a râului Oise și ruinele istorice. După-amiaza este rezervată traseelor naturale și castelelor elegante, aducându-vă aproape de trecutul regal. Seara se încheie cu o reflecție liniștită la bisericile parohiale istorice la apus.",
         "en": "Begin your morning immersing yourself in Mériel's village charm and Gabin's cinematic legacy. By midday, wander out towards the lush Oise valley and historic ruins. The afternoon is reserved for nature trails and elegant châteaux, bringing you close to the region's royal past. Your evening concludes with a quiet reflection by the surrounding historic parish churches as the sun gently sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang in der Kirche Saint-Éloi und dem Museum Jean Gabin, die perfekten Schutz bieten. Mittags sorgt der Nebel an der Abtei Val für eine mystische Atmosphäre. Ziehen Sie nachmittags wasserfeste Schuhe an, um das Naturschutzgebiet Stors Marsh im Nieselregen zu erkunden. Beenden Sie den feuchten, aber lohnenden Tag am majestätischen Schloss Stors.",
+            "hu": "Kezdje esős sétáját a Saint-Éloi templom és a Jean Gabin Múzeum felfedezésével, melyek tökéletes beltéri menedéket nyújtanak. Délben a Val apátság nedves kőfalai varázslatos, ködös hangulatot árasztanak. Délután húzzon vízálló cipőt a Stors-mocsár felfedezéséhez, ahol az eső új életre kelti a természetet. A napot a lenyűgöző Stors Kastély fedett részeinek megtekintésével zárhatja.",
+            "ro": "Începeți plimbarea pe ploaie explorând Biserica Saint-Éloi și Muzeul Jean Gabin, refugii perfecte la interior. La prânz, umezeala adaugă o atmosferă mistică ruinelor de la Abația Val. După-amiaza, echipați-vă cu cizme impermeabile pentru a descoperi frumusețea umedă a rezervației Mlaștinile Stors. Încheiați ziua admirând grandoarea Castelului Stors, care arată dramatic sub nori.",
+            "en": "Start your rainy walk exploring the historic Saint-Éloi Church and the fascinating Jean Gabin Museum, offering perfect indoor refuge. Midday brings a misty stroll to the Val Abbey, where the damp stone adds a mystical atmosphere. In the afternoon, brave the drizzle at Stors Marsh Nature Reserve, wearing good waterproof boots. Conclude your wet-weather journey at the majestic Château de Stors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Saint-Éloi templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Saint-Éloi Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, während es regnet; die dicken Steinmauern bieten perfekten Schutz vor plötzlichen Schauern.",
+                "hu": "Csodálja meg az üvegablakokat, miközben kint esik; a vastag kőfalak kiváló menedéket nyújtanak a hirtelen záporok elől.",
+                "ro": "Admirați vitraliile în timp ce plouă afară; zidurile groase de piatră oferă un adăpost excelent împotriva averselor bruște.",
+                "en": "Admire the stained glass as rain falls outside; its sturdy stone walls provide excellent shelter from sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean-Gabin-Museum",
+                "hu": "Jean Gabin Múzeum",
+                "ro": "Muzeul Jean Gabin",
+                "en": "Jean Gabin Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Filmgeschichte ein; dieses komplett überdachte Museum ist ein perfekter, trockener Rückzugsort bei starkem Regen.",
+                "hu": "Merüljön el a mozi történetében ebben a teljesen fedett múzeumban, amely tökéletes száraz menedék a déli esőzések idején.",
+                "ro": "Pătrundeți în istoria cinematografiei în acest muzeu complet acoperit, un refugiu uscat perfect în timpul ploilor abundente.",
+                "en": "Dive into cinematic history in this completely indoor museum, making it a perfect, dry retreat during heavy midday showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Val",
+                "hu": "Val apátság",
+                "ro": "Abația Val",
+                "en": "Val Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Atmosphäre hebt das moosige Grün der Abtei hervor, aber Vorsicht: Die historischen Steinstufen können sehr rutschig sein.",
+                "hu": "A nedves idő kiemeli az apátság mohás zöldjeit, de óvatosan lépkedjen, mert a történelmi kőlépcsők nagyon csúszósak lehetnek.",
+                "ro": "Atmosfera umedă scoate în evidență verdele mușchilor de la abație, dar aveți grijă, deoarece treptele de piatră devin alunecoase.",
+                "en": "The damp atmosphere brings out the mossy greens of the abbey grounds, but be careful as the historic stone steps can get slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Stors Marsh",
+                "hu": "Stors-mocsár Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Mlaștinile Stors",
+                "en": "Stors Marsh Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Feuchtgebiet in seinem Element; bringen Sie wasserfeste Stiefel mit, da die unbefestigten Wege sehr schlammig werden.",
+                "hu": "Tapasztalja meg a vizes élőhelyet a maga elemében; hozzon vízálló cipőt és esernyőt, mivel a burkolatlan ösvények sárossá válnak.",
+                "ro": "Experimentați zona umedă în elementul ei; purtați cizme impermeabile și o umbrelă, deoarece potecile neasfaltate devin noroioase.",
+                "en": "Experience the wetlands in their element; bring sturdy waterproof boots and an umbrella, as the unpaved trails become very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Stors",
+                "hu": "Stors Kastély",
+                "ro": "Castelul Stors",
+                "en": "Château de Stors"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur des Schlosses wirkt unter grauen Wolken dramatisch; suchen Sie bei späten Schauern Schutz unter den großen Portalen.",
+                "hu": "A kastély építészete drámaian hat a szürke égbolt alatt; keressen menedéket a nagy portálok alatt egy késő délutáni zápor esetén.",
+                "ro": "Arhitectura castelului arată dramatic pe cerul gri; căutați adăpost sub portalurile sale mari dacă apare o ploaie de după-amiază.",
+                "en": "The castle's architecture looks dramatic against grey skies; seek shelter under its grand portals if a late afternoon shower hits."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt in der Kirche Saint-Éloi und dem beheizten Museum Jean Gabin. Mittags erwartet Sie ein erfrischender Spaziergang zur historischen Abtei Val, die oft wunderschön mit Raureif bedeckt ist. Ziehen Sie sich nachmittags für das Naturschutzgebiet Stors Marsh warm an, da die Sonne früh untergeht. Beenden Sie den Tag gegen 17:00 Uhr am Schloss Stors in der Dämmerung.",
+            "hu": "A csípős téli reggel a Saint-Éloi templomnál indul, majd a fűtött Jean Gabin Múzeumban melegedhet fel. Délben egy frissítő séta vezet a történelmi, zúzmarás Val apátsághoz. A rövidülő délutánon öltözzön rétegesen a Stors-mocsár bejárásához, mielőtt a nap korán lemenne. A napot a Stors Kastélynál zárja a 17 óra körüli, békés, hideg szürkületben.",
+            "ro": "O dimineață de iarnă geroasă începe la Biserica Saint-Éloi, urmată de Muzeul încălzit Jean Gabin. La prânz, o plimbare revigorantă vă duce la Abația Val, superbă sub un strat de brumă. După-amiaza, îmbrăcați-vă gros pentru Mlaștinile Stors înainte de apusul timpuriu. Încheiați traseul la Castelul Stors în jurul orei 17:00, când amurgul liniștit se lasă peste peisajul rece.",
+            "en": "A crisp winter morning begins at the Saint-Éloi Church, followed by the heated Jean Gabin Museum. Midday offers a brisk, refreshing walk to the historic Val Abbey, beautiful under a frost layer. During the short afternoon, dress warmly for the Stors Marsh Nature Reserve before the early sunset. End the day at Château de Stors as twilight falls around 17:00, bringing a serene chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Saint-Éloi templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Saint-Éloi Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Morgenfrost zu entkommen, aber behalten Sie Ihren Mantel an, da das ruhige Kircheninnere oft etwas zugig ist.",
+                "hu": "Lépjen be, hogy elmeneküljön a reggeli fagy elől, és csodálja meg a csendes belső teret, de tartsa magán a kabátot a huzat miatt.",
+                "ro": "Intrați pentru a scăpa de gerul dimineții și admirați interiorul solemn, dar păstrați haina pe dumneavoastră din cauza curenților reci.",
+                "en": "Step inside to escape the morning frost and admire the quiet, solemn interior, though you should keep your coat on as it can be drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean-Gabin-Museum",
+                "hu": "Jean Gabin Múzeum",
+                "ro": "Muzeul Jean Gabin",
+                "en": "Jean Gabin Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, während Sie das Leben von Jean Gabin erkunden – ein perfekter Zwischenstopp am Vormittag gegen die Winterkälte.",
+                "hu": "Melegedjen fel alaposan, miközben Jean Gabin életét kutatja; ez a tökéletes délelőtti megálló a dermesztő téli hideg elől menekülve.",
+                "ro": "Încălziți-vă bine în timp ce vă bucurați de expozițiile despre viața lui Jean Gabin, o oprire perfectă pentru a scăpa de frigul iernii.",
+                "en": "Warm up thoroughly while enjoying the fascinating exhibits of Jean Gabin's life, a perfect mid-morning stop to escape the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Val",
+                "hu": "Val apátság",
+                "ro": "Abația Val",
+                "en": "Val Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen mit Raureif spektakulär aus; tragen Sie extra warme Schichten, da das offene Gelände wenig Schutz vor Wind bietet.",
+                "hu": "A romok lenyűgözően mutatnak zúzmarával borítva; viseljen extra meleg rétegeket, mivel a nyílt terep kevés védelmet nyújt a szél ellen.",
+                "ro": "Ruinele arată spectaculos acoperite de brumă; purtați straturi suplimentare, deoarece terenul deschis oferă puțină protecție la vânt.",
+                "en": "The ruins look spectacular with a dusting of winter frost; wear extra warm layers as the open grounds offer little protection from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Stors Marsh",
+                "hu": "Stors-mocsár Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Mlaștinile Stors",
+                "en": "Stors Marsh Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft ist wunderbar karg; achten Sie auf gefrorene Pfützen und genießen Sie die frische Luft, bevor das Licht schwindet.",
+                "hu": "A téli táj gyönyörűen puritán; ügyeljen az ösvényeken lévő fagyott tócsákra, és élvezze a friss levegőt, mielőtt a fény elhalványul.",
+                "ro": "Peisajul de iarnă este auster și frumos; atenție la bălțile înghețate și bucurați-vă de aerul rece înainte ca lumina să scadă.",
+                "en": "The winter landscape is beautifully stark; watch for frozen puddles on the paths and enjoy the brisk air before the light fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Stors",
+                "hu": "Stors Kastély",
+                "ro": "Castelul Stors",
+                "en": "Château de Stors"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie beim frühen Sonnenuntergang an, um das Anwesen in goldenem Winterlicht zu sehen, aber rechnen Sie mit schnell sinkenden Temperaturen.",
+                "hu": "Érkezzen a kora esti naplementekor, hogy a birtokot aranyló téli fényben lássa, de készüljön fel a hőmérséklet hirtelen csökkenésére.",
+                "ro": "Ajungeți chiar la apusul timpuriu pentru a vedea domeniul în lumina aurie de iarnă, dar pregătiți-vă pentru o scădere rapidă a temperaturii.",
+                "en": "Arrive just as the early evening sun sets to see the estate bathed in golden winter light, but be prepared for a rapid drop in temperature."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt Mériel falu varázsának és Gabin filmes örökségének felfedezésével. Délben sétáljon a buja Oise-völgy és a történelmi romok felé. A délutánt a tanösvényeknek és az elegáns kastélyoknak szentelheti, amelyek közelebb hozzák a régió királyi múltját. Az este a környező történelmi plébániatemplomoknál tett csendes elmélkedéssel zárul, miközben a nap lassan nyugovóra tér.",
         "ro": "Începeți dimineața cufundându-vă în farmecul satului Mériel și moștenirea cinematografică a lui Gabin. Până la prânz, îndreptați-vă spre valea luxuriantă a râului Oise și ruinele istorice. După-amiaza este rezervată traseelor naturale și castelelor elegante, aducându-vă aproape de trecutul regal. Seara se încheie cu o reflecție liniștită la bisericile parohiale istorice la apus.",
         "en": "Begin your morning immersing yourself in Mériel's village charm and Gabin's cinematic legacy. By midday, wander out towards the lush Oise valley and historic ruins. The afternoon is reserved for nature trails and elegant châteaux, bringing you close to the region's royal past. Your evening concludes with a quiet reflection by the surrounding historic parish churches as the sun gently sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Mériel im Regen erfordert gute wasserfeste Kleidung. Beginnen Sie in der Kirche Saint-Éloi und dem Museum Jean Gabin. Die mittägliche Fahrt zur Abtei Val führt über nasse, rutschige Straßen, fahren Sie also vorsichtig. Nachmittags bieten das Naturschutzgebiet und das Schloss Stors eine mystische Atmosphäre. Beenden Sie die Tour an der Kirche Saint-Quentin.",
+            "hu": "Mériel esőben történő bejárásához jó vízálló felszerelés kell. Kezdje a reggelt a fedett Saint-Éloi templom és Jean Gabin Múzeum meglátogatásával. A Val apátsághoz vezető déli úton a nedves aszfalt csúszós, tekerjen óvatosan. Délután a párás Stors-mocsár és a kastély drámai látványt nyújt. Fejezze be túráját a Saint-Quentin templomnál az esti szitálásban.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită echipament impermeabil bun. Începeți dimineața la interior, la Biserica Saint-Éloi și Muzeul Jean Gabin. La prânz, drumul spre Abația Val are asfalt umed și alunecos, pedalați cu grijă. După-amiaza, Mlaștinile Stors și Castelul Stors oferă peisaje dramatice. Încheiați la Biserica Saint-Quentin în timp ce ploaia de seară se domolește.",
+            "en": "Pedaling through Mériel in the rain requires good waterproof gear. Start your morning with indoor stops at the Saint-Éloi Church and Jean Gabin Museum. The midday ride to Val Abbey features slick, wet roads, so cycle carefully. In the afternoon, the damp Stors Marsh Nature Reserve and Château de Stors offer atmospheric views. Finish at Saint-Quentin Church as the evening rain settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Saint-Éloi templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Saint-Éloi Church"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad und trocknen Sie sich in diesem historischen Heiligtum; sein solides Dach ist eine willkommene Flucht vor dem Regen.",
+                "hu": "Kössé le a kerékpárt, és szárátkozzon meg a történelmi szentélyben; szilárd teteje üdvözlendő menedék a reggeli záporok elől.",
+                "ro": "Asigurați-vă bicicleta și uscați-vă în acest sanctuar istoric; acoperișul său solid este o evadare binevenită din averselor de dimineață.",
+                "en": "Secure your bike and dry off inside this historic sanctuary; its solid roof is a welcome escape from the persistent morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean-Gabin-Museum",
+                "hu": "Jean Gabin Múzeum",
+                "ro": "Muzeul Jean Gabin",
+                "en": "Jean Gabin Museum"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die Kinoausstellung; diese Indoor-Attraktion ist perfekt getimt, um dem stärksten Regen des Tages zu entgehen.",
+                "hu": "Szánjon időt a mozi kiállításaira; ez a benti látványosság tökéletesen időzített, hogy elkerülje a nap leghevesebb esőzését.",
+                "ro": "Alocați-vă timp pentru expozițiile de cinema; această atracție interioară este perfect programată pentru a evita cea mai abundentă ploaie.",
+                "en": "Take your time exploring the cinema exhibits; this indoor attraction is perfectly timed to avoid the heaviest rain of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Val",
+                "hu": "Val apátság",
+                "ro": "Abația Val",
+                "en": "Val Abbey"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie sanft, wenn Sie sich den Ruinen nähern; nasses Kopfsteinpflaster und rutschiges Laub erfordern hier besondere Vorsicht.",
+                "hu": "Fékezzen óvatosan az apátság romjaihoz közeledve; a nedves macskakövek és a csúszós levelek extra óvatosságot igényelnek a kerékpárúton.",
+                "ro": "Frânați ușor la apropierea de ruinele abației; piatra cubică umedă și frunzele alunecoase pe pista de biciclete necesită atenție sporită.",
+                "en": "Brake gently as you approach the abbey ruins; wet cobblestones and slick leaves on the bike path require extra caution here."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Stors Marsh",
+                "hu": "Stors-mocsár Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Mlaștinile Stors",
+                "en": "Stors Marsh Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie an den befestigten Rändern des Naturschutzgebiets; Fahrten direkt durch die Wege können Ihr Fahrrad mit Schlamm verstopfen.",
+                "hu": "Maradjon a természetvédelmi terület burkolt szélein; ha esőben egyenesen a mocsári utakon teker, a kerékpárja sárral telik meg.",
+                "ro": "Rămâneți pe marginile asfaltate ale rezervației; mersul direct prin potecile mlaștinii pe ploaie vă poate bloca bicicleta cu noroi gros.",
+                "en": "Stick to the paved edges of the nature reserve; riding directly through the marsh paths during rain can clog your bike with thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Stors",
+                "hu": "Stors Kastély",
+                "ro": "Castelul Stors",
+                "en": "Château de Stors"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die regnerische Fassade des Anwesens von der Straße aus und halten Sie Ihren Regenponcho gegen die feuchte Brise geschlossen.",
+                "hu": "Csodálja meg a birtok eső áztatta, hangulatos homlokzatát az útról, és tartsa szorosan magán az esőkabátot a nedves szél ellen.",
+                "ro": "Admirați fațada bătută de ploaie a domeniului de pe drum, ținând pelerina de ploaie bine fixată împotriva brizei umede.",
+                "en": "Admire the moody, rain-swept facade of the estate from the road, keeping your rain poncho securely fastened against the damp breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Quentin",
+                "hu": "Saint-Quentin templom",
+                "ro": "Biserica Saint-Quentin",
+                "en": "Saint-Quentin Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Fahrt an diesem friedlichen Ort; ein toller Platz, um Regenschauer abzuwarten, bevor es zurück geht.",
+                "hu": "Fejezze be nedves túráját ezen a békés helyen; kiváló menedék a futó záporok elől, mielőtt visszatérne a szállására.",
+                "ro": "Încheiați cursa umedă în acest loc pașnic; este un loc excelent pentru a aștepta trecerea averselor înainte de a vă întoarce la cazare.",
+                "en": "Conclude your wet ride at this peaceful spot; it's a great place to wait out passing showers before heading back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour ist erfrischend. Wärmen Sie sich morgens in der Kirche und im Museum Jean Gabin auf. Mittags erwartet Sie eine kühle Fahrt zur frostigen Abtei Val. Radeln Sie nachmittags durch die karge Winterlandschaft des Sumpfes und zum Schloss Stors. Erreichen Sie die Kirche Saint-Quentin vor 17:00 Uhr und schalten Sie wegen der frühen Dunkelheit gute Lichter ein.",
+            "hu": "A téli kerékpártúra frissítő és szép. Melegedjen fel a templomban és a múzeumban a reggeli fagyban. Délben csípős tekerés vezet a deres Val apátsághoz. Délután guruljon el a mocsár és a kastély téli nyugalma mellett. Érjen a Saint-Quentin templomhoz 17:00 előtt, és használjon erős lámpákat a korán sötétedő, fagyos kora estén.",
+            "ro": "Un tur ciclist de iarnă este revigorant. Încălziți-vă dimineața la biserică și la muzeu. La prânz, pedalarea spre Abația Val acoperită de brumă vă va răcori. După-amiaza, treceți pe lângă Mlaștinile Stors și Castelul Stors. Ajungeți la Biserica Saint-Quentin înainte de ora 17:00 și folosiți lumini puternice la bicicletă din cauza întunericului care se lasă devreme.",
+            "en": "A winter cycling tour is bracing and beautiful. Warm up at the Saint-Éloi Church and Jean Gabin Museum in the morning. Midday brings a chilly ride to the frosted Val Abbey. In the afternoon, cycle past the stark winter beauty of Stors Marsh and Château de Stors. Be sure to reach Saint-Quentin Church before 17:00, equipping your bike with good lights for the early, dark evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Saint-Éloi templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Saint-Éloi Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre kühle Fahrt hier; die frostige Morgenluft lässt das steinerne Innere imposant wirken, behalten Sie die Handschuhe an.",
+                "hu": "Kezdje a fagyos túrát itt; a hideg reggeli levegő még impozánsabbá teszi a kőbelsőt, de hagyja magán a kerékpáros kesztyűt.",
+                "ro": "Începeți cursa rece aici; aerul rece al dimineții face interiorul de piatră și mai impunător, dar păstrați mănușile de ciclism.",
+                "en": "Start your chilly ride here; the cold morning air makes the stone interior feel even more imposing, but keep your cycling gloves on."
+              }
+            },
+            {
+              "name": {
+                "de": "Jean-Gabin-Museum",
+                "hu": "Jean Gabin Múzeum",
+                "ro": "Muzeul Jean Gabin",
+                "en": "Jean Gabin Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen beheizten Stopp, um Hände und Gesicht zu wärmen; Radfahren im Winter ist bissig, da ist diese Pause sehr willkommen.",
+                "hu": "Használja ezt a fűtött benti megállót a keze és az arca felmelegítésére; a téli kerékpározás csípős lehet, így a kulturális szünet nagyon jól jön.",
+                "ro": "Folosiți această oprire încălzită pentru a vă încălzi mâinile; ciclismul de iarnă poate fi mușcător, făcând această pauză culturală binevenită.",
+                "en": "Use this heated indoor stop to warm your hands and face; winter cycling can be biting, making this cultural break very welcome."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Val",
+                "hu": "Val apátság",
+                "ro": "Abația Val",
+                "en": "Val Abbey"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Blitzeis auf den schattigen Wegen, die zu den wunderschönen, frostbedeckten Klosterruinen führen.",
+                "hu": "Ügyeljen a fekete jégfoltokra az árnyékos sávokban, amelyek a gyönyörű, zúzmarával borított kolostorromokhoz vezetnek.",
+                "ro": "Atenție la porțiunile cu gheață neagră pe aleile umbrite care duc spre frumoasele ruine monahale acoperite de brumă.",
+                "en": "Watch out for patches of black ice on the shaded lanes leading to the beautiful, frost-covered monastic ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Stors Marsh",
+                "hu": "Stors-mocsár Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Mlaștinile Stors",
+                "en": "Stors Marsh Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft ist belebend; beachten Sie, dass die tiefstehende Sonne lange Schatten auf das ruhende Feuchtgebiet wirft.",
+                "hu": "A friss téli levegő élénkítő, ahogy a peremen teker; a nap alacsonyan jár, hosszú árnyékokat vetve az alvó vizes élőhelyre.",
+                "ro": "Aerul de iarnă este revigorant; observați cum soarele coboară, aruncând umbre lungi peste zona umedă adormită.",
+                "en": "The crisp winter air is invigorating as you cycle the perimeter; note that the sun hangs low, casting long shadows across the dormant wetlands."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Stors",
+                "hu": "Stors Kastély",
+                "ro": "Castelul Stors",
+                "en": "Château de Stors"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume geben den Blick auf das Schloss frei; treten Sie kräftig in die Pedale, um sich im kühlen Nachmittag warm zu halten.",
+                "hu": "A csupasz téli fák tisztább rálátást engednek a kastélyra; tekerjen élénken, hogy fenntartsa testhőmérsékletét a hűlő délutánban.",
+                "ro": "Copacii goi de iarnă permit o vedere mai clară a castelului; pedalați rapid pentru a vă menține căldura corporală pe măsură ce se răcește.",
+                "en": "The bare winter trees allow for clearer views of the castle's architecture; pedal briskly to maintain body heat as the afternoon cools."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Quentin",
+                "hu": "Saint-Quentin templom",
+                "ro": "Biserica Saint-Quentin",
+                "en": "Saint-Quentin Church"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17:00 Uhr an; stellen Sie sicher, dass Ihre Fahrradlichter geladen sind, da die Sonne schnell untergeht und es dunkel wird.",
+                "hu": "Érkezzen meg röviddel 17:00 előtt; győződjön meg róla, hogy a lámpái fel vannak töltve, mivel a nap gyorsan lenyugszik, és sötétség borul az utakra.",
+                "ro": "Ajungeți chiar înainte de ora 17:00; asigurați-vă că luminile bicicletei sunt încărcate, deoarece soarele apune rapid, lăsând drumurile în întuneric rece.",
+                "en": "Arrive just before 17:00; make sure your bike lights are fully charged, as the sun sets rapidly leaving the roads in cold darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a reggelt Mériel falu varázsának és Gabin filmes örökségének felfedezésével. Délben sétáljon a buja Oise-völgy és a történelmi romok felé. A délutánt a tanösvényeknek és az elegáns kastélyoknak szentelheti, amelyek közelebb hozzák a régió királyi múltját. Az este a környező történelmi plébániatemplomoknál tett csendes elmélkedéssel zárul, miközben a nap lassan nyugovóra tér.",
         "ro": "Începeți dimineața cufundându-vă în farmecul satului Mériel și moștenirea cinematografică a lui Gabin. Până la prânz, îndreptați-vă spre valea luxuriantă a râului Oise și ruinele istorice. După-amiaza este rezervată traseelor naturale și castelelor elegante, aducându-vă aproape de trecutul regal. Seara se încheie cu o reflecție liniștită la bisericile parohiale istorice la apus.",
         "en": "Begin your morning immersing yourself in Mériel's village charm and Gabin's cinematic legacy. By midday, wander out towards the lush Oise valley and historic ruins. The afternoon is reserved for nature trails and elegant châteaux, bringing you close to the region's royal past. Your evening concludes with a quiet reflection by the surrounding historic parish churches as the sun gently sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autotour an Regentagen bietet trockenen Komfort. Beginnen Sie im Museum Jean Gabin und eilen Sie dann mit Regenschirm zur Kirche Saint-Éloi. Mittags fahren Sie bei prasselndem Regen zum Schloss Stors und zur Kirche Saint-Quentin. Nachmittags betrachten Sie das neblige Naturschutzgebiet Stors Marsh und fahren vorsichtig zur Abtei Val. Beenden Sie den gemütlichen Abend an der Kirche Saint-Sulpice.",
+            "hu": "Az autós túra kényelmes és száraz az esős napokon. Kezdje a fedett Jean Gabin Múzeumban, majd esernyővel fusson át a templomhoz. Délben a ablaktörlők ütemére élvezze a Stors Kastélyhoz és a Saint-Quentin templomhoz vezető utat. Délután az autó melegéből csodálja a párás mocsarat, majd óvatosan vezessen a Val apátsághoz. Az estét a Saint-Sulpice templomnál zárja.",
+            "ro": "Un tur cu mașina pe ploaie oferă confort uscat între opriri. Începeți la Muzeul Jean Gabin, apoi mergeți cu umbrela la Biserica Saint-Éloi. La prânz, conduceți către Castelul Stors și Biserica Saint-Quentin. După-amiaza, admirați Mlaștinile Stors, apoi navigați cu grijă pe drumurile umede spre Abația Val. Încheiați seara la Biserica Saint-Sulpice, la căldura mașinii.",
+            "en": "A rainy driving tour offers dry comfort between stops. Start at the indoor Jean Gabin Museum, then dash to Saint-Éloi Church under an umbrella. Midday brings a scenic, wiper-swept drive to Château de Stors and Saint-Quentin Church. In the afternoon, view the misty Stors Marsh from the edge, then carefully navigate the wet roads to Val Abbey. Conclude your cozy evening drive at the Saint-Sulpice Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jean-Gabin-Museum",
+                "hu": "Jean Gabin Múzeum",
+                "ro": "Muzeul Jean Gabin",
+                "en": "Jean Gabin Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah; diese reine Indoor-Attraktion ist perfekt für den regnerischen Morgen, sodass Sie die französische Kinogeschichte trocken genießen können.",
+                "hu": "Parkoljon a lehető legközelebb; ez a teljesen benti attrakció tökéletes az esős reggelre, lehetővé téve a mozi történetének száraz élvezetét.",
+                "ro": "Parcați cât mai aproape; această atracție interioară este perfectă pentru dimineața ploioasă, bucurându-vă de cinematografie perfect uscați.",
+                "en": "Park as close as possible; this fully indoor attraction is perfect for the rainy morning, letting you enjoy French cinema history entirely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Saint-Éloi templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Saint-Éloi Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto bringt Sie in diese steinerne Kirche, eine großartige Zuflucht vor anhaltenden Schauern, um die Architektur zu bewundern.",
+                "hu": "Egy gyors futás az autótól bevisszi ebbe az erős kőtemplomba, mely nagyszerű menedék a kitartó felhőszakadások elől a csendes építészet csodálatára.",
+                "ro": "O fugă rapidă din mașină vă duce în această biserică robustă de piatră, un refugiu excelent împotriva ploilor abundente pentru a admira arhitectura.",
+                "en": "A quick dash from your car gets you inside this sturdy stone church, a brilliant refuge from the persistent downpours to admire quiet architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Stors",
+                "hu": "Stors Kastély",
+                "ro": "Castelul Stors",
+                "en": "Château de Stors"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den mystischen Blick auf das Schloss aus dem beheizten Auto; steigen Sie nur kurz mit einem Regenschirm für Fotos aus.",
+                "hu": "Élvezze a kastély hangulatos látványát a fűtött autó kényelméből, csak röviden lépjen ki egy erős esernyővel fényképezni.",
+                "ro": "Bucurați-vă de vederea dramatică a castelului din confortul mașinii încălzite, ieșind doar scurt cu o umbrelă robustă pentru fotografii.",
+                "en": "Enjoy the moody view of the castle from the comfort of your heated car, stepping out only briefly with a sturdy umbrella for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Quentin",
+                "hu": "Saint-Quentin templom",
+                "ro": "Biserica Saint-Quentin",
+                "en": "Saint-Quentin Church"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Straßen hierhin können überschwemmt sein; fahren Sie vorsichtig durch Pfützen und bewundern Sie die Fassade zwischen den Schauern.",
+                "hu": "Az ide vezető vidéki utak víz alá kerülhetnek; vezessen óvatosan a tócsákon keresztül, és két zápor között csodálja meg a történelmi homlokzatot.",
+                "ro": "Drumurile rurale care duc aici se pot inunda; conduceți cu grijă prin bălți și admirați fațada istorică în siguranță între reprizele de ploaie.",
+                "en": "The rural roads leading here can get waterlogged; drive carefully through the puddles and admire the historic facade safely between rain squalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Stors Marsh",
+                "hu": "Stors-mocsár Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Mlaștinile Stors",
+                "en": "Stors Marsh Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Da der Boden sehr schlammig sein wird, parken Sie am Rand und beobachten das vom Regen erfrischte Feuchtgebiet am besten von der Straße aus.",
+                "hu": "Mivel a talaj rendkívül sáros lesz, a legjobb a szélén parkolni, és az útról megfigyelni a vibráló, eső áztatta vizes élőhelyet.",
+                "ro": "Deoarece terenul va fi extrem de noroios, parcati la margine și observați zona umedă vibrantă, împrospătată de ploaie, direct de pe drum.",
+                "en": "Since the ground will be exceptionally muddy, the best approach is to park at the edge and observe the vibrant, rain-refreshed wetland from the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Val",
+                "hu": "Val apátság",
+                "ro": "Abația Val",
+                "en": "Val Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steinpfade der Abtei sind malerisch, aber rutschig; tragen Sie Schuhe mit gutem Profil, wenn Sie das Gelände im Nieselregen erkunden.",
+                "hu": "Az apátság körüli nedves kőutak festőiek, de csúszósak; viseljen jó tapadású lábbelit, ha úgy dönt, hogy szitáló esőben fedezi fel a területet.",
+                "ro": "Potecile umede din piatră din jurul abației sunt pitorești, dar alunecoase; purtați încălțăminte cu aderență bună dacă explorați domeniul.",
+                "en": "The wet stone paths around the abbey are picturesque but slippery; wear footwear with good grip if you decide to explore the grounds in the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sulpice",
+                "hu": "Saint-Sulpice templom",
+                "ro": "Biserica Saint-Sulpice",
+                "en": "Saint-Sulpice Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag und lauschen Sie dem Regen auf der Windschutzscheibe; die Umgebung ist bei nassem Wetter sehr stimmungsvoll.",
+                "hu": "Fejezze be a napot a szélvédőn kopogó eső hallgatásával; a festői környezet rendkívül hangulatos és pihentető nedves időben.",
+                "ro": "Încheiați ziua ascultând ploaia bătând în parbriz; împrejurimile pitorești sunt profund atmosferice și relaxante pe vreme umedă.",
+                "en": "Finish your day listening to the rain tap against your windshield; the quaint surroundings are deeply atmospheric and relaxing during wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Mériel aus dem warmen Auto. Beginnen Sie im beheizten Museum und an der frostigen Kirche Saint-Éloi. Die mittägliche Fahrt zeigt die Eleganz des Schlosses Stors und der Kirche Saint-Quentin. Wenn der kurze Nachmittag schwindet, fangen Sie das goldene Licht über dem Sumpf und der Abtei Val ein. Beenden Sie die Tour gegen 17:00 Uhr sicher auf dunklen Straßen an der Kirche Saint-Sulpice.",
+            "hu": "Fedezze fel Mérielt télen autója melegéből. Kezdje a fűtött múzeumban és a deres templomnál. A déli kocsikázás megmutatja a kastély és a Saint-Quentin templom téli eleganciáját. Ahogy a rövid délután elhalványul, kapja el az aranyfényt a mocsár és a Val apátság felett. Fejezze be a túrát a Saint-Sulpice templomnál 17:00 körül, óvatosan vezetve a sötét utakon.",
+            "ro": "Explorați Mériel iarna din căldura mașinii. Începeți la muzeul încălzit și la Biserica Saint-Éloi. Plimbarea de prânz dezvăluie eleganța Castelului Stors și a Bisericii Saint-Quentin printre copacii goi. Când după-amiaza se stinge, surprindeți lumina aurie peste Mlaștinile Stors și Abația Val. Terminați la Biserica Saint-Sulpice în jurul orei 17:00, conducând cu grijă pe drumurile întunecate.",
+            "en": "Explore wintery Mériel from the warmth of your car. Begin at the heated Jean Gabin Museum and the frosty Saint-Éloi Church. Midday drives reveal the bare-tree elegance of Château de Stors and Saint-Quentin Church. As the afternoon quickly fades, catch the golden light over Stors Marsh and Val Abbey. Finish at Saint-Sulpice Church around 17:00, safely driving the dark, icy roads back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jean-Gabin-Museum",
+                "hu": "Jean Gabin Múzeum",
+                "ro": "Muzeul Jean Gabin",
+                "en": "Jean Gabin Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Start an einem kalten Tag; das Museum ist gut beheizt, sodass Sie Ihre schweren Winterschichten ablegen und entspannen können.",
+                "hu": "Remek kezdés egy hideg napon; a múzeum jól fűtött, így leveheti a nehéz téli rétegeket, és kényelmesen felfedezheti Gabin örökségét.",
+                "ro": "Un început excelent pentru o zi rece; muzeul este bine încălzit, permițându-vă să scoateți straturile grele de iarnă și să explorați confortabil.",
+                "en": "A great start to a cold day; the museum is well-heated, allowing you to remove your heavy winter layers and comfortably explore Gabin's legacy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Saint-Éloi templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Saint-Éloi Church"
+              },
+              "tip_5lang": {
+                "de": "Obwohl im winterlichen Morgenlicht wunderschön, speichert das Innere die Kälte; behalten Sie den Mantel an, während Sie die ruhige Atmosphäre bewundern.",
+                "hu": "Bár a téli reggeli fényben gyönyörű, a kőbelső tartja a hideget; hagyja magán a kabátot, miközben csodálja a benti békés hangulatot.",
+                "ro": "Deși frumoasă în lumina dimineții de iarnă, interiorul de piatră menține frigul; păstrați haina pe dumneavoastră în timp ce admirați atmosfera senină.",
+                "en": "Though beautiful in the winter morning light, the stone interior holds the cold; keep your coat on while admiring the serene atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Stors",
+                "hu": "Stors Kastély",
+                "ro": "Castelul Stors",
+                "en": "Château de Stors"
+              },
+              "tip_5lang": {
+                "de": "Ohne Laub ist die wahre Größe des Schlosses sichtbar; die kurzen Wintertage werfen lange, dramatische Schatten auf die historische Architektur.",
+                "hu": "A kilátást elzáró lombozat nélkül feltárul a kastély valódi mérete; a rövid téli napok hosszú, drámai árnyékokat vetnek a történelmi építészetre.",
+                "ro": "Fără frunziș care să blocheze vederea, scara reală a castelului este dezvăluită; zilele scurte de iarnă aruncă umbre lungi și dramatice pe arhitectură.",
+                "en": "Without foliage blocking the view, the castle's true scale is revealed; the short winter days cast long, dramatic shadows over the historic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Quentin",
+                "hu": "Saint-Quentin templom",
+                "ro": "Biserica Saint-Quentin",
+                "en": "Saint-Quentin Church"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf ländlichen Nebenstraßen vorsichtig und achten Sie auf Frost im Schatten; genießen Sie die karge, friedliche Schönheit dieser Dorfkirche.",
+                "hu": "Vezessen óvatosan a vidéki mellékutakon, ügyelve a fagyra az árnyékos foltokon, és élvezze e falusi templom puritán, békés szépségét.",
+                "ro": "Conduceți cu grijă pe drumurile rurale, atenție la gheață în zonele umbrite și bucurați-vă de frumusețea austeră a acestei biserici de sat.",
+                "en": "Drive carefully on rural backroads, watching out for frost in shaded patches, and enjoy the stark, peaceful beauty of this village church."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Stors Marsh",
+                "hu": "Stors-mocsár Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Mlaștinile Stors",
+                "en": "Stors Marsh Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Autoheizung zum Aufwärmen nach einem kurzen Spaziergang am frostigen Rand des Sumpfgebiets, wo Eis oft die Pflanzen überzieht.",
+                "hu": "Használja az autó fűtését a felmelegedéshez a mocsárvidék fagyos szélein tett rövid, frissítő séta után, ahol a jeget gyakran megcsodálhatja a növényeken.",
+                "ro": "Folosiți încălzirea mașinii pentru a vă încălzi după o scurtă plimbare pe marginile înghețate ale mlaștinii, unde gheața acoperă adesea plantele adormite.",
+                "en": "Use your car’s heater to stay warm after a brief, bracing walk along the frosty edges of the marshland, where ice often glazes the dormant plants."
+              }
+            },
+            {
+              "name": {
+                "de": "Abtei Val",
+                "hu": "Val apátság",
+                "ro": "Abația Val",
+                "en": "Val Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne lässt die Ruinen der Abtei am späten Nachmittag wunderschön leuchten; parken Sie nah, da die Temperaturen schnell sinken.",
+                "hu": "A késő délutáni alacsony téli nap gyönyörűen ragyogóvá teszi az apátság romjait; parkoljon közel, hogy elkerülje a hosszú sétát a gyorsan csökkenő hőmérsékletben.",
+                "ro": "Soarele scăzut de iarnă face ruinele abației să strălucească frumos; parcati aproape pentru a evita plimbările lungi în temperaturile care scad rapid.",
+                "en": "The low winter sun late in the afternoon makes the abbey ruins glow beautifully; park close to avoid a long walk in the rapidly dropping temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sulpice",
+                "hu": "Saint-Sulpice templom",
+                "ro": "Biserica Saint-Sulpice",
+                "en": "Saint-Sulpice Church"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang beginnt schon um 17:00 Uhr; beenden Sie hier im Zwielicht Ihre Fahrt und genießen Sie das warme Licht im Auto auf dem Rückweg.",
+                "hu": "A naplemente már 17:00-kor megérkezik; fejezze be útját itt a szürkületben, értékelve a műszerfal meleg fényét a jeges visszaúton.",
+                "ro": "Apusul sosește devreme, spre 17:00; încheiați excursia aici la amurg, apreciind strălucirea caldă a bordului mașinii la întoarcerea pe drumurile înghețate.",
+                "en": "Sunset arrives early by 17:00; conclude your trip here as twilight falls, appreciating the warm, inviting glow of your dashboard on the icy drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A reggel a St. Mary-templom és a tökéletesen megőrzött Tudor-kereskedőház történelmi hangulatával indul. Délben a helyi tengerészeti történelmet fedezi fel a Múzeumban. A délután kikapcsolódásra csábít a Castle Beach arany partjain, mielőtt meghódítaná a St Catherine erődöt. Az este a tengerparti sétát a North Beach ikonikus, sziklákkal övezett homokos partjainál zárja.",
         "ro": "Dimineața începe cu atmosfera istorică de la Biserica St. Mary și Casa Negustorului Tudor, perfect conservată. La prânz explorați istoria maritimă la Muzeu și Galeria de Artă. După-amiaza vă invită la relaxare pe țărmul auriu al plajei Castle, înainte de a înfrunta Fortul St Catherine. Seara vă încheie plimbarea de coastă pe nisipurile iconice mărginite de stânci ale plajei North Beach.",
         "en": "Morning begins with the historic atmosphere of St. Mary's Church and the perfectly preserved Tudor Merchant's House. Midday sees you exploring local maritime history at the Museum and Art Gallery. Afternoon invites relaxation on the golden shores of Castle Beach before braving St Catherine's Fort. Evening concludes your coastal stroll at the iconic, cliff-backed sands of North Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen bietet die St. Mary's Church trockenen Unterschlupf, während man die Deckenkunst bewundert. Mittags erkunden wir die Museen, um dem Regen in historischen Mauern zu entkommen. Am Nachmittag zeigen sich die Klippen und der Hafen in dramatischem Nebel; Vorsicht auf rutschigen Wegen. Der Abend endet in den beleuchteten Gassen, deren bunte Fassaden sich glänzend im nassen Asphalt spiegeln.",
+            "hu": "Reggel a St. Mary-templom boltívei alatt találunk menedéket a szitáló eső elől. Délben a város múzeumaiban merülünk el a történelemben, ahol a vastag falak szárazon tartanak. Délután a tengerparti sziklák és erődök drámai arcukat mutatják a ködben, de a lépcsőkön óvatosan lépkedjünk. Este a kikötő színes házai tükröződnek a pocsolyákban, mielőtt egy hangulatos helyen megpihennénk.",
+            "ro": "Dimineața, Biserica St. Mary oferă adăpost împotriva ploii, permițându-vă să admirați tavanul sculptat. La prânz, explorăm muzeele orașului pentru a rămâne la adăpost în clădiri istorice. După-amiaza, faleza și portul capătă un aspect dramatic prin ceață; atenție la treptele alunecoase. Seara se încheie printre luminile orașului care se reflectă spectaculos în bălțile de pe străzile pavate.",
+            "en": "In the morning, St. Mary's Church provides a dry sanctuary to admire its medieval ceiling. At midday, we retreat into the local museums to escape the showers within historic walls. In the afternoon, the cliffs and harbor appear dramatic through the sea mist; be careful on slippery paths. The evening ends in the illuminated streets, with colorful facades reflecting beautifully in the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Mary's Church",
+                "hu": "St. Mary-templom",
+                "ro": "Biserica St. Mary",
+                "en": "St. Mary's Church"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie das prachtvolle Wagendach aus dem 15. Jahrhundert im trockenen Kirchenschiff und nutzen Sie die Ruhe für eine Pause vom Regen.",
+                "hu": "Csodálja meg a 15. századi díszes tetőszerkezetet a templom száraz belső terében, és használja ki a csendet egy rövid eső elleni pihenőre.",
+                "ro": "Admirați magnificul tavan din secolul al XV-lea în interiorul uscat al bisericii și folosiți liniștea pentru o scurtă pauză de la ploaia de afară.",
+                "en": "Admire the magnificent 15th-century wagon roof inside the dry nave and use the peaceful atmosphere for a brief escape from the coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Tudor Merchant's House",
+                "hu": "Tudor-kori kereskedőház",
+                "ro": "Casa Negustorului Tudor",
+                "en": "Tudor Merchant's House"
+              },
+              "tip_4lang": {
+                "de": "Entdecken Sie das Leben im 15. Jahrhundert in diesem engen Steinhaus, das perfekten Schutz vor den nasskalten Winden des Kanals bietet.",
+                "hu": "Fedezze fel a 15. századi életet ebben a szűk kőházban, amely tökéletes védelmet nyújt a csatorna felől érkező nyirkos, szeles eső ellen.",
+                "ro": "Descoperiți viața din secolul al XV-lea în această casă de piatră care oferă protecție perfectă împotriva vântului umed de pe canal.",
+                "en": "Explore 15th-century life inside this narrow stone merchant's house, which provides excellent shelter from the damp and windy coastal weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tenby Museum & Art Gallery",
+                "hu": "Tenby Múzeum és Művészeti Galéria",
+                "ro": "Muzeul și Galeria de Artă Tenby",
+                "en": "Tenby Museum & Art Gallery"
+              },
+              "tip_4lang": {
+                "de": "Verweilen Sie bei den maritimen Exponaten und der Kunstgalerie, während draußen ein Regenschauer über die Burgruinen auf dem Hügel zieht.",
+                "hu": "Időzzön el a tengerészeti kiállítások és a galéria képei között, amíg kint egy hevesebb zápor átvonul a várdomb feletti sziklás területen.",
+                "ro": "Zăboviți printre exponatele maritime și galeria de artă în timp ce afară trece o aversă peste ruinele castelului de pe deal.",
+                "en": "Spend extra time browsing the maritime exhibits and art gallery while waiting for a heavy rain shower to pass over the castle hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Beach",
+                "hu": "Castle Beach",
+                "ro": "Plaja Castle",
+                "en": "Castle Beach"
+              },
+              "tip_4lang": {
+                "de": "Der Sand ist bei Regen fest zum Laufen, aber tragen Sie wasserfeste Schuhe, da sich in den Felsen kleine Gezeitentümpel füllen.",
+                "hu": "A homok esőben is kemény és jól járható, de viseljen vízálló cipőt, mert a sziklák között gyorsan megtelnek a kis dagálymedencék.",
+                "ro": "Nisipul este compact și bun pentru mers chiar și pe ploaie, dar purtați încălțăminte impermeabilă din cauza bălților care se formează.",
+                "en": "The sand remains firm for walking even in the rain, but wear waterproof footwear as small tidal pools fill up quickly among the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "St Catherine's Fort",
+                "hu": "St Catherine erőd",
+                "ro": "Fortul St Catherine",
+                "en": "St Catherine's Fort"
+              },
+              "tip_4lang": {
+                "de": "Seien Sie vorsichtig auf den glatten Eisentreppen zum Fort und genießen Sie den Blick auf die tosenden grauen Wellen unter Regenwolken.",
+                "hu": "Legyen nagyon óvatos az erődbe vezető csúszós vaslépcsőkön, és csodálja meg a szürke esőfelhők alatt tajtékzó tenger látványát.",
+                "ro": "Fiți foarte atenți pe treptele de fier alunecoase care duc spre fort și admirați marea înfuriată sub norii gri de ploaie.",
+                "en": "Exercise caution on the slippery iron stairs leading to the fort and enjoy the dramatic view of the crashing grey waves under rain clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "North Beach",
+                "hu": "North Beach",
+                "ro": "Plaja North",
+                "en": "North Beach"
+              },
+              "tip_4lang": {
+                "de": "Die bunten Häuser über dem Strand wirken im Regenlicht besonders intensiv; schützen Sie Ihre Kamera bei Fotos vor der feuchten Gischt.",
+                "hu": "A part feletti színes házak az esős fényben különösen élénknek tűnnek; fotózáskor óvja a fényképezőgépét a sós párától és a víztől.",
+                "ro": "Casele colorate de deasupra plajei par foarte intense în lumina ploioasă; protejați aparatul foto de umezeală când faceți poze.",
+                "en": "The colorful houses above the beach look particularly vibrant in the rain; protect your camera from the salt spray and moisture while shooting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der St. Mary's Church, deren Stille im Winter besonders andächtig wirkt. Mittags wärmen wir uns in den Museen und Galerien auf, während der Wind vom Meer weht. Am frühen Nachmittag genießen wir den einsamen Strandspaziergang, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend bringt eine gemütliche Stimmung in die beleuchteten Gassen der Altstadt.",
+            "hu": "A friss téli reggelen a templom csendje fogad, ahol a hideg elől behúzódva tervezhetjük meg napunkat. Délben a történelmi házak és galériák melegében ismerkedünk Tenby múltjával. Délután a part üres homokján élvezzük a metsző tengeri szelet a naplemente előtt. Este öt után a város ünnepi fényei és a sós pára teremtenek különleges, meghitt hangulatot.",
+            "ro": "O dimineață răcoroasă începe la Biserica St. Mary, a cărei liniște este deosebită iarna. La prânz, ne încălzim în muzee și galerii în timp ce vântul bate cu putere dinspre mare. După-amiaza devreme, ne bucurăm de o plimbare pe plaja pustie înainte de apusul de la ora 17:00. Seara aduce o atmosferă primitoare pe străzile luminate ale orașului vechi.",
+            "en": "A crisp winter morning starts at St. Mary's Church, where the silence feels especially peaceful. At midday, we warm up in museums and galleries while the sea wind picks up. In the early afternoon, enjoy a bracing walk on the empty beach before the sun sets around 17:00. The evening brings a cozy atmosphere to the illuminated streets of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Mary's Church",
+                "hu": "St. Mary-templom",
+                "ro": "Biserica St. Mary",
+                "en": "St. Mary's Church"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe abseits der Touristenmassen und achten Sie auf die prächtigen Grabmäler, während es draußen winterlich kühl ist.",
+                "hu": "Élvezze a tömegektől mentes nyugalmat és csodálja meg a monumentális síremlékeket, miközben kint a hideg téli szél fúj a tenger felől.",
+                "ro": "Bucurați-vă de liniștea fără mulțimi de turiști și admirați monumentele funerare superbe în timp ce afară bate vântul rece de iarnă.",
+                "en": "Enjoy the peaceful atmosphere without the crowds and admire the grand monuments while staying sheltered from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tudor Merchant's House",
+                "hu": "Tudor-kori kereskedőház",
+                "ro": "Casa Negustorului Tudor",
+                "en": "Tudor Merchant's House"
+              },
+              "tip_4lang": {
+                "de": "Erfahren Sie, wie man im Mittelalter ohne moderne Heizung die walisischen Winter überstand, und genießen Sie die Wärme der dicken Mauern.",
+                "hu": "Ismerje meg, hogyan vészelték át a középkori teleket modern fűtés nélkül, és élvezze a vastag kőfalak által nyújtott szélvédett belsőt.",
+                "ro": "Aflați cum supraviețuiau oamenii iernilor galeze fără încălzire modernă și bucurați-vă de interiorul protejat de zidurile groase.",
+                "en": "Learn how people survived Welsh winters in the Middle Ages without modern heating and enjoy the shelter provided by the thick stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Tenby Museum & Art Gallery",
+                "hu": "Tenby Múzeum és Művészeti Galéria",
+                "ro": "Muzeul și Galeria de Artă Tenby",
+                "en": "Tenby Museum & Art Gallery"
+              },
+              "tip_4lang": {
+                "de": "Wärmen Sie sich in den gut beheizten Galerieräumen auf und bewundern Sie die lokalen Kunstwerke vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Melegedjen fel a jól fűtött galériákban és csodálja meg a helyi műalkotásokat még a korai, délután öt órakor beköszöntő naplemente előtt.",
+                "ro": "Încălziți-vă în sălile bine încălzite ale galeriei și admirați operele de artă locale înainte de apusul soarelui de la ora 17:00.",
+                "en": "Warm up in the well-heated gallery rooms and admire local artworks before the early winter sunset sets in around five o'clock."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Beach",
+                "hu": "Castle Beach",
+                "ro": "Plaja Castle",
+                "en": "Castle Beach"
+              },
+              "tip_4lang": {
+                "de": "Machen Sie einen zügigen Spaziergang am leeren Strand; die winterliche Meeresluft ist erfrischend, erfordert aber Schal und Handschuhe.",
+                "hu": "Tegyen egy frissítő sétát az üres tengerparton; a téli sós levegő élénkítő, de a sál és a kesztyű elengedhetetlen a metsző szélben.",
+                "ro": "Faceți o plimbare rapidă pe plaja pustie; aerul rece de iarnă este revigorant, dar necesită fular și mănuși groase contra vântului.",
+                "en": "Take a brisk walk along the empty beach; the winter sea air is invigorating but requires a scarf and gloves against the sharp wind-chill."
+              }
+            },
+            {
+              "name": {
+                "de": "St Catherine's Fort",
+                "hu": "St Catherine erőd",
+                "ro": "Fortul St Catherine",
+                "en": "St Catherine's Fort"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie die Gezeiten genau, da die Wintersee rau sein kann, und tragen Sie rutschfeste Stiefel für die oft feuchten Stufen zur Insel.",
+                "hu": "Ellenőrizze pontosan az apály idejét, mert a téli tenger kiszámíthatatlan, és viseljen csúszásgátló bakancsot a nedves lépcsőkön.",
+                "ro": "Verificați cu atenție orele fluxului, deoarece marea iarna poate fi agitată, și purtați ghete aderente pentru treptele umede.",
+                "en": "Check the tide times carefully as the winter sea can be rough, and wear non-slip boots for the damp steps leading up to the island."
+              }
+            },
+            {
+              "name": {
+                "de": "North Beach",
+                "hu": "North Beach",
+                "ro": "Plaja North",
+                "en": "North Beach"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das letzte goldene Licht auf den Klippen, bevor gegen 17:00 Uhr die Lichter der Stadt im winterlichen Dunst angehen.",
+                "hu": "Figyelje meg az utolsó aranyló fényeket a sziklákon, mielőtt délután öt óra körül felgyúlnak a város fényei a téli párában.",
+                "ro": "Urmăriți ultima lumină aurie pe stânci înainte ca luminile orașului să se aprindă în amurgul de iarnă, în jurul orei 17:00.",
+                "en": "Watch the last golden light hit the cliffs before the town lights start to twinkle in the winter haze around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a lenyűgöző Tenby viadukt megcsodálásával, mielőtt a North Beach festői kiterjedéséhez gurulna. A dél ideális a középkori élet felfedezésére a Tudor-házban és a St Catherine erőd megtekintésére. A délután a South Beach kiterjedt, szeles dűnéihez vezeti. Az este a Waterwynch Bay eldugott, kutyabarát öbleiben kínál csendes pihenést a nap végén.",
         "ro": "Începeți ziua de ciclism admirând impresionantul viaduct Tenby înainte de a pedala spre întinderea pitorească North Beach. Prânzul este perfect pentru a explora viața medievală la Casa Negustorului Tudor și Fortul St Catherine. După-amiaza vă aduce la dunele întinse și aerisite ale plajei South Beach. Seara vă permite să vă relaxați la golful retras și liniștit de la Waterwynch Bay.",
         "en": "Start your cycling day by admiring the striking Tenby Viaduct before cruising down to the scenic expanse of North Beach. Midday is perfect for diving into medieval life at the Tudor Merchant's House and exploring St Catherine's Fort. Afternoon brings you to the sweeping, breezy dunes of South Beach. Evening lets you unwind at the secluded, dog-friendly coves of Waterwynch Bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Viadukt, wo Regen die Backsteine dunkel glänzen lässt. Mittags radeln wir vorsichtig entlang der Küste zum Museumsquartier, um Schutz zu suchen. Am Nachmittag trotzen wir dem Wind auf den Klippenwegen, achten aber auf rutschige Kurven. Den Abend lassen wir bei der Rückfahrt durch die glitzernden Straßen ausklingen, während der Regen langsam nachlässt.",
+            "hu": "A nap a viaduktnál kezdődik, ahol az eső sötétre festi a téglafalakat. Délben óvatosan gurulunk a part mentén a múzeumi negyedbe, hogy fedezéket keressünk. Délután a sziklaösvényeken dacolunk a széllel, figyelve a csúszós kanyarokra és pocsolyákra. Az estét a város csillogó utcáin való visszatekeréssel zárjuk, miközben az eső csendesedik.",
+            "ro": "Ziua începe la viaduct, unde ploaia face cărămizile să strălucească închis. La prânz, pedalăm cu grijă spre zona muzeelor pentru a găsi adăpost. După-amiaza, sfidăm vântul pe potecile de pe faleză, fiind atenți la curbele alunecoase. Încheiem seara pedalând prin orașul strălucitor sub ploaie, pe măsură ce precipitațiile se domolesc.",
+            "en": "The day starts at the viaduct, where rain turns the bricks a deep, glossy red. At midday, we cycle carefully along the coast to the museum district for cover. In the afternoon, we brave the wind on the cliff paths, watching out for slippery bends and puddles. The evening ends with a ride through the glistening streets as the rain begins to ease."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tenby Viaduct",
+                "hu": "Tenby viadukt",
+                "ro": "Viaductul Tenby",
+                "en": "Tenby Viaduct"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Bögen des Viadukts als kurzen Unterstand bei plötzlichen Schauern und achten Sie auf Pfützen auf den umliegenden Straßen.",
+                "hu": "Használja a viadukt boltíveit rövid menedékként hirtelen zápor esetén, és ügyeljen a környező utcákban kialakuló mély pocsolyákra.",
+                "ro": "Folosiți arcadele viaductului ca adăpost temporar în caz de aversă și fiți atenți la bălțile de pe străzile din jur.",
+                "en": "Use the arches of the viaduct for a quick shelter during a sudden downpour and watch out for deep puddles on the surrounding roads."
+              }
+            },
+            {
+              "name": {
+                "de": "North Beach",
+                "hu": "North Beach",
+                "ro": "Plaja North",
+                "en": "North Beach"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad auf festem Grund und genießen Sie den dramatischen Blick auf das graue Meer, bevor der Wind zu stark zum Radeln wird.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, és élvezze a drámai kilátást a szürke tengerre, mielőtt a szél túl erőssé válna a tekeréshez.",
+                "ro": "Parcați bicicleta pe teren solid și admirați marea gri agitată înainte ca vântul să devină prea puternic pentru pedalat.",
+                "en": "Park your bike on solid ground and enjoy the dramatic view of the grey sea before the wind becomes too strong for safe cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Tudor Merchant's House",
+                "hu": "Tudor-kori kereskedőház",
+                "ro": "Casa Negustorului Tudor",
+                "en": "Tudor Merchant's House"
+              },
+              "tip_4lang": {
+                "de": "Schließen Sie Ihr Rad sicher an und nutzen Sie die Zeit drinnen, um Ihre Kleidung zu trocknen, während Sie die Tudor-Geschichte entdecken.",
+                "hu": "Zárja le biztonságosan a kerékpárját, és használja ki a benti időt a ruhái szárítására, miközben felfedezi a Tudor-kori történeteket.",
+                "ro": "Încuiați bine bicicleta și folosiți timpul petrecut înăuntru pentru a vă usca hainele în timp ce descoperiți istoria Tudor.",
+                "en": "Lock your bike securely and use the indoor time to dry your gear while you discover the fascinating Tudor history of the house."
+              }
+            },
+            {
+              "name": {
+                "de": "St Catherine's Fort",
+                "hu": "St Catherine erőd",
+                "ro": "Fortul St Catherine",
+                "en": "St Catherine's Fort"
+              },
+              "tip_4lang": {
+                "de": "Vermeiden Sie es, mit dem Rad zu nah an die Klippenkante zu fahren, da Böen bei Regen unberechenbar sein können; gehen Sie den Rest zu Fuß.",
+                "hu": "Kerülje el, hogy kerékpárral túl közel menjen a szikla széléhez, mert az esős szél löketszerű lehet; az utolsó szakaszt tegye meg gyalog.",
+                "ro": "Evitați să vă apropiați prea mult de marginea stâncii cu bicicleta, deoarece rafalele pot fi imprevizibile; mergeți pe jos ultima parte.",
+                "en": "Avoid cycling too close to the cliff edge as rain gusts can be unpredictable; it is safer to walk the final approach to the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "South Beach",
+                "hu": "South Beach",
+                "ro": "Plaja South",
+                "en": "South Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Wege hier können schlammig werden; nutzen Sie asphaltierte Pfade und achten Sie auf rutschigen Sand, der auf die Straße geweht wurde.",
+                "hu": "Az ösvények itt sárosak lehetnek; maradjon az aszfaltozott utakon, és vigyázzon az útra hordott csúszós homokra és vízre.",
+                "ro": "Potecile de aici pot fi noroioase; rămâneți pe drumurile asfaltate și atenție la nisipul umed alunecos suflat pe carosabil.",
+                "en": "Paths here can get muddy in the rain; stick to paved surfaces and watch out for slippery wet sand blown onto the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Waterwynch Bay",
+                "hu": "Waterwynch-öböl",
+                "ro": "Golful Waterwynch",
+                "en": "Waterwynch Bay"
+              },
+              "tip_4lang": {
+                "de": "Der Abstieg zur Bucht ist steil und bei Nässe rutschig; prüfen Sie Ihre Bremsen vorab und tragen Sie helle, reflektierende Regenkleidung.",
+                "hu": "Az öbölhöz vezető lejtő meredek és esőben csúszós; ellenőrizze a fékeit, és viseljen feltűnő, fényvisszaverő esőkabátot.",
+                "ro": "Coborârea spre golf este abruptă și alunecoasă pe ploaie; verificați frânele și purtați haine reflectorizante de ploaie.",
+                "en": "The descent to the bay is steep and slippery when wet; check your brakes beforehand and wear high-visibility waterproof gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Morgen am Viadukt erfordert warme Handschuhe am Lenker. Mittags radeln wir zügig an den Stränden entlang, um durch Bewegung warm zu bleiben. Gegen 15:30 Uhr erreichen wir die Klippenpfade, um das goldene Licht vor dem Sonnenuntergang um 17:00 Uhr zu nutzen. Der Tag endet mit einer beleuchteten Fahrt zurück ins Zentrum, wo die kalte Seeluft den Abend einläutet.",
+            "hu": "A tiszta, hideg reggelen a viaduktnál kezdünk, ahol a kormányhoz meleg kesztyű szükséges. Napközben tempósan tekerünk a part mentén, hogy a mozgással tartsuk meg testhőnket. Délután fél négy körül érjük el a sziklaösvényeket az aranyló fények miatt. A napot egy kivilágított visszautazással zárjuk, mielőtt délután öt után végleg besötétedik.",
+            "ro": "O dimineață senină și rece la viaduct necesită mănuși groase pe ghidon. La prânz, pedalăm rapid de-a lungul plajelor pentru a ne menține calzi prin mișcare. În jurul orei 15:30 ajungem pe potecile de pe faleză pentru lumina aurie de dinaintea apusului. Ziua se încheie cu o cursă luminată spre centru, pe măsură ce întunericul se lasă la ora 17:00.",
+            "en": "A clear, cold morning at the viaduct requires warm gloves on the handlebars. At midday, we cycle briskly along the beaches to keep warm through movement. Around 15:30, we reach the cliff paths to catch the golden hour before the 17:00 sunset. The day ends with a light-filled ride back to the center as the winter darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tenby Viaduct",
+                "hu": "Tenby viadukt",
+                "ro": "Viaductul Tenby",
+                "en": "Tenby Viaduct"
+              },
+              "tip_4lang": {
+                "de": "Starten Sie früh, um die winterliche Ruhe zu genießen, aber achten Sie auf überfrierende Feuchtigkeit in den schattigen Bereichen des Viadukts.",
+                "hu": "Kezdje korán a napot a téli nyugalom élvezetéhez, de ügyeljen a jeges foltokra a viadukt árnyékos, nyirkosabb részei alatt.",
+                "ro": "Începeți devreme pentru a vă bucura de liniștea iernii, dar atenție la porțiunile înghețate de sub arcadele umbrite ale viaductului.",
+                "en": "Start early to enjoy the winter stillness, but watch out for icy patches in the shaded areas beneath the viaduct's arches."
+              }
+            },
+            {
+              "name": {
+                "de": "North Beach",
+                "hu": "North Beach",
+                "ro": "Plaja North",
+                "en": "North Beach"
+              },
+              "tip_4lang": {
+                "de": "Die kalte Meeresluft ist sehr erfrischend; halten Sie kurz an, um den Blick auf die leere Bucht zu genießen, bevor der Wind Sie auskühlt.",
+                "hu": "A hideg tengeri levegő frissítő; álljon meg egy pillanatra az üres öböl látványáért, mielőtt a szél túlságosan lehűtené tekerés közben.",
+                "ro": "Aerul rece de mare este revigorant; opriți-vă scurt pentru a admira golful pustiu înainte ca vântul să vă răcească prea tare.",
+                "en": "The cold sea air is very refreshing; stop briefly to enjoy the view of the empty bay before the wind-chill makes you too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Tudor Merchant's House",
+                "hu": "Tudor-kori kereskedőház",
+                "ro": "Casa Negustorului Tudor",
+                "en": "Tudor Merchant's House"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; das Haus bietet einen faszinierenden Einblick in winterliche Traditionen der Vergangenheit.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként; a ház lenyűgöző betekintést nyújt a múltbéli téli hagyományokba és életmódba.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; casa oferă o perspectivă fascinantă asupra tradițiilor de iarnă din trecut.",
+                "en": "Use the museum visit as a warm-up break; the house offers a fascinating glimpse into historical winter traditions and lifestyles."
+              }
+            },
+            {
+              "name": {
+                "de": "St Catherine's Fort",
+                "hu": "St Catherine erőd",
+                "ro": "Fortul St Catherine",
+                "en": "St Catherine's Fort"
+              },
+              "tip_4lang": {
+                "de": "Der Wind auf dem Weg zum Fort kann im Winter extrem schneidend sein; tragen Sie eine winddichte Jacke über Ihrer Radbekleidung.",
+                "hu": "Az erőd felé vezető úton a szél télen rendkívül metsző lehet; viseljen szélálló kabátot a kerékpáros ruházata felett.",
+                "ro": "Vântul spre fort poate fi extrem de tăios iarna; purtați o jachetă rezistentă la vânt peste echipamentul de ciclism.",
+                "en": "The wind on the approach to the fort can be extremely biting in winter; wear a windproof jacket over your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "South Beach",
+                "hu": "South Beach",
+                "ro": "Plaja South",
+                "en": "South Beach"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die weite, leere Strandlandschaft im tiefstehenden Winterlicht, aber kehren Sie um, bevor das Licht gegen 16:30 Uhr schwindet.",
+                "hu": "Élvezze a tágas, üres strand látványát az alacsonyan járó téli napfényben, de induljon vissza, mielőtt fél ötkor fogyni kezd a fény.",
+                "ro": "Bucurați-vă de plaja pustie în lumina joasă a iernii, dar întoarceți-vă înainte ca lumina să scadă în intensitate, în jur de 16:30.",
+                "en": "Enjoy the vast, empty beach landscape in the low winter light, but head back before the visibility starts to fade around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Waterwynch Bay",
+                "hu": "Waterwynch-öböl",
+                "ro": "Golful Waterwynch",
+                "en": "Waterwynch Bay"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es im Winter früh dunkel wird und die Wege zur Bucht unbeleuchtet sind.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái jól működnek, mert télen korán sötétedik, és az öbölhöz vezető utak nem kivilágítottak.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează bine, deoarece se întunecă devreme, iar drumurile spre golf nu sunt iluminate.",
+                "en": "Ensure your bike lights are working perfectly, as it gets dark early and the paths to the bay are completely unlit in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje autós útját a város történelmének felfedezésével a Tudor-kereskedőházban és a drámai St Catherine erődnél. A dél frissítő tengerparti megállót kínál a South Beach homokos partjain. A délután sebességet vált, ahogy az izgalmas, akciódús Heatherton World of Activities felé veszi az irányt. Az este gyönyörűen zárul a Manor Wildlife Park egzotikus állatai között sétálva.",
         "ro": "Începeți plimbarea cu mașina explorând inima istorică a orașului la Casa Negustorului Tudor și la dramaticul Fort St Catherine. La prânz, faceți o oprire de coastă pentru a vă bucura de South Beach. După-amiaza schimbă ritmul în timp ce vă îndreptați spre captivantul parc Heatherton World of Activities. Seara se încheie frumos printre animalele exotice de la Manor Wildlife Park.",
         "en": "Begin your drive exploring the heart of the town's history at the Tudor Merchant's House and the dramatic St Catherine's Fort. Midday allows a refreshing coastal stop to enjoy the sandy shores of South Beach. Afternoon shifts gears as you head to the exciting, action-packed Heatherton World of Activities. Evening winds down beautifully among the exotic animals at Manor Wildlife Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Stadtzentrum, wo wir im Trockenen zum Tudor-Haus gelangen. Mittags steuern wir Parkplätze nahe der Küstenattraktionen an, um kurze Wege im Regen zu haben. Am Nachmittag bieten die Erlebnisparks gute Indoor-Optionen für die ganze Familie. Der Tag endet mit einer entspannten Fahrt durch das verregnete Pembrokeshire, während die Scheibenwischer den Rhythmus angeben.",
+            "hu": "Az út a városközpontban kezdődik, ahol a kocsi védelmében érkezünk a Tudor-házhoz. Délben a parthoz közeli parkolókat választjuk, hogy minél kevesebbet kelljen az esőben gyalogolni. Délután az élményparkok kiváló fedett programokat kínálnak az egész család számára. A napot egy nyugodt autózással zárjuk a borongós Pembrokeshire tájain, az eső kopogását hallgatva.",
+            "ro": "Călătoria începe în centrul orașului, unde ajungem la casa Tudor fără să ne udăm. La prânz, alegem parcări aproape de atracții pentru a minimiza mersul prin ploaie. După-amiaza, parcurile de activități oferă opțiuni excelente în interior pentru familie. Ziua se încheie cu o plimbare relaxantă cu mașina prin Pembrokeshire, în timp ce ploaia bate în parbriz.",
+            "en": "The drive starts in the city center, allowing a dry arrival at the Tudor house. At midday, we target parking spots close to the coastal sights to minimize walking in the rain. In the afternoon, the activity parks provide great indoor options for the whole family. The day ends with a relaxed drive through rainy Pembrokeshire, with the wipers setting a steady rhythm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tudor Merchant's House",
+                "hu": "Tudor-kori kereskedőház",
+                "ro": "Casa Negustorului Tudor",
+                "en": "Tudor Merchant's House"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie am Multi-Storey Car Park, um nur einen kurzen, regengeschützten Fußweg durch die engen Gassen zum Museum zu haben.",
+                "hu": "Parkoljon a többszintes parkolóházban, így csak egy rövid, eső elől védettebb sétát kell tennie a szűk utcákon át a múzeumig.",
+                "ro": "Parcați în parcarea etajată pentru a avea de mers doar puțin prin ploaie pe străzile înguste până la intrarea în muzeu.",
+                "en": "Park at the multi-storey car park for a short, sheltered walk through the narrow streets to reach the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "St Catherine's Fort",
+                "hu": "St Catherine erőd",
+                "ro": "Fortul St Catherine",
+                "en": "St Catherine's Fort"
+              },
+              "tip_4lang": {
+                "de": "Behalten Sie wetterfeste Kleidung im Auto griffbereit, da der Weg vom Parkplatz über den Strand zum Fort dem Wetter voll ausgesetzt ist.",
+                "hu": "Tartsa a vízálló ruházatot kéznél az autóban, mert a parkolótól a tengerparton át az erődig vezető út teljesen kitett az esőnek.",
+                "ro": "Păstrați hainele impermeabile la îndemână în mașină, deoarece drumul de la parcare până la fort este complet expus ploii.",
+                "en": "Keep your waterproof gear handy in the car, as the walk from the parking area across the beach to the fort is fully exposed."
+              }
+            },
+            {
+              "name": {
+                "de": "South Beach",
+                "hu": "South Beach",
+                "ro": "Plaja South",
+                "en": "South Beach"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt aus dem Auto am Strandparkplatz, falls der Regen für einen Spaziergang zu stark wird.",
+                "hu": "Élvezze a viharos tenger látványát közvetlenül az autóból a strand melletti parkolóban, ha az eső túl erős lenne egy kiadós sétához.",
+                "ro": "Admirați marea înfuriată direct din mașină în parcarea de lângă plajă, dacă ploaia este prea puternică pentru o plimbare pe nisip.",
+                "en": "Enjoy the view of the stormy sea directly from your car at the beach car park if the rain becomes too heavy for a long walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Heatherton World of Activities",
+                "hu": "Heatherton Élménypark",
+                "ro": "Heatherton World of Activities",
+                "en": "Heatherton World of Activities"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Indoor-Aktivitäten wie Bogenschießen oder Indoor-Play, um dem Regen zu entkommen und trotzdem aktiv zu bleiben.",
+                "hu": "Válassza a fedett tevékenységeket, például az íjászatot vagy a benti játszóházat, hogy az eső ellenére is aktívan szórakozhasson.",
+                "ro": "Alegeți activitățile de interior, cum ar fi tirul cu arcul sau locul de joacă acoperit, pentru a rămâne activ în ciuda ploii.",
+                "en": "Opt for indoor activities like archery or the indoor play zone to stay active and entertained while escaping the heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Manor Wildlife Park",
+                "hu": "Manor Vadaspark",
+                "ro": "Parcul Zoologic Manor",
+                "en": "Manor Wildlife Park"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die begehbaren Gehege mit Unterständen und nutzen Sie das große Indoor-Spielareal, falls ein Schauer über den Park zieht.",
+                "hu": "Látogassa meg a fedett részekkel rendelkező kifutókat, és használja a hatalmas benti játszóteret, ha zápor vonulna át a vadaspark felett.",
+                "ro": "Vizitați adăposturile animalelor și folosiți zona mare de joacă acoperită în cazul în care o aversă trece peste parcul zoologic.",
+                "en": "Visit the animal enclosures with shelters and take advantage of the large indoor play area if a heavy shower passes over the park."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour beginnt im warmen Auto mit Fahrt zum Tudor-Haus. Mittags genießen wir die weiten Ausblicke auf die Küste von Pembrokeshire, während die Heizung für Komfort sorgt. Am Nachmittag besuchen wir die Wildtierparks, bevor die Dämmerung gegen 16:30 Uhr einsetzt. Der Tag endet mit einer Rückfahrt durch das beleuchtete Tenby, pünktlich zum frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli autós túra a meleg utastérben kezdődik a Tudor-ház felé tartva. Délben a Pembrokeshire-part vidékének tágas kilátását élvezzük, miközben az autó fűtése kényelmet biztosít. Délután a vadasparkot látogatjuk meg, mielőtt fél ötkor fogyni kezd a fény. A napot a kivilágított Tenbyn át való visszatéréssel zárjuk a korai, öt órai naplemente előtt.",
+            "ro": "Turul de iarnă începe în mașina încălzită spre casa Tudor. La prânz, admirăm priveliștile largi ale coastei Pembrokeshire în timp ce ne bucurăm de confortul termic. După-amiaza vizităm parcul zoologic înainte ca lumina să scadă la 16:30. Ziua se încheie cu întoarcerea prin Tenby-ul luminat, înainte de apusul de la ora 17:00.",
+            "en": "The winter tour begins in the warmth of the car heading to the Tudor house. At midday, enjoy sweeping views of the Pembrokeshire coast while staying cozy inside. In the afternoon, visit the wildlife park before the daylight starts to fade around 16:30. The day ends with a drive back through illuminated Tenby, just before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tudor Merchant's House",
+                "hu": "Tudor-kori kereskedőház",
+                "ro": "Casa Negustorului Tudor",
+                "en": "Tudor Merchant's House"
+              },
+              "tip_4lang": {
+                "de": "Profitieren Sie von den kürzeren Wegen in der Nebensaison und genießen Sie die geschichtsträchtige Atmosphäre ohne die sommerlichen Massen.",
+                "hu": "Használja ki a főszezonon kívüli rövidebb várakozási időt, és élvezze a történelmi hangulatot a nyári tömeg és a hőség nélkül.",
+                "ro": "Profitați de timpul scurt de așteptare în afara sezonului și bucurați-vă de atmosfera istorică fără aglomerația de vară.",
+                "en": "Take advantage of the shorter queues in the off-season and enjoy the historic atmosphere without the usual summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "St Catherine's Fort",
+                "hu": "St Catherine erőd",
+                "ro": "Fortul St Catherine",
+                "en": "St Catherine's Fort"
+              },
+              "tip_4lang": {
+                "de": "Wählen Sie einen Parkplatz direkt am Esplanade-Hügel für einen schnellen Zugang zum Strandweg und ziehen Sie sich für den Meereswind warm an.",
+                "hu": "Válasszon parkolóhelyet közvetlenül az Esplanade dombon a gyors tengerparti lejutáshoz, és öltözzön rétegesen a metsző szél ellen.",
+                "ro": "Alegeți un loc de parcare direct pe dealul Esplanade pentru acces rapid la plajă și îmbrăcați-vă gros pentru vântul tăios de mare.",
+                "en": "Select a parking spot right on the Esplanade hill for quick access to the beach path and dress in layers against the sharp sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "South Beach",
+                "hu": "South Beach",
+                "ro": "Plaja South",
+                "en": "South Beach"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Strandparkplatz für einen kurzen, erfrischenden Winterspaziergang, bei dem Sie jederzeit schnell ins warme Auto zurückkehren können.",
+                "hu": "Használja a strand melletti parkolót egy rövid, frissítő téli sétához, ahonnan bármikor gyorsan visszatérhet a fűtött autóba.",
+                "ro": "Folosiți parcarea de lângă plajă pentru o plimbare scurtă și revigorantă, având posibilitatea de a reveni rapid în mașina caldă.",
+                "en": "Use the beach car park for a short, invigorating winter walk, with the convenience of returning quickly to your heated car at any time."
+              }
+            },
+            {
+              "name": {
+                "de": "Heatherton World of Activities",
+                "hu": "Heatherton Élménypark",
+                "ro": "Heatherton World of Activities",
+                "en": "Heatherton World of Activities"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten vorab; viele Aktivitäten sind wetterunabhängig und im Winter deutlich entspannter zu erleben.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást; sok tevékenység időjárástól független, és télen sokkal nyugodtabban kipróbálható.",
+                "ro": "Verificați programul de iarnă în avans; multe activități nu depind de vreme și sunt mult mai relaxante iarna, fără cozi.",
+                "en": "Check the winter opening hours in advance; many activities are weather-independent and much more relaxing to visit without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Manor Wildlife Park",
+                "hu": "Manor Vadaspark",
+                "ro": "Parcul Zoologic Manor",
+                "en": "Manor Wildlife Park"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie Tiere in ihrem Winterfell und nutzen Sie das beheizte Café für eine Pause, bevor es um 17:00 Uhr draußen dunkel wird.",
+                "hu": "Figyelje meg az állatokat a vastag téli bundájukban, és pihenjen meg a fűtött kávézóban, mielőtt délután öt órakor teljesen besötétedik.",
+                "ro": "Observați animalele cu blana lor groasă de iarnă și faceți o pauză în cafeneaua încălzită înainte de lăsarea întunericului, la ora 17:00.",
+                "en": "Observe the animals in their thick winter coats and take a break in the heated café before the darkness falls outside at 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

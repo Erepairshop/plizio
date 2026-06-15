@@ -183,6 +183,224 @@
         "hu": "A reggel kulturális elmerüléssel kezdődik az Arts Cityben, majd a történelmi Bab Agro felé vesszük az irányt. Délben a Bab Shaaba és a figyelemre méltó Portugál Katedrális vár ránk. Délután felfedezzük a Bab Alkhadid és az ősi Bab Almaesara kapukat. Az este egy lenyűgöző naplementével érkezik a fenséges Qasr al-Bahr kastélynál, tökéletesen lezárva ezt a történelmi sétát.",
         "ro": "Dimineața începe cu o incursiune culturală la Arts City, înainte de a vă îndrepta spre istorica Bab Agro. La prânz admirați Bab Shaaba și impresionanta Catedrală Portugheză. După-amiaza o veți petrece explorând porțile antice Bab Alkhadid și Bab Almaesara. Seara se încheie cu un apus spectaculos la mărețul Qasr al-Bahr, încununând o plimbare istorică perfectă.",
         "en": "Morning starts with cultural immersion at the Arts City before heading to the historic Bab Agro. Midday is spent marveling at Bab Shaaba and the remarkable Cathédrale Portugaise. In the afternoon, you will explore Bab Alkhadid and the ancient Bab Almaesara gates. Evening arrives with a stunning sunset view at the majestic Qasr al-Bahr, rounding off a perfect historical walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Safi lädt dazu ein, die überdachten Schätze der Medina zu erkunden. Der Morgen beginnt geschützt in Museen, während mittags die engen Gassen der Altstadt natürlichen Schutz bieten. Am Nachmittag trotzen wir dem Wetter an den historischen Toren. Der Abend endet gemütlich, während der Regen gegen die alten Mauern der Meeresburg peitscht und eine mystische Atmosphäre schafft.",
+            "hu": "Egy esős nap Szafiban kiváló alkalom a medina fedett kincseinek felfedezésére. A reggel múzeumok falai között indul, délben pedig az óváros szűk utcái nyújtanak természetes oltalmat az égi áldás elől. Délután a történelmi kapuk mentén haladunk, vigyázva a csúszós kövekre. Az este a tengeri bástyák közelében ér véget, ahol a viharos óceán és az eső kopogása különleges hangulatot áraszt.",
+            "ro": "O zi ploioasă în Safi vă invită să explorați comorile acoperite ale medinei. Dimineața începe la adăpostul muzeelor, iar la prânz străzile înguste ale orașului vechi oferă protecție naturală. După-amiaza continuăm pe lângă porțile istorice, atenți la pavajul umed. Seara se încheie melancolic lângă castelul de la malul mării, unde sunetul ploii se împletește cu cel al valurilor.",
+            "en": "A rainy day in Safi is perfect for discovering the sheltered gems of the medina. Start your morning indoors, while at noon the narrow alleys provide a natural canopy. Spend the afternoon exploring historical gates, being mindful of slippery surfaces. The evening concludes with a dramatic view of the Sea Castle, where the rhythm of the rain creates a unique, historic atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arts City",
+                "hu": "Művészetek Városa (Arts City)",
+                "ro": "Arts City",
+                "en": "Arts City"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume der Keramikausstellung als perfekten Regenschutz und bewundern Sie die glasierten Meisterwerke im Trockenen.",
+                "hu": "Használja ki a kerámiakiállítás belső tereit az eső elől, és csodálja meg a mázas mesterműveket száraz helyen.",
+                "ro": "Folosiți spațiile interioare ale expoziției de ceramică pentru a vă adăposti de ploaie și admirați capodoperele smălțuite la uscat.",
+                "en": "Take advantage of the indoor ceramic exhibition spaces to escape the rain and admire the glazed masterpieces in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Agro (Tor von Agrou)",
+                "hu": "Bab Agro kapu",
+                "ro": "Poarta Bab Agro",
+                "en": "Bab Agro (Gate of Agrou)"
+              },
+              "tip_5lang": {
+                "de": "Das massive Tor bietet kurzzeitigen Unterstand; achten Sie beim Durchschreiten auf die glatten Steinböden unter Ihren Füßen.",
+                "hu": "A masszív kapualj rövid ideig menedéket nyújt; áthaladáskor figyeljen a lába alatti csúszós kőburkolatra.",
+                "ro": "Poarta masivă oferă un scurt adăpost; aveți grijă la pavajul de piatră alunecos de sub picioare în timp ce treceți.",
+                "en": "The massive gateway provides brief shelter; watch out for the slippery stone flooring under your feet as you pass through."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Shaaba",
+                "hu": "Bab Shaaba",
+                "ro": "Bab Shaaba",
+                "en": "Bab Shaaba"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Torbogen und beobachten Sie das bunte Treiben auf dem Markt, das trotz Regen unter Planen weitergeht.",
+                "hu": "Keressen menedéket a boltív alatt, és figyelje a piac nyüzsgését, amely az eső ellenére is folytatódik a ponyvák alatt.",
+                "ro": "Căutați adăpost sub arcada porții și observați agitația pieței, care continuă sub prelate în ciuda ploii.",
+                "en": "Seek shelter under the archway and watch the market bustle, which continues under tarpaulins despite the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Portugiesische Kathedrale",
+                "hu": "Portugál Katedrális",
+                "ro": "Catedrala Portugheză",
+                "en": "Cathédrale Portugaise"
+              },
+              "tip_5lang": {
+                "de": "Die gotischen Gewölbe bieten Schutz; betrachten Sie die feinen Steinmetzarbeiten, während draußen der Regen die alten Mauern reinigt.",
+                "hu": "A gótikus boltozatok védelmet nyújtanak; csodálja meg a finom kőfaragásokat, miközben odakint az eső mossa az ősi falakat.",
+                "ro": "Bolțile gotice oferă protecție; admirați sculpturile fine în piatră în timp ce ploaia spală zidurile vechi de afară.",
+                "en": "The Gothic vaults offer protection; admire the fine stonework while the rain washes the ancient walls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Alkhadid",
+                "hu": "Bab Alkhadid",
+                "ro": "Bab Alkhadid",
+                "en": "Bab Alkhadid"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Durchgang ist ideal für ein kurzes Innehalten im Trockenen, bevor Sie den Weg durch die Medina fortsetzen.",
+                "hu": "Ez a történelmi átjáró ideális egy rövid száraz pihenőre, mielőtt folytatná útját a medina szűk utcáin.",
+                "ro": "Această trecere istorică este ideală pentru un scurt popas la uscat înainte de a continua drumul prin medină.",
+                "en": "This historical passage is ideal for a quick dry break before continuing your way through the medina."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Almaesara",
+                "hu": "Bab Almaesara",
+                "ro": "Bab Almaesara",
+                "en": "Bab Almaesara"
+              },
+              "tip_5lang": {
+                "de": "Die Tiefe des Tors schützt vor seitlichem Windregen; prüfen Sie hier Ihre Karte für die letzte Etappe zum Meer.",
+                "hu": "A kapu mélysége védelmet nyújt az oldalirányú széllel szemben; itt ellenőrizze térképét a tenger felé vezető utolsó szakasz előtt.",
+                "ro": "Profunzimea porții protejează împotriva ploii purtate de vânt; verificați aici harta pentru ultima etapă spre mare.",
+                "en": "The depth of the gate protects against wind-driven rain; check your map here for the final leg towards the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Qasr al-Bahr (Meeresburg)",
+                "hu": "Qasr al-Bahr (Tengeri kastély)",
+                "ro": "Qasr al-Bahr (Castelul Mării)",
+                "en": "Qasr al-Bahr, or the Sea Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume der Festung sind trocken, aber meiden Sie die exponierten Mauern wegen der Gischt und rutschigen Stufen.",
+                "hu": "Az erőd belső termei szárazak, de kerülje a nyitott bástyákat a sós permet és a csúszós lépcsők miatt.",
+                "ro": "Sălile interioare ale fortăreței sunt uscate, dar evitați zidurile expuse din cauza vaporilor de apă și a treptelor alunecoase.",
+                "en": "The fortress's interior rooms are dry, but avoid the exposed ramparts due to sea spray and slippery steps."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich Safi von einer milden, aber frischen Seite. Der Morgen beginnt mit klarer Meeresbrise in den Museen. Mittags wärmt die tiefstehende Sonne die Mauern der Medina. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Nachmittag effizient bei den historischen Toren. Der Abend wird kühl und lädt zu einem frühen Rückzug in die beleuchteten Gassen ein.",
+            "hu": "Télen Szafi enyhe, de friss arcát mutatja. A reggel tiszta tengeri szellővel indul a múzeumokban, délben pedig a laposan járó nap melengeti a medina falait. Mivel a nap már 17:00 körül lenyugszik, délután hatékonyan látogatjuk meg a történelmi kapukat. Az este hűvössé válik, így korán érdemes visszahúzódni a kivilágított óvárosi utcák rejtekébe.",
+            "ro": "Iarna, Safi se dezvăluie într-o lumină blândă, dar răcoroasă. Dimineața începe cu briza mării la muzee, iar la prânz soarele palid încălzește zidurile medinei. Deoarece soarele apune deja în jur de ora 17:00, planificăm după-amiaza eficient la porțile istorice. Seara devine răcoroasă, invitând la o retragere timpurie pe străzile luminate.",
+            "en": "Safi in winter is mild yet crisp. Start your morning with a fresh sea breeze at the museums, while at noon the low sun warms the medina walls. Since the sun sets around 17:00, we efficiently explore the historic gates in the afternoon. The evening brings a chill, making it the perfect time to retreat into the beautifully lit alleys of the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arts City",
+                "hu": "Művészetek Városa (Arts City)",
+                "ro": "Arts City",
+                "en": "Arts City"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme; genießen Sie die Keramikkunst in der angenehm temperierten Stille der Galerie.",
+                "hu": "A vastag falak jól tartják a meleget; élvezze a kerámiaművészetet a galéria kellemes hőmérsékletű csendjében.",
+                "ro": "Zidurile groase rețin bine căldura; bucurați-vă de arta ceramicii în liniștea galeriei cu o temperatură plăcută.",
+                "en": "The thick walls retain heat well; enjoy the ceramic art in the pleasantly tempered silence of the gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Agro (Tor von Agrou)",
+                "hu": "Bab Agro kapu",
+                "ro": "Poarta Bab Agro",
+                "en": "Bab Agro (Gate of Agrou)"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier mittags perfekt für Fotos ohne harte Schatten auf der historischen Fassade.",
+                "hu": "A téli nap délben tökéletes szögből világítja meg a homlokzatot, így éles árnyékok nélkül fotózhatja a történelmi kaput.",
+                "ro": "Soarele de iarnă luminează perfect fațada la prânz, permițându-vă să fotografiați poarta fără umbre dure.",
+                "en": "The winter sun hits the facade perfectly at noon, allowing you to photograph the historic gate without harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Shaaba",
+                "hu": "Bab Shaaba",
+                "ro": "Bab Shaaba",
+                "en": "Bab Shaaba"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort zur Mittagszeit, wenn die Sonne die Marktgasse am stärksten erwärmt und die Farben leuchten lässt.",
+                "hu": "Látogasson el ide délidőben, amikor a nap leginkább felmelegíti a piaci utcát és ragyogóvá teszi a színeket.",
+                "ro": "Vizitați acest loc la prânz, când soarele încălzește cel mai mult strada pieței și face culorile să strălucească.",
+                "en": "Visit here at midday when the sun warms the market street most and makes the colors glow brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Portugiesische Kathedrale",
+                "hu": "Portugál Katedrális",
+                "ro": "Catedrala Portugheză",
+                "en": "Cathédrale Portugaise"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht betont die gotischen Details im Inneren; tragen Sie eine warme Schicht für die kühlen Steinhallen.",
+                "hu": "A lágy téli fény kiemeli a belső gótikus részleteket; viseljen meleg öltözetet a hűvös kőcsarnokok felfedezéséhez.",
+                "ro": "Lumina blândă de iarnă evidențiază detaliile gotice din interior; purtați haine groase pentru halele răcoroase de piatră.",
+                "en": "The soft winter light highlights the interior Gothic details; wear warm layers to explore the cool stone halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Alkhadid",
+                "hu": "Bab Alkhadid",
+                "ro": "Bab Alkhadid",
+                "en": "Bab Alkhadid"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht gegen 16:30 Uhr, um die Textur der alten Steine in der goldenen Stunde einzufangen.",
+                "hu": "Használja ki az utolsó nappali fényeket 16:30 körül, hogy elkapja a régi kövek textúráját az aranyórában.",
+                "ro": "Profitați de ultima lumină a zilei în jurul orei 16:30 pentru a surprinde textura pietrelor vechi în ora de aur.",
+                "en": "Take advantage of the last daylight around 16:30 to capture the texture of the old stones during the golden hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Almaesara",
+                "hu": "Bab Almaesara",
+                "ro": "Bab Almaesara",
+                "en": "Bab Almaesara"
+              },
+              "tip_5lang": {
+                "de": "Kurz vor Sonnenuntergang ist es hier windig; eine windfeste Jacke hilft, den Blick auf die Stadtmauer zu genießen.",
+                "hu": "Közvetlenül naplemente előtt itt felerősödik a szél; egy szélálló dzseki segít, hogy nyugodtan élvezze a városfal látványát.",
+                "ro": "Chiar înainte de apus, vântul se intensifică aici; o jachetă rezistentă la vânt vă va ajuta să vă bucurați de vederea zidului.",
+                "en": "Just before sunset, it gets windy here; a windproof jacket will help you comfortably enjoy the view of the city wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Qasr al-Bahr (Meeresburg)",
+                "hu": "Qasr al-Bahr (Tengeri kastély)",
+                "ro": "Qasr al-Bahr (Castelul Mării)",
+                "en": "Qasr al-Bahr, or the Sea Castle"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr von den Zinnen aus, wenn der Himmel sich über dem Ozean verfärbt.",
+                "hu": "Élje át a korai, 17:00 körüli naplementét a bástyákról, amikor az ég csodás színekbe öltözik az óceán felett.",
+                "ro": "Experimentați apusul timpuriu în jurul orei 17:00 de pe bastioane, când cerul capătă culori superbe deasupra oceanului.",
+                "en": "Experience the early sunset around 17:00 from the ramparts when the sky turns beautiful colors over the ocean."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "A reggel a hatalmas Tajine emlékműnél indul, majd kulturális látogatást teszünk az Arts Cityben. Délben a régi városkapukon keresztül pedálozva érjük el a különleges Portugál Katedrálist. A délutáni tekerés a Bab El Jdidhez és a Qasr al-Bahr erődhöz vezet. Az este nyugtató parti biciklizést hoz a Plage de Safi homokjához, ahol kellemes óceáni szellő fogad.",
         "ro": "Dimineața debutează la uriașul monument Tajine, urmat de o vizită culturală la Arts City. La prânz pedalați prin vechile porți de la Bab Agro către unica Catedrală Portugheză. După-amiaza vă poartă spre Bab El Jdid și formidabila fortăreață Qasr al-Bahr. Seara aduce o cursă relaxantă pe coastă până la Plage de Safi, unde vă așteaptă briza proaspătă a oceanului.",
         "en": "Morning kicks off at the massive Tajine monument, followed by a cultural visit to Arts City. Midday takes you pedaling through the old city gates of Bab Agro to the unique Cathédrale Portugaise. Afternoon riding leads to Bab El Jdid and the formidable Qasr al-Bahr fortress. Evening brings a relaxing coastal cycle to Plage de Safi, where the gentle ocean breeze awaits you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Safi bei Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Der Morgen startet am Tajine-Denkmal, wo wir kurze Schauer abwarten. Mittags nutzen wir Museen als trockene Stützpunkte. Der Nachmittag führt uns zu den Stadttoren mit ihren schützenden Durchgängen. Der Abend endet am Strand, wo das graue Meer eine dramatische Kulisse für die letzte Fahrt bietet.",
+            "hu": "Az esős szafi kerékpározás óvatosságot igényel a csúszós macskaköveken. A reggel a Tajine emlékműnél indul, ahol kivárjuk a záporokat. Délben a múzeumokat használjuk száraz bázisként. Délután a városkapuk felé vesszük az irányt, amelyek védett átjárókat kínálnak. Az este a tengerparton zárul, ahol a szürke óceán drámai hátteret ad az utolsó tekeréshez.",
+            "ro": "Ciclismul în Safi pe ploaie necesită prudență pe pavajul alunecos. Dimineața începe la Monumentul Tajine, unde așteptăm trecerea averselor. La prânz, folosim muzeele ca baze uscate. După-amiaza ne îndreptăm spre porțile orașului cu trecerile lor protectoare. Seara se încheie la plajă, unde marea gri oferă un cadru dramatic pentru ultima cursă.",
+            "en": "Cycling through Safi in the rain requires caution on slippery cobblestones. Start your morning at the Tajine monument, seeking cover during showers. Use museums as dry bases at noon. Spend the afternoon heading towards the city gates with their sheltered passages. The evening ends by the beach, where the grey ocean provides a dramatic backdrop for your final ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tajine-Denkmal",
+                "hu": "Tajine emlékmű",
+                "ro": "Monumentul Tajine",
+                "en": "Tajine"
+              },
+              "tip_5lang": {
+                "de": "Die glatte Oberfläche des Denkmals glänzt im Regen; parken Sie Ihr Rad sicher und achten Sie auf rutschige Markierungen am Boden.",
+                "hu": "Az emlékmű sima felülete csillog az esőben; parkolja le biztonságosan a biciklit, és vigyázzon a csúszós felfestésekre az úton.",
+                "ro": "Suprafața netedă a monumentului strălucește în ploaie; parcați bicicleta în siguranță și atenție la marcajele alunecoase de pe drum.",
+                "en": "The monument's smooth surface glitters in the rain; park your bike securely and watch out for slippery road markings."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts City",
+                "hu": "Művészetek Városa (Arts City)",
+                "ro": "Arts City",
+                "en": "Arts City"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer in der Nähe und wärmen Sie sich bei der Keramikausstellung im Trockenen auf.",
+                "hu": "Használja a közeli fedett kerékpártárolót, és melegedjen fel a kerámiakiállítás száraz termeiben.",
+                "ro": "Folosiți suportul de biciclete acoperit din apropiere și încălziți-vă în sălile uscate ale expoziției de ceramică.",
+                "en": "Use the nearby covered bike rack and warm up in the dry rooms of the ceramic exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Agro (Tor von Agrou)",
+                "hu": "Bab Agro kapu",
+                "ro": "Poarta Bab Agro",
+                "en": "Bab Agro (Gate of Agrou)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch das Tor; die alten Steine werden bei Nässe extrem glatt für Fahrradreifen.",
+                "hu": "Hajtson lassan át a kapun; a régi kövek nedvesen rendkívül csúszóssá válnak a kerékpárgumik számára.",
+                "ro": "Conduceți încet prin poartă; pietrele vechi devin extrem de alunecoase pentru anvelopele de bicicletă când sunt ude.",
+                "en": "Ride slowly through the gate; the old stones become extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Portugiesische Kathedrale",
+                "hu": "Portugál Katedrális",
+                "ro": "Catedrala Portugheză",
+                "en": "Cathédrale Portugaise"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem geschützten Ort an und genießen Sie die gotische Architektur als ruhigen Rückzugsort vom Regen.",
+                "hu": "Zárja le kerékpárját egy védett helyen, és élvezze a gótikus építészetet mint nyugodt menedéket az eső elől.",
+                "ro": "Încuiați bicicleta într-un loc protejat și bucurați-vă de arhitectura gotică ca un refugiu liniștit de ploaie.",
+                "en": "Lock your bike in a sheltered spot and enjoy the Gothic architecture as a peaceful retreat from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Jdid (Neues Tor)",
+                "hu": "Bab El Jdid (Új kapu)",
+                "ro": "Bab El Jdid (Poarta Nouă)",
+                "en": "New Gate, or Bab El Jdid"
+              },
+              "tip_5lang": {
+                "de": "Dieses Tor bietet breite, trockene Bereiche; ideal für einen kurzen Check der Bremsen und der Ausrüstung bei Regen.",
+                "hu": "Ez a kapu tágas, száraz területeket kínál; ideális a fékek és a felszerelés rövid ellenőrzésére esős időben.",
+                "ro": "Această poartă oferă zone spațioase și uscate; ideală pentru o scurtă verificare a frânelor și echipamentului pe ploaie.",
+                "en": "This gate offers spacious, dry areas; ideal for a quick check of your brakes and gear in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Qasr al-Bahr (Meeresburg)",
+                "hu": "Qasr al-Bahr (Tengeri kastély)",
+                "ro": "Qasr al-Bahr (Castelul Mării)",
+                "en": "Qasr al-Bahr, or the Sea Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad windgeschützt ab; die Gischt am Schloss kann Metallteile bei Regen schneller korrodieren lassen.",
+                "hu": "Állítsa le kerékpárját szélvédett helyen; a várnál lévő sós permet esőben gyorsabban korrodálhatja a fém alkatrészeket.",
+                "ro": "Parcați bicicleta într-un loc ferit de vânt; vaporii sărați de la castel pot coroda piesele metalice mai repede pe ploaie.",
+                "en": "Park your bike in a wind-sheltered spot; the sea spray at the castle can corrode metal parts faster during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Safi (Stadtstrand)",
+                "hu": "Szafi tengerpart (Plage de Safi)",
+                "ro": "Plaja din Safi",
+                "en": "Plage de Safi"
+              },
+              "tip_5lang": {
+                "de": "Der befestigte Weg ist befahrbar, meiden Sie aber den nassen Sand, der die Kette und Schaltung verschmutzen könnte.",
+                "hu": "A kiépített út járható, de kerülje a vizes homokot, amely beszennyezheti a láncot és a váltót.",
+                "ro": "Drumul amenajat este practicabil, dar evitați nisipul ud care ar putea murdări lanțul și schimbătorul.",
+                "en": "The paved path is ridable, but avoid wet sand which could foul your chain and derailleur."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Safi mit dem Fahrrad im Winter ist erfrischend und dank weniger Touristen sehr entspannt. Der Morgen startet am Tajine-Denkmal in der klaren Winterluft. Mittags erkunden wir die Medina-Tore unter der milden Sonne. Da es früh dunkel wird, nutzen wir das goldene Licht des Nachmittags an der Meeresburg. Der Tag endet am Strand, pünktlich zum spektakulären Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Szafi kerékpárral télen felfrissítő és a kevés turista miatt nagyon nyugodt. A reggel a Tajine emlékműnél indul a tiszta téli levegőben. Délben a medina kapuit fedezzük fel az enyhe napsütésben. Mivel korán sötétedik, a délutáni aranyfényeket a tengeri várnál használjuk ki. A nap a tengerparton zárul, pontosan a látványos, 17:00 körüli naplemente idején.",
+            "ro": "Safi cu bicicleta iarna este revigorant și foarte relaxant datorită numărului mic de turiști. Dimineața începe la Monumentul Tajine în aerul curat de iarnă. La prânz explorăm porțile medinei sub soarele blând. Deoarece se întunecă devreme, profităm de lumina aurie a după-amiezii la castelul mării. Ziua se încheie la plajă, exact pentru apusul spectaculos de la ora 17:00.",
+            "en": "Safi by bike in winter is refreshing and very relaxed due to fewer tourists. Start your morning at the Tajine monument in the crisp winter air. Explore the medina gates at noon under the mild sun. As darkness falls early, we make the most of the afternoon's golden light at the Sea Castle. The day ends at the beach, just in time for the spectacular sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tajine-Denkmal",
+                "hu": "Tajine emlékmű",
+                "ro": "Monumentul Tajine",
+                "en": "Tajine"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht; idealer Startpunkt für Ihre Tour, bevor die kühle Brise am Mittag zunimmt.",
+                "hu": "A tiszta téli levegő nagy látótávolságot biztosít; ideális kiindulópont a túrához, mielőtt délben felerősödne a hűvös szellő.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate mare; punct de plecare ideal pentru turul dumneavoastră înainte ca briza rece să se intensifice la prânz.",
+                "en": "The clear winter air provides great visibility; an ideal starting point for your tour before the cool breeze picks up at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts City",
+                "hu": "Művészetek Városa (Arts City)",
+                "ro": "Arts City",
+                "en": "Arts City"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in der Sonne vor dem Eingang, um nach dem Museumsbesuch auf einen aufgewärmten Sattel zu steigen.",
+                "hu": "Parkolja le kerékpárját a napsütésben a bejárat előtt, hogy a múzeumlátogatás után felmelegedett nyeregre ülhessen.",
+                "ro": "Parcați bicicleta la soare în fața intrării pentru a urca pe o șa încălzită după vizita la muzeu.",
+                "en": "Park your bike in the sun in front of the entrance to return to a warmed saddle after your museum visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Agro (Tor von Agrou)",
+                "hu": "Bab Agro kapu",
+                "ro": "Poarta Bab Agro",
+                "en": "Bab Agro (Gate of Agrou)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Schatten beim Durchfahren; die Wintersonne kann in den engen Durchgängen kurzzeitig blenden.",
+                "hu": "Vigyázzon az elnyúló árnyékokra az áthaladáskor; a téli nap a szűk átjárókban rövid időre elvakíthatja.",
+                "ro": "Atenție la umbrele lungi în timp ce treceți; soarele de iarnă vă poate orbi pentru scurt timp în trecerile înguste.",
+                "en": "Watch out for long shadows while riding through; the winter sun can briefly dazzle you in the narrow passages."
+              }
+            },
+            {
+              "name": {
+                "de": "Portugiesische Kathedrale",
+                "hu": "Portugál Katedrális",
+                "ro": "Catedrala Portugheză",
+                "en": "Cathédrale Portugaise"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier sehr ruhig; nutzen Sie die Stille für Fotos der Architektur im weichen Januarlicht.",
+                "hu": "Télen itt nagyon nagy a nyugalom; használja ki a csendet az építészeti fotókhoz a lágy januári fényben.",
+                "ro": "Iarna este foarte liniște aici; profitați de tăcere pentru fotografii de arhitectură în lumina blândă de ianuarie.",
+                "en": "It's very quiet here in winter; take advantage of the silence for architectural photos in the soft January light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Jdid (Neues Tor)",
+                "hu": "Bab El Jdid (Új kapu)",
+                "ro": "Bab El Jdid (Poarta Nouă)",
+                "en": "New Gate, or Bab El Jdid"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze Pause in der Sonne, um neue Energie für die Fahrt zum Ozean zu tanken.",
+                "hu": "Jó hely egy rövid pihenőre a napsütésben, hogy újult erővel vágjon neki az óceán felé vezető útnak.",
+                "ro": "Un loc bun pentru o scurtă pauză la soare pentru a vă reîncărca bateriile pentru drumul spre ocean.",
+                "en": "A good spot for a short break in the sun to recharge your energy for the ride to the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Qasr al-Bahr (Meeresburg)",
+                "hu": "Qasr al-Bahr (Tengeri kastély)",
+                "ro": "Qasr al-Bahr (Castelul Mării)",
+                "en": "Qasr al-Bahr, or the Sea Castle"
+              },
+              "tip_5lang": {
+                "de": "Gegen 16:30 Uhr taucht die Wintersonne die Burg in Gold; schließen Sie Ihr Rad ab und genießen Sie den Moment vor dem Abkühlen.",
+                "hu": "16:30 körül a téli nap aranyba öltözteti a várat; zárja le a biciklit, és élvezze a pillanatot a lehűlés előtt.",
+                "ro": "În jurul orei 16:30, soarele de iarnă scaldă castelul în aur; încuiați bicicleta și bucurați-vă de moment înainte de răcire.",
+                "en": "Around 16:30, the winter sun bathes the castle in gold; lock your bike and enjoy the moment before it gets chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Safi (Stadtstrand)",
+                "hu": "Szafi tengerpart (Plage de Safi)",
+                "ro": "Plaja din Safi",
+                "en": "Plage de Safi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt auf der Promenade zum Sonnenuntergang um 17:00 Uhr; Handschuhe sind für die Rückfahrt im Dunkeln ratsam.",
+                "hu": "Élvezze a tekerést a korzón a 17:00-s naplementekor; a sötétben való visszatéréshez kesztyű használata javasolt.",
+                "ro": "Bucurați-vă de plimbarea pe faleză la apusul de la ora 17:00; mănușile sunt recomandate pentru drumul de întoarcere pe întuneric.",
+                "en": "Enjoy the ride on the promenade at the 17:00 sunset; gloves are recommended for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "A reggeli vezetés az ikonikus Tajine emlékműnél kezdődik, majd az Arts City közelében parkolunk le a helyi művészet élvezetéhez. A dél rövid utakat kínál a lenyűgöző Bab Shaaba és a történelmi Portugál Katedrális között. A délutáni felfedezést az óceánra néző fenséges Qasr al-Bahr erőd uralja. Az estét a Plage de Safi mellett parkolva érdemes tölteni, élvezve a gyönyörű naplementét.",
         "ro": "Călătoria de dimineață începe la iconicul monument Tajine, parcând apoi lângă Arts City pentru artă locală. Prânzul aduce scurte deplasări între impresionanta Bab Shaaba și istorica Catedrală Portugheză. Explorarea de după-amiază este dominată de maiestuoasa fortăreață Qasr al-Bahr, orientată spre ocean. Seara este petrecută perfect la Plage de Safi, admirând un apus relaxant pe țărm.",
         "en": "Morning driving starts at the iconic Tajine landmark before parking near Arts City to enjoy local art. Midday brings short trips between the impressive Bab Shaaba and the historic Cathédrale Portugaise. Afternoon exploration is dominated by the majestic ocean-facing Qasr al-Bahr fortress. Evening is perfectly spent parking near Plage de Safi to enjoy a relaxing sunset by the beautiful shore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Safi auch bei Regen komfortabel zu erkunden. Der Morgen beginnt trocken am Tajine-Denkmal. Mittags parken wir nah an den Museen, um die Keramikkunst zu bewundern. Am Nachmittag steuern wir die historischen Tore an, wobei das Auto als perfekter Rückzugsort zwischen den Besichtigungen dient. Der Abend endet am stürmischen Strand, wo wir das Naturschauspiel bequem vom Wagen aus beobachten.",
+            "hu": "Autóval Szafi esőben is kényelmesen felfedezhető. A reggel szárazon indul a Tajine emlékműnél. Délben a múzeumok közelében parkolunk, hogy megcsodáljuk a kerámiaművészetet. Délután a történelmi kapukat érintjük, az autó pedig tökéletes menedékként szolgál a látnivalók között. Az este a viharos tengerparton zárul, ahol a kocsi ablakából figyelhetjük a természet erejét.",
+            "ro": "Cu mașina, Safi poate fi explorat confortabil chiar și pe ploaie. Dimineața începe la uscat la Monumentul Tajine. La prânz parcăm aproape de muzee pentru a admira arta ceramicii. După-amiaza vizităm porțile istorice, mașina servind drept refugiu perfect între obiective. Seara se încheie pe plaja furtunoasă, unde putem observa spectacolul naturii comod din autovehicul.",
+            "en": "Exploring Safi by car is comfortable even in the rain. Start your morning dry at the Tajine monument. At noon, park close to the museums to admire the ceramic art. Spend the afternoon visiting historical gates, using the car as a perfect retreat between stops. The evening concludes at the stormy beach, where you can watch the elements from the comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tajine-Denkmal",
+                "hu": "Tajine emlékmű",
+                "ro": "Monumentul Tajine",
+                "en": "Tajine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt gegenüber für ein schnelles Foto; der Regen lässt die Keramikfarben des Denkmals besonders kräftig wirken.",
+                "hu": "Parkoljon le közvetlenül szemben egy gyors fotóra; az eső miatt az emlékmű kerámia színei különösen élénknek tűnnek.",
+                "ro": "Parcați direct vizavi pentru o fotografie rapidă; ploaia face culorile ceramice ale monumentului să pară deosebit de vibrante.",
+                "en": "Park directly opposite for a quick photo; the rain makes the ceramic colors of the monument appear particularly vibrant."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts City",
+                "hu": "Művészetek Városa (Arts City)",
+                "ro": "Arts City",
+                "en": "Arts City"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah am Eingang, um trockenen Fußes in die beeindruckende Welt der Keramik einzutauchen.",
+                "hu": "Keressen parkolóhelyet közel a bejárathoz, hogy száraz lábbal merülhessen el a kerámiák lenyűgöző világában.",
+                "ro": "Căutați un loc de parcare aproape de intrare pentru a intra la uscat în lumea fascinantă a ceramicii.",
+                "en": "Find a parking spot close to the entrance to step dry-shod into the impressive world of ceramics."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Shaaba",
+                "hu": "Bab Shaaba",
+                "ro": "Bab Shaaba",
+                "en": "Bab Shaaba"
+              },
+              "tip_5lang": {
+                "de": "Das Parken in der Nähe ist bei Regen oft einfacher; genießen Sie den Blick auf das Tor, bevor Sie kurz in den Markt springen.",
+                "hu": "Esőben gyakran könnyebb a közeli parkolás; élvezze a kapu látványát, mielőtt tenné egy rövid kört a fedett piacon.",
+                "ro": "Parcarea în apropiere este adesea mai ușoară pe ploaie; admirați poarta înainte de a face o scurtă vizită la piață.",
+                "en": "Parking nearby is often easier in the rain; enjoy the view of the gate before taking a quick stroll through the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Portugiesische Kathedrale",
+                "hu": "Portugál Katedrális",
+                "ro": "Catedrala Portugheză",
+                "en": "Cathédrale Portugaise"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten an der Hauptstraße und verbringen Sie die regnerische Zeit unter den gotischen Gewölben.",
+                "hu": "Használja a főút menti parkolókat, és töltse az esős időt a gótikus boltozatok védelmében.",
+                "ro": "Folosiți locurile de parcare de pe drumul principal și petreceți timpul ploios sub bolțile gotice.",
+                "en": "Use the parking along the main road and spend the rainy time sheltered under the Gothic vaults."
+              }
+            },
+            {
+              "name": {
+                "de": "Qasr al-Bahr (Meeresburg)",
+                "hu": "Qasr al-Bahr (Tengeri kastély)",
+                "ro": "Qasr al-Bahr (Castelul Mării)",
+                "en": "Qasr al-Bahr, or the Sea Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean; die Brandung gegen die Schlossmauern ist bei Regen ein beeindruckendes Spektakel.",
+                "hu": "Parkoljon az óceánra néző helyen; a várfalaknak csapódó hullámok esőben lenyűgöző látványt nyújtanak.",
+                "ro": "Parcați cu vedere la ocean; valurile care se sparg de zidurile castelului sunt un spectacol impresionant pe ploaie.",
+                "en": "Park with a view of the ocean; the surf crashing against the castle walls is an impressive spectacle during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Safi (Stadtstrand)",
+                "hu": "Szafi tengerpart (Plage de Safi)",
+                "ro": "Plaja din Safi",
+                "en": "Plage de Safi"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und beobachten Sie, wie der Regen auf den Atlantik trifft; die Parkplätze bieten eine tolle Panorama-Aussicht.",
+                "hu": "Maradjon az autóban, és figyelje, ahogy az eső találkozik az Atlanti-óceánnal; a parkolók remek panorámát kínálnak.",
+                "ro": "Rămâneți în mașină și observați cum ploaia întâlnește Atlanticul; parcările oferă o vedere panoramică excelentă.",
+                "en": "Stay in the car and watch the rain meet the Atlantic; the parking areas offer a great panoramic view."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Safi im Winter lässt sich ideal mit dem Auto erfahren, besonders wenn die Abende kühl werden. Der Morgen beginnt am Tajine-Denkmal unter strahlend blauem Himmel. Mittags erkunden wir die Museen und Tore, während das Auto angenehm von der Wintersonne aufgewärmt wird. Am späten Nachmittag steuern wir die Meeresburg an, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr am Strand ankommen.",
+            "hu": "A téli Szafi ideálisan bejárható autóval, különösen, amikor az esték hűvössé válnak. A reggel a Tajine emlékműnél indul a ragyogó kék ég alatt. Délben a múzeumokat és kapukat fedezzük fel, miközben az autót kellemesen felmelegíti a téli nap. Késő délután a tengeri vár felé vesszük az irányt, mielőtt pontosan a 17:00-s naplementére a tengerpartra érnénk.",
+            "ro": "Safi iarna este ideal de parcurs cu mașina, mai ales când serile devin răcoroase. Dimineața începe la Monumentul Tajine sub un cer albastru strălucitor. La prânz explorăm muzeele și porțile, în timp ce mașina este încălzită plăcut de soarele de iarnă. După-amiaza târziu ne îndreptăm spre castelul mării, înainte de a ajunge la plajă exact pentru apusul de la ora 17:00.",
+            "en": "Safi in winter is ideal to explore by car, especially as evenings get chilly. Start your morning at the Tajine monument under a bright blue sky. At noon, visit museums and gates while the car warms up in the winter sun. In the late afternoon, head to the Sea Castle before arriving at the beach just in time for the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tajine-Denkmal",
+                "hu": "Tajine emlékmű",
+                "ro": "Monumentul Tajine",
+                "en": "Tajine"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den kurzen Stopp am Denkmal erfrischend; nutzen Sie das klare Licht für scharfe Architekturfotos.",
+                "hu": "A hűvös reggeli levegő frissítővé teszi a rövid megállót; használja ki a tiszta fényeket az éles építészeti fotókhoz.",
+                "ro": "Aerul răcoros de dimineață face oprirea scurtă revigorantă; profitați de lumina clară pentru fotografii de arhitectură reușite.",
+                "en": "The cool morning air makes the short stop refreshing; take advantage of the clear light for sharp architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts City",
+                "hu": "Művészetek Városa (Arts City)",
+                "ro": "Arts City",
+                "en": "Arts City"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Haupteingangs und genießen Sie den Kontrast zwischen der kühlen Außenluft und dem milden Inneren des Museums.",
+                "hu": "Parkoljon a főbejárat közelében, és élvezze a hűvös külső levegő és a múzeum enyhe belső tere közötti kontrasztot.",
+                "ro": "Parcați lângă intrarea principală și bucurați-vă de contrastul dintre aerul rece de afară și interiorul blând al muzeului.",
+                "en": "Park near the main entrance and enjoy the contrast between the cool outdoor air and the mild interior of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Shaaba",
+                "hu": "Bab Shaaba",
+                "ro": "Bab Shaaba",
+                "en": "Bab Shaaba"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist das Licht hier am besten; parken Sie kurz und spazieren Sie durch das Tor, bevor die Sonne am Nachmittag tiefer sinkt.",
+                "hu": "Délben a legjobbak itt a fényviszonyok; parkoljon le rövid időre, és sétáljon át a kapun, mielőtt a nap délután alacsonyabbra kerülne.",
+                "ro": "La prânz lumina este cea mai bună aici; parcați scurt și plimbați-vă prin poartă înainte ca soarele să coboare după-amiaza.",
+                "en": "Light conditions are best here at noon; park briefly and walk through the gate before the sun dips lower in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Portugiesische Kathedrale",
+                "hu": "Portugál Katedrális",
+                "ro": "Catedrala Portugheză",
+                "en": "Cathédrale Portugaise"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Besucher da; Sie finden leicht einen Parkplatz, um die gotischen Ruinen in aller Ruhe zu besichtigen.",
+                "hu": "Télen kevesebb a látogató; könnyen talál parkolót, hogy teljes nyugalomban tekinthesse meg a gótikus romokat.",
+                "ro": "Iarna sunt mai puțini vizitatori; veți găsi ușor un loc de parcare pentru a vizita ruinele gotice în liniște.",
+                "en": "Fewer visitors are around in winter; you'll easily find a parking spot to view the Gothic ruins in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Qasr al-Bahr (Meeresburg)",
+                "hu": "Qasr al-Bahr (Tengeri kastély)",
+                "ro": "Qasr al-Bahr (Castelul Mării)",
+                "en": "Qasr al-Bahr, or the Sea Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg gegen 16:00 Uhr, wenn die Wintersonne die Mauern rot färbt; Parkplätze direkt an der Festung sind vorhanden.",
+                "hu": "Látogasson el a várhoz 16:00 körül, amikor a téli nap vörösre festi a falakat; parkolóhelyek közvetlenül az erőd mellett találhatók.",
+                "ro": "Vizitați castelul în jurul orei 16:00, când soarele de iarnă înroșește zidurile; locuri de parcare sunt disponibile chiar lângă fortăreață.",
+                "en": "Visit the castle around 16:00 when the winter sun turns the walls red; parking spaces are available right next to the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Safi (Stadtstrand)",
+                "hu": "Szafi tengerpart (Plage de Safi)",
+                "ro": "Plaja din Safi",
+                "en": "Plage de Safi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für den Sonnenuntergang um 17:00 Uhr mit Blick aufs Meer; die Heizung im Auto macht das Erlebnis besonders gemütlich.",
+                "hu": "Parkoljon le a 17:00-s naplementére az óceánra nézve; az autó fűtése különösen kényelmessé teszi az élményt.",
+                "ro": "Parcați pentru apusul de la ora 17:00 cu vedere la ocean; căldura din mașină face experiența deosebit de confortabilă.",
+                "en": "Park for the 17:00 sunset with a view of the ocean; the car's heater makes the experience particularly cozy."
+              }
+            }
+          ]
+        }
       }
     }
   }

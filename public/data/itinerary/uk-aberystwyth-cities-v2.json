@@ -183,6 +183,224 @@
         "hu": "1. Kezdje a reggelt a történelmi vasútállomáson, majd sétáljon dél felé, hogy élvezze a South Beach nyugodt, óceánparti hangulatát a friss levegőn. \n2. Délidőben fedezze fel az aberystwythi kastély középkori történelmét, és csodálja meg a híres Old College lenyűgöző neogótikus homlokzatát a közelben. \n3. A kora délutánt a gazdag walesi kultúra és a műtárgyak felfedezésével töltheti a csodálatosan egyedi, egy régi színházban helyet kapó Ceredigion Múzeumban. \n4. Késő délután utazzon fel a bájos siklóval a Constitution Hillre, és figyelje, ahogy a naplemente aranyos árnyalatokat vet a hatalmas öbölre.",
         "ro": "1. Începeți dimineața la gara istorică, absorbind moștenirea industrială înainte de a merge spre sud pentru a vă bucura de atmosfera liniștită a plajei de sud. \n2. La apropierea prânzului, explorați istoria medievală a Castelului Aberystwyth și admirați fațada neogotică impresionantă a faimosului Old College din apropiere. \n3. Petreceți după-amiaza descoperind bogata cultură galeză în minunatul Muzeu Ceredigion, găzduit într-un vechi teatru cu o arhitectură deosebit de elegantă. \n4. După-amiaza târziu, luați funicularul spre Constitution Hill și priviți cum apusul aruncă nuanțe aurii peste vastul golf al orașului înainte de cină.",
         "en": "1. Start your morning at the historic railway station, soaking up the industrial heritage before walking south to enjoy the tranquil atmosphere of South Beach. \n2. As midday approaches, delve into the medieval history of Aberystwyth Castle and admire the striking neo-Gothic facade of the famous Old College nearby. \n3. Spend your early afternoon discovering rich Welsh culture and artifacts in the wonderfully unique Ceredigion Museum, housed in an old theatre. \n4. In the late afternoon, take the delightful cliff railway up to Constitution Hill, watching the sunset cast golden hues across the vast bay before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach des Bahnhofs, während der Dampf der Lokomotiven in den grauen Himmel steigt. Mittags suchen wir Zuflucht in den historischen Mauern des Museums, um dem peitschenden Regen zu entgehen. Am Nachmittag bietet die Standseilbahn einen trockenen Aufstieg mit Blick auf die stürmische See. Den Abend lassen wir bei den Lichtern der nassen Stadt ausklingen.",
+            "hu": "A reggelt a vasútállomás fedett peronján kezdjük, miközben a gőzmozdony füstje elvegyül az esőfelhőkkel. Délben a várromok és a múzeum kínálnak menedéket a tenger felől érkező záporok elől. Délután a sikló zárt kabinjából csodáljuk a tajtékzó hullámokat és a vizes háztetőket. Este a kikötő környékén sétálunk, ahol a városi fények vibrálva tükröződnek a csúszós, vizes aszfalton.",
+            "ro": "Dimineața începe sub adăpostul gării, unde aburul locomotivelor se ridică în cerul plumburiu. La prânz, căutăm refugiu în zidurile istorice ale muzeului pentru a scăpa de ploaia tăioasă de pe coastă. După-amiaza, funicularul ne oferă o urcare uscată, cu o vedere panoramică asupra mării învolburate. Seara se încheie printre luminile orașului care se oglindesc spectaculos în bălțile de pe trotuar.",
+            "en": "The morning begins under the shelter of the railway station as steam mingles with the rain-heavy sky. At noon, we seek refuge within the historic museum walls to escape the lashing coastal showers. In the afternoon, the cliff railway provides a dry ascent with views of the churning Atlantic waves. The evening winds down among the city lights reflecting off the wet, shimmering pavements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vale of Rheidol Railway",
+                "hu": "Vale of Rheidol Vasút",
+                "ro": "Vale of Rheidol Railway",
+                "en": "Vale of Rheidol Railway"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt in den geschlossenen Waggons, die einen gemütlichen Rückzugsort vor dem Regen bieten, während die neblige Landschaft am Fenster vorbeizieht.",
+                "hu": "Élvezze az utazást a zárt kocsik kényelmében, amelyek tökéletes menedéket nyújtanak az eső elől, miközben a ködös völgy látványa elsuhan az ablak előtt.",
+                "ro": "Bucurați-vă de călătorie în vagoanele închise, care oferă un refugiu confortabil împotriva ploii, în timp ce peisajul cețos trece prin fața ferestrei.",
+                "en": "Enjoy the journey in the enclosed carriages, which provide a cozy sanctuary from the rain while the misty valley scenery glides past your window."
+              }
+            },
+            {
+              "name": {
+                "de": "South Beach",
+                "hu": "Déli Strand",
+                "ro": "Plaja de Sud",
+                "en": "South Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen vom befestigten Uferdamm aus, aber tragen Sie feste Regenbekleidung, da die Gischt oft weit über die Promenade spritzt.",
+                "hu": "Figyelje a drámai hullámokat a kiépített partfal mellől, de viseljen strapabíró esőkabátot, mert a sós permetet messzire hordja a szél a sétányon.",
+                "ro": "Observați valurile dramatice de pe faleza fortificată, dar purtați haine de ploaie rezistente, deoarece stropii de apă sar adesea departe pe promenadă.",
+                "en": "Watch the dramatic waves from the fortified sea wall, but wear heavy-duty waterproofs as the sea spray is often carried far across the promenade by the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Aberystwyth",
+                "hu": "Aberystwythi Kastély",
+                "ro": "Castelul Aberystwyth",
+                "en": "Aberystwyth Castle"
+              },
+              "tip_5lang": {
+                "de": "Die alten Ruinen wirken im Regen besonders mystisch, doch die grasbewachsenen Pfade sind extrem rutschig; bleiben Sie für einen sicheren Halt auf den Steinflächen.",
+                "hu": "Az ódon romok az esőben különösen misztikusak, de a füves ösvények rendkívül csúszósak; a biztonságos járás érdekében maradjon a kövezett felületeken.",
+                "ro": "Ruinele vechi par deosebit de mistice în ploaie, dar potecile înierbate sunt extrem de alunecoase; rămâneți pe suprafețele de piatră pentru stabilitate.",
+                "en": "The ancient ruins look particularly mystical in the rain, but the grassy paths are extremely slippery; stay on the stone surfaces for a secure footing."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes College",
+                "hu": "Öreg Kollégium",
+                "ro": "Colegiul Vechi",
+                "en": "Old College"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotische Architektur vom gegenüberliegenden Arkadengang aus, um trocken zu bleiben und die dunkle Färbung des nassen Gesteins zu fotografieren.",
+                "hu": "Csodálja meg a gótikus építészetet a szemközti árkádok alól, hogy száraz maradjon, miközben lefotózza a vizes kőfalak sötét és méltóságteljes színét.",
+                "ro": "Admirați arhitectura gotică de sub arcadele de vizavi pentru a rămâne uscat, în timp ce fotografiați culoarea închisă a pietrei ude.",
+                "en": "Admire the Gothic architecture from the opposite arcades to stay dry while photographing the dark, majestic hue of the wet stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceredigion Museum",
+                "hu": "Ceredigion Múzeum",
+                "ro": "Muzeul Ceredigion",
+                "en": "Ceredigion Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um sich vollständig aufzuwärmen und die lokalen Exponate im Inneren des ehemaligen Kinos zu erkunden, während es draußen stürmt.",
+                "hu": "Ez a tökéletes hely a teljes felmelegedésre és a helyi kiállítások felfedezésére az egykori mozi épületében, miközben odakint tombol a tengeri vihar.",
+                "ro": "Acesta este locul ideal pentru a vă încălzi complet și pentru a explora exponatele locale în interiorul fostului cinematograf, în timp ce afară plouă.",
+                "en": "This is the perfect place to fully warm up and explore local exhibits inside the former cinema building while the coastal storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberystwyth Standseilbahn",
+                "hu": "Aberystwythi Sikló",
+                "ro": "Funicularul Aberystwyth",
+                "en": "Aberystwyth Cliff Railway"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die geschlossenen Wagen der historischen Bahn für eine trockene Fahrt zum Gipfel, auch wenn die Sicht durch Regentropfen auf den Scheiben etwas getrübt ist.",
+                "hu": "Használja a történelmi sikló zárt kocsijait a száraz feljutáshoz, még ha az ablakokon lefolyó esőcseppek kissé el is homályosítják a parti kilátást.",
+                "ro": "Utilizați vagoanele închise ale funicularului istoric pentru o urcare uscată, chiar dacă picăturile de ploaie de pe geamuri blochează parțial vederea spre coastă.",
+                "en": "Use the historical funicular's enclosed cars for a dry ascent, even if the raindrops on the windows slightly blur the view of the coastline below."
+              }
+            },
+            {
+              "name": {
+                "de": "Constitution Hill",
+                "hu": "Constitution-hegy",
+                "ro": "Dealul Constitution",
+                "en": "Constitution Hill"
+              },
+              "tip_5lang": {
+                "de": "Die Camera Obscura bietet einen geschützten Aussichtspunkt; achten Sie beim Abstieg jedoch unbedingt auf den schlammigen Untergrund der Wanderwege.",
+                "hu": "A Camera Obscura védett kilátópontot kínál, de a lefelé vezető úton fokozottan ügyeljen a meredek ösvények sáros és csúszós talajára.",
+                "ro": "Camera Obscura oferă un punct de observație protejat; totuși, la coborâre, aveți mare grijă la solul noroios și alunecos al potecilor.",
+                "en": "The Camera Obscura offers a sheltered viewpoint, but on the way down, be extremely careful of the muddy and slippery ground on the steep paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Meer weckt die Lebensgeister, wenn der Wind von der Irischen See weht. Mittags wärmen wir uns in den Galerien und Museen der Stadt auf, während die tiefstehende Sonne lange Schatten wirft. Der Nachmittag endet früh, wenn die Dämmerung gegen 16:30 Uhr einsetzt. Am Abend erstrahlen die Lichter des Piers in der kalten, klaren Winterluft über den dunklen Wellen.",
+            "hu": "A fagyos reggel a tengerparton azonnal felébreszti az embert, ahogy a jeges szél befúj az Ír-tenger felől. Délben a város galériáiban és múzeumaiban melegedünk fel, miközben az alacsonyan járó nap hosszú árnyékokat vet. A délután hamar véget ér, hiszen fél ötkor már beköszönt a szürkület. Este a móló fényei élesen világítanak a hideg, tiszta téli levegőben a sötét hullámok felett.",
+            "ro": "O dimineață geroasă pe malul mării vă va trezi instantaneu, în timp ce vântul rece suflă dinspre Marea Irlandei. La prânz, ne încălzim în galeriile și muzeele orașului, în timp ce soarele jos proiectează umbre lungi. După-amiaza se termină repede, amurgul instalându-se deja pe la ora 16:30. Seara, luminile de pe dig strălucesc în aerul rece și limpede peste valurile întunecate.",
+            "en": "A frosty morning by the sea wakes you up instantly as the biting wind blows in from the Irish Sea. At noon, we warm up in the city's galleries and museums while the low sun casts long, dramatic shadows. The afternoon ends early, with dusk settling in by 4:30 PM. In the evening, the pier lights shine brightly in the cold, clear winter air over the dark waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vale of Rheidol Railway",
+                "hu": "Vale of Rheidol Vasút",
+                "ro": "Vale of Rheidol Railway",
+                "en": "Vale of Rheidol Railway"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostige Winterlandschaft vom gemütlich beheizten Waggon aus, wobei der Dampf der Lokomotive in der kalten Luft besonders beeindruckend wirkt.",
+                "hu": "Élje át a zúzmarás téli táj élményét a kellemesen fűtött vagonokból, ahol a mozdony gőze a hideg levegőben különösen látványos jelenséget nyújt.",
+                "ro": "Experimentați peisajul înghețat de iarnă din vagoanele încălzite confortabil, unde aburul locomotivei pare deosebit de impresionant în aerul rece.",
+                "en": "Experience the frosty winter landscape from the comfortably heated carriages, where the locomotive's steam looks especially impressive in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "South Beach",
+                "hu": "Déli Strand",
+                "ro": "Plaja de Sud",
+                "en": "South Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang ist ideal, um die Starenschwärme zu beobachten; tragen Sie Thermo-Kleidung, um dem eisigen Wind am Ufer standzuhalten.",
+                "hu": "Egy tempós séta ideális a seregélyrajok megfigyeléséhez; viseljen réteges aláöltözetet, hogy ellenálljon a part menti jeges szélnek.",
+                "ro": "O plimbare rapidă este ideală pentru a observa stolurile de grauri; purtați haine termice pentru a rezista vântului tăios de pe malul mării.",
+                "en": "A brisk walk is ideal for watching the starling murmurations; wear thermal layers to withstand the icy wind blowing off the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Aberystwyth",
+                "hu": "Aberystwythi Kastély",
+                "ro": "Castelul Aberystwyth",
+                "en": "Aberystwyth Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen am frühen Nachmittag, wenn das goldene Winterlicht die Steine erwärmt, bevor der frühe Frost die Wege wieder gefrieren lässt.",
+                "hu": "Látogassa meg a romokat kora délután, amikor az aranybarna téli fény megvilágítja a köveket, mielőtt a korai fagy újra jégpáncélt vonna az utakra.",
+                "ro": "Vizitați ruinele la începutul după-amiezii, când lumina aurie de iarnă încălzește pietrele, înainte ca înghețul timpuriu să acopere din nou potecile.",
+                "en": "Visit the ruins in the early afternoon when the golden winter light illuminates the stones before the early frost refreezes the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes College",
+                "hu": "Öreg Kollégium",
+                "ro": "Colegiul Vechi",
+                "en": "Old College"
+              },
+              "tip_5lang": {
+                "de": "Die viktorianische Fassade wirkt im harten Winterlicht majestätisch; achten Sie auf glatte Stellen auf dem Vorplatz, die oft im Schatten liegen.",
+                "hu": "A viktoriánus homlokzat fenségesen mutat az éles téli fényben; ügyeljen a tér árnyékos részein megbújó csúszós foltokra.",
+                "ro": "Fațada victoriană arată maiestuos în lumina puternică de iarnă; aveți grijă la porțiunile alunecoase de pe esplanadă, care stau adesea în umbră.",
+                "en": "The Victorian facade looks majestic in the sharp winter light; watch out for slippery patches on the forecourt that often remain in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceredigion Museum",
+                "hu": "Ceredigion Múzeum",
+                "ro": "Muzeul Ceredigion",
+                "en": "Ceredigion Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den beheizten Innenräumen auf und nutzen Sie die Mittagsstunden, um die lokale Kultur ohne die klirrende Kälte draußen zu genießen.",
+                "hu": "Melegedjen fel a fűtött belső terekben, és használja ki a déli órákat a helyi kultúra felfedezésére, elkerülve a kinti csípős hideget.",
+                "ro": "Încălziți-vă în spațiile interioare și folosiți orele prânzului pentru a explora cultura locală fără a îndura frigul pătrunzător de afară.",
+                "en": "Warm up in the heated interiors and use the midday hours to explore local culture without enduring the biting cold outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Aberystwyth Standseilbahn",
+                "hu": "Aberystwythi Sikló",
+                "ro": "Funicularul Aberystwyth",
+                "en": "Aberystwyth Cliff Railway"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie kurz vor 16:00 Uhr hoch, um den spektakulären Wintersonnenuntergang über dem Atlantik zu erleben, bevor es oben zu kalt wird.",
+                "hu": "Utazzon fel délután 4 óra előtt, hogy elcsípje a spektakuláris téli naplementét az Atlanti-óceán felett, mielőtt odafent túl hideg lenne.",
+                "ro": "Urcați cu puțin înainte de ora 16:00 pentru a surprinde apusul spectaculos de iarnă peste Atlantic, înainte de a se face prea frig sus.",
+                "en": "Ride up just before 4 PM to catch the spectacular winter sunset over the Atlantic before it gets too cold on the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Constitution Hill",
+                "hu": "Constitution-hegy",
+                "ro": "Dealul Constitution",
+                "en": "Constitution Hill"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die beleuchtete Stadt im frühen Dunkeln; ein heißes Getränk im Gipfelcafé ist nun ein absolutes Muss.",
+                "hu": "Élvezze a kivilágított város panorámáját a korai sötétedésben; egy forró ital a fenti kávézóban ilyenkor szinte kötelező program.",
+                "ro": "Bucurați-vă de panorama orașului iluminat la lăsarea timpurie a serii; o băutură caldă la cafeneaua de sus este acum indispensabilă.",
+                "en": "Enjoy the panorama of the illuminated town in the early darkness; a hot drink at the summit cafe is an absolute must at this time."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "1. Kezdje a kerékpártúrát a város felett magasodó Nemzeti Könyvtárban, ahol irodalmi kincseket és reggeli panorámás kilátást élvezhet a tengerre. \n2. Tekerjen dél felé a Traeth Tan-y-bwlch távoli szépségéhez, amely tökéletes a nyüzsgés elől való menekülésre, mielőtt visszatérne a várromokhoz. \n3. Fedezze fel a középkori aberystwythi kastélyt és a háborús emlékművet, majd kerékpározzon végig a North Beach élettel teli, hangulatos sétányán. \n4. Fejezze be az aktív napot a Constitution Hill megmászásával és a gyönyörű Clarach-öbölbe való eljutással, ahol a parti szellő frissíti fel estére.",
         "ro": "1. Începeți turul cu bicicleta deasupra orașului la magnifica Bibliotecă Națională, admirând comori literare și vederi panoramice de dimineață. \n2. Pedalați spre sud către frumusețea izolată a plajei Traeth Tan-y-bwlch, o plajă liniștită perfectă pentru a scăpa de agitație înainte de a reveni la ruine. \n3. Explorați Castelul medieval Aberystwyth și onorați eroii la Monumentul Eroilor, apoi pedalați de-a lungul promenadei vibrante de la North Beach. \n4. Încheiați ziua activă urcând pe Constitution Hill și continuând spre frumosul golf Clarach, unde briza coastei vă recompensează călătoria de seară.",
         "en": "1. Kick off your cycling tour high above the town at the magnificent National Library, taking in literary treasures and panoramic morning views. \n2. Pedal southward to the remote beauty of Traeth Tan-y-bwlch, a quiet shingle beach perfect for escaping the bustle before riding back to the historic ruins. \n3. Explore the medieval Aberystwyth Castle and honor local heroes at the War Memorial, then cycle along the vibrant promenade of North Beach. \n4. Finish your active day by ascending Constitution Hill and riding onward to the beautiful Clarach Bay, where the coastal breeze rewards your evening journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer vorsichtigen Fahrt zur Nationalbibliothek, wo wir uns zunächst im Trockenen orientieren. Mittags fordern uns der nasse Küstenwind und die rutschigen Wege entlang der Strände heraus. Am Nachmittag suchen wir Schutz in den Gassen beim Schloss, während die Reifen auf dem Kopfsteinpflaster Halt suchen. Den Abend verbringen wir bei einer wetterfesten Fahrt zum Clarach Beach.",
+            "hu": "A napot egy óvatos tekeréssel kezdjük a Nemzeti Könyvtárig, ahol fedett helyen készülhetünk fel a túrára. Délben a nedves parti szél és a csúszós tengerparti utak állítják kihívás elé a bicikliseket. Délután a vár környéki sikátorokban keresünk menedéket, miközben a kerekek a nedves macskakövön táncolnak. Az estét egy időjárásálló tekeréssel zárjuk a Clarach strand felé.",
+            "ro": "Ziua începe cu o plimbare prudentă spre Biblioteca Națională, unde ne orientăm la adăpost. La prânz, vântul umed de coastă și pistele alunecoase de lângă plaje reprezintă o provocare. După-amiaza căutăm protecție pe străduțele de lângă castel, în timp ce cauciucurile caută aderență pe pavajul ud. Seara se încheie cu o tură rezistentă la intemperii spre plaja Clarach.",
+            "en": "The day starts with a cautious ride to the National Library, where we get our bearings in the dry. At noon, the wet coastal wind and slippery beach paths challenge even experienced cyclists. In the afternoon, we seek shelter in the lanes near the castle as tires grip the wet cobblestones. The evening concludes with a weatherproof ride towards Clarach Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalbibliothek von Wales",
+                "hu": "Walesi Nemzeti Könyvtár",
+                "ro": "Biblioteca Națională a Țării Galilor",
+                "en": "National Library of Wales"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer und erkunden Sie die Ausstellungen im Inneren, um den ersten Regenschauern des Tages zu entgehen.",
+                "hu": "Használja a fedett kerékpártárolót, és fedezze fel a benti kiállításokat, hogy elkerülje a nap első nagyobb záporait.",
+                "ro": "Folosiți suportul de biciclete acoperit și explorați expozițiile din interior pentru a evita primele averse ale zilei.",
+                "en": "Utilize the sheltered bike racks and explore the indoor exhibitions to avoid the day's first heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Tan-y-bwlch",
+                "hu": "Tan-y-bwlch Strand",
+                "ro": "Plaja Tan-y-bwlch",
+                "en": "Traeth Tan-y-bwlch"
+              },
+              "tip_5lang": {
+                "de": "Die Wege hier können bei Regen sehr matschig werden; fahren Sie langsam und achten Sie auf Pfützen, die tiefer sein könnten, als sie scheinen.",
+                "hu": "Az utak itt nagyon sárossá válhatnak az esőben; tekerjen lassan, és ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint aminek látszanak.",
+                "ro": "Drumurile pot deveni foarte noroioase aici; pedalați încet și aveți grijă la bălțile care pot fi mai adânci decât par la prima vedere.",
+                "en": "The paths here can become very muddy in the rain; ride slowly and watch out for puddles that might be deeper than they first appear."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Aberystwyth",
+                "hu": "Aberystwythi Kastély",
+                "ro": "Castelul Aberystwyth",
+                "en": "Aberystwyth Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Kopfsteinpflaster am Schlosseingang ist bei Nässe tückisch; steigen Sie am besten ab und schieben Sie Ihr Rad auf den befestigten Gehwegen.",
+                "hu": "A várbejáratnál lévő macskakő vizesen nagyon trükkös; a legjobb, ha leszáll a nyeregből és tolja a biciklit a kövezett részeken.",
+                "ro": "Pavajul de la intrarea în castel este înșelător pe ploaie; cel mai bine este să coborâți și să împingeți bicicleta pe trotuarele pavate.",
+                "en": "The cobblestones at the castle entrance are treacherous when wet; it is best to dismount and wheel your bike on the paved sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Háborús Emlékmű",
+                "ro": "Monumentul Eroilor",
+                "en": "War Memorial"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto reicht aus, da die exponierte Lage an der Promenade Sie dem starken Wind und peitschenden Regen schutzlos aussetzt.",
+                "hu": "Egy rövid fotómegálló bőven elég itt, mivel a sétány nyitott része teljesen kiszolgáltatja Önt az erős szélnek és a verőfényes esőnek.",
+                "ro": "O scurtă oprire pentru poze este suficientă, deoarece locația expusă de pe faleză vă lasă fără apărare în fața vântului și a ploii.",
+                "en": "A quick photo stop is enough here, as the exposed promenade location leaves you fully vulnerable to the strong winds and lashing rain."
+              }
+            },
+            {
+              "name": {
+                "de": "North Beach",
+                "hu": "Északi Strand",
+                "ro": "Plaja de Nord",
+                "en": "North Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf der Straßenseite statt direkt am Geländer, um der salzigen Gischt zu entgehen, die Ihr Rad korrodieren lassen und die Sicht trüben könnte.",
+                "hu": "Tekerjen inkább az út belső oldalán, hogy elkerülje a sós tengeri permetet, amely korrodálhatja a biciklit és rontja a látási viszonyokat.",
+                "ro": "Pedalați pe partea drumului, nu lângă balustradă, pentru a evita vaporii sărați care pot coroda bicicleta și vă pot bloca vizibilitatea.",
+                "en": "Ride on the road side rather than by the railings to avoid the salty sea spray which can corrode your bike and blur your vision."
+              }
+            },
+            {
+              "name": {
+                "de": "Constitution Hill",
+                "hu": "Constitution-hegy",
+                "ro": "Dealul Constitution",
+                "en": "Constitution Hill"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen extrem kraftraubend und rutschig; prüfen Sie vor der Abfahrt unbedingt die Funktionstüchtigkeit Ihrer Bremsen.",
+                "hu": "Az emelkedő esőben rendkívül kimerítő és csúszós; lefelé menet előtt mindenképpen ellenőrizze a fékek kifogástalan működését.",
+                "ro": "Urcarea este extrem de obositoare și alunecoasă pe ploaie; înainte de a coborî, verificați neapărat funcționarea corectă a frânelor.",
+                "en": "The climb is extremely exhausting and slippery in the rain; be sure to check your brakes' functionality before attempting the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Clarach",
+                "hu": "Clarach Strand",
+                "ro": "Plaja Clarach",
+                "en": "Clarach Beach"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie den Weg über die Straße statt den Klippenpfad, da dieser bei starkem Regen instabil werden kann und keine Unterstellmöglichkeiten bietet.",
+                "hu": "Inkább a közutat válassza a szikla menti ösvény helyett, mert az esőben instabillá válhat és semmilyen fedett menedéket nem kínál.",
+                "ro": "Alegeți drumul principal în locul potecii de pe faleză, deoarece aceasta poate deveni instabilă pe ploaie și nu oferă niciun adăpost.",
+                "en": "Opt for the main road instead of the cliff path, as the trail can become unstable in heavy rain and offers no sheltered spots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Morgenluft bei der Nationalbibliothek ist eine Herausforderung für jeden Radfahrer. Mittags führt die Route entlang der Küste, wo die Wintersonne auf den Wellen glitzert, aber der Wind eiskalt ist. Am Nachmittag suchen wir die geschützten Wege der Stadt auf, bevor das Licht schwindet. Der Abend kommt früh, daher beenden wir die Tour bei Clarach Beach noch vor dem vollständigen Dunkelwerden.",
+            "hu": "A Nemzeti Könyvtárnál harapni lehet a fagyos reggeli levegőt, ami próbára teszi a kitartást. Délben az útvonal a parton halad, ahol a téli nap megcsillan a hullámokon, de a szél metszően hideg. Délután a város védettebb utcáit keressük fel, mielőtt végleg elfogyna a fény. Az este hamar leszáll, így a Clarach strandnál a túrát még a sötétség előtt befejezzük.",
+            "ro": "Aerul înghețat al dimineții de lângă Biblioteca Națională este o provocare pentru orice biciclist. La prânz, traseul urmează coasta, unde soarele de iarnă sclipește pe valuri, dar vântul este tăios. După-amiaza căutăm drumurile mai protejate ale orașului înainte ca lumina să dispară. Seara vine repede, așa că încheiem tura la Clarach Beach înainte de întuneric.",
+            "en": "The frosty morning air near the National Library is a true test of endurance for any cyclist. At noon, the route follows the coast where winter sun glitters on waves, but the wind is freezing. In the afternoon, we seek the town's more sheltered paths before the light fades. Evening comes early, so we finish our ride at Clarach Beach before total darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalbibliothek von Wales",
+                "hu": "Walesi Nemzeti Könyvtár",
+                "ro": "Biblioteca Națională a Țării Galilor",
+                "en": "National Library of Wales"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt vom Hügel, da der Fahrtwind bei Minustemperaturen extrem in die Finger schneidet.",
+                "hu": "Viseljen szélálló kesztyűt a dombról való leguruláshoz, mert a menetszél fagypont körüli hőmérsékletnél nagyon hamar lefagyasztja az ujjait.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborârea dealului, deoarece vântul la temperaturi scăzute vă va îngheța degetele foarte rapid.",
+                "en": "Wear windproof gloves for the descent from the hill, as the wind chill at near-freezing temperatures will numb your fingers very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Tan-y-bwlch",
+                "hu": "Tan-y-bwlch Strand",
+                "ro": "Plaja Tan-y-bwlch",
+                "en": "Traeth Tan-y-bwlch"
+              },
+              "tip_5lang": {
+                "de": "Der Kieselstrand ist bei Frost oft mit einer Eisschicht überzogen; bleiben Sie mit dem Rad auf den festen, geräumten Wegen im Hinterland.",
+                "hu": "A kavicsos partot fagy esetén gyakran jégréteg borítja; maradjon a biciklivel a belsőbb, szilárd és letakarított utakon.",
+                "ro": "Plaja cu pietriș este adesea acoperită cu gheață; rămâneți cu bicicleta pe drumurile solide și curățate din spatele falezei.",
+                "en": "The pebble beach is often covered in frost or ice; keep your bike on the solid, cleared paths further inland to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Aberystwyth",
+                "hu": "Aberystwythi Kastély",
+                "ro": "Castelul Aberystwyth",
+                "en": "Aberystwyth Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte; nutzen Sie diesen Stopp nur kurz zur Orientierung und fahren Sie weiter, um Ihren Kreislauf in Schwung zu halten.",
+                "hu": "A kövek ontják magukból a hideget; csak rövid ideig álljon meg tájékozódni, és tekerjen tovább, hogy mozgásban tartsa a vérkeringését.",
+                "ro": "Pietrele emană frigul; folosiți această oprire doar scurt pentru orientare și continuați drumul pentru a vă menține circulația activă.",
+                "en": "The stones radiate cold; keep this stop brief for orientation and continue cycling to keep your blood circulation moving and stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Háborús Emlékmű",
+                "ro": "Monumentul Eroilor",
+                "en": "War Memorial"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da der Nebel und die frühe Dämmerung die Sichtbarkeit an der Promenade stark einschränken.",
+                "hu": "Győződjön meg róla, hogy a világítása tökéletesen működik, mert a pára és a korai szürkület jelentősen rontja a láthatóságot a sétányon.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece ceața și amurgul timpuriu reduc drastic vizibilitatea pe promenadă.",
+                "en": "Ensure your bike lights are working perfectly, as the mist and early twilight significantly reduce visibility along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "North Beach",
+                "hu": "Északi Strand",
+                "ro": "Plaja de Nord",
+                "en": "North Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind weht hier oft Sand auf den Radweg, der bei Kälte hart und rutschig sein kann; fahren Sie mit angemessenem Reifendruck.",
+                "hu": "A téli szél gyakran homokot hord a kerékpárútra, ami a hidegben kemény és csúszós lehet; közlekedjen megfelelő guminyomással.",
+                "ro": "Vântul de iarnă aduce adesea nisip pe pistă, care poate fi tare și alunecos la frig; pedalați cu o presiune adecvată în anvelope.",
+                "en": "Winter winds often blow sand onto the bike path, which can be hard and slippery in the cold; ride with appropriate tire pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Constitution Hill",
+                "hu": "Constitution-hegy",
+                "ro": "Dealul Constitution",
+                "en": "Constitution Hill"
+              },
+              "tip_5lang": {
+                "de": "Ein anstrengender Tritt nach oben wärmt Sie auf, aber oben angekommen sollten Sie sofort eine warme Schicht überziehen, um nicht auszukühlen.",
+                "hu": "A kemény pedálozás felfelé jól felmelegíti, de amint felért, azonnal vegyen fel egy meleg réteget, hogy ne fázzon meg a szélben.",
+                "ro": "Pedalatul intens spre vârf vă va încălzi, dar imediat ce ajungeți sus, puneți-vă un strat gros de haine pentru a nu răci în vânt.",
+                "en": "A hard pedal to the top will warm you up, but once you arrive, put on an extra layer immediately to avoid catching a chill in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Clarach",
+                "hu": "Clarach Strand",
+                "ro": "Plaja Clarach",
+                "en": "Clarach Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor 17:00 Uhr, da die unbeleuchteten Wege zurück nach Aberystwyth bei Dunkelheit und Frost gefährlich sind.",
+                "hu": "Fejezze be a túrát délután 5 előtt, mert a kivilágítatlan utak vissza Aberystwythbe sötétben és fagyban veszélyesek lehetnek.",
+                "ro": "Încheiați tura înainte de ora 17:00, deoarece drumurile neiluminate înapoi spre Aberystwyth sunt periculoase pe întuneric și îngheț.",
+                "en": "Finish your ride before 5 PM, as the unlit paths back to Aberystwyth are dangerous in total darkness and freezing temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "1. Vezessen ki korán a Clarach Beach-re, hogy a friss reggeli levegőn élvezze a zord tengerparti tájat, és hallgassa az óceán hullámainak lágy morajlását. \n2. Ezután irány a Constitution Hill a lenyűgöző kilátásért, majd látogasson el a walesi Nemzeti Könyvtárba, hogy elmerüljön a kelta történelemben. \n3. Ebéd után parkoljon le a városközpont közelében, és fedezze fel a Ceredigion Múzeum kiállításait, valamint az aberystwythi kastély tengerparti romjait. \n4. Fejezze be autós túráját a békés Traeth Tan-y-bwlch természetvédelmi területen, figyelve, ahogy a nap a horizont alá bukik a csendes part felett.",
         "ro": "1. Conduceți devreme la Clarach Beach pentru a vă bucura de peisajul de coastă stâncos în aerul proaspăt al dimineții, ascultând valurile blânde ale oceanului. \n2. Apoi, mergeți la Constitution Hill pentru vederi ample înainte de a naviga spre măreața Bibliotecă Națională pentru a vă scufunda în istoria celtică. \n3. După prânz, parcați aproape de centru pentru a descoperi exponatele de la Muzeul Ceredigion și ruinele dramatice de la malul mării ale Castelului Aberystwyth. \n4. Încheiați turul cu mașina la rezervația naturală liniștită Traeth Tan-y-bwlch, urmărind soarele cum apune peste țărmurile tăcute de pietriș.",
         "en": "1. Drive out to Clarach Beach early to enjoy the rugged coastal scenery in the fresh morning air, listening to the gentle crash of the ocean waves. \n2. Next, head to Constitution Hill for expansive views before navigating to the grand National Library of Wales to immerse yourself in Celtic history and art. \n3. After lunch, park near the town center to discover the fascinating exhibits at the Ceredigion Museum and the dramatic seaside ruins of Aberystwyth Castle. \n4. Conclude your driving tour at the peaceful Traeth Tan-y-bwlch nature reserve, watching the sun dip below the horizon over the quiet shingle shores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im trockenen Auto und fahren zum Clarach Beach, um die Brandung durch die Scheiben zu beobachten. Mittags nutzen wir die Parkplätze direkt bei den Sehenswürdigkeiten, um die Wege im Regen kurz zu halten. Der Nachmittag gehört der Nationalbibliothek mit ihren weiten, trockenen Fluren. Den Abend lassen wir bei einer Fahrt entlang der beleuchteten, regnerischen Küstenstraße ausklingen.",
+            "hu": "A napot a száraz autó kényelmében kezdjük, és a Clarach strand felé vesszük az irányt, hogy az ablakon át nézzük a hullámzást. Délben közvetlenül a látnivalók melletti parkolókat használjuk, hogy minél kevesebbet kelljen az esőben gyalogolni. A délután a Nemzeti Könyvtáré, ahol hatalmas, száraz terek várnak. Az estét a kivilágított, eső áztatta parti út mentén autózva zárjuk.",
+            "ro": "Începem ziua în confortul mașinii și ne îndreptăm spre Clarach Beach pentru a privi valurile prin parbriz. La prânz, folosim parcările de lângă obiective pentru a scurta mersul prin ploaie. După-amiaza aparține Bibliotecii Naționale, cu spațiile sale vaste și uscate. Seara se încheie cu o plimbare cu mașina pe drumul de coastă iluminat și măturat de ploaie.",
+            "en": "We start comfortably in the dry car, heading to Clarach Beach to watch the surf through the windows. At noon, we use parking lots directly by the sights to keep walks in the rain as short as possible. The afternoon is dedicated to the National Library with its vast, dry halls. The evening concludes with a drive along the illuminated, rain-swept coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand von Clarach",
+                "hu": "Clarach Strand",
+                "ro": "Plaja Clarach",
+                "en": "Clarach Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, sodass Sie das Naturschauspiel der stürmischen Wellen sicher und trocken von Ihrem Sitz aus genießen können.",
+                "hu": "Parkoljon a tengerre néző helyen, így biztonságban és szárazon, az üléséből élvezheti a viharos hullámok látványos természetes játékát.",
+                "ro": "Parcați cu fața spre mare, astfel încât să puteți savura spectacolul valurilor învolburate în siguranță și la uscat, direct din mașină.",
+                "en": "Park facing the sea so you can enjoy the natural spectacle of the stormy waves safely and dryly from the comfort of your car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Constitution Hill",
+                "hu": "Constitution-hegy",
+                "ro": "Dealul Constitution",
+                "en": "Constitution Hill"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Talstation der Standseilbahn, um trocken zum Gipfel zu gelangen, da die Serpentinenfahrt bei Regen rutschig sein kann.",
+                "hu": "Használja a sikló alsó állomásánál lévő parkolót, hogy szárazon jusson fel a csúcsra, mivel a szerpentines út vizesen nagyon csúszós lehet.",
+                "ro": "Folosiți parcarea de la stația de bază a funicularului pentru a ajunge uscat în vârf, deoarece drumul în serpentine poate fi periculos pe ploaie.",
+                "en": "Use the parking lot at the funicular's base station to reach the summit dryly, as the winding road can be quite slippery during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalbibliothek von Wales",
+                "hu": "Walesi Nemzeti Könyvtár",
+                "ro": "Biblioteca Națională a Țării Galilor",
+                "en": "National Library of Wales"
+              },
+              "tip_5lang": {
+                "de": "Der große Besucherparkplatz ist oft windanfällig; halten Sie beim Öffnen der Autotüren die Griffe fest, damit der Wind sie nicht aufschlägt.",
+                "hu": "A nagy látogatói parkoló gyakran szeles; az ajtónyitásnál fogja erősen a kilincset, nehogy a hirtelen széllökés kicsapja az autó ajtaját.",
+                "ro": "Parcarea mare pentru vizitatori este adesea expusă vântului; țineți bine portiera când o deschideți, pentru ca rafalele să nu o smulgă.",
+                "en": "The large visitor parking lot is often windy; hold your car door handle firmly when opening so the wind doesn't catch and swing it open."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceredigion Museum",
+                "hu": "Ceredigion Múzeum",
+                "ro": "Muzeul Ceredigion",
+                "en": "Ceredigion Museum"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus in der Innenstadt, um den Weg zum Museum unter überdachten Ladenzeilen zurücklegen zu können und trocken zu bleiben.",
+                "hu": "Keressen egy belvárosi parkolóházat, így a múzeumig tartó rövid sétát fedett üzletsorok alatt teheti meg, teljesen szárazon maradva.",
+                "ro": "Căutați o parcare acoperită în centru, astfel încât scurta plimbare spre muzeu să poată fi făcută sub arcadele magazinelor, la uscat.",
+                "en": "Look for a multi-storey car park in the town centre so your short walk to the museum can be taken under covered shop fronts to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Aberystwyth",
+                "hu": "Aberystwythi Kastély",
+                "ro": "Castelul Aberystwyth",
+                "en": "Aberystwyth Castle"
+              },
+              "tip_5lang": {
+                "de": "Es gibt begrenzte Parkmöglichkeiten direkt an der Promenade; nutzen Sie diese für einen schnellen Blick auf die Ruinen zwischen zwei Regenschauern.",
+                "hu": "A sétányon korlátozott számban vannak parkolóhelyek; használja ezeket egy gyors várnézéshez két zápor között, minimalizálva az esőben töltött időt.",
+                "ro": "Există locuri de parcare limitate pe promenadă; folosiți-le pentru o privire rapidă asupra ruinelor între două reprize de ploaie.",
+                "en": "There are limited parking spaces right on the promenade; use these for a quick view of the ruins between showers to minimize time in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Tan-y-bwlch",
+                "hu": "Tan-y-bwlch Strand",
+                "ro": "Plaja Tan-y-bwlch",
+                "en": "Traeth Tan-y-bwlch"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Strand kann bei starkem Regen überflutet sein; fahren Sie vorsichtig durch Wasserlachen und vermeiden Sie das Parken auf unbefestigtem Grund.",
+                "hu": "A strandhoz vezető út heves esőzéskor víz alá kerülhet; vezessen óvatosan a tócsákban, és kerülje a parkolást a felázott, puha talajon.",
+                "ro": "Drumul spre plajă poate fi inundat la ploi abundente; conduceți cu atenție prin bălți și evitați parcarea pe teren moale, neasfaltat.",
+                "en": "The road to the beach can flood during heavy rain; drive carefully through puddles and avoid parking on unpaved, soft ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Fahrt durch die frostige Landschaft zum Clarach Beach. Mittags genießen wir die Wärme im Auto, während wir zwischen den windgepeitschten Aussichtspunkten wechseln. Der Nachmittag wird in den beheizten Hallen der Nationalbibliothek verbracht, bevor die Sonne früh hinter dem Meer versinkt. Den Abend lassen wir bei einer gemütlichen Fahrt durch das beleuchtete Aberystwyth ausklingen.",
+            "hu": "A téli reggelt a zúzmarás tájon átvezető autózással kezdjük a Clarach strand felé. Délben élvezzük az autó fűtését, miközben a szeles kilátópontok között váltunk helyszínt. A délutánt a Nemzeti Könyvtár fűtött termeiben töltjük, mielőtt a nap korán eltűnne a tenger mögött. Az estét egy kellemes autózással zárjuk a kivilágított Aberystwyth utcáin.",
+            "ro": "Dimineața de iarnă începe cu o plimbare prin peisajul înghețat spre Clarach Beach. La prânz ne bucurăm de căldura din mașină în timp ce ne deplasăm între punctele de belvedere vântoase. După-amiaza este petrecută în sălile încălzite ale Bibliotecii Naționale înainte ca soarele să apună devreme. Seara se încheie cu o tură relaxantă prin Aberystwyth-ul iluminat.",
+            "en": "The winter morning begins with a drive through the frosty landscape towards Clarach Beach. At noon, we enjoy the car's heating while moving between the wind-swept viewpoints. The afternoon is spent in the heated halls of the National Library before the sun sets early behind the sea. The evening concludes with a pleasant drive through the illuminated streets of Aberystwyth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand von Clarach",
+                "hu": "Clarach Strand",
+                "ro": "Plaja Clarach",
+                "en": "Clarach Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz direkt am Ufer, da die Meeresbrise und nächtliche Minustemperaturen oft für eine gefährliche Eisschicht sorgen.",
+                "hu": "Ügyeljen a jegesedésre a közvetlenül a parton lévő parkolóban, mert a tengeri pára és az éjszakai fagy gyakran csúszós réteget hoz létre.",
+                "ro": "Aveți grijă la poleiul din parcarea de pe mal, deoarece briza mării și temperaturile negative de peste noapte creează adesea un strat de gheață.",
+                "en": "Watch out for black ice in the beachfront car park, as the sea mist and freezing overnight temperatures often create a treacherous slippery layer."
+              }
+            },
+            {
+              "name": {
+                "de": "Constitution Hill",
+                "hu": "Constitution-hegy",
+                "ro": "Dealul Constitution",
+                "en": "Constitution Hill"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz kann im Winter vereist sein; stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist, oder nutzen Sie die Standseilbahn.",
+                "hu": "A parkolóhoz vezető út télen jeges lehet; győződjön meg róla, hogy autója fel van készítve a télre, vagy válassza inkább a biztonságos siklót.",
+                "ro": "Drumul spre parcare poate fi înghețat iarna; asigurați-vă că mașina este echipată corespunzător sau alegeți să urcați cu funicularul.",
+                "en": "The drive to the parking area can be icy in winter; ensure your vehicle is winter-ready or opt for the funicular for a safer ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalbibliothek von Wales",
+                "hu": "Walesi Nemzeti Könyvtár",
+                "ro": "Biblioteca Națională a Țării Galilor",
+                "en": "National Library of Wales"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hügelstandort für einen Panoramablick aus dem warmen Auto, bevor Sie in das gut beheizte Gebäude für die Ausstellungen gehen.",
+                "hu": "Használja ki a dombtetői helyszínt a panorámás kilátáshoz a meleg autóból, mielőtt bemenne a jól fűtött épületbe a kiállítások megtekintésére.",
+                "ro": "Profitați de locația de pe deal pentru o vedere panoramică din mașina caldă, înainte de a intra în clădirea bine încălzită pentru expoziții.",
+                "en": "Take advantage of the hilltop location for a panoramic view from your warm car before heading into the well-heated building for the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Ceredigion Museum",
+                "hu": "Ceredigion Múzeum",
+                "ro": "Muzeul Ceredigion",
+                "en": "Ceredigion Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um der beißenden Winterkälte in den Straßenschluchten der Innenstadt nur kurz ausgesetzt zu sein.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy csak rövid ideig kelljen elviselnie a belvárosi utcákban terjengő metsző téli hideget.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în frigul tăios care se simte pe străzile din centrul orașului.",
+                "en": "Park as close to the entrance as possible to minimize your exposure to the biting winter cold that whistles through the town centre streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Aberystwyth",
+                "hu": "Aberystwythi Kastély",
+                "ro": "Castelul Aberystwyth",
+                "en": "Aberystwyth Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Ruinen im Abendlicht direkt von der Promenade aus; das warme Licht im Auto ist ein schöner Kontrast zur frostigen Kulisse.",
+                "hu": "Élvezze a romok látványát az esti fényben közvetlenül a sétányról; az autó belső melege kellemes kontrasztot nyújt a fagyos kinti díszletekhez.",
+                "ro": "Admirați ruinele în lumina serii direct de pe faleză; căldura din mașină oferă un contrast plăcut cu decorul înghețat de afară.",
+                "en": "Enjoy the view of the ruins in the evening light directly from the promenade; the car's interior warmth contrasts nicely with the frosty exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Tan-y-bwlch",
+                "hu": "Tan-y-bwlch Strand",
+                "ro": "Plaja Tan-y-bwlch",
+                "en": "Traeth Tan-y-bwlch"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp für den frühen Nachmittag ein, da es hier keine Straßenbeleuchtung gibt und die Rückfahrt bei Dunkelheit und Frost schwierig ist.",
+                "hu": "Ezt a megállót kora délutánra tervezze, mivel itt nincs közvilágítás, és a visszaút sötétben, jeges úton komoly odafigyelést igényel.",
+                "ro": "Planificați această oprire la începutul după-amiezii, deoarece nu există iluminat public aici, iar drumul de întoarcere pe întuneric este dificil.",
+                "en": "Plan this stop for the early afternoon, as there is no street lighting here and the return drive in darkness and frost requires extra caution."
+              }
+            }
+          ]
+        }
       }
     }
   }

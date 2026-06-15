@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a rejtett denevérbarlanghoz. A dél megidézi a Momong Beach érintetlen homokjának pihentető hangulatát. Délután élvezze a drámai tengerparti hullámokat a Pantai Lampuukon. Zárja a napot egy festői hegymeneti túrával a Gunung Mulieng irányába az alkonyatban.",
         "ro": "Începeți dimineața cu o plimbare revigorantă către peștera ascunsă a liliecilor. La prânz, relaxați-vă pe nisipurile imaculate de la plaja Momong. După-amiaza, bucurați-vă de valurile dramatice ale coastei la Pantai Lampuuk. Încheiați-vă ziua cu o drumeție pitorească spre Gunung Mulieng spre seară.",
         "en": "Begin your morning with a refreshing stroll to the hidden bat cave. Midday invites you to relax on the pristine sands of Momong Beach. In the afternoon, enjoy the dramatic coastal waves at Pantai Lampuuk. Conclude your day with a scenic uphill trek to Gunung Mulieng as dusk approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Fledermaushöhle, während draußen der Regen auf das Blätterdach prasselt. Mittags bieten die Cafés am Momong Beach einen trockenen Rückzugsort mit Blick auf das stürmische Meer. Am Nachmittag wird der Weg zum Pantai Lampuuk durch den Nebel fast mystisch. Abends ziehen wir uns wegen der rutschigen Pfade früh zurück und genießen das Rauschen des Regens.",
+            "hu": "Az esős reggel a barlang védelmében indul, ahol a csepegő víz hangja különleges atmoszférát teremt. Délben a Momong strand parti kunyhói nyújtanak menedéket a trópusi zápor elől. Délután a Lampuuk part ködös látványa misztikus élményt nyújt a szürke ég alatt. Estére a hegyi utak csúszóssá válnak, így érdemes korán fedett helyre vonulni és hallgatni az eső kopogását a tetőkön.",
+            "ro": "Dimineața începe la adăpost în peștera liliecilor, în timp ce ploaia toarnă peste vegetația luxuriantă de afară. La prânz, terasele acoperite de la Momong Beach oferă un refugiu uscat cu vedere la marea agitată. După-amiaza, drumul spre Pantai Lampuuk devine aproape mistic prin ceață. Seara, din cauza potecilor alunecoase, ne retragem devreme pentru a asculta sunetul ploii sub acoperiș.",
+            "en": "The rainy morning starts sheltered inside the bat cave as the tropical downpour drums on the canopy outside. At noon, the beach huts at Momong Beach provide a dry retreat with views of the stormy sea. In the afternoon, the path to Pantai Lampuuk feels mystical through the mist. By evening, as mountain paths become slippery, it is best to retreat early and enjoy the sound of the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fledermaushöhle",
+                "hu": "Denevérbarlang",
+                "ro": "Peștera Liliecilor",
+                "en": "Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle ist ein perfekter natürlicher Unterstand bei Regen; achten Sie auf die schlafenden Fledermäuse, aber seien Sie vorsichtig, da der Eingangsbereich bei Nässe sehr rutschig ist.",
+                "hu": "A barlang kiváló természetes menedék az eső elől; figyelje a pihenő denevéreket, de legyen óvatos, mert a bejárati kövek a nedvességtől rendkívül csúszóssá válhatnak a látogatáskor.",
+                "ro": "Peștera este un adăpost natural perfect împotriva ploii; observați liliecii care dorm, dar aveți grijă, deoarece zona de intrare devine foarte alunecoasă când este umedă afară.",
+                "en": "The cave is a perfect natural shelter from the rain; watch the sleeping bats above, but be careful as the entrance rocks can become extremely slippery when wet during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Momong Beach",
+                "hu": "Momong strand",
+                "ro": "Plaja Momong",
+                "en": "Momong Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die kraftvollen Wellen von einer der überdachten Strandhütten aus und genießen Sie einen warmen Tee, während der Regen auf das Palmenblattdach der Warungs trommelt.",
+                "hu": "Figyelje a hatalmas hullámokat valamelyik fedett parti kunyhóból, és élvezzen egy forró teát, miközben az eső hangosan kopog a warungok pálmalevelekből készült hagyományos tetőzetén.",
+                "ro": "Observați valurile puternice de la adăpostul unei colibe de pe plajă și savurați un ceai cald în timp ce ploaia bate ritmic în acoperișul de paie al micilor restaurante locale.",
+                "en": "Watch the powerful waves from the safety of a covered beach hut and enjoy a warm tea while the rain drums loudly on the palm-leaf roofs of the local warungs during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lampuuk",
+                "hu": "Pantai Lampuuk",
+                "ro": "Pantai Lampuuk",
+                "en": "Pantai Lampuuk"
+              },
+              "tip_5lang": {
+                "de": "Der weite Sandstrand wirkt im Regen melancholisch schön; nutzen Sie die großen Pavillons für Pausen und tragen Sie wasserfeste Schuhe für den Spaziergang entlang der nassen Uferlinie.",
+                "hu": "A széles homokos part esőben melankolikusan szép; használja a nagy pavilonokat pihenéshez, és viseljen vízálló cipőt a nedves partvonal mentén tett hangulatos, frissítő sétához.",
+                "ro": "Plaja lată de nisip are o frumusețe melancolică în ploaie; folosiți pavilioanele mari pentru pauze și purtați încălțăminte impermeabilă pentru plimbarea de-a lungul liniei țărmului.",
+                "en": "The wide sandy beach looks melancholically beautiful in the rain; use the large pavilions for breaks and wear waterproof shoes for a walk along the wet and refreshing shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Bruk",
+                "hu": "Gle Bruk",
+                "ro": "Gle Bruk",
+                "en": "Gle Bruk"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet bei Regen dramatische Ausblicke auf die wolkenverhangene Küste; nutzen Sie unbedingt Wanderstöcke, da der Boden hier sehr schlammig und instabil sein kann.",
+                "hu": "A felkapaszkodás esőben drámai kilátást nyújt a felhőkbe burkolózó partvonalra; mindenképpen használjon túrabotot, mert a talaj itt nagyon sárossá és bizonytalanná válhat a víz miatt.",
+                "ro": "Urcarea oferă vederi dramatice asupra coastei acoperite de nori în timpul ploii; folosiți bețe de drumeție, deoarece solul poate deveni foarte noroios și instabil pe acest traseu.",
+                "en": "The climb offers dramatic views of the cloud-covered coastline during the rain; use trekking poles if possible, as the ground here can become very muddy and unstable due to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Mulieng",
+                "hu": "Gunung Mulieng",
+                "ro": "Gunung Mulieng",
+                "en": "Gunung Mulieng"
+              },
+              "tip_5lang": {
+                "de": "Vom Gipfel aus sehen Sie, wie die Regenfronten über den Ozean ziehen; suchen Sie nach dem Abstieg sofort ein trockenes Café auf, um Ihre Kleidung zu wechseln und sich aufzuwärmen.",
+                "hu": "A csúcsról láthatja, ahogy az esőfrontok átvonulnak az óceán felett; az ereszkedés után keressen fel egy száraz kávézót, hogy átöltözzön és felmelegedjen a nedves túra után.",
+                "ro": "De pe vârf puteți vedea fronturile de ploaie traversând oceanul; după coborâre, căutați imediat o cafenea uscată pentru a vă schimba hainele și a vă încălzi după drumeția umedă.",
+                "en": "From the summit, you can see rain fronts moving across the ocean; after the descent, find a dry cafe immediately to change your clothes and warm up after the wet hike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist erfrischend kühl beim Besuch der Höhle. Mittags nutzen wir die milde Sonne am Strand für lange Spaziergänge, bevor es zu windig wird. Am Nachmittag drängt die Zeit, da die Sonne bereits gegen 17:00 Uhr hinter den Bergen versinkt. Abends suchen wir die Wärme eines lokalen Restaurants auf, da die Temperaturen nach Sonnenuntergang spürbar sinken.",
+            "hu": "A téli reggel frissítően hűvös a barlang látogatásakor. Napközben a szelíd napsütést használjuk ki a hosszú tengerparti sétákhoz, mielőtt feltámadna a szél. Délután sietnünk kell, mert a nap már 17:00 körül eltűnik a hegyek mögött. Estére keressünk egy meleg belső térrel rendelkező éttermet, mivel a hőmérséklet naplemente után érezhetően visszaesik.",
+            "ro": "Dimineața de iarnă este revigorant de răcoroasă la vizitarea peșterii. La prânz, profităm de soarele blând pe plajă pentru plimbări lungi înainte ca vântul să se întețească. După-amiaza suntem presați de timp, deoarece soarele apune deja în jurul orei 17:00 după munți. Seara căutăm căldura unui restaurant local, deoarece temperaturile scad simțitor după apus.",
+            "en": "The winter morning is refreshingly cool while visiting the cave. At noon, we take advantage of the mild sun on the beach for long walks before the wind picks up. In the afternoon, time is short as the sun sets behind the mountains around 17:00. By evening, we seek the warmth of a local restaurant as temperatures drop noticeably after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fledermaushöhle",
+                "hu": "Denevérbarlang",
+                "ro": "Peștera Liliecilor",
+                "en": "Bat cave"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle ist es im Winter angenehm mild; bringen Sie eine leichte Jacke für den kühlen Eingangsbereich mit und genießen Sie die Ruhe fernab der sommerlichen Besucherströme.",
+                "hu": "A barlangban télen is kellemesen enyhe az idő; vigyen egy könnyű kabátot a hűvös bejárati részhez, és élvezze a csendet, távol a nyári főszezon zajos látogatóitól és tömegétől.",
+                "ro": "În interiorul peșterii este plăcut de cald iarna; aduceți o jachetă ușoară pentru zona răcoroasă de la intrare și bucurați-vă de liniște, departe de fluxurile mari de turiști.",
+                "en": "Inside the cave, it is pleasantly mild in winter; bring a light jacket for the cool entrance area and enjoy the silence away from the large crowds of the summer season."
+              }
+            },
+            {
+              "name": {
+                "de": "Momong Beach",
+                "hu": "Momong strand",
+                "ro": "Plaja Momong",
+                "en": "Momong Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft windig, was ideal für weite Sicht ist; tragen Sie windfeste Kleidung und nutzen Sie die sonnigen Mittagsstunden für die besten Fotos vom blauen Wasser.",
+                "hu": "A tengerpart télen gyakran szeles, ami ideális a tiszta látványhoz; viseljen szélálló ruhát, és használja ki a napos délidőt a legszebb fotók elkészítéséhez a mélykék vízről.",
+                "ro": "Plaja este adesea vântoasă iarna, ceea ce este ideal pentru o vizibilitate clară; purtați haine rezistente la vânt și profitați de orele însorite de la prânz pentru fotografii superbe.",
+                "en": "The beach is often windy in winter, which is ideal for clear visibility; wear windproof clothing and use the sunny midday hours for the best photos of the deep blue water."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lampuuk",
+                "hu": "Pantai Lampuuk",
+                "ro": "Pantai Lampuuk",
+                "en": "Pantai Lampuuk"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist kühler, aber ein kurzes Bad in der Mittagssonne ist erfrischend; halten Sie sich danach in der Nähe von sonnigen Plätzen auf, um schnell wieder warm zu werden.",
+                "hu": "A víz hőmérséklete ilyenkor alacsonyabb, de egy rövid fürdő a déli napsütésben frissítő; utána maradjon a napos helyek közelében, hogy gyorsan felmelegedjen a hűvös szélben.",
+                "ro": "Temperatura apei este mai scăzută, dar o baie scurtă în soarele de la amiază este revigorantă; după aceea, stați în zone însorite pentru a vă încălzi rapid în briza răcoroasă.",
+                "en": "The water temperature is lower now, but a quick dip in the midday sun is refreshing; stay near sunny spots afterwards to warm up quickly in the cool winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Bruk",
+                "hu": "Gle Bruk",
+                "ro": "Gle Bruk",
+                "en": "Gle Bruk"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht eine fantastische Fernsicht bis zum Horizont; beginnen Sie den Abstieg spätestens um 16:30 Uhr, damit Sie nicht von der frühen Dunkelheit überrascht werden.",
+                "hu": "A tiszta téli levegő fantasztikus távlati kilátást tesz lehetővé a horizontig; legkésőbb 16:30-kor kezdje meg az ereszkedést, hogy ne érje váratlanul a korai sötétedés a hegyen.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate fantastică până la orizont; începeți coborârea cel târziu la ora 16:30 pentru a nu fi surprins de întunericul care se lasă devreme.",
+                "en": "The clear winter air allows for fantastic long-distance views to the horizon; start your descent by 16:30 at the latest so you aren't caught off guard by the early darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Mulieng",
+                "hu": "Gunung Mulieng",
+                "ro": "Gunung Mulieng",
+                "en": "Gunung Mulieng"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Sonnenuntergang vom Gipfel aus, der im Winter besonders farbenfroh ist; packen Sie eine Taschenlampe ein, falls das letzte Licht schneller schwindet als erwartet.",
+                "hu": "Élvezze a csúcsról a korai naplementét, amely télen különösen színpompás; vigyen magával zseblámpát, ha az utolsó fények a vártnál gyorsabban tűnnének el az erdős részeken.",
+                "ro": "Bucurați-vă de apusul devreme de pe vârf, care este deosebit de colorat iarna; puneți o lanternă în rucsac în caz că lumina scade mai repede decât v-ați așteptat pe potecă.",
+                "en": "Enjoy the early sunset from the summit, which is particularly colorful in winter; pack a flashlight in case the last light fades faster than expected on your way back down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Biciklizzen ki korán, hogy megtapasztalhassa a Gle Kling lenyűgöző panorámáját. Délben tekerjen le a partra, hogy kikapcsolódjon a gyönyörű Momong Beachen. Töltse a délutánt a partmenti barlangok és a Pantai Lampuuk közötti kerékpározással. Fejezze be a kalandot egy naplementével a Pantai Lhokngán.",
         "ro": "Pedalați devreme pentru a admira priveliștile panoramice de la Gle Kling. La prânz, coborâți spre coastă pentru a vă relaxa la frumoasa plajă Momong. Petreceți-vă după-amiaza pedalând între peșterile de coastă și plaja Pantai Lampuuk. Încheiați-vă aventura privind apusul la Pantai Lhoknga.",
         "en": "Cycle out early to experience the sweeping panoramic views from Gle Kling. By noon, ride down towards the coast to unwind at the beautiful Momong Beach. Spend your afternoon pedaling between coastal caves and the gorgeous shores of Pantai Lampuuk. End your cycling adventure watching the sunset at Pantai Lhoknga."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet vorsichtig auf nassen Straßen Richtung Gle Kling. Mittags suchen wir Schutz in den Warungs am Momong Beach, während die Gischt mit dem Regen verschmilzt. Am Nachmittag radeln wir durch Pfützen zur Fledermaushöhle, um im Trockenen zu rasten. Abends ist die Sicht durch den Starkregen eingeschränkt, was eine langsame und sichere Rückfahrt erfordert.",
+            "hu": "A kerékpáros nap óvatosan indul a vizes utakon Gle Kling felé. Délben a Momong strand éttermeiben keresünk menedéket, ahol a tenger permete keveredik az esővel. Délután tócsákon át kerekezünk a barlanghoz, hogy szárazon pihenhessünk egyet. Estére a látótávolság jelentősen lecsökken a heves esőzés miatt, ami lassú és figyelmes hazautat igényel mindenkitől.",
+            "ro": "Ziua pe bicicletă începe cu prudență pe drumurile ude spre Gle Kling. La prânz căutăm adăpost în localurile de la Momong Beach, unde spuma mării se amestecă cu ploaia. După-amiaza pedalăm prin bălți spre peșteră pentru o pauză la uscat. Seara, vizibilitatea este redusă de ploaia torențială, ceea ce necesită o întoarcere lentă și sigură spre cazare.",
+            "en": "The cycling day starts cautiously on wet roads towards Gle Kling. At noon, we seek shelter in the eateries at Momong Beach, where sea spray mixes with the rain. In the afternoon, we bike through puddles to the cave for a dry rest. By evening, visibility is reduced by heavy rain, requiring a slow and safe ride back to ensure everyone's safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gle Kling",
+                "hu": "Gle Kling",
+                "ro": "Gle Kling",
+                "en": "Gle Kling"
+              },
+              "tip_5lang": {
+                "de": "Der Hügel ist oft in Wolken gehüllt; prüfen Sie vor der Abfahrt unbedingt Ihre Bremsen, da die steilen Asphaltstraßen bei Nässe extrem rutschig und gefährlich sein können.",
+                "hu": "A domb ilyenkor gyakran felhőkbe burkolózik; indulás előtt feltétlenül ellenőrizze a fékeket, mivel a meredek aszfaltutak nedvesen rendkívül csúszósak és veszélyesek lehetnek.",
+                "ro": "Dealul este adesea învăluit în nori; verificați neapărat frânele înainte de plecare, deoarece drumurile asfaltate în pantă pot fi extrem de alunecoase și periculoase pe ploaie.",
+                "en": "The hill is often shrouded in clouds; be sure to check your brakes before departing, as the steep asphalt roads can be extremely slippery and dangerous when wet or muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Mulieng",
+                "hu": "Gunung Mulieng",
+                "ro": "Gunung Mulieng",
+                "en": "Gunung Mulieng"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter dichten Bäumen; der Weg ist technisch anspruchsvoll, tragen Sie daher eine Regenjacke, die Ihre Bewegungsfreiheit nicht einschränkt.",
+                "hu": "Hirtelen zápor esetén keressen menedéket a sűrű lombok alatt; az út technikailag nehéz, ezért viseljen olyan esőkabátot, amely nem korlátozza a szabad mozgást tekerés közben.",
+                "ro": "În caz de aversă bruscă, căutați adăpost sub copacii deși; traseul este solicitant tehnic, așa că purtați o pelerină de ploaie care să nu vă restricționeze mișcările pe bicicletă.",
+                "en": "In case of a sudden shower, seek shelter under dense trees; the trail is technically demanding, so wear a raincoat that doesn't restrict your movement while cycling uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Bruk",
+                "hu": "Gle Bruk",
+                "ro": "Gle Bruk",
+                "en": "Gle Bruk"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, auf befestigten Flächen zu bremsen, die mit nassem Laub bedeckt sind; genießen Sie die kühle Brise, die der Regen bringt, aber halten Sie die Kette Ihres Rades sauber.",
+                "hu": "Kerülje a fékezést a nedves levelekkel borított burkolt felületeken; élvezze az eső hozta hűvös szellőt, de ügyeljen rá, hogy a kerékpár lánca tiszta maradjon a sár ellenére is.",
+                "ro": "Evitați frânarea pe suprafețele pavate acoperite cu frunze ude; bucurați-vă de briza răcoroasă adusă de ploaie, dar păstrați lanțul bicicletei curat de noroiul de pe drum.",
+                "en": "Avoid braking on paved surfaces covered with wet leaves; enjoy the cool breeze brought by the rain, but keep your bike chain clean despite the mud and debris on the track."
+              }
+            },
+            {
+              "name": {
+                "de": "Momong Beach",
+                "hu": "Momong strand",
+                "ro": "Plaja Momong",
+                "en": "Momong Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort, um den Sattel trocken zu halten; die sandigen Wege zum Strand können nach Regenfällen sehr weich sein, fahren Sie daher mit niedrigem Druck.",
+                "hu": "Parkolja a kerékpárt fedett helyre, hogy a nyereg száraz maradjon; a strandhoz vezető homokos utak eső után nagyon felpuhulhatnak, ezért hajtson alacsonyabb guminyomással.",
+                "ro": "Parcați bicicleta într-un loc acoperit pentru a menține șaua uscată; potecile nisipoase spre plajă pot fi foarte moi după ploaie, așa că rulați cu o presiune mai mică în pneuri.",
+                "en": "Park your bike in a covered spot to keep the saddle dry; the sandy paths to the beach can be very soft after rain, so ride with lower tire pressure for better traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Fledermaushöhle",
+                "hu": "Denevérbarlang",
+                "ro": "Peștera Liliecilor",
+                "en": "Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Höhle für eine längere Pause, um Ihre Ausrüstung zu trocknen; stellen Sie sicher, dass Ihre Beleuchtung funktioniert, da die Bewölkung die Sicht im Wald stark dämpft.",
+                "hu": "Használja ki a barlangot egy hosszabb pihenőre, hogy megszárítsa felszerelését; ellenőrizze a világítást, mivel a sűrű felhőzet az erdőben jelentősen tompítja a látási viszonyokat.",
+                "ro": "Folosiți peștera pentru o pauză mai lungă pentru a vă usca echipamentul; asigurați-vă că luminile funcționează, deoarece norii reduc semnificativ vizibilitatea în zona pădurii.",
+                "en": "Use the cave for a longer break to dry your gear; make sure your lights are working, as heavy cloud cover significantly dims visibility within the forested sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lampuuk",
+                "hu": "Pantai Lampuuk",
+                "ro": "Pantai Lampuuk",
+                "en": "Pantai Lampuuk"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den gepflasterten Promenaden, da sich dort bei Regen Algen bilden können; ein warmer Kaffee in einem der Strandhäuser hilft gegen die feuchte Kälte.",
+                "hu": "Kerekezzen óvatosan a kövezett sétányokon, mert az esőtől algássá és csúszóssá válhatnak; egy forró kávé az egyik parti házban segít leküzdeni a nedves idő okozta hűvösséget.",
+                "ro": "Pedalați cu grijă pe falezele pavate, deoarece pot deveni alunecoase din cauza algelor; o cafea caldă la una dintre terasele de pe plajă ajută la combaterea umezelii și a frigului.",
+                "en": "Ride carefully on paved promenades as they can become slippery with algae in the rain; a warm coffee in one of the beach houses helps fight off the damp chill of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lhoknga",
+                "hu": "Pantai Lhoknga",
+                "ro": "Pantai Lhoknga",
+                "en": "Pantai Lhoknga"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Lhoknga kann den Regen direkt ins Gesicht peitschen; nutzen Sie eine Sportbrille mit klaren Gläsern, um Ihre Augen vor Schmutz und Wassertropfen während der Fahrt zu schützen.",
+                "hu": "A Lhoknga strandnál a szél az esőt közvetlenül az arcába vághatja; használjon víztiszta lencséjű sportpápaszeműt, hogy megvédje szemeit a sártól és a vízcseppektől tekerés közben.",
+                "ro": "Vântul de la Lhoknga poate sufla ploaia direct în față; folosiți ochelari sport cu lentile clare pentru a vă proteja ochii de murdărie și stropi de apă în timpul deplasării.",
+                "en": "The wind at Lhoknga can whip the rain directly into your face; use sports glasses with clear lenses to protect your eyes from dirt and water droplets while cycling along the coast."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen begrüßt uns auf dem Radweg zum Gle Kling. Mittags ist die Temperatur perfekt für anstrengende Anstiege ohne übermäßiges Schwitzen. Am Nachmittag müssen wir das Tempo erhöhen, um vor dem frühen Sonnenuntergang um 17:00 Uhr zurück zu sein. Abends wird es auf dem Rad schnell frostig, sobald das Tageslicht schwindet, also planen wir ein frühes Ende ein.",
+            "hu": "Hűvös téli reggel köszönt minket a Gle Kling felé vezető kerékpárúton. Délben a hőmérséklet ideális a megerőltető emelkedőkhöz, anélkül, hogy túlzottan leizzadnánk a kaptatókon. Délután növelnünk kell a tempót, hogy a korai, 17:00-i naplemente előtt visszaérjünk. Estére a biciklin gyorsan fagyossá válik a levegő, amint elfogy a fény, így korai befejezést tervezünk.",
+            "ro": "O dimineață răcoroasă de iarnă ne întâmpină pe drumul spre Gle Kling. La prânz, temperatura este perfectă pentru urcări solicitante fără a transpira excesiv. După-amiaza trebuie să mărim ritmul pentru a ne întoarce înainte de apusul devreme de la ora 17:00. Seara devine rapid foarte frig pe bicicletă odată ce lumina scade, așa că planificăm un final de zi timpuriu.",
+            "en": "A cool winter morning greets us on the bike path to Gle Kling. At noon, the temperature is perfect for strenuous climbs without sweating excessively. In the afternoon, we must increase our pace to be back before the early sunset at 17:00. By evening, it quickly becomes frosty on the bike as daylight fades, so we plan for an early finish to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gle Kling",
+                "hu": "Gle Kling",
+                "ro": "Gle Kling",
+                "en": "Gle Kling"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber für die Abfahrt sollten Sie unbedingt eine Windjacke überziehen; genießen Sie die weite, klare Sicht, die nur die trockene Winterluft bietet.",
+                "hu": "A felfelé út melegen tartja, de a lefelé guruláshoz feltétlenül vegyen fel egy szélálló dzsekit; élvezze a tiszta távlatokat, amelyeket csak a száraz téli levegő biztosíthat ilyenkor.",
+                "ro": "Urcarea vă va ține de cald, dar pentru coborâre trebuie neapărat să puneți o jachetă de vânt; bucurați-vă de vizibilitatea clară pe care o oferă doar aerul uscat de iarnă.",
+                "en": "The climb will keep you warm, but for the descent, you should definitely put on a windbreaker; enjoy the wide, clear views that only the dry winter air can provide at this height."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Mulieng",
+                "hu": "Gunung Mulieng",
+                "ro": "Gunung Mulieng",
+                "en": "Gunung Mulieng"
+              },
+              "tip_5lang": {
+                "de": "Der schattige Waldweg kann im Winter recht kühl sein; halten Sie bei den Aussichtspunkten kurz in der Sonne an, um Ihre Muskeln warm und geschmeidig für die Weiterfahrt zu halten.",
+                "hu": "Az árnyékos erdei út télen meglehetősen hűvös lehet; álljon meg röviden a napos kilátópontoknál, hogy izmait melegen és rugalmasan tartsa a túra további szakaszaira.",
+                "ro": "Poteca umbrită prin pădure poate fi destul de rece iarna; opriți-vă scurt la punctele de belvedere însorite pentru a vă menține mușchii calzi pentru restul călătoriei.",
+                "en": "The shaded forest path can be quite cool in winter; stop briefly at sunny viewpoints to keep your muscles warm and flexible for the remainder of the challenging ride uphill."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Bruk",
+                "hu": "Gle Bruk",
+                "ro": "Gle Bruk",
+                "en": "Gle Bruk"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne blendet am Nachmittag stark; tragen Sie eine gute Sonnenbrille und achten Sie auf lange Schatten, die Schlaglöcher auf dem Weg verbergen könnten.",
+                "hu": "Az alacsonyan járó téli nap délután erősen vakíthat; viseljen jó napszemüveget, és figyeljen a hosszú árnyékokra, amelyek elrejthetik az út hibáit vagy a kátyúkat tekerés közben.",
+                "ro": "Soarele jos de iarnă poate fi foarte orbitor după-amiaza; purtați ochelari de soare buni și atenție la umbrele lungi care pot ascunde gropile de pe drum în timpul deplasării.",
+                "en": "The low winter sun can be very blinding in the afternoon; wear good sunglasses and watch out for long shadows that might hide potholes or obstacles on the path ahead of you."
+              }
+            },
+            {
+              "name": {
+                "de": "Momong Beach",
+                "hu": "Momong strand",
+                "ro": "Plaja Momong",
+                "en": "Momong Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter erfrischend, kühlt verschwitzte Haut aber schnell aus; nutzen Sie die Mittagssonne für ein Picknick, bevor der Wind am frühen Nachmittag auffrischt.",
+                "hu": "A tengeri szellő télen frissítő, de a megizzadt bőrt gyorsan lehűti; használja ki a déli napsütést egy gyors piknikhez, mielőtt a szél kora délután felerősödne a parton.",
+                "ro": "Briza mării este revigorantă iarna, dar răcește rapid pielea transpirată; profitați de soarele de la amiază pentru un picnic înainte ca vântul să se întețească după-amiaza.",
+                "en": "The sea breeze is refreshing in winter but cools sweaty skin quickly; use the midday sun for a picnic before the wind picks up in the early afternoon along the exposed shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Fledermaushöhle",
+                "hu": "Denevérbarlang",
+                "ro": "Peștera Liliecilor",
+                "en": "Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur in der Höhle ist im Winter sehr angenehm; nutzen Sie diesen Stopp, um Ihre Wasserreserven aufzufüllen und sich mental auf die Rückfahrt im kühlen Wind vorzubereiten.",
+                "hu": "A barlang állandó hőmérséklete télen nagyon kellemes; használja ezt a megállót a vízkészletek feltöltésére és a mentális felkészülésre a hűvös szélben történő visszatéréshez.",
+                "ro": "Temperatura constantă din peșteră este foarte plăcută iarna; folosiți această oprire pentru a vă completa rezervele de apă și pentru a vă pregăti pentru drumul de întoarcere.",
+                "en": "The constant temperature inside the cave is very pleasant in winter; use this stop to refill your water and mentally prepare for the ride back in the increasingly cool winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lampuuk",
+                "hu": "Pantai Lampuuk",
+                "ro": "Pantai Lampuuk",
+                "en": "Pantai Lampuuk"
+              },
+              "tip_5lang": {
+                "de": "Die Strandwege sind im Winter fest und gut befahrbar; genießen Sie das goldene Licht am Nachmittag, aber behalten Sie die Uhr im Auge, da die Dämmerung im Waldgebiet sehr schnell eintritt.",
+                "hu": "A tengerparti utak télen kemények és jól járhatóak; élvezze a délutáni aranyfényeket, de figyelje az órát, mert az erdei szakaszokon a szürkület váratlanul gyorsan beköszönthet.",
+                "ro": "Drumurile de pe plajă sunt ferme și ușor de parcurs iarna; bucurați-vă de lumina aurie a după-amiezii, dar fiți atenți la timp, deoarece amurgul vine rapid în zonele împădurite.",
+                "en": "The beach paths are firm and easy to ride in winter; enjoy the golden afternoon light, but keep an eye on the clock as twilight sets in very quickly in the forested areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lhoknga",
+                "hu": "Pantai Lhoknga",
+                "ro": "Pantai Lhoknga",
+                "en": "Pantai Lhoknga"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier mit einem Blick auf den Ozean, bevor die Sonne um 17:00 Uhr untergeht; ziehen Sie für die letzten Kilometer Ihre hellste Kleidung oder Warnweste an.",
+                "hu": "Fejezze be túráját itt az óceán látványával, mielőtt a nap 17:00-kor lebukik; az utolsó kilométerekre vegye fel a legvilágosabb ruháját vagy fényvisszaverő mellényét a biztonságért.",
+                "ro": "Încheiați turul aici cu o privire spre ocean înainte ca soarele să apună la ora 17:00; purtați haine reflectorizante pentru ultimii kilometri pentru a fi vizibili în trafic.",
+                "en": "Finish your tour here with a view of the ocean before the sun sets at 17:00; put on your brightest clothing or reflective vest for the final kilometers to ensure your safety."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Autózzon ki a Gle Gire északi csúcsaihoz egy frissítő, természetben töltött reggelért. Délben egy festői parti autózás köti össze a kilátókat a nyugodt strandokkal. Töltsön el egy pihentető délutánt a napozással és a Denevérbarlang felfedezésével. Zárja a napot a szörfösök esti hullámlovaglásának megtekintésével.",
         "ro": "Mergeți cu mașina spre vârfurile nordice Gle Gire pentru o dimineață în natură. Prânzul vă aduce într-o plimbare scenică pe coastă, conectând puncte de belvedere și plaje. Petreceți o după-amiază relaxantă explorând celebra peșteră a liliecilor. Terminați-vă călătoria privind surferii pe valurile de seară.",
         "en": "Drive out to the northern peaks of Gle Gire for an invigorating morning in nature. Midday takes you on a scenic coastal drive connecting lush viewpoints and serene beaches. Spend a relaxing afternoon soaking up the sun and exploring the famous Bat Cave. Finish your road trip watching surfers tackle the evening waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im Auto, während wir den Nebel am Gle Gire durchqueren. Mittags bewundern wir die raue See am Momong Beach durch die beschlagenen Scheiben, bevor wir in ein gemütliches Restaurant einkehren. Nachmittags besuchen wir die Höhle als trockene Attraktion. Abends beobachten wir den Regen von den Klippen aus, sicher und warm im Fahrzeug sitzend.",
+            "hu": "Az út biztonságosan indul az autóban, miközben átszeljük a ködös Gle Gire környékét. Délben a Momong strand vad hullámait csodáljuk a bepárásodott ablakokon át, mielőtt betérnénk egy hangulatos étterembe. Délután a barlangot látogatjuk meg, mint száraz látnivalót. Estére a sziklákról figyeljük az esőt, kényelmesen és melegen ülve a gépjárműben.",
+            "ro": "Călătoria începe în siguranță în mașină, în timp ce traversăm ceața de la Gle Gire. La prânz admirăm marea agitată de la Momong Beach prin geamurile aburite, înainte de a intra într-un restaurant primitor. După-amiaza vizităm peștera ca atracție uscată. Seara observăm ploaia de pe stânci, stând confortabil și la căldură în interiorul vehiculului.",
+            "en": "The drive starts safely in the car as we traverse the mist at Gle Gire. At noon, we admire the rough sea at Momong Beach through fogged windows before heading into a cozy restaurant. In the afternoon, we visit the cave as a perfect dry attraction. By evening, we watch the rain from the cliffs, sitting comfortably and warm inside the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gle Gire",
+                "hu": "Gle Gire",
+                "ro": "Gle Gire",
+                "en": "Gle Gire"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei dichtem Nebel langsam und schalten Sie Ihre Nebelscheinwerfer ein; genießen Sie die mystische Atmosphäre der wolkenverhangenen Hügel direkt aus dem Autofenster.",
+                "hu": "Sűrű ködben haladjon lassan és kapcsolja be a ködfényszórókat; élvezze a felhőkbe burkolózó dombok misztikus hangulatát közvetlenül az autó ablakából, biztonságos távolságból.",
+                "ro": "Conduceți încet în ceață densă și porniți luminile de ceață; bucurați-vă de atmosfera mistică a dealurilor învăluite în nori direct de la fereastra mașinii în siguranță.",
+                "en": "Drive slowly in dense fog and turn on your fog lights; enjoy the mystical atmosphere of the cloud-covered hills directly from your car window while maintaining a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Kling",
+                "hu": "Gle Kling",
+                "ro": "Gle Kling",
+                "en": "Gle Kling"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zum Aussichtspunkt kann bei Starkregen rutschig sein; nutzen Sie die Parkplätze in der Nähe der Unterstände, um trocken zu den besten Fotopunkten zu gelangen.",
+                "hu": "A kilátóhoz vezető keskeny út heves esőben csúszós lehet; használja a fedett helyekhez közeli parkolókat, hogy szárazon juthasson el a legjobb fotózási pontokhoz a környéken.",
+                "ro": "Drumul îngust spre punctul de belvedere poate fi alunecos pe ploaie torențială; folosiți parcările de lângă adăposturi pentru a ajunge uscați la cele mai bune locuri de fotografiat.",
+                "en": "The narrow road to the viewpoint can be slippery in heavy rain; use the parking spots near the shelters to reach the best photo points while staying as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Mulieng",
+                "hu": "Gunung Mulieng",
+                "ro": "Gunung Mulieng",
+                "en": "Gunung Mulieng"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen schlammig werden, parken Sie auf befestigtem Untergrund; beobachten Sie den Regenwald im Regen, was ein intensives Grün und lebendige Geräusche bietet.",
+                "hu": "A parkoló esőben sárossá válhat, ezért próbáljon szilárd burkolaton megállni; figyelje az esőerdőt az esőben, amely ilyenkor intenzív zöld színeket és élénk hangokat áraszt.",
+                "ro": "Parcarea poate deveni noroioasă, deci încercați să opriți pe o suprafață solidă; observați pădurea tropicală în ploaie, care oferă culori verzi intense și sunete vibrante.",
+                "en": "The parking area can become muddy, so try to park on a solid surface; observe the rainforest in the rain, which offers intense green colors and vibrant natural sounds today."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Bruk",
+                "hu": "Gle Bruk",
+                "ro": "Gle Bruk",
+                "en": "Gle Bruk"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Steinschläge an den Hängen nach langanhaltenden Regenfällen; genießen Sie den Blick auf die Küste, während Sie geschützt im trockenen Innenraum Ihres Autos bleiben.",
+                "hu": "Ügyeljen az esetleges kőomlásokra a hegyoldalak mentén hosszan tartó esőzés után; élvezze a partvonal látványát, miközben védve marad az autó száraz és meleg belső terében.",
+                "ro": "Atenție la posibilele căderi de pietre pe versanți după ploi prelungite; bucurați-vă de vederea coastei în timp ce rămâneți protejați în interiorul uscat al mașinii dumneavoastră.",
+                "en": "Watch out for possible rockfalls along the slopes after prolonged rainfall; enjoy the view of the coastline while staying protected in the dry interior of your car during the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Momong Beach",
+                "hu": "Momong strand",
+                "ro": "Plaja Momong",
+                "en": "Momong Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Drive-in-Service einiger Cafés, falls vorhanden; der sandige Parkplatz ist bei Nässe tückisch, vermeiden Sie es, zu nah an die weichen Dünenbereiche heranzufahren.",
+                "hu": "Használja ki az út menti kávézók szolgáltatásait; a homokos parkoló nedvesen csalóka lehet, kerülje a túl közeli megállást a felpuhult dűnékhez vagy a vizes homokhoz.",
+                "ro": "Profitați de serviciile cafenelelor de la marginea drumului; parcarea nisipoasă este înșelătoare pe ploaie, evitați să opriți prea aproape de zonele cu dune moi de pe plajă.",
+                "en": "Take advantage of roadside cafe services if available; the sandy parking lot is treacherous when wet, so avoid stopping too close to the soft dune areas near the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Fledermaushöhle",
+                "hu": "Denevérbarlang",
+                "ro": "Peștera Liliecilor",
+                "en": "Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie keine nassen Schirme im Auto offen liegen, um Feuchtigkeit zu vermeiden; die Höhle ist nur einen kurzen Fußweg vom Parkplatz entfernt, ideal für einen kurzen Regen-Stopp.",
+                "hu": "Ne hagyjon nyitott, vizes esernyőket az autóban a párosodás elkerülése érdekében; a barlang csak egy rövid sétára van a parkolótól, ideális megálló egy gyorsabb zápor idején is.",
+                "ro": "Nu lăsați umbrelele ude deschise în mașină pentru a evita umiditatea excesivă; peștera este la doar o scurtă plimbare de parcare, fiind o oprire ideală pe timp de ploaie.",
+                "en": "Don't leave wet umbrellas open in the car to avoid excessive humidity; the cave is only a short walk from the parking area, making it an ideal stop during a passing shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lampuuk",
+                "hu": "Pantai Lampuuk",
+                "ro": "Pantai Lampuuk",
+                "en": "Pantai Lampuuk"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zu den überdachten Parkplätzen der Restaurants; der Blick auf den vom Regen gepeitschten Ozean ist vom Fenster aus beeindruckend, ohne dass Sie nass werden müssen.",
+                "hu": "Hajtson közvetlenül az éttermek fedett parkolóihoz; az eső áztatta óceán látványa az ablakból is lenyűgöző, anélkül, hogy ki kellene szállnia a szakadó esőbe a parton.",
+                "ro": "Conduceți direct spre parcările acoperite ale restaurantelor; vederea oceanului bătut de ploaie este impresionantă de la fereastră, fără a fi nevoie să ieșiți în ploaia torențială.",
+                "en": "Drive directly to the covered parking areas of the restaurants; the view of the rain-swept ocean is impressive from the window without needing to step out into the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lhoknga",
+                "hu": "Pantai Lhoknga",
+                "ro": "Pantai Lhoknga",
+                "en": "Pantai Lhoknga"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter großen Palmen bei Sturmgefahr wegen herabfallender Kokosnüsse; genießen Sie die dramatische Brandung sicher vom trockenen Fahrersitz aus.",
+                "hu": "Viharveszély esetén kerülje a nagy pálmák alatti parkolást a lehulló kókuszdiók miatt; élvezze a drámai hullámzást és a sötét égboltot biztonságban a száraz vezetőülésből figyelve.",
+                "ro": "Evitați parcarea sub palmieri mari în caz de furtună din cauza nucilor de cocos care pot cădea; bucurați-vă de valurile dramatice în siguranță de pe scaunul șoferului.",
+                "en": "Avoid parking under large palms during a storm due to falling coconuts; enjoy the dramatic surf and dark skies safely from the dry driver's seat while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Surfspots",
+                "hu": "Szörfös szakaszok",
+                "ro": "Locuri de surf",
+                "en": "Surf breaks"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die mutigen Surfer im Regen direkt vom Auto aus an der Küstenstraße; stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren für die Heimfahrt bei Dunkelheit.",
+                "hu": "Figyelje a bátor szörfösöket az esőben közvetlenül az autóból a parti út mentén; ellenőrizze, hogy az ablaktörlők tökéletesen működnek-e a sötétben történő hazautazáshoz.",
+                "ro": "Observați surferii curajoși prin ploaie direct din mașină, de-a lungul drumului de coastă; asigurați-vă că ștergătoarele funcționează perfect pentru drumul de întoarcere pe întuneric.",
+                "en": "Watch the brave surfers in the rain directly from your car along the coastal road; ensure your wipers are working perfectly for the drive home in the dark and rainy conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour im Auto beginnt angenehm temperiert bei der Fahrt zum Gle Gire. Mittags genießen wir die Sonne am Strand, nutzen aber die Klimaanlage nur sparsam, da die Luft draußen mild ist. Am Nachmittag besuchen wir die Aussichtspunkte zügig, um das goldene Licht vor dem frühen Sonnenuntergang um 17:00 Uhr zu nutzen. Abends kehren wir rechtzeitig zurück, bevor es draußen kühl wird.",
+            "hu": "A téli autós túra kellemes hőmérsékletben indul a Gle Gire felé vezető úton. Délben a tengerparton élvezzük a napsütést, de a légkondicionálót csak takarékosan használjuk a kinti enyhe levegő miatt. Délután gyorsan látogatjuk meg a kilátópontokat, hogy kihasználjuk az arany fényeket a korai, 17:00-i naplemente előtt. Estére időben visszatérünk a szállásra, mielőtt kint lehűlne.",
+            "ro": "Turul de iarnă cu mașina începe la o temperatură plăcută în drum spre Gle Gire. La prânz ne bucurăm de soare pe plajă, dar folosim aerul condiționat cu moderație deoarece aerul este blând. După-amiaza vizităm rapid punctele de belvedere pentru a profita de lumina aurie înainte de apusul de la ora 17:00. Seara ne întoarcem la timp înainte de a se face frig afară.",
+            "en": "The winter car tour starts at a pleasant temperature on the way to Gle Gire. At noon, we enjoy the sun on the beach but use the air conditioning sparingly as the air outside is mild. In the afternoon, we visit the viewpoints quickly to catch the golden light before the early sunset at 17:00. By evening, we return on time before the outside air becomes quite cool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gle Gire",
+                "hu": "Gle Gire",
+                "ro": "Gle Gire",
+                "en": "Gle Gire"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet heute eine außergewöhnliche Fernsicht vom Hügel; nutzen Sie die frühen Morgenstunden, wenn das Licht für Landschaftsaufnahmen am weichsten und schönsten ist.",
+                "hu": "A tiszta téli levegő ma kivételes távlati kilátást biztosít a dombról; használja ki a kora reggeli órákat, amikor a fények a leglágyabbak és legszebbek a tájfotózáshoz ezen a ponton.",
+                "ro": "Aerul curat de iarnă oferă astăzi o vizibilitate excepțională de pe deal; profitați de orele dimineții, când lumina este cea mai blândă și frumoasă pentru fotografii de peisaj.",
+                "en": "The clear winter air offers exceptional long-distance views from the hill today; use the early morning hours when the light is softest and most beautiful for landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Kling",
+                "hu": "Gle Kling",
+                "ro": "Gle Kling",
+                "en": "Gle Kling"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Sonnenaufgang oder das erste Tageslicht direkt vom Auto aus sehen können; im Winter ist der Kontrast zwischen dem blauen Meer und dem grünen Land besonders scharf.",
+                "hu": "Parkoljon úgy, hogy a napfelkeltét vagy az első fényeket közvetlenül az autóból láthassa; télen a kék tenger és a zöld szárazföld közötti kontraszt különösen éles és látványos ezen a helyen.",
+                "ro": "Parcați astfel încât să puteți vedea răsăritul sau prima lumină a zilei direct din mașină; iarna, contrastul dintre marea albastră și pământul verde este deosebit de clar și frumos.",
+                "en": "Park so you can see the sunrise or first daylight directly from your car; in winter, the contrast between the blue sea and the green land is particularly sharp and visually stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Mulieng",
+                "hu": "Gunung Mulieng",
+                "ro": "Gunung Mulieng",
+                "en": "Gunung Mulieng"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühleren Temperaturen für einen kurzen Spaziergang außerhalb des Autos; die Luftfeuchtigkeit ist niedriger, was die Sicht auf die umliegenden Inseln am Horizont deutlich verbessert.",
+                "hu": "Használja ki a hűvösebb hőmérsékletet egy rövid sétára az autón kívül; a páratartalom ilyenkor alacsonyabb, ami jelentősen javítja a láthatóságot a távoli szigetek felé a horizonton.",
+                "ro": "Profitați de temperaturile mai scăzute pentru o scurtă plimbare în afara mașinii; umiditatea este mai mică, ceea ce îmbunătățește claritatea vederii spre insulele din depărtare.",
+                "en": "Take advantage of the cooler temperatures for a short walk outside the car; the humidity is lower, which significantly improves visibility towards the distant islands on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Gle Bruk",
+                "hu": "Gle Bruk",
+                "ro": "Gle Bruk",
+                "en": "Gle Bruk"
+              },
+              "tip_5lang": {
+                "de": "Am Nachmittag steht die Sonne tief, was lange Schatten auf die Küstenstraße wirft; fahren Sie aufmerksam und genießen Sie das warme Licht, das die Klippen in Goldtöne taucht.",
+                "hu": "Délután a nap alacsonyan áll, ami hosszú árnyékokat vet a parti útra; vezessen figyelmesen, és élvezze a meleg fényeket, amelyek arany tónusokba öltöztetik a parti sziklákat.",
+                "ro": "După-amiaza soarele este jos, aruncând umbre lungi pe drumul de coastă; conduceți cu atenție și bucurați-vă de lumina caldă care scaldă stâncile în nuanțe aurii superbe.",
+                "en": "In the afternoon, the sun is low, casting long shadows on the coastal road; drive carefully and enjoy the warm light that bathes the cliffs in stunning golden tones during your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Momong Beach",
+                "hu": "Momong strand",
+                "ro": "Plaja Momong",
+                "en": "Momong Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter weniger überfüllt, was ein entspanntes Abstellen ermöglicht; ein kurzer Stopp für frische Meeresluft ist ideal, bevor Sie die Heizung im Auto leicht hochdrehen.",
+                "hu": "A parkoló télen kevésbé zsúfolt, ami kényelmes megállást tesz lehetővé; egy rövid megálló a friss tengeri levegőért ideális, mielőtt kicsit feljebb tekerné a fűtést az autóban az út során.",
+                "ro": "Parcarea este mai puțin aglomerată iarna, permițând o oprire relaxată; o scurtă pauză pentru aerul proaspăt marin este ideală înainte de a porni puțin căldura în mașină.",
+                "en": "The parking area is less crowded in winter, allowing for a relaxed stop; a short break for fresh sea air is ideal before turning up the heat slightly in your car for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Fledermaushöhle",
+                "hu": "Denevérbarlang",
+                "ro": "Peștera Liliecilor",
+                "en": "Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet eine angenehme Wärme im Vergleich zur kühlen Außenluft; da es im Winter früher dunkel wird, sollten Sie diesen Stopp spätestens bis 15:30 Uhr abgeschlossen haben.",
+                "hu": "A barlang kellemes meleget áraszt a hűvös kinti levegőhöz képest; mivel télen korábban sötétedik, ezt a megállót érdemes legkésőbb 15:30-ig befejezni a biztonságos továbbhaladáshoz.",
+                "ro": "Peștera oferă o căldură plăcută comparativ cu aerul rece de afară; deoarece iarna se întunecă mai devreme, ar trebui să finalizați această oprire cel târziu până la ora 15:30.",
+                "en": "The cave offers pleasant warmth compared to the cool outside air; as it gets dark earlier in winter, you should finish this stop by 15:30 at the latest to stay on schedule."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lampuuk",
+                "hu": "Pantai Lampuuk",
+                "ro": "Pantai Lampuuk",
+                "en": "Pantai Lampuuk"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne am Strand ist im Winter herrlich und nicht zu heiß; nutzen Sie die Zeit für ein Essen im Freien, bevor die Temperaturen gegen 16:00 Uhr spürbar zu sinken beginnen.",
+                "hu": "A déli napsütés a parton télen csodálatos és nem túl égető; használja ki az időt egy szabadtéri ebédre, mielőtt a hőmérséklet 16:00 körül érezhetően csökkenni kezdene a szélben.",
+                "ro": "Soarele de la amiază pe plajă este minunat și nu prea fierbinte iarna; profitați de timp pentru o masă în aer liber înainte ca temperaturile să scadă simțitor în jurul orei 16:00.",
+                "en": "The midday sun on the beach is wonderful and not too hot in winter; use this time for an outdoor meal before temperatures start to drop noticeably around 16:00 in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Lhoknga",
+                "hu": "Pantai Lhoknga",
+                "ro": "Pantai Lhoknga",
+                "en": "Pantai Lhoknga"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um den frühen Sonnenuntergang um 17:00 Uhr vom Auto aus zu beobachten; bringen Sie eine Decke mit, falls Sie für Fotos doch länger draußen bleiben möchten.",
+                "hu": "Ez a tökéletes hely a korai, 17:00-i naplemente megfigyeléséhez az autóból; vigyen magával egy takarót, ha a fotózás kedvéért mégis hosszabb ideig szeretne kint maradni a parton.",
+                "ro": "Acesta este locul perfect pentru a observa apusul devreme de la ora 17:00 din mașină; aduceți o pătură dacă doriți să stați mai mult afară pe plajă pentru fotografii de seară.",
+                "en": "This is the perfect spot to watch the early sunset at 17:00 from the car; bring a blanket if you wish to stay outside longer on the beach for evening photography sessions."
+              }
+            },
+            {
+              "name": {
+                "de": "Surfspots",
+                "hu": "Szörfös szakaszok",
+                "ro": "Locuri de surf",
+                "en": "Surf breaks"
+              },
+              "tip_5lang": {
+                "de": "Das letzte Licht des Tages bricht sich im Winter besonders schön in den Wellen; schalten Sie für die Rückfahrt das Licht ein und achten Sie auf Wildtiere, die in der Dämmerung aktiv werden.",
+                "hu": "A nap utolsó fényei télen különösen szépen törnek meg a hullámokon; a hazautazáshoz kapcsolja be a fényszórókat, és figyeljen a vadállatokra, amelyek szürkületkor aktívvá válnak az út mellett.",
+                "ro": "Ultima lumină a zilei se reflectă superb în valuri iarna; aprindeți farurile pentru drumul de întoarcere și fiți atenți la animalele sălbatice care devin active la amurg lângă drum.",
+                "en": "The last light of the day reflects beautifully on the waves in winter; turn on your headlights for the drive home and watch out for wildlife that becomes active at dusk along the road."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a Quinta Touche elegáns építészetének felfedezésével. A történelmi részletek megadják az alaphangot a városi sétához.\nDélben merüljön el a Quinta Gameros díszes termeiben, majd ismerje meg a város múltját a Tarike múzeum lenyűgöző kiállításain.\nA délután Pancho Villa életéről szól a Museo Casa de Villa falai között. Ezután a Templo del Sagrado Corazón nyújt lelki békét.\nA napot az egykori állami börtön lenyűgöző épületénél zárja, ahol Chihuahua történelmének komorabb fejezetei is kézzelfoghatóvá válnak.",
         "ro": "Începeți ziua cu o plimbare printre detaliile arhitecturale ale Quintei Touche. Această eleganță istorică setează tonul perfect al zilei.\nLa amiază, explorați camerele ornate ale Quintei Gameros, urmate de perspective profunde asupra istoriei locale la muzeul Tarike.\nDupă-amiaza este dedicată lui Pancho Villa la Museo Casa de Villa. Apoi, Templo del Sagrado Corazón oferă un moment de reflecție.\nÎncheiați ziua admirând arhitectura impunătoare a Penitenciarului de Stat, unde ecourile trecutului din Chihuahua rămân mereu vii.",
         "en": "Start your morning strolling past the elegant architecture of Quinta Touche. Its historic charm sets a wonderful tone for your walking tour.\nMidday invites you into the ornate and beautiful rooms of Quinta Gameros, followed by deep dives into local lore at the Tarike museum.\nThe afternoon is dedicated to Pancho Villa at the Museo Casa de Villa. Afterwards, the Templo del Sagrado Corazón offers a quiet retreat.\nConclude your day exploring the imposing architecture of the State Penitentiary, where the echoes of Chihuahua's complex history resonate."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Quinta Touche, wo die Architektur unter grauem Himmel mystisch wirkt. Mittags bietet die Quinta Gameros perfekten Schutz vor dem Regen in ihren prächtigen Sälen. Am Nachmittag erkunden wir die Museen Casa de Villa und Tarike, um trocken zu bleiben. Der Abend endet an der alten Penitenciaria, deren Mauern im Regen besonders geschichtsträchtig und ernst erscheinen.",
+            "hu": "Reggel a Quinta Touche elegáns falaival indul a nap, az eső elől a tornácok alá húzódhatunk. Délben a Quinta Gameros belső terei nyújtanak tökéletes menedéket és művészeti élményt. Délután a múzeumok fedett tárlatai között maradunk szárazon a Casa de Villa falai között. Este a kivilágított belváros az esőáztatta utcákkal és egy esernyővel válik igazán hangulatossá a régi börtönnél.",
+            "ro": "Dimineața începe la Quinta Touche, unde arhitectura pare mistică sub cerul gri. La prânz, Quinta Gameros oferă adăpostul perfect împotriva ploii în sălile sale magnifice. După-amiaza explorăm muzeele Casa de Villa și Tarike pentru a rămâne uscați. Seara se încheie la vechea Penitenciaria, ale cărei ziduri par deosebit de istorice și sobre sub stropii de ploaie care cad neîncetat.",
+            "en": "The morning begins at Quinta Touche, where the architecture looks mystical under grey skies. At noon, Quinta Gameros offers perfect shelter from the rain within its magnificent halls. In the afternoon, we explore the Casa de Villa and Tarike museums to stay dry indoors. The evening ends at the old Penitenciaria, whose walls appear especially historic and solemn in the pouring rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Quinta Touche",
+                "hu": "Quinta Touche",
+                "ro": "Quinta Touche",
+                "en": "Quinta Touche"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade schnell vom Bürgersteig aus und suchen Sie dann Schutz unter dem Dachvorsprung; Vorsicht vor Pfützen auf dem Weg zum Eingangsbereich.",
+                "hu": "Csodálja meg a homlokzatot gyorsan a járdáról, majd keressen menedéket az eresz alatt; vigyázzon a mély tócsákra a bejárat felé vezető úton az ázás elkerülése végett.",
+                "ro": "Admirați fațada rapid de pe trotuar și apoi căutați adăpost sub streșini; atenție la bălțile adânci în drum spre intrare pentru a vă păstra încălțămintea uscată.",
+                "en": "Admire the facade quickly from the sidewalk and then seek shelter under the eaves; watch out for deep puddles on your way to the entrance to keep your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Gameros",
+                "hu": "Quinta Gameros",
+                "ro": "Quinta Gameros",
+                "en": "Quinta Gameros"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen als Ausrede, um mehr Zeit in den prachtvollen Innenräumen zu verbringen; die Jugendstil-Details wirken bei gedämpftem Licht besonders edel.",
+                "hu": "Használja ki az esőt ürügyként, hogy több időt töltsön a pompás belső terekben; a szecessziós részletek a tompa fényben különösen elegáns és nemes hatást keltenek.",
+                "ro": "Folosiți ploaia ca scuză pentru a petrece mai mult timp în interiorul somptuos; detaliile Art Nouveau par deosebit de nobile în lumina difuză de afară.",
+                "en": "Use the rain as an excuse to spend more time exploring the lavish interiors; the Art Nouveau details look especially noble in the dim natural light from outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarike",
+                "hu": "Tarike",
+                "ro": "Tarike",
+                "en": "Tarike"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ein idealer Zufluchtsort bei Schauern, um die lokale Kultur ohne Zeitdruck zu studieren; halten Sie Ihren Regenschirm am Eingang griffbereit.",
+                "hu": "Ez a múzeum ideális menedék záporok idején a helyi kultúra kényelmes tanulmányozására; tartsa az esernyőjét készenlétben a bejáratnál a gyors távozáshoz.",
+                "ro": "Acest muzeu este un refugiu ideal în timpul averselor pentru a studia cultura locală fără grabă; păstrați umbrela la îndemână lângă intrare pentru ieșire.",
+                "en": "This museum is an ideal refuge during showers to study local culture without any rush; keep your umbrella handy near the entrance for a quick departure."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Villa",
+                "hu": "Museo Casa de Villa",
+                "ro": "Museo Casa de Villa",
+                "en": "Museo Casa de Villa"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Feuchtigkeit perfekt ab, während Sie in die Geschichte Pancho Villas eintauchen; achten Sie auf rutschige Fliesen im Innenhof.",
+                "hu": "A vastag falak tökéletesen kizárják a nedvességet, miközben elmerül Pancho Villa történetében; ügyeljen a csúszós járólapokra a belső udvar átkelésekor.",
+                "ro": "Zidurile groase blochează perfect umezeala în timp ce vă cufundați în istoria lui Pancho Villa; atenție la gresia alunecoasă când traversați curtea interioară.",
+                "en": "The thick walls perfectly block out the dampness while you immerse yourself in Pancho Villa's history; watch for slippery tiles when crossing the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo del Sagrado Corazón de Jesús",
+                "hu": "Templo del Sagrado Corazón de Jesús",
+                "ro": "Templo del Sagrado Corazón de Jesús",
+                "en": "Templo del Sagrado Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und Trockenheit in der Kirche, während draußen der Regen gegen die Fenster trommelt; ein perfekter Ort für eine kurze, besinnliche Pause.",
+                "hu": "Élvezze a templom csendjét és szárazságát, miközben kint az eső veri az ablakokat; tökéletes helyszín egy rövid, elmélyült pihenőhöz a városnézés közben.",
+                "ro": "Bucurați-vă de liniștea și uscăciunea din biserică în timp ce afară ploaia bate în geamuri; un loc perfect pentru o scurtă pauză de meditație în oraș.",
+                "en": "Enjoy the silence and dryness inside the church while the rain beats against the windows outside; a perfect spot for a short, reflective break mid-tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Penitenciaria del Estado",
+                "hu": "Penitenciaria del Estado",
+                "ro": "Penitenciaria del Estado",
+                "en": "Penitenciaria del Estado"
+              },
+              "tip_5lang": {
+                "de": "Das massive Gebäude wirkt im Regen besonders imposant; nutzen Sie die überdachten Bereiche für Fotos, um Ihre Kamera vor Wassertropfen zu schützen.",
+                "hu": "A masszív épület esőben különösen impozáns látványt nyújt; használja a fedett részeket a fotózáshoz, hogy megvédje kameráját a vízcseppektől.",
+                "ro": "Clădirea masivă pare deosebit de impunătoare în ploaie; folosiți zonele acoperite pentru fotografii pentru a vă proteja camera de picăturile de apă.",
+                "en": "The massive building looks particularly imposing in the rain; use the covered areas for photos to protect your camera from stray water droplets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen führt uns zur Quinta Touche, wo die klare Luft die Sicht verbessert. Mittags wärmen wir uns in der prächtigen Quinta Gameros auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir die Museen zügig am frühen Nachmittag. Der Abendspaziergang zur Penitenciaria findet bereits in der Dunkelheit statt, was der Tour eine ganz besondere Atmosphäre verleiht.",
+            "hu": "A hűvös reggel a Quinta Touche megtekintésével indul, a tiszta téli levegőben jól érvényesülnek a részletek. Délben a Quinta Gameros fűtött termei melegítenek fel minket. Délután a múzeumlátogatásokat a 17 órai naplemente előtt végezzük el. Este a Penitenciaria komor épülete a korai sötétségben különösen drámai látványt nyújt a kivilágított utcák végén.",
+            "ro": "O dimineață răcoroasă de iarnă ne duce la Quinta Touche, unde aerul curat îmbunătățește vizibilitatea. La prânz ne încălzim în superba Quinta Gameros. Deoarece soarele apune deja în jurul orei 17:00, vizităm muzeele rapid după-amiaza devreme. Plimbarea de seară spre Penitenciaria are loc deja pe întuneric, oferind turului o atmosferă specială.",
+            "en": "A crisp winter morning leads us to Quinta Touche, where the clear air enhances the views. At noon, we warm up inside the stunning Quinta Gameros. Since the sun sets around 17:00, we visit the museums quickly in the early afternoon. The evening walk to the Penitenciaria takes place in the dark, giving the tour a unique and dramatic atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Quinta Touche",
+                "hu": "Quinta Touche",
+                "ro": "Quinta Touche",
+                "en": "Quinta Touche"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für die Außenbesichtigung, da der Wind in den Straßen von Chihuahua im Winter schneidend kalt sein kann; zügiges Gehen hält warm.",
+                "hu": "Viseljen meleg rétegeket a külső megtekintéshez, mivel a szél Chihuahua utcáin télen metsző lehet; a tempós gyaloglás segít testhőmérséklete megőrzésében.",
+                "ro": "Purtați straturi calde pentru vizitarea exteriorului, deoarece vântul pe străzile din Chihuahua poate fi tăios iarna; mersul vioi vă va ajuta să vă încălziți.",
+                "en": "Wear warm layers for the exterior viewing, as the wind on Chihuahua's streets can be biting in winter; walking briskly will help keep your body heat up."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Gameros",
+                "hu": "Quinta Gameros",
+                "ro": "Quinta Gameros",
+                "en": "Quinta Gameros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Wärme im Inneren dieses architektonischen Juwels; die tiefstehende Wintersonne wirft faszinierende Schatten durch die Fenster.",
+                "hu": "Élvezze a barátságos meleget ezen építészeti ékszerdoboz belsejében; az alacsonyan járó téli nap fascináló árnyékokat vet az ablakokon keresztül a falakra.",
+                "ro": "Bucurați-vă de căldura primitoare din interiorul acestei bijuterii arhitecturale; soarele slab de iarnă proiectează umbre fascinante prin ferestre pe podele.",
+                "en": "Enjoy the cozy warmth inside this architectural jewel box; the low winter sun casts fascinating shadows through the windows onto the historic floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarike",
+                "hu": "Tarike",
+                "ro": "Tarike",
+                "en": "Tarike"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt im Museum bietet eine willkommene Pause von der Kälte draußen; ideal, um sich aufzuwärmen, bevor man den Weg zum nächsten Ziel fortsetzt.",
+                "hu": "Egy rövid tartózkodás a múzeumban szívesen látott pihenőt nyújt a kinti hideg elől; ideális hely felmelegedni, mielőtt folytatná útját a következő célpont felé.",
+                "ro": "O scurtă oprire în muzeu oferă o pauză binevenită de frigul de afară; este locul ideal pentru a vă încălzi înainte de a continua drumul spre următoarea țintă.",
+                "en": "A short stay in the museum offers a welcome break from the cold outside; it is the ideal spot to warm up before continuing your journey to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Villa",
+                "hu": "Museo Casa de Villa",
+                "ro": "Museo Casa de Villa",
+                "en": "Museo Casa de Villa"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 16:00 Uhr, um das natürliche Licht in den Räumen optimal zu nutzen, bevor es draußen vorzeitig dämmrig und kühler wird.",
+                "hu": "Tervezze látogatását 16:00 előtt, hogy optimálisan kihasználja a természetes fényt a termekben, mielőtt odakint idő előtt szürkülni kezdene és lehűlne az idő.",
+                "ro": "Planificați vizita înainte de ora 16:00 pentru a profita la maximum de lumina naturală din săli, înainte ca afară să se înserreze prematur și să se răcească.",
+                "en": "Plan your visit before 16:00 to make the most of the natural light in the rooms before it gets prematurely dark and much cooler outside in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo del Sagrado Corazón de Jesús",
+                "hu": "Templo del Sagrado Corazón de Jesús",
+                "ro": "Templo del Sagrado Corazón de Jesús",
+                "en": "Templo del Sagrado Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre zum Aufwärmen; beachten Sie, dass es in großen Steingebäuden oft kühler ist als erwartet, behalten Sie die Jacke an.",
+                "hu": "A templom békés légkört biztosít a felmelegedéshez; ne feledje, hogy a nagy kőépületekben gyakran hidegebb van a vártnál, érdemes a kabátot magán hagynia.",
+                "ro": "Biserica oferă o atmosferă liniștită pentru a vă încălzi; rețineți că în clădirile mari de piatră este adesea mai frig decât vă așteptați, păstrați haina pe dvs.",
+                "en": "The church provides a peaceful atmosphere to warm up; remember that large stone buildings are often cooler than expected, so it is best to keep your coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "Penitenciaria del Estado",
+                "hu": "Penitenciaria del Estado",
+                "ro": "Penitenciaria del Estado",
+                "en": "Penitenciaria del Estado"
+              },
+              "tip_5lang": {
+                "de": "Nach 17:00 Uhr ist es bereits dunkel, was die düstere Geschichte dieses Ortes unterstreicht; die kalte Abendluft macht den Besuch besonders atmosphärisch.",
+                "hu": "17:00 után már sötét van, ami kiemeli a hely sötét történelmi múltját; a hideg esti levegő és a kivilágítás különleges hangulatot kölcsönöz a látogatásnak.",
+                "ro": "După ora 17:00 este deja întuneric, ceea ce subliniază istoria sumbră a acestui loc; aerul rece de seară face vizita deosebit de atmosferică și memorabilă.",
+                "en": "It is already dark after 17:00, which highlights the somber history of this place; the cold evening air makes the visit feel particularly atmospheric and memorable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a biciklitúrát a Hős Gyermekek Emlékművénél, majd tekerjen el a közeli Benito Juárez szoborhoz, hogy tisztelegjen a történelem előtt.\nDélben a belvárosba érve megcsodálhatja az elegáns Quinta Touche épületét és a lenyűgöző szecessziós Quinta Gameros palotát.\nDélután látogasson el a Museo Casa de Villa falai közé, ahol életre kel a forradalom. A történelmi központ kényelmesen bejárható.\nAz estét a Templo del Sagrado Corazón békés környezetében zárja le, miközben a lemenő nap fénye megvilágítja a gyönyörű templomot.",
         "ro": "Începeți turul cu bicicleta la Monumentul Niños Heroes, apoi pedalați spre statuia istorică a lui Benito Juárez pentru a simți pulsul națiunii.\nLa prânz, ajungeți în centru pentru a admira eleganta Quinta Touche și splendoarea Art Nouveau a impunătoarei Quinta Gameros.\nDupă-amiaza pedalați la Museo Casa de Villa, unde revoluția prinde viață. Străzile centrale vă permit o explorare activă și plăcută.\nÎncheiați traseul într-o notă liniștită la Templo del Sagrado Corazón, admirând fațada frumos luminată în amurg.",
         "en": "Kick off your cycling tour at the Monumento a los Niños Heroes, then ride smoothly over to the majestic Benito Juarez historical monument.\nBy midday, arrive in the city center to admire the elegant Quinta Touche and the stunning Art Nouveau details of Quinta Gameros.\nSpend your afternoon at the Museo Casa de Villa, where the Mexican Revolution comes to life. The central streets are great for cycling.\nWind down your active day with a peaceful stop at the Templo del Sagrado Corazón, enjoying the beautiful architecture in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht auf den rutschigen Straßen zu den Denkmälern. Mittags bieten die Villen Quinta Touche und Gameros willkommene Pausen im Trockenen. Der Nachmittag wird im Museo Casa de Villa verbracht, um dem stärksten Regen zu entgehen. Am Abend radeln wir vorsichtig durch die glänzenden Pfützen der Stadt zum beleuchteten Tempel.",
+            "hu": "A vizes kerékpártúra óvatosságot igényel a csúszós utakon az emlékművek felé. Délben a Quinta Touche és a Gameros villák nyújtanak szívesen látott pihenőt a szárazon. A délutánt a Museo Casa de Villa falai között töltjük, elkerülve a legerősebb esőt. Este óvatosan pedálozunk a város csillogó tócsái között a kivilágított templom felé.",
+            "ro": "O tură umedă cu bicicleta necesită prudență pe străzile alunecoase spre monumente. La prânz, vilele Quinta Touche și Gameros oferă pauze binevenite la adăpost. După-amiaza este petrecută în interiorul Museo Casa de Villa pentru a evita ploaia torențială. Seara pedalăm cu grijă prin bălțile strălucitoare ale orașului spre templul luminat.",
+            "en": "A wet bike tour requires caution on the slippery roads toward the monuments. At noon, the Quinta Touche and Gameros villas provide welcome breaks in the dry interiors. The afternoon is spent inside the Museo Casa de Villa to avoid the heaviest rain. In the evening, we pedal carefully through the city's glistening puddles toward the illuminated temple."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a los Niños Heroes",
+                "hu": "Monumento a los Niños Heroes",
+                "ro": "Monumento a los Niños Heroes",
+                "en": "Monumento a los Niños Heroes"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassen Steinböden; machen Sie ein schnelles Foto und setzen Sie die Fahrt fort, um nicht zu sehr auszukühlen im Regen.",
+                "hu": "Vigyázzon a leszálláskor a vizes kőburkolaton; készítsen egy gyors fotót, majd folytassa útját, hogy ne hűljön ki túlságosan a hideg esőben kerékpározva.",
+                "ro": "Atenție la coborârea de pe bicicletă pe pavajul umed; faceți o fotografie rapidă și continuați drumul pentru a nu vă răci prea tare în ploaia de afară.",
+                "en": "Be careful when dismounting on wet stone surfaces; take a quick photo and continue your ride so you don't get too chilled while cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Benito Juarez",
+                "hu": "Benito Juarez",
+                "ro": "Benito Juarez",
+                "en": "Benito Juarez"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die umliegenden Bäume als leichten Schutz, während Sie das Denkmal betrachten; prüfen Sie Ihre Bremsen vor der Abfahrt auf der feuchten Straße.",
+                "hu": "Használja a környező fákat enyhe menedékként, miközben az emlékművet nézi; ellenőrizze a fékeit az indulás előtt a nedves és csúszós útfelület miatt.",
+                "ro": "Folosiți copacii din jur ca adăpost ușor în timp ce priviți monumentul; verificați frânele înainte de plecare din cauza drumului umed și alunecos de acum.",
+                "en": "Use the surrounding trees as slight shelter while viewing the monument; check your brakes before departing due to the wet and potentially slippery road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Touche",
+                "hu": "Quinta Touche",
+                "ro": "Quinta Touche",
+                "en": "Quinta Touche"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Pause im Inneren; wischen Sie den Sattel vor der Weiterfahrt gründlich trocken.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze a benti pihenőt; alaposan törölje szárazra a nyerget a továbbindulás előtt a kényelem érdekében.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de pauza în interior; ștergeți bine șaua înainte de a pleca mai departe pentru confortul dumneavoastră.",
+                "en": "Park your bike in a protected spot and enjoy the break indoors; wipe the saddle thoroughly dry before heading out again for your continued comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Gameros",
+                "hu": "Quinta Gameros",
+                "ro": "Quinta Gameros",
+                "en": "Quinta Gameros"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Villa ist der perfekte Ort, um einen starken Schauer abzuwarten; nutzen Sie die Zeit für eine ausführliche Besichtigung der Details.",
+                "hu": "A pompás villa tökéletes hely egy erős zápor kivárására; használja ki az időt a részletek alapos megtekintésére a gyönyörű és száraz belső terekben.",
+                "ro": "Vila splendidă este locul perfect pentru a aștepta trecerea unei averse puternice; profitați de timp pentru o vizitare detaliată a interiorului superb.",
+                "en": "The splendid villa is the perfect place to wait out a heavy shower; take advantage of the time for a detailed tour of the beautiful and dry interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Villa",
+                "hu": "Museo Casa de Villa",
+                "ro": "Museo Casa de Villa",
+                "en": "Museo Casa de Villa"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad gut und verbringen Sie die regenreichste Zeit des Nachmittags hier; die Ausstellungen bieten reichlich Ablenkung vom Wetter.",
+                "hu": "Zárja le biztonságosan kerékpárját, és töltse itt a délután legesősebb részét; a kiállítások bőséges látnivalót kínálnak a kinti rossz idő ellenére is.",
+                "ro": "Asigurați-vă bicicleta bine și petreceți aici cea mai ploioasă parte a după-amiezii; expozițiile oferă multe atracții în ciuda vremii rele de afară.",
+                "en": "Lock your bike securely and spend the rainiest part of the afternoon here; the exhibits offer plenty of distractions regardless of the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo del Sagrado Corazón de Jesús",
+                "hu": "Templo del Sagrado Corazón de Jesús",
+                "ro": "Templo del Sagrado Corazón de Jesús",
+                "en": "Templo del Sagrado Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Besuch in der trockenen Kirche; achten Sie auf dem Rückweg auf spritzendes Wasser von vorbeifahrenden Autos in der Dunkelheit.",
+                "hu": "Zárja a túrát a száraz templomban; hazafelé menet a sötétben ügyeljen az elhaladó autók által felvert vízre és a korlátozott látási viszonyokra.",
+                "ro": "Încheiați turul cu o vizită în biserica uscată; la întoarcere, pe întuneric, atenție la apa stropită de mașinile care trec și la vizibilitatea redusă.",
+                "en": "End your tour with a visit to the dry church; on the way back in the dark, watch out for spray from passing cars and the limited visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei winterlicher Kälte starten wir die Radtour gut eingepackt an den Monumenten. Die klare Luft bietet weite Ausblicke, erfordert aber Windschutz. Mittags sind die Stopps in den Villen wichtig, um die Glieder aufzuwärmen. Da es früh dunkel wird, nutzen wir das Tageslicht für die Fahrt zwischen den Museen und beenden die Tour bei frostigen Temperaturen am Tempel.",
+            "hu": "A téli hidegben jól felöltözve indulunk kerékpártúránkra az emlékművektől. A tiszta levegő messzi kilátást biztosít, de szél elleni védelmet igényel. Délben a villákban tett látogatások fontosak a végtagok felmelegítéséhez. Mivel korán sötétedik, kihasználjuk a nappali fényt a múzeumok közötti útra, és fagyos időben zárunk a templomnál.",
+            "ro": "În frigul iernii, pornim bine echipați în turul cu bicicleta de la monumente. Aerul curat oferă vederi îndepărtate, dar necesită protecție împotriva vântului. La prânz, opririle la vile sunt esențiale pentru a ne încălzi. Deoarece se întunecă devreme, profităm de lumina zilei pentru drumul dintre muzee și încheiem turul la templu.",
+            "en": "In the winter cold, we start our bike tour well-dressed at the monuments. The clear air offers distant views but requires wind protection. At noon, visits to the villas are essential to warm up your limbs. Since it gets dark early, we make the most of the daylight for the ride between museums and end the tour at the temple in freezing air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a los Niños Heroes",
+                "hu": "Monumento a los Niños Heroes",
+                "ro": "Monumento a los Niños Heroes",
+                "en": "Monumento a los Niños Heroes"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt Handschuhe, da der Fahrtwind bei niedrigen Temperaturen die Hände schnell auskühlt; genießen Sie die klare Sicht auf die Statue.",
+                "hu": "Mindenképpen viseljen kesztyűt, mivel a menetszél alacsony hőmérsékleten gyorsan lehűti a kezeit; élvezze a szoborra nyíló kristálytiszta kilátást.",
+                "ro": "Purtați neapărat mănuși, deoarece curentul de aer la temperaturi scăzute vă răcește rapid mâinile; bucurați-vă de vederea clară asupra statuii.",
+                "en": "Be sure to wear gloves, as the wind chill at low temperatures quickly cools down your hands; enjoy the crystal clear view of the statue in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Benito Juarez",
+                "hu": "Benito Juarez",
+                "ro": "Benito Juarez",
+                "en": "Benito Juarez"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt reicht aus, um die historische Bedeutung zu würdigen, bevor Sie weiterfahren, um durch Bewegung warm zu bleiben; achten Sie auf rutschiges Laub.",
+                "hu": "Egy rövid megálló elég a történelmi jelentőség méltatásához, mielőtt továbbhajtana, hogy a mozgással melegen tartsa magát; ügyeljen a csúszós falevelekre.",
+                "ro": "O scurtă oprire este suficientă pentru a aprecia importanța istorică înainte de a pleca mai departe pentru a vă încălzi prin mișcare; atenție la frunzele ude.",
+                "en": "A short stop is enough to appreciate the historical significance before moving on to stay warm through activity; watch out for slippery fallen leaves on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Touche",
+                "hu": "Quinta Touche",
+                "ro": "Quinta Touche",
+                "en": "Quinta Touche"
+              },
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung ist eine perfekte Gelegenheit, um sich bei einer Pause vom kalten Wind zu regenerieren; prüfen Sie Ihre Reifendruck bei Kälte.",
+                "hu": "A belső látogatás tökéletes alkalom a hideg szél utáni regenerálódásra egy rövid szünet keretében; ellenőrizze a gumiabroncsok nyomását a hideg időben.",
+                "ro": "Vizitarea interiorului este o ocazie perfectă de a vă regenera după vântul rece în timpul unei scurte pauze; verificați presiunea în pneuri pe timp de frig.",
+                "en": "The indoor visit is a perfect opportunity to recover from the cold wind during a short break; check your tire pressure as it can drop in colder temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Gameros",
+                "hu": "Quinta Gameros",
+                "ro": "Quinta Gameros",
+                "en": "Quinta Gameros"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die prächtigen Räume, die im Winter eine besonders warme Atmosphäre ausstrahlen; ein Highlight für frostige Tage.",
+                "hu": "Szánjon időt a pompás termekre, amelyek télen különösen meleg és barátságos légkört árasztanak; igazi fénypont a fagyos napokon a városnézés során.",
+                "ro": "Acordați-vă timp pentru sălile magnifice care emană o atmosferă caldă și primitoare iarna; un punct culminant pentru zilele geroase în timpul turului.",
+                "en": "Take your time in the magnificent rooms, which exude a particularly warm and welcoming atmosphere in winter; a true highlight for frosty days on the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Villa",
+                "hu": "Museo Casa de Villa",
+                "ro": "Museo Casa de Villa",
+                "en": "Museo Casa de Villa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum vor Sonnenuntergang um 17:00 Uhr, um die Anlage noch bei Tageslicht zu sehen; die Räume sind angenehm temperiert zum Aufwärmen.",
+                "hu": "Látogasson el a múzeumba a 17:00-s naplemente előtt, hogy még nappali fényben lássa az épületet; a termek kellemesen temperáltak a felmelegedéshez.",
+                "ro": "Vizitați muzeul înainte de apusul de la ora 17:00 pentru a vedea clădirea la lumina zilei; sălile sunt plăcut temperate pentru a vă încălzi picioarele.",
+                "en": "Visit the museum before the 17:00 sunset to see the complex in daylight; the rooms are pleasantly tempered, providing a good spot to warm up your toes."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo del Sagrado Corazón de Jesús",
+                "hu": "Templo del Sagrado Corazón de Jesús",
+                "ro": "Templo del Sagrado Corazón de Jesús",
+                "en": "Templo del Sagrado Corazón de Jesús"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrrad Licht hat, da die Tour im Dunkeln endet; die beleuchtete Kirche bietet einen würdigen und warmen Abschluss.",
+                "hu": "Győződjön meg róla, hogy a kerékpárja rendelkezik világítással, mivel a túra sötétben ér véget; a kivilágított templom méltó és meleg befejezést nyújt.",
+                "ro": "Asigurați-vă că bicicleta are lumini, deoarece turul se termină pe întuneric; biserica luminată oferă un final demn și cald pentru această zi rece.",
+                "en": "Ensure your bike has working lights, as the tour ends after dark; the illuminated church provides a worthy and warm conclusion to this cold winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az autós túra a Museo Casa de Villa felfedezésével indul. Ezután a Quinta Gameros lenyűgöző épülete felé veszi az irányt a központban.\nDélben elhagyja a sűrű belvárost, és a Parque Acuatico DIF víziparkba hajt, amely tökéletes helyszínt biztosít a frissítő pihenésre.\nA délután folyamán bejárja a Feria Santa Rita környékét, majd a népszerű Albercas el Colibri medencéinél tölt felhőtlen órákat.\nA napot a történelmi Cruz emlékműnél zárja, ahonnan csodálatos, tágas kilátás nyílik a tájra a lemenő nap lágy fényében.",
         "ro": "Excursia cu mașina începe la Museo Casa de Villa, plin de istorie revoluționară. Apoi, conduceți la Quinta Gameros pentru arhitectură grandioasă.\nLa prânz lăsați centrul orașului în urmă și mergeți la Parque Acuatico DIF pentru o pauză relaxantă și revigorantă departe de aglomerație.\nDupă-amiaza vizitați terenurile Feria Santa Rita și popularele Albercas el Colibri, bucurându-vă de o atmosferă vibrantă.\nFinalizați traseul la crucea istorică, bucurându-vă de liniște și de o priveliște panoramică superbă asupra regiunii la apus.",
         "en": "Your drive begins at the Museo Casa de Villa, steeped in revolutionary history. Then, navigate to the stunning architecture of Quinta Gameros.\nMidday, leave the bustling center behind and cruise to the Parque Acuatico DIF for a refreshing break and some relaxing outdoor time.\nThe afternoon sees you exploring the sprawling Feria Santa Rita grounds and lounging at the lively Albercas el Colibri recreational pools.\nConclude your road trip by driving to the historic Cruz, where you can reflect on the day while taking in panoramic sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im bequemen Auto lässt sich der Regen in Chihuahua gut ignorieren. Wir starten bei Pancho Villas Haus und ziehen dann zur Quinta Gameros weiter. Die Freizeitparks und die Feria besuchen wir trotz Pfützen, da das Auto schnellen Schutz bietet. Der Tag endet sicher und trocken am historischen Kreuz, während der Regen die Sicht auf die Stadt sanft verschleiert.",
+            "hu": "A kényelmes autóban ülve az eső könnyen figyelmen kívül hagyható Chihuahuában. Pancho Villa házánál kezdünk, majd a Quinta Gameros felé haladunk. A szabadidőparkokat és a Feriát a tócsák ellenére is felkeressük, hiszen az autó gyors menedéket nyújt. A nap biztonságban és szárazon ér véget a történelmi keresztnél, miközben az eső lágyan elfedi a várost.",
+            "ro": "În mașina confortabilă, ploaia din Chihuahua poate fi ignorată cu ușurință. Începem la casa lui Pancho Villa și continuăm spre Quinta Gameros. Vizităm parcurile de agrement și Feria în ciuda bălților, deoarece mașina oferă adăpost rapid. Ziua se încheie în siguranță și la uscat la crucea istorică, în timp ce ploaia acoperă ușor orașul.",
+            "en": "In the comfort of a car, the rain in Chihuahua is easily ignored. We start at Pancho Villa's house and move on to Quinta Gameros. We visit the leisure parks and the Feria despite the puddles, as the car offers quick shelter. The day ends safely and dry at the historic cross, while the rain gently veils the view of the city landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Casa de Villa",
+                "hu": "Museo Casa de Villa",
+                "ro": "Museo Casa de Villa",
+                "en": "Museo Casa de Villa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; drinnen ist es trocken und perfekt, um den ersten starken Regen des Tages abzuwarten.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást; bent száraz és tökéletes az idő a nap első erős esőjének kivárásához és a nézelődéshez.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; interiorul este uscat și perfect pentru a aștepta prima ploaie puternică a zilei în liniște.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; it's dry inside and perfect for waiting out the first heavy rain of the day while browsing."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Gameros",
+                "hu": "Quinta Gameros",
+                "ro": "Quinta Gameros",
+                "en": "Quinta Gameros"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich Zeit in der Villa, während es draußen regnet; die prachtvolle Innenausstattung entschädigt für das graue Wetter vor der Tür.",
+                "hu": "Szánjon bőséges időt a villára, amíg kint esik; a pompás belső berendezés bőven kárpótolja Önt a kinti szürke és barátságtalan időjárásért.",
+                "ro": "Acordați-vă mult timp pentru vilă cât timp plouă afară; interiorul fastuos vă va compensa din plin pentru vremea gri și mohorâtă de la intrare.",
+                "en": "Take plenty of time inside the villa while it rains outside; the lavish interior furnishings will more than compensate for the grey weather at the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuatico DIF",
+                "hu": "Parque Acuatico DIF",
+                "ro": "Parque Acuatico DIF",
+                "en": "Parque Acuatico DIF"
+              },
+              "tip_5lang": {
+                "de": "Der Park wird im Regen leer sein, was eine ruhige Atmosphäre für Fotos schafft; bleiben Sie im Auto, wenn der Schauer zu stark wird, und genießen Sie die Sicht.",
+                "hu": "A park esőben üres lesz, ami nyugodt hangulatot teremt a fotózáshoz; maradjon az autóban, ha a zápor túl erősre fordulna, és élvezze a kilátást onnan.",
+                "ro": "Parcul va fi gol pe ploaie, creând o atmosferă liniștită pentru fotografii; rămâneți în mașină dacă aversa devine prea puternică și priviți peisajul.",
+                "en": "The park will be empty in the rain, creating a quiet atmosphere for photos; stay in the car if the shower turns too heavy and enjoy the view from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Feria Santa Rita",
+                "hu": "Feria Santa Rita",
+                "ro": "Feria Santa Rita",
+                "en": "Feria Santa Rita"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf matschige Wege auf dem Gelände; das Auto ist eine tolle Basis, um sich zwischen kurzen Erkundungen aufzuwärmen und zu trocknen.",
+                "hu": "Ügyeljen a sáros utakra a területen; az autó kiváló bázis a rövid felfedezések közötti felmelegedéshez és megszárítkozáshoz a nedves időben.",
+                "ro": "Atenție la drumurile noroioase de pe teren; mașina este o bază excelentă pentru a vă încălzi și usca între scurte explorări în aer liber.",
+                "en": "Watch out for muddy paths on the grounds; the car serves as a great base to warm up and dry off between short outdoor explorations in the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Albercas el Colibri",
+                "hu": "Albercas el Colibri",
+                "ro": "Albercas el Colibri",
+                "en": "Albercas el Colibri"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht bei Regen aus, um die Anlage zu sehen; nutzen Sie die Zeit für eine kleine Pause im trockenen Fahrzeug mit Blick auf die Becken.",
+                "hu": "Esőben egy rövid megálló is elég a létesítmény megtekintéséhez; használja ki az időt egy kis pihenőre a száraz autóban, a medencékre néző kilátással.",
+                "ro": "O scurtă oprire este suficientă pe ploaie pentru a vedea locația; profitați de timp pentru o mică pauză în mașina uscată, cu vedere spre bazine.",
+                "en": "A short stop is enough in the rain to see the facility; use the time for a quick break in the dry car with a view of the pools before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruz",
+                "hu": "Cruz",
+                "ro": "Cruz",
+                "en": "Cruz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das verregnete Chihuahua direkt aus dem Auto; die Scheinwerfer lassen die nassen Straßen in der Ferne glitzern.",
+                "hu": "Élvezze a panorámát az esős Chihuahuára közvetlenül az autóból; a fényszórók megcsillannak a távoli vizes utakon, különleges hangulatot árasztva.",
+                "ro": "Bucurați-vă de panorama orașului Chihuahua ploios direct din mașină; farurile se reflectă în străzile umede din depărtare, creând o vedere superbă.",
+                "en": "Enjoy the panoramic view of rainy Chihuahua directly from your car; the headlights glisten on the wet roads in the distance, creating a beautiful sight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit der Heizung im Auto ist die Wintertour durch Chihuahua ein Vergnügen. Wir starten bei Pancho Villas Haus und besuchen die warme Quinta Gameros. Am Nachmittag fahren wir zu den Freizeitparks, die in der klaren Winterluft friedlich wirken. Vor dem Sonnenuntergang um 17:00 Uhr erreichen wir das historische Kreuz, um die Stadt im letzten Tageslicht und beginnenden Frost zu sehen.",
+            "hu": "Az autó fűtésével a téli túra Chihuahua-szerte igazi élmény. Pancho Villa házánál kezdünk, majd meglátogatjuk a meleg Quinta Gamerost. Délután a szabadidőparkok felé vesszük az irányt, amelyek a tiszta téli levegőben békésnek tűnnek. A 17:00-s naplemente előtt érünk a kereszthez, hogy lássuk a várost az utolsó fényekben.",
+            "ro": "Cu încălzirea pornită în mașină, turul de iarnă prin Chihuahua este o plăcere. Începem la casa lui Pancho Villa și vizităm calda Quinta Gameros. După-amiaza mergem spre parcurile de agrement, care par liniștite în aerul curat de iarnă. Înainte de apusul de la ora 17:00, ajungem la cruce pentru a vedea orașul în ultima lumină a zilei.",
+            "en": "With the car heater on, the winter tour through Chihuahua is a delight. We start at Pancho Villa's house and visit the warm Quinta Gameros. In the afternoon, we head toward the leisure parks, which look peaceful in the clear winter air. Before the 17:00 sunset, we reach the cross to see the city in the last daylight and beginning frost."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Casa de Villa",
+                "hu": "Museo Casa de Villa",
+                "ro": "Museo Casa de Villa",
+                "en": "Museo Casa de Villa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Tour bei angenehmen Innentemperaturen zu beginnen; nutzen Sie die Zeit, um sich aufzuwärmen, bevor Sie zum nächsten Ziel fahren.",
+                "hu": "Ideális helyszín a túra megkezdéséhez a kellemes belső hőmérséklet mellett; használja ki az időt a felmelegedésre, mielőtt a következő célponthoz hajtana.",
+                "ro": "Un loc ideal pentru a începe turul datorită temperaturii plăcute din interior; profitați de timp pentru a vă încălzi înainte de a conduce spre următoarea țintă.",
+                "en": "An ideal place to start the tour with pleasant indoor temperatures; use the time to warm up thoroughly before driving to your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Gameros",
+                "hu": "Quinta Gameros",
+                "ro": "Quinta Gameros",
+                "en": "Quinta Gameros"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Ausstattung, während die tiefstehende Wintersonne durch die Fenster scheint; drinnen ist es herrlich warm und einladend.",
+                "hu": "Csodálja meg a pompás berendezést, miközben az alacsonyan járó téli nap besüt az ablakokon; bent csodálatosan meleg és hívogató a légkör a látogatók számára.",
+                "ro": "Admirați decorul fastuos în timp ce soarele slab de iarnă pătrunde prin ferestre; interiorul este minunat de cald și primitor pentru toți vizitatorii.",
+                "en": "Admire the lavish decor while the low winter sun shines through the windows; the interior is wonderfully warm and inviting for all visitors on this cold day."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuatico DIF",
+                "hu": "Parque Acuatico DIF",
+                "ro": "Parque Acuatico DIF",
+                "en": "Parque Acuatico DIF"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt im Winterschlaf sehr ruhig; genießen Sie die Aussicht aus dem warmen Auto und machen Sie bei Bedarf einen kurzen Spaziergang an der frischen Luft.",
+                "hu": "A park a téli álom idején nagyon csendes; élvezze a kilátást a meleg autóból, és ha szükséges, tegyen egy rövid sétát a friss, tiszta és hűvös levegőn.",
+                "ro": "Parcul este foarte liniștit în timpul somnului de iarnă; bucurați-vă de priveliște din mașina caldă și, dacă doriți, faceți o scurtă plimbare în aerul curat.",
+                "en": "The park is very quiet during its winter slumber; enjoy the view from the warm car and, if you like, take a short walk in the fresh, crisp, and cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Feria Santa Rita",
+                "hu": "Feria Santa Rita",
+                "ro": "Feria Santa Rita",
+                "en": "Feria Santa Rita"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, ob Winterveranstaltungen stattfinden; das Gelände bietet viel Platz für Fotos bei klarem Himmel, aber ziehen Sie sich für draußen warm an.",
+                "hu": "Ellenőrizze előre, hogy vannak-e téli rendezvények; a terület sok helyet kínál a fotózáshoz tiszta égbolt mellett, de öltözzön fel melegen a kinti sétához.",
+                "ro": "Verificați din timp dacă au loc evenimente de iarnă; terenul oferă mult spațiu pentru fotografii sub cerul senin, dar îmbrăcați-vă gros pentru exterior.",
+                "en": "Check in advance if there are any winter events; the grounds offer plenty of space for photos under clear skies, but dress warmly for your outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Albercas el Colibri",
+                "hu": "Albercas el Colibri",
+                "ro": "Albercas el Colibri",
+                "en": "Albercas el Colibri"
+              },
+              "tip_5lang": {
+                "de": "Die leeren Becken im Winter haben einen eigenen grafischen Reiz; betrachten Sie die Anlage aus dem Auto heraus, um nicht unnötig in der Kälte zu stehen.",
+                "hu": "Az üres medencéknek télen sajátos grafikai vonzereje van; tekintse meg a létesítményt az autóból, hogy ne kelljen feleslegesen a kinti hidegben állnia.",
+                "ro": "Bazinele goale iarna au un farmec grafic aparte; priviți locația din mașină pentru a nu fi nevoit să stați inutil în frigul de afară pentru poze.",
+                "en": "The empty pools in winter have their own graphic appeal; view the facility from the car so you don't have to stand unnecessarily in the biting cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruz",
+                "hu": "Cruz",
+                "ro": "Cruz",
+                "en": "Cruz"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr; die Lichter der Stadt im Tal wirken bei frostigen Temperaturen besonders funkelnd und klar.",
+                "hu": "Érkezzen pontosan a 17:00-s naplementére; a völgyben fekvő város fényei a fagyos hőmérsékletben különösen ragyogónak és tisztának tűnnek a magasból.",
+                "ro": "Sosiți exact la apusul de la ora 17:00; luminile orașului din vale par deosebit de strălucitoare și clare la temperaturile scăzute de iarnă de acum.",
+                "en": "Arrive exactly for the 17:00 sunset; the city lights in the valley appear particularly sparkling and clear in the freezing winter temperatures from up here."
+              }
+            }
+          ]
+        }
       }
     }
   }

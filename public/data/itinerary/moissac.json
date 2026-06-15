@@ -160,6 +160,196 @@
         "de": "Der Morgen beginnt an der prächtigen Abtei Saint-Pierre, die den historischen Ton angibt. Anschließend erkunden Sie den angrenzenden Kreuzgang von Moissac, der für seine kunstvollen Kapitelle bekannt ist.\nGegen Mittag bringt Sie ein kurzer Spaziergang zur bescheidenen Chapelle de l'Hôpital. Von dort geht es weiter zur Kirche Saint-Jacques, wo der Geist der Pilger noch spürbar ist.\nAm Nachmittag führt die Route zum gite de l'ancien carmel, ein Beweis für die Gastfreundschaft der Stadt. Der Weg ist flach und für alle Besucher leicht zugänglich.\nDer Abend nähert sich, wenn Sie die Fontaine des 24 Échellons erreichen. Die ruhige Umgebung bietet den perfekten Moment der Besinnung, bevor Sie Ihre Tour beenden.",
         "hu": "A reggel a fenséges Saint-Pierre apátságnál kezdődik, amely történelmi alaphangot ad a napnak. Ezután a szomszédos moissaci kolostort fedezi fel, amely világszerte ismert faragott oszlopfőiről.\nDélben egy rövid séta a szerény Chapelle de l'Hôpital felé vezet. Innen a Saint-Jacques templomhoz folytatja útját, átérezve a Szent Jakab-úton járó zarándokok kitartó szellemét.\nDélután az útvonal a gite de l'ancien carmel felé visz, amely a város vendégszeretetének bizonyítéka. A séta sík terepen halad, így minden látogató számára könnyen bejárható.\nAz este közeledtével eléri a Fontaine des 24 Échellons-t. A csendes környezet tökéletes pillanatot kínál az elmélkedésre, mielőtt befejezné a moissaci gyalogtúrát.",
         "ro": "Dimineața începe la magnifica Abație Saint-Pierre, stabilind un ton profund istoric. Veți explora apoi Claustrul Moissac adiacent, de renume mondial pentru capitelurile sale complicate.\nLa prânz, o scurtă plimbare vă aduce la modesta Chapelle de l'Hôpital. De acolo, veți continua spre Biserica Saint-Jacques, simțind spiritul pelerinilor de pe Camino de Santiago.\nDupă-amiaza, traseul vă duce spre gite de l'ancien carmel, o dovadă a naturii primitoare a orașului. Plimbarea este plată și foarte accesibilă pentru toți vizitatorii.\nSeara se apropie odată cu ajungerea la Fontaine des 24 Échellons. Împrejurimile liniștite oferă un moment perfect de reflecție înainte de a încheia turul pietonal al orașului Moissac."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning visit to the abbey, seek shelter in the cloister. Noon: short rainy walk to the chapels. Afternoon: check out the historic gite and the fountain, watch your step on wet stones. Evening: cozy up indoors as rain continues.",
+            "de": "Morgendlicher Besuch der Abtei, suchen Sie Schutz im Kreuzgang. Mittags kurzer Spaziergang im Regen zu den Kapellen. Nachmittags das historische Gîte und den Brunnen ansehen, Vorsicht auf nassen Steinen. Abends drinnen gemütlich machen.",
+            "hu": "Reggeli látogatás az apátságban, majd menedék a kerengőben. Délben rövid, esős séta a kápolnákhoz. Délután nézze meg a történelmi gîte-t és a szökőkutat, vigyázzon a csúszós kövekre. Este kuckózzon be a folyamatos eső elől.",
+            "ro": "Vizită matinală la abație, căutați adăpost în mănăstire. La prânz: o scurtă plimbare ploioasă spre capele. După-amiaza: vizitați gîte-ul istoric și fântâna, atenție la pietrele alunecoase. Seara: relaxați-vă la interior în timp ce plouă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Saint-Pierre Abbey",
+                "de": "Saint-Pierre Abbey",
+                "hu": "Saint-Pierre Abbey",
+                "ro": "Saint-Pierre Abbey"
+              },
+              "tip_5lang": {
+                "en": "The magnificent portal is sheltered, allowing you to admire the intricate tympanum out of the rain, but keep a sturdy umbrella handy for crossing the open square.",
+                "de": "Das prächtige Portal ist überdacht, sodass Sie das Tympanon regengeschützt bewundern können. Halten Sie aber einen Regenschirm für den offenen Platz bereit.",
+                "hu": "A lenyűgöző portál védett, így az eső elől elhúzódva csodálhatja meg a timpanont, de a nyitott téren való átkeléshez tartson kéznél egy strapabíró esernyőt.",
+                "ro": "Portalul magnific este adăpostit, permițându-vă să admirați timpanul ferit de ploaie, dar păstrați o umbrelă la îndemână pentru a traversa piața deschisă."
+              }
+            },
+            {
+              "name": {
+                "en": "Moissac Cloister",
+                "de": "Moissac Cloister",
+                "hu": "Moissac Cloister",
+                "ro": "Moissac Cloister"
+              },
+              "tip_5lang": {
+                "en": "The covered galleries offer perfect refuge from the rain while you marvel at the carved capitals. Wear waterproof shoes to navigate the wet stone floors safely.",
+                "de": "Die überdachten Galerien bieten perfekten Schutz vor Regen, während Sie die Kapitelle bestaunen. Tragen Sie wasserfeste Schuhe für die nassen Steinböden.",
+                "hu": "A fedett galériák tökéletes menedéket nyújtanak az eső elől, miközben megcsodálja a faragott oszlopfőket. Vízálló cipő viselése a nedves köveken ajánlott.",
+                "ro": "Galeriile acoperite oferă un refugiu perfect împotriva ploii în timp ce admirați capitelurile sculptate. Purtați încălțăminte impermeabilă pe pietrele ude."
+              }
+            },
+            {
+              "name": {
+                "en": "Chapelle de l'Hôpital",
+                "de": "Chapelle de l'Hôpital",
+                "hu": "Chapelle de l'Hôpital",
+                "ro": "Chapelle de l'Hôpital"
+              },
+              "tip_5lang": {
+                "en": "A completely dry, quiet sanctuary where you can escape the passing showers and appreciate the historical religious architecture in absolute peace away from the rain.",
+                "de": "Ein trockenes, ruhiges Heiligtum, in dem Sie den Schauern entfliehen und die historische Architektur in absoluter Ruhe abseits des Regens genießen können.",
+                "hu": "Egy teljesen száraz, csendes szentély, ahol menedéket találhat a záporok elől, és teljes békében csodálhatja meg a történelmi vallási építészetet az eső elől.",
+                "ro": "Un sanctuar complet uscat și liniștit, unde puteți scăpa de averse și aprecia arhitectura istorică în pace absolută, departe de ploaia de afară."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Jacques Church",
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "en": "Step inside to dry off and view the beautiful interior. Be extremely careful when exiting, as the outdoor stone steps can become quite slippery when wet.",
+                "de": "Treten Sie ein, um sich aufzuwärmen und das schöne Innere zu sehen. Seien Sie beim Verlassen vorsichtig, da die Steinstufen bei Nässe sehr rutschig werden.",
+                "hu": "Lépjen be, hogy megszáradjon és megtekintse a gyönyörű belsőt. Kifelé jövet legyen rendkívül óvatos, mivel a kinti kőlépcsők nedvesen nagyon csúszósak.",
+                "ro": "Intrați pentru a vă usca și a vedea interiorul frumos. Fiți extrem de atenți la ieșire, deoarece treptele de piatră din exterior devin foarte alunecoase."
+              }
+            },
+            {
+              "name": {
+                "en": "gite de l'ancien carmel",
+                "de": "gite de l'ancien carmel",
+                "hu": "gite de l'ancien carmel",
+                "ro": "gite de l'ancien carmel"
+              },
+              "tip_5lang": {
+                "en": "This historic stop provides a wonderful moment of respite from the rain, offering insight into the pilgrims' journey. Keep your rain jacket on for the next stop.",
+                "de": "Dieser historische Halt bietet eine wunderbare Atempause vom Regen und Einblicke in die Pilgerreise. Behalten Sie Ihre Regenjacke für den nächsten Halt an.",
+                "hu": "Ez a történelmi megálló csodálatos pihenőt nyújt az esőben, bepillantást engedve a zarándokok útjába. Tartsa magán az esőkabátot a következő megállóhoz.",
+                "ro": "Această oprire istorică oferă un moment minunat de respiro de la ploaie, oferind o perspectivă asupra pelerinilor. Păstrați haina de ploaie pentru următoarea vizită."
+              }
+            },
+            {
+              "name": {
+                "en": "Fontaine des 24 Échellons",
+                "de": "Fontaine des 24 Échellons",
+                "hu": "Fontaine des 24 Échellons",
+                "ro": "Fontaine des 24 Échellons"
+              },
+              "tip_5lang": {
+                "en": "The steps leading down to the fountain get very slick in the rain, so tread carefully while exploring this unique water feature. Wear good gripping footwear.",
+                "de": "Die Stufen zum Brunnen werden bei Regen sehr glatt, gehen Sie also beim Erkunden dieses Wasserspiels vorsichtig. Tragen Sie Schuhe mit gutem Profil.",
+                "hu": "A szökőkúthoz vezető lépcsők nagyon csúszósak lesznek az esőben, ezért óvatosan lépkedjen a vízforrás felfedezésekor. Viseljen jó tapadású lábbelit.",
+                "ro": "Treptele spre fântână devin foarte alunecoase în ploaie, așa că pășiți cu grijă în timp ce explorați acest loc unic. Purtați încălțăminte cu aderență bună."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Crisp winter morning starting at the abbey. Midday brings chilly walks between historic chapels, dress warmly. Afternoon visit to the fountain before dusk. Evening arrives early at 5 PM, perfect for a warm drink indoors.",
+            "de": "Frischer Wintermorgen beginnend an der Abtei. Mittags kühle Spaziergänge zwischen historischen Kapellen, warm anziehen. Nachmittagsbesuch am Brunnen vor der Dämmerung. Der Abend bricht früh um 17:00 Uhr herein, perfekt für ein Heißgetränk.",
+            "hu": "Csípős téli reggel az apátságnál. Délben fagyos séta a történelmi kápolnák között, öltözzön melegen. Délutáni látogatás a szökőkútnál szürkület előtt. Az este korán, 17:00 körül érkezik, tökéletes egy meleg italhoz bent.",
+            "ro": "Dimineață geroasă de iarnă începând la abație. Prânzul aduce plimbări răcoroase între capele, îmbrăcați-vă gros. După-amiaza vizitați fântâna înainte de lăsarea serii. Seara vine devreme, pe la 17:00, ideal pentru o băutură caldă la interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Saint-Pierre Abbey",
+                "de": "Saint-Pierre Abbey",
+                "hu": "Saint-Pierre Abbey",
+                "ro": "Saint-Pierre Abbey"
+              },
+              "tip_5lang": {
+                "en": "Bundle up to admire the stunning tympanum in the crisp morning air before stepping inside the unheated but awe-inspiring nave. A warm hat and scarf are essential.",
+                "de": "Packen Sie sich warm ein, um das Tympanon in der kalten Morgenluft zu bewundern, bevor Sie das unbeheizte Kirchenschiff betreten. Mütze und Schal sind wichtig.",
+                "hu": "Öltözzön be, hogy megcsodálja a timpanont a csípős reggeli levegőn, mielőtt belépne a fűtetlen, de félelmetes hajóba. Egy meleg sapka és sál elengedhetetlen.",
+                "ro": "Înfofoliți-vă pentru a admira timpanul în aerul rece al dimineții înainte de a intra în naosul neîncălzit, dar impresionant. O căciulă caldă și fular sunt esențiale."
+              }
+            },
+            {
+              "name": {
+                "en": "Moissac Cloister",
+                "de": "Moissac Cloister",
+                "hu": "Moissac Cloister",
+                "ro": "Moissac Cloister"
+              },
+              "tip_5lang": {
+                "en": "The ancient stone galleries are beautiful but remarkably cold in winter; wear warm, insulated layers while examining the 76 famous sculpted Romanesque capitals.",
+                "de": "Die Steingalerien sind im Winter bemerkenswert kalt; tragen Sie warme, isolierende Schichten, während Sie die 76 berühmten romanischen Kapitelle untersuchen.",
+                "hu": "A kőgalériák gyönyörűek, de télen rendkívül hidegek; viseljen meleg, szigetelő rétegeket, miközben a 76 híres románkori faragott oszlopfőt vizsgálja.",
+                "ro": "Galeriile de piatră sunt frumoase, dar extrem de reci iarna; purtați straturi calde în timp ce examinați cele 76 de capiteluri romanice sculptate."
+              }
+            },
+            {
+              "name": {
+                "en": "Chapelle de l'Hôpital",
+                "de": "Chapelle de l'Hôpital",
+                "hu": "Chapelle de l'Hôpital",
+                "ro": "Chapelle de l'Hôpital"
+              },
+              "tip_5lang": {
+                "en": "A quiet refuge against the biting winter chill, allowing you to peacefully explore its historic religious significance. The stone walls trap the cold, so stay wrapped up.",
+                "de": "Ein ruhiger Zufluchtsort vor der beißenden Winterkälte. Die dicken Steinmauern schließen die Kälte jedoch ein, also bleiben Sie gut eingepackt.",
+                "hu": "Csendes menedék a harapós téli hideg ellen, ahol békésen felfedezheti a történelmet. A kőfalak megtartják a hideget, ezért maradjon jól beöltözve.",
+                "ro": "Un refugiu liniștit împotriva frigului tăios de iarnă, permițându-vă să explorați în pace. Zidurile de piatră rețin frigul, așa că rămâneți bine înfofolit."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Jacques Church",
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "en": "The winter light filtering through the windows creates a serene atmosphere, though the unheated stone interior definitely requires wearing a thick, warm winter coat.",
+                "de": "Das Winterlicht durch die Fenster schafft eine heitere Atmosphäre, obwohl das unbeheizte Steininnere definitiv das Tragen eines dicken Wintermantels erfordert.",
+                "hu": "Az ablakokon átszűrődő téli fény derűs hangulatot teremt, bár a fűtetlen kőbelső miatt mindenképpen vastag, meleg télikabátot kell viselni.",
+                "ro": "Lumina de iarnă creează o atmosferă senină, deși interiorul neîncălzit din piatră necesită cu siguranță purtarea unei haine groase și călduroase de iarnă."
+              }
+            },
+            {
+              "name": {
+                "en": "gite de l'ancien carmel",
+                "de": "gite de l'ancien carmel",
+                "hu": "gite de l'ancien carmel",
+                "ro": "gite de l'ancien carmel"
+              },
+              "tip_5lang": {
+                "en": "Discover the history of weary winter pilgrims here; the historic stone walls hold the cold incredibly well, so keep your gloves and scarf on during your visit.",
+                "de": "Entdecken Sie hier die Geschichte müder Winterpilger; die Steinmauern halten die Kälte unglaublich gut, also behalten Sie Handschuhe und Schal an.",
+                "hu": "Fedezze fel itt a fáradt téli zarándokok történetét; a történelmi kőfalak hihetetlenül jól tartják a hideget, ezért tartsa magán a kesztyűt és sálat.",
+                "ro": "Descoperiți istoria pelerinilor obosiți de iarnă; zidurile de piatră rețin frigul incredibil de bine, așa că păstrați-vă mănușile și fularul pe parcursul vizitei."
+              }
+            },
+            {
+              "name": {
+                "en": "Fontaine des 24 Échellons",
+                "de": "Fontaine des 24 Échellons",
+                "hu": "Fontaine des 24 Échellons",
+                "ro": "Fontaine des 24 Échellons"
+              },
+              "tip_5lang": {
+                "en": "Make sure to visit this historic fountain well before the early sunset around 5 PM, taking great care on the potentially frosty and icy stone steps leading down.",
+                "de": "Besuchen Sie diesen Brunnen deutlich vor dem frühen Sonnenuntergang gegen 17 Uhr und seien Sie sehr vorsichtig auf den potenziell frostigen Steinstufen.",
+                "hu": "Feltétlenül látogasson el ide még jóval a korai, 17 óra körüli naplemente előtt, és nagyon vigyázzon a lefelé vezető, fagyos és jeges kőlépcsőkön.",
+                "ro": "Asigurați-vă că vizitați această fântână înainte de apusul de la ora 17:00, având mare grijă pe treptele de piatră care pot fi înghețate și alunecoase."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "de": "Beginnen Sie Ihr Fahrradabenteuer bei den antiken Ruinen der Église Saint-Martin. Eine kurze Fahrt bringt Sie dann zum friedlichen gite de l'ancien carmel am Rande der Altstadt.\nDer Mittag ist den Kronjuwelen von Moissac gewidmet: der atemberaubenden Abtei Saint-Pierre und ihrem weltberühmten Kreuzgang. Das Radeln zwischen diesen zentralen Sehenswürdigkeiten ist sehr bequem.\nAm Nachmittag erkunden Sie das religiöse Erbe weiter und besuchen die Kirche Saint-Jacques sowie die malerische Chapelle de l'Hôpital. Das Fahrrad macht die Navigation mühelos.\nDer Tag endet mit einer malerischen Fahrt zur Kanalbrücke von Cacor. Die Farben des Sonnenuntergangs, die sich im Wasser spiegeln, bilden einen magischen Abschluss.",
         "hu": "Kezdje kerékpáros kalandját az Église Saint-Martin ősi romjainál, távolabb a városközponttól. Egy gyors tekerés után a békés gite de l'ancien carmel épületéhez érkezik.\nA dél a város ékköveinek van szentelve: a lélegzetelállító Saint-Pierre apátságnak és a világhírű kolostornak. A központi látnivalók közötti kerékpározás gyors és kényelmes.\nDélutáni útja tovább kutatja a vallási örökséget, meglátogatva a Saint-Jacques templomot és a festői Chapelle de l'Hôpital-t. A kerékpárral könnyedén navigálhat a szűk utcákon.\nA nap egy festői utazással zárul a Cacor csatornahídhoz. A csatorna vizén tükröződő naplemente színeinek megtekintése varázslatos befejezése a kerékpáros útnak.",
         "ro": "Începeți aventura pe bicicletă la ruinele antice ale Église Saint-Martin. O plimbare scurtă vă duce apoi la pașnicul gite de l'ancien carmel, situat aproape de centru.\nPrânzul este dedicat bijuteriilor din Moissac: uluitoarea Abație Saint-Pierre și Claustrul său de renume mondial. Ciclismul între aceste atracții centrale este rapid și extrem de convenabil.\nDupă-amiaza veți explora patrimoniul religios, vizitând Biserica Saint-Jacques și pitoreasca Chapelle de l'Hôpital. Bicicleta face navigarea pe străzile înguste lipsită de efort.\nZiua se încheie cu o plimbare pitorească până la Podul Cacor. Culorile apusului reflectate pe apele canalului oferă un final magic călătoriei dumneavoastră pe bicicletă."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning ride to Saint-Martin; use mudguards. Midday features sheltered abbey visits while bikes are parked. Afternoon ride to the canal bridge; caution on wet paths. Evening: dry off indoors after a wet cycling day.",
+            "de": "Morgendliche Fahrt nach Saint-Martin; Schutzbleche nutzen. Mittags überdachte Abteibesuche ohne Rad. Nachmittagsfahrt zur Kanalbrücke; Vorsicht auf nassen Wegen. Abends: nach einem nassen Tag drinnen aufwärmen.",
+            "hu": "Reggeli tekerés a Saint-Martinhoz; használjon sárvédőt. Délben védett apátsági látogatás, míg a bringa pihen. Délutáni út a csatornahídhoz; óvatosan a nedves utakon. Este: szárítkozás egy esős nap után.",
+            "ro": "Plimbare matinală la Saint-Martin; folosiți apărători de noroi. La prânz vizite adăpostite la abație. După-amiaza spre podul canalului; prudență pe drumurile umede. Seara: uscați-vă la interior după o zi ploioasă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Église Saint-Martin",
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "en": "Park your bike and step inside to escape the morning showers; the ancient walls provide excellent shelter while you admire the historical Romanesque architecture.",
+                "de": "Parken Sie Ihr Rad und treten Sie ein, um den Schauern zu entkommen. Die alten Mauern bieten Schutz, während Sie die romanische Architektur bewundern.",
+                "hu": "Parkolja le a kerékpárt, és lépjen be a reggeli záporok elől; az ősi falak kiváló menedéket nyújtanak, miközben megcsodálja a románkori építészetet.",
+                "ro": "Parcați bicicleta și intrați pentru a scăpa de aversele matinale; zidurile antice oferă un adăpost excelent în timp ce admirați arhitectura romanică."
+              }
+            },
+            {
+              "name": {
+                "en": "gite de l'ancien carmel",
+                "de": "gite de l'ancien carmel",
+                "hu": "gite de l'ancien carmel",
+                "ro": "gite de l'ancien carmel"
+              },
+              "tip_5lang": {
+                "en": "A quick sheltered stop to learn about pilgrim history; keep your waterproof cycling gear on as you transition back outside for the next leg of the journey.",
+                "de": "Ein kurzer, geschützter Halt, um Pilgergeschichte zu lernen. Behalten Sie Ihre wasserfeste Radkleidung an, wenn Sie wieder nach draußen gehen.",
+                "hu": "Gyors, védett megálló, ahol megismerheti a zarándokok történetét; tartsa magán a vízálló kerékpáros felszerelést a következő szakaszhoz.",
+                "ro": "O oprire rapidă și adăpostită pentru a afla istoria pelerinilor; păstrați-vă echipamentul de ciclism impermeabil pentru următoarea etapă a călătoriei."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Pierre Abbey",
+                "de": "Saint-Pierre Abbey",
+                "hu": "Saint-Pierre Abbey",
+                "ro": "Saint-Pierre Abbey"
+              },
+              "tip_5lang": {
+                "en": "Leave your wet bike securely outside and marvel at the famous tympanum, which is thankfully well-sheltered from the falling rain by the impressive stone porch.",
+                "de": "Lassen Sie Ihr nasses Rad draußen und bestaunen Sie das Tympanon, das glücklicherweise durch den Steinvorbau gut vor dem fallenden Regen geschützt ist.",
+                "hu": "Hagyja a vizes bringát biztonságosan kint, és csodálja meg a híres timpanont, amelyet szerencsére jól véd az esőtől a lenyűgöző kő tornác.",
+                "ro": "Lăsați bicicleta udă afară și admirați faimosul timpan, care este din fericire bine protejat de ploaie datorită verandei impresionante din piatră."
+              }
+            },
+            {
+              "name": {
+                "en": "Moissac Cloister",
+                "de": "Moissac Cloister",
+                "hu": "Moissac Cloister",
+                "ro": "Moissac Cloister"
+              },
+              "tip_5lang": {
+                "en": "Walk the covered, dry galleries of this masterpiece, a perfect rainy-day activity while your bike rests. Be careful walking in cycling shoes on the wet stone.",
+                "de": "Spazieren Sie durch die überdachten Galerien – eine perfekte Regenaktivität. Seien Sie vorsichtig mit Radschuhen auf den nassen Steinen.",
+                "hu": "Sétáljon a száraz galériákban, ami tökéletes esős napi program, míg a bringa pihen. Legyen óvatos, ha kerékpáros cipőben lépked a nedves kövön.",
+                "ro": "Plimbați-vă pe galeriile acoperite, o activitate perfectă pentru zile ploioase în timp ce bicicleta se odihnește. Atenție cu încălțămintea de ciclism pe piatra udă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Jacques Church",
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "en": "A brief indoor escape from the downpour to admire the architecture before getting back on the wet saddle. The interior provides a dry, quiet moment of rest.",
+                "de": "Ein kurzes Entkommen vor dem Platzregen, um die Architektur zu bewundern, bevor es zurück auf den nassen Sattel geht. Das Innere bietet einen trockenen Moment.",
+                "hu": "Rövid beltéri menedék a felhőszakadás elől, mielőtt visszapattanna a nedves nyeregbe. A belső tér száraz, csendes pihenőt biztosít a tekerésben.",
+                "ro": "O scurtă evadare la interior din calea ploii pentru a admira arhitectura înainte de a reveni pe șaua udă. Interiorul oferă un moment de odihnă uscat și liniștit."
+              }
+            },
+            {
+              "name": {
+                "en": "Chapelle de l'Hôpital",
+                "de": "Chapelle de l'Hôpital",
+                "hu": "Chapelle de l'Hôpital",
+                "ro": "Chapelle de l'Hôpital"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the completely dry sanctuary of this small chapel, shaking off the rain and warming up slightly before embarking on your final cycling stretch to the bridge.",
+                "de": "Genießen Sie das trockene Heiligtum dieser Kapelle, schütteln Sie den Regen ab und wärmen Sie sich auf, bevor Sie das letzte Stück zur Brücke radeln.",
+                "hu": "Élvezze a kis kápolna teljesen száraz szentélyét, rázza le az esőt, és melegedjen fel egy kicsit, mielőtt nekivágna a hídhoz vezető utolsó szakasznak.",
+                "ro": "Bucurați-vă de sanctuarul uscat al acestei mici capele, scuturându-vă de ploaie înainte de a porni pe ultima porțiune de ciclism spre pod."
+              }
+            },
+            {
+              "name": {
+                "en": "Cacor Canal Bridge",
+                "de": "Cacor Canal Bridge",
+                "hu": "Cacor Canal Bridge",
+                "ro": "Cacor Canal Bridge"
+              },
+              "tip_5lang": {
+                "en": "Cycling over the red brick bridge requires extreme caution on slippery wet surfaces; ensure you wear a highly visible waterproof jacket to block the damp crosswind.",
+                "de": "Das Radeln über die Backsteinbrücke erfordert auf nassen Flächen extreme Vorsicht; tragen Sie eine wasserdichte Jacke, um den feuchten Seitenwind abzuwehren.",
+                "hu": "A vöröstéglás hídon való tekerés rendkívüli óvatosságot igényel a csúszós, nedves felületen; viseljen jól látható, vízálló dzsekit a nedves oldalszél ellen.",
+                "ro": "Traversarea podului de cărămidă necesită prudență pe suprafețele umede alunecoase; purtați o jachetă impermeabilă vizibilă pentru a bloca vântul umed."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Brisk winter cycling starts at Saint-Martin. Midday brings cold but clear rides to the abbey and cloister. Afternoon pedal to the canal bridge before the early sunset. Evening: warm up indoors after a chilly day on the bike.",
+            "de": "Frisches Winterradeln beginnt bei Saint-Martin. Mittags kühle, aber klare Fahrten zur Abtei. Nachmittagsfahrt zur Kanalbrücke vor dem frühen Sonnenuntergang. Abends: nach einem kalten Radtag drinnen aufwärmen.",
+            "hu": "Fagyos téli bringázás a Saint-Martintól. Délben hideg, de tiszta út az apátságba. Délutáni tekerés a hídhoz a korai, 17:00 órai naplemente előtt. Este: melegedjen fel bent a csípős biciklis nap után.",
+            "ro": "Ciclismul de iarnă începe la Saint-Martin. Prânzul aduce curse reci spre abație. După-amiaza pedalați spre podul canalului înainte de apusul timpuriu. Seara: încălziți-vă la interior după o zi geroasă pe bicicletă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Église Saint-Martin",
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "en": "A chilly start to your ride; the bare winter trees offer an unobstructed, beautiful clear view of this historic church's architecture. Wear thermal cycling gloves.",
+                "de": "Ein kühler Start; die kahlen Winterbäume bieten freie Sicht auf die historische Architektur dieser Kirche. Tragen Sie Thermo-Radhandschuhe.",
+                "hu": "Csípős kezdet a tekerésnek; a csupasz téli fák tiszta kilátást nyújtanak e történelmi templom építészetére. Viseljen termál kerékpáros kesztyűt.",
+                "ro": "Un început răcoros pentru plimbare; copacii goi de iarnă oferă o priveliște clară asupra arhitecturii bisericii. Purtați mănuși termice de ciclism."
+              }
+            },
+            {
+              "name": {
+                "en": "gite de l'ancien carmel",
+                "de": "gite de l'ancien carmel",
+                "hu": "gite de l'ancien carmel",
+                "ro": "gite de l'ancien carmel"
+              },
+              "tip_5lang": {
+                "en": "Stop to briefly warm your hands and learn about the historic Camino pilgrims who braved these harsh winter routes centuries ago before continuing your ride.",
+                "de": "Halten Sie an, um sich die Hände zu wärmen und etwas über die Camino-Pilger zu erfahren, die diese rauen Winterrouten vor Jahrhunderten trotzten.",
+                "hu": "Álljon meg melegíteni a kezét, és ismerje meg a Camino zarándokait, akik évszázadokkal ezelőtt dacoltak ezekkel a zord téli utakkal a hidegben.",
+                "ro": "Opriți pentru a vă încălzi mâinile și aflați despre pelerinii istorici de pe Camino care au înfruntat aceste rute aspre de iarnă cu secole în urmă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Pierre Abbey",
+                "de": "Saint-Pierre Abbey",
+                "hu": "Saint-Pierre Abbey",
+                "ro": "Saint-Pierre Abbey"
+              },
+              "tip_5lang": {
+                "en": "The low winter sun beautifully highlights the intricate portal carvings; ensure you keep your thick cycling gloves on while admiring the freezing stone exterior.",
+                "de": "Die tiefstehende Wintersonne beleuchtet die Portal-Schnitzereien; behalten Sie Ihre dicken Radhandschuhe an, während Sie das eiskalte Äußere bewundern.",
+                "hu": "Az alacsony téli nap gyönyörűen megvilágítja a portál faragványait; tartsa magán a vastag bringás kesztyűt, miközben a fagyos kő külsejét csodálja.",
+                "ro": "Soarele de iarnă evidențiază frumos sculpturile portalului; păstrați mănușile groase de ciclism în timp ce admirați exteriorul de piatră înghețată."
+              }
+            },
+            {
+              "name": {
+                "en": "Moissac Cloister",
+                "de": "Moissac Cloister",
+                "hu": "Moissac Cloister",
+                "ro": "Moissac Cloister"
+              },
+              "tip_5lang": {
+                "en": "The unheated stone cloisters are brisk in winter, but the total lack of tourist crowds makes viewing the intricate capitals even more magical. Keep your helmet off but beanie on.",
+                "de": "Der unbeheizte Kreuzgang ist im Winter kühl, aber die fehlenden Touristenmassen machen die Kapitelle noch magischer. Setzen Sie statt Helm eine warme Mütze auf.",
+                "hu": "A fűtetlen kő kerengő télen hűvös, de a turisták hiánya még varázslatosabbá teszi az oszlopfők megtekintését. A sisakot vegye le, de a sapkát tartsa magán.",
+                "ro": "Mănăstirea din piatră neîncălzită este rece iarna, dar lipsa turiștilor face vizionarea capitelurilor și mai magică. Dați jos casca, dar purtați o căciulă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Jacques Church",
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "en": "Step off your bike to warm your frozen toes inside this historic church, enjoying the peaceful, hushed winter atmosphere away from the biting wind outside.",
+                "de": "Steigen Sie vom Rad, um Ihre gefrorenen Zehen in dieser Kirche aufzuwärmen, und genießen Sie die friedliche Winteratmosphäre abseits des beißenden Windes.",
+                "hu": "Szálljon le a bringáról, hogy felmelegítse fagyott lábujjait a templomban, és élvezze a békés téli hangulatot, távol a kinti harapós széltől.",
+                "ro": "Coborâți de pe bicicletă pentru a vă încălzi degetele înghețate în interiorul acestei biserici, bucurându-vă de atmosfera liniștită, departe de vântul tăios."
+              }
+            },
+            {
+              "name": {
+                "en": "Chapelle de l'Hôpital",
+                "de": "Chapelle de l'Hôpital",
+                "hu": "Chapelle de l'Hôpital",
+                "ro": "Chapelle de l'Hôpital"
+              },
+              "tip_5lang": {
+                "en": "A quiet, enclosed historic stop offering a brief respite from the biting winter wind during your cycling tour before you tackle the final scenic canal bridge.",
+                "de": "Ein ruhiger, geschlossener Halt, der eine kurze Atempause vom beißenden Winterwind bietet, bevor Sie die letzte malerische Kanalbrücke in Angriff nehmen.",
+                "hu": "Csendes, zárt történelmi megálló, amely rövid pihenőt nyújt a harapós téli szél elől a túra során, mielőtt meghódítaná az utolsó festői csatornahidat.",
+                "ro": "O oprire istorică liniștită care oferă un scurt respiro de la vântul tăios de iarnă în timpul turului de ciclism, înainte de a aborda ultimul pod pitoresc."
+              }
+            },
+            {
+              "name": {
+                "en": "Cacor Canal Bridge",
+                "de": "Cacor Canal Bridge",
+                "hu": "Cacor Canal Bridge",
+                "ro": "Cacor Canal Bridge"
+              },
+              "tip_5lang": {
+                "en": "Make absolutely sure to cross this impressive brick structure well before dusk at 5 PM; the open water makes the winter breeze feel significantly colder while pedaling.",
+                "de": "Überqueren Sie dieses beeindruckende Bauwerk unbedingt vor der Dämmerung um 17 Uhr; durch das offene Wasser fühlt sich die Winterbrise beim Treten deutlich kälter an.",
+                "hu": "Feltétlenül 17:00 előtt, szürkület előtt keljen át ezen a lenyűgöző téglaépítményen; a nyílt víz miatt a téli szellő tekerés közben sokkal hidegebbnek hat.",
+                "ro": "Asigurați-vă că traversați această structură de cărămidă înainte de apus la ora 17:00; apa deschisă face ca briza de iarnă să se simtă mult mai rece în timp ce pedalați."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "de": "Ihre Autotour beginnt an der beeindruckenden Kanalbrücke von Cacor, wo das Parken einfach ist. Bewundern Sie die Ingenieurskunst, bevor Sie in das historische Zentrum fahren.\nGegen Mittag parken Sie in der Nähe des Zentrums, um die Kirche Saint-Jacques sowie die monumentale Abtei Saint-Pierre und ihren prächtigen Kreuzgang zu besuchen.\nAm Nachmittag fahren Sie in Richtung Westen, um die antiken Ruinen der Église Saint-Martin zu entdecken. Das Auto ermöglicht es Ihnen, die Entfernungen mühelos zu überbrücken.\nBeenden Sie Ihren Tag mit einer Fahrt hinauf zur Fontaine des 24 Échellons. Dieser leicht erhöhte Ort bietet einen wunderbaren historischen Blick, wenn der Abend über der Landschaft hereinbricht.",
         "hu": "Autós túrája a lenyűgöző Cacor csatornahídnál kezdődik, ahol a parkolás is egyszerű. Megcsodálhatja a mérnöki munkát, mielőtt Moissac történelmi szívébe indulna.\nDélben parkoljon le a városközpont közelében, hogy meglátogassa a Saint-Jacques templomot, majd a monumentális Saint-Pierre apátságot és annak csodálatos kolostorát.\nDélután nyugat felé autózik, hogy felfedezze az Église Saint-Martin ősi romjait. Az autó lehetővé teszi, hogy könnyedén áthidalja e különböző történelmi korszakok közötti távolságokat.\nFejezze be a napot a Fontaine des 24 Échellons felé vezetve. Ez a kissé magasabban fekvő hely csodálatos történelmi perspektívát kínál, ahogy az este leszáll a tájra.",
         "ro": "Turul cu mașina începe la impresionantul Pod Cacor, unde parcarea este ușoară. Puteți admira ingineria înainte de a vă îndrepta spre inima istorică a orașului Moissac.\nLa prânz, parcați aproape de centru pentru a vizita Biserica Saint-Jacques, urmată de monumentala Abație Saint-Pierre și magnificul său Claustru, atracțiile majore ale regiunii.\nDupă-amiaza, veți conduce spre vest pentru a descoperi ruinele antice ale Église Saint-Martin. Mașina vă permite să parcurgeți fără efort distanțele dintre aceste perioade istorice.\nÎncheiați-vă ziua conducând spre Fontaine des 24 Échellons. Acest loc ușor ridicat oferă o perspectivă istorică minunată, în timp ce seara se lasă peste peisajul frumos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning drive to the canal bridge; use wipers. Midday parking near the abbey and cloister for sheltered visits. Afternoon drive to Saint-Martin and the fountain. Evening: comfortable dry ride back to your accommodation.",
+            "de": "Morgendliche Fahrt zur Kanalbrücke; Scheibenwischer an. Mittags Parken nahe der Abtei für überdachte Besuche. Nachmittagsfahrt nach Saint-Martin. Abends: bequeme und trockene Rückfahrt zu Ihrer Unterkunft.",
+            "hu": "Reggeli vezetés a csatornahídhoz; kapcsolja be az ablaktörlőt. Délben parkolás az apátság közelében a fedett látogatáshoz. Délutáni út a Saint-Martinhoz. Este: kényelmes, száraz autózás vissza a szállásra.",
+            "ro": "Condus matinal spre podul canalului; folosiți ștergătoarele. La prânz parcați lângă abație pentru vizite adăpostite. După-amiaza spre Saint-Martin. Seara: un drum uscat și confortabil înapoi la cazare."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Cacor Canal Bridge",
+                "de": "Cacor Canal Bridge",
+                "hu": "Cacor Canal Bridge",
+                "ro": "Cacor Canal Bridge"
+              },
+              "tip_5lang": {
+                "en": "Admire the magnificent brick arches directly from the warmth of your car, or use a sturdy umbrella if stepping out, as the exposed bridge gets very wet and windy.",
+                "de": "Bewundern Sie die Backsteinbögen aus dem warmen Auto oder nutzen Sie einen stabilen Regenschirm, da die ungeschützte Brücke sehr nass und windig wird.",
+                "hu": "Csodálja meg a téglaíveket az autó melegéből, vagy használjon masszív esernyőt, ha kiszáll, mivel a nyitott híd nagyon nedves és szeles tud lenni.",
+                "ro": "Admirați arcadele de cărămidă din căldura mașinii sau folosiți o umbrelă rezistentă dacă coborâți, deoarece podul expus devine foarte ud și bătut de vânt."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Jacques Church",
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "en": "Park safely nearby and dash inside to effectively avoid the pouring rain; the historic interior serves as a wonderfully cozy and dry retreat from the dreary weather.",
+                "de": "Parken Sie sicher in der Nähe und huschen Sie hinein, um dem Regen zu entgehen; das historische Innere dient als gemütlicher Rückzugsort vor dem Wetter.",
+                "hu": "Parkoljon biztonságosan a közelben, és siessen befelé a szakadó eső elől; a történelmi belső tér csodálatosan hangulatos és száraz menedék a zord időben.",
+                "ro": "Parcați în siguranță în apropiere și fugiți înăuntru pentru a evita ploaia; interiorul istoric servește ca o retragere minunată și uscată din vremea posomorâtă."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Pierre Abbey",
+                "de": "Saint-Pierre Abbey",
+                "hu": "Saint-Pierre Abbey",
+                "ro": "Saint-Pierre Abbey"
+              },
+              "tip_5lang": {
+                "en": "The magnificent portal gracefully offers shelter from the relentless downpour, letting you study the famous Romanesque carvings in complete comfort before returning to the car.",
+                "de": "Das prächtige Portal bietet Schutz vor dem Platzregen, sodass Sie die berühmten romanischen Schnitzereien bequem studieren können, bevor Sie zum Auto zurückkehren.",
+                "hu": "A lenyűgöző portál védelmet nyújt a könyörtelen felhőszakadás elől, így kényelmesen tanulmányozhatja a híres románkori faragványokat, mielőtt visszatérne az autóba.",
+                "ro": "Portalul magnific oferă adăpost de ploaia necruțătoare, permițându-vă să studiați faimoasele sculpturi romanice în confort total înainte de a reveni la mașină."
+              }
+            },
+            {
+              "name": {
+                "en": "Moissac Cloister",
+                "de": "Moissac Cloister",
+                "hu": "Moissac Cloister",
+                "ro": "Moissac Cloister"
+              },
+              "tip_5lang": {
+                "en": "The covered walkways are the absolute perfect rainy-day destination, completely keeping you dry while you explore the exquisite columns. Leave your wet umbrellas at the entrance.",
+                "de": "Die überdachten Wege sind das perfekte Regentag-Ziel, da sie Sie komplett trocken halten, während Sie die Säulen erkunden. Lassen Sie nasse Schirme am Eingang.",
+                "hu": "A fedett sétányok a tökéletes esős napi úti cél, teljesen szárazon tartják, miközben felfedezi a gyönyörű oszlopokat. Hagyja a vizes esernyőt a bejáratnál.",
+                "ro": "Culoarele acoperite sunt destinația perfectă pentru o zi ploioasă, păstrându-vă complet uscat în timp ce explorați coloanele. Lăsați umbrelele ude la intrare."
+              }
+            },
+            {
+              "name": {
+                "en": "Église Saint-Martin",
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "en": "Drive carefully on the potentially slick wet country roads to reach this ancient site; the heavy stone interior provides a remarkably moody, perfectly sheltered experience.",
+                "de": "Fahren Sie vorsichtig auf nassen Landstraßen zu dieser antiken Stätte; das schwere Steininnere bietet ein bemerkenswert stimmungsvolles, geschütztes Erlebnis.",
+                "hu": "Vezessen óvatosan a potenciálisan csúszós, nedves vidéki utakon ezen ősi helyszínhez; a nehéz kőbelső figyelemre méltóan hangulatos, védett élményt nyújt.",
+                "ro": "Conduceți cu grijă pe drumurile de țară alunecoase pentru a ajunge la acest sit; interiorul din piatră grea oferă o experiență perfect adăpostită și plină de atmosferă."
+              }
+            },
+            {
+              "name": {
+                "en": "Fontaine des 24 Échellons",
+                "de": "Fontaine des 24 Échellons",
+                "hu": "Fontaine des 24 Échellons",
+                "ro": "Fontaine des 24 Échellons"
+              },
+              "tip_5lang": {
+                "en": "Park extremely close by and watch your step very carefully on the slick, rain-washed stone steps leading down to this historic water source to avoid any unwanted slips.",
+                "de": "Parken Sie ganz in der Nähe und achten Sie auf den glatten, regengewaschenen Steinstufen, die zu dieser historischen Wasserquelle führen, sehr genau auf Ihre Schritte.",
+                "hu": "Parkoljon rendkívül közel, és nagyon óvatosan lépkedjen a csúszós, eső áztatta kőlépcsőkön ehhez a történelmi vízforráshoz, hogy elkerülje a megcsúszást.",
+                "ro": "Parcați foarte aproape și pășiți cu mare grijă pe treptele alunecoase, spălate de ploaie, care duc spre această sursă de apă istorică, pentru a evita alunecarea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning drive to the frosty canal bridge. Midday features the chilly but beautiful abbey and cloister. Afternoon visits wrap up early to avoid driving in the dark after 5 PM. Evening: heater on, enjoying the winter scenery.",
+            "de": "Morgendliche Fahrt zur frostigen Kanalbrücke. Mittags die kühle, aber schöne Abtei. Nachmittagsbesuche enden früh, um Fahrten in der Dunkelheit nach 17 Uhr zu vermeiden. Abends: Heizung an, Winterlandschaft genießen.",
+            "hu": "Reggeli autózás a fagyos hídhoz. Délben a csípős, de gyönyörű apátság várja. A délutáni programok korán véget érnek, hogy elkerülje a sötétben vezetést 17:00 után. Este: fűtés bekapcsolva, élvezve a téli tájat.",
+            "ro": "Condus matinal spre podul înghețat. Prânzul include abația rece, dar frumoasă. Vizitele de după-amiază se încheie devreme pentru a evita condusul pe întuneric după 17:00. Seara: dați drumul la căldură în mașină."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Cacor Canal Bridge",
+                "de": "Cacor Canal Bridge",
+                "hu": "Cacor Canal Bridge",
+                "ro": "Cacor Canal Bridge"
+              },
+              "tip_5lang": {
+                "en": "The stunning white frost on the historic red bricks is exceptionally beautiful in the crisp morning light; keep the car heater running for when you get back inside.",
+                "de": "Der weiße Frost auf den roten Backsteinen ist im Morgenlicht besonders schön; lassen Sie die Autoheizung laufen, damit es warm ist, wenn Sie zurückkehren.",
+                "hu": "A lenyűgöző fehér dér a történelmi vörös téglákon kivételesen gyönyörű a csípős reggeli fényben; hagyja bekapcsolva az autó fűtését a visszatéréshez.",
+                "ro": "Gheața albă pe cărămizile roșii istorice este extrem de frumoasă în lumina rece a dimineții; lăsați căldura mașinii pornită pentru când vă veți întoarce."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Jacques Church",
+                "de": "Saint-Jacques Church",
+                "hu": "Saint-Jacques Church",
+                "ro": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "en": "A quick, brisk hop from the comfortably warm car into the chilly, unheated church reveals incredibly peaceful and dramatic winter lighting shining through the historic windows.",
+                "de": "Ein schneller Sprung aus dem warmen Auto in die kühle Kirche offenbart eine friedliche, dramatische Winterbeleuchtung, die durch die historischen Fenster scheint.",
+                "hu": "Egy gyors ugrás a kényelmesen meleg autóból a hűvös, fűtetlen templomba hihetetlenül békés és drámai téli fényeket tár fel a történelmi ablakokon keresztül.",
+                "ro": "Un salt rapid din mașina caldă în biserica rece și neîncălzită dezvăluie o lumină de iarnă incredibil de pașnică și dramatică prin ferestrele istorice."
+              }
+            },
+            {
+              "name": {
+                "en": "Saint-Pierre Abbey",
+                "de": "Saint-Pierre Abbey",
+                "hu": "Saint-Pierre Abbey",
+                "ro": "Saint-Pierre Abbey"
+              },
+              "tip_5lang": {
+                "en": "The crisp winter air makes the intricate details of the South Portal stand out sharply; ensure you wear a thick coat for the short, freezing walk from the nearby parking area.",
+                "de": "Die Winterluft hebt die Details des Südportals scharf hervor; tragen Sie einen dicken Mantel für den kurzen, eisigen Fußweg vom nahen Parkplatz.",
+                "hu": "A csípős téli levegő élesen kiemeli a déli portál bonyolult részleteit; mindenképpen viseljen vastag kabátot a közeli parkolóból vezető rövid, fagyos sétához.",
+                "ro": "Aerul rece de iarnă scoate în evidență detaliile portalului de sud; asigurați-vă că purtați o haină groasă pentru scurta și înghețata plimbare de la parcare."
+              }
+            },
+            {
+              "name": {
+                "en": "Moissac Cloister",
+                "de": "Moissac Cloister",
+                "hu": "Moissac Cloister",
+                "ro": "Moissac Cloister"
+              },
+              "tip_5lang": {
+                "en": "The open stone galleries are notoriously freezing in winter, so absolutely bundle up tightly in your winter gear to thoroughly admire the 76 unique Romanesque capitals.",
+                "de": "Die offenen Steingalerien sind im Winter notorisch eiskalt, also packen Sie sich in Ihre Winterausrüstung gut ein, um die 76 romanischen Kapitelle zu bewundern.",
+                "hu": "A nyitott kőgalériák télen köztudottan fagyosak, ezért mindenképpen öltözzön be melegen a téli felszerelésébe, hogy alaposan megcsodálhassa a 76 egyedi oszlopfőt.",
+                "ro": "Galeriile deschise de piatră sunt extrem de reci iarna, așa că înfofoliți-vă bine în echipamentul de iarnă pentru a admira pe deplin cele 76 de capiteluri unice."
+              }
+            },
+            {
+              "name": {
+                "en": "Église Saint-Martin",
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "en": "Drive to this ancient, secluded site as the cold afternoon rapidly cools down; the surrounding bare winter trees add a stark, beautifully haunting winter vibe to the ruins.",
+                "de": "Fahren Sie zu dieser Stätte, wenn der Nachmittag abkühlt; die umliegenden kahlen Winterbäume verleihen den Ruinen eine kahle, wunderschön eindringliche Winterstimmung.",
+                "hu": "Vezessen ehhez az ősi helyszínhez, ahogy a hideg délután gyorsan lehűl; a környező csupasz téli fák zord, gyönyörűen kísérteties téli hangulatot kölcsönöznek a romoknak.",
+                "ro": "Conduceți spre acest sit pe măsură ce după-amiaza se răcește rapid; copacii goi din jur adaugă o vibrație de iarnă austeră și obsedant de frumoasă ruinelor."
+              }
+            },
+            {
+              "name": {
+                "en": "Fontaine des 24 Échellons",
+                "de": "Fontaine des 24 Échellons",
+                "hu": "Fontaine des 24 Échellons",
+                "ro": "Fontaine des 24 Échellons"
+              },
+              "tip_5lang": {
+                "en": "Plan strictly to visit this specific spot well before the early sunset arrives around 5 PM, taking extra special care on the potentially icy historic steps back to your car.",
+                "de": "Planen Sie strikt, diesen Ort deutlich vor dem frühen Sonnenuntergang gegen 17 Uhr zu besuchen, und achten Sie besonders auf die potenziell eisigen Stufen zurück zum Auto.",
+                "hu": "Szigorúan tervezze úgy, hogy jóval a korai, 17 óra körüli naplemente előtt meglátogatja ezt a helyet, és különösen vigyázzon a potenciálisan jeges lépcsőkön az autó felé.",
+                "ro": "Planificați strict vizita la acest loc cu mult înainte de apusul de la ora 17:00, având grijă deosebită pe treptele istorice care pot fi înghețate în drum spre mașină."
+              }
+            }
+          ]
+        }
       }
     }
   }

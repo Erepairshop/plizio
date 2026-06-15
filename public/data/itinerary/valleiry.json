@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Valleiry szívében, a városházánál, majd tegyen egy békés sétát a közeli templomtérre. Folytassa útját a nyugodt Lac de Chenex felé, hogy élvezze az érintetlen természetet. Délután fedezze fel a gyönyörű Église de l'Assomption-de-Marie-t. Sétás kalandját a Mont Vuache festői ösvényein tett fárasztó, de kifizetődő túrával fejezheti be a késő délutáni órákban.",
         "ro": "Începeți ziua în inima orașului Valleiry la Primărie, apoi faceți o scurtă plimbare liniștită până la Piața Bisericii. Continuați pe jos spre liniștitul Lac de Chenex pentru a vă bucura de natura curată. După-amiaza, explorați frumoasa Église de l'Assomption-de-Marie. Încheiați-vă aventura cu o drumeție satisfăcătoare pe potecile pitorești ale celebrului Mont Vuache.",
         "en": "Begin your day in the heart of Valleiry at the Town Hall, then take a short, peaceful stroll to the nearby Church Square. Continue your walk towards the tranquil Lac de Chenex to enjoy the pristine natural surroundings. In the afternoon, explore the beautiful Église de l'Assomption-de-Marie. Finish your walking adventure with a rewarding hike up the scenic trails of Mont Vuache."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Rathaus und spazieren Sie vorsichtig über den nassen Kirchplatz. Genießen Sie die regnerische Stimmung am See, bevor Sie in der Kirche Schutz suchen. Am Nachmittag wird der Aufstieg zum Mont Vuache durch den Schlamm anspruchsvoll. Tragen Sie wasserfeste Kleidung und festes Schuhwerk.",
+            "hu": "Kezdje a városházánál, majd sétáljon óvatosan a csúszós templomtér macskakövein. A tó esős hangulata különleges, a templomban pedig menedéket talál. Délután a Mont Vuache ösvényei sárosak lehetnek, így elengedhetetlen a vízálló cipő és a megbízható esőkabát.",
+            "ro": "Începeți la primărie și traversați cu grijă piața umedă a bisericii. Bucurați-vă de atmosfera ploioasă la lac, apoi adăpostiți-vă în biserică. După-amiaza, traseul spre Mont Vuache este noroios, așa că purtați haine impermeabile și încălțăminte adecvată.",
+            "en": "Start at the town hall and carefully cross the wet church square. Enjoy the moody rain at the lake before taking shelter in the church. In the afternoon, the trails up Mont Vuache will be muddy and slippery. Waterproof gear and sturdy boots are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Valleiry",
+                "hu": "Valleiry Városháza",
+                "ro": "Primăria Valleiry",
+                "en": "Valleiry Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Regenschirm. Ein toller Startpunkt, bevor der starke Regen einsetzt.",
+                "hu": "Csodálja meg az épületet esernyő alól. Remek kiindulópont, mielőtt a komolyabb esőzés rákezdene.",
+                "ro": "Admirați arhitectura sub umbrelă. Un punct de plecare excelent înainte să înceapă ploaia puternică.",
+                "en": "Admire the architecture from under your umbrella. A great starting point before the heavier rain sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirchplatz",
+                "hu": "Templomtér",
+                "ro": "Piața Bisericii",
+                "en": "Church Square"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Pflastersteine spiegeln das Licht schön wider. Gehen Sie vorsichtig, da es hier sehr rutschig wird.",
+                "hu": "A vizes macskakövek gyönyörűen tükröződnek. Lépjen óvatosan, mert a felület ilyenkor nagyon csúszós.",
+                "ro": "Pietrele umede reflectă frumos lumina. Pășiți cu atenție, deoarece pavajul devine foarte alunecos.",
+                "en": "The wet cobblestones reflect the light beautifully. Walk carefully, as the surface becomes quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Chenex",
+                "hu": "Lac de Chenex",
+                "ro": "Lac de Chenex",
+                "en": "Lac de Chenex"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem See eine mystische Atmosphäre. Tragen Sie Gummistiefel, da die Uferwege matschig sind.",
+                "hu": "Az eső misztikus hangulatot kölcsönöz a tónak. Viseljen vízálló cipőt, mert a parti sétányok sárosak.",
+                "ro": "Ploaia oferă lacului o atmosferă mistică. Purtați cizme de cauciuc, deoarece potecile de pe mal sunt noroioase.",
+                "en": "The rain gives the lake a mystical atmosphere. Wear waterproof boots, as the lakeside paths get very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption-de-Marie",
+                "hu": "Église de l'Assomption-de-Marie",
+                "ro": "Église de l'Assomption-de-Marie",
+                "en": "Église de l'Assomption-de-Marie"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich aufzuwärmen und vor dem Schauer zu flüchten, während Sie die ruhige Kunst bewundern.",
+                "hu": "Lépjen be, hogy megszáradjon és menedéket találjon a zápor elől, miközben a csendes belső teret csodálja.",
+                "ro": "Intrați pentru a vă usca și a vă adăposti de ploaie, în timp ce admirați arta religioasă liniștită.",
+                "en": "Step inside to dry off and take shelter from the showers while admiring the peaceful religious art."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Vuache",
+                "hu": "Mont Vuache",
+                "ro": "Mont Vuache",
+                "en": "Mont Vuache"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade sind bei Nässe tückisch. Nutzen Sie Wanderstöcke und bleiben Sie auf den befestigten Hauptwegen.",
+                "hu": "Az ösvények nedvesen veszélyesek lehetnek. Használjon túrabotot, és maradjon a kijelölt főútvonalakon.",
+                "ro": "Potecile sunt înșelătoare când sunt ude. Folosiți bețe de trekking și rămâneți pe traseele principale.",
+                "en": "The trails are treacherous when wet. Use trekking poles and strictly stay on the main consolidated paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie an einem kalten Morgen im Zentrum und bewundern Sie den gefrorenen See. Wärmen Sie sich mittags in der ruhigen Kirche auf. Nachmittags erwartet Sie die winterliche Wanderung auf den Mont Vuache. Denken Sie an warme Schichten und die frühe Dämmerung um 17 Uhr.",
+            "hu": "A fagyos reggelt a központban kezdje, majd csodálja meg a részben befagyott tavat. Délben melegedjen meg egy kicsit a templomban. Délután a Mont Vuache várja, de öltözzön rétegesen, és induljon vissza időben, mert télen már délután 5 körül sötétedik.",
+            "ro": "Începeți dimineața geroasă în centru și admirați lacul înghețat. La prânz, încălziți-vă în liniștea bisericii. După-amiaza, urcați pe Mont Vuache în peisajul de iarnă. Purtați straturi groase și fiți atenți la întunericul care cade devreme, în jur de ora 17:00.",
+            "en": "Begin your frosty morning in the town center and admire the partially frozen lake. Warm up inside the quiet church at noon. In the afternoon, tackle the winter hike up Mont Vuache. Dress in thick layers and return early, as the sun sets around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Valleiry",
+                "hu": "Valleiry Városháza",
+                "ro": "Primăria Valleiry",
+                "en": "Valleiry Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft hebt die Details des Gebäudes hervor. Behalten Sie die Handschuhe beim Fotografieren an.",
+                "hu": "A csípős téli levegő kiemeli az épület részleteit. Fényképezés közben is tartsa magán a meleg kesztyűt.",
+                "ro": "Aerul rece de iarnă evidențiază detaliile clădirii. Păstrați mănușile pe mâini în timp ce faceți poze.",
+                "en": "The crisp winter air highlights the building's details. Keep your warm gloves on while taking morning photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirchplatz",
+                "hu": "Templomtér",
+                "ro": "Piața Bisericii",
+                "en": "Church Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frostige Stille des Platzes, aber achten Sie auf vereiste Stellen im Schatten der Gebäude.",
+                "hu": "Élvezze a tér fagyos csendjét, de vigyázzon az épületek árnyékában megbújó alattomos jégfoltokra.",
+                "ro": "Bucurați-vă de liniștea înghețată a pieței, dar atenție la porțiunile de gheață din umbra clădirilor.",
+                "en": "Enjoy the frosty quiet of the square, but watch out for dangerous icy patches in the shadows of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Chenex",
+                "hu": "Lac de Chenex",
+                "ro": "Lac de Chenex",
+                "en": "Lac de Chenex"
+              },
+              "tip_5lang": {
+                "de": "Raureif bedeckt oft die Ufervegetation. Packen Sie sich warm ein, denn der Wind vom Wasser ist eisig.",
+                "hu": "A parti növényzetet gyakran zúzmara fedi. Öltözzön fel melegen, mert a nyílt víz felől fújó szél metsző.",
+                "ro": "Bruma acoperă adesea vegetația de pe mal. Îmbrăcați-vă gros, deoarece vântul de pe lac este foarte rece.",
+                "en": "Frost often covers the lakeside vegetation. Wrap up warmly, as the wind blowing off the open water is biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption-de-Marie",
+                "hu": "Église de l'Assomption-de-Marie",
+                "ro": "Église de l'Assomption-de-Marie",
+                "en": "Église de l'Assomption-de-Marie"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um klamme Finger aufzuwärmen. Beachten Sie, wie das tiefe Winterlicht durch die Fenster fällt.",
+                "hu": "Tökéletes hely a dermedt ujjak felmelegítésére. Figyelje meg, hogyan esik be a lapos téli fény az ablakokon.",
+                "ro": "Un loc perfect pentru a vă încălzi degetele înghețate. Observați cum cade lumina joasă de iarnă prin ferestre.",
+                "en": "A perfect spot to warm up numb fingers. Notice how the low winter sunlight beautifully illuminates the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Vuache",
+                "hu": "Mont Vuache",
+                "ro": "Mont Vuache",
+                "en": "Mont Vuache"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um vor der Dunkelheit um 17 Uhr abzusteigen. Packen Sie extra Thermokleidung für den Gipfel ein.",
+                "hu": "Induljon korán, hogy a 17 órás sötétedés előtt leérjen. Csomagoljon extra termoréteget a szeles csúcsra.",
+                "ro": "Porniți devreme pentru a coborî înainte de întunericul de la ora 17:00. Luați haine termice extra pentru vârf.",
+                "en": "Start early to ensure you descend before dusk at 5 PM. Pack extra thermal layers for the cold, windy peak."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerekezzen a városházától a szép templomtérig, majd élvezze a frissítő reggeli utat a Lac de Chenex-hez. Délben tekerjen át a festői vidéken, hogy meglátogassa a hagyományos Assomption-de-Marie templomot. A délután a történelmi Château d'Humilly és a római cserépromok felfedezésének van szentelve. Kerékpáros napját a szimbolikus Borne n°1 határkőnél fejezheti be az este közeledtével.",
         "ro": "Pedalați de la primărie până la piața bisericii, apoi bucurați-vă de o plimbare revigorantă până la Lac de Chenex. La prânz, mergeți cu bicicleta prin peisajul pitoresc pentru a vizita biserica Assomption-de-Marie. După-amiaza este dedicată explorării istoricului Château d'Humilly și ruinelor romane. Încheiați ziua de ciclism la reperul simbolic de graniță Borne n°1 la lăsarea serii.",
         "en": "Pedal from the civic center to the lovely church square, then enjoy a refreshing morning ride to Lac de Chenex. By midday, cycle through the picturesque countryside to visit the traditional Assomption-de-Marie church. The afternoon is dedicated to exploring the historic Château d'Humilly and the Roman tile ruins. Finish your cycling day at the symbolic Borne n°1 boundary marker."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie Ihr Rad mit Schutzblechen aus. Besuchen Sie das Zentrum und radeln Sie vorsichtig zum See. Nach dem Schutz in der Kirche geht es zum Schloss und zu den römischen Ziegeln. Beenden Sie die Tour an der Borne n°1. Achten Sie auf rutschige Straßen.",
+            "hu": "Szereljen fel sárvédőt. Nézze meg a központot, majd tekerjen óvatosan a tóhoz. A templomi menedék után a kastély és a római romok következnek. A túrát a Borne n°1-nél zárja. Kanyarokban vigyázzon a csúszós aszfaltra.",
+            "ro": "Echipați bicicleta cu apărători de noroi. Vizitați centrul și pedalați cu grijă spre lac. După adăpostul din biserică, mergeți la castel și ruinele romane, terminând la Borne n°1. Atenție la drumurile alunecoase.",
+            "en": "Equip your bike with mudguards. Visit the center, then pedal carefully to the lake. After sheltering in the church, ride to the castle and Roman tiles, finishing at Borne n°1. Watch closely for slippery wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Valleiry",
+                "hu": "Valleiry Városháza",
+                "ro": "Primăria Valleiry",
+                "en": "Valleiry Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier Ihre Bremsen. Der nasse Asphalt im Zentrum erfordert vorsichtiges Fahren in den Kurven.",
+                "hu": "Ellenőrizze itt a fékeket. A nedves aszfalt a városközpontban óvatos kanyarodást tesz szükségessé.",
+                "ro": "Verificați frânele aici. Asfaltul umed din centru necesită o abordare precaută a curbelor.",
+                "en": "Check your brakes here. The wet asphalt around the town center requires cautious cornering from the start."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirchplatz",
+                "hu": "Templomtér",
+                "ro": "Piața Bisericii",
+                "en": "Church Square"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie starkes Bremsen auf den nassen Pflastersteinen. Die Pfützen spiegeln die historischen Fassaden.",
+                "hu": "Kerülje a hirtelen fékezést a vizes macskaköveken. A tócsák gyönyörűen tükrözik a történelmi homlokzatokat.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed. Bălțile reflectă frumos fațadele clădirilor istorice.",
+                "en": "Avoid sharp braking on the wet paving stones. Enjoy the reflection of the historic facades in the rain puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Chenex",
+                "hu": "Lac de Chenex",
+                "ro": "Lac de Chenex",
+                "en": "Lac de Chenex"
+              },
+              "tip_5lang": {
+                "de": "Der Schotter am See kann im Regen weich werden. Fahren Sie langsam und genießen Sie die neblige Szenerie.",
+                "hu": "A tóparti murva felpuhulhat az esőben. Lassítson, és élvezze a ködös, drámai tájat a nyeregben ülve.",
+                "ro": "Pietrișul de la lac poate deveni moale în ploaie. Mergeți încet și bucurați-vă de peisajul cețos.",
+                "en": "The lakeside gravel can be soft in the rain. Keep your speed down and enjoy the misty, dramatic scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption-de-Marie",
+                "hu": "Église de l'Assomption-de-Marie",
+                "ro": "Église de l'Assomption-de-Marie",
+                "en": "Église de l'Assomption-de-Marie"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich drinnen auf, während draußen der stärkste Regen fällt.",
+                "hu": "Parkolja le biztonságosan a biciklit, és melegedjen fel bent, amíg kint lecsendesedik a legnagyobb zápor.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă înăuntru în timp ce afară plouă cel mai tare.",
+                "en": "Park your bike safely and head inside to warm up and escape the rain while admiring the serene architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Humilly",
+                "hu": "Château d'Humilly",
+                "ro": "Château d'Humilly",
+                "en": "Château d'Humilly"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Regen imposant. Tragen Sie auf den ländlichen Straßen eine gut sichtbare Regenjacke.",
+                "hu": "A várrom lenyűgöző az esőben. Viseljen jól láthatósági esőkabátot a vidéki utakon a biztonság érdekében.",
+                "ro": "Ruinele castelului arată impunător în ploaie. Purtați o jachetă impermeabilă vizibilă pe drumurile rurale.",
+                "en": "The castle ruins look imposing in the rain. Wear a highly visible waterproof jacket on the rural roads here."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuilerie romaine",
+                "hu": "Tuilerie romaine",
+                "ro": "Tuilerie romaine",
+                "en": "Tuilerie romaine"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gelände ist sehr schlammig. Nutzen Sie Überschuhe, um die römischen Artefakte zu besichtigen.",
+                "hu": "A történelmi helyszín rendkívül sáros lehet. Használjon cipővédőt, amikor a római leleteket vizsgálja.",
+                "ro": "Situl istoric poate fi foarte noroios. Folosiți protecții pentru încălțăminte când examinați artefactele.",
+                "en": "The historical site can be quite muddy. Wear shoe covers while carefully examining the ancient Roman artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Borne n°1",
+                "hu": "Borne n°1",
+                "ro": "Borne n°1",
+                "en": "Borne n°1"
+              },
+              "tip_5lang": {
+                "de": "Diesen historischen Grenzstein im Regen zu erreichen, ist ein Erfolg. Ein schnelles Foto, dann zurück.",
+                "hu": "Esőben eljutni ehhez a történelmi határkőhöz igazi teljesítmény. Egy gyors fotó, aztán indulás vissza.",
+                "ro": "Atingerea acestei borne istorice în ploaie este o realizare. Faceți o poză rapidă înainte de a vă întoarce.",
+                "en": "Reaching this historic boundary marker in the rain is an achievement. Take a quick picture before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine kalte Fahrt gut ein. Besuchen Sie das Zentrum und den gefrorenen See. Nach dem Aufwärmen in der Kirche radeln Sie zur Burg und den römischen Ruinen. Beenden Sie die Tour an der Borne n°1 vor dem Sonnenuntergang um 17 Uhr.",
+            "hu": "Öltözzön melegen a hideg tekeréshez. Nézze meg a központot és a fagyott tavat. A templomi melegedés után irány a kastély és a római romok. A túrát a Borne n°1-nél fejezze be még a 17 órás sötétedés előtt.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare rece. Vizitați centrul și lacul înghețat. Încălziți-vă la biserică, apoi pedalați spre castel și ruine. Terminați la Borne n°1 înainte de apusul de la ora 17:00.",
+            "en": "Bundle up for a cold ride. Visit the town center and frosted lake. Warm up at the church, then cycle to the castle and Roman ruins. Complete your tour at Borne n°1 before the 5 PM sunset and freezing drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Valleiry",
+                "hu": "Valleiry Városháza",
+                "ro": "Primăria Valleiry",
+                "en": "Valleiry Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Thermohandschuhen. Die klare Morgenluft lässt das Zentrum unglaublich frisch erscheinen.",
+                "hu": "Kezdje az utat termokesztyűben. A csípős reggeli levegőben a városközpont hihetetlenül frissnek hat.",
+                "ro": "Începeți cu mănuși termice. Aerul proaspăt al dimineții face centrul să pară incredibil de revigorant.",
+                "en": "Start your ride with thermal gloves. The crisp morning air makes the town center feel incredibly fresh."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirchplatz",
+                "hu": "Templomtér",
+                "ro": "Piața Bisericii",
+                "en": "Church Square"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter herrlich ruhig. Achten Sie auf tückisches Blitzeis im Schatten der alten Gebäude.",
+                "hu": "A tér télen csodálatosan csendes. Legyen nagyon óvatos a régi épületek árnyékában megbújó tükörjéggel.",
+                "ro": "Piața este liniștită iarna. Aveți grijă la gheața neagră din zonele umbrite de lângă clădirile istorice.",
+                "en": "The square is peaceful in winter. Be highly aware of black ice in shaded areas near the historic buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Chenex",
+                "hu": "Lac de Chenex",
+                "ro": "Lac de Chenex",
+                "en": "Lac de Chenex"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Landschaft ist atemberaubend. Bleiben Sie in Bewegung, da der Wind vom Wasser sehr kalt ist.",
+                "hu": "A fagyott táj lélegzetelállító. Maradjon mozgásban, mert a nyílt víz felől fújó szél hamar áthűt.",
+                "ro": "Peisajul înghețat este uimitor. Continuați să vă mișcați, deoarece vântul de pe apă este foarte rece.",
+                "en": "The quiet, frozen landscape is stunning. Keep moving to stay warm, as the wind off the open water is freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption-de-Marie",
+                "hu": "Église de l'Assomption-de-Marie",
+                "ro": "Église de l'Assomption-de-Marie",
+                "en": "Église de l'Assomption-de-Marie"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Stopp zur Halbzeit, um die Hände aufzuwärmen und das weiche Winterlicht im Inneren zu genießen.",
+                "hu": "Ideális féltávú megálló a kezek felmelegítésére és a belső térbe szűrődő lágy téli fény élvezetére.",
+                "ro": "O oprire ideală la jumătatea drumului pentru a vă încălzi mâinile și a savura lumina blândă de iarnă.",
+                "en": "A perfect midway stop to defrost your fingers. Enjoy the quiet atmosphere and soft winter light streaming in."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Humilly",
+                "hu": "Château d'Humilly",
+                "ro": "Château d'Humilly",
+                "en": "Château d'Humilly"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Burg frei. Stellen Sie sicher, dass Ihre Fahrradlichter geladen sind.",
+                "hu": "A csupasz fák többet engednek láttatni a kastélyból. Ellenőrizze, hogy a biciklilámpák fel vannak-e töltve.",
+                "ro": "Copacii goi dezvăluie o priveliște mai bună a castelului. Asigurați-vă că luminile bicicletei sunt încărcate.",
+                "en": "Bare winter trees reveal better views of the castle structure. Ensure your bike lights are fully charged."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuilerie romaine",
+                "hu": "Tuilerie romaine",
+                "ro": "Tuilerie romaine",
+                "en": "Tuilerie romaine"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden erleichtert das Betreten. Ein faszinierender kurzer Stopp in einer kargen Winterkulisse.",
+                "hu": "A fagyott talaj megkönnyíti a bejárást. Lenyűgöző rövid megálló a zord téli díszletben a római leleteknél.",
+                "ro": "Pământul înghețat face mersul mai ușor. O oprire scurtă și fascinantă într-un peisaj de iarnă pustiu.",
+                "en": "The hard, frosty ground makes walking easier. A fascinating quick stop to see Roman history in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Borne n°1",
+                "hu": "Borne n°1",
+                "ro": "Borne n°1",
+                "en": "Borne n°1"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, bevor die Sonne zu tief steht. Die Winterschatten machen den alten Grenzstein noch dramatischer.",
+                "hu": "Érjen ide, mielőtt a nap túlságosan leereszkedik. A téli árnyékok még drámaibbá teszik a régi határkövet.",
+                "ro": "Ajungeți înainte ca soarele să apună prea mult. Umbrele de iarnă fac borna istorică și mai dramatică.",
+                "en": "Arrive before the sun dips low. The long winter shadows make this old border stone look even more dramatic."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje autós túráját a városházánál és a főtéren Valleiry központjában. Délben tegyen egy festői utazást a Lac de Chenex mellett, és álljon meg a közeli hagyományos templomnál. A délutánt a történelmi látnivalók, a Château d'Humilly és az ókori római gyár felfedezésével töltheti. Végül vezessen a Borne n°1 emlékműhöz, és élvezze az esti kilátást a csodálatos Mont Vuache hegyről.",
         "ro": "Începeți turul cu mașina la primărie și în piața principală din centrul orașului Valleiry. La prânz, faceți o plimbare pitorească pe lângă Lac de Chenex și vizitați biserica tradițională. Petreceți-vă după-amiaza descoperind atracțiile istorice la Château d'Humilly și vechea fabrică romană. În cele din urmă, conduceți la Borne n°1 și bucurați-vă de priveliștile de seară de pe Mont Vuache.",
         "en": "Start your driving tour at the town hall and the main square in the center of Valleiry. By midday, take a scenic drive past Lac de Chenex and stop to visit the nearby traditional local church. Spend your afternoon discovering historical highlights at Château d'Humilly and the ancient Roman factory. Finally, drive to the Borne n°1 landmark and enjoy the evening vistas from Mont Vuache."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zwischen den Zielen. Nach dem Zentrum parken Sie nah am See. Die Kirche bietet eine trockene Pause vor der Fahrt zur Burg und den römischen Ziegeln. Enden Sie an der Grenze und am Fuß des Mont Vuache im Warmen.",
+            "hu": "Vezessen kényelmesen az esőben. A központ után parkoljon közel a tóhoz. A templom száraz pihenőt nyújt a kastély és a római romok előtt. Zárjon a határkőnél és a Mont Vuache lábánál az autó melegéből nézelődve.",
+            "ro": "Conduceți confortabil între destinații. După centru, parcați aproape de lac. Biserica oferă o pauză uscată înainte de castel și ruine. Terminați la borna de frontieră și la baza Mont Vuache, la căldură.",
+            "en": "Drive comfortably between stops. See the center, then park near the lake. The church offers a dry break before driving to the castle and Roman sites. Finish at the border marker and Mont Vuache viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Valleiry",
+                "hu": "Valleiry Városháza",
+                "ro": "Primăria Valleiry",
+                "en": "Valleiry Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und sprinten Sie kurz zur Fassade. Halten Sie immer einen Regenschirm im Kofferraum bereit.",
+                "hu": "Parkoljon a közelben, és szaladjon oda a homlokzathoz. Mindig tartson kéznél egy esernyőt a csomagtartóban.",
+                "ro": "Parcați aproape și faceți un sprint scurt spre fațadă. Țineți mereu o umbrelă la îndemână în portbagaj.",
+                "en": "Park nearby and make a quick dash to see the facade. Keep an umbrella handy in the trunk for short stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirchplatz",
+                "hu": "Templomtér",
+                "ro": "Piața Bisericii",
+                "en": "Church Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick größtenteils aus dem Auto. Die nassen Steine sind fotogen, aber rutschig zu Fuß.",
+                "hu": "A látványt nagyrészt az autóból is élvezheti. A vizes kövek fotogének, de gyalogosan csúszósak lehetnek.",
+                "ro": "Bucurați-vă de priveliște mai mult din mașină. Pietrele umede sunt fotogenice, dar alunecoase la pas.",
+                "en": "Enjoy the view mostly from the car. The wet stones are highly photogenic but can be slippery to walk on."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Chenex",
+                "hu": "Lac de Chenex",
+                "ro": "Lac de Chenex",
+                "en": "Lac de Chenex"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich. Der Regen sorgt für Stimmung, aber Sie brauchen wasserfeste Schuhe.",
+                "hu": "Parkoljon a lehető legközelebb. Az eső remek hangulatot teremt, de a rövid sétához vízálló cipő kell.",
+                "ro": "Parcați cât mai aproape. Ploaia creează o atmosferă deosebită, dar aveți nevoie de încălțăminte rezistentă.",
+                "en": "Park as close as permitted. The rain adds a moody atmosphere, but you'll want waterproof shoes for walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption-de-Marie",
+                "hu": "Église de l'Assomption-de-Marie",
+                "ro": "Église de l'Assomption-de-Marie",
+                "en": "Église de l'Assomption-de-Marie"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie nach drinnen, um trocken zu bleiben und die Architektur ohne Wettereinflüsse zu bewundern.",
+                "hu": "Siessen be, hogy száraz maradjon, és az elemekkel való küzdelem nélkül csodálhassa meg az építészetet.",
+                "ro": "Grăbiți-vă înăuntru pentru a rămâne uscați și a admira arhitectura fără a înfrunta intemperiile.",
+                "en": "Dash inside to stay dry. The interior is a great place to appreciate the architecture without the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Humilly",
+                "hu": "Château d'Humilly",
+                "ro": "Château d'Humilly",
+                "en": "Château d'Humilly"
+              },
+              "tip_5lang": {
+                "de": "Auf den ländlichen Zufahrtsstraßen bilden sich große Pfützen. Fahren Sie langsam durch die regnerische Landschaft.",
+                "hu": "A vidéki bekötőutakon hatalmas tócsák alakulhatnak ki. Vezessen lassan a drámai, esős tájon keresztül.",
+                "ro": "Pe drumurile rurale de acces se formează bălți mari. Conduceți încet prin peisajul ploios și dramatic.",
+                "en": "Rural roads leading here can have large puddles. Drive slowly and enjoy the dramatic, rainy landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuilerie romaine",
+                "hu": "Tuilerie romaine",
+                "ro": "Tuilerie romaine",
+                "en": "Tuilerie romaine"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist oft wasserdurchtränkt. Betrachten Sie alles von befestigten Wegen und bringen Sie ein Handtuch mit.",
+                "hu": "A terület felázhat, ezért a leleteket a kövezett utakról szemlélje. Tartson törölközőt a kocsiban.",
+                "ro": "Situl este adesea inundat. Priviți totul de pe cărările pavate și aduceți un prosop pentru a vă șterge.",
+                "en": "The site might be waterlogged, so view what you can from paved paths. Bring a towel to dry off afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Borne n°1",
+                "hu": "Borne n°1",
+                "ro": "Borne n°1",
+                "en": "Borne n°1"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Straßenrand. Lassen Sie die Warnblinkanlage an, wenn die Sicht durch Regen schlecht ist.",
+                "hu": "Gyors megálló az út szélén. Kapcsolja be az elakadásjelzőt, ha a heves esőzés miatt rossz a látási viszony.",
+                "ro": "O oprire rapidă pe marginea drumului. Lăsați avariile pornite dacă vizibilitatea este redusă din cauza ploii.",
+                "en": "A quick roadside stop. Keep your hazard lights on if visibility is poor while you inspect the border stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Vuache",
+                "hu": "Mont Vuache",
+                "ro": "Mont Vuache",
+                "en": "Mont Vuache"
+              },
+              "tip_5lang": {
+                "de": "Statt zu wandern, fahren Sie zum Aussichtspunkt und genießen die nebligen Berge aus dem warmen Auto.",
+                "hu": "Hosszú túra helyett vezessen fel a kilátóponthoz, és élvezze a ködbe burkolózó hegyeket a meleg autóból.",
+                "ro": "În loc să faceți drumeții, conduceți la punctul de belvedere și bucurați-vă de munții cețoși din mașina caldă.",
+                "en": "Instead of a long hike, drive to the viewpoint and enjoy the misty mountain atmosphere from your warm car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmes Auto ist ideal für diese Winterroute. Entdecken Sie die frostige Stadt, den See und die Kirche. Fahren Sie dann zu den ruralen Sehenswürdigkeiten. Beenden Sie die Tour am Bergaussichtspunkt, bevor die Straßen bei Dämmerung glatt werden.",
+            "hu": "A fűtött autó tökéletes a téli útvonalhoz. Fedezze fel a fagyos várost, a tavat és a templomot. Vezessen a vidéki látnivalókhoz, majd zárja a túrát a hegyi kilátónál, mielőtt sötétedéskor az utak jegessé válnának.",
+            "ro": "O mașină caldă este ideală iarna. Explorați orașul înghețat, lacul și biserica. Conduceți la atracțiile rurale, apoi terminați turul la belvederea montană înainte ca drumurile să devină alunecoase la lăsarea serii.",
+            "en": "A warm car is perfect for this winter route. Explore the frosty town, lake, and church. Drive to the rural castle and Roman sites. Finish at the mountain viewpoint before the roads get dangerously icy at dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Valleiry",
+                "hu": "Valleiry Városháza",
+                "ro": "Primăria Valleiry",
+                "en": "Valleiry Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor früh an, um die Scheiben zu enteisen. Das klare Morgenlicht lässt das Gebäude streng wirken.",
+                "hu": "Indítsa be korán a motort az ablakok jégmentesítéséhez. A csípős reggeli fényben az épület csodásan fest.",
+                "ro": "Porniți motorul devreme pentru a dezgheța geamurile. Lumina clară a dimineții oferă clădirii un aspect sever.",
+                "en": "Start the engine early to defrost windows. The crisp morning light makes the civic building look wonderfully stark."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirchplatz",
+                "hu": "Templomtér",
+                "ro": "Piața Bisericii",
+                "en": "Church Square"
+              },
+              "tip_5lang": {
+                "de": "Parken ist im Winter einfach. Steigen Sie kurz aus, um die kalte Luft und den Frost auf den Steinen zu spüren.",
+                "hu": "Télen könnyű parkolni. Szálljon ki egy percre, hogy érezze a hideg levegőt és lássa a deret a köveken.",
+                "ro": "Parcarea este ușoară iarna. Coborâți scurt pentru a simți aerul rece și înghețul de pe pietrele istorice.",
+                "en": "Parking is easy in winter. Step out briefly to feel the cold, crisp air and see the frost on the historic stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Chenex",
+                "hu": "Lac de Chenex",
+                "ro": "Lac de Chenex",
+                "en": "Lac de Chenex"
+              },
+              "tip_5lang": {
+                "de": "Der teils gefrorene See ist wunderschön. Genießen Sie die Autoheizung direkt nach dem Fotografieren draußen.",
+                "hu": "A részben befagyott tó gyönyörű látvány. A kinti fotózás után egyből értékelni fogja az autó fűtését.",
+                "ro": "Lacul parțial înghețat este superb. Bucurați-vă de căldura mașinii imediat după ce faceți poze afară.",
+                "en": "The partially frozen lake is a beautiful sight. Enjoy the warmth of your car heater right after taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de l'Assomption-de-Marie",
+                "hu": "Église de l'Assomption-de-Marie",
+                "ro": "Église de l'Assomption-de-Marie",
+                "en": "Église de l'Assomption-de-Marie"
+              },
+              "tip_5lang": {
+                "de": "Die Steinkirche wird kalt, behalten Sie die Winterjacke an. Das weiche Sonnenlicht durch die Fenster ist toll.",
+                "hu": "A kőtemplom hideg tud lenni, tartsa magán a télikabátot. Az ablakokon beszűrődő lágy napfény csodálatos.",
+                "ro": "Biserica de piatră este rece, păstrați geaca pe voi. Lumina blândă a soarelui prin ferestre este minunată.",
+                "en": "The stone church gets cold, so keep your winter coat on. The soft sunlight through the windows is beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Humilly",
+                "hu": "Château d'Humilly",
+                "ro": "Château d'Humilly",
+                "en": "Château d'Humilly"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Eisplatten auf den ländlichen Straßen zur Burg. Die kahlen Bäume bieten eine freie Sicht.",
+                "hu": "Vigyázzon a jégfoltokra a kastélyhoz vezető vidéki utakon. A lombtalan fák zavartalan kilátást biztosítanak.",
+                "ro": "Atenție la porțiunile înghețate pe drumurile rurale spre castel. Copacii fără frunze oferă o vedere clară.",
+                "en": "Watch for icy patches on rural roads approaching the castle. Leafless trees offer clear, unobstructed views."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuilerie romaine",
+                "hu": "Tuilerie romaine",
+                "ro": "Tuilerie romaine",
+                "en": "Tuilerie romaine"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden ist besser begehbar als im Matsch. Staunen Sie, wie diese Ziegel Jahrhunderte überstanden.",
+                "hu": "A fagyott talaj jobban járható, mint a sár. Lenyűgöző belegondolni, hány telet vészeltek át ezek a cserepek.",
+                "ro": "Pământul înghețat este mai ușor de parcurs decât noroiul. Minunați-vă cum au supraviețuit aceste țigle secolelor.",
+                "en": "Frozen ground makes walking easier than in muddy seasons. Marvel at how these tiles survived centuries of winters."
+              }
+            },
+            {
+              "name": {
+                "de": "Borne n°1",
+                "hu": "Borne n°1",
+                "ro": "Borne n°1",
+                "en": "Borne n°1"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp vor Sonnenuntergang. Das schwache Licht wirft lange Schatten um diesen Grenzstein.",
+                "hu": "Rövid megálló még naplemente előtt. A gyenge fény hosszú árnyékokat vet e köré a lenyűgöző határkő köré.",
+                "ro": "O oprire scurtă înainte de apus. Lumina slabă aruncă umbre lungi în jurul acestei borne de frontieră.",
+                "en": "A brief stop before the sun sets. The low light casts long shadows around this fascinating historic border marker."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont Vuache",
+                "hu": "Mont Vuache",
+                "ro": "Mont Vuache",
+                "en": "Mont Vuache"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vor 16 Uhr hoch. Genießen Sie die winterliche Panoramaaussicht, aber Vorsicht vor Blitzeis bergab.",
+                "hu": "Még 16 óra előtt vezessen fel. Élvezze a téli panorámát, de ereszkedéskor nagyon vigyázzon a tükörjégre.",
+                "ro": "Urcați înainte de ora 16:00. Bucurați-vă de vederea panoramică de iarnă, dar atenție la gheața neagră la coborâre.",
+                "en": "Drive up carefully before 4 PM. Enjoy panoramic winter views, but beware of black ice on the winding descent."
+              }
+            }
+          ]
+        }
       }
     }
   }

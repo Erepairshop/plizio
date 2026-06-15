@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a Mora Mora strandra, élvezve a korai napsütést és a nyugodt tengerparti hangulatot. Délben sétáljon el a Lido Solemar és a Mamalù nyüzsgő szakaszai mellett, elmerülve a pezsgő pugliai tengerparti kultúrában. Délután fedezze fel az Eurogarden gondozott homokját és a Li Marangi festői sziklás széleit. Zárja a napot a Lido Soleron, és egy finom fagylalttal a kezében élvezze a késő délutáni melegséget a parton.",
         "ro": "Începeți dimineața cu o plimbare revigorantă până la plaja Mora Mora, bucurându-vă de soarele timpuriu și de atmosfera liniștită de coastă. La prânz, plimbați-vă pe lângă secțiunile pline de viață de la Lido Solemar și Mamalù, scufundându-vă în cultura vibrantă de pe litoralul apulian. După-amiaza, explorați nisipul bine întreținut de la Eurogarden și marginile stâncoase pitorești de la Li Marangi. Încheiați ziua la Lido Solero, savurând căldura după-amiezii cu o înghețată delicioasă.",
         "en": "Start your morning with a refreshing walk to Mora Mora Beach, enjoying the early sun and tranquil coastal atmosphere as the town awakens. By midday, wander past the lively stretches of Lido Solemar and Mamalù, immersing yourself in the vibrant Apulian seaside culture. In the afternoon, explore the well-kept sands of Eurogarden and the scenic rocky borders of Li Marangi for a varied beach experience. Conclude your day at Lido Solero, soaking in the late afternoon warmth with a satisfying gelato in hand."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regen am Mora Mora Beach, wo die überdachten Bereiche Schutz bieten, während man das stürmische Meer beobachtet. Mittags ziehen dunkle Wolken über die Küste; wasserfeste Schuhe sind für die nassen Wege zwischen den Lidos unerlässlich. Am Nachmittag sorgt der Regen für eine mystische Stille am Strand. Abends reflektieren die Pfützen die Lichter von San Foca.",
+            "hu": "A reggel esővel indul a Mora Mora Beach-en, ahol a fedett részek alatt figyelhetjük a tenger morajlását. Délben a sötét felhők drámai hátteret adnak a partnak; a lidosok közötti séta közben elengedhetetlen a vízhatlan lábbeli. Délután az eső csendes, misztikus hangulatot áraszt a homokos parton. Este a tócsákban tükröződnek San Foca fényei, a kikötő környéke pedig különleges látványt nyújt.",
+            "ro": "Dimineața începe cu ploaie la Mora Mora Beach, unde zonele acoperite oferă adăpost în timp ce admiri marea agitată. La prânz, norii joși creează un decor dramatic de-a lungul coastei; încălțămintea impermeabilă este esențială pentru plimbarea între plaje. După-amiaza, ploaia aduce o liniște mistică pe malul mării. Seara, bălțile reflectă luminile din San Foca, oferind o perspectivă unică.",
+            "en": "The morning begins with rain at Mora Mora Beach, where covered areas provide shelter while watching the stormy sea. At noon, dark clouds create a dramatic backdrop along the coast; waterproof shoes are essential for walking between the beach clubs. In the afternoon, the rain brings a mystical silence to the shore. By evening, the puddles reflect the lights of San Foca, creating a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mora Mora Beach",
+                "hu": "Mora Mora Beach",
+                "ro": "Mora Mora Beach",
+                "en": "Mora Mora Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen von der überdachten Terrasse aus; ein windfester Regenschirm ist bei den böigen Küstenwinden hier unverzichtbar.",
+                "hu": "Élvezze a hullámok látványát a fedett teraszról; a parti szél miatt egy szélálló esernyő elengedhetetlen kellék a mai napon.",
+                "ro": "Bucurați-vă de vederea valurilor de pe terasa acoperită; o umbrelă rezistentă la vânt este indispensabilă din cauza rafalelor de pe coastă.",
+                "en": "Enjoy the view of the crashing waves from the covered terrace; a windproof umbrella is indispensable today due to the gusty coastal breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Solemar",
+                "hu": "Lido Solemar",
+                "ro": "Lido Solemar",
+                "en": "Lido Solemar"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen sehen im Regen besonders dunkel und markant aus; achten Sie auf den rutschigen Untergrund beim Fotografieren am Ufer.",
+                "hu": "A sziklaalakzatok az esőben különösen sötétek és karakteresek; ügyeljen a csúszós talajra, amikor a parton fényképez.",
+                "ro": "Formațiunile stâncoase arată deosebit de întunecate și marcante în ploaie; atenție la terenul alunecos când fotografiați pe mal.",
+                "en": "The rock formations look particularly dark and striking in the rain; watch out for the slippery ground when taking photos by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mamalù",
+                "hu": "Lido Mamalù",
+                "ro": "Lido Mamalù",
+                "en": "Lido Mamalù"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den festen Strukturen und beobachten Sie, wie der Regen den Sand dunkler färbt; eine Regenjacke schützt besser als ein Schirm.",
+                "hu": "Keressen menedéket a fix építmények alatt, és figyelje, ahogy az eső sötétre festi a homokot; egy esőkabát itt többet ér, mint az esernyő.",
+                "ro": "Căutați adăpost sub structurile fixe și observați cum ploaia înnegrește nisipul; o pelerină de ploaie este mai utilă aici decât o umbrelă.",
+                "en": "Seek shelter under the fixed structures and watch how the rain darkens the sand; a raincoat provides better protection here than an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Eurogarden Beach",
+                "hu": "Eurogarden Beach",
+                "ro": "Eurogarden Beach",
+                "en": "Eurogarden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Strand wirkt bei Regen fast menschenleer und melancholisch; nutzen Sie die kurzen Regenpausen für einen schnellen Spaziergang direkt am Wasser.",
+                "hu": "A tágas strand esőben szinte néptelen és melankolikus; használja ki a rövid esőszüneteket egy gyors sétára közvetlenül a vízparton.",
+                "ro": "Plaja vastă pare aproape pustie și melancolică în ploaie; profitați de scurtele pauze de ploaie pentru o plimbare rapidă chiar lângă apă.",
+                "en": "The spacious beach seems almost deserted and melancholic in the rain; use the short breaks in precipitation for a quick walk right by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Li Marangi",
+                "hu": "Li Marangi",
+                "ro": "Li Marangi",
+                "en": "Li Marangi"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Wassers wechseln bei Regen zu einem tiefen Grau-Blau; beobachten Sie das Naturschauspiel von einem geschützten Platz aus.",
+                "hu": "A víz színei esőben mély szürkéskékre váltanak; figyelje meg ezt a természeti jelenséget egy védett, fedett helyről.",
+                "ro": "Culorile apei se schimbă într-un albastru-gri profund în timpul ploii; observați spectacolul naturii dintr-un loc protejat.",
+                "en": "The colors of the water shift to a deep gray-blue during the rain; observe this natural spectacle from a sheltered, covered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Solero",
+                "hu": "Lido Solero",
+                "ro": "Lido Solero",
+                "en": "Lido Solero"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag bei der beruhigenden Akustik des Regens ausklingen; die Wege zurück in den Ort können jetzt kleine Bäche bilden.",
+                "hu": "Zárja a napot az eső megnyugtató kopogását hallgatva; a városba visszavezető utakon ilyenkor kisebb vízfolyások alakulhatnak ki.",
+                "ro": "Încheiați ziua ascultând sunetul relaxant al ploii; drumurile de întoarcere spre oraș pot forma acum mici pârâuri.",
+                "en": "End the day by listening to the soothing acoustics of the rain; the paths back to town may form small streams at this time."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wind weht morgens am Mora Mora Beach, doch die klare Winterluft bietet weite Sicht über die Adria. Mittags wärmt die tiefstehende Sonne die menschenleeren Buchten von San Foca. Am Nachmittag taucht das weiche Licht die Küstenfelsen in goldene Farben, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend ist frisch und ruhig, ideal für einen Spaziergang in dicker Kleidung.",
+            "hu": "Hűvös szél fúj reggel a Mora Mora Beach-en, de a tiszta téli levegő fantasztikus kilátást nyújt az Adriára. Délben az alacsonyan járó nap melegíti San Foca néptelen öbleit. Délután a lágy fények aranyba vonják a parti sziklákat, mielőtt 17:00 körül lenyugszik a nap. Az este friss és csendes, tökéletes egy vastag kabátos sétához a tengerparti sétányon.",
+            "ro": "Un vânt răcoros suflă dimineața la Mora Mora Beach, dar aerul curat de iarnă oferă o vizibilitate vastă peste Adriatica. La prânz, soarele blând încălzește golfurile pustii din San Foca. După-amiaza, lumina caldă colorează stâncile de pe coastă în nuanțe aurii înainte de apusul de la ora 17:00. Seara este rece și liniștită, ideală pentru o plimbare cu haine groase.",
+            "en": "A cool breeze blows in the morning at Mora Mora Beach, but the crisp winter air offers wide views across the Adriatic. At noon, the low sun warms the deserted bays of San Foca. In the afternoon, the soft light bathes the coastal rocks in golden hues before the sun sets around 5:00 PM. The evening is fresh and quiet, perfect for a walk wrapped in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mora Mora Beach",
+                "hu": "Mora Mora Beach",
+                "ro": "Mora Mora Beach",
+                "en": "Mora Mora Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille des Winters; tragen Sie eine winddichte Jacke, um sich vor der scharfen Brise direkt am Meer zu schützen.",
+                "hu": "Élvezze a tél abszolút csendjét; viseljen szélálló kabátot, hogy megvédje magát a közvetlenül a tenger felől érkező éles fuvallatoktól.",
+                "ro": "Bucurați-vă de liniștea absolută a iernii; purtați o jachetă rezistentă la vânt pentru a vă proteja de briza tăioasă de lângă mare.",
+                "en": "Enjoy the absolute silence of winter; wear a windproof jacket to protect yourself from the sharp breeze coming directly off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Solemar",
+                "hu": "Lido Solemar",
+                "ro": "Lido Solemar",
+                "en": "Lido Solemar"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne lässt das Wasser kristallklar erscheinen; ein idealer Zeitpunkt für Fotos ohne die üblichen Touristenmassen.",
+                "hu": "Az alacsonyan járó téli nap kristálytisztává teszi a vizet; ideális időpont a fotózáshoz a szokásos turistatömeg nélkül.",
+                "ro": "Soarele de iarnă face ca apa să pară de cristal; este momentul ideal pentru fotografii fără mulțimile obișnuite de turiști.",
+                "en": "The low winter sun makes the water appear crystal clear; it is an ideal time for photos without the usual tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mamalù",
+                "hu": "Lido Mamalù",
+                "ro": "Lido Mamalù",
+                "en": "Lido Mamalù"
+              },
+              "tip_5lang": {
+                "de": "Die geschlossenen Strukturen unterstreichen die Einsamkeit der Küste; wärmen Sie sich mit einem heißen Getränk aus der Thermoskanne auf.",
+                "hu": "A zárva tartó építmények kiemelik a part magányos szépségét; melegedjen fel egy termoszba készített forró itallal a séta közben.",
+                "ro": "Structurile închise subliniază singurătatea coastei; încălziți-vă cu o băutură fierbinte dintr-un termos în timpul plimbării.",
+                "en": "The closed structures emphasize the lonely beauty of the coast; warm yourself up with a hot drink from a thermos during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Eurogarden Beach",
+                "hu": "Eurogarden Beach",
+                "ro": "Eurogarden Beach",
+                "en": "Eurogarden Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen langen Strandspaziergang auf dem harten Sand; die kühle Luft belebt den Kreislauf und stärkt das Immunsystem.",
+                "hu": "Tegyen egy hosszú sétát a keményre döngölt homokon; a hűvös levegő felfrissíti a keringést és erősíti az immunrendszert.",
+                "ro": "Faceți o plimbare lungă pe nisipul întărit; aerul rece revigorează circulația și întărește sistemul imunitar.",
+                "en": "Take a long walk on the hard-packed sand; the cool air invigorates the circulation and strengthens the immune system."
+              }
+            },
+            {
+              "name": {
+                "de": "Li Marangi",
+                "hu": "Li Marangi",
+                "ro": "Li Marangi",
+                "en": "Li Marangi"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Ufer sind im Winter oft mit Gischt bedeckt; tragen Sie festes Schuhwerk mit gutem Profil für die Erkundung der Küste.",
+                "hu": "A parti sziklákat télen gyakran borítja sós permet; viseljen jó tapadású, zárt cipőt a part menti felfedezéshez.",
+                "ro": "Stâncile de pe mal sunt adesea acoperite de spumă sărată iarna; purtați încălțăminte solidă cu talpă aderentă pentru explorare.",
+                "en": "The rocks on the shore are often covered in salt spray in winter; wear sturdy footwear with good grip for exploring the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Solero",
+                "hu": "Lido Solero",
+                "ro": "Lido Solero",
+                "en": "Lido Solero"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; die Farben am Winterhimmel sind oft intensiver als im Hochsommer.",
+                "hu": "Figyelje meg a korai, 17:00 körüli naplementét; a téli égbolt színei gyakran sokkal intenzívebbek, mint a nyári hőségben.",
+                "ro": "Observați apusul timpuriu în jurul orei 17:00; culorile cerului de iarnă sunt adesea mai intense decât în plină vară.",
+                "en": "Watch the early sunset around 5:00 PM; the colors of the winter sky are often more intense than in the height of summer."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros utazását az északi part mentén a Mora Mora strandnál, ahol a tengeri szellő tökéletes tempót diktál a naphoz. Dél közeledtével tekerjen le a Lido Mamalù és a Li Marangi felé, és a tengerparti túrák között mártózzon meg a vízben. A délután hívogatja Önt délebbre, Coiba és Kum felé, ahol csendesebb partokat és lenyűgöző sziklaképződményeket fedezhet fel. Az este a Punta Soap Beach-en éri el tetőpontját, ahogy a naplemente színei tükröződnek a sziklás tájon.",
         "ro": "Începeți călătoria cu bicicleta de-a lungul coastei de nord la plaja Mora Mora, unde briza mării stabilește ritmul perfect. La prânz, pedalați spre Lido Mamalù și Li Marangi, făcând scurte băi răcoritoare între plimbările de coastă. După-amiaza vă invită mai spre sud, la Coiba și Kum, pentru a descoperi țărmuri mai liniștite și formațiuni stâncoase uimitoare. Seara dumneavoastră culminează la Punta Soap Beach, urmărind culorile apusului reflectându-se peisajul stâncos.",
         "en": "Kick off your cycling journey along the northern coast at Mora Mora Beach, where the sea breeze sets a perfect pace for the day. As midday approaches, pedal down to Lido Mamalù and Li Marangi, taking short refreshing dips between your smooth coastal rides. The afternoon invites you further south to Coiba and Kum, discovering quieter shores and stunning rock formations away from the main hub. Your evening culminates at Punta Soap Beach, watching the sunset colors reflect off the striking cliffside landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen am Morgen macht die Küstenstraßen rutschig, daher ist Vorsicht geboten. Mittags bietet die kurze Fahrt zwischen den Stopps eine erfrischende Abkühlung, sofern man gute Regenkleidung trägt. Am Nachmittag ziehen die Wolken schnell über die flache Landschaft des Salento. Der Abend endet im Schutz einer Garage oder unter einem Vordach, während man die Räder trocknet.",
+            "hu": "A reggeli eső csúszóssá teszi a parti utakat, így óvatosan kell tekerni. Délben a megállók közötti rövid utak frissítőek lehetnek, ha megfelelő esőruházatot viselünk. Délután a felhők gyorsan vonulnak át Salento lapos tájai felett. Az este a kerékpárok megszárításával és egy fedett, meleg helyen való pihenéssel zárul a kikötő közelében.",
+            "ro": "Ploaia de dimineață face drumurile de coastă alunecoase, deci este necesară prudență. La prânz, deplasările scurte între opriri sunt revigorante dacă porți echipament de ploaie adecvat. După-amiaza, norii trec rapid peste peisajul plat din Salento. Seara se încheie la adăpost, uscând bicicletele și planificând ziua următoare.",
+            "en": "Morning rain makes the coastal roads slippery, so caution is advised while cycling. At noon, the short trips between stops can be refreshing if you wear proper rain gear. In the afternoon, clouds move quickly across the flat landscape of Salento. The evening ends under shelter, drying the bikes and relaxing after a damp but scenic ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mora Mora Beach",
+                "hu": "Mora Mora Beach",
+                "ro": "Mora Mora Beach",
+                "en": "Mora Mora Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dach und genießen Sie den Blick; prüfen Sie vor der Weiterfahrt unbedingt Ihre Bremsen auf Nässe.",
+                "hu": "Parkolja le a bringát a tető alá, és élvezze a kilátást; indulás előtt mindenképpen ellenőrizze a fékek hatékonyságát a vizes úton.",
+                "ro": "Parcați bicicleta sub acoperiș și bucurați-vă de vedere; înainte de plecare, verificați neapărat frânele pe carosabil umed.",
+                "en": "Park your bike under the roof and enjoy the view; be sure to check your brakes for effectiveness on the wet road before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mamalù",
+                "hu": "Lido Mamalù",
+                "ro": "Lido Mamalù",
+                "en": "Lido Mamalù"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Radfahren große Pfützen, da diese tiefe Schlaglöcher verbergen können; eine wasserdichte Handyhülle ist heute Gold wert.",
+                "hu": "Kerékpározás közben kerülje a mély tócsákat, mert kátyúkat rejthetnek; egy vízhatlan telefontok ma aranyat ér a navigációhoz.",
+                "ro": "Evitați bălțile mari când pedalați, deoarece pot ascunde gropi adânci; o husă de telefon impermeabilă este extrem de utilă astăzi.",
+                "en": "Avoid large puddles while cycling as they can hide deep potholes; a waterproof phone case is worth its weight in gold today."
+              }
+            },
+            {
+              "name": {
+                "de": "Li Marangi",
+                "hu": "Li Marangi",
+                "ro": "Li Marangi",
+                "en": "Li Marangi"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen sehr windig sein; lehnen Sie Ihr Fahrrad stabil an, damit es bei Böen nicht umkippt.",
+                "hu": "A parti út esőben nagyon szeles lehet; támassza le stabilan a kerékpárt, hogy a széllökések ne borítsák fel a pihenő alatt.",
+                "ro": "Drumul de coastă poate fi foarte vântos pe ploaie; sprijiniți bicicleta stabil pentru a nu fi răsturnată de rafalele de vânt.",
+                "en": "The coastal road can be very windy in the rain; lean your bike securely so that gusts of wind don't knock it over during your stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Coiba",
+                "hu": "Coiba",
+                "ro": "Coiba",
+                "en": "Coiba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den festen Untergrund am Eingang für einen kurzen Stopp; achten Sie auf spritzendes Wasser von vorbeifahrenden Fahrzeugen.",
+                "hu": "Használja a bejáratnál lévő szilárd burkolatot egy rövid megállóra; ügyeljen az elhaladó járművek által felcsapott vízre.",
+                "ro": "Folosiți terenul solid de la intrare pentru o scurtă oprire; atenție la apa stropită de vehiculele care trec pe lângă dvs.",
+                "en": "Use the solid ground at the entrance for a short stop; watch out for spray from passing vehicles on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Kum",
+                "hu": "Kum",
+                "ro": "Kum",
+                "en": "Kum"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto der rauen See; wischen Sie den Sattel vor dem Aufsteigen trocken, um Komfort zu bewahren.",
+                "hu": "Egy gyors megálló a viharos tenger fotózásához; törölje szárazra a nyerget mielőtt továbbindul a kényelem megőrzése érdekében.",
+                "ro": "O oprire rapidă pentru o fotografie cu marea agitată; ștergeți șaua înainte de a pleca pentru a vă menține confortul.",
+                "en": "A quick stop for a photo of the rough sea; wipe the saddle dry before mounting again to maintain your comfort for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Soap Beach",
+                "hu": "Punta Soap Beach",
+                "ro": "Punta Soap Beach",
+                "en": "Punta Soap Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Boden bei der Klippe ist bei Regen extrem rutschig; halten Sie ausreichend Abstand zur Kante und steigen Sie vom Rad ab.",
+                "hu": "A szikla szélén a talaj esőben rendkívül csúszós; tartson elegendő távolságot a peremtől, és szálljon le a kerékpárról.",
+                "ro": "Terenul de lângă stâncă este extrem de alunecos pe ploaie; păstrați o distanță sigură de margine și coborâți de pe bicicletă.",
+                "en": "The ground near the cliff is extremely slippery in the rain; keep a safe distance from the edge and dismount from your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Morgenluft ist perfekt für eine sportliche Radtour entlang der Küste. Mittags wärmt die Sonne angenehm, während man fast allein auf den Wegen ist. Am Nachmittag sinken die Temperaturen schnell, sobald die Sonne tiefer steht. Der Abend kommt früh gegen 17:00 Uhr, daher sollte man sicherstellen, dass die Fahrradbeleuchtung für den Rückweg funktioniert.",
+            "hu": "A tiszta reggeli levegő tökéletes egy sportos kerékpártúrához a part mentén. Délben a nap kellemesen melegít, miközben szinte egyedül vagyunk az utakon. Délután a hőmérséklet gyorsan süllyed, ahogy a nap egyre lejjebb kerül. Az este korán, 17:00 körül érkezik, így ellenőrizze a világítást a visszautazáshoz.",
+            "ro": "Aerul curat de dimineață este perfect pentru o tură sportivă cu bicicleta de-a lungul coastei. La prânz, soarele încălzește plăcut, în timp ce sunteți aproape singuri pe drumuri. După-amiaza, temperaturile scad rapid pe măsură ce soarele coboară. Seara vine devreme, în jurul orei 17:00, deci asigurați-vă că luminile bicicletei funcționează.",
+            "en": "The clear morning air is perfect for a sporty bike ride along the coast. At noon, the sun warms pleasantly while you have the paths almost to yourself. In the afternoon, temperatures drop quickly as the sun gets lower. Evening arrives early around 5:00 PM, so make sure your bike lights are working for the return trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mora Mora Beach",
+                "hu": "Mora Mora Beach",
+                "ro": "Mora Mora Beach",
+                "en": "Mora Mora Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind; die Aussicht auf das tiefblaue Wintermeer ist heute besonders klar und weit.",
+                "hu": "Viseljen kesztyűt a hideg menetszél ellen; a mélykék téli tenger látványa ma különösen tiszta és messzire ellátszódik.",
+                "ro": "Purtați mănuși împotriva vântului rece; vederea spre marea albastră de iarnă este deosebit de clară și vastă astăzi.",
+                "en": "Wear gloves against the cold wind while riding; the view of the deep blue winter sea is particularly clear and far-reaching today."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Mamalù",
+                "hu": "Lido Mamalù",
+                "ro": "Lido Mamalù",
+                "en": "Lido Mamalù"
+              },
+              "tip_5lang": {
+                "de": "Die verlassenen Wege sind ideal für zügiges Fahren; achten Sie auf Sandverwehungen auf dem Asphalt, die im Winter oft nicht geräumt werden.",
+                "hu": "Az elhagyatott utak ideálisak a gyorsabb tempóhoz; ügyeljen az aszfaltra fújt homokra, amit télen gyakran nem takarítanak el.",
+                "ro": "Drumurile pustii sunt ideale pentru o viteză mai mare; atenție la nisipul suflat pe asfalt, care adesea nu este curățat iarna.",
+                "en": "The deserted roads are ideal for picking up speed; watch out for sand drifts on the asphalt, which are often not cleared in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Li Marangi",
+                "hu": "Li Marangi",
+                "ro": "Li Marangi",
+                "en": "Li Marangi"
+              },
+              "tip_5lang": {
+                "de": "Ein windgeschützter Stopp ist jetzt wichtig; dehnen Sie Ihre Muskeln kurz auf, da die Kälte die Gelenke etwas steifer machen kann.",
+                "hu": "Egy szélvédett megálló most nagyon fontos; mozogjon egy kicsit, mert a hidegben az ízületek merevebbé válhatnak tekerés közben.",
+                "ro": "O oprire la adăpost de vânt este importantă acum; faceți scurte exerciții de stretching, deoarece frigul poate rigidiza articulațiile.",
+                "en": "A wind-sheltered stop is important now; stretch your muscles briefly, as the cold can make joints a bit stiffer while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Coiba",
+                "hu": "Coiba",
+                "ro": "Coiba",
+                "en": "Coiba"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft wirkt hier fast karg und wild; nutzen Sie die kurzen Sonnenstunden für Landschaftsaufnahmen bei bestem Licht.",
+                "hu": "A téli táj itt szinte kietlen és vad; használja ki a kevés napsütéses órát a tájfotózáshoz a legszebb téli fényekben.",
+                "ro": "Peisajul de iarnă pare aproape arid și sălbatic aici; profitați de puținele ore de soare pentru fotografii în cea mai bună lumină.",
+                "en": "The winter landscape here seems almost barren and wild; make the most of the limited daylight hours for landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Kum",
+                "hu": "Kum",
+                "ro": "Kum",
+                "en": "Kum"
+              },
+              "tip_5lang": {
+                "de": "Die salzige Luft ist im Winter besonders gesund; atmen Sie tief durch, aber halten Sie Hals und Ohren gut bedeckt.",
+                "hu": "A sós levegő télen különösen egészséges; lélegezzen mélyeket, de tartsa a nyakát és a fülét jól elfedve a szél ellen.",
+                "ro": "Aerul sărat este deosebit de sănătos iarna; respirați adânc, dar mențineți gâtul și urechile bine acoperite împotriva vântului.",
+                "en": "The salty air is especially healthy in winter; breathe deeply, but keep your neck and ears well covered against the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Soap Beach",
+                "hu": "Punta Soap Beach",
+                "ro": "Punta Soap Beach",
+                "en": "Punta Soap Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr und machen Sie sich dann zügig auf den Rückweg, bevor es richtig frostig wird.",
+                "hu": "Élvezze a naplementét 17:00 körül, majd induljon el gyorsan visszafelé, mielőtt a levegő igazán fagyossá válna.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00, apoi porniți rapid înapoi înainte ca aerul să devină cu adevărat înghețat.",
+                "en": "Enjoy the sunset around 5:00 PM and then head back promptly before the temperature drops significantly for the night."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje autós túráját a nyugodt Mora Mora strandon, élvezve a békés reggeli úszást, még mielőtt megérkezik a tömeg. Kényelmesen vezessen át a délidőbe az Eurogarden strandra, ahol a kiváló felszereltség kényelmes ebédet tesz lehetővé a tengerparton. Délutánját a Lido Solero és a félreeső Coiba felé autózva töltse, megtapasztalva a régió változatos part menti varázsát. Zárja a napot a Punta Soap Beach közelében parkolva, hogy megcsodálhassa a fenséges nevezetességet az esti fényben.",
         "ro": "Începeți turul cu mașina la plaja liniștită Mora Mora, bucurându-vă de o înotare pașnică de dimineață înainte de sosirea mulțimilor. Conduceți ușor spre Eurogarden Beach la prânz, unde facilitățile excelente permit un prânz confortabil pe litoral. Petreceți-vă după-amiaza conducând spre Lido Solero și plaja retrasă Coiba, experimentând farmecul divers de coastă al regiunii. Încheiați ziua parcând lângă Punta Soap Beach pentru a admira acest reper de coastă maiestuos.",
         "en": "Begin your driving tour at the tranquil Mora Mora Beach, enjoying a peaceful morning swim before the crowds arrive. Drive smoothly into midday at Eurogarden Beach, where excellent amenities allow for a comfortable and relaxed seaside lunch. Spend your afternoon cruising to Lido Solero and the secluded Coiba, experiencing the diverse coastal charm of the region. Wrap up the day parking near Punta Soap Beach to admire the majestic coastal landmark under the fading evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist man morgens am Mora Mora Beach bestens vor dem Regen geschützt und kann die Aussicht genießen. Mittags ist das Fahren entlang der Küstenstraße sicher und trocken. Am Nachmittag laden die verschiedenen Strandstopps zu kurzen Erkundungen ein, bevor man schnell wieder ins warme Fahrzeug schlüpft. Der Abend in San Foca ist gemütlich, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Az autóban reggel a Mora Mora Beach-nél tökéletes biztonságban vagyunk az esőtől, miközben csodáljuk a kilátást. Délben a parti út biztonságos és száraz utazást nyújt. Délután a különböző strandmegállók rövid felfedezésre csábítanak, mielőtt gyorsan visszaugranánk a meleg járműbe. Az este San Focában hangulatos, ahogy az esőcseppek kopognak az autó tetején.",
+            "ro": "În mașină sunteți protejați de ploaie dimineața la Mora Mora Beach și puteți admira priveliștea. La prânz, condusul pe drumul de coastă este sigur și uscat. După-amiaza, opririle la plajă invită la scurte explorări înainte de a reveni rapid în vehiculul cald. Seara în San Foca este plăcută, în timp ce picăturile de ploaie bat în plafonul mașinii.",
+            "en": "In the car, you are perfectly shielded from the rain at Mora Mora Beach while enjoying the view. At noon, driving along the coastal road is safe and dry. In the afternoon, the various beach stops invite short explorations before you quickly hop back into the warm vehicle. The evening in San Foca is cozy as raindrops drum on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mora Mora Beach",
+                "hu": "Mora Mora Beach",
+                "ro": "Mora Mora Beach",
+                "en": "Mora Mora Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer; so können Sie die Naturgewalten beobachten, ohne nass zu werden. Prüfen Sie die Scheibenwischer.",
+                "hu": "Parkoljon tengerre néző kilátással; így szárazon figyelheti a természet erejét. Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+                "ro": "Parcați cu fața spre mare; astfel puteți observa forța naturii fără să vă udați. Verificați starea ștergătoarelor de parbriz.",
+                "en": "Park with a view of the sea; this way you can watch the power of nature without getting wet. Check your wipers before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Eurogarden Beach",
+                "hu": "Eurogarden Beach",
+                "ro": "Eurogarden Beach",
+                "en": "Eurogarden Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang für einen kurzen Sprint zum Wasser; die Sicht kann durch den starken Regen eingeschränkt sein.",
+                "hu": "Használja a bejárathoz közeli parkolót egy gyors vágta erejéig a vízig; a látási viszonyok a heves esőben korlátozottak lehetnek.",
+                "ro": "Folosiți parcarea de lângă intrare pentru un scurt sprint până la apă; vizibilitatea poate fi redusă din cauza ploii abundente.",
+                "en": "Use the parking area close to the entrance for a short dash to the water; visibility may be limited due to the heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Solero",
+                "hu": "Lido Solero",
+                "ro": "Lido Solero",
+                "en": "Lido Solero"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefes Wasser auf dem Parkplatz; fahren Sie langsam, um Aquaplaning auf den Küstenstraßen zu vermeiden.",
+                "hu": "Ügyeljen a mélyebb vízre a parkolóban; vezessen lassan a parti utakon, hogy elkerülje az aquaplaning (vízenfutás) veszélyét.",
+                "ro": "Atenție la apa adâncă din parcare; conduceți încet pe drumurile de coastă pentru a evita riscul de acvaplanare.",
+                "en": "Watch out for deep water in the parking lot; drive slowly on the coastal roads to avoid the risk of aquaplaning."
+              }
+            },
+            {
+              "name": {
+                "de": "Coiba",
+                "hu": "Coiba",
+                "ro": "Coiba",
+                "en": "Coiba"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Ränder können bei Regen aufweichen; bleiben Sie mit dem Auto auf der asphaltierten Fläche, um nicht steckenzubleiben.",
+                "hu": "A nem aszfaltozott útszélek esőben felpuhulhatnak; maradjon az autóval a szilárd burkolaton, hogy elkerülje az elakadást.",
+                "ro": "Marginile neasfaltate pot deveni noroioase pe ploaie; rămâneți cu mașina pe suprafața asfaltată pentru a nu rămâne blocați.",
+                "en": "The unpaved road edges can soften in the rain; keep your car on the paved surfaces to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Soap Beach",
+                "hu": "Punta Soap Beach",
+                "ro": "Punta Soap Beach",
+                "en": "Punta Soap Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein dramatisches Foto der Klippen im Regen; lassen Sie die Heizung im Auto an, um die beschlagenen Scheiben zu klären.",
+                "hu": "Egy rövid megálló a sziklák drámai fotózásához az esőben; járassa a fűtést az autóban, hogy párátlanítsa a szélvédőt.",
+                "ro": "O scurtă oprire pentru o fotografie dramatică a stâncilor în ploaie; lăsați căldura pornită pentru a dezaburi geamurile.",
+                "en": "A short stop for a dramatic photo of the cliffs in the rain; keep the car's heater on to clear the fogged-up windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum Mora Mora Beach bietet bei klarer Luft eine fantastische Sicht auf das Meer. Mittags ist das Parken überall problemlos möglich, da kaum Touristen unterwegs sind. Am Nachmittag genießt man die Küstenfahrt im beheizten Auto, während draußen der Winterwind weht. Der Abend kommt früh gegen 17:00 Uhr und taucht die Küste in ein tiefes Blau.",
+            "hu": "A reggeli autózás a Mora Mora Beach-hez tiszta időben fantasztikus kilátást nyújt a tengerre. Délben a parkolás mindenhol problémamentes, mivel alig vannak turisták a környéken. Délután élvezze a parti kocsikázást a fűtött autóban, miközben kint fúj a téli szél. Az este korán, 17:00 körül érkezik, és mélykékbe vonja a partot.",
+            "ro": "Drumul de dimineață spre Mora Mora Beach oferă o vedere fantastică spre mare prin aerul curat. La prânz, parcarea este facilă peste tot, fiind puțini turiști. După-amiaza, bucurați-vă de drumul de coastă în mașina încălzită, în timp ce afară suflă vântul de iarnă. Seara vine devreme, la ora 17:00, colorând coasta în albastru profund.",
+            "en": "The morning drive to Mora Mora Beach offers a fantastic view of the sea through the crisp air. At noon, parking is hassle-free everywhere as there are few tourists around. In the afternoon, enjoy the coastal drive in your heated car while the winter wind blows outside. Evening arrives early at 5:00 PM, bathing the coast in deep blue hues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mora Mora Beach",
+                "hu": "Mora Mora Beach",
+                "ro": "Mora Mora Beach",
+                "en": "Mora Mora Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne kann beim Fahren tief stehen; halten Sie eine Sonnenbrille bereit, um trotz Blendung die Aussicht zu genießen.",
+                "hu": "A téli nap vezetés közben nagyon alacsonyan állhat; tartson készenlétben napszemüveget, hogy a vakítás ellenére is élvezhesse a tájat.",
+                "ro": "Soarele de iarnă poate fi foarte jos în timp ce conduceți; aveți ochelarii de soare la îndemână pentru a admira peisajul fără a fi orbit.",
+                "en": "The winter sun can be very low while driving; have your sunglasses ready so you can enjoy the view despite the glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Eurogarden Beach",
+                "hu": "Eurogarden Beach",
+                "ro": "Eurogarden Beach",
+                "en": "Eurogarden Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer; nutzen Sie die Gelegenheit für einen kurzen, erfrischenden Spaziergang an der kühlen Meeresluft.",
+                "hu": "A parkoló télen szinte üres; használja ki a lehetőséget egy rövid, frissítő sétára a hűvös, sós tengeri levegőn.",
+                "ro": "Parcarea este aproape goală iarna; profitați de ocazie pentru o scurtă plimbare revigorantă în aerul rece al mării.",
+                "en": "The parking lot is almost empty in winter; take the opportunity for a short, refreshing walk in the cool, salty sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Solero",
+                "hu": "Lido Solero",
+                "ro": "Lido Solero",
+                "en": "Lido Solero"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem warmen Auto; die Farben des Adriatischen Meeres sind im Winter oft kräftiger und dunkler.",
+                "hu": "Élvezze a panorámát a meleg autóból; az Adriai-tenger színei télen gyakran sokkal élénkebbek és sötétebbek, mint nyáron.",
+                "ro": "Bucurați-vă de panorama din mașina caldă; culorile Mării Adriatice sunt adesea mai intense și mai închise iarna decât vara.",
+                "en": "Enjoy the panoramic view from the warmth of your car; the colors of the Adriatic are often more vivid and darker in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Coiba",
+                "hu": "Coiba",
+                "ro": "Coiba",
+                "en": "Coiba"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter herrlich frei; fahren Sie langsam, um die wilde Schönheit der einsamen Landschaft voll aufzusaugen.",
+                "hu": "A parti út télen csodálatosan szabad; vezessen lassan, hogy teljesen magába szívhassa az elhagyatott táj vad szépségét.",
+                "ro": "Drumul de coastă este minunat de liber iarna; conduceți încet pentru a absorbi pe deplin frumusețea sălbatică a peisajului solitar.",
+                "en": "The coastal road is wonderfully clear in winter; drive slowly to fully soak in the wild beauty of the lonely landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Soap Beach",
+                "hu": "Punta Soap Beach",
+                "ro": "Punta Soap Beach",
+                "en": "Punta Soap Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr direkt vom Fahrersitz aus; die Klippen leuchten im letzten Tageslicht besonders intensiv.",
+                "hu": "Figyelje meg a naplementét 17:00-kor közvetlenül a vezetőülésből; a sziklák az utolsó fényekben különösen intenzíven ragyognak.",
+                "ro": "Observați apusul de la ora 17:00 direct din scaunul șoferului; stâncile strălucesc intens în ultima lumină a zilei.",
+                "en": "Watch the sunset at 5:00 PM directly from your driver's seat; the cliffs glow intensely in the final light of the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

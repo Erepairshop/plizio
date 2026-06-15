@@ -160,6 +160,196 @@
         "hu": "A reggel a Sant Feliu de Canovelles történelmi nyugalmával indul, majd a Ca l'Estrada neolitikus lelőhelyén utazunk vissza az időben. A dél a Can Palots kultúrájával és a Can Carrencà zöldjében való pihenéssel telik. Délután élvezze a Parc de la Quitxalla nyüzsgő hangulatát. Az este közeledtével a Can Mònic klasszikus homlokzatában gyönyörködhet.",
         "ro": "Dimineața începe cu liniștea istorică de la Sant Feliu de Canovelles, urmată de o călătorie în timp la situl neolitic Ca l'Estrada. Prânzul aduce cultura la Can Palots și o pauză relaxantă în Can Carrencà. După-amiaza, bucurați-vă de atmosfera plină de viață de la Parc de la Quitxalla. Seara coboară în timp ce admirați fațada clasică a complexului Can Mònic.",
         "en": "Morning begins with the historic tranquility of Sant Feliu de Canovelles, followed by a journey back in time at the Ca l'Estrada Neolithic site. Midday brings local culture at Can Palots, and a restful break amid the greenery of Can Carrencà. In the afternoon, enjoy the lively atmosphere at Parc de la Quitxalla. Evening falls as you admire the classic facade of Can Mònic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche Sant Feliu Schutz vor dem ersten Regen. Mittags erkunden wir die neolithische Fundstelle unter den schützenden Überdachungen. Nachmittags dient das Theater als perfekter Zufluchtsort im Trockenen. Abends leuchten die nassen Straßen von La Barriada Nova im Schein der Laternen, während wir den Spaziergang mit regenfester Kleidung sicher beenden.",
+            "hu": "Reggel a Sant Feliu templom boltívei alatt kezdünk, védve az első záporoktól. Délben a neolitikus lelőhely tetővel védett részei alatt pihenünk meg, ügyelve a csúszós ösvényekre. Délután a színház modern épülete kínál tökéletes beltéri menedéket a szakadó esőben. Este az ázott macskakövek csillogása mellett, vízálló cipőben érünk vissza a szállásunkra.",
+            "ro": "Dimineața începe cu un adăpost sub arcadele bisericii Sant Feliu. La prânz, vizităm situl neolitic protejați de zonele acoperite, evitând potecile noroioase. După-amiaza, teatrul devine refugiul ideal pentru a savura cultura la adăpost de ploaie. Seara, străzile umede din La Barriada Nova oferă o atmosferă melancolică, perfectă pentru o plimbare scurtă cu umbrela.",
+            "en": "Morning starts with a visit to Sant Feliu church, where the porch offers a dry spot during showers. At noon, the Neolithic site's covered areas allow for exploration without getting wet. In the afternoon, the theater provides a warm, indoor escape from the downpour. The evening walk concludes among the glistening wet streets, requiring sturdy waterproof footwear for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Feliu de Canovelles",
+                "hu": "Sant Feliu de Canovelles",
+                "ro": "Sant Feliu de Canovelles",
+                "en": "Sant Feliu de Canovelles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich der Kirche als Sammelpunkt, um die romanische Fassade auch bei Regen in Ruhe bewundern zu können.",
+                "hu": "Használja a templom fedett bejárati részét gyülekezőhelyként, így az eső ellenére is nyugodtan megcsodálhatja a román kori homlokzatot.",
+                "ro": "Folosiți zona de intrare acoperită a bisericii ca punct de întâlnire pentru a admira fațada romanică în liniște, chiar și pe ploaie.",
+                "en": "Use the covered entrance area of the church as a meeting point to admire the Romanesque facade in peace even when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment neolític de Ca l'Estrada",
+                "hu": "Jaciment neolític de Ca l'Estrada",
+                "ro": "Jaciment neolític de Ca l'Estrada",
+                "en": "Jaciment neolític de Ca l'Estrada"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen sind teilweise überdacht, bleiben Sie jedoch auf den befestigten Stegen, um nicht auf dem durch den Regen aufgeweichten Boden auszurutschen.",
+                "hu": "Az ásatások részben fedettek, de maradjon a rögzített pallókon, hogy elkerülje az elcsúszást az eső által feláztatott talajon.",
+                "ro": "Săpăturile sunt parțial acoperite, dar rămâneți pe pasarelele fixate pentru a evita alunecarea pe solul înmuiat de ploaie.",
+                "en": "The excavations are partially covered, but stay on the fixed walkways to avoid slipping on the soil softened by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre - Auditori Can Palots",
+                "hu": "Teatre - Auditori Can Palots",
+                "ro": "Teatre - Auditori Can Palots",
+                "en": "Teatre - Auditori Can Palots"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Gebäude ist der ideale Ort, um die regenreichsten Stunden im Foyer bei einer Ausstellung oder einer Aufführung im Trockenen zu verbringen.",
+                "hu": "Ez a modern épület ideális helyszín, hogy a legesősebb órákat az előtérben egy kiállítás vagy egy előadás mellett, szárazon töltse.",
+                "ro": "Această clădire modernă este locul ideal pentru a petrece cele mai ploioase ore în foaier, vizionând o expoziție sau un spectacol, la uscat.",
+                "en": "This modern building is the ideal place to spend the rainiest hours in the foyer enjoying an exhibition or a performance in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Can Carrencà",
+                "hu": "Parc de Can Carrencà",
+                "ro": "Parc de Can Carrencà",
+                "en": "Parc de Can Carrencà"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege ermöglichen einen kurzen Spaziergang im Grünen; achten Sie auf die dichten Baumkronen, die kurzzeitig Schutz bieten können.",
+                "hu": "Az aszfaltozott utak lehetővé teszik a rövid sétát a zöldben; keresse a sűrű lombkoronákat, amelyek rövid ideig védelmet nyújthatnak az eső elől.",
+                "ro": "Potecile asfaltate permit o scurtă plimbare în natură; căutați coroanele dese ale copacilor care pot oferi protecție temporară împotriva ploii.",
+                "en": "The paved paths allow for a short walk in the greenery; look for dense tree canopies that can provide temporary shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Quitxalla",
+                "hu": "Parc de la Quitxalla",
+                "ro": "Parc de la Quitxalla",
+                "en": "Parc de la Quitxalla"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dieser offene Park eher für einen schnellen Durchgang mit einem stabilen Regenschirm geeignet, um zur nächsten Station zu gelangen.",
+                "hu": "Heves esőzéskor ez a nyitott park inkább egy gyors áthaladásra alkalmas egy stabil esernyővel, hogy mielőbb elérje a következő állomást.",
+                "ro": "În caz de ploaie torențială, acest parc deschis este mai degrabă potrivit pentru o traversare rapidă cu o umbrelă stabilă pentru a ajunge la următoarea oprire.",
+                "en": "In heavy rain, this open park is better suited for a quick passage with a sturdy umbrella to reach the next stop more quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mònic",
+                "hu": "Can Mònic",
+                "ro": "Can Mònic",
+                "en": "Can Mònic"
+              },
+              "tip_5lang": {
+                "de": "Das historische Herrenhaus wirkt im Regen besonders atmosphärisch; nutzen Sie die Vorsprünge des Gebäudes, um die architektonischen Details trocken zu betrachten.",
+                "hu": "A történelmi udvarház esőben különösen hangulatos; használja az épület kiszögelléseit, hogy szárazon szemlélhesse meg az építészeti részleteket.",
+                "ro": "Conacul istoric este deosebit de atmosferic pe ploaie; folosiți proeminențele clădirii pentru a observa detaliile arhitecturale rămânând uscat.",
+                "en": "The historic manor is particularly atmospheric in the rain; use the building's overhangs to observe the architectural details while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kirche, wo die dicken Mauern vor dem Wind schützen. Mittags nutzen wir die klare Wintersonne für Fotos an den Ausgrabungen. Nachmittags wärmen wir uns im Theater auf, bevor die Sonne bereits gegen 17:00 Uhr untergeht. Der Abendspaziergang führt uns durch die beleuchteten Straßen von Canovelles bei kühlen, aber angenehmen Temperaturen.",
+            "hu": "A téli reggel frissen indul a templomnál, ahol a vastag falak védenek a széltől. Délben a tiszta téli napsütést használjuk ki a fotózáshoz az ásatásoknál. Délután a színházban melegszünk fel, mielőtt a nap 17:00 körül nyugovóra tér. Az esti séta a kivilágított utcákon át vezet, réteges öltözetben élvezve a környék nyugalmát.",
+            "ro": "Dimineața de iarnă începe proaspăt la biserică, unde zidurile groase oferă protecție împotriva vântului. La prânz, profităm de soarele clar de iarnă pentru fotografii la situl arheologic. După-amiaza ne încălzim la teatru, înainte ca soarele să apună în jurul orei 17:00. Plimbarea de seară ne poartă prin străzile iluminate, bucurându-ne de liniștea zonei.",
+            "en": "The winter morning starts briskly at the church, with thick walls shielding us from the wind. At noon, we take advantage of the clear winter sun for photos at the excavations. In the afternoon, we warm up in the theater before the sun sets around 17:00. The evening walk continues through the illuminated streets, enjoying the neighborhood's peace in layered clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Feliu de Canovelles",
+                "hu": "Sant Feliu de Canovelles",
+                "ro": "Sant Feliu de Canovelles",
+                "en": "Sant Feliu de Canovelles"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere der Kirche am Vormittag, wenn die Kälte draußen am beißendsten ist, und genießen Sie die stille, windgeschützte Atmosphäre.",
+                "hu": "Látogassa meg a templom belsejét délelőtt, amikor a kinti hideg a legmetszőbb, és élvezze a csendes, szélvédett környezetet.",
+                "ro": "Vizitați interiorul bisericii dimineața, când frigul de afară este cel mai pătrunzător, și bucurați-vă de atmosfera liniștită și ferită de vânt.",
+                "en": "Visit the interior of the church in the morning when the cold outside is at its sharpest and enjoy the quiet, wind-sheltered atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment neolític de Ca l'Estrada",
+                "hu": "Jaciment neolític de Ca l'Estrada",
+                "ro": "Jaciment neolític de Ca l'Estrada",
+                "en": "Jaciment neolític de Ca l'Estrada"
+              },
+              "tip_5lang": {
+                "de": "Das flache Licht der Wintersonne eignet sich hervorragend für Detailaufnahmen der prähistorischen Strukturen; tragen Sie eine warme Kopfbedeckung.",
+                "hu": "A téli nap alacsony szögből érkező fénye kiváló a prehisztorikus struktúrák részletgazdag fotózásához; viseljen meleg sapkát.",
+                "ro": "Lumina joasă a soarelui de iarnă este excelentă pentru fotografii detaliate ale structurilor preistorice; purtați o căciulă călduroasă.",
+                "en": "The low winter sun is excellent for detailed photos of the prehistoric structures; be sure to wear a warm hat."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre - Auditori Can Palots",
+                "hu": "Teatre - Auditori Can Palots",
+                "ro": "Teatre - Auditori Can Palots",
+                "en": "Teatre - Auditori Can Palots"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das beheizte Foyer für eine ausgiebige Pause, um die Winterkälte aus den Knochen zu vertreiben, bevor Sie zum Park weiterziehen.",
+                "hu": "Használja ki a fűtött előteret egy hosszabb pihenőre, hogy kiűzze a téli hideget a tagjaiból, mielőtt továbbindulna a park felé.",
+                "ro": "Folosiți foaierul încălzit pentru o pauză prelungită, pentru a alunga frigul iernii din oase, înainte de a continua spre parc.",
+                "en": "Take advantage of the heated foyer for an extended break to get the winter chill out of your bones before moving on to the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Can Carrencà",
+                "hu": "Parc de Can Carrencà",
+                "ro": "Parc de Can Carrencà",
+                "en": "Parc de Can Carrencà"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Sichtachsen durch die entlaubten Bäume weiter; ideal für einen zügigen Marsch, um die Körperwärme aufrechtzuerhalten.",
+                "hu": "Télen a lombhullató fák miatt messzebbre látni a parkban; ideális egy tempós sétához, hogy fenntartsa testhőmérsékletét.",
+                "ro": "Iarna, vizibilitatea este mai mare datorită copacilor desfrunziți; este un loc ideal pentru un marș rapid pentru a menține căldura corporală.",
+                "en": "In winter, visibility is better through the leafless trees; it's an ideal spot for a brisk walk to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Quitxalla",
+                "hu": "Parc de la Quitxalla",
+                "ro": "Parc de la Quitxalla",
+                "en": "Parc de la Quitxalla"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die sonnigsten Plätze im Park auf, um die Vitamin-D-Speicher aufzufüllen, da dieser Ort ab dem späten Nachmittag schnell im Schatten liegt.",
+                "hu": "Keresse a park legnaposabb pontjait a D-vitamin raktárak feltöltéséhez, mivel ez a terület késő délutántól gyorsan árnyékba kerül.",
+                "ro": "Căutați cele mai însorite locuri din parc pentru a vă reîncărca rezervele de vitamina D, deoarece această zonă intră repede în umbră după-amiaza.",
+                "en": "Look for the sunniest spots in the park to top up your vitamin D, as this area quickly falls into shadow from late afternoon onwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mònic",
+                "hu": "Can Mònic",
+                "ro": "Can Mònic",
+                "en": "Can Mònic"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch kurz vor 17:00 Uhr ein, um das historische Gebäude noch im letzten Tageslicht zu sehen, bevor die winterliche Dunkelheit einsetzt.",
+                "hu": "Tervezze a látogatást röviddel 17:00 elé, hogy még az utolsó nappali fénynél láthassa a történelmi épületet a téli sötétség beállta előtt.",
+                "ro": "Planificați vizita cu puțin înainte de ora 17:00 pentru a vedea clădirea istorică în ultima lumină a zilei, înainte de lăsarea întunericului de iarnă.",
+                "en": "Plan your visit shortly before 17:00 to see the historic building in the last daylight before the winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggeli túrát a Can Bufi Xic rusztikus bájával és a Sant Feliu román kori szépségével. Délben tekerjen át a Parc de la Quitxalla parkon egy frissítő pihenőre, majd vegye az irányt a Museu de Granollers felé. A délután a lenyűgöző Ajuntamenthez és a Casa de Cultura épületéhez vezet. Zárja a napot a Roca Umbert Fàbrica de les Arts indusztriális-kreatív hangulatában.",
         "ro": "Începeți plimbarea de dimineață explorând farmecul rustic al Can Bufi Xic și frumusețea romanică a Sant Feliu. La prânz, pedalați prin Parc de la Quitxalla pentru o pauză revigorantă înainte de a ajunge la Museu de Granollers. După-amiaza vă conduce la monumentalul Ajuntament și la inspiranta Casa de Cultura. Încheiați ziua în mijlocul creativității industrial-chic de la Roca Umbert Fàbrica de les Arts.",
         "en": "Start your morning ride exploring the rustic charm of Can Bufi Xic and the Romanesque beauty of Sant Feliu. By midday, peddle through Parc de la Quitxalla for a refreshing break before heading into the city's artistic core at the Museu de Granollers. The afternoon leads you to the monumental Ajuntament and the inspiring Casa de Cultura. Finish the day amidst the industrial-chic creativity of Roca Umbert Fàbrica de les Arts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour im Regen erfordert Vorsicht auf den teils rutschigen Straßen nach Granollers. Vormittags nutzen wir Museen als trockene Etappenziele. Mittags radeln wir vorsichtig durch das Zentrum, wo wir unter Arkaden Halt machen. Nachmittags erkunden wir kulturelle Einrichtungen im Innenbereich, bevor wir abends bei eingeschaltetem Licht und voller Regenmontur die Tour sicher beenden.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a Granollers felé vezető, néhol csúszós utakon. Délelőtt a múzeumokat használjuk száraz pihenőpontként. Délben óvatosan tekerünk a központban, ahol az árkádok alatt tartunk szünetet. Délután a beltéri kulturális helyszíneket keressük fel, majd este, bekapcsolt lámpákkal és teljes esőfelszerelésben fejezzük be a kört.",
+            "ro": "Turul cu bicicleta pe ploaie necesită prudență pe drumurile parțial alunecoase spre Granollers. Dimineața folosim muzeele ca puncte de oprire uscate. La prânz pedalăm cu grijă prin centru, făcând pauze sub arcade. După-amiaza explorăm instituțiile culturale de interior, iar seara încheiem turul în siguranță, cu luminile aprinse și echipament complet de ploaie.",
+            "en": "Cycling in the rain requires caution on the sometimes slippery roads to Granollers. In the morning, we use museums as dry waypoints. At noon, we cycle carefully through the center, stopping under arcades for breaks. In the afternoon, we explore indoor cultural venues, then finish the tour safely in the evening with lights on and full rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Can Bufi Xic",
+                "hu": "Can Bufi Xic",
+                "ro": "Can Bufi Xic",
+                "en": "Can Bufi Xic"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen unter und nutzen Sie die Ruinen als Windschutz, während Sie die historische Stätte im Regen besichtigen.",
+                "hu": "Állítsa le kerékpárját a fák alá, és használja a romokat szélfogóként, miközben az esőben megtekinti a történelmi helyszínt.",
+                "ro": "Parcați bicicleta sub copaci și folosiți ruinele ca paravânt în timp ce vizitați situl istoric pe ploaie.",
+                "en": "Park your bike under the trees and use the ruins as a windbreak while viewing the historic site in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Feliu de Canovelles",
+                "hu": "Sant Feliu de Canovelles",
+                "ro": "Sant Feliu de Canovelles",
+                "en": "Sant Feliu de Canovelles"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf das nasse Kopfsteinpflaster vor der Kirche; der Eingangsbereich bietet einen trockenen Ort zum Kartenlesen.",
+                "hu": "Leszálláskor ügyeljen a templom előtti nedves macskakőre; a bejárati rész száraz helyet biztosít a térkép böngészéséhez.",
+                "ro": "Aveți grijă la coborâre la pavajul umed din fața bisericii; zona de intrare oferă un loc uscat pentru consultarea hărții.",
+                "en": "Be careful when dismounting on the wet cobblestones in front of the church; the entrance area provides a dry place to check your map."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Quitxalla",
+                "hu": "Parc de la Quitxalla",
+                "ro": "Parc de la Quitxalla",
+                "en": "Parc de la Quitxalla"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, um Spritzwasser zu vermeiden; die frische, regenreine Luft macht die Fahrt hier dennoch angenehm.",
+                "hu": "Hajtson lassan a park útjain, hogy elkerülje a felverődő vizet; a friss, eső tiszta levegő még így is kellemessé teszi itt a tekerést.",
+                "ro": "Pedalați încet pe aleile parcului pentru a evita stropirea; aerul proaspăt și curățat de ploaie face totuși călătoria plăcută aici.",
+                "en": "Ride slowly on the park paths to avoid splashing; the fresh, rain-cleansed air still makes cycling here pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Granollers",
+                "hu": "Museu de Granollers",
+                "ro": "Museu de Granollers",
+                "en": "Museu de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Die beste Station für eine längere Pause im Trockenen; nutzen Sie die Fahrradständer in der Nähe und wärmen Sie sich im Museum auf.",
+                "hu": "A legjobb állomás egy hosszabb száraz pihenőre; használja a közeli kerékpártárolókat, és melegedjen fel a múzeum belső tereiben.",
+                "ro": "Cea mai bună oprire pentru o pauză lungă la uscat; folosiți rastelele de biciclete din apropiere și încălziți-vă în interiorul muzeului.",
+                "en": "The best stop for a longer dry break; use the nearby bike racks and warm up inside the museum's galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Granollers",
+                "hu": "Ajuntament de Granollers",
+                "ro": "Ajuntament de Granollers",
+                "en": "Ajuntament de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden des Marktplatzes, um das Rathaus und die Umgebung trocken besichtigen zu können.",
+                "hu": "Parkoljon le a főtér árkádjai alatt, így szárazon tekintheti meg a városházát és a környék építészeti emlékeit.",
+                "ro": "Parcați bicicleta sub arcadele pieței centrale pentru a putea vizita primăria și împrejurimile fără a vă uda.",
+                "en": "Park your bike under the arcades of the main square so you can view the town hall and surrounding architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura Sant Francesc",
+                "hu": "Casa de Cultura Sant Francesc",
+                "ro": "Casa de Cultura Sant Francesc",
+                "en": "Casa de Cultura Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer kultureller Zwischenstopp im Trockenen; prüfen Sie Ihre Regenkleidung im Eingangsbereich, bevor Sie die Ausstellungen besuchen.",
+                "hu": "Ideális kulturális pihenőpont szárazon; ellenőrizze esőfelszerelését a bejáratnál, mielőtt megtekintené az aktuális kiállításokat.",
+                "ro": "Un punct de oprire cultural ideal la uscat; verificați-vă echipamentul de ploaie la intrare înainte de a vizita expozițiile.",
+                "en": "An ideal cultural stop in the dry; check your rain gear at the entrance before viewing the current exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Roca Umbert Fàbrica de les Arts",
+                "hu": "Roca Umbert Fàbrica de les Arts",
+                "ro": "Roca Umbert Fàbrica de les Arts",
+                "en": "Roca Umbert Fàbrica de les Arts"
+              },
+              "tip_5lang": {
+                "de": "Dieses weitläufige Industriegelände bietet viele überdachte Gänge, durch die man das Rad schieben und die Kunstwerke trocken erkunden kann.",
+                "hu": "Ez a hatalmas ipari terület sok fedett folyosót kínál, ahol tolhatja a biciklit, és szárazon fedezheti fel a művészeti alkotásokat.",
+                "ro": "Această zonă industrială vastă oferă multe pasaje acoperite unde puteți împinge bicicleta și explora operele de artă la uscat.",
+                "en": "This vast industrial site offers many covered walkways where you can push your bike and explore the artworks while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare, kalte Luft der Region Vallès Oriental. Vormittags wärmt die Bewegung auf dem Weg zu den historischen Außenposten. Mittags genießen wir die Sonne in Granollers. Nachmittags besuchen wir Museen als Wärmequellen, bevor das Tageslicht gegen 17:00 Uhr schwindet. Der Rückweg erfolgt in der Dämmerung mit warmen Handschuhen und guter Beleuchtung.",
+            "hu": "A téli biciklitúra a Vallès Oriental régió friss, hideg levegőjén át vezet. Délelőtt a mozgás tart melegen a történelmi helyszínek felé. Délben Granollers napsütötte terein pihenünk. Délután a múzeumok szolgálnak melegedőként, mielőtt a fény 17:00 körül elfogy. A visszaút szürkületben, meleg kesztyűben és jó világítással történik.",
+            "ro": "Turul cu bicicleta iarna trece prin aerul proaspăt și rece al regiunii Vallès Oriental. Dimineața, mișcarea ne ține de cald spre siturile istorice. La prânz ne bucurăm de soare în piețele din Granollers. După-amiaza, muzeele servesc ca locuri de încălzire înainte ca lumina să dispară în jurul orei 17:00. Întoarcerea se face în amurg, cu mănuși groase și iluminare bună.",
+            "en": "The winter bike tour passes through the fresh, cold air of the Vallès Oriental region. In the morning, the movement keeps us warm on the way to historic sites. At noon, we enjoy the sun in Granollers' squares. In the afternoon, museums serve as warming spots before the light fades around 17:00. The return journey is in twilight, with warm gloves and good lighting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Can Bufi Xic",
+                "hu": "Can Bufi Xic",
+                "ro": "Can Bufi Xic",
+                "en": "Can Bufi Xic"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem sonnigen Fleck, um die frostige Morgenluft bei der Besichtigung der Ruinen besser genießen zu können.",
+                "hu": "Parkoljon egy napsütötte folton, hogy jobban élvezhesse a fagyos reggeli levegőt a romok megtekintése közben.",
+                "ro": "Parcați într-un loc însorit pentru a vă bucura mai bine de aerul geros al dimineții în timp ce vizitați ruinele.",
+                "en": "Park in a sunny spot to better enjoy the frosty morning air while viewing the farmhouse ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Feliu de Canovelles",
+                "hu": "Sant Feliu de Canovelles",
+                "ro": "Sant Feliu de Canovelles",
+                "en": "Sant Feliu de Canovelles"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern der Kirche halten den eisigen Winterwind fern; nutzen Sie den Halt für eine kurze Aufwärmpause im Inneren.",
+                "hu": "A templom vastag kőfalai távol tartják a jeges téli szelet; használja ki a megállót egy rövid benti melegedésre.",
+                "ro": "Zidurile groase de piatră ale bisericii țin la distanță vântul înghețat de iarnă; profitați de oprire pentru o scurtă încălzire în interior.",
+                "en": "The church's thick stone walls keep the icy winter wind at bay; take advantage of the stop for a short warming break inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Quitxalla",
+                "hu": "Parc de la Quitxalla",
+                "ro": "Parc de la Quitxalla",
+                "en": "Parc de la Quitxalla"
+              },
+              "tip_5lang": {
+                "de": "Die klare Fernsicht im Winter ist vom Park aus besonders schön; halten Sie sich durch zügiges Treten warm, um nicht auszukühlen.",
+                "hu": "A téli tiszta kilátás a parkból különösen szép; tartsa magát melegen tempós tekeréssel, hogy ne hűljön ki a nyitott területen.",
+                "ro": "Vizibilitatea clară de iarnă din parc este deosebit de frumoasă; mențineți-vă cald pedalând susținut pentru a nu răci în zona deschisă.",
+                "en": "The clear long-distance views in winter are especially beautiful from the park; keep yourself warm by pedaling briskly to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Granollers",
+                "hu": "Museu de Granollers",
+                "ro": "Museu de Granollers",
+                "en": "Museu de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kälteste Zeit des Mittags im beheizten Innenraum, während Sie die Kunst- und Archäologieausstellungen erkunden.",
+                "hu": "Töltse itt a dél körüli leghidegebb időszakot a fűtött beltérben, miközben a művészeti és régészeti kiállításokat böngészi.",
+                "ro": "Petreceți aici cea mai rece perioadă a amiezii în interiorul încălzit, în timp ce explorați expozițiile de artă și arheologie.",
+                "en": "Spend the coldest time of midday here in the heated interior while exploring the art and archaeology exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Granollers",
+                "hu": "Ajuntament de Granollers",
+                "ro": "Ajuntament de Granollers",
+                "en": "Ajuntament de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Fahrradabstellplatz in der Sonne am Marktplatz, um die winterliche Wärme vor der Weiterfahrt noch kurz aufzusaugen.",
+                "hu": "Keressen egy napsütötte kerékpártárolót a főtéren, hogy a továbbindulás előtt még kicsit magába szívhassa a téli nap melegét.",
+                "ro": "Căutați un loc de parcare pentru biciclete la soare în piața centrală pentru a absorbi puțin din căldura iernii înainte de plecare.",
+                "en": "Find a bike rack in the sun on the main square to soak up some winter warmth before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura Sant Francesc",
+                "hu": "Casa de Cultura Sant Francesc",
+                "ro": "Casa de Cultura Sant Francesc",
+                "en": "Casa de Cultura Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kulturellen Raum für eine Pause vom Fahrtwind; die historischen Mauern bieten einen angenehm temperierten Aufenthalt.",
+                "hu": "Használja ki a kulturális teret a menetszél elleni pihenőre; a történelmi falak kellemes hőmérsékletű menedéket nyújtanak.",
+                "ro": "Folosiți spațiul cultural pentru o pauză de vântul creat de deplasare; zidurile istorice oferă un adăpost cu temperatură plăcută.",
+                "en": "Use the cultural space for a break from the headwind; the historic walls offer a pleasantly tempered stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Roca Umbert Fàbrica de les Arts",
+                "hu": "Roca Umbert Fàbrica de les Arts",
+                "ro": "Roca Umbert Fàbrica de les Arts",
+                "en": "Roca Umbert Fàbrica de les Arts"
+              },
+              "tip_5lang": {
+                "de": "Da es hier viele Innenräume gibt, ist dies der perfekte Abschluss vor 17:00 Uhr, um im Warmen Kunst zu genießen, bevor es dunkel wird.",
+                "hu": "Mivel itt sok a beltéri helyszín, ez a tökéletes befejezés 17:00 előtt, hogy melegben élvezze a művészetet a sötétség beállta előtt.",
+                "ro": "Deoarece există multe spații interioare aici, acesta este finalul perfect înainte de ora 17:00 pentru a savura arta la căldură înainte de întuneric.",
+                "en": "As there are many indoor spaces here, this is the perfect finale before 17:00 to enjoy art in the warm before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A reggeli autózás a Ca l'Estrada ősi rejtélyeivel és a Can Bufi Xic rusztikus örökségével kezdődik. Délben a Can Mònic lenyűgöző építészetében gyönyörködhet, majd a Teatre Auditori modern vonalai felé veszi az irányt. A délután lenyűgöző természetrajzi felfedezéseket tartogat a Museu de Ciències Naturals falai között. Végül zárja a napot a regionális hagyományok ünneplésével a Sardana emlékműnél.",
         "ro": "Plimbarea de dimineață începe cu misterele antice de la Ca l'Estrada și moștenirea rustică de la Can Bufi Xic. La prânz, veți admira arhitectura grandioasă a Can Mònic, trecând treptat către liniile moderne ale Teatre Auditori. După-amiaza oferă o incursiune fascinantă în natură la Museu de Ciències Naturals. În cele din urmă, încheiați ziua sărbătorind tradițiile regionale la monumentul Ciutat Pubilla de la Sardana.",
         "en": "The morning drive starts with the ancient mysteries of Ca l'Estrada and the rustic heritage of Can Bufi Xic. Midday finds you admiring the grand architecture of Can Mònic, seamlessly shifting toward the modern lines of the Teatre Auditori. The afternoon offers a fascinating dive into nature at the Museu de Ciències Naturals. Finally, wrap up the day celebrating regional traditions at the Ciutat Pubilla de la Sardana monument."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir La Barriada Nova und Granollers bequem und trocken. Vormittags steuern wir Parkplätze direkt an den Sehenswürdigkeiten an, um kurze Wege im Regen zu haben. Mittags besuchen wir Museen und Kulturzentren. Nachmittags genießen wir die Stadtlandschaft aus dem geschützten Wagen, bevor wir den Tag entspannt trotz des anhaltenden Regens beenden.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel La Barriada Novát és Granollerst. Délelőtt közvetlenül a látnivalók melletti parkolókat célozzuk meg, minimalizálva az esőben töltött időt. Délben múzeumokat látogatunk. Délután a védett utastérből csodáljuk a városi tájat, végül az eső ellenére is pihentető módon zárjuk a kulturális körutazást.",
+            "ro": "Cu mașina explorăm La Barriada Nova și Granollers confortabil și la uscat. Dimineața vizăm parcările direct lângă obiective pentru a scurta drumul prin ploaie. La prânz vizităm muzee și centre culturale. După-amiaza admirăm peisajul urban din interiorul protejat al mașinii, încheind ziua relaxat în ciuda ploii persistente.",
+            "en": "By car, we explore La Barriada Nova and Granollers comfortably and dry. In the morning, we aim for parking spots directly next to the sights to minimize time in the rain. At noon, we visit museums and cultural centers. In the afternoon, we admire the cityscape from the protected car interior, ending the day in a relaxed way despite the persistent rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment neolític de Ca l'Estrada",
+                "hu": "Jaciment neolític de Ca l'Estrada",
+                "ro": "Jaciment neolític de Ca l'Estrada",
+                "en": "Jaciment neolític de Ca l'Estrada"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um die teils überdachten Ausgrabungen ohne große Umwege im Regen erreichen zu können.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy a részben fedett ásatásokat nagy vargabetűk nélkül, szárazon érhesse el az esőben.",
+                "ro": "Parcați cât mai aproape de intrare pentru a putea ajunge la săpăturile parțial acoperite fără ocolișuri mari prin ploaie.",
+                "en": "Park as close to the entrance as possible to reach the partially covered excavations without major detours in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Bufi Xic",
+                "hu": "Can Bufi Xic",
+                "ro": "Can Bufi Xic",
+                "en": "Can Bufi Xic"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zufahrt in der Nähe der Ruinen; bei starkem Regen bietet der Wagen einen guten Beobachtungsposten für das historische Gelände.",
+                "hu": "Használja a romokhoz közeli felhajtót; heves esőzéskor az autó jó megfigyelőpontként szolgál a történelmi terület szemléléséhez.",
+                "ro": "Folosiți calea de acces de lângă ruine; în caz de ploaie torențială, mașina oferă un punct bun de observație pentru terenul istoric.",
+                "en": "Use the access road near the ruins; in heavy rain, the car provides a good vantage point for observing the historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mònic",
+                "hu": "Can Mònic",
+                "ro": "Can Mònic",
+                "en": "Can Mònic"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt vor dem Anwesen; die Architektur lässt sich auch bei Schauern durch die Scheiben gut bewundern.",
+                "hu": "Keressen parkolóhelyet közvetlenül az épület előtt; az építészet záporok idején is jól megcsodálható az autó szélvédőjén keresztül.",
+                "ro": "Căutați un loc de parcare chiar în fața proprietății; arhitectura poate fi admirată bine chiar și în timpul averselor prin geamurile mașinii.",
+                "en": "Look for a parking space directly in front of the property; the architecture can be admired well even during showers through the car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre Auditori de Granollers",
+                "hu": "Teatre Auditori de Granollers",
+                "ro": "Teatre Auditori de Granollers",
+                "en": "Teatre Auditori de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage oder nahegelegene Parkplätze, um völlig trocken in dieses beeindruckende Kulturzentrum zu gelangen.",
+                "hu": "Használja a mélygarázst vagy a közeli parkolókat, hogy teljesen szárazon juthasson be ebbe a lenyűgöző kulturális központba.",
+                "ro": "Folosiți parcarea subterană sau parcările din apropiere pentru a intra complet uscat în acest centru cultural impresionant.",
+                "en": "Use the underground parking or nearby lots to get completely dry into this impressive cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Ciències Naturals de Granollers",
+                "hu": "Museu de Ciències Naturals de Granollers",
+                "ro": "Museu de Ciències Naturals de Granollers",
+                "en": "Museu de Ciències Naturals de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragendes Ziel bei Regen; parken Sie in der Nähe und tauchen Sie stundenlang in die Welt der Naturwissenschaften im Trockenen ein.",
+                "hu": "Kiváló célpont esőben; parkoljon a közelben, és merüljön el órákra a természettudományok világában a száraz beltérben.",
+                "ro": "O destinație excelentă pe ploaie; parcați în apropiere și cufundați-vă ore în șir în lumea științelor naturale, la uscat.",
+                "en": "An excellent destination in the rain; park nearby and immerse yourself for hours in the world of natural sciences in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciutat Pubilla de la Sardana 1976",
+                "hu": "Ciutat Pubilla de la Sardana 1976",
+                "ro": "Ciutat Pubilla de la Sardana 1976",
+                "en": "Ciutat Pubilla de la Sardana 1976"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie dieses Denkmal als kurzen Stopp mit dem Auto; die umliegenden Straßen bieten meist eine gute Sicht auch ohne Aussteigen.",
+                "hu": "Tekintse meg ezt az emlékművet egy rövid autós megállóként; a környező utcákból általában kiszállás nélkül is jó rálátás nyílik rá.",
+                "ro": "Vizitați acest monument ca o scurtă oprire cu mașina; străzile din jur oferă de obicei o vedere bună chiar și fără a coborî.",
+                "en": "View this monument as a short car stop; the surrounding streets usually offer a good view even without getting out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour bietet maximale Wärme zwischen den kulturellen Stopps in Granollers. Vormittags besuchen wir historische Stätten, wenn es draußen noch am kältesten ist. Mittags nutzen wir die gute Erreichbarkeit der Museen. Nachmittags genießen wir die vorzeitige Dämmerung ab 17:00 Uhr bei einer Fahrt durch die festlich beleuchteten Straßen der Stadt.",
+            "hu": "A téli autós túra maximális meleget kínál a granollersi kulturális megállók között. Délelőtt a történelmi helyszíneket keressük fel, amikor kint még a leghidegebb van. Délben kihasználjuk a múzeumok jó megközelíthetőségét. Délután a 17:00 órától kezdődő korai szürkületet élvezzük a város ünnepi fényben úszó utcáin autózva.",
+            "ro": "Turul cu mașina iarna oferă căldură maximă între opririle culturale din Granollers. Dimineața vizităm siturile istorice când afară este cel mai frig. La prânz profităm de accesibilitatea bună a muzeelor. După-amiaza ne bucurăm de amurgul timpuriu de la ora 17:00 în timpul unei plimbări pe străzile luminate festiv.",
+            "en": "The winter car tour offers maximum warmth between cultural stops in Granollers. In the morning, we visit historic sites when it's coldest outside. At noon, we take advantage of the museums' good accessibility. In the afternoon, we enjoy the early twilight starting from 17:00 while driving through the city's festively lit streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment neolític de Ca l'Estrada",
+                "hu": "Jaciment neolític de Ca l'Estrada",
+                "ro": "Jaciment neolític de Ca l'Estrada",
+                "en": "Jaciment neolític de Ca l'Estrada"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für gute Sicht auf die prähistorischen Funde; lassen Sie die Heizung im Wagen laufen, bis Sie direkt am Eingang sind.",
+                "hu": "A tiszta téli levegő jó rálátást biztosít a prehisztorikus leletekre; hagyja járni a fűtést a kocsiban, amíg közvetlenül a bejárathoz nem ér.",
+                "ro": "Aerul clar de iarnă oferă o vedere bună asupra vestigiilor preistorice; lăsați căldura pornită în mașină până ajungeți direct la intrare.",
+                "en": "The clear winter air ensures good visibility of the prehistoric finds; keep the heater running in the car until you are right at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Bufi Xic",
+                "hu": "Can Bufi Xic",
+                "ro": "Can Bufi Xic",
+                "en": "Can Bufi Xic"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz in der Nähe ist im Winter meist frei; genießen Sie die karge Schönheit der winterlichen Landschaft rund um das Gehöft.",
+                "hu": "A közeli parkoló télen általában szabad; élvezze a tanyát körülvevő téli táj kopár szépségét a fűtött utastérből kiszállva.",
+                "ro": "Parcarea din apropiere este de obicei liberă iarna; bucurați-vă de frumusețea austeră a peisajului de iarnă din jurul fermei.",
+                "en": "The nearby parking is usually empty in winter; enjoy the stark beauty of the winter landscape around the farmhouse after stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mònic",
+                "hu": "Can Mònic",
+                "ro": "Can Mònic",
+                "en": "Can Mònic"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz im Sonnenlicht, um das historische Gebäude bei klarem Himmel und tiefstehender Wintersonne optimal zu fotografieren.",
+                "hu": "Keressen napsütötte helyet, hogy a történelmi épületet tiszta égbolt és alacsonyan járó téli nap mellett optimálisan fotózhassa.",
+                "ro": "Căutați un loc la soare pentru a fotografia optim clădirea istorică sub cerul senin și soarele jos de iarnă.",
+                "en": "Find a spot in the sunlight to optimally photograph the historic building under a clear sky and low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre Auditori de Granollers",
+                "hu": "Teatre Auditori de Granollers",
+                "ro": "Teatre Auditori de Granollers",
+                "en": "Teatre Auditori de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und genießen Sie die angenehme Wärme im Inneren dieses modernen Gebäudes bei einem kulturellen Rundgang.",
+                "hu": "Parkoljon kényelmesen a közelben, és élvezze a kellemes benti meleget ebben a modern épületben egy kulturális körséta során.",
+                "ro": "Parcați confortabil în apropiere și bucurați-vă de căldura plăcută din interiorul acestei clădiri moderne în timpul unui tur cultural.",
+                "en": "Park conveniently nearby and enjoy the pleasant warmth inside this modern building during a cultural tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Ciències Naturals de Granollers",
+                "hu": "Museu de Ciències Naturals de Granollers",
+                "ro": "Museu de Ciències Naturals de Granollers",
+                "en": "Museu de Ciències Naturals de Granollers"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte des Nachmittags im Warmen zu verbringen; das Museum bietet faszinierende Einblicke in die lokale Natur.",
+                "hu": "Ideális helyszín, hogy a délutáni hideget melegben töltse; a múzeum lenyűgöző betekintést nyújt a helyi természet világába.",
+                "ro": "Un loc ideal pentru a petrece frigul după-amiezii la căldură; muzeul oferă perspective fascinante asupra naturii locale.",
+                "en": "An ideal place to spend the afternoon chill in the warm; the museum offers fascinating insights into local nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Ciutat Pubilla de la Sardana 1976",
+                "hu": "Ciutat Pubilla de la Sardana 1976",
+                "ro": "Ciutat Pubilla de la Sardana 1976",
+                "en": "Ciutat Pubilla de la Sardana 1976"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal kurz vor Sonnenuntergang um 17:00 Uhr, wenn das winterliche Licht dem Ort eine besondere Ruhe verleiht.",
+                "hu": "Látogassa meg az emlékművet röviddel napnyugta előtt 17:00-kor, amikor a téli fények különleges nyugalmat árasztanak ezen a helyen.",
+                "ro": "Vizitați monumentul cu puțin timp înainte de apusul soarelui la ora 17:00, când lumina de iarnă oferă locului o liniște deosebită.",
+                "en": "Visit the monument shortly before sunset at 17:00 when the winter light gives the place a special tranquility."
+              }
+            }
+          ]
+        }
       }
     }
   }

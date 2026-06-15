@@ -160,6 +160,196 @@
         "hu": "A reggel a híres Kuta Beach homokján indul, ahol a friss óceáni levegő pezsdítő. A nap közepén a Mandalika Beach Club luxusa nyújt tökéletes pihenést. Délután felkapaszkodunk a Gunung Benjon kilátópontjához a káprázatos panorámáért. Az estét a Bukit Tanakbeak naplementéje után a Princess Mandalika emlékművének kulturális gazdagsága zárja.",
         "ro": "Dimineața începe la faimoasa plajă Kuta, unde aerul oceanic este revigorant. Trecem apoi la luxosul Mandalika Beach Club pentru relaxare. După-amiaza aduce o urcare ușoară pe Gunung Benjon pentru vederi panoramice ale coastei. Seara se încheie la monumentul Princess Mandalika, după un apus spectaculos privit de pe Bukit Tanakbeak.",
         "en": "Morning starts at the famous Kuta Beach, where the ocean air invigorates. We then transition to the luxurious Mandalika Beach Club for midday relaxation. Afternoon brings a gentle ascent up Gunung Benjon and Paramount Lombok for panoramic coastal views. The evening concludes with cultural richness at the Princess Mandalika monument after a sunset gaze from Bukit Tanakbeak."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einem grauen Himmel über dem Strand, während die Wellen kräftiger gegen das Ufer schlagen. Mittags suchen wir Schutz in den modernen Lounges der Beach Clubs vor dem tropischen Platzregen. Nachmittags führen rutschige Pfade zu den Aussichtspunkten, die im Nebel fast mystisch wirken. Der Abend endet bei der Mandalika-Statue, während die kühle Brise den Regen davonträgt.",
+            "hu": "A nap szürke égbolttal indul a parton, miközben a hullámok vadabbul verődnek a homokba. Délben a modern strandklubok nyújtanak biztos menedéket a hirtelen lezúduló trópusi eső elől. Délután a párás, ködbe vesző domboldalak és a csúszós ösvények tartogatnak kalandot a bátor túrázóknak. Az este a Mandalika szobornál ér minket, ahol a hűvös szél lassan elfújja a felhőket a tenger felől.",
+            "ro": "Ziua începe cu un cer gri deasupra plajei, în timp ce valurile se sparg cu putere de malul nisipos. La prânz, refugiul în cluburile moderne de pe plajă este esențial pentru a evita ploaia tropicală torențială. După-amiaza, potecile alunecoase spre dealuri oferă o perspectivă mistică prin ceața densă. Seara se încheie la statuia Mandalika, unde briza răcoroasă alungă încet norii de furtună.",
+            "en": "The day starts with a grey sky over the shore as waves crash more vigorously against the sand. At noon, modern beach clubs provide the perfect shelter from sudden tropical downpours. In the afternoon, slippery paths lead to misty viewpoints that feel almost mystical in the rain. The evening concludes at the Mandalika statue, as a cool breeze begins to sweep the remaining rain clouds away."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Plaja Kuta",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung unter einem Regenschirm und nutzen Sie die überdachten Cafés am Ufer, um trocken zu bleiben.",
+                "hu": "Figyeld a drámai hullámzást egy esernyő alól, és használd a part menti fedett kávézókat, hogy szárazon élvezhesd a tenger látványát.",
+                "ro": "Urmăriți valurile dramatice sub o umbrelă și folosiți cafenelele acoperite de pe țărm pentru a rămâne uscați în timp ce admirați marea.",
+                "en": "Watch the dramatic surf from under an umbrella and use the covered shoreline cafes to stay dry while enjoying the ocean view."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandalika Beach Club",
+                "hu": "Mandalika Beach Club",
+                "ro": "Mandalika Beach Club",
+                "en": "Mandalika Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um den starken Regen bei einem Drink im überdachten Bereich abzuwarten, während man den Pool im Blick hat.",
+                "hu": "Ez az ideális hely, hogy egy ital mellett, a fedett részen várd ki a heves esőt, miközben az esőáztatta medencét nézed.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea ploii torențiale cu o băutură în zona acoperită, admirând piscina sub ploaie.",
+                "en": "This is the ideal spot to wait out heavy rain with a drink in the covered area while watching the rain-soaked pool scene."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Benjon",
+                "hu": "Gunung Benjon",
+                "ro": "Gunung Benjon",
+                "en": "Gunung Benjon"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den schlammigen Wegen zum Gipfel; feste Wanderschuhe sind bei Regen für den nötigen Halt unerlässlich.",
+                "hu": "Légy óvatos a csúcsra vezető saras ösvényeken; a tapadós talpú túracipő elengedhetetlen a biztonságos kapaszkodáshoz esőben.",
+                "ro": "Fiți atenți pe potecile noroioase spre vârf; încălțămintea de trekking cu aderență bună este esențială pentru siguranță pe ploaie.",
+                "en": "Be careful on the muddy trails to the summit; hiking shoes with good grip are essential for safe climbing during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Paramount Lombok",
+                "hu": "Paramount Lombok",
+                "ro": "Paramount Lombok",
+                "en": "Paramount Lombok"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hotellobby oder das Restaurant als komfortablen Rückzugsort, wenn der Regen am Nachmittag wieder stärker wird.",
+                "hu": "Használd a hotel lobbiját vagy éttermét kényelmes pihenőhelyként, ha a délutáni eső intenzívebbé válna a séta közben.",
+                "ro": "Folosiți lobby-ul sau restaurantul hotelului ca un refugiu confortabil dacă ploaia de după-amiază devine mai intensă în timpul plimbării.",
+                "en": "Use the hotel lobby or restaurant as a comfortable sanctuary if the afternoon rain intensifies during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Tanakbeak",
+                "hu": "Bukit Tanakbeak",
+                "ro": "Bukit Tanakbeak",
+                "en": "Bukit Tanakbeak"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nebelverhangene Küste, aber bleiben Sie wegen der Rutschgefahr an den Kanten auf den markierten Pfaden.",
+                "hu": "Élvezd a ködös partvonal látványát, de a csúszásveszély miatt maradj a kijelölt ösvényeken, távol a meredek szélektől.",
+                "ro": "Bucurați-vă de vederea coastei cețoase, dar din cauza riscului de alunecare, rămâneți pe potecile marcate, departe de margini.",
+                "en": "Enjoy the misty coastline views, but stay on the marked paths away from the edges due to the high risk of slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Princess Mandalika",
+                "hu": "Princess Mandalika",
+                "ro": "Prințesa Mandalika",
+                "en": "Princess Mandalika"
+              },
+              "tip_5lang": {
+                "de": "Die Statue wirkt im Regen sehr stimmungsvoll; ein schneller Besuch für Fotos ist perfekt, bevor man sich ins Trockene rettet.",
+                "hu": "A szobor nagyon hangulatos az esőben; egy gyors fotózás után érdemes fedett helyre húzódni a közeli épületek egyikébe.",
+                "ro": "Statuia este foarte atmosferică în ploaie; o sesiune rapidă de fotografii este perfectă înainte de a vă retrage la adăpost.",
+                "en": "The statue is very atmospheric in the rain; a quick photo session is perfect before retreating to nearby indoor shelters."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen lädt zu einem langen Strandspaziergang ein, bevor die Sonne ihre volle Kraft entfaltet. Mittags genießen wir die frische Brise im Beach Club, während wir die Surfer beobachten. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir den frühen Nachmittag für Wanderungen auf die umliegenden Hügel. Der Abend wird in den gemütlichen, windgeschützten Lokalen verbracht.",
+            "hu": "A hűvösebb reggel hosszú parti sétára csábít, mielőtt a nap ereje teljébe érne. Délben a strandklub friss szellőjét élvezzük, miközben a távoli szörfösöket figyeljük a hullámokon. Mivel a nap már 17:00 körül lenyugszik, a korai délutánt használjuk ki a dombi túrákra. Az estét a városka szélvédett, hangulatos éttermeiben töltjük el meleg ételek társaságában.",
+            "ro": "Dimineața răcoroasă invită la o plimbare lungă pe plajă înainte ca soarele să atingă puterea maximă. La prânz, ne bucurăm de briza proaspătă la clubul de plajă, observând surferii. Deoarece soarele apune deja în jur de ora 17:00, profităm de după-amiaza devreme pentru drumeții pe dealuri. Seara este petrecută în localurile primitoare și ferite de vântul de seară.",
+            "en": "The cool morning invites a long beach walk before the sun reaches its full strength. At noon, we enjoy the fresh breeze at the beach club while watching surfers on the horizon. Since the sun sets around 17:00, we use the early afternoon for hill hikes to catch the light. The evening is spent in cozy, wind-sheltered local spots with warm meals."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Plaja Kuta",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehmen Morgentemperaturen für einen ausgiebigen Spaziergang, solange die Hitze noch nicht eingesetzt hat.",
+                "hu": "Használd ki a kellemes reggeli hőmérsékletet egy kiadós sétára a homokban, amíg még nem tűz erősen a nap.",
+                "ro": "Profitați de temperaturile plăcute de dimineață pentru o plimbare lungă pe nisip, înainte ca soarele să devină prea puternic.",
+                "en": "Take advantage of the pleasant morning temperatures for a long walk on the sand before the midday sun gets too strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandalika Beach Club",
+                "hu": "Mandalika Beach Club",
+                "ro": "Mandalika Beach Club",
+                "en": "Mandalika Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie einen sonnigen Platz am Pool, um die milde Wintersonne und die kühle Meeresbrise gleichzeitig zu genießen.",
+                "hu": "Válassz egy napsütötte helyet a medence mellett, hogy egyszerre élvezhesd az enyhe téli napsütést és a hűvös tengeri szellőt.",
+                "ro": "Alegeți un loc însorit lângă piscină pentru a vă bucura de soarele blând de iarnă și de briza răcoroasă a mării simultan.",
+                "en": "Choose a sunny spot by the pool to enjoy the mild winter sunshine and the cool sea breeze at the same time."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Benjon",
+                "hu": "Gunung Benjon",
+                "ro": "Gunung Benjon",
+                "en": "Gunung Benjon"
+              },
+              "tip_5lang": {
+                "de": "Ein Aufstieg zur Mittagszeit ist jetzt viel angenehmer als im Sommer; bringen Sie dennoch Wasser und Sonnenschutz mit.",
+                "hu": "A déli órákban történő megmászás most sokkal kellemesebb, mint nyáron; azért vizet és naptejet mindenképpen vigyél magaddal.",
+                "ro": "Urcarea la prânz este mult mai plăcută acum decât vara; totuși, nu uitați să aveți la voi apă și protecție solară.",
+                "en": "Climbing at noon is much more pleasant now than in summer; still, be sure to bring water and sunscreen with you."
+              }
+            },
+            {
+              "name": {
+                "de": "Paramount Lombok",
+                "hu": "Paramount Lombok",
+                "ro": "Paramount Lombok",
+                "en": "Paramount Lombok"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten des Resorts bieten in der Nachmittagssonne herrliche Fotomotive mit klarem, winterlichem Licht.",
+                "hu": "A resort kertjei a délutáni napsütésben gyönyörű fotótémákat kínálnak a tiszta, téli fényeknek köszönhetően.",
+                "ro": "Grădinile complexului oferă oportunități foto superbe în lumina după-amiezii, datorită clarității specifice iernii.",
+                "en": "The resort gardens offer beautiful photo opportunities in the afternoon sun, thanks to the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Tanakbeak",
+                "hu": "Bukit Tanakbeak",
+                "ro": "Bukit Tanakbeak",
+                "en": "Bukit Tanakbeak"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Hügel vor 16:30 Uhr, um das goldene Licht kurz vor dem frühen Sonnenuntergang über der Bucht einzufangen.",
+                "hu": "Érj fel a dombra 16:30 előtt, hogy elcsíphesd az aranyórá fényét a korai naplemente előtt az öböl felett.",
+                "ro": "Ajungeți pe deal înainte de 16:30 pentru a surprinde lumina aurie înainte de apusul devreme deasupra golfului.",
+                "en": "Reach the hill before 16:30 to catch the golden hour light before the early sunset over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Princess Mandalika",
+                "hu": "Princess Mandalika",
+                "ro": "Prințesa Mandalika",
+                "en": "Princess Mandalika"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie eine leichte Jacke mit, da es nach dem frühen Sonnenuntergang an der Statue schnell kühl und windig werden kann.",
+                "hu": "Vigyél magaddal egy könnyű dzsekit, mert a korai naplemente után a szobornál gyorsan lehűlhet a levegő és feltámadhat a szél.",
+                "ro": "Luați o jachetă ușoară, deoarece după apusul devreme, la statuie se poate răci rapid și vântul se poate intensifica.",
+                "en": "Take a light jacket with you, as it can get chilly and windy quickly at the statue after the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Utunkat a Gunung Dundangnál kezdjük, elcsípve a kora reggeli napsugarakat a dombokon. Kelet felé tekerve a Kuta Beach kínál vibráló délelőtti felfrissülést. A délután a strandklub és a dombvidéki kilátópontok harmonikus keveréke. Végül eltekerünk a Novotel mellett, és a Princess Mandalika legendájának felfedezésével zárjuk a napot.",
         "ro": "Începem traseul la Gunung Dundang, prinzând primele raze de soare peste dealuri. Pedalând spre est, plaja Kuta oferă o evadare vibrantă dimineața. După-amiaza îmbină relaxarea la Mandalika Beach Club cu priveliștile de la Gunung Benjon. În final, trecem pe lângă Novotel și ne încheiem ziua explorând legenda Prințesei Mandalika.",
         "en": "We kick off our ride at Gunung Dundang, catching early sunrays over the hills. Pedaling east, Kuta Beach offers a vibrant mid-morning coastal escape. The afternoon is a mix of leisure at Mandalika Beach Club and scenic stops at Gunung Benjon and Bukit Tanakbeak. Finally, we cycle past Novotel to end our journey delving into the Princess Mandalika legend."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert heute volle Konzentration auf den teils rutschigen Straßen. Morgens erkunden wir die Hügel unter tiefen Wolken, bevor die großen Schauer einsetzen. Mittags finden wir in den überdachten Bereichen der Strandlokale Unterschlupf. Nachmittags radeln wir vorsichtig durch Pfützen zurück, während der warme Regen die staubige Luft reinigt.",
+            "hu": "Az esőben való biciklizés ma teljes koncentrációt igényel a helyenként csúszós utakon. Reggel a dombokat fedezzük fel a mély felhők alatt, mielőtt a nagy záporok megérkeznének. Délben a strandmenti helyek fedett teraszain találunk menedéket. Délután óvatosan, a tócsákat kerülgetve tekerünk vissza, miközben a meleg eső lemossa az út porát.",
+            "ro": "Ciclismul pe ploaie necesită astăzi concentrare maximă pe drumurile parțial alunecoase. Dimineața explorăm dealurile sub nori joși, înainte de așezarea ploilor mari. La prânz găsim adăpost pe terasele acoperite ale localurilor de pe plajă. După-amiaza pedalăm cu grijă printre bălți, în timp ce ploaia caldă curăță praful de pe drum.",
+            "en": "Cycling in the rain today requires full concentration on the sometimes slippery roads. In the morning, we explore the hills under low clouds before the heavy downpours arrive. At noon, we find shelter on the covered terraces of beachside spots. In the afternoon, we cycle back cautiously through puddles, as the warm rain washes away the dust of the road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gunung Dundang",
+                "hu": "Gunung Dundang",
+                "ro": "Gunung Dundang",
+                "en": "Gunung Dundang"
+              },
+              "tip_5lang": {
+                "de": "Die schlammigen Wege erfordern ein Mountainbike mit gutem Profil; fahren Sie bergab besonders vorsichtig bei Nässe.",
+                "hu": "A saras utak jó profilú hegyi kerékpárt igényelnek; lefelé menet különösen óvatosan fékezz a vizes talajon.",
+                "ro": "Drumurile noroioase necesită o bicicletă de munte cu profil bun; mergeți cu mare grijă la vale pe teren umed.",
+                "en": "Muddy paths require a mountain bike with good tread; be especially careful with braking when going downhill on wet soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Plaja Kuta",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vordach ab und genießen Sie den Anblick des grauen Meeres aus einem der trockenen Warungs.",
+                "hu": "Parkold le a bringát egy előtető alá, és élvezd a szürke tenger látványát az egyik száraz warung oltalmából.",
+                "ro": "Parcați bicicleta sub o copertină și bucurați-vă de vederea mării gri din adăpostul unuia dintre warung-urile uscate.",
+                "en": "Park your bike under a canopy and enjoy the sight of the grey sea from the shelter of one of the dry local warungs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandalika Beach Club",
+                "hu": "Mandalika Beach Club",
+                "ro": "Mandalika Beach Club",
+                "en": "Mandalika Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradparkplatz und trocknen Sie sich bei einem heißen Tee ab, während es draußen stürmt.",
+                "hu": "Használd a fedett bicikliparkolót, és szárítkozz meg egy forró tea mellett, miközben odakint tombol a trópusi vihar.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete și uscați-vă cu un ceai fierbinte în timp ce afară este furtună tropicală.",
+                "en": "Use the covered bike parking and dry off with a hot tea while a tropical storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Benjon",
+                "hu": "Gunung Benjon",
+                "ro": "Gunung Benjon",
+                "en": "Gunung Benjon"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad am Fuß des Hügels und steigen Sie zu Fuß auf, da der Pfad für Fahrräder bei Regen zu gefährlich ist.",
+                "hu": "Hagyd a bringát a domb alján, és gyalog menj fel, mert az ösvény kerékpárral túl veszélyes és csúszós ilyenkor.",
+                "ro": "Lăsați bicicleta la baza dealului și urcați pe jos, deoarece poteca este prea periculoasă și alunecoasă pentru bicicletă.",
+                "en": "Leave the bike at the bottom of the hill and hike up on foot, as the path is too dangerous and slippery for cycling now."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Tanakbeak",
+                "hu": "Bukit Tanakbeak",
+                "ro": "Bukit Tanakbeak",
+                "en": "Bukit Tanakbeak"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die stürmische Küste ist grandios; tragen Sie eine Regenjacke, um auf dem exponierten Gipfel nicht auszukühlen.",
+                "hu": "A viharos part látványa lenyűgöző; viselj esőkabátot, hogy ne fázz meg a szeles és kitett dombtetőn.",
+                "ro": "Vederea coastei furtunoase este impresionantă; purtați o pelerină de ploaie pentru a nu răci pe vârful dealului expus vântului.",
+                "en": "The view of the stormy coast is stunning; wear a raincoat to avoid catching a cold on the windy and exposed hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Novotel Kuta",
+                "hu": "Novotel Kuta",
+                "ro": "Novotel Kuta",
+                "en": "Novotel Kuta"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp für eine längere Pause; hier gibt es sichere Unterstellmöglichkeiten für Räder und erstklassigen Service.",
+                "hu": "Tökéletes megálló egy hosszabb pihenőre; itt biztonságos fedett tárolót találsz a bringának és kiváló a kiszolgálás.",
+                "ro": "O oprire perfectă pentru o pauză mai lungă; aici veți găsi parcare acoperită sigură pentru bicicletă și servicii excelente.",
+                "en": "A perfect stop for a longer break; here you will find safe covered storage for your bike and excellent service."
+              }
+            },
+            {
+              "name": {
+                "de": "Princess Mandalika",
+                "hu": "Princess Mandalika",
+                "ro": "Prințesa Mandalika",
+                "en": "Princess Mandalika"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Sichtverhältnisse bei Regen schlechter werden; Licht am Fahrrad ist jetzt Pflicht.",
+                "hu": "Fejezd be a túrát időben, mert az esőben romlanak a látási viszonyok; a lámpa használata most kötelező a bringán.",
+                "ro": "Încheiați turul la timp, deoarece vizibilitatea scade pe ploaie; utilizarea luminilor la bicicletă este obligatorie acum.",
+                "en": "Finish the tour in good time as visibility decreases in the rain; using lights on your bike is mandatory now."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterbrise macht das Radfahren heute besonders angenehm. Morgens erklimmen wir die Hügel ohne die übliche Hitze. Mittags entspannen wir im Schatten der Palmen am Beach Club. Da es bereits früh dunkel wird, planen wir die Rückkehr für 17:00 Uhr ein, um den Sonnenuntergang sicher vom Ziel aus zu beobachten. Der Abend klingt bei milden Temperaturen aus.",
+            "hu": "A hűvös téli szellő ma különösen kellemessé teszi a biciklizést. Reggel a szokásos hőség nélkül másszuk meg a dombokat. Délben a pálmák árnyékában pihenünk a strandklubnál. Mivel korán sötétedik, a visszautat 17:00-ra tervezzük, hogy a naplementét már biztonságban a célból nézhessük. Az este enyhe hőmérséklet mellett ér véget.",
+            "ro": "Briza răcoroasă de iarnă face ciclismul de astăzi deosebit de plăcut. Dimineața urcăm dealurile fără căldura obișnuită. La prânz ne relaxăm la umbra palmierilor de la clubul de plajă. Deoarece se întunecă devreme, planificăm întoarcerea pentru ora 17:00, pentru a vedea apusul în siguranță de la destinație. Seara se încheie cu temperaturi blânde.",
+            "en": "The cool winter breeze makes cycling today particularly enjoyable. In the morning, we climb the hills without the usual sweltering heat. At noon, we relax in the palm shade at the beach club. Since it gets dark early, we plan our return for 17:00 to watch the sunset safely from our destination. The evening winds down with mild temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gunung Dundang",
+                "hu": "Gunung Dundang",
+                "ro": "Gunung Dundang",
+                "en": "Gunung Dundang"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine weite Fernsicht; ein idealer Zeitpunkt für Panoramafotos von der gesamten Küstenlinie.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít; ideális időpont panorámafotók készítésére az egész partvonalról.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate la distanță; un moment ideal pentru fotografii panoramice ale întregii linii de coastă.",
+                "en": "The clear winter air provides long-distance views; an ideal time for panoramic photos of the entire coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Plaja Kuta",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt auf dem festen Sand am Wasserrand, wo der Wind heute für eine willkommene Abkühlung sorgt.",
+                "hu": "Élvezd a bringázást a kemény homokon a vízparton, ahol a szél ma kellemes felfrissülést nyújt a tekerés közben.",
+                "ro": "Bucurați-vă de plimbarea pe nisipul tare de la marginea apei, unde vântul oferă astăzi o răcorire binevenită în timpul pedalatului.",
+                "en": "Enjoy cycling on the firm sand at the water's edge, where the wind provides a welcome refreshment during the ride today."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandalika Beach Club",
+                "hu": "Mandalika Beach Club",
+                "ro": "Mandalika Beach Club",
+                "en": "Mandalika Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Ein sonniges Plätzchen ist jetzt perfekt, um nach der Fahrt nicht zu schnell auszukühlen, während man den Pool genießt.",
+                "hu": "Egy napsütötte hely most tökéletes, hogy a tekerés után ne hűlj le túl gyorsan, miközben a medencét élvezed.",
+                "ro": "Un loc însorit este acum perfect pentru a nu vă răci prea repede după efort, în timp ce vă bucurați de piscină.",
+                "en": "A sunny spot is perfect now to prevent cooling down too quickly after the ride while enjoying the pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Benjon",
+                "hu": "Gunung Benjon",
+                "ro": "Gunung Benjon",
+                "en": "Gunung Benjon"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei den milden Temperaturen weniger anstrengend; nehmen Sie dennoch einen Snack für die Gipfelpause mit.",
+                "hu": "A kapaszkodás az enyhe hőmérsékletben kevésbé fárasztó; azért vigyél magaddal egy kis snacket a csúcson tartott pihenőhöz.",
+                "ro": "Urcarea este mai puțin obositoare la temperaturile blânde; totuși, luați o gustare pentru pauza de pe vârf.",
+                "en": "The climb is less exhausting in the mild temperatures; still, take a small snack for your break at the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Tanakbeak",
+                "hu": "Bukit Tanakbeak",
+                "ro": "Bukit Tanakbeak",
+                "en": "Bukit Tanakbeak"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp für den frühen Nachmittag ein, um das beste Licht für Ihre Landschaftsaufnahmen zu haben.",
+                "hu": "Tervezd ezt a megállót a kora délutáni órákra, hogy a legjobb fényeket kapd el a tájfotóidhoz.",
+                "ro": "Planificați această oprire pentru orele devreme ale după-amiezii pentru a avea cea mai bună lumină pentru fotografiile de peisaj.",
+                "en": "Plan this stop for the early afternoon hours to get the best light for your landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Novotel Kuta",
+                "hu": "Novotel Kuta",
+                "ro": "Novotel Kuta",
+                "en": "Novotel Kuta"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten bieten wunderbaren Windschutz; perfekt für einen entspannten Kaffee vor der letzten Etappe der Tour.",
+                "hu": "A kertek kiváló szélvédelmet nyújtanak; tökéletes helyszín egy pihentető kávéhoz a túra utolsó szakasza előtt.",
+                "ro": "Grădinile oferă o protecție excelentă împotriva vântului; locul perfect pentru o cafea relaxantă înainte de ultima etapă.",
+                "en": "The gardens provide excellent wind protection; a perfect spot for a relaxing coffee before the final leg of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Princess Mandalika",
+                "hu": "Princess Mandalika",
+                "ro": "Prințesa Mandalika",
+                "en": "Princess Mandalika"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, sollten Sie die Rückfahrt so planen, dass Sie noch vor der Dunkelheit sicher zu Hause ankommen.",
+                "hu": "Mivel a nap korán nyugszik, úgy tervezd a visszautat, hogy még sötétedés előtt biztonságban hazaérj.",
+                "ro": "Deoarece soarele apune devreme, planificați drumul de întoarcere astfel încât să ajungeți acasă în siguranță înainte de întuneric.",
+                "en": "As the sun sets early, plan your return trip so that you arrive home safely before total darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A vadabb nyugati részre autózva a Gunung Terangga drámai reggeli látványt nyújt. Ezután felfedezzük a Sumur barlang és a misztikus denevérbarlang titkait. Keletre visszatérve a déli hőséget a Kuta Beach pezsgő partján vészeljük át. A Gunung Benjon magaslatait követően az estét a Novotel eleganciája és a Princess Mandalika emlékműve koronázza meg.",
         "ro": "Conducând spre vestul sălbatic, Gunung Terangga oferă un peisaj matinal dramatic. Explorăm apoi secretele Peșterii Sumur și Peșterii Liliecilor. Întorcându-ne în est, căldura amiezii este petrecută relaxant la Kuta Beach. Înălțimile de la Gunung Benjon fac loc unei seri elegante în jurul Novotel și a sitului Princess Mandalika.",
         "en": "Driving out to the wilder west, Gunung Terangga provides dramatic morning scenery. Next, we explore the deep secrets of Sumur Cave and the Mystical Bat Cave. Returning east, the midday heat is spent unwinding at Kuta Beach's lively shores. Afternoon heights at Gunung Benjon give way to an elegant evening around Novotel and the revered Princess Mandalika site."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute die beste Wahl, um trocken zwischen den Sehenswürdigkeiten zu pendeln. Morgens erkunden wir die Höhlen, die bei Regen besonders mystisch wirken. Mittags parken wir direkt am Strand und genießen die Aussicht aus dem warmen Inneren. Nachmittags fahren wir zu den Aussichtspunkten, während die Scheibenwischer den Takt vorgeben. Der Abend endet entspannt im Hotel.",
+            "hu": "Az autó ma a legjobb választás, hogy szárazon ingázzunk a látnivalók között. Reggel a barlangokat fedezzük fel, amik esőben különösen misztikusnak hatnak. Délben közvetlenül a parton parkolunk le, és a kocsi melegéből élvezzük a kilátást. Délután a kilátópontokhoz autózunk, miközben az ablaktörlők adják az ütemet. Az este nyugodtan, a szálláson ér véget.",
+            "ro": "Mașina este astăzi cea mai bună alegere pentru a naviga între atracții rămânând uscați. Dimineața explorăm peșterile, care par deosebit de mistice pe ploaie. La prânz parcăm direct pe plajă și admirăm vederea din interiorul cald. După-amiaza conducem spre punctele de belvedere, în timp ce ștergătoarele dau ritmul. Seara se încheie relaxat la unitatea de cazare.",
+            "en": "The car is the best choice today to commute between sights while staying dry. In the morning, we explore the caves, which feel particularly mystical in the rain. At noon, we park directly by the beach and enjoy the view from the warm interior. In the afternoon, we drive to the viewpoints while the wipers set the pace. The evening ends peacefully at the accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gunung Terangga",
+                "hu": "Gunung Terangga",
+                "ro": "Gunung Terangga",
+                "en": "Gunung Terangga"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Auto heraus, da der Aufstieg zu Fuß bei diesem Regen extrem rutschig und gefährlich wäre.",
+                "hu": "Élvezd a panorámát az autóból, mivel a gyalogos feljutás ebben az esőben rendkívül csúszós és veszélyes lenne.",
+                "ro": "Bucurați-vă de panoramă din mașină, deoarece urcarea pe jos în această ploaie ar fi extrem de alunecoasă și periculoasă.",
+                "en": "Enjoy the panorama from the car, as climbing on foot in this rain would be extremely slippery and dangerous."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumur Cave",
+                "hu": "Sumur barlang",
+                "ro": "Peștera Sumur",
+                "en": "Sumur Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet perfekten Schutz vor dem Regen; achten Sie aber auf herabtropfendes Wasser und rutschige Steine im Inneren.",
+                "hu": "A barlang tökéletes védelmet nyújt az eső elől; de figyelj a bent lecsöpögő vízre és a csúszós kövekre a mélyben.",
+                "ro": "Peștera oferă protecție perfectă împotriva ploii; totuși, atenție la apa care picură și la pietrele alunecoase din interior.",
+                "en": "The cave provides perfect shelter from the rain; however, watch out for dripping water and slippery rocks inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystical neverland Bat cave",
+                "hu": "Mystical neverland Bat cave",
+                "ro": "Peștera Mistică a Liliecilor",
+                "en": "Mystical neverland Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp an einem Regentag; die Höhlenatmosphäre ist bei schlechtem Wetter draußen noch einmal intensiver.",
+                "hu": "Ideális megálló egy esős napon; a barlang hangulata a kinti rossz időben még intenzívebbé válik a látogatók számára.",
+                "ro": "O oprire ideală într-o zi ploioasă; atmosfera peșterii devine și mai intensă când vremea de afară este nefavorabilă.",
+                "en": "An ideal stop on a rainy day; the cave's atmosphere becomes even more intense when the weather outside is poor."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Plaja Kuta",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den strandnahen Parkplatz, um das tosende Meer trocken zu beobachten, oder flüchten Sie in ein nahes Restaurant.",
+                "hu": "Használd a parthoz közeli parkolót, hogy szárazon figyeld a háborgó tengert, vagy fuss be egy közeli étterembe.",
+                "ro": "Folosiți parcarea de lângă plajă pentru a observa marea agitată rămânând uscați sau fugiți într-un restaurant din apropiere.",
+                "en": "Use the parking near the beach to watch the roaring sea while staying dry, or dash into a nearby restaurant."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Benjon",
+                "hu": "Gunung Benjon",
+                "ro": "Gunung Benjon",
+                "en": "Gunung Benjon"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen, da der Regen kleine Sturzbäche auf der Straße bilden kann.",
+                "hu": "Vezess óvatosan a keskeny bekötőutakon, mert az eső kis patakokat és vízátfolyásokat alakíthat ki az aszfalton.",
+                "ro": "Conduceți cu atenție pe drumurile înguste de acces, deoarece ploaia poate forma mici pâraie și acumulări de apă pe carosabil.",
+                "en": "Drive carefully on the narrow access roads, as the rain can create small streams and water flows on the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Novotel Kuta",
+                "hu": "Novotel Kuta",
+                "ro": "Novotel Kuta",
+                "en": "Novotel Kuta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Einlass des Hotels, um direkt vom Auto ins Trockene zu gelangen und den Service zu genießen.",
+                "hu": "Használd a hotel fedett kocsifelhajtóját, hogy közvetlenül az autóból száraz lábbal juss be és élvezd a kiszolgálást.",
+                "ro": "Folosiți intrarea acoperită a hotelului pentru a ajunge direct din mașină la adăpost și a vă bucura de servicii.",
+                "en": "Use the hotel's covered driveway to get directly from the car to the dry interior and enjoy the service."
+              }
+            },
+            {
+              "name": {
+                "de": "Princess Mandalika",
+                "hu": "Princess Mandalika",
+                "ro": "Prințesa Mandalika",
+                "en": "Princess Mandalika"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein schnelles Foto an der Statue und kehren Sie dann ins komfortable Auto zurück, bevor die nächste Schauerfront eintrifft.",
+                "hu": "Állj meg egy gyors fotóra a szobornál, majd térj vissza a kényelmes autóba, mielőtt megérkezik a következő esőfelhő.",
+                "ro": "Opriți pentru o fotografie rapidă la statuie, apoi reveniți în mașina confortabilă înainte de sosirea următorului front de ploaie.",
+                "en": "Stop for a quick photo at the statue, then return to the comfortable car before the next rain front arrives."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Roadtrip im Winter bietet die perfekte Mischung aus Komfort und Sightseeing. Morgens erkunden wir die abgelegenen Aussichtspunkte bei klarer, kühler Luft. Mittags genießen wir die Sonne am Strand, während die Klimaanlage im Auto für angenehme Frische sorgt. Da es bereits gegen 17:00 Uhr dunkelt, nutzen wir die goldenen Stunden für die schönsten Küstenabschnitte.",
+            "hu": "Egy téli roadtrip a kényelem és a városnézés tökéletes keverékét kínálja. Reggel a távoli kilátópontokat fedezzük fel a tiszta, hűvös levegőben. Délben a parton élvezzük a napsütést, miközben az autó klímája kellemes frissességet ad. Mivel már 17:00 körül sötétedik, az aranyórát a legszebb partszakaszokon használjuk ki.",
+            "ro": "O excursie cu mașina iarna oferă amestecul perfect între confort și vizitarea obiectivelor. Dimineața explorăm punctele de belvedere izolate în aerul curat și răcoros. La prânz ne bucurăm de soare pe plajă, în timp ce aerul condiționat oferă prospețime. Deoarece se întunecă în jur de ora 17:00, profităm de ora de aur pe cele mai frumoase porțiuni de coastă.",
+            "en": "A winter road trip offers the perfect blend of comfort and sightseeing. In the morning, we explore remote viewpoints in the clear, cool air. At noon, we enjoy the sun on the beach while the car's AC provides a pleasant freshness. Since it gets dark around 17:00, we make the most of the golden hour along the most beautiful stretches of the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gunung Terangga",
+                "hu": "Gunung Terangga",
+                "ro": "Gunung Terangga",
+                "en": "Gunung Terangga"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht im Winter macht den Blick von hier oben besonders weit; perfekt für die erste Etappe des Tages im Auto.",
+                "hu": "A tiszta téli látási viszonyok miatt innen különösen messzire ellátni; tökéletes helyszín a nap első autós szakaszához.",
+                "ro": "Vizibilitatea clară de iarnă face ca vederea de aici să fie deosebit de vastă; perfect pentru prima etapă a zilei cu mașina.",
+                "en": "The clear winter visibility makes the view from up here particularly extensive; perfect for the first car leg of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumur Cave",
+                "hu": "Sumur barlang",
+                "ro": "Peștera Sumur",
+                "en": "Sumur Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlentemperaturen sind im Winter sehr angenehm; ein kurzer Spaziergang vom Parkplatz aus lohnt sich definitiv.",
+                "hu": "A barlang belső hőmérséklete télen nagyon kellemes; egy rövid séta a parkolótól mindenképpen megéri a látványért.",
+                "ro": "Temperaturile din peșteră sunt foarte plăcute iarna; o scurtă plimbare de la parcare merită cu siguranță pentru priveliște.",
+                "en": "Cave temperatures are very pleasant in winter; a short walk from the parking area is definitely worth it for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Mystical neverland Bat cave",
+                "hu": "Mystical neverland Bat cave",
+                "ro": "Peștera Mistică a Liliecilor",
+                "en": "Mystical neverland Bat cave"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Außenluft macht den Aufenthalt in der feuchten Höhle erfrischend; ein Muss für jeden Winter-Roadtrip.",
+                "hu": "A hűvös kinti levegő felfrissíti a párás barlangban tartózkodást; minden téli roadtrip elengedhetetlen állomása.",
+                "ro": "Aerul răcoros de afară face șederea în peștera umedă revigorantă; o oprire obligatorie pentru orice roadtrip de iarnă.",
+                "en": "The cool outside air makes staying in the humid cave refreshing; an essential stop for any winter road trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Plaja Kuta",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten und genießen Sie ein Picknick am Strand, solange die milde Wintersonne noch scheint.",
+                "hu": "Parkolj le az árnyékban, és élvezd a tengerparti pikniket, amíg az enyhe téli napsütés még melegen ragyog.",
+                "ro": "Parcați la umbră și bucurați-vă de un picnic pe plajă, cât timp soarele blând de iarnă încă strălucește cu putere.",
+                "en": "Park in the shade and enjoy a beach picnic while the mild winter sun is still shining brightly overhead."
+              }
+            },
+            {
+              "name": {
+                "de": "Gunung Benjon",
+                "hu": "Gunung Benjon",
+                "ro": "Gunung Benjon",
+                "en": "Gunung Benjon"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet fantastische Ausblicke; nutzen Sie die Parkbuchten für kurze Fotostopps im besten Winterlicht.",
+                "hu": "A felvezető út fantasztikus kilátást kínál; használd a parkolóhelyeket rövid fotómegállókhoz a legjobb téli fényekben.",
+                "ro": "Drumul de urcare oferă vederi fantastice; folosiți spațiile de parcare pentru scurte opriri foto în cea mai bună lumină de iarnă.",
+                "en": "The drive up offers fantastic views; use the parking laybys for short photo stops in the best winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Novotel Kuta",
+                "hu": "Novotel Kuta",
+                "ro": "Novotel Kuta",
+                "en": "Novotel Kuta"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine späte Mittagspause; genießen Sie den Luxus und die windgeschützte Poollandschaft des Resorts.",
+                "hu": "Ideális helyszín egy késői ebédhez; élvezd a luxust és a resort szélvédett medencevilágát a pihenő alatt.",
+                "ro": "Un loc ideal pentru un prânz târziu; bucurați-vă de lux și de zona piscinei protejată de vânt a complexului.",
+                "en": "An ideal spot for a late lunch; enjoy the luxury and the resort's wind-sheltered pool area during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Princess Mandalika",
+                "hu": "Princess Mandalika",
+                "ro": "Prințesa Mandalika",
+                "en": "Princess Mandalika"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt von der Statue aus, bevor Sie die Heimfahrt im Auto antreten.",
+                "hu": "Nézd meg a korai naplementét 17:00 körül közvetlenül a szobortól, mielőtt visszaindulnál a kényelmes autóval.",
+                "ro": "Urmăriți apusul devreme în jur de ora 17:00 direct de la statuie, înainte de a pleca spre casă cu mașina.",
+                "en": "Watch the early sunset around 17:00 directly from the statue before heading back in the comfortable car."
+              }
+            }
+          ]
+        }
       }
     }
   }

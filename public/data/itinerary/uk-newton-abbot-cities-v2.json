@@ -137,6 +137,168 @@
         "hu": "Gyalogos utunkat Newton Abbot szívében kezdjük, az ikonikus St Leonard's Towernél köszöntve a reggelt. Ez a középkori túlélő gyönyörűen megadja a nap történelmi alaphangját. Csak egy rövid sétára innen az elegáns Passmore Edwards Közkönyvtár kínál egy pillanatnyi viktoriánus építészeti pompát.\n\nA dél közeledtével elsétálunk a kulturálisan pezsgő Alexandra Színház mellett. Eredetileg fontos gabonatőzsdeként a város fejlődését jelképezi. Hamarosan elérjük a Városi és GWR Múzeumot, hogy elmerüljünk a régió lenyűgöző vasúti örökségében.\n\nAhogy a délután lassan beköszönt, magunk mögött hagyjuk a nyüzsgő központi múzeumot, és zöldebb tájak felé vesszük az irányt. A város gazdag múltja fokozatosan átadja helyét a békés tájaknak. A vasútállomással szemben elterülő Courtenay Park hívogató menedéket kínál.\n\nAz este a Courtenay Park nyugodt ölelésében zárja útitervünket. A polgári történelemben és vasúti mondákban gazdag nap után az öreg fák közötti pihenés tökéletes és csendes lezárást nyújt a bájos devoni város felfedezésének.",
         "ro": "Ne începem călătoria pietonală în inima orașului Newton Abbot, salutând dimineața la iconicul Turn St Leonard. Această supraviețuitoare medievală dă perfect tonul istoric al zilei. La o scurtă plimbare, eleganta Bibliotecă Publică Passmore Edwards oferă un moment de grandoare arhitecturală victoriană.\n\nMiezul zilei se apropie în timp ce ne plimbăm pe lângă Teatrul Alexandra, un centru cultural vibrant. Inițial o bursă de cereale, reprezintă evoluția orașului. Ajungem rapid la Muzeul Orașului și al GWR, scufundându-ne adânc în fascinanta moștenire feroviară a regiunii.\n\nPe măsură ce după-amiaza se instalează ușor, lăsăm în urmă muzeul central plin de viață și ne îndreptăm spre pășuni mai verzi. Trecutul bogat al orașului lasă locul peisajelor pașnice. Courtenay Park apare chiar vizavi de gară, oferind o evadare primitoare.\n\nSeara învăluie itinerariul nostru în îmbrățișarea senină a Courtenay Park. După o zi bogată în istorie civică și legende feroviare, relaxarea printre acești copaci bătrâni oferă concluzia perfectă și liniștită pentru explorarea fermecătorului nostru oraș din Devon.",
         "en": "We start our pedestrian journey in the heart of Newton Abbot, greeting the morning at the iconic St Leonard's Tower. This lone medieval survivor beautifully sets the historical tone for the day. Just a short walk away, the elegant Passmore Edwards Public Library offers a moment of Victorian architectural grandeur.\n\nMidday approaches as we wander past the culturally vibrant Alexandra Theatre. Originally an important corn exchange, it represents the town's evolution. We quickly reach the Newton Abbot Town and GWR Museum, diving deep into the region's fascinating railway legacy.\n\nAs the afternoon gently sets in, we leave the bustling central museum behind and make our way toward greener pastures. The town’s rich past gradually gives way to peaceful landscapes. Courtenay Park emerges just opposite the train station, offering a welcoming escape.\n\nEvening wraps around our itinerary in the serene embrace of Courtenay Park. After a day rich in civic history and railway lore, relaxing among these mature trees provides the perfect, quiet conclusion to our charming Devon town exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz am St Leonard's Tower, bevor wir in die Bibliothek flüchten. Mittags bieten das Alexandra Theatre und die Passmore Edwards Library trockene Zufluchtsorte vor dem Devon-Regen. Nachmittags erkunden wir ausgiebig das beheizte GWR Museum. Am Abend spazieren wir kurz durch den Courtenay Park, wobei die Bäume natürlichen Schutz vor dem leichten Nieselregen bieten.",
+            "hu": "Reggel a St Leonard's Tower tövében kezdünk, majd a könyvtárba húzódunk az eső elől. Délben az Alexandra Theatre és a Passmore Edwards Library nyújt meleg menedéket a csapadékos időben. Délután a GWR múzeum fedett kiállításai között fedezzük fel a város múltját. Az este a Courtenay Park fái alatt ér minket, ahol a sűrű lombozat némi védelmet nyújt a szemerkélő esőben.",
+            "ro": "Dimineața căutăm adăpost lângă Turnul St Leonard înainte de a ne refugia în bibliotecă. La prânz, Teatrul Alexandra și Biblioteca Passmore Edwards oferă refugii uscate împotriva ploii. După-amiaza explorăm pe îndelete muzeul GWR, feriți de intemperii. Seara se încheie cu o scurtă plimbare prin Parcul Courtenay, unde coroanele copacilor oferă o protecție naturală împotriva burniței.",
+            "en": "Morning starts by seeking cover near St Leonard's Tower before moving to the dry library. At noon, the Alexandra Theatre and Passmore Edwards Library offer perfect sanctuaries from the Devon drizzle. In the afternoon, we spend time inside the well-heated GWR Museum exploring local history. The evening ends in Courtenay Park, where the tree canopy provides a natural umbrella against light rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Leonard's Tower",
+                "hu": "St Leonard's Tower",
+                "ro": "Turnul St Leonard",
+                "en": "St Leonard's Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterliche Architektur von den umliegenden Türbögen aus, um trocken zu bleiben; ein windfester Regenschirm ist in Newton Abbot bei Regen unerlässlich.",
+                "hu": "Csodáld meg a torony középkori falait a közeli árkádok védelméből, hogy száraz maradj; egy szélálló esernyő elengedhetetlen a változékony és szeles devoni esőben.",
+                "ro": "Admirați arhitectura medievală din pragul clădirilor din jur pentru a rămâne uscat; o umbrelă rezistentă la vânt este esențială în Newton Abbot în timpul ploilor.",
+                "en": "Admire the medieval architecture from the shelter of nearby doorways to stay dry; a windproof umbrella is essential in Newton Abbot due to the gusty Devon rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Passmore Edwards Public Library",
+                "hu": "Passmore Edwards Public Library",
+                "ro": "Passmore Edwards Public Library",
+                "en": "Passmore Edwards Public Library"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen prachtvollen viktorianischen Bau als perfekten Rückzugsort zum Lesen, während es draußen regnet; die hohen Decken sorgen für eine gemütliche Atmosphäre.",
+                "hu": "Használd ezt a pompás viktoriánus épületet tökéletes menedékként az olvasáshoz, amíg kint esik; a tágas belső terek és a könyvek illata elfeledteti a borús időt.",
+                "ro": "Folosiți această clădire victoriană splendidă ca refugiu perfect pentru lectură în timp ce afară plouă; plafoanele înalte creează o atmosferă foarte primitoare.",
+                "en": "Use this grand Victorian building as a perfect reading retreat while it pours outside; the interior architecture provides a cozy atmosphere away from the damp streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Alexandra Theatre",
+                "hu": "Alexandra Theatre",
+                "ro": "Teatrul Alexandra",
+                "en": "Alexandra Theatre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Foyer dieses historischen Theaters, um den kunstvollen Stil zu bewundern; prüfen Sie das Tagesprogramm auf kurzfristige Indoor-Aufführungen bei Regen.",
+                "hu": "Látogass el a történelmi színház előcsarnokába, hogy megcsodáld a belső díszítést; esős napokon érdemes ellenőrizni a napi programot egy-egy fedett előadásért.",
+                "ro": "Vizitați foierul acestui teatru istoric pentru a admira stilul artistic; verificați programul zilei pentru spectacole în interior dacă ploaia persistă afară.",
+                "en": "Visit the foyer of this historic theatre to admire the ornate period style; check the daily schedule for indoor matinees if the rain continues through the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Newton Abbot Town and GWR Museum",
+                "hu": "Newton Abbot Town and GWR Museum",
+                "ro": "Newton Abbot Town and GWR Museum",
+                "en": "Newton Abbot Town and GWR Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Eisenbahngeschichte ein, während Sie im Warmen bleiben; planen Sie hier mindestens zwei Stunden ein, um den stärksten Regenguss abzuwarten.",
+                "hu": "Merülj el mélyen a vasúttörténeti kiállításokban, miközben szárazon és melegben maradsz; érdemes itt legalább két órát eltölteni, amíg elvonul a leghevesebb zivatar.",
+                "ro": "Explorați istoria feroviară în detaliu în timp ce rămâneți la căldură; planificați cel puțin două ore aici pentru a lăsa ploaia torențială de afară să treacă.",
+                "en": "Dive deep into the railway heritage displays while staying completely dry and warm; plan at least two hours here to wait out the heaviest afternoon downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Courtenay Park",
+                "hu": "Courtenay Park",
+                "ro": "Courtenay Park",
+                "en": "Courtenay Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen schnellen Spaziergang unter den dichten Baumkronen, die viel Regen abfangen; tragen Sie wasserfeste Schuhe, da die Grasflächen schnell matschig werden.",
+                "hu": "Tegyél egy gyors sétát a sűrű lombkoronák alatt, amelyek felfogják az esőcseppeket; viselj vízálló cipőt, mert a füves területek esőben hamar feláznak.",
+                "ro": "Faceți o scurtă plimbare sub coronamentul des al copacilor care opresc ploaia; purtați încălțăminte impermeabilă deoarece zonele cu iarbă pot deveni noroioase.",
+                "en": "Take a brisk walk under the dense tree canopies which catch most of the raindrops; wear waterproof shoes as the grassy areas can become soft and muddy quickly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erleben wir den St Leonard's Tower in der klaren Winterluft. Mittags wärmen wir uns in der Bibliothek und im Alexandra Theatre auf. Nachmittags ist das GWR Museum ein idealer, beheizter Ort für Geschichtsinteressierte. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir die dämmrige Atmosphäre im Courtenay Park mit den ersten Lichtern der Stadt.",
+            "hu": "Reggel a torony lábánál élvezzük a friss téli levegőt. Délben a könyvtár és a színház meleg belső tereiben melegszünk fel. Délután a GWR múzeum fűtött kiállítótermei nyújtanak kényelmes kikapcsolódást. Mivel a nap 17:00 körül nyugszik, a Courtenay Parkban már a szürkületi fények és a városi lámpák hangulata fogad minket.",
+            "ro": "Dimineața admirăm Turnul St Leonard în aerul rece de iarnă. La prânz, ne încălzim în interioarele primitoare ale bibliotecii și teatrului. După-amiaza, muzeul GWR este locul ideal încălzit pentru pasionații de istorie. Deoarece soarele apune în jurul orei 17:00, ne bucurăm de atmosfera amurgului în Parcul Courtenay.",
+            "en": "Morning brings a crisp winter breeze at St Leonard's Tower. By noon, we warm up inside the cozy library and the Alexandra Theatre. The afternoon is best spent in the heated GWR Museum, a haven for history lovers. As the sun sets around 17:00, we enjoy the twilight atmosphere in Courtenay Park as the town lights begin to glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Leonard's Tower",
+                "hu": "St Leonard's Tower",
+                "ro": "Turnul St Leonard",
+                "en": "St Leonard's Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die scharfen Details des Mauerwerks im klaren Winterlicht; achten Sie auf glatte Stellen auf dem Kopfsteinpflaster rund um den Turm bei Frost.",
+                "hu": "Csodáld meg a kőfaragások részleteit a tiszta téli fényben; vigyázz a torony körüli macskaköveken, mert fagyos időben a felületük rendkívül csúszóssá válhat.",
+                "ro": "Observați detaliile sculptate în piatră în lumina clară a iernii; aveți grijă la porțiunile alunecoase de pe pavajul din jurul turnului dacă este îngheț afară.",
+                "en": "Observe the sharp details of the stonework in the clear winter light; watch out for slippery patches on the cobblestones around the tower during frosty mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Passmore Edwards Public Library",
+                "hu": "Passmore Edwards Public Library",
+                "ro": "Passmore Edwards Public Library",
+                "en": "Passmore Edwards Public Library"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Wärme in den Lesesälen als Pause von der Kälte; die großen Fenster bieten einen schönen Blick auf die winterliche Stadtlandschaft.",
+                "hu": "Élvezd a csendes meleget az olvasótermekben, ami tökéletes pihenő a kinti hideg után; a nagy ablakokból szép kilátás nyílik a téli Newton Abbot utcáira.",
+                "ro": "Bucurați-vă de căldura liniștită din sălile de lectură ca o pauză de la frigul de afară; ferestrele mari oferă o vedere frumoasă asupra orașului iarna.",
+                "en": "Enjoy the quiet warmth of the reading rooms as a break from the winter chill; the large windows offer a lovely view of the town's seasonal atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Alexandra Theatre",
+                "hu": "Alexandra Theatre",
+                "ro": "Teatrul Alexandra",
+                "en": "Alexandra Theatre"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den historischen Charme im Inneren, wo es angenehm warm ist; im Winter finden hier oft saisonale Aufführungen und Gemeinschaftsevents statt.",
+                "hu": "Éld át a történelmi bájt a belső térben, ahol kellemes meleg fogad; télen gyakran tartanak itt szezonális előadásokat és közösségi rendezvényeket is.",
+                "ro": "Experimentați farmecul istoric în interior, unde este plăcut și cald; iarna, aici au loc adesea spectacole sezoniere și evenimente ale comunității locale.",
+                "en": "Experience the historic charm inside where it is comfortably warm; winter often brings seasonal performances and community events to this classic venue."
+              }
+            },
+            {
+              "name": {
+                "de": "Newton Abbot Town and GWR Museum",
+                "hu": "Newton Abbot Town and GWR Museum",
+                "ro": "Newton Abbot Town and GWR Museum",
+                "en": "Newton Abbot Town and GWR Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich zwischen den Dampflokomotiven auf, während Sie Devons Erbe entdecken; das Museum ist im Winter ein hervorragender Rückzugsort für Familien.",
+                "hu": "Melegedj fel a gőzmozdonyok és vasúti emlékek között, miközben Devon múltját kutatod; a múzeum fűtött terei télen ideális menedéket nyújtanak mindenki számára.",
+                "ro": "Încălziți-vă printre locomotivele cu abur în timp ce descoperiți moștenirea Devonului; muzeul este un refugiu interior excelent în timpul lunilor de iarnă.",
+                "en": "Warm up among the steam engines and railway relics while exploring Devon's heritage; the museum serves as an excellent heated retreat during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Courtenay Park",
+                "hu": "Courtenay Park",
+                "ro": "Courtenay Park",
+                "en": "Courtenay Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Struktur der kahlen Bäume vor dem frühen Sonnenuntergang; kleiden Sie sich in Schichten, da es nach 16 Uhr sehr schnell abkühlt.",
+                "hu": "Csodáld meg a kopasz fák különleges sziluettjét a korai naplementében; öltözz rétegesen, mert délután négy óra után hirtelen és jelentősen visszaesik a hőmérséklet.",
+                "ro": "Admirați structura de iarnă a copacilor golași înainte de apusul devreme; îmbrăcați-vă în straturi, deoarece temperatura scade rapid după ora 16:00.",
+                "en": "Admire the stark winter structure of the bare trees against the early sunset; dress in layers as the temperature drops very quickly after 4 PM in the park."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpározás a Jetty Marsh csendes vizes élőhelyén kezdődik, amely tökéletes friss kezdés a vadvilág megfigyeléséhez. Ezután simán tekerünk a városközpont felé, és megérkezünk a Tuckers Maltingshoz, hogy megkóstoljuk a devoni sörfőzés autentikus ipari örökségét.\n\nDélre a kerekeink a történelmi magba visznek minket, megállva a St Leonard's Towernél. Ez a középkori maradvány büszkén áll a városi forgatag közepette, összekötve az ősi időket a modern kereskedelemmel.\n\nA délután folyamán kifelé lovagolunk a nagyszerű Bradley Manorhoz. A dombos zöld erdőkben található középkori mészkőfalak hihetetlenül festői hátteret biztosítanak folytatódó kétkerekű kalandunkhoz.\n\nAhogy az esti árnyékok hosszabbra nyúlnak, megérkezünk a fenséges Forde House-hoz. A jakabkori homlokzat és a tágas pázsit megjutalmazza kerékpáros erőfeszítéseinket, fenséges és pihentető lezárást adva aktív túránknak.",
         "ro": "Ciclismul începe la rezervația naturală liniștită Jetty Marsh, un început proaspăt perfect pentru a observa fauna sălbatică. Apoi pedalăm ușor spre centrul orașului, ajungând la Tuckers Maltings pentru a savura autentica moștenire industrială a berăritului din Devon.\n\nPână la prânz, roțile noastre ne aduc în centrul istoric, oprindu-ne la Turnul St Leonard. Această rămășiță medievală stă mândră în mijlocul fluxului urban, făcând legătura între timpurile străvechi și comerțul modern.\n\nDupă-amiaza ne găsește mergând spre mărețul Bradley Manor. Situați în mijlocul unei păduri verzi și ondulate, pereții medievali de calcar oferă un fundal incredibil de pitoresc pentru aventura noastră continuă pe două roți.\n\nPe măsură ce umbrele serii se lungesc, ajungem la maiestuoasa Forde House. Fațada iacobină grandioasă și peluzele spațioase răsplătesc eforturile noastre de ciclism, oferind o concluzie maiestuoasă și relaxantă a turului nostru activ.",
         "en": "Cycling begins at the tranquil Jetty Marsh Local Nature Reserve, a perfect fresh start observing wildlife. We then pedal smoothly toward the town center, arriving at Tuckers Maltings to savor the authentic industrial heritage of Devon's brewing history.\n\nBy midday, our wheels bring us to the historic core, stopping at St Leonard's Tower. This medieval remnant stands proudly amidst the urban flow, bridging ancient times with modern commerce.\n\nThe afternoon sees us riding outwards to the grand Bradley Manor. Set within rolling green woodland, the medieval limestone walls offer an incredibly picturesque backdrop for our continued two-wheeled adventure.\n\nAs evening shadows lengthen, we arrive at the majestic Forde House. The grand Jacobean facade and spacious lawns reward our cycling efforts, providing a majestic and restful conclusion to our active tour of Newton Abbot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch das Jetty Marsh Reservat. Mittags bietet Tuckers Maltings eine lange, trockene Pause. Nachmittags besuchen wir den St Leonard's Tower und Bradley Manor, wobei wir auf nassen Wegen achtgeben. Den Tag beenden wir im Forde House, wo wir das Fahrrad sicher abstellen und uns im prachtvollen Inneren vor dem Regen schützen können.",
+            "hu": "Reggel óvatosan tekerünk át a Jetty Marsh lápos területén. Délben a Tuckers Maltings nyújt hosszú, száraz pihenőt a túra közben. Délután a St Leonard's Tower és a Bradley Manor következik, figyelve a csúszós aszfaltra. A napot a Forde House-ban zárjuk, ahol a kerékpárt leparkolva a pompás belső terekben vészelhetjük át az esős időt.",
+            "ro": "Dimineața pedalăm cu atenție prin rezervația Jetty Marsh. La prânz, Tuckers Maltings oferă o pauză lungă și uscată. După-amiaza vizităm Turnul St Leonard și Bradley Manor, fiind atenți la drumurile ude. Încheiem ziua la Forde House, unde putem parca bicicleta și ne putem adăposti de ploaie în interiorul splendid.",
+            "en": "Morning involves a careful cycle through the Jetty Marsh reserve. At noon, Tuckers Maltings provides a long, dry break from the elements. In the afternoon, we visit St Leonard's Tower and Bradley Manor, watching for wet paths. We end the day at Forde House, where we can safely park the bike and shelter from the rain in grand interiors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jetty Marsh Local Nature Reserve",
+                "hu": "Jetty Marsh Local Nature Reserve",
+                "ro": "Rezervația Naturală Jetty Marsh",
+                "en": "Jetty Marsh Local Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege können bei Regen schlammig und rutschig sein; fahren Sie langsam und genießen Sie die mystische Atmosphäre der feuchten Sumpflandschaft.",
+                "hu": "A kerékpárutak esőben sárosak és csúszósak lehetnek; tekerj lassabban, és élvezd a vizes mocsárvidék misztikus, párás hangulatát a biztonságos sárvédők alatt.",
+                "ro": "Pistele de biciclete pot fi noroioase și alunecoase pe ploaie; pedalați încet și bucurați-vă de atmosfera mistică a mlaștinii umede sub protecția aripilor.",
+                "en": "The cycling paths can be muddy and slippery in the rain; cycle slowly and enjoy the mystical atmosphere of the damp wetlands with good mudguards on."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuckers Maltings",
+                "hu": "Tuckers Maltings",
+                "ro": "Tuckers Maltings",
+                "en": "Tuckers Maltings"
+              },
+              "tip_5lang": {
+                "de": "Dieses Industrieerbe bietet perfekten Schutz vor Regen; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der historischen Mälzerei-Anlagen.",
+                "hu": "Ez az ipari örökség tökéletes védelmet nyújt az eső elől; használd ki az időt a történelmi malátázó berendezések részletes belső megtekintésére.",
+                "ro": "Această moștenire industrială oferă protecție perfectă împotriva ploii; profitați de timp pentru un tur interior detaliat al instalațiilor istorice de malț.",
+                "en": "This industrial heritage site offers perfect protection from the rain; use the time for an extensive indoor tour of the historic malting equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "St Leonard's Tower",
+                "hu": "St Leonard's Tower",
+                "ro": "Turnul St Leonard",
+                "en": "St Leonard's Tower"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an und nutzen Sie die umliegenden Geschäfte als Regenschutz; achten Sie beim Absteigen auf den nassen, glatten Boden im Stadtzentrum.",
+                "hu": "Állj meg egy rövid időre, és használd a közeli üzletek árkádjait esővédőként; leszálláskor ügyelj a vizes, csúszós burkolatra a városközpontban.",
+                "ro": "Opriți-vă scurt și folosiți magazinele din jur ca protecție împotriva ploii; aveți grijă la coborâre pe pavajul ud și alunecos din centrul orașului.",
+                "en": "Stop briefly and use the nearby shop awnings as rain cover; take care when dismounting on the wet, slick pavement in the busy town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Bradley Manor",
+                "hu": "Bradley Manor",
+                "ro": "Bradley Manor",
+                "en": "Bradley Manor"
+              },
+              "tip_5lang": {
+                "de": "Das mittelalterliche Herrenhaus bietet eine trockene Zeitreise; der Waldweg dorthin ist bei Regen besonders idyllisch, erfordert aber gute Bremsen.",
+                "hu": "A középkori kúria száraz időutazást ígér; az oda vezető erdei út esőben különösen idilli, de jó fékekre és óvatosságra lesz szükséged a lejtőkön.",
+                "ro": "Conacul medieval oferă o călătorie în timp la adăpost; drumul prin pădure este idilic pe ploaie, dar necesită frâne bune și atenție sporită pe pante.",
+                "en": "The medieval manor offers a dry journey through time; the woodland path there is particularly idyllic in the rain but requires good brakes and caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Forde House",
+                "hu": "Forde House",
+                "ro": "Forde House",
+                "en": "Forde House"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in den prächtigen Innenräumen dieses Hauses; der großzügige Parkplatz bietet meist gute Möglichkeiten, das Rad wettergeschützt zu parken.",
+                "hu": "Zárd a túrát a ház pompás belső tereiben; a tágas udvaron általában találni olyan védettebb pontot, ahol a kerékpárt az esőtől óvva leállíthatod.",
+                "ro": "Încheiați turul în interioarele magnifice ale acestei case; parcarea spațioasă oferă de obicei locuri bune pentru a lăsa bicicleta protejată de intemperii.",
+                "en": "Finish your tour in the magnificent interiors of this house; the spacious grounds usually offer good spots to park your bike protected from the elements."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die frostige Fahrt durch Jetty Marsh. Mittags besuchen wir Tuckers Maltings und den St Leonard's Tower im klaren Winterlicht. Nachmittags radeln wir zum historischen Bradley Manor, bevor es kühler wird. Die Tour endet bei Forde House, wo wir gegen 16:30 Uhr ankommen, kurz bevor die frühe Winterdämmerung die historische Kulisse in sanftes Licht taucht.",
+            "hu": "Reggel a Jetty Marsh deres ösvényein kezdjük a tekerést. Délben a Tuckers Maltings és a St Leonard's Tower következik a tiszta téli napsütésben. Délután a Bradley Manor történelmi falai felé vesszük az irányt, még a hideg este előtt. A túra a Forde House-nál ér véget 16:30 körül, épp mielőtt a korai alkonyat fényei átveszik az uralmat.",
+            "ro": "Dimineața ne bucurăm de plimbarea prin Jetty Marsh. La prânz vizităm Tuckers Maltings și Turnul St Leonard în lumina clară de iarnă. După-amiaza pedalăm spre istoricul Bradley Manor înainte de a se face frig. Turul se încheie la Forde House în jurul orei 16:30, chiar înainte ca amurgul să se lase peste oraș.",
+            "en": "Morning features a frosty ride through Jetty Marsh. At noon, we visit Tuckers Maltings and St Leonard's Tower in the clear winter light. In the afternoon, we cycle to historic Bradley Manor before the evening chill sets in. The tour ends at Forde House around 16:30, just before the early winter dusk settles over the historic grounds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jetty Marsh Local Nature Reserve",
+                "hu": "Jetty Marsh Local Nature Reserve",
+                "ro": "Rezervația Naturală Jetty Marsh",
+                "en": "Jetty Marsh Local Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe gegen den Fahrtwind; die Wintervögel in den Feuchtgebieten sind besonders gut zu beobachten, wenn die Vegetation kahl ist.",
+                "hu": "Viselj meleg kesztyűt a menetszél ellen; a mocsaras terület téli madárvilága különösen jól megfigyelhető ilyenkor, amikor a növényzet ritkább.",
+                "ro": "Purtați mănuși groase împotriva vântului; păsările de iarnă din zonele umede sunt mult mai ușor de observat acum când vegetația nu mai este deasă.",
+                "en": "Wear warm gloves against the wind chill; the winter birdlife in the wetlands is much easier to spot now that the summer vegetation has cleared away."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuckers Maltings",
+                "hu": "Tuckers Maltings",
+                "ro": "Tuckers Maltings",
+                "en": "Tuckers Maltings"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um sich während der Tour aufzuwärmen; die massiven Steinmauern der historischen Mälzerei bieten guten Schutz vor winterlichem Wind.",
+                "hu": "Használd a belső tereket a felmelegedésre a túra során; a történelmi malátázó vastag kőfalai kiváló védelmet nyújtanak a jeges téli szelek ellen.",
+                "ro": "Folosiți spațiile interioare pentru a vă încălzi în timpul turului; zidurile groase de piatră ale vechii malțerii oferă protecție bună contra vântului.",
+                "en": "Utilize the indoor spaces to warm up during your tour; the massive stone walls of the historic malthouse provide excellent shelter from biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "St Leonard's Tower",
+                "hu": "St Leonard's Tower",
+                "ro": "Turnul St Leonard",
+                "en": "St Leonard's Tower"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom Turm im harten Winterlicht; achten Sie beim Radfahren im Stadtzentrum auf gefrierende Nässe im Schatten der Gebäude.",
+                "hu": "Készíts fotót a toronyról az éles téli fényekben; a belvárosban tekerve figyelj az épületek árnyékában megmaradó jeges foltokra az úttesten.",
+                "ro": "Faceți o fotografie turnului în lumina tăioasă de iarnă; în timp ce pedalați prin centru, aveți grijă la porțiunile înghețate din umbra clădirilor.",
+                "en": "Snap a photo of the tower in the sharp winter light; when cycling through the center, watch for ice patches lingering in the shadows of tall buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Bradley Manor",
+                "hu": "Bradley Manor",
+                "ro": "Bradley Manor",
+                "en": "Bradley Manor"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den historischen Anblick ohne sommerliche Menschenmassen; kleiden Sie sich warm für den schattigen Waldweg, der zum Herrenhaus führt.",
+                "hu": "Élvezd a történelmi látványt a nyári tömeg nélkül; öltözz melegen az erdei úthoz, mert a fák között az út végig árnyékban van és hidegebb marad.",
+                "ro": "Bucurați-vă de priveliștea istorică fără aglomerația de vară; îmbrăcați-vă gros pentru drumul prin pădure care este mereu mai rece și umbros.",
+                "en": "Enjoy the historic view without the summer crowds; dress warmly for the shaded woodland approach to the manor, which stays much cooler than the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Forde House",
+                "hu": "Forde House",
+                "ro": "Forde House",
+                "en": "Forde House"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Einbruch der Dunkelheit gegen 17 Uhr an; das Anwesen wirkt in der blauen Stunde der Winterdämmerung besonders majestätisch und ruhig.",
+                "hu": "Érkezz meg a sötétedés előtt, 17 óra körül; a birtok a téli alkonyat kék órájában különösen fenséges és nyugodt látványt nyújt a kerékpárosoknak.",
+                "ro": "Ajungeți înainte de lăsarea întunericului, în jurul orei 17; domeniul arată spectaculos în ora albastră a amurgului de iarnă, fiind foarte liniștit.",
+                "en": "Aim to arrive before total darkness at 5 PM; the estate looks particularly majestic and peaceful during the blue hour of a winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A vezetés lehetővé teszi számunkra a festői külvárosok felfedezését, a gyönyörű mocsaras Hackney Marshes-nál kezdve. A békés természetbeni séta után átvezetünk a lóversenypályára, hogy magunkba szívjuk a lovas izgalmakat.\n\nDélre az autós túránk mély történelembe nyúlik, ahogy a Berry's Wood Hillforthoz közeledünk. Az ősi fák között megbúvó vaskori földsánc rövid túrát igényel, de a mély történelmi jelentőség bőségesen kárpótol.\n\nA délután zökkenőmentesen vált át nagyszerűbb birtokokra, amint leparkolunk a Bradley Manornál. A romantikus középkori kúria gyönyörűen megőrzött, hívogató sétákat kínálva a festői környező erdőkben, mielőtt újra útnak indulunk.\n\nAutós egynapos kirándulásunkat a pompás Forde House-nál zárjuk. A gazdag jakabkori külső csodálatosan ragyog az esti fényben. A kiterjedt pázsiton való barangolás mélységesen kielégítő végét jelenti a Newton Abbot körüli átfogó motoros túrának.",
         "ro": "Condusul ne permite să explorăm periferiile pitorești, începând de la frumoasele zone umede Hackney Marshes. După o plimbare matinală liniștită în natură, ne îndreptăm spre Hipodromul Newton Abbot pentru a ne bucura de entuziasmul ecvestru local.\n\nPână la prânz, excursia noastră rutieră pătrunde în istoria profundă, pe măsură ce ne apropiem de Berry's Wood Hillfort. Ascunsă printre copaci bătrâni, această fortificație din Epoca Fierului necesită o scurtă drumeție care merită efortul.\n\nDupă-amiaza trece fluid către moșii mai grandioase, în timp ce parcăm la Bradley Manor. Conacul medieval romantic este frumos conservat, invitând la plimbări pe îndelete prin pădurile pitorești înconjurătoare înainte de a porni din nou la drum.\n\nNe încheiem excursia rutieră la splendida Forde House. Exteriorul bogat iacobin strălucește minunat în lumina serii. Plimbarea pe peluzele întinse oferă un sfârșit profund satisfăcător pentru un tur motorizat cuprinzător al orașului Newton Abbot.",
         "en": "Driving allows us to explore the scenic outskirts, beginning at the beautifully marshy Hackney Marshes. After a peaceful morning walk among nature, we drive over to the Newton Abbot Racecourse to soak in some local equestrian excitement.\n\nBy midday, our road trip delves into deep history as we approach Berry's Wood Hillfort. Hidden among ancient trees, this Iron Age earthwork requires a brief trek but thoroughly rewards the effort with profound historical resonance.\n\nThe afternoon transitions seamlessly into grander estates as we park at Bradley Manor. The romantic medieval manor house stands beautifully preserved, inviting leisurely strolls through its picturesque surrounding woodlands before we hit the road again.\n\nWe conclude our driving day trip at the splendid Forde House. The rich Jacobean exterior glows wonderfully in the evening light. Wandering the extensive lawns provides a deeply satisfying end to a comprehensive motorized tour of Newton Abbot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens beobachten wir das Wetter in Hackney Marshes bequem vom Auto aus. Mittags besuchen wir die Rennbahn und das Berry's Wood Hillfort, wobei wir uns auf kurze Wege im Freien beschränken. Der Nachmittag gehört Bradley Manor und Forde House, wo die prächtigen Innenräume perfekten Schutz vor den Regengüssen bieten, während wir trocken von Ort zu Ort fahren.",
+            "hu": "Reggel a Hackney Marshes környékén kezdünk, ahol az autóból is élvezhetjük a tájat. Délben a lóversenypálya és a Berry's Wood következik, minimális kinti tartózkodással. A délutánt a Bradley Manor és a Forde House belső tereiben töltjük, ahol a pompás szobák tökéletes menedéket adnak az eső elől, miközben az utat szárazon tesszük meg.",
+            "ro": "Dimineața observăm vremea la Hackney Marshes confortabil din mașină. La prânz vizităm hipodromul și Berry's Wood, limitându-ne la scurte ieșiri afară. După-amiaza aparține Bradley Manor și Forde House, unde interioarele superbe oferă protecție perfectă împotriva ploii în timp ce călătorim uscați între destinații.",
+            "en": "Morning starts by viewing Hackney Marshes comfortably from the car. At noon, we visit the racecourse and Berry's Wood Hillfort, keeping our outdoor time brief. The afternoon is dedicated to Bradley Manor and Forde House, where the grand interiors provide perfect shelter from the downpours while we travel dry between sites."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hackney Marshes Local Nature Reserve",
+                "hu": "Hackney Marshes Local Nature Reserve",
+                "ro": "Rezervația Naturală Hackney Marshes",
+                "en": "Hackney Marshes Local Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an Aussichtspunkten, um Vögel im Regen zu beobachten; die Wege können sehr matschig sein, bleiben Sie daher am besten auf den befestigten Pfaden.",
+                "hu": "Parkolj a kilátópontok közelében, hogy az autóból figyeld a madarakat; az utak esőben sárosak, így érdemes a kijelölt szilárd burkolatú ösvényeken maradni.",
+                "ro": "Parcați aproape de punctele de observație pentru a vedea păsările; potecile pot fi foarte noroioase, deci rămâneți pe traseele amenajate cu pietriș.",
+                "en": "Park near the viewpoints to watch the birdlife from your car; the marsh paths can be very muddy, so stick to the gravel tracks for any short walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Newton Abbot Racecourse",
+                "hu": "Newton Abbot Racecourse",
+                "ro": "Hipodromul Newton Abbot",
+                "en": "Newton Abbot Racecourse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Tribünen für einen tollen Ausblick; bei Regen herrscht hier eine ganz eigene, dramatische Atmosphäre auf dem weiten Grün.",
+                "hu": "Használd a lelátók fedett részeit a remek kilátáshoz; esős időben sajátos, drámai hangulat árad a hatalmas, zöld területről, amit érdemes megörökíteni.",
+                "ro": "Folosiți zonele acoperite ale tribunelor pentru o vedere excelentă; pe ploaie, există o atmosferă dramatică specifică peste spațiul verde vast al hipodromului.",
+                "en": "Utilize the covered areas of the stands for a great view; during rain, there is a unique, dramatic atmosphere over the vast green space of the track."
+              }
+            },
+            {
+              "name": {
+                "de": "Berry's Wood Hillfort",
+                "hu": "Berry's Wood Hillfort",
+                "ro": "Berry's Wood Hillfort",
+                "en": "Berry's Wood Hillfort"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Nässe extrem rutschig sein; tragen Sie Wanderschuhe mit gutem Profil oder genießen Sie den Anblick der bewaldeten Hügel vom Parkplatz aus.",
+                "hu": "A dombra vezető út esőben rendkívül csúszós lehet; viselj mélyen barázdált talpú túracipőt, vagy csak élvezd az erdős dombok látványát a lenti parkolóból.",
+                "ro": "Urcarea poate fi extrem de alunecoasă pe ploaie; purtați bocanci cu talpă aderentă sau admirați dealurile împădurite de la baza parcării.",
+                "en": "The climb can be extremely slippery when wet; wear hiking boots with good grip or enjoy the view of the wooded hills from the safety of the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bradley Manor",
+                "hu": "Bradley Manor",
+                "ro": "Bradley Manor",
+                "en": "Bradley Manor"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp für Regentage, da die Besichtigung drinnen stattfindet; nutzen Sie die Parkmöglichkeiten in der Nähe, um den Weg im Freien kurz zu halten.",
+                "hu": "Ideális megálló esős napokon, mivel a látogatás nagy része fedett helyen zajlik; parkolj minél közelebb, hogy minimálisra csökkentsd a kinti sétát.",
+                "ro": "O oprire ideală pentru zilele ploioase, vizita fiind în interior; parcați cât mai aproape posibil pentru a scurta drumul prin ploaie până la intrare.",
+                "en": "An ideal stop for rainy days as the main tour is indoors; use the nearby parking to keep your exposure to the rain as brief as possible before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Forde House",
+                "hu": "Forde House",
+                "ro": "Forde House",
+                "en": "Forde House"
+              },
+              "tip_5lang": {
+                "de": "Das Haus bietet hervorragende Innenräume zum Erkunden, während es draußen stürmt; parken Sie direkt auf dem Gelände für einen komfortablen Zugang ohne nass zu werden.",
+                "hu": "A ház kiváló belső tereket kínál a felfedezésre, amíg kint tombol az eső; parkolj közvetlenül a birtokon a kényelmes és száraz bejutás érdekében.",
+                "ro": "Casa oferă interioare excelente de explorat în timp ce afară plouă; parcați chiar în incintă pentru un acces confortabil fără a vă uda prea tare.",
+                "en": "The house offers excellent interiors to explore while it storms outside; park directly on the grounds for comfortable access without getting soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir Hackney Marshes in der frostigen Winterlandschaft. Mittags besuchen wir die Rennbahn und das Berry's Wood Hillfort, wobei das Auto uns zwischen den Stopps warm hält. Der Nachmittag ist für Bradley Manor und Forde House reserviert. Wir planen, Forde House gegen 16:30 Uhr zu erreichen, um die historische Architektur im sanften Licht des frühen Winterabends zu erleben.",
+            "hu": "Reggel a Hackney Marshes deres tájait fedezzük fel az autó kényelméből. Délben a lóversenypálya és a Berry's Wood következik, ahol a kocsi melege vár a megállók között. A délutánt a Bradley Manor és a Forde House látogatására szánjuk. Forde House-hoz 16:30 körül érkezünk, hogy még az alkonyati fényeknél láthassuk a történelmi épületet.",
+            "ro": "Dimineața explorăm Hackney Marshes în peisajul înghețat de iarnă. La prânz vizităm hipodromul și Berry's Wood, mașina ținându-ne de cald între opriri. După-amiaza este rezervată pentru Bradley Manor și Forde House. Planificăm să ajungem la Forde House în jur de 16:30 pentru a vedea arhitectura în lumina blândă a serii.",
+            "en": "Morning features Hackney Marshes in a frosty winter landscape. At noon, we visit the racecourse and Berry's Wood Hillfort, with the car keeping us warm between stops. The afternoon is reserved for Bradley Manor and Forde House. We plan to reach Forde House by 16:30 to see the historic architecture in the soft light of the early winter evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hackney Marshes Local Nature Reserve",
+                "hu": "Hackney Marshes Local Nature Reserve",
+                "ro": "Rezervația Naturală Hackney Marshes",
+                "en": "Hackney Marshes Local Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, frostige Landschaft vom warmen Auto aus; im Winter sind seltene Zugvögel in den Feuchtgebieten oft leichter ohne Laub zu entdecken.",
+                "hu": "Élvezd a tágas, deres tájat a meleg autóból; télen a ritka vándormadarak gyakran könnyebben észrevehetők a mocsárvidéken a ritka növényzet miatt.",
+                "ro": "Bucurați-vă de peisajul vast și înghețat din mașina caldă; iarna, păsările migratoare rare sunt adesea mai ușor de observat în zonele umede acum.",
+                "en": "Enjoy the vast, frosty landscape from the warmth of your car; in winter, rare migratory birds are often easier to spot in the wetlands without the foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "Newton Abbot Racecourse",
+                "hu": "Newton Abbot Racecourse",
+                "ro": "Hipodromul Newton Abbot",
+                "en": "Newton Abbot Racecourse"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage wirkt im Winter sehr ruhig und weitläufig; parken Sie am Rand, um den Blick über die frostigen Grasflächen der Rennbahn schweifen zu lassen.",
+                "hu": "A terület télen nagyon csendes és tágas; parkolj a szélen, hogy zavartalanul gyönyörködhess a lóversenypálya deres füves területeinek látványában.",
+                "ro": "Domeniul pare foarte liniștit și vast iarna; parcați la margine pentru a admira întinderea de iarbă înghețată a hipodromului în liniștea sezonului.",
+                "en": "The grounds appear very quiet and expansive in winter; park at the edge to admire the frost-covered grass of the track in the still winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Berry's Wood Hillfort",
+                "hu": "Berry's Wood Hillfort",
+                "ro": "Berry's Wood Hillfort",
+                "en": "Berry's Wood Hillfort"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht von oben ist im Winter bei klarer Luft besonders weit; achten Sie auf festgefrorenen Schlamm auf den Wegen, der sehr uneben sein kann.",
+                "hu": "A kilátás a dombtetőről télen, tiszta időben különösen messzire nyúlik; ügyelj a megfagyott sárra az ösvényeken, mert az egyenetlen felszín könnyen kificamíthatja a bokát.",
+                "ro": "Priveliștea de sus este deosebit de clară iarna; aveți grijă la noroiul înghețat de pe poteci, care poate fi foarte denivelat și greu de parcurs.",
+                "en": "The view from the top is exceptionally clear in winter; watch out for frozen mud on the trails, which can create very uneven and tricky ground for walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Bradley Manor",
+                "hu": "Bradley Manor",
+                "ro": "Bradley Manor",
+                "en": "Bradley Manor"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus hat im Winter eine besonders besinnliche Atmosphäre; prüfen Sie die Öffnungszeiten, da diese in der Nebensaison oft verkürzt sind.",
+                "hu": "A kúriának télen különleges, meghitt hangulata van; mindenképpen ellenőrizd a nyitvatartást, mert a szezonon kívül gyakran korábban zárnak a látogatók előtt.",
+                "ro": "Conacul are o atmosferă deosebit de liniștită iarna; verificați programul de vizitare, deoarece acesta este adesea redus în timpul sezonului rece.",
+                "en": "The manor has a particularly peaceful atmosphere in winter; be sure to check the opening times, as they are often shorter during the off-peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Forde House",
+                "hu": "Forde House",
+                "ro": "Forde House",
+                "en": "Forde House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der erleuchteten Fenster gegen 17 Uhr; die Zufahrt ist gut geräumt, was den Besuch auch bei Frost sicher und komfortabel macht.",
+                "hu": "Élvezd a kivilágított ablakok látványát 17 óra körül; a birtok felhajtója jól karbantartott, így a látogatás fagyos időben is biztonságos és kényelmes autóval.",
+                "ro": "Bucurați-vă de vederea ferestrelor luminate în jurul orei 17; aleea de acces este bine întreținută, făcând vizita sigură și confortabilă chiar și pe ger.",
+                "en": "Enjoy the sight of the illuminated windows around 5 PM; the access road is well-maintained, making the visit safe and comfortable even in freezing weather."
+              }
+            }
+          ]
+        }
       }
     }
   }

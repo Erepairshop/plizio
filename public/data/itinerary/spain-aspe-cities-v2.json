@@ -183,6 +183,224 @@
         "hu": "A reggel Aspe szívében kezdődik, ahol felfedezzük a Casino Primitivo környékének történelmi báját és a város szellemi örökségét meghatározó kápolnákat. Délben a modern kultúra és az élénk hagyományok kerülnek előtérbe az Auditorio és a helyi fesztiválközpont érintésével. Délután a Casa del Cisco múzeumban merülhetünk el a helyi történelemben és mezőgazdasági múltban. Az este a Castillo del Aljau ősi romjainál zárul egy csodás naplemente kíséretében.",
         "ro": "Dimineața începe în inima orașului Aspe, explorând farmecul istoric din jurul Cazinoului Primitiv și capelele complicate ce definesc moștenirea sa spirituală. La prânz accentul se mută pe cultura modernă și tradițiile locale la Auditorio și sediul asociațiilor de festival. După-amiaza vă adânciți în istoria locală la muzeul Casa del Cisco, descoperind trecutul agricol al regiunii. Seara se încheie la Castillo del Aljau, unde apusul luminează ruinele antice ale fortăreței.",
         "en": "Morning begins in the heart of Aspe, exploring the historical charm around the Casino Primitivo and the intricate chapels that define the town's spiritual heritage. Midday shifts towards modern culture and lively traditions, passing the Auditorio and local festival headquarters. In the afternoon, you delve deep into local history at the Casa del Cisco museum, uncovering the region's agricultural past. The evening concludes at the Castillo del Aljau, where you can watch the sun dip below the horizon from the ancient ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in historischen Räumen und suchen Sie Schutz vor dem Regen. Mittags navigieren Sie mit einem Regenschirm vorsichtig durch die nassen Gassen zwischen den Kapellen. Verbringen Sie den Nachmittag in den trockenen Museen, um den Schauern zu entgehen. Beenden Sie den feuchten, aber lohnenden Tag frühzeitig, bevor das Wetter umschlägt.",
+            "hu": "Kezdje a reggelt a történelmi falak között, biztos menedéket találva a záporok elől. Délben óvatosan sétáljon az esernyő alatt a kápolnák nedves, macskaköves útjain. Délután meneküljön a múzeumok fedett és érdekes kiállítótereibe. Zárja a napot egy esős, de tartalmas várnézéssel, jól beöltözve az elemek ellen.",
+            "ro": "Începeți dimineața la adăpost, explorând clădirile istorice în timp ce afară plouă. La prânz, navigați cu grijă pe străzile umede cu o umbrelă între capele. După-amiaza, refugiați-vă în muzeele locale pentru a scăpa de aversele abundente. Încheiați ziua umedă, dar plină de satisfacții, la ruinele castelului.",
+            "en": "Start your morning indoors exploring historical venues while the rain falls outside. By midday, navigate the wet streets carefully with an umbrella between chapels. In the afternoon, dive deep into local museums to completely escape the showers. Conclude your damp but rewarding day before the rain intensifies in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casino Primitivo",
+                "hu": "Casino Primitivo",
+                "ro": "Casino Primitivo",
+                "en": "Casino Primitivo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Innenarchitektur im Trockenen. Ein perfekter Start, um den morgendlichen Schauern zu entgehen.",
+                "hu": "Csodálja meg az elegáns belső építészetet szárazon. Tökéletes kezdés egy esős napon a reggeli záporok elkerülésére.",
+                "ro": "Admirați arhitectura interioară elegantă la adăpost. Un început perfect pentru a evita aversele de dimineață.",
+                "en": "Admire the elegant interior architecture to stay dry. A perfect start on a rainy day to avoid the morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Cruz",
+                "hu": "Capilla de la Cruz",
+                "ro": "Capilla de la Cruz",
+                "en": "Capilla de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die feinen Altardetails drinnen. Bringen Sie einen stabilen Regenschirm mit, da der Weg windig und nass ist.",
+                "hu": "Figyelje meg a bonyolult oltárrészleteket bent. Hozzon erős esernyőt, mert a séta ide szeles és esős lehet.",
+                "ro": "Observați detaliile complicate ale altarului din interior. Aduceți o umbrelă robustă, deoarece plimbarea poate fi expusă vântului.",
+                "en": "Notice the intricate altar details inside. Bring a sturdy umbrella as the brief walk here can be quite exposed to wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla",
+                "hu": "Capilla",
+                "ro": "Capilla",
+                "en": "Capilla"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein und schätzen Sie die religiöse Kunst. Die Steinstufen am Eingang können bei Nässe sehr rutschig sein.",
+                "hu": "Lépjen be, hogy értékelje a békés vallási művészetet. A bejárati kőlépcsők nagyon csúszósak lehetnek esőben, lépjen óvatosan.",
+                "ro": "Pășiți înăuntru pentru a aprecia arta religioasă pașnică. Treptele de piatră de la intrare pot fi foarte alunecoase când sunt ude.",
+                "en": "Step inside to appreciate the peaceful religious art. The stone steps at the entrance can be very slippery when wet, step carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Alfredo Kraus",
+                "hu": "Auditorio Alfredo Kraus",
+                "ro": "Auditorio Alfredo Kraus",
+                "en": "Auditorio Alfredo Kraus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Fassade dieses Kulturzentrums. Bleiben Sie unter den Vordächern, um sich vor dem Regen zu schützen.",
+                "hu": "Nézze meg a kulturális központ modern homlokzatát. Esőben is lenyűgöző az épülete, húzódjon az ereszek alá a víz elől.",
+                "ro": "Admirați fațada modernă a acestui centru cultural. Rămâneți sub streșini pentru a vă adăposti de ploaia rece.",
+                "en": "Check out the modern facade of this cultural hub. Even in rain, its structure is impressive, but stay under the eaves for shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Fila Viejas Glorias",
+                "hu": "Fila Viejas Glorias",
+                "ro": "Fila Viejas Glorias",
+                "en": "Fila Viejas Glorias"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das festliche Denkmal kurz. Es ist draußen, halten Sie Ihre Regenjacke geschlossen für ein schnelles Foto.",
+                "hu": "Figyelje meg röviden az ünnepi emlékművet. Mivel szabadtéren van, húzza fel az esőkabátját egy gyors fotó erejéig.",
+                "ro": "Observați scurt monumentul festiv. Este în aer liber, deci țineți pelerina de ploaie închisă pentru o fotografie rapidă.",
+                "en": "Observe the festive monument briefly. It is outdoors, so keep your rain jacket fully zipped up while snapping a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Cisco",
+                "hu": "Casa del Cisco",
+                "ro": "Casa del Cisco",
+                "en": "Casa del Cisco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen zur Lokalgeschichte im Inneren. Es bietet ein hervorragendes Refugium, während es draußen regnet.",
+                "hu": "Fedezze fel a helytörténeti kiállításokat a hagyományos házban. Kiváló menedéket nyújt egy órára, amíg kint zuhog az eső.",
+                "ro": "Explorați expozițiile de istorie locală din interior. Oferă un refugiu excelent pentru o oră în timp ce plouă afară.",
+                "en": "Explore the local history exhibits inside this traditional house. It offers excellent refuge for an hour while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Aljau",
+                "hu": "Castillo del Aljau",
+                "ro": "Castillo del Aljau",
+                "en": "Castillo del Aljau"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die alten Festungsruinen an. Tragen Sie wasserdichte Stiefel mit gutem Profil, da das schlammige Gelände rutschig ist.",
+                "hu": "Tekintse meg az ősi erődítmény romjait. Viseljen jó tapadású, vízálló cipőt, mert a vár körüli sáros terep esőben csúszik.",
+                "ro": "Vedeți ruinele vechii fortărețe. Purtați cizme impermeabile cu aderență bună, deoarece terenul noroios este alunecos pe ploaie.",
+                "en": "View the ancient fortress ruins. Wear waterproof boots with good grip, as the muddy terrain around the castle is treacherous in rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen frischen Morgenspaziergang zu den Wahrzeichen. Genießen Sie mittags die helle Wintersonne beim Bummel zwischen den Kapellen. Wenn der Nachmittag abkühlt, wärmen Sie sich im Museum auf. Beenden Sie die Tour an der Burgruine kurz vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Öltözzön melegen a csípős reggeli sétához Aspe történelmi nevezetességei között. Délben élvezze a ragyogó téli napsütést a kápolnák közötti utakon. Ahogy a délután hűl, húzódjon be a múzeum melegébe. Fejezze be a túrát a várromoknál, még a korai, 17:00 órás naplemente előtt, mielőtt nagyon lehűl a levegő.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală răcoroasă printre reperele istorice. La prânz, bucurați-vă de soarele strălucitor de iarnă între capele. Pe măsură ce după-amiaza se răcește, mergeți la muzeu pentru a vă încălzi. Terminați turul la ruinele castelului chiar înainte de apusul de la 17:00.",
+            "en": "Wrap up warm for a crisp morning walk among Aspe's historical landmarks. Around noon, enjoy the bright winter sun while strolling between the chapels. As the afternoon cools, head indoors to the museum to stay cozy. Finish your tour at the castle ruins right before the early 17:00 sunset darkens the skies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casino Primitivo",
+                "hu": "Casino Primitivo",
+                "ro": "Casino Primitivo",
+                "en": "Casino Primitivo"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie in den großen Sälen des Casinos. Das beheizte Innere bietet eine gemütliche Umgebung für den kalten Wintermorgen.",
+                "hu": "Kezdje a kaszinó nagytermeiben. A fűtött belső tér hangulatos környezetet biztosít a hideg téli reggel indításához.",
+                "ro": "Începeți cu sălile grandioase ale cazinoului. Interiorul încălzit oferă un mediu confortabil pentru o dimineață rece de iarnă.",
+                "en": "Start with the grand halls of the casino. The heated interior provides a cozy environment to begin your cold winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Cruz",
+                "hu": "Capilla de la Cruz",
+                "ro": "Capilla de la Cruz",
+                "en": "Capilla de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese kleine Kapelle. Die Wintersonne wirft ein schönes Licht; behalten Sie die Handschuhe an, der Stein ist eiskalt.",
+                "hu": "Csodálja meg ezt a kis kápolnát. A téli nap gyönyörű fényt vet a falakra; tartsa magán a kesztyűt, mert a kő fagyos.",
+                "ro": "Admirați această capelă mică. Soarele de iarnă creează o strălucire frumoasă pe ziduri; purtați mănuși, deoarece piatra este rece.",
+                "en": "Admire this small but beautiful chapel. The winter sun creates a lovely glow on its walls; keep your gloves on as the stone is freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla",
+                "hu": "Capilla",
+                "ro": "Capilla",
+                "en": "Capilla"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die ruhige Atmosphäre im Inneren. Ein toller Ort, um dem eisigen Winterwind zu entkommen und die Hände aufzuwärmen.",
+                "hu": "Figyelje meg a békés hangulatot bent. Remek hely, hogy kiszabaduljon a csípős téli szélből, és egy pillanatra felmelegítse a kezét.",
+                "ro": "Observați atmosfera senină din interior. Este un loc minunat pentru a scăpa de vântul tăios de iarnă și a vă încălzi mâinile.",
+                "en": "Notice the serene atmosphere inside. It's a great spot to step out of the biting winter wind and warm your hands for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Alfredo Kraus",
+                "hu": "Auditorio Alfredo Kraus",
+                "ro": "Auditorio Alfredo Kraus",
+                "en": "Auditorio Alfredo Kraus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende moderne Architektur. Der offene Platz kann im Winter sehr windig sein, wickeln Sie den Schal eng.",
+                "hu": "Tekintse meg a lenyűgöző modern építészetet. A nyitott tér télen meglehetősen szeles és hideg lehet, húzza szorosra a sálját.",
+                "ro": "Vedeți arhitectura modernă impresionantă. Piața deschisă poate fi destul de vântoasă și rece, așa că strângeți bine fularul.",
+                "en": "View the impressive modern architecture. The open plaza can be quite windy and chilly in winter, so wrap your scarf tightly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Fila Viejas Glorias",
+                "hu": "Fila Viejas Glorias",
+                "ro": "Fila Viejas Glorias",
+                "en": "Fila Viejas Glorias"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto von diesem Kulturdenkmal. Da die Wintertage kurz sind, sollten Sie nicht zu lange in der kalten Luft verweilen.",
+                "hu": "Készítsen fotót erről a kulturális emlékműről. Mivel a téli napok rövidek, ne időzzön túl sokat a hideg szabad levegőn.",
+                "ro": "Faceți o fotografie cu acest monument cultural. Deoarece zilele de iarnă sunt scurte, nu zăboviți prea mult în aerul rece.",
+                "en": "Snap a photo of this cultural monument. Since the winter days are short, don't linger too long in the cold open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Cisco",
+                "hu": "Casa del Cisco",
+                "ro": "Casa del Cisco",
+                "en": "Casa del Cisco"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das lokale Erbe drinnen kennen. Dieser Museumsbesuch ist perfekt getimt, um den sinkenden Nachmittagstemperaturen zu entgehen.",
+                "hu": "Ismerje meg a helyi örökséget bent. Ez a múzeumlátogatás tökéletesen időzített a késő délutáni csökkenő téli hőmérséklet elkerülésére.",
+                "ro": "Aflați despre moștenirea locală în interior. Această vizită la muzeu este perfect sincronizată pentru a scăpa de frigul după-amiezii.",
+                "en": "Learn about local heritage indoors. This museum visit is perfectly timed to escape the dropping late-afternoon winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Aljau",
+                "hu": "Castillo del Aljau",
+                "ro": "Castillo del Aljau",
+                "en": "Castillo del Aljau"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ruinen. Kommen Sie vor 16:30 Uhr an, um das Licht zu genießen, bevor der frühe Sonnenuntergang eintritt.",
+                "hu": "Fedezze fel a történelmi romokat. Érkezzen 16:30 előtt, hogy élvezze az aranyóra fényeit, mielőtt a korai téli naplemente besötétedik.",
+                "ro": "Explorați ruinele istorice. Ajungeți înainte de 16:30 pentru a vă bucura de lumina înainte de apusul timpuriu de iarnă.",
+                "en": "Explore the historic ruins. Arrive before 16:30 to enjoy the golden hour light before the early winter sunset darkens the ruins."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "A reggel Aspe szívében kezdődik, ahol felfedezzük a Casino Primitivo környékének történelmi báját és a város szellemi örökségét meghatározó kápolnákat. Délben a modern kultúra és az élénk hagyományok kerülnek előtérbe az Auditorio és a helyi fesztiválközpont érintésével. Délután a Casa del Cisco múzeumban merülhetünk el a helyi történelemben, este pedig a Castillo del Aljau és a Casa Carlos kerékpáros felkeresése zárja a napot.",
         "ro": "Dimineața începe în inima orașului Aspe, explorând farmecul istoric din jurul Cazinoului Primitiv și capelele complicate ce definesc moștenirea sa spirituală. La prânz accentul se mută pe cultura modernă și tradițiile locale la Auditorio și sediul asociațiilor de festival. După-amiaza vă adânciți în istoria locală la muzeul Casa del Cisco. Seara se încheie cu explorarea ruinelor Castillo del Aljau și o plimbare cu bicicleta până la reperul Casa Carlos.",
         "en": "Morning begins in the heart of Aspe, exploring the historical charm around the Casino Primitivo and the intricate chapels that define the town's spiritual heritage. Midday shifts towards modern culture and lively traditions, passing the Auditorio and local festival headquarters. In the afternoon, you delve deep into local history at the Casa del Cisco museum. The evening concludes at the Castillo del Aljau and a final scenic bike ride to the unique Casa Carlos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Radtour drinnen, wenn der Regen einsetzt. Fahren Sie mittags vorsichtig; nasses Kopfsteinpflaster reduziert die Traktion erheblich. Parken Sie nachmittags Ihr Fahrrad und suchen Sie Schutz im Museum. Beenden Sie die nasse Fahrt vorsichtig bei der Burg in guter Regenkleidung, bevor es zu dunkel wird.",
+            "hu": "Kezdje a kerékpártúrát egy beltéri történelmi helyszínnel a szemerkélő esőben. Délben óvatosan tekerjen; a kápolnák nedves kövein csúszik a gumi. Délután parkolja le a bringát és húzódjon a múzeumba a legnagyobb záporok elől. Zárja a nedves utat a vár körüli tócsák kerülgetésével, szorosan zárt esőkabátban.",
+            "ro": "Începeți turul cu bicicleta la adăpost când începe ploaia. La prânz, pedalați cu grijă; pietrele umede reduc considerabil tracțiunea. După-amiaza, parcați bicicleta și adăpostiți-vă în muzeu. Încheiați plimbarea umedă navigând printre bălțile de la castel în haine de ploaie complet închise.",
+            "en": "Kick off your cycling tour with some indoor history as the rain starts. By noon, ride carefully; wet cobblestones around the chapels reduce traction. In the afternoon, park your bike securely and take shelter in the museum. End the wet ride navigating the puddles near the castle with fully zipped rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casino Primitivo",
+                "hu": "Casino Primitivo",
+                "ro": "Casino Primitivo",
+                "en": "Casino Primitivo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenarchitektur. Lassen Sie die nasse Ausrüstung im Eingangsbereich, um den Morgen trocken zu beginnen.",
+                "hu": "Csodálja meg a belső építészetet. Hagyja az előtérben a nedves kerékpáros felszerelést a kényelmes reggeli kezdéshez.",
+                "ro": "Admirați arhitectura interioară. Lăsați echipamentul ud la intrare pentru a vă bucura de un început de dimineață uscat.",
+                "en": "Admire the interior architecture. Leave your wet bike gear in the entrance to enjoy a dry start to the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Cruz",
+                "hu": "Capilla de la Cruz",
+                "ro": "Capilla de la Cruz",
+                "en": "Capilla de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie den feinen Altar. Bremsen Sie sanft, da die nassen Straßen um die Kapelle sehr rutschig sind.",
+                "hu": "Figyelje meg a bonyolult oltárt. Óvatosan fékezzen a kápolna előtt, mert a vizes út meglepően csúszós.",
+                "ro": "Observați altarul complicat. Frânați ușor la sosire, deoarece străzile umede din jurul capelei sunt alunecoase.",
+                "en": "Notice the intricate altar. Brake gently on approach, as the wet streets surrounding the chapel are surprisingly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla",
+                "hu": "Capilla",
+                "ro": "Capilla",
+                "en": "Capilla"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die religiöse Kunst zu sehen. Wischen Sie Ihren Sattel ab, bevor Sie im Regen weiterfahren.",
+                "hu": "Lépjen be a békés vallási művészetért. Törölje szárazra a nyerget, mielőtt továbbteker az esőben.",
+                "ro": "Intrați pentru arta religioasă pașnică. Ștergeți șaua de apă înainte de a continua drumul în ploaie.",
+                "en": "Step inside to see the peaceful religious art. Park your bike securely, wiping your saddle before continuing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Alfredo Kraus",
+                "hu": "Auditorio Alfredo Kraus",
+                "ro": "Auditorio Alfredo Kraus",
+                "en": "Auditorio Alfredo Kraus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Fassade. Auf dem großen Platz bilden sich tiefe Pfützen; fahren Sie vorsichtig darum herum.",
+                "hu": "Nézze meg a modern homlokzatot. A burkolt téren mély tócsák alakulnak ki; kerülje ki őket, hogy száraz maradjon a cipője.",
+                "ro": "Admirați fațada modernă. Piața pavată are bălți adânci; ocoliți-le pentru a vă menține pantofii uscați.",
+                "en": "Check out the modern facade. The large paved plaza forms deep puddles; ride around them to keep your shoes dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Fila Viejas Glorias",
+                "hu": "Fila Viejas Glorias",
+                "ro": "Fila Viejas Glorias",
+                "en": "Fila Viejas Glorias"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz. Steigen Sie nicht ab; werfen Sie einen Blick unter Ihrer Regenkapuze und fahren Sie weiter.",
+                "hu": "Nézze meg röviden az emlékművet. Ne szálljon le teljesen; vessen rá egy pillantást az esőkabátból és tekerjen tovább.",
+                "ro": "Observați scurt monumentul. Nu coborâți complet; aruncați o privire rapidă sub glugă și pedalați mai departe.",
+                "en": "Observe the monument briefly. Don't dismount completely; just take a quick look under your rain hood and pedal on."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Cisco",
+                "hu": "Casa del Cisco",
+                "ro": "Casa del Cisco",
+                "en": "Casa del Cisco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Lokalgeschichte. Ein toller Ort, um das Fahrrad abzuschließen und den stärksten Schauern zu entgehen.",
+                "hu": "Fedezze fel a helytörténeti kiállítást. Remek hely a bringa lezárására és a leghevesebb délutáni záporok elkerülésére.",
+                "ro": "Explorați expozițiile de istorie locală. Un loc minunat pentru a lega bicicleta și a scăpa de cele mai grele averse.",
+                "en": "Explore the local history exhibits. A great place to lock up the bike and escape the heaviest afternoon showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Aljau",
+                "hu": "Castillo del Aljau",
+                "ro": "Castillo del Aljau",
+                "en": "Castillo del Aljau"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Burgruinen an. Die Wege werden schlammig; bleiben Sie auf festem Boden und vermeiden Sie scharfe Kurven.",
+                "hu": "Tekintse meg az ősi várromot. Az itteni ösvények sárosak lesznek; maradjon a szilárd talajon és kerülje az éles kanyarokat.",
+                "ro": "Vedeți ruinele fortăreței. Potecile devin noroioase; rămâneți pe teren solid și evitați virajele strânse pe pământ ud.",
+                "en": "View the ancient fortress ruins. The paths here get muddy; stick to the solid ground and avoid sharp turns on wet dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Carlos",
+                "hu": "Casa Carlos",
+                "ro": "Casa Carlos",
+                "en": "Casa Carlos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an diesem historischen Haus. Schütteln Sie den Regenmantel gut aus, bevor Sie für eine Pause eintreten.",
+                "hu": "Zárja a túrát ennél a történelmi háznál. Rázza le a vizes esőkabátot, mielőtt belépne egy jól megérdemelt pihenőre.",
+                "ro": "Încheiați cursa la această casă istorică. Scuturați pelerina udă înainte de a intra pentru o odihnă bine meritată.",
+                "en": "Conclude your ride at this historic house. Shake off your wet raincoat before stepping inside for a well-deserved rest."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine frische morgendliche Fahrt durch die klare Winterluft. Die Mittagssonne wärmt angenehm beim Radeln zwischen den Denkmälern. Wenn die Kälte einsetzt, ist ein langer Museumsaufenthalt ideal. Beenden Sie die Route zügig, bevor der frühe Sonnenuntergang um 17:00 Uhr die Straßen gefrieren lässt.",
+            "hu": "Öltözzön be alaposan a csípős téli levegőben tett reggeli tekeréshez. A déli napfény kellemesen melegíti a hátát a műemlékek közötti úton. Ahogy beáll a délutáni hideg, a múzeumi megálló ideális menedék. Fejezze be az utat gyorsan a 17:00 órai naplemente előtt, mert utána fagyos lesz a levegő.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală răcoroasă prin aerul de iarnă. La prânz, soarele vă încălzește spatele în timp ce pedalați. Când se lasă frigul, o oprire lungă la muzeu este ideală. Terminați rapid traseul înainte ca apusul timpuriu de la 17:00 să facă străzile înghețate.",
+            "en": "Bundle up for a brisk morning ride through the crisp winter air. Midday offers bright sunshine to warm your back as you cycle between monuments. As the afternoon chill sets in, a long museum stop is ideal. Finish the route briskly before the early sunset around 17:00 turns the streets freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casino Primitivo",
+                "hu": "Casino Primitivo",
+                "ro": "Casino Primitivo",
+                "en": "Casino Primitivo"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie in den großen Sälen. Ein warmer Start drinnen ist wichtig, bevor Sie auf die frostigen Straßen fahren.",
+                "hu": "Kezdje a kaszinó termeivel. A meleg beltéri indulás kulcsfontosságú, mielőtt nekivág a fagyos reggeli utcáknak.",
+                "ro": "Începeți cu sălile grandioase. Un start cald este crucial înainte de a ieși pe străzile înghețate dimineața pe bicicletă.",
+                "en": "Start with the grand halls of the casino. A warm indoor start is crucial before hitting the frosty morning streets on a bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Cruz",
+                "hu": "Capilla de la Cruz",
+                "ro": "Capilla de la Cruz",
+                "en": "Capilla de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Kapelle. Tragen Sie winddichte Handschuhe, da der Fahrtwind hier sehr kalt sein kann.",
+                "hu": "Csodálja meg ezt a gyönyörű kápolnát. Viseljen szélálló kesztyűt, mert a téli szélben való tekerés lefagyasztja a kezét.",
+                "ro": "Admirați această capelă. Purtați mănuși rezistente la vânt, deoarece aerul rece de iarnă vă va îngheța rapid mâinile.",
+                "en": "Admire this beautiful chapel. Wear windproof cycling gloves, as the ride here against the winter breeze can chill your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla",
+                "hu": "Capilla",
+                "ro": "Capilla",
+                "en": "Capilla"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die ruhige Atmosphäre. Die Wintersonne steht tief; tragen Sie eine Sonnenbrille gegen Blendung auf den Straßen.",
+                "hu": "Figyelje meg a békés hangulatot. A téli nap alacsonyan jár, viseljen napszemüveget a csillogó utak miatt a kerékpáron.",
+                "ro": "Observați atmosfera senină. Soarele este jos; purtați ochelari de soare pentru a evita strălucirea pe drumurile înghețate.",
+                "en": "Notice the serene atmosphere. The winter sun stays low, so wear sunglasses to avoid glare on the wet or icy roads nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Alfredo Kraus",
+                "hu": "Auditorio Alfredo Kraus",
+                "ro": "Auditorio Alfredo Kraus",
+                "en": "Auditorio Alfredo Kraus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Architektur. Der Seitenwind auf diesem offenen Platz ist eisig; halten Sie Ihren Oberkörper warm.",
+                "hu": "Tekintse meg a modern építészetet. Az oldalszél ezen a nyílt területen fagyos; tartsa melegen a törzsét tekerés közben.",
+                "ro": "Vedeți arhitectura modernă. Vântul lateral în această zonă deschisă este înghețat; mențineți-vă corpul cald și pedalați constant.",
+                "en": "View the impressive modern architecture. The crosswinds in this open area are freezing; keep your core warm and pedal steady."
+              }
+            },
+            {
+              "name": {
+                "de": "Fila Viejas Glorias",
+                "hu": "Fila Viejas Glorias",
+                "ro": "Fila Viejas Glorias",
+                "en": "Fila Viejas Glorias"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom Kulturdenkmal. Ein kurzer Stopp, so verlieren Sie nicht die Körperwärme beim Warten in der Kälte.",
+                "hu": "Készítsen fotót az emlékműről. Ez egy gyors megálló, így nem hűl ki, mielőtt újra nyeregbe pattan a fagyos időben.",
+                "ro": "Faceți o fotografie cu monumentul. Este o oprire scurtă, deci nu vă veți pierde căldura corporală înainte de a urca în șa.",
+                "en": "Snap a photo of this cultural monument. It’s a quick stop, so you won't lose your body heat before jumping back on the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Cisco",
+                "hu": "Casa del Cisco",
+                "ro": "Casa del Cisco",
+                "en": "Casa del Cisco"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das lokale Erbe kennen. Hier können Sie Ihre Zehen und Finger im kältesten Teil des späten Nachmittags aufwärmen.",
+                "hu": "Ismerje meg a helyi örökséget bent. Ez a megálló segít kiolvasztani a lábujjait a délután legidegebb, szeles részén.",
+                "ro": "Aflați despre moștenirea locală. Această oprire vă permite să vă dezghețați degetele în cea mai rece parte a după-amiezii.",
+                "en": "Learn about local heritage indoors. This stop lets you thaw out your toes and fingers during the coldest part of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Aljau",
+                "hu": "Castillo del Aljau",
+                "ro": "Castillo del Aljau",
+                "en": "Castillo del Aljau"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen. Die Sonne geht früh unter; stellen Sie sicher, dass Ihre Fahrradlichter gut funktionieren.",
+                "hu": "Fedezze fel a történelmi romokat. A nap korán nyugszik; ellenőrizze a kerékpárlámpákat a sötétedő úton.",
+                "ro": "Explorați ruinele istorice. Soarele apune devreme; asigurați-vă că luminile bicicletei funcționează perfect în lumină slabă.",
+                "en": "Explore the historic ruins. The sun begins to set early; ensure your bike lights are working as you navigate the fading light."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Carlos",
+                "hu": "Casa Carlos",
+                "ro": "Casa Carlos",
+                "en": "Casa Carlos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an diesem Wahrzeichen. Kommen Sie kurz vor der Dämmerung an und sichern Sie das Fahrrad vor dem Frost.",
+                "hu": "Zárja a túrát ennél a nevezetességnél. Érkezzen meg szürkület előtt, rögzítse a kerékpárt, mielőtt leszáll a hideg fagy.",
+                "ro": "Încheiați cursa aici. Ajungeți chiar înainte de amurg, asigurând bicicleta înainte să se lase gerul rece al serii.",
+                "en": "End your ride at this landmark. Arrive right before dusk at 17:00, securing your bike quickly before the evening frost settles."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "A reggel Aspe szívében kezdődik, ahol felfedezzük a Casino Primitivo környékének történelmi báját és a város szellemi örökségét meghatározó kápolnákat. Délben a modern kultúra és az élénk hagyományok kerülnek előtérbe az Auditorio és a Casa Carlos meglátogatásával. Délután a Casa del Cisco múzeumban merülhetünk el a helyi történelemben és mezőgazdasági múltban. Az este a Castillo del Aljau ősi romjainál zárul egy csodás naplemente kíséretében.",
         "ro": "Dimineața începe în inima orașului Aspe, explorând farmecul istoric din jurul Cazinoului Primitiv și capelele complicate ce definesc moștenirea sa spirituală. La prânz accentul se mută pe cultura modernă și o scurtă plimbare cu mașina spre reperele Auditorio și Casa Carlos. După-amiaza vă adânciți în istoria locală la muzeul Casa del Cisco. Seara se încheie la Castillo del Aljau, unde apusul luminează pitoresc ruinele antice ale fortăreței.",
         "en": "Morning begins in the heart of Aspe, exploring the historical charm around the Casino Primitivo and the intricate chapels that define the town's spiritual heritage. Midday shifts towards modern culture and architecture, linking the Auditorio to the distinct Casa Carlos. In the afternoon, you delve deep into local history at the Casa del Cisco museum, uncovering the region's agricultural past. The evening concludes at the Castillo del Aljau, watching the sunset from the ancient ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem regnerischen Morgen vorsichtig und genießen Sie den beheizten Komfort Ihres Autos. Die mittäglichen Schauer stören nicht, wenn Sie nahe parken. Nachmittags flüchten Sie komplett in die Museumsausstellungen. Beenden Sie Ihre Tour, während der Regen über die Burg wäscht und die Scheibenwischer laufen.",
+            "hu": "Vezessen óvatosan az esős reggelen, élvezve az autó fűtött kényelmét a megállók között. A déli záporok nem zavarják a kápolnák közelében parkolva. Délután meneküljön teljesen a múzeum fedett kiállításaiba. Zárja a túrát a várnál, miközben az eső hevesen mossa a szélvédőt.",
+            "ro": "Conduceți cu atenție într-o dimineață ploioasă, bucurându-vă de confortul mașinii. Aversele de la prânz nu vă vor deranja dacă parcați aproape de capele. După-amiaza, scăpați complet de ploaie în expozițiile muzeului. Încheiați turul la castel, cu ștergătoarele în funcțiune pe parbrizul ud.",
+            "en": "Drive carefully on a rainy morning, enjoying the heated comfort of your car between historical stops. Midday showers won't bother you as you park near the chapels. In the afternoon, escape completely into the museum's exhibits. Conclude your tour as the rain washes over the castle, running the wipers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casino Primitivo",
+                "hu": "Casino Primitivo",
+                "ro": "Casino Primitivo",
+                "en": "Casino Primitivo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Eleganz drinnen. Halten Sie einen Regenschirm im Auto bereit für den kurzen Weg vom Parkplatz.",
+                "hu": "Csodálja meg a belső eleganciát. Tartson esernyőt az autóban, mert a parkolóból a rövid séta alatt is elázhat.",
+                "ro": "Admirați eleganța interioară. Păstrați o umbrelă în mașină, deoarece scurta plimbare de la parcare vă poate uda complet.",
+                "en": "Admire the indoor elegance. Keep an umbrella in the car, as the short walk from the parking lot can still get you soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Cruz",
+                "hu": "Capilla de la Cruz",
+                "ro": "Capilla de la Cruz",
+                "en": "Capilla de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die Altardetails. Parken Sie in der Nähe, um das Gehen auf den nassen, rutschigen Gehwegen zu vermeiden.",
+                "hu": "Figyelje meg az oltárrészleteket. Parkoljon közel, hogy elkerülje a vizes, csúszós járdákon való sétát a környéken.",
+                "ro": "Observați detaliile altarului. Parcați aproape pentru a evita mersul pe trotuarele umede și alunecoase din zonă.",
+                "en": "Notice the intricate altar details. Park close by to avoid walking on the wet, slippery pavements in the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla",
+                "hu": "Capilla",
+                "ro": "Capilla",
+                "en": "Capilla"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein für religiöse Kunst. Seien Sie beim Aussteigen vorsichtig, da sich oft Pfützen am Bordstein bilden.",
+                "hu": "Lépjen be a békés művészetért. Legyen óvatos a kiszállásnál, mert a padka mentén gyakran mély tócsák alakulnak ki.",
+                "ro": "Intrați pentru arta religioasă. Aveți grijă la coborârea din mașină, deoarece se formează adesea bălți adânci la bordură.",
+                "en": "Step inside to see the peaceful religious art. Be careful when stepping out of the car, as puddles often form along the curb here."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Alfredo Kraus",
+                "hu": "Auditorio Alfredo Kraus",
+                "ro": "Auditorio Alfredo Kraus",
+                "en": "Auditorio Alfredo Kraus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Fassade. Sie können viel davon direkt aus dem trockenen Komfort Ihres Autos bewundern.",
+                "hu": "Nézze meg a modern homlokzatot. Lenyűgöző szerkezetének nagy részét közvetlenül a száraz autóból is megcsodálhatja.",
+                "ro": "Admirați fațada modernă. Puteți vedea o mare parte a structurii sale direct din confortul uscat al mașinii dumneavoastră.",
+                "en": "Check out the modern facade. You can admire much of its grand structure directly from the dry comfort of your car if it's pouring."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Carlos",
+                "hu": "Casa Carlos",
+                "ro": "Casa Carlos",
+                "en": "Casa Carlos"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Wahrzeichen. Öffnen Sie das Fenster leicht für ein Foto, anstatt in den Dauerregen hinauszugehen.",
+                "hu": "Figyelje meg a történelmi nevezetességet. Csak húzza le egy kicsit az ablakot egy fotóhoz, ahelyett, hogy kiszállna az esőbe.",
+                "ro": "Observați acest reper istoric. Deschideți puțin fereastra pentru o fotografie în loc să ieșiți afară în ploaia persistentă.",
+                "en": "Observe this historic landmark. Crack the window slightly for a photo instead of getting out into the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fila Viejas Glorias",
+                "hu": "Fila Viejas Glorias",
+                "ro": "Fila Viejas Glorias",
+                "en": "Fila Viejas Glorias"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein kurzes Foto. Ein kurzer Stopp, lassen Sie den Motor an, damit die Heizung für die Rückkehr weiterläuft.",
+                "hu": "Készítsen gyors fotót az emlékműről. Rövid megálló, járassa a motort, hogy a fűtés megmaradjon a gyors visszatérésre.",
+                "ro": "Faceți o fotografie rapidă. O oprire scurtă; lăsarea motorului pornit ajută la menținerea căldurii pentru întoarcere.",
+                "en": "Snap a quick photo of the monument. A brief stop where leaving the engine running helps keep the heater going for your return."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Cisco",
+                "hu": "Casa del Cisco",
+                "ro": "Casa del Cisco",
+                "en": "Casa del Cisco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Lokalgeschichte. Ein komplett überdachter Zufluchtsort, an dem Sie sich für längere Zeit gut trocknen können.",
+                "hu": "Fedezze fel a helytörténetet bent. Fantasztikus, teljesen fedett menedék, ahol hosszabb időre is teljesen megszáradhat az esőből.",
+                "ro": "Explorați istoria locală. O evadare fantastică, complet acoperită, unde vă puteți usca complet pentru o perioadă de timp.",
+                "en": "Explore local history indoors. It's a fantastic, fully covered escape where you can dry off completely for an extended period."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Aljau",
+                "hu": "Castillo del Aljau",
+                "ro": "Castillo del Aljau",
+                "en": "Castillo del Aljau"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Burgruinen an. Der unbefestigte Platz kann sehr schlammig werden; parken Sie auf dem gepflasterten Teil.",
+                "hu": "Tekintse meg a várromokat. A földes terület heves esőzéskor sártengerré válhat, így parkoljon a kövezett részen stabilan.",
+                "ro": "Vedeți ruinele fortăreței. Zona de pământ poate deveni noroioasă; parcați ferm pe secțiunea pavată din apropiere.",
+                "en": "View the fortress ruins. The dirt lot can become a mud pit in heavy rain, so park firmly on the paved section nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt bietet perfekte Wärme bei der Besichtigung der Sehenswürdigkeiten am Morgen. Mittags macht die kalte Sonne das Fahren angenehm. Huschen Sie später vom warmen Auto ins Museum, um dem Wind zu entgehen. Beenden Sie die Tour bis 17:00 Uhr, bevor der dunkle und frostige Abend auf den Straßen einbricht.",
+            "hu": "A téli autózás tökéletes meleget nyújt a csípős reggeli látnivalók felfedezéséhez. Délben a fényes, de hideg nap kellemessé teszi a vezetést. Később rohanjon a meleg autóból a múzeumba a hűvös délutáni szél elől. Fejezze be 17:00-ig, mielőtt leszáll a sötét, fagyos este a kanyargós utakon.",
+            "ro": "O plimbare de iarnă cu mașina oferă căldură perfectă în timpul vizitării obiectivelor matinale. La prânz, soarele rece face condusul plăcut. Mai târziu, fugiți din mașina caldă în muzeu pentru a scăpa de vânt. Terminați până la 17:00, înainte ca seara întunecată să se lase pe drumuri.",
+            "en": "A winter drive offers perfect warmth while touring Aspe's crisp morning sights. Around noon, the bright but cold sun makes driving pleasant. Later, dash from your warm car to the museum to beat the chilling afternoon winds. Finish by 17:00 before the dark, frosty evening sets in on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casino Primitivo",
+                "hu": "Casino Primitivo",
+                "ro": "Casino Primitivo",
+                "en": "Casino Primitivo"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie mit den großen Sälen. Lassen Sie die Autoheizung laufen, damit Sie vom warmen Auto ins warme Gebäude treten.",
+                "hu": "Kezdje a nagytermekkel. Nyomja a fűtést az autóban, így a meleg kocsiból egyenesen egy fűtött épületbe léphet a hidegben.",
+                "ro": "Începeți cu sălile grandioase. Lăsați căldura mașinii pornită pentru a păși direct dintr-o mașină caldă într-o clădire caldă.",
+                "en": "Start with the grand halls. Keep the car heat blasting before you arrive so you can step straight from a warm car into a warm building."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla de la Cruz",
+                "hu": "Capilla de la Cruz",
+                "ro": "Capilla de la Cruz",
+                "en": "Capilla de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kapelle. Das Thermometer mag Frost anzeigen, aber das klare Winterlicht ist perfekt für Fotos.",
+                "hu": "Csodálja meg ezt a gyönyörű kápolnát. A hőmérő fagyot mutathat, de a tiszta téli fény tökéletes a kinti fotózáshoz.",
+                "ro": "Admirați această capelă frumoasă. Termometrul poate arăta îngheț, dar lumina clară de iarnă este perfectă pentru fotografii.",
+                "en": "Admire this beautiful chapel. The dashboard thermometer might show freezing temps, but the clear winter light is perfect for photos here."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla",
+                "hu": "Capilla",
+                "ro": "Capilla",
+                "en": "Capilla"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die ruhige Atmosphäre. Nach dem Gehen auf eisigem Kopfsteinpflaster werden Sie die Sitzheizung schätzen.",
+                "hu": "Figyelje meg a békés hangulatot. A jeges macskaköveken tett rövid séta után örülni fog az autó fűthető üléseinek.",
+                "ro": "Observați atmosfera senină. După ce mergeți pe pietrele înghețate, vă veți bucura să vă întoarceți la scaunele încălzite.",
+                "en": "Notice the serene atmosphere. After walking on the icy cobblestones, you'll be glad to return to your vehicle's heated seats."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Alfredo Kraus",
+                "hu": "Auditorio Alfredo Kraus",
+                "ro": "Auditorio Alfredo Kraus",
+                "en": "Auditorio Alfredo Kraus"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur. Starke Winterwinde wehen über den Platz, was das Auto zur perfekten Aussichtsplattform macht.",
+                "hu": "Tekintse meg a lenyűgöző építészetet. Az erős téli szél végigsöpör a téren, így az autó tökéletes, meleg kilátó lesz.",
+                "ro": "Vedeți arhitectura impresionantă. Vânturile puternice de iarnă bat prin piață, făcând mașina un punct de observație perfect.",
+                "en": "View the impressive architecture. The strong winter winds whip across the plaza, making the car a perfect observation deck."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Carlos",
+                "hu": "Casa Carlos",
+                "ro": "Casa Carlos",
+                "en": "Casa Carlos"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Wahrzeichen. Die tiefstehende Wintersonne kann auf der Windschutzscheibe stark blenden; Sonnenblenden runter.",
+                "hu": "Figyelje meg ezt a nevezetességet. Az alacsony téli nap elvakíthatja a szélvédőn, tartsa lehajtva a napellenzőt vezetés közben.",
+                "ro": "Observați acest reper. Soarele de iarnă poate provoca o strălucire puternică pe parbriz, așa că folosiți parasolarele mașinii.",
+                "en": "Observe this landmark. The low winter sun can cause harsh glare on the windshield when driving away, so have your visors down."
+              }
+            },
+            {
+              "name": {
+                "de": "Fila Viejas Glorias",
+                "hu": "Fila Viejas Glorias",
+                "ro": "Fila Viejas Glorias",
+                "en": "Fila Viejas Glorias"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto des Denkmals. Behalten Sie den Wintermantel an, wenn Sie kurz aussteigen; die Luft ist beißend.",
+                "hu": "Készítsen fotót erről a kulturális emlékműről. Tartsa magán a vastag télikabátot a rövid kiszálláshoz; a levegő nagyon csípős.",
+                "ro": "Faceți o fotografie a acestui monument. Păstrați haina de iarnă când coborâți scurt din mașină; aerul este rece și tăios.",
+                "en": "Snap a photo of this cultural monument. Keep your winter coat on as you jump out briefly; the air is crisp and biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Cisco",
+                "hu": "Casa del Cisco",
+                "ro": "Casa del Cisco",
+                "en": "Casa del Cisco"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das lokale Erbe drinnen kennen. Stellen Sie sicher, dass die Autobatterie gesund ist; Kälte verursacht oft Startprobleme.",
+                "hu": "Ismerje meg a helyi örökséget bent. Ellenőrizze az akkumulátort, mert a hideg téli délutánokon indítási gondok lehetnek.",
+                "ro": "Aflați despre moștenirea locală. Asigurați-vă că bateria mașinii este bună, deoarece frigul poate cauza probleme de pornire.",
+                "en": "Learn about local heritage indoors. Ensure your car battery is healthy, as cold winter afternoons can sometimes cause starting issues."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Aljau",
+                "hu": "Castillo del Aljau",
+                "ro": "Castillo del Aljau",
+                "en": "Castillo del Aljau"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen. Beenden Sie diesen Stopp genau bei Einbruch der Winterdämmerung um 17:00 Uhr für eine sichere Heimfahrt.",
+                "hu": "Fedezze fel a történelmi romokat. Fejezze be ezt a megállót a 17:00 órai téli alkonyatkor, élvezve a meleg autós utat hazafelé.",
+                "ro": "Explorați ruinele istorice. Finalizați această oprire la amurgul iernii, în jurul orei 17:00, bucurându-vă de drumul cald spre casă.",
+                "en": "Explore the historic ruins. Complete this stop just as the winter twilight falls around 17:00, enjoying the warm drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

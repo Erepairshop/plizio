@@ -137,6 +137,168 @@
         "hu": "A reggel a helyi nemesség mélyreható megismerésével kezdődik a történelmi kastélyban, mielőtt meglátogatná a falu templomát. A dél napsütéses pihenést kínál a népszerű főstrandon, amely tökéletes ebédhez. A délután egy lenyűgöző természetes kilátóponthoz vezet, ahonnan kilátás nyílik az öbölre. Az este egy elmélyült sétával zárul egy történelem előtti állókőhöz a naplemente fényében.",
         "ro": "Dimineața începe cu o incursiune în nobilimea locală la castelul istoric, înainte de a vizita biserica liniștită a satului. Amiaza oferă un răgaz însorit pe plaja principală, perfectă pentru prânz. După-amiaza vă duce la un punct de belvedere natural uimitor ce domină golful maiestuos. Seara se încheie cu o plimbare contemplativă spre o piatră preistorică în timp ce soarele apune.",
         "en": "Morning begins with a deep dive into local nobility at the historic castle before visiting the tranquil village church. Midday offers a sunny respite at the popular main beach, perfect for lunch and relaxation. The afternoon takes you up to a stunning natural viewpoint overlooking the majestic bay. Evening concludes with a contemplative walk to a prehistoric standing stone as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Schloss mit guter Regenkleidung, da die Pfade matschig sind. Mittags bietet die Kirche ein trockenes Dach, bevor Sie den regnerischen, dramatischen Strand sehen. Der Nachmittagsspaziergang zu den Felsen erfordert wasserdichte Schuhe. Verbringen Sie den Abend gemütlich drinnen, da der Regen oft zunimmt, und denken Sie an die Menhire zurück.",
+            "hu": "Kezdje a reggelt a várnál jó esőkabáttal, mert az erdei ösvények sárosak lehetnek. Délben a templom száraz menedéket nyújt, mielőtt a borongós tengerpartra érne. A délutáni sziklás séta mindenképpen vastag, vízálló cipőt igényel. Az estét töltse melegben, fedett helyen, ahogy a sötétedéssel az eső is rázendít.",
+            "ro": "Începeți dimineața la castel cu o pelerină bună, deoarece potecile sunt noroioase. La prânz, biserica oferă un acoperiș uscat înainte de a vedea plaja ploioasă. Plimbarea de după-amiază spre stânci necesită încălțăminte impermeabilă de calitate. Petreceți seara confortabil în interior, deoarece ploaia se întețește adesea odată cu lăsarea întunericului.",
+            "en": "Start the morning exploring the castle with a good raincoat as paths can be quite muddy. By noon, take welcome shelter in the church before visiting the wet, moody beach. The afternoon coastal walk to the natural rocks definitely requires waterproof boots. Conclude the evening indoors as rain usually intensifies after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Durazzo",
+                "hu": "Château Durazzo",
+                "ro": "Château Durazzo",
+                "en": "Château Durazzo"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Burgruinen mit Vorsicht; tragen Sie unbedingt rutschfeste Schuhe, da die alten feuchten Steine bei Regen extrem glatt werden können.",
+                "hu": "Fedezze fel a lenyűgöző történelmi várromot a dombon; viseljen csúszásmentes, jó tapadású cipőt, mert a vizes macskakövek rendkívül csúszósak lehetnek.",
+                "ro": "Explorați cu atenție ruinele istorice ale castelului; purtați încălțăminte antiderapantă, deoarece pietrele vechi pot deveni extrem de alunecoase pe ploaie.",
+                "en": "Explore the fascinating historic castle ruins carefully; be sure to wear sturdy, non-slip shoes as the ancient wet stones can become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sant'Antonu",
+                "hu": "Église Sant'Antonu",
+                "ro": "Église Sant'Antonu",
+                "en": "Église Sant'Antonu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und nutzen Sie die Kirche als perfekten, trockenen Zufluchtsort, um sich aufzuwärmen und dem stärksten Regen zu entkommen.",
+                "hu": "Csodálja meg a belső teret, és használja a templomot tökéletes, száraz menedékként, ahol átmelegedhet és megvárhatja a hevesebb záporok végét.",
+                "ro": "Admirați arhitectura interioară și folosiți biserica ca un refugiu uscat perfect pentru a vă încălzi și a scăpa de cele mai puternice averse de ploaie.",
+                "en": "Admire the architecture and use the peaceful church as a perfect, dry sanctuary to warm up and escape the heaviest downpours during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Campomoro",
+                "hu": "Plage de Campomoro",
+                "ro": "Plage de Campomoro",
+                "en": "Plage de Campomoro"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde, dramatische See unter grauen Wolken; bringen Sie einen windfesten Regenschirm mit und bleiben Sie abseits der großen Wellen.",
+                "hu": "Tapasztalja meg a vad, drámai tengert a szürke felhők alatt; hozzon magával szélálló esernyőt, és maradjon tisztes távolságra a kicsapó hullámoktól.",
+                "ro": "Experimentați marea sălbatică și dramatică sub nori cenușii; aduceți o umbrelă rezistentă la vânt și păstrați distanța față de valurile puternice.",
+                "en": "Experience the wild, dramatic sea under grey clouds; bring a heavy-duty, windproof umbrella and keep a safe distance from the crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Uomu",
+                "hu": "L'Uomu",
+                "ro": "L'Uomu",
+                "en": "L'Uomu"
+              },
+              "tip_5lang": {
+                "de": "Der Naturpfad zu diesem Felsen ist bei Nässe oft schlammig; dicke, wasserdichte Wanderschuhe sind hier ein absolutes Muss für sicheren Halt.",
+                "hu": "A sziklához vezető természetes ösvény esőben gyakran sáros; a vastag, vízálló túracipő itt elengedhetetlen a biztonságos, csúszásmentes lépésekhez.",
+                "ro": "Traseul natural către această stâncă este adesea noroios pe ploaie; bocancii de drumeție groși și impermeabili sunt o necesitate absolută aici.",
+                "en": "The nature trail to this rocky point is frequently muddy in the wet; thick, waterproof hiking boots are an absolute necessity here for a safe grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Capu di Locu",
+                "hu": "Menhir de Capu di Locu",
+                "ro": "Menhir de Capu di Locu",
+                "en": "Menhir de Capu di Locu"
+              },
+              "tip_5lang": {
+                "de": "Die mystischen Steine wirken im Regen noch geheimnisvoller; packen Sie Ihre Kamera gut ein und achten Sie auf tiefe Wasserpfützen auf dem Weg.",
+                "hu": "A misztikus kövek az esőben még titokzatosabbak; csomagolja be jól a fényképezőgépét, és ügyeljen a mély tócsákra a helyszínhez vezető úton.",
+                "ro": "Pietrele mistice par și mai enigmatice în ploaie; protejați-vă bine aparatul foto de apă și aveți grijă la bălțile adânci de pe traseu.",
+                "en": "The mystical standing stones appear even more enigmatic in the rain; pack your camera in a waterproof bag and watch for deep puddles on the approach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Wintermorgen an der Burg bietet klare Sicht, aber eisigen Wind. Mittags können Sie sich in der friedlichen Kirche wunderbar aufwärmen. Am Nachmittag werfen die Menhire im tiefen Sonnenlicht lange Schatten. Planen Sie Ihre Rückkehr vor 17:00 Uhr ein, da es schnell dunkel wird und die Temperaturen an der Küste stark fallen.",
+            "hu": "A várnál a csípős téli reggel tiszta kilátást, de jeges szelet hoz. Délben a békés templomban nagyszerűen felmelegedhet egy kicsit. Délután a menhirek a lapos téli napfényben hosszú árnyékokat vetnek. Tervezze meg a visszatérést 17:00 óra előttre, mert a parton gyorsan sötétedik és hirtelen zuhan a hőmérséklet.",
+            "ro": "Dimineața rece de iarnă la castel oferă vizibilitate clară, dar vânt înghețat. La prânz, vă puteți încălzi de minune în biserica liniștită. După-amiaza, menhirele aruncă umbre lungi în soarele coborât. Planificați întoarcerea înainte de ora 17:00, deoarece se întunecă rapid și temperaturile scad brusc pe coastă.",
+            "en": "The brisk winter morning at the castle offers crystal-clear visibility but icy winds. At noon, you can warm up beautifully inside the peaceful church. In the afternoon, the menhirs cast long shadows in the low sunlight. Ensure you head back before 17:00, as dusk falls early and temperatures drop sharply by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château Durazzo",
+                "hu": "Château Durazzo",
+                "ro": "Château Durazzo",
+                "en": "Château Durazzo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, ungetrübte Winteraussicht von der Ruine; ziehen Sie sich nach dem Zwiebelprinzip an, da der Wind hier oben beißend kalt ist.",
+                "hu": "Élvezze a páratlan, tiszta téli kilátást a romoktól; öltözzön meleg, réteges ruházatba, mert a szél itt fent a dombon metszően hideg lehet.",
+                "ro": "Bucurați-vă de priveliștea largă și senină de iarnă de la ruine; îmbrăcați-vă în straturi, deoarece vântul de sus poate fi extrem de rece și tăios.",
+                "en": "Enjoy the expansive, perfectly clear winter views from the ruins; dress warmly in layers as the wind at this elevation can be bitingly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sant'Antonu",
+                "hu": "Église Sant'Antonu",
+                "ro": "Église Sant'Antonu",
+                "en": "Église Sant'Antonu"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche isolieren gut; ein idealer, stiller Ort, um kalte Hände aufzuwärmen und die winterliche Ruhe in sich aufzunehmen.",
+                "hu": "A templom vastag falai jól szigetelnek; ideális, csendes hely, ahol felmelegítheti átfagyott kezeit, és magába szívhatja a téli nyugalmat.",
+                "ro": "Pereții groși ai bisericii izolează bine; un loc ideal și tăcut pentru a vă încălzi mâinile reci și a absorbi liniștea specifică iernii.",
+                "en": "The church's thick walls provide good insulation; it is an ideal, quiet spot to warm your cold hands and absorb the profound winter stillness."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Campomoro",
+                "hu": "Plage de Campomoro",
+                "ro": "Plage de Campomoro",
+                "en": "Plage de Campomoro"
+              },
+              "tip_5lang": {
+                "de": "Ein leerer Winterstrand hat seinen ganz eigenen, rauen Charme; eine winddichte Jacke und eine Mütze sind für den Spaziergang im Sand unerlässlich.",
+                "hu": "Az üres téli strandnak megvan a maga sajátos, nyers varázsa; egy szélálló kabát és meleg sapka elengedhetetlen a homokban tett sétához.",
+                "ro": "O plajă pustie de iarnă are propriul său farmec brut; o jachetă rezistentă la vânt și o căciulă sunt absolut esențiale pentru plimbarea pe nisip.",
+                "en": "A deserted winter beach possesses its own stark, raw charm; a solid windproof jacket and a warm beanie are essential for walking along the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Uomu",
+                "hu": "L'Uomu",
+                "ro": "L'Uomu",
+                "en": "L'Uomu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die rauen Felsformationen; der kalte Seewind ist hier intensiv, also halten Sie sich in Bewegung, um nicht auszukühlen.",
+                "hu": "Csodálja meg a zord sziklaformációkat; a hideg tengeri szél itt rendkívül intenzív, ezért maradjon mozgásban, nehogy gyorsan áthűljön.",
+                "ro": "Admirați formațiunile stâncoase brute; vântul rece dinspre mare este intens aici, așa că rămâneți în mișcare pentru a nu vă răci complet.",
+                "en": "Admire the rugged rock formations; the cold sea breeze is particularly intense here, so keep moving continuously to avoid catching a profound chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Capu di Locu",
+                "hu": "Menhir de Capu di Locu",
+                "ro": "Menhir de Capu di Locu",
+                "en": "Menhir de Capu di Locu"
+              },
+              "tip_5lang": {
+                "de": "Das tief stehende Winterlicht ist ideal für Fotos der alten Steine; treten Sie den Rückweg unbedingt vor 16:30 Uhr an, bevor es dunkel wird.",
+                "hu": "A laposan sütő téli napfény ideális a régi kövek fotózásához; mindenképpen induljon vissza 16:30 előtt, mielőtt ráborul a sötétség az ösvényre.",
+                "ro": "Lumina joasă de iarnă este ideală pentru fotografierea pietrelor antice; începeți neapărat drumul de întoarcere înainte de ora 16:30, pe lumină.",
+                "en": "The low winter light is absolutely perfect for photographing the ancient stones; be sure to start your walk back before 16:30 before darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot egy eldugott, kristálytiszta vizű strandon, majd tekerjen el a lenyűgöző középkori kastélyhoz. A dél a templom kulturális örökségét ötvözi egy hosszú pihenéssel a homokos parton. A délutáni kerékpározás kelet felé visz a zord tájon át, hogy felfedezze az első ősi állókövet. Az este egy utolsó, emlékezetes megállót tartogat egy másik lenyűgöző megalitnál.",
         "ro": "Începeți ziua de ciclism la o plajă retrasă, apoi pedalați spre impresionantul castel medieval. Amiaza combină patrimoniul cultural de la biserică cu o pauză lungă și relaxantă pe nisipul plajei. Ciclismul de după-amiază vă duce spre est, în peisajul accidentat, pentru a descoperi primele pietre antice. Seara aduce o oprire finală memorabilă la un alt menhir impresionant aflat pe traseu.",
         "en": "Kick off your cycling day at a secluded beach known for pristine waters, then pedal over to the impressive medieval castle. Midday combines cultural heritage at the church with a long, relaxing break on the sands of Campomoro beach. Afternoon biking takes you eastward into the rugged landscape to discover the first of the ancient standing stones. Evening brings a final, memorable stop at another impressive menhir just down the trail."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Morgenfahrt zum Strand in einer leuchtenden, wasserdichten Jacke. Mittags bieten Burg und Kirche gute Pausenpunkte im Trockenen. Nachmittags ist auf den unbefestigten Wegen zu den Menhiren große Vorsicht geboten, da Schlamm rutschig ist. Stellen Sie das Rad am Abend ab und suchen Sie sich rechtzeitig einen warmen, trockenen Ort.",
+            "hu": "Vízálló, jól láthatósági dzsekiben tekerjen a partra a nyirkos reggelen. Délben a vár és a templom száraz pihenőpontokat kínál az eső elől. A délutáni tekerés a menhirekhez komoly óvatosságot igényel a csúszós, sáros utakon. Estére tegye le biztonságosan a biciklit, és melegedjen át egy száraz, fedett helyen.",
+            "ro": "Începeți plimbarea umedă de dimineață spre plajă cu o geacă impermeabilă vizibilă. La prânz, castelul și biserica oferă puncte uscate de pauză. Ciclismul de după-amiază spre menhire necesită prudență maximă pe potecile de noroi alunecoase. Seara, parcați bicicleta și căutați rapid un loc cald și uscat.",
+            "en": "Start your wet morning ride to the beach wearing a high-visibility waterproof jacket. Midday offers dry resting spots at the castle and church. Afternoon cycling toward the menhirs demands extreme caution on slippery, muddy trails. By evening, park your bike safely and find a warm, completely dry place to relax."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Canusellu",
+                "hu": "Plage de Canusellu",
+                "ro": "Plage de Canusellu",
+                "en": "Plage de Canusellu"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg zur Bucht kann große Wasserpfützen haben; fahren Sie langsam, nutzen Sie Schutzbleche und genießen Sie die mystische Stimmung am Wasser.",
+                "hu": "Az öbölbe vezető kerékpárúton mély tócsák lehetnek; tekerjen lassan, használjon sárvédőt, és élvezze a vízpart misztikus, esős hangulatát.",
+                "ro": "Pista de biciclete spre golf poate avea bălți mari; mergeți încet, folosiți apărători de noroi și bucurați-vă de atmosfera mistică a apei.",
+                "en": "The cycle path to the bay may have deep puddles; ride slowly, ensure your mudguards are secure, and enjoy the mystical rainy mood by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Durazzo",
+                "hu": "Château Durazzo",
+                "ro": "Château Durazzo",
+                "en": "Château Durazzo"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad sicher ab und gehen Sie vorsichtig; die steilen, nassen Steinwege zur Ruine hinauf sind mit Radschuhen gefährlich glatt.",
+                "hu": "Zárja le biztonságosan a kerékpárt, és haladjon óvatosan; a romokhoz vezető meredek, vizes köves utak kerékpáros cipőben veszélyesen csúsznak.",
+                "ro": "Încuiați bicicleta în siguranță și mergeți cu grijă; căile abrupte și ude din piatră spre ruine sunt periculos de alunecoase în pantofi de ciclism.",
+                "en": "Lock your bike securely and walk carefully; the steep, wet stone paths leading up to the ruins are dangerously slick, especially in cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sant'Antonu",
+                "hu": "Église Sant'Antonu",
+                "ro": "Église Sant'Antonu",
+                "en": "Église Sant'Antonu"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im Inneren der Kirche etwas ab; es ist ein hervorragender Ort, um den Regenschutz zu richten und eine friedliche Pause einzulegen.",
+                "hu": "Szárítkozzon meg egy kicsit a templom belsejében; kiváló hely arra, hogy megigazítsa az esőruházatot, és tartson egy békés, csendes pihenőt.",
+                "ro": "Uscați-vă puțin în interiorul bisericii; este un loc excelent pentru a vă rearanja pelerina de ploaie și a lua o pauză liniștită la adăpost.",
+                "en": "Dry off a bit inside the church; it is an excellent, quiet place to readjust your rain gear and take a peaceful break from the persistent showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Campomoro",
+                "hu": "Plage de Campomoro",
+                "ro": "Plage de Campomoro",
+                "en": "Plage de Campomoro"
+              },
+              "tip_5lang": {
+                "de": "Der feuchte Sand klebt stark an den Reifen; schieben Sie das Rad lieber ein Stück und beobachten Sie das faszinierende, aufgewühlte Meer.",
+                "hu": "A nedves homok erősen tapad a gumikra; inkább tolja egy darabon a kerékpárt, miközben a lenyűgöző, felkorbácsolt tengert figyeli a parton.",
+                "ro": "Nisipul umed se lipește puternic de anvelope; mai bine împingeți bicicleta o porțiune și observați marea fascinantă și agitată de pe plajă.",
+                "en": "Wet sand clings heavily to tires; it is better to push your bike for a stretch while taking time to watch the fascinating, dramatically churning sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Santare",
+                "hu": "Menhir Santare",
+                "ro": "Menhir Santare",
+                "en": "Menhir Santare"
+              },
+              "tip_5lang": {
+                "de": "Die Erdwege zu diesem Menhir verwandeln sich bei Regen in Schlamm; drosseln Sie das Tempo und bremsen Sie weich, um nicht wegzurutschen.",
+                "hu": "Az ehhez a menhirhez vezető földutak esőben sárrá változnak; vegyen vissza a tempóból, és fékezzen finoman, nehogy megcsússzon a kerekekkel.",
+                "ro": "Drumurile de pământ spre acest menhir devin noroi pe ploaie; reduceți viteza și frânați ușor pentru a evita derapajele necontrolate.",
+                "en": "The dirt trails leading to this menhir quickly turn to mud in the rain; reduce your pace significantly and brake very gently to avoid sliding out."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Capo-di-Luogo",
+                "hu": "Menhir de Capo-di-Luogo",
+                "ro": "Menhir de Capo-di-Luogo",
+                "en": "Menhir de Capo-di-Luogo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor aufgeweichten Böden rund um die Steine; planen Sie für den nassen Rückweg etwas mehr Zeit ein, da die Sicht oft schlechter wird.",
+                "hu": "Vigyázzon a kövek körüli felázott talajjal; számoljon egy kicsit több idővel a nedves visszaútra, mivel az eső miatt a látási viszonyok is romlanak.",
+                "ro": "Atenție la solul îmbibat cu apă din jurul pietrelor; alocați ceva mai mult timp pentru drumul umed de întoarcere, deoarece vizibilitatea scade.",
+                "en": "Beware of completely waterlogged ground around the stones; allow extra time for your wet ride back, as visibility often drops during heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit einer kalten, aber wunderschönen Fahrt zur Küste. Mittags haben Sie an der Burg eine klare Sicht, spüren aber den scharfen Gegenwind. Die Nachmittagsfahrt zu den alten Menhiren bietet herrliche tiefstehende Wintersonne. Beenden Sie Ihre Radtour zwingend vor 17:00 Uhr, da die Temperaturen im Dunkeln drastisch fallen.",
+            "hu": "A fagyos téli reggel csípős, de gyönyörű parti tekeréssel indul. Délben a várnál tiszta a kilátás, bár a pofaszél erős és hideg lehet. A délutáni kerékpározás a menhirekhez csodás lapos fényeket kínál. Fejezze be a túrát mindenképp 17:00 óra előtt, mielőtt az esti sötétben a hőmérséklet drasztikusan lecsökken.",
+            "ro": "O dimineață proaspătă de iarnă începe cu o plimbare rece, dar superbă spre coastă. La prânz aveți vizibilitate clară la castel, dar simțiți vântul tăios. Ciclismul de după-amiază spre menhire oferă un soare de iarnă splendid. Terminați turul obligatoriu înainte de 17:00, deoarece temperaturile scad drastic la lăsarea întunericului.",
+            "en": "A brisk winter morning starts with a chilling but spectacularly beautiful ride to the coast. Midday brings clear views at the castle, though the headwind is sharp. The afternoon ride to the menhirs features gorgeous low winter sun. Ensure you finish cycling before 17:00, as temperatures drop drastically once the sun sets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Canusellu",
+                "hu": "Plage de Canusellu",
+                "ro": "Plage de Canusellu",
+                "en": "Plage de Canusellu"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft am Wasser ist sehr erfrischend; winddichte Fahrradhandschuhe sind entscheidend, damit die Finger nicht sofort einfrieren.",
+                "hu": "A hűvös reggeli levegő a vízparton nagyon frissítő; a szélálló kerékpáros kesztyű döntő fontosságú, hogy az ujjai ne fagyjanak le azonnal.",
+                "ro": "Aerul rece al dimineții la malul apei este foarte revigorant; mănușile de ciclism rezistente la vânt sunt cruciale pentru a nu vă îngheța degetele.",
+                "en": "The chilly morning air by the water is deeply refreshing; however, windproof cycling gloves are absolutely crucial to keep your fingers from freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Durazzo",
+                "hu": "Château Durazzo",
+                "ro": "Château Durazzo",
+                "en": "Château Durazzo"
+              },
+              "tip_5lang": {
+                "de": "Nach dem steilen Aufstieg kühlen Sie an der Ruine schnell aus; ziehen Sie sofort eine zusätzliche warme Schicht über, während Sie die Aussicht genießen.",
+                "hu": "A meredek emelkedő után a romoknál gyorsan lehűlhet; azonnal vegyen fel egy plusz meleg réteget, miközben a tiszta téli kilátásban gyönyörködik.",
+                "ro": "După urcarea abruptă, vă veți răci rapid la ruine; puneți-vă imediat un strat cald suplimentar în timp ce vă bucurați de priveliștea de iarnă.",
+                "en": "After the steep climb, you will cool down quickly at the ruins; immediately put on an extra warm layer while you stand and admire the winter views."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sant'Antonu",
+                "hu": "Église Sant'Antonu",
+                "ro": "Église Sant'Antonu",
+                "en": "Église Sant'Antonu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Kirchenvorplatz für eine heiße Teepause aus der Thermoskanne, um wieder richtig Energie für die Weiterfahrt zu tanken.",
+                "hu": "Használja ki a szélvédett templomteret egy forró teás pihenőre a termoszból, hogy újra kellő energiát gyűjtsön a hidegben való továbbhaladáshoz.",
+                "ro": "Profitați de curtea bisericii protejată de vânt pentru o pauză cu ceai fierbinte din termos, pentru a aduna energie pentru continuarea drumului.",
+                "en": "Take advantage of the wind-sheltered churchyard for a hot tea break from your flask to gather some essential warmth and energy to keep riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Campomoro",
+                "hu": "Plage de Campomoro",
+                "ro": "Plage de Campomoro",
+                "en": "Plage de Campomoro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des leeren Strandes im Winter; schützen Sie Hals und Ohren gut vor der salzigen, kalten Brise, wenn Sie am Ufer radeln.",
+                "hu": "Élvezze az üres strand csendjét télen; védje jól a nyakát és a fülét a sós, jéghideg szellőtől, amikor a part mentén teker a kerékpárral.",
+                "ro": "Bucurați-vă de liniștea plajei goale iarna; protejați-vă bine gâtul și urechile de briza sărată și rece când pedalați de-a lungul țărmului.",
+                "en": "Enjoy the absolute silence of the empty beach in winter; protect your neck and ears well from the salty, freezing breeze when cycling near the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Santare",
+                "hu": "Menhir Santare",
+                "ro": "Menhir Santare",
+                "en": "Menhir Santare"
+              },
+              "tip_5lang": {
+                "de": "Im Winter verdecken keine Blätter die Sicht auf die Steine; das goldene Nachmittagslicht eignet sich hervorragend für detailreiche Fotografien.",
+                "hu": "Télen nincsenek levelek, amik eltakarnák a köveket; az aranyló délutáni fények kiválóan alkalmasak a részletgazdag, drámai fotók elkészítéséhez.",
+                "ro": "Iarna nu există frunze care să ascundă pietrele; lumina aurie a după-amiezii este excelentă pentru fotografii detaliate și dramatice.",
+                "en": "In winter, there are no leaves to obscure the view of the stones; the golden afternoon light is absolutely superb for capturing detailed photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Capo-di-Luogo",
+                "hu": "Menhir de Capo-di-Luogo",
+                "ro": "Menhir de Capo-di-Luogo",
+                "en": "Menhir de Capo-di-Luogo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf erste gefrorene Pfützen auf dem Weg; schalten Sie frühzeitig Ihr Fahrradlicht ein, da die Dämmerung sehr plötzlich hereinbricht.",
+                "hu": "Ügyeljen az első befagyott tócsákra a földúton; kapcsolja be időben a kerékpárlámpát, mert a téli szürkület itt a hegyek alatt nagyon hirtelen ereszkedik le.",
+                "ro": "Atenție la primele bălți înghețate de pe drum; aprindeți luminile bicicletei din timp, deoarece amurgul cade foarte brusc în această perioadă.",
+                "en": "Watch out for the first frozen puddles on the trail; turn your bike lights on early, as the winter dusk falls incredibly suddenly in this region."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája csodálatosan indul az eldugott nyugati strandon, majd a fenséges történelmi kastélyhoz vezet. A dél magában foglal egy rövid megállót a templomnál, majd egy kellemes ebédszünetet a központi strandon. A délután a természetes sziklaalakzatok festői kilátópontjainak van fenntartva, érezve az erős parti szeleket. Az este tökéletesen zárja az utazást egy dombvidéki autózással az ősi megalitokhoz.",
         "ro": "Turul dvs. cu mașina începe minunat la plaja vestică izolată, înainte de a conduce spre castelul istoric maiestuos. Amiaza include o scurtă oprire la biserica comunității, urmată de o pauză de prânz direct pe plaja centrală. După-amiaza este rezervată priveliștilor pitorești de la formațiunile stâncoase naturale. Seara încheie perfect călătoria cu o plimbare spre dealuri pentru a admira doi megaliți preistorici.",
         "en": "Your driving tour starts wonderfully at the secluded western beach before motoring to the majestic historic castle. Midday includes a brief stop at the community church followed by a satisfying lunch break right on the expansive central beach. The afternoon is reserved for scenic viewpoints from the natural rock formations, feeling the strong coastal winds. Evening perfectly rounds off the journey with a drive into the hills to admire two ancient prehistoric megaliths."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig auf den nassen Küstenstraßen und genießen Sie den Blick aus dem Trockenen. Mittags erfordern Burg und Kirche kurze, nasse Wege mit dem Regenschirm. Die Nachmittagsfahrt zu den fernen Menhiren ist im Nebel besonders stimmungsvoll. Verbringen Sie den regnerischen Abend anschließend gemütlich im Warmen, weit weg vom nassen Wind.",
+            "hu": "Vezessen óvatosan a vizes, csúszós parti utakon reggel, élvezve a tájat a száraz autóból. Délben a vár és a templom rövid, esernyős sétákat igényel a parkolótól. A délutáni autózás a menhirekhez a ködben különösen hangulatos és misztikus. Az esős estét töltse kényelmesen, zárt térben, távol a kellemetlen nedves széltől.",
+            "ro": "Conduceți prudent dimineața pe drumurile de coastă ude, bucurându-vă de peisaj din mașina uscată. La prânz, castelul și biserica necesită plimbări scurte cu umbrela. Drumul de după-amiază spre menhire este deosebit de misterios în ceață. Petreceți apoi seara ploioasă confortabil în interior, departe de vântul umed.",
+            "en": "Drive carefully on the wet, winding coastal roads this morning, enjoying the landscape from inside your dry car. Midday stops at the castle and church require short, rainy dashes with an umbrella. The afternoon drive out to the menhirs is wonderfully atmospheric in the mist. Spend your rainy evening indoors, away from the wet wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Canusellu",
+                "hu": "Plage de Canusellu",
+                "ro": "Plage de Canusellu",
+                "en": "Plage de Canusellu"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie die wilde Brandung auch wunderbar durch die beschlagenen Scheiben des warmen, geparkten Autos beobachten.",
+                "hu": "Heves esőzés esetén a vad hullámzást kényelmesen megfigyelheti a meleg, biztonságosan leparkolt autó párás ablakain keresztül is.",
+                "ro": "În caz de ploaie puternică, puteți observa valurile sălbatice minunat și prin geamurile aburite ale mașinii calde și parcate în siguranță.",
+                "en": "If the rain gets too heavy, you can wonderfully observe the wild surf directly through the fogged windows of your warmly parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Durazzo",
+                "hu": "Château Durazzo",
+                "ro": "Château Durazzo",
+                "en": "Château Durazzo"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Schirm für den kurzen Fußweg vom Parkplatz zur Ruine mit; Vorsicht, die alten Steinstufen sind bei Nässe extrem tückisch.",
+                "hu": "Vigyen magával egy nagy esernyőt a parkolótól a romokig tartó rövid sétához; vigyázat, a régi kőlépcsők nedvesen rendkívül csúszósak és trükkösek.",
+                "ro": "Luați o umbrelă mare pentru scurta plimbare de la parcare la ruine; atenție, treptele vechi de piatră sunt extrem de înșelătoare la umezeală.",
+                "en": "Grab a large, sturdy umbrella for the short walk from the parking area to the ruins; be very careful as the old stone steps are exceptionally slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sant'Antonu",
+                "hu": "Église Sant'Antonu",
+                "ro": "Église Sant'Antonu",
+                "en": "Église Sant'Antonu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zentrum und flüchten Sie in die Kirche, um dem Regen zu entkommen und die trockene, historische Akustik zu genießen.",
+                "hu": "Parkoljon minél közelebb a központhoz, és meneküljön be a templomba az eső elől, ahol élvezheti a száraz, történelmi falak békés akusztikáját.",
+                "ro": "Parcați aproape de centru și refugiați-vă în biserică pentru a scăpa de ploaie și a vă bucura de acustica uscată și istorică a locului.",
+                "en": "Park as close to the center as possible and dash into the church to completely escape the rain while enjoying the dry, historical acoustics inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Campomoro",
+                "hu": "Plage de Campomoro",
+                "ro": "Plage de Campomoro",
+                "en": "Plage de Campomoro"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und ziehen Sie Gummistiefel an, wenn Sie am verregneten Strand spazieren gehen wollen; der nasse Sand ist tief.",
+                "hu": "Hagyja hátra az autót, és húzzon vastag gumicsizmát, ha sétálni szeretne a sokatmondó, esős tengerparton; a nedves homok igen mély és tapadós.",
+                "ro": "Lăsați mașina și încălțați cizme de cauciuc dacă doriți să vă plimbați pe plaja ploioasă; nisipul umed este adânc și se lipește puternic.",
+                "en": "Leave the car locked and put on high rubber boots if you want to walk along the rainy beach; the wet sand is deep and clings heavily to footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Uomu",
+                "hu": "L'Uomu",
+                "ro": "L'Uomu",
+                "en": "L'Uomu"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber nasser Fußweg vom nahen Straßenrand; eine gute Regenjacke ist Pflicht, um den Felsen ohne völlig durchnässte Kleidung zu sehen.",
+                "hu": "Rövid, de vizes séta az út széléről; egy minőségi esőkabát kötelező, ha nem akar teljesen átázott ruhában visszaszállni a fűtött autóba.",
+                "ro": "O plimbare scurtă, dar umedă de la marginea drumului; o geacă de ploaie bună este obligatorie pentru a vedea stânca fără a vă uda complet hainele.",
+                "en": "A short but inevitably wet walk from the roadside; a high-quality raincoat is mandatory if you want to see the rock without returning totally soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Santare",
+                "hu": "Menhir Santare",
+                "ro": "Menhir Santare",
+                "en": "Menhir Santare"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Fahren auf tiefere Wasserpfützen auf den Nebenstraßen; der Stein selbst wirkt im grauen Regenlicht besonders imposant.",
+                "hu": "Vezetés közben figyeljen a mellékutakon kialakuló mélyebb víztócsákra; maga a menhir a szürke esős fényben különösen impozánsnak hat.",
+                "ro": "Fiți atenți la bălțile mai adânci de pe drumurile secundare în timp ce conduceți; piatra în sine pare deosebit de impunătoare în lumina cenușie a ploii.",
+                "en": "Watch closely for deeper water puddles on the secondary roads while driving; the standing stone itself looks particularly imposing in the grey rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Capo-di-Luogo",
+                "hu": "Menhir de Capo-di-Luogo",
+                "ro": "Menhir de Capo-di-Luogo",
+                "en": "Menhir de Capo-di-Luogo"
+              },
+              "tip_5lang": {
+                "de": "Der umliegende Boden ist meistens aufgeweicht; betrachten Sie den Menhir vom Wegesrand und fahren Sie bei starkem Regen langsam zurück.",
+                "hu": "A környező talaj többnyire teljesen felázott; inkább az út széléről csodálja meg a menhirt, és a heves esőben nagyon lassan vezessen visszafelé.",
+                "ro": "Solul din jur este de obicei complet îmbibat; priviți menhirul de la marginea drumului și conduceți înapoi foarte încet pe ploaie puternică.",
+                "en": "The surrounding ground is generally waterlogged; consider viewing the menhir strictly from the roadside and drive back very slowly in heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie morgens die warme Fahrt zu den leeren, rauen Winterstränden. Mittags bieten die historischen Stätten klare, eisige Luft für kurze Spaziergänge vom Auto aus. Nachmittags werfen die Menhire im warmen Winterlicht lange Schatten, wenn Sie vorbeifahren. Stellen Sie sicher, dass Sie vor 17:00 Uhr zurückkehren, bevor die Straßen dunkel und potenziell glatt werden.",
+            "hu": "Élvezze a fűtött autót a kihalt, zord téli partok reggeli felfedezésekor. Délben a történelmi helyszínek friss, fagyos levegőt nyújtanak a parkolótól tett rövid sétákhoz. Délután a menhirek közt autózva hosszú árnyékokat rajzol a téli nap. Térjen vissza mindenképp 17:00 előtt, hogy elkerülje a sötét és jegesedő utakat.",
+            "ro": "Bucurați-vă de mașina caldă dimineața explorând plajele pustii și brute de iarnă. Prânzul oferă aer rece și proaspăt la siturile istorice pentru plimbări scurte. Umbrele se lungesc după-amiaza la menhire în lumina caldă de iarnă. Întoarceți-vă neapărat înainte de 17:00, evitând drumurile întunecate și potențial înghețate.",
+            "en": "Enjoy the cozy warmth of your car while driving past empty, rugged winter beaches this morning. Midday offers crisp, freezing air for short walks from the parking spots to the historical sites. Afternoon driving reveals long shadows around the menhirs. Ensure you drive back before 17:00, before the roads become dark and potentially icy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Canusellu",
+                "hu": "Plage de Canusellu",
+                "ro": "Plage de Canusellu",
+                "en": "Plage de Canusellu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Strand und atmen Sie die eiskalte, klare Meeresluft ein; eine warme Mütze ist hier selbst für einen fünfminütigen Stopp nötig.",
+                "hu": "Parkoljon közvetlenül a strandon, és lélegezze be a jéghideg, tiszta tengeri levegőt; egy meleg sapka itt még egy ötperces megállóhoz is elengedhetetlen.",
+                "ro": "Parcați direct pe plajă și respirați aerul mării rece ca gheața; o căciulă caldă este necesară aici chiar și pentru o oprire scurtă de cinci minute.",
+                "en": "Park right by the deserted beach and breathe in the freezing, crystal-clear sea air; a warm hat is absolutely essential here even for a quick five-minute stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Château Durazzo",
+                "hu": "Château Durazzo",
+                "ro": "Château Durazzo",
+                "en": "Château Durazzo"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich für den Weg vom Parkplatz zur Burg dick ein; der Winterwind weht ungehindert über den Hügel und lässt die Temperaturen sinken.",
+                "hu": "Öltözzön fel vastagon a parkolótól a várig tartó útra; a téli szél akadálytalanul fúj végig a dombon, jelentősen csökkentve a hőérzetet.",
+                "ro": "Îmbrăcați-vă gros pentru drumul de la parcare la castel; vântul de iarnă bate nestingherit peste deal și scade drastic temperatura resimțită.",
+                "en": "Bundle up very warmly for the exposed walk from the parking lot to the castle; the winter wind sweeps freely over the hill, dropping temperatures fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sant'Antonu",
+                "hu": "Église Sant'Antonu",
+                "ro": "Église Sant'Antonu",
+                "en": "Église Sant'Antonu"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zwischenstopp, um die steifen Beine zu vertreten; im Inneren der Kirche ist es windstill und erstaunlich friedlich an Wintertagen.",
+                "hu": "Kiváló megálló a gémberedett lábak kinyújtóztatására; a templom belsejében szélcsend van, és a téli napokon meglepően békés a hangulat.",
+                "ro": "O oprire excelentă pentru a vă întinde picioarele amorțite; în interiorul bisericii nu este vânt și este surprinzător de liniște în zilele de iarnă.",
+                "en": "An excellent stop to stretch stiff legs out of the car; the interior of the church blocks the wind entirely and feels remarkably peaceful on winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Campomoro",
+                "hu": "Plage de Campomoro",
+                "ro": "Plage de Campomoro",
+                "en": "Plage de Campomoro"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an und machen Sie schnell ein paar Fotos von der menschenleeren Bucht, bevor Sie sich schnell wieder in den beheizten Wagen setzen.",
+                "hu": "Álljon meg, és készítsen gyorsan pár fotót a teljesen elhagyatott öbölről, mielőtt az éles szél elől gyorsan visszaülne a fűtött autó kényelmébe.",
+                "ro": "Opriți și faceți rapid câteva fotografii ale golfului complet pustiu, înainte de a vă retrage la fel de repede în confortul mașinii încălzite.",
+                "en": "Pull over and quickly snap a few photos of the entirely deserted bay before rushing right back into the welcoming comfort of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Uomu",
+                "hu": "L'Uomu",
+                "ro": "L'Uomu",
+                "en": "L'Uomu"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Heizung auf Temperatur zu halten, während Sie für einen Blick auf diesen markanten Felsen aussteigen.",
+                "hu": "Hagyja rövid ideig járni a motort, hogy a fűtés melegen tartsa a belteret, miközben kiszáll egy rövid pillantást vetni erre a markáns sziklára.",
+                "ro": "Lăsați motorul pornit scurt timp pentru a menține căldura în interior, în timp ce coborâți pentru a arunca o privire la această stâncă proeminentă.",
+                "en": "Consider leaving the engine running briefly to keep the heater blasting inside while you step out for a quick, cold look at this prominent rock."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Santare",
+                "hu": "Menhir Santare",
+                "ro": "Menhir Santare",
+                "en": "Menhir Santare"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die ländlichen Straßen mit Bedacht; die tiefstehende Nachmittagssonne blendet im Winter stark auf der Windschutzscheibe.",
+                "hu": "Vezessen nagy körültekintéssel a vidéki utakon; a délutáni lapos téli napsütés ilyenkor nagyon erősen vakíthat a szélvédőn keresztül.",
+                "ro": "Conduceți cu mare prudență pe drumurile rurale; soarele coborât de iarnă orbește extrem de puternic prin parbriz în timpul după-amiezii.",
+                "en": "Drive the rural roads with considerable care; the low-hanging afternoon winter sun can cause severe blinding glare directly on your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Capo-di-Luogo",
+                "hu": "Menhir de Capo-di-Luogo",
+                "ro": "Menhir de Capo-di-Luogo",
+                "en": "Menhir de Capo-di-Luogo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den letzten Halt im magischen Winterlicht, aber machen Sie sich zügig auf den Rückweg; nach 17:00 Uhr droht auf den Landstraßen oft Bodenfrost.",
+                "hu": "Élvezze az utolsó megállót a varázslatos téli fényben, de induljon vissza sietve; 17:00 után a vidéki utakon gyakran komoly talajmenti fagy fenyeget.",
+                "ro": "Bucurați-vă de ultima oprire în lumina magică de iarnă, dar grăbiți-vă înapoi; după 17:00 pe drumurile rurale apare adesea înghețul la sol.",
+                "en": "Enjoy this final stop bathed in magical winter light, but start heading back promptly; after 17:00, black ice often threatens these rural side roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

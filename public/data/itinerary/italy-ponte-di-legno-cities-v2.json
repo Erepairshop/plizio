@@ -137,6 +137,168 @@
         "hu": "A ponte di legnó-i séta a falu központjában kezdődik a gyönyörű Santissima Trinità templomnál. Délig a történelmi Castello di Poia várához sétál, hogy elmerüljön az alpesi múltban. A délután frissítő megállót kínál a helyi uszodában, mielőtt az északi ösvények felé indul. A nap a Santi Fabiano e Sabastiano festői templománál fejeződik be békésen.",
         "ro": "Turul dvs. de plimbare în Ponte di Legno începe în centrul satului cu frumoasa Santissima Trinità. Până la amiază, veți trece pe lângă istoricul Castello di Poia. După-amiaza aduce o oprire revigorantă la piscina locală, înainte de a vă îndrepta spre traseele nordice. Călătoria dvs. se încheie liniștit la biserica pitorească Santi Fabiano e Sabastiano.",
         "en": "Your walking tour of Ponte di Legno begins in the village center with the beautiful Santissima Trinità. By midday, you will have wandered past the historic Castello di Poia to immerse yourself in the Alpine past. Afternoon brings a refreshing stop at the local pool before heading towards the northern trails. Your journey concludes peacefully at the scenic church of Santi Fabiano e Sabastiano."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Start your wet morning inside the Trinity Church. Midday, explore the castle ruins with a sturdy umbrella, then warm up at the indoor pool. The afternoon walk to San Giovanni Battista requires waterproof shoes. Conclude your rainy evening at Santi Fabiano e Sabastiano, finding shelter and peace.",
+            "hu": "Kezdje az esős reggelt a Szentháromság-templom menedékében. Délben esernyővel fedezze fel a várromot, majd melegedjen fel a fedett uszodában. A délutáni séta a San Giovanni Battista felé vízálló cipőt igényel. Zárja a nedves estét a Santi Fabiano e Sabastiano templomban, békére lelve az eső elől.",
+            "de": "Beginnen Sie den regnerischen Morgen in der Dreifaltigkeitskirche. Erkunden Sie mittags die Burgruine mit einem Regenschirm und wärmen Sie sich im Hallenbad auf. Der Nachmittagsspaziergang erfordert wasserdichte Schuhe. Beenden Sie den nassen Abend in Santi Fabiano e Sabastiano, wo Sie Schutz finden.",
+            "ro": "Începeți dimineața ploioasă la adăpostul Bisericii Trinității. La amiază, explorați ruinele castelului cu o umbrelă, apoi încălziți-vă la piscina interioară. Plimbarea de după-amiază necesită încălțăminte impermeabilă. Încheiați seara umedă la Santi Fabiano e Sabastiano, găsind un refugiu liniștit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "en": "Admire the beautiful frescoes while staying completely dry inside; remember to leave your wet umbrella at the entrance.",
+                "hu": "Csodálja meg a gyönyörű freskókat teljesen szárazon; ne felejtse el a bejáratnál hagyni vizes esernyőjét.",
+                "de": "Bewundern Sie die schönen Fresken im Trockenen; denken Sie daran, Ihren nassen Regenschirm am Eingang zu lassen.",
+                "ro": "Admirați frescele frumoase stând la adăpost; nu uitați să lăsați umbrela udă la intrarea în biserică."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Poia",
+                "hu": "Castello di Poia",
+                "ro": "Castello di Poia",
+                "en": "Castello di Poia"
+              },
+              "tip_5lang": {
+                "en": "The castle ruins are atmospheric in the rain, but the stone paths become very slippery, so wear shoes with excellent grip.",
+                "hu": "A várrom hangulatos az esőben, de a köves ösvények nagyon csúszósak, ezért viseljen kiváló tapadású cipőt.",
+                "de": "Die Burgruine ist bei Regen stimmungsvoll, aber die Steinwege sind rutschig, tragen Sie also Schuhe mit gutem Profil.",
+                "ro": "Ruinele castelului sunt pline de atmosferă pe ploaie, dar potecile de piatră alunecă, așa că purtați încălțăminte adecvată."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Comunale",
+                "hu": "Piscina Comunale",
+                "ro": "Piscina Comunale",
+                "en": "Piscina Comunale"
+              },
+              "tip_5lang": {
+                "en": "Enjoy a relaxing swim in the heated indoor pool, the perfect way to escape the cold rain and dry off comfortably.",
+                "hu": "Élvezze a pihentető úszást a fűtött beltéri medencében, ami tökéletes menedék a hideg eső elől.",
+                "de": "Genießen Sie ein entspannendes Bad im beheizten Innenpool, die perfekte Möglichkeit, dem kalten Regen zu entfliehen.",
+                "ro": "Bucurați-vă de o baie relaxantă în piscina interioară încălzită, refugiul perfect pentru a scăpa de ploaia rece."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "en": "View the intricate wooden altars in this historic church; step carefully on the wet porch stones as you enter.",
+                "hu": "Tekintse meg a történelmi templom bonyolult faoltárait; lépjen óvatosan a nedves tornáckövekre a bejáratnál.",
+                "de": "Betrachten Sie die kunstvollen Holzaltäre in dieser historischen Kirche; treten Sie vorsichtig auf die nassen Stufen.",
+                "ro": "Vedeți altarele din lemn sculptat din această biserică istorică; pășiți cu grijă pe treptele umede de la intrare."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Fabiano e Sabastiano",
+                "hu": "Chiesa dei Santi Fabiano e Sabastiano",
+                "ro": "Chiesa dei Santi Fabiano e Sabastiano",
+                "en": "Chiesa dei Santi Fabiano e Sabastiano"
+              },
+              "tip_5lang": {
+                "en": "Take in the serene interior of this charming church, a great place to wait out a sudden late afternoon downpour.",
+                "hu": "Szívja magába a bájos templom derűs belső terét, amely nagyszerű hely egy hirtelen késő délutáni zápor átvészelésére.",
+                "de": "Genießen Sie den ruhigen Innenraum dieser charmanten Kirche, ein toller Ort, um einen späten Nachmittagsschauer abzuwarten.",
+                "ro": "Admirați interiorul senin al acestei biserici fermecătoare, locul ideal pentru a aștepta trecerea unei averse târzii."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Crisp winter mornings start at the Trinity Church. Midday visits to the castle require warm layers and snow boots. Afternoon swimming indoors offers a tropical contrast to the snowy streets. By late afternoon, twilight arrives; complete your walk to the historic churches as the town lights up at 5 PM.",
+            "hu": "A fagyos reggel a Szentháromság-templomnál kezdődik. A várromhoz meleg öltözet és hótaposó kell délben. A délutáni benti úszás trópusi kontraszt a havas utcákhoz. Késő délután hamar sötétedik, fejezze be a sétát a történelmi templomoknál, mielőtt 17:00-kor felgyúlnak a fények.",
+            "de": "Klare Wintermorgen beginnen an der Dreifaltigkeitskirche. Mittagsbesuche der Burg erfordern warme Kleidung und Schneestiefel. Das Schwimmen im Innenbereich bietet einen Kontrast zu den verschneiten Straßen. Wenn es um 17 Uhr dunkel wird, beenden Sie Ihren Spaziergang bei den historischen Kirchen.",
+            "ro": "Diminețile de iarnă încep la Biserica Trinității. Vizita la castel necesită haine groase și cizme de zăpadă. Înotul de după-amiază oferă un contrast tropical față de străzile înzăpezite. Pe măsură ce se întunecă devreme la ora 17, încheiați plimbarea vizitând bisericile iluminate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "en": "Marvel at the historic details in the morning light; the thick stone walls mean it's just as chilly inside, so keep your coat on.",
+                "hu": "Csodálja meg a történelmi részleteket a reggeli fényben; a vastag kőfalak miatt bent is hűvös van, tartsa magán a kabátot.",
+                "de": "Bewundern Sie die historischen Details im Morgenlicht; wegen der dicken Steinmauern ist es drinnen kühl, behalten Sie die Jacke an.",
+                "ro": "Admirați detaliile istorice în lumina dimineții; zidurile groase mențin frigul înăuntru, așa că păstrați haina pe dumneavoastră."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Poia",
+                "hu": "Castello di Poia",
+                "ro": "Castello di Poia",
+                "en": "Castello di Poia"
+              },
+              "tip_5lang": {
+                "en": "The snow-covered castle offers stunning winter photography opportunities, but beware of hidden ice patches under the snow.",
+                "hu": "A hóval borított kastély lenyűgöző téli fotótémát kínál, de óvakodjon a hó alatti rejtett jégfoltoktól.",
+                "de": "Die schneebedeckte Burg bietet tolle Fotomotive im Winter, aber achten Sie auf versteckte Eisflächen unter dem Schnee.",
+                "ro": "Castelul acoperit de zăpadă oferă oportunități superbe de fotografie, dar feriți-vă de peticele de gheață ascunse."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Comunale",
+                "hu": "Piscina Comunale",
+                "ro": "Piscina Comunale",
+                "en": "Piscina Comunale"
+              },
+              "tip_5lang": {
+                "en": "Thaw out completely in the heated pool and saunas; make sure your hair is totally dry before heading back into the freezing air.",
+                "hu": "Olvadjon ki teljesen a fűtött medencében és a szaunákban; szárítsa meg teljesen a haját, mielőtt újra kimenne a fagyba.",
+                "de": "Tauen Sie im beheizten Pool und den Saunen auf; stellen Sie sicher, dass Ihre Haare trocken sind, bevor Sie in die Kälte gehen.",
+                "ro": "Dezghețați-vă complet în piscina încălzită și saune; asigurați-vă că aveți părul complet uscat înainte de a ieși în aerul înghețat."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "en": "Admire the beautiful religious art in this peaceful setting; arriving around 4 PM means you'll catch the last natural daylight.",
+                "hu": "Csodálja meg a gyönyörű egyházi művészetet ebben a békés környezetben; 16 óra körül érkezve még elcsípi az utolsó természetes fényt.",
+                "de": "Bewundern Sie die religiöse Kunst in friedlicher Umgebung; wenn Sie gegen 16 Uhr ankommen, fangen Sie das letzte Tageslicht ein.",
+                "ro": "Admirați arta religioasă în acest cadru pașnic; sosind în jur de ora 16:00, veți prinde ultima lumină naturală a zilei."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Fabiano e Sabastiano",
+                "hu": "Chiesa dei Santi Fabiano e Sabastiano",
+                "ro": "Chiesa dei Santi Fabiano e Sabastiano",
+                "en": "Chiesa dei Santi Fabiano e Sabastiano"
+              },
+              "tip_5lang": {
+                "en": "The exterior is beautifully illuminated against the winter night sky; the pathway can be frosty, so tread carefully after sunset.",
+                "hu": "A külseje gyönyörűen megvilágított a téli éjszakai égbolt előtt; az ösvény fagyos lehet, ezért sötétedés után óvatosan lépkedjen.",
+                "de": "Die Fassade ist vor dem winterlichen Nachthimmel wunderschön beleuchtet; der Weg kann frostig sein, gehen Sie nach Sonnenuntergang vorsichtig.",
+                "ro": "Exteriorul este frumos iluminat pe cerul nopții de iarnă; aleea poate fi înghețată, așa că pășiți cu grijă după apusul soarelui."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros kalandot a központi templomnál, majd tekerjen nyugat felé a festői San Martino Vescovo felé. A déli nap a Castello di Poia romjaihoz és egy pihentető medencés szünethez vezet. Délután meghódítja a déli emelkedőt a történelmi Corno d'Aola erőd felé. Az este beálltával pedig lenyűgöző hegyi panorámákat csodálhat meg ebből a magaslati pontból.",
         "ro": "Începeți aventura dvs. pe bicicletă la biserica centrală, apoi pedalați spre vest spre San Martino Vescovo. Soarele de amiază vă conduce la ruinele castelului Poia și o pauză la piscină. După-amiaza, provocați panta sudică spre fortăreața istorică Corno d'Aola. Seara coboară în timp ce absorbiți panoramele montane spectaculoase din acest punct de observație înalt.",
         "en": "Start your cycling adventure at the central church before pedaling westward towards the scenic San Martino Vescovo. The midday sun guides you to the striking ruins of Castello di Poia and a relaxing pool break. In the afternoon, you challenge the southern incline towards the historic Corno d'Aola fortress. Evening descends as you absorb the spectacular mountain panoramas from your elevated vantage point."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "A wet morning ride starts safely at the Trinity Church. Navigate carefully on slick roads to San Martino Vescovo. Approaching the castle midday requires caution on muddy trails. Dry off at the indoor pool in the afternoon. End your challenging rainy ride at Corno d'Aola, ensuring your brakes are reliable for descents.",
+            "hu": "A nedves reggeli túra a Szentháromság-templomnál kezdődik. Óvatosan tekerjen a csúszós utakon a San Martino Vescovo felé. A várhoz vezető saras ösvényeken délben lassítson. Délután szárítkozzon meg az uszodában. Zárja a kihívásokkal teli utat a Corno d'Aola erődítménynél, jó fékeket használva a lejtőkön.",
+            "de": "Eine nasse Morgenfahrt beginnt sicher an der Dreifaltigkeitskirche. Fahren Sie vorsichtig auf rutschigen Straßen nach San Martino Vescovo. Der schlammige Weg zur Burg erfordert mittags Vorsicht. Trocknen Sie sich nachmittags im Hallenbad ab. Beenden Sie die Fahrt am Corno d'Aola, testen Sie Ihre Bremsen für die Abfahrt.",
+            "ro": "Cursa umedă de dimineață începe la Biserica Trinității. Pedalați cu grijă pe drumurile alunecoase spre San Martino Vescovo. Abordarea castelului la amiază necesită prudență pe potecile noroioase. Uscați-vă la piscină după-amiaza. Încheiați la Corno d'Aola, asigurându-vă că frânele sunt bune pe coborâre."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "en": "Take a break from the rain to admire the historic sanctuary; pack a reliable poncho for the cycling segments ahead.",
+                "hu": "Pihenjen meg az eső elől a történelmi szentélyben; csomagoljon be egy megbízható poncsót az előtte álló kerékpáros szakaszokra.",
+                "de": "Machen Sie eine Pause vom Regen, um das Heiligtum zu bewundern; packen Sie einen zuverlässigen Poncho für die Radstrecken ein.",
+                "ro": "Luați o pauză de la ploaie pentru a admira sanctuarul istoric; împachetați un poncho impermeabil pentru traseul cu bicicleta."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Martino Vescovo",
+                "hu": "Chiesa di San Martino Vescovo",
+                "ro": "Chiesa di San Martino Vescovo",
+                "en": "Chiesa di San Martino Vescovo"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the quiet interior of this small church; use mudguards on your bike to prevent splashing from the wet town roads.",
+                "hu": "Élvezze a kis templom csendes belső terét; használjon sárvédőt a kerékpárján, hogy elkerülje a felverődő vizet a városi utakon.",
+                "de": "Genießen Sie das ruhige Innere dieser kleinen Kirche; benutzen Sie Schutzbleche an Ihrem Fahrrad gegen Spritzwasser von den nassen Straßen.",
+                "ro": "Bucurați-vă de interiorul liniștit al acestei biserici; folosiți apărători de noroi pentru a preveni stropirea de pe drumurile ude."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Poia",
+                "hu": "Castello di Poia",
+                "ro": "Castello di Poia",
+                "en": "Castello di Poia"
+              },
+              "tip_5lang": {
+                "en": "The historical ruins look dramatic under storm clouds; walk your bike up the final stretch as the wet stones offer zero traction.",
+                "hu": "A történelmi romok drámaian hatnak a viharfelhők alatt; az utolsó szakaszon tolja a biciklit, mert a vizes kövek nagyon csúsznak.",
+                "de": "Die historischen Ruinen wirken unter Sturmwolken dramatisch; schieben Sie Ihr Rad das letzte Stück, da nasse Steine keine Traktion bieten.",
+                "ro": "Ruinele arată dramatic sub norii de furtună; mergeți pe lângă bicicletă pe ultima porțiune, deoarece pietrele ude alunecă tare."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Comunale",
+                "hu": "Piscina Comunale",
+                "ro": "Piscina Comunale",
+                "en": "Piscina Comunale"
+              },
+              "tip_5lang": {
+                "en": "The perfect midday refuge to swim and escape the downpours; securely lock your bike under a nearby shelter if possible.",
+                "hu": "Tökéletes déli menedék az úszáshoz és az esőzés elkerüléséhez; lehetőség szerint zárja le kerékpárját egy közeli fedett helyen.",
+                "de": "Der perfekte Mittagszufluchtsort zum Schwimmen vor dem Regen; schließen Sie Ihr Fahrrad, wenn möglich, unter einem Unterstand sicher ab.",
+                "ro": "Refugiul perfect la amiază pentru a înota și a scăpa de ploaie; legați-vă bicicleta în siguranță sub un acoperiș, dacă este posibil."
+              }
+            },
+            {
+              "name": {
+                "de": "Corno d'Aola",
+                "hu": "Corno d'Aola",
+                "ro": "Corno d'Aola",
+                "en": "Corno d'Aola"
+              },
+              "tip_5lang": {
+                "en": "Explore this imposing structure at the route's end; riding down the mountain in the rain demands excellent brakes and high visibility gear.",
+                "hu": "Fedezze fel ezt az impozáns erődítményt; az esőben való hegyi ereszkedés kiváló fékeket és jól láthatósági felszerelést követel meg.",
+                "de": "Erkunden Sie dieses imposante Bauwerk; die Abfahrt im Regen erfordert hervorragende Bremsen und gut sichtbare Kleidung.",
+                "ro": "Explorați această structură impunătoare la final; coborârea de pe munte pe ploaie necesită frâne excelente și echipament vizibil."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter cycling starts bracingly at the Trinity Church. The morning route to San Martino Vescovo requires thermal layers and winter tires. Visit the castle at noon when it's warmest. After an indoor swim, conquer the climb to Corno d'Aola before the sun sets rapidly around 17:00, making descents icy.",
+            "hu": "A téli kerékpározás frissen indul a Szentháromság-templomnál. A San Martino Vescovo felé termo ruházat és téli gumi szükséges. Délben, a legmelegebb órákban látogassa meg a várat. Az uszoda után hódítsa meg a Corno d'Aola erődöt a 17:00 körüli gyors naplemente előtt, mert utána az utak jegesednek.",
+            "de": "Das Winterradeln beginnt erfrischend an der Dreifaltigkeitskirche. Der Weg nach San Martino Vescovo erfordert Thermokleidung und Winterreifen. Besuchen Sie die Burg mittags. Nach dem Schwimmen erklimmen Sie Corno d'Aola, bevor die Sonne gegen 17 Uhr untergeht und die Abfahrten eisig werden.",
+            "ro": "Ciclismul de iarnă începe la Biserica Trinității. Traseul spre San Martino Vescovo necesită haine termice și anvelope de iarnă. Vizitați castelul la amiază. După o baie interioară, cuceriți urcarea spre Corno d'Aola înainte ca soarele să apună rapid în jur de 17:00, făcând coborârile înghețate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "en": "View the stunning interior artwork; keep your cycling gloves on until you're inside, as morning handlebars are freezing cold.",
+                "hu": "Tekintse meg a lenyűgöző belső műalkotásokat; tartsa magán a kerékpáros kesztyűt, amíg be nem ér, mert a kormány reggel jéghideg.",
+                "de": "Betrachten Sie die atemberaubenden Kunstwerke; behalten Sie die Radhandschuhe an, bis Sie drinnen sind, da der Lenker eiskalt ist.",
+                "ro": "Vedeți arta interioară impresionantă; păstrați mănușile de ciclism până intrați, deoarece ghidonul este foarte rece dimineața."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Martino Vescovo",
+                "hu": "Chiesa di San Martino Vescovo",
+                "ro": "Chiesa di San Martino Vescovo",
+                "en": "Chiesa di San Martino Vescovo"
+              },
+              "tip_5lang": {
+                "en": "A peaceful stop to catch your breath; ensure your bike's tire pressure is slightly lowered for better grip on frosty village roads.",
+                "hu": "Békés megálló, ahol kifújhatja magát; a fagyos falusi utakon való jobb tapadás érdekében kissé csökkentse a guminyomást.",
+                "de": "Ein ruhiger Stopp zum Verschnaufen; senken Sie den Reifendruck leicht ab, um auf frostigen Dorfstraßen besseren Halt zu haben.",
+                "ro": "O oprire pașnică pentru a vă trage sufletul; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe drumurile înghețate."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Poia",
+                "hu": "Castello di Poia",
+                "ro": "Castello di Poia",
+                "en": "Castello di Poia"
+              },
+              "tip_5lang": {
+                "en": "The snow-dusted ruins are breathtaking; the approach path is steep and likely packed with snow, so dismount if it gets too slick.",
+                "hu": "A hóval hintett romok lélegzetelállítóak; a megközelítési út meredek és havas, ezért szálljon le, ha túlságosan csúszik.",
+                "de": "Die schneebedeckten Ruinen sind atemberaubend; der Zugangsweg ist steil und verschneit, steigen Sie ab, wenn es zu rutschig wird.",
+                "ro": "Ruinele pudrate cu zăpadă sunt uluitoare; aleea de acces este abruptă și plină de zăpadă, așa că descălecați dacă alunecă prea tare."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Comunale",
+                "hu": "Piscina Comunale",
+                "ro": "Piscina Comunale",
+                "en": "Piscina Comunale"
+              },
+              "tip_5lang": {
+                "en": "Rejuvenate your frozen muscles in the warm water; dry your hair thoroughly to prevent catching a severe chill on the final leg.",
+                "hu": "Frissítse fel átfagyott izmait a meleg vízben; alaposan szárítsa meg a haját, nehogy komolyan megfázzon az utolsó szakaszon.",
+                "de": "Regenerieren Sie Ihre gefrorenen Muskeln im warmen Wasser; trocknen Sie Ihre Haare gründlich, um sich auf der letzten Etappe nicht zu erkälten.",
+                "ro": "Revitalizați-vă mușchii înghețați în apa caldă; uscați-vă bine părul pentru a preveni o răceală severă pe ultima porțiune a traseului."
+              }
+            },
+            {
+              "name": {
+                "de": "Corno d'Aola",
+                "hu": "Corno d'Aola",
+                "ro": "Corno d'Aola",
+                "en": "Corno d'Aola"
+              },
+              "tip_5lang": {
+                "en": "The high-altitude fortress offers stark, frosty vistas; leave before 4:30 PM, as the descent becomes dangerously dark and icy very quickly.",
+                "hu": "A magasan fekvő erőd zord, fagyos kilátást nyújt; induljon vissza 16:30 előtt, mert a lejtő nagyon gyorsan sötétté és jegessé válik.",
+                "de": "Die hoch gelegene Festung bietet frostige Ausblicke; brechen Sie vor 16:30 Uhr auf, da der Abstieg sehr schnell gefährlich dunkel und eisig wird.",
+                "ro": "Fortăreața la altitudine oferă priveliști aspre și înghețate; plecați înainte de 16:30, deoarece coborârea devine periculos de întunecată și înghețată."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós túrája a központi Santissima Trinità templománál kezdődik, mielőtt a hangulatos Santa Maria felé venné az irányt. Dél körül a San Martino Vescovo és a Castello di Poia várromjait fedezheti fel. A délutáni út dél felé tart, hogy meghódítsa a lenyűgöző Corno d'Aola magaslati erődöt. Zárja a vezetést északon, a Santi Fabiano e Sabastiano nyugodt szentélyénél.",
         "ro": "Călătoria începe la Santissima Trinità centrală înainte de a merge lin spre fermecătoarea Santa Maria. În jurul prânzului, veți descoperi atât San Martino Vescovo, cât și ruinele aspre de la Castello di Poia. Traseul de după-amiază urcă spre sud pentru a explora fortăreața Corno d'Aola. Încheiați-vă turul cu mașina conducând spre nord spre sanctuarul liniștit de pe munte.",
         "en": "Your drive begins with the central Santissima Trinità before smoothly heading out to the charming Santa Maria. Around midday, you will discover both San Martino Vescovo and the rugged Castello di Poia ruins. The afternoon drive climbs southwards to explore the impressive Corno d'Aola high-altitude fortress. Conclude your motoring tour by driving north to the tranquil sanctuary of Santi Fabiano e Sabastiano."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Driving on a rainy day offers convenience. Start at the Trinity Church, jumping quickly from car to shelter. Navigate cautiously to Santa Maria and San Martino. Midday, visit the castle with a good umbrella. The drive up to Corno d'Aola requires fog lights. Finish at Santi Fabiano e Sabastiano before dark.",
+            "hu": "Az esős napon a vezetés kényelmet nyújt. Kezdje a Szentháromság-templomnál, gyorsan behúzódva az autóba. Óvatosan vezessen a Santa Maria és San Martino felé. Délben esernyővel látogassa meg a várat. A Corno d'Aola erődítményhez ködlámpa kellhet. Sötétedés előtt érkezzen a Santi Fabiano e Sabastiano templomhoz.",
+            "de": "Autofahren an einem Regentag ist praktisch. Beginnen Sie an der Dreifaltigkeitskirche und springen Sie schnell ins Trockene. Fahren Sie vorsichtig zu Santa Maria und San Martino. Besuchen Sie mittags die Burg mit Regenschirm. Die Fahrt zum Corno d'Aola erfordert Nebelscheinwerfer. Beenden Sie die Tour vor Einbruch der Dunkelheit.",
+            "ro": "Conducerea într-o zi ploioasă oferă confort. Începeți la Biserica Trinității, sărind rapid din mașină la adăpost. Conduceți prudent spre Santa Maria și San Martino. La amiază, vizitați castelul cu o umbrelă. Urcarea spre Corno d'Aola necesită faruri de ceață. Terminați la Santi Fabiano e Sabastiano înainte de întuneric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "en": "Park close to the entrance to avoid the heavy rain; the church's ancient interior is a dry and fascinating refuge to start your day.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a heves esőt; a templom ősi belső tere száraz és lenyűgöző menedék a nap kezdéséhez.",
+                "de": "Parken Sie in der Nähe des Eingangs, um starkem Regen zu entgehen; das alte Innere der Kirche ist ein trockenes und faszinierendes Refugium.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia abundentă; interiorul antic al bisericii este un refugiu uscat și fascinant."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria",
+                "hu": "Chiesa di Santa Maria",
+                "ro": "Chiesa di Santa Maria",
+                "en": "Chiesa di Santa Maria"
+              },
+              "tip_5lang": {
+                "en": "A small, beautiful church perfectly suited for a quick, dry visit; be mindful of puddles when stepping out of your vehicle here.",
+                "hu": "Egy kis, gyönyörű templom, amely tökéletes egy gyors, száraz látogatáshoz; ügyeljen a tócsákra, amikor kiszáll a járműből.",
+                "de": "Eine kleine, schöne Kirche, perfekt für einen kurzen, trockenen Besuch; achten Sie beim Aussteigen auf Pfützen.",
+                "ro": "O biserică mică și frumoasă, perfectă pentru o vizită rapidă la adăpost; aveți grijă la bălți când coborâți din mașină aici."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Martino Vescovo",
+                "hu": "Chiesa di San Martino Vescovo",
+                "ro": "Chiesa di San Martino Vescovo",
+                "en": "Chiesa di San Martino Vescovo"
+              },
+              "tip_5lang": {
+                "en": "Appreciate the intricate details away from the gloomy weather; the nearby parking area can get muddy, so wear sturdy waterproof shoes.",
+                "hu": "Értékelje a bonyolult részleteket távol a zord időjárástól; a közeli parkoló sáros lehet, ezért viseljen erős vízálló cipőt.",
+                "de": "Genießen Sie die kunstvollen Details abseits des trüben Wetters; der nahegelegene Parkplatz kann schlammig werden, tragen Sie wasserdichte Schuhe.",
+                "ro": "Apreciați detaliile complicate departe de vremea mohorâtă; parcarea din apropiere poate deveni noroioasă, deci purtați încălțăminte impermeabilă."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Poia",
+                "hu": "Castello di Poia",
+                "ro": "Castello di Poia",
+                "en": "Castello di Poia"
+              },
+              "tip_5lang": {
+                "en": "The castle grounds are evocative in the rain; keep an umbrella handy and watch your step on the slick, historic stone walkways.",
+                "hu": "A kastély területe hangulatos az esőben; tartson kéznél esernyőt, és vigyázzon a lépéseire a csúszós, történelmi kőjárdákon.",
+                "de": "Das Burggelände ist bei Regen stimmungsvoll; halten Sie einen Regenschirm bereit und achten Sie auf Ihre Schritte auf den rutschigen Steinwegen.",
+                "ro": "Terenurile castelului sunt evocatoare pe ploaie; țineți o umbrelă la îndemână și aveți grijă la pașii pe aleile istorice alunecoase."
+              }
+            },
+            {
+              "name": {
+                "de": "Corno d'Aola",
+                "hu": "Corno d'Aola",
+                "ro": "Corno d'Aola",
+                "en": "Corno d'Aola"
+              },
+              "tip_5lang": {
+                "en": "Driving up to the fortress provides dramatic mountain views; drive very slowly as the winding road can be slippery and prone to thick fog.",
+                "hu": "Az erődhöz vezető út drámai hegyi kilátást nyújt; vezessen nagyon lassan, mivel a kanyargós út csúszós és sűrű ködre hajlamos.",
+                "de": "Die Fahrt zur Festung bietet dramatische Bergblicke; fahren Sie langsam, da die kurvige Straße rutschig und anfällig für dichten Nebel sein kann.",
+                "ro": "Drumul spre fortăreață oferă priveliști dramatice spre munți; conduceți foarte încet, deoarece drumul șerpuit poate fi alunecos și predispus la ceață."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Fabiano e Sabastiano",
+                "hu": "Chiesa dei Santi Fabiano e Sabastiano",
+                "ro": "Chiesa dei Santi Fabiano e Sabastiano",
+                "en": "Chiesa dei Santi Fabiano e Sabastiano"
+              },
+              "tip_5lang": {
+                "en": "Conclude your rainy drive at this peaceful church; use the car heater to dry your clothes while navigating back to your accommodation.",
+                "hu": "Zárja esős autózását ennél a békés templomnál; használja az autó fűtését a ruhák szárítására, miközben visszatér a szállására.",
+                "de": "Beenden Sie Ihre regnerische Fahrt an dieser friedlichen Kirche; nutzen Sie die Autoheizung, um Ihre Kleidung auf dem Rückweg zu trocknen.",
+                "ro": "Încheiați plimbarea ploioasă la această biserică liniștită; folosiți încălzirea mașinii pentru a vă usca hainele în drum spre cazare."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A winter drive ensures you stay warm between stops. Start at the Trinity Church, then easily navigate the frosty roads to Santa Maria and San Martino. Visit the castle at midday for the best light. The steep drive to Corno d'Aola absolutely requires snow chains. By 5 PM, end your journey at Santi Fabiano e Sabastiano under the stars.",
+            "hu": "A téli autózás garantálja, hogy melegben maradjon a megállók között. Kezdje a Szentháromság-templomnál, majd vezessen a fagyos utakon a Santa Maria és San Martino felé. A várat délben látogassa meg a legjobb fényekért. A Corno d'Aola meredek útjához hólánc kötelező. 17 órára fejezze be útját a csillagok alatt.",
+            "de": "Eine Winterfahrt sorgt dafür, dass Sie zwischen den Stopps warm bleiben. Beginnen Sie an der Dreifaltigkeitskirche und fahren Sie auf frostigen Straßen zu Santa Maria und San Martino. Besuchen Sie die Burg mittags. Für die Fahrt zum Corno d'Aola sind Schneeketten zwingend erforderlich. Beenden Sie Ihre Reise gegen 17 Uhr unter dem Sternenhimmel.",
+            "ro": "O plimbare de iarnă cu mașina vă ține de cald. Începeți la Biserica Trinității, apoi navigați ușor pe drumurile înghețate spre Santa Maria și San Martino. Vizitați castelul la amiază. Drumul abrupt spre Corno d'Aola necesită obligatoriu lanțuri de zăpadă. Până la ora 17:00, încheiați călătoria sub stele."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "en": "Step into the historic nave to admire the art; the car's heater is a blessing as the church's ancient stones retain the winter cold.",
+                "hu": "Lépjen be a történelmi hajóba, hogy megcsodálja a művészetet; az autó fűtése áldás, mivel a templom ősi kövei megtartják a téli hideget.",
+                "de": "Betreten Sie das historische Kirchenschiff, um die Kunst zu bewundern; die Autoheizung ist ein Segen, da die alten Steine der Kirche die Winterkälte speichern.",
+                "ro": "Pășiți în nava istorică pentru a admira arta; căldura mașinii este o binecuvântare, deoarece pietrele antice ale bisericii rețin frigul iernii."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria",
+                "hu": "Chiesa di Santa Maria",
+                "ro": "Chiesa di Santa Maria",
+                "en": "Chiesa di Santa Maria"
+              },
+              "tip_5lang": {
+                "en": "A brief, charming stop on your winter drive; ensure your car's windshield is fully defrosted before continuing to the next destination.",
+                "hu": "Egy rövid, bájos megálló a téli autózás során; győződjön meg róla, hogy a szélvédő teljesen jégmentes, mielőtt továbbindulna.",
+                "de": "Ein kurzer, charmanter Halt auf Ihrer Winterfahrt; stellen Sie sicher, dass Ihre Windschutzscheibe vollständig enteist ist, bevor Sie weiterfahren.",
+                "ro": "O oprire scurtă și fermecătoare; asigurați-vă că parbrizul mașinii este complet dezghețat înainte de a continua spre următoarea destinație."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Martino Vescovo",
+                "hu": "Chiesa di San Martino Vescovo",
+                "ro": "Chiesa di San Martino Vescovo",
+                "en": "Chiesa di San Martino Vescovo"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the serene architecture set against snow-capped peaks; the local parking spots may be covered in snow, so park carefully.",
+                "hu": "Élvezze a nyugodt építészetet a hófödte csúcsok hátterében; a helyi parkolóhelyeket hó boríthatja, ezért parkoljon óvatosan.",
+                "de": "Genießen Sie die ruhige Architektur vor schneebedeckten Gipfeln; die örtlichen Parkplätze könnten schneebedeckt sein, parken Sie also vorsichtig.",
+                "ro": "Bucurați-vă de arhitectura senină pe fundalul vârfurilor înzăpezite; locurile de parcare locale pot fi acoperite de zăpadă, deci parcați cu atenție."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Poia",
+                "hu": "Castello di Poia",
+                "ro": "Castello di Poia",
+                "en": "Castello di Poia"
+              },
+              "tip_5lang": {
+                "en": "The ruined walls look spectacular wrapped in snow; walk carefully from your car as the castle grounds will not be cleared of snow and ice.",
+                "hu": "A romos falak látványosak hóba burkolózva; óvatosan sétáljon az autótól, mivel a kastély területét nem takarítják meg a hótól és a jégtől.",
+                "de": "Die Ruinenmauern sehen im Schnee spektakulär aus; gehen Sie vorsichtig von Ihrem Auto aus, da das Burggelände nicht geräumt wird.",
+                "ro": "Zidurile ruinate arată spectaculos acoperite de zăpadă; mergeți cu grijă de la mașină, deoarece terenurile castelului nu vor fi curățate de gheață."
+              }
+            },
+            {
+              "name": {
+                "de": "Corno d'Aola",
+                "hu": "Corno d'Aola",
+                "ro": "Corno d'Aola",
+                "en": "Corno d'Aola"
+              },
+              "tip_5lang": {
+                "en": "A remarkable historic site with panoramic white views; driving this steep alpine road in winter is impossible without proper winter tires and chains.",
+                "hu": "Figyelemre méltó történelmi hely panorámás fehér kilátással; ezen a meredek alpesi úton télen lehetetlen közlekedni megfelelő téli gumik és hólánc nélkül.",
+                "de": "Eine bemerkenswerte historische Stätte mit weißem Panoramablick; das Befahren dieser steilen Alpenstraße ist ohne Winterreifen und Schneeketten unmöglich.",
+                "ro": "Un sit istoric remarcabil cu vederi panoramice albe; conducerea pe acest drum alpin abrupt iarna este imposibilă fără anvelope de iarnă și lanțuri adecvate."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Fabiano e Sabastiano",
+                "hu": "Chiesa dei Santi Fabiano e Sabastiano",
+                "ro": "Chiesa dei Santi Fabiano e Sabastiano",
+                "en": "Chiesa dei Santi Fabiano e Sabastiano"
+              },
+              "tip_5lang": {
+                "en": "The perfect quiet end to your frosty road trip; arrive around dusk at 4:30 PM to see the warm lights glowing against the evening snow.",
+                "hu": "A fagyos autós utazás tökéletes csendes lezárása; érkezzen szürkületkor 16:30 körül, hogy lássa a meleg fényeket ragyogni az esti hóban.",
+                "de": "Der perfekte ruhige Abschluss Ihres frostigen Roadtrips; kommen Sie gegen 16:30 Uhr an, um die warmen Lichter im abendlichen Schnee leuchten zu sehen.",
+                "ro": "Sfârșitul perfect și liniștit al excursiei dumneavoastră înghețate; ajungeți în jur de ora 16:30 pentru a vedea luminile calde strălucind pe zăpada de seară."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a bájos Cappella di Sant'Antonio abate kápolnához, élvezve a hegyi levegőt.\n\nDélben merüljön el a helyi örökségben a San Giovanni Battista és a Teatro d'Ou kulturális központjában.\n\nTöltsön egy pihentető délutánt a békés San Claudio szentély felé sétálva.\n\nVégül kora este fejezze be békés alpesi sétáját a festői San Rocco kápolnánál.",
         "ro": "Începeți dimineața cu o plimbare revigorantă către fermecătoarea Cappella di Sant'Antonio abate, bucurându-vă de aerul de munte.\n\nLa prânz, pătrundeți în patrimoniul local la San Giovanni Battista și la Teatro d'Ou.\n\nPetreceți o după-amiază relaxantă plimbându-vă spre sanctuarul pașnic San Claudio.\n\nÎn cele din urmă, spre seară, încheiați-vă plimbarea alpină la pitorescul San Rocco.",
         "en": "Start your morning with a refreshing stroll to the charming Cappella di Sant'Antonio abate, enjoying the crisp mountain air.\n\nBy midday, delve into local heritage at San Giovanni Battista and the cultural hub of Teatro d'Ou.\n\nSpend a relaxing afternoon walking towards the peaceful San Claudio sanctuary.\n\nFinally, as evening approaches, conclude your serene alpine walk at the picturesque San Rocco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgenbesuch der Kapelle im sanften Regen. Mittags bietet die Kirche San Giovanni Schutz vor dem Nass. Der Nachmittag im Theater ist die ideale regenunabhängige Aktivität. Abends endet der Rundgang an der kleinen Kapelle San Rocco, während die Wolken tief über den Gipfeln hängen. Tragen Sie wasserfeste Schuhe für die nassen Kopfsteinpflastergassen.",
+            "hu": "Reggeli séta a kápolnához a szemerkélő esőben. Délben a San Giovanni templom nyújt menedéket a csapadék elől. A délutáni színházlátogatás tökéletes beltéri program rossz idő esetén is. Este a San Rocco kápolnánál zárul a nap, miközben a köd ráereszkedik a hegycsúcsokra. Használjon csúszásmentes talpú bakancsot a vizes köveken.",
+            "ro": "Vizită de dimineață la capelă sub o ploaie ușoară. La prânz, biserica San Giovanni oferă adăpost împotriva umezelii. După-amiaza la teatru este activitatea ideală de interior pentru o zi ploioasă. Seara, turul se încheie la capela San Rocco, în timp ce norii coboară peste vârfuri. Purtați încălțăminte impermeabilă pentru străzile umede.",
+            "en": "A morning visit to the chapel in the gentle rain. At noon, San Giovanni church provides shelter from the wet weather. The afternoon at the theater is the ideal indoor activity for a rainy day. In the evening, the tour ends at San Rocco chapel as the clouds hang low over the peaks. Wear waterproof shoes for the wet cobblestone streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella di Sant'Antonio abate",
+                "hu": "Cappella di Sant'Antonio abate",
+                "ro": "Cappella di Sant'Antonio abate",
+                "en": "Cappella di Sant'Antonio abate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken aus dem 15. Jahrhundert, während Sie im Inneren Schutz vor dem Regen suchen; die friedliche Atmosphäre lädt zum Verweilen ein.",
+                "hu": "Csodálja meg a 15. századi freskókat, miközben az eső elől a belső térbe húzódik; a békés hangulat tökéletes a szemlélődésre és a várakozásra.",
+                "ro": "Admirați frescele din secolul al XV-lea în timp ce vă adăpostiți de ploaie în interior; atmosfera liniștită este perfectă pentru a aștepta oprirea ploii.",
+                "en": "Admire the 15th-century frescoes while taking shelter from the rain inside; the peaceful atmosphere is perfect for a moment of quiet contemplation."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni Battista",
+                "hu": "San Giovanni Battista",
+                "ro": "San Giovanni Battista",
+                "en": "San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Untersuchen Sie den barocken Altarraum im trockenen Kirchenschiff; achten Sie beim Verlassen auf die rutschigen Steinstufen am Eingangsbereich.",
+                "hu": "Vizsgálja meg a barokk oltárteret a száraz templomhajóban; távozáskor ügyeljen a bejárati rész csúszós kőlépcsőire a nedves időben.",
+                "ro": "Examinați altarul baroc în nava uscată a bisericii; la plecare, aveți grijă la treptele de piatră alunecoase de la intrare din cauza ploii.",
+                "en": "Examine the baroque altar in the dry nave of the church; when leaving, be careful of the slippery stone steps at the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro d'Ou",
+                "hu": "Teatro d'Ou",
+                "ro": "Teatro d'Ou",
+                "en": "Teatro d'Ou"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um dem Regen für längere Zeit zu entkommen; genießen Sie die kulturellen Ausstellungen in einem warmen und trockenen Umfeld.",
+                "hu": "Ez a legjobb hely, hogy hosszabb időre elmeneküljön az eső elől; élvezze a kulturális kiállításokat meleg és teljesen száraz környezetben.",
+                "ro": "Acesta este cel mai bun loc pentru a scăpa de ploaie pentru o perioadă mai lungă; bucurați-vă de expozițiile culturale într-un mediu cald și uscat.",
+                "en": "This is the best place to escape the rain for a longer period; enjoy the cultural exhibits in a warm and completely dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "San Claudio",
+                "hu": "San Claudio",
+                "ro": "San Claudio",
+                "en": "San Claudio"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle kann bei Nässe schlammig sein; genießen Sie den dramatischen Blick auf die nebelverhangenen Berge von der überdachten Vorhalle.",
+                "hu": "A kápolnához vezető út nedves időben sáros lehet; élvezze a ködös hegyek látványát a fedett előtér biztonságából és szárazságából.",
+                "ro": "Poteca spre capelă poate fi noroioasă când este udă; bucurați-vă de vederea dramatică a munților înveliți în ceață din pridvorul acoperit.",
+                "en": "The path to the chapel can be muddy when wet; enjoy the dramatic view of the mist-shrouded mountains from the safety of the covered porch."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in dieser kleinen Kapelle und nutzen Sie die Dachvorsprünge, um Ihren Regenschirm vor dem Heimweg kurz auszuschütteln.",
+                "hu": "Zárja a sétát ebben a kis kápolnában, és használja az ereszalját az esernyő lerázásához, mielőtt visszaindulna a szállására a szürkületben.",
+                "ro": "Încheiați plimbarea în această mică capelă și folosiți streașina pentru a vă scutura umbrela înainte de a pleca spre casă prin ploaie.",
+                "en": "End your walk in this small chapel and use the eaves to shake out your umbrella before heading home through the evening drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen an der Bergkapelle. Mittags wärmt der Kerzenschein in San Giovanni die Seele. Der Nachmittag im Theater bietet eine willkommene Pause von der Kälte. Der Rundgang endet bei Sonnenuntergang gegen 17:00 Uhr an der Kapelle San Rocco. Kleiden Sie sich in Schichten für die eisigen Alpentemperaturen.",
+            "hu": "Deres reggel a hegyi kápolnánál. Délben a San Giovanni templom gyertyafénye melengeti a lelket. A délutáni színházlátogatás kellemes pihenőt nyújt a kinti hideg elől. A túra 17:00 körül, naplementekor ér véget a San Rocco kápolnánál. Öltözzön rétegesen a jeges alpesi szél miatt.",
+            "ro": "Dimineață geroasă la capela montană. La prânz, lumina lumânărilor din San Giovanni încălzește sufletul. După-amiaza la teatru oferă o pauză binemeritată de frigul de afară. Turul se încheie la apus, în jurul orei 17:00, la capela San Rocco. Îmbrăcați-vă în straturi pentru temperaturile alpine înghețate.",
+            "en": "A frosty morning at the mountain chapel. At noon, the candlelight in San Giovanni warms the soul. The afternoon at the theater offers a welcome break from the outside cold. The tour ends at sunset around 17:00 at San Rocco chapel. Dress in layers for the icy Alpine temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella di Sant'Antonio abate",
+                "hu": "Cappella di Sant'Antonio abate",
+                "ro": "Cappella di Sant'Antonio abate",
+                "en": "Cappella di Sant'Antonio abate"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen Kälte aus; bewundern Sie die Kunstwerke zügig und halten Sie Ihre Handschuhe für den Außenbereich bereit.",
+                "hu": "A kőfalak ontják a hideget; csodálja meg a műalkotásokat viszonylag gyorsan, és tartsa készenlétben a kesztyűit a kinti továbbinduláshoz.",
+                "ro": "Zidurile de piatră emană frig; admirați operele de artă rapid și aveți mănușile pregătite pentru momentul în care ieșiți din nou afară.",
+                "en": "The stone walls radiate cold; admire the artworks briskly and keep your gloves ready for when you head back out into the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni Battista",
+                "hu": "San Giovanni Battista",
+                "ro": "San Giovanni Battista",
+                "en": "San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die stille Wärme des Innenraums für eine kurze Meditation; die dicken Mauern schützen gut vor dem beißenden Winterwind.",
+                "hu": "Használja ki a belső tér csendes melegét egy rövid meditációra; a vastag falak jól védenek a csípős téli szél és a hideg ellen.",
+                "ro": "Profitați de căldura liniștită a interiorului pentru o scurtă meditație; zidurile groase protejează bine împotriva vântului tăios de iarnă.",
+                "en": "Take advantage of the quiet warmth of the interior for a short meditation; the thick walls protect well against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro d'Ou",
+                "hu": "Teatro d'Ou",
+                "ro": "Teatro d'Ou",
+                "en": "Teatro d'Ou"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich für eine Stunde vollständig aufzuwärmen; genießen Sie die geheizten Räumlichkeiten und die lokale Geschichte.",
+                "hu": "Ideális hely, hogy egy órára teljesen átmelegedjen; élvezze a fűtött helyiségeket és a helyi történelem felfedezését a hidegben.",
+                "ro": "Locul ideal pentru a vă încălzi complet timp de o oră; bucurați-vă de spațiile încălzite și de descoperirea istoriei locale la căldură.",
+                "en": "The ideal place to fully warm up for an hour; enjoy the heated rooms and the local history while escaping the freezing outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "San Claudio",
+                "hu": "San Claudio",
+                "ro": "San Claudio",
+                "en": "San Claudio"
+              },
+              "tip_5lang": {
+                "de": "Der verschneite Pfad bietet eine märchenhafte Aussicht; achten Sie auf vereiste Stellen und wandern Sie vor dem frühen Dunkelwerden zurück.",
+                "hu": "A havas ösvény mesebeli kilátást nyújt; ügyeljen a jeges foltokra, és induljon vissza a faluba a korai sötétedés előtt.",
+                "ro": "Poteca înzăpezită oferă o vedere de basm; aveți grijă la porțiunile înghețate și întoarceți-vă înainte de lăsarea timpurie a întunericului.",
+                "en": "The snowy path offers a fairytale view; watch out for icy patches and make sure to walk back before the early mountain darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle kurz vor Sonnenuntergang; das warme Licht der Abenddämmerung über dem Schnee erzeugt eine magische Atmosphäre.",
+                "hu": "Látogassa meg a kápolnát közvetlenül naplemente előtt; a hó feletti alkonyati fények varázslatos hangulatot teremtenek a nap végén.",
+                "ro": "Vizitați capela chiar înainte de apus; lumina caldă a amurgului peste zăpadă creează o atmosferă magică la sfârșitul zilei.",
+                "en": "Visit the chapel just before sunset; the warm twilight light over the snow creates a magical atmosphere to end your winter journey."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a nyüzsgő Teatro d'Ou-nál kezdődik, amelyet a történelmi San Giovanni Battista követ.\n\nDélben a festői Cappella di Sant'Antonio abate mellett elhaladva a Santa Maria Assunta templomhoz ér.\n\nDélután zökkenőmentesen tekerjen a történelmi Municipio di Oulx felé.\n\nAz utazás egy esti megállóval ér véget a békés San Rocco kápolnánál.",
         "ro": "Aventura dvs. cu bicicleta începe la vibrantul Teatro d'Ou, urmată de o pedalare rapidă către istoricul San Giovanni Battista.\n\nLa prânz treceți pe lângă Cappella di Sant'Antonio abate spre Santa Maria Assunta.\n\nDupă-amiaza, navigați ușor către istoricul Municipio di Oulx.\n\nCălătoria se încheie cu o oprire de seară la San Rocco.",
         "en": "Your cycling adventure kicks off at the vibrant Teatro d'Ou, followed by a quick pedal to the historic San Giovanni Battista.\n\nMidday brings you past the scenic Cappella di Sant'Antonio abate towards the intricate Santa Maria Assunta.\n\nIn the afternoon, smoothly navigate to the historical Municipio di Oulx for a dash of local administration history.\n\nYour ride finishes with an evening stop at San Rocco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start am Theater. Die Fahrt durch die nassen Gassen zur Kirche erfordert Vorsicht. Mittags suchen wir Schutz in den Kapellen des Tals. Der Nachmittag führt uns zum Rathaus von Oulx, während der Asphalt glänzt. Achten Sie auf rutschige Kurven und nutzen Sie Schutzbleche an Ihrem Fahrrad.",
+            "hu": "Esős kezdés a színháznál. A vizes utcákon való tekerés a templom felé óvatosságot igényel. Délben a völgy kápolnáiban keresünk menedéket. Délután Oulx városházája felé vesszük az irányt a csillogó aszfalton. Ügyeljen a csúszós kanyarokra, és használjon sárvédőt a kerékpárján.",
+            "ro": "Început ploios la teatru. Pedalatul pe străzile ude spre biserică necesită prudență. La prânz, căutăm adăpost în capelele văii. După-amiaza ne îndreptăm spre primăria din Oulx, pe asfaltul strălucitor. Atenție la curbele alunecoase și folosiți apărători de noroi la bicicletă.",
+            "en": "A rainy start at the theater. Cycling through the wet streets towards the church requires caution. At noon, we seek shelter in the valley's chapels. The afternoon leads us to the Oulx town hall while the asphalt glistens. Watch out for slippery curves and make sure to use mudguards on your bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro d'Ou",
+                "hu": "Teatro d'Ou",
+                "ro": "Teatro d'Ou",
+                "en": "Teatro d'Ou"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour drinnen und warten Sie den stärksten Regen ab, während Sie die kulturellen Exponate im Trockenen studieren.",
+                "hu": "Kezdje a túrát bent, és várja meg a hevesebb eső végét, miközben szárazon tanulmányozza a kulturális kiállítási tárgyakat.",
+                "ro": "Începeți turul în interior și așteptați oprirea ploii torențiale în timp ce studiați exponatele culturale la adăpost.",
+                "en": "Start the tour indoors and wait for the heaviest rain to pass while you study the cultural exhibits in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni Battista",
+                "hu": "San Giovanni Battista",
+                "ro": "San Giovanni Battista",
+                "en": "San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Dachvorsprung und genießen Sie das prachtvolle Interieur, um sich kurz vom Regen zu erholen.",
+                "hu": "Parkolja le kerékpárját egy eresz alatt, és élvezze a pompás belsőt, hogy egy rövid időre kipihenje az esőben való tekerést.",
+                "ro": "Parcați bicicleta sub o streașină și bucurați-vă de interiorul splendid pentru a vă recupera puțin după pedalatul prin ploaie.",
+                "en": "Park your bike under an eave and enjoy the splendid interior to recover for a while from cycling through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di Sant'Antonio abate",
+                "hu": "Cappella di Sant'Antonio abate",
+                "ro": "Cappella di Sant'Antonio abate",
+                "en": "Cappella di Sant'Antonio abate"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kapelle ist asphaltiert, kann aber bei Nässe rutschig sein; bremsen Sie vorsichtig auf dem Weg zum Eingang.",
+                "hu": "A kápolnához vezető feljáró aszfaltozott, de nedvesen csúszós lehet; fékezzen óvatosan a bejárat felé tartó szakaszon.",
+                "ro": "Aleea spre capelă este asfaltată, dar poate fi alunecoasă când este udă; frânați cu prudență pe porțiunea spre intrare.",
+                "en": "The driveway to the chapel is paved but can be slippery when wet; brake carefully on the stretch leading to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Assunta",
+                "hu": "Santa Maria Assunta",
+                "ro": "Santa Maria Assunta",
+                "en": "Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Zufluchtsort mit hervorragender Akustik; nutzen Sie die Zeit im Trockenen, um Ihre Kleidung kurz zu richten.",
+                "hu": "Csendes menedékhely kiváló akusztikával; használja ki a szárazban töltött időt a ruházata megigazítására és a pihenésre.",
+                "ro": "Un refugiu liniștit cu o acustică excelentă; folosiți timpul petrecut la adăpost pentru a vă aranja hainele și a vă odihni.",
+                "en": "A quiet sanctuary with excellent acoustics; take advantage of the time in the dry to adjust your gear and rest for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Oulx",
+                "hu": "Municipio di Oulx",
+                "ro": "Municipio di Oulx",
+                "en": "Municipio di Oulx"
+              },
+              "tip_5lang": {
+                "de": "Die Kopfsteinpflaster auf dem Platz sind bei Regen sehr glatt; steigen Sie vom Fahrrad ab und schieben Sie es im Zentrum.",
+                "hu": "A téren található macskakövek esőben nagyon csúszósak; szálljon le a kerékpárról, és tolja azt a központi részen a biztonság kedvéért.",
+                "ro": "Pavelele din piață sunt foarte alunecoase pe ploaie; coborâți de pe bicicletă și împingeți-o în zona centrală pentru siguranță.",
+                "en": "The cobblestones in the square are very slick in the rain; get off your bike and push it in the center for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Blick auf das kleine Portal und suchen Sie schnell ein nahes Café, um sich wieder aufzuwärmen.",
+                "hu": "Zárja a túrát a kis kapuzat megtekintésével, majd keressen egy közeli kávézót, hogy a nap végén teljesen átmelegedjen.",
+                "ro": "Încheiați turul cu o privire la micul portal, apoi căutați o cafenea în apropiere pentru a vă încălzi complet la finalul zilei.",
+                "en": "End the tour with a look at the small portal, then find a nearby cafe to fully warm up at the end of your rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Biketour ab dem Theater. Das Treten in die Pedale hält warm, während wir die historischen Stätten besuchen. Kurze Stopps in den Kirchen verhindern das Auskühlen. Die Sonne verschwindet früh hinter den Gipfeln, planen Sie das Ende für 17:00 Uhr. Tragen Sie winddichte Handschuhe und Thermokleidung.",
+            "hu": "Fagyos kerékpártúra a színháztól indulva. A tekerés melegen tart, miközben meglátogatjuk a történelmi helyszíneket. A rövid templomi megállók megakadályozzák a lehűlést. A nap korán eltűnik a csúcsok mögött, 17:00-ra tervezze a befejezést. Viseljen szélálló kesztyűt és termaruházatot.",
+            "ro": "Tur de bicicletă geros, cu plecare de la teatru. Pedalatul vă menține cald în timp ce vizităm siturile istorice. Opririle scurte în biserici previn răcirea corpului. Soarele dispare devreme după vârfuri, planificați finalul pentru ora 17:00. Purtați mănuși rezistente la vânt și haine termice.",
+            "en": "A frosty bike tour starting from the theater. Pedaling keeps you warm while we visit the historical sites. Short stops in the churches prevent cooling down. The sun disappears early behind the peaks, plan your finish for 17:00. Wear windproof gloves and thermal clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro d'Ou",
+                "hu": "Teatro d'Ou",
+                "ro": "Teatro d'Ou",
+                "en": "Teatro d'Ou"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Muskeln im Geheizten aufzuwärmen, bevor Sie die erste Etappe der winterlichen Tour antreten.",
+                "hu": "Tökéletes hely az izmok bemelegítésére a fűtött beltérben, mielőtt belevágna a téli túra első szabadtéri szakaszába.",
+                "ro": "Locul perfect pentru a vă încălzi mușchii în interiorul încălzit înainte de a începe prima etapă a turului de iarnă.",
+                "en": "The perfect place to warm up your muscles in the heated interior before you tackle the first outdoor leg of the winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni Battista",
+                "hu": "San Giovanni Battista",
+                "ro": "San Giovanni Battista",
+                "en": "San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Die Altstadt wirkt unter leichtem Frost magisch; parken Sie kurz und genießen Sie die stille Winteratmosphäre im Inneren.",
+                "hu": "Az óváros varázslatos az enyhe fagyban; parkoljon le rövid időre, és élvezze a belső tér csendes téli hangulatát.",
+                "ro": "Orașul vechi pare magic sub înghețul ușor; parcați scurt și bucurați-vă de atmosfera liniștită de iarnă din interior.",
+                "en": "The old town looks magical under light frost; park briefly and enjoy the quiet winter atmosphere inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di Sant'Antonio abate",
+                "hu": "Cappella di Sant'Antonio abate",
+                "ro": "Cappella di Sant'Antonio abate",
+                "en": "Cappella di Sant'Antonio abate"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Handschuhe an, während Sie die äußeren Schnitzereien bewundern, um Ihre Finger für die Weiterfahrt warm zu halten.",
+                "hu": "Hagyja magán a kesztyűt, miközben a külső faragványokat csodálja, hogy ujjai melegek maradjanak a további tekeréshez.",
+                "ro": "Lăsați-vă mănușile pe mâini în timp ce admirați sculpturile exterioare, pentru a vă menține degetele calde pentru drum.",
+                "en": "Keep your gloves on while admiring the external carvings to keep your fingers warm for the rest of your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Assunta",
+                "hu": "Santa Maria Assunta",
+                "ro": "Santa Maria Assunta",
+                "en": "Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie für einen Moment ein, um der beißenden Kälte zu entfliehen und die schlichte Schönheit der Kirche zu genießen.",
+                "hu": "Lépjen be egy pillanatra, hogy elmeneküljön a csípős hideg elől, és élvezze a templom egyszerű, békés szépségét.",
+                "ro": "Intrați pentru un moment pentru a scăpa de frigul tăios și pentru a vă bucura de frumusețea simplă și liniștită a bisericii.",
+                "en": "Step inside for a moment to escape the biting cold and enjoy the simple, peaceful beauty of the mountain church."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Oulx",
+                "hu": "Municipio di Oulx",
+                "ro": "Municipio di Oulx",
+                "en": "Municipio di Oulx"
+              },
+              "tip_5lang": {
+                "de": "Das Verwaltungszentrum von Oulx sieht mit der winterlichen Beleuchtung besonders einladend aus; achten Sie auf glatte Stellen auf dem Platz.",
+                "hu": "Oulx közigazgatási központja különösen hívogató a téli világítással; ügyeljen a téren előforduló csúszós foltokra és jégre.",
+                "ro": "Centrul administrativ din Oulx arată deosebit de primitor cu iluminatul de iarnă; atenție la porțiunile alunecoase din piață.",
+                "en": "The administrative center of Oulx looks especially inviting with the winter lighting; watch out for icy patches in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle markiert das Ende einer kalten, aber schönen Fahrt; beeilen Sie sich, bevor die Dunkelheit endgültig einbricht.",
+                "hu": "A kis kápolna egy hideg, de gyönyörű túra végét jelzi; siessen a befejezéssel, mielőtt a sötétség végleg beállna a hegyekben.",
+                "ro": "Mica capelă marchează sfârșitul unui tur rece, dar frumos; grăbiți-vă cu finalul înainte ca întunericul să se lase definitiv.",
+                "en": "The small chapel marks the end of a cold but beautiful ride; finish up quickly before the mountain darkness fully sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Ezen a reggelen vezessen a természetbe, meglátogatva az Oasi xerotermica-t és a lenyűgöző Cascata del Rio Barracan-t.\n\nDélben a hangsúly a hagyományos Chiesa di San Marco-ra és a Municipio di Oulx-ra helyeződik a városközpontban.\n\nA délután spirituális elmélyülést kínál a Santa Maria Assunta és a San Rocco templomokban.\n\nZárja autós utazását este a békés San Claudio szentélynél.",
         "ro": "Conduceți în natură în această dimineață vizitând Oasi xerotermica și uimitoarea Cascata del Rio Barracan.\n\nPrânzul mută accentul pe tradiționala Chiesa di San Marco și pe Municipio di Oulx din centrul orașului.\n\nDupă-amiaza oferă reflecție spirituală la Santa Maria Assunta și San Rocco.\n\nÎncheiați-vă excursia cu mașina seara la sanctuarul liniștit San Claudio.",
         "en": "Drive into nature this morning with visits to the Oasi xerotermica and the stunning Cascata del Rio Barracan.\n\nMidday shifts focus to the traditional Chiesa di San Marco and the prominent Municipio di Oulx in the town center.\n\nThe afternoon offers spiritual reflection at Santa Maria Assunta and San Rocco.\n\nConclude your road trip as evening falls at the tranquil sanctuary of San Claudio."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrt zur Oase unter grauem Himmel. Der Wasserfall ist nach dem Regen besonders beeindruckend. Wir besuchen die Bergkirchen, während wir im Auto weitgehend trocken bleiben. Der Tag endet an der Kapelle San Claudio mit mystischen Ausblicken. Nutzen Sie die Nebelscheinwerfer auf den kurvigen Bergstraßen.",
+            "hu": "Autózás az oázishoz szürke égbolt alatt. A vízesés az eső után különösen látványos. A hegyi templomokat látogatjuk meg, miközben az autóban többnyire szárazon maradunk. A nap a San Claudio kápolnánál zárul misztikus kilátással. Használja a ködfényszórót a kanyargós hegyi utakon.",
+            "ro": "Drum spre oază sub un cer cenușiu. Cascada este deosebit de impresionantă după ploaie. Vizităm bisericile montane, rămânând în mare parte uscați în mașină. Ziua se încheie la capela San Claudio cu vederi mistice. Folosiți farurile de ceață pe drumurile montane sinuoase.",
+            "en": "Driving to the oasis under grey skies. The waterfall is especially impressive after the rain. We visit the mountain churches while staying mostly dry in the car. The day ends at San Claudio chapel with mystical views. Use your fog lights on the winding mountain roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi xerotermica di Oulx - Amazas",
+                "hu": "Oasi xerotermica di Oulx - Amazas",
+                "ro": "Oasi xerotermica di Oulx - Amazas",
+                "en": "Oasi xerotermica di Oulx - Amazas"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können schlammig sein, aber der Regen verstärkt den Duft der Kiefern; bleiben Sie für Fotos in der Nähe des Parkplatzes.",
+                "hu": "Az erdei utak sárosak lehetnek, de az eső felerősíti a fenyők illatát; a fotózáshoz maradjon a parkoló közelében lévő részen.",
+                "ro": "Potecile din pădure pot fi noroioase, dar ploaia intensifică mirosul pinilor; rămâneți aproape de parcare pentru fotografii.",
+                "en": "The forest paths can be muddy, but the rain enhances the scent of the pines; stay near the parking area for quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata del Rio Barracan",
+                "hu": "Cascata del Rio Barracan",
+                "ro": "Cascata del Rio Barracan",
+                "en": "Cascata del Rio Barracan"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist bei Regen am kraftvollsten; genießen Sie den Anblick von der Aussichtsplattform und achten Sie auf sicheren Halt.",
+                "hu": "A vízesés esőben a legerőteljesebb; élvezze a látványt a kilátóplatformról, és ügyeljen a stabil, csúszásmentes állásra a vizes talajon.",
+                "ro": "Cascada este cea mai puternică pe ploaie; bucurați-vă de priveliște de pe platformă și aveți grijă la stabilitatea pe solul umed.",
+                "en": "The waterfall is most powerful during rain; enjoy the view from the observation platform and watch your footing on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Marco",
+                "hu": "Chiesa di San Marco",
+                "ro": "Chiesa di San Marco",
+                "en": "Chiesa di San Marco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regenguss zu vermeiden und das schlichte Innere in Ruhe zu bewundern.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást, és nyugodtan csodálhassa meg a templom egyszerű belső terét.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia și pentru a admira în liniște interiorul simplu al bisericii.",
+                "en": "Park as close as possible to the entrance to avoid the downpour and admire the simple interior in peace and dryness."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Oulx",
+                "hu": "Municipio di Oulx",
+                "ro": "Municipio di Oulx",
+                "en": "Municipio di Oulx"
+              },
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkplätze in der Nähe, um das historische Zentrum trotz Regen bequem zu erkunden und schnell Schutz zu finden.",
+                "hu": "A közelben elegendő parkolóhely található, így az eső ellenére is kényelmesen felfedezheti a történelmi központot a szárazból indulva.",
+                "ro": "Există suficiente locuri de parcare în apropiere pentru a explora centrul istoric confortabil, în ciuda ploii, pornind de la adăpost.",
+                "en": "There are plenty of parking spaces nearby to comfortably explore the historical center despite the rain, starting from the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Assunta",
+                "hu": "Santa Maria Assunta",
+                "ro": "Santa Maria Assunta",
+                "en": "Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist ein großartiger Ort, um trocken zu bleiben und die Altäre zu bewundern, während draußen der Regen auf das Dach prasselt.",
+                "hu": "A belső tér remek hely a szárazon maradáshoz és az oltárok megcsodálásához, miközben kint az eső kopog a templomtetőn.",
+                "ro": "Interiorul este un loc excelent pentru a rămâne uscat și pentru a admira altarele în timp ce ploaia bate în acoperișul bisericii.",
+                "en": "The interior is a great place to stay dry and admire the altars while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt, um die bescheidene Architektur zu sehen; nutzen Sie die kurzen Regenpausen für einen schnellen Blick von außen.",
+                "hu": "Rövid megálló a szerény építészet megtekintéséhez; használja ki az esőmentes pillanatokat egy gyors külső szemrevételezésre.",
+                "ro": "O scurtă oprire pentru a vedea arhitectura modestă; profitați de momentele fără ploaie pentru o scurtă privire din exterior.",
+                "en": "A brief stop to see the humble architecture; take advantage of short breaks in the rain for a quick look from the outside."
+              }
+            },
+            {
+              "name": {
+                "de": "San Claudio",
+                "hu": "San Claudio",
+                "ro": "San Claudio",
+                "en": "San Claudio"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hinauf bietet neblige Bergaussichten; bleiben Sie im Auto, wenn der Regen zu stark wird, und genießen Sie das Panorama.",
+                "hu": "A felvezető út ködös hegyi kilátást kínál; maradjon az autóban, ha az eső túl erőssé válik, és élvezze a panorámát onnan.",
+                "ro": "Drumul spre culme oferă vederi montane cețoase; rămâneți în mașină dacă ploaia devine prea puternică și bucurați-vă de panoramă.",
+                "en": "The drive up offers misty mountain views; stay in the car if the rain becomes too heavy and enjoy the panorama from within."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Fahrt zum Naturschutzgebiet. Der gefrorene Wasserfall ist ein Highlight der Wintertour. Wir bewegen uns zwischen warmen Kirchen und historischen Gebäuden. Der Tag endet vor der dunklen Bergnacht gegen 17:00 Uhr. Fahren Sie vorsichtig auf schneebedeckten Straßen und führen Sie Schneeketten mit.",
+            "hu": "Fagyos autózás a természetvédelmi területhez. A megfagyott vízesés a téli túra egyik fénypontja. Meleg templomok és történelmi épületek között mozogunk. A nap a sötét hegyi éjszaka beállta előtt, 17:00 körül ér véget. Vezessen óvatosan a havas utakon, és legyen önnél hólánc.",
+            "ro": "Drum geros spre rezervația naturală. Cascada înghețată este un punct culminant al turului de iarnă. Ne deplasăm între biserici calde și clădiri istorice. Ziua se încheie înainte de noaptea montană întunecată, în jurul orei 17:00. Conduceți cu prudență pe drumurile înzăpezite și aveți lanțuri.",
+            "en": "A frosty drive to the nature reserve. The frozen waterfall is a highlight of the winter tour. We move between warm churches and historical buildings. The day ends before the dark mountain night around 17:00. Drive carefully on snow-covered roads and carry snow chains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi xerotermica di Oulx - Amazas",
+                "hu": "Oasi xerotermica di Oulx - Amazas",
+                "ro": "Oasi xerotermica di Oulx - Amazas",
+                "en": "Oasi xerotermica di Oulx - Amazas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie in diesem geschützten xerothermischen Gebiet auf Tierspuren im Schnee direkt neben den geräumten Wegen.",
+                "hu": "Ebben a védett xeroterm területen keressen állati nyomokat a hóban közvetlenül a megtisztított ösvények mellett a megfigyeléshez.",
+                "ro": "În această zonă xerotermă protejată, căutați urme de animale în zăpadă chiar lângă potecile curățate pentru observații.",
+                "en": "In this protected xerothermic area, look for animal tracks in the snow right next to the cleared paths for observation."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata del Rio Barracan",
+                "hu": "Cascata del Rio Barracan",
+                "ro": "Cascata del Rio Barracan",
+                "en": "Cascata del Rio Barracan"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Fälle sind ein spektakulärer Winteranblick; tragen Sie Schuhspikes, falls Sie den kurzen Weg zum Aussichtspunkt gehen.",
+                "hu": "A megfagyott vízesés látványos téli látvány; viseljen csúszásgátló talpat, ha megteszi a rövid utat a kilátópontig a jeges talajon.",
+                "ro": "Cascada înghețată este o priveliște spectaculoasă de iarnă; purtați crampoane dacă parcurgeți drumul scurt spre punctul de observație.",
+                "en": "The frozen falls are a spectacular winter sight; wear ice cleats if you take the short walk to the viewpoint on the icy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Marco",
+                "hu": "Chiesa di San Marco",
+                "ro": "Chiesa di San Marco",
+                "en": "Chiesa di San Marco"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Bergkirche sieht vor der weißen Landschaft wunderschön aus; genießen Sie die Stille und die Kühle im Inneren.",
+                "hu": "Az egyszerű hegyi templom gyönyörűen mutat a fehér táj előtt; élvezze a csendet és a belső tér hűvös, áhítatos nyugalmát.",
+                "ro": "Biserica montană simplă arată minunat în fața peisajului alb; bucurați-vă de liniștea și calmul interiorului în timpul iernii.",
+                "en": "The simple mountain church looks beautiful against the white landscape; enjoy the silence and the cool, reverent calm of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Oulx",
+                "hu": "Municipio di Oulx",
+                "ro": "Municipio di Oulx",
+                "en": "Municipio di Oulx"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Stadtzentrum auf und genießen Sie die festliche Winterdekoration rund um das Verwaltungsgebäude.",
+                "hu": "Melegedjen fel a városközpontban, és élvezze az ünnepi téli dekorációt a közigazgatási épület és a közeli főtér környékén.",
+                "ro": "Încălziți-vă în centrul orașului și bucurați-vă de decorațiunile festive de iarnă din jurul clădirii administrative și al pieței.",
+                "en": "Warm up in the town center and enjoy the festive winter decorations around the administrative building and nearby square."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria Assunta",
+                "hu": "Santa Maria Assunta",
+                "ro": "Santa Maria Assunta",
+                "en": "Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen Sie vor dem alpinen Frost; nutzen Sie den Besuch für eine kurze Pause vom winterlichen Autofahren.",
+                "hu": "A vastag falak megvédik Önt az alpesi fagytól; használja ki a látogatást egy rövid pihenőre a téli vezetés és a hideg után.",
+                "ro": "Zidurile groase vă protejează de gerul alpin; profitați de vizită pentru o scurtă pauză după condusul prin frigul iernii.",
+                "en": "The thick walls protect you from the Alpine frost; take advantage of the visit for a short break from winter driving and the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz hinaus, um den verschneiten Innenhof der Kapelle zu sehen, bevor Sie zum letzten Ziel der Tour weiterfahren.",
+                "hu": "Lépjen ki egy rövid időre, hogy megnézze a kápolna havas udvarát, mielőtt továbbhajtana a túra utolsó állomása felé.",
+                "ro": "Ieșiți pentru scurt timp să vedeți curtea înzăpezită a capelei, înainte de a pleca spre ultima destinație a turului.",
+                "en": "Step out briefly to see the snowy courtyard of the chapel before driving on to the final destination of your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "San Claudio",
+                "hu": "San Claudio",
+                "ro": "San Claudio",
+                "en": "San Claudio"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Bergstraßen, während die Sonne gegen 17:00 Uhr untergeht und die Gipfel in kaltes Licht taucht.",
+                "hu": "Vezessen óvatosan a hegyi utakon, miközben a nap 17:00 körül lemegy, és a csúcsokat hideg, kék fénybe vonja a nap végén.",
+                "ro": "Conduceți cu prudență pe drumurile montane în timp ce soarele apune în jurul orei 17:00, scăldând vârfurile într-o lumină rece.",
+                "en": "Drive carefully on the mountain roads as the sun sets around 17:00, bathing the peaks in a cold, blue winter light."
+              }
+            }
+          ]
+        }
       }
     }
   }

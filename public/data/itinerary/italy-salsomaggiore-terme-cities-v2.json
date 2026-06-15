@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi központ és annak szakrális épületeinek felfedezésével indul. Délben megcsodáljuk a város gazdag történelmét formáló emlékműveket. A délután frissítő pihenőt kínál a Grotta Polare környékén és további kulturális felfedezéseket tartogat. Este a békés templomi sétával lassan lezárjuk a nap során szerzett élmények feldolgozását.",
         "ro": "Dimineața începe cu explorarea centrului istoric și a clădirilor sale sacre. La prânz, admirăm monumentele care marchează istoria bogată a orașului. După-amiaza oferă o pauză revigorantă la Grotta Polare și alte descoperiri culturale. Seara, lăsăm impresiile să se așeze printr-o plimbare relaxantă către o biserică liniștită de la periferie.",
         "en": "The morning begins with an exploration of the historic center and its sacred buildings. At midday, we admire the monuments that shape the city's rich history. The afternoon offers a refreshing break at the Grotta Polare along with further cultural discoveries. In the evening, we let the day's impressions settle with a gentle walk to a quiet, peaceful church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in den Kirchen und suchen Sie drinnen Schutz. Navigieren Sie mittags mit einem Regenschirm durch das Zentrum. Genießen Sie nachmittags die überdachten Freizeitmöglichkeiten. Beenden Sie den Abend sicher auf den nassen Gehwegen.",
+            "hu": "Kezdje az esős reggelt a helyi templomok fedett, csendes menedékében. Délben sétáljon esernyővel a városközpont történelmi emlékművei között. Délután keressen fedett rekreációs helyszíneket. Az estét óvatosan fejezze be, mivel a vizes utcakövek csúszósak lehetnek.",
+            "ro": "Începeți dimineața ploioasă în bisericile locale, la adăpost. La prânz, plimbați-vă prin centru cu o umbrelă, admirând monumentele. După-amiaza, bucurați-vă de secțiunile interioare ale zonelor de recreere. Încheiați seara cu grijă pe pavajul umed și alunecos.",
+            "en": "Start your rainy morning in the local churches, taking shelter inside. By noon, navigate the town center with an umbrella. In the afternoon, enjoy the indoor sections of recreational spots. End your evening safely as wet pavements reflect the streetlights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Bartolomeo",
+                "hu": "Chiesa di San Bartolomeo",
+                "ro": "Chiesa di San Bartolomeo",
+                "en": "Chiesa di San Bartolomeo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schönen Altäre drinnen, um dem Morgenregen zu entgehen. Bringen Sie einen Regenschirm für den nassen Spaziergang mit.",
+                "hu": "Csodálja meg a gyönyörű oltárokat, és meneküljön be a reggeli eső elől. Hozzon esernyőt a városi épületek közötti rövid, nedves sétához.",
+                "ro": "Admirați altarele frumoase din interior pentru a scăpa de ploaia matinală. Luați o umbrelă pentru scurta plimbare umedă dintre clădiri.",
+                "en": "Admire the beautiful altars inside to escape the morning rain. Bring a small, sturdy umbrella for the short, wet walk between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vitale",
+                "hu": "Chiesa di San Vitale",
+                "ro": "Chiesa di San Vitale",
+                "en": "Chiesa di San Vitale"
+              },
+              "tip_5lang": {
+                "de": "Das friedliche Kirchenschiff bietet perfekten Schutz vor Schauern. Achten Sie auf Ihre Schritte auf den rutschigen, nassen Steinstufen.",
+                "hu": "A békés főhajó tökéletes menedéket nyújt a hirtelen záporok elől. Vigyázzon a lépéseire a templom bejárata előtti csúszós, vizes lépcsőkön.",
+                "ro": "Naosul liniștit oferă un adăpost perfect împotriva averselor. Aveți grijă la pași pe treptele de piatră umede și alunecoase de afară.",
+                "en": "The peaceful nave offers perfect shelter from sudden showers. Watch your step on the slippery wet stone steps outside the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Fante",
+                "hu": "Monumento al Fante",
+                "ro": "Monumento al Fante",
+                "en": "Monumento al Fante"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses beeindruckende Kriegerdenkmal unter Ihrem Regenschirm. Der nasse Stein lässt die Figuren noch markanter wirken.",
+                "hu": "Nézze meg ezt a lenyűgöző háborús emlékművet az esernyője alól. A vizes kő még szembetűnőbbé teszi az ünnepélyes alakokat a szürke időben.",
+                "ro": "Priviți acest impresionant monument de război de sub umbrela dumneavoastră. Piatra umedă face figurile solemne să pară și mai izbitoare.",
+                "en": "View this impressive war memorial from under your umbrella. The wet stone makes the solemn figures look even more striking in the gray weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La grotta polare",
+                "hu": "La grotta polare",
+                "ro": "La grotta polare",
+                "en": "La grotta polare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine warme Pause in diesem Innenraum, während es draußen regnet. Die perfekte Zeit, um Ihre Kleidung zu trocknen und zu entspannen.",
+                "hu": "Élvezze a meleg, fedett pihenőt ezen a helyi ponton, miközben kint esik az eső. Ez a tökéletes alkalom, hogy megszárítsa a ruháit és lazítson.",
+                "ro": "Bucurați-vă de o pauză caldă în interior în timp ce afară plouă. Este momentul perfect pentru a vă usca hainele și a vă relaxa puțin.",
+                "en": "Enjoy a warm indoor break at this local spot while the rain falls outside. It is the perfect time to dry your clothes and relax a little bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Gian Domenico Romagnosi.",
+                "hu": "Monumento a Gian Domenico Romagnosi.",
+                "ro": "Monumento a Gian Domenico Romagnosi.",
+                "en": "Monumento a Gian Domenico Romagnosi."
+              },
+              "tip_5lang": {
+                "de": "Diese Hommage an den berühmten Juristen steht aufrecht im Regen. Halten Sie Ihre Kamera unter dem Mantel trocken, wenn Sie Fotos machen.",
+                "hu": "A híres jogász emlékműve büszkén áll az esőben is. Tartsa szárazon a fényképezőgépét a kabátja alatt, miközben fotózza a nagyszerű szobrot.",
+                "ro": "Acest omagiu adus celebrului jurist stă impunător în ploaie. Păstrați aparatul foto uscat sub haină în timp ce fotografiați statuia.",
+                "en": "This tribute to the famous jurist stands tall in the rain. Keep your camera dry under your coat while taking photos of the grand statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in diesem ruhigen, trockenen Heiligtum. Die Buntglasfenster wirken im regnerischen Nachmittagslicht sehr stimmungsvoll.",
+                "hu": "Fejezze be sétáját ebben a csendes, teljesen száraz szentélyben. Az ólomüveg különösen hangulatosnak tűnik a borús, esős délutáni fényben.",
+                "ro": "Încheiați plimbarea în acest sanctuar liniștit și complet uscat. Vitraliile arată excepțional de melancolic în lumina ploioasă a după-amiezii.",
+                "en": "Conclude your walk inside this quiet, completely dry sanctuary. The stained glass looks exceptionally moody in the dim, rainy afternoon light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren kalten Morgen mit der Erkundung historischer Kirchen. Bummeln Sie mittags eingepackt an den Denkmälern vorbei. Nachmittags macht die frische Luft die warmen Innenräume besonders einladend. Genießen Sie den stimmungsvollen, frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Kezdje a csípős téli reggelt a történelmi templomok felfedezésével. Délben jól beöltözve sétáljon el a város emlékművei mellett. Délután a friss levegő után jól esnek a meleg belső terek. Estefelé, 17:00 körül élvezze a hangulatos korai naplementét a termálváros felett.",
+            "ro": "Începeți dimineața rece de iarnă explorând bisericile istorice. La prânz, înfofoliți-vă în timp ce vă plimbați pe lângă monumente. După-amiaza, aerul rece face opririle interioare deosebit de primitoare. Seara, în jur de 17:00, bucurați-vă de apusul atmosferic devreme.",
+            "en": "Begin the crisp winter morning exploring the historic churches of Salsomaggiore. Around midday, bundle up as you stroll past the town's famous monuments. In the afternoon, the crisp air makes indoor stops especially welcoming. By evening, around 17:00, enjoy the atmospheric early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Bartolomeo",
+                "hu": "Chiesa di San Bartolomeo",
+                "ro": "Chiesa di San Bartolomeo",
+                "en": "Chiesa di San Bartolomeo"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich an einem kalten Wintermorgen in dieser schönen Kirche auf. Beachten Sie, wie das Winterlicht das ruhige Innere beleuchtet.",
+                "hu": "Melegedjen fel ebben a szép történelmi templomban egy hideg téli reggelen. Figyelje meg, ahogy a téli napfény megvilágítja a csendes belső teret.",
+                "ro": "Încălziți-vă în această frumoasă biserică istorică într-o dimineață rece de iarnă. Observați cum lumina soarelui de iarnă iluminează interiorul.",
+                "en": "Warm up inside this lovely historic church on a cold winter morning. Notice how the crisp winter sunlight perfectly illuminates the quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vitale",
+                "hu": "Chiesa di San Vitale",
+                "ro": "Chiesa di San Vitale",
+                "en": "Chiesa di San Vitale"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der frischen Luft in dieses wunderschöne Heiligtum. Tragen Sie einen warmen Schal für den kühlen Spaziergang zwischen den Kirchen.",
+                "hu": "Lépjen be a csípős levegőről ebbe a gyönyörű szentélybe. Viseljen meleg, vastag sálat a város lenyűgöző templomai közötti hűvös sétához.",
+                "ro": "Pășiți din aerul rece în acest sanctuar frumos. Purtați o eșarfă groasă și caldă pentru plimbarea răcoroasă dintre bisericile uimitoare.",
+                "en": "Step out of the brisk air into this beautiful sanctuary. Wear a warm, thick scarf for the chilly walk between the town's stunning churches."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Fante",
+                "hu": "Monumento al Fante",
+                "ro": "Monumento al Fante",
+                "en": "Monumento al Fante"
+              },
+              "tip_5lang": {
+                "de": "Der zarte Winterfrost verleiht diesem Kriegerdenkmal eine ergreifende Note. Ziehen Sie sich warm an, um die feinen Details zu bewundern.",
+                "hu": "A finom téli dér megható érintést ad ennek a háborús emlékműnek. Öltözzön melegen, több rétegbe, hogy legyen ideje megcsodálni a részleteket.",
+                "ro": "Înghețul delicat de iarnă adaugă o notă emoționantă acestui monument. Îmbrăcați-vă călduros în straturi pentru a admira detaliile fine.",
+                "en": "The delicate winter frost adds a poignant touch to this war memorial. Dress warmly in multiple layers to spend time admiring the fine details."
+              }
+            },
+            {
+              "name": {
+                "de": "La grotta polare",
+                "hu": "La grotta polare",
+                "ro": "La grotta polare",
+                "en": "La grotta polare"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Mittagsstopp, um der Winterkälte zu entfliehen. Holen Sie sich in der Nähe ein warmes Getränk, um Ihre Hände warm zu halten.",
+                "hu": "Tökéletes déli megálló, hogy elmeneküljön a téli hideg elől. Vegyen egy meleg, nyugtató italt a közelben, hogy a kezei is felmelegedjenek.",
+                "ro": "O oprire perfectă la prânz pentru a scăpa de frigul iernii. Luați o băutură caldă și reconfortantă din apropiere pentru a vă încălzi mâinile.",
+                "en": "A perfect midday stop to escape the winter chill and rest your feet. Grab a warm, comforting drink nearby to keep your hands fully cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Gian Domenico Romagnosi.",
+                "hu": "Monumento a Gian Domenico Romagnosi.",
+                "ro": "Monumento a Gian Domenico Romagnosi.",
+                "en": "Monumento a Gian Domenico Romagnosi."
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal, wenn die Schatten am Winternachmittag länger werden. Die klare, kalte Luft bietet eine außergewöhnlich gute Sicht.",
+                "hu": "Csodálja meg a nagyszerű emlékművet, ahogy a téli délutáni árnyékok megnyúlnak. A csípős hideg levegő kivételesen tiszta kilátást biztosít.",
+                "ro": "Admirați marele monument pe măsură ce umbrele după-amiezii de iarnă se lungesc. Aerul rece și curat oferă vederi clare asupra statuii.",
+                "en": "Admire the great monument as the winter afternoon shadows lengthen. The crisp, cold air offers exceptionally clear views of the entire statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Kirche, bevor der frühe Sonnenuntergang um 17:00 Uhr naht. Das schwindende Winterlicht schafft eine friedliche Atmosphäre.",
+                "hu": "Látogassa meg ezt a szép templomot a korai, 17:00 órai naplemente előtt. A gyorsan halványuló téli fény hihetetlenül békés hangulatot teremt.",
+                "ro": "Vizitați această biserică frumoasă înainte de apusul devreme de la 17:00. Lumina iernii care dispare rapid creează o atmosferă foarte pașnică.",
+                "en": "Visit this beautiful church before the early 17:00 sunset approaches. The quickly fading winter light creates an incredibly peaceful atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Lendületesen kezdünk egy kerékpározással a város kapui előtt álló fenséges kastélyhoz. Délben visszatérünk a központba, hogy templomokat és történelmi emlékműveket látogassunk meg. A délután zöld területeken és a várostörténet fontos terein vezet keresztül. Este lazán eltekerünk az utolsó templomig, élvezve az esti hűsítő szellőt.",
         "ro": "Începem în forță cu o plimbare cu bicicleta spre castelul maiestuos aflat chiar la marginea orașului. La prânz, ne întoarcem în centru pentru a vizita biserici și monumente istorice. După-amiaza ne poartă prin zone verzi și piețe importante ale istoriei locale. Seara, pedalăm relaxați spre ultima biserică, bucurându-ne de briza răcoroasă.",
         "en": "We start energetically with a ride to the majestic castle located just outside the city. At midday, we return to the center to visit charming churches and historical monuments. The afternoon takes us through green spaces and the important squares of the city's history. In the evening, we cycle reasonably to the final church, enjoying the cool evening breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Radtag mit einer vorsichtigen Fahrt zum Schloss. Radeln Sie mittags vorsichtig auf rutschigen Straßen. Der Nachmittagsregen erfordert gute Ausrüstung. Beenden Sie Ihren feuchten Abend sicher auf gut beleuchteten Wegen.",
+            "hu": "Kezdje a nedves kerékpáros napot egy óvatos túrával a kastélyhoz. Délben tekerjen óvatosan a csúszós utakon az emlékművek felé. A délutáni esőben jó vízálló felszerelésre van szükség. Fejezze be a nyirkos estét biztonságosan a kivilágított utakon maradva.",
+            "ro": "Începeți ziua umedă de ciclism cu o plimbare atentă spre castel. La prânz, pedalați cu prudență pe drumurile alunecoase. Ploaia de după-amiază necesită echipament bun. Încheiați seara umedă în siguranță, mergând pe căi bine luminate.",
+            "en": "Start your wet cycling day with a careful ride to the magnificent castle. At noon, cycle cautiously on slippery roads toward the monuments. The afternoon rain requires good gear as you visit the landmarks. Finish your damp evening safely by sticking to well-lit paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Scipione",
+                "hu": "Castello di Scipione",
+                "ro": "Castello di Scipione",
+                "en": "Castello di Scipione"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Bereiche des Schlosses, während es stark regnet. Denken Sie an einen wasserdichten Bezug für Ihren Fahrradsattel.",
+                "hu": "Fedezze fel a kastély gyönyörű fedett részeit, miközben zuhog az eső. Ne felejtsen el vízálló huzatot használni a kerékpár nyergén kint.",
+                "ro": "Explorați zonele acoperite ale castelului în timp ce plouă torențial. Nu uitați să folosiți o husă impermeabilă pentru șaua bicicletei.",
+                "en": "Explore the castle's beautiful covered areas while the rain pours heavily. Remember to use a waterproof cover for your bike seat outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vitale",
+                "hu": "Chiesa di San Vitale",
+                "ro": "Chiesa di San Vitale",
+                "en": "Chiesa di San Vitale"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie in dieser ruhigen Kirche eine Pause vom Radfahren im Regen. Achten Sie besonders auf rutschiges Kopfsteinpflaster am Haupteingang.",
+                "hu": "Tartson egy pihentető szünetet az esőben való tekerés után ebben a csendes templomban. Nagyon vigyázzon a főbejárat körüli csúszós macskakövekre.",
+                "ro": "Luați o pauză relaxantă de la ciclismul prin ploaie în această biserică. Fiți foarte atenți la pietrele cubice alunecoase de lângă intrarea principală.",
+                "en": "Take a relaxing break from cycling in the rain inside this quiet church. Be highly careful of slippery cobblestones near the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Fante",
+                "hu": "Monumento al Fante",
+                "ro": "Monumento al Fante",
+                "en": "Monumento al Fante"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie bei leichtem Regen kurz an diesem historischen Denkmal. Stellen Sie sicher, dass Ihre Fahrradbremsen auf den nassen Straßen gut funktionieren.",
+                "hu": "Tartson egy rövid szünetet a történelmi emlékműnél az enyhe esőben. Győződjön meg róla, hogy a kerékpár fékjei tökéletesen működnek a vizes utakon.",
+                "ro": "Faceți o scurtă pauză la monumentul istoric în ploaia ușoară. Asigurați-vă că frânele bicicletei funcționează perfect pe drumurile umede.",
+                "en": "Pause briefly by the historic memorial in the light rain. Ensure your bike brakes are working perfectly on the wet and slippery roads here."
+              }
+            },
+            {
+              "name": {
+                "de": "La grotta polare",
+                "hu": "La grotta polare",
+                "ro": "La grotta polare",
+                "en": "La grotta polare"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bequemen Schutz und trocknen Sie sich an diesem Ort etwas ab. Ein fantastischer Ort, um Ihre kalten Hände aufzuwärmen.",
+                "hu": "Keressen kényelmes menedéket, és szárátkozzon meg egy kicsit ezen a helyi ponton. Fantasztikus hely, hogy felmelegítse a hideg kezeit tekerés közben.",
+                "ro": "Căutați un adăpost confortabil și uscați-vă puțin în acest loc fascinant. Este un loc fantastic pentru a vă încălzi mâinile reci.",
+                "en": "Seek comfortable shelter and dry off a bit at this fascinating local spot. It is a fantastic place to warm up your cold hands mid-ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Gian Domenico Romagnosi.",
+                "hu": "Monumento a Gian Domenico Romagnosi.",
+                "ro": "Monumento a Gian Domenico Romagnosi.",
+                "en": "Monumento a Gian Domenico Romagnosi."
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Regen langsam an dieser riesigen historischen Statue vorbei. Tragen Sie immer gut sichtbare Kleidung bei diesem trüben Wetter.",
+                "hu": "Tekerjen lassan el e hatalmas történelmi szobor mellett az esőben. Mindig viseljen élénk, jól látható felszerelést a borús időben a biztonságért.",
+                "ro": "Mergeți încet pe lângă această uriașă statuie istorică în ploaie. Purtați întotdeauna echipament foarte vizibil pentru a fi în siguranță.",
+                "en": "Ride slowly past this huge historic statue in the rain. Always wear bright, high-visibility gear to stay totally safe in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Ausiliatrice",
+                "hu": "Chiesa di Santa Maria Ausiliatrice",
+                "ro": "Chiesa di Santa Maria Ausiliatrice",
+                "en": "Chiesa di Santa Maria Ausiliatrice"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Radtour in dieser friedlichen, warmen Kirche. Das trockene Innere ist eine wunderbare Erleichterung nach der Regenfahrt.",
+                "hu": "Fejezze be a nedves kerékpártúrát ebben a békés, meleg templomban. A teljesen száraz belső tér csodálatos megkönnyebbülés az esős kaland után.",
+                "ro": "Încheiați plimbarea umedă cu bicicleta în această biserică pașnică. Interiorul complet uscat este o ușurare minunată după o aventură ploioasă.",
+                "en": "End your wet bicycle ride inside this peaceful, warm church. The completely dry interior is a wonderful relief after a rainy cycling adventure."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frische Winterfahrt zum historischen Schloss. Radeln Sie mittags durch das kühle Stadtzentrum. Nachmittags gibt Ihnen die klare Luft Energie für lokale Sehenswürdigkeiten. Denken Sie an Ihr Fahrradlicht, da die Sonne schon um 17:00 Uhr untergeht.",
+            "hu": "Kezdje a fagyos téli túrát a történelmi kastély felé tekerve. Délben kerékpározzon a hűvös városközpontban. Délután a friss levegő energiát ad a helyi látnivalók felfedezéséhez. Gondoskodjon a biciklilámpákról, mivel a téli nap már 17:00 óra körül leereszkedik.",
+            "ro": "Începeți plimbarea de iarnă pedalând spre castelul istoric. La prânz, mergeți prin centrul răcoros al orașului. După-amiaza, aerul rece vă menține plin de energie. Asigurați-vă că aveți lumini la bicicletă, deoarece soarele de iarnă apune devreme, în jur de 17:00.",
+            "en": "Begin your brisk winter ride heading up to the historic castle. By midday, cycle through the chilly town center. In the afternoon, the crisp air keeps you energized as you visit local spots. Make sure your bike has lights, as the winter sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Scipione",
+                "hu": "Castello di Scipione",
+                "ro": "Castello di Scipione",
+                "en": "Castello di Scipione"
+              },
+              "tip_5lang": {
+                "de": "Das große Schloss sieht in der frostigen Winterluft absolut atemberaubend aus. Tragen Sie sehr warme Handschuhe für die kühle Bergauffahrt.",
+                "hu": "A hatalmas kastély lenyűgözően néz ki a fagyos téli levegőben. Viseljen nagyon meleg, vastag kesztyűt a hűvös, hegynek felfelé vezető úton.",
+                "ro": "Marele castel arată absolut uimitor în aerul înghețat de iarnă. Purtați mănuși foarte calde pentru plimbarea răcoroasă la deal spre intrare.",
+                "en": "The grand castle looks absolutely stunning in the frosty winter air. Wear very warm, thick gloves for the chilly uphill ride to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Vitale",
+                "hu": "Chiesa di San Vitale",
+                "ro": "Chiesa di San Vitale",
+                "en": "Chiesa di San Vitale"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach einer frischen Radtour durch die Stadt drinnen auf. Das tiefe Winterlicht hebt die feinen Details der Kirche wunderschön hervor.",
+                "hu": "Melegedjen fel bent, miután tett egy gyors, hideg kört a történelmi városban. Az alacsony téli fény gyönyörűen kiemeli a templom finom részleteit.",
+                "ro": "Încălziți-vă înăuntru după o plimbare rece prin orașul istoric. Lumina scăzută a iernii evidențiază frumos detaliile fine ale bisericii.",
+                "en": "Warm up inside after a brisk, cold cycle through the historic town. The low winter light beautifully highlights the church's fine details."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Fante",
+                "hu": "Monumento al Fante",
+                "ro": "Monumento al Fante",
+                "en": "Monumento al Fante"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie bei diesem kalten Winterwetter an dem beeindruckenden Denkmal. Behalten Sie Ihre Thermokleidung an, um sich beim Ausruhen nicht zu erkälten.",
+                "hu": "Álljon meg ennél a lenyűgöző emlékműnél a csípős, hideg téli időben. Tartsa szorosan magán a termo rétegeket, hogy ne fázzon meg pihenés közben.",
+                "ro": "Opriți-vă la acest memorial în vremea rece de iarnă. Păstrați straturile termice bine închise pentru a evita să răciți în timp ce vă odihniți.",
+                "en": "Stop by this impressive memorial in the crisp, cold winter weather. Keep your thermal layers on tightly to avoid catching a chill while resting."
+              }
+            },
+            {
+              "name": {
+                "de": "La grotta polare",
+                "hu": "La grotta polare",
+                "ro": "La grotta polare",
+                "en": "La grotta polare"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger, gemütlicher Stopp drinnen, um Ihre Finger und Zehen aufzutauen. Genießen Sie die warme Atmosphäre, bevor Sie wieder aufs Rad steigen.",
+                "hu": "Egy nagyszerű, hangulatos benti megálló, ahol teljesen kiolvaszthatja a kezét és a lábát. Élvezze a kivételesen meleg légkört a kerékpározás előtt.",
+                "ro": "O oprire grozavă în interior pentru a vă dezgheța complet degetele. Bucurați-vă de atmosfera excepțional de caldă înainte de a urca pe bicicletă.",
+                "en": "A great, cozy indoor stop to defrost your fingers and toes completely. Enjoy the exceptionally warm atmosphere before getting back on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Gian Domenico Romagnosi.",
+                "hu": "Monumento a Gian Domenico Romagnosi.",
+                "ro": "Monumento a Gian Domenico Romagnosi.",
+                "en": "Monumento a Gian Domenico Romagnosi."
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet eine tolle Kulisse für diese große Statue. Achten Sie auf versteckte Eisflächen auf den umliegenden Wegen.",
+                "hu": "A tiszta, világos téli égbolt nagyszerű hátteret biztosít a nagy szobornak. Vigyázzon a teljesen rejtett jeges foltokra a környező ösvényeken.",
+                "ro": "Cerul senin de iarnă oferă un fundal minunat pentru această statuie mare. Atenție la peticele de gheață complet ascunse de pe cărările din jur.",
+                "en": "The clear, bright winter sky provides a great backdrop for this large statue. Watch out for completely hidden icy patches on the surrounding paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Ausiliatrice",
+                "hu": "Chiesa di Santa Maria Ausiliatrice",
+                "ro": "Chiesa di Santa Maria Ausiliatrice",
+                "en": "Chiesa di Santa Maria Ausiliatrice"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese schöne Kirche, wenn der frühe Wintersonnenuntergang naht. Stellen Sie sicher, dass Ihre Fahrradlichter für die Rückfahrt brennen.",
+                "hu": "Látogasson el ebbe a kedves templomba, ahogy a korai téli naplemente gyorsan közeledik. Győződjön meg róla, hogy a kerékpár lámpái be vannak kapcsolva.",
+                "ro": "Vizitați această biserică frumoasă exact când apusul devreme se apropie rapid. Asigurați-vă că luminile bicicletei sunt aprinse pentru întoarcere.",
+                "en": "Visit this lovely church just as the early winter sunset rapidly approaches. Ensure your bike lights are firmly on for the dark evening ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A kényelmes autós túra a dombokon fekvő lenyűgöző Castello di Scipione megtekintésével kezdődik. Délben a város könnyen megközelíthető műemlékeit és templomait fedezzük fel. A délután pihentető utazást kínál a rekreációs területek és további történelmi pontok felé. Az estét egy spirituális helyszínen tett csendes, nyugodt megállóval zárjuk.",
         "ro": "Turul confortabil cu mașina începe cu impresionantul Castello di Scipione de pe dealuri. La prânz, explorăm monumentele și bisericile ușor accesibile din zona urbană. După-amiaza oferă o călătorie relaxantă către zonele de recreere și alte puncte istorice importante. Încheiem seara cu o oprire liniștită la un loc spiritual și profund relaxant.",
         "en": "The comfortable car tour begins with the impressive Castello di Scipione situated in the hills. At midday, we explore the easily accessible monuments and churches within the urban area. The afternoon offers a relaxing drive to the recreational areas and further historical landmarks. We conclude the evening with a quiet stop at a deeply spiritual site."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zum Schloss und genießen Sie den Regen aus dem warmen Auto. Navigieren Sie mittags durch die nassen Straßen. Machen Sie nachmittags kurze Sprints zu den Innenattraktionen. Beenden Sie den regnerischen Abend sicher, wenn die nassen Straßen die Lichter spiegeln.",
+            "hu": "Vezessen a kastélyhoz reggel, élvezve a hangulatos esőt a meleg autóból. Délben navigáljon a nedves utcákon az emlékművek felé. Délután tegyen rövid sprinteket a fedett látnivalókig. Fejezze be az esős estét biztonságosan, ahogy a nedves utak gyönyörűen tükrözik a városi fényeket.",
+            "ro": "Conduceți la castel dimineața, bucurându-vă de ploaia melancolică din mașina caldă. La prânz, navigați pe străzile umede. După-amiaza, faceți scurte alergări către atracțiile interioare. Încheiați seara ploioasă în siguranță, în timp ce drumurile umede reflectă luminile orașului.",
+            "en": "Drive to the castle in the morning, enjoying the moody rain from your warm car. At midday, navigate the wet streets to see the monuments. Spend the afternoon taking short dashes to indoor attractions. End your rainy evening safely as the wet roads reflect the city lights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Scipione",
+                "hu": "Castello di Scipione",
+                "ro": "Castello di Scipione",
+                "en": "Castello di Scipione"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sehr nah am Haupteingang, um dem starken Regen zu entgehen. Die prächtigen Innenräume des Schlosses sind perfekt für einen nassen Tag.",
+                "hu": "Parkoljon nagyon közel a főbejárathoz, hogy sikeresen elkerülje a heves esőzést. A kastély nagyszerű belső terei tökéletesek egy esős napi felfedezéshez.",
+                "ro": "Parcați foarte aproape de intrarea principală pentru a evita ploaia puternică. Interioarele mărețe ale castelului sunt perfecte pentru o zi complet umedă.",
+                "en": "Park very close to the main entrance to successfully avoid the heavy rain. The castle's grand interiors are perfect for exploring on a totally wet day."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie direkt aus Ihrem warmen Auto in diese schöne Kirche, um trocken zu bleiben. Der starke Regen draußen verleiht dem Raum ein friedliches Ambiente.",
+                "hu": "Sprinteljen egyenesen a meleg autóból ebbe a szép történelmi templomba. A kinti heves eső nyugtató, békés hangulatot kölcsönöz a belső térnek.",
+                "ro": "Fugiți direct din mașina caldă în această biserică istorică frumoasă pentru a rămâne uscați. Ploaia puternică de afară adaugă o ambianță liniștitoare.",
+                "en": "Dash directly from your warm car into this beautiful historic church to stay dry. The heavy rain outside adds a soothing, peaceful ambiance to the space."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Fante",
+                "hu": "Monumento al Fante",
+                "ro": "Monumento al Fante",
+                "en": "Monumento al Fante"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal durch Ihre Autofenster oder kurz mit einem Regenschirm. Fahren Sie vorsichtig, da die nassen Steinstraßen rutschig sein können.",
+                "hu": "Nézze meg a lenyűgöző emlékművet az autó ablakán keresztül vagy egy esernyővel. Vezessen óvatosan, mivel a környező vizes kőutak nagyon csúszósak lehetnek.",
+                "ro": "Priviți monumentul prin geamurile mașinii sau scurt cu o umbrelă. Conduceți cu atenție, deoarece drumurile umede din piatră pot fi alunecoase.",
+                "en": "View the stunning memorial through your car windows or briefly with an umbrella. Drive carefully locally, as the surrounding wet stone roads can be slick."
+              }
+            },
+            {
+              "name": {
+                "de": "La grotta polare",
+                "hu": "La grotta polare",
+                "ro": "La grotta polare",
+                "en": "La grotta polare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine wunderbar warme Pause drinnen nach der langen Regenfahrt. Halten Sie einen stabilen Regenschirm für den kurzen Fußweg bereit.",
+                "hu": "Élvezze a csodálatosan meleg, fedett pihenőt a hosszú esős vezetés után. Tartson kéznél egy masszív esernyőt a parkolóból vezető rövid sétához.",
+                "ro": "Bucurați-vă de o pauză minunată și caldă în interior, departe de drumul ploios. Păstrați o umbrelă la îndemână pentru scurta plimbare de la parcare.",
+                "en": "Enjoy a wonderfully warm, indoor break away from the long rainy drive. Keep a sturdy umbrella handy for the extremely short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Gian Domenico Romagnosi.",
+                "hu": "Monumento a Gian Domenico Romagnosi.",
+                "ro": "Monumento a Gian Domenico Romagnosi.",
+                "en": "Monumento a Gian Domenico Romagnosi."
+              },
+              "tip_5lang": {
+                "de": "Dieses imposante Denkmal sticht auch im grauen Regen perfekt hervor. Benutzen Sie Ihre Scheibenwischer, um direkt aus dem Auto einen klaren Blick zu haben.",
+                "hu": "Ez az impozáns és jelentős emlékmű a szürke esőben is tökéletesen kiemelkedik. Használja az ablaktörlőket, hogy kristálytisztán lásson közvetlenül az autóból.",
+                "ro": "Acest monument impunător iese în evidență perfect chiar și în ploaia gri. Folosiți ștergătoarele pentru a obține o vedere clară direct din mașină.",
+                "en": "This imposing and significant monument stands out perfectly even in the gray rain. Use your windshield wipers to get a crystal clear look right from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Ausiliatrice",
+                "hu": "Chiesa di Santa Maria Ausiliatrice",
+                "ro": "Chiesa di Santa Maria Ausiliatrice",
+                "en": "Chiesa di Santa Maria Ausiliatrice"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in dieser völlig trockenen Kirche, wenn der Regentag langsam endet. Die dunklen, nassen Straßen erfordern abends vorsichtiges Fahren.",
+                "hu": "Keressen teljes menedéket ebben a száraz templomban, ahogy az esős nap lassan véget ér. A közeli sötét, nedves utcák rendkívül óvatos esti vezetést igényelnek.",
+                "ro": "Căutați refugiu absolut în această biserică uscată pe măsură ce ziua ploioasă se termină. Străzile întunecate și umede necesită conducere foarte atentă.",
+                "en": "Seek absolute refuge in this entirely dry church as the rainy day slowly ends. The dark, wet streets nearby require highly careful evening driving."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintermorgen mit der Fahrt zum frostigen Schloss. Genießen Sie mittags die Denkmäler aus dem Komfort Ihres beheizten Autos. Der Nachmittag bietet eine klare Sicht auf die Statuen. Bereiten Sie sich auf den frühen Sonnenuntergang um 17:00 Uhr vor, für eine malerische Abendfahrt.",
+            "hu": "Kezdje a téli reggelt a fagyos kastélyhoz való felvezetéssel. Délben élvezze az emlékműveket a fűtött autó tökéletes kényelméből. A délután kivételesen tiszta kilátást nyújt a szobrokra. Készüljön fel a korai, 17:00 órai naplementére, amely gyönyörű, sötét és festői esti autózást tesz lehetővé.",
+            "ro": "Începeți dimineața de iarnă conducând spre castelul înghețat. La prânz, bucurați-vă de monumente din confortul suprem al mașinii încălzite. După-amiaza oferă vederi clare asupra statuilor istorice. Pregătiți-vă pentru apusul de la 17:00, făcând o plimbare de seară frumos de întunecată și pitorească.",
+            "en": "Start your winter morning driving up to the frosty castle. By noon, enjoy the town's monuments from the ultimate comfort of your heated car. The afternoon offers exceptionally crisp views of the historic statues. Be prepared for an early sunset at 17:00, making for a beautifully dark, scenic evening drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Scipione",
+                "hu": "Castello di Scipione",
+                "ro": "Castello di Scipione",
+                "en": "Castello di Scipione"
+              },
+              "tip_5lang": {
+                "de": "Das alte Schloss sieht magisch aus, völlig umgeben von morgendlichem Winterfrost. Nutzen Sie die Autoheizung, um sich nach der Erkundung des Geländes aufzuwärmen.",
+                "hu": "Az ősi kastély varázslatosan néz ki, ahogy a reggeli téli fagy teljesen körülveszi. Használja az autó fűtését a melegedéshez a hűvös birtok felfedezése után.",
+                "ro": "Vechiul castel arată magic înconjurat complet de înghețul dimineții. Folosiți încălzitorul puternic al mașinii pentru a vă încălzi după explorarea terenurilor.",
+                "en": "The ancient castle looks magical completely surrounded by morning winter frost. Use your car's strong heater to stay warm after exploring the chilly grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der extremen Kälte direkt in diese einladende, friedliche Kirche. Die helle Wintersonne beleuchtet wunderschön ihre klassische Steinfassade.",
+                "hu": "Lépjen be egyenesen az extrém hidegből ebbe a barátságos, békés templomba. A ragyogó téli napsütés gyönyörűen megvilágítja a klasszikus kőhomlokzatot.",
+                "ro": "Pășiți direct din frigul extrem în această biserică primitoare și liniștită. Soarele strălucitor de iarnă luminează frumos fațada sa clasică de piatră.",
+                "en": "Step directly out of the extreme cold and into this welcoming, peaceful church. The bright winter sunshine beautifully illuminates its classical stone facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Fante",
+                "hu": "Monumento al Fante",
+                "ro": "Monumento al Fante",
+                "en": "Monumento al Fante"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das frostbedeckte Kriegerdenkmal in der klaren Winterluft. Seien Sie sehr vorsichtig wegen möglicher gefährlicher Eisglätte auf den Parkplätzen.",
+                "hu": "Csodálja meg a gyönyörű, dérrel borított háborús emlékművet a csípős téli levegőben. Legyen rendkívül óvatos a közeli parkolókban lévő veszélyes fekete jég miatt.",
+                "ro": "Admirați frumosul monument de război acoperit de gheață în aerul de iarnă. Fiți foarte precauți la posibila gheață neagră periculoasă din parcările din apropiere.",
+                "en": "Admire the beautiful, frost-covered war memorial in the crisp winter air. Be highly cautious of dangerous potential black ice in the parking areas nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "La grotta polare",
+                "hu": "La grotta polare",
+                "ro": "La grotta polare",
+                "en": "La grotta polare"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar gemütlicher Stopp drinnen, um der strengen Winterkälte zu entfliehen. Genießen Sie die angenehme Wärme, bevor Sie in Ihr beheiztes Fahrzeug zurückkehren.",
+                "hu": "Csodálatosan hangulatos benti megálló, ahol elmenekülhet a csípős, zord téli hideg elől. Élvezze a kényelmes meleget, mielőtt visszarohanna a fűtött járműbe.",
+                "ro": "O oprire interioară minunat de confortabilă pentru a scăpa de frigul aspru. Bucurați-vă de căldura confortabilă înainte de a vă întoarce în vehicul.",
+                "en": "A wonderfully cozy indoor stop to escape the biting and harsh winter cold. Enjoy the comfortable warmth fully before rushing back into your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Gian Domenico Romagnosi.",
+                "hu": "Monumento a Gian Domenico Romagnosi.",
+                "ro": "Monumento a Gian Domenico Romagnosi.",
+                "en": "Monumento a Gian Domenico Romagnosi."
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht wirft lange, dramatische Schatten auf diese historische Statue. Ein sehr schneller, einfacher visueller Stopp, ohne viel Zeit frierend zu verbringen.",
+                "hu": "A csípős téli fény hosszú, drámai árnyékokat vet erre a történelmi szoborra. Nagyon gyors, egyszerű vizuális megálló anélkül, hogy túl sok időt töltene fagyoskodva.",
+                "ro": "Lumina rece de iarnă aruncă umbre lungi și dramatice pe această statuie. Este o oprire vizuală foarte rapidă și ușoară, fără a petrece prea mult timp în frig.",
+                "en": "The crisp winter light casts long, dramatic shadows across this historic statue. It is a very quick, easy visual stop without spending too much time freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Ausiliatrice",
+                "hu": "Chiesa di Santa Maria Ausiliatrice",
+                "ro": "Chiesa di Santa Maria Ausiliatrice",
+                "en": "Chiesa di Santa Maria Ausiliatrice"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese außergewöhnlich schöne Kirche, wenn die frühe Winterdämmerung hereinbricht. Das schwindende Tageslicht um 17:00 Uhr sorgt für eine malerische Heimfahrt.",
+                "hu": "Látogasson el ebbe a kivételesen kedves templomba, ahogy a kora téli szürkület beáll. A halványuló 17:00 órai nappali fény nagyon festői és hangulatos utat biztosít.",
+                "ro": "Vizitați această biserică excepțional de frumoasă pe măsură ce amurgul de iarnă se așterne. Lumina zilei care dispare la 17:00 oferă un drum pitoresc spre casă.",
+                "en": "Visit this exceptionally lovely church as the early winter dusk firmly settles. The fading 17:00 daylight makes for a very scenic and atmospheric drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a város szívében kortárs művészettel, majd tekintse meg a történelmi színház lenyűgöző építészetét. Délben sétáljon délre, Odderøya szigete felé, és merüljön el a tengerészeti történelemben a múzeumkikötőben. A délután egy festői világítótoronyhoz vezet, ahonnan csodálatos kilátás nyílik a tengerre. Zárja a napot egy 17. századi erőd sáncain sétálva, mielőtt megpihenne a népszerű Bystranda homokos tengerpartján.",
         "ro": "Începeți dimineața în inima orașului cu artă contemporană, urmată de o privire asupra arhitecturii teatrului istoric. La prânz, plimbați-vă spre insula Odderøya, scufundându-vă în istoria maritimă la portul muzeu. După-amiaza vă recompensează cu o plimbare spre un far pitoresc pentru vederi panoramice ale mării. Încheiați ziua pe meterezele unei fortărețe din secolul al XVII-lea, înainte de a vă relaxa pe nisipul fin al plajei Bystranda.",
         "en": "Start your morning in the heart of the city with inspiring contemporary art, followed by a look at the striking historic theater architecture. By midday, wander south towards the coastal island of Odderøya, immersing yourself in fascinating maritime history at the local museum harbor. The afternoon rewards you with a scenic stroll to a picturesque lighthouse for sweeping sea views. End your day walking the ramparts of a 17th-century fortress before relaxing on the sandy shores of Bystranda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Kunsthalle, während draußen der Küstenregen fällt. Mittags führt ein kurzer Spaziergang unter dem Schirm zum Theater. Am Nachmittag erkunden wir die überdachten Bereiche des Museumshafens. Der Abend klingt an der Festung aus, wo die graue Nordsee eine dramatische Kulisse bildet, perfekt für wetterfeste Entdecker.",
+            "hu": "Reggel a művészeti galéria belső tereiben indul a program, elkerülve az első záporokat. Délben a színház környékén sétálunk ernyővel a modern épületek között. Délután a múzeumkikötő fedett tárlatait böngésszük, miközben hallgatjuk az eső kopogását. Estére az erőd falai mellett figyeljük a szürke tengert, vízálló öltözetben élvezve a friss, párás parti levegőt.",
+            "ro": "Dimineața începe la adăpost în galeria de artă, în timp ce ploaia de coastă cade afară. La prânz, o scurtă plimbare sub umbrelă ne duce spre teatru. După-amiaza explorăm zonele acoperite ale portului muzeu. Seara se încheie la fortăreață, unde marea cenușie oferă un decor dramatic, perfect pentru exploratorii dotați cu pelerine de ploaie.",
+            "en": "The morning starts sheltered in the art gallery while coastal rain falls outside. At noon, a short walk under an umbrella leads to the theater. In the afternoon, we explore the covered areas of the museum harbor. The evening ends at the fortress, where the grey North Sea provides a dramatic backdrop, perfect for explorers in waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kristiansand Kunsthall",
+                "hu": "Kristiansand Műcsarnok",
+                "ro": "Galeria de Artă Kristiansand",
+                "en": "Kristiansand Kunsthall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunst im Trockenen; die großen Fenster bieten einen tollen Blick auf die verregneten Straßen Kristiansands.",
+                "hu": "Élvezze a kortárs művészetet szárazon; a hatalmas ablakokból kiváló kilátás nyílik Kristiansand eső áztatta utcáira.",
+                "ro": "Bucurați-vă de arta contemporană la adăpost; ferestrele mari oferă o vedere excelentă spre străzile ploioase ale orașului.",
+                "en": "Enjoy contemporary art while staying dry; the large windows offer a great view of Kristiansand's rain-soaked streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristiansand Theater",
+                "hu": "Kristiansand Színház",
+                "ro": "Teatrul Kristiansand",
+                "en": "Kristiansand teater"
+              },
+              "tip_5lang": {
+                "de": "Dieses architektonische Juwel bietet exzellenten Schutz; nutzen Sie das Foyer für eine Pause, falls der Regen draußen stärker wird.",
+                "hu": "Ez az építészeti gyöngyszem kiváló menedéket nyújt; használja az előcsarnokot pihenésre, ha odakint felerősödne az eső.",
+                "ro": "Această bijuterie arhitecturală oferă un adăpost excelent; folosiți foierul pentru o pauză dacă ploaia se intensifică afară.",
+                "en": "This architectural gem provides excellent shelter; use the foyer for a break if the rain intensifies outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Odderøya Museumshafen",
+                "hu": "Odderøya Múzeumkikötő",
+                "ro": "Portul Muzeu Odderøya",
+                "en": "Odderøya Museumshavn"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die maritime Geschichte in den überdachten Ausstellungen; tragen Sie rutschfeste Schuhe auf den nassen Holzstegen.",
+                "hu": "Ismerje meg a tengerészeti múltat a fedett kiállításokon; viseljen csúszásmentes talpú cipőt a nedves fa mólókon.",
+                "ro": "Aflați mai multe despre istoria maritimă în expozițiile acoperite; purtați încălțăminte antiderapantă pe pontoanele umede.",
+                "en": "Learn about maritime history in the covered exhibitions; wear non-slip shoes on the wet wooden piers."
+              }
+            },
+            {
+              "name": {
+                "de": "Odderøya Leuchtturm",
+                "hu": "Odderøya Világítótorony",
+                "ro": "Farul Odderøya",
+                "en": "Odderøya Fyr"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm kann bei Regen rutschig sein; feste Stiefel sind nötig, um den Blick auf die stürmische See sicher zu genießen.",
+                "hu": "A világítótoronyhoz vezető út esőben csúszós lehet; stabil bakancs szükséges a viharos tenger látványának biztonságos élvezetéhez.",
+                "ro": "Drumul spre far poate fi alunecos pe ploaie; sunt necesare ghete solide pentru a savura în siguranță vederea mării învolburate.",
+                "en": "The path to the lighthouse can be slippery in the rain; sturdy boots are needed to safely enjoy the view of the stormy sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm festning"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten Schutz vor dem Wind; beobachten Sie von hier aus, wie die Wellen gegen die Stadtmauer schlagen.",
+                "hu": "A vastag kőfalak védelmet nyújtanak a szél ellen; figyelje innen, ahogy a hullámok a városfalnak csapódnak.",
+                "ro": "Zidurile groase de piatră oferă protecție împotriva vântului; observați de aici cum valurile se sparg de zidurile orașului.",
+                "en": "The thick stone walls provide protection from the wind; watch from here as the waves crash against the city walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtstrand Bystranda",
+                "hu": "Bystranda Városi Strand",
+                "ro": "Plaja orașului Bystranda",
+                "en": "Bystranda"
+              },
+              "tip_5lang": {
+                "de": "Der Strand hat auch bei Regen eine ruhige Atmosphäre; nutzen Sie das nahegelegene Aquarama, falls Sie sich komplett aufwärmen möchten.",
+                "hu": "A strandnak esőben is nyugodt hangulata van; használja a közeli Aquarama épületét, ha teljesen fel szeretne melegedni.",
+                "ro": "Plaja are o atmosferă liniștită chiar și pe ploaie; folosiți centrul Aquarama din apropiere dacă doriți să vă încălziți complet.",
+                "en": "The beach has a peaceful atmosphere even in the rain; use the nearby Aquarama if you want to warm up completely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen starten wir in der beheizten Kunsthalle. Mittags spazieren wir durch den Pulverschnee zum modernen Theater. Da die Sonne bereits gegen 15:30 Uhr untergeht, wandern wir früh zur Odderøya-Spitze. Den Abend verbringen wir bei der beleuchteten Festung, dick eingepackt in Wolle, um der frostigen Meeresbrise zu trotzen.",
+            "hu": "A hideg reggelt a fűtött műcsarnokban kezdjük, ahol a fényes terek feledtetik a kinti fagyot. Délben rövid séta következik a színház felé a ropogós hóban. Délután még a korai naplemente előtt kimegyünk a világítótoronyhoz a tengerparti szélben. Este a kivilágított erőd fényeinél zárunk, gyapjúruházatba bugyolálva a jeges északi szél ellen.",
+            "ro": "Într-o dimineață clară de iarnă, începem în galeria de artă încălzită. La prânz, ne plimbăm prin zăpadă spre teatrul modern. Deoarece soarele apune deja în jurul orei 15:30, mergem devreme spre vârful Odderøya. Seara o petrecem lângă fortăreața iluminată, bine înfofoliți în lână pentru a rezista brizei înghețate.",
+            "en": "On a crisp winter morning, we start in the heated art gallery. At noon, we walk through the snow to the modern theater. Since the sun sets by 15:30, we hike early to the Odderøya tip. The evening is spent by the illuminated fortress, bundled up in wool to withstand the freezing sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kristiansand Kunsthall",
+                "hu": "Kristiansand Műcsarnok",
+                "ro": "Galeria de Artă Kristiansand",
+                "en": "Kristiansand Kunsthall"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Tag in dieser warmen Galerie; die hellen Exponate sind ein perfekter Kontrast zum grauen Winterhimmel draußen.",
+                "hu": "Kezdje a napot ebben a meleg galériában; a fényes kiállítási tárgyak tökéletes kontrasztot alkotnak a kinti szürke téli éggel.",
+                "ro": "Începeți ziua în această galerie călduroasă; exponatele luminoase sunt un contrast perfect pentru cerul gri de iarnă.",
+                "en": "Start the day in this warm gallery; the bright exhibits are a perfect contrast to the grey winter sky outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristiansand Theater",
+                "hu": "Kristiansand Színház",
+                "ro": "Teatrul Kristiansand",
+                "en": "Kristiansand teater"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Zentrum im Herzen der Stadt; achten Sie darauf, wie die Beleuchtung den Schnee bei Dämmerung in Szene setzt.",
+                "hu": "Kulturális központ a város szívében; figyelje meg, hogyan világítja meg a modern fényrendszer a havat a szürkületben.",
+                "ro": "Un centru cultural în inima orașului; observați cum iluminatul modern pune în valoare zăpada la amurg.",
+                "en": "A cultural hub in the heart of the city; notice how the modern lighting illuminates the snow at dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Odderøya Museumshafen",
+                "hu": "Odderøya Múzeumkikötő",
+                "ro": "Portul Muzeu Odderøya",
+                "en": "Odderøya Museumshavn"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter besonders friedlich; kleiden Sie sich in Schichten, da der Wind vom Meer sehr beißend sein kann.",
+                "hu": "A kikötő télen különösen békés; öltözzön rétegesen, mert a tenger felől érkező szél nagyon metsző lehet ilyenkor.",
+                "ro": "Portul este deosebit de liniștit iarna; îmbrăcați-vă în straturi, deoarece vântul de pe mare poate fi foarte tăios.",
+                "en": "The harbor is particularly peaceful in winter; dress in layers as the sea breeze can be quite biting this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Odderøya Leuchtturm",
+                "hu": "Odderøya Világítótorony",
+                "ro": "Farul Odderøya",
+                "en": "Odderøya Fyr"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 15:00 Uhr, um das Licht der blauen Stunde zu nutzen, bevor es am Kap komplett dunkel wird.",
+                "hu": "Tervezze látogatását 15:00 előtt, hogy elcsípje a kék órát, mielőtt a foknál teljesen besötétedik a korai naplemente miatt.",
+                "ro": "Planificați vizita înainte de ora 15:00 pentru a surprinde ora albastră înainte de apusul timpuriu de la capătul insulei.",
+                "en": "Plan your visit before 15:00 to catch the blue hour light before it gets completely dark at the cape due to early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm festning"
+              },
+              "tip_5lang": {
+                "de": "Die Festung sieht unter Reif magisch aus; seien Sie vorsichtig auf dem Kopfsteinpflaster, das bei Frost sehr glatt sein kann.",
+                "hu": "Az erőd mágikus látványt nyújt zúzmarásan; legyen óvatos a macskaköveken, mert fagyban nagyon csúszósak lehetnek.",
+                "ro": "Fortăreața arată magic sub chiciură; fiți atenți pe pavajul de piatră, care poate fi foarte alunecos la îngheț.",
+                "en": "The fort looks magical under frost; be careful on the cobblestones, as they can be very slippery in freezing conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtstrand Bystranda",
+                "hu": "Bystranda Városi Strand",
+                "ro": "Plaja orașului Bystranda",
+                "en": "Bystranda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen klaren Abendspaziergang; die Stadtlichter spiegeln sich wunderschön im dunklen, eiskalten Wintermeer.",
+                "hu": "Élvezzen egy tiszta esti sétát a parton; a város fényei gyönyörűen tükröződnek a sötét, jéghideg téli tengeren.",
+                "ro": "Bucurați-vă de o plimbare de seară pe plajă; luminile orașului se reflectă superb în marea întunecată și înghețată.",
+                "en": "Enjoy a clear evening walk on the beach; the city lights reflect beautifully on the dark, ice-cold winter sea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerekezzen a történelembe egy elgondolkodtató délelőttel a világháborús emlékműnél, majd térjen vissza a központba egy kis kortárs művészetért. Délben tekerjen északra, hogy élvezze az egyetemi botanikus kert buja növényzetét. A délutáni szellő kelet felé kíséri, ahol történelmi partvédelmi ütegeket és csendes pihenőhelyeket fedezhet fel. Az utazás este a városközpont közelében ér véget, az ősi erőd lenyűgöző falainak felfedezésével.",
         "ro": "Pășiți în istorie cu o dimineață la memorialul celui de-Al Doilea Război Mondial, urmată de o vizită rapidă în centru pentru artă. La prânz, pedalați spre nord pentru a vă bucura de verdeața luxuriantă și istoria naturală a grădinilor botanice. Briza după-amiezii vă însoțește spre est către bateriile de coastă istorice și locuri liniștite de recreere. Călătoria se încheie seara, explorând zidurile impunătoare ale vechii fortărețe.",
         "en": "Pedal your way into history with a thought-provoking morning at the WWII memorial, followed by a quick ride back to the center for contemporary art. As midday approaches, cycle north to enjoy the lush greenery and natural history of the university's botanical gardens. The afternoon breeze accompanies you eastward to historic coastal batteries and tranquil recreational spots. Your ride concludes in the evening back near the city center, exploring the imposing walls of the old fortress."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln auf nassen Wegen zur Gedenkstätte Arkivet. Mittags führt die Route durch die Innenstadt zur Kunsthalle, wo wir uns kurz aufwärmen. Am Nachmittag geht es zum Botanischen Garten, bevor wir entlang der Küste zu den historischen Batterien fahren. Regenkleidung ist Pflicht, um den Wind und das Spritzwasser an der Küste zu meistern.",
+            "hu": "Vizes utakon tekerünk az Arkivet alapítványhoz. Délben a belvároson át a műcsarnok felé vesszük az irányt, ahol kicsit megmelegedünk. Délután a botanikus kert következik, majd a tengerpart mentén az ütegek felé vesszük az irányt. Esőruha kötelező, hogy bírjuk a szelet és a felverődő vizet a parton.",
+            "ro": "Pedalăm pe drumuri ude spre fundația Arkivet. La prânz, ruta trece prin centru spre galeria de artă, unde ne încălzim puțin. După-amiaza vizităm grădina botanică, apoi mergem spre bateriile istorice de pe coastă. Echipamentul de ploaie este obligatoriu pentru a face față vântului și apei de pe mal.",
+            "en": "We cycle on wet paths to the Arkivet foundation. At noon, the route leads through the city center to the art gallery for a quick warm-up. In the afternoon, we head to the botanical garden before riding along the coast to the historic batteries. Rain gear is a must to handle the wind and spray by the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stiftung Arkivet",
+                "hu": "Arkivet Alapítvány",
+                "ro": "Fundația Arkivet",
+                "en": "Stiftelsen Arkivet"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den eindringlichen Ausstellungen des Kellers; parken Sie Ihr Rad an den überdachten Ständern am Eingang.",
+                "hu": "Keressen menedéket a pince mélyén található kiállításon; parkolja le kerékpárját a bejárat melletti fedett tárolóknál.",
+                "ro": "Căutați adăpost în expozițiile impresionante de la subsol; parcați bicicleta la suporturile acoperite de la intrare.",
+                "en": "Seek shelter in the poignant basement exhibitions; park your bike at the covered racks near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristiansand Kunsthall",
+                "hu": "Kristiansand Műcsarnok",
+                "ro": "Galeria de Artă Kristiansand",
+                "en": "Kristiansand Kunsthall"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Stopp, um die Kleidung zu trocknen; nutzen Sie den Aufzug, um mit Ihrer Ausrüstung bequem in die oberen Etagen zu gelangen.",
+                "hu": "Tökéletes megálló a ruházat szárítására; használja a liftet, hogy kényelmesen feljusson a felsőbb szintekre a felszerelésével.",
+                "ro": "Oprire perfectă pentru a vă usca hainele; folosiți liftul pentru a ajunge confortabil la etajele superioare cu echipamentul.",
+                "en": "Perfect stop to dry your gear; use the elevator to comfortably reach the upper floors with your equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum und Botanischer Garten",
+                "hu": "Természettudományi Múzeum és Botanikus Kert",
+                "ro": "Muzeul de Natură și Grădina Botanică",
+                "en": "Naturmuseum og botanisk hage Universitetet i Agder"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit im Naturmuseum, falls der Regen im Garten zu stark wird; die Geologie-Ausstellung ist komplett überdacht.",
+                "hu": "Töltsön több időt a természettudományi múzeumban, ha a kertben elered az eső; a geológiai kiállítás teljesen fedett.",
+                "ro": "Petreceți mai mult timp în muzeu dacă ploaia devine prea puternică în grădină; expoziția de geologie este complet acoperită.",
+                "en": "Spend more time in the nature museum if the rain in the garden gets too heavy; the geology exhibition is fully covered."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuholmen Batterie",
+                "hu": "Kuholmen Üteg",
+                "ro": "Bateria Kuholmen",
+                "en": "Kuholmen batteri"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade hier können schlammig sein; fahren Sie vorsichtig und achten Sie auf Pfützen in den Kurven am Ufer.",
+                "hu": "Az ösvények itt sárosak lehetnek; tekerjen óvatosan és figyeljen a tócsákra a part menti kanyarokban.",
+                "ro": "Potecile de aici pot fi noroioase; pedalați cu atenție și fiți atenți la bălți în curbele de pe mal.",
+                "en": "The paths here can be muddy; ride cautiously and watch out for puddles in the turns along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Galgebergtangen",
+                "hu": "Galgebergtangen",
+                "ro": "Galgebergtangen",
+                "en": "Galgebergtangen"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen sind bei Nässe extrem rutschig; bleiben Sie auf den asphaltierten Radwegen, um Stürze zu vermeiden.",
+                "hu": "A sziklák nedvesen rendkívül csúszósak; maradjon az aszfaltozott kerékpárúton az esések elkerülése érdekében.",
+                "ro": "Stâncile sunt extrem de alunecoase când sunt ude; rămâneți pe pistele de biciclete asfaltate pentru a evita căzăturile.",
+                "en": "The rocks are extremely slippery when wet; stay on the paved bike paths to avoid falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm festning"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Abschluss im Regen; parken Sie Ihr Rad sicher und genießen Sie den Blick auf den stürmischen Hafen.",
+                "hu": "Drámai befejezés az esőben; parkolja le biztonságosan a bringát és élvezze a viharos kikötő látványát.",
+                "ro": "Un final dramatic în ploaie; parcați bicicleta în siguranță și bucurați-vă de vederea portului învolburat.",
+                "en": "A dramatic finish in the rain; park your bike safely and enjoy the view of the stormy harbor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour startet am Arkivet. Mittags radeln wir vorsichtig auf gestreuten Wegen zur Kunsthalle. Da der Botanische Garten im Winter eher ruhig ist, fokussieren wir uns am Nachmittag auf die historischen Küstenbatterien. Ab 16 Uhr sorgt die Beleuchtung an der Christiansholm-Festung für eine gemütliche Atmosphäre während unserer letzten Etappe im Dunkeln.",
+            "hu": "Frissítő téli túra indul az Arkivettől. Délben óvatosan tekerünk a felszórt utakon a műcsarnok felé. Mivel a botanikus kert télen csendesebb, délután a tengerparti ütegekre fókuszálunk. 16 órától az erőd kivilágítása ad meghitt hangulatot az utolsó, sötétben megtett kilométerekhez.",
+            "ro": "O tură revigorantă de iarnă începe la Arkivet. La prânz, pedalăm cu atenție pe drumurile curățate spre galeria de artă. Deoarece grădina botanică este mai liniștită iarna, după-amiaza ne concentrăm pe bateriile de coastă. După ora 16, iluminatul fortăreței oferă o atmosferă primitoare în întuneric.",
+            "en": "A refreshing winter ride starts at Arkivet. At noon, we cycle carefully on sanded paths to the art gallery. Since the botanical garden is quieter in winter, we focus on the coastal batteries in the afternoon. From 16:00, the fortress lighting provides a cozy atmosphere for our final dark stretch."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stiftung Arkivet",
+                "hu": "Arkivet Alapítvány",
+                "ro": "Fundația Arkivet",
+                "en": "Stiftelsen Arkivet"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt hierher; der Aufenthalt im warmen Museumszentrum hilft, die Glieder wieder aufzuwärmen.",
+                "hu": "Viseljen szélálló kesztyűt az idevezető úton; a meleg múzeumi központban való tartózkodás segít felmelegíteni a végtagokat.",
+                "ro": "Purtați mănuși rezistente la vânt pentru drumul până aici; timpul petrecut în muzeul călduros vă va ajuta să vă dezmorțiți.",
+                "en": "Wear windproof gloves for the ride here; staying in the warm museum center will help warm up your limbs."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristiansand Kunsthall",
+                "hu": "Kristiansand Műcsarnok",
+                "ro": "Galeria de Artă Kristiansand",
+                "en": "Kristiansand Kunsthall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Stopp im Stadtzentrum; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die bevorstehende Dämmerung funktioniert.",
+                "hu": "Használja ki ezt a meleg belvárosi megállót; ellenőrizze, hogy a kerékpár lámpái működnek-e a hamarosan beköszöntő sötétség előtt.",
+                "ro": "Profitați de această oprire călduroasă în centru; verificați dacă luminile bicicletei funcționează pentru amurgul ce va urma.",
+                "en": "Take advantage of this warm city center stop; check that your bike lights are working for the upcoming twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum und Botanischer Garten",
+                "hu": "Természettudományi Múzeum és Botanikus Kert",
+                "ro": "Muzeul de Natură și Grădina Botanică",
+                "en": "Naturmuseum og botanisk hage Universitetet i Agder"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter oft schneebedeckt und wunderschön; parken Sie Ihr Rad und machen Sie einen kurzen Spaziergang im Frost.",
+                "hu": "A kert télen gyakran hófödte és gyönyörű; parkolja le a bringát és tegyen egy rövid sétát a ropogós hóban.",
+                "ro": "Grădina este adesea acoperită de zăpadă și superbă iarna; parcați bicicleta și faceți o scurtă plimbare prin ger.",
+                "en": "The garden is often snow-covered and beautiful in winter; park your bike and take a short walk in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuholmen Batterie",
+                "hu": "Kuholmen Üteg",
+                "ro": "Bateria Kuholmen",
+                "en": "Kuholmen batteri"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Küstenwegen; fahren Sie langsam, um bei plötzlichem Glatteis nicht die Kontrolle zu verlieren.",
+                "hu": "Figyeljen a jeges foltokra a parti utakon; haladjon lassan, hogy elkerülje a megcsúszást a hirtelen felfagyott részeken.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile de coastă; pedalați încet pentru a nu pierde controlul pe gheață.",
+                "en": "Watch out for icy patches on the coastal paths; ride slowly to avoid losing control on sudden black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Galgebergtangen",
+                "hu": "Galgebergtangen",
+                "ro": "Galgebergtangen",
+                "en": "Galgebergtangen"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das winterliche Meer; der Windchill-Effekt ist beim Radfahren hier besonders stark, tragen Sie Gesichtsmasken.",
+                "hu": "Élvezze a kilátást a téli tengerre; a szélhűtés kerékpározás közben itt nagyon erős, érdemes arcmaszkot vagy sálat viselni.",
+                "ro": "Bucurați-vă de vederea mării iarna; efectul vântului este foarte puternic la pedalat, purtați o mască sau un fular gros.",
+                "en": "Enjoy the view of the winter sea; the wind chill factor while cycling is very strong here, wear a face mask or scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm festning"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an der beleuchteten Festung; die winterliche Dunkelheit verleiht den alten Kanonen eine mystische Aura.",
+                "hu": "Zárja a túrát a kivilágított erődnél; a téli sötétség misztikus aurát kölcsönöz a régi ágyúknak a hóban.",
+                "ro": "Încheiați turul la fortăreața iluminată; întunericul iernii conferă tunurilor vechi o aură mistică sub zăpadă.",
+                "en": "End the tour at the illuminated fortress; the winter darkness lends a mystical aura to the old cannons in the snow."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túrája kissé a városon kívül indul, ahol hagyományos dél-norvég építészetet fedezhet fel a szabadtéri múzeumban. Délben irány a botanikus kert, majd nyugat felé haladva elmélyedhet a világháborús emlékmű történelmi narratíváiban. A délután továbbvisz egy védett vadaserdőbe, amely nyugodt menedéket kínál. Vezessen vissza a partra, merüljön el a tengerészeti történelemben, majd zárja a napot az ikonikus központi erődnél.",
         "ro": "Turul auto începe puțin în afara orașului, descoperind arhitectura tradițională norvegiană la muzeul în aer liber. La prânz, vizitați grădinile botanice înainte de a vă îndrepta spre vest la memorialul istoric. După-amiaza vă poartă și mai departe spre o pădure protejată cu animale sălbatice, oferind o evadare senină. Conduceți înapoi spre coastă pentru o incursiune în istoria maritimă, încheind ziua la emblematica fortăreață centrală.",
         "en": "Your driving tour starts slightly out of town, discovering traditional southern Norwegian architecture at the open-air museum. By midday, make your way to the botanical gardens before heading west to uncover deep historical narratives at the WWII memorial. The afternoon takes you further west to explore a protected wildlife forest, offering a serene escape. Drive back towards the coast for a deep dive into maritime history, wrapping up your day at the iconic central fortress."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir bequem die Museen außerhalb des Zentrums. Der Vormittag gehört der Geschichte im Kristiansand Museum. Mittags fahren wir zum Naturmuseum, um dem Regen im Freien zu entkommen. Am Nachmittag genießen wir eine Panoramafahrt durch den Gemeindewald. Den Abend beschließen wir im Hafen, wo wir direkt am Museumshafen parken können.",
+            "hu": "Autóval kényelmesen fedezzük fel a központon kívüli múzeumokat. A délelőtt a történelemé a Kristiansand Múzeumban. Délben a természettudományi múzeumba hajtunk, elkerülve az ázást. Délután panorámaautózást teszünk a városi erdőben. Az estét a kikötőben zárjuk, ahol közvetlenül a múzeumkikötő mellett parkolhatunk.",
+            "ro": "Cu mașina explorăm confortabil muzeele din afara centrului. Dimineața aparține istoriei la Muzeul Kristiansand. La prânz conducem spre muzeul de natură pentru a evita ploaia. După-amiaza ne bucurăm de o plimbare panoramică prin pădurea municipală. Seara se încheie în port, unde putem parca direct lângă portul muzeu.",
+            "en": "By car, we comfortably explore the museums outside the center. The morning is dedicated to history at Kristiansand Museum. At noon, we drive to the nature museum to escape the rain. In the afternoon, we enjoy a scenic drive through the municipal forest. The evening ends in the harbor, where we can park right next to the museum harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kristiansand Museum",
+                "hu": "Kristiansand Múzeum",
+                "ro": "Muzeul Kristiansand",
+                "en": "Kristiansand museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume der alten Gebäude bei Schauern; parken Sie nah am Haupteingang, um nicht nass zu werden.",
+                "hu": "Látogassa meg a régi épületek belső tereit záporok idején; parkoljon közel a főbejárathoz, hogy elkerülje az ázást.",
+                "ro": "Vizitați interiorul clădirilor vechi în timpul averselor; parcați aproape de intrarea principală pentru a nu vă uda.",
+                "en": "Visit the interiors of the old buildings during showers; park close to the main entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum und Botanischer Garten",
+                "hu": "Természettudományi Múzeum és Botanikus Kert",
+                "ro": "Muzeul de Natură și Grădina Botanică",
+                "en": "Naturmuseum og botanisk hage Universitetet i Agder"
+              },
+              "tip_5lang": {
+                "de": "Das Naturmuseum bietet eine großartige Indoor-Alternative; nutzen Sie den Parkplatz direkt vor dem Universitätsgelände.",
+                "hu": "A természettudományi múzeum nagyszerű beltéri alternatíva; használja a közvetlenül az egyetemi terület előtti parkolót.",
+                "ro": "Muzeul de natură oferă o alternativă excelentă la interior; folosiți parcarea situată direct în fața campusului universitar.",
+                "en": "The nature museum offers a great indoor alternative; use the parking lot located directly in front of the university grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftung Arkivet",
+                "hu": "Arkivet Alapítvány",
+                "ro": "Fundația Arkivet",
+                "en": "Stiftelsen Arkivet"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Tage; der Keller bietet eine bedrückende, aber trockene Umgebung für die Geschichtsstunde.",
+                "hu": "Ideális helyszín esős napokra; a pince nyomasztó, de száraz környezetet biztosít a történelmi leckéhez.",
+                "ro": "O locație ideală pentru zilele ploioase; subsolul oferă un mediu sumbru, dar uscat, pentru lecția de istorie.",
+                "en": "An ideal location for rainy days; the basement provides an oppressive but dry environment for the history lesson."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtwald Wildtierreservat",
+                "hu": "Városi Erdő Vadvédelmi Terület",
+                "ro": "Rezervația de Faună a Pădurii Municipale",
+                "en": "Kristiansand kommuneskog dyrelivsfredning"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das üppige Grün im Regen; halten Sie an den Aussichtspunkten, um die mystische Waldatmosphäre vom Auto aus zu sehen.",
+                "hu": "Élvezze az autózást a buja zöldben az esőben; álljon meg a kilátópontoknál, hogy az autóból lássa a misztikus erdei hangulatot.",
+                "ro": "Bucurați-vă de condus prin verdeața luxuriantă pe ploaie; opriți la punctele de belvedere pentru a vedea pădurea mistică din mașină.",
+                "en": "Enjoy the drive through the lush greenery in the rain; stop at viewpoints to see the mystical forest atmosphere from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Odderøya Museumshafen",
+                "hu": "Odderøya Múzeumkikötő",
+                "ro": "Portul Muzeu Odderøya",
+                "en": "Odderøya Museumshavn"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Kai und beobachten Sie die Fischerboote im Regen; das Museum bietet warmen Schutz und interessante maritime Einblicke.",
+                "hu": "Parkoljon a rakparton és figyelje a halászhajókat az esőben; a múzeum meleg menedéket és érdekes tengerészeti betekintést nyújt.",
+                "ro": "Parcați pe chei și observați bărcile de pescuit în ploaie; muzeul oferă adăpost călduros și perspective maritime interesante.",
+                "en": "Park on the quay and watch the fishing boats in the rain; the museum offers warm shelter and interesting maritime insights."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm festning"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist vom Parkplatz aus schnell erreichbar; ideal für einen kurzen, stimmungsvollen Stopp am Ende des Regentages.",
+                "hu": "Az erőd a parkolóból gyorsan elérhető; ideális egy rövid, hangulatos megállóhoz az esős nap végén.",
+                "ro": "Fortăreața este rapid accesibilă din parcare; ideală pentru o scurtă oprire atmosferică la finalul zilei ploioase.",
+                "en": "The fortress is quickly accessible from the parking lot; ideal for a short, atmospheric stop at the end of the rainy day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Roadtrip durch das winterliche Kristiansand beginnt im Freilichtmuseum, das im Schnee wunderschön aussieht. Mittags besuchen wir das Naturmuseum, um die Winterflora im Gewächshaus zu sehen. Nachmittags fahren wir durch den verschneiten Wald, bevor wir zum Hafen weiterfahren. Wir nutzen die beheizten Parkhäuser im Zentrum, um die Abenddämmerung an der Festung zu genießen.",
+            "hu": "Meleg autós túra a téli Kristiansandban; a skanzen a hóban csodás látvány. Délben a természettudományi múzeumba megyünk, hogy lássuk a téli flórát az üvegházban. Délután a hófödte erdőben autózunk, majd a kikötő felé tartunk. A központi fűtött parkolóházakat használjuk, hogy élvezhessük az alkonyt az erődnél.",
+            "ro": "O călătorie călduroasă cu mașina prin Kristiansand iarna; muzeul satului arată superb în zăpadă. La prânz vizităm muzeul de natură pentru a vedea flora de iarnă în seră. După-amiaza conducem prin pădurea înzăpezită înainte de a merge spre port. Folosim parcările încălzite din centru pentru amurgul de la fortăreață.",
+            "en": "A warm road trip through winter Kristiansand; the open-air museum looks wonderful in the snow. At noon, we visit the nature museum to see winter flora in the greenhouse. In the afternoon, we drive through the snowy forest before heading to the harbor. We use heated parking garages in the center to enjoy the dusk at the fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kristiansand Museum",
+                "hu": "Kristiansand Múzeum",
+                "ro": "Muzeul Kristiansand",
+                "en": "Kristiansand museum"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Straßen auf dem Weg hierher; das Museum im Schnee ist ein tolles Fotomotiv, aber tragen Sie warme Winterschuhe.",
+                "hu": "Figyeljen a jeges utakra idefelé; a múzeum a hóban remek fotótéma, de viseljen meleg téli lábbelit a sétához.",
+                "ro": "Atenție la drumurile înghețate spre muzeu; locația înzăpezită este perfectă pentru fotografii, dar purtați încălțăminte de iarnă.",
+                "en": "Watch out for icy roads on the way here; the museum in the snow is a great photo spot, but wear warm winter footwear for walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturmuseum und Botanischer Garten",
+                "hu": "Természettudományi Múzeum és Botanikus Kert",
+                "ro": "Muzeul de Natură și Grădina Botanică",
+                "en": "Naturmuseum og botanisk hage Universitetet i Agder"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Kälte zu entfliehen; die Ausstellungen sind gut beheizt und bieten einen lehrreichen Rückzugsort.",
+                "hu": "Tökéletes hely a hideg elől való menekülésre; a kiállítások jól fűtöttek és tanulságos menedéket nyújtanak a fagy elől.",
+                "ro": "Un loc perfect pentru a scăpa de frig; expozițiile sunt bine încălzite și oferă un refugiu educativ în timpul iernii.",
+                "en": "A perfect place to escape the cold; the exhibitions are well-heated and provide an educational retreat during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftung Arkivet",
+                "hu": "Arkivet Alapítvány",
+                "ro": "Fundația Arkivet",
+                "en": "Stiftelsen Arkivet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kundenparkplatz direkt am Gebäude; im Inneren ist es warm, was einen guten Kontrast zur emotional schweren Ausstellung bildet.",
+                "hu": "Használja az épület melletti parkolót; bent meleg van, ami jó kontrasztot alkot az érzelmileg megterhelő kiállítással.",
+                "ro": "Folosiți parcarea pentru vizitatori de lângă clădire; interiorul este călduros, oferind un contrast bun cu expoziția emoționantă.",
+                "en": "Use the visitor parking right by the building; it's warm inside, providing a good contrast to the emotionally heavy exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtwald Wildtierreservat",
+                "hu": "Városi Erdő Vadvédelmi Terület",
+                "ro": "Rezervația de Faună a Pădurii Municipale",
+                "en": "Kristiansand kommuneskog dyrelivsfredning"
+              },
+              "tip_5lang": {
+                "de": "Winterreifen sind für die Waldwege ein Muss; genießen Sie die verschneite Landschaft sicher von Ihrem warmen Fahrzeug aus.",
+                "hu": "A téli gumi kötelező az erdei utakon; élvezze a hófödte tájat biztonságban, a meleg járművéből figyelve az állatokat.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pentru drumurile forestiere; bucurați-vă de peisajul înzăpezit în siguranță din mașina caldă.",
+                "en": "Winter tires are a must for the forest roads; enjoy the snowy landscape safely from your warm vehicle while watching for wildlife."
+              }
+            },
+            {
+              "name": {
+                "de": "Odderøya Museumshafen",
+                "hu": "Odderøya Múzeumkikötő",
+                "ro": "Portul Muzeu Odderøya",
+                "en": "Odderøya Museumshavn"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen hat im Winterlicht eine ganz eigene Ruhe; parken Sie am Wasser und genießen Sie den Blick auf das dampfende, kalte Meer.",
+                "hu": "A kikötőnek a téli fényben sajátos nyugalma van; parkoljon a vízparton és élvezze a kilátást a párolgó, hideg tengerre.",
+                "ro": "Portul are o liniște aparte în lumina iernii; parcați pe malul apei și bucurați-vă de vederea mării reci care aburește.",
+                "en": "The harbor has its own peace in winter light; park by the water and enjoy the view of the steaming, cold sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Christiansholm",
+                "hu": "Christiansholm Erőd",
+                "ro": "Fortăreața Christiansholm",
+                "en": "Christiansholm festning"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung bei Dämmerung, wenn die Lichter angehen; parken Sie im nahen Parkhaus, um den Abend gemütlich ausklingen zu lassen.",
+                "hu": "Látogassa meg az erődöt szürkületkor, amikor kigyúlnak a fények; parkoljon a közeli garázsban a kényelmes befejezéshez.",
+                "ro": "Vizitați fortăreața la amurg, când se aprind luminile; parcați în garajul din apropiere pentru un final confortabil de zi.",
+                "en": "Visit the fortress at dusk when the lights come on; park in the nearby garage for a comfortable end to your winter tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

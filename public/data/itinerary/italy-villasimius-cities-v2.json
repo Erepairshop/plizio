@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját Villasimius szívében, és merüljön el a gazdag történelemben a helyi régészeti múzeumban. Dél körül az ókori leletekről váltson a város tengerészeti örökségére a közeli tengerészeti múzeumban. Délután induljon dél felé, hogy felfedezze a lenyűgöző ősi nuraghe romokat, és visszalépjen a történelem előtti időkbe. Fejezze be kellemes sétáját a kora esti órákban, és élvezze a környező kőtornyok csendes, titokzatos hangulatát.",
         "ro": "Începeți turul de mers pe jos în inima orașului Villasimius, explorând istoria sa bogată la muzeul arheologic local. La amiază, treceți de la artefacte antice la patrimoniul maritim al orașului la muzeul de marină din apropiere. După-amiaza, îndreptați-vă spre sud pentru a explora impresionantele ruine antice nuragice, pășind în timpuri preistorice. Încheiați-vă plimbarea relaxantă odată cu lăsarea serii, bucurându-vă de misterul tăcut al turnurilor de piatră din jur.",
         "en": "Start your walking tour in the heart of Villasimius, delving into its rich history at the local archaeological museum. By midday, transition from ancient artifacts to the town's seafaring heritage at the nearby maritime museum. In the afternoon, head south to explore the impressive ancient Nuragic ruins, stepping back into prehistoric times. Conclude your leisurely walk as the evening approaches, soaking in the quiet mystery of the surrounding stone towers."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt sicher in den Museen von Villasimius, wo Sie der Geschichte Sardiniens im Trockenen nachspüren können. Mittags führen kurze Wege zwischen den Ausstellungen durch die erfrischende Meeresbrise.\n\nAm Nachmittag erfordern die archäologischen Stätten im Freien Vorsicht auf den rutschigen Pfaden. Der Tag endet mit einem stimmungsvollen Blick auf die nebelverhangenen Hügel.",
+            "hu": "A napot a múzeumokban indítjuk, ahol fedett helyen ismerkedhetünk a szárd múlttal. Délben a rövid városi szakaszok alatt a friss, eső áztatta levegő kísér minket.\n\nDélután a nuraghék látogatása során figyeljünk a csúszós kövekre és a sárra, bakancs ajánlott. Az este a város csendes, esős hangulatában, a kivilágított ódon utcákon ér véget.",
+            "ro": "Începeți ziua în siguranță în muzeele din Villasimius, explorând istoria sardă la adăpost de ploaie. La prânz, scurtele plimbări între expoziții sunt însoțite de briza mării.\n\nDupă-amiaza, siturile arheologice în aer liber necesită prudență pe cărările alunecoase. Ziua se încheie cu o privire atmosferică asupra dealurilor acoperite de ceață și ploaie.",
+            "en": "Start your day safely in the museums of Villasimius, exploring Sardinian history while staying dry. At noon, short walks between exhibits are accompanied by the refreshing, rain-cooled air.\n\nIn the afternoon, the outdoor archaeological sites require caution on the slippery stone paths. The day ends with an atmospheric view of the mist-covered hills from the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico di Villasimius",
+                "hu": "Museo Archeologico di Villasimius",
+                "ro": "Museo Archeologico di Villasimius",
+                "en": "Museo Archeologico di Villasimius"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort vor dem Regen; bewundern Sie die antiken Funde aus dem Meer. Nutzen Sie die Zeit für eine ausführliche Führung im Trockenen.",
+                "hu": "Tökéletes menedék az eső elől; csodálja meg a tengerből előkerült antik leleteket. Használja ki az időt egy alapos, fedett tárlatvezetésre.",
+                "ro": "Un refugiu perfect împotriva ploii; admirați descoperirile antice recuperate din mare. Folosiți timpul pentru un tur detaliat la adăpost.",
+                "en": "A perfect shelter from the rain; admire the ancient finds recovered from the sea. Take your time for a thorough, dry tour of the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare Giorgio Capai",
+                "hu": "Museo del Mare Giorgio Capai",
+                "ro": "Museo del Mare Giorgio Capai",
+                "en": "Museo del Mare Giorgio Capai"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die maritime Geschichte, während es draußen stürmt. Die Innenräume bieten Schutz und faszinierende Einblicke in die Unterwasserarchäologie.",
+                "hu": "Merüljön el a tengeri történelemben, miközben kint viharos az idő. A belső terek védelmet és lenyűgöző betekintést nyújtanak a víz alatti régészetbe.",
+                "ro": "Cufundați-vă în istoria maritimă în timp ce afară este furtună. Spațiile interioare oferă protecție și perspective fascinante asupra arheologiei subacvatice.",
+                "en": "Dive into maritime history while it storms outside. The indoor spaces offer protection and fascinating insights into underwater archaeology."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe S’Argalla I",
+                "hu": "Nuraghe S’Argalla I",
+                "ro": "Nuraghe S’Argalla I",
+                "en": "Nuraghe S’Argalla I"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Granitfelsen, die sehr rutschig sein können. Ein robustes Paar Wanderschuhe und eine Regenjacke sind hier absolut notwendig.",
+                "hu": "Vigyázat a nedves gránitsziklákon, amelyek nagyon csúszósak lehetnek. Egy strapabíró túrabakancs és egy esőkabát itt elengedhetetlen kellék.",
+                "ro": "Atenție pe stâncile de granit umede, care pot fi foarte alunecoase. O pereche de bocanci de munte și o jachetă de ploaie sunt absolut necesare aici.",
+                "en": "Caution on the wet granite rocks, which can be very slippery. A sturdy pair of hiking boots and a raincoat are absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe S’Argalla II",
+                "hu": "Nuraghe S’Argalla II",
+                "ro": "Nuraghe S’Argalla II",
+                "en": "Nuraghe S’Argalla II"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei Schauern kurz Schutz unter den massiven Steinblöcken. Achten Sie auf den aufgeweichten Boden rund um die antike Festungsanlage.",
+                "hu": "Záporok esetén keressen rövid menedéket a masszív kőtömbök alatt. Ügyeljen az antik erődítmény körüli felázott talajra és a pocsolyákra.",
+                "ro": "Căutați un scurt refugiu sub blocurile masive de piatră în timpul averselor. Atenție la solul moale din jurul vechii fortificații.",
+                "en": "Seek brief shelter under the massive stone blocks during showers. Watch out for the softened ground and puddles around the ancient fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Accu Sa Pira Nuraghe",
+                "hu": "Accu Sa Pira Nuraghe",
+                "ro": "Accu Sa Pira Nuraghe",
+                "en": "Accu Sa Pira Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Küste ist auch im Regen dramatisch und nebelverhangen. Halten Sie Ihre Kamera unter einem Regenschirm trocken für mystische Fotos.",
+                "hu": "A tengerparti kilátás esőben is drámai és ködös. Tartsa a fényképezőgépét ernyő alatt a misztikus hangulatú fotók készítéséhez.",
+                "ro": "Vederea spre coastă este dramatică și încețoșată chiar și pe ploaie. Țineți aparatul foto sub umbrelă pentru fotografii cu atmosferă mistică.",
+                "en": "The coastal view is dramatic and misty even in the rain. Keep your camera under an umbrella for mystical-looking photos of the ancient stones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Villasimius ist klar und erfrischend bei milden Temperaturen. Die Museen bieten eine angenehme Wärme für den Start in den Kulturtag.\n\nMittags ist das Licht perfekt für Wanderungen zu den Nuraghen, ohne die sommerliche Hitze. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das goldene Licht für den letzten Aufstieg.",
+            "hu": "A téli reggel Villasimiusban tiszta és frissítő, enyhe hőmérséklettel. A múzeumok kellemes meleget nyújtanak a kulturális nap indításához.\n\nDélben a fények tökéletesek a nuraghékhoz vezető túrához, a nyári hőség nélkül. Mivel a nap már 17:00 körül lebukik, a kora esti aranyórákat a hegytetőn töltjük.",
+            "ro": "Dimineața de iarnă în Villasimius este senină și revigorantă, cu temperaturi blânde. Muzeele oferă o căldură plăcută pentru începutul zilei culturale.\n\nLa prânz, lumina este perfectă pentru drumeții la nuraghi, fără căldura verii. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie.",
+            "en": "A winter morning in Villasimius is clear and refreshing with mild temperatures. The museums provide a pleasant warmth to start your cultural day.\n\nAt noon, the light is perfect for hiking to the nuraghes without the summer heat. Since the sun sets around 17:00, use the golden hour for the final ascent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Archeologico di Villasimius",
+                "hu": "Museo Archeologico di Villasimius",
+                "ro": "Museo Archeologico di Villasimius",
+                "en": "Museo Archeologico di Villasimius"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Nebensaison in den warmen Ausstellungsräumen. Die Fundstücke lassen sich ohne die sommerlichen Besuchermassen viel besser betrachten.",
+                "hu": "Élvezze a holtszezon csendjét a meleg kiállítótermekben. A leletek a nyári tömeg nélkül sokkal alaposabban és nyugodtabban megtekinthetők.",
+                "ro": "Bucurați-vă de liniștea extrasezonului în sălile de expoziție încălzite. Obiectele pot fi vizionate mult mai bine fără mulțimile de vară.",
+                "en": "Enjoy the quiet of the off-season in the warm exhibition rooms. The artifacts can be viewed much better without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare Giorgio Capai",
+                "hu": "Museo del Mare Giorgio Capai",
+                "ro": "Museo del Mare Giorgio Capai",
+                "en": "Museo del Mare Giorgio Capai"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Spaziergängen aufzuwärmen. Erfahren Sie mehr über das Meeresschutzgebiet, das im Winter besonders wild und rein wirkt.",
+                "hu": "Ideális hely a séták közötti felmelegedésre. Ismerje meg a tengeri rezervátumot, amely télen különösen vadnak és érintetlennek tűnik.",
+                "ro": "Un loc ideal pentru a vă încălzi între plimbări. Aflați mai multe despre rezervația marină, care pare deosebit de sălbatică și pură iarna.",
+                "en": "An ideal place to warm up between walks. Learn about the marine protected area, which looks particularly wild and pure in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe S’Argalla I",
+                "hu": "Nuraghe S’Argalla I",
+                "ro": "Nuraghe S’Argalla I",
+                "en": "Nuraghe S’Argalla I"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht den Aufstieg zu diesen Ruinen sehr angenehm. Tragen Sie mehrere Schichten Kleidung, da es im Schatten der Steine kühl sein kann.",
+                "hu": "A hűvös téli levegő nagyon kellemessé teszi a romokhoz vezető kaptatót. Öltözzön rétegesen, mert a kövek árnyékában hűvösebb lehet az idő.",
+                "ro": "Aerul rece de iarnă face urcușul spre aceste ruine foarte plăcut. Purtați mai multe straturi de haine, deoarece la umbra pietrelor poate fi răcoare.",
+                "en": "The cool winter air makes the climb to these ruins very pleasant. Wear layers, as it can be chilly in the shadow of the massive stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe S’Argalla II",
+                "hu": "Nuraghe S’Argalla II",
+                "ro": "Nuraghe S’Argalla II",
+                "en": "Nuraghe S’Argalla II"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Panoramablicke ohne Dunstschleier. Eine Mütze schützt vor dem oft frischen Wind auf dem offenen Gelände.",
+                "hu": "Használja ki a tiszta téli fényt a távoli panorámákhoz pára nélkül. Egy sapka jól jöhet a nyílt terepen gyakran fújó friss szél ellen.",
+                "ro": "Profitați de lumina clară de iarnă pentru panorame îndepărtate fără ceață. O căciulă vă va proteja de vântul adesea rece de pe terenul deschis.",
+                "en": "Take advantage of the clear winter light for distant panoramas without haze. A hat will protect you from the often fresh wind on the open ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Accu Sa Pira Nuraghe",
+                "hu": "Accu Sa Pira Nuraghe",
+                "ro": "Accu Sa Pira Nuraghe",
+                "en": "Accu Sa Pira Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 16:30 Uhr, um den Sonnenuntergang über dem Meer zu erleben. Die Winterfarben am Horizont sind besonders intensiv und purpurrot.",
+                "hu": "Érkezzen meg ide 16:30 előtt, hogy elcsípje a tenger feletti naplementét. A téli színek a horizonton ilyenkor különösen intenzívek és mélyvörösek.",
+                "ro": "Ajungeți în acest punct înainte de ora 16:30 pentru a vedea apusul peste mare. Culorile de iarnă la orizont sunt deosebit de intense și purpurii.",
+                "en": "Reach this point before 16:30 to catch the sunset over the sea. The winter colors on the horizon are particularly intense and deep crimson."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját egy történelmi nuraghe meglátogatásával a város északi peremén. Délben tekerjen vissza a központba egy kis régészeti felfedezésre, mielőtt a gyönyörű keleti öblök felé venné az irányt. Délután fedezze fel az ősi kőépítményeket, és hűsöljön a tágas Campulongu strand kristálytiszta vizében. Zárja a napot egy festői kerékpározással Porto Giunco felé, megcsodálva a naplemente lenyűgöző tükröződését a lagúnán.",
         "ro": "Începeți aventura pe bicicletă cu o vizită la o structură istorică Nuraghe situată la marginea nordică a orașului. La prânz, pedalați înapoi în centru pentru o doză de arheologie, înainte de a vă îndrepta spre frumoasele golfuri estice. Petreceți după-amiaza explorând structuri antice din piatră și răcorindu-vă pe plaja întinsă de la Campulongu. Încheiați ziua cu o plimbare pitorească spre Porto Giunco, surprinzând reflexiile uimitoare ale apusului pe lagună.",
         "en": "Kick off your biking adventure with a visit to a historic Nuraghe on the northern edge of the town. At noon, cycle back into the center for a dose of archaeology before pedaling out to the beautiful eastern coves. Spend the afternoon exploring ancient stone structures and cooling off at the expansive Campulongu beach. Wrap up your day with a scenic ride to Porto Giunco, catching the stunning sunset reflections on the lagoon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenstraßen, bietet aber dramatische Ausblicke. Der Morgen beginnt mit einer Fahrt zu den historischen Stätten.\n\nMittags dient das Archäologische Museum als willkommene, trockene Pause. Am Nachmittag radeln wir zu den Stränden, wo die raue See eine ganz eigene, wilde Schönheit entfaltet.",
+            "hu": "A kerékpározás esőben óvatosságot igényel a parti utakon, de drámai kilátást nyújt. A reggel a történelmi helyszínek felé tekerve indul.\n\nDélben a Régészeti Múzeum szolgál üdvözlendő, száraz pihenőként. Délután a strandok felé vesszük az irányt, ahol a zord tenger vad szépsége mutatkozik meg.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe drumurile de coastă, dar oferă priveliști dramatice. Dimineața începe cu o plimbare spre siturile istorice.\n\nLa prânz, Muzeul de Arheologie servește ca o pauză uscată binevenită. După-amiaza pedalăm spre plaje, unde marea agitată are o frumusețe sălbatică.",
+            "en": "Cycling in the rain requires caution on the coastal roads but offers dramatic views. The morning starts with a ride toward the historical sites.\n\nAt noon, the Archaeological Museum serves as a welcome dry break. In the afternoon, we pedal to the beaches, where the rough sea displays a unique, wild beauty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe S’Oxiu",
+                "hu": "Nuraghe S’Oxiu",
+                "ro": "Nuraghe S’Oxiu",
+                "en": "Nuraghe S’Oxiu"
+              },
+              "tip_5lang": {
+                "de": "Der Zufahrtsweg kann schlammig sein; achten Sie auf eine gute Bodenhaftung. Die nassen Steine des Nuraghen wirken im Regen besonders dunkel und mächtig.",
+                "hu": "A bekötőút sáros lehet; ügyeljen a gumik tapadására a kanyarokban. A nuraghe nedves kövei esőben különösen sötétnek és monumentálisnak tűnnek.",
+                "ro": "Drumul de acces poate fi noroios; atenție la aderența anvelopelor. Pietrele umede ale nuraghei par deosebit de întunecate și puternice în ploaie.",
+                "en": "The access path can be muddy; watch your tire grip in the turns. The wet stones of the nuraghe look particularly dark and imposing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Villasimius",
+                "hu": "Museo Archeologico di Villasimius",
+                "ro": "Museo Archeologico di Villasimius",
+                "en": "Museo Archeologico di Villasimius"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Pause zum Aufwärmen. Die trockene Umgebung ist ideal, um die Ausrüstung kurz zu checken.",
+                "hu": "Parkolja le a bringát az előtető alatt, és használja a szünetet a felmelegedésre. A száraz környezet ideális a felszerelés rövid ellenőrzésére.",
+                "ro": "Parcați bicicleta sub copertină și folosiți pauza pentru a vă încălzi. Mediul uscat este ideal pentru a verifica rapid echipamentul.",
+                "en": "Park your bike under the overhang and use the break to warm up. The dry environment is ideal for a quick check of your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Luna",
+                "hu": "Porto Luna",
+                "ro": "Porto Luna",
+                "en": "Porto Luna"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist bei Nässe rutschig, fahren Sie vorsichtig bergab. Die Bucht bietet im Regen einen melancholischen, aber wunderschönen Anblick.",
+                "hu": "A parti út vizesen csúszós, óvatosan ereszkedjen le a lejtőkön. Az öböl esőben melankolikus, de gyönyörű látványt nyújt a szürke vízzel.",
+                "ro": "Drumul de coastă este alunecos când este ud, coborâți cu prudență. Golful oferă o priveliște melancolică, dar frumoasă în timpul ploii.",
+                "en": "The coastal road is slippery when wet, so descend with caution. The bay offers a melancholic but beautiful sight in the rain with the grey waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe S’Argalla I",
+                "hu": "Nuraghe S’Argalla I",
+                "ro": "Nuraghe S’Argalla I",
+                "en": "Nuraghe S’Argalla I"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf den Felsplatten, da diese spiegelglatt sein können. Nutzen Sie den Stopp für eine kurze Trinkpause unter einem Baum.",
+                "hu": "Kerülje a közvetlen kerékpározást a sziklalapokon, mert tükörsimák lehetnek. Használja ki a megállót egy rövid ivószünetre egy fa oltalma alatt.",
+                "ro": "Evitați să mergeți cu bicicleta direct pe plăcile de piatră, deoarece pot fi extrem de alunecoase. Folosiți oprirea pentru o scurtă pauză de hidratare.",
+                "en": "Avoid cycling directly on the flat rock slabs as they can be mirror-smooth. Use the stop for a quick hydration break under the shelter of a tree."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Campulongu",
+                "hu": "Spiaggia di Campulongu",
+                "ro": "Spiaggia di Campulongu",
+                "en": "Spiaggia di Campulongu"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt vermischt sich mit dem Regen; ein windfester Poncho schützt Sie beim Radeln. Der Strand ist nun völlig verlassen und wirkt herrlich mystisch.",
+                "hu": "A tenger permete keveredik az esővel; egy szélálló poncsó jól véd tekerés közben. A strand most teljesen elhagyatott és fenségesen misztikus.",
+                "ro": "Pulverizarea mării se amestecă cu ploaia; un poncho rezistent la vânt vă protejează. Plaja este acum complet pustie și pare minunat de mistică.",
+                "en": "The sea spray mixes with the rain; a windproof poncho will protect you while cycling. The beach is now completely deserted and looks majestically mystical."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Giunco",
+                "hu": "Spiaggia di Porto Giunco",
+                "ro": "Spiaggia di Porto Giunco",
+                "en": "Spiaggia di Porto Giunco"
+              },
+              "tip_5lang": {
+                "de": "Am Ende der Tour ist die nasse Kleidung unangenehm; halten Sie ein trockenes Handtuch bereit. Der Anblick der dunklen Wellen ist die Mühe wert.",
+                "hu": "A túra végén a vizes ruha kényelmetlen lehet; legyen kéznél egy száraz törölköző. A sötét hullámok látványa megéri a fáradtságot.",
+                "ro": "La sfârșitul turului, hainele ude pot fi inconfortabile; aveți pregătit un prosop uscat. Vederea valurilor întunecate merită tot efortul.",
+                "en": "At the end of the tour, wet clothes can be uncomfortable; have a dry towel ready. The sight of the dark waves crashing is worth the effort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne macht das Radfahren in Villasimius zu einem reinen Vergnügen ohne Hitze. Der Morgen führt uns durch die ruhige, grüne Landschaft zu den Nuraghen.\n\nMittags ist das Licht am Meer besonders klar und bietet perfekte Fotomotive. Der Nachmittag endet an den berühmten Stränden, die im Winter eine friedliche, fast private Atmosphäre ausstrahlen.",
+            "hu": "A téli napsütés tiszta élvezetté teszi a bringázást Villasimiusban, hőség nélkül. A reggel a csendes, zöldellő tájon át vezet a nuraghék felé.\n\nDélben a fények a tengerparton különösen tiszták, tökéletes fotótémát kínálva. A délután a híres strandokon ér véget, melyek télen békés, privát hangulatúak.",
+            "ro": "Soarele de iarnă transformă mersul cu bicicleta în Villasimius într-o plăcere pură, fără căldură. Dimineața ne poartă prin peisajul verde spre nuraghi.\n\nLa prânz, lumina de la malul mării este deosebit de clară, oferind motive fotografice perfecte. După-amiaza se încheie la plajele faimoase.",
+            "en": "The winter sun makes cycling in Villasimius a pure joy without the intense heat. The morning leads through the quiet, green landscape towards the nuraghes.\n\nAt noon, the light by the sea is particularly clear, offering perfect photo opportunities. The afternoon ends at the famous beaches, which radiate peace in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe S’Oxiu",
+                "hu": "Nuraghe S’Oxiu",
+                "ro": "Nuraghe S’Oxiu",
+                "en": "Nuraghe S’Oxiu"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist im Winter weniger anstrengend, da die kühle Luft die Körpertemperatur reguliert. Genießen Sie die Einsamkeit an diesem geschichtsträchtigen Ort.",
+                "hu": "A felkapaszkodás télen kevésbé megterhelő, a hűvös levegő segít a testhőmérséklet szabályozásában. Élvezze a magányt ezen a történelmi helyszínen.",
+                "ro": "Urcarea este mai puțin obositoare iarna, deoarece aerul rece ajută la reglarea temperaturii corpului. Bucurați-vă de singurătatea acestui loc istoric.",
+                "en": "The climb is less strenuous in winter as the cool air helps regulate your body temperature. Enjoy the solitude at this historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Villasimius",
+                "hu": "Museo Archeologico di Villasimius",
+                "ro": "Museo Archeologico di Villasimius",
+                "en": "Museo Archeologico di Villasimius"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause im Warmen, um Ihre Energie aufzuladen. Die Wintersonne wärmt das Gebäude angenehm auf.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb, melegben töltött szünetre az energiaraktárak feltöltéséhez. A téli nap kellemesen felmelegíti az épületet.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză mai lungă la căldură pentru a vă reîncărca bateriile. Soarele de iarnă încălzește plăcut clădirea.",
+                "en": "Use the museum visit for a longer break in the warmth to recharge your energy. The winter sun warms the building pleasantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Luna",
+                "hu": "Porto Luna",
+                "ro": "Porto Luna",
+                "en": "Porto Luna"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann an der Küste frisch sein; eine winddichte Weste ist beim Radfahren hier Gold wert. Das tiefblaue Winterwasser der Bucht ist spektakulär.",
+                "hu": "A szél friss lehet a parton; egy szélálló mellény aranyat ér tekerés közben. Az öböl mélykék téli vize ilyenkor különösen látványos.",
+                "ro": "Vântul poate fi rece la malul mării; o vestă rezistentă la vânt valorează aur în timp ce pedalați. Apa albastru închis a golfului este spectaculoasă.",
+                "en": "The wind can be fresh on the coast; a windproof vest is worth its weight in gold while cycling here. The deep blue winter water is spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe S’Argalla I",
+                "hu": "Nuraghe S’Argalla I",
+                "ro": "Nuraghe S’Argalla I",
+                "en": "Nuraghe S’Argalla I"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und machen Sie einen kurzen Spaziergang, um die Gelenke in der Winterkühle beweglich zu halten. Die Fernsicht ist im Winter unschlagbar.",
+                "hu": "Parkolja le a bringát és tegyen egy rövid sétát, hogy ízületeit mozgásban tartsa a téli hűvösben. A távoli kilátás télen verhetetlen.",
+                "ro": "Parcați bicicleta și faceți o scurtă plimbare pentru a vă menține articulațiile mobile în frigul iernii. Vizibilitatea la distanță este imbatabilă iarna.",
+                "en": "Park your bike and take a short walk to keep your joints moving in the winter chill. The distant visibility is unbeatable in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Campulongu",
+                "hu": "Spiaggia di Campulongu",
+                "ro": "Spiaggia di Campulongu",
+                "en": "Spiaggia di Campulongu"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine Pause im weichen Sand, der im Winter nicht zu heiß ist. Genießen Sie die sanfte Wintersonne, bevor es zurück auf die Straße geht.",
+                "hu": "Ideális egy pihenőhöz a puha homokban, amely télen nem forró. Élvezze a szelíd téli napsütést, mielőtt visszatérne az útra.",
+                "ro": "Ideal pentru o pauză în nisipul fin, care nu este prea fierbinte iarna. Bucurați-vă de soarele blând de iarnă înainte de a pleca din nou la drum.",
+                "en": "Ideal for a break in the soft sand, which is not too hot in winter. Enjoy the gentle winter sun before heading back onto the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Giunco",
+                "hu": "Spiaggia di Porto Giunco",
+                "ro": "Spiaggia di Porto Giunco",
+                "en": "Spiaggia di Porto Giunco"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune neben dem Strand beherbergt im Winter oft Flamingos. Radeln Sie leise heran, um die Vögel in der klaren Winterluft zu beobachten.",
+                "hu": "A strand melletti lagúnában télen gyakran tanyáznak flamingók. Tekerjen halkan közelebb, hogy megfigyelhesse a madarakat a tiszta téli levegőben.",
+                "ro": "Laguna de lângă plajă găzduiește adesea flamingo iarna. Pedalați în liniște pentru a observa păsările în aerul clar de iarnă.",
+                "en": "The lagoon next to the beach often hosts flamingos in winter. Cycle quietly to observe the birds in the clear winter air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a város ikonikus nevezetességénél, majd induljon el a lenyűgöző történelmi tájak felfedezésére. Dél körül eldugott strandokhoz és jól megőrzött nuraghe helyszínekhez érkezik, könnyedén cirkálva az ősi csodák között. A délután folyamán merüljön el a helyi tengerészeti történelemben, és fedezze fel a leghíresebb homokos partokat. Zárja a napot a régi parti erőd közelében parkolva, figyelve, ahogy az ég rózsaszínűvé válik a Földközi-tenger felett.",
         "ro": "Începeți turul cu mașina la punctul de reper al orașului, orientându-vă înainte de a pătrunde în peisajele istorice. Amiaza vă poartă spre plaje izolate și situri nuragice bine conservate, călătorind fără efort între minunile antice. Pe măsură ce după-amiaza avansează, aprofundați istoria maritimă locală și explorați câteva dintre cele mai faimoase plaje. Încheiați ziua parcând lângă vechea fortăreață de coastă, privind cum cerul devine roz deasupra Mării Mediterane.",
         "en": "Begin your driving tour at the town's iconic landmark, gathering your bearings before heading into historical landscapes. Midday brings you to secluded beaches and well-preserved Nuragic sites, effortlessly cruising between ancient wonders. As the afternoon progresses, delve into local maritime history and explore some of the most famous sandy shores. End the day by parking near the old coastal fortress, watching the sky turn pink over the vibrant Mediterranean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Villasimius auch bei Regen komfortabel zu erkunden. Der Morgen beginnt mit einer Panoramafahrt entlang der Küste.\n\nMittags bieten die Museen im Zentrum perfekten Schutz vor den Güssen. Der Nachmittag ist den Stränden und Festungen gewidmet, die man bequem anfahren kann, um nur für die besten Ausblicke kurz auszusteigen.",
+            "hu": "Autóval Villasimius esőben is kényelmesen felfedezhető. A reggel egy panorámás autózással indul a part mentén, miközben az eső a szélvédőn kopog.\n\nDélben a központ múzeumai nyújtanak tökéletes védelmet a záporok elől. A délután a strandoké és erődöké, melyeket kényelmesen megközelíthetünk, csak a kilátásért kiszállva.",
+            "ro": "Cu mașina, Villasimius este confortabil de explorat chiar și pe ploaie. Dimineața începe cu o plimbare panoramică de-a lungul coastei.\n\nLa prânz, muzeele din centru oferă protecție perfectă împotriva averselor. După-amiaza este dedicată plajelor și cetăților, la care se poate ajunge ușor cu mașina.",
+            "en": "By car, Villasimius is comfortable to explore even in the rain. The morning starts with a scenic drive along the coast as the rain taps on the windshield.\n\nAt noon, the downtown museums provide perfect shelter from the downpours. The afternoon is dedicated to beaches and fortresses, which you can reach easily by car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lo Sciabecco",
+                "hu": "Lo Sciabecco",
+                "ro": "Lo Sciabecco",
+                "en": "Lo Sciabecco"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto aus dem Fenster oder unter dem Schutz der Arkaden. Die markante Architektur wirkt bei bewölktem Himmel sehr markant.",
+                "hu": "Egy gyors megálló egy fotó erejéig az ablakból vagy az árkádok védelme alatt. A jellegzetes építészet borult égbolt mellett is hangsúlyos.",
+                "ro": "O oprire rapidă pentru o fotografie de la fereastră sau sub protecția arcadelor. Arhitectura distinctivă pare foarte marcantă sub cerul înnorat.",
+                "en": "A quick stop for a photo from the window or under the protection of the arcades. The striking architecture looks very prominent under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Cuccureddus I",
+                "hu": "Nuraghe Cuccureddus I",
+                "ro": "Nuraghe Cuccureddus I",
+                "en": "Nuraghe Cuccureddus I"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und nutzen Sie Regenpausen für den kurzen Aufstieg. Der Boden kann rutschig sein, fahren Sie vorsichtig auf den Nebenwegen.",
+                "hu": "Parkoljon a lehető legközelebb, és használja ki az esőszüneteket a rövid feljutáshoz. A talaj csúszós lehet, óvatosan vezessen a mellékutakon.",
+                "ro": "Parcați cât mai aproape posibil și profitați de pauzele de ploaie pentru scurta urcare. Solul poate fi alunecos, conduceți cu atenție pe drumurile secundare.",
+                "en": "Park as close as possible and use breaks in the rain for the short climb. The ground can be slippery, so drive carefully on the side roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Cuccureddus",
+                "hu": "Spiaggia Cuccureddus",
+                "ro": "Spiaggia Cuccureddus",
+                "en": "Spiaggia Cuccureddus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Brandung aus dem trockenen Auto heraus. Das Grau des Meeres bietet einen faszinierenden Kontrast zum hellen Sand.",
+                "hu": "Élvezze a hullámtörés látványát a száraz autó kényelméből. A tenger szürkesége lenyűgöző kontrasztot alkot a világos homokkal.",
+                "ro": "Bucurați-vă de vederea valurilor din confortul mașinii uscate. Culoarea gri a mării oferă un contrast fascinant cu nisipul deschis la culoare.",
+                "en": "Enjoy the view of the breaking waves from the comfort of your dry car. The grey of the sea provides a fascinating contrast to the light sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Bruncu Campulongu Nuraghe",
+                "hu": "Bruncu Campulongu Nuraghe",
+                "ro": "Bruncu Campulongu Nuraghe",
+                "en": "Bruncu Campulongu Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Nuraghen ist kurz, halten Sie Schirm und Regenjacke bereit. Die Aussicht auf die stürmische Küste ist von hier oben beeindruckend.",
+                "hu": "A nuraghéhoz vezető út rövid, tartsa készenlétben az esernyőt és az esőkabátot. A viharos part látványa innen fentről lenyűgöző.",
+                "ro": "Drumul spre nuraghe este scurt, aveți pregătită umbrela și jacheta de ploaie. Vederea coastei furtunoase de aici de sus este impresionantă.",
+                "en": "The path to the nuraghe is short, keep your umbrella and raincoat ready. The view of the stormy coast from up here is impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare Giorgio Capai",
+                "hu": "Museo del Mare Giorgio Capai",
+                "ro": "Museo del Mare Giorgio Capai",
+                "en": "Museo del Mare Giorgio Capai"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt in der Nähe, sodass Sie kaum nass werden. Drinnen erwartet Sie eine faszinierende Reise durch die Unterwasserwelt.",
+                "hu": "Parkolóhelyet közvetlenül a közelben talál, így alig fog megázni. Odabent lenyűgöző utazás várja a víz alatti világ titkai közé.",
+                "ro": "Veți găsi locuri de parcare chiar în apropiere, astfel încât abia dacă vă veți uda. În interior vă așteaptă o călătorie fascinantă sub apă.",
+                "en": "You'll find parking spaces right nearby, so you'll hardly get wet. Inside, a fascinating journey through the underwater world awaits you."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Giunco",
+                "hu": "Spiaggia di Porto Giunco",
+                "ro": "Spiaggia di Porto Giunco",
+                "en": "Spiaggia di Porto Giunco"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Turm für den besten Blick auf das aufgewühlte Meer. Ein kurzer Spaziergang im Regen erfrischt die Sinne.",
+                "hu": "Hajtson el a torony melletti parkolóig a legjobb kilátásért a felkorbácsolt tengerre. Egy rövid séta az esőben felfrissíti az érzékeket.",
+                "ro": "Conduceți până la parcarea de lângă turn pentru cea mai bună vedere asupra mării agitate. O scurtă plimbare în ploaie vă va reîmprospăta simțurile.",
+                "en": "Drive to the parking lot by the tower for the best view of the churned-up sea. A short walk in the rain will refresh your senses."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Vecchia",
+                "hu": "Fortezza Vecchia",
+                "ro": "Fortezza Vecchia",
+                "en": "Fortezza Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Festung bieten Schutz und eine dramatische Kulisse bei Regen. Nutzen Sie die Innenräume, um die Geschichte der Verteidigung zu studieren.",
+                "hu": "Az erőd vastag falai védelmet és drámai hátteret nyújtanak esőben. Használja ki a belső tereket a védelem történetének tanulmányozására.",
+                "ro": "Zidurile groase ale cetății oferă protecție și un decor dramatic pe ploaie. Folosiți spațiile interioare pentru a studia istoria apărării.",
+                "en": "The thick walls of the fortress provide shelter and a dramatic backdrop in the rain. Use the indoor spaces to study the history of defense."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist ideal, um Villasimius stressfrei mit dem Auto zu erkunden. Der Morgen beginnt mit glasklarer Sicht auf die Küstenfelsen.\n\nMittags genießen wir die angenehmen Temperaturen bei den historischen Stopps. Da die Dämmerung früh einsetzt, planen wir die letzte Fahrt entlang der Küste so, dass wir den Sonnenuntergang perfekt im Blick haben.",
+            "hu": "A tél ideális Villasimius stresszmentes felfedezéséhez autóval. A reggel kristálytiszta kilátással indul a parti sziklákra és a tengerre.\n\nDélben élvezzük a kellemes, nem túl forró hőmérsékletet a történelmi megállóknál. Mivel korán sötétedik, az utolsó part menti utat a naplementéhez időzítjük.",
+            "ro": "Iarna este ideală pentru a explora Villasimius fără stres cu mașina. Dimineața începe cu o vedere clară asupra stâncilor de coastă.\n\nLa prânz ne bucurăm de temperaturile plăcute la opririle istorice. Deoarece amurgul vine devreme, planificăm ultima plimbare pentru apus.",
+            "en": "Winter is ideal for exploring Villasimius stress-free by car. The morning starts with crystal-clear views of the coastal rocks and the sea.\n\nAt noon, we enjoy the pleasant, mild temperatures at the historic stops. Since dusk sets in early, we time our last coastal drive to catch the sunset perfectly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lo Sciabecco",
+                "hu": "Lo Sciabecco",
+                "ro": "Lo Sciabecco",
+                "en": "Lo Sciabecco"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos einen Parkplatz direkt vor dem Gebäude. Das klare Licht betont die Farben der Fassade und der Umgebung perfekt.",
+                "hu": "Télen gond nélkül talál parkolóhelyet közvetlenül az épület előtt. A tiszta téli fény tökéletesen kiemeli a homlokzat és a környék színeit.",
+                "ro": "Iarna veți găsi cu ușurință un loc de parcare chiar în fața clădirii. Lumina clară subliniază perfect culorile fațadei și ale împrejurimilor.",
+                "en": "In winter, you'll easily find a parking spot right in front of the building. The clear light highlights the colors of the facade and surroundings perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Cuccureddus I",
+                "hu": "Nuraghe Cuccureddus I",
+                "ro": "Nuraghe Cuccureddus I",
+                "en": "Nuraghe Cuccureddus I"
+              },
+              "tip_5lang": {
+                "de": "Die Wanderung vom Parkplatz zum Nuraghen ist im kühlen Winterwind sehr belebend. Achten Sie auf die tiefstehende Sonne, die lange Schatten wirft.",
+                "hu": "A parkolótól a nuraghéhoz vezető séta a hűvös téli szélben igencsak élénkítő. Ügyeljen az alacsonyan járó napra, amely hosszú árnyékokat vet.",
+                "ro": "Plimbarea de la parcare la nuraghe este foarte revigorantă în vântul rece de iarnă. Atenție la soarele jos care aruncă umbre lungi.",
+                "en": "The walk from the parking lot to the nuraghe is very invigorating in the cool winter wind. Watch out for the low sun casting long shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Cuccureddus",
+                "hu": "Spiaggia Cuccureddus",
+                "ro": "Spiaggia Cuccureddus",
+                "en": "Spiaggia Cuccureddus"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und bietet eine meditative Stille. Ein kurzer Spaziergang am Wassersaum stärkt das Immunsystem.",
+                "hu": "A strand télen néptelen, és meditatív csendet áraszt. Egy rövid séta a vízparton a friss levegőn kiválóan erősíti az immunrendszert.",
+                "ro": "Plaja este pustie iarna și oferă o liniște meditativă. O scurtă plimbare pe malul apei în aerul curat întărește sistemul imunitar.",
+                "en": "The beach is deserted in winter and offers a meditative silence. A short walk along the water's edge in the fresh air is great for your health."
+              }
+            },
+            {
+              "name": {
+                "de": "Bruncu Campulongu Nuraghe",
+                "hu": "Bruncu Campulongu Nuraghe",
+                "ro": "Bruncu Campulongu Nuraghe",
+                "en": "Bruncu Campulongu Nuraghe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das 360-Grad-Panorama ohne die Sommerhitze. Die Fernsicht reicht im Winter oft bis zu den entfernten Berggipfeln.",
+                "hu": "Élvezze a 360 fokos panorámát a nyári hőség nélkül. A téli tiszta időben a látótávolság gyakran a távoli hegycsúcsokig is elér.",
+                "ro": "Bucurați-vă de panorama de 360 de grade fără căldura verii. Vizibilitatea iarna ajunge adesea până la vârfurile muntoase îndepărtate.",
+                "en": "Enjoy the 360-degree panorama without the summer heat. In the clear winter weather, visibility often extends to the distant mountain peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare Giorgio Capai",
+                "hu": "Museo del Mare Giorgio Capai",
+                "ro": "Museo del Mare Giorgio Capai",
+                "en": "Museo del Mare Giorgio Capai"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume für eine kulturelle Pause. Die Exponate wirken in der winterlichen Ruhe besonders beeindruckend.",
+                "hu": "Használja ki a fűtött tereket egy kulturális pihenőre. A kiállítási tárgyak a téli nyugalomban különösen lenyűgöző hatást keltenek.",
+                "ro": "Folosiți spațiile încălzite pentru o pauză culturală. Obiectele expuse par deosebit de impresionante în liniștea iernii.",
+                "en": "Take advantage of the heated spaces for a cultural break. The exhibits look particularly impressive in the winter silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Giunco",
+                "hu": "Spiaggia di Porto Giunco",
+                "ro": "Spiaggia di Porto Giunco",
+                "en": "Spiaggia di Porto Giunco"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die rosa Flamingos im Notteri-See direkt hinter dem Strand. Im Winter sind die Vögel hier oft in großen Gruppen anzutreffen.",
+                "hu": "Figyelje meg a rózsaszín flamingókat a Notteri-tónál, közvetlenül a strand mögött. Télen a madarak gyakran nagy csoportokban láthatók itt.",
+                "ro": "Observați flamingii roz de pe lacul Notteri, aflat chiar în spatele plajei. Iarna, păsările pot fi văzute adesea în grupuri mari aici.",
+                "en": "Observe the pink flamingos on Lake Notteri, located right behind the beach. In winter, the birds can often be seen here in large groups."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Vecchia",
+                "hu": "Fortezza Vecchia",
+                "ro": "Fortezza Vecchia",
+                "en": "Fortezza Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang von den Zinnen der Festung. Das warme Licht auf dem alten Stein ist ein perfekter Abschluss des Tages.",
+                "hu": "Élje át a naplementét az erőd bástyáiról. A régi köveken megcsillanó meleg téli fény tökéletes lezárása a napnak.",
+                "ro": "Experimentați apusul de pe bastioanele cetății. Lumina caldă de iarnă pe piatra veche este o încheiere perfectă a zilei.",
+                "en": "Experience the sunset from the fort's battlements. The warm winter light reflecting on the old stones is a perfect end to the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

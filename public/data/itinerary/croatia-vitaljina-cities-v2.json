@@ -137,6 +137,168 @@
         "hu": "A séta Kaštid tengerparti természeti szépségével és a reggeli tengeri szellővel kezdődik.\n\nDélben egy meglepően hűvös, öreg fa alatt talál árnyékot, mielőtt a partra indulna.\n\nA délutánt a napsütésnek és a tengernek szenteljük két különböző naturista strandon.\n\nVégül a kora esti órák közeledtével egy pihentető gyógyiszapfürdővel zárja a napot a Blatna plaža partján.",
         "ro": "Turul pietonal începe cu frumusețea naturală de coastă de la Kaštid, admirând briza mării.\n\nLa prânz, veți găsi umbră sub un copac bătrân și răcoros, înainte de a vă îndrepta spre țărm.\n\nDupă-amiaza este dedicată bucuriei soarelui și a mării pe două plaje naturiste distincte.\n\nÎn cele din urmă, încheiați-vă călătoria cu o baie relaxantă cu nămol terapeutic la Blatna plaža, pe măsură ce se apropie seara.",
         "en": "Your walking tour begins with the natural coastal beauty of Kaštid, taking in the morning sea breeze.\n\nBy midday, you will find shade under a surprisingly cool old tree before heading to the shore.\n\nThe afternoon is dedicated to enjoying the sun and sea at two distinct naturist beaches.\n\nFinally, conclude your journey with a relaxing therapeutic mud bath at Blatna plaža as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens wandern wir trotz Regen nach Kaštid, wobei wir auf den schlammigen Pfaden vorsichtig sein müssen. Mittags suchen wir unter dem dichten Blätterdach des alten Baumes kurz Schutz vor dem Guss. Am Nachmittag bewundern wir in Regenkleidung die raue Brandung an den einsamen Stränden von Vitaljina. Abends kehren wir durch die nassen Gassen zurück und genießen die kühle, klare Meeresluft.",
+            "hu": "Reggel a Kaštid felé vesszük az irányt, az esőben felázott talaj miatt óvatosan lépkedjünk a köveken. Délben az öreg fa lombjai alatt pihenünk meg, de a közeli sziklákon keressünk valódi fedett menedéket. Délután a tengerparti sétányokon a viharos hullámverés látványában gyönyörködünk vízálló ruhában. Este a sötétedő faluban, a lámpafényes utcákon térünk vissza, ügyelve a csúszós szakaszokra.",
+            "ro": "Dimineața ne îndreptăm spre Kaštid, fiind atenți la potecile noroioase care pot deveni destul de alunecoase. La prânz ne adăpostim sub coroana bătrânului copac, admirând ploaia care transformă peisajul local. După-amiaza explorăm plajele pustii în haine impermeabile, ascultând sunetul dramatic al valurilor. Seara ne retragem spre cazare prin satul scăldat în reflexiile luminilor stradale pe asfalt.",
+            "en": "In the morning, we head towards Kaštid, taking extra care on the muddy paths that become slippery in the rain. At noon, we take a brief break under the old tree, seeking shelter from the downpour. Afternoon is spent admiring the dramatic waves at the deserted beaches while wearing waterproof gear. In the evening, we return through the wet village streets, enjoying the fresh, rain-washed air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kaštid",
+                "hu": "Kaštid",
+                "ro": "Kaštid",
+                "en": "Kaštid"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen in Kaštid sind bei Nässe extrem rutschig; tragen Sie Wanderschuhe mit gutem Profil und halten Sie sich von den steilen Abgründen fern.",
+                "hu": "A Kaštid sziklái esőben rendkívül csúszóssá válnak; viseljünk profi túrabakancsot és tartsunk biztonságos távolságot a meredek peremektől a csúszásveszély miatt.",
+                "ro": "Stâncile de la Kaštid devin extrem de alunecoase pe ploaie; purtați încălțăminte de munte cu aderență bună și evitați marginile abrupte pentru siguranță.",
+                "en": "The rocks at Kaštid are extremely slippery when wet; wear hiking boots with good grip and stay well away from steep edges to ensure your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Baum",
+                "hu": "Öreg fa",
+                "ro": "Copac vechi",
+                "en": "Cool old tree"
+              },
+              "tip_5lang": {
+                "de": "Der Baum bietet nur begrenzten Schutz; nutzen Sie ihn für ein schnelles Foto der regennassen Rinde und suchen Sie bei Gewitter ein festes Gebäude auf.",
+                "hu": "A fa csak ideiglenes védelmet nyújt az eső ellen; készítsünk egy gyors fotót a vizes törzsről, de villámlás esetén keressünk szilárd falú épületet.",
+                "ro": "Copacul oferă protecție limitată împotriva ploii; folosiți momentul pentru o fotografie rapidă a scoarței umede și căutați o clădire în caz de furtună.",
+                "en": "The tree provides limited shelter from heavy rain; use it for a quick photo of the wet bark but seek a solid building if a thunderstorm approaches."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Naturista strand",
+                "ro": "Plajă naturistă",
+                "en": "Nude beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Regen völlig leer, was eine mystische Stimmung erzeugt; achten Sie auf glitschige Algen auf den Steinen am Uferrand beim Gehen.",
+                "hu": "A strand esőben teljesen néptelen, ami misztikus hangulatot áraszt; vigyázzunk a part menti köveken lévő nyálkás algákra, mert nagyon csúsznak.",
+                "ro": "Plaja este complet goală pe ploaie, oferind o atmosferă mistică; atenție la algele alunecoase de pe pietrele de la marginea apei în timp ce mergeți.",
+                "en": "The beach is completely deserted in the rain, creating a mystical atmosphere; watch out for slimy algae on the shoreline stones while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudistenstrand",
+                "hu": "Nudista strand",
+                "ro": "Plajă de nudiști",
+                "en": "Nudist beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer von einem geschützten Felsvorsprung aus; wasserfeste Taschen für Ihre Elektronik sind hier absolut notwendig.",
+                "hu": "Élvezzük a szürke tenger látványát egy védettebb sziklakiszögellés alól; a telefonok és kamerák számára vízhatlan tok használata erősen ajánlott.",
+                "ro": "Bucurați-vă de vederea mării cenușii de sub o proeminență stâncoasă protejată; husele impermeabile pentru electronice sunt esențiale în această zonă.",
+                "en": "Enjoy the view of the grey sea from a protected rocky overhang; waterproof bags for your electronics are absolutely necessary in these conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Blatna plaža",
+                "hu": "Blatna plaža",
+                "ro": "Blatna plaža",
+                "en": "Blatna plaža"
+              },
+              "tip_5lang": {
+                "de": "Der Name 'Blatna' (schlammig) ist bei Regen Programm; tragen Sie Gamaschen, um Ihre Hosen vor dem aufgeweichten Boden und Pfützen zu schützen.",
+                "hu": "A 'Blatna' név esőben igencsak találó, hiszen a talaj felázik; használjunk kamáslit, hogy megvédjük nadrágunkat a sártól és a mély pocsolyáktól.",
+                "ro": "Numele 'Blatna' (noroios) este foarte potrivit pe ploaie; purtați parazăpezi pentru a vă proteja pantalonii de noroiul și bălțile formate pe potecă.",
+                "en": "The name 'Blatna' (muddy) is very literal in the rain; wear gaiters to protect your trousers from the softened ground and deep puddles on the path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer frischen Brise in Kaštid, wo wir uns mit warmen Schichten gegen den Wind schützen. Mittags bietet der alte Baum ein kahles, aber imposantes Fotomotiv unter der tiefstehenden Wintersonne. Am Nachmittag wandern wir an den ruhigen Stränden entlang, die im Winter eine ganz eigene Stille ausstrahlen. Gegen 17:00 Uhr wird es dunkel, weshalb wir rechtzeitig ein warmes Quartier aufsuchen.",
+            "hu": "A téli reggel friss széllel indul Kaštidnál, ahol a réteges öltözet és egy meleg sapka segít elviselni a hideget. Délben a kopár öreg fa ágai között átszűrődő téli napsütés különleges fényeket ad a tájnak. Délután a kihalt tengerpartokon sétálunk, élvezve a természet mély nyugalmát és csendjét. 17:00-kor már sötétedik, így korán befejezzük a túrát egy forró ital mellett.",
+            "ro": "Dimineața de iarnă începe cu o briză rece la Kaštid, unde straturile termice și o căciulă călduroasă sunt obligatorii pentru confort. La prânz, copacul bătrân oferă un cadru fotografic dramatic sub soarele palid de iarnă. După-amiaza ne plimbăm pe plajele pustii, savurând liniștea deplină a naturii amorțite. Soarele apune în jurul orei 17:00, așa că ne grăbim spre un loc încălzit.",
+            "en": "The winter morning starts with a crisp breeze at Kaštid, where thermal layers and a warm hat are essential for comfort. At noon, the bare old tree stands imposingly under the low winter sun, offering great photo opportunities. Afternoon is perfect for a peaceful stroll along deserted beaches, enjoying the silence of nature. Sunset is around 5 PM, so we head back early to find a cozy spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kaštid",
+                "hu": "Kaštid",
+                "ro": "Kaštid",
+                "en": "Kaštid"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Nordwind kann an den Klippen von Kaštid sehr stark sein; eine winddichte Jacke ist unerlässlich, um die Aussicht ohne Frieren zu genießen.",
+                "hu": "A hideg északi szél metsző lehet a Kaštid szikláinál; szélálló dzseki és sál viselése elengedhetetlen a panoráma zavartalan megcsodálásához.",
+                "ro": "Vântul rece de nord poate fi foarte tăios la stâncile Kaštid; o jachetă rezistentă la vânt este esențială pentru a admira priveliștea fără a îngheța.",
+                "en": "The cold northern wind can be very biting at the Kaštid cliffs; a windproof jacket is essential to enjoy the panoramic views without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Baum",
+                "hu": "Öreg fa",
+                "ro": "Copac vechi",
+                "en": "Cool old tree"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Äste des Baumes wirken im Winterlicht fast skulptural; nutzen Sie das weiche Licht der Mittagszeit für kontrastreiche Schwarz-Weiß-Aufnahmen.",
+                "hu": "A fa csupasz ágai szinte szoborszerűek a téli fényben; használjuk ki a déli órák lágy fényeit a kontrasztos, fekete-fehér fotók készítéséhez.",
+                "ro": "Ramurile golașe ale copacului par aproape sculpturale în lumina iernii; profitați de lumina blândă a amiezii pentru fotografii alb-negru contrastante.",
+                "en": "The bare branches of the tree look almost sculptural in the winter light; use the soft midday sun for high-contrast black-and-white photography."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand",
+                "hu": "Naturista strand",
+                "ro": "Plajă naturistă",
+                "en": "Nude beach"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie einen heißen Tee aus der Thermoskanne, während Sie die klare Sicht bis zum Horizont genießen; der Strand bietet im Winter absolute Einsamkeit.",
+                "hu": "Igyunk egy forró teát a termosztból, miközben a tiszta téli levegőben ellátunk a messzi horizontig; a strand ilyenkor a teljes nyugalom szigete.",
+                "ro": "Beți un ceai fierbinte din termos în timp ce admirați orizontul clar; plaja oferă o singurătate deplină și relaxantă în timpul lunilor de iarnă.",
+                "en": "Sip hot tea from a thermos while enjoying the crystal-clear view to the horizon; the beach offers absolute solitude and peace during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudistenstrand",
+                "hu": "Nudista strand",
+                "ro": "Plajă de nudiști",
+                "en": "Nudist beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie eine sonnengeschützte Ecke zwischen den Felsen, um die wenigen warmen Sonnenstrahlen aufzufangen; festes Schuhwerk gegen kalte Füße ist wichtig.",
+                "hu": "Keressünk egy napos, szélvédett zugot a sziklák között, hogy elcsípjük a gyenge téli napsugarakat; a hideg kövek ellen vastag talpú cipő javasolt.",
+                "ro": "Căutați un colț însorit și ferit de vânt între stânci pentru a prinde câteva raze călduroase; încălțămintea cu talpă groasă este necesară aici.",
+                "en": "Find a sunny, wind-sheltered spot among the rocks to catch the few warm rays; thick-soled shoes are important to keep your feet off the cold ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Blatna plaža",
+                "hu": "Blatna plaža",
+                "ro": "Blatna plaža",
+                "en": "Blatna plaža"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und uneben sein; achten Sie auf Ihren Tritt und planen Sie, den Strand vor dem frühen Sonnenuntergang um 17:00 Uhr zu verlassen.",
+                "hu": "A talaj télen fagyott és egyenetlen lehet; figyeljünk a lépteinkre, és tervezzük úgy, hogy a korai, 17:00-s naplemente előtt elhagyjuk a partot.",
+                "ro": "Solul poate fi înghețat și denivelat iarna; aveți grijă la pași și planificați să părăsiți plaja înainte de apusul devreme de la ora 17:00.",
+                "en": "The ground can be frozen and uneven in winter; watch your step carefully and plan to leave the beach before the early sunset at 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját Veraja békés, sziklás tájainak felfedezésével a kora reggeli órákban.\n\nA dél egy egyenletes utazást hoz a festői Kaštid mellett, és egy gyors pihenőt egy figyelemre méltó öreg fa alatt.\n\nTöltsön egy pihentető délutánt a mediterrán napsütésben egy gyönyörű nudista strandon.\n\nAhogy a nap ereszkedni kezd, tekerjen fel Tursko történelmi romjaihoz egy lenyűgöző végső kilátópontért.",
         "ro": "Începeți-vă aventura cu bicicleta explorând peisajele stâncoase senine din Veraja dis-de-dimineață.\n\nAmiaza aduce o plimbare constantă pe lângă pitorescul Kaštid și o scurtă oprire sub un copac bătrân.\n\nPetreceți o după-amiază relaxantă bucurându-vă de soarele mediteranean pe o frumoasă plajă de nudiști.\n\nCând soarele apune, pedalați până la ruinele castelului Tursko pentru un ultim punct de belvedere.",
         "en": "Kick off your cycling adventure by exploring the serene rocky landscapes of Veraja in the early morning.\n\nMidday brings a steady ride past the scenic Kaštid and a quick rest stop beneath a remarkable old tree.\n\nSpend a relaxing afternoon soaking up the Mediterranean sunshine at a beautiful nudist beach.\n\nAs the sun begins to lower, cycle up to the historic ruins of Tursko for a spectacular final viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt morgens bei Regen in Veraja, wobei wir auf den rutschigen Schotterwegen besonders vorsichtig bremsen müssen. Mittags erreichen wir Kaštid, wo wir unter einem Unterstand die Kette prüfen. Nachmittags fahren wir trotz Nässe am alten Baum vorbei zum Strand, wobei Schutzbleche Gold wert sind. Abends beenden wir die Tour durchnässt, aber erfrischt, bevor die Sicht bei Dunkelheit zu schlecht wird.",
+            "hu": "A kerékpártúra reggel esőben indul Verajánál, ahol a csúszós murvás utakon óvatos fékezésre van szükség. Délben érjük el Kaštid területét, ahol egy fedett részen ellenőrizzük a felszerelést. Délután az öreg fa érintésével tekerünk a tengerpart felé, a sárvédő ilyenkor életmentő. Este átázva, de felfrissülve fejezzük be a napot, még mielőtt a látási viszonyok túl rosszak lennének.",
+            "ro": "Turul cu bicicleta începe pe ploaie în Veraja, necesitând o frânare prudentă pe drumurile cu pietriș ud. La prânz ajungem la Kaštid, unde verificăm echipamentul sub un adăpost improvizat. După-amiaza pedalăm pe lângă bătrânul copac spre plajă, parafangurile fiind esențiale. Seara încheiem tura uzi, dar revigorați, înainte ca vizibilitatea să scadă drastic din cauza întunericului.",
+            "en": "The bike tour starts in the rain at Veraja, requiring cautious braking on the slippery gravel paths. By noon we reach Kaštid, checking our gear under a temporary shelter. In the afternoon, we cycle past the old tree towards the beach, where mudguards prove invaluable. We finish the tour in the evening, soaked but refreshed, before visibility drops too much in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Veraja",
+                "hu": "Veraja",
+                "ro": "Veraja",
+                "en": "Veraja"
+              },
+              "tip_5lang": {
+                "de": "Verringern Sie den Reifendruck leicht für bessere Haftung auf dem nassen Untergrund; tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im Nebel.",
+                "hu": "Csökkentsük kissé a guminyomást a jobb tapadás érdekében a vizes talajon; viseljünk neon színű esőkabátot, hogy a ködben is jól láthatóak maradjunk.",
+                "ro": "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe carosabil ud; purtați o jachetă reflectorizantă pentru vizibilitate sporită în ceață.",
+                "en": "Slightly lower your tire pressure for better grip on the wet ground; wear a neon rain jacket to remain clearly visible to others in misty conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštid",
+                "hu": "Kaštid",
+                "ro": "Kaštid",
+                "en": "Kaštid"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt von Kaštid ist bei Regen technisch anspruchsvoll; testen Sie Ihre Bremsen regelmäßig, da die Bremswirkung auf nassen Felgen verzögert eintritt.",
+                "hu": "A Kaštid felőli lejtő esőben technikás és veszélyes; teszteljük gyakran a fékeket, mert a vizes felniken a fékhatás jelentősen lassabban jelentkezik.",
+                "ro": "Coborârea de la Kaštid este solicitantă pe ploaie; testați frânele regulat, deoarece eficiența lor scade pe jantele umede și pline de noroi.",
+                "en": "The descent from Kaštid is technically demanding in the rain; test your brakes frequently as stopping power is significantly reduced on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Baum",
+                "hu": "Öreg fa",
+                "ro": "Copac vechi",
+                "en": "Cool old tree"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nicht direkt unter dem Baum, da herabfallende Äste bei Wind gefährlich sein können; nutzen Sie den Ort für eine kurze Trinkpause im Stehen.",
+                "hu": "Ne parkoljunk közvetlenül a fa alatt, mert az erős szélben letörő ágak veszélyesek lehetnek; tartsunk itt csak egy rövid, álló frissítő szünetet.",
+                "ro": "Nu parcați bicicleta direct sub copac, deoarece crengile pot cădea în timpul vântului puternic; folosiți locul pentru o scurtă pauză de hidratare.",
+                "en": "Avoid parking your bike directly under the tree as falling branches can be dangerous in wind; use the spot only for a quick standing water break."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudistenstrand",
+                "hu": "Nudista strand",
+                "ro": "Plajă de nudiști",
+                "en": "Nudist beach"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann durch Sturzbäche unterspült sein; schieben Sie Ihr Rad in unübersichtlichen Abschnitten, um Stürze durch versteckte Löcher zu vermeiden.",
+                "hu": "A strandhoz vezető utat az esővíz kimoshatta; az átláthatatlan szakaszokon inkább toljuk a bringát, hogy elkerüljük a rejtett gödrök okozta esést.",
+                "ro": "Drumul spre plajă poate fi deteriorat de șuvoaie; împingeți bicicleta în zonele nesigure pentru a evita căzăturile cauzate de gropile ascunse.",
+                "en": "The path to the beach might be washed out by rainwater; wheel your bike through uncertain sections to avoid crashes caused by hidden potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Tursko",
+                "hu": "Tursko vár",
+                "ro": "Castelul Tursko",
+                "en": "Tursko Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine bietet Schutz vor Wind, aber die alten Steine sind extrem glatt; tragen Sie Radschuhe mit Gummisohle für sicheren Halt beim Erkunden der Anlage.",
+                "hu": "A várrom védelmet nyújt a szél ellen, de az öreg kövek rendkívül síkosak; gumitalpú kerékpáros cipőben közlekedjünk a romok közötti felfedezéskor.",
+                "ro": "Ruinele castelului oferă adăpost împotriva vântului, dar pietrele vechi sunt foarte alunecoase; purtați pantofi cu talpă de cauciuc pentru aderență.",
+                "en": "The castle ruins provide shelter from the wind, but the old stones are extremely slick; wear rubber-soled cycling shoes for grip while exploring."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen starten wir die Radtour in Veraja, wobei warme Handschuhe gegen den Fahrtwind unerlässlich sind. Mittags erreichen wir Kaštid und genießen die weite Sicht ohne den sommerlichen Dunst. Nachmittags führt die Fahrt am alten Baum vorbei zum Schloss Tursko, wo die tiefstehende Sonne lange Schatten wirft. Vor dem frühen Sonnenuntergang um 17:00 Uhr kehren wir mit eingeschaltetem Licht zurück.",
+            "hu": "Tiszta téli reggelen indulunk Verajától, a menetszél ellen vastag kesztyű és arcmaszk viselése kötelező. Délben Kaštidnál állunk meg, ahol a nyári pára hiánya miatt bámulatosan tiszta a kilátás. Délután az öreg fa mellett elhaladva tekerünk a Tursko várhoz, miközben a lemenő nap hosszú árnyékokat vet. A korai, 17:00-s naplemente előtt már felkapcsolt lámpákkal indulunk vissza.",
+            "ro": "Într-o dimineață clară de iarnă, pornim tura din Veraja, mănușile groase fiind vitale împotriva vântului rece. La prânz ajungem la Kaštid și ne bucurăm de vizibilitatea maximă specifică iernii. După-amiaza pedalăm pe lângă copac spre Castelul Tursko, în timp ce soarele jos creează umbre lungi. Înainte de apusul de la ora 17:00, ne întoarcem folosind obligatoriu luminile bicicletei.",
+            "en": "On a clear winter morning, we start our ride from Veraja, with warm gloves being essential against the biting wind. At noon, we reach Kaštid and enjoy the amazingly clear views typical of the season. In the afternoon, we cycle past the old tree to Tursko Castle as the low sun casts long shadows. Before the early 5 PM sunset, we head back with our bike lights switched on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Veraja",
+                "hu": "Veraja",
+                "ro": "Veraja",
+                "en": "Veraja"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermo-Fahrradbekleidung, da die Temperaturen im Schatten stark sinken können; prüfen Sie Ihre Beleuchtung vor der Abfahrt im frostigen Morgenlicht.",
+                "hu": "Viseljünk termo kerékpáros ruházatot, mert az árnyékos részeken hirtelen leeshet a hőmérséklet; indulás előtt mindenképp ellenőrizzük a lámpák töltöttségét.",
+                "ro": "Purtați haine termice speciale pentru ciclism, deoarece temperaturile scad brusc la umbră; verificați funcționarea farurilor înainte de plecare.",
+                "en": "Wear thermal cycling gear as temperatures can drop sharply in shaded areas; double-check your light batteries before starting in the frosty morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaštid",
+                "hu": "Kaštid",
+                "ro": "Kaštid",
+                "en": "Kaštid"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Wind an den Klippen kann die gefühlte Temperatur drastisch senken; nutzen Sie Buff-Tücher, um Gesicht und Hals während der Fahrt warm zu halten.",
+                "hu": "A szikláknál fújó jeges szél drasztikusan csökkenti a hőérzetet; használjunk csősálat az arcunk és a nyakunk védelmére tekerés közben.",
+                "ro": "Vântul înghețat de la stânci poate scădea drastic temperatura resimțită; folosiți o eșarfă tip buff pentru a vă proteja fața și gâtul în timpul mersului.",
+                "en": "The icy wind at the cliffs can drastically lower the perceived temperature; use a neck gaiter to protect your face and throat while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Baum",
+                "hu": "Öreg fa",
+                "ro": "Copac vechi",
+                "en": "Cool old tree"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur eine kurze Pause, um nicht auszukühlen; ein paar Kniebeugen neben dem Rad helfen, die Durchblutung in den Beinen bei der Kälte anzuregen.",
+                "hu": "Csak rövid pihenőt tartsunk, nehogy túlságosan lehűljünk; néhány guggolás a bringa mellett segít felpezsdíteni a vérkeringést a lábakban a hidegben.",
+                "ro": "Faceți doar o scurtă pauză pentru a nu vă răci corpul; câteva genoflexiuni lângă bicicletă vor ajuta la circulația sângelui în picioare pe acest frig.",
+                "en": "Take only a brief break to avoid getting too cold; a few squats next to your bike will help stimulate blood circulation in your legs in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudistenstrand",
+                "hu": "Nudista strand",
+                "ro": "Plajă de nudiști",
+                "en": "Nudist beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, auf nassen Algenflächen zu fahren, die bei Frost zu Glatteis werden können; schieben Sie das Rad auf den letzten Metern zum Ufer.",
+                "hu": "Kerüljük a vizes, algás felületeket, amelyek fagy esetén jégpályává változhatnak; a part utolsó méterein inkább toljuk a kerékpárt a biztonságért.",
+                "ro": "Evitați să pedalați pe suprafețele umede cu alge, care pot îngheța; împingeți bicicleta pe ultimii metri spre mal pentru a preveni accidentele.",
+                "en": "Avoid riding on wet, algae-covered surfaces which can turn into ice in frost; wheel your bike for the last few meters to the shoreline for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Tursko",
+                "hu": "Tursko vár",
+                "ro": "Castelul Tursko",
+                "en": "Tursko Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Burgmauern als Windschutz für ein schnelles Picknick; brechen Sie spätestens um 16:30 Uhr auf, damit Sie nicht in die totale Dunkelheit kommen.",
+                "hu": "Használjuk a várfalakat szélárnyékként egy gyors tízóraihoz; legkésőbb 16:30-kor induljunk vissza, hogy elkerüljük a teljes sötétségben való tekerést.",
+                "ro": "Folosiți zidurile castelului ca paravan împotriva vântului pentru o gustare rapidă; plecați cel târziu la 16:30 pentru a nu vă prinde întunericul pe drum.",
+                "en": "Use the castle walls as a windbreak for a quick snack; start your return journey by 4:30 PM at the latest to avoid cycling in total darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós túrája Veraja festői tengerparti területén kezdődik, friss indulást biztosítva a napnak.\n\nEzután egy híres helyi fa mellett halad el, mielőtt felfedezné Tursko várának lenyűgöző történelmi maradványait.\n\nA délután egy gyönyörű utazás délre Glavicába, majd egy pihentető megálló a Sunset Beach-en.\n\nA végső esti úti cél egy csendes, eldugott naturista öböl a félsziget legcsúcsán.",
         "ro": "Turul cu mașina începe în zona de coastă pitorească Veraja, oferind un început proaspăt de zi.\n\nVeți trece apoi pe lângă un copac local faimos înainte de a explora rămășițele fascinante ale castelului Tursko.\n\nDupă-amiaza este o plimbare frumoasă spre sud, spre Glavica, urmată de o oprire la Sunset Beach.\n\nDestinația finală de seară este un golf naturist liniștit și izolat, chiar în vârful peninsulei.",
         "en": "Your driving tour starts at the picturesque coastal area of Veraja, offering a fresh start to the day.\n\nYou will then drive past a famous local tree before exploring the fascinating historical remnants of Tursko castle.\n\nThe afternoon is a beautiful drive south to Glavica, followed by a relaxing stop at Sunset Beach.\n\nYour ultimate evening destination is a quiet, secluded naturist bay right at the peninsula's tip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt morgens im Regen in Veraja, wobei wir die beschlagenen Scheiben ständig lüften müssen. Mittags machen wir einen kurzen Stopp am alten Baum, bewundern ihn aus dem trockenen Innenraum und sprinten für ein Foto kurz raus. Nachmittags erkunden wir das Schloss Tursko und die Aussichtspunkte, während der Regen gegen das Autodach trommelt. Abends genießen wir die gemütliche Fahrt zurück zum Hotel im Scheinwerferlicht.",
+            "hu": "Az autós túra reggel esőben indul Verajánál, a párásodó szélvédők miatt folyamatos szellőztetésre van szükség. Délben rövid megállót tartunk az öreg fánál, az utastér melegéből csodáljuk, majd egy gyors fotóra kiszállunk. Délután a Tursko várat és a kilátóhelyeket keressük fel, miközben az eső kopog a tetőn. Este a fényszórók fényében, kényelmesen és szárazon autózunk vissza a szállásra.",
+            "ro": "Călătoria cu mașina începe pe ploaie în Veraja, fiind necesară ventilarea constantă pentru a dezaburi parbrizul. La prânz oprim scurt la copacul bătrân, admirându-l din interiorul cald înainte de o poză rapidă. După-amiaza explorăm Castelul Tursko și punctele de belvedere în timp ce ploaia bate în plafonul mașinii. Seara ne bucurăm de drumul de întoarcere confortabil, sub lumina farurilor.",
+            "en": "The car trip starts in the rain at Veraja, requiring constant ventilation to clear the fogged-up windows. At noon, we make a quick stop at the old tree, admiring it from the warm cabin before jumping out for a fast photo. In the afternoon, we explore Tursko Castle and the viewpoints while rain drums on the roof. In the evening, we enjoy a cozy drive back to our base in the glow of the headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Veraja",
+                "hu": "Veraja",
+                "ro": "Veraja",
+                "en": "Veraja"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Aquaplaning auf den schmalen Landstraßen; halten Sie eine Taschenlampe im Auto bereit, falls Sie bei starkem Regen kurz aussteigen müssen.",
+                "hu": "Vigyázzunk a vízátfolyásokra a keskeny utakon; tartsunk kéznél egy esernyőt és zseblámpát az autóban, ha a szakadó esőben ki kellene szállnunk.",
+                "ro": "Atenție la acvaplanare pe drumurile înguste; țineți o umbrelă și o lanternă la îndemână în mașină în cazul în care trebuie să coborâți pe ploaie torențială.",
+                "en": "Watch out for aquaplaning on the narrow country roads; keep an umbrella and a flashlight ready in the car in case you need to step out in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Baum",
+                "hu": "Öreg fa",
+                "ro": "Copac vechi",
+                "en": "Cool old tree"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz in der Nähe des Baumes kann sehr schlammig sein; prüfen Sie den Untergrund, bevor Sie den Motor abstellen, um nicht stecken zu bleiben.",
+                "hu": "A fa melletti parkolóhely esőben nagyon sáros lehet; ellenőrizzük a talajt, mielőtt leállítjuk a motort, nehogy elakadjon az autó a mély sárban.",
+                "ro": "Locul de parcare de lângă copac poate deveni foarte noroios; verificați solul înainte de a opri motorul pentru a nu rămâne blocați în noroiul moale.",
+                "en": "The parking spot near the tree can be very muddy in the rain; check the ground before turning off the engine to avoid getting stuck in soft soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Tursko",
+                "hu": "Tursko vár",
+                "ro": "Castelul Tursko",
+                "en": "Tursko Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basisstation und erkunden Sie die Burg in Etappen zwischen den Regenschauern; trockene Ersatzkleidung im Kofferraum ist ratsam.",
+                "hu": "Használjuk az autót bázisként, és az esőszünetekben, szakaszosan fedezzük fel a várat; tartsunk váltóruhát a csomagtartóban az átázás esetére.",
+                "ro": "Folosiți mașina ca bază și explorați castelul în etape între reprizele de ploaie; este recomandat să aveți haine de schimb uscate în portbagaj.",
+                "en": "Use the car as a base station and explore the castle in stages between rain showers; keeping spare dry clothes in the trunk is highly advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Glavica",
+                "hu": "Glavica",
+                "ro": "Glavica",
+                "en": "Glavica"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zu Glavica kann bei starkem Regen rutschig sein; schalten Sie in einen niedrigen Gang und fahren Sie langsam, um die Kontrolle zu behalten.",
+                "hu": "A Glavica felé vezető út esőben csúszós lehet; kapcsoljunk alacsonyabb sebességfokozatba és vezessünk lassan a biztonságos tapadás fenntartásához.",
+                "ro": "Accesul spre Glavica poate fi alunecos pe ploaie torențială; folosiți o treaptă inferioară de viteză și conduceți prudent pentru a păstra controlul.",
+                "en": "The approach to Glavica can be slippery in heavy rain; shift to a lower gear and drive slowly to maintain proper traction and control of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach",
+                "hu": "Sunset Beach",
+                "ro": "Sunset Beach",
+                "en": "Sunset Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer gemütlich vom Fahrersitz aus; die Brandung ist bei Regen oft spektakulär und bietet tolle Fotomotive durch das Fenster.",
+                "hu": "Figyeljük a viharos tenger hullámait kényelmesen, az autó vezetőüléséből; az esős időben a hullámverés látványa az ablakon át is lenyűgöző.",
+                "ro": "Observați marea agitată confortabil din scaunul șoferului; valurile sunt adesea spectaculoase pe ploaie și oferă cadre foto reușite prin fereastră.",
+                "en": "Watch the stormy sea waves comfortably from the driver's seat; the surf is often spectacular in the rain and offers great photo ops through the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK",
+                "hu": "FKK",
+                "ro": "FKK",
+                "en": "FKK"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie das Auto schnell wieder verlassen können, falls der Regen nachlässt; die salzige Luft und der Regen können die Sicht verschlechtern.",
+                "hu": "Úgy parkoljunk, hogy gyorsan ki tudjunk szállni, ha eláll az eső; a sós tengeri pára és az eső keveréke hamar beszennyezheti a szélvédőt.",
+                "ro": "Parcați astfel încât să puteți coborî rapid dacă ploaia se oprește; aerul sărat și ploaia pot reduce vizibilitatea prin parbrizul murdar.",
+                "en": "Park in a way that allows you to exit quickly if the rain stops; the mix of salty air and rain can quickly make the windshield visibility poor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Wintermorgen genießen wir die Fahrt durch Veraja mit eingeschalteter Sitzheizung. Mittags erreichen wir den alten Baum, dessen kahle Silhouette sich scharf gegen den blauen Winterhimmel abhebt. Nachmittags erkunden wir das Schloss Tursko und Glavica, wobei wir uns immer wieder im warmen Auto aufwärmen können. Gegen 17:00 Uhr beobachten wir den frühen Sonnenuntergang über dem Meer, bevor wir im Dunkeln zurückfahren.",
+            "hu": "Fagyos téli reggelen indulunk Veraján keresztül, élvezve az autó fűtését és a kényelmet. Délben elérjük az öreg fát, melynek csupasz sziluettje élesen rajzolódik ki a kék téli égen. Délután a Tursko várat és Glavicát fedezzük fel, időnként visszatérve az autó melegébe felmelegedni. 17:00 körül megcsodáljuk a korai tengeri naplementét, majd a sötétben, biztonságban hazaautózunk.",
+            "ro": "Într-o dimineață geroasă de iarnă, savurăm drumul prin Veraja cu căldura pornită în mașină. La prânz ajungem la copacul bătrân, a cărui siluetă golașă se profilează clar pe cerul albastru. După-amiaza explorăm Castelul Tursko și Glavica, revenind periodic în mașină pentru a ne încălzi. În jurul orei 17:00 admirăm apusul devreme peste mare, apoi ne întoarcem prin întuneric.",
+            "en": "On a frosty winter morning, we enjoy the drive through Veraja with the car heater on full blast. At noon, we reach the old tree, its bare silhouette standing out sharply against the clear blue sky. In the afternoon, we explore Tursko Castle and Glavica, warming up in the car between stops. Around 5 PM, we watch the early sunset over the sea before driving back safely in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Veraja",
+                "hu": "Veraja",
+                "ro": "Veraja",
+                "en": "Veraja"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage; im Winter kann es morgens auf den Brücken und in Senken in Veraja unerwartet glatt sein.",
+                "hu": "Ellenőrizzük a fagyállót a szélvédőmosóban; télen a hidakon és a mélyebben fekvő útszakaszokon Verajánál váratlan jegesedés fordulhat elő.",
+                "ro": "Verificați nivelul antigelului în lichidul de parbriz; iarna, pe podurile și în văile din Veraja pot apărea porțiuni de polei neașteptate dimineața.",
+                "en": "Check the antifreeze levels in your windshield washer fluid; in winter, bridges and low-lying road sections in Veraja can be unexpectedly icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Baum",
+                "hu": "Öreg fa",
+                "ro": "Copac vechi",
+                "en": "Cool old tree"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Aussteigen; die klare Winterluft ermöglicht vom Parkplatz aus eine weite Sicht bis zu den Nachbarinseln.",
+                "hu": "Használjuk az autót szélárnyékként kiszálláskor; a tiszta téli levegőben a parkolóból akár a szomszédos szigetekig is el lehet látni ilyenkor.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului când coborâți; aerul clar de iarnă permite o vizibilitate excelentă până la insulele vecine din parcare.",
+                "en": "Use the car as a windbreak when stepping out; the clear winter air allows for a wide view all the way to the neighboring islands from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Tursko",
+                "hu": "Tursko vár",
+                "ro": "Castelul Tursko",
+                "en": "Tursko Castle"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch zur Mittagszeit, wenn die Sonne am höchsten steht; die Burgmauern strahlen im Winter oft eine intensive Kälte aus.",
+                "hu": "A látogatást a déli órákra tervezzük, amikor a legmagasabban jár a nap; a várfalak télen nagyon hidegek, kerüljük a közvetlen érintkezést a kövekkel.",
+                "ro": "Planificați vizita la amiază, când soarele este sus; zidurile castelului emană un frig intens iarna, deci nu vă sprijiniți de ele prea mult timp.",
+                "en": "Plan your visit for midday when the sun is at its highest; the castle walls radiate intense cold in winter, so avoid leaning against the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Glavica",
+                "hu": "Glavica",
+                "ro": "Glavica",
+                "en": "Glavica"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das glitzernde Meer ist im Winter besonders klar; halten Sie eine Thermoskanne mit Kaffee im Auto bereit für ein warmes Picknick.",
+                "hu": "A csillogó tenger látványa télen különösen tiszta; tartsunk egy termosz kávét az autóban egy kellemes, melegítő pihenőhöz a kilátóponton.",
+                "ro": "Vederea mării strălucitoare este deosebit de clară iarna; păstrați un termos cu cafea în mașină pentru un picnic cald și relaxant la Glavica.",
+                "en": "The view of the glittering sea is exceptionally clear in winter; keep a thermos of hot coffee in the car for a warming picnic at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach",
+                "hu": "Sunset Beach",
+                "ro": "Sunset Beach",
+                "en": "Sunset Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:30 Uhr an, um den Sonnenuntergang nicht zu verpassen; im Winter sinkt die Sonne bereits früh und schnell ins Meer.",
+                "hu": "Legkésőbb 16:30-ra érjünk a partra, hogy ne maradjunk le a naplementéről; télen a nap korábban és gyorsabban bukik a horizont alá a tengeren.",
+                "ro": "Ajungeți cel târziu la ora 16:30 pentru a nu rata apusul; iarna, soarele coboară mult mai devreme și mai rapid sub linia orizontului marin.",
+                "en": "Arrive by 4:30 PM at the latest so you don't miss the sunset; in winter, the sun dips below the sea horizon much earlier and more quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK",
+                "hu": "FKK",
+                "ro": "FKK",
+                "en": "FKK"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und ideal für einsame Fotos; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A strand télen teljesen üres, tökéletes magányos fotók készítéséhez; ne járassuk feleslegesen a motort, miközben a kilátást élvezzük a kocsiból.",
+                "ro": "Plaja este pustie iarna și ideală pentru fotografii artistice; nu lăsați motorul pornit inutil în timp ce admirați priveliștea din interior.",
+                "en": "The beach is deserted in winter and perfect for solitary photos; don't leave the engine idling unnecessarily while you enjoy the view from the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

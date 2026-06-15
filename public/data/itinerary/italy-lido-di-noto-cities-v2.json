@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Latomie lenyűgöző ősi kőbányáinak felfedezésével. Ahogy közeledik a dél, merüljön el az ókori Eloro történelmi magjában, áthaladva az Északi kapun és felfedezve az Agorát. Késő délután ismerje meg az ősi vallási gyakorlatokat a Demeter-templomnál. Zárja a napot a tengerparton pihenve a lenyűgöző Spiaggia di Eloro strandon, élvezve az esti nyugalmat.",
         "ro": "Începeți dimineața examinând fascinantele cariere antice din Latomie. Pe măsură ce se apropie prânzul, cufundați-vă în nucleul istoric al anticului Eloro, trecând prin Poarta de Nord. După-amiaza târziu, conectați-vă cu practicile religioase antice la Templul lui Demeter. Încheiați-vă ziua relaxându-vă la malul mării pe plaja imaculată Spiaggia di Eloro sub razele soarelui.",
         "en": "Begin your morning by examining the fascinating ancient quarries of Latomie. As midday approaches, immerse yourself in the historical core of ancient Eloro, passing through the North Gate and exploring the city layout and the bustling Agorà. In the late afternoon, connect with ancient religious practices at the Temple of Demeter. Conclude your day relaxing by the sea at the pristine Spiaggia di Eloro."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt bei den Latomie di Eloro, wo der Regen die antiken Steinbrüche in ein mystisches Licht taucht. Mittags erkunden wir die Porta Nord und die Ruinen von Eloro, wobei wir unter den massiven Steinbögen Schutz suchen. Am Nachmittag erreichen wir die Agorà und den Demeter-Tempel, während der Regen die Pfade aufweicht. Der Tag endet am Strand von Eloro bei stürmischer See.",
+            "hu": "A reggel a Latomie di Eloro kőfejtőinél indul, ahol az eső misztikus hangulatot áraszt az ókori falak között. Délben a Porta Nord és Eloro romjai között keresünk menedéket a záporok elől a kőkapuk alatt. Délután az Agorà és Demeter temploma következik a szürke égbolt alatt, majd a napot az Eloro strandon zárjuk, figyelve a vad hullámokat és a párás horizontot.",
+            "ro": "Dimineața începe la Latomie di Eloro, unde ploaia scoate în evidență textura vechilor cariere de piatră. La prânz explorăm Porta Nord și ruinele orașului Eloro, adăpostindu-ne sub structurile antice. După-amiaza vizităm Agorà și Templul Demetrei sub cerul plumburiu, iar ziua se încheie pe plaja Eloro, admirând marea agitată și peisajul dramatic de coastă.",
+            "en": "Morning starts at the Latomie di Eloro, where rain adds a mystical aura to the ancient stone quarries. At noon, we explore Porta Nord and the ruins of Eloro, using the stone structures as temporary shelter. Afternoon brings us to the Agorà and Temple of Demeter under a drizzly sky, finishing the day at Eloro Beach, watching the grey waves crash against the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Latomie di Eloro",
+                "hu": "Latomie di Eloro",
+                "ro": "Latomie di Eloro",
+                "en": "Latomie di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die vertieften Steinbrüche, die bei Regen eine dunkle, dramatische Farbe annehmen; tragen Sie rutschfeste Schuhe, da der Kalkstein extrem glatt wird.",
+                "hu": "Csodáld meg a mély kőfejtőket, amelyek esőben sötét, drámai színt kapnak; viselj csúszásmentes bakancsot, mert a nedves mészkő rendkívül veszélyes lehet.",
+                "ro": "Admirați carierele adânci care capătă o culoare închisă și dramatică pe ploaie; purtați încălțăminte antiderapantă, deoarece calcarul devine extrem de alunecos.",
+                "en": "Admire the deep quarries that take on a dark, dramatic hue in the rain; wear non-slip boots as the wet limestone surfaces can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Nord",
+                "hu": "Porta Nord",
+                "ro": "Porta Nord",
+                "en": "Porta Nord"
+              },
+              "tip_5lang": {
+                "de": "Untersuchen Sie die massiven Befestigungsanlagen, während Sie unter den Überhängen Schutz suchen; ein stabiler Regenschirm ist wegen des Küstenwindes unerlässlich.",
+                "hu": "Vizsgáld meg a masszív erődítéseket, miközben a kőperemek alatt keresel menedéket; a tengerparti szél miatt egy viharálló esernyő mindenképpen szükséges.",
+                "ro": "Examinați fortificațiile masive în timp ce căutați adăpost sub cornișele de piatră; o umbrelă rezistentă este esențială din cauza vântului de coastă.",
+                "en": "Examine the massive fortifications while seeking temporary shelter under the stone ledges; a sturdy umbrella is vital due to the strong coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Città di Eloro",
+                "hu": "Città di Eloro",
+                "ro": "Città di Eloro",
+                "en": "Città di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch die antiken Straßen, in denen sich kleine Bäche bilden; bleiben Sie auf den markierten Wegen, um den schlammigen Untergrund zu meiden.",
+                "hu": "Sétálj végig az ókori utcákon, ahol az esővíz kis patakokat formál; maradj a kijelölt ösvényeken, hogy elkerüld a sárban való elmerülést a romok között.",
+                "ro": "Mergeți pe străzile antice unde ploaia formează mici pârâuri; rămâneți pe potecile marcate pentru a evita zonele noroioase din jurul ruinelor.",
+                "en": "Walk through the ancient streets where rainwater forms small streams; stay on the marked paths to avoid the muddy ground surrounding the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Agorà",
+                "hu": "Agorà",
+                "ro": "Agorà",
+                "en": "Agorà"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Zentrum des antiken Lebens, das im Regen verlassen und melancholisch wirkt; wasserfeste Kleidung hält Sie bei der Erkundung warm.",
+                "hu": "Látogasd meg az ókori élet központját, amely esőben elhagyatottnak és melankolikusnak tűnik; a vízálló ruházat segít melegen maradni a felfedezés közben.",
+                "ro": "Vizitați centrul vieții antice, care pare abandonat și melancolic pe ploaie; îmbrăcămintea impermeabilă vă va menține uscat în timpul explorării.",
+                "en": "Visit the center of ancient life, which feels deserted and melancholic in the rain; waterproof clothing will keep you warm during the exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di Demetra",
+                "hu": "Tempio di Demetra",
+                "ro": "Tempio di Demetra",
+                "en": "Tempio di Demetra"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fundamente des Tempels, während das Wasser die antiken Steine glänzen lässt; halten Sie Ausschau nach kleinen überdachten Infotafeln.",
+                "hu": "Nézd meg a templom alapjait, miközben a víz megcsillantja az ősi köveket; keresd a kis fedett információs táblákat, hogy szárazon olvashass a múltról.",
+                "ro": "Observați fundațiile templului în timp ce apa face pietrele antice să strălucească; căutați micile panouri informative acoperite pentru a rămâne uscat.",
+                "en": "Observe the temple foundations as the water makes the ancient stones glisten; look for small covered info boards to stay dry while reading history."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Eloro",
+                "hu": "Spiaggia di Eloro",
+                "ro": "Spiaggia di Eloro",
+                "en": "Spiaggia di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der Küste vom Rand des Strandes aus; meiden Sie den direkten Sandbereich, da dieser bei Regen sehr instabil sein kann.",
+                "hu": "Élvezd a partvidék nyers szépségét a strand széléről; kerüld a közvetlen homokos részt, mert az esőben süppedőssé és instabillá válhat.",
+                "ro": "Bucurați-vă de frumusețea brută a coastei de la marginea plajei; evitați zona cu nisip direct, deoarece poate fi instabilă și foarte moale pe ploaie.",
+                "en": "Enjoy the raw beauty of the coastline from the edge of the beach; avoid the direct sandy area as it can be unstable and very soft in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar bei den Latomie di Eloro. Mittags wärmt die tiefstehende Sonne die Steine der Porta Nord und der antiken Stadt. Am Nachmittag spazieren wir durch die Agorà zum Demeter-Tempel, wobei das goldene Winterlicht die Ruinen verzaubert. Um 17:00 Uhr geht die Sonne über dem Strand von Eloro unter und hinterlässt eine kühle, friedliche Stille.",
+            "hu": "A téli reggel friss és tiszta a Latomie di Eloro kőfejtőinél. Délben az alacsonyan járó nap melegíti Porta Nord és az ókori város köveit. Délután az Agorà és Demeter temploma felé sétálunk, miközben az aranyló téli fények megvilágítják a romokat. Délután 5-kor a nap már lebukik az Eloro strand felett, hűvös és békés csendet hagyva maga után.",
+            "ro": "Dimineața de iarnă este proaspătă și senină la Latomie di Eloro. La prânz, soarele blând încălzește pietrele de la Porta Nord și din orașul antic. După-amiaza ne plimbăm prin Agorà spre Templul Demetrei, în timp ce lumina aurie de iarnă scaldă ruinele. La ora 17:00, soarele apune deja peste plaja Eloro, lăsând în urmă o liniște răcoroasă și pașnică.",
+            "en": "The winter morning is crisp and clear at Latomie di Eloro. At noon, the low sun warms the stones of Porta Nord and the ancient city. In the afternoon, we stroll through the Agorà to the Temple of Demeter, as golden winter light enchants the ruins. By 17:00, the sun sets over Eloro Beach, leaving behind a cool, peaceful silence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Latomie di Eloro",
+                "hu": "Latomie di Eloro",
+                "ro": "Latomie di Eloro",
+                "en": "Latomie di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die geschützten Bereiche der Steinbrüche, die oft wärmer als die offene Küste sind; eine leichte Mütze schützt vor dem kühlen Morgenwind.",
+                "hu": "Fedezd fel a kőfejtők védettebb részeit, amelyek gyakran melegebbek a nyílt partnál; egy könnyű sapka jól jöhet a hűvös reggeli szél ellen.",
+                "ro": "Explorați zonele protejate ale carierelor, care sunt adesea mai calde decât coasta deschisă; o căciulă ușoară vă va proteja de vântul rece de dimineață.",
+                "en": "Explore the sheltered areas of the quarries, which are often warmer than the open coast; a light beanie will protect you from the chilly morning wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Nord",
+                "hu": "Porta Nord",
+                "ro": "Porta Nord",
+                "en": "Porta Nord"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Nordtor im klaren Winterlicht; tragen Sie Schichten, da die Temperatur sinkt, sobald die Sonne hinter den Mauern verschwindet.",
+                "hu": "Csodáld meg az északi kaput a tiszta téli fényben; öltözz rétegesen, mert a hőmérséklet gyorsan esik, amint a nap a falak mögé kerül.",
+                "ro": "Admirați poarta de nord în lumina clară de iarnă; purtați straturi de haine, deoarece temperatura scade rapid odată ce soarele dispare după ziduri.",
+                "en": "Admire the northern gate in the clear winter light; wear layers as the temperature drops quickly once the sun moves behind the stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Città di Eloro",
+                "hu": "Città di Eloro",
+                "ro": "Città di Eloro",
+                "en": "Città di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der menschenleeren Stadtruinen; die Wintersonne steht ideal für Fotos der archäologischen Details ohne harte Schatten.",
+                "hu": "Élvezd az elhagyatott városromok nyugalmát; a téli nap állása ideális a régészeti részletek fotózásához, elkerülve az erős árnyékokat.",
+                "ro": "Bucurați-vă de liniștea ruinelor orașului pustiu; soarele de iarnă este ideal pentru fotografierea detaliilor arheologice fără umbre dure.",
+                "en": "Enjoy the peace of the deserted city ruins; the winter sun's position is ideal for photographing archaeological details without harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Agorà",
+                "hu": "Agorà",
+                "ro": "Agorà",
+                "en": "Agorà"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über den weiten Platz und spüren Sie die milde Wintersonne; bringen Sie eine Thermoskanne mit einem warmen Getränk für eine Pause mit.",
+                "hu": "Sétálj át a tágas téren és élvezd az enyhe téli napsütést; vigyél magaddal termoszt meleg teával a romok közötti pihenőhöz.",
+                "ro": "Plimbați-vă prin piața largă și simțiți soarele blând de iarnă; aduceți un termos cu o băutură caldă pentru o pauză relaxantă printre ruine.",
+                "en": "Stroll across the wide square and feel the mild winter sun; bring a thermos with a warm drink for a cozy break among the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di Demetra",
+                "hu": "Tempio di Demetra",
+                "ro": "Tempio di Demetra",
+                "en": "Tempio di Demetra"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Tempel im sanften Nachmittagslicht; Handschuhe sind ratsam, wenn Sie die kühlen Steine der antiken Strukturen berühren möchten.",
+                "hu": "Nézd meg a templomot a lágy délutáni fényben; a kesztyű ajánlott, ha meg szeretnéd érinteni az antik struktúrák hűvös köveit.",
+                "ro": "Observați templul în lumina caldă a după-amiezii; mănușile sunt recomandate dacă doriți să atingeți pietrele reci ale structurilor antice.",
+                "en": "Observe the temple in the soft afternoon light; gloves are advisable if you wish to touch the cool stones of the ancient structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Eloro",
+                "hu": "Spiaggia di Eloro",
+                "ro": "Spiaggia di Eloro",
+                "en": "Spiaggia di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; eine winddichte Jacke ist am offenen Meer im Winter absolut notwendig.",
+                "hu": "Figyeld meg a korai naplementét 17 óra körül; egy szélálló dzseki a nyílt tengerparton télen elengedhetetlen a komfortérzethez.",
+                "ro": "Urmăriți apusul devreme, în jurul orei 17:00; o jachetă rezistentă la vânt este absolut necesară pe malul mării în timpul iernii.",
+                "en": "Watch the early sunset around 17:00; a windproof jacket is absolutely necessary by the open sea in winter to stay comfortable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpározzon ki korán a Scogliera Bianca drámai fehér szikláihoz, majd tekerjen be a titokzatos Colonna Pizzutához. Délben érkezik Eloro kiterjedt romjaihoz, ahol az Északi kapu környékén kerekezhet. Délután fedezze fel a robusztus Déli kapu védműveit. Az estéje a Spiaggia di Marianelli vad, eldugott szépségével jutalmazza meg, ahol csodás naplementében gyönyörködhet.",
         "ro": "Pedalați devreme către stâncile albe dramatice de la Scogliera Bianca înainte de a merge spre misterioasa Colonna Pizzuta. La prânz ajungeți la ruinele extinse din Eloro, vizitând Poarta de Nord. După-amiaza, explorați apărarea robustă a Porții de Sud. Seara vă răsplătește efortul cu frumusețea sălbatică și retrasă a plajei Spiaggia di Marianelli în lumina apusului de soare.",
         "en": "Pedal out early to the dramatic white cliffs of Scogliera Bianca before rolling inland to the mysterious Colonna Pizzuta. Midday brings you to the extensive ruins of Eloro, where you can cycle between the North Gate and the ancient city paths. In the afternoon, explore the robust Southern Gate defenses. Your evening rewards you with the wild, secluded beauty of Spiaggia di Marianelli."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Scogliera Bianca, wo der Regen das Weiß der Felsen verstärkt. Wir fahren vorsichtig zur Colonna Pizzuta und zur Porta Nord, wobei wir auf rutschige Wege achten. Mittags erkunden wir die Città di Eloro und die Porta Sud unter grauem Himmel. Die Tour endet an der Spiaggia di Marianelli, wo der Regen sanft auf den Sand und das Meer prasselt.",
+            "hu": "A nap a Scogliera Biancánál indul, ahol az eső még fehérebbé teszi a sziklákat. Óvatosan tekerünk a Colonna Pizzuta és a Porta Nord felé, figyelve a csúszós szakaszokra. Délben Eloro városát és a Porta Sudot látogatjuk meg a szürke ég alatt. A túra a Spiaggia di Marianellinél ér véget, ahol az eső halkan kopog a homokon és a tenger felszínén.",
+            "ro": "Ziua începe la Scogliera Bianca, unde ploaia intensifică albul stâncilor. Pedalăm cu atenție spre Colonna Pizzuta și Porta Nord, evitând porțiunile alunecoase. La prânz explorăm orașul Eloro și Porta Sud sub un cer gri. Turul se încheie la Spiaggia di Marianelli, unde ploaia cade ușor peste nisip și peste suprafața mării.",
+            "en": "The day starts at Scogliera Bianca, where the rain intensifies the white of the cliffs. We cycle carefully to Colonna Pizzuta and Porta Nord, watching for slippery paths. At noon, we explore the City of Eloro and Porta Sud under a grey sky. The tour ends at Marianelli Beach, where the rain taps gently on the sand and the sea's surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scogliera Bianca",
+                "hu": "Scogliera Bianca",
+                "ro": "Scogliera Bianca",
+                "en": "Scogliera Bianca"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die glänzenden weißen Felsen im Regen; parken Sie Ihr Fahrrad auf festem Untergrund, da der Boden in Ufernähe schlammig sein kann.",
+                "hu": "Csodáld meg a csillogó fehér sziklákat az esőben; parkolj a bringával szilárd talajon, mert a partmenti föld nagyon sárossá válhat.",
+                "ro": "Admirați stâncile albe strălucitoare pe ploaie; parcați bicicleta pe teren solid, deoarece pământul de lângă țărm poate deveni foarte noroios.",
+                "en": "Admire the glistening white cliffs in the rain; park your bike on firm ground as the soil near the shore can become very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Colonna Pizzuta",
+                "hu": "Colonna Pizzuta",
+                "ro": "Colonna Pizzuta",
+                "en": "Colonna Pizzuta"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das antike Denkmal unter dem wolkenverhangenen Himmel; bremsen Sie auf den Zufahrtswegen frühzeitig, da nasse Schotterwege tückisch sind.",
+                "hu": "Nézd meg az ókori emlékművet a felhős égbolt alatt; a vizes murvás utakon fékezz korábban, mert a kerekek könnyen megcsúszhatnak.",
+                "ro": "Observați monumentul antic sub cerul înnorat; frânați din timp pe drumurile de acces, deoarece pietrișul umed poate fi foarte înșelător.",
+                "en": "Observe the ancient monument under the cloudy sky; brake early on the access paths as wet gravel can be very treacherous for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Nord",
+                "hu": "Porta Nord",
+                "ro": "Porta Nord",
+                "en": "Porta Nord"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Nordtor für eine kurze Regenpause; prüfen Sie Ihre Beleuchtung, da die Sichtverhältnisse bei Regen an der Küste stark abnehmen.",
+                "hu": "Használd az északi kaput egy rövid pihenőre az eső elől; ellenőrizd a lámpáidat, mert a látási viszonyok jelentősen romolhatnak a parton.",
+                "ro": "Folosiți poarta de nord pentru o scurtă pauză de ploaie; verificați luminile bicicletei, deoarece vizibilitatea pe coastă scade mult pe ploaie.",
+                "en": "Use the northern gate for a short break from the rain; check your bike lights as visibility on the coast decreases significantly during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Città di Eloro",
+                "hu": "Città di Eloro",
+                "ro": "Città di Eloro",
+                "en": "Città di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinenstadt, während das Wasser durch die alten Rinnen fließt; wasserfeste Überschuhe halten Ihre Füße beim Treten trocken.",
+                "hu": "Fedezd fel a romvárost, miközben a víz az ősi csatornákban folyik; a vízálló kamásli segít szárazon tartani a lábadat tekerés közben.",
+                "ro": "Explorați orașul în timp ce apa curge prin vechile jgheaburi; husele impermeabile pentru încălțăminte vă vor menține picioarele uscate.",
+                "en": "Explore the ruins while water flows through ancient channels; waterproof shoe covers will help keep your feet dry while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Sud",
+                "hu": "Porta Sud",
+                "ro": "Porta Sud",
+                "en": "Porta Sud"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Südtor und die umliegenden Mauern; achten Sie beim Wiederaufsteigen auf nasse Pedale, um ein Abrutschen zu vermeiden.",
+                "hu": "Nézd meg a déli kaput és a környező falakat; felszálláskor ügyelj a vizes pedálokra, hogy elkerüld a lábad megcsúszását.",
+                "ro": "Observați poarta de sud și zidurile din jur; aveți grijă la pedalele umede când urcați pe bicicletă pentru a evita alunecarea piciorului.",
+                "en": "Observe the southern gate and surrounding walls; be careful with wet pedals when getting back on your bike to avoid your foot slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Marianelli",
+                "hu": "Spiaggia di Marianelli",
+                "ro": "Spiaggia di Marianelli",
+                "en": "Spiaggia di Marianelli"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Strandes im Regen; trocknen Sie Ihre Fahrradkette nach der Tour ab, um Korrosion durch das Salzwasser zu verhindern.",
+                "hu": "Élvezd a strand magányát az esőben; a túra után töröld szárazra a bringaláncot, hogy megelőzd a sós pára okozta korróziót.",
+                "ro": "Bucurați-vă de singurătatea plajei pe ploaie; ștergeți lanțul bicicletei după tur pentru a preveni coroziunea cauzată de aerul sărat.",
+                "en": "Enjoy the solitude of the beach in the rain; wipe down your bike chain after the tour to prevent corrosion from the salty coastal air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch an der Scogliera Bianca. Wir fahren zur Colonna Pizzuta und zur Porta Nord, wobei uns eine kühle Brise begleitet. Mittags erkunden wir die Città di Eloro und die Porta Sud in der milden Mittagssonne. Die Tour endet frühzeitig an der Spiaggia di Marianelli, bevor die Dämmerung gegen 17:00 Uhr die Küste in kühles Blau taucht.",
+            "hu": "A téli kerékpártúra frissen indul a Scogliera Biancánál. A Colonna Pizzuta és a Porta Nord felé tekerünk, miközben hűvös szellő kísér minket. Délben Eloro városát és a Porta Sudot fedezzük fel az enyhe napsütésben. A túra korán ér véget a Marianelli strandnál, mielőtt a szürkület 17 óra körül kékbe vonná a partot.",
+            "ro": "Turul cu bicicleta începe revigorant la Scogliera Bianca. Pedalăm spre Colonna Pizzuta și Porta Nord însoțiți de o briză răcoroasă. La prânz explorăm orașul Eloro și Porta Sud sub soarele blând. Turul se încheie devreme la plaja Marianelli, înainte ca amurgul de la ora 17:00 să scalde coasta în nuanțe reci.",
+            "en": "The winter bike tour starts freshly at Scogliera Bianca. We cycle to Colonna Pizzuta and Porta Nord accompanied by a cool breeze. At noon, we explore the City of Eloro and Porta Sud in the mild midday sun. The tour ends early at Marianelli Beach before the 17:00 twilight bathes the coast in cool blue tones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scogliera Bianca",
+                "hu": "Scogliera Bianca",
+                "ro": "Scogliera Bianca",
+                "en": "Scogliera Bianca"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die weißen Klippen ohne die Sommerhitze; tragen Sie winddichte Handschuhe, um Ihre Hände beim Fahren vor dem kalten Fahrtwind zu schützen.",
+                "hu": "Éld át a fehér sziklák látványát a nyári hőség nélkül; viselj szélálló kesztyűt, hogy megvédd a kezedet a hideg menetszéltől tekerés közben.",
+                "ro": "Experimentați stâncile albe fără căldura verii; purtați mănuși rezistente la vânt pentru a vă proteja mâinile de aerul rece în timpul mersului.",
+                "en": "Experience the white cliffs without the summer heat; wear windproof gloves to protect your hands from the cold air while riding your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Colonna Pizzuta",
+                "hu": "Colonna Pizzuta",
+                "ro": "Colonna Pizzuta",
+                "en": "Colonna Pizzuta"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die monumentale Säule im klaren Winterhimmel; achten Sie auf tiefstehende Sonne, die Sie beim Fahren blenden kann.",
+                "hu": "Nézd meg a monumentális oszlopot a tiszta téli égbolt alatt; ügyelj az alacsonyan járó napra, amely könnyen elvakíthat tekerés közben.",
+                "ro": "Vizitați coloana monumentală sub cerul senin de iarnă; atenție la soarele care strălucește jos, deoarece vă poate orbi în timpul mersului.",
+                "en": "Visit the monumental column under the clear winter sky; be aware of the low sun, as its glare can be quite strong while you are cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Nord",
+                "hu": "Porta Nord",
+                "ro": "Porta Nord",
+                "en": "Porta Nord"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Stadttor in der frischen Winterluft; eine Thermoskanne mit warmem Tee im Flaschenhalter ist eine Wohltat für eine kurze Pause.",
+                "hu": "Fedezd fel a városkaput a friss téli levegőn; egy kulacsba töltött meleg tea a tartóban igazi áldás egy rövid pihenő alatt.",
+                "ro": "Explorați poarta orașului în aerul proaspăt de iarnă; un termos cu ceai cald în suportul de bidon este binevenit pentru o scurtă pauză.",
+                "en": "Explore the city gate in the fresh winter air; a thermos with warm tea in your bottle cage is a great comfort during a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Città di Eloro",
+                "hu": "Città di Eloro",
+                "ro": "Città di Eloro",
+                "en": "Città di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Durchqueren Sie die Ruinen, die im Winter friedlich wirken; parken Sie Ihr Rad am Eingang und machen Sie einen kurzen Spaziergang zum Aufwärmen.",
+                "hu": "Haladj át a romokon, amelyek télen rendkívül békések; parkolj le a bejáratnál és tegyél egy rövid sétát, hogy átmozgasd és felmelegítsd magad.",
+                "ro": "Traversați ruinele care par foarte pașnice iarna; lăsați bicicleta la intrare și faceți o scurtă plimbare pentru a vă încălzi picioarele.",
+                "en": "Go through the ruins, which feel very peaceful in winter; park your bike at the entrance and take a short walk to warm up your muscles."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Sud",
+                "hu": "Porta Sud",
+                "ro": "Porta Sud",
+                "en": "Porta Sud"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Südtor im sanften Winterlicht; ziehen Sie eine zusätzliche Schicht an, bevor Sie zur Küste hinunterfahren.",
+                "hu": "Nézd meg a déli kaput a lágy téli fényben; vegyél fel egy plusz réteget, mielőtt továbbgurulsz a part felé a hűvösebb szélben.",
+                "ro": "Observați poarta de sud în lumina blândă de iarnă; puneți un strat suplimentar de haine înainte de a coborî spre coastă.",
+                "en": "Observe the southern gate in the soft winter light; put on an extra layer of clothing before heading down towards the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Marianelli",
+                "hu": "Spiaggia di Marianelli",
+                "ro": "Spiaggia di Marianelli",
+                "en": "Spiaggia di Marianelli"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer bei kühleren Temperaturen; stellen Sie sicher, dass Sie vor 17:00 Uhr zurückfahren, um nicht in die Dunkelheit zu kommen.",
+                "hu": "Csodáld meg a tengert a hűvösebb időben; ügyelj rá, hogy 17 óra előtt elindulj vissza, hogy ne érjen utol a sötétség az úton.",
+                "ro": "Admirați marea la temperaturi mai scăzute; asigurați-vă că porniți înapoi înainte de ora 17:00 pentru a nu vă prinde întunericul pe drum.",
+                "en": "Admire the sea in the cooler temperatures; make sure to head back before 17:00 to avoid being caught by the early darkness on the path."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen először a lenyűgöző Scogliera Biancához, majd induljon beljebb a Colonna Pizzuta emlékműhöz. Délben parkoljon le a régészeti park közelében, hogy felfedezze a nekropoliszt és a Città di Eloro romjait. A délután egy elgondolkodtató sétára csábít a Demeter-templomon keresztül. Zárja a napot egy rövid autózással a csendes Spiaggia di Marianelli partjához.",
         "ro": "Conduceți mai întâi la uimitoarea Scogliera Bianca pentru vederi de coastă, apoi mergeți spre monumentul Colonna Pizzuta. La prânz, parcați lângă parcul arheologic pentru a explora necropola antică și ruinele din Città di Eloro. După-amiaza vă invită la o plimbare prin Templul lui Demeter. Încheiați ziua conducând spre liniștita plajă Spiaggia di Marianelli.",
         "en": "Drive first to the stunning Scogliera Bianca for majestic coastal views, then head slightly inland to view the Colonna Pizzuta monument. At midday, park near the archaeological park to explore the ancient necropolis and the expansive central ruins of Città di Eloro. Afternoon invites a thoughtful stroll through the Temple of Demeter. End the day driving down to the quiet Spiaggia di Marianelli."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im Auto an der Scogliera Bianca, während der Regen gegen die Scheiben trommelt. Über die Colonna Pizzuta fahren wir zur Necropoli A di Eloro, wo wir kurze Gänge zwischen den Regenschauern machen. Mittags besuchen wir die Città di Eloro und den Demeter-Tempel. Der Tag endet an der Spiaggia di Marianelli mit Blick auf das stürmische Meer aus dem warmen Wagen.",
+            "hu": "Kényelmesen, autóval indulunk a Scogliera Biancánál, miközben az eső a szélvédőn kopog. A Colonna Pizzután keresztül hajtunk a Necropoli A di Eloro felé, rövid sétákat téve a záporok között. Délben Eloro városát és Demeter templomát látogatjuk meg. A nap a Marianelli strandnál ér véget, ahonnan a meleg autóból figyeljük a viharos tengert.",
+            "ro": "Începem confortabil cu mașina la Scogliera Bianca, în timp ce ploaia bate în parbriz. Conducem spre Colonna Pizzuta și Necropoli A di Eloro, făcând scurte plimbări între reprizele de ploaie. La prânz vizităm orașul Eloro și Templul Demetrei. Ziua se încheie la plaja Marianelli, admirând marea agitată din confortul mașinii.",
+            "en": "We start comfortably by car at Scogliera Bianca while the rain drums on the windshield. We drive via Colonna Pizzuta to Necropoli A di Eloro, taking short walks between rain showers. At noon, we visit the City of Eloro and the Temple of Demeter. The day ends at Marianelli Beach, watching the stormy sea from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scogliera Bianca",
+                "hu": "Scogliera Bianca",
+                "ro": "Scogliera Bianca",
+                "en": "Scogliera Bianca"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die weißen Klippen direkt vom Parkplatz aus; halten Sie Ihren Regenschirm im Auto griffbereit für den kurzen Weg zum Aussichtspunkt.",
+                "hu": "Nézd meg a fehér sziklákat közvetlenül a parkolóból; tartsd az esernyőt kéznél az autóban a kilátópontig tartó rövid sétához.",
+                "ro": "Observați stâncile albe direct din parcare; țineți umbrela la îndemână în mașină pentru scurta plimbare până la punctul de belvedere.",
+                "en": "Observe the white cliffs directly from the parking area; keep your umbrella handy in the car for the short walk to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Colonna Pizzuta",
+                "hu": "Colonna Pizzuta",
+                "ro": "Colonna Pizzuta",
+                "en": "Colonna Pizzuta"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp an der antiken Säule; parken Sie vorsichtig am Straßenrand, da der Boden neben dem Asphalt weich sein kann.",
+                "hu": "Tarts egy rövid pihenőt az ókori oszlopnál; parkolj óvatosan az út szélén, mert az aszfalt melletti talaj az esőben felázhat és puha lehet.",
+                "ro": "Faceți o scurtă oprire la coloana antică; parcați cu atenție pe marginea drumului, deoarece solul de lângă asfalt poate fi moale din cauza ploii.",
+                "en": "Make a quick stop at the ancient column; park carefully on the roadside as the ground next to the asphalt can be soft due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Necropoli A di Eloro",
+                "hu": "Necropoli A di Eloro",
+                "ro": "Necropoli A di Eloro",
+                "en": "Necropoli A di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Felsgräber, die im Regen eine mystische Atmosphäre ausstrahlen; wasserfeste Schuhe sind für die unbefestigten Wege unerlässlich.",
+                "hu": "Látogasd meg a sziklasírokat, amelyek az esőben misztikus hangulatot árasztanak; a vízálló cipő elengedhetetlen a ki nem épített ösvényeken.",
+                "ro": "Vizitați mormintele în stâncă, care emană o atmosferă mistică pe ploaie; încălțămintea impermeabilă este esențială pentru potecile neamenajate.",
+                "en": "Visit the rock tombs, which exude a mystical atmosphere in the rain; waterproof shoes are essential for the unpaved paths around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Città di Eloro",
+                "hu": "Città di Eloro",
+                "ro": "Città di Eloro",
+                "en": "Città di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Ruinen zwischen den Regengüssen; nutzen Sie die kurzen Regenpausen für Fotos, wenn die Steine nass glänzen.",
+                "hu": "Fedezd fel az ókori romokat a záporok közötti szünetekben; használd ki a rövid felszakadozásokat fotózásra, amikor a kövek nedvesen csillognak.",
+                "ro": "Explorați ruinele antice între reprizele de ploaie; profitați de pauzele scurte pentru fotografii când pietrele strălucesc umede.",
+                "en": "Explore the ancient ruins between rain showers; take advantage of short breaks in the weather for photos when the stones glisten with wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di Demetra",
+                "hu": "Tempio di Demetra",
+                "ro": "Tempio di Demetra",
+                "en": "Tempio di Demetra"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Tempel und kehren Sie dann schnell ins warme Auto zurück; eine Regenjacke mit Kapuze schützt Sie am besten vor Windböen.",
+                "hu": "Nézd meg a templomot, majd térj vissza gyorsan a meleg autóba; egy kapucnis esőkabát nyújtja a legjobb védelmet a széllökések ellen.",
+                "ro": "Vizitați templul și apoi întoarceți-vă rapid în mașina caldă; o jachetă de ploaie cu glugă vă va proteja cel mai bine de rafalele de vânt.",
+                "en": "Visit the temple and then return quickly to the warm car; a hooded raincoat will provide the best protection against sudden wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Marianelli",
+                "hu": "Spiaggia di Marianelli",
+                "ro": "Spiaggia di Marianelli",
+                "en": "Spiaggia di Marianelli"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen aus der Sicherheit Ihres Wagens; lassen Sie die Fenster leicht offen, um das Beschlagen der Scheiben zu verhindern.",
+                "hu": "Élvezd a hullámok látványát az autód biztonságából; hagyd résnyire nyitva az ablakot, hogy megakadályozd a szélvédő bepárásodását.",
+                "ro": "Bucurați-vă de vederea valurilor din siguranța mașinii; lăsați geamurile ușor întredeschise pentru a preveni aburirea parbrizului.",
+                "en": "Enjoy the view of the waves from the safety of your car; keep the windows slightly cracked to prevent the windshield from fogging up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour beginnt bei strahlendem, aber kühlem Wetter an der Scogliera Bianca. Wir fahren bequem zur Colonna Pizzuta und zur Necropoli A di Eloro, wobei die Heizung für Wohlbefinden sorgt. Mittags besuchen wir die Città di Eloro und den Demeter-Tempel in der klaren Winterluft. Der Tag endet mit einem goldenen Sonnenuntergang an der Spiaggia di Marianelli gegen 17:00 Uhr.",
+            "hu": "A téli autós kirándulás ragyogó, de hűvös időben indul a Scogliera Biancánál. Kényelmesen hajtunk a Colonna Pizzuta és a Necropoli A di Eloro felé, miközben a fűtés biztosítja a komfortot. Délben Eloro városát és Demeter templomát keressük fel a tiszta téli levegőben. A nap aranyló naplementével zárul a Marianelli strandnál 17 óra körül.",
+            "ro": "Excursia de iarnă cu mașina începe pe o vreme strălucitoare, dar răcoroasă, la Scogliera Bianca. Conducem confortabil spre Colonna Pizzuta și Necropoli A di Eloro, cu căldura pornită în mașină. La prânz vizităm orașul Eloro și Templul Demetrei în aerul clar de iarnă. Ziua se încheie cu un apus auriu la plaja Marianelli în jurul orei 17:00.",
+            "en": "The winter car trip starts in bright but cool weather at Scogliera Bianca. We drive comfortably to Colonna Pizzuta and Necropoli A di Eloro with the car heater on. At noon, we visit the City of Eloro and the Temple of Demeter in the clear winter air. The day ends with a golden sunset at Marianelli Beach around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scogliera Bianca",
+                "hu": "Scogliera Bianca",
+                "ro": "Scogliera Bianca",
+                "en": "Scogliera Bianca"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die weißen Klippen im tiefstehenden Winterlicht; nutzen Sie den Parkplatz als windgeschützten Aussichtspunkt für Panoramafotos.",
+                "hu": "Csodáld meg a fehér sziklákat az alacsonyan járó téli napfényben; használd a parkolót szélvédett kilátóként a panorámafotókhoz.",
+                "ro": "Admirați stâncile albe în lumina joasă a soarelui de iarnă; folosiți parcarea ca punct de belvedere protejat de vânt pentru fotografii panoramice.",
+                "en": "Admire the white cliffs in the low winter light; use the parking area as a wind-sheltered viewpoint for great panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Colonna Pizzuta",
+                "hu": "Colonna Pizzuta",
+                "ro": "Colonna Pizzuta",
+                "en": "Colonna Pizzuta"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto der einsamen Säule; die Winterluft macht die Sicht auf die Umgebung besonders klar und weitreichend.",
+                "hu": "Állj meg egy rövid fotóra a magányos oszlopnál; a téli levegő különösen tisztává és messzire hatóvá teszi a kilátást a környékre.",
+                "ro": "Opriți-vă scurt pentru o fotografie cu coloana solitară; aerul de iarnă face vizibilitatea asupra împrejurimilor deosebit de clară și vastă.",
+                "en": "Stop briefly for a photo of the lonely column; the winter air makes the visibility of the surroundings particularly clear and far-reaching."
+              }
+            },
+            {
+              "name": {
+                "de": "Necropoli A di Eloro",
+                "hu": "Necropoli A di Eloro",
+                "ro": "Necropoli A di Eloro",
+                "en": "Necropoli A di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Gräber ohne die Touristenströme; ziehen Sie eine warme Jacke an, bevor Sie das Auto für den Rundgang verlassen.",
+                "hu": "Fedezd fel az ókori sírokat a turistaáradat nélkül; vegyél fel egy meleg kabátot, mielőtt kiszállnál az autóból a körsétához.",
+                "ro": "Explorați mormintele antice fără mulțimile de turiști; puneți-vă o jachetă groasă înainte de a coborî din mașină pentru vizitare.",
+                "en": "Explore the ancient tombs without the usual tourist crowds; put on a warm jacket before leaving the car for the walking tour of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Città di Eloro",
+                "hu": "Città di Eloro",
+                "ro": "Città di Eloro",
+                "en": "Città di Eloro"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Ruinenstadt im milden Sonnenschein; die Wege sind im Winter meist trocken und sehr angenehm zu begehen.",
+                "hu": "Sétálj végig a romvároson az enyhe napsütésben; az ösvények télen többnyire szárazak és nagyon kellemesen járhatóak.",
+                "ro": "Plimbați-vă prin orașul ruinat sub soarele blând; potecile sunt în mare parte uscate iarna și foarte plăcute pentru mers la pas.",
+                "en": "Stroll through the ruined city in the mild sunshine; the paths are mostly dry in winter and very pleasant for walking at a relaxed pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di Demetra",
+                "hu": "Tempio di Demetra",
+                "ro": "Tempio di Demetra",
+                "en": "Tempio di Demetra"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Tempelüberreste im goldenen Licht des Nachmittags; die kühle Luft lässt die antike Architektur besonders plastisch wirken.",
+                "hu": "Nézd meg a templom maradványait az aranyló délutáni fényben; a hűvös levegőben az antik építészet különösen plasztikusnak tűnik.",
+                "ro": "Observați rămășițele templului în lumina aurie a după-amiezii; aerul rece face ca arhitectura antică să pară deosebit de reliefată.",
+                "en": "Observe the temple remains in the golden afternoon light; the cool air makes the ancient architecture appear particularly well-defined."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Marianelli",
+                "hu": "Spiaggia di Marianelli",
+                "ro": "Spiaggia di Marianelli",
+                "en": "Spiaggia di Marianelli"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Wintersonnenuntergang gegen 17:00 Uhr; bringen Sie eine Decke mit, um den Moment gemütlich am Meer zu verbringen.",
+                "hu": "Élvezd a téli naplementét 17 óra körül; vigyél magaddal egy pokrócot, hogy kényelmesen tölthesd el ezt a pillanatot a tengerparton.",
+                "ro": "Bucurați-vă de apusul de iarnă în jurul orei 17:00; aduceți o pătură pentru a petrece acest moment în mod confortabil pe malul mării.",
+                "en": "Enjoy the winter sunset around 17:00; bring a blanket with you to spend this moment comfortably and warmly by the seashore."
+              }
+            }
+          ]
+        }
       }
     }
   }
